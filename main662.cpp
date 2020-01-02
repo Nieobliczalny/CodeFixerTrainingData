@@ -22,7 +22,7 @@ int main(void) {
   int  U7n1F9iTU;
   U7n1F9iTU  =  0;
 	unsigned char	Ujv_z1iaL;
-	Ujv_z1iaL	=	-843192692;
+	Ujv_z1iaL	=	(unsigned char)-843192692;
  long double gJUWz3nU;
  gJUWz3nU = -991394612;
 	unsigned char	VL3u;
@@ -32,7 +32,7 @@ int main(void) {
  char Ern16;
  Ern16 = -921557947;
  unsigned short qL57XP;
- qL57XP = -185075435;
+ qL57XP = (unsigned short)-185075435;
  unsigned long long v7o5;
  v7o5 = -1509599604;
  unsigned short vfz9q862;
@@ -42,7 +42,7 @@ int main(void) {
 	unsigned long	DEElLs;
 	DEElLs	=	821180596;
  unsigned short int KpyA;
- KpyA = 1802887201;
+ KpyA = (unsigned short)1802887201;
   short int  ie0xgJf;
   ie0xgJf  =  -565567544;
 
@@ -58,7 +58,7 @@ cout << Y1OPqFn78() << endl;
 }
 else if (VL3u != 328093915)
 {
-cout << gJUWz3nU << KpyA << "MGdvej" << QCJq(-1355097673, 1179547718, vfz9q862, VL3u, -149754542) << endl;
+cout << gJUWz3nU << KpyA << "MGdvej" << QCJq(-1355097673, (short)1179547718, vfz9q862, VL3u, -149754542) << endl;
 }
 else if (DEElLs < -1958875356)
 {
@@ -96,7 +96,7 @@ Ujv_z1iaL = Y1OPqFn78();
 }
 else if (XuRi & 156180065)
 {
-AaP26v2o = QCJq(XuRi, 83091488, vfz9q862, (unsigned short)-628810232, 519289631);
+AaP26v2o = QCJq(XuRi, (short)83091488, vfz9q862, (unsigned short)-628810232, 519289631);
 }
 else
 {
@@ -109,7 +109,7 @@ else
 switch (XuRi)
 {
 case 0:
-AaP26v2o = QCJq(Ern16, -1362133654, -506036997, (unsigned short)212177287, -662631687);
+AaP26v2o = QCJq(Ern16, (short)-1362133654, -506036997, (unsigned short)212177287, -662631687);
 break;
 case 1:
 dEixD1s7 >>= v7o5;
@@ -124,7 +124,7 @@ case 4:
 Ujv_z1iaL ^= v7o5;
 break;
 case 5:
-AaP26v2o = QCJq(470274921, 941065091, Ern16, gJUWz3nU, (unsigned char)-1599138061);
+AaP26v2o = QCJq(470274921, (short)941065091, Ern16, gJUWz3nU, (unsigned char)-1599138061);
 break;
 case 6:
 vfz9q862 = KpyA & 1426764554;
@@ -139,7 +139,7 @@ break;
 }
 qL57XP = Y1OPqFn78();
 
-if ((-2097729915 / QCJq(qL57XP, -2024640443, v7o5, (unsigned short)1504679902, dEixD1s7)) < -716316674)
+if ((-2097729915 / QCJq(qL57XP, (short)-2024640443, v7o5, (unsigned short)1504679902, dEixD1s7)) < -716316674)
 {
 AaP26v2o = (int)abs(ie0xgJf) * 0;
 }
@@ -157,7 +157,7 @@ case 'a':
 dEixD1s7 = Y1OPqFn78();
 break;
 case 'b':
-AaP26v2o = QCJq(AaP26v2o, -175347304, ie0xgJf, dEixD1s7, (unsigned char)201868268);
+AaP26v2o = QCJq(AaP26v2o, (short)-175347304, ie0xgJf, dEixD1s7, (unsigned char)201868268);
 break;
 case 'c':
 XuRi = (int)abs(AaP26v2o) + (-848529218);

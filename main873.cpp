@@ -12,7 +12,7 @@ using namespace std;
 
 unsigned char eZ4iP(unsigned int Sg0T)
 {
- return 658792478;
+ return (unsigned char)658792478;
 }
 
 long  s6fHrd1(short int  dq5jCaS06q,long long  w908851z,int  pIzO_2s8A)
@@ -32,7 +32,7 @@ int main()
 
 try
 {
-BZy8 = iSypWkKVH(-641772649);
+BZy8 = iSypWkKVH((unsigned short)-641772649);
 }
 catch (int& errorCode)
 {
@@ -56,7 +56,7 @@ while (k < 7);
 switch (o0UoB)
 {
 case 'a':
-HdaC5S_8Y = iSypWkKVH(525998778);
+HdaC5S_8Y = iSypWkKVH((unsigned short)525998778);
 break;
 case 'b':
 xYoo = iSypWkKVH(xYoo);
@@ -68,7 +68,7 @@ case 'd':
 nxMkjISD9 = iSypWkKVH(nxMkjISD9);
 break;
 case 'e':
-ccyc64g = iSypWkKVH(9926690);
+ccyc64g = iSypWkKVH((unsigned short)9926690);
 break;
 case 'f':
 uP9PgR1 = HdaC5S_8Y / 879520250;
@@ -135,7 +135,7 @@ case 2:
 f_poDV3 = QzrlZ2H & u7wh;
 break;
 case 3:
-Qzxigk_74p = s6fHrd1(-1958276578, E4Dl_B, B15a3);
+Qzxigk_74p = s6fHrd1((short)-1958276578, E4Dl_B, B15a3);
 break;
 default:
 lF8Y0Rlk = xb46P & 1537572479;
@@ -276,7 +276,7 @@ wBOo9 = iSypWkKVH(wBOo9);
 }
 else
 {
-Qzxigk_74p = s6fHrd1(807666985, ba5t2_pq, E5UDW_fn2);
+Qzxigk_74p = s6fHrd1((short)807666985, ba5t2_pq, E5UDW_fn2);
 }
 }
 }
@@ -314,7 +314,7 @@ try
 int k = 5;
 do
 {
-J1H1x6V = iSypWkKVH(675882736);
+J1H1x6V = iSypWkKVH((unsigned short)675882736);
 k--;
 }
 while (k >= 0);
@@ -338,7 +338,7 @@ case 'b':
 Qzxigk_74p = s6fHrd1(HzFv, QzrlZ2H, -96095434);
 break;
 case 'c':
-I9rCq86c9_ = iSypWkKVH(1792961412);
+I9rCq86c9_ = iSypWkKVH((unsigned short)1792961412);
 break;
 case 'd':
 J1H1x6V >>= UfehQ;
@@ -364,7 +364,7 @@ else
 {
 try
 {
-Qzxigk_74p = s6fHrd1(266840886, 914835581, -1676779571);
+Qzxigk_74p = s6fHrd1((short)266840886, 914835581, -1676779571);
 }
 catch (int& errorCode)
 {
@@ -381,7 +381,7 @@ OaE33oJG = M1qB8w1yL4 >> 410516498;
 
 if ((kGZOK) && (Qzxigk_74p < X06TLU))
 {
-cout << oDE8XW96 << SFN1k0 << s6fHrd1(-1102700615, 763299439, J1H1x6V) << jIM6Y2 << endl;
+cout << oDE8XW96 << SFN1k0 << s6fHrd1((short)-1102700615, 763299439, J1H1x6V) << jIM6Y2 << endl;
 }
 else
 {
@@ -394,7 +394,7 @@ int k = 9;
 do
 {
 k--;
-zb5k1 = iSypWkKVH(-1920328686);
+zb5k1 = iSypWkKVH((unsigned short)-1920328686);
 }
 while (k >= 0);
 }

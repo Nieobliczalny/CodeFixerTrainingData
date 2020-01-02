@@ -11,7 +11,7 @@ using namespace std;
 int main()
 {
  short K0Aa6f8;
- K0Aa6f8 = 860982251;
+ K0Aa6f8 = (short)860982251;
 	short int	i9SGqoQ;
 	i9SGqoQ	=	(short)1169797676;
   unsigned short  HKgOU;
@@ -29,7 +29,7 @@ int main()
 	unsigned long long	w6NGuH6M;
 	w6NGuH6M	=	-2114094300;
     unsigned short int    Brt62Z;
-    Brt62Z    =    -1387042918;
+    Brt62Z    =    (unsigned short)-1387042918;
     long long    Yty4Rl;
     Yty4Rl    =    -172768264;
 	long long	C7dP9nEQ14;
@@ -41,7 +41,7 @@ int main()
   double  D38fgd;
   D38fgd  =  1089201045;
 	short int	S9bsc2Kiv;
-	S9bsc2Kiv	=	265756621;
+	S9bsc2Kiv	=	(short)265756621;
 	long long	O_Gg;
 	O_Gg	=	1351328895;
   long double  Ngqi;
@@ -53,7 +53,7 @@ int main()
   float  W4462k7;
   W4462k7  =  -11366129;
   unsigned short int  b43B9;
-  b43B9  =  -948356180;
+  b43B9  =  (unsigned short)-948356180;
 	int	F4aye5gq;
 	F4aye5gq	=	1361714064;
   short int  dFjg7717w;
@@ -75,7 +75,7 @@ int main()
     long long    ioW928BM5o;
     ioW928BM5o    =    -1030856301;
  unsigned char S2lbo9;
- S2lbo9 = 550093503;
+ S2lbo9 = (unsigned char)550093503;
  long double rsI6_7HK;
  rsI6_7HK = 1312573335;
 	short int	O3_NQLtKMy;
@@ -85,7 +85,7 @@ int main()
     short    b37u1;
     b37u1    =    -736222919;
   unsigned char  f4_KMX_;
-  f4_KMX_  =  -1599684192;
+  f4_KMX_  =  (unsigned char)-1599684192;
     long    Q3nF;
     Q3nF    =    1565435985;
 	double	Hmi_6P;

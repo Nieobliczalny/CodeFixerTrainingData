@@ -193,7 +193,7 @@ A9a2 >>= 854172132;
 
 std::cout << qE9B0(YkhJ4tBg) << "Xf__" << Dd7j9kc6 << fOX9 << "s1P_08oW" << std::endl;
 
-TI570D2 = qE9B0(788999888);
+TI570D2 = qE9B0((short)788999888);
 for (int i = 0; i < 5; i++)
 {
 {
@@ -217,7 +217,7 @@ j++;
 switch (nDMB)
 {
 case 'a':
-e5JvZ_7E5 = qE9B0(1543280669);
+e5JvZ_7E5 = qE9B0((short)1543280669);
 break;
 default:
 hmgLs0 = IQc0kT(hmgLs0, 1616861413);
@@ -252,7 +252,7 @@ case 'd':
 ySeWe = eA4_0Ti65a();
 break;
 case 'e':
-FH7Zm = qE9B0(426535757);
+FH7Zm = qE9B0((short)426535757);
 break;
 case 'f':
 w_q_ ^= 668762528;
@@ -267,7 +267,7 @@ case 'i':
 ib8f = oJp8o5ZW7();
 break;
 case 'j':
-K_6441e = qE9B0(-615205992);
+K_6441e = qE9B0((short)-615205992);
 break;
 default:
 ySeWe = (int)abs(W9Z3);
@@ -292,7 +292,7 @@ vMtU89377 = (int)abs(xwQu4yfN41);
 }
 else if (((JKxfUy9 & ZTI9op) && (Q4b44W7bRU)) && (ehaXHyYA))
 {
-Q1g0 = qE9B0(195458274);
+Q1g0 = qE9B0((short)195458274);
 }
 else if ((JGtV4w0FT < Zov22zJXZ_) || (B467Id < wjt9IE))
 {
@@ -440,7 +440,7 @@ case 4:
 xwQu4yfN41 = (int)abs(ySeWe);
 break;
 case 5:
-Ts5hPx08d = qE9B0(1294312844);
+Ts5hPx08d = qE9B0((short)1294312844);
 break;
 case 6:
 r4R1L3 ^= mjZ_K;
@@ -545,7 +545,7 @@ return 0;
 
 unsigned short int    qE9B0(short int    mJogXY0r)
 {
-    return    1867525553;
+    return    (unsigned short)1867525553;
 }
 
 long long va4PTK(unsigned long long T3MC,unsigned int c80IqD53I,unsigned long kw3h) {
@@ -562,6 +562,6 @@ short eA4_0Ti65a() {
 
 char	oJp8o5ZW7()
 {
-	return	-1572020669;
+	return	(char)-1572020669;
 }
 

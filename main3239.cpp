@@ -52,7 +52,7 @@ else if (XEsN2QYd < fe0S)
 {
 if (WgN_ != ob1y_B)
 {
-MyL6X0 = v9yH5RX_q(280181364, -1864772972, WsM9_2f2, jBgSS, ob1y_B);
+MyL6X0 = v9yH5RX_q((short)280181364, -1864772972, WsM9_2f2, jBgSS, ob1y_B);
 }
 }
 else if (z8wG < ug8Wp)
@@ -103,7 +103,7 @@ return 0;
 
 unsigned short int    M8j55rMFB()
 {
-    return    -212801432;
+    return    (unsigned short)-212801432;
 }
 
 int	NT1wlkbH5d(unsigned long long	wpjD,long long	im27F2R2)	{

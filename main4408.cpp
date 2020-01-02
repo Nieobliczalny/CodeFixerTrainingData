@@ -16,7 +16,7 @@ int main()
 {
   long double  q297n  =  1394589666;
     long double    CGSVR    =    1024887516;
-	unsigned short int	dO4_	=	-182540217;
+	unsigned short int	dO4_	=	(unsigned short)-182540217;
   unsigned long long  fbb_7  =  1563653646;
  short CLWXCO62VP = (short)-1164530898;
  short int r1vHo4h = -1129188910;
@@ -35,7 +35,7 @@ int main()
     long long    hGC4X309    =    -827745372;
 	unsigned short int	U46M	=	0;
  long long lKfkgN = 849666403;
-	short int	Umi47Gi0	=	-1244626977;
+	short int	Umi47Gi0	=	(short)-1244626977;
     unsigned long    nGtGE    =    -548800204;
  short vh4q59B = 0;
  long double oh95Z0s57 = 172736944;

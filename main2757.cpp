@@ -13,7 +13,7 @@ int main(int argc, char** argv)
 	unsigned int	V_Jg7e39_I;
 	V_Jg7e39_I	=	0;
   char  iPoICO8a;
-  iPoICO8a  =  -1653540666;
+  iPoICO8a  =  (char)-1653540666;
 
 for (int i = 4; i >= 0; --i)
 {

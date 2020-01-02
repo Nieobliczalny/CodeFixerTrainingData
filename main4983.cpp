@@ -42,7 +42,7 @@ w0SV5 = UFQez * Vg78VKoiH;
 break;
 case 'c':
 case 'C':
-BUfee5 = NG1KkM(-858274103);
+BUfee5 = NG1KkM((char)-858274103);
 break;
 case 'd':
 case 'D':
@@ -62,7 +62,7 @@ BUfee5 = NG1KkM(BUfee5);
 break;
 case 'h':
 case 'H':
-BUfee5 = NG1KkM(-1817466930);
+BUfee5 = NG1KkM((char)-1817466930);
 break;
 case 'i':
 case 'I':
@@ -85,7 +85,7 @@ if (BUfee5 & Vg78VKoiH)
 {
 try
 {
-Tqeco1l = NG1KkM(-326041253) & w0SV5;
+Tqeco1l = NG1KkM((char)-326041253) & w0SV5;
 }
 catch (int& errorCode)
 {
@@ -96,7 +96,7 @@ else
 {
 try
 {
-w0SV5 = dsAQm(-117892388);
+w0SV5 = dsAQm((short)-117892388);
 }
 catch (int& errorCode)
 {
@@ -110,7 +110,7 @@ case 0:
 BUfee5 = NG1KkM(BUfee5);
 break;
 case 1:
-Vg78VKoiH = NG1KkM(-99798850);
+Vg78VKoiH = NG1KkM((char)-99798850);
 break;
 case 2:
 Tqeco1l = dsAQm(Tqeco1l);
@@ -163,7 +163,7 @@ w0SV5 = Tqeco1l >> 359533071;
 while (i < 1);
 }
 Vg78VKoiH = (int)abs(BUfee5);
-J_5zKI = dsAQm(-1029588891);
+J_5zKI = dsAQm((short)-1029588891);
 Tqeco1l = dsAQm(Tqeco1l);
 std::cout << dsAQm((short)-1871768334) << dsAQm(Tqeco1l) << std::endl;
 if (Vg78VKoiH >= BUfee5)
@@ -186,7 +186,7 @@ case 4:
 BUfee5 = (int)abs(Vg78VKoiH);
 break;
 case 5:
-J_5zKI = dsAQm(-1620859513);
+J_5zKI = dsAQm((short)-1620859513);
 break;
 default:
 w0SV5 = dsAQm(w0SV5);
@@ -284,7 +284,7 @@ else if (J_5zKI <= BUfee5)
 {
 if (J_5zKI == eQ28sHSxs)
 {
-w0SV5 = dsAQm(-421632460);
+w0SV5 = dsAQm((short)-421632460);
 }
 else if ((J_5zKI != BUfee5) || ((J_5zKI != Tqeco1l) || (BUfee5 <= tLGY0)))
 {
@@ -314,7 +314,7 @@ else
 {
 if ((Tqeco1l > -1905907042) && ((w0SV5 != 1494934528) || (Vg78VKoiH <= 1076234842)))
 {
-J_5zKI = dsAQm(650466393);
+J_5zKI = dsAQm((short)650466393);
 }
 }
 }
@@ -328,7 +328,7 @@ if (J_5zKI <= UFQez)
 int k = 0;
 while (k < 3)
 {
-J_5zKI = dsAQm(-1697179324);
+J_5zKI = dsAQm((short)-1697179324);
 k++;
 }
 }
@@ -390,7 +390,7 @@ case 'a':
 Vg78VKoiH = NG1KkM(w0SV5);
 break;
 case 'b':
-Vg78VKoiH = NG1KkM(-1957103292);
+Vg78VKoiH = NG1KkM((char)-1957103292);
 break;
 }
 }
@@ -415,7 +415,7 @@ else if (BUfee5 != -1365339271)
 switch (Tqeco1l)
 {
 case 'a':
-J_5zKI = dsAQm(1313046859);
+J_5zKI = dsAQm((short)1313046859);
 break;
 case 'b':
 Tqeco1l = Tqeco1l ^ J_5zKI;
@@ -472,7 +472,7 @@ for (int j = 0; j < 6; ++j)
 {
 for (int k = 4; k >= 0; --k)
 {
-Vg78VKoiH = NG1KkM(-391463752);
+Vg78VKoiH = NG1KkM((char)-391463752);
 }
 }
 }
@@ -515,7 +515,7 @@ case 'e':
 Vg78VKoiH = (int)abs(BUfee5);
 break;
 case 'f':
-J_5zKI = dsAQm(68286256);
+J_5zKI = dsAQm((short)68286256);
 break;
 case 'g':
 Tqeco1l = dsAQm(Tqeco1l);
@@ -547,7 +547,7 @@ std::cout << dsAQm(J_5zKI) << std::endl;
 }
 else if (BUfee5)
 {
-BUfee5 = NG1KkM(2100777135);
+BUfee5 = NG1KkM((char)2100777135);
 }
 else if (Tqeco1l)
 {
@@ -580,7 +580,7 @@ while (i >= 0);
 }
 try
 {
-w0SV5 = dsAQm(1608474466);
+w0SV5 = dsAQm((short)1608474466);
 }
 catch (int& errorCode)
 {

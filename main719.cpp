@@ -12,7 +12,7 @@
 
 
 short int    r_7A(long    QdzP6,unsigned long long    l_sreH9,unsigned char    zehr1,short int    BWuD5k3W,int    iJ3J8t5Wn)    {
-    return    1476146313;
+    return    (short)1476146313;
 }
 
 char  Vmg9oT2r(long  a2VHVS,long  P5Me)  {
@@ -44,7 +44,7 @@ Pv1l_7N9y--;
 
 JxNSgIp2 = (unsigned long)(PQJGh922);
 std::cout << "aU0tBKuL" << std::endl;
-lLxfy16 = r_7A(lLxfy16, Ykw4sEB, -1050027856, (short)712573511, 244130397);
+lLxfy16 = r_7A(lLxfy16, Ykw4sEB, (unsigned char)-1050027856, (short)712573511, 244130397);
 {
 int i = 1;
 while (i >= 0)
@@ -57,7 +57,7 @@ w_DNwDZ = (unsigned long)(dbmBL);
 int i = 10;
 do
 {
-std::cout << Su8NAX2878(lLxfy16, Ykw4sEB, KnlSXdMZZ) << Su8NAX2878(lLxfy16, Ykw4sEB, KnlSXdMZZ) << ZnAx44w39 << r_7A(lLxfy16, 881887394, -1416399019, (short)-1851969553, -1203968336) << "zrFWIE" << std::endl;
+std::cout << Su8NAX2878(lLxfy16, Ykw4sEB, KnlSXdMZZ) << Su8NAX2878(lLxfy16, Ykw4sEB, KnlSXdMZZ) << ZnAx44w39 << r_7A(lLxfy16, 881887394, (unsigned char)-1416399019, (short)-1851969553, -1203968336) << "zrFWIE" << std::endl;
 --i;
 }
 while (i >= 0);
@@ -123,7 +123,7 @@ case 1:
 PQJGh922--;
 break;
 case 2:
-PQJGh922 = r_7A(2142919051, ypST3, 465118395, (short)1896477416, -132705408);
+PQJGh922 = r_7A(2142919051, ypST3, (unsigned char)465118395, (short)1896477416, -132705408);
 break;
 case 3:
 P6X_Ujq = Su8NAX2878(F9136mZzaV, -2046656981, JxNSgIp2);
@@ -166,7 +166,7 @@ case 'a':
 PQJGh922 = z_Pks2(P6X_Ujq);
 break;
 case 'b':
-F9136mZzaV = r_7A(F9136mZzaV, PQJGh922, 79103681, ZnAx44w39, U8WnuHfkyx);
+F9136mZzaV = r_7A(F9136mZzaV, PQJGh922, (unsigned char)79103681, ZnAx44w39, U8WnuHfkyx);
 break;
 case 'c':
 PQJGh922 = z_Pks2(PQJGh922);
@@ -191,7 +191,7 @@ if ((U8WnuHfkyx != QfOp) || (kSi9C4 == 1007076671))
 {
 try
 {
-lLxfy16 = r_7A(lLxfy16, F9136mZzaV, -1467799269, U8WnuHfkyx, zRHOtTc3);
+lLxfy16 = r_7A(lLxfy16, F9136mZzaV, (unsigned char)-1467799269, U8WnuHfkyx, zRHOtTc3);
 }
 catch (int& errorCode)
 {
@@ -201,7 +201,7 @@ Pv1l_7N9y = r_7A(Pv1l_7N9y, -1202036374, KnlSXdMZZ, U8WnuHfkyx, ypST3);
 }
 else
 {
-P6X_Ujq = Su8NAX2878(w_DNwDZ, -1324150847, -968789968);
+P6X_Ujq = Su8NAX2878(w_DNwDZ, (unsigned char)-1324150847, -968789968);
 }
 std::cout << "K3p7vh" << ZnAx44w39 << Vmg9oT2r(w_DNwDZ, -529767635) << "iIWJ5_q" << std::endl;
 

@@ -29,7 +29,7 @@ int main(void)
 {
     long double    TVs0Y2    =    -1937919220;
 	long long	uqCLsz72v	=	-364253032;
-	unsigned char	ZYF9IjGRq6	=	-707675676;
+	unsigned char	ZYF9IjGRq6	=	(unsigned char)-707675676;
  short int oys3X80 = 0;
   float  ARrrY1_  =  -1184268389;
  float FW_08 = 1743126623;
@@ -134,7 +134,7 @@ FW_08 = (int)floor(TVs0Y2);
 }
 else if (j772rGo)
 {
-std::cout << ZYF9IjGRq6 << j772rGo << IN8xfv10Tl(-61152067, ARrrY1_) << Jkcz7((char)1986905862) << std::endl;
+std::cout << ZYF9IjGRq6 << j772rGo << IN8xfv10Tl((unsigned short)-61152067, ARrrY1_) << Jkcz7((char)1986905862) << std::endl;
 }
 else
 {
@@ -166,7 +166,7 @@ case 4:
 TVs0Y2 = (int)floor(FW_08);
 break;
 case 5:
-j772rGo = L4_Lg5SKSZ ^ 861995189;
+j772rGo = L4_Lg5SKSZ ^ (unsigned short)861995189;
 break;
 case 6:
 ARrrY1_ = HV87L61(ARrrY1_);
@@ -248,7 +248,7 @@ TVs0Y2 = (int)ceil(ARrrY1_);
 }
 else if (j772rGo <= L4_Lg5SKSZ)
 {
-ZYF9IjGRq6 = IN8xfv10Tl(1637642996, 1020727898);
+ZYF9IjGRq6 = IN8xfv10Tl((unsigned short)1637642996, 1020727898);
 }
 else
 {
@@ -271,7 +271,7 @@ for (int i = 7; i >= 0; --i)
 {
 std::cout << Jkcz7(ZYF9IjGRq6) << TS090dDd << mgm3() << "o95k_g9RNK" << ARrrY1_ << std::endl;
 }
-std::cout << j772rGo << HV87L61(-180515105) << v8RE87c_cZ(-717634288) << std::endl;
+std::cout << j772rGo << HV87L61((unsigned short)-180515105) << v8RE87c_cZ(-717634288) << std::endl;
 {
 int i = 0;
 while (i < 8)
@@ -316,7 +316,7 @@ std::cout << "CxY0YwaU93" << IN8xfv10Tl(ZYF9IjGRq6, qbZA) << "o55yLDI" << mgm3()
 }
 else
 {
-std::cout << HV87L61(-1597829562) << HV87L61(ZYF9IjGRq6) << std::endl;
+std::cout << HV87L61((unsigned short)-1597829562) << HV87L61(ZYF9IjGRq6) << std::endl;
 }
 }
 }
@@ -369,7 +369,7 @@ unsigned int    Jkcz7(char    O2aH)
 }
 
 short    HV87L61(unsigned short int    Pbz9_)    {
-    return    -657929086;
+    return    (short)-657929086;
 }
 
 int IN8xfv10Tl(unsigned short m3L2C6S,unsigned int VPOASo49) {

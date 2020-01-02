@@ -96,7 +96,7 @@ OXy0G = r690a(KqSZ0WI);
 
 try
 {
-std::cout << "uJft" << U5lv82K << yeR1S9 << y8L574Q3 << r690a(-153624800) << std::endl;
+std::cout << "uJft" << U5lv82K << yeR1S9 << y8L574Q3 << r690a((short)-153624800) << std::endl;
 }
 catch (int& errorCode)
 {
@@ -112,7 +112,7 @@ p8fHV27F = (unsigned long)(AbKm9);
 switch (p8fHV27F)
 {
 case 'a':
-L85nT1k5p3 = r690a(175239574);
+L85nT1k5p3 = r690a((short)175239574);
 break;
 case 'b':
 O6u5rh12 -= 382515464;
@@ -136,7 +136,7 @@ OXy0G = r690a(eA7Z2R_8d8);
 }
 else
 {
-OXy0G = r690a(1295862041);
+OXy0G = r690a((short)1295862041);
 }
 }
 else if ((h11pi2I > wqr1cxhS4) || (XMl9RW == RAzsT4i_7))
@@ -150,7 +150,7 @@ case 'b':
 T6fl7p ^= JpF32RDn;
 break;
 default:
-L85nT1k5p3 = r690a(1336038025);
+L85nT1k5p3 = r690a((short)1336038025);
 break;
 }
 }
@@ -164,7 +164,7 @@ while (j >= 0)
 switch (hGY4)
 {
 case 'a':
-L85nT1k5p3 = r690a(-1449654287);
+L85nT1k5p3 = r690a((short)-1449654287);
 break;
 default:
 L85nT1k5p3 = r690a((short)2067776335);
@@ -175,7 +175,7 @@ break;
 }
 else if (U5lv82K > V61C1A)
 {
-std::cout << r690a(-730132533) << BJ6Ubp_BDk << std::endl;
+std::cout << r690a((short)-730132533) << BJ6Ubp_BDk << std::endl;
 }
 else
 {
@@ -196,7 +196,7 @@ else
 int k = 0;
 while (k < 5)
 {
-OXy0G = r690a(360394600);
+OXy0G = r690a((short)360394600);
 ++k;
 }
 }
@@ -219,7 +219,7 @@ case 2:
 g2yt14 = j1PTs >> 973174032;
 break;
 default:
-L85nT1k5p3 = r690a(731799952);
+L85nT1k5p3 = r690a((short)731799952);
 break;
 }
 
@@ -232,7 +232,7 @@ if (GLmNd45f & 1370453760)
 {
 if (((XMl9RW != -1325455949) || (OXy0G <= RAzsT4i_7)) && (tjzy5912 != AbKm9))
 {
-std::cout << r690a(-260306556) << r690a(1180571479) << Ak8F << r690a(441604027) << r690a(jh09Ms249) << std::endl;
+std::cout << r690a((short)-260306556) << r690a(1180571479) << Ak8F << r690a(441604027) << r690a(jh09Ms249) << std::endl;
 }
 else if (OXy0G >= ui7L9t_9A)
 {
@@ -282,7 +282,7 @@ while (j >= 0);
 }
 }
 
-L85nT1k5p3 = r690a(-1103320694);
+L85nT1k5p3 = r690a((short)-1103320694);
 
 if (Lcp3cPV9p >= 763763119)
 {
@@ -314,7 +314,7 @@ yZAtx_0mq2 |= kDea;
 switch (p2_wsC)
 {
 case 'a':
-L85nT1k5p3 = r690a(-1036228009);
+L85nT1k5p3 = r690a((short)-1036228009);
 break;
 case 'b':
 U_U5UlB3S |= MhM_AJ;

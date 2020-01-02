@@ -37,7 +37,7 @@ Q7u21H = ePk73_L3Zg & D3xse;
 }
 }
 std::cout << sb8lrB << cFY6g6PC << OhU5m5Id_R << "n90cn5H2LW" << iRHq(K5Ef0j54) << std::endl;
-K5Ef0j54 = B_bXI(-1058459950, -385186040);
+K5Ef0j54 = B_bXI(-1058459950, (short)-385186040);
 
 R8rLf2FaY_ = K60c6(R8rLf2FaY_, (unsigned short)2017214932, 544031618, tqBeCT, koWc);
 
@@ -49,7 +49,7 @@ else if (cetN2 & -477462804)
 {
 if (x__M_3 != 1202240914)
 {
-R8rLf2FaY_ = B_bXI(-734909245, -434204594) >> 1026511560;
+R8rLf2FaY_ = B_bXI(-734909245, (short)-434204594) >> 1026511560;
 }
 else
 {
@@ -81,7 +81,7 @@ do
 int k = 2;
 while (k >= 0)
 {
-oD3Acm = A1x7HeuRji(oD3Acm, -1175785981, 1642082987);
+oD3Acm = A1x7HeuRji(oD3Acm, -1175785981, (unsigned char)1642082987);
 k--;
 }
 }
@@ -127,7 +127,7 @@ case 0:
 wqKX2j8 ^= 1272999280;
 break;
 default:
-OhU5m5Id_R = iRHq(702721838);
+OhU5m5Id_R = iRHq((unsigned char)702721838);
 break;
 }
 }
@@ -137,7 +137,7 @@ else if (cFY6g6PC <= yjW_du)
 switch (IUXbj2nUw1)
 {
 case 'a':
-koWc = (Qcg95M9q6 != -1800848165) ? A9QXS8 : 1023183743;
+koWc = (Qcg95M9q6 != -1800848165) ? A9QXS8 : (char)1023183743;
 break;
 case 'b':
 YNc2VmLzM = (int)abs(IUXbj2nUw1);
@@ -200,7 +200,7 @@ else
 {
 if (((sV6V7jaSzr <= 1365130662) || (tHo34lXV & -1371710967)) && ((koWc == 1563110331) || (Na9ud6Lz)))
 {
-wqKX2j8 = A1x7HeuRji(-439569142, Kq6O, sV6V7jaSzr);
+wqKX2j8 = A1x7HeuRji((unsigned char)-439569142, Kq6O, sV6V7jaSzr);
 }
 else if (ePk73_L3Zg > zUgx7m)
 {
@@ -241,7 +241,7 @@ D3xse /= ePk73_L3Zg;
 IUXbj2nUw1 = IUXbj2nUw1 * R8rLf2FaY_;
 if (sV6V7jaSzr != OhU5m5Id_R)
 {
-std::cout << iRHq(1780143218) << std::endl;
+std::cout << iRHq((unsigned char)1780143218) << std::endl;
 }
 try
 {
@@ -256,7 +256,7 @@ XZGTgFtT_ = 881778543 / K5Ef0j54;
 
 x__M_3 = (char)(XZGTgFtT_);
 
-std::cout << A1x7HeuRji(-1992507254, -964673305, pVf0__) << std::endl;
+std::cout << A1x7HeuRji((unsigned char)-1992507254, -964673305, pVf0__) << std::endl;
 if (Qcg95M9q6 != -1539923545)
 {
 if (tqBeCT <= 606215016)
@@ -268,7 +268,7 @@ sb8lrB = (int)abs(sV6V7jaSzr);
 }
 }
 
-std::cout << A1x7HeuRji(XZGTgFtT_, 504892510, pVf0__) << K60c6(1269805644, BS_Mj0rL, (unsigned short)501968770, 109852618, -1475975304) << B_bXI(775847790, BS_Mj0rL) << "YypGn" << "DklK" << std::endl;
+std::cout << A1x7HeuRji(XZGTgFtT_, 504892510, pVf0__) << K60c6((short)1269805644, BS_Mj0rL, (unsigned short)501968770, 109852618, -1475975304) << B_bXI(775847790, BS_Mj0rL) << "YypGn" << "DklK" << std::endl;
 lxxjn = (int)abs(A9QXS8);
 pVf0__ &= YTqykNb;
 switch (IUXbj2nUw1)
@@ -292,7 +292,7 @@ do
 --j;
 for (int k = 2; k >= 0; --k)
 {
-cFY6g6PC = A1x7HeuRji(334445607, IUXbj2nUw1, x__M_3);
+cFY6g6PC = A1x7HeuRji((unsigned char)334445607, IUXbj2nUw1, x__M_3);
 }
 }
 while (j >= 0);
@@ -338,7 +338,7 @@ try
 {
 if (x__M_3)
 {
-BS_Mj0rL = K60c6(BS_Mj0rL, 224304772, (unsigned short)-1088341070, nd5kw2, wqKX2j8);
+BS_Mj0rL = K60c6(BS_Mj0rL, (unsigned short)224304772, (unsigned short)-1088341070, nd5kw2, wqKX2j8);
 }
 else
 {
@@ -360,7 +360,7 @@ return 0;
 }
 
 char K60c6(short int Z4Az_,unsigned short int v2H13,unsigned short int z7ebzHFI,int Zk3_B,int vcfLu_JBLp) {
- return 1467405759;
+ return (char)1467405759;
 }
 
 unsigned int A1x7HeuRji(unsigned char QWC4gc,unsigned long long B5sBv2R0,unsigned char Lu04_AZV_)
@@ -373,7 +373,7 @@ short int    GEJU9f(unsigned short int    Je7LKfq_)    {
 }
 
 short int  iRHq(unsigned char  M0kx)  {
-  return  -1068845356;
+  return  (short)-1068845356;
 }
 
 short    B_bXI(long    lQ_GJFmA,short    fsdq1GN8n)

@@ -14,7 +14,7 @@ long long a1zS(unsigned long ssGp5S_)
 }
 
 unsigned short    iJZmC(int    KJfw43r,long    kvGoSkWJ3x,unsigned short int    Fr523av_j,unsigned int    O1_W)    {
-    return    -2003412735;
+    return    (unsigned short)-2003412735;
 }
 
 unsigned int    hW279V9AN7(unsigned long long    n1zV,unsigned int    D5X7J34K,unsigned int    b_DrQ4p)    {
@@ -69,7 +69,7 @@ else
 {
 if (cDnkg42199 < -1420457882)
 {
-N80NtL = iJZmC(N80NtL, J0c2, 682946155, 702491334);
+N80NtL = iJZmC(N80NtL, J0c2, (unsigned short)682946155, 702491334);
 }
 else
 {
@@ -83,7 +83,7 @@ std::cout << -1956921930 / a1zS(-1298132051) << std::endl;
 
 if ((kCIC3q < -423308589) && ((rY42Yw <= 214488511) && (Fb52y_ <= -220351096)))
 {
-kCIC3q = iJZmC(194212230, 11170557, -849532725, 1338879152);
+kCIC3q = iJZmC(194212230, 11170557, (unsigned short)-849532725, 1338879152);
 }
 return 0;
 }

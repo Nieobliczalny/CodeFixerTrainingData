@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
     char    GG5jR0B5;
     GG5jR0B5    =    0;
   unsigned short int  a940fyS_g;
-  a940fyS_g  =  1450919036;
+  a940fyS_g  =  (unsigned short)1450919036;
     long    iND93;
     iND93    =    -460450933;
   unsigned short int  x__V2G;
@@ -59,7 +59,7 @@ catch (int& errorCode)
 {
 dI_5cms_6 &= 1340217879;
 }
-a940fyS_g = veGN9F(1917342950, 1569592588);
+a940fyS_g = veGN9F(1917342950, (unsigned short)1569592588);
 if (a940fyS_g > -991598088)
 {
 try
@@ -132,7 +132,7 @@ if ((zWw94S == -2086344431) || (a940fyS_g <= -1660746466))
 {
 if (x__V2G < 1944304241)
 {
-a940fyS_g = aCstlg(1611790456, -118408307);
+a940fyS_g = aCstlg(1611790456, (short)-118408307);
 }
 else if ((dI_5cms_6 != 1052180575) || (gq6E4c <= -1393429738))
 {
@@ -148,7 +148,7 @@ x__V2G = JdFMoSaG(a940fyS_g);
 }
 else if (zWw94S > -266590714)
 {
-zWw94S = aCstlg(zWw94S, 990268788);
+zWw94S = aCstlg(zWw94S, (short)990268788);
 }
 else
 {
@@ -260,7 +260,7 @@ a940fyS_g >>= zWw94S;
 
 zWw94S *= dI_5cms_6;
 
-std::cout << aCstlg(933658181, -836447602) << veGN9F(-1629892657, iND93) << "KdgtC56oS" << "IJB5825z8F" << std::endl;
+std::cout << aCstlg(933658181, (short)-836447602) << veGN9F(-1629892657, iND93) << "KdgtC56oS" << "IJB5825z8F" << std::endl;
 try
 {
 switch (x__V2G)
@@ -279,7 +279,7 @@ zWw94S >>= 168722400;
 break;
 case 'd':
 case 'D':
-iND93 = s341cgt(1940495193, a940fyS_g, -877075114, 1463353149, 246484861);
+iND93 = s341cgt(1940495193, a940fyS_g, (short)-877075114, 1463353149, 246484861);
 break;
 case 'e':
 case 'E':
@@ -290,7 +290,7 @@ case 'F':
 gq6E4c /= 1050364391;
 break;
 default:
-dI_5cms_6 = pt12y(dI_5cms_6, -1598446614);
+dI_5cms_6 = pt12y(dI_5cms_6, (short)-1598446614);
 break;
 }
 }
@@ -308,7 +308,7 @@ int k = 0;
 while (k < 8)
 {
 k++;
-gq6E4c = veGN9F(1564406966, 1212904068);
+gq6E4c = veGN9F(1564406966, (unsigned short)1212904068);
 }
 }
 }
@@ -360,7 +360,7 @@ a940fyS_g = pt12y(a940fyS_g, -501825637);
 }
 }
 
-zWw94S = veGN9F(a940fyS_g, 207489729) / GG5jR0B5;
+zWw94S = veGN9F(a940fyS_g, (unsigned short)207489729) / GG5jR0B5;
 zWw94S = aCstlg(-693187670, (short)-1094174040);
 
 try
@@ -389,7 +389,7 @@ gq6E4c = dI_5cms_6 >> iND93;
 break;
 case 'd':
 case 'D':
-zWw94S = veGN9F(zWw94S, -390727683);
+zWw94S = veGN9F(zWw94S, (unsigned short)-390727683);
 break;
 case 'e':
 case 'E':
@@ -423,7 +423,7 @@ case 3:
 gq6E4c = x__V2G * a940fyS_g;
 break;
 case 4:
-iND93 = veGN9F(iND93, 705856205);
+iND93 = veGN9F(iND93, (unsigned short)705856205);
 break;
 case 5:
 zWw94S = veGN9F(zWw94S, (unsigned short)2072897074);
@@ -438,7 +438,7 @@ case 8:
 a940fyS_g &= 290833095;
 break;
 case 9:
-gq6E4c = veGN9F(560467300, 1991556487);
+gq6E4c = veGN9F(560467300, (unsigned short)1991556487);
 break;
 default:
 dI_5cms_6 = veGN9F(-1261936777, (unsigned short)1709143071);
@@ -450,7 +450,7 @@ try
 {
 if ((gq6E4c < 1855053252) && ((zWw94S >= iND93) || (iND93 < gq6E4c)))
 {
-a940fyS_g = s341cgt(-968991694, 1685075139, 707117093, 1034885673, GG5jR0B5);
+a940fyS_g = s341cgt(-968991694, 1685075139, (short)707117093, 1034885673, GG5jR0B5);
 }
 else
 {
@@ -538,7 +538,7 @@ iND93 ^= 788012540;
 }
 else if (zWw94S == a940fyS_g)
 {
-iND93 = s341cgt(iND93, dI_5cms_6, -903683688, 205721637, gq6E4c);
+iND93 = s341cgt(iND93, dI_5cms_6, (short)-903683688, 205721637, gq6E4c);
 }
 else
 {
@@ -569,7 +569,7 @@ GG5jR0B5 = (int)abs(gq6E4c) * 0;
 }
 try
 {
-dI_5cms_6 = s341cgt(GG5jR0B5, dI_5cms_6, -357105073, -984055571, -1281522316);
+dI_5cms_6 = s341cgt(GG5jR0B5, dI_5cms_6, (short)-357105073, -984055571, -1281522316);
 }
 catch (int& errorCode)
 {
@@ -586,7 +586,7 @@ int j = 0;
 while (j < 3)
 {
 j++;
-std::cout << JdFMoSaG(GG5jR0B5) << s341cgt(366524927, 50912766, 314031043, zWw94S, 521469092) << "v6a5l" << aCstlg(GG5jR0B5, (short)1943669774) << pt12y(1729301325, -297250864) << std::endl;
+std::cout << JdFMoSaG(GG5jR0B5) << s341cgt(366524927, 50912766, (short)314031043, zWw94S, 521469092) << "v6a5l" << aCstlg(GG5jR0B5, (short)1943669774) << pt12y(1729301325, -297250864) << std::endl;
 }
 }
 }
@@ -636,7 +636,7 @@ case 2:
 iND93 = (int)abs(GG5jR0B5) + (1296683835);
 break;
 default:
-iND93 = pt12y(iND93, -1469980102);
+iND93 = pt12y(iND93, (short)-1469980102);
 break;
 }
 }
@@ -654,7 +654,7 @@ default:
 iND93 = iND93 / 1468289796;
 break;
 }
-gq6E4c = pt12y(x__V2G, -576139640);
+gq6E4c = pt12y(x__V2G, (short)-576139640);
 
 iND93 /= 2043800600;
 x__V2G = (unsigned short int)(dI_5cms_6 * x__V2G);

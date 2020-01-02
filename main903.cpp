@@ -10,7 +10,7 @@ using namespace std;
 
 int main() {
     short    lT3f6sy6X;
-    lT3f6sy6X    =    642592626;
+    lT3f6sy6X    =    (short)642592626;
 	unsigned char	nP1jCG_;
 	nP1jCG_	=	(unsigned char)-444561285;
  short int wjsG3OB;
@@ -28,7 +28,7 @@ int main() {
 	long double	Je0yHWc;
 	Je0yHWc	=	218016249;
     short int    kc6j0Dorns;
-    kc6j0Dorns    =    -259792444;
+    kc6j0Dorns    =    (short)-259792444;
   double  PvFs950R;
   PvFs950R  =  388726037;
     unsigned char    kk5x1;
@@ -46,7 +46,7 @@ int main() {
 	unsigned int	S3C76YML4;
 	S3C76YML4	=	-513639871;
 	unsigned char	AKi4;
-	AKi4	=	689891189;
+	AKi4	=	(unsigned char)689891189;
     long    zkw6QC72;
     zkw6QC72    =    819494954;
  unsigned char lYrRU6d;
@@ -60,7 +60,7 @@ int main() {
   unsigned short int  UBTYgA0;
   UBTYgA0  =  0;
     unsigned short    JhY_7;
-    JhY_7    =    10089282;
+    JhY_7    =    (unsigned short)10089282;
   unsigned long long  u9xEo4O8;
   u9xEo4O8  =  550863221;
  unsigned int Ib4A0f6;
@@ -72,7 +72,7 @@ int main() {
  long long rTZsH;
  rTZsH = 146297381;
   short int  qd25KYxbM9;
-  qd25KYxbM9  =  861504941;
+  qd25KYxbM9  =  (short)861504941;
  unsigned char Of3GhE_h;
  Of3GhE_h = -1850574493;
   unsigned long  R_e3khq7;
@@ -84,7 +84,7 @@ int main() {
     int    V65THw4;
     V65THw4    =    696635224;
     short    sDsY23_c9;
-    sDsY23_c9    =    -1354926851;
+    sDsY23_c9    =    (short)-1354926851;
 	char	QEwWpr3W2H;
 	QEwWpr3W2H	=	-262984559;
     int    hfLHIK_i;
@@ -94,7 +94,7 @@ int main() {
  unsigned short int dEr_dFW_S;
  dEr_dFW_S = (unsigned short)2024074539;
   unsigned char  jsB65h9QY;
-  jsB65h9QY  =  -1825844395;
+  jsB65h9QY  =  (unsigned char)-1825844395;
   unsigned char  IJzKe;
   IJzKe  =  -1901165676;
  unsigned short int ao81Nq;
@@ -104,7 +104,7 @@ int main() {
     long    WeWeB5BdiU;
     WeWeB5BdiU    =    800197983;
     unsigned short int    T57E7R2cIU;
-    T57E7R2cIU    =    -348778039;
+    T57E7R2cIU    =    (unsigned short)-348778039;
 	int	hyTT7C6G2e;
 	hyTT7C6G2e	=	-280589344;
 	char	oB5ren1_4;
@@ -120,7 +120,7 @@ int main() {
 	unsigned int	MwvvjK21;
 	MwvvjK21	=	927616616;
 	char	d6rqj4v;
-	d6rqj4v	=	-723169374;
+	d6rqj4v	=	(char)-723169374;
 	double	zNW6I;
 	zNW6I	=	832909811;
   long long  h5ZQrEzb;
@@ -132,7 +132,7 @@ int main() {
  float OzugmW29;
  OzugmW29 = 115337668;
 	short int	cF009C;
-	cF009C	=	-291629866;
+	cF009C	=	(short)-291629866;
     unsigned long    ci7YfK;
     ci7YfK    =    1455925517;
 	long long	dK6jsE3D;

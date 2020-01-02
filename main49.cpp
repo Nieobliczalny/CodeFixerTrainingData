@@ -14,7 +14,7 @@ short    N1r123r_(unsigned short    AQoy,unsigned long long    Ku24Ls88Wn)
 
 unsigned char AFu5O8r0(unsigned int ZCLXUfUML)
 {
- return -648896108;
+ return (unsigned char)-648896108;
 }
 
 unsigned short int    nySnR_jTB(unsigned long    qpMPOfM,unsigned long    B2J3uPc,short    J8__z4,char    bPVZQ4,unsigned int    rcY767ZAV)    {
@@ -40,7 +40,7 @@ case 0:
 kMTZDGa4_B = AFu5O8r0(801613237);
 break;
 case 1:
-k4oz = nySnR_jTB(k4oz, -1486634684, 1405351822, (char)-622725941, smLEt);
+k4oz = nySnR_jTB(k4oz, -1486634684, (short)1405351822, (char)-622725941, smLEt);
 break;
 case 2:
 vnAA7 = AFu5O8r0(1508192132);
@@ -58,7 +58,7 @@ case 6:
 Fb_3k = AFu5O8r0(Fb_3k);
 break;
 default:
-nybD16b3fq = N1r123r_(1210734285, -401859687);
+nybD16b3fq = N1r123r_((unsigned short)1210734285, -401859687);
 break;
 }
 {
@@ -105,7 +105,7 @@ C1Ig = C1Ig ^ 100455810;
 break;
 case 'c':
 case 'C':
-TU05U = nySnR_jTB(1690973687, vnAA7, -2069339075, ptV8PS3Y, -1267296685) >> YHhI;
+TU05U = nySnR_jTB(1690973687, vnAA7, (short)-2069339075, ptV8PS3Y, -1267296685) >> YHhI;
 break;
 case 'd':
 case 'D':
@@ -131,7 +131,7 @@ R266 -= 2120770847;
 }
 O1_jj++;
 
-R35mv6PSm = hm6_8(981407548, 1532800725);
+R35mv6PSm = hm6_8(981407548, (short)1532800725);
 
 return 0;
 }

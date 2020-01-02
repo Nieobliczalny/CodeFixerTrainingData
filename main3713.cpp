@@ -40,7 +40,7 @@ if (x8YT7 >= 400718506)
 switch (lK8Ox)
 {
 case 'a':
-fEu7X330 = C_wHO(fEu7X330, 2030880653, uGq90p_w, (unsigned char)-2025952100, OVrLD);
+fEu7X330 = C_wHO(fEu7X330, (unsigned short)2030880653, uGq90p_w, (unsigned char)-2025952100, OVrLD);
 break;
 case 'b':
 snx5k2Z8p = r_t_GG - 1455912946;
@@ -58,7 +58,7 @@ case 'f':
 vH45iyObt = O40gJ8lmQV & 1884485581;
 break;
 case 'g':
-I9d11h = C_wHO(I9d11h, 726148365, yha19, hOn6I3fK4n, (short)-679758566);
+I9d11h = C_wHO(I9d11h, (unsigned short)726148365, yha19, hOn6I3fK4n, (short)-679758566);
 break;
 case 'h':
 r_t_GG = NACiloxxt | hD311ths;
@@ -84,7 +84,7 @@ case 1:
 I9d11h = C_wHO(I9d11h, sA39h9AC, -591602489, hOn6I3fK4n, oO0zNFX011) / 1179951259;
 break;
 case 2:
-P2Yaz9t = C_wHO(P2Yaz9t, -1342479713, SrqXB4fO, jTJ2oNNSZ, I9d11h);
+P2Yaz9t = C_wHO(P2Yaz9t, (unsigned short)-1342479713, SrqXB4fO, jTJ2oNNSZ, I9d11h);
 break;
 case 3:
 x8YT7 = hD311ths / MiHiP;
@@ -96,7 +96,7 @@ case 5:
 N7MbrqaTYx &= hNG55J;
 break;
 case 6:
-yboIX2JN45 = C_wHO(1335357456, 1624456971, jTJ2oNNSZ, MiHiP, I9d11h);
+yboIX2JN45 = C_wHO(1335357456, (unsigned short)1624456971, jTJ2oNNSZ, MiHiP, I9d11h);
 break;
 case 7:
 M4M94WFfS++;
@@ -170,7 +170,7 @@ while (j < 5);
 }
 else if (fEu7X330 > 169294905)
 {
-lK8Ox = g_bYtr(jTJ2oNNSZ, -1614060169);
+lK8Ox = g_bYtr(jTJ2oNNSZ, (unsigned short)-1614060169);
 }
 else if ((jTJ2oNNSZ <= -1274604965) && (avkI7_H67 != W3F6Tt5))
 {
@@ -188,7 +188,7 @@ vH45iyObt = X8A4yu ^ 293480531;
 }
 else
 {
-i_t79v = C_wHO(390033573, 1843711241, U_2hj, (unsigned char)561673996, 909247942);
+i_t79v = C_wHO(390033573, (unsigned short)1843711241, U_2hj, (unsigned char)561673996, 909247942);
 }
 for (int i = 0; i < 4; i++)
 {
@@ -198,7 +198,7 @@ while (j < 9)
 {
 try
 {
-uGq90p_w = C_wHO(uGq90p_w, 1732197087, oO0zNFX011, yboIX2JN45, hD311ths);
+uGq90p_w = C_wHO(uGq90p_w, (unsigned short)1732197087, oO0zNFX011, yboIX2JN45, hD311ths);
 }
 catch (int& errorCode)
 {
@@ -222,7 +222,7 @@ j--;
 switch (z6e0_65N)
 {
 case 0:
-x8YT7 = C_wHO(791483617, 1887060190, C_pit0JsDy, z6e0_65N, (short)1350487312);
+x8YT7 = C_wHO(791483617, (unsigned short)1887060190, C_pit0JsDy, z6e0_65N, (short)1350487312);
 break;
 case 1:
 f6Cpb = C_wHO(f6Cpb, -211984682, W3F6Tt5, -1905203203, avkI7_H67);
@@ -249,7 +249,7 @@ do
 {
 if (VZ4lg < 481667770)
 {
-SlBS5L0le1 = C_wHO(925871377, snx5k2Z8p, 1450602242, O40gJ8lmQV, 1238637485);
+SlBS5L0le1 = C_wHO(925871377, snx5k2Z8p, 1450602242, O40gJ8lmQV, (short)1238637485);
 }
 else
 {
@@ -310,7 +310,7 @@ case 0:
 VZ4lg <<= 279781280;
 break;
 case 1:
-S51_9k = C_wHO(S51_9k, -2024943646, uGq90p_w, x8YT7, yboIX2JN45);
+S51_9k = C_wHO(S51_9k, (unsigned short)-2024943646, uGq90p_w, x8YT7, yboIX2JN45);
 break;
 case 2:
 snx5k2Z8p = C_wHO(S51_9k, (unsigned short)-1417725311, 1210597538, 663661988, 2080600999) - 1092443489;
@@ -323,7 +323,7 @@ frwFHoBc = g_bYtr(sA39h9AC, STR1GZ_A);
 break;
 }
 }
-	R67S = C_wHO(707120169, 786122513, -2084038372, (unsigned char)-1691487410, hD311ths) / i;
+	R67S = C_wHO(707120169, (unsigned short)786122513, -2084038372, (unsigned char)-1691487410, hD311ths) / i;
 try
 {
 r_t_GG = hOn6I3fK4n + jTJ2oNNSZ;
@@ -345,7 +345,7 @@ if (hOn6I3fK4n)
 switch (STR1GZ_A)
 {
 case 0:
-YC_j7P3q25 = (nJqaV) ? 1722868034 : f6Cpb;
+YC_j7P3q25 = (nJqaV) ? (short)1722868034 : f6Cpb;
 break;
 case 1:
 P2Yaz9t = (int)abs(M4M94WFfS);
@@ -381,7 +381,7 @@ while (j < 7)
 {
 try
 {
-R67S = C_wHO(-1015355397, STR1GZ_A, 1640324288, 1472352123, (short)-311180527) << 1205978222;
+R67S = C_wHO(-1015355397, STR1GZ_A, 1640324288, (unsigned char)1472352123, (short)-311180527) << 1205978222;
 }
 catch (int& errorCode)
 {
@@ -403,7 +403,7 @@ else if (R9G4hQrkt < -1529600686)
 int k = 0;
 while (k < 7)
 {
-lK8Ox = g_bYtr(817660125, 207599048);
+lK8Ox = g_bYtr(817660125, (unsigned short)207599048);
 ++k;
 }
 }
@@ -418,7 +418,7 @@ else if (O40gJ8lmQV & 1926186618)
 int k = 6;
 while (k >= 0)
 {
-lK8Ox = g_bYtr(-141848375, -708192082);
+lK8Ox = g_bYtr(-141848375, (unsigned short)-708192082);
 --k;
 }
 }
@@ -442,7 +442,7 @@ else
 {
 if ((SlBS5L0le1 < -2063334067) || ((x8v3r_e7It) || (YC_j7P3q25 >= r_t_GG)))
 {
-YC_j7P3q25 = C_wHO(-596493472, -1700817434, P3yXFNLA, (unsigned char)1621896207, hD311ths);
+YC_j7P3q25 = C_wHO(-596493472, (unsigned short)-1700817434, P3yXFNLA, (unsigned char)1621896207, hD311ths);
 }
 }
 }

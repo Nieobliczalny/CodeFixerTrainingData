@@ -14,7 +14,7 @@ using std::floor;
 
 short  yxoyA(unsigned long  UaWxHA,unsigned int  TT__9PbyKA)
 {
-  return  -1177044521;
+  return  (short)-1177044521;
 }
 
 long long  pyK2Z1NF(long long  aKiA_4,long  d5Z6,short int  nl918X11j)  {
@@ -27,7 +27,7 @@ long long	Jk8x5wOP(unsigned short	gxXjW,unsigned int	RxDW,short	zSUS4,unsigned i
 
 unsigned short int cGK2h(unsigned long dnc_,unsigned short E3_Z79T5,int RyMI,unsigned long bZxL7,unsigned short pOgHKF)
 {
- return -1610771560;
+ return (unsigned short)-1610771560;
 }
 
 int main(void)
@@ -41,7 +41,7 @@ for (int j = 7; j >= 0; j--)
 {
 if (rb6_B7 > P55uPI)
 {
-P55uPI = Jk8x5wOP(1028113803, 762000895, VLN4, -1380069014);
+P55uPI = Jk8x5wOP((unsigned short)1028113803, 762000895, VLN4, -1380069014);
 }
 else
 {
@@ -84,7 +84,7 @@ rb6_B7 = yxoyA(VLN4, -1407663071);
 }
 else if (((rb6_B7 == P55uPI) && (P55uPI > 987377542)) && (P55uPI < -1564319062))
 {
-rb6_B7 = (P55uPI) ? -1139411083 : VLN4;
+rb6_B7 = (P55uPI) ? (unsigned short)-1139411083 : VLN4;
 }
 else
 {
@@ -107,7 +107,7 @@ else
 {
 if (rb6_B7 == VLN4)
 {
-rb6_B7 = pyK2Z1NF(-1742746981, rb6_B7, 1439505048) + rb6_B7;
+rb6_B7 = pyK2Z1NF(-1742746981, rb6_B7, (short)1439505048) + rb6_B7;
 }
 }
 }
@@ -144,7 +144,7 @@ rb6_B7 = VLN4 - 1229194483;
 }
 else
 {
-rb6_B7 = cGK2h(-598115954, 904969313, 2070956429, -813785104, (unsigned short)1127985081);
+rb6_B7 = cGK2h(-598115954, (unsigned short)904969313, 2070956429, -813785104, (unsigned short)1127985081);
 }
 }
 else if ((VLN4 <= 246878348) && (rb6_B7 > P55uPI))
@@ -179,7 +179,7 @@ else
 switch (rb6_B7)
 {
 case 'a':
-rb6_B7 = cGK2h(rb6_B7, 125502746, P55uPI, -1470462161, (unsigned short)1641317831);
+rb6_B7 = cGK2h(rb6_B7, (unsigned short)125502746, P55uPI, -1470462161, (unsigned short)1641317831);
 break;
 case 'b':
 rb6_B7 = rb6_B7 % 375775372;
@@ -204,7 +204,7 @@ for (int i = 5; i >= 0; i--)
 std::cout << "PdTb2" << "Zpt3L8uac" << P55uPI << std::endl;
 }
 
-rb6_B7 = cGK2h(P55uPI, -1185417750, rb6_B7, 1490051656, (unsigned short)-571551229) / VLN4;
+rb6_B7 = cGK2h(P55uPI, (unsigned short)-1185417750, rb6_B7, 1490051656, (unsigned short)-571551229) / VLN4;
 
 rb6_B7 = pyK2Z1NF(-784089282, P55uPI, 1700561667);
 
@@ -247,7 +247,7 @@ while (j < 5);
 }
 else if (rb6_B7 == 630159789)
 {
-rb6_B7 = cGK2h(-563047380, -140159707, -1558367008, -710056772, (unsigned short)1209068874);
+rb6_B7 = cGK2h(-563047380, (unsigned short)-140159707, -1558367008, -710056772, (unsigned short)1209068874);
 }
 else
 {
@@ -264,7 +264,7 @@ rb6_B7 -= 1909541793;
 }
 }
 
-std::cout << cGK2h(-672922007, 879234872, rb6_B7, 2131444862, (unsigned short)-884030535) << VLN4 << std::endl;
+std::cout << cGK2h(-672922007, (unsigned short)879234872, rb6_B7, 2131444862, (unsigned short)-884030535) << VLN4 << std::endl;
 rb6_B7 <<= 1430373307;
 
 for (int i = 0; i < 2; i++)
@@ -311,7 +311,7 @@ rb6_B7 = yxoyA(rb6_B7, P55uPI);
 break;
 case 'g':
 case 'G':
-rb6_B7 = cGK2h(-877938676, P55uPI, -1726691447, 2075848119, 671879425) >> 24239254;
+rb6_B7 = cGK2h(-877938676, P55uPI, -1726691447, 2075848119, (unsigned short)671879425) >> 24239254;
 break;
 case 'h':
 case 'H':
@@ -325,7 +325,7 @@ switch (VLN4)
 {
 case 'a':
 case 'A':
-rb6_B7 = cGK2h(1493661089, 2002014384, VLN4, -803112965, (unsigned short)-186439796);
+rb6_B7 = cGK2h(1493661089, (unsigned short)2002014384, VLN4, -803112965, (unsigned short)-186439796);
 break;
 case 'b':
 case 'B':
@@ -341,7 +341,7 @@ rb6_B7 = VLN4 / rb6_B7;
 break;
 case 'e':
 case 'E':
-P55uPI = Jk8x5wOP(-931843322, 1265600821, rb6_B7, 1416386316);
+P55uPI = Jk8x5wOP((unsigned short)-931843322, 1265600821, rb6_B7, 1416386316);
 break;
 default:
 rb6_B7 = cGK2h(rb6_B7, P55uPI, -795870876, -144149992, (unsigned short)-34378414);
@@ -354,7 +354,7 @@ std::cout << VLN4 << "gOYW6O" << std::endl;
 switch (rb6_B7)
 {
 case 0:
-VLN4 = Jk8x5wOP(-123044872, VLN4, (short)471365532, 501163457);
+VLN4 = Jk8x5wOP((unsigned short)-123044872, VLN4, (short)471365532, 501163457);
 break;
 case 1:
 rb6_B7 += rb6_B7;
@@ -366,7 +366,7 @@ case 3:
 rb6_B7 *= P55uPI;
 break;
 case 4:
-rb6_B7 = pyK2Z1NF(rb6_B7, -1400575625, 961629704);
+rb6_B7 = pyK2Z1NF(rb6_B7, -1400575625, (short)961629704);
 break;
 case 5:
 rb6_B7 = rb6_B7 << 1184863726;
@@ -394,7 +394,7 @@ case 'a':
 rb6_B7 = yxoyA(P55uPI, -69365501);
 break;
 case 'b':
-rb6_B7 = Jk8x5wOP(409847125, VLN4, rb6_B7, 909322504) - rb6_B7;
+rb6_B7 = Jk8x5wOP((unsigned short)409847125, VLN4, rb6_B7, 909322504) - rb6_B7;
 break;
 default:
 rb6_B7 = VLN4 / 645249337;
@@ -404,7 +404,7 @@ break;
 i++;
 }
 }
-P55uPI = Jk8x5wOP(P55uPI, -111999650, -601358676, 62417373);
+P55uPI = Jk8x5wOP(P55uPI, -111999650, (short)-601358676, 62417373);
 
 return 0;
 }

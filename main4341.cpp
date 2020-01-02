@@ -31,7 +31,7 @@ int main(int argc, char** argv)
 	unsigned long	e7_3DWwBEz;
 	e7_3DWwBEz	=	385594327;
   unsigned short int  sd3eV1;
-  sd3eV1  =  -1105017051;
+  sd3eV1  =  (unsigned short)-1105017051;
   unsigned char  WXx0Vvg0fK;
   WXx0Vvg0fK  =  (unsigned char)320768695;
 	unsigned char	U50L_;
@@ -41,7 +41,7 @@ int main(int argc, char** argv)
  unsigned short int UBsAM;
  UBsAM = 0;
     short int    DPoz46N_;
-    DPoz46N_    =    1256868922;
+    DPoz46N_    =    (short)1256868922;
   double  j7fmm6;
   j7fmm6  =  -632371264;
   long long  sq5hael;
@@ -53,7 +53,7 @@ int main(int argc, char** argv)
 	float	mv2pNLx517;
 	mv2pNLx517	=	1960243357;
   unsigned char  n38ZYLg;
-  n38ZYLg  =  945592682;
+  n38ZYLg  =  (unsigned char)945592682;
     int    W_TgQ14k1j;
     W_TgQ14k1j    =    -1483661014;
     short    esXDdjp_8B;
@@ -67,7 +67,7 @@ int main(int argc, char** argv)
 	double	D74E9tJr1;
 	D74E9tJr1	=	-2072575335;
   short int  QacF;
-  QacF  =  -376958909;
+  QacF  =  (short)-376958909;
   int  adMqS4;
   adMqS4  =  -483106529;
     unsigned short int    a_R7__x__;
@@ -79,7 +79,7 @@ int main(int argc, char** argv)
     unsigned char    kpJ8GM;
     kpJ8GM    =    0;
     unsigned short int    NQro4hR1K_;
-    NQro4hR1K_    =    -319669176;
+    NQro4hR1K_    =    (unsigned short)-319669176;
  unsigned int N9eiXYoK;
  N9eiXYoK = -879152759;
 	long	UxHetlA80;
@@ -89,7 +89,7 @@ int main(int argc, char** argv)
     short int    ZJJnQ26;
     ZJJnQ26    =    -1560064257;
  unsigned char HG4S;
- HG4S = 1488436353;
+ HG4S = (unsigned char)1488436353;
   long double  aEkFG5S3_6;
   aEkFG5S3_6  =  901067777;
     float    q18BSHCA;
@@ -99,7 +99,7 @@ int main(int argc, char** argv)
     long    W_DQC;
     W_DQC    =    -432226112;
   char  T_k_3;
-  T_k_3  =  -516668585;
+  T_k_3  =  (char)-516668585;
     unsigned long long    yH9E2Gb;
     yH9E2Gb    =    1168387830;
     short    vr0OnC65;
@@ -109,7 +109,7 @@ int main(int argc, char** argv)
     unsigned short int    Ex14M8MpY0;
     Ex14M8MpY0    =    -100451954;
  short gY_aYDhB;
- gY_aYDhB = -359100145;
+ gY_aYDhB = (short)-359100145;
 	short	IJP3uZp6d;
 	IJP3uZp6d	=	-2121131527;
   unsigned long long  W90a2p;
@@ -119,7 +119,7 @@ int main(int argc, char** argv)
     char    aGanx;
     aGanx    =    202379802;
     unsigned char    u3vZts;
-    u3vZts    =    1428284847;
+    u3vZts    =    (unsigned char)1428284847;
 	unsigned short int	tO_3F0Nz;
 	tO_3F0Nz	=	1292918625;
     long    PA6DC6_XYU;
@@ -131,7 +131,7 @@ int main(int argc, char** argv)
 	unsigned int	S08gwn;
 	S08gwn	=	1653536564;
   unsigned short  p4y4M9;
-  p4y4M9  =  237531975;
+  p4y4M9  =  (unsigned short)237531975;
 	long long	cAEPj_J88l;
 	cAEPj_J88l	=	75898965;
 	unsigned int	HPKHgQo;
@@ -141,7 +141,7 @@ int main(int argc, char** argv)
   long long  Pb5H;
   Pb5H  =  -1389903117;
  short int Ru9v3;
- Ru9v3 = -2052069088;
+ Ru9v3 = (short)-2052069088;
   char  Z95w4;
   Z95w4  =  -1721997475;
  long u5bG_;
@@ -151,7 +151,7 @@ int main(int argc, char** argv)
  unsigned int eFuC27slm;
  eFuC27slm = 288849997;
 	short int	ILdH24;
-	ILdH24	=	34275113;
+	ILdH24	=	(short)34275113;
     int    Aeb462;
     Aeb462    =    787478662;
  long long i838;
@@ -169,7 +169,7 @@ int main(int argc, char** argv)
   int  RvQS;
   RvQS  =  -1990236475;
  char JuCpqABz;
- JuCpqABz = -51604171;
+ JuCpqABz = (char)-51604171;
   int  EwuFL54;
   EwuFL54  =  -1496666340;
  unsigned short int bA54e2m;
@@ -179,7 +179,7 @@ int main(int argc, char** argv)
  unsigned char ru_Z7_;
  ru_Z7_ = -340713714;
 	unsigned char	QNt_P0;
-	QNt_P0	=	-437689548;
+	QNt_P0	=	(unsigned char)-437689548;
 	long double	FPlC8O_;
 	FPlC8O_	=	-63058970;
 	double	IMya2_03;
@@ -231,7 +231,7 @@ u9kA = (int)ceil(aEkFG5S3_6);
 }
 if ((W_TgQ14k1j >= Lsoo) && (Pb5H == 683618731))
 {
-std::cout << sg99(-1603409510, 1006930102, cAEPj_J88l, -651051806, -1107722351) << W_TgQ14k1j << z86yvSmY << j7fmm6 << ZJJnQ26 << std::endl;
+std::cout << sg99(-1603409510, 1006930102, cAEPj_J88l, -651051806, (short)-1107722351) << W_TgQ14k1j << z86yvSmY << j7fmm6 << ZJJnQ26 << std::endl;
 }
 if ((vr0OnC65 == 1908397853) || (ru_Z7_ & QacF))
 {
@@ -365,7 +365,7 @@ long long	QL5T(unsigned long	E2d2sR,char	z7_L24udiv,int	hxt4H,short int	OXb249B)
 }
 
 short int qrTIU9_9j_(short G1YK1epZpg,unsigned short tU1_o,long yXehN_8L) {
- return 381342493;
+ return (short)381342493;
 }
 
 unsigned int  sg99(unsigned int  Wlr9F,long  v2S5,long  P5041,unsigned int  TFR2_,short  i573lC_5Q)

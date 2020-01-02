@@ -249,7 +249,7 @@ x_615_clx5 = (int)abs(U434h9I) * 0;
 }
 else
 {
-mlR1ASMwIP = (kDpwi != 2097097182) ? 167203153 : (short)-1670704582;
+mlR1ASMwIP = (kDpwi != 2097097182) ? (short)167203153 : (short)-1670704582;
 }
 }
 else
@@ -309,7 +309,7 @@ yLO01Cd = ZjjWHp74 >> OETW;
 break;
 case 'b':
 case 'B':
-Z3V84FVnM = (bpVR <= 863554808) ? OETW : -1709870182;
+Z3V84FVnM = (bpVR <= 863554808) ? OETW : (short)-1709870182;
 break;
 default:
 kDpwi &= hM6i22m;

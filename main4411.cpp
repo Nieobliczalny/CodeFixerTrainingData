@@ -48,7 +48,7 @@ int main(int argc, char** argv)
 	RSo_84rL	=	0;
 	KntK	=	0;
 
-IiE96 = x360I8RYX(3247283, rK_9mjp25, 1598683968, x0zTGRb, (unsigned short)-2067994849);
+IiE96 = x360I8RYX(3247283, rK_9mjp25, (unsigned short)1598683968, x0zTGRb, (unsigned short)-2067994849);
 if ((a3FAFa1ZP) && (r52dLNO3_ != Cg9zIl265))
 {
 {
@@ -64,7 +64,7 @@ bg8wD5 = fs8Si(bg8wD5, C9Ek104, fBtXh71O6I, kTuX1K2Dv6, pfm5e_AAm);
 int i = 3;
 while (i >= 0)
 {
-D_Ne80d = fs8Si(-1856428878, -638138274, a3FAFa1ZP, 530628133, r52dLNO3_);
+D_Ne80d = fs8Si(-1856428878, -638138274, a3FAFa1ZP, (unsigned short)530628133, r52dLNO3_);
 --i;
 }
 }
@@ -104,7 +104,7 @@ break;
 }
 }
 
-cout << "HiRD" << fs8Si(829871713, Bcw6F97_O, IiE96, -2067290782, fBtXh71O6I) << "Ck98Y1" << gNjAE__(x0zTGRb, -1290638954) << endl;
+cout << "HiRD" << fs8Si(829871713, Bcw6F97_O, IiE96, (unsigned short)-2067290782, fBtXh71O6I) << "Ck98Y1" << gNjAE__(x0zTGRb, -1290638954) << endl;
 for (int i = 0; i < 5; i++)
 {
 rK_9mjp25 >>= vPdw3;
@@ -153,7 +153,7 @@ int x360I8RYX(unsigned int vv2_,unsigned int jMg720,unsigned short int bE4_496g,
 }
 
 char	fs8Si(long long	aM7VOBY,unsigned int	t2eQ9SC1,unsigned char	vDGM,unsigned short	mlIJxE_79,unsigned short	IgO1UT)	{
-	return	-1720141300;
+	return	(char)-1720141300;
 }
 
 unsigned long  gNjAE__(unsigned int  Kj5dNiA,long long  IPf873)
@@ -163,6 +163,6 @@ unsigned long  gNjAE__(unsigned int  Kj5dNiA,long long  IPf873)
 
 short  jnMnGFF5R(unsigned short int  htaBExy5,int  xv3_N_e,short  lB1OD1l,char  RYDF,unsigned long  knXIdgj)
 {
-  return  1147017322;
+  return  (short)1147017322;
 }
 

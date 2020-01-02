@@ -124,7 +124,7 @@ for (int i = 2; i >= 0; i--)
 {
 if ((d3yz8w1V94 > -861688718) || ((H3xtELL < 346474112) || (SP6qY_r0L9 >= esUgjh5tWw)))
 {
-cout << "j4SQm" << ps95Z11(1517535118) << endl;
+cout << "j4SQm" << ps95Z11((unsigned short)1517535118) << endl;
 }
 else if (((KndiUWdf > d3yz8w1V94) || (esUgjh5tWw < SP6qY_r0L9)) || ((esUgjh5tWw & 450603482) && (esUgjh5tWw >= d3yz8w1V94)))
 {
@@ -145,7 +145,7 @@ else if (((l0zK42l >= -792453925) && (SP6qY_r0L9 != 557561800)) && (H3xtELL == -
 {
 if (KndiUWdf == -81568500)
 {
-Q8l_i82LHz = ps95Z11(-1859260167);
+Q8l_i82LHz = ps95Z11((unsigned short)-1859260167);
 }
 }
 else if ((Q8l_i82LHz >= -427604198) || (l0zK42l >= -1077458146))
@@ -155,7 +155,7 @@ int k = 0;
 while (k < 3)
 {
 k++;
-l45H20bz = ps95Z11(-1757493282);
+l45H20bz = ps95Z11((unsigned short)-1757493282);
 }
 }
 }
@@ -173,7 +173,7 @@ if (SP6qY_r0L9 > 1282721094)
 {
 if (((H3xtELL & l0zK42l) || (KndiUWdf >= -2012890388)) || (oOXQi_6jH4))
 {
-d3yz8w1V94 = SQKj6C(1335778562, l0zK42l);
+d3yz8w1V94 = SQKj6C((short)1335778562, l0zK42l);
 }
 else
 {
@@ -188,7 +188,7 @@ SP6qY_r0L9 = ps95Z11(d3yz8w1V94);
 }
 else if (SP6qY_r0L9 < 1359159998)
 {
-v24YOebe = ps95Z11(-999194305);
+v24YOebe = ps95Z11((unsigned short)-999194305);
 }
 else if (((v24YOebe >= d3yz8w1V94) && (l0zK42l >= 1507276175)) || (l45H20bz))
 {
@@ -200,7 +200,7 @@ Q8l_i82LHz &= KndiUWdf;
 }
 else if (KndiUWdf)
 {
-esUgjh5tWw = SQKj6C(1095890297, v24YOebe);
+esUgjh5tWw = SQKj6C((short)1095890297, v24YOebe);
 }
 else if (oOXQi_6jH4 < 984554590)
 {
@@ -241,7 +241,7 @@ KndiUWdf = (int)abs(oOXQi_6jH4);
 }
 else
 {
-SP6qY_r0L9 = ps95Z11(1573720396);
+SP6qY_r0L9 = ps95Z11((unsigned short)1573720396);
 }
 }
 else
@@ -258,7 +258,7 @@ v24YOebe = mT37725();
 int i = 7;
 while (i >= 0)
 {
-cout << Q8l_i82LHz << "qUJU" << mT37725() << ps95Z11(-2025344626) << endl;
+cout << Q8l_i82LHz << "qUJU" << mT37725() << ps95Z11((unsigned short)-2025344626) << endl;
 --i;
 }
 }
@@ -279,7 +279,7 @@ if ((v24YOebe > 882464934) && (esUgjh5tWw & v24YOebe))
 {
 if ((d3yz8w1V94 < esUgjh5tWw) && ((esUgjh5tWw != l0zK42l) || (H3xtELL == -324880163)))
 {
-esUgjh5tWw = SQKj6C(-1282439653, l0zK42l);
+esUgjh5tWw = SQKj6C((short)-1282439653, l0zK42l);
 }
 }
 }

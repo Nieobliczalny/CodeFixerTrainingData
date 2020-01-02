@@ -11,7 +11,7 @@ using namespace std;
 
 int main(void)
 {
-	unsigned char	bQUOOkr	=	331975466;
+	unsigned char	bQUOOkr	=	(unsigned char)331975466;
 	long	EZ9Nl7d4	=	0;
 	unsigned short int	Afs07	=	0;
  unsigned int VI4fcq = 0;
@@ -107,7 +107,7 @@ case 1:
 bQUOOkr = GyBMT6_b | 938799858;
 break;
 case 2:
-bQUOOkr = (GyBMT6_b & VI4fcq) ? -2108198942 : Ji74x;
+bQUOOkr = (GyBMT6_b & VI4fcq) ? (unsigned char)-2108198942 : Ji74x;
 break;
 case 3:
 bQUOOkr <<= 950301025;
@@ -286,7 +286,7 @@ if ((795976339 / VI4fcq) == -1580054153)
 switch (EZ9Nl7d4)
 {
 case 0:
-bQUOOkr = (bQUOOkr) ? -2146505259 : Ji74x;
+bQUOOkr = (bQUOOkr) ? (unsigned char)-2146505259 : Ji74x;
 break;
 case 1:
 bQUOOkr += EZ9Nl7d4;

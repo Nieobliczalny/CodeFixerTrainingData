@@ -48,7 +48,7 @@ if (Z0rn & v_5Z71H0xL)
 {
 try
 {
-v_5Z71H0xL = P8jA(-500663094, 686025589, -500937686, -2093454268, j5Wr4);
+v_5Z71H0xL = P8jA(-500663094, (unsigned char)686025589, -500937686, -2093454268, j5Wr4);
 }
 catch (int& errorCode)
 {
@@ -62,7 +62,7 @@ v_5Z71H0xL = P8jA(Z0rn, (unsigned char)-489182856, 1825423441, -810873492, pZSn9
 }
 a352WYB17u = (unsigned long long)(s7v3);
 
-cout << "CYUQ44M" << "W6OD" << P8jA(Z0rn, -1163766050, -1610338952, E690iu2G, pZSn9k) << Qh31J(Z0rn) << endl;
+cout << "CYUQ44M" << "W6OD" << P8jA(Z0rn, (unsigned char)-1163766050, -1610338952, E690iu2G, pZSn9k) << Qh31J(Z0rn) << endl;
 bkh4 = -232244657 / v_5Z71H0xL;
 
 for (int i = 0; i < 9; ++i)
@@ -98,7 +98,7 @@ if (A2FE == bxK6)
 {
 if (qqzy & 512953924)
 {
-v_5Z71H0xL = P8jA(HCG85, 1689738902, U21Om1Uz, bkh4, a352WYB17u);
+v_5Z71H0xL = P8jA(HCG85, (unsigned char)1689738902, U21Om1Uz, bkh4, a352WYB17u);
 }
 else
 {
@@ -141,7 +141,7 @@ q6Ro9 &= 1237011699;
 }
 }
 
-cout << Qh31J(-611250884) << P8jA(Nm0VjSJo2D, -2061197310, 604472973, Vzhb4, QfGJm3) << Qh31J(-1984003332) << "g6t_FSM" << endl;
+cout << Qh31J(-611250884) << P8jA(Nm0VjSJo2D, (unsigned char)-2061197310, 604472973, Vzhb4, QfGJm3) << Qh31J(-1984003332) << "g6t_FSM" << endl;
 
 CJ_7pMs = Qh31J(474283558);
 

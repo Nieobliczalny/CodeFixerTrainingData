@@ -15,7 +15,7 @@ using std::floor;
 int main(int argc, char** argv)
 {
  short jnqcSJ6W;
- jnqcSJ6W = -1004697979;
+ jnqcSJ6W = (short)-1004697979;
     unsigned short int    u19JnZ62;
     u19JnZ62    =    (unsigned short)1731167098;
   char  x4Th26Fi;
@@ -29,7 +29,7 @@ int main(int argc, char** argv)
  long ysR_GyC3O;
  ysR_GyC3O = 14082462;
 	unsigned short int	FkI8yTgTu_;
-	FkI8yTgTu_	=	1978597787;
+	FkI8yTgTu_	=	(unsigned short)1978597787;
     unsigned int    uH1lAoe_2O;
     uH1lAoe_2O    =    -81107059;
 	unsigned int	x0Wf9;
@@ -43,7 +43,7 @@ int main(int argc, char** argv)
  int t_27Z;
  t_27Z = 0;
     unsigned short    O_MBxn;
-    O_MBxn    =    1463707201;
+    O_MBxn    =    (unsigned short)1463707201;
  unsigned long kbK480rG;
  kbK480rG = 0;
   unsigned int  KEGX_ia5G7;
@@ -55,7 +55,7 @@ int main(int argc, char** argv)
  long long vdp3970;
  vdp3970 = 0;
   unsigned char  DT82_5EvB;
-  DT82_5EvB  =  -436303915;
+  DT82_5EvB  =  (unsigned char)-436303915;
 	long double	uEUAFz7I;
 	uEUAFz7I	=	520945842;
     long long    h7td;
@@ -67,7 +67,7 @@ int main(int argc, char** argv)
     double    BM0N;
     BM0N    =    -1383931080;
     unsigned char    eUiyNz8;
-    eUiyNz8    =    786528138;
+    eUiyNz8    =    (unsigned char)786528138;
  int N_mxi32_;
  N_mxi32_ = 240250492;
     unsigned short int    P9Qk6gL;
@@ -81,7 +81,7 @@ int main(int argc, char** argv)
   unsigned short  yyGGMfP;
   yyGGMfP  =  0;
 	unsigned char	S8CZCcV8;
-	S8CZCcV8	=	300991509;
+	S8CZCcV8	=	(unsigned char)300991509;
     int    iGBD;
     iGBD    =    0;
   long long  f3p9K8svk;

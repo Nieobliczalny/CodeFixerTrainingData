@@ -23,7 +23,7 @@ unsigned long  D37P(unsigned long  ot8gF87i,long  L166DP);
 
 int main(int argc, char** argv)
 {
-	short int	zjUB_M	=	1199881281;
+	short int	zjUB_M	=	(short)1199881281;
 	short	DuQCVEmVn	=	(short)1005926580;
     short int    P_gr0kGJm    =    1697955893;
  unsigned short j3xg = -2120253587;
@@ -35,7 +35,7 @@ int main(int argc, char** argv)
  float O51qtO0 = 2123565588;
     long long    w6qNfE4F    =    -1162079068;
  long long g3PRg916Lw = 1794562450;
-    unsigned short    p8_CmUud    =    -604793015;
+    unsigned short    p8_CmUud    =    (unsigned short)-604793015;
 	long double	C9_G071	=	2032454037;
   short int  JG2472Tt  =  (short)-1767422309;
  short Kv4hfK = 201114699;
@@ -46,7 +46,7 @@ int main(int argc, char** argv)
     char    v4o745    =    785957506;
     unsigned long    ASF38X2R4    =    -136567593;
     int    Ak04    =    837129736;
-  short int  X0dh0  =  -32838551;
+  short int  X0dh0  =  (short)-32838551;
   short int  v6hII  =  (short)-402405367;
 	long double	rjnTpF1Uub	=	-75354969;
     int    vBBqs1c    =    -1162735849;
@@ -57,7 +57,7 @@ int main(int argc, char** argv)
 	unsigned long	qQLXNG8	=	6582372;
   long long  uFLGdq  =  -851451511;
     long double    PALXOJf    =    -1480444420;
-	unsigned char	yB69q_8YDT	=	539148272;
+	unsigned char	yB69q_8YDT	=	(unsigned char)539148272;
   long  ZahHx_i65  =  671890383;
 	int	F0ZI3MQ70_	=	-1603397639;
   short  TFD0ogja  =  (short)-984881252;
@@ -68,7 +68,7 @@ int main(int argc, char** argv)
 	int	kYsE15vAqu	=	-1943018805;
   float  qPsu0o  =  -50277686;
 	long	JU52j5I	=	-1131813037;
-    short    GbKj3s    =    1449538061;
+    short    GbKj3s    =    (short)1449538061;
  unsigned char ziln_Ka = 1516910516;
  unsigned short SW3gMOXa = (unsigned short)1353843575;
  unsigned char mW3M7C = -1953877365;
@@ -83,7 +83,7 @@ int main(int argc, char** argv)
   int  Q9ly2  =  -1710968898;
 	double	rraK7bpv	=	1322464515;
  double P5hGd8 = 1258094806;
-    char    Vx64y    =    1910085585;
+    char    Vx64y    =    (char)1910085585;
   long  yh3Q  =  -871460312;
   long  YPftRoxC_  =  458037411;
     unsigned int    x10_W4ARUb    =    -528383979;
@@ -93,7 +93,7 @@ int main(int argc, char** argv)
 	double	aLHHLcL36_	=	1526942937;
     long    yK1mZ0j_    =    -282334049;
 	unsigned char	j9y_r_3L	=	-828646245;
-  short  Ic34f9o4Sa  =  -1273848818;
+  short  Ic34f9o4Sa  =  (short)-1273848818;
  long double rpxk0_ = 1508686033;
  char m2a30Z32j = 491641295;
 	unsigned int	Ld_Z	=	-130878186;
@@ -103,7 +103,7 @@ int main(int argc, char** argv)
  unsigned long BWgffh4ftm = -1827290909;
  unsigned short int EM3A1_KpkL = 1445830524;
     short    Sni9    =    652088482;
- short int Se_QEn = -737254652;
+ short int Se_QEn = (short)-737254652;
   unsigned char  g_Q8NSakUy  =  1330594233;
  long long eu4ku10etl = -1199806481;
   unsigned char  L5L40P20V  =  -2145234663;
@@ -142,7 +142,7 @@ else
 {
 try
 {
-Ip0MI = x_NX2(-2032432071, p8_8qoL, -1131874334, (short)-1995805836, -1216566085);
+Ip0MI = x_NX2(-2032432071, p8_8qoL, (short)-1131874334, (short)-1995805836, -1216566085);
 }
 catch (int& errorCode)
 {
@@ -153,7 +153,7 @@ Ic34f9o4Sa = D37P(Ic34f9o4Sa, 421501083);
 
 aLHHLcL36_ = (int)ceil(xXU3v);
 
-BWgffh4ftm = ZGS1v8TE / x_NX2(Ic34f9o4Sa, rjnTpF1Uub, 1354476663, (short)-52249617, 1867607506);
+BWgffh4ftm = ZGS1v8TE / x_NX2(Ic34f9o4Sa, rjnTpF1Uub, (short)1354476663, (short)-52249617, 1867607506);
 try
 {
 EM3A1_KpkL = (unsigned short int)(dqlw5F6Hy);
@@ -175,7 +175,7 @@ m7Q3mqv = D37P(573149858, 1208025248);
 break;
 case 'b':
 case 'B':
-vBBqs1c = h7S56m881(1396639007, 1364955777, 259378187, x2xzq_z8, -56780077);
+vBBqs1c = h7S56m881((unsigned short)1396639007, 1364955777, 259378187, x2xzq_z8, -56780077);
 break;
 case 'c':
 case 'C':
@@ -197,7 +197,7 @@ default:
 U32Rl_b7 /= 666533854;
 break;
 }
-cout << X0dh0 << "G681DgA0" << h7S56m881(vBBqs1c, -1578575248, 839156880, -100616184, si4dXk) << endl;
+cout << X0dh0 << "G681DgA0" << h7S56m881(vBBqs1c, -1578575248, 839156880, (unsigned char)-100616184, si4dXk) << endl;
 T6BYWZ += eu4ku10etl;
 PALXOJf = (int)ceil(xXU3v);
 return 0;
@@ -210,7 +210,7 @@ int x_NX2(unsigned long long C4aT,unsigned long a8soVA,short vhh_LYfH,short int 
 
 short h7S56m881(unsigned short int tNklJ3blp,long o83dp9m1d,long long W5CUm,unsigned char Y_WiMDal8,unsigned int JsRzet5ZC)
 {
- return -669707116;
+ return (short)-669707116;
 }
 
 unsigned long  D37P(unsigned long  ot8gF87i,long  L166DP)  {

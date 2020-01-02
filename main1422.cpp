@@ -23,7 +23,7 @@ int main(int argc, char** argv)
  double Kon8r = -1090856698;
   unsigned int  iG36  =  -143637916;
  unsigned int gW_y = 829763389;
-	char	R4i_5O5LF2	=	213475959;
+	char	R4i_5O5LF2	=	(char)213475959;
 	int	mU8NZ_13_G	=	-215976321;
 	unsigned short int	x__Uwa212J	=	(unsigned short)-393936134;
 	short	YlaUn1ra	=	-183254857;
@@ -35,7 +35,7 @@ int main(int argc, char** argv)
     char    Kb7p    =    -1509743381;
 	int	BY16	=	1182000694;
 	unsigned long long	IuM979lZL	=	-218896152;
-  unsigned short  d8055  =  606670779;
+  unsigned short  d8055  =  (unsigned short)606670779;
  unsigned int hwZY6eg = -84736989;
  short int JuDglLLG8c = (short)-2127556346;
  short int UTm2o = 714276192;
@@ -47,7 +47,7 @@ int main(int argc, char** argv)
 	short	V21F	=	286770564;
 	unsigned long	G_0J_Z	=	-898347651;
   long  DXzy  =  1789820440;
-  short  zlhenXMt  =  -592042711;
+  short  zlhenXMt  =  (short)-592042711;
   float  kdQwJwvZv  =  -98960642;
   double  w7Q8  =  -1248874939;
 	unsigned int	yr3k_R5k	=	1288605548;
@@ -59,7 +59,7 @@ int main(int argc, char** argv)
   double  SDRwz4qfIa  =  1872063947;
 	long long	H_0Ae_j	=	-2117485396;
 	float	O_5356Q84L	=	608501055;
-  unsigned short int  i0_156_2G  =  2112076081;
+  unsigned short int  i0_156_2G  =  (unsigned short)2112076081;
  short L84_yG8lB = -1748984278;
     unsigned short int    ynMQl7mB    =    (unsigned short)-782492358;
     unsigned long    H95pZsf    =    1269364072;
@@ -75,7 +75,7 @@ int main(int argc, char** argv)
 	float	uT7prD	=	-1565918537;
 	long long	F609ZdE_	=	824060127;
   long  PYE4IP  =  -1709305200;
- short int uG1oMVVoT1 = 1147909752;
+ short int uG1oMVVoT1 = (short)1147909752;
  long long d_5sUN1 = 627852748;
  unsigned int SW1XSMR5 = 1018660258;
 	unsigned short int	M0SAzxN698	=	(unsigned short)1152843063;
@@ -85,7 +85,7 @@ int main(int argc, char** argv)
  unsigned long long m_XXwXF87U = -624212411;
   long  C_7NMpn  =  43811058;
     int    Dqk_4    =    -446610914;
-  unsigned short int  j_unArn41  =  -302110996;
+  unsigned short int  j_unArn41  =  (unsigned short)-302110996;
  unsigned short int dz48B_ = -214485741;
  unsigned int Nox0_sg9yp = 0;
     long long    Pcja    =    661465971;

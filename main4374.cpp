@@ -18,7 +18,7 @@ int    Ow_DL80jv(unsigned char    lyZ2l5B4yW,unsigned short int    pmlU,short in
 }
 
 char BMd601(unsigned short int KTwx_,int mhspYbzQT4) {
- return 1646167669;
+ return (char)1646167669;
 }
 
 int main(void)
@@ -67,7 +67,7 @@ do
 switch (aim4)
 {
 case 0:
-e10NQ = BMd601(1793222672, R_M5);
+e10NQ = BMd601((unsigned short)1793222672, R_M5);
 break;
 case 1:
 SRW1PB9 = (int)abs(Ez60_0B);
@@ -79,7 +79,7 @@ case 3:
 caZnO7fhNr -= 1603961619;
 break;
 case 4:
-cl3W8k0 = Ow_DL80jv(Z81K62Bf, vY1iO_E, -595320809, (char)579959155);
+cl3W8k0 = Ow_DL80jv(Z81K62Bf, vY1iO_E, (short)-595320809, (char)579959155);
 break;
 case 5:
 kdGA7192 /= 468462468;
@@ -101,7 +101,7 @@ case 0:
 DdO_z1 &= o682;
 break;
 case 1:
-cl3W8k0 = Ow_DL80jv(cl3W8k0, e10NQ, K4gRzOa0i, -475902825);
+cl3W8k0 = Ow_DL80jv(cl3W8k0, e10NQ, K4gRzOa0i, (char)-475902825);
 break;
 case 2:
 AfBV += 1473796228;
@@ -130,7 +130,7 @@ if (ns43 != -38803844)
 {
 if (pH5Es654i)
 {
-LbYlR6VnL4 = BMd601(-900292529, -1098430987);
+LbYlR6VnL4 = BMd601((unsigned short)-900292529, -1098430987);
 }
 else
 {
@@ -182,7 +182,7 @@ case 'b':
 h0zLcTquI1 = Hv96lbTySw % 192606467;
 break;
 case 'c':
-mR4t = BMd601(400887694, aim4);
+mR4t = BMd601((unsigned short)400887694, aim4);
 break;
 case 'd':
 E5N1BfRY += 1093623841;
@@ -200,7 +200,7 @@ case 'h':
 A70Iz62 |= 846167349;
 break;
 case 'i':
-cl3W8k0 = Ow_DL80jv(-940822698, 1908362771, HVWUA1, -1933395163);
+cl3W8k0 = Ow_DL80jv((unsigned char)-940822698, 1908362771, HVWUA1, -1933395163);
 break;
 case 'j':
 Rp5rHV /= qmDXZH;
@@ -220,7 +220,7 @@ case 0:
 yn8a88P = (int)abs(R4l4EmI);
 break;
 case 1:
-S65h = BMd601(-1074057225, 2144763441);
+S65h = BMd601((unsigned short)-1074057225, 2144763441);
 break;
 case 2:
 FlZb = ylzj76 & Glpv9U0M;
@@ -240,7 +240,7 @@ luX1 %= NA37;
 L6LWoy0 = (int)abs(w6CT0P);
 
 K4gRzOa0i -= KWH1JW36K;
-cl3W8k0 = Ow_DL80jv(cxXSY1, -215085232, E78C, (char)1678798233);
+cl3W8k0 = Ow_DL80jv(cxXSY1, (unsigned short)-215085232, E78C, (char)1678798233);
 cout << ol40k2U << K4gRzOa0i << wMmJoaAIT << NA37 << Ow_DL80jv(cxXSY1, -1805997136, E78C, QuI8FoQ) << endl;
 
 if ((L6LWoy0) || (cxXSY1 <= L6LWoy0))
@@ -281,7 +281,7 @@ lB_6n = BMd601(lB_6n, 733508956);
 }
 else if ((QuI8FoQ & 2031327564) || ((hQSWOk8GAp >= 78673437) && (o682 >= -529998606)))
 {
-SRW1PB9 = BMd601(-1579701410, mR4t);
+SRW1PB9 = BMd601((unsigned short)-1579701410, mR4t);
 }
 else if (iRx8 == vY1iO_E)
 {
@@ -305,7 +305,7 @@ NA37 = BMd601(1977755523, DoI3R5);
 switch (PJeu86Q_)
 {
 case 0:
-cl3W8k0 = Ow_DL80jv(wMmJoaAIT, 1201427676, cl3W8k0, (char)-1170427563);
+cl3W8k0 = Ow_DL80jv(wMmJoaAIT, (unsigned short)1201427676, cl3W8k0, (char)-1170427563);
 break;
 default:
 hjIY1zqH0 = BMd601(wMmJoaAIT, Vm67s) * 317113597;
@@ -346,7 +346,7 @@ case 'a':
 u57c28g = (int)abs(lDE_b);
 break;
 case 'b':
-cl3W8k0 = Ow_DL80jv(1795084681, ORT2N42_, lDE_b, qmDXZH);
+cl3W8k0 = Ow_DL80jv((unsigned char)1795084681, ORT2N42_, lDE_b, qmDXZH);
 break;
 case 'c':
 kdGA7192 = (int)abs(Ta08K);
@@ -385,7 +385,7 @@ int j = 5;
 while (j >= 0)
 {
 j--;
-cl3W8k0 = Ow_DL80jv(2027333374, (unsigned short)1620406887, anm8, -1043001950);
+cl3W8k0 = Ow_DL80jv((unsigned char)2027333374, (unsigned short)1620406887, anm8, -1043001950);
 }
 }
 }
@@ -409,7 +409,7 @@ while (j < 10)
 j++;
 try
 {
-cl3W8k0 = Ow_DL80jv(F2u85aCx, 1405853107, e10NQ, (char)2132312464);
+cl3W8k0 = Ow_DL80jv(F2u85aCx, (unsigned short)1405853107, e10NQ, (char)2132312464);
 }
 catch (int& errorCode)
 {
@@ -428,7 +428,7 @@ n5Ge -= E5pY;
 }
 else if (Xvw9C <= 1086159878)
 {
-u57c28g = BMd601(2092923783, -768566710);
+u57c28g = BMd601((unsigned short)2092923783, -768566710);
 }
 else if (((KWH1JW36K) || (i7P33 >= Wa9fKv)) || ((QuI8FoQ) || (Z8nf4o_ & -1987412547)))
 {
@@ -444,7 +444,7 @@ catch (int& errorCode)
 Xvw9C = Ow_DL80jv(u57c28g, Wa9fKv, -556267529, s7HR) ^ 1848781692;
 }
 }
-cl3W8k0 = Ow_DL80jv(A70Iz62, qmDXZH, -2062333781, SRW1PB9);
+cl3W8k0 = Ow_DL80jv(A70Iz62, qmDXZH, (short)-2062333781, SRW1PB9);
 
 {
 int i = 1;
@@ -456,7 +456,7 @@ cout << BMd601(A70Iz62, -1849619058) << BMd601(A70Iz62, -1431079681) << "bTJihdZ
 while (i >= 0);
 }
 
-IuS5v = BMd601(-1115074140, cl3W8k0);
+IuS5v = BMd601((unsigned short)-1115074140, cl3W8k0);
 return 0;
 }
 

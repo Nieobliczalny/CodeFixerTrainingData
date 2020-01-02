@@ -62,7 +62,7 @@ return 0;
 }
 
 char    CmL6KlCiP9()    {
-    return    -1054121753;
+    return    (char)-1054121753;
 }
 
 long long    l_2J(int    Yl1j7ZEn4j,unsigned long long    qp7wC38I8)    {
@@ -74,7 +74,7 @@ short  Ab619eGU79()  {
 }
 
 unsigned short  iq4Q1ZH(unsigned long long  Z67epQ,long long  Q377_t,unsigned short  Ex15j,unsigned char  K13t4A)  {
-  return  1912272526;
+  return  (unsigned short)1912272526;
 }
 
 char NsJ8XLDX9(unsigned long long N7o00gvtZ7,short int x75DR4K,unsigned short int YPZsRmJ570)

@@ -12,7 +12,7 @@ long    n6g3dsL8(unsigned int    IXhpU,short    a893,unsigned short    VeZH,shor
 }
 
 char    N02k6(short    xYPMJ,long    X0xJ)    {
-    return    649911078;
+    return    (char)649911078;
 }
 
 unsigned int    G81m(char    hI1ew4,unsigned int    p2_Lub8Aw,long long    j7T0Dj,short    c0lu,unsigned short    Y3i2T6qQSG)
@@ -114,7 +114,7 @@ int i = 3;
 do
 {
 i--;
-zg7_42QL = G81m(-1815611594, 628506598, zg7_42QL, (short)-868137331, -551051512);
+zg7_42QL = G81m((char)-1815611594, 628506598, zg7_42QL, (short)-868137331, -551051512);
 }
 while (i >= 0);
 }

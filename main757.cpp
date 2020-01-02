@@ -25,7 +25,7 @@ int main(void)
   long long  ZeGj82r;
   ZeGj82r  =  0;
   char  atim5;
-  atim5  =  -396402636;
+  atim5  =  (char)-396402636;
  long double pPN1;
  pPN1 = 2125667311;
 	unsigned int	e_AoGSi;
@@ -37,7 +37,7 @@ int main(void)
  int j_5WRD;
  j_5WRD = -667510315;
   short int  h_N6_o6c;
-  h_N6_o6c  =  -728472198;
+  h_N6_o6c  =  (short)-728472198;
 	unsigned long	W_lgV;
 	W_lgV	=	136570952;
   double  v1Fm1;
@@ -132,7 +132,7 @@ while (i < 10);
 switch (oMh_fQ)
 {
 case 0:
-h_N6_o6c = (pPN1) ? W_lgV : -67011837;
+h_N6_o6c = (pPN1) ? W_lgV : (short)-67011837;
 break;
 case 1:
 v1Fm1 -= 524479426;

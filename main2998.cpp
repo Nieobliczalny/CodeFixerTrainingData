@@ -121,7 +121,7 @@ case 'a':
 XJu106n4++;
 break;
 case 'b':
-WxB_0zd = (Lgw53Vj & k2ks1KHI33) ? -1729271393 : m6TCR_xo;
+WxB_0zd = (Lgw53Vj & k2ks1KHI33) ? (unsigned short)-1729271393 : m6TCR_xo;
 break;
 default:
 Jo15py++;

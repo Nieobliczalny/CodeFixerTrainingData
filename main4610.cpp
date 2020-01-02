@@ -19,7 +19,7 @@ unsigned char  nUur4(long long  R8r0wh);
 int main(void)
 {
 	unsigned short	E36X2;
-	E36X2	=	-2030059045;
+	E36X2	=	(unsigned short)-2030059045;
  unsigned long long lA045BRj, dm06;
  lA045BRj = 0;
  dm06 = 0;
@@ -124,6 +124,6 @@ short int  Aj81XfoJ(unsigned int  VG658m5X,long  yf5y67wN)
 
 unsigned char  nUur4(long long  R8r0wh)
 {
-  return  -1907381791;
+  return  (unsigned char)-1907381791;
 }
 

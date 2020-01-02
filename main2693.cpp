@@ -12,7 +12,7 @@ using namespace std;
 
 int main(void) {
   short int  FpAAC,  B81gr__y,  PQig6WZ,  E5G7A,  pTBtPI,  E9FHqnBeHY,  ho5vMc,  qcjpMB0i1P,  jNf_eW,  P97224x,  jLXKAx0,  s_1B7,  bP3nQ82Vo,  lE52_Zy0Y,  xXyY9l1D,  Vj5zcj,  d7Jh,  ABaV6Cf,  mgw_0D,  QE_G5VHwM,  Ned1,  J8zuO3Za,  cUMXwc,  m46zRlvV_,  L4A158s,  oC3jbda,  a_1QcxLK5_,  pnPZAADE,  amgeO4q8,  p26X,  q85TN,  y_Q2W,  ev3DN4w,  EX50Dwj,  l5F47,  l3RDTm8IF,  k5_s,  rzMBw5D6R,  O9YNhI,  G6_x2,  G69T65,  ok7S1hEoI,  qz56Lk66bR,  Zu35DbL_9,  vx_TenFxB2,  p1TnL90P5G,  LYNP0_zNNk,  y1v8Mo,  lSc8shV;
-    FpAAC  =  B81gr__y  =  PQig6WZ  =  E5G7A  =  pTBtPI  =  E9FHqnBeHY  =  ho5vMc  =  qcjpMB0i1P  =  jNf_eW  =  P97224x  =  jLXKAx0  =  s_1B7  =  bP3nQ82Vo  =  lE52_Zy0Y  =  xXyY9l1D  =  Vj5zcj  =  d7Jh  =  ABaV6Cf  =  mgw_0D  =  QE_G5VHwM  =  Ned1  =  J8zuO3Za  =  cUMXwc  =  m46zRlvV_  =  L4A158s  =  oC3jbda  =  a_1QcxLK5_  =  pnPZAADE  =  amgeO4q8  =  p26X  =  q85TN  =  y_Q2W  =  ev3DN4w  =  EX50Dwj  =  l5F47  =  l3RDTm8IF  =  k5_s  =  rzMBw5D6R  =  O9YNhI  =  G6_x2  =  G69T65  =  ok7S1hEoI  =  qz56Lk66bR  =  Zu35DbL_9  =  vx_TenFxB2  =  p1TnL90P5G  =  LYNP0_zNNk  =  y1v8Mo  =  lSc8shV  =  494563207;
+    FpAAC  =  B81gr__y  =  PQig6WZ  =  E5G7A  =  pTBtPI  =  E9FHqnBeHY  =  ho5vMc  =  qcjpMB0i1P  =  jNf_eW  =  P97224x  =  jLXKAx0  =  s_1B7  =  bP3nQ82Vo  =  lE52_Zy0Y  =  xXyY9l1D  =  Vj5zcj  =  d7Jh  =  ABaV6Cf  =  mgw_0D  =  QE_G5VHwM  =  Ned1  =  J8zuO3Za  =  cUMXwc  =  m46zRlvV_  =  L4A158s  =  oC3jbda  =  a_1QcxLK5_  =  pnPZAADE  =  amgeO4q8  =  p26X  =  q85TN  =  y_Q2W  =  ev3DN4w  =  EX50Dwj  =  l5F47  =  l3RDTm8IF  =  k5_s  =  rzMBw5D6R  =  O9YNhI  =  G6_x2  =  G69T65  =  ok7S1hEoI  =  qz56Lk66bR  =  Zu35DbL_9  =  vx_TenFxB2  =  p1TnL90P5G  =  LYNP0_zNNk  =  y1v8Mo  =  lSc8shV  =  (short)494563207;
     unsigned int    Dw9O95rk_4,    KepZOLT7Ri;
         Dw9O95rk_4    =    KepZOLT7Ri    =    0;
 
@@ -341,7 +341,7 @@ d7Jh >>= qz56Lk66bR;
 }
 else
 {
-jNf_eW = (m46zRlvV_ < 732112287) ? qcjpMB0i1P : 614910397;
+jNf_eW = (m46zRlvV_ < 732112287) ? qcjpMB0i1P : (short)614910397;
 }
 }
 }
@@ -476,7 +476,7 @@ k5_s *= k5_s;
 break;
 case 'f':
 case 'F':
-L4A158s = (jLXKAx0 == G69T65) ? 1136811185 : KepZOLT7Ri;
+L4A158s = (jLXKAx0 == G69T65) ? (short)1136811185 : KepZOLT7Ri;
 break;
 case 'g':
 case 'G':

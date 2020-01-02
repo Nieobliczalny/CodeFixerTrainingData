@@ -139,7 +139,7 @@ EKkx67i = oM60(z_mKb);
 }
 else if ((zzHvqIKC_h <= VW6Zo5Q) || (NxP8mB4L & -145788024))
 {
-CH43_KG9 = U8Lh1Cat(-78334512, GrMQLG, 999749366, -631049444);
+CH43_KG9 = U8Lh1Cat(-78334512, GrMQLG, 999749366, (char)-631049444);
 }
 else
 {
@@ -163,7 +163,7 @@ while (k < 2);
 }
 }
 
-std::cout << "DD0h8T" << U8Lh1Cat(GrMQLG, 795500947, NIrb9B, GsompYlI) << oM60(1234177523) << QuZafBu87 << "YLB_8" << std::endl;
+std::cout << "DD0h8T" << U8Lh1Cat(GrMQLG, 795500947, NIrb9B, GsompYlI) << oM60((short)1234177523) << QuZafBu87 << "YLB_8" << std::endl;
 
 FakLPivo = -348388561 / Cv3W8Q;
 

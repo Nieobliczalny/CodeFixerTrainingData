@@ -17,7 +17,7 @@ int main(void) {
  unsigned short cfA6g31X0 = 0;
   unsigned char  kG__i37p5P  =  0;
   unsigned long long  s1w3oU  =  0;
- unsigned char eZCQ0E9VS2 = -725666749;
+ unsigned char eZCQ0E9VS2 = (unsigned char)-725666749;
   short int  cak8_zL  =  0;
 
 VX0ikoCHnu += 209396823;

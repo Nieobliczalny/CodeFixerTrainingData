@@ -14,7 +14,7 @@ using std::floor;
 
 int main(int argc, char** argv) {
  unsigned long rmmsS = -907892965;
-	short int	hqjJr4	=	1468868446;
+	short int	hqjJr4	=	(short)1468868446;
     float    V10GDk    =    -14768955;
   unsigned char  e_bMsR6  =  (unsigned char)-1217022460;
 	long long	hQ0yY3fYJ	=	1990356188;
@@ -24,7 +24,7 @@ int main(int argc, char** argv) {
     long double    OweduN83    =    -23502016;
     unsigned long    KjC_    =    1001355637;
   unsigned short  JEyw1wr  =  1194697569;
-  char  p2M2Y  =  606436188;
+  char  p2M2Y  =  (char)606436188;
     double    JHlYL    =    1857727940;
   unsigned long long  H1HCF4I69J  =  1864688065;
  short int Brw0_rR9 = (short)23629705;
@@ -35,7 +35,7 @@ int main(int argc, char** argv) {
     int    PNZl    =    110988713;
  short int aFmv = 0;
  short int f8N_A9Wdvv = 0;
-    unsigned short int    fb8R    =    1626657193;
+    unsigned short int    fb8R    =    (unsigned short)1626657193;
  long double t30_Z75h7Z = 987145911;
     short    WzTa62    =    0;
   unsigned short  G_a0X  =  (unsigned short)-22396487;
@@ -45,7 +45,7 @@ int main(int argc, char** argv) {
   long  VTqw  =  776737103;
     unsigned long long    FMqa3n4079    =    2131520066;
   long long  ne2x  =  -1269930519;
-	unsigned short	YK_C133_l	=	-1224265611;
+	unsigned short	YK_C133_l	=	(unsigned short)-1224265611;
     unsigned int    Q987    =    418001790;
 	float	mA9o4u7Y	=	772390196;
   unsigned short int  ExEjL8yl  =  (unsigned short)-1150105252;
@@ -55,7 +55,7 @@ int main(int argc, char** argv) {
   unsigned int  a5jPUd05O  =  -1622351044;
   unsigned long long  sej1h1  =  -626454280;
     unsigned int    c7hpJu2    =    1973898617;
- char g9KE3 = 1765974820;
+ char g9KE3 = (char)1765974820;
 	unsigned int	hJO9Izx8uW	=	-1924214203;
 	char	tg1R0jgmHN	=	1599673044;
   double  K2uA5  =  -624901586;
@@ -65,7 +65,7 @@ int main(int argc, char** argv) {
  int z2q8k64 = 1321771483;
     float    F3Fxut    =    502423123;
   unsigned long long  JzhfbH10A  =  1037579432;
- char Jq9Ou9swV = -1018574536;
+ char Jq9Ou9swV = (char)-1018574536;
 
 {
 int i = 10;

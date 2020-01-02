@@ -40,7 +40,7 @@ case 'A':
 REb56 %= j8N3RN1s37;
 break;
 default:
-bc9wH655O = Y0_hs(1141220396);
+bc9wH655O = Y0_hs((short)1141220396);
 break;
 }
 }
@@ -55,7 +55,7 @@ V0jH_1xGGL -= d90sO;
 }
 else if ((Q1v6F < -2048395121) && (Yf144 & -1969457379))
 {
-bc9wH655O = Y0_hs(852251220);
+bc9wH655O = Y0_hs((short)852251220);
 }
 else if (((Zn4r < -1200590910) && (Xi2MvrXd63 < 147035052)) || (qy_EUa))
 {
@@ -65,7 +65,7 @@ case 0:
 O_tTT67D = l3Q_S8d09 | REb56;
 break;
 case 1:
-D5GTR4js = Y0_hs(135490753);
+D5GTR4js = Y0_hs((short)135490753);
 break;
 case 2:
 UuX45fy90 = UhJG5_h ^ 1037401833;
@@ -89,7 +89,7 @@ int i = 0;
 while (i < 3)
 {
 ++i;
-D5GTR4js = Y0_hs(1721479561);
+D5GTR4js = Y0_hs((short)1721479561);
 }
 }
 {
@@ -220,7 +220,7 @@ else
 {
 try
 {
-R361w47 = Y0_hs(-494752870) / k6xGRPdC98;
+R361w47 = Y0_hs((short)-494752870) / k6xGRPdC98;
 }
 catch (int& errorCode)
 {
@@ -242,7 +242,7 @@ case 2:
 Z_w37Y /= 764245840;
 break;
 case 3:
-bc9wH655O = Y0_hs(-944091391);
+bc9wH655O = Y0_hs((short)-944091391);
 break;
 case 4:
 bc9wH655O = Y0_hs(b5hO);
@@ -260,7 +260,7 @@ case 8:
 xPX3i /= 176301255;
 break;
 case 9:
-l3Q_S8d09 = Y0_hs(-1492744024) | 1516856278;
+l3Q_S8d09 = Y0_hs((short)-1492744024) | 1516856278;
 break;
 default:
 k6xGRPdC98--;
@@ -273,7 +273,7 @@ if ((y6vKZaI7z4 >= 1751215335) || ((UbZF6s7_S >= 2139710869) || (MXNE & 18305088
 {
 for (int k = 10; k >= 0; k--)
 {
-bc9wH655O = Y0_hs(-1976691324);
+bc9wH655O = Y0_hs((short)-1976691324);
 }
 }
 }
@@ -293,7 +293,7 @@ l3Q_S8d09 = (unsigned short int)(wtkF);
 }
 else if (((znnLwk2Y > 847545422) && (Ln61G2o_4 > 622370845)) || (Hpd1_Z == 125461635))
 {
-D5GTR4js = Y0_hs(1136138497);
+D5GTR4js = Y0_hs((short)1136138497);
 }
 else if (h_zfeV != 2101627915)
 {
@@ -334,7 +334,7 @@ else
 {
 if (((Hg_46TMUu != n13fjI) || (l3Q_S8d09 >= 1312050204)) || (fXDAZk73Wt))
 {
-bc9wH655O = Y0_hs(2000643884);
+bc9wH655O = Y0_hs((short)2000643884);
 }
 else
 {
@@ -355,7 +355,7 @@ case 'c':
 D5GTR4js = Y0_hs(XonMin8zG);
 break;
 case 'd':
-Q1Gi5q33AK = (UuX45fy90) ? Hp_pbz_zF : Y0_hs(-1686296809);
+Q1Gi5q33AK = (UuX45fy90) ? Hp_pbz_zF : Y0_hs((short)-1686296809);
 break;
 }
 
@@ -387,7 +387,7 @@ do
 {
 for (int j = 7; j >= 0; j--)
 {
-D5GTR4js = Y0_hs(1953172114);
+D5GTR4js = Y0_hs((short)1953172114);
 }
 --i;
 }

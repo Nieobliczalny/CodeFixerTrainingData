@@ -162,7 +162,7 @@ cb33 = NY_7FH5hM();
 }
 else
 {
-ZyU8rnYc3k = Xs3Zp7A(2132964155, D2_rs_) * U31Mv9D;
+ZyU8rnYc3k = Xs3Zp7A((unsigned short)2132964155, D2_rs_) * U31Mv9D;
 }
 }
 else if (Lx9__v6U != 1741914931)
@@ -241,7 +241,7 @@ cb33 = NY_7FH5hM();
 }
 else
 {
-cout << Xs3Zp7A(wh0I, 74268273) << Xs3Zp7A(-866954103, 1049206509) << "N4SK1T5" << endl;
+cout << Xs3Zp7A(wh0I, 74268273) << Xs3Zp7A((unsigned short)-866954103, 1049206509) << "N4SK1T5" << endl;
 }
 }
 else if (wh0I == 2116477450)
@@ -284,7 +284,7 @@ PcfnYpx12E = (int)abs(Je5IT);
 break;
 case 'b':
 case 'B':
-Sh9K = Xs3Zp7A(411405058, Mrj0g);
+Sh9K = Xs3Zp7A((unsigned short)411405058, Mrj0g);
 break;
 case 'c':
 case 'C':
@@ -316,7 +316,7 @@ P_A2 = NY_7FH5hM();
 }
 else
 {
-GVY877h91g = Xs3Zp7A(-1612482081, bjWD8dTKN);
+GVY877h91g = Xs3Zp7A((unsigned short)-1612482081, bjWD8dTKN);
 }
 }
 if (KILYk >= -1009738082)
@@ -390,7 +390,7 @@ cb33 = NY_7FH5hM();
 break;
 case 'b':
 case 'B':
-vumj8eb8 = Xs3Zp7A(1494591591, 737728014);
+vumj8eb8 = Xs3Zp7A((unsigned short)1494591591, 737728014);
 break;
 case 'c':
 case 'C':
@@ -603,7 +603,7 @@ P_A2 = NY_7FH5hM();
 break;
 }
 }
-Eaop3R0B0d = Xs3Zp7A(-992055753, Ouq_);
+Eaop3R0B0d = Xs3Zp7A((unsigned short)-992055753, Ouq_);
 
 try
 {
@@ -640,7 +640,7 @@ while (k >= 0);
 }
 else if (fW9z3Y & F_Do4C)
 {
-GvSa_1 = Xs3Zp7A(-1225077342, 142886245);
+GvSa_1 = Xs3Zp7A((unsigned short)-1225077342, 142886245);
 }
 else if (R38Dm_7 <= Q24N)
 {
@@ -675,7 +675,7 @@ else if (EbNTPvJ < OjsP)
 {
 try
 {
-cvaS5 = Xs3Zp7A(220938536, 2007145705);
+cvaS5 = Xs3Zp7A((unsigned short)220938536, 2007145705);
 }
 catch (int& errorCode)
 {
@@ -689,7 +689,7 @@ int k = 0;
 while (k < 8)
 {
 k++;
-g924 = Xs3Zp7A(1417726466, lS_M_341x5);
+g924 = Xs3Zp7A((unsigned short)1417726466, lS_M_341x5);
 }
 }
 }
@@ -717,7 +717,7 @@ case 3:
 OBwkuC = (int)abs(QAT967);
 break;
 case 4:
-rHpI = Xs3Zp7A(1472465619, hDVO2c__9);
+rHpI = Xs3Zp7A((unsigned short)1472465619, hDVO2c__9);
 break;
 default:
 qm3dEHvj3 %= 28992620;
@@ -738,7 +738,7 @@ return 0;
 
 unsigned short    Xs3Zp7A(unsigned short    l0n8,long long    rRv91)
 {
-    return    -1958154861;
+    return    (unsigned short)-1958154861;
 }
 
 short int NY_7FH5hM() {

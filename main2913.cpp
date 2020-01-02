@@ -8,7 +8,7 @@
 
 
 int main(int argc, char** argv) {
-  short  a2q_1oS  =  736647175;
+  short  a2q_1oS  =  (short)736647175;
     unsigned long    I5_agbD    =    -825294045;
   unsigned short  R4OL2U4CZ  =  (unsigned short)863788634;
 	unsigned long long	PnN_2n64KH	=	653095150;
@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
     double    J0ud    =    1148521510;
  unsigned long long u_H9OTvp4x = 557452721;
 	double	j7TM_F0ky	=	-1429614140;
- unsigned char Lg0C9ac = 1104446722;
+ unsigned char Lg0C9ac = (unsigned char)1104446722;
     unsigned long    M88H    =    -1394005887;
 	unsigned long long	LYUfpN	=	-135693546;
     float    UXYv    =    -683901988;
@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
  float x5Z8LyI5UH = 194199329;
  unsigned long long CU6f7ZC = -1364007442;
     short    mV80_Ra57    =    -2043089498;
-  unsigned short int  dTxq_xEkw4  =  -85623077;
+  unsigned short int  dTxq_xEkw4  =  (unsigned short)-85623077;
   unsigned short int  H3p15  =  2111976710;
 	unsigned long	XQb1_8ojHN	=	-495751702;
 	float	pKUV	=	-1449883549;
@@ -42,7 +42,7 @@ int main(int argc, char** argv) {
  float KlydK83Ik = -870983477;
 	long double	AByeUk8P	=	1226648352;
  unsigned int Gh_M8P793 = -1790248076;
-	char	Ht12Y68Hi	=	-436192899;
+	char	Ht12Y68Hi	=	(char)-436192899;
   unsigned int  cbroB1  =  0;
  char t3C3k = (char)-8059650;
     unsigned int    h3oXa    =    0;
@@ -53,7 +53,7 @@ int main(int argc, char** argv) {
  double Y5_GW1ya = 1419336229;
  long long QSqaH6l9u = -1716736086;
   int  MP0F7x5o9  =  273486688;
- unsigned short int ddjf08sWaM = -1243606406;
+ unsigned short int ddjf08sWaM = (unsigned short)-1243606406;
 	int	N9uBmO	=	-1360329339;
  unsigned int p_P3yU = 1093592163;
 	long long	fVW_ikL	=	1972364473;
@@ -65,7 +65,7 @@ int main(int argc, char** argv) {
  unsigned long Q1O0fls = 265250635;
     long    lUXf_p    =    974099673;
  long long arvcLr = -1871735026;
-  unsigned short  oqDA1O3  =  -964774299;
+  unsigned short  oqDA1O3  =  (unsigned short)-964774299;
   short  EsAM2rk9c  =  2016111726;
 	short int	Iy3Y4d	=	576821108;
 
@@ -185,7 +185,7 @@ ix21Zf++;
 }
 else
 {
-H3p15 = (KlydK83Ik > -1977643027) ? cbroB1 : 1644354405;
+H3p15 = (KlydK83Ik > -1977643027) ? cbroB1 : (unsigned short)1644354405;
 }
 
 std::cout << "czaiE2to" << h3oXa << std::endl;

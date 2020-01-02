@@ -9,7 +9,7 @@
 using namespace std;
 
 short int    a0Y9zvx6(short    Y127_Z,int    upLIE,unsigned char    C5rqQJ4,long long    exk8,short    xdT9q_)    {
-    return    -654346003;
+    return    (short)-654346003;
 }
 
 short int    fs9e12()    {
@@ -77,7 +77,7 @@ while (i >= 0);
 }
 Jb0_75nl = (float)(RMcRM);
 
-cout << a0Y9zvx6(-2021736391, dIc034, RHrvr, -2129232003, ZzJH6) << endl;
+cout << a0Y9zvx6((short)-2021736391, dIc034, RHrvr, -2129232003, ZzJH6) << endl;
 
 M_kdOALI03 = a0Y9zvx6((short)-2014256061, B536K, -170609458, dFCX4, -963207398);
 
@@ -128,7 +128,7 @@ Z242y4 = (cMH8BqBq >= -715771795) ? IeZw1E : -483954610;
 }
 else if (RHrvr & -1692725949)
 {
-Jb0_75nl = a0Y9zvx6(-2076509300, 1649457744, g9htkRgT, -984884537, B536K);
+Jb0_75nl = a0Y9zvx6((short)-2076509300, 1649457744, g9htkRgT, -984884537, B536K);
 }
 else if (((TDK8wl == 547078506) || (q473QoBTp < 1044032072)) || ((C2I96s > S63m4) || (RMcRM != IeZw1E)))
 {
@@ -220,7 +220,7 @@ catch (int& errorCode)
 C2I96s = (int)floor(u0jk);
 }
 V688_2h -= jzYjY16sR;
-n5VO = a0Y9zvx6(-1701799454, n5VO, (unsigned char)518952866, -536313258, -1263674716);
+n5VO = a0Y9zvx6((short)-1701799454, n5VO, (unsigned char)518952866, -536313258, -1263674716);
 
 if ((TDK8wl <= -833250843) || (C2I96s))
 {

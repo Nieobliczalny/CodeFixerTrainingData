@@ -24,7 +24,7 @@ int main(void)
     long    z330;
     z330    =    -2087002670;
  short wg5446Qf;
- wg5446Qf = 1005795640;
+ wg5446Qf = (short)1005795640;
   unsigned long  q3_DyCq;
   q3_DyCq  =  -1463367070;
 	long	pBNL6S6;
@@ -38,7 +38,7 @@ int main(void)
   unsigned long long  ySjVh90_0;
   ySjVh90_0  =  277170586;
 	unsigned short	Jn1eDX6;
-	Jn1eDX6	=	-966799293;
+	Jn1eDX6	=	(unsigned short)-966799293;
  long Uom948KGY4;
  Uom948KGY4 = 407701297;
   long double  RAkVk07pr;
@@ -52,7 +52,7 @@ int main(void)
  float iYCbCj;
  iYCbCj = -1935306374;
  unsigned short q9I_A;
- q9I_A = 1633464358;
+ q9I_A = (unsigned short)1633464358;
  unsigned long W89D9J3kG;
  W89D9J3kG = -273434915;
 	unsigned int	amj76LC5;
@@ -62,7 +62,7 @@ int main(void)
   short  v4ry92N;
   v4ry92N  =  -1023568768;
  char to0Ifr;
- to0Ifr = 693753155;
+ to0Ifr = (char)693753155;
 	unsigned char	p8A7;
 	p8A7	=	-1764065910;
  unsigned long nCYF7BPDW;
@@ -72,7 +72,7 @@ int main(void)
     unsigned long long    dak1BxB5;
     dak1BxB5    =    -133054165;
     short int    o4K9_J_9UB;
-    o4K9_J_9UB    =    -1531455017;
+    o4K9_J_9UB    =    (short)-1531455017;
 
 for (int i = 7; i >= 0; i--)
 {
@@ -378,7 +378,7 @@ F8O64L_ = (unsigned long)(z330);
 switch (q9I_A)
 {
 case 0:
-Jn1eDX6 = (pBNL6S6 & 1714628419) ? F8O64L_ : 544436959;
+Jn1eDX6 = (pBNL6S6 & 1714628419) ? F8O64L_ : (unsigned short)544436959;
 break;
 case 1:
 Jn1eDX6 *= 104686147;

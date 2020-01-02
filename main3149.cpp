@@ -14,7 +14,7 @@ using std::floor;
 
 int main(int argc, char** argv) {
  unsigned short DFN9;
- DFN9 = -594324458;
+ DFN9 = (unsigned short)-594324458;
 	short	NY5bxM5N_;
 	NY5bxM5N_	=	(short)2890715;
   unsigned short int  fO83;
@@ -26,7 +26,7 @@ int main(int argc, char** argv) {
  long long cJ51mvP;
  cJ51mvP = -1851708332;
 	unsigned short	Jt6SR;
-	Jt6SR	=	-1374045486;
+	Jt6SR	=	(unsigned short)-1374045486;
   char  bQFekqbe8B;
   bQFekqbe8B  =  (char)-2049932297;
     int    tL0C;
@@ -36,7 +36,7 @@ int main(int argc, char** argv) {
  long LdAX099bd1;
  LdAX099bd1 = 0;
 	unsigned short	HZnw8y;
-	HZnw8y	=	-679579648;
+	HZnw8y	=	(unsigned short)-679579648;
   unsigned short int  RA967ORZ0K;
   RA967ORZ0K  =  (unsigned short)-1354080235;
 	unsigned long long	O_Gkl7x;
@@ -48,7 +48,7 @@ int main(int argc, char** argv) {
   short int  Vk712kf9J;
   Vk712kf9J  =  0;
   unsigned char  yBf0O2;
-  yBf0O2  =  -1407140629;
+  yBf0O2  =  (unsigned char)-1407140629;
  unsigned short int sVK1Kxi5Rg;
  sVK1Kxi5Rg = (unsigned short)2063855486;
  unsigned short Z935cvX;

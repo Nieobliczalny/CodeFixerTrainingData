@@ -47,7 +47,7 @@ A0OX6kGQz = (unsigned short)(h7mj);
 }
 else if (kP6ne1e4 & -1768027073)
 {
-std::cout << UTSE(XsC1D5, 1187005411) << "dk61BQC" << UTSE(184380635, E_9n0989i_) << std::endl;
+std::cout << UTSE(XsC1D5, 1187005411) << "dk61BQC" << UTSE((short)184380635, E_9n0989i_) << std::endl;
 }
 else if (q2x81QbrxB)
 {
@@ -83,7 +83,7 @@ else if (mSpv0EUXNR < 1330515030)
 switch (lkkut4Hv)
 {
 case 0:
-M3hhy = UTSE(2089702471, Y3o75kIDq);
+M3hhy = UTSE((short)2089702471, Y3o75kIDq);
 break;
 case 1:
 uhKa = TQyRy | 1621896025;
@@ -110,7 +110,7 @@ case 0:
 HkeyXwrR = ZAaK - h7mj;
 break;
 case 1:
-o17V54O0 = UTSE(-2084915547, 1462372269);
+o17V54O0 = UTSE((short)-2084915547, 1462372269);
 break;
 default:
 E_9n0989i_ = Y6g_kLo + l8w4u;
@@ -162,7 +162,7 @@ kP6ne1e4++;
 }
 else if ((A0OX6kGQz > 1185025764) && ((z4M1 < lkkut4Hv) || (N17Wvn_ < q2x81QbrxB)))
 {
-M3hhy = UTSE(1885109835, -1267288769);
+M3hhy = UTSE((short)1885109835, -1267288769);
 }
 else if (mSpv0EUXNR > -1077165487)
 {
@@ -190,7 +190,7 @@ else if (MgNFeW2HX > P1T93jPEN)
 switch (XsC1D5)
 {
 case 0:
-Q9qXF15Z9 = UTSE(-2117984174, lgNlm4iPt);
+Q9qXF15Z9 = UTSE((short)-2117984174, lgNlm4iPt);
 break;
 case 1:
 o17V54O0 = UTSE(M6CvnYJS, -1628739110);
@@ -202,7 +202,7 @@ case 3:
 dnoe = P1T93jPEN ^ E_9n0989i_;
 break;
 case 4:
-M3hhy = UTSE(-1872757659, -986648779);
+M3hhy = UTSE((short)-1872757659, -986648779);
 break;
 case 5:
 kP6ne1e4 = A0OX6kGQz >> BfPK;
@@ -217,7 +217,7 @@ break;
 }
 else
 {
-o17V54O0 = UTSE(1867497346, xIf1);
+o17V54O0 = UTSE((short)1867497346, xIf1);
 }
 
 Z9UKpn51 = (unsigned short)(xIf1);
@@ -240,7 +240,7 @@ else if (i007 == Q9qXF15Z9)
 int k = 8;
 do
 {
-o17V54O0 = UTSE(1347201075, w8_Bx);
+o17V54O0 = UTSE((short)1347201075, w8_Bx);
 --k;
 }
 while (k >= 0);
@@ -277,7 +277,7 @@ case 4:
 A0OX6kGQz = BFzwQoT4n << JS4_MkX;
 break;
 default:
-TQyRy = UTSE(-1692334118, uhKa);
+TQyRy = UTSE((short)-1692334118, uhKa);
 break;
 }
 Q9qXF15Z9 = UTSE((short)-926932874, -601432199);
@@ -305,7 +305,7 @@ j++;
 }
 }
 
-std::cout << MFtlnWAq << UTSE(-1840621203, M6CvnYJS) << UTSE((short)-304353626, -511174062) << XsC1D5 << wtEvX2uL << std::endl;
+std::cout << MFtlnWAq << UTSE((short)-1840621203, M6CvnYJS) << UTSE((short)-304353626, -511174062) << XsC1D5 << wtEvX2uL << std::endl;
 try
 {
 {
@@ -358,7 +358,7 @@ case 'g':
 BFzwQoT4n ^= 1792368257;
 break;
 case 'h':
-M3hhy = UTSE(-1287785340, 907833818);
+M3hhy = UTSE((short)-1287785340, 907833818);
 break;
 case 'i':
 Uc0hp *= BFzwQoT4n;
@@ -411,7 +411,7 @@ case 'd':
 ZAaK--;
 break;
 case 'e':
-IQBuR = UTSE(657000992, -1121256813) % 1353143609;
+IQBuR = UTSE((short)657000992, -1121256813) % 1353143609;
 break;
 case 'f':
 M3hhy = (int)abs(o17V54O0);
@@ -423,7 +423,7 @@ case 'h':
 Q9qXF15Z9 = (int)abs(o17V54O0);
 break;
 default:
-Q9qXF15Z9 = UTSE(1844140351, M6CvnYJS);
+Q9qXF15Z9 = UTSE((short)1844140351, M6CvnYJS);
 break;
 }
 

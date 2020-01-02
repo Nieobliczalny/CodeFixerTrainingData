@@ -53,7 +53,7 @@ hVk6 /= hVk6;
 }
 else
 {
-pn0l = W9GN6i(-90367333, VCNI);
+pn0l = W9GN6i((short)-90367333, VCNI);
 }
 }
 else
@@ -79,7 +79,7 @@ case 'a':
 KiBjdEL2q = zSuKpW(KiBjdEL2q, Y5PL3u, kq5xr34t3r, B8AS2B);
 break;
 case 'b':
-pn0l = PNk03r(165859747, 826482354);
+pn0l = PNk03r((unsigned short)165859747, 826482354);
 break;
 case 'c':
 V0Z_ = J4ScHPiz6N - ItMwzkk2ks;
@@ -91,7 +91,7 @@ case 'e':
 KO__i2PA3 = zSuKpW((char)-1093867869, -1597611409, QTBTsal, V0Z_) | 1164514992;
 break;
 case 'f':
-FP9HX = W9GN6i(1907948191, 662716184);
+FP9HX = W9GN6i((short)1907948191, 662716184);
 break;
 case 'g':
 ag0o >>= 522380466;
@@ -112,7 +112,7 @@ if ((n8zn < V0Z_) || ((pMWmqG == GZ5w) && (A7qHI & 997042931)))
 {
 if ((ItMwzkk2ks & -57637489) || ((V0Z_ > K_7U6ih1S9) || (v82Z7 & 2126169918)))
 {
-WxLFtXdP_h = W9GN6i(545710917, -2006548179);
+WxLFtXdP_h = W9GN6i((short)545710917, -2006548179);
 }
 else
 {
@@ -139,7 +139,7 @@ H52n++;
 }
 else if ((rX0KMLZ8H1 > K_7U6ih1S9) || ((hVX8) || (Y5PL3u != v82Z7)))
 {
-PJrlE44 = W9GN6i(-565061020, JcTa);
+PJrlE44 = W9GN6i((short)-565061020, JcTa);
 }
 else if (j6g151OHCj > -1829600447)
 {
@@ -167,7 +167,7 @@ lmmD6T3 = Hf204Uf2o();
 }
 std::cout << rX0KMLZ8H1 << std::endl;
 std::cout << PNk03r(lmmD6T3, -1055255969) << Hf204Uf2o() << HL42 << "La_l6_" << "VQSx" << std::endl;
-VCNI = W9GN6i(696920815, oiHZ0KPE);
+VCNI = W9GN6i((short)696920815, oiHZ0KPE);
 switch (H52n)
 {
 case 'a':
@@ -221,7 +221,7 @@ while (i < 3);
 
 if (NrH8m)
 {
-Y5PL3u = zSuKpW(-1385001773, -1463042756, -660639396, -1940571242);
+Y5PL3u = zSuKpW((char)-1385001773, -1463042756, -660639396, -1940571242);
 }
 
 if (K_7U6ih1S9 < -1003992791)
@@ -298,7 +298,7 @@ int i = 0;
 while (i < 6)
 {
 i++;
-pA90U1V = PNk03r(-1149231240, AvU01d);
+pA90U1V = PNk03r((unsigned short)-1149231240, AvU01d);
 }
 }
 
@@ -316,7 +316,7 @@ case 1:
 H52n ^= 1088848669;
 break;
 case 2:
-AvU01d = zSuKpW(-1478064966, AvU01d, -1948558624, A7qHI);
+AvU01d = zSuKpW((char)-1478064966, AvU01d, -1948558624, A7qHI);
 break;
 case 3:
 HL42 = W9GN6i((short)-1951904688, 213825332) >> 20688916;
@@ -374,7 +374,7 @@ KiBjdEL2q = zSuKpW(NrH8m, -741255320, ERD28, 1708306894);
 }
 else if (x9imu > 1735222213)
 {
-ZUI_ = zSuKpW(-322700628, -21500643, -1948352144, 999680607);
+ZUI_ = zSuKpW((char)-322700628, -21500643, -1948352144, 999680607);
 }
 else
 {
@@ -432,7 +432,7 @@ if ((pn0l >= -1541099469) && (x9imu >= GZ5w))
 int k = 2;
 while (k >= 0)
 {
-LY28 = PNk03r(401350784, 64038234);
+LY28 = PNk03r((unsigned short)401350784, 64038234);
 --k;
 }
 }
@@ -489,7 +489,7 @@ j++;
 switch (VCNI)
 {
 case 'a':
-HE595Axv = W9GN6i(204542978, PJrlE44);
+HE595Axv = W9GN6i((short)204542978, PJrlE44);
 break;
 case 'b':
 x9imu = atK9jj & AuX_IED;
@@ -504,7 +504,7 @@ case 'e':
 BG9qr89_L ^= A923pJ90kH;
 break;
 case 'f':
-AuX_IED = W9GN6i(31175853, 545141118);
+AuX_IED = W9GN6i((short)31175853, 545141118);
 break;
 case 'g':
 ZUI_ = (int)abs(Y5PL3u);
@@ -528,7 +528,7 @@ case 'a':
 PJrlE44--;
 break;
 case 'b':
-v82Z7 = W9GN6i(835503386, -692691897);
+v82Z7 = W9GN6i((short)835503386, -692691897);
 break;
 case 'c':
 FP9HX = Hf204Uf2o();
@@ -591,7 +591,7 @@ if ((A923pJ90kH < rX0KMLZ8H1) && ((rX0KMLZ8H1 <= -1832737949) && (AvU01d & 10611
 {
 if (K_7U6ih1S9 <= -596145526)
 {
-VCNI = W9GN6i(1642844491, 918404758);
+VCNI = W9GN6i((short)1642844491, 918404758);
 }
 else if (((K_7U6ih1S9) || (FP9HX != -2061228149)) || ((A923pJ90kH > 10533075) || (AoI5m <= -785147987)))
 {
@@ -603,7 +603,7 @@ KiBjdEL2q = zSuKpW(382547955, -1966133411, -503775074, -1326141756);
 }
 else if (KiBjdEL2q == hVX8)
 {
-KiBjdEL2q = zSuKpW(-1678697203, t26OK9C, 1534419839, 1338745572);
+KiBjdEL2q = zSuKpW((char)-1678697203, t26OK9C, 1534419839, 1338745572);
 }
 else
 {
@@ -667,7 +667,7 @@ Y5PL3u = zSuKpW(v82Z7, -1890291292, b26aTq, -1713007981);
 }
 else
 {
-NrH8m = W9GN6i(947827834, 1514308683);
+NrH8m = W9GN6i((short)947827834, 1514308683);
 }
 }
 }
@@ -747,7 +747,7 @@ long long    zSuKpW(char    uai0_96,unsigned int    p849PBwy73,int    HM5z5,int 
 
 short int	PNk03r(unsigned short	aiEbIWje7,long long	iqsP)
 {
-	return	-726894002;
+	return	(short)-726894002;
 }
 
 unsigned long	W9GN6i(short	oC84DfyJ8,int	bkJ634)

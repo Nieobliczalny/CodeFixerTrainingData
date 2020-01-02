@@ -519,7 +519,7 @@ return 0;
 }
 
 unsigned short TsuKM9() {
- return -2077446765;
+ return (unsigned short)-2077446765;
 }
 
 short  Z8Tydr31()

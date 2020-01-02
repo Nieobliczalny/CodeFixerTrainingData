@@ -21,7 +21,7 @@ case 'b':
 UlRc9 = (int)abs(v7eJYB__);
 break;
 case 'c':
-t5289_ = (Xjh4I7b & -2031408691) ? 765992361 : F9kXu;
+t5289_ = (Xjh4I7b & -2031408691) ? (short)765992361 : F9kXu;
 break;
 case 'd':
 hZw_e17 = (int)abs(Kt_N4ICh1V);
@@ -161,7 +161,7 @@ if (N3ak7435J <= cX03ME9)
 {
 if (AR41r > 1666619732)
 {
-bU2_9F = (jh9MSi3f != 1704014612) ? -1147980918 : (short)521215707;
+bU2_9F = (jh9MSi3f != 1704014612) ? (short)-1147980918 : (short)521215707;
 }
 else if (El1_bWcrK > -1379373428)
 {

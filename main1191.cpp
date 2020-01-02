@@ -20,7 +20,7 @@ int main(void)
     long long    mOYO    =    1513186366;
     unsigned long    FQ6G    =    0;
     int    SJCR    =    0;
-  short  nrPh  =  -1609457827;
+  short  nrPh  =  (short)-1609457827;
 	unsigned short int	Z_c46v	=	(unsigned short)676404168;
  short bcA96II = 0;
 	unsigned long long	NcmaQih5h	=	533027620;
@@ -78,7 +78,7 @@ CIL21 = (int)abs(nrPh) * 0;
 break;
 case 'c':
 case 'C':
-FQ6G = Qr_m5G(-692250257);
+FQ6G = Qr_m5G((unsigned short)-692250257);
 break;
 case 'd':
 case 'D':
@@ -165,7 +165,7 @@ else if ((FQ6G != -1996538833) || (NcmaQih5h >= -187050953))
 switch (Z_c46v)
 {
 case 0:
-QwrA = Qr_m5G(1426504020) ^ Z_c46v;
+QwrA = Qr_m5G((unsigned short)1426504020) ^ Z_c46v;
 break;
 case 1:
 nrPh = xSRp(-1345131533, -977577656, (unsigned short)1460849776, mOYO);
@@ -244,7 +244,7 @@ case 0:
 nrPh = SJCR / SJCR;
 break;
 case 1:
-SJCR = Qr_m5G(-1276808054);
+SJCR = Qr_m5G((unsigned short)-1276808054);
 break;
 case 2:
 nrPh |= Z_c46v;
@@ -259,7 +259,7 @@ case 5:
 NcmaQih5h /= 1979833445;
 break;
 case 6:
-bRX9Qn = xaEwR944_K(-2050780225, NcmaQih5h);
+bRX9Qn = xaEwR944_K((unsigned short)-2050780225, NcmaQih5h);
 break;
 default:
 nrPh = bcA96II ^ 638931205;
@@ -270,7 +270,7 @@ break;
 }
 else if (nrPh > SJCR)
 {
-std::cout << Qr_m5G(1208322665) << Qr_m5G(bRX9Qn) << "HuNE0AN" << xaEwR944_K((unsigned short)977592550, NcmaQih5h) << FQ6G << std::endl;
+std::cout << Qr_m5G((unsigned short)1208322665) << Qr_m5G(bRX9Qn) << "HuNE0AN" << xaEwR944_K((unsigned short)977592550, NcmaQih5h) << FQ6G << std::endl;
 }
 else
 {
@@ -312,7 +312,7 @@ bRX9Qn %= 1627013223;
 }
 else if (FQ6G)
 {
-mOYO = xaEwR944_K(-925678128, -261438166);
+mOYO = xaEwR944_K((unsigned short)-925678128, -261438166);
 }
 else if (nrPh == -1137456487)
 {
@@ -358,7 +358,7 @@ SJCR = Qr_m5G(SJCR);
 while (i < 6);
 }
 CIL21 = (short int)(bRX9Qn * CIL21);
-std::cout << nrPh << Qr_m5G(-1290023521) << std::endl;
+std::cout << nrPh << Qr_m5G((unsigned short)-1290023521) << std::endl;
 
 {
 int i = 9;
@@ -380,7 +380,7 @@ int k = 10;
 while (k >= 0)
 {
 --k;
-nrPh = (FQ6G >= -1813600845) ? -856177735 : Qr_m5G(SJCR);
+nrPh = (FQ6G >= -1813600845) ? (short)-856177735 : Qr_m5G(SJCR);
 }
 }
 }
@@ -395,7 +395,7 @@ return 0;
 
 unsigned char	xSRp(unsigned long long	V_D7sMK3VA,long	T1L054q,unsigned short int	GbKe_Z0,unsigned char	a_0_0)
 {
-	return	633464007;
+	return	(unsigned char)633464007;
 }
 
 short  Qr_m5G(unsigned short  qle527ae0)

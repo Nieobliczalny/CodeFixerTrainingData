@@ -26,7 +26,7 @@ int main() {
 	long	F8jg418CO;
 	F8jg418CO	=	243918445;
  unsigned short K30n1aZ;
- K30n1aZ = -351946794;
+ K30n1aZ = (unsigned short)-351946794;
     short    yv23Y;
     yv23Y    =    (short)-489567406;
 	unsigned short	IxX6Z1lgOp;
@@ -38,7 +38,7 @@ int main() {
     long    JH6xKx;
     JH6xKx    =    1132460981;
   char  q1nOGa;
-  q1nOGa  =  1076219228;
+  q1nOGa  =  (char)1076219228;
 	unsigned long long	U7KxJ0GwY2;
 	U7KxJ0GwY2	=	556854506;
   float  qjEoKvlvP;
@@ -52,7 +52,7 @@ int main() {
     unsigned int    Miu_2gLHc;
     Miu_2gLHc    =    407699119;
   short  hWnB;
-  hWnB  =  918971802;
+  hWnB  =  (short)918971802;
     unsigned long long    m89luo2MB;
     m89luo2MB    =    -769264106;
 	long	FL5mIzX7Y;
@@ -89,7 +89,7 @@ try
 int k = 0;
 while (k < 1)
 {
-VnNU4702K = MDuh8(VnNU4702K, -506023678);
+VnNU4702K = MDuh8(VnNU4702K, (unsigned short)-506023678);
 ++k;
 }
 }
@@ -129,7 +129,7 @@ else
 {
 if (V_m6q)
 {
-JH6xKx = ayQ2(JH6xKx, -1879899431);
+JH6xKx = ayQ2(JH6xKx, (short)-1879899431);
 }
 else if (m89luo2MB != A0Zt_h)
 {
@@ -145,7 +145,7 @@ catch (int& errorCode)
 {
 uj_E0Xx_r = (int)floor(tZ1Q3MG0);
 }
-PWTnK = ayQ2(PWTnK, -567954585);
+PWTnK = ayQ2(PWTnK, (short)-567954585);
 FL5mIzX7Y |= F8jg418CO;
 for (int i = 0; i < 7; ++i)
 {
@@ -197,7 +197,7 @@ case 1:
 VdTYiuV0M = H4pf44U(IxX6Z1lgOp, tZ1Q3MG0, kvh_Q, JH6xKx, FL5mIzX7Y);
 break;
 case 2:
-yv23Y = MDuh8(yv23Y, -2082840542);
+yv23Y = MDuh8(yv23Y, (unsigned short)-2082840542);
 break;
 case 3:
 VdTYiuV0M = H4pf44U(2127879794, I9HP1s4n, 954418125, V_m6q, PWTnK);
@@ -209,7 +209,7 @@ case 5:
 KNd79_U = (int)abs(JH6xKx);
 break;
 case 6:
-JD66 = ayQ2(JD66, -671816791);
+JD66 = ayQ2(JD66, (short)-671816791);
 break;
 case 7:
 qjEoKvlvP = (int)ceil(GI8F7);
@@ -257,7 +257,7 @@ case 2:
 qjEoKvlvP = (int)floor(GI8F7);
 break;
 case 3:
-kvh_Q = B8xI(-1601084334, 718821336, I9HP1s4n, IxX6Z1lgOp);
+kvh_Q = B8xI(-1601084334, (short)718821336, I9HP1s4n, IxX6Z1lgOp);
 break;
 case 4:
 GI8F7 = (int)ceil(VnNU4702K);
@@ -269,7 +269,7 @@ case 6:
 VN3x46U36 = (uj_E0Xx_r >= G94J9g) ? UXvl : G94J9g;
 break;
 case 7:
-q1nOGa = ayQ2(q1nOGa, -170625409);
+q1nOGa = ayQ2(q1nOGa, (short)-170625409);
 break;
 case 8:
 FL5mIzX7Y = ayQ2(FL5mIzX7Y, 807632728);
@@ -283,7 +283,7 @@ break;
 }
 for (int i = 0; i < 1; ++i)
 {
-FL5mIzX7Y = MDuh8(1774268548, -978919240);
+FL5mIzX7Y = MDuh8((unsigned short)1774268548, -978919240);
 }
 
 for (int i = 0; i < 3; i++)
@@ -310,7 +310,7 @@ std::cout << JH6xKx << "SOEAmP_e" << "ib1FQ0tq" << I9HP1s4n << JH6xKx << std::en
 
 if (YdBC > q2vr)
 {
-kvh_Q = p3Kac(kvh_Q, -1066549684, tZ1Q3MG0, (short)-135169264);
+kvh_Q = p3Kac(kvh_Q, (unsigned char)-1066549684, tZ1Q3MG0, (short)-135169264);
 }
 else
 {
@@ -322,7 +322,7 @@ q1nOGa >>= JD66;
 }
 else
 {
-yv23Y = ayQ2(-2032345528, (short)756252442);
+yv23Y = ayQ2((char)-2032345528, (short)756252442);
 }
 }
 catch (int& errorCode)
@@ -333,7 +333,7 @@ uj_E0Xx_r = ayQ2(uj_E0Xx_r, KNd79_U);
 KNd79_U = p3Kac(uj_E0Xx_r, 2147184131, 2115377498, q2vr) / VdTYiuV0M;
 
 std::cout << "l8A_z45ymm" << std::endl;
-q1nOGa = B8xI(752864771, 766824789, V_m6q, -1089520209);
+q1nOGa = B8xI(752864771, (short)766824789, V_m6q, -1089520209);
 q1nOGa = B8xI(937689119, KNd79_U, Miu_2gLHc, YdBC);
 try
 {
@@ -365,7 +365,7 @@ else
 {
 for (int k = 0; k < 6; k++)
 {
-IxX6Z1lgOp = MDuh8(1537841853, (unsigned short)1847383390);
+IxX6Z1lgOp = MDuh8((unsigned short)1537841853, (unsigned short)1847383390);
 }
 }
 }
@@ -379,7 +379,7 @@ short int    H4pf44U(long    VVb_YZ90lI,long long    r2bV,long    XX4wN2,unsigne
 
 char    ayQ2(char    lWY5y5,short int    hIP8)
 {
-    return    -764070856;
+    return    (char)-764070856;
 }
 
 unsigned char    p3Kac(unsigned long    v43lMROD,unsigned char    sNpG6Qc,long    Voy_XlD6yU,short int    a2_2T)    {
@@ -392,6 +392,6 @@ unsigned long long    MDuh8(unsigned short int    LPwsR3M6u,unsigned short int  
 }
 
 char    B8xI(unsigned int    K9R27q,short    XPRGr,short int    S60iG,unsigned long long    aqQM_S)    {
-    return    1262135889;
+    return    (char)1262135889;
 }
 

@@ -18,7 +18,7 @@ char    FV64urV2T(unsigned short    YeyinuUR,int    dBbX9ImB,unsigned int    g44
 }
 
 char	fplL79R(unsigned long long	ik96)	{
-	return	-1631335809;
+	return	(char)-1631335809;
 }
 
 int main(int argc, char** argv)
@@ -49,7 +49,7 @@ case 0:
 njaMinw *= 2087735972;
 break;
 case 1:
-xbjS0F_t5M = FV64urV2T(978717649, 73891507, WpcM7j1D_y);
+xbjS0F_t5M = FV64urV2T((unsigned short)978717649, 73891507, WpcM7j1D_y);
 break;
 case 2:
 xF1dwF8 = (int)abs(xbjS0F_t5M);
@@ -75,7 +75,7 @@ else
 {
 for (int j = 0; j < 10; ++j)
 {
-WpcM7j1D_y = FV64urV2T(-1499263364, xF1dwF8, njaMinw);
+WpcM7j1D_y = FV64urV2T((unsigned short)-1499263364, xF1dwF8, njaMinw);
 }
 }
 
@@ -101,7 +101,7 @@ else
 {
 try
 {
-xbjS0F_t5M = FV64urV2T(989892842, -1969490520, g351t4re7);
+xbjS0F_t5M = FV64urV2T((unsigned short)989892842, -1969490520, g351t4re7);
 }
 catch (int& errorCode)
 {
@@ -131,7 +131,7 @@ njaMinw++;
 break;
 case 'e':
 case 'E':
-cjr6899S = FV64urV2T(-814590644, 908891486, -1448516093);
+cjr6899S = FV64urV2T((unsigned short)-814590644, 908891486, -1448516093);
 break;
 }
 
@@ -265,7 +265,7 @@ while (j >= 0)
 j--;
 if (((xbjS0F_t5M >= xF1dwF8) || (xF1dwF8)) || (cjr6899S))
 {
-cjr6899S = FV64urV2T(-1608674733, cjr6899S, xbjS0F_t5M);
+cjr6899S = FV64urV2T((unsigned short)-1608674733, cjr6899S, xbjS0F_t5M);
 }
 else if (((xbjS0F_t5M != -84651658) && (WpcM7j1D_y)) && (njaMinw))
 {
@@ -284,7 +284,7 @@ case 0:
 njaMinw = xbjS0F_t5M | 668377870;
 break;
 case 1:
-g351t4re7 = FV64urV2T(1047618596, cjr6899S, njaMinw);
+g351t4re7 = FV64urV2T((unsigned short)1047618596, cjr6899S, njaMinw);
 break;
 case 2:
 njaMinw &= 626376701;
@@ -386,7 +386,7 @@ fL0_1_4d = fplL79R(fL0_1_4d);
 break;
 case 'b':
 case 'B':
-cjr6899S = FV64urV2T(-169030230, fL0_1_4d, 936780746);
+cjr6899S = FV64urV2T((unsigned short)-169030230, fL0_1_4d, 936780746);
 break;
 case 'c':
 case 'C':
@@ -398,7 +398,7 @@ g351t4re7 = FV64urV2T(g351t4re7, 911536586, cjr6899S);
 break;
 case 'e':
 case 'E':
-xbjS0F_t5M = FV64urV2T(-1497785310, -1926382896, fL0_1_4d);
+xbjS0F_t5M = FV64urV2T((unsigned short)-1497785310, -1926382896, fL0_1_4d);
 break;
 default:
 njaMinw /= 1541919243;

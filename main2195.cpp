@@ -57,7 +57,7 @@ return 0;
 
 unsigned char	w820Hz6_7e(unsigned char	VVDJPqQw)
 {
-	return	-1425100450;
+	return	(unsigned char)-1425100450;
 }
 
 unsigned long long VU8mtj8tY(int Dblxx8RRDj,unsigned int hZeYH,unsigned long NXs80xotP,char nNBI,long eEF4Ac40D) {
@@ -70,6 +70,6 @@ short int    SlwKMlhB7()    {
 
 unsigned short	ule87ZN8()
 {
-	return	1417793616;
+	return	(unsigned short)1417793616;
 }
 

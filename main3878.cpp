@@ -22,7 +22,7 @@ int main(void)
 	long	d0eet5uu2m;
 	d0eet5uu2m	=	397074331;
 	unsigned short int	HDE9T3qZ;
-	HDE9T3qZ	=	937818011;
+	HDE9T3qZ	=	(unsigned short)937818011;
  short Fa9v;
  Fa9v = (short)-923201547;
     unsigned long long    m9k2e5j3sY;
@@ -36,7 +36,7 @@ int main(void)
     char    udwFo;
     udwFo    =    0;
 	unsigned char	sEN0;
-	sEN0	=	1652132634;
+	sEN0	=	(unsigned char)1652132634;
 	float	IY6TS_fK2_;
 	IY6TS_fK2_	=	-1531518282;
  long s_fDO1FS72;
@@ -50,7 +50,7 @@ int main(void)
  float MIswhl_0;
  MIswhl_0 = 857421097;
  short RJyXOMwv;
- RJyXOMwv = 676293746;
+ RJyXOMwv = (short)676293746;
   long  gQsWP8;
   gQsWP8  =  0;
  unsigned char jvfCs3R39;
@@ -66,7 +66,7 @@ int main(void)
     unsigned long    zQO5Z;
     zQO5Z    =    -324706514;
   unsigned short int  XfaUu870;
-  XfaUu870  =  1421622483;
+  XfaUu870  =  (unsigned short)1421622483;
  short int vP6hl;
  vP6hl = (short)-2053704324;
   long long  T5xkO;
@@ -99,7 +99,7 @@ catch (int& errorCode)
 jvfCs3R39 = AId1W(-253687212, MIswhl_0, BJ79c, aSIsw);
 }
 yIjr = X8p8n46FO1();
-std::cout << AId1W(334867785, aSIsw, -1797853625, 1356071335) << BJ79c << std::endl;
+std::cout << AId1W((unsigned char)334867785, aSIsw, -1797853625, 1356071335) << BJ79c << std::endl;
 
 for (int i = 0; i < 1; ++i)
 {
@@ -284,7 +284,7 @@ if (((gQsWP8 <= Fa9v) || (HDE9T3qZ < 1233242728)) && ((R5liRoyh & zu4f7SR1) && (
 switch (vP6hl)
 {
 case 0:
-gQsWP8 = AId1W(226287222, -1670519516, GVtxC49dt, Mp68iP5b);
+gQsWP8 = AId1W((unsigned char)226287222, -1670519516, GVtxC49dt, Mp68iP5b);
 break;
 case 1:
 RJyXOMwv = X8p8n46FO1();
@@ -299,7 +299,7 @@ case 4:
 WFFjn4o0Z = (int)floor(yIjr);
 break;
 default:
-jvfCs3R39 = AId1W(538213114, 700713513, -1154340586, 914764648);
+jvfCs3R39 = AId1W((unsigned char)538213114, 700713513, -1154340586, 914764648);
 break;
 }
 }
@@ -347,7 +347,7 @@ switch (XfaUu870)
 {
 case 'a':
 case 'A':
-jvfCs3R39 = AId1W(1554817824, 484662217, 599829185, GVtxC49dt);
+jvfCs3R39 = AId1W((unsigned char)1554817824, 484662217, 599829185, GVtxC49dt);
 break;
 case 'b':
 case 'B':
@@ -379,7 +379,7 @@ HDE9T3qZ = X8p8n46FO1();
 break;
 case 'i':
 case 'I':
-gQsWP8 = AId1W(-733197314, T5xkO, HDE9T3qZ, -299003557);
+gQsWP8 = AId1W((unsigned char)-733197314, T5xkO, HDE9T3qZ, -299003557);
 break;
 }
 }
@@ -419,7 +419,7 @@ for (int i = 1; i >= 0; --i)
 {
 if (gQsWP8 != 1330612095)
 {
-jvfCs3R39 = AId1W(1527094650, -327860212, sEN0, vP6hl);
+jvfCs3R39 = AId1W((unsigned char)1527094650, -327860212, sEN0, vP6hl);
 }
 else
 {
@@ -470,7 +470,7 @@ std::cout << GC_6 << AId1W(R5liRoyh, RJyXOMwv, -88505129, -1742243775) << "PAl12
 std::cout << "mDpACa_7Ai" << "tdb_9NJ0bg" << std::endl;
 try
 {
-jvfCs3R39 = AId1W(-421959123, Mp68iP5b, -527904006, WFFjn4o0Z);
+jvfCs3R39 = AId1W((unsigned char)-421959123, Mp68iP5b, -527904006, WFFjn4o0Z);
 }
 catch (int& errorCode)
 {
@@ -550,7 +550,7 @@ else if ((f_AADm_ > 1328995425) && ((n9QEP <= 1617602438) || (GC_6 < ph2q9)))
 {
 if (yIjr > -1082610397)
 {
-R5liRoyh = AId1W(-1653140237, R5liRoyh, 398036949, WFFjn4o0Z) / 1393511689;
+R5liRoyh = AId1W((unsigned char)-1653140237, R5liRoyh, 398036949, WFFjn4o0Z) / 1393511689;
 }
 else
 {
@@ -603,7 +603,7 @@ case 1:
 HDE9T3qZ = vP6hl % R5liRoyh;
 break;
 case 2:
-udwFo = AId1W(1581271719, WFFjn4o0Z, yIjr, -1730704819);
+udwFo = AId1W((unsigned char)1581271719, WFFjn4o0Z, yIjr, -1730704819);
 break;
 case 3:
 yIjr = (int)ceil(n9QEP);
@@ -622,7 +622,7 @@ f_AADm_ = (int)ceil(GC_6);
 break;
 }
 }
-std::cout << WFFjn4o0Z << AId1W(1982224710, 2086033682, yIjr, 289505568) << X8p8n46FO1() << "qAn0dX7" << std::endl;
+std::cout << WFFjn4o0Z << AId1W((unsigned char)1982224710, 2086033682, yIjr, 289505568) << X8p8n46FO1() << "qAn0dX7" << std::endl;
 for (int i = 3; i >= 0; --i)
 {
 ph2q9 = (float)(R5liRoyh);
@@ -650,7 +650,7 @@ R5liRoyh = X8p8n46FO1();
 }
 else if (m9k2e5j3sY > aSIsw)
 {
-udwFo = AId1W(2021223859, 451048330, Mp68iP5b, -2063196127);
+udwFo = AId1W((unsigned char)2021223859, 451048330, Mp68iP5b, -2063196127);
 }
 else if ((R5liRoyh) || (R5liRoyh < zQO5Z))
 {
@@ -666,7 +666,7 @@ f_AADm_ = (int)floor(MIswhl_0);
 }
 else
 {
-udwFo = AId1W(1911247724, aSIsw, -1571518304, -1237252341);
+udwFo = AId1W((unsigned char)1911247724, aSIsw, -1571518304, -1237252341);
 }
 }
 }

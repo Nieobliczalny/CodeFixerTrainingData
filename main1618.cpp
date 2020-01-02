@@ -37,7 +37,7 @@ while (j >= 0)
 {
 try
 {
-CsZ9M5TqOu = (EaUZ2tH <= pCGdvc4) ? z14i : 822433270;
+CsZ9M5TqOu = (EaUZ2tH <= pCGdvc4) ? z14i : (unsigned char)822433270;
 }
 catch (int& errorCode)
 {
@@ -217,7 +217,7 @@ CsZ9M5TqOu = q1Cq % 1691736800;
 }
 else
 {
-IsxoO0VU = (Ky_d87z5 >= 399038330) ? -678786830 : A989H;
+IsxoO0VU = (Ky_d87z5 >= 399038330) ? (unsigned char)-678786830 : A989H;
 }
 }
 else if (B2_5 & -34917509)

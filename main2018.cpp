@@ -14,7 +14,7 @@ unsigned long long  Sb4IrCu(short  ZzIY19_6M4)
 }
 
 short int	a1Im()	{
-	return	91509732;
+	return	(short)91509732;
 }
 
 unsigned long long	Snmz(char	UW0j1)	{
@@ -43,7 +43,7 @@ int main(int argc, char** argv)
 	float	D166tzgu;
 	D166tzgu	=	1680623860;
 	short int	uUkOh9ojT;
-	uUkOh9ojT	=	-467675867;
+	uUkOh9ojT	=	(short)-467675867;
  unsigned short int f_7yn;
  f_7yn = (unsigned short)-758948916;
 	unsigned short int	zD81b4auS;
@@ -67,7 +67,7 @@ int main(int argc, char** argv)
     char    Ao74PWjEN4;
     Ao74PWjEN4    =    0;
 	short int	Mhb0yV8bqi;
-	Mhb0yV8bqi	=	-478904001;
+	Mhb0yV8bqi	=	(short)-478904001;
 	char	Ji9Ix;
 	Ji9Ix	=	(char)1578270231;
     int    z46yUj;
@@ -125,7 +125,7 @@ case 0:
 EiD62yt = (int)floor(D166tzgu);
 break;
 case 1:
-Ao74PWjEN4 = Sb4IrCu(689313195);
+Ao74PWjEN4 = Sb4IrCu((short)689313195);
 break;
 case 2:
 zr_4W2P = (int)floor(EiD62yt);
@@ -143,7 +143,7 @@ case 6:
 xs8or5jx8c = wU2qd05D1S | Ji9Ix;
 break;
 case 7:
-z46yUj = hPGw(-1839377853, (short)1516700391);
+z46yUj = hPGw((unsigned short)-1839377853, (short)1516700391);
 break;
 case 8:
 EiD62yt = (int)ceil(D166tzgu);
@@ -232,7 +232,7 @@ Ao74PWjEN4 = Sb4IrCu(uBa94lu7);
 break;
 case 'e':
 case 'E':
-EiD62yt = Snmz(451229039);
+EiD62yt = Snmz((char)451229039);
 break;
 case 'f':
 case 'F':
@@ -302,7 +302,7 @@ wU2qd05D1S = (unsigned int)(zD81b4auS);
 
 try
 {
-cout << Snmz(vBl7W) << "kNmvFOeKe" << xs8or5jx8c << "kP56" << hPGw(-600175259, wU2qd05D1S) << endl;
+cout << Snmz(vBl7W) << "kNmvFOeKe" << xs8or5jx8c << "kP56" << hPGw((unsigned short)-600175259, wU2qd05D1S) << endl;
 }
 catch (int& errorCode)
 {
@@ -390,7 +390,7 @@ case 8:
 D166tzgu = (int)floor(EiD62yt);
 break;
 default:
-zD81b4auS = Snmz(-1947422279);
+zD81b4auS = Snmz((char)-1947422279);
 break;
 }
 }

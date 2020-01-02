@@ -14,7 +14,7 @@ unsigned short ld67nhioE(short B5cO6364K,char d9___Ez,unsigned long a6Ke1L9Z7,lo
 
 unsigned char S64vP()
 {
- return 949147419;
+ return (unsigned char)949147419;
 }
 
 short    HRich6k8(char    WVEPSTx6cU,unsigned short int    rF1_A_R__0,unsigned long    Tbon,short int    t_HEKpE)    {
@@ -26,7 +26,7 @@ char    cW77eU(int    f29s,unsigned long    eAtoZX)    {
 }
 
 unsigned short int  D8114An(unsigned long long  m7Iwq2LN)  {
-  return  -1443017486;
+  return  (unsigned short)-1443017486;
 }
 
 int main()
@@ -47,7 +47,7 @@ else
 {
 if (sGZbq)
 {
-ZxeJ = ld67nhioE(yN_v, -1145477617, ZxeJ, -1863034297, bex94Qy6M);
+ZxeJ = ld67nhioE(yN_v, (char)-1145477617, ZxeJ, -1863034297, bex94Qy6M);
 }
 else
 {
@@ -77,7 +77,7 @@ yN_v = e8Py1m41L / 1650447401;
 break;
 case 'b':
 case 'B':
-ZxeJ = ld67nhioE(538593765, hD_I1A, I4N_R0m5e, -2072883316, sGZbq);
+ZxeJ = ld67nhioE((short)538593765, hD_I1A, I4N_R0m5e, -2072883316, sGZbq);
 break;
 case 'c':
 case 'C':
@@ -89,7 +89,7 @@ PBz8gq6F = ld67nhioE(PBz8gq6F, e2PW9, 870944138, -842443837, ZxeJ);
 break;
 case 'e':
 case 'E':
-e2PW9 = HRich6k8(e2PW9, NjmC2N0X, -1433522630, 672566238);
+e2PW9 = HRich6k8(e2PW9, NjmC2N0X, -1433522630, (short)672566238);
 break;
 case 'f':
 case 'F':
@@ -165,7 +165,7 @@ case 7:
 cpV0X5 <<= I4N_R0m5e;
 break;
 default:
-PBz8gq6F = ld67nhioE(-726042380, cpV0X5, e2PW9, -1854406243, hD_I1A);
+PBz8gq6F = ld67nhioE((short)-726042380, cpV0X5, e2PW9, -1854406243, hD_I1A);
 break;
 }
 
@@ -210,7 +210,7 @@ if ((sGZbq & OO9lVt) || ((yN_v != 1425575851) || (Ps2228k0to > OO9lVt)))
 {
 for (int k = 4; k >= 0; --k)
 {
-PBz8gq6F = ld67nhioE(PBz8gq6F, -903764277, 1022922136, bPw0E6, -1979040675);
+PBz8gq6F = ld67nhioE(PBz8gq6F, (char)-903764277, 1022922136, bPw0E6, -1979040675);
 }
 }
 else if (I4N_R0m5e > -1274118881)
@@ -283,7 +283,7 @@ for (int j = 5; j >= 0; --j)
 {
 if (sGZbq & -200379665)
 {
-ZxeJ = ld67nhioE(451408225, I4N_R0m5e, sGZbq, 1426243879, 1262394274);
+ZxeJ = ld67nhioE((short)451408225, I4N_R0m5e, sGZbq, 1426243879, 1262394274);
 }
 else if (NjmC2N0X & -1751964323)
 {

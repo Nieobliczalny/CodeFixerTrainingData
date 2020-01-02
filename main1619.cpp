@@ -95,7 +95,7 @@ uF85eW5eC = AgvWE / 1837497468;
 zx2vaQc5 = (char)(x5P_ybpJo);
 for (int i = 4; i >= 0; i--)
 {
-E9c3_ = (gykUp4e >= ylgK) ? uBb0p4uenW : -132980832;
+E9c3_ = (gykUp4e >= ylgK) ? uBb0p4uenW : (char)-132980832;
 }
 
 if (c34b9 == 869321130)

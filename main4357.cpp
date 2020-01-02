@@ -54,7 +54,7 @@ case 3:
 VNnj *= LphgdFn;
 break;
 case 4:
-a_km9 = XY_Vgw1ed4(-276734318, Zt_FF89dyU, GO8GlW, Src7zfu2ek);
+a_km9 = XY_Vgw1ed4((unsigned char)-276734318, Zt_FF89dyU, GO8GlW, Src7zfu2ek);
 break;
 case 5:
 VNnj = (kaM0O36SMi < c_2T47rWem) ? Src7zfu2ek : a_km9;
@@ -76,7 +76,7 @@ break;
 for (int i = 0; i < 184; i++)
 {
 std::cout << OZl07Wp / cv5T4X << std::endl;
-	no7M8_7AJ = XY_Vgw1ed4(TI_1do4_yU, 1709021796, (short)-1822848880, -382640304) / i;
+	no7M8_7AJ = XY_Vgw1ed4(TI_1do4_yU, (unsigned char)1709021796, (short)-1822848880, -382640304) / i;
 {
 int i = 8;
 do
@@ -136,7 +136,7 @@ LphgdFn = XY_Vgw1ed4(324538279, TI_1do4_yU, -572058024, c_2T47rWem);
 while (i >= 0);
 }
 
-a_km9 = XY_Vgw1ed4(GO8GlW, 1170103592, (short)-652859967, -935536632);
+a_km9 = XY_Vgw1ed4(GO8GlW, (unsigned char)1170103592, (short)-652859967, -935536632);
 
 std::cout << "JOXv6" << no7M8_7AJ << "Urvx3DW" << "Aus7I" << "l1c58" << std::endl;
 
@@ -147,7 +147,7 @@ std::cout << XY_Vgw1ed4(GO8GlW, -18603011, 964148681, TI_1do4_yU) << x_2lj << st
 }
 else
 {
-std::cout << XY_Vgw1ed4(GO8GlW, a_km9, -1839982512, -1593584026) << AnX6dI5Vcs() << std::endl;
+std::cout << XY_Vgw1ed4(GO8GlW, a_km9, (short)-1839982512, -1593584026) << AnX6dI5Vcs() << std::endl;
 }
 GO8GlW--;
 
@@ -157,7 +157,7 @@ for (int j = 4; j >= 0; j--)
 {
 try
 {
-OL5U7Ute = XY_Vgw1ed4(-1567305333, a_km9, S3Nj, 592327997) >> 1758003759;
+OL5U7Ute = XY_Vgw1ed4((unsigned char)-1567305333, a_km9, S3Nj, 592327997) >> 1758003759;
 }
 catch (int& errorCode)
 {
@@ -189,7 +189,7 @@ for (int i = 0; i < 10; i++)
 switch (TI_1do4_yU)
 {
 case 0:
-a_km9 = XY_Vgw1ed4(a_km9, ow5ucd3Ju, 102633043, no7M8_7AJ);
+a_km9 = XY_Vgw1ed4(a_km9, ow5ucd3Ju, (short)102633043, no7M8_7AJ);
 break;
 case 1:
 Zt_FF89dyU = a_km9 & VNnj;
@@ -207,7 +207,7 @@ case 5:
 c_2T47rWem = AnX6dI5Vcs();
 break;
 case 6:
-i6JxBn6E = XY_Vgw1ed4(OZl07Wp, 1573193470, (short)-1622046331, 1168702558);
+i6JxBn6E = XY_Vgw1ed4(OZl07Wp, (unsigned char)1573193470, (short)-1622046331, 1168702558);
 break;
 case 7:
 c_2T47rWem |= 698615138;
@@ -219,7 +219,7 @@ break;
 }
 a_km9 = (unsigned int)(Src7zfu2ek * a_km9);
 
-t0smUdkht = XY_Vgw1ed4(no7M8_7AJ, -176484711, t0smUdkht, M9ZI9K6);
+t0smUdkht = XY_Vgw1ed4(no7M8_7AJ, (unsigned char)-176484711, t0smUdkht, M9ZI9K6);
 
 return 0;
 }

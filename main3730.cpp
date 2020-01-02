@@ -20,7 +20,7 @@ unsigned char    G10zTNguB(int    HpJ2E1138,unsigned int    jG90wQu,int    OSG3Y
 int main(int argc, char** argv)
 {
 	unsigned short	Y_Xs8A,	A32F1cT58,	h9i09d0,	pMmjx,	QMG493B1,	JtU2,	V9iOH1O,	lea02,	JK4t,	SsEx9x_,	iPo2,	VSQK,	df7q,	SIxw5D_E,	xdf8fQP,	eZfAh3hz_7,	pK7c,	Ypc96CV,	w4n0Nspk4R,	HWC1,	jqpb6LU,	fxbc51TI,	O97e,	t7TrTVrl7,	aH8lF8Z,	i47raLz,	RSI1M6,	n9DaKrS,	Oyupo8f,	Gl18bY75t,	jt880,	rJJ3LX4927,	j_5L1,	lyOCC2_Y,	I_VEemY8Ep,	Ezr8UN,	b9DbyGc16z,	F_FO,	B6204on,	AqoMV_,	qyCzs,	HP4gsAL_m,	mfNvb,	kRimb61_S,	R9J8M,	BJu_2i,	MdKv,	cn2fJ7;
-	Y_Xs8A	=	-540835527;
+	Y_Xs8A	=	(unsigned short)-540835527;
 	A32F1cT58	=	(unsigned short)1149415562;
 	h9i09d0	=	-387443874;
 	pMmjx	=	-505324756;
@@ -30,7 +30,7 @@ int main(int argc, char** argv)
 	lea02	=	-880522138;
 	JK4t	=	-151713315;
 	SsEx9x_	=	1506761526;
-	iPo2	=	465438017;
+	iPo2	=	(unsigned short)465438017;
 	VSQK	=	(unsigned short)-175092397;
 	df7q	=	515920409;
 	SIxw5D_E	=	725379639;
@@ -40,7 +40,7 @@ int main(int argc, char** argv)
 	Ypc96CV	=	-763882415;
 	w4n0Nspk4R	=	586883250;
 	HWC1	=	1387002123;
-	jqpb6LU	=	-1371527699;
+	jqpb6LU	=	(unsigned short)-1371527699;
 	fxbc51TI	=	(unsigned short)1909657931;
 	O97e	=	1239663834;
 	t7TrTVrl7	=	226020702;
@@ -50,7 +50,7 @@ int main(int argc, char** argv)
 	n9DaKrS	=	-654781489;
 	Oyupo8f	=	1117543678;
 	Gl18bY75t	=	783413195;
-	jt880	=	-955297611;
+	jt880	=	(unsigned short)-955297611;
 	rJJ3LX4927	=	(unsigned short)1847070342;
 	j_5L1	=	1674750495;
 	lyOCC2_Y	=	-984186928;
@@ -60,7 +60,7 @@ int main(int argc, char** argv)
 	F_FO	=	-1422678562;
 	B6204on	=	-1831476053;
 	AqoMV_	=	1180354516;
-	qyCzs	=	495263083;
+	qyCzs	=	(unsigned short)495263083;
 	HP4gsAL_m	=	(unsigned short)79596402;
 	mfNvb	=	-322177944;
 	kRimb61_S	=	836551692;
@@ -199,7 +199,7 @@ case 1:
 Gt1z6LH5 = G10zTNguB(1669421220, Ypc96CV, JK4t);
 break;
 case 2:
-HWC1 = (AqoMV_) ? -1044042130 : G10zTNguB(-473944830, 1268959019, -1987940795);
+HWC1 = (AqoMV_) ? (unsigned short)-1044042130 : G10zTNguB(-473944830, 1268959019, -1987940795);
 break;
 case 3:
 t7TrTVrl7 += w4n0Nspk4R;

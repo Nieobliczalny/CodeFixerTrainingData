@@ -14,7 +14,7 @@ unsigned char  C747(unsigned long long  O6_i_1X);
 
 int main() {
     unsigned short int    PSADXQgwC;
-    PSADXQgwC    =    130655648;
+    PSADXQgwC    =    (unsigned short)130655648;
   short int  v65A;
   v65A  =  0;
 	double	D_c4M62dge;
@@ -26,7 +26,7 @@ int main() {
   double  P_g782il2S;
   P_g782il2S  =  -86548780;
 	unsigned char	b9VnF3i2h;
-	b9VnF3i2h	=	-371261150;
+	b9VnF3i2h	=	(unsigned char)-371261150;
     unsigned short int    asF8x;
     asF8x    =    (unsigned short)1037402183;
   float  D_SK;
@@ -46,7 +46,7 @@ int main() {
 	double	O2P480slH;
 	O2P480slH	=	256627288;
     unsigned short    n1LSwP;
-    n1LSwP    =    -2119181174;
+    n1LSwP    =    (unsigned short)-2119181174;
     float    u_F7n31oF;
     u_F7n31oF    =    -887696270;
  unsigned char xyid1_7X2u;
@@ -321,7 +321,7 @@ case 'c':
 JKiT = C747(JKiT);
 break;
 case 'd':
-w8A4r = (Z45x6d != 1765821382) ? -1477971453 : rS315;
+w8A4r = (Z45x6d != 1765821382) ? (unsigned short)-1477971453 : rS315;
 break;
 case 'e':
 N_xJPSd9q = (int)abs(Z45x6d);
@@ -441,7 +441,7 @@ return 0;
 
 unsigned short	nI0zvp()
 {
-	return	-200117661;
+	return	(unsigned short)-200117661;
 }
 
 unsigned char  C747(unsigned long long  O6_i_1X)

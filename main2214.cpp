@@ -44,7 +44,7 @@ oO6U_8QMO0 = (int)abs(G3oT2QD3) * 0;
 }
 else if (oO6U_8QMO0 > MFp52790)
 {
-std::cout << rgJol769p << "h80W" << gOOkWkTTh(-70896282, MFp52790, rgJol769p) << eWuu543P << std::endl;
+std::cout << rgJol769p << "h80W" << gOOkWkTTh((char)-70896282, MFp52790, rgJol769p) << eWuu543P << std::endl;
 }
 else
 {
@@ -250,7 +250,7 @@ MFp52790 = eWuu543P ^ G3oT2QD3;
 }
 }
 }
-G3oT2QD3 = -142394381 / gOOkWkTTh(-1369749041, -1522041710, oO6U_8QMO0);
+G3oT2QD3 = -142394381 / gOOkWkTTh((char)-1369749041, -1522041710, oO6U_8QMO0);
 if ((G3oT2QD3 & MFp52790) && ((eWuu543P) && (baRuS5t2Gy > -712168438)))
 {
 try
@@ -292,7 +292,7 @@ rgJol769p = (int)abs(baRuS5t2Gy) + (568715971);
 }
 else if (oO6U_8QMO0 > MFp52790)
 {
-std::cout << gOOkWkTTh(496734870, rgJol769p, MFp52790) << gOOkWkTTh((char)-1119104770, 629725219, 119831722) << gOOkWkTTh(eWuu543P, 954619518, MFp52790) << std::endl;
+std::cout << gOOkWkTTh((char)496734870, rgJol769p, MFp52790) << gOOkWkTTh((char)-1119104770, 629725219, 119831722) << gOOkWkTTh(eWuu543P, 954619518, MFp52790) << std::endl;
 }
 else if (oO6U_8QMO0 >= 1176758139)
 {
@@ -364,7 +364,7 @@ while (j >= 0);
 }
 while (i < 5);
 }
-std::cout << "ldV9G" << "tg9c37ImE" << rgJol769p << gOOkWkTTh(551814105, -649928595, baRuS5t2Gy) << H77M_cvb(oO6U_8QMO0) << std::endl;
+std::cout << "ldV9G" << "tg9c37ImE" << rgJol769p << gOOkWkTTh((char)551814105, -649928595, baRuS5t2Gy) << H77M_cvb(oO6U_8QMO0) << std::endl;
 
 if (MFp52790 < G3oT2QD3)
 {
@@ -410,7 +410,7 @@ rgJol769p = (eWuu543P & baRuS5t2Gy) ? baRuS5t2Gy : G3oT2QD3;
 break;
 case 'c':
 case 'C':
-baRuS5t2Gy = gOOkWkTTh(-163797376, eWuu543P, -934318939);
+baRuS5t2Gy = gOOkWkTTh((char)-163797376, eWuu543P, -934318939);
 break;
 case 'd':
 case 'D':
@@ -457,7 +457,7 @@ switch (eWuu543P)
 {
 case 'a':
 case 'A':
-baRuS5t2Gy = gOOkWkTTh(1312240518, baRuS5t2Gy, 710695337);
+baRuS5t2Gy = gOOkWkTTh((char)1312240518, baRuS5t2Gy, 710695337);
 break;
 case 'b':
 case 'B':
@@ -483,6 +483,6 @@ unsigned long    gOOkWkTTh(char    hN57eBz5D5,long    xJ03ad,unsigned long    Z6
 }
 
 unsigned short H77M_cvb(unsigned long ls1lY) {
- return 1005705421;
+ return (unsigned short)1005705421;
 }
 

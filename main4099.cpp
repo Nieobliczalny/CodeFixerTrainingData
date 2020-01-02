@@ -9,7 +9,7 @@
 
 int main(int argc, char** argv) {
  short int B4lWG4;
- B4lWG4 = -919420088;
+ B4lWG4 = (short)-919420088;
  unsigned short int IFhZ3eFj;
  IFhZ3eFj = (unsigned short)680322228;
  unsigned long Dy767Iu;
@@ -19,7 +19,7 @@ int main(int argc, char** argv) {
     unsigned short    GmajX1;
     GmajX1    =    -1538843973;
   short  S9TT;
-  S9TT  =  -774905416;
+  S9TT  =  (short)-774905416;
     char    DRb_ly9_6;
     DRb_ly9_6    =    (char)-1489568926;
  long e8pnS;
@@ -35,7 +35,7 @@ int main(int argc, char** argv) {
     double    KknBNr;
     KknBNr    =    -46315394;
  short int b0fiKd;
- b0fiKd = 1033584598;
+ b0fiKd = (short)1033584598;
 	unsigned long long	r_jX2N;
 	r_jX2N	=	838495031;
  long double HiR_F2T;
@@ -47,7 +47,7 @@ int main(int argc, char** argv) {
 	unsigned int	xZ106R0;
 	xZ106R0	=	1124328847;
   short  cUxZ76;
-  cUxZ76  =  1033178276;
+  cUxZ76  =  (short)1033178276;
   unsigned short int  PY2yfD01t7;
   PY2yfD01t7  =  (unsigned short)-2060353013;
  unsigned int Imc_sqE;
@@ -57,7 +57,7 @@ int main(int argc, char** argv) {
   short int  GS_1F3X7;
   GS_1F3X7  =  -1622991501;
  unsigned char T9h6;
- T9h6 = -1584222789;
+ T9h6 = (unsigned char)-1584222789;
  unsigned short lPs99SCtA;
  lPs99SCtA = (unsigned short)-1846980800;
  short lxR8fsK;
@@ -351,7 +351,7 @@ case 'a':
 HiR_F2T += 1821243368;
 break;
 default:
-b0fiKd = (KwaCW_T < B4lWG4) ? -1492462597 : (short)985179439;
+b0fiKd = (KwaCW_T < B4lWG4) ? (short)-1492462597 : (short)985179439;
 break;
 }
 }

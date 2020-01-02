@@ -310,6 +310,6 @@ short  iU587(int  w341FEtP)
 
 unsigned short	ap0Q4J(long	U1aL,unsigned long	kIzaNonj2)
 {
-	return	-1129786026;
+	return	(unsigned short)-1129786026;
 }
 

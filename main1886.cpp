@@ -23,7 +23,7 @@ int main(void) {
 		e__i	=	bU8iIrnw	=	DHOp	=	ZaEiMCB7rt	=	0;
 
 X_MlwCf9 = (double)(r4A_jL9fu);
-OV45jfvx0r = AX8TXf0ON9(OV45jfvx0r, -928656561, 133546580);
+OV45jfvx0r = AX8TXf0ON9(OV45jfvx0r, (unsigned short)-928656561, 133546580);
 j_gpQ85 = (double)(Shw39g3R);
 for (int i = 0; i < 3; i++)
 {
@@ -46,7 +46,7 @@ catch (int& errorCode)
 {
 fRZ0GHPH = (int)floor(DcM94lvd);
 }
-c5jv90B = gU1_TdV / Tb2nK(-583835197, -1370820670, d3v0RF8Gy, AU467D, (short)-182041653);
+c5jv90B = gU1_TdV / Tb2nK(-583835197, (unsigned short)-1370820670, d3v0RF8Gy, AU467D, (short)-182041653);
 if (e__i & ZaEiMCB7rt)
 {
 switch (ZaEiMCB7rt)
@@ -123,7 +123,7 @@ else
 {
 if (e__i & -579638223)
 {
-uF01ut9k4 = Tb2nK(201557915, 1213282124, -2116126126, fRZ0GHPH, (short)-494812802) >> 768632691;
+uF01ut9k4 = Tb2nK(201557915, (unsigned short)1213282124, -2116126126, fRZ0GHPH, (short)-494812802) >> 768632691;
 }
 }
 MVMA *= 1194372724;
@@ -138,7 +138,7 @@ return 0;
 }
 
 unsigned short int    Hu28ZAEjX()    {
-    return    2059377680;
+    return    (unsigned short)2059377680;
 }
 
 unsigned short b44uF() {

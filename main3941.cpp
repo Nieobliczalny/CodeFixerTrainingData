@@ -51,7 +51,7 @@ case 3:
 WwIxO37pw = w66g_Hf + 947676253;
 break;
 case 4:
-eAdZaS5nX9 = J_YqA5fs(1683192281, pUp5pMZnFS, RzDo0a3cO);
+eAdZaS5nX9 = J_YqA5fs((short)1683192281, pUp5pMZnFS, RzDo0a3cO);
 break;
 case 5:
 pUp5pMZnFS = R8Yn8k9iDM / 517308460;
@@ -270,7 +270,7 @@ ols5z = D31v7_P12(-2034559544);
 }
 else
 {
-d4qt4d_ = J_YqA5fs(-2088600802, ols5z, tikZmF);
+d4qt4d_ = J_YqA5fs((short)-2088600802, ols5z, tikZmF);
 }
 }
 catch (int& errorCode)

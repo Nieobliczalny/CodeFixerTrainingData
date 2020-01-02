@@ -263,7 +263,7 @@ return 0;
 
 short jkzX_3()
 {
- return -321750181;
+ return (short)-321750181;
 }
 
 unsigned long    YIB7kesc_(unsigned long    RIlgd1)    {

@@ -15,7 +15,7 @@ using std::ceil;
 using std::floor;
 
 int main(void) {
- unsigned char vwY8m = -1499136665;
+ unsigned char vwY8m = (unsigned char)-1499136665;
  short j9Z_ = (short)-1592892533;
     float    et3TJ1X744    =    1296939881;
   char  REB4CF4  =  0;
@@ -25,7 +25,7 @@ int main(void) {
  unsigned long ud3U0Sq5 = 604360326;
 	int	SMtH9	=	-516484927;
  unsigned char ChrK0mAv_c = 1706471253;
-  short  I_u9Nh06vs  =  454625544;
+  short  I_u9Nh06vs  =  (short)454625544;
  double U2c0CF5E7 = 564870633;
  char xfYqwm = (char)-949579498;
  int mQ1L = 0;

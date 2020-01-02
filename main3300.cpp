@@ -11,7 +11,7 @@ using namespace std;
 int main(int argc, char** argv)
 {
  float f189xo = -598931938;
-    unsigned char    L3mGXQ4    =    -432393917;
+    unsigned char    L3mGXQ4    =    (unsigned char)-432393917;
   unsigned short int  e1IH  =  (unsigned short)-594013477;
     long double    K30M2VYNk0    =    1595740478;
     int    TgGaq    =    -1761751551;
@@ -21,7 +21,7 @@ int main(int argc, char** argv)
 	long long	oHQ_6pwgV	=	879209284;
  short R2Axs = 1540236991;
  unsigned short LgDdf59 = 314074685;
-    unsigned char    WTm6Rd8    =    1937191644;
+    unsigned char    WTm6Rd8    =    (unsigned char)1937191644;
   double  kgu9j_2A8  =  1140656946;
 	long	iIYHa13	=	246751700;
     short    K3_O2QEm    =    (short)919346132;
@@ -32,7 +32,7 @@ int main(int argc, char** argv)
  unsigned short int z_7sS = -690606899;
  long double vfE40 = -1168146198;
   unsigned int  PtaIugF_  =  1428322254;
-	short	qbCS2vG	=	-1666827732;
+	short	qbCS2vG	=	(short)-1666827732;
 	unsigned long long	z034	=	-2008811910;
   float  CBSl1e7euN  =  278736772;
  short t1O247a = (short)636207120;
@@ -45,7 +45,7 @@ int main(int argc, char** argv)
   float  It03Z  =  -712566252;
  unsigned int fRCPv9tH = -697799836;
   int  j_9_2_  =  1575412193;
-	short int	gQ9D5	=	641655503;
+	short int	gQ9D5	=	(short)641655503;
 	short int	u4M4S2Fk	=	(short)-409134078;
 	unsigned long	nuY_	=	-1878211089;
 	long long	f1ibLS	=	-1883589446;
@@ -61,7 +61,7 @@ int main(int argc, char** argv)
   float  E5J0oXX2  =  -1466773683;
  unsigned long Mluc = -393675568;
  unsigned long long v471 = 785921203;
-    unsigned short    si4kE7hJ7n    =    -287230209;
+    unsigned short    si4kE7hJ7n    =    (unsigned short)-287230209;
  int utV9tBJht = 0;
  char mKHe = (char)2036902338;
 	short int	EjMf	=	-158429795;
@@ -71,7 +71,7 @@ int main(int argc, char** argv)
   double  kmrJj0np8  =  -1435845474;
   short  rPz2OA25h  =  2024520648;
     double    b89hl786    =    144650339;
- unsigned short U7h43450cQ = 2129790652;
+ unsigned short U7h43450cQ = (unsigned short)2129790652;
   unsigned char  UUtFB_Z7  =  0;
     unsigned char    Fn71Rbv2pd    =    (unsigned char)-823569750;
  unsigned short int Y3m9 = -1526098950;
@@ -189,7 +189,7 @@ switch (kL4g9GBV1K)
 {
 case 'a':
 case 'A':
-U7h43450cQ = (vfE40 <= 586995223) ? QS9YE : 1138239541;
+U7h43450cQ = (vfE40 <= 586995223) ? QS9YE : (unsigned short)1138239541;
 break;
 case 'b':
 case 'B':

@@ -27,7 +27,7 @@ try
 {
 for (int j = 3; j >= 0; j--)
 {
-cout << ej933rR(zGWBPMU86C, -1992081416, MTSk965fef) << "BbxoF62U02" << JE49oXK8_ << ugjG71_(1543772656) << endl;
+cout << ej933rR(zGWBPMU86C, -1992081416, MTSk965fef) << "BbxoF62U02" << JE49oXK8_ << ugjG71_((short)1543772656) << endl;
 }
 }
 catch (int& errorCode)
@@ -78,7 +78,7 @@ catch (int& errorCode)
 JwyrDb = xxXm2();
 }
 
-y5Z7ah5Iok = fgP5(-1990942956, -1442950654) / xxXm2();
+y5Z7ah5Iok = fgP5(-1990942956, (unsigned short)-1442950654) / xxXm2();
 if (u4422g59_2 > 748507824)
 {
 if (I7_5g == HsjK1)
@@ -137,7 +137,7 @@ return 0;
 }
 
 unsigned short ej933rR(unsigned long Zh3PJCzC,long long g087,long FI_7) {
- return 1018732613;
+ return (unsigned short)1018732613;
 }
 
 unsigned short	lArIA6T(unsigned short	V6MZ,unsigned short int	E0kK7rWP,unsigned long long	BJVuKn)	{

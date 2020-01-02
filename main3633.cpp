@@ -18,7 +18,7 @@ int main(void) {
     unsigned long long    LvaT487S;
     LvaT487S    =    0;
     unsigned short int    v6Y3B;
-    v6Y3B    =    -937186602;
+    v6Y3B    =    (unsigned short)-937186602;
     short    N3npZlhH7x;
     N3npZlhH7x    =    (short)1754813819;
 	unsigned int	P77_c;
@@ -28,7 +28,7 @@ int main(void) {
 	char	DDz6Kpa03;
 	DDz6Kpa03	=	-717612538;
   unsigned short int  TNs9GMB_T5;
-  TNs9GMB_T5  =  -1112482153;
+  TNs9GMB_T5  =  (unsigned short)-1112482153;
   long long  b3l3kAdb4_;
   b3l3kAdb4_  =  -1805933044;
 	unsigned long	b7x2;
@@ -38,7 +38,7 @@ int main(void) {
   long double  jbl00_Kc;
   jbl00_Kc  =  -1773374017;
   unsigned short int  Hw8oL;
-  Hw8oL  =  -678510123;
+  Hw8oL  =  (unsigned short)-678510123;
     unsigned char    r00UB60b4_;
     r00UB60b4_    =    0;
 	long long	F8uAEhD1;
@@ -48,7 +48,7 @@ int main(void) {
  short int sq9B;
  sq9B = (short)-333653453;
     unsigned short    MW9b9t4je;
-    MW9b9t4je    =    -1950138539;
+    MW9b9t4je    =    (unsigned short)-1950138539;
 
 {
 int i = 0;
@@ -157,7 +157,7 @@ break;
 }
 MW9b9t4je ^= 377002124;
 jbl00_Kc = (int)abs(b3l3kAdb4_);
-TNs9GMB_T5 = (I_06) ? MW9b9t4je : -1091819245;
+TNs9GMB_T5 = (I_06) ? MW9b9t4je : (unsigned short)-1091819245;
 
 if (TNs9GMB_T5 >= DDz6Kpa03)
 {

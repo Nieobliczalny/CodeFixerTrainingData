@@ -15,7 +15,7 @@ int main(int argc, char** argv)
     unsigned short int    Pfh_KG;
     Pfh_KG    =    0;
  short int Lm2qtf_8;
- Lm2qtf_8 = 66177613;
+ Lm2qtf_8 = (short)66177613;
  unsigned char N82dgTT;
  N82dgTT = 0;
     unsigned char    vBxN5;
@@ -25,7 +25,7 @@ int main(int argc, char** argv)
   unsigned short  HGt5;
   HGt5  =  241747750;
     unsigned short int    K667j9Sv;
-    K667j9Sv    =    -1312794966;
+    K667j9Sv    =    (unsigned short)-1312794966;
   long  R83fdNPO;
   R83fdNPO  =  685664235;
   unsigned long  tE834r;
@@ -37,7 +37,7 @@ int main(int argc, char** argv)
   int  tt9KNG_z;
   tt9KNG_z  =  -2131826978;
   unsigned short int  LK3bTq716n;
-  LK3bTq716n  =  -1972438815;
+  LK3bTq716n  =  (unsigned short)-1972438815;
     unsigned char    w0gCn;
     w0gCn    =    336570509;
   unsigned long  ZI0J3iEGPn;
@@ -47,7 +47,7 @@ int main(int argc, char** argv)
   long  nCcfH_r8;
   nCcfH_r8  =  0;
   unsigned short  kBna;
-  kBna  =  -1474104216;
+  kBna  =  (unsigned short)-1474104216;
  unsigned short int WOcWl6UioI;
  WOcWl6UioI = (unsigned short)108029226;
 	unsigned int	qG_3h;
@@ -59,7 +59,7 @@ int main(int argc, char** argv)
     long long    betHnlq;
     betHnlq    =    -356318164;
 	unsigned short int	pWPd3qX5E;
-	pWPd3qX5E	=	453360739;
+	pWPd3qX5E	=	(unsigned short)453360739;
     char    z65d_0NA;
     z65d_0NA    =    (char)-1167089327;
 
@@ -138,7 +138,7 @@ if (betHnlq <= K667j9Sv)
 {
 if (kBna >= -588909017)
 {
-Lm2qtf_8 = (LK3bTq716n > vBxN5) ? 789146972 : z65d_0NA;
+Lm2qtf_8 = (LK3bTq716n > vBxN5) ? (short)789146972 : z65d_0NA;
 }
 else if (qG_3h <= -341877698)
 {

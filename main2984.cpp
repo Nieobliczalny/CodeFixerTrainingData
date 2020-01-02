@@ -18,7 +18,7 @@ unsigned short    R97dj9t2c()    {
 
 int main(void) {
  float s78i60S5 = 1519651043;
-  short  ml4xuVi  =  1881453208;
+  short  ml4xuVi  =  (short)1881453208;
  unsigned short int W6jf_r6Qoi = (unsigned short)885173736;
   unsigned short int  GUudZ4uYA  =  1170161444;
  short Nhr1_ = 1762901532;
@@ -30,7 +30,7 @@ int main(void) {
  unsigned short C9_y_ = -122050123;
 	unsigned long	uH3YtXMG	=	-1248197506;
     long    VmzcNt4pK    =    41819291;
- unsigned short dic47iDY = 1107946529;
+ unsigned short dic47iDY = (unsigned short)1107946529;
  long double Trdi7 = -44784056;
  unsigned char DTKAHr83 = (unsigned char)-1449738130;
  long double XG69J = 1609184055;
@@ -48,7 +48,7 @@ int main(void) {
 	unsigned long long	SM0daDbr	=	-857356771;
     unsigned long long    l6sFg    =    1399463569;
 	float	cElu6ZY1d	=	1332961982;
-  unsigned short int  RU6m_OvU  =  575044211;
+  unsigned short int  RU6m_OvU  =  (unsigned short)575044211;
  int ffSt1 = 1915607204;
     long double    yw_HxW8o    =    -847809275;
  unsigned char O3Kv2 = (unsigned char)-698261842;
@@ -59,7 +59,7 @@ int main(void) {
  int sZ2QXeN = -2072815202;
   char  vTVC07  =  -628130658;
 	unsigned long long	bda7	=	-1449689033;
-    unsigned short int    yVS2GnN    =    1560464357;
+    unsigned short int    yVS2GnN    =    (unsigned short)1560464357;
  short pEIJBHf5_ = 0;
     unsigned int    G86_J    =    197945248;
  short int L6DG = (short)471655986;
@@ -69,7 +69,7 @@ int main(void) {
   double  Q8wwCt  =  -860310749;
 	long	yd077I	=	-1999190189;
     unsigned short int    HQi_5FW    =    1407827626;
-	unsigned char	ZQ7p	=	864194034;
+	unsigned char	ZQ7p	=	(unsigned char)864194034;
     long    V49Ov    =    2021130692;
  short L4xmKt8 = -1716379091;
     long double    mVEc8    =    -1045940376;
@@ -79,7 +79,7 @@ int main(void) {
   unsigned short  wG_2Ua6  =  -348137534;
  long double C0BM_dspp = 1303354393;
   double  uEjo  =  -28412549;
-	char	ei9p73XL5	=	1880535000;
+	char	ei9p73XL5	=	(char)1880535000;
 
 std::cout << SasA28hI / pEIJBHf5_ << std::endl;
 cElu6ZY1d = (int)abs(XG69J);

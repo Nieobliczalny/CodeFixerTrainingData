@@ -86,7 +86,7 @@ case 2:
 EP_85 += 1699117427;
 break;
 case 3:
-uENVbG8 = tEb_Qvlt7(375129362, W5386_3J, -355141991, (unsigned short)1365010711, 2132681739);
+uENVbG8 = tEb_Qvlt7(375129362, W5386_3J, (short)-355141991, (unsigned short)1365010711, 2132681739);
 break;
 case 4:
 g9X7R = (int)abs(t3l_y8);
@@ -121,7 +121,7 @@ int i = 6;
 do
 {
 i--;
-PiHz = tEb_Qvlt7(-2008934642, aW75, oDTtDZ, 821474790, WEv3T9P);
+PiHz = tEb_Qvlt7(-2008934642, aW75, oDTtDZ, (unsigned short)821474790, WEv3T9P);
 }
 while (i >= 0);
 }
@@ -196,7 +196,7 @@ if (g6g71 < K4Jr69viI)
 int k = 0;
 while (k < 1)
 {
-t3l_y8 = tEb_Qvlt7(1679191939, W_cq8bQg, 1337763245, PiHz, PC58s348);
+t3l_y8 = tEb_Qvlt7(1679191939, W_cq8bQg, (short)1337763245, PiHz, PC58s348);
 k++;
 }
 }
@@ -211,7 +211,7 @@ else
 switch (t3l_y8)
 {
 case 'a':
-ErE6 = rchY8(1948373673, KavA, g6g71, h3Hm, EP_85);
+ErE6 = rchY8((short)1948373673, KavA, g6g71, h3Hm, EP_85);
 break;
 case 'b':
 g9X7R = (int)abs(X7pKC2);
@@ -222,7 +222,7 @@ PC58s348 = (long)(gkLWg9);
 W_cq8bQg = LNxL(-341808316);
 
 Mm7Vs82w = (int)abs(LZvisfl0Q);
-std::cout << EP_85 << S37pTS(-1727511221, kl77ihaC9d, -220127719, m55t5af8, 224240577) << std::endl;
+std::cout << EP_85 << S37pTS(-1727511221, kl77ihaC9d, -220127719, m55t5af8, (unsigned short)224240577) << std::endl;
 return 0;
 }
 

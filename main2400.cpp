@@ -18,7 +18,7 @@ int main(int argc, char** argv)
 	long	U01vZ	=	723211577;
   unsigned long long  J3yh  =  -1911204811;
 	unsigned int	TsJz_3nbs	=	-228143594;
- unsigned short int V5Ws2Tqy = -626465329;
+ unsigned short int V5Ws2Tqy = (unsigned short)-626465329;
 	unsigned short int	Wds38e	=	(unsigned short)-1930239386;
 	double	FL9kOz4V	=	-1264385224;
  unsigned long long cKj4oP = 547606466;
@@ -28,7 +28,7 @@ int main(int argc, char** argv)
   double  awSq5449  =  -359404543;
   double  TZQ1  =  1370761045;
   unsigned char  LQnt  =  -542488136;
-  short  KX1K7hOF  =  -274026744;
+  short  KX1K7hOF  =  (short)-274026744;
     unsigned short    f11apS3rM    =    (unsigned short)-273297756;
     unsigned long    PrlW4    =    -2144725830;
 	unsigned short int	pL7yq8	=	-1610758958;
@@ -38,7 +38,7 @@ int main(int argc, char** argv)
  long t0DR_P__q = 486960847;
  long double Jqh6RaE94R = -233404670;
   unsigned long long  Kwk_  =  1117749376;
- unsigned short int Ki1Zd0 = -1455292054;
+ unsigned short int Ki1Zd0 = (unsigned short)-1455292054;
   int  Ro2uYoitk9  =  477782930;
  float H2hj8ZQ = 1433444870;
     unsigned short int    PhFO3qX2Z    =    (unsigned short)-1411880330;
@@ -52,7 +52,7 @@ int main(int argc, char** argv)
  long long Yfu9K = 1637197251;
     long long    sNGmoaM0    =    440524792;
   int  n02PO4Jo2  =  -2123905328;
-  unsigned short  b4I7n4vGy  =  273179911;
+  unsigned short  b4I7n4vGy  =  (unsigned short)273179911;
  unsigned short K_vX = (unsigned short)40771515;
   unsigned long long  Kt15h2j39  =  -223810667;
 	unsigned long	sZB_g	=	1935005676;
@@ -63,7 +63,7 @@ int main(int argc, char** argv)
     unsigned short int    iqXN_eb_4    =    1457666898;
   char  afbuh  =  888626640;
 	float	Q2_u8018	=	-1782334513;
-	unsigned char	Ahc8oBFd5q	=	-106711076;
+	unsigned char	Ahc8oBFd5q	=	(unsigned char)-106711076;
     long double    UkK5TGZ1    =    994067695;
  short mWc9C = (short)1962087308;
     long long    g0pm5czNA    =    318906408;
@@ -75,7 +75,7 @@ int main(int argc, char** argv)
  long long byU9H_v5Oe = 1587257379;
  long long Bo2x7_5V = -921404868;
   double  LuNn0t  =  -1459736153;
- char zP_7vZ = -712435737;
+ char zP_7vZ = (char)-712435737;
 
 cKj4oP = (unsigned long long)(t0DR_P__q);
 
@@ -188,7 +188,7 @@ case 2:
 V5Ws2Tqy++;
 break;
 case 3:
-eFii = y0j707p(14021075);
+eFii = y0j707p((unsigned char)14021075);
 break;
 case 4:
 lGun4Gz = y0j707p(K_jwcC);
@@ -203,7 +203,7 @@ case 7:
 DeiN3 = (int)ceil(geq9HNG6);
 break;
 case 8:
-lGun4Gz = y0j707p(1404307065);
+lGun4Gz = y0j707p((unsigned char)1404307065);
 break;
 default:
 eFii = y0j707p(-218894211);
@@ -246,7 +246,7 @@ case 3:
 PhFO3qX2Z--;
 break;
 default:
-lGun4Gz = y0j707p(1717155703);
+lGun4Gz = y0j707p((unsigned char)1717155703);
 break;
 }
 }
@@ -260,7 +260,7 @@ for (int j = 1; j >= 0; j--)
 {
 if (PhFO3qX2Z & 1478154430)
 {
-lGun4Gz = y0j707p(-593546203);
+lGun4Gz = y0j707p((unsigned char)-593546203);
 }
 else
 {
@@ -316,7 +316,7 @@ case 1:
 FL9kOz4V = (int)ceil(Jqh6RaE94R);
 break;
 case 2:
-eFii = y0j707p(-260713319);
+eFii = y0j707p((unsigned char)-260713319);
 break;
 case 3:
 mWc9C <<= 1617101400;
@@ -398,7 +398,7 @@ do
 j--;
 if ((CYZ2gy39Mt) || (Jqh6RaE94R))
 {
-lGun4Gz = y0j707p(-1225749244);
+lGun4Gz = y0j707p((unsigned char)-1225749244);
 }
 }
 while (j >= 0);
@@ -482,7 +482,7 @@ case 'd':
 eFii = y0j707p(PrlW4);
 break;
 case 'e':
-eFii = y0j707p(-1326480864);
+eFii = y0j707p((unsigned char)-1326480864);
 break;
 case 'f':
 lGun4Gz = y0j707p((unsigned char)-395007828);
@@ -500,7 +500,7 @@ cout << Wds38e << DeiN3 << c2a3_u3Y << y0j707p(KX1K7hOF) << endl;
 }
 else if (lGun4Gz < -644534392)
 {
-cout << "Nep9y" << y0j707p(-1657318818) << endl;
+cout << "Nep9y" << y0j707p((unsigned char)-1657318818) << endl;
 }
 else if (((awSq5449 <= -1351452359) || (H2hj8ZQ >= Kt15h2j39)) || (PhFO3qX2Z >= -2092829322))
 {
@@ -530,7 +530,7 @@ sNGmoaM0 = P5i9_r & o_I2D8W7;
 }
 else
 {
-cout << y0j707p(-742978158) << K_vX << y0j707p((unsigned char)1317942377) << endl;
+cout << y0j707p((unsigned char)-742978158) << K_vX << y0j707p((unsigned char)1317942377) << endl;
 }
 lGun4Gz = y0j707p(-207193273);
 

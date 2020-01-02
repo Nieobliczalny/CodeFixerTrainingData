@@ -11,7 +11,7 @@
 using namespace std;
 
 short    EPPT2x3()    {
-    return    -21979406;
+    return    (short)-21979406;
 }
 
 long    EE1o7SBKEd(unsigned char    MDQRYs,long    rE3_,long long    eH1AM9t)
@@ -25,7 +25,7 @@ unsigned short int  w5l_T8_2s6()
 }
 
 char q4a4w8J5() {
- return -1340175893;
+ return (char)-1340175893;
 }
 
 unsigned short    V6Pwcm3(unsigned char    q7Em493,char    DOLlH1,unsigned short    x7yt49,unsigned char    KotwpzPf4)    {
@@ -176,7 +176,7 @@ case 0:
 ZI9n = (gZ2sDHSa != -1939575979) ? bupANIS : ZI9n;
 break;
 case 1:
-ZI9n = V6Pwcm3(-1017800626, ZI9n, bupANIS, nL13);
+ZI9n = V6Pwcm3((unsigned char)-1017800626, ZI9n, bupANIS, nL13);
 break;
 case 2:
 VA0bQKa = (int)floor(Z1m5);
@@ -191,7 +191,7 @@ case 5:
 bupANIS = EPPT2x3();
 break;
 default:
-ZI9n = V6Pwcm3(ZI9n, O74Xp0, 1783442873, (unsigned char)-512527447);
+ZI9n = V6Pwcm3(ZI9n, O74Xp0, (unsigned short)1783442873, (unsigned char)-512527447);
 break;
 }
 }
@@ -320,7 +320,7 @@ else if (gZ2sDHSa >= vR2Yo96ST)
 {
 if (((Z1m5 > kHmR79D) && (ZI9n != kHmR79D)) && (iN0P12 <= VA0bQKa))
 {
-mpLjjN = V6Pwcm3(-1208015256, (char)-1200642537, 558573097, 1407469170);
+mpLjjN = V6Pwcm3((unsigned char)-1208015256, (char)-1200642537, 558573097, 1407469170);
 }
 else if (ZI9n > 1870818036)
 {
@@ -340,7 +340,7 @@ G68YUzCN = (int)ceil(Z1m5);
 }
 else
 {
-VA0bQKa = V6Pwcm3(VA0bQKa, -1126456790, (unsigned short)-728853582, ZI9n);
+VA0bQKa = V6Pwcm3(VA0bQKa, (char)-1126456790, (unsigned short)-728853582, ZI9n);
 }
 }
 else if (((ERlOR >= qn86_) || (G68YUzCN >= qn86_)) || (o2IBWQdC == mpLjjN))
@@ -370,7 +370,7 @@ i--;
 while (i >= 0);
 }
 
-ERlOR = V6Pwcm3(-692742988, o2IBWQdC, (unsigned short)2138323453, Ma1RliM9Tw) / nL13;
+ERlOR = V6Pwcm3((unsigned char)-692742988, o2IBWQdC, (unsigned short)2138323453, Ma1RliM9Tw) / nL13;
 
 Ma1RliM9Tw = (int)ceil(ev29yi04eZ);
 
@@ -429,7 +429,7 @@ int k = 9;
 do
 {
 --k;
-Ma1RliM9Tw = EE1o7SBKEd(-2003339353, 1772993996, 1787939726);
+Ma1RliM9Tw = EE1o7SBKEd((unsigned char)-2003339353, 1772993996, 1787939726);
 }
 while (k >= 0);
 }

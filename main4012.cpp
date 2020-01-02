@@ -16,7 +16,7 @@ long  Np_T0(short  zKjYQ3,unsigned short int  hsRXw)  {
 
 short  z55hsLD66(short int  l2t3c3MAC_,short  Duwl37i)
 {
-  return  1464475914;
+  return  (short)1464475914;
 }
 
 int main(void)
@@ -37,7 +37,7 @@ WI348__LGx = (int)abs(JTNgEmOU2);
 }
 }
 kahyg = (long)(OBxdwnLW);
-k_IJ5fmR = Np_T0(-42866187, KsxLbDf);
+k_IJ5fmR = Np_T0((short)-42866187, KsxLbDf);
 if (iA96GQX == VK2_6rU)
 {
 try
@@ -63,7 +63,7 @@ case 2:
 AMcw48Z = (int)abs(ocTW47);
 break;
 case 3:
-jVe2E7t6VH = z55hsLD66(jVe2E7t6VH, -251577327);
+jVe2E7t6VH = z55hsLD66(jVe2E7t6VH, (short)-251577327);
 break;
 case 4:
 L4pl = Z4xLtz >> c8lYk8P9s;
@@ -108,7 +108,7 @@ U08M = (I516PZ >= -506892975) ? pc5o : -1600934295;
 }
 else
 {
-GTGc0ywT = z55hsLD66(1989942375, pc5o);
+GTGc0ywT = z55hsLD66((short)1989942375, pc5o);
 }
 }
 }
@@ -143,7 +143,7 @@ int i = 0;
 while (i < 4)
 {
 ++i;
-std::cout << y3nJmOR << "OK12in" << Wv9U << wV__ << z55hsLD66(-15227391, (short)1665026890) << std::endl;
+std::cout << y3nJmOR << "OK12in" << Wv9U << wV__ << z55hsLD66((short)-15227391, (short)1665026890) << std::endl;
 }
 }
 
@@ -165,7 +165,7 @@ case 2:
 AMcw48Z++;
 break;
 case 3:
-UwTV = Np_T0(-652552384, (unsigned short)1197349239);
+UwTV = Np_T0((short)-652552384, (unsigned short)1197349239);
 break;
 case 4:
 V1_AxF6EA = k_b1 >> 2051775742;
@@ -226,7 +226,7 @@ int j = 10;
 do
 {
 --j;
-owDfB71 = z55hsLD66(293792624, (short)785612668);
+owDfB71 = z55hsLD66((short)293792624, (short)785612668);
 }
 while (j >= 0);
 }

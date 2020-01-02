@@ -20,7 +20,7 @@ int main() {
     unsigned long    d9bOoG5k    =    1848853601;
     unsigned long    LlZZX9r86w    =    -1727060823;
  long long c8f9Fs = -1598068188;
-  unsigned short  AR_0  =  -1592416901;
+  unsigned short  AR_0  =  (unsigned short)-1592416901;
  unsigned char Qh5TibG = (unsigned char)2078859971;
     double    GWiWz_EP4    =    -1300716736;
 	short	M29F5bF30	=	-857634367;
@@ -30,7 +30,7 @@ int main() {
   int  u7622Rh  =  -2123869272;
 	long double	Z2ad9	=	-1277603687;
  short lEjEx665C = 0;
- unsigned short int iP13b7 = 832324968;
+ unsigned short int iP13b7 = (unsigned short)832324968;
 	unsigned short int	i_aGL_z4	=	(unsigned short)853909937;
  unsigned short int QAhq9x4R = -2137600276;
 
@@ -74,7 +74,7 @@ try
 {
 for (int k = 0; k < 4; k++)
 {
-k0Fmy56lm = C8le2e8f(-1168041805, -302888688, 143918341, i_aGL_z4, QAhq9x4R);
+k0Fmy56lm = C8le2e8f(-1168041805, (unsigned char)-302888688, 143918341, i_aGL_z4, QAhq9x4R);
 }
 }
 catch (int& errorCode)
@@ -99,7 +99,7 @@ else
 lEjEx665C = (int)abs(u7622Rh) * 0;
 }
 
-bar2 = C8le2e8f(1379243755, 1065142920, -1270933246, LlZZX9r86w, bar2);
+bar2 = C8le2e8f(1379243755, (unsigned char)1065142920, -1270933246, LlZZX9r86w, bar2);
 
 {
 int i = 0;
@@ -110,7 +110,7 @@ AR_0 &= 785094725;
 }
 while (i < 3);
 }
-bar2 = C8le2e8f(-1362457896, -1611087170, -1551466813, ShO03M85AE, 2085865945);
+bar2 = C8le2e8f(-1362457896, (unsigned char)-1611087170, -1551466813, ShO03M85AE, 2085865945);
 M29F5bF30 += 623364881;
 switch (lEjEx665C)
 {
@@ -121,7 +121,7 @@ case 1:
 bar2 = C8le2e8f(d56ZBx06, bar2, 1012927703, M29F5bF30, Qh5TibG);
 break;
 case 2:
-lEjEx665C = C8le2e8f(1809723669, 398952926, lEjEx665C, -1228400857, Z2ad9);
+lEjEx665C = C8le2e8f(1809723669, (unsigned char)398952926, lEjEx665C, -1228400857, Z2ad9);
 break;
 case 3:
 urh3Y06i = C8le2e8f(1287376188, (unsigned char)-633629653, 889495683, -398221416, u7622Rh);
@@ -157,7 +157,7 @@ while (i < 2);
 }
 std::cout << bar2 / C8le2e8f(bar2, QAhq9x4R, -1417547031, 1377328418, -1098346365) << std::endl;
 
-std::cout << C8le2e8f(bar2, QAhq9x4R, 500986062, 732887004, -2101952556) << bar2 << C8le2e8f(bar2, 632126204, z80mE_O1i, k0Fmy56lm, ShO03M85AE) << U9ZGaK2kd << "ACbBvq7" << std::endl;
+std::cout << C8le2e8f(bar2, QAhq9x4R, 500986062, 732887004, -2101952556) << bar2 << C8le2e8f(bar2, (unsigned char)632126204, z80mE_O1i, k0Fmy56lm, ShO03M85AE) << U9ZGaK2kd << "ACbBvq7" << std::endl;
 
 lEjEx665C = C8le2e8f(c8f9Fs, d9bOoG5k, M29F5bF30, z80mE_O1i, 760903189);
 
@@ -219,7 +219,7 @@ else
 {
 if ((z80mE_O1i < 1135701407) || (M29F5bF30 <= -840780556))
 {
-std::cout << C8le2e8f(272181061, 791397581, M29F5bF30, z80mE_O1i, QAhq9x4R) << C8le2e8f(-1443519758, (unsigned char)-1204353649, M29F5bF30, -1312884553, QAhq9x4R) << d56ZBx06 << std::endl;
+std::cout << C8le2e8f(272181061, (unsigned char)791397581, M29F5bF30, z80mE_O1i, QAhq9x4R) << C8le2e8f(-1443519758, (unsigned char)-1204353649, M29F5bF30, -1312884553, QAhq9x4R) << d56ZBx06 << std::endl;
 }
 else
 {
@@ -252,7 +252,7 @@ case 'g':
 U9ZGaK2kd = c8f9Fs - bar2;
 break;
 case 'h':
-d56ZBx06 = C8le2e8f(urh3Y06i, 1192798153, -1017800226, 2102304948, u7622Rh) % d9bOoG5k;
+d56ZBx06 = C8le2e8f(urh3Y06i, (unsigned char)1192798153, -1017800226, 2102304948, u7622Rh) % d9bOoG5k;
 break;
 case 'i':
 urh3Y06i = C8le2e8f(urh3Y06i, (unsigned char)83346953, 913312867, 952042734, LlZZX9r86w);

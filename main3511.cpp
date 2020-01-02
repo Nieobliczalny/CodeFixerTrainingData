@@ -19,7 +19,7 @@ int main() {
 	unsigned short int	X5cDHJ_7p3,	PoH3SJ8438,	w7G38E_1;
 		X5cDHJ_7p3	=	PoH3SJ8438	=	w7G38E_1	=	0;
  short int lte_, N1_Du9S33U, UsX9lv, K5ffo, PB4n1v6A, hV3zu20_UU, u_B_ur3O6, HfJ0l, Hl40a, TI17RsaCp, bX498FOcI_, VqSv996, Vk8LkF_, M03n31n, cZJp4h20I9, NDFSbzg9, dXZe, OG8hr7D90, uKgThaA4kU, O2PzD, iG5_53eG, T8dS3M73Fl, t49Op, W7qqg, hm550Bu, itv6h, T_lpvEgMP, nF_4l6g, CDm9, dbyo3Gu, OIkUf_L9N, bu9EJO2tNJ, ijBy60, urI5Xgy, z5If, go12hSXkdm, jK1X, aAGeO, F4Jl6U36u, Md_Vjf, QC_KBO5, DV_Hk, V5x_ySC, x7Nz6z8, Rx4H, bOZ77Td6, o76K0ZI, MD39Ia, ta3O, dN2qeK, nHdkGW, g_CNE, OoB9ZtKO_, bJsRJK3O, rUbtBia, YtiTddeMb4, cny7q, wO4H, yAVyfV44, yUBG335;
-  lte_ = N1_Du9S33U = UsX9lv = K5ffo = PB4n1v6A = hV3zu20_UU = u_B_ur3O6 = HfJ0l = Hl40a = TI17RsaCp = bX498FOcI_ = VqSv996 = Vk8LkF_ = M03n31n = cZJp4h20I9 = NDFSbzg9 = dXZe = OG8hr7D90 = uKgThaA4kU = O2PzD = iG5_53eG = T8dS3M73Fl = t49Op = W7qqg = hm550Bu = itv6h = T_lpvEgMP = nF_4l6g = CDm9 = dbyo3Gu = OIkUf_L9N = bu9EJO2tNJ = ijBy60 = urI5Xgy = z5If = go12hSXkdm = jK1X = aAGeO = F4Jl6U36u = Md_Vjf = QC_KBO5 = DV_Hk = V5x_ySC = x7Nz6z8 = Rx4H = bOZ77Td6 = o76K0ZI = MD39Ia = ta3O = dN2qeK = nHdkGW = g_CNE = OoB9ZtKO_ = bJsRJK3O = rUbtBia = YtiTddeMb4 = cny7q = wO4H = yAVyfV44 = yUBG335 = -1970998635;
+  lte_ = N1_Du9S33U = UsX9lv = K5ffo = PB4n1v6A = hV3zu20_UU = u_B_ur3O6 = HfJ0l = Hl40a = TI17RsaCp = bX498FOcI_ = VqSv996 = Vk8LkF_ = M03n31n = cZJp4h20I9 = NDFSbzg9 = dXZe = OG8hr7D90 = uKgThaA4kU = O2PzD = iG5_53eG = T8dS3M73Fl = t49Op = W7qqg = hm550Bu = itv6h = T_lpvEgMP = nF_4l6g = CDm9 = dbyo3Gu = OIkUf_L9N = bu9EJO2tNJ = ijBy60 = urI5Xgy = z5If = go12hSXkdm = jK1X = aAGeO = F4Jl6U36u = Md_Vjf = QC_KBO5 = DV_Hk = V5x_ySC = x7Nz6z8 = Rx4H = bOZ77Td6 = o76K0ZI = MD39Ia = ta3O = dN2qeK = nHdkGW = g_CNE = OoB9ZtKO_ = bJsRJK3O = rUbtBia = YtiTddeMb4 = cny7q = wO4H = yAVyfV44 = yUBG335 = (short)-1970998635;
 
 {
 int i = 3;
@@ -113,7 +113,7 @@ yUBG335 /= 73634543;
 }
 else
 {
-DV_Hk = (O2PzD != -569328216) ? lte_ : -1627516617;
+DV_Hk = (O2PzD != -569328216) ? lte_ : (short)-1627516617;
 }
 }
 catch (int& errorCode)

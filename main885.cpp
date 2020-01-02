@@ -9,7 +9,7 @@
 
 int main(int argc, char** argv) {
 	unsigned short int	zznL1U7l;
-	zznL1U7l	=	1021395304;
+	zznL1U7l	=	(unsigned short)1021395304;
     double    CDk77;
     CDk77    =    -1410665078;
 	unsigned short int	tt80;
@@ -19,7 +19,7 @@ int main(int argc, char** argv) {
  int tX5W8;
  tX5W8 = -2036894106;
 	short	CEV9A;
-	CEV9A	=	627047866;
+	CEV9A	=	(short)627047866;
   long  y4MYuq72;
   y4MYuq72  =  -81866586;
 	unsigned char	R8CIFNids;
@@ -43,7 +43,7 @@ int main(int argc, char** argv) {
     int    Vif2s_o4;
     Vif2s_o4    =    1358249625;
  unsigned char KRfvtL8r_;
- KRfvtL8r_ = -1425467628;
+ KRfvtL8r_ = (unsigned char)-1425467628;
     unsigned char    h9j2_K;
     h9j2_K    =    (unsigned char)1755640308;
   int  f4L3;
@@ -55,7 +55,7 @@ int main(int argc, char** argv) {
   unsigned long long  L_0_r;
   L_0_r  =  948202906;
  unsigned short Fo95U203;
- Fo95U203 = 678283885;
+ Fo95U203 = (unsigned short)678283885;
   long  QnUT;
   QnUT  =  0;
     unsigned int    lxY5OYWLu;
@@ -69,7 +69,7 @@ int main(int argc, char** argv) {
   long long  ww8bR;
   ww8bR  =  -1630926936;
  short int T9y0Z413q;
- T9y0Z413q = 1791782110;
+ T9y0Z413q = (short)1791782110;
   short  JDYRO;
   JDYRO  =  0;
     unsigned long long    nCq7Jz_58;
@@ -79,7 +79,7 @@ int main(int argc, char** argv) {
  unsigned char JJJL2Cl11p;
  JJJL2Cl11p = 689517820;
   unsigned short  d1mgD4_IJ;
-  d1mgD4_IJ  =  1175440871;
+  d1mgD4_IJ  =  (unsigned short)1175440871;
  unsigned long long EcgrRcA759;
  EcgrRcA759 = -985767965;
 	double	QRkXt;
@@ -89,7 +89,7 @@ int main(int argc, char** argv) {
   float  u1o9l7;
   u1o9l7  =  847588071;
 	short	l59uQ6;
-	l59uQ6	=	-1924069821;
+	l59uQ6	=	(short)-1924069821;
   int  yi0C_Vs_;
   yi0C_Vs_  =  2128318806;
  unsigned long long t1VCL_r41;
@@ -107,7 +107,7 @@ int main(int argc, char** argv) {
     unsigned long    sYBq4AY;
     sYBq4AY    =    -2066346746;
     short int    jASTI3;
-    jASTI3    =    638237579;
+    jASTI3    =    (short)638237579;
 	float	RzhyO3;
 	RzhyO3	=	-977182196;
   unsigned int  em65;
@@ -117,7 +117,7 @@ int main(int argc, char** argv) {
   float  VK__XGE4Z0;
   VK__XGE4Z0  =  -1388720836;
  unsigned short int kbMiZV5;
- kbMiZV5 = -1919459346;
+ kbMiZV5 = (unsigned short)-1919459346;
 
 switch (jASTI3)
 {

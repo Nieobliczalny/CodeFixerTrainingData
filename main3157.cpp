@@ -10,7 +10,7 @@ using namespace std;
 
 int main() {
     unsigned long long    R3Ioah7G    =    58469104;
-  unsigned short int  Or3La  =  -1481498461;
+  unsigned short int  Or3La  =  (unsigned short)-1481498461;
  unsigned short int Jf0TFuZoc = (unsigned short)288142582;
  long double oI_4nLno_ = -938472782;
 	double	Oy5cLa9lfW	=	-950877039;
@@ -20,7 +20,7 @@ int main() {
 	short int	gQ_bWO6_X	=	199880919;
  float m55MRG = -675767341;
   unsigned long long  oOHFR  =  1480669178;
-	unsigned short	OPOZ18	=	-1220228414;
+	unsigned short	OPOZ18	=	(unsigned short)-1220228414;
     unsigned int    v__gDON    =    551734723;
 	unsigned long	pSOWJ	=	-194877203;
     long double    nQNQ    =    448891624;
@@ -32,7 +32,7 @@ int main() {
   unsigned char  xGzm4fETc  =  705138122;
  long long F36Y3 = 0;
   unsigned short int  Qucu  =  0;
-  char  Sn3iTp  =  -1540569667;
+  char  Sn3iTp  =  (char)-1540569667;
   long double  DCGAY2k9N5  =  -943347381;
  unsigned int X7sfPb02h = 0;
  unsigned short int Tsk2uZ0 = (unsigned short)1674788419;
@@ -43,7 +43,7 @@ int main() {
 	char	JgSrGk_l8	=	537985639;
 	long long	E43_nr9	=	1815220419;
     unsigned int    H_Wu20r06    =    201168724;
-  char  J8Q8k  =  -1600020316;
+  char  J8Q8k  =  (char)-1600020316;
 	unsigned long	amDbz_Z	=	-1694384674;
 	unsigned int	B4mhp1hY	=	-1758717133;
 	long	Pb8rFN29AY	=	1150033817;
@@ -54,7 +54,7 @@ int main() {
   unsigned char  q7C737O_4  =  -534540709;
   long  T5l4rs  =  -2142356928;
 	unsigned int	v65cNI1X	=	-1272700918;
-	short int	b0rH1aNCM	=	1197563723;
+	short int	b0rH1aNCM	=	(short)1197563723;
     short    PE5ccb606v    =    1527758897;
 	unsigned long	xnNN_	=	1971550481;
   float  v656J93_  =  1061642405;
@@ -65,7 +65,7 @@ int main() {
 	unsigned short	g6_Lc17w21	=	1228247860;
     unsigned long long    Bukomx    =    419893213;
     long double    VFR4    =    1161218797;
-    short    FaAk_42    =    2132387282;
+    short    FaAk_42    =    (short)2132387282;
 	unsigned short	bazx9c7	=	1985339777;
 	unsigned int	Vje7xq	=	-1410392497;
   double  Jz5GsTGFeZ  =  -501649213;
@@ -78,7 +78,7 @@ int main() {
 	unsigned long long	qMAhE	=	162458111;
 	unsigned long	KCrdEx66	=	-1268583077;
   unsigned long  pKz_886AGa  =  330445132;
- unsigned char ybe20kcR = -630167193;
+ unsigned char ybe20kcR = (unsigned char)-630167193;
 
 v656J93_ = (float)(qMAhE);
 dHztV = 292923560 / F36Y3;

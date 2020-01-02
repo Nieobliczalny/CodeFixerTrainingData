@@ -23,7 +23,7 @@ x5wZBXsHb = (int)(MJq0);
 
 HF53_ = (int)(bbF_c);
 
-k_kiFwA = jp7cUu / Rp9A4(1056398322, pn6y2E, 85741713, (short)-1748137456);
+k_kiFwA = jp7cUu / Rp9A4(1056398322, pn6y2E, (char)85741713, (short)-1748137456);
 
 if (((ar3r & -1225145927) && (Df828hs >= -1738058157)) && ((GhYI06_7 == HF53_) && (Df828hs > V02ZdBa_S)))
 {
@@ -109,7 +109,7 @@ bbF_c = iLrldzZQS();
 
 try
 {
-std::cout << iLrldzZQS() << e33hOu(-2142485215, -1939785903, ar3r) << Rp9A4(-1543380892, 1308566311, ar3r, -898531147) << std::endl;
+std::cout << iLrldzZQS() << e33hOu(-2142485215, -1939785903, ar3r) << Rp9A4(-1543380892, 1308566311, ar3r, (short)-898531147) << std::endl;
 }
 catch (int& errorCode)
 {
@@ -138,7 +138,7 @@ while (i < 7);
 }
 if (k_kiFwA <= 173422440)
 {
-lOa2jpR = Rp9A4(MgZ0c, 775871833, 1237383101, VPVZRbGzK);
+lOa2jpR = Rp9A4(MgZ0c, 775871833, (char)1237383101, VPVZRbGzK);
 }
 else if (Ls1BD54 != VZj7HerHeh)
 {
@@ -152,7 +152,7 @@ case 0:
 HF53_ = (int)abs(Ls1BD54);
 break;
 case 1:
-ksR70WnMqz = Rp9A4(MgZ0c, Ls1BD54, x5wZBXsHb, -3216214);
+ksR70WnMqz = Rp9A4(MgZ0c, Ls1BD54, x5wZBXsHb, (short)-3216214);
 break;
 case 2:
 VZj7HerHeh = iLrldzZQS();
@@ -260,7 +260,7 @@ return 0;
 }
 
 unsigned char	e33hOu(long	od0OeZT5,long long	saNh1uO2d,unsigned long long	T_Ex7c)	{
-	return	-649682536;
+	return	(unsigned char)-649682536;
 }
 
 short    iLrldzZQS()    {

@@ -14,7 +14,7 @@
 using namespace std;
 
 int main(int argc, char** argv) {
-    char    wyRRrB28F    =    1290540791;
+    char    wyRRrB28F    =    (char)1290540791;
     unsigned short    uWSe    =    (unsigned short)215097112;
     float    IMpak    =    361772631;
     double    v6F_moL0    =    418842064;
@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
     long double    TWRECuHp    =    1136195412;
  long vO_NuqD = 1044876562;
   unsigned int  b13P  =  -1065820961;
-	short	AcWODoL3om	=	1744826284;
+	short	AcWODoL3om	=	(short)1744826284;
   char  EIF07n4p  =  (char)-197160013;
 	unsigned int	ue1Nlrqj	=	972897775;
 	char	j8Wr	=	1387968818;
@@ -45,7 +45,7 @@ int main(int argc, char** argv) {
 	unsigned int	I471	=	0;
     long    KN6FIA    =    -1702767125;
 	char	VnAlU	=	0;
- short o0I8yhP = -77972786;
+ short o0I8yhP = (short)-77972786;
   long  zrGxt  =  921989551;
 	char	k25R23p	=	(char)-1810961553;
 	unsigned char	NtAbhz	=	227179863;

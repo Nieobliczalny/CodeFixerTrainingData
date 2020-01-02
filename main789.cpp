@@ -17,7 +17,7 @@ unsigned long    ZMTd_x_(unsigned long    DhWR0eh,short int    Vt84T,char    I70
 }
 
 int main(int argc, char** argv) {
-  unsigned short  n5Fs2_F9F  =  274405200;
+  unsigned short  n5Fs2_F9F  =  (unsigned short)274405200;
   int  SnT_WUri5  =  0;
   unsigned long long  J52Z_  =  0;
 	unsigned int	sz23uE	=	552350833;
@@ -38,7 +38,7 @@ for (int j = 5; j >= 0; --j)
 {
 if (K6EgqdbxjI >= -234231648)
 {
-FccpgMwb = ZMTd_x_(-745729441, K6EgqdbxjI, -2119298192);
+FccpgMwb = ZMTd_x_(-745729441, K6EgqdbxjI, (char)-2119298192);
 }
 }
 }
@@ -65,7 +65,7 @@ case 0:
 n5Fs2_F9F ^= 1594757660;
 break;
 case 1:
-f805W4 = ZMTd_x_(14943136, n5Fs2_F9F, -1975251919);
+f805W4 = ZMTd_x_(14943136, n5Fs2_F9F, (char)-1975251919);
 break;
 case 2:
 M0YTM4ZIMR = PxMUJ7G0M >> wh_4q;
@@ -80,7 +80,7 @@ case 5:
 SnT_WUri5 = ZMTd_x_(-1635716055, SnT_WUri5, zMvl);
 break;
 case 6:
-SnT_WUri5 = ZMTd_x_(SnT_WUri5, 37071006, 1075043511);
+SnT_WUri5 = ZMTd_x_(SnT_WUri5, (short)37071006, 1075043511);
 break;
 case 7:
 das1Q = ZMTd_x_(Txcy0EA, n5Fs2_F9F, 923196314);
@@ -96,7 +96,7 @@ if ((n5Fs2_F9F <= -445625117) && ((sz23uE >= DBA2D) && (FccpgMwb >= wh_4q)))
 {
 if (K6EgqdbxjI & DBA2D)
 {
-J52Z_ = ZMTd_x_(J52Z_, 1741021860, (char)1204168434);
+J52Z_ = ZMTd_x_(J52Z_, (short)1741021860, (char)1204168434);
 }
 else
 {
@@ -107,7 +107,7 @@ else
 {
 for (int k = 7; k >= 0; --k)
 {
-FccpgMwb = ZMTd_x_(-1312001804, 628858789, (char)1774459153);
+FccpgMwb = ZMTd_x_(-1312001804, (short)628858789, (char)1774459153);
 }
 }
 }
@@ -123,7 +123,7 @@ while (j < 1)
 {
 if ((E9s_8Ypo0 >= xPVn5Rmr4) || (zMvl < K6EgqdbxjI))
 {
-J52Z_ = ZMTd_x_(-1031349917, -387222843, zMvl);
+J52Z_ = ZMTd_x_(-1031349917, (short)-387222843, zMvl);
 }
 j++;
 }
@@ -148,7 +148,7 @@ zMvl %= 1569195017;
 break;
 case 'c':
 case 'C':
-J52Z_ = ZMTd_x_(1237587851, -522414878, (char)580210942);
+J52Z_ = ZMTd_x_(1237587851, (short)-522414878, (char)580210942);
 break;
 case 'd':
 case 'D':
@@ -164,7 +164,7 @@ PxMUJ7G0M |= 1353475745;
 break;
 case 'g':
 case 'G':
-FccpgMwb = ZMTd_x_(1462797419, -452413019, (char)1867305100);
+FccpgMwb = ZMTd_x_(1462797419, (short)-452413019, (char)1867305100);
 break;
 case 'h':
 case 'H':
@@ -176,7 +176,7 @@ SnT_WUri5 = (int)abs(PxMUJ7G0M) * 0;
 break;
 case 'j':
 case 'J':
-FccpgMwb = ZMTd_x_(1015619522, 1373634304, J52Z_);
+FccpgMwb = ZMTd_x_(1015619522, (short)1373634304, J52Z_);
 break;
 default:
 f805W4 = ZMTd_x_(sz23uE, (short)-1859675704, 1870273692);
@@ -191,7 +191,7 @@ else
 switch (K6EgqdbxjI)
 {
 case 0:
-SnT_WUri5 = ZMTd_x_(SnT_WUri5, PxMUJ7G0M, 962571723);
+SnT_WUri5 = ZMTd_x_(SnT_WUri5, PxMUJ7G0M, (char)962571723);
 break;
 case 1:
 SnT_WUri5 = (int)abs(Txcy0EA) * 0;
@@ -218,7 +218,7 @@ case 8:
 FccpgMwb = ZMTd_x_(-1571473168, PxMUJ7G0M, E9s_8Ypo0);
 break;
 case 9:
-das1Q = ZMTd_x_(-145334114, 749615107, (char)-495753072);
+das1Q = ZMTd_x_(-145334114, (short)749615107, (char)-495753072);
 break;
 }
 }
@@ -232,7 +232,7 @@ try
 {
 if (((Txcy0EA != 1411869189) || (n5Fs2_F9F <= E9s_8Ypo0)) && (PxMUJ7G0M >= -1637195572))
 {
-FccpgMwb = ZMTd_x_(962903579, -1472098754, SnT_WUri5);
+FccpgMwb = ZMTd_x_(962903579, (short)-1472098754, SnT_WUri5);
 }
 else if (sz23uE)
 {
@@ -244,7 +244,7 @@ sz23uE <<= PxMUJ7G0M;
 }
 else if (SnT_WUri5 <= DBA2D)
 {
-FccpgMwb = ZMTd_x_(-1669635852, 273635950, f805W4);
+FccpgMwb = ZMTd_x_(-1669635852, (short)273635950, f805W4);
 }
 else
 {
@@ -259,7 +259,7 @@ SnT_WUri5 = ZMTd_x_(-487986497, zMvl, wh_4q);
 while (i >= 0);
 }
 
-J52Z_ = ZMTd_x_(J52Z_, 2119156836, PxMUJ7G0M);
+J52Z_ = ZMTd_x_(J52Z_, (short)2119156836, PxMUJ7G0M);
 
 try
 {
@@ -300,7 +300,7 @@ catch (int& errorCode)
 zMvl = J52Z_ + E9s_8Ypo0;
 }
 
-f805W4 = ZMTd_x_(sz23uE, -1760464151, (char)-380251412);
+f805W4 = ZMTd_x_(sz23uE, (short)-1760464151, (char)-380251412);
 
 std::cout << 1815801962 / ZMTd_x_(-971686914, 865482090, -1730172911) << std::endl;
 
@@ -310,7 +310,7 @@ for (int j = 0; j < 8; j++)
 {
 if ((f805W4 != PxMUJ7G0M) || (n5Fs2_F9F))
 {
-J52Z_ = ZMTd_x_(sz23uE, -825322473, (char)-1956599073);
+J52Z_ = ZMTd_x_(sz23uE, (short)-825322473, (char)-1956599073);
 }
 else if (n5Fs2_F9F != 1735289922)
 {
@@ -344,7 +344,7 @@ while (j < 7)
 int k = 0;
 do
 {
-f805W4 = ZMTd_x_(Txcy0EA, 484698486, (char)883658838);
+f805W4 = ZMTd_x_(Txcy0EA, (short)484698486, (char)883658838);
 ++k;
 }
 while (k < 8);

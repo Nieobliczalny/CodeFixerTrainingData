@@ -17,7 +17,7 @@ int main() {
 	double	a9Pz15n_	=	-1042909738;
   unsigned int  OVlS58PE7  =  -283500511;
  long long kX2vyW1IxR = -1803594807;
-  unsigned char  m14i  =  -1916934178;
+  unsigned char  m14i  =  (unsigned char)-1916934178;
     long long    c_rO    =    1161984993;
     char    F0F_N    =    (char)-2033825472;
  float uzaa = 1838525667;
@@ -29,7 +29,7 @@ int main() {
  float Zdu7rA_o1L = 470487652;
  unsigned long OxUEfUtIY = 1057429415;
   long double  DtO2m_  =  -1710017485;
- unsigned short HvKK_Ko4l = -608462725;
+ unsigned short HvKK_Ko4l = (unsigned short)-608462725;
     unsigned short int    Io4fp11    =    (unsigned short)-1075583602;
 	long double	eFW8EmAV7	=	1057312646;
 	long double	dHZ5	=	-577948086;
@@ -39,7 +39,7 @@ int main() {
     unsigned int    LcwVX9z    =    808645784;
     unsigned long    JpA1Nx    =    501240433;
  long double s3778I = 473065897;
-    short int    yAY4A    =    -1533194664;
+    short int    yAY4A    =    (short)-1533194664;
   double  w49uu  =  2043976958;
   char  R3ZhupG  =  (char)-1065230189;
  unsigned int z8XYoq_ = 0;
@@ -49,7 +49,7 @@ int main() {
     unsigned short int    m7G3X    =    1881137153;
 	unsigned long	MqRb99	=	2011712586;
   char  x_u0n6X2  =  -1590333720;
-  short int  lit8o9Z5  =  -497652119;
+  short int  lit8o9Z5  =  (short)-497652119;
   float  Q2M3DDwq  =  -2053318296;
     unsigned short    h754    =    (unsigned short)-1410822566;
  unsigned long Zr77T0p = -520791163;
@@ -59,7 +59,7 @@ int main() {
   char  ZAHt  =  -517012084;
  long double MO_oa_u2i5 = 1502538716;
 	unsigned int	ERBMOC_qS	=	-857745755;
- short int xEZ0aI = -2049532455;
+ short int xEZ0aI = (short)-2049532455;
   unsigned long  rEgxRYY522  =  1128979100;
     int    aVjNv    =    -1507574841;
     unsigned long    f2x3UQc    =    -535672358;
@@ -70,7 +70,7 @@ int main() {
  int c7BQ4fyY3w = 207312360;
 	short int	UnvX	=	-432971391;
   float  I9cgcr  =  2090395187;
- unsigned char wKY1OH = -948785478;
+ unsigned char wKY1OH = (unsigned char)-948785478;
  int xRI8Nquui = 77207771;
 
 vVR_9Zq = 979600037 / W422q0sroK(yAY4A, o0JQa65THl, s_98, DtO2m_, -1112803251);
@@ -114,7 +114,7 @@ try
 switch (aVjNv)
 {
 case 0:
-f2x3UQc = W422q0sroK(yAY4A, o0JQa65THl, s_98, 1500240551, eaN54ohqxP) >> 1357875963;
+f2x3UQc = W422q0sroK(yAY4A, o0JQa65THl, s_98, (short)1500240551, eaN54ohqxP) >> 1357875963;
 break;
 case 1:
 p07B4IzKG = vVR_9Zq / ntL1iKzo;
@@ -132,7 +132,7 @@ R3ZhupG %= 387736233;
 switch (Xe5c9h4jjO)
 {
 case 'a':
-z8XYoq_ = W422q0sroK(-1436528346, cdlb, -284157805, a9Pz15n_, I9cgcr);
+z8XYoq_ = W422q0sroK((unsigned short)-1436528346, cdlb, -284157805, a9Pz15n_, I9cgcr);
 break;
 case 'b':
 k4WI25M_w4 = f2x3UQc & aVjNv;
@@ -153,7 +153,7 @@ case 'g':
 mCrK40tH2x++;
 break;
 case 'h':
-z8XYoq_ = W422q0sroK(-491201248, (short)1731972388, -58638189, p07B4IzKG, yC3FR5b);
+z8XYoq_ = W422q0sroK((unsigned short)-491201248, (short)1731972388, -58638189, p07B4IzKG, yC3FR5b);
 break;
 case 'i':
 z8XYoq_ = W422q0sroK(Zr77T0p, K8Qx_8z0l, ZdHh2, JpA1Nx, Io4fp11);
@@ -163,7 +163,7 @@ OxUEfUtIY = UnvX % rEgxRYY522;
 break;
 }
 z8XYoq_ = W422q0sroK(c_rO, uzaa, KayPx, 1729787336, ucz6mYaJj);
-z8XYoq_ = W422q0sroK(1961591078, s_98, 1212502187, OxUEfUtIY, -1641966017);
+z8XYoq_ = W422q0sroK((unsigned short)1961591078, s_98, 1212502187, OxUEfUtIY, -1641966017);
 
 if ((kX2vyW1IxR) && ((DtO2m_ > -1052912787) || (DtO2m_ >= 1822106737)))
 {
@@ -182,7 +182,7 @@ case 'd':
 UnvX = c7BQ4fyY3w % 1232889794;
 break;
 case 'e':
-z8XYoq_ = W422q0sroK(1405475640, (short)1307069435, 1243285267, OVlS58PE7, cdlb);
+z8XYoq_ = W422q0sroK((unsigned short)1405475640, (short)1307069435, 1243285267, OVlS58PE7, cdlb);
 break;
 case 'f':
 lit8o9Z5 = aVjNv & 1826832271;
@@ -204,7 +204,7 @@ break;
 z8XYoq_ = W422q0sroK(aVjNv, ucz6mYaJj, yAY4A, x_u0n6X2, ZdHh2);
 if (lit8o9Z5 < -1244244463)
 {
-z8XYoq_ = W422q0sroK(-1001942549, a9Pz15n_, wKY1OH, x_u0n6X2, 775626107);
+z8XYoq_ = W422q0sroK((unsigned short)-1001942549, a9Pz15n_, wKY1OH, x_u0n6X2, 775626107);
 }
 z8XYoq_ = W422q0sroK(yAY4A, (short)2091600767, 1829431713, w49uu, 676497826);
 z8XYoq_ = W422q0sroK(H7Z3V14, 282811408, 1246795311, OVlS58PE7, KayPx);

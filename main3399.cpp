@@ -57,7 +57,7 @@ for (int i = 0; i < 1; i++)
 i8s3laTC5 &= pk37;
 }
 
-u95W = rnsNH6T7cp(-1042086311, DK65) / UY1ocg4Pi8;
+u95W = rnsNH6T7cp((unsigned short)-1042086311, DK65) / UY1ocg4Pi8;
 
 {
 int i = 0;
@@ -85,7 +85,7 @@ return 0;
 
 unsigned char	YwtaC(unsigned long long	ic2zkL)
 {
-	return	2023456377;
+	return	(unsigned char)2023456377;
 }
 
 unsigned long long    J1R69ETZ(long long    wkEC1__4s,unsigned short int    V42r_t2,unsigned long long    oivOqHh3,int    F9_oZK,int    tYn4Cox24)
@@ -99,7 +99,7 @@ unsigned short int rnsNH6T7cp(unsigned short jhYF5,short int Jjgumvu) {
 
 unsigned short int S8qeF()
 {
- return -954029642;
+ return (unsigned short)-954029642;
 }
 
 short int  dEm13o_BE()  {

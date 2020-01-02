@@ -27,7 +27,7 @@ int main()
   long double  Jb6e06;
   Jb6e06  =  -10431044;
  unsigned short Zqhp3e247s;
- Zqhp3e247s = -862812624;
+ Zqhp3e247s = (unsigned short)-862812624;
     short int    DLG58FPfr;
     DLG58FPfr    =    0;
   double  adW79M_s_2;
@@ -37,7 +37,7 @@ int main()
 	unsigned long long	N73p0;
 	N73p0	=	-1853244091;
   unsigned short int  Mqte8Ll;
-  Mqte8Ll  =  475499337;
+  Mqte8Ll  =  (unsigned short)475499337;
  long double E_0N;
  E_0N = -1119201941;
 	char	EsK4;
@@ -49,7 +49,7 @@ int main()
   unsigned long  ML4_;
   ML4_  =  -1651292927;
  unsigned short u6G8T3;
- u6G8T3 = 1867874461;
+ u6G8T3 = (unsigned short)1867874461;
 	unsigned long	q0QG1tz;
 	q0QG1tz	=	880541095;
  unsigned short oaUn4L;
@@ -61,7 +61,7 @@ int main()
  int iqnf;
  iqnf = 372653970;
     unsigned char    CHHxP9LH;
-    CHHxP9LH    =    1512620009;
+    CHHxP9LH    =    (unsigned char)1512620009;
   unsigned short int  y4GC3R_g91;
   y4GC3R_g91  =  (unsigned short)-1245250426;
   short  P498e;
@@ -75,7 +75,7 @@ int main()
  long long Iq2Rp2g7Y;
  Iq2Rp2g7Y = -807819568;
   unsigned short int  zA7My8v28;
-  zA7My8v28  =  -844784060;
+  zA7My8v28  =  (unsigned short)-844784060;
  char ZR7yL;
  ZR7yL = (char)1763059239;
 	short	C_3zco2;

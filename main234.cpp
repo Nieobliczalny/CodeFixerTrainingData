@@ -13,7 +13,7 @@ using namespace std;
 
 int main(void) {
  unsigned short q05A9;
- q05A9 = -348353624;
+ q05A9 = (unsigned short)-348353624;
     unsigned char    Yrm4CGXPPP;
     Yrm4CGXPPP    =    (unsigned char)-1563268847;
  short c9o1;
@@ -23,7 +23,7 @@ int main(void) {
 	unsigned char	e28z3kx;
 	e28z3kx	=	-849182191;
 	unsigned char	YuC231w;
-	YuC231w	=	1918791669;
+	YuC231w	=	(unsigned char)1918791669;
     double    x40r3o;
     x40r3o    =    -190934829;
     long long    l40G2Zshb;
@@ -43,7 +43,7 @@ int main(void) {
   unsigned int  e7cH_y_9;
   e7cH_y_9  =  -1728849358;
  short vrUP7S;
- vrUP7S = -1615038222;
+ vrUP7S = (short)-1615038222;
 	short	CDRI01v1v;
 	CDRI01v1v	=	(short)93419276;
 	unsigned long	LOt6YRyh99;
@@ -53,7 +53,7 @@ int main(void) {
 	short int	H5f76H9jw;
 	H5f76H9jw	=	-1131842241;
  unsigned short a1QsRxNi;
- a1QsRxNi = 1195442964;
+ a1QsRxNi = (unsigned short)1195442964;
 	unsigned long	k2d2e8744L;
 	k2d2e8744L	=	2057689395;
  unsigned long it856E;
@@ -73,7 +73,7 @@ int main(void) {
  long long bpc01_;
  bpc01_ = 1211417522;
   unsigned short  QOY78l;
-  QOY78l  =  -789943816;
+  QOY78l  =  (unsigned short)-789943816;
   float  ElPye6w1X6;
   ElPye6w1X6  =  -1608419313;
     unsigned short int    cgDM;
@@ -83,7 +83,7 @@ int main(void) {
 	unsigned short int	LaqHSgC68e;
 	LaqHSgC68e	=	578296466;
  unsigned short T6CLMu;
- T6CLMu = 332308123;
+ T6CLMu = (unsigned short)332308123;
   long double  DucMm4pfFB;
   DucMm4pfFB  =  295707555;
   short int  ibT6;
@@ -95,7 +95,7 @@ int main(void) {
  unsigned long long CP70PVbV;
  CP70PVbV = -1728370445;
 	unsigned char	xWFl8Bd2;
-	xWFl8Bd2	=	745235159;
+	xWFl8Bd2	=	(unsigned char)745235159;
     unsigned int    o_N3_Snc7;
     o_N3_Snc7    =    -1448529492;
 	long	B7Ux257I;
@@ -111,7 +111,7 @@ int main(void) {
     unsigned int    wfSg_6;
     wfSg_6    =    404763516;
  char XjvIN3f7;
- XjvIN3f7 = -206269111;
+ XjvIN3f7 = (char)-206269111;
     unsigned int    Dy07X_1D;
     Dy07X_1D    =    1042328184;
  long double an1x;
@@ -125,7 +125,7 @@ int main(void) {
  unsigned long long zodM;
  zodM = -2094421117;
  short int Cglg;
- Cglg = 799172602;
+ Cglg = (short)799172602;
 	long double	f77u3_1j;
 	f77u3_1j	=	-178815866;
     unsigned short int    m9hD9ogu2;
@@ -135,7 +135,7 @@ int main(void) {
  double Jo5k;
  Jo5k = 742044714;
  unsigned short T579R;
- T579R = -353206193;
+ T579R = (unsigned short)-353206193;
     short    R6iyF20yU;
     R6iyF20yU    =    -128003518;
  double Zvjbq0j1;
@@ -147,7 +147,7 @@ int main(void) {
  long long x_79_G6v;
  x_79_G6v = 1543720787;
   char  p32n;
-  p32n  =  -1129560557;
+  p32n  =  (char)-1129560557;
 	float	o8FUrn3;
 	o8FUrn3	=	1024624495;
 

@@ -26,7 +26,7 @@ int main(int argc, char** argv) {
     short int    j5sd_Q    =    0;
     unsigned int    Rq316BE576    =    0;
     unsigned long long    m2z3Yq    =    1996963078;
- char jg4e_1yt = 1009690187;
+ char jg4e_1yt = (char)1009690187;
   long double  x2CCxmtKN  =  -376670842;
   short int  fnb_J18j  =  0;
     char    aauY5TZimr    =    0;
@@ -53,7 +53,7 @@ case 4:
 p4bLx56S6a = (int)floor(x2CCxmtKN);
 break;
 case 5:
-jQqLKYaQ_ = (aauY5TZimr >= -789851826) ? S569Uwz5(939274960, -428055952) : aauY5TZimr;
+jQqLKYaQ_ = (aauY5TZimr >= -789851826) ? S569Uwz5((unsigned short)939274960, -428055952) : aauY5TZimr;
 break;
 case 6:
 x2CCxmtKN = S569Uwz5(x2CCxmtKN, 293227467);
@@ -65,7 +65,7 @@ case 8:
 fnb_J18j = (int)abs(j5sd_Q);
 break;
 default:
-ksfcPdoA6v = qY8JUFBb(2138729245, 690170355);
+ksfcPdoA6v = qY8JUFBb(2138729245, (unsigned short)690170355);
 break;
 }
 switch (j5sd_Q)
@@ -111,7 +111,7 @@ m2z3Yq = (Uw_B == -760634778) ? m2z3Yq : p4bLx56S6a;
 }
 else if (p4bLx56S6a)
 {
-aauY5TZimr = qY8JUFBb(jg4e_1yt, -1803338528);
+aauY5TZimr = qY8JUFBb(jg4e_1yt, (unsigned short)-1803338528);
 }
 else
 {
@@ -151,7 +151,7 @@ while (j >= 0)
 j--;
 if (x2CCxmtKN <= -1656902712)
 {
-p4bLx56S6a = I2E0Q(1375502984, (unsigned short)-125588054, -1269061909, 1798527166);
+p4bLx56S6a = I2E0Q((short)1375502984, (unsigned short)-125588054, -1269061909, 1798527166);
 }
 else
 {
@@ -169,7 +169,7 @@ switch (Rq316BE576)
 {
 case 'a':
 case 'A':
-p4bLx56S6a = I2E0Q(80749490, (unsigned short)-1039641187, Uw_B, 1119138033) + 2129347987;
+p4bLx56S6a = I2E0Q((short)80749490, (unsigned short)-1039641187, Uw_B, 1119138033) + 2129347987;
 break;
 case 'b':
 case 'B':
@@ -189,7 +189,7 @@ p4bLx56S6a = x2CCxmtKN * 83038981;
 break;
 case 'f':
 case 'F':
-p4bLx56S6a = qY8JUFBb(p4bLx56S6a, -1420651759) - jQqLKYaQ_;
+p4bLx56S6a = qY8JUFBb(p4bLx56S6a, (unsigned short)-1420651759) - jQqLKYaQ_;
 break;
 case 'g':
 case 'G':
@@ -240,7 +240,7 @@ try
 switch (Uw_B)
 {
 case 'a':
-Uw_B = I2E0Q(Uw_B, 1077097520, fnb_J18j, 282185891);
+Uw_B = I2E0Q(Uw_B, (unsigned short)1077097520, fnb_J18j, 282185891);
 break;
 case 'b':
 j5sd_Q = qY8JUFBb(-1166155441, (unsigned short)1427936635);

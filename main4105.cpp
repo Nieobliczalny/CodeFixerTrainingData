@@ -20,7 +20,7 @@ int main(int argc, char** argv) {
   long long  B42qBXx3  =  0;
  float U7a_znH86 = -2038878467;
   unsigned int  tHyN05537s  =  1567705963;
-  unsigned short  A4_HW_ht  =  1362102503;
+  unsigned short  A4_HW_ht  =  (unsigned short)1362102503;
     short int    UnYlw2    =    (short)-1014055464;
  unsigned long long GcaFm1U5c2 = 996045767;
   double  mKS07CR02  =  855308290;
@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
     unsigned short    MvW5eFzB    =    837137936;
 	unsigned short int	yQPGxedU5A	=	-1473902423;
   long long  lhSS844r  =  -1384719596;
-	unsigned short	a2EZM	=	-1650122088;
+	unsigned short	a2EZM	=	(unsigned short)-1650122088;
   long long  s7o_  =  0;
     int    c4Aa_Ky1    =    -14994255;
  long LbYNfe4 = -1023853566;
@@ -498,7 +498,7 @@ case 7:
 vr6FoE4 = (int)abs(lhSS844r);
 break;
 case 8:
-a2EZM = (B42qBXx3 != t7o0f) ? -801867899 : (unsigned short)484541540;
+a2EZM = (B42qBXx3 != t7o0f) ? (unsigned short)-801867899 : (unsigned short)484541540;
 break;
 case 9:
 lhSS844r++;

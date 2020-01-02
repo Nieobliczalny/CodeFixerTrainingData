@@ -165,7 +165,7 @@ break;
 }
 else
 {
-g277h0 = bdD0NQQ67(g277h0, -2008591154, UjPYTtrTk9, Bp1qLkaU0, 1911928824);
+g277h0 = bdD0NQQ67(g277h0, (unsigned char)-2008591154, UjPYTtrTk9, Bp1qLkaU0, 1911928824);
 }
 }
 while (i >= 0);
@@ -186,7 +186,7 @@ case 'a':
 LmVm_wt = ObFy(441215822);
 break;
 case 'b':
-E6Z3iTEh = bdD0NQQ67(274092968, 2118334516, (short)-22008212, qNx716, CjwbzJ2N0W) - VNWg;
+E6Z3iTEh = bdD0NQQ67(274092968, (unsigned char)2118334516, (short)-22008212, qNx716, CjwbzJ2N0W) - VNWg;
 break;
 }
 
@@ -227,7 +227,7 @@ else
 int k = 0;
 do
 {
-yPe_16U = bdD0NQQ67(yPe_16U, -1875843039, (short)-1538916127, c_13iS, UjPYTtrTk9);
+yPe_16U = bdD0NQQ67(yPe_16U, (unsigned char)-1875843039, (short)-1538916127, c_13iS, UjPYTtrTk9);
 ++k;
 }
 while (k < 6);
@@ -260,7 +260,7 @@ if (NCxu0 <= -1107322985)
 {
 for (int k = 0; k < 10; ++k)
 {
-rWJjbL = bdD0NQQ67(EnamBr, -1989612716, f4YkLyf5, (unsigned short)-1898763442, 1336184381) ^ c_13iS;
+rWJjbL = bdD0NQQ67(EnamBr, (unsigned char)-1989612716, f4YkLyf5, (unsigned short)-1898763442, 1336184381) ^ c_13iS;
 }
 }
 }
@@ -423,7 +423,7 @@ case 0:
 Pmlz5J8 = ObFy(Pmlz5J8);
 break;
 case 1:
-A_uTM = bdD0NQQ67(757484475, 1749287249, QLcz45Gd8S, W78NB9, p1blND7R);
+A_uTM = bdD0NQQ67(757484475, (unsigned char)1749287249, QLcz45Gd8S, W78NB9, p1blND7R);
 break;
 case 2:
 Np0_Iiya_ = CjwbzJ2N0W % t88NG8;
@@ -487,7 +487,7 @@ do
 --j;
 try
 {
-RTEsI = bdD0NQQ67(RTEsI, g277h0, 57013096, TR_9, 793302029);
+RTEsI = bdD0NQQ67(RTEsI, g277h0, (short)57013096, TR_9, 793302029);
 }
 catch (int& errorCode)
 {
@@ -503,7 +503,7 @@ case 0:
 F_eIGn = (int)abs(G8eJUdl_n);
 break;
 case 1:
-qNx716 = bdD0NQQ67(qNx716, -70001719, yF_AoFA88, (unsigned short)1202681341, NCxu0);
+qNx716 = bdD0NQQ67(qNx716, (unsigned char)-70001719, yF_AoFA88, (unsigned short)1202681341, NCxu0);
 break;
 case 2:
 LmVm_wt = (int)abs(gC3OTc6);
@@ -564,7 +564,7 @@ try
 {
 if (k8eNb < wB5vm_2q2)
 {
-d_h8S70 = (F_eIGn) ? bdD0NQQ67(1107375966, 2074638125, (short)439477937, -61937594, 455314466) : LEgN8;
+d_h8S70 = (F_eIGn) ? bdD0NQQ67(1107375966, (unsigned char)2074638125, (short)439477937, -61937594, 455314466) : LEgN8;
 }
 }
 catch (int& errorCode)
@@ -581,7 +581,7 @@ short    K9Jy()    {
 
 short    bdD0NQQ67(unsigned int    jSw752,unsigned char    ge_gu684T0,short int    nF3Bl,unsigned short    O6W5MQh,unsigned int    R03aAuH5)
 {
-    return    -1543661749;
+    return    (short)-1543661749;
 }
 
 unsigned short int  ObFy(long  xf9yFG5hb_)  {

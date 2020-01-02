@@ -24,7 +24,7 @@ unsigned long long  Z_jUk4f7()
 
 unsigned short int	UGwMzh()
 {
-	return	-2094919817;
+	return	(unsigned short)-2094919817;
 }
 
 int main(void)
@@ -37,7 +37,7 @@ int main(void)
 	double	RFf74E_	=	2128970521;
  unsigned int PnesAC_N = 0;
 	double	A8FuA1V4c	=	-106591413;
-    short int    j1EOSJwMp    =    -1171697717;
+    short int    j1EOSJwMp    =    (short)-1171697717;
  unsigned int BLvMiN = -1418976144;
   unsigned short  zDb5lP00  =  0;
 
@@ -227,7 +227,7 @@ case 0:
 sV6Io09 = (int)abs(RFf74E_);
 break;
 case 1:
-j1EOSJwMp = (BLvMiN) ? 425132727 : k40nj(A8FuA1V4c);
+j1EOSJwMp = (BLvMiN) ? (short)425132727 : k40nj(A8FuA1V4c);
 break;
 default:
 j1EOSJwMp = Z_jUk4f7();

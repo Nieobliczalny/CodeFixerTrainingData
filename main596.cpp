@@ -424,6 +424,6 @@ unsigned char  kz8F5()  {
 }
 
 char	PrpfXQ31()	{
-	return	-460559905;
+	return	(char)-460559905;
 }
 

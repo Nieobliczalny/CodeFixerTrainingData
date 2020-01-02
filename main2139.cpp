@@ -20,7 +20,7 @@ long  f0wm1lOA3(long long  jU6_bk164,unsigned long  PPjHX4B4D5,short  w24bt3)
 
 short int Ik2_3(short int Bnyoe5cr,unsigned char c927T6A,long long xuYep8,long Ff_6sl,int Vme23)
 {
- return 1929638497;
+ return (short)1929638497;
 }
 
 char U31a8(unsigned short CUQjyLh) {
@@ -49,7 +49,7 @@ for (int j = 0; j < 10; ++j)
 {
 if (h0clOc0t <= 730567349)
 {
-AEw0 = U31a8(-361829660);
+AEw0 = U31a8((unsigned short)-361829660);
 }
 else
 {
@@ -98,7 +98,7 @@ for (int i = 0; i < 4; i++)
 std::cout << "U7AQRR_vN" << EFCH_Jq << "yU33fI6Jv" << "Tr_uIiCa" << std::endl;
 }
 
-zrcH_O3v4Q = OYdr_5h(zrcH_O3v4Q, lyKbe, 1811382099, (short)-2127279192);
+zrcH_O3v4Q = OYdr_5h(zrcH_O3v4Q, lyKbe, (unsigned short)1811382099, (short)-2127279192);
 
 rmx8AcxF = Ik2_3(rmx8AcxF, 929999463, -1260695808, KKy2, -632045222);
 

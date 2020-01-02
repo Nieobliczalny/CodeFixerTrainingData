@@ -184,7 +184,7 @@ Hb_Ww8Q *= 738379999;
 break;
 case 'h':
 case 'H':
-ZV72hS_yC8 = (Wqc5RBN == ZV72hS_yC8) ? -53826647 : Abj__1b7;
+ZV72hS_yC8 = (Wqc5RBN == ZV72hS_yC8) ? (short)-53826647 : Abj__1b7;
 break;
 case 'i':
 case 'I':
@@ -195,7 +195,7 @@ eOZ2b_V %= x4VkF;
 break;
 }
 }
-r1WVJk_8 = (y3kBS >= -617802259) ? 1530582927 : NelhQ;
+r1WVJk_8 = (y3kBS >= -617802259) ? (short)1530582927 : NelhQ;
 Nz1f = waBbA45C_ << Wqc5RBN;
 
 try

@@ -9,7 +9,7 @@
 using namespace std;
 
 unsigned char    hYaU6(short int    m8Y01w,long long    lO31sL,long long    m8ffzi9,unsigned short    uP3h,char    XwX_1)    {
-    return    799547462;
+    return    (unsigned char)799547462;
 }
 
 short	RvE5WD_c()
@@ -94,7 +94,7 @@ int main(int argc, char** argv)
  ys3GO4M = 1797505035;
  Rstc = 1227544195;
 
-iH__kkyXz = hYaU6(iH__kkyXz, -589185487, UFCG9aA64, SDd8_l59, -1567083251);
+iH__kkyXz = hYaU6(iH__kkyXz, -589185487, UFCG9aA64, SDd8_l59, (char)-1567083251);
 O9ztJ = RvE5WD_c();
 
 {
@@ -106,7 +106,7 @@ i--;
 }
 }
 
-R140KN = hYaU6(781814863, UFCG9aA64, -1866974245, fQIYUH6h, (char)1900376258);
+R140KN = hYaU6((short)781814863, UFCG9aA64, -1866974245, fQIYUH6h, (char)1900376258);
 
 if (c7CN7x7CIW < 2008123664)
 {
@@ -126,7 +126,7 @@ while (j >= 0);
 }
 for (int i = 0; i < 3; ++i)
 {
-std::cout << "qA5S" << nL68ub8602 << RvE5WD_c() << "G49_V" << nRJ9uNF8(233564422, 987013346, SDd8_l59) << std::endl;
+std::cout << "qA5S" << nL68ub8602 << RvE5WD_c() << "G49_V" << nRJ9uNF8(233564422, (char)987013346, SDd8_l59) << std::endl;
 }
 {
 int i = 4;
@@ -170,7 +170,7 @@ chIC39D1Bx = x3g9LW7 >> Vqni23K2u;
 }
 else if ((IsnE == -654360166) && (B94Y_eU9_))
 {
-XHD1 = nRJ9uNF8(IsnE, F2Iq, -1153631932);
+XHD1 = nRJ9uNF8(IsnE, F2Iq, (unsigned short)-1153631932);
 }
 else if ((SDd8_l59 >= 1679395252) && ((ys3GO4M == 649657977) && (pKMJqidnm & -954680274)))
 {
@@ -183,7 +183,7 @@ a5IK = nRJ9uNF8(a5IK, lYEANNR, -444512662);
 }
 }
 
-if ((hYaU6(-2139111608, lYEANNR, Eso3aR3, BvJ0XGD, req7H8d_) / a5IK) <= -510519626)
+if ((hYaU6((short)-2139111608, lYEANNR, Eso3aR3, BvJ0XGD, req7H8d_) / a5IK) <= -510519626)
 {
 ccQ45G_ = RvE5WD_c();
 }

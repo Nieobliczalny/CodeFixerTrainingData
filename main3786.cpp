@@ -14,7 +14,7 @@ using namespace std;
 
 int main(int argc, char** argv)
 {
-	unsigned short	vGto5ymQ11	=	2109778620;
+	unsigned short	vGto5ymQ11	=	(unsigned short)2109778620;
 	double	rfwYl5XIW	=	1765383404;
  unsigned long Zd2I5vD17O = 691500515;
     short    H6CIiSa    =    (short)-2073707502;
@@ -24,7 +24,7 @@ int main(int argc, char** argv)
   float  gp6N_4RMx  =  1812929638;
   long long  BXh7631c  =  825546659;
   unsigned long  C5_q8Il  =  -1602689840;
- unsigned char gJX7 = -291700902;
+ unsigned char gJX7 = (unsigned char)-291700902;
     unsigned long long    HHpeM8    =    457121528;
     long long    uKH6AV    =    -970813034;
   short  BLDycy9Bi  =  (short)-175069494;
@@ -36,7 +36,7 @@ int main(int argc, char** argv)
   long long  JzrJfS  =  323679913;
  unsigned long QO_2PxaY = -513238483;
   long  yrQUW4  =  -450967347;
- short E9VL8Vt9 = -733712845;
+ short E9VL8Vt9 = (short)-733712845;
 	short	WEkJs9	=	(short)-1841915126;
     float    YgVZ    =    -1095673315;
  unsigned short za8TV = 0;
@@ -47,7 +47,7 @@ int main(int argc, char** argv)
 	int	d_GNP	=	1030015995;
   short int  t396b6q  =  -864166644;
 	long long	FN39FeK4E	=	-262590215;
-    unsigned short    Tw61Ug    =    1752304231;
+    unsigned short    Tw61Ug    =    (unsigned short)1752304231;
 	int	CHVE	=	-276060450;
  float mCd7t_ = 2022413596;
  unsigned short Eq7i2_x37 = (unsigned short)1787087029;
@@ -57,7 +57,7 @@ int main(int argc, char** argv)
     unsigned short int    aOkO8    =    1027896638;
   int  JGUoqI  =  295956507;
 	double	yd39	=	1028201026;
-    short int    fYAc4Te5Rx    =    -1653915880;
+    short int    fYAc4Te5Rx    =    (short)-1653915880;
     long long    E0s6    =    -551700863;
 	float	Ypsm6O	=	1011327325;
   long  F0JU9L47gm  =  2096346300;

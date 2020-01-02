@@ -14,7 +14,7 @@ unsigned short int Eky5UYq24(long uPpdqB73,long long pu6X83Es,long Gk8_wBeGR,uns
 
 int main() {
  unsigned short int zvtF5ps4, f2xvY0AC, n6pjo3Y, RiS7l0II, mlem1, hh_03, cN8Bw2, xiA90A, svOX7, Hz7rTTaw, efq5_4n, pe_Q, T3Mo4_;
-  zvtF5ps4 = f2xvY0AC = n6pjo3Y = RiS7l0II = mlem1 = hh_03 = cN8Bw2 = xiA90A = svOX7 = Hz7rTTaw = efq5_4n = pe_Q = T3Mo4_ = -1904482647;
+  zvtF5ps4 = f2xvY0AC = n6pjo3Y = RiS7l0II = mlem1 = hh_03 = cN8Bw2 = xiA90A = svOX7 = Hz7rTTaw = efq5_4n = pe_Q = T3Mo4_ = (unsigned short)-1904482647;
 	unsigned short int	b5cZvJ0g;
 		b5cZvJ0g	=	0;
 
@@ -46,7 +46,7 @@ cN8Bw2 >>= 240929926;
 switch (hh_03)
 {
 case 0:
-b5cZvJ0g = Eky5UYq24(13755391, RiS7l0II, -580796473, 154444059, -205977458);
+b5cZvJ0g = Eky5UYq24(13755391, RiS7l0II, -580796473, (unsigned short)154444059, -205977458);
 break;
 case 1:
 f2xvY0AC++;
@@ -85,7 +85,7 @@ do
 int j = 0;
 do
 {
-cout << Eky5UYq24(zvtF5ps4, RiS7l0II, 782774593, -5731811, T3Mo4_) << zvtF5ps4 << Eky5UYq24(zvtF5ps4, RiS7l0II, 1761380494, (unsigned short)2018876802, 25643473) << Eky5UYq24(zvtF5ps4, 97712283, xiA90A, mlem1, -655947340) << Eky5UYq24(-891603776, RiS7l0II, xiA90A, mlem1, -849582089) << endl;
+cout << Eky5UYq24(zvtF5ps4, RiS7l0II, 782774593, (unsigned short)-5731811, T3Mo4_) << zvtF5ps4 << Eky5UYq24(zvtF5ps4, RiS7l0II, 1761380494, (unsigned short)2018876802, 25643473) << Eky5UYq24(zvtF5ps4, 97712283, xiA90A, mlem1, -655947340) << Eky5UYq24(-891603776, RiS7l0II, xiA90A, mlem1, -849582089) << endl;
 j++;
 }
 while (j < 4);

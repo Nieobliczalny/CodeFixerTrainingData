@@ -82,7 +82,7 @@ int j = 9;
 while (j >= 0)
 {
 j--;
-FeNiKmeX2v = nLRf7591m(-451172670, 698792982, 60027113);
+FeNiKmeX2v = nLRf7591m(-451172670, (char)698792982, 60027113);
 }
 }
 }
@@ -211,7 +211,7 @@ if ((O82G <= Rtl1_) && (Bd7G20646))
 {
 if (bg0ZvSF & 436568317)
 {
-bg0ZvSF = nLRf7591m(-1529340583, 1200195450, dw13l6KBWv);
+bg0ZvSF = nLRf7591m(-1529340583, (char)1200195450, dw13l6KBWv);
 }
 else if ((OYf56RM) && ((U7D4) || (uCWloH0rH3 >= S26J)))
 {
@@ -236,7 +236,7 @@ else
 {
 if (yIu5tNu4 & Bd7G20646)
 {
-Bd7G20646 = nLRf7591m(Y5rg4, -1953291217, 841308729);
+Bd7G20646 = nLRf7591m(Y5rg4, (char)-1953291217, 841308729);
 }
 else
 {
@@ -319,7 +319,7 @@ while (j >= 0);
 }
 if (bg0ZvSF == 0)
 {
-	wj_WxR_Tx = nLRf7591m(-717642099, -1912627737, 1277460627) / bg0ZvSF;
+	wj_WxR_Tx = nLRf7591m(-717642099, (char)-1912627737, 1277460627) / bg0ZvSF;
 }
 std::cout << nLRf7591m(up3w, ZQhTc_H86, uIa58m88) << "Zi2WvUWxoD" << std::endl;
 switch (yIu5tNu4)
@@ -331,7 +331,7 @@ case 1:
 Bd7G20646 = nLRf7591m(N4Zl_t1dk, (char)-146685547, -1796238719);
 break;
 case 2:
-wj_WxR_Tx = nLRf7591m(N4Zl_t1dk, 1342746802, Bd7G20646) | 841196817;
+wj_WxR_Tx = nLRf7591m(N4Zl_t1dk, (char)1342746802, Bd7G20646) | 841196817;
 break;
 case 3:
 SJq9 = (int)floor(c_4U2CY9y7);
@@ -346,7 +346,7 @@ case 6:
 Dj0_m8 = f5_Z_2g2 - 2104175447;
 break;
 case 7:
-yIu5tNu4 = nLRf7591m(r5zNE8, 2004122244, -2044992354);
+yIu5tNu4 = nLRf7591m(r5zNE8, (char)2004122244, -2044992354);
 break;
 case 8:
 yIu5tNu4 = nLRf7591m(a21Y64wDP, (char)-110777371, -373713822);
@@ -366,7 +366,7 @@ bD_5YwZ = FeNiKmeX2v | 48043147;
 }
 else
 {
-bg0ZvSF = nLRf7591m(m3Xk, 1858662752, 1678412985);
+bg0ZvSF = nLRf7591m(m3Xk, (char)1858662752, 1678412985);
 }
 }
 i++;
@@ -378,7 +378,7 @@ while (i < 7);
 int i = 7;
 do
 {
-std::cout << nLRf7591m(m3Xk, 1943526477, K95sUBpyYs) << gE_ba << "jwr5RZ0T0" << Qhv6 << nLRf7591m(m3Xk, (char)787579587, -1788691937) << std::endl;
+std::cout << nLRf7591m(m3Xk, (char)1943526477, K95sUBpyYs) << gE_ba << "jwr5RZ0T0" << Qhv6 << nLRf7591m(m3Xk, (char)787579587, -1788691937) << std::endl;
 --i;
 }
 while (i >= 0);
@@ -420,7 +420,7 @@ switch (FeNiKmeX2v)
 {
 case 'a':
 case 'A':
-FeNiKmeX2v = nLRf7591m(hjyj, 1530706315, rVdVw0EpK);
+FeNiKmeX2v = nLRf7591m(hjyj, (char)1530706315, rVdVw0EpK);
 break;
 case 'b':
 case 'B':
@@ -480,7 +480,7 @@ catch (int& errorCode)
 {
 yIu5tNu4 = nLRf7591m(-521594484, YQZ9, -2084331284);
 }
-BdaCOLn7B = nLRf7591m(-1677740351, 186898489, 1621390900) / WI6w8Jj6k;
+BdaCOLn7B = nLRf7591m(-1677740351, (char)186898489, 1621390900) / WI6w8Jj6k;
 c_4U2CY9y7 = (long double)(w6taK5);
 p5T28S8 = (long double)(eWGsJme2);
 t_3L = cix92hW / 992254736;

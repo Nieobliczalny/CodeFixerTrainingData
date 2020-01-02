@@ -14,7 +14,7 @@ int main()
   unsigned short int  mYllyc4b;
   mYllyc4b  =  0;
 	unsigned short	VjuN,	PiaN,	Rxd8_,	eEJlhV_,	YloOfs,	FCS1xK83T5,	t_a5CoPWI,	ITMA1,	XDZ363,	fA3L7m93,	Nlc8_UqT,	m027u7p,	PRnjoPw6,	SBxV,	HuTA4o,	gxS9OVQ08G;
-	VjuN	=	221108400;
+	VjuN	=	(unsigned short)221108400;
 	PiaN	=	(unsigned short)-441081826;
 	Rxd8_	=	-814799008;
 	eEJlhV_	=	812779169;
@@ -24,7 +24,7 @@ int main()
 	ITMA1	=	-147602130;
 	XDZ363	=	1665167253;
 	fA3L7m93	=	1347201071;
-	Nlc8_UqT	=	-1049198076;
+	Nlc8_UqT	=	(unsigned short)-1049198076;
 	m027u7p	=	(unsigned short)483876853;
 	PRnjoPw6	=	2112716642;
 	SBxV	=	2112391214;
@@ -173,7 +173,7 @@ gxS9OVQ08G = (unsigned short)(pl_xF + (1086091993));
 
 if (mYllyc4b >= SBxV)
 {
-gxS9OVQ08G = (SBxV == pl_xF) ? 261828509 : pl_xF;
+gxS9OVQ08G = (SBxV == pl_xF) ? (unsigned short)261828509 : pl_xF;
 }
 
 if (eEJlhV_ >= 1742851867)

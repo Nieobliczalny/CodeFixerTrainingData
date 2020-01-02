@@ -57,7 +57,7 @@ while (j >= 0)
 {
 for (int k = 0; k < 9; ++k)
 {
-lLCj = O234P7z4(1913513314);
+lLCj = O234P7z4((unsigned short)1913513314);
 }
 j--;
 }
@@ -94,7 +94,7 @@ bGDtR = (int)ceil(fKvV30Zh5);
 }
 else if ((fKvV30Zh5 <= oQi2) || ((VE0tA >= RF92WmZv5J) && (UyTR6IyR7O & oQi2)))
 {
-lc02 = O234P7z4(-360752546);
+lc02 = O234P7z4((unsigned short)-360752546);
 }
 else
 {
@@ -158,7 +158,7 @@ XRs_S2EE = (int)ceil(DJ4U87);
 }
 }
 
-std::cout << TO2VDN0 << O234P7z4(-518443255) << std::endl;
+std::cout << TO2VDN0 << O234P7z4((unsigned short)-518443255) << std::endl;
 
 if ((Vt2Na_3JN0 & UyTR6IyR7O) || (o17Ya0H != RF92WmZv5J))
 {
@@ -202,7 +202,7 @@ std::cout << "ijhUGSx_9F" << std::endl;
 switch (UyTR6IyR7O)
 {
 case 0:
-R4gAvTw2_ = O234P7z4(326700473);
+R4gAvTw2_ = O234P7z4((unsigned short)326700473);
 break;
 case 1:
 VE0tA = (int)abs(pFC73u94);
@@ -223,7 +223,7 @@ case 6:
 obeTZGF = W8jP_(lmG_, 1035212374);
 break;
 case 7:
-obeTZGF = W8jP_(-1534055175, -1026625744);
+obeTZGF = W8jP_((char)-1534055175, -1026625744);
 break;
 case 8:
 kYZh2Zy -= fKvV30Zh5;
@@ -241,7 +241,7 @@ case 2:
 lc02 = JU8jJ / MT89_42;
 break;
 case 3:
-Vt2Na_3JN0 = W8jP_(637238883, qf2_4663);
+Vt2Na_3JN0 = W8jP_((char)637238883, qf2_4663);
 break;
 case 4:
 kYZh2Zy = Vu_BtLlH - 1687557787;
@@ -253,7 +253,7 @@ case 6:
 M81Y3kI = bGDtR * 1286140675;
 break;
 case 7:
-UyTR6IyR7O = W8jP_(1228151789, lmG_);
+UyTR6IyR7O = W8jP_((char)1228151789, lmG_);
 break;
 case 8:
 fKvV30Zh5 = O234P7z4(fKvV30Zh5);
@@ -316,7 +316,7 @@ case 7:
 olL70Pdz /= MT89_42;
 break;
 case 8:
-YTAK1 = O234P7z4(1789323632);
+YTAK1 = O234P7z4((unsigned short)1789323632);
 break;
 default:
 p2LE = uKO8gQS4 * Sn9lE0;
@@ -355,7 +355,7 @@ while (j >= 0)
 {
 for (int k = 7; k >= 0; k--)
 {
-obeTZGF = W8jP_(-722711316, -1531735880);
+obeTZGF = W8jP_((char)-722711316, -1531735880);
 }
 j--;
 }
@@ -367,7 +367,7 @@ if (((N8w5LT >= -1856586245) && (lLCj)) && ((q_Abh_qBE > -775710734) || (nEAC_ <
 {
 for (int k = 10; k >= 0; --k)
 {
-UyTR6IyR7O = W8jP_(-1944188016, -1417066596);
+UyTR6IyR7O = W8jP_((char)-1944188016, -1417066596);
 }
 }
 }
@@ -387,7 +387,7 @@ int i = 1;
 while (i >= 0)
 {
 i--;
-std::cout << W8jP_(1206194941, -1406145573) << obeTZGF << "o65wpmo7" << "Sr0xm" << std::endl;
+std::cout << W8jP_((char)1206194941, -1406145573) << obeTZGF << "o65wpmo7" << "Sr0xm" << std::endl;
 }
 }
 

@@ -19,7 +19,7 @@ long    dmwb0HJE(unsigned char    DqUUm,long    Un2Gr_YMy,long long    YU0G7PG,l
 }
 
 unsigned char    mQx7Bg7(int    OMVD,unsigned short int    V7C1,unsigned int    db358)    {
-    return    1026723665;
+    return    (unsigned char)1026723665;
 }
 
 unsigned long long    wQPls(int    qDh2CmU7,long    DBks,unsigned char    aBlK072,char    pi06KdZB)
@@ -29,7 +29,7 @@ unsigned long long    wQPls(int    qDh2CmU7,long    DBks,unsigned char    aBlK07
 
 unsigned short int ucu6rL()
 {
- return 1325813868;
+ return (unsigned short)1325813868;
 }
 
 int main(int argc, char** argv) {
@@ -45,7 +45,7 @@ int i = 6;
 while (i >= 0)
 {
 --i;
-vd2BUPe = wQPls(vd2BUPe, -1690353848, 1129339260, m_NL);
+vd2BUPe = wQPls(vd2BUPe, -1690353848, (unsigned char)1129339260, m_NL);
 }
 }
 {
@@ -79,7 +79,7 @@ UZa_ = iY___ - X9m_;
 }
 else if (qRTCvK1YOd == ht1g4_KBC)
 {
-m_NL = mQx7Bg7(m_NL, 544327945, -1509840901);
+m_NL = mQx7Bg7(m_NL, (unsigned short)544327945, -1509840901);
 }
 else
 {
@@ -100,7 +100,7 @@ case 0:
 AENddb9C = mQx7Bg7(AENddb9C, uH79V7d1wf, Ov6o2);
 break;
 case 1:
-sJv603P = wQPls(sJv603P, iY___, -1585782171, xuIvMKXB);
+sJv603P = wQPls(sJv603P, iY___, (unsigned char)-1585782171, xuIvMKXB);
 break;
 case 2:
 nT6VW9Vm = M_RFlFVUu & q9q5;
@@ -131,7 +131,7 @@ J10b5G3DH6 = N5Y_t << 689599189;
 }
 if ((-1792230340 / yI5fs) > -658962068)
 {
-cout << AENddb9C << dmwb0HJE(1229649552, -745402777, -2072455028, 730467477) << "cUk2rOwM6" << "ai3_0" << endl;
+cout << AENddb9C << dmwb0HJE((unsigned char)1229649552, -745402777, -2072455028, 730467477) << "cUk2rOwM6" << "ai3_0" << endl;
 }
 x90l = znonh0z * 844330816;
 
@@ -163,7 +163,7 @@ else if (ht1g4_KBC & C67Dn6)
 int k = 0;
 do
 {
-hYgeeAxzG = wQPls(-1847816622, -359166730, 1216942576, UV8ZY3w6WP);
+hYgeeAxzG = wQPls(-1847816622, -359166730, (unsigned char)1216942576, UV8ZY3w6WP);
 k++;
 }
 while (k < 7);
@@ -174,7 +174,7 @@ else if (ovfk5u3zm > rPdAj)
 switch (XsIaK)
 {
 case 0:
-yI5fs = dmwb0HJE(-432974670, -1173182361, 755414284, -645994889);
+yI5fs = dmwb0HJE((unsigned char)-432974670, -1173182361, 755414284, -645994889);
 break;
 case 1:
 OJMA_jW = P42w % HaFuo54;
@@ -192,7 +192,7 @@ case 5:
 sJv603P += 1163093956;
 break;
 case 6:
-UV8ZY3w6WP = wQPls(UV8ZY3w6WP, 820026628, 2003187280, uDn23ntMv);
+UV8ZY3w6WP = wQPls(UV8ZY3w6WP, 820026628, (unsigned char)2003187280, uDn23ntMv);
 break;
 case 7:
 xk1OUiScN = wQPls(UV8ZY3w6WP, Uh7NR, (unsigned char)141921264, uDn23ntMv) % znonh0z;
@@ -270,7 +270,7 @@ q9q5 = bPVA << RqZE;
 }
 for (int i = 6; i >= 0; i--)
 {
-cout << wQPls(av6DTU, 921048659, -1991141025, (char)-50695216) << wQPls(av6DTU, G0FSe, nT6VW9Vm, 1035392972) << endl;
+cout << wQPls(av6DTU, 921048659, (unsigned char)-1991141025, (char)-50695216) << wQPls(av6DTU, G0FSe, nT6VW9Vm, 1035392972) << endl;
 }
 
 {
@@ -293,7 +293,7 @@ else if (Y_604D57s0 & 1875696473)
 {
 try
 {
-yI5fs = dmwb0HJE(999721514, 617181764, 1844727426, XsIaK);
+yI5fs = dmwb0HJE((unsigned char)999721514, 617181764, 1844727426, XsIaK);
 }
 catch (int& errorCode)
 {
@@ -315,7 +315,7 @@ int k = 0;
 do
 {
 ++k;
-vd2BUPe = wQPls(vd2BUPe, iY___, -148708066, (char)644862471);
+vd2BUPe = wQPls(vd2BUPe, iY___, (unsigned char)-148708066, (char)644862471);
 }
 while (k < 6);
 }

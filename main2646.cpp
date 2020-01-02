@@ -15,7 +15,7 @@ using std::floor;
 int main()
 {
     long    EoGJ30o    =    -1282204755;
-  char  oi5eDx5Z2D  =  2037027924;
+  char  oi5eDx5Z2D  =  (char)2037027924;
 	unsigned int	g0504Z0K2L	=	1521145026;
     float    j_z0qFcb1j    =    313068529;
   unsigned long  jf6I5Rm  =  1933594146;
@@ -27,7 +27,7 @@ int main()
 	unsigned char	RLoMC	=	-596647491;
  unsigned long MIf_1K8Ga8 = 1166974392;
 	unsigned long long	HPYcYp	=	410948391;
-    unsigned char    LT5U    =    -1602783608;
+    unsigned char    LT5U    =    (unsigned char)-1602783608;
   unsigned int  B3xX2M3H5  =  957418724;
 	unsigned long	hZ8Rh_l3lj	=	0;
     unsigned char    UcFQ08e_    =    -890204473;
@@ -37,7 +37,7 @@ int main()
   unsigned char  FJtKkqnU4_  =  (unsigned char)-955512673;
  unsigned long long CyHz_Ucv = -902644350;
  long o49Id7lJ = -1663674011;
- unsigned short qtESG6GHJ = -1703221619;
+ unsigned short qtESG6GHJ = (unsigned short)-1703221619;
   long  eCCa93  =  -617477658;
 	unsigned int	ACr4Yx7JS	=	-1025283031;
   unsigned short int  ZYe2  =  -1076704157;
@@ -47,7 +47,7 @@ int main()
  char mQAbp_4 = (char)-1017741002;
   unsigned long long  e3y80l6m  =  -1131758133;
 	long double	zt73bvg6	=	1341372840;
-    short int    Y4EwBAPuC    =    -1411948122;
+    short int    Y4EwBAPuC    =    (short)-1411948122;
  unsigned char n84YFAjV1 = 1768426529;
  unsigned int Oz3_ = -1337899797;
   long double  aEuo1__T  =  263365463;
@@ -58,7 +58,7 @@ int main()
   unsigned char  a_35FE9x  =  (unsigned char)1673618536;
  double G9yHTRx_jm = -1128791697;
  unsigned long eL8wY_ = -2048923848;
-    char    S3xzc13nj1    =    1393779122;
+    char    S3xzc13nj1    =    (char)1393779122;
   unsigned short int  DS7x  =  1587703;
     short int    vAWY1j    =    -1652979501;
     short    zKPY_V_    =    962529785;
@@ -87,7 +87,7 @@ i--;
 }
 FJtKkqnU4_ = gXP4D6 / hZ8Rh_l3lj;
 
-DS7x = (gXP4D6 != 186266237) ? -2112096551 : jf6I5Rm;
+DS7x = (gXP4D6 != 186266237) ? (unsigned short)-2112096551 : jf6I5Rm;
 a_35FE9x = (unsigned char)(n84YFAjV1);
 eCCa93 = (long)(l80h);
 cout << EY5f << r3ZLzmmv << endl;

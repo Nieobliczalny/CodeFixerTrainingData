@@ -24,7 +24,7 @@ ghwcrV = (short)(pqhavC93pP);
 
 if ((B6Vf < N0hbP) || (IrJ_mi != -1661789576))
 {
-GDrk2OK5PZ = wL8HS2pr(-107599923, s47_gLOiS9, (unsigned short)941836171);
+GDrk2OK5PZ = wL8HS2pr((char)-107599923, s47_gLOiS9, (unsigned short)941836171);
 }
 std::cout << Eqla() << aik1N07b << Eqla() << std::endl;
 j_Mh = Eqla();
@@ -63,7 +63,7 @@ break;
 }
 }
 
-P3_P66C = wL8HS2pr(1450548781, (char)231626835, ekN_BRt7O);
+P3_P66C = wL8HS2pr((char)1450548781, (char)231626835, ekN_BRt7O);
 
 YcuAWe0J = 387074853 / j_Mh;
 
@@ -83,7 +83,7 @@ case 2:
 HaJ84_EsrT = (int)abs(Th9J) + (2062144215);
 break;
 case 3:
-LDm4m = wL8HS2pr(839514873, (char)-1818100451, -674569216);
+LDm4m = wL8HS2pr((char)839514873, (char)-1818100451, -674569216);
 break;
 case 4:
 RO5OyCyg5J = Eqla();
@@ -149,7 +149,7 @@ return 0;
 }
 
 char    wL8HS2pr(char    NkVMRp,char    iW7_0w7a,unsigned short int    r22HbrX)    {
-    return    -2063119337;
+    return    (char)-2063119337;
 }
 
 unsigned long  Eqla()

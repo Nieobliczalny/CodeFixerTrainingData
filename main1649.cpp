@@ -50,7 +50,7 @@ x2L1592I += zBdB_;
 }
 else
 {
-pVjm6G0c = roW4xwjjq(400678809, Z5m527D3, zBdB_);
+pVjm6G0c = roW4xwjjq((unsigned short)400678809, Z5m527D3, zBdB_);
 }
 switch (Bts4Lf)
 {
@@ -121,7 +121,7 @@ return 0;
 
 short	roW4xwjjq(unsigned short	P79eoqA24,unsigned short int	z_5y4,unsigned long	kq0V72)
 {
-	return	-721714262;
+	return	(short)-721714262;
 }
 
 unsigned char    w1bmF(long long    C_N06SJ9,unsigned short    OxbjQk9EBJ,short int    i02GN9,unsigned long long    kmK3gu0O,long    tV74c6r4)

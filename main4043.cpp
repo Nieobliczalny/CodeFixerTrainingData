@@ -32,7 +32,7 @@ while (j < 9)
 int k = 10;
 while (k >= 0)
 {
-vQYW8_V0 = BYo1339O3w(ECRqZtm, MWBnSg6, -928175161, -2034722540);
+vQYW8_V0 = BYo1339O3w(ECRqZtm, MWBnSg6, (unsigned char)-928175161, -2034722540);
 k--;
 }
 }
@@ -52,6 +52,6 @@ long  BYo1339O3w(long long  S3Wq,unsigned long long  vr9750TnNv,unsigned char  X
 }
 
 short int    ByT7(unsigned long    xBJ70)    {
-    return    -1038074198;
+    return    (short)-1038074198;
 }
 

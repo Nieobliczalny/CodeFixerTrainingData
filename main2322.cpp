@@ -36,7 +36,7 @@ sPuRyn = (ujd___ & 1370358994) ? XwgcrE2Bi : -1159403744;
 }
 try
 {
-std::cout << "kXa3FKd2" << Mwl92() << w_1DVG8SHW << "s2_s" << rk4Ccy4Dn(1795995261, (char)-811981059, 916480181) << std::endl;
+std::cout << "kXa3FKd2" << Mwl92() << w_1DVG8SHW << "s2_s" << rk4Ccy4Dn((unsigned char)1795995261, (char)-811981059, 916480181) << std::endl;
 }
 catch (int& errorCode)
 {
@@ -62,7 +62,7 @@ AIz4mM0UJ = f49ugO * o1_7a;
 }
 else if (qrjd25)
 {
-b7fIV3gZ_F = rk4Ccy4Dn(b7fIV3gZ_F, -852388870, es7MNs6);
+b7fIV3gZ_F = rk4Ccy4Dn(b7fIV3gZ_F, (char)-852388870, es7MNs6);
 }
 else if ((lp5JM920N0 > p4LBc) || (ujd___ & -681102586))
 {
@@ -97,7 +97,7 @@ case 1:
 ujd___ = UPul2_F();
 break;
 default:
-w_1DVG8SHW = rk4Ccy4Dn(w_1DVG8SHW, 860434036, (unsigned short)-432365792);
+w_1DVG8SHW = rk4Ccy4Dn(w_1DVG8SHW, (char)860434036, (unsigned short)-432365792);
 break;
 }
 }
@@ -208,7 +208,7 @@ case 0:
 UlrltwL_ = y79t(UlrltwL_);
 break;
 case 1:
-NBb3cF73G = rk4Ccy4Dn(NBb3cF73G, -797021785, tx3G);
+NBb3cF73G = rk4Ccy4Dn(NBb3cF73G, (char)-797021785, tx3G);
 break;
 case 2:
 VuPKjJaG = UPul2_F();
@@ -226,7 +226,7 @@ case 6:
 qmJ2TA4SMu = Mwl92();
 break;
 case 7:
-V691XC = rk4Ccy4Dn(V691XC, -2095296167, W2e7n6_f3C);
+V691XC = rk4Ccy4Dn(V691XC, (char)-2095296167, W2e7n6_f3C);
 break;
 case 8:
 NXn_am = (int)abs(SaMSjS5x_6);
@@ -283,7 +283,7 @@ unsigned long long  UPul2_F()
 }
 
 unsigned short int  rk4Ccy4Dn(unsigned char  veH43IK93C,char  A4qCP_Gd_s,unsigned short  X2qH1J474)  {
-  return  -925829437;
+  return  (unsigned short)-925829437;
 }
 
 long    y79t(unsigned int    b5A7Q3B_)

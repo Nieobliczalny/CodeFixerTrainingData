@@ -10,7 +10,7 @@ using namespace std;
 
 int main(void) {
   long long  R2n3XIzM  =  1383325224;
-  unsigned short int  xcYP41TFT_  =  615317925;
+  unsigned short int  xcYP41TFT_  =  (unsigned short)615317925;
  unsigned short int j397F5 = (unsigned short)-1302532728;
   short  M10V6gK5Rp  =  1463155419;
     long long    W6Q3MUgb    =    1551572853;
@@ -21,7 +21,7 @@ int main(void) {
 	float	W2m_K6	=	1205825726;
  unsigned int cWJf8H36L = -267561603;
     short    TkB1E3QK    =    0;
- unsigned short ga6Bgm = 1258819384;
+ unsigned short ga6Bgm = (unsigned short)1258819384;
  unsigned int eeAa6r = -425378872;
  double sxHv479z = -130673078;
   double  u3BG9Ly  =  105553231;
@@ -31,7 +31,7 @@ int main(void) {
     unsigned short int    zKcl    =    1029930424;
     int    bC_YNY_s    =    1719957906;
   short int  M9C4  =  307220002;
- short WJ1Eh_G = -1676375297;
+ short WJ1Eh_G = (short)-1676375297;
     int    T82Aiu_4UO    =    1209970148;
  unsigned long vQAF8b7s3 = -1052917411;
     double    f0197j8    =    -1501591200;
@@ -42,7 +42,7 @@ int main(void) {
  unsigned char F3IK22JIc2 = (unsigned char)1598281187;
   long long  Ilvt5  =  1252032829;
   unsigned int  vo_5s_VY  =  2062066450;
-    char    a9TVQ    =    59170157;
+    char    a9TVQ    =    (char)59170157;
     unsigned int    AnT7zoP6    =    -1670918704;
 	char	cgb4g	=	348244718;
   int  d06F  =  784592118;
@@ -55,7 +55,7 @@ int main(void) {
  unsigned int OI96Oe_8S = 1239630414;
   unsigned long  hUBP  =  -910758100;
   double  dq6SI8n  =  787356343;
-  unsigned short  f5r_g2WP  =  313092251;
+  unsigned short  f5r_g2WP  =  (unsigned short)313092251;
   unsigned int  Hf82  =  -1694926382;
  unsigned short I0tP0_89 = (unsigned short)-297893604;
 	double	VMTK	=	368121290;
@@ -66,7 +66,7 @@ int main(void) {
     short    H5Nwz    =    -2059364390;
 	double	D4vI47A32	=	1884907446;
   unsigned int  Erho5Xts  =  -388900190;
-	char	v3wfSL2IX8	=	-345444586;
+	char	v3wfSL2IX8	=	(char)-345444586;
     long long    sfdxNcsG7    =    -166747382;
   unsigned char  Fhu10GsJU5  =  (unsigned char)-1127104271;
  unsigned char mI_uF3_ = -2064286883;
@@ -76,7 +76,7 @@ int main(void) {
     unsigned short    MH0O7qv    =    -1424099559;
  unsigned long long c7zOEUJt = -252606052;
     char    qp20d8    =    -353144993;
-    char    YNLX8gM9x    =    -542200570;
+    char    YNLX8gM9x    =    (char)-542200570;
  short H3r2s = 0;
     unsigned short int    soi5_G0mt    =    (unsigned short)109177640;
  long double h5HmCr333 = 623625948;

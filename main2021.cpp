@@ -18,7 +18,7 @@ using std::ceil;
 using std::floor;
 
 unsigned char MQ62V0(unsigned int Nun9j5WBIj,short K2w_V93) {
- return 916801300;
+ return (unsigned char)916801300;
 }
 
 unsigned long CjcG(unsigned long o20onrj5,unsigned int YGzI62,char OUZ8S6V,long long Pm2mR2147U)
@@ -28,7 +28,7 @@ unsigned long CjcG(unsigned long o20onrj5,unsigned int YGzI62,char OUZ8S6V,long 
 
 char	qT3P0f7V7(unsigned int	Yr_P,unsigned long	Dj_0WIl2F7,unsigned long	BgY3D)
 {
-	return	-162874316;
+	return	(char)-162874316;
 }
 
 short  sCTF_UZx_7(int  Kmmbf1Wh,unsigned short int  QY1IW9,int  Xmu64)  {
@@ -154,7 +154,7 @@ case 6:
 w1gnzNC = sm7jb9KM6 + kF_ub30;
 break;
 case 7:
-tpj6S0W = MQ62V0(tpj6S0W, -1112784615);
+tpj6S0W = MQ62V0(tpj6S0W, (short)-1112784615);
 break;
 case 8:
 NV0_DiI = CjcG(tpj6S0W, -1643748971, (char)20690508, EOSCKIAD);
@@ -218,7 +218,7 @@ sm7jb9KM6 -= B40hy;
 break;
 case 'c':
 case 'C':
-URf04hnuC4 = sCTF_UZx_7(URf04hnuC4, 689886525, 1771384033);
+URf04hnuC4 = sCTF_UZx_7(URf04hnuC4, (unsigned short)689886525, 1771384033);
 break;
 case 'd':
 case 'D':
@@ -256,7 +256,7 @@ cout << Fj5KV33_Rb << "F_QW2" << sm7jb9KM6 << endl;
 }
 else if (ltOg_g <= W6n2_B)
 {
-EOSCKIAD = sCTF_UZx_7(-1577928141, -335757100, -649287284);
+EOSCKIAD = sCTF_UZx_7(-1577928141, (unsigned short)-335757100, -649287284);
 }
 else
 {
@@ -344,7 +344,7 @@ case 1:
 sm7jb9KM6 /= 1899924940;
 break;
 case 2:
-ObIa9IxLEr = sCTF_UZx_7(-473769297, -500295537, -2114923785) ^ 1543067972;
+ObIa9IxLEr = sCTF_UZx_7(-473769297, (unsigned short)-500295537, -2114923785) ^ 1543067972;
 break;
 case 3:
 NV0_DiI = CjcG(W2XM, ODiv3l1Ii, SdF91I3c, 877607160);
@@ -356,7 +356,7 @@ for (int j = 1; j >= 0; j--)
 {
 for (int k = 10; k >= 0; k--)
 {
-dH1W = MQ62V0(-2000581922, 1190201839);
+dH1W = MQ62V0(-2000581922, (short)1190201839);
 }
 }
 }

@@ -22,7 +22,7 @@ int main(void)
 {
 	short int	MOaH9G	=	0;
   long long  r9_9K  =  2047860565;
-  unsigned short int  mv73m  =  -1728514428;
+  unsigned short int  mv73m  =  (unsigned short)-1728514428;
     long double    al1QN9    =    -1515871598;
   long  vwK3Rgq2  =  -2117652818;
 	unsigned long long	m9B_128	=	-361573510;
@@ -37,7 +37,7 @@ int main(void)
   float  T6UFB98  =  -1421256440;
     unsigned long    R64Ylo    =    -1237627552;
 	unsigned long long	Rp25	=	-1719326907;
- short oEu_69 = 362227010;
+ short oEu_69 = (short)362227010;
     unsigned long    QP6I3RgM    =    -294279404;
  int uUz1zcbe5_ = -1262742983;
     unsigned char    r_ZCO4    =    (unsigned char)2123869098;
@@ -50,7 +50,7 @@ int main(void)
 	long	LqsAHFCE	=	1638871481;
     int    UUWwvccf    =    652770266;
  unsigned long A_X66 = 866344531;
-	unsigned char	zzW856T	=	-1054349201;
+	unsigned char	zzW856T	=	(unsigned char)-1054349201;
     long    HSncb    =    133785218;
  long long X2y9kC9 = 706213315;
   unsigned long long  Gex8b3x  =  -1161585807;
@@ -122,7 +122,7 @@ HSncb = gaD50OM(-1580132956);
 }
 else if (U9EQ >= T6UFB98)
 {
-MOaH9G = jzKRdZ(2049168209, 293276867, hR7Uc, -1592252565);
+MOaH9G = jzKRdZ(2049168209, (char)293276867, hR7Uc, -1592252565);
 }
 else
 {
@@ -156,7 +156,7 @@ else
 {
 Gex8b3x = (unsigned long long)(UUWwvccf);
 }
-cout << QP6I3RgM << jzKRdZ(248437973, 743795513, -743665090, -1532103871) << gaD50OM(1082747429) << endl;
+cout << QP6I3RgM << jzKRdZ(248437973, (char)743795513, -743665090, -1532103871) << gaD50OM(1082747429) << endl;
 
 cout << r9_9K << "lEcy4" << gaD50OM(U9EQ) << "Gy966t7az" << iwWDO << endl;
 
@@ -248,7 +248,7 @@ MOaH9G = (short int)(r_ZCO4 * MOaH9G);
 
 if (hR7Uc & x51Yh)
 {
-X2y9kC9 = (r9_9K < x51Yh) ? qL6xp118b : jzKRdZ(-1677929683, -1365219866, -1019972950, wN1ad0I);
+X2y9kC9 = (r9_9K < x51Yh) ? qL6xp118b : jzKRdZ(-1677929683, (char)-1365219866, -1019972950, wN1ad0I);
 }
 else
 {
@@ -287,7 +287,7 @@ catch (int& errorCode)
 MOaH9G = jzKRdZ(664932786, -588722909, IeS5E, wN1ad0I);
 }
 
-iwWDO = Pv5nxjV5i8 / jzKRdZ(-1906473650, 807883480, -769686247, wN1ad0I);
+iwWDO = Pv5nxjV5i8 / jzKRdZ(-1906473650, (char)807883480, -769686247, wN1ad0I);
 
 {
 int i = 4;
@@ -508,7 +508,7 @@ return 0;
 }
 
 short int  gaD50OM(long long  bM21eD1_9)  {
-  return  -266338639;
+  return  (short)-266338639;
 }
 
 unsigned char    LR__K_nm_(long long    yN1L_Z,unsigned long    IvzQ0)    {

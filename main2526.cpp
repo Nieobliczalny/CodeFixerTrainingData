@@ -130,7 +130,7 @@ else if (alf5jcQd < j81vjn6w_y)
 {
 try
 {
-kr3z1683 = CsRSm91(694899241, Qz5opd8O1);
+kr3z1683 = CsRSm91((short)694899241, Qz5opd8O1);
 }
 catch (int& errorCode)
 {
@@ -195,7 +195,7 @@ k24Pr = (BROizPnwb != -498539689) ? XG4_JnmC : 1075052779;
 break;
 case 'e':
 case 'E':
-C2d_V = b5fa_feFd9(C2d_V, -490549723, vtK_e1, 458463537);
+C2d_V = b5fa_feFd9(C2d_V, (short)-490549723, vtK_e1, 458463537);
 break;
 case 'f':
 case 'F':
@@ -303,7 +303,7 @@ oFH92311 &= 1673849769;
 }
 else if (F68rae3Z == pKO1787Q5)
 {
-YqiMZB = P1q_(-1876067725);
+YqiMZB = P1q_((unsigned char)-1876067725);
 }
 else
 {
@@ -339,7 +339,7 @@ case 0:
 v6tBp = v6tBp | 926005249;
 break;
 case 1:
-Y5jl = P1q_(2004644568);
+Y5jl = P1q_((unsigned char)2004644568);
 break;
 case 2:
 WQCi3P = b5fa_feFd9(WQCi3P, (short)200897895, 168880567, -2029734265);
@@ -363,7 +363,7 @@ case 8:
 Q4Ds = kG94n | 110451568;
 break;
 default:
-vx6T = CsRSm91(1790339413, 429030288);
+vx6T = CsRSm91((short)1790339413, 429030288);
 break;
 }
 }
@@ -375,7 +375,7 @@ Nafv = b5fa_feFd9(Nafv, Y6V2Ycm, 27177632, 158530259);
 }
 else
 {
-YqiMZB = P1q_(718763882);
+YqiMZB = P1q_((unsigned char)718763882);
 }
 }
 else
@@ -390,7 +390,7 @@ a8nNH763N = b5fa_feFd9(-1343058414, uktUK0nSJ6, WM5tX2_, TJ3JKU__k_);
 }
 else if (((qpVS_9mwL >= -1389529823) && (kG94n <= EPe30)) && (QfgM7T_7T1 <= Y6V2Ycm))
 {
-Y6V2Ycm = CsRSm91(-22660139, 1976057584);
+Y6V2Ycm = CsRSm91((short)-22660139, 1976057584);
 }
 else
 {
@@ -431,7 +431,7 @@ else
 {
 for (int k = 0; k < 6; k++)
 {
-PtoZ1B04F = b5fa_feFd9(PtoZ1B04F, -494219557, -782720499, 1765869346);
+PtoZ1B04F = b5fa_feFd9(PtoZ1B04F, (short)-494219557, -782720499, 1765869346);
 }
 }
 }
@@ -444,7 +444,7 @@ return 0;
 
 unsigned short  BhSQn()
 {
-  return  -86051133;
+  return  (unsigned short)-86051133;
 }
 
 unsigned short  P1q_(unsigned char  sJWsA)
@@ -458,6 +458,6 @@ unsigned long long b5fa_feFd9(long gOo7Y,short int FWwx4Fn7a6,unsigned long long
 
 unsigned char CsRSm91(short R3s8L6U6ZF,long d9mtnb0)
 {
- return 94476874;
+ return (unsigned char)94476874;
 }
 

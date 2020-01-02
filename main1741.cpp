@@ -17,7 +17,7 @@ int main(void)
 {
  unsigned long long xK49i = 320049439;
   long double  BVBl9M  =  -471228354;
-	unsigned char	Glkcbm8	=	-821790904;
+	unsigned char	Glkcbm8	=	(unsigned char)-821790904;
  unsigned short int dnK20 = (unsigned short)-652084018;
     unsigned long long    mbxX8e    =    0;
  long LgV7_Z4I = 1833372011;
@@ -130,7 +130,7 @@ case 5:
 xK49i += 1760764246;
 break;
 case 6:
-dnK20 = (SjZUm7q4W != xK49i) ? -1490849820 : dnK20;
+dnK20 = (SjZUm7q4W != xK49i) ? (unsigned short)-1490849820 : dnK20;
 break;
 case 7:
 dnK20 = (mbxX8e != Glkcbm8) ? TA80u8fP : Zvw7At;

@@ -139,7 +139,7 @@ catch (int& errorCode)
 mx36oK8g = l00U5ST();
 }
 }
-std::cout << G6u643p7C(2094462236, (char)1992382445) << std::endl;
+std::cout << G6u643p7C((short)2094462236, (char)1992382445) << std::endl;
 if ((U3L3bMqJP == y7o3) && (ZbV9I95MG <= -1181051827))
 {
 Q5Nbd = U3L3bMqJP | Sx3DPQAgY;
@@ -422,7 +422,7 @@ c9rY54RnuP = IfZrS() * AvZYQX;
 break;
 case 'e':
 case 'E':
-U3L3bMqJP = G6u643p7C(112345699, (char)-643070707);
+U3L3bMqJP = G6u643p7C((short)112345699, (char)-643070707);
 break;
 case 'f':
 case 'F':
@@ -451,7 +451,7 @@ return 0;
 
 unsigned short IfZrS()
 {
- return 1679883928;
+ return (unsigned short)1679883928;
 }
 
 long long	G6u643p7C(short int	N1C3C4U4y3,char	x8hychooV)	{
@@ -464,6 +464,6 @@ char    l00U5ST()
 }
 
 char	p2H30()	{
-	return	98451442;
+	return	(char)98451442;
 }
 

@@ -10,7 +10,7 @@ using namespace std;
 
 char	h99vJjop0X()
 {
-	return	-233959173;
+	return	(char)-233959173;
 }
 
 short    IHGcgLTl(int    Z308Q,short    MW1UQ095L,int    bKT4,short    ZGMf)
@@ -88,7 +88,7 @@ if (B0SO == -1413662950)
 {
 try
 {
-B0SO = IHGcgLTl(1974571246, -1169340169, grdtR, (short)-1082774706);
+B0SO = IHGcgLTl(1974571246, (short)-1169340169, grdtR, (short)-1082774706);
 }
 catch (int& errorCode)
 {
@@ -159,7 +159,7 @@ case 2:
 Z7Q_ = h99vJjop0X();
 break;
 case 3:
-Z7Q_ = (grdtR <= -808330521) ? IHGcgLTl(B0SO, 1664421237, mop86, pA1Ttz9_K) : pA1Ttz9_K;
+Z7Q_ = (grdtR <= -808330521) ? IHGcgLTl(B0SO, (short)1664421237, mop86, pA1Ttz9_K) : pA1Ttz9_K;
 break;
 case 4:
 Z7Q_ *= mop86;
@@ -177,7 +177,7 @@ case 8:
 Z7Q_ = h99vJjop0X();
 break;
 case 9:
-grdtR = IHGcgLTl(-2000336508, -1706097045, B0SO, (short)-494664055);
+grdtR = IHGcgLTl(-2000336508, (short)-1706097045, B0SO, (short)-494664055);
 break;
 default:
 Z7Q_ = (grdtR == B0SO) ? h99vJjop0X() : pA1Ttz9_K;
@@ -209,7 +209,7 @@ if (((B0SO == 319256891) && (pA1Ttz9_K > Z7Q_)) && (mop86 & grdtR))
 switch (B0SO)
 {
 case 'a':
-grdtR = IHGcgLTl(grdtR, 1580107400, pA1Ttz9_K, mop86);
+grdtR = IHGcgLTl(grdtR, (short)1580107400, pA1Ttz9_K, mop86);
 break;
 default:
 Z7Q_ = mop86 ^ 1214052926;
@@ -240,7 +240,7 @@ try
 {
 try
 {
-grdtR = IHGcgLTl(grdtR, mop86, 1615097545, -336068068);
+grdtR = IHGcgLTl(grdtR, mop86, 1615097545, (short)-336068068);
 }
 catch (int& errorCode)
 {
@@ -259,7 +259,7 @@ if (Z7Q_ < -1487634453)
 B0SO = IHGcgLTl(B0SO, Z7Q_, 973398082, mop86);
 }
 }
-Z7Q_ = IHGcgLTl(-1202351083, Z7Q_, -779681649, 6637651) | 1520011556;
+Z7Q_ = IHGcgLTl(-1202351083, Z7Q_, -779681649, (short)6637651) | 1520011556;
 if (mop86 != -867571359)
 {
 mop86 = IHGcgLTl(261159795, (short)829772572, B0SO, 55227397);
@@ -349,7 +349,7 @@ try
 {
 if (((pA1Ttz9_K) && (mop86 < pA1Ttz9_K)) || (B0SO))
 {
-B0SO = IHGcgLTl(-1255928261, 901829873, grdtR, pA1Ttz9_K);
+B0SO = IHGcgLTl(-1255928261, (short)901829873, grdtR, pA1Ttz9_K);
 }
 else
 {

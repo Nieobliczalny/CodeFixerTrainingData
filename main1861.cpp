@@ -156,7 +156,7 @@ case 6:
 C1z6q = (int)abs(Z2o65);
 break;
 case 7:
-smD2J0 = (W7Jd & 1288606278) ? -547712805 : S_KOj2;
+smD2J0 = (W7Jd & 1288606278) ? (short)-547712805 : S_KOj2;
 break;
 default:
 qc9Wz7 *= W7Jd;
@@ -194,7 +194,7 @@ Z2o65--;
 break;
 case 'b':
 case 'B':
-CJoXj = Nb4L106 ^ 431178778;
+CJoXj = Nb4L106 ^ (short)431178778;
 break;
 case 'c':
 case 'C':

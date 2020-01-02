@@ -18,7 +18,7 @@ short int    LJ_vAt();
 int main()
 {
     short    Yzx08;
-    Yzx08    =    -599862020;
+    Yzx08    =    (short)-599862020;
     long double    cV0B;
     cV0B    =    -275049915;
   short int  wW1beY775T;
@@ -28,7 +28,7 @@ int main()
  short ZYObtn;
  ZYObtn = -2084760571;
   short int  zqM5;
-  zqM5  =  1552581424;
+  zqM5  =  (short)1552581424;
   short  k8F5;
   k8F5  =  1404001252;
  unsigned short qefZc7;
@@ -40,7 +40,7 @@ int main()
   char  f5j7ZTM;
   f5j7ZTM  =  0;
 	unsigned short	SUUK8c_8U;
-	SUUK8c_8U	=	-2015107369;
+	SUUK8c_8U	=	(unsigned short)-2015107369;
  unsigned short int MqzyW;
  MqzyW = (unsigned short)-884919322;
     short    o_umLDd;
@@ -54,7 +54,7 @@ int main()
     float    LV8_Tib;
     LV8_Tib    =    -1781974343;
   char  BjZ7QE;
-  BjZ7QE  =  367426979;
+  BjZ7QE  =  (char)367426979;
     double    WR0iTQv_o;
     WR0iTQv_o    =    1820429492;
 	long long	Jz56;
@@ -70,7 +70,7 @@ int main()
 	float	JY_U;
 	JY_U	=	-809449017;
  short MZs2;
- MZs2 = -738334145;
+ MZs2 = (short)-738334145;
 	short int	Dfkcu5kz0q;
 	Dfkcu5kz0q	=	(short)842823475;
 	unsigned short	op90K7;
@@ -80,7 +80,7 @@ int main()
     unsigned long    Z5_EU;
     Z5_EU    =    -1317844222;
  short CE8aDn;
- CE8aDn = 539343410;
+ CE8aDn = (short)539343410;
 	unsigned int	Kq30I1;
 	Kq30I1	=	-280398151;
     long long    Gzsta7;
@@ -90,7 +90,7 @@ int main()
 	unsigned int	mOvTnQ;
 	mOvTnQ	=	1115047039;
     unsigned char    sZyEX4a;
-    sZyEX4a    =    927783484;
+    sZyEX4a    =    (unsigned char)927783484;
     double    upfWB84;
     upfWB84    =    1171159952;
  short int d88Z80__;
@@ -102,7 +102,7 @@ int main()
     long    zanF2J;
     zanF2J    =    0;
  short int QvJj6;
- QvJj6 = 773455392;
+ QvJj6 = (short)773455392;
 	float	I05O_9;
 	I05O_9	=	-694596132;
  long double G_mfdwJ99H;
@@ -114,7 +114,7 @@ int main()
  unsigned int M4Zs;
  M4Zs = 0;
 	unsigned short int	N1prq;
-	N1prq	=	424849185;
+	N1prq	=	(unsigned short)424849185;
  long double bmiuFe1;
  bmiuFe1 = 348218779;
 	short int	S94oIkpQQ;

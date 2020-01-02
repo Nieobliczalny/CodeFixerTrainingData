@@ -27,7 +27,7 @@ int main(void) {
   long long  CaR_8t2,  Os_W,  oogXSq,  B59P5,  Cpt554hVE,  qxcqm2,  ZX0u2,  m771V,  V9OhqGGw,  c50FXEJRi,  BQCGz,  f1sMTjE5h,  q9zfg,  a6e5_d90x,  C0DZ,  c1d7Gf,  K6X0Z,  ix_fug,  B2oFx6,  a8Lq_4h,  cMU0EY7Zz,  sMLOl7_,  B2QS2D,  M6M42m9h,  gBTg4,  ySX79eVXQp,  ceUeMw;
     CaR_8t2  =  Os_W  =  oogXSq  =  B59P5  =  Cpt554hVE  =  qxcqm2  =  ZX0u2  =  m771V  =  V9OhqGGw  =  c50FXEJRi  =  BQCGz  =  f1sMTjE5h  =  q9zfg  =  a6e5_d90x  =  C0DZ  =  c1d7Gf  =  K6X0Z  =  ix_fug  =  B2oFx6  =  a8Lq_4h  =  cMU0EY7Zz  =  sMLOl7_  =  B2QS2D  =  M6M42m9h  =  gBTg4  =  ySX79eVXQp  =  ceUeMw  =  -437392699;
 
-b5_egFaMk = uB7V(K6X0Z, 472022117, -1505320109);
+b5_egFaMk = uB7V(K6X0Z, 472022117, (unsigned short)-1505320109);
 
 if (ZX0u2 & 18884389)
 {
@@ -65,7 +65,7 @@ f1sMTjE5h = (int)abs(ZX0u2);
 }
 else
 {
-BQCGz = VZ1v(BQCGz, ySX79eVXQp, oogXSq, 735629513, K6X0Z);
+BQCGz = VZ1v(BQCGz, ySX79eVXQp, oogXSq, (char)735629513, K6X0Z);
 }
 {
 int i = 2;
@@ -85,7 +85,7 @@ while (j < 9);
 while (i >= 0);
 }
 
-std::cout << uB7V(BQCGz, ySX79eVXQp, -746916938) << VZ1v(BQCGz, ySX79eVXQp, -2071697491, b8hq, K6X0Z) << "m76b" << std::endl;
+std::cout << uB7V(BQCGz, ySX79eVXQp, (unsigned short)-746916938) << VZ1v(BQCGz, ySX79eVXQp, -2071697491, b8hq, K6X0Z) << "m76b" << std::endl;
 
 {
 int i = 0;
@@ -114,7 +114,7 @@ case 'e':
 CaR_8t2++;
 break;
 default:
-ZX0u2 = VZ1v(O4yKgG13, ZX0u2, -1686068495, -395493532, 1357821731);
+ZX0u2 = VZ1v(O4yKgG13, ZX0u2, -1686068495, (char)-395493532, 1357821731);
 break;
 }
 j++;
@@ -125,7 +125,7 @@ j++;
 
 for (int i = O4yKgG13; i < 198; i++)
 {
-q9zfg = m771V / uB7V(O4yKgG13, 541164900, -447332693);
+q9zfg = m771V / uB7V(O4yKgG13, 541164900, (unsigned short)-447332693);
 	c1d7Gf = uB7V(O4yKgG13, ZX0u2, (unsigned short)945205532) / i;
 try
 {
@@ -148,7 +148,7 @@ switch (M6M42m9h)
 {
 case 'a':
 case 'A':
-mp3B7C = uB7V(CaR_8t2, sMLOl7_, -1772709090);
+mp3B7C = uB7V(CaR_8t2, sMLOl7_, (unsigned short)-1772709090);
 break;
 default:
 b5_egFaMk = uB7V(Cpt554hVE, 1740501331, b5_egFaMk);

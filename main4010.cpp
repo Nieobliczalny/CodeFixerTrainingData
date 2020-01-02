@@ -13,7 +13,7 @@ long long  Q31_40(unsigned short int  AINXcb,unsigned short int  kV5qR8r5X3,unsi
 
 int main(void)
 {
-  short int  KIcI  =  1917448421;
+  short int  KIcI  =  (short)1917448421;
 	unsigned int	lT5V	=	-2091074887;
 	unsigned char	qqC350UW	=	(unsigned char)1176098482;
     unsigned short int    uD18c    =    536504373;
@@ -28,7 +28,7 @@ int main(void)
 	int	DoNX7zq3	=	1968365078;
     long    MAoM    =    -1897455418;
     unsigned long long    Snoks1    =    -306606200;
-  char  u_7YY3CN0e  =  1365213776;
+  char  u_7YY3CN0e  =  (char)1365213776;
  unsigned char Nc_s = (unsigned char)1119129436;
 	unsigned long	DRf9_4U_U	=	1165034033;
  long long xSQ6a58_93 = 1344600140;
@@ -38,7 +38,7 @@ int main(void)
   double  pgc387O4c  =  141932080;
   float  cDP3Nb_9  =  -114756827;
     double    g6KIeDP4q    =    1511154382;
- unsigned short pxU7gvvN80 = 1204168366;
+ unsigned short pxU7gvvN80 = (unsigned short)1204168366;
  unsigned long Fk4e = 0;
     float    FK7eY7n    =    1081116795;
 	unsigned long long	a6bO_J2wQ9	=	-642944761;
@@ -50,7 +50,7 @@ int main(void)
     unsigned long long    cP7x    =    -1009924114;
 	unsigned long long	VbKL4h9K	=	-994795960;
     unsigned int    L5Bf_p_s74    =    1901820324;
-    unsigned char    ptROu    =    1778685701;
+    unsigned char    ptROu    =    (unsigned char)1778685701;
   unsigned long long  JIx7f  =  770935088;
 	unsigned short	OY2N30vaq	=	652491923;
  long long o9xNlpAJp = 260042398;
@@ -62,7 +62,7 @@ int main(void)
     unsigned long long    HOm7    =    1291256832;
     long double    KW1W    =    1388901430;
     long double    r747y8    =    1061797296;
-	char	H1LynW52	=	718599052;
+	char	H1LynW52	=	(char)718599052;
  double DZAqcY = -848993928;
     unsigned int    MbTI    =    943214697;
 	unsigned short int	mBr_W	=	(unsigned short)-310727000;
@@ -207,7 +207,7 @@ case 'b':
 Uvtt18 <<= 1595228661;
 break;
 case 'c':
-xSQ6a58_93 = Q31_40(-789512872, WaFf_LxZy, alLx08SR0, Uvtt18) ^ DRf9_4U_U;
+xSQ6a58_93 = Q31_40((unsigned short)-789512872, WaFf_LxZy, alLx08SR0, Uvtt18) ^ DRf9_4U_U;
 break;
 case 'd':
 ACuB0X_J = t0u0Nly7l8(qqC350UW, 1009020246, wWcNRg2, 680338728);
@@ -283,7 +283,7 @@ TACYKmBas9 |= HW2pMG_;
 break;
 case 'e':
 case 'E':
-Uvtt18 = Q31_40(828719897, o9xNlpAJp, 238619534, r747y8);
+Uvtt18 = Q31_40((unsigned short)828719897, o9xNlpAJp, 238619534, r747y8);
 break;
 case 'f':
 case 'F':
@@ -312,7 +312,7 @@ if (xSQ6a58_93 == 616601287)
 {
 if (uT084FPD < MAoM)
 {
-y64GY9 = Q31_40(y64GY9, 1432560473, 1689604160, (char)-782880956);
+y64GY9 = Q31_40(y64GY9, (unsigned short)1432560473, 1689604160, (char)-782880956);
 }
 }
 else
@@ -335,7 +335,7 @@ KW1W = (int)floor(r747y8);
 }
 else if (((Snoks1 == -162426406) || (OY2N30vaq <= -1517213981)) || (WaFf_LxZy <= 303665179))
 {
-zDPKlbu99 = (gISJt5D36I) ? t0u0Nly7l8(HOm7, pgc387O4c, Nc_s, -1232214249) : 1372333916;
+zDPKlbu99 = (gISJt5D36I) ? t0u0Nly7l8(HOm7, pgc387O4c, Nc_s, -1232214249) : (unsigned short)1372333916;
 }
 else if (n_7z859k == -1688408467)
 {
@@ -368,7 +368,7 @@ a56yyg566T = t0u0Nly7l8(a56yyg566T, g70_fvB, MAoM, -1257348703);
 }
 
 pgc387O4c = alLx08SR0 + 652885247;
-std::cout << "niwjG4" << Q31_40(447898644, (unsigned short)-769451310, -360530787, pxU7gvvN80) << "E7LYbj67K" << l876c << Qd67 << std::endl;
+std::cout << "niwjG4" << Q31_40((unsigned short)447898644, (unsigned short)-769451310, -360530787, pxU7gvvN80) << "E7LYbj67K" << l876c << Qd67 << std::endl;
 {
 int i = 0;
 while (i < 7)
@@ -451,7 +451,7 @@ else if ((vi4Sf58ppm <= -1420162416) || ((VbKL4h9K & j5xJ9F) && (HW2pMG_ >= -199
 switch (zDPKlbu99)
 {
 case 'a':
-OJNLf = Q31_40(797822618, (unsigned short)-1499524282, 1705159006, alLx08SR0);
+OJNLf = Q31_40((unsigned short)797822618, (unsigned short)-1499524282, 1705159006, alLx08SR0);
 break;
 case 'b':
 qqC350UW = Q31_40(-1174745458, 1872173602, -1926845546, MAoM);
@@ -472,7 +472,7 @@ case 'g':
 HOm7 = MbTI / k3XBM;
 break;
 default:
-vi4Sf58ppm = Q31_40(1830461812, (unsigned short)-1584566083, -2119874777, pxU7gvvN80);
+vi4Sf58ppm = Q31_40((unsigned short)1830461812, (unsigned short)-1584566083, -2119874777, pxU7gvvN80);
 break;
 }
 }

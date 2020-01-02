@@ -21,7 +21,7 @@ int main(int argc, char** argv) {
   long  W63z  =  428638453;
 	double	kyIGa7oKi	=	535004966;
   unsigned int  l335  =  439051666;
-	unsigned short int	QOW42M8	=	-651268909;
+	unsigned short int	QOW42M8	=	(unsigned short)-651268909;
 	long double	Js69GqZ1M	=	1875441954;
     unsigned int    qA45Siw_Cb    =    269746485;
 	char	lKF_h	=	(char)-1206876704;
@@ -31,7 +31,7 @@ int main(int argc, char** argv) {
  short int KW7e = -298410420;
  short int ql24k9 = -1773381970;
   unsigned char  BfH9OXNP7f  =  0;
-  short  f1D5XXc  =  1075245726;
+  short  f1D5XXc  =  (short)1075245726;
   long double  X083dn_vJ  =  1018603482;
 	char	vDxdC3j8	=	-267497317;
  unsigned short CR0ZS5_p8_ = (unsigned short)1468438434;
@@ -42,7 +42,7 @@ int main(int argc, char** argv) {
   unsigned short  EZP5  =  -2100322408;
     unsigned short    N3GL    =    -827465612;
 	long long	ILSOE3lq	=	-349953987;
-	char	TUMIb	=	-1743417830;
+	char	TUMIb	=	(char)-1743417830;
 	unsigned long long	sf3p	=	-975199481;
     unsigned int    ypW6rHFuM    =    1038255011;
     unsigned char    xQ41al5i    =    0;
@@ -60,7 +60,7 @@ try
 {
 if (pxn6a81 >= Gw2_4)
 {
-std::cout << BfH9OXNP7f << kyIGa7oKi << BfH9OXNP7f << bM7W_2_(l335, ILSOE3lq, 1969838668, 1091448655) << std::endl;
+std::cout << BfH9OXNP7f << kyIGa7oKi << BfH9OXNP7f << bM7W_2_(l335, ILSOE3lq, 1969838668, (unsigned short)1091448655) << std::endl;
 }
 }
 catch (int& errorCode)
@@ -70,7 +70,7 @@ xQ41al5i = bM7W_2_(W63z, lKF_h, 376019177, -380538249);
 switch (fwT4zR)
 {
 case 0:
-xQ41al5i = bM7W_2_(1885415171, -1043551674, Js69GqZ1M, W63z);
+xQ41al5i = bM7W_2_((short)1885415171, -1043551674, Js69GqZ1M, W63z);
 break;
 case 1:
 BfH9OXNP7f = bM7W_2_((short)1145185896, 117410502, -1938363172, 819766575);
@@ -85,7 +85,7 @@ case 4:
 Vd056 = QOW42M8 * tu8sRS;
 break;
 default:
-pxn6a81 = bM7W_2_(763416681, -637073122, -1325717317, ql24k9) << EZP5;
+pxn6a81 = bM7W_2_((short)763416681, -637073122, -1325717317, ql24k9) << EZP5;
 break;
 }
 try
@@ -104,7 +104,7 @@ for (int i = 0; i < 2; ++i)
 BfH9OXNP7f = bM7W_2_(w18Ft, BfH9OXNP7f, qx9o_16Xw, zwjHAycs);
 }
 
-ivgij = vDxdC3j8 / bM7W_2_(w18Ft, -1907242664, -398597716, 1199934408);
+ivgij = vDxdC3j8 / bM7W_2_(w18Ft, -1907242664, -398597716, (unsigned short)1199934408);
 
 return 0;
 }

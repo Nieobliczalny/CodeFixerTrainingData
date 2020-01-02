@@ -28,7 +28,7 @@ try
 {
 if ((k5w91l & KzeWr417) && ((y_bsc_B > KzeWr417) && (Bw20e)))
 {
-std::cout << zGfzT989s(Bw20e, y_bsc_B, Azw_W6Kt, -2089596568) << std::endl;
+std::cout << zGfzT989s(Bw20e, y_bsc_B, Azw_W6Kt, (unsigned short)-2089596568) << std::endl;
 }
 else
 {
@@ -71,7 +71,7 @@ else
 int k = 0;
 do
 {
-y_bsc_B = D_6sYU(y_bsc_B, Bw20e, 1511075381, 80261594, -1635075523);
+y_bsc_B = D_6sYU(y_bsc_B, Bw20e, 1511075381, 80261594, (unsigned short)-1635075523);
 ++k;
 }
 while (k < 4);
@@ -117,7 +117,7 @@ Azw_W6Kt /= Azw_W6Kt;
 }
 else if ((MJx7_ >= 812530311) || ((k5w91l & -91796048) && (k5w91l < 396920995)))
 {
-y_bsc_B = D_6sYU(-1954340056, MJx7_, k5w91l, -178053842, (unsigned short)-1494704829);
+y_bsc_B = D_6sYU((unsigned short)-1954340056, MJx7_, k5w91l, -178053842, (unsigned short)-1494704829);
 }
 else if (k5w91l <= 1304443543)
 {
@@ -132,7 +132,7 @@ Azw_W6Kt = (int)floor(y_bsc_B);
 }
 else if (Bw20e < -1471114556)
 {
-y_bsc_B = D_6sYU(-1433596901, -33359330, Azw_W6Kt, -404433055, (unsigned short)-1076103060);
+y_bsc_B = D_6sYU((unsigned short)-1433596901, -33359330, Azw_W6Kt, -404433055, (unsigned short)-1076103060);
 }
 else if (((k5w91l & BPa2WRlh54) && (Azw_W6Kt >= EU0tXR)) || (Azw_W6Kt > y_bsc_B))
 {
@@ -182,7 +182,7 @@ Azw_W6Kt /= Azw_W6Kt;
 while (j < 4);
 }
 }
-Bw20e = D_6sYU(-882031385, -1124736154, y_bsc_B, MJx7_, Azw_W6Kt);
+Bw20e = D_6sYU((unsigned short)-882031385, -1124736154, y_bsc_B, MJx7_, Azw_W6Kt);
 
 return 0;
 }

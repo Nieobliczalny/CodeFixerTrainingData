@@ -84,7 +84,7 @@ return 0;
 
 char	h23RigA_(long	qs9mL4579)
 {
-	return	2009464702;
+	return	(char)2009464702;
 }
 
 unsigned short    cud8Nbc9(unsigned short int    jvBpX5,int    aRIK,long    ia22ZKZ)    {
@@ -101,6 +101,6 @@ long G062uhuyw(unsigned short int rQkk4,unsigned long long Aa9ZjjEo5L) {
 }
 
 short int	ZAkSXSN17()	{
-	return	52191248;
+	return	(short)52191248;
 }
 

@@ -14,7 +14,7 @@
 using namespace std;
 
 char    ZwCoA77(long long    v8_6Bqs99_,unsigned int    ynbgf,long long    v3qc6T,int    Y669Of5rYk)    {
-    return    793723581;
+    return    (char)793723581;
 }
 
 unsigned long long e809z() {
@@ -45,7 +45,7 @@ case 'b':
 Dg0_e %= 179322328;
 break;
 case 'c':
-mEvFbn_ = v8T_(-370100625, AUktbXBV, ao_4bzB, 2121800659, (short)169156737);
+mEvFbn_ = v8T_((short)-370100625, AUktbXBV, ao_4bzB, 2121800659, (short)169156737);
 break;
 case 'd':
 M2X67p--;

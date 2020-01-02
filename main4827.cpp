@@ -35,7 +35,7 @@ int main()
   long  S7CA1XFyzs;
   S7CA1XFyzs  =  -577454592;
 	unsigned char	K_J09py;
-	K_J09py	=	819074166;
+	K_J09py	=	(unsigned char)819074166;
 	short	i0sB;
 	i0sB	=	(short)1855909741;
   double  b8i4KY97ba;
@@ -49,7 +49,7 @@ int main()
     double    YKm78_L9R;
     YKm78_L9R    =    -754321310;
 	short	Ts7Oet2;
-	Ts7Oet2	=	-746415600;
+	Ts7Oet2	=	(short)-746415600;
   unsigned long  Jv1KoJ_;
   Jv1KoJ_  =  -1652290939;
 	int	t2JN798b75;
@@ -65,7 +65,7 @@ int main()
   unsigned int  EFunX;
   EFunX  =  -1275589244;
 	unsigned char	Oo6Y_A;
-	Oo6Y_A	=	1523552252;
+	Oo6Y_A	=	(unsigned char)1523552252;
 	unsigned long long	tFmC;
 	tFmC	=	1378503976;
     short    m95p6x7WRE;
@@ -77,7 +77,7 @@ int main()
 	double	QY9f5O344;
 	QY9f5O344	=	571579431;
  unsigned short int R1GYyd28;
- R1GYyd28 = 211521531;
+ R1GYyd28 = (unsigned short)211521531;
   long  GI7UZw;
   GI7UZw  =  1082489132;
  double EU1R4;
@@ -89,7 +89,7 @@ int main()
 	long	U_mB6;
 	U_mB6	=	0;
 	unsigned short	W3ZiF;
-	W3ZiF	=	-1585850550;
+	W3ZiF	=	(unsigned short)-1585850550;
     int    J_s_P;
     J_s_P    =    2091436806;
 	short int	L_OD;
@@ -120,7 +120,7 @@ BV3x = (float)(cjnMiT);
 
 if (EU1R4)
 {
-L_OD = dvwVaY_k(-574924974);
+L_OD = dvwVaY_k((short)-574924974);
 }
 cout << O7wuUN7yo << tFmC << YKm78_L9R << C7_9 << Ts7Oet2 << endl;
 
@@ -148,7 +148,7 @@ while (j < 1);
 }
 }
 
-W3ZiF = dvwVaY_k(-2073815641);
+W3ZiF = dvwVaY_k((short)-2073815641);
 {
 int i = 0;
 while (i < 4)
@@ -166,7 +166,7 @@ i++;
 }
 
 J_s_P = (int)abs(BV3x);
-b8i4KY97ba = ADsc(b8i4KY97ba, L_OD, 1564791070, 1049045751);
+b8i4KY97ba = ADsc(b8i4KY97ba, L_OD, (short)1564791070, 1049045751);
 
 {
 int i = 7;
@@ -184,7 +184,7 @@ q8Rj = dvwVaY_k(q8Rj);
 }
 else
 {
-r2fD = Mno299(1933945525, 1189936307, W3ZiF, EFunX);
+r2fD = Mno299((unsigned short)1933945525, 1189936307, W3ZiF, EFunX);
 }
 }
 while (j >= 0);
@@ -222,7 +222,7 @@ int i = 0;
 do
 {
 i++;
-cout << dvwVaY_k(-2147197704) << "u9YZ3" << endl;
+cout << dvwVaY_k((short)-2147197704) << "u9YZ3" << endl;
 }
 while (i < 1);
 }
@@ -241,7 +241,7 @@ long long    Mno299(unsigned short int    n6P29_cJ,long    tr_DWT9w,char    zug8
 
 short int  ADsc(unsigned long  g2juT8,unsigned char  u33Bp__M1,short int  xOqi_9K2_,long long  IWRqtXXk)
 {
-  return  2022980890;
+  return  (short)2022980890;
 }
 
 short int tT_YzP(int nF0W7_9xQ,short int xFX4Lj41,int jUHq,long sAgMta6E) {

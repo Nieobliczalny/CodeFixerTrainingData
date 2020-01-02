@@ -18,7 +18,7 @@ int m81NQy5el(unsigned int o47Jd17_o)
 }
 
 short	m67HY(long	is__,unsigned long long	T1xwc,short	uU25U7eAz)	{
-	return	1928247750;
+	return	(short)1928247750;
 }
 
 int main(void)
@@ -31,7 +31,7 @@ int main(void)
 pCjO1H_J_ = KmjB_l * 591801815;
 try
 {
-RG71PD = t1N9qevS7(-1109548182, W6e2, n3A7h, -75094376, 830295665);
+RG71PD = t1N9qevS7((unsigned short)-1109548182, W6e2, n3A7h, -75094376, 830295665);
 }
 catch (int& errorCode)
 {

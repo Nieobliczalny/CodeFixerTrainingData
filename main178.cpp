@@ -11,7 +11,7 @@ using namespace std;
 int main() {
 	int	M8uxI	=	-578572699;
  long j2H59h = -676287080;
-    short    Yr_ktnig    =    1362948237;
+    short    Yr_ktnig    =    (short)1362948237;
 	unsigned long	c56XCZ83_	=	1820672101;
   unsigned char  W37VZbS64  =  (unsigned char)-415296027;
  double E0E62e_u7 = -485587622;
@@ -21,7 +21,7 @@ int main() {
     short    Gp2sSvN99q    =    1203407001;
   short int  j0Hl  =  -1661046893;
  unsigned long RMm_E = 314037407;
-  short  csuxvf5jJ0  =  -1244867091;
+  short  csuxvf5jJ0  =  (short)-1244867091;
     unsigned short int    P56DGm    =    -696752423;
   unsigned long  A0wR10xX  =  -1266773423;
   unsigned short  C2eft  =  (unsigned short)-1341199148;
@@ -31,7 +31,7 @@ int main() {
   unsigned short  fkI4  =  708873333;
 	unsigned long long	OC11Vk	=	-1047449988;
     short    ge02d    =    -508019774;
-    short int    N8h3L3    =    1338048931;
+    short int    N8h3L3    =    (short)1338048931;
     unsigned short    at26    =    -926160703;
 	unsigned short	pv6m63_7W	=	1668892385;
 	unsigned long	e641yBaO7F	=	-937988787;
@@ -43,7 +43,7 @@ int main() {
 	unsigned long	luh_5S	=	659957326;
 	int	ok6XBN	=	-1537618721;
  unsigned int i2nzU921UC = 2059197736;
-    unsigned short    y2Air    =    2141640290;
+    unsigned short    y2Air    =    (unsigned short)2141640290;
  long double s805 = -814308713;
 	unsigned long long	d9en7R71	=	-1591201390;
   unsigned int  nqv1BVAN6C  =  -1226666809;
@@ -54,7 +54,7 @@ int main() {
     long double    HXwEm5M7i    =    -1339715729;
   double  I5P_7  =  1361936912;
  unsigned long ybXTmv3d = -1252174555;
-	unsigned short int	P2sD5SEmf5	=	1532867498;
+	unsigned short int	P2sD5SEmf5	=	(unsigned short)1532867498;
  long double ibf1731MF = 1107816975;
  unsigned char Lq_bgt = 189436171;
     long long    owYP    =    107731468;
@@ -64,7 +64,7 @@ int main() {
 	unsigned long	H5_WyAcs75	=	-957006690;
 	long	B5Bg	=	-1025230297;
 	unsigned long long	duY_r8_Q	=	-1102203408;
-	short int	qE56NpD	=	750148162;
+	short int	qE56NpD	=	(short)750148162;
   long double  RV9e94B  =  -318956979;
  char dpw8W9 = 0;
 	long	zlVu51NB	=	-948614771;

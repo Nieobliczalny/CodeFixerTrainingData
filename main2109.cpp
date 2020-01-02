@@ -16,7 +16,7 @@ short int	e_25mi2(char	l4Ewch,long	hos5);
 
 int main(int argc, char** argv) {
   unsigned short int  PZr4f4oGd,  P_Vtlg6,  Wu8m6aR8,  mrE4,  WiMi65Ggm,  SLRI,  gflt,  w323,  P0MOO8,  aFd_VyU,  um4kb460B,  GpPL7Q4lgt,  Y5ef1eoR,  KMZ5f,  gD6i,  Bfy33VZ,  U1_tI5;
-  PZr4f4oGd  =  1172453193;
+  PZr4f4oGd  =  (unsigned short)1172453193;
   P_Vtlg6  =  (unsigned short)156988291;
   Wu8m6aR8  =  1482328682;
   mrE4  =  -1982064225;
@@ -26,7 +26,7 @@ int main(int argc, char** argv) {
   w323  =  -1445136979;
   P0MOO8  =  599964285;
   aFd_VyU  =  1566844104;
-  um4kb460B  =  -1639934219;
+  um4kb460B  =  (unsigned short)-1639934219;
   GpPL7Q4lgt  =  (unsigned short)-1832835541;
   Y5ef1eoR  =  4745521;
   KMZ5f  =  2023059445;
@@ -56,7 +56,7 @@ case 3:
 KMZ5f %= aFd_VyU;
 break;
 case 4:
-Wu8m6aR8 = TsKeONYUM2(-1940393353, (char)143798562, 839874501, -1047294380, -1363939167);
+Wu8m6aR8 = TsKeONYUM2((unsigned char)-1940393353, (char)143798562, 839874501, -1047294380, -1363939167);
 break;
 case 5:
 Y5ef1eoR = (CRR7ht7 > Y5ef1eoR) ? um4kb460B : 589004272;
@@ -111,7 +111,7 @@ case 'd':
 Bfy33VZ *= Bfy33VZ;
 break;
 case 'e':
-LW4R_ = e_25mi2(-1035044305, 1629230598);
+LW4R_ = e_25mi2((char)-1035044305, 1629230598);
 break;
 }
 
@@ -126,7 +126,7 @@ case 1:
 GpPL7Q4lgt /= 1927068181;
 break;
 case 2:
-H4c9_6MTx6 = e_25mi2(174556307, -1837948270);
+H4c9_6MTx6 = e_25mi2((char)174556307, -1837948270);
 break;
 case 3:
 khuRx2EEK = (int)abs(CRR7ht7);
@@ -158,7 +158,7 @@ else
 {
 try
 {
-Bfy33VZ = d6tkd_(-1584706233, (char)938970664, 1165703442, 797598620);
+Bfy33VZ = d6tkd_((unsigned short)-1584706233, (char)938970664, 1165703442, 797598620);
 }
 catch (int& errorCode)
 {
@@ -185,7 +185,7 @@ P0MOO8 ^= Wu8m6aR8;
 break;
 case 'b':
 case 'B':
-khuRx2EEK = e_25mi2(1030364423, PZr4f4oGd);
+khuRx2EEK = e_25mi2((char)1030364423, PZr4f4oGd);
 break;
 case 'c':
 case 'C':
@@ -206,7 +206,7 @@ catch (int& errorCode)
 Ari78fd_0_ = (int)abs(CRR7ht7);
 }
 
-std::cout << TsKeONYUM2(1749580233, (char)777954462, 1021779959, 1132475767, -2060648299) << w323 << std::endl;
+std::cout << TsKeONYUM2((unsigned char)1749580233, (char)777954462, 1021779959, 1132475767, -2060648299) << w323 << std::endl;
 
 P_Vtlg6 = d6tkd_(-27847990, gflt, Bfy33VZ, GpPL7Q4lgt);
 
@@ -216,7 +216,7 @@ if (Bfy33VZ != P5792B)
 {
 for (int k = 9; k >= 0; k--)
 {
-aFd_VyU = TsKeONYUM2(-959710206, w323, (char)1806314157, -481136261, -2106688001);
+aFd_VyU = TsKeONYUM2((unsigned char)-959710206, w323, (char)1806314157, -481136261, -2106688001);
 }
 }
 }
@@ -244,7 +244,7 @@ switch (aFd_VyU)
 {
 case 'a':
 case 'A':
-P_Vtlg6 = d6tkd_(-578531244, (char)-554527339, SLRI, CRR7ht7);
+P_Vtlg6 = d6tkd_((unsigned short)-578531244, (char)-554527339, SLRI, CRR7ht7);
 break;
 case 'b':
 case 'B':
@@ -260,7 +260,7 @@ LW4R_ = (int)abs(Ari78fd_0_);
 break;
 case 'e':
 case 'E':
-P_Vtlg6 = TsKeONYUM2(P_Vtlg6, -1750714895, (char)798218261, Wu8m6aR8, -1870843255);
+P_Vtlg6 = TsKeONYUM2(P_Vtlg6, (char)-1750714895, (char)798218261, Wu8m6aR8, -1870843255);
 break;
 case 'f':
 case 'F':
@@ -276,7 +276,7 @@ Y5ef1eoR += 1858294433;
 break;
 case 'i':
 case 'I':
-um4kb460B = TsKeONYUM2(CRR7ht7, -1989117737, (char)1153857875, -1307315066, -247617271);
+um4kb460B = TsKeONYUM2(CRR7ht7, (char)-1989117737, (char)1153857875, -1307315066, -247617271);
 break;
 }
 }
@@ -305,7 +305,7 @@ case 'c':
 LW4R_ = e_25mi2(P_Vtlg6, 236780650);
 break;
 case 'd':
-Y5ef1eoR = TsKeONYUM2(-792629112, (char)2039593294, KMZ5f, -1388247305, -362590544);
+Y5ef1eoR = TsKeONYUM2((unsigned char)-792629112, (char)2039593294, KMZ5f, -1388247305, -362590544);
 break;
 }
 }
@@ -332,7 +332,7 @@ else if (Ari78fd_0_ > Y5ef1eoR)
 {
 if (KMZ5f > 866460948)
 {
-Y5ef1eoR = TsKeONYUM2(601237835, (char)-698344071, 1625575939, 739187275, 325474855);
+Y5ef1eoR = TsKeONYUM2((unsigned char)601237835, (char)-698344071, 1625575939, 739187275, 325474855);
 }
 }
 else if (((H4c9_6MTx6 < P0MOO8) || (P_Vtlg6 == -498568605)) && (Wu8m6aR8 > U1_tI5))
@@ -353,7 +353,7 @@ return 0;
 }
 
 short int  TsKeONYUM2(unsigned char  f2S0c63J28,char  hegq2,char  j7vZXRN,long  EIA8C64,short  SH0aq6BQ)  {
-  return  -1777226897;
+  return  (short)-1777226897;
 }
 
 long  d6tkd_(unsigned short int  pdK4hOF,char  ANZ_Ln8ibU,unsigned int  E9eQU1,unsigned short int  TsHGB_1)

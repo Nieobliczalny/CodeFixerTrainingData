@@ -39,7 +39,7 @@ case 'd':
 J2yDLl_PJR = (ICQj4 <= fVbi) ? fG8lV456zn : NKr_Tk7m;
 break;
 case 'e':
-P0zYx = ddNeq4TI(-291393229, Zxf65cR);
+P0zYx = ddNeq4TI((unsigned short)-291393229, Zxf65cR);
 break;
 case 'f':
 f9poZK = ddNeq4TI(f6xpydZSL, 1794472619);
@@ -51,7 +51,7 @@ case 'h':
 Y2DV9a = (int)abs(iw2Jw);
 break;
 case 'i':
-HLWNGKY4D = ddNeq4TI(-99932786, -1971775022) - f6xpydZSL;
+HLWNGKY4D = ddNeq4TI((unsigned short)-99932786, -1971775022) - f6xpydZSL;
 break;
 case 'j':
 aWnu %= ICQj4;
@@ -131,7 +131,7 @@ P0zYx = ddNeq4TI(O484kq7, J89VctH);
 break;
 case 'c':
 case 'C':
-mskWxcvYO = (Zd14) ? ia41ua : -1337089502;
+mskWxcvYO = (Zd14) ? ia41ua : (char)-1337089502;
 break;
 case 'd':
 case 'D':
@@ -147,7 +147,7 @@ f9poZK = ddNeq4TI(uGLyx65D4, E7EdcSt8p);
 break;
 case 'g':
 case 'G':
-Oosw34Ryb1 = ddNeq4TI(1017914082, Kkmu);
+Oosw34Ryb1 = ddNeq4TI((unsigned short)1017914082, Kkmu);
 break;
 case 'h':
 case 'H':
@@ -189,7 +189,7 @@ else
 {
 if (b94jH > -631351260)
 {
-sIsP = ddNeq4TI(-304622144, 1753455559);
+sIsP = ddNeq4TI((unsigned short)-304622144, 1753455559);
 }
 }
 }
@@ -223,7 +223,7 @@ else if ((bAle_czm9v & 87255849) || (sYGD6 & 1991903031))
 switch (Hv4U2u3)
 {
 case 'a':
-f9poZK = ddNeq4TI(1670700657, mskWxcvYO);
+f9poZK = ddNeq4TI((unsigned short)1670700657, mskWxcvYO);
 break;
 case 'b':
 f9poZK = ddNeq4TI((unsigned short)466472981, I10o);
@@ -244,7 +244,7 @@ case 'g':
 f9poZK = ddNeq4TI(Hv4U2u3, NKr_Tk7m);
 break;
 case 'h':
-Oosw34Ryb1 = ddNeq4TI(-1259034755, -238142376);
+Oosw34Ryb1 = ddNeq4TI((unsigned short)-1259034755, -238142376);
 break;
 default:
 j25X6k_ = ddNeq4TI(t3w3X_jZ, -1117057542) & 937463897;
@@ -297,7 +297,7 @@ case 2:
 c9sz3z = (NKr_Tk7m <= W3MPH6M) ? J89VctH : i_0_X1LO4;
 break;
 case 3:
-sIsP = ddNeq4TI(-1902635760, J2yDLl_PJR);
+sIsP = ddNeq4TI((unsigned short)-1902635760, J2yDLl_PJR);
 break;
 case 4:
 dvQWerf |= 1798556934;
@@ -321,7 +321,7 @@ catch (int& errorCode)
 b94jH %= V14Y_WM3b;
 }
 
-std::cout << "CDg3wRVu" << ddNeq4TI(1911860154, -1392046597) << r6lVY7z << "qi7T" << std::endl;
+std::cout << "CDg3wRVu" << ddNeq4TI((unsigned short)1911860154, -1392046597) << r6lVY7z << "qi7T" << std::endl;
 if (bAle_czm9v >= 2134746705)
 {
 if (Nbnc3nJLt <= tY3Yx0qoq)
@@ -369,7 +369,7 @@ rz64S2b6 = sIsP ^ fVbi;
 break;
 case 'h':
 case 'H':
-P0zYx = ddNeq4TI(943073601, J2yDLl_PJR);
+P0zYx = ddNeq4TI((unsigned short)943073601, J2yDLl_PJR);
 break;
 default:
 Kkmu = V14Y_WM3b % E7EdcSt8p;

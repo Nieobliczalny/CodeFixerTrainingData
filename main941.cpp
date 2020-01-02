@@ -39,7 +39,7 @@ int main(int argc, char** argv)
 
 if (uIiei >= 943715538)
 {
-cout << ICCo << e_O5u0w(Ut5YH8, ICCo, uIiei, -401800525) << endl;
+cout << ICCo << e_O5u0w(Ut5YH8, ICCo, uIiei, (unsigned short)-401800525) << endl;
 }
 
 switch (BNm4_s)
@@ -218,7 +218,7 @@ case 2:
 L4jV1 = ICCo - EwkPa_p7A;
 break;
 case 3:
-BNm4_s = e_O5u0w(qkk7q, 478649196, 1884954717, -191856475);
+BNm4_s = e_O5u0w(qkk7q, 478649196, 1884954717, (unsigned short)-191856475);
 break;
 case 4:
 BNm4_s = e_O5u0w(x9BZf63, BNm4_s, yr89gWy3n, (unsigned short)-1708480909);

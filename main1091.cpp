@@ -18,7 +18,7 @@ long long Z59cAi78(unsigned int T6Q94Qsu5) {
 
 char Q51tlDa(unsigned int p5I23,unsigned int vGBS0qz,unsigned char oxo_o4v0Y5,unsigned int LiKjk4)
 {
- return 1613804788;
+ return (char)1613804788;
 }
 
 int main()
@@ -56,7 +56,7 @@ case 8:
 D0JT0gz0 = Z59cAi78(YYmqan);
 break;
 case 9:
-WyJ1i6z = Q51tlDa(WyJ1i6z, C_b6LWZ, 1378880023, -606644507);
+WyJ1i6z = Q51tlDa(WyJ1i6z, C_b6LWZ, (unsigned char)1378880023, -606644507);
 break;
 default:
 D0JT0gz0 = Z59cAi78(CRp5fksg);
@@ -178,7 +178,7 @@ else if (knPawyoAl > WYddobFX)
 switch (D0JT0gz0)
 {
 case 'a':
-WYddobFX = (E526N) ? Q51tlDa(-224909243, YYmqan, 355131574, D0JT0gz0) : -900718400;
+WYddobFX = (E526N) ? Q51tlDa(-224909243, YYmqan, (unsigned char)355131574, D0JT0gz0) : -900718400;
 break;
 case 'b':
 O6O1 = (int)floor(p6aP);
@@ -230,7 +230,7 @@ D0JT0gz0 = Z59cAi78(e62f);
 }
 else if (D0JT0gz0 & -1707268493)
 {
-uZPH2X = Q51tlDa(-337701730, L3X_K, 1127146581, 864671959) & 1807131098;
+uZPH2X = Q51tlDa(-337701730, L3X_K, (unsigned char)1127146581, 864671959) & 1807131098;
 }
 else if (u5291_ == 713535568)
 {
@@ -274,7 +274,7 @@ case 1:
 HIzYl = (int)ceil(s78H8_aI50);
 break;
 case 2:
-W_7_iq_4 = Q51tlDa(W_7_iq_4, WYddobFX, 42524057, -1632991538);
+W_7_iq_4 = Q51tlDa(W_7_iq_4, WYddobFX, (unsigned char)42524057, -1632991538);
 break;
 case 3:
 C_b6LWZ = (int)ceil(tYkEG);
@@ -292,7 +292,7 @@ case 7:
 lr71n = D0JT0gz0 >> 31117760;
 break;
 case 8:
-p59Z = Q51tlDa(2076081555, 1500306355, 833008316, C_b6LWZ);
+p59Z = Q51tlDa(2076081555, 1500306355, (unsigned char)833008316, C_b6LWZ);
 break;
 default:
 YYmqan = (int)floor(vcjIXL9U);
@@ -344,7 +344,7 @@ for (int j = 6; j >= 0; --j)
 {
 if ((CRp5fksg < 1722332698) && (YYmqan < -708614478))
 {
-E526N = Q51tlDa(852680089, -1090304076, 1896469876, Fgi48N);
+E526N = Q51tlDa(852680089, -1090304076, (unsigned char)1896469876, Fgi48N);
 }
 else if (knPawyoAl)
 {
@@ -509,7 +509,7 @@ int j = 0;
 while (j < 3)
 {
 j++;
-HIzYl = Q51tlDa(HIzYl, 1030445894, 1723239171, 1385318950);
+HIzYl = Q51tlDa(HIzYl, 1030445894, (unsigned char)1723239171, 1385318950);
 }
 }
 }

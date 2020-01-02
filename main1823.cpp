@@ -38,7 +38,7 @@ while (j >= 0)
 {
 try
 {
-T6h9fDl = P3PByj5N0F(471908102, T6h9fDl, VZLNqX, 1648995649, F1r9n);
+T6h9fDl = P3PByj5N0F((unsigned short)471908102, T6h9fDl, VZLNqX, 1648995649, F1r9n);
 }
 catch (int& errorCode)
 {
@@ -60,7 +60,7 @@ int k = 0;
 do
 {
 ++k;
-uzz38DZE9 = (TIkwGnNr == v5H1c_Ssf) ? P3PByj5N0F(-1052050506, (char)517419528, -1192563126, -1918606717, F1r9n) : KSpF4CvU;
+uzz38DZE9 = (TIkwGnNr == v5H1c_Ssf) ? P3PByj5N0F((unsigned short)-1052050506, (char)517419528, -1192563126, -1918606717, F1r9n) : KSpF4CvU;
 }
 while (k < 7);
 }
@@ -108,7 +108,7 @@ KF6n1Q = (unsigned long)(uzz38DZE9);
 }
 else
 {
-std::cout << P3PByj5N0F(1824216281, ix7M54d, Ncw8Mj_8, R57Xj1XC, ZD4g) << sGnX4H6((unsigned char)-130766998) << "gGKH" << std::endl;
+std::cout << P3PByj5N0F((unsigned short)1824216281, ix7M54d, Ncw8Mj_8, R57Xj1XC, ZD4g) << sGnX4H6((unsigned char)-130766998) << "gGKH" << std::endl;
 }
 }
 else
@@ -136,7 +136,7 @@ L6VRp = uzz38DZE9 / UU2z66x;
 }
 else
 {
-KF6n1Q = P3PByj5N0F(Ncw8Mj_8, 1529975687, -270333599, -1148857172, ZD4g) ^ 1074545786;
+KF6n1Q = P3PByj5N0F(Ncw8Mj_8, (char)1529975687, -270333599, -1148857172, ZD4g) ^ 1074545786;
 }
 }
 }

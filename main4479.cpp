@@ -22,7 +22,7 @@ int main() {
   float  e49kA_  =  1094310054;
     long long    tQPCS    =    -892655875;
  int EQYoO0W1 = -1309580189;
-  short int  yrbd6K0  =  -1439893288;
+  short int  yrbd6K0  =  (short)-1439893288;
 	short int	V3cR	=	(short)2078753187;
 	unsigned long	ZrFIHt58j	=	915850896;
  unsigned long AYG5sj = 370731779;
@@ -34,7 +34,7 @@ int main() {
  long sP750 = 1417506466;
   int  nsL4oCmN  =  -441762951;
   unsigned char  YE5l0  =  0;
-	unsigned short int	BrR5	=	1239537783;
+	unsigned short int	BrR5	=	(unsigned short)1239537783;
 	long	xcnJ	=	-50064747;
     long long    m__8A1d    =    1616697728;
   unsigned char  p7571zs  =  (unsigned char)-1498164276;
@@ -76,7 +76,7 @@ if (mhHDccu >= SsJ9vm7db)
 {
 try
 {
-cout << "WH3EDK5R" << "c_C6Bp1Y" << shm0RK6t(-1706719704, 530511516) << C259GQX17z << endl;
+cout << "WH3EDK5R" << "c_C6Bp1Y" << shm0RK6t(-1706719704, (unsigned char)530511516) << C259GQX17z << endl;
 }
 catch (int& errorCode)
 {
@@ -89,7 +89,7 @@ if (xcnJ != SsJ9vm7db)
 mhHDccu = UY_K6 - R43R;
 }
 
-cout << "n53pzssL" << shm0RK6t(-1764861960, -491565096) << "wF493WMh" << endl;
+cout << "n53pzssL" << shm0RK6t(-1764861960, (unsigned char)-491565096) << "wF493WMh" << endl;
 for (int i = 4; i >= 0; --i)
 {
 for (int j = 0; j < 2; j++)
@@ -105,7 +105,7 @@ m__65 = (int)ceil(F68Q);
 k80G7I5_ = mX0r3e093 / Y90h2k8VpV;
 
 EQYoO0W1 = (int)(mhHDccu);
-YE5l0 = shm0RK6t(1247188949, -1841616021);
+YE5l0 = shm0RK6t(1247188949, (unsigned char)-1841616021);
 
 V3cR = (short int)(p7571zs);
 

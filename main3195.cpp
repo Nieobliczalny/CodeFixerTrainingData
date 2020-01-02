@@ -9,7 +9,7 @@
 using namespace std;
 
 short int lLoQ9o8d() {
- return -833088891;
+ return (short)-833088891;
 }
 
 unsigned char  N_gXOBxb3(unsigned short  h9KxiS697,unsigned short  FxaKPW,unsigned char  jjkEK76u,unsigned long long  zp9m,short  mJWfAUa1)
@@ -22,7 +22,7 @@ unsigned short  b_r8AMNk_(unsigned long  X8K9O86h,unsigned char  JJ94,short int 
 }
 
 int main(int argc, char** argv) {
-	char	d48SuYv	=	1172833072;
+	char	d48SuYv	=	(char)1172833072;
  unsigned long lJclAgR64 = 832226369;
     short    RJABgfq    =    0;
     unsigned char    CD4D6N0hjK    =    0;
@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
     unsigned long long    KHqc3z    =    759246289;
   unsigned short int  eLSRzEU  =  -1432464757;
 	short int	sX7CD	=	1472649353;
-	short int	p4D6	=	1222423342;
+	short int	p4D6	=	(short)1222423342;
   unsigned short  mOUw4UwJ  =  -612885801;
     unsigned int    M0i0a    =    -272561884;
     char    Kbq9zzA3    =    2021736471;
@@ -43,7 +43,7 @@ int main(int argc, char** argv) {
     unsigned int    zU8d1xvj97    =    -1004528065;
   unsigned short  h7aAr  =  911976649;
 	double	tVhTnh05I	=	1279734549;
-    char    t1oID    =    898441082;
+    char    t1oID    =    (char)898441082;
  char IIu5162jM = -1033845968;
   float  Kuh5s  =  -606909864;
   long long  cGb7pM  =  257649385;
@@ -55,7 +55,7 @@ int main(int argc, char** argv) {
 	unsigned short int	wcyu_Nj_8	=	-1565595199;
  long double KfviA0 = 422612435;
 	long	U87FEr_Zh	=	-1260494455;
- short int A5jEpV = 1677962849;
+ short int A5jEpV = (short)1677962849;
     int    rx69Dq7PM_    =    1735578111;
 
 {
@@ -65,7 +65,7 @@ do
 i++;
 if (jCk_u3XHr_ < gFru80_)
 {
-std::cout << "N2Gjf" << N_gXOBxb3(mOUw4UwJ, eLSRzEU, Kbq9zzA3, 51466769, -583194052) << std::endl;
+std::cout << "N2Gjf" << N_gXOBxb3(mOUw4UwJ, eLSRzEU, Kbq9zzA3, 51466769, (short)-583194052) << std::endl;
 }
 }
 while (i < 10);
@@ -85,7 +85,7 @@ while (i >= 0);
 }
 
 Kuh5s = sX7CD << cGb7pM;
-t1oID = p4D6 / b_r8AMNk_(rx69Dq7PM_, 446605947, h7aAr, XtVH);
+t1oID = p4D6 / b_r8AMNk_(rx69Dq7PM_, (unsigned char)446605947, h7aAr, XtVH);
 if (CW1_ <= -1226396933)
 {
 {
@@ -191,7 +191,7 @@ while (j >= 0);
 }
 else
 {
-IIu5162jM = N_gXOBxb3(IIu5162jM, 735757046, (unsigned char)-625696826, KfviA0, -858875840);
+IIu5162jM = N_gXOBxb3(IIu5162jM, (unsigned short)735757046, (unsigned char)-625696826, KfviA0, -858875840);
 }
 return 0;
 }

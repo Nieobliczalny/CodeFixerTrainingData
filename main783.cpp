@@ -44,7 +44,7 @@ te3c_aZ |= s2wxFYkT;
 }
 else
 {
-BuFZb8QD9O = V_AQ(yIHlRt, -2131478306, (unsigned char)2040752807, 571658506);
+BuFZb8QD9O = V_AQ(yIHlRt, (short)-2131478306, (unsigned char)2040752807, 571658506);
 }
 }
 else if (S_9_MpIWpJ >= uxX_3)
@@ -55,7 +55,7 @@ else if (BuFZb8QD9O == -1562633974)
 {
 if (KgskeB63 <= 78404603)
 {
-nTDQmM = V_AQ(Q1PNX, -1178789356, lWAsNj4, IrU_dnn);
+nTDQmM = V_AQ(Q1PNX, (short)-1178789356, lWAsNj4, IrU_dnn);
 }
 }
 else if (Nzh55BE13)
@@ -66,7 +66,7 @@ lWAsNj4 = BuFZb8QD9O + h5Ag1Gh;
 }
 else if (lWAsNj4)
 {
-BuFZb8QD9O = V_AQ(-127436889, -69537088, (unsigned char)-1356937689, hJqJvtr_vD);
+BuFZb8QD9O = V_AQ(-127436889, (short)-69537088, (unsigned char)-1356937689, hJqJvtr_vD);
 }
 else if (N76gK2z_34 <= GWzQI38)
 {
@@ -82,7 +82,7 @@ else
 switch (s2wxFYkT)
 {
 case 0:
-nTDQmM = V_AQ(Z7Ra, 743727475, nTDQmM, (unsigned short)1971290839);
+nTDQmM = V_AQ(Z7Ra, (short)743727475, nTDQmM, (unsigned short)1971290839);
 break;
 case 1:
 BuFZb8QD9O = V_AQ(Aw6593, -1009782560, M186O4T5m0, S_9_MpIWpJ);
@@ -94,7 +94,7 @@ case 3:
 DdUp22s_nF *= R8V7762;
 break;
 case 4:
-nTDQmM = V_AQ(1260864704, Nzh55BE13, 1289523040, (unsigned short)519980394);
+nTDQmM = V_AQ(1260864704, Nzh55BE13, (unsigned char)1289523040, (unsigned short)519980394);
 break;
 case 5:
 BuFZb8QD9O = V_AQ(-1608606417, U_d3v, -535346485, 1317596204);
@@ -108,7 +108,7 @@ break;
 switch (W7WX6)
 {
 case 'a':
-nTDQmM = V_AQ(1314954671, -1133061313, (unsigned char)1004478401, -1469295874);
+nTDQmM = V_AQ(1314954671, (short)-1133061313, (unsigned char)1004478401, -1469295874);
 break;
 case 'b':
 nTDQmM = V_AQ(-2029206957, -2010575307, GPi563, Y0RXP);
@@ -120,7 +120,7 @@ case 'd':
 wPzV20 = X7D_6 / 1049047552;
 break;
 case 'e':
-BuFZb8QD9O = V_AQ(1595510141, -906161107, (unsigned char)584390808, Z7Ra);
+BuFZb8QD9O = V_AQ(1595510141, (short)-906161107, (unsigned char)584390808, Z7Ra);
 break;
 }
 
@@ -136,7 +136,7 @@ if ((nTDQmM > 1622863712) || (ah4U_qfZ5 > -1556244714))
 {
 if (U_d3v <= R8V7762)
 {
-Wrjp1_ = V_AQ(K642, mXhO, fdM_97l, 6575455) + zWgJ_joXtS;
+Wrjp1_ = V_AQ(K642, mXhO, fdM_97l, (unsigned short)6575455) + zWgJ_joXtS;
 }
 }
 }
@@ -162,7 +162,7 @@ try
 {
 try
 {
-nTDQmM = V_AQ(IrU_dnn, -1768614249, wPzV20, MHF2S3b);
+nTDQmM = V_AQ(IrU_dnn, (short)-1768614249, wPzV20, MHF2S3b);
 }
 catch (int& errorCode)
 {
@@ -185,7 +185,7 @@ nTDQmM = V_AQ(-1938799810, NBDaHV65b_, 583439462, nTDQmM);
 }
 try
 {
-E8aB5m0 = V_AQ(N76gK2z_34, -1148952091, (unsigned char)1627547235, nTDQmM) + 1441204960;
+E8aB5m0 = V_AQ(N76gK2z_34, (short)-1148952091, (unsigned char)1627547235, nTDQmM) + 1441204960;
 }
 catch (int& errorCode)
 {
@@ -200,7 +200,7 @@ if (sSg_2 > 435461440)
 {
 if (X7D_6 != -89590228)
 {
-BuFZb8QD9O = V_AQ(-1394760979, 2012261927, (unsigned char)-1404594946, wPzV20);
+BuFZb8QD9O = V_AQ(-1394760979, (short)2012261927, (unsigned char)-1404594946, wPzV20);
 }
 else
 {
@@ -245,7 +245,7 @@ if (IrU_dnn >= 183694941)
 {
 if ((Y0RXP) || (NGvexkC_25 & yIHlRt))
 {
-BuFZb8QD9O = V_AQ(RZZCl02H, -1572197451, (unsigned char)1221334094, fdM_97l);
+BuFZb8QD9O = V_AQ(RZZCl02H, (short)-1572197451, (unsigned char)1221334094, fdM_97l);
 }
 }
 else
@@ -278,7 +278,7 @@ c2t_ ^= 1134959676;
 while (i < 6);
 }
 
-std::cout << V_AQ(RZZCl02H, W4eOs6i, 70875643, (unsigned short)769152421) << std::endl;
+std::cout << V_AQ(RZZCl02H, W4eOs6i, (unsigned char)70875643, (unsigned short)769152421) << std::endl;
 
 if ((ah4U_qfZ5 < -306870891) || ((E8aB5m0) && (IrU_dnn == wPzV20)))
 {
@@ -289,7 +289,7 @@ std::cout << "j_UP0aB2" << "Vd4aIrmq" << std::endl;
 switch (Wrjp1_)
 {
 case 'a':
-BuFZb8QD9O = V_AQ(BuFZb8QD9O, -2601439, MHF2S3b, (unsigned short)109026159);
+BuFZb8QD9O = V_AQ(BuFZb8QD9O, (short)-2601439, MHF2S3b, (unsigned short)109026159);
 break;
 case 'b':
 Q1PNX = (G67keC7bE >= -1085569217) ? -908036351 : 415655382;
@@ -308,7 +308,7 @@ switch (hJqJvtr_vD)
 {
 case 'a':
 case 'A':
-BuFZb8QD9O = V_AQ(2123193386, 1158934144, z10N9mD_X, (unsigned short)1164233540);
+BuFZb8QD9O = V_AQ(2123193386, (short)1158934144, z10N9mD_X, (unsigned short)1164233540);
 break;
 case 'b':
 case 'B':

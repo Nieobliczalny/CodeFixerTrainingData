@@ -104,7 +104,7 @@ d4h5GMIP = qBoNpuRR(-1268630438, 1285747277);
 break;
 case 'f':
 case 'F':
-Us5InJo = OPbV88Zl(-1677794540);
+Us5InJo = OPbV88Zl((short)-1677794540);
 break;
 default:
 M820h_lWQW = (int)abs(d4h5GMIP);
@@ -180,7 +180,7 @@ e29aB1zr = S124xtZ2K * 1824002181;
 
 try
 {
-vAg05 = ouIu2AAa2G(-1884536541);
+vAg05 = ouIu2AAa2G((unsigned short)-1884536541);
 }
 catch (int& errorCode)
 {
@@ -205,7 +205,7 @@ if ((S124xtZ2K > -1090715827) || (pxTp9q593 < CE9L20U))
 int j = 0;
 while (j < 10)
 {
-pxTp9q593 = ouIu2AAa2G(695721776);
+pxTp9q593 = ouIu2AAa2G((unsigned short)695721776);
 j++;
 }
 }
@@ -280,7 +280,7 @@ return 0;
 }
 
 short int	qBoNpuRR(int	gkm2,unsigned int	Ke3KP)	{
-	return	346708445;
+	return	(short)346708445;
 }
 
 long  ouIu2AAa2G(unsigned short int  ZHJU)

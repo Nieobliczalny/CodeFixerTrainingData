@@ -23,7 +23,7 @@ long    b7iKu3_L(unsigned char    AJk7);
 int main(int argc, char** argv)
 {
 	unsigned char	cnpOqc;
-	cnpOqc	=	2026670420;
+	cnpOqc	=	(unsigned char)2026670420;
     unsigned short    QhAi;
     QhAi    =    (unsigned short)-1531760540;
  unsigned long long NgXv_O6;
@@ -35,7 +35,7 @@ int main(int argc, char** argv)
   unsigned long  Pn2S78Y;
   Pn2S78Y  =  2141825714;
     char    yrt_F;
-    yrt_F    =    1451840416;
+    yrt_F    =    (char)1451840416;
     unsigned long    M8H1;
     M8H1    =    513727504;
   long double  QKFKB4cuPG;
@@ -55,7 +55,7 @@ int main(int argc, char** argv)
     int    rmv8C1O9J;
     rmv8C1O9J    =    1133707539;
     unsigned short    X0CL_8l263;
-    X0CL_8l263    =    -1760138209;
+    X0CL_8l263    =    (unsigned short)-1760138209;
   long  LVFd9LbjwV;
   LVFd9LbjwV  =  1196780506;
     long double    PE10I4h;
@@ -65,7 +65,7 @@ int main(int argc, char** argv)
     unsigned int    tI0peZdd;
     tI0peZdd    =    1018120512;
   short  RwrFQ8;
-  RwrFQ8  =  380881286;
+  RwrFQ8  =  (short)380881286;
 	short	J4fed4c;
 	J4fed4c	=	(short)-760740942;
 	unsigned long	kf4Y4IBeVH;
@@ -83,7 +83,7 @@ int main(int argc, char** argv)
 	long	o9D5;
 	o9D5	=	1458927472;
  short IU8aRm;
- IU8aRm = -625728086;
+ IU8aRm = (short)-625728086;
     float    Q24688T13f;
     Q24688T13f    =    -1314317861;
 	char	e9aE;
@@ -93,7 +93,7 @@ int main(int argc, char** argv)
   long long  IpqV8w9;
   IpqV8w9  =  376624892;
     unsigned short int    IY1S_qeTbQ;
-    IY1S_qeTbQ    =    -720321826;
+    IY1S_qeTbQ    =    (unsigned short)-720321826;
     short    r5E4S5Hm;
     r5E4S5Hm    =    50002381;
 	long long	l7zyHDI1r;
@@ -105,7 +105,7 @@ int main(int argc, char** argv)
   int  aQ2Pm;
   aQ2Pm  =  0;
 	unsigned char	lDvQ0O64S7;
-	lDvQ0O64S7	=	392413144;
+	lDvQ0O64S7	=	(unsigned char)392413144;
  float oPv6C3FVCC;
  oPv6C3FVCC = -1209575469;
  long yx3_;
@@ -117,7 +117,7 @@ int main(int argc, char** argv)
   long long  tq3Wl;
   tq3Wl  =  -880227609;
     short    eA60_o;
-    eA60_o    =    463644623;
+    eA60_o    =    (short)463644623;
  long Ag874MM;
  Ag874MM = 1753498771;
   unsigned short int  BLG2RAw;
@@ -132,7 +132,7 @@ int main(int argc, char** argv)
  wGAnQ6 = 1574664686;
 
 r5E4S5Hm = b7iKu3_L(r5E4S5Hm);
-Q24688T13f = b7iKu3_L(1262961746);
+Q24688T13f = b7iKu3_L((unsigned char)1262961746);
 
 {
 int i = 0;
@@ -149,7 +149,7 @@ int i = 0;
 do
 {
 i++;
-QhAi = PmIyto(2091154445, (unsigned short)2094137813);
+QhAi = PmIyto((short)2091154445, (unsigned short)2094137813);
 }
 while (i < 10);
 }
@@ -160,7 +160,7 @@ try
 switch (n_E9T29)
 {
 case 0:
-cnpOqc = nG5y8B4(-214723884, 1555467049, e9aE, IU8aRm, tq3Wl);
+cnpOqc = nG5y8B4(-214723884, (unsigned char)1555467049, e9aE, IU8aRm, tq3Wl);
 break;
 case 1:
 QKFKB4cuPG = (int)floor(r8lnlra);
@@ -178,7 +178,7 @@ case 5:
 l7zyHDI1r = NgXv_O6 & 1211152048;
 break;
 default:
-l7zyHDI1r = PmIyto(-575857801, oPv6C3FVCC);
+l7zyHDI1r = PmIyto((short)-575857801, oPv6C3FVCC);
 break;
 }
 }
@@ -192,7 +192,7 @@ catch (int& errorCode)
 r5E4S5Hm = (int)abs(Ag874MM);
 }
 
-cout << nG5y8B4(l7zyHDI1r, 1884012218, -1942273361, I29vKtXb1U, X0CL_8l263) << l7zyHDI1r << aQ2Pm << PmIyto((short)-46034147, -1527302626) << endl;
+cout << nG5y8B4(l7zyHDI1r, (unsigned char)1884012218, -1942273361, I29vKtXb1U, X0CL_8l263) << l7zyHDI1r << aQ2Pm << PmIyto((short)-46034147, -1527302626) << endl;
 
 IpqV8w9 = b7iKu3_L(IpqV8w9);
 e3KZsh8s5g = (long)(v0fmJ_kUAb);
@@ -215,7 +215,7 @@ for (int j = 4; j >= 0; j--)
 {
 try
 {
-LVFd9LbjwV = PmIyto(-2037902245, (unsigned short)-876353314);
+LVFd9LbjwV = PmIyto((short)-2037902245, (unsigned short)-876353314);
 }
 catch (int& errorCode)
 {
@@ -250,7 +250,7 @@ if (o9D5)
 {
 try
 {
-M8H1 = PmIyto(M8H1, 1514240837);
+M8H1 = PmIyto(M8H1, (unsigned short)1514240837);
 }
 catch (int& errorCode)
 {
@@ -279,7 +279,7 @@ else
 {
 try
 {
-c6862 = Xa1E92ctxL(334025687, PE10I4h, 1209234308);
+c6862 = Xa1E92ctxL((unsigned short)334025687, PE10I4h, 1209234308);
 }
 catch (int& errorCode)
 {
@@ -289,7 +289,7 @@ rmu8fLq7J = (int)floor(nGw1wz1);
 
 for (int i = 0; i < 4; ++i)
 {
-c6862 = Xa1E92ctxL(1943737142, r8lnlra, v0fmJ_kUAb);
+c6862 = Xa1E92ctxL((unsigned short)1943737142, r8lnlra, v0fmJ_kUAb);
 }
 return 0;
 }

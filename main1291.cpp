@@ -10,7 +10,7 @@ using namespace std;
 
 int main(void) {
   unsigned long  NW37rTa42  =  192743914;
-    unsigned short int    RB_3Zq    =    -505378904;
+    unsigned short int    RB_3Zq    =    (unsigned short)-505378904;
   int  L40I1f  =  -756708932;
  unsigned long Ow_ipDewd7 = 1886480848;
   long long  NA528C75yO  =  -647069706;
@@ -20,7 +20,7 @@ int main(void) {
     unsigned short    W3K3sQAdD    =    -1017057633;
   unsigned short  RmQ4G6  =  21132033;
     unsigned short    rx76jjA98    =    0;
-	short int	j6i0	=	31011900;
+	short int	j6i0	=	(short)31011900;
  unsigned int y8J6j = 1709260833;
     short    pJ5y4YR    =    -1361371134;
   unsigned char  v_Xo9x  =  0;
@@ -31,7 +31,7 @@ int main(void) {
   unsigned char  cO2ZE9Zv  =  (unsigned char)-1387126273;
   unsigned char  bFG4  =  -925087364;
   short int  G2TQ22I  =  0;
- short DDgzb = -1861248877;
+ short DDgzb = (short)-1861248877;
 	unsigned short int	YIC0	=	290785677;
 	unsigned long	Kmd870nS	=	938380249;
 	long	LYoWkgpWz	=	437355023;
@@ -43,7 +43,7 @@ int main(void) {
     unsigned char    AS4bVB18    =    1461788089;
     long    vbOw62    =    0;
 	int	l4tM1AwT	=	-827715928;
-  char  Z7Z4H67Rc  =  1701882848;
+  char  Z7Z4H67Rc  =  (char)1701882848;
 
 G2TQ22I = (short int)(RB_3Zq * G2TQ22I);
 
@@ -111,7 +111,7 @@ RGc02J3_ = (int)floor(cm8jL0EQ20);
 }
 else if (j6i0 >= vKPj)
 {
-G8_3R1_z55 = (rx76jjA98 == 1111350656) ? 1626544441 : cO2ZE9Zv;
+G8_3R1_z55 = (rx76jjA98 == 1111350656) ? (short)1626544441 : cO2ZE9Zv;
 }
 else if ((vKPj <= 719184326) || ((DDgzb) && (xkzY0bh)))
 {

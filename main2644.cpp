@@ -282,7 +282,7 @@ QKO3972B5 = QeC380 / YW3Jd;
 switch (Hw73pR7ZeX)
 {
 case 0:
-a968a_4 = (V1xI7E4Gw != nPN44) ? 950140581 : q__k3(dktT, LrP1f_419Q);
+a968a_4 = (V1xI7E4Gw != nPN44) ? (unsigned short)950140581 : q__k3(dktT, LrP1f_419Q);
 break;
 }
 if (Yq1m_x_t == m5pP4dWJ)
@@ -307,7 +307,7 @@ break;
 }
 else if (hze81_R_P >= 393622029)
 {
-p1xiJwpW = (a968a_4 > 489911107) ? EpNgBR4I : -151294953;
+p1xiJwpW = (a968a_4 > 489911107) ? EpNgBR4I : (unsigned short)-151294953;
 }
 else
 {

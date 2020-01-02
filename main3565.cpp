@@ -23,7 +23,7 @@ int main()
 
 if ((IO98d / LWgfb4h9) > 353753897)
 {
-if ((D9qX5h(hEV7JZe1, -1951442000) / LWgfb4h9) > 429137171)
+if ((D9qX5h(hEV7JZe1, (short)-1951442000) / LWgfb4h9) > 429137171)
 {
 y5NM = (int)abs(P_42);
 }
@@ -40,7 +40,7 @@ while (i >= 0);
 
 cout << KkEj << yP8w << D9qX5h(hEV7JZe1, HLOmoW38) << endl;
 
-LWgfb4h9 = D9qX5h(-501324769, (short)1816876232);
+LWgfb4h9 = D9qX5h((unsigned short)-501324769, (short)1816876232);
 switch (LWgfb4h9)
 {
 case 'a':
@@ -71,7 +71,7 @@ uPTzUfVVL4 = P5143u_wv9 | BugHkR63;
 }
 else
 {
-LWgfb4h9 = D9qX5h(-1738414593, fTWJ3102t0);
+LWgfb4h9 = D9qX5h((unsigned short)-1738414593, fTWJ3102t0);
 }
 }
 catch (int& errorCode)
@@ -84,7 +84,7 @@ while (i < 5);
 switch (OB4h)
 {
 case 0:
-LWgfb4h9 = D9qX5h(-1694970993, (short)-696466418);
+LWgfb4h9 = D9qX5h((unsigned short)-1694970993, (short)-696466418);
 break;
 case 1:
 p8VSB2 -= z_A0Mtdi0z;
@@ -99,7 +99,7 @@ case 4:
 yR0tq5ce = LEq9O >> 58825428;
 break;
 case 5:
-LWgfb4h9 = D9qX5h(C25t9VWe, 1410165751);
+LWgfb4h9 = D9qX5h(C25t9VWe, (short)1410165751);
 break;
 case 6:
 dQ22U4S = Uoz4J & P5143u_wv9;
@@ -111,7 +111,7 @@ case 8:
 U9kS9 = (int)abs(wEEF);
 break;
 case 9:
-LWgfb4h9 = D9qX5h(cqL5rwVl, -675912875);
+LWgfb4h9 = D9qX5h(cqL5rwVl, (short)-675912875);
 break;
 default:
 LWgfb4h9 = D9qX5h(G4E381i7, -1797552045);
@@ -130,7 +130,7 @@ do
 ++j;
 if ((nN58j6n > 1639640235) && (Qssx5r))
 {
-fTWJ3102t0 = D9qX5h(2083251452, (short)178711275) + 1241304853;
+fTWJ3102t0 = D9qX5h((unsigned short)2083251452, (short)178711275) + 1241304853;
 }
 }
 while (j < 4);
@@ -141,7 +141,7 @@ else
 Pokus = (long)(BugHkR63);
 }
 
-LWgfb4h9 = D9qX5h(-1023835167, R6vz);
+LWgfb4h9 = D9qX5h((unsigned short)-1023835167, R6vz);
 
 switch (yR0tq5ce)
 {
@@ -152,7 +152,7 @@ case 'b':
 y5NM = Nn__mhARp ^ yP8w;
 break;
 case 'c':
-LWgfb4h9 = D9qX5h(-1517226688, y5NM);
+LWgfb4h9 = D9qX5h((unsigned short)-1517226688, y5NM);
 break;
 case 'd':
 LWgfb4h9 = D9qX5h(-1722369470, mm5y66ej3s);
@@ -167,7 +167,7 @@ case 'g':
 KkEj = (int)abs(T5hkuy);
 break;
 case 'h':
-LWgfb4h9 = D9qX5h(-1129644837, (short)-1951077582);
+LWgfb4h9 = D9qX5h((unsigned short)-1129644837, (short)-1951077582);
 break;
 default:
 mME3YE0jDS = BAEcN / iXV1DMa5W;
@@ -188,7 +188,7 @@ switch (R6vz)
 {
 case 'a':
 case 'A':
-LWgfb4h9 = D9qX5h(-231216127, (short)-2116795169);
+LWgfb4h9 = D9qX5h((unsigned short)-231216127, (short)-2116795169);
 break;
 case 'b':
 case 'B':
@@ -226,7 +226,7 @@ do
 switch (R6vz)
 {
 case 'a':
-LWgfb4h9 = D9qX5h(GFd_f_Dc, 213377072);
+LWgfb4h9 = D9qX5h(GFd_f_Dc, (short)213377072);
 break;
 case 'b':
 P5143u_wv9 = D9qX5h((unsigned short)-1737502406, C25t9VWe) >> iXV1DMa5W;
@@ -279,7 +279,7 @@ case 1:
 R6vz = (int)abs(K_lJddf9V);
 break;
 case 2:
-LWgfb4h9 = D9qX5h(p8VSB2, -756339986);
+LWgfb4h9 = D9qX5h(p8VSB2, (short)-756339986);
 break;
 case 3:
 G4E381i7 = D9qX5h((unsigned short)624468750, -1548982409) - BAEcN;
@@ -304,7 +304,7 @@ NE8z = (long)(BugHkR63);
 }
 else
 {
-cout << D9qX5h(-604001725, cqL5rwVl) << "m7GL91X_6g" << s7x3Y9ynr6 << endl;
+cout << D9qX5h((unsigned short)-604001725, cqL5rwVl) << "m7GL91X_6g" << s7x3Y9ynr6 << endl;
 }
 }
 else
@@ -325,7 +325,7 @@ LWgfb4h9 = D9qX5h(-1308247839, mME3YE0jDS);
 switch (EVYRQ36vk0)
 {
 case 0:
-LWgfb4h9 = D9qX5h(1296931041, (short)-805429183);
+LWgfb4h9 = D9qX5h((unsigned short)1296931041, (short)-805429183);
 break;
 case 1:
 m7SLNiLG = (int)abs(y5NM);
@@ -337,7 +337,7 @@ case 3:
 LWgfb4h9 = D9qX5h(-514766278, -165401703);
 break;
 case 4:
-LWgfb4h9 = D9qX5h(891338514, R6vz);
+LWgfb4h9 = D9qX5h((unsigned short)891338514, R6vz);
 break;
 case 5:
 LWgfb4h9 = D9qX5h((unsigned short)-442885574, mm5y66ej3s);
@@ -349,7 +349,7 @@ case 7:
 LWgfb4h9 = D9qX5h(-1692647126, 537910714);
 break;
 default:
-LWgfb4h9 = D9qX5h(-1089895847, vYd0T72);
+LWgfb4h9 = D9qX5h((unsigned short)-1089895847, vYd0T72);
 break;
 }
 P_42 = (int)abs(XMxe53bI);
@@ -362,7 +362,7 @@ EVYRQ36vk0 = (int)abs(u2LuwB);
 int i = 3;
 while (i >= 0)
 {
-LWgfb4h9 = D9qX5h(1273533010, (short)1420424400);
+LWgfb4h9 = D9qX5h((unsigned short)1273533010, (short)1420424400);
 i--;
 }
 }

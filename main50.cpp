@@ -15,7 +15,7 @@ using namespace std;
 
 short int  HO_OrG()
 {
-  return  109804014;
+  return  (short)109804014;
 }
 
 unsigned int rW8_t6(unsigned long long fnWAY46n)

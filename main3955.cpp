@@ -24,7 +24,7 @@ unsigned short int	QljR(long	VOCi27cY9J,unsigned short int	mO01787ibk,unsigned l
 int main(void)
 {
 	unsigned short int	x9_0yGkC;
-	x9_0yGkC	=	-772030716;
+	x9_0yGkC	=	(unsigned short)-772030716;
  unsigned short EI0ong6;
  EI0ong6 = (unsigned short)1713809011;
     long double    OdG9c_6g7s;
@@ -124,7 +124,7 @@ int k = 0;
 do
 {
 k++;
-kFuc = QljR(Lc8SxB, -1301289930, W2ac8wsu5);
+kFuc = QljR(Lc8SxB, (unsigned short)-1301289930, W2ac8wsu5);
 }
 while (k < 2);
 }
@@ -139,7 +139,7 @@ else
 switch (a2zASF5L)
 {
 case 'a':
-EI0ong6 = (x9_0yGkC > -1098337898) ? x9_0yGkC : 1149927555;
+EI0ong6 = (x9_0yGkC > -1098337898) ? x9_0yGkC : (unsigned short)1149927555;
 break;
 case 'b':
 Lc8SxB = Cu_NKa5(kFuc);
@@ -194,7 +194,7 @@ else if (OdG9c_6g7s >= x9_0yGkC)
 {
 if ((Lc8SxB == 121382115) || (Gbfmf == -1631155883))
 {
-kFuc = QljR(Gbfmf, 823901795, -102634521);
+kFuc = QljR(Gbfmf, (unsigned short)823901795, -102634521);
 }
 else
 {
@@ -233,7 +233,7 @@ a2zASF5L = (long long)(EI0ong6);
 switch (x9_0yGkC)
 {
 case 'a':
-kFuc = QljR(W2ac8wsu5, 156007008, Lc8SxB);
+kFuc = QljR(W2ac8wsu5, (unsigned short)156007008, Lc8SxB);
 break;
 case 'b':
 NoTs8 = W2ac8wsu5 | a2zASF5L;
@@ -245,7 +245,7 @@ case 'd':
 W2ac8wsu5 -= kFuc;
 break;
 case 'e':
-W2ac8wsu5 = Cu_NKa5(-169362398);
+W2ac8wsu5 = Cu_NKa5((unsigned short)-169362398);
 break;
 default:
 EI0ong6 = Cu_NKa5((unsigned short)675238848);
@@ -289,7 +289,7 @@ OdG9c_6g7s = (long double)(KI0GjB6V3);
 i--;
 }
 }
-NoTs8 = Cu_NKa5(1078020326);
+NoTs8 = Cu_NKa5((unsigned short)1078020326);
 
 {
 int i = 5;
@@ -301,7 +301,7 @@ switch (a2zASF5L)
 {
 case 'a':
 case 'A':
-kFuc = QljR(2125718769, 142315284, 676664720);
+kFuc = QljR(2125718769, (unsigned short)142315284, 676664720);
 break;
 case 'b':
 case 'B':
@@ -313,7 +313,7 @@ OdG9c_6g7s = (int)ceil(Gbfmf);
 break;
 case 'd':
 case 'D':
-kFuc = QljR(Gbfmf, -1254072508, OdG9c_6g7s);
+kFuc = QljR(Gbfmf, (unsigned short)-1254072508, OdG9c_6g7s);
 break;
 default:
 Lc8SxB = a2zASF5L + KI0GjB6V3;
@@ -341,7 +341,7 @@ catch (int& errorCode)
 NoTs8 = (int)ceil(O5Z_am1);
 }
 
-x9_0yGkC = Cu_NKa5(1152438710);
+x9_0yGkC = Cu_NKa5((unsigned short)1152438710);
 
 x9_0yGkC = x9_0yGkC / QljR(1814033075, W2ac8wsu5, -1624609891);
 
@@ -365,7 +365,7 @@ else
 switch (kFuc)
 {
 case 0:
-a2zASF5L = Cu_NKa5(1260389155);
+a2zASF5L = Cu_NKa5((unsigned short)1260389155);
 break;
 case 1:
 NoTs8 = (int)ceil(Lc8SxB);
@@ -377,7 +377,7 @@ case 3:
 O5Z_am1 = (int)floor(OdG9c_6g7s);
 break;
 case 4:
-kFuc = QljR(1062787665, 191614165, -1657974412);
+kFuc = QljR(1062787665, (unsigned short)191614165, -1657974412);
 break;
 case 5:
 O5Z_am1 = (int)ceil(Lc8SxB);
@@ -455,7 +455,7 @@ NoTs8 = Cu_NKa5(-1328960936);
 }
 }
 
-std::cout << "un0jQ7599K" << OdG9c_6g7s << "YaC321P" << "U68MNYO" << Cu_NKa5(1646039410) << std::endl;
+std::cout << "un0jQ7599K" << OdG9c_6g7s << "YaC321P" << "U68MNYO" << Cu_NKa5((unsigned short)1646039410) << std::endl;
 W2ac8wsu5 = OdG9c_6g7s - 1940911294;
 O5Z_am1 = Cu_NKa5(O5Z_am1);
 OdG9c_6g7s = (long double)(Gbfmf);
@@ -465,7 +465,7 @@ switch (kFuc)
 {
 case 'a':
 case 'A':
-EI0ong6 = Cu_NKa5(1575761704);
+EI0ong6 = Cu_NKa5((unsigned short)1575761704);
 break;
 case 'b':
 case 'B':
@@ -544,7 +544,7 @@ O5Z_am1 = (int)floor(NoTs8);
 }
 else if (Lc8SxB >= -2081421947)
 {
-Gbfmf = Cu_NKa5(-1717543327);
+Gbfmf = Cu_NKa5((unsigned short)-1717543327);
 }
 else if (a2zASF5L & -383350672)
 {

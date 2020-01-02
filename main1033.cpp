@@ -13,7 +13,7 @@ using namespace std;
 int main() {
  unsigned long long Jco78oJY1 = 2061335904;
  float c713 = 664192196;
-	char	Pp5iZav2	=	-1423278364;
+	char	Pp5iZav2	=	(char)-1423278364;
  short int FOd0Tiz = (short)-1269412835;
 	short int	gIiG9	=	-1239327019;
     float    kWyr5    =    -1097125019;
@@ -23,7 +23,7 @@ int main() {
  long long eIaMmGq6z = 0;
 	long	lJRYmr8N3	=	-1739905638;
 	unsigned long	uUyQHfi	=	-641181750;
-	unsigned char	Iqn71	=	2026463630;
+	unsigned char	Iqn71	=	(unsigned char)2026463630;
     long    QUX6O87Z    =    473875070;
 	unsigned long long	T6Osdh2f	=	1635062082;
     int    BZeDNY4uxl    =    1034970471;

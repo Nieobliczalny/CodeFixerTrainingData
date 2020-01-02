@@ -20,7 +20,7 @@ int main(int argc, char** argv)
 {
  long double p9Fwl_931 = -477404136;
     float    rpF3AcI0f    =    311927883;
-    unsigned char    HR4e    =    789846944;
+    unsigned char    HR4e    =    (unsigned char)789846944;
     unsigned int    wFX5nVT4B_    =    0;
   unsigned short int  y1_R3i  =  (unsigned short)364622768;
     unsigned long long    tksTGU3ae    =    1619196113;
@@ -33,7 +33,7 @@ int main(int argc, char** argv)
     long double    Nkt_W4Dcz    =    -2096398956;
  long long EqR36F8z = -1965164469;
     long    iIUYiVMUP    =    560593082;
-    char    Zle4LI9DX5    =    1208336254;
+    char    Zle4LI9DX5    =    (char)1208336254;
   long  R80laVKr5x  =  -19392134;
 	char	ur6vuIrL	=	(char)-798073033;
   char  g_IzLYNNn  =  0;
@@ -43,7 +43,7 @@ int main(int argc, char** argv)
     unsigned short    QP8y5a0    =    -1481511001;
 	long long	i1J21q50H1	=	2005229069;
  long long P4R48PbWtP = 0;
-	unsigned short	O7XfJsP7	=	798638792;
+	unsigned short	O7XfJsP7	=	(unsigned short)798638792;
  unsigned long k4OE = -531998501;
   long long  sTG6qZX6R  =  -1073646244;
  long long zU_tLfUju = 745901826;
@@ -66,7 +66,7 @@ case 'b':
 zxN9F6117_ = QHcJp29_rs | y1_R3i;
 break;
 case 'c':
-P4R48PbWtP = D3In4sY2(1968161899, k4OE, 780163967);
+P4R48PbWtP = D3In4sY2(1968161899, k4OE, (short)780163967);
 break;
 case 'd':
 rpF3AcI0f = (int)ceil(p9Fwl_931);
@@ -99,7 +99,7 @@ catch (int& errorCode)
 {
 Nkt_W4Dcz = (int)floor(p9Fwl_931);
 }
-wFX5nVT4B_ = D3In4sY2(wFX5nVT4B_, C5e2w9, 796187718);
+wFX5nVT4B_ = D3In4sY2(wFX5nVT4B_, C5e2w9, (short)796187718);
 
 {
 int i = 6;
@@ -120,7 +120,7 @@ case 3:
 p9Fwl_931 = (int)abs(C5e2w9);
 break;
 case 4:
-Tk50476D25 = (p9Fwl_931 > 1356066942) ? 2039080582 : aCsMyas_;
+Tk50476D25 = (p9Fwl_931 > 1356066942) ? (short)2039080582 : aCsMyas_;
 break;
 default:
 P4R48PbWtP = D3In4sY2(O7XfJsP7, 1121623743, sTG6qZX6R);
@@ -145,7 +145,7 @@ prP0Nl = (int)ceil(rpF3AcI0f);
 break;
 case 'c':
 case 'C':
-iIUYiVMUP = U45Dn(1551764553, cA1_CN450, QHcJp29_rs, 2084476720);
+iIUYiVMUP = U45Dn((unsigned char)1551764553, cA1_CN450, QHcJp29_rs, 2084476720);
 break;
 default:
 iIUYiVMUP = h26Q << 2116861504;
@@ -177,7 +177,7 @@ i++;
 }
 while (i < 5);
 }
-O7XfJsP7 = U45Dn(O7XfJsP7, 1834524110, -1137693639, zU_tLfUju);
+O7XfJsP7 = U45Dn(O7XfJsP7, 1834524110, (short)-1137693639, zU_tLfUju);
 
 return 0;
 }

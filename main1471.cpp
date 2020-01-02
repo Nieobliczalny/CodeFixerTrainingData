@@ -131,7 +131,7 @@ try
 {
 if (d0bHzwd__k & WPBD4)
 {
-std::cout << l9o9F(889698308, nGpFIKT, 507237348) << uI9bS8() << LZE41u69UO(507595174, nGpFIKT) << nZ6QlJe << IgpQ2N9Hj6 << std::endl;
+std::cout << l9o9F(889698308, nGpFIKT, 507237348) << uI9bS8() << LZE41u69UO((unsigned short)507595174, nGpFIKT) << nZ6QlJe << IgpQ2N9Hj6 << std::endl;
 }
 }
 catch (int& errorCode)
@@ -164,7 +164,7 @@ case 4:
 BSv09J = (int)floor(k_803e1);
 break;
 case 5:
-aKCNJN5D_8 = f_FyX(-190961850);
+aKCNJN5D_8 = f_FyX((short)-190961850);
 break;
 case 6:
 ND4B_k = (int)abs(cGOeu);
@@ -258,7 +258,7 @@ kT700A5_ = k_2xQZ + k_2xQZ;
 break;
 case 'f':
 case 'F':
-b1ZEQI7CPe = LZE41u69UO(1670877333, (unsigned short)-494673378);
+b1ZEQI7CPe = LZE41u69UO((unsigned short)1670877333, (unsigned short)-494673378);
 break;
 }
 }
@@ -314,6 +314,6 @@ unsigned long long LZE41u69UO(unsigned short int E_3ytYZU,unsigned short int dw9
 
 unsigned char f_FyX(short i9HRi)
 {
- return -83412647;
+ return (unsigned char)-83412647;
 }
 

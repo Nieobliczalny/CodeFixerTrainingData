@@ -30,7 +30,7 @@ MH3OD48 = y2bYH6y756();
 }
 else
 {
-Eja00iv = z8PUIZj(781647041, NTygY, 708054378, o_sPs, 724769538);
+Eja00iv = z8PUIZj(781647041, NTygY, 708054378, o_sPs, (unsigned short)724769538);
 }
 {
 int i = 2;
@@ -63,7 +63,7 @@ int k = 0;
 do
 {
 k++;
-be9HX = Ml0UlW(1142622038, Zn4mWDA, t5ajJ2);
+be9HX = Ml0UlW((unsigned char)1142622038, Zn4mWDA, t5ajJ2);
 }
 while (k < 1);
 }
@@ -128,7 +128,7 @@ while (j < 4)
 ++j;
 try
 {
-Eja00iv = z8PUIZj(i1XZf_8, -549825440, aLQy3p7_7J, 1675212106, -1499026198);
+Eja00iv = z8PUIZj(i1XZf_8, -549825440, aLQy3p7_7J, 1675212106, (unsigned short)-1499026198);
 }
 catch (int& errorCode)
 {
@@ -146,7 +146,7 @@ catch (int& errorCode)
 {
 o_sPs = (int)ceil(f6iD2561f);
 }
-cout << "aoi8f" << Ml0UlW(i1XZf_8, 1175305775, aLQy3p7_7J) << IZQS(i1XZf_8, 1468547752, aLQy3p7_7J, rVIA8mVU, (unsigned short)207215079) << y2bYH6y756() << endl;
+cout << "aoi8f" << Ml0UlW(i1XZf_8, 1175305775, aLQy3p7_7J) << IZQS(i1XZf_8, (unsigned short)1468547752, aLQy3p7_7J, rVIA8mVU, (unsigned short)207215079) << y2bYH6y756() << endl;
 {
 int i = 8;
 while (i >= 0)
@@ -174,7 +174,7 @@ switch (Eja00iv)
 {
 case 'a':
 case 'A':
-Fp32kA = IZQS(Fp32kA, azk8l4iP6w, -1504979427, h8Qj0L3Nq, (unsigned short)-1425126667);
+Fp32kA = IZQS(Fp32kA, azk8l4iP6w, (unsigned char)-1504979427, h8Qj0L3Nq, (unsigned short)-1425126667);
 break;
 case 'b':
 case 'B':
@@ -213,7 +213,7 @@ case 'a':
 Ti1vd_c += 692802360;
 break;
 default:
-Eja00iv = z8PUIZj(-1415901166, 610458544, -266206224, jz8QZ3F, 1044174092);
+Eja00iv = z8PUIZj(-1415901166, 610458544, -266206224, jz8QZ3F, (unsigned short)1044174092);
 break;
 }
 
@@ -260,7 +260,7 @@ dNSM_ = w4V0xDH * p8KMWQ7;
 }
 else
 {
-B3930 = IZQS(1764991730, ps2b8_w, (unsigned char)-171621617, 490654658, -290676678);
+B3930 = IZQS((char)1764991730, ps2b8_w, (unsigned char)-171621617, 490654658, -290676678);
 }
 --j;
 }
@@ -309,7 +309,7 @@ return 0;
 }
 
 char IZQS(char ZZi936W,unsigned short int UYxovs219W,unsigned char I37qG7,long long K04El,unsigned short int aBgKe8x5) {
- return 607270990;
+ return (char)607270990;
 }
 
 unsigned short  y2bYH6y756()

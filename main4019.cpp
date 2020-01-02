@@ -17,7 +17,7 @@ int main(int argc, char** argv)
     long double    j7Wpi7H_    =    -1483207097;
  long gEu32PazH = -793903507;
 	long long	fcWhWmrg4b	=	-526869152;
-	unsigned short	FodQ	=	615505071;
+	unsigned short	FodQ	=	(unsigned short)615505071;
  float V4CaZpz = -2104286639;
   long double  Q38Q5X8_W  =  1565333798;
     long    oeiZCKgLIa    =    1646608862;
@@ -30,7 +30,7 @@ int main(int argc, char** argv)
 	unsigned long	q6_4g_fi	=	1745541212;
 	int	sM0kxKK	=	-1127348393;
     long    V471Z9    =    57125256;
-    unsigned char    xB3VO_572    =    1952683053;
+    unsigned char    xB3VO_572    =    (unsigned char)1952683053;
   float  eSW0  =  -302446479;
 	unsigned char	AedMNMv	=	(unsigned char)-1298991029;
   char  TUJw_NvU  =  -809270653;
@@ -42,7 +42,7 @@ int main(int argc, char** argv)
  unsigned short int klp0i = -1375405318;
     int    iq0mrJk8q    =    548402583;
  long double ueiQJ5A = -1675248318;
- unsigned short x7zzXC7xI = 1048468286;
+ unsigned short x7zzXC7xI = (unsigned short)1048468286;
  long double xmnn_DrmTp = -726686892;
  unsigned long U6SE492K = 0;
  unsigned int uD_7 = -2099948252;
@@ -52,7 +52,7 @@ int main(int argc, char** argv)
 	long double	n_qcsE	=	1068510027;
  unsigned short fnPc = 1868120641;
     unsigned long long    Pxxb8oX5b    =    1962834206;
- short AI1tw0D4 = 337660862;
+ short AI1tw0D4 = (short)337660862;
     short int    V4WJp82Nd6    =    -236366411;
     double    hw89PZ0n    =    1486228256;
 	double	tfSUwmHl	=	1917483734;
@@ -65,7 +65,7 @@ int main(int argc, char** argv)
 	int	KwDNoR	=	21763440;
   double  AjXnA  =  -1705741957;
 	unsigned char	C_sb	=	0;
-	char	G090Owd_Qx	=	-1907939528;
+	char	G090Owd_Qx	=	(char)-1907939528;
   float  tUhxixYj  =  -1654681833;
 	unsigned int	q9wor0b	=	-270295472;
  float RioDXjlc5 = -186254231;
@@ -75,7 +75,7 @@ int main(int argc, char** argv)
     long    N9eP45A    =    1448086139;
 	int	R_H4Gv6	=	1499812382;
 	unsigned short	EBH_6W3_W	=	0;
-	short	Jf37	=	-1279976499;
+	short	Jf37	=	(short)-1279976499;
     short int    zj3kXjQ    =    -463795738;
  unsigned char nh5R = 232529629;
     short    sei51u    =    -1282253017;
@@ -141,7 +141,7 @@ case 0:
 ZAm6W_ = Cex23(RioDXjlc5, -2026324163);
 break;
 case 1:
-C_sb = Cex23(813252961, 1505643991);
+C_sb = Cex23((unsigned short)813252961, 1505643991);
 break;
 case 2:
 ZAm6W_ = Cex23(iq0mrJk8q, 1001762672);
@@ -167,7 +167,7 @@ break;
 }
 if (lWjxR8U4 >= -1431989234)
 {
-OCJlqL_ = NN9Ds69ez | 734016361;
+OCJlqL_ = NN9Ds69ez | (unsigned short)734016361;
 }
 else
 {
@@ -204,7 +204,7 @@ Q38Q5X8_W = (int)ceil(lWjxR8U4);
 }
 else if (KD9u33l4 != NN9Ds69ez)
 {
-C_sb = Cex23(-1162300816, Pxxb8oX5b);
+C_sb = Cex23((unsigned short)-1162300816, Pxxb8oX5b);
 }
 else
 {
@@ -220,7 +220,7 @@ else if (Q38Q5X8_W < NN9Ds69ez)
 {
 try
 {
-cout << Cex23(-1008708576, -91517429) << endl;
+cout << Cex23((unsigned short)-1008708576, -91517429) << endl;
 }
 catch (int& errorCode)
 {
@@ -307,7 +307,7 @@ case 3:
 R_H4Gv6--;
 break;
 case 4:
-U6SE492K = Cex23(-345282087, n_qcsE);
+U6SE492K = Cex23((unsigned short)-345282087, n_qcsE);
 break;
 case 5:
 EBH_6W3_W = Cex23((unsigned short)1357371276, ra6RV_Y);
@@ -341,7 +341,7 @@ while (j < 1)
 {
 for (int k = 0; k < 1; ++k)
 {
-EBH_6W3_W = Cex23(80120479, R_H4Gv6);
+EBH_6W3_W = Cex23((unsigned short)80120479, R_H4Gv6);
 }
 ++j;
 }
@@ -441,7 +441,7 @@ A_0Api5 = iq0mrJk8q / V4WJp82Nd6;
 break;
 case 'f':
 case 'F':
-U6SE492K = Cex23(1886469162, 1860878249);
+U6SE492K = Cex23((unsigned short)1886469162, 1860878249);
 break;
 case 'g':
 case 'G':
@@ -597,7 +597,7 @@ U6SE492K = Cex23(uD_7, kk4OB);
 }
 else
 {
-U6SE492K = Cex23(-1206964981, 2124948026);
+U6SE492K = Cex23((unsigned short)-1206964981, 2124948026);
 }
 }
 else if (VoOsQABA <= NN9Ds69ez)
@@ -611,7 +611,7 @@ else
 {
 for (int k = 0; k < 2; k++)
 {
-ZAm6W_ = Cex23(1138199805, kk4OB);
+ZAm6W_ = Cex23((unsigned short)1138199805, kk4OB);
 }
 }
 }
@@ -690,7 +690,7 @@ case 'D':
 U6SE492K = Cex23(OCJlqL_, Q38Q5X8_W);
 break;
 default:
-C_sb = Cex23(-1654692020, -150776135);
+C_sb = Cex23((unsigned short)-1654692020, -150776135);
 break;
 }
 

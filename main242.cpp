@@ -9,7 +9,7 @@
 using namespace std;
 
 char    XU83eNo92()    {
-    return    1912711055;
+    return    (char)1912711055;
 }
 
 short int mRv8VYa(unsigned long cE2jhWl9)
@@ -26,7 +26,7 @@ int main(int argc, char** argv)
   double  hFdDfJ;
   hFdDfJ  =  228552987;
   unsigned short  gzCmB0f_;
-  gzCmB0f_  =  1659941201;
+  gzCmB0f_  =  (unsigned short)1659941201;
   unsigned short  nrpO5;
   nrpO5  =  (unsigned short)-264016679;
  unsigned short ed5Q;
@@ -36,7 +36,7 @@ int main(int argc, char** argv)
  unsigned long Dxk_95;
  Dxk_95 = -1564380859;
     unsigned short    Q607e7o;
-    Q607e7o    =    -1180755615;
+    Q607e7o    =    (unsigned short)-1180755615;
     short    e79ziCzt1;
     e79ziCzt1    =    (short)1496700800;
     int    QdZypP_8;
@@ -46,7 +46,7 @@ int main(int argc, char** argv)
  short h_4_Qq_58;
  h_4_Qq_58 = -1411832578;
 	short	fr10BI1K;
-	fr10BI1K	=	-1163571054;
+	fr10BI1K	=	(short)-1163571054;
     long long    TIkOs;
     TIkOs    =    2102357793;
     short int    B1PC_;
@@ -60,7 +60,7 @@ int main(int argc, char** argv)
     unsigned long long    y9TZ;
     y9TZ    =    1905675564;
   unsigned short  fy0D;
-  fy0D  =  -464764515;
+  fy0D  =  (unsigned short)-464764515;
  short int td355;
  td355 = 0;
   unsigned long long  Xbt2;
@@ -72,7 +72,7 @@ int main(int argc, char** argv)
   long double  ki6Q6EVcp;
   ki6Q6EVcp  =  -908107223;
     char    A9AL2yy;
-    A9AL2yy    =    1584618763;
+    A9AL2yy    =    (char)1584618763;
  long Mx7iS1;
  Mx7iS1 = 1671686838;
 	float	h3OP47;
@@ -86,7 +86,7 @@ int main(int argc, char** argv)
 	float	AHVj2;
 	AHVj2	=	-963698993;
 	char	JtHTVc;
-	JtHTVc	=	-1332242919;
+	JtHTVc	=	(char)-1332242919;
     short int    Z_rqie7;
     Z_rqie7    =    595936360;
   unsigned char  yXg0N4;
@@ -96,7 +96,7 @@ int main(int argc, char** argv)
   unsigned short int  QJ8Y;
   QJ8Y  =  -146243464;
 	unsigned char	X5TX;
-	X5TX	=	-1716819974;
+	X5TX	=	(unsigned char)-1716819974;
 	unsigned short	BS87dWqDR;
 	BS87dWqDR	=	528848004;
  unsigned int UY_87gG9R2;
@@ -116,7 +116,7 @@ int main(int argc, char** argv)
     long double    f5KX60;
     f5KX60    =    751422340;
   unsigned short int  kYxt;
-  kYxt  =  -191111680;
+  kYxt  =  (unsigned short)-191111680;
  float ITkgkuXo;
  ITkgkuXo = 122775635;
 	long double	M8b6nn5o;

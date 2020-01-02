@@ -11,7 +11,7 @@
 
 int main(int argc, char** argv) {
     unsigned short    kp81n6p1,    dcRgcRTT,    q_5Lt8qGo,    Ql3zoZ_r,    du0a6nlQz0,    CpXi,    K8xB_J52pA,    J9wY,    w9U7jov81,    Edc4,    MS5U5r,    y9V84,    XQdx3,    o8a5KTS,    ZhG19wV7;
-    kp81n6p1    =    972911212;
+    kp81n6p1    =    (unsigned short)972911212;
     dcRgcRTT    =    (unsigned short)-1363668378;
     q_5Lt8qGo    =    -1631699966;
     Ql3zoZ_r    =    1819448592;
@@ -21,7 +21,7 @@ int main(int argc, char** argv) {
     J9wY    =    1678101638;
     w9U7jov81    =    -1906441278;
     Edc4    =    1979779421;
-    MS5U5r    =    -1335124701;
+    MS5U5r    =    (unsigned short)-1335124701;
     y9V84    =    (unsigned short)-1415065052;
     XQdx3    =    -11176939;
     o8a5KTS    =    -1748259546;
@@ -41,7 +41,7 @@ case 'b':
 XQdx3 = dcRgcRTT ^ 1332630051;
 break;
 case 'c':
-MS5U5r = (ZhG19wV7 <= 1265875187) ? -412018897 : (unsigned short)265301379;
+MS5U5r = (ZhG19wV7 <= 1265875187) ? (unsigned short)-412018897 : (unsigned short)265301379;
 break;
 case 'd':
 CpXi = YrQk9fF * 327343786;
@@ -445,7 +445,7 @@ try
 int j = 3;
 do
 {
-MS5U5r = (ZhG19wV7 <= -1891914809) ? -1345594081 : CpXi;
+MS5U5r = (ZhG19wV7 <= -1891914809) ? (unsigned short)-1345594081 : CpXi;
 j--;
 }
 while (j >= 0);
@@ -551,7 +551,7 @@ case 0:
 XQdx3 = q_5Lt8qGo + J9wY;
 break;
 case 1:
-q_5Lt8qGo = (Ql3zoZ_r >= h46x60AGT) ? -340636907 : w9U7jov81;
+q_5Lt8qGo = (Ql3zoZ_r >= h46x60AGT) ? (unsigned short)-340636907 : w9U7jov81;
 break;
 case 2:
 J9wY = dcRgcRTT & MS5U5r;
@@ -598,7 +598,7 @@ case 6:
 CpXi ^= 327371933;
 break;
 case 7:
-o8a5KTS = YrQk9fF ^ 1559143579;
+o8a5KTS = YrQk9fF ^ (unsigned short)1559143579;
 break;
 }
 }
@@ -641,7 +641,7 @@ case 3:
 Ql3zoZ_r = CpXi >> dcRgcRTT;
 break;
 case 4:
-o8a5KTS = (w9U7jov81 > 1424483524) ? d_CH75_ZrO : -1191884482;
+o8a5KTS = (w9U7jov81 > 1424483524) ? d_CH75_ZrO : (unsigned short)-1191884482;
 break;
 case 5:
 K8xB_J52pA = J9wY * 1853542595;

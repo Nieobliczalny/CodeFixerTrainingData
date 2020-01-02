@@ -114,7 +114,7 @@ try
 switch (ztL59)
 {
 case 0:
-yc5e6ii = hH7mA_PC(16707521);
+yc5e6ii = hH7mA_PC((short)16707521);
 break;
 case 1:
 H9w_M8 = (int)floor(Lcgdh);
@@ -177,7 +177,7 @@ PCdv = (int)floor(xgeKH3);
 }
 else if (dk6g54pQ6 > v4w0wH2)
 {
-ztL59 = hH7mA_PC(-42263549);
+ztL59 = hH7mA_PC((short)-42263549);
 }
 else
 {

@@ -12,7 +12,7 @@ unsigned long	DtWE3etVUK(unsigned int	ZS90b9,unsigned long long	IaU5TVRY4N,char	
 }
 
 unsigned char os99tK3() {
- return 529384227;
+ return (unsigned char)529384227;
 }
 
 unsigned short int K6gD4Tm8(unsigned long long ytSzp,int s4Lht2Xkr,unsigned int dhM14) {
@@ -84,7 +84,7 @@ case 0:
 Gn_35GYb += Mar6;
 break;
 case 1:
-lj_4yX_z = DtWE3etVUK(lj_4yX_z, x12A1vmo, -1603135677);
+lj_4yX_z = DtWE3etVUK(lj_4yX_z, x12A1vmo, (char)-1603135677);
 break;
 case 2:
 ThUCxt = (int)floor(Fflwai1f6L);
@@ -229,7 +229,7 @@ if (CR3Y5q2 != -1234815439)
 {
 if (((guiz_Pcj >= -881332255) || (I67kR1gCP7 == 221031234)) && ((Dp96 > -515701278) && (M5h3U5_n >= 1081297898)))
 {
-std::cout << "gsKr0_" << os99tK3() << DtWE3etVUK(YXl2b19, 732880548, 1954855712) << "w17R_fmuv" << "Eb57TUQnOU" << std::endl;
+std::cout << "gsKr0_" << os99tK3() << DtWE3etVUK(YXl2b19, 732880548, (char)1954855712) << "w17R_fmuv" << "Eb57TUQnOU" << std::endl;
 }
 else
 {
@@ -296,7 +296,7 @@ uVuN = OyJM668 * 393818718;
 }
 else if (Fflwai1f6L != D4Lg4_1z)
 {
-std::cout << M5h3U5_n << DtWE3etVUK(19953778, 134464925, 236096808) << std::endl;
+std::cout << M5h3U5_n << DtWE3etVUK(19953778, 134464925, (char)236096808) << std::endl;
 }
 else
 {
@@ -342,7 +342,7 @@ int k = 4;
 do
 {
 k--;
-ceX366_ = DtWE3etVUK(ceX366_, -231949683, -855666205);
+ceX366_ = DtWE3etVUK(ceX366_, -231949683, (char)-855666205);
 }
 while (k >= 0);
 }
@@ -387,7 +387,7 @@ else
 {
 if (M5h3U5_n > -30672573)
 {
-E214zl30 = DtWE3etVUK(-170218623, 1886227291, -1739844303);
+E214zl30 = DtWE3etVUK(-170218623, 1886227291, (char)-1739844303);
 }
 else if ((K11z7ukt & 721813044) || ((WJedaO >= -1865976723) && (PQNx0N4i)))
 {
@@ -500,7 +500,7 @@ break;
 
 if ((K11z7ukt & -1563173847) || (MV58C & -740727612))
 {
-std::cout << DtWE3etVUK(-894782610, I67kR1gCP7, 889548947) << K6gD4Tm8(zGejVXTS5g, -1044540689, -1427693209) << "BM256" << std::endl;
+std::cout << DtWE3etVUK(-894782610, I67kR1gCP7, (char)889548947) << K6gD4Tm8(zGejVXTS5g, -1044540689, -1427693209) << "BM256" << std::endl;
 }
 else
 {

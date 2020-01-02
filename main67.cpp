@@ -12,7 +12,7 @@ using namespace std;
 
 short int    s4cs1()
 {
-    return    380391047;
+    return    (short)380391047;
 }
 
 short	DmMq(int	ZErI9KyrKC)	{
@@ -180,7 +180,7 @@ DimMldM = hm9v88f72 | ok9PgJLQ;
 }
 else
 {
-ls1_ = IIc47TdUC(-1575985126);
+ls1_ = IIc47TdUC((short)-1575985126);
 }
 }
 }
@@ -209,7 +209,7 @@ case 0:
 hj4udI = hJ300 >> Wlm6xOyy;
 break;
 case 1:
-YtB_Juz0e = (w2x1Am) ? -1227965417 : (short)-1471111490;
+YtB_Juz0e = (w2x1Am) ? (short)-1227965417 : (short)-1471111490;
 break;
 }
 Wi77_6 = (short int)(n5Zr);
@@ -266,7 +266,7 @@ Wlm6xOyy += 1510211873;
 }
 else if (O79ZQYnk < EX_H_pJD)
 {
-ls1_ = IIc47TdUC(771350944);
+ls1_ = IIc47TdUC((short)771350944);
 }
 else if (rM3WVB97 <= -536510109)
 {
@@ -288,7 +288,7 @@ case 1:
 O79ZQYnk = cG9ip3X_ & knSh9;
 break;
 case 2:
-oFA8 = IIc47TdUC(1823091421);
+oFA8 = IIc47TdUC((short)1823091421);
 break;
 case 3:
 EX_H_pJD = s4cs1();
@@ -338,7 +338,7 @@ for (int i = 4; i >= 0; --i)
 cout << "JWDSR4M8b" << YxD5G6m << "ErVQ" << cG9ip3X_ << endl;
 }
 
-cout << Vgeg9p << s4cs1() << DmMq(ls1_) << IIc47TdUC(2014330310) << endl;
+cout << Vgeg9p << s4cs1() << DmMq(ls1_) << IIc47TdUC((short)2014330310) << endl;
 if (((cG9ip3X_ == n5Zr) || (dfTOjXa93i > hj4udI)) || (VAuNaF >= ls1_))
 {
 cout << "f83uO0i" << endl;

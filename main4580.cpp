@@ -53,7 +53,7 @@ switch (SimfRyI)
 {
 case 'a':
 case 'A':
-g2JIH = (W1TM > -1193967982) ? g2JIH : -963164833;
+g2JIH = (W1TM > -1193967982) ? g2JIH : (unsigned short)-963164833;
 break;
 case 'b':
 case 'B':
@@ -88,7 +88,7 @@ while (j >= 0);
 }
 }
 
-cE92y = zUY24h_B / xWL4MA7D(1322042957, g2JIH, p_v_9gSn, (char)2032115931, k423Y_xz);
+cE92y = zUY24h_B / xWL4MA7D((unsigned short)1322042957, g2JIH, p_v_9gSn, (char)2032115931, k423Y_xz);
 
 J7RlB18QK = xWL4MA7D(eW7D, g2JIH, 1114055740, -1536103518, -777203956) | DzFM;
 
@@ -102,7 +102,7 @@ if ((W1TM < h9yd0FE) || ((ZWQ4uM5 >= cE92y) && (zYD_feLjP >= -699802208)))
 {
 if (k423Y_xz >= -1198690151)
 {
-std::cout << "NDoJ" << DzFM << V2o_60TH_(-1077423208, -2119183909, eW7D) << std::endl;
+std::cout << "NDoJ" << DzFM << V2o_60TH_((char)-1077423208, -2119183909, eW7D) << std::endl;
 }
 }
 
@@ -191,7 +191,7 @@ case 1:
 FJmQ8UFC = AAO615JBQ(-580811302, SimfRyI);
 break;
 case 2:
-tNl9Hb40nr = AAO615JBQ(-785247532, 169353842);
+tNl9Hb40nr = AAO615JBQ(-785247532, (unsigned short)169353842);
 break;
 case 3:
 J7RlB18QK = V2o_60TH_((char)-877452964, -2068253876, -224781972);
@@ -221,7 +221,7 @@ long long    AAO615JBQ(unsigned long    WwLY2,unsigned short int    ckDGdUunA)
 }
 
 short	VDgZ()	{
-	return	-378154684;
+	return	(short)-378154684;
 }
 
 long long xWL4MA7D(unsigned short Ae2BF,int eGM3k_N,unsigned short int ZcKAx0K,char EFE55,long long JHKu0jHg) {
@@ -234,6 +234,6 @@ unsigned short	SIPiBb(unsigned long	jNNKVo461,long long	zCo_4)
 }
 
 unsigned short int    V2o_60TH_(char    ZmEl6f1a,long long    kEyU1_,long    sN98)    {
-    return    -2116413426;
+    return    (unsigned short)-2116413426;
 }
 

@@ -14,7 +14,7 @@ int main(void)
 {
     unsigned long long    UO1p6Q847    =    -1961329215;
     unsigned long    oOnuHl    =    -1103514703;
-  short  C6H25C1  =  292700554;
+  short  C6H25C1  =  (short)292700554;
     long long    Og8Fg5    =    573069940;
     unsigned char    NaT7ru    =    (unsigned char)-919993513;
   long  U47q_jg8tU  =  -1330717114;
@@ -26,7 +26,7 @@ int main(void)
     unsigned long long    i8vM0Q    =    -25188301;
 	unsigned long	Ims_	=	0;
     unsigned long    k2_21R4HcA    =    103498100;
-	char	cg7hL84Z	=	867082017;
+	char	cg7hL84Z	=	(char)867082017;
 
 if (Ims_ == 0)
 {

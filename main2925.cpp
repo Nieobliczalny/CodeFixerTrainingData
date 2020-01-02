@@ -18,7 +18,7 @@ char  i3bn39s();
 
 int main(int argc, char** argv) {
   long  oG9PG3  =  0;
- char oGeg_33H78 = -253716730;
+ char oGeg_33H78 = (char)-253716730;
   char  l4ZLi  =  (char)1975693989;
  unsigned long rz76l8m5 = 0;
 
@@ -62,7 +62,7 @@ case 1:
 oGeg_33H78--;
 break;
 case 2:
-l4ZLi = vc7I34Los_(oG9PG3, rz76l8m5, -292969151, -859538549, 1124415992);
+l4ZLi = vc7I34Los_(oG9PG3, rz76l8m5, (unsigned short)-292969151, -859538549, 1124415992);
 break;
 case 3:
 oG9PG3 = ry32hd1(l4ZLi);
@@ -112,7 +112,7 @@ int k = 0;
 do
 {
 k++;
-oGeg_33H78 = vc7I34Los_(oG9PG3, 201482145, 1009173014, 137247719, 1772323765);
+oGeg_33H78 = vc7I34Los_(oG9PG3, 201482145, (unsigned short)1009173014, 137247719, 1772323765);
 }
 while (k < 10);
 }
@@ -155,7 +155,7 @@ l4ZLi *= l4ZLi;
 }
 else
 {
-oGeg_33H78 = (l4ZLi == 989561563) ? 1296272874 : kw8t();
+oGeg_33H78 = (l4ZLi == 989561563) ? (char)1296272874 : kw8t();
 }
 }
 else
@@ -245,7 +245,7 @@ oG9PG3 = (int)abs(oGeg_33H78) * 0;
 break;
 case 'd':
 case 'D':
-oGeg_33H78 = vc7I34Los_(-1502840980, -645743566, (unsigned short)-2035301295, -1485439668, -2014782722);
+oGeg_33H78 = vc7I34Los_((char)-1502840980, -645743566, (unsigned short)-2035301295, -1485439668, -2014782722);
 break;
 case 'e':
 case 'E':
@@ -258,7 +258,7 @@ else
 l4ZLi = (int)abs(oGeg_33H78);
 }
 
-l4ZLi = vc7I34Los_(-455079953, 703320111, oGeg_33H78, -1607476719, 179888956);
+l4ZLi = vc7I34Los_((char)-455079953, 703320111, oGeg_33H78, -1607476719, 179888956);
 if (rz76l8m5 > -381201011)
 {
 oGeg_33H78 = (char)(l4ZLi);
@@ -275,7 +275,7 @@ case 'a':
 oG9PG3 = (int)abs(oGeg_33H78) * 0;
 break;
 case 'b':
-oG9PG3 = ry32hd1(266634840);
+oG9PG3 = ry32hd1((unsigned char)266634840);
 break;
 case 'c':
 oG9PG3 = ry32hd1((unsigned char)-80575412);
@@ -296,7 +296,7 @@ case 'h':
 l4ZLi = (int)abs(oG9PG3) + (662085118);
 break;
 }
-cout << kw8t() << vc7I34Los_(1838700558, 692126262, rz76l8m5, oGeg_33H78, -1108668383) << kw8t() << rz76l8m5 << endl;
+cout << kw8t() << vc7I34Los_((char)1838700558, 692126262, rz76l8m5, oGeg_33H78, -1108668383) << kw8t() << rz76l8m5 << endl;
 cout << ry32hd1(l4ZLi) / oG9PG3 << endl;
 
 rz76l8m5 = (unsigned long)(oGeg_33H78 * rz76l8m5);
@@ -354,7 +354,7 @@ oG9PG3 = (int)abs(l4ZLi) * 0;
 }
 else if (oGeg_33H78 <= 125818671)
 {
-l4ZLi = vc7I34Los_(1635306232, l4ZLi, oGeg_33H78, rz76l8m5, -2025523153);
+l4ZLi = vc7I34Los_((char)1635306232, l4ZLi, oGeg_33H78, rz76l8m5, -2025523153);
 }
 else
 {
@@ -366,7 +366,7 @@ oG9PG3 = (int)abs(oGeg_33H78) * 0;
 }
 else if (((oGeg_33H78 < 272444082) || (oGeg_33H78 == l4ZLi)) || (oGeg_33H78))
 {
-oGeg_33H78 = vc7I34Los_(-1983972905, l4ZLi, (unsigned short)2036311147, oG9PG3, -1911232423);
+oGeg_33H78 = vc7I34Los_((char)-1983972905, l4ZLi, (unsigned short)2036311147, oG9PG3, -1911232423);
 }
 else if ((rz76l8m5 > l4ZLi) || (l4ZLi != -743765793))
 {
@@ -404,7 +404,7 @@ while (j < 10);
 while (i < 9);
 }
 
-cout << l4ZLi << kw8t() << ry32hd1(-1484384238) << "WiAwZL" << endl;
+cout << l4ZLi << kw8t() << ry32hd1((unsigned char)-1484384238) << "WiAwZL" << endl;
 
 return 0;
 }
@@ -420,7 +420,7 @@ short	ry32hd1(unsigned char	qv__94)
 }
 
 unsigned short int vc7I34Los_(char HSbV907x0,unsigned int oHS1e2,unsigned short LglEnl_241,long long o2u__Yu,long long d_m4S4) {
- return 1142193328;
+ return (unsigned short)1142193328;
 }
 
 char  i3bn39s()

@@ -71,7 +71,7 @@ case 2:
 D8n7lwB6K ^= RO88M;
 break;
 case 3:
-D8n7lwB6K = (OLinkS >= O19AJaunS8) ? oxuHL1f : 1709900593;
+D8n7lwB6K = (OLinkS >= O19AJaunS8) ? oxuHL1f : (unsigned char)1709900593;
 break;
 case 4:
 mO9kKD0 = (RRrZTX47F == -136958597) ? Tu9b : (unsigned char)1084034716;

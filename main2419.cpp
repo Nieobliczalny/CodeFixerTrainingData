@@ -38,7 +38,7 @@ case 'c':
 eVjQnBJ0E = nR5r8 - 213462407;
 break;
 case 'd':
-I4tu8ht = p2143(-242315854);
+I4tu8ht = p2143((char)-242315854);
 break;
 default:
 Jj9ucQvm *= kmaJ;
@@ -53,7 +53,7 @@ try
 {
 try
 {
-N7Ib4BN = FR2087(1193088889);
+N7Ib4BN = FR2087((short)1193088889);
 }
 catch (int& errorCode)
 {
@@ -79,7 +79,7 @@ unsigned int    Nc9_31A()    {
 }
 
 short	FR2087(short	W14N66x)	{
-	return	-1142097437;
+	return	(short)-1142097437;
 }
 
 unsigned long	p2143(char	jd74rOnI5G)

@@ -26,7 +26,7 @@ int main(void) {
   unsigned short int  J5wyx0j;
   J5wyx0j  =  0;
     unsigned short int    SY5L;
-    SY5L    =    -1486424536;
+    SY5L    =    (unsigned short)-1486424536;
     unsigned char    u58g;
     u58g    =    (unsigned char)-308886141;
 	short int	rtop2A87V;
@@ -36,7 +36,7 @@ int main(void) {
 	unsigned long	xKiNatS0Y;
 	xKiNatS0Y	=	180082225;
     unsigned char    Osh2A;
-    Osh2A    =    945769856;
+    Osh2A    =    (unsigned char)945769856;
     long double    n81n11;
     n81n11    =    1083320966;
   long double  Na0_g0iS;
@@ -46,7 +46,7 @@ int main(void) {
  short int lLon3;
  lLon3 = (short)1521811194;
 	unsigned short int	l8I4ijTW;
-	l8I4ijTW	=	-2078387445;
+	l8I4ijTW	=	(unsigned short)-2078387445;
 	float	vYvZ_9;
 	vYvZ_9	=	120860190;
 	long long	I24HP5l;
@@ -56,7 +56,7 @@ int main(void) {
  unsigned short k3BaJp7k9;
  k3BaJp7k9 = (unsigned short)-1774879894;
  short on7226;
- on7226 = 367480133;
+ on7226 = (short)367480133;
 	long long	mxJgZ9;
 	mxJgZ9	=	1685361408;
     char    V_d0y;
@@ -66,7 +66,7 @@ int main(void) {
     long double    X_9LfVK4;
     X_9LfVK4    =    826384338;
 	unsigned short	fncw7b;
-	fncw7b	=	-1431995021;
+	fncw7b	=	(unsigned short)-1431995021;
  unsigned int qr5Xw2;
  qr5Xw2 = -1430339624;
  unsigned short int xRPr;
@@ -166,7 +166,7 @@ RLfR7GS = V_d0y >> mxJgZ9;
 }
 else if ((PYH6 == -610937919) || ((k3BaJp7k9) || (PYH6 < fncw7b)))
 {
-std::cout << Na0_g0iS << J5wyx0j << Hxl5(-1965224119, (short)-1497687348, rtop2A87V, RLfR7GS, on7226) << Na0_g0iS << "ZdXU" << std::endl;
+std::cout << Na0_g0iS << J5wyx0j << Hxl5((char)-1965224119, (short)-1497687348, rtop2A87V, RLfR7GS, on7226) << Na0_g0iS << "ZdXU" << std::endl;
 }
 else if (k3BaJp7k9)
 {
@@ -176,7 +176,7 @@ PYH6 = hInpX(321606821, Na0_g0iS);
 }
 else
 {
-PYH6 = hInpX(2134451371, h08Gcu_);
+PYH6 = hInpX((char)2134451371, h08Gcu_);
 }
 }
 else if (((n81n11 == 1196871058) && (fncw7b < 1500899899)) || (X_9LfVK4))
@@ -193,7 +193,7 @@ int k = 0;
 do
 {
 k++;
-RLfR7GS = rZzXWx_4cz(-1407052623);
+RLfR7GS = rZzXWx_4cz((unsigned char)-1407052623);
 }
 while (k < 7);
 }
@@ -206,7 +206,7 @@ while (k < 7);
 int i = 3;
 while (i >= 0)
 {
-vYvZ_9 = m3W72j3(-1573415155, vYvZ_9);
+vYvZ_9 = m3W72j3((short)-1573415155, vYvZ_9);
 --i;
 }
 }
@@ -220,7 +220,7 @@ case 0:
 n81n11 = (k3BaJp7k9 >= -186073773) ? mxJgZ9 : 1612503083;
 break;
 case 1:
-k3BaJp7k9 = m3W72j3(-835079972, (char)444104105);
+k3BaJp7k9 = m3W72j3((short)-835079972, (char)444104105);
 break;
 case 2:
 qr5Xw2 >>= SY5L;
@@ -272,7 +272,7 @@ X0I8 = (int)abs(RLfR7GS);
 }
 else if (A237LcBywn >= on7226)
 {
-I24HP5l = Hxl5(I24HP5l, rtop2A87V, k3BaJp7k9, 921406815, SY5L);
+I24HP5l = Hxl5(I24HP5l, rtop2A87V, k3BaJp7k9, (short)921406815, SY5L);
 }
 else if ((xKiNatS0Y > 1700265103) || (xKiNatS0Y != SY5L))
 {
@@ -293,7 +293,7 @@ qr5Xw2--;
 }
 }
 }
-xRPr = hInpX(1708581232, n81n11);
+xRPr = hInpX((char)1708581232, n81n11);
 {
 int i = 1;
 do
@@ -314,7 +314,7 @@ i--;
 while (i >= 0);
 }
 
-if (hInpX(lLon3, 1602423854) == 0)
+if (hInpX(lLon3, (unsigned short)1602423854) == 0)
 {
 	u58g = -619434039 / hInpX(lLon3, (unsigned short)1602423854);
 }
@@ -324,7 +324,7 @@ int i = 10;
 do
 {
 --i;
-std::cout << hInpX(lLon3, -139077899) << "ASE19" << std::endl;
+std::cout << hInpX(lLon3, (unsigned short)-139077899) << "ASE19" << std::endl;
 }
 while (i >= 0);
 }
@@ -369,7 +369,7 @@ else
 {
 try
 {
-xKiNatS0Y = m3W72j3(xKiNatS0Y, -375373670);
+xKiNatS0Y = m3W72j3(xKiNatS0Y, (char)-375373670);
 }
 catch (int& errorCode)
 {
@@ -387,7 +387,7 @@ return 0;
 
 unsigned short int  m3W72j3(short int  FiKK,char  vxk19v9)
 {
-  return  1547401511;
+  return  (unsigned short)1547401511;
 }
 
 unsigned short    Hxl5(char    Zaw_SB6,short    rtVd73_,int    Rov8,short    r7TH_,short    fi47K7zj8)

@@ -57,7 +57,7 @@ TS12d0KX = t8y3 % H1zW16ys;
 }
 else if (TS12d0KX <= 501305227)
 {
-nA1P = MLW66S3_pg(1956216343, nA1P, 2070292277);
+nA1P = MLW66S3_pg(1956216343, nA1P, (unsigned short)2070292277);
 }
 else if (pl1a6Tay)
 {
@@ -78,7 +78,7 @@ SY6f2O += 1060267772;
 }
 }
 }
-std::cout << MLW66S3_pg(-407597661, 529489689, TS12d0KX) << std::endl;
+std::cout << MLW66S3_pg(-407597661, (unsigned short)529489689, TS12d0KX) << std::endl;
 try
 {
 try

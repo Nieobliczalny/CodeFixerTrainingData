@@ -17,7 +17,7 @@ long    i1dO3c()    {
 }
 
 short    UsZNLLraH(unsigned long long    G3806)    {
-    return    -1134114254;
+    return    (short)-1134114254;
 }
 
 unsigned long    tPA1_Y(unsigned long long    A2K9tD9Xa,unsigned long    G3c_p003F,unsigned char    KEp7e,short int    amDWOr8)    {
@@ -37,7 +37,7 @@ int main(void) {
  unsigned int QYC8;
  QYC8 = 500429289;
 	char	blLU8;
-	blLU8	=	1534062507;
+	blLU8	=	(char)1534062507;
     unsigned long long    SCEQ90p;
     SCEQ90p    =    1301327540;
  char a0E_;
@@ -47,7 +47,7 @@ int main(void) {
   double  GC8w9GZM51;
   GC8w9GZM51  =  -1215487561;
 	char	rWHV;
-	rWHV	=	225428980;
+	rWHV	=	(char)225428980;
 	char	dRIBVA;
 	dRIBVA	=	-478064163;
  long double ZomlS7qjTx;
@@ -61,7 +61,7 @@ int main(void) {
  unsigned int cPc5TM4;
  cPc5TM4 = 420874936;
  short int Dwjuhl1238;
- Dwjuhl1238 = -768037398;
+ Dwjuhl1238 = (short)-768037398;
   char  xr8KCj7;
   xr8KCj7  =  (char)1460419644;
 	float	HwyRv1ySr;
@@ -73,7 +73,7 @@ int main(void) {
   int  E36H;
   E36H  =  1128613611;
 	unsigned short int	sw6F3k;
-	sw6F3k	=	-1316268400;
+	sw6F3k	=	(unsigned short)-1316268400;
     unsigned char    jq_2YPu9;
     jq_2YPu9    =    (unsigned char)-214195284;
     char    JO8dK;
@@ -85,7 +85,7 @@ int main(void) {
   long double  W0e0C790U;
   W0e0C790U  =  -511819144;
     unsigned char    Cai1HCIDM;
-    Cai1HCIDM    =    1491113302;
+    Cai1HCIDM    =    (unsigned char)1491113302;
     short    oobUhiP7VG;
     oobUhiP7VG    =    (short)1632276613;
 	short int	K3ocQMdHJ;
@@ -95,7 +95,7 @@ int main(void) {
     long double    Ksy0rNgeee;
     Ksy0rNgeee    =    -437375080;
 	unsigned short int	bBX8WyjHC;
-	bBX8WyjHC	=	1741621418;
+	bBX8WyjHC	=	(unsigned short)1741621418;
  long a24q20y;
  a24q20y = 1725752504;
 	short	C0L9HPus;
@@ -111,7 +111,7 @@ int main(void) {
  long long ki1F_Ftfp;
  ki1F_Ftfp = 489919037;
     unsigned char    gAkT3Kd7b;
-    gAkT3Kd7b    =    1706002938;
+    gAkT3Kd7b    =    (unsigned char)1706002938;
   unsigned short int  ef08;
   ef08  =  (unsigned short)-1364761058;
     short    xf32Y77eXG;
@@ -121,7 +121,7 @@ int main(void) {
     float    fCcPSn9F;
     fCcPSn9F    =    -427314430;
     char    bx87LQ;
-    bx87LQ    =    368881084;
+    bx87LQ    =    (char)368881084;
   short int  PlB0;
   PlB0  =  (short)-1407431378;
 	int	orW3OO_Mpo;
@@ -131,7 +131,7 @@ int main(void) {
     unsigned short    RJbqq;
     RJbqq    =    -381280784;
     short    ldPti13xZ;
-    ldPti13xZ    =    -1844665986;
+    ldPti13xZ    =    (short)-1844665986;
   unsigned char  wNC_IM9e9;
   wNC_IM9e9  =  (unsigned char)219934470;
 	unsigned long long	L44cmrBE;
@@ -147,7 +147,7 @@ int main(void) {
   long long  sDgiNxx2A;
   sDgiNxx2A  =  -1811075785;
   char  IDm4;
-  IDm4  =  1302061457;
+  IDm4  =  (char)1302061457;
     unsigned int    JgY0;
     JgY0    =    -1625972911;
  int BUIkbt;
@@ -161,7 +161,7 @@ int main(void) {
 	unsigned int	euWMw;
 	euWMw	=	1803102757;
   short  Ao1FAU;
-  Ao1FAU  =  -2099750820;
+  Ao1FAU  =  (short)-2099750820;
   short int  D_xe;
   D_xe  =  0;
     unsigned int    jt4C;
@@ -173,7 +173,7 @@ int main(void) {
   unsigned long long  L99OR_;
   L99OR_  =  -965894356;
  unsigned short int GVS564_UX7;
- GVS564_UX7 = -201483929;
+ GVS564_UX7 = (unsigned short)-201483929;
   long double  M065jwU8;
   M065jwU8  =  -711687531;
 	long	E4jH;
@@ -193,7 +193,7 @@ int main(void) {
  long long sdWjCC1;
  sdWjCC1 = -494794540;
  char uH9d;
- uH9d = 1180820549;
+ uH9d = (char)1180820549;
     long double    tlc_;
     tlc_    =    -1866590321;
     short    W1p_3Sz771;
@@ -205,7 +205,7 @@ int main(void) {
  long long Z45G;
  Z45G = 844339223;
 	short	w_IvvR_0;
-	w_IvvR_0	=	-661159672;
+	w_IvvR_0	=	(short)-661159672;
 	short	dZmwdN;
 	dZmwdN	=	(short)2035727080;
     unsigned long    fBjYR28;
@@ -215,7 +215,7 @@ int main(void) {
     unsigned long    rX2xGD4jQ;
     rX2xGD4jQ    =    213450817;
   unsigned char  phelQqN;
-  phelQqN  =  705932828;
+  phelQqN  =  (unsigned char)705932828;
     int    xK_i9;
     xK_i9    =    -1769976336;
   unsigned int  XKjqn12;
@@ -270,7 +270,7 @@ case 2:
 W1p_3Sz771 = (int)abs(YUxna);
 break;
 case 3:
-JO8dK = O1M34Ry(JO8dK, -1502046693, -25898564, -1296079258, SCEQ90p);
+JO8dK = O1M34Ry(JO8dK, -1502046693, -25898564, (unsigned short)-1296079258, SCEQ90p);
 break;
 default:
 jt4C = tPA1_Y(I0uJ6P3F1, 401218851, RJbqq, (short)375105203);
@@ -314,7 +314,7 @@ int k = 0;
 do
 {
 k++;
-ZKpta01d5_ = O1M34Ry(1065520867, -657037825, 922432600, ki1F_Ftfp, 636545896);
+ZKpta01d5_ = O1M34Ry(1065520867, -657037825, 922432600, ki1F_Ftfp, (char)636545896);
 }
 while (k < 8);
 }
@@ -339,7 +339,7 @@ else if (fCcPSn9F <= orW3OO_Mpo)
 {
 for (int k = 0; k < 7; ++k)
 {
-djt1jO = tPA1_Y(w_IvvR_0, ZKpta01d5_, -853078957, K3ocQMdHJ);
+djt1jO = tPA1_Y(w_IvvR_0, ZKpta01d5_, (unsigned char)-853078957, K3ocQMdHJ);
 }
 }
 else if ((ldPti13xZ < 1892350023) || (K1YYiIkl99 == Cai1HCIDM))
@@ -420,7 +420,7 @@ GC8w9GZM51 = (int)ceil(HwyRv1ySr);
 break;
 case 'c':
 case 'C':
-W1p_3Sz771 = O1M34Ry(-241349566, 115410778, 468874362, -389460861, (char)-1390897316);
+W1p_3Sz771 = O1M34Ry(-241349566, 115410778, 468874362, (unsigned short)-389460861, (char)-1390897316);
 break;
 case 'd':
 case 'D':
@@ -440,7 +440,7 @@ Z45G = i1dO3c();
 break;
 case 'h':
 case 'H':
-L4620 = BaXa7(-966407720);
+L4620 = BaXa7((short)-966407720);
 break;
 case 'i':
 case 'I':
@@ -565,7 +565,7 @@ cout << KLlF_ << endl;
 switch (gwVDaW)
 {
 case 'a':
-djt1jO = tPA1_Y(-90706150, a0E_, 1066609133, bx87LQ);
+djt1jO = tPA1_Y(-90706150, a0E_, (unsigned char)1066609133, bx87LQ);
 break;
 case 'b':
 sDgiNxx2A += 1893469952;
@@ -593,7 +593,7 @@ case 3:
 dZmwdN <<= dRIBVA;
 break;
 case 4:
-djt1jO = tPA1_Y(sdWjCC1, a0E_, ZKpta01d5_, -1712877126);
+djt1jO = tPA1_Y(sdWjCC1, a0E_, ZKpta01d5_, (short)-1712877126);
 break;
 case 5:
 Cai1HCIDM = i1dO3c();
@@ -622,7 +622,7 @@ wM6Ad7EN5 = (int)abs(YUxna);
 break;
 case 'b':
 case 'B':
-uH9d = O1M34Ry(uH9d, -288347740, -639252643, -1290209017, JxKX32x6DZ);
+uH9d = O1M34Ry(uH9d, -288347740, -639252643, (unsigned short)-1290209017, JxKX32x6DZ);
 break;
 case 'c':
 case 'C':

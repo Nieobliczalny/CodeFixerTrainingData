@@ -20,7 +20,7 @@ int main()
     d60twW2    =    0;
     iG4CM    =    0;
   unsigned short  pGB7ItMm,  WjN19N,  h_51nOSk1,  SD7Dm2Ad4b;
-  pGB7ItMm  =  276453606;
+  pGB7ItMm  =  (unsigned short)276453606;
   WjN19N  =  (unsigned short)1206668947;
   h_51nOSk1  =  817625259;
   SD7Dm2Ad4b  =  665297124;
@@ -291,7 +291,7 @@ case 5:
 SD7Dm2Ad4b *= d60twW2;
 break;
 case 6:
-h_51nOSk1 = (iG4CM == 411110198) ? U_My7M(iG4CM, d60twW2) : 715406782;
+h_51nOSk1 = (iG4CM == 411110198) ? U_My7M(iG4CM, d60twW2) : (unsigned short)715406782;
 break;
 case 7:
 iG4CM = U_My7M(-641475087, 1533853714);

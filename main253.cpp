@@ -11,7 +11,7 @@ using namespace std;
 int main(int argc, char** argv)
 {
  double hXA_z = -103523719;
- char Z2knl = 1486907300;
+ char Z2knl = (char)1486907300;
 	unsigned short	Dr_jaFy	=	(unsigned short)-1015372733;
 	short int	ubaKd17	=	-1846134250;
 	char	E5f5VHs5	=	-1324496077;
@@ -28,7 +28,7 @@ int main(int argc, char** argv)
  double iLa0_wg = -204034855;
   long long  oR2oXSs___  =  -1410803250;
  int cHX7 = -641560079;
-	short	Q3RBde46H	=	-781381771;
+	short	Q3RBde46H	=	(short)-781381771;
   unsigned int  H_62d  =  -833211050;
  long double J6glxWK = 1644378746;
   unsigned int  muAN1Im8N  =  0;
@@ -39,7 +39,7 @@ int main(int argc, char** argv)
   int  M2V4dF9  =  -1387512592;
 	unsigned int	P72NGY	=	741732099;
   long long  N91v8gF  =  592725122;
- unsigned short int Z07R5Ue8F8 = 1067193343;
+ unsigned short int Z07R5Ue8F8 = (unsigned short)1067193343;
   unsigned char  XGA92QqLa  =  -573341455;
 	short int	F77o5XR	=	1287136561;
 	long double	DG2_e47p_9	=	-1643907218;
@@ -50,7 +50,7 @@ int main(int argc, char** argv)
  unsigned short McxtGb75_L = -1959951157;
     unsigned int    tjVsJ    =    -41727310;
   int  eL5cYO7PX  =  -2142664342;
-  unsigned short  f7dN8QT  =  1200982671;
+  unsigned short  f7dN8QT  =  (unsigned short)1200982671;
     char    t7eLPWFRs    =    0;
     unsigned long long    gqciG73Xcz    =    0;
     long long    tsNVD6AND1    =    485012091;
@@ -60,7 +60,7 @@ int main(int argc, char** argv)
 	int	Rw7fT	=	1657092867;
   unsigned short int  NAye7_cX2B  =  (unsigned short)603622338;
 	int	yYLijoK1O	=	994782080;
-  unsigned char  zpQr6g17Si  =  -1906782195;
+  unsigned char  zpQr6g17Si  =  (unsigned char)-1906782195;
  unsigned short int WsuH = 1504223284;
 	unsigned short int	De842Piw	=	-566327961;
 	unsigned short int	g40Kv51uW_	=	-752304835;
@@ -71,7 +71,7 @@ int main(int argc, char** argv)
     unsigned short    LX9zcn    =    (unsigned short)-402092362;
     short int    mbj9a2z9_Q    =    -1742031425;
 	float	Rg9gy	=	-1034955956;
-	unsigned char	lteN7j_2	=	-1265895492;
+	unsigned char	lteN7j_2	=	(unsigned char)-1265895492;
  float YSln1281 = -65927540;
   float  wa9PXlr  =  -1411282090;
     int    kZ91_l6F1    =    1255761528;

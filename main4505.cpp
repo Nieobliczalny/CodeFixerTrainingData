@@ -27,7 +27,7 @@ int main(int argc, char** argv)
  long long J0Fc7 = -824238502;
     unsigned long    j1g5Tx    =    -1588965420;
  double eh3EHyjM = 144380830;
- unsigned short Ir8F = -1385337294;
+ unsigned short Ir8F = (unsigned short)-1385337294;
     long    BLjKRA1ac    =    117453606;
   unsigned int  EBh27bo  =  2008594503;
 	unsigned long long	rLP87Ns3B	=	-1820636822;
@@ -40,7 +40,7 @@ int main(int argc, char** argv)
 	int	kjQkyKoJFS	=	1761944605;
     unsigned int    S3Ma2akeBn    =    364664054;
   unsigned long  zN7oM5j  =  -1972890145;
- short Kp65u = -1812055252;
+ short Kp65u = (short)-1812055252;
 	long double	cA9Ivz8JL2	=	-1835268253;
   unsigned int  cJ2070vH  =  -56413197;
     double    U66a9PGFa    =    -296598196;
@@ -72,7 +72,7 @@ break;
 }
 else
 {
-Hrb71U = VfC46P3D0x(282852681);
+Hrb71U = VfC46P3D0x((unsigned short)282852681);
 }
 }
 
@@ -116,7 +116,7 @@ eh3EHyjM = (double)(Iu6ym0MW);
 }
 
 Hrb71U = (long long)(ZeDvZQ8 * (Ewce8M));
-Hrb71U = VfC46P3D0x(262285287);
+Hrb71U = VfC46P3D0x((unsigned short)262285287);
 return 0;
 }
 

@@ -36,7 +36,7 @@ int main()
  long double TX04y3G;
  TX04y3G = -1189541334;
     unsigned char    O5FtC9I;
-    O5FtC9I    =    -1358199224;
+    O5FtC9I    =    (unsigned char)-1358199224;
 	unsigned char	O9qdq;
 	O9qdq	=	(unsigned char)-2131378358;
  unsigned long IuPC2Y_;
@@ -46,7 +46,7 @@ int main()
 	unsigned long	c1iDzGKYd;
 	c1iDzGKYd	=	-503806976;
     short int    AC1H119;
-    AC1H119    =    627107994;
+    AC1H119    =    (short)627107994;
     char    D1t4;
     D1t4    =    (char)194412546;
  short int IMD19SqD;
@@ -64,7 +64,7 @@ int main()
 	double	dasa;
 	dasa	=	-1323794276;
 	unsigned short int	zGp_wp;
-	zGp_wp	=	-1875163249;
+	zGp_wp	=	(unsigned short)-1875163249;
  unsigned short int k_Wuyf9zc7;
  k_Wuyf9zc7 = (unsigned short)1894922044;
     char    zwmk16aAR7;
@@ -94,7 +94,7 @@ int main()
 	float	v2fY1KlXP;
 	v2fY1KlXP	=	1628531549;
   char  wGUGg8Ci;
-  wGUGg8Ci  =  1801307167;
+  wGUGg8Ci  =  (char)1801307167;
 	unsigned int	S4fUKXOFS1;
 	S4fUKXOFS1	=	-1168489287;
 	unsigned long	Sq0c5c;
@@ -118,7 +118,7 @@ int main()
     double    OkOdSj;
     OkOdSj    =    1042237903;
     short    phctiB;
-    phctiB    =    -726721366;
+    phctiB    =    (short)-726721366;
     unsigned long long    mwT9;
     mwT9    =    967704043;
   unsigned long long  Pq1Q_;
@@ -128,7 +128,7 @@ int main()
     double    nfKFVqI;
     nfKFVqI    =    1303897522;
  unsigned short NT9_ey4N;
- NT9_ey4N = -2098903089;
+ NT9_ey4N = (unsigned short)-2098903089;
  long long f42a3n7p5l;
  f42a3n7p5l = 1056141523;
 
@@ -219,7 +219,7 @@ else
 {
 for (int k = 0; k < 6; ++k)
 {
-mwT9 = j90_jA_I9(mwT9, 128197045, 304556542, 642935096);
+mwT9 = j90_jA_I9(mwT9, 128197045, 304556542, (short)642935096);
 }
 }
 }
@@ -241,7 +241,7 @@ while (k < 8);
 }
 else if (phctiB & 581041748)
 {
-std::cout << D934TzK << A0A8P_5(-1263740294) << wGUGg8Ci << "X1Cz81D" << std::endl;
+std::cout << D934TzK << A0A8P_5((unsigned char)-1263740294) << wGUGg8Ci << "X1Cz81D" << std::endl;
 }
 else if ((IMD19SqD <= DM_7_B) && ((k_Wuyf9zc7 <= -1052388979) || (w321O == D934TzK)))
 {
@@ -309,7 +309,7 @@ mwT9++;
 }
 
 O5FtC9I = j90_jA_I9(-429927424, 547997892, gGX1bM, IuPC2Y_);
-D1t4 = A0A8P_5(-950021309) / D934TzK;
+D1t4 = A0A8P_5((unsigned char)-950021309) / D934TzK;
 
 std::cout << pAVwi8(O5FtC9I, 1200988489, gGX1bM, IuPC2Y_, wfSet) << std::endl;
 
@@ -322,7 +322,7 @@ do
 j++;
 if (l1WT7xJ5 & Pq1Q_)
 {
-O9qdq = j90_jA_I9(1551396278, 70797130, 632738832, 1296823240);
+O9qdq = j90_jA_I9(1551396278, 70797130, 632738832, (short)1296823240);
 }
 else
 {
@@ -449,7 +449,7 @@ return 0;
 
 unsigned short  pAVwi8(unsigned long  ViHb4g,long  q5Gx8,unsigned int  uTitWjSzI2,unsigned int  XCge,unsigned long  J8x7Sygk)
 {
-  return  -524682233;
+  return  (unsigned short)-524682233;
 }
 
 short int A0A8P_5(unsigned char z3JnU24SM) {

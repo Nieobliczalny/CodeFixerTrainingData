@@ -50,7 +50,7 @@ while (j < 2)
 {
 if (((bC9u2H & v78lof) || (doMK_1d_80 & f5yV_D)) && (bC9u2H > ZaTSe))
 {
-ttn0Ag062 = R7jmOiu(-1433631869, wYhzhWCLV, (unsigned char)1540871711);
+ttn0Ag062 = R7jmOiu((unsigned short)-1433631869, wYhzhWCLV, (unsigned char)1540871711);
 }
 else
 {
@@ -96,7 +96,7 @@ kQ6kLVe = m6l169 * ZaTSe;
 }
 else
 {
-ttn0Ag062 = R7jmOiu(-1291484843, -187218180, op8L9_Ofw);
+ttn0Ag062 = R7jmOiu((unsigned short)-1291484843, -187218180, op8L9_Ofw);
 }
 }
 else if (nz8ee < A6vUy1MWs)
@@ -126,7 +126,7 @@ do
 --i;
 if (nz8ee >= bC9u2H)
 {
-doMK_1d_80 = R7jmOiu(115977642, q666, (unsigned char)1247210849);
+doMK_1d_80 = R7jmOiu((unsigned short)115977642, q666, (unsigned char)1247210849);
 }
 else if (nz8ee > f5yV_D)
 {
@@ -178,7 +178,7 @@ case 'c':
 kQ6kLVe = cOQTKlBw6h();
 break;
 case 'd':
-q666 = R7jmOiu(fMa_4_G, bC9u2H, 994856617) >> 167670549;
+q666 = R7jmOiu(fMa_4_G, bC9u2H, (unsigned char)994856617) >> 167670549;
 break;
 case 'e':
 TcxC0 = (int)ceil(op8L9_Ofw);
@@ -222,7 +222,7 @@ kQ6kLVe = (int)ceil(Y383pltSf);
 }
 else if ((P_YY8Wsq <= rUY9) && (doMK_1d_80 & olyme9FTzp))
 {
-fMa_4_G = R7jmOiu(446498292, YhJkO_, (unsigned char)62368639);
+fMa_4_G = R7jmOiu((unsigned short)446498292, YhJkO_, (unsigned char)62368639);
 }
 else
 {
@@ -242,7 +242,7 @@ nz8ee = A4nhO82(nz8ee, -361125738);
 }
 else
 {
-cout << "yL3SX" << A6vUy1MWs << R7jmOiu(-1822135263, -1750159391, YhJkO_) << endl;
+cout << "yL3SX" << A6vUy1MWs << R7jmOiu((unsigned short)-1822135263, -1750159391, YhJkO_) << endl;
 }
 }
 else
@@ -370,7 +370,7 @@ case 7:
 op8L9_Ofw = (TcxC0 >= A6vUy1MWs) ? TcxC0 : 1795290372;
 break;
 case 8:
-fMa_4_G = R7jmOiu(m6l169, 1231573799, -596625257);
+fMa_4_G = R7jmOiu(m6l169, 1231573799, (unsigned char)-596625257);
 break;
 default:
 Y383pltSf = cOQTKlBw6h();
@@ -391,7 +391,7 @@ i--;
 while (i >= 0);
 }
 
-ZaTSe = Y383pltSf / R7jmOiu(-1951574624, 1519005544, (unsigned char)1116946859);
+ZaTSe = Y383pltSf / R7jmOiu((unsigned short)-1951574624, 1519005544, (unsigned char)1116946859);
 m6l169 = (int)floor(TcxC0);
 
 if (nz8ee < 1590079057)
@@ -403,7 +403,7 @@ ZaTSe = (int)abs(m6l169);
 }
 try
 {
-cout << "DVi_Coi" << "AD6Qt_" << R7jmOiu(Y383pltSf, ZaTSe, 1607275709) << endl;
+cout << "DVi_Coi" << "AD6Qt_" << R7jmOiu(Y383pltSf, ZaTSe, (unsigned char)1607275709) << endl;
 }
 catch (int& errorCode)
 {

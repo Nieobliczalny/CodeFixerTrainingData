@@ -30,7 +30,7 @@ int main()
 {
  long IM_jARWyC = -1277223459;
 	double	gg4qILL	=	-566960336;
-	short	hlkt	=	-786106600;
+	short	hlkt	=	(short)-786106600;
   unsigned int  N0111  =  -1687240817;
     int    tNhcK    =    -1526951468;
     double    l5_7Kz    =    2124173826;
@@ -40,7 +40,7 @@ int main()
   short int  sh1c  =  765318315;
   char  H35wx  =  1909780926;
     unsigned char    V12Qn0yn    =    385492338;
-	short int	GN9RE40	=	-546733500;
+	short int	GN9RE40	=	(short)-546733500;
     int    u4jS3X4    =    -338196459;
 	short	aUIR65Xn4	=	1771644189;
  unsigned long long WW10W9gsT = -497438003;
@@ -50,7 +50,7 @@ int main()
     unsigned long    Wk5a    =    0;
     long    wS3AM    =    646576313;
  unsigned char s68qKF = 2047484356;
- short int Lg4Lg96f = 38606317;
+ short int Lg4Lg96f = (short)38606317;
 	unsigned int	J88oti8Yfc	=	-969153311;
   unsigned short  dJ7dnb  =  1471487798;
     float    qP953Fo6    =    1525556568;
@@ -61,7 +61,7 @@ int main()
   unsigned int  zFK8Hvu  =  81212508;
   char  GQ9qfL  =  -246098994;
     long double    z3x3    =    620544100;
-  short  u1Nq6_D2  =  831830357;
+  short  u1Nq6_D2  =  (short)831830357;
     long double    tm01T9t1_u    =    805952421;
   unsigned long long  b_RQT_A2E  =  -1300207208;
     unsigned short int    BqriC1kMI    =    -317787447;
@@ -74,7 +74,7 @@ int main()
 	long long	JONJ7	=	850795785;
  float xb02jE = 209992339;
   int  IpGLQ06kP  =  1570552508;
- short PvvVO = 1582873218;
+ short PvvVO = (short)1582873218;
     unsigned int    ki9wSQLsao    =    -281461781;
  unsigned short int aJMK = -1027115920;
     unsigned short int    GYoIR    =    (unsigned short)1798375301;
@@ -89,7 +89,7 @@ int main()
 	unsigned int	Sc49	=	-1662364676;
  long wO3lrVYDsc = -1788518528;
   float  kf1GR873L  =  -529041703;
-  short  RQsPQcEmsI  =  -1509239052;
+  short  RQsPQcEmsI  =  (short)-1509239052;
  char ph3H = (char)-517588269;
  unsigned int b78s = -8775381;
     float    Vqe87    =    -1473022755;
@@ -112,7 +112,7 @@ case 1:
 Wk5a = W_X_eX();
 break;
 case 2:
-tNhcK = hnCm(tNhcK, -123557353, b_RQT_A2E);
+tNhcK = hnCm(tNhcK, (unsigned char)-123557353, b_RQT_A2E);
 break;
 case 3:
 BqriC1kMI = hnCm(BqriC1kMI, so0xO2CVx2, (unsigned char)-1606694367);
@@ -124,7 +124,7 @@ case 5:
 u4jS3X4 = hnCm(-2028858138, aJMK, 1045151492);
 break;
 case 6:
-Vqe87 = hnCm(Vqe87, N0111, -1946410313);
+Vqe87 = hnCm(Vqe87, N0111, (unsigned char)-1946410313);
 break;
 case 7:
 IpGLQ06kP = CPs89(-523051690, ghCB9YDj);
@@ -144,7 +144,7 @@ I5_44ERxv = (int)floor(h6rMOpg3X);
 switch (CkSV)
 {
 case 0:
-sh1c = hnCm(sh1c, 1360320748, (unsigned char)2013436553);
+sh1c = hnCm(sh1c, (unsigned char)1360320748, (unsigned char)2013436553);
 break;
 case 1:
 ph3H = CPs89(ph3H, 1888128666);
@@ -282,7 +282,7 @@ else if (kpR_9N & 1386015501)
 {
 if (WEV80 != -1032725711)
 {
-IR28dx = hnCm(IR28dx, ph3H, -1303011944);
+IR28dx = hnCm(IR28dx, ph3H, (unsigned char)-1303011944);
 }
 else if (GQ9qfL)
 {
@@ -373,7 +373,7 @@ case 'b':
 I5_44ERxv = (int)floor(qP953Fo6);
 break;
 case 'c':
-IOhpadUTwe = hnCm(IOhpadUTwe, -1541606833, (unsigned char)-1299085538);
+IOhpadUTwe = hnCm(IOhpadUTwe, (unsigned char)-1541606833, (unsigned char)-1299085538);
 break;
 case 'd':
 BqriC1kMI = tNhcK + Lg4Lg96f;
@@ -400,7 +400,7 @@ cout << W_X_eX() << W_X_eX() << W_X_eX() << W_X_eX() << "Ct51wtE" << endl;
 switch (wS3AM)
 {
 case 0:
-IR28dx = hnCm(WW10W9gsT, -620603857, so0xO2CVx2) ^ 405222184;
+IR28dx = hnCm(WW10W9gsT, (unsigned char)-620603857, so0xO2CVx2) ^ 405222184;
 break;
 case 1:
 RQsPQcEmsI /= 1607200524;
@@ -463,7 +463,7 @@ cT05r = W_X_eX();
 break;
 case 'b':
 case 'B':
-b_RQT_A2E = hnCm(b_RQT_A2E, -353346364, (unsigned char)-1602685244);
+b_RQT_A2E = hnCm(b_RQT_A2E, (unsigned char)-353346364, (unsigned char)-1602685244);
 break;
 case 'c':
 case 'C':
@@ -482,7 +482,7 @@ else if (IpGLQ06kP == povebt)
 {
 if (H8Tqd99JX > 599217418)
 {
-WW10W9gsT = hnCm(-632779060, kpR_9N, (unsigned char)1369381756);
+WW10W9gsT = hnCm((unsigned short)-632779060, kpR_9N, (unsigned char)1369381756);
 }
 }
 else if (J88oti8Yfc <= 1371006563)

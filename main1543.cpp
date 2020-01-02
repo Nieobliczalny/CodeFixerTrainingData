@@ -85,7 +85,7 @@ int main(int argc, char** argv)
     j9aJ6B31    =    0;
     Xtgbt0Dj1    =    0;
 
-qm_3VwvCb3 = KiXC9g(qm_3VwvCb3, -1511941837, e353, D7x4, (short)477765629);
+qm_3VwvCb3 = KiXC9g(qm_3VwvCb3, (short)-1511941837, e353, D7x4, (short)477765629);
 A3LH = pUBz4 - 1933897343;
 EZ_l_tSVNN = (long double)(Suv7fD);
 
@@ -143,7 +143,7 @@ case 'h':
 hq45AONXQt = (int)ceil(E9a2Hyt);
 break;
 case 'i':
-Xtgbt0Dj1 = j3H3N95(-1199678100);
+Xtgbt0Dj1 = j3H3N95((unsigned short)-1199678100);
 break;
 default:
 n7_EaKl = B_hNvctF / Cv_97vA463;
@@ -188,7 +188,7 @@ wc3_63 = NB9Z_X6(328674637);
 
 Cv_97vA463 = (int)abs(e353);
 
-std::cout << "x08_A_2" << mTWDl5sJth(308361044, -1476202775, 1939834063) << KiXC9g(wc3_63, iPM_, Zz5R, DXxE, (short)-798308139) << blSs1O << std::endl;
+std::cout << "x08_A_2" << mTWDl5sJth(308361044, -1476202775, (unsigned char)1939834063) << KiXC9g(wc3_63, iPM_, Zz5R, DXxE, (short)-798308139) << blSs1O << std::endl;
 Suv7fD = (long double)(Nt2b);
 std::cout << "Jd5j13293" << j3H3N95(1375288304) << "j93R" << std::endl;
 {
@@ -315,7 +315,7 @@ r5Ab4 = NB9Z_X6(r5Ab4);
 }
 else if (lgPQ9891F < lwTajkP)
 {
-Zz5R = KiXC9g(-411877502, J99I824O, bn9qP, -452360326, EZ_l_tSVNN);
+Zz5R = KiXC9g((char)-411877502, J99I824O, bn9qP, -452360326, EZ_l_tSVNN);
 }
 else
 {
@@ -326,7 +326,7 @@ else if (n7_EaKl != RWfULRuJ)
 {
 for (int k = 0; k < 2; k++)
 {
-r5Ab4 = KiXC9g(658100608, EZ_l_tSVNN, (short)-1875125364, -640911381, s02a3);
+r5Ab4 = KiXC9g((char)658100608, EZ_l_tSVNN, (short)-1875125364, -640911381, s02a3);
 }
 }
 else if (W71tEtFy != -136598)
@@ -342,7 +342,7 @@ else
 int k = 5;
 while (k >= 0)
 {
-e353 = (M1__9M >= EZ_l_tSVNN) ? KiXC9g(-1888336239, EZ_l_tSVNN, (short)572611166, -2094985013, s02a3) : 1900318787;
+e353 = (M1__9M >= EZ_l_tSVNN) ? KiXC9g((char)-1888336239, EZ_l_tSVNN, (short)572611166, -2094985013, s02a3) : 1900318787;
 --k;
 }
 }
@@ -421,7 +421,7 @@ else if (sYzsiJ3nLQ & j9aJ6B31)
 switch (sYzsiJ3nLQ)
 {
 case 0:
-sYzsiJ3nLQ = j3H3N95(1891469641);
+sYzsiJ3nLQ = j3H3N95((unsigned short)1891469641);
 break;
 case 1:
 A3LH = NB9Z_X6(1187202829);
@@ -445,7 +445,7 @@ vI3E = (int)abs(u6lW78);
 break;
 case 'c':
 case 'C':
-vI3E = mTWDl5sJth(vI3E, 2032122403, 124757043);
+vI3E = mTWDl5sJth(vI3E, 2032122403, (unsigned char)124757043);
 break;
 case 'd':
 case 'D':
@@ -518,7 +518,7 @@ return 0;
 
 short    KiXC9g(char    XHsFz_VG_g,short    eIje0,short    xuEEg,unsigned int    W2836,short    IQ_6f0A)
 {
-    return    -1888878361;
+    return    (short)-1888878361;
 }
 
 long long  ji3bbmW(long long  TPMniIE9)  {

@@ -19,7 +19,7 @@ unsigned long	oitm0G();
 unsigned int	wzxX4b6X(short int	G4UgTmaW5e);
 
 int main(int argc, char** argv) {
-  unsigned char  WTkG  =  1394533853;
+  unsigned char  WTkG  =  (unsigned char)1394533853;
   unsigned short int  yFu87  =  (unsigned short)-1093293648;
  unsigned short int wNb_2h0mKv = 1465900227;
   long  vb_2YbEbR  =  -1310298187;
@@ -29,7 +29,7 @@ int main(int argc, char** argv) {
  unsigned short jExF4kTgxk = 1024221504;
  unsigned long U_vY1439y = -639441086;
  int HYOR7 = 931794015;
- unsigned char tU_v = -857768761;
+ unsigned char tU_v = (unsigned char)-857768761;
 	long double	ZahI	=	1726869055;
   short int  Qb504  =  (short)-1483705617;
  double a8eCOh341 = -563378942;
@@ -39,7 +39,7 @@ int main(int argc, char** argv) {
   long double  B1uVU0a11  =  -489167077;
   int  EgnyM7a  =  1669658582;
 	unsigned long	y5PNVx46px	=	-590206667;
- unsigned short int B6S8A = 1372480817;
+ unsigned short int B6S8A = (unsigned short)1372480817;
  char Fzy9P = -1931140417;
     unsigned long    Y80B0RzO66    =    883793556;
     float    RgG380g853    =    1371672159;
@@ -51,7 +51,7 @@ int main(int argc, char** argv) {
   unsigned char  Q0K00Cm4  =  644793942;
     unsigned int    y4N1ap32    =    -1855155840;
   long double  B6uif  =  438196784;
-	unsigned short	o7D7ztfZ	=	-471315050;
+	unsigned short	o7D7ztfZ	=	(unsigned short)-471315050;
  long double o9ROV = -1129675644;
   unsigned short  mz_L7TRy1  =  -2085761298;
  unsigned short HHeWe = -1481994749;
@@ -115,7 +115,7 @@ else
 switch (tU_v)
 {
 case 0:
-PHhGL = A4c24q(-1346406574, 1454383380, FPa19K, tU_v);
+PHhGL = A4c24q((unsigned short)-1346406574, 1454383380, FPa19K, tU_v);
 break;
 case 1:
 k_9J32SCa9 = D5lJ << 867078109;
@@ -133,7 +133,7 @@ case 5:
 dc5e /= 1920038959;
 break;
 case 6:
-ipYD = II7Sa3(-24928885, 1181666852);
+ipYD = II7Sa3((short)-24928885, 1181666852);
 break;
 case 7:
 vb_2YbEbR -= yFu87;
@@ -148,7 +148,7 @@ jExF4kTgxk = -1001889961 / PHhGL;
 B1uVU0a11 = EgnyM7a * DDxauk95;
 std::cout << U_vY1439y << std::endl;
 
-std::cout << mz_L7TRy1 << A4c24q(-873110791, mz_L7TRy1, bB61h71, z4fv) << std::endl;
+std::cout << mz_L7TRy1 << A4c24q((unsigned short)-873110791, mz_L7TRy1, bB61h71, z4fv) << std::endl;
 
 {
 int i = 0;
@@ -188,7 +188,7 @@ if (Qb504)
 {
 for (int j = 0; j < 10; ++j)
 {
-std::cout << N0wzCf(-940307932) << A4c24q(463379074, mz_L7TRy1, -2070505407, z4fv) << std::endl;
+std::cout << N0wzCf(-940307932) << A4c24q((unsigned short)463379074, mz_L7TRy1, -2070505407, z4fv) << std::endl;
 }
 }
 else if (U_vY1439y >= y4N1ap32)
@@ -211,7 +211,7 @@ case 2:
 ZahI = (int)floor(a8eCOh341);
 break;
 case 3:
-mz_L7TRy1 = A4c24q(1510856655, 59295868, yFu87, (unsigned short)-727381427) % HHeWe;
+mz_L7TRy1 = A4c24q((unsigned short)1510856655, 59295868, yFu87, (unsigned short)-727381427) % HHeWe;
 break;
 }
 }
@@ -279,7 +279,7 @@ case 2:
 ifLp6x = (int)floor(B1uVU0a11);
 break;
 case 3:
-mz_L7TRy1 = II7Sa3(2135315606, 369221816);
+mz_L7TRy1 = II7Sa3((short)2135315606, 369221816);
 break;
 case 4:
 CZYNceF = oitm0G();
@@ -291,7 +291,7 @@ case 6:
 D5lJ = N0wzCf(1051683213);
 break;
 case 7:
-PHhGL = A4c24q(527436514, Y80B0RzO66, mz_L7TRy1, a8eCOh341);
+PHhGL = A4c24q((unsigned short)527436514, Y80B0RzO66, mz_L7TRy1, a8eCOh341);
 break;
 case 8:
 ipYD = wzxX4b6X((short)2137873654);
@@ -407,7 +407,7 @@ unsigned long long	A4c24q(unsigned short int	HKl14,int	kJj17Y,unsigned long long
 }
 
 char    N0wzCf(long    O90T)    {
-    return    1765799297;
+    return    (char)1765799297;
 }
 
 int  II7Sa3(short int  ZpG_,long long  X5d93_3t8)

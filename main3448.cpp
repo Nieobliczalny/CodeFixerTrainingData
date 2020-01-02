@@ -40,7 +40,7 @@ int main() {
     q5qSK    =    0;
     X517fkT    =    0;
 
-std::cout << HZ45(2083070094, (unsigned char)-883324475, -1417213592) << q5qSK << Qw5S << std::endl;
+std::cout << HZ45((unsigned char)2083070094, (unsigned char)-883324475, -1417213592) << q5qSK << Qw5S << std::endl;
 try
 {
 q5qSK = HZ45(Qw5S, 347693538, w052TnAmj);
@@ -83,7 +83,7 @@ for (int i = 4; i >= 0; --i)
 {
 G6YhbY++;
 }
-X517fkT = HZ45(1851959464, (unsigned char)-21283194, X517fkT);
+X517fkT = HZ45((unsigned char)1851959464, (unsigned char)-21283194, X517fkT);
 
 if ((-251994174 / HZ45(M4pEEfM, i8JO, X517fkT)) <= 1200552617)
 {
@@ -107,7 +107,7 @@ catch (int& errorCode)
 {
 SgAV_cQ8 = SgAV_cQ8 ^ 364032675;
 }
-q5qSK = HZ45(-1528447605, (unsigned char)849170603, TtlTMKS83T);
+q5qSK = HZ45((unsigned char)-1528447605, (unsigned char)849170603, TtlTMKS83T);
 if (q5qSK != TtlTMKS83T)
 {
 for (int j = 0; j < 6; ++j)
@@ -119,7 +119,7 @@ else
 {
 try
 {
-X517fkT = HZ45(-2037128679, w052TnAmj, YzADe);
+X517fkT = HZ45((unsigned char)-2037128679, w052TnAmj, YzADe);
 }
 catch (int& errorCode)
 {
@@ -177,7 +177,7 @@ case 0:
 hG54sd7 = Qw5S / hG54sd7;
 break;
 case 1:
-q5qSK = HZ45(m_WOS4S, ZNWnc, -249170348);
+q5qSK = HZ45(m_WOS4S, ZNWnc, (short)-249170348);
 break;
 case 2:
 q5qSK = HZ45((unsigned char)1255269138, CeI1_, m_WOS4S);
@@ -239,7 +239,7 @@ if ((M4pEEfM != YT8O1Mi1) || (vd89p_K0 > 1105040600))
 {
 if (((M4pEEfM > GD_99lY) && (n3z1Hr246_ < YT8O1Mi1)) || (Cd0QOtOvD >= -789146296))
 {
-q5qSK = HZ45(SgAV_cQ8, 985822809, (short)-1513891812);
+q5qSK = HZ45(SgAV_cQ8, (unsigned char)985822809, (short)-1513891812);
 }
 }
 }
@@ -283,7 +283,7 @@ else
 switch (w052TnAmj)
 {
 case 0:
-q5qSK = HZ45(2128109004, (unsigned char)-809343463, YzADe);
+q5qSK = HZ45((unsigned char)2128109004, (unsigned char)-809343463, YzADe);
 break;
 case 1:
 N2AoHgp -= G6YhbY;
@@ -298,7 +298,7 @@ case 4:
 sDRI = (int)abs(X517fkT) + (-1105901935);
 break;
 case 5:
-X517fkT = HZ45(YzADe, -1438887841, sDRI);
+X517fkT = HZ45(YzADe, (unsigned char)-1438887841, sDRI);
 break;
 case 6:
 m924o0 |= 1630631443;
@@ -322,7 +322,7 @@ case 1:
 m924o0 = m_WOS4S << G6YhbY;
 break;
 case 2:
-X517fkT = HZ45(-1726838858, SgAV_cQ8, (short)-181411687);
+X517fkT = HZ45((unsigned char)-1726838858, SgAV_cQ8, (short)-181411687);
 break;
 case 3:
 czS3 = (int)abs(TtlTMKS83T);
@@ -334,7 +334,7 @@ case 5:
 hG54sd7 = (int)abs(i8JO);
 break;
 case 6:
-X517fkT = HZ45(PHmHd, -247132937, TtlTMKS83T);
+X517fkT = HZ45(PHmHd, (unsigned char)-247132937, TtlTMKS83T);
 break;
 case 7:
 X517fkT = HZ45(TtlTMKS83T, CeI1_, GD_99lY);
@@ -351,7 +351,7 @@ case 'a':
 X517fkT = HZ45(CeI1_, PHmHd, Cd0QOtOvD);
 break;
 case 'b':
-X517fkT = HZ45(CeI1_, -1516093496, (short)-1448993092);
+X517fkT = HZ45(CeI1_, (unsigned char)-1516093496, (short)-1448993092);
 break;
 case 'c':
 X517fkT = HZ45(m924o0, GD_99lY, 1592933564);
@@ -371,7 +371,7 @@ do
 ++j;
 for (int k = 0; k < 2; ++k)
 {
-X517fkT = HZ45(215383426, Cd0QOtOvD, (short)-777085089);
+X517fkT = HZ45((unsigned char)215383426, Cd0QOtOvD, (short)-777085089);
 }
 }
 while (j < 4);

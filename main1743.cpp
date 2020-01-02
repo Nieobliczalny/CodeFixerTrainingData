@@ -14,7 +14,7 @@ unsigned int    CXGi6Ui();
 
 int main(void) {
 	unsigned long long	P7__xU	=	1445791064;
-    short    E9Xbs4    =    -1115863957;
+    short    E9Xbs4    =    (short)-1115863957;
     short int    kE77x    =    (short)1648642485;
   char  KNkXUY3e9D  =  1604348545;
 	int	kd66M9WP3X	=	-1445826764;
@@ -24,7 +24,7 @@ int main(void) {
 	long long	R8CEG	=	1020011348;
  short int kJ9qtV = 1138543643;
   double  Rq9sb1SfR7  =  -1347032491;
-  unsigned short  xcoX6v0  =  892927375;
+  unsigned short  xcoX6v0  =  (unsigned short)892927375;
 	char	YYn253D	=	(char)1854459457;
     unsigned char    Fl7u    =    541955240;
  short int QpDq9qpQ0 = -2129537900;
@@ -36,7 +36,7 @@ int main(void) {
 	unsigned char	g2_Uxz	=	2024645223;
   float  D4XT03OLK  =  -1888323397;
  int jB5kC3yqu = -188171560;
-  short int  Q9uIup  =  -847775034;
+  short int  Q9uIup  =  (short)-847775034;
 
 try
 {
@@ -112,7 +112,7 @@ T_O5q = CXGi6Ui();
 }
 else
 {
-xcoX6v0 = (D4XT03OLK == jB5kC3yqu) ? -1233902651 : (unsigned short)966196113;
+xcoX6v0 = (D4XT03OLK == jB5kC3yqu) ? (unsigned short)-1233902651 : (unsigned short)966196113;
 }
 }
 else if ((P7__xU <= kd66M9WP3X) || (kd66M9WP3X < -1693429371))

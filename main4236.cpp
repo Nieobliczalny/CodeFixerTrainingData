@@ -28,7 +28,7 @@ int main(int argc, char** argv) {
  int Z6fr779654;
  Z6fr779654 = -1969721449;
  unsigned short iM2CWZ3n;
- iM2CWZ3n = 630424608;
+ iM2CWZ3n = (unsigned short)630424608;
  float oXNvY053;
  oXNvY053 = 153914655;
 	unsigned short	mZv7535;
@@ -38,7 +38,7 @@ int main(int argc, char** argv) {
  short jI3Lv61;
  jI3Lv61 = -593957491;
 	unsigned char	M5v4O;
-	M5v4O	=	-1269146863;
+	M5v4O	=	(unsigned char)-1269146863;
   unsigned int  PtN7ATtqA4;
   PtN7ATtqA4  =  0;
     float    CyQcTy6;
@@ -50,7 +50,7 @@ int main(int argc, char** argv) {
     unsigned int    vwNQ;
     vwNQ    =    -1788715705;
  unsigned short int nsxXEHZ;
- nsxXEHZ = 201832657;
+ nsxXEHZ = (unsigned short)201832657;
   short  mrg1dMvAUV;
   mrg1dMvAUV  =  1888013183;
 	unsigned long long	Nq08E65;
@@ -62,7 +62,7 @@ int main(int argc, char** argv) {
     unsigned int    txyDe76;
     txyDe76    =    1163511817;
     unsigned short int    e4PO;
-    e4PO    =    500640923;
+    e4PO    =    (unsigned short)500640923;
 	short int	l4M3;
 	l4M3	=	-84606477;
     double    kesJc5id;
@@ -80,7 +80,7 @@ int main(int argc, char** argv) {
  unsigned int VHyKZU0;
  VHyKZU0 = -587677223;
   unsigned char  Y73ILf2;
-  Y73ILf2  =  -1713497026;
+  Y73ILf2  =  (unsigned char)-1713497026;
     int    u68wpZ_2;
     u68wpZ_2    =    -1792106746;
     unsigned int    y2lRG9W;
@@ -90,7 +90,7 @@ int main(int argc, char** argv) {
     char    NFu_PbSPWn;
     NFu_PbSPWn    =    1828637911;
 	unsigned char	Q2P60mCgR;
-	Q2P60mCgR	=	320679161;
+	Q2P60mCgR	=	(unsigned char)320679161;
  unsigned short int ktS85Q7;
  ktS85Q7 = -1532998836;
  short C1E37C;
@@ -102,7 +102,7 @@ int main(int argc, char** argv) {
   double  Ezrcs9Y5UK;
   Ezrcs9Y5UK  =  1665462349;
     char    tx41FP;
-    tx41FP    =    -840203906;
+    tx41FP    =    (char)-840203906;
   unsigned short  L8m9qeXjh;
   L8m9qeXjh  =  (unsigned short)-2100908131;
  char tQMn95;
@@ -126,7 +126,7 @@ int main(int argc, char** argv) {
   long long  I_42gb4Sxv;
   I_42gb4Sxv  =  -2041716319;
  unsigned char sPiALlj3Qj;
- sPiALlj3Qj = 1382422619;
+ sPiALlj3Qj = (unsigned char)1382422619;
     unsigned long    PuXXzIF;
     PuXXzIF    =    1032885156;
 	short	U65gA1D4y2;

@@ -15,7 +15,7 @@ int main(int argc, char** argv)
     unsigned long long    LQO_7i;
     LQO_7i    =    1737314535;
  char jhP67Q8K;
- jhP67Q8K = 559599086;
+ jhP67Q8K = (char)559599086;
   unsigned short int  AdGy9s;
   AdGy9s  =  (unsigned short)-1418862667;
     long    T28S7kl16;
@@ -37,7 +37,7 @@ int main(int argc, char** argv)
     int    Crx732;
     Crx732    =    -1698752287;
  char mkFePxe03g;
- mkFePxe03g = -951284922;
+ mkFePxe03g = (char)-951284922;
     double    f9qa9q;
     f9qa9q    =    585184466;
 	unsigned int	n3Zd186;

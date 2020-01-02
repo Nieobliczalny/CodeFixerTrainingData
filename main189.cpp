@@ -11,7 +11,7 @@ using namespace std;
 long long	hJsbeJFG(long long	bIq0W,short int	OGV59hC,unsigned short	Pz0lWZMv);
 
 int main(void) {
-  short int  n2fFSC  =  -1755517262;
+  short int  n2fFSC  =  (short)-1755517262;
     unsigned short int    Ib_xzaGChL    =    0;
     double    COhNX8014    =    876516986;
   short int  KXTOA_e5c  =  (short)1287698205;
@@ -21,7 +21,7 @@ int main(void) {
  long long IVn46kUCr = -676799171;
   unsigned long long  sAJ5M15  =  0;
   unsigned short  IWvpHq  =  -916628688;
-	short int	lx_m	=	724285387;
+	short int	lx_m	=	(short)724285387;
  long double Fe49 = -88559476;
  long long lV7jg88Q = 1492236750;
 	long	HIzn5TgulM	=	1715706268;
@@ -32,7 +32,7 @@ int main(void) {
   float  dVLV5  =  -825782428;
 	long double	JmPX9q	=	-1153390888;
 	float	OQQ6T	=	-1103749621;
-    short int    JC8JW5    =    1652365399;
+    short int    JC8JW5    =    (short)1652365399;
     short int    A1DEs45yMF    =    -1717893107;
   unsigned long long  XVLy14B4  =  2065030306;
  int aDsa1FguX = 1052006490;
@@ -49,7 +49,7 @@ int main(void) {
     double    oe_1Se_6S    =    -1483575220;
 	int	a8jZTL6yn	=	-1519941594;
  int dd2n92S787 = 1938240052;
-    short    Uyi35    =    1444060158;
+    short    Uyi35    =    (short)1444060158;
   short int  K_40x  =  (short)-876859559;
     unsigned long long    RAS82TT_0    =    -1212180806;
  unsigned long s75D1G0wp3 = 0;
@@ -76,7 +76,7 @@ if (((RAS82TT_0 & e5KQ1Hz0) && (XVLy14B4 != 440533101)) && (N_om0 == 1103992812)
 {
 VO8w2a = (int)abs(Fe49);
 }
-s75D1G0wp3 = hJsbeJFG(lx_m, 854492741, sHp17d);
+s75D1G0wp3 = hJsbeJFG(lx_m, (short)854492741, sHp17d);
 
 cout << hJsbeJFG(1088222987, n2fFSC, (unsigned short)1753142483) / hJsbeJFG(lx_m, n2fFSC, sHp17d) << endl;
 switch (sAJ5M15)
@@ -91,7 +91,7 @@ case 2:
 OQQ6T = (int)floor(X1z7Vi);
 break;
 case 3:
-Uyi35 = (XVLy14B4 != A1DEs45yMF) ? IWvpHq : -1862869627;
+Uyi35 = (XVLy14B4 != A1DEs45yMF) ? IWvpHq : (short)-1862869627;
 break;
 case 4:
 sAJ5M15 = hJsbeJFG(1587496792, e5KQ1Hz0, K_40x);

@@ -20,7 +20,7 @@ int main(int argc, char** argv) {
   unsigned long long  lL68;
   lL68  =  0;
 	short	kAnO_XQa6;
-	kAnO_XQa6	=	-2057011143;
+	kAnO_XQa6	=	(short)-2057011143;
     short int    fF7v4c_f6;
     fF7v4c_f6    =    0;
 	unsigned char	W_8J9h;
@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
  unsigned long gpAP3L;
  gpAP3L = 0;
 	unsigned short	zOPfC;
-	zOPfC	=	-457107060;
+	zOPfC	=	(unsigned short)-457107060;
  int ibcu_Ouy;
  ibcu_Ouy = -397907234;
  unsigned char NrKaY362Z;

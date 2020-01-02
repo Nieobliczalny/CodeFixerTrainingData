@@ -44,7 +44,7 @@ l_02d = (int)abs(uL44eo6);
 }
 else if ((uL44eo6 == -1272400877) && (uL44eo6 & 892893102))
 {
-uL44eo6 = o2l47m(uL44eo6, 561553432, -374926883);
+uL44eo6 = o2l47m(uL44eo6, 561553432, (unsigned short)-374926883);
 }
 else
 {
@@ -55,7 +55,7 @@ else
 {
 if (l_02d != -1583631779)
 {
-K_2nkb = Co7_gn(x9j9K8E, 1419371627);
+K_2nkb = Co7_gn(x9j9K8E, (unsigned char)1419371627);
 }
 else if ((K_2nkb) || ((x9j9K8E < -2083842883) || (uL44eo6 < K_2nkb)))
 {
@@ -67,7 +67,7 @@ x9j9K8E = K_2nkb + 973205225;
 }
 else if ((K_2nkb < x9j9K8E) && (x9j9K8E != K_2nkb))
 {
-x9j9K8E = o2l47m(-2005055214, uL44eo6, 92512185);
+x9j9K8E = o2l47m(-2005055214, uL44eo6, (unsigned short)92512185);
 }
 else
 {
@@ -88,7 +88,7 @@ uL44eo6 = o2l47m(300982483, 1480745892, x9j9K8E);
 }
 if ((144596015 / K_2nkb) == -1787448203)
 {
-std::cout << "FN3l45dw" << "UJfh79mK" << RC1Qx70(uL44eo6, 2045916114, -223779343) << std::endl;
+std::cout << "FN3l45dw" << "UJfh79mK" << RC1Qx70(uL44eo6, (short)2045916114, -223779343) << std::endl;
 }
 switch (l_02d)
 {
@@ -98,7 +98,7 @@ uL44eo6 <<= 1315183504;
 break;
 case 'b':
 case 'B':
-uL44eo6 = o2l47m(-1067236746, x9j9K8E, -958357958);
+uL44eo6 = o2l47m(-1067236746, x9j9K8E, (unsigned short)-958357958);
 break;
 case 'c':
 case 'C':
@@ -156,7 +156,7 @@ else
 {
 if (l_02d <= -104365654)
 {
-x9j9K8E = RC1Qx70(x9j9K8E, -723957069, uL44eo6);
+x9j9K8E = RC1Qx70(x9j9K8E, (short)-723957069, uL44eo6);
 }
 else if (uL44eo6 != x9j9K8E)
 {
@@ -176,7 +176,7 @@ uL44eo6 = K_2nkb + 1048779740;
 }
 else
 {
-K_2nkb = Co7_gn(l_02d, -84595661);
+K_2nkb = Co7_gn(l_02d, (unsigned char)-84595661);
 }
 }
 }
@@ -186,7 +186,7 @@ if ((x9j9K8E == -1058686849) || (K_2nkb >= -1887595489))
 {
 try
 {
-uL44eo6 = Co7_gn(l_02d, 1830824927) % x9j9K8E;
+uL44eo6 = Co7_gn(l_02d, (unsigned char)1830824927) % x9j9K8E;
 }
 catch (int& errorCode)
 {
@@ -234,7 +234,7 @@ else
 {
 if (l_02d == -638475484)
 {
-K_2nkb = Co7_gn(40604384, -1601711772);
+K_2nkb = Co7_gn(40604384, (unsigned char)-1601711772);
 }
 }
 }
@@ -278,7 +278,7 @@ else if (l_02d <= uL44eo6)
 {
 if (((l_02d >= 1770945644) || (uL44eo6 == K_2nkb)) || (uL44eo6 == K_2nkb))
 {
-K_2nkb = Co7_gn(2121168139, -1227857230);
+K_2nkb = Co7_gn(2121168139, (unsigned char)-1227857230);
 }
 else
 {
@@ -336,7 +336,7 @@ l_02d = (long long)(K_2nkb + (1308694624));
 
 if (uL44eo6)
 {
-x9j9K8E = RC1Qx70(-1772139302, uL44eo6, -787516918);
+x9j9K8E = RC1Qx70((unsigned short)-1772139302, uL44eo6, -787516918);
 }
 else if (uL44eo6 < K_2nkb)
 {
@@ -352,7 +352,7 @@ l_02d ^= x9j9K8E;
 }
 else if ((uL44eo6 < l_02d) && ((l_02d < 801276836) || (uL44eo6 != 653300700)))
 {
-l_02d = RC1Qx70(-397324058, x9j9K8E, K_2nkb);
+l_02d = RC1Qx70((unsigned short)-397324058, x9j9K8E, K_2nkb);
 }
 else if (l_02d != -110292279)
 {
@@ -364,7 +364,7 @@ l_02d = RC1Qx70(l_02d, (short)-1034892846, -255208515);
 }
 else if (uL44eo6 != 1106113574)
 {
-l_02d = o2l47m(51357318, K_2nkb, -627403091);
+l_02d = o2l47m(51357318, K_2nkb, (unsigned short)-627403091);
 }
 else
 {
@@ -390,7 +390,7 @@ else
 {
 if (l_02d > 1372547287)
 {
-uL44eo6 = RC1Qx70(1383718476, uL44eo6, 1759835997);
+uL44eo6 = RC1Qx70((unsigned short)1383718476, uL44eo6, 1759835997);
 }
 }
 }
@@ -429,7 +429,7 @@ while (j < 4);
 }
 if (x9j9K8E >= -1521798988)
 {
-std::cout << "V_lN_7Z59" << K_2nkb << RC1Qx70(-1949398376, l_02d, uL44eo6) << "hfPL13Jx" << std::endl;
+std::cout << "V_lN_7Z59" << K_2nkb << RC1Qx70((unsigned short)-1949398376, l_02d, uL44eo6) << "hfPL13Jx" << std::endl;
 }
 else
 {
@@ -463,7 +463,7 @@ x9j9K8E--;
 break;
 case 'c':
 case 'C':
-uL44eo6 = o2l47m(uL44eo6, x9j9K8E, -1368469933);
+uL44eo6 = o2l47m(uL44eo6, x9j9K8E, (unsigned short)-1368469933);
 break;
 case 'd':
 case 'D':
@@ -479,7 +479,7 @@ uL44eo6 = x9j9K8E >> l_02d;
 break;
 case 'g':
 case 'G':
-l_02d = RC1Qx70(339152657, (short)1768659184, -1289926957);
+l_02d = RC1Qx70((unsigned short)339152657, (short)1768659184, -1289926957);
 break;
 case 'h':
 case 'H':
@@ -582,7 +582,7 @@ x9j9K8E = (int)abs(l_02d);
 break;
 case 'e':
 case 'E':
-x9j9K8E = Co7_gn(-64480336, 1982046886) + 68461350;
+x9j9K8E = Co7_gn(-64480336, (unsigned char)1982046886) + 68461350;
 break;
 case 'f':
 case 'F':
@@ -608,7 +608,7 @@ return 0;
 
 unsigned short int	RC1Qx70(unsigned short int	LM8OyNegC_,short	DQ4y,int	enZpux)
 {
-	return	-1200270303;
+	return	(unsigned short)-1200270303;
 }
 
 long	Co7_gn(unsigned int	S911Y5X,unsigned char	Qy7Xb_)	{

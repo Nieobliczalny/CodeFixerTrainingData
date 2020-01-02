@@ -169,7 +169,7 @@ for (int j = 0; j < 7; j++)
 {
 if (uWtdF >= -1064574205)
 {
-SHPP2Y_M = HhgBZ(658133997, jxZA, 2047515423, -917331482);
+SHPP2Y_M = HhgBZ((unsigned char)658133997, jxZA, 2047515423, -917331482);
 }
 }
 }
@@ -220,7 +220,7 @@ case 1:
 sacdG7S4 = (int)abs(bxAZ);
 break;
 case 2:
-SHPP2Y_M = HhgBZ(31074467, (short)-906755051, bW5DU45jG, 435572932);
+SHPP2Y_M = HhgBZ((unsigned char)31074467, (short)-906755051, bW5DU45jG, 435572932);
 break;
 }
 {
@@ -269,7 +269,7 @@ default:
 Sd24Kt = hk3o4W5m1(Sd24Kt);
 break;
 }
-x9745JAa = ryR0I9h0T(-1889030078);
+x9745JAa = ryR0I9h0T((short)-1889030078);
 au66 = hk3o4W5m1(au66);
 {
 int i = 8;
@@ -293,7 +293,7 @@ WC9As0CPGU = (int)ceil(sacdG7S4);
 EDEF9z = (double)(h_J6Yk3Efr);
 hU290S7l6 = PW66gb_aSx * 1506937888;
 
-SHPP2Y_M = HhgBZ(z_5Fgd, 2015687641, -1672786177, zCXIp);
+SHPP2Y_M = HhgBZ(z_5Fgd, (short)2015687641, -1672786177, zCXIp);
 
 if (l729AXDGf)
 {
@@ -321,7 +321,7 @@ while (j >= 0)
 j--;
 if (FeN5b9X66 == -962621054)
 {
-SHPP2Y_M = HhgBZ(607031946, (short)997926061, gdDl2146, -832069036);
+SHPP2Y_M = HhgBZ((unsigned char)607031946, (short)997926061, gdDl2146, -832069036);
 }
 }
 }
@@ -355,7 +355,7 @@ sacdG7S4 = hk3o4W5m1(sacdG7S4);
 }
 else if (((ku29__hlg == -425320222) || (c7t74F <= -307721772)) || (FeN5b9X66 >= iplU))
 {
-SHPP2Y_M = HhgBZ(251932670, (short)-1147542884, l8u7, bxAZ);
+SHPP2Y_M = HhgBZ((unsigned char)251932670, (short)-1147542884, l8u7, bxAZ);
 }
 else if ((zvYk_V6 < 398555758) || (iYCv9qn9iX >= XWoyS6IQ))
 {
@@ -377,7 +377,7 @@ pUzrcEpF01 = hk3o4W5m1(-1602421343);
 Cs68 = (double)(WfbzW_Ceb);
 bxAZ = 1546624753 / SHPP2Y_M;
 
-un3V2O = ryR0I9h0T(-1851945107) ^ 1243075781;
+un3V2O = ryR0I9h0T((short)-1851945107) ^ 1243075781;
 
 {
 int i = 4;
@@ -444,7 +444,7 @@ int k = 2;
 do
 {
 k--;
-ED2PY_q = HhgBZ(pUzrcEpF01, -307152934, -1154583021, 1714545626) + 1483680183;
+ED2PY_q = HhgBZ(pUzrcEpF01, (short)-307152934, -1154583021, 1714545626) + 1483680183;
 }
 while (k >= 0);
 }
@@ -504,7 +504,7 @@ else
 {
 if ((wtVrV == 332228597) || (l8u7 <= -813765685))
 {
-SHPP2Y_M = HhgBZ(-533119960, IlJE57, -1491122580, -1788790350);
+SHPP2Y_M = HhgBZ((unsigned char)-533119960, IlJE57, -1491122580, -1788790350);
 }
 else if (WG_m2l < 665861154)
 {

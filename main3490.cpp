@@ -30,7 +30,7 @@ unsigned int r1KpJ(unsigned short int wN1j_A3p6u,unsigned short l6VUgV,short hE5
 int main() {
  float bWqH = -545047448;
   char  HGEyvJ  =  0;
-	unsigned short	wd_XEyu	=	-1010932048;
+	unsigned short	wd_XEyu	=	(unsigned short)-1010932048;
  short int FrHMF = (short)-854777216;
     long long    lg3H6J4B    =    0;
     long double    r8gEJ0    =    1975948461;
@@ -83,7 +83,7 @@ bWqH = (float)(r8gEJ0);
 switch (FrHMF)
 {
 case 'a':
-bWqH = jrgSG(1932119298, HGEyvJ, r8gEJ0, FrHMF, wd_XEyu);
+bWqH = jrgSG((char)1932119298, HGEyvJ, r8gEJ0, FrHMF, wd_XEyu);
 break;
 case 'b':
 bWqH = (int)ceil(r8gEJ0);
@@ -98,7 +98,7 @@ case 'e':
 r8gEJ0 = jrgSG(r8gEJ0, lg3H6J4B, VcL7, 1285373843, bWqH);
 break;
 case 'f':
-r8gEJ0 = r1KpJ(-1438668302, 131752209, -1519385796) + lg3H6J4B;
+r8gEJ0 = r1KpJ((unsigned short)-1438668302, 131752209, -1519385796) + lg3H6J4B;
 break;
 case 'g':
 bWqH = jrgSG(VcL7, bWqH, 272016292, lg3H6J4B, 333275526);
@@ -115,7 +115,7 @@ break;
 }
 if (((FrHMF < 2056568076) || (bWqH == 1387823536)) && ((lg3H6J4B != r8gEJ0) && (wd_XEyu & VcL7)))
 {
-std::cout << "EaLwbtGPN" << r1KpJ(-1977509014, (unsigned short)-561028895, wd_XEyu) << r1KpJ(2007782866, 215669572, 696924074) << "e9EVX9Vt" << "lEc87js" << std::endl;
+std::cout << "EaLwbtGPN" << r1KpJ((unsigned short)-1977509014, (unsigned short)-561028895, wd_XEyu) << r1KpJ(2007782866, 215669572, 696924074) << "e9EVX9Vt" << "lEc87js" << std::endl;
 }
 else
 {
@@ -174,7 +174,7 @@ wd_XEyu >>= FrHMF;
 }
 else if (bWqH > -1871404434)
 {
-FrHMF = (HGEyvJ < -1896211865) ? jrgSG(-998140405, wd_XEyu, FrHMF, r8gEJ0, -1246215233) : HGEyvJ;
+FrHMF = (HGEyvJ < -1896211865) ? jrgSG((char)-998140405, wd_XEyu, FrHMF, r8gEJ0, -1246215233) : HGEyvJ;
 }
 else
 {
@@ -185,7 +185,7 @@ else
 {
 for (int k = 0; k < 6; ++k)
 {
-bWqH = jrgSG(1069307442, FrHMF, VcL7, lg3H6J4B, 1521456316);
+bWqH = jrgSG((char)1069307442, FrHMF, VcL7, lg3H6J4B, 1521456316);
 }
 }
 }
@@ -214,7 +214,7 @@ else
 r8gEJ0 = (int)floor(bWqH);
 }
 FrHMF++;
-std::cout << r1KpJ(wd_XEyu, lg3H6J4B, -1928933067) / HGEyvJ << std::endl;
+std::cout << r1KpJ(wd_XEyu, lg3H6J4B, (short)-1928933067) / HGEyvJ << std::endl;
 
 {
 int i = 8;
@@ -248,7 +248,7 @@ else if (VcL7 > -1110714134)
 {
 if (VcL7 != 1847245785)
 {
-wd_XEyu = (bWqH <= -1248064484) ? lg3H6J4B : -529180413;
+wd_XEyu = (bWqH <= -1248064484) ? lg3H6J4B : (unsigned short)-529180413;
 }
 else
 {
@@ -330,7 +330,7 @@ HGEyvJ = (char)(wd_XEyu * HGEyvJ);
 switch (FrHMF)
 {
 case 0:
-r8gEJ0 = jrgSG(1786272106, VcL7, 184224692, bWqH, 956091980) | FrHMF;
+r8gEJ0 = jrgSG((char)1786272106, VcL7, 184224692, bWqH, 956091980) | FrHMF;
 break;
 case 1:
 r8gEJ0 = (int)floor(bWqH);
@@ -348,7 +348,7 @@ FrHMF = HGEyvJ - HGEyvJ;
 break;
 case 'b':
 case 'B':
-HGEyvJ = r1KpJ(bWqH, FrHMF, -8160405);
+HGEyvJ = r1KpJ(bWqH, FrHMF, (short)-8160405);
 break;
 case 'c':
 case 'C':
@@ -360,7 +360,7 @@ r8gEJ0 = (int)ceil(bWqH);
 break;
 case 'e':
 case 'E':
-VcL7 = r1KpJ(r8gEJ0, VcL7, -909634540);
+VcL7 = r1KpJ(r8gEJ0, VcL7, (short)-909634540);
 break;
 case 'f':
 case 'F':
@@ -372,7 +372,7 @@ lg3H6J4B = (int)abs(r8gEJ0) * 0;
 break;
 case 'h':
 case 'H':
-HGEyvJ = r1KpJ(-350207308, r8gEJ0, -1847918825);
+HGEyvJ = r1KpJ((unsigned short)-350207308, r8gEJ0, -1847918825);
 break;
 default:
 wd_XEyu |= FrHMF;
@@ -414,7 +414,7 @@ r8gEJ0 = (int)floor(bWqH);
 }
 else if (wd_XEyu <= 1692411350)
 {
-lg3H6J4B = r1KpJ(bWqH, -1569925689, (short)-1324631518);
+lg3H6J4B = r1KpJ(bWqH, (unsigned short)-1569925689, (short)-1324631518);
 }
 else
 {
@@ -425,7 +425,7 @@ if ((VcL7 & wd_XEyu) || ((r8gEJ0 <= VcL7) || (bWqH >= -1898382753)))
 {
 for (int j = 0; j < 3; j++)
 {
-FrHMF = jrgSG(2072583655, 2120075808, wd_XEyu, 704971638, bWqH);
+FrHMF = jrgSG((char)2072583655, 2120075808, wd_XEyu, 704971638, bWqH);
 }
 }
 FrHMF = (short int)(wd_XEyu);
@@ -448,7 +448,7 @@ wd_XEyu = jrgSG(HGEyvJ, lg3H6J4B, wd_XEyu, 1549225677, -357739519);
 
 FrHMF = (short int)(lg3H6J4B + (-902293459));
 
-std::cout << lg3H6J4B << "xWz8" << r1KpJ(HGEyvJ, lg3H6J4B, -998638049) << "yhhtZ" << std::endl;
+std::cout << lg3H6J4B << "xWz8" << r1KpJ(HGEyvJ, lg3H6J4B, (short)-998638049) << "yhhtZ" << std::endl;
 wd_XEyu ^= 66647611;
 
 return 0;

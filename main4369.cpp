@@ -60,7 +60,7 @@ int i = 0;
 do
 {
 i++;
-ODI_sbV_ = jXe_5_9ew_(oT9ZG35, -1707578218, (char)-761782600);
+ODI_sbV_ = jXe_5_9ew_(oT9ZG35, (unsigned short)-1707578218, (char)-761782600);
 }
 while (i < 1);
 }
@@ -78,7 +78,7 @@ wribmf = Csw9_u9P3 * wribmf;
 break;
 case 'c':
 case 'C':
-ODI_sbV_ = jXe_5_9ew_(vQ8iR33729, 424877181, Ct0_F);
+ODI_sbV_ = jXe_5_9ew_(vQ8iR33729, (unsigned short)424877181, Ct0_F);
 break;
 case 'd':
 case 'D':
@@ -94,7 +94,7 @@ return 0;
 
 short int iE7CFA()
 {
- return -2089533897;
+ return (short)-2089533897;
 }
 
 unsigned short lgI0d4y(unsigned char fMxjrVb,short int H71xkTo,unsigned char Vs88,unsigned long bXlkYX,int UOW93xy) {

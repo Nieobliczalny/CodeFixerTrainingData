@@ -11,7 +11,7 @@ using namespace std;
 
 short	jUh13B9r(long long	aP54,long	bt6AR7rqN,short	m7RH_9lq,short int	q82E6B25,unsigned long	TyVk7_)
 {
-	return	393191765;
+	return	(short)393191765;
 }
 
 long P403(char M96u_,unsigned short K7M_U9xh,short int u2U57G,char LVYu) {
@@ -45,7 +45,7 @@ qwUY12a = qwUY12a + 2138350743;
 M9w8__6OgC = q47_7(M9w8__6OgC, 359325692, oY25YPYmy8);
 cout << 1339556477 / N0Hq8DD51 << endl;
 
-KU6UyaMa2 = vvp_1M06_(416721757, (char)-229890354, irPeGtl, N0Hq8DD51);
+KU6UyaMa2 = vvp_1M06_((char)416721757, (char)-229890354, irPeGtl, N0Hq8DD51);
 
 return 0;
 }

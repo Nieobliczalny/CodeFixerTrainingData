@@ -16,7 +16,7 @@ unsigned int eRQC9K4w(unsigned short dnGs5,unsigned short int Q8svq,long Tx8O_,s
 short int  N2y_o3Pc8a(short int  gefA8L,short  O4_5,unsigned int  X_YGrT0pK,unsigned long long  aJH61kBz_,short int  Xj3oKg);
 
 int main(void) {
-  unsigned short int  IstD45D  =  -97282437;
+  unsigned short int  IstD45D  =  (unsigned short)-97282437;
   unsigned short int  oTDHA  =  (unsigned short)1531103834;
  unsigned short Yojb0OJ08a = -1396373051;
   int  IptqP9  =  1901588592;
@@ -30,7 +30,7 @@ int main(void) {
  unsigned long long ZDp0F_8zj = 0;
     unsigned long    NsTP_5    =    1623013686;
     int    xxRGb    =    2131126524;
-  char  oZD05  =  -2090012300;
+  char  oZD05  =  (char)-2090012300;
  unsigned char ZyM88W9 = (unsigned char)-905663115;
   long double  C8jY0m  =  -362186449;
     char    oY9TEy69Q    =    -375105680;
@@ -40,7 +40,7 @@ int main(void) {
   long double  J1JG97OYn  =  870263483;
  long vWLg = -1893872030;
   unsigned short  c5rmoqG  =  631101448;
-  unsigned short  YL4d  =  -498202631;
+  unsigned short  YL4d  =  (unsigned short)-498202631;
  unsigned short tO3Y = (unsigned short)1707903362;
 	short int	SCsgyI58XY	=	1928495406;
 	float	gD353Wyrr	=	-1036866684;
@@ -51,7 +51,7 @@ int main(void) {
 	unsigned long long	C6dQIKzs	=	-1913115831;
  unsigned int KRWCW = -2023248424;
  long long Dggr5 = 1963970885;
-    unsigned char    f6eiLeAF    =    -1728265051;
+    unsigned char    f6eiLeAF    =    (unsigned char)-1728265051;
  long Rpp2wyTjhd = 214380016;
 	short	B03W0ry	=	(short)1562598187;
 	unsigned char	iQ2Oz	=	-481697196;
@@ -61,7 +61,7 @@ int main(void) {
 	unsigned short	wo_cIU9	=	562637240;
     short    ji7k8j    =    -1148614274;
   short int  RQi4ma0T85  =  -858918711;
- unsigned char di0_nMy = -494424867;
+ unsigned char di0_nMy = (unsigned char)-494424867;
   long  HTg_071S  =  710248990;
  long long M4RS0B_oan = 1748062629;
   unsigned int  LK63d99N  =  -1277017241;
@@ -78,7 +78,7 @@ int main(void) {
     long    Z8y0LH_4    =    1958133875;
     unsigned long long    uMa7y    =    -1778100534;
     unsigned long long    xZr3    =    2068052348;
-  unsigned char  X316Ez  =  -1193274029;
+  unsigned char  X316Ez  =  (unsigned char)-1193274029;
     char    Q2Mb    =    (char)-1152481534;
     short    nt83y369w    =    -1489025151;
     double    gK7C    =    1015875325;
@@ -92,7 +92,7 @@ int main(void) {
     long long    hpd163SXz    =    860634069;
     unsigned long long    ls1op3w    =    1758758854;
  float bn27HN1Ks2 = 216166999;
-  unsigned char  pnSBDGVClR  =  -865764011;
+  unsigned char  pnSBDGVClR  =  (unsigned char)-865764011;
   unsigned char  U8j0S  =  (unsigned char)537219694;
  long JAN2cEA2Y = 0;
     short int    z4WUwZ    =    2076628033;
@@ -102,7 +102,7 @@ int main(void) {
  char BuUV8 = 1928610356;
 	float	BOIMsv873R	=	674109079;
  short a11z2_2M02 = -1833563830;
-	unsigned short int	mfO2q4	=	-1032032415;
+	unsigned short int	mfO2q4	=	(unsigned short)-1032032415;
 	short	d0efHw	=	(short)-1278869641;
 	unsigned long long	QIGUQALf3C	=	-936260086;
  int SrfZ0d = 767617133;
@@ -139,7 +139,7 @@ catch (int& errorCode)
 {
 C8jY0m = (int)floor(gD353Wyrr);
 }
-std::cout << Iu15P / I8F3lZehC(118244115, -1910878459) << std::endl;
+std::cout << Iu15P / I8F3lZehC(118244115, (short)-1910878459) << std::endl;
 if (uMa7y == -321748622)
 {
 if ((IstD45D) || (U8j0S != 482249699))
@@ -244,7 +244,7 @@ switch (B_VF65)
 {
 case 'a':
 case 'A':
-F_69Bu = N2y_o3Pc8a(1429580964, T7o80_C3n, IstD45D, iQ2Oz, wo02);
+F_69Bu = N2y_o3Pc8a((short)1429580964, T7o80_C3n, IstD45D, iQ2Oz, wo02);
 break;
 case 'b':
 case 'B':
@@ -264,7 +264,7 @@ JmhT = (int)ceil(J1JG97OYn);
 break;
 case 'f':
 case 'F':
-JAN2cEA2Y = I8F3lZehC(vWX6, 1315720176);
+JAN2cEA2Y = I8F3lZehC(vWX6, (short)1315720176);
 break;
 case 'g':
 case 'G':
@@ -282,7 +282,7 @@ break;
 while (i >= 0);
 }
 
-dNA24v = N2y_o3Pc8a(1478147088, (short)28253382, LK63d99N, 950526978, 1207721028);
+dNA24v = N2y_o3Pc8a((short)1478147088, (short)28253382, LK63d99N, 950526978, 1207721028);
 
 z_AQ9 = (unsigned char)(HTg_071S);
 return 0;
@@ -303,6 +303,6 @@ unsigned int eRQC9K4w(unsigned short dnGs5,unsigned short int Q8svq,long Tx8O_,s
 
 short int  N2y_o3Pc8a(short int  gefA8L,short  O4_5,unsigned int  X_YGrT0pK,unsigned long long  aJH61kBz_,short int  Xj3oKg)
 {
-  return  1964435554;
+  return  (short)1964435554;
 }
 

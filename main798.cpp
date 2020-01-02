@@ -16,7 +16,7 @@ unsigned int Pm21kSzQR(unsigned short mFl_Y41,unsigned int IJzY6V__wr,long long 
 }
 
 unsigned short int    i33rhQ(unsigned short int    tXj48Yoz,char    ggT4fuU,long    ZX3_b_Ia_,unsigned char    ji821)    {
-    return    1695766524;
+    return    (unsigned short)1695766524;
 }
 
 unsigned int	CVKP()
@@ -38,7 +38,7 @@ int main(int argc, char** argv)
 // codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
     short    XV5PbS4lqp    =    1735212832,    nMLi0    =    -3845535,    M6c5v0f    =    -1118358966,    r24l5O    =    -1474929155,    rM4Ts    =    920175997,    i60roAy5o    =    -1851716497,    u74rQ    =    2033254702,    HFcHt    =    -1677806808,    i8_4    =    -1546838034,    a43IzGCgND    =    609768005,    Fzs672    =    361742002,    DNxK1    =    -684907789,    pMG4c    =    -1729123985,    hn_I8_d3g    =    -1822967368,    keY89J_c    =    1120297660,    T26g    =    1443511033,    j0cIB    =    -1767419082,    DWxg9    =    -500773121,    E7D7WA6    =    -1110042625,    blJ72    =    -735489899,    cOMJbf2JZ    =    -339857046,    TcnzK    =    -1155029326,    hw9ak    =    2059916600,    oru8utI2    =    -1690234318,    n_wR5_q    =    237125994,    ut097c    =    -279159018,    z32yjlLo    =    -708768004,    d0_Z    =    926214433,    s7a_I3D80y    =    -172600766,    RGRHD80P7    =    -99021710,    d48uf00z_b    =    696199698,    Q4eK    =    1957636409,    s88NrL    =    -379255833,    x_9YQ29    =    -1698854050,    zM9K    =    38861905,    zht784    =    -468903570,    DNp08    =    -1184704136,    AV4mZ3S    =    -822995557,    Jx5fe4b0    =    -661532462,    mFhM    =    -45421036,    L35G1cl    =    -605498181,    Xu86    =    -294978363,    Mh0p86EG    =    2142092847,    VX_rL    =    695718981,    CV4P    =    -55300088,    Umlj796vd    =    741422917,    qZ2Y    =    150210005,    Qo74bo7    =    336107806,    KFPmlKk57P    =    730200628,    YHri8    =    962990817,    S6r62    =    -386113491,    YvR6    =    560005101,    HfMbA    =    -241487028,    ctA1    =    566375566,    aXfQNkD    =    251273548,    dcl7    =    -549167471,    zW7I4kuW    =    1899781095,    lyFT0    =    -1742156354,    SX34tSAAZ    =    695568295,    RMVC3zpQ    =    -1754328611;
 
-Umlj796vd = i33rhQ(Umlj796vd, -2044744950, -565993621, 2074968127);
+Umlj796vd = i33rhQ(Umlj796vd, (char)-2044744950, -565993621, 2074968127);
 {
 int i = 2;
 do
@@ -86,7 +86,7 @@ catch (int& errorCode)
 {
 i60roAy5o ^= XV5PbS4lqp;
 }
-std::cout << "D3_TiJHV" << "hg91Ohf" << i33rhQ(TcnzK, 1734322551, 886962162, qZ2Y) << dcl7 << std::endl;
+std::cout << "D3_TiJHV" << "hg91Ohf" << i33rhQ(TcnzK, (char)1734322551, 886962162, qZ2Y) << dcl7 << std::endl;
 RGRHD80P7 = (short)(i4eF54 + (2027043571));
 
 {
@@ -138,7 +138,7 @@ if (((hn_I8_d3g != -1522614061) && (zht784)) && ((i9_6_l & Jx5fe4b0) || (qZ2Y > 
 int k = 0;
 while (k < 8)
 {
-zM9K = (i8_4 != u74rQ) ? DNp08 : -819351783;
+zM9K = (i8_4 != u74rQ) ? DNp08 : (short)-819351783;
 ++k;
 }
 }
@@ -174,7 +174,7 @@ int j = 9;
 while (j >= 0)
 {
 j--;
-i60roAy5o = i33rhQ(854266826, (char)-1013166340, pMG4c, 851466521);
+i60roAy5o = i33rhQ((unsigned short)854266826, (char)-1013166340, pMG4c, 851466521);
 }
 }
 }
@@ -198,7 +198,7 @@ else if (keY89J_c == YXqnz)
 {
 for (int j = 8; j >= 0; --j)
 {
-std::cout << CV4P << mAbAyLv1o(-558302530, rM4Ts) << Pm21kSzQR(i60roAy5o, rM4Ts, pMG4c) << std::endl;
+std::cout << CV4P << mAbAyLv1o((short)-558302530, rM4Ts) << Pm21kSzQR(i60roAy5o, rM4Ts, pMG4c) << std::endl;
 }
 }
 else if (i9_6_l > -1725318402)
@@ -248,7 +248,7 @@ case 1:
 ut097c = K_8JMZY6HT();
 break;
 case 2:
-E7D7WA6 = Pm21kSzQR(-360107488, 1256419248, 1182590791);
+E7D7WA6 = Pm21kSzQR((unsigned short)-360107488, 1256419248, 1182590791);
 break;
 }
 std::cout << 1885604334 / CVKP() << std::endl;
@@ -293,7 +293,7 @@ else if ((zht784 > i60roAy5o) && (KFPmlKk57P != j0cIB))
 {
 try
 {
-Mh0p86EG = mAbAyLv1o(-1971546707, hn_I8_d3g);
+Mh0p86EG = mAbAyLv1o((short)-1971546707, hn_I8_d3g);
 }
 catch (int& errorCode)
 {
@@ -334,7 +334,7 @@ keY89J_c = t_957XS0z | 439981267;
 }
 if ((keY89J_c & i4eF54) || ((i60roAy5o == r24l5O) || (j0cIB <= nMLi0)))
 {
-std::cout << Pm21kSzQR(33914972, -362552380, 1692821007) << "ZpVn" << keY89J_c << K_8JMZY6HT() << "Gu112" << std::endl;
+std::cout << Pm21kSzQR((unsigned short)33914972, -362552380, 1692821007) << "ZpVn" << keY89J_c << K_8JMZY6HT() << "Gu112" << std::endl;
 }
 else
 {

@@ -28,7 +28,7 @@ switch (SZMZg_AdS7)
 {
 case 'a':
 case 'A':
-X5DXT955x = ZZZng7_3(-1078467276, i6P99bZT, -1140391844, nr74wY4b, BPy5F);
+X5DXT955x = ZZZng7_3((unsigned char)-1078467276, i6P99bZT, -1140391844, nr74wY4b, BPy5F);
 break;
 case 'b':
 case 'B':
@@ -49,7 +49,7 @@ Dz7568 = ZZZng7_3(V3mrs8JvHk, -890735926, f8I75h3, 1652907957, -886518601);
 switch (FA24HcA__h)
 {
 case 0:
-X5DXT955x = ZZZng7_3(1316660840, -1777665849, -2073648705, -173692053, H_2aO57);
+X5DXT955x = ZZZng7_3((unsigned char)1316660840, -1777665849, -2073648705, -173692053, H_2aO57);
 break;
 case 1:
 pTS07Eu_Sg = ZZZng7_3((unsigned char)-685829528, 1450113389, 2043719317, Hv2fmdY5W, 802998363);
@@ -67,7 +67,7 @@ case 5:
 nr74wY4b++;
 break;
 case 6:
-pTS07Eu_Sg = ZZZng7_3(-786442693, lDK_5q, Lk0M_q8x, -619065847, 2032097772);
+pTS07Eu_Sg = ZZZng7_3((unsigned char)-786442693, lDK_5q, Lk0M_q8x, -619065847, 2032097772);
 break;
 case 7:
 V8Sr3e &= 1548786565;
@@ -96,7 +96,7 @@ else if (HM__nZjgk)
 {
 for (int k = 0; k < 10; k++)
 {
-X5DXT955x = ZZZng7_3(1539809320, 1850936162, -889528875, 1313530218, 1107057207);
+X5DXT955x = ZZZng7_3((unsigned char)1539809320, 1850936162, -889528875, 1313530218, 1107057207);
 }
 }
 else if (Lk0M_q8x > -1899218401)
@@ -126,7 +126,7 @@ else
 {
 if (MQHMDxfz)
 {
-std::cout << ZZZng7_3(432858515, vQ2_TlI27, -948228007, vTM3Fqkor, 282306201) << "N29rT_4" << ZZZng7_3(he8_tKX3, vQ2_TlI27, -1590041507, 310225999, WTNQ__47) << ZZZng7_3(he8_tKX3, 92399846, -1419212088, vTM3Fqkor, 1065972344) << TlZpr0 << std::endl;
+std::cout << ZZZng7_3((unsigned char)432858515, vQ2_TlI27, -948228007, vTM3Fqkor, 282306201) << "N29rT_4" << ZZZng7_3(he8_tKX3, vQ2_TlI27, -1590041507, 310225999, WTNQ__47) << ZZZng7_3(he8_tKX3, 92399846, -1419212088, vTM3Fqkor, 1065972344) << TlZpr0 << std::endl;
 }
 }
 if (CTey_5 < vQ5kDuB5)
@@ -169,7 +169,7 @@ for (int i = 0; i < 4; i++)
 switch (nO92)
 {
 case 0:
-pTS07Eu_Sg = ZZZng7_3(1103693605, XgQ7_tog, p89_POFM, 1186082395, z15z0);
+pTS07Eu_Sg = ZZZng7_3((unsigned char)1103693605, XgQ7_tog, p89_POFM, 1186082395, z15z0);
 break;
 default:
 pTS07Eu_Sg = ZZZng7_3((unsigned char)-830309452, pTS07Eu_Sg, vi6aDwW, nO92, 1324413570);
@@ -193,7 +193,7 @@ e0umTt &= 3169150;
 }
 }
 
-Dz7568 = ZZZng7_3(-2116447625, k1bHmSeP, 1913523689, -969054635, nZ71prcaAt);
+Dz7568 = ZZZng7_3((unsigned char)-2116447625, k1bHmSeP, 1913523689, -969054635, nZ71prcaAt);
 if ((nZ71prcaAt == wY8s1a) || (Hv2fmdY5W >= 566388370))
 {
 try
@@ -221,7 +221,7 @@ mWSV3 <<= 395934269;
 break;
 case 'c':
 case 'C':
-X5DXT955x = ZZZng7_3(1124106121, -443850719, 1672335879, OkoLDw_1g, l_6xZuy6em);
+X5DXT955x = ZZZng7_3((unsigned char)1124106121, -443850719, 1672335879, OkoLDw_1g, l_6xZuy6em);
 break;
 case 'd':
 case 'D':
@@ -233,7 +233,7 @@ uSl0 = pmAU22 - 25379420;
 break;
 case 'f':
 case 'F':
-BPy5F = ZZZng7_3(588547495, 538705184, -1027045030, 341319385, Hv2fmdY5W);
+BPy5F = ZZZng7_3((unsigned char)588547495, 538705184, -1027045030, 341319385, Hv2fmdY5W);
 break;
 case 'g':
 case 'G':
@@ -272,7 +272,7 @@ break;
 }
 else
 {
-std::cout << ZZZng7_3(Hnsd, t6u9wxmWF, k0yo, Y6S26Y, SZMZg_AdS7) << ZZZng7_3(1613375252, t6u9wxmWF, k0yo, Y6S26Y, SZMZg_AdS7) << std::endl;
+std::cout << ZZZng7_3(Hnsd, t6u9wxmWF, k0yo, Y6S26Y, SZMZg_AdS7) << ZZZng7_3((unsigned char)1613375252, t6u9wxmWF, k0yo, Y6S26Y, SZMZg_AdS7) << std::endl;
 }
 
 for (int i = 2; i >= 0; --i)
@@ -294,7 +294,7 @@ vTM3Fqkor %= trXc;
 }
 else if (SZMZg_AdS7 != trXc)
 {
-X5DXT955x = ZZZng7_3(1568536095, vg7jgkj0S, -1841226979, 283411658, 879724411);
+X5DXT955x = ZZZng7_3((unsigned char)1568536095, vg7jgkj0S, -1841226979, 283411658, 879724411);
 }
 else if ((H_2aO57) || ((SLlY4 >= -680396988) && (mWSV3 != 89994869)))
 {
@@ -310,7 +310,7 @@ int k = 5;
 while (k >= 0)
 {
 --k;
-pTS07Eu_Sg = ZZZng7_3(-1809240199, 496555831, zaib69Z1s, -2064561796, pTS07Eu_Sg);
+pTS07Eu_Sg = ZZZng7_3((unsigned char)-1809240199, 496555831, zaib69Z1s, -2064561796, pTS07Eu_Sg);
 }
 }
 }
@@ -320,7 +320,7 @@ else
 int k = 8;
 do
 {
-Dz7568 = ZZZng7_3(-608886828, Q66KdYcz9G, TlZpr0, xdJ7IX2_v, 702017713);
+Dz7568 = ZZZng7_3((unsigned char)-608886828, Q66KdYcz9G, TlZpr0, xdJ7IX2_v, 702017713);
 --k;
 }
 while (k >= 0);

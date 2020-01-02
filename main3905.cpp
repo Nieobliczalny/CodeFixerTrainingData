@@ -64,7 +64,7 @@ catch (int& errorCode)
 {
 miYO5Vg2WE = sKlp_y();
 }
-I8Hf = DeZY(I8Hf, bH6d5B_, Vo30f9, 1514370053);
+I8Hf = DeZY(I8Hf, bH6d5B_, Vo30f9, (short)1514370053);
 
 for (int i = 0; i < 5; ++i)
 {
@@ -80,7 +80,7 @@ do
 int k = 0;
 do
 {
-q_64ajj5D = DeZY(-691728374, 135950030, 412575100, OaYNcx3H);
+q_64ajj5D = DeZY(-691728374, 135950030, (char)412575100, OaYNcx3H);
 k++;
 }
 while (k < 3);
@@ -112,7 +112,7 @@ case 0:
 bgM0E = (int)abs(N719F);
 break;
 case 1:
-bv3r3MY33 = DeZY(422609447, -2066425550, -1156386803, Kp3l);
+bv3r3MY33 = DeZY(422609447, -2066425550, (char)-1156386803, Kp3l);
 break;
 case 2:
 t84u = j_t9K_mK9F + lgB20YWWz;
@@ -295,7 +295,7 @@ i++;
 switch (EM_q5JsP7M)
 {
 case 0:
-rDwA35M0R = DeZY(-348441030, -1423242001, 2111571655, (short)1474102775);
+rDwA35M0R = DeZY(-348441030, -1423242001, (char)2111571655, (short)1474102775);
 break;
 case 1:
 miYO5Vg2WE = sKlp_y();
@@ -316,7 +316,7 @@ case 6:
 AcnV40OP = L7_upgL0 << 1423918154;
 break;
 case 7:
-P2Tn_2flkZ = DeZY(N719F, P2Tn_2flkZ, -630381813, (short)-1876066174);
+P2Tn_2flkZ = DeZY(N719F, P2Tn_2flkZ, (char)-630381813, (short)-1876066174);
 break;
 }
 }
@@ -328,7 +328,7 @@ return 0;
 
 unsigned short  DeZY(long  dCaiJV58,unsigned long  P_b7a_1,char  gP1C,short  Mt403)
 {
-  return  -1498040221;
+  return  (unsigned short)-1498040221;
 }
 
 long long  sKlp_y()

@@ -61,7 +61,7 @@ j12L = (int)abs(dG7FU);
 break;
 case 'c':
 case 'C':
-MY__Q9 = obZ1M(MY__Q9, 677953446, -40596162);
+MY__Q9 = obZ1M(MY__Q9, (short)677953446, -40596162);
 break;
 case 'd':
 case 'D':
@@ -73,7 +73,7 @@ return 0;
 
 short LhC7_(unsigned int Y4kP_,unsigned char vZBK,unsigned short int L1HgTx)
 {
- return -410690954;
+ return (short)-410690954;
 }
 
 unsigned long  obZ1M(short int  d_Ah67,short  IsuHiOfDi,unsigned int  d772T)
@@ -83,7 +83,7 @@ unsigned long  obZ1M(short int  d_Ah67,short  IsuHiOfDi,unsigned int  d772T)
 
 char z3Cf_(short int mLWZ8,int mSV7)
 {
- return 1117354579;
+ return (char)1117354579;
 }
 
 unsigned long rmU0LE2_W(char r3saUob,long long Kr3JMgJC6) {

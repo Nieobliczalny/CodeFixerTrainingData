@@ -19,7 +19,7 @@ int main(void)
   double  Ct6xa9IK_y  =  -1385210718,  U2PGH  =  1524861818,  wi3p4NSXL8  =  941489433;
  unsigned long PEL5 = 0, De6CfFNgC = 0;
 
-std::cout << KXN6G(1598423051, -1139699301, (unsigned char)818015514) << std::endl;
+std::cout << KXN6G((unsigned char)1598423051, -1139699301, (unsigned char)818015514) << std::endl;
 
 {
 int i = 9;
@@ -39,7 +39,7 @@ while (i >= 0);
 }
 if ((wi3p4NSXL8) && (U2PGH))
 {
-std::cout << KXN6G(Ct6xa9IK_y, U2PGH, wi3p4NSXL8) << wi3p4NSXL8 << KXN6G(Ct6xa9IK_y, -416159370, 1805579158) << std::endl;
+std::cout << KXN6G(Ct6xa9IK_y, U2PGH, wi3p4NSXL8) << wi3p4NSXL8 << KXN6G(Ct6xa9IK_y, -416159370, (unsigned char)1805579158) << std::endl;
 }
 else if (PEL5 > 678513325)
 {
@@ -88,7 +88,7 @@ wi3p4NSXL8 = (double)(U2PGH);
 int i = 10;
 while (i >= 0)
 {
-PEL5 = KXN6G(-269600425, Ct6xa9IK_y, (unsigned char)-684119288);
+PEL5 = KXN6G((unsigned char)-269600425, Ct6xa9IK_y, (unsigned char)-684119288);
 --i;
 }
 }
@@ -124,7 +124,7 @@ else if ((Ct6xa9IK_y) && ((PEL5 != U2PGH) && (U2PGH < wi3p4NSXL8)))
 {
 for (int k = 5; k >= 0; --k)
 {
-wi3p4NSXL8 = KXN6G(671196507, Ct6xa9IK_y, wi3p4NSXL8) / 579446788;
+wi3p4NSXL8 = KXN6G((unsigned char)671196507, Ct6xa9IK_y, wi3p4NSXL8) / 579446788;
 }
 }
 else if (U2PGH > 1202406294)
@@ -143,7 +143,7 @@ else if ((Ct6xa9IK_y > -1620947678) || (De6CfFNgC & -466926626))
 {
 if (PEL5 < 552180504)
 {
-PEL5 = KXN6G(U2PGH, 2069609612, 772319129);
+PEL5 = KXN6G(U2PGH, 2069609612, (unsigned char)772319129);
 }
 }
 else
@@ -162,7 +162,7 @@ PEL5 = KXN6G(PEL5, -671201354, wi3p4NSXL8);
 }
 else if (wi3p4NSXL8 < PEL5)
 {
-PEL5 = KXN6G(-2052166663, -421445920, U2PGH);
+PEL5 = KXN6G((unsigned char)-2052166663, -421445920, U2PGH);
 }
 else if ((Ct6xa9IK_y < De6CfFNgC) && (Ct6xa9IK_y))
 {
@@ -184,7 +184,7 @@ case 0:
 wi3p4NSXL8 = (int)abs(Ct6xa9IK_y);
 break;
 case 1:
-Ct6xa9IK_y = KXN6G(1253998647, wi3p4NSXL8, U2PGH) << 1355088660;
+Ct6xa9IK_y = KXN6G((unsigned char)1253998647, wi3p4NSXL8, U2PGH) << 1355088660;
 break;
 case 2:
 PEL5 = KXN6G(PEL5, -1146407248, (unsigned char)-1138308709);
@@ -205,7 +205,7 @@ int i = 2;
 while (i >= 0)
 {
 --i;
-std::cout << U2PGH << KXN6G(771884141, -1657066273, (unsigned char)-1882458582) << std::endl;
+std::cout << U2PGH << KXN6G((unsigned char)771884141, -1657066273, (unsigned char)-1882458582) << std::endl;
 }
 }
 
@@ -234,7 +234,7 @@ De6CfFNgC = KXN6G(De6CfFNgC, U2PGH, PEL5);
 break;
 }
 
-std::cout << KXN6G(De6CfFNgC, 744341141, 1009940538) << U2PGH << KXN6G((unsigned char)-989633995, U2PGH, 1957128922) << std::endl;
+std::cout << KXN6G(De6CfFNgC, 744341141, (unsigned char)1009940538) << U2PGH << KXN6G((unsigned char)-989633995, U2PGH, 1957128922) << std::endl;
 
 try
 {
@@ -263,7 +263,7 @@ wi3p4NSXL8 = (int)abs(Ct6xa9IK_y);
 break;
 case 'b':
 case 'B':
-PEL5 = KXN6G(1554783292, 1910312732, wi3p4NSXL8);
+PEL5 = KXN6G((unsigned char)1554783292, 1910312732, wi3p4NSXL8);
 break;
 case 'c':
 case 'C':
@@ -316,7 +316,7 @@ else if (PEL5 > 2115889319)
 {
 try
 {
-PEL5 = KXN6G(1897056494, 77123397, (unsigned char)-930551541);
+PEL5 = KXN6G((unsigned char)1897056494, 77123397, (unsigned char)-930551541);
 }
 catch (int& errorCode)
 {
@@ -342,7 +342,7 @@ int j = 3;
 do
 {
 j--;
-std::cout << KXN6G(353554008, PEL5, U2PGH) << De6CfFNgC << "B0kB75rG" << "s7QrFwO0" << std::endl;
+std::cout << KXN6G((unsigned char)353554008, PEL5, U2PGH) << De6CfFNgC << "B0kB75rG" << "s7QrFwO0" << std::endl;
 }
 while (j >= 0);
 }
@@ -370,7 +370,7 @@ else if (wi3p4NSXL8 != 1304825751)
 {
 if (((U2PGH <= wi3p4NSXL8) || (De6CfFNgC & 79347210)) || (Ct6xa9IK_y != 1344437679))
 {
-PEL5 = KXN6G(-2055906015, -2024558345, (unsigned char)-926883697);
+PEL5 = KXN6G((unsigned char)-2055906015, -2024558345, (unsigned char)-926883697);
 }
 else
 {

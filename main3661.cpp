@@ -222,7 +222,7 @@ return 0;
 }
 
 char	o09l()	{
-	return	1247740225;
+	return	(char)1247740225;
 }
 
 short int    F25Z()

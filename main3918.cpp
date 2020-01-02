@@ -14,7 +14,7 @@ using std::floor;
 
 int main(void) {
   float  L7810R6  =  -1728404978;
-  short  F3WLm174p  =  116003266;
+  short  F3WLm174p  =  (short)116003266;
     short int    ZQ4x85XF    =    0;
  unsigned long juGE9 = 437976058;
     unsigned short int    Gnso0i    =    (unsigned short)496172226;
@@ -28,7 +28,7 @@ int main(void) {
   int  u44er  =  -405200505;
 	long long	kz7at6T3s	=	213996144;
     long    o80S_H    =    1610395549;
- unsigned char T6K55 = -275596870;
+ unsigned char T6K55 = (unsigned char)-275596870;
     long long    ZeH9rQ    =    -1614499812;
  long double nx2yEw = 477649021;
     unsigned long long    VasXJ40Xk0    =    -891050649;
@@ -189,7 +189,7 @@ KHgCE569C %= Gnso0i;
 while (j >= 0);
 }
 }
-X6PK = (Ap7L5Rzu) ? 2101145587 : prg72xwb;
+X6PK = (Ap7L5Rzu) ? (short)2101145587 : prg72xwb;
 if (((Gnso0i >= -350357928) && (ZeH9rQ)) || (IV6g & -1955750128))
 {
 if (nJf74nUA5 >= -1555698941)
@@ -340,7 +340,7 @@ else if (lMp2q > -2081409383)
 int k = 0;
 while (k < 5)
 {
-D416 = (D416 >= Gnso0i) ? VasXJ40Xk0 : -1840029373;
+D416 = (D416 >= Gnso0i) ? VasXJ40Xk0 : (short)-1840029373;
 ++k;
 }
 }

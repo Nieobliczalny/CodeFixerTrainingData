@@ -83,7 +83,7 @@ do
 {
 if ((P9xJQ != 200097549) && (RsCUt5G <= 1498632999))
 {
-tjs01_4n = A9L2(1121267789);
+tjs01_4n = A9L2((unsigned short)1121267789);
 }
 j--;
 }
@@ -98,7 +98,7 @@ for (int i = 0; i < 6; i++)
 {
 tjs01_4n = E_Slg3P0h >> 1968182429;
 }
-if ((RsCUt5G / OV2gp5X(P9xJQ, -649554242, E_Slg3P0h)) >= 1677306825)
+if ((RsCUt5G / OV2gp5X(P9xJQ, (unsigned short)-649554242, E_Slg3P0h)) >= 1677306825)
 {
 tjs01_4n = RsCUt5G / OV2gp5X((short)1104092769, -1026160101, E_Slg3P0h);
 }
@@ -124,7 +124,7 @@ else if (P9xJQ > 1820513512)
 int k = 0;
 do
 {
-E_Slg3P0h = OV2gp5X(-1193467639, E_Slg3P0h, (unsigned char)-548762337);
+E_Slg3P0h = OV2gp5X((short)-1193467639, E_Slg3P0h, (unsigned char)-548762337);
 k++;
 }
 while (k < 3);
@@ -230,7 +230,7 @@ long	OV2gp5X(short	VQjjqV57,unsigned short	z_x2yihR6,unsigned char	vB_9WXaSs)
 
 short int  C7sPMcJ4(unsigned long  YDzVRx6mA)
 {
-  return  -808627612;
+  return  (short)-808627612;
 }
 
 unsigned short int    pA8B(unsigned char    W8d9B7,long    XM07)
@@ -240,6 +240,6 @@ unsigned short int    pA8B(unsigned char    W8d9B7,long    XM07)
 
 unsigned short Usmsd()
 {
- return -60961954;
+ return (unsigned short)-60961954;
 }
 

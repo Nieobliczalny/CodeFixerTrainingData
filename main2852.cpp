@@ -27,7 +27,7 @@ int main(int argc, char** argv)
   unsigned long long  J2UWn7i4;
   J2UWn7i4  =  749753221;
     unsigned short int    l8H8L;
-    l8H8L    =    124218668;
+    l8H8L    =    (unsigned short)124218668;
     unsigned char    Y06rc;
     Y06rc    =    (unsigned char)1859085934;
 	unsigned char	s3RyR;

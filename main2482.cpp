@@ -15,7 +15,7 @@ using std::floor;
 int main(void)
 {
     short int    y7v7;
-    y7v7    =    775149339;
+    y7v7    =    (short)775149339;
 	short	g1_0Sf5;
 	g1_0Sf5	=	0;
  unsigned int djwzK;
@@ -103,7 +103,7 @@ switch (g1_0Sf5)
 {
 case 'a':
 case 'A':
-y7v7 = (g1_0Sf5 & -1040596545) ? 1348997955 : (short)-1950886608;
+y7v7 = (g1_0Sf5 & -1040596545) ? (short)1348997955 : (short)-1950886608;
 break;
 case 'b':
 case 'B':
@@ -573,7 +573,7 @@ else if (djwzK)
 {
 if (djwzK >= g1_0Sf5)
 {
-y7v7 = (djwzK != g1_0Sf5) ? 620854698 : (short)-254758548;
+y7v7 = (djwzK != g1_0Sf5) ? (short)620854698 : (short)-254758548;
 }
 else
 {

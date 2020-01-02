@@ -8,7 +8,7 @@
 
 
 unsigned short  e25aw(short int  DQe8MmMFHt,unsigned short  D6674mE,short  E97aA)  {
-  return  -432185982;
+  return  (unsigned short)-432185982;
 }
 
 long Y16w(unsigned short JBBT7g,unsigned short int wSF158G173,unsigned short sug0N5KbHM,unsigned long e3BF2n) {
@@ -21,7 +21,7 @@ short Sj27(unsigned short eeO_i2akO5) {
 
 unsigned short int foLL(unsigned int l4r5_CSA)
 {
- return -672156379;
+ return (unsigned short)-672156379;
 }
 
 long long AHc7X0(int Vp0zr4iF,char Om5WfD5Wb,long QBaq4,char CqE2iyL_84,unsigned long long z4PDQ0_XQ)
@@ -32,7 +32,7 @@ long long AHc7X0(int Vp0zr4iF,char Om5WfD5Wb,long QBaq4,char CqE2iyL_84,unsigned
 int main()
 {
  unsigned short QgFaQ, DH6395_, BG2PI;
- QgFaQ = 69538037;
+ QgFaQ = (unsigned short)69538037;
  DH6395_ = (unsigned short)492261830;
  BG2PI = 1696386862;
     long long    xe4nZn3,    L428ho5,    v8CeBEPp,    dbpO0;
@@ -64,7 +64,7 @@ BG2PI = foLL(2022316299);
 break;
 case 'b':
 case 'B':
-dbpO0 = Sj27(-843454890);
+dbpO0 = Sj27((unsigned short)-843454890);
 break;
 case 'c':
 case 'C':
@@ -87,7 +87,7 @@ if (QgFaQ == 1944217634)
 switch (L428ho5)
 {
 case 0:
-DH6395_ = Y16w(v8CeBEPp, -533867940, L428ho5, DH6395_);
+DH6395_ = Y16w(v8CeBEPp, (unsigned short)-533867940, L428ho5, DH6395_);
 break;
 }
 }
@@ -115,7 +115,7 @@ std::cout << L428ho5 << L428ho5 << foLL(dbpO0) << std::endl;
 }
 }
 
-BG2PI = Y16w(xe4nZn3, -203634572, v8CeBEPp, dbpO0);
+BG2PI = Y16w(xe4nZn3, (unsigned short)-203634572, v8CeBEPp, dbpO0);
 
 QgFaQ = e25aw(QgFaQ, (unsigned short)1225130905, -1302961325);
 
@@ -161,7 +161,7 @@ int i = 0;
 while (i < 8)
 {
 ++i;
-BG2PI = AHc7X0(L428ho5, -515688076, BG2PI, (char)-1464613717, 1229348644);
+BG2PI = AHc7X0(L428ho5, (char)-515688076, BG2PI, (char)-1464613717, 1229348644);
 }
 }
 {
@@ -175,7 +175,7 @@ while (j < 4)
 {
 if (v8CeBEPp & dbpO0)
 {
-DH6395_ = Y16w(-1470085373, (unsigned short)1132759940, dbpO0, -1958601573);
+DH6395_ = Y16w((unsigned short)-1470085373, (unsigned short)1132759940, dbpO0, -1958601573);
 }
 ++j;
 }
@@ -194,7 +194,7 @@ do
 {
 for (int k = 7; k >= 0; k--)
 {
-DH6395_ = (v8CeBEPp == -1588405181) ? 167094891 : AHc7X0(DH6395_, QgFaQ, 1937490602, (char)279290019, 1267665497);
+DH6395_ = (v8CeBEPp == -1588405181) ? (unsigned short)167094891 : AHc7X0(DH6395_, QgFaQ, 1937490602, (char)279290019, 1267665497);
 }
 ++j;
 }
@@ -254,7 +254,7 @@ int i = 6;
 while (i >= 0)
 {
 --i;
-dbpO0 = Sj27(1727250312);
+dbpO0 = Sj27((unsigned short)1727250312);
 }
 }
 
@@ -277,7 +277,7 @@ case 0:
 dbpO0 = (int)abs(xe4nZn3);
 break;
 case 1:
-BG2PI = e25aw(-517904803, v8CeBEPp, (short)719474338);
+BG2PI = e25aw((short)-517904803, v8CeBEPp, (short)719474338);
 break;
 case 2:
 dbpO0 = (int)abs(L428ho5);
@@ -374,7 +374,7 @@ while (i < 1);
 QgFaQ = DH6395_ * 512970493;
 for (int i = 0; i < 7; ++i)
 {
-std::cout << e25aw(L428ho5, dbpO0, 1295121367) << Y16w((unsigned short)-1721916417, 1495614491, DH6395_, QgFaQ) << Sj27(-603674913) << "mxt34w5z" << std::endl;
+std::cout << e25aw(L428ho5, dbpO0, (short)1295121367) << Y16w((unsigned short)-1721916417, 1495614491, DH6395_, QgFaQ) << Sj27(-603674913) << "mxt34w5z" << std::endl;
 }
 
 {
@@ -466,7 +466,7 @@ xe4nZn3 = Sj27(QgFaQ);
 
 DH6395_ = (L428ho5 <= dbpO0) ? L428ho5 : AHc7X0(1347571129, xe4nZn3, 438855288, v8CeBEPp, BG2PI);
 
-BG2PI = e25aw(xe4nZn3, v8CeBEPp, -1659047818);
+BG2PI = e25aw(xe4nZn3, v8CeBEPp, (short)-1659047818);
 if (BG2PI < -142924597)
 {
 QgFaQ |= DH6395_;
@@ -476,7 +476,7 @@ try
 {
 if (xe4nZn3 < -344350094)
 {
-DH6395_ = AHc7X0(xe4nZn3, -157520985, 289779296, (char)-1497145481, -2046348128);
+DH6395_ = AHc7X0(xe4nZn3, (char)-157520985, 289779296, (char)-1497145481, -2046348128);
 }
 }
 catch (int& errorCode)
@@ -521,7 +521,7 @@ QgFaQ /= 1754333047;
 }
 else if ((dbpO0 & -1208778334) && (DH6395_))
 {
-QgFaQ = e25aw(-1825955934, (unsigned short)-94562217, dbpO0);
+QgFaQ = e25aw((short)-1825955934, (unsigned short)-94562217, dbpO0);
 }
 else if ((v8CeBEPp & L428ho5) || (xe4nZn3 > -285307381))
 {
@@ -536,7 +536,7 @@ else
 {
 try
 {
-QgFaQ = Y16w(290782172, dbpO0, v8CeBEPp, -1416190340);
+QgFaQ = Y16w((unsigned short)290782172, dbpO0, v8CeBEPp, -1416190340);
 }
 catch (int& errorCode)
 {
@@ -549,7 +549,7 @@ else
 switch (L428ho5)
 {
 case 0:
-v8CeBEPp = Sj27(410388662);
+v8CeBEPp = Sj27((unsigned short)410388662);
 break;
 }
 }

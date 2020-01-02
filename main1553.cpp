@@ -25,7 +25,7 @@ int main(void) {
     unsigned long    Z83DAp;
     Z83DAp    =    577172321;
 	short	K4YZ;
-	K4YZ	=	-390289310;
+	K4YZ	=	(short)-390289310;
 	short int	e3Aqne24;
 	e3Aqne24	=	0;
   long double  Ig62pMK;
@@ -35,7 +35,7 @@ int main(void) {
     long long    PXgl02;
     PXgl02    =    -1846428019;
   unsigned short int  CryYE;
-  CryYE  =  2080721589;
+  CryYE  =  (unsigned short)2080721589;
 	int	CPT8emm_R;
 	CPT8emm_R	=	-2057912330;
   unsigned long long  IQwv7eLh5i;
@@ -81,7 +81,7 @@ m15Q = (int)ceil(Ig62pMK);
 }
 }
 
-std::cout << "C416A8wjeP" << G606yw2Ly(CryYE, 1496417104, 933486011, IQwv7eLh5i) << Z102uvaWC << std::endl;
+std::cout << "C416A8wjeP" << G606yw2Ly(CryYE, 1496417104, (unsigned short)933486011, IQwv7eLh5i) << Z102uvaWC << std::endl;
 
 K4YZ |= 1446234269;
 
@@ -91,7 +91,7 @@ case 0:
 IxWu16H0 = G606yw2Ly((unsigned short)-1549566569, 1575829438, 827409220, 1936790268);
 break;
 case 1:
-e3Aqne24 = G606yw2Ly(CryYE, CPT8emm_R, 1368850480, 1533304450);
+e3Aqne24 = G606yw2Ly(CryYE, CPT8emm_R, (unsigned short)1368850480, 1533304450);
 break;
 case 2:
 Ig62pMK = (int)floor(m15Q);
@@ -109,7 +109,7 @@ case 6:
 m15Q = (int)floor(Ig62pMK);
 break;
 case 7:
-A5Z3YQQ = G606yw2Ly(CryYE, 1774176971, PXgl02, -602100194);
+A5Z3YQQ = G606yw2Ly(CryYE, 1774176971, PXgl02, (unsigned short)-602100194);
 break;
 }
 if ((IxWu16H0 / IxWu16H0) > -2053805300)
@@ -122,7 +122,7 @@ Z102uvaWC = G606yw2Ly((unsigned short)1941362305, 1430312702, 1977612493, Z102uv
 }
 }
 }
-e3Aqne24 = G606yw2Ly(e3Aqne24, 1465653092, 662094926, K4YZ);
+e3Aqne24 = G606yw2Ly(e3Aqne24, 1465653092, (unsigned short)662094926, K4YZ);
 
 CPT8emm_R = W30z & K4YZ;
 

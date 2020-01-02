@@ -18,7 +18,7 @@ int main(void) {
  int Ym9j;
  Ym9j = -2121274446;
  short fufs7E;
- fufs7E = -88825958;
+ fufs7E = (short)-88825958;
 	long	zMD0N1kS75;
 	zMD0N1kS75	=	-1363878391;
 	short	a5bFT;
@@ -30,7 +30,7 @@ int main(void) {
 	unsigned int	X_Snjl9GLe;
 	X_Snjl9GLe	=	858930683;
  char afg2GF7lRl;
- afg2GF7lRl = -1502756073;
+ afg2GF7lRl = (char)-1502756073;
 	short	KIfner62;
 	KIfner62	=	(short)-1399490719;
 	float	Ye43Yp;
@@ -40,7 +40,7 @@ int main(void) {
     long long    D1849Diq;
     D1849Diq    =    1168533305;
   char  SV_P68I;
-  SV_P68I  =  -2144618801;
+  SV_P68I  =  (char)-2144618801;
 	int	PJ46y0mu9;
 	PJ46y0mu9	=	-335750131;
  unsigned short e1gP4V7vm;
@@ -56,7 +56,7 @@ int main(void) {
   unsigned long  R4WhMzgy;
   R4WhMzgy  =  -2062544236;
 	unsigned char	zgb93;
-	zgb93	=	-721772126;
+	zgb93	=	(unsigned char)-721772126;
     unsigned long    y5ObedkM_E;
     y5ObedkM_E    =    -839912106;
 	short int	X_Ch;
@@ -68,7 +68,7 @@ int main(void) {
     long long    DuHnp;
     DuHnp    =    -1134798350;
 	unsigned char	tfxkWxo;
-	tfxkWxo	=	-596313887;
+	tfxkWxo	=	(unsigned char)-596313887;
   double  lGu84i;
   lGu84i  =  950273765;
  char X4_WH96ec;
@@ -78,7 +78,7 @@ int main(void) {
 	float	z61aqSlqyE;
 	z61aqSlqyE	=	1105981245;
 	short	f9U___e1M7;
-	f9U___e1M7	=	191527280;
+	f9U___e1M7	=	(short)191527280;
   unsigned short int  ij_TdnA_o;
   ij_TdnA_o  =  -896636909;
 	short int	c1Ja2IZv;
@@ -92,7 +92,7 @@ int main(void) {
   int  MRZl1owoa;
   MRZl1owoa  =  1227632988;
     short    C1Q2BC;
-    C1Q2BC    =    826719203;
+    C1Q2BC    =    (short)826719203;
  double C2_VE;
  C2_VE = -836155539;
  short int Ybor;
@@ -102,7 +102,7 @@ int main(void) {
     float    qbG74;
     qbG74    =    1080793412;
     unsigned short    fHn54dyK;
-    fHn54dyK    =    1129351241;
+    fHn54dyK    =    (unsigned short)1129351241;
     long    x5Apj;
     x5Apj    =    -289445195;
   unsigned short  EwXE4z;
@@ -768,7 +768,7 @@ case 'g':
 z61aqSlqyE -= 1476043494;
 break;
 case 'h':
-c1Ja2IZv = (qbG74 >= 1272781043) ? -1718360652 : (short)-568970024;
+c1Ja2IZv = (qbG74 >= 1272781043) ? (short)-1718360652 : (short)-568970024;
 break;
 default:
 C2_VE = (int)floor(qbG74);

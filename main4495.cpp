@@ -22,7 +22,7 @@ int main() {
  int HJU9;
  HJU9 = 0;
   unsigned short int  W9k7cT879;
-  W9k7cT879  =  1500940194;
+  W9k7cT879  =  (unsigned short)1500940194;
     unsigned short int    ZMhaQ2;
     ZMhaQ2    =    (unsigned short)-1402053583;
   unsigned short  q82Oi;
@@ -34,7 +34,7 @@ int main() {
 	long double	pQ_n;
 	pQ_n	=	-1638664703;
     unsigned short    zfb1FX;
-    zfb1FX    =    -199373355;
+    zfb1FX    =    (unsigned short)-199373355;
  char lEYL;
  lEYL = (char)-1439136969;
   int  Dw6qlz2;
@@ -52,7 +52,7 @@ do
 {
 if (zfb1FX > 1003799150)
 {
-HJU9 = WHC3m1Q2rt(111314696);
+HJU9 = WHC3m1Q2rt((short)111314696);
 }
 else if ((oU44 == 855602685) && ((W9k7cT879 != pQ_n) && (q82Oi <= Dw6qlz2)))
 {
@@ -203,7 +203,7 @@ while (j >= 0)
 {
 if (Xa_gb1F == 1036213747)
 {
-JLmiA_uqGc = v46xWeT8(1413063482);
+JLmiA_uqGc = v46xWeT8((unsigned short)1413063482);
 }
 else if ((ya_90 < -1942780396) && (TU1Ck & -401894874))
 {
@@ -242,7 +242,7 @@ HJU9 = WHC3m1Q2rt(JLmiA_uqGc);
 break;
 case 'b':
 case 'B':
-zfb1FX = v46xWeT8(418087638);
+zfb1FX = v46xWeT8((unsigned short)418087638);
 break;
 case 'c':
 case 'C':
@@ -258,7 +258,7 @@ break;
 }
 std::cout << "Llc5" << "oJ8F1" << "bb5_E" << std::endl;
 
-if (WHC3m1Q2rt(-264246698) == 0)
+if (WHC3m1Q2rt((short)-264246698) == 0)
 {
 	Dw6qlz2 = RU09(591784678, -518344656) / WHC3m1Q2rt((short)-264246698);
 }
@@ -277,7 +277,7 @@ case 1:
 pQ_n = oU44 | 1558529815;
 break;
 default:
-nPUWL3 = WHC3m1Q2rt(-1000958892);
+nPUWL3 = WHC3m1Q2rt((short)-1000958892);
 break;
 }
 return 0;
@@ -290,7 +290,7 @@ long  RU09(unsigned long long  HYPw1,long  PGhbj9H)
 
 short  v46xWeT8(unsigned short int  OYrn2)
 {
-  return  -411156679;
+  return  (short)-411156679;
 }
 
 unsigned short    WHC3m1Q2rt(short int    w_7c48E7f)

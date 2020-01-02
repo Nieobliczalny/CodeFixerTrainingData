@@ -32,7 +32,7 @@ int k = 0;
 while (k < 7)
 {
 k++;
-D_q4oj01k = uzyqTB_2O4(-1897432759, ydj_94J1, -61142163, -1549146367);
+D_q4oj01k = uzyqTB_2O4(-1897432759, ydj_94J1, -61142163, (short)-1549146367);
 }
 }
 }
@@ -90,7 +90,7 @@ else
 switch (t7_n30u4)
 {
 case 0:
-V6a13sMOP = uzyqTB_2O4(V6a13sMOP, -1420156539, d_9c, ydj_94J1) / D_q4oj01k;
+V6a13sMOP = uzyqTB_2O4(V6a13sMOP, (unsigned short)-1420156539, d_9c, ydj_94J1) / D_q4oj01k;
 break;
 case 1:
 D_q4oj01k >>= 1794774958;
@@ -111,7 +111,7 @@ case 6:
 t7_n30u4 = uzyqTB_2O4(-436666398, YMOm9qz0, -165203419, IDBpRZeC) << V6a13sMOP;
 break;
 case 7:
-u0xpg6H = KvU58IT(1986887112, 103557368);
+u0xpg6H = KvU58IT(1986887112, (short)103557368);
 break;
 default:
 Go4f_kaT = uzyqTB_2O4(-587150667, (unsigned short)428207399, 1929631743, t7_n30u4);
@@ -135,7 +135,7 @@ t7_n30u4 = uzyqTB_2O4(t7_n30u4, H8mQ, -1956139616, rm6Y_7);
 }
 else
 {
-std::cout << loP1 << uzyqTB_2O4(t7_n30u4, H8mQ, D_q4oj01k, 396134155) << "PLkDX" << std::endl;
+std::cout << loP1 << uzyqTB_2O4(t7_n30u4, H8mQ, D_q4oj01k, (short)396134155) << "PLkDX" << std::endl;
 }
 
 if (sBG3 != cKk1oU_olB)
@@ -146,7 +146,7 @@ case 'a':
 t7_n30u4 = u0xpg6H % V6a13sMOP;
 break;
 case 'b':
-d_9c = uzyqTB_2O4(-239426649, 1802333697, -755196025, (short)-1516122754);
+d_9c = uzyqTB_2O4(-239426649, (unsigned short)1802333697, -755196025, (short)-1516122754);
 break;
 case 'c':
 YMOm9qz0 = KvU58IT(YMOm9qz0, qFY1);
@@ -182,7 +182,7 @@ else
 {
 if (H8mQ < fRCOdZitIP)
 {
-YMOm9qz0 = KvU58IT(-915410181, -1206365873);
+YMOm9qz0 = KvU58IT(-915410181, (short)-1206365873);
 }
 }
 
@@ -196,7 +196,7 @@ if (loP1 & -518089231)
 int k = 2;
 do
 {
-u0xpg6H = KvU58IT(-570654916, -1978305373);
+u0xpg6H = KvU58IT(-570654916, (short)-1978305373);
 --k;
 }
 while (k >= 0);
@@ -215,7 +215,7 @@ case 'a':
 qFY1 = uzyqTB_2O4(qFY1, sBG3, rm6Y_7, qzl5I97);
 break;
 case 'b':
-ydj_94J1 = KvU58IT(-321097613, -2064991252);
+ydj_94J1 = KvU58IT(-321097613, (short)-2064991252);
 break;
 case 'c':
 cKk1oU_olB = KvU58IT(V6a13sMOP, H8mQ) % 54539457;
@@ -233,7 +233,7 @@ case 'g':
 qzl5I97 += 807726438;
 break;
 case 'h':
-fRCOdZitIP = uzyqTB_2O4(fRCOdZitIP, -111674375, 2067583294, -1750858494);
+fRCOdZitIP = uzyqTB_2O4(fRCOdZitIP, (unsigned short)-111674375, 2067583294, -1750858494);
 break;
 case 'i':
 cKk1oU_olB -= Go4f_kaT;
@@ -285,7 +285,7 @@ case 2:
 BUM10asdk += 100278812;
 break;
 case 3:
-loP1 = KvU58IT(316558801, 323646773);
+loP1 = KvU58IT(316558801, (short)323646773);
 break;
 case 4:
 ydj_94J1 = KvU58IT(1490516585, SvNdLNMHF_);
@@ -297,7 +297,7 @@ j--;
 }
 }
 
-std::cout << BUM10asdk << uzyqTB_2O4(-947873269, SvNdLNMHF_, sBG3, ydj_94J1) << "FkDqvlN" << KvU58IT(1606885023, 1873441267) << sBG3 << std::endl;
+std::cout << BUM10asdk << uzyqTB_2O4(-947873269, SvNdLNMHF_, sBG3, ydj_94J1) << "FkDqvlN" << KvU58IT(1606885023, (short)1873441267) << sBG3 << std::endl;
 
 sBG3 = 663811600 / loP1;
 
@@ -313,7 +313,7 @@ loP1 = KvU58IT(-1636501225, RMQ3Mzifi);
 }
 while (i < 2);
 }
-SvNdLNMHF_ = uzyqTB_2O4(362604997, 1896688687, SvNdLNMHF_, (short)-1991297095);
+SvNdLNMHF_ = uzyqTB_2O4(362604997, (unsigned short)1896688687, SvNdLNMHF_, (short)-1991297095);
 switch (V6a13sMOP)
 {
 case 0:
@@ -332,7 +332,7 @@ case 4:
 V6a13sMOP >>= IDBpRZeC;
 break;
 case 5:
-D_q4oj01k = KvU58IT(1810605228, 656114158) << 368267607;
+D_q4oj01k = KvU58IT(1810605228, (short)656114158) << 368267607;
 break;
 }
 
@@ -352,7 +352,7 @@ d_9c %= lw_53_Oq6C;
 }
 else if (rm6Y_7 != -1310164447)
 {
-YMOm9qz0 = KvU58IT(lw_53_Oq6C, -1871125368);
+YMOm9qz0 = KvU58IT(lw_53_Oq6C, (short)-1871125368);
 }
 else if (YMOm9qz0 & qzl5I97)
 {
@@ -415,7 +415,7 @@ case 'b':
 qzl5I97 -= qzl5I97;
 break;
 case 'c':
-fRCOdZitIP = uzyqTB_2O4(-703367529, 838296802, d_9c, (short)-29614216);
+fRCOdZitIP = uzyqTB_2O4(-703367529, (unsigned short)838296802, d_9c, (short)-29614216);
 break;
 case 'd':
 Go4f_kaT |= IDBpRZeC;
@@ -433,7 +433,7 @@ case 'h':
 V6a13sMOP = RMQ3Mzifi * 784565087;
 break;
 case 'i':
-RMQ3Mzifi = uzyqTB_2O4(-1336052101, 730213124, 1027520933, (short)-882883347);
+RMQ3Mzifi = uzyqTB_2O4(-1336052101, (unsigned short)730213124, 1027520933, (short)-882883347);
 break;
 }
 }
@@ -454,7 +454,7 @@ else
 int k = 9;
 while (k >= 0)
 {
-YMOm9qz0 = KvU58IT(-1451962040, -1970344120);
+YMOm9qz0 = KvU58IT(-1451962040, (short)-1970344120);
 --k;
 }
 }

@@ -27,7 +27,7 @@ int main(void) {
     unsigned long    mqH2O7N;
     mqH2O7N    =    -1339870777;
  char LZ5W;
- LZ5W = 1231672591;
+ LZ5W = (char)1231672591;
  unsigned long long X3TtT81W;
  X3TtT81W = -114391795;
     short int    nx_S;
@@ -37,7 +37,7 @@ int main(void) {
  int wMbCG09;
  wMbCG09 = 1220669762;
 	short int	jj5hcE8dm;
-	jj5hcE8dm	=	-1486632339;
+	jj5hcE8dm	=	(short)-1486632339;
     unsigned long    m898;
     m898    =    -2022465132;
   short  rce_R51vrH;
@@ -47,7 +47,7 @@ int main(void) {
 	int	W4GY1_Lh;
 	W4GY1_Lh	=	688921753;
     short int    LGc1bv_O;
-    LGc1bv_O    =    -1242009513;
+    LGc1bv_O    =    (short)-1242009513;
 	short	wYt9oHI8m;
 	wYt9oHI8m	=	1688104357;
 	unsigned long long	ux_egci51y;
@@ -57,7 +57,7 @@ int main(void) {
   char  y6F_D0i8FU;
   y6F_D0i8FU  =  (char)2028209028;
   unsigned char  hOPRnviI;
-  hOPRnviI  =  1308332017;
+  hOPRnviI  =  (unsigned char)1308332017;
   float  Ve2Y4S3;
   Ve2Y4S3  =  -597438103;
 	char	Bg2y1;
@@ -67,7 +67,7 @@ int main(void) {
 	char	GXIwcV;
 	GXIwcV	=	0;
     unsigned short int    v7t_EKvY7p;
-    v7t_EKvY7p    =    -899848811;
+    v7t_EKvY7p    =    (unsigned short)-899848811;
 	unsigned long	Xr9lBa;
 	Xr9lBa	=	-1029410263;
   long double  FWc_55SRW;
@@ -77,7 +77,7 @@ int main(void) {
  long long B75BnOVi8;
  B75BnOVi8 = -1517253904;
 	unsigned char	ILCYJ9Aoh;
-	ILCYJ9Aoh	=	428156660;
+	ILCYJ9Aoh	=	(unsigned char)428156660;
     unsigned short int    pD_h7k;
     pD_h7k    =    (unsigned short)1807045836;
     double    siXAUwl_e;
@@ -93,7 +93,7 @@ int main(void) {
 	long	S51oyfjhB;
 	S51oyfjhB	=	-1804287273;
  unsigned short y22RX5in;
- y22RX5in = 1952709395;
+ y22RX5in = (unsigned short)1952709395;
   unsigned char  yhEp;
   yhEp  =  (unsigned char)415762179;
     unsigned int    bJm0_cwx_J;
@@ -105,7 +105,7 @@ int main(void) {
 	double	ypmWd_de;
 	ypmWd_de	=	1233434586;
  char Jg5PW;
- Jg5PW = -615543286;
+ Jg5PW = (char)-615543286;
   double  R7J21;
   R7J21  =  -1922057490;
  float a87h4;
@@ -117,7 +117,7 @@ int main(void) {
  float F_h3OuRa1;
  F_h3OuRa1 = 925348727;
 	char	RWhJV1_D;
-	RWhJV1_D	=	-509624295;
+	RWhJV1_D	=	(char)-509624295;
  unsigned int H460H;
  H460H = -1479861630;
   long double  GNCM_kRy32;
@@ -275,7 +275,7 @@ switch (hBjJJHU7WS)
 {
 case 'a':
 case 'A':
-v7t_EKvY7p = (Pen0Rcg <= RfH23222) ? yhEp : 73954001;
+v7t_EKvY7p = (Pen0Rcg <= RfH23222) ? yhEp : (unsigned short)73954001;
 break;
 default:
 FWc_55SRW = (int)ceil(R7J21);

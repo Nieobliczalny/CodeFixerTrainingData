@@ -15,7 +15,7 @@ using namespace std;
 
 int main(int argc, char** argv) {
   short int  b0BVbN0g;
-  b0BVbN0g  =  -1901671169;
+  b0BVbN0g  =  (short)-1901671169;
 	long	nzvX4ojWK;
 	nzvX4ojWK	=	-615020683;
 	int	tbNI;
@@ -25,7 +25,7 @@ int main(int argc, char** argv) {
 	unsigned short int	d93pOgHtB;
 	d93pOgHtB	=	(unsigned short)-1787350936;
     unsigned short    YR9z34lUe;
-    YR9z34lUe    =    -510603289;
+    YR9z34lUe    =    (unsigned short)-510603289;
   long long  LlKZ25v;
   LlKZ25v  =  154202335;
   unsigned short  XwFlOW29Q;
@@ -35,7 +35,7 @@ int main(int argc, char** argv) {
 	float	unLMz;
 	unLMz	=	-8966168;
  short d09x;
- d09x = -572284276;
+ d09x = (short)-572284276;
  unsigned short int y90m6a6wx;
  y90m6a6wx = (unsigned short)-817264169;
 	unsigned short int	e7lb6DQN;
@@ -45,7 +45,7 @@ int main(int argc, char** argv) {
  unsigned long long SAh82;
  SAh82 = -272918369;
  unsigned short nZ9Jxd7q;
- nZ9Jxd7q = -1331749857;
+ nZ9Jxd7q = (unsigned short)-1331749857;
  short int l7lFF;
  l7lFF = (short)2053213942;
  unsigned char UZLMmHH;
@@ -55,7 +55,7 @@ int main(int argc, char** argv) {
 	unsigned char	Yb5h_oE;
 	Yb5h_oE	=	104498585;
   unsigned char  Yad5B;
-  Yad5B  =  -633448020;
+  Yad5B  =  (unsigned char)-633448020;
 	unsigned char	tZRDz;
 	tZRDz	=	(unsigned char)-2027984845;
 	float	ol1_6;
@@ -73,7 +73,7 @@ int main(int argc, char** argv) {
 	unsigned int	ic89R7wXIc;
 	ic89R7wXIc	=	1310374438;
     short int    aN6Q4ZB2i;
-    aN6Q4ZB2i    =    -742069125;
+    aN6Q4ZB2i    =    (short)-742069125;
  short int RU85__7;
  RU85__7 = (short)-938022151;
     unsigned long    Lzl2Aa;
@@ -85,7 +85,7 @@ int main(int argc, char** argv) {
   unsigned long  pIdfiq2ih;
   pIdfiq2ih  =  1431348362;
  short agG1g4pAqC;
- agG1g4pAqC = 1581310684;
+ agG1g4pAqC = (short)1581310684;
     unsigned long    plIG91;
     plIG91    =    123931372;
 	unsigned long	FDHI0R4_c;
@@ -97,7 +97,7 @@ int main(int argc, char** argv) {
 	long long	v5K0c0;
 	v5K0c0	=	-2087002615;
 	unsigned short	A8sj;
-	A8sj	=	-1885823923;
+	A8sj	=	(unsigned short)-1885823923;
  double F9T8b09_;
  F9T8b09_ = -1137589710;
  long double z_At;
@@ -107,7 +107,7 @@ int main(int argc, char** argv) {
     char    e4_bwXJt9J;
     e4_bwXJt9J    =    (char)-1915371557;
   unsigned short int  V2y6h;
-  V2y6h  =  -1257140723;
+  V2y6h  =  (unsigned short)-1257140723;
     char    y_KuyL;
     y_KuyL    =    -1091239796;
   long long  p1S6;
@@ -123,7 +123,7 @@ int main(int argc, char** argv) {
  long double t_mGKh9c;
  t_mGKh9c = 1402996127;
   unsigned short int  EuT8BuD;
-  EuT8BuD  =  -42044517;
+  EuT8BuD  =  (unsigned short)-42044517;
   long double  qHW9e61_;
   qHW9e61_  =  379415808;
   char  KdRNB295;
@@ -135,7 +135,7 @@ int main(int argc, char** argv) {
  float R72m9;
  R72m9 = 233852993;
     short int    l02GyU0;
-    l02GyU0    =    -1478594749;
+    l02GyU0    =    (short)-1478594749;
   long long  a9sI8;
   a9sI8  =  482128139;
  int Ea08h;
@@ -145,7 +145,7 @@ int main(int argc, char** argv) {
     long long    sFy3iJj231;
     sFy3iJj231    =    1669458188;
     short int    gHh3K;
-    gHh3K    =    -1494911320;
+    gHh3K    =    (short)-1494911320;
 	long long	c_3CA3Jc5;
 	c_3CA3Jc5	=	-949667306;
 	unsigned long long	g411z46;
@@ -157,7 +157,7 @@ int main(int argc, char** argv) {
 	unsigned int	ss76RhIT5g;
 	ss76RhIT5g	=	-2096872605;
 	char	a_LyE;
-	a_LyE	=	-159540179;
+	a_LyE	=	(char)-159540179;
 	double	Zgz63v;
 	Zgz63v	=	1663603626;
 

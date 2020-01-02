@@ -9,7 +9,7 @@
 
 unsigned short int    NO68_0Cl(unsigned long    Ktwx9SV55)
 {
-    return    -1047362371;
+    return    (unsigned short)-1047362371;
 }
 
 long long	Yp1ti4qP(long long	e4olvi1)
@@ -96,7 +96,7 @@ z_62D = NO68_0Cl(-1804231914);
 }
 else
 {
-std::cout << "O0422x31" << "lf4ZMmzsI" << qvy0_Me << Z20758(-1706523902) << std::endl;
+std::cout << "O0422x31" << "lf4ZMmzsI" << qvy0_Me << Z20758((unsigned char)-1706523902) << std::endl;
 }
 }
 switch (gQ79)
@@ -235,7 +235,7 @@ case 0:
 h3_wIi = DNZ7 / bEbdt7GRim;
 break;
 case 1:
-a44zJyow04 = j7__37(112077592);
+a44zJyow04 = j7__37((char)112077592);
 break;
 case 2:
 z_62D = (int)floor(qvy0_Me);
@@ -247,7 +247,7 @@ case 4:
 E5DlnI3 = (int)abs(C7Yl);
 break;
 case 5:
-wDHvC4c = j7__37(-1749156111) % 680282977;
+wDHvC4c = j7__37((char)-1749156111) % 680282977;
 break;
 case 6:
 vsoXkpgh = (int)ceil(yNb813X);
@@ -259,7 +259,7 @@ case 8:
 RBJ0GF18G7 = Z20758(RBJ0GF18G7);
 break;
 default:
-y8YT2T4y = Z20758(-1121470550);
+y8YT2T4y = Z20758((unsigned char)-1121470550);
 break;
 }
 --j;
@@ -344,7 +344,7 @@ else
 {
 if ((C7Yl < FS9I) || ((f0xZW == yX2rN3P0C) || (qvy0_Me != -912798846)))
 {
-gQ79 = j7__37(774104677);
+gQ79 = j7__37((char)774104677);
 }
 else if (djzU2 >= BqHU6UG8s)
 {
@@ -417,7 +417,7 @@ for (int i = 0; i < 4; i++)
 {
 for (int j = 5; j >= 0; j--)
 {
-std::cout << j7__37(-905853161) << Z20758((unsigned char)1962153928) << std::endl;
+std::cout << j7__37((char)-905853161) << Z20758((unsigned char)1962153928) << std::endl;
 }
 }
 

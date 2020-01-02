@@ -55,7 +55,7 @@ j++;
 switch (Dmra_)
 {
 case 'a':
-Q3Cp = NeutTWdU2(-628998604, sA22EX4, (char)-985168817, m36H_0uW);
+Q3Cp = NeutTWdU2((unsigned short)-628998604, sA22EX4, (char)-985168817, m36H_0uW);
 break;
 case 'b':
 Q3Cp = NeutTWdU2(-1696278405, -1326758926, MhAa9OyF2h, cO6LT3F9Dd);
@@ -67,7 +67,7 @@ case 'd':
 Q3Cp = NeutTWdU2(WTXBzVLxv, cO6LT3F9Dd, 261867200, 218200475);
 break;
 case 'e':
-Q3Cp = NeutTWdU2(-914813938, (unsigned short)166265842, -1770830228, -326332242);
+Q3Cp = NeutTWdU2((unsigned short)-914813938, (unsigned short)166265842, -1770830228, -326332242);
 break;
 case 'f':
 F5eqh &= 463588423;
@@ -79,7 +79,7 @@ case 'h':
 tpV2jx3S7 = (int)abs(M76Kbh7a);
 break;
 default:
-Q3Cp = NeutTWdU2(1078418146, (unsigned short)294805229, A50u, 1353562379);
+Q3Cp = NeutTWdU2((unsigned short)1078418146, (unsigned short)294805229, A50u, 1353562379);
 break;
 }
 }
@@ -103,7 +103,7 @@ else
 {
 if (m36H_0uW != 1733389206)
 {
-Q3Cp = NeutTWdU2(A50u, 1051625304, sM7n1N, sA22EX4);
+Q3Cp = NeutTWdU2(A50u, (unsigned short)1051625304, sM7n1N, sA22EX4);
 }
 else if (d7Xs6bt1lk)
 {
@@ -136,7 +136,7 @@ while (j >= 0)
 --j;
 for (int k = 8; k >= 0; k--)
 {
-Q3Cp = NeutTWdU2(d7Xs6bt1lk, -178668235, hDg0, cO6LT3F9Dd);
+Q3Cp = NeutTWdU2(d7Xs6bt1lk, (unsigned short)-178668235, hDg0, cO6LT3F9Dd);
 }
 }
 }
@@ -154,7 +154,7 @@ try
 {
 if (MhAa9OyF2h == dE1z2mfug)
 {
-Dmra_ = NeutTWdU2(d7Xs6bt1lk, m36H_0uW, -492842351, cO6LT3F9Dd) % 1371022862;
+Dmra_ = NeutTWdU2(d7Xs6bt1lk, m36H_0uW, (char)-492842351, cO6LT3F9Dd) % 1371022862;
 }
 else if (d3qJwl < r223Sx37li)
 {
@@ -182,7 +182,7 @@ switch (WTXBzVLxv)
 {
 case 'a':
 case 'A':
-Q3Cp = NeutTWdU2(-1155397446, (unsigned short)-1272989782, d7Xs6bt1lk, r223Sx37li);
+Q3Cp = NeutTWdU2((unsigned short)-1155397446, (unsigned short)-1272989782, d7Xs6bt1lk, r223Sx37li);
 break;
 case 'b':
 case 'B':
@@ -193,7 +193,7 @@ break;
 int i = 0;
 do
 {
-Q3Cp = NeutTWdU2(-1999913919, F5eqh, (char)2009045269, -2046031862);
+Q3Cp = NeutTWdU2((unsigned short)-1999913919, F5eqh, (char)2009045269, -2046031862);
 ++i;
 }
 while (i < 7);
@@ -204,7 +204,7 @@ dE1z2mfug >>= d7Xs6bt1lk;
 
 try
 {
-Q3Cp = NeutTWdU2(2046616736, sM7n1N, d7Xs6bt1lk, (unsigned char)327515230);
+Q3Cp = NeutTWdU2((unsigned short)2046616736, sM7n1N, d7Xs6bt1lk, (unsigned char)327515230);
 }
 catch (int& errorCode)
 {
@@ -218,7 +218,7 @@ switch (yT0nxsI7)
 {
 case 'a':
 case 'A':
-Q3Cp = NeutTWdU2(nJ82Hc, -207897500, tpV2jx3S7, (unsigned char)505658038);
+Q3Cp = NeutTWdU2(nJ82Hc, (unsigned short)-207897500, tpV2jx3S7, (unsigned char)505658038);
 break;
 case 'b':
 case 'B':
@@ -233,7 +233,7 @@ case 'D':
 EVeXV1 += 1447705163;
 break;
 default:
-Q3Cp = NeutTWdU2(X9MRjE395c, 1111596210, (char)1957544899, 2106125769);
+Q3Cp = NeutTWdU2(X9MRjE395c, (unsigned short)1111596210, (char)1957544899, 2106125769);
 break;
 }
 std::cout << "O0RaX51" << NeutTWdU2(X9MRjE395c, tpV2jx3S7, m36H_0uW, -12792684) << "Ds_14" << "QIJH" << std::endl;
@@ -246,7 +246,7 @@ nJ82Hc %= cO6LT3F9Dd;
 switch (qfHu9HOBH)
 {
 case 0:
-Q3Cp = NeutTWdU2(634669594, (unsigned short)-756000870, sA22EX4, 1829076083);
+Q3Cp = NeutTWdU2((unsigned short)634669594, (unsigned short)-756000870, sA22EX4, 1829076083);
 break;
 case 1:
 Q3Cp = NeutTWdU2(GpB28n, cO6LT3F9Dd, -963574132, F5eqh);
@@ -267,7 +267,7 @@ case 6:
 EVeXV1 += d7Xs6bt1lk;
 break;
 case 7:
-Q3Cp = NeutTWdU2(Dmra_, r223Sx37li, d7Xs6bt1lk, 1137869660);
+Q3Cp = NeutTWdU2(Dmra_, r223Sx37li, d7Xs6bt1lk, (unsigned char)1137869660);
 break;
 case 8:
 dE1z2mfug = Y5TW2XR * M76Kbh7a;
@@ -309,7 +309,7 @@ RTTL *= 1635382226;
 break;
 case 'c':
 case 'C':
-Q3Cp = NeutTWdU2(M76Kbh7a, 348653412, EVeXV1, F5eqh);
+Q3Cp = NeutTWdU2(M76Kbh7a, (unsigned short)348653412, EVeXV1, F5eqh);
 break;
 case 'd':
 case 'D':
@@ -319,7 +319,7 @@ break;
 }
 }
 
-Q3Cp = NeutTWdU2(X9MRjE395c, 187266591, (char)1515103070, qfHu9HOBH);
+Q3Cp = NeutTWdU2(X9MRjE395c, (unsigned short)187266591, (char)1515103070, qfHu9HOBH);
 if (MhAa9OyF2h != Dmra_)
 {
 {
@@ -332,7 +332,7 @@ Q3Cp = NeutTWdU2(EVeXV1, MhAa9OyF2h, yT0nxsI7, -339918981);
 }
 else
 {
-Q3Cp = NeutTWdU2(A50u, -154972477, dE1z2mfug, (unsigned char)-2113772130);
+Q3Cp = NeutTWdU2(A50u, (unsigned short)-154972477, dE1z2mfug, (unsigned char)-2113772130);
 }
 j--;
 }
@@ -350,7 +350,7 @@ int k = 0;
 while (k < 8)
 {
 k++;
-Q3Cp = NeutTWdU2(-1567805652, (unsigned short)1157330874, 2082799118, -598020291);
+Q3Cp = NeutTWdU2((unsigned short)-1567805652, (unsigned short)1157330874, 2082799118, -598020291);
 }
 }
 }

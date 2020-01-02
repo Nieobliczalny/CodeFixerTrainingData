@@ -40,7 +40,7 @@ else
 {
 try
 {
-EHkN901w_K = Yuf07WhC8i(166766595);
+EHkN901w_K = Yuf07WhC8i((char)166766595);
 }
 catch (int& errorCode)
 {
@@ -75,7 +75,7 @@ int k = 0;
 do
 {
 k++;
-rRJEhz = Yuf07WhC8i(181510177);
+rRJEhz = Yuf07WhC8i((char)181510177);
 }
 while (k < 5);
 }
@@ -100,7 +100,7 @@ EHkN901w_K = Yuf07WhC8i(-836151116);
 switch (MnS_)
 {
 case 'a':
-EHkN901w_K = Yuf07WhC8i(-1654749174);
+EHkN901w_K = Yuf07WhC8i((char)-1654749174);
 break;
 case 'b':
 EHkN901w_K = Yuf07WhC8i(Agt_x);
@@ -140,7 +140,7 @@ rpUZ_ <<= tuLED;
 break;
 case 'd':
 case 'D':
-EHkN901w_K = Yuf07WhC8i(375556939);
+EHkN901w_K = Yuf07WhC8i((char)375556939);
 break;
 case 'e':
 case 'E':

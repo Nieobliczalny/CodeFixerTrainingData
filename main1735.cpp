@@ -75,7 +75,7 @@ int k = 1;
 do
 {
 k--;
-P185 = d5B1Vg(-1823764686, -636125683);
+P185 = d5B1Vg((unsigned short)-1823764686, -636125683);
 }
 while (k >= 0);
 }
@@ -110,7 +110,7 @@ hyWEYJ = bO29Xc7eIC & 1898813726;
 }
 else if (((bO29Xc7eIC <= n6HOa_QZg1) || (jkJKz_8 & Im_9CCv)) && (bO29Xc7eIC > Jx1j))
 {
-tI54hU5 = d5B1Vg(2020497773, 1477639524);
+tI54hU5 = d5B1Vg((unsigned short)2020497773, 1477639524);
 }
 else if (OnePpD_ex)
 {
@@ -122,7 +122,7 @@ Rtjk = (int)abs(XG51b5eU4m);
 }
 else if ((z9UvhFTDD & 2023941264) || (v6oB59u > HjWv6V_ri))
 {
-FyQBdv = d5B1Vg(-1033632685, sJ4La_70);
+FyQBdv = d5B1Vg((unsigned short)-1033632685, sJ4La_70);
 }
 else if (bO29Xc7eIC > RM4g2)
 {
@@ -179,7 +179,7 @@ tI54hU5 = d5B1Vg(1113057180, -1993029064);
 x853kW4403 %= hyWEYJ;
 
 RM4g2 = (unsigned short int)(Jx1j);
-std::cout << "hb8T81ZK1" << d5B1Vg(Mb4ss, I_CL_R5) << "LT042" << d5B1Vg(-600642628, I_CL_R5) << "N5F5" << std::endl;
+std::cout << "hb8T81ZK1" << d5B1Vg(Mb4ss, I_CL_R5) << "LT042" << d5B1Vg((unsigned short)-600642628, I_CL_R5) << "N5F5" << std::endl;
 switch (x853kW4403)
 {
 case 0:
@@ -192,7 +192,7 @@ case 2:
 sJ4La_70 <<= 1417980721;
 break;
 case 3:
-tI54hU5 = d5B1Vg(-1227671354, I_CL_R5);
+tI54hU5 = d5B1Vg((unsigned short)-1227671354, I_CL_R5);
 break;
 case 4:
 Rtjk = d5B1Vg((unsigned short)-1524397078, -501222824);
@@ -209,7 +209,7 @@ case 0:
 bO29Xc7eIC = p4Cf | 1447093217;
 break;
 case 1:
-Rtjk = d5B1Vg(1842080313, Rtjk);
+Rtjk = d5B1Vg((unsigned short)1842080313, Rtjk);
 break;
 case 2:
 O6W64 = TWlR / 1785076387;
@@ -241,7 +241,7 @@ for (int i = 0; i < 9; i++)
 HjWv6V_ri /= TWlR;
 }
 
-P185 = d5B1Vg(1877836736, oo6pl);
+P185 = d5B1Vg((unsigned short)1877836736, oo6pl);
 for (int i = 5; i >= 0; --i)
 {
 if ((FyQBdv > Mb4ss) || (p4Cf))
@@ -259,7 +259,7 @@ else
 {
 if ((Rtjk < Im_9CCv) && (Bg355MFw67 > 1576025708))
 {
-FyQBdv = d5B1Vg(863257272, 2144536761);
+FyQBdv = d5B1Vg((unsigned short)863257272, 2144536761);
 }
 else
 {
@@ -324,7 +324,7 @@ Ng_PoIq &= 1631716889;
 }
 }
 }
-std::cout << d5B1Vg(592349175, RM4g2) << std::endl;
+std::cout << d5B1Vg((unsigned short)592349175, RM4g2) << std::endl;
 
 m407HyZ = RQgp - E_7TQ;
 

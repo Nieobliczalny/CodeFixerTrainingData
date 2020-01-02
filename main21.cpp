@@ -13,7 +13,7 @@ using std::ceil;
 using std::floor;
 
 unsigned char    v22g6Fq(int    gP13)    {
-    return    1143574777;
+    return    (unsigned char)1143574777;
 }
 
 short  jEGUIK()  {
@@ -161,7 +161,7 @@ case 'g':
 XX56oIL5jD = j1KqJqDVUt(XX56oIL5jD, -1771849823);
 break;
 case 'h':
-Nyt9SlN56 = (X3_E < XX56oIL5jD) ? -1648431095 : jEGUIK();
+Nyt9SlN56 = (X3_E < XX56oIL5jD) ? (unsigned short)-1648431095 : jEGUIK();
 break;
 case 'i':
 B6lOCDqV ^= 649082995;
@@ -344,7 +344,7 @@ q8Hrw_bbH = TUd4iC1v6_ - 1979758549;
 break;
 case 'h':
 case 'H':
-zpSf = (Dhz2ob2h) ? h_GX3h : 446274405;
+zpSf = (Dhz2ob2h) ? h_GX3h : (unsigned short)446274405;
 break;
 case 'i':
 case 'I':

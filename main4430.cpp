@@ -19,7 +19,7 @@ unsigned long long	GWX9oj4(unsigned char	QICTa1jm7,int	l5x77ZvG)
 
 unsigned short int  i41894NnC(unsigned int  i3D_Hkb09K)
 {
-  return  -546848969;
+  return  (unsigned short)-546848969;
 }
 
 int main(void) {
@@ -39,7 +39,7 @@ case 0:
 s7AnqyW_gZ = (cgR7m9_z_3 <= 1901985384) ? Yu_o_PM9 : 1503029773;
 break;
 case 1:
-jGu_9tj4 = GWX9oj4(1952264706, X4_5y2mokn);
+jGu_9tj4 = GWX9oj4((unsigned char)1952264706, X4_5y2mokn);
 break;
 case 2:
 tiruFe_--;
@@ -51,7 +51,7 @@ case 4:
 Q4579KT = i41894NnC(Q4579KT);
 break;
 case 5:
-jGu_9tj4 = GWX9oj4(-653666727, jGu_9tj4);
+jGu_9tj4 = GWX9oj4((unsigned char)-653666727, jGu_9tj4);
 break;
 case 6:
 cgR7m9_z_3 = cgR7m9_z_3 * tiruFe_;
@@ -80,7 +80,7 @@ Q4579KT = X4_5y2mokn % 753632873;
 break;
 case 'd':
 case 'D':
-Z07cZ = GWX9oj4(190322253, Z07cZ);
+Z07cZ = GWX9oj4((unsigned char)190322253, Z07cZ);
 break;
 case 'e':
 case 'E':
@@ -122,7 +122,7 @@ do
 {
 if ((jGu_9tj4 & -1487041714) && ((jGu_9tj4 <= 2140814405) || (Q4579KT <= Z07cZ)))
 {
-jGu_9tj4 = GWX9oj4(-1871156860, -497980819);
+jGu_9tj4 = GWX9oj4((unsigned char)-1871156860, -497980819);
 }
 else if (tiruFe_ != Yu_o_PM9)
 {
@@ -134,7 +134,7 @@ s7AnqyW_gZ = i41894NnC(Z07cZ);
 }
 else if ((X4_5y2mokn & f18Ly) || (X4_5y2mokn != jGu_9tj4))
 {
-jGu_9tj4 = GWX9oj4(835533762, Q4579KT);
+jGu_9tj4 = GWX9oj4((unsigned char)835533762, Q4579KT);
 }
 else
 {
@@ -147,7 +147,7 @@ while (j >= 0);
 }
 else
 {
-jGu_9tj4 = GWX9oj4(-875030943, jGu_9tj4);
+jGu_9tj4 = GWX9oj4((unsigned char)-875030943, jGu_9tj4);
 }
 for (int i = 0; i < 45; i++)
 {
@@ -185,7 +185,7 @@ tiruFe_ = f18Ly * 729886373;
 }
 else
 {
-jGu_9tj4 = GWX9oj4(1134184656, Q4579KT);
+jGu_9tj4 = GWX9oj4((unsigned char)1134184656, Q4579KT);
 }
 }
 else if (tiruFe_ >= X4_5y2mokn)
@@ -261,7 +261,7 @@ case 'c':
 Q4579KT = i41894NnC(tiruFe_) << X4_5y2mokn;
 break;
 case 'd':
-jGu_9tj4 = GWX9oj4(-197367559, Z07cZ);
+jGu_9tj4 = GWX9oj4((unsigned char)-197367559, Z07cZ);
 break;
 case 'e':
 s7AnqyW_gZ = i41894NnC(s7AnqyW_gZ);
@@ -290,7 +290,7 @@ case 0:
 Q4579KT = i41894NnC(Z07cZ);
 break;
 case 1:
-Z07cZ = GWX9oj4(-2121447868, s7AnqyW_gZ);
+Z07cZ = GWX9oj4((unsigned char)-2121447868, s7AnqyW_gZ);
 break;
 case 2:
 tiruFe_ = Z07cZ % X4_5y2mokn;

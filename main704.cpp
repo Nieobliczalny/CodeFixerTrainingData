@@ -25,7 +25,7 @@ int main() {
 	ryG5j5dt77	=	0;
 	h4A_	=	0;
 	short int	jrz72_Xi,	fbOl5,	Smq_,	kq01am5,	rK5yT,	s3DebZ,	hwEMo1;
-	jrz72_Xi	=	1037797529;
+	jrz72_Xi	=	(short)1037797529;
 	fbOl5	=	(short)1368055650;
 	Smq_	=	377483153;
 	kq01am5	=	-1949687176;
@@ -57,7 +57,7 @@ rK5yT = (int)abs(hwEMo1);
 }
 else if (jrz72_Xi)
 {
-hwEMo1 = ziLqBigr(-820673239, hwEMo1, -1459631269, rK5yT);
+hwEMo1 = ziLqBigr((short)-820673239, hwEMo1, -1459631269, rK5yT);
 }
 else if (Smq_ == 1997051979)
 {
@@ -79,7 +79,7 @@ hwEMo1 = kq01am5 ^ jrz72_Xi;
 }
 else
 {
-Smq_ = e__w52nYa(Smq_, hwEMo1, s3DebZ, -940137865);
+Smq_ = e__w52nYa(Smq_, hwEMo1, s3DebZ, (unsigned short)-940137865);
 }
 }
 else if (((Smq_ >= kq01am5) && (ryG5j5dt77 < -1059351483)) || (ryG5j5dt77 == -1710082281))
@@ -104,7 +104,7 @@ case 1:
 h4A_ = h1V8();
 break;
 case 2:
-rK5yT = e__w52nYa(rK5yT, ryG5j5dt77, hwEMo1, -1971326416);
+rK5yT = e__w52nYa(rK5yT, ryG5j5dt77, hwEMo1, (unsigned short)-1971326416);
 break;
 }
 }
@@ -131,7 +131,7 @@ h4A_ = (int)abs(hwEMo1) * 0;
 }
 else if ((h4A_ != kq01am5) || ((h4A_ >= -1529893504) || (hwEMo1 == 118257447)))
 {
-s3DebZ = v76L(-567288513, -1473649042);
+s3DebZ = v76L((unsigned short)-567288513, -1473649042);
 }
 else if (s3DebZ <= hwEMo1)
 {
@@ -165,7 +165,7 @@ int j = 9;
 while (j >= 0)
 {
 j--;
-hwEMo1 = e__w52nYa(130763446, ryG5j5dt77, (unsigned short)1545966724, rK5yT);
+hwEMo1 = e__w52nYa((unsigned short)130763446, ryG5j5dt77, (unsigned short)1545966724, rK5yT);
 }
 }
 }
@@ -181,7 +181,7 @@ int i = 0;
 while (i < 8)
 {
 ++i;
-cout << "wk2RJq" << ziLqBigr(-1885453390, (unsigned short)-554772874, -1072084878, -333096628) << "Bo132rha5" << "d4V0hHf" << jrz72_Xi << endl;
+cout << "wk2RJq" << ziLqBigr((short)-1885453390, (unsigned short)-554772874, -1072084878, -333096628) << "Bo132rha5" << "d4V0hHf" << jrz72_Xi << endl;
 }
 }
 
@@ -243,7 +243,7 @@ case 7:
 ryG5j5dt77 = h1V8();
 break;
 case 8:
-fbOl5 = e__w52nYa(-1143206842, 1952205685, h4A_, hwEMo1);
+fbOl5 = e__w52nYa((unsigned short)-1143206842, 1952205685, h4A_, hwEMo1);
 break;
 case 9:
 fbOl5++;
@@ -265,7 +265,7 @@ cout << "P6N8rp" << kq01am5 << hwEMo1 << kq01am5 << fbOl5 << endl;
 }
 try
 {
-cout << e__w52nYa(Smq_, -1196259551, h4A_, -593788347) << e__w52nYa(Smq_, 794673613, (unsigned short)-1929753779, -865288293) << fbOl5 << v76L(-1842840813, s3DebZ) << endl;
+cout << e__w52nYa(Smq_, -1196259551, h4A_, (unsigned short)-593788347) << e__w52nYa(Smq_, 794673613, (unsigned short)-1929753779, -865288293) << fbOl5 << v76L(-1842840813, s3DebZ) << endl;
 }
 catch (int& errorCode)
 {

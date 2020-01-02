@@ -29,7 +29,7 @@ while (j >= 0)
 {
 if (H6Nd51 & JHU_P)
 {
-RQ76Mq = T94S(-823586187, 426613766, MaeT, XbTiTwdW2w, (unsigned short)1315149179);
+RQ76Mq = T94S(-823586187, (unsigned char)426613766, MaeT, XbTiTwdW2w, (unsigned short)1315149179);
 }
 j--;
 }
@@ -85,7 +85,7 @@ for (int i = 7; i >= 0; --i)
 {
 std::cout << F_1qNC7c << AMBu8s7SX << "wKsO6" << std::endl;
 }
-Woj8h5_V_ = jSEm7bX(1574886565);
+Woj8h5_V_ = jSEm7bX((unsigned short)1574886565);
 std::cout << XMRW4qpzNR << std::endl;
 B14Hd = r7o9c();
 switch (B14Hd)
@@ -100,7 +100,7 @@ case 2:
 uKxc = (int)abs(RQ76Mq);
 break;
 case 3:
-H6Nd51 = jSEm7bX(1942363382);
+H6Nd51 = jSEm7bX((unsigned short)1942363382);
 break;
 case 4:
 Z8COVkwp6 *= 1395028902;
@@ -165,7 +165,7 @@ RQ76Mq = (int)abs(uKxc);
 }
 else if (prtumMYGPh <= 355627025)
 {
-uKxc = T94S(HkvznE, 1010916132, (char)-1811816261, 247452938, -1790226621);
+uKxc = T94S(HkvznE, (unsigned char)1010916132, (char)-1811816261, 247452938, -1790226621);
 }
 else if (Z8COVkwp6 >= 196552987)
 {
@@ -179,7 +179,7 @@ switch (f8HCJr7tog)
 {
 case 'a':
 case 'A':
-RQ76Mq = T94S(1086061610, -311594840, Artv2ZHd2, nJ6KCfDM, (unsigned short)-301189037);
+RQ76Mq = T94S(1086061610, (unsigned char)-311594840, Artv2ZHd2, nJ6KCfDM, (unsigned short)-301189037);
 break;
 case 'b':
 case 'B':
@@ -191,7 +191,7 @@ JHU_P = r7o9c();
 break;
 case 'd':
 case 'D':
-RQ76Mq = T94S(-1585616163, -666300461, BRoOmrG6, B14Hd, SAN8W);
+RQ76Mq = T94S(-1585616163, (unsigned char)-666300461, BRoOmrG6, B14Hd, SAN8W);
 break;
 case 'e':
 case 'E':
@@ -206,7 +206,7 @@ case 'G':
 RQ76Mq = (int)abs(uKxc);
 break;
 default:
-uKxc = T94S(-1479269928, -1509915377, JHU_P, 1694378545, (unsigned short)-1206664194);
+uKxc = T94S(-1479269928, (unsigned char)-1509915377, JHU_P, 1694378545, (unsigned short)-1206664194);
 break;
 }
 
@@ -229,7 +229,7 @@ int j = 0;
 while (j < 7)
 {
 j++;
-HS2uznH39 = jSEm7bX(1129832141);
+HS2uznH39 = jSEm7bX((unsigned short)1129832141);
 }
 }
 }
@@ -265,7 +265,7 @@ long	T94S(long	i8Iao5s,unsigned char	kaXG_Xlch,char	T01_HGr7,unsigned long	AE3bI
 }
 
 unsigned char  jSEm7bX(unsigned short int  I6_m)  {
-  return  2018392980;
+  return  (unsigned char)2018392980;
 }
 
 unsigned long long    r7o9c()

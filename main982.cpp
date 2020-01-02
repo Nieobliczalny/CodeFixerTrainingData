@@ -41,7 +41,7 @@ case 2:
 q4rM = hVaH * 1206773036;
 break;
 case 3:
-GrVe290K_ = Q_jzV(-865260071, d8Z0u8gi, SdObSgMN8, 1042051523, iU_Yp);
+GrVe290K_ = Q_jzV((unsigned char)-865260071, d8Z0u8gi, SdObSgMN8, 1042051523, iU_Yp);
 break;
 default:
 liz48 = xKDcY >> 830985671;
@@ -101,7 +101,7 @@ else
 switch (Z70pwRzVbx)
 {
 case 0:
-K7MklW94jR = Q_jzV(p4ISk9IuO, iU_Yp, ZlruD, n_Y5f_, -879040637) / bNk9kThwU;
+K7MklW94jR = Q_jzV(p4ISk9IuO, iU_Yp, ZlruD, n_Y5f_, (unsigned char)-879040637) / bNk9kThwU;
 break;
 case 1:
 yhrwk = B8MD9z >> MN9G7Lc;
@@ -119,7 +119,7 @@ case 5:
 wea7_Fn7lP = eU6FUD8j6y(1018000788, 1913184233, ZlruD, u0elcKYfA_);
 break;
 case 6:
-dG9tQXw7RP = eU6FUD8j6y(liz48, 1419978966, -1493614966, -1258440810);
+dG9tQXw7RP = eU6FUD8j6y(liz48, 1419978966, -1493614966, (char)-1258440810);
 break;
 case 7:
 W02cf &= nmb4x;

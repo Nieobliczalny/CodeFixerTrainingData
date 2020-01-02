@@ -21,7 +21,7 @@ long long NwP271(unsigned short zKjfSaw61,unsigned long long llMB_W5H,unsigned l
 
 unsigned char    W834NXxTB(long    k3AQD4,unsigned long long    t2j4d4B,unsigned int    uE75,unsigned char    Uwedp)
 {
-    return    1712798147;
+    return    (unsigned char)1712798147;
 }
 
 int Cmwdh_Fa(unsigned short kQ8_x,short X2azKm3,short int vFK20n,long long M7czjN) {
@@ -41,7 +41,7 @@ int main() {
     Gt257z5A6    =    0;
     h9_02G5QNk    =    0;
     char    VWrFiL,    mW8QouxJD7,    WGun83KaH,    B7gC5,    R1w4RLnz,    Bywid9vrW,    rvC33Q2_6,    k01AJv2o,    yd6R,    oiF3vMF,    m33u1Suj11,    J__eZbh3E,    zdMqQG,    sN5mmx,    ZjkarV,    JH3sV022GW,    DSR2L,    C2lbK4,    Lo_GwW,    Zfs_X5QY;
-    VWrFiL    =    1999014868;
+    VWrFiL    =    (char)1999014868;
     mW8QouxJD7    =    (char)-1101406658;
     WGun83KaH    =    2022997184;
     B7gC5    =    -677985773;
@@ -51,7 +51,7 @@ int main() {
     k01AJv2o    =    -1363579387;
     yd6R    =    -1242168601;
     oiF3vMF    =    2045237604;
-    m33u1Suj11    =    2068502092;
+    m33u1Suj11    =    (char)2068502092;
     J__eZbh3E    =    (char)-442515279;
     zdMqQG    =    -2084009810;
     sN5mmx    =    637670684;
@@ -81,7 +81,7 @@ int j = 10;
 do
 {
 --j;
-std::cout << rOnh2ELL(1087771509, mW8QouxJD7, WGun83KaH, B7gC5) << "vgzh3_" << std::endl;
+std::cout << rOnh2ELL((short)1087771509, mW8QouxJD7, WGun83KaH, B7gC5) << "vgzh3_" << std::endl;
 }
 while (j >= 0);
 }
@@ -91,7 +91,7 @@ else
 switch (rvC33Q2_6)
 {
 case 0:
-ZjkarV = (yd6R != D6f1F3) ? Lo_GwW : 1354434280;
+ZjkarV = (yd6R != D6f1F3) ? Lo_GwW : (char)1354434280;
 break;
 case 1:
 sN5mmx = (ZjkarV <= 1640048595) ? h9_02G5QNk : mb066KDx37;
@@ -128,7 +128,7 @@ for (int i = 0; i < 5; i++)
 switch (K3jX)
 {
 case 0:
-DSR2L = Cmwdh_Fa(-926083379, k01AJv2o, (short)323254391, 296036881);
+DSR2L = Cmwdh_Fa((unsigned short)-926083379, k01AJv2o, (short)323254391, 296036881);
 break;
 case 1:
 VWrFiL &= 1796565527;
@@ -140,7 +140,7 @@ case 3:
 J__eZbh3E = W834NXxTB(434993227, yNnTsu15, -1862900496, K3jX);
 break;
 case 4:
-JH3sV022GW = rOnh2ELL(-1521222762, (unsigned short)248092680, -1657395499, ZjkarV);
+JH3sV022GW = rOnh2ELL((short)-1521222762, (unsigned short)248092680, -1657395499, ZjkarV);
 break;
 }
 }
@@ -216,7 +216,7 @@ else
 {
 if (R1w4RLnz >= Gt257z5A6)
 {
-ZjkarV = W834NXxTB(90342176, 954450655, Bywid9vrW, 1309438169);
+ZjkarV = W834NXxTB(90342176, 954450655, Bywid9vrW, (unsigned char)1309438169);
 }
 else if (R1w4RLnz == 132351705)
 {
@@ -232,7 +232,7 @@ rvC33Q2_6 = R1w4RLnz << WGun83KaH;
 }
 else
 {
-WGun83KaH = Cmwdh_Fa(1698590303, WGun83KaH, (short)-227228358, 1332644326);
+WGun83KaH = Cmwdh_Fa((unsigned short)1698590303, WGun83KaH, (short)-227228358, 1332644326);
 }
 }
 }
@@ -286,7 +286,7 @@ Lo_GwW <<= 1622871937;
 }
 else
 {
-ZjkarV = Cmwdh_Fa(1146546248, (short)-1265827080, ZjkarV, -1549225344);
+ZjkarV = Cmwdh_Fa((unsigned short)1146546248, (short)-1265827080, ZjkarV, -1549225344);
 }
 }
 else if (yNnTsu15 >= D6f1F3)
@@ -311,7 +311,7 @@ for (int j = 3; j >= 0; --j)
 switch (oiF3vMF)
 {
 case 'a':
-Bywid9vrW = rOnh2ELL(-148488503, (unsigned short)-298222833, yd6R, mW8QouxJD7);
+Bywid9vrW = rOnh2ELL((short)-148488503, (unsigned short)-298222833, yd6R, mW8QouxJD7);
 break;
 case 'b':
 m33u1Suj11 = W834NXxTB(-376782154, -551912443, h9_02G5QNk, WGun83KaH);
@@ -323,7 +323,7 @@ case 'd':
 mW8QouxJD7 *= h9_02G5QNk;
 break;
 case 'e':
-Lo_GwW = W834NXxTB(2141267372, Lo_GwW, WGun83KaH, -3747801);
+Lo_GwW = W834NXxTB(2141267372, Lo_GwW, WGun83KaH, (unsigned char)-3747801);
 break;
 default:
 m33u1Suj11 = Cmwdh_Fa(m33u1Suj11, (short)-1266687093, 879578076, DSR2L);
@@ -358,7 +358,7 @@ j--;
 int k = 0;
 while (k < 3)
 {
-h9_02G5QNk = NwP271(m33u1Suj11, 252638638, 2095616907, -1165091973, -1531706260);
+h9_02G5QNk = NwP271(m33u1Suj11, 252638638, 2095616907, -1165091973, (unsigned short)-1531706260);
 k++;
 }
 }
@@ -376,7 +376,7 @@ yd6R *= sN5mmx;
 }
 }
 }
-Zfs_X5QY = Cmwdh_Fa(1072482318, (short)-672608632, JH3sV022GW, DSR2L) - sN5mmx;
+Zfs_X5QY = Cmwdh_Fa((unsigned short)1072482318, (short)-672608632, JH3sV022GW, DSR2L) - sN5mmx;
 
 if (K3jX > OqE92)
 {

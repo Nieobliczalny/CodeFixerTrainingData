@@ -21,7 +21,7 @@ int main()
     long long    ry24GE0_t_    =    -1377671815;
     int    EKDGJ65    =    1184476644;
  unsigned short gT8JqIO9q = 0;
-  short  L109A6l  =  -2147311127;
+  short  L109A6l  =  (short)-2147311127;
   double  uqYWHWUo7  =  -440836886;
     unsigned short int    GJz_VT6    =    (unsigned short)108585213;
  double VvTYop3jG = -2110868377;
@@ -31,7 +31,7 @@ int main()
 	long	mm2_QzCi	=	721916494;
 	long long	f7MT7m8	=	800180059;
   unsigned int  n9rO  =  685809171;
-    short int    k6LW07    =    1973613984;
+    short int    k6LW07    =    (short)1973613984;
  unsigned char w_f_km = 1207832452;
     int    Wd1_J    =    -1377134404;
   short int  mG4z0eF  =  (short)-2058331419;
@@ -47,7 +47,7 @@ int main()
   unsigned long long  VoQsElK  =  680484880;
 	long double	ovs4D2	=	2100042606;
  unsigned long long P8jPl3r4 = 905370170;
-    unsigned char    O4O8    =    -132167680;
+    unsigned char    O4O8    =    (unsigned char)-132167680;
     short int    j9K17G    =    (short)957596768;
     unsigned int    Y3iEz6Hk_    =    -767788860;
     short int    L_TkU    =    -1461826163;
@@ -192,7 +192,7 @@ j--;
 }
 if ((VMU9 != ry24GE0_t_) || ((VoQsElK) && (W4v09 < 792306186)))
 {
-std::cout << BIE21337(VvTYop3jG, 1876705124, (unsigned char)916972655, n9rO, -1140716796) << LtM_() << "beOqM214" << "eIBNmOnSvH" << "tZRwjyg0" << std::endl;
+std::cout << BIE21337(VvTYop3jG, (char)1876705124, (unsigned char)916972655, n9rO, -1140716796) << LtM_() << "beOqM214" << "eIBNmOnSvH" << "tZRwjyg0" << std::endl;
 }
 else
 {
@@ -244,7 +244,7 @@ i++;
 while (i < 2);
 }
 
-f7MT7m8 = MGtbIrO(VvTYop3jG, -1468231995, L109A6l, 791398739, -1780721619) >> t_UA;
+f7MT7m8 = MGtbIrO(VvTYop3jG, -1468231995, L109A6l, (unsigned char)791398739, -1780721619) >> t_UA;
 
 S7r_1 %= j9K17G;
 
@@ -264,7 +264,7 @@ unsigned long long	wUY1H(long	pUI_kmtG,unsigned long	JiWBa,long long	REvNVoVR,lo
 
 char  LtM_()
 {
-  return  -1129785091;
+  return  (char)-1129785091;
 }
 
 short int	MGtbIrO(unsigned int	NkJ8_l9,long long	atT8nJT,long	YZXktn,unsigned char	LKL2dACFl,unsigned long long	Y3TQ07L)

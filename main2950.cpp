@@ -15,7 +15,7 @@ unsigned short tUy_s(unsigned short OSb3L,char p1Y0)
 
 unsigned char	m2ulQw(unsigned short int	rZ5jyqv3v)
 {
-	return	1710311382;
+	return	(unsigned char)1710311382;
 }
 
 short int d_1A_92()
@@ -25,7 +25,7 @@ short int d_1A_92()
 
 unsigned short  pWyuB06(unsigned long  se_4)
 {
-  return  1841354502;
+  return  (unsigned short)1841354502;
 }
 
 long	y10_4a1x(short	M4__1zi)
@@ -169,7 +169,7 @@ u53Me67 = pWyuB06(u53Me67);
 break;
 case 'b':
 case 'B':
-UN3IH9j35r = m2ulQw(1651641246);
+UN3IH9j35r = m2ulQw((unsigned short)1651641246);
 break;
 case 'c':
 case 'C':
@@ -213,7 +213,7 @@ q8me1_ = (int)floor(Rm2E);
 break;
 case 'c':
 case 'C':
-y59P = y10_4a1x(1495783507);
+y59P = y10_4a1x((short)1495783507);
 break;
 }
 }
@@ -381,7 +381,7 @@ else if (Hxgmzv6 == aU854GV)
 {
 if (((PTkiU) && (XyHC33ll1j >= -447530243)) && (mihW2Pr2))
 {
-Q1_v8XX1n = m2ulQw(-1809316197);
+Q1_v8XX1n = m2ulQw((unsigned short)-1809316197);
 }
 }
 else if (y59P)

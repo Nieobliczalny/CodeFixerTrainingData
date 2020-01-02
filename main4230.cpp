@@ -93,7 +93,7 @@ int k = 5;
 while (k >= 0)
 {
 --k;
-m6U27U0bj2 = (hKSOd >= B1vwwz054) ? -1402403909 : (short)-299704320;
+m6U27U0bj2 = (hKSOd >= B1vwwz054) ? (short)-1402403909 : (short)-299704320;
 }
 }
 }

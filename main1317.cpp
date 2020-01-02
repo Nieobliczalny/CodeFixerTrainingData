@@ -63,7 +63,7 @@ else if (GD9BJux == huk6v)
 switch (HK02Ee9tA)
 {
 case 0:
-advBE4XA = (qyrYK52 > KSLBm) ? yb0Q82AJ : -1114917639;
+advBE4XA = (qyrYK52 > KSLBm) ? yb0Q82AJ : (unsigned short)-1114917639;
 break;
 case 1:
 HXV4K = HK02Ee9tA + AdusK858g5;
@@ -75,7 +75,7 @@ case 3:
 rt0379i07Y = e4aO & 818699633;
 break;
 case 4:
-ALYws9m = (c0_A20 == -1490819716) ? 1532801678 : M3Yd7;
+ALYws9m = (c0_A20 == -1490819716) ? (unsigned short)1532801678 : M3Yd7;
 break;
 case 5:
 xJ8w23T %= 2123270998;
@@ -294,7 +294,7 @@ case 'd':
 F9CN34jr /= 781796510;
 break;
 case 'e':
-WVvSRl_ = (v0_Q0MeyN == F6Bgb) ? 1650077786 : (unsigned short)-1353113216;
+WVvSRl_ = (v0_Q0MeyN == F6Bgb) ? (unsigned short)1650077786 : (unsigned short)-1353113216;
 break;
 case 'f':
 br040R5b ^= 558387013;
@@ -321,7 +321,7 @@ S3ced5phpx = A2703f2M - 1866327907;
 int i = 9;
 do
 {
-EsVHQEZ3Xh = (kQfQt2R6t <= -1588869827) ? -20792565 : b_C5;
+EsVHQEZ3Xh = (kQfQt2R6t <= -1588869827) ? (unsigned short)-20792565 : b_C5;
 --i;
 }
 while (i >= 0);

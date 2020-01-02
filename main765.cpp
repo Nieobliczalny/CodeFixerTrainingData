@@ -23,7 +23,7 @@ int main() {
   unsigned int  skh4j  =  -1885158612;
 	long long	U2uAEx6c	=	233278025;
 	int	FMf59qAa	=	-747540634;
-	char	aFa76G8r4r	=	-1221575110;
+	char	aFa76G8r4r	=	(char)-1221575110;
     unsigned long    aS_60Q4    =    0;
   short  w8Gy186n  =  (short)599034735;
   long  Ke693E  =  797020480;
@@ -33,7 +33,7 @@ int main() {
  long double SE5YTo = -1150481937;
   long long  c1IO57r95  =  -336905986;
   unsigned long  Olx27  =  1344636407;
-    char    gOJ94b    =    919472569;
+    char    gOJ94b    =    (char)919472569;
  unsigned int FS1c3S = 1917423293;
   unsigned long  bNenZa  =  21635731;
  unsigned int GoO_c_87 = 1700458223;
@@ -44,7 +44,7 @@ int main() {
  long long MqpHuCa = -1257502998;
 	unsigned char	E8Hl	=	705099768;
   int  lTu3mCOo4J  =  0;
-	short int	k_FEt	=	-1090002149;
+	short int	k_FEt	=	(short)-1090002149;
 
 SE5YTo = (int)ceil(ie4vpVp);
 switch (gOJ94b)

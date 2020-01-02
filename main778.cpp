@@ -18,7 +18,7 @@ unsigned short	Yft_cc(unsigned long	rl77dJW,unsigned long	SK5_djBb)	{
 int main(int argc, char** argv)
 {
 	long long	rRDoA	=	1264011822;
-  unsigned char  r5u1Fb0ns  =  -270893105;
+  unsigned char  r5u1Fb0ns  =  (unsigned char)-270893105;
 	unsigned long long	APdv7	=	-1772551566;
 	long long	iAp5NWb8	=	1216752201;
  int CdtEyKf = 0;
@@ -382,7 +382,7 @@ iAp5NWb8 = (int)abs(hD9A_2bfJ);
 }
 else
 {
-hD9A_2bfJ = (iAp5NWb8 < s5z5KIz_kS) ? -132172845 : CdtEyKf;
+hD9A_2bfJ = (iAp5NWb8 < s5z5KIz_kS) ? (short)-132172845 : CdtEyKf;
 }
 }
 else

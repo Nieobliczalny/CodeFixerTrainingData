@@ -9,7 +9,7 @@
 using namespace std;
 
 unsigned char gQjhE(short int lPN_l3LH7b,long A4V3,short HonvTh,long A_0Gjb8ZC) {
- return 429311726;
+ return (unsigned char)429311726;
 }
 
 int    u8Plsol(short int    JO0J,long    f8sxOt_t)    {
@@ -27,7 +27,7 @@ unsigned short int  xec5XS_(unsigned short int  i4vb19u7Y,long  eMyiDs6_,unsigne
 
 int main(void) {
  unsigned char DLWBSJ;
- DLWBSJ = -2040880155;
+ DLWBSJ = (unsigned char)-2040880155;
     unsigned long    LZH39;
     LZH39    =    0;
   unsigned int  cCt3;
@@ -40,7 +40,7 @@ int main(void) {
 DLWBSJ = 1530616971 / cCt3;
 if ((DLWBSJ == -514151336) && ((LZH39 == XhPd867a) || (LZH39 < -521311011)))
 {
-cout << ivWCB82R(DLWBSJ, Vo8jJ, cCt3, -1189012663, LZH39) << "hshm1VS" << ivWCB82R(DLWBSJ, -1423383143, cCt3, -81438323, LZH39) << xec5XS_(DLWBSJ, Vo8jJ, -252509512, (unsigned char)1063001980, LZH39) << endl;
+cout << ivWCB82R(DLWBSJ, Vo8jJ, cCt3, -1189012663, LZH39) << "hshm1VS" << ivWCB82R(DLWBSJ, (unsigned short)-1423383143, cCt3, -81438323, LZH39) << xec5XS_(DLWBSJ, Vo8jJ, -252509512, (unsigned char)1063001980, LZH39) << endl;
 }
 else
 {

@@ -10,7 +10,7 @@
 int main()
 {
  short int Fd55QR_rpB;
- Fd55QR_rpB = -592718472;
+ Fd55QR_rpB = (short)-592718472;
 	float	n792xv8AT;
 	n792xv8AT	=	85606475;
   long  tw21d;
@@ -26,7 +26,7 @@ int main()
 	double	Y1o4;
 	Y1o4	=	158031952;
 	char	Bq5aCiPRxb;
-	Bq5aCiPRxb	=	1307884955;
+	Bq5aCiPRxb	=	(char)1307884955;
 	float	vh_j25c;
 	vh_j25c	=	846567894;
 	long double	j92r4;
@@ -36,7 +36,7 @@ int main()
   char  F337d5s9dk;
   F337d5s9dk  =  (char)-773192911;
   short int  o9XYZ;
-  o9XYZ  =  -334658835;
+  o9XYZ  =  (short)-334658835;
   long double  gdy0s0g;
   gdy0s0g  =  910095028;
 	unsigned long	c7bvI;
@@ -56,7 +56,7 @@ int main()
   unsigned char  CpP1;
   CpP1  =  0;
     unsigned short    Xf1Je_o;
-    Xf1Je_o    =    -1359629197;
+    Xf1Je_o    =    (unsigned short)-1359629197;
   unsigned long long  wbbtkQ;
   wbbtkQ  =  -1423335335;
 	unsigned long long	w_33JfvA;
@@ -66,7 +66,7 @@ int main()
 	char	SqjC;
 	SqjC	=	(char)-1260319430;
 	char	p81D;
-	p81D	=	17556399;
+	p81D	=	(char)17556399;
   unsigned long long  IZg0_;
   IZg0_  =  -218133973;
 

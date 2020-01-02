@@ -19,7 +19,7 @@ using std::floor;
 int main() {
     unsigned int    c44_    =    0;
  unsigned int Qc42L48 = 85272955;
-  short int  Gu3M2asX5K  =  858794901;
+  short int  Gu3M2asX5K  =  (short)858794901;
  unsigned short YCp3_560Z = (unsigned short)455077967;
     unsigned int    rhv6_MZBYa    =    927952629;
  double sWT3 = 572797703;
@@ -29,7 +29,7 @@ int main() {
 	long double	u8D9Zz74g	=	64757013;
 	short int	fHLz776L_	=	1722630987;
   long double  U2p415Z  =  1682727719;
-    unsigned short int    mUALL    =    520800356;
+    unsigned short int    mUALL    =    (unsigned short)520800356;
  long xmGeP_oZ = -463511470;
   unsigned int  DEEx9  =  -1390765807;
  unsigned short ZPu0my = (unsigned short)-2100988516;
@@ -42,7 +42,7 @@ int main() {
  long long evxf6 = -1962819571;
     unsigned int    k_OS    =    -1717770083;
     unsigned int    zRMW    =    -1158782318;
-    char    BP8K    =    -1665333518;
+    char    BP8K    =    (char)-1665333518;
     unsigned short    cM_yP    =    (unsigned short)-1811360274;
     int    X7x7    =    212785220;
     unsigned short    XkT88Hf    =    2042065726;
@@ -52,7 +52,7 @@ int main() {
   long double  ZYIdP3  =  847951489;
     unsigned int    X_ROGO2VzK    =    -647818507;
  long long s_70YZ = -1358495498;
-	unsigned short int	Xo7M6	=	308777042;
+	unsigned short int	Xo7M6	=	(unsigned short)308777042;
 	unsigned char	n2pFNPVCPi	=	(unsigned char)-1013280194;
   double  YnqhBaH  =  1279470515;
   long  Q93tT_i  =  623323863;
@@ -133,7 +133,7 @@ case 1:
 P8R_Gd_Oz--;
 break;
 case 2:
-mnKQoNRE = (Xo7M6 == BaT__69g__) ? sWT3 : 802505611;
+mnKQoNRE = (Xo7M6 == BaT__69g__) ? sWT3 : (char)802505611;
 break;
 case 3:
 X7x7 &= V53AJ44BC;

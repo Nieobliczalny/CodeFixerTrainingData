@@ -47,7 +47,7 @@ j6n5z8 %= dTjBHJGyAC;
 break;
 case 'd':
 case 'D':
-QeYXKjIM = K0d6(wCXi23Xaa1, 486466922) / 1527887305;
+QeYXKjIM = K0d6(wCXi23Xaa1, (short)486466922) / 1527887305;
 break;
 case 'e':
 case 'E':
@@ -60,7 +60,7 @@ int i = 3;
 while (i >= 0)
 {
 --i;
-r25o = K0d6(-330519804, 98521040);
+r25o = K0d6((char)-330519804, 98521040);
 }
 }
 c1694 = K0d6(c1694, Uwx48M4L);
@@ -88,7 +88,7 @@ else if (r25o != 1265294460)
 {
 if (L77B98)
 {
-hSAAK = K0d6(-1317280930, hSAAK);
+hSAAK = K0d6((char)-1317280930, hSAAK);
 }
 else if (a_09Ox2 <= 492596116)
 {
@@ -105,7 +105,7 @@ else
 {
 try
 {
-r25o = K0d6(r25o, -820073705);
+r25o = K0d6(r25o, (short)-820073705);
 }
 catch (int& errorCode)
 {
@@ -125,7 +125,7 @@ case 0:
 AuuVu5d /= 225023569;
 break;
 case 1:
-L77B98 = tlX6vSp(L77B98, -1530485812, c1694);
+L77B98 = tlX6vSp(L77B98, (unsigned short)-1530485812, c1694);
 break;
 case 2:
 Uwx48M4L -= sXTh;
@@ -140,7 +140,7 @@ case 5:
 L77B98 = UQKadajBm_() + 220106224;
 break;
 case 6:
-j6n5z8 = X3QSy(1087208756, QeYXKjIM, c1694);
+j6n5z8 = X3QSy((short)1087208756, QeYXKjIM, c1694);
 break;
 }
 }
@@ -178,7 +178,7 @@ do
 ++j;
 if (HldZ6Lq122 <= 2001735665)
 {
-QzbA = tlX6vSp(-785977585, (unsigned short)-64897325, -1590659775);
+QzbA = tlX6vSp((unsigned char)-785977585, (unsigned short)-64897325, -1590659775);
 }
 }
 while (j < 10);
@@ -225,7 +225,7 @@ Uwx48M4L -= 1190789769;
 }
 else if (HldZ6Lq122)
 {
-AuuVu5d = X3QSy(30933857, L77B98, j0D_56);
+AuuVu5d = X3QSy((short)30933857, L77B98, j0D_56);
 }
 else if (KM21I0 <= 991697114)
 {
@@ -270,7 +270,7 @@ do
 ++j;
 if (sXTh >= 2031490468)
 {
-L77B98 = tlX6vSp(L77B98, 1976895264, (short)-1861228999);
+L77B98 = tlX6vSp(L77B98, (unsigned short)1976895264, (short)-1861228999);
 }
 else if (r25o > -303109093)
 {
@@ -311,7 +311,7 @@ e2fd7I5ax = c1694 / wCXi23Xaa1;
 break;
 case 'b':
 case 'B':
-a_09Ox2 = tlX6vSp(-487066888, (unsigned short)-1142924894, -194827143);
+a_09Ox2 = tlX6vSp((unsigned char)-487066888, (unsigned short)-1142924894, -194827143);
 break;
 case 'c':
 case 'C':
@@ -359,7 +359,7 @@ U8x3tEw = UQKadajBm_();
 }
 else if (QzbA)
 {
-cout << "XXKTMgoIo" << "KnUK2l1r" << "YF_j7g" << tlX6vSp(468686355, x3O47, (short)1460575590) << endl;
+cout << "XXKTMgoIo" << "KnUK2l1r" << "YF_j7g" << tlX6vSp((unsigned char)468686355, x3O47, (short)1460575590) << endl;
 }
 else if (Uwx48M4L > hSAAK)
 {

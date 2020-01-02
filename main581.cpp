@@ -15,7 +15,7 @@ using namespace std;
 
 char b5zqx4()
 {
- return -2106323426;
+ return (char)-2106323426;
 }
 
 unsigned long i5_RJXGud(unsigned short WL4fW,char u2oeK8,int Zc_TSrIRpm)
@@ -25,7 +25,7 @@ unsigned long i5_RJXGud(unsigned short WL4fW,char u2oeK8,int Zc_TSrIRpm)
 
 unsigned short int	YO71()
 {
-	return	1121305206;
+	return	(unsigned short)1121305206;
 }
 
 char pyvv4(int c4yNt2,int StqUA,unsigned short Ksb1c,unsigned int C1yF,unsigned long QHm82Mcy) {
@@ -384,7 +384,7 @@ try
 int k = 0;
 while (k < 3)
 {
-EQw2WYS8J8 = pyvv4(520302667, -1944138738, 314821022, -460198048, 306282024);
+EQw2WYS8J8 = pyvv4(520302667, -1944138738, (unsigned short)314821022, -460198048, 306282024);
 k++;
 }
 }
@@ -402,7 +402,7 @@ Mqq7CS07o7 = aLYI4642W7();
 
 cout << "AyQ_Y" << EQw2WYS8J8 << endl;
 
-O0_17_ = i5_RJXGud(302226427, (char)-398867999, H7lvXvEcW);
+O0_17_ = i5_RJXGud((unsigned short)302226427, (char)-398867999, H7lvXvEcW);
 cout << Mqq7CS07o7 / H7lvXvEcW << endl;
 if (H7lvXvEcW)
 {
@@ -436,7 +436,7 @@ catch (int& errorCode)
 uWU9H_4B = YO71();
 }
 
-cout << pyvv4(-998821331, dbI9y, -1220022052, 411384507, 1801917862) << O0_17_ << aLYI4642W7() << endl;
+cout << pyvv4(-998821331, dbI9y, (unsigned short)-1220022052, 411384507, 1801917862) << O0_17_ << aLYI4642W7() << endl;
 
 for (int i = 0; i < 9; i++)
 {
@@ -503,7 +503,7 @@ l1MnyH4 = (EQw2WYS8J8 == 1867383046) ? EQw2WYS8J8 : -1001938550;
 switch (dbI9y)
 {
 case 0:
-uWU9H_4B = pyvv4(uWU9H_4B, l1MnyH4, 1758142795, H7lvXvEcW, dbI9y);
+uWU9H_4B = pyvv4(uWU9H_4B, l1MnyH4, (unsigned short)1758142795, H7lvXvEcW, dbI9y);
 break;
 case 1:
 H7lvXvEcW = aLYI4642W7();
@@ -586,7 +586,7 @@ EQw2WYS8J8 = (long long)(uWU9H_4B);
 
 for (int i = 3; i >= 0; i--)
 {
-O0_17_ = i5_RJXGud(-1594415190, uWU9H_4B, H7lvXvEcW);
+O0_17_ = i5_RJXGud((unsigned short)-1594415190, uWU9H_4B, H7lvXvEcW);
 }
 
 return 0;

@@ -16,7 +16,7 @@ unsigned long long	LFcSj(char	k6C_)	{
 int main(int argc, char** argv)
 {
     int    qr3RrUQz    =    -1040216866;
-  short  va5lr8  =  1983674262;
+  short  va5lr8  =  (short)1983674262;
 	unsigned char	qy9r	=	(unsigned char)100850556;
     unsigned long long    i4t9zv01S    =    0;
  short int L9ZM = -1253074932;
@@ -29,7 +29,7 @@ int main(int argc, char** argv)
 	unsigned int	BLI2Fc2	=	-371202104;
  long double t0m9px_5 = -1877172886;
     long    ip_yo_H    =    -1457912942;
-	short	o37KR1M	=	-1592495776;
+	short	o37KR1M	=	(short)-1592495776;
 	short int	N6Aml1NzBi	=	(short)-298842375;
     long double    N3hkDX58Xb    =    1499326302;
 	short	Kk9q7lUL	=	0;
@@ -42,7 +42,7 @@ int main(int argc, char** argv)
 
 try
 {
-Kk9q7lUL = LFcSj(2005097319);
+Kk9q7lUL = LFcSj((char)2005097319);
 }
 catch (int& errorCode)
 {
@@ -113,7 +113,7 @@ i++;
 while (i < 4);
 }
 
-cout << LFcSj(-1421438189) << va5lr8 << endl;
+cout << LFcSj((char)-1421438189) << va5lr8 << endl;
 try
 {
 if (Kk9q7lUL != BLI2Fc2)
@@ -130,7 +130,7 @@ case 2:
 va5lr8 >>= qr3RrUQz;
 break;
 case 3:
-va5lr8 = LFcSj(729645788) ^ 724957387;
+va5lr8 = LFcSj((char)729645788) ^ 724957387;
 break;
 case 4:
 ip_yo_H = jbFX / 224394720;
@@ -213,7 +213,7 @@ va5lr8 = (short)(N3hkDX58Xb);
 int i = 0;
 do
 {
-i4t9zv01S = LFcSj(1612540291);
+i4t9zv01S = LFcSj((char)1612540291);
 i++;
 }
 while (i < 8);
@@ -283,7 +283,7 @@ if ((i4t9zv01S / LFcSj(Kk9q7lUL)) >= 1757813179)
 L9ZM = gvX_Lg2_8_ / i4t9zv01S;
 }
 
-cout << R_zzoogD << "PZ9i09V40" << LFcSj(776214153) << N6Aml1NzBi << endl;
+cout << R_zzoogD << "PZ9i09V40" << LFcSj((char)776214153) << N6Aml1NzBi << endl;
 
 switch (qy9r)
 {
@@ -294,7 +294,7 @@ case 'b':
 Kk9q7lUL = LFcSj(-1425525863);
 break;
 case 'c':
-i4t9zv01S = LFcSj(-1610373147);
+i4t9zv01S = LFcSj((char)-1610373147);
 break;
 case 'd':
 RrBV8 = GHjkoYg + 1320262112;
@@ -306,7 +306,7 @@ case 'f':
 Kk9q7lUL = LFcSj(BLI2Fc2);
 break;
 case 'g':
-Kk9q7lUL = LFcSj(-184748591);
+Kk9q7lUL = LFcSj((char)-184748591);
 break;
 case 'h':
 i4t9zv01S = LFcSj((char)-344324418);
@@ -348,7 +348,7 @@ case 0:
 Kk9q7lUL = LFcSj(kBMUDDjC);
 break;
 case 1:
-i4t9zv01S = LFcSj(1220731551);
+i4t9zv01S = LFcSj((char)1220731551);
 break;
 case 2:
 qy9r++;
@@ -446,7 +446,7 @@ case 6:
 i4t9zv01S = LFcSj(R_zzoogD);
 break;
 case 7:
-Kk9q7lUL = LFcSj(-295788206);
+Kk9q7lUL = LFcSj((char)-295788206);
 break;
 case 8:
 qy9r /= 673267778;
@@ -494,7 +494,7 @@ case 5:
 N3hkDX58Xb = (int)floor(EvIq);
 break;
 case 6:
-i4t9zv01S = LFcSj(1238379276);
+i4t9zv01S = LFcSj((char)1238379276);
 break;
 }
 }
@@ -522,7 +522,7 @@ j++;
 switch (L9ZM)
 {
 case 0:
-i4t9zv01S = LFcSj(2108111594);
+i4t9zv01S = LFcSj((char)2108111594);
 break;
 default:
 BkA9j = t0m9px_5 - Gio3;
@@ -559,7 +559,7 @@ case 0:
 qr3RrUQz = (int)abs(N6Aml1NzBi);
 break;
 case 1:
-i4t9zv01S = LFcSj(-798212588);
+i4t9zv01S = LFcSj((char)-798212588);
 break;
 case 2:
 ip_yo_H += Gio3;

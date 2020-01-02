@@ -98,7 +98,7 @@ cSr_ftHd = (int)floor(spgB81qN26);
 while (i >= 0);
 }
 
-std::cout << PVOPL << "C_5L64C_6M" << B5_SJJQy7 << IVWbu << H8W9VXzI9d(-1485791375, (unsigned short)966579474) << std::endl;
+std::cout << PVOPL << "C_5L64C_6M" << B5_SJJQy7 << IVWbu << H8W9VXzI9d((short)-1485791375, (unsigned short)966579474) << std::endl;
 for (int i = 3; i >= 0; i--)
 {
 std::cout << i_NAH_(u8VD73) << U0VBT << std::endl;
@@ -139,7 +139,7 @@ J1Kk = gQb3k / F4_I047;
 
 Fy0rf7852 -= 1985836700;
 
-std::cout << YPDBh2S4c7 << "yd2j0b9d" << H8W9VXzI9d(ImKXIQt1_, 688364005) << i_NAH_(ImKXIQt1_) << std::endl;
+std::cout << YPDBh2S4c7 << "yd2j0b9d" << H8W9VXzI9d(ImKXIQt1_, (unsigned short)688364005) << i_NAH_(ImKXIQt1_) << std::endl;
 
 try
 {
@@ -172,7 +172,7 @@ mtBSP = TS__TCJ - 1115936830;
 }
 else
 {
-u8VD73 = i_NAH_(-1184790948);
+u8VD73 = i_NAH_((unsigned char)-1184790948);
 }
 }
 else if (L5vD5 & -1452279027)
@@ -192,7 +192,7 @@ return 0;
 }
 
 short	H8W9VXzI9d(short	f3SDzIz6,unsigned short	UU6S23Q_w)	{
-	return	511879914;
+	return	(short)511879914;
 }
 
 unsigned short	uOBz5oJ88(unsigned int	N514z5,int	A7S7,short	Uodp3l8q1R,int	M_ex6b)
@@ -202,6 +202,6 @@ unsigned short	uOBz5oJ88(unsigned int	N514z5,int	A7S7,short	Uodp3l8q1R,int	M_ex6
 
 short int    i_NAH_(unsigned char    EQOIU)
 {
-    return    -1458309228;
+    return    (short)-1458309228;
 }
 

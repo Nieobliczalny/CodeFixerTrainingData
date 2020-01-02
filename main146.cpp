@@ -24,7 +24,7 @@ unsigned int wM50T3D(unsigned int r5AW)
 
 unsigned short	F2is_(unsigned char	D0YCcP713,long long	WmPUr,unsigned int	F8v3M3909N,unsigned short int	Xkfe3,unsigned char	ix9x2TSw5)
 {
-	return	-844858313;
+	return	(unsigned short)-844858313;
 }
 
 unsigned long long    DOML(unsigned long    T3qsg17f,unsigned short int    vezQa0hF9V,long    wF_b7,long long    f_8_TCG5_,short int    ihM_FL)    {
@@ -100,7 +100,7 @@ int k = 10;
 do
 {
 k--;
-Z89ls = DOML(Z89ls, 1806629755, -152388209, Y262EZc, k1DY07L0I);
+Z89ls = DOML(Z89ls, (unsigned short)1806629755, -152388209, Y262EZc, k1DY07L0I);
 }
 while (k >= 0);
 }
@@ -139,7 +139,7 @@ else if ((rdbeh & 816471757) || (HCp6Xd_ != n3s8))
 {
 try
 {
-o36U = F2is_(-1570992078, 436931609, EEQda_, (unsigned short)289069376, lnz1vl);
+o36U = F2is_((unsigned char)-1570992078, 436931609, EEQda_, (unsigned short)289069376, lnz1vl);
 }
 catch (int& errorCode)
 {
@@ -186,7 +186,7 @@ case 1:
 FtSJ8 = DOML(-1067316479, MCPnA, 1890892375, -815397810, o36U);
 break;
 case 2:
-PhZ5q = F2is_(-1175558580, -1706442560, C8gly3hY, HCp6Xd_, tS09B);
+PhZ5q = F2is_((unsigned char)-1175558580, -1706442560, C8gly3hY, HCp6Xd_, tS09B);
 break;
 case 3:
 prdu_0 = ZTfl(qs74QV8a0, (short)-1529278810);
@@ -245,7 +245,7 @@ do
 {
 try
 {
-fn657 = (ySYax6i2) ? ZTfl(1485563416, akz50q7h) : Isp8P;
+fn657 = (ySYax6i2) ? ZTfl((unsigned short)1485563416, akz50q7h) : Isp8P;
 }
 catch (int& errorCode)
 {
@@ -262,7 +262,7 @@ if (l_8J5o8K5a < yKN0nNLz2)
 {
 try
 {
-std::cout << tb3K1 << "Eu3E22d" << DOML(453297305, -699036268, -1686372974, -1313437487, Zbxy) << wM50T3D(yyS_tEC28) << "kA7E3PH" << std::endl;
+std::cout << tb3K1 << "Eu3E22d" << DOML(453297305, (unsigned short)-699036268, -1686372974, -1313437487, Zbxy) << wM50T3D(yyS_tEC28) << "kA7E3PH" << std::endl;
 }
 catch (int& errorCode)
 {
@@ -341,7 +341,7 @@ do
 {
 if (Z89ls == lnz1vl)
 {
-C7dwck73 = F2is_(C7dwck73, 451298424, ju4nnfH05H, 896252158, (unsigned char)-641085908);
+C7dwck73 = F2is_(C7dwck73, 451298424, ju4nnfH05H, (unsigned short)896252158, (unsigned char)-641085908);
 }
 --j;
 }
@@ -354,7 +354,7 @@ std::cout << qVK4hhkNH_ / prdu_0 << std::endl;
 switch (Y262EZc)
 {
 case 0:
-tS09B = F2is_(tS09B, x_o0T8, PhZ5q, K6pbzpau4, 147827531);
+tS09B = F2is_(tS09B, x_o0T8, PhZ5q, K6pbzpau4, (unsigned char)147827531);
 break;
 case 1:
 HCp6Xd_++;
@@ -374,7 +374,7 @@ EEQda_ &= 1647267270;
 Sl1PZ09U_Z = (unsigned long long)(EgDzYv6Yk);
 qs74QV8a0 &= 549436880;
 
-std::cout << rdbeh << FF5lA1B9I() << F2is_(eykQStmW, 1457719612, yKN0nNLz2, -445902462, L7zySMLw_) << DOML(-1737086526, (unsigned short)1396981449, 242045020, QsCEb595, 130292415) << std::endl;
+std::cout << rdbeh << FF5lA1B9I() << F2is_(eykQStmW, 1457719612, yKN0nNLz2, (unsigned short)-445902462, L7zySMLw_) << DOML(-1737086526, (unsigned short)1396981449, 242045020, QsCEb595, 130292415) << std::endl;
 
 std::cout << ySYax6i2 << tS09B << wM50T3D(eykQStmW) << std::endl;
 
@@ -402,7 +402,7 @@ prdu_0 = ZTfl(MCPnA, qs74QV8a0);
 break;
 case 'e':
 case 'E':
-K6pbzpau4 = F2is_(738919854, VL_Fw3cUh, 292571516, (unsigned short)1197327135, -122733421);
+K6pbzpau4 = F2is_((unsigned char)738919854, VL_Fw3cUh, 292571516, (unsigned short)1197327135, -122733421);
 break;
 case 'f':
 case 'F':
@@ -516,7 +516,7 @@ case 'a':
 Yzg7D ^= 857243180;
 break;
 case 'b':
-AGN_D6N = F2is_(1370996813, -2117357453, Mh158T, tS09B, (unsigned char)369818910);
+AGN_D6N = F2is_((unsigned char)1370996813, -2117357453, Mh158T, tS09B, (unsigned char)369818910);
 break;
 case 'c':
 JmTO += 1610593373;
@@ -531,7 +531,7 @@ case 'f':
 K6pbzpau4 &= fGxvY;
 break;
 case 'g':
-yyS_tEC28 = DOML(yyS_tEC28, 1810597208, 386512419, Zbxy, (short)-2030958592);
+yyS_tEC28 = DOML(yyS_tEC28, (unsigned short)1810597208, 386512419, Zbxy, (short)-2030958592);
 break;
 case 'h':
 eykQStmW = DOML(eykQStmW, -118358484, -2099323516, XIX5, gqF0);
@@ -557,7 +557,7 @@ if (((Zbxy & yKN0nNLz2) && (mc019an)) && ((lnz1vl <= -430547720) && (E5mo1Eq == 
 switch (eykQStmW)
 {
 case 'a':
-prdu_0 = ZTfl(1745327953, (short)1298300377);
+prdu_0 = ZTfl((unsigned short)1745327953, (short)1298300377);
 break;
 case 'b':
 K_kZ = DOML(-685507186, JmTO, 1156949454, 658050359, U4Cl_D1VN);

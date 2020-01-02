@@ -32,7 +32,7 @@ default:
 e3ghVu_0_ >>= ZG6NL_6DJ;
 break;
 }
-Tu2f = GD3KXtb(1021396847, -246981186);
+Tu2f = GD3KXtb((unsigned short)1021396847, -246981186);
 
 {
 int i = 0;
@@ -44,7 +44,7 @@ i++;
 while (i < 6);
 }
 
-if (GD3KXtb(1772548466, -361756283) == 0)
+if (GD3KXtb((unsigned short)1772548466, -361756283) == 0)
 {
 	sk6x = -367898532 / GD3KXtb((unsigned short)1772548466, -361756283);
 }
@@ -54,7 +54,7 @@ int i = 0;
 while (i < 6)
 {
 i++;
-RLzs5e_YHq = GD3KXtb(-979601999, ZG6NL_6DJ);
+RLzs5e_YHq = GD3KXtb((unsigned short)-979601999, ZG6NL_6DJ);
 }
 }
 

@@ -10,7 +10,7 @@ using namespace std;
 
 int main(int argc, char** argv) {
   short int  s6_7RN;
-  s6_7RN  =  670513846;
+  s6_7RN  =  (short)670513846;
 	unsigned char	qM4h342;
 	qM4h342	=	(unsigned char)841805596;
  unsigned long long H3ZXe;
@@ -26,7 +26,7 @@ int main(int argc, char** argv) {
  long khd_1EE9BW;
  khd_1EE9BW = 971915136;
   unsigned char  e7rwxU_nk;
-  e7rwxU_nk  =  1228485583;
+  e7rwxU_nk  =  (unsigned char)1228485583;
   unsigned long  R7VD;
   R7VD  =  -2076973681;
  short W3WwL;
@@ -36,7 +36,7 @@ int main(int argc, char** argv) {
 	int	OsOg4IvvX;
 	OsOg4IvvX	=	1574851725;
  short Gah9qi_Z;
- Gah9qi_Z = -201501690;
+ Gah9qi_Z = (short)-201501690;
  float RuC0b00;
  RuC0b00 = -485405185;
 	long	Sp75CT3;
@@ -46,7 +46,7 @@ int main(int argc, char** argv) {
     double    T2PF496cC;
     T2PF496cC    =    -1089629260;
  unsigned short a41exY;
- a41exY = 420921620;
+ a41exY = (unsigned short)420921620;
   unsigned int  BWKT9;
   BWKT9  =  173793475;
 	unsigned int	gMr1Hc;
@@ -56,7 +56,7 @@ int main(int argc, char** argv) {
   unsigned long long  blJf_gw;
   blJf_gw  =  -1076857244;
 	short int	SKrzk;
-	SKrzk	=	513126826;
+	SKrzk	=	(short)513126826;
   short int  XrPP;
   XrPP  =  (short)-1248024987;
   char  HQ8b5;
@@ -72,7 +72,7 @@ int main(int argc, char** argv) {
     long    VRW_fN3En;
     VRW_fN3En    =    1138950635;
     unsigned char    k_6CY3ly;
-    k_6CY3ly    =    -2085755466;
+    k_6CY3ly    =    (unsigned char)-2085755466;
  float W8EeE;
  W8EeE = -1524738649;
     short    DCHV7g6_f6;
@@ -82,7 +82,7 @@ int main(int argc, char** argv) {
 	int	D69f;
 	D69f	=	-1614021551;
   unsigned short int  tEws7;
-  tEws7  =  2141252460;
+  tEws7  =  (unsigned short)2141252460;
  unsigned short XzpC;
  XzpC = 0;
     unsigned short int    A4zYZiAGWl;
@@ -92,7 +92,7 @@ int main(int argc, char** argv) {
   double  P7bDL2Td6;
   P7bDL2Td6  =  -459690834;
 	unsigned short int	CWIo8XKJp5;
-	CWIo8XKJp5	=	1806774175;
+	CWIo8XKJp5	=	(unsigned short)1806774175;
   unsigned char  STtPv0;
   STtPv0  =  -41171705;
  short int yPS6;

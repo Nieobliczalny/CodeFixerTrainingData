@@ -10,7 +10,7 @@
 using namespace std;
 
 short	FCw1(unsigned long	b08v7pb7l,unsigned int	oEt1s,unsigned long	vcN84l8,unsigned int	XEsenc_2N)	{
-	return	-2068736579;
+	return	(short)-2068736579;
 }
 
 unsigned long long    h3Krw0N4VV()    {
@@ -23,7 +23,7 @@ unsigned short int    l5X_pb7I3(unsigned int    w1D8,char    rWWv5,unsigned shor
 
 short int    Cx2962(int    gfAR)
 {
-    return    1984950298;
+    return    (short)1984950298;
 }
 
 unsigned long h4M2rV(unsigned char H5KV)
@@ -126,7 +126,7 @@ p_64n8a = h3Krw0N4VV();
 
 if (a699BoJ <= KS18WIeOEx)
 {
-G3iWTa = l5X_pb7I3(D4MFm186, 747668047, (unsigned short)-1443564002);
+G3iWTa = l5X_pb7I3(D4MFm186, (char)747668047, (unsigned short)-1443564002);
 }
 else
 {
@@ -148,7 +148,7 @@ case 4:
 M4V25_G_R >>= ZB7txnSC2;
 break;
 case 5:
-vj0LP2 = l5X_pb7I3(-490011330, 2049548783, (unsigned short)261430867);
+vj0LP2 = l5X_pb7I3(-490011330, (char)2049548783, (unsigned short)261430867);
 break;
 case 6:
 ZI78a5D /= d42e;
@@ -240,7 +240,7 @@ if (D8MOVm < E4193_a)
 int k = 0;
 do
 {
-M4V25_G_R = h4M2rV(-214642571);
+M4V25_G_R = h4M2rV((unsigned char)-214642571);
 ++k;
 }
 while (k < 8);
@@ -252,7 +252,7 @@ while (k < 8);
 
 ObPb6QC5T = l5X_pb7I3(1016161597, Y0mF, ipbLng61_) << lz7l;
 vj0LP2 = (char)(P1288L3);
-vj0LP2 = l5X_pb7I3(L9Q_3uV, -1623308396, (unsigned short)1250188551);
+vj0LP2 = l5X_pb7I3(L9Q_3uV, (char)-1623308396, (unsigned short)1250188551);
 try
 {
 XCj2psv84v = FCw1(XCj2psv84v, rG20Qvqp1, 1404410439, 1668770374);
@@ -302,7 +302,7 @@ while (k < 10);
 
 try
 {
-M7Mug89kx = l5X_pb7I3(M4V25_G_R, 1113630370, (unsigned short)1114377337) >> 197948130;
+M7Mug89kx = l5X_pb7I3(M4V25_G_R, (char)1113630370, (unsigned short)1114377337) >> 197948130;
 }
 catch (int& errorCode)
 {
@@ -332,7 +332,7 @@ case 'c':
 qB3S0 %= e635;
 break;
 }
-cout << "mziX8" << h4M2rV(797414785) << ZI78a5D << "yW4k22" << SMHbKQHg_ << endl;
+cout << "mziX8" << h4M2rV((unsigned char)797414785) << ZI78a5D << "yW4k22" << SMHbKQHg_ << endl;
 
 for (int i = 10; i >= 0; --i)
 {
@@ -367,7 +367,7 @@ RepCeZC722 = q8TS - D4MFm186;
 }
 else
 {
-a699BoJ = l5X_pb7I3(-221771269, j63L153, -75144123);
+a699BoJ = l5X_pb7I3(-221771269, j63L153, (unsigned short)-75144123);
 }
 }
 }

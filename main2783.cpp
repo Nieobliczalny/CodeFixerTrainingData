@@ -83,7 +83,7 @@ WP3h3Gu = G04EbI84 * RXs8n;
 while (i < 4);
 }
 
-VH9YAhwFi = l662(VH9YAhwFi, 1678692346, -373934944, (short)-1934273473);
+VH9YAhwFi = l662(VH9YAhwFi, (short)1678692346, -373934944, (short)-1934273473);
 cout << OPIzD1V / ep9stJCI(1381456340) << endl;
 try
 {
@@ -104,7 +104,7 @@ return 0;
 
 short l662(int h65EEv,short cET84,unsigned int ss26Eb2N,short Vm6ZX)
 {
- return 1012916733;
+ return (short)1012916733;
 }
 
 unsigned long    ep9stJCI(unsigned short int    set33b)    {

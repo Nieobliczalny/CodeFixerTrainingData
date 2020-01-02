@@ -94,7 +94,7 @@ if (yLRk > mS3N_1)
 {
 if (RFPmw1Fr0 < gTN51)
 {
-d7Cc73HN5p = (k0a_Ap0 != C3n_Qei42n) ? G3833_ : -422127778;
+d7Cc73HN5p = (k0a_Ap0 != C3n_Qei42n) ? G3833_ : (unsigned short)-422127778;
 }
 }
 else
@@ -180,7 +180,7 @@ case 2:
 hQ4cwo = ay40i();
 break;
 case 3:
-k0a_Ap0 = (RFPmw1Fr0 & -172905678) ? 1310400693 : (unsigned short)-1775814673;
+k0a_Ap0 = (RFPmw1Fr0 & -172905678) ? (unsigned short)1310400693 : (unsigned short)-1775814673;
 break;
 }
 }

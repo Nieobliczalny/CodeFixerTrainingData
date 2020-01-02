@@ -21,7 +21,7 @@ unsigned long  Ydy_r9r_(unsigned short  Yzh4y_9q,unsigned long  fjZ9j,long long 
 }
 
 unsigned short    Fgj85C66()    {
-    return    97192;
+    return    (unsigned short)97192;
 }
 
 short int N_Rde_() {
@@ -31,7 +31,7 @@ short int N_Rde_() {
 int main(int argc, char** argv)
 {
   unsigned short int  Sfr5eC859;
-  Sfr5eC859  =  1539236930;
+  Sfr5eC859  =  (unsigned short)1539236930;
   long  Hc54DvOo;
   Hc54DvOo  =  -700533675;
     unsigned short    dQYYEf6RE;
@@ -55,7 +55,7 @@ int main(int argc, char** argv)
   unsigned long long  L_TfAsB4j_;
   L_TfAsB4j_  =  0;
  char NlytFWX_qf;
- NlytFWX_qf = -1133297314;
+ NlytFWX_qf = (char)-1133297314;
     float    qX3BVxS_c;
     qX3BVxS_c    =    -2045713807;
  int xA3kX02Gv6;
@@ -67,7 +67,7 @@ int main(int argc, char** argv)
  double VMsw_;
  VMsw_ = -1244004939;
  short tuR_SEO;
- tuR_SEO = 1428586554;
+ tuR_SEO = (short)1428586554;
 	short int	r00i9S5yd0;
 	r00i9S5yd0	=	0;
 	double	jGsBZ;
@@ -156,7 +156,7 @@ Ofb0 = gN1BS8Xq(qX3BVxS_c, 910591400, Ofb0, -1896859720);
 }
 else if ((kz66C < -1516893389) && (Sfr5eC859 == -1336898725))
 {
-Sfr5eC859 = Ydy_r9r_(496874022, -604009921, -962043624);
+Sfr5eC859 = Ydy_r9r_((unsigned short)496874022, -604009921, -962043624);
 }
 else if (((Tq2Gj3kZAc & 1210923059) && (Ofb0 >= 843074137)) || (NlytFWX_qf))
 {
@@ -274,7 +274,7 @@ int j = 0;
 while (j < 2)
 {
 j++;
-xA3kX02Gv6 = Ydy_r9r_(1031844738, 789200460, 1986330702);
+xA3kX02Gv6 = Ydy_r9r_((unsigned short)1031844738, 789200460, 1986330702);
 }
 }
 }
@@ -312,7 +312,7 @@ dQYYEf6RE = N_Rde_();
 }
 else if (Tq2Gj3kZAc != 859647838)
 {
-jGsBZ = Ydy_r9r_(-1916487865, -1634832568, qX3BVxS_c);
+jGsBZ = Ydy_r9r_((unsigned short)-1916487865, -1634832568, qX3BVxS_c);
 }
 else if ((kz66C != G1H92) || (VMsw_ == 1165049063))
 {
@@ -423,7 +423,7 @@ qX3BVxS_c = (int)floor(G1H92);
 }
 else if (Kh9l_b == -789336366)
 {
-YFOSaB_HX = Ydy_r9r_(-1727788472, dQYYEf6RE, NlytFWX_qf);
+YFOSaB_HX = Ydy_r9r_((unsigned short)-1727788472, dQYYEf6RE, NlytFWX_qf);
 }
 else if (dQYYEf6RE & -2089493308)
 {

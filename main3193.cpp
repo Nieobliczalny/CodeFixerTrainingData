@@ -22,7 +22,7 @@ int main(int argc, char** argv)
     char    O2jH_4;
     O2jH_4    =    0;
 	short	d2MJ_78mv;
-	d2MJ_78mv	=	-1506094938;
+	d2MJ_78mv	=	(short)-1506094938;
 
 {
 int i = 3;

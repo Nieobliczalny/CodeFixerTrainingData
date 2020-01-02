@@ -20,7 +20,7 @@ short    cG93nRd9o(long    e45z8ao);
 
 int main(void) {
   short int  FrzI;
-  FrzI  =  -19656617;
+  FrzI  =  (short)-19656617;
   unsigned long  y8S52;
   y8S52  =  -1168287443;
   unsigned short  pH9N;
@@ -32,7 +32,7 @@ int main(void) {
     char    nkm97_;
     nkm97_    =    0;
  char zP95jROU77;
- zP95jROU77 = -7519747;
+ zP95jROU77 = (char)-7519747;
   unsigned char  RX21g;
   RX21g  =  0;
 	unsigned int	H6tC0cuHz3;
@@ -42,7 +42,7 @@ int main(void) {
   float  PuHly2;
   PuHly2  =  -341669840;
  unsigned char gnsM;
- gnsM = -1350996315;
+ gnsM = (unsigned char)-1350996315;
   short int  rm3_l;
   rm3_l  =  (short)1862441408;
  unsigned short int asT2h;
@@ -146,7 +146,7 @@ T464nC4a = nkm97_ << 373031820;
 break;
 case 'f':
 case 'F':
-FrzI = tAaP(-1457245710, -1994133173, FrzI, -1700937552);
+FrzI = tAaP((short)-1457245710, -1994133173, FrzI, -1700937552);
 break;
 default:
 PuHly2 = (int)floor(E2GC0rz);
@@ -183,7 +183,7 @@ while (i < 6);
 PuHly2 = (int)abs(rm3_l);
 try
 {
-Hu_Y4_7 = tAaP(1723724164, -1562729434, E2GC0rz, zP95jROU77);
+Hu_Y4_7 = tAaP((short)1723724164, -1562729434, E2GC0rz, zP95jROU77);
 }
 catch (int& errorCode)
 {
@@ -295,6 +295,6 @@ unsigned short  nznVtt()
 }
 
 short    cG93nRd9o(long    e45z8ao)    {
-    return    -892826599;
+    return    (short)-892826599;
 }
 

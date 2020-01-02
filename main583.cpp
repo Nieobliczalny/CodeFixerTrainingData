@@ -19,7 +19,7 @@ int    P4oA97K1B(long long    vpONP2w2,unsigned long    N73_i2,unsigned short   
 }
 
 unsigned short int    Vqp680()    {
-    return    -1330893916;
+    return    (unsigned short)-1330893916;
 }
 
 unsigned long long bHXXddLEd1() {
@@ -38,7 +38,7 @@ unsigned int  Dz3_5AF_I6(short int  wcB4Tpd,long  t5Yw5)
 int main()
 {
  short P1_0566M;
- P1_0566M = 835574205;
+ P1_0566M = (short)835574205;
  long double hS654zYLR7;
  hS654zYLR7 = 104448208;
  long FbRQ3;
@@ -54,7 +54,7 @@ int main()
 	long	EAF_;
 	EAF_	=	965278139;
     unsigned short    hKTf;
-    hKTf    =    293897184;
+    hKTf    =    (unsigned short)293897184;
 	int	aCjbV;
 	aCjbV	=	0;
 	long long	O1Qp;
@@ -68,7 +68,7 @@ int main()
  double cWoRm;
  cWoRm = 1643087992;
     short int    P1dxoAvls;
-    P1dxoAvls    =    2046943655;
+    P1dxoAvls    =    (short)2046943655;
     long    H266Yq;
     H266Yq    =    -509141970;
   unsigned short  Pwsy;
@@ -88,7 +88,7 @@ int main()
 	long double	P6wT;
 	P6wT	=	-2132154192;
 	unsigned char	PCr19wIL3;
-	PCr19wIL3	=	754068108;
+	PCr19wIL3	=	(unsigned char)754068108;
 	long long	mB11G_iU9e;
 	mB11G_iU9e	=	-624106335;
   unsigned long  tid6rcFRer;
@@ -98,7 +98,7 @@ int main()
 	short int	s1k_1RGS;
 	s1k_1RGS	=	(short)984510096;
 	char	PCr22kh;
-	PCr22kh	=	-1045931708;
+	PCr22kh	=	(char)-1045931708;
   unsigned long  P_QjOl5d5;
   P_QjOl5d5  =  -1532292259;
  unsigned long long l206gvw9w;
@@ -116,7 +116,7 @@ int main()
     unsigned char    C_P3YngZum;
     C_P3YngZum    =    0;
 	unsigned short int	d5736;
-	d5736	=	-692678593;
+	d5736	=	(unsigned short)-692678593;
  int gKlF1;
  gKlF1 = 1981578817;
     unsigned short    J5R0;
@@ -205,7 +205,7 @@ int k = 0;
 while (k < 7)
 {
 ++k;
-EAF_ = P4oA97K1B(1118784602, AH3SU83I_, -749010050, P6wT);
+EAF_ = P4oA97K1B(1118784602, AH3SU83I_, (unsigned short)-749010050, P6wT);
 }
 }
 }
@@ -505,7 +505,7 @@ case 7:
 gKlF1 = P1_0566M * 34467108;
 break;
 case 8:
-PCr19wIL3 = P4oA97K1B(-174680592, 661952768, -1787409140, 143117673);
+PCr19wIL3 = P4oA97K1B(-174680592, 661952768, (unsigned short)-1787409140, 143117673);
 break;
 case 9:
 P6wT = (int)floor(cWoRm);

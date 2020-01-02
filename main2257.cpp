@@ -49,7 +49,7 @@ case 1:
 cS61 = FUw1i4(-29328315, u5Yi, KeIx9h6l8Q);
 break;
 default:
-KeIx9h6l8Q = rEvEP0(q1gC_, KQD7Uxmz, J2_PB, -118560573);
+KeIx9h6l8Q = rEvEP0(q1gC_, KQD7Uxmz, J2_PB, (unsigned short)-118560573);
 break;
 }
 
@@ -87,7 +87,7 @@ case 6:
 w2C9 = (int)abs(mgMXy_);
 break;
 case 7:
-IGnLX8Oz = rEvEP0(1623112045, -1234752449, (unsigned short)1642558769, 50505886);
+IGnLX8Oz = rEvEP0((short)1623112045, -1234752449, (unsigned short)1642558769, 50505886);
 break;
 case 8:
 o_coBb9da >>= 1945799308;
@@ -140,7 +140,7 @@ else if (Iqkr4w1Mt > 436321076)
 {
 if (FhA66WmGt_ == d3ovDV6Aq)
 {
-oUG0z968 = FUw1i4(-1179314512, 294174922, cS61);
+oUG0z968 = FUw1i4(-1179314512, (unsigned short)294174922, cS61);
 }
 }
 else
@@ -195,7 +195,7 @@ IxYr27 = (int)abs(ISOCU9);
 }
 else if (VAn_ > d3ovDV6Aq)
 {
-b_1Zk20 = FUw1i4(b_1Zk20, -404693479, 117260427);
+b_1Zk20 = FUw1i4(b_1Zk20, (unsigned short)-404693479, 117260427);
 }
 else if (KeIx9h6l8Q >= U73TCLHvD)
 {
@@ -216,7 +216,7 @@ else
 switch (cS61)
 {
 case 0:
-c6KU = FUw1i4(659192142, -1736706180, -210423577) - 593634256;
+c6KU = FUw1i4(659192142, (unsigned short)-1736706180, -210423577) - 593634256;
 break;
 case 1:
 p8DgEvfe = (int)abs(SlHOfC11s) + (243339104);
@@ -231,7 +231,7 @@ case 4:
 eZ2mvDKK8D = (int)abs(k98D);
 break;
 default:
-o_coBb9da = FUw1i4(o_coBb9da, -103533420, yDlxsP);
+o_coBb9da = FUw1i4(o_coBb9da, (unsigned short)-103533420, yDlxsP);
 break;
 }
 }
@@ -242,7 +242,7 @@ Fi99NAT = FUw1i4(41175766, (unsigned short)422294745, J2_PB);
 
 if (((b_1Zk20 > 427274392) || (H2bXpalO16 > VAn_)) && ((ISOCU9 & 890173832) || (BX0_pX_N > -1786379961)))
 {
-IGnLX8Oz = rEvEP0(1637816287, 1795564151, D175pMI7, -894328997);
+IGnLX8Oz = rEvEP0((short)1637816287, 1795564151, D175pMI7, -894328997);
 }
 else if (cYdLE3_AN9 <= -1513687805)
 {
@@ -335,7 +335,7 @@ else
 {
 try
 {
-BX0_pX_N = rEvEP0(953617737, D175pMI7, (unsigned short)-269088857, 703454623) - J2_PB;
+BX0_pX_N = rEvEP0((short)953617737, D175pMI7, (unsigned short)-269088857, 703454623) - J2_PB;
 }
 catch (int& errorCode)
 {
@@ -354,7 +354,7 @@ while (j < 9)
 int k = 0;
 do
 {
-IGnLX8Oz = rEvEP0(145380239, 1590800244, (unsigned short)-2052472479, u5Yi);
+IGnLX8Oz = rEvEP0((short)145380239, 1590800244, (unsigned short)-2052472479, u5Yi);
 k++;
 }
 while (k < 3);

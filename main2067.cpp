@@ -16,7 +16,7 @@ using std::floor;
 int main() {
  long double LJY181 = 1201136117;
   unsigned long  x_HHPwt  =  1622755174;
-    short    ntE07D    =    946987760;
+    short    ntE07D    =    (short)946987760;
  float P7k85 = 1941488512;
     short int    DK940LV    =    (short)1650507800;
   unsigned long long  vdt1cuFaM  =  -1874253850;
@@ -26,7 +26,7 @@ int main() {
     unsigned long    G20s_    =    1818493199;
  char BiOj = -960595751;
     long long    Lu9d4    =    -758324883;
-    unsigned short int    R_YyNIL    =    -1274318512;
+    unsigned short int    R_YyNIL    =    (unsigned short)-1274318512;
  char yNv_0M17 = -1083469270;
   unsigned char  A3u7LeJt_  =  (unsigned char)-2106264953;
   float  q8uLTN2Wdy  =  721039564;
@@ -37,7 +37,7 @@ int main() {
  long double a9i2b = -28723071;
 	long	hq1YQf	=	0;
   short  hY15  =  0;
-  unsigned char  mU6bqkX  =  -1988518942;
+  unsigned char  mU6bqkX  =  (unsigned char)-1988518942;
     double    Q3p9Ly8O    =    207141198;
   long  wv_S3Nz  =  1897902608;
   double  o0n2n0_  =  163090535;
@@ -48,7 +48,7 @@ int main() {
 	unsigned int	UrX7m	=	1292628028;
     unsigned char    IyZu747_0H    =    -968379652;
  unsigned long long PJpjQf2cjl = 0;
-  short int  Ls3G  =  2053273195;
+  short int  Ls3G  =  (short)2053273195;
 	long double	xzABY5MtA	=	904624203;
     int    f1E51ZA3As    =    777102117;
  char N5c8USf = (char)-2043235282;
@@ -59,7 +59,7 @@ int main() {
     short int    Ovp825    =    -605539721;
     unsigned short    s7zWF14Pf_    =    2042766426;
 	double	dI23	=	-1754143844;
-    short    k4xYtZoIT0    =    51100425;
+    short    k4xYtZoIT0    =    (short)51100425;
  short K7Am = -1200181970;
 	long	wnwWzA	=	684287674;
   int  YrT0NU  =  730422751;
@@ -75,7 +75,7 @@ int main() {
 	unsigned int	hexVOU6	=	-382301895;
  float G7L3FSujWw = -641923931;
     long long    Q3T54    =    1176830164;
- unsigned char FN391_Ma = -974134891;
+ unsigned char FN391_Ma = (unsigned char)-974134891;
     float    eNR5m    =    1359943741;
     long double    OwUcQj    =    -1866931307;
   unsigned short  R4tp  =  (unsigned short)-1506441542;

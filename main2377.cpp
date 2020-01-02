@@ -10,7 +10,7 @@ using namespace std;
 
 int main(int argc, char** argv) {
 	float	o9wtYA	=	848740524;
-	short	D_Wuh9G0sX	=	-1767088694;
+	short	D_Wuh9G0sX	=	(short)-1767088694;
  long a5Ma2Rq4 = 582243023;
   float  N53sNeW0  =  -1510418648;
     unsigned int    XVPhn6    =    1975625856;
@@ -24,7 +24,7 @@ int main(int argc, char** argv) {
   unsigned long long  y4b_VBcQ  =  -221452005;
  float iaS3 = -911248808;
     long double    By43D7s05z    =    225401919;
-  unsigned char  u8V1E3igu  =  499757395;
+  unsigned char  u8V1E3igu  =  (unsigned char)499757395;
   double  ghIn  =  -1106909832;
     unsigned short    J15zHuX    =    1301143768;
     long    SrCA    =    -1239408946;
@@ -38,7 +38,7 @@ int main(int argc, char** argv) {
   long  s_0PxC556w  =  -528294289;
     int    ZpJ1zM6    =    -533779206;
   long  ou_kzXRS  =  -1974478531;
- short o7_b_F9 = 1599833512;
+ short o7_b_F9 = (short)1599833512;
     long long    eVY_    =    617019317;
  unsigned char c41x9x = (unsigned char)1292646255;
  short int n71bT3m = 0;
@@ -49,7 +49,7 @@ int main(int argc, char** argv) {
  unsigned char hoxo = 2099025070;
   short  A4HT  =  -2049025724;
  float Xp1GqL1Npq = -1696177718;
- unsigned short DdNNUMt = -1059925647;
+ unsigned short DdNNUMt = (unsigned short)-1059925647;
 	double	sZjr4v6y	=	269252747;
     double    hOBKy3s    =    1079408248;
   float  SuRi2Rp1uh  =  -902843208;
@@ -60,7 +60,7 @@ int main(int argc, char** argv) {
  long IrZL_m = 1018069423;
 	unsigned long long	xVPpJQQ_8	=	191603246;
  double rcYJ = -1897400548;
-	short int	lU_0SK9ID8	=	-241010715;
+	short int	lU_0SK9ID8	=	(short)-241010715;
     unsigned char    bLw_8    =    1117446087;
   long long  ie98Dnmi  =  661944756;
   unsigned char  k2s_  =  1364592459;
@@ -71,7 +71,7 @@ int main(int argc, char** argv) {
     unsigned short int    f2k3    =    -391415725;
  unsigned char J4y1 = 0;
 	long long	UfyoRYE1Y7	=	487386931;
-	short	xCUM45Ac	=	1914327214;
+	short	xCUM45Ac	=	(short)1914327214;
   unsigned char  SuoKZ  =  261769476;
   short  i6Q3lJr  =  527219009;
 	float	WjI72tNVC	=	144566357;
@@ -83,7 +83,7 @@ int main(int argc, char** argv) {
  unsigned int zjYseB24 = 0;
     long    XNyB2n    =    -2832968;
   long  Dd07TlAf  =  -1472978164;
-  unsigned short int  p5vGa5h42D  =  -966747492;
+  unsigned short int  p5vGa5h42D  =  (unsigned short)-966747492;
 
 DN9ArA_ = gp5Njw3N2_ ^ onwTAd7Z6;
 

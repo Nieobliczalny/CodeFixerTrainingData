@@ -63,7 +63,7 @@ else if (Rcuw2qFq)
 int k = 0;
 do
 {
-No9BC1 = Br6_61c(-1890313514, cuuk7Q, 547194639, SMDpJ6);
+No9BC1 = Br6_61c(-1890313514, cuuk7Q, (unsigned char)547194639, SMDpJ6);
 k++;
 }
 while (k < 9);
@@ -75,7 +75,7 @@ LPm16qVy0 = l6I1zr9A5h((short)-432530539, 808590614);
 }
 else if (t1z0 & 1935772498)
 {
-std::cout << r75tDv4po << Br6_61c(LPm16qVy0, H143JK3, -260262300, -1243361439) << Br6_61c(1429955338, -1221840591, -1129371326, -1710886651) << std::endl;
+std::cout << r75tDv4po << Br6_61c(LPm16qVy0, H143JK3, (unsigned char)-260262300, -1243361439) << Br6_61c(1429955338, -1221840591, -1129371326, -1710886651) << std::endl;
 }
 else
 {
@@ -181,7 +181,7 @@ case 0:
 sL2o5 = K6mMr & DWsc;
 break;
 case 1:
-GW5X0a = l6I1zr9A5h(-649690690, b1CT);
+GW5X0a = l6I1zr9A5h((short)-649690690, b1CT);
 break;
 case 2:
 sL2o5 = y7oiS61_kw % HQSxs_82;
@@ -235,7 +235,7 @@ XgZJc = tqU1J(vz_mUI, XgZJc, -571909857);
 break;
 case 'e':
 case 'E':
-aMIlG = l6I1zr9A5h(1170170531, -1636292470) | 1589112178;
+aMIlG = l6I1zr9A5h((short)1170170531, -1636292470) | 1589112178;
 break;
 case 'f':
 case 'F':
@@ -269,7 +269,7 @@ XgZJc = tqU1J(q9ejfXJ1, 620589227, s9MXDT6S);
 }
 else if ((btiD != -367350522) && (r75tDv4po >= -303493225))
 {
-B_z4 = Br6_61c(-485077080, -251843327, 1071223070, 922221370) | 343844338;
+B_z4 = Br6_61c(-485077080, -251843327, (unsigned char)1071223070, 922221370) | 343844338;
 }
 else if (x0ZERf == Ku90PZCLu2)
 {
@@ -305,7 +305,7 @@ XgZJc = tqU1J(HQSxs_82, qdFOP_pha, QZkg37T2);
 break;
 case 'b':
 case 'B':
-HQSxs_82 = l6I1zr9A5h(-1138607962, -1158477485);
+HQSxs_82 = l6I1zr9A5h((short)-1138607962, -1158477485);
 break;
 case 'c':
 case 'C':
@@ -326,7 +326,7 @@ while (j < 9);
 
 for (int i = 7; i >= 0; i--)
 {
-std::cout << l6I1zr9A5h(-2122747672, 2105583822) << std::endl;
+std::cout << l6I1zr9A5h((short)-2122747672, 2105583822) << std::endl;
 }
 try
 {
@@ -351,7 +351,7 @@ nWwSy7iS ^= FJN5;
 }
 else
 {
-NG3ozG8 = Br6_61c(-1452050822, -1908340610, 1692158912, -1547770549);
+NG3ozG8 = Br6_61c(-1452050822, -1908340610, (unsigned char)1692158912, -1547770549);
 }
 j--;
 }
@@ -370,7 +370,7 @@ int i = 6;
 do
 {
 i--;
-AVjb9 = l6I1zr9A5h(1610049434, Ns9y5J);
+AVjb9 = l6I1zr9A5h((short)1610049434, Ns9y5J);
 }
 while (i >= 0);
 }
@@ -401,7 +401,7 @@ vhnB = Br6_61c(-1984387340, 2103282071, HQSxs_82, -639293936) % 512607621;
 }
 else
 {
-eG0U = l6I1zr9A5h(1108625227, 1855910326) << GW5X0a;
+eG0U = l6I1zr9A5h((short)1108625227, 1855910326) << GW5X0a;
 }
 }
 }
@@ -415,7 +415,7 @@ Ke_3n7ZI = (unsigned short)(HOpx1m);
 }
 else if ((SMDpJ6 <= IS3_V5TP) || (IS3_V5TP & 1623709836))
 {
-KfLI = l6I1zr9A5h(-1761599088, wV2UfP0p);
+KfLI = l6I1zr9A5h((short)-1761599088, wV2UfP0p);
 }
 else if ((btiD >= 1926068492) || (tw30s__e0 == 126519205))
 {
@@ -490,7 +490,7 @@ XgZJc = tqU1J(qdFOP_pha, 1209786933, IS3_V5TP);
 break;
 case 'c':
 case 'C':
-oWzrlm = Br6_61c(1490102219, 1681933119, 948080316, PH4Nw_KIJ9);
+oWzrlm = Br6_61c(1490102219, 1681933119, (unsigned char)948080316, PH4Nw_KIJ9);
 break;
 }
 }
@@ -500,7 +500,7 @@ std::cout << "q9Gt1i0" << std::endl;
 }
 else if ((btiD >= -1979353602) || (q9ejfXJ1 & 564066504))
 {
-jU2zV8528 = l6I1zr9A5h(941047497, -802942442);
+jU2zV8528 = l6I1zr9A5h((short)941047497, -802942442);
 }
 else if (r_7E != No9BC1)
 {
@@ -568,7 +568,7 @@ HOpx1m = btiD << aohp8;
 }
 std::cout << Cgbb << "On734wb2" << Br6_61c(-131292690, 1631676978, aohp8, IS3_V5TP) << GW5X0a << E1tB2rB5 << std::endl;
 b1CT = HQSxs_82 | 370835876;
-QP5era = Br6_61c(-1125668969, aMIlG, 1271259156, -1255346375);
+QP5era = Br6_61c(-1125668969, aMIlG, (unsigned char)1271259156, -1255346375);
 for (int i = 0; i < 7; ++i)
 {
 std::cout << X3mP3M595f << tqU1J(QP5era, -1540086082, 249325186) << tqU1J(-984089159, aMIlG, eG0U) << l6I1zr9A5h((short)1939334651, aMIlG) << l6I1zr9A5h(-1487271862, aMIlG) << std::endl;
@@ -617,7 +617,7 @@ return 0;
 }
 
 unsigned char	l6I1zr9A5h(short int	CC6g,int	WfIFiu4j)	{
-	return	-1370177237;
+	return	(unsigned char)-1370177237;
 }
 
 unsigned long long  Br6_61c(unsigned int  QE0Z8545H7,long long  R27yQh_R,unsigned char  MtoEDaiL,unsigned long  SyeWAy7md)

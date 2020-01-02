@@ -17,7 +17,7 @@ unsigned short	Eub8_VjRH6();
 int main()
 {
  char NW26F8nO3, Mvlk2l, r4y8, M77ZWpJ1et, M49M9, Sh78poXzK8, krlJtO, K2Si0, k3jqO, NBWZadj3f6, VLXo1, XZUeC, KmQy, z8yZmv4k, I_1Z, c9_C, U3qe27E, T9nx8Te, KTm2jGSCT, K7W223Uf, UFOruT3q, lhe8o7t4L, s_l3sM, aV8HE_Z, LrWThpPo0, Ez2_vM5A, GLG9CzoF, fUAHt45, p52X0Z, e94gMHV, R7ZZu5, Vfuw4msis, aYr891ZYO, fh47z_qaB, C4r0JN, S8KPOc, DNM8, W_mm6TvU, QzEGggV, U6twxJ, SBq0k6O_G_, VshFBadY, SYG3cz, sxMXL3nFK, QiaEd, NZC87t8sl, aE7kp895, WCAe_4bojY, k4vTk010O, jWYkM0_XAM, kU4Zm_Z_, W828, udsKnb7, Ne_p4vc7, tns2;
-  NW26F8nO3 = Mvlk2l = r4y8 = M77ZWpJ1et = M49M9 = Sh78poXzK8 = krlJtO = K2Si0 = k3jqO = NBWZadj3f6 = VLXo1 = XZUeC = KmQy = z8yZmv4k = I_1Z = c9_C = U3qe27E = T9nx8Te = KTm2jGSCT = K7W223Uf = UFOruT3q = lhe8o7t4L = s_l3sM = aV8HE_Z = LrWThpPo0 = Ez2_vM5A = GLG9CzoF = fUAHt45 = p52X0Z = e94gMHV = R7ZZu5 = Vfuw4msis = aYr891ZYO = fh47z_qaB = C4r0JN = S8KPOc = DNM8 = W_mm6TvU = QzEGggV = U6twxJ = SBq0k6O_G_ = VshFBadY = SYG3cz = sxMXL3nFK = QiaEd = NZC87t8sl = aE7kp895 = WCAe_4bojY = k4vTk010O = jWYkM0_XAM = kU4Zm_Z_ = W828 = udsKnb7 = Ne_p4vc7 = tns2 = 70965400;
+  NW26F8nO3 = Mvlk2l = r4y8 = M77ZWpJ1et = M49M9 = Sh78poXzK8 = krlJtO = K2Si0 = k3jqO = NBWZadj3f6 = VLXo1 = XZUeC = KmQy = z8yZmv4k = I_1Z = c9_C = U3qe27E = T9nx8Te = KTm2jGSCT = K7W223Uf = UFOruT3q = lhe8o7t4L = s_l3sM = aV8HE_Z = LrWThpPo0 = Ez2_vM5A = GLG9CzoF = fUAHt45 = p52X0Z = e94gMHV = R7ZZu5 = Vfuw4msis = aYr891ZYO = fh47z_qaB = C4r0JN = S8KPOc = DNM8 = W_mm6TvU = QzEGggV = U6twxJ = SBq0k6O_G_ = VshFBadY = SYG3cz = sxMXL3nFK = QiaEd = NZC87t8sl = aE7kp895 = WCAe_4bojY = k4vTk010O = jWYkM0_XAM = kU4Zm_Z_ = W828 = udsKnb7 = Ne_p4vc7 = tns2 = (char)70965400;
  unsigned short int NcM9J, sR8i_hd, B6JUdxVi, q70lh3I0, kL54dYPm;
   NcM9J = sR8i_hd = B6JUdxVi = q70lh3I0 = kL54dYPm = 0;
 
@@ -66,7 +66,7 @@ int k = 0;
 do
 {
 k++;
-M77ZWpJ1et = (aE7kp895 < -1473838905) ? k4vTk010O : 1621077705;
+M77ZWpJ1et = (aE7kp895 < -1473838905) ? k4vTk010O : (char)1621077705;
 }
 while (k < 4);
 }
@@ -89,7 +89,7 @@ case 0:
 udsKnb7 = fh47z_qaB & 1603442640;
 break;
 case 1:
-Ne_p4vc7 = (jWYkM0_XAM) ? -1453294749 : BE134g5(KmQy, -31384430, (unsigned short)439469445, R7ZZu5, Vfuw4msis);
+Ne_p4vc7 = (jWYkM0_XAM) ? (char)-1453294749 : BE134g5(KmQy, -31384430, (unsigned short)439469445, R7ZZu5, Vfuw4msis);
 break;
 default:
 W_mm6TvU *= 1454104810;
@@ -101,7 +101,7 @@ catch (int& errorCode)
 U6twxJ = BE134g5(-1306032305, sR8i_hd, -862442039, -602568649, -31616049);
 }
 
-std::cout << C4r0JN << S8KPOc << Eub8_VjRH6() << Eub8_VjRH6() << BE134g5(1061090263, sR8i_hd, udsKnb7, 972316795, krlJtO) << std::endl;
+std::cout << C4r0JN << S8KPOc << Eub8_VjRH6() << Eub8_VjRH6() << BE134g5(1061090263, sR8i_hd, udsKnb7, (unsigned char)972316795, krlJtO) << std::endl;
 std::cout << Ez2_vM5A << hPKC1MrN46(U6twxJ) << BE134g5(-1503001179, sR8i_hd, (unsigned short)535445965, 1615311327, 1970235722) << Eub8_VjRH6() << "m0KnQ" << std::endl;
 
 if ((KmQy) && (VshFBadY > g1tOz2V78Q))
@@ -152,7 +152,7 @@ case 'b':
 z8yZmv4k = hPKC1MrN46(z8yZmv4k);
 break;
 case 'c':
-jWYkM0_XAM = BE134g5(864403231, B6JUdxVi, 934047237, (unsigned char)-1243681758, aE7kp895);
+jWYkM0_XAM = BE134g5(864403231, B6JUdxVi, (unsigned short)934047237, (unsigned char)-1243681758, aE7kp895);
 break;
 case 'd':
 K2Si0 = BE134g5(-965355743, -264467323, tns2, k3jqO, jWYkM0_XAM);
@@ -164,7 +164,7 @@ case 'f':
 e94gMHV = hPKC1MrN46(-871358819);
 break;
 case 'g':
-K2Si0 = BE134g5(-1751104246, 615474812, S8KPOc, UFOruT3q, 1279993796);
+K2Si0 = BE134g5(-1751104246, 615474812, S8KPOc, UFOruT3q, (short)1279993796);
 break;
 case 'h':
 QiaEd = hPKC1MrN46(QiaEd);
@@ -280,7 +280,7 @@ if ((W828 <= g1tOz2V78Q) || ((LrWThpPo0 != k4vTk010O) || (LrWThpPo0 != 201582417
 UFOruT3q = (char)(k3jqO);
 }
 }
-std::cout << BE134g5(B6JUdxVi, -1665574509, DNM8, -678901818, (short)635361488) << kU4Zm_Z_ << "w4K_" << Eub8_VjRH6() << std::endl;
+std::cout << BE134g5(B6JUdxVi, -1665574509, DNM8, (unsigned char)-678901818, (short)635361488) << kU4Zm_Z_ << "w4K_" << Eub8_VjRH6() << std::endl;
 
 switch (LrWThpPo0)
 {
@@ -297,7 +297,7 @@ case 3:
 aV8HE_Z = hPKC1MrN46(-1994314209);
 break;
 case 4:
-I_1Z = BE134g5(I_1Z, DNM8, U3qe27E, -1090033612, GLG9CzoF);
+I_1Z = BE134g5(I_1Z, DNM8, U3qe27E, (unsigned char)-1090033612, GLG9CzoF);
 break;
 case 5:
 QiaEd = hPKC1MrN46(338727269);

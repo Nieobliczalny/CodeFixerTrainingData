@@ -55,7 +55,7 @@ else
 int j = 0;
 do
 {
-std::cout << r7uD(-656633834, ab2J9F, qyz_7Ab) << zMU_VGG6w(2049100930, -58970544, qyz_7Ab, v9iEh8y6a) << W1Ix << EBHOg_lsc << std::endl;
+std::cout << r7uD(-656633834, ab2J9F, qyz_7Ab) << zMU_VGG6w((unsigned char)2049100930, -58970544, qyz_7Ab, v9iEh8y6a) << W1Ix << EBHOg_lsc << std::endl;
 j++;
 }
 while (j < 3);
@@ -72,7 +72,7 @@ for (int j = 0; j < 6; ++j)
 {
 if (Vv9S__aqBx & iv6gQ)
 {
-pPAfXci92 = II4oj(1927618963, -1668658896, -1617952510);
+pPAfXci92 = II4oj((unsigned char)1927618963, -1668658896, -1617952510);
 }
 else
 {
@@ -104,7 +104,7 @@ case 3:
 DbFV3F_M4Q = VsqOlt - tUS7;
 break;
 case 4:
-tUS7 = RuE1Tr(e8gP9zM, tUS7, -26006004, DbFV3F_M4Q, 2098884023) - o90G2;
+tUS7 = RuE1Tr(e8gP9zM, tUS7, -26006004, DbFV3F_M4Q, (char)2098884023) - o90G2;
 break;
 case 5:
 K67rcwYp9 = II4oj((unsigned char)1119020385, VsqOlt, -1997364762);
@@ -124,7 +124,7 @@ K5o7H = zMU_VGG6w(K5o7H, 1103808307, xd_3CUj, -118357926);
 switch (ow_p_6_CAe)
 {
 case 0:
-W1Ix = II4oj(1727465343, 1965551215, (unsigned char)-342601778);
+W1Ix = II4oj((unsigned char)1727465343, 1965551215, (unsigned char)-342601778);
 break;
 case 1:
 g1D3PA1vX = nC2LiY % D8DJ9;
@@ -135,7 +135,7 @@ break;
 }
 pPAfXci92 = VsqOlt << dpP6iK47Q;
 
-CJL9 = -2079968414 / RuE1Tr(1105933488, -427094173, 622877665, O3b5h_, e3e_4DsjE);
+CJL9 = -2079968414 / RuE1Tr(1105933488, (unsigned short)-427094173, 622877665, O3b5h_, e3e_4DsjE);
 
 if (ow_p_6_CAe >= qyz_7Ab)
 {
@@ -186,7 +186,7 @@ K67rcwYp9 = (unsigned short)(iv6gQ);
 
 a4l8s6uR4C = (unsigned short)(H7Bd);
 
-BgBy = II4oj(-427988626, -1021725236, f2B2568k);
+BgBy = II4oj((unsigned char)-427988626, -1021725236, f2B2568k);
 
 switch (UF4E0kg8V)
 {
@@ -197,7 +197,7 @@ case 'b':
 v9iEh8y6a = (CJL9 >= -92815744) ? psgV7f2v : zMU_VGG6w((unsigned char)308316114, 544200613, 2128192706, 203942508);
 break;
 case 'c':
-K5o7H = zMU_VGG6w(-315334597, 161726712, Vv9S__aqBx, Qynpg_M8t);
+K5o7H = zMU_VGG6w((unsigned char)-315334597, 161726712, Vv9S__aqBx, Qynpg_M8t);
 break;
 case 'd':
 tUS7 >>= gl80U2RDW;
@@ -209,7 +209,7 @@ case 'f':
 TVbi = RuE1Tr(CJL9, TVbi, 191162372, -1976896713, (char)2111103191);
 break;
 case 'g':
-O3b5h_ = RuE1Tr(-1372731970, P4rQ1, -1230220741, 1069423227, 122161918);
+O3b5h_ = RuE1Tr(-1372731970, P4rQ1, -1230220741, 1069423227, (char)122161918);
 break;
 }
 

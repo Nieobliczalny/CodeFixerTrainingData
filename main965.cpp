@@ -34,7 +34,7 @@ case 'b':
 pnp78HACfX = DJFou + 1189370954;
 break;
 case 'c':
-Xu0bSX3DUO = HSDW(-122257928, x7sV_U71);
+Xu0bSX3DUO = HSDW((short)-122257928, x7sV_U71);
 break;
 case 'd':
 G90TE = (int)abs(M9g3_t7);
@@ -49,7 +49,7 @@ case 'g':
 iT_5 = S9MQya7fQM / pnp78HACfX;
 break;
 case 'h':
-zbaSo46 = o58L3(281649457, (short)383811102);
+zbaSo46 = o58L3((short)281649457, (short)383811102);
 break;
 case 'i':
 y7Nv8 = (uY59Qb19M >= P5JO70479) ? y7Nv8 : -756583504;
@@ -87,7 +87,7 @@ TFrC = o58L3(TFrC, kF_rpUnX);
 }
 else if (S9MQya7fQM == 1123092769)
 {
-pnp78HACfX = o58L3(pnp78HACfX, -793741405);
+pnp78HACfX = o58L3(pnp78HACfX, (short)-793741405);
 }
 else if (Xu0bSX3DUO >= U3W8RwBgt)
 {
@@ -116,7 +116,7 @@ ZAyBJER7h = AdgM9HR7();
 oQK8 = HSDW(oQK8, i8yc5);
 U3W8RwBgt = oQK8 / xR6e;
 
-std::cout << x4N437() << o58L3(oQK8, 806133611) << std::endl;
+std::cout << x4N437() << o58L3(oQK8, (short)806133611) << std::endl;
 
 wV3gdZ -= oQK8;
 i8yc5 = HSDW((short)984310720, -609253303);
@@ -166,7 +166,7 @@ iT_5 = (int)abs(lLmt);
 break;
 case 'c':
 case 'C':
-P5JO70479 = o58L3(1350602289, Q0jV1t0Mm);
+P5JO70479 = o58L3((short)1350602289, Q0jV1t0Mm);
 break;
 case 'd':
 case 'D':
@@ -177,7 +177,7 @@ case 'E':
 ZAyBJER7h = HSDW((short)1645381879, Q0jV1t0Mm);
 break;
 default:
-c3O84V = HSDW(2113487816, 1365429694) & 1459122152;
+c3O84V = HSDW((short)2113487816, 1365429694) & 1459122152;
 break;
 }
 ++i;
@@ -239,7 +239,7 @@ case 2:
 TFrC = (int)ceil(oQK8);
 break;
 case 3:
-Cb6Z88s = o58L3(-1163532323, (short)1226179906);
+Cb6Z88s = o58L3((short)-1163532323, (short)1226179906);
 break;
 case 4:
 TFrC = (G90TE) ? -2127582893 : x4N437();
@@ -253,7 +253,7 @@ return 0;
 
 char	o58L3(short int	O_f9Pc,short	M_f_vn)
 {
-	return	968577130;
+	return	(char)968577130;
 }
 
 unsigned int  AdgM9HR7()  {

@@ -14,7 +14,7 @@ int main(void)
 	wg0Ov13qZ1	=	0;
 	KlXECR	=	0;
   unsigned short int  opsH,  KT0gWX09PT,  aM8D,  Q_U5Xf7S,  ZHMC,  n9xKZH,  WvrI3L,  tlUb,  OvSdzFZ7,  QG8CvV,  n3paTy9,  hNsgrX18,  Mly9iE2_,  eZ4OktMv63,  djzpH5Kv5,  zRC6rDL,  y1MhmYafO,  k6O2432I,  OPP3yvK,  ajmt,  kgMpV,  K0_289tRp,  LW2hP,  S66640B0,  i1SqcN,  Pewbw6,  N797sxsz,  r632Fv,  P_6eJxN,  nA5Zx9p,  z4jKiwRC,  Md5wEZ,  W0vD1ekgJ1,  gR8WE9,  hkwK_XTBJ,  Jy03clO,  g9aaX5a3,  emAxJ5i17,  k99i0_QD0,  RPChxFh,  Woz34f7,  JjPhooF_83,  Km52TN8bV4,  CRXe1p5I,  brYQj51BL1,  A9mowC,  ox5T4xJ,  Sat3,  T13uegJ_g,  TjL7FJUD_,  Mo20,  dJ0J3c,  loJV6_l1_W,  RAkq_,  st6W2I,  s3skJ,  R22m9EY,  xKasn,  b_9i1P81df,  ErJJ0,  Hnh6g,  Un8t62U,  xq6Usb,  H_237,  ambCv7,  sOVF67,  R_mUJGIbVF,  l1ECoEK2,  EANSlbqc,  yg4VRKxiWP,  X2CcZ95K50,  iT_XSgv,  a3EC4a0uO,  w7dMp5_9,  lFAn1r,  O2fql6qq,  PGHGtU,  k9ttyw5Rt1,  nas_,  R7T1f,  e_MG9Z,  pq8V6M,  dfX_yw_Dg,  ON0Z,  MpJppG5Oj;
-  opsH  =  -2101279241;
+  opsH  =  (unsigned short)-2101279241;
   KT0gWX09PT  =  (unsigned short)-1721667356;
   aM8D  =  1274157901;
   Q_U5Xf7S  =  -951523858;
@@ -24,7 +24,7 @@ int main(void)
   tlUb  =  -2137592205;
   OvSdzFZ7  =  -148884590;
   QG8CvV  =  382570642;
-  n3paTy9  =  725027765;
+  n3paTy9  =  (unsigned short)725027765;
   hNsgrX18  =  (unsigned short)-157901566;
   Mly9iE2_  =  1449234623;
   eZ4OktMv63  =  592066219;
@@ -34,7 +34,7 @@ int main(void)
   k6O2432I  =  1112561100;
   OPP3yvK  =  -558912725;
   ajmt  =  1021595893;
-  kgMpV  =  -524561707;
+  kgMpV  =  (unsigned short)-524561707;
   K0_289tRp  =  (unsigned short)1071295532;
   LW2hP  =  221085955;
   S66640B0  =  -37420560;
@@ -44,7 +44,7 @@ int main(void)
   r632Fv  =  198107596;
   P_6eJxN  =  615528467;
   nA5Zx9p  =  -901747234;
-  z4jKiwRC  =  992770210;
+  z4jKiwRC  =  (unsigned short)992770210;
   Md5wEZ  =  (unsigned short)-1890986621;
   W0vD1ekgJ1  =  784373891;
   gR8WE9  =  -1983472497;
@@ -54,7 +54,7 @@ int main(void)
   emAxJ5i17  =  -867631942;
   k99i0_QD0  =  2127679779;
   RPChxFh  =  -289126782;
-  Woz34f7  =  736222658;
+  Woz34f7  =  (unsigned short)736222658;
   JjPhooF_83  =  (unsigned short)-783863798;
   Km52TN8bV4  =  -28582264;
   CRXe1p5I  =  706550182;
@@ -64,7 +64,7 @@ int main(void)
   Sat3  =  -1071878268;
   T13uegJ_g  =  1951512137;
   TjL7FJUD_  =  417790758;
-  Mo20  =  -962141122;
+  Mo20  =  (unsigned short)-962141122;
   dJ0J3c  =  (unsigned short)1031220858;
   loJV6_l1_W  =  1243281808;
   RAkq_  =  834935387;
@@ -74,7 +74,7 @@ int main(void)
   xKasn  =  -1431076395;
   b_9i1P81df  =  -119407019;
   ErJJ0  =  -269490421;
-  Hnh6g  =  -1930740987;
+  Hnh6g  =  (unsigned short)-1930740987;
   Un8t62U  =  (unsigned short)945659427;
   xq6Usb  =  2026107329;
   H_237  =  1544434770;
@@ -84,7 +84,7 @@ int main(void)
   l1ECoEK2  =  -157923933;
   EANSlbqc  =  655186513;
   yg4VRKxiWP  =  -2118319059;
-  X2CcZ95K50  =  1884072359;
+  X2CcZ95K50  =  (unsigned short)1884072359;
   iT_XSgv  =  (unsigned short)2113856787;
   a3EC4a0uO  =  557611279;
   w7dMp5_9  =  1997685468;
@@ -94,7 +94,7 @@ int main(void)
   k9ttyw5Rt1  =  944926548;
   nas_  =  2101760874;
   R7T1f  =  794572642;
-  e_MG9Z  =  -677940762;
+  e_MG9Z  =  (unsigned short)-677940762;
   pq8V6M  =  (unsigned short)-1523794823;
   dfX_yw_Dg  =  -866472991;
   ON0Z  =  -1209988400;
@@ -315,7 +315,7 @@ s3skJ = CRXe1p5I - s3skJ;
 }
 else if ((MpJppG5Oj & -1016985692) || (KT0gWX09PT != -583144156))
 {
-S66640B0 = (LW2hP != -165806304) ? EZZL8O3d : 1989559607;
+S66640B0 = (LW2hP != -165806304) ? EZZL8O3d : (unsigned short)1989559607;
 }
 else if ((wg0Ov13qZ1 >= 674930848) && ((nA5Zx9p & k99i0_QD0) || (KT0gWX09PT == nA5Zx9p)))
 {
@@ -344,7 +344,7 @@ int k = 0;
 do
 {
 k++;
-T13uegJ_g = (Mo20 & e_MG9Z) ? y1MhmYafO : 1540846130;
+T13uegJ_g = (Mo20 & e_MG9Z) ? y1MhmYafO : (unsigned short)1540846130;
 }
 while (k < 6);
 }
@@ -447,7 +447,7 @@ case 'a':
 TjL7FJUD_ = s3skJ * 657085739;
 break;
 case 'b':
-w7dMp5_9 = (sOVF67 == n3paTy9) ? -1335738016 : T13uegJ_g;
+w7dMp5_9 = (sOVF67 == n3paTy9) ? (unsigned short)-1335738016 : T13uegJ_g;
 break;
 case 'c':
 Mo20 = (WvrI3L > g9aaX5a3) ? (unsigned short)-1068166227 : -1838818371;

@@ -21,7 +21,7 @@ int main() {
     long long    t2L8OlVJ    =    498214987;
   unsigned long long  hI9S  =  -799860230;
 	long	DYZc7v	=	-576274877;
-  short int  wrgfk  =  40642389;
+  short int  wrgfk  =  (short)40642389;
   int  hmVpA7I  =  -2119903636;
  char Jk8Dr = (char)-509117010;
     unsigned short    u97N8lr2x    =    1650694891;
@@ -31,7 +31,7 @@ int main() {
 	char	J44CCR2ju8	=	842881569;
   long  g3Z5hiG  =  -2085918264;
     long    mLb21    =    1380689054;
-  short  fi01bCR2f8  =  -1001148260;
+  short  fi01bCR2f8  =  (short)-1001148260;
   unsigned int  ARlCk4  =  348332206;
     char    dL7e    =    (char)-100352696;
 	unsigned int	oROO_7a2n6	=	-800242083;
@@ -101,7 +101,7 @@ int j = 0;
 do
 {
 j++;
-std::cout << DQXiptEN(-607566142, 1901312634) << "uZ4H7e4e" << std::endl;
+std::cout << DQXiptEN((unsigned short)-607566142, 1901312634) << "uZ4H7e4e" << std::endl;
 }
 while (j < 8);
 }
@@ -131,7 +131,7 @@ g3Z5hiG = (hwhpo != s8rA) ? -1311541370 : -520488767;
 }
 else
 {
-s8rA = DQXiptEN(-2075208746, -95928901);
+s8rA = DQXiptEN((unsigned short)-2075208746, -95928901);
 }
 }
 }
@@ -188,6 +188,6 @@ unsigned long  DQXiptEN(unsigned short int  nc58LW1Q,int  x__av2t4W)  {
 }
 
 short int  w00MspmvI()  {
-  return  -33765774;
+  return  (short)-33765774;
 }
 

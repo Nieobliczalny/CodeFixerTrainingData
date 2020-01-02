@@ -29,7 +29,7 @@ int main(int argc, char** argv)
     unsigned long    j04aQ    =    414061471;
  char JaIIQ13w9L = 0;
     double    lcHV_0q    =    181865247;
-    char    pQOm    =    -658634158;
+    char    pQOm    =    (char)-658634158;
     long double    hl75Iv53    =    -269099282;
 	unsigned long	uK0U	=	0;
 	unsigned long long	Q_f4KUld	=	2104301738;
@@ -54,7 +54,7 @@ GXIV1 &= j04aQ;
 }
 
 lcHV_0q = (int)floor(hl75Iv53);
-std::cout << "I_L6_KZn3H" << z2lAvW() << "rV9_8_3C5J" << C36V__(1551985141, 645649711) << std::endl;
+std::cout << "I_L6_KZn3H" << z2lAvW() << "rV9_8_3C5J" << C36V__(1551985141, (short)645649711) << std::endl;
 switch (Q_f4KUld)
 {
 case 'a':
@@ -87,7 +87,7 @@ break;
 }
 if (((pQOm < -2065631643) && (hl75Iv53 >= -1282940711)) || (Q_f4KUld))
 {
-std::cout << "ly509" << lcHV_0q << j04aQ << Gx9C(1300855512, -277630765, -801259836, Q_f4KUld, -424326157) << std::endl;
+std::cout << "ly509" << lcHV_0q << j04aQ << Gx9C(1300855512, -277630765, -801259836, Q_f4KUld, (short)-424326157) << std::endl;
 }
 
 j04aQ >>= Q_f4KUld;
@@ -126,7 +126,7 @@ return 0;
 
 short int    z2lAvW()
 {
-    return    -939474448;
+    return    (short)-939474448;
 }
 
 char  C36V__(int  YT1290,short  lL840ZL)  {
@@ -140,7 +140,7 @@ long long  Eo_Aibb()
 
 short int Y_04W1_h(unsigned int R6kckU4,short int VjgK)
 {
- return 965898973;
+ return (short)965898973;
 }
 
 int Gx9C(unsigned long t1MPhb_n_U,unsigned long long G43Oot5g,unsigned long long Y296_J3fvi,unsigned int GO45Z8,short int G9J1j7C_) {

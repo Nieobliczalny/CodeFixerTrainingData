@@ -10,7 +10,7 @@ using namespace std;
 
 short int    bg_rvP(long long    ZYqK0W6,unsigned short int    hV_FD7,short int    o385zSBw,short    I3554Jt6Eo)
 {
-    return    1118667254;
+    return    (short)1118667254;
 }
 
 unsigned long long    h_3gEix(unsigned short int    cqX34z,long    HiL852o2)    {
@@ -24,7 +24,7 @@ short int  OW6Sle93(unsigned char  j8lC9lwLsl)  {
 int main(void)
 {
 	long long	FNFKW2k6	=	0;
-  unsigned char  t1oMQn  =  1298120747;
+  unsigned char  t1oMQn  =  (unsigned char)1298120747;
  char n9NXA1Miy = -1520582079;
 	int	JidV	=	40626606;
     short    yr3MAEhW_7    =    -42702502;
@@ -34,7 +34,7 @@ int main(void)
 	unsigned long	F8BVi	=	-132404379;
   unsigned short int  EfStn7  =  (unsigned short)1709148614;
 	short	iM7TLA	=	-1820381793;
-	unsigned short int	iwvS	=	916379270;
+	unsigned short int	iwvS	=	(unsigned short)916379270;
     double    C_wKUR96y    =    853911994;
  long long A9kSI83Q = -1767899131;
 
@@ -156,7 +156,7 @@ case 'd':
 fo6Ru0q22 = h_3gEix(yr3MAEhW_7, -378881362);
 break;
 case 'e':
-fo6Ru0q22 = h_3gEix(8046347, 1096066090);
+fo6Ru0q22 = h_3gEix((unsigned short)8046347, 1096066090);
 break;
 case 'f':
 n9NXA1Miy *= C8W_3v8320;
@@ -187,7 +187,7 @@ iM7TLA = OW6Sle93(-471318273);
 }
 Ko_kdKI = (int)ceil(C_wKUR96y);
 
-JidV = bg_rvP(-833157227, F8BVi, 623984631, iwvS);
+JidV = bg_rvP(-833157227, F8BVi, (short)623984631, iwvS);
 
 fo6Ru0q22 = h_3gEix(t1oMQn, 1412916324);
 try
@@ -200,7 +200,7 @@ else
 {
 if (JidV == -2119182858)
 {
-F8BVi = bg_rvP(F8BVi, Ko_kdKI, 1136838250, JidV);
+F8BVi = bg_rvP(F8BVi, Ko_kdKI, (short)1136838250, JidV);
 }
 else
 {

@@ -16,7 +16,7 @@ short int	CiRMj();
 
 int main() {
  float K1sBx = -1817650869;
-    short int    vNRb8e    =    1987367027;
+    short int    vNRb8e    =    (short)1987367027;
   char  a8w0E_THDq  =  (char)620964480;
     unsigned short    ES_UFdXJr    =    1372213483;
     short int    HMZ6    =    93841302;
@@ -26,7 +26,7 @@ int main() {
  unsigned long C3P4D8 = 0;
  char Bd6hZ_j4 = -1090790672;
 	unsigned long long	LY00Kdm2	=	0;
-    short    vw6_5    =    1512592231;
+    short    vw6_5    =    (short)1512592231;
     unsigned int    fuJxa4Fh    =    -1928915786;
   long long  oX99MFBq  =  -725548468;
     long    w7o6lc9    =    -1637269679;
@@ -36,7 +36,7 @@ int main() {
     char    u0zJj2FR    =    0;
     long double    W99y_44    =    758404602;
   int  UOl2M_KVM  =  1841173931;
-    short int    d4zGQ198G    =    532931876;
+    short int    d4zGQ198G    =    (short)532931876;
  int w23u0G = 685204021;
     unsigned int    v9FNF3_8    =    -1350149222;
     unsigned short int    ozlB5Ih    =    -585323923;
@@ -46,7 +46,7 @@ int main() {
     short    DpH_lJRZE    =    (short)-827220217;
   short int  QogeF  =  1927196363;
     int    PzB0d9_s7    =    -1880748037;
- unsigned char Cr4_xTD_E5 = -2018606008;
+ unsigned char Cr4_xTD_E5 = (unsigned char)-2018606008;
 	unsigned short	wHm1B	=	1140757171;
   unsigned char  aGCAjh2  =  872745697;
     long    Vgck    =    378525813;
@@ -93,7 +93,7 @@ else if (s_Sgyd <= ES_UFdXJr)
 int k = 5;
 while (k >= 0)
 {
-J_0L7o = ZMV44rF(-1056511503, -787073141);
+J_0L7o = ZMV44rF((short)-1056511503, -787073141);
 --k;
 }
 }
@@ -104,7 +104,7 @@ PzB0d9_s7 = (int)(J_0L7o);
 }
 else if (QogeF & -906482269)
 {
-cout << CiRMj() << LY00Kdm2 << vNRb8e << JP9UvU << ZMV44rF(-23742753, QogeF) << endl;
+cout << CiRMj() << LY00Kdm2 << vNRb8e << JP9UvU << ZMV44rF((short)-23742753, QogeF) << endl;
 }
 else if (LY00Kdm2 <= J_0L7o)
 {
@@ -174,7 +174,7 @@ unsigned int	l2_e2A()
 }
 
 short int  ZMV44rF(short  Eb_03f,long long  DnyrxM891)  {
-  return  -1913107358;
+  return  (short)-1913107358;
 }
 
 short int	CiRMj()	{

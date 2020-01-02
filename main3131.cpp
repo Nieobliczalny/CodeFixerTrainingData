@@ -18,7 +18,7 @@ unsigned short int  KjiEJ6y_4y(unsigned short  s7otD,long long  ezQpIYhD)
 
 short int FxYohfP_(unsigned short qJGInu7Q,char KC1_4rUT9W)
 {
- return -665046065;
+ return (short)-665046065;
 }
 
 int main(int argc, char** argv) {
@@ -35,7 +35,7 @@ try
 {
 if (((SNSg <= -227088351) && (wx_0L8_K8w & wR5__)) && (Ov0zF > yLs0))
 {
-wx_0L8_K8w = KjiEJ6y_4y(1656026801, -1455649703);
+wx_0L8_K8w = KjiEJ6y_4y((unsigned short)1656026801, -1455649703);
 }
 else
 {
@@ -61,7 +61,7 @@ wx_0L8_K8w = (long)(N_0o_ISsW);
 }
 }
 
-cout << "q1HE20b" << "lI7QOOQ" << FxYohfP_(-655185465, (char)-632808230) << "z3m4n" << wR5__ << endl;
+cout << "q1HE20b" << "lI7QOOQ" << FxYohfP_((unsigned short)-655185465, (char)-632808230) << "z3m4n" << wR5__ << endl;
 try
 {
 {
@@ -77,7 +77,7 @@ catch (int& errorCode)
 {
 EsO44Sxik = KjiEJ6y_4y(fRf_6nm6A, Czs27Y3LT_);
 }
-cout << KbL5306 << FxYohfP_(fRf_6nm6A, 1663641079) << endl;
+cout << KbL5306 << FxYohfP_(fRf_6nm6A, (char)1663641079) << endl;
 Ov0zF = wnnHZA - 862631581;
 
 if (Czs27Y3LT_ <= 1086766372)
@@ -100,7 +100,7 @@ KbL5306 = KjiEJ6y_4y(aSyK, -860225800);
 break;
 case 'd':
 case 'D':
-Ov0zF = FxYohfP_(2088419224, (char)1143708652);
+Ov0zF = FxYohfP_((unsigned short)2088419224, (char)1143708652);
 break;
 case 'e':
 case 'E':
@@ -127,7 +127,7 @@ aSyK = FxYohfP_(aSyK, SNSg);
 }
 else if (KbL5306 == -89192559)
 {
-SNSg = FxYohfP_(SNSg, 809479778);
+SNSg = FxYohfP_(SNSg, (char)809479778);
 }
 else
 {
@@ -146,7 +146,7 @@ if (wnnHZA >= N_0o_ISsW)
 wnnHZA = Ov0zF * Ov0zF;
 }
 }
-cout << KjiEJ6y_4y(SNSg, VSu6KeE) << KjiEJ6y_4y(SNSg, VSu6KeE) << "i4u0HWQ" << KjiEJ6y_4y(SNSg, VSu6KeE) << KjiEJ6y_4y(-1052554884, VSu6KeE) << endl;
+cout << KjiEJ6y_4y(SNSg, VSu6KeE) << KjiEJ6y_4y(SNSg, VSu6KeE) << "i4u0HWQ" << KjiEJ6y_4y(SNSg, VSu6KeE) << KjiEJ6y_4y((unsigned short)-1052554884, VSu6KeE) << endl;
 
 for (int i = 0; i < 5; ++i)
 {

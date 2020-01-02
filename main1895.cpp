@@ -63,7 +63,7 @@ cout << "S54v1" << "N7E_" << v8_3Z << "W16Lrv1" << bHC0z << endl;
 gjRC1a = (int)(v8_3Z);
 if (d_C2XM7k >= -1915275980)
 {
-Dnbs = Sn5F1(686801805, g0hb2rLx9r, -1538289618);
+Dnbs = Sn5F1(686801805, g0hb2rLx9r, (unsigned short)-1538289618);
 }
 else
 {
@@ -118,7 +118,7 @@ for (int j = 4; j >= 0; j--)
 {
 for (int k = 7; k >= 0; --k)
 {
-Dnbs = Sn5F1(l4KGH_, -1182764926, VRf6lL7vD);
+Dnbs = Sn5F1(l4KGH_, (char)-1182764926, VRf6lL7vD);
 }
 }
 }
@@ -167,7 +167,7 @@ MRAxT76O9 = W320mRBl * 1512860139;
 }
 while (i < 2);
 }
-cout << tr991Q_ << B68n5i76() << Sn5F1(527214971, 1722205169, tKLk5b) << "FIi8" << endl;
+cout << tr991Q_ << B68n5i76() << Sn5F1(527214971, (char)1722205169, tKLk5b) << "FIi8" << endl;
 
 switch (g0hb2rLx9r)
 {
@@ -222,7 +222,7 @@ MxGg32V = (int)abs(VRf6lL7vD);
 break;
 case 'f':
 case 'F':
-v8_3Z = (MRAxT76O9 & -2007781354) ? Sn5F1(Wx3t1N29_3, g0hb2rLx9r, -88986110) : g0hb2rLx9r;
+v8_3Z = (MRAxT76O9 & -2007781354) ? Sn5F1(Wx3t1N29_3, g0hb2rLx9r, (unsigned short)-88986110) : g0hb2rLx9r;
 break;
 case 'g':
 case 'G':
@@ -238,7 +238,7 @@ JBcv809M -= 964532892;
 break;
 case 'j':
 case 'J':
-Dnbs = Sn5F1(-1808643833, 996646539, -733864958);
+Dnbs = Sn5F1(-1808643833, (char)996646539, -733864958);
 break;
 }
 
@@ -263,7 +263,7 @@ if (f5n0nf < 1735143744)
 {
 try
 {
-Dnbs = Sn5F1(tr991Q_, MxGg32V, -1927369202);
+Dnbs = Sn5F1(tr991Q_, MxGg32V, (unsigned short)-1927369202);
 }
 catch (int& errorCode)
 {
@@ -393,7 +393,7 @@ case 5:
 JBcv809M = (int)abs(gjRC1a);
 break;
 default:
-Dnbs = Sn5F1(-1900830357, 591268543, (unsigned short)1541543194);
+Dnbs = Sn5F1(-1900830357, (char)591268543, (unsigned short)1541543194);
 break;
 }
 }
@@ -430,7 +430,7 @@ int k = 0;
 while (k < 2)
 {
 ++k;
-Dnbs = Sn5F1(tKLk5b, qoq4D610x, -1508827182);
+Dnbs = Sn5F1(tKLk5b, qoq4D610x, (unsigned short)-1508827182);
 }
 }
 }
@@ -494,7 +494,7 @@ int j = 0;
 while (j < 4)
 {
 ++j;
-Wx3t1N29_3 = Sn5F1(-1683378440, a4WARp, 1278592920);
+Wx3t1N29_3 = Sn5F1(-1683378440, a4WARp, (unsigned short)1278592920);
 }
 }
 }
@@ -523,7 +523,7 @@ else if (g0hb2rLx9r)
 switch (v8_3Z)
 {
 case 'a':
-Wx3t1N29_3 = Sn5F1(325789415, 544277682, (unsigned short)931592891);
+Wx3t1N29_3 = Sn5F1(325789415, (char)544277682, (unsigned short)931592891);
 break;
 case 'b':
 gjRC1a = B68n5i76();
@@ -593,7 +593,7 @@ gctQm = (int)(MRAxT76O9);
 while (i < 2);
 }
 
-Dnbs = Sn5F1(1007263732, 1097219256, wsajm356);
+Dnbs = Sn5F1(1007263732, (char)1097219256, wsajm356);
 try
 {
 cout << FE0g9 << SYW4svU << W320mRBl << chMMe << endl;
@@ -659,7 +659,7 @@ case 6:
 N45tOUi = MzGn + OMpg_48jh_;
 break;
 case 7:
-Dnbs = Sn5F1(FE0g9, bHC0z, -120122341);
+Dnbs = Sn5F1(FE0g9, bHC0z, (unsigned short)-120122341);
 break;
 case 8:
 Dnbs = Sn5F1(-830096633, chMMe, (unsigned short)-734591934);
@@ -681,7 +681,7 @@ int k = 0;
 while (k < 9)
 {
 k++;
-Dnbs = Sn5F1(78865119, VRf6lL7vD, 346342723);
+Dnbs = Sn5F1(78865119, VRf6lL7vD, (unsigned short)346342723);
 }
 }
 }
@@ -780,7 +780,7 @@ gjRC1a = B68n5i76() % vbhe_J851;
 }
 else if (gjRC1a != 1309464407)
 {
-Dnbs = Sn5F1(664630529, 1872324206, (unsigned short)717073368);
+Dnbs = Sn5F1(664630529, (char)1872324206, (unsigned short)717073368);
 }
 else if ((gb5xR7i != 252315204) && ((o04_LB8j <= v8_3Z) && (bHpj & tr991Q_)))
 {
@@ -799,7 +799,7 @@ else if (MRAxT76O9 < 955403640)
 {
 if (wsajm356 & -1676759759)
 {
-l4KGH_ = Sn5F1(-821028867, -1147420035, qoq4D610x) << 1212519378;
+l4KGH_ = Sn5F1(-821028867, (char)-1147420035, qoq4D610x) << 1212519378;
 }
 else if (OMpg_48jh_)
 {
@@ -818,7 +818,7 @@ else if (JBcv809M != -1862058773)
 {
 if (xJbeCuI6z == -1279510849)
 {
-Wx3t1N29_3 = Sn5F1(-1896671618, 638148928, (unsigned short)375383003);
+Wx3t1N29_3 = Sn5F1(-1896671618, (char)638148928, (unsigned short)375383003);
 }
 else
 {
@@ -829,7 +829,7 @@ else if (((a4WARp == JBcv809M) || (SYW4svU > -1515377959)) && (tr991Q_ & 2056112
 {
 if ((g0hb2rLx9r & 174291920) || (tr991Q_ <= -1255834967))
 {
-Wx3t1N29_3 = Sn5F1(FE0g9, B1UV5QR, -1376632487);
+Wx3t1N29_3 = Sn5F1(FE0g9, B1UV5QR, (unsigned short)-1376632487);
 }
 else
 {
@@ -850,7 +850,7 @@ while (k >= 0);
 }
 else
 {
-Dnbs = Sn5F1(f5n0nf, 720670562, (unsigned short)-1229205341);
+Dnbs = Sn5F1(f5n0nf, (char)720670562, (unsigned short)-1229205341);
 }
 }
 else

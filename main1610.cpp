@@ -86,7 +86,7 @@ do
 j--;
 for (int k = 0; k < 1; ++k)
 {
-hg3NEd = FYeaiq(hg3NEd, dwHh, Bd52PcJ, 315315957, r0EdT0HB);
+hg3NEd = FYeaiq(hg3NEd, dwHh, Bd52PcJ, (short)315315957, r0EdT0HB);
 }
 }
 while (j >= 0);
@@ -100,7 +100,7 @@ while (j < 9)
 {
 if (iLU7TQ_)
 {
-W_5Xwb0HgL = N5Zgo6E(-1042239987, 1657926288, ttJAm, 518567756);
+W_5Xwb0HgL = N5Zgo6E(-1042239987, 1657926288, ttJAm, (short)518567756);
 }
 else if (YW66ao52h8 & NArQy_9ekk)
 {

@@ -22,7 +22,7 @@ int main(void) {
     float    fGZ9    =    -817480971;
     int    FtVwG85N    =    1650856306;
   short int  zvdBF4n  =  0;
-	short	r0p8B__S8Y	=	-2045638518;
+	short	r0p8B__S8Y	=	(short)-2045638518;
 	unsigned long long	eQ1gRJ6jc	=	0;
   double  McW968G6  =  -467121758;
   short  y0JT  =  (short)667467740;
@@ -32,7 +32,7 @@ int main(void) {
     float    zx2W8U    =    2131668749;
     unsigned int    d2zu5q_TZ    =    513148203;
  short int i_8M = 163704316;
-	char	b6zT8q0w	=	-42429054;
+	char	b6zT8q0w	=	(char)-42429054;
  short ippQ = 0;
  unsigned char XXX1E2g = 1323724324;
 	unsigned long	DxZ5N0gi	=	0;
@@ -52,7 +52,7 @@ catch (int& errorCode)
 FtVwG85N <<= 1860732213;
 }
 
-std::cout << H85fEx(373371568) / pu6lE0w << std::endl;
+std::cout << H85fEx((short)373371568) / pu6lE0w << std::endl;
 r0p8B__S8Y = D32N1x2 / ippQ;
 
 if (qO_uwx3hC == -1109696112)
@@ -85,6 +85,6 @@ long long  ETZ6oJ1(short int  jJ0UOGj,unsigned char  pI5Ewz0xRk)
 
 short int    YWnF(unsigned int    PGL4eeJx2,unsigned long long    Q7dy6gCZW)
 {
-    return    -353454802;
+    return    (short)-353454802;
 }
 

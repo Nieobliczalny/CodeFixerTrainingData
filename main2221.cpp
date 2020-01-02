@@ -16,7 +16,7 @@ using namespace std;
 int main()
 {
 	unsigned short	Xfc_ZR;
-	Xfc_ZR	=	-1820582491;
+	Xfc_ZR	=	(unsigned short)-1820582491;
  short QgDA9cv;
  QgDA9cv = (short)1758682514;
  long double mtSntS;
@@ -34,7 +34,7 @@ int main()
     unsigned long long    Bu3EKuQ84R;
     Bu3EKuQ84R    =    1094662707;
     unsigned short int    zwaw2D;
-    zwaw2D    =    -283309458;
+    zwaw2D    =    (unsigned short)-283309458;
     unsigned short    wU_3bLX_;
     wU_3bLX_    =    (unsigned short)-1062797537;
 	unsigned long	A94_wn;
@@ -48,7 +48,7 @@ int main()
     unsigned int    e9n82r0l8r;
     e9n82r0l8r    =    0;
   char  OI3DI59c;
-  OI3DI59c  =  668483340;
+  OI3DI59c  =  (char)668483340;
   long  L27V_0vZ;
   L27V_0vZ  =  0;
 	unsigned short	DIRZAsZyk;
@@ -64,7 +64,7 @@ int main()
  float zOt2ai2;
  zOt2ai2 = 1901492439;
   short  D216_tL4d;
-  D216_tL4d  =  -2057844816;
+  D216_tL4d  =  (short)-2057844816;
     long double    q76gacY;
     q76gacY    =    -128169583;
  unsigned int P68C2b8_;

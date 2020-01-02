@@ -123,7 +123,7 @@ case 2:
 t6X2 = qBGGz555 - s3lt;
 break;
 case 3:
-t6X2 = kO_Ag(qBGGz555, -1189938374, t6X2, 1755854424);
+t6X2 = kO_Ag(qBGGz555, (unsigned short)-1189938374, t6X2, 1755854424);
 break;
 case 4:
 t6X2 = Fn12TAHi(-1806978347, -11511332, (unsigned short)445576768, qBGGz555);
@@ -141,7 +141,7 @@ case 8:
 t6X2 = V_4B();
 break;
 default:
-t6X2 = Fn12TAHi(s3lt, -2052124523, 1650327297, -146769716) * qBGGz555;
+t6X2 = Fn12TAHi(s3lt, -2052124523, (unsigned short)1650327297, -146769716) * qBGGz555;
 break;
 }
 
@@ -205,7 +205,7 @@ for (int j = 0; j < 4; j++)
 {
 for (int k = 1; k >= 0; k--)
 {
-t6X2 = Fn12TAHi(Cus44oXawM, s3lt, -1518909075, t6X2) / Cus44oXawM;
+t6X2 = Fn12TAHi(Cus44oXawM, s3lt, (unsigned short)-1518909075, t6X2) / Cus44oXawM;
 }
 }
 }
@@ -218,7 +218,7 @@ t6X2 = Cus44oXawM ^ 47742972;
 }
 cout << V_4B() << endl;
 
-cout << V_4B() << NZNSeW1o9(Cus44oXawM, s3lt, qBGGz555, -891177713) << t6X2 << endl;
+cout << V_4B() << NZNSeW1o9(Cus44oXawM, s3lt, qBGGz555, (unsigned short)-891177713) << t6X2 << endl;
 if (Cus44oXawM)
 {
 for (int j = 6; j >= 0; j--)
@@ -241,7 +241,7 @@ t6X2 /= Cus44oXawM;
 }
 else if (Cus44oXawM == s3lt)
 {
-t6X2 = Fn12TAHi(-423580606, 2028639774, -822983084, qBGGz555);
+t6X2 = Fn12TAHi(-423580606, 2028639774, (unsigned short)-822983084, qBGGz555);
 }
 else
 {
@@ -303,7 +303,7 @@ t6X2 = V_4B();
 }
 else if (t6X2)
 {
-t6X2 = Fn12TAHi(qBGGz555, 526133680, 1695145066, Cus44oXawM);
+t6X2 = Fn12TAHi(qBGGz555, 526133680, (unsigned short)1695145066, Cus44oXawM);
 }
 else
 {
@@ -334,7 +334,7 @@ case 'D':
 t6X2 = V_4B();
 break;
 default:
-t6X2 = Fn12TAHi(qBGGz555, -1195394540, -1414335779, s3lt);
+t6X2 = Fn12TAHi(qBGGz555, -1195394540, (unsigned short)-1414335779, s3lt);
 break;
 }
 }
@@ -345,7 +345,7 @@ cout << qBGGz555 << s3lt << endl;
 cout << t6X2 << Cus44oXawM << endl;
 
 t6X2 = t6X2 / Cus44oXawM;
-cout << Fn12TAHi(1409233840, t6X2, 1748146332, -1951072819) << kO_Ag(qBGGz555, t6X2, -1189288618, s3lt) << "t86G" << endl;
+cout << Fn12TAHi(1409233840, t6X2, (unsigned short)1748146332, -1951072819) << kO_Ag(qBGGz555, t6X2, -1189288618, s3lt) << "t86G" << endl;
 
 cout << "M77BE" << "D3Mlasp2eS" << "t2swV4kBP" << Cus44oXawM << "EkCNb" << endl;
 
@@ -376,7 +376,7 @@ case 1:
 t6X2 = V_4B();
 break;
 case 2:
-Cus44oXawM = NZNSeW1o9(-320434372, -1205167593, s3lt, (unsigned short)1407467150);
+Cus44oXawM = NZNSeW1o9(-320434372, (char)-1205167593, s3lt, (unsigned short)1407467150);
 break;
 default:
 t6X2 /= s3lt;
@@ -402,7 +402,7 @@ case 1:
 t6X2 = s3lt >> 1170438702;
 break;
 case 2:
-t6X2 = Fn12TAHi(482284801, t6X2, -1529114445, qBGGz555);
+t6X2 = Fn12TAHi(482284801, t6X2, (unsigned short)-1529114445, qBGGz555);
 break;
 case 3:
 t6X2 *= s3lt;
@@ -436,7 +436,7 @@ long long	Fn12TAHi(long long	FX2H3,unsigned long	tIV3HRs,unsigned short int	BHCF
 
 unsigned char V_4B()
 {
- return -21005960;
+ return (unsigned char)-21005960;
 }
 
 unsigned int NZNSeW1o9(long long z0YWY5l6_x,char B7Ri0od,short q1To95MU,unsigned short int B2yIhqdxu) {

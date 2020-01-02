@@ -178,7 +178,7 @@ else if (Jbcv < 469440634)
 {
 if (hquTtgj != eikk)
 {
-w9Z99h_4y = (w9Z99h_4y != HDer02bg4) ? 1034134770 : HDer02bg4;
+w9Z99h_4y = (w9Z99h_4y != HDer02bg4) ? (unsigned char)1034134770 : HDer02bg4;
 }
 else if (((Gl0ID & G7Ai07) || (L3iq != dIQR8J4Sx7)) && (lEb9 & gC2bW))
 {

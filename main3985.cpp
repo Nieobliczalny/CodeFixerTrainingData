@@ -17,7 +17,7 @@ int main(void)
   short int  AFqgB,  TCaiInJp,  pl3rYDn5O;
     AFqgB  =  TCaiInJp  =  pl3rYDn5O  =  0;
  short int h6474, cnQ26sV3H, r46A9T, lHD4oimPdo, BiiEd555o, s7a_gY3Jb6, STCmxrdFcl, J51Ax5iD6g, Z2ed, cly6, Z54k, e33MZqA2L, Jq_zCE8t2, Ph__MB3Q, rx3q4R_, o1h55P, IS92, JClMXAF, B_V810FlIf, eNqB_25B_8, QFq1sW7, HXFP2it1, HZ71U276, vWdV1Q0_, wFp38j, bX57, e6yTJ3On, xuGuZ1, VPw5_92mH, b8S3, M9iY4, q6E_wt, qU09, m_2HW, NkP26, kDR42LP, Xo653b9O, ELJ2t, CUyBSIs, Myysv17__Y, Di311Z, GyT1A3ucdG, y_xw4, rcaaBg0, RdCcEl, avTxa_, H93gTu, O0l4LD, Q3549hAUr, bxPW_URw3, VE4bt7OzW, NW5Dr001B, hq_0J_h_2o, GjJ4g8Mg_J, IQHLG, anEyP4_O64, hf85LQqZ8c, SfG_znm, KrRFiKw, Ucmy1, uU2s78s, KT1W01, gqZV1HlR, ungc, pI_0BXW, JE3j0Q36i, zUv2tTmH, x2FuDZGAt, lOb3C5, pT2t58, WL1h, a4dI5p, BAfsN061j, P8EaC1GyQ, itk0, f663Cs8M, Qn70B0, nl6aIfJgNV, pj8m, Wkp_a, Q79tiN79Y, I_bxnh2k5, t66u8FBaO, W4__m, hmU002tMs, WW_lKS, J616, CQ_GAo7RyJ, R2S_80_, h8GyB2P7, LZGK, FN9zcI, PQKs8U, VVNjH__y;
-  h6474 = cnQ26sV3H = r46A9T = lHD4oimPdo = BiiEd555o = s7a_gY3Jb6 = STCmxrdFcl = J51Ax5iD6g = Z2ed = cly6 = Z54k = e33MZqA2L = Jq_zCE8t2 = Ph__MB3Q = rx3q4R_ = o1h55P = IS92 = JClMXAF = B_V810FlIf = eNqB_25B_8 = QFq1sW7 = HXFP2it1 = HZ71U276 = vWdV1Q0_ = wFp38j = bX57 = e6yTJ3On = xuGuZ1 = VPw5_92mH = b8S3 = M9iY4 = q6E_wt = qU09 = m_2HW = NkP26 = kDR42LP = Xo653b9O = ELJ2t = CUyBSIs = Myysv17__Y = Di311Z = GyT1A3ucdG = y_xw4 = rcaaBg0 = RdCcEl = avTxa_ = H93gTu = O0l4LD = Q3549hAUr = bxPW_URw3 = VE4bt7OzW = NW5Dr001B = hq_0J_h_2o = GjJ4g8Mg_J = IQHLG = anEyP4_O64 = hf85LQqZ8c = SfG_znm = KrRFiKw = Ucmy1 = uU2s78s = KT1W01 = gqZV1HlR = ungc = pI_0BXW = JE3j0Q36i = zUv2tTmH = x2FuDZGAt = lOb3C5 = pT2t58 = WL1h = a4dI5p = BAfsN061j = P8EaC1GyQ = itk0 = f663Cs8M = Qn70B0 = nl6aIfJgNV = pj8m = Wkp_a = Q79tiN79Y = I_bxnh2k5 = t66u8FBaO = W4__m = hmU002tMs = WW_lKS = J616 = CQ_GAo7RyJ = R2S_80_ = h8GyB2P7 = LZGK = FN9zcI = PQKs8U = VVNjH__y = 696314047;
+  h6474 = cnQ26sV3H = r46A9T = lHD4oimPdo = BiiEd555o = s7a_gY3Jb6 = STCmxrdFcl = J51Ax5iD6g = Z2ed = cly6 = Z54k = e33MZqA2L = Jq_zCE8t2 = Ph__MB3Q = rx3q4R_ = o1h55P = IS92 = JClMXAF = B_V810FlIf = eNqB_25B_8 = QFq1sW7 = HXFP2it1 = HZ71U276 = vWdV1Q0_ = wFp38j = bX57 = e6yTJ3On = xuGuZ1 = VPw5_92mH = b8S3 = M9iY4 = q6E_wt = qU09 = m_2HW = NkP26 = kDR42LP = Xo653b9O = ELJ2t = CUyBSIs = Myysv17__Y = Di311Z = GyT1A3ucdG = y_xw4 = rcaaBg0 = RdCcEl = avTxa_ = H93gTu = O0l4LD = Q3549hAUr = bxPW_URw3 = VE4bt7OzW = NW5Dr001B = hq_0J_h_2o = GjJ4g8Mg_J = IQHLG = anEyP4_O64 = hf85LQqZ8c = SfG_znm = KrRFiKw = Ucmy1 = uU2s78s = KT1W01 = gqZV1HlR = ungc = pI_0BXW = JE3j0Q36i = zUv2tTmH = x2FuDZGAt = lOb3C5 = pT2t58 = WL1h = a4dI5p = BAfsN061j = P8EaC1GyQ = itk0 = f663Cs8M = Qn70B0 = nl6aIfJgNV = pj8m = Wkp_a = Q79tiN79Y = I_bxnh2k5 = t66u8FBaO = W4__m = hmU002tMs = WW_lKS = J616 = CQ_GAo7RyJ = R2S_80_ = h8GyB2P7 = LZGK = FN9zcI = PQKs8U = VVNjH__y = (short)696314047;
 
 CUyBSIs = (int)abs(vWdV1Q0_);
 try
@@ -29,7 +29,7 @@ do
 j++;
 if (eNqB_25B_8 >= Wkp_a)
 {
-TCaiInJp = MX06Y1ZR(1763276432, (unsigned short)2037381683, I_bxnh2k5);
+TCaiInJp = MX06Y1ZR((unsigned short)1763276432, (unsigned short)2037381683, I_bxnh2k5);
 }
 }
 while (j < 10);
@@ -44,7 +44,7 @@ if (b8S3 == 1943307226)
 {
 Z54k = eNqB_25B_8 % 584271737;
 }
-vWdV1Q0_ = CQ_GAo7RyJ / MX06Y1ZR(TCaiInJp, -1165900662, -1710765488);
+vWdV1Q0_ = CQ_GAo7RyJ / MX06Y1ZR(TCaiInJp, (unsigned short)-1165900662, -1710765488);
 cout << Qn70B0 << endl;
 switch (itk0)
 {
@@ -58,7 +58,7 @@ case 'c':
 pT2t58 = Ph__MB3Q | cnQ26sV3H;
 break;
 case 'd':
-TCaiInJp = MX06Y1ZR(Wkp_a, 456086638, lHD4oimPdo);
+TCaiInJp = MX06Y1ZR(Wkp_a, (unsigned short)456086638, lHD4oimPdo);
 break;
 case 'e':
 ELJ2t *= rcaaBg0;
@@ -131,7 +131,7 @@ Z54k = nl6aIfJgNV / ELJ2t;
 }
 else
 {
-cout << MX06Y1ZR(868348505, BiiEd555o, -1130989565) << endl;
+cout << MX06Y1ZR((unsigned short)868348505, BiiEd555o, -1130989565) << endl;
 }
 }
 }
@@ -152,7 +152,7 @@ break;
 }
 while (i >= 0);
 }
-AFqgB = MX06Y1ZR(2131948949, (unsigned short)445012086, 899336755);
+AFqgB = MX06Y1ZR((unsigned short)2131948949, (unsigned short)445012086, 899336755);
 
 cnQ26sV3H = (short int)(W4__m);
 {

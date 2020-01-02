@@ -14,7 +14,7 @@ using std::floor;
 
 char sRiwLJ017(short int StVW)
 {
- return -832917527;
+ return (char)-832917527;
 }
 
 long  FWBV(char  PBT0)
@@ -24,7 +24,7 @@ long  FWBV(char  PBT0)
 
 unsigned short int  rIdVm(unsigned short int  EIr_79V1)
 {
-  return  581317040;
+  return  (unsigned short)581317040;
 }
 
 unsigned long	mun7i(unsigned long	PVb2h)
@@ -87,7 +87,7 @@ case 5:
 jsYb4 = FWBV(jsYb4);
 break;
 case 6:
-W60vzFX864 = FWBV(1037053680);
+W60vzFX864 = FWBV((char)1037053680);
 break;
 }
 }
@@ -102,7 +102,7 @@ case 'b':
 iQK2R7al = (int)abs(qbn6oU8);
 break;
 case 'c':
-bG5mUMD6T = sRiwLJ017(-359071373);
+bG5mUMD6T = sRiwLJ017((short)-359071373);
 break;
 case 'd':
 GhYIq3v = FWBV(Bt4ACBqUkZ);
@@ -225,7 +225,7 @@ AP2kq7 = (long double)(LGza92);
 }
 if (hD8iFL == iQK2R7al)
 {
-std::cout << bQzR7r0qO << FWBV(-1817080660) << "NQ8Fo" << "wU9gF4cB" << mun7i(-1317113810) << std::endl;
+std::cout << bQzR7r0qO << FWBV((char)-1817080660) << "NQ8Fo" << "wU9gF4cB" << mun7i(-1317113810) << std::endl;
 }
 
 {
@@ -359,7 +359,7 @@ catch (int& errorCode)
 W60vzFX864 = FWBV(wW4JP);
 }
 
-std::cout << rIdVm(285130244) << aPuR << BeULAK9 << sRiwLJ017(wW4JP) << "J_E9" << std::endl;
+std::cout << rIdVm((unsigned short)285130244) << aPuR << BeULAK9 << sRiwLJ017(wW4JP) << "J_E9" << std::endl;
 
 C4M4dB59_ -= TApt;
 return 0;

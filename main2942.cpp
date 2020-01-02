@@ -15,7 +15,7 @@ using std::floor;
 int main()
 {
 	unsigned long	Z3zxQx	=	0;
-	unsigned short int	kE937VpO	=	26442728;
+	unsigned short int	kE937VpO	=	(unsigned short)26442728;
   unsigned short  Eo2fm  =  0;
     unsigned short    KkNQ2nC    =    0;
     long    T8U4eDLk    =    1071703130;
@@ -26,7 +26,7 @@ int main()
  unsigned long long GU1DvyC5 = -1320249726;
     unsigned short int    oBmlzec2PA    =    (unsigned short)2146150089;
   double  yL9vrNsX  =  -1345000650;
-    unsigned char    YSZ0_    =    939627071;
+    unsigned char    YSZ0_    =    (unsigned char)939627071;
 	short	m_3f7w	=	473024493;
 	unsigned long long	c8O6	=	540348684;
   unsigned short int  FfdnIGgcgn  =  1066886933;

@@ -21,7 +21,7 @@ int main() {
  unsigned long AFR_;
  AFR_ = -2095900969;
  unsigned short N4tVxN9T;
- N4tVxN9T = -940146819;
+ N4tVxN9T = (unsigned short)-940146819;
 	unsigned short	tmfEz;
 	tmfEz	=	(unsigned short)2073393862;
  int XEIfZ7V1A;
@@ -35,7 +35,7 @@ int main() {
  unsigned long DAMwAzR4;
  DAMwAzR4 = -631469852;
 	unsigned short int	Wuc5_F43;
-	Wuc5_F43	=	2043583600;
+	Wuc5_F43	=	(unsigned short)2043583600;
  long double kiaJA9U;
  kiaJA9U = 1535840952;
     short int    ctIq5;
@@ -49,7 +49,7 @@ int main() {
     long    rpe6;
     rpe6    =    1557167607;
   unsigned short int  T0Hgtx;
-  T0Hgtx  =  9451786;
+  T0Hgtx  =  (unsigned short)9451786;
   unsigned short  Y5k5M0o3AL;
   Y5k5M0o3AL  =  (unsigned short)1216008843;
     unsigned int    erbepz8t;
@@ -59,7 +59,7 @@ int main() {
  unsigned short int SCx2_7q94;
  SCx2_7q94 = 1740524203;
   unsigned short  ag7J7EK;
-  ag7J7EK  =  1191149426;
+  ag7J7EK  =  (unsigned short)1191149426;
  float hxJ57zs6G;
  hxJ57zs6G = -1979607214;
     long double    mKv9p;
@@ -71,7 +71,7 @@ int main() {
 	long double	r100375a;
 	r100375a	=	1860290266;
 	char	kK14491T8y;
-	kK14491T8y	=	-1415322404;
+	kK14491T8y	=	(char)-1415322404;
     float    K49c33o08A;
     K49c33o08A    =    839187043;
   unsigned char  V1_H26Mbx;
@@ -101,7 +101,7 @@ int main() {
 	int	z_8eYSD_;
 	z_8eYSD_	=	1640033084;
  char e3n2;
- e3n2 = -223971342;
+ e3n2 = (char)-223971342;
     short    ZM0m;
     ZM0m    =    (short)-707104859;
     double    P1Ahd;
@@ -117,7 +117,7 @@ int main() {
  int Jg9yqQp;
  Jg9yqQp = -1502043393;
  char RR578cK7f;
- RR578cK7f = 1382171632;
+ RR578cK7f = (char)1382171632;
 	short	qF0Hb;
 	qF0Hb	=	0;
 	unsigned int	r3W91r692;
@@ -133,7 +133,7 @@ int main() {
 	unsigned int	r4__iX;
 	r4__iX	=	-1228469461;
   short int  t1re31;
-  t1re31  =  -203261874;
+  t1re31  =  (short)-203261874;
 
 if (z_8eYSD_ != 1548496700)
 {
@@ -324,7 +324,7 @@ case 1:
 p2FUL = (int)ceil(hxJ57zs6G);
 break;
 case 2:
-OP1oeP_ = uR69k9e(OP1oeP_, -1372164044, 392235793, rpe6);
+OP1oeP_ = uR69k9e(OP1oeP_, (short)-1372164044, 392235793, rpe6);
 break;
 case 3:
 K49c33o08A = (int)ceil(QITZW);
@@ -439,7 +439,7 @@ for (int i = 0; i < 9; i++)
 {
 if ((t197qtM > -1939805666) && (H65A69l <= -407546290))
 {
-r4__iX = uR69k9e(-341148513, 641458299, -1744480271, e3n2);
+r4__iX = uR69k9e(-341148513, (short)641458299, -1744480271, e3n2);
 }
 else
 {

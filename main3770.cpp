@@ -19,7 +19,7 @@ int    LCpbXd7(unsigned long    WY7s,char    h5RjaNq)    {
 
 int main(int argc, char** argv)
 {
-    unsigned short int    b06Rn    =    -1732838688;
+    unsigned short int    b06Rn    =    (unsigned short)-1732838688;
   unsigned int  SH0kL  =  0;
   float  iaDX  =  -14898805;
     unsigned long    r_X8    =    -1719921142;
@@ -32,7 +32,7 @@ int main(int argc, char** argv)
  unsigned short Fqciz0__6 = 0;
  long cdHL9A6_PT = -586307880;
     float    UDE_    =    -71652359;
- unsigned char CyY_2uOpK = -728396370;
+ unsigned char CyY_2uOpK = (unsigned char)-728396370;
 	short int	Ir8Z	=	0;
 	unsigned int	ph52E0fPC	=	0;
   int  YJy4xyF  =  865670557;
@@ -42,7 +42,7 @@ int main(int argc, char** argv)
   double  y9p4TGb  =  2106233649;
  char RIJ5 = -1278849493;
 	unsigned long	r8ZE5fG	=	-1576821296;
-	unsigned short	Lxyy36d	=	924856681;
+	unsigned short	Lxyy36d	=	(unsigned short)924856681;
     unsigned long long    R5AI    =    -1871629971;
     unsigned long long    cEM9dG    =    1611526103;
 	unsigned long	d088K	=	0;
@@ -67,7 +67,7 @@ case 'a':
 K07Bwrh = (int)abs(UDE_);
 break;
 default:
-Fqciz0__6 = LCpbXd7(851614022, -1098784514);
+Fqciz0__6 = LCpbXd7(851614022, (char)-1098784514);
 break;
 }
 CyY_2uOpK--;
@@ -97,7 +97,7 @@ catch (int& errorCode)
 CyY_2uOpK -= 763757432;
 }
 
-ph52E0fPC = LCpbXd7(-1244381161, -5314762);
+ph52E0fPC = LCpbXd7(-1244381161, (char)-5314762);
 
 for (int i = 0; i < 2; ++i)
 {
@@ -141,7 +141,7 @@ if (((fIEi_W > y9p4TGb) && (UDE_ != 17993774)) && (g0v9y < th6vp7))
 {
 for (int k = 0; k < 6; k++)
 {
-d088K = LCpbXd7(410128990, -116706070);
+d088K = LCpbXd7(410128990, (char)-116706070);
 }
 }
 --i;
@@ -176,7 +176,7 @@ catch (int& errorCode)
 zBsSQ1 %= hu4w88ncY9;
 }
 
-std::cout << YJy4xyF / LCpbXd7(CyY_2uOpK, -523201115) << std::endl;
+std::cout << YJy4xyF / LCpbXd7(CyY_2uOpK, (char)-523201115) << std::endl;
 
 if (pvtywt1Y > th6vp7)
 {
@@ -186,7 +186,7 @@ case 'a':
 K07Bwrh = (int)floor(D4G4_G_1);
 break;
 case 'b':
-Fqciz0__6 = LCpbXd7(970525992, -1682021430);
+Fqciz0__6 = LCpbXd7(970525992, (char)-1682021430);
 break;
 case 'c':
 Ir8Z = LCpbXd7(2120367443, (char)673030522);
@@ -201,7 +201,7 @@ case 'f':
 p1CI8_v = (int)ceil(K07Bwrh);
 break;
 case 'g':
-Ir8Z = LCpbXd7(-1859430168, -932677526);
+Ir8Z = LCpbXd7(-1859430168, (char)-932677526);
 break;
 case 'h':
 oGEm = b06Rn / Ir8Z;
@@ -244,7 +244,7 @@ std::cout << D4G4_G_1 << iaDX << std::endl;
 }
 else
 {
-Fqciz0__6 = LCpbXd7(iaDX, -1088627195);
+Fqciz0__6 = LCpbXd7(iaDX, (char)-1088627195);
 }
 
 {
@@ -272,7 +272,7 @@ cEM9dG = CyY_2uOpK - zBsSQ1;
 break;
 case 'd':
 case 'D':
-SH0kL = LCpbXd7(KPWxY2dlb, -299020727);
+SH0kL = LCpbXd7(KPWxY2dlb, (char)-299020727);
 break;
 case 'e':
 case 'E':
@@ -311,7 +311,7 @@ if (zBsSQ1 <= th6vp7)
 {
 for (int k = 4; k >= 0; --k)
 {
-SH0kL = LCpbXd7(1537871175, 2079131201);
+SH0kL = LCpbXd7(1537871175, (char)2079131201);
 }
 }
 else if (iaDX <= 1378112280)
@@ -348,7 +348,7 @@ int k = 0;
 while (k < 10)
 {
 k++;
-ph52E0fPC = LCpbXd7(zBsSQ1, -582172169);
+ph52E0fPC = LCpbXd7(zBsSQ1, (char)-582172169);
 }
 }
 }
@@ -394,7 +394,7 @@ do
 {
 if (SH0kL == D4G4_G_1)
 {
-Fqciz0__6 = LCpbXd7(931814408, 1977110311);
+Fqciz0__6 = LCpbXd7(931814408, (char)1977110311);
 }
 else if (Lxyy36d == R5AI)
 {
@@ -406,7 +406,7 @@ r_X8 = Ir8Z | 1081668848;
 }
 else
 {
-d088K = LCpbXd7(r_X8, -1200651748);
+d088K = LCpbXd7(r_X8, (char)-1200651748);
 }
 j++;
 }
@@ -427,7 +427,7 @@ iaDX = (int)abs(UDE_);
 }
 else if (cdHL9A6_PT <= th6vp7)
 {
-std::cout << "eZMyr0P" << SH0kL << LCpbXd7(KPWxY2dlb, -2019441221) << LCpbXd7(KPWxY2dlb, SH0kL) << std::endl;
+std::cout << "eZMyr0P" << SH0kL << LCpbXd7(KPWxY2dlb, (char)-2019441221) << LCpbXd7(KPWxY2dlb, SH0kL) << std::endl;
 }
 else
 {
@@ -450,7 +450,7 @@ ph52E0fPC = LCpbXd7(2103078266, SH0kL);
 }
 else
 {
-SH0kL = LCpbXd7(R5AI, -744814347);
+SH0kL = LCpbXd7(R5AI, (char)-744814347);
 }
 }
 }
@@ -510,7 +510,7 @@ catch (int& errorCode)
 d088K = LCpbXd7(k3Qo, d088K);
 }
 ph52E0fPC = LCpbXd7(xw6Xb, r8ZE5fG);
-std::cout << LCpbXd7(-936277195, -872621343) << LCpbXd7(xw6Xb, r8ZE5fG) << LCpbXd7(xw6Xb, (char)1563607827) << std::endl;
+std::cout << LCpbXd7(-936277195, (char)-872621343) << LCpbXd7(xw6Xb, r8ZE5fG) << LCpbXd7(xw6Xb, (char)1563607827) << std::endl;
 
 {
 int i = 1;
@@ -520,7 +520,7 @@ try
 {
 if (fDgygua < 1032720946)
 {
-ph52E0fPC = LCpbXd7(-2127945981, -318362672);
+ph52E0fPC = LCpbXd7(-2127945981, (char)-318362672);
 }
 }
 catch (int& errorCode)

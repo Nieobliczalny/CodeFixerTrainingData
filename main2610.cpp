@@ -83,7 +83,7 @@ NT9C -= e72u;
 }
 else
 {
-e72u = VyCW(-950322121, NT9C);
+e72u = VyCW((unsigned char)-950322121, NT9C);
 }
 }
 else
@@ -113,7 +113,7 @@ if (dv1gttzQ4)
 switch (e72u)
 {
 case 'a':
-e72u = VyCW(-1053185405, A2w03R);
+e72u = VyCW((unsigned char)-1053185405, A2w03R);
 break;
 case 'b':
 NT9C = QLNr1_S(NT9C, -732295075);
@@ -159,7 +159,7 @@ U9ZggjQ /= dv1gttzQ4;
 }
 else if (((A2w03R < e72u) && (dv1gttzQ4 < 402109707)) || ((nK3nb > -454656171) || (zWfo_z <= 790769430)))
 {
-nK3nb = VyCW(NT9C, 877801374);
+nK3nb = VyCW(NT9C, (unsigned short)877801374);
 }
 else if ((NT9C < nK3nb) && (U9ZggjQ == e72u))
 {
@@ -217,7 +217,7 @@ case 0:
 zWfo_z = (e72u != dv1gttzQ4) ? A2w03R : QLNr1_S(310243671, -1077765792);
 break;
 case 1:
-nK3nb = VyCW(U9ZggjQ, 1028781992);
+nK3nb = VyCW(U9ZggjQ, (unsigned short)1028781992);
 break;
 case 2:
 dv1gttzQ4 *= 1050959215;
@@ -262,7 +262,7 @@ do
 switch (e72u)
 {
 case 0:
-dv1gttzQ4 = VyCW(-478703510, (unsigned short)1526344665) - e72u;
+dv1gttzQ4 = VyCW((unsigned char)-478703510, (unsigned short)1526344665) - e72u;
 break;
 case 1:
 NT9C = U9ZggjQ - nK3nb;
@@ -372,7 +372,7 @@ case 5:
 dv1gttzQ4 = dv1gttzQ4 * 62227954;
 break;
 case 6:
-nK3nb = VyCW(-1119772358, (unsigned short)80036565);
+nK3nb = VyCW((unsigned char)-1119772358, (unsigned short)80036565);
 break;
 default:
 zWfo_z = QLNr1_S(zWfo_z, 1505327653) / 828435782;
@@ -394,7 +394,7 @@ return 0;
 }
 
 unsigned char    QLNr1_S(int    SuXM6,long long    NlWC3)    {
-    return    856496709;
+    return    (unsigned char)856496709;
 }
 
 unsigned long VyCW(unsigned char LexV,unsigned short i7WgcT) {

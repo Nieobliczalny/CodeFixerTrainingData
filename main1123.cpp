@@ -379,7 +379,7 @@ char  N556I9(unsigned long  S1mU6)
 
 char U567j()
 {
- return -1315022120;
+ return (char)-1315022120;
 }
 
 unsigned int	KtD17e_J0(unsigned long long	b4_leDJx3c)	{

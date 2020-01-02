@@ -11,7 +11,7 @@ using namespace std;
 int main(int argc, char** argv)
 {
  short A699t;
- A699t = 1436225310;
+ A699t = (short)1436225310;
  char aOAjVFSV;
  aOAjVFSV = (char)1212252225;
 	unsigned short int	jn8g;
@@ -23,7 +23,7 @@ int main(int argc, char** argv)
     float    UBNXUQp87b;
     UBNXUQp87b    =    1307604498;
 	char	fIpe3tM4;
-	fIpe3tM4	=	-193768158;
+	fIpe3tM4	=	(char)-193768158;
  short int wqk5u3x1;
  wqk5u3x1 = (short)1621538098;
 	unsigned int	e7HX;
@@ -33,7 +33,7 @@ int main(int argc, char** argv)
   unsigned long  QaKu3uqk00;
   QaKu3uqk00  =  -567263252;
     short    g2BDPYT26U;
-    g2BDPYT26U    =    -1177043636;
+    g2BDPYT26U    =    (short)-1177043636;
   int  LFQc;
   LFQc  =  128613921;
 	unsigned char	L29cU7n;
@@ -47,7 +47,7 @@ int main(int argc, char** argv)
     float    NSwQ66SZT9;
     NSwQ66SZT9    =    154767027;
   short int  Ol70DkY;
-  Ol70DkY  =  1847649192;
+  Ol70DkY  =  (short)1847649192;
  float oKxVIL3f9;
  oKxVIL3f9 = 1680630334;
 	long double	BxfkV;
@@ -57,7 +57,7 @@ int main(int argc, char** argv)
     double    LlNE;
     LlNE    =    -374630690;
 	char	puz7sofk00;
-	puz7sofk00	=	-1477593638;
+	puz7sofk00	=	(char)-1477593638;
     char    l_oL080;
     l_oL080    =    (char)-1616589204;
   float  Qvm2;
@@ -69,7 +69,7 @@ int main(int argc, char** argv)
     long    KAn1093e;
     KAn1093e    =    -1489851963;
 	unsigned short	JBku;
-	JBku	=	1453629465;
+	JBku	=	(unsigned short)1453629465;
  double OBAVYT03;
  OBAVYT03 = 2053197452;
 	unsigned short int	PX81vIpt4;
@@ -79,7 +79,7 @@ int main(int argc, char** argv)
 	short int	Th907ocNM6;
 	Th907ocNM6	=	1619944868;
  unsigned char iQg7_4_;
- iQg7_4_ = 2011706843;
+ iQg7_4_ = (unsigned char)2011706843;
 	unsigned int	R09ox4Pvw0;
 	R09ox4Pvw0	=	0;
   unsigned int  XrxyS4;
@@ -91,7 +91,7 @@ int main(int argc, char** argv)
 	unsigned int	qcDH;
 	qcDH	=	745922723;
 	unsigned char	G4d5aRGP93;
-	G4d5aRGP93	=	-951047309;
+	G4d5aRGP93	=	(unsigned char)-951047309;
     unsigned long    VIThB;
     VIThB    =    -1089243451;
     long long    NyAWpN;
@@ -105,7 +105,7 @@ int main(int argc, char** argv)
     int    hZdfjeD;
     hZdfjeD    =    619314113;
     short    z49gote;
-    z49gote    =    1938106139;
+    z49gote    =    (short)1938106139;
   long double  iey3;
   iey3  =  1035484089;
  long long ZKNI26CECD;
@@ -787,7 +787,7 @@ LFQc <<= JBku;
 break;
 case 'd':
 case 'D':
-l_oL080 = (jv3y != g2Lq6rx) ? e7HX : 904847273;
+l_oL080 = (jv3y != g2Lq6rx) ? e7HX : (char)904847273;
 break;
 case 'e':
 case 'E':

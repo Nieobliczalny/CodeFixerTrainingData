@@ -27,7 +27,7 @@ a3S40_mwd++;
 int i = 6;
 do
 {
-std::cout << a5Zg << Je_DUI(knlzG, 1466038138) << If_G9slq << "bbyg7mL" << Je_DUI(knlzG, -97745811) << std::endl;
+std::cout << a5Zg << Je_DUI(knlzG, (short)1466038138) << If_G9slq << "bbyg7mL" << Je_DUI(knlzG, -97745811) << std::endl;
 --i;
 }
 while (i >= 0);
@@ -57,7 +57,7 @@ gTn2VnB *= 1537990788;
 break;
 }
 epR4om_ = a3S40_mwd + J_u7;
-JeZlwR8 = Je_DUI(JeZlwR8, -2132343168);
+JeZlwR8 = Je_DUI(JeZlwR8, (short)-2132343168);
 
 fn3_Mr1791 = (unsigned char)(WaRF_);
 if (qXC_N == 1084029046)
@@ -74,7 +74,7 @@ else
 int j = 0;
 while (j < 2)
 {
-p6NU9y61 = P2_y98lE8(498239911);
+p6NU9y61 = P2_y98lE8((short)498239911);
 j++;
 }
 }
@@ -89,7 +89,7 @@ do
 {
 if (M5aDIX_72 > qXC_N)
 {
-std::cout << "e27pov8iH" << "oQi_Rq" << Dl350(-500164116) << VXxm1SJO04 << "e0jCd49z" << std::endl;
+std::cout << "e27pov8iH" << "oQi_Rq" << Dl350((unsigned short)-500164116) << VXxm1SJO04 << "e0jCd49z" << std::endl;
 }
 else if (xVOv_7ek >= lBk3)
 {
@@ -138,7 +138,7 @@ int k = 7;
 while (k >= 0)
 {
 --k;
-fn3_Mr1791 = P2_y98lE8(112263577);
+fn3_Mr1791 = P2_y98lE8((short)112263577);
 }
 }
 }
@@ -202,7 +202,7 @@ Q5Kc_trbb8 = P2_y98lE8(Q5Kc_trbb8);
 }
 else if (VXxm1SJO04 < 598940631)
 {
-gTn2VnB = Lc4GJu_l(-1413432642);
+gTn2VnB = Lc4GJu_l((short)-1413432642);
 }
 else
 {
@@ -229,7 +229,7 @@ fn3_Mr1791 = P2_y98lE8(fn3_Mr1791);
 }
 else if ((p6NU9y61) && (fn3_Mr1791 & -956557235))
 {
-std::cout << WaRF_ << Je_DUI(fn3_Mr1791, 141367836) << std::endl;
+std::cout << WaRF_ << Je_DUI(fn3_Mr1791, (short)141367836) << std::endl;
 }
 else if (If_G9slq & -325121721)
 {
@@ -303,7 +303,7 @@ else
 switch (sDsP)
 {
 case 0:
-e45g = Lc4GJu_l(1060636162);
+e45g = Lc4GJu_l((short)1060636162);
 break;
 case 1:
 lBk3 = vTqd7dW - 1276299640;
@@ -324,7 +324,7 @@ else if (JeZlwR8 == -369535210)
 int j = 7;
 do
 {
-std::cout << Lc4GJu_l(-1658117822) << q6WW3_0Tw5 << sXH8sFhQ9D << std::endl;
+std::cout << Lc4GJu_l((short)-1658117822) << q6WW3_0Tw5 << sXH8sFhQ9D << std::endl;
 --j;
 }
 while (j >= 0);
@@ -377,7 +377,7 @@ if (knlzG != 1332328785)
 switch (gTn2VnB)
 {
 case 0:
-knlzG = Je_DUI(-1301333941, -1314403501);
+knlzG = Je_DUI(-1301333941, (short)-1314403501);
 break;
 case 1:
 sDsP = Dl350((unsigned short)-627716773);
@@ -398,7 +398,7 @@ case 6:
 kMQF3qxG = ZKn9H9Rj << M5aDIX_72;
 break;
 case 7:
-A68c = Je_DUI(A68c, -1248983659);
+A68c = Je_DUI(A68c, (short)-1248983659);
 break;
 case 8:
 A68c /= 1663686765;
@@ -415,7 +415,7 @@ int k = 4;
 while (k >= 0)
 {
 k--;
-sDsP = Dl350(-1179634026);
+sDsP = Dl350((unsigned short)-1179634026);
 }
 }
 }
@@ -433,7 +433,7 @@ for (int j = 0; j < 6; j++)
 int k = 8;
 while (k >= 0)
 {
-q6WW3_0Tw5 = Je_DUI(-547327002, 402738101);
+q6WW3_0Tw5 = Je_DUI(-547327002, (short)402738101);
 k--;
 }
 }
@@ -443,7 +443,7 @@ catch (int& errorCode)
 {
 uyEK__F %= 418773865;
 }
-std::cout << VXxm1SJO04 << Je_DUI(-1968524598, -1675946402) << "p03N73" << std::endl;
+std::cout << VXxm1SJO04 << Je_DUI(-1968524598, (short)-1675946402) << "p03N73" << std::endl;
 gTn2VnB = i8KTQ >> WaRF_;
 JeZlwR8 = (unsigned char)(gTn2VnB);
 
@@ -462,7 +462,7 @@ if (vTqd7dW > -989744266)
 {
 for (int k = 4; k >= 0; --k)
 {
-knlzG = Je_DUI(knlzG, 1810755611);
+knlzG = Je_DUI(knlzG, (short)1810755611);
 }
 }
 else
@@ -497,7 +497,7 @@ i--;
 while (i >= 0);
 }
 
-x_97Iw = (Kh4o7cET4 != 1246120794) ? gTn2VnB : Dl350(-1105130112);
+x_97Iw = (Kh4o7cET4 != 1246120794) ? gTn2VnB : Dl350((unsigned short)-1105130112);
 
 {
 int i = 0;
@@ -541,7 +541,7 @@ else
 {
 if (vTqd7dW <= 844224601)
 {
-q6WW3_0Tw5 = P2_y98lE8(2108425055);
+q6WW3_0Tw5 = P2_y98lE8((short)2108425055);
 }
 }
 }
@@ -567,7 +567,7 @@ int    Je_DUI(int    Yqhzn,short int    HExyH)
 }
 
 unsigned short int  P2_y98lE8(short int  H4zx5K06kh)  {
-  return  -1630802548;
+  return  (unsigned short)-1630802548;
 }
 
 short	Lc4GJu_l(short int	e6WZC11Nr)	{

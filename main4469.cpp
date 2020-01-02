@@ -77,6 +77,6 @@ unsigned short int    K12PBPLuI()
 
 unsigned char  RhLyd()
 {
-  return  203192925;
+  return  (unsigned char)203192925;
 }
 

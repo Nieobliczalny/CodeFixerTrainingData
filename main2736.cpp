@@ -9,7 +9,7 @@
 using namespace std;
 
 unsigned char    ExQ5()    {
-    return    -619162979;
+    return    (unsigned char)-619162979;
 }
 
 unsigned short int	W4bK6Qmq90(int	Ifn7IC5c,long long	IuBp_3W_,unsigned short	uKw5,unsigned short int	V8R6k2,unsigned int	qBTSY)
@@ -172,7 +172,7 @@ if (P4a5L80Ex >= LOjlPt68KO)
 {
 if (h3994We58 != RR683W)
 {
-gGPqzLJ = W4bK6Qmq90(1170597274, 682096478, 1139514350, b59Eo_, Ore8g4M3);
+gGPqzLJ = W4bK6Qmq90(1170597274, 682096478, (unsigned short)1139514350, b59Eo_, Ore8g4M3);
 }
 else if (H4Nk2 & n403l_)
 {
@@ -301,7 +301,7 @@ case 3:
 z6qM = c9Q6Fc(-1755292723, 299280479, eZiNIq_E) / 1775421460;
 break;
 case 4:
-raNH25E5_j = W4bK6Qmq90(raNH25E5_j, Ov4VJF, 1238945287, lt4DNe1d, gtLbZ9);
+raNH25E5_j = W4bK6Qmq90(raNH25E5_j, Ov4VJF, (unsigned short)1238945287, lt4DNe1d, gtLbZ9);
 break;
 case 5:
 Ore8g4M3 = ExQ5();
@@ -323,7 +323,7 @@ Psv5R_J69b *= l8_f84V93;
 }
 else
 {
-Gq5v17 = W4bK6Qmq90(Gq5v17, -1114235698, 660437042, (unsigned short)-1184925934, -2041293165);
+Gq5v17 = W4bK6Qmq90(Gq5v17, -1114235698, (unsigned short)660437042, (unsigned short)-1184925934, -2041293165);
 }
 --j;
 }

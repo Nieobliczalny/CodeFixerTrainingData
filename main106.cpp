@@ -14,7 +14,7 @@ short WjMQL8(long TdUCq,unsigned long ftrhUP,short int X0ckiu5k) {
 
 char	y_w_O_af(unsigned long	mnoz,short int	r3403Bp)
 {
-	return	-1221444758;
+	return	(char)-1221444758;
 }
 
 unsigned int Fy558vta43(unsigned char X7_1E3,short int m_m_Qd,short int UdV9T)
@@ -24,7 +24,7 @@ unsigned int Fy558vta43(unsigned char X7_1E3,short int m_m_Qd,short int UdV9T)
 
 short  KgWI5AR6()
 {
-  return  -372689785;
+  return  (short)-372689785;
 }
 
 int main()
@@ -83,7 +83,7 @@ g8TJ21g = (int)ceil(O1p3r23);
 f3s8 = vg9wHO8 - 823053529;
 for (int i = 9; i >= 0; i--)
 {
-cout << WjMQL8(1342206763, jaAXMxBN, 1213552212) << "kdQkovq8s9" << Fy558vta43(Yk4HoOL, jaAXMxBN, Q8ezg) << QqDS2ikO << endl;
+cout << WjMQL8(1342206763, jaAXMxBN, (short)1213552212) << "kdQkovq8s9" << Fy558vta43(Yk4HoOL, jaAXMxBN, Q8ezg) << QqDS2ikO << endl;
 }
 
 {
@@ -97,7 +97,7 @@ int k = 0;
 do
 {
 k++;
-mqppv0 = y_w_O_af(mqppv0, 657406965);
+mqppv0 = y_w_O_af(mqppv0, (short)657406965);
 }
 while (k < 10);
 }
@@ -179,7 +179,7 @@ while (i < 3);
 }
 if (e7fn < -641124500)
 {
-f3s8 = Fy558vta43(f3s8, nQ9eMGx357, 1700174585);
+f3s8 = Fy558vta43(f3s8, nQ9eMGx357, (short)1700174585);
 }
 else
 {
@@ -236,7 +236,7 @@ case 'a':
 f52Ka = (int)abs(nQ9eMGx357);
 break;
 case 'b':
-G67CZT_18I = Fy558vta43(G67CZT_18I, IUT1160, 1863633409);
+G67CZT_18I = Fy558vta43(G67CZT_18I, IUT1160, (short)1863633409);
 break;
 default:
 jH_5a = (int)abs(T3Yx7PB);

@@ -10,7 +10,7 @@ using namespace std;
 
 short    QZhfg(unsigned long long    Yt1Oa87U2N)
 {
-    return    -1429474755;
+    return    (short)-1429474755;
 }
 
 int	URcaG681(long long	ZXvfdk,unsigned long	HrTocx4bG,long long	iQ6a8_vxR_,unsigned short	OInyw,short	ljc22sDLr)	{
@@ -27,7 +27,7 @@ int main(int argc, char** argv) {
  long HF6DDth4U;
  HF6DDth4U = 204299301;
     unsigned char    P1BjY9;
-    P1BjY9    =    -2020018605;
+    P1BjY9    =    (unsigned char)-2020018605;
   short  OEr0p1Tfg;
   OEr0p1Tfg  =  (short)578414035;
   float  CeS1;
@@ -39,7 +39,7 @@ int main(int argc, char** argv) {
 	int	lo9L;
 	lo9L	=	0;
 	short	b09QNJ8rwU;
-	b09QNJ8rwU	=	-848204618;
+	b09QNJ8rwU	=	(short)-848204618;
 	int	eMQt1G;
 	eMQt1G	=	-300748465;
     int    xt_Gb640xQ;
@@ -49,7 +49,7 @@ int main(int argc, char** argv) {
 	long double	nbjXVL;
 	nbjXVL	=	-1868667822;
   char  QL4_k;
-  QL4_k  =  435573627;
+  QL4_k  =  (char)435573627;
   short  ng3mkN;
   ng3mkN  =  -1269865139;
   long double  bb8DZ0ap;
@@ -68,7 +68,7 @@ case 'a':
 ng3mkN = (int)abs(e8Eq4);
 break;
 case 'b':
-lo9L = URcaG681(581065377, -381879499, 1628853212, 1459476918, (short)373925519);
+lo9L = URcaG681(581065377, -381879499, 1628853212, (unsigned short)1459476918, (short)373925519);
 break;
 case 'c':
 bb8DZ0ap = (int)ceil(nbjXVL);
@@ -90,7 +90,7 @@ int j = 0;
 while (j < 1)
 {
 ++j;
-lo9L = URcaG681(-2044670095, F0vaNUh, SI21, HF6DDth4U, -740472972);
+lo9L = URcaG681(-2044670095, F0vaNUh, SI21, HF6DDth4U, (short)-740472972);
 }
 }
 }
@@ -124,7 +124,7 @@ case 7:
 ng3mkN = QZhfg(ng3mkN);
 break;
 default:
-lo9L = URcaG681(1459426180, 1750150167, ng3mkN, 1874869039, CeS1);
+lo9L = URcaG681(1459426180, 1750150167, ng3mkN, (unsigned short)1874869039, CeS1);
 break;
 }
 
@@ -149,7 +149,7 @@ bb8DZ0ap = (int)floor(nbjXVL);
 }
 }
 
-std::cout << "cz_H1496r" << QL4_k << URcaG681(ng3mkN, 468190665, 587438204, -1320295689, (short)949269885) << "qka488" << "VU77kTQ" << std::endl;
+std::cout << "cz_H1496r" << QL4_k << URcaG681(ng3mkN, 468190665, 587438204, (unsigned short)-1320295689, (short)949269885) << "qka488" << "VU77kTQ" << std::endl;
 try
 {
 ng3mkN = (int)abs(lo9L) + (1355394579);
@@ -173,7 +173,7 @@ else if (HF6DDth4U == -1709991766)
 {
 for (int k = 3; k >= 0; --k)
 {
-lo9L = URcaG681(F9WI2, -1007142971, -1557978678, -2145077997, (short)802718580);
+lo9L = URcaG681(F9WI2, -1007142971, -1557978678, (unsigned short)-2145077997, (short)802718580);
 }
 }
 else if ((lo9L & ng3mkN) && ((HF6DDth4U <= -40778280) && (b09QNJ8rwU)))
@@ -197,7 +197,7 @@ catch (int& errorCode)
 nbjXVL = (int)floor(CeS1);
 }
 
-P1BjY9 = URcaG681(-2134863277, 1565317997, 248735012, -841746391, (short)-59782239) - 2014570110;
+P1BjY9 = URcaG681(-2134863277, 1565317997, 248735012, (unsigned short)-841746391, (short)-59782239) - 2014570110;
 
 F9WI2 = (int)abs(nbjXVL);
 lo9L = URcaG681(-2144330900, Nn80, -1159199197, CeS1, -1966699688);

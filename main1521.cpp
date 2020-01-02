@@ -108,7 +108,7 @@ case 3:
 pC0FZ02 = VtH02f(pC0FZ02, -1858561232);
 break;
 case 4:
-lF8k27v9 = YWkzy(-507696259, lF8k27v9, (short)-2146415131);
+lF8k27v9 = YWkzy((char)-507696259, lF8k27v9, (short)-2146415131);
 break;
 case 5:
 rovvkuoG9 = VtH02f(rovvkuoG9, fI0WDt);
@@ -119,7 +119,7 @@ break;
 }
 }
 
-r_sX5Y77_3 = VtH02f(880208759, Kr6emN4M);
+r_sX5Y77_3 = VtH02f((unsigned short)880208759, Kr6emN4M);
 
 try
 {
@@ -164,7 +164,7 @@ int k = 0;
 while (k < 1)
 {
 k++;
-SqhQ5gcuUi = YWkzy(iU_OgY, -647523078, D9L3v_);
+SqhQ5gcuUi = YWkzy(iU_OgY, (short)-647523078, D9L3v_);
 }
 }
 }
@@ -212,7 +212,7 @@ case 'e':
 h_x82T = YL1MK5by2();
 break;
 case 'f':
-I1_YdJ = YWkzy(802405020, (short)-1204133978, IhCcK);
+I1_YdJ = YWkzy((char)802405020, (short)-1204133978, IhCcK);
 break;
 case 'g':
 IhCcK = rlB5g(IhCcK, 941334171, V2YI8NX, 1428357822, -1096695470);
@@ -313,7 +313,7 @@ case 'c':
 iGtD3--;
 break;
 case 'd':
-Ff8QG_h = YWkzy(ZU_zQ, 1111469268, pC0FZ02);
+Ff8QG_h = YWkzy(ZU_zQ, (short)1111469268, pC0FZ02);
 break;
 case 'e':
 Sj9G14 %= RTN7;
@@ -369,7 +369,7 @@ catch (int& errorCode)
 {
 ZU_zQ = YL1MK5by2();
 }
-c1x_ = Wu8iL / YWkzy(142834, (short)-450510603, 518674036);
+c1x_ = Wu8iL / YWkzy((char)142834, (short)-450510603, 518674036);
 
 std::cout << "SE6Wo" << std::endl;
 
@@ -431,7 +431,7 @@ case 0:
 Wu8iL = TsI_I8m | f78x11cu_;
 break;
 case 1:
-I1_YdJ = YWkzy(-910025720, (short)-807060937, 336575754);
+I1_YdJ = YWkzy((char)-910025720, (short)-807060937, 336575754);
 break;
 }
 
@@ -444,7 +444,7 @@ for (int j = 0; j < 4; j++)
 int k = 0;
 do
 {
-Gk26gN5S = rlB5g(-622531630, -419151251, (short)-1279231395, lF8k27v9, -1351062502);
+Gk26gN5S = rlB5g((unsigned char)-622531630, -419151251, (short)-1279231395, lF8k27v9, -1351062502);
 ++k;
 }
 while (k < 4);
@@ -457,7 +457,7 @@ switch (p4SGNZP1)
 {
 case 'a':
 case 'A':
-Ff8QG_h = YWkzy(-354904782, (short)1961452039, -491179190);
+Ff8QG_h = YWkzy((char)-354904782, (short)1961452039, -491179190);
 break;
 case 'b':
 case 'B':
@@ -469,7 +469,7 @@ JL143M = VtH02f(1475924507, -1065029310);
 break;
 case 'd':
 case 'D':
-Rl1GL_006 = VtH02f(1110349397, w39T70ba);
+Rl1GL_006 = VtH02f((unsigned short)1110349397, w39T70ba);
 break;
 case 'e':
 case 'E':
@@ -516,7 +516,7 @@ if (UX8WK)
 {
 if (V2YI8NX < -863730010)
 {
-std::cout << "A_zaFLq" << "pB5AG" << "aYDod" << o7ZWd << YWkzy(193712175, h_x82T, (short)-149580896) << std::endl;
+std::cout << "A_zaFLq" << "pB5AG" << "aYDod" << o7ZWd << YWkzy((char)193712175, h_x82T, (short)-149580896) << std::endl;
 }
 else if ((o7ZWd > -726976435) || (IhCcK > EJDq4L75JH))
 {
@@ -526,7 +526,7 @@ else if (P32geGvK <= iU_OgY)
 {
 if (I1_YdJ < 666239437)
 {
-S417Jrzo7 = VtH02f(1032729267, 2141052163);
+S417Jrzo7 = VtH02f((unsigned short)1032729267, 2141052163);
 }
 }
 else if (Se67p)
@@ -607,7 +607,7 @@ std::cout << "d87N06x7_R" << "k_015JI76" << D1hWdp << std::endl;
 }
 else if (((EcG9V < rz_Hv8) || (L0Cm6n5n)) || (U_ODR == 466500958))
 {
-pC0FZ02 = rlB5g(pC0FZ02, Q7WaR, -1467483496, Iz7XEXD2Ki, lF8k27v9);
+pC0FZ02 = rlB5g(pC0FZ02, Q7WaR, (short)-1467483496, Iz7XEXD2Ki, lF8k27v9);
 }
 else if (Q7WaR > 1282404232)
 {
@@ -644,7 +644,7 @@ else if (dHVp5jyV != 1417165209)
 {
 if (EcG9V != w39T70ba)
 {
-RTN7 = rlB5g(RTN7, 1534078060, -1483112025, -550328658, EcG9V);
+RTN7 = rlB5g(RTN7, 1534078060, (short)-1483112025, -550328658, EcG9V);
 }
 else
 {
@@ -710,7 +710,7 @@ else
 {
 if ((w39T70ba < -506669497) || (Q7WaR < 568313779))
 {
-S417Jrzo7 = YWkzy(-1794823425, iGtD3, (short)-1835905760) + 1010668330;
+S417Jrzo7 = YWkzy((char)-1794823425, iGtD3, (short)-1835905760) + 1010668330;
 }
 }
 }
@@ -725,7 +725,7 @@ char YWkzy(char X21y1HXCG,short int Z_o5,short YfL6_y)
 
 unsigned char    rlB5g(unsigned char    RxO3gQ7,unsigned long long    FZyp2,short int    egfpSl3W0W,int    F6A1n8,unsigned short int    c9ATP)
 {
-    return    1234001886;
+    return    (unsigned char)1234001886;
 }
 
 short int    M10Xe()
@@ -738,6 +738,6 @@ unsigned long    YL1MK5by2()    {
 }
 
 unsigned short VtH02f(unsigned short vM127_e_,unsigned int OXaA5244) {
- return 99607045;
+ return (unsigned short)99607045;
 }
 

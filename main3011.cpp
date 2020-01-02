@@ -243,7 +243,7 @@ short IgZy_3NW4() {
 
 unsigned short int  M5S123()
 {
-  return  885376597;
+  return  (unsigned short)885376597;
 }
 
 unsigned short WDw6zTQ()

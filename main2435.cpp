@@ -32,7 +32,7 @@ int main(int argc, char** argv)
     unsigned int    GH_vc,    xbDa082fJL,    QO8p_,    z43gw,    ckxQS9vi0;
         GH_vc    =    xbDa082fJL    =    QO8p_    =    z43gw    =    ckxQS9vi0    =    0;
 
-h7FFP = r26l6iK(h7FFP, 1555241668, stce5V4f2, FO11_s20Ex);
+h7FFP = r26l6iK(h7FFP, (short)1555241668, stce5V4f2, FO11_s20Ex);
 g76a10M = (unsigned long long)(OzXj2p);
 
 if (Xfhq6u2d <= 113167661)
@@ -72,7 +72,7 @@ do
 {
 if (((ckxQS9vi0 == Xfhq6u2d) && (hrG6 > 810253613)) || ((y0tsK == 473733506) && (kVF8X3gCl4)))
 {
-VhLs7l3 = r26l6iK(367031224, r2YcAOl, C6M9J5, Qzoqd0_eA);
+VhLs7l3 = r26l6iK((short)367031224, r2YcAOl, C6M9J5, Qzoqd0_eA);
 }
 j--;
 }
@@ -90,7 +90,7 @@ else if (hrG6 == GAl_Gn0B)
 {
 for (int j = 0; j < 4; ++j)
 {
-std::cout << r26l6iK(-2022497852, (short)-1698083124, C6M9J5, 1764953474) << tM1pH << "b3EE" << xbDa082fJL << std::endl;
+std::cout << r26l6iK((short)-2022497852, (short)-1698083124, C6M9J5, 1764953474) << tM1pH << "b3EE" << xbDa082fJL << std::endl;
 }
 }
 else if (VhLs7l3 < 766200598)
@@ -120,7 +120,7 @@ case 'b':
 eoSM74++;
 break;
 case 'c':
-ft72jm = r26l6iK(ft72jm, -1459879843, vvQc_K5cC, (unsigned short)-1851883876);
+ft72jm = r26l6iK(ft72jm, (short)-1459879843, vvQc_K5cC, (unsigned short)-1851883876);
 break;
 case 'd':
 K9pO1S93 = p0aAyv(1265516981, 857300684, 1388682772, -1852296623);
@@ -139,7 +139,7 @@ do
 {
 if (((v8Jn <= C6M9J5) || (v8Jn != -1770343558)) || ((dKE_ <= GH_vc) || (DGS8c >= h7FFP)))
 {
-y0tsK = f_G22(-902904281);
+y0tsK = f_G22((char)-902904281);
 }
 else
 {
@@ -196,7 +196,7 @@ if ((vvQc_K5cC == S_ZtIH) || (tFjf981 < OzXj2p))
 switch (ckxQS9vi0)
 {
 case 0:
-PB8O__ = r26l6iK(z43gw, PB8O__, y0tsK, 814635810);
+PB8O__ = r26l6iK(z43gw, PB8O__, y0tsK, (unsigned short)814635810);
 break;
 case 1:
 B5d31w_Mt = f_G22((char)369457847);
@@ -225,7 +225,7 @@ H62J--;
 switch (vt4LmEAIt2)
 {
 case 'a':
-U0X08dW = f_G22(-1697468637);
+U0X08dW = f_G22((char)-1697468637);
 break;
 case 'b':
 h7FFP = f_G22((char)1907703921);
@@ -237,7 +237,7 @@ case 'd':
 kvA3++;
 break;
 case 'e':
-lz_UA3cg = p0aAyv(lz_UA3cg, C1hiVJ5o, 720946423, 543866141);
+lz_UA3cg = p0aAyv(lz_UA3cg, C1hiVJ5o, (unsigned char)720946423, 543866141);
 break;
 }
 {
@@ -270,7 +270,7 @@ long    f_G22(char    g192_QG)
 
 unsigned char    r26l6iK(short    x9Kz,short int    no0K_wS1_7,unsigned long long    Q30TA1Mg4,unsigned short    oG6AHQ6eLj)
 {
-    return    1612313445;
+    return    (unsigned char)1612313445;
 }
 
 unsigned char  roE_HM()

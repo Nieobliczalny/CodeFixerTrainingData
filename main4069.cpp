@@ -16,7 +16,7 @@ long long    k98jlKUP5(long    T1oU93m9,unsigned int    yYkI5Yi2S5,unsigned long
 int main(void) {
  float uDrMqFCab = 486894405;
   long long  yN0x  =  -48073736;
-    short int    VgU2sb_42    =    879687732;
+    short int    VgU2sb_42    =    (short)879687732;
 	long	TIMpQ4A6	=	-155843164;
  unsigned short int r71ht75x = (unsigned short)443127477;
   unsigned int  O4iV  =  -941219821;
@@ -29,7 +29,7 @@ int main(void) {
   unsigned long  n0_i86B  =  2049825855;
     unsigned int    gf1oKPqpz    =    -500998723;
 	long	vU9__ni	=	1350918863;
-    unsigned short    Z8RTK    =    574849150;
+    unsigned short    Z8RTK    =    (unsigned short)574849150;
 	unsigned short	RJsjUNV1Ad	=	(unsigned short)209486028;
 	long long	j04kbB	=	1117072961;
     double    q5fQxB    =    -484331960;
@@ -39,7 +39,7 @@ int main(void) {
 	unsigned int	rB4YI_f4p	=	0;
   long long  Img4KHqS09  =  1562427425;
     int    Owu96    =    1832517891;
-	unsigned short	Zo65u	=	1831263399;
+	unsigned short	Zo65u	=	(unsigned short)1831263399;
   float  UX_k_5QXcW  =  -408769985;
  short int VNh4ZH__JA = (short)-1839584635;
 	long	vdX9	=	-670536169;
@@ -51,7 +51,7 @@ int main(void) {
   long  U8ip1eAPJu  =  1686549110;
 	unsigned long long	ri45Sh5X	=	20262677;
   double  h_nm  =  -1864735339;
-	unsigned short int	eNqS	=	-253397220;
+	unsigned short int	eNqS	=	(unsigned short)-253397220;
 	long long	m2ki_	=	568382251;
     unsigned long long    DUpMyO    =    1555830232;
 	unsigned long long	A18899_8I	=	-774449256;
@@ -81,7 +81,7 @@ switch (Zo65u)
 {
 case 'a':
 case 'A':
-RJsjUNV1Ad = PI_1T6s6(RJsjUNV1Ad, -2006151482, -121347228);
+RJsjUNV1Ad = PI_1T6s6(RJsjUNV1Ad, (unsigned short)-2006151482, -121347228);
 break;
 case 'b':
 case 'B':
@@ -120,7 +120,7 @@ break;
 int i = 0;
 do
 {
-UX_k_5QXcW = PI_1T6s6(UX_k_5QXcW, 1307942182, BF3c0H2FB5);
+UX_k_5QXcW = PI_1T6s6(UX_k_5QXcW, (unsigned short)1307942182, BF3c0H2FB5);
 ++i;
 }
 while (i < 1);
@@ -157,7 +157,7 @@ case 'c':
 h_nm = (int)floor(q5fQxB);
 break;
 case 'd':
-s7c_M3 = l5Efa(1510995198, 853872473, 320819638);
+s7c_M3 = l5Efa(1510995198, 853872473, (unsigned short)320819638);
 break;
 case 'e':
 q5fQxB = (int)floor(gdjX97);
@@ -187,7 +187,7 @@ case 3:
 DUpMyO = PI_1T6s6(DUpMyO, DS87, 688285461);
 break;
 case 4:
-Zo65u = PI_1T6s6(1078189276, 730409935, 1186327968);
+Zo65u = PI_1T6s6(1078189276, (unsigned short)730409935, 1186327968);
 break;
 case 5:
 rB4YI_f4p = l5Efa(VgU2sb_42, -845422924, (unsigned short)-754520848);

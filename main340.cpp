@@ -18,7 +18,7 @@ int main() {
 	short int	D8OP;
 	D8OP	=	0;
 	unsigned short int	FO46M04;
-	FO46M04	=	1746987920;
+	FO46M04	=	(unsigned short)1746987920;
     unsigned int    SwzZ;
     SwzZ    =    -1167026829;
 
@@ -28,7 +28,7 @@ if (((SwzZ > -169653342) || (FO46M04)) && (D8OP >= SwzZ))
 {
 for (int k = 0; k < 5; ++k)
 {
-SwzZ = LXmfwE(-1901347327, D8OP, (unsigned short)-424856369, -1542248123);
+SwzZ = LXmfwE((unsigned short)-1901347327, D8OP, (unsigned short)-424856369, -1542248123);
 }
 }
 }
@@ -43,7 +43,7 @@ FO46M04 = D8OP ^ 1503395542;
 }
 else
 {
-SwzZ = LXmfwE(-1596195151, 1824973938, (unsigned short)977175069, 1592841227);
+SwzZ = LXmfwE((unsigned short)-1596195151, 1824973938, (unsigned short)977175069, 1592841227);
 }
 }
 {
@@ -65,7 +65,7 @@ if (((D8OP) && (SwzZ != 54086633)) && (FO46M04 > -514797817))
 {
 try
 {
-D8OP = dMD4BX(SwzZ, D8OP, 798336940, -1324994242, (char)1014867469);
+D8OP = dMD4BX(SwzZ, D8OP, 798336940, (unsigned short)-1324994242, (char)1014867469);
 }
 catch (int& errorCode)
 {
@@ -106,7 +106,7 @@ i++;
 
 if (FO46M04 > 1829973092)
 {
-std::cout << "R54Y" << D8OP << FO46M04 << dMD4BX(1767204218, SwzZ, D8OP, -1678807996, (char)-807011084) << std::endl;
+std::cout << "R54Y" << D8OP << FO46M04 << dMD4BX(1767204218, SwzZ, D8OP, (unsigned short)-1678807996, (char)-807011084) << std::endl;
 }
 else
 {
@@ -134,7 +134,7 @@ do
 {
 if ((FO46M04 != 658689071) && ((SwzZ == D8OP) && (SwzZ & -1055515318)))
 {
-SwzZ = LXmfwE(1497126135, -626443582, (unsigned short)1954683140, 1042322402);
+SwzZ = LXmfwE((unsigned short)1497126135, -626443582, (unsigned short)1954683140, 1042322402);
 }
 else
 {
@@ -185,7 +185,7 @@ break;
 }
 else
 {
-D8OP = dMD4BX(SwzZ, 1980923256, D8OP, (unsigned short)2070397799, -1025379085);
+D8OP = dMD4BX(SwzZ, (short)1980923256, D8OP, (unsigned short)2070397799, -1025379085);
 }
 }
 else
@@ -198,7 +198,7 @@ else if (SwzZ == -2017821091)
 {
 try
 {
-FO46M04 = LXmfwE(218387639, D8OP, SwzZ, 5656142);
+FO46M04 = LXmfwE((unsigned short)218387639, D8OP, SwzZ, 5656142);
 }
 catch (int& errorCode)
 {
@@ -213,7 +213,7 @@ else if (SwzZ == -633773121)
 {
 if (FO46M04 < SwzZ)
 {
-FO46M04 = LXmfwE(D8OP, FO46M04, 1158300842, -1928590629);
+FO46M04 = LXmfwE(D8OP, FO46M04, (unsigned short)1158300842, -1928590629);
 }
 }
 else if ((SwzZ) && (FO46M04 >= D8OP))
@@ -230,7 +230,7 @@ FO46M04 += 1873814113;
 break;
 case 'b':
 case 'B':
-FO46M04 = LXmfwE(773117614, -2087687215, (unsigned short)1568114613, 613670913);
+FO46M04 = LXmfwE((unsigned short)773117614, -2087687215, (unsigned short)1568114613, 613670913);
 break;
 case 'c':
 case 'C':
@@ -263,7 +263,7 @@ FO46M04 = Y7F1FY_() / 1221994743;
 }
 else
 {
-FO46M04 = LXmfwE(-256268311, D8OP, (unsigned short)-1859164784, -38042148);
+FO46M04 = LXmfwE((unsigned short)-256268311, D8OP, (unsigned short)-1859164784, -38042148);
 }
 }
 ++i;
@@ -289,7 +289,7 @@ FO46M04 = LXmfwE(-101246873, 1245244999, 673356595, -2051427369);
 }
 }
 
-std::cout << LXmfwE(FO46M04, SwzZ, -1882619665, -1234798789) / D8OP << std::endl;
+std::cout << LXmfwE(FO46M04, SwzZ, (unsigned short)-1882619665, -1234798789) / D8OP << std::endl;
 if (FO46M04 == SwzZ)
 {
 FO46M04 = Y7F1FY_();
@@ -309,7 +309,7 @@ while (j >= 0)
 {
 if (FO46M04 == 1548239099)
 {
-D8OP = dMD4BX(FO46M04, -283917573, 1663223941, (unsigned short)-567536027, -1656656072);
+D8OP = dMD4BX(FO46M04, (short)-283917573, 1663223941, (unsigned short)-567536027, -1656656072);
 }
 --j;
 }
@@ -337,7 +337,7 @@ switch (D8OP)
 {
 case 'a':
 case 'A':
-SwzZ = LXmfwE(SwzZ, FO46M04, 325881246, -1125834582);
+SwzZ = LXmfwE(SwzZ, FO46M04, (unsigned short)325881246, -1125834582);
 break;
 case 'b':
 case 'B':
@@ -349,7 +349,7 @@ D8OP = dMD4BX(-1779339133, (short)599405574, D8OP, 621950581, -1311045882);
 break;
 case 'd':
 case 'D':
-D8OP = dMD4BX(726569109, SwzZ, D8OP, 564418930, -10683414);
+D8OP = dMD4BX(726569109, SwzZ, D8OP, (unsigned short)564418930, -10683414);
 break;
 case 'e':
 case 'E':
@@ -366,7 +366,7 @@ if (D8OP >= SwzZ)
 {
 if (((D8OP == 85706312) && (D8OP)) && ((D8OP != -1527352260) || (D8OP != -1515765446)))
 {
-D8OP = dMD4BX(1042133466, FO46M04, SwzZ, -829181266, (char)-393586259);
+D8OP = dMD4BX(1042133466, FO46M04, SwzZ, (unsigned short)-829181266, (char)-393586259);
 }
 }
 }
@@ -387,7 +387,7 @@ case 3:
 SwzZ -= 145984232;
 break;
 case 4:
-FO46M04 = LXmfwE(FO46M04, -1225888449, -702214778, -1330451764);
+FO46M04 = LXmfwE(FO46M04, -1225888449, (unsigned short)-702214778, -1330451764);
 break;
 case 5:
 FO46M04 |= SwzZ;
@@ -444,7 +444,7 @@ case 0:
 SwzZ <<= 901790628;
 break;
 case 1:
-SwzZ = LXmfwE(-282714123, 1596796820, D8OP, 905058334);
+SwzZ = LXmfwE((unsigned short)-282714123, 1596796820, D8OP, 905058334);
 break;
 case 2:
 D8OP = dMD4BX(SwzZ, (short)-403794903, D8OP, -1918483997, 1858503257);
@@ -466,7 +466,7 @@ FO46M04 = Y7F1FY_();
 int i = 0;
 do
 {
-std::cout << "a41ai" << LXmfwE(D8OP, -630121302, SwzZ, 1329411112) << dMD4BX(D8OP, FO46M04, -2079788282, -353961248, (char)796090220) << SwzZ << "QZ209_" << std::endl;
+std::cout << "a41ai" << LXmfwE(D8OP, -630121302, SwzZ, 1329411112) << dMD4BX(D8OP, FO46M04, -2079788282, (unsigned short)-353961248, (char)796090220) << SwzZ << "QZ209_" << std::endl;
 i++;
 }
 while (i < 1);
@@ -513,7 +513,7 @@ case 'd':
 FO46M04 ^= 744168276;
 break;
 case 'e':
-SwzZ = LXmfwE(SwzZ, -284660677, -1522737913, 1050684520);
+SwzZ = LXmfwE(SwzZ, -284660677, (unsigned short)-1522737913, 1050684520);
 break;
 default:
 FO46M04 = D8OP - D8OP;

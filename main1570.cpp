@@ -17,7 +17,7 @@ using std::floor;
 int main(void)
 {
 	short	MJew1rD1O1,	bHkc,	o7t3n28,	W71nZN5,	PAvz3s0gV,	e72Um_88Ni,	bocN97,	el3xTz7,	Q118c3,	HE1Xi5T,	EmeEx,	ac9KRoo,	UjgSbx2ObM,	lQ7F5D,	nQr4,	A7szJzEG,	ok2qX,	BVqP;
-		MJew1rD1O1	=	bHkc	=	o7t3n28	=	W71nZN5	=	PAvz3s0gV	=	e72Um_88Ni	=	bocN97	=	el3xTz7	=	Q118c3	=	HE1Xi5T	=	EmeEx	=	ac9KRoo	=	UjgSbx2ObM	=	lQ7F5D	=	nQr4	=	A7szJzEG	=	ok2qX	=	BVqP	=	25487775;
+		MJew1rD1O1	=	bHkc	=	o7t3n28	=	W71nZN5	=	PAvz3s0gV	=	e72Um_88Ni	=	bocN97	=	el3xTz7	=	Q118c3	=	HE1Xi5T	=	EmeEx	=	ac9KRoo	=	UjgSbx2ObM	=	lQ7F5D	=	nQr4	=	A7szJzEG	=	ok2qX	=	BVqP	=	(short)25487775;
     unsigned int    dJOnz3R3,    aq4tEQ,    MY0U1_Y1;
         dJOnz3R3    =    aq4tEQ    =    MY0U1_Y1    =    0;
 
@@ -107,7 +107,7 @@ bHkc = (int)abs(HE1Xi5T);
 }
 else
 {
-ac9KRoo = (dJOnz3R3 >= -1692946780) ? -1965917737 : (short)-2077490221;
+ac9KRoo = (dJOnz3R3 >= -1692946780) ? (short)-1965917737 : (short)-2077490221;
 }
 }
 

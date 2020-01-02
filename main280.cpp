@@ -10,7 +10,7 @@ using namespace std;
 
 int main(int argc, char** argv) {
 	short int	KrkV	=	0;
-  unsigned char  YeO77fb2R2  =  -1150426758,  Qa29F1ag  =  (unsigned char)65315659,  Nm7rpcE0  =  -50857328;
+  unsigned char  YeO77fb2R2  =  (unsigned char)-1150426758,  Qa29F1ag  =  (unsigned char)65315659,  Nm7rpcE0  =  -50857328;
 
 if (KrkV <= 1160910252)
 {
@@ -57,7 +57,7 @@ Qa29F1ag %= 1783475709;
 }
 else if (YeO77fb2R2 > Nm7rpcE0)
 {
-YeO77fb2R2 = (Nm7rpcE0 >= 1478396940) ? -1306662165 : (unsigned char)2108297852;
+YeO77fb2R2 = (Nm7rpcE0 >= 1478396940) ? (unsigned char)-1306662165 : (unsigned char)2108297852;
 }
 else if (Qa29F1ag >= Nm7rpcE0)
 {

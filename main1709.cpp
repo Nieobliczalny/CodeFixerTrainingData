@@ -13,7 +13,7 @@ using std::ceil;
 using std::floor;
 
 short int    w4_Ajw(unsigned short int    L9t3B0pZX6)    {
-    return    -1076895031;
+    return    (short)-1076895031;
 }
 
 short eTqpfhNY(int yi61EvkJ_,long om9cD65u,unsigned char VpY4_,unsigned short int LjRe) {
@@ -32,7 +32,7 @@ short int  zV7ZgBi52(unsigned long  ROv21_d9,int  RJe4ALZ)  {
 int main(void)
 {
     unsigned int    QfcZ9I8npM    =    1047892741;
-    short    gQ46l4    =    -710061148;
+    short    gQ46l4    =    (short)-710061148;
 	unsigned long long	W89_w6_e	=	-1276662067;
   long double  dDrqD40B9  =  223062694;
     unsigned char    TUU8d23jDQ    =    (unsigned char)-1630689278;
@@ -44,7 +44,7 @@ int main(void)
  short ze6Zv = -1697659982;
 	int	ikTOYS0G8d	=	1857383445;
 	double	No6x9	=	-702931186;
-	short	crk4	=	-1387922832;
+	short	crk4	=	(short)-1387922832;
 	float	ZTCAa	=	-146056439;
     float    U86pxtfgFj    =    -1661431801;
   unsigned char  dO9p40Sg  =  (unsigned char)403546350;
@@ -58,7 +58,7 @@ int main(void)
     unsigned long    Y3Igk    =    -899369622;
 	double	b56XX	=	-966342943;
 	long	QY5Zu	=	-275106158;
- char AUCds = -903916707;
+ char AUCds = (char)-903916707;
  unsigned char iZxs_m = (unsigned char)807656549;
 	short	e16pEl9o0	=	505813613;
   long double  WL99KXFc43  =  -1109948886;
@@ -72,7 +72,7 @@ int main(void)
   long  sOjl20  =  218884214;
  double gsLf = -1164039524;
 	unsigned short	cpmj9O5J6	=	0;
-  unsigned short int  T0ClIbo  =  -1076432556;
+  unsigned short int  T0ClIbo  =  (unsigned short)-1076432556;
 	long long	gg609n	=	148156213;
  short int Mv2p_G0 = (short)1485521315;
   int  R0966N  =  -1135338076;
@@ -84,7 +84,7 @@ int main(void)
     double    J939YdX_xI    =    -1749042139;
  long epk9A = -1796851739;
  long lFZ9q = -405197378;
-  unsigned char  opb3r5oy  =  -844790994;
+  unsigned char  opb3r5oy  =  (unsigned char)-844790994;
 	unsigned char	ITaHZs5rSx	=	(unsigned char)-1296188149;
  int XTunq = -237034043;
   unsigned char  hG4E6Zm9bj  =  -1094104526;
@@ -95,7 +95,7 @@ int main(void)
     long    hI0l    =    -504821243;
   short int  t_Neyp  =  -942942011;
  double U03_2071V = 229818731;
-	unsigned short	E5hlRUIi_K	=	-1776955775;
+	unsigned short	E5hlRUIi_K	=	(unsigned short)-1776955775;
     short int    UNmUxd    =    (short)-1294885127;
   unsigned short  LavZ_KTb  =  -654340599;
     short    Hn_xA1Bg8W    =    -734384487;
@@ -119,7 +119,7 @@ j++;
 int k = 2;
 while (k >= 0)
 {
-VuKVM9W = vOd92Y(218300193, (short)1893356583) * AUCds;
+VuKVM9W = vOd92Y((short)218300193, (short)1893356583) * AUCds;
 --k;
 }
 }
@@ -130,7 +130,7 @@ try
 {
 try
 {
-std::cout << eTqpfhNY(rW3S, -1146401711, 1462070794, (unsigned short)-478027843) << "ZeG960H" << J939YdX_xI << w4_Ajw(rW3S) << "lckA" << std::endl;
+std::cout << eTqpfhNY(rW3S, -1146401711, (unsigned char)1462070794, (unsigned short)-478027843) << "ZeG960H" << J939YdX_xI << w4_Ajw(rW3S) << "lckA" << std::endl;
 }
 catch (int& errorCode)
 {
@@ -182,7 +182,7 @@ hI0l ^= 1947837399;
 break;
 case 'j':
 case 'J':
-iZxs_m = eTqpfhNY(iZxs_m, e16pEl9o0, XA366H98e, -1042333686);
+iZxs_m = eTqpfhNY(iZxs_m, e16pEl9o0, XA366H98e, (unsigned short)-1042333686);
 break;
 }
 if (qt9dvdyl1)
@@ -205,7 +205,7 @@ do
 ++j;
 for (int k = 10; k >= 0; --k)
 {
-qt9dvdyl1 = vOd92Y(EV6_7_, -1770558067) >> 290977504;
+qt9dvdyl1 = vOd92Y(EV6_7_, (short)-1770558067) >> 290977504;
 }
 }
 while (j < 2);
@@ -243,7 +243,7 @@ gQ46l4 |= dO9p40Sg;
 
 std::cout << 1288087986 / zV7ZgBi52(221120309, 902884674) << std::endl;
 
-std::cout << w4_Ajw(-2038721619) << std::endl;
+std::cout << w4_Ajw((unsigned short)-2038721619) << std::endl;
 
 XA366H98e = (int)abs(epk9A);
 try
@@ -279,7 +279,7 @@ cpmj9O5J6 = zV7ZgBi52(-1091124595, -785483373);
 }
 else
 {
-Mp2ocV8Ny = vOd92Y(1734372276, (short)-347067569) / 1040694459;
+Mp2ocV8Ny = vOd92Y((short)1734372276, (short)-347067569) / 1040694459;
 }
 }
 }
@@ -300,7 +300,7 @@ i++;
 }
 }
 
-XA366H98e = vOd92Y(XA366H98e, -1052638750);
+XA366H98e = vOd92Y(XA366H98e, (short)-1052638750);
 {
 int i = 0;
 while (i < 10)
@@ -312,7 +312,7 @@ do
 j--;
 try
 {
-VuKVM9W = w4_Ajw(-1511433467);
+VuKVM9W = w4_Ajw((unsigned short)-1511433467);
 }
 catch (int& errorCode)
 {

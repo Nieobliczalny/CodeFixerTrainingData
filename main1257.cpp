@@ -96,7 +96,7 @@ break;
 
 try
 {
-B183 = z26C(-459522346, 302653170, -1461089167);
+B183 = z26C(-459522346, 302653170, (short)-1461089167);
 }
 catch (int& errorCode)
 {
@@ -133,7 +133,7 @@ catch (int& errorCode)
 {
 eO0JvRNwA_ = (int)abs(Y_2_SbD);
 }
-p_21 = z26C(wkb1, -2078954131, 1517769446);
+p_21 = z26C(wkb1, -2078954131, (short)1517769446);
 
 for (int i = 0; i < 2; ++i)
 {
@@ -151,7 +151,7 @@ case 2:
 g3WKS_ = (int)ceil(Tb1506JMi);
 break;
 case 3:
-WB30Cvb = Qb4CfaW_D7(-1348533615, -2127944159, ee6D);
+WB30Cvb = Qb4CfaW_D7((short)-1348533615, -2127944159, ee6D);
 break;
 case 4:
 ee6D = fZsmv4Wy * 288515748;
@@ -193,7 +193,7 @@ case 'c':
 uH6F = (p_21 >= -913338506) ? z26C(1268583786, -2050497851, QEH32) : iTR4Te;
 break;
 }
-W_T9U = Qb4CfaW_D7(-314940838, V49pgID2Q, 2110472183);
+W_T9U = Qb4CfaW_D7((short)-314940838, V49pgID2Q, 2110472183);
 QS52B = (int)floor(qMSS9mcD);
 
 TbP5LdM5Uq = z26C(iTR4Te, -1806155426, uH6F);
@@ -238,6 +238,6 @@ unsigned short z26C(int itIs9k_4,long long wG611qRY,short int X_L3i4A)
 }
 
 char Qb4CfaW_D7(short int S6JqvfA,unsigned long qy5B,long ifDzx5Fx) {
- return 17101135;
+ return (char)17101135;
 }
 

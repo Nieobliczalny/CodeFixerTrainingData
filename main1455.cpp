@@ -17,7 +17,7 @@ unsigned int    AJo9Pu(unsigned long long    ZN310tl8HM,long long    I6eSIdsn);
 int main(void)
 {
     int    E0A4FnPGF    =    0,    G1z09T9bH    =    0,    AC_uiiq    =    0;
-  unsigned char  e1129a_d  =  -1165103100,  Yxo3_H  =  (unsigned char)133226891,  u95NjNlOu  =  -266376391,  GKt3f  =  2020994234,  yVF0_0  =  55792351,  lmr_4  =  -267609823;
+  unsigned char  e1129a_d  =  (unsigned char)-1165103100,  Yxo3_H  =  (unsigned char)133226891,  u95NjNlOu  =  -266376391,  GKt3f  =  2020994234,  yVF0_0  =  55792351,  lmr_4  =  -267609823;
 
 try
 {
@@ -48,7 +48,7 @@ e1129a_d = AJo9Pu(e1129a_d, 165098053);
 break;
 case 'b':
 case 'B':
-AC_uiiq = w2Sj8Ob3(-1872393790, AC_uiiq);
+AC_uiiq = w2Sj8Ob3((short)-1872393790, AC_uiiq);
 break;
 case 'c':
 case 'C':
@@ -175,7 +175,7 @@ case 6:
 G1z09T9bH = (int)abs(E0A4FnPGF);
 break;
 case 7:
-AC_uiiq = w2Sj8Ob3(-519951794, -1435853905);
+AC_uiiq = w2Sj8Ob3((short)-519951794, -1435853905);
 break;
 case 8:
 AC_uiiq = (int)abs(E0A4FnPGF);
@@ -264,7 +264,7 @@ Yxo3_H = Yxo3_H * 2134629472;
 }
 else if (AC_uiiq & QxO_Cwc)
 {
-lmr_4 = (e1129a_d & 732967790) ? lImgKH : 843641101;
+lmr_4 = (e1129a_d & 732967790) ? lImgKH : (unsigned char)843641101;
 }
 else if (Yxo3_H > G1z09T9bH)
 {
@@ -288,7 +288,7 @@ while (i < 2);
 int i = 0;
 while (i < 10)
 {
-G1z09T9bH = w2Sj8Ob3(1455043340, -577156287);
+G1z09T9bH = w2Sj8Ob3((short)1455043340, -577156287);
 ++i;
 }
 }
@@ -355,7 +355,7 @@ E0A4FnPGF = (int)(QxO_Cwc * E0A4FnPGF);
 cout << "JgZCcU9" << "m05l5UE9" << AJo9Pu(G1z09T9bH, Yxo3_H) << e1129a_d << E0A4FnPGF << endl;
 yVF0_0 = (unsigned char)(u95NjNlOu);
 
-E0A4FnPGF = w2Sj8Ob3(1152107757, -2063688898);
+E0A4FnPGF = w2Sj8Ob3((short)1152107757, -2063688898);
 u95NjNlOu -= G1z09T9bH;
 
 if (u95NjNlOu & lImgKH)

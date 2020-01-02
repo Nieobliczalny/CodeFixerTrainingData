@@ -18,7 +18,7 @@ short int  VxFHt(short  noJ5V2C1jJ,unsigned short  BeXG_,unsigned int  P35R7hC) 
 
 unsigned short int N8BtO0_S()
 {
- return -376936924;
+ return (unsigned short)-376936924;
 }
 
 short int w5RlR() {
@@ -37,7 +37,7 @@ int main() {
  int XjDryTq3o;
  XjDryTq3o = -1012182885;
  char RdY9ax7h2;
- RdY9ax7h2 = 366856989;
+ RdY9ax7h2 = (char)366856989;
  unsigned short int A4bJA;
  A4bJA = (unsigned short)-1910530486;
 	unsigned long	t8o5tD;
@@ -51,7 +51,7 @@ int main() {
 	float	l_yS1E;
 	l_yS1E	=	1693494916;
     unsigned short int    Mp9zgaG;
-    Mp9zgaG    =    -1075104758;
+    Mp9zgaG    =    (unsigned short)-1075104758;
     long long    yZv38l;
     yZv38l    =    -342068581;
  int BFFFO2gZ5Y;
@@ -79,7 +79,7 @@ int main() {
   unsigned long long  H4mb;
   H4mb  =  -2095799032;
     unsigned short    kpv3CaY;
-    kpv3CaY    =    1978001723;
+    kpv3CaY    =    (unsigned short)1978001723;
 	char	zj2k;
 	zj2k	=	(char)-471679565;
  unsigned char y8p2wb;
@@ -95,7 +95,7 @@ int main() {
   unsigned long  c04R17bC;
   c04R17bC  =  -1684269996;
   short int  L26f5L9;
-  L26f5L9  =  -523507556;
+  L26f5L9  =  (short)-523507556;
     long long    x4J0;
     x4J0    =    0;
 	unsigned int	k_0JKZUA6F;
@@ -107,7 +107,7 @@ int main() {
 	unsigned long long	K_G1Ef;
 	K_G1Ef	=	-489078124;
 	unsigned short int	B3atvyQh8;
-	B3atvyQh8	=	-25935566;
+	B3atvyQh8	=	(unsigned short)-25935566;
     unsigned long long    pcukq818;
     pcukq818    =    -1540696956;
 
@@ -172,7 +172,7 @@ std::cout << w5RlR() << std::endl;
 int i = 0;
 while (i < 2)
 {
-sePM = VxFHt(-373897889, ylhGqs, 231404716);
+sePM = VxFHt((short)-373897889, ylhGqs, 231404716);
 ++i;
 }
 }
@@ -206,7 +206,7 @@ yZv38l /= qkgFpU_zKM;
 }
 }
 ylhGqs = x4J0 + y8p2wb;
-std::cout << VxFHt(I6qi6N62e, ylhGqs, 1518378538) << w5RlR() << x4cjXUxglc() << VxFHt(1879596372, ylhGqs, yZv38l) << std::endl;
+std::cout << VxFHt(I6qi6N62e, ylhGqs, 1518378538) << w5RlR() << x4cjXUxglc() << VxFHt((short)1879596372, ylhGqs, yZv38l) << std::endl;
 GZPEVOZ5yJ = -1809187360 / VxFHt((short)1304967393, -1050400618, yZv38l);
 {
 int i = 1;

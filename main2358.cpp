@@ -27,7 +27,7 @@ int main(int argc, char** argv) {
     double    C_mQG6;
     C_mQG6    =    -442554459;
  short int J623u_Ok_;
- J623u_Ok_ = -1330278257;
+ J623u_Ok_ = (short)-1330278257;
 	unsigned short	P6U2_XK0;
 	P6U2_XK0	=	(unsigned short)1561970738;
   long double  LqU4RIb_;
@@ -43,7 +43,7 @@ int main(int argc, char** argv) {
 	unsigned long	e98YL24R;
 	e98YL24R	=	-1605624859;
  unsigned short int CJ881Cc8;
- CJ881Cc8 = 623788129;
+ CJ881Cc8 = (unsigned short)623788129;
 	int	I2P_J_a;
 	I2P_J_a	=	1415374490;
  unsigned int fOMv2_QQd;
@@ -57,7 +57,7 @@ int main(int argc, char** argv) {
     long    dz1LkT4Aw;
     dz1LkT4Aw    =    0;
   unsigned char  aGBo8;
-  aGBo8  =  1143134728;
+  aGBo8  =  (unsigned char)1143134728;
  char DQ8kegjB;
  DQ8kegjB = (char)1408208769;
     char    haO_w7_;
@@ -69,7 +69,7 @@ int main(int argc, char** argv) {
   short  t38497_Xq;
   t38497_Xq  =  0;
     char    Fkue0P7;
-    Fkue0P7    =    71025503;
+    Fkue0P7    =    (char)71025503;
     double    BOJsr;
     BOJsr    =    -145071474;
 	long	bucQ_9n;
@@ -79,7 +79,7 @@ int main(int argc, char** argv) {
 	short int	z9t2;
 	z9t2	=	(short)-167772346;
 	char	vwii;
-	vwii	=	-11611082;
+	vwii	=	(char)-11611082;
  long double X97_Z;
  X97_Z = 770017031;
     unsigned long    B655;
@@ -274,7 +274,7 @@ case 'i':
 e98YL24R = aGBo8 | 1909910845;
 break;
 }
-Fkue0P7 = (CJ881Cc8 < 1390375969) ? I2P_J_a : -1198729299;
+Fkue0P7 = (CJ881Cc8 < 1390375969) ? I2P_J_a : (char)-1198729299;
 
 switch (v3dJhc1s_)
 {

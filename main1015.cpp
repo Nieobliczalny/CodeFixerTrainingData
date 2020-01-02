@@ -27,7 +27,7 @@ unsigned long	VnC_3S0js(unsigned short	ZcYjMH,unsigned char	as64q719Fd,long	isd3
 }
 
 unsigned char	IlVpE(unsigned short	ZY67u_q,long	o_9E1,short	h3Hkv6L,unsigned long long	IfIVB,long	iD5KOZ_x1H)	{
-	return	-978773172;
+	return	(unsigned char)-978773172;
 }
 
 long    r_2aE2rDy4(unsigned short    H3jj43,short int    B1tJXWx7w,short int    Uz5JnE4d)    {
@@ -54,7 +54,7 @@ int j = 4;
 while (j >= 0)
 {
 --j;
-G05sD = Q5uDO34_(G05sD, -1902347459, dOx24Z);
+G05sD = Q5uDO34_(G05sD, (char)-1902347459, dOx24Z);
 }
 }
 }
@@ -88,7 +88,7 @@ while (i >= 0);
 switch (pzfXAf)
 {
 case 0:
-G05sD = Pgpf_rWKLW(G05sD, -11161474, FS16b, up9h);
+G05sD = Pgpf_rWKLW(G05sD, (char)-11161474, FS16b, up9h);
 break;
 default:
 G05sD = W12yB0w7 - 830147173;
@@ -113,7 +113,7 @@ T8t14 = (int)abs(RX9_48) + (-1520700386);
 break;
 case 'd':
 case 'D':
-M157Xhab1 = IlVpE(1695906345, M157Xhab1, (short)1520715428, 1749402585, FS16b);
+M157Xhab1 = IlVpE((unsigned short)1695906345, M157Xhab1, (short)1520715428, 1749402585, FS16b);
 break;
 case 'e':
 case 'E':
@@ -130,7 +130,7 @@ case 1:
 b0hi--;
 break;
 case 2:
-FS16b = IlVpE(FS16b, dOx24Z, 1647833143, up9h, 1893007579);
+FS16b = IlVpE(FS16b, dOx24Z, (short)1647833143, up9h, 1893007579);
 break;
 case 3:
 W12yB0w7 = FS16b ^ G05sD;
@@ -145,7 +145,7 @@ case 6:
 M157Xhab1 = up9h % 1992190436;
 break;
 }
-std::cout << Pgpf_rWKLW(W12yB0w7, -1925610491, 1008141206, T8t14) << pzfXAf << W12yB0w7 << r_2aE2rDy4(1437472325, RX9_48, M157Xhab1) << std::endl;
+std::cout << Pgpf_rWKLW(W12yB0w7, (char)-1925610491, 1008141206, T8t14) << pzfXAf << W12yB0w7 << r_2aE2rDy4(1437472325, RX9_48, M157Xhab1) << std::endl;
 
 return 0;
 }

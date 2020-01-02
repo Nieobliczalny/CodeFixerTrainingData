@@ -63,7 +63,7 @@ else if (M95i4Cn > Z08DB1PH0D)
 {
 try
 {
-ZhKk1RtA = KQYvZw(1519435877, BzUj_, (char)979196627, 1947575713, O5dqXYowoV);
+ZhKk1RtA = KQYvZw((unsigned short)1519435877, BzUj_, (char)979196627, 1947575713, O5dqXYowoV);
 }
 catch (int& errorCode)
 {
@@ -89,7 +89,7 @@ cout << "s2_s" << "nxkwd" << endl;
 }
 else
 {
-tlmWhTgi = sjDR2W(542653248, 900568091, (short)-1774074704, Wft_);
+tlmWhTgi = sjDR2W((short)542653248, 900568091, (short)-1774074704, Wft_);
 }
 q4Py7--;
 M95i4Cn = SWOxBdP4(M95i4Cn);
@@ -118,7 +118,7 @@ if (K5H5 == C_95d)
 {
 if (sRG6i != C_95d)
 {
-wpe7azv = sjDR2W(wpe7azv, QX5dF77, 1742596553, B0Yg9reK3D);
+wpe7azv = sjDR2W(wpe7azv, QX5dF77, (short)1742596553, B0Yg9reK3D);
 }
 else if (i8nvr6 == Cn1sL4)
 {
@@ -137,7 +137,7 @@ else
 {
 for (int k = 0; k < 4; k++)
 {
-fCxFU7 = KQYvZw(fCxFU7, t62g607K, -1455155174, (unsigned short)-1725850590, LvHZwz);
+fCxFU7 = KQYvZw(fCxFU7, t62g607K, (char)-1455155174, (unsigned short)-1725850590, LvHZwz);
 }
 }
 }
@@ -162,7 +162,7 @@ else if (F7w9IX9 != -1090476913)
 {
 if ((X9RI8 != C_95d) && (ku5q > nHh4v4))
 {
-nHh4v4 = sjDR2W(nHh4v4, 209592060, 972246773, (unsigned short)1988838089);
+nHh4v4 = sjDR2W(nHh4v4, 209592060, (short)972246773, (unsigned short)1988838089);
 }
 else
 {
@@ -190,7 +190,7 @@ else if (((wkjrQ3Agj) && (F7w9IX9 >= C_95d)) && ((q4Py7 == C_95d) || (JJtuq < 91
 switch (tlmWhTgi)
 {
 case 0:
-yWQ8s6__ = SWOxBdP4(1281614519);
+yWQ8s6__ = SWOxBdP4((unsigned char)1281614519);
 break;
 case 1:
 fCxFU7 /= 902695835;
@@ -240,7 +240,7 @@ else
 {
 if ((F7w9IX9 > 1240568902) || (q4Py7 > C_95d))
 {
-yWQ8s6__ = sjDR2W(yWQ8s6__, JJtuq, 919224805, (unsigned short)170390817);
+yWQ8s6__ = sjDR2W(yWQ8s6__, JJtuq, (short)919224805, (unsigned short)170390817);
 }
 }
 }
@@ -253,7 +253,7 @@ return 0;
 }
 
 char	KQYvZw(unsigned short	oG9at,long long	aLLw1S,char	gx6w,unsigned short int	PslQ0EBa,unsigned short int	QCNbTi)	{
-	return	-1250110824;
+	return	(char)-1250110824;
 }
 
 int SWOxBdP4(unsigned char PpNAx)
@@ -271,6 +271,6 @@ int	sjDR2W(short int	VJ13g72SJk,long long	HeLTo2Ji00,short	mQ6cW4,unsigned short
 
 unsigned short    Q25M()
 {
-    return    1281022371;
+    return    (unsigned short)1281022371;
 }
 

@@ -27,7 +27,7 @@ int main(void)
 
 if (euSnER3 <= -1367210183)
 {
-pr2US0 = ZivQ6(pr2US0, 2123774797, 289227083);
+pr2US0 = ZivQ6(pr2US0, (char)2123774797, 289227083);
 }
 else if ((jcOLdtdkN0 & 1301518589) || (g51s1o4 == RHcg52eW))
 {
@@ -39,7 +39,7 @@ for (int j = 2; j >= 0; --j)
 {
 if (RHcg52eW > -1297766940)
 {
-PGJ2F = ZivQ6(-113020074, (char)1297971690, y0FV);
+PGJ2F = ZivQ6((unsigned short)-113020074, (char)1297971690, y0FV);
 }
 }
 }
@@ -55,7 +55,7 @@ int k = 3;
 do
 {
 k--;
-pr2US0 = ZivQ6(pr2US0, df5W4, -572875966);
+pr2US0 = ZivQ6(pr2US0, df5W4, (short)-572875966);
 }
 while (k >= 0);
 }
@@ -75,7 +75,7 @@ No443NfO--;
 break;
 case 'c':
 case 'C':
-pU_KX = nyF9(pU_KX, 807884773);
+pU_KX = nyF9(pU_KX, (short)807884773);
 break;
 case 'd':
 case 'D':
@@ -110,7 +110,7 @@ catch (int& errorCode)
 gWg7R /= i817;
 }
 }
-std::cout << nyF9(-1503437279, (short)1150491767) << std::endl;
+std::cout << nyF9((unsigned short)-1503437279, (short)1150491767) << std::endl;
 if (jVpAFe5L != cXiM)
 {
 for (int j = 0; j < 5; j++)
@@ -130,7 +130,7 @@ case 3:
 Os_Sep_t = (int)abs(No443NfO);
 break;
 default:
-RHcg52eW = Ja3vMIV(973832651);
+RHcg52eW = Ja3vMIV((short)973832651);
 break;
 }
 }
@@ -155,7 +155,7 @@ pU_KX = (short)(cXiM + (-1537964146));
 int i = 0;
 while (i < 2)
 {
-J_a12z = ZivQ6(-558852810, NKC9, bnxjSlmzK4);
+J_a12z = ZivQ6((unsigned short)-558852810, NKC9, bnxjSlmzK4);
 i++;
 }
 }
@@ -183,7 +183,7 @@ else
 {
 if (((pU_KX & J_a12z) || (y0FV > UWIo1dlS8)) && (EzkLy0Wo))
 {
-pU_KX = c8i838(-1713832739);
+pU_KX = c8i838((unsigned char)-1713832739);
 }
 }
 }
@@ -198,7 +198,7 @@ int j = 1;
 while (j >= 0)
 {
 j--;
-RQs4 = cXiM ^ 267726859;
+RQs4 = cXiM ^ (short)267726859;
 }
 }
 }
@@ -227,7 +227,7 @@ SlpTh4e = nyF9(SlpTh4e, RHcg52eW);
 break;
 case 'e':
 case 'E':
-g51s1o4 = ZivQ6(-1355784732, YYGV7V3, (short)-608640096);
+g51s1o4 = ZivQ6((unsigned short)-1355784732, YYGV7V3, (short)-608640096);
 break;
 case 'f':
 case 'F':
@@ -308,7 +308,7 @@ else
 {
 try
 {
-s1enNExQ = nyF9(1716586564, EzkLy0Wo);
+s1enNExQ = nyF9((unsigned short)1716586564, EzkLy0Wo);
 }
 catch (int& errorCode)
 {
@@ -323,7 +323,7 @@ for (int i = 0; i < 7; ++i)
 switch (YYGV7V3)
 {
 case 0:
-R4Rs = N0L2(525821004, -597692885, NKC9, VWfmK, SlpTh4e);
+R4Rs = N0L2(525821004, (unsigned char)-597692885, NKC9, VWfmK, SlpTh4e);
 break;
 case 1:
 p7x9EE9 = N0L2(p7x9EE9, (unsigned char)-1258850985, n2UBNl4, 1653607553, -1737111574);
@@ -350,7 +350,7 @@ if (w65C_Ds == 0)
 	NGkpyvc = TnXc3_W / w65C_Ds;
 }
 
-std::cout << BufH << N0L2(-350548007, 350982860, (char)-1777056815, RHcg52eW, n2UBNl4) << "s7zaH" << pU_KX << R4Rs << std::endl;
+std::cout << BufH << N0L2(-350548007, (unsigned char)350982860, (char)-1777056815, RHcg52eW, n2UBNl4) << "s7zaH" << pU_KX << R4Rs << std::endl;
 I3h38 = ZivQ6(-789335863, VWfmK, 513150105);
 if (d_VG4 > -1314808193)
 {
@@ -362,7 +362,7 @@ if (bnxjSlmzK4 > -440597722)
 std::cout << ZivQ6(I3h38, VWfmK, gWg7R) << std::endl;
 }
 
-p7x9EE9 = ZivQ6(p7x9EE9, -818219534, (short)1395683158);
+p7x9EE9 = ZivQ6(p7x9EE9, (char)-818219534, (short)1395683158);
 if (bnxjSlmzK4 != KcxH9htwIc)
 {
 switch (xZ0E1M)
@@ -385,7 +385,7 @@ v28_3 = nyF9(v28_3, EzkLy0Wo);
 break;
 case 'e':
 case 'E':
-eWF_lp = N0L2(eWF_lp, lgPmL, -375360049, (unsigned char)-1222642522, 821076569);
+eWF_lp = N0L2(eWF_lp, lgPmL, (char)-375360049, (unsigned char)-1222642522, 821076569);
 break;
 case 'f':
 case 'F':
@@ -397,7 +397,7 @@ qINuCjK = acetw56 % 1107684467;
 break;
 case 'h':
 case 'H':
-DkZk1no8 = ZivQ6(DkZk1no8, -2110287845, (short)-1321169468);
+DkZk1no8 = ZivQ6(DkZk1no8, (char)-2110287845, (short)-1321169468);
 break;
 case 'i':
 case 'I':
@@ -424,7 +424,7 @@ case 1:
 jcOLdtdkN0 = d_VG4 << 1655819419;
 break;
 case 2:
-jcOLdtdkN0 = nyF9(-1026952512, (short)-591121703);
+jcOLdtdkN0 = nyF9((unsigned short)-1026952512, (short)-591121703);
 break;
 case 3:
 PGJ2F++;
@@ -455,7 +455,7 @@ while (j < 5);
 }
 else
 {
-r54W4ckM4l = nyF9(1438471494, (short)2145919106);
+r54W4ckM4l = nyF9((unsigned short)1438471494, (short)2145919106);
 }
 {
 int i = 4;
@@ -520,7 +520,7 @@ if (J_a12z & pr2US0)
 int k = 2;
 while (k >= 0)
 {
-w65C_Ds = Ja3vMIV(-1011407373);
+w65C_Ds = Ja3vMIV((short)-1011407373);
 --k;
 }
 }
@@ -543,7 +543,7 @@ switch (i2gCGJ)
 {
 case 'a':
 case 'A':
-J_a12z = nyF9(1155606456, i817);
+J_a12z = nyF9((unsigned short)1155606456, i817);
 break;
 case 'b':
 case 'B':
@@ -554,7 +554,7 @@ case 'C':
 w03mVm56H = i817 * i0_NtPRn;
 break;
 default:
-BufH = ZivQ6(BufH, -17805809, (short)1474230229);
+BufH = ZivQ6(BufH, (char)-17805809, (short)1474230229);
 break;
 }
 
@@ -576,7 +576,7 @@ if (g51s1o4 >= cXiM)
 {
 if (p7x9EE9 != 2075219656)
 {
-TnXc3_W = nyF9(730910993, pr2US0);
+TnXc3_W = nyF9((unsigned short)730910993, pr2US0);
 }
 }
 else
@@ -606,7 +606,7 @@ pr2US0 = (int)abs(s1enNExQ);
 }
 else if (oC16 != UWIo1dlS8)
 {
-g51s1o4 = N0L2(-118583593, RQs4, RHcg52eW, 1295870193, (short)-107678791);
+g51s1o4 = N0L2(-118583593, RQs4, RHcg52eW, (unsigned char)1295870193, (short)-107678791);
 }
 else if (((VWfmK) && (W3NCv)) && (Q1Nyi & cXiM))
 {
@@ -624,7 +624,7 @@ VWfmK = (short)(cXiM + (1269364133));
 }
 else if (tGKplNr8hx > rdQi7M)
 {
-std::cout << nyF9(sw0_8AF, -1206915942) << i0_NtPRn << "DjqZudEH22" << ZivQ6((unsigned short)-977000538, 983139960, Os_Sep_t) << std::endl;
+std::cout << nyF9(sw0_8AF, (short)-1206915942) << i0_NtPRn << "DjqZudEH22" << ZivQ6((unsigned short)-977000538, 983139960, Os_Sep_t) << std::endl;
 }
 else if (sw0_8AF < KcxH9htwIc)
 {
@@ -639,7 +639,7 @@ try
 {
 try
 {
-w65C_Ds = Ja3vMIV(1052353586);
+w65C_Ds = Ja3vMIV((short)1052353586);
 }
 catch (int& errorCode)
 {
@@ -670,7 +670,7 @@ unsigned long long	N0L2(long	R6s936e,unsigned char	XJ6wd08,char	XakT,unsigned ch
 
 unsigned short int  nyF9(unsigned short int  z25f,short  p9mO_zVF9n)
 {
-  return  1004537192;
+  return  (unsigned short)1004537192;
 }
 
 unsigned long long    ZivQ6(unsigned short    H_1_,char    t64e,short int    T39a)
@@ -680,7 +680,7 @@ unsigned long long    ZivQ6(unsigned short    H_1_,char    t64e,short int    T39
 
 unsigned short  c8i838(unsigned char  wq1AScfoaR)
 {
-  return  -1692749941;
+  return  (unsigned short)-1692749941;
 }
 
 unsigned short int Ja3vMIV(short jI0EPy52)

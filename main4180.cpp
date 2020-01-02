@@ -24,7 +24,7 @@ int main(int argc, char** argv) {
 	long	m3ap;
 	m3ap	=	702491221;
  char D15eae;
- D15eae = 1393146220;
+ D15eae = (char)1393146220;
     unsigned long    U3F4E0R419;
     U3F4E0R419    =    0;
     short int    x1c9_kV;

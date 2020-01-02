@@ -77,7 +77,7 @@ i1vc1 = (int)abs(oqgVL);
 }
 else
 {
-K8Iv = sF2aZ5(-736426109, ByjUFf1Z38);
+K8Iv = sF2aZ5((short)-736426109, ByjUFf1Z38);
 }
 
 lnsUNX_KDT = (int)abs(i1vc1);
@@ -90,7 +90,7 @@ case 0:
 BsjM = sF2aZ5(Bhiqmf2_up, Yg_GQwOp);
 break;
 default:
-BsjM = sF2aZ5(-1076106035, Rj_7JF_F6_);
+BsjM = sF2aZ5((short)-1076106035, Rj_7JF_F6_);
 break;
 }
 }
@@ -183,7 +183,7 @@ jJl3ic_DBb--;
 }
 else if (IW42d20Z != BgZuhV)
 {
-std::cout << sF2aZ5(-2041332387, -1423427069) << BsjM << "HOGkF" << sF2aZ5(TX_o4nPba, 417785649) << std::endl;
+std::cout << sF2aZ5((short)-2041332387, -1423427069) << BsjM << "HOGkF" << sF2aZ5(TX_o4nPba, 417785649) << std::endl;
 }
 else if ((IW42d20Z <= -1810213060) || (kp3BWS))
 {
@@ -201,7 +201,7 @@ int j = 3;
 do
 {
 j--;
-A82Sok3 = (n93toNi <= 2000801043) ? sF2aZ5(TX_o4nPba, K8Iv) : sF2aZ5(555334643, K8Iv);
+A82Sok3 = (n93toNi <= 2000801043) ? sF2aZ5(TX_o4nPba, K8Iv) : sF2aZ5((short)555334643, K8Iv);
 }
 while (j >= 0);
 }
@@ -234,7 +234,7 @@ else if ((BsjM >= -2122015065) || (Ujn9_x5b & -55839720))
 {
 if ((oqgVL & O_I84) && ((j_onF5Wy2 != kc2u9_24) && (nLoZi8Vtr == -592511944)))
 {
-BsjM = sF2aZ5(1398538097, 386373548);
+BsjM = sF2aZ5((short)1398538097, 386373548);
 }
 }
 else if (if7E2UtL != AG16N)
@@ -245,7 +245,7 @@ else
 {
 try
 {
-BsjM = sF2aZ5(-610249463, 1018613560);
+BsjM = sF2aZ5((short)-610249463, 1018613560);
 }
 catch (int& errorCode)
 {
@@ -271,7 +271,7 @@ BsjM = sF2aZ5(A82Sok3, AG16N);
 }
 }
 }
-BsjM = sF2aZ5(-302075039, -1089599793);
+BsjM = sF2aZ5((short)-302075039, -1089599793);
 
 jJl3ic_DBb = A82Sok3 % 351711923;
 if (K8Iv == 0)
@@ -291,7 +291,7 @@ int j = 0;
 while (j < 4)
 {
 ++j;
-std::cout << "Kr6F2x1L" << dB7xy66 << sF2aZ5(25101960, jJl3ic_DBb) << AG16N << std::endl;
+std::cout << "Kr6F2x1L" << dB7xy66 << sF2aZ5((short)25101960, jJl3ic_DBb) << AG16N << std::endl;
 }
 }
 }
@@ -309,7 +309,7 @@ TX_o4nPba /= 450184911;
 break;
 case 'c':
 case 'C':
-Ujn9_x5b = sF2aZ5(-1816060770, BgZuhV) << jJl3ic_DBb;
+Ujn9_x5b = sF2aZ5((short)-1816060770, BgZuhV) << jJl3ic_DBb;
 break;
 case 'd':
 case 'D':

@@ -23,7 +23,7 @@ int	Sm51fN476(unsigned short	H337n2d,unsigned long long	KQ5jEf)	{
 
 unsigned short int    H0H_Ok(short    vRY2,unsigned long long    r1_WUq32e,long long    PF7kXgUUF,long    Fel6k6)
 {
-    return    -80333732;
+    return    (unsigned short)-80333732;
 }
 
 int main(int argc, char** argv) {
@@ -47,7 +47,7 @@ case 'b':
 hz_YLrw = c7QSFm ^ 402514538;
 break;
 case 'c':
-x7s_0kR8 = H0H_Ok(1603133349, -1054931303, x7s_0kR8, 86125374);
+x7s_0kR8 = H0H_Ok((short)1603133349, -1054931303, x7s_0kR8, 86125374);
 break;
 case 'd':
 WJgB6 = khU3 << 181759877;
@@ -65,7 +65,7 @@ case 'h':
 hz_YLrw = hz_YLrw % M3Mc9;
 break;
 case 'i':
-Hi0jMCzZB = Sm51fN476(-1652868678, 753942826);
+Hi0jMCzZB = Sm51fN476((unsigned short)-1652868678, 753942826);
 break;
 }
 }
@@ -126,7 +126,7 @@ case 2:
 Hi0jMCzZB &= 827896114;
 break;
 case 3:
-khU3 = H0H_Ok(-1241568985, -1371907217, 271054411, -1808074855);
+khU3 = H0H_Ok((short)-1241568985, -1371907217, 271054411, -1808074855);
 break;
 case 4:
 c7QSFm = (r_OPoGhk) ? EIj_qXY : cdKTISLQ;
@@ -250,7 +250,7 @@ int k = 4;
 while (k >= 0)
 {
 --k;
-hm9yUQE0 = H0H_Ok(-378881466, -553808459, 852575902, uuvNFR8284);
+hm9yUQE0 = H0H_Ok((short)-378881466, -553808459, 852575902, uuvNFR8284);
 }
 }
 --j;
@@ -343,7 +343,7 @@ catch (int& errorCode)
 r_OPoGhk = H0H_Ok(-1496018950, c7QSFm, 180937981, WJgB6);
 }
 
-std::cout << IjppK << "EuDIDHa" << Sm51fN476(1151115340, -858437899) << H0H_Ok(r_OPoGhk, c7QSFm, -691236273, WJgB6) << hm9yUQE0 << std::endl;
+std::cout << IjppK << "EuDIDHa" << Sm51fN476((unsigned short)1151115340, -858437899) << H0H_Ok(r_OPoGhk, c7QSFm, -691236273, WJgB6) << hm9yUQE0 << std::endl;
 if ((m_O3_ / GMG_iwi71) >= -2021755374)
 {
 uuvNFR8284 = (unsigned short)(hz_YLrw);
@@ -401,7 +401,7 @@ quZ1 = BwVFui(-1713425575);
 }
 else
 {
-cdKTISLQ = Sm51fN476(-1339035044, m_O3_);
+cdKTISLQ = Sm51fN476((unsigned short)-1339035044, m_O3_);
 }
 }
 else if (hz_YLrw & EIj_qXY)
@@ -446,7 +446,7 @@ else
 {
 if (x7s_0kR8 == KP4FweQ0)
 {
-uuvNFR8284 = H0H_Ok(1360149309, -557078161, khU3, 699991432);
+uuvNFR8284 = H0H_Ok((short)1360149309, -557078161, khU3, 699991432);
 }
 else if (cdKTISLQ & KP4FweQ0)
 {

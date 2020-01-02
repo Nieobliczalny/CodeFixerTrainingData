@@ -24,7 +24,7 @@ int main(void) {
 int i = 0;
 while (i < 6)
 {
-std::cout << TChS0_9(679019519, -1802033592, igB_, (unsigned short)-1134540675, confyrc) << bPxSD2l3X9 << Q7Z7oI53r << std::endl;
+std::cout << TChS0_9(679019519, (unsigned short)-1802033592, igB_, (unsigned short)-1134540675, confyrc) << bPxSD2l3X9 << Q7Z7oI53r << std::endl;
 i++;
 }
 }
@@ -51,7 +51,7 @@ YVTMv3gW_ = TChS0_9(igB_, q773Mq, 678812247, II3N39, BL2E);
 break;
 case 'e':
 case 'E':
-Yg5em = qqgc9l3(Yg5em, Q7Z7oI53r, 73298230);
+Yg5em = qqgc9l3(Yg5em, Q7Z7oI53r, (unsigned short)73298230);
 break;
 case 'f':
 case 'F':
@@ -71,7 +71,7 @@ yg4U_ = qqgc9l3(1756750587, -950008660, v06CYIPK);
 break;
 case 'j':
 case 'J':
-VH9B = qqgc9l3(VH9B, -2085221722, 1379029796);
+VH9B = qqgc9l3(VH9B, -2085221722, (unsigned short)1379029796);
 break;
 default:
 zo5q4Qw3 = qqgc9l3(-1860709133, N134r4j7E, (unsigned short)-1008351642);
@@ -92,7 +92,7 @@ else
 {
 fQMU8604 = qqgc9l3(-1966586123, 401324116, JZRyvJN6);
 }
-std::cout << qqgc9l3(1916844787, 334672389, 1564851019) << "T8D_N_B5" << TChS0_9(fQMU8604, (unsigned short)-624225226, JZRyvJN6, -1574395075, x7oM) << std::endl;
+std::cout << qqgc9l3(1916844787, 334672389, (unsigned short)1564851019) << "T8D_N_B5" << TChS0_9(fQMU8604, (unsigned short)-624225226, JZRyvJN6, -1574395075, x7oM) << std::endl;
 Jr9_a2u2n <<= 998533390;
 
 o6_iATJ4--;
@@ -103,7 +103,7 @@ if (d_xK8D == A9U2h)
 {
 if (bJNc8484 > W8IfZ73PyD)
 {
-e3gc7Qwa4Z = qqgc9l3(e3gc7Qwa4Z, -916486963, 1127784008);
+e3gc7Qwa4Z = qqgc9l3(e3gc7Qwa4Z, -916486963, (unsigned short)1127784008);
 }
 else if (Jr9_a2u2n >= 1780634592)
 {
@@ -133,7 +133,7 @@ q773Mq = qqgc9l3(934360371, lDm4q_Tz7, sijG8);
 }
 else if ((N134r4j7E >= 1455010680) && (n5EcuV2Ye == -448640431))
 {
-Jr9_a2u2n = qqgc9l3(Jr9_a2u2n, 1529480410, -2132476191);
+Jr9_a2u2n = qqgc9l3(Jr9_a2u2n, 1529480410, (unsigned short)-2132476191);
 }
 else if (crN_7EO <= 1208078589)
 {
@@ -181,7 +181,7 @@ std::cout << "dMKbib9WnA" << RsQ6_dZ << w63ZeG_q << std::endl;
 }
 }
 
-std::cout << qqgc9l3(b5v7, -345801417, 117802859) << std::endl;
+std::cout << qqgc9l3(b5v7, -345801417, (unsigned short)117802859) << std::endl;
 
 {
 int i = 3;

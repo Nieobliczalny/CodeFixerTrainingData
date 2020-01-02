@@ -31,7 +31,7 @@ int main() {
     unsigned int    qk_26z54xx;
     qk_26z54xx    =    1030872488;
     short    iQ2w4;
-    iQ2w4    =    -1652464687;
+    iQ2w4    =    (short)-1652464687;
  unsigned char WZ_573JrW5;
  WZ_573JrW5 = (unsigned char)-715719324;
     unsigned short int    t9az4y7T;
@@ -49,7 +49,7 @@ int main() {
   double  EnxcqbU;
   EnxcqbU  =  358064708;
 	short	D7z3;
-	D7z3	=	517715322;
+	D7z3	=	(short)517715322;
  unsigned short R8ie4ww;
  R8ie4ww = (unsigned short)-900284306;
 

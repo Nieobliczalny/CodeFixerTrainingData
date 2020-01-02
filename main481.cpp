@@ -54,7 +54,7 @@ P3URGQ = (long long)(L5AP);
 }
 else
 {
-r351v = y9W9cx(2062497601, CB5z72Cm, h4lT4oHE);
+r351v = y9W9cx((unsigned short)2062497601, CB5z72Cm, h4lT4oHE);
 }
 }
 else if ((MymZ4) || ((VkbW < UqvBG85Q1) && (MHSk6 < 1647731175)))
@@ -124,7 +124,7 @@ try
 switch (L5AP)
 {
 case 0:
-E9pG64 = Icx5v7(-1172769794, v93jd);
+E9pG64 = Icx5v7((unsigned char)-1172769794, v93jd);
 break;
 case 1:
 bNr_hP8x = y9W9cx(bNr_hP8x, ysC9, -1371324589);
@@ -147,7 +147,7 @@ while (i < 5)
 ++i;
 for (int j = 0; j < 9; j++)
 {
-std::cout << luCuU4(1824514038) << std::endl;
+std::cout << luCuU4((unsigned char)1824514038) << std::endl;
 }
 }
 }
@@ -162,7 +162,7 @@ while (j < 10)
 {
 if (pA9_8n_N < UqvBG85Q1)
 {
-EMLwz = y9W9cx(2082210690, (unsigned short)1189675726, 310708653);
+EMLwz = y9W9cx((unsigned short)2082210690, (unsigned short)1189675726, 310708653);
 }
 j++;
 }
@@ -211,7 +211,7 @@ if (b_gk1 > -2132804702)
 {
 if (CvfnLbgLkF < b_gk1)
 {
-ysC9 = luCuU4(918905081);
+ysC9 = luCuU4((unsigned char)918905081);
 }
 else if (v93jd <= Oq3MK)
 {
@@ -246,7 +246,7 @@ case 'b':
 P3URGQ = CB5z72Cm / 809757380;
 break;
 case 'c':
-fca2rp3 = y9W9cx(-749234265, b_gk1, ju49e7u);
+fca2rp3 = y9W9cx((unsigned short)-749234265, b_gk1, ju49e7u);
 break;
 case 'd':
 LZ1z0 ^= aNt4EFsn;
@@ -261,7 +261,7 @@ case 'g':
 EEi7WM = (int)abs(w81mG_7);
 break;
 case 'h':
-S7_71z = v9H7p(S7_71z, -1955715099);
+S7_71z = v9H7p(S7_71z, (unsigned short)-1955715099);
 break;
 case 'i':
 b_gk1 += 1002920218;
@@ -274,7 +274,7 @@ break;
 
 P3URGQ = (long long)(VkbW);
 
-QkM24U0K = Icx5v7(-1122809115, (char)176236652);
+QkM24U0K = Icx5v7((unsigned char)-1122809115, (char)176236652);
 try
 {
 aqlJV8 = (long long)(Qk1F_h_e_);
@@ -305,7 +305,7 @@ case 3:
 rwON17 >>= h4lT4oHE;
 break;
 case 4:
-r351v = y9W9cx(1760967973, (unsigned short)-458095776, 513561842);
+r351v = y9W9cx((unsigned short)1760967973, (unsigned short)-458095776, 513561842);
 break;
 case 5:
 b_gk1 = (MHSk6 == L5AP) ? 1993919597 : CvfnLbgLkF;
@@ -342,7 +342,7 @@ G2f69c = (int)abs(r351v);
 break;
 }
 
-rwON17 = Icx5v7(883461075, (char)1682453712) / Icx5v7(1635414093, -1437944711);
+rwON17 = Icx5v7((unsigned char)883461075, (char)1682453712) / Icx5v7(1635414093, -1437944711);
 {
 int i = 0;
 while (i < 3)
@@ -356,7 +356,7 @@ return 0;
 
 unsigned short  v9H7p(unsigned int  NVOr2,unsigned short int  Z1O5jx)
 {
-  return  -2098221858;
+  return  (unsigned short)-2098221858;
 }
 
 long y9W9cx(unsigned short c8_5iY1FP,unsigned short Ll8XKgc,long long IBwqp9ii41)

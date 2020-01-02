@@ -15,7 +15,7 @@ unsigned long long    w_DqmHGx0(char    cJzW6k7,unsigned long long    td02eH_)  
 
 char  cNA6Uw_()
 {
-  return  1853164345;
+  return  (char)1853164345;
 }
 
 short	QKzjP(short int	jZi45635M0,long long	iHP_,unsigned char	Tcv08)	{
@@ -159,7 +159,7 @@ XWp97 = d5lNiWQK / WSg_h8w;
 }
 else if ((OWDf8 < d3sSCno) && (D5Io15 > adhPF))
 {
-lfKPY34Y = w_DqmHGx0(-598662655, uJwz3);
+lfKPY34Y = w_DqmHGx0((char)-598662655, uJwz3);
 }
 else if (((dKNZTEx > nHxo3) || (poXA1Z8j > -1279415375)) && (vsQ85hk80 > vLjq))
 {
@@ -193,7 +193,7 @@ case 'b':
 C0L_ = (int)ceil(OWDf8);
 break;
 case 'c':
-nHxo3 = QKzjP(nHxo3, 215592183, -177316959);
+nHxo3 = QKzjP(nHxo3, 215592183, (unsigned char)-177316959);
 break;
 }
 Mf8NI03Sh = QKzjP((short)1476162209, -1714430778, 148723816);
@@ -222,7 +222,7 @@ while (j < 6)
 int k = 0;
 while (k < 7)
 {
-lfKPY34Y = w_DqmHGx0(1597253119, 1481942072);
+lfKPY34Y = w_DqmHGx0((char)1597253119, 1481942072);
 ++k;
 }
 }
@@ -243,7 +243,7 @@ else if (Iio584_V5k >= adhPF)
 {
 if (r3cz2_YG != adhPF)
 {
-cout << w_DqmHGx0(-274157433, -1331980562) << "Vh7wBis" << endl;
+cout << w_DqmHGx0((char)-274157433, -1331980562) << "Vh7wBis" << endl;
 }
 else if (i4Mk_v >= adhPF)
 {
@@ -368,7 +368,7 @@ if (Iio584_V5k != adhPF)
 {
 if (N_duq >= s_L7)
 {
-wNIk9M50 = QKzjP(1721382613, 1192997046, (unsigned char)-900290041);
+wNIk9M50 = QKzjP((short)1721382613, 1192997046, (unsigned char)-900290041);
 }
 else if ((x2quVa > adhPF) || ((lfKPY34Y & -297609898) || (DRGZUmXT <= vl82)))
 {
@@ -407,7 +407,7 @@ E4h4LYO = (int)floor(ZS30ON);
 }
 else if (nHxo3 < -701734771)
 {
-cout << w54uUG6 << EdUl1lZm6V << "yX6mF24dC" << QKzjP(144775365, -1731381152, BEn54P) << w_DqmHGx0((char)-752625593, zvEvSdsC) << endl;
+cout << w54uUG6 << EdUl1lZm6V << "yX6mF24dC" << QKzjP((short)144775365, -1731381152, BEn54P) << w_DqmHGx0((char)-752625593, zvEvSdsC) << endl;
 }
 else if ((AUK5908WxR == adhPF) && ((D5Io15) || (DDBbMS8 != -614553471)))
 {
@@ -433,7 +433,7 @@ tb8d4036Nx = adhPF << 513668811;
 }
 else if (C0L_ < Rwlu4g)
 {
-Z6ASo = QKzjP(-1886027115, -28640342, (unsigned char)-1644159511);
+Z6ASo = QKzjP((short)-1886027115, -28640342, (unsigned char)-1644159511);
 }
 else
 {

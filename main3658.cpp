@@ -20,7 +20,7 @@ short int	rigJ0()
 int main(int argc, char** argv)
 {
   unsigned char  r0YfxXBvSy;
-  r0YfxXBvSy  =  -702301195;
+  r0YfxXBvSy  =  (unsigned char)-702301195;
     unsigned long    x22ewzaI;
     x22ewzaI    =    -1753484393;
   short  U0Y4LK;
@@ -48,7 +48,7 @@ int main(int argc, char** argv)
   unsigned int  JP_6yj6ss7;
   JP_6yj6ss7  =  663135379;
  short hgY6q;
- hgY6q = -1789741646;
+ hgY6q = (short)-1789741646;
     unsigned short    yVY36cr8zw;
     yVY36cr8zw    =    (unsigned short)53376907;
 	int	MCl_6n4Y0;
@@ -58,7 +58,7 @@ int main(int argc, char** argv)
   long long  qaBeyL;
   qaBeyL  =  -51380848;
     short int    DQ94cfUew;
-    DQ94cfUew    =    1727566268;
+    DQ94cfUew    =    (short)1727566268;
   long long  y4RY0;
   y4RY0  =  -1677341412;
 	char	fw_t7_;
@@ -78,7 +78,7 @@ int main(int argc, char** argv)
  long long V_pkQK;
  V_pkQK = -1187454316;
  short int rz_Yu1F4F_;
- rz_Yu1F4F_ = 1163309163;
+ rz_Yu1F4F_ = (short)1163309163;
 
 {
 int i = 0;

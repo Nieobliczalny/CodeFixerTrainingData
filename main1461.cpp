@@ -22,7 +22,7 @@ int main(int argc, char** argv)
  unsigned short int ct40, k3_H2nZ5T;
   ct40 = k3_H2nZ5T = 0;
  char i6G4ERMXb, i4iy_PT7Rl, SrN53xx, z_056FrCi, vBO_pf8XV, PN9YB4SN5, zDMrJ, HN_04Mksg, FXXvs86zR, M_d8, Do_xe8, k5YI4IoK, gas5dxr0, BFB5h, ZXUBl2kp6r, k_bV_CTzE, dQ5snyW0, e_168, I7WdR;
-  i6G4ERMXb = i4iy_PT7Rl = SrN53xx = z_056FrCi = vBO_pf8XV = PN9YB4SN5 = zDMrJ = HN_04Mksg = FXXvs86zR = M_d8 = Do_xe8 = k5YI4IoK = gas5dxr0 = BFB5h = ZXUBl2kp6r = k_bV_CTzE = dQ5snyW0 = e_168 = I7WdR = 1342242424;
+  i6G4ERMXb = i4iy_PT7Rl = SrN53xx = z_056FrCi = vBO_pf8XV = PN9YB4SN5 = zDMrJ = HN_04Mksg = FXXvs86zR = M_d8 = Do_xe8 = k5YI4IoK = gas5dxr0 = BFB5h = ZXUBl2kp6r = k_bV_CTzE = dQ5snyW0 = e_168 = I7WdR = (char)1342242424;
 
 if (vBO_pf8XV != G0tz)
 {
@@ -75,7 +75,7 @@ gas5dxr0 = (int)abs(z_056FrCi);
 }
 else if (i6G4ERMXb > ZXUBl2kp6r)
 {
-dQ5snyW0 = RmXsohI80(dQ5snyW0, -1468257159, (char)-359765488, ct40, e_168);
+dQ5snyW0 = RmXsohI80(dQ5snyW0, (unsigned short)-1468257159, (char)-359765488, ct40, e_168);
 }
 else if (((I7WdR < G0tz) && (BFB5h > ct40)) || ((k5YI4IoK) && (z_056FrCi > 1300371717)))
 {
@@ -111,7 +111,7 @@ while (j >= 0);
 }
 }
 
-std::cout << DuqYLp2V9(dQ5snyW0) << BFB5h << RmXsohI80(dQ5snyW0, -1732350974, (char)1313165650, -1404940751, 1964756328) << J66M(dQ5snyW0) << k5YI4IoK << std::endl;
+std::cout << DuqYLp2V9(dQ5snyW0) << BFB5h << RmXsohI80(dQ5snyW0, (unsigned short)-1732350974, (char)1313165650, -1404940751, 1964756328) << J66M(dQ5snyW0) << k5YI4IoK << std::endl;
 i6G4ERMXb = DuqYLp2V9(i6G4ERMXb);
 
 for (int i = 5; i >= 0; --i)
@@ -129,7 +129,7 @@ HN_04Mksg = J66M(HN_04Mksg) * 1019030126;
 }
 i4iy_PT7Rl = (char)(z_056FrCi);
 std::cout << "wxB80BWcKc" << "JC_2v29E_1" << gas5dxr0 << "SI0N2_6I" << std::endl;
-Do_xe8 = k3_H2nZ5T / L5I_AR(HN_04Mksg, SrN53xx, -600365454);
+Do_xe8 = k3_H2nZ5T / L5I_AR(HN_04Mksg, SrN53xx, (short)-600365454);
 PN9YB4SN5 = J66M(PN9YB4SN5);
 {
 int i = 0;
@@ -167,7 +167,7 @@ case 0:
 k_bV_CTzE = (int)abs(PN9YB4SN5);
 break;
 case 1:
-ct40 = L5I_AR(HN_04Mksg, -1368172579, -220451020);
+ct40 = L5I_AR(HN_04Mksg, -1368172579, (short)-220451020);
 break;
 case 2:
 e_168 = G0tz | dQ5snyW0;
@@ -196,7 +196,7 @@ while (j < 7)
 switch (FXXvs86zR)
 {
 case 'a':
-ct40 = L5I_AR(Do_xe8, -1808797078, -823291329);
+ct40 = L5I_AR(Do_xe8, -1808797078, (short)-823291329);
 break;
 case 'b':
 SrN53xx = J66M(Do_xe8) & 1720838691;
@@ -241,7 +241,7 @@ short int	L5I_AR(long long	a6NcwPY1p,unsigned long long	eMfje9_4z,short int	q_Et
 }
 
 short    DuqYLp2V9(long    Qvxljt)    {
-    return    -12038532;
+    return    (short)-12038532;
 }
 
 unsigned short    RmXsohI80(unsigned long long    ZG_geX8gf9,unsigned short int    US9TcPF10G,char    pT_T3Lk,long long    NGNo_NW,unsigned long    rklB0)

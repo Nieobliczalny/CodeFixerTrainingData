@@ -56,7 +56,7 @@ else if (gc3x86 < B5vr4w0pH3)
 {
 if ((tq0Iq9_15 != EAGcST) || (Yhb2_q >= EAGcST))
 {
-f0d3 = o87fn7i71(598754155);
+f0d3 = o87fn7i71((unsigned char)598754155);
 }
 }
 else if (j6gLl9 & EAGcST)
@@ -80,7 +80,7 @@ else
 int k = 3;
 do
 {
-trjj0a10u1 = o87fn7i71(-926307501);
+trjj0a10u1 = o87fn7i71((unsigned char)-926307501);
 --k;
 }
 while (k >= 0);
@@ -127,7 +127,7 @@ i++;
 while (i < 4);
 }
 
-cout << "CY5e_70e52" << "JpOwubHN" << H1B6Ix(-1709830184, cDJ5c_RbWS, DwMB, kz85Ke31U, svUP7JbPXR) << "Vfy87_q_24" << endl;
+cout << "CY5e_70e52" << "JpOwubHN" << H1B6Ix((unsigned char)-1709830184, cDJ5c_RbWS, DwMB, kz85Ke31U, svUP7JbPXR) << "Vfy87_q_24" << endl;
 C3O7_K7d = H1B6Ix(C3O7_K7d, 2118173218, Fms1cMaxhV, zGl1_, -525990149);
 for (int i = 3; i >= 0; i--)
 {
@@ -177,7 +177,7 @@ break;
 BV6KY = (long double)(v86n);
 
 cout << j6gLl9 << endl;
-Hrmsy8UHvi = o87fn7i71(-1934863578);
+Hrmsy8UHvi = o87fn7i71((unsigned char)-1934863578);
 g6o9Rnjx4 = o87fn7i71(w0v18_2w3);
 
 h65_FBT3 = G052FM2vu();
@@ -188,7 +188,7 @@ int i = 7;
 do
 {
 i--;
-g6o9Rnjx4 = o87fn7i71(-38486132);
+g6o9Rnjx4 = o87fn7i71((unsigned char)-38486132);
 }
 while (i >= 0);
 }
@@ -238,7 +238,7 @@ case 3:
 CqSK25 = (int)ceil(nv54);
 break;
 case 4:
-wi_zuyHs = H1B6Ix(-1622786994, kz85Ke31U, yYiU8KC, a731OnPb, QVk9WU210);
+wi_zuyHs = H1B6Ix((unsigned char)-1622786994, kz85Ke31U, yYiU8KC, a731OnPb, QVk9WU210);
 break;
 case 5:
 h65_FBT3 = (int)ceil(gc3x86);
@@ -250,7 +250,7 @@ case 7:
 g6o9Rnjx4 = o87fn7i71(KCWgfG217);
 break;
 case 8:
-P24hE_Md = H1B6Ix(-1472777712, mXb6dNpbm, -725364596, UP0Ufg, -475311636);
+P24hE_Md = H1B6Ix((unsigned char)-1472777712, mXb6dNpbm, -725364596, UP0Ufg, -475311636);
 break;
 }
 VkldeK8G = (int)ceil(h65_FBT3);
@@ -272,7 +272,7 @@ return 0;
 
 char    H1B6Ix(unsigned char    A_v7U,unsigned long    d233Aee9r1,int    EF8h,unsigned long    WUt60Gn,unsigned long    E9Ovk9tbl)
 {
-    return    1688794522;
+    return    (char)1688794522;
 }
 
 unsigned short	M2z_5Y(unsigned int	PZ907_wl8,unsigned long	SsPc5v4)	{
@@ -284,6 +284,6 @@ unsigned int  o87fn7i71(unsigned char  e4N8bD)  {
 }
 
 short    G052FM2vu()    {
-    return    -552253908;
+    return    (short)-552253908;
 }
 

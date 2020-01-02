@@ -94,7 +94,7 @@ e5vS1B *= pwHQt;
 
 YR3Zz3 = uv9N8__m(-1104472901, Ua5Ca132);
 
-f2iZPg_ = n7tFboXy(Eu_H, 24903601);
+f2iZPg_ = n7tFboXy(Eu_H, (short)24903601);
 
 if (YR3Zz3 < 1138639073)
 {
@@ -121,7 +121,7 @@ j++;
 int k = 5;
 while (k >= 0)
 {
-f2iZPg_ = n7tFboXy(k_1v_6kRDz, -1372414039);
+f2iZPg_ = n7tFboXy(k_1v_6kRDz, (short)-1372414039);
 k--;
 }
 }

@@ -489,7 +489,7 @@ return 0;
 
 unsigned short  h_25_j_Cx(int  tf9w_bk12,int  xU4Nc8olP2)
 {
-  return  -696253705;
+  return  (unsigned short)-696253705;
 }
 
 short	Sor88()	{

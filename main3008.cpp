@@ -18,7 +18,7 @@ unsigned int	ku8I(long	W8_6,unsigned long long	mCnavcmYB9,unsigned long	Bn31D_oB
 
 short int  v2yR(unsigned long  t18e,unsigned short int  qjAbh9FkR,unsigned int  HhXnGoY3)
 {
-  return  1586981710;
+  return  (short)1586981710;
 }
 
 unsigned short  znTMXP(long long  lrSKx)
@@ -76,7 +76,7 @@ int main(void) {
 	O0C6u	=	-975268414;
 	RISth	=	-1520766250;
 
-MTOMNh_f = v2yR(MTOMNh_f, -826807386, -1411401951);
+MTOMNh_f = v2yR(MTOMNh_f, (unsigned short)-826807386, -1411401951);
 iFg_ = ka6OR2n9w(MTOMNh_f, u5Els) << rb1_pp;
 
 for (int i = 5; i >= 0; --i)
@@ -196,7 +196,7 @@ j--;
 switch (W_X2fOEV)
 {
 case 0:
-B66Y8450n = v2yR(-932948601, -1573018738, iFg_) << qDmSV;
+B66Y8450n = v2yR(-932948601, (unsigned short)-1573018738, iFg_) << qDmSV;
 break;
 case 1:
 FMgGGmqbD = ka6OR2n9w((unsigned short)-1577930884, -2036666020) & h6VwdLWAzU;
@@ -251,7 +251,7 @@ E3q0i66Ih = ku8I(E3q0i66Ih, 1016482387, -237289942);
 break;
 case 'f':
 case 'F':
-MOUbsEbF = ka6OR2n9w(Z7LR, -1052487593);
+MOUbsEbF = ka6OR2n9w(Z7LR, (unsigned short)-1052487593);
 break;
 case 'g':
 case 'G':
@@ -282,7 +282,7 @@ else if (ue0rypSqV1 & O0C6u)
 switch (rsx9cx)
 {
 case 'a':
-iFg_ = v2yR(-1048126897, -1129543733, l5a9iU638H);
+iFg_ = v2yR(-1048126897, (unsigned short)-1129543733, l5a9iU638H);
 break;
 case 'b':
 Z7LR += MoG_82O8W;
@@ -398,7 +398,7 @@ else
 v60oXz = ka6OR2n9w(CpGzcxv_, Zy7E);
 }
 
-h6VwdLWAzU = v2yR(h6VwdLWAzU, 58395574, RISth);
+h6VwdLWAzU = v2yR(h6VwdLWAzU, (unsigned short)58395574, RISth);
 
 if (olV0MH & ZEIhpQf)
 {
@@ -415,7 +415,7 @@ KqQ3M6lX4C = v2yR(-1157868989, E3q0i66Ih, -90903039);
 }
 else if (L5FP5 <= 2025233424)
 {
-T2O4yy = ka6OR2n9w(1169554818, (unsigned short)1818979187);
+T2O4yy = ka6OR2n9w((unsigned short)1169554818, (unsigned short)1818979187);
 }
 else if ((KkU6sYm <= -1441755721) || ((g6jm9fg7) || (yn7mHz6f8)))
 {
@@ -491,7 +491,7 @@ else if (B66Y8450n != MOUbsEbF)
 {
 try
 {
-MoG_82O8W = ka6OR2n9w(415110603, (unsigned short)1613011383);
+MoG_82O8W = ka6OR2n9w((unsigned short)415110603, (unsigned short)1613011383);
 }
 catch (int& errorCode)
 {

@@ -58,7 +58,7 @@ OX4Jj %= M99b3a;
 }
 else
 {
-KS88C = gA_7Je(-329230249, -278653848);
+KS88C = gA_7Je((char)-329230249, -278653848);
 }
 }
 else if (DZ644V95)
@@ -94,7 +94,7 @@ do
 {
 if (St66JW >= RH5r)
 {
-oX09KJ4X = gA_7Je(1658220763, 1007740616);
+oX09KJ4X = gA_7Je((char)1658220763, 1007740616);
 }
 --j;
 }
@@ -147,7 +147,7 @@ try
 int k = 0;
 do
 {
-ag5bt = o0NRo5m8(ag5bt, UKek, i_Qm8, 435589520, KS88C);
+ag5bt = o0NRo5m8(ag5bt, UKek, i_Qm8, (unsigned short)435589520, KS88C);
 k++;
 }
 while (k < 1);
@@ -202,7 +202,7 @@ z_4_W++;
 v3bK0km = (unsigned int)(PqRU0TlPr3 + (-941267899));
 if (x0nCO >= c9b747)
 {
-ou3BSXay3 = a8CJI922zt(ou3BSXay3, 648884237, -814862285);
+ou3BSXay3 = a8CJI922zt(ou3BSXay3, 648884237, (unsigned short)-814862285);
 }
 else if (CNN12 == 623640947)
 {
@@ -215,7 +215,7 @@ case 1:
 pGd06 = WTZxCmL7F(-647487717, -632504701, 1855746334);
 break;
 case 2:
-EA2l3Px_R = o0NRo5m8(-1887662171, 1720933876, (unsigned short)1729789956, -1803733302, -1122540929);
+EA2l3Px_R = o0NRo5m8(-1887662171, (char)1720933876, (unsigned short)1729789956, -1803733302, -1122540929);
 break;
 case 3:
 FfrkuV = P_tl03 ^ 1936910168;
@@ -239,7 +239,7 @@ case 1:
 A1998EM = gA_7Je(A1998EM, -1923939957);
 break;
 case 2:
-HEA8_U4 = a8CJI922zt(176316657, 708997068, 886607252);
+HEA8_U4 = a8CJI922zt(176316657, 708997068, (unsigned short)886607252);
 break;
 case 3:
 C5Gfl4 = a8CJI922zt(1466875208, EA2l3Px_R, (unsigned short)-1283373275);
@@ -265,7 +265,7 @@ for (int j = 0; j < 5; ++j)
 {
 if ((ytjvuFbb25 > W41Q47_OQ) || ((eFhX_t2jQp == 382697746) || (YCcy6 != 1724819227)))
 {
-k706ESk = a8CJI922zt(1200982697, -1962157041, -1279008875);
+k706ESk = a8CJI922zt(1200982697, -1962157041, (unsigned short)-1279008875);
 }
 }
 }
@@ -278,7 +278,7 @@ unsigned char    WTZxCmL7F(int    TR9N192G,long    ddgDa2QakO,unsigned int    jI
 
 char    gA_7Je(char    s4Vx2lBP1,long    sPS7P_4I)
 {
-    return    -1843727494;
+    return    (char)-1843727494;
 }
 
 short  a8CJI922zt(unsigned long  q34P5G,long long  yqlZ4L8LW,unsigned short int  F_5I6)

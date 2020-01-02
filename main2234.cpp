@@ -52,7 +52,7 @@ ZF1N = (xdFe8 >= 796801148) ? -710156775 : R4lG6GO_;
 
 try
 {
-std::cout << GiL1(-506452349) << bS80T6sbw << "rf2C_" << "uT51" << std::endl;
+std::cout << GiL1((unsigned char)-506452349) << bS80T6sbw << "rf2C_" << "uT51" << std::endl;
 }
 catch (int& errorCode)
 {
@@ -76,7 +76,7 @@ HOqS8b50 -= 447639430;
 }
 else
 {
-DzJbZ9lmyH = lI7Lig(1796677036, y46bS7, DFrV);
+DzJbZ9lmyH = lI7Lig((char)1796677036, y46bS7, DFrV);
 }
 }
 }
@@ -97,7 +97,7 @@ bLKWVX = GiL1(DzJbZ9lmyH) >> 1979347741;
 }
 else if (Wh790Y0B > 1210664328)
 {
-to2HGyz = lI7Lig(1022150707, (short)-426178995, JBudrS6KV5);
+to2HGyz = lI7Lig((char)1022150707, (short)-426178995, JBudrS6KV5);
 }
 else if (KvEEWa2G9N & 827154034)
 {
@@ -209,7 +209,7 @@ P107ha0_x1 = lI7Lig(P107ha0_x1, JV4mTM0Lu, 98859293);
 }
 rIZK0KVB *= R4lG6GO_;
 
-l9khF5 = lI7Lig(1269758004, (short)733659851, PKWoAiY) - P107ha0_x1;
+l9khF5 = lI7Lig((char)1269758004, (short)733659851, PKWoAiY) - P107ha0_x1;
 
 return 0;
 }

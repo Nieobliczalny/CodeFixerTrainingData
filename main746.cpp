@@ -13,7 +13,7 @@ short	q47_l2n8b(char	pD8_55J,long	ElTzB);
 
 int main(void)
 {
-	short int	Z0jI	=	113817094;
+	short int	Z0jI	=	(short)113817094;
  unsigned long long cIMU8JN = 1419948834;
   int  SUBb8VqV  =  -1301829045;
   long long  KkFQ  =  653712414;
@@ -26,7 +26,7 @@ int main(void)
   unsigned short  F4795  =  0;
   unsigned long  OMqI  =  -2123859816;
 	int	fU51SarC	=	-1455065035;
-    unsigned short    Yqn3V29    =    -1026845871;
+    unsigned short    Yqn3V29    =    (unsigned short)-1026845871;
     char    zT3Fhc    =    776862047;
     unsigned short    jfJ4r    =    -1513635237;
   long double  GMoUtd  =  -342163509;
@@ -37,7 +37,7 @@ int main(void)
 	short int	h6r_hW88IK	=	564767781;
  unsigned long long QC7v = -540537502;
  unsigned long long UScf = 592857427;
-    char    V_xaV0    =    1141025874;
+    char    V_xaV0    =    (char)1141025874;
  long exs948 = 1780380818;
  unsigned short s3dtV8 = -273111387;
 	unsigned int	tT0r	=	1692054138;
@@ -48,7 +48,7 @@ int main(void)
  unsigned int p6F36wK = 254893387;
     long    xLt1nW1Gc    =    -1421536203;
 	unsigned long long	IZpP8fKfA7	=	-2028523512;
-	unsigned short int	U5Su	=	903157231;
+	unsigned short int	U5Su	=	(unsigned short)903157231;
  float FI2T7 = 716541911;
 
 Z0jI = q47_l2n8b(Z0jI, Sqg_A1X);
@@ -77,7 +77,7 @@ case 2:
 LBMuu /= 1615570869;
 break;
 case 3:
-F4795 = TE69(-1473993990, ToQM73, GVfR);
+F4795 = TE69((unsigned char)-1473993990, ToQM73, GVfR);
 break;
 case 4:
 QC7v = q47_l2n8b(QC7v, 1005006425);
@@ -108,7 +108,7 @@ int k = 3;
 do
 {
 --k;
-exs948 = q47_l2n8b(517551333, -1879234503) + AtwesJuez;
+exs948 = q47_l2n8b((char)517551333, -1879234503) + AtwesJuez;
 }
 while (k >= 0);
 }
@@ -143,7 +143,7 @@ i++;
 while (i < 9);
 }
 GMoUtd = (int)floor(FI2T7);
-KkFQ = q47_l2n8b(-1549996506, OMqI);
+KkFQ = q47_l2n8b((char)-1549996506, OMqI);
 cIMU8JN = q47_l2n8b(cIMU8JN, FI2T7);
 
 {
@@ -154,7 +154,7 @@ try
 {
 if (LBMuu > 640619249)
 {
-AtwesJuez = q47_l2n8b(-34065115, fSY56G6);
+AtwesJuez = q47_l2n8b((char)-34065115, fSY56G6);
 }
 else
 {
@@ -192,7 +192,7 @@ do
 ++i;
 if (V_xaV0 & -1788975834)
 {
-std::cout << TE69(1598016718, CbTZd4YYvI, IZpP8fKfA7) << Yqn3V29 << q47_l2n8b((char)-293695871, CbTZd4YYvI) << std::endl;
+std::cout << TE69((unsigned char)1598016718, CbTZd4YYvI, IZpP8fKfA7) << Yqn3V29 << q47_l2n8b((char)-293695871, CbTZd4YYvI) << std::endl;
 }
 }
 while (i < 10);
@@ -203,7 +203,7 @@ if (xLt1nW1Gc & CbTZd4YYvI)
 {
 if (F4795 <= xLt1nW1Gc)
 {
-jfJ4r = q47_l2n8b(2138146133, 869029091);
+jfJ4r = q47_l2n8b((char)2138146133, 869029091);
 }
 else
 {
@@ -239,7 +239,7 @@ Sqg_A1X = (int)abs(G_404x);
 break;
 case 'c':
 case 'C':
-FI2T7 = q47_l2n8b(147825108, -314783673);
+FI2T7 = q47_l2n8b((char)147825108, -314783673);
 break;
 case 'd':
 case 'D':
@@ -263,7 +263,7 @@ break;
 }
 }
 
-std::cout << "z61fA10kn" << TE69(137306767, (short)-721263993, ToQM73) << "P2atk9t7" << std::endl;
+std::cout << "z61fA10kn" << TE69((unsigned char)137306767, (short)-721263993, ToQM73) << "P2atk9t7" << std::endl;
 
 FI2T7 = (int)floor(GMoUtd);
 if (V_xaV0 <= 1720141748)
@@ -315,7 +315,7 @@ case 5:
 cIMU8JN = zT3Fhc * 849781470;
 break;
 case 6:
-F1e7Y1G = q47_l2n8b(809824534, -1074289551);
+F1e7Y1G = q47_l2n8b((char)809824534, -1074289551);
 break;
 case 7:
 KkFQ = cIMU8JN & 869831721;
@@ -327,7 +327,7 @@ break;
 }
 while (i >= 0);
 }
-F4795 = TE69(Yqn3V29, sVP7, 999650831);
+F4795 = TE69(Yqn3V29, sVP7, (unsigned short)999650831);
 KkFQ = (long long)(zT3Fhc);
 QC7v = (unsigned long long)(CbTZd4YYvI);
 
@@ -342,6 +342,6 @@ long long	TE69(unsigned char	fm1TKBi42k,short int	T0Qy7,unsigned short int	Tg9_6
 
 short	q47_l2n8b(char	pD8_55J,long	ElTzB)
 {
-	return	-591793026;
+	return	(short)-591793026;
 }
 

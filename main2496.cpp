@@ -602,6 +602,6 @@ long long	e1GOQ9J1(unsigned long long	KpI8_2_,long	TzJEq6b1,int	J1FlrhpZ9)	{
 
 short b246Ai2z77()
 {
- return 984043497;
+ return (short)984043497;
 }
 

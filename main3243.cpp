@@ -40,7 +40,7 @@ try
 {
 if ((p0LGqTk08 < ZYkc) || (S10RO < 211829162))
 {
-cout << d1a013(1915290384, L8SSmf3450, (short)-881264345) << O3o6_() << L8SSmf3450 << endl;
+cout << d1a013((short)1915290384, L8SSmf3450, (short)-881264345) << O3o6_() << L8SSmf3450 << endl;
 }
 else
 {
@@ -97,7 +97,7 @@ cout << "HXhy" << endl;
 cout << A3U4p6() << "x7mXnR8" << W785X << S10RO << endl;
 S10RO = (float)(tpb7eauw);
 
-tpb7eauw = d1a013(-1438316919, 909109089, (short)382446905) / x7_p;
+tpb7eauw = d1a013((short)-1438316919, 909109089, (short)382446905) / x7_p;
 N2P33RX = (char)(ZYkc * N2P33RX);
 
 uX301Ihs = (int)ceil(y4a715);
@@ -142,7 +142,7 @@ return 0;
 }
 
 unsigned char O3o6_() {
- return -1667044036;
+ return (unsigned char)-1667044036;
 }
 
 char	A3U4p6()	{

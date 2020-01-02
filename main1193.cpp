@@ -11,7 +11,7 @@ using namespace std;
 int main(void)
 {
  unsigned short int Kw9d2;
- Kw9d2 = -2113053566;
+ Kw9d2 = (unsigned short)-2113053566;
  long fJkz;
  fJkz = 0;
   unsigned short int  VH5hC41;

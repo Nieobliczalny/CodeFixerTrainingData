@@ -10,7 +10,7 @@ using namespace std;
 
 int main(int argc, char** argv) {
   unsigned long  Uuo9G9_4  =  0;
-    short    FuS12    =    96456029;
+    short    FuS12    =    (short)96456029;
  long long yy_2l6B8b = 0;
 	char	CG1wm51qK	=	0;
 	unsigned short int	I4OC	=	(unsigned short)1295781268;
@@ -580,7 +580,7 @@ else
 cout << yy_2l6B8b << endl;
 }
 
-FuS12 = (FuS12 != CG1wm51qK) ? 1145066807 : (short)-1881720599;
+FuS12 = (FuS12 != CG1wm51qK) ? (short)1145066807 : (short)-1881720599;
 for (int i = 3; i >= 0; --i)
 {
 FuS12 = yy_2l6B8b / 25764126;
@@ -654,7 +654,7 @@ FuS12 %= I4OC;
 }
 else
 {
-I4OC = (FuS12 > CG1wm51qK) ? 84058707 : FuS12;
+I4OC = (FuS12 > CG1wm51qK) ? (unsigned short)84058707 : FuS12;
 }
 }
 catch (int& errorCode)
@@ -909,7 +909,7 @@ i--;
 int i = 0;
 do
 {
-rb7jSG = (FuS12 < 98660785) ? rb7jSG : 7087002;
+rb7jSG = (FuS12 < 98660785) ? rb7jSG : (char)7087002;
 ++i;
 }
 while (i < 7);

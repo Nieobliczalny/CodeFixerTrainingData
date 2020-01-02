@@ -18,7 +18,7 @@ int main()
 	unsigned short int	Mf5EGy;
 	Mf5EGy	=	0;
     unsigned short    t6D09F89;
-    t6D09F89    =    193811012;
+    t6D09F89    =    (unsigned short)193811012;
   float  Iw8J;
   Iw8J  =  -2088629584;
     unsigned long long    noM0X;

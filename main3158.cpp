@@ -8,7 +8,7 @@
 
 
 unsigned short	g4YGN152O(long long	WBKH,int	o02d,short int	ecUnXT,int	LQ2_2Bo,long	wdW_l)	{
-	return	48581267;
+	return	(unsigned short)48581267;
 }
 
 unsigned short int  j6a6Y()
@@ -23,7 +23,7 @@ long  CcE2(unsigned short int  ierzX3,unsigned short  QV_T4G2,short  jW0GHEpG5A)
 
 unsigned short int	R_IABh(short	BHgUhFY7R,unsigned int	Ail6z8_Y,long long	Bw7e)
 {
-	return	-981087198;
+	return	(unsigned short)-981087198;
 }
 
 int main() {
@@ -44,7 +44,7 @@ int i = 5;
 do
 {
 --i;
-Qvx6tHY3h0 = g4YGN152O(-484303882, -1155163501, -252443829, A8F12419, Os19);
+Qvx6tHY3h0 = g4YGN152O(-484303882, -1155163501, (short)-252443829, A8F12419, Os19);
 }
 while (i >= 0);
 }
@@ -57,7 +57,7 @@ case 1:
 iOyDe = j6a6Y();
 break;
 case 2:
-JSSj37U = CcE2(ni7SsLTKn, -756108039, JSSj37U);
+JSSj37U = CcE2(ni7SsLTKn, (unsigned short)-756108039, JSSj37U);
 break;
 case 3:
 Qvx6tHY3h0++;
@@ -99,7 +99,7 @@ K56b -= 154248738;
 }
 else if ((iOyDe != K56b) || (ymPrW1j >= 1717529210))
 {
-std::cout << R_IABh(1586590399, Os19, -64268699) << x4vF1Vrol5 << std::endl;
+std::cout << R_IABh((short)1586590399, Os19, -64268699) << x4vF1Vrol5 << std::endl;
 }
 else if (Qvx6tHY3h0 > K56b)
 {
@@ -136,7 +136,7 @@ for (int j = 7; j >= 0; j--)
 {
 for (int k = 6; k >= 0; k--)
 {
-x4vF1Vrol5 = CcE2(x4vF1Vrol5, -317618713, (short)1636547482);
+x4vF1Vrol5 = CcE2(x4vF1Vrol5, (unsigned short)-317618713, (short)1636547482);
 }
 }
 }
@@ -153,7 +153,7 @@ Qvx6tHY3h0 = (unsigned long long)(iOyDe + (219557852));
 }
 }
 
-std::cout << j6a6Y() << Os19 << A8F12419 << g4YGN152O(1820358966, 276426369, -26222782, 1921557454, -166987836) << std::endl;
+std::cout << j6a6Y() << Os19 << A8F12419 << g4YGN152O(1820358966, 276426369, (short)-26222782, 1921557454, -166987836) << std::endl;
 if (JSSj37U > iOyDe)
 {
 JSSj37U %= x4vF1Vrol5;
@@ -167,7 +167,7 @@ if (K56b != JSSj37U)
 {
 try
 {
-std::cout << "HA4O66F" << ymPrW1j << R_IABh(1657676499, Os19, -1269035587) << "Xz__" << j6a6Y() << std::endl;
+std::cout << "HA4O66F" << ymPrW1j << R_IABh((short)1657676499, Os19, -1269035587) << "Xz__" << j6a6Y() << std::endl;
 }
 catch (int& errorCode)
 {
@@ -194,7 +194,7 @@ case 'e':
 A8F12419 = g4YGN152O(iOyDe, 78273580, JSSj37U, Qvx6tHY3h0, 389494665);
 break;
 default:
-x4vF1Vrol5 = g4YGN152O(x4vF1Vrol5, iOyDe, 1634980692, 2049802230, K56b);
+x4vF1Vrol5 = g4YGN152O(x4vF1Vrol5, iOyDe, (short)1634980692, 2049802230, K56b);
 break;
 }
 x4vF1Vrol5 = (unsigned long long)(ni7SsLTKn + (-1201034268));
@@ -220,7 +220,7 @@ do
 {
 for (int k = 6; k >= 0; --k)
 {
-Qvx6tHY3h0 = g4YGN152O(-387841180, A8F12419, 104222040, -252328942, -591391192);
+Qvx6tHY3h0 = g4YGN152O(-387841180, A8F12419, (short)104222040, -252328942, -591391192);
 }
 --j;
 }
@@ -237,7 +237,7 @@ do
 int k = 8;
 while (k >= 0)
 {
-x4vF1Vrol5 = R_IABh(267163071, -980766017, 84291280);
+x4vF1Vrol5 = R_IABh((short)267163071, -980766017, 84291280);
 --k;
 }
 }
@@ -267,7 +267,7 @@ case 'b':
 x4vF1Vrol5 -= 1469106863;
 break;
 case 'c':
-JSSj37U = CcE2(JSSj37U, 1020613367, ymPrW1j);
+JSSj37U = CcE2(JSSj37U, (unsigned short)1020613367, ymPrW1j);
 break;
 case 'd':
 JSSj37U = R_IABh(JSSj37U, iOyDe, Qvx6tHY3h0);
@@ -306,7 +306,7 @@ JSSj37U = K56b << 954217239;
 }
 else
 {
-Qvx6tHY3h0 = CcE2(193670797, (unsigned short)475612111, 921787925);
+Qvx6tHY3h0 = CcE2((unsigned short)193670797, (unsigned short)475612111, 921787925);
 }
 
 if (Qvx6tHY3h0 > -1697834872)
@@ -475,7 +475,7 @@ K56b = (unsigned long long)(x4vF1Vrol5);
 
 for (int i = 0; i < 7; i++)
 {
-Qvx6tHY3h0 = R_IABh(-1469437962, 634693763, Qvx6tHY3h0);
+Qvx6tHY3h0 = R_IABh((short)-1469437962, 634693763, Qvx6tHY3h0);
 }
 
 try
@@ -520,7 +520,7 @@ case 0:
 ni7SsLTKn = (int)abs(iOyDe);
 break;
 case 1:
-x4vF1Vrol5 = R_IABh(-781252699, Qvx6tHY3h0, 1914764905);
+x4vF1Vrol5 = R_IABh((short)-781252699, Qvx6tHY3h0, 1914764905);
 break;
 case 2:
 Os19 = (int)abs(iOyDe);
@@ -561,7 +561,7 @@ JSSj37U >>= 1679130131;
 }
 else
 {
-Qvx6tHY3h0 = CcE2(2044421620, Qvx6tHY3h0, (short)1896886543);
+Qvx6tHY3h0 = CcE2((unsigned short)2044421620, Qvx6tHY3h0, (short)1896886543);
 }
 }
 else if (ymPrW1j == -1274352743)
@@ -573,7 +573,7 @@ case 'A':
 ymPrW1j = x4vF1Vrol5 >> Qvx6tHY3h0;
 break;
 default:
-ymPrW1j = CcE2(1501791783, (unsigned short)1633774832, Qvx6tHY3h0);
+ymPrW1j = CcE2((unsigned short)1501791783, (unsigned short)1633774832, Qvx6tHY3h0);
 break;
 }
 }

@@ -99,7 +99,7 @@ int k = 8;
 while (k >= 0)
 {
 --k;
-ID7VsP = Z_int1WJG1(-59722212, (unsigned short)-1050973762, -304912228);
+ID7VsP = Z_int1WJG1((unsigned short)-59722212, (unsigned short)-1050973762, -304912228);
 }
 }
 }
@@ -262,7 +262,7 @@ case 2:
 Igv852r++;
 break;
 case 3:
-i9_77Fh1 = Z_int1WJG1(1187687398, (unsigned short)1735992081, cTfV5);
+i9_77Fh1 = Z_int1WJG1((unsigned short)1187687398, (unsigned short)1735992081, cTfV5);
 break;
 case 4:
 koWX = CM_ZX();
@@ -274,7 +274,7 @@ case 6:
 LOB1uQ7i2V--;
 break;
 case 7:
-L9nf5i = Z_int1WJG1(IRzx, 22463570, Lfp3fItof);
+L9nf5i = Z_int1WJG1(IRzx, (unsigned short)22463570, Lfp3fItof);
 break;
 case 8:
 ID7VsP = Z_int1WJG1(o185, (unsigned short)-1448408712, sKjcs0Omcv);
@@ -300,7 +300,7 @@ AT_mCd += 1622422756;
 break;
 case 'b':
 case 'B':
-S_0KLsswVz = Z_int1WJG1(V50q_d_, -1523717756, (short)-2029457466);
+S_0KLsswVz = Z_int1WJG1(V50q_d_, (unsigned short)-1523717756, (short)-2029457466);
 break;
 case 'c':
 case 'C':
@@ -312,7 +312,7 @@ ID7VsP = Z_int1WJG1(-1334935400, jw47, -1104218774);
 break;
 case 'e':
 case 'E':
-BOdioyi = Z_int1WJG1(-1801540581, (unsigned short)-1863891095, R29_k83AQ0) / KLC0;
+BOdioyi = Z_int1WJG1((unsigned short)-1801540581, (unsigned short)-1863891095, R29_k83AQ0) / KLC0;
 break;
 case 'f':
 case 'F':
@@ -344,7 +344,7 @@ while (i < 5);
 
 try
 {
-KLC0 = Z_int1WJG1(792133365, (unsigned short)2104140722, clifcau_7);
+KLC0 = Z_int1WJG1((unsigned short)792133365, (unsigned short)2104140722, clifcau_7);
 }
 catch (int& errorCode)
 {

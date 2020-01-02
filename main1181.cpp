@@ -35,7 +35,7 @@ do
 j--;
 for (int k = 0; k < 5; ++k)
 {
-G7He_6w6 = QZV_IS(363029522, Vm5e, -1149839903, C6zHj);
+G7He_6w6 = QZV_IS(363029522, Vm5e, (short)-1149839903, C6zHj);
 }
 }
 while (j >= 0);
@@ -66,7 +66,7 @@ VSZTX_PLi = (float)(t9ZOZ9);
 W56N2lU2_ *= 1604171982;
 
 Be45XD3E = (float)(WMaU2p + (nF1Uf6L));
-G7He_6w6 = QZV_IS(ZcId1TEr7, 1286422187, TI6Z6k, 209308349);
+G7He_6w6 = QZV_IS(ZcId1TEr7, 1286422187, TI6Z6k, (unsigned short)209308349);
 
 {
 int i = 8;
@@ -120,7 +120,7 @@ std::cout << "HpVPlrT58" << c_vmRhY << "SxlOZ3x" << std::endl;
 }
 else if (((LM7G3RK7) || (YRY8Dnk < -1143996217)) && (g3725 & -512920914))
 {
-std::cout << QZV_IS(1334064816, 1481802504, 1174135513, D75KgM) << "LoVN299YG" << RYIdOIBKjL << QZV_IS(RYIdOIBKjL, EqoMbNHz, (short)-369190147, D75KgM) << "I6FaWvo" << std::endl;
+std::cout << QZV_IS(1334064816, 1481802504, (short)1174135513, D75KgM) << "LoVN299YG" << RYIdOIBKjL << QZV_IS(RYIdOIBKjL, EqoMbNHz, (short)-369190147, D75KgM) << "I6FaWvo" << std::endl;
 }
 else if ((wjS06S53_S <= 623857358) && ((wjS06S53_S <= WMaU2p) && (VSZTX_PLi != yt7E83i_)))
 {
@@ -152,7 +152,7 @@ fe8Ck_N_yW = (int)floor(IEt_);
 }
 }
 }
-RYIdOIBKjL = kjVvY / QZV_IS(1908294882, -1552094533, -2124683815, (unsigned short)-344293531);
+RYIdOIBKjL = kjVvY / QZV_IS(1908294882, -1552094533, (short)-2124683815, (unsigned short)-344293531);
 std::cout << KQZu2J4() << DW2_Y9(b0Rh4_VIO, lDSa9, D1unp4f1) << KQZu2J4() << std::endl;
 b0Rh4_VIO = KQZu2J4() ^ 927254897;
 switch (G7He_6w6)
@@ -170,7 +170,7 @@ case 'd':
 pr59 /= TirNSPVREm;
 break;
 case 'e':
-TI6Z6k = QZV_IS(B_M4, v_296713w, -489589658, (unsigned short)268349080) ^ 352928325;
+TI6Z6k = QZV_IS(B_M4, v_296713w, (short)-489589658, (unsigned short)268349080) ^ 352928325;
 break;
 case 'f':
 m6onpu9_38 = DW2_Y9(m6onpu9_38, Zf8Sl5, ww_73);
@@ -191,7 +191,7 @@ b0Rh4_VIO = (float)(WMaU2p + (1958794812));
 }
 else if (c_vmRhY != Be45XD3E)
 {
-zc19 = DW2_Y9(1857250259, 1009406561, -394583975);
+zc19 = DW2_Y9(1857250259, 1009406561, (unsigned char)-394583975);
 }
 else if (bVOx_DxW <= 962439745)
 {
@@ -223,7 +223,7 @@ else
 int j = 10;
 while (j >= 0)
 {
-G7He_6w6 = QZV_IS(B5gEzx53, rsd_, -31810773, isDS);
+G7He_6w6 = QZV_IS(B5gEzx53, rsd_, (short)-31810773, isDS);
 j--;
 }
 }
@@ -243,7 +243,7 @@ return 0;
 
 unsigned short int	KQZu2J4()
 {
-	return	-765105813;
+	return	(unsigned short)-765105813;
 }
 
 unsigned long	QZV_IS(unsigned long	TV21C98_48,unsigned long long	UP4I31FW,short	d7RzD0pMg0,unsigned short int	nH4I2B)	{

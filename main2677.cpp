@@ -25,7 +25,7 @@ int main(int argc, char** argv)
 	unsigned long	I2uTd8f841;
 		I2uTd8f841	=	0;
 	unsigned short	QNZJM_371,	deREGrO,	d1994,	a__FK4zm5,	yl03o2K1,	mSryUO_,	WZbw,	d9jDNG7b6,	PTA9k,	HX_4oi,	n9qgVj_8DV,	DB221PNI0,	U1kn_,	l5x5,	YKOlF,	vx5HZqAj,	Gu2e4T,	Nq0W4tril,	ey03ad534u,	f6334,	G9430Zs,	Ae5Rd1,	pGal,	o_27Zuz18,	ZMpAm93djE,	iu6j,	Ma3CMp6,	mO07DTN8,	ZDO4,	p93Y1,	gnLea_yS,	t9T2,	z79VAG,	Z6_xLaH,	Y_2kyd0y,	Nyik,	HUo5T6c,	Z21o72x4ST,	y8_28y,	MaKZQ7xa,	PP7A,	p373S1F3o6,	T_HZWWdF6,	kJ069e686,	k_T17JG0,	UQz_8HN,	E0b8yK,	F64JU,	qiW61Z2vwU,	e76133Hul3,	E_3S6a,	sh6dns7pT6,	hFyMCN_sO,	fy49TPc94,	Onazs,	C7i1ElR,	mO810B,	Iq7P1k,	vtf_pnDbkr,	ZvjTThzU,	LEZG2_Sq,	qkcYyKm,	SbEO,	RhJw7,	fOPGlLUH,	XAhd,	MP5Br,	zQq84909,	sd8_9,	O_L_,	Pf69w9,	PK2XT,	gR2_En5u3,	CTql75k2,	x8F__1M01a,	H3QHF_x,	q7cipn6,	CNb1EQosk,	Fva___n,	kbVTJ9Ov,	S0f_,	EkiJ4,	c4txK3qauf,	m_e6JAjC_O;
-		QNZJM_371	=	deREGrO	=	d1994	=	a__FK4zm5	=	yl03o2K1	=	mSryUO_	=	WZbw	=	d9jDNG7b6	=	PTA9k	=	HX_4oi	=	n9qgVj_8DV	=	DB221PNI0	=	U1kn_	=	l5x5	=	YKOlF	=	vx5HZqAj	=	Gu2e4T	=	Nq0W4tril	=	ey03ad534u	=	f6334	=	G9430Zs	=	Ae5Rd1	=	pGal	=	o_27Zuz18	=	ZMpAm93djE	=	iu6j	=	Ma3CMp6	=	mO07DTN8	=	ZDO4	=	p93Y1	=	gnLea_yS	=	t9T2	=	z79VAG	=	Z6_xLaH	=	Y_2kyd0y	=	Nyik	=	HUo5T6c	=	Z21o72x4ST	=	y8_28y	=	MaKZQ7xa	=	PP7A	=	p373S1F3o6	=	T_HZWWdF6	=	kJ069e686	=	k_T17JG0	=	UQz_8HN	=	E0b8yK	=	F64JU	=	qiW61Z2vwU	=	e76133Hul3	=	E_3S6a	=	sh6dns7pT6	=	hFyMCN_sO	=	fy49TPc94	=	Onazs	=	C7i1ElR	=	mO810B	=	Iq7P1k	=	vtf_pnDbkr	=	ZvjTThzU	=	LEZG2_Sq	=	qkcYyKm	=	SbEO	=	RhJw7	=	fOPGlLUH	=	XAhd	=	MP5Br	=	zQq84909	=	sd8_9	=	O_L_	=	Pf69w9	=	PK2XT	=	gR2_En5u3	=	CTql75k2	=	x8F__1M01a	=	H3QHF_x	=	q7cipn6	=	CNb1EQosk	=	Fva___n	=	kbVTJ9Ov	=	S0f_	=	EkiJ4	=	c4txK3qauf	=	m_e6JAjC_O	=	-2110647842;
+		QNZJM_371	=	deREGrO	=	d1994	=	a__FK4zm5	=	yl03o2K1	=	mSryUO_	=	WZbw	=	d9jDNG7b6	=	PTA9k	=	HX_4oi	=	n9qgVj_8DV	=	DB221PNI0	=	U1kn_	=	l5x5	=	YKOlF	=	vx5HZqAj	=	Gu2e4T	=	Nq0W4tril	=	ey03ad534u	=	f6334	=	G9430Zs	=	Ae5Rd1	=	pGal	=	o_27Zuz18	=	ZMpAm93djE	=	iu6j	=	Ma3CMp6	=	mO07DTN8	=	ZDO4	=	p93Y1	=	gnLea_yS	=	t9T2	=	z79VAG	=	Z6_xLaH	=	Y_2kyd0y	=	Nyik	=	HUo5T6c	=	Z21o72x4ST	=	y8_28y	=	MaKZQ7xa	=	PP7A	=	p373S1F3o6	=	T_HZWWdF6	=	kJ069e686	=	k_T17JG0	=	UQz_8HN	=	E0b8yK	=	F64JU	=	qiW61Z2vwU	=	e76133Hul3	=	E_3S6a	=	sh6dns7pT6	=	hFyMCN_sO	=	fy49TPc94	=	Onazs	=	C7i1ElR	=	mO810B	=	Iq7P1k	=	vtf_pnDbkr	=	ZvjTThzU	=	LEZG2_Sq	=	qkcYyKm	=	SbEO	=	RhJw7	=	fOPGlLUH	=	XAhd	=	MP5Br	=	zQq84909	=	sd8_9	=	O_L_	=	Pf69w9	=	PK2XT	=	gR2_En5u3	=	CTql75k2	=	x8F__1M01a	=	H3QHF_x	=	q7cipn6	=	CNb1EQosk	=	Fva___n	=	kbVTJ9Ov	=	S0f_	=	EkiJ4	=	c4txK3qauf	=	m_e6JAjC_O	=	(unsigned short)-2110647842;
 
 cout << "lW8Kd8F" << us2yxL8wJc() << g3om4Y5cc((char)-531671039, -182271890, d1994, -1216381602, yl03o2K1) << endl;
 
@@ -46,7 +46,7 @@ case 'b':
 x8F__1M01a = us2yxL8wJc();
 break;
 case 'c':
-U1kn_ = G_VH80(U1kn_, -892902868);
+U1kn_ = G_VH80(U1kn_, (unsigned short)-892902868);
 break;
 case 'd':
 z79VAG = p93Y1 - 860794624;
@@ -82,7 +82,7 @@ while (j >= 0);
 while (i < 7);
 }
 
-vx5HZqAj = G_VH80(458033642, 257900814);
+vx5HZqAj = G_VH80(458033642, (unsigned short)257900814);
 
 k_T17JG0 = (unsigned short)(fy49TPc94);
 
@@ -137,7 +137,7 @@ case 7:
 Nyik = G_VH80(-1859164008, d9jDNG7b6);
 break;
 case 8:
-U1kn_ = (Fva___n < 592179594) ? -827323573 : (unsigned short)-713978046;
+U1kn_ = (Fva___n < 592179594) ? (unsigned short)-827323573 : (unsigned short)-713978046;
 break;
 case 9:
 Ae5Rd1--;
@@ -179,7 +179,7 @@ catch (int& errorCode)
 sh6dns7pT6 = G_VH80(661572530, n9qgVj_8DV);
 }
 }
-gnLea_yS = G_VH80(gnLea_yS, 2068536586);
+gnLea_yS = G_VH80(gnLea_yS, (unsigned short)2068536586);
 
 {
 int i = 0;
@@ -212,7 +212,7 @@ E0b8yK = Z21o72x4ST << y8_28y;
 switch (ZDO4)
 {
 case 'a':
-mO810B = NRyt(mO810B, -804371853, 34635274);
+mO810B = NRyt(mO810B, (short)-804371853, 34635274);
 break;
 case 'b':
 MP5Br = NRyt(-1344225559, (short)448340011, DB221PNI0);
@@ -239,7 +239,7 @@ int    NRyt(long    qQIYT,short int    V2c8CjG,long    aTC1DQ6H_)
 
 char    G_VH80(long long    o2oH4b1,unsigned short    cm6aJ_86z)
 {
-    return    33417320;
+    return    (char)33417320;
 }
 
 int g3om4Y5cc(char JH3B6w,short SpO5c3H4m,unsigned char l2o4tEZX6,unsigned char M8GCFxg_Q4,char MKBE_4DL55)

@@ -114,7 +114,7 @@ m2IGg26z = uXr7u / Cvjs3FPX5(j7UCr, -182127661, 918160378, 1842294247, -20639527
 switch (q265Dq)
 {
 case 0:
-AIFX = GV7FP1r_z8(-1260438667, 2038758856);
+AIFX = GV7FP1r_z8((unsigned short)-1260438667, 2038758856);
 break;
 case 1:
 j7UCr = GV7FP1r_z8(j7UCr, -1111213769);
@@ -147,7 +147,7 @@ default:
 ZTcr36H = (int)abs(cwn8dpjb);
 break;
 }
-U2m45v = GV7FP1r_z8(1294735353, Gs_fHp8VQ9);
+U2m45v = GV7FP1r_z8((unsigned short)1294735353, Gs_fHp8VQ9);
 return 0;
 }
 

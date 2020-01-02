@@ -15,7 +15,7 @@ int main()
  char NjEx9y1 = 0, Durhm = 0;
     double    j66zS3XMju    =    2090689428,    d1G073XAUg    =    1858437549,    ZPC52037    =    -1745110184,    yj74    =    492614167,    ez67E    =    -142759473,    Tz6R2IIo    =    1219734010,    Wbumf    =    1235830160,    RK121mF_    =    -1333502377,    SWW8A5    =    -1492731884,    La5K0e96Yi    =    1207243273,    ZVT18439    =    1024496345,    GE4w3s4C    =    -1114254846,    brs97DezPU    =    664789701,    n2463d7Q0N    =    -1333461050,    Ku8BA6    =    1458322980,    xp504k4Uq    =    -1351709817,    L9NGn    =    158560595,    ECp_    =    -751917409,    eWAZ    =    -1568469651,    b_n3WP0h_    =    719087547,    Lod1H_mP    =    -1388684360,    d5K1    =    911616530,    FG5Z    =    -1512749740,    kLlnN    =    1543572165,    O4x1O_5J    =    1244816549,    F2Up    =    328845760,    BdbVpdsk_F    =    -1024500588;
 
-std::cout << UMaaUq5A(353536785, -674176281) << Ku8BA6 << yj74 << std::endl;
+std::cout << UMaaUq5A((unsigned char)353536785, -674176281) << Ku8BA6 << yj74 << std::endl;
 {
 int i = 8;
 while (i >= 0)
@@ -27,7 +27,7 @@ if ((FG5Z >= -1811473196) && ((ZVT18439 < 1800371879) && (yj74 == 1184042651)))
 int k = 0;
 while (k < 8)
 {
-Durhm = UMaaUq5A(926513181, 51871610);
+Durhm = UMaaUq5A((unsigned char)926513181, 51871610);
 ++k;
 }
 }
@@ -42,7 +42,7 @@ Durhm = UMaaUq5A(BdbVpdsk_F, ez67E);
 }
 }
 Ku8BA6 = eWAZ / UMaaUq5A(BdbVpdsk_F, ez67E);
-std::cout << UMaaUq5A(-1738056345, ez67E) << "JN0ewpt" << "Gs3_" << n2463d7Q0N << UMaaUq5A(BdbVpdsk_F, -1916165801) << std::endl;
+std::cout << UMaaUq5A((unsigned char)-1738056345, ez67E) << "JN0ewpt" << "Gs3_" << n2463d7Q0N << UMaaUq5A(BdbVpdsk_F, -1916165801) << std::endl;
 L9NGn = (int)ceil(kLlnN);
 for (int i = 9; i >= 0; i--)
 {
@@ -88,7 +88,7 @@ BdbVpdsk_F = brs97DezPU + ZVT18439;
 }
 else
 {
-NjEx9y1 = UMaaUq5A(1558840356, brs97DezPU);
+NjEx9y1 = UMaaUq5A((unsigned char)1558840356, brs97DezPU);
 }
 }
 else
@@ -109,7 +109,7 @@ std::cout << eWAZ << Wbumf << Lod1H_mP << std::endl;
 }
 else
 {
-Durhm = UMaaUq5A(1103935853, 1990167148);
+Durhm = UMaaUq5A((unsigned char)1103935853, 1990167148);
 }
 
 switch (Durhm)
@@ -139,7 +139,7 @@ case 7:
 Wbumf = UMaaUq5A(Durhm, ECp_) >> 57729795;
 break;
 case 8:
-La5K0e96Yi = (NjEx9y1 & Durhm) ? FG5Z : UMaaUq5A(169764313, 1246092626);
+La5K0e96Yi = (NjEx9y1 & Durhm) ? FG5Z : UMaaUq5A((unsigned char)169764313, 1246092626);
 break;
 }
 {
@@ -149,7 +149,7 @@ while (i < 9)
 switch (NjEx9y1)
 {
 case 0:
-Durhm = UMaaUq5A(-887573285, -1924909553);
+Durhm = UMaaUq5A((unsigned char)-887573285, -1924909553);
 break;
 case 1:
 ZPC52037 = (int)ceil(BdbVpdsk_F);
@@ -213,7 +213,7 @@ case 'h':
 brs97DezPU += L9NGn;
 break;
 default:
-Durhm = UMaaUq5A(-1928511892, -205680948);
+Durhm = UMaaUq5A((unsigned char)-1928511892, -205680948);
 break;
 }
 

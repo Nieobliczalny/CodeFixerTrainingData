@@ -263,7 +263,7 @@ while (j >= 0);
 }
 }
 
-std::cout << TeBFx_o881(1507700601) << std::endl;
+std::cout << TeBFx_o881((unsigned short)1507700601) << std::endl;
 if (HwG5X)
 {
 p982zl4n4W = (float)(apaiV);
@@ -384,7 +384,7 @@ unsigned long BRU4(unsigned long long O4W_qd94mx,int p7IbLC_,unsigned int VCr0R1
 }
 
 unsigned short int    K5jk2eU6Sz(long    Ia6Iu2g_33)    {
-    return    -1186128493;
+    return    (unsigned short)-1186128493;
 }
 
 char	v27dIZI6W(unsigned long	Hyq2soXqcC)

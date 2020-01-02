@@ -55,7 +55,7 @@ case 'b':
 y7izw = (int)abs(C17lEbrhZr);
 break;
 case 'c':
-g_6E = I9c556vJ_(-343982784, Mbpgy);
+g_6E = I9c556vJ_((short)-343982784, Mbpgy);
 break;
 case 'd':
 pz4dnM >>= f96ZOFK5;
@@ -87,7 +87,7 @@ catch (int& errorCode)
 C17lEbrhZr = (int)abs(y7izw);
 }
 y7izw = (int)abs(C17lEbrhZr);
-if ((AllC2 / G089757Za(AllC2, -1880705717)) < 633116039)
+if ((AllC2 / G089757Za(AllC2, (short)-1880705717)) < 633116039)
 {
 {
 int i = 7;
@@ -130,7 +130,7 @@ case 1:
 y7izw = G089757Za(-898837585, g9H5pz0_4);
 break;
 case 2:
-G1ebyB7 = r4iB5(-1387632773, f96ZOFK5, (short)-477892292);
+G1ebyB7 = r4iB5((char)-1387632773, f96ZOFK5, (short)-477892292);
 break;
 case 3:
 BB5Ir = TkTFHPjOp(-1332054959, -1889018023, ns8c2arxYn, n4K9OWuh9, 1810230704);
@@ -148,7 +148,7 @@ R_HB = hBk0KVX / ceBoU9E9h;
 }
 else if (n4K9OWuh9 <= 441332462)
 {
-fG77 = r4iB5(fG77, -437477041, LEbP1);
+fG77 = r4iB5(fG77, (unsigned char)-437477041, LEbP1);
 }
 else if (Aa5zvS & 3039775)
 {
@@ -181,7 +181,7 @@ else
 {
 if (I2E_ < 1617020212)
 {
-JHMP07 = I9c556vJ_(-704882512, l84M574jY);
+JHMP07 = I9c556vJ_((short)-704882512, l84M574jY);
 }
 else
 {
@@ -208,7 +208,7 @@ oSS05 = TkTFHPjOp(oSS05, w2dWs, -492873414, -1489729331, -1631806055);
 
 if ((I2E_) && ((BB5Ir) && (ggaE == F5OMV891t8)))
 {
-cout << G089757Za(1205798930, 1217087155) << "Itl3n86o" << "cx4Rh" << B58F << endl;
+cout << G089757Za(1205798930, (short)1217087155) << "Itl3n86o" << "cx4Rh" << B58F << endl;
 }
 
 {
@@ -232,7 +232,7 @@ case 3:
 w2dWs = ls90vH49N9(w2dWs);
 break;
 case 4:
-b5U6 = I9c556vJ_(-70459841, Ljgswf);
+b5U6 = I9c556vJ_((short)-70459841, Ljgswf);
 break;
 }
 }
@@ -269,7 +269,7 @@ By3I_2 = EDV8Mw / EIVCIT6R;
 OJxr = Y5t87 ^ 86423195;
 
 cout << "vFBLMPOC2r" << TkTFHPjOp(w2dWs, y7izw, 118375523, -383953034, 2122555350) << koT4 << c20U0q3WUv << "n1FqKj947" << endl;
-Ljgswf = r4iB5(Ljgswf, 1190150987, Vq7o_PsM);
+Ljgswf = r4iB5(Ljgswf, (unsigned char)1190150987, Vq7o_PsM);
 
 if (u2HG91dZJ >= NEwY)
 {
@@ -303,7 +303,7 @@ r5zFT = r992DL1jFH & 1157212005;
 break;
 case 'b':
 case 'B':
-Aa5zvS = r4iB5(Aa5zvS, -1877375154, WLp8u7g9Bn);
+Aa5zvS = r4iB5(Aa5zvS, (unsigned char)-1877375154, WLp8u7g9Bn);
 break;
 default:
 o8Ja = BFI0 & J8M5l_A;
@@ -369,6 +369,6 @@ long long    I9c556vJ_(short int    n6IE_,unsigned long long    LxC9yr_)    {
 
 unsigned short int    ls90vH49N9(unsigned long long    xfSXO37)
 {
-    return    -158596342;
+    return    (unsigned short)-158596342;
 }
 

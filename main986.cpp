@@ -71,7 +71,7 @@ while (j >= 0)
 {
 if (YqGLr6oj)
 {
-SiBekole2B = tB3Fd(SiBekole2B, 598099904, I61TV94, 180556205, -1983869855);
+SiBekole2B = tB3Fd(SiBekole2B, 598099904, I61TV94, 180556205, (short)-1983869855);
 }
 else
 {
@@ -126,7 +126,7 @@ rDejeG9Sf0 = c009Z3Sy5 ^ l1f69AQ;
 break;
 case 'g':
 case 'G':
-PZ9r = tB3Fd(2027713361, 1381494637, iHT8cGpAW, 1437920457, (short)-1923690735);
+PZ9r = tB3Fd((short)2027713361, 1381494637, iHT8cGpAW, 1437920457, (short)-1923690735);
 break;
 case 'h':
 case 'H':
@@ -159,7 +159,7 @@ case 'c':
 DU57hlmP++;
 break;
 case 'd':
-cQnkZVK = tB3Fd(-520795935, iTthM, -240053115, 322373902, (short)-1346891354);
+cQnkZVK = tB3Fd((short)-520795935, iTthM, -240053115, 322373902, (short)-1346891354);
 break;
 case 'e':
 kCDM_D4x = cQnkZVK ^ 1610740876;
@@ -174,7 +174,7 @@ case 'h':
 Dqu5sYr /= 1958162364;
 break;
 case 'i':
-tsh3fYkQSL = tB3Fd(tsh3fYkQSL, iTthM, p84jrLO__, Yi4A, 794572051);
+tsh3fYkQSL = tB3Fd(tsh3fYkQSL, iTthM, p84jrLO__, Yi4A, (short)794572051);
 break;
 case 'j':
 tsh3fYkQSL = IId4_E + 1460586079;
@@ -194,7 +194,7 @@ cout << Yi4A << fqDHR << uD4coiR << l1f69AQ << endl;
 int i = 0;
 do
 {
-W9Tat = tB3Fd(W9Tat, 1318758741, U7A9qB_, 1298334908, -1726203522);
+W9Tat = tB3Fd(W9Tat, 1318758741, U7A9qB_, 1298334908, (short)-1726203522);
 ++i;
 }
 while (i < 4);

@@ -23,7 +23,7 @@ unsigned long    LyZ9aM(long long    u2_jCz,long    kBZP0A,unsigned short    Ce7
 
 char u3aM9K75(unsigned long dbO7zyW,int motj7R5Ok5,unsigned long long SM_zq,char P08S)
 {
- return 1279522300;
+ return (char)1279522300;
 }
 
 unsigned char N21diDwr(unsigned char jlT_w6vwee) {
@@ -134,7 +134,7 @@ qb3mdq1eh = (int)abs(CktN);
 }
 else if (lOm06 == -1923475759)
 {
-t5BKh = LyZ9aM(1270882732, H775nSaDIZ, 1217197874, -407873963, 276133288);
+t5BKh = LyZ9aM(1270882732, H775nSaDIZ, (unsigned short)1217197874, -407873963, 276133288);
 }
 else
 {
@@ -164,7 +164,7 @@ A5UB7YH9 = (int)abs(aXWfr);
 }
 else if ((jw2_ > 1595348727) || (g__01e1 < t5BKh))
 {
-J0cjGt0 = LyZ9aM(47213559, 830441365, 2104190607, 67077659, A5UB7YH9);
+J0cjGt0 = LyZ9aM(47213559, 830441365, (unsigned short)2104190607, 67077659, A5UB7YH9);
 }
 else
 {
@@ -177,7 +177,7 @@ catch (int& errorCode)
 bBf20Hs9 = u3aM9K75(1794725599, 45468807, 72163148, 1760333681);
 }
 
-cout << u3aM9K75(1811245289, re1yelk, 95807257, 1875099659) << "O40022" << "k2XU52A" << "NrL7" << "dt9v1_" << endl;
+cout << u3aM9K75(1811245289, re1yelk, 95807257, (char)1875099659) << "O40022" << "k2XU52A" << "NrL7" << "dt9v1_" << endl;
 
 try
 {
@@ -213,7 +213,7 @@ H775nSaDIZ = T83j98(H775nSaDIZ);
 break;
 case 'c':
 case 'C':
-L3t88o3R = N21diDwr(1601194343);
+L3t88o3R = N21diDwr((unsigned char)1601194343);
 break;
 case 'd':
 case 'D':
@@ -254,7 +254,7 @@ L3t88o3R = (unsigned char)(re1yelk);
 re1yelk = (unsigned char)(bBf20Hs9 * re1yelk);
 RTFLlK6 += OcRW;
 
-cout << T83j98(WkMx8G0XH) << LyZ9aM(1856840031, lOm06, -1820260821, L3t88o3R, H775nSaDIZ) << endl;
+cout << T83j98(WkMx8G0XH) << LyZ9aM(1856840031, lOm06, (unsigned short)-1820260821, L3t88o3R, H775nSaDIZ) << endl;
 
 cout << "l_SSn71_6j" << T83j98(932213861) << endl;
 {
@@ -277,7 +277,7 @@ try
 switch (g__01e1)
 {
 case 'a':
-lOm06 = u3aM9K75(-2135481951, -1220369178, -1342932753, -1070475844);
+lOm06 = u3aM9K75(-2135481951, -1220369178, -1342932753, (char)-1070475844);
 break;
 default:
 H775nSaDIZ = LyZ9aM(H775nSaDIZ, -1154007602, g__01e1, RTFLlK6, OcRW);

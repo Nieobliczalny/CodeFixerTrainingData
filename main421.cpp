@@ -19,7 +19,7 @@ int main() {
  mbOrEDj25 = 0;
  zDONkfwF_ = 0;
 	short	MPcL0fnceD,	N_Xhd15yM,	TErlSjkI,	R0WpZ80lZj,	rL11r0v__1,	WhyZz6N,	P8_Z1f,	rj2Kcn3TmB,	o44q,	f2XDQ,	O_27zxL,	Yn1_z9ZI,	v276,	TD_mr,	mxuR7E2_,	B_tgf6,	GZ2Lzii74,	se04zG23,	pHK38W4De1,	y297,	JI6q4,	x_g1RnQ,	v6YiA,	mA0Vw22mZf,	C_bj9a,	sz4m8VK2,	QR6QAt9w,	bW58,	X7f7796,	hn34_s,	cFIVi_d,	W3n5k9l,	tZz0c,	BMJ2awTc,	EfZy,	e912i,	ZNph,	K53Ay,	oHt_,	c1mng,	V5qV,	A448T465kC,	uwaqEf,	iuSO_5f,	P938T9PQf,	slqb518,	xVfcoqbA,	W_119yV_D,	wT3KX3vmp,	CIH515dM,	owODTAm9x,	FfGmGV,	Y0_NV1vk0R,	xCx4pBw,	KLH1Mx_,	qm70Sx2bmR,	JuMA7,	V7Myvj,	j4LdnDgNM,	g460py815,	IPQlDE4K,	C2AbZn6HvB,	zw44nG8,	B1uy1,	L1K3,	O3AD7JP,	x7aJ7G,	kE6ec,	m_1gn4,	L4_1xf,	Q_jA432f,	VyVQR,	LiI_YNJFs,	FuC_Pn9x,	q1x4HmN,	h60g8II7,	u66c,	p5Y3_,	VyhX,	Z1815fh,	YSkC,	vum_2,	C3R_96__n1,	bRwN7UZSw2,	IQEUE7K25q,	WWbJ5ITl,	rzQrpb,	zH6Zm10,	Nb99HqrR,	Dl7VSkIv6b,	MYyVxfN,	LWzb2x8,	hFhv8X,	k5U_b;
-	MPcL0fnceD	=	-1667127049;
+	MPcL0fnceD	=	(short)-1667127049;
 	N_Xhd15yM	=	(short)375291731;
 	TErlSjkI	=	-827838076;
 	R0WpZ80lZj	=	-586159139;
@@ -29,7 +29,7 @@ int main() {
 	rj2Kcn3TmB	=	-1470433866;
 	o44q	=	-2108306553;
 	f2XDQ	=	-2122163571;
-	O_27zxL	=	489701344;
+	O_27zxL	=	(short)489701344;
 	Yn1_z9ZI	=	(short)1226130272;
 	v276	=	567066928;
 	TD_mr	=	398651038;
@@ -39,7 +39,7 @@ int main() {
 	se04zG23	=	1785361740;
 	pHK38W4De1	=	1322043438;
 	y297	=	309951035;
-	JI6q4	=	1262227160;
+	JI6q4	=	(short)1262227160;
 	x_g1RnQ	=	(short)-317569802;
 	v6YiA	=	1370596171;
 	mA0Vw22mZf	=	654071160;
@@ -49,7 +49,7 @@ int main() {
 	bW58	=	-370610931;
 	X7f7796	=	-126306225;
 	hn34_s	=	1409333509;
-	cFIVi_d	=	663073622;
+	cFIVi_d	=	(short)663073622;
 	W3n5k9l	=	(short)1242207757;
 	tZz0c	=	-1577176613;
 	BMJ2awTc	=	165641209;
@@ -59,7 +59,7 @@ int main() {
 	K53Ay	=	-550999226;
 	oHt_	=	-1966903209;
 	c1mng	=	-1261844704;
-	V5qV	=	-1216729313;
+	V5qV	=	(short)-1216729313;
 	A448T465kC	=	(short)1196718634;
 	uwaqEf	=	-692686036;
 	iuSO_5f	=	1138082770;
@@ -69,7 +69,7 @@ int main() {
 	W_119yV_D	=	1336700247;
 	wT3KX3vmp	=	-754442163;
 	CIH515dM	=	924046581;
-	owODTAm9x	=	-898097434;
+	owODTAm9x	=	(short)-898097434;
 	FfGmGV	=	(short)899272755;
 	Y0_NV1vk0R	=	1689147548;
 	xCx4pBw	=	-1941933;
@@ -79,7 +79,7 @@ int main() {
 	V7Myvj	=	-425201627;
 	j4LdnDgNM	=	-957633064;
 	g460py815	=	-1167516223;
-	IPQlDE4K	=	-266085544;
+	IPQlDE4K	=	(short)-266085544;
 	C2AbZn6HvB	=	(short)569845804;
 	zw44nG8	=	-584293192;
 	B1uy1	=	-377700795;
@@ -89,7 +89,7 @@ int main() {
 	kE6ec	=	-1790640675;
 	m_1gn4	=	-615585716;
 	L4_1xf	=	1697928834;
-	Q_jA432f	=	154626982;
+	Q_jA432f	=	(short)154626982;
 	VyVQR	=	(short)-1398563480;
 	LiI_YNJFs	=	-166058225;
 	FuC_Pn9x	=	-1169159271;
@@ -99,7 +99,7 @@ int main() {
 	p5Y3_	=	204044400;
 	VyhX	=	605760269;
 	Z1815fh	=	1749068533;
-	YSkC	=	1895560571;
+	YSkC	=	(short)1895560571;
 	vum_2	=	(short)1736982347;
 	C3R_96__n1	=	-983075867;
 	bRwN7UZSw2	=	392274433;
@@ -109,7 +109,7 @@ int main() {
 	zH6Zm10	=	1885800004;
 	Nb99HqrR	=	-1812657666;
 	Dl7VSkIv6b	=	-221850511;
-	MYyVxfN	=	-702605116;
+	MYyVxfN	=	(short)-702605116;
 	LWzb2x8	=	(short)1651292925;
 	hFhv8X	=	-1248413694;
 	k5U_b	=	34626952;
@@ -136,7 +136,7 @@ do
 {
 if (ZNph != c1mng)
 {
-MYyVxfN = JF85tZKrW(MYyVxfN, 2096756776, g460py815, 833163842, 1971143826);
+MYyVxfN = JF85tZKrW(MYyVxfN, 2096756776, g460py815, 833163842, (unsigned short)1971143826);
 }
 else if (((K53Ay) && (zDONkfwF_ <= -550215093)) || (JuMA7 > Z1815fh))
 {
@@ -172,7 +172,7 @@ int i = 2;
 while (i >= 0)
 {
 i--;
-cout << "Gxzrlz82h" << kQEkj8L9(v276, owODTAm9x, -1149748173) << endl;
+cout << "Gxzrlz82h" << kQEkj8L9(v276, owODTAm9x, (short)-1149748173) << endl;
 }
 }
 switch (IPQlDE4K)
@@ -210,7 +210,7 @@ if (tZz0c == -1124030875)
 switch (rL11r0v__1)
 {
 case 'a':
-owODTAm9x = kQEkj8L9(owODTAm9x, L4_1xf, 297773691);
+owODTAm9x = kQEkj8L9(owODTAm9x, L4_1xf, (short)297773691);
 break;
 case 'b':
 MPcL0fnceD = (int)abs(B1uy1);
@@ -304,7 +304,7 @@ case 4:
 EfZy |= IQEUE7K25q;
 break;
 case 5:
-P938T9PQf = kQEkj8L9(P938T9PQf, -1546058875, -2080960199);
+P938T9PQf = kQEkj8L9(P938T9PQf, -1546058875, (short)-2080960199);
 break;
 case 6:
 bW58 /= 1295487331;

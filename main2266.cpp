@@ -21,7 +21,7 @@ int main() {
     double    qUOlVu5mKr    =    -38635316;
  long goNu80 = 1427954620;
     unsigned int    RUTe    =    -1468872461;
-	unsigned short int	p4mARef	=	652837242;
+	unsigned short int	p4mARef	=	(unsigned short)652837242;
     long long    lPG5    =    -587993396;
 	long long	rs6x2_W	=	-1719079749;
  int k28OA = 1634333917;
@@ -31,7 +31,7 @@ int main() {
 	long	r068zjJ	=	-1708239898;
   long double  o_JT  =  -1722104055;
     short int    c_y73YeKl    =    682351872;
-    char    UN4lc    =    -1778461397;
+    char    UN4lc    =    (char)-1778461397;
 	unsigned short int	qh89	=	-1463954337;
   short int  n_IDAhn7it  =  -1645231888;
 	unsigned short int	eBZ4QYZ	=	275535486;
@@ -41,7 +41,7 @@ int main() {
   short  PKI70Mpk  =  (short)209690452;
     char    O_SiGQl    =    1025381141;
  long z0j5 = 0;
-  short int  Mz8YySy5  =  845685344;
+  short int  Mz8YySy5  =  (short)845685344;
  long double Xk6gtH4I = 1218979695;
  long double q_3_ = -1170353062;
   unsigned int  oy1K9  =  762607359;
@@ -51,7 +51,7 @@ int main() {
     unsigned int    q3mwY8    =    -190092406;
   unsigned int  K35_4zSq  =  247120813;
   float  Ya_4OdX0n  =  -1558644331;
- unsigned char l_97x = 103308789;
+ unsigned char l_97x = (unsigned char)103308789;
     short int    q5r239    =    (short)537631849;
     unsigned long    GFG1Xx0    =    1329762233;
  long double hE06f51lz = 2041064785;
@@ -61,7 +61,7 @@ int main() {
  unsigned int LA0hlh = -1469721695;
   unsigned long  J_8Z0  =  -1843059464;
   unsigned short  Nj5Tf  =  -1911951533;
-    short    KQk__q    =    472237;
+    short    KQk__q    =    (short)472237;
 	unsigned char	Mzd49	=	(unsigned char)-1380533992;
 	unsigned short int	ohom2	=	576533683;
   char  UJZ_EIY  =  -204539771;
@@ -71,7 +71,7 @@ int main() {
 	double	j4FoXbX2K	=	-919138799;
 	short	H1015	=	0;
  long long LznHd = 2142196750;
- short int xxUe5fbL_ = -1403983798;
+ short int xxUe5fbL_ = (short)-1403983798;
 	char	d624	=	(char)1046369631;
 	char	xDK7E8Sdt	=	-2116899175;
     unsigned char    z6lM33    =    1951248712;
@@ -82,7 +82,7 @@ int main() {
   float  F2khPiGxfZ  =  46990316;
     unsigned long    Z1D8Z    =    2015840197;
     int    S4K8qtA    =    -1364834541;
-  unsigned char  DiXBR1  =  153343660;
+  unsigned char  DiXBR1  =  (unsigned char)153343660;
 	int	SfzGFJ0p	=	89240147;
  long VD2OcTN = -1287539574;
   unsigned short int  D648lAL7ev  =  (unsigned short)-223115688;
@@ -94,7 +94,7 @@ int main() {
     char    u3QJXGO8fa    =    2010123524;
     float    esCg3S    =    1844134585;
     float    u0E3q4N_    =    517094882;
- unsigned short int ir45 = 2036184941;
+ unsigned short int ir45 = (unsigned short)2036184941;
 
 try
 {
@@ -156,7 +156,7 @@ while (k < 10);
 while (j >= 0);
 }
 }
-std::cout << Ye9HeVU532(-1295341944, -152819084, (short)-63917342, 726715840) << "G2_w8N5S" << std::endl;
+std::cout << Ye9HeVU532((unsigned char)-1295341944, -152819084, (short)-63917342, 726715840) << "G2_w8N5S" << std::endl;
 
 for (int i = 1; i >= 0; i--)
 {
@@ -200,7 +200,7 @@ Mzd49++;
 int i = 0;
 while (i < 6)
 {
-std::cout << d1aSt(-954033423) << std::endl;
+std::cout << d1aSt((short)-954033423) << std::endl;
 i++;
 }
 }
@@ -244,7 +244,7 @@ while (j < 6)
 ++j;
 try
 {
-mMQ9MBDG = d1aSt(1842410639) | 1237213798;
+mMQ9MBDG = d1aSt((short)1842410639) | 1237213798;
 }
 catch (int& errorCode)
 {
@@ -303,7 +303,7 @@ std::cout << Wk8t0L83x << std::endl;
 }
 else
 {
-std::cout << vzk4gyZAnU(1605395070) << Ye9HeVU532(LA0hlh, O_SiGQl, 809269785, k28OA) << "A_RIwVHNYs" << "dQT7F7_j" << vzk4gyZAnU(-1055829190) << std::endl;
+std::cout << vzk4gyZAnU(1605395070) << Ye9HeVU532(LA0hlh, O_SiGQl, (short)809269785, k28OA) << "A_RIwVHNYs" << "dQT7F7_j" << vzk4gyZAnU(-1055829190) << std::endl;
 }
 }
 ir45 = O_SiGQl | DiXBR1;
@@ -316,7 +316,7 @@ unsigned char    d1aSt(short    b5Z9CrLQ)
 }
 
 short int Ye9HeVU532(unsigned char p59w,unsigned long sVn1l2HC0,short int J3CGnI,unsigned long T10CnG9UP) {
- return -1572783848;
+ return (short)-1572783848;
 }
 
 unsigned long    vzk4gyZAnU(unsigned long long    EWm3_1yb)

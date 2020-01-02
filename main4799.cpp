@@ -26,7 +26,7 @@ int main(void)
     unsigned long    OEJk4ebtRR;
     OEJk4ebtRR    =    -419451176;
     unsigned short    F428oV8;
-    F428oV8    =    1308300875;
+    F428oV8    =    (unsigned short)1308300875;
     double    tI260krO;
     tI260krO    =    793335837;
   unsigned short  y0b0;
@@ -40,7 +40,7 @@ int main(void)
 	float	H9x01Bk;
 	H9x01Bk	=	1097147124;
     char    cHpbqc_B31;
-    cHpbqc_B31    =    -230297766;
+    cHpbqc_B31    =    (char)-230297766;
     short    AyP0856;
     AyP0856    =    (short)-18505852;
   unsigned char  n6tra4;
@@ -50,7 +50,7 @@ int main(void)
   long double  K1MSDHZI;
   K1MSDHZI  =  119787526;
   short  ISOcGsWRtE;
-  ISOcGsWRtE  =  355330401;
+  ISOcGsWRtE  =  (short)355330401;
     float    ZI30Y2_75h;
     ZI30Y2_75h    =    -1682447549;
 	short	kz3wDBC;
@@ -64,7 +64,7 @@ int main(void)
  unsigned long L3lxLa;
  L3lxLa = -1569702896;
     short int    wKvNOWq;
-    wKvNOWq    =    -459361566;
+    wKvNOWq    =    (short)-459361566;
     short    DABNTCp;
     DABNTCp    =    (short)-459165917;
 	unsigned short int	cSGyx;
@@ -74,7 +74,7 @@ int main(void)
  unsigned long ypykS;
  ypykS = 777674364;
   unsigned short int  ACvv8m;
-  ACvv8m  =  -431318149;
+  ACvv8m  =  (unsigned short)-431318149;
   unsigned short  q4lqB45Pn;
   q4lqB45Pn  =  (unsigned short)490811532;
 	unsigned short int	r6st0pO6c;
@@ -88,7 +88,7 @@ int main(void)
  long long y_99;
  y_99 = 1709729425;
   unsigned short int  dprjBUez;
-  dprjBUez  =  863019992;
+  dprjBUez  =  (unsigned short)863019992;
  unsigned long F2X1vg5Z;
  F2X1vg5Z = -2024053228;
 
@@ -104,7 +104,7 @@ case 2:
 K1MSDHZI = (int)floor(SHiIepwM);
 break;
 case 3:
-HksZpu_ = GzQK1(1493339440, r6st0pO6c, 1332375307, 1997412561, ZI30Y2_75h);
+HksZpu_ = GzQK1(1493339440, r6st0pO6c, (unsigned short)1332375307, 1997412561, ZI30Y2_75h);
 break;
 case 4:
 i7aDy0JI1 = GzQK1(y_99, kz3wDBC, (unsigned short)-1843126673, OEJk4ebtRR, NWaA);
@@ -124,7 +124,7 @@ H9x01Bk = n6tra4 + 680608737;
 }
 }
 }
-std::cout << "OybD" << GzQK1(y_99, 618009010, ZI30Y2_75h, -1380827637, NWaA) << std::endl;
+std::cout << "OybD" << GzQK1(y_99, 618009010, ZI30Y2_75h, (unsigned char)-1380827637, NWaA) << std::endl;
 try
 {
 L3lxLa = n6tra4 - 177876612;
@@ -143,7 +143,7 @@ int j = 0;
 do
 {
 ++j;
-HksZpu_ = GzQK1(qH6SBo, wKvNOWq, ZI30Y2_75h, 994875098, 265029054);
+HksZpu_ = GzQK1(qH6SBo, wKvNOWq, ZI30Y2_75h, (unsigned char)994875098, 265029054);
 }
 while (j < 5);
 }
@@ -157,7 +157,7 @@ switch (y_99)
 {
 case 'a':
 case 'A':
-i7aDy0JI1 = GzQK1(407028126, i7aDy0JI1, 1755910996, (unsigned char)-966136654, SHiIepwM);
+i7aDy0JI1 = GzQK1(407028126, i7aDy0JI1, (unsigned short)1755910996, (unsigned char)-966136654, SHiIepwM);
 break;
 case 'b':
 case 'B':
@@ -177,7 +177,7 @@ xmBJfxt = GzQK1(DABNTCp, xmBJfxt, ypykS, d_Xpoo, 58904293);
 break;
 case 'f':
 case 'F':
-i7aDy0JI1 = GzQK1(-869170199, i7aDy0JI1, -832522911, (unsigned char)1326593895, kz3wDBC);
+i7aDy0JI1 = GzQK1(-869170199, i7aDy0JI1, (unsigned short)-832522911, (unsigned char)1326593895, kz3wDBC);
 break;
 }
 

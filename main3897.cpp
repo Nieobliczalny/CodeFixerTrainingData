@@ -18,7 +18,7 @@ int main(void)
  unsigned long long Kx4l = 1237368113;
   unsigned short  z0f1tP  =  0;
 	int	jv4Z_wWb	=	-1123410088;
-	unsigned short int	idZk	=	1133814917;
+	unsigned short int	idZk	=	(unsigned short)1133814917;
  char kHWG92 = (char)1175942201;
 
 if (z0f1tP == lNiD9G6uj8)

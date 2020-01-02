@@ -23,7 +23,7 @@ int main(int argc, char** argv) {
 	unsigned short	wHDf;
 	wHDf	=	0;
     unsigned short    w70d22S4T;
-    w70d22S4T    =    -1206549093;
+    w70d22S4T    =    (unsigned short)-1206549093;
 	float	zhTq;
 	zhTq	=	735978195;
 	unsigned long	mHT2mQJWm4;
@@ -43,7 +43,7 @@ int main(int argc, char** argv) {
 	long	m2Oa;
 	m2Oa	=	-842965964;
     unsigned char    aOi1r;
-    aOi1r    =    -1464056525;
+    aOi1r    =    (unsigned char)-1464056525;
  unsigned char OMi2H;
  OMi2H = (unsigned char)-1661303238;
     char    mqKk33;
@@ -59,7 +59,7 @@ int main(int argc, char** argv) {
  int AP402_8Aua;
  AP402_8Aua = -2086765184;
     unsigned char    YAsuBhUs;
-    YAsuBhUs    =    -1761372748;
+    YAsuBhUs    =    (unsigned char)-1761372748;
     unsigned long    VrPUlsawN;
     VrPUlsawN    =    1541460207;
     unsigned int    tPbjsJwT5C;
@@ -127,7 +127,7 @@ int j = 0;
 do
 {
 ++j;
-std::cout << XkLtDw(-1877926698) << std::endl;
+std::cout << XkLtDw((unsigned short)-1877926698) << std::endl;
 }
 while (j < 7);
 }
@@ -211,7 +211,7 @@ Ks_19W = XkLtDw(mHT2mQJWm4);
 break;
 case 'c':
 case 'C':
-VrPUlsawN = lDXxkO8v_E(562517199);
+VrPUlsawN = lDXxkO8v_E((unsigned short)562517199);
 break;
 case 'd':
 case 'D':
@@ -242,7 +242,7 @@ case 'b':
 pLKRgod = lDXxkO8v_E(dbkB6uXpb);
 break;
 case 'c':
-ne68JE = XkLtDw(-1547480321);
+ne68JE = XkLtDw((unsigned short)-1547480321);
 break;
 case 'd':
 Ks_19W = XkLtDw((unsigned short)2008649477);
@@ -280,7 +280,7 @@ else
 {
 if (Y70_b0_1CE > E6aJz9)
 {
-ne68JE = XkLtDw(2111602118);
+ne68JE = XkLtDw((unsigned short)2111602118);
 }
 else
 {
@@ -296,7 +296,7 @@ if (((IH7Pc >= 101321796) || (UWr__ < AP402_8Aua)) || (mHT2mQJWm4 > -1313944918)
 int k = 2;
 do
 {
-VrPUlsawN = (eq8OF5 >= 1207971305) ? A7XmOa : lDXxkO8v_E(-551356153);
+VrPUlsawN = (eq8OF5 >= 1207971305) ? A7XmOa : lDXxkO8v_E((unsigned short)-551356153);
 --k;
 }
 while (k >= 0);
@@ -314,7 +314,7 @@ Tz208Eqp = lDXxkO8v_E(Tz208Eqp);
 }
 else
 {
-Ks_19W = XkLtDw(-1081528323);
+Ks_19W = XkLtDw((unsigned short)-1081528323);
 }
 }
 }
@@ -334,7 +334,7 @@ case 1:
 VrPUlsawN |= 12800826;
 break;
 case 2:
-m2Oa = lDXxkO8v_E(-383482639) << VrPUlsawN;
+m2Oa = lDXxkO8v_E((unsigned short)-383482639) << VrPUlsawN;
 break;
 case 3:
 ZHquQJT3H5 = (int)floor(zhTq);
@@ -349,7 +349,7 @@ case 6:
 wHDf = XkLtDw(Q1Qa322);
 break;
 case 7:
-wHDf = XkLtDw(-1864541929);
+wHDf = XkLtDw((unsigned short)-1864541929);
 break;
 case 8:
 OMi2H -= 1573499717;
@@ -375,7 +375,7 @@ Tz208Eqp += 11105938;
 break;
 case 'c':
 case 'C':
-aOi1r = XkLtDw(-1390457085) | AP402_8Aua;
+aOi1r = XkLtDw((unsigned short)-1390457085) | AP402_8Aua;
 break;
 case 'd':
 case 'D':
@@ -391,7 +391,7 @@ aOi1r--;
 break;
 case 'g':
 case 'G':
-wHDf = XkLtDw(-201569161);
+wHDf = XkLtDw((unsigned short)-201569161);
 break;
 case 'h':
 case 'H':
@@ -412,7 +412,7 @@ int j = 0;
 do
 {
 ++j;
-std::cout << mHT2mQJWm4 << XkLtDw(-624477655) << std::endl;
+std::cout << mHT2mQJWm4 << XkLtDw((unsigned short)-624477655) << std::endl;
 }
 while (j < 9);
 }
@@ -452,7 +452,7 @@ for (int i = 8; i >= 0; --i)
 {
 eq8OF5 = lDXxkO8v_E(eq8OF5);
 }
-ne68JE = XkLtDw(-1869762606);
+ne68JE = XkLtDw((unsigned short)-1869762606);
 std::cout << "rX59DO1355" << "X26V1pR" << XkLtDw(gO56P_3) << lDXxkO8v_E(gO56P_3) << std::endl;
 if (E227T == 936993167)
 {
@@ -468,7 +468,7 @@ HiUE9yuG3C = (int)ceil(Tz208Eqp);
 break;
 case 'c':
 case 'C':
-A7XmOa = XkLtDw(-1924517202) ^ 1960708754;
+A7XmOa = XkLtDw((unsigned short)-1924517202) ^ 1960708754;
 break;
 case 'd':
 case 'D':
@@ -491,7 +491,7 @@ case 'H':
 Q1Qa322 = (int)floor(zhTq);
 break;
 default:
-dbkB6uXpb = XkLtDw(1132279933);
+dbkB6uXpb = XkLtDw((unsigned short)1132279933);
 break;
 }
 }
@@ -515,7 +515,7 @@ int i = 9;
 while (i >= 0)
 {
 --i;
-E227T = lDXxkO8v_E(-1317960280) & dEzFKh8;
+E227T = lDXxkO8v_E((unsigned short)-1317960280) & dEzFKh8;
 }
 }
 switch (wHDf)
@@ -536,7 +536,7 @@ case 4:
 HiUE9yuG3C = (int)ceil(e3vE68);
 break;
 case 5:
-mHT2mQJWm4 = lDXxkO8v_E(1514498839);
+mHT2mQJWm4 = lDXxkO8v_E((unsigned short)1514498839);
 break;
 case 6:
 ne68JE = XkLtDw((unsigned short)-353100262);
@@ -555,7 +555,7 @@ Yof5EoK = (int)floor(HiUE9yuG3C);
 break;
 }
 
-ne68JE = XkLtDw(1724645900);
+ne68JE = XkLtDw((unsigned short)1724645900);
 
 return 0;
 }

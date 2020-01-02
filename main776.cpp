@@ -24,7 +24,7 @@ if (rMZxUE1D6Q != h5e8V7l71)
 switch (do4h)
 {
 case 'a':
-q9_5BNfuf = vm2J3Ov(228109521, q9_5BNfuf, -86486728);
+q9_5BNfuf = vm2J3Ov((unsigned short)228109521, q9_5BNfuf, -86486728);
 break;
 case 'b':
 jJrOA++;
@@ -42,7 +42,7 @@ case 'f':
 jJrOA--;
 break;
 case 'g':
-HriWDS_ = y3YY9x8k(1181756320, 432701468, nJWtZv0ID, QbL9, 1233386465);
+HriWDS_ = y3YY9x8k(1181756320, (short)432701468, nJWtZv0ID, QbL9, 1233386465);
 break;
 default:
 I43a = (int)abs(W8ShdajQ9) + (-872031405);
@@ -54,7 +54,7 @@ else
 jJrOA = vm2J3Ov(jJrOA, QbL9, -1199285598);
 }
 
-std::cout << "m05Rny6DK" << F6Ai(jJrOA, QbL9, rMZxUE1D6Q, q9_5BNfuf, -951920994) << std::endl;
+std::cout << "m05Rny6DK" << F6Ai(jJrOA, QbL9, rMZxUE1D6Q, q9_5BNfuf, (short)-951920994) << std::endl;
 nJWtZv0ID = (int)(jJrOA);
 std::cout << vm2J3Ov((unsigned short)-1350358467, -109604588, 961999943) << JGId3dXdt << UZO1CaNRt1 << nJWtZv0ID << vm2J3Ov(jJrOA, QbL9, -331418006) << std::endl;
 
@@ -77,7 +77,7 @@ if (QbL9 > 143312605)
 int k = 0;
 while (k < 8)
 {
-UZO1CaNRt1 = F6Ai(-292645412, rMZxUE1D6Q, h5e8V7l71, q9_5BNfuf, jJrOA);
+UZO1CaNRt1 = F6Ai((unsigned char)-292645412, rMZxUE1D6Q, h5e8V7l71, q9_5BNfuf, jJrOA);
 ++k;
 }
 }
@@ -111,7 +111,7 @@ j--;
 int k = 0;
 do
 {
-QbL9 = y3YY9x8k(rMZxUE1D6Q, -285286572, W8ShdajQ9, I43a, 1044459347);
+QbL9 = y3YY9x8k(rMZxUE1D6Q, (short)-285286572, W8ShdajQ9, I43a, 1044459347);
 ++k;
 }
 while (k < 3);
@@ -137,6 +137,6 @@ long long    F6Ai(unsigned char    D2Md5CY,long    UF63xog_9Z,short    BAQAoGGQK
 
 unsigned char vm2J3Ov(unsigned short pJ94o34Bl,long Nds9,long cfdIj)
 {
- return -1701448772;
+ return (unsigned char)-1701448772;
 }
 

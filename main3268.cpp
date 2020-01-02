@@ -33,7 +33,7 @@ SBPl4RQ8xW = l6Lw3Tf3(-988072593, tuf4, HYcW);
 }
 else if (dUJQrI)
 {
-I5NUdi = yfoMvf(-182121965, (unsigned char)-1014673472, 1044062363, -723367859);
+I5NUdi = yfoMvf((unsigned short)-182121965, (unsigned char)-1014673472, 1044062363, -723367859);
 }
 else if (((gJr_0 >= N_fr458wN9) || (EJdHXy == I5NUdi)) && (fRl5s > 41027322))
 {
@@ -82,7 +82,7 @@ do
 j--;
 if (fRl5s)
 {
-H2vg = l6Lw3Tf3(-476843586, Rj2I, 1460036307);
+H2vg = l6Lw3Tf3(-476843586, Rj2I, (unsigned short)1460036307);
 }
 }
 while (j >= 0);
@@ -97,7 +97,7 @@ I5NUdi = yfoMvf(HYcW, B_5IOYl, -948803542, -1576162757);
 break;
 case 'b':
 case 'B':
-b308l_ = G4U65w(453460735, -1689300451, B_5IOYl);
+b308l_ = G4U65w(453460735, (unsigned short)-1689300451, B_5IOYl);
 break;
 case 'c':
 case 'C':
@@ -113,7 +113,7 @@ a392MQ = p094N(hh6u3fP6S, L64SGq) * oZfM;
 break;
 case 'f':
 case 'F':
-XXmbGedU1 = G4U65w(1151787024, -1194112178, HYcW);
+XXmbGedU1 = G4U65w(1151787024, (unsigned short)-1194112178, HYcW);
 break;
 case 'g':
 case 'G':
@@ -148,7 +148,7 @@ while (k >= 0);
 aW5hU76cU = (unsigned long)(N_fr458wN9 + (-1711372528));
 try
 {
-std::cout << yfoMvf(jJbttch4n, 1814415563, HRLWv, RPTg) << T1KTD << yfoMvf(jJbttch4n, (unsigned char)-438349874, 203851269, -1480429600) << std::endl;
+std::cout << yfoMvf(jJbttch4n, (unsigned char)1814415563, HRLWv, RPTg) << T1KTD << yfoMvf(jJbttch4n, (unsigned char)-438349874, 203851269, -1480429600) << std::endl;
 }
 catch (int& errorCode)
 {
@@ -180,7 +180,7 @@ else
 {
 if (C9Y7_qE0 != N_fr458wN9)
 {
-std::cout << G4U65w(-582290408, kMtB_uH9, rxq88) << p094N(-1335267833, kMtB_uH9) << "yL1I0" << std::endl;
+std::cout << G4U65w(-582290408, kMtB_uH9, rxq88) << p094N((unsigned short)-1335267833, kMtB_uH9) << "yL1I0" << std::endl;
 }
 else
 {
@@ -196,7 +196,7 @@ for (int j = 9; j >= 0; --j)
 {
 try
 {
-I5NUdi = yfoMvf(606549505, HYcW, 1955500753, ekrkIn);
+I5NUdi = yfoMvf((unsigned short)606549505, HYcW, 1955500753, ekrkIn);
 }
 catch (int& errorCode)
 {
@@ -225,7 +225,7 @@ K6U8qHk = u_hjO0J8c / 801200521;
 break;
 case 'd':
 case 'D':
-epzL = G4U65w(50374891, Al_3i, 399399235);
+epzL = G4U65w(50374891, Al_3i, (unsigned char)399399235);
 break;
 case 'e':
 case 'E':
@@ -237,7 +237,7 @@ u1i_Gt /= tuf4;
 break;
 case 'g':
 case 'G':
-aj3fYLiS = G4U65w(1478073731, WpuWVsk, -2131377637);
+aj3fYLiS = G4U65w(1478073731, WpuWVsk, (unsigned char)-2131377637);
 break;
 case 'h':
 case 'H':
@@ -280,6 +280,6 @@ unsigned long long    p094N(unsigned short    a4Dl16EXc,unsigned char    iH4t)  
 
 char  G4U65w(long long  fd36fb,unsigned short int  ei0fmNt,unsigned char  QgXjmE9QZ7)
 {
-  return  937491302;
+  return  (char)937491302;
 }
 

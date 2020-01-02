@@ -21,7 +21,7 @@ int main()
 {
   unsigned long long  R_1I  =  1102033870;
   long long  Q60xyz  =  -678756789;
-	short int	JAncqMMN1	=	159400701;
+	short int	JAncqMMN1	=	(short)159400701;
 	unsigned short	GIa5ecA	=	0;
  char Owhg = 0;
 	short	eYf9rY	=	0;

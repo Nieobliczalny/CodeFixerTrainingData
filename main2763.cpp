@@ -10,7 +10,7 @@
 using namespace std;
 
 short int  bH71mlCU22(unsigned char  K9q5I6ay,unsigned char  b_5G7u8)  {
-  return  236357563;
+  return  (short)236357563;
 }
 
 unsigned short  E6i2(long  selv,long  v9yxg8Wc,long  oGUkIiVc3i)
@@ -187,7 +187,7 @@ rr08YI = E6i2(1773488598, SG331l8yV, t8zUT8247);
 }
 else
 {
-SG331l8yV = bH71mlCU22(SG331l8yV, -1313505826);
+SG331l8yV = bH71mlCU22(SG331l8yV, (unsigned char)-1313505826);
 }
 
 vsOZLOd = cY5ngcK_ / b0u7;
@@ -219,7 +219,7 @@ if (vsOZLOd >= 2063366420)
 {
 if (N_r3W7_Y >= yt000)
 {
-kc6drE9Ugb = bH71mlCU22(kc6drE9Ugb, -1946947660);
+kc6drE9Ugb = bH71mlCU22(kc6drE9Ugb, (unsigned char)-1946947660);
 }
 else
 {
@@ -239,7 +239,7 @@ kc6drE9Ugb = (long)(N_r3W7_Y);
 while (i < 3);
 }
 hK21Td = (char)(ja356 * (o805T79zk7));
-cout << "n2D6R8Sx" << jbmg_d3(1938456470) << N_r3W7_Y << "qk5LV" << d4Hj1gL7f(kc6drE9Ugb, (char)1033201370) << endl;
+cout << "n2D6R8Sx" << jbmg_d3((unsigned char)1938456470) << N_r3W7_Y << "qk5LV" << d4Hj1gL7f(kc6drE9Ugb, (char)1033201370) << endl;
 switch (SG331l8yV)
 {
 case 'a':
@@ -262,7 +262,7 @@ case 2:
 IG1j44l = mAnrvi9eH % 1273070836;
 break;
 case 3:
-YdM9y = bH71mlCU22(YdM9y, 705487118);
+YdM9y = bH71mlCU22(YdM9y, (unsigned char)705487118);
 break;
 default:
 IG1j44l = jbmg_d3((unsigned char)381405467);
@@ -275,7 +275,7 @@ SG331l8yV = (long)(iSNq + (1837710990));
 switch (iSNq)
 {
 case 'a':
-Uid8uid1 = d4Hj1gL7f(Uid8uid1, 2102245694);
+Uid8uid1 = d4Hj1gL7f(Uid8uid1, (char)2102245694);
 break;
 case 'b':
 cY5ngcK_ = bH71mlCU22(cY5ngcK_, (unsigned char)180891117);
@@ -290,7 +290,7 @@ case 'e':
 kc6drE9Ugb--;
 break;
 case 'f':
-yt000 = bH71mlCU22(mTR9NFb77, 985680539);
+yt000 = bH71mlCU22(mTR9NFb77, (unsigned char)985680539);
 break;
 case 'g':
 Uid8uid1 = bH71mlCU22((unsigned char)-1282665008, Uid8uid1);
@@ -323,7 +323,7 @@ default:
 t8zUT8247 = d4Hj1gL7f(t8zUT8247, oL1602u);
 break;
 }
-cout << d4Hj1gL7f(215251581, (char)-1425592304) << endl;
+cout << d4Hj1gL7f((unsigned short)215251581, (char)-1425592304) << endl;
 
 if ((ja356 > o805T79zk7) || (iSNq <= 1357989679))
 {

@@ -10,7 +10,7 @@ using namespace std;
 
 unsigned short int SnYarN3()
 {
- return 2055398253;
+ return (unsigned short)2055398253;
 }
 
 short    Y591EcM(long long    Sgpcb00,unsigned char    d_FmH00g_,int    UivrpJ1aIW,unsigned short int    gYwQ0_Co)    {
@@ -80,7 +80,7 @@ while (j < 8)
 ++j;
 try
 {
-oM9FaWF5 = Y591EcM(422985886, -866496666, RWb5, HGBq0VS_Z6);
+oM9FaWF5 = Y591EcM(422985886, (unsigned char)-866496666, RWb5, HGBq0VS_Z6);
 }
 catch (int& errorCode)
 {
@@ -257,7 +257,7 @@ else
 switch (o8A1Z)
 {
 case 0:
-WSlkZRl = Y591EcM(1798761540, -113528020, -1879657613, Je94wX) & 444659553;
+WSlkZRl = Y591EcM(1798761540, (unsigned char)-113528020, -1879657613, Je94wX) & 444659553;
 break;
 case 1:
 G3OFzZ8hr = SnYarN3();
@@ -330,7 +330,7 @@ case 3:
 S81_az = T09Csc0x(-462368224, HGBq0VS_Z6, 651367965);
 break;
 case 4:
-A9IdtJ = Y591EcM(A9IdtJ, -1076574213, -1661378177, (unsigned short)-2082294115);
+A9IdtJ = Y591EcM(A9IdtJ, (unsigned char)-1076574213, -1661378177, (unsigned short)-2082294115);
 break;
 case 5:
 NEE4 = RPDS76Ow ^ wF4FnUnt;
@@ -357,7 +357,7 @@ i++;
 }
 }
 
-CRkX = SnYarN3() / Y591EcM(A9IdtJ, -1308006965, 1913589294, (unsigned short)-853314957);
+CRkX = SnYarN3() / Y591EcM(A9IdtJ, (unsigned char)-1308006965, 1913589294, (unsigned short)-853314957);
 {
 int i = 0;
 while (i < 4)
@@ -528,7 +528,7 @@ case 1:
 OK_6Y0 = e37Q652 + 507668148;
 break;
 case 2:
-oM9FaWF5 = Y591EcM(-1651616090, 1447564718, 476348967, (unsigned short)-953842706);
+oM9FaWF5 = Y591EcM(-1651616090, (unsigned char)1447564718, 476348967, (unsigned short)-953842706);
 break;
 }
 }
@@ -622,7 +622,7 @@ case 3:
 wOGzv3 = SnYarN3();
 break;
 case 4:
-S1ysn = Y591EcM(867865665, 212078324, -657389446, (unsigned short)1857545659);
+S1ysn = Y591EcM(867865665, (unsigned char)212078324, -657389446, (unsigned short)1857545659);
 break;
 case 5:
 k558 %= pj_shs0;
@@ -668,7 +668,7 @@ o8A1Z = (int)abs(JI24Hm);
 }
 else
 {
-A9IdtJ = Y591EcM(j1P8AhVuY5, -1153824200, -399544404, (unsigned short)-1844576306);
+A9IdtJ = Y591EcM(j1P8AhVuY5, (unsigned char)-1153824200, -399544404, (unsigned short)-1844576306);
 }
 }
 else if ((CsNpMC7 != 403427894) && (uu4w_ & 1384036828))
@@ -745,7 +745,7 @@ for (int j = 6; j >= 0; j--)
 {
 if ((a2E89GW8 != JI24Hm) || (Vhmgg86y0R <= -1012542643))
 {
-A9IdtJ = Y591EcM(JI24Hm, Kr5R1s_SH, -764738073, -1689495346);
+A9IdtJ = Y591EcM(JI24Hm, Kr5R1s_SH, -764738073, (unsigned short)-1689495346);
 }
 }
 }

@@ -14,7 +14,7 @@ using std::floor;
 
 char  YVp69CJ292(unsigned int  fM_44,unsigned char  fHBn9yFSS,int  X9i8byU)
 {
-  return  581013044;
+  return  (char)581013044;
 }
 
 unsigned long long	Xe6XQ8ia2(unsigned long long	MaLAToxO8)
@@ -27,7 +27,7 @@ unsigned long  QViS()  {
 }
 
 unsigned char	VA3u1sUZ5e(int	sA7m6i,unsigned int	cLs18,unsigned short	hgws,long	YZ541MI)	{
-	return	1378601774;
+	return	(unsigned char)1378601774;
 }
 
 short int    W9Lay3(unsigned long long    bPhS,long long    m2O8Zx,unsigned long    Arv9,long    lN5O,unsigned int    iy1VJhc)    {

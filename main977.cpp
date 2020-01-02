@@ -88,7 +88,7 @@ sTOa8wb = (int)abs(uGw4Cm);
 }
 else if (sJnf != 12132355)
 {
-std::cout << "Ho55bIH21" << XKO2F(-636256893, -1781215464) << XKO2F(wMCy, 1510036491) << std::endl;
+std::cout << "Ho55bIH21" << XKO2F((char)-636256893, -1781215464) << XKO2F(wMCy, 1510036491) << std::endl;
 }
 else if (sTOa8wb & 1271058644)
 {
@@ -150,7 +150,7 @@ for (int j = 0; j < 7; ++j)
 {
 if ((tTVN7dN4 & 1751907225) && (eo6y_D5W >= S2mW5))
 {
-pvLmSL = XKO2F(-641711315, 771792129);
+pvLmSL = XKO2F((char)-641711315, 771792129);
 }
 else if ((GvM7Mlp4h <= -1396152143) || ((CRtM87sT >= S2mW5) && (S2mW5 > cMQCFEcqjX)))
 {
@@ -166,7 +166,7 @@ d90Zfy = (int)abs(ik0OvN_6a2);
 }
 else if (tqA_a != 328768271)
 {
-sTOa8wb = XKO2F(-879758663, -790360179);
+sTOa8wb = XKO2F((char)-879758663, -790360179);
 }
 else
 {
@@ -220,7 +220,7 @@ v3894EQ9P6 = A1ztx(v3894EQ9P6, wMCy);
 
 for (int i = 0; i < 8; i++)
 {
-std::cout << XKO2F(-2063941859, wMCy) << "F2XIjWp_" << std::endl;
+std::cout << XKO2F((char)-2063941859, wMCy) << "F2XIjWp_" << std::endl;
 }
 
 h4p_U8o4 |= 31299861;
@@ -405,7 +405,7 @@ do
 {
 try
 {
-wMCy = XKO2F(-1674258414, ik0OvN_6a2);
+wMCy = XKO2F((char)-1674258414, ik0OvN_6a2);
 }
 catch (int& errorCode)
 {
@@ -432,7 +432,7 @@ cMQCFEcqjX >>= h4p_U8o4;
 break;
 case 'c':
 case 'C':
-ik0OvN_6a2 = XKO2F(803597058, -984364291);
+ik0OvN_6a2 = XKO2F((char)803597058, -984364291);
 break;
 case 'd':
 case 'D':
@@ -478,7 +478,7 @@ int j = 0;
 while (j < 4)
 {
 ++j;
-S2mW5 = XKO2F(-1744153214, -117854276) + 1328918849;
+S2mW5 = XKO2F((char)-1744153214, -117854276) + 1328918849;
 }
 }
 i++;
@@ -493,6 +493,6 @@ int	A1ztx(long long	HZDn3q_9,long long	sfXpvq)
 }
 
 short int  XKO2F(char  JL_6_N7Rq4,long long  TTp424QS)  {
-  return  -1210262962;
+  return  (short)-1210262962;
 }
 

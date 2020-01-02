@@ -143,7 +143,7 @@ h6hMY = Q31g_MZ965(h6hMY);
 }
 else if (g5zld == -1751416901)
 {
-std::cout << Q31g_MZ965(h6hMY) << s9H4r0K(h6hMY, 571466773, -1541054016, (unsigned short)1951091444) << hT18n << GNspz << std::endl;
+std::cout << Q31g_MZ965(h6hMY) << s9H4r0K(h6hMY, (short)571466773, -1541054016, (unsigned short)1951091444) << hT18n << GNspz << std::endl;
 }
 else
 {
@@ -185,7 +185,7 @@ break;
 
 for (int i = 10; i >= 0; i--)
 {
-FS1AS = s9H4r0K(-1296149025, fusd4ezMu, bvQRuW, ENyPIk68n);
+FS1AS = s9H4r0K((short)-1296149025, fusd4ezMu, bvQRuW, ENyPIk68n);
 }
 
 switch (e584T)
@@ -200,7 +200,7 @@ case 2:
 BD9cTt = (int)floor(q_v20v3);
 break;
 case 3:
-bOMe1P8H0 = epM7(-1971307479);
+bOMe1P8H0 = epM7((char)-1971307479);
 break;
 case 4:
 V6Xc = (int)abs(W2HLK);
@@ -221,7 +221,7 @@ case 9:
 IqKix9Z = n83yWG6oL(Xv52DK4w2V, IqKix9Z);
 break;
 }
-std::cout << epM7(432891558) << Q3Pb44 << j364m3R_0(Xv52DK4w2V, IqKix9Z, GKwI_46, (unsigned char)2142954081) << "eSl9YN61" << std::endl;
+std::cout << epM7((char)432891558) << Q3Pb44 << j364m3R_0(Xv52DK4w2V, IqKix9Z, GKwI_46, (unsigned char)2142954081) << "eSl9YN61" << std::endl;
 
 try
 {
@@ -235,7 +235,7 @@ catch (int& errorCode)
 V6Xc = pyHxQcE / np3SE1GU;
 }
 
-Z60_q33 = s9H4r0K(1840390277, fZ9MWt, 197167905, (unsigned short)1251784034);
+Z60_q33 = s9H4r0K((short)1840390277, fZ9MWt, 197167905, (unsigned short)1251784034);
 
 if (hT18n <= GKwI_46)
 {
@@ -255,7 +255,7 @@ return 0;
 
 short int epM7(char EAcn)
 {
- return 1289831399;
+ return (short)1289831399;
 }
 
 short s9H4r0K(short RydNe3Wr4Z,short dX7UxK,long fN_754,unsigned short int ZdL1S153M) {

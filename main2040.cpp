@@ -123,7 +123,7 @@ case 'c':
 DOL6mX47a = qbk_ << jiUq;
 break;
 case 'd':
-M4d8T = (ahfsOXsq3F > S6CsRi0l29) ? 1361149406 : DOL6mX47a;
+M4d8T = (ahfsOXsq3F > S6CsRi0l29) ? (short)1361149406 : DOL6mX47a;
 break;
 case 'e':
 JZmjs3 = (F2fW > 1245913967) ? B3jP8 : (short)717789090;

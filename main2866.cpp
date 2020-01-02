@@ -15,7 +15,7 @@ using std::floor;
 int main(void) {
     int    u9oz1e    =    2080555989;
   int  ukYPU  =  0;
-	char	n9y9NuN	=	1194322514;
+	char	n9y9NuN	=	(char)1194322514;
  unsigned short IF1_ = 0;
  unsigned char rc_5lg = (unsigned char)-136490288;
   unsigned long long  KU7h9se2  =  0;

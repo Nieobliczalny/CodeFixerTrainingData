@@ -18,7 +18,7 @@ unsigned long	CARsp2()	{
 
 int main(void) {
   unsigned short int  VA526f4y,  luE064D1_N,  C9kn3,  l6_9hti,  WFOe,  nJb_59jz8,  AV31luL7OX,  sKnI0Xcopv,  xSZGePR,  Y8sAO;
-    VA526f4y  =  luE064D1_N  =  C9kn3  =  l6_9hti  =  WFOe  =  nJb_59jz8  =  AV31luL7OX  =  sKnI0Xcopv  =  xSZGePR  =  Y8sAO  =  1419471168;
+    VA526f4y  =  luE064D1_N  =  C9kn3  =  l6_9hti  =  WFOe  =  nJb_59jz8  =  AV31luL7OX  =  sKnI0Xcopv  =  xSZGePR  =  Y8sAO  =  (unsigned short)1419471168;
     long    MQPzo,    w2l0X6ngv,    gzC1930tgd,    PVYj3L3j,    K_6t3;
         MQPzo    =    w2l0X6ngv    =    gzC1930tgd    =    PVYj3L3j    =    K_6t3    =    0;
 

@@ -16,7 +16,7 @@ int main() {
 	unsigned char	PHs_7uy4,	mm8Lo868RS,	BDR4fb,	e8Aq;
 		PHs_7uy4	=	mm8Lo868RS	=	BDR4fb	=	e8Aq	=	0;
   short  NBgTvV,  nQZ2,  EP0aGipR_,  bLZNT,  pH80t,  B19u8h3Bb,  tjt5B8,  Yo9dbms0U,  ETATF,  u3iy_7;
-    NBgTvV  =  nQZ2  =  EP0aGipR_  =  bLZNT  =  pH80t  =  B19u8h3Bb  =  tjt5B8  =  Yo9dbms0U  =  ETATF  =  u3iy_7  =  960525732;
+    NBgTvV  =  nQZ2  =  EP0aGipR_  =  bLZNT  =  pH80t  =  B19u8h3Bb  =  tjt5B8  =  Yo9dbms0U  =  ETATF  =  u3iy_7  =  (short)960525732;
 
 switch (bLZNT)
 {

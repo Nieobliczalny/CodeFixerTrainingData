@@ -12,7 +12,7 @@ using namespace std;
 
 int main() {
   short  RT2v5Cm;
-  RT2v5Cm  =  967436372;
+  RT2v5Cm  =  (short)967436372;
   unsigned long long  VAKL;
   VAKL  =  78873789;
 	unsigned short	avky31Lsk;
@@ -22,7 +22,7 @@ int main() {
 	unsigned int	qQq2A_12;
 	qQq2A_12	=	-408559467;
     short    ln3X5b;
-    ln3X5b    =    -1149307303;
+    ln3X5b    =    (short)-1149307303;
  unsigned short DU2fWU;
  DU2fWU = (unsigned short)1753037437;
  short int cbp8lH;
@@ -32,7 +32,7 @@ int main() {
     unsigned long    pYWJA6jA;
     pYWJA6jA    =    2063512057;
   unsigned char  WUc7M;
-  WUc7M  =  667654874;
+  WUc7M  =  (unsigned char)667654874;
     short    a947;
     a947    =    (short)1959156339;
 	short	KsHX65Wd;
@@ -42,7 +42,7 @@ int main() {
 	long	E9316;
 	E9316	=	0;
     short    UF0TJt94;
-    UF0TJt94    =    -1719633368;
+    UF0TJt94    =    (short)-1719633368;
     unsigned long    rfWvnHV4i7;
     rfWvnHV4i7    =    -1209082019;
  unsigned long hC1TQ_B;

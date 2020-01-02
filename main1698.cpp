@@ -31,7 +31,7 @@ int main(void)
     int    s2Aq0l    =    675324843;
  float pk13y5 = 1813906282;
 	double	LY0bzmgAH	=	757974711;
-    short    ACY6_m    =    -1358908057;
+    short    ACY6_m    =    (short)-1358908057;
     unsigned short int    lV_J_    =    0;
   long long  pb8G_9Bu  =  -1364809814;
   unsigned short int  r6P4_N2V7  =  (unsigned short)-319266986;
@@ -103,7 +103,7 @@ case 3:
 j39_p22 = ACY6_m >> pb8G_9Bu;
 break;
 case 4:
-j39_p22 = Jk3y1A(424884560, RobW_p);
+j39_p22 = Jk3y1A((short)424884560, RobW_p);
 break;
 case 5:
 j39_p22 |= 822869911;
@@ -170,7 +170,7 @@ if ((345682558 / RobW_p) != -189096616)
 {
 if (RobW_p == 0)
 {
-	ACY6_m = Jk3y1A(58626879, 1649289760) / RobW_p;
+	ACY6_m = Jk3y1A((short)58626879, 1649289760) / RobW_p;
 }
 }
 

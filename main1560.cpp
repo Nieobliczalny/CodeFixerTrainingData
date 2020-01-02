@@ -15,7 +15,7 @@ int main()
 	int	OX_IZZKj66;
 	OX_IZZKj66	=	1115145348;
 	char	hIll;
-	hIll	=	1637847873;
+	hIll	=	(char)1637847873;
  long long QE0QYs5A3;
  QE0QYs5A3 = -183207895;
     char    zRz8x;
@@ -33,7 +33,7 @@ int main()
     long    Zk5X9Z1kI;
     Zk5X9Z1kI    =    -1572083856;
   unsigned short  J4d4wWlt;
-  J4d4wWlt  =  -586537158;
+  J4d4wWlt  =  (unsigned short)-586537158;
   long  uZKdYKz0;
   uZKdYKz0  =  0;
 	char	n2gVC;
@@ -47,7 +47,7 @@ int main()
  long long RXCQv;
  RXCQv = 0;
 	short int	UUs_g;
-	UUs_g	=	-537656312;
+	UUs_g	=	(short)-537656312;
 
 bXL36 = zRz8x ^ 964857979;
 
@@ -89,7 +89,7 @@ else
 int j = 0;
 do
 {
-zRz8x = (UD0S23lrJ > xYk514x) ? n2gVC : 75374940;
+zRz8x = (UD0S23lrJ > xYk514x) ? n2gVC : (char)75374940;
 ++j;
 }
 while (j < 5);
@@ -263,7 +263,7 @@ No0po++;
 }
 else
 {
-UUs_g = (bXL36) ? Zk5X9Z1kI : 17931523;
+UUs_g = (bXL36) ? Zk5X9Z1kI : (short)17931523;
 }
 if ((Md0lX == UUs_g) || (RXCQv))
 {

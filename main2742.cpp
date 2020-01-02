@@ -30,7 +30,7 @@ unsigned long long	Wsd7BrN()
 
 unsigned short  co2Zy3ta(int  vcCYrfvS,char  I0GvhMaIEt,unsigned short  RTMNmWmA)
 {
-  return  -614290958;
+  return  (unsigned short)-614290958;
 }
 
 int main() {
@@ -41,7 +41,7 @@ int main() {
 	long	UV9sw;
 	UV9sw	=	1734283257;
   unsigned char  BHI3MY;
-  BHI3MY  =  -1037056321;
+  BHI3MY  =  (unsigned char)-1037056321;
  unsigned short int b5h5t;
  b5h5t = -564624120;
  int KQL_;
@@ -57,7 +57,7 @@ int main() {
   int  d9_Mv90S_b;
   d9_Mv90S_b  =  -1005837804;
     unsigned short    a5gn_52uqB;
-    a5gn_52uqB    =    -2113028520;
+    a5gn_52uqB    =    (unsigned short)-2113028520;
     long long    GmtZ_b6rT;
     GmtZ_b6rT    =    1848079779;
     char    EZ01;
@@ -69,7 +69,7 @@ int main() {
   unsigned long  ktqNQ6Qz_o;
   ktqNQ6Qz_o  =  1482784204;
     unsigned short    TgdVbu_L;
-    TgdVbu_L    =    -1970090077;
+    TgdVbu_L    =    (unsigned short)-1970090077;
  long double S2ZIohakB;
  S2ZIohakB = 1211595132;
  unsigned long long nC4m;
@@ -98,7 +98,7 @@ else
 {
 try
 {
-Vwb5bcdVZ = oL6_ZM75z(nC4m, -653953779, X_or2KCJ, (short)-1376901767);
+Vwb5bcdVZ = oL6_ZM75z(nC4m, (short)-653953779, X_or2KCJ, (short)-1376901767);
 }
 catch (int& errorCode)
 {
@@ -132,7 +132,7 @@ nC4m /= EZ01;
 break;
 case 'e':
 case 'E':
-S68L = co2Zy3ta(S68L, -1420063080, (unsigned short)-1457396666);
+S68L = co2Zy3ta(S68L, (char)-1420063080, (unsigned short)-1457396666);
 break;
 case 'f':
 case 'F':
@@ -144,7 +144,7 @@ oHhg1d = co2Zy3ta(oHhg1d, 104713067, ktqNQ6Qz_o);
 break;
 case 'h':
 case 'H':
-Vwb5bcdVZ = oL6_ZM75z(349324016, -1174986101, S2ZIohakB, UV9sw);
+Vwb5bcdVZ = oL6_ZM75z(349324016, (short)-1174986101, S2ZIohakB, UV9sw);
 break;
 case 'i':
 case 'I':
@@ -155,7 +155,7 @@ case 'J':
 g3qXdSi4 &= nC4m;
 break;
 default:
-Vwb5bcdVZ = oL6_ZM75z(-1274478049, Hl_yxX, d9_Mv90S_b, 1025094828);
+Vwb5bcdVZ = oL6_ZM75z(-1274478049, Hl_yxX, d9_Mv90S_b, (short)1025094828);
 break;
 }
 }
@@ -202,7 +202,7 @@ Vwb5bcdVZ = oL6_ZM75z(BHI3MY, nC4m, -1324453617, d9_Mv90S_b);
 }
 else if (b5h5t)
 {
-ZO_tQ7 = VTKXDc0h39(1966755591, Hl_yxX, 462024571);
+ZO_tQ7 = VTKXDc0h39(1966755591, Hl_yxX, (unsigned short)462024571);
 }
 else if ((oHhg1d) || ((b5h5t > 2132807102) && (d9_Mv90S_b)))
 {

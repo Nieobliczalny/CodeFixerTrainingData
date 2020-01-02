@@ -16,7 +16,7 @@ int main(int argc, char** argv)
 	int	Xscs5;
 	Xscs5	=	1156680757;
 	unsigned char	vJ9Z;
-	vJ9Z	=	-1812569890;
+	vJ9Z	=	(unsigned char)-1812569890;
  short int zvpKFr;
  zvpKFr = (short)-169232564;
   long long  Zz9_;
@@ -26,7 +26,7 @@ int main(int argc, char** argv)
   int  KqeW_o1xU;
   KqeW_o1xU  =  -624727595;
 	short	hHN3VuMvz;
-	hHN3VuMvz	=	-1734841190;
+	hHN3VuMvz	=	(short)-1734841190;
 	unsigned int	J_AX;
 	J_AX	=	-1422402520;
 	double	HWV39732;
@@ -36,7 +36,7 @@ int main(int argc, char** argv)
 	long long	divciEE6k8;
 	divciEE6k8	=	740730300;
 	unsigned short int	n79cd;
-	n79cd	=	-2081209115;
+	n79cd	=	(unsigned short)-2081209115;
   float  L3Uxw35x32;
   L3Uxw35x32  =  849887855;
 	short	v93R4TN;
@@ -46,7 +46,7 @@ int main(int argc, char** argv)
  unsigned short Lu0xCIOS;
  Lu0xCIOS = -901370863;
 	char	RHv7kvJs;
-	RHv7kvJs	=	-1272283222;
+	RHv7kvJs	=	(char)-1272283222;
   long double  k5_75Bo_2y;
   k5_75Bo_2y  =  2089429203;
  int TEd_;
@@ -58,7 +58,7 @@ int main(int argc, char** argv)
  double m2ma0DcE;
  m2ma0DcE = -1658227629;
   short int  HJMWrw19Z;
-  HJMWrw19Z  =  746406791;
+  HJMWrw19Z  =  (short)746406791;
     long double    P6184;
     P6184    =    84336745;
     long long    eePk4bB;
@@ -70,7 +70,7 @@ int main(int argc, char** argv)
   unsigned long  GIAZ0;
   GIAZ0  =  267468384;
 	unsigned char	mvIgxDH90C;
-	mvIgxDH90C	=	-1502780099;
+	mvIgxDH90C	=	(unsigned char)-1502780099;
 	unsigned int	gT48w;
 	gT48w	=	1354284856;
  unsigned short BOnZ5Le2G5;
@@ -82,7 +82,7 @@ int main(int argc, char** argv)
  unsigned long l8iK;
  l8iK = 0;
   unsigned short  VDqt;
-  VDqt  =  -1211338971;
+  VDqt  =  (unsigned short)-1211338971;
   char  FRzeXbtf6;
   FRzeXbtf6  =  (char)1707015952;
   unsigned short  siFRF;
@@ -96,7 +96,7 @@ int main(int argc, char** argv)
  unsigned long ZvVU;
  ZvVU = 746317258;
 	unsigned short	ASaF44L1Hm;
-	ASaF44L1Hm	=	344540160;
+	ASaF44L1Hm	=	(unsigned short)344540160;
  long long gd0gXI8RO;
  gd0gXI8RO = 1005685498;
 	long long	LqBJD_;
@@ -106,7 +106,7 @@ int main(int argc, char** argv)
     unsigned short int    GrH4;
     GrH4    =    -856763633;
  unsigned short ICfY9VtO8;
- ICfY9VtO8 = 552344084;
+ ICfY9VtO8 = (unsigned short)552344084;
     unsigned short int    vhK8G3_;
     vhK8G3_    =    -128211908;
 	unsigned long long	n0HJ;
@@ -116,7 +116,7 @@ int main(int argc, char** argv)
 	long long	z5xqwrz_;
 	z5xqwrz_	=	-1545620600;
     unsigned char    dCIQL4;
-    dCIQL4    =    978809740;
+    dCIQL4    =    (unsigned char)978809740;
     int    M7yvR6Tx;
     M7yvR6Tx    =    318346277;
  unsigned char znR6eihjOv;
@@ -126,7 +126,7 @@ int main(int argc, char** argv)
 	double	U5A6e06buT;
 	U5A6e06buT	=	-1158679244;
 	char	Ql2gc6X;
-	Ql2gc6X	=	-424276364;
+	Ql2gc6X	=	(char)-424276364;
     unsigned short int    Fx737;
     Fx737    =    (unsigned short)-2122765607;
     short    z6r77e;
@@ -136,7 +136,7 @@ int main(int argc, char** argv)
   long  N46KvCro;
   N46KvCro  =  0;
 	unsigned char	AUsoV;
-	AUsoV	=	-1339610474;
+	AUsoV	=	(unsigned char)-1339610474;
     long    ED21N7Y;
     ED21N7Y    =    -556250033;
 
@@ -164,7 +164,7 @@ int k = 0;
 do
 {
 ++k;
-l8iK = RpSCRrvJMZ(c7_5p7avk, -881613372);
+l8iK = RpSCRrvJMZ(c7_5p7avk, (short)-881613372);
 }
 while (k < 4);
 }
@@ -285,7 +285,7 @@ int i = 0;
 do
 {
 i++;
-fZe9p = RpSCRrvJMZ(-332860689, gd0gXI8RO);
+fZe9p = RpSCRrvJMZ((short)-332860689, gd0gXI8RO);
 }
 while (i < 8);
 }
@@ -296,7 +296,7 @@ do
 {
 if (AUsoV >= 857411867)
 {
-std::cout << RpSCRrvJMZ(J_AX, 2066805788) << "sk_pR78jMh" << std::endl;
+std::cout << RpSCRrvJMZ(J_AX, (short)2066805788) << "sk_pR78jMh" << std::endl;
 }
 else
 {
@@ -313,7 +313,7 @@ Lu0xCIOS = VDqt / fZe9p;
 int i = 0;
 do
 {
-l8iK = RpSCRrvJMZ(U5A6e06buT, -1530846835);
+l8iK = RpSCRrvJMZ(U5A6e06buT, (short)-1530846835);
 ++i;
 }
 while (i < 8);
@@ -323,7 +323,7 @@ if (P6184 == -708216106)
 {
 if (HWV39732 >= FRzeXbtf6)
 {
-std::cout << RpSCRrvJMZ(1680599110, (short)1088125293) << z5xqwrz_ << p6bp() << "df891GI_a" << std::endl;
+std::cout << RpSCRrvJMZ((short)1680599110, (short)1088125293) << z5xqwrz_ << p6bp() << "df891GI_a" << std::endl;
 }
 else
 {

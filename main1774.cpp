@@ -83,7 +83,7 @@ CTjdjuAR *= jIoiO9QI5;
 }
 else if (((g1w1D5h > -1637198648) && (k_T3_V & jIoiO9QI5)) && (qLC5hJw8H > -923929890))
 {
-p2dj4_ = m1ua(p2dj4_, -124964236, LG8j1, (short)-2064851686);
+p2dj4_ = m1ua(p2dj4_, (unsigned short)-124964236, LG8j1, (short)-2064851686);
 }
 else
 {
@@ -126,7 +126,7 @@ else if (g1w1D5h >= FuDMfVl)
 {
 if (k_T3_V == TulpF)
 {
-BlwRIs0z = m1ua(BlwRIs0z, -557368508, M54spFV, (short)-580069178);
+BlwRIs0z = m1ua(BlwRIs0z, (unsigned short)-557368508, M54spFV, (short)-580069178);
 }
 }
 else if (dQa4dIs0v_ < BlwRIs0z)

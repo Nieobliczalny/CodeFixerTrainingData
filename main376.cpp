@@ -20,7 +20,7 @@ long long    BUmk0dP(int    Cwe2748j2B,unsigned int    w9_g,unsigned short int  
 
 unsigned char  i_Wbsw1W()
 {
-  return  -641419710;
+  return  (unsigned char)-641419710;
 }
 
 unsigned long long  G9mZn(unsigned long long  Lx01_3slO)  {
@@ -34,7 +34,7 @@ unsigned long  VaqZhp_2hj(short int  DTBc_Qaux,unsigned int  to0nikMM)
 
 int main(int argc, char** argv)
 {
-  short int  u69G3n3j_  =  -999622465;
+  short int  u69G3n3j_  =  (short)-999622465;
 	short	h03si	=	(short)-253876908;
     unsigned long    Wemr4pa    =    809737652;
     unsigned int    I8e_dXW6Y    =    0;
@@ -47,7 +47,7 @@ int main(int argc, char** argv)
 	float	SoM1U8i	=	-2082774625;
 	double	Th4_VLCN_	=	-603669015;
     unsigned long long    Z84w    =    175892299;
-  char  OAHGALs2V  =  355174937;
+  char  OAHGALs2V  =  (char)355174937;
 	short int	PY3tUOp_Xi	=	(short)-1420789643;
     unsigned short    JWm17cO    =    1603037706;
   unsigned long long  j20h0  =  -970048322;
@@ -122,7 +122,7 @@ else if ((Z84w >= ZJFE6M) || (b5vPnpL_ > 181197789))
 switch (JThwZ8)
 {
 case 'a':
-SoM1U8i = VaqZhp_2hj(-160420948, 1134866117);
+SoM1U8i = VaqZhp_2hj((short)-160420948, 1134866117);
 break;
 case 'b':
 PY3tUOp_Xi = G9mZn(-1459857656);
@@ -216,7 +216,7 @@ while (k >= 0);
 }
 }
 SoM1U8i = OAHGALs2V + 909939220;
-if ((-292231768 / bGcI88hE(-934038011)) != 1378744640)
+if ((-292231768 / bGcI88hE((short)-934038011)) != 1378744640)
 {
 if (A_Lx != -524002387)
 {
@@ -246,7 +246,7 @@ std::cout << "M3ij" << "wKiEOjV3" << JThwZ8 << std::endl;
 
 PY3tUOp_Xi ^= 90454903;
 
-j20h0 = BUmk0dP(1538002301, JWm17cO, -1201159474, 1643022957);
+j20h0 = BUmk0dP(1538002301, JWm17cO, (unsigned short)-1201159474, 1643022957);
 {
 int i = 4;
 do

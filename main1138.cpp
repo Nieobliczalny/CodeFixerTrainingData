@@ -17,7 +17,7 @@ long    sUf9q(unsigned long    uBy3_1Xz5,int    r_BG9,unsigned long    PEi08)
 }
 
 unsigned short int    GFSbfl9w(int    eF9cmzJ0j,long    gSdEul,long long    s_c1,long    Co9p2L8Q)    {
-    return    405000989;
+    return    (unsigned short)405000989;
 }
 
 int main(int argc, char** argv) {
@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
 	unsigned int	ops6;
 	ops6	=	-1781984665;
 	short int	Hg9rBYOR_U;
-	Hg9rBYOR_U	=	312671892;
+	Hg9rBYOR_U	=	(short)312671892;
  unsigned long long ouY69U9;
  ouY69U9 = -655814878;
  double HvWOur;
@@ -56,7 +56,7 @@ int main(int argc, char** argv) {
   unsigned int  w87dY;
   w87dY  =  975275022;
  unsigned short k0eyVlv6T;
- k0eyVlv6T = -2069738182;
+ k0eyVlv6T = (unsigned short)-2069738182;
 
 if (((w87dY != SQ3vV6I9cr) && (ops6 <= 975535133)) || (Spk1R == -2072288850))
 {

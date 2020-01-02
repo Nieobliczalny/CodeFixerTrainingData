@@ -24,7 +24,7 @@ int main(void) {
 	short	F84gJh,	EjM9CXpQ,	T87ry2x4,	EBtJl8Atw,	yLa77lQ;
 		F84gJh	=	EjM9CXpQ	=	T87ry2x4	=	EBtJl8Atw	=	yLa77lQ	=	0;
  short int Ia6Gnh_, n5Q1OQ, Knwh, O31GZ, A9eV5wUY, d9st;
-  Ia6Gnh_ = n5Q1OQ = Knwh = O31GZ = A9eV5wUY = d9st = -560481863;
+  Ia6Gnh_ = n5Q1OQ = Knwh = O31GZ = A9eV5wUY = d9st = (short)-560481863;
 
 for (int i = 9; i >= 0; --i)
 {
@@ -97,7 +97,7 @@ try
 switch (Ia6Gnh_)
 {
 case 0:
-Ia6Gnh_ = smR55Mw7(-351546651, -1815090699, T87ry2x4, (unsigned short)-1657179541, F84gJh);
+Ia6Gnh_ = smR55Mw7(-351546651, (unsigned short)-1815090699, T87ry2x4, (unsigned short)-1657179541, F84gJh);
 break;
 case 1:
 d9st = wmgdvUe9(yLa77lQ);
@@ -144,7 +144,7 @@ T87ry2x4 = (short)(s1pzpW7 * T87ry2x4);
 }
 else if (F84gJh < s1pzpW7)
 {
-std::cout << wmgdvUe9(2058547563) << wmgdvUe9((char)441549518) << std::endl;
+std::cout << wmgdvUe9((char)2058547563) << wmgdvUe9((char)441549518) << std::endl;
 }
 else if (d9st)
 {
@@ -185,6 +185,6 @@ unsigned long long mR14M_WJt(long K81ZV1WQL8,unsigned long mF5x_R0B,short G78fQY
 
 short	wB0_2AZ(int	Ro9XEefEx)
 {
-	return	-1461742734;
+	return	(short)-1461742734;
 }
 

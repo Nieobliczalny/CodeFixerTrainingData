@@ -14,7 +14,7 @@
 int main(int argc, char** argv)
 {
   unsigned long long  t_R_  =  0;
-	unsigned short	A8pL	=	1288002506;
+	unsigned short	A8pL	=	(unsigned short)1288002506;
 	long	jK7PQ1860	=	0;
   short int  M54dT_0bzp  =  0;
  long long ayd3jD2E_E = 0;

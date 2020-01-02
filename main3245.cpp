@@ -19,7 +19,7 @@ unsigned int  r9HBN_lrE(long long  IVrR_h__,unsigned int  BbrUTJRca,long long  q
 
 int main(int argc, char** argv) {
 	short int	VC7dy;
-	VC7dy	=	-1285787796;
+	VC7dy	=	(short)-1285787796;
  short int tR0D4;
  tR0D4 = (short)-667995617;
   long double  nJl3eG;
@@ -33,7 +33,7 @@ int main(int argc, char** argv) {
   long  E_ozH9_J;
   E_ozH9_J  =  -227891093;
 	char	I2qI7R2Iwm;
-	I2qI7R2Iwm	=	1998518592;
+	I2qI7R2Iwm	=	(char)1998518592;
 	unsigned short	qshhR08O4;
 	qshhR08O4	=	0;
     float    uoCQ9q2;

@@ -26,7 +26,7 @@ unsigned short	Wo1e6fMk_K(unsigned long long	S7At,unsigned long	FWr8)
 }
 
 unsigned short  Hb_fOl_gxf(unsigned int  F_LB,unsigned short int  S9gA,char  oSfKv4jw)  {
-  return  262296363;
+  return  (unsigned short)262296363;
 }
 
 int main(int argc, char** argv)
@@ -38,7 +38,7 @@ int main(int argc, char** argv)
 
 if ((u6NFt25 / Wo1e6fMk_K(182446220, pYg0lwr)) != -671669493)
 {
-l9DUoITUum = Hb_fOl_gxf(-1319749927, 1391597590, sli_) / Wo1e6fMk_K(AYrJF1VEfi, pYg0lwr);
+l9DUoITUum = Hb_fOl_gxf(-1319749927, (unsigned short)1391597590, sli_) / Wo1e6fMk_K(AYrJF1VEfi, pYg0lwr);
 }
 
 if (uHTw65r <= 1596802009)
@@ -67,7 +67,7 @@ jX9g0YP = sli_ & 238427302;
 }
 }
 
-std::cout << "r5yj" << Hb_fOl_gxf(AYrJF1VEfi, pYg0lwr, sli_) << AYrJF1VEfi << Hb_fOl_gxf(AYrJF1VEfi, pYg0lwr, 168093691) << "DjrjfhGf8_" << std::endl;
+std::cout << "r5yj" << Hb_fOl_gxf(AYrJF1VEfi, pYg0lwr, sli_) << AYrJF1VEfi << Hb_fOl_gxf(AYrJF1VEfi, pYg0lwr, (char)168093691) << "DjrjfhGf8_" << std::endl;
 
 switch (jX9g0YP)
 {
@@ -94,7 +94,7 @@ if (HzLaw < xJ46_C)
 {
 try
 {
-AYrJF1VEfi = Hb_fOl_gxf(AYrJF1VEfi, -199771509, (char)1163787110);
+AYrJF1VEfi = Hb_fOl_gxf(AYrJF1VEfi, (unsigned short)-199771509, (char)1163787110);
 }
 catch (int& errorCode)
 {
@@ -116,7 +116,7 @@ if ((HzLaw) || (l9DUoITUum > HzLaw))
 switch (uHTw65r)
 {
 case 'a':
-AYrJF1VEfi = Hb_fOl_gxf(1914776191, jX9g0YP, 186683685);
+AYrJF1VEfi = Hb_fOl_gxf(1914776191, jX9g0YP, (char)186683685);
 break;
 case 'b':
 frB42g2r = pYg0lwr + HzLaw;
@@ -154,7 +154,7 @@ case 'f':
 u6NFt25 = Wo1e6fMk_K(-1146150111, uHTw65r);
 break;
 case 'g':
-l9DUoITUum = Hb_fOl_gxf(u6NFt25, 528343783, (char)-828603791);
+l9DUoITUum = Hb_fOl_gxf(u6NFt25, (unsigned short)528343783, (char)-828603791);
 break;
 case 'h':
 pYg0lwr = Hb_fOl_gxf(-1332429241, 1682572990, AYrJF1VEfi);
@@ -200,7 +200,7 @@ while (j < 8);
 }
 while (i < 9);
 }
-std::cout << Hb_fOl_gxf(sli_, 396305974, AYrJF1VEfi) << frB42g2r << frB42g2r << u6NFt25 << pYg0lwr << std::endl;
+std::cout << Hb_fOl_gxf(sli_, (unsigned short)396305974, AYrJF1VEfi) << frB42g2r << frB42g2r << u6NFt25 << pYg0lwr << std::endl;
 sli_ = (unsigned int)(jX9g0YP);
 {
 int i = 5;
@@ -255,7 +255,7 @@ else if (((jX9g0YP < u6NFt25) && (pYg0lwr < -1202186775)) || (l9DUoITUum >= 1770
 switch (uHTw65r)
 {
 case 0:
-jX9g0YP = Hb_fOl_gxf(u6NFt25, jX9g0YP, -1873471623);
+jX9g0YP = Hb_fOl_gxf(u6NFt25, jX9g0YP, (char)-1873471623);
 break;
 case 1:
 HzLaw = Hb_fOl_gxf(u6NFt25, HzLaw, (char)-752815522);
@@ -309,7 +309,7 @@ while (j < 6)
 ++j;
 for (int k = 0; k < 8; k++)
 {
-frB42g2r = Hb_fOl_gxf(-114541639, 1424615969, u6NFt25);
+frB42g2r = Hb_fOl_gxf(-114541639, (unsigned short)1424615969, u6NFt25);
 }
 }
 }

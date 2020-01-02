@@ -18,7 +18,7 @@ int    NHWxncC(unsigned int    cKAab1N7,short int    t7jUa,unsigned short    zLd
 }
 
 unsigned short IaZ3NA2(unsigned long long ln0d,unsigned int Kijc,short int yXAHSNA8,short gIU_1h,unsigned long long AeB0K) {
- return 22585655;
+ return (unsigned short)22585655;
 }
 
 unsigned short  z7cWl716G(unsigned long  tyZ8X)
@@ -42,7 +42,7 @@ int main() {
 
 H1JT63N7 = (int)abs(VgfI657cv);
 JEN2u85g = (long double)(W7h4gLI57);
-P0V7 = jtnihKIStG(-1125944804, 570120401, W7h4gLI57, b1V9N_36) / NHWxncC(VgfI657cv, (short)-1714047288, W7h4gLI57);
+P0V7 = jtnihKIStG((short)-1125944804, 570120401, W7h4gLI57, b1V9N_36) / NHWxncC(VgfI657cv, (short)-1714047288, W7h4gLI57);
 
 for (int i = 0; i < 3; ++i)
 {
@@ -63,7 +63,7 @@ else
 int k = 0;
 do
 {
-DR736KU = IaZ3NA2(-1891668871, H1JT63N7, P0V7, -1383319403, -1990097489);
+DR736KU = IaZ3NA2(-1891668871, H1JT63N7, P0V7, (short)-1383319403, -1990097489);
 k++;
 }
 while (k < 5);

@@ -14,7 +14,7 @@ unsigned long F2u6Niog_R(long Kl49,short Hl86,long Ag81k7YD,short int i_epU,long
 
 unsigned short  IR73yz3VK(int  fW8Ov3w9)
 {
-  return  -1577007562;
+  return  (unsigned short)-1577007562;
 }
 
 short	RVP_aw(unsigned long long	wAG_LcZOb)	{

@@ -161,7 +161,7 @@ s8wJa = HKCTvI5HN(mgV57M4, m1589c4hw);
 }
 }
 
-XUNwWe = WnWSw2 / HKCTvI5HN(-597930848, -695815123);
+XUNwWe = WnWSw2 / HKCTvI5HN((unsigned short)-597930848, -695815123);
 switch (pmrTQ4OK4)
 {
 case 'a':
@@ -186,7 +186,7 @@ case 'g':
 vSX26 >>= 1876437187;
 break;
 case 'h':
-s8wJa = HKCTvI5HN(182225069, -648881382);
+s8wJa = HKCTvI5HN((unsigned short)182225069, -648881382);
 break;
 default:
 JQ43g = B80eFt49U % 1809638964;
@@ -283,7 +283,7 @@ while (k < 8);
 }
 else if (Pe858x >= -356518739)
 {
-s8wJa = HKCTvI5HN(1481152995, d3m45);
+s8wJa = HKCTvI5HN((unsigned short)1481152995, d3m45);
 }
 else
 {
@@ -338,7 +338,7 @@ int k = 4;
 do
 {
 --k;
-YcSEe = HKCTvI5HN(424977204, -1136302962);
+YcSEe = HKCTvI5HN((unsigned short)424977204, -1136302962);
 }
 while (k >= 0);
 }

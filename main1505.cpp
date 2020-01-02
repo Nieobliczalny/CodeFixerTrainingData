@@ -100,7 +100,7 @@ int k = 0;
 do
 {
 k++;
-E12K1bVW0 = Omp2YNk2Wf(mom789_, -279294626);
+E12K1bVW0 = Omp2YNk2Wf(mom789_, (unsigned char)-279294626);
 }
 while (k < 5);
 }
@@ -124,6 +124,6 @@ long	Qiq1Q(unsigned long long	msKA_,short	qD0VjTM,short int	tmf3VgxE,short int	t
 }
 
 unsigned char    Xv2ntyjPmT(short    FQ3x9Ml6,unsigned char    ZCr5eF,short int    g5w33L1,unsigned short    j2_9A6qVgp)    {
-    return    768900171;
+    return    (unsigned char)768900171;
 }
 

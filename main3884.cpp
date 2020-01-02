@@ -228,7 +228,7 @@ short int  LJLhGI66O(int  Am9lE)
 }
 
 short	iuXT()	{
-	return	-1916558302;
+	return	(short)-1916558302;
 }
 
 unsigned char    Dc1u_rM3(unsigned int    UlK2Ok)

@@ -17,7 +17,7 @@ unsigned long long Hp2N6iU74()
 
 unsigned short int  Amr3O(unsigned short int  bcLgGy8l,long long  Sg5W64Z,unsigned int  Z428,unsigned char  bxRm9JZ)
 {
-  return  -956963679;
+  return  (unsigned short)-956963679;
 }
 
 unsigned long  nxebY3(unsigned long long  q7H0laftV,long long  Tg2Q)
@@ -31,7 +31,7 @@ unsigned long long  h129723(unsigned char  DMHbyaS)  {
 
 int main(void) {
     long long    zOd_    =    -219508628;
-	char	BK4y99wwc	=	892440208;
+	char	BK4y99wwc	=	(char)892440208;
   char  rOa1j2  =  (char)-312885152;
  unsigned short int E3L0aJfupU = 1800616668;
 	long	RIY2Lat	=	-1763668972;
@@ -44,7 +44,7 @@ int main(void) {
   long  WPEufIcQ6  =  1788372806;
   int  Y2_7Km8  =  -1375433799;
     short int    oY8a1mbBU    =    0;
-  short int  asi6f3Nc_  =  237084628;
+  short int  asi6f3Nc_  =  (short)237084628;
 	unsigned short int	W36f97	=	(unsigned short)-1175900171;
   long double  Kb1_7n  =  -739409006;
  char rc6J6r = 98067129;
@@ -138,7 +138,7 @@ int k = 6;
 while (k >= 0)
 {
 k--;
-rc6J6r = Amr3O(17182589, rc6J6r, -1559643088, Mx9wg8l9Pf);
+rc6J6r = Amr3O((unsigned short)17182589, rc6J6r, -1559643088, Mx9wg8l9Pf);
 }
 }
 }
@@ -154,7 +154,7 @@ rc6J6r = h129723(-2092348178);
 
 W36f97 = (unsigned short int)(cm9Pm7Hz5i + (2133643622));
 
-OwkUD = h129723(-1742309893);
+OwkUD = h129723((unsigned char)-1742309893);
 
 cout << 777009373 / nxebY3(OwkUD, zOd_) << endl;
 {
@@ -230,7 +230,7 @@ case 0:
 Kb1_7n = (int)floor(Y482_m0);
 break;
 case 1:
-E3L0aJfupU = Amr3O(-315954400, 694185613, Y482_m0, (unsigned char)-1106743350);
+E3L0aJfupU = Amr3O((unsigned short)-315954400, 694185613, Y482_m0, (unsigned char)-1106743350);
 break;
 case 2:
 oY8a1mbBU = nxebY3(560173634, 1928246556);
@@ -254,7 +254,7 @@ case 'b':
 WPEufIcQ6 = r3iM - 707904112;
 break;
 case 'c':
-rOa1j2 = Amr3O(BK4y99wwc, Mx9wg8l9Pf, yyOx4bJ_, 578198541) / nrLM_2B;
+rOa1j2 = Amr3O(BK4y99wwc, Mx9wg8l9Pf, yyOx4bJ_, (unsigned char)578198541) / nrLM_2B;
 break;
 case 'd':
 BK4y99wwc = Hp2N6iU74();
@@ -275,7 +275,7 @@ case 'i':
 BK4y99wwc++;
 break;
 }
-cout << Mx9wg8l9Pf << Amr3O(-354559097, 1143808813, oY8a1mbBU, rOa1j2) << W36f97 << "JV7nYhdQD_" << endl;
+cout << Mx9wg8l9Pf << Amr3O((unsigned short)-354559097, 1143808813, oY8a1mbBU, rOa1j2) << W36f97 << "JV7nYhdQD_" << endl;
 r3iM = (int)ceil(Y482_m0);
 
 {

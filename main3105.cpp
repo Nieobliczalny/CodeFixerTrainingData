@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
     int    B_S929;
     B_S929    =    1149433671;
   char  loWH3TxHHt;
-  loWH3TxHHt  =  822378592;
+  loWH3TxHHt  =  (char)822378592;
     long long    LfQxG_;
     LfQxG_    =    -1052035971;
   double  cHeSY8Xe1C;
@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
 	char	Fzptt458;
 	Fzptt458	=	-1554757608;
 	short	PV3_5C_;
-	PV3_5C_	=	1713232092;
+	PV3_5C_	=	(short)1713232092;
   float  EKx4r_c;
   EKx4r_c  =  1155962646;
     float    qP27;
@@ -46,7 +46,7 @@ int main(int argc, char** argv) {
  int PvTnJq_Tzl;
  PvTnJq_Tzl = -566373230;
 	unsigned short	dG5a5H;
-	dG5a5H	=	88097304;
+	dG5a5H	=	(unsigned short)88097304;
     unsigned long    yF6N2F;
     yF6N2F    =    -1050913269;
     char    jN9K4;
@@ -56,7 +56,7 @@ int main(int argc, char** argv) {
     float    NhwD5;
     NhwD5    =    1972954926;
     unsigned char    TbD4T;
-    TbD4T    =    705584475;
+    TbD4T    =    (unsigned char)705584475;
     double    z172I_39;
     z172I_39    =    1228186604;
  unsigned short FxfH;
@@ -68,7 +68,7 @@ int main(int argc, char** argv) {
     unsigned long    X_HD;
     X_HD    =    1632902319;
  unsigned short W__O;
- W__O = -834277363;
+ W__O = (unsigned short)-834277363;
   unsigned char  gAvFG;
   gAvFG  =  0;
   unsigned int  RYM34o1i;
@@ -78,7 +78,7 @@ int main(int argc, char** argv) {
 	long	DdHgjCxRo;
 	DdHgjCxRo	=	-1451042035;
  unsigned char hN91;
- hN91 = -92211555;
+ hN91 = (unsigned char)-92211555;
   unsigned long long  atr2yn;
   atr2yn  =  1417410399;
     double    sYz1;
@@ -88,7 +88,7 @@ int main(int argc, char** argv) {
   short  gk8w3J87;
   gk8w3J87  =  (short)1658037215;
   short int  ef799;
-  ef799  =  1298289791;
+  ef799  =  (short)1298289791;
   double  Bpwgd;
   Bpwgd  =  -176847478;
     unsigned char    dp_o_VpV;
@@ -102,7 +102,7 @@ int main(int argc, char** argv) {
     unsigned long long    XaSkg;
     XaSkg    =    852490535;
 	unsigned short int	bPL8BB;
-	bPL8BB	=	-303920355;
+	bPL8BB	=	(unsigned short)-303920355;
     short int    ebDC5;
     ebDC5    =    (short)-1077050496;
 	int	tzd_6;
@@ -112,7 +112,7 @@ int main(int argc, char** argv) {
  unsigned char Yu0kh_;
  Yu0kh_ = -540562644;
     short    gk056zM0;
-    gk056zM0    =    995159822;
+    gk056zM0    =    (short)995159822;
     unsigned long    rbjB;
     rbjB    =    -955604450;
     char    hUO_yS;
@@ -134,7 +134,7 @@ int main(int argc, char** argv) {
  int ea_R5j;
  ea_R5j = -1910931259;
 	unsigned short	nlueP;
-	nlueP	=	-2008340320;
+	nlueP	=	(unsigned short)-2008340320;
  long long aoU99SV;
  aoU99SV = 980645204;
     short int    dTZR0s;
@@ -157,7 +157,7 @@ else if ((XaSkg == 308437948) && ((X_HD != 1724042652) || (WqFb_tA < a5NF)))
 {
 for (int j = 0; j < 1; j++)
 {
-jN9K4 = rr_zX2tw(jN9K4, H0eDJ0NR75, 833613204, -160237486);
+jN9K4 = rr_zX2tw(jN9K4, H0eDJ0NR75, (unsigned short)833613204, -160237486);
 }
 }
 else if (((nlueP) || (Ay_SgbcQF3 == -111583314)) && (xHr3t0 != RYM34o1i))
@@ -198,7 +198,7 @@ case 'c':
 NhwD5 = (int)ceil(cHeSY8Xe1C);
 break;
 case 'd':
-QQ52FLe67 = rr_zX2tw(QQ52FLe67, 96152708, (unsigned short)630147633, hUO_yS);
+QQ52FLe67 = rr_zX2tw(QQ52FLe67, (unsigned char)96152708, (unsigned short)630147633, hUO_yS);
 break;
 case 'e':
 EKx4r_c = (int)ceil(ajmc1GiN);
@@ -258,7 +258,7 @@ std::cout << WqFb_tA << "NJ9o" << XaSkg << rr_zX2tw(tzM7N, aoEe, DdHgjCxRo, ef79
 }
 Bpwgd = 1427213009 / gAvFG;
 
-std::cout << "S39J8" << XIV350cUX(tzM7N, -809064612, 1543278785) << XaSkg << eWdQEA << "qEor2c5p" << std::endl;
+std::cout << "S39J8" << XIV350cUX(tzM7N, -809064612, (unsigned short)1543278785) << XaSkg << eWdQEA << "qEor2c5p" << std::endl;
 
 CX79x5AD_ = XIV350cUX((char)744516342, -1734217483, kYI9CVcCQX);
 
@@ -278,7 +278,7 @@ MNs1 = rr_zX2tw(-1847909955, ea_R5j, qP27, -1697694856);
 break;
 case 'd':
 case 'D':
-dp_o_VpV = XIV350cUX(MNs1, -2107871554, 1447695533) % yF6N2F;
+dp_o_VpV = XIV350cUX(MNs1, -2107871554, (unsigned short)1447695533) % yF6N2F;
 break;
 case 'e':
 case 'E':
@@ -289,7 +289,7 @@ case 'F':
 EKx4r_c = (int)floor(cHeSY8Xe1C);
 break;
 default:
-hUO_yS = XIV350cUX(1375445045, -997243016, xHr3t0);
+hUO_yS = XIV350cUX((char)1375445045, -997243016, xHr3t0);
 break;
 }
 

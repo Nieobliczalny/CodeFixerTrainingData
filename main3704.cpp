@@ -14,7 +14,7 @@
 using namespace std;
 
 short    wz2h9n()    {
-    return    384435900;
+    return    (short)384435900;
 }
 
 unsigned long  dn6pW2(char  lPvx6,char  L5H8c,unsigned int  xv92sWD,short int  np0D3uC,char  fTyl)  {
@@ -27,7 +27,7 @@ char	E1kneG_n(char	mSgTGOLGJ,int	V26SCP)	{
 
 int main(void) {
     unsigned short int    W_NYZ1;
-    W_NYZ1    =    1351639443;
+    W_NYZ1    =    (unsigned short)1351639443;
 	unsigned short	xv9B;
 	xv9B	=	-376530984;
  unsigned int fDfTs;
@@ -37,7 +37,7 @@ int main(void) {
 	short	RaUzTY48;
 	RaUzTY48	=	(short)-1618300774;
  char Q908a69;
- Q908a69 = -1370384280;
+ Q908a69 = (char)-1370384280;
 	int	Ts9EF8Y;
 	Ts9EF8Y	=	-169536059;
     short int    Gec3ihD7vd;

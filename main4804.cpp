@@ -15,7 +15,7 @@ using namespace std;
 int main(void)
 {
   long double  PE2uR6y7W1  =  -638094312;
-  char  y_c3  =  1408805890;
+  char  y_c3  =  (char)1408805890;
   long  Gz9y_mf  =  1488534645;
     short int    Icp9_c43    =    (short)-1552572074;
   long long  R912Ln  =  576309374;
@@ -28,7 +28,7 @@ int main(void)
  long YM127 = 1756064976;
  float az81IvkE = -9418863;
 	float	Np3_Loh	=	-124840240;
- unsigned short int t5Q84SYx91 = -946588858;
+ unsigned short int t5Q84SYx91 = (unsigned short)-946588858;
 	unsigned long	FL0sS3	=	-953558004;
  long double uPMA = -1499831796;
  short xO2Rn978U = (short)1777964048;

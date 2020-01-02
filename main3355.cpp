@@ -22,7 +22,7 @@ int main() {
 	double	jORd0;
 	jORd0	=	-438791164;
  unsigned short int CsZm;
- CsZm = 276135418;
+ CsZm = (unsigned short)276135418;
  long double yZxzK;
  yZxzK = 1556441115;
     float    MbG8u95ThP;
@@ -38,7 +38,7 @@ int main() {
 	unsigned long	S2946L;
 	S2946L	=	-12437332;
   unsigned short  H3ZQG;
-  H3ZQG  =  161298763;
+  H3ZQG  =  (unsigned short)161298763;
  float i7z8iMu;
  i7z8iMu = -2116971886;
     int    J86p8;
@@ -68,7 +68,7 @@ int main() {
   long  kw8n;
   kw8n  =  -2100330396;
 	char	m21_J;
-	m21_J	=	394292234;
+	m21_J	=	(char)394292234;
   unsigned long  a405;
   a405  =  287945002;
     unsigned char    t5SEkL3;
@@ -78,7 +78,7 @@ int main() {
   unsigned char  wypZW_EgVK;
   wypZW_EgVK  =  (unsigned char)551970350;
     char    w96K9Ze1H7;
-    w96K9Ze1H7    =    397957395;
+    w96K9Ze1H7    =    (char)397957395;
     unsigned short    n2K39nuVi;
     n2K39nuVi    =    0;
   long long  jQFpbM86;
@@ -88,7 +88,7 @@ int main() {
  char P2_70gly2U;
  P2_70gly2U = (char)2108385534;
 	unsigned short int	Y8H0tUlu;
-	Y8H0tUlu	=	1376397085;
+	Y8H0tUlu	=	(unsigned short)1376397085;
     int    N7Q4CH75t;
     N7Q4CH75t    =    0;
 
@@ -149,7 +149,7 @@ P2_70gly2U = (int)abs(Kk3GS_e8L);
 }
 try
 {
-oO8rtHo8Q = g2XDa17(969030329, -300524136, xE4s0k65qd);
+oO8rtHo8Q = g2XDa17((unsigned short)969030329, -300524136, xE4s0k65qd);
 }
 catch (int& errorCode)
 {
@@ -217,7 +217,7 @@ case 1:
 fUAUFUP = (int)floor(jORd0);
 break;
 case 2:
-n2K39nuVi = g2XDa17(782770706, jChUL9, -42297092);
+n2K39nuVi = g2XDa17((unsigned short)782770706, jChUL9, -42297092);
 break;
 case 3:
 S2946L--;
@@ -321,7 +321,7 @@ else
 {
 i7z8iMu = (int)ceil(fUAUFUP);
 }
-cout << g2XDa17(1890225183, 1072411240, -1646054787) << kr8xcyX1 << c90Vd(-1238505489) << "GqbO8iyq7" << "ScdlU1Q65" << endl;
+cout << g2XDa17((unsigned short)1890225183, 1072411240, -1646054787) << kr8xcyX1 << c90Vd(-1238505489) << "GqbO8iyq7" << "ScdlU1Q65" << endl;
 
 {
 int i = 0;
@@ -471,7 +471,7 @@ rQ8V11x = c90Vd(1544664072);
 }
 try
 {
-n2K39nuVi = g2XDa17(692377912, Kk3GS_e8L, 1458297200);
+n2K39nuVi = g2XDa17((unsigned short)692377912, Kk3GS_e8L, 1458297200);
 }
 catch (int& errorCode)
 {
@@ -483,7 +483,7 @@ int i = 1;
 do
 {
 i--;
-cout << "AP_5ww_" << g2XDa17(186322500, -1296827432, MbG8u95ThP) << aI60nc77 << endl;
+cout << "AP_5ww_" << g2XDa17((unsigned short)186322500, -1296827432, MbG8u95ThP) << aI60nc77 << endl;
 }
 while (i >= 0);
 }
@@ -550,7 +550,7 @@ cout << "U2o295DH4q" << endl;
 }
 if ((n2K39nuVi < rVDfS4) && (fUAUFUP > -798128493))
 {
-cout << rQ8V11x << "fLE8Zz" << g2XDa17(1492209048, H3ZQG, -1471498464) << H2X689dt << n2K39nuVi << endl;
+cout << rQ8V11x << "fLE8Zz" << g2XDa17((unsigned short)1492209048, H3ZQG, -1471498464) << H2X689dt << n2K39nuVi << endl;
 }
 else
 {

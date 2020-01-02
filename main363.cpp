@@ -83,7 +83,7 @@ pM85 = YAQ_r8lrf();
 break;
 case 'c':
 case 'C':
-PV5SPT2h1A = K3AFGf(-920018731, (unsigned char)-1513106012, Qfzn8837wP);
+PV5SPT2h1A = K3AFGf((unsigned char)-920018731, (unsigned char)-1513106012, Qfzn8837wP);
 break;
 case 'd':
 case 'D':
@@ -170,7 +170,7 @@ pM85++;
 }
 else
 {
-std::cout << BIMF9g << "xB1ci_VUD" << K3AFGf(-901604460, (unsigned char)-905078061, j081214S) << std::endl;
+std::cout << BIMF9g << "xB1ci_VUD" << K3AFGf((unsigned char)-901604460, (unsigned char)-905078061, j081214S) << std::endl;
 }
 }
 try
@@ -181,7 +181,7 @@ switch (J46LS08d7)
 {
 case 'a':
 case 'A':
-xBnb = K3AFGf(xBnb, -1269535953, 742084478);
+xBnb = K3AFGf(xBnb, (unsigned char)-1269535953, 742084478);
 break;
 case 'b':
 case 'B':
@@ -219,7 +219,7 @@ if (ufUR >= E9m37)
 {
 cWuDtEAmHS *= Y7DObRJM;
 }
-EvP4ZE37Um = K3AFGf(EvP4ZE37Um, -1315549309, Y7DObRJM);
+EvP4ZE37Um = K3AFGf(EvP4ZE37Um, (unsigned char)-1315549309, Y7DObRJM);
 hY_Rnd = EGPsto1();
 if (cm4t4 == -999881571)
 {
@@ -255,7 +255,7 @@ case 8:
 H7X5V_8uK = BIMF9g >> 112421225;
 break;
 default:
-twTw = K3AFGf(648485099, ufUR, VwO92wc1);
+twTw = K3AFGf((unsigned char)648485099, ufUR, VwO92wc1);
 break;
 }
 }
@@ -303,7 +303,7 @@ pM85 = V_aFUiVhb << P7Bv_YET;
 }
 else
 {
-j081214S = K3AFGf(-1970315409, (unsigned char)-608915739, -1240085727);
+j081214S = K3AFGf((unsigned char)-1970315409, (unsigned char)-608915739, -1240085727);
 }
 }
 catch (int& errorCode)
@@ -318,7 +318,7 @@ if (CNuJkW4_z > 1535162692)
 switch (qc59Q)
 {
 case 0:
-PSe_Oll8 = K3AFGf(728906074, cm4t4, 2070897321);
+PSe_Oll8 = K3AFGf((unsigned char)728906074, cm4t4, 2070897321);
 break;
 case 1:
 ssfrB2 |= F929fNQe;
@@ -352,7 +352,7 @@ else if ((I599eL > 1917430651) && (F929fNQe & -623522281))
 int k = 5;
 while (k >= 0)
 {
-J46LS08d7 = K3AFGf(J46LS08d7, 96674479, -70646692);
+J46LS08d7 = K3AFGf(J46LS08d7, (unsigned char)96674479, -70646692);
 k--;
 }
 }
@@ -421,7 +421,7 @@ twTw *= CctHdF2ej1;
 }
 else if (ssfrB2)
 {
-PSe_Oll8 = K3AFGf(PSe_Oll8, 483079103, VwO92wc1);
+PSe_Oll8 = K3AFGf(PSe_Oll8, (unsigned char)483079103, VwO92wc1);
 }
 else if ((lUTKG1WqA != 674009849) || ((H7X5V_8uK > V_aFUiVhb) || (P_59_L5EIK < V_aFUiVhb)))
 {
@@ -477,7 +477,7 @@ long	EGPsto1()	{
 }
 
 char  K3AFGf(unsigned char  yC3a47,unsigned char  P46316MGMQ,unsigned long  BSLpPGR)  {
-  return  843034908;
+  return  (char)843034908;
 }
 
 unsigned int	S306(int	r7Q3c,char	xPC6FjO)	{

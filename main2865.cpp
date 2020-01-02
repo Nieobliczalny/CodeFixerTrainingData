@@ -10,7 +10,7 @@ using namespace std;
 
 unsigned short  z3w6p3(long long  fGs825)
 {
-  return  341088250;
+  return  (unsigned short)341088250;
 }
 
 long	N9PZ5c0(int	RIB3mSc,long long	FO1sH3N)
@@ -20,7 +20,7 @@ long	N9PZ5c0(int	RIB3mSc,long long	FO1sH3N)
 
 short int	yc_6243INF()
 {
-	return	1550175872;
+	return	(short)1550175872;
 }
 
 int main()

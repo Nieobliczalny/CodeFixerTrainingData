@@ -72,7 +72,7 @@ case 'h':
 I9BsfrLM = e1A2Kh9 ^ BxG6xSVVmE;
 break;
 case 'i':
-vc9b8 = (Wc7k_55r != cDIFAMSK6q) ? -935474125 : vaLIn1;
+vc9b8 = (Wc7k_55r != cDIFAMSK6q) ? (unsigned short)-935474125 : vaLIn1;
 break;
 case 'j':
 cC41 = rQbLU0vQ3 * cDIFAMSK6q;
@@ -101,7 +101,7 @@ case 0:
 QB5RzC = (int)abs(e1A2Kh9);
 break;
 case 1:
-QXMz2L4I8P = (qLi0h_1E0 < Rd6Al98) ? 2123065613 : wXdK_0hX;
+QXMz2L4I8P = (qLi0h_1E0 < Rd6Al98) ? (unsigned short)2123065613 : wXdK_0hX;
 break;
 case 2:
 eNaaZbal4 %= 338939214;

@@ -12,7 +12,7 @@ using namespace std;
 
 int main(int argc, char** argv) {
   short  sQzXZg;
-  sQzXZg  =  1184159501;
+  sQzXZg  =  (short)1184159501;
     unsigned long long    D863Ca9uP;
     D863Ca9uP    =    0;
     char    PpBt7r_do;
@@ -161,7 +161,7 @@ ebZ3 <<= 1767627848;
 }
 else
 {
-sQzXZg = (D863Ca9uP) ? -693436382 : (short)82485756;
+sQzXZg = (D863Ca9uP) ? (short)-693436382 : (short)82485756;
 }
 }
 else

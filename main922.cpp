@@ -17,7 +17,7 @@ unsigned int krdEc(unsigned long long rfp1_K,char y2U5F,long B2UL) {
 }
 
 unsigned short int  s2LN64017(short int  o2TWTDy,short int  rbKk)  {
-  return  308413333;
+  return  (unsigned short)308413333;
 }
 
 char Ik470_g(unsigned short u04QTDm340,unsigned char K7rqZ,long Pb8M3,char i83V,short Lmf20)
@@ -106,7 +106,7 @@ catch (int& errorCode)
 {
 bE6jQX = V55qP(1118292150);
 }
-bE6jQX = s2LN64017(-1866486194, IhqU_nj0E) / s6PoC30e;
+bE6jQX = s2LN64017((short)-1866486194, IhqU_nj0E) / s6PoC30e;
 lQJTBWL0++;
 
 if ((bE6jQX >= -42576404) && (zC8_ia == -1434743716))

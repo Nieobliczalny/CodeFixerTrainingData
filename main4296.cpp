@@ -93,7 +93,7 @@ while (j >= 0);
 }
 LVk9IWY = (unsigned long)(dLuq);
 
-std::cout << "aXp0h5NQ0h" << gzdk8 << GvzDdG685p(1616969160) << Q2kbYJ_Bd << os2hUn016a << std::endl;
+std::cout << "aXp0h5NQ0h" << gzdk8 << GvzDdG685p((char)1616969160) << Q2kbYJ_Bd << os2hUn016a << std::endl;
 if ((uTw54M / qZIX) > -225137108)
 {
 {
@@ -106,7 +106,7 @@ try
 int k = 7;
 while (k >= 0)
 {
-gzdk8 = GvzDdG685p(-1922712623) ^ 857309579;
+gzdk8 = GvzDdG685p((char)-1922712623) ^ 857309579;
 --k;
 }
 }
@@ -132,7 +132,7 @@ NnSj6b6Cs = GvzDdG685p(ofzLcMx);
 }
 else
 {
-gzdk8 = GvzDdG685p(-231504758) ^ 1577263965;
+gzdk8 = GvzDdG685p((char)-231504758) ^ 1577263965;
 }
 }
 catch (int& errorCode)

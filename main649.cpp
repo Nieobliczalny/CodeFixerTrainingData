@@ -14,7 +14,7 @@ int main(void) {
 	unsigned long long	F8U92D;
 	F8U92D	=	-134765452;
 	short int	jxMiv4o9z;
-	jxMiv4o9z	=	-1907468605;
+	jxMiv4o9z	=	(short)-1907468605;
     unsigned long long    HvghN;
     HvghN    =    -671369690;
 	unsigned short	Ho8cWip0n;
@@ -30,7 +30,7 @@ int main(void) {
  float lDWVtB_a;
  lDWVtB_a = -1011088430;
 	short	IKm9886M3;
-	IKm9886M3	=	-1618842540;
+	IKm9886M3	=	(short)-1618842540;
     long long    m0S_;
     m0S_    =    -1896799080;
  long h5yYr57;
@@ -44,7 +44,7 @@ int main(void) {
 	unsigned int	ssmNZ;
 	ssmNZ	=	1207877270;
   char  nQUaSY54;
-  nQUaSY54  =  -607401628;
+  nQUaSY54  =  (char)-607401628;
     unsigned short    wD_BufjS;
     wD_BufjS    =    (unsigned short)-470240145;
  unsigned long r91qQzrI3y;
@@ -257,7 +257,7 @@ case 1:
 a5E4g = (int)abs(lDWVtB_a) * 0;
 break;
 case 2:
-nQUaSY54 = (jd7sYq3l) ? 913488810 : (char)-860478821;
+nQUaSY54 = (jd7sYq3l) ? (char)913488810 : (char)-860478821;
 break;
 case 3:
 HWel3 = (int)floor(VGp5g);

@@ -106,7 +106,7 @@ else if ((KMPc8 & Tyxf4Gi) || (P48k5 == m3fiu65_2))
 {
 for (int k = 0; k < 1; k++)
 {
-KMPc8 = kl7Z00FL(57489822);
+KMPc8 = kl7Z00FL((short)57489822);
 }
 }
 else if (O0_Fs != -1443584668)
@@ -171,7 +171,7 @@ G_8_ = (int)abs(Xut9vnAX);
 }
 else if (Xut9vnAX == 1587244637)
 {
-Tyxf4Gi = Uiv6o6(-1037567062, amO1uxXENQ);
+Tyxf4Gi = Uiv6o6((unsigned char)-1037567062, amO1uxXENQ);
 }
 else if (m3fiu65_2 & 159578107)
 {
@@ -251,7 +251,7 @@ if (pQ0Hsqpkt3 >= 1027340170)
 {
 for (int k = 7; k >= 0; k--)
 {
-xvlUA3DZ = Uiv6o6(-1903152111, xvlUA3DZ);
+xvlUA3DZ = Uiv6o6((unsigned char)-1903152111, xvlUA3DZ);
 }
 }
 else if (((KMPc8 & O0_Fs) && (ybCI4)) && (xvlUA3DZ == -903160807))
@@ -271,7 +271,7 @@ else if (GGgP4qF59 != -1730810934)
 switch (ybCI4)
 {
 case 'a':
-Tyxf4Gi = Uiv6o6(602222591, Tyxf4Gi);
+Tyxf4Gi = Uiv6o6((unsigned char)602222591, Tyxf4Gi);
 break;
 case 'b':
 ybCI4 %= 1186594534;
@@ -301,7 +301,7 @@ m3fiu65_2 |= 1874274436;
 
 std::cout << kl7Z00FL(Tyxf4Gi) << std::endl;
 
-std::cout << kl7Z00FL(1885836015) << std::endl;
+std::cout << kl7Z00FL((short)1885836015) << std::endl;
 {
 int i = 4;
 while (i >= 0)
@@ -312,7 +312,7 @@ if (((G_8_ != -1370831) || (KMPc8 & 2074226880)) || (KMPc8 <= 1830178660))
 int k = 8;
 do
 {
-xvlUA3DZ = Uiv6o6(-1801004649, xvlUA3DZ);
+xvlUA3DZ = Uiv6o6((unsigned char)-1801004649, xvlUA3DZ);
 --k;
 }
 while (k >= 0);
@@ -334,7 +334,7 @@ ybCI4 |= 311081070;
 }
 else if (xvlUA3DZ & 163318341)
 {
-std::cout << m3fiu65_2 << Uiv6o6(-1693920635, 134091604) << Tyxf4Gi << kl7Z00FL((short)114717407) << Uiv6o6(2101854830, 1641801393) << std::endl;
+std::cout << m3fiu65_2 << Uiv6o6((unsigned char)-1693920635, 134091604) << Tyxf4Gi << kl7Z00FL((short)114717407) << Uiv6o6(2101854830, 1641801393) << std::endl;
 }
 else if (pQ0Hsqpkt3 == KMPc8)
 {
@@ -352,7 +352,7 @@ else
 P48k5 = KMPc8 - 1697834729;
 }
 
-xvlUA3DZ = Uiv6o6(1537909867, xvlUA3DZ);
+xvlUA3DZ = Uiv6o6((unsigned char)1537909867, xvlUA3DZ);
 amO1uxXENQ = kl7Z00FL(amO1uxXENQ);
 switch (G_8_)
 {
@@ -363,7 +363,7 @@ case 1:
 O0_Fs >>= 602491495;
 break;
 case 2:
-Tyxf4Gi = Uiv6o6(-497446802, 1633921964);
+Tyxf4Gi = Uiv6o6((unsigned char)-497446802, 1633921964);
 break;
 case 3:
 m3fiu65_2 = kl7Z00FL(m3fiu65_2);

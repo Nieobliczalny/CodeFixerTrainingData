@@ -13,7 +13,7 @@ using namespace std;
 
 unsigned char WKb6u(unsigned char U1L1,long t3Wtc,unsigned char yXFjwGFY,short f1K8f,unsigned int BkJm53)
 {
- return 1677596159;
+ return (unsigned char)1677596159;
 }
 
 char  ylr6u4jGZ(char  rk4PFk1UI,unsigned short  EU6wDtQ)  {
@@ -30,7 +30,7 @@ unsigned char    P3PlcZ859(unsigned long    PEg_45M1,long long    PGlBICov5)
 }
 
 char    RB0J(short    l_uWT)    {
-    return    -1554733217;
+    return    (char)-1554733217;
 }
 
 int main(int argc, char** argv) {
@@ -41,7 +41,7 @@ int main(int argc, char** argv) {
 	unsigned short int	hGmGC;
 	hGmGC	=	(unsigned short)-1147488424;
 	char	OuN42b5080;
-	OuN42b5080	=	-773514823;
+	OuN42b5080	=	(char)-773514823;
     unsigned long    z9mr1x;
     z9mr1x    =    265090793;
     unsigned long    C5WrRX7hL;
@@ -55,7 +55,7 @@ int main(int argc, char** argv) {
 	double	Ol51;
 	Ol51	=	1611050217;
   char  cME4;
-  cME4  =  1985125278;
+  cME4  =  (char)1985125278;
   double  Pz94E;
   Pz94E  =  -1173054816;
 	short int	oF75JE9;
@@ -65,7 +65,7 @@ int main(int argc, char** argv) {
  long double p0NO0UZX;
  p0NO0UZX = -672221366;
   unsigned short int  N_fe948;
-  N_fe948  =  -796203983;
+  N_fe948  =  (unsigned short)-796203983;
 
 {
 int i = 0;
@@ -76,7 +76,7 @@ Pz94E = WKb6u((unsigned char)-1929815242, oF75JE9, -1432929500, N_fe948, 9557946
 }
 while (i < 3);
 }
-cout << N_fe948 << ylr6u4jGZ(Pz94E, -1454546314) << endl;
+cout << N_fe948 << ylr6u4jGZ(Pz94E, (unsigned short)-1454546314) << endl;
 
 if (p0NO0UZX <= Pz94E)
 {
@@ -86,7 +86,7 @@ Ol51 = (double)(OuN42b5080);
 switch (N_fe948)
 {
 case 0:
-hGmGC = ylr6u4jGZ(hGmGC, -456350373);
+hGmGC = ylr6u4jGZ(hGmGC, (unsigned short)-456350373);
 break;
 case 1:
 Ol51 *= 1463328063;
@@ -98,7 +98,7 @@ case 3:
 z9mr1x = s7286uSR4B();
 break;
 case 4:
-I7MomU = WKb6u(-1384501717, 1925416250, (unsigned char)-423557712, -1080166467, 1633995230);
+I7MomU = WKb6u((unsigned char)-1384501717, 1925416250, (unsigned char)-423557712, -1080166467, 1633995230);
 break;
 case 5:
 Pz94E = (int)floor(Ol51);
@@ -114,7 +114,7 @@ try
 int j = 9;
 do
 {
-cout << "QYYcEU" << F0l3 << s7286uSR4B() << WKb6u(I7MomU, -407410930, Ol51, -1610405304, 163614217) << RB0J((short)-366760584) << endl;
+cout << "QYYcEU" << F0l3 << s7286uSR4B() << WKb6u(I7MomU, -407410930, Ol51, (short)-1610405304, 163614217) << RB0J((short)-366760584) << endl;
 --j;
 }
 while (j >= 0);
@@ -158,7 +158,7 @@ case 'f':
 F0l3 = (int)abs(p0NO0UZX) * 0;
 break;
 default:
-cME4 = WKb6u(-135329407, Pz94E, (unsigned char)-226954147, oF75JE9, Lsi8CPT_04);
+cME4 = WKb6u((unsigned char)-135329407, Pz94E, (unsigned char)-226954147, oF75JE9, Lsi8CPT_04);
 break;
 }
 if ((Lsi8CPT_04 & nyNXJ4) && (I7MomU < C5WrRX7hL))
@@ -265,7 +265,7 @@ switch (F0l3)
 {
 case 'a':
 case 'A':
-p0NO0UZX = WKb6u(p0NO0UZX, Lsi8CPT_04, -763307772, (short)724336106, hGmGC);
+p0NO0UZX = WKb6u(p0NO0UZX, Lsi8CPT_04, (unsigned char)-763307772, (short)724336106, hGmGC);
 break;
 case 'b':
 case 'B':
@@ -299,7 +299,7 @@ catch (int& errorCode)
 p0NO0UZX = (int)floor(I7MomU);
 }
 }
-cout << ylr6u4jGZ(-1429051528, Lsi8CPT_04) << endl;
+cout << ylr6u4jGZ((char)-1429051528, Lsi8CPT_04) << endl;
 for (int i = 0; i < 8; i++)
 {
 try

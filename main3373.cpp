@@ -14,7 +14,7 @@ using std::floor;
 
 unsigned short int  dB41(long long  WzS93,unsigned long  vIYBnd7np,unsigned long  RYA9q0Ua,char  sy3O_Z0)
 {
-  return  1277574848;
+  return  (unsigned short)1277574848;
 }
 
 unsigned long  RWJR()
@@ -28,7 +28,7 @@ long long    eba6Y0(long    e6X_M6_T3,short int    mQOE2,unsigned long    v7QbhI
 
 short int	KbSTw96gW(long	g7Tc154m,unsigned char	p58I)
 {
-	return	-255395292;
+	return	(short)-255395292;
 }
 
 unsigned short EC39(long fe5B3ov8o,short int t5x_t0B,unsigned long long S3uk,unsigned long qzd9) {
@@ -39,7 +39,7 @@ int main() {
     short int    dKWd3J1;
         dKWd3J1    =    0;
     unsigned short    Y37T319,    U8CZm,    d2yIq5f,    S0gw_2N98,    Tn9J725iuq,    e9jQN2f,    DVH3l2heTH,    mCt4,    e2Usa8LE2V,    o1ONjfE,    CM54H,    mB4Nr,    h8Gyxb9L,    s_sd73;
-        Y37T319    =    U8CZm    =    d2yIq5f    =    S0gw_2N98    =    Tn9J725iuq    =    e9jQN2f    =    DVH3l2heTH    =    mCt4    =    e2Usa8LE2V    =    o1ONjfE    =    CM54H    =    mB4Nr    =    h8Gyxb9L    =    s_sd73    =    431323268;
+        Y37T319    =    U8CZm    =    d2yIq5f    =    S0gw_2N98    =    Tn9J725iuq    =    e9jQN2f    =    DVH3l2heTH    =    mCt4    =    e2Usa8LE2V    =    o1ONjfE    =    CM54H    =    mB4Nr    =    h8Gyxb9L    =    s_sd73    =    (unsigned short)431323268;
 
 o1ONjfE = dB41(o1ONjfE, 1946261070, 1573348994, -1493278604);
 Y37T319 &= U8CZm;
@@ -101,7 +101,7 @@ S0gw_2N98 = (unsigned short)(s_sd73);
 }
 else
 {
-cout << dB41(-1987435413, 1750350957, -581575159, o1ONjfE) << "g_r81kN8" << KbSTw96gW(e2Usa8LE2V, 1135159996) << endl;
+cout << dB41(-1987435413, 1750350957, -581575159, o1ONjfE) << "g_r81kN8" << KbSTw96gW(e2Usa8LE2V, (unsigned char)1135159996) << endl;
 }
 cout << CM54H << eba6Y0(-1397644477, mB4Nr, S0gw_2N98, (unsigned short)-1352942220) << eba6Y0(e2Usa8LE2V, 1581211901, -340267848, o1ONjfE) << endl;
 

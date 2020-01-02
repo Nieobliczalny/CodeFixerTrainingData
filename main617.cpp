@@ -15,7 +15,7 @@ using std::floor;
 int main(void)
 {
  unsigned short bRmi7m, u95TGN, n4o5xEM6, Xm9HS, to5F95p732, T1sP, qV_2dish_, LyDxP, WbdaHB7, nohX_n24, vXQY, Fu_W1u2e9, noQEXhp4u4, rIqb, k28rYpG9ll, X6Bqa_57MX, m4O0xye3, Q4F8Y35m0, mA360i0U, c6974Z7, Pu7k7ea9n, fxNH_, rj0D, JY7z9G;
- bRmi7m = 1764401440;
+ bRmi7m = (unsigned short)1764401440;
  u95TGN = (unsigned short)-894255998;
  n4o5xEM6 = -1941340483;
  Xm9HS = 2087334027;
@@ -25,7 +25,7 @@ int main(void)
  LyDxP = 1896735761;
  WbdaHB7 = -1833777414;
  nohX_n24 = 1994796942;
- vXQY = -888418665;
+ vXQY = (unsigned short)-888418665;
  Fu_W1u2e9 = (unsigned short)-1303122298;
  noQEXhp4u4 = -925506691;
  rIqb = 1211424018;
@@ -35,7 +35,7 @@ int main(void)
  Q4F8Y35m0 = 1896397378;
  mA360i0U = 1900792586;
  c6974Z7 = 89904130;
- Pu7k7ea9n = -1648016928;
+ Pu7k7ea9n = (unsigned short)-1648016928;
  fxNH_ = (unsigned short)177376970;
  rj0D = -1443793558;
  JY7z9G = 1547080460;
@@ -242,7 +242,7 @@ case 2:
 rIqb ^= bRmi7m;
 break;
 case 3:
-Xm9HS = (WbdaHB7 == -1376635685) ? 415828420 : bRmi7m;
+Xm9HS = (WbdaHB7 == -1376635685) ? (unsigned short)415828420 : bRmi7m;
 break;
 case 4:
 k28rYpG9ll = m4O0xye3 ^ 661775650;
@@ -286,7 +286,7 @@ case 3:
 T1sP %= 804213137;
 break;
 case 4:
-fxNH_ = (JY7z9G == -648982263) ? 197710501 : (unsigned short)1459957783;
+fxNH_ = (JY7z9G == -648982263) ? (unsigned short)197710501 : (unsigned short)1459957783;
 break;
 }
 }

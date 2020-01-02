@@ -114,7 +114,7 @@ while (j >= 0)
 {
 if ((GmN14_1j > 1916256219) && (DEbWU0 == au_Ot))
 {
-K1vKe96Zy = Eri84(331773589, (short)-1451135021, xBqD, -110216967);
+K1vKe96Zy = Eri84((char)331773589, (short)-1451135021, xBqD, -110216967);
 }
 else
 {
@@ -127,7 +127,7 @@ MHCn7qU = Eri84(1218692241, VrCoZ72Qm, p9xVcVQr2, -964138465);
 }
 }
 
-std::cout << hYpT_Q_ << j16cf(-1842859794, 2094917318, p9xVcVQr2, -677889972) << std::endl;
+std::cout << hYpT_Q_ << j16cf((unsigned short)-1842859794, 2094917318, p9xVcVQr2, -677889972) << std::endl;
 if ((1736215779 / p9xVcVQr2) > -377308409)
 {
 std::cout << Eri84(MHCn7qU, VrCoZ72Qm, p9xVcVQr2, xymk67Fo1) / p9xVcVQr2 << std::endl;
@@ -144,7 +144,7 @@ case 0:
 p9xVcVQr2 = F_zbcEM(1698542146, 1409956970);
 break;
 case 1:
-YRC8 = j16cf(962907049, 1526249705, p9xVcVQr2, 1146408535);
+YRC8 = j16cf((unsigned short)962907049, 1526249705, p9xVcVQr2, 1146408535);
 break;
 case 2:
 U5Zq_2 ^= 733647905;
@@ -181,7 +181,7 @@ while (k < 10);
 }
 while (i < 3);
 }
-std::cout << u_8hu52V02 << Eri84(Q5VXZ, dj33lW, -1060327117, -925179563) << j16cf(Q5VXZ, dj33lW, -297633734, SF_5) << Wx94NQ(Q5VXZ, -545269840) << std::endl;
+std::cout << u_8hu52V02 << Eri84(Q5VXZ, dj33lW, -1060327117, -925179563) << j16cf(Q5VXZ, dj33lW, -297633734, SF_5) << Wx94NQ(Q5VXZ, (char)-545269840) << std::endl;
 
 try
 {
@@ -198,7 +198,7 @@ try
 {
 try
 {
-Cix_Cm36 = Wx94NQ(-1603067632, (char)1423794393);
+Cix_Cm36 = Wx94NQ((char)-1603067632, (char)1423794393);
 }
 catch (int& errorCode)
 {
@@ -220,7 +220,7 @@ switch (Q5VXZ)
 {
 case 'a':
 case 'A':
-OIl4yv8 = Vdb0(45697810, O9xY, DEbWU0, s2fciqb74, (unsigned char)539440672);
+OIl4yv8 = Vdb0((short)45697810, O9xY, DEbWU0, s2fciqb74, (unsigned char)539440672);
 break;
 case 'b':
 case 'B':
@@ -249,7 +249,7 @@ dj33lW *= 727279008;
 }
 else
 {
-U5Zq_2 = Wx94NQ(U5Zq_2, 1913218948);
+U5Zq_2 = Wx94NQ(U5Zq_2, (char)1913218948);
 }
 
 {
@@ -262,7 +262,7 @@ case 0:
 AJFPiHZ = (int)abs(D3Vk);
 break;
 case 1:
-DFmx9bOIz = Wx94NQ(1066584219, qz8J5);
+DFmx9bOIz = Wx94NQ((char)1066584219, qz8J5);
 break;
 case 2:
 uBXCD24 = Wx94NQ(DFmx9bOIz, qz8J5) ^ nS0m;
@@ -280,7 +280,7 @@ case 6:
 i290Zg2C = Wx94NQ(i290Zg2C, V0d3mA7);
 break;
 case 7:
-D3Vk = j16cf(-1181275067, uBXCD24, L6NwHIis, ZK0y);
+D3Vk = j16cf((unsigned short)-1181275067, uBXCD24, L6NwHIis, ZK0y);
 break;
 case 8:
 p9xVcVQr2 = F_zbcEM(p9xVcVQr2, 55014855);
@@ -296,7 +296,7 @@ while (i >= 0);
 
 for (int i = 3; i >= 0; --i)
 {
-OYFd08Q6 = Vdb0(OYFd08Q6, m3XvrMP80, K2dx52H5ly, 249757984, (unsigned char)-970098256);
+OYFd08Q6 = Vdb0(OYFd08Q6, m3XvrMP80, K2dx52H5ly, (short)249757984, (unsigned char)-970098256);
 }
 F703WbaQ = Vdb0(193382373, 482574164, 1265907557, -1626539196, VrCoZ72Qm);
 std::cout << "VRjS" << Wx94NQ(-1190692811, 1947915793) << j16cf(F703WbaQ, z7g6gv, 636483400, -1985212966) << std::endl;

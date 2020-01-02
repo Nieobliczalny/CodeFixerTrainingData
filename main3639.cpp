@@ -109,7 +109,7 @@ case 1:
 PyW2 >>= Tq2b6;
 break;
 case 2:
-Q5lK = XgyT03R(-1401584796, 333281745, Tq2b6);
+Q5lK = XgyT03R((unsigned char)-1401584796, 333281745, Tq2b6);
 break;
 case 3:
 bxU96n = XgyT03R(u1n0O1, -1403741735, AF25_6);
@@ -132,7 +132,7 @@ if (Tq2b6 & Lv1_)
 {
 if (EGGA9_8 == xi2Bsu)
 {
-Q5lK = XgyT03R(655262029, -92292159, AF25_6);
+Q5lK = XgyT03R((unsigned char)655262029, -92292159, AF25_6);
 }
 else
 {
@@ -177,7 +177,7 @@ else
 l178Gq = (int)abs(QJ2wM7zN);
 }
 }
-bxU96n = XgyT03R(-733420266, -1716467075, 1728444023);
+bxU96n = XgyT03R((unsigned char)-733420266, -1716467075, 1728444023);
 
 F4ZEbEo0 = y4RxL9zu ^ P5A0;
 
@@ -195,7 +195,7 @@ d5X_41++;
 bxU96n = XgyT03R(QJ2wM7zN, wT05, S_2Nx6);
 
 MI9J1 = njQGC3mt / bxU96n;
-Q5lK = XgyT03R(888629167, u1n0O1, 518514029);
+Q5lK = XgyT03R((unsigned char)888629167, u1n0O1, 518514029);
 
 Gv2DqEq = (char)(njQGC3mt);
 Q5lK = (unsigned long long)(Ud2IWT * Q5lK);
@@ -245,7 +245,7 @@ switch (Ud2IWT)
 {
 case 'a':
 case 'A':
-Q5lK = XgyT03R(-673580274, wT05, AF25_6);
+Q5lK = XgyT03R((unsigned char)-673580274, wT05, AF25_6);
 break;
 case 'b':
 case 'B':
@@ -259,7 +259,7 @@ try
 int j = 0;
 do
 {
-std::cout << XgyT03R(-501832480, S_2Nx6, 1132653311) << "w47Ds40m" << ig8m << "g733" << std::endl;
+std::cout << XgyT03R((unsigned char)-501832480, S_2Nx6, 1132653311) << "w47Ds40m" << ig8m << "g733" << std::endl;
 j++;
 }
 while (j < 2);
@@ -271,7 +271,7 @@ zQpu2 = Tq2b6 | S_2Nx6;
 }
 if (NE1GJS <= -1498066695)
 {
-Q5lK = XgyT03R(-789301071, K9D9y2bCT, r6NN61K);
+Q5lK = XgyT03R((unsigned char)-789301071, K9D9y2bCT, r6NN61K);
 }
 else
 {
@@ -281,7 +281,7 @@ do
 {
 try
 {
-bxU96n = XgyT03R(-735107356, w084W7p6, h8qoD64I);
+bxU96n = XgyT03R((unsigned char)-735107356, w084W7p6, h8qoD64I);
 }
 catch (int& errorCode)
 {

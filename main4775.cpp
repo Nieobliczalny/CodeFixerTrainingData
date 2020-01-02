@@ -14,7 +14,7 @@ long long    qDRy5d5()
 
 short int  U2C109H(unsigned long long  Oxeue89,int  Bpe294f,unsigned short int  a6B216)
 {
-  return  -1469266988;
+  return  (short)-1469266988;
 }
 
 int main(void) {
@@ -84,7 +84,7 @@ int main(void) {
     iS568cw    =    1806549609;
     Ne3U    =    1899564083;
 
-std::cout << U2C109H(e_08f, -804115624, -1546517771) << qDRy5d5() << f6Lw << U2C109H(758691667, M145Qan4rp, c_kReK4OlF) << std::endl;
+std::cout << U2C109H(e_08f, -804115624, (unsigned short)-1546517771) << qDRy5d5() << f6Lw << U2C109H(758691667, M145Qan4rp, c_kReK4OlF) << std::endl;
 
 {
 int i = 3;
@@ -142,7 +142,7 @@ if (f6Lw <= rPSH)
 {
 for (int j = 0; j < 7; j++)
 {
-a09T7a = U2C109H(-1811037785, OK1IR1zHtr, -171441878);
+a09T7a = U2C109H(-1811037785, OK1IR1zHtr, (unsigned short)-171441878);
 }
 }
 else if (vF_t_2j0b7 == 1550266271)
@@ -189,7 +189,7 @@ std::cout << qDRy5d5() << UBkt1e4T4 << rIs5IpA68 << std::endl;
 }
 else if (oWl5Y7)
 {
-std::cout << qDRy5d5() << cYZgrR823G << "AP8Sl6ODV" << U2C109H(1620287408, 764495652, 1186890701) << std::endl;
+std::cout << qDRy5d5() << cYZgrR823G << "AP8Sl6ODV" << U2C109H(1620287408, 764495652, (unsigned short)1186890701) << std::endl;
 }
 else if (ZH1O5z)
 {
@@ -275,7 +275,7 @@ case 'f':
 e_w12Nc <<= m13bT;
 break;
 case 'g':
-RcDxij04y = U2C109H(RcDxij04y, -309914661, 1360978563);
+RcDxij04y = U2C109H(RcDxij04y, -309914661, (unsigned short)1360978563);
 break;
 default:
 OZiL = U2C109H(1931745409, vF_t_2j0b7, (unsigned short)-2060361591);
@@ -402,7 +402,7 @@ case 1:
 caS3t2V_ = qDRy5d5();
 break;
 case 2:
-e_w12Nc = U2C109H(649759021, 1251657420, 89992074);
+e_w12Nc = U2C109H(649759021, 1251657420, (unsigned short)89992074);
 break;
 case 3:
 JauOUGK = U2C109H(680045949, -1201910173, UBkt1e4T4);
@@ -440,7 +440,7 @@ try
 {
 if (ud6yn > 661739540)
 {
-rIs5IpA68 = U2C109H(rIs5IpA68, e2mA, 700536626);
+rIs5IpA68 = U2C109H(rIs5IpA68, e2mA, (unsigned short)700536626);
 }
 }
 catch (int& errorCode)
@@ -453,7 +453,7 @@ else
 switch (Cw6j3m4H7)
 {
 case 0:
-VzV0Wds01V = U2C109H(760852591, 843706697, -1253213551);
+VzV0Wds01V = U2C109H(760852591, 843706697, (unsigned short)-1253213551);
 break;
 default:
 QZ_Z7Ub5 = (int)abs(tt5vFA5);
@@ -492,7 +492,7 @@ break;
 }
 if (ejQ_fY <= -643847903)
 {
-std::cout << "N1f0T9_Fz" << nZ264N90S << U2C109H(V_4_3, 1503085196, -197082185) << std::endl;
+std::cout << "N1f0T9_Fz" << nZ264N90S << U2C109H(V_4_3, 1503085196, (unsigned short)-197082185) << std::endl;
 }
 {
 int i = 0;
@@ -524,7 +524,7 @@ case 0:
 Cw6j3m4H7--;
 break;
 case 1:
-M4i_0JgC9C = U2C109H(512185283, G5Bx, -1534612664);
+M4i_0JgC9C = U2C109H(512185283, G5Bx, (unsigned short)-1534612664);
 break;
 case 2:
 tt5vFA5 = (int)abs(QZ_Z7Ub5);
@@ -536,7 +536,7 @@ case 4:
 iS568cw = nZ264N90S / F57WDx;
 break;
 case 5:
-UBkt1e4T4 = U2C109H(UBkt1e4T4, a09T7a, 962018843);
+UBkt1e4T4 = U2C109H(UBkt1e4T4, a09T7a, (unsigned short)962018843);
 break;
 case 6:
 ud6yn = qDRy5d5();
@@ -553,7 +553,7 @@ if (rIs5IpA68 != -1462521462)
 switch (e_w12Nc)
 {
 case 0:
-M4i_0JgC9C = U2C109H(172909983, 1862407224, 405675813);
+M4i_0JgC9C = U2C109H(172909983, 1862407224, (unsigned short)405675813);
 break;
 case 1:
 B1UA >>= 2032758519;
@@ -568,7 +568,7 @@ case 4:
 ZH1O5z %= Kg4_59S_1;
 break;
 case 5:
-E9AE = U2C109H(E9AE, -1985072123, 1986137467);
+E9AE = U2C109H(E9AE, -1985072123, (unsigned short)1986137467);
 break;
 case 6:
 f6Lw = U2C109H(f6Lw, -777332097, wNS_1d2);
@@ -601,7 +601,7 @@ JauOUGK *= 1643924823;
 }
 else if (V_4_3 > P5eD66)
 {
-P5eD66 = U2C109H(1665886109, -1040541206, 1918545349);
+P5eD66 = U2C109H(1665886109, -1040541206, (unsigned short)1918545349);
 }
 else if ((tt5vFA5) || ((OZiL >= -1216512191) && (m13bT < -1805913192)))
 {
@@ -648,7 +648,7 @@ else if ((RcDxij04y & iS568cw) && (eJCC_U1wPA))
 switch (a09T7a)
 {
 case 0:
-wNS_1d2 = U2C109H(-1418980104, Vpc_WDIXj, 1531982545);
+wNS_1d2 = U2C109H(-1418980104, Vpc_WDIXj, (unsigned short)1531982545);
 break;
 case 1:
 ud6yn = qDRy5d5();
@@ -703,7 +703,7 @@ IAVC23X55H = M145Qan4rp >> 1766922967;
 break;
 case 'd':
 case 'D':
-C8r1l14T2 = U2C109H(C8r1l14T2, c_kReK4OlF, 1359727745);
+C8r1l14T2 = U2C109H(C8r1l14T2, c_kReK4OlF, (unsigned short)1359727745);
 break;
 default:
 UBkt1e4T4 = ejQ_fY ^ WYl3;
@@ -727,7 +727,7 @@ C8r1l14T2 = (int)abs(nZ264N90S);
 break;
 }
 
-std::cout << U2C109H(C8r1l14T2, c_kReK4OlF, -429807236) << iS568cw << std::endl;
+std::cout << U2C109H(C8r1l14T2, c_kReK4OlF, (unsigned short)-429807236) << iS568cw << std::endl;
 {
 int i = 0;
 do
@@ -784,7 +784,7 @@ do
 i--;
 try
 {
-std::cout << qDRy5d5() << U2C109H(f__3, rPSH, 731874584) << f__3 << UZeer << "vd8xXCZ" << std::endl;
+std::cout << qDRy5d5() << U2C109H(f__3, rPSH, (unsigned short)731874584) << f__3 << UZeer << "vd8xXCZ" << std::endl;
 }
 catch (int& errorCode)
 {

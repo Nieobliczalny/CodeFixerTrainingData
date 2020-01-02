@@ -13,7 +13,7 @@ unsigned long VVtcw6(unsigned short ct7fJR_m9R) {
 }
 
 unsigned short int Sqo5KN9_o5(short int Vt_D,char pxImUSjkW,unsigned short d9IOFVO3_Q) {
- return -1771010638;
+ return (unsigned short)-1771010638;
 }
 
 unsigned long	ehRi()
@@ -34,7 +34,7 @@ ii_m_D = Sqo5KN9_o5(ii_m_D, jXRe58c9, uiVO47Nq);
 
 for (int i = 0; i < 3; i++)
 {
-nkxzlS = Sqo5KN9_o5(298912437, (char)1788050714, 1307787095);
+nkxzlS = Sqo5KN9_o5((short)298912437, (char)1788050714, 1307787095);
 }
 if ((uiVO47Nq > Ic0a9N0) || (YODr6h))
 {
@@ -94,7 +94,7 @@ U5etTGJ -= 512644660;
 }
 else
 {
-std::cout << I220 << Sqo5KN9_o5(VkSf4C, n6Gk1, 1835535954) << VVtcw6(VkSf4C) << std::endl;
+std::cout << I220 << Sqo5KN9_o5(VkSf4C, n6Gk1, (unsigned short)1835535954) << VVtcw6(VkSf4C) << std::endl;
 }
 E0A4T = (long double)(aswePP8);
 
@@ -112,7 +112,7 @@ case 1:
 aswePP8 = (int)abs(nPvI4Wby_);
 break;
 case 2:
-OZ3ELvJX9M = (MfAE4P != m1PZBk2) ? Sqo5KN9_o5(446118801, n6Gk1, xRG8JP) : zCuT;
+OZ3ELvJX9M = (MfAE4P != m1PZBk2) ? Sqo5KN9_o5((short)446118801, n6Gk1, xRG8JP) : zCuT;
 break;
 }
 
@@ -142,7 +142,7 @@ try
 {
 for (int k = 8; k >= 0; --k)
 {
-xTGk = Sqo5KN9_o5(xTGk, 1118466166, tS15);
+xTGk = Sqo5KN9_o5(xTGk, (char)1118466166, tS15);
 }
 }
 catch (int& errorCode)

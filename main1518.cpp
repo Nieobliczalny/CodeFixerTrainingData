@@ -11,7 +11,7 @@
 using namespace std;
 
 int main(int argc, char** argv) {
-	short int	VZw9	=	-605016849;
+	short int	VZw9	=	(short)-605016849;
     unsigned short int    dB74_K9    =    (unsigned short)-633591831;
   double  S1yx  =  -145964540;
   short int  Hag8_o9U6  =  -1021204781;
@@ -23,7 +23,7 @@ int main(int argc, char** argv) {
   long double  onN_2  =  -464003819;
     int    GlGqAg1cE    =    -404730971;
   unsigned long  z4rW9xW  =  1233455432;
-    unsigned short int    ogFi1dN2H    =    -260828785;
+    unsigned short int    ogFi1dN2H    =    (unsigned short)-260828785;
 	unsigned char	osQ82j	=	(unsigned char)-173788043;
 	unsigned long	uVvWAWa	=	0;
  unsigned short int v5bV0c_3X = 757489648;
@@ -37,7 +37,7 @@ int main(int argc, char** argv) {
   short  ld95  =  0;
 	long long	WBY4n	=	0;
   long double  KPGvwS_mVJ  =  -1668028617;
-    unsigned short    b6W32M    =    -1776711757;
+    unsigned short    b6W32M    =    (unsigned short)-1776711757;
     unsigned char    Vd9_    =    (unsigned char)500394243;
   short  Lk33e9N0Y  =  -871053205;
  long long mo15p9Y = -1877239619;
@@ -47,7 +47,7 @@ int main(int argc, char** argv) {
     unsigned long long    i1Rz    =    -505093859;
   long  jnE3Pl  =  562855350;
 	short int	IRLW_89rP	=	-1883069142;
- short int U63DwfiK = 591138916;
+ short int U63DwfiK = (short)591138916;
 	unsigned long	MB51P6jq18	=	-923874849;
  float SD9WqDTeR = 1903730194;
  int vm17Etd = 1861004424;
@@ -62,7 +62,7 @@ int main(int argc, char** argv) {
  float HRQCe = 1556715725;
     unsigned char    bm6qR7    =    0;
  long CQ3Nz = -421522705;
-	unsigned short	zR23n2Xm	=	1593707869;
+	unsigned short	zR23n2Xm	=	(unsigned short)1593707869;
   char  Tdh1g686c  =  (char)1468313593;
     long double    T3Op7    =    -219597923;
   unsigned char  J119qtb_1t  =  -897384431;

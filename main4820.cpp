@@ -59,7 +59,7 @@ XF_uqnG0vz <<= 1840515558;
 }
 for (int i = 0; i < 1; i++)
 {
-rRg2Vx = Sc1vT(526023515, 606971200, (char)1838833051, dS2zy764y);
+rRg2Vx = Sc1vT(526023515, (unsigned short)606971200, (char)1838833051, dS2zy764y);
 }
 {
 int i = 10;
@@ -94,7 +94,7 @@ unsigned short    Sc1vT(int    VxsT_C9J,unsigned short int    y6g_n3,char    F3T
 }
 
 short int  VOiE_(unsigned char  e2y5Z3ps0,int  sg09rvY0,unsigned short  P7_5,unsigned short  b9VUL4IIV)  {
-  return  -416958792;
+  return  (short)-416958792;
 }
 
 unsigned long	ykh41(int	mDKH,unsigned short	wuDeI__w,unsigned long	I7iVPuE0V,unsigned int	WHAhg5q5D,char	O8Imf9j)	{

@@ -23,7 +23,7 @@ int main(void) {
   unsigned short  RPNri;
   RPNri  =  0;
   unsigned char  V6jwV;
-  V6jwV  =  1294312320;
+  V6jwV  =  (unsigned char)1294312320;
  short int vmy11_Z;
  vmy11_Z = 0;
 
@@ -67,7 +67,7 @@ for (int j = 0; j < 8; j++)
 {
 try
 {
-V6jwV = gq22(2013364276);
+V6jwV = gq22((unsigned short)2013364276);
 }
 catch (int& errorCode)
 {
@@ -90,7 +90,7 @@ if (V6jwV)
 {
 for (int j = 0; j < 3; j++)
 {
-std::cout << vmy11_Z << "RGlMaI" << gq22(1414045762) << "dRDBp_" << std::endl;
+std::cout << vmy11_Z << "RGlMaI" << gq22((unsigned short)1414045762) << "dRDBp_" << std::endl;
 }
 }
 if (((RPNri < vmy11_Z) || (V6jwV)) && (RPNri != V6jwV))
@@ -137,7 +137,7 @@ int i = 0;
 do
 {
 i++;
-V6jwV = gq22(-291749311);
+V6jwV = gq22((unsigned short)-291749311);
 }
 while (i < 10);
 }
@@ -179,7 +179,7 @@ vmy11_Z = CFP2p();
 }
 else if (RPNri == J55J5JC)
 {
-V6jwV = gq22(670827166);
+V6jwV = gq22((unsigned short)670827166);
 }
 else if (RPNri == -460588668)
 {
@@ -233,7 +233,7 @@ case 'h':
 RPNri = CFP2p();
 break;
 case 'i':
-V6jwV = (vmy11_Z & RPNri) ? 856136700 : (unsigned char)-1537576976;
+V6jwV = (vmy11_Z & RPNri) ? (unsigned char)856136700 : (unsigned char)-1537576976;
 break;
 case 'j':
 V6jwV = gq22(1938001418);
@@ -264,7 +264,7 @@ case 5:
 vmy11_Z = CFP2p();
 break;
 default:
-V6jwV = gq22(697723500);
+V6jwV = gq22((unsigned short)697723500);
 break;
 }
 for (int i = RPNri; i < 57; i++)
@@ -295,7 +295,7 @@ else
 {
 if (((vmy11_Z != 345278802) || (V6jwV == EFU1_)) || ((vmy11_Z <= 2063471930) && (vmy11_Z)))
 {
-V6jwV = gq22(-173099111);
+V6jwV = gq22((unsigned short)-173099111);
 }
 }
 }
@@ -342,7 +342,7 @@ case 0:
 V6jwV |= 1186565209;
 break;
 case 1:
-V6jwV = gq22(-209102436) % 2131251181;
+V6jwV = gq22((unsigned short)-209102436) % 2131251181;
 break;
 }
 }
@@ -371,7 +371,7 @@ case 3:
 V6jwV = gq22(V6jwV);
 break;
 case 4:
-V6jwV = gq22(-1904840087);
+V6jwV = gq22((unsigned short)-1904840087);
 break;
 case 5:
 V6jwV = gq22((unsigned short)1288167252);
@@ -383,7 +383,7 @@ case 7:
 V6jwV %= 1418239392;
 break;
 case 8:
-V6jwV = gq22(-793890498) >> 1466005871;
+V6jwV = gq22((unsigned short)-793890498) >> 1466005871;
 break;
 case 9:
 V6jwV = gq22((unsigned short)-25076237);
@@ -396,7 +396,7 @@ while (i < 1)
 i++;
 try
 {
-V6jwV = gq22(1555596593);
+V6jwV = gq22((unsigned short)1555596593);
 }
 catch (int& errorCode)
 {
@@ -413,7 +413,7 @@ if (vmy11_Z > EFU1_)
 {
 if (RPNri > vmy11_Z)
 {
-V6jwV = gq22(-578811802);
+V6jwV = gq22((unsigned short)-578811802);
 }
 else
 {
@@ -435,7 +435,7 @@ switch (V6jwV)
 {
 case 'a':
 case 'A':
-V6jwV = gq22(517360734);
+V6jwV = gq22((unsigned short)517360734);
 break;
 case 'b':
 case 'B':
@@ -451,7 +451,7 @@ RPNri = CFP2p();
 break;
 case 'e':
 case 'E':
-V6jwV = (V6jwV != RPNri) ? -956569396 : V6jwV;
+V6jwV = (V6jwV != RPNri) ? (unsigned char)-956569396 : V6jwV;
 break;
 case 'f':
 case 'F':
@@ -511,7 +511,7 @@ V6jwV = vmy11_Z - 1051689946;
 }
 }
 }
-V6jwV = gq22(2104714062);
+V6jwV = gq22((unsigned short)2104714062);
 vmy11_Z = (short int)(EFU1_ * (J55J5JC));
 if (vmy11_Z != -390205991)
 {

@@ -61,7 +61,7 @@ while (k >= 0);
 }
 else if ((U26En >= bpc73KGz) || (aqU87Zy_P >= 304040797))
 {
-std::cout << oNL17(-966909503, ouUf, ELY569, b1Yz74NHIJ) << "X59FFj" << nisso0ZD << a9x4LVx7Y(bpc73KGz) << std::endl;
+std::cout << oNL17((short)-966909503, ouUf, ELY569, b1Yz74NHIJ) << "X59FFj" << nisso0ZD << a9x4LVx7Y(bpc73KGz) << std::endl;
 }
 else
 {
@@ -87,7 +87,7 @@ try
 {
 if (N_B47F & -768226752)
 {
-PjcUi280v_ = a9x4LVx7Y(2004725969);
+PjcUi280v_ = a9x4LVx7Y((unsigned char)2004725969);
 }
 }
 catch (int& errorCode)
@@ -138,7 +138,7 @@ asOMU7zcZ = (int)abs(dN3ea9hM6) + (1718386687);
 i--;
 }
 }
-dN3ea9hM6 = C2Wtj(745132857, n_wc, H0zDNbevG9, U26En, -1181222294);
+dN3ea9hM6 = C2Wtj(745132857, n_wc, H0zDNbevG9, U26En, (unsigned short)-1181222294);
 
 if ((Z__gSBiTc) && (Xs3hI9_ != 417622506))
 {
@@ -152,7 +152,7 @@ int k = 0;
 do
 {
 k++;
-perXA_rH20 = a9x4LVx7Y(1393359001);
+perXA_rH20 = a9x4LVx7Y((unsigned char)1393359001);
 }
 while (k < 3);
 }
@@ -181,7 +181,7 @@ catch (int& errorCode)
 {
 b1Yz74NHIJ = a9x4LVx7Y(197791887);
 }
-std::cout << Jezu(b1Yz74NHIJ, 940693534) << oNL17(b1Yz74NHIJ, 812865359, 1769822450, DUFr8667kl) << Jezu(b1Yz74NHIJ, (char)1725622777) << std::endl;
+std::cout << Jezu(b1Yz74NHIJ, (char)940693534) << oNL17(b1Yz74NHIJ, 812865359, 1769822450, DUFr8667kl) << Jezu(b1Yz74NHIJ, (char)1725622777) << std::endl;
 
 try
 {
@@ -206,7 +206,7 @@ try
 int k = 0;
 while (k < 10)
 {
-PcA8i = oNL17(1494717058, wFcFB5, K425k__, wBMFb29sb);
+PcA8i = oNL17((short)1494717058, wFcFB5, K425k__, wBMFb29sb);
 ++k;
 }
 }
@@ -248,7 +248,7 @@ iE66om4hQ = aqU87Zy_P + Z__gSBiTc;
 }
 else if (dN3ea9hM6 & -1030489816)
 {
-Fey01v2h_ = C2Wtj(EAy44yZX1, 283121183, -548120612, Bqi_8q, (unsigned short)-1196468061);
+Fey01v2h_ = C2Wtj(EAy44yZX1, 283121183, (short)-548120612, Bqi_8q, (unsigned short)-1196468061);
 }
 else if (JBIz_v5YQ > -1624008017)
 {
@@ -303,7 +303,7 @@ switch (dN3ea9hM6)
 {
 case 'a':
 case 'A':
-n265m2DL = a9x4LVx7Y(-1794018363);
+n265m2DL = a9x4LVx7Y((unsigned char)-1794018363);
 break;
 case 'b':
 case 'B':
@@ -324,7 +324,7 @@ unsigned long    C2Wtj(int    Uw90H9,unsigned long    jsuHljut,short    q7oA3j5y
 
 unsigned short int  a9x4LVx7Y(unsigned char  OsVVW)
 {
-  return  723289892;
+  return  (unsigned short)723289892;
 }
 
 unsigned int	oNL17(short	O5xt,unsigned long long	EywKgAP_c_,long long	d88J,unsigned int	LS3s6n44)	{

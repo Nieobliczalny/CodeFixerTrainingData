@@ -14,7 +14,7 @@ using std::floor;
 
 int main(int argc, char** argv) {
   long long  o8l0Oyjszw  =  -1785481963;
- unsigned char Sj_2oaj = 1957210335;
+ unsigned char Sj_2oaj = (unsigned char)1957210335;
   unsigned short int  JEc0g4e89  =  0;
  unsigned int Sq_3v = 1527715782;
  long long j17pzj6O = 1252398370;
@@ -25,7 +25,7 @@ int main(int argc, char** argv) {
   long  G7_UyU  =  65496400;
  unsigned short int o4nv = -814624716;
  long long t4qs1W8 = -894756054;
-  char  lqTtDP  =  -1865278703;
+  char  lqTtDP  =  (char)-1865278703;
  double p2hluss0K4 = -2016166664;
  short Ox8g8al6 = -1211170690;
 	short	v2t784r22	=	-139616214;
@@ -36,7 +36,7 @@ int main(int argc, char** argv) {
     long long    bx715_    =    135710119;
 	unsigned long	a804k590	=	-265329643;
     unsigned char    BL2bn    =    0;
-    unsigned char    AgoP    =    516945978;
+    unsigned char    AgoP    =    (unsigned char)516945978;
     unsigned int    Q79vmrMA0v    =    -786528036;
  unsigned short int Q2Ht85c5bI = (unsigned short)-360146650;
 	unsigned short	Yhxe_F	=	-2007628916;
@@ -325,7 +325,7 @@ case 6:
 oOhsf = (int)floor(p2hluss0K4);
 break;
 case 7:
-v2t784r22 = (DwrO5kQm > -43378784) ? -975932673 : (short)-944107137;
+v2t784r22 = (DwrO5kQm > -43378784) ? (short)-975932673 : (short)-944107137;
 break;
 default:
 a804k590 >>= 1559271260;

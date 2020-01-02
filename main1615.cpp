@@ -17,7 +17,7 @@ int main(void)
  unsigned long long BGb6SbCiP;
  BGb6SbCiP = -1453707841;
     short int    b4WG;
-    b4WG    =    393357009;
+    b4WG    =    (short)393357009;
 	unsigned long	toRi;
 	toRi	=	-1134578508;
  long double kfTJOS;
@@ -27,7 +27,7 @@ int main(void)
 	long long	kFIxc;
 	kFIxc	=	-1592667753;
 	short	w7K9p;
-	w7K9p	=	1146267577;
+	w7K9p	=	(short)1146267577;
  char GRVm;
  GRVm = -953369982;
     long double    F2x2j;
@@ -55,7 +55,7 @@ int main(void)
   long  e_xD6dXV;
   e_xD6dXV  =  -536991191;
 	unsigned short	oDmO9Y;
-	oDmO9Y	=	1298737132;
+	oDmO9Y	=	(unsigned short)1298737132;
   unsigned short int  onGwLS;
   onGwLS  =  (unsigned short)-90634781;
  short int RWHi20_7nU;
@@ -67,7 +67,7 @@ int main(void)
  long long p4f8Q28p92;
  p4f8Q28p92 = 373222831;
  short yYYOG;
- yYYOG = -556985201;
+ yYYOG = (short)-556985201;
     long double    Khe3j20;
     Khe3j20    =    -568715186;
  int b7D3DCTe;
@@ -83,7 +83,7 @@ int main(void)
   int  DM19Pt;
   DM19Pt  =  -1850511977;
  char JGCnG;
- JGCnG = 789555397;
+ JGCnG = (char)789555397;
     char    twO40W8B2;
     twO40W8B2    =    (char)133200193;
     char    d_qAvIpwgl;
@@ -93,7 +93,7 @@ int main(void)
  float i54qwrShza;
  i54qwrShza = 306935903;
 	short	I25fw33Bo6;
-	I25fw33Bo6	=	1550894898;
+	I25fw33Bo6	=	(short)1550894898;
     unsigned short int    F44Nq;
     F44Nq    =    (unsigned short)1038825120;
     unsigned long long    AYwSBk86;
@@ -103,7 +103,7 @@ int main(void)
  char T_c84Y60;
  T_c84Y60 = 1494810825;
   unsigned short  v0aQ6;
-  v0aQ6  =  1165471695;
+  v0aQ6  =  (unsigned short)1165471695;
  int L7M22_i;
  L7M22_i = 360174488;
  unsigned short int s56b2_B4;
@@ -119,7 +119,7 @@ int main(void)
  unsigned long long O3PLoWfU;
  O3PLoWfU = 545237096;
 	unsigned short	VF6ttig;
-	VF6ttig	=	-1421598075;
+	VF6ttig	=	(unsigned short)-1421598075;
  short bAx3;
  bAx3 = (short)542181433;
     unsigned int    vaYP;
@@ -129,7 +129,7 @@ int main(void)
 	int	lbo8W59NiR;
 	lbo8W59NiR	=	793485309;
   short  u226L0u8;
-  u226L0u8  =  2003364635;
+  u226L0u8  =  (short)2003364635;
     long double    x7_b1O;
     x7_b1O    =    368559285;
     char    MV2W8c;
@@ -143,7 +143,7 @@ int main(void)
  long double cs12V380;
  cs12V380 = 400430218;
  unsigned char njwDGU7t;
- njwDGU7t = -1530539559;
+ njwDGU7t = (unsigned char)-1530539559;
 	unsigned short int	Qm133jGq;
 	Qm133jGq	=	(unsigned short)1394219166;
   double  dbuhOIaGKx;
@@ -153,7 +153,7 @@ int main(void)
   double  f2XJrmb;
   f2XJrmb  =  -668990827;
  unsigned short t97Jj05;
- t97Jj05 = -1191491720;
+ t97Jj05 = (unsigned short)-1191491720;
     char    a4wLqB;
     a4wLqB    =    (char)-34147779;
   unsigned int  D_PM7K;
@@ -163,7 +163,7 @@ int main(void)
 	char	pR5RaG5d4;
 	pR5RaG5d4	=	298985522;
  unsigned short int lT9A1d28b;
- lT9A1d28b = 493641020;
+ lT9A1d28b = (unsigned short)493641020;
     unsigned char    IK5Io_P56;
     IK5Io_P56    =    (unsigned char)-424132167;
   short  kwHP;
@@ -175,7 +175,7 @@ int main(void)
     int    Z35U;
     Z35U    =    0;
     unsigned char    qcKR1;
-    qcKR1    =    228178513;
+    qcKR1    =    (unsigned char)228178513;
     int    e_A6HG;
     e_A6HG    =    -1649567232;
   unsigned short int  H160rgNZ;
@@ -195,7 +195,7 @@ int main(void)
     unsigned long    Q_RlAPf;
     Q_RlAPf    =    -332472648;
     unsigned char    MgeSXN;
-    MgeSXN    =    313849170;
+    MgeSXN    =    (unsigned char)313849170;
   char  SF_4v;
   SF_4v  =  (char)1911078307;
  char ohZ_g7JC6;
@@ -205,7 +205,7 @@ int main(void)
     unsigned long long    OVP215KCz;
     OVP215KCz    =    -1019978695;
 	short int	X2UV11ZTd;
-	X2UV11ZTd	=	-1173778233;
+	X2UV11ZTd	=	(short)-1173778233;
     int    w_wVd1RR0;
     w_wVd1RR0    =    -1268630285;
 	float	KON76Z;
@@ -256,7 +256,7 @@ case 7:
 w7K9p++;
 break;
 case 8:
-RWHi20_7nU = (jKjyMc8 & 292518542) ? 1548158852 : ivTE0;
+RWHi20_7nU = (jKjyMc8 & 292518542) ? (short)1548158852 : ivTE0;
 break;
 }
 switch (J7rK)
@@ -400,7 +400,7 @@ case 2:
 dbuhOIaGKx = (int)ceil(d0Ocx71);
 break;
 case 3:
-MV2W8c = (sds_S04 <= -206091056) ? 649856971 : u8rkoYq973;
+MV2W8c = (sds_S04 <= -206091056) ? (char)649856971 : u8rkoYq973;
 break;
 case 4:
 KON76Z = (yYYOG & 404483784) ? 564579833 : 612993789;

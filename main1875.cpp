@@ -17,7 +17,7 @@ unsigned long long  j1nh_Pf_()  {
 }
 
 short  t2968_dmE(long  tF5S9)  {
-  return  80683012;
+  return  (short)80683012;
 }
 
 short int	cR7LFk2n16(unsigned char	Fr_Tg0,short int	zX9dDD0324,unsigned short int	pvM7Wuanje,unsigned char	W8eP8n2,unsigned char	bgty813)
@@ -126,7 +126,7 @@ adIL3u4 = (double)(CODTG2U);
 }
 else
 {
-std::cout << Iq3i0b << cR7LFk2n16(ZassM6GW, ygO42p, rzst4, R0H2, 834374319) << t2968_dmE(ZassM6GW) << "It1B5jW" << IbHVnU << std::endl;
+std::cout << Iq3i0b << cR7LFk2n16(ZassM6GW, ygO42p, rzst4, R0H2, (unsigned char)834374319) << t2968_dmE(ZassM6GW) << "It1B5jW" << IbHVnU << std::endl;
 }
 }
 catch (int& errorCode)
@@ -149,7 +149,7 @@ for (int i = 1; i >= 0; i--)
 eFRkV3ta6 = (double)(R0H2);
 }
 
-XQ2W3wF = cR7LFk2n16(-1566929251, (short)-670714886, -219345231, TLS0GLO, -198741551);
+XQ2W3wF = cR7LFk2n16((unsigned char)-1566929251, (short)-670714886, -219345231, TLS0GLO, -198741551);
 
 y_q__1 = -1990746044 / XQ2W3wF;
 
@@ -198,7 +198,7 @@ qGBz8Ed0 = (double)(gUXWeu);
 switch (XQ2W3wF)
 {
 case 0:
-XQ2W3wF = cR7LFk2n16(-181819730, Fn4FOx, D1av3NNL1F, (unsigned char)764423137, n904);
+XQ2W3wF = cR7LFk2n16((unsigned char)-181819730, Fn4FOx, D1av3NNL1F, (unsigned char)764423137, n904);
 break;
 case 1:
 Kwe92ZXy = (int)floor(ZassM6GW);

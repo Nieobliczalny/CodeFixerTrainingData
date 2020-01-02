@@ -24,7 +24,7 @@ unsigned long long  po2UX37C49(unsigned int  IK_xgQQm2,char  mms869sf2z,long lon
 int main(int argc, char** argv) {
 	unsigned short	R6RdLP	=	0;
 	unsigned long	J8hr10E_	=	1389683550;
-    char    GCnjR86_1W    =    -1189501812;
+    char    GCnjR86_1W    =    (char)-1189501812;
  unsigned long long SWOMz = 0;
 	unsigned long long	ewost2B9fA	=	0;
   unsigned short  GYJw  =  (unsigned short)-51230316;
@@ -36,7 +36,7 @@ int main(int argc, char** argv) {
 p3moTFv = (char)(J8hr10E_ * p3moTFv);
 GYJw++;
 
-GYJw = O6IqCX9X(-1861405900, p3moTFv, 172561585, SWOMz);
+GYJw = O6IqCX9X((unsigned short)-1861405900, p3moTFv, 172561585, SWOMz);
 
 if ((gDjQN7G3 / lJ53()) == -1308251107)
 {
@@ -55,7 +55,7 @@ int k = 0;
 do
 {
 k++;
-gDjQN7G3 = po2UX37C49(ewost2B9fA, gDjQN7G3, -1415080648, -1955405428, p3moTFv);
+gDjQN7G3 = po2UX37C49(ewost2B9fA, gDjQN7G3, -1415080648, (unsigned short)-1955405428, p3moTFv);
 }
 while (k < 10);
 }
@@ -92,7 +92,7 @@ GYJw ^= 1434270362;
 GCnjR86_1W = (int)abs(u8ZRk);
 std::cout << p3moTFv << std::endl;
 
-std::cout << O6IqCX9X(543306725, 245929318, 718414714, 1391921418) << std::endl;
+std::cout << O6IqCX9X((unsigned short)543306725, 245929318, 718414714, 1391921418) << std::endl;
 k0oG = (unsigned char)(ewost2B9fA + (1780703913));
 
 if (SWOMz < gDjQN7G3)
@@ -103,7 +103,7 @@ try
 int k = 0;
 while (k < 3)
 {
-GCnjR86_1W = po2UX37C49(GCnjR86_1W, u8ZRk, 832988153, -1751953286, ewost2B9fA);
+GCnjR86_1W = po2UX37C49(GCnjR86_1W, u8ZRk, 832988153, (unsigned short)-1751953286, ewost2B9fA);
 ++k;
 }
 }
@@ -114,7 +114,7 @@ J8hr10E_ = O6IqCX9X(SWOMz, 2130324935, J8hr10E_, -1614665585);
 }
 }
 
-std::cout << po2UX37C49(-769031208, -1051748447, J8hr10E_, (unsigned short)-1163330816, ewost2B9fA) << std::endl;
+std::cout << po2UX37C49(-769031208, (char)-1051748447, J8hr10E_, (unsigned short)-1163330816, ewost2B9fA) << std::endl;
 
 std::cout << "rcT4Q" << GYJw << "iUVf" << lJ53() << po2UX37C49(-1485626790, 1602490155, J8hr10E_, R6RdLP, -824874420) << std::endl;
 
@@ -170,7 +170,7 @@ else
 int j = 0;
 while (j < 3)
 {
-u8ZRk = po2UX37C49(1266657312, p3moTFv, J8hr10E_, R6RdLP, 76637102);
+u8ZRk = po2UX37C49(1266657312, p3moTFv, J8hr10E_, R6RdLP, (unsigned short)76637102);
 ++j;
 }
 }

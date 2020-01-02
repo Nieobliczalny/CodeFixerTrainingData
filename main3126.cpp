@@ -18,7 +18,7 @@ unsigned long  J14Y(unsigned short int  IT_uD2oKfU,unsigned short  zMQ5mHptm2)
 
 unsigned char	B9b83Cck(unsigned short	i9i61S8AA)
 {
-	return	1153301041;
+	return	(unsigned char)1153301041;
 }
 
 unsigned short	b5_57Nt(short	G4tr1Sl6,unsigned char	Nx0Cs0,short int	mQYAHR5B0,unsigned char	gl7Ya4w2,unsigned short int	Q795lD14)
@@ -40,7 +40,7 @@ int i = 5;
 while (i >= 0)
 {
 i--;
-fcQ8ARy2 = b5_57Nt(978354772, (unsigned char)1138450005, Q1Y088, 168088005, -172200497);
+fcQ8ARy2 = b5_57Nt((short)978354772, (unsigned char)1138450005, Q1Y088, 168088005, -172200497);
 }
 }
 zIPAt >>= cSIVLFPqgZ;
@@ -54,7 +54,7 @@ k83n3_ |= 221903206;
 }
 else if (zIPAt < Vw7TJ)
 {
-JCeVYdtSMU = J14Y(fcQ8ARy2, 874067429);
+JCeVYdtSMU = J14Y(fcQ8ARy2, (unsigned short)874067429);
 }
 else
 {
@@ -95,7 +95,7 @@ k83n3_ %= wa604wk;
 switch (ZpvSE3O1)
 {
 case 'a':
-sKLYv = J14Y(Q1Y088, 242756363);
+sKLYv = J14Y(Q1Y088, (unsigned short)242756363);
 break;
 case 'b':
 fcQ8ARy2 = sKLYv << 351812668;
@@ -142,7 +142,7 @@ if (Q1Y088 < -946677710)
 {
 if (ZpvSE3O1)
 {
-cSIVLFPqgZ = B9b83Cck(841725643);
+cSIVLFPqgZ = B9b83Cck((unsigned short)841725643);
 }
 }
 }
@@ -161,7 +161,7 @@ zXI5F |= wa604wk;
 break;
 case 'c':
 case 'C':
-wa604wk = FkFx_E(wa604wk, 406770687, JCeVYdtSMU, (short)-2038422317, fcQ8ARy2);
+wa604wk = FkFx_E(wa604wk, (short)406770687, JCeVYdtSMU, (short)-2038422317, fcQ8ARy2);
 break;
 case 'd':
 case 'D':
@@ -200,7 +200,7 @@ k83n3_ = (unsigned long long)(fcQ8ARy2);
 CqVT7H6 = (unsigned long long)(Bi4W + (1965101177));
 
 fcQ8ARy2 >>= 2090883148;
-sKLYv = J14Y(CqVT7H6, 2028183469);
+sKLYv = J14Y(CqVT7H6, (unsigned short)2028183469);
 IAr5510tC = FkFx_E(-1915391466, (short)-1861712297, fcQ8ARy2, sKLYv, 1930957188);
 
 Q1Y088 = (unsigned long long)(zXI5F);
@@ -210,7 +210,7 @@ if (JCeVYdtSMU > 1902594672)
 {
 for (int k = 4; k >= 0; --k)
 {
-Q1Y088 = B9b83Cck(-1153723249);
+Q1Y088 = B9b83Cck((unsigned short)-1153723249);
 }
 }
 else
@@ -221,7 +221,7 @@ case 'a':
 cSIVLFPqgZ = FkFx_E(-2146354865, (short)-704546531, 503088043, -120858516, 1684771708);
 break;
 case 'b':
-sKLYv = J14Y(1008429231, -365463651);
+sKLYv = J14Y((unsigned short)1008429231, -365463651);
 break;
 case 'c':
 cSIVLFPqgZ = FkFx_E(JCeVYdtSMU, 1403542198, -579518561, 1465971812, IAr5510tC);

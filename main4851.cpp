@@ -49,7 +49,7 @@ return 0;
 
 short    SNzFTSu2R(short    dHodGytD)
 {
-    return    -1191410807;
+    return    (short)-1191410807;
 }
 
 unsigned int	fXkGv(short int	dASiZ7T,long long	rmXh5l,unsigned int	jmM00G2P,char	Jl8f38B05)	{

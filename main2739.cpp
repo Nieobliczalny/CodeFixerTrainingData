@@ -144,7 +144,7 @@ if (SXJt0ewxm != -1371211529)
 {
 try
 {
-IT5x_r = yR1Zq(794035037, ZJKu, KsqsKDY);
+IT5x_r = yR1Zq((unsigned short)794035037, ZJKu, KsqsKDY);
 }
 catch (int& errorCode)
 {
@@ -167,7 +167,7 @@ else if (v_OND4S2 < 165876010)
 {
 if (RBssD != SXJt0ewxm)
 {
-TeL4oJr = yR1Zq(-23136411, d_6d60, pc_h8_);
+TeL4oJr = yR1Zq((unsigned short)-23136411, d_6d60, pc_h8_);
 }
 else
 {
@@ -201,7 +201,7 @@ case 3:
 Qx2Onz = FqXt_ * Ttyg2OPVe;
 break;
 case 4:
-v8o9_ = yR1Zq(2058145638, -639589892, (char)1330983774);
+v8o9_ = yR1Zq((unsigned short)2058145638, -639589892, (char)1330983774);
 break;
 case 5:
 fIzqmqN_P7 = (int)ceil(IeYE);
@@ -225,7 +225,7 @@ else if (((Qx2Onz <= BBv8Q) || (P2t21_ > 247930851)) && (MC97e_ == 902299841))
 {
 if (DgxjqW_75 & 16763992)
 {
-O0YuKH67K = yR1Zq(O0YuKH67K, 669733680, 1780483453);
+O0YuKH67K = yR1Zq(O0YuKH67K, 669733680, (char)1780483453);
 }
 }
 else
@@ -257,7 +257,7 @@ for (int i = 5; i >= 0; i--)
 {
 for (int j = 0; j < 9; ++j)
 {
-std::cout << Fz66Xsuq << yR1Zq(dxI0g_yd3H, -995832353, X1Fiwbs) << yR1Zq(1446394690, 786756900, (char)-1073123157) << std::endl;
+std::cout << Fz66Xsuq << yR1Zq(dxI0g_yd3H, -995832353, X1Fiwbs) << yR1Zq((unsigned short)1446394690, 786756900, (char)-1073123157) << std::endl;
 }
 }
 
@@ -320,7 +320,7 @@ return 0;
 }
 
 short	yR1Zq(unsigned short int	B5fa5_5,long	M4A_29f,char	Kw6be)	{
-	return	-232779615;
+	return	(short)-232779615;
 }
 
 unsigned char  e2L2(unsigned long long  eGz6J9YOM,long  rk5s03vifM)

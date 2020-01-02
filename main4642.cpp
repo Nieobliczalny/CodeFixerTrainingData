@@ -68,7 +68,7 @@ int k = 0;
 while (k < 10)
 {
 k++;
-n_YGNyV2 = MaIpvb2(1614929733, -1261982278, PvddXHF0u, n030t3, AArDZuH8Uj);
+n_YGNyV2 = MaIpvb2(1614929733, (unsigned short)-1261982278, PvddXHF0u, n030t3, AArDZuH8Uj);
 }
 }
 }
@@ -139,7 +139,7 @@ else if (h17DW)
 {
 try
 {
-g3_8rh = MaIpvb2(-861726405, H5552003G, y7aN5, RkkBtAA, 356652553);
+g3_8rh = MaIpvb2(-861726405, H5552003G, y7aN5, RkkBtAA, (unsigned short)356652553);
 }
 catch (int& errorCode)
 {
@@ -172,7 +172,7 @@ n_YGNyV2 /= kF7pJ;
 break;
 case 'd':
 case 'D':
-Xbrp65h = MaIpvb2(Xbrp65h, y7aN5, 895274969, -194517918, RkkBtAA);
+Xbrp65h = MaIpvb2(Xbrp65h, y7aN5, (unsigned short)895274969, -194517918, RkkBtAA);
 break;
 case 'e':
 case 'E':
@@ -232,7 +232,7 @@ case 'a':
 ggN9ij = (int)abs(NU_FvME1g);
 break;
 case 'b':
-FUo2d12 = MaIpvb2(FUo2d12, 1493486493, (unsigned short)1671799731, 129011433, 1024489349);
+FUo2d12 = MaIpvb2(FUo2d12, (unsigned short)1493486493, (unsigned short)1671799731, 129011433, 1024489349);
 break;
 case 'c':
 kF7pJ = tBWiJpU * 565628331;
@@ -256,7 +256,7 @@ Q8Qa7D018 = MaIpvb2(1456996181, 1042690034, 1309652916, -917562295, aJJ41);
 switch (tBWiJpU)
 {
 case 'a':
-RkkBtAA = MaIpvb2(RkkBtAA, -855910563, v9Y0I, -228843671, (unsigned short)1346659592);
+RkkBtAA = MaIpvb2(RkkBtAA, (unsigned short)-855910563, v9Y0I, -228843671, (unsigned short)1346659592);
 break;
 case 'b':
 ggN9ij = Jle_l6iu0l();
@@ -291,7 +291,7 @@ else if (wRR0 & -103445602)
 {
 if (H5552003G <= 567958547)
 {
-cout << "f3Al60G" << "D81xM_v8xc" << MaIpvb2(Pz450v7w, n030t3, 1633066198, NU_FvME1g, xwEa1C8a1) << Jle_l6iu0l() << "ZnV4lm3hG" << endl;
+cout << "f3Al60G" << "D81xM_v8xc" << MaIpvb2(Pz450v7w, n030t3, (unsigned short)1633066198, NU_FvME1g, xwEa1C8a1) << Jle_l6iu0l() << "ZnV4lm3hG" << endl;
 }
 }
 else
@@ -325,7 +325,7 @@ case 2:
 n030t3 = g3_8rh / wRR0;
 break;
 case 3:
-niRd4VH2 = MaIpvb2(niRd4VH2, y7aN5, v9Y0I, 1275484001, -501242505);
+niRd4VH2 = MaIpvb2(niRd4VH2, y7aN5, v9Y0I, 1275484001, (unsigned short)-501242505);
 break;
 case 4:
 UdO0U2 = MaIpvb2(UdO0U2, (unsigned short)1426971052, -1450209836, Zuqd, n_YGNyV2);
@@ -340,7 +340,7 @@ case 7:
 NU_FvME1g = Jle_l6iu0l();
 break;
 case 8:
-xwEa1C8a1 = MaIpvb2(-402409442, 1598671887, aC2_z, jimSpkdJW, (unsigned short)-204781423);
+xwEa1C8a1 = MaIpvb2(-402409442, (unsigned short)1598671887, aC2_z, jimSpkdJW, (unsigned short)-204781423);
 break;
 }
 }
@@ -378,6 +378,6 @@ unsigned short int	Jle_l6iu0l()
 }
 
 short int    MaIpvb2(unsigned long long    I96V,unsigned short    MeQ8Y_1n,unsigned short    At9vMY30,long long    HUAT,unsigned short    XAaxthl)    {
-    return    -1725834119;
+    return    (short)-1725834119;
 }
 

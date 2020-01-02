@@ -15,7 +15,7 @@ using std::floor;
 int main(int argc, char** argv)
 {
     unsigned char    ysnFmZlc;
-    ysnFmZlc    =    -1610929633;
+    ysnFmZlc    =    (unsigned char)-1610929633;
 	long long	Q8X5u14_jw;
 	Q8X5u14_jw	=	704483131;
 	double	V95a;
@@ -25,7 +25,7 @@ int main(int argc, char** argv)
     unsigned long long    jZPw2Z;
     jZPw2Z    =    846289300;
   unsigned short  M660_T__7m;
-  M660_T__7m  =  -2098084714;
+  M660_T__7m  =  (unsigned short)-2098084714;
   short  W9EI1RG42H;
   W9EI1RG42H  =  (short)2103866958;
  unsigned char p6_XOi;
@@ -39,7 +39,7 @@ int main(int argc, char** argv)
     double    wJT_8_4w;
     wJT_8_4w    =    -551809991;
     short int    WXx4Rq;
-    WXx4Rq    =    712215546;
+    WXx4Rq    =    (short)712215546;
     long long    E3u81_5jdR;
     E3u81_5jdR    =    -54458763;
 	unsigned long	cKF1S536C;
@@ -51,7 +51,7 @@ int main(int argc, char** argv)
   double  J1E8Cjhlw;
   J1E8Cjhlw  =  -1926828693;
   unsigned short int  t_B3;
-  t_B3  =  -741050116;
+  t_B3  =  (unsigned short)-741050116;
 	short int	OUVdtGd8pN;
 	OUVdtGd8pN	=	(short)-950087365;
  long double bWv3_V49w;
@@ -61,7 +61,7 @@ int main(int argc, char** argv)
  unsigned short p7_aDogWtC;
  p7_aDogWtC = 1674701270;
  short CzY8E846;
- CzY8E846 = -827310922;
+ CzY8E846 = (short)-827310922;
     short int    i9_k4;
     i9_k4    =    (short)-628556981;
  double C0nb;
@@ -75,7 +75,7 @@ int main(int argc, char** argv)
 	unsigned char	EL_WMDe;
 	EL_WMDe	=	0;
 	char	hZr51e2c;
-	hZr51e2c	=	926316401;
+	hZr51e2c	=	(char)926316401;
   unsigned long long  ORA8_mGe;
   ORA8_mGe  =  47580000;
   long  BpM_6;
@@ -87,7 +87,7 @@ int main(int argc, char** argv)
     float    rs9H;
     rs9H    =    1038725146;
     unsigned short int    Bfvd;
-    Bfvd    =    1500757298;
+    Bfvd    =    (unsigned short)1500757298;
   float  p8sc;
   p8sc  =  2025245351;
     char    w5DnyH55;
@@ -103,7 +103,7 @@ int main(int argc, char** argv)
     long long    xNKQ46Owp6;
     xNKQ46Owp6    =    -406883006;
   unsigned short  y5f7;
-  y5f7  =  -1838173831;
+  y5f7  =  (unsigned short)-1838173831;
 	float	w2w3P;
 	w2w3P	=	-1847504112;
 	long long	hxfieSa8;
@@ -131,7 +131,7 @@ int main(int argc, char** argv)
   long  OfVCe;
   OfVCe  =  -1110973401;
  char UT116lsJ3f;
- UT116lsJ3f = 655013820;
+ UT116lsJ3f = (char)655013820;
 	unsigned long	W9ge2aEJ7G;
 	W9ge2aEJ7G	=	-1077212267;
     char    DKUnfiCiW;
@@ -155,7 +155,7 @@ int main(int argc, char** argv)
 	long	i_dJ;
 	i_dJ	=	-439622804;
   unsigned short int  Csg2F2Hi;
-  Csg2F2Hi  =  -1980943787;
+  Csg2F2Hi  =  (unsigned short)-1980943787;
     unsigned short    eoha_8;
     eoha_8    =    (unsigned short)1388587411;
     unsigned long    bPuGQjk;
@@ -167,7 +167,7 @@ int main(int argc, char** argv)
 	long long	e92j3V;
 	e92j3V	=	2007427601;
     unsigned char    DdjzfC;
-    DdjzfC    =    590818953;
+    DdjzfC    =    (unsigned char)590818953;
     char    LOTklXTP46;
     LOTklXTP46    =    (char)-363014585;
 

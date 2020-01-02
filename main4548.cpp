@@ -16,7 +16,7 @@ int main()
     long    w4Kw6Z4o;
     w4Kw6Z4o    =    -1420054782;
     char    DrtUZo1S;
-    DrtUZo1S    =    1731013621;
+    DrtUZo1S    =    (char)1731013621;
 	short	NmWveSqY13;
 	NmWveSqY13	=	(short)665929555;
  unsigned short Mp_05v;
@@ -32,7 +32,7 @@ int main()
   unsigned long long  AG183jNbw;
   AG183jNbw  =  761071954;
 	unsigned short	bGs8j4VP;
-	bGs8j4VP	=	369505809;
+	bGs8j4VP	=	(unsigned short)369505809;
 	long double	o9lNUrm;
 	o9lNUrm	=	-550661106;
 	short int	TwbRYZsIfF;
@@ -48,7 +48,7 @@ int main()
 	unsigned long long	e_KDr;
 	e_KDr	=	0;
  char tGQDu;
- tGQDu = 839523592;
+ tGQDu = (char)839523592;
  unsigned int Eyb8ZDkUKw;
  Eyb8ZDkUKw = -1153371694;
 	long long	uh1CosP7tJ;
@@ -62,7 +62,7 @@ int main()
 	long	c8_oS;
 	c8_oS	=	1045035939;
 	short	iqvrd8Y;
-	iqvrd8Y	=	2115405514;
+	iqvrd8Y	=	(short)2115405514;
     unsigned long    WqtlSI;
     WqtlSI    =    0;
   char  oKTy93;
@@ -312,7 +312,7 @@ UG3d_ = TwbRYZsIfF >> emB5A8Ju;
 }
 else
 {
-bGs8j4VP = (DrtUZo1S == pU90YXIM8O) ? 190097541 : DrtUZo1S;
+bGs8j4VP = (DrtUZo1S == pU90YXIM8O) ? (unsigned short)190097541 : DrtUZo1S;
 }
 }
 catch (int& errorCode)

@@ -21,7 +21,7 @@ int main(void)
     unsigned long long    T9e0LKiYT;
     T9e0LKiYT    =    1228279755;
 	unsigned short int	ums0;
-	ums0	=	1083578808;
+	ums0	=	(unsigned short)1083578808;
  char nYzr6kXPCx;
  nYzr6kXPCx = (char)-1251769426;
     short int    EsuAru;
@@ -31,7 +31,7 @@ int main(void)
     short int    KZ3pDebxp;
     KZ3pDebxp    =    857004417;
   short  uaDi3E8;
-  uaDi3E8  =  1958391544;
+  uaDi3E8  =  (short)1958391544;
     unsigned long    P98_5W3_0;
     P98_5W3_0    =    -956853848;
     unsigned int    ge3_R5sLy;
@@ -43,7 +43,7 @@ int main(void)
  unsigned long i4_RlGGd;
  i4_RlGGd = -1250487934;
   unsigned short  KRfX;
-  KRfX  =  -1292261119;
+  KRfX  =  (unsigned short)-1292261119;
     short    DC9P5T;
     DC9P5T    =    2145927193;
   short  EoBT4a0;
@@ -59,7 +59,7 @@ int main(void)
  unsigned long long Mc25u;
  Mc25u = 654638588;
 	short int	Mdtfory458;
-	Mdtfory458	=	236034042;
+	Mdtfory458	=	(short)236034042;
   double  Ru8SKk5XGR;
   Ru8SKk5XGR  =  -711335108;
     unsigned long long    h49UUfZA;

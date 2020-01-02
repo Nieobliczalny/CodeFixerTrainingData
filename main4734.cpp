@@ -64,7 +64,7 @@ case 3:
 IHBp_z = xhx5 / K50vy0y1u7;
 break;
 default:
-v0JsrMW29_ = QMSy4yoG09(-491910259, TKjYtK);
+v0JsrMW29_ = QMSy4yoG09((short)-491910259, TKjYtK);
 break;
 }
 }
@@ -81,7 +81,7 @@ int j = 7;
 while (j >= 0)
 {
 --j;
-std::cout << "MiG1Xljo2" << QMSy4yoG09(1735493880, CZ59P910) << "ld_9zTl" << QMSy4yoG09(DV0kKEb, 2120166256) << XuYT4kga() << std::endl;
+std::cout << "MiG1Xljo2" << QMSy4yoG09((short)1735493880, CZ59P910) << "ld_9zTl" << QMSy4yoG09(DV0kKEb, 2120166256) << XuYT4kga() << std::endl;
 }
 }
 }
@@ -125,7 +125,7 @@ ZQS4X8mZ2 = QMSy4yoG09(ZQS4X8mZ2, L9fwzfT);
 int i = 0;
 while (i < 6)
 {
-std::cout << QMSy4yoG09(-1536148571, 1451929998) << K50vy0y1u7 << "cLStvYChm_" << QMSy4yoG09(ZQS4X8mZ2, L9fwzfT) << XuYT4kga() << std::endl;
+std::cout << QMSy4yoG09((short)-1536148571, 1451929998) << K50vy0y1u7 << "cLStvYChm_" << QMSy4yoG09(ZQS4X8mZ2, L9fwzfT) << XuYT4kga() << std::endl;
 ++i;
 }
 }
@@ -192,7 +192,7 @@ I_cC0i41 /= 914083250;
 }
 else if (dh544d0)
 {
-AZV5N05qe = QMSy4yoG09(-135582068, -1565713786);
+AZV5N05qe = QMSy4yoG09((short)-135582068, -1565713786);
 }
 else if ((v0JsrMW29_) && ((ftcT & DP9m6_vwy) || (t3f51L & -1078572998)))
 {
@@ -242,7 +242,7 @@ case 0:
 BRFuSpUK_R = QMSy4yoG09(t3f51L, -369965585);
 break;
 case 1:
-Df9Mq = QMSy4yoG09(-1387229857, UG1T4);
+Df9Mq = QMSy4yoG09((short)-1387229857, UG1T4);
 break;
 case 2:
 BRFuSpUK_R = (int)floor(crWxzjM);
@@ -469,7 +469,7 @@ AZV5N05qe = (int)abs(xhx5);
 }
 else if (tg_06c != -1756942400)
 {
-c6R5pT3Ip = QMSy4yoG09(895254862, c94bCpuG);
+c6R5pT3Ip = QMSy4yoG09((short)895254862, c94bCpuG);
 }
 else
 {
@@ -555,7 +555,7 @@ v0JsrMW29_ = QMSy4yoG09(v0JsrMW29_, x7_Ww9q);
 }
 else
 {
-UG1T4 = QMSy4yoG09(1409409421, UG1T4);
+UG1T4 = QMSy4yoG09((short)1409409421, UG1T4);
 }
 ++j;
 }
@@ -570,7 +570,7 @@ while (j >= 0)
 switch (DP9m6_vwy)
 {
 case 0:
-AvLVm1 = QMSy4yoG09(1009450356, -403760938);
+AvLVm1 = QMSy4yoG09((short)1009450356, -403760938);
 break;
 case 1:
 DP9m6_vwy = XuYT4kga();
@@ -582,7 +582,7 @@ case 3:
 t2Tx = (int)floor(AI5FjKmqV);
 break;
 case 4:
-uj11Ob2z0 = QMSy4yoG09(1825805346, ftcT);
+uj11Ob2z0 = QMSy4yoG09((short)1825805346, ftcT);
 break;
 case 5:
 t2Tx = (int)abs(TKjYtK);

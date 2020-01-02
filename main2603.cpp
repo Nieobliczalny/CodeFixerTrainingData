@@ -10,7 +10,7 @@ using namespace std;
 
 unsigned short IEXqF6(short R36Ba6CA,long long l_z_j0)
 {
- return 1489430971;
+ return (unsigned short)1489430971;
 }
 
 long    VRG8m0R9(unsigned int    p8e7,unsigned int    B192,unsigned int    kjZ4H_10z)
@@ -150,7 +150,7 @@ while (i >= 0);
 hw3Uf91 = (unsigned int)(c_CI7Q7n1P);
 if (nd_J9Po56 >= R054ed_C)
 {
-std::cout << "A6SHE4" << VRG8m0R9(835506034, G5ajXm_3X, -661383903) << BVl_RZR(IEVw, 1999399604, (char)1729481980, aH0v9jQ) << IEXqF6(IEVw, 1765417140) << X48JhLK34 << std::endl;
+std::cout << "A6SHE4" << VRG8m0R9(835506034, G5ajXm_3X, -661383903) << BVl_RZR(IEVw, (short)1999399604, (char)1729481980, aH0v9jQ) << IEXqF6(IEVw, 1765417140) << X48JhLK34 << std::endl;
 }
 else if (C80sK9 != 1171423765)
 {
@@ -168,7 +168,7 @@ case 2:
 X9wbw94Zw8 = VRG8m0R9(713193100, gm772f, -1020304063);
 break;
 case 3:
-PW7J = BVl_RZR(-475007432, w_o4_YKl, (char)353725106, 1412873593);
+PW7J = BVl_RZR((unsigned short)-475007432, w_o4_YKl, (char)353725106, 1412873593);
 break;
 case 4:
 B56984xp = z_VUu();
@@ -223,7 +223,7 @@ gm772f <<= 1115658139;
 
 for (int i = 5; i >= 0; i--)
 {
-yyFoF = BVl_RZR(-1068664595, ErlE_6ok, IXkS25v, -722904722);
+yyFoF = BVl_RZR((unsigned short)-1068664595, ErlE_6ok, IXkS25v, -722904722);
 }
 
 for (int i = 9; i >= 0; i--)
@@ -239,7 +239,7 @@ i++;
 }
 while (i < 10);
 }
-FrvC9pk = IEXqF6(715321790, ve3hHC70u9);
+FrvC9pk = IEXqF6((short)715321790, ve3hHC70u9);
 c8vg0H4X3D = IEXqF6((short)837199226, X48JhLK34);
 
 Njx843NzS_ = Lqh6Q3p << 1121190541;
@@ -355,7 +355,7 @@ while (j >= 0);
 }
 else if (w_o4_YKl < -729955102)
 {
-std::cout << "HG5rOL_2x" << O4xF9k << IEXqF6(814720331, 246195670) << std::endl;
+std::cout << "HG5rOL_2x" << O4xF9k << IEXqF6((short)814720331, 246195670) << std::endl;
 }
 else
 {
@@ -371,7 +371,7 @@ if (c8vg0H4X3D & 1062137523)
 {
 if (IScGX75 > 184849393)
 {
-t_nfGoox8 = BVl_RZR(-7757259, (short)75502067, UgfbxOTfM0, sXlBz_7);
+t_nfGoox8 = BVl_RZR((unsigned short)-7757259, (short)75502067, UgfbxOTfM0, sXlBz_7);
 }
 else
 {
@@ -384,7 +384,7 @@ else if (((Gn0pQsWz > 1109508941) || (kLka)) || ((kLka <= OYi11cv) || (unGz < B5
 int k = 0;
 while (k < 10)
 {
-qnZj1CcWQk = IEXqF6(-378952537, 1524312073);
+qnZj1CcWQk = IEXqF6((short)-378952537, 1524312073);
 ++k;
 }
 }

@@ -22,7 +22,7 @@ unsigned long long B5O7Y6_(long long XAmW_ff_,unsigned int exK_ch,long vEbe7H) {
 
 unsigned char n9wq4O(unsigned long fg7La2SB6a,unsigned char VWBioyz,short gb3lgxlH3d,unsigned short Ps60Dvt)
 {
- return 1158166293;
+ return (unsigned char)1158166293;
 }
 
 int main()
@@ -34,7 +34,7 @@ int main()
 std::cout << JrJ582FNO << H_E0348oG8 << "MpG8I_4v" << std::endl;
 
 H0Ab_Z = (unsigned short int)(ZGfUX);
-jDEz = n9wq4O(1303091183, 359486233, d3p4e_B1vO, O4lZ3U);
+jDEz = n9wq4O(1303091183, (unsigned char)359486233, d3p4e_B1vO, O4lZ3U);
 try
 {
 switch (r8pBZ_L6Q)
@@ -52,7 +52,7 @@ case 3:
 B6p0s_zuak = (int)abs(w_8_zA8o_);
 break;
 case 4:
-eIj9d = (H10jRX_N > -570893912) ? D3E6ap_ : -1018242553;
+eIj9d = (H10jRX_N > -570893912) ? D3E6ap_ : (unsigned short)-1018242553;
 break;
 case 5:
 w_8_zA8o_ = B5O7Y6_(CMTvNpO, 1566625816, o_PeiJ);
@@ -67,7 +67,7 @@ catch (int& errorCode)
 jDEz <<= 1867383010;
 }
 
-Y9z0 = n9wq4O(Y9z0, 265098464, RH9Xl, u_r5v9);
+Y9z0 = n9wq4O(Y9z0, (unsigned char)265098464, RH9Xl, u_r5v9);
 
 if (((Rv2O) || (b7N4W6s & D3E6ap_)) && (inv452 > 51488505))
 {

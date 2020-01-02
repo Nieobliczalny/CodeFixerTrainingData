@@ -13,7 +13,7 @@ int main(int argc, char** argv)
  unsigned int DxCk42K;
  DxCk42K = 0;
 	unsigned short int	tFLRz,	Kr_20,	W5cyvgSi,	fA74v,	B_07sD2j,	Vgn584,	YwRCY,	t717KewA,	iUPyGM,	ixIhVSJ38T,	f8gu3njZ0c,	ip2z,	QzWkNQ,	KAZ5E,	RSwLX577dc,	Hl_96Rcr,	eMR_Y;
-	tFLRz	=	835660939;
+	tFLRz	=	(unsigned short)835660939;
 	Kr_20	=	(unsigned short)-9324209;
 	W5cyvgSi	=	-2076302438;
 	fA74v	=	915588747;
@@ -23,7 +23,7 @@ int main(int argc, char** argv)
 	t717KewA	=	-1757379799;
 	iUPyGM	=	-1585820823;
 	ixIhVSJ38T	=	-136454677;
-	f8gu3njZ0c	=	-2119975308;
+	f8gu3njZ0c	=	(unsigned short)-2119975308;
 	ip2z	=	(unsigned short)174044990;
 	QzWkNQ	=	-830993601;
 	KAZ5E	=	-193119950;
@@ -336,7 +336,7 @@ if (Vgn584 == 771359698)
 {
 if (eMR_Y <= -851736268)
 {
-t717KewA = (DxCk42K != tFLRz) ? Hl_96Rcr : 1191199891;
+t717KewA = (DxCk42K != tFLRz) ? Hl_96Rcr : (unsigned short)1191199891;
 }
 }
 else if (((KAZ5E & Hl_96Rcr) || (t717KewA <= -1759020253)) && (YwRCY))

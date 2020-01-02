@@ -18,7 +18,7 @@ unsigned char    o9fd2e9(unsigned short    QeE0ZUoFY,unsigned short int    J2j41
 }
 
 short rgke(short x7ws7y) {
- return 1202142040;
+ return (short)1202142040;
 }
 
 int Q7_N4e9(short int L9Ky4Z3NH_) {
@@ -127,7 +127,7 @@ while (i >= 0);
 int i = 3;
 do
 {
-std::cout << cM5b2d << "DE846_VD" << nvci8I(Ykp1g, 44107271, 1719546968) << lTSj2 << VrAr2bTzf9 << std::endl;
+std::cout << cM5b2d << "DE846_VD" << nvci8I(Ykp1g, (unsigned short)44107271, 1719546968) << lTSj2 << VrAr2bTzf9 << std::endl;
 --i;
 }
 while (i >= 0);
@@ -137,7 +137,7 @@ if (cM5b2d <= -932004625)
 {
 try
 {
-f6tnSZ_423 = nvci8I(1772276091, (unsigned short)-83178427, Hx__);
+f6tnSZ_423 = nvci8I((short)1772276091, (unsigned short)-83178427, Hx__);
 }
 catch (int& errorCode)
 {
@@ -191,7 +191,7 @@ case 'f':
 im36l_tJS = (int)floor(OA2QivrL1d);
 break;
 case 'g':
-tU92_ = rgke(-190804707);
+tU92_ = rgke((short)-190804707);
 break;
 case 'h':
 u580rhgit /= 433826828;
@@ -250,7 +250,7 @@ else if (Rj3NY <= 1875855897)
 {
 for (int k = 0; k < 5; k++)
 {
-kRb8nk4 = rgke(1051302528);
+kRb8nk4 = rgke((short)1051302528);
 }
 }
 else
@@ -306,7 +306,7 @@ G6E53P7Q8 = (int)abs(dIG_);
 }
 else if (GEfUwf1 > 763789094)
 {
-Rj3NY = o9fd2e9(1366551771, Rj3NY);
+Rj3NY = o9fd2e9((unsigned short)1366551771, Rj3NY);
 }
 else if (((C05K != -641957797) && (VzEXNH31 >= -21897112)) && (Rj3NY & RniRJl))
 {
@@ -326,7 +326,7 @@ else
 switch (Ykp1g)
 {
 case 0:
-Ykp1g = o9fd2e9(Ykp1g, -2005922787);
+Ykp1g = o9fd2e9(Ykp1g, (unsigned short)-2005922787);
 break;
 case 1:
 VzEXNH31 = im36l_tJS / Uo78M;
@@ -341,7 +341,7 @@ case 4:
 kRb8nk4 *= OA2QivrL1d;
 break;
 case 5:
-U7187Ug = nvci8I(U7187Ug, 1641416962, -428550418);
+U7187Ug = nvci8I(U7187Ug, (unsigned short)1641416962, -428550418);
 break;
 case 6:
 JYe0 = o9fd2e9(JYe0, D93J);

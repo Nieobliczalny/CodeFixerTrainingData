@@ -15,7 +15,7 @@ long	Btlv1m_gUk(unsigned long	h8d_ZxKU,long long	nZ_mm1gl_d)
 
 char t20F3(long KpxThbAJn,unsigned short int qj78_6e,long vwW5x,unsigned long l63WDuK60)
 {
- return 162394223;
+ return (char)162394223;
 }
 
 unsigned long VJM8I8()
@@ -28,7 +28,7 @@ unsigned long long	yn65Szt(char	T5Ui0vZy_9,unsigned short	LA5ZcJ21Op,unsigned ch
 }
 
 short int	QvP3QZ46(int	hDt8_MRz,char	VKD9,unsigned long long	Jj2350,int	J_z2)	{
-	return	305106146;
+	return	(short)305106146;
 }
 
 int main(void) {
@@ -113,7 +113,7 @@ mR_CS89_v ^= 4223110;
 }
 else if (sLxpcH)
 {
-cout << x1VP_rJ5 << n213U << yn65Szt(-1141725117, rqre4, (unsigned char)-1908683763, HM14711758, -575703994) << U1lO82L6r_ << endl;
+cout << x1VP_rJ5 << n213U << yn65Szt((char)-1141725117, rqre4, (unsigned char)-1908683763, HM14711758, -575703994) << U1lO82L6r_ << endl;
 }
 else if (Ie5M2gsZz & ech05h1rdP)
 {
@@ -140,7 +140,7 @@ cout << qIX3h6tn9q / FrX9 << endl;
 
 try
 {
-cout << VJM8I8() << "tbj7p4L9" << yn65Szt(-939019669, gj28, ak6578Q5Cu, -2074204416, (unsigned short)523391026) << "Awlf_" << endl;
+cout << VJM8I8() << "tbj7p4L9" << yn65Szt((char)-939019669, gj28, ak6578Q5Cu, -2074204416, (unsigned short)523391026) << "Awlf_" << endl;
 }
 catch (int& errorCode)
 {
@@ -160,7 +160,7 @@ case 1:
 A02YTv9 = VJM8I8();
 break;
 case 2:
-s8M_3a75p = t20F3(-1367604022, 551571641, 1251529376, -1689942493);
+s8M_3a75p = t20F3(-1367604022, (unsigned short)551571641, 1251529376, -1689942493);
 break;
 case 3:
 Pre25g1 += 971508388;
@@ -185,7 +185,7 @@ HM14711758 = VJM8I8();
 }
 else if (TG2P != U1lO82L6r_)
 {
-FrX9 = yn65Szt(uS81CIz, U1lO82L6r_, 685695258, nDBxJk, YfJU2ZYL);
+FrX9 = yn65Szt(uS81CIz, U1lO82L6r_, (unsigned char)685695258, nDBxJk, YfJU2ZYL);
 }
 else if (qIX3h6tn9q < -1862629348)
 {

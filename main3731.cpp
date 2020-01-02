@@ -18,7 +18,7 @@ short int	HLm86Q05c(short	BVb8,long long	sp_dynn)
 
 unsigned short int  dVdIQMcU_(int  l2jQlO4x1)
 {
-  return  -1598247449;
+  return  (unsigned short)-1598247449;
 }
 
 int main(void) {
@@ -30,7 +30,7 @@ int main(void) {
     short    x2NrQ    =    -1954498054;
  long C_OU5WR = -633785704;
 	long	GM0hbv7	=	0;
-    short    sAgWWbS7C    =    2125869082;
+    short    sAgWWbS7C    =    (short)2125869082;
  char ZXPpLk = 0;
 
 std::cout << dVdIQMcU_(f6Bn9mvULK) << "r_wg1" << ZXPpLk << sAgWWbS7C << HLm86Q05c(f6Bn9mvULK, 1707915304) << std::endl;
@@ -156,7 +156,7 @@ switch (Nmwk3)
 {
 case 'a':
 case 'A':
-GM0hbv7 = HLm86Q05c(-1273505507, f6Bn9mvULK);
+GM0hbv7 = HLm86Q05c((short)-1273505507, f6Bn9mvULK);
 break;
 case 'b':
 case 'B':
@@ -196,7 +196,7 @@ ZXPpLk = HLm86Q05c(f6Bn9mvULK, G8d54);
 break;
 }
 
-if (HLm86Q05c(-1441743561, -262216318) == 0)
+if (HLm86Q05c((short)-1441743561, -262216318) == 0)
 {
 	G8d54 = G8d54 / HLm86Q05c((short)-1441743561, -262216318);
 }
@@ -210,7 +210,7 @@ int i = 9;
 do
 {
 --i;
-Nmwk3 = HLm86Q05c(1123276146, f6Bn9mvULK);
+Nmwk3 = HLm86Q05c((short)1123276146, f6Bn9mvULK);
 }
 while (i >= 0);
 }

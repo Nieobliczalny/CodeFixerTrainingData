@@ -15,7 +15,7 @@ short int  aD90H7H()
 
 short	R9_3IpJ5qb(unsigned short int	LLVa7F)
 {
-	return	-1758340991;
+	return	(short)-1758340991;
 }
 
 int main(int argc, char** argv) {
@@ -138,7 +138,7 @@ case 6:
 qh5SI3 = R9_3IpJ5qb(qh5SI3);
 break;
 case 7:
-XV4u28 = R9_3IpJ5qb(466810631);
+XV4u28 = R9_3IpJ5qb((unsigned short)466810631);
 break;
 case 8:
 i7woOg35_F = aD90H7H();

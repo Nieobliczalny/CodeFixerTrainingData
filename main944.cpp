@@ -14,7 +14,7 @@ using std::ceil;
 using std::floor;
 
 int main(int argc, char** argv) {
-  char  REIn20s  =  751185683;
+  char  REIn20s  =  (char)751185683;
     short int    OYl33Ie13    =    (short)1591803491;
   double  p_XB1y_I  =  -807184169;
   unsigned long long  HI5XB1v57v  =  0;
@@ -25,7 +25,7 @@ int main(int argc, char** argv) {
  unsigned short I6zPjcZUf7 = 348512841;
   long long  zq3hS7N7  =  -723081467;
 	float	fWFgTa2_	=	-862070386;
-  char  E9LK  =  -1491861645;
+  char  E9LK  =  (char)-1491861645;
  long long uK2K29Q = -46551709;
  float h8JthZYv = 241740297;
     long    F4P97w8J    =    0;
@@ -37,7 +37,7 @@ int main(int argc, char** argv) {
     int    VHi_6e24    =    -935547493;
   int  CW7X  =  1087088518;
  long long IfC8d18A2 = 747909087;
- unsigned short ye345 = 1103059421;
+ unsigned short ye345 = (unsigned short)1103059421;
   long  Fpm8Vac0L  =  -1370393224;
 	char	r_2MiKfKN_	=	1647113749;
   int  A43_  =  -62582406;

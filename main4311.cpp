@@ -31,7 +31,7 @@ int main(int argc, char** argv)
     unsigned char    Kbr37uG_x;
     Kbr37uG_x    =    0;
  short int vv9P6b;
- vv9P6b = -1788990031;
+ vv9P6b = (short)-1788990031;
 	unsigned int	aALtj;
 	aALtj	=	379245224;
 
@@ -49,7 +49,7 @@ n3T5AN = (short int)(tccSU * n3T5AN);
 
 if (((Kbr37uG_x < 602903607) || (Yf134K6Tu4 <= -345782075)) && (DIw5Up18Q == OsSfg))
 {
-vv9P6b = dFc_An7(-1750500786, vv9P6b, Yf134K6Tu4, -266786052, (unsigned char)1473921063);
+vv9P6b = dFc_An7((short)-1750500786, vv9P6b, Yf134K6Tu4, -266786052, (unsigned char)1473921063);
 }
 
 std::cout << aALtj << "Ty0Dx0" << qFd5x5y() << Wwhr << std::endl;
@@ -80,7 +80,7 @@ long qFd5x5y()
 
 unsigned short  eTPvLCj(long  D0_FNEq0Z,unsigned char  qXaN,unsigned long  HaoC,unsigned short int  c9tVc9NJ)
 {
-  return  -228758597;
+  return  (unsigned short)-228758597;
 }
 
 char  dFc_An7(short int  TCC7R2TKz,unsigned long  D0GxQeT,int  QKGoSHil4p,unsigned int  gNEBjpL_5i,unsigned char  h314E8__5)

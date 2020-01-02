@@ -9,7 +9,7 @@
 
 char nQ1wK0()
 {
- return -1228577474;
+ return (char)-1228577474;
 }
 
 unsigned int    SBZ24vNW2(short int    YVohy7_6D7,unsigned int    JKMw,int    Ip74LY1P,char    Zetnr)
@@ -19,7 +19,7 @@ unsigned int    SBZ24vNW2(short int    YVohy7_6D7,unsigned int    JKMw,int    Ip
 
 char    shhUiX(short    QKNfH,int    v3N8,long long    h52Y4vm,unsigned char    P_FD7lh0,unsigned long long    v_S68X3Vq)
 {
-    return    -106989887;
+    return    (char)-106989887;
 }
 
 long	QwM8N2(unsigned long long	XyB0tKB_,unsigned int	BkUr9av)	{
@@ -158,7 +158,7 @@ catch (int& errorCode)
 v0Ma = nQ1wK0();
 }
 }
-hX9zz8qZ0K = shhUiX(110480370, ZbY2jZLg, j_528, yo5nRod3r, T2P3Eb1);
+hX9zz8qZ0K = shhUiX((short)110480370, ZbY2jZLg, j_528, yo5nRod3r, T2P3Eb1);
 
 std::cout << KEYg1k << fUD4j6 << shhUiX(hX9zz8qZ0K, ZbY2jZLg, 954642160, (unsigned char)1883978339, 829200943) << "pTkTIg6" << "Ogsgie" << std::endl;
 
@@ -171,7 +171,7 @@ if ((fUD4j6 > -1488978993) && (j_528 <= -662377393))
 {
 for (int k = 7; k >= 0; --k)
 {
-W1X9y = shhUiX(-318752197, -1089947288, 334462421, (unsigned char)-1360925341, hQf2E);
+W1X9y = shhUiX((short)-318752197, -1089947288, 334462421, (unsigned char)-1360925341, hQf2E);
 }
 }
 i++;
@@ -184,7 +184,7 @@ std::cout << JiQm1A7lj / SBZ24vNW2(T2P3Eb1, rH4s, qnNrh5VDH, nFDY) << std::endl;
 
 IGSEg3kl = SBZ24vNW2(jVPS5, 240800112, T2P3Eb1, IGSEg3kl);
 
-std::cout << "TEHg" << shhUiX(jVPS5, DU59J, -1113394242, -121019912, qnNrh5VDH) << std::endl;
+std::cout << "TEHg" << shhUiX(jVPS5, DU59J, -1113394242, (unsigned char)-121019912, qnNrh5VDH) << std::endl;
 
 ZbY2jZLg = QwM8N2(ZbY2jZLg, tEdB);
 IGSEg3kl = (int)abs(Vg_6);

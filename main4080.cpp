@@ -15,7 +15,7 @@ unsigned char QjXF5Iw8uK()
 
 char    L_877(unsigned int    yKp2P57Xyq)
 {
-    return    2008468416;
+    return    (char)2008468416;
 }
 
 int main(void)
@@ -25,7 +25,7 @@ int main(void)
  float yOs86CK5 = -1665938401;
   char  ukGkt_H7  =  (char)-732262372;
     double    K69lZfY    =    509745043;
-    unsigned short int    AgSV    =    894671769;
+    unsigned short int    AgSV    =    (unsigned short)894671769;
   float  fI_0  =  769677662;
     long    W_E_8D1kLl    =    0;
  long long ekOHcD = 0;

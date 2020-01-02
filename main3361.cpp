@@ -40,7 +40,7 @@ int main(int argc, char** argv)
   long double  QT5my2;
   QT5my2  =  946287940;
   unsigned short int  HyCV;
-  HyCV  =  -729394239;
+  HyCV  =  (unsigned short)-729394239;
  long long d452CjJ;
  d452CjJ = -1067026629;
 	long	pw5ws8;
@@ -50,7 +50,7 @@ int main(int argc, char** argv)
   short  E_X6;
   E_X6  =  (short)-1260538447;
     char    P82N71;
-    P82N71    =    195726386;
+    P82N71    =    (char)195726386;
 	unsigned short	HnHWB;
 	HnHWB	=	-388583251;
     unsigned short int    y7XvDHa;
@@ -62,7 +62,7 @@ int main(int argc, char** argv)
   long  t1kHaroF_;
   t1kHaroF_  =  950480529;
     short int    NsSa5dJ5kj;
-    NsSa5dJ5kj    =    2130914569;
+    NsSa5dJ5kj    =    (short)2130914569;
 	int	k9WR;
 	k9WR	=	1828388157;
   unsigned char  NGU814P5t3;
@@ -72,7 +72,7 @@ int main(int argc, char** argv)
  unsigned char M2lM21;
  M2lM21 = 1384852539;
   unsigned char  GiZyR7_7l;
-  GiZyR7_7l  =  2055175701;
+  GiZyR7_7l  =  (unsigned char)2055175701;
     unsigned long    Sie5bBrO;
     Sie5bBrO    =    -113069065;
  short int kNA0maW9g_;
@@ -86,7 +86,7 @@ int main(int argc, char** argv)
  unsigned long long HUz6xY27f;
  HUz6xY27f = -792683221;
 	unsigned short	hQo3754_;
-	hQo3754_	=	306521971;
+	hQo3754_	=	(unsigned short)306521971;
  unsigned short G9W9rHC;
  G9W9rHC = (unsigned short)-613934057;
  long long xC476I1;
@@ -182,7 +182,7 @@ for (int i = 4; i >= 0; i--)
 {
 std::cout << "GF2imSCKn" << b97n8g3 << z1JBl << b97n8g3 << "k9D4rI77R" << std::endl;
 }
-kNA0maW9g_ = (k9WR) ? 188948182 : P82N71;
+kNA0maW9g_ = (k9WR) ? (short)188948182 : P82N71;
 std::cout << KBvP8U8f_ << EANUQ8J0X << "XUHm" << G9W9rHC << std::endl;
 
 {
@@ -219,7 +219,7 @@ Q9vEmtb = (int)ceil(b97n8g3);
 HnHWB--;
 
 std::cout << "O5meO" << std::endl;
-HyCV = (HyCV == Fb52h) ? kNA0maW9g_ : -70236783;
+HyCV = (HyCV == Fb52h) ? kNA0maW9g_ : (unsigned short)-70236783;
 return 0;
 }
 

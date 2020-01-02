@@ -16,7 +16,7 @@ unsigned short int lNwZ();
 
 int main()
 {
-  short  PnbC2kU8m  =  -814640196;
+  short  PnbC2kU8m  =  (short)-814640196;
   float  yo7n051YQC  =  -490998155;
     short int    Y_2i7U40o    =    (short)-2030747167;
 	int	rw89toex	=	-1103593892;
@@ -26,7 +26,7 @@ int main()
 	unsigned short int	n6jCU	=	673501684;
     long long    px_6J0X    =    -675686800;
 	float	KX07a72n_	=	-1125402812;
-  unsigned char  QO2y84  =  -505028262;
+  unsigned char  QO2y84  =  (unsigned char)-505028262;
 	char	R2981s	=	0;
     unsigned short int    E_ds    =    (unsigned short)1926849002;
     long double    v44ab13Op    =    20222685;
@@ -36,7 +36,7 @@ int main()
 	long long	iWX_nZ6C5	=	-385262297;
   unsigned char  YtPDE  =  -1769083877;
 	long double	PE_5	=	1851627702;
- char EsZKeh = -1373130190;
+ char EsZKeh = (char)-1373130190;
   long  K45fH  =  540542046;
  unsigned long long u7ppN_ = -126510562;
  double S4UdKozP_ = -1918968542;
@@ -46,7 +46,7 @@ int main()
 	unsigned int	i_5S_gl5	=	-994263325;
   long double  Zt6O9N95  =  -967624681;
 	int	rvIrI34e	=	1074343579;
-    short int    nVs8    =    -1200097905;
+    short int    nVs8    =    (short)-1200097905;
   unsigned char  cA2T3d  =  -1138275265;
   unsigned int  IY99550A3  =  -70360666;
 	unsigned short int	q3ZTZG	=	-178655578;
@@ -56,7 +56,7 @@ int main()
  unsigned long D_a1l2_ = -573206874;
   short  eYRZLD7  =  (short)11146043;
   unsigned char  u8KVpe_L8  =  1880240789;
-  unsigned short int  v07q4N  =  -35571101;
+  unsigned short int  v07q4N  =  (unsigned short)-35571101;
 	unsigned char	wJt2	=	0;
   char  mD_noon  =  -602632752;
     long double    cgOGgSYTe    =    930605456;
@@ -220,7 +220,7 @@ case 5:
 FvJu25SG4 = lNwZ();
 break;
 case 6:
-n6jCU = (cA2T3d == pJ6ufoQE) ? I3f2s5 : -573566220;
+n6jCU = (cA2T3d == pJ6ufoQE) ? I3f2s5 : (unsigned short)-573566220;
 break;
 case 7:
 eYRZLD7 <<= 123190564;

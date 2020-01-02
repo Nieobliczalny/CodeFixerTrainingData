@@ -334,7 +334,7 @@ return 0;
 
 unsigned short	H44U27()
 {
-	return	100594340;
+	return	(unsigned short)100594340;
 }
 
 int    ONQr(unsigned long    qpzhlb_x81,long long    sg7GKjQ4u_)

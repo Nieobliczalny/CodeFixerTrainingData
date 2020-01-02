@@ -14,7 +14,7 @@ short int ciS6AN(short int ZBG5w,short int P8zuwJJ_D,short int JFrP);
 
 int main(void) {
   short int  g6rL0Jnz,  D9Dd7,  y1rLM9Y83y,  utz38,  P4oj,  C5A_9,  O_M10r_mz7,  FI7d,  Kwe8L9y;
-  g6rL0Jnz  =  852560426;
+  g6rL0Jnz  =  (short)852560426;
   D9Dd7  =  (short)-496792145;
   y1rLM9Y83y  =  157621277;
   utz38  =  -333238712;
@@ -30,7 +30,7 @@ int main(void) {
 
 if ((FI7d <= D9Dd7) && (g6rL0Jnz < X8gJ_8e_kW))
 {
-std::cout << ciS6AN(1630443631, D9Dd7, (short)2107290923) << FI7d << std::endl;
+std::cout << ciS6AN((short)1630443631, D9Dd7, (short)2107290923) << FI7d << std::endl;
 }
 else if (Kwe8L9y > 1690107161)
 {
@@ -112,7 +112,7 @@ case 'b':
 D9Dd7 = Y4WlhXfGJ(1388332699, O_M10r_mz7, RbN2543);
 break;
 case 'c':
-P4oj = Y4WlhXfGJ(1993516482, 594627652, FI7d);
+P4oj = Y4WlhXfGJ(1993516482, (unsigned short)594627652, FI7d);
 break;
 case 'd':
 g6rL0Jnz *= 1279772938;
@@ -124,7 +124,7 @@ case 'f':
 Kwe8L9y >>= 1867747934;
 break;
 case 'g':
-Py_QmS4 = ciS6AN(C5A_9, -1223803681, (short)-1717317317);
+Py_QmS4 = ciS6AN(C5A_9, (short)-1223803681, (short)-1717317317);
 break;
 case 'h':
 P4oj = Y4WlhXfGJ(P4oj, RbN2543, 1643797690);
@@ -154,7 +154,7 @@ Kwe8L9y = Y4WlhXfGJ(1897687969, g6rL0Jnz, 631041866);
 }
 else
 {
-std::cout << ciS6AN(Kwe8L9y, -2018558085, (short)1616097032) << Kwe8L9y << Y4WlhXfGJ(-994275355, g6rL0Jnz, utz38) << std::endl;
+std::cout << ciS6AN(Kwe8L9y, (short)-2018558085, (short)1616097032) << Kwe8L9y << Y4WlhXfGJ(-994275355, g6rL0Jnz, utz38) << std::endl;
 }
 
 for (int i = 1; i >= 0; i--)
@@ -247,7 +247,7 @@ RbN2543 = (int)abs(C5A_9) * 0;
 }
 else
 {
-Kwe8L9y = Y4WlhXfGJ(RbN2543, -286698666, D9Dd7);
+Kwe8L9y = Y4WlhXfGJ(RbN2543, (unsigned short)-286698666, D9Dd7);
 }
 }
 while (j >= 0);
@@ -265,7 +265,7 @@ FI7d ^= y1rLM9Y83y;
 }
 else
 {
-RbN2543 = ciS6AN(149732098, (short)-342424133, g6rL0Jnz);
+RbN2543 = ciS6AN((short)149732098, (short)-342424133, g6rL0Jnz);
 }
 j--;
 }
@@ -303,7 +303,7 @@ RbN2543 = ciS6AN(D9Dd7, 17294673, 1620089531);
 }
 else if (Py_QmS4 < y1rLM9Y83y)
 {
-std::cout << utz38 << "KJsY85688j" << Y4WlhXfGJ(-1876562220, FI7d, O_M10r_mz7) << ciS6AN(D9Dd7, 709701555, (short)1213266214) << std::endl;
+std::cout << utz38 << "KJsY85688j" << Y4WlhXfGJ(-1876562220, FI7d, O_M10r_mz7) << ciS6AN(D9Dd7, (short)709701555, (short)1213266214) << std::endl;
 }
 else
 {
@@ -313,7 +313,7 @@ utz38 >>= y1rLM9Y83y;
 std::cout << Y4WlhXfGJ(D9Dd7, 1050436717, -1544197530) << std::endl;
 if (P4oj >= 920673847)
 {
-RbN2543 = ciS6AN(P4oj, -1141258144, utz38);
+RbN2543 = ciS6AN(P4oj, (short)-1141258144, utz38);
 }
 else
 {
@@ -324,7 +324,7 @@ do
 --j;
 if (RbN2543 & FI7d)
 {
-Kwe8L9y = ciS6AN(P4oj, -938556745, utz38) | 1759273605;
+Kwe8L9y = ciS6AN(P4oj, (short)-938556745, utz38) | 1759273605;
 }
 }
 while (j >= 0);
@@ -334,7 +334,7 @@ while (j >= 0);
 switch (RbN2543)
 {
 case 0:
-D9Dd7 = Y4WlhXfGJ(D9Dd7, -1827769374, RbN2543);
+D9Dd7 = Y4WlhXfGJ(D9Dd7, (unsigned short)-1827769374, RbN2543);
 break;
 case 1:
 Kwe8L9y = Y4WlhXfGJ(1810488003, (unsigned short)-798406447, -1214465426);
@@ -354,7 +354,7 @@ i--;
 while (i >= 0);
 }
 RbN2543 = ciS6AN(FI7d, C5A_9, D9Dd7);
-std::cout << Kwe8L9y << "AOl5V" << ciS6AN(1119924456, (short)-334078454, D9Dd7) << std::endl;
+std::cout << Kwe8L9y << "AOl5V" << ciS6AN((short)1119924456, (short)-334078454, D9Dd7) << std::endl;
 
 std::cout << "YsHtWhux" << P4oj << std::endl;
 
@@ -372,7 +372,7 @@ case 'c':
 Py_QmS4 = (int)abs(RbN2543);
 break;
 case 'd':
-Py_QmS4 = ciS6AN(-1473757452, (short)-1661142270, -773476439);
+Py_QmS4 = ciS6AN((short)-1473757452, (short)-1661142270, -773476439);
 break;
 case 'e':
 P4oj = Y4WlhXfGJ(-2117644400, D9Dd7, 786234882);
@@ -392,7 +392,7 @@ if (C5A_9 == O_M10r_mz7)
 switch (Py_QmS4)
 {
 case 0:
-X8gJ_8e_kW = ciS6AN(P4oj, -39014167, Kwe8L9y);
+X8gJ_8e_kW = ciS6AN(P4oj, (short)-39014167, Kwe8L9y);
 break;
 }
 }
@@ -403,7 +403,7 @@ for (int j = 8; j >= 0; --j)
 {
 if (RbN2543 & 285541594)
 {
-Kwe8L9y = Y4WlhXfGJ(Kwe8L9y, -1677339661, 1960243037);
+Kwe8L9y = Y4WlhXfGJ(Kwe8L9y, (unsigned short)-1677339661, 1960243037);
 }
 else if (C5A_9 <= -206709468)
 {
@@ -415,7 +415,7 @@ Kwe8L9y = Y4WlhXfGJ(Kwe8L9y, (unsigned short)-1066545497, 1143393234) & 15070142
 }
 else if (C5A_9 != RbN2543)
 {
-Py_QmS4 = ciS6AN(utz38, 516767690, 1702173157);
+Py_QmS4 = ciS6AN(utz38, (short)516767690, 1702173157);
 }
 else if (D9Dd7 < 1481088285)
 {
@@ -439,7 +439,7 @@ y1rLM9Y83y = O_M10r_mz7 - 1167272526;
 }
 else
 {
-std::cout << ciS6AN(C5A_9, utz38, 400317682) << std::endl;
+std::cout << ciS6AN(C5A_9, utz38, (short)400317682) << std::endl;
 }
 }
 O_M10r_mz7 = (short int)(Py_QmS4 + (744942835));
@@ -454,7 +454,7 @@ case 'b':
 P4oj = Y4WlhXfGJ(P4oj, X8gJ_8e_kW, O_M10r_mz7);
 break;
 default:
-utz38 = Y4WlhXfGJ(1308274880, 465143024, Kwe8L9y);
+utz38 = Y4WlhXfGJ(1308274880, (unsigned short)465143024, Kwe8L9y);
 break;
 }
 std::cout << ciS6AN(utz38, X8gJ_8e_kW, (short)467368013) << "y080OqaGF" << std::endl;
@@ -468,7 +468,7 @@ if ((Kwe8L9y & utz38) || (Kwe8L9y < O_M10r_mz7))
 int j = 0;
 do
 {
-C5A_9 = Y4WlhXfGJ(1196803949, -1804983934, D9Dd7);
+C5A_9 = Y4WlhXfGJ(1196803949, (unsigned short)-1804983934, D9Dd7);
 j++;
 }
 while (j < 1);
@@ -503,7 +503,7 @@ try
 {
 for (int k = 0; k < 10; k++)
 {
-X8gJ_8e_kW = ciS6AN(339576627, X8gJ_8e_kW, (short)-150720066);
+X8gJ_8e_kW = ciS6AN((short)339576627, X8gJ_8e_kW, (short)-150720066);
 }
 }
 catch (int& errorCode)
@@ -553,7 +553,7 @@ else
 int k = 6;
 while (k >= 0)
 {
-D9Dd7 = Y4WlhXfGJ(D9Dd7, 1579430415, O_M10r_mz7);
+D9Dd7 = Y4WlhXfGJ(D9Dd7, (unsigned short)1579430415, O_M10r_mz7);
 k--;
 }
 }
@@ -599,7 +599,7 @@ std::cout << Y4WlhXfGJ(y1rLM9Y83y, P4oj, -420020526) << y1rLM9Y83y << Py_QmS4 <<
 int i = 4;
 while (i >= 0)
 {
-std::cout << ciS6AN(y1rLM9Y83y, -1265270457, (short)-970471139) << "mCi_e" << std::endl;
+std::cout << ciS6AN(y1rLM9Y83y, (short)-1265270457, (short)-970471139) << "mCi_e" << std::endl;
 --i;
 }
 }

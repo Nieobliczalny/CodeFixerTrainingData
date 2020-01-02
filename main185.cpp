@@ -10,7 +10,7 @@
 
 
 short int NvcxY() {
- return 1567334813;
+ return (short)1567334813;
 }
 
 unsigned short okY_i75e0(long long ay1_,unsigned short int cZs2GcR163,unsigned short int p4ji,unsigned long long alxp8arD0H)
@@ -95,7 +95,7 @@ dHSyFN = NvcxY();
 break;
 case 'h':
 case 'H':
-PYlU_ = okY_i75e0(187115656, H0TLp2lWW, -1583658256, dHSyFN);
+PYlU_ = okY_i75e0(187115656, H0TLp2lWW, (unsigned short)-1583658256, dHSyFN);
 break;
 case 'i':
 case 'I':
@@ -111,7 +111,7 @@ p0GbiOeQNR = NvcxY();
 }
 }
 
-PYlU_ = okY_i75e0(qGK59G10, -1305587128, (unsigned short)2124588183, J7f3k7);
+PYlU_ = okY_i75e0(qGK59G10, (unsigned short)-1305587128, (unsigned short)2124588183, J7f3k7);
 
 mYb8d = (unsigned long)(t_An7);
 
@@ -147,7 +147,7 @@ vgIfW3Vg = (int)abs(PYlU_);
 
 std::cout << wrbgIN2 << "J9p3" << PYlU_ << "ohgl4Zv20W" << "lYI13r" << std::endl;
 
-PYlU_ = okY_i75e0(NoQ0Gzq, 1054153367, p0GbiOeQNR, dHSyFN);
+PYlU_ = okY_i75e0(NoQ0Gzq, (unsigned short)1054153367, p0GbiOeQNR, dHSyFN);
 {
 int i = 0;
 while (i < 8)
@@ -203,7 +203,7 @@ switch (J7f3k7)
 {
 case 'a':
 case 'A':
-PYlU_ = okY_i75e0(H0TLp2lWW, vsM7u1, 1757473823, r7d1);
+PYlU_ = okY_i75e0(H0TLp2lWW, vsM7u1, (unsigned short)1757473823, r7d1);
 break;
 }
 PYlU_ = (int)abs(vgIfW3Vg);
@@ -240,7 +240,7 @@ if (r7d1 >= -1378528423)
 {
 try
 {
-qGK59G10 = EK4k(727853067, 1510710315);
+qGK59G10 = EK4k(727853067, (char)1510710315);
 }
 catch (int& errorCode)
 {
@@ -284,7 +284,7 @@ while (i >= 0);
 switch (p0GbiOeQNR)
 {
 case 0:
-PYlU_ = okY_i75e0(H0TLp2lWW, -1382884309, (unsigned short)550254517, -1529195697);
+PYlU_ = okY_i75e0(H0TLp2lWW, (unsigned short)-1382884309, (unsigned short)550254517, -1529195697);
 break;
 case 1:
 vgIfW3Vg = (int)abs(PYlU_);
@@ -296,7 +296,7 @@ case 3:
 wrbgIN2 = Fjqz();
 break;
 default:
-Fi96413TE = EK4k(418887220, -34483154);
+Fi96413TE = EK4k(418887220, (char)-34483154);
 break;
 }
 

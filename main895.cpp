@@ -16,7 +16,7 @@ int main(int argc, char** argv) {
     unsigned short int    M59ki8v;
     M59ki8v    =    0;
  unsigned char JIF3SEK3YU;
- JIF3SEK3YU = 328685331;
+ JIF3SEK3YU = (unsigned char)328685331;
  unsigned long q9sJL;
  q9sJL = 596395135;
   unsigned short int  s4sFuo4Kl_;
@@ -28,7 +28,7 @@ int main(int argc, char** argv) {
  unsigned int i992_egm0M;
  i992_egm0M = -1665358226;
   unsigned char  Ctd9;
-  Ctd9  =  1556196889;
+  Ctd9  =  (unsigned char)1556196889;
   short  cpzDtL5f;
   cpzDtL5f  =  (short)-1941636576;
 	float	D17f;
@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
  long long MQ_EZYlQB;
  MQ_EZYlQB = -1715111332;
 	unsigned char	B34w0A;
-	B34w0A	=	-1359055767;
+	B34w0A	=	(unsigned char)-1359055767;
   short int  Y0fF;
   Y0fF  =  (short)794926030;
  unsigned int XCSkbZp;
@@ -52,7 +52,7 @@ int main(int argc, char** argv) {
   unsigned int  K9Zh8_C;
   K9Zh8_C  =  -1164639995;
   unsigned short int  zJZ8;
-  zJZ8  =  850495825;
+  zJZ8  =  (unsigned short)850495825;
   float  sedK;
   sedK  =  -1120352323;
     unsigned long    F41p3k8;
@@ -68,7 +68,7 @@ int main(int argc, char** argv) {
   unsigned long  OE4DJ;
   OE4DJ  =  1232379075;
 	short int	QkqhY;
-	QkqhY	=	-1716433872;
+	QkqhY	=	(short)-1716433872;
     unsigned int    Obe3mqK;
     Obe3mqK    =    1256319794;
  unsigned long long p54KGwy;
@@ -227,7 +227,7 @@ switch (Obe3mqK)
 {
 case 'a':
 case 'A':
-J8e3IM = h4Mm(Szc13, -894942452, Ctd9, (char)818325412, c12z2K);
+J8e3IM = h4Mm(Szc13, (unsigned char)-894942452, Ctd9, (char)818325412, c12z2K);
 break;
 case 'b':
 case 'B':
@@ -307,7 +307,7 @@ if (Y0fF == -1372515814)
 {
 if ((zsCFfJTy2 == iTkq67) && ((B34w0A > -1763377634) && (zsCFfJTy2)))
 {
-ghx9a = h4Mm(1695077873, sedK, -852519844, -1122814352, D2_yL);
+ghx9a = h4Mm(1695077873, sedK, -852519844, (char)-1122814352, D2_yL);
 }
 else if (D2_yL > -172205629)
 {
@@ -376,7 +376,7 @@ else if (Y0fF <= 728794949)
 int k = 0;
 while (k < 5)
 {
-J8e3IM = h4Mm(433101819, -1527073829, 125712569, J8e3IM, M59ki8v);
+J8e3IM = h4Mm(433101819, (unsigned char)-1527073829, 125712569, J8e3IM, M59ki8v);
 k++;
 }
 }

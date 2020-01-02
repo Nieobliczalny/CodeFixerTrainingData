@@ -13,7 +13,7 @@ using std::ceil;
 using std::floor;
 
 char	xRhLvx7OW(short	gTk4v8hJ1W,unsigned long long	wR2f,long long	C_xsCR,unsigned short	oVCc1)	{
-	return	1890800608;
+	return	(char)1890800608;
 }
 
 unsigned long long  L4xcv(int  Muh7m7,int  lEDSOObl,unsigned long long  XRvQJobAl8,unsigned int  c2tFe8R9R7)

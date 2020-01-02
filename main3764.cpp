@@ -17,7 +17,7 @@ int main()
   xbFSXWV  =  0;
   ozY57  =  0;
  unsigned char MQ1evzlz6, OAI5ZD13q6, Pjdv0EY61n, ZF1eV4k, xfuZ57vBK, Rpr600C0Y, FUgiCVI, b7iLa0dj, guT10;
- MQ1evzlz6 = -1214609595;
+ MQ1evzlz6 = (unsigned char)-1214609595;
  OAI5ZD13q6 = (unsigned char)1565813487;
  Pjdv0EY61n = 1202311769;
  ZF1eV4k = 21420501;
@@ -639,7 +639,7 @@ case 9:
 b7iLa0dj = E61_VdT ^ OAI5ZD13q6;
 break;
 default:
-MQ1evzlz6 = (xfuZ57vBK == FUgiCVI) ? ZF1eV4k : 375321847;
+MQ1evzlz6 = (xfuZ57vBK == FUgiCVI) ? ZF1eV4k : (unsigned char)375321847;
 break;
 }
 
@@ -649,7 +649,7 @@ if (((OAI5ZD13q6 == ozY57) || (MQ1evzlz6 <= 865837586)) && (MQ1evzlz6 == AklLM5y
 {
 if (ozY57 >= -128546824)
 {
-Pjdv0EY61n = (b7iLa0dj == ozY57) ? FUgiCVI : 388875166;
+Pjdv0EY61n = (b7iLa0dj == ozY57) ? FUgiCVI : (unsigned char)388875166;
 }
 else if (Rpr600C0Y <= E61_VdT)
 {

@@ -22,7 +22,7 @@ unsigned int	vB6DiO9j(unsigned int	p55wlOYB,unsigned long long	q8MPL,unsigned lo
 
 char  HbgDbkc8Nc(long  uD_FBNT,unsigned char  gU8EIYJ7WL,short  Cr23Z)
 {
-  return  -1257226108;
+  return  (char)-1257226108;
 }
 
 long  vCMA(int  w23iGWro7)  {
@@ -87,7 +87,7 @@ TV_tfLZT90 = (int)abs(wMq4);
 break;
 case 'b':
 case 'B':
-TV_tfLZT90 = HbgDbkc8Nc(851974603, 503767042, (short)889449286);
+TV_tfLZT90 = HbgDbkc8Nc(851974603, (unsigned char)503767042, (short)889449286);
 break;
 case 'c':
 case 'C':
@@ -131,7 +131,7 @@ if (((wMq4 < 1435131872) || (OMUL < pjE77wPM1A)) && ((n5fA787 <= TV_tfLZT90) || 
 {
 try
 {
-tCjVdMIOg = HbgDbkc8Nc(A__8WHfYk, tCjVdMIOg, 673051818);
+tCjVdMIOg = HbgDbkc8Nc(A__8WHfYk, tCjVdMIOg, (short)673051818);
 }
 catch (int& errorCode)
 {

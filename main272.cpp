@@ -10,7 +10,7 @@
 int main(void)
 {
 	long	i_3PILh	=	241197456;
-	short	k3sxMDf	=	1096046902;
+	short	k3sxMDf	=	(short)1096046902;
   long  l2qDVw  =  311831845;
   unsigned long  k6OR9  =  1367514092;
     short int    jnKBv    =    0;

@@ -108,7 +108,7 @@ if (nXEp != -799107565)
 {
 if (p9q3)
 {
-nXEp = nDuM(-213725744, qA4W9m0M, 874204210);
+nXEp = nDuM(-213725744, qA4W9m0M, (unsigned short)874204210);
 }
 else
 {
@@ -160,6 +160,6 @@ long long	n_X7sOz(int	nRPI_5x)
 
 unsigned short int  nDuM(long long  rHXuF,unsigned int  ieJc5Peb,unsigned short  Y0XZK)
 {
-  return  229492344;
+  return  (unsigned short)229492344;
 }
 

@@ -18,7 +18,7 @@ long  IlXhsgMA(unsigned short  pJM7Q_87e,unsigned long  w7hfX_Aws,unsigned short
 
 unsigned short    Kw7mR4Z1(unsigned char    zLs58ki)
 {
-    return    548490519;
+    return    (unsigned short)548490519;
 }
 
 short X1s0xGL7e(long uB5cs_,int xp8f5) {
@@ -39,7 +39,7 @@ int main(int argc, char** argv)
 	unsigned int	LQQDPkldg_;
 	LQQDPkldg_	=	1826155303;
 	unsigned short int	hhhazi;
-	hhhazi	=	1207712233;
+	hhhazi	=	(unsigned short)1207712233;
     double    FP50z0;
     FP50z0    =    -1977530605;
  int P1B8I2v8;
@@ -51,7 +51,7 @@ int main(int argc, char** argv)
     unsigned long    U1E94aChm_;
     U1E94aChm_    =    0;
   unsigned short  QRLh__tM;
-  QRLh__tM  =  114836756;
+  QRLh__tM  =  (unsigned short)114836756;
     long double    iI4osti;
     iI4osti    =    -800598658;
     short int    iVwdSuaG;
@@ -61,7 +61,7 @@ int main(int argc, char** argv)
 
 if (hhhazi < ZTJi95UWXH)
 {
-std::cout << U1E94aChm_ << Kw7mR4Z1(-742541572) << "Y2Yn7I3" << std::endl;
+std::cout << U1E94aChm_ << Kw7mR4Z1((unsigned char)-742541572) << "Y2Yn7I3" << std::endl;
 }
 else if ((QRLh__tM != Ath1X4s) && (HX1d16_S5a > J8W7GN8))
 {
@@ -107,7 +107,7 @@ iI4osti = (int)ceil(FP50z0);
 }
 else
 {
-iVwdSuaG = IlXhsgMA(iVwdSuaG, -1246217998, -1366529246, QRLh__tM);
+iVwdSuaG = IlXhsgMA(iVwdSuaG, -1246217998, (unsigned short)-1366529246, QRLh__tM);
 }
 
 if (iVwdSuaG <= 1325638995)
@@ -193,7 +193,7 @@ iI4osti = (int)ceil(FP50z0);
 ++i;
 }
 }
-std::cout << QRLh__tM << "GHfP_lUPp" << "d5LmN" << "sul01F" << Kw7mR4Z1(679895518) << std::endl;
+std::cout << QRLh__tM << "GHfP_lUPp" << "d5LmN" << "sul01F" << Kw7mR4Z1((unsigned char)679895518) << std::endl;
 iVwdSuaG = (short int)(ff9l + (bK7MhwV5Un));
 std::cout << iI4osti << hhhazi << HX1d16_S5a << U1E94aChm_ << std::endl;
 P1B8I2v8 = -1818596305 / HX1d16_S5a;

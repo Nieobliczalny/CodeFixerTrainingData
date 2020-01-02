@@ -13,7 +13,7 @@ using std::ceil;
 using std::floor;
 
 char  R4R840r8(unsigned int  V__25A,unsigned short int  LwqSTOr5HE)  {
-  return  -1913341101;
+  return  (char)-1913341101;
 }
 
 unsigned char    F7vL(unsigned long    AsB111_,unsigned short    HXhpe05Pq)    {
@@ -36,7 +36,7 @@ int main(void)
     v48E9iL    =    0;
     w0t7    =    0;
     short    xVNst_,    GHiB,    j8lWn_,    j6gJ1,    Vp0y,    M61389P,    e0Kb1,    E489w,    h1x20QBh8,    Y5tmf,    lxxIz8h3L,    ZC1kTYg,    G0ueGCB8,    UA6gDKcCBa,    wBW_y3_,    q3ALOIkw,    F_1jm2;
-    xVNst_    =    192520092;
+    xVNst_    =    (short)192520092;
     GHiB    =    (short)656956896;
     j8lWn_    =    1076729949;
     j6gJ1    =    1899512664;
@@ -46,7 +46,7 @@ int main(void)
     E489w    =    -458422401;
     h1x20QBh8    =    -1249046073;
     Y5tmf    =    -621345037;
-    lxxIz8h3L    =    -1957160455;
+    lxxIz8h3L    =    (short)-1957160455;
     ZC1kTYg    =    (short)462707228;
     G0ueGCB8    =    -1858177827;
     UA6gDKcCBa    =    -278602739;
@@ -71,7 +71,7 @@ if (E489w > GHiB)
 {
 if (xVNst_ >= e0Kb1)
 {
-G0ueGCB8 = H6S1T7_Zae(1500121187, (short)-1154670832);
+G0ueGCB8 = H6S1T7_Zae((unsigned short)1500121187, (short)-1154670832);
 }
 }
 }
@@ -138,7 +138,7 @@ case 0:
 q3ALOIkw <<= Vp0y;
 break;
 case 1:
-G0ueGCB8 = H6S1T7_Zae(1951994746, (short)2067500236);
+G0ueGCB8 = H6S1T7_Zae((unsigned short)1951994746, (short)2067500236);
 break;
 }
 

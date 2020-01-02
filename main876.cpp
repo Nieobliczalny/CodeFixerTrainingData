@@ -14,7 +14,7 @@ using std::floor;
 
 int main(void) {
 	long long	gV0K38q1_O	=	349608943;
-  short  yauiPLf  =  -1563368198;
+  short  yauiPLf  =  (short)-1563368198;
 	unsigned char	YRIU4	=	0;
  unsigned short int m7j0lJd = (unsigned short)-1993621715;
     char    D2mJo    =    -470155514;
@@ -329,7 +329,7 @@ std::cout << yauiPLf << yauiPLf << xBcwrb << m7j0lJd << std::endl;
 }
 else if (D2mJo != -109876532)
 {
-m7j0lJd = (YRIU4 <= yauiPLf) ? -1675368313 : (unsigned short)2004477758;
+m7j0lJd = (YRIU4 <= yauiPLf) ? (unsigned short)-1675368313 : (unsigned short)2004477758;
 }
 else if (yauiPLf < -189239243)
 {

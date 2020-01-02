@@ -38,7 +38,7 @@ Df4llpyh = (int)abs(lEWZUTU_) * 0;
 }
 }
 std::cout << "h7YSe2d" << std::endl;
-vViPbX_17 = zX8YI(580830710) / JZn7412E;
+vViPbX_17 = zX8YI((char)580830710) / JZn7412E;
 
 for (int i = 0; i < 1; ++i)
 {
@@ -54,7 +54,7 @@ Jop5_R = (int)abs(jZJm6_t);
 }
 }
 }
-Df4llpyh = o1S0QUATv8(1680738224, 1347298757, -1965421701, Wn12_1);
+Df4llpyh = o1S0QUATv8(1680738224, 1347298757, (unsigned short)-1965421701, Wn12_1);
 
 for (int i = 7; i >= 0; i--)
 {
@@ -68,7 +68,7 @@ vViPbX_17 = (H5ru8fI4 & -61094352) ? o1S0QUATv8(RIFb9Y_, -916800857, iy6PNN, -53
 std::cout << rfC8_QCwQ7 << D4Y4MfmU5k << S6Z6 << std::endl;
 std::cout << o1S0QUATv8(RIFb9Y_, Or0itTt, iy6PNN, 1947798648) << "yMr_Z" << o1S0QUATv8(RIFb9Y_, 374605571, iy6PNN, JNa9UUrU) << "gJ_9SmY" << std::endl;
 
-std::cout << IYn0K_ << zX8YI(RIFb9Y_) << zX8YI(1903464155) << zX8YI(RIFb9Y_) << std::endl;
+std::cout << IYn0K_ << zX8YI(RIFb9Y_) << zX8YI((char)1903464155) << zX8YI(RIFb9Y_) << std::endl;
 std::cout << J7lj << y6s_lM5 << "Ki78XTv8x" << o1S0QUATv8(RIFb9Y_, Or0itTt, iy6PNN, JNa9UUrU) << zX8YI((char)1702962501) << std::endl;
 
 switch (J7lj)
@@ -79,7 +79,7 @@ S6Z6 = o1S0QUATv8(-1147685333, Or0itTt, iy6PNN, JNa9UUrU) & J7lj;
 break;
 case 'b':
 case 'B':
-Df4llpyh = o1S0QUATv8(vViPbX_17, Ki1G0LlPc, 1528565049, JNa9UUrU);
+Df4llpyh = o1S0QUATv8(vViPbX_17, Ki1G0LlPc, (unsigned short)1528565049, JNa9UUrU);
 break;
 case 'c':
 case 'C':
@@ -91,7 +91,7 @@ Df4llpyh = o1S0QUATv8(782628167, l6m3u, Wn12_1, -2009054);
 break;
 case 'e':
 case 'E':
-RIFb9Y_ = zX8YI(-953924916) ^ 2122861587;
+RIFb9Y_ = zX8YI((char)-953924916) ^ 2122861587;
 break;
 default:
 RKwq = (int)abs(x3kwEm);
@@ -103,7 +103,7 @@ int i = 9;
 while (i >= 0)
 {
 i--;
-cLZoCkkEGU = o1S0QUATv8(iy6PNN, 885511788, 2028745352, fbqqjb);
+cLZoCkkEGU = o1S0QUATv8(iy6PNN, 885511788, (unsigned short)2028745352, fbqqjb);
 }
 }
 if (o4024kz)
@@ -135,7 +135,7 @@ case 0:
 Jop5_R &= S6Z6;
 break;
 case 1:
-cLZoCkkEGU = o1S0QUATv8(2117183391, 1826934614, 1299237224, J7lj);
+cLZoCkkEGU = o1S0QUATv8(2117183391, 1826934614, (unsigned short)1299237224, J7lj);
 break;
 case 2:
 G3jnkN5iB /= 2035275543;
@@ -175,7 +175,7 @@ while (j < 3)
 ++j;
 if ((d0953Q2 == 564572454) || ((iy6PNN == 1026107071) || (J7lj > 1239754932)))
 {
-s85gAyT34l = zX8YI(-2123440364);
+s85gAyT34l = zX8YI((char)-2123440364);
 }
 else
 {

@@ -17,7 +17,7 @@ long    zay3_(unsigned char    P7U991,short    m_a93x,unsigned short    aZ69XDmm
 int main()
 {
     int    rfp3    =    609794229;
-	short int	oNAv8__C	=	1346997965;
+	short int	oNAv8__C	=	(short)1346997965;
     unsigned long    QtQohf    =    0;
     char    WU7tMcIUJ4    =    (char)35093613;
  double Zb_j7C = -431177712;
@@ -32,7 +32,7 @@ int main()
 switch (oNAv8__C)
 {
 case 0:
-r7Zh = zay3_(1521180169, WU7tMcIUJ4, Zb_j7C, (char)71746624, f_00el8_);
+r7Zh = zay3_((unsigned char)1521180169, WU7tMcIUJ4, Zb_j7C, (char)71746624, f_00el8_);
 break;
 case 1:
 oNAv8__C = (int)abs(r7Zh) + (1792943343);
@@ -73,7 +73,7 @@ Zb_j7C = (int)floor(KD_IC92jv);
 }
 else if (Xri058 > 1125289599)
 {
-f_00el8_ = kjb4nb(1022102097, (unsigned short)326980145, Xri058, PM0d89w3Zt, -442719721);
+f_00el8_ = kjb4nb((unsigned char)1022102097, (unsigned short)326980145, Xri058, PM0d89w3Zt, -442719721);
 }
 else
 {
@@ -86,7 +86,7 @@ return 0;
 
 short  kjb4nb(unsigned char  NQB6,unsigned short  ogGl9ow4q,short  ypxo8,int  UFM348Cx1,unsigned long long  UM6Xn4GTU_)
 {
-  return  -98007875;
+  return  (short)-98007875;
 }
 
 long    zay3_(unsigned char    P7U991,short    m_a93x,unsigned short    aZ69XDmmw,char    MYe_tNJE0_,char    vLwo7M)    {

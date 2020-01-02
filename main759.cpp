@@ -27,7 +27,7 @@ case 0:
 r04W29 = c8nfSh2DP | zI4eK;
 break;
 case 1:
-jq3ff79 = F2PRtyI80L(-526492556, c8nfSh2DP, -1020518083, 2144489518);
+jq3ff79 = F2PRtyI80L(-526492556, c8nfSh2DP, -1020518083, (unsigned short)2144489518);
 break;
 case 2:
 H01X8bA *= P_6Ve;
@@ -91,7 +91,7 @@ char	qrQqSS7x5(int	dlss)
 
 short z5_77Pz64(long long p_5SH7)
 {
- return -1647692089;
+ return (short)-1647692089;
 }
 
 unsigned short	F2PRtyI80L(unsigned long	XWJN8aSQ,unsigned short int	tFF__5,int	AHp95X85_T,unsigned short	osit)	{

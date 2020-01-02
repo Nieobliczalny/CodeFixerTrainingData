@@ -12,7 +12,7 @@ using namespace std;
 int main()
 {
  char jjv9fsf;
- jjv9fsf = -2102763409;
+ jjv9fsf = (char)-2102763409;
  char JCiBop;
  JCiBop = (char)-1400345690;
   unsigned long  S2Bz;
@@ -24,7 +24,7 @@ int main()
  unsigned int nI5bUZ;
  nI5bUZ = -518112953;
  short int q995P6wh4;
- q995P6wh4 = -65030945;
+ q995P6wh4 = (short)-65030945;
   float  eKAauJ68U;
   eKAauJ68U  =  -456491882;
     long double    dceNlq6;
@@ -36,7 +36,7 @@ int main()
 	unsigned long long	roFl0QMW7;
 	roFl0QMW7	=	0;
 	unsigned short int	He85w;
-	He85w	=	-1292671278;
+	He85w	=	(unsigned short)-1292671278;
   float  Zr60vHC;
   Zr60vHC  =  489902879;
  short int vtFw_jY26;
@@ -48,7 +48,7 @@ int main()
  float y9BfI78CT;
  y9BfI78CT = 90084603;
  unsigned short lB_R;
- lB_R = 976636676;
+ lB_R = (unsigned short)976636676;
 	double	yJp2;
 	yJp2	=	1003987424;
  unsigned long long y142I;
@@ -66,7 +66,7 @@ int main()
  long ishD507;
  ishD507 = 1685308835;
 	unsigned short int	ZOrZ7;
-	ZOrZ7	=	779252893;
+	ZOrZ7	=	(unsigned short)779252893;
     short    G0_C2l5;
     G0_C2l5    =    (short)-973205799;
 	int	keG0tE8p;
@@ -82,7 +82,7 @@ int main()
   long double  vf383_7;
   vf383_7  =  -422149383;
  short eIkh;
- eIkh = -702517261;
+ eIkh = (short)-702517261;
  short int kPOo_X;
  kPOo_X = (short)-885163080;
 	short	cPfgB353;
@@ -92,7 +92,7 @@ int main()
     short    hi9i1n;
     hi9i1n    =    1114250344;
   unsigned char  nsbT;
-  nsbT  =  -502155632;
+  nsbT  =  (unsigned char)-502155632;
     float    R_L_a6oc;
     R_L_a6oc    =    1284501908;
   char  IXngZD7sl;
@@ -106,7 +106,7 @@ int main()
     double    atZrS808rd;
     atZrS808rd    =    649042642;
 	short	Zme875Sq;
-	Zme875Sq	=	517274309;
+	Zme875Sq	=	(short)517274309;
  long double i751;
  i751 = -1976408995;
  long n553Q;
@@ -122,7 +122,7 @@ int main()
  unsigned int RN0pL;
  RN0pL = -1132111589;
   unsigned short  K714DF;
-  K714DF  =  1107555054;
+  K714DF  =  (unsigned short)1107555054;
  short int CD49;
  CD49 = (short)-1821309627;
   short int  u3v6Snj;
@@ -140,7 +140,7 @@ int main()
     int    h4G6KsK35C;
     h4G6KsK35C    =    581215703;
  unsigned char go4_Z7474;
- go4_Z7474 = -964334473;
+ go4_Z7474 = (unsigned char)-964334473;
 	long	aBF9RGs;
 	aBF9RGs	=	-207026584;
     unsigned char    lmN5;

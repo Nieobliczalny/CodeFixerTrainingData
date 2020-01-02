@@ -45,7 +45,7 @@ int i = 0;
 do
 {
 ++i;
-iYu8FT = o07DjmFM5(-1679226134, -1200449401, 2058743253, 1922392510);
+iYu8FT = o07DjmFM5((unsigned char)-1679226134, -1200449401, 2058743253, 1922392510);
 }
 while (i < 4);
 }
@@ -87,7 +87,7 @@ case 'd':
 k0NY_y_ &= v2_orh9z2;
 break;
 case 'e':
-k0NY_y_ = kYWbyVag_i(334596792, -1758514886, k0NY_y_);
+k0NY_y_ = kYWbyVag_i((short)334596792, -1758514886, k0NY_y_);
 break;
 case 'f':
 rN6D4bo90 = o07DjmFM5((unsigned char)1276576793, rN6D4bo90, -1941845539, 964764860);
@@ -167,7 +167,7 @@ break;
 }
 if (l5Lh8dM6_ != 523490822)
 {
-std::cout << l5Lh8dM6_ << "Q18G3124_y" << kYWbyVag_i(304532297, X5w03j, 512817266) << iYu8FT << std::endl;
+std::cout << l5Lh8dM6_ << "Q18G3124_y" << kYWbyVag_i((short)304532297, X5w03j, 512817266) << iYu8FT << std::endl;
 }
 return 0;
 }

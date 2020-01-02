@@ -24,7 +24,7 @@ long CiM7r(long KHliOpeQl0,short int q5Qg,unsigned long gx8CUpkf44,short int MOC
 
 int main(int argc, char** argv)
 {
-	unsigned short int	Q3hQU263s7	=	1210411494;
+	unsigned short int	Q3hQU263s7	=	(unsigned short)1210411494;
   int  UFopag  =  -688640589;
   unsigned int  m_4h67D  =  1863676758;
     unsigned short int    NR4G    =    (unsigned short)-1489631731;
@@ -36,7 +36,7 @@ int main(int argc, char** argv)
   char  jl_WmbN0j  =  1052400932;
 	int	U7_L	=	171258869;
  long Q00Woxr = 111026121;
- unsigned short b71LoKDl4g = -1930192717;
+ unsigned short b71LoKDl4g = (unsigned short)-1930192717;
   int  C_ocXx  =  342727179;
   long long  z_FV6B1ni9  =  -692309192;
  long long dEoNtF = 841155658;
@@ -49,7 +49,7 @@ int main(int argc, char** argv)
   long long  Cy16CM8  =  -403785806;
   long  wJ6OM5P  =  1004437420;
  unsigned int RRA6Jt6wih = 385578833;
- char D2E28Tx_ = 704488730;
+ char D2E28Tx_ = (char)704488730;
 	long	J0UUvc_SF	=	1114584893;
 	long	k6_fj	=	1244015205;
 	long double	ON4l7	=	-404879512;
@@ -61,7 +61,7 @@ int main(int argc, char** argv)
   unsigned int  a6Ah  =  -48683052;
  long Ohl3q504 = -1756921223;
     long long    zSHZ    =    801292712;
-    unsigned short    emjjIbb    =    -812623530;
+    unsigned short    emjjIbb    =    (unsigned short)-812623530;
   long  WsRI3YBEc  =  1239980878;
  short int m_C8qgf = -64919290;
 	short	t_cr1W29I	=	-1921629010;
@@ -73,7 +73,7 @@ int main(int argc, char** argv)
 	float	aLw1T	=	-429333782;
 	short int	Ec_q2k	=	0;
  float TPus_S6U = -436448003;
-	short int	k_WR	=	-1320135409;
+	short int	k_WR	=	(short)-1320135409;
  unsigned long long D_al = -1676143315;
   unsigned short  rY_483  =  222668175;
 	long long	r649	=	-1072517538;
@@ -111,7 +111,7 @@ xxwe6tfdcv = dkIB03Tmv(xxwe6tfdcv, m_4h67D);
 break;
 case 'e':
 case 'E':
-Ec_q2k = CiM7r(sK84Meo, 1767939520, D2E28Tx_, PHy3z);
+Ec_q2k = CiM7r(sK84Meo, (short)1767939520, D2E28Tx_, PHy3z);
 break;
 case 'f':
 case 'F':
@@ -165,7 +165,7 @@ D_al = T2L8Fy(D_al, emjjIbb, Ohl3q504, Q00Woxr, ON4l7);
 }
 else
 {
-cout << lW104ZUTJ(-1046815721, (unsigned char)922480916, Ohl3q504, Q00Woxr) << CiM7r(D_al, emjjIbb, 550394774, -752464605) << endl;
+cout << lW104ZUTJ((short)-1046815721, (unsigned char)922480916, Ohl3q504, Q00Woxr) << CiM7r(D_al, emjjIbb, 550394774, -752464605) << endl;
 }
 
 Ohl3q504 = lW104ZUTJ(-1225944764, D_al, zr7a8F, P672Q);
@@ -186,7 +186,7 @@ k--;
 }
 }
 
-w2Wh1gy = AAG7b1s(-476238357, R57B4, -845981290, 518869205, (unsigned short)991377295);
+w2Wh1gy = AAG7b1s(-476238357, R57B4, (unsigned short)-845981290, 518869205, (unsigned short)991377295);
 if (uXeUOE_eei & WsRI3YBEc)
 {
 cout << "QzD0sxGaC" << endl;
@@ -250,7 +250,7 @@ Ohl3q504 = dkIB03Tmv(Ohl3q504, 620659138);
 }
 else
 {
-oRp9Ul7H = CiM7r(-1696200517, Q3hQU263s7, 1694685193, -2017935186) >> Uh2YKgDV7;
+oRp9Ul7H = CiM7r(-1696200517, Q3hQU263s7, 1694685193, (short)-2017935186) >> Uh2YKgDV7;
 }
 }
 }
@@ -331,7 +331,7 @@ case 'd':
 BTBD696Df %= D2E28Tx_;
 break;
 case 'e':
-k6_fj = dkIB03Tmv(1853468332, -22397464);
+k6_fj = dkIB03Tmv((short)1853468332, -22397464);
 break;
 case 'f':
 Ec_q2k = CiM7r(1966769344, (short)-732101768, 938538472, WsRI3YBEc);
@@ -375,7 +375,7 @@ case 4:
 z_FV6B1ni9 = k6_fj | 2029954899;
 break;
 case 5:
-PHy3z = lW104ZUTJ(-411421456, (unsigned char)-634218222, k6_fj, -1457166142);
+PHy3z = lW104ZUTJ((short)-411421456, (unsigned char)-634218222, k6_fj, -1457166142);
 break;
 }
 VTzL7T = NR4G - dEoNtF;
@@ -394,7 +394,7 @@ return 0;
 }
 
 unsigned short  dkIB03Tmv(short  OfcjW,int  d13OK)  {
-  return  532759641;
+  return  (unsigned short)532759641;
 }
 
 long long  T2L8Fy(unsigned int  v2z910X_FN,short  KJ2M,unsigned long long  gyOyin8,int  e5xLt,unsigned int  m0i13Y3h)
@@ -404,7 +404,7 @@ long long  T2L8Fy(unsigned int  v2z910X_FN,short  KJ2M,unsigned long long  gyOyi
 
 short int  AAG7b1s(int  JXxT3T,long  Vlitk6d,unsigned short int  r_7461qIkw,int  ymRu,unsigned short int  N_fgbK5Bu)
 {
-  return  1510255523;
+  return  (short)1510255523;
 }
 
 unsigned char	lW104ZUTJ(short	lNDohgu1s9,unsigned char	Ej_ql21R,unsigned long	fHQMd_E1Ul,unsigned long	XXv3z3Y95U)	{

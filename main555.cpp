@@ -15,7 +15,7 @@ using namespace std;
 
 int main(int argc, char** argv) {
 	char	qCKM;
-	qCKM	=	-1812325797;
+	qCKM	=	(char)-1812325797;
  long double Qys1;
  Qys1 = -1643142020;
   long long  io13z;
@@ -29,7 +29,7 @@ int main(int argc, char** argv) {
   unsigned long long  ocVS1;
   ocVS1  =  1780644420;
   char  cTQV;
-  cTQV  =  -1069391347;
+  cTQV  =  (char)-1069391347;
 	short	Y5lXCkJ;
 	Y5lXCkJ	=	1615769661;
     char    azf6Y66Xh3;
@@ -41,7 +41,7 @@ int main(int argc, char** argv) {
     double    bRLN179B7;
     bRLN179B7    =    -1207948936;
  short A1RzjEiu;
- A1RzjEiu = -216714547;
+ A1RzjEiu = (short)-216714547;
 	short	jGw16;
 	jGw16	=	(short)-1790274064;
  unsigned long long gSW9Q4rB_;
@@ -190,7 +190,7 @@ case 1:
 X9LfZECUw = Vc6J2jXu0 >> xLR0Cp4uq;
 break;
 case 2:
-A1RzjEiu = (gSW9Q4rB_ <= Li5i7) ? -185659401 : F02H;
+A1RzjEiu = (gSW9Q4rB_ <= Li5i7) ? (short)-185659401 : F02H;
 break;
 case 3:
 jGw16 = b19u68PDE2 | 285764254;
@@ -223,7 +223,7 @@ break;
 switch (T7i8)
 {
 case 'a':
-jGw16 = (jGw16 != -813592642) ? -1176437805 : gSW9Q4rB_;
+jGw16 = (jGw16 != -813592642) ? (short)-1176437805 : gSW9Q4rB_;
 break;
 case 'b':
 A1RzjEiu -= qCKM;

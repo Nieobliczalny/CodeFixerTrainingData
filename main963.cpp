@@ -100,7 +100,7 @@ return 0;
 
 short int    R10YCKa(unsigned short int    Ww6r,unsigned long    jTKi5_i,char    WN2lgtRh,unsigned int    z019H_p_2,long long    p2Dx8t4)
 {
-    return    -1109286608;
+    return    (short)-1109286608;
 }
 
 char    QSIu()    {

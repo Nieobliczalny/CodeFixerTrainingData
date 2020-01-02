@@ -65,7 +65,7 @@ return 0;
 
 unsigned short int r1CQR_dpub(unsigned char O9xC6JuuG,unsigned short tG7_L8UJ7,unsigned int c4z09,long g0Cqg)
 {
- return 1464023273;
+ return (unsigned short)1464023273;
 }
 
 long    Jy0W_w(unsigned int    FJuH24,unsigned long long    CjZrF,unsigned char    Lqq_TP74,char    OUWnVJv,unsigned long long    gLhlDBby5N)

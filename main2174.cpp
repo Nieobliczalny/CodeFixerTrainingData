@@ -18,7 +18,7 @@ int main(void) {
 	int	qBC67g3c;
 	qBC67g3c	=	-751188554;
     short    xre56qs;
-    xre56qs    =    1622931211;
+    xre56qs    =    (short)1622931211;
     int    o9K9BTH9Ly;
     o9K9BTH9Ly    =    1399244224;
 	float	rq3sE;
@@ -46,7 +46,7 @@ int main(void) {
  int eAs5g61;
  eAs5g61 = 0;
 	unsigned short int	Mo1LGY;
-	Mo1LGY	=	1219364943;
+	Mo1LGY	=	(unsigned short)1219364943;
 	long long	k4I_1l1Iw0;
 	k4I_1l1Iw0	=	221248761;
  float zuM6N0jJ_O;
@@ -60,7 +60,7 @@ int main(void) {
   float  MnLA;
   MnLA  =  -1781187139;
  unsigned short uZ1laK74O;
- uZ1laK74O = -364940347;
+ uZ1laK74O = (unsigned short)-364940347;
     long long    vCoL6X;
     vCoL6X    =    -1351984858;
 

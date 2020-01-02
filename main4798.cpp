@@ -14,7 +14,7 @@ long long    J4lRv(int    Ai8ID,unsigned char    F6L4CEWt,short int    bZ1_h9l,i
 int main(void) {
 	unsigned long	iOt_vw	=	-1920356767;
  double Vu0igMWtU = -1225975069;
-    unsigned short    vVC_3j    =    -1382102689;
+    unsigned short    vVC_3j    =    (unsigned short)-1382102689;
     char    Y_xE    =    (char)-2091967795;
  double q1Helx = 1754427288;
   int  zVrM8QPcKE  =  0;
@@ -25,7 +25,7 @@ int main(void) {
     long    u26Fw5w    =    -1777971374;
 	unsigned char	y6u5QS	=	-1788612918;
   long long  hu_4hfl0w  =  1141155495;
-  unsigned short  Xu53qImnm  =  535708817;
+  unsigned short  Xu53qImnm  =  (unsigned short)535708817;
  unsigned short KVuv8 = (unsigned short)-866338152;
  int Alw2aPe = -535966828;
 	long long	F31ZS	=	-1688555141;
@@ -39,7 +39,7 @@ int main(void) {
  unsigned long K59MZ = 710637584;
     unsigned int    K2t1y1Xssn    =    461859428;
   long double  Q0hP6K0kY  =  1255504236;
- short T8bA3Lj = -2132608095;
+ short T8bA3Lj = (short)-2132608095;
  unsigned int J781E58OV = 315439815;
     long double    cmDnv    =    -1722941147;
     unsigned char    jMw3    =    (unsigned char)-261565424;
@@ -49,7 +49,7 @@ int main(void) {
  short int iGFt_V0eI = 1154020063;
   int  b3N8q8KBOc  =  250174182;
 	short int	QJM04	=	-176071017;
-	char	G4wu3476g	=	-1203051428;
+	char	G4wu3476g	=	(char)-1203051428;
 	long double	Fz9R	=	1608615391;
   unsigned long  df3D7BTga  =  -1530724132;
 	float	Z99tO8	=	-1076363558;
@@ -114,7 +114,7 @@ case 'c':
 cmDnv = (int)floor(Q0hP6K0kY);
 break;
 case 'd':
-peQXA8HXrd = J4lRv(-1443437095, -7464827, vVC_3j, u26Fw5w, J781E58OV);
+peQXA8HXrd = J4lRv(-1443437095, (unsigned char)-7464827, vVC_3j, u26Fw5w, J781E58OV);
 break;
 }
 i++;
@@ -268,7 +268,7 @@ else
 E5_qHLx = (iOt_vw & zVrM8QPcKE) ? 1747180131 : d1d2eDBls;
 }
 
-std::cout << J4lRv(316133305, -772030011, (short)1790723611, acH5g9, E5_qHLx) << J4lRv(zVrM8QPcKE, UtCoWY, K59MZ, acH5g9, 1193843161) << i3Im6 << J4lRv(837661169, UtCoWY, 1598920621, acH5g9, E5_qHLx) << WJ8R << std::endl;
+std::cout << J4lRv(316133305, (unsigned char)-772030011, (short)1790723611, acH5g9, E5_qHLx) << J4lRv(zVrM8QPcKE, UtCoWY, K59MZ, acH5g9, 1193843161) << i3Im6 << J4lRv(837661169, UtCoWY, 1598920621, acH5g9, E5_qHLx) << WJ8R << std::endl;
 
 std::cout << "IOoTr" << rC6n1YrW() << vVC_3j << "Udt_f" << std::endl;
 std::cout << rC6n1YrW() << J4lRv(zVrM8QPcKE, 2022375047, K59MZ, acH5g9, 545737869) << std::endl;
@@ -347,7 +347,7 @@ else
 {
 rNLME3 = (int)abs(zVrM8QPcKE) + (1583432538);
 }
-std::cout << y1_2v4C << i3Im6 << J4lRv(612159934, 1185866896, acH5g9, hu_4hfl0w, -1479825333) << J4lRv(HK723, (unsigned char)593343771, -2068827356, hu_4hfl0w, rNLME3) << std::endl;
+std::cout << y1_2v4C << i3Im6 << J4lRv(612159934, (unsigned char)1185866896, acH5g9, hu_4hfl0w, -1479825333) << J4lRv(HK723, (unsigned char)593343771, -2068827356, hu_4hfl0w, rNLME3) << std::endl;
 d1d2eDBls = y1_2v4C << 936200405;
 cmDnv = (int)floor(Z99tO8);
 if ((E5_qHLx & UtCoWY) && (u26Fw5w <= 858060568))
@@ -370,7 +370,7 @@ case 4:
 Fz9R = (int)floor(Z99tO8);
 break;
 case 5:
-yMADFWmvi = J4lRv(619852218, -1522583930, (short)-559666391, hu_4hfl0w, -1099862473);
+yMADFWmvi = J4lRv(619852218, (unsigned char)-1522583930, (short)-559666391, hu_4hfl0w, -1099862473);
 break;
 case 6:
 zVrM8QPcKE = rC6n1YrW();
@@ -398,7 +398,7 @@ u26Fw5w %= i3Im6;
 }
 else if (df3D7BTga != -210032078)
 {
-acH5g9 = J4lRv(-1742256882, 826172910, (short)-1913946449, WJ8R, 233934409);
+acH5g9 = J4lRv(-1742256882, (unsigned char)826172910, (short)-1913946449, WJ8R, 233934409);
 }
 else if (Xu53qImnm > 651185605)
 {
@@ -438,7 +438,7 @@ if (WJ8R & 353938051)
 {
 for (int k = 10; k >= 0; --k)
 {
-yMADFWmvi = J4lRv(871825038, 963497170, (short)-1235299749, -49474061, WJ8R);
+yMADFWmvi = J4lRv(871825038, (unsigned char)963497170, (short)-1235299749, -49474061, WJ8R);
 }
 }
 }
@@ -500,7 +500,7 @@ jMw3 = y1_2v4C / IwzzltW_YQ;
 break;
 case 'b':
 case 'B':
-y6u5QS = J4lRv(y6u5QS, 1703609789, hu_4hfl0w, -2125100399, 225217555);
+y6u5QS = J4lRv(y6u5QS, (unsigned char)1703609789, hu_4hfl0w, -2125100399, 225217555);
 break;
 case 'c':
 case 'C':

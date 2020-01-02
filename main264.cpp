@@ -21,7 +21,7 @@ unsigned int  hhZd2e()
 }
 
 unsigned short    K9__v4Dc(unsigned int    W6E021,int    qvWj2jV4f1,unsigned long long    Z8CQW49,int    Fdh30k_eq)    {
-    return    1332424792;
+    return    (unsigned short)1332424792;
 }
 
 int main(int argc, char** argv) {
@@ -38,7 +38,7 @@ int main(int argc, char** argv) {
     long long    d81b;
     d81b    =    1954351177;
   unsigned short  nmO_cDSCN_;
-  nmO_cDSCN_  =  -1740406689;
+  nmO_cDSCN_  =  (unsigned short)-1740406689;
   int  lMJ4_;
   lMJ4_  =  1463362645;
   unsigned char  GMv_;
@@ -54,7 +54,7 @@ int main(int argc, char** argv) {
 	float	M40m3zTdx;
 	M40m3zTdx	=	-2107139685;
     unsigned char    gwBjYo;
-    gwBjYo    =    -122816387;
+    gwBjYo    =    (unsigned char)-122816387;
 	long double	gwOSHt4N29;
 	gwOSHt4N29	=	-2114379686;
 	unsigned short	oLG24K1;
@@ -78,7 +78,7 @@ int main(int argc, char** argv) {
 	unsigned int	YXwTU6;
 	YXwTU6	=	1721028796;
  unsigned char T2Gh8;
- T2Gh8 = 134206993;
+ T2Gh8 = (unsigned char)134206993;
     double    Sq833aEpT;
     Sq833aEpT    =    646969382;
   double  twMjM;
@@ -88,7 +88,7 @@ int main(int argc, char** argv) {
   unsigned short int  iZy1SI3;
   iZy1SI3  =  0;
  short int T90X;
- T90X = -377002924;
+ T90X = (short)-377002924;
 
 if (Fo1EnW6V)
 {

@@ -15,7 +15,7 @@ char l58ihaz6()
 
 int main() {
  unsigned short P5LEC, yyEB, D9i1u0Y, aTptQRm, EG3Gx, X75f, aUVgy94r6, Ep1iXh_, UQB08_U, Df8S9I4GUi, Sa3jgHU, QdMV, g0q09, Pk5Q, BVDmDG, rk705_, jc94Dtx0W, Rw5GZD9, UfTm_Je__, eDcaO;
- P5LEC = -390833645;
+ P5LEC = (unsigned short)-390833645;
  yyEB = (unsigned short)769722167;
  D9i1u0Y = 289987506;
  aTptQRm = -1261563466;
@@ -25,7 +25,7 @@ int main() {
  Ep1iXh_ = 1810729147;
  UQB08_U = -577487152;
  Df8S9I4GUi = 579390640;
- Sa3jgHU = 1423587290;
+ Sa3jgHU = (unsigned short)1423587290;
  QdMV = (unsigned short)2073999242;
  g0q09 = -692899245;
  Pk5Q = 1452464971;
@@ -61,7 +61,7 @@ else if (UQB08_U == BVDmDG)
 switch (aTptQRm)
 {
 case 0:
-QdMV = (Sa3jgHU) ? l58ihaz6() : -1853826983;
+QdMV = (Sa3jgHU) ? l58ihaz6() : (unsigned short)-1853826983;
 break;
 case 1:
 rk705_ |= aTptQRm;

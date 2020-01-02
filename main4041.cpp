@@ -13,7 +13,7 @@
 using namespace std;
 
 unsigned short int K_rKIDH(short iloooeXl9,short tV9j5YUO) {
- return -1230008632;
+ return (unsigned short)-1230008632;
 }
 
 long long  h2xE(unsigned long  zF4_iCS,unsigned long long  v9492UY08,unsigned int  M_2w_8r)  {
@@ -145,7 +145,7 @@ xYqrhFVwJ = cC93drbs5(228758168);
 
 if ((WTsDAxVI9 != A4fKNbb) || (Z22h_5 > -600786978))
 {
-cout << "ODUm" << w8ms9QiM << h2xE(xYqrhFVwJ, 1979307000, iipjw1) << K_rKIDH(2142822513, Ck3HW) << ZA9XC__ << endl;
+cout << "ODUm" << w8ms9QiM << h2xE(xYqrhFVwJ, 1979307000, iipjw1) << K_rKIDH((short)2142822513, Ck3HW) << ZA9XC__ << endl;
 }
 
 if (e5JM)
@@ -194,7 +194,7 @@ wjo_zM = (unsigned long long)(jJr70);
 }
 else
 {
-qbN33 = K_rKIDH(qbN33, 1004073310);
+qbN33 = K_rKIDH(qbN33, (short)1004073310);
 }
 }
 else
@@ -250,7 +250,7 @@ case 'I':
 qbN33 = h2xE(qbN33, 464048954, 798723149);
 break;
 default:
-CXw5j = K_rKIDH(2144751097, E0m2);
+CXw5j = K_rKIDH((short)2144751097, E0m2);
 break;
 }
 --j;
@@ -264,7 +264,7 @@ if (e5JM == -809927122)
 {
 for (int k = 0; k < 1; ++k)
 {
-Q2G13EA18 = K_rKIDH(Q2G13EA18, 580096421);
+Q2G13EA18 = K_rKIDH(Q2G13EA18, (short)580096421);
 }
 }
 else if (e5JM >= A4fKNbb)
@@ -330,7 +330,7 @@ case 4:
 Q2G13EA18 = h2xE(1312875964, -353229066, -1315040641) ^ iipjw1;
 break;
 case 5:
-o52n0c = K_rKIDH(1908228012, (short)-748659162);
+o52n0c = K_rKIDH((short)1908228012, (short)-748659162);
 break;
 default:
 E0m2 = h2xE(1268132857, 1350173404, -208394333) << 3084091;
@@ -427,7 +427,7 @@ l29T5 = K_rKIDH(l29T5, UP7JFVuV97);
 }
 else if (qbN33 > A4fKNbb)
 {
-CXw5j = K_rKIDH(X_0_3, 2131435924);
+CXw5j = K_rKIDH(X_0_3, (short)2131435924);
 }
 else
 {
@@ -482,7 +482,7 @@ o52n0c &= 587690632;
 break;
 case 'd':
 case 'D':
-iipjw1 = K_rKIDH(iipjw1, -1083062870);
+iipjw1 = K_rKIDH(iipjw1, (short)-1083062870);
 break;
 case 'e':
 case 'E':
@@ -511,7 +511,7 @@ if (EnbH >= 874172100)
 {
 try
 {
-Or0PAOY3 = K_rKIDH(Or0PAOY3, 1749359331);
+Or0PAOY3 = K_rKIDH(Or0PAOY3, (short)1749359331);
 }
 catch (int& errorCode)
 {
@@ -563,7 +563,7 @@ e5JM = jJr70 & 2093837879;
 switch (ZA9XC__)
 {
 case 0:
-oCn0G5G = K_rKIDH(-1183100046, (short)269051487);
+oCn0G5G = K_rKIDH((short)-1183100046, (short)269051487);
 break;
 case 1:
 UP7JFVuV97 = Ck3HW - 179123951;
@@ -581,7 +581,7 @@ case 5:
 Q2G13EA18 = BkGXx667V >> 1034613857;
 break;
 case 6:
-o52n0c = K_rKIDH(VaJs26TDX, -1343223860);
+o52n0c = K_rKIDH(VaJs26TDX, (short)-1343223860);
 break;
 case 7:
 Q2G13EA18 = UP7JFVuV97 - 803427140;

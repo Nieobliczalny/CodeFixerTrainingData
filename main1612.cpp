@@ -18,7 +18,7 @@ int main()
 	unsigned long	a7RT9Hl90	=	1184538920;
     float    lP_3yr0    =    -712180506;
     unsigned long long    vCK2k    =    1545604742;
- short NZ9r2M = 2098906637;
+ short NZ9r2M = (short)2098906637;
  long long QfKVF2L = 831468433;
   unsigned long  USuN2Gnk_3  =  0;
     short int    k3CWbB    =    0;

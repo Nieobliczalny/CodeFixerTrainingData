@@ -20,7 +20,7 @@ int main(int argc, char** argv)
     unsigned long long    IgmB3H3Ls;
     IgmB3H3Ls    =    950156452;
   char  w3rfw;
-  w3rfw  =  592070255;
+  w3rfw  =  (char)592070255;
 	short int	w243FsM;
 	w243FsM	=	(short)679197212;
 	char	B5w6v1jG;
@@ -32,7 +32,7 @@ int main(int argc, char** argv)
 	long long	y3_92;
 	y3_92	=	782368007;
   short  SokZj;
-  SokZj  =  -1896822820;
+  SokZj  =  (short)-1896822820;
     short int    AdTF140V;
     AdTF140V    =    (short)-447726282;
 	int	BD4NaXE3Mw;
@@ -50,7 +50,7 @@ int main(int argc, char** argv)
 	unsigned short int	o7mE630ZuD;
 	o7mE630ZuD	=	0;
   short int  S17_;
-  S17_  =  1408375580;
+  S17_  =  (short)1408375580;
  long double jyRShnR;
  jyRShnR = -1180827762;
 

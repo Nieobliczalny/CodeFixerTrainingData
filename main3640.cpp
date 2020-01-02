@@ -34,7 +34,7 @@ case 'c':
 dd090_ = (int)abs(Q_HniL0);
 break;
 case 'd':
-U8V2Im1 = iZX_(1906609936, (unsigned char)1340377067, CTVPiW5) * 376102198;
+U8V2Im1 = iZX_((unsigned char)1906609936, (unsigned char)1340377067, CTVPiW5) * 376102198;
 break;
 case 'e':
 bV8aYuG5R6 = iZX_(-801348341, k9zpuo, -2062623545);
@@ -56,7 +56,7 @@ try
 switch (U8V2Im1)
 {
 case 0:
-XreLK6 = iZX_(1823505600, (unsigned char)-1585172074, mF5S_);
+XreLK6 = iZX_((unsigned char)1823505600, (unsigned char)-1585172074, mF5S_);
 break;
 case 1:
 NSVRJ = (int)abs(KfV_O1);
@@ -97,7 +97,7 @@ try
 {
 if (Q_HniL0 != 991668383)
 {
-bV8aYuG5R6 = iZX_(EGPJtBBB, 2028837760, 1256092894);
+bV8aYuG5R6 = iZX_(EGPJtBBB, (unsigned char)2028837760, 1256092894);
 }
 else if ((Mf5e43Bi12 > F862p4) || (nt3f8E23 < 1073926939))
 {
@@ -129,7 +129,7 @@ switch (NSVRJ)
 {
 case 'a':
 case 'A':
-XreLK6 = iZX_(RgZy8W4Xjs, -447276393, -46759932);
+XreLK6 = iZX_(RgZy8W4Xjs, (unsigned char)-447276393, -46759932);
 break;
 case 'b':
 case 'B':
@@ -147,7 +147,7 @@ int j = 0;
 while (j < 4)
 {
 ++j;
-bV8aYuG5R6 = iZX_(-1874173269, (unsigned char)-368491531, p7ENQ7d);
+bV8aYuG5R6 = iZX_((unsigned char)-1874173269, (unsigned char)-368491531, p7ENQ7d);
 }
 }
 }
@@ -167,7 +167,7 @@ p7ENQ7d = (int)abs(Liw6);
 }
 else if (Ozda & Q_HniL0)
 {
-XreLK6 = iZX_(CTVPiW5, 1487376883, -1703826314);
+XreLK6 = iZX_(CTVPiW5, (unsigned char)1487376883, -1703826314);
 }
 else if (Liw6 & idwAeODq)
 {
@@ -199,7 +199,7 @@ q1__I = (int)abs(nt3f8E23);
 switch (k9zpuo)
 {
 case 0:
-mF5S_ = iZX_(314461451, (unsigned char)-1723845539, 845942096) - RgZy8W4Xjs;
+mF5S_ = iZX_((unsigned char)314461451, (unsigned char)-1723845539, 845942096) - RgZy8W4Xjs;
 break;
 case 1:
 IDtmw1 = Q_HniL0 ^ 1294818529;
@@ -240,7 +240,7 @@ if (CTVPiW5 >= Jtn14eXaf)
 switch (mF5S_)
 {
 case 0:
-XreLK6 = iZX_(RgZy8W4Xjs, 1486573524, 2102061292);
+XreLK6 = iZX_(RgZy8W4Xjs, (unsigned char)1486573524, 2102061292);
 break;
 case 1:
 U8V2Im1 = Ozda | Mf5e43Bi12;
@@ -255,7 +255,7 @@ case 4:
 U8V2Im1 = (int)abs(CTVPiW5);
 break;
 case 5:
-XreLK6 = iZX_(-2040507422, IDtmw1, EGPJtBBB);
+XreLK6 = iZX_((unsigned char)-2040507422, IDtmw1, EGPJtBBB);
 break;
 case 6:
 q1__I *= Q_HniL0;
@@ -338,7 +338,7 @@ else
 {
 try
 {
-bV8aYuG5R6 = iZX_(EGPJtBBB, -1947197939, idwAeODq);
+bV8aYuG5R6 = iZX_(EGPJtBBB, (unsigned char)-1947197939, idwAeODq);
 }
 catch (int& errorCode)
 {
@@ -379,7 +379,7 @@ do
 {
 if (((XreLK6 < Jtn14eXaf) && (XreLK6 != ymDB)) || (Ozda <= RgZy8W4Xjs))
 {
-bV8aYuG5R6 = iZX_(-749790395, U8V2Im1, -1395311077);
+bV8aYuG5R6 = iZX_((unsigned char)-749790395, U8V2Im1, -1395311077);
 }
 j--;
 }
@@ -394,7 +394,7 @@ i++;
 switch (Liw6)
 {
 case 0:
-bV8aYuG5R6 = iZX_(p7ENQ7d, -237431026, 408700946);
+bV8aYuG5R6 = iZX_(p7ENQ7d, (unsigned char)-237431026, 408700946);
 break;
 case 1:
 Q_HniL0 = iZX_((unsigned char)118646982, RgZy8W4Xjs, EGPJtBBB) & 1052315043;
@@ -406,7 +406,7 @@ case 3:
 NSVRJ = bV8aYuG5R6 - mF5S_;
 break;
 case 4:
-XreLK6 = iZX_(774794439, -15759190, 566874188);
+XreLK6 = iZX_((unsigned char)774794439, -15759190, 566874188);
 break;
 case 5:
 XreLK6 = iZX_(q1__I, (unsigned char)-10761427, -2012035404);
@@ -422,7 +422,7 @@ if ((Q_HniL0) || (U8V2Im1 > xsroP214))
 int j = 7;
 do
 {
-XreLK6 = iZX_(-668567631, (unsigned char)-1412685454, KfV_O1);
+XreLK6 = iZX_((unsigned char)-668567631, (unsigned char)-1412685454, KfV_O1);
 j--;
 }
 while (j >= 0);
@@ -458,7 +458,7 @@ switch (Liw6)
 {
 case 'a':
 case 'A':
-XreLK6 = iZX_(-1075644000, Mf5e43Bi12, -1655916880);
+XreLK6 = iZX_((unsigned char)-1075644000, Mf5e43Bi12, -1655916880);
 break;
 case 'b':
 case 'B':
@@ -474,7 +474,7 @@ idwAeODq = KfV_O1 + CTVPiW5;
 break;
 case 'e':
 case 'E':
-bV8aYuG5R6 = iZX_(499412069, dd090_, -435828664);
+bV8aYuG5R6 = iZX_((unsigned char)499412069, dd090_, -435828664);
 break;
 case 'f':
 case 'F':
@@ -486,7 +486,7 @@ bV8aYuG5R6 = iZX_(Q_HniL0, CTVPiW5, Liw6);
 break;
 case 'h':
 case 'H':
-XreLK6 = iZX_(1957542092, (unsigned char)-1706290879, 1423975549);
+XreLK6 = iZX_((unsigned char)1957542092, (unsigned char)-1706290879, 1423975549);
 break;
 default:
 XreLK6 = iZX_(2117421068, Q_HniL0, SX6HnD);
@@ -500,7 +500,7 @@ Ozda = nt3f8E23 & Mf5e43Bi12;
 }
 for (int i = 0; i < 5; ++i)
 {
-std::cout << iZX_(-825999446, Q_HniL0, SX6HnD) << iZX_((unsigned char)-1384454123, -260893041, -1027796476) << "QYUl_M" << iZX_(-1283822809, -684801042, -698179695) << std::endl;
+std::cout << iZX_((unsigned char)-825999446, Q_HniL0, SX6HnD) << iZX_((unsigned char)-1384454123, -260893041, -1027796476) << "QYUl_M" << iZX_(-1283822809, -684801042, -698179695) << std::endl;
 }
 p7ENQ7d++;
 if (k9zpuo)

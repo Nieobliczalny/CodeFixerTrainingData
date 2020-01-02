@@ -14,7 +14,7 @@ unsigned short int    trCoojEv1J(long long    G461nvX51,short    CF6T9K,unsigned
 
 char	HOhw(unsigned int	s_ibz6)
 {
-	return	1916057186;
+	return	(char)1916057186;
 }
 
 unsigned short vC7s7Z2Q() {
@@ -56,7 +56,7 @@ try
 int k = 5;
 while (k >= 0)
 {
-buv5zQlQS = trCoojEv1J(II_h7, -1476613668, uIV4DTq, wBGF7Pg);
+buv5zQlQS = trCoojEv1J(II_h7, (short)-1476613668, uIV4DTq, wBGF7Pg);
 --k;
 }
 }
@@ -86,7 +86,7 @@ while (j >= 0)
 {
 try
 {
-buv5zQlQS = trCoojEv1J(n1KH9c5, 572544080, bD13, (char)-448483834);
+buv5zQlQS = trCoojEv1J(n1KH9c5, (short)572544080, bD13, (char)-448483834);
 }
 catch (int& errorCode)
 {
@@ -219,7 +219,7 @@ JhtU = HOhw(653900250);
 }
 if (LkJRR8v >= -791644701)
 {
-std::cout << "QfeHt1Z" << trCoojEv1J(JhtU, -919184676, miiY7zy34, (char)-883048696) << "C_qRvoYP" << P_T08SSDE2 << SM183Z(JhtU) << std::endl;
+std::cout << "QfeHt1Z" << trCoojEv1J(JhtU, (short)-919184676, miiY7zy34, (char)-883048696) << "C_qRvoYP" << P_T08SSDE2 << SM183Z(JhtU) << std::endl;
 }
 else
 {

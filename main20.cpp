@@ -16,7 +16,7 @@ unsigned int axASsvH_4(long long x4PKKU5P,unsigned long long F99NL)
 
 short int    lFWEWkp9(long    i_cPTe5MQO,long long    fEtL4XLD8j,char    Br_653I6gR,unsigned long    G98T9P_6So,unsigned short int    A1Sk86LS7)
 {
-    return    -1728334569;
+    return    (short)-1728334569;
 }
 
 int main(int argc, char** argv) {
@@ -45,7 +45,7 @@ for (int i = 0; i < 5; ++i)
 {
 if (p4hxBJHyM != -864756415)
 {
-std::cout << "vkpvRk8x" << y7777 << lFWEWkp9(p4hxBJHyM, y7777, 241264590, -365068885, (unsigned short)1939025459) << std::endl;
+std::cout << "vkpvRk8x" << y7777 << lFWEWkp9(p4hxBJHyM, y7777, (char)241264590, -365068885, (unsigned short)1939025459) << std::endl;
 }
 else
 {
@@ -67,7 +67,7 @@ case 0:
 p4hxBJHyM = (int)abs(L7dwrA_q_I) + (-295016149);
 break;
 case 1:
-p4hxBJHyM = lFWEWkp9(1299483298, 1668677837, -511945027, y7777, (unsigned short)-1923776546);
+p4hxBJHyM = lFWEWkp9(1299483298, 1668677837, (char)-511945027, y7777, (unsigned short)-1923776546);
 break;
 case 2:
 p4hxBJHyM = p4hxBJHyM & 1471867034;
@@ -88,7 +88,7 @@ case 7:
 ui3CODor = axASsvH_4(ui3CODor, 1566006187);
 break;
 default:
-p4hxBJHyM = lFWEWkp9(-2095512086, L7dwrA_q_I, -550365812, O5hw, ui3CODor);
+p4hxBJHyM = lFWEWkp9(-2095512086, L7dwrA_q_I, (char)-550365812, O5hw, ui3CODor);
 break;
 }
 }
@@ -222,7 +222,7 @@ case 'a':
 L7dwrA_q_I = axASsvH_4(L7dwrA_q_I, 876666185);
 break;
 case 'b':
-p4hxBJHyM = lFWEWkp9(y7777, -353675054, 368076059, 487941948, WZW12SF);
+p4hxBJHyM = lFWEWkp9(y7777, -353675054, (char)368076059, 487941948, WZW12SF);
 break;
 default:
 p4hxBJHyM++;
@@ -373,7 +373,7 @@ y7777 = axASsvH_4(1878901660, -82693372);
 
 for (int i = 0; i < 8; ++i)
 {
-p4hxBJHyM = lFWEWkp9(90355038, -1675772637, -1828764184, L7dwrA_q_I, (unsigned short)1693271752);
+p4hxBJHyM = lFWEWkp9(90355038, -1675772637, (char)-1828764184, L7dwrA_q_I, (unsigned short)1693271752);
 }
 
 switch (L7dwrA_q_I)
@@ -404,7 +404,7 @@ O5hw = axASsvH_4(-647773051, 1011574160);
 }
 else
 {
-p4hxBJHyM = lFWEWkp9(WZW12SF, y7777, 85386864, L7dwrA_q_I, ui3CODor);
+p4hxBJHyM = lFWEWkp9(WZW12SF, y7777, (char)85386864, L7dwrA_q_I, ui3CODor);
 }
 }
 }
@@ -417,7 +417,7 @@ L7dwrA_q_I = (long long)(Z44qDbdzI);
 int i = 0;
 while (i < 2)
 {
-std::cout << lFWEWkp9(WZW12SF, -1626292231, -927480741, L7dwrA_q_I, (unsigned short)-1843985650) << "HoU44" << std::endl;
+std::cout << lFWEWkp9(WZW12SF, -1626292231, (char)-927480741, L7dwrA_q_I, (unsigned short)-1843985650) << "HoU44" << std::endl;
 ++i;
 }
 }

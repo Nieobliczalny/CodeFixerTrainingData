@@ -76,7 +76,7 @@ while (j < 8);
 }
 else
 {
-cout << Tebt(221003512) << endl;
+cout << Tebt((char)221003512) << endl;
 }
 {
 int i = 0;
@@ -120,7 +120,7 @@ try
 int k = 0;
 while (k < 5)
 {
-Zkx1c6n9fU = (ZSLa <= h2j2Vc9) ? Yrxq56t : Tebt(224146290);
+Zkx1c6n9fU = (ZSLa <= h2j2Vc9) ? Yrxq56t : Tebt((char)224146290);
 ++k;
 }
 }
@@ -148,7 +148,7 @@ yOI_37n = Tebt(O3W81Gu);
 break;
 case 'c':
 case 'C':
-gTpO006 = Tebt(1403849412);
+gTpO006 = Tebt((char)1403849412);
 break;
 case 'd':
 case 'D':
@@ -189,7 +189,7 @@ while (j >= 0);
 }
 else if (O3W81Gu != 238823077)
 {
-yOI_37n = Tebt(-170133329);
+yOI_37n = Tebt((char)-170133329);
 }
 else if (E658 >= 1268833009)
 {
@@ -242,7 +242,7 @@ case 4:
 ZSLa = (int)abs(E658);
 break;
 case 5:
-LmNxDeP0 = Tebt(851139460);
+LmNxDeP0 = Tebt((char)851139460);
 break;
 default:
 l145RUgx = d3DA09sWV();

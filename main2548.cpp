@@ -13,7 +13,7 @@ unsigned char  eu6t3()  {
 }
 
 int main() {
- short int E18U4yoK = 553900226, Vf2_cHqj2 = (short)-991787115, Zytr6V = -1430942827, S9R_7 = 1919405770, a4ctu4 = -1839764545;
+ short int E18U4yoK = (short)553900226, Vf2_cHqj2 = (short)-991787115, Zytr6V = -1430942827, S9R_7 = 1919405770, a4ctu4 = -1839764545;
   long long  FwEs  =  0;
 
 S9R_7 = eu6t3() / Vf2_cHqj2;
@@ -403,7 +403,7 @@ while (j < 6);
 }
 while (i < 5);
 }
-E18U4yoK = (Vf2_cHqj2 < 1989904050) ? 1104692263 : E18U4yoK;
+E18U4yoK = (Vf2_cHqj2 < 1989904050) ? (short)1104692263 : E18U4yoK;
 
 Zytr6V = (short int)(a4ctu4);
 

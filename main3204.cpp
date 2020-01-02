@@ -18,7 +18,7 @@ short int    gmPp5(short int    Rm9ssv,unsigned long long    bAz9V)    {
 
 unsigned short int CF7RR(unsigned long long NmRyCE4c,int jAvsDI)
 {
- return -466129456;
+ return (unsigned short)-466129456;
 }
 
 int main(void) {
@@ -29,7 +29,7 @@ int main(void) {
     unsigned char    a_vqhB1c    =    -1206363557;
   long long  MKKW0  =  -631476205;
   float  F59ze_Yux  =  -148401239;
-    short int    UByxX8    =    166965604;
+    short int    UByxX8    =    (short)166965604;
  unsigned short int ZG_Qd = 489639678;
 	char	nF8cuBE	=	314248586;
   unsigned int  UxZxy8Vk2_  =  -1747129511;
@@ -45,7 +45,7 @@ int main(void) {
   double  hDbZ  =  -963817143;
   unsigned long long  Pf3fUMtYuV  =  1221570390;
  unsigned int GRCYVq = 1283644687;
-  short  o50_Ib  =  884043939;
+  short  o50_Ib  =  (short)884043939;
  char L9p0E2Ih9 = (char)408953368;
     short int    lua_    =    1220444145;
  float pb3g751y = 832664293;
@@ -55,7 +55,7 @@ int main(void) {
   short int  IO_4R6L64  =  -896015429;
   long  b_cIXsB  =  651361330;
     long double    v10p6a3TL6    =    1887830744;
- short int loiwEbcf = 1346667461;
+ short int loiwEbcf = (short)1346667461;
   long  C0Ymx7  =  -944854893;
  short HA6LXP_lW5 = (short)-980428692;
 	float	c0PD2hXFo	=	-632003831;
@@ -109,7 +109,7 @@ pb3g751y = Zg3zk1Gb0y / 1889959458;
 }
 else if (Hzg_e != -416301698)
 {
-cout << "K_p4Tzh" << gmPp5(-886180098, Pf3fUMtYuV) << endl;
+cout << "K_p4Tzh" << gmPp5((short)-886180098, Pf3fUMtYuV) << endl;
 }
 else if (((b_cIXsB <= -960307423) && (Hzg_e != 1168305478)) && ((pb3g751y == 115464972) && (Pf3fUMtYuV != S_Tzxj7V31)))
 {
@@ -215,7 +215,7 @@ Na1_ = gmPp5(L9p0E2Ih9, o50_Ib);
 }
 else
 {
-cout << lTr6 << gmPp5(-743689518, -881260959) << "Z89Gt1cf6E" << gmPp5((short)418554443, o50_Ib) << "sx8O6R4" << endl;
+cout << lTr6 << gmPp5((short)-743689518, -881260959) << "Z89Gt1cf6E" << gmPp5((short)418554443, o50_Ib) << "sx8O6R4" << endl;
 }
 if (loiwEbcf < u9Yme65M)
 {
@@ -308,7 +308,7 @@ F59ze_Yux = (int)ceil(C8F6JB8V6);
 }
 else if (lua_ < ZG_Qd)
 {
-Na1_ = gmPp5(-1863568520, 244175390);
+Na1_ = gmPp5((short)-1863568520, 244175390);
 }
 else if (UxZxy8Vk2_ <= 2056532566)
 {
@@ -365,7 +365,7 @@ for (int j = 0; j < 3; j++)
 Na1_ = gmPp5(IO_4R6L64, L9p0E2Ih9);
 }
 }
-cout << LPMt6_8nc_ << "v23z" << gmPp5(-212820390, 1751634839) << "AQkUc" << "q_92l0" << endl;
+cout << LPMt6_8nc_ << "v23z" << gmPp5((short)-212820390, 1751634839) << "AQkUc" << "q_92l0" << endl;
 
 xxNn_826s = CF7RR(659549781, 234232724);
 
@@ -389,7 +389,7 @@ int i = 3;
 do
 {
 i--;
-Na1_ = gmPp5(-260380290, 544025229);
+Na1_ = gmPp5((short)-260380290, 544025229);
 }
 while (i >= 0);
 }

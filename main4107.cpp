@@ -10,7 +10,7 @@ using namespace std;
 
 int main(void) {
     unsigned short int    V0qIL1mT4    =    0;
-    short int    l16IG    =    -1701200290;
+    short int    l16IG    =    (short)-1701200290;
  short ydeSO_8 = (short)-361055853;
     unsigned short    uhBk    =    -45499801;
     short int    rqPU    =    1252200572;
@@ -22,7 +22,7 @@ int main(void) {
  long iglq_bb = 1285587233;
   long long  seyMO_f  =  -1019267694;
 	unsigned int	RO1g83M	=	-451919958;
-  unsigned short  N8l7c  =  779697737;
+  unsigned short  N8l7c  =  (unsigned short)779697737;
  unsigned short DylZ = (unsigned short)-147644028;
  unsigned long long y3vDMA = -541614457;
   float  Hs15xYC1  =  586891820;
@@ -363,7 +363,7 @@ Yx91O5T = n2KVm / OT115X_M;
 }
 else if (uhBk == n2KVm)
 {
-l16IG = (DylZ <= 2012921741) ? -2076884620 : cyRT6m1c0;
+l16IG = (DylZ <= 2012921741) ? (short)-2076884620 : cyRT6m1c0;
 }
 else if ((Yx91O5T & 577123842) || ((JThy4ZwSSt >= 1213078666) || (RO1g83M < 968376250)))
 {

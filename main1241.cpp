@@ -14,7 +14,7 @@ using namespace std;
 
 char  Xax_uP8EBY(int  gpuqv)
 {
-  return  -187621885;
+  return  (char)-187621885;
 }
 
 unsigned long long	RGl05e9h(char	Te9o5,char	gNvqJERV,unsigned short	k24J2UDw)
@@ -155,7 +155,7 @@ else
 int j = 3;
 do
 {
-cout << RGl05e9h(1962586983, (char)-5397238, -1096004134) << "MY1mB5" << T1_c << P8NFE8sx4 << endl;
+cout << RGl05e9h((char)1962586983, (char)-5397238, -1096004134) << "MY1mB5" << T1_c << P8NFE8sx4 << endl;
 --j;
 }
 while (j >= 0);
@@ -180,7 +180,7 @@ case 'e':
 zD3s = T1_c * v3v7E5;
 break;
 case 'f':
-Xn69e4 = RGl05e9h(-1044614261, (char)-712420202, v3v7E5);
+Xn69e4 = RGl05e9h((char)-1044614261, (char)-712420202, v3v7E5);
 break;
 case 'g':
 Bs8Aqkar = (int)floor(P8NFE8sx4);
@@ -241,7 +241,7 @@ cout << "hB_0UW_5Cd" << endl;
 }
 else if (HHDw <= XeTGs5)
 {
-axOBkl3 = RGl05e9h(ETtjkx, 938896965, X7eC);
+axOBkl3 = RGl05e9h(ETtjkx, (char)938896965, X7eC);
 }
 else
 {
@@ -277,7 +277,7 @@ catch (int& errorCode)
 {
 V7fe_ = (int)ceil(VO5_);
 }
-T1_c = ETtjkx / RGl05e9h(ETtjkx, -1586333688, X7eC);
+T1_c = ETtjkx / RGl05e9h(ETtjkx, (char)-1586333688, X7eC);
 cout << "Ui9_XhT" << "Ec27" << "pamD" << VO5_ << "D2Bo" << endl;
 {
 int i = 5;
@@ -300,7 +300,7 @@ case 'b':
 wJMl3 = K_A72T - oyD9qYoLX;
 break;
 case 'c':
-axOBkl3 = RGl05e9h(v3v7E5, YEMESx, 1825666978);
+axOBkl3 = RGl05e9h(v3v7E5, YEMESx, (unsigned short)1825666978);
 break;
 case 'd':
 axOBkl3 = RGl05e9h(YEMESx, iz_jlb, (unsigned short)-121105472);
@@ -324,7 +324,7 @@ case 'j':
 soz0KC_fBp = Xax_uP8EBY(891380799);
 break;
 default:
-Xn69e4 = RGl05e9h(-903956586, FAyD8, v3v7E5);
+Xn69e4 = RGl05e9h((char)-903956586, FAyD8, v3v7E5);
 break;
 }
 }
@@ -366,7 +366,7 @@ else
 {
 for (int j = 0; j < 2; j++)
 {
-Xn69e4 = RGl05e9h(1105009785, (char)-1646829467, -364164503);
+Xn69e4 = RGl05e9h((char)1105009785, (char)-1646829467, -364164503);
 }
 }
 {
@@ -397,7 +397,7 @@ while (i >= 0);
 int i = 0;
 while (i < 6)
 {
-Qz22z3z4_ = RGl05e9h(FlU44, Qz22z3z4_, 1824015702);
+Qz22z3z4_ = RGl05e9h(FlU44, Qz22z3z4_, (unsigned short)1824015702);
 i++;
 }
 }
@@ -474,7 +474,7 @@ try
 {
 try
 {
-S7i1HQXw8p = RGl05e9h(X7eC, iEs6w_in, -1931634795);
+S7i1HQXw8p = RGl05e9h(X7eC, iEs6w_in, (unsigned short)-1931634795);
 }
 catch (int& errorCode)
 {

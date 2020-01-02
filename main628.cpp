@@ -16,7 +16,7 @@ using std::floor;
 int main(int argc, char** argv) {
  int N2U0i = 1489629983;
 	unsigned long long	F23_yDtA	=	-588289281;
-	unsigned char	OM19g866_X	=	1413548034;
+	unsigned char	OM19g866_X	=	(unsigned char)1413548034;
 	float	o7OC_U07p9	=	1071743086;
     int    Xyc87j_3Hh    =    -235109756;
 	short int	qLBHu03n9	=	(short)1307530543;
@@ -27,7 +27,7 @@ int main(int argc, char** argv) {
 	short	xmCo3l	=	-2051859455;
 	long	T4wIKUnV5	=	764946984;
     long double    zk9M    =    -1285122752;
-	char	CB0C	=	460505030;
+	char	CB0C	=	(char)460505030;
   double  setR  =  -1040358193;
 	unsigned long	h6nOGqJY	=	1940739995;
     unsigned int    hk6hL2l    =    -1581411216;
@@ -37,7 +37,7 @@ int main(int argc, char** argv) {
     long long    w7tY    =    -1533543793;
 	char	q6Q5mX7	=	(char)-2089699209;
 	unsigned long	t6b5dSRwZ	=	-273321053;
-	unsigned char	Q1v034Tw	=	467306319;
+	unsigned char	Q1v034Tw	=	(unsigned char)467306319;
   long  v3w_2SEGRL  =  -1838479296;
   double  Z2RAGG7c  =  -148287356;
  unsigned long long dhor6E = -574705699;
@@ -47,7 +47,7 @@ int main(int argc, char** argv) {
   unsigned int  b48jX12Zg1  =  1170016069;
     unsigned long long    Lbea5    =    -754045876;
     char    pzXe    =    (char)-578887393;
-    short    t1Ng_31    =    312462051;
+    short    t1Ng_31    =    (short)312462051;
  unsigned long long oomg = 1665983225;
   long double  urA3K  =  1501152067;
     double    qLT5    =    1074345275;
@@ -60,7 +60,7 @@ int main(int argc, char** argv) {
   long long  vr1Awj  =  -219667736;
     long long    SU77fqOul    =    -1579372181;
 	double	Kzm6D	=	1191275348;
- short xm02yIF2 = 725693870;
+ short xm02yIF2 = (short)725693870;
  long double Yq2ib2IZ = 1327870433;
   float  s98XNaB  =  221566370;
     int    wW24M6T    =    -2017566661;

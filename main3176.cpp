@@ -47,7 +47,7 @@ int main(void)
 int i = 8;
 do
 {
-rwWx7 = acmfV3IfeC(-631742583, 1287217568, 927457895, 897234487);
+rwWx7 = acmfV3IfeC(-631742583, 1287217568, 927457895, (unsigned short)897234487);
 i--;
 }
 while (i >= 0);
@@ -84,7 +84,7 @@ case 0:
 rwWx7 = acmfV3IfeC(-108822763, pU89zJ_y9V, -1171163804, zGSw1);
 break;
 case 1:
-zGSw1 = acmfV3IfeC(zGSw1, 2121195739, 338593377, -328317021);
+zGSw1 = acmfV3IfeC(zGSw1, 2121195739, 338593377, (unsigned short)-328317021);
 break;
 case 2:
 OKTWt7c8V = (int)abs(ktW3p);
@@ -110,7 +110,7 @@ zGSw1 = (float)(ktW3p);
 while (i >= 0);
 }
 dHl7C_1U = S5bfqA6l / C3Usp;
-OKTWt7c8V = acmfV3IfeC(pU89zJ_y9V, kUgTY, 98495957, 829942798) << 2005213071;
+OKTWt7c8V = acmfV3IfeC(pU89zJ_y9V, kUgTY, 98495957, (unsigned short)829942798) << 2005213071;
 if (jby42h2 == 1723127054)
 {
 if (RcI1Em)
@@ -139,7 +139,7 @@ C3Usp = b7e_y4zW(rwWx7, -1957186969);
 }
 else
 {
-std::cout << b7e_y4zW(rwWx7, OKTWt7c8V) << E7G1NgRo5 << "qLe_M" << acmfV3IfeC(rwWx7, 2112843940, -1924197027, 1332659774) << std::endl;
+std::cout << b7e_y4zW(rwWx7, OKTWt7c8V) << E7G1NgRo5 << "qLe_M" << acmfV3IfeC(rwWx7, 2112843940, -1924197027, (unsigned short)1332659774) << std::endl;
 }
 
 if (dHl7C_1U < -680511989)
@@ -295,7 +295,7 @@ dHl7C_1U = bO6PGVCl1 * jby42h2;
 }
 else
 {
-std::cout << acmfV3IfeC(-1084887367, -361442246, tlX7iI, 558209966) << acmfV3IfeC(775990558, 75483111, 291523186, (unsigned short)2064934315) << "UMv9B5dn" << std::endl;
+std::cout << acmfV3IfeC(-1084887367, -361442246, tlX7iI, (unsigned short)558209966) << acmfV3IfeC(775990558, 75483111, 291523186, (unsigned short)2064934315) << "UMv9B5dn" << std::endl;
 }
 pU89zJ_y9V = (int)abs(pi90);
 
@@ -333,7 +333,7 @@ do
 --i;
 for (int j = 2; j >= 0; --j)
 {
-rwWx7 = acmfV3IfeC(rwWx7, dj_Jk, tlX7iI, -563414607);
+rwWx7 = acmfV3IfeC(rwWx7, dj_Jk, tlX7iI, (unsigned short)-563414607);
 }
 }
 while (i >= 0);
@@ -359,6 +359,6 @@ unsigned short int	b7e_y4zW(long	T_140H,unsigned long long	Q3F2g6)	{
 
 short int	acmfV3IfeC(unsigned int	VixKS6PU,unsigned long long	l_q9z,long long	ql2Qt3AoE,unsigned short	L2rtp)
 {
-	return	-473683868;
+	return	(short)-473683868;
 }
 

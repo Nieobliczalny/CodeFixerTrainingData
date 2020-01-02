@@ -20,7 +20,7 @@ unsigned long long	m5nlGSN_()	{
 
 short	Ht_9U8()
 {
-	return	41626948;
+	return	(short)41626948;
 }
 
 int main(void)
@@ -34,7 +34,7 @@ int main(void)
  unsigned int AwQ9sf;
  AwQ9sf = -1713354156;
  unsigned char C8l7cQIL5y;
- C8l7cQIL5y = 1129136531;
+ C8l7cQIL5y = (unsigned char)1129136531;
 
 try
 {
@@ -46,7 +46,7 @@ AwQ9sf += C49rE00446;
 break;
 case 'b':
 case 'B':
-y6853GLFWS = FGcqHt730(y6853GLFWS, AwQ9sf, C8l7cQIL5y, 1149502036);
+y6853GLFWS = FGcqHt730(y6853GLFWS, AwQ9sf, C8l7cQIL5y, (unsigned short)1149502036);
 break;
 case 'c':
 case 'C':
@@ -73,7 +73,7 @@ catch (int& errorCode)
 {
 C8l7cQIL5y += 2009580050;
 }
-std::cout << FGcqHt730(C49rE00446, C8l7cQIL5y, AwQ9sf, -791178135) << m5nlGSN_() << Ht_9U8() << "Bwn8_1qa_" << std::endl;
+std::cout << FGcqHt730(C49rE00446, C8l7cQIL5y, AwQ9sf, (unsigned short)-791178135) << m5nlGSN_() << Ht_9U8() << "Bwn8_1qa_" << std::endl;
 if (u7un_41 & Be10)
 {
 try
@@ -153,7 +153,7 @@ case 0:
 AwQ9sf = Ht_9U8();
 break;
 case 1:
-y6853GLFWS = FGcqHt730(-1992835028, y6853GLFWS, -1382203039, 480086473);
+y6853GLFWS = FGcqHt730(-1992835028, y6853GLFWS, -1382203039, (unsigned short)480086473);
 break;
 case 2:
 C8l7cQIL5y |= AwQ9sf;
@@ -243,7 +243,7 @@ switch (C8l7cQIL5y)
 {
 case 'a':
 case 'A':
-y6853GLFWS = FGcqHt730(C8l7cQIL5y, 228547335, -236151709, 1304279474);
+y6853GLFWS = FGcqHt730(C8l7cQIL5y, 228547335, -236151709, (unsigned short)1304279474);
 break;
 case 'b':
 case 'B':
@@ -268,7 +268,7 @@ case 1:
 C8l7cQIL5y = C49rE00446 - 1131872699;
 break;
 default:
-C8l7cQIL5y = FGcqHt730(886074666, 749490907, -1893920096, -296465103) & AwQ9sf;
+C8l7cQIL5y = FGcqHt730(886074666, 749490907, -1893920096, (unsigned short)-296465103) & AwQ9sf;
 break;
 }
 {
@@ -291,7 +291,7 @@ AwQ9sf ^= C8l7cQIL5y;
 std::cout << Ht_9U8() << Ht_9U8() << std::endl;
 C49rE00446 = (short)(C8l7cQIL5y * (e0le17OOT5));
 
-C49rE00446 = FGcqHt730(C8l7cQIL5y, AwQ9sf, 2093678214, -105798847);
+C49rE00446 = FGcqHt730(C8l7cQIL5y, AwQ9sf, 2093678214, (unsigned short)-105798847);
 
 {
 int i = 7;
@@ -359,7 +359,7 @@ case 4:
 AwQ9sf = Ht_9U8();
 break;
 case 5:
-u7un_41 = FGcqHt730(u7un_41, C8l7cQIL5y, C49rE00446, -2030587196);
+u7un_41 = FGcqHt730(u7un_41, C8l7cQIL5y, C49rE00446, (unsigned short)-2030587196);
 break;
 case 6:
 C8l7cQIL5y = m5nlGSN_();
@@ -385,7 +385,7 @@ while (j < 9);
 switch (AwQ9sf)
 {
 case 0:
-C49rE00446 = FGcqHt730(1357658382, 1480539842, y6853GLFWS, 1365721749);
+C49rE00446 = FGcqHt730(1357658382, 1480539842, y6853GLFWS, (unsigned short)1365721749);
 break;
 case 1:
 AwQ9sf = m5nlGSN_();
@@ -471,7 +471,7 @@ case 'd':
 C8l7cQIL5y = Ht_9U8();
 break;
 case 'e':
-C49rE00446 = FGcqHt730(C49rE00446, C8l7cQIL5y, AwQ9sf, 2136617875);
+C49rE00446 = FGcqHt730(C49rE00446, C8l7cQIL5y, AwQ9sf, (unsigned short)2136617875);
 break;
 case 'f':
 AwQ9sf = e0le17OOT5 & C8l7cQIL5y;

@@ -19,7 +19,7 @@ short VJBgRI();
 int main()
 {
     unsigned short    GMwc9j6;
-    GMwc9j6    =    1315700725;
+    GMwc9j6    =    (unsigned short)1315700725;
     long long    GDgU;
     GDgU    =    1576196556;
  int Q5JA;
@@ -35,7 +35,7 @@ int main()
     float    d1bk;
     d1bk    =    -2060878433;
 	unsigned short	UKLE;
-	UKLE	=	103495190;
+	UKLE	=	(unsigned short)103495190;
 	char	Yjh6o1CLA;
 	Yjh6o1CLA	=	0;
   unsigned int  iUc9_4;
@@ -47,7 +47,7 @@ int main()
   unsigned long  bGzs1duBV_;
   bGzs1duBV_  =  0;
   unsigned short  u2fe_7Dv3n;
-  u2fe_7Dv3n  =  2017166322;
+  u2fe_7Dv3n  =  (unsigned short)2017166322;
 	unsigned long	T_gIR;
 	T_gIR	=	-251586530;
   unsigned long long  X1LX5_k5;
@@ -60,7 +60,7 @@ int i = 0;
 while (i < 2)
 {
 ++i;
-GMwc9j6 = qeLn60I4Od(-910723867, Q5JA);
+GMwc9j6 = qeLn60I4Od((unsigned char)-910723867, Q5JA);
 }
 }
 
@@ -91,7 +91,7 @@ l274 = (int)ceil(ImDij3b1u4);
 }
 else
 {
-cout << MFGGY << VJBgRI() << qeLn60I4Od(2141059708, 379272130) << nzpMUD2Of << endl;
+cout << MFGGY << VJBgRI() << qeLn60I4Od((unsigned char)2141059708, 379272130) << nzpMUD2Of << endl;
 }
 
 for (int i = 4; i >= 0; --i)
@@ -125,7 +125,7 @@ try
 {
 try
 {
-l274 = qeLn60I4Od(1110030644, 602409651);
+l274 = qeLn60I4Od((unsigned char)1110030644, 602409651);
 }
 catch (int& errorCode)
 {
@@ -212,6 +212,6 @@ long    hyOB(unsigned short    LkA2e,unsigned long    K7kLj2,unsigned short    B
 }
 
 short VJBgRI() {
- return 38606453;
+ return (short)38606453;
 }
 

@@ -32,7 +32,7 @@ else
 switch (kT019L)
 {
 case 'a':
-SxwJ = xFjG_IBl(r_JADWAF8, -1870247169, -1366553265, GM1USmZ3) << t6E680;
+SxwJ = xFjG_IBl(r_JADWAF8, (short)-1870247169, -1366553265, GM1USmZ3) << t6E680;
 break;
 case 'b':
 V1Ult_rJR6 = Cjqc_32lb(V1Ult_rJR6, (unsigned short)2093628973, kV3kW, 548973041);
@@ -76,7 +76,7 @@ case 3:
 n0LJz55 *= ZWv9v91D;
 break;
 default:
-N_Q1 = eNT_OfuKf2(-832299248, kV3kW, t6E680, Fns8tHq, V1Ult_rJR6);
+N_Q1 = eNT_OfuKf2((unsigned short)-832299248, kV3kW, t6E680, Fns8tHq, V1Ult_rJR6);
 break;
 }
 
@@ -99,7 +99,7 @@ case 1:
 YB6Z_2M >>= ZWv9v91D;
 break;
 case 2:
-k8Do8Oi0_ = xFjG_IBl(k8Do8Oi0_, 220250777, 1671969008, (short)912716637);
+k8Do8Oi0_ = xFjG_IBl(k8Do8Oi0_, (short)220250777, 1671969008, (short)912716637);
 break;
 case 3:
 n__Fpj = Elib(1425707436, 1281686262, -1156210271, 1791878915, a21FU_8_);
@@ -125,7 +125,7 @@ else if (iySNzE4sB != SD20)
 {
 try
 {
-FFLBv6A = eNT_OfuKf2(323283131, r_JADWAF8, (unsigned short)-763764112, s7_gPK9J, 989175274);
+FFLBv6A = eNT_OfuKf2((unsigned short)323283131, r_JADWAF8, (unsigned short)-763764112, s7_gPK9J, 989175274);
 }
 catch (int& errorCode)
 {
@@ -216,7 +216,7 @@ std::cout << Elib(-1971531816, NiSzZA, 2107054903, nMw0hZJ, -709967597) << std::
 }
 }
 }
-Fq731_ = xFjG_IBl(vR6xjvgcE_, NiSzZA, -1260716607, 1663426650) % jKB54L;
+Fq731_ = xFjG_IBl(vR6xjvgcE_, NiSzZA, -1260716607, (short)1663426650) % jKB54L;
 RN8yjI = KWXsP / FFLBv6A;
 
 vR6xjvgcE_ = Cjqc_32lb(-753256256, ATxME5t, -483144883, (short)-1771228104);
@@ -259,7 +259,7 @@ break;
 std::cout << eNT_OfuKf2(a_4o, ruA6216a, w9N6q837M, kT019L, -632327454) << Elib(-519613596, -1671095203, w9N6q837M, -2030693926, RN8yjI) << std::endl;
 if (b1uWrf2mt < 1259227098)
 {
-std::cout << "mLu0S3H4" << X45eg1E << "X6v8nEUtX" << Cjqc_32lb(1504822999, ruA6216a, -1213171989, -952245775) << "r2_49OhE7" << std::endl;
+std::cout << "mLu0S3H4" << X45eg1E << "X6v8nEUtX" << Cjqc_32lb(1504822999, ruA6216a, -1213171989, (short)-952245775) << "r2_49OhE7" << std::endl;
 }
 else
 {
@@ -285,7 +285,7 @@ return 0;
 
 unsigned short int    Elib(unsigned long long    H3630E9QDl,unsigned long    Np84Vji,long long    b4jGktr6,long    HSD5sNK,long long    tVZ0KzV6)
 {
-    return    -2037444705;
+    return    (unsigned short)-2037444705;
 }
 
 long long xFjG_IBl(unsigned char p5V2_ZA9,short int R6y6,long Fd8dmy,short int wgpgwq_wW)

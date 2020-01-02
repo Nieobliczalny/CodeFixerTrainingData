@@ -16,7 +16,7 @@ long sw4I()
 int main(int argc, char** argv)
 {
     unsigned int    pey7    =    453296371;
-  unsigned short  V3HP_G  =  307349485;
+  unsigned short  V3HP_G  =  (unsigned short)307349485;
  char n897 = 0;
     double    RY_Q    =    -1553397600;
   unsigned long long  zR1bg  =  -1828563691;

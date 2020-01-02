@@ -98,7 +98,7 @@ int main()
   ZVvGK1GFYl  =  0;
   R0cgXf  =  0;
 
-ZVvGK1GFYl = Y_2E(-1150330316, -133060586);
+ZVvGK1GFYl = Y_2E(-1150330316, (unsigned short)-133060586);
 switch (Wq9oo1)
 {
 case 0:
@@ -111,7 +111,7 @@ case 2:
 tkdGiaf = QgH_(tkdGiaf, U3u1727iJ);
 break;
 case 3:
-yR9Ophl = QgH_(yR9Ophl, -1407013755);
+yR9Ophl = QgH_(yR9Ophl, (unsigned short)-1407013755);
 break;
 case 4:
 R0cgXf = Y_2E(r6J7, (unsigned short)-2143588531);
@@ -213,7 +213,7 @@ while (j >= 0);
 }
 }
 
-n1_UG9s7 = QgH_(n1_UG9s7, 1756414223);
+n1_UG9s7 = QgH_(n1_UG9s7, (unsigned short)1756414223);
 TeK9 = (unsigned long)(r6J7);
 
 if (te3lWKHV == -1496821730)
@@ -254,6 +254,6 @@ unsigned char Y_2E(unsigned int Sc5uPrT,unsigned short int HuA676VD_F)
 }
 
 short  QgH_(unsigned long long  yhDT7XvjA,unsigned short int  o7EphE4UN)  {
-  return  581788178;
+  return  (short)581788178;
 }
 

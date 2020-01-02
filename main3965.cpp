@@ -18,7 +18,7 @@ long Hc1qVdr(char mfyz_,short int FJ1_J)
 }
 
 unsigned short int    jZZh()    {
-    return    1418070292;
+    return    (unsigned short)1418070292;
 }
 
 int main(int argc, char** argv) {
@@ -30,7 +30,7 @@ int i = 9;
 do
 {
 i--;
-sXKyM = Hc1qVdr(2114822840, (short)1368264536);
+sXKyM = Hc1qVdr((char)2114822840, (short)1368264536);
 }
 while (i >= 0);
 }

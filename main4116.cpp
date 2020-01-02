@@ -115,7 +115,7 @@ vt99aT++;
 break;
 case 'd':
 case 'D':
-d07O5NP = dlNe3P7(2147464102, VjrVr);
+d07O5NP = dlNe3P7((unsigned short)2147464102, VjrVr);
 break;
 case 'e':
 case 'E':
@@ -138,7 +138,7 @@ case 'I':
 PE24_ = T921L6 - 32403127;
 break;
 default:
-F493f1XEou = dlNe3P7(1323312531, SdhAV);
+F493f1XEou = dlNe3P7((unsigned short)1323312531, SdhAV);
 break;
 }
 }
@@ -176,7 +176,7 @@ int j = 0;
 do
 {
 ++j;
-std::cout << F2_YZbc3(VjrVr, 1645501822, F493f1XEou, 1559141549) << "nKFXZ08xG" << "I_bZ" << "IRxgDotr" << std::endl;
+std::cout << F2_YZbc3(VjrVr, (unsigned short)1645501822, F493f1XEou, 1559141549) << "nKFXZ08xG" << "I_bZ" << "IRxgDotr" << std::endl;
 }
 while (j < 2);
 }
@@ -188,7 +188,7 @@ if ((F493f1XEou < HvDFRK_n) || (VjrVr >= -1200990944))
 switch (Ty_y06)
 {
 case 0:
-VjrVr = F2_YZbc3(-1771851294, -1375152001, SdhAV, vt99aT);
+VjrVr = F2_YZbc3(-1771851294, (unsigned short)-1375152001, SdhAV, vt99aT);
 break;
 case 1:
 HvDFRK_n %= F493f1XEou;
@@ -283,7 +283,7 @@ switch (Xhw7df_N)
 {
 case 'a':
 case 'A':
-PE24_ = dlNe3P7(1635854979, SdhAV);
+PE24_ = dlNe3P7((unsigned short)1635854979, SdhAV);
 break;
 case 'b':
 case 'B':
@@ -295,7 +295,7 @@ v8uxyfwhr <<= 762125932;
 break;
 case 'd':
 case 'D':
-l5KxNe = F2_YZbc3(156927192, -275687174, F493f1XEou, SdhAV);
+l5KxNe = F2_YZbc3(156927192, (unsigned short)-275687174, F493f1XEou, SdhAV);
 break;
 default:
 VjrVr = dlNe3P7((unsigned short)-352672942, -346929316);

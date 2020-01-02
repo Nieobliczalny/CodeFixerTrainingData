@@ -577,6 +577,6 @@ long  mol5()  {
 
 unsigned short int    aKiMm8Q6(unsigned int    awNw8)
 {
-    return    1239522058;
+    return    (unsigned short)1239522058;
 }
 

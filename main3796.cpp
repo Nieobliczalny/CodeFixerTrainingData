@@ -138,7 +138,7 @@ if (js5U_il9 < 1300022398)
 {
 try
 {
-L183h = I0EIp2G3s(-1454356687, LB6F, (unsigned char)1544696557, 1909884009, 748581721) >> 599068175;
+L183h = I0EIp2G3s((char)-1454356687, LB6F, (unsigned char)1544696557, 1909884009, 748581721) >> 599068175;
 }
 catch (int& errorCode)
 {
@@ -196,7 +196,7 @@ while (i >= 0);
 }
 
 std::cout << "Dq9u_nj1" << OwEpfiCi << std::endl;
-AaL_ = I0EIp2G3s(-1058445661, e2xu4MMO5o, Wto11, ciMeo3Rm, -623732318);
+AaL_ = I0EIp2G3s((char)-1058445661, e2xu4MMO5o, Wto11, ciMeo3Rm, -623732318);
 std::cout << D_dw62 << l8755() << EYayxXFq((unsigned short)425725409) << SeIs2K40P << std::endl;
 
 if (Ojr_3 <= kIxqs_GH)
@@ -212,7 +212,7 @@ std::cout << M7ldI4KpsN(bfRYnN98) << aYL3B1ljP(bfRYnN98, B_V2u7O7, pZ2zF, 168080
 
 if ((qqV_23IWOW & 25539246) || (bfRYnN98 <= 414689176))
 {
-std::cout << aYL3B1ljP(bfRYnN98, B_V2u7O7, pZ2zF, EaCsWSoKu) << afAq7L_zw << M7ldI4KpsN(1001153715) << "p3ARYX" << L183h << std::endl;
+std::cout << aYL3B1ljP(bfRYnN98, B_V2u7O7, pZ2zF, EaCsWSoKu) << afAq7L_zw << M7ldI4KpsN((short)1001153715) << "p3ARYX" << L183h << std::endl;
 }
 else
 {
@@ -225,7 +225,7 @@ if ((O7qc0L == -1033985989) && (zcoT2eO >= 760144514))
 {
 for (int k = 0; k < 3; k++)
 {
-m0f7c_K1A6 = EYayxXFq(-805640445);
+m0f7c_K1A6 = EYayxXFq((unsigned short)-805640445);
 }
 }
 else
@@ -238,7 +238,7 @@ if (cd2EI66u6 == 860455223)
 {
 for (int j = 8; j >= 0; j--)
 {
-std::cout << aYL3B1ljP(DbGuuyqXf, NQ9f9j, 1067322370, 7508193) << u74Wlz_t << std::endl;
+std::cout << aYL3B1ljP(DbGuuyqXf, NQ9f9j, (unsigned short)1067322370, 7508193) << u74Wlz_t << std::endl;
 }
 }
 else
@@ -257,7 +257,7 @@ else if (Nmi9Ho != -1716792033)
 switch (qqV_23IWOW)
 {
 case 0:
-D_dw62 = (m0f7c_K1A6 & qqV_23IWOW) ? A0b8Lm : I0EIp2G3s(-1679910341, -857069056, (unsigned char)698446118, Ok7oVp4, Ojr_3);
+D_dw62 = (m0f7c_K1A6 & qqV_23IWOW) ? A0b8Lm : I0EIp2G3s((char)-1679910341, -857069056, (unsigned char)698446118, Ok7oVp4, Ojr_3);
 break;
 case 1:
 m0f7c_K1A6 = EYayxXFq(zcoT2eO);
@@ -281,7 +281,7 @@ case 7:
 qqV_23IWOW = EYayxXFq(LB6F);
 break;
 case 8:
-K9xPb = aYL3B1ljP(-414985011, 967978318, (unsigned short)679478456, 1921793067);
+K9xPb = aYL3B1ljP(-414985011, (unsigned char)967978318, (unsigned short)679478456, 1921793067);
 break;
 case 9:
 PQ1h = l8755();
@@ -349,7 +349,7 @@ else
 {
 for (int k = 5; k >= 0; --k)
 {
-DbGuuyqXf = aYL3B1ljP(-827450877, 1669706929, (unsigned short)1598051174, cpRb);
+DbGuuyqXf = aYL3B1ljP(-827450877, (unsigned char)1669706929, (unsigned short)1598051174, cpRb);
 }
 }
 }
@@ -376,7 +376,7 @@ break;
 
 for (int i = 0; i < 1; ++i)
 {
-m0f7c_K1A6 = EYayxXFq(-655996065);
+m0f7c_K1A6 = EYayxXFq((unsigned short)-655996065);
 }
 
 return 0;

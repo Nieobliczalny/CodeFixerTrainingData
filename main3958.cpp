@@ -18,7 +18,7 @@ short yS531d()
 int main(void)
 {
   short int  ajlI_D  =  0;
- short i8rek5 = -1507361594;
+ short i8rek5 = (short)-1507361594;
 	long	m0JNJ	=	0;
     short    nbHf16WrB    =    0;
     unsigned int    aOBGaEN    =    -1061594040;
@@ -28,7 +28,7 @@ int main(void)
  long long F44Ql = 0;
   long long  y5QdOGbn6  =  -397502395;
  long vXZrtoj = -2076338391;
- char o3sN = 378499246;
+ char o3sN = (char)378499246;
     int    yU_44RC    =    -726806975;
  short int u5m0A5 = -1904989867;
     short int    H2n21u2    =    1939243909;

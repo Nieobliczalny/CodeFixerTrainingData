@@ -12,7 +12,7 @@
 
 int main()
 {
- unsigned short uY_4A2z = -1595345621;
+ unsigned short uY_4A2z = (unsigned short)-1595345621;
  char fjh1g4zmN2 = (char)1366107291;
   float  cI9b1e  =  -1048558394;
     unsigned char    foOCq    =    1328682193;
@@ -27,7 +27,7 @@ int main()
     float    bgOTkxu1    =    -38971564;
   unsigned long  o9nuC5_  =  -139986602;
     long    ls6A    =    1097019905;
-	short int	aZ5i56	=	-801624973;
+	short int	aZ5i56	=	(short)-801624973;
 	unsigned short int	cw4L1	=	(unsigned short)-1213390608;
   char  YW02d  =  -520744620;
  float M5hU5 = -1533000692;

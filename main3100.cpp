@@ -51,7 +51,7 @@ do
 {
 try
 {
-U3K51sno4 = c_qK5(-1360891020);
+U3K51sno4 = c_qK5((short)-1360891020);
 }
 catch (int& errorCode)
 {
@@ -66,7 +66,7 @@ while (j < 1);
 switch (zS13U3xcH0)
 {
 case 0:
-UWo3L730K7 = c_qK5(-2127196431);
+UWo3L730K7 = c_qK5((short)-2127196431);
 break;
 case 1:
 U3K51sno4 = c_qK5(Bdwd_R2ij);
@@ -81,7 +81,7 @@ case 4:
 F7LWd = UWo3L730K7 - 1313577758;
 break;
 case 5:
-UWo3L730K7 = c_qK5(1755755705);
+UWo3L730K7 = c_qK5((short)1755755705);
 break;
 case 6:
 NlAQM = N_ZJ * F7LWd;
@@ -105,7 +105,7 @@ case 2:
 KK_3t = eYjCz(KK_3t);
 break;
 case 3:
-IR7kmQz_1K = eYjCz(779810602);
+IR7kmQz_1K = eYjCz((short)779810602);
 break;
 case 4:
 U3K51sno4 = c_qK5(pR2q3FoE);
@@ -118,7 +118,7 @@ qdMvoE = eYjCz((short)1696583343);
 break;
 }
 
-std::cout << "M0pXU" << A9j5 << c_qK5(20461057) << std::endl;
+std::cout << "M0pXU" << A9j5 << c_qK5((short)20461057) << std::endl;
 
 switch (UWo3L730K7)
 {
@@ -132,7 +132,7 @@ default:
 KK_3t %= 907529369;
 break;
 }
-std::cout << HmAc << "JqO5x" << c_qK5(-119386894) << "LS79XXQ" << std::endl;
+std::cout << HmAc << "JqO5x" << c_qK5((short)-119386894) << "LS79XXQ" << std::endl;
 for (int i = 8; i >= 0; --i)
 {
 std::cout << "cLkVX77" << c_qK5(qdMvoE) << c_qK5((short)1236646969) << std::endl;
@@ -149,7 +149,7 @@ case 0:
 U3K51sno4 = c_qK5(A9j5);
 break;
 case 1:
-U3K51sno4 = c_qK5(263495957);
+U3K51sno4 = c_qK5((short)263495957);
 break;
 case 2:
 F7LWd = eYjCz(F7LWd);
@@ -174,7 +174,7 @@ case 0:
 UWo3L730K7 = c_qK5(F7LWd);
 break;
 case 1:
-U3K51sno4 = c_qK5(-418524018);
+U3K51sno4 = c_qK5((short)-418524018);
 break;
 case 2:
 N_ZJ = c_qK5((short)-1642346800) >> 379961624;
@@ -212,7 +212,7 @@ zgpAQcD0_ = KK_3t | F7LWd;
 }
 else
 {
-U3K51sno4 = c_qK5(1928464796);
+U3K51sno4 = c_qK5((short)1928464796);
 }
 }
 }
@@ -260,7 +260,7 @@ try
 int k = 10;
 while (k >= 0)
 {
-V4us49yY = eYjCz(772332651);
+V4us49yY = eYjCz((short)772332651);
 k--;
 }
 }
@@ -324,7 +324,7 @@ j++;
 }
 }
 }
-pKOE1FANiV = eYjCz(1426732484);
+pKOE1FANiV = eYjCz((short)1426732484);
 
 KK_3t = (unsigned long)(H2FBDho_e);
 return 0;

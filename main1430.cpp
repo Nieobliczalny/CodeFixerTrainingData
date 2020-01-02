@@ -8,7 +8,7 @@
 
 
 short    lW__Kx(short    yL7zZ,unsigned char    J9t56kz,long long    HZenQ,unsigned char    YUxJ,unsigned int    NVzsTe)    {
-    return    -1666337264;
+    return    (short)-1666337264;
 }
 
 long long    G9A_902P(char    AGgZ2G_,short    s22Y,short int    F7k0434L)    {
@@ -22,7 +22,7 @@ unsigned int    l0z45CLGzc(unsigned short int    il2c,long long    iCVabC9)
 
 char  AiOC(short int  r904h4l5bO,unsigned short int  Td5_,unsigned short  zVnR,unsigned short int  jXJhTEJvl)
 {
-  return  334827381;
+  return  (char)334827381;
 }
 
 int main() {
@@ -49,7 +49,7 @@ vK_S = (int)ceil(RR7v8A);
 }
 else if (Ua4_3f058 & -279645922)
 {
-D2SPwk = lW__Kx(-1680278239, bE3Ah, AD5QrT0, O_Y5104, bNvSyN36T3);
+D2SPwk = lW__Kx((short)-1680278239, bE3Ah, AD5QrT0, O_Y5104, bNvSyN36T3);
 }
 else
 {
@@ -65,7 +65,7 @@ C7wGkg8 = rCo2P40 * 1750328559;
 }
 else if (GFa6z & 2046953287)
 {
-std::cout << AiOC(D2SPwk, bE3Ah, -228444253, O_Y5104) << "lXVuzmvv" << std::endl;
+std::cout << AiOC(D2SPwk, bE3Ah, (unsigned short)-228444253, O_Y5104) << "lXVuzmvv" << std::endl;
 }
 else
 {
@@ -88,7 +88,7 @@ case 3:
 b10r25H = (int)abs(GFa6z) + (1908488916);
 break;
 case 4:
-R16Z6Y = AiOC(-465946200, bE3Ah, L989tp7VzH, R16Z6Y);
+R16Z6Y = AiOC((short)-465946200, bE3Ah, L989tp7VzH, R16Z6Y);
 break;
 case 5:
 Z2J7 = (RR7v8A >= uAFw) ? AiOC(Ua4_3f058, bE3Ah, (unsigned short)-2012251340, 569528970) : 910154083;
@@ -100,7 +100,7 @@ case 7:
 R16Z6Y = I0F31H * 1694175804;
 break;
 default:
-z21uz = G9A_902P(z21uz, b10r25H, 1962620417);
+z21uz = G9A_902P(z21uz, b10r25H, (short)1962620417);
 break;
 }
 
@@ -127,7 +127,7 @@ if (D2SPwk == b10r25H)
 int k = 5;
 while (k >= 0)
 {
-O_Y5104 = l0z45CLGzc(-1121495827, O_Y5104);
+O_Y5104 = l0z45CLGzc((unsigned short)-1121495827, O_Y5104);
 k--;
 }
 }
@@ -146,7 +146,7 @@ R16Z6Y -= 753746315;
 }
 else
 {
-AixRni2 = AiOC(-1062749633, (unsigned short)-1127625164, -660951145, 1922643271);
+AixRni2 = AiOC((short)-1062749633, (unsigned short)-1127625164, -660951145, 1922643271);
 }
 
 z21uz = (GFa6z & -1035051611) ? 2088764330 : rCo2P40;
@@ -167,7 +167,7 @@ if (I0F31H <= 517001910)
 {
 if (V9gY1j5Z > 1049820096)
 {
-z21uz = AiOC(O_Y5104, 1409375026, (unsigned short)1227340254, D2SPwk) | 176764092;
+z21uz = AiOC(O_Y5104, (unsigned short)1409375026, (unsigned short)1227340254, D2SPwk) | 176764092;
 }
 }
 else
@@ -186,7 +186,7 @@ bE3Ah = l0z45CLGzc(V9gY1j5Z, 1765347826);
 break;
 case 'b':
 case 'B':
-AD5QrT0 = lW__Kx(-1059868444, bE3Ah, 1249702732, V9gY1j5Z, vK_S);
+AD5QrT0 = lW__Kx((short)-1059868444, bE3Ah, 1249702732, V9gY1j5Z, vK_S);
 break;
 case 'c':
 case 'C':
@@ -198,7 +198,7 @@ AixRni2 = AiOC(AixRni2, -392516714, 1007650092, 187704292);
 break;
 case 'e':
 case 'E':
-v4xw0oNds3 = lW__Kx(1589348082, 730627531, -45731999, vK_S, GFa6z);
+v4xw0oNds3 = lW__Kx((short)1589348082, 730627531, -45731999, vK_S, GFa6z);
 break;
 case 'f':
 case 'F':
@@ -211,6 +211,7 @@ break;
 
 if (((V9gY1j5Z != 1001047004) && (JoV1GgyKJ)) && ((GFa6z & L989tp7VzH) && (V9gY1j5Z > R16Z6Y)))
 {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
 std::cout << AiOC(v4xw0oNds3, Z2J7, -59866669, RR7v8A) << G9A_902P(v4xw0oNds3, Z2J7, -1205982942) << G9A_902P(-4839353, -1118808809, -1069691834) << AiOC(v4xw0oNds3, 1509771813, 2013801744, -846961430) << std::endl;
 }
 else if (O_Y5104 & Ua4_3f058)
@@ -301,7 +302,7 @@ for (int j = 2; j >= 0; --j)
 {
 if (uAFw != z21uz)
 {
-RR7v8A = lW__Kx(O_Y5104, -890281902, RR7v8A, (unsigned char)1313935834, 1778882810);
+RR7v8A = lW__Kx(O_Y5104, (unsigned char)-890281902, RR7v8A, (unsigned char)1313935834, 1778882810);
 }
 else if (Ua4_3f058 & 1806266070)
 {
@@ -317,7 +318,7 @@ uAFw = GFa6z ^ 661340537;
 }
 else
 {
-L989tp7VzH = l0z45CLGzc(-1803742401, bNvSyN36T3);
+L989tp7VzH = l0z45CLGzc((unsigned short)-1803742401, bNvSyN36T3);
 }
 }
 i++;
@@ -333,7 +334,7 @@ if (Df3PE < 637134797)
 {
 if ((GFa6z & bE3Ah) && (RR7v8A != D2SPwk))
 {
-D2SPwk = lW__Kx(GFa6z, -1260453784, 831449749, Df3PE, z21uz);
+D2SPwk = lW__Kx(GFa6z, (unsigned char)-1260453784, 831449749, Df3PE, z21uz);
 }
 else
 {

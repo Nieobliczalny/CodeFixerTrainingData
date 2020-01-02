@@ -27,7 +27,7 @@ while (i < 1)
 switch (qheD7)
 {
 case 'a':
-Z4MYSsrt_H = SDQ4w(-1362745319, M1L8gt, n6M74JJa65, (char)-1708285572);
+Z4MYSsrt_H = SDQ4w((unsigned short)-1362745319, M1L8gt, n6M74JJa65, (char)-1708285572);
 break;
 }
 }
@@ -75,7 +75,7 @@ iG7g = (unsigned short int)(M1L8gt * iG7g);
 
 if (n6M74JJa65 == 0)
 {
-	M1L8gt = SDQ4w(-1403831519, -1059001243, n6M74JJa65, BqvKXHCYR7) / n6M74JJa65;
+	M1L8gt = SDQ4w((unsigned short)-1403831519, -1059001243, n6M74JJa65, BqvKXHCYR7) / n6M74JJa65;
 }
 
 qheD7 = (unsigned long long)(M1L8gt);
@@ -103,7 +103,7 @@ case 'g':
 qheD7 >>= 163330217;
 break;
 case 'h':
-Z4MYSsrt_H = SDQ4w(BqvKXHCYR7, 1517854789, 820020054, 1641047472);
+Z4MYSsrt_H = SDQ4w(BqvKXHCYR7, 1517854789, 820020054, (char)1641047472);
 break;
 case 'i':
 iG7g = SDQ4w((unsigned short)-1863944103, iG7g, -1491350548, 1709627372);
@@ -122,7 +122,7 @@ if (qheD7 > BqvKXHCYR7)
 {
 if (qheD7 == n6M74JJa65)
 {
-GPhAP18WST = SDQ4w(GPhAP18WST, BqvKXHCYR7, M1L8gt, 365479772);
+GPhAP18WST = SDQ4w(GPhAP18WST, BqvKXHCYR7, M1L8gt, (char)365479772);
 }
 else if (M1L8gt)
 {
@@ -151,7 +151,7 @@ case 'b':
 M1L8gt <<= 742017243;
 break;
 case 'c':
-GPhAP18WST = SDQ4w(M1L8gt, qheD7, GPhAP18WST, 1819252152);
+GPhAP18WST = SDQ4w(M1L8gt, qheD7, GPhAP18WST, (char)1819252152);
 break;
 case 'd':
 qheD7 <<= BqvKXHCYR7;
@@ -166,7 +166,7 @@ case 'g':
 GPhAP18WST = SDQ4w(GPhAP18WST, M1L8gt, qheD7, BqvKXHCYR7);
 break;
 case 'h':
-GPhAP18WST = SDQ4w(GPhAP18WST, -846853432, iG7g, 325048362);
+GPhAP18WST = SDQ4w(GPhAP18WST, -846853432, iG7g, (char)325048362);
 break;
 case 'i':
 BqvKXHCYR7 ^= M1L8gt;
@@ -184,7 +184,7 @@ do
 {
 for (int k = 1; k >= 0; --k)
 {
-n6M74JJa65 = SDQ4w(21004176, M1L8gt, -1813956258, (char)1425395508);
+n6M74JJa65 = SDQ4w((unsigned short)21004176, M1L8gt, -1813956258, (char)1425395508);
 }
 j--;
 }
@@ -212,7 +212,7 @@ try
 {
 if (M1L8gt & n6M74JJa65)
 {
-GPhAP18WST = SDQ4w(-1013306273, qheD7, iG7g, Z4MYSsrt_H);
+GPhAP18WST = SDQ4w((unsigned short)-1013306273, qheD7, iG7g, Z4MYSsrt_H);
 }
 else if (GPhAP18WST > iG7g)
 {

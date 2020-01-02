@@ -18,7 +18,7 @@ long  gQ86s66()  {
 
 unsigned char  kGoVc7(int  zF_5qQ,long long  j72VP_)
 {
-  return  1788816212;
+  return  (unsigned char)1788816212;
 }
 
 unsigned char A8DP(unsigned long long rj_pe,unsigned int y4TB_K1pv,short int sFB4fkyk,long bTQfSg3,int hXHfNMg)
@@ -34,7 +34,7 @@ int main(void)
 {
 	int	WsyYg	=	-1223216331;
  unsigned long long Fu46j5Sb = -1040860149;
-	unsigned short int	EBJ_BLYv	=	-977387571;
+	unsigned short int	EBJ_BLYv	=	(unsigned short)-977387571;
   long  SE2L  =  -1653641841;
   double  J53_v1W8N  =  1364315975;
   unsigned short int  UxqY_2A  =  (unsigned short)-611034898;
@@ -47,7 +47,7 @@ int main(void)
  float Y598Ho_8 = 1750733227;
  double yLMg = -1203768335;
  int pE6s = 951704960;
-	unsigned char	Bgyv1	=	78367054;
+	unsigned char	Bgyv1	=	(unsigned char)78367054;
 	double	H_7lti0Ab	=	-1572464830;
  long double U2y1m = 1559314083;
     unsigned char    ulE1T6g_yC    =    (unsigned char)1749172821;
@@ -132,7 +132,7 @@ if (gQ86s66() == 0)
 	EBJ_BLYv = O5_Ia5NhX / gQ86s66();
 }
 
-BqT_ = fWHde(1303256258, -758634958, 107986779);
+BqT_ = fWHde(1303256258, -758634958, (short)107986779);
 {
 int i = 1;
 do
@@ -216,7 +216,7 @@ n9PF9G7J = (int)abs(O5_Ia5NhX) * 0;
 pE6s = TFyXl();
 
 ANhHOozWuJ = TFyXl();
-std::cout << A8DP(ANhHOozWuJ, Bgyv1, -837170555, SE2L, O5_Ia5NhX) << UxqY_2A << kGoVc7(256399140, Bgyv1) << std::endl;
+std::cout << A8DP(ANhHOozWuJ, Bgyv1, (short)-837170555, SE2L, O5_Ia5NhX) << UxqY_2A << kGoVc7(256399140, Bgyv1) << std::endl;
 
 H_7lti0Ab = (int)ceil(ANhHOozWuJ);
 switch (BqT_)
@@ -235,7 +235,7 @@ H_7lti0Ab = (int)floor(U2y1m);
 break;
 case 'd':
 case 'D':
-tG1AWs0o6_ = fWHde(-1105698016, 1138350060, -1014989040);
+tG1AWs0o6_ = fWHde(-1105698016, 1138350060, (short)-1014989040);
 break;
 case 'e':
 case 'E':

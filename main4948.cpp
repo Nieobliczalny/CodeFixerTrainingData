@@ -21,7 +21,7 @@ int main(int argc, char** argv)
 	long double	EEOf	=	-1390138429;
   long long  nf3d0e7  =  -107030539;
     double    Ch8t7qVKV    =    1257981905;
-  unsigned short  xzN2jh55  =  -966604583;
+  unsigned short  xzN2jh55  =  (unsigned short)-966604583;
   int  RmoA50  =  1208237077;
 	unsigned short	Pbq43	=	(unsigned short)1918730705;
  double G5GRix9hrt = 901594690;
@@ -31,7 +31,7 @@ int main(int argc, char** argv)
  float uOodzCGhy = -1291825944;
 	long long	zmvnX00V	=	0;
 	int	Oq85R2UzR	=	0;
- unsigned short int Q86Uo = 1039942631;
+ unsigned short int Q86Uo = (unsigned short)1039942631;
 	unsigned long	pH4r	=	1436112206;
     unsigned short    YzEyVbVq    =    (unsigned short)-264389542;
   unsigned short  LCYv8490jH  =  -1232698570;
@@ -41,7 +41,7 @@ int main(int argc, char** argv)
   unsigned int  aQu3cyq__  =  197519662;
     float    s5YJgwbvE    =    1024864155;
     short int    KYnO    =    -1371546179;
- unsigned short int DQ_I8G0C1v = 307964471;
+ unsigned short int DQ_I8G0C1v = (unsigned short)307964471;
  long q6GjiR2Sw = 220120602;
 	unsigned long long	nsz1Wps	=	1484546907;
   float  JwVk2  =  -137565509;
@@ -53,7 +53,7 @@ int main(int argc, char** argv)
 	unsigned short	cyPla1	=	(unsigned short)-1523401550;
 	long double	a8tD	=	-1116388569;
  int UCg16nK = -487234451;
-  unsigned short  v16_  =  1040649574;
+  unsigned short  v16_  =  (unsigned short)1040649574;
  float y_8X = -440789518;
   unsigned short int  yO9k1  =  1403891750;
  double M4i_rr = -1491654910;
@@ -64,7 +64,7 @@ int main(int argc, char** argv)
     short int    Fpm2    =    (short)-420920129;
   long double  EAN_fxht  =  -1566524605;
     float    lSZDX    =    1505276372;
-	char	d_s5R	=	1096309627;
+	char	d_s5R	=	(char)1096309627;
 	unsigned long	Q4_Q048c	=	-1077634629;
   long long  XSml  =  1399523347;
 	unsigned char	PO6j4AU	=	403579484;
@@ -77,7 +77,7 @@ int main(int argc, char** argv)
 	int	V6_S3P69	=	1134760369;
  unsigned int xk0SW1 = 1266197251;
     long double    JULkG    =    -1674397471;
-	unsigned short int	nRC1c9826	=	-165996471;
+	unsigned short int	nRC1c9826	=	(unsigned short)-165996471;
 
 std::cout << fr6hUl7f << std::endl;
 try
@@ -200,7 +200,7 @@ return 0;
 }
 
 unsigned short int	gARZI5_L2(unsigned long long	Ol25qY8708)	{
-	return	1506982055;
+	return	(unsigned short)1506982055;
 }
 
 unsigned long	P1Au(int	BPtCQKrsR)	{

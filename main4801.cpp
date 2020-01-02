@@ -61,7 +61,7 @@ while (j >= 0);
 }
 
 F6HkcVFWR = (unsigned int)(H6sV3);
-std::cout << GQC4w9ep(-1746174982, OR84sHb8F_, q11J, 1177329891) << std::endl;
+std::cout << GQC4w9ep(-1746174982, OR84sHb8F_, q11J, (unsigned short)1177329891) << std::endl;
 Tt5OXr3 >>= HOZB8;
 switch (V2_x)
 {
@@ -91,7 +91,7 @@ RtC6R /= m9__6iTZJ;
 }
 else
 {
-C181rS7KG_ = GQC4w9ep(-475139742, 1185517987, VKSvLz670, 82852078);
+C181rS7KG_ = GQC4w9ep(-475139742, 1185517987, VKSvLz670, (unsigned short)82852078);
 }
 }
 }
@@ -107,7 +107,7 @@ catch (int& errorCode)
 RtC6R = qx3_ / c90PTA;
 }
 
-l7H1vMTYV = VKSvLz670 / GQC4w9ep(620515612, Oz85F, kl7I7M, -964529851);
+l7H1vMTYV = VKSvLz670 / GQC4w9ep(620515612, Oz85F, kl7I7M, (unsigned short)-964529851);
 {
 int i = 0;
 while (i < 9)
@@ -129,7 +129,7 @@ int k = 4;
 while (k >= 0)
 {
 k--;
-CWw_82_CR = Q81v(C181rS7KG_, 1548619944);
+CWw_82_CR = Q81v(C181rS7KG_, (short)1548619944);
 }
 }
 }
@@ -153,7 +153,7 @@ long long	Q81v(unsigned short int	iHjlb45go,short int	jrQ_)	{
 }
 
 unsigned char	COrdP_hwa(long	VDOk,unsigned char	w_5Uqf2ek,short int	gV2B,unsigned short int	p9zvO7,char	z4NERt0Azl)	{
-	return	-605317382;
+	return	(unsigned char)-605317382;
 }
 
 unsigned short GQC4w9ep(unsigned long vlLr6n,long long p0G7_CO9,unsigned char wN_sg_V,unsigned short b_K_vfOb)

@@ -13,7 +13,7 @@
 
 
 short int D7j1aamc5c() {
- return 1754029826;
+ return (short)1754029826;
 }
 
 short	UJV4i(unsigned short int	Ybero5s)	{
@@ -35,7 +35,7 @@ int main()
 	long	N8wPM;
 	N8wPM	=	1249517303;
 	unsigned short	X0wDSbq;
-	X0wDSbq	=	1686275189;
+	X0wDSbq	=	(unsigned short)1686275189;
     unsigned int    V6SkWJt7B3;
     V6SkWJt7B3    =    -2006339297;
   short  nqSrf4u;
@@ -45,7 +45,7 @@ int main()
  long CQ8C42;
  CQ8C42 = -185293005;
   unsigned short  VawZ_6cT6;
-  VawZ_6cT6  =  1089278214;
+  VawZ_6cT6  =  (unsigned short)1089278214;
  short zSid;
  zSid = 223267536;
     unsigned long long    a5vs6jQ2;
@@ -55,7 +55,7 @@ int main()
   long long  S6_2_XJl;
   S6_2_XJl  =  -1630852955;
 	unsigned short int	X6VwVQK;
-	X6VwVQK	=	-699872787;
+	X6VwVQK	=	(unsigned short)-699872787;
     unsigned short int    UL254J42bJ;
     UL254J42bJ    =    -5485192;
     unsigned long long    Gljtb_7nG;
@@ -65,7 +65,7 @@ int main()
  long tCm26Sk5F;
  tCm26Sk5F = 650735975;
 	short int	Wreqh2CFU2;
-	Wreqh2CFU2	=	641465587;
+	Wreqh2CFU2	=	(short)641465587;
 	unsigned long long	wF90u74_52;
 	wF90u74_52	=	99108846;
 	short	z2li_H45;
@@ -77,7 +77,7 @@ int main()
  double FWxU;
  FWxU = 329761306;
  short int pK7X;
- pK7X = -1218718385;
+ pK7X = (short)-1218718385;
   long double  LWl_d;
   LWl_d  =  -1848206180;
 	unsigned short	dO6aiKPi1;
@@ -89,7 +89,7 @@ int main()
  unsigned long s6u_u;
  s6u_u = -543344938;
  short int tMrtmHYX;
- tMrtmHYX = -634015135;
+ tMrtmHYX = (short)-634015135;
  double a_tTdhXIO;
  a_tTdhXIO = 1523511121;
  long double q0vKLt;
@@ -105,7 +105,7 @@ int main()
   int  D5e3fwwYxZ;
   D5e3fwwYxZ  =  0;
     short    b53luCTCB;
-    b53luCTCB    =    -2025478734;
+    b53luCTCB    =    (short)-2025478734;
     long long    vPjg;
     vPjg    =    873826585;
  long double e0o_M42c6;
@@ -117,7 +117,7 @@ int main()
 	float	RD27;
 	RD27	=	-250642585;
 	unsigned short	RU94r9z2_P;
-	RU94r9z2_P	=	538781947;
+	RU94r9z2_P	=	(unsigned short)538781947;
     long    mA_gpd4l9k;
     mA_gpd4l9k    =    385047500;
 	float	OJL3tF;
@@ -141,7 +141,7 @@ lwXtNdw = moQ6S2 | pK7X;
 
 for (int i = 2; i >= 0; i--)
 {
-dO6aiKPi1 = UJV4i(-311510968);
+dO6aiKPi1 = UJV4i((unsigned short)-311510968);
 }
 
 for (int i = 10; i >= 0; i--)
@@ -189,7 +189,7 @@ else
 {
 if ((REHvIg4 >= M6hJ) && (s6u_u >= M6hJ))
 {
-dO6aiKPi1 = UJV4i(238772988);
+dO6aiKPi1 = UJV4i((unsigned short)238772988);
 }
 else
 {
@@ -290,7 +290,7 @@ while (k < 2);
 while (i >= 0);
 }
 
-if ((FWxU / UJV4i(-632405325)) < -1415813900)
+if ((FWxU / UJV4i((unsigned short)-632405325)) < -1415813900)
 {
 std::cout << 487754309 / UJV4i((unsigned short)724413431) << std::endl;
 }

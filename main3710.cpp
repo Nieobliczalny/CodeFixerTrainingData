@@ -24,7 +24,7 @@ int main(void) {
 	double	h_DvbR;
 	h_DvbR	=	-470013640;
 	char	zr76NcF;
-	zr76NcF	=	-1129128460;
+	zr76NcF	=	(char)-1129128460;
   unsigned short  Xmej28GHd;
   Xmej28GHd  =  0;
 

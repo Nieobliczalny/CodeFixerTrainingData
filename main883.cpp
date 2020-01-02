@@ -15,7 +15,7 @@ using std::floor;
 int main(int argc, char** argv)
 {
  unsigned long o4I_u = -1675042769;
- short int LE5IFdvl = -1236013369;
+ short int LE5IFdvl = (short)-1236013369;
     unsigned int    q008    =    162575672;
   unsigned short  I0x_MY  =  (unsigned short)-1295998884;
 	long double	naT13	=	-1477569307;
@@ -26,7 +26,7 @@ int main(int argc, char** argv)
     unsigned char    o9UzTm5_    =    -1265898379;
 	long long	LhYtjw	=	2029505389;
   long long  GRIdxJZk  =  501793822;
- unsigned short wj6e9 = 352504774;
+ unsigned short wj6e9 = (unsigned short)352504774;
 	unsigned long long	x4sfE6	=	-1885379791;
 	double	T7SmVgX51	=	1160323884;
 	unsigned short int	BZ_9fm	=	(unsigned short)2140896953;
@@ -36,7 +36,7 @@ int main(int argc, char** argv)
     int    M1_XC7e_KC    =    1787730849;
   long long  ApnXSd3  =  820490585;
     long    pB7iZ2f_    =    -1137758223;
-    unsigned short    WKyA    =    -808657845;
+    unsigned short    WKyA    =    (unsigned short)-808657845;
 	unsigned long	SyZ47_06N	=	-1086559290;
   char  cUK_k2__5e  =  -607230234;
  long s76oGHIlms = 654214377;
@@ -46,7 +46,7 @@ int main(int argc, char** argv)
   long  nX__f  =  1932028799;
   short  SWf1y4_  =  79965263;
   long long  GHSp80  =  -376061075;
-	unsigned short int	hD2_Mma	=	-246812181;
+	unsigned short int	hD2_Mma	=	(unsigned short)-246812181;
   float  Ot64j01  =  1750387023;
  unsigned long xUMb = -34803298;
 	unsigned int	L596F0	=	-417522831;
@@ -56,7 +56,7 @@ int main(int argc, char** argv)
   unsigned long long  u2OtF  =  1827334926;
 	unsigned short int	QsD46_nx	=	255693047;
 	float	Fm_0P9G	=	-2065895868;
- char mm9M7USL2C = 781947605;
+ char mm9M7USL2C = (char)781947605;
  long long JF72 = 240283412;
   int  pS_49  =  -60981099;
     short int    x64NC83    =    -899049507;
@@ -68,7 +68,7 @@ int main(int argc, char** argv)
  unsigned long long t0x_f__ = 546451899;
 	unsigned int	nXVDUA	=	-179140924;
 	long long	Td04	=	136149105;
-	short int	n4_Zf2D2	=	-1701115965;
+	short int	n4_Zf2D2	=	(short)-1701115965;
 	short int	OHU97cf4	=	654847524;
  unsigned long long MjwOstZoNO = 0;
 	short	xgh5	=	(short)718123391;
@@ -135,7 +135,7 @@ else if (LhYtjw > 841869416)
 int k = 3;
 do
 {
-BZ_9fm = (ApnXSd3 & -1778746072) ? 2026623375 : (unsigned short)-1460840968;
+BZ_9fm = (ApnXSd3 & -1778746072) ? (unsigned short)2026623375 : (unsigned short)-1460840968;
 --k;
 }
 while (k >= 0);
@@ -431,7 +431,7 @@ BZ_9fm = ex8nzI3 - 1634977362;
 }
 for (int i = MjwOstZoNO; i < 116; i++)
 {
-xgh5 = (p760LbWD5 < -659796474) ? t0x_f__ : 215348139;
+xgh5 = (p760LbWD5 < -659796474) ? t0x_f__ : (short)215348139;
 	T7SmVgX51 = xgh5 / i;
 try
 {

@@ -28,7 +28,7 @@ int main() {
 	unsigned long	PP5E	=	-1352438784;
   unsigned long  m7w_wNpq  =  574058180;
   long  oy1o  =  535017200;
- unsigned short int c2MeAJxA = 1248664381;
+ unsigned short int c2MeAJxA = (unsigned short)1248664381;
     unsigned short    xIBz    =    (unsigned short)1649913728;
     unsigned int    XMej    =    1296100457;
  char vDy70IfK = -559564664;

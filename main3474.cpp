@@ -14,7 +14,7 @@ using namespace std;
 
 unsigned short int V6A0BlP()
 {
- return -1116057394;
+ return (unsigned short)-1116057394;
 }
 
 short  T_A2Im5OE(short int  bh954o70,short  pFke9o49b,unsigned int  u7vituZy0d,short int  O3HX3YJu,short int  LZ22)  {
@@ -55,7 +55,7 @@ case 1:
 Fd5_9843_--;
 break;
 case 2:
-atIH = T_A2Im5OE(-753442115, (short)156233038, otug8Nv7, 1151477905, P843140j) + 1139594554;
+atIH = T_A2Im5OE((short)-753442115, (short)156233038, otug8Nv7, 1151477905, P843140j) + 1139594554;
 break;
 case 3:
 Ua_R5A3e_6 = T_A2Im5OE(-230067612, -761150777, -415679862, 235958438, i146wop);
@@ -94,7 +94,7 @@ u9S6O1_ = (int)abs(u7y406ORX5);
 }
 else if (((m3oc < -100451567) && (g_dEAjV)) || (i989y32L < 1174129079))
 {
-Ua_R5A3e_6 = T_A2Im5OE(i989y32L, 1277118343, -691443249, (short)1058047107, -1865891671);
+Ua_R5A3e_6 = T_A2Im5OE(i989y32L, (short)1277118343, -691443249, (short)1058047107, -1865891671);
 }
 else if (ijL0NaZwc == lRz7)
 {
@@ -143,7 +143,7 @@ if (T38r >= -2000107535)
 switch (oud92g7jyv)
 {
 case 0:
-W2qc2kvipg = T_A2Im5OE(oud92g7jyv, 1491343415, atIH, Zb4b5v4E, maw2_);
+W2qc2kvipg = T_A2Im5OE(oud92g7jyv, (short)1491343415, atIH, Zb4b5v4E, maw2_);
 break;
 case 1:
 Fd5_9843_ = ZpMPfMK6E6(-111824053, A_RP9, u9S6O1_);
@@ -169,7 +169,7 @@ else if (I_Fv <= -464979335)
 {
 if ((Be9jWZgq72 > Py0u82) || (cwb__6 == ym5XnlO8))
 {
-W2qc2kvipg = T_A2Im5OE(EwR9vPoIZw, 39630149, wH2_, AU8265, ZvJWCoy);
+W2qc2kvipg = T_A2Im5OE(EwR9vPoIZw, (short)39630149, wH2_, AU8265, ZvJWCoy);
 }
 else if ((k1R7_k <= 1817048554) || ((m3oc > JlxZ8) || (cu8y)))
 {
@@ -243,7 +243,7 @@ u7y406ORX5 = (int)(jI3f38Lx);
 switch (YJ7P)
 {
 case 'a':
-Y_zw = T_A2Im5OE(-1184574276, (short)-765195571, 426060262, 1682152934, 1083181071);
+Y_zw = T_A2Im5OE((short)-1184574276, (short)-765195571, 426060262, 1682152934, 1083181071);
 break;
 case 'b':
 I_Fv *= maw2_;
@@ -293,7 +293,7 @@ int k = 10;
 do
 {
 --k;
-W2qc2kvipg = T_A2Im5OE(1062276887, Fq4e, -649903243, (short)249596938, 1213316656);
+W2qc2kvipg = T_A2Im5OE((short)1062276887, Fq4e, -649903243, (short)249596938, 1213316656);
 }
 while (k >= 0);
 }

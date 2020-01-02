@@ -388,6 +388,6 @@ short    H2EKQ_Y()    {
 
 unsigned char V7U0yodB()
 {
- return 1820027094;
+ return (unsigned char)1820027094;
 }
 

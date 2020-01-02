@@ -16,7 +16,7 @@ int main() {
     unsigned long    NLrfM13,    C1fD4wzzFt;
         NLrfM13    =    C1fD4wzzFt    =    0;
   unsigned short int  G_sA,  DFy4KKpL33,  f9e4Qs8U7,  v966,  vV7G772RH,  rF2kw,  STqP1mMUy,  Bmdo2YYk2U,  A40Jy1sX,  Gc2w,  RAz6f9pdSM,  okTYb,  ei2T6,  IqqOAm1,  g52_4,  IwKdpB,  Wf_X,  DE_1Z,  UG4KNbz,  tTk_h,  U1r8,  qfCHqUV,  KHYVDjy,  MxSA,  m93Z9Mj,  i911reE9,  GdVf,  mz312b4;
-    G_sA  =  DFy4KKpL33  =  f9e4Qs8U7  =  v966  =  vV7G772RH  =  rF2kw  =  STqP1mMUy  =  Bmdo2YYk2U  =  A40Jy1sX  =  Gc2w  =  RAz6f9pdSM  =  okTYb  =  ei2T6  =  IqqOAm1  =  g52_4  =  IwKdpB  =  Wf_X  =  DE_1Z  =  UG4KNbz  =  tTk_h  =  U1r8  =  qfCHqUV  =  KHYVDjy  =  MxSA  =  m93Z9Mj  =  i911reE9  =  GdVf  =  mz312b4  =  2050046011;
+    G_sA  =  DFy4KKpL33  =  f9e4Qs8U7  =  v966  =  vV7G772RH  =  rF2kw  =  STqP1mMUy  =  Bmdo2YYk2U  =  A40Jy1sX  =  Gc2w  =  RAz6f9pdSM  =  okTYb  =  ei2T6  =  IqqOAm1  =  g52_4  =  IwKdpB  =  Wf_X  =  DE_1Z  =  UG4KNbz  =  tTk_h  =  U1r8  =  qfCHqUV  =  KHYVDjy  =  MxSA  =  m93Z9Mj  =  i911reE9  =  GdVf  =  mz312b4  =  (unsigned short)2050046011;
 
 try
 {
@@ -201,7 +201,7 @@ else if (qfCHqUV & C1fD4wzzFt)
 {
 try
 {
-A40Jy1sX = (KHYVDjy != Nf86V8hA6x) ? 1057527765 : KHYVDjy;
+A40Jy1sX = (KHYVDjy != Nf86V8hA6x) ? (unsigned short)1057527765 : KHYVDjy;
 }
 catch (int& errorCode)
 {
@@ -222,7 +222,7 @@ while (k >= 0);
 }
 else
 {
-RAz6f9pdSM = (i911reE9 > -673859637) ? 1477659016 : nZ_Q2;
+RAz6f9pdSM = (i911reE9 > -673859637) ? (unsigned short)1477659016 : nZ_Q2;
 }
 }
 else
@@ -244,7 +244,7 @@ else if (((NLrfM13) && (mz312b4 > A40Jy1sX)) && (f9e4Qs8U7 == NLrfM13))
 {
 if (((IqqOAm1 < G_sA) || (mz312b4 >= m93Z9Mj)) || (C1fD4wzzFt & -679158416))
 {
-okTYb = (tTk_h <= Nf86V8hA6x) ? STqP1mMUy : -996096218;
+okTYb = (tTk_h <= Nf86V8hA6x) ? STqP1mMUy : (unsigned short)-996096218;
 }
 else if (okTYb)
 {

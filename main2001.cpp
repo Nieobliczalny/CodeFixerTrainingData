@@ -11,7 +11,7 @@
 using namespace std;
 
 unsigned short int cy_nk38r4m() {
- return -751060113;
+ return (unsigned short)-751060113;
 }
 
 short int ocS6HU() {
@@ -43,7 +43,7 @@ mq2su8R = W271e24Sbd * 1621306232;
 }
 else
 {
-NDG8W4 = (ARfJjoI9l > PzMl) ? 1081591497 : CO_zu1eP((unsigned short)1312088600, -998797215);
+NDG8W4 = (ARfJjoI9l > PzMl) ? (unsigned short)1081591497 : CO_zu1eP((unsigned short)1312088600, -998797215);
 }
 }
 catch (int& errorCode)
@@ -94,7 +94,7 @@ while (j >= 0);
 }
 }
 
-Ya7c = bdko0rVl0_(Ya7c, 563550633);
+Ya7c = bdko0rVl0_(Ya7c, (unsigned short)563550633);
 
 if (NDG8W4 <= -347282235)
 {

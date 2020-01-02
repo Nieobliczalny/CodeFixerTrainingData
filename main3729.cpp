@@ -16,7 +16,7 @@ int main(int argc, char** argv)
 {
   unsigned int  KO24Ovc6E  =  0;
  float P4EC3lRr = -1145141617;
-    short    Tzj4o8TW_g    =    -595585854;
+    short    Tzj4o8TW_g    =    (short)-595585854;
   char  Ezw_K  =  (char)791984895;
 	unsigned long long	uODgM	=	0;
   unsigned long  aAh3I4g  =  1894170754;
@@ -27,7 +27,7 @@ int main(int argc, char** argv)
   long  khAFHCvx  =  1653832383;
     float    aIguz9dr    =    -1602089126;
 	long long	P896L0W4g	=	-2114002754;
-  short  CeHf5  =  1545494835;
+  short  CeHf5  =  (short)1545494835;
  long MFxb6dk = -842683923;
 
 if (aAh3I4g != 866779613)
@@ -52,7 +52,7 @@ CeHf5 = (short)(aAh3I4g);
 }
 else
 {
-P4EC3lRr = WEKFwG_9(uODgM, CeHf5, -1739113815, 866560080, aAh3I4g) * P4EC3lRr;
+P4EC3lRr = WEKFwG_9(uODgM, CeHf5, (unsigned short)-1739113815, 866560080, aAh3I4g) * P4EC3lRr;
 }
 
 if (bJ61nuO >= 1986034824)
@@ -65,7 +65,7 @@ Swim5b = WEKFwG_9(Swim5b, P896L0W4g, Tzj4o8TW_g, Ezw_K, bJ61nuO);
 }
 else if (JmSR3Xw)
 {
-std::cout << WEKFwG_9(Swim5b, P896L0W4g, Tzj4o8TW_g, -11478729, bJ61nuO) << sp1wm(Swim5b, P896L0W4g, 1930905217, Ezw_K) << std::endl;
+std::cout << WEKFwG_9(Swim5b, P896L0W4g, Tzj4o8TW_g, -11478729, bJ61nuO) << sp1wm(Swim5b, P896L0W4g, (short)1930905217, Ezw_K) << std::endl;
 }
 else if ((bJ61nuO <= 1789784788) || (CeHf5 != aAh3I4g))
 {
@@ -76,7 +76,7 @@ else
 bJ61nuO = WEKFwG_9(-649596242, 1102323382, 240358149, UzQn9WDl, -151785375);
 }
 std::cout << "AQf_VxD" << "ibEddZ27" << "GH8l4bK0" << std::endl;
-JmSR3Xw = sp1wm(JmSR3Xw, -1283661511, UzQn9WDl, 1288906701);
+JmSR3Xw = sp1wm(JmSR3Xw, (char)-1283661511, UzQn9WDl, 1288906701);
 for (int i = 6; i >= 0; i--)
 {
 std::cout << sp1wm(JmSR3Xw, (char)-1487271296, -1596575897, MFxb6dk) << std::endl;
@@ -93,7 +93,7 @@ case 2:
 uODgM = sp1wm(251032645, CeHf5, MFxb6dk, khAFHCvx);
 break;
 case 3:
-Tzj4o8TW_g = WEKFwG_9(Tzj4o8TW_g, 236992446, bJ61nuO, -1553984853, Swim5b);
+Tzj4o8TW_g = WEKFwG_9(Tzj4o8TW_g, (short)236992446, bJ61nuO, -1553984853, Swim5b);
 break;
 case 4:
 uODgM = sp1wm(aIguz9dr, uODgM, khAFHCvx, 1127391274);

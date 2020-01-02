@@ -25,7 +25,7 @@ int main()
   long long  UIfE5a4;
   UIfE5a4  =  1094744243;
  short rRMf9z50Z;
- rRMf9z50Z = -1986539133;
+ rRMf9z50Z = (short)-1986539133;
     double    Hyteva;
     Hyteva    =    1748414942;
  long fMA2sQ2n;
@@ -35,7 +35,7 @@ int main()
   unsigned short int  SO9BE;
   SO9BE  =  1040996971;
   unsigned short int  FOHYM;
-  FOHYM  =  882101487;
+  FOHYM  =  (unsigned short)882101487;
     long double    lH8o2IJz4;
     lH8o2IJz4    =    -641990827;
   unsigned long  Z_12C;
@@ -45,7 +45,7 @@ int main()
     long long    SQPLPxj;
     SQPLPxj    =    882130008;
   unsigned short  o1UvP3BTi;
-  o1UvP3BTi  =  -681225447;
+  o1UvP3BTi  =  (unsigned short)-681225447;
 	unsigned int	n_U3;
 	n_U3	=	-982832805;
 	long	ZrH_hh8;

@@ -18,7 +18,7 @@ int main(void) {
  char H781w3_Eh = 181925921, VE25u = -926816656, D8Lf = 1332422228, E8g5 = 246133906, hC485XQW = 485735826, wB19_ue8 = 1511796682, I3bbd = 905827592;
  unsigned short S5w3H9A7 = 0, ac5h68n = 0, iCpN9N = 0, DuLGQg5A = 0;
 
-cout << NQ_4479l6(1984172349, VE25u, D8Lf) << NQ_4479l6(-1731953643, 632261536, 815773262) << NQ_4479l6(H781w3_Eh, VE25u, D8Lf) << "V3_KS0y9" << "SUMJUcA8bj" << endl;
+cout << NQ_4479l6((unsigned short)1984172349, VE25u, D8Lf) << NQ_4479l6(-1731953643, 632261536, 815773262) << NQ_4479l6(H781w3_Eh, VE25u, D8Lf) << "V3_KS0y9" << "SUMJUcA8bj" << endl;
 
 switch (E8g5)
 {
@@ -35,7 +35,7 @@ case 'd':
 iCpN9N = NQ_4479l6(D8Lf, VE25u, 1869905508);
 break;
 case 'e':
-S5w3H9A7 = NQ_4479l6(1330825861, (unsigned short)402117042, 2045714537);
+S5w3H9A7 = NQ_4479l6((unsigned short)1330825861, (unsigned short)402117042, 2045714537);
 break;
 case 'f':
 hC485XQW = (int)abs(D8Lf);
@@ -48,7 +48,7 @@ break;
 switch (H781w3_Eh)
 {
 case 0:
-iCpN9N = NQ_4479l6(653874983, I3bbd, iCpN9N);
+iCpN9N = NQ_4479l6((unsigned short)653874983, I3bbd, iCpN9N);
 break;
 case 1:
 ac5h68n = NQ_4479l6(I3bbd, (unsigned short)1801683293, 2036253081);
@@ -66,7 +66,7 @@ case 5:
 hC485XQW--;
 break;
 case 6:
-H781w3_Eh = NQ_4479l6(1124775228, (unsigned short)-1822029802, 4313846) + iCpN9N;
+H781w3_Eh = NQ_4479l6((unsigned short)1124775228, (unsigned short)-1822029802, 4313846) + iCpN9N;
 break;
 case 7:
 ac5h68n = NQ_4479l6(ac5h68n, -1382376948, E8g5);
@@ -78,7 +78,7 @@ case 9:
 H781w3_Eh = (int)abs(I3bbd);
 break;
 default:
-H781w3_Eh = NQ_4479l6(386014902, I3bbd, E8g5) * 90812139;
+H781w3_Eh = NQ_4479l6((unsigned short)386014902, I3bbd, E8g5) * 90812139;
 break;
 }
 ac5h68n = NQ_4479l6((unsigned short)1696659673, I3bbd, -1568461381);
@@ -107,7 +107,7 @@ for (int i = 0; i < 9; ++i)
 switch (H781w3_Eh)
 {
 case 0:
-iCpN9N = NQ_4479l6(-785075535, hC485XQW, ac5h68n);
+iCpN9N = NQ_4479l6((unsigned short)-785075535, hC485XQW, ac5h68n);
 break;
 default:
 E8g5 = (int)abs(wB19_ue8);
@@ -123,7 +123,7 @@ cout << NQ_4479l6(iCpN9N, hC485XQW, ac5h68n) << endl;
 
 D8Lf = (char)(VE25u);
 
-cout << I3bbd << NQ_4479l6(iCpN9N, -1821233504, ac5h68n) << "J4_4Dt" << endl;
+cout << I3bbd << NQ_4479l6(iCpN9N, (unsigned short)-1821233504, ac5h68n) << "J4_4Dt" << endl;
 
 for (int i = 1; i >= 0; i--)
 {
@@ -161,7 +161,7 @@ VE25u = H781w3_Eh >> wB19_ue8;
 }
 }
 
-cout << "AJneLg69hL" << NQ_4479l6(iCpN9N, 645957331, ac5h68n) << DuLGQg5A << endl;
+cout << "AJneLg69hL" << NQ_4479l6(iCpN9N, (unsigned short)645957331, ac5h68n) << DuLGQg5A << endl;
 if (wB19_ue8 < iCpN9N)
 {
 cout << "Ws97HDM6w" << endl;

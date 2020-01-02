@@ -17,7 +17,7 @@ unsigned long  YOrSeqf(unsigned long  SCXo7_5p1,long  WPymdt77,long long  g80Eq6
 
 int main(void) {
  short fUir;
- fUir = 1592335426;
+ fUir = (short)1592335426;
   double  I6bN;
   I6bN  =  1329494165;
   unsigned char  qv9x;
@@ -31,7 +31,7 @@ int main(void) {
  float An6637jE9Y;
  An6637jE9Y = -1249785646;
   short int  T7MObMzrCH;
-  T7MObMzrCH  =  -625508799;
+  T7MObMzrCH  =  (short)-625508799;
  short int AQ1DQ;
  AQ1DQ = (short)1367696009;
 	short int	jDbwbheCCg;
@@ -41,7 +41,7 @@ int main(void) {
   unsigned char  JTVRm1qp2_;
   JTVRm1qp2_  =  790157999;
     short    iNpkL;
-    iNpkL    =    837879864;
+    iNpkL    =    (short)837879864;
   unsigned long long  OFirP6;
   OFirP6  =  1640490930;
   unsigned int  tt9sL7g;
@@ -51,7 +51,7 @@ int main(void) {
 	unsigned int	lHAC;
 	lHAC	=	367156470;
   short  razu;
-  razu  =  -867342637;
+  razu  =  (short)-867342637;
   unsigned char  k4kD0H;
   k4kD0H  =  -792512842;
   int  a591_9j_;
@@ -61,7 +61,7 @@ int main(void) {
     short    Cdr9;
     Cdr9    =    (short)2099083126;
  char ifZ529;
- ifZ529 = -862797545;
+ ifZ529 = (char)-862797545;
     unsigned long long    yEZw;
     yEZw    =    -1853649548;
 
@@ -519,7 +519,7 @@ An6637jE9Y = (int)ceil(I6bN);
 }
 else if (tt9sL7g)
 {
-ifZ529 = (Cdr9 <= tt9sL7g) ? 2143017572 : s4TO;
+ifZ529 = (Cdr9 <= tt9sL7g) ? (char)2143017572 : s4TO;
 }
 else if (razu & s4TO)
 {

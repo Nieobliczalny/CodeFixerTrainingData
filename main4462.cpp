@@ -10,7 +10,7 @@ using namespace std;
 
 unsigned char	M22r0(unsigned short int	CH9YaIfl_,unsigned long long	o1icLxdE7I,long long	i8Te,short int	OYSgLyGK8,short int	MdA1)
 {
-	return	-2146466594;
+	return	(unsigned char)-2146466594;
 }
 
 unsigned long  Vzw_9_8()  {
@@ -49,7 +49,7 @@ n6H0EmQaR -= YEto3212;
 YEto3212 = (short int)(N2Qmj);
 if ((uul9 == fmc_SEsD) || ((x09c9oKE > -444401257) || (Miz4M8n_99)))
 {
-std::cout << M22r0(-1306500214, -1804471307, -693112049, (short)1401605680, dl0JG4in) << M22r0(-507026691, V4cvcsF, x09c9oKE, r_3KMdxT, -180345619) << "rLlt" << Vzw_9_8() << "mC932FO_I" << std::endl;
+std::cout << M22r0((unsigned short)-1306500214, -1804471307, -693112049, (short)1401605680, dl0JG4in) << M22r0(-507026691, V4cvcsF, x09c9oKE, r_3KMdxT, -180345619) << "rLlt" << Vzw_9_8() << "mC932FO_I" << std::endl;
 }
 else
 {
@@ -69,7 +69,7 @@ case 2:
 G_dbjMolU = Vzw_9_8();
 break;
 case 3:
-BLr0aWj = (i_U_hMDQ2 & 815632309) ? SMn9 : -1293652225;
+BLr0aWj = (i_U_hMDQ2 & 815632309) ? SMn9 : (short)-1293652225;
 break;
 case 4:
 NeZ14Cu_ = Vzw_9_8();
@@ -96,7 +96,7 @@ L5hP3n40 = z8jN2 / FTV63xJj;
 break;
 case 'b':
 case 'B':
-P16igNMi = M22r0(P16igNMi, pKeXpdsHX0, -1109716399, -1429772921, L5hP3n40);
+P16igNMi = M22r0(P16igNMi, pKeXpdsHX0, -1109716399, (short)-1429772921, L5hP3n40);
 break;
 case 'c':
 case 'C':
@@ -146,7 +146,7 @@ qognwmki7 = V4cvcsF | ngK_E;
 }
 else
 {
-H2i6 = M22r0(1281983044, PO61fPQ5, 1073245758, (short)-50191305, -508496916) % E92KmQW08_;
+H2i6 = M22r0((unsigned short)1281983044, PO61fPQ5, 1073245758, (short)-50191305, -508496916) % E92KmQW08_;
 }
 }
 else
@@ -162,7 +162,7 @@ else if (ngK_E & fmc_SEsD)
 {
 for (int k = 0; k < 8; ++k)
 {
-SBe6_PT0 = (B1bPmJ5 > -906976857) ? -2068772104 : m304Zb5;
+SBe6_PT0 = (B1bPmJ5 > -906976857) ? (short)-2068772104 : m304Zb5;
 }
 }
 else if (FP2q8q44A <= v9qPl)
@@ -183,7 +183,7 @@ int k = 0;
 while (k < 8)
 {
 ++k;
-kVbC = M22r0(1947143656, a9C8EeIM10, -1784082689, (short)-1757232239, -1673687393);
+kVbC = M22r0((unsigned short)1947143656, a9C8EeIM10, -1784082689, (short)-1757232239, -1673687393);
 }
 }
 }

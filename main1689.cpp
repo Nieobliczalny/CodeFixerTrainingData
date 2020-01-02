@@ -12,7 +12,7 @@
 
 
 char  GFlK8()  {
-  return  -1408254966;
+  return  (char)-1408254966;
 }
 
 unsigned char    RwXMV(unsigned short int    j2T9)    {
@@ -31,7 +31,7 @@ case 'a':
 qlS6AjZ8jB = F2mP4nl * v0g4vCx;
 break;
 case 'b':
-v0g4vCx = RwXMV(1779164426);
+v0g4vCx = RwXMV((unsigned short)1779164426);
 break;
 case 'c':
 N1x1g2B98 = GFlK8();
@@ -53,7 +53,7 @@ std::cout << GFlK8() << "R_x2f83_" << "BO_981z8J" << std::endl;
 std::cout << GFlK8() << "g61571P" << GFlK8() << "oQ_W_d" << std::endl;
 z_7cep = (unsigned char)(n6ZX0K);
 
-v0g4vCx = RwXMV(-945627935);
+v0g4vCx = RwXMV((unsigned short)-945627935);
 
 w6B899mPf |= Icue8q;
 for (int i = 0; i < 8; ++i)
@@ -64,7 +64,7 @@ case 0:
 F2mP4nl = GFlK8();
 break;
 case 1:
-v0g4vCx = RwXMV(1869940994);
+v0g4vCx = RwXMV((unsigned short)1869940994);
 break;
 case 2:
 bR_iZzW1 = GFlK8();
@@ -108,7 +108,7 @@ G10c4DyCdV = fyUB % m8hf_1C0cn;
 }
 while (i < 8);
 }
-huG1bIn9aj = y83og / RwXMV(-618215877);
+huG1bIn9aj = y83og / RwXMV((unsigned short)-618215877);
 l6Vj43TJs = (unsigned char)(P_0BLzoD84);
 std::cout << RwXMV(P_0BLzoD84) << "yLp4xw_WG" << "fZqMrPb63" << RwXMV(P_0BLzoD84) << s8dU278I << std::endl;
 
@@ -119,7 +119,7 @@ std::cout << "UD_kBqjD" << CsUx_cD33D << NFTj643 << "ry1h00" << std::endl;
 int i = 0;
 while (i < 4)
 {
-std::cout << GFlK8() << RwXMV(P_0BLzoD84) << RwXMV(6437356) << "z2N4f4r8" << std::endl;
+std::cout << GFlK8() << RwXMV(P_0BLzoD84) << RwXMV((unsigned short)6437356) << "z2N4f4r8" << std::endl;
 i++;
 }
 }
@@ -130,7 +130,7 @@ for (int i = 0; i < 10; ++i)
 std::cout << "D1Y78f8" << ElVw_TTC0F << GFlK8() << RwXMV((unsigned short)1575127699) << std::endl;
 }
 
-std::cout << jwqo8HpPl5 << GFlK8() << GFlK8() << m8hf_1C0cn << RwXMV(-2114433220) << std::endl;
+std::cout << jwqo8HpPl5 << GFlK8() << GFlK8() << m8hf_1C0cn << RwXMV((unsigned short)-2114433220) << std::endl;
 s6kXs46__ = (unsigned char)(Ltv6);
 cMk0y = (VUmj_nt44) ? xYiQWBHBig : -412024732;
 
@@ -144,7 +144,7 @@ f4_9S2S = (unsigned char)(T779);
 int i = 0;
 do
 {
-v0g4vCx = RwXMV(-981579369);
+v0g4vCx = RwXMV((unsigned short)-981579369);
 i++;
 }
 while (i < 2);
@@ -167,7 +167,7 @@ uJ4JV56y7 = GFlK8();
 }
 else if (gm13F < K_68jHC)
 {
-v0g4vCx = RwXMV(418086084);
+v0g4vCx = RwXMV((unsigned short)418086084);
 }
 else
 {

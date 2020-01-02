@@ -10,7 +10,7 @@ using namespace std;
 
 unsigned short	eQAV24Dcu5()
 {
-	return	-367273617;
+	return	(unsigned short)-367273617;
 }
 
 char	AchTp06()

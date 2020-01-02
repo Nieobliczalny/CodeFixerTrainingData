@@ -20,7 +20,7 @@ int main() {
   long  YU74u5;
   YU74u5  =  -945097864;
 	short int	WR4b4;
-	WR4b4	=	-58508833;
+	WR4b4	=	(short)-58508833;
 	unsigned long	T4Apdl;
 	T4Apdl	=	1427525562;
     char    gUTn1SYNr;
@@ -30,7 +30,7 @@ int main() {
  unsigned long long M78MDR4124;
  M78MDR4124 = 188424676;
  unsigned short int r_0_6D812K;
- r_0_6D812K = 20490580;
+ r_0_6D812K = (unsigned short)20490580;
 	unsigned long	rq9j8b;
 	rq9j8b	=	-1402426924;
     unsigned char    a__9Pti;
@@ -44,7 +44,7 @@ int main() {
   float  uh3iR;
   uh3iR  =  2017093715;
  unsigned short uGp3Z2;
- uGp3Z2 = -1099907646;
+ uGp3Z2 = (unsigned short)-1099907646;
 	long	qrNh7c;
 	qrNh7c	=	-1604981578;
  long x85K;
@@ -58,7 +58,7 @@ int main() {
  unsigned short int A88d8Y_7;
  A88d8Y_7 = 0;
  unsigned short Alr5h;
- Alr5h = 1286516598;
+ Alr5h = (unsigned short)1286516598;
  unsigned short int u8lWB4S;
  u8lWB4S = (unsigned short)-945187161;
  float Xe6k_4l1s;
@@ -70,7 +70,7 @@ int main() {
 	unsigned long long	g6hzCFU;
 	g6hzCFU	=	-2044102019;
     unsigned char    vEg_t3j_;
-    vEg_t3j_    =    1447405944;
+    vEg_t3j_    =    (unsigned char)1447405944;
   unsigned short int  oUg_EQg;
   oUg_EQg  =  (unsigned short)-1965619367;
   int  s2Hjz;
@@ -82,7 +82,7 @@ int main() {
     unsigned long long    SBJ9We1;
     SBJ9We1    =    -2065525877;
   unsigned char  u_AV5IT;
-  u_AV5IT  =  1026800417;
+  u_AV5IT  =  (unsigned char)1026800417;
   long double  YBL00iOl40;
   YBL00iOl40  =  1972751961;
  unsigned short int w282bR9;
@@ -96,7 +96,7 @@ int main() {
 	double	ODXJ3p;
 	ODXJ3p	=	-1430907842;
   char  PE84F5Q9b4;
-  PE84F5Q9b4  =  -1824134226;
+  PE84F5Q9b4  =  (char)-1824134226;
     double    B1_Tnh_zX;
     B1_Tnh_zX    =    -562514751;
 	float	Jbwf899;
@@ -110,7 +110,7 @@ int main() {
  unsigned long qi3oTVp98;
  qi3oTVp98 = -1381509382;
   short  O05K7F2e;
-  O05K7F2e  =  -479431611;
+  O05K7F2e  =  (short)-479431611;
     short    hD2kb6Vuud;
     hD2kb6Vuud    =    0;
 	char	z5luhm9;
@@ -124,7 +124,7 @@ int main() {
 	long double	UyxV;
 	UyxV	=	-1270115372;
     char    PJndbqnr;
-    PJndbqnr    =    1848430912;
+    PJndbqnr    =    (char)1848430912;
  double r6zc_zc;
  r6zc_zc = -1832507288;
     char    kMOG25;

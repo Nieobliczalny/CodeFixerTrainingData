@@ -20,7 +20,7 @@ unsigned short    AvvuQ29(unsigned short    c0722bxhN2,long long    i6CMl0H3H,sh
 
 unsigned short  r0_gW(long  f7b8N,unsigned short int  k1TI__,short int  o__1r,short  fWWtfPT0,unsigned char  ju1vF)
 {
-  return  -1545669242;
+  return  (unsigned short)-1545669242;
 }
 
 long long  IFOIY0A5w(unsigned int  m8URJh3jH,unsigned long long  xyzRMWS,char  VS48ld_)  {
@@ -89,7 +89,7 @@ int k = 0;
 do
 {
 ++k;
-d_YS88q = AvvuQ29(1889914343, -172633409, DP90, wp99x32);
+d_YS88q = AvvuQ29((unsigned short)1889914343, -172633409, DP90, wp99x32);
 }
 while (k < 9);
 }
@@ -120,7 +120,7 @@ jPxp_ = Kc2454CRt(-2132220119, Vkq5);
 break;
 case 'e':
 case 'E':
-ZYYPYEec7R = AvvuQ29(688240498, MjgSq2, (short)-146511397, 323766984);
+ZYYPYEec7R = AvvuQ29((unsigned short)688240498, MjgSq2, (short)-146511397, 323766984);
 break;
 case 'f':
 case 'F':
@@ -143,7 +143,7 @@ int k = 0;
 do
 {
 k++;
-J94kp = Z2520(J94kp, -243279371, 962380476, (short)1754723504, ZYYPYEec7R);
+J94kp = Z2520(J94kp, -243279371, (char)962380476, (short)1754723504, ZYYPYEec7R);
 }
 while (k < 6);
 }
@@ -167,7 +167,7 @@ d_YS88q = (int)abs(ZYYPYEec7R);
 }
 else
 {
-WR9G0ycF = IFOIY0A5w(WR9G0ycF, 1526959589, 1860182338);
+WR9G0ycF = IFOIY0A5w(WR9G0ycF, 1526959589, (char)1860182338);
 }
 j++;
 }
@@ -275,7 +275,7 @@ while (j >= 0)
 --j;
 try
 {
-ZYYPYEec7R = AvvuQ29(wp99x32, -43796508, jPxp_, -1588243969);
+ZYYPYEec7R = AvvuQ29(wp99x32, -43796508, jPxp_, (short)-1588243969);
 }
 catch (int& errorCode)
 {
@@ -294,7 +294,7 @@ pa_g2 = FB_BCdgP6K - WR9G0ycF;
 }
 else
 {
-Vkq5 = r0_gW(wp99x32, 1700183879, (short)1189379195, FB_BCdgP6K, -793866256) | 2101880205;
+Vkq5 = r0_gW(wp99x32, (unsigned short)1700183879, (short)1189379195, FB_BCdgP6K, -793866256) | 2101880205;
 }
 }
 else
@@ -346,7 +346,7 @@ TfAPK20 = R210KYZX << 221463195;
 }
 else
 {
-wp99x32 = Z2520(34801009, ZYYPYEec7R, 889692093, bOexkiN, WR9G0ycF);
+wp99x32 = Z2520(34801009, ZYYPYEec7R, (char)889692093, bOexkiN, WR9G0ycF);
 }
 }
 }
@@ -363,7 +363,7 @@ k5rxhk1n <<= TfAPK20;
 break;
 case 'b':
 case 'B':
-WR9G0ycF = Z2520(WR9G0ycF, -2015872278, 671499423, (short)574183795, R210KYZX);
+WR9G0ycF = Z2520(WR9G0ycF, -2015872278, (char)671499423, (short)574183795, R210KYZX);
 break;
 case 'c':
 case 'C':
@@ -380,7 +380,7 @@ else
 int k = 0;
 do
 {
-DP90 = r0_gW(-1402759726, ZYYPYEec7R, cNGEh1L, 976313326, tHJ4M0I);
+DP90 = r0_gW(-1402759726, ZYYPYEec7R, cNGEh1L, (short)976313326, tHJ4M0I);
 ++k;
 }
 while (k < 2);
@@ -394,7 +394,7 @@ for (int i = 5; i >= 0; --i)
 {
 try
 {
-DP90 = IFOIY0A5w(1890120342, -623166922, 722677364);
+DP90 = IFOIY0A5w(1890120342, -623166922, (char)722677364);
 }
 catch (int& errorCode)
 {

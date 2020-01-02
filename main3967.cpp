@@ -15,7 +15,7 @@ char    S8I088xs(unsigned long    POq_JR,long long    rvlFyjk);
 
 int main(int argc, char** argv)
 {
-  unsigned char  HPP3c6  =  -1897399075;
+  unsigned char  HPP3c6  =  (unsigned char)-1897399075;
  int ab7h6Mp6k6 = 214155492;
  unsigned int LEu5 = 1741143595;
   short  y6XC1H2Z  =  (short)1686813686;
@@ -25,7 +25,7 @@ int main(int argc, char** argv)
     long double    iGmaTPpo    =    1506917321;
   int  bs3unV1  =  653088883;
 	unsigned char	nUS1m743	=	2093100202;
-	unsigned short int	Ig3Up	=	1317215051;
+	unsigned short int	Ig3Up	=	(unsigned short)1317215051;
  char KnSWJy8 = 350423721;
  unsigned short CWQX6Kz2G = 10894812;
  char ES34 = (char)-1064026102;
@@ -37,7 +37,7 @@ int main(int argc, char** argv)
 	unsigned long long	j_Lc	=	-1199614962;
  long long s2h_MuJ = 1565104498;
 	double	i_2fFSkC	=	-1430557297;
- short oco0 = 223304047;
+ short oco0 = (short)223304047;
  unsigned short int txlD1uu6_e = (unsigned short)-120706330;
     unsigned short    wbP4b1S    =    89971459;
 	long double	K4wbm	=	2042596849;
@@ -47,7 +47,7 @@ int main(int argc, char** argv)
   unsigned char  KE9254U  =  149465722;
 	float	NB0XN069	=	668416045;
 	long	gCJO	=	1917646624;
-	unsigned short int	omq_as	=	-1731934153;
+	unsigned short int	omq_as	=	(unsigned short)-1731934153;
  long double Y3ji_fz = 1985579552;
  unsigned int STFj = 973168618;
     float    eV00lh_    =    -985301366;
@@ -57,7 +57,7 @@ int main(int argc, char** argv)
  long RpwI = 364183934;
 	unsigned short int	VYFk3S	=	-765115156;
     short    SYs0C3    =    -525498405;
-    unsigned char    t1vJ    =    1260343279;
+    unsigned char    t1vJ    =    (unsigned char)1260343279;
 	long double	G23iT5J2	=	-2103015183;
  short BFVs0798_ = 0;
     long long    ID01Yh3    =    2041498778;
@@ -69,7 +69,7 @@ int main(int argc, char** argv)
  short mWbK = -252053562;
  long long WFr3F6 = -1941656511;
     long    ao2_1HUq1P    =    0;
-	unsigned short int	E0cqrFK5h1	=	1565549190;
+	unsigned short int	E0cqrFK5h1	=	(unsigned short)1565549190;
     long double    Mp_9    =    751392869;
 	short int	IwHc0	=	-543581730;
  unsigned short EGOefye0_ = 1348616435;

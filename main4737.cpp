@@ -45,7 +45,7 @@ case 4:
 Yq0d33 = (int)abs(TqL_1u);
 break;
 case 5:
-zV6_W5P = OsE3e6O7(1176493869, 2006851031);
+zV6_W5P = OsE3e6O7(1176493869, (short)2006851031);
 break;
 case 6:
 zV6_W5P = OsE3e6O7(1581338854, (short)-1372236966);
@@ -94,7 +94,7 @@ else if ((qKKU_ <= -976454204) && (Co5R != -1325971202))
 int j = 0;
 do
 {
-zV6_W5P = OsE3e6O7(1587360889, -2076706086);
+zV6_W5P = OsE3e6O7(1587360889, (short)-2076706086);
 j++;
 }
 while (j < 8);
@@ -142,7 +142,7 @@ pZjB25 = (VTpGm1vuRU > 1673639707) ? OsE3e6O7(mVHCa_, ou65) : zV6_W5P;
 }
 }
 cout << "Vinqw" << TqL_1u << "OYjzSGX49" << Co5R << endl;
-zV6_W5P = OsE3e6O7(Yq0d33, -315131505);
+zV6_W5P = OsE3e6O7(Yq0d33, (short)-315131505);
 mVHCa_ = (int)abs(TqL_1u);
 
 try
@@ -165,7 +165,7 @@ int j = 0;
 do
 {
 j++;
-zV6_W5P = OsE3e6O7(zV6_W5P, 1815990095);
+zV6_W5P = OsE3e6O7(zV6_W5P, (short)1815990095);
 }
 while (j < 9);
 }
@@ -200,7 +200,7 @@ zV6_W5P = OsE3e6O7(Co5R, Yq0d33);
 break;
 case 'g':
 case 'G':
-t9Bka_72 = OsE3e6O7(Co5R, -530463933) / TqL_1u;
+t9Bka_72 = OsE3e6O7(Co5R, (short)-530463933) / TqL_1u;
 break;
 case 'h':
 case 'H':
@@ -228,7 +228,7 @@ mVHCa_ = Yq0d33 / 1362509685;
 }
 else
 {
-zV6_W5P = OsE3e6O7(X5abupYoal, 1362952375);
+zV6_W5P = OsE3e6O7(X5abupYoal, (short)1362952375);
 }
 }
 while (j >= 0);
@@ -240,7 +240,7 @@ switch (zV6_W5P)
 {
 case 'a':
 case 'A':
-zV6_W5P = OsE3e6O7(1342123210, -1972016693);
+zV6_W5P = OsE3e6O7(1342123210, (short)-1972016693);
 break;
 case 'b':
 case 'B':
@@ -269,7 +269,7 @@ else if (zV6_W5P & -2127777603)
 switch (zV6_W5P)
 {
 case 'a':
-zV6_W5P = OsE3e6O7(-2097785971, 1328420633);
+zV6_W5P = OsE3e6O7(-2097785971, (short)1328420633);
 break;
 case 'b':
 zV6_W5P = OsE3e6O7(489115514, VTpGm1vuRU);
@@ -296,7 +296,7 @@ case 0:
 VTpGm1vuRU = (int)ceil(t9Bka_72);
 break;
 case 1:
-zV6_W5P = OsE3e6O7(zV6_W5P, -2010160886);
+zV6_W5P = OsE3e6O7(zV6_W5P, (short)-2010160886);
 break;
 case 2:
 t9Bka_72 = (int)ceil(VTpGm1vuRU);
@@ -312,7 +312,7 @@ break;
 int i = 3;
 while (i >= 0)
 {
-cout << "o738" << OsE3e6O7(zV6_W5P, TqL_1u) << OsE3e6O7(442121001, -286201750) << OsE3e6O7(zV6_W5P, TqL_1u) << Yq0d33 << endl;
+cout << "o738" << OsE3e6O7(zV6_W5P, TqL_1u) << OsE3e6O7(442121001, (short)-286201750) << OsE3e6O7(zV6_W5P, TqL_1u) << Yq0d33 << endl;
 i--;
 }
 }

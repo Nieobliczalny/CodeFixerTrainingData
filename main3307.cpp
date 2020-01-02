@@ -131,7 +131,7 @@ PiEu9xYv3D = 1313885763 / V25m8759s(67476928);
 
 if (S2i9f12Y & H52_7Z8AG)
 {
-std::cout << GY037im_3y(-1159633637, ez0k5l06v) << GY037im_3y(gQZSgF, ez0k5l06v) << "niV4x" << std::endl;
+std::cout << GY037im_3y((unsigned short)-1159633637, ez0k5l06v) << GY037im_3y(gQZSgF, ez0k5l06v) << "niV4x" << std::endl;
 }
 else
 {
@@ -150,7 +150,7 @@ try
 switch (eKW399d)
 {
 case 0:
-iA5s1u = GY037im_3y(-1455646617, -1062638875);
+iA5s1u = GY037im_3y((unsigned short)-1455646617, -1062638875);
 break;
 case 1:
 bza2xU = V25m8759s(r_5jH0M);
@@ -186,7 +186,7 @@ while (i >= 0)
 i--;
 if ((yd08VSvSE == P_Dd) || ((V1Tl < b7c8F) || (SAlf8dU >= b7c8F)))
 {
-std::cout << GY037im_3y(27961588, GCK4L_L) << "uO0Q" << std::endl;
+std::cout << GY037im_3y((unsigned short)27961588, GCK4L_L) << "uO0Q" << std::endl;
 }
 }
 }
@@ -271,7 +271,7 @@ C0jkdS = GY037im_3y(C0jkdS, 1601909987);
 }
 
 std::cout << "W4muggnol8" << "ATGa8" << "xbd7_" << V25m8759s(2097832570) << std::endl;
-opbPpGJ8 = GY037im_3y(572774739, opbPpGJ8);
+opbPpGJ8 = GY037im_3y((unsigned short)572774739, opbPpGJ8);
 {
 int i = 0;
 do
@@ -286,7 +286,7 @@ case 'b':
 ZgC9EklKK4 = (int)abs(niskcsLO);
 break;
 case 'c':
-iA5s1u = GY037im_3y(-372786986, CeG7rF);
+iA5s1u = GY037im_3y((unsigned short)-372786986, CeG7rF);
 break;
 case 'd':
 J2t83mnu2i = V25m8759s(XArj3n0);
@@ -421,7 +421,7 @@ case 'h':
 ez0k5l06v >>= 1929909400;
 break;
 case 'i':
-Xe4X8n = GY037im_3y(-265309514, -892393480);
+Xe4X8n = GY037im_3y((unsigned short)-265309514, -892393480);
 break;
 case 'j':
 s2ol = NT6Cv8sX / bk2VPB;
@@ -450,7 +450,7 @@ case 'd':
 BxFA = GY037im_3y(BxFA, -1277068856);
 break;
 case 'e':
-u16tZctOf = GY037im_3y(-1204548181, 1292296908);
+u16tZctOf = GY037im_3y((unsigned short)-1204548181, 1292296908);
 break;
 case 'f':
 J2t83mnu2i = V25m8759s(GCK4L_L);
@@ -470,7 +470,7 @@ BxFA = QpZ3 >> g003;
 }
 else
 {
-MXhLKtPk1 = GY037im_3y(2122804169, -38541279);
+MXhLKtPk1 = GY037im_3y((unsigned short)2122804169, -38541279);
 }
 }
 catch (int& errorCode)

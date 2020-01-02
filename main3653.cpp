@@ -117,7 +117,7 @@ case 1:
 i89u_ -= 804352491;
 break;
 case 2:
-i6ag4 = w2NR5(-1747078959);
+i6ag4 = w2NR5((short)-1747078959);
 break;
 case 3:
 Ei5T7T = (int)ceil(kiR8YQB2ho);
@@ -141,7 +141,7 @@ while (j < 3)
 ++j;
 try
 {
-U106 = w2NR5(-658249986);
+U106 = w2NR5((short)-658249986);
 }
 catch (int& errorCode)
 {

@@ -21,7 +21,7 @@ int main(int argc, char** argv)
     float    N_pP0o9_4;
     N_pP0o9_4    =    -1552993007;
     char    j8d35Zl;
-    j8d35Zl    =    653847540;
+    j8d35Zl    =    (char)653847540;
   long  I0Khk9hM;
   I0Khk9hM  =  -10611354;
   char  gqf67v_M9;
@@ -33,7 +33,7 @@ int main(int argc, char** argv)
     long double    AUr5p;
     AUr5p    =    -728025443;
     unsigned short int    BDV2l5kRfO;
-    BDV2l5kRfO    =    -1535280448;
+    BDV2l5kRfO    =    (unsigned short)-1535280448;
 	short int	Q1IKKc;
 	Q1IKKc	=	0;
   long long  lb9yE6;
@@ -51,7 +51,7 @@ switch (yLvtt)
 {
 case 'a':
 case 'A':
-JKYY = Euw3B9h8(977159227);
+JKYY = Euw3B9h8((short)977159227);
 break;
 case 'b':
 case 'B':

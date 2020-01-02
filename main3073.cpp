@@ -14,7 +14,7 @@ unsigned short int    TDVUt58()    {
 
 short int c8YrHt(short int a1IIH12,unsigned int R1vLp,unsigned long long ZT3bfO)
 {
- return 651994518;
+ return (short)651994518;
 }
 
 char    K37Z08s78(char    k_3m,long    n9ykJ9X_,unsigned long    P68FTsnG_a,short int    AS7fbt_)
@@ -26,7 +26,7 @@ int main(int argc, char** argv) {
  float oO6Z21Tl65 = 1906403018;
     unsigned int    wBbc    =    1912743720;
     double    CX1T61CX8f    =    1964791305;
-	char	QM_j1Dk7Q	=	-786422182;
+	char	QM_j1Dk7Q	=	(char)-786422182;
 	long double	UQB7o2	=	-2101086788;
   unsigned char  Lrq60vnQo3  =  -842445761;
   unsigned long  Y01va75Vx2  =  -888831711;
@@ -36,7 +36,7 @@ int main(int argc, char** argv) {
  unsigned long s7TKEDSn = -427549318;
   unsigned long long  dg97PLRt  =  0;
     unsigned short int    W81939MwX    =    -1339686998;
- short int bMa1P = 1448544567;
+ short int bMa1P = (short)1448544567;
     unsigned short int    cZVOb25y32    =    -245247985;
  unsigned long Z9cuF39f0 = 2063630393;
  int sv82 = 1554711001;
@@ -48,7 +48,7 @@ int main(int argc, char** argv) {
  unsigned long long ss_5 = 1303484901;
   int  m_7bb  =  897025725;
 	float	Vjb2__3	=	-1508208225;
- unsigned short int nl9tO = -1213895214;
+ unsigned short int nl9tO = (unsigned short)-1213895214;
 	unsigned char	x7651U007	=	214436338;
     long long    BX96E6O70L    =    649827444;
     unsigned char    MW02_R4i    =    0;
@@ -59,7 +59,7 @@ int main(int argc, char** argv) {
   int  haaZyGrpMW  =  -1500353059;
     float    M68S    =    2003049626;
     unsigned int    ja4C0    =    -1048022966;
- char vL932LR2O = 371251070;
+ char vL932LR2O = (char)371251070;
     char    ekYbMxrtzi    =    -626253611;
   long  e0758I2  =  0;
     short int    u9f_vGfM2C    =    (short)-897997322;
@@ -88,7 +88,7 @@ case 'e':
 dg97PLRt = TDVUt58();
 break;
 case 'f':
-ss_5 = c8YrHt(-1226978766, nl9tO, -500545306);
+ss_5 = c8YrHt((short)-1226978766, nl9tO, -500545306);
 break;
 }
 std::cout << "xkL7l" << m_7bb << "fW_PWs8" << "J28il7wpI" << std::endl;
@@ -101,7 +101,7 @@ int k = 5;
 do
 {
 k--;
-Cg0988 = K37Z08s78(-836997378, dg97PLRt, QM_j1Dk7Q, (short)1978835557);
+Cg0988 = K37Z08s78((char)-836997378, dg97PLRt, QM_j1Dk7Q, (short)1978835557);
 }
 while (k >= 0);
 }
@@ -130,7 +130,7 @@ for (int i = 8; i >= 0; i--)
 {
 if (((lbHIr12ae & 1506380865) || (FwH_6)) && (K2Mj_7X == kp9FSEAL))
 {
-std::cout << TDVUt58() << K37Z08s78(-33736502, 1791760696, QM_j1Dk7Q, bMa1P) << "vaBwLOl" << lbHIr12ae << TDVUt58() << std::endl;
+std::cout << TDVUt58() << K37Z08s78((char)-33736502, 1791760696, QM_j1Dk7Q, bMa1P) << "vaBwLOl" << lbHIr12ae << TDVUt58() << std::endl;
 }
 else if (((Vjb2__3 > -1165033941) || (Cg0988 & toy3t3j5H4)) || (cSQ_BJ < sr6OB_L))
 {
@@ -213,7 +213,7 @@ while (i >= 0);
 
 if (ss_5)
 {
-std::cout << K37Z08s78(-1237335979, z29nab_, -319848499, vL932LR2O) << std::endl;
+std::cout << K37Z08s78((char)-1237335979, z29nab_, -319848499, vL932LR2O) << std::endl;
 }
 
 {
@@ -271,7 +271,7 @@ if (e0758I2 == 0)
 
 for (int i = 8; i >= 0; --i)
 {
-std::cout << K37Z08s78(-410924932, BX96E6O70L, 145081246, (short)-256832809) << std::endl;
+std::cout << K37Z08s78((char)-410924932, BX96E6O70L, 145081246, (short)-256832809) << std::endl;
 }
 for (int i = 0; i < 6; i++)
 {
@@ -289,7 +289,7 @@ case 0:
 dg97PLRt = TDVUt58();
 break;
 case 1:
-Xme10_8Cw6 = K37Z08s78(-251903803, 1126218901, ja4C0, x7651U007);
+Xme10_8Cw6 = K37Z08s78((char)-251903803, 1126218901, ja4C0, x7651U007);
 break;
 case 2:
 ZIp34z9 = toy3t3j5H4 + 1709836225;
@@ -301,7 +301,7 @@ case 4:
 vL932LR2O = K37Z08s78(vL932LR2O, -114869506, Lrq60vnQo3, UQB7o2);
 break;
 case 5:
-K2Mj_7X = c8YrHt(1040834911, 28029901, XS7M_Mob);
+K2Mj_7X = c8YrHt((short)1040834911, 28029901, XS7M_Mob);
 break;
 case 6:
 ZIp34z9 = c8YrHt((short)2099501969, 2038225575, -2092624594);
@@ -382,7 +382,7 @@ while (k >= 0);
 }
 else
 {
-std::cout << Z9cuF39f0 << K37Z08s78(-1299561442, vL932LR2O, M68S, (short)691837070) << "QDPNV_VcT" << std::endl;
+std::cout << Z9cuF39f0 << K37Z08s78((char)-1299561442, vL932LR2O, M68S, (short)691837070) << "QDPNV_VcT" << std::endl;
 }
 
 OOCY22 = (int)floor(UQB7o2);

@@ -77,7 +77,7 @@ break;
 }
 else
 {
-std::cout << ToST_CkPF << "fA4n_i76b9" << rLj_MgV(FsMBT0PF4, -86261647, -1306841662) << b_6Y16J76(FsMBT0PF4) << std::endl;
+std::cout << ToST_CkPF << "fA4n_i76b9" << rLj_MgV(FsMBT0PF4, -86261647, (unsigned char)-1306841662) << b_6Y16J76(FsMBT0PF4) << std::endl;
 }
 }
 else
@@ -154,7 +154,7 @@ else if (V9tDm >= -389441395)
 int k = 8;
 while (k >= 0)
 {
-V9tDm = rLj_MgV(-1844901737, ToST_CkPF, (unsigned char)-1424935063);
+V9tDm = rLj_MgV((short)-1844901737, ToST_CkPF, (unsigned char)-1424935063);
 k--;
 }
 }
@@ -171,7 +171,7 @@ FsMBT0PF4 = (int)abs(mf385r0);
 V9tDm = mf385r0 >> 2003033551;
 if (Ds8V53P)
 {
-std::cout << rLj_MgV(-1523693293, 929623618, mf385r0) << b_6Y16J76(V9tDm) << std::endl;
+std::cout << rLj_MgV((short)-1523693293, 929623618, mf385r0) << b_6Y16J76(V9tDm) << std::endl;
 }
 else if (mf385r0 >= -1771421859)
 {
@@ -192,7 +192,7 @@ int k = 0;
 do
 {
 ++k;
-V9tDm = rLj_MgV(-196970265, FsMBT0PF4, (unsigned char)1348565428);
+V9tDm = rLj_MgV((short)-196970265, FsMBT0PF4, (unsigned char)1348565428);
 }
 while (k < 7);
 }
@@ -206,7 +206,7 @@ V9tDm = (double)(ToST_CkPF + (1680459592));
 }
 else if (Ds8V53P)
 {
-std::cout << rLj_MgV(ToST_CkPF, FsMBT0PF4, mf385r0) << rLj_MgV(-1625671482, -505331178, (unsigned char)-697511191) << mf385r0 << std::endl;
+std::cout << rLj_MgV(ToST_CkPF, FsMBT0PF4, mf385r0) << rLj_MgV((short)-1625671482, -505331178, (unsigned char)-697511191) << mf385r0 << std::endl;
 }
 else if (ToST_CkPF >= 545113390)
 {
@@ -296,7 +296,7 @@ if (Ds8V53P)
 {
 if (Ds8V53P != 1780307121)
 {
-std::cout << rLj_MgV(ToST_CkPF, FsMBT0PF4, mf385r0) << rLj_MgV(-1245611283, -1108652403, (unsigned char)155216318) << XP4__A(ToST_CkPF, FsMBT0PF4, 622946592) << ToST_CkPF << std::endl;
+std::cout << rLj_MgV(ToST_CkPF, FsMBT0PF4, mf385r0) << rLj_MgV((short)-1245611283, -1108652403, (unsigned char)155216318) << XP4__A(ToST_CkPF, FsMBT0PF4, 622946592) << ToST_CkPF << std::endl;
 }
 else if (Ds8V53P < 1534565858)
 {
@@ -311,7 +311,7 @@ V9tDm = rLj_MgV(ToST_CkPF, -1812190552, 1693515619);
 }
 else
 {
-std::cout << rLj_MgV(ToST_CkPF, V9tDm, 1780255958) << std::endl;
+std::cout << rLj_MgV(ToST_CkPF, V9tDm, (unsigned char)1780255958) << std::endl;
 }
 }
 else if (ToST_CkPF & -1229102529)
@@ -341,7 +341,7 @@ case 2:
 V9tDm /= 486979651;
 break;
 case 3:
-V9tDm = rLj_MgV(1836930864, FsMBT0PF4, ToST_CkPF) | 1225955077;
+V9tDm = rLj_MgV((short)1836930864, FsMBT0PF4, ToST_CkPF) | 1225955077;
 break;
 }
 }
@@ -524,7 +524,7 @@ break;
 }
 else if (((V9tDm != 431212406) && (FsMBT0PF4)) || (mf385r0 & -1257696515))
 {
-V9tDm = rLj_MgV(1405389872, V9tDm, FsMBT0PF4);
+V9tDm = rLj_MgV((short)1405389872, V9tDm, FsMBT0PF4);
 }
 else if (mf385r0 != 1629373695)
 {
@@ -544,7 +544,7 @@ if (((V9tDm < Ds8V53P) && (Ds8V53P & 1322947700)) && (ToST_CkPF != FsMBT0PF4))
 V9tDm = mf385r0 ^ 1305508866;
 }
 }
-std::cout << "s2nOd95" << "Oj_E" << rLj_MgV(mf385r0, -714705012, -1182182261) << std::endl;
+std::cout << "s2nOd95" << "Oj_E" << rLj_MgV(mf385r0, -714705012, (unsigned char)-1182182261) << std::endl;
 if (V9tDm <= FsMBT0PF4)
 {
 V9tDm /= ToST_CkPF;
@@ -559,7 +559,7 @@ else
 {
 if ((ToST_CkPF & FsMBT0PF4) && (V9tDm <= FsMBT0PF4))
 {
-V9tDm = rLj_MgV(FsMBT0PF4, 1224217420, 1150776817);
+V9tDm = rLj_MgV(FsMBT0PF4, 1224217420, (unsigned char)1150776817);
 }
 else if ((ToST_CkPF > Ds8V53P) && (ToST_CkPF == mf385r0))
 {
@@ -592,7 +592,7 @@ V9tDm = FsMBT0PF4 % 935186491;
 break;
 case 'b':
 case 'B':
-V9tDm = rLj_MgV(ToST_CkPF, Ds8V53P, -342156953);
+V9tDm = rLj_MgV(ToST_CkPF, Ds8V53P, (unsigned char)-342156953);
 break;
 case 'c':
 case 'C':
@@ -660,7 +660,7 @@ case 7:
 V9tDm = rLj_MgV(ToST_CkPF, 63090042, V9tDm);
 break;
 case 8:
-V9tDm = rLj_MgV(Ds8V53P, 435370130, 514964780);
+V9tDm = rLj_MgV(Ds8V53P, 435370130, (unsigned char)514964780);
 break;
 case 9:
 V9tDm = (ToST_CkPF <= -707939195) ? ToST_CkPF : -1630006352;
@@ -768,7 +768,7 @@ if (mf385r0 <= -1087788090)
 ToST_CkPF = b_6Y16J76(ToST_CkPF);
 }
 mf385r0 = (short)(V9tDm * mf385r0);
-V9tDm = rLj_MgV(FsMBT0PF4, 2129859889, -1282727583);
+V9tDm = rLj_MgV(FsMBT0PF4, 2129859889, (unsigned char)-1282727583);
 switch (FsMBT0PF4)
 {
 case 0:

@@ -22,7 +22,7 @@ lSUq_38cG -= LQJu;
 switch (JM24)
 {
 case 0:
-JM24 = rM98qwa(1652536653);
+JM24 = rM98qwa((char)1652536653);
 break;
 case 1:
 GZl7TnS_p = (int)floor(U4ip9q);
@@ -41,7 +41,7 @@ do
 {
 for (int j = 0; j < 5; j++)
 {
-std::cout << JM24 << rM98qwa(-3729959) << "RO12F_3d" << "kn1upg3K" << std::endl;
+std::cout << JM24 << rM98qwa((char)-3729959) << "RO12F_3d" << "kn1upg3K" << std::endl;
 }
 i--;
 }
@@ -70,7 +70,7 @@ case 'a':
 ih9I = ErYatwW * d5w4EYf;
 break;
 case 'b':
-Qd_Px = rM98qwa(-1068516701) | 165973932;
+Qd_Px = rM98qwa((char)-1068516701) | 165973932;
 break;
 case 'c':
 ih9I = (int)abs(vwNY1cDA1);
@@ -85,7 +85,7 @@ case 'f':
 d5w4EYf += lSUq_38cG;
 break;
 case 'g':
-sMi_ROm8m = rM98qwa(-538094195);
+sMi_ROm8m = rM98qwa((char)-538094195);
 break;
 default:
 JM24 = rM98qwa((char)486536177);
@@ -97,7 +97,7 @@ else
 switch (JM24)
 {
 case 0:
-JM24 = rM98qwa(-123630719);
+JM24 = rM98qwa((char)-123630719);
 break;
 case 1:
 sMi_ROm8m = rM98qwa((char)-235245317);
@@ -145,7 +145,7 @@ else if (ih9I != CBOJ3Q_kkd)
 int k = 0;
 while (k < 5)
 {
-Y7aU3N85 = (BClG != 206518326) ? Z27Zc : rM98qwa(554017361);
+Y7aU3N85 = (BClG != 206518326) ? Z27Zc : rM98qwa((char)554017361);
 ++k;
 }
 }
@@ -181,7 +181,7 @@ case 4:
 z5miAD6Xxg -= 1714559812;
 break;
 case 5:
-sMi_ROm8m = rM98qwa(-96531701);
+sMi_ROm8m = rM98qwa((char)-96531701);
 break;
 case 6:
 ErYatwW = (int)floor(U4ip9q);
@@ -196,7 +196,7 @@ case 9:
 z5miAD6Xxg *= 894446108;
 break;
 default:
-JM24 = rM98qwa(-292843834);
+JM24 = rM98qwa((char)-292843834);
 break;
 }
 }
@@ -244,7 +244,7 @@ Z27Zc = z5miAD6Xxg * 1907331336;
 }
 else if (BClG >= ErYatwW)
 {
-sMi_ROm8m = rM98qwa(-982945421);
+sMi_ROm8m = rM98qwa((char)-982945421);
 }
 else
 {
@@ -272,7 +272,7 @@ else if (U4ip9q)
 {
 if ((Z27Zc <= -1430631211) || (Cy1CKB < 1733488875))
 {
-std::cout << rM98qwa(-407115887) << rM98qwa(BClG) << std::endl;
+std::cout << rM98qwa((char)-407115887) << rM98qwa(BClG) << std::endl;
 }
 else if (z5miAD6Xxg == ih9I)
 {
@@ -328,7 +328,7 @@ ih9I = (int)abs(BClG);
 }
 else
 {
-sMi_ROm8m = rM98qwa(-761502861);
+sMi_ROm8m = rM98qwa((char)-761502861);
 }
 }
 catch (int& errorCode)
@@ -373,7 +373,7 @@ switch (JM24)
 {
 case 'a':
 case 'A':
-sMi_ROm8m = rM98qwa(356940270);
+sMi_ROm8m = rM98qwa((char)356940270);
 break;
 case 'b':
 case 'B':
@@ -389,7 +389,7 @@ z5miAD6Xxg = (int)ceil(d5w4EYf);
 break;
 case 'e':
 case 'E':
-sMi_ROm8m = rM98qwa(-119782671);
+sMi_ROm8m = rM98qwa((char)-119782671);
 break;
 case 'f':
 case 'F':

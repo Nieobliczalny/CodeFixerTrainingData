@@ -21,7 +21,7 @@ int main(void)
 {
  int CY9L7A_5c = 0;
   short int  ZGSG6fh  =  0;
-  short  H546twn  =  650366376;
+  short  H546twn  =  (short)650366376;
   unsigned char  uzbzYuJV5  =  (unsigned char)-1497089605;
  long long bXa8uv6W6 = -1952484649;
     short int    O2lt52    =    531326075;
@@ -38,7 +38,7 @@ case 1:
 O2lt52 &= 35113119;
 break;
 case 2:
-uzbzYuJV5 = (O2lt52 == ZGSG6fh) ? -788290297 : j2mBc;
+uzbzYuJV5 = (O2lt52 == ZGSG6fh) ? (unsigned char)-788290297 : j2mBc;
 break;
 case 3:
 uzbzYuJV5 = (H546twn < uzbzYuJV5) ? bXa8uv6W6 : O2lt52;
@@ -50,7 +50,7 @@ case 5:
 j2mBc = DO_9x86x6(NthNWC3SAe, j2mBc, -893693810);
 break;
 case 6:
-bXa8uv6W6 = noKw(1059130361, 1477890119) << 1734640990;
+bXa8uv6W6 = noKw(1059130361, (short)1477890119) << 1734640990;
 break;
 }
 {
@@ -88,7 +88,7 @@ if (bXa8uv6W6 > -1185525042)
 int k = 0;
 do
 {
-hudk = noKw(j2mBc, 647257104);
+hudk = noKw(j2mBc, (short)647257104);
 ++k;
 }
 while (k < 8);
@@ -115,7 +115,7 @@ O2lt52 = DO_9x86x6(-1161046908, hudk, -1659078264);
 }
 }
 
-CY9L7A_5c = noKw(-174492229, -202371907);
+CY9L7A_5c = noKw(-174492229, (short)-202371907);
 try
 {
 if (hudk >= wf97Fet420)
@@ -199,7 +199,7 @@ bXa8uv6W6 = DO_9x86x6(1627797670, -912780031, NthNWC3SAe);
 }
 }
 }
-NthNWC3SAe = noKw(-137525921, 1904888030);
+NthNWC3SAe = noKw(-137525921, (short)1904888030);
 O2lt52 = DO_9x86x6(H546twn, 1545803909, uzbzYuJV5) / CY9L7A_5c;
 
 bXa8uv6W6 = (long long)(uzbzYuJV5);
@@ -245,7 +245,7 @@ else
 {
 try
 {
-hudk = noKw(bXa8uv6W6, 372516221);
+hudk = noKw(bXa8uv6W6, (short)372516221);
 }
 catch (int& errorCode)
 {
@@ -302,7 +302,7 @@ else if (((NthNWC3SAe != HeYF39L4pw) || (ZGSG6fh <= bXa8uv6W6)) || (hudk))
 {
 try
 {
-H546twn = (O2lt52 < 1165983479) ? DO_9x86x6(ZGSG6fh, 1661870378, hudk) : -1201890422;
+H546twn = (O2lt52 < 1165983479) ? DO_9x86x6(ZGSG6fh, 1661870378, hudk) : (short)-1201890422;
 }
 catch (int& errorCode)
 {
@@ -316,7 +316,7 @@ int j = 10;
 do
 {
 j--;
-hudk = noKw(H546twn, -1653794519);
+hudk = noKw(H546twn, (short)-1653794519);
 }
 while (j >= 0);
 }

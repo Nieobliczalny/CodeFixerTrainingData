@@ -18,7 +18,7 @@ using std::floor;
 
 char s41P59(unsigned int fQvKY,int p43J_,char mbM99J9,unsigned long long gZ8j)
 {
- return 313965859;
+ return (char)313965859;
 }
 
 unsigned short int    K4jp(long long    QT0u86,long    Y6_gwU2Z_,unsigned short    NITV9,unsigned short int    EQuv)    {
@@ -74,7 +74,7 @@ while (j >= 0);
 }
 }
 
-g3VKP = K4jp(r68H, g3VKP, 355161282, Jo_7f2Gj);
+g3VKP = K4jp(r68H, g3VKP, (unsigned short)355161282, Jo_7f2Gj);
 
 DpXYlJt7T = K4jp(389154994, 1328922280, (unsigned short)-604897423, -1325394059);
 
@@ -113,7 +113,7 @@ vcN6DCZ8EB = K4jp(vcN6DCZ8EB, g3VKP, Jo_7f2Gj, F_67HbXn);
 break;
 case 'f':
 case 'F':
-DpXYlJt7T = K4jp(-1333096438, Pa41RIcM8, n9698r, 1784408313);
+DpXYlJt7T = K4jp(-1333096438, Pa41RIcM8, n9698r, (unsigned short)1784408313);
 break;
 case 'g':
 case 'G':
@@ -126,7 +126,7 @@ break;
 }
 }
 
-Q05022Fo = s41P59(-1366627002, -417609429, 1860926375, -1677331513);
+Q05022Fo = s41P59(-1366627002, -417609429, (char)1860926375, -1677331513);
 
 SM_AyEt = (long)(V4x1H_ff);
 
@@ -156,7 +156,7 @@ case 'a':
 SM_AyEt = s41P59(SM_AyEt, vcN6DCZ8EB, Pa41RIcM8, 2117990002);
 break;
 case 'b':
-DB_D5 = K4jp(SM_AyEt, vcN6DCZ8EB, Pa41RIcM8, 1886023377) - 173510610;
+DB_D5 = K4jp(SM_AyEt, vcN6DCZ8EB, Pa41RIcM8, (unsigned short)1886023377) - 173510610;
 break;
 case 'c':
 Waan5U9s = (int)abs(n9698r);
@@ -168,7 +168,7 @@ case 'e':
 fRA9 -= 2134093383;
 break;
 case 'f':
-r68H = s41P59(576374638, r68H, -1509077287, fRA9);
+r68H = s41P59(576374638, r68H, (char)-1509077287, fRA9);
 break;
 case 'g':
 vcN6DCZ8EB = K4jp(Waan5U9s, vcN6DCZ8EB, DB_D5, Pa41RIcM8);
@@ -198,7 +198,7 @@ j++;
 switch (g3VKP)
 {
 case 0:
-DpXYlJt7T = K4jp(Waan5U9s, Q05022Fo, -587546605, DB_D5);
+DpXYlJt7T = K4jp(Waan5U9s, Q05022Fo, (unsigned short)-587546605, DB_D5);
 break;
 case 1:
 DpXYlJt7T = K4jp(1264762647, 2046983334, (unsigned short)-672596794, -1789805114);
@@ -210,7 +210,7 @@ case 3:
 Pa41RIcM8 += 850174935;
 break;
 case 4:
-F_67HbXn = s41P59(2017266460, Jo_7f2Gj, 302206327, -385728425);
+F_67HbXn = s41P59(2017266460, Jo_7f2Gj, (char)302206327, -385728425);
 break;
 case 5:
 Q05022Fo = s41P59(Q05022Fo, -311573919, DB_D5, -935891056);
@@ -227,7 +227,7 @@ if (Waan5U9s < Jo_7f2Gj)
 switch (F_67HbXn)
 {
 case 0:
-Jo_7f2Gj = K4jp(F_67HbXn, SM_AyEt, -1687486596, (unsigned short)1889931524);
+Jo_7f2Gj = K4jp(F_67HbXn, SM_AyEt, (unsigned short)-1687486596, (unsigned short)1889931524);
 break;
 case 1:
 fRA9 &= 1727155262;
@@ -248,7 +248,7 @@ n9698r >>= DB_D5;
 
 if (SM_AyEt != M_vZZD1_f)
 {
-SM_AyEt = s41P59(-1501109776, 640753848, 1548031612, n9698r) | 522263569;
+SM_AyEt = s41P59(-1501109776, 640753848, (char)1548031612, n9698r) | 522263569;
 }
 F_67HbXn = t8GAjjxZ_w / g3VKP;
 if (fRA9 <= g3VKP)
@@ -264,7 +264,7 @@ if (vcN6DCZ8EB < T9_80Rc)
 {
 try
 {
-vcN6DCZ8EB = K4jp(vcN6DCZ8EB, DB_D5, -1213270018, Waan5U9s);
+vcN6DCZ8EB = K4jp(vcN6DCZ8EB, DB_D5, (unsigned short)-1213270018, Waan5U9s);
 }
 catch (int& errorCode)
 {
@@ -296,7 +296,7 @@ for (int j = 0; j < 2; j++)
 {
 if ((Waan5U9s) || (Jo_7f2Gj > g3VKP))
 {
-n9698r = K4jp(vcN6DCZ8EB, 1715442761, -1823510825, (unsigned short)-1767305728) * g3VKP;
+n9698r = K4jp(vcN6DCZ8EB, 1715442761, (unsigned short)-1823510825, (unsigned short)-1767305728) * g3VKP;
 }
 else
 {
@@ -312,7 +312,7 @@ int j = 0;
 while (j < 2)
 {
 j++;
-std::cout << s41P59(-1183673815, fRA9, -1860838084, -1025756804) << vcN6DCZ8EB << "I_Ai" << std::endl;
+std::cout << s41P59(-1183673815, fRA9, (char)-1860838084, -1025756804) << vcN6DCZ8EB << "I_Ai" << std::endl;
 }
 }
 }

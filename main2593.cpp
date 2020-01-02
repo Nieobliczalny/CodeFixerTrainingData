@@ -110,7 +110,7 @@ if (MVx7X != -223339318)
 int k = 0;
 while (k < 8)
 {
-KhtxMBw = N5rd0L6A(kTqTC982, -1931354765, -1046664742) * bE6NH;
+KhtxMBw = N5rd0L6A(kTqTC982, -1931354765, (unsigned char)-1046664742) * bE6NH;
 k++;
 }
 }
@@ -597,7 +597,7 @@ case 2:
 RsSedqJv9 = (int)abs(Zqqq_);
 break;
 case 3:
-wp0Td_Z = v1_I8Am(-184194145, P8WUix, yaDTV32_s, -2025834244, 1072801034);
+wp0Td_Z = v1_I8Am(-184194145, P8WUix, yaDTV32_s, (short)-2025834244, 1072801034);
 break;
 case 4:
 a2Vt_5A /= 1215712479;
@@ -714,7 +714,7 @@ unsigned long	N5rd0L6A(long	uC9lN7,unsigned long	F07t2zXN,unsigned char	O203TK0)
 
 char    cDtL9ByH(unsigned long    NT044pTtWT,unsigned long long    ucj4k,unsigned long    qwH_)
 {
-    return    309196723;
+    return    (char)309196723;
 }
 
 unsigned char  DV5FFrm()  {

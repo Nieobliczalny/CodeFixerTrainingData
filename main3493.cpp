@@ -14,7 +14,7 @@ unsigned long y4JYW1SheY(char be7_q29w,unsigned char r48w3,unsigned long long dF
 
 unsigned short	lH5N6(long	ZUY53,unsigned short	jw0s,unsigned long long	C3GIrKnjMk)
 {
-	return	2126858280;
+	return	(unsigned short)2126858280;
 }
 
 unsigned char g_9e7A0E1(short b4JuUVB77Y,unsigned long O7Sp56,int t260siw)
@@ -28,7 +28,7 @@ short  t__gRE80()
 }
 
 unsigned char R8Y6aI(unsigned char zKsL4B5E,char gSu0t,char TFz2FuIE6x,unsigned char LeSlXYC4S,long lmz6W) {
- return -1744818468;
+ return (unsigned char)-1744818468;
 }
 
 int main() {
@@ -38,7 +38,7 @@ int main() {
     unsigned long long    l_Al    =    590602253;
     int    RtZ326    =    881428852;
  unsigned int T6o2a0O3F = -1000576880;
-    unsigned short    M27S82R8    =    -501808544;
+    unsigned short    M27S82R8    =    (unsigned short)-501808544;
   unsigned long long  zk13Z1dOD_  =  1400827783;
  unsigned short yNqpK9 = (unsigned short)-396964214;
     unsigned long long    asM87    =    -197925478;
@@ -51,7 +51,7 @@ int main() {
  double MjM88 = -894352383;
  float t9cI660JP5 = 670444276;
  double nQ03ez = -1842055444;
-	char	oU4t	=	-368092225;
+	char	oU4t	=	(char)-368092225;
     char    v8__fM    =    (char)-120703420;
 	short int	A5yB9AAW	=	1780681893;
  unsigned short U9jVm40 = -326203871;
@@ -61,7 +61,7 @@ int main() {
   long double  wu661f_5  =  1032374797;
     long    T2CfOU7    =    216386951;
     unsigned int    x8_aZrQSl    =    400360048;
-    short    u9aN7    =    -562072022;
+    short    u9aN7    =    (short)-562072022;
  int g26HI9N9Dc = -1024441116;
 	unsigned long long	KJwAq1C	=	540074580;
     short    AzHa    =    (short)1770015116;
@@ -71,7 +71,7 @@ int main() {
 	unsigned short int	hnEdTi	=	-1100475633;
 	unsigned long	JEgt8	=	1672522720;
 	short int	wZId	=	-2070027881;
-	unsigned short	n422D3RKs	=	1730972363;
+	unsigned short	n422D3RKs	=	(unsigned short)1730972363;
 	double	ce2cSHFyXU	=	-469423513;
   float  kgs9  =  1250407711;
 	long long	kez7	=	409369682;
@@ -94,7 +94,7 @@ case 'b':
 zk13Z1dOD_--;
 break;
 case 'c':
-MjM88 = g_9e7A0E1(-776391836, iJ6HlMq79Q, A5yB9AAW);
+MjM88 = g_9e7A0E1((short)-776391836, iJ6HlMq79Q, A5yB9AAW);
 break;
 case 'd':
 zk13Z1dOD_ = y4JYW1SheY(zk13Z1dOD_, JEgt8, 1909783161, 644262455);
@@ -121,7 +121,7 @@ while (k < 9);
 }
 else if (U9jVm40 > g26HI9N9Dc)
 {
-AzHa = R8Y6aI(2096756385, u9aN7, JEgt8, x8_aZrQSl, kgs9);
+AzHa = R8Y6aI((unsigned char)2096756385, u9aN7, JEgt8, x8_aZrQSl, kgs9);
 }
 else if (AzHa <= 2102799240)
 {
@@ -253,7 +253,7 @@ nQ03ez = (int)floor(ue2aI2s9QN);
 
 if (g26HI9N9Dc < l_Al)
 {
-std::cout << "ozMuhxY" << LhnEn6 << wZId << gw2j6I50 << lH5N6(kgs9, -762389242, M27S82R8) << std::endl;
+std::cout << "ozMuhxY" << LhnEn6 << wZId << gw2j6I50 << lH5N6(kgs9, (unsigned short)-762389242, M27S82R8) << std::endl;
 }
 else if ((g26HI9N9Dc < k9x6Qvy0CV) && (l_Al <= ce2cSHFyXU))
 {
@@ -275,7 +275,7 @@ do
 {
 if (k9x6Qvy0CV != -75466509)
 {
-A41Z6 = y4JYW1SheY(A41Z6, 1941106870, 1322516783, AzHa);
+A41Z6 = y4JYW1SheY(A41Z6, (unsigned char)1941106870, 1322516783, AzHa);
 }
 else
 {
@@ -286,7 +286,7 @@ T6o2a0O3F = y4JYW1SheY(T6o2a0O3F, (unsigned char)1725925315, -210307457, -206130
 while (j >= 0);
 }
 }
-J73a = y4JYW1SheY(J73a, 1171842968, l_Al, gw2j6I50);
+J73a = y4JYW1SheY(J73a, (unsigned char)1171842968, l_Al, gw2j6I50);
 
 wu661f_5 = lH5N6(wu661f_5, iJ6HlMq79Q, cKC8T85CE8);
 cKC8T85CE8 = (unsigned long)(v8__fM);
@@ -328,7 +328,7 @@ else
 int j = 5;
 do
 {
-std::cout << "a91OljT" << lH5N6(1568116932, 835529530, cKC8T85CE8) << std::endl;
+std::cout << "a91OljT" << lH5N6(1568116932, (unsigned short)835529530, cKC8T85CE8) << std::endl;
 j--;
 }
 while (j >= 0);
@@ -342,7 +342,7 @@ for (int i = 10; i >= 0; i--)
 std::cout << yNqpK9 << Q22_ << "pxEK3z" << P8Up9_ << std::endl;
 }
 
-std::cout << "bCrp" << "Y5qb" << R8Y6aI(20701729, iJ6HlMq79Q, cKC8T85CE8, (unsigned char)-179575047, -46093782) << std::endl;
+std::cout << "bCrp" << "Y5qb" << R8Y6aI((unsigned char)20701729, iJ6HlMq79Q, cKC8T85CE8, (unsigned char)-179575047, -46093782) << std::endl;
 
 P8Up9_ = (int)ceil(wu661f_5);
 for (int i = 0; i < 4; ++i)
@@ -380,7 +380,7 @@ case 2:
 pf3JBL4M8 /= M27S82R8;
 break;
 case 3:
-JEgt8 = R8Y6aI(148001848, (char)-670939773, LhnEn6, -1835064604, xf7N);
+JEgt8 = R8Y6aI((unsigned char)148001848, (char)-670939773, LhnEn6, -1835064604, xf7N);
 break;
 case 4:
 vYVv = t__gRE80();

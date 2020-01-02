@@ -46,7 +46,7 @@ case 'a':
 mH0_C = (int)abs(XIp6o);
 break;
 case 'b':
-SUZr_nn011 = A3xDvquKTJ(34808344, (char)-691270817, 1669411241, 2014862575, T28Q00l060);
+SUZr_nn011 = A3xDvquKTJ((short)34808344, (char)-691270817, 1669411241, 2014862575, T28Q00l060);
 break;
 case 'c':
 CT1Nw7 = kFAC9G(-1950960844, 974525848, MJy92ZP_t);
@@ -82,7 +82,7 @@ T28Q00l060 = Dc3G4mF();
 }
 else if (((E8h22mzp) && (mH0_C > r6SlMBq)) || (CT1Nw7 != 1927800678))
 {
-XIp6o = FWkw7wT(-2000000520, -1179558939, E8h22mzp);
+XIp6o = FWkw7wT(-2000000520, (short)-1179558939, E8h22mzp);
 }
 else if (MJy92ZP_t < dv9715)
 {
@@ -103,7 +103,7 @@ MJy92ZP_t = W067();
 switch (mH0_C)
 {
 case 0:
-mH0_C = A3xDvquKTJ(-1495033060, (char)962171888, -565420600, -1278747425, XIp6o);
+mH0_C = A3xDvquKTJ((short)-1495033060, (char)962171888, -565420600, -1278747425, XIp6o);
 break;
 case 1:
 r6SlMBq = W067();
@@ -131,7 +131,7 @@ case 'a':
 mH0_C = Dc3G4mF();
 break;
 case 'b':
-E8h22mzp = FWkw7wT(826245792, -1037362051, u7982g10);
+E8h22mzp = FWkw7wT(826245792, (short)-1037362051, u7982g10);
 break;
 case 'c':
 MJy92ZP_t = W067();
@@ -146,7 +146,7 @@ case 'f':
 SUZr_nn011 %= CT1Nw7;
 break;
 case 'g':
-XIp6o = A3xDvquKTJ(XIp6o, -1161089610, -98992993, T28Q00l060, -1563766727);
+XIp6o = A3xDvquKTJ(XIp6o, (char)-1161089610, -98992993, T28Q00l060, -1563766727);
 break;
 case 'h':
 u7982g10 = kFAC9G(-785961746, E8h22mzp, SUZr_nn011);
@@ -167,7 +167,7 @@ try
 {
 if (MJy92ZP_t == XIp6o)
 {
-T28Q00l060 = A3xDvquKTJ(T28Q00l060, 1103926187, -1465355769, CT1Nw7, mH0_C);
+T28Q00l060 = A3xDvquKTJ(T28Q00l060, (char)1103926187, -1465355769, CT1Nw7, mH0_C);
 }
 else
 {
@@ -190,7 +190,7 @@ unsigned int W067() {
 }
 
 unsigned char	FWkw7wT(unsigned long	r2LtR1DY7,short	uLWw,unsigned long long	DSG4ucwa)	{
-	return	1311204036;
+	return	(unsigned char)1311204036;
 }
 
 long long	Dc3G4mF()	{
@@ -203,6 +203,6 @@ unsigned short int A3xDvquKTJ(short int cmcs,char M3AYDi0r9,unsigned long G_335Q
 }
 
 unsigned char    kFAC9G(unsigned long long    OM5ZOyX6D,unsigned long long    GQw_kO,unsigned char    tK_N)    {
-    return    2078148029;
+    return    (unsigned char)2078148029;
 }
 

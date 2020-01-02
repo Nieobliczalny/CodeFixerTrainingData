@@ -14,7 +14,7 @@ using namespace std;
 int main(void)
 {
  short int pOqr;
- pOqr = -2133742619;
+ pOqr = (short)-2133742619;
 	unsigned long	k1mvi616r;
 	k1mvi616r	=	-646431546;
   int  Q1o7EwXgX;
@@ -30,7 +30,7 @@ int main(void)
     long long    HHvsvIFku_;
     HHvsvIFku_    =    1600393746;
 	char	hmfYE;
-	hmfYE	=	-1394357014;
+	hmfYE	=	(char)-1394357014;
     unsigned char    J_E5__A5;
     J_E5__A5    =    (unsigned char)-1417403870;
  short int bOSYVO8jX;
@@ -40,7 +40,7 @@ int main(void)
  unsigned long long Td6Pn48e6;
  Td6Pn48e6 = 1427644461;
  short fVpklPUU4;
- fVpklPUU4 = -830134994;
+ fVpklPUU4 = (short)-830134994;
  short iKa86S;
  iKa86S = (short)-133534453;
  double AdL_;
@@ -52,7 +52,7 @@ int main(void)
 	unsigned long	cfG140S;
 	cfG140S	=	-160285823;
   unsigned short int  LD4T3N;
-  LD4T3N  =  -1812627243;
+  LD4T3N  =  (unsigned short)-1812627243;
 	long long	ed2m;
 	ed2m	=	-1117007935;
     unsigned short int    E8qOndygZ5;
@@ -64,7 +64,7 @@ int main(void)
     long    vr4P3LA;
     vr4P3LA    =    -1260662297;
     unsigned short int    KP3Gqq434Y;
-    KP3Gqq434Y    =    221353811;
+    KP3Gqq434Y    =    (unsigned short)221353811;
     long    xbK8Tt3;
     xbK8Tt3    =    -1726355374;
   short  kg980;
@@ -76,7 +76,7 @@ int main(void)
     long double    vOe5mY2w;
     vOe5mY2w    =    -1672915503;
 	short int	sml2EYZg3_;
-	sml2EYZg3_	=	-581273378;
+	sml2EYZg3_	=	(short)-581273378;
 	long double	edYnXNmR4;
 	edYnXNmR4	=	-1267084776;
  long long d3265_L1;
@@ -88,7 +88,7 @@ int main(void)
 	unsigned long long	AD6l5n48X;
 	AD6l5n48X	=	-1100901396;
  unsigned short int bfjNQ9rMjG;
- bfjNQ9rMjG = 1418476661;
+ bfjNQ9rMjG = (unsigned short)1418476661;
   long long  RegVF;
   RegVF  =  1314164855;
 	short int	Bzv3r5i;
@@ -100,7 +100,7 @@ int main(void)
 	long	dxXmzrP6;
 	dxXmzrP6	=	-1559814992;
   unsigned short  H5iES3_Mvq;
-  H5iES3_Mvq  =  1890526231;
+  H5iES3_Mvq  =  (unsigned short)1890526231;
     unsigned int    z9ggijGeRk;
     z9ggijGeRk    =    121478480;
     float    Jdq62_J1;
@@ -110,7 +110,7 @@ int main(void)
 	int	yF3Cf_;
 	yF3Cf_	=	-466806054;
     short    C70y;
-    C70y    =    -492051208;
+    C70y    =    (short)-492051208;
  unsigned char Ry6_M2L;
  Ry6_M2L = (unsigned char)1789872711;
 	unsigned short int	tP_rUK;
@@ -120,7 +120,7 @@ int main(void)
   unsigned short  t561;
   t561  =  -1392877367;
 	char	gLbQ1IF;
-	gLbQ1IF	=	-877662302;
+	gLbQ1IF	=	(char)-877662302;
 	short int	jkRtpqY2Sf;
 	jkRtpqY2Sf	=	(short)781169989;
  long double K9iF;
@@ -140,7 +140,7 @@ int main(void)
 	int	uWGUVogd;
 	uWGUVogd	=	1618854954;
     char    Ptd7lsd;
-    Ptd7lsd    =    -153303003;
+    Ptd7lsd    =    (char)-153303003;
  char BWrigVR;
  BWrigVR = (char)-1665485182;
   unsigned short  MOU7pc6A2;
@@ -150,7 +150,7 @@ int main(void)
   long  QvRY;
   QvRY  =  0;
  short iVi_P1daN2;
- iVi_P1daN2 = -7042539;
+ iVi_P1daN2 = (short)-7042539;
 
 {
 int i = 7;

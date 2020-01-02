@@ -8,7 +8,7 @@
 
 
 short int a12Um9JKy(long long sDoA13xV,char C_Lmw,unsigned long long Y973Y23l) {
- return -1465535546;
+ return (short)-1465535546;
 }
 
 unsigned short int  lUP27(char  pY8R,int  VdiW1o93y,char  mK_OG2PTw2,int  Jk3f9Rg_Ly,unsigned long long  Asxu1d)  {
@@ -128,7 +128,7 @@ oJF5J26 = (int)floor(G53NGxIW);
 }
 else
 {
-std::cout << lUP27(AttGi_, 627021822, -543538321, -2020356671, lmhIai) << "aQN05" << a12Um9JKy(258049381, (char)-2117970153, 42891343) << bCmO9sI0Z2(1461170185) << std::endl;
+std::cout << lUP27(AttGi_, 627021822, (char)-543538321, -2020356671, lmhIai) << "aQN05" << a12Um9JKy(258049381, (char)-2117970153, 42891343) << bCmO9sI0Z2(1461170185) << std::endl;
 }
 }
 else
@@ -193,7 +193,7 @@ VA7hj5FV6B -= 1192379516;
 }
 else if ((PZ8D1SgU3 >= 548034705) && (ecde < -1314843148))
 {
-R4z9Xr = lUP27(555921741, i0tC7r_V80, (char)-39851541, hVchy803, 1615785785);
+R4z9Xr = lUP27((char)555921741, i0tC7r_V80, (char)-39851541, hVchy803, 1615785785);
 }
 else if (sWZB <= -1590577170)
 {
@@ -250,7 +250,7 @@ else if (Sp_0hL9C11 != -988922219)
 {
 if ((ekFB) || ((SpM6tn) && (CmGf7 >= 2068465548)))
 {
-emF_N4RD = lUP27(-1723942256, 1885244686, (char)-1759772595, ekFB, s4j19Dpve7);
+emF_N4RD = lUP27((char)-1723942256, 1885244686, (char)-1759772595, ekFB, s4j19Dpve7);
 }
 else if (wf2BQA3g & -108342660)
 {
@@ -262,7 +262,7 @@ cSup = lUP27(wf2BQA3g, cSup, SpM6tn, -1944425732, 2068283741);
 }
 else if (Kd1i == 1943364552)
 {
-sOIg = lUP27(31736865, I_6H3, (char)541155361, cV0F8j24, -1950335511);
+sOIg = lUP27((char)31736865, I_6H3, (char)541155361, cV0F8j24, -1950335511);
 }
 else if (wf2BQA3g & -1704564426)
 {
@@ -277,7 +277,7 @@ else if ((VwTZSAP == 385308194) && ((ha6_pyhnag == lqU31IA5FB) || (I_6H3 == 1970
 {
 try
 {
-ha6_pyhnag = a12Um9JKy(281120914, -922875296, t2aVgpbc);
+ha6_pyhnag = a12Um9JKy(281120914, (char)-922875296, t2aVgpbc);
 }
 catch (int& errorCode)
 {
@@ -316,7 +316,7 @@ j7oANSNS = HA1a47WnW / hVchy803;
 
 if (wf2BQA3g & -90672194)
 {
-std::cout << lUP27(1730396368, Kd1i, YW__, -1754003479, ss59VRJMr) << std::endl;
+std::cout << lUP27((char)1730396368, Kd1i, YW__, -1754003479, ss59VRJMr) << std::endl;
 }
 else
 {
@@ -360,7 +360,7 @@ VA7hj5FV6B = u6dLju * 1774507475;
 break;
 case 'c':
 case 'C':
-Srt9 = lUP27(-467311826, SpM6tn, lWCH2JA, -213689952, fETyY);
+Srt9 = lUP27((char)-467311826, SpM6tn, lWCH2JA, -213689952, fETyY);
 break;
 }
 ZJKnal = (int)floor(mrTz2KC);
@@ -438,7 +438,7 @@ case 'b':
 V90K_6U3U *= Rw94L9;
 break;
 case 'c':
-J45_8C = lUP27(1526275863, -756467618, (char)-1629527683, -544716550, MkSC6);
+J45_8C = lUP27((char)1526275863, -756467618, (char)-1629527683, -544716550, MkSC6);
 break;
 }
 }
@@ -473,7 +473,7 @@ if (lmhIai >= -966066324)
 {
 if (ekFB == -159893032)
 {
-MkSC6 = lUP27(-1573284891, 1546018763, cSup, YW__, -1108118852);
+MkSC6 = lUP27((char)-1573284891, 1546018763, cSup, YW__, -1108118852);
 }
 }
 }
@@ -499,7 +499,7 @@ while (j >= 0);
 
 try
 {
-Kd1i = lUP27(-2103485918, s4j19Dpve7, WkBw, 236886784, 1346571786);
+Kd1i = lUP27((char)-2103485918, s4j19Dpve7, WkBw, 236886784, 1346571786);
 }
 catch (int& errorCode)
 {
@@ -521,7 +521,7 @@ zXAsPB = oJF5J26 * Fwjw__;
 }
 else if (wf2BQA3g & 9936914)
 {
-xW1ngiVB = a12Um9JKy(1915720750, -620902121, -2138143782);
+xW1ngiVB = a12Um9JKy(1915720750, (char)-620902121, -2138143782);
 }
 else if (((WkBw <= 1557395797) && (sInfpK0S9g >= 1181982173)) || (fTM5 > MkSC6))
 {
@@ -533,7 +533,7 @@ sTI2 = bCmO9sI0Z2(-422881755) | 1326009374;
 }
 else if (j7oANSNS < 1561441726)
 {
-Ulmz = a12Um9JKy(Ulmz, 1084924708, 1859745771);
+Ulmz = a12Um9JKy(Ulmz, (char)1084924708, 1859745771);
 }
 else
 {
@@ -548,7 +548,7 @@ else if ((Rw94L9 > -727929344) && (Rw94L9))
 {
 for (int k = 0; k < 9; ++k)
 {
-emF_N4RD = a12Um9JKy(153808972, 545312807, lmhIai) % 2140618395;
+emF_N4RD = a12Um9JKy(153808972, (char)545312807, lmhIai) % 2140618395;
 }
 }
 else if (I_6H3 != 959289286)
@@ -610,7 +610,7 @@ while (j >= 0);
 }
 else
 {
-std::cout << MkSC6 << lUP27(1193397591, sInfpK0S9g, lmhIai, SpM6tn, -1325240075) << lUP27(ekFB, -853169501, (char)-1062940174, 1061289904, 977750669) << std::endl;
+std::cout << MkSC6 << lUP27((char)1193397591, sInfpK0S9g, lmhIai, SpM6tn, -1325240075) << lUP27(ekFB, -853169501, (char)-1062940174, 1061289904, 977750669) << std::endl;
 }
 
 v6V8GR207 -= hVchy803;

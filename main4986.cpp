@@ -38,7 +38,7 @@ i++;
 while (i < 2);
 }
 YA6teG9jB = -1894459414 / MgcgPj;
-cout << mPw24 << U68PezIs(2016509549, -2069450601, sa_4J, i6QK5B, D6adw72C1) << v6344u << U68PezIs(y87X3W, -1920559484, sa_4J, 492003030, (short)1784190150) << endl;
+cout << mPw24 << U68PezIs((unsigned short)2016509549, -2069450601, sa_4J, i6QK5B, D6adw72C1) << v6344u << U68PezIs(y87X3W, -1920559484, sa_4J, 492003030, (short)1784190150) << endl;
 
 return 0;
 }

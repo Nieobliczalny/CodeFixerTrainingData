@@ -39,7 +39,7 @@ else if (((Hkn4 != Ydlk1) && (Aj2eza0)) || ((kkc1 < CXJ96) && (iR5NL & -13836000
 {
 if ((Va35B_4n < JY7ZKcq6n) && (GHgbSk >= -1794981220))
 {
-zLhA = epu6S(-1260274288, j9u3n);
+zLhA = epu6S((unsigned char)-1260274288, j9u3n);
 }
 else if (zLhA == uz1r70WU_X)
 {
@@ -77,7 +77,7 @@ case 1:
 rSFZ5j |= 1819556250;
 break;
 case 2:
-dmQd9e_cz3 = Yq0_(-442387534, -1596374393, Va35B_4n);
+dmQd9e_cz3 = Yq0_((unsigned short)-442387534, -1596374393, Va35B_4n);
 break;
 case 3:
 zLhA = epu6S(hnafsu7m, (short)-1275134364);
@@ -120,7 +120,7 @@ hnafsu7m |= o_qAi_Zc;
 }
 if (fV6F != d2Vc8AgTN)
 {
-cout << Yq0_(Aj2eza0, -698379700, -62338219) << "hA5aWg_Fn" << "aEI6" << o_qAi_Zc << epu6S(Aj2eza0, (short)741931711) << endl;
+cout << Yq0_(Aj2eza0, -698379700, (unsigned short)-62338219) << "hA5aWg_Fn" << "aEI6" << o_qAi_Zc << epu6S(Aj2eza0, (short)741931711) << endl;
 }
 else if (N6v0 <= Z6F6jj)
 {
@@ -159,7 +159,7 @@ NwmF8550R = (int)abs(hnafsu7m);
 }
 else if (egyN1l8 < 374114533)
 {
-J2_2Tf5cJy = Yq0_(-1444474374, OY__VA8, N6v0);
+J2_2Tf5cJy = Yq0_((unsigned short)-1444474374, OY__VA8, N6v0);
 }
 else
 {
@@ -177,7 +177,7 @@ hnafsu7m = (short int)(Qmfc);
 
 try
 {
-zLhA = epu6S(-1209679132, (short)1502674311);
+zLhA = epu6S((unsigned char)-1209679132, (short)1502674311);
 }
 catch (int& errorCode)
 {
@@ -193,7 +193,7 @@ try
 switch (Oq00T2P)
 {
 case 0:
-zLhA = epu6S(1814700764, s5ZxGtCpPa);
+zLhA = epu6S((unsigned char)1814700764, s5ZxGtCpPa);
 break;
 case 1:
 zLhA = epu6S(jM9HMUW, Va35B_4n);
@@ -205,7 +205,7 @@ case 3:
 jM9HMUW /= 2121811588;
 break;
 case 4:
-kkc1 = Yq0_(913997103, 1623641363, (unsigned short)-1361978407);
+kkc1 = Yq0_((unsigned short)913997103, 1623641363, (unsigned short)-1361978407);
 break;
 case 5:
 OY__VA8--;
@@ -233,7 +233,7 @@ catch (int& errorCode)
 pS70 &= GHgbSk;
 }
 }
-cout << BNVJ << "Jwxwyy_mup" << "QSHE" << Yq0_(-1773045294, -1127398944, S0p7zdB) << endl;
+cout << BNVJ << "Jwxwyy_mup" << "QSHE" << Yq0_((unsigned short)-1773045294, -1127398944, S0p7zdB) << endl;
 
 if (((Go56934 == j580) && (v6GKM6rMo2 == -520595957)) || (VJX311lcG))
 {
@@ -252,7 +252,7 @@ else
 {
 for (int k = 2; k >= 0; k--)
 {
-NwmF8550R = Yq0_(765632150, 1071036794, p52mNb);
+NwmF8550R = Yq0_((unsigned short)765632150, 1071036794, p52mNb);
 }
 }
 }
@@ -301,7 +301,7 @@ for (int j = 0; j < 3; j++)
 {
 for (int k = 5; k >= 0; k--)
 {
-j580 = Yq0_(1370698881, 644617015, (unsigned short)1910391576);
+j580 = Yq0_((unsigned short)1370698881, 644617015, (unsigned short)1910391576);
 }
 }
 }
@@ -332,7 +332,7 @@ if (o_qAi_Zc == Ydlk1)
 switch (v6GKM6rMo2)
 {
 case 0:
-zLhA = epu6S(-1520210821, (short)1556662029);
+zLhA = epu6S((unsigned char)-1520210821, (short)1556662029);
 break;
 case 1:
 Y3ef831 = Yq0_(Y3ef831, 589745317, WYa87kY);
@@ -344,7 +344,7 @@ case 3:
 LqIo = Yq0_(LqIo, lrSeY6x_6v, o_qAi_Zc);
 break;
 case 4:
-YfD8oQh = Yq0_(-1697347635, VJX311lcG, (unsigned short)-1374751143);
+YfD8oQh = Yq0_((unsigned short)-1697347635, VJX311lcG, (unsigned short)-1374751143);
 break;
 case 5:
 pS70 = Yq0_(1537061349, h_5X09y, bTIm);
@@ -364,7 +364,7 @@ else
 {
 if ((v6GKM6rMo2 & -1543676213) && (j580 <= VJX311lcG))
 {
-pS70 = epu6S(-368260866, (short)-355723940) & 2082558302;
+pS70 = epu6S((unsigned char)-368260866, (short)-355723940) & 2082558302;
 }
 else
 {
@@ -398,7 +398,7 @@ rSFZ5j = (int)abs(S0p7zdB);
 }
 else if (Aj2eza0 == CXJ96)
 {
-GHgbSk = Yq0_(-1102730323, -1271295929, fSuVe);
+GHgbSk = Yq0_((unsigned short)-1102730323, -1271295929, fSuVe);
 }
 else if (dmQd9e_cz3 & S0p7zdB)
 {
@@ -415,7 +415,7 @@ else
 {
 for (int k = 6; k >= 0; k--)
 {
-Go56934 = Yq0_(-1817296405, -417512843, (unsigned short)-327947295);
+Go56934 = Yq0_((unsigned short)-1817296405, -417512843, (unsigned short)-327947295);
 }
 }
 }
@@ -429,7 +429,7 @@ else
 {
 if ((Go56934 > Ti_0t32o) && (v6GKM6rMo2 & egyN1l8))
 {
-lrSeY6x_6v = (FnRaZ == j9u3n) ? 1967038497 : (short)-765835825;
+lrSeY6x_6v = (FnRaZ == j9u3n) ? (short)1967038497 : (short)-765835825;
 }
 }
 }
@@ -466,7 +466,7 @@ return 0;
 
 unsigned char	Yq0_(unsigned short	K3ix09,int	A3KIBzgT3,unsigned short	nE9Fnv)
 {
-	return	-51081126;
+	return	(unsigned char)-51081126;
 }
 
 unsigned short epu6S(unsigned char o72eR7vdHT,short int a7KjUbgM) {

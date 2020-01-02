@@ -17,7 +17,7 @@ int main(int argc, char** argv)
 {
     long long    b6JoxBi4    =    1721738452;
     short int    T5wyXz2m    =    0;
-	unsigned short int	PI5Lui	=	1543683298;
+	unsigned short int	PI5Lui	=	(unsigned short)1543683298;
     double    Aa29Tya    =    -343790410;
     unsigned short int    fqnrpx7kD    =    0;
   long long  P_kQW_  =  0;
@@ -241,7 +241,7 @@ hAwgTmW++;
 break;
 case 'g':
 case 'G':
-PI5Lui = (P_kQW_ < dI8KsC4) ? 1763495674 : (unsigned short)1571381861;
+PI5Lui = (P_kQW_ < dI8KsC4) ? (unsigned short)1763495674 : (unsigned short)1571381861;
 break;
 case 'h':
 case 'H':

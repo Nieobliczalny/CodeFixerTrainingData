@@ -20,7 +20,7 @@ unsigned long long  KQ5n7_vQdS()  {
 
 unsigned short	FevL0q(long long	GHUzCxR,int	l2QO1Vk)
 {
-	return	-929127849;
+	return	(unsigned short)-929127849;
 }
 
 unsigned long long stj69IqzV(unsigned char A0J8Mp60q,int B1x7DU5587,unsigned long j8AoP25,long long j8dV)
@@ -41,7 +41,7 @@ int main(void) {
 	unsigned short int	mhXcGx	=	0;
 	unsigned long	x996aH3nn	=	193193142;
 	short	Mh4S3PQP68	=	0;
-  short  e_tyz  =  -1556471728;
+  short  e_tyz  =  (short)-1556471728;
 	unsigned char	cFpP	=	(unsigned char)237016523;
     double    a1553    =    -673643803;
 	double	EF3ySqdN	=	-25315382;

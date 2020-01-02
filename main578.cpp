@@ -54,7 +54,7 @@ jpAsx = XL2n833Sn8(n_458m);
 }
 else
 {
-yVcW3ZD1 = XL2n833Sn8(428210544);
+yVcW3ZD1 = XL2n833Sn8((unsigned short)428210544);
 }
 --j;
 }
@@ -70,7 +70,7 @@ case 'a':
 jpAsx = XL2n833Sn8(jpAsx);
 break;
 case 'b':
-OCEUs08 = XL2n833Sn8(729177955);
+OCEUs08 = XL2n833Sn8((unsigned short)729177955);
 break;
 case 'c':
 KvH32U3B0W /= qJI2G540L7;

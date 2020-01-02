@@ -22,7 +22,7 @@ long long BlPF3_ciNn();
 
 int main(int argc, char** argv) {
  char NfVHMSSXr0 = 0;
- char G3094_A = 1847255190;
+ char G3094_A = (char)1847255190;
   long double  Fjs5BO3Q  =  -306355896;
     long long    ONSb    =    -1079952005;
  long double y95GCm8 = 1767149985;
@@ -38,7 +38,7 @@ B8ETbF %= G3094_A;
 }
 else if (jAHY_ > B8ETbF)
 {
-NfVHMSSXr0 = RBNDH1ss(-1927759264);
+NfVHMSSXr0 = RBNDH1ss((unsigned short)-1927759264);
 }
 else if (((NfVHMSSXr0 != wSLvp) && (Fjs5BO3Q > -956878937)) && ((Fjs5BO3Q <= -541276921) && (ONSb)))
 {
@@ -134,7 +134,7 @@ while (j >= 0)
 switch (NfVHMSSXr0)
 {
 case 0:
-Fjs5BO3Q = AEcTO6(1295691928, B8ETbF, NfVHMSSXr0, 899812117, 1939534704);
+Fjs5BO3Q = AEcTO6((char)1295691928, B8ETbF, NfVHMSSXr0, 899812117, 1939534704);
 break;
 case 1:
 ONSb = fm4L >> 179908555;
@@ -146,7 +146,7 @@ case 3:
 B8ETbF = ceEN0jtx0(B8ETbF);
 break;
 case 4:
-wSLvp = ceEN0jtx0(-1849665278) + 1458236960;
+wSLvp = ceEN0jtx0((char)-1849665278) + 1458236960;
 break;
 case 5:
 ONSb = eWZX14XK * G3094_A;
@@ -233,7 +233,7 @@ case 'd':
 G3094_A = AEcTO6(G3094_A, wSLvp, fm4L, 1368326221, -475521476);
 break;
 case 'e':
-B8ETbF = p3vaLHBD(-1692894672, NfVHMSSXr0);
+B8ETbF = p3vaLHBD((short)-1692894672, NfVHMSSXr0);
 break;
 case 'f':
 ONSb = G3094_A % 1161353552;
@@ -274,7 +274,7 @@ fm4L = (unsigned char)(h3Dg * fm4L);
 }
 try
 {
-std::cout << "XT3Q7xAB" << Fjs5BO3Q << "Xh676JH" << AEcTO6(-107738071, 1856800029, jAHY_, -1590971784, -1996930345) << "oGwa" << std::endl;
+std::cout << "XT3Q7xAB" << Fjs5BO3Q << "Xh676JH" << AEcTO6((char)-107738071, 1856800029, jAHY_, -1590971784, -1996930345) << "oGwa" << std::endl;
 }
 catch (int& errorCode)
 {
@@ -287,7 +287,7 @@ if (fm4L == 0)
 
 if (ONSb > -127639798)
 {
-G3094_A = p3vaLHBD(1626274862, 811887784);
+G3094_A = p3vaLHBD((short)1626274862, 811887784);
 }
 else
 {
@@ -346,7 +346,7 @@ case 0:
 G3094_A <<= 1635452269;
 break;
 case 1:
-G3094_A = ceEN0jtx0(-1911347088);
+G3094_A = ceEN0jtx0((char)-1911347088);
 break;
 case 2:
 ONSb = AEcTO6(ONSb, 1362160383, 1141337991, eWZX14XK, -26051875);
@@ -362,7 +362,7 @@ return 0;
 }
 
 short  p3vaLHBD(short  c8_yJ,long  R2aH8T09x)  {
-  return  147637000;
+  return  (short)147637000;
 }
 
 unsigned short AEcTO6(char vjC4,unsigned int Bs8qwZDR,long long t8Z3Y,unsigned long yff5nNCGx,long long YnrT6) {

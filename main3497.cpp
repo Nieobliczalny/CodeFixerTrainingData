@@ -81,7 +81,7 @@ if ((KF_8p1 >= 1566695839) && (bCTh < 1659649049))
 {
 if (sQ_ZE > B6_B_)
 {
-bCTh = L04pK6(-313592230, nkOsP_3XUu);
+bCTh = L04pK6((short)-313592230, nkOsP_3XUu);
 }
 }
 else
@@ -112,7 +112,7 @@ i++;
 }
 while (i < 6);
 }
-gCgGAX5 = L04pK6(-1416736670, 174090867);
+gCgGAX5 = L04pK6((short)-1416736670, 174090867);
 
 if (zjtDC > E0rW5PDvu)
 {
@@ -154,7 +154,7 @@ zjtDC = (long)(B6_B_);
 switch (X3yB)
 {
 case 'a':
-gCgGAX5 = L04pK6(-1090418293, sJyz);
+gCgGAX5 = L04pK6((short)-1090418293, sJyz);
 break;
 case 'b':
 X3yB = L04pK6(mf_qUp8o1, uJrUNV4q_g);
@@ -169,7 +169,7 @@ for (int i = 9; i >= 0; --i)
 sJyz &= ekZ5;
 }
 
-cout << L04pK6(-1084502884, 878265236) << endl;
+cout << L04pK6((short)-1084502884, 878265236) << endl;
 E0rW5PDvu = L04pK6((short)-909952049, d0da4x);
 {
 int i = 0;
@@ -213,7 +213,7 @@ nkOsP_3XUu = (int)abs(X3yB) + (1475520077);
 }
 else if (mf_qUp8o1 < -622278474)
 {
-gCgGAX5 = L04pK6(-1009043486, Tq0Akd8lQ);
+gCgGAX5 = L04pK6((short)-1009043486, Tq0Akd8lQ);
 }
 else if (sQ_ZE != -726929923)
 {
@@ -260,7 +260,7 @@ catch (int& errorCode)
 {
 gCgGAX5 = L04pK6(375108645, E0rW5PDvu);
 }
-uJrUNV4q_g = bCTh / L04pK6(-1316270294, -1166932279);
+uJrUNV4q_g = bCTh / L04pK6((short)-1316270294, -1166932279);
 if (X3yB > ekZ5)
 {
 d1DlBD = (int)abs(X3yB) + (904357823);
@@ -283,7 +283,7 @@ case 1:
 sQ_ZE = nkOsP_3XUu ^ ekZ5;
 break;
 case 2:
-gCgGAX5 = L04pK6(-1405819567, mf_qUp8o1);
+gCgGAX5 = L04pK6((short)-1405819567, mf_qUp8o1);
 break;
 case 3:
 uJrUNV4q_g = d1DlBD % B6_B_;
@@ -330,7 +330,7 @@ if (B6_B_ >= 79910411)
 int k = 3;
 do
 {
-E0rW5PDvu = L04pK6(357712593, -2031560491);
+E0rW5PDvu = L04pK6((short)357712593, -2031560491);
 --k;
 }
 while (k >= 0);
@@ -379,7 +379,7 @@ zjtDC = (int)abs(gCgGAX5) + (-1937751676);
 break;
 case 'c':
 case 'C':
-E0rW5PDvu = L04pK6(-305055044, nkOsP_3XUu);
+E0rW5PDvu = L04pK6((short)-305055044, nkOsP_3XUu);
 break;
 default:
 Tq0Akd8lQ = (int)abs(E0rW5PDvu) + (537702642);
@@ -403,7 +403,7 @@ case 'b':
 d1DlBD = sJyz % B6_B_;
 break;
 case 'c':
-gCgGAX5 = L04pK6(-541006888, -1075629783);
+gCgGAX5 = L04pK6((short)-541006888, -1075629783);
 break;
 case 'd':
 E0rW5PDvu = L04pK6(ekZ5, sJyz);

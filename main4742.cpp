@@ -19,7 +19,7 @@ int CuV9F290q(unsigned short int fKIB0sL7o,unsigned int C6LEPmee5q,int iB0JV_A,i
 
 char	OO4311C(unsigned short	yTxYljn0c)
 {
-	return	1806223730;
+	return	(char)1806223730;
 }
 
 unsigned short int	s8zp_(unsigned int	M5N57meN,long	Ek8It2_5u_,short int	ac4p65t6K5,short int	ATMIhP,unsigned int	Z4S4lgE88F)	{
@@ -32,7 +32,7 @@ long NMu1pRYL() {
 
 int main(int argc, char** argv)
 {
-	unsigned short	j827QL1g7m	=	-471971921;
+	unsigned short	j827QL1g7m	=	(unsigned short)-471971921;
  unsigned char kalZ8 = (unsigned char)-1926691811;
 	long double	wTtF	=	-938775845;
   long double  Nyo2h  =  1535543419;
@@ -43,7 +43,7 @@ int main(int argc, char** argv)
     unsigned long long    E67_B    =    903446912;
     short    B_F28aPy6    =    1758017371;
     unsigned long long    wl_BX    =    186142418;
-  short  ioUA  =  -516682305;
+  short  ioUA  =  (short)-516682305;
 	double	eerUeAY	=	1010094403;
   short int  oyU_T0  =  (short)1213793333;
 	unsigned short int	QOZ3r	=	1908798754;
@@ -53,7 +53,7 @@ int main(int argc, char** argv)
 	unsigned long long	KS73Y576Mj	=	-1327101850;
   char  izXa  =  429248588;
  long Tvn_PW = -1918984012;
-	unsigned short int	zY3_9	=	1133210199;
+	unsigned short int	zY3_9	=	(unsigned short)1133210199;
   short int  emIv7  =  -2085355897;
     unsigned int    jFASO56    =    1448759280;
   long  S27LP  =  -1103812694;
@@ -65,7 +65,7 @@ int main(int argc, char** argv)
     unsigned long long    guvL_16e    =    -836075060;
   unsigned int  r5n__I6  =  1617770576;
     float    CZVvp8JOo    =    599441452;
-	short	E_u_0	=	725725293;
+	short	E_u_0	=	(short)725725293;
     unsigned long long    C9jWN4i9d    =    2027160889;
 	short int	agCR116B8g	=	995429716;
     long    kJ8cM8    =    126085988;
@@ -75,7 +75,7 @@ int main(int argc, char** argv)
  long Hx134 = 926720902;
 	char	oigy08no	=	0;
  short Qiy8RL = 974425658;
-  unsigned short int  nH_jN01  =  864287166;
+  unsigned short int  nH_jN01  =  (unsigned short)864287166;
     unsigned long    u8o8RitU    =    1234136321;
  unsigned int VDrP6tNDBS = 1858459212;
 	unsigned int	f1dZ8tx2W	=	-479123875;
@@ -86,7 +86,7 @@ int main(int argc, char** argv)
 	int	fvKI	=	-2081164068;
 	long double	R8_a	=	-2058201831;
  int Fd32 = 86522685;
-	char	R_BEZ1W	=	1760392391;
+	char	R_BEZ1W	=	(char)1760392391;
  unsigned long W8nJKs4I6n = 1022484249;
   float  yvGSv  =  1158027746;
   int  QjuHY_  =  -1642867463;
@@ -96,7 +96,7 @@ int main(int argc, char** argv)
  unsigned short int Uze310f = -1561779703;
     unsigned long    izeoNf8A    =    -875378680;
   char  Wdo4  =  -1176762850;
-  short  KNu342  =  -1647704827;
+  short  KNu342  =  (short)-1647704827;
  int WA9Rt_hm3 = -1159434685;
     short    XM7mv    =    84273922;
     short    dN_xX    =    1076873921;
@@ -107,7 +107,7 @@ int main(int argc, char** argv)
 	int	QMfny	=	149184343;
 	unsigned short	u1R1tXs0Iq	=	(unsigned short)-287231530;
     long double    bqzz4VSD    =    -1643444493;
- short XD1W8 = 1029989277;
+ short XD1W8 = (short)1029989277;
   unsigned int  RT_7l  =  -257832160;
   unsigned short  SLmW7H  =  -184999106;
 	unsigned short	Ho80_	=	-238302790;
@@ -119,7 +119,7 @@ int main(int argc, char** argv)
  unsigned short Df2JD = 0;
   float  fY6A6H9  =  -1445187818;
  unsigned int HUgVtH = -1288826376;
-  unsigned char  Sk1uieJ_85  =  1558358994;
+  unsigned char  Sk1uieJ_85  =  (unsigned char)1558358994;
 	unsigned long	K4q1A	=	196780575;
     short    PiEQ5EB339    =    (short)1763711058;
   int  IX1P1Zi  =  122754188;
@@ -134,7 +134,7 @@ int main(int argc, char** argv)
 	long	O926G7FgGb	=	-1541857141;
   int  Io7J0c9y  =  -559962356;
   float  qStk88ou  =  727898160;
-    char    g6_2f22    =    -72963881;
+    char    g6_2f22    =    (char)-72963881;
 
 try
 {
@@ -144,7 +144,7 @@ catch (int& errorCode)
 {
 jFASO56++;
 }
-F09_LV = Qiy8RL / s8zp_(-1209672346, 463186795, Fd32, -136784180, wTtF);
+F09_LV = Qiy8RL / s8zp_(-1209672346, 463186795, Fd32, (short)-136784180, wTtF);
 {
 int i = 4;
 do
@@ -155,7 +155,7 @@ if (ioUA != -1182088451)
 int k = 8;
 while (k >= 0)
 {
-jFASO56 = CuV9F290q(36462272, -1049061454, Fd32, -648192485) * 1911668544;
+jFASO56 = CuV9F290q((unsigned short)36462272, -1049061454, Fd32, -648192485) * 1911668544;
 --k;
 }
 }
@@ -483,7 +483,7 @@ while (i >= 0)
 int j = 0;
 while (j < 5)
 {
-std::cout << CuV9F290q(-1006334179, pfD9Ij36bA, j827QL1g7m, KNu342) << "on_65Jd1w1" << "xue_7P1Ve5" << std::endl;
+std::cout << CuV9F290q((unsigned short)-1006334179, pfD9Ij36bA, j827QL1g7m, KNu342) << "on_65Jd1w1" << "xue_7P1Ve5" << std::endl;
 j++;
 }
 }

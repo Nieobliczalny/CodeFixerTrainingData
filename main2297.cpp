@@ -59,7 +59,7 @@ case 0:
 q1wl0t_ = (int)abs(z42u7il_2H);
 break;
 case 1:
-TilhdH0rZW = ZUD4(TilhdH0rZW, -210913497);
+TilhdH0rZW = ZUD4(TilhdH0rZW, (unsigned short)-210913497);
 break;
 }
 }
@@ -128,7 +128,7 @@ do
 ++j;
 for (int k = 4; k >= 0; k--)
 {
-eOx10jh = ZUD4(eOx10jh, -947592872);
+eOx10jh = ZUD4(eOx10jh, (unsigned short)-947592872);
 }
 }
 while (j < 9);
@@ -167,7 +167,7 @@ fb3GWhG %= p629;
 }
 else if (y8B_u >= 274318166)
 {
-eOx10jh = ZUD4(-819507212, -2038568611);
+eOx10jh = ZUD4(-819507212, (unsigned short)-2038568611);
 }
 else if (xbM_5jU7b8 <= -578816042)
 {
@@ -255,7 +255,7 @@ KJZ5k = (Bfe58uY7G >= z42u7il_2H) ? KJZ5k : -612288654;
 }
 else if (GCAXiHMP != pigD8Tse)
 {
-KiwM6Sf0R0 = ZUD4(KiwM6Sf0R0, 265298394);
+KiwM6Sf0R0 = ZUD4(KiwM6Sf0R0, (unsigned short)265298394);
 }
 else if (t5O_f7d != Gm8p)
 {
@@ -298,7 +298,7 @@ iYI_KM = (int)abs(KNMqA);
 int i = 9;
 while (i >= 0)
 {
-eDnfq = ZUD4(iYI_KM, -742227098);
+eDnfq = ZUD4(iYI_KM, (unsigned short)-742227098);
 --i;
 }
 }
@@ -326,7 +326,7 @@ Tba28hb = Ygf5pZH(755190278, S_nx1oZA);
 }
 else if ((k11W > 948424494) || ((p629 & KiwM6Sf0R0) && (QxX9CJ)))
 {
-fb3GWhG = ZUD4(249082146, -695338618);
+fb3GWhG = ZUD4(249082146, (unsigned short)-695338618);
 }
 else if (QxX9CJ >= 77344476)
 {
@@ -440,7 +440,7 @@ while (k >= 0);
 }
 else
 {
-std::cout << ZUD4(EuuPCCJ9Xu, x3SUAC) << ZUD4(EuuPCCJ9Xu, 1001577656) << p629 << nC21oE2_5l << std::endl;
+std::cout << ZUD4(EuuPCCJ9Xu, x3SUAC) << ZUD4(EuuPCCJ9Xu, (unsigned short)1001577656) << p629 << nC21oE2_5l << std::endl;
 }
 }
 for (int i = 10; i >= 0; i--)
@@ -460,7 +460,7 @@ Tba28hb = Ygf5pZH(TfW6, -1170313240);
 std::cout << "rv7KK" << x3SUAC << "B14Chkr" << Xo5c << std::endl;
 
 std::cout << "R1ZTQ2" << std::endl;
-p629 = ZUD4(p629, -334162387);
+p629 = ZUD4(p629, (unsigned short)-334162387);
 
 xbM_5jU7b8 = (unsigned long)(Gm8p);
 
@@ -474,7 +474,7 @@ Tba28hb = (int)abs(q1wl0t_);
 }
 for (int i = 6; i >= 0; --i)
 {
-F_MSfNJG = ZUD4(-227076293, -1746555531);
+F_MSfNJG = ZUD4(-227076293, (unsigned short)-1746555531);
 }
 Tba28hb = Ygf5pZH(od9_, 957250152);
 if ((t5O_f7d == dou47M) && (F_MSfNJG < b55kW))

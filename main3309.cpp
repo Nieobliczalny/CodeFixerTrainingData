@@ -23,7 +23,7 @@ if (Y40qVzvR4 > S6kz44J8)
 {
 for (int k = 10; k >= 0; --k)
 {
-TD_z = SGHz_N(-1124149390, -1730124562, DMy7N6W, -422698401, (unsigned short)-1532675122);
+TD_z = SGHz_N(-1124149390, -1730124562, DMy7N6W, (short)-422698401, (unsigned short)-1532675122);
 }
 }
 else if (ta3yf != Vjxm)
@@ -41,7 +41,7 @@ else
 {
 try
 {
-B_U0a7cVqc = SGHz_N(B_U0a7cVqc, H_LL_FOXY, 1060220458, (short)-543494232, b9LSx77Xu);
+B_U0a7cVqc = SGHz_N(B_U0a7cVqc, H_LL_FOXY, (unsigned short)1060220458, (short)-543494232, b9LSx77Xu);
 }
 catch (int& errorCode)
 {
@@ -53,7 +53,7 @@ if (TD_z <= 1465052850)
 {
 for (int j = 8; j >= 0; --j)
 {
-fw13 = dJ1szC2S(-424836109, fw13, S6kz44J8, Ve0x6v7Wx, 448148886);
+fw13 = dJ1szC2S((char)-424836109, fw13, S6kz44J8, Ve0x6v7Wx, 448148886);
 }
 }
 else if ((xr668ud2 >= 29140237) || (goetTTJFNz))
@@ -88,7 +88,7 @@ else if (b9LSx77Xu <= -210770643)
 switch (ZqXmQ72_SY)
 {
 case 0:
-ZqXmQ72_SY = dJ1szC2S(B_U0a7cVqc, 1448972057, -1644381088, Ve0x6v7Wx, 24983584);
+ZqXmQ72_SY = dJ1szC2S(B_U0a7cVqc, (unsigned char)1448972057, -1644381088, Ve0x6v7Wx, 24983584);
 break;
 }
 }
@@ -112,7 +112,7 @@ else
 int k = 0;
 do
 {
-DMy7N6W = SGHz_N(DMy7N6W, BOn2, -1425312510, (short)-314418962, TD_z);
+DMy7N6W = SGHz_N(DMy7N6W, BOn2, (unsigned short)-1425312510, (short)-314418962, TD_z);
 k++;
 }
 while (k < 4);
@@ -151,7 +151,7 @@ DMy7N6W = fAslP_ - B_U0a7cVqc;
 }
 else if (b9LSx77Xu > k0fq8V)
 {
-H_LL_FOXY = dJ1szC2S(-121392786, OJK4lg8, 425702022, -258000948, 314633386);
+H_LL_FOXY = dJ1szC2S((char)-121392786, OJK4lg8, 425702022, -258000948, 314633386);
 }
 else if (Y40qVzvR4 >= -923619917)
 {
@@ -163,7 +163,7 @@ fAslP_ = (int)abs(H_LL_FOXY) + (1628928884);
 }
 else
 {
-k0fq8V = SGHz_N(897104465, Ve0x6v7Wx, BOn2, -791376438, (unsigned short)68765146);
+k0fq8V = SGHz_N(897104465, Ve0x6v7Wx, BOn2, (short)-791376438, (unsigned short)68765146);
 }
 }
 else
@@ -178,7 +178,7 @@ b9LSx77Xu = (int)abs(BOn2);
 }
 else
 {
-ZqXmQ72_SY = dJ1szC2S(1396089760, B_U0a7cVqc, 751558782, TD_z, ZqXmQ72_SY);
+ZqXmQ72_SY = dJ1szC2S((char)1396089760, B_U0a7cVqc, 751558782, TD_z, ZqXmQ72_SY);
 }
 }
 ++i;
@@ -202,7 +202,7 @@ goetTTJFNz = (int)abs(prUJ);
 break;
 case 'd':
 case 'D':
-uqdBA = SGHz_N(-388339433, 1101397326, S6kz44J8, ZqXmQ72_SY, 314087436);
+uqdBA = SGHz_N(-388339433, 1101397326, S6kz44J8, ZqXmQ72_SY, (unsigned short)314087436);
 break;
 case 'e':
 case 'E':
@@ -218,7 +218,7 @@ B_U0a7cVqc = (int)ceil(uqdBA);
 break;
 case 'h':
 case 'H':
-OJK4lg8 = dJ1szC2S(-639107310, uqdBA, 1367598082, -899175667, -736823723) << 1374345946;
+OJK4lg8 = dJ1szC2S((char)-639107310, uqdBA, 1367598082, -899175667, -736823723) << 1374345946;
 break;
 default:
 k0fq8V = (Ve0x6v7Wx) ? 259876220 : dJ1szC2S(z0fiFgU, (unsigned char)1578944376, b9LSx77Xu, -1630527279, H_LL_FOXY);
@@ -230,7 +230,7 @@ if ((OJK4lg8 >= 914851059) && (DMy7N6W >= fAslP_))
 {
 if (k0fq8V != 1306955937)
 {
-ZqXmQ72_SY = dJ1szC2S(-762244893, 1264487840, -1665429885, 1451317344, -1138211397);
+ZqXmQ72_SY = dJ1szC2S((char)-762244893, 1264487840, -1665429885, 1451317344, -1138211397);
 }
 else
 {
@@ -275,7 +275,7 @@ else if (TD_z == prUJ)
 {
 if (OJK4lg8 < -971811248)
 {
-Y40qVzvR4 = dJ1szC2S(423929973, prUJ, goetTTJFNz, re69zsTB2M, -163925003);
+Y40qVzvR4 = dJ1szC2S((char)423929973, prUJ, goetTTJFNz, re69zsTB2M, -163925003);
 }
 else
 {
@@ -285,7 +285,7 @@ ta3yf = z0fiFgU * Vjxm;
 }
 else if (S6kz44J8 >= -1971444277)
 {
-Y40qVzvR4 = dJ1szC2S(1142536164, (unsigned char)1496402855, -1825884364, -2070178719, 575202865);
+Y40qVzvR4 = dJ1szC2S((char)1142536164, (unsigned char)1496402855, -1825884364, -2070178719, 575202865);
 }
 else if ((BOn2 <= 1722855264) || ((OJK4lg8 >= ZqXmQ72_SY) && (b9LSx77Xu != -289942444)))
 {
@@ -311,7 +311,7 @@ re69zsTB2M = (int)ceil(DMy7N6W);
 }
 
 prUJ = (int)ceil(uqdBA);
-OJK4lg8 = SGHz_N(OJK4lg8, 1612418770, -293089180, (short)-1378712553, -161738877);
+OJK4lg8 = SGHz_N(OJK4lg8, 1612418770, (unsigned short)-293089180, (short)-1378712553, -161738877);
 if (z0fiFgU)
 {
 goetTTJFNz = (int)floor(S6kz44J8);
@@ -324,7 +324,7 @@ if (DMy7N6W <= -1935407531)
 switch (fR03K463yw)
 {
 case 0:
-re69zsTB2M = SGHz_N(984953511, TD_z, -124590542, (short)1194066685, -1063840343);
+re69zsTB2M = SGHz_N(984953511, TD_z, (unsigned short)-124590542, (short)1194066685, -1063840343);
 break;
 case 1:
 b9LSx77Xu = (int)abs(z0fiFgU);

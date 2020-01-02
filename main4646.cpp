@@ -9,7 +9,7 @@
 using namespace std;
 
 char	dyb7(int	O_TlBF3w,unsigned long	vzC99)	{
-	return	-677779470;
+	return	(char)-677779470;
 }
 
 unsigned char    mmyT(long long    Mu0V20,long long    bE__)

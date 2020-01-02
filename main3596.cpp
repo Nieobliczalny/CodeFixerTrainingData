@@ -10,7 +10,7 @@ using namespace std;
 
 int main(void)
 {
- unsigned short int V__Ny0n = 290568992;
+ unsigned short int V__Ny0n = (unsigned short)290568992;
 	unsigned long	vVYc9	=	455208362;
   short  YGK1A9y_Jh  =  (short)-637782421;
  long HxPla = 20692331;
@@ -22,7 +22,7 @@ int main(void)
  unsigned int Jidvd2R_b = 100489955;
  double Q2vh = 1830202847;
  unsigned long Nyft24 = -1184496195;
-	unsigned short int	w9hs7	=	1487324806;
+	unsigned short int	w9hs7	=	(unsigned short)1487324806;
  double WBHC6OE = 1218083351;
   double  aSnceUD8Rv  =  -1180767853;
 	long double	QNtS	=	-1672763755;
@@ -35,7 +35,7 @@ int main(void)
   int  te74FYEfeR  =  1180427818;
     unsigned int    m3_GXV__9    =    0;
 	long long	BmNtShw4	=	-96947719;
-    short int    jTWXPHrL2f    =    374172001;
+    short int    jTWXPHrL2f    =    (short)374172001;
   short  ssc4cg9Lgp  =  0;
  char XujlKc = 0;
   long  wnP5qzd  =  1089255250;
@@ -46,7 +46,7 @@ int main(void)
   long long  oEX_Q  =  744880752;
 	short int	ohl__h	=	(short)-1093530549;
  double OTC2zjNY3y = -218074985;
-	unsigned short	bpqW	=	206968864;
+	unsigned short	bpqW	=	(unsigned short)206968864;
 	unsigned int	E6In61Z10	=	0;
  short int Jd9y_33aT = 711641522;
 	short int	PoP52a524U	=	934390259;
@@ -56,7 +56,7 @@ int main(void)
 	double	rFVtc44q	=	-1125228225;
  unsigned long Rvgq15a7i = -2050123386;
   unsigned char  nN45RuO_ZB  =  (unsigned char)822680061;
-  short  Q9pWm54ul  =  -1567908171;
+  short  Q9pWm54ul  =  (short)-1567908171;
   short  H_3bj  =  -1356783118;
     double    xQ_TOZh74    =    -1438554188;
  unsigned long long Vqz2O_2uN = -1961051191;
@@ -71,7 +71,7 @@ int main(void)
     unsigned int    g8AAY    =    1669794003;
  long long q0wh34aR3 = 687206454;
  int UB7q4C_pJ = -116991071;
-	short	wKYisk3aU	=	-1986513556;
+	short	wKYisk3aU	=	(short)-1986513556;
     short int    qH_j    =    (short)-1392741225;
 
 std::cout << wnP5qzd << std::endl;
@@ -177,7 +177,7 @@ else if (Vqz2O_2uN == -1808866305)
 {
 if (jTWXPHrL2f >= -1530570721)
 {
-ohl__h = (s4VP7Tt == ssc4cg9Lgp) ? OTC2zjNY3y : 195736728;
+ohl__h = (s4VP7Tt == ssc4cg9Lgp) ? OTC2zjNY3y : (short)195736728;
 }
 else
 {

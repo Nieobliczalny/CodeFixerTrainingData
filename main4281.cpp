@@ -153,7 +153,7 @@ int k = 0;
 while (k < 1)
 {
 ++k;
-e1hSGN0 = KIQ_RwL_(-536624707, (short)1363291092);
+e1hSGN0 = KIQ_RwL_((unsigned short)-536624707, (short)1363291092);
 }
 }
 }
@@ -170,7 +170,7 @@ int k = 0;
 while (k < 9)
 {
 k++;
-GoPQUU_AQ = KIQ_RwL_(-1138460534, (short)1366665921);
+GoPQUU_AQ = KIQ_RwL_((unsigned short)-1138460534, (short)1366665921);
 }
 }
 }
@@ -180,7 +180,7 @@ switch (mWce0tM)
 {
 case 'a':
 case 'A':
-TFN4mt3o_ = KIQ_RwL_(1757608178, (short)-1675300153);
+TFN4mt3o_ = KIQ_RwL_((unsigned short)1757608178, (short)-1675300153);
 break;
 case 'b':
 case 'B':
@@ -204,7 +204,7 @@ yJ5TH = c7TQ / V_xpm;
 break;
 case 'g':
 case 'G':
-e1hSGN0 = KIQ_RwL_(-877318149, (short)-23951178);
+e1hSGN0 = KIQ_RwL_((unsigned short)-877318149, (short)-23951178);
 break;
 case 'h':
 case 'H':
@@ -246,7 +246,7 @@ for (int j = 0; j < 3; j++)
 {
 if (WnplB <= Y7xr5lV0nC)
 {
-GoPQUU_AQ = KIQ_RwL_(1895144211, (short)228443443);
+GoPQUU_AQ = KIQ_RwL_((unsigned short)1895144211, (short)228443443);
 }
 else if (JnMO >= 1987554170)
 {
@@ -279,7 +279,7 @@ while (j >= 0)
 int k = 8;
 while (k >= 0)
 {
-GoPQUU_AQ = KIQ_RwL_(J9Wd, 1920407777);
+GoPQUU_AQ = KIQ_RwL_(J9Wd, (short)1920407777);
 k--;
 }
 }
@@ -301,7 +301,7 @@ case 'c':
 xQ1KN = KIQ_RwL_(c7TQ, yI98L3L__);
 break;
 default:
-e1hSGN0 = KIQ_RwL_(-566548977, hoSC_5F);
+e1hSGN0 = KIQ_RwL_((unsigned short)-566548977, hoSC_5F);
 break;
 }
 }
@@ -313,7 +313,7 @@ while (i < 6)
 {
 if (M0Cht7 & Hb0ON8Y7_)
 {
-e1hSGN0 = KIQ_RwL_(UGqMXyOo6, 1785397029);
+e1hSGN0 = KIQ_RwL_(UGqMXyOo6, (short)1785397029);
 }
 i++;
 }
@@ -346,7 +346,7 @@ else if (F4Zj != yJ5TH)
 {
 try
 {
-aeTk = KIQ_RwL_(N4ju, 1267129987) - JvipV;
+aeTk = KIQ_RwL_(N4ju, (short)1267129987) - JvipV;
 }
 catch (int& errorCode)
 {
@@ -392,7 +392,7 @@ int i = 0;
 while (i < 2)
 {
 ++i;
-std::cout << "BMahA" << "Y40_Ec" << KIQ_RwL_(N4ju, -2092296157) << z4lWgW << std::endl;
+std::cout << "BMahA" << "Y40_Ec" << KIQ_RwL_(N4ju, (short)-2092296157) << z4lWgW << std::endl;
 }
 }
 return 0;

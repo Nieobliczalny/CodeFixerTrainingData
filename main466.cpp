@@ -13,7 +13,7 @@ long	gIF5Y()	{
 
 short	W8U8tB1()
 {
-	return	1347115607;
+	return	(short)1347115607;
 }
 
 unsigned long long    DBaXg7()    {
@@ -32,7 +32,7 @@ unsigned int Ih_zAa_7ZY(int BCD12,char GOW5JpFo) {
 int main(int argc, char** argv) {
     long    Hv5cOx7v    =    0;
 	float	D5_ncjn5	=	-1285853616;
-    char    C8WUCFf    =    -1980530811;
+    char    C8WUCFf    =    (char)-1980530811;
     long double    D9k7_8LbI    =    962418234;
   unsigned short int  E3e_Eak32  =  (unsigned short)1955845361;
  unsigned long long rEQmu = -566427392;
@@ -42,7 +42,7 @@ int main(int argc, char** argv) {
   long double  YzCtX  =  -1712130935;
   double  hM452shFd  =  -1118235008;
     float    XqKXfUw    =    -1581015940;
-    short    LX2u    =    -630210481;
+    short    LX2u    =    (short)-630210481;
   unsigned short int  R299uH7  =  1708937513;
   short  N_i8yDMCR0  =  (short)-368757599;
  unsigned short lvI_ = 1196984323;
@@ -98,7 +98,7 @@ UsVtq2tPi1 = LX2u | C8WUCFf;
 while (i < 7);
 }
 
-std::cout << Ih_zAa_7ZY(-737805392, -596102263) << "t8FFT" << LKP54J << gIF5Y() << std::endl;
+std::cout << Ih_zAa_7ZY(-737805392, (char)-596102263) << "t8FFT" << LKP54J << gIF5Y() << std::endl;
 if (o3zkc & 1577015076)
 {
 for (int j = 0; j < 8; j++)
@@ -201,7 +201,7 @@ switch (LX2u)
 {
 case 'a':
 case 'A':
-dunjr = (E3e_Eak32 == 537822744) ? 2126736961 : iCR3;
+dunjr = (E3e_Eak32 == 537822744) ? (char)2126736961 : iCR3;
 break;
 case 'b':
 case 'B':
@@ -268,7 +268,7 @@ case 0:
 XqKXfUw = (int)floor(D9k7_8LbI);
 break;
 case 1:
-dunjr = Ih_zAa_7ZY(dunjr, 451676304);
+dunjr = Ih_zAa_7ZY(dunjr, (char)451676304);
 break;
 case 2:
 o3zkc++;

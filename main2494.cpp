@@ -13,7 +13,7 @@ char	N5fs(unsigned int	wlfJAp1,unsigned long	cQVo9U7o,long long	TFTdl_Q_c)	{
 }
 
 unsigned short	lVfvxGjrjy()	{
-	return	-550209052;
+	return	(unsigned short)-550209052;
 }
 
 int main(void) {
@@ -399,7 +399,7 @@ int k = 4;
 while (k >= 0)
 {
 --k;
-Ztvm0_ = (smD4 < 1994897071) ? N5fs(cDVDjsU, Fk044iy, -327155392) : 1783332066;
+Ztvm0_ = (smD4 < 1994897071) ? N5fs(cDVDjsU, Fk044iy, -327155392) : (unsigned short)1783332066;
 }
 }
 }

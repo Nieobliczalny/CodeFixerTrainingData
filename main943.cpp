@@ -757,7 +757,7 @@ return 0;
 }
 
 unsigned char  bRAAv()  {
-  return  1479626244;
+  return  (unsigned char)1479626244;
 }
 
 short int    Np8_7Gn6MY(unsigned long long    xEI_lg,unsigned long    W5g2t5mZX9)

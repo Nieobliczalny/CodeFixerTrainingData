@@ -22,7 +22,7 @@ unsigned short int	H_mOHH9634(unsigned short	Ub0WR21YD_);
 
 int main(void) {
  unsigned int eUK4 = -559482325;
-    unsigned short int    eHrh_Y    =    513847626;
+    unsigned short int    eHrh_Y    =    (unsigned short)513847626;
  unsigned short int RClfQW4l = (unsigned short)1050395026;
     long double    Wwve    =    -393766791;
   unsigned long  HXaLabv  =  0;
@@ -33,7 +33,7 @@ int main(void) {
  double w60s3wQVMo = -1168492256;
 	short int	qopl5Tqb	=	837564459;
     float    F4_y4ERV2    =    -2051833239;
-  short int  Jc6560  =  1303761829;
+  short int  Jc6560  =  (short)1303761829;
  float zl3F_0 = -779419014;
   unsigned long  ZxMAo5UXCv  =  0;
  long WQPm = -1898503538;
@@ -64,7 +64,7 @@ w60s3wQVMo = wAA38 + 331406202;
 }
 }
 }
-qopl5Tqb = e9M1W2bk(1027539196, wAA38);
+qopl5Tqb = e9M1W2bk((char)1027539196, wAA38);
 
 {
 int i = 9;
@@ -126,7 +126,7 @@ case 'd':
 Jc6560 = eUK4 / 1661552248;
 break;
 case 'e':
-eUK4 = e9M1W2bk(150935292, (unsigned short)1992891301) / 78458909;
+eUK4 = e9M1W2bk((char)150935292, (unsigned short)1992891301) / 78458909;
 break;
 case 'f':
 Wwve += 1658760366;
@@ -168,7 +168,7 @@ catch (int& errorCode)
 w60s3wQVMo = (int)floor(F4_y4ERV2);
 }
 }
-Ez79fh7hx8 = H0R6al / H_mOHH9634(1167879322);
+Ez79fh7hx8 = H0R6al / H_mOHH9634((unsigned short)1167879322);
 
 switch (RClfQW4l)
 {
@@ -206,7 +206,7 @@ while (k >= 0);
 while (i < 9);
 }
 
-cout << "zWpxTth9" << H_mOHH9634(174397999) << endl;
+cout << "zWpxTth9" << H_mOHH9634((unsigned short)174397999) << endl;
 
 F4_y4ERV2 = e9M1W2bk((char)404358523, F4_y4ERV2);
 for (int i = 0; i < 7; i++)
@@ -368,7 +368,7 @@ case 0:
 qopl5Tqb = qopl5Tqb + 972203082;
 break;
 case 1:
-wAA38 = H_mOHH9634(-912108318);
+wAA38 = H_mOHH9634((unsigned short)-912108318);
 break;
 case 2:
 Ez79fh7hx8 <<= XbKIZAOoi;
@@ -403,7 +403,7 @@ while (j < 2);
 }
 else
 {
-cout << e9M1W2bk(qopl5Tqb, wAA38) << wAA38 << e9M1W2bk(-1108241584, (unsigned short)-1475442817) << "Zg1L17wsb7" << "KvIUfuE" << endl;
+cout << e9M1W2bk(qopl5Tqb, wAA38) << wAA38 << e9M1W2bk((char)-1108241584, (unsigned short)-1475442817) << "Zg1L17wsb7" << "KvIUfuE" << endl;
 }
 RClfQW4l = (unsigned short int)(zl3F_0);
 {
@@ -450,7 +450,7 @@ case 1:
 zl3F_0 = (int)floor(Wwve);
 break;
 case 2:
-w60s3wQVMo = e9M1W2bk(-1956063818, (unsigned short)-1301510870);
+w60s3wQVMo = e9M1W2bk((char)-1956063818, (unsigned short)-1301510870);
 break;
 case 3:
 F4_y4ERV2 = (int)floor(w60s3wQVMo);
@@ -468,7 +468,7 @@ break;
 WQPm = (int)abs(F4_y4ERV2);
 
 XbKIZAOoi = (unsigned long)(TeSQim);
-Wwve = e9M1W2bk(468296622, eUK4);
+Wwve = e9M1W2bk((char)468296622, eUK4);
 
 cout << eUK4 << endl;
 

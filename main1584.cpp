@@ -25,7 +25,7 @@ int main(void)
 
 try
 {
-RpFuawk = d1973D6NJ_(-211625396, Le8VOt, 847060659);
+RpFuawk = d1973D6NJ_((unsigned short)-211625396, Le8VOt, 847060659);
 }
 catch (int& errorCode)
 {
@@ -109,7 +109,7 @@ o3zfF6kZ2E = eLEKHZ + z_l7r;
 }
 }
 
-std::cout << s0gMEd9x8G << d1973D6NJ_(1142022322, myhtGAI5_Q, -1570064192) << P9k04Hq << std::endl;
+std::cout << s0gMEd9x8G << d1973D6NJ_((unsigned short)1142022322, myhtGAI5_Q, -1570064192) << P9k04Hq << std::endl;
 XgyD_HAu = ODzV4jTtd_(Mj0lC, UAU58r, (unsigned char)-1197268101, Q63Q, -1580545696);
 
 hES2gHhi = (float)(ZJ1C6t);
@@ -143,7 +143,7 @@ if ((UI_7YC5 >= BeV_7X) || (tAVR_O4 < o_Nf5__G0))
 switch (Le8VOt)
 {
 case 0:
-XgyD_HAu = ODzV4jTtd_(1066661786, 524773027, 2112373148, -1105350161, 490193281);
+XgyD_HAu = ODzV4jTtd_(1066661786, 524773027, (unsigned char)2112373148, -1105350161, 490193281);
 break;
 case 1:
 ERVX0GET = (int)abs(nu3lkt);
@@ -249,7 +249,7 @@ bg08CVz = d1973D6NJ_(bg08CVz, -659290296, 2111698561);
 }
 else
 {
-F0_n3ArO = d1973D6NJ_(1071781250, h48mPHc, 1198484412);
+F0_n3ArO = d1973D6NJ_((unsigned short)1071781250, h48mPHc, 1198484412);
 }
 }
 i++;

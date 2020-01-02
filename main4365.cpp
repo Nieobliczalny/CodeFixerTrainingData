@@ -35,7 +35,7 @@ switch (i20dRUBK)
 {
 case 'a':
 case 'A':
-Ikjr = AlcD(-598803602);
+Ikjr = AlcD((unsigned short)-598803602);
 break;
 case 'b':
 case 'B':
@@ -77,7 +77,7 @@ if (j67Pmo > Lzz25B37tj)
 switch (H9rg34_6)
 {
 case 0:
-j67Pmo = xiNgbml45N(1632435673, 1549163539);
+j67Pmo = xiNgbml45N((short)1632435673, 1549163539);
 break;
 case 1:
 my7Z4 = uP6N1V3 + 279939442;
@@ -89,7 +89,7 @@ case 3:
 D7uk3RCC *= x9M1;
 break;
 case 4:
-W1J1NF06 = AlcD(-112693539);
+W1J1NF06 = AlcD((unsigned short)-112693539);
 break;
 case 5:
 AcOW = NY8NCJ66rL();
@@ -134,7 +134,7 @@ while (j >= 0)
 j--;
 for (int k = 7; k >= 0; --k)
 {
-A_6l = xiNgbml45N(986263362, ub76N);
+A_6l = xiNgbml45N((short)986263362, ub76N);
 }
 }
 }
@@ -166,7 +166,7 @@ case 1:
 O1yB = NY8NCJ66rL();
 break;
 case 2:
-ub76N = AlcD(211766790) & 1501121873;
+ub76N = AlcD((unsigned short)211766790) & 1501121873;
 break;
 case 3:
 A_6l = xiNgbml45N(Wj89m9G, -1910041876);
@@ -188,7 +188,7 @@ return 0;
 }
 
 short    NY8NCJ66rL()    {
-    return    1569141549;
+    return    (short)1569141549;
 }
 
 unsigned long long	xiNgbml45N(short int	DwnNBrR,int	G74n)	{
@@ -202,6 +202,6 @@ unsigned char	JUWiw083_(unsigned short	lR7F,int	Jx_Icgtwb)
 
 char  AlcD(unsigned short  W7ByUN)
 {
-  return  334964113;
+  return  (char)334964113;
 }
 

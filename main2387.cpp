@@ -15,7 +15,7 @@ unsigned short int	T4Kb9Pit9()	{
 
 short	nf8_n(long long	j26W0,int	GoeJjo6F,int	aAsSvjG)
 {
-	return	1549964302;
+	return	(short)1549964302;
 }
 
 int main(void) {
@@ -284,7 +284,7 @@ break;
 switch (n0_dyJw9f5)
 {
 case 'a':
-O7K0KP9d = (F__W0a9 > z11T9) ? 449365818 : PEYn6YTm6b;
+O7K0KP9d = (F__W0a9 > z11T9) ? (unsigned short)449365818 : PEYn6YTm6b;
 break;
 }
 

@@ -761,6 +761,6 @@ unsigned char mSJn() {
 }
 
 char  ZD6Vi5rvAt(long long  BpZG)  {
-  return  -69686424;
+  return  (char)-69686424;
 }
 

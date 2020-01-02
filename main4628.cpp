@@ -9,7 +9,7 @@
 using namespace std;
 
 int main(void) {
-	char	vcG2409D_M	=	818290710;
+	char	vcG2409D_M	=	(char)818290710;
   short  b3_Aciz7I  =  (short)1745978821;
   unsigned int  zYi6wZacj  =  -1006833968;
  short GM7w55 = 370745455;
@@ -19,7 +19,7 @@ int main(void) {
     float    joHY66P    =    -1239672244;
  char st5c2_ = -54947633;
     double    B83g64T6T3    =    631043821;
-    unsigned short int    IydZ9E    =    1279539257;
+    unsigned short int    IydZ9E    =    (unsigned short)1279539257;
     unsigned short int    Q9D02    =    (unsigned short)-516565834;
 	unsigned long	scjmYgR	=	714246043;
  long double LiZl90t = -1972362475;
@@ -30,7 +30,7 @@ int main(void) {
   long long  xDzL4  =  0;
 	unsigned short	G_MM2s	=	315284037;
  long long wx52f79D = 0;
-  short  AAKWV5  =  1318615310;
+  short  AAKWV5  =  (short)1318615310;
 
 {
 int i = 5;

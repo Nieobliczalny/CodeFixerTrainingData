@@ -14,7 +14,7 @@ using std::floor;
 
 unsigned short  MpJnQJ(short int  Xd1s90dh,char  EyHHb__tAp)
 {
-  return  1888458756;
+  return  (unsigned short)1888458756;
 }
 
 unsigned short int r37zV0(unsigned long long yPVB74mr,unsigned char wZ8a7,unsigned char ar358AB3N) {
@@ -38,7 +38,7 @@ int j = 9;
 do
 {
 j--;
-cout << F0L3ts(tXlzZRLuGI, Rb7b47, 1058672644, Mi61) << r37zV0(tXlzZRLuGI, Rb7b47, o_CBjt80) << r37zV0(tXlzZRLuGI, (unsigned char)-1083184569, o_CBjt80) << "oK__W0EMGb" << y0iBg2OJeN << endl;
+cout << F0L3ts(tXlzZRLuGI, Rb7b47, (unsigned char)1058672644, Mi61) << r37zV0(tXlzZRLuGI, Rb7b47, o_CBjt80) << r37zV0(tXlzZRLuGI, (unsigned char)-1083184569, o_CBjt80) << "oK__W0EMGb" << y0iBg2OJeN << endl;
 }
 while (j >= 0);
 }
@@ -67,7 +67,7 @@ while (j >= 0);
 }
 j6pmcm = (unsigned int)(y0iBg2OJeN);
 
-y0G6e = F0L3ts(y0G6e, 712008459, -675245968, hGEl_9x_4);
+y0G6e = F0L3ts(y0G6e, 712008459, (unsigned char)-675245968, hGEl_9x_4);
 
 if (v_WR < 527179766)
 {
@@ -83,7 +83,7 @@ int i = 0;
 while (i < 2)
 {
 i++;
-kr39hZ = r37zV0(-181334212, -489746334, voGhz_NRW);
+kr39hZ = r37zV0(-181334212, (unsigned char)-489746334, voGhz_NRW);
 }
 }
 kr39hZ = (int)abs(yhuCP753F);
@@ -102,7 +102,7 @@ j--;
 }
 }
 }
-HgC1 = MpJnQJ(-397873271, XbEw7Oc);
+HgC1 = MpJnQJ((short)-397873271, XbEw7Oc);
 HgC1 = F0L3ts(1243784964, yhuCP753F, (unsigned char)2118525950, KgK2u_M);
 
 try
@@ -115,7 +115,7 @@ y0G6e += 1012472191;
 }
 else
 {
-y0G6e = MpJnQJ(y0G6e, 1834401391);
+y0G6e = MpJnQJ(y0G6e, (char)1834401391);
 }
 }
 catch (int& errorCode)
@@ -127,7 +127,7 @@ catch (int& errorCode)
 {
 j6pmcm = o_8Q5fj78 & 1643772793;
 }
-yhuCP753F = r37zV0(160697632, -325882328, (unsigned char)-1974805058);
+yhuCP753F = r37zV0(160697632, (unsigned char)-325882328, (unsigned char)-1974805058);
 
 if (yhuCP753F == 0)
 {
@@ -145,7 +145,7 @@ for (int j = 3; j >= 0; --j)
 int k = 9;
 while (k >= 0)
 {
-E_dpNXg = MpJnQJ(-1330319209, XbEw7Oc);
+E_dpNXg = MpJnQJ((short)-1330319209, XbEw7Oc);
 --k;
 }
 }
@@ -165,7 +165,7 @@ do
 j++;
 if (X74_18 <= -859978612)
 {
-LnkT = F0L3ts(-1406415680, 1973596463, -922412972, (short)1901041780);
+LnkT = F0L3ts(-1406415680, 1973596463, (unsigned char)-922412972, (short)1901041780);
 }
 else
 {

@@ -10,7 +10,7 @@ using namespace std;
 
 int main() {
  short int b4EijwswHD;
- b4EijwswHD = 962098151;
+ b4EijwswHD = (short)962098151;
   long  sf17y71M7w;
   sf17y71M7w  =  -1615617073;
     unsigned long long    xOCa1H2Y6K;
@@ -20,7 +20,7 @@ int main() {
     unsigned long    Au897;
     Au897    =    -1037850691;
   unsigned char  Ybqih;
-  Ybqih  =  -1171169637;
+  Ybqih  =  (unsigned char)-1171169637;
     short    pr0pwwa;
     pr0pwwa    =    244707757;
 	short	z8X8dfy;
@@ -32,7 +32,7 @@ int main() {
  long double jQ91W;
  jQ91W = -456734667;
     unsigned short int    q4X3;
-    q4X3    =    -494447041;
+    q4X3    =    (unsigned short)-494447041;
     unsigned long    f0gAOi4_iP;
     f0gAOi4_iP    =    1981763665;
  char j4u2;
@@ -42,7 +42,7 @@ int main() {
  long double e5N088;
  e5N088 = -1640367268;
 	unsigned short int	e5j8;
-	e5j8	=	-1883189809;
+	e5j8	=	(unsigned short)-1883189809;
 	unsigned long long	MJNl_H;
 	MJNl_H	=	-1675496131;
 	unsigned long long	Kn271X;
@@ -52,7 +52,7 @@ int main() {
   long long  Lia6133_7;
   Lia6133_7  =  -1167794552;
     short    t6R4eR;
-    t6R4eR    =    -440494316;
+    t6R4eR    =    (short)-440494316;
  long double UB8X2;
  UB8X2 = 125171577;
 	float	C260_GWYz;
@@ -62,7 +62,7 @@ int main() {
 	long	Wu_24hxk;
 	Wu_24hxk	=	0;
  unsigned short QRKWp;
- QRKWp = -441368641;
+ QRKWp = (unsigned short)-441368641;
 	short int	G2_k02Ib;
 	G2_k02Ib	=	-884202757;
 	unsigned long long	iBfM5;
@@ -74,7 +74,7 @@ int main() {
  unsigned int T8Bmy56;
  T8Bmy56 = -1437707628;
   short int  nR6C;
-  nR6C  =  1447712005;
+  nR6C  =  (short)1447712005;
   long  ju10dNv7v;
   ju10dNv7v  =  -1322789728;
     float    Fu_lx_T9w;
@@ -102,7 +102,7 @@ case 2:
 zX__8V <<= 1841526840;
 break;
 case 3:
-j4u2 = (xOCa1H2Y6K & qJP2QuT7) ? 1951845996 : (char)-692955526;
+j4u2 = (xOCa1H2Y6K & qJP2QuT7) ? (char)1951845996 : (char)-692955526;
 break;
 case 4:
 CeB7R = (int)abs(UB8X2);
@@ -143,7 +143,7 @@ switch (pr0pwwa)
 {
 case 'a':
 case 'A':
-G2_k02Ib = (sf17y71M7w > t6R4eR) ? j4u2 : 2054919058;
+G2_k02Ib = (sf17y71M7w > t6R4eR) ? j4u2 : (short)2054919058;
 break;
 case 'b':
 case 'B':

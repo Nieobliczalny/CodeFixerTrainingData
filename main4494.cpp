@@ -22,7 +22,7 @@ int    jDTwc8H_()
 
 short int I__iilKi()
 {
- return 936100041;
+ return (short)936100041;
 }
 
 long long	eydJi()	{
@@ -186,7 +186,7 @@ Fk0x_nYd = L15l2pp625 & 2054499170;
 switch (FvW2w5Z8)
 {
 case 0:
-lXax = fiqrcBeT(318885085, 1969606366, p_AQ93AD, mVU_99);
+lXax = fiqrcBeT((char)318885085, 1969606366, p_AQ93AD, mVU_99);
 break;
 case 1:
 Ck_aDLn = I84EOM ^ j521eY6sJ7;

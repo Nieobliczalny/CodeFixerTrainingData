@@ -13,7 +13,7 @@ long    QEM94Gqnd(char    Z7X30LqU);
 
 int main(void)
 {
-	short	gWSmQU9t	=	168458781;
+	short	gWSmQU9t	=	(short)168458781;
  int FeF_U7dCv = 1711804995;
 	long long	w4wY90O	=	-2134745822;
   unsigned short int  mJi_E49Os  =  (unsigned short)-1380906517;
@@ -30,7 +30,7 @@ int main(void)
  long L8M_ = 1016461798;
     double    OZJ8IP    =    -208900863;
     unsigned long long    uDOXD    =    -201765823;
- unsigned char ZquM5u = -1898558694;
+ unsigned char ZquM5u = (unsigned char)-1898558694;
     short int    os890_6syQ    =    (short)-1872882197;
 	short	Lv1c6O	=	-935123661;
 	long long	wRTo2o0u	=	-1124797618;
@@ -40,7 +40,7 @@ int main(void)
   long long  LQe48Wlb  =  1258341346;
  unsigned short int fQz8AX7 = 2051389004;
     unsigned short int    amqj    =    -1595820805;
-  unsigned short  Z2Zv45O  =  -305247689;
+  unsigned short  Z2Zv45O  =  (unsigned short)-305247689;
  char lBPxvp_ = (char)1120719914;
 	unsigned char	n_A_EQ6nh	=	282522451;
   unsigned short  y5PrLccR08  =  1129074616;
@@ -53,7 +53,7 @@ int main(void)
     unsigned long long    MnPUOx86eC    =    -768055781;
   long long  r7HB3TDG3  =  706448284;
   float  y435  =  269698436;
-  unsigned char  Q4Pm6  =  917617413;
+  unsigned char  Q4Pm6  =  (unsigned char)917617413;
     float    r3Hh    =    -332828112;
     double    F9z7VYxn_    =    176276074;
   float  QiZq8C  =  444036533;
@@ -63,7 +63,7 @@ int main(void)
 	long	Fw_B	=	382650869;
   double  BJDjnq  =  1497767416;
 	short int	MZ2TVc	=	315264581;
-	short	rM6rwBO	=	402926498;
+	short	rM6rwBO	=	(short)402926498;
 	unsigned short int	X84h4	=	-1546436513;
  unsigned char Ks4S = 509100859;
  double w9o2sCah = -97160376;
@@ -74,7 +74,7 @@ int main(void)
  unsigned short int IRqzd = 0;
     short int    V_ZCDr    =    (short)162370445;
  float yow9CqkfY = 1507350698;
-    unsigned short int    wNgCcglg6    =    -982433792;
+    unsigned short int    wNgCcglg6    =    (unsigned short)-982433792;
  int Y1D5O5zh = 1416138505;
  unsigned short Nw3n = 1128674074;
     short    UcikEV    =    -2109884329;
@@ -84,7 +84,7 @@ int main(void)
  unsigned long long U5Dk2f = -1402327253;
  double gu6c = 1700891336;
     unsigned long    Zak73HYf    =    1722119089;
-  short int  RZ402chT3w  =  -75062358;
+  short int  RZ402chT3w  =  (short)-75062358;
  unsigned short int E78iMYE2X6 = (unsigned short)-1630969631;
 	unsigned char	XQq7	=	-1908165433;
 	long long	yz2mky	=	-1803224724;
@@ -94,7 +94,7 @@ int main(void)
   unsigned char  OA30gLbj6z  =  309577780;
   int  H89GXJ23wf  =  2093200782;
 	unsigned char	gp6G1	=	0;
- unsigned char P6wLRFH0 = 1300316440;
+ unsigned char P6wLRFH0 = (unsigned char)1300316440;
   unsigned long  B5tE  =  48991533;
     unsigned int    Q90jTO76    =    -1383240325;
     short int    g_vAbLm    =    (short)-1727193357;
@@ -106,7 +106,7 @@ int main(void)
     unsigned int    BVQ4XPk    =    1188786895;
     unsigned int    gVt4p    =    0;
  float DZ06P90LF = -1950631544;
-  unsigned short int  xx1U  =  1651826924;
+  unsigned short int  xx1U  =  (unsigned short)1651826924;
 	unsigned long	DJ_x0s	=	970063336;
 	long double	A562PRJ	=	-317192148;
   long double  gK8uWJHQ  =  522301694;
@@ -166,7 +166,7 @@ case 'a':
 yow9CqkfY = (int)floor(gK8uWJHQ);
 break;
 case 'b':
-cCe01F = Ms70(-1418260922, z_b9Y8rn);
+cCe01F = Ms70((unsigned short)-1418260922, z_b9Y8rn);
 break;
 case 'c':
 w9o2sCah = (int)floor(gA_MdM_v);
@@ -219,7 +219,7 @@ do
 switch (lBPxvp_)
 {
 case 'a':
-Ks4S = Ms70(Ks4S, -1952138823);
+Ks4S = Ms70(Ks4S, (unsigned short)-1952138823);
 break;
 case 'b':
 eCyPp7e02Q = Ms70((unsigned short)1556885154, Ks4S);
@@ -247,7 +247,7 @@ if (Fju4B7pxY > -1239584430)
 {
 try
 {
-n_A_EQ6nh = Ms70(gp6G1, 654569067);
+n_A_EQ6nh = Ms70(gp6G1, (unsigned short)654569067);
 }
 catch (int& errorCode)
 {
@@ -270,7 +270,7 @@ else
 {
 Q40f6 = (int)(wRTo2o0u);
 }
-z_b9Y8rn = Ms70(z_b9Y8rn, -1855735868);
+z_b9Y8rn = Ms70(z_b9Y8rn, (unsigned short)-1855735868);
 
 {
 int i = 0;
@@ -339,7 +339,7 @@ break;
 y435 = (int)floor(A562PRJ);
 try
 {
-std::cout << QEM94Gqnd(2074471780) << EAq401AO9b << eCyPp7e02Q << "DEEXDr" << P6wLRFH0 << std::endl;
+std::cout << QEM94Gqnd((char)2074471780) << EAq401AO9b << eCyPp7e02Q << "DEEXDr" << P6wLRFH0 << std::endl;
 }
 catch (int& errorCode)
 {

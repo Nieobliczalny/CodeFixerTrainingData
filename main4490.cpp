@@ -14,7 +14,7 @@ unsigned char Bzvys9S(long E2ebO,unsigned int KfZHvFV,long long gm3Go8d,unsigned
 
 int main(int argc, char** argv)
 {
-  short int  G3z2  =  1557532232;
+  short int  G3z2  =  (short)1557532232;
   unsigned short int  Kd2V  =  (unsigned short)438602392;
 	unsigned short	n1175jo	=	2118719492;
  long u_6F2 = 0;
@@ -29,7 +29,7 @@ int main(int argc, char** argv)
  unsigned long DLkZW = 523031713;
     float    CgKQBS1I    =    -505134813;
   unsigned int  J3Ag7  =  -1698213728;
-  unsigned short  En09pm2_9E  =  1034221759;
+  unsigned short  En09pm2_9E  =  (unsigned short)1034221759;
     float    K3Y7g    =    170155995;
  long long oXHw8_I7rA = -1683354143;
   float  m95mv3hC8m  =  -1933898161;
@@ -42,7 +42,7 @@ int main(int argc, char** argv)
 	unsigned int	PGCrQ	=	-958070794;
 	unsigned int	bqdpEvzt23	=	0;
     long long    O3jVOY    =    -986163535;
-  short int  pvv4A36Y4  =  1235876126;
+  short int  pvv4A36Y4  =  (short)1235876126;
 
 std::cout << yYso9FCq << DH_uwyo((unsigned short)-467056879, 1249986734, -319128773) << "urDxC53" << Bzvys9S(1224490554, -390656005, oXHw8_I7rA, K3Y7g) << std::endl;
 
@@ -77,7 +77,7 @@ while (j < 4)
 int k = 3;
 while (k >= 0)
 {
-bqdpEvzt23 = DH_uwyo(bqdpEvzt23, 1138947231, lA5Ojj2v_);
+bqdpEvzt23 = DH_uwyo(bqdpEvzt23, (char)1138947231, lA5Ojj2v_);
 --k;
 }
 }
@@ -145,7 +145,7 @@ switch (JfNbMf5W)
 {
 case 'a':
 case 'A':
-t_SnIf = DH_uwyo(1696430686, (char)275255307, t_SnIf);
+t_SnIf = DH_uwyo((unsigned short)1696430686, (char)275255307, t_SnIf);
 break;
 case 'b':
 case 'B':
@@ -157,7 +157,7 @@ EUTd = (int)abs(j10LJj_);
 break;
 }
 
-u_6F2 = DH_uwyo(-2061200802, (char)2116193515, -2092811980);
+u_6F2 = DH_uwyo((unsigned short)-2061200802, (char)2116193515, -2092811980);
 switch (yYso9FCq)
 {
 case 'a':
@@ -167,7 +167,7 @@ case 'b':
 j10LJj_ = DH_uwyo(-2020627735, IUZA6s6a, t_SnIf) + 1296789846;
 break;
 case 'c':
-t_SnIf = DH_uwyo(-1107866200, pvv4A36Y4, Kd2V);
+t_SnIf = DH_uwyo((unsigned short)-1107866200, pvv4A36Y4, Kd2V);
 break;
 default:
 B80CI = DH_uwyo(JfNbMf5W, EUTd, 505597236);
@@ -180,7 +180,7 @@ case 0:
 Et01CU = (int)abs(j10LJj_);
 break;
 case 1:
-t_SnIf = DH_uwyo(-1864660015, (char)-905274167, j10LJj_);
+t_SnIf = DH_uwyo((unsigned short)-1864660015, (char)-905274167, j10LJj_);
 break;
 case 2:
 lA5Ojj2v_ = (int)abs(hVzO1NP6it);
@@ -242,7 +242,7 @@ else if (PGCrQ & 207720269)
 int j = 0;
 do
 {
-B80CI = DH_uwyo(k75m4u, 732525731, 1582905207);
+B80CI = DH_uwyo(k75m4u, (char)732525731, 1582905207);
 j++;
 }
 while (j < 4);
@@ -301,6 +301,6 @@ unsigned short int	DH_uwyo(unsigned short	JF60lF,char	u0L1ZSivR1,int	Fvm3J)	{
 
 unsigned char Bzvys9S(long E2ebO,unsigned int KfZHvFV,long long gm3Go8d,unsigned int I3V6c)
 {
- return -1834264673;
+ return (unsigned char)-1834264673;
 }
 

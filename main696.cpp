@@ -65,7 +65,7 @@ a2Cu03Dn = (int)floor(KT83M1v0);
 }
 else if (((wOf4hj89 & -902800371) && (On5ebgH == -1229180496)) && (a4P1ju > 1416723136))
 {
-cout << j9CN1Vu_wB(1343293056, KT83M1v0, pHRC, vyLHJYu9Du, -1121338651) << "yZm610aM" << FZ9x_en << j9CN1Vu_wB(1359352143, KT83M1v0, 1737740764, 528016698, a4P1ju) << j9CN1Vu_wB(Axx5UC_, KT83M1v0, pHRC, vyLHJYu9Du, (unsigned short)-476486429) << endl;
+cout << j9CN1Vu_wB(1343293056, KT83M1v0, pHRC, vyLHJYu9Du, (unsigned short)-1121338651) << "yZm610aM" << FZ9x_en << j9CN1Vu_wB(1359352143, KT83M1v0, 1737740764, 528016698, a4P1ju) << j9CN1Vu_wB(Axx5UC_, KT83M1v0, pHRC, vyLHJYu9Du, (unsigned short)-476486429) << endl;
 }
 else if (pHRC != -223751967)
 {
@@ -155,7 +155,7 @@ do
 int k = 5;
 do
 {
-FZ9x_en = j9CN1Vu_wB(Axx5UC_, vyLHJYu9Du, -1018202941, FZ9x_en, 1076098272);
+FZ9x_en = j9CN1Vu_wB(Axx5UC_, vyLHJYu9Du, -1018202941, FZ9x_en, (unsigned short)1076098272);
 --k;
 }
 while (k >= 0);
@@ -184,7 +184,7 @@ for (int i = 0; i < 5; i++)
 switch (FZ9x_en)
 {
 case 0:
-FZ9x_en = j9CN1Vu_wB(pHRC, -468410212, FZ9x_en, a2Cu03Dn, (unsigned short)1618318240);
+FZ9x_en = j9CN1Vu_wB(pHRC, (short)-468410212, FZ9x_en, a2Cu03Dn, (unsigned short)1618318240);
 break;
 case 1:
 KT83M1v0 = (int)ceil(a2Cu03Dn);
@@ -199,7 +199,7 @@ case 4:
 a4P1ju += a4P1ju;
 break;
 case 5:
-pHRC = (pHRC != 1772207946) ? j9CN1Vu_wB(pHRC, KT83M1v0, FZ9x_en, -2137266764, 2049519067) : a4P1ju;
+pHRC = (pHRC != 1772207946) ? j9CN1Vu_wB(pHRC, KT83M1v0, FZ9x_en, -2137266764, (unsigned short)2049519067) : a4P1ju;
 break;
 case 6:
 a2Cu03Dn = (int)ceil(KT83M1v0);
@@ -249,7 +249,7 @@ int k = 8;
 do
 {
 k--;
-pHRC = j9CN1Vu_wB(-1959961116, KT83M1v0, -1068352511, a2Cu03Dn, -512493637) | 1149156375;
+pHRC = j9CN1Vu_wB(-1959961116, KT83M1v0, -1068352511, a2Cu03Dn, (unsigned short)-512493637) | 1149156375;
 }
 while (k >= 0);
 }
@@ -276,7 +276,7 @@ int k = 0;
 while (k < 9)
 {
 k++;
-FZ9x_en = j9CN1Vu_wB(1354606383, vyLHJYu9Du, -1568401744, Axx5UC_, 704181339);
+FZ9x_en = j9CN1Vu_wB(1354606383, vyLHJYu9Du, -1568401744, Axx5UC_, (unsigned short)704181339);
 }
 }
 }

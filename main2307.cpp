@@ -69,7 +69,7 @@ case 4:
 K003xU_ = W44rwd(-1944996840, lMchSfW, g15QJkzR);
 break;
 case 5:
-x449aX = VL76xtb(28436990, vJ6tVX4MzZ, -1092556547);
+x449aX = VL76xtb((unsigned short)28436990, vJ6tVX4MzZ, -1092556547);
 break;
 case 6:
 r51XPMjii = W44rwd(r51XPMjii, LfQR, -1168232654);
@@ -91,7 +91,7 @@ while (j < 6)
 j++;
 if ((FTvR_h_uX == l_w3A_5) && ((FTvR_h_uX) && (WAF2_w == -1976504303)))
 {
-eH2S_ = CWhHXvlw(1098785500, 915255978);
+eH2S_ = CWhHXvlw(1098785500, (short)915255978);
 }
 else if ((Yy2_84Bat & 1440680116) && ((Lv4lK1D != 1677753426) && (a00VF == -2005874633)))
 {
@@ -156,7 +156,7 @@ M6_m9u3Zi = qk7k8SX - Zzd57IP;
 break;
 case 'e':
 case 'E':
-WAF2_w = CWhHXvlw(x449aX, -1925511741);
+WAF2_w = CWhHXvlw(x449aX, (short)-1925511741);
 break;
 case 'f':
 case 'F':
@@ -192,7 +192,7 @@ vJ6tVX4MzZ = (int)abs(wW27ug27);
 }
 else
 {
-Ndoko61CTa = N6EX7jEa0(N8v2yoB, 248599959) % 578940564;
+Ndoko61CTa = N6EX7jEa0(N8v2yoB, (short)248599959) % 578940564;
 }
 }
 else if (eH2S_ & -1785252714)
@@ -209,7 +209,7 @@ int k = 8;
 do
 {
 k--;
-WAF2_w = CWhHXvlw(-1417223222, -1224628071);
+WAF2_w = CWhHXvlw(-1417223222, (short)-1224628071);
 }
 while (k >= 0);
 }
@@ -244,7 +244,7 @@ else if ((HSCG) && (d2TH == J_Ze0eN_1))
 {
 for (int k = 0; k < 3; k++)
 {
-Yy2_84Bat = CWhHXvlw(G29W, -1989023966);
+Yy2_84Bat = CWhHXvlw(G29W, (short)-1989023966);
 }
 }
 else if ((yk6L_) && (Kb9LwW >= -624248130))
@@ -332,7 +332,7 @@ d2TH = W44rwd(434166297, mG22h2t_b1, Lv4lK1D);
 
 rim1XrlW = (float)(vbp_uy9lF0);
 l07zK93vbq = N6EX7jEa0(d2TH, mG22h2t_b1) / Yy2_84Bat;
-std::cout << "onMVZ78y" << CWhHXvlw(d2TH, -300678225) << N6EX7jEa0(d2TH, mG22h2t_b1) << lMchSfW << gIY_tap << std::endl;
+std::cout << "onMVZ78y" << CWhHXvlw(d2TH, (short)-300678225) << N6EX7jEa0(d2TH, mG22h2t_b1) << lMchSfW << gIY_tap << std::endl;
 
 std::cout << w82Dlf_6wv << std::endl;
 
@@ -418,7 +418,7 @@ d2TH = (int)ceil(gEbq);
 }
 else
 {
-std::cout << VL76xtb(916837987, kEurn8Y, zKl5) << "jHR2jd" << UGAG << "EH2CF0Ox" << "lMep1E0w" << std::endl;
+std::cout << VL76xtb((unsigned short)916837987, kEurn8Y, zKl5) << "jHR2jd" << UGAG << "EH2CF0Ox" << "lMep1E0w" << std::endl;
 }
 --i;
 }
@@ -522,7 +522,7 @@ unsigned long VL76xtb(unsigned short int xCrM488D0,long long IKyCvAw,long long N
 
 unsigned char  W44rwd(long  VHZCFX,int  WQe0KGXA_y,long long  j_65G)
 {
-  return  2027085211;
+  return  (unsigned char)2027085211;
 }
 
 short int N6EX7jEa0(long dZc34v,short int cD5b2) {

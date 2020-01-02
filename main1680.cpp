@@ -22,7 +22,7 @@ int main(void) {
   long long  R80hgZsG9L  =  0;
   unsigned short  joP9C_8G_7  =  0;
 	short	KG1YqNRYY	=	0;
-	short	cjRn1	=	-1835636835;
+	short	cjRn1	=	(short)-1835636835;
  unsigned long G6GbC = -341996010;
     unsigned long long    slCuNT    =    -343972996;
   unsigned char  LK6I5A  =  (unsigned char)-1783003839;
@@ -82,7 +82,7 @@ case 7:
 lQE_9_2 = (int)floor(PYb5a9);
 break;
 default:
-IxPZFq = (Br5ZY >= KG1YqNRYY) ? 1754102028 : ltg38p3r_;
+IxPZFq = (Br5ZY >= KG1YqNRYY) ? (unsigned short)1754102028 : ltg38p3r_;
 break;
 }
 cout << 1455917721 / KG1YqNRYY << endl;

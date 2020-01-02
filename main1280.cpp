@@ -27,7 +27,7 @@ int main(int argc, char** argv)
  unsigned long long g9Kvvasc;
  g9Kvvasc = -803286929;
 	short	SDf6WV316B;
-	SDf6WV316B	=	720417566;
+	SDf6WV316B	=	(short)720417566;
   unsigned short int  SMZy;
   SMZy  =  0;
   long  e1T8v;
@@ -41,7 +41,7 @@ int main(int argc, char** argv)
   long  DS4_;
   DS4_  =  -89421771;
  char y2r2;
- y2r2 = 1998232099;
+ y2r2 = (char)1998232099;
     double    OA0_Esy;
     OA0_Esy    =    1283516706;
 	unsigned long	DRn3RT;
@@ -51,7 +51,7 @@ int main(int argc, char** argv)
   short int  lLh9o_U_1Z;
   lLh9o_U_1Z  =  1284944300;
  char mX_Ez;
- mX_Ez = -1775951706;
+ mX_Ez = (char)-1775951706;
     long    U797E_SH82;
     U797E_SH82    =    422452509;
  long long bW07WsY;
@@ -63,7 +63,7 @@ int main(int argc, char** argv)
     long double    Tsy_5jrAr;
     Tsy_5jrAr    =    1384770706;
     char    JhDuxUImVw;
-    JhDuxUImVw    =    634728878;
+    JhDuxUImVw    =    (char)634728878;
     long double    Yai3_7;
     Yai3_7    =    -2139744573;
 
@@ -104,7 +104,7 @@ OA0_Esy = (int)ceil(Yai3_7);
 break;
 }
 Tsy_5jrAr = (int)ceil(S4Wb9);
-std::cout << "PT9_fKz2" << wNkXx(1963897128, DRn3RT, 964031120, -680868899) << std::endl;
+std::cout << "PT9_fKz2" << wNkXx(1963897128, DRn3RT, 964031120, (unsigned short)-680868899) << std::endl;
 if (s6t9 >= 542117487)
 {
 try
@@ -130,7 +130,7 @@ int j = 1;
 while (j >= 0)
 {
 --j;
-std::cout << wNkXx(642824648, 1085328243, 1659913940, -2054795901) << "R5Kfke3f" << Nj2n_HIx4_((short)-1229956272, 2063036663) << "j4cL" << std::endl;
+std::cout << wNkXx(642824648, 1085328243, 1659913940, (unsigned short)-2054795901) << "R5Kfke3f" << Nj2n_HIx4_((short)-1229956272, 2063036663) << "j4cL" << std::endl;
 }
 }
 }
@@ -142,7 +142,7 @@ switch (Wn7e3rCw5)
 {
 case 'a':
 case 'A':
-Wn7e3rCw5 = Nj2n_HIx4_(-1820903080, bW07WsY);
+Wn7e3rCw5 = Nj2n_HIx4_((short)-1820903080, bW07WsY);
 break;
 case 'b':
 case 'B':
@@ -155,7 +155,7 @@ break;
 }
 }
 
-std::cout << v8_zMg << Nj2n_HIx4_(-1642090583, -301611650) << std::endl;
+std::cout << v8_zMg << Nj2n_HIx4_((short)-1642090583, -301611650) << std::endl;
 
 for (int i = 0; i < 9; i++)
 {
@@ -269,7 +269,7 @@ else
 {
 if (DS4_)
 {
-X6k80_p8p = c9tIF(982594608, -612991415);
+X6k80_p8p = c9tIF((short)982594608, -612991415);
 }
 }
 }
@@ -337,7 +337,7 @@ bW07WsY = (int)abs(Tsy_5jrAr);
 }
 
 std::cout << c9tIF(lLh9o_U_1Z, IqY1p) / SMZy << std::endl;
-e1T8v = wNkXx(192251898, Tsy_5jrAr, S4Wb9, 1184055189);
+e1T8v = wNkXx(192251898, Tsy_5jrAr, S4Wb9, (unsigned short)1184055189);
 return 0;
 }
 

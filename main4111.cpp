@@ -29,7 +29,7 @@ case 1:
 nvV13c0 = OVfBum6(mem_sta7, -67244576, HDi04, 1316490445, Gz_l) & 1320636695;
 break;
 }
-cout << OVfBum6(mem_sta7, -837736071, HDi04, -1986765806, -1207482682) << o59WB4DO << "Dzc1iRA" << endl;
+cout << OVfBum6(mem_sta7, -837736071, HDi04, -1986765806, (unsigned short)-1207482682) << o59WB4DO << "Dzc1iRA" << endl;
 
 try
 {
@@ -51,7 +51,7 @@ int k = 1;
 while (k >= 0)
 {
 --k;
-Gz_l = OVfBum6(1342888998, qWuG2dnM, (unsigned short)-890931737, 1991563148, Gz_l) / 230279750;
+Gz_l = OVfBum6((unsigned char)1342888998, qWuG2dnM, (unsigned short)-890931737, 1991563148, Gz_l) / 230279750;
 }
 }
 }
@@ -70,7 +70,7 @@ if ((Ol_05 < -1107773769) || (b1R5))
 {
 if ((SukMU04LD5 < -1603427130) && (mQ0Be52d7))
 {
-hs1Y0 = OVfBum6(s3Q8FuI9, h1W9ZHV, mQ0Be52d7, -2140350296, -2019756624);
+hs1Y0 = OVfBum6(s3Q8FuI9, h1W9ZHV, mQ0Be52d7, -2140350296, (unsigned short)-2019756624);
 }
 }
 else if (hOPEy & HK39U)
@@ -80,7 +80,7 @@ int k = 0;
 do
 {
 k++;
-o2O_m = OVfBum6(o2O_m, 1537847805, -1456885315, 93274161, SukMU04LD5);
+o2O_m = OVfBum6(o2O_m, 1537847805, (unsigned short)-1456885315, 93274161, SukMU04LD5);
 }
 while (k < 1);
 }
@@ -109,7 +109,7 @@ Y9L379dN0 = (int)abs(hOPEy);
 }
 else
 {
-cout << OVfBum6(o2O_m, -1429023443, 1778437724, JHxTC, SukMU04LD5) << "T_nP" << J9kBHg37 << endl;
+cout << OVfBum6(o2O_m, -1429023443, (unsigned short)1778437724, JHxTC, SukMU04LD5) << "T_nP" << J9kBHg37 << endl;
 }
 
 try
@@ -134,7 +134,7 @@ if ((J9kBHg37 != aC6Z6h) || (hOPEy & pg16El7))
 {
 try
 {
-cout << OVfBum6(-1467589028, C9_x, j0JM3, -262767024, (unsigned short)-370502568) << J9kBHg37 << nvV13c0 << OVfBum6(o2O_m, C9_x, 1878345000, JHxTC, 850305103) << OVfBum6(2013517496, -304798611, -1523668699, -1430236931, SukMU04LD5) << endl;
+cout << OVfBum6((unsigned char)-1467589028, C9_x, j0JM3, -262767024, (unsigned short)-370502568) << J9kBHg37 << nvV13c0 << OVfBum6(o2O_m, C9_x, 1878345000, JHxTC, 850305103) << OVfBum6(2013517496, -304798611, -1523668699, -1430236931, SukMU04LD5) << endl;
 }
 catch (int& errorCode)
 {
@@ -151,7 +151,7 @@ if (J9kBHg37 < -1448592301)
 {
 for (int k = 8; k >= 0; --k)
 {
-hs1Y0 = OVfBum6(363502539, 2043169997, (unsigned short)-496083291, 729095503, cbyz);
+hs1Y0 = OVfBum6((unsigned char)363502539, 2043169997, (unsigned short)-496083291, 729095503, cbyz);
 }
 }
 }
@@ -174,7 +174,7 @@ case 0:
 QVPbM0 = (int)abs(TN2i89e);
 break;
 case 1:
-hs1Y0 = OVfBum6(H_XDMd, -1440404544, -1371264646, RS4I1D, fMMH8);
+hs1Y0 = OVfBum6(H_XDMd, -1440404544, (unsigned short)-1371264646, RS4I1D, fMMH8);
 break;
 case 2:
 i90CLiS = OVfBum6(fMMH8, mem_sta7, (unsigned short)6132678, -578330821, 1971666604);
@@ -186,7 +186,7 @@ case 4:
 aC6Z6h = N_Euy & 1141481650;
 break;
 case 5:
-hs1Y0 = OVfBum6(746811943, TY5j, Qxb78, axy4eTdT2_, scxMcd5XR);
+hs1Y0 = OVfBum6((unsigned char)746811943, TY5j, Qxb78, axy4eTdT2_, scxMcd5XR);
 break;
 case 6:
 SukMU04LD5 = OVfBum6(scxMcd5XR, -1061322852, rB6_pc2, S3w89iB, aC6Z6h);
@@ -291,7 +291,7 @@ o59WB4DO <<= nvV13c0;
 break;
 case 'e':
 case 'E':
-o2O_m = OVfBum6(-1670347366, aC6Z6h, (unsigned short)-348202986, 292379550, 657459522);
+o2O_m = OVfBum6((unsigned char)-1670347366, aC6Z6h, (unsigned short)-348202986, 292379550, 657459522);
 break;
 case 'f':
 case 'F':
@@ -312,7 +312,7 @@ for (int i = 9; i >= 0; --i)
 int j = 10;
 while (j >= 0)
 {
-SukMU04LD5 = OVfBum6(-838299395, pg16El7, j1U_O_G8, SukMU04LD5, q1O6);
+SukMU04LD5 = OVfBum6((unsigned char)-838299395, pg16El7, j1U_O_G8, SukMU04LD5, q1O6);
 --j;
 }
 }
@@ -336,7 +336,7 @@ sNF1k = (int)abs(nUbS_t6);
 int i = 4;
 while (i >= 0)
 {
-cout << OVfBum6(o59WB4DO, pg16El7, -832658105, SukMU04LD5, (unsigned short)-1674499296) << endl;
+cout << OVfBum6(o59WB4DO, pg16El7, (unsigned short)-832658105, SukMU04LD5, (unsigned short)-1674499296) << endl;
 --i;
 }
 }
@@ -377,7 +377,7 @@ else
 switch (axy4eTdT2_)
 {
 case 0:
-SukMU04LD5 = OVfBum6(-1510558458, y7H8NB10X, (unsigned short)-548358372, b3PQfl74, 651654907);
+SukMU04LD5 = OVfBum6((unsigned char)-1510558458, y7H8NB10X, (unsigned short)-548358372, b3PQfl74, 651654907);
 break;
 case 1:
 b1R5 *= i90CLiS;
@@ -389,7 +389,7 @@ case 3:
 cbyz *= KkqA4e7ti;
 break;
 case 4:
-o2O_m = OVfBum6(-1971767648, sNF1k, (unsigned short)-478742023, A_qvO1B, -2087884795);
+o2O_m = OVfBum6((unsigned char)-1971767648, sNF1k, (unsigned short)-478742023, A_qvO1B, -2087884795);
 break;
 case 5:
 S06U6yz <<= nvV13c0;
@@ -401,7 +401,7 @@ case 7:
 rb7Sg24 = (iB1a2C & qWuG2dnM) ? mem_sta7 : OVfBum6(rB6_pc2, sNF1k, qWuG2dnM, A_qvO1B, Dh8u7F);
 break;
 default:
-hs1Y0 = OVfBum6(X5wv_Kw_, JHxTC, G766WK, Ci7uUPbD1T, -1810756269);
+hs1Y0 = OVfBum6(X5wv_Kw_, JHxTC, G766WK, Ci7uUPbD1T, (unsigned short)-1810756269);
 break;
 }
 }

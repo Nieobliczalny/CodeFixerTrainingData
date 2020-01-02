@@ -11,7 +11,7 @@ int main() {
 	long	ht354bO,	Lp2wtPvS;
 		ht354bO	=	Lp2wtPvS	=	0;
  unsigned char hj02wX5PsO;
-  hj02wX5PsO = -1765002262;
+  hj02wX5PsO = (unsigned char)-1765002262;
 
 {
 int i = 4;
@@ -22,7 +22,7 @@ ht354bO = (int)abs(Lp2wtPvS);
 }
 while (i >= 0);
 }
-hj02wX5PsO = (hj02wX5PsO != 252073484) ? -1653571935 : (unsigned char)-862117280;
+hj02wX5PsO = (hj02wX5PsO != 252073484) ? (unsigned char)-1653571935 : (unsigned char)-862117280;
 
 hj02wX5PsO += ht354bO;
 hj02wX5PsO = Lp2wtPvS / 1120008799;
@@ -73,7 +73,7 @@ case 1:
 hj02wX5PsO = ht354bO & 1631509541;
 break;
 case 2:
-hj02wX5PsO = (ht354bO == -1147725084) ? 1843829116 : (unsigned char)1604764235;
+hj02wX5PsO = (ht354bO == -1147725084) ? (unsigned char)1843829116 : (unsigned char)1604764235;
 break;
 case 3:
 hj02wX5PsO += 893037749;
@@ -104,7 +104,7 @@ int k = 10;
 while (k >= 0)
 {
 --k;
-hj02wX5PsO = (hj02wX5PsO < 872214379) ? hj02wX5PsO : -321983611;
+hj02wX5PsO = (hj02wX5PsO < 872214379) ? hj02wX5PsO : (unsigned char)-321983611;
 }
 }
 }
@@ -231,7 +231,7 @@ case 'b':
 hj02wX5PsO *= ht354bO;
 break;
 case 'c':
-hj02wX5PsO = (hj02wX5PsO) ? -320736116 : (unsigned char)-1100946854;
+hj02wX5PsO = (hj02wX5PsO) ? (unsigned char)-320736116 : (unsigned char)-1100946854;
 break;
 }
 }
@@ -399,7 +399,7 @@ else
 {
 if (ht354bO)
 {
-hj02wX5PsO = (Lp2wtPvS <= -1086206698) ? ht354bO : 1497002344;
+hj02wX5PsO = (Lp2wtPvS <= -1086206698) ? ht354bO : (unsigned char)1497002344;
 }
 else if (ht354bO == 1260788027)
 {
@@ -600,7 +600,7 @@ while (k < 3);
 }
 else if ((hj02wX5PsO <= Lp2wtPvS) || (Lp2wtPvS <= -1241324349))
 {
-hj02wX5PsO = (hj02wX5PsO >= -1807432618) ? ht354bO : 1303367219;
+hj02wX5PsO = (hj02wX5PsO >= -1807432618) ? ht354bO : (unsigned char)1303367219;
 }
 else if (hj02wX5PsO <= 898665495)
 {
@@ -624,7 +624,7 @@ hj02wX5PsO++;
 break;
 case 'd':
 case 'D':
-hj02wX5PsO = (Lp2wtPvS) ? -887337469 : (unsigned char)1721861551;
+hj02wX5PsO = (Lp2wtPvS) ? (unsigned char)-887337469 : (unsigned char)1721861551;
 break;
 case 'e':
 case 'E':
@@ -866,7 +866,7 @@ while (j >= 0)
 --j;
 if ((Lp2wtPvS <= hj02wX5PsO) || ((Lp2wtPvS) || (Lp2wtPvS & -589396501)))
 {
-hj02wX5PsO = (Lp2wtPvS < -1066144223) ? hj02wX5PsO : -213929020;
+hj02wX5PsO = (Lp2wtPvS < -1066144223) ? hj02wX5PsO : (unsigned char)-213929020;
 }
 else if (((Lp2wtPvS <= hj02wX5PsO) || (ht354bO < 1548006504)) && (Lp2wtPvS != ht354bO))
 {

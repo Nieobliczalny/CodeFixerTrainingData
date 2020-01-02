@@ -14,7 +14,7 @@ using std::floor;
 
 int main(int argc, char** argv) {
 	short	zhuK	=	0;
-    short int    Jt1fOT0J3    =    -557309864;
+    short int    Jt1fOT0J3    =    (short)-557309864;
     long double    zbE6V8Da    =    -1987659312;
   double  Y3lFcl  =  -18370167;
     unsigned char    rIff    =    (unsigned char)-1391841634;
@@ -29,7 +29,7 @@ int main(int argc, char** argv) {
 	long	W2id	=	77731413;
  float kSTiEc7ycZ = -1913561988;
  long S1CfGaRL = 262993092;
-  unsigned char  IH3g4o  =  1045261179;
+  unsigned char  IH3g4o  =  (unsigned char)1045261179;
 	long double	Hu06qsoNyd	=	307561991;
     unsigned int    s_U8MDO    =    1247687931;
  int pN29iwl = 2071068163;
@@ -39,7 +39,7 @@ int main(int argc, char** argv) {
  unsigned short SCo7M3Q = (unsigned short)-1953584640;
   int  t541Q_5B  =  421133177;
 	unsigned int	LD4T	=	-1080718907;
-    unsigned char    rxtAN    =    -706594236;
+    unsigned char    rxtAN    =    (unsigned char)-706594236;
  short CvFc_hPu = -78992532;
   long  KsyRZas  =  1357893125;
 	unsigned long long	mSL_6sRE	=	1404657204;
@@ -51,7 +51,7 @@ int main(int argc, char** argv) {
   double  W02Y  =  474036017;
     double    XqWzsWJT    =    768310313;
   double  D1Z5  =  -1696254280;
-	unsigned short	Q7xQI	=	-1598701516;
+	unsigned short	Q7xQI	=	(unsigned short)-1598701516;
   unsigned short  sFnJGj  =  92560683;
   short int  ByrVPmKmd  =  1348885219;
     unsigned char    M3NzFG1e_    =    1063150821;
@@ -68,7 +68,7 @@ int main(int argc, char** argv) {
 	float	iRO6XmHlP	=	-1377279829;
  long M6Mw3F1P = -114107420;
     long long    V2KY4HOsE0    =    -1817855329;
-	char	VaIH8	=	1012570988;
+	char	VaIH8	=	(char)1012570988;
 	short int	Rcvmh	=	(short)1420897814;
   float  cdxWdNO  =  -1426415574;
 	unsigned int	N00Em4MP	=	-1020932002;
@@ -79,7 +79,7 @@ int main(int argc, char** argv) {
 	unsigned char	Sxeyn	=	1814533856;
   unsigned long long  Pke5lq  =  1089927406;
     unsigned int    PSq6A2_K    =    1957057441;
-  unsigned short int  Qf74Mt  =  -505343183;
+  unsigned short int  Qf74Mt  =  (unsigned short)-505343183;
   unsigned short  sB14H8Hl  =  (unsigned short)199796372;
  char PozDC1a35z = -1214717065;
  unsigned char N5Z0dpD3YW = -1730410378;

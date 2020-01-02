@@ -18,7 +18,7 @@ long long	rQy3Lsri();
 
 int main(void) {
     short    GZ5rQwGiH;
-    GZ5rQwGiH    =    -1876718871;
+    GZ5rQwGiH    =    (short)-1876718871;
   float  Ic_6Q69;
   Ic_6Q69  =  -44520749;
  unsigned long Xc6C;
@@ -34,7 +34,7 @@ int main(void) {
     unsigned long long    zhNVgvx_3K;
     zhNVgvx_3K    =    -2022290513;
     short    rX4O88Wt;
-    rX4O88Wt    =    599195423;
+    rX4O88Wt    =    (short)599195423;
   char  r0ffYQr7I;
   r0ffYQr7I  =  0;
 	short	qFcKc;
@@ -44,7 +44,7 @@ int main(void) {
  long double a5pHZ;
  a5pHZ = -1391128876;
  short HXUI7h;
- HXUI7h = 1589353850;
+ HXUI7h = (short)1589353850;
  long double h2sU;
  h2sU = 53398169;
   int  p25_5w7r;
@@ -62,7 +62,7 @@ int main(void) {
   unsigned long long  PjSZc;
   PjSZc  =  -2058868134;
  unsigned short int xQF08wM9;
- xQF08wM9 = 894928607;
+ xQF08wM9 = (unsigned short)894928607;
  unsigned short int m_W2AL;
  m_W2AL = (unsigned short)1263656373;
 	unsigned long long	d4t4;
@@ -86,7 +86,7 @@ int main(void) {
   long  FJ670Fw;
   FJ670Fw  =  -1638437839;
  unsigned short veodmR4c3;
- veodmR4c3 = 611901627;
+ veodmR4c3 = (unsigned short)611901627;
  unsigned short int R7aL0n5;
  R7aL0n5 = (unsigned short)-1373814821;
   long  u8TaQpM;
@@ -203,7 +203,7 @@ Ic_6Q69 = (int)ceil(nc4_k31);
 }
 else
 {
-h2sU = x3cwhUuO(490995043);
+h2sU = x3cwhUuO((unsigned char)490995043);
 }
 }
 else if (BCPwUu0Zm == Ldf48)
@@ -230,7 +230,7 @@ XH111kEZ8 = YTZZ6uK ^ NE1Bg;
 }
 else if (FJ670Fw & -1476129361)
 {
-h2sU = x3cwhUuO(-447554788) << m_W2AL;
+h2sU = x3cwhUuO((unsigned char)-447554788) << m_W2AL;
 }
 else if (g7XFY_R9Sp <= Wrw8S)
 {
@@ -265,7 +265,7 @@ Z4MLs5x2N &= g7XFY_R9Sp;
 }
 else if (r19d < FYEGe68vNp)
 {
-GZ5rQwGiH = x3cwhUuO(680993141);
+GZ5rQwGiH = x3cwhUuO((unsigned char)680993141);
 }
 else if (((Xc6C <= WP7f8P) || (NE1Bg & Wrw8S)) && (BCPwUu0Zm != Wrw8S))
 {
@@ -362,7 +362,7 @@ case 'a':
 Ic_6Q69 = (int)floor(h2sU);
 break;
 case 'b':
-u8TaQpM = x3cwhUuO(-398938376);
+u8TaQpM = x3cwhUuO((unsigned char)-398938376);
 break;
 case 'c':
 GZ5rQwGiH = GZ5rQwGiH + 800206690;
@@ -533,7 +533,7 @@ unsigned long	MxsrJ7()	{
 }
 
 unsigned short    x3cwhUuO(unsigned char    DE_W)    {
-    return    1960526972;
+    return    (unsigned short)1960526972;
 }
 
 long long	rQy3Lsri()	{

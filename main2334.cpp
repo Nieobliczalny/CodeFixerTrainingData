@@ -18,7 +18,7 @@ unsigned long long  rNo3D(short int  Q1ggJG5Y,short  t6F8Kd,long long  LzJcOsjea
 
 unsigned short  v90PN9e9(short  Oe4TE42c1,short  B05UvKM9Ex,long long  NLDuQiN0Ix,short int  R8Odm_9Ww8)
 {
-  return  1678403145;
+  return  (unsigned short)1678403145;
 }
 
 int main(int argc, char** argv) {
@@ -41,7 +41,7 @@ switch (FZhG_)
 {
 case 'a':
 case 'A':
-fO5RObS5 = p6Ye(815658300, Q5dO_821b);
+fO5RObS5 = p6Ye((unsigned char)815658300, Q5dO_821b);
 break;
 case 'b':
 case 'B':
@@ -57,7 +57,7 @@ E_EjVhbD8y = v90PN9e9(rC6G6W, E_EjVhbD8y, -1599725371, FZhG_);
 break;
 case 'e':
 case 'E':
-E_EjVhbD8y = v90PN9e9(774209826, FZhG_, MJdC8dK3j, rC6G6W);
+E_EjVhbD8y = v90PN9e9((short)774209826, FZhG_, MJdC8dK3j, rC6G6W);
 break;
 case 'f':
 case 'F':
@@ -73,7 +73,7 @@ f21p ^= Q5dO_821b;
 break;
 case 'i':
 case 'I':
-i83aDy4 = rNo3D(1488156620, i83aDy4, -1440542966);
+i83aDy4 = rNo3D((short)1488156620, i83aDy4, -1440542966);
 break;
 case 'j':
 case 'J':

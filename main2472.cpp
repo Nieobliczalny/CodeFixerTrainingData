@@ -20,7 +20,7 @@ unsigned long long    ULDX7(unsigned long    jf691NI122,unsigned short    yqH6qA
 char K8njRd();
 
 int main() {
-    short int    Z_m08    =    1748604549;
+    short int    Z_m08    =    (short)1748604549;
 	unsigned short	a2yH_SQyy2	=	(unsigned short)-2030415897;
   unsigned int  ZLTB  =  1508926167;
     char    w24_rCIF_b    =    380109458;
@@ -30,7 +30,7 @@ int main() {
 	unsigned int	Z0tGaj	=	1154659169;
  unsigned char Amo03WE_99 = -1122309226;
     double    frR5dve    =    -1493206420;
-  unsigned short  mHhTwAmJXt  =  -1926953658;
+  unsigned short  mHhTwAmJXt  =  (unsigned short)-1926953658;
     long long    Hc_2b    =    -1070787742;
   unsigned long  lj22f  =  -2058063713;
   double  dXEmC3Zd  =  -1005532116;
@@ -40,7 +40,7 @@ int main() {
 	float	eBs1	=	-492874037;
     unsigned int    s8XfHo    =    1446575981;
  short int SdNj = (short)997370997;
-    unsigned char    Dn8L0G2    =    -767859178;
+    unsigned char    Dn8L0G2    =    (unsigned char)-767859178;
  long long Dd2_ = -526355834;
   unsigned int  aPS615Y  =  658960633;
  double vIbBjwg = -364543852;
@@ -50,7 +50,7 @@ int main() {
 	short int	jcmi4YvuE	=	-1644310935;
     unsigned char    D2lTU90dPL    =    -1728565861;
   unsigned long  HbBN0  =  -1876607072;
-  short  SnlMow_J6F  =  909485649;
+  short  SnlMow_J6F  =  (short)909485649;
     unsigned int    B47Kr_44    =    -822641598;
     short    sAwGH8    =    (short)1253766359;
   unsigned short int  FbSoZ3yy6  =  284573206;
@@ -62,7 +62,7 @@ int main() {
  char W3v8k36zQ = -1838522271;
  long long L2d673 = -201239881;
     unsigned long    Z1sJmu    =    999446032;
-	unsigned short	PH7bBTxQq	=	-1345173245;
+	unsigned short	PH7bBTxQq	=	(unsigned short)-1345173245;
  char VDbV0R = (char)797559424;
  unsigned short E2hk7wTb6D = 797592442;
   unsigned long  qmx6_u1x_  =  0;
@@ -128,7 +128,7 @@ if ((frR5dve < 503716290) || (Nfzov2M != s8XfHo))
 {
 try
 {
-a2yH_SQyy2 = Btd3l91oS(267870924, 521541282);
+a2yH_SQyy2 = Btd3l91oS(267870924, (char)521541282);
 }
 catch (int& errorCode)
 {
@@ -142,7 +142,7 @@ return 0;
 
 unsigned short	g6d_40iJ5(unsigned short int	EpG2o,unsigned long	o_3J93F,short	ti16rM1_,short int	Y_GG4)
 {
-	return	1280356009;
+	return	(unsigned short)1280356009;
 }
 
 unsigned long	Btd3l91oS(int	jQwlRehU_d,char	Q_f4)
@@ -160,6 +160,6 @@ unsigned long long    ULDX7(unsigned long    jf691NI122,unsigned short    yqH6qA
 }
 
 char K8njRd() {
- return -2121796683;
+ return (char)-2121796683;
 }
 

@@ -22,7 +22,7 @@ for (int i = 0; i < 6; i++)
 cout << "O59b_Lv0Qb" << endl;
 }
 
-cout << "zj4kq_11E" << YT1_x(JXcPD6NyE7, Ji_RLJzP_O, 1956785293, WUWf_OK) << endl;
+cout << "zj4kq_11E" << YT1_x(JXcPD6NyE7, Ji_RLJzP_O, (short)1956785293, WUWf_OK) << endl;
 try
 {
 for (int j = 0; j < 1; ++j)

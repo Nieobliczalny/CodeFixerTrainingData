@@ -9,7 +9,7 @@
 
 
 unsigned short int  Op_0PRHuNc(unsigned long  EzB9TB,long  H_H6w,unsigned short int  O0zU)  {
-  return  272296886;
+  return  (unsigned short)272296886;
 }
 
 unsigned int    AKBd(unsigned int    i_EWEM)    {
@@ -185,7 +185,7 @@ case 6:
 g38wjjAD = (int)abs(Y2RcN00DXa);
 break;
 case 7:
-Ep2LDuxIO = Op_0PRHuNc(Ep2LDuxIO, pSCJQ7c, -1786864673);
+Ep2LDuxIO = Op_0PRHuNc(Ep2LDuxIO, pSCJQ7c, (unsigned short)-1786864673);
 break;
 case 8:
 uv_2f13_ = Ih4LQjVcQ(uv_2f13_, (unsigned short)-1421100491, rmYow759z);
@@ -302,7 +302,7 @@ try
 {
 try
 {
-xu53801 = Ih4LQjVcQ(QpHdPT, -80881161, w97N_) % 1093878012;
+xu53801 = Ih4LQjVcQ(QpHdPT, (unsigned short)-80881161, w97N_) % 1093878012;
 }
 catch (int& errorCode)
 {
@@ -328,7 +328,7 @@ do
 j++;
 if (gsdw_O1 == fus5_guEfV)
 {
-Uifw_Lu = Ih4LQjVcQ(Uifw_Lu, 569526946, -922842764);
+Uifw_Lu = Ih4LQjVcQ(Uifw_Lu, (unsigned short)569526946, -922842764);
 }
 }
 while (j < 4);

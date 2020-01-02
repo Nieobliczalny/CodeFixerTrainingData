@@ -10,7 +10,7 @@ using namespace std;
 
 int main(void) {
 	float	X87hSRRD	=	-1748884119;
-  unsigned short  gBUX  =  1089508859;
+  unsigned short  gBUX  =  (unsigned short)1089508859;
 	unsigned long long	t5vQ	=	645465646;
  short int VNN_20_9K = (short)-318743289;
   unsigned int  w6Q9_  =  0;
@@ -25,7 +25,7 @@ int main(void) {
 	double	foXB2J76H	=	1957685609;
     long double    AAl75WS    =    1876046037;
 	long double	chDIq7r6	=	-894931008;
-  short int  oNB_xv  =  1378585033;
+  short int  oNB_xv  =  (short)1378585033;
  long ak33jaX5z = -650669257;
 	long double	j3QF3D	=	1838145315;
  short int c6pw = (short)-1829706207;
@@ -36,7 +36,7 @@ int main(void) {
 	unsigned long long	V_c66	=	-498697554;
  long double k_X_ = -1897922801;
   long  nYZwhn  =  -1258572202;
-	char	y2u0	=	-1625110438;
+	char	y2u0	=	(char)-1625110438;
     double    ndTbfC    =    886073791;
  float w2PKdTZ8_f = 1123715471;
  unsigned int yW5WX = 910370649;
@@ -47,7 +47,7 @@ int main(void) {
 	int	R1d8OU	=	1507261191;
  float tELvs4VyH7 = -485435871;
   unsigned long  VCa67b  =  1489885434;
-    short int    Et65    =    1716938730;
+    short int    Et65    =    (short)1716938730;
   unsigned long long  z1w6Z5x5t  =  -838388662;
   short int  kTP138  =  -1172618563;
   long double  EN53YKf0v  =  -908310820;
@@ -57,7 +57,7 @@ int main(void) {
     unsigned char    p95aw    =    (unsigned char)-617848407;
 	short	hf2bAv	=	-1575021586;
   unsigned short int  Av9by04nR  =  -559847119;
-	short	cxlyQ	=	1184139658;
+	short	cxlyQ	=	(short)1184139658;
     short    a32r    =    -237377510;
 
 ak33jaX5z = a32r / w6Q9_;

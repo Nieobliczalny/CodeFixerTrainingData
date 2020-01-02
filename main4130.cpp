@@ -10,7 +10,7 @@ using namespace std;
 
 short    sVlxI(long long    WV7T,long long    KCdm81nj)
 {
-    return    1283192341;
+    return    (short)1283192341;
 }
 
 unsigned char    br4n4NPUL(short int    hmrAw_VCD)    {
@@ -20,7 +20,7 @@ unsigned char    br4n4NPUL(short int    hmrAw_VCD)    {
 int main(int argc, char** argv) {
  char jTfbYA6, yoK1WlY, SgOEz, uAll4Vnx4W, kl81Ie, p__mm, sn7bzt6F0, Y6wFG, Ks7M6aj, DW1Nz, hu2YHs3V2K, kHWo8Ab_s, KxzVBZIg, a0g73166r, V_O4_09qB9, yH1Y038VC, x224s, zu7XqYS, J3RR9zJ1_, v2tz;
  jTfbYA6 = (char)1196747635;
- yoK1WlY = -296855882;
+ yoK1WlY = (char)-296855882;
  SgOEz = 348506861;
  uAll4Vnx4W = 223514379;
  kl81Ie = 142880741;
@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
  Ks7M6aj = 1493190972;
  DW1Nz = -1530317251;
  hu2YHs3V2K = (char)1272842274;
- kHWo8Ab_s = -50942686;
+ kHWo8Ab_s = (char)-50942686;
  KxzVBZIg = 407539525;
  a0g73166r = 1807179990;
  V_O4_09qB9 = 1775060100;
@@ -61,7 +61,7 @@ case 0:
 jTfbYA6 = sVlxI(-298565616, 1470776763);
 break;
 case 1:
-X365QXzc25 = br4n4NPUL(985017196);
+X365QXzc25 = br4n4NPUL((short)985017196);
 break;
 case 2:
 J3RR9zJ1_ /= 936484827;
@@ -92,7 +92,7 @@ while (i < 1);
 switch (Q5e_R0)
 {
 case 'a':
-Q5e_R0 = br4n4NPUL(1356286915);
+Q5e_R0 = br4n4NPUL((short)1356286915);
 break;
 case 'b':
 u9B2 = br4n4NPUL((short)-479260105);
@@ -120,7 +120,7 @@ hu2YHs3V2K = (int)abs(SgOEz);
 int i = 1;
 do
 {
-UM420by = br4n4NPUL(-742543306);
+UM420by = br4n4NPUL((short)-742543306);
 i--;
 }
 while (i >= 0);
@@ -153,7 +153,7 @@ KxzVBZIg = sVlxI(-1349065996, sn7bzt6F0);
 
 cout << UM420by << "qk3g45_C8h" << endl;
 
-X365QXzc25 = br4n4NPUL(325553100);
+X365QXzc25 = br4n4NPUL((short)325553100);
 
 a0g73166r--;
 
@@ -243,7 +243,7 @@ catch (int& errorCode)
 {
 sn7bzt6F0 = sVlxI(2049508837, -1080957407) % SgOEz;
 }
-cout << 509253084 / br4n4NPUL(1334522542) << endl;
+cout << 509253084 / br4n4NPUL((short)1334522542) << endl;
 cout << X365QXzc25 << br4n4NPUL(x224s) << sVlxI(-1618911262, 1808557512) << sVlxI(x224s, UM420by) << endl;
 if ((sn7bzt6F0 & 1510625492) || ((p__mm < -1746449026) && (v2tz <= -1879650067)))
 {
@@ -255,7 +255,7 @@ else if ((sn7bzt6F0 != -747644224) || (x224s > 1666176543))
 int j = 3;
 do
 {
-cout << br4n4NPUL(1185400179) << v2tz << br4n4NPUL(x224s) << sVlxI(x224s, UM420by) << endl;
+cout << br4n4NPUL((short)1185400179) << v2tz << br4n4NPUL(x224s) << sVlxI(x224s, UM420by) << endl;
 j--;
 }
 while (j >= 0);
@@ -267,7 +267,7 @@ for (int j = 4; j >= 0; j--)
 {
 for (int k = 0; k < 8; ++k)
 {
-Q5e_R0 = br4n4NPUL(-402113309);
+Q5e_R0 = br4n4NPUL((short)-402113309);
 }
 }
 }
@@ -277,7 +277,7 @@ X365QXzc25 = br4n4NPUL(J3RR9zJ1_);
 }
 else
 {
-u9B2 = br4n4NPUL(440897769);
+u9B2 = br4n4NPUL((short)440897769);
 }
 if (Y6wFG == -1025648962)
 {
@@ -308,7 +308,7 @@ case 7:
 hu2YHs3V2K--;
 break;
 default:
-X365QXzc25 = br4n4NPUL(-1464644290);
+X365QXzc25 = br4n4NPUL((short)-1464644290);
 break;
 }
 }
@@ -341,7 +341,7 @@ v2tz = UM420by << kHWo8Ab_s;
 }
 else if ((KxzVBZIg != u9B2) && (v2tz <= 152323033))
 {
-x224s = (u9B2 == sn7bzt6F0) ? br4n4NPUL(yH1Y038VC) : 1467749685;
+x224s = (u9B2 == sn7bzt6F0) ? br4n4NPUL(yH1Y038VC) : (char)1467749685;
 }
 else if (X365QXzc25 == 428667362)
 {
@@ -411,7 +411,7 @@ while (j >= 0)
 --j;
 if ((Ks7M6aj < yoK1WlY) && (Q5e_R0 != x224s))
 {
-X365QXzc25 = br4n4NPUL(1611591100);
+X365QXzc25 = br4n4NPUL((short)1611591100);
 }
 }
 }
@@ -433,7 +433,7 @@ while (j >= 0)
 --j;
 try
 {
-UM420by = br4n4NPUL(1668249811);
+UM420by = br4n4NPUL((short)1668249811);
 }
 catch (int& errorCode)
 {
@@ -471,7 +471,7 @@ UM420by = br4n4NPUL(-1727647131);
 }
 else if (Ks7M6aj == KxzVBZIg)
 {
-u9B2 = br4n4NPUL(-805751423);
+u9B2 = br4n4NPUL((short)-805751423);
 }
 else if (SgOEz < -1820206960)
 {
@@ -558,7 +558,7 @@ else
 switch (jTfbYA6)
 {
 case 'a':
-u9B2 = br4n4NPUL(-1239411805);
+u9B2 = br4n4NPUL((short)-1239411805);
 break;
 case 'b':
 UM420by = br4n4NPUL((short)-1331753671);
@@ -592,7 +592,7 @@ yoK1WlY = (int)abs(zu7XqYS);
 break;
 case 'c':
 case 'C':
-u9B2 = br4n4NPUL(724877010);
+u9B2 = br4n4NPUL((short)724877010);
 break;
 case 'd':
 case 'D':
@@ -619,7 +619,7 @@ else
 {
 if (x224s < 1247152070)
 {
-Q5e_R0 = br4n4NPUL(-944699162);
+Q5e_R0 = br4n4NPUL((short)-944699162);
 }
 else if (sn7bzt6F0 != 78236277)
 {

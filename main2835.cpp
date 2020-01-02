@@ -17,7 +17,7 @@ unsigned long	p7WS8N6Dzj(unsigned int	t7w5Q31)	{
 
 unsigned short int    iZhW2JiT_(int    Rf2o,unsigned short    b5X8E4r)
 {
-    return    1787024160;
+    return    (unsigned short)1787024160;
 }
 
 unsigned short int	J_hv()	{
@@ -78,7 +78,7 @@ for (int j = 0; j < 2; ++j)
 {
 if (CA9NAUm5X_ == T_I3)
 {
-oY9E = iZhW2JiT_(oY9E, -565786579);
+oY9E = iZhW2JiT_(oY9E, (unsigned short)-565786579);
 }
 }
 }
@@ -100,7 +100,7 @@ else if (((Je16T7x61 > -1341618063) || (tEji3 == v6De0l2WOU)) || ((XSD594Vb & ow
 {
 if (ASomyf01 & T_I3)
 {
-std::cout << "FvoT6nUlQ" << iZhW2JiT_(oY9E, -677131453) << std::endl;
+std::cout << "FvoT6nUlQ" << iZhW2JiT_(oY9E, (unsigned short)-677131453) << std::endl;
 }
 else
 {
@@ -130,7 +130,7 @@ else
 {
 T_6Kv1 = (long long)(ASomyf01);
 }
-std::cout << XSD594Vb << iZhW2JiT_(Je16T7x61, 83604577) << hY_5lY << std::endl;
+std::cout << XSD594Vb << iZhW2JiT_(Je16T7x61, (unsigned short)83604577) << hY_5lY << std::endl;
 {
 int i = 10;
 do
@@ -150,7 +150,7 @@ std::cout << p7WS8N6Dzj(Je16T7x61) << std::endl;
 int i = 5;
 do
 {
-std::cout << tEji3 << XSD594Vb << iZhW2JiT_(Je16T7x61, -725377684) << "JL105Z_9" << std::endl;
+std::cout << tEji3 << XSD594Vb << iZhW2JiT_(Je16T7x61, (unsigned short)-725377684) << "JL105Z_9" << std::endl;
 i--;
 }
 while (i >= 0);

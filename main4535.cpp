@@ -24,7 +24,7 @@ unsigned short int jedeB();
 
 int main(int argc, char** argv)
 {
-	short int	a37_00R	=	-383496923;
+	short int	a37_00R	=	(short)-383496923;
 	unsigned short int	Ya4B	=	(unsigned short)273466600;
  char GzGWfi = 0;
   short int  Y_Nj35  =  0;
@@ -86,7 +86,7 @@ case 'd':
 a37_00R = Y_Nj35 >> Ya4B;
 break;
 case 'e':
-Ya4B = W2q0fnh5(-1158636134) / a37_00R;
+Ya4B = W2q0fnh5((short)-1158636134) / a37_00R;
 break;
 case 'f':
 Ya4B *= a37_00R;
@@ -163,7 +163,7 @@ else
 {
 if (GzGWfi >= a37_00R)
 {
-Ya4B = W2q0fnh5(878287930);
+Ya4B = W2q0fnh5((short)878287930);
 }
 }
 }
@@ -235,7 +235,7 @@ else if ((Y_Nj35 < Ya4B) && (a37_00R < 529203676))
 switch (GzGWfi)
 {
 case 'a':
-Ya4B = (GzGWfi & a37_00R) ? kv9op1aQo1(-2033607237, a37_00R) : 43207698;
+Ya4B = (GzGWfi & a37_00R) ? kv9op1aQo1(-2033607237, a37_00R) : (unsigned short)43207698;
 break;
 case 'b':
 Ya4B = GzGWfi * Ya4B;
@@ -259,7 +259,7 @@ Ya4B = jedeB() >> 1025010966;
 }
 else
 {
-a37_00R = W2q0fnh5(872215536);
+a37_00R = W2q0fnh5((short)872215536);
 }
 }
 while (j < 2);
@@ -347,7 +347,7 @@ do
 j++;
 try
 {
-a37_00R = W2q0fnh5(1292287354);
+a37_00R = W2q0fnh5((short)1292287354);
 }
 catch (int& errorCode)
 {
@@ -405,7 +405,7 @@ return 0;
 }
 
 unsigned short    H97uJ0M91x(long long    b7L49NZ474)    {
-    return    965959925;
+    return    (unsigned short)965959925;
 }
 
 short  W2q0fnh5(short  RNqdA6oWi)  {
@@ -423,6 +423,6 @@ long    iEBfh04C()
 }
 
 unsigned short int jedeB() {
- return -2052864382;
+ return (unsigned short)-2052864382;
 }
 

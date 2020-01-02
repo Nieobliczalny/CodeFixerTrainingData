@@ -75,7 +75,7 @@ else
 fS3m60 = (long)(TTb5li0);
 }
 
-Wf9DD = Se29d5(-804076394) * 732056063;
+Wf9DD = Se29d5((short)-804076394) * 732056063;
 if ((1223444984 / p6_38) == -406242692)
 {
 {
@@ -161,7 +161,7 @@ unsigned char  efc_BL12()
 }
 
 unsigned short int	Se29d5(short int	rca35H8)	{
-	return	-221796779;
+	return	(unsigned short)-221796779;
 }
 
 long long  rWT5jX4(int  F4AyJH2_,long  qFS9,int  roV8E1I8c)

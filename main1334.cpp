@@ -23,7 +23,7 @@ unsigned long long Nu6f14(long Z1jW9W7LI,char UkZNy16zZJ) {
 
 unsigned short    yA__()
 {
-    return    -1508135810;
+    return    (unsigned short)-1508135810;
 }
 
 int main(int argc, char** argv) {
@@ -36,7 +36,7 @@ fRWcYnH6p = (short int)(cI25_w);
 
 o0KD = (int)abs(L2Jj) + (-1046284401);
 
-ZU1Ur1ekck = Nu6f14(mSBn, -476537023);
+ZU1Ur1ekck = Nu6f14(mSBn, (char)-476537023);
 
 ZU1Ur1ekck = Nu6f14(-1478311488, B_6K3I9FDM);
 cout << zojLA << Nu6f14(545481072, B_6K3I9FDM) << Y7pxqh1 << KN9nsg << endl;
@@ -54,7 +54,7 @@ for (int j = 0; j < 8; ++j)
 switch (x23U3Yd5h)
 {
 case 'a':
-nh0LX_ = Nu6f14(-1601742927, 323655050);
+nh0LX_ = Nu6f14(-1601742927, (char)323655050);
 break;
 case 'b':
 YwEy = KvbL1ej8((char)474433698, 1172782314);
@@ -72,7 +72,7 @@ case 'f':
 WEot |= Q18l;
 break;
 case 'g':
-srW_JkmU8 = KvbL1ej8(-840447191, (char)-455638722);
+srW_JkmU8 = KvbL1ej8((char)-840447191, (char)-455638722);
 break;
 default:
 m9ZY9Tf_C = tBGI1L6 >> 2146280277;

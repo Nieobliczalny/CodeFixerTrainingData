@@ -20,7 +20,7 @@ long long	n0WuQ(unsigned long	rD7Y242iC);
 
 int main(int argc, char** argv) {
     float    LpvXK2C    =    1744626505;
-    unsigned short    gGWpJ    =    -255834673;
+    unsigned short    gGWpJ    =    (unsigned short)-255834673;
   short int  Y5X5  =  (short)1584218712;
   unsigned long  xP9k2CKB  =  1278008918;
   unsigned short int  HT1VY91f  =  -160498415;
@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
 	unsigned long long	rRwxAO3	=	-1465104887;
  int ax9g2jinv = -670974496;
  unsigned long MD311v = 2094526826;
-  char  gRSGX4Cj  =  1692979319;
+  char  gRSGX4Cj  =  (char)1692979319;
 	unsigned long	RQI6On	=	1232809196;
 	long	I6O0816	=	842531365;
  double V3p_i0I = -1784257897;
@@ -42,7 +42,7 @@ int main(int argc, char** argv) {
     char    B5Ks_    =    (char)803038589;
     long double    zy6xUy    =    -639674785;
     unsigned char    AP57Y9k    =    -540888720;
-  unsigned short  g0M_UT_91Z  =  1094110690;
+  unsigned short  g0M_UT_91Z  =  (unsigned short)1094110690;
     long long    Ams770    =    -623885371;
  double Dtl0 = -1338026302;
  short int oV5yQ1hd = -1177660052;
@@ -52,7 +52,7 @@ int main(int argc, char** argv) {
 	unsigned long long	aFVSyk	=	1032494917;
     int    I7s0FGI    =    387318284;
   long double  ccpbANJB  =  -246036654;
- char B_Jl6t7_ = 409889380;
+ char B_Jl6t7_ = (char)409889380;
     unsigned long long    BVqCDk6    =    1235485552;
  unsigned short int QRT84U3E70 = (unsigned short)76563038;
 	short	AWDB468	=	2014011183;
@@ -62,7 +62,7 @@ int main(int argc, char** argv) {
   long long  Goz7y17Nz  =  -930553895;
 	unsigned short int	w4h5v	=	2035061563;
  float Su9_Qftsg = 306082043;
-    short    c6Riky    =    119451971;
+    short    c6Riky    =    (short)119451971;
 	int	cjMPBk5V	=	-1332891505;
  short d21FNVD_6 = (short)2089081747;
   unsigned short int  RxE80  =  970269313;
@@ -166,7 +166,7 @@ unsigned char  LKI_R2d(unsigned long long  GPjEVX78,unsigned long  j9Rm65_9,long
 }
 
 char    y01E(unsigned long    O0qQFS8)    {
-    return    -1329278438;
+    return    (char)-1329278438;
 }
 
 long long	n0WuQ(unsigned long	rD7Y242iC)	{

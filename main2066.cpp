@@ -10,7 +10,7 @@
 
 short	JsUY(long	n15Q4B1r)
 {
-	return	-1619450866;
+	return	(short)-1619450866;
 }
 
 long long	Zk8nV()	{
@@ -146,7 +146,7 @@ switch (R5R4yhdd)
 {
 case 'a':
 case 'A':
-TR4K1 = rodP38vm(CrW3VHH, EMvNW_, ig2G_njk, 1908074754);
+TR4K1 = rodP38vm(CrW3VHH, EMvNW_, ig2G_njk, (short)1908074754);
 break;
 case 'b':
 case 'B':
@@ -206,7 +206,7 @@ while (k >= 0);
 }
 while (i < 5);
 }
-if ((Rr1p_3U21 / rodP38vm(-1557010764, frxE5, zvId, 1283221360)) > 1822948060)
+if ((Rr1p_3U21 / rodP38vm(-1557010764, frxE5, zvId, (short)1283221360)) > 1822948060)
 {
 PxT0RDi1H = XVtr / rodP38vm(-527768707, (unsigned char)-748584763, 1190725150, sj5Uf);
 }

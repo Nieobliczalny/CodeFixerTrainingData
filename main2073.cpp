@@ -47,7 +47,7 @@ do
 {
 try
 {
-a_81o_Q = (ZP6_8Xt5jB <= byuW) ? lpZ3d : -937892102;
+a_81o_Q = (ZP6_8Xt5jB <= byuW) ? lpZ3d : (unsigned char)-937892102;
 }
 catch (int& errorCode)
 {
@@ -381,7 +381,7 @@ if (cZ_u_GDN > b3A3BfUv)
 {
 if (D8nkInne < -1333027184)
 {
-ZHMd4ToPy = (bJ62X8KXA != -741433849) ? -1806112307 : R_HTs0NFh;
+ZHMd4ToPy = (bJ62X8KXA != -741433849) ? (unsigned char)-1806112307 : R_HTs0NFh;
 }
 else
 {
@@ -532,7 +532,7 @@ case 'D':
 R_1VG ^= ZI1N;
 break;
 default:
-lf5CPb = (B2dWJ == -1451934129) ? Hh7X_1q : 91897606;
+lf5CPb = (B2dWJ == -1451934129) ? Hh7X_1q : (unsigned char)91897606;
 break;
 }
 cout << XozKDi << "i_g9zD0a" << R_HTs0NFh << endl;

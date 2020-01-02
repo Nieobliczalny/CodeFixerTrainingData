@@ -41,7 +41,7 @@ break;
 }
 else
 {
-cout << vs8553(pq80BGG, -482837533, KoQ5cY6, -439181219) << "qJ19" << endl;
+cout << vs8553(pq80BGG, -482837533, KoQ5cY6, (unsigned short)-439181219) << "qJ19" << endl;
 }
 
 lCR3P3OKxO = (unsigned short)(LdvtOI6);
@@ -80,7 +80,7 @@ uk65tB9_EP = qPPm8zqPi | e_2b8A5_i_;
 while (j >= 0);
 }
 }
-cout << vs8553(pFH23Zvw, 300400925, -1361539149, iAT3skD) << "TA__vgw" << endl;
+cout << vs8553(pFH23Zvw, 300400925, (char)-1361539149, iAT3skD) << "TA__vgw" << endl;
 
 qPPm8zqPi = (unsigned short)(h8i6jGix4);
 
@@ -176,7 +176,7 @@ if (gCXF7s & 547904929)
 int k = 0;
 do
 {
-rE4Ya = (ohn3_x5GQu >= 1873479862) ? n6c2Pm(HF3C00MOh) : -1844384761;
+rE4Ya = (ohn3_x5GQu >= 1873479862) ? n6c2Pm(HF3C00MOh) : (unsigned short)-1844384761;
 ++k;
 }
 while (k < 5);
@@ -217,7 +217,7 @@ while (j >= 0)
 --j;
 if (Z9zj7iIq > 194766997)
 {
-PUk5 = vs8553(2045608735, mp41_u, 2069567643, yzIRa0lC);
+PUk5 = vs8553(2045608735, mp41_u, (char)2069567643, yzIRa0lC);
 }
 else if ((x9XoyCe15 >= MXz5) || ((Ez0wgWa <= bcefAQfhj) || (DVAs4SjwE == AELg)))
 {
@@ -272,7 +272,7 @@ qPPm8zqPi = UGK6boIQG1(qPPm8zqPi, s1hQ9N, DVAs4SjwE);
 break;
 case 'd':
 case 'D':
-iAT3skD = vs8553(-1119162056, t1Rz, loE_0OK2V, 1268812607);
+iAT3skD = vs8553(-1119162056, t1Rz, loE_0OK2V, (unsigned short)1268812607);
 break;
 case 'e':
 case 'E':
@@ -314,7 +314,7 @@ HF3C00MOh = UGK6boIQG1(F6bev, 1548527294, -787017146) & 1802192095;
 }
 else
 {
-loE_0OK2V = vs8553(F6bev, -1217981068, -1799361688, (unsigned short)1703104266) % p34Ez2;
+loE_0OK2V = vs8553(F6bev, -1217981068, (char)-1799361688, (unsigned short)1703104266) % p34Ez2;
 }
 }
 }
@@ -336,7 +336,7 @@ case 0:
 pFH23Zvw -= X77XS;
 break;
 default:
-na3V = hq6gqn(na3V, -1623105914, HF3C00MOh);
+na3V = hq6gqn(na3V, (unsigned short)-1623105914, HF3C00MOh);
 break;
 }
 
@@ -361,7 +361,7 @@ short vs8553(long S2jBDPakw,int jDOcAjZ1X5,char S2hN2z,unsigned short int fDMaG0
 }
 
 unsigned short	n6c2Pm(int	qM16i6tX)	{
-	return	980670094;
+	return	(unsigned short)980670094;
 }
 
 unsigned short	hq6gqn(unsigned short	mVs_dx88,unsigned short int	l22N9q1K,long long	klGF)	{

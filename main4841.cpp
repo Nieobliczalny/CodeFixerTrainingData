@@ -13,7 +13,7 @@ using std::ceil;
 using std::floor;
 
 short x2A9(short int HJniYA) {
- return -1092917555;
+ return (short)-1092917555;
 }
 
 unsigned long ByI09ZM41Y()
@@ -28,7 +28,7 @@ long long    dSL_6u24x(unsigned int    x0TEYk3Mo)
 
 int main() {
 	unsigned int	cNx6M7_X0T	=	15323632;
-	char	S__QfyCrI	=	-1376517418;
+	char	S__QfyCrI	=	(char)-1376517418;
 	float	E_wRxoses_	=	-1504232874;
   short int  XiT9  =  (short)1364461143;
  char SswV = -1480101548;
@@ -41,7 +41,7 @@ int main() {
   unsigned long long  WREo2  =  1168531868;
     unsigned short    VxMDnO40d    =    0;
 	unsigned short int	XPup5_7	=	0;
-	short	bHeQ	=	628495376;
+	short	bHeQ	=	(short)628495376;
     unsigned long    vwC5e3JsF    =    -613212455;
   unsigned char  dHLE9G  =  (unsigned char)1684390375;
  unsigned char T_g9c_sn = 992211204;
@@ -52,7 +52,7 @@ int main() {
  long EcYjl = -1574601375;
  float L0Sv5ywAi = -2079996864;
  long double mjmPD6rI = -298308772;
- unsigned short int ELF6YdShy = -1210950437;
+ unsigned short int ELF6YdShy = (unsigned short)-1210950437;
 	short int	C7_9s68	=	(short)1288932782;
   unsigned long  PB9Px  =  1996336994;
   unsigned short int  o3Y8x7808H  =  813583245;
@@ -62,7 +62,7 @@ int main() {
 	char	aabGa45A	=	-838093590;
 	unsigned short int	iLe7tcE0N6	=	-1636741490;
     char    XvH39uw    =    860991502;
-    short int    pnXSqs    =    903682226;
+    short int    pnXSqs    =    (short)903682226;
 
 C7_9s68 = (short int)(aabGa45A);
 L0Sv5ywAi = -1223719929 / bQTB;
@@ -89,7 +89,7 @@ else
 {
 try
 {
-vwC5e3JsF = x2A9(879154709);
+vwC5e3JsF = x2A9((short)879154709);
 }
 catch (int& errorCode)
 {

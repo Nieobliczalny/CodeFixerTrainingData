@@ -13,7 +13,7 @@ using std::ceil;
 using std::floor;
 
 short Nrdc(unsigned int RKySK126,unsigned short int NPgoj,short lFU8_,unsigned long N7Qf0kc,unsigned char vPKAlt14iO) {
- return 2002443648;
+ return (short)2002443648;
 }
 
 char Rk07l(unsigned char zcMUXM,unsigned long gA7C,unsigned long long j7BUpH9,long long c2MiA138QX,char Hpp6_)
@@ -32,7 +32,7 @@ int main(void) {
 
 lAM2Iq = N__iI / P6hV_uc(1604424447, OI24, 1647313042, -426981042);
 
-uVY04Ke0J8 = Nrdc(uVY04Ke0J8, 442758453, (short)1187028058, mU315PRkI, 1063845830);
+uVY04Ke0J8 = Nrdc(uVY04Ke0J8, (unsigned short)442758453, (short)1187028058, mU315PRkI, 1063845830);
 
 std::cout << "SXn8D" << P6hV_uc(689349625, hx458_d, -1868127137, mU315PRkI) << "mAp6Pa_" << ek_47 << std::endl;
 try
@@ -75,7 +75,7 @@ case 0:
 ek_47 *= sqTN58;
 break;
 case 1:
-sqTN58 = Rk07l(511468321, -1460899713, 965032816, T7n_0, fGBg);
+sqTN58 = Rk07l((unsigned char)511468321, -1460899713, 965032816, T7n_0, fGBg);
 break;
 case 2:
 kx__0 = (VSd2 != 1635759086) ? -1620755422 : Nrdc(1837322258, (unsigned short)-2001619693, h_ArD, 1825882940, fGBg);
@@ -87,7 +87,7 @@ case 4:
 WNKI = Nrdc(-316714500, -1849875486, 2042022285, LYWZU, 420701414);
 break;
 case 5:
-e85QJdR = Nrdc(1039073887, -1368172060, 744511423, fGBg, d9eGH9WNW);
+e85QJdR = Nrdc(1039073887, (unsigned short)-1368172060, 744511423, fGBg, d9eGH9WNW);
 break;
 }
 
@@ -97,7 +97,7 @@ R6TA7f8 = (int)ceil(ek_47);
 int i = 0;
 do
 {
-J8Q5Js27T = Nrdc(J8Q5Js27T, d9eGH9WNW, e85QJdR, kx__0, 667794041);
+J8Q5Js27T = Nrdc(J8Q5Js27T, d9eGH9WNW, e85QJdR, kx__0, (unsigned char)667794041);
 i++;
 }
 while (i < 6);
@@ -157,7 +157,7 @@ case 'd':
 sqTN58 -= mU315PRkI;
 break;
 case 'e':
-Vd06ts9mp = Nrdc(Vd06ts9mp, 904413358, fGBg, uVY04Ke0J8, ek_47);
+Vd06ts9mp = Nrdc(Vd06ts9mp, (unsigned short)904413358, fGBg, uVY04Ke0J8, ek_47);
 break;
 case 'f':
 N__iI = (int)abs(X89QymUg3);
@@ -183,7 +183,7 @@ std::cout << isbh0 << "y2w0gfFKu" << "Iq6A_B2" << std::endl;
 }
 else if (isbh0)
 {
-std::cout << P6hV_uc(OI24, -333447465, -437175539, -1584974277) << RbWXPs << Nrdc(OI24, (unsigned short)-1028098256, aSp1, 1144328818, xyc37x0is9) << Vd06ts9mp << std::endl;
+std::cout << P6hV_uc(OI24, (unsigned short)-333447465, -437175539, -1584974277) << RbWXPs << Nrdc(OI24, (unsigned short)-1028098256, aSp1, 1144328818, xyc37x0is9) << Vd06ts9mp << std::endl;
 }
 else if (((aSp1 < 1633201587) && (lAM2Iq > 1203056977)) && (lAM2Iq > LYWZU))
 {

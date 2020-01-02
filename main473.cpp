@@ -82,7 +82,7 @@ j8Kf = pZ8C9rbX();
 }
 else if (LaDZd2ZY4 == 1294279858)
 {
-WE2bnMr = CR1A(D79k2kJdkO, 741717406, MqaQ_6, 1399132934);
+WE2bnMr = CR1A(D79k2kJdkO, 741717406, MqaQ_6, (unsigned char)1399132934);
 }
 else
 {
@@ -128,7 +128,7 @@ case 'g':
 TSz4 = LX0ln - 569672151;
 break;
 }
-if ((1681299841 / CR1A(1541861107, 740711490, wBky6r, (unsigned char)-735835559)) >= -1131767113)
+if ((1681299841 / CR1A((unsigned char)1541861107, 740711490, wBky6r, (unsigned char)-735835559)) >= -1131767113)
 {
 s7l67w = CR1A(kVd6OG6JF, qdP_16, wBky6r, 702669953) / CR1A(kVd6OG6JF, -2145088713, 649903900, C_5u39a19_);
 }
@@ -143,7 +143,7 @@ case 0:
 g1nJ5DFwn = z3D_8J - p5_xb;
 break;
 case 1:
-WE2bnMr = CR1A(-1239389814, 1794979648, bR_1DmrzQy, svg7G631);
+WE2bnMr = CR1A((unsigned char)-1239389814, 1794979648, bR_1DmrzQy, svg7G631);
 break;
 case 2:
 KQ5fN = pZ8C9rbX();
@@ -201,7 +201,7 @@ int j = 10;
 while (j >= 0)
 {
 --j;
-std::cout << pZ8C9rbX() << CR1A(z3D_8J, H__SYHiN, ZCibY, 795082294) << std::endl;
+std::cout << pZ8C9rbX() << CR1A(z3D_8J, H__SYHiN, ZCibY, (unsigned char)795082294) << std::endl;
 }
 }
 }

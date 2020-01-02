@@ -13,7 +13,7 @@ using std::ceil;
 using std::floor;
 
 int main(void) {
-  unsigned short  KP660Zw  =  2005326303;
+  unsigned short  KP660Zw  =  (unsigned short)2005326303;
  unsigned long ozto9 = 1512503960;
  short zq5Q1z = (short)1035667436;
 	long long	AYP3L	=	0;
@@ -26,7 +26,7 @@ int main(void) {
   unsigned long  haVFg  =  -1242621967;
     long long    npEQ    =    -391439335;
     unsigned long    Si94S6C57k    =    1531178531;
-    short    fP68P    =    892503129;
+    short    fP68P    =    (short)892503129;
  float a6AN = -2133282388;
     long double    owfUYRnmI7    =    359633217;
  unsigned short GLy0q9GiAb = (unsigned short)-692491192;
@@ -65,7 +65,7 @@ zq5Q1z <<= 428031053;
 }
 else if (AYP3L & 451685862)
 {
-fP68P = (npEQ < 65106334) ? 856855919 : (short)-564053231;
+fP68P = (npEQ < 65106334) ? (short)856855919 : (short)-564053231;
 }
 else if (DOUtkdR < GLy0q9GiAb)
 {
@@ -114,7 +114,7 @@ case 0:
 fP68P = wjVH895CJQ << g8_5H;
 break;
 case 1:
-KP660Zw = (fP68P) ? -787697772 : lCyFGDN5F;
+KP660Zw = (fP68P) ? (unsigned short)-787697772 : lCyFGDN5F;
 break;
 }
 }
@@ -343,7 +343,7 @@ case 1:
 owfUYRnmI7 = (int)floor(a6AN);
 break;
 case 2:
-vq3K2Yv1Aq = (lCyFGDN5F == wjVH895CJQ) ? DOUtkdR : 428625606;
+vq3K2Yv1Aq = (lCyFGDN5F == wjVH895CJQ) ? DOUtkdR : (char)428625606;
 break;
 case 3:
 a6AN = (int)floor(owfUYRnmI7);

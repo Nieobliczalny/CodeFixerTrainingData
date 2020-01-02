@@ -21,7 +21,7 @@ unsigned short  CztfeuY_3(unsigned int  fD3Kzx,unsigned long long  Q03H20jj1,lon
 
 int main() {
     unsigned char    S2brN,    Zg_3,    sD6Rr;
-    S2brN    =    -94010249;
+    S2brN    =    (unsigned char)-94010249;
     Zg_3    =    (unsigned char)-1411309688;
     sD6Rr    =    -1915645346;
 	long	JDr2VAXu,	M5nD_z2,	HPq9Rl;
@@ -42,7 +42,7 @@ case 2:
 sD6Rr = JDr2VAXu / 307136894;
 break;
 case 3:
-sD6Rr = CztfeuY_3(sD6Rr, -956031750, M5nD_z2, 396596575);
+sD6Rr = CztfeuY_3(sD6Rr, -956031750, M5nD_z2, (short)396596575);
 break;
 case 4:
 S2brN = sD6Rr + 521123046;
@@ -80,7 +80,7 @@ if (S2brN <= -285869526)
 {
 try
 {
-sD6Rr = PD1y717(sD6Rr, 694172423, M5nD_z2);
+sD6Rr = PD1y717(sD6Rr, (unsigned short)694172423, M5nD_z2);
 }
 catch (int& errorCode)
 {
@@ -107,7 +107,7 @@ S2brN = CztfeuY_3(1936977939, S2brN, 1199018085, HPq9Rl);
 }
 else if (JDr2VAXu > -880586573)
 {
-std::cout << "OO_gqU0m" << PD1y717(M5nD_z2, -756321140, Zg_3) << std::endl;
+std::cout << "OO_gqU0m" << PD1y717(M5nD_z2, (unsigned short)-756321140, Zg_3) << std::endl;
 }
 else if (S2brN)
 {
@@ -152,7 +152,7 @@ sD6Rr = R3E0Hs & Zg_3;
 Zg_3 = (unsigned char)(R3E0Hs + (W636VMVM));
 
 Zg_3 = A3a_434b(1191804034, 1535124011);
-std::cout << O6Es71u(Zg_3) << PD1y717(822280732, 90454787, sD6Rr) << "x_UOIw9_" << S2brN << PD1y717(Zg_3, M5nD_z2, -1178777190) << std::endl;
+std::cout << O6Es71u(Zg_3) << PD1y717(822280732, (unsigned short)90454787, sD6Rr) << "x_UOIw9_" << S2brN << PD1y717(Zg_3, M5nD_z2, -1178777190) << std::endl;
 
 if (M5nD_z2 < HPq9Rl)
 {
@@ -271,7 +271,7 @@ for (int i = 0; i < 10; i++)
 switch (Zg_3)
 {
 case 'a':
-JDr2VAXu = NSaSnz9(1214650488, sD6Rr, -1608996671, 307463039);
+JDr2VAXu = NSaSnz9(1214650488, sD6Rr, -1608996671, (unsigned short)307463039);
 break;
 default:
 sD6Rr /= 1765899113;
@@ -343,7 +343,7 @@ else if (HPq9Rl > JDr2VAXu)
 switch (Zg_3)
 {
 case 0:
-HPq9Rl = NSaSnz9(-304902427, 1623676482, 1549942405, (unsigned short)-2064095908);
+HPq9Rl = NSaSnz9(-304902427, (short)1623676482, 1549942405, (unsigned short)-2064095908);
 break;
 case 1:
 sD6Rr = JDr2VAXu & Zg_3;
@@ -358,7 +358,7 @@ case 4:
 S2brN = Zg_3 + sD6Rr;
 break;
 case 5:
-S2brN = CztfeuY_3(JDr2VAXu, HPq9Rl, M5nD_z2, 1854140528);
+S2brN = CztfeuY_3(JDr2VAXu, HPq9Rl, M5nD_z2, (short)1854140528);
 break;
 case 6:
 Zg_3 = O6Es71u(HPq9Rl);
@@ -384,7 +384,7 @@ case 0:
 S2brN = S2brN % 2004258704;
 break;
 case 1:
-JDr2VAXu = NSaSnz9(sD6Rr, -984773122, 1971660158, S2brN);
+JDr2VAXu = NSaSnz9(sD6Rr, (short)-984773122, 1971660158, S2brN);
 break;
 case 2:
 Zg_3 = A3a_434b(Zg_3, M5nD_z2);
@@ -450,7 +450,7 @@ if (Zg_3)
 switch (JDr2VAXu)
 {
 case 0:
-sD6Rr = CztfeuY_3(2025059994, 577670606, 1498475172, -626704902);
+sD6Rr = CztfeuY_3(2025059994, 577670606, 1498475172, (short)-626704902);
 break;
 case 1:
 S2brN = PD1y717(-1753640749, (unsigned short)-1117586702, -2030142601);
@@ -465,7 +465,7 @@ case 4:
 sD6Rr = NSaSnz9(853604334, M5nD_z2, S2brN, Zg_3) << 1460710746;
 break;
 case 5:
-Zg_3 = CztfeuY_3(-1000683608, JDr2VAXu, Zg_3, 1095253517);
+Zg_3 = CztfeuY_3(-1000683608, JDr2VAXu, Zg_3, (short)1095253517);
 break;
 case 6:
 sD6Rr *= sD6Rr;
@@ -480,7 +480,7 @@ break;
 }
 else if (sD6Rr >= -2111709962)
 {
-M5nD_z2 = NSaSnz9(sD6Rr, 1099398804, -1208095524, M5nD_z2);
+M5nD_z2 = NSaSnz9(sD6Rr, (short)1099398804, -1208095524, M5nD_z2);
 }
 else if (JDr2VAXu == S2brN)
 {
@@ -498,7 +498,7 @@ S2brN = HPq9Rl + 361026288;
 }
 else if (Zg_3 >= M5nD_z2)
 {
-Zg_3 = PD1y717(1875754347, 1331435963, sD6Rr);
+Zg_3 = PD1y717(1875754347, (unsigned short)1331435963, sD6Rr);
 }
 else
 {
@@ -676,7 +676,7 @@ case 'd':
 Zg_3--;
 break;
 case 'e':
-Zg_3 = CztfeuY_3(HPq9Rl, JDr2VAXu, Zg_3, 1898818407);
+Zg_3 = CztfeuY_3(HPq9Rl, JDr2VAXu, Zg_3, (short)1898818407);
 break;
 case 'f':
 HPq9Rl = (int)abs(JDr2VAXu);
@@ -697,7 +697,7 @@ if (HPq9Rl == 0)
 	S2brN = S2brN / HPq9Rl;
 }
 M5nD_z2 = (long)(W636VMVM * (R3E0Hs));
-Zg_3 = PD1y717(Zg_3, 2007852937, S2brN);
+Zg_3 = PD1y717(Zg_3, (unsigned short)2007852937, S2brN);
 try
 {
 S2brN++;
@@ -716,7 +716,7 @@ unsigned short int    NSaSnz9(unsigned long long    ZxIJ9pl2E,short    kV649M_7,
 
 short	A3a_434b(long long	kZO52,unsigned long long	aH5aOh4)
 {
-	return	1956109410;
+	return	(short)1956109410;
 }
 
 unsigned char	PD1y717(int	p5O57V,unsigned short	HKVxPLY,unsigned int	f0ez)	{
@@ -729,6 +729,6 @@ unsigned short	O6Es71u(unsigned long	x_53p9ICz)	{
 
 unsigned short  CztfeuY_3(unsigned int  fD3Kzx,unsigned long long  Q03H20jj1,long  hmt1i9Z1q,short int  U13G)
 {
-  return  1592728607;
+  return  (unsigned short)1592728607;
 }
 

@@ -14,7 +14,7 @@
 
 unsigned short int Wv091(short l7P5oC_oO,short c5A88We,long OXo4X)
 {
- return -2023919331;
+ return (unsigned short)-2023919331;
 }
 
 long  x31E360(unsigned short  qhVgwRQ,unsigned long  F14J471Q_)
@@ -28,7 +28,7 @@ unsigned char K0_Qg() {
 
 unsigned short int    w474C7(short    cuWBTCmy_)
 {
-    return    741136944;
+    return    (unsigned short)741136944;
 }
 
 int main(void)
@@ -38,7 +38,7 @@ int main(void)
 	int	w7qq93s1	=	0;
  char K3RlL3LO = 1401740161;
 	char	T626	=	314232625;
-	unsigned short	TNAWH	=	-229760763;
+	unsigned short	TNAWH	=	(unsigned short)-229760763;
 	unsigned long long	W9dN1	=	1378585337;
     double    q88Bf1X3rz    =    400971164;
     int    wPg29zO    =    -1526294508;
@@ -79,7 +79,7 @@ ygQoIjh4 = K0_Qg();
 }
 else if (E19cZ7_zS6 & DkhmUi)
 {
-w7qq93s1 = x31E360(1246645963, w7qq93s1);
+w7qq93s1 = x31E360((unsigned short)1246645963, w7qq93s1);
 }
 else if (wPg29zO >= O3H1g_4D)
 {
@@ -119,7 +119,7 @@ K3RlL3LO = E19cZ7_zS6 - W9dN1;
 }
 else
 {
-ctZLRE = Wv091(ctZLRE, -1063736088, -1418458992);
+ctZLRE = Wv091(ctZLRE, (short)-1063736088, -1418458992);
 }
 }
 }
@@ -143,7 +143,7 @@ wPg29zO = (int)abs(E19cZ7_zS6);
 }
 else if (w7qq93s1 == 1819631972)
 {
-std::cout << Wv091(ctZLRE, -89466853, w7qq93s1) << std::endl;
+std::cout << Wv091(ctZLRE, (short)-89466853, w7qq93s1) << std::endl;
 }
 else
 {
@@ -154,7 +154,7 @@ do
 --j;
 if (M0h8S5 > -979414566)
 {
-TNAWH = (W9dN1 > w7qq93s1) ? 1917692143 : O3H1g_4D;
+TNAWH = (W9dN1 > w7qq93s1) ? (unsigned short)1917692143 : O3H1g_4D;
 }
 else if (((wPg29zO >= 1855576120) && (K3RlL3LO)) && ((W9dN1 != O3H1g_4D) || (T626 & E19cZ7_zS6)))
 {
@@ -234,7 +234,7 @@ case 'a':
 T626 = K0_Qg();
 break;
 case 'b':
-W9dN1 = Wv091(1383487494, (short)-1724957060, kZ80);
+W9dN1 = Wv091((short)1383487494, (short)-1724957060, kZ80);
 break;
 case 'c':
 q88Bf1X3rz = kZ80 ^ PR4aB1fd;
@@ -251,7 +251,7 @@ break;
 }
 if (((K3RlL3LO) && (aE9iEHhU0A < vJ8qp1wz)) && (E19cZ7_zS6 > ygQoIjh4))
 {
-K3RlL3LO = w474C7(-659033609);
+K3RlL3LO = w474C7((short)-659033609);
 }
 else
 {
@@ -264,7 +264,7 @@ case 0:
 ctZLRE = (int)floor(q88Bf1X3rz);
 break;
 case 1:
-w7qq93s1 = x31E360(-247751145, aE9iEHhU0A);
+w7qq93s1 = x31E360((unsigned short)-247751145, aE9iEHhU0A);
 break;
 case 2:
 W9dN1 %= K3RlL3LO;

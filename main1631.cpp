@@ -229,7 +229,7 @@ if (ONK2rlRqu)
 switch (A9_jIs4z)
 {
 case 0:
-RKJT2_ = veiNH_1G(521740876);
+RKJT2_ = veiNH_1G((short)521740876);
 break;
 case 1:
 u24Clp39 = veiNH_1G((short)1970311896);
@@ -263,7 +263,7 @@ switch (KNckK)
 {
 case 'a':
 case 'A':
-OFw_M8q9_E = (PaqyH > Op3dgGmA) ? -385927166 : (char)-2132736548;
+OFw_M8q9_E = (PaqyH > Op3dgGmA) ? (char)-385927166 : (char)-2132736548;
 break;
 case 'b':
 case 'B':
@@ -279,7 +279,7 @@ pA8pj7Ba7 = (int)abs(RKJT2_);
 break;
 case 'e':
 case 'E':
-A9_jIs4z = veiNH_1G(-858919788);
+A9_jIs4z = veiNH_1G((short)-858919788);
 break;
 case 'f':
 case 'F':
@@ -581,7 +581,7 @@ case 0:
 n_Tf5cZ = MgQr | u24Clp39;
 break;
 case 1:
-pA8pj7Ba7 = veiNH_1G(1273035896);
+pA8pj7Ba7 = veiNH_1G((short)1273035896);
 break;
 case 2:
 MgQr = (int)abs(S4cEwX9rP);
@@ -690,7 +690,7 @@ unsigned long  veiNH_1G(short int  v8JIc)
 
 unsigned char	TXcRfGUh5F(int	G6r5_X8v)
 {
-	return	1567397287;
+	return	(unsigned char)1567397287;
 }
 
 unsigned char	He4b0()

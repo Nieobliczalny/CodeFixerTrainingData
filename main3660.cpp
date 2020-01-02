@@ -28,7 +28,7 @@ int main(void)
 
 for (int i = 6; i >= 0; i--)
 {
-XD3MRS_S2 = YnvT6bL(-223332757);
+XD3MRS_S2 = YnvT6bL((unsigned char)-223332757);
 }
 
 std::cout << t17Qhq_(1320911730, -1090791072, 1210726022) << std::endl;
@@ -72,7 +72,7 @@ N819p1 = (int)ceil(p1MWo8);
 break;
 case 'e':
 case 'E':
-XD3MRS_S2 = YnvT6bL(2030896301);
+XD3MRS_S2 = YnvT6bL((unsigned char)2030896301);
 break;
 case 'f':
 case 'F':

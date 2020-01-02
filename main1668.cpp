@@ -13,7 +13,7 @@ using namespace std;
 int main(int argc, char** argv)
 {
  short int H6Pq;
- H6Pq = -1852868599;
+ H6Pq = (short)-1852868599;
     unsigned long    AbGs_hLT6;
     AbGs_hLT6    =    -280866385;
     long    IM7ZN6;
@@ -23,7 +23,7 @@ int main(int argc, char** argv)
  unsigned int v9p046_85L;
  v9p046_85L = 1843875035;
 	unsigned short	Keng8994;
-	Keng8994	=	826830585;
+	Keng8994	=	(unsigned short)826830585;
 	unsigned short	R__1c;
 	R__1c	=	(unsigned short)965914538;
 	long long	MsoY28HgY6;
@@ -33,7 +33,7 @@ int main(int argc, char** argv)
 	unsigned char	z9pcGH1;
 	z9pcGH1	=	-1172398223;
  unsigned char L_Q7tt3;
- L_Q7tt3 = -776080145;
+ L_Q7tt3 = (unsigned char)-776080145;
 	short	f2i9KPj2;
 	f2i9KPj2	=	(short)158142777;
  unsigned short int c4_9K_l6J;
@@ -177,7 +177,7 @@ try
 {
 if (c4_9K_l6J == z9pcGH1)
 {
-Keng8994 = (IM7ZN6 >= f2i9KPj2) ? 1848547901 : (unsigned short)-356228257;
+Keng8994 = (IM7ZN6 >= f2i9KPj2) ? (unsigned short)1848547901 : (unsigned short)-356228257;
 }
 else
 {

@@ -12,7 +12,7 @@ using namespace std;
 
 int main() {
 	long	cAGHfE	=	-753570830;
-  short  M5n9764dHr  =  -455547406;
+  short  M5n9764dHr  =  (short)-455547406;
     short int    am3tkE4    =    (short)-392766172;
  unsigned short U3Xw = -558570030;
     unsigned short    hCc5N83xVX    =    1219934915;
@@ -22,7 +22,7 @@ int main() {
 	char	ZOmpN	=	-986756496;
   char  t_R0  =  -598323776;
   unsigned int  QWsm  =  -713278412;
-  unsigned short  OIuRS2  =  1826530036;
+  unsigned short  OIuRS2  =  (unsigned short)1826530036;
   long long  lif9TM  =  646375437;
   long long  M7w6vUYa19  =  0;
     unsigned short    P4c86    =    (unsigned short)137854871;
@@ -32,7 +32,7 @@ int main() {
     unsigned int    VMHQ49Op32    =    1093233459;
     char    B9J7M_    =    -486037526;
 	long long	s6mA8ikm	=	-1902834159;
-  unsigned short int  h4Nt  =  -1115614308;
+  unsigned short int  h4Nt  =  (unsigned short)-1115614308;
   unsigned short int  ner1nQoQzX  =  1073890155;
   unsigned short  QaT4va39Tv  =  -1285013684;
   unsigned short int  PX85iVH  =  (unsigned short)-1689107500;
@@ -43,7 +43,7 @@ int main() {
  char C17v = 1606898048;
 	unsigned long long	v1sXAlxuHl	=	2131441119;
 	float	Q1__48TI	=	-276110852;
-  short int  p76a4L7_  =  161676692;
+  short int  p76a4L7_  =  (short)161676692;
   short  uTZNClJTmb  =  -1821573264;
     unsigned int    dIM4    =    28926071;
  unsigned char RcF6QeGj = (unsigned char)803355941;
@@ -54,7 +54,7 @@ int main() {
 	int	eb3g5m8N	=	381974194;
 	short int	czVg12Y	=	1685126909;
  unsigned long X6EVX4 = -1117810669;
-    char    I52r0e6ug    =    193220386;
+    char    I52r0e6ug    =    (char)193220386;
  float yA96ug_ = 172940467;
     double    fJGYcU    =    794276114;
     unsigned long long    vgL6AU    =    -190047569;

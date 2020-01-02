@@ -75,7 +75,7 @@ case 0:
 IXGgQIGX4K <<= gRDj7rGX;
 break;
 case 1:
-kZL3b = QlHRPbD_KA(-509463025);
+kZL3b = QlHRPbD_KA((short)-509463025);
 break;
 case 2:
 kZL3b = QlHRPbD_KA(BqQ7_GE);
@@ -106,7 +106,7 @@ else
 {
 if ((Z3jI == 612789664) || (Es98x2 <= do1yotH15U))
 {
-std::cout << QlHRPbD_KA(1677058794) << std::endl;
+std::cout << QlHRPbD_KA((short)1677058794) << std::endl;
 }
 else if (dLdfNbSN3 >= AT3K9_g_b)
 {
@@ -148,7 +148,7 @@ J22q += 1039781648;
 }
 else if (Wb1_)
 {
-kZL3b = QlHRPbD_KA(-350386133);
+kZL3b = QlHRPbD_KA((short)-350386133);
 }
 else if (((kZL3b == -1492435764) && (mPy0_H9 <= KD3TOP)) || ((vxy5 < 1878563621) || (S4TA8 < nebxG_G)))
 {
@@ -199,7 +199,7 @@ case 1:
 J22q |= 876530095;
 break;
 case 2:
-kZL3b = QlHRPbD_KA(313767594);
+kZL3b = QlHRPbD_KA((short)313767594);
 break;
 }
 {
@@ -219,7 +219,7 @@ k1hE >>= 1693897180;
 }
 else if (((AT3K9_g_b & J22q) || (dLdfNbSN3 == -1864378673)) && (io_P2051Fr & Xy9w7pb))
 {
-kZL3b = QlHRPbD_KA(-1697954701);
+kZL3b = QlHRPbD_KA((short)-1697954701);
 }
 else if ((dLdfNbSN3) && (C7oN_j <= 236119125))
 {
@@ -240,7 +240,7 @@ switch (TOat)
 {
 case 'a':
 case 'A':
-kZL3b = QlHRPbD_KA(-2094378087);
+kZL3b = QlHRPbD_KA((short)-2094378087);
 break;
 case 'b':
 case 'B':
@@ -260,7 +260,7 @@ Wb1_ = QlHRPbD_KA(kBX3_QXQRK) << J22q;
 break;
 case 'f':
 case 'F':
-kZL3b = QlHRPbD_KA(-163836089);
+kZL3b = QlHRPbD_KA((short)-163836089);
 break;
 case 'g':
 case 'G':
@@ -281,7 +281,7 @@ if (S4TA8 == nebxG_G)
 {
 for (int k = 5; k >= 0; k--)
 {
-kZL3b = QlHRPbD_KA(-806780331);
+kZL3b = QlHRPbD_KA((short)-806780331);
 }
 }
 }
@@ -303,7 +303,7 @@ kZL3b = QlHRPbD_KA(G94W9Gh0);
 }
 else
 {
-kZL3b = QlHRPbD_KA(-657640267);
+kZL3b = QlHRPbD_KA((short)-657640267);
 }
 }
 }
@@ -382,7 +382,7 @@ else
 {
 if (sM103ngoo)
 {
-kZL3b = QlHRPbD_KA(-1182911820);
+kZL3b = QlHRPbD_KA((short)-1182911820);
 }
 else
 {
@@ -403,7 +403,7 @@ std::cout << "OVu365MCb" << i0Qg6_45cz << std::endl;
 }
 }
 
-std::cout << QlHRPbD_KA(C0TS2_0) << QlHRPbD_KA(-226259718) << QlHRPbD_KA(C0TS2_0) << "HwP9C3_p" << std::endl;
+std::cout << QlHRPbD_KA(C0TS2_0) << QlHRPbD_KA((short)-226259718) << QlHRPbD_KA(C0TS2_0) << "HwP9C3_p" << std::endl;
 
 if ((-1609502391 / QlHRPbD_KA(C0TS2_0)) != -1053849607)
 {
@@ -414,7 +414,7 @@ if (G94W9Gh0)
 {
 if ((G94W9Gh0 >= KD3TOP) || (C7oN_j <= b9R_Y))
 {
-std::cout << QlHRPbD_KA(-628873271) << p1R9Mn << "J33XccrPH" << S0R0VL << QlHRPbD_KA((short)-1065993727) << std::endl;
+std::cout << QlHRPbD_KA((short)-628873271) << p1R9Mn << "J33XccrPH" << S0R0VL << QlHRPbD_KA((short)-1065993727) << std::endl;
 }
 }
 else
@@ -426,7 +426,7 @@ do
 ++j;
 if (kZL3b >= 302800724)
 {
-kZL3b = QlHRPbD_KA(-1562203802);
+kZL3b = QlHRPbD_KA((short)-1562203802);
 }
 else
 {
@@ -436,7 +436,7 @@ kZL3b = QlHRPbD_KA(gRDj7rGX);
 while (j < 2);
 }
 }
-std::cout << QlHRPbD_KA(367693551) << "Sn_rJg6" << std::endl;
+std::cout << QlHRPbD_KA((short)367693551) << "Sn_rJg6" << std::endl;
 
 if ((p1R9Mn == KD3TOP) && (vxy5 == b78mI))
 {
@@ -469,7 +469,7 @@ try
 {
 if ((J7UVv4_0r7 & C0TS2_0) && (VsjI6 & KD3TOP))
 {
-kZL3b = QlHRPbD_KA(-910596644);
+kZL3b = QlHRPbD_KA((short)-910596644);
 }
 else
 {
@@ -513,7 +513,7 @@ int k = 0;
 do
 {
 ++k;
-kZL3b = QlHRPbD_KA(1615881507);
+kZL3b = QlHRPbD_KA((short)1615881507);
 }
 while (k < 10);
 }
@@ -564,7 +564,7 @@ else if (sM103ngoo == CQkj7)
 switch (eaivo117p5)
 {
 case 0:
-kZL3b = QlHRPbD_KA(-722844062);
+kZL3b = QlHRPbD_KA((short)-722844062);
 break;
 case 1:
 kZL3b = QlHRPbD_KA((short)-2084091699);
@@ -582,7 +582,7 @@ case 5:
 r_Cq081k9 /= vxy5;
 break;
 case 6:
-kZL3b = QlHRPbD_KA(-1389269304);
+kZL3b = QlHRPbD_KA((short)-1389269304);
 break;
 case 7:
 kZL3b = QlHRPbD_KA(Es98x2);
@@ -707,7 +707,7 @@ kZL3b = QlHRPbD_KA(1188566656);
 }
 else
 {
-kZL3b = QlHRPbD_KA(1170291017);
+kZL3b = QlHRPbD_KA((short)1170291017);
 }
 }
 
@@ -732,7 +732,7 @@ case 2:
 kZL3b = QlHRPbD_KA(IXGgQIGX4K);
 break;
 case 3:
-kZL3b = QlHRPbD_KA(479631430);
+kZL3b = QlHRPbD_KA((short)479631430);
 break;
 case 4:
 kZL3b = QlHRPbD_KA((short)-1150600013);
@@ -759,7 +759,7 @@ om5kK = (char)(gRDj7rGX);
 }
 for (int i = 0; i < 6; i++)
 {
-kZL3b = QlHRPbD_KA(-946850592);
+kZL3b = QlHRPbD_KA((short)-946850592);
 }
 {
 int i = 0;

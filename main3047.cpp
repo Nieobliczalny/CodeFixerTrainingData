@@ -46,7 +46,7 @@ if (((HpB7 == rLSF) || (VqlX70d)) || (cRU666Lo9 >= K9jov9e665))
 {
 if ((pZs4_cU != 680862496) || (Q0HXilwh6Y & QG_3O_I))
 {
-VqlX70d = lXu4G(233943384, -1070650631);
+VqlX70d = lXu4G((short)233943384, -1070650631);
 }
 else if (m6Xvx_v >= 1078771373)
 {
@@ -91,7 +91,7 @@ else
 int k = 4;
 while (k >= 0)
 {
-cRU666Lo9 = lXu4G(-1098383761, ACf3PUP);
+cRU666Lo9 = lXu4G((short)-1098383761, ACf3PUP);
 --k;
 }
 }
@@ -121,7 +121,7 @@ int i = 7;
 do
 {
 --i;
-std::cout << lXu4G(499321517, -671515256) << oHX71S2Hj << "zbj1U" << zDcvRTpp << std::endl;
+std::cout << lXu4G((short)499321517, -671515256) << oHX71S2Hj << "zbj1U" << zDcvRTpp << std::endl;
 }
 while (i >= 0);
 }
@@ -216,7 +216,7 @@ case 3:
 XppaO_ = h0pHQzO / w_D24YOf;
 break;
 case 4:
-VqlX70d = lXu4G(1223911114, -1492771128);
+VqlX70d = lXu4G((short)1223911114, -1492771128);
 break;
 case 5:
 K9jov9e665 |= u6FH71_;
@@ -258,7 +258,7 @@ m6Xvx_v = (VqlX70d <= Hmx9t7u8xN) ? HpB7 : WfVTG;
 }
 else
 {
-cRU666Lo9 = lXu4G(-110593304, u4a9T555BB);
+cRU666Lo9 = lXu4G((short)-110593304, u4a9T555BB);
 }
 }
 else
@@ -327,7 +327,7 @@ WfVTG = (int)abs(u6FH71_);
 }
 else if ((pZs4_cU) && ((zDcvRTpp < Qu2IEX7) || (oHX71S2Hj & cz6YyB)))
 {
-std::cout << lXu4G(-696422067, xoCAeJHF6) << std::endl;
+std::cout << lXu4G((short)-696422067, xoCAeJHF6) << std::endl;
 }
 else if ((coQp1If & 729611421) && (HpB7))
 {
@@ -350,7 +350,7 @@ for (int j = 0; j < 4; j++)
 {
 if (Qu2IEX7 & QG_3O_I)
 {
-G33p = (u4a9T555BB < xoCAeJHF6) ? rLSF : 778015987;
+G33p = (u4a9T555BB < xoCAeJHF6) ? rLSF : (char)778015987;
 }
 else
 {
@@ -400,7 +400,7 @@ if (cz6YyB & Hmx9t7u8xN)
 {
 try
 {
-VqlX70d = lXu4G(771546888, coQp1If);
+VqlX70d = lXu4G((short)771546888, coQp1If);
 }
 catch (int& errorCode)
 {
@@ -430,7 +430,7 @@ std::cout << u4a9T555BB << lXu4G(zDcvRTpp, 285731153) << std::endl;
 }
 }
 }
-GKn21mH = 1953089305 / lXu4G(-763113104, w1RE6ztr);
+GKn21mH = 1953089305 / lXu4G((short)-763113104, w1RE6ztr);
 switch (WfVTG)
 {
 case 0:
@@ -449,7 +449,7 @@ break;
 
 if (((w1RE6ztr > hAEku) && (GKn21mH > WfVTG)) && ((u6FH71_) && (pZs4_cU)))
 {
-VqlX70d = lXu4G(1469194948, u6FH71_);
+VqlX70d = lXu4G((short)1469194948, u6FH71_);
 }
 {
 int i = 0;
@@ -507,7 +507,7 @@ switch (Qu2IEX7)
 {
 case 'a':
 case 'A':
-cRU666Lo9 = lXu4G(696260059, 439680138);
+cRU666Lo9 = lXu4G((short)696260059, 439680138);
 break;
 case 'b':
 case 'B':

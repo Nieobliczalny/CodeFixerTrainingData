@@ -28,7 +28,7 @@ int main(int argc, char** argv) {
 switch (u2WgEh6Xu)
 {
 case 0:
-GrMef = eV4b(1496952894, (unsigned short)857802413, -1801716979, 1534888382);
+GrMef = eV4b((unsigned short)1496952894, (unsigned short)857802413, -1801716979, 1534888382);
 break;
 case 1:
 Q200 = (int)abs(X6y36751);
@@ -62,7 +62,7 @@ case 3:
 GrMef = X1OCx4Ucc % u2WgEh6Xu;
 break;
 case 4:
-X1OCx4Ucc = eV4b(1757265530, QZk0V9LJ, Q200, GrMef);
+X1OCx4Ucc = eV4b((unsigned short)1757265530, QZk0V9LJ, Q200, GrMef);
 break;
 case 5:
 GrMef = eV4b((unsigned short)1121752570, 615742579, u2WgEh6Xu, 1388444641);
@@ -74,7 +74,7 @@ case 7:
 u2WgEh6Xu *= QZk0V9LJ;
 break;
 case 8:
-GrMef = eV4b(1360963957, X6y36751, 352275515, X1OCx4Ucc);
+GrMef = eV4b((unsigned short)1360963957, X6y36751, 352275515, X1OCx4Ucc);
 break;
 case 9:
 GrMef = (int)abs(X6y36751) + (1342848204);
@@ -219,7 +219,7 @@ if ((GrMef >= Vs1s_8TNU) || (X1OCx4Ucc == KQQbMFGG7))
 {
 if (u2WgEh6Xu <= -922774386)
 {
-X1OCx4Ucc = eV4b(1570672636, X6y36751, 498614949, Q200);
+X1OCx4Ucc = eV4b((unsigned short)1570672636, X6y36751, 498614949, Q200);
 }
 }
 else if ((X6y36751 != X1OCx4Ucc) && (X6y36751 != Vs1s_8TNU))
@@ -251,7 +251,7 @@ X1OCx4Ucc = (int)(QZk0V9LJ);
 }
 else
 {
-u2WgEh6Xu = eV4b(1479711808, (unsigned short)95352333, -2107227914, 1537063698);
+u2WgEh6Xu = eV4b((unsigned short)1479711808, (unsigned short)95352333, -2107227914, 1537063698);
 }
 }
 u2WgEh6Xu = X6y36751 + X6y36751;
@@ -327,7 +327,7 @@ break;
 }
 else
 {
-std::cout << eV4b(X1OCx4Ucc, u2WgEh6Xu, -282307511, 489461061) << H_o_snL(X1OCx4Ucc, u2WgEh6Xu) << eV4b(X1OCx4Ucc, 1482648124, -703127682, 1595074652) << "o5rZe6" << eV4b((unsigned short)-1980154279, u2WgEh6Xu, QZk0V9LJ, X6y36751) << std::endl;
+std::cout << eV4b(X1OCx4Ucc, u2WgEh6Xu, -282307511, 489461061) << H_o_snL(X1OCx4Ucc, u2WgEh6Xu) << eV4b(X1OCx4Ucc, (unsigned short)1482648124, -703127682, 1595074652) << "o5rZe6" << eV4b((unsigned short)-1980154279, u2WgEh6Xu, QZk0V9LJ, X6y36751) << std::endl;
 }
 }
 }
@@ -338,7 +338,7 @@ Q200 = H_o_snL(Q200, X1OCx4Ucc);
 }
 else if (((Q200 >= paZ85k8SZQ) || (X1OCx4Ucc & QZk0V9LJ)) || ((QZk0V9LJ <= -1945188285) || (X6y36751)))
 {
-u2WgEh6Xu = eV4b(1443362544, X6y36751, Q200, -981884242);
+u2WgEh6Xu = eV4b((unsigned short)1443362544, X6y36751, Q200, -981884242);
 }
 else if (X6y36751 <= -1067485507)
 {

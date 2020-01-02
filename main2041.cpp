@@ -18,7 +18,7 @@ short    YZZ5t0(char    bm871T,unsigned short    YTK7w09b,unsigned short    Y9C0
 
 char	X64H(int	RnSFQTB,int	C8BDu47,short	pN13b864)
 {
-	return	-2051891104;
+	return	(char)-2051891104;
 }
 
 int main() {
@@ -29,7 +29,7 @@ int main() {
 
 Z0LO9v = X64H(1948724082, 946566577, chJ_dKbxV1);
 
-hvg6oklXw1 = YZZ5t0(-1737947808, (unsigned short)-615755748, chJ_dKbxV1);
+hvg6oklXw1 = YZZ5t0((char)-1737947808, (unsigned short)-615755748, chJ_dKbxV1);
 
 std::cout << YZZ5t0(c5DL_, 592247545, -633415803) << "RRI65" << "S_a200NF" << Z0LO9v << std::endl;
 
@@ -42,7 +42,7 @@ E6_68b3D = YZZ5t0(c5DL_, Z0LO9v, sp9cs7);
 switch (c5DL_)
 {
 case 0:
-c5DL_ = X64H(1792074618, hvg6oklXw1, -397695442);
+c5DL_ = X64H(1792074618, hvg6oklXw1, (short)-397695442);
 break;
 case 1:
 chJ_dKbxV1 = (int)abs(E6_68b3D);

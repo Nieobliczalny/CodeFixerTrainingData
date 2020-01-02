@@ -14,7 +14,7 @@ char    N27VR(unsigned short int    vgxh7qThS,unsigned short    AB51ctN7Xi,unsig
 }
 
 unsigned short	R6MViLYZE(unsigned int	dY5F_w,unsigned char	f1E_8)	{
-	return	-1871714077;
+	return	(unsigned short)-1871714077;
 }
 
 unsigned long	E94Jt2pE2F(unsigned long long	h97f8v_8Is)
@@ -27,7 +27,7 @@ int main(int argc, char** argv)
 	unsigned short int	o4mv40,	xR9228K;
 		o4mv40	=	xR9228K	=	0;
     short int    FDHcWSiv6,    y8a91,    RXGpu5863;
-        FDHcWSiv6    =    y8a91    =    RXGpu5863    =    1967301515;
+        FDHcWSiv6    =    y8a91    =    RXGpu5863    =    (short)1967301515;
 
 try
 {
@@ -50,7 +50,7 @@ while (j >= 0)
 --j;
 if (y8a91 == -906632712)
 {
-xR9228K = N27VR(65039168, o4mv40, -44021885);
+xR9228K = N27VR((unsigned short)65039168, o4mv40, -44021885);
 }
 else
 {
@@ -61,7 +61,7 @@ o4mv40 = N27VR((unsigned short)-1389351510, 1522527530, 1966058218);
 }
 }
 
-FDHcWSiv6 = (RXGpu5863 > xR9228K) ? o4mv40 : 889621345;
+FDHcWSiv6 = (RXGpu5863 > xR9228K) ? o4mv40 : (short)889621345;
 for (int i = 4; i >= 0; i--)
 {
 switch (o4mv40)
@@ -82,7 +82,7 @@ case 4:
 FDHcWSiv6 = o4mv40 * RXGpu5863;
 break;
 case 5:
-FDHcWSiv6 = R6MViLYZE(FDHcWSiv6, 1253364011);
+FDHcWSiv6 = R6MViLYZE(FDHcWSiv6, (unsigned char)1253364011);
 break;
 case 6:
 FDHcWSiv6 = (int)abs(y8a91);
@@ -101,7 +101,7 @@ do
 ++j;
 try
 {
-xR9228K = N27VR(xR9228K, -366191730, 1432147705);
+xR9228K = N27VR(xR9228K, (unsigned short)-366191730, 1432147705);
 }
 catch (int& errorCode)
 {
@@ -153,7 +153,7 @@ case 3:
 RXGpu5863 <<= y8a91;
 break;
 case 4:
-y8a91 = R6MViLYZE(xR9228K, -132345992);
+y8a91 = R6MViLYZE(xR9228K, (unsigned char)-132345992);
 break;
 case 5:
 y8a91 = y8a91 ^ 2023136862;
@@ -168,7 +168,7 @@ case 8:
 y8a91 /= xR9228K;
 break;
 default:
-FDHcWSiv6 = R6MViLYZE(FDHcWSiv6, -1772196690);
+FDHcWSiv6 = R6MViLYZE(FDHcWSiv6, (unsigned char)-1772196690);
 break;
 }
 
@@ -181,7 +181,7 @@ do
 --i;
 if (RXGpu5863 > 1575041213)
 {
-std::cout << "jhM6eYR" << N27VR(FDHcWSiv6, -248878356, xR9228K) << std::endl;
+std::cout << "jhM6eYR" << N27VR(FDHcWSiv6, (unsigned short)-248878356, xR9228K) << std::endl;
 }
 else if ((o4mv40) && ((o4mv40 < 1886346124) && (y8a91 >= -1727284380)))
 {
@@ -194,7 +194,7 @@ xR9228K = (unsigned short int)(y8a91 * xR9228K);
 }
 while (i >= 0);
 }
-FDHcWSiv6 = (o4mv40 != 549031990) ? R6MViLYZE(FDHcWSiv6, -1037373004) : -563904380;
+FDHcWSiv6 = (o4mv40 != 549031990) ? R6MViLYZE(FDHcWSiv6, (unsigned char)-1037373004) : -563904380;
 
 for (int i = 10; i >= 0; i--)
 {
@@ -274,7 +274,7 @@ FDHcWSiv6 = o4mv40 / y8a91;
 }
 else if (y8a91 != -951871826)
 {
-RXGpu5863 = R6MViLYZE(RXGpu5863, 867280356);
+RXGpu5863 = R6MViLYZE(RXGpu5863, (unsigned char)867280356);
 }
 else if ((xR9228K) && ((xR9228K <= y8a91) || (FDHcWSiv6 != -648548430)))
 {
@@ -290,7 +290,7 @@ while (j >= 0);
 }
 }
 
-if ((RXGpu5863 / N27VR(1219786543, (unsigned short)472399238, o4mv40)) != 1933515561)
+if ((RXGpu5863 / N27VR((unsigned short)1219786543, (unsigned short)472399238, o4mv40)) != 1933515561)
 {
 if (RXGpu5863 & 2131372628)
 {
@@ -305,7 +305,7 @@ int k = 0;
 while (k < 6)
 {
 k++;
-xR9228K = N27VR(RXGpu5863, -2055332483, FDHcWSiv6);
+xR9228K = N27VR(RXGpu5863, (unsigned short)-2055332483, FDHcWSiv6);
 }
 }
 }
@@ -349,7 +349,7 @@ xR9228K = N27VR(FDHcWSiv6, y8a91, xR9228K);
 }
 else if (y8a91 != 999179918)
 {
-std::cout << "g_XX61N7" << N27VR(-1853897434, (unsigned short)401853544, -1866576357) << "OjPOE" << std::endl;
+std::cout << "g_XX61N7" << N27VR((unsigned short)-1853897434, (unsigned short)401853544, -1866576357) << "OjPOE" << std::endl;
 }
 else if ((FDHcWSiv6 != -1844038895) || (FDHcWSiv6 != RXGpu5863))
 {
@@ -362,7 +362,7 @@ case 1:
 y8a91 /= 590781367;
 break;
 case 2:
-o4mv40 = N27VR(1153327866, y8a91, -46490004);
+o4mv40 = N27VR((unsigned short)1153327866, y8a91, -46490004);
 break;
 case 3:
 o4mv40 = N27VR(RXGpu5863, (unsigned short)-944077571, -2113598013);
@@ -378,7 +378,7 @@ RXGpu5863 = (int)abs(FDHcWSiv6);
 }
 else if (o4mv40 != FDHcWSiv6)
 {
-std::cout << R6MViLYZE(-1854414258, 890784957) << E94Jt2pE2F(-1027588573) << std::endl;
+std::cout << R6MViLYZE(-1854414258, (unsigned char)890784957) << E94Jt2pE2F(-1027588573) << std::endl;
 }
 else
 {
@@ -449,7 +449,7 @@ std::cout << N27VR(FDHcWSiv6, xR9228K, -439608504) << std::endl;
 }
 else if (RXGpu5863 > 1531592261)
 {
-FDHcWSiv6 = R6MViLYZE(1983519329, 834050689);
+FDHcWSiv6 = R6MViLYZE(1983519329, (unsigned char)834050689);
 }
 else
 {

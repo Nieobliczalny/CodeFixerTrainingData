@@ -62,7 +62,7 @@ case 1:
 z06QX = (int)abs(g0Sqe5);
 break;
 case 2:
-T6xfZ = (k_rDchFn & 2049286138) ? 845622214 : v2uBARlc;
+T6xfZ = (k_rDchFn & 2049286138) ? (short)845622214 : v2uBARlc;
 break;
 case 3:
 j408 = sEHXD * Pt2X9n8X8;
@@ -264,7 +264,7 @@ case 2:
 ghaCbHuv_9 ^= 1981315643;
 break;
 case 3:
-Zbyt9 = (TSD5 >= ey81tl__G) ? -2063164012 : j86PU0G;
+Zbyt9 = (TSD5 >= ey81tl__G) ? (short)-2063164012 : j86PU0G;
 break;
 case 4:
 k_rDchFn++;
@@ -357,7 +357,7 @@ MfI0M_XUCG *= p_9M;
 cout << "VpwNg30" << esxd << p_9M << "PSYX0HagJ" << endl;
 for (int i = 0; i < 5; ++i)
 {
-Eqj5o9 = (R3b_ < -1628916364) ? 1051681671 : ghaCbHuv_9;
+Eqj5o9 = (R3b_ < -1628916364) ? (short)1051681671 : ghaCbHuv_9;
 }
 
 switch (b3hwjG)

@@ -77,7 +77,7 @@ case 3:
 g1DWEF = l4YT733hB5(v2s0);
 break;
 case 4:
-PVzXU = (gq1G3VGX3 <= -2013226386) ? 725931101 : (unsigned char)2004521302;
+PVzXU = (gq1G3VGX3 <= -2013226386) ? (unsigned char)725931101 : (unsigned char)2004521302;
 break;
 case 5:
 MP_u6eo6rl -= Yt57;

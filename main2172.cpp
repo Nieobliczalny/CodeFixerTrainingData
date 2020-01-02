@@ -12,7 +12,7 @@ unsigned short int  fY6Rr56P8(unsigned int  vt0Ac1yZ,unsigned int  D47GA3PP8x,sh
 }
 
 short	aOZBr4(unsigned int	e4S9oZX,char	Gk_X)	{
-	return	210352827;
+	return	(short)210352827;
 }
 
 int main(int argc, char** argv)
@@ -29,7 +29,7 @@ for (int j = 8; j >= 0; j--)
 {
 if (T0fd2 != oEZbhb80)
 {
-ZazgU6jvhr = fY6Rr56P8(u6HEWE, -1163035302, 2090015248, -1629185863) & U7J_Gixx;
+ZazgU6jvhr = fY6Rr56P8(u6HEWE, -1163035302, (short)2090015248, -1629185863) & U7J_Gixx;
 }
 else
 {
@@ -56,7 +56,7 @@ if ((P7xBE093J3 & ryC51yU4k) && ((KqI_nPjH >= M1icxvV) || (iWT6_noY != jlnk)))
 {
 if (((Oh1m_l >= -21941536) && (ldHq_GVb >= -1626270132)) && ((U7J_Gixx < 1223051013) && (eScE != 253715553)))
 {
-DGogYhU6 = fY6Rr56P8(-780420663, -1974315689, 1943992059, -1640787222);
+DGogYhU6 = fY6Rr56P8(-780420663, -1974315689, (short)1943992059, -1640787222);
 }
 else if (omdcxIT >= 192295097)
 {
@@ -94,7 +94,7 @@ else if (v13DJoU)
 {
 try
 {
-oxEs9yPk = aOZBr4(oxEs9yPk, 986278490);
+oxEs9yPk = aOZBr4(oxEs9yPk, (char)986278490);
 }
 catch (int& errorCode)
 {

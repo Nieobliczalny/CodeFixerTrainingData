@@ -17,7 +17,7 @@ using std::ceil;
 using std::floor;
 
 int main(void) {
-	char	DlZ6995	=	-547242843;
+	char	DlZ6995	=	(char)-547242843;
     long double    s_4p    =    1151825587;
   long long  g0Qm1b  =  1364461011;
   unsigned short  i10B  =  (unsigned short)963399902;
@@ -27,7 +27,7 @@ int main(void) {
 	unsigned int	lEh29ue	=	-539669610;
     short int    mnW6lSK8    =    -1611035724;
   double  N9nOM6cgi  =  -1697849955;
- unsigned char rt954wo = -927585530;
+ unsigned char rt954wo = (unsigned char)-927585530;
   char  A7ciHR  =  -1216153637;
   float  APVqmBAa9d  =  733234070;
  unsigned long long H9lO78ua = -823458889;
@@ -47,7 +47,7 @@ int main(void) {
     long    IFltSO    =    -1807880541;
   unsigned long  FYGFw8z3  =  878517296;
   long long  o281MH  =  -918684949;
-	char	L97hhs	=	-1234978617;
+	char	L97hhs	=	(char)-1234978617;
 	short	RG6v	=	(short)-2013048028;
  long F5b5aP = 1324292470;
   unsigned int  SGRG  =  -1068468823;
@@ -58,7 +58,7 @@ int main(void) {
   short int  kJY8do9  =  1273343752;
  long kgA325272 = -1816074766;
   double  mVDczu  =  873723053;
-    unsigned short int    wENYqwlp3    =    -9953113;
+    unsigned short int    wENYqwlp3    =    (unsigned short)-9953113;
 	unsigned short	H84Ps1J6t	=	(unsigned short)-1616353540;
   char  X0Z8Gh  =  1931425852;
  char N_9MdIldE8 = -1368950376;
@@ -68,7 +68,7 @@ int main(void) {
 	unsigned int	jbUd	=	-1994846406;
     long double    MF05rAH5    =    45446025;
  long double iGQ24Ju9bU = 2109092105;
-	short	z_X8vG2_6	=	834101921;
+	short	z_X8vG2_6	=	(short)834101921;
 	float	WInk	=	1750193762;
  unsigned long long opDwxKs = 1430630085;
 	unsigned int	fM5996a	=	1933359774;
@@ -83,7 +83,7 @@ int main(void) {
   long  N3M8fNft  =  762100381;
     long double    eJ3dA1mx    =    1367542869;
  unsigned long long e3ded1C5z = -1064352407;
- short int V5ET = -126181722;
+ short int V5ET = (short)-126181722;
 	long long	z6X1Ll	=	-2142516637;
   unsigned short  oWl5N  =  (unsigned short)392458970;
     unsigned short    wKxq    =    998977423;
@@ -95,7 +95,7 @@ int main(void) {
  short sw6A5b = 246387982;
  unsigned long long oe6F = -32907182;
  float E_32msE926 = 1301381302;
-	char	e5C00Krg	=	290990244;
+	char	e5C00Krg	=	(char)290990244;
   long  e6FfmU23P  =  -1197750655;
   unsigned long  v9jz3id_  =  1443097432;
  unsigned short int UlxFAgB = (unsigned short)-246019011;
@@ -108,7 +108,7 @@ int main(void) {
   double  V5S7qWU  =  1324195903;
     unsigned long long    Deb5k    =    -503943917;
  unsigned long long i__Zzdo35 = 1665728518;
-  unsigned short int  xWs8  =  823559120;
+  unsigned short int  xWs8  =  (unsigned short)823559120;
  unsigned long long M2s54agg = 378351151;
   unsigned short int  Uiw5vHKLD  =  (unsigned short)1983137487;
     unsigned int    x7b38Y3c34    =    1961769565;

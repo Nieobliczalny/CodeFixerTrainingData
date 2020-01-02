@@ -13,7 +13,7 @@ using std::ceil;
 using std::floor;
 
 char    bYl6907(long long    pk_WKUm6r,unsigned long long    z43jlsq,unsigned char    SaQETQmab)    {
-    return    2066327500;
+    return    (char)2066327500;
 }
 
 unsigned int WjdY(int XrO9R,long Rt53HjRKvT,unsigned long long lszM7v)
@@ -38,7 +38,7 @@ do
 {
 for (int k = 10; k >= 0; k--)
 {
-J3RDKaJm5 = bYl6907(-1153647381, AJc_2, -575597200) * 1018951820;
+J3RDKaJm5 = bYl6907(-1153647381, AJc_2, (unsigned char)-575597200) * 1018951820;
 }
 --j;
 }
@@ -73,7 +73,7 @@ u39Z8FFp--;
 }
 else if ((u39Z8FFp == -1770395254) && (AJc_2 <= xK_I_His))
 {
-Zp8T = xwBEZ4Q(104451261, Zp8T, AJc_2, -1776052766, KNX9D_xe);
+Zp8T = xwBEZ4Q(104451261, Zp8T, AJc_2, (unsigned short)-1776052766, KNX9D_xe);
 }
 else if (xK_I_His != u39Z8FFp)
 {
@@ -127,7 +127,7 @@ Zp8T = xwBEZ4Q(Zp8T, T4ERy, 783462715, 1648316103, 1059106722);
 }
 }
 
-odHo_yvv69 = bYl6907(R7KUxis6xn, odHo_yvv69, -2054698851);
+odHo_yvv69 = bYl6907(R7KUxis6xn, odHo_yvv69, (unsigned char)-2054698851);
 
 {
 int i = 7;
@@ -157,7 +157,7 @@ case 'b':
 o9XNgORm = Ez4bVi - 616806446;
 break;
 default:
-z_DZ3zrZ3 = (KNX9D_xe > -1983600712) ? Zp8T : bYl6907(F0q65iG4, z_DZ3zrZ3, 1150144893);
+z_DZ3zrZ3 = (KNX9D_xe > -1983600712) ? Zp8T : bYl6907(F0q65iG4, z_DZ3zrZ3, (unsigned char)1150144893);
 break;
 }
 std::cout << D718YW9L << bYl6907(F0q65iG4, 1934508786, (unsigned char)690090119) << "i7ShEh" << odHo_yvv69 << std::endl;
@@ -176,7 +176,7 @@ try
 {
 try
 {
-R7KUxis6xn = xwBEZ4Q(z_DZ3zrZ3, R7KUxis6xn, -1036207011, (unsigned short)1184966458, -579734314);
+R7KUxis6xn = xwBEZ4Q(z_DZ3zrZ3, R7KUxis6xn, (unsigned short)-1036207011, (unsigned short)1184966458, -579734314);
 }
 catch (int& errorCode)
 {
@@ -188,7 +188,7 @@ catch (int& errorCode)
 HQtvh = xwBEZ4Q(212519984, 880346359, T4ERy, -691277948, AJc_2);
 }
 }
-std::cout << odHo_yvv69 << xwBEZ4Q(241032194, 390219159, T4ERy, 1074682150, 736275831) << WjdY(F0q65iG4, 216772377, T4ERy) << "SrdCT4254L" << std::endl;
+std::cout << odHo_yvv69 << xwBEZ4Q(241032194, 390219159, T4ERy, (unsigned short)1074682150, 736275831) << WjdY(F0q65iG4, 216772377, T4ERy) << "SrdCT4254L" << std::endl;
 
 z_DZ3zrZ3 = (unsigned long)(KNX9D_xe);
 
@@ -209,7 +209,7 @@ case 2:
 AgW37BIz &= 227721177;
 break;
 case 3:
-Ez4bVi = bYl6907(1506838949, o9XNgORm, 1959101073);
+Ez4bVi = bYl6907(1506838949, o9XNgORm, (unsigned char)1959101073);
 break;
 case 4:
 z_DZ3zrZ3 = WjdY(z_DZ3zrZ3, xK_I_His, -266204975);
@@ -220,7 +220,7 @@ break;
 }
 }
 }
-D718YW9L = xwBEZ4Q(-323661919, -1806287809, 303222605, -1873595413, AJc_2);
+D718YW9L = xwBEZ4Q(-323661919, -1806287809, (unsigned short)303222605, -1873595413, AJc_2);
 std::cout << WjdY(Ez4bVi, -973522786, 1579694545) << R7KUxis6xn << std::endl;
 
 for (int i = 0; i < 62; i++)
@@ -231,7 +231,7 @@ u39Z8FFp = qx7v4 + 2123392933;
 }
 for (int i = 0; i < 9; i++)
 {
-std::cout << F0q65iG4 << D718YW9L << bYl6907(1074346109, 533191126, -1792311567) << "XUxSw" << std::endl;
+std::cout << F0q65iG4 << D718YW9L << bYl6907(1074346109, 533191126, (unsigned char)-1792311567) << "XUxSw" << std::endl;
 }
 
 e4E780ZD -= HQtvh;

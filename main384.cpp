@@ -18,7 +18,7 @@ int main(void)
     int    TWkH_X    =    0;
 	int	w3thW	=	-2088697967;
     unsigned long long    a_P02_29K    =    -830458841;
-    unsigned short    ezkzt65vHY    =    -470659046;
+    unsigned short    ezkzt65vHY    =    (unsigned short)-470659046;
   unsigned short int  H57G8Wd  =  (unsigned short)1047712270;
   unsigned long  T6xD  =  -1416374868;
     unsigned char    w2G5SQZ    =    1508699429;
@@ -28,7 +28,7 @@ int main(void)
  unsigned long Cz071 = -354018673;
 	double	uLznLxl8h4	=	-802787609;
  double qXdW16ZPB = 121360597;
-    char    GGH_    =    -1301705911;
+    char    GGH_    =    (char)-1301705911;
  unsigned short int BUIX2 = (unsigned short)-1104860952;
     unsigned long    j1b85Kj    =    -2056744469;
   long long  l8w_I7  =  1218360558;
@@ -41,7 +41,7 @@ int main(void)
     int    pdF6Ovah    =    881401807;
     int    MJvJ2fj0Ub    =    1765890563;
     double    aHh2sqRtZ    =    1521528622;
- unsigned char WMG9f2GoL9 = 82005974;
+ unsigned char WMG9f2GoL9 = (unsigned char)82005974;
 	unsigned char	R427G	=	(unsigned char)33671523;
     double    Ev_Aw3z9    =    859306051;
   long double  JE7_mvR  =  -91499078;
@@ -53,7 +53,7 @@ int main(void)
   unsigned short int  x0_r7F_  =  220392739;
  int YG5K1 = -2133639756;
   unsigned long  LT793Rmy  =  889682627;
-	unsigned short int	hds9EpHT	=	1383759727;
+	unsigned short int	hds9EpHT	=	(unsigned short)1383759727;
 	short int	J2ghY29	=	(short)-1361204129;
 	float	XEjlt_8R	=	2073226214;
     short    k8h_DX    =    -542100451;
@@ -63,7 +63,7 @@ int main(void)
  long double yw22ryl2H = 366837838;
  long lOyCH1494Q = 1774554834;
  unsigned short Ja0SpS9_8 = -764092861;
-  unsigned short  a6xfw  =  -74920973;
+  unsigned short  a6xfw  =  (unsigned short)-74920973;
 	unsigned int	D4Ic	=	1684057926;
   long  W9_v  =  -392463743;
  unsigned int ervwvkS = 280770427;
@@ -74,7 +74,7 @@ int main(void)
   unsigned short int  vLvPF  =  -1062433815;
  int u3Ow0 = 1043113218;
  long long u4_F_ = 2077840585;
-	unsigned char	l26J7997	=	-502313366;
+	unsigned char	l26J7997	=	(unsigned char)-502313366;
   long  aFD2XF  =  1950901563;
     double    hd_hg1    =    -1535815557;
   long  H262m8j  =  202675872;

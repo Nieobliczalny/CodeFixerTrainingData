@@ -45,7 +45,7 @@ mt5C_qQ ^= qSz5r0O;
 break;
 }
 
-std::cout << Q13BM5I(1521862435, idT2T44, ZS3bc3c3, i9QGJR_o, wBCj) << Da7FiV(-1710183151, 1374653433, ZS3bc3c3, -1145365847) << cFrv << JiZ2gGsE(1175387046, -1575125201) << b_4TB << std::endl;
+std::cout << Q13BM5I(1521862435, idT2T44, ZS3bc3c3, i9QGJR_o, wBCj) << Da7FiV((unsigned char)-1710183151, 1374653433, ZS3bc3c3, -1145365847) << cFrv << JiZ2gGsE(1175387046, -1575125201) << b_4TB << std::endl;
 std::cout << Da7FiV(a65kVM2, idT2T44, ZS3bc3c3, i9QGJR_o) << F2y41CR5n2 << Q13BM5I(2065470298, idT2T44, (short)36513425, -1961167522, -1250755548) << "fug4ay" << std::endl;
 switch (l2x4V2Anb8)
 {
@@ -56,7 +56,7 @@ case 1:
 i9QGJR_o = JiZ2gGsE(i9QGJR_o, XmsHy43);
 break;
 case 2:
-tEQFA4q = Q13BM5I(tEQFA4q, 998730161, 102866008, (short)826034606, -558224583);
+tEQFA4q = Q13BM5I(tEQFA4q, 998730161, (short)102866008, (short)826034606, -558224583);
 break;
 case 3:
 xe7klX45 = Da7FiV(368492165, -752452021, 1064259138, XmsHy43);
@@ -75,7 +75,7 @@ PSI08 = x5CE + 1069362665;
 break;
 }
 
-huA5 = Q13BM5I(620057389, -1724421692, wBCj, 883244439, i9QGJR_o);
+huA5 = Q13BM5I(620057389, -1724421692, wBCj, (short)883244439, i9QGJR_o);
 
 for (int i = 9; i >= 0; i--)
 {
@@ -105,7 +105,7 @@ else if (S61lr < y2gxAJd)
 {
 if (S61lr > y2gxAJd)
 {
-b555S = Q13BM5I(b555S, -259567550, -1427067177, (short)-1663351889, 2057585975);
+b555S = Q13BM5I(b555S, -259567550, (short)-1427067177, (short)-1663351889, 2057585975);
 }
 }
 else
@@ -141,6 +141,6 @@ char	Da7FiV(unsigned char	Ik5Y3_t_U,unsigned int	R0xwwmiRn,unsigned int	Wc964K,l
 
 short  JiZ2gGsE(int  m1SYoF3,int  Z0b0k__)
 {
-  return  -689183341;
+  return  (short)-689183341;
 }
 

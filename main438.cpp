@@ -19,7 +19,7 @@ int GZ3vR(int vDKV,long long Dg5CZ1s,unsigned short xiLb4DX9xk,unsigned short in
 unsigned short CNUh(unsigned char ZUZk8,unsigned long long CXoOlq_ra,unsigned int Uzxo67mWz,unsigned short Y0CYQZviQV);
 
 int main(int argc, char** argv) {
- short int vI7h5l2_HX = 121934993;
+ short int vI7h5l2_HX = (short)121934993;
 	short	aBfBD	=	(short)1848922178;
   long double  fftL_rou  =  -1440123206;
     long    ErWh    =    -273791644;
@@ -33,7 +33,7 @@ int main(int argc, char** argv) {
   unsigned int  U4M3W6O  =  -2038972292;
   unsigned long long  x8PCcP2  =  -477270465;
   float  c9giw7K5  =  1372886915;
-  short int  X33eGr5_62  =  -1472692641;
+  short int  X33eGr5_62  =  (short)-1472692641;
     int    g4UVGx    =    917262021;
   int  yGdfcCzIo  =  -1661718815;
     unsigned long    oo2mjw8f    =    816303998;
@@ -72,7 +72,7 @@ else if (X6Za64k > la9437Dp9)
 switch (FSt_jeg02)
 {
 case 'a':
-fftL_rou = CNUh(fftL_rou, NYJZZ, -455621585, -1244329350);
+fftL_rou = CNUh(fftL_rou, NYJZZ, -455621585, (unsigned short)-1244329350);
 break;
 case 'b':
 ErWh = FBQDB10_(ErWh, (unsigned char)1383180000, 1025923833);
@@ -125,7 +125,7 @@ yGdfcCzIo <<= Jq6kpnYw5;
 }
 else if (U4M3W6O < 1146059075)
 {
-cout << NYJZZ << "huhbJh_A" << ugB6kH << FBQDB10_(xV3Aw, NYJZZ, -913319203) << T228qWn << endl;
+cout << NYJZZ << "huhbJh_A" << ugB6kH << FBQDB10_(xV3Aw, NYJZZ, (short)-913319203) << T228qWn << endl;
 }
 else
 {
@@ -151,7 +151,7 @@ case 0:
 aIuAdI1a8 = GZ3vR(T228qWn, aBfBD, xV3Aw, pK92G);
 break;
 default:
-MYrK2HIcS = CNUh(1214392466, 883813437, oo2mjw8f, X6Za64k);
+MYrK2HIcS = CNUh((unsigned char)1214392466, 883813437, oo2mjw8f, X6Za64k);
 break;
 }
 }
@@ -189,7 +189,7 @@ ErWh++;
 
 if (pK92G <= yGdfcCzIo)
 {
-fftL_rou = FBQDB10_(aIuAdI1a8, fftL_rou, 780799670);
+fftL_rou = FBQDB10_(aIuAdI1a8, fftL_rou, (short)780799670);
 }
 else
 {
@@ -199,7 +199,7 @@ case 0:
 xV3Aw |= 499194777;
 break;
 case 1:
-fj_R9X5r5j = FBQDB10_(1698267304, oo2mjw8f, FSt_jeg02);
+fj_R9X5r5j = FBQDB10_((short)1698267304, oo2mjw8f, FSt_jeg02);
 break;
 case 2:
 c9giw7K5 = (int)floor(X6Za64k);
@@ -237,7 +237,7 @@ while (i < 5)
 {
 try
 {
-cout << fftL_rou << g4UVGx << vI7h5l2_HX << CNUh(NYJZZ, 1608856135, Jq6kpnYw5, 20324890) << CNUh(NYJZZ, aBfBD, Jq6kpnYw5, (unsigned short)-932203987) << endl;
+cout << fftL_rou << g4UVGx << vI7h5l2_HX << CNUh(NYJZZ, 1608856135, Jq6kpnYw5, (unsigned short)20324890) << CNUh(NYJZZ, aBfBD, Jq6kpnYw5, (unsigned short)-932203987) << endl;
 }
 catch (int& errorCode)
 {
@@ -260,6 +260,6 @@ int GZ3vR(int vDKV,long long Dg5CZ1s,unsigned short xiLb4DX9xk,unsigned short in
 
 unsigned short CNUh(unsigned char ZUZk8,unsigned long long CXoOlq_ra,unsigned int Uzxo67mWz,unsigned short Y0CYQZviQV)
 {
- return 1403236371;
+ return (unsigned short)1403236371;
 }
 

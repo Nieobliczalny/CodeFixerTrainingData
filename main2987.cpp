@@ -22,7 +22,7 @@ int main() {
   float  r5rrZ_2;
   r5rrZ_2  =  1408233598;
 	unsigned char	fx2_D11;
-	fx2_D11	=	-657532206;
+	fx2_D11	=	(unsigned char)-657532206;
   unsigned short  g28HLFvB3;
   g28HLFvB3  =  (unsigned short)-1818835640;
   short int  dUaQHdO1v;
@@ -46,7 +46,7 @@ int main() {
 	long double	n8Fg;
 	n8Fg	=	1657833465;
   char  M7OQPAwY;
-  M7OQPAwY  =  -1353802112;
+  M7OQPAwY  =  (char)-1353802112;
 	unsigned int	L56LW;
 	L56LW	=	-1427322262;
 	unsigned long	k5v731O;

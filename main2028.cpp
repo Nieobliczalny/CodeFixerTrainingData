@@ -12,7 +12,7 @@ using namespace std;
 
 int main()
 {
-  short int  NT75h  =  1557968618;
+  short int  NT75h  =  (short)1557968618;
   long long  nW0_Ne  =  -23176824;
 	unsigned char	Yryy389	=	(unsigned char)-890371419;
 	int	L_90sOcPwe	=	513504142;
@@ -25,7 +25,7 @@ int main()
   float  pH45Rin9n  =  1448024044;
   unsigned long long  jUt3LB8nC  =  245098278;
  long double ot62A1 = 209100337;
-    unsigned short    ePRzq    =    1881875850;
+    unsigned short    ePRzq    =    (unsigned short)1881875850;
 	long	s5nHL	=	2056601854;
 	unsigned long	tZHEdVh7f_	=	793616684;
   unsigned short int  pX2_S_P5op  =  0;
@@ -38,7 +38,7 @@ int main()
  long gI9w = -1278091803;
   int  taat0n  =  1843478572;
 	double	NVw3608	=	990444472;
- unsigned char s1e5RV7SP = -283329079;
+ unsigned char s1e5RV7SP = (unsigned char)-283329079;
  long long QBISd9 = 161167617;
   short int  PJ__az  =  (short)-979715126;
     int    y08L    =    0;
@@ -52,7 +52,7 @@ int main()
 	unsigned int	O96VMK	=	1878921096;
 	unsigned long long	MmxQv9	=	1288597661;
   float  Xo_u  =  428376191;
-    unsigned short int    B5gutJwig    =    397632016;
+    unsigned short int    B5gutJwig    =    (unsigned short)397632016;
     char    uQXgO    =    (char)1850540001;
     float    Oq4a7bL    =    699928868;
  char l6CT5M2M = -898261971;
@@ -64,7 +64,7 @@ int main()
 	long double	srU0P2Xg_b	=	-2018712655;
   unsigned long long  Rczgmc  =  790349069;
   unsigned long  Dx8V7wh26_  =  1685277186;
-  char  DWH0  =  1360275515;
+  char  DWH0  =  (char)1360275515;
  unsigned short int IeYun0F4g = (unsigned short)1586241012;
   long double  tr2f9i55s  =  765680710;
 	int	l11U_T7yd	=	267212002;
@@ -75,7 +75,7 @@ int main()
     short    CO67k    =    -764395767;
     long    byAL    =    -779012773;
   unsigned long long  pbl4lt85O  =  -257035858;
-    char    sbKe    =    1864628739;
+    char    sbKe    =    (char)1864628739;
     long long    zLO6    =    -616650755;
 
 if (l11U_T7yd == 2098359301)
@@ -128,7 +128,7 @@ kEJ6 *= JMIfeZnV;
 z4_T5 = -269034339 / pX2_S_P5op;
 std::cout << "ChC9ju" << pX2_S_P5op << "I4eu_65yln" << std::endl;
 
-Yryy389 = (HAb1hZM >= kEJ6) ? -827696939 : UeQg0VP;
+Yryy389 = (HAb1hZM >= kEJ6) ? (unsigned char)-827696939 : UeQg0VP;
 
 y08L = (int)(gI9w * (OSCU));
 if (tr2f9i55s == -2048681902)

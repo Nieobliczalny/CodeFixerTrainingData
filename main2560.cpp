@@ -33,7 +33,7 @@ n4B7B3XIbF = IQU5c3d9C(UWP7o7, ou7Hu9lQ, apq90, iwcvk, D66o584X5);
 }
 else
 {
-cout << IQU5c3d9C(UWP7o7, ou7Hu9lQ, apq90, 460963029, (unsigned short)-1073958248) << SPJuQpwj << JSUs << nt4XAIOm6() << endl;
+cout << IQU5c3d9C(UWP7o7, ou7Hu9lQ, apq90, (unsigned short)460963029, (unsigned short)-1073958248) << SPJuQpwj << JSUs << nt4XAIOm6() << endl;
 }
 
 {
@@ -57,7 +57,7 @@ if (l0uaW5Rs > -577345919)
 {
 if (MWB7i9C_ <= -1945314171)
 {
-n4B7B3XIbF = IQU5c3d9C(-2044859774, 497662795, 1271619658, (unsigned short)-279038284, -2079788863);
+n4B7B3XIbF = IQU5c3d9C(-2044859774, 497662795, (unsigned short)1271619658, (unsigned short)-279038284, -2079788863);
 }
 else
 {
@@ -114,7 +114,7 @@ switch (SV2_T9w_)
 {
 case 'a':
 case 'A':
-l0uaW5Rs = IQU5c3d9C(YU0HMB, -868652729, OW2Su, 1477870759, (unsigned short)1786068314);
+l0uaW5Rs = IQU5c3d9C(YU0HMB, -868652729, OW2Su, (unsigned short)1477870759, (unsigned short)1786068314);
 break;
 case 'b':
 case 'B':
@@ -142,7 +142,7 @@ case 2:
 uAMK = (int)abs(LSNI);
 break;
 case 3:
-n4B7B3XIbF = IQU5c3d9C(KJ1PY, 1072560452, T9_AmGSY3r, 568731039, (unsigned short)-1147191412);
+n4B7B3XIbF = IQU5c3d9C(KJ1PY, 1072560452, T9_AmGSY3r, (unsigned short)568731039, (unsigned short)-1147191412);
 break;
 default:
 a8C7mdSdf = nt4XAIOm6() | lQ2998D84;

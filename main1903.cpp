@@ -61,7 +61,7 @@ case 'a':
 r5h_nV5 = ga0I(-1379892941, w1r_f, 516271855);
 break;
 case 'b':
-boLPMz8CLe = mTfLe5JZ9L(-220633410, M3TUrTJ2, -645369771);
+boLPMz8CLe = mTfLe5JZ9L(-220633410, M3TUrTJ2, (char)-645369771);
 break;
 case 'c':
 r5h_nV5 = ga0I(-1548869899, -1501261396, 1076970328);
@@ -123,7 +123,7 @@ for (int i = 0; i < 3; i++)
 switch (u2W567222G)
 {
 case 0:
-boLPMz8CLe = mTfLe5JZ9L(1094291567, 2144755271, hr__6);
+boLPMz8CLe = mTfLe5JZ9L(1094291567, (unsigned short)2144755271, hr__6);
 break;
 case 1:
 kZaPMpW = ga0I(700888788, DA3Xrl7, -1453905148);
@@ -165,7 +165,7 @@ while (j >= 0);
 }
 }
 
-std::cout << mTfLe5JZ9L(kZaPMpW, DA3Xrl7, ix52z__D) << mTfLe5JZ9L(-1653654153, 1124401198, (char)766337188) << z2plX << std::endl;
+std::cout << mTfLe5JZ9L(kZaPMpW, DA3Xrl7, ix52z__D) << mTfLe5JZ9L(-1653654153, (unsigned short)1124401198, (char)766337188) << z2plX << std::endl;
 
 {
 int i = 0;
@@ -229,7 +229,7 @@ else
 int j = 0;
 while (j < 5)
 {
-boLPMz8CLe = mTfLe5JZ9L(1071216865, -183256475, (char)-328396272);
+boLPMz8CLe = mTfLe5JZ9L(1071216865, (unsigned short)-183256475, (char)-328396272);
 ++j;
 }
 }

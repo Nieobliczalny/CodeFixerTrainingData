@@ -61,7 +61,7 @@ do
 j--;
 if (i7ad >= UHLt0lO0)
 {
-Y3snDIi = LJqNM4SQ_(Y3snDIi, 1941455397, -662179164, hQ90X);
+Y3snDIi = LJqNM4SQ_(Y3snDIi, 1941455397, (short)-662179164, hQ90X);
 }
 else if (((aQu8 > s9G9jgNS) || (rCi7rhdh >= -1591646603)) && (A34cHuz <= -1001066380))
 {
@@ -94,7 +94,7 @@ i60aJc = VCR3Ty - 1718851116;
 
 if (VK_g4 <= -770869566)
 {
-gN0q7M_7p_ = cU72(gN0q7M_7p_, i60aJc, 519430222, lr98);
+gN0q7M_7p_ = cU72(gN0q7M_7p_, i60aJc, (unsigned short)519430222, lr98);
 }
 else if (m230K1XE)
 {
@@ -104,7 +104,7 @@ case 0:
 hy0KR /= T4ck927;
 break;
 case 1:
-V4S7TbQ = (W15La4 >= 1386146578) ? cU72(gN0q7M_7p_, -1518722285, TTSBg9k, lr98) : 928925199;
+V4S7TbQ = (W15La4 >= 1386146578) ? cU72(gN0q7M_7p_, (short)-1518722285, TTSBg9k, lr98) : 928925199;
 break;
 case 2:
 hy0KR = LJqNM4SQ_(hy0KR, lr98, (short)60930142, 1227549162);
@@ -155,7 +155,7 @@ break;
 }
 else if (l9wFJr06 >= m230K1XE)
 {
-std::cout << cU72(846231737, M6O5U, s9sKt, -581832647) << "Timvn1KoXT" << LJqNM4SQ_(2092129831, -1740012897, s9sKt, rCi7rhdh) << std::endl;
+std::cout << cU72(846231737, M6O5U, s9sKt, (unsigned short)-581832647) << "Timvn1KoXT" << LJqNM4SQ_(2092129831, -1740012897, s9sKt, rCi7rhdh) << std::endl;
 }
 else if (JVe14m3 == z9TV1Ro)
 {
@@ -228,7 +228,7 @@ if (VK_g4 <= Bf491OCJ)
 x_31 -= 2114751583;
 }
 l9wFJr06 += 1941748005;
-std::cout << aa4961N_I << c3dMyYl3Z(-1584343680) << k_2S << y400 << LJqNM4SQ_(W15La4, 2137500260, -1617182642, (short)-792116348) << std::endl;
+std::cout << aa4961N_I << c3dMyYl3Z(-1584343680) << k_2S << y400 << LJqNM4SQ_(W15La4, 2137500260, (short)-1617182642, (short)-792116348) << std::endl;
 i60aJc = (long double)(UHLt0lO0);
 m230K1XE = c3dMyYl3Z(t9kP6);
 JKCC_99 = LJqNM4SQ_(-1236224909, dXPK0231, TTSBg9k, z9TV1Ro);
@@ -249,7 +249,7 @@ ZQ69 = (f5CtIa6Bq <= qd96k) ? 1300050832 : 783596271;
 }
 else if (f5CtIa6Bq != X0Z4)
 {
-dXPK0231 = cU72(dXPK0231, pg5_Tu09YA, 213923848, (unsigned short)-958638758);
+dXPK0231 = cU72(dXPK0231, pg5_Tu09YA, (unsigned short)213923848, (unsigned short)-958638758);
 }
 else if ((dXPK0231 != 1033728143) && (izr5k7Cs <= 292182345))
 {

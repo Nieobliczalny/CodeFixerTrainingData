@@ -209,7 +209,7 @@ CR_5 = cDsOe9 / f8o9A9m;
 break;
 case 'i':
 case 'I':
-cDsOe9 = (dLO_3m1727) ? 785582640 : LpmGM1;
+cDsOe9 = (dLO_3m1727) ? (short)785582640 : LpmGM1;
 break;
 case 'j':
 case 'J':
@@ -247,7 +247,7 @@ cout << "hQpB" << endl;
 while (i >= 0);
 }
 
-UEkG_a = (Zslo_ != 1931808366) ? I_TlWmo : 1242264822;
+UEkG_a = (Zslo_ != 1931808366) ? I_TlWmo : (short)1242264822;
 
 cout << C2T_u << r0mX_4m5y << "lXtzdK" << endl;
 

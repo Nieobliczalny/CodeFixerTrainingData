@@ -20,7 +20,7 @@ unsigned int	YMv036O6F8(long long	EY7dm5hQAu,unsigned long	LxmTU,unsigned int	Cz
 int main()
 {
  unsigned short wl1wW67o8, ZXjNF, kZcSen2CZ3, Q330OQ, L2jS6H1, eUST, Z30B0zXpo3, D606wY, fOXaShF, QplE_5i3FE, c9hHU, pq93, Q_LHeyJw, mYxCUsRGX9, n9nWT, yQP8, w6Oe74E, lUzg_4GSaU, JsfcZJ__2R, z_e96ZJ2NZ, Z90M, P9ORx, w3R6R5Un, r9fplORkw, jzlWbFG8, IIfpSBKTU4, Du9PY, B4m9k39, uOUmr9, t3Bvkt9uMF, GTRJ43B2r, N264YD5Wfj, kE3ET, g4_G7ND, X1bi1, qE44_6SE, w410kVX2v, Veb25, y98Cui, F34flGF_yT, t6rT1i, fJcilApf, lkB_Mv, r5gCz7fc, C1csp2j2E, fviPF8H, TQ_034, M4Fo6Y8FR, mCow2H, GusyHE, EQ1L;
- wl1wW67o8 = 1151862278;
+ wl1wW67o8 = (unsigned short)1151862278;
  ZXjNF = (unsigned short)2041689912;
  kZcSen2CZ3 = 1648077576;
  Q330OQ = -1856592492;
@@ -30,7 +30,7 @@ int main()
  D606wY = 2084750576;
  fOXaShF = -775847494;
  QplE_5i3FE = -2062480023;
- c9hHU = -1492656474;
+ c9hHU = (unsigned short)-1492656474;
  pq93 = (unsigned short)1156694022;
  Q_LHeyJw = -1745551869;
  mYxCUsRGX9 = 896294736;
@@ -40,7 +40,7 @@ int main()
  lUzg_4GSaU = -298851887;
  JsfcZJ__2R = -1968917463;
  z_e96ZJ2NZ = 932656253;
- Z90M = -2127163426;
+ Z90M = (unsigned short)-2127163426;
  P9ORx = (unsigned short)-1383692697;
  w3R6R5Un = -1297907524;
  r9fplORkw = 1729781150;
@@ -50,7 +50,7 @@ int main()
  B4m9k39 = -1882263457;
  uOUmr9 = -1329864379;
  t3Bvkt9uMF = 1467306305;
- GTRJ43B2r = 1603241635;
+ GTRJ43B2r = (unsigned short)1603241635;
  N264YD5Wfj = (unsigned short)891384867;
  kE3ET = -1809425697;
  g4_G7ND = 1419409143;
@@ -60,7 +60,7 @@ int main()
  Veb25 = -1931225404;
  y98Cui = -253222672;
  F34flGF_yT = 938210505;
- t6rT1i = 696513980;
+ t6rT1i = (unsigned short)696513980;
  fJcilApf = (unsigned short)970045017;
  lkB_Mv = 206028766;
  r5gCz7fc = -1817458383;
@@ -70,7 +70,7 @@ int main()
  M4Fo6Y8FR = -767854353;
  mCow2H = 1598409858;
  GusyHE = 2090853245;
- EQ1L = 80633475;
+ EQ1L = (unsigned short)80633475;
     unsigned long    Q9E3,    aL_KD44Qhm;
     Q9E3    =    0;
     aL_KD44Qhm    =    0;
@@ -428,7 +428,7 @@ case 1:
 kE3ET -= Q330OQ;
 break;
 case 2:
-fOXaShF = (w6Oe74E & -721548876) ? 386038233 : (unsigned short)1324525783;
+fOXaShF = (w6Oe74E & -721548876) ? (unsigned short)386038233 : (unsigned short)1324525783;
 break;
 }
 }

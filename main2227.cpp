@@ -11,7 +11,7 @@ using namespace std;
 int main(void)
 {
  short ybeDgdeB_k;
- ybeDgdeB_k = -201126759;
+ ybeDgdeB_k = (short)-201126759;
 	float	ZkI5;
 	ZkI5	=	2078527957;
   unsigned short  RctZ;
@@ -27,7 +27,7 @@ int main(void)
   int  m1elwO1cU3;
   m1elwO1cU3  =  1095070531;
   unsigned char  Ls8epPR3;
-  Ls8epPR3  =  438073159;
+  Ls8epPR3  =  (unsigned char)438073159;
  unsigned char AF8Zs_095;
  AF8Zs_095 = (unsigned char)-610439615;
  long long R_qUcFas3Y;
@@ -37,7 +37,7 @@ int main(void)
  unsigned int iTj7;
  iTj7 = -1878105488;
   char  fx6r3K32n0;
-  fx6r3K32n0  =  -1221285066;
+  fx6r3K32n0  =  (char)-1221285066;
  int V0qEGSI;
  V0qEGSI = -2123026948;
   double  p9xyuk;
@@ -47,7 +47,7 @@ int main(void)
  long double rFKY8h;
  rFKY8h = 771394171;
 	short int	BTg0p;
-	BTg0p	=	289022715;
+	BTg0p	=	(short)289022715;
   short int  jV7W3c;
   jV7W3c  =  (short)-1257404514;
 	long long	b8WhI;
@@ -59,7 +59,7 @@ int main(void)
     unsigned int    oQR48ye1q2;
     oQR48ye1q2    =    -1733631194;
   short  R2debLF;
-  R2debLF  =  1159746674;
+  R2debLF  =  (short)1159746674;
   double  n_yyVk8;
   n_yyVk8  =  1170362147;
     char    xHON46fHc0;
@@ -71,7 +71,7 @@ int main(void)
  double Z_9Ys;
  Z_9Ys = -2087210311;
   unsigned short  jW455ax265;
-  jW455ax265  =  -1290608059;
+  jW455ax265  =  (unsigned short)-1290608059;
 	char	P9yUY92;
 	P9yUY92	=	(char)2024240802;
  unsigned long long x2y3;
@@ -83,7 +83,7 @@ int main(void)
     int    S4el;
     S4el    =    1065508027;
   short  X__M6;
-  X__M6  =  -2096531248;
+  X__M6  =  (short)-2096531248;
     unsigned char    S_PCP0487;
     S_PCP0487    =    (unsigned char)-727762295;
 	unsigned short	Xupu0Yyg2;
@@ -97,7 +97,7 @@ int main(void)
     unsigned long    qXvkE3d;
     qXvkE3d    =    -882389558;
     short int    WT7yW_omy;
-    WT7yW_omy    =    -547287520;
+    WT7yW_omy    =    (short)-547287520;
  int s81DDKCl4F;
  s81DDKCl4F = -2135492825;
  long double RSIlHOsg;
@@ -109,7 +109,7 @@ int main(void)
   double  yf7j850;
   yf7j850  =  2104790441;
   short int  mic0Okz;
-  mic0Okz  =  1537559941;
+  mic0Okz  =  (short)1537559941;
   unsigned short int  DU_Bw2475T;
   DU_Bw2475T  =  -866323358;
     unsigned long    swqABR9B9;
@@ -445,7 +445,7 @@ case 'c':
 mic0Okz &= 193735773;
 break;
 case 'd':
-R2debLF = (n_yyVk8 <= -1221897970) ? V0qEGSI : 1862667666;
+R2debLF = (n_yyVk8 <= -1221897970) ? V0qEGSI : (short)1862667666;
 break;
 default:
 YitX -= 512243170;

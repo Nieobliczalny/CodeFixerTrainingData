@@ -21,7 +21,7 @@ char RZ1G_(unsigned long o5D37,unsigned long long M7yIimAEY,long ch1z);
 int main(int argc, char** argv)
 {
     unsigned char    ul7n0o3;
-    ul7n0o3    =    1683857211;
+    ul7n0o3    =    (unsigned char)1683857211;
     char    v_JoSF2;
     v_JoSF2    =    (char)-579732032;
  short int Wd43zmn2V6;
@@ -33,7 +33,7 @@ int main(int argc, char** argv)
     unsigned long    WjA27i584_;
     WjA27i584_    =    0;
 	unsigned short	X46ur2hKf;
-	X46ur2hKf	=	1684061001;
+	X46ur2hKf	=	(unsigned short)1684061001;
   long  S062QxwCZ;
   S062QxwCZ  =  0;
     short    zSX55;
@@ -119,7 +119,7 @@ X46ur2hKf--;
 }
 else if (X46ur2hKf <= ay_fo_GlX)
 {
-WjA27i584_ = JAQ0Pe(-77324664, -177124263);
+WjA27i584_ = JAQ0Pe(-77324664, (short)-177124263);
 }
 else
 {
@@ -139,7 +139,7 @@ hv8ARt = v_JoSF2 ^ Fq7iSXc4t;
 }
 else if ((hv8ARt == 798264561) && (Fq7iSXc4t > P32X3nN))
 {
-S062QxwCZ = JAQ0Pe(P32X3nN, 1882977128);
+S062QxwCZ = JAQ0Pe(P32X3nN, (short)1882977128);
 }
 else if (WjA27i584_ > -1743739915)
 {
@@ -249,7 +249,7 @@ if ((P6g99RyM <= X46ur2hKf) && (NicCxnn < P6g99RyM))
 switch (S062QxwCZ)
 {
 case 0:
-zSX55 = JAQ0Pe(-1455487741, 142787201) >> 344037761;
+zSX55 = JAQ0Pe(-1455487741, (short)142787201) >> 344037761;
 break;
 case 1:
 ay_fo_GlX = gk6LU(877143776, 1233870759);
@@ -308,7 +308,7 @@ else
 {
 for (int k = 0; k < 3; ++k)
 {
-S062QxwCZ = JAQ0Pe(1260927289, 1771208275);
+S062QxwCZ = JAQ0Pe(1260927289, (short)1771208275);
 }
 }
 }
@@ -358,7 +358,7 @@ cout << v_JoSF2 << RZ1G_(v_JoSF2, -402433860, -1669598504) << gk6LU(v_JoSF2, 198
 switch (Fq7iSXc4t)
 {
 case 0:
-WjA27i584_ = JAQ0Pe(1457829899, -132525298);
+WjA27i584_ = JAQ0Pe(1457829899, (short)-132525298);
 break;
 case 1:
 X46ur2hKf = P_M1B16fKs();
@@ -373,7 +373,7 @@ return 0;
 
 char    Mkt51V8204(long    A0s1lc4I5,int    psXVF8Fs0)
 {
-    return    -430284128;
+    return    (char)-430284128;
 }
 
 char	JAQ0Pe(long	LzQQ,short	bTy79Gy1)
@@ -392,6 +392,6 @@ long long  gk6LU(unsigned long  U3CTc5Ec,unsigned long long  cvNL7Qh)
 
 char RZ1G_(unsigned long o5D37,unsigned long long M7yIimAEY,long ch1z)
 {
- return -592887584;
+ return (char)-592887584;
 }
 

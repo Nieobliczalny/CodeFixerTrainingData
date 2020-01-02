@@ -19,7 +19,7 @@ long long  jm98yH4GDn()
 
 unsigned short  vb3oK()
 {
-  return  -711161938;
+  return  (unsigned short)-711161938;
 }
 
 short int	IO48i3P(int	p6kR5o_Pf)	{
@@ -37,7 +37,7 @@ unsigned short  F7FF5C7_(long  vYS_x790_9)  {
 
 int main() {
  long long n8Llcg_a = -44931111;
-    unsigned short int    Dh9B1yAlc    =    -387388385;
+    unsigned short int    Dh9B1yAlc    =    (unsigned short)-387388385;
 	short int	FfA0	=	(short)554459295;
     float    tcoTH    =    -562247434;
     double    Q8M_    =    776036647;
@@ -49,7 +49,7 @@ int main() {
  unsigned long long eW9Dq3Oz9 = 1174202169;
 	unsigned long long	vgGiR9	=	-1101144035;
     short int    NJs_Pvh    =    0;
- short plrHYp3G9 = 1212370670;
+ short plrHYp3G9 = (short)1212370670;
   int  K5qsOK9  =  -1104249817;
  short int Wa1d0YHcDz = (short)995254991;
 	short int	QYoz1ko_	=	-1704088263;
@@ -60,7 +60,7 @@ int main() {
     char    Bt_h    =    1218116441;
   double  FF_wi  =  -1128482185;
 	float	x53N	=	-1951303272;
- short int e1460_r9i_ = 1219787072;
+ short int e1460_r9i_ = (short)1219787072;
   short int  Bv95PUVlvv  =  (short)1360266144;
 	char	S5f8q4R	=	-1545062813;
     long double    qUmok4F7    =    -612417949;
@@ -70,7 +70,7 @@ int main() {
  unsigned long long aE1P6J = 1226664061;
   float  G5E85kMe  =  1392491219;
  long long hee1aw4D = 667147013;
-    short    mIsA    =    -1280686711;
+    short    mIsA    =    (short)-1280686711;
     long double    C0Tg7BN1    =    303127161;
  unsigned int q0B_S = 2012430693;
 	long	SdfFQ6DFu8	=	-103270289;
@@ -81,7 +81,7 @@ int main() {
     unsigned char    Jl9mJ0y    =    221270143;
   double  HpQ22Dg  =  -762732658;
  double Efi_G = 1701854463;
- unsigned char FbJi4qC6mP = -658613834;
+ unsigned char FbJi4qC6mP = (unsigned char)-658613834;
     unsigned short int    CBfN00KpaZ    =    1602974778;
     unsigned char    E0oyOUgow    =    -2045200663;
     long    qB_I3sh6Jn    =    -1792807763;
@@ -95,7 +95,7 @@ int main() {
 	unsigned long long	KxZJN9Rq6	=	-366631071;
   double  NrtpvPe  =  -674727264;
  long l9e5r = -8030622;
-  char  hBo28e41  =  -1601029737;
+  char  hBo28e41  =  (char)-1601029737;
   unsigned long long  I717_H9D5f  =  -1079523194;
  long long aFxu65_ = -884405937;
     unsigned long    sj70    =    1136018452;

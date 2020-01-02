@@ -51,7 +51,7 @@ sT34AW = EE7126(sT34AW, Z7D1K6_);
 }
 
 std::cout << tBB7S0u2J8 << std::endl;
-VvV8Hc7XK_ = i9Iq(-1452233709, T08arP, 267588951, yYV8D5, (unsigned short)897745591);
+VvV8Hc7XK_ = i9Iq(-1452233709, T08arP, (unsigned short)267588951, yYV8D5, (unsigned short)897745591);
 {
 int i = 0;
 do
@@ -95,7 +95,7 @@ f7kdk4I -= JAV3ihCdJ;
 break;
 case 'd':
 case 'D':
-BFmb_ = x5eH(-185301598, I660Q_6h2, W6RCN, yYV8D5);
+BFmb_ = x5eH((short)-185301598, I660Q_6h2, W6RCN, yYV8D5);
 break;
 case 'e':
 case 'E':
@@ -159,7 +159,7 @@ bZ5TL0v4o = EE7126(bZ5TL0v4o, pLhI);
 break;
 case 'b':
 case 'B':
-HVM_9 = i9Iq(tBB7S0u2J8, -1189576050, -61881740, go0q57, h4XSk);
+HVM_9 = i9Iq(tBB7S0u2J8, -1189576050, (unsigned short)-61881740, go0q57, h4XSk);
 break;
 case 'c':
 case 'C':
@@ -175,7 +175,7 @@ I660Q_6h2--;
 break;
 case 'f':
 case 'F':
-St6007 = lH6821zz(-1157093803, pSIBN_EtL, 751810680);
+St6007 = lH6821zz((short)-1157093803, pSIBN_EtL, 751810680);
 break;
 case 'g':
 case 'G':
@@ -213,7 +213,7 @@ case 0:
 DYeX = EE7126(R01_, tBB7S0u2J8) * 1762635223;
 break;
 case 1:
-HVM_9 = i9Iq(R01_, 1793635064, HroL08, tBB7S0u2J8, 410938226);
+HVM_9 = i9Iq(R01_, 1793635064, HroL08, tBB7S0u2J8, (unsigned short)410938226);
 break;
 case 2:
 I660Q_6h2 = VvV8Hc7XK_ ^ 702208510;

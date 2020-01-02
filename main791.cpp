@@ -303,7 +303,7 @@ for (int j = 8; j >= 0; j--)
 {
 if (((QJmU6Kn >= 82768682) && (Uqbb2E)) && ((S3p9ri__ != O79b2Q) || (FctOY >= QBCy)))
 {
-QMGENt2 = (eJvqO != dTY90) ? 1998672628 : sspRg_3;
+QMGENt2 = (eJvqO != dTY90) ? (unsigned short)1998672628 : sspRg_3;
 }
 else
 {

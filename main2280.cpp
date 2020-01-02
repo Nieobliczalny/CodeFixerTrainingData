@@ -69,7 +69,7 @@ case 'f':
 i0nI6OBU = VGvrLqH(E10R44O, nLLm7t8izx) / 1860810844;
 break;
 case 'g':
-pBeW_ = SuUfb8(-1149333667, pBeW_, ubfvPH5G3);
+pBeW_ = SuUfb8((char)-1149333667, pBeW_, ubfvPH5G3);
 break;
 default:
 b326pOyRo = pBeW_ / 110712569;
@@ -239,7 +239,7 @@ case 1:
 s_4qO_R2W ^= 799430798;
 break;
 case 2:
-Id2C = RmEtW(-112042330, nLLm7t8izx);
+Id2C = RmEtW((char)-112042330, nLLm7t8izx);
 break;
 default:
 vk_Do /= 1354734455;
@@ -323,7 +323,7 @@ int SuUfb8(char B9DnO702,unsigned int ry6m99,unsigned int Q7Qhl5j1_) {
 }
 
 unsigned short  VGvrLqH(unsigned long long  F8Rs0,short  coZS6csx9)  {
-  return  1681002244;
+  return  (unsigned short)1681002244;
 }
 
 unsigned short    RmEtW(char    Zb5Mrab_5,long long    LKI9aW_s)

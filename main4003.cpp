@@ -8,7 +8,7 @@
 
 
 char ztumcKB11() {
- return -1027621177;
+ return (char)-1027621177;
 }
 
 unsigned int Hvk6j7() {
@@ -25,7 +25,7 @@ int main() {
     unsigned int    nJ_y5eZUI    =    -1399192226;
 	long long	p0Iiq_Kw_C	=	399664453;
   char  UFQi5ACh  =  0;
- char mu8oEE = -899532966;
+ char mu8oEE = (char)-899532966;
 	long double	P04fe7	=	1124172821;
 	short int	gMFvf1i	=	0;
 	long	d6q1QPc1	=	-1162439276;

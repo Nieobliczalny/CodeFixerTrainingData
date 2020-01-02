@@ -114,7 +114,7 @@ DV8xY = sdaKEJ();
 }
 else if ((b7mAj2HM8 >= -724962621) && (b7mAj2HM8 & X7juj5p7))
 {
-Z0i5B163_d = BgmG(-1736210396, y8FL4f44qj, F08MF6Zps, (unsigned short)-2059846732, X7juj5p7);
+Z0i5B163_d = BgmG((unsigned short)-1736210396, y8FL4f44qj, F08MF6Zps, (unsigned short)-2059846732, X7juj5p7);
 }
 else if (((fbd55Hu0L) || (X7juj5p7 != 2101385438)) || ((y8FL4f44qj & 1806752513) && (fbd55Hu0L & rak7V0ax)))
 {
@@ -151,7 +151,7 @@ while (k < 1);
 }
 else
 {
-q5J1jv = BgmG(26927449, q5J1jv, DV8xY, rak7V0ax, b7mAj2HM8);
+q5J1jv = BgmG((unsigned short)26927449, q5J1jv, DV8xY, rak7V0ax, b7mAj2HM8);
 }
 if (Y7Je4 & 1957245162)
 {
@@ -331,7 +331,7 @@ case 'c':
 q5J1jv |= X7juj5p7;
 break;
 case 'd':
-F08MF6Zps = BgmG(-1537710548, y8FL4f44qj, -771067011, b7mAj2HM8, q5J1jv);
+F08MF6Zps = BgmG((unsigned short)-1537710548, y8FL4f44qj, -771067011, b7mAj2HM8, q5J1jv);
 break;
 case 'e':
 q5J1jv = P7bw() + 1086413993;
@@ -347,7 +347,7 @@ try
 {
 if (X7juj5p7 <= 1008602263)
 {
-fbd55Hu0L = BgmG(922445882, -1698008171, -547020656, y8FL4f44qj, b7mAj2HM8);
+fbd55Hu0L = BgmG((unsigned short)922445882, -1698008171, -547020656, y8FL4f44qj, b7mAj2HM8);
 }
 }
 catch (int& errorCode)
@@ -402,7 +402,7 @@ case 3:
 b7mAj2HM8 &= F08MF6Zps;
 break;
 case 4:
-X7juj5p7 = BgmG(X7juj5p7, AJhDEmmAr, 697017320, 1216003827, -295750839);
+X7juj5p7 = BgmG(X7juj5p7, AJhDEmmAr, 697017320, (unsigned short)1216003827, -295750839);
 break;
 case 5:
 rak7V0ax = (rak7V0ax >= -1731795755) ? (unsigned char)-226162012 : fbd55Hu0L;
@@ -550,7 +550,7 @@ rak7V0ax = BgmG(rak7V0ax, 46648996, -995258633, AJhDEmmAr, Z0i5B163_d);
 }
 else if (Z0i5B163_d)
 {
-b7mAj2HM8 = BgmG(DV8xY, b7mAj2HM8, -2116342157, -106701724, 582586842);
+b7mAj2HM8 = BgmG(DV8xY, b7mAj2HM8, -2116342157, (unsigned short)-106701724, 582586842);
 }
 else
 {
@@ -599,7 +599,7 @@ X7juj5p7 = y8FL4f44qj % F08MF6Zps;
 }
 else
 {
-Y7Je4 = (y8FL4f44qj <= 1780640643) ? oAVoY(DV8xY) : -1862304300;
+Y7Je4 = (y8FL4f44qj <= 1780640643) ? oAVoY(DV8xY) : (unsigned char)-1862304300;
 }
 }
 else
@@ -662,7 +662,7 @@ rak7V0ax = P7bw();
 break;
 case 'e':
 case 'E':
-X7juj5p7 = BgmG(-2056341473, DV8xY, rak7V0ax, Y7Je4, -1700891942);
+X7juj5p7 = BgmG((unsigned short)-2056341473, DV8xY, rak7V0ax, Y7Je4, -1700891942);
 break;
 case 'f':
 case 'F':
@@ -685,7 +685,7 @@ case 'J':
 F08MF6Zps = Y7Je4 << 946900635;
 break;
 default:
-b7mAj2HM8 = (F08MF6Zps < X7juj5p7) ? Y7Je4 : 1362502222;
+b7mAj2HM8 = (F08MF6Zps < X7juj5p7) ? Y7Je4 : (unsigned char)1362502222;
 break;
 }
 }

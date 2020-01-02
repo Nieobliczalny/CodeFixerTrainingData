@@ -26,7 +26,7 @@ int main(int argc, char** argv)
  unsigned char ce2Z4L;
  ce2Z4L = 0;
   short  MRC3QwR_Dy;
-  MRC3QwR_Dy  =  -309870630;
+  MRC3QwR_Dy  =  (short)-309870630;
 	short int	Vdqn;
 	Vdqn	=	0;
 	short	HW_Lh;
@@ -41,7 +41,7 @@ while (i < 8)
 i++;
 try
 {
-cu6Tiz54y6 = v2IhR39(-706726575, sILthxY, (short)1807566534, 713163151);
+cu6Tiz54y6 = v2IhR39((unsigned short)-706726575, sILthxY, (short)1807566534, 713163151);
 }
 catch (int& errorCode)
 {
@@ -114,7 +114,7 @@ while (j < 2);
 }
 }
 
-std::cout << i4CtyprY9(440457702) << v2IhR39(1753134329, 40304654, (short)-976510392, 306086002) << std::endl;
+std::cout << i4CtyprY9(440457702) << v2IhR39((unsigned short)1753134329, 40304654, (short)-976510392, 306086002) << std::endl;
 
 MRC3QwR_Dy = sILthxY * 417743035;
 for (int i = 9; i >= 0; --i)
@@ -152,7 +152,7 @@ while (j < 3);
 
 sILthxY = (unsigned char)(Ve5Q45);
 
-MRC3QwR_Dy = -1102331897 / v2IhR39(cu6Tiz54y6, -730405017, -2144346167, sILthxY);
+MRC3QwR_Dy = -1102331897 / v2IhR39(cu6Tiz54y6, -730405017, (short)-2144346167, sILthxY);
 
 if (fH9nYXGW < -1027332111)
 {
@@ -165,7 +165,7 @@ int k = 0;
 while (k < 3)
 {
 k++;
-cu6Tiz54y6 = v2IhR39(HW_Lh, cu6Tiz54y6, 757701885, sILthxY);
+cu6Tiz54y6 = v2IhR39(HW_Lh, cu6Tiz54y6, (short)757701885, sILthxY);
 }
 }
 j--;

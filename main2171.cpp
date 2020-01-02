@@ -9,7 +9,7 @@
 using namespace std;
 
 int main(void) {
- short int gSpy8 = 2040838219;
+ short int gSpy8 = (short)2040838219;
     double    X1xjRK7    =    1817515303;
 	long long	tk7_1q56	=	1691969783;
     unsigned long    VlPmG62B2q    =    1040622719;
@@ -22,7 +22,7 @@ int main(void) {
  long C_QI7x4cJ = -1846828426;
  unsigned int IuAbHuUWd0 = 1901702077;
  int D84A = 648376939;
-	short int	fZQl6u	=	1796668386;
+	short int	fZQl6u	=	(short)1796668386;
 	float	tpU_4f724B	=	149373673;
  unsigned long miSe_O_g3L = -1822733814;
     double    VT21    =    2005592955;
@@ -32,7 +32,7 @@ int main(void) {
 	unsigned long	TX51wa_	=	425924769;
   short  FX76V0A  =  1283385728;
   unsigned char  U2t9tyD  =  366016051;
-    unsigned short int    p0dTTkFX    =    629839474;
+    unsigned short int    p0dTTkFX    =    (unsigned short)629839474;
   short int  Xindyb71b  =  1400542593;
   float  SZDD2n3g  =  1590222502;
 	unsigned long	NnlZ	=	-1726939364;
@@ -44,7 +44,7 @@ int main(void) {
     unsigned int    E8Xdjjga    =    707536140;
  unsigned long WeNvJfx5T5 = -1377273404;
 	unsigned long long	l5S18	=	-943115632;
-    unsigned short    hFa33WG1Y    =    -784082088;
+    unsigned short    hFa33WG1Y    =    (unsigned short)-784082088;
 	short int	Svl8W4h8zD	=	1903866444;
 	unsigned char	BPXE	=	-2116116634;
  char HcQ2 = (char)2075101058;

@@ -13,7 +13,7 @@ using std::ceil;
 using std::floor;
 
 int main(int argc, char** argv) {
-  unsigned short int  d697pL_YWY  =  -255598222;
+  unsigned short int  d697pL_YWY  =  (unsigned short)-255598222;
   unsigned short int  aIuXU_4p  =  (unsigned short)-1341816424;
 	long long	Y233	=	524520609;
  long double e7w23M = -1453882652;
@@ -23,7 +23,7 @@ int main(int argc, char** argv) {
   unsigned long long  Lje_mBX  =  1008125005;
  char RSX0_x = 731301175;
   unsigned char  txXaJUKAw7  =  2033163382;
-    unsigned short int    L0m8H35MUr    =    470575572;
+    unsigned short int    L0m8H35MUr    =    (unsigned short)470575572;
     long    p01n4N    =    1737737647;
   short  LxLS5  =  (short)-1560482449;
 	short	kF7Kqo	=	-1212637647;
@@ -64,7 +64,7 @@ L0m8H35MUr = d697pL_YWY % 393724365;
 break;
 case 'b':
 case 'B':
-aIuXU_4p = (tiBf) ? E94bP : 310465118;
+aIuXU_4p = (tiBf) ? E94bP : (unsigned short)310465118;
 break;
 }
 }

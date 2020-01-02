@@ -34,7 +34,7 @@ unsigned long	LN64I5mJ(unsigned short int	BOpg9,unsigned short int	EBH_oho8,char
 int main(int argc, char** argv)
 {
     unsigned long    c6_2_78    =    0;
- unsigned short UucY1t5 = -751935817;
+ unsigned short UucY1t5 = (unsigned short)-751935817;
  unsigned short LCuIffELY = (unsigned short)-1682784941;
     unsigned long long    Bhiwgg2Ac9    =    220118136;
   int  INH34p6  =  -25137738;
@@ -46,7 +46,7 @@ int main(int argc, char** argv)
  unsigned short int g2uQoB1 = -201055362;
 	unsigned int	i5XXRR3	=	-312101375;
 	unsigned char	pd9qAu_w75	=	0;
-    short int    sWAFrs9W    =    794286734;
+    short int    sWAFrs9W    =    (short)794286734;
 	double	XV02	=	-177810284;
     unsigned long    F824    =    -279778535;
  unsigned short int LiY7gg = 0;
@@ -56,7 +56,7 @@ int main(int argc, char** argv)
  long bb82E6 = 1342898973;
  unsigned short int e9SmlXp17_ = -1083892608;
  unsigned long long BU3bI_1e = 354589105;
-  short int  td50  =  -1712373492;
+  short int  td50  =  (short)-1712373492;
 
 std::cout << LN64I5mJ(Sia9us2S, -162242837, hr_rkN8j3, 144478605, 649987752) << std::endl;
 
@@ -78,7 +78,7 @@ try
 {
 for (int k = 0; k < 1; ++k)
 {
-kK1N7uj = g00l0(363535531, e9SmlXp17_, Sy6yA);
+kK1N7uj = g00l0((short)363535531, e9SmlXp17_, Sy6yA);
 }
 }
 catch (int& errorCode)

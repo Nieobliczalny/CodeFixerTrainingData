@@ -17,7 +17,7 @@ using std::floor;
 
 char  jW597Gd08B(short int  S63p7X)
 {
-  return  76059290;
+  return  (char)76059290;
 }
 
 int    VXh35qb()    {
@@ -50,7 +50,7 @@ int main(void) {
 	unsigned int	LuWU79h3m;
 	LuWU79h3m	=	0;
 	unsigned short int	t4Xf;
-	t4Xf	=	-554144072;
+	t4Xf	=	(unsigned short)-554144072;
     short int    h713h57eu2;
     h713h57eu2    =    0;
 
@@ -69,7 +69,7 @@ JbmRVzF7 = (int)(fZ3b);
 }
 else
 {
-KedUnS = Ig8m(J7_9lzD_, KedUnS, -1604179429, (short)-307806272, 1118722440);
+KedUnS = Ig8m(J7_9lzD_, KedUnS, (short)-1604179429, (short)-307806272, 1118722440);
 }
 switch (h713h57eu2)
 {
@@ -80,7 +80,7 @@ case 1:
 t4Xf >>= JbmRVzF7;
 break;
 case 2:
-J7_9lzD_ = u5lR(1144152765, -1385308457, JbmRVzF7, P81dd33HS, 1082858954);
+J7_9lzD_ = u5lR((short)1144152765, -1385308457, JbmRVzF7, P81dd33HS, 1082858954);
 break;
 case 3:
 t4Xf ^= JbmRVzF7;

@@ -15,7 +15,7 @@ using namespace std;
 
 char	mJwBqB(char	yGWxM5r78,unsigned long long	U_6w0,long	HvVBToR0x7,unsigned long	FlYYH1WNw,unsigned short	Ad33VIxAHt)
 {
-	return	501595598;
+	return	(char)501595598;
 }
 
 long long	h48a(short int	dVgSmpbiyf,long	tUVcEqk,int	uaaHv,char	GDTz,long	MZ82WqD_)	{
@@ -29,7 +29,7 @@ char    dF6h19__E(unsigned short int    z2j6tM8_8,unsigned short int    G29W_,lo
 
 short int bA7Y(unsigned long g9lb_,unsigned short RbG3,unsigned long long IKzZV5NZda,unsigned short int RO8rhS6fpS,short int Yp40lPV)
 {
- return 664275444;
+ return (short)664275444;
 }
 
 char	QlXDwvG1(unsigned char	p3B95u,int	wG_Ka0TW9,unsigned char	gI7QidgvfM,short int	in7BS4N223,unsigned char	y6RwlOLd8b)
@@ -91,7 +91,7 @@ zKM2Q3 += CD5nmJ;
 }
 }
 
-F_l0WuX6p = mJwBqB(szM6dF7, V59ct25, 969841454, -386723887, -148178419) >> 149987462;
+F_l0WuX6p = mJwBqB(szM6dF7, V59ct25, 969841454, -386723887, (unsigned short)-148178419) >> 149987462;
 
 zKM2Q3 = (int)ceil(F_l0WuX6p);
 
@@ -107,7 +107,7 @@ if (u6QIS9YiTq < LK44hh)
 {
 for (int k = 7; k >= 0; --k)
 {
-U741 = dF6h19__E(675402358, (unsigned short)1328510333, -1812259100);
+U741 = dF6h19__E((unsigned short)675402358, (unsigned short)1328510333, -1812259100);
 }
 }
 else
@@ -122,7 +122,7 @@ break;
 --i;
 }
 }
-cout << QlXDwvG1(TGC_p43Ie6, -2050048125, szM6dF7, -833488994, (unsigned char)2066560676) << QlXDwvG1(1546802043, 1772075859, szM6dF7, fMCk5cJt5e, 1050801106) << h48a(-1771957076, 1838978204, szM6dF7, 669087594, e_2h09) << endl;
+cout << QlXDwvG1(TGC_p43Ie6, -2050048125, szM6dF7, (short)-833488994, (unsigned char)2066560676) << QlXDwvG1(1546802043, 1772075859, szM6dF7, fMCk5cJt5e, 1050801106) << h48a(-1771957076, 1838978204, szM6dF7, 669087594, e_2h09) << endl;
 
 zt_HuE = bA7Y(zt_HuE, u6QIS9YiTq, bzTMPil4T, 696592862, -1869594014);
 cout << CD5nmJ << dF6h19__E(zt_HuE, u6QIS9YiTq, -146538911) << "g4hP01_4" << "lKR69_Mt" << endl;
@@ -136,7 +136,7 @@ jkpVVyo = (int)floor(szM6dF7);
 }
 else if (u6QIS9YiTq > L_kvmN02)
 {
-zKM2Q3 = dF6h19__E(1902556439, (unsigned short)-1961571466, 264121259);
+zKM2Q3 = dF6h19__E((unsigned short)1902556439, (unsigned short)-1961571466, 264121259);
 }
 else if (((fMCk5cJt5e < CD5nmJ) || (V59ct25 <= -1315945898)) || (NhS8tpc))
 {
@@ -178,7 +178,7 @@ jkpVVyo = QlXDwvG1(jkpVVyo, -1034400645, e_2h09, zt_HuE, U741);
 }
 else
 {
-F_l0WuX6p = dF6h19__E(-206189867, U741, L_kvmN02);
+F_l0WuX6p = dF6h19__E((unsigned short)-206189867, U741, L_kvmN02);
 }
 cout << zt_HuE << TGC_p43Ie6 << bzTMPil4T << QlXDwvG1(F_l0WuX6p, U741, L_kvmN02, jkpVVyo, (unsigned char)1021951721) << "aq44QR9" << endl;
 
@@ -193,7 +193,7 @@ U741 = (int)abs(nG5rv3e);
 }
 else if (L_kvmN02 & -1106543997)
 {
-cout << zKM2Q3 << mJwBqB(2004177242, -1175498165, 448880906, -919008450, (unsigned short)1391777894) << h48a(F_l0WuX6p, 320206524, -1253185030, -1605057821, TGC_p43Ie6) << endl;
+cout << zKM2Q3 << mJwBqB((char)2004177242, -1175498165, 448880906, -919008450, (unsigned short)1391777894) << h48a(F_l0WuX6p, 320206524, -1253185030, -1605057821, TGC_p43Ie6) << endl;
 }
 else if (szM6dF7 != V59ct25)
 {
@@ -226,7 +226,7 @@ zt_HuE /= e_2h09;
 
 V59ct25 -= 471064470;
 
-L_kvmN02 = h48a(L_kvmN02, 1294180306, -1724819213, -945073045, -414451977);
+L_kvmN02 = h48a(L_kvmN02, 1294180306, -1724819213, (char)-945073045, -414451977);
 
 try
 {
@@ -255,7 +255,7 @@ TGC_p43Ie6 = (e_2h09 >= 1996153155) ? dF6h19__E(L_kvmN02, szM6dF7, -1534765974) 
 int i = 0;
 do
 {
-cout << CD5nmJ << QlXDwvG1(L_kvmN02, szM6dF7, 1029408330, (short)-1133956174, -448409956) << h48a(L_kvmN02, 1686937177, F_l0WuX6p, NhS8tpc, 993095338) << u6QIS9YiTq << endl;
+cout << CD5nmJ << QlXDwvG1(L_kvmN02, szM6dF7, (unsigned char)1029408330, (short)-1133956174, -448409956) << h48a(L_kvmN02, 1686937177, F_l0WuX6p, NhS8tpc, 993095338) << u6QIS9YiTq << endl;
 i++;
 }
 while (i < 7);
@@ -315,7 +315,7 @@ L_kvmN02 = h48a(-98474551, NhS8tpc, fMCk5cJt5e, F_l0WuX6p, 1032801335);
 }
 }
 CD5nmJ = (long double)(wN359YVV5L);
-L_kvmN02 = h48a(V59ct25, zKM2Q3, nG5rv3e, 1764306258, 170408035);
+L_kvmN02 = h48a(V59ct25, zKM2Q3, nG5rv3e, (char)1764306258, 170408035);
 
 return 0;
 }

@@ -27,7 +27,7 @@ long long Z7Q9tW6o(char KV7P1Vo8n,long ltJeCW,unsigned short Pj4K,unsigned int H
 
 unsigned short int X7hW1hE(unsigned short P4pC2)
 {
- return 464345364;
+ return (unsigned short)464345364;
 }
 
 int main(int argc, char** argv) {
@@ -46,7 +46,7 @@ int main(int argc, char** argv) {
  unsigned long long J9E2nb;
  J9E2nb = 0;
  short int ajU04;
- ajU04 = -103048282;
+ ajU04 = (short)-103048282;
  unsigned char R99wjxy;
  R99wjxy = (unsigned char)-1771239306;
  long double mjDS_8B;
@@ -56,7 +56,7 @@ int main(int argc, char** argv) {
   unsigned char  x26c;
   x26c  =  1746799870;
     unsigned short int    Gb0n_c_H;
-    Gb0n_c_H    =    1559905939;
+    Gb0n_c_H    =    (unsigned short)1559905939;
     unsigned long long    Z_KmvrDP_0;
     Z_KmvrDP_0    =    -852551642;
     long long    O__nf03tB;
@@ -66,7 +66,7 @@ int main(int argc, char** argv) {
     short    g4JLAe;
     g4JLAe    =    (short)1173766041;
 	unsigned char	X5ZI;
-	X5ZI	=	-873618444;
+	X5ZI	=	(unsigned char)-873618444;
 	unsigned long	BC1C1x0;
 	BC1C1x0	=	1206599857;
  char g745a;
@@ -80,7 +80,7 @@ int main(int argc, char** argv) {
  long double yas31_83;
  yas31_83 = 1494072399;
 	char	fw2P6;
-	fw2P6	=	1937175058;
+	fw2P6	=	(char)1937175058;
   unsigned long long  hfIE5;
   hfIE5  =  -1718706884;
     short    u935;
@@ -90,7 +90,7 @@ int main(int argc, char** argv) {
   long long  sOxgB3h3;
   sOxgB3h3  =  -1089807345;
  unsigned char KJ_R_O;
- KJ_R_O = 289638995;
+ KJ_R_O = (unsigned char)289638995;
  unsigned short int g_JgcP;
  g_JgcP = -1174863663;
  double y1f62;
@@ -100,7 +100,7 @@ int main(int argc, char** argv) {
   unsigned long  p8kDbx7N;
   p8kDbx7N  =  -1417240769;
   unsigned char  ydkz;
-  ydkz  =  -518242547;
+  ydkz  =  (unsigned char)-518242547;
  unsigned long c14MC;
  c14MC = -1040754066;
 	unsigned short	DzoY8DxP;
@@ -122,7 +122,7 @@ int main(int argc, char** argv) {
 	long	KWClMj5LR;
 	KWClMj5LR	=	920568079;
   unsigned char  ukuC6huv;
-  ukuC6huv  =  54930994;
+  ukuC6huv  =  (unsigned char)54930994;
  short Jw3AwY;
  Jw3AwY = (short)1816762208;
     unsigned int    k_269biPN0;
@@ -132,7 +132,7 @@ int main(int argc, char** argv) {
     unsigned short int    ed8D;
     ed8D    =    -851587408;
 	short int	wW7XN_L;
-	wW7XN_L	=	622912734;
+	wW7XN_L	=	(short)622912734;
  unsigned int V8lKJqb;
  V8lKJqb = 1756502785;
     double    D1Q2;
@@ -142,7 +142,7 @@ int main(int argc, char** argv) {
   long long  Bf4uK1;
   Bf4uK1  =  427416053;
     short int    MJRyRCa8U;
-    MJRyRCa8U    =    -915735792;
+    MJRyRCa8U    =    (short)-915735792;
   short  XIHt06n;
   XIHt06n  =  (short)-1919942161;
     unsigned int    Ujyt5;
@@ -152,7 +152,7 @@ int main(int argc, char** argv) {
     unsigned short int    JX_HH6;
     JX_HH6    =    1130734969;
   unsigned short  g7_89h7mQ7;
-  g7_89h7mQ7  =  1375161864;
+  g7_89h7mQ7  =  (unsigned short)1375161864;
     long double    Tk2f646CZ;
     Tk2f646CZ    =    -1429823444;
  short int k76RIveF3;
@@ -162,7 +162,7 @@ int main(int argc, char** argv) {
 	long double	tq88;
 	tq88	=	-783849087;
   char  K4Pe4__6AR;
-  K4Pe4__6AR  =  1147326708;
+  K4Pe4__6AR  =  (char)1147326708;
  unsigned short int YFu3l;
  YFu3l = -891204421;
   double  E3Rxj;
@@ -178,7 +178,7 @@ int main(int argc, char** argv) {
     double    nxA7fEB12i;
     nxA7fEB12i    =    1072007677;
     unsigned short    VCGrlk7q4;
-    VCGrlk7q4    =    1592688796;
+    VCGrlk7q4    =    (unsigned short)1592688796;
 	short int	c1r_w9ot;
 	c1r_w9ot	=	(short)-2094275594;
 	long	S050_bB;
@@ -190,7 +190,7 @@ int main(int argc, char** argv) {
   unsigned long  jBN6;
   jBN6  =  -1993448199;
 	unsigned short	He9KIek27Q;
-	He9KIek27Q	=	-337354631;
+	He9KIek27Q	=	(unsigned short)-337354631;
     short    L747Ne2_4_;
     L747Ne2_4_    =    (short)-1257395512;
 
@@ -211,7 +211,7 @@ else
 {
 if (J9E2nb < -1048774607)
 {
-zp_97_K1 = a_CUr(P_Z448, -7859487, ajU04);
+zp_97_K1 = a_CUr(P_Z448, (short)-7859487, ajU04);
 }
 else if (yas31_83)
 {
@@ -227,7 +227,7 @@ gI25J = (long long)(p5R89k1rsw);
 
 std::cout << "n3NEXSM" << "v6Zz5K46" << hfIE5 << "m6ggk_1x" << std::endl;
 
-std::cout << mMYlA(P_Z448, zp_97_K1, ajU04) << ed8D << peDn(-660984862, zp_97_K1) << EKXbsQhX_I << std::endl;
+std::cout << mMYlA(P_Z448, zp_97_K1, ajU04) << ed8D << peDn((char)-660984862, zp_97_K1) << EKXbsQhX_I << std::endl;
 
 c1r_w9ot = F6_Uy9A9q3 / Y69yjN;
 
@@ -251,7 +251,7 @@ else
 switch (ajU04)
 {
 case 0:
-f42ee = peDn(2098716046, -1518915215);
+f42ee = peDn((char)2098716046, -1518915215);
 break;
 case 1:
 R99wjxy |= 235500488;
@@ -266,7 +266,7 @@ case 4:
 V160i2AL |= 334552401;
 break;
 case 5:
-P_Z448 = Z7Q9tW6o(1705131403, 1668914939, utVf, 1987464220);
+P_Z448 = Z7Q9tW6o((char)1705131403, 1668914939, utVf, 1987464220);
 break;
 case 6:
 ajU04 = L747Ne2_4_ + 1582923276;

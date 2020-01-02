@@ -18,7 +18,7 @@ int main()
 {
 	unsigned long	R98eeN	=	-941267269;
     unsigned long long    bO8TEgu    =    1651556301;
-    char    o5E756L3K_    =    1660399641;
+    char    o5E756L3K_    =    (char)1660399641;
 	long	M011C8d4DJ	=	695169986;
   char  Bb0Mx7ct4  =  (char)1656828350;
  unsigned char VDh9 = 1903855925;
@@ -37,7 +37,7 @@ int main()
   int  mRE95c  =  1050329799;
   long long  y55U1y  =  -931471017;
 	long long	nZs80uR	=	-1387937175;
- short int JTwD = -1988273941;
+ short int JTwD = (short)-1988273941;
 	unsigned long	Q8eE956hW	=	2139871540;
 	unsigned long	Fuz33b_	=	-1849365324;
     char    QP_4_2    =    (char)939691947;
@@ -53,7 +53,7 @@ int main()
   unsigned long  MH9udGV  =  -1240178173;
   long double  Y__nyNfB  =  -536362523;
 	long long	X4LPi4M	=	-365919462;
-    short    lSr3    =    44553910;
+    short    lSr3    =    (short)44553910;
     unsigned short    VZ_3r    =    (unsigned short)22046431;
 	short int	Lo8otjY8	=	0;
   char  f77_6b_  =  -1228565385;
@@ -64,7 +64,7 @@ int main()
     short    nUl5    =    225564822;
     long double    Bh2u20    =    1792888285;
 	float	gvVKC	=	-1033790018;
- char sv_Vl61 = -110607808;
+ char sv_Vl61 = (char)-110607808;
     unsigned char    UTf9J5y    =    (unsigned char)-602599309;
   unsigned long  V8Q9Y_N6  =  0;
  long QZ65W = -856579672;
@@ -77,7 +77,7 @@ int main()
 	double	qi7m3	=	544218064;
   int  c_hc4vt  =  -2127116941;
 
-Bh2u20 = t5aqrXO(Bh2u20, 975558134, -646370108, MH9udGV);
+Bh2u20 = t5aqrXO(Bh2u20, (char)975558134, -646370108, MH9udGV);
 
 switch (Z1D54cTV7Y)
 {
@@ -108,7 +108,7 @@ while (j < 1);
 }
 }
 }
-std::cout << "AmOwtgN0tr" << c_hc4vt << "um4qTF" << t5aqrXO(V8Q9Y_N6, 1098114359, R98eeN, NHa2M) << t5aqrXO(V8Q9Y_N6, (char)-1861391197, R98eeN, NHa2M) << std::endl;
+std::cout << "AmOwtgN0tr" << c_hc4vt << "um4qTF" << t5aqrXO(V8Q9Y_N6, (char)1098114359, R98eeN, NHa2M) << t5aqrXO(V8Q9Y_N6, (char)-1861391197, R98eeN, NHa2M) << std::endl;
 try
 {
 sv_Vl61 = X592_ + 1731335016;
@@ -118,7 +118,7 @@ catch (int& errorCode)
 Bh2u20 = (int)floor(nHXxOk7ms6);
 }
 
-z147 = t5aqrXO(z147, 634570008, HDyZN, -326911870);
+z147 = t5aqrXO(z147, (char)634570008, HDyZN, -326911870);
 if (y2alY717j_)
 {
 if (NHa2M > 604567169)
@@ -136,7 +136,7 @@ try
 {
 if (I8BAtR > 368388564)
 {
-VDh9 = t5aqrXO(VDh9, 1425704408, 1516059847, 239503048);
+VDh9 = t5aqrXO(VDh9, (char)1425704408, 1516059847, 239503048);
 }
 else if (QZ65W)
 {
@@ -191,7 +191,7 @@ Y__nyNfB = t5aqrXO(Y__nyNfB, QP_4_2, -836002463, 1603155796);
 
 v3UjXMwsvc >>= HDyZN;
 
-RF1C2lgi = t5aqrXO(RF1C2lgi, -391328822, v3UjXMwsvc, JB70yXT0R1);
+RF1C2lgi = t5aqrXO(RF1C2lgi, (char)-391328822, v3UjXMwsvc, JB70yXT0R1);
 
 {
 int i = 8;
@@ -218,7 +218,7 @@ if (QZ65W <= bO8TEgu)
 {
 if (Z1D54cTV7Y >= 1020845306)
 {
-std::cout << mRE95c << W6Iu2KJ(-2028268200, -1504423378, v3UjXMwsvc, (unsigned short)-219921620, C7S4Iz) << std::endl;
+std::cout << mRE95c << W6Iu2KJ(-2028268200, (short)-1504423378, v3UjXMwsvc, (unsigned short)-219921620, C7S4Iz) << std::endl;
 }
 else if ((y55U1y != V8Q9Y_N6) || (Z1D54cTV7Y))
 {
@@ -252,7 +252,7 @@ mRE95c = t5aqrXO(mRE95c, RF1C2lgi, -568752772, 1694209323);
 }
 else
 {
-RF1C2lgi = t5aqrXO(-1485094131, -1225823500, fvIPdr, C7S4Iz);
+RF1C2lgi = t5aqrXO(-1485094131, (char)-1225823500, fvIPdr, C7S4Iz);
 }
 }
 else if (H69H0x_Qh != vP5g)
@@ -311,7 +311,7 @@ case 4:
 Q8eE956hW = F3xlE7 | X4LPi4M;
 break;
 case 5:
-z147 = t5aqrXO(z147, -2022755296, Y__nyNfB, HDyZN);
+z147 = t5aqrXO(z147, (char)-2022755296, Y__nyNfB, HDyZN);
 break;
 case 6:
 F3xlE7--;
@@ -334,7 +334,7 @@ CshV *= o5E756L3K_;
 break;
 case 'b':
 case 'B':
-c2W8Hlf = t5aqrXO(861962258, 1681127554, JTwD, 1192965055);
+c2W8Hlf = t5aqrXO(861962258, (char)1681127554, JTwD, 1192965055);
 break;
 case 'c':
 case 'C':
@@ -345,7 +345,7 @@ case 'D':
 Y__nyNfB = (int)floor(NHa2M);
 break;
 default:
-nZs80uR = t5aqrXO(nZs80uR, -817170499, Lo8otjY8, 113807141);
+nZs80uR = t5aqrXO(nZs80uR, (char)-817170499, Lo8otjY8, 113807141);
 break;
 }
 }
@@ -381,7 +381,7 @@ while (k >= 0);
 }
 Q8eE956hW = (unsigned long)(kqRC7G1U);
 
-std::cout << t5aqrXO(C4l55S4GW, -1398302369, O_LmO, dCw81) << nHXxOk7ms6 << "ZF_8Z3fE" << F3xlE7 << std::endl;
+std::cout << t5aqrXO(C4l55S4GW, (char)-1398302369, O_LmO, dCw81) << nHXxOk7ms6 << "ZF_8Z3fE" << F3xlE7 << std::endl;
 for (int i = 0; i < 3; ++i)
 {
 switch (QP_4_2)

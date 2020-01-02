@@ -18,7 +18,7 @@ unsigned long long    Lf6JhUW(unsigned char    ZDVBLzJ8_y,long long    N_iaAX,lo
 
 unsigned short	rXceeg(unsigned long	u85ajL1_,unsigned int	rLln_8l61)
 {
-	return	1403365912;
+	return	(unsigned short)1403365912;
 }
 
 int main(int argc, char** argv)
@@ -28,7 +28,7 @@ int main(int argc, char** argv)
   IIz_S_T4M  =  0;
   c_vQ2  =  0;
  char DG45M, p8_IH_;
- DG45M = -2046348349;
+ DG45M = (char)-2046348349;
  p8_IH_ = (char)1747487191;
 
 if (c_vQ2 & wG3eTw8)
@@ -82,7 +82,7 @@ k++;
 }
 else if (c_vQ2 < -516624779)
 {
-cout << A9J72Z9() << Lf6JhUW(1497040278, -317177827, wG3eTw8, (char)-1964786895) << rXceeg(-1318669621, c_vQ2) << A9J72Z9() << p8_IH_ << endl;
+cout << A9J72Z9() << Lf6JhUW((unsigned char)1497040278, -317177827, wG3eTw8, (char)-1964786895) << rXceeg(-1318669621, c_vQ2) << A9J72Z9() << p8_IH_ << endl;
 }
 else if (c_vQ2 == IIz_S_T4M)
 {
@@ -114,7 +114,7 @@ int k = 9;
 do
 {
 k--;
-DG45M = (IIz_S_T4M & DG45M) ? A9J72Z9() : -1379096832;
+DG45M = (IIz_S_T4M & DG45M) ? A9J72Z9() : (char)-1379096832;
 }
 while (k >= 0);
 }
@@ -136,7 +136,7 @@ DG45M = (char)(wG3eTw8 + (1411013000));
 }
 if (p8_IH_)
 {
-DG45M = Lf6JhUW(222611837, DG45M, -1788310578, c_vQ2);
+DG45M = Lf6JhUW((unsigned char)222611837, DG45M, -1788310578, c_vQ2);
 }
 wG3eTw8 = (unsigned short int)(DG45M * wG3eTw8);
 if ((wG3eTw8 == 1522804984) || (p8_IH_ <= -1247253131))
@@ -153,7 +153,7 @@ cout << "s18N279" << endl;
 }
 else
 {
-DG45M = Lf6JhUW(173383125, DG45M, -705893218, IIz_S_T4M);
+DG45M = Lf6JhUW((unsigned char)173383125, DG45M, -705893218, IIz_S_T4M);
 }
 try
 {
@@ -214,7 +214,7 @@ if (DG45M > -1670169507)
 int k = 0;
 while (k < 1)
 {
-p8_IH_ = Lf6JhUW(-77550706, c_vQ2, p8_IH_, IIz_S_T4M);
+p8_IH_ = Lf6JhUW((unsigned char)-77550706, c_vQ2, p8_IH_, IIz_S_T4M);
 k++;
 }
 }
@@ -242,7 +242,7 @@ case 1:
 p8_IH_ = DG45M | 1697929984;
 break;
 case 2:
-DG45M = Lf6JhUW(DG45M, 1153760103, c_vQ2, 1332818483);
+DG45M = Lf6JhUW(DG45M, 1153760103, c_vQ2, (char)1332818483);
 break;
 case 3:
 DG45M = A9J72Z9() >> 1714512292;
@@ -260,7 +260,7 @@ case 7:
 c_vQ2 = A9J72Z9();
 break;
 case 8:
-p8_IH_ = Lf6JhUW(2052212555, c_vQ2, -2085112437, IIz_S_T4M);
+p8_IH_ = Lf6JhUW((unsigned char)2052212555, c_vQ2, -2085112437, IIz_S_T4M);
 break;
 }
 }
@@ -306,7 +306,7 @@ else if (IIz_S_T4M & -1752812485)
 {
 if (IIz_S_T4M != -1333272417)
 {
-DG45M = Lf6JhUW(1924392212, c_vQ2, 1779534515, DG45M);
+DG45M = Lf6JhUW((unsigned char)1924392212, c_vQ2, 1779534515, DG45M);
 }
 else
 {
@@ -338,7 +338,7 @@ wG3eTw8 = A9J72Z9();
 }
 else if (DG45M > -790806401)
 {
-DG45M = Lf6JhUW(DG45M, -1663425264, wG3eTw8, -912679196);
+DG45M = Lf6JhUW(DG45M, -1663425264, wG3eTw8, (char)-912679196);
 }
 else if (c_vQ2 > 922349563)
 {
@@ -388,7 +388,7 @@ DG45M ^= p8_IH_;
 }
 else
 {
-cout << "B_70PeO" << A9J72Z9() << DG45M << c_vQ2 << Lf6JhUW(p8_IH_, 1631979200, IIz_S_T4M, 1819366419) << endl;
+cout << "B_70PeO" << A9J72Z9() << DG45M << c_vQ2 << Lf6JhUW(p8_IH_, 1631979200, IIz_S_T4M, (char)1819366419) << endl;
 }
 if (IIz_S_T4M > -64091101)
 {
@@ -411,7 +411,7 @@ wG3eTw8 = A9J72Z9();
 }
 else if (IIz_S_T4M == 114090467)
 {
-cout << "eLT4IC" << Lf6JhUW(-849595304, -498395906, DG45M, (char)-1558048177) << DG45M << endl;
+cout << "eLT4IC" << Lf6JhUW((unsigned char)-849595304, -498395906, DG45M, (char)-1558048177) << DG45M << endl;
 }
 else
 {
@@ -542,7 +542,7 @@ case 6:
 p8_IH_ |= 803142072;
 break;
 case 7:
-p8_IH_ = Lf6JhUW(p8_IH_, 776992518, 2035415747, -2015377051);
+p8_IH_ = Lf6JhUW(p8_IH_, 776992518, 2035415747, (char)-2015377051);
 break;
 }
 
@@ -598,7 +598,7 @@ try
 {
 if ((p8_IH_ & DG45M) || ((c_vQ2 == -1516647212) || (c_vQ2 == 428342663)))
 {
-cout << "Ms3_ZM1T74" << Lf6JhUW(2139354472, 939493731, IIz_S_T4M, c_vQ2) << Lf6JhUW((unsigned char)-1645822477, p8_IH_, IIz_S_T4M, c_vQ2) << "GM3AXYN3H" << endl;
+cout << "Ms3_ZM1T74" << Lf6JhUW((unsigned char)2139354472, 939493731, IIz_S_T4M, c_vQ2) << Lf6JhUW((unsigned char)-1645822477, p8_IH_, IIz_S_T4M, c_vQ2) << "GM3AXYN3H" << endl;
 }
 else
 {
@@ -683,7 +683,7 @@ case 3:
 p8_IH_ = c_vQ2 - p8_IH_;
 break;
 case 4:
-DG45M = (wG3eTw8 < DG45M) ? 1399080269 : (char)-197988168;
+DG45M = (wG3eTw8 < DG45M) ? (char)1399080269 : (char)-197988168;
 break;
 case 5:
 p8_IH_ >>= 1926193459;

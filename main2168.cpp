@@ -12,7 +12,7 @@ short aBH2P00(unsigned int NyJQr,unsigned int TL8Q,long UO_N6_b1M) {
 }
 
 char    dQe63jDH56()    {
-    return    781983076;
+    return    (char)781983076;
 }
 
 unsigned int	iRM2zhF(unsigned char	cp47p_Hfk,long	O369Gs6en)
@@ -224,7 +224,7 @@ if (i01ET0_Z <= bOt0wawMV)
 {
 try
 {
-oL5UwB = iRM2zhF(774075339, KQmt6Cxjon) % 750563937;
+oL5UwB = iRM2zhF((unsigned char)774075339, KQmt6Cxjon) % 750563937;
 }
 catch (int& errorCode)
 {
@@ -301,7 +301,7 @@ case 2:
 k678Z7m = yW_N0meP9 ^ LL3SA;
 break;
 case 3:
-ap5zv0 = iRM2zhF(62675316, CKl8j);
+ap5zv0 = iRM2zhF((unsigned char)62675316, CKl8j);
 break;
 case 4:
 CKl8j = iRM2zhF(CKl8j, -1074808927);

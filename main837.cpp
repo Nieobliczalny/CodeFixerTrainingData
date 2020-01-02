@@ -17,7 +17,7 @@ unsigned char  ylcR5TgZx(unsigned char  p_nTG,short  gGU3g8o,unsigned int  I3sJW
 short int	GcXj(unsigned long	AwTKBqJgRQ,int	Ift3x72M3);
 
 int main(int argc, char** argv) {
-    short    x1lZES6    =    211323404;
+    short    x1lZES6    =    (short)211323404;
 	unsigned long	hA1reC8	=	-39890725;
  short Z0IU6czN = (short)-895596174;
   float  JntbTr0  =  294301544;
@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
 
 if (C47L7 & Yhoj0)
 {
-ftJZX9Flw = ylcR5TgZx(1574560487, kwM4m, -988838665, ftJZX9Flw);
+ftJZX9Flw = ylcR5TgZx((unsigned char)1574560487, kwM4m, -988838665, ftJZX9Flw);
 }
 
 KzXC = (unsigned long)(x1lZES6 * (Yhoj0));
@@ -43,7 +43,7 @@ else if (JntbTr0)
 {
 if (kwM4m == ftJZX9Flw)
 {
-KzXC = ylcR5TgZx(504689248, (short)-1767358713, C47L7, 142245234);
+KzXC = ylcR5TgZx((unsigned char)504689248, (short)-1767358713, C47L7, 142245234);
 }
 else
 {
@@ -61,7 +61,7 @@ v0t3g8 = (int)ceil(Ck28jOY4C);
 }
 else
 {
-std::cout << ylcR5TgZx(hA1reC8, -1715685965, -1005186076, KzXC) << "I0_44g6SV" << QI38yRuun(hA1reC8, Ck28jOY4C) << JntbTr0 << std::endl;
+std::cout << ylcR5TgZx(hA1reC8, (short)-1715685965, -1005186076, KzXC) << "I0_44g6SV" << QI38yRuun(hA1reC8, Ck28jOY4C) << JntbTr0 << std::endl;
 }
 }
 else
@@ -127,7 +127,7 @@ do
 {
 if (x1lZES6 > o7XVLwdGO)
 {
-Ck28jOY4C = QI38yRuun(1688348914, -654443975);
+Ck28jOY4C = QI38yRuun(1688348914, (short)-654443975);
 }
 else
 {
@@ -195,7 +195,7 @@ while (j >= 0);
 }
 else if (hA1reC8 == -505461126)
 {
-std::cout << "i192Pslh3E" << ylcR5TgZx(-1826148776, ftJZX9Flw, Ck28jOY4C, x1lZES6) << std::endl;
+std::cout << "i192Pslh3E" << ylcR5TgZx((unsigned char)-1826148776, ftJZX9Flw, Ck28jOY4C, x1lZES6) << std::endl;
 }
 else
 {
@@ -231,7 +231,7 @@ Z0IU6czN = GcXj(-918041727, x1lZES6);
 }
 else if (KzXC <= Yhoj0)
 {
-std::cout << C47L7 << ftJZX9Flw << ylcR5TgZx(Z0IU6czN, x1lZES6, -1729004067, kwM4m) << ylcR5TgZx(Z0IU6czN, 890324397, -1461898826, (unsigned char)-426903320) << std::endl;
+std::cout << C47L7 << ftJZX9Flw << ylcR5TgZx(Z0IU6czN, x1lZES6, -1729004067, kwM4m) << ylcR5TgZx(Z0IU6czN, (short)890324397, -1461898826, (unsigned char)-426903320) << std::endl;
 }
 else if (ftJZX9Flw != JntbTr0)
 {
@@ -273,7 +273,7 @@ kwM4m = ftJZX9Flw - kwM4m;
 }
 try
 {
-std::cout << "rgFk7P6UJ" << ylcR5TgZx(-1638127455, x1lZES6, JntbTr0, kwM4m) << QI38yRuun(Z0IU6czN, x1lZES6) << std::endl;
+std::cout << "rgFk7P6UJ" << ylcR5TgZx((unsigned char)-1638127455, x1lZES6, JntbTr0, kwM4m) << QI38yRuun(Z0IU6czN, x1lZES6) << std::endl;
 }
 catch (int& errorCode)
 {
@@ -367,7 +367,7 @@ v0t3g8 = (double)(C47L7);
 int i = 8;
 while (i >= 0)
 {
-x1lZES6 = QI38yRuun(ftJZX9Flw, -1579962781);
+x1lZES6 = QI38yRuun(ftJZX9Flw, (short)-1579962781);
 i--;
 }
 }
@@ -430,7 +430,7 @@ if (JntbTr0 <= 1059737614)
 {
 if (kwM4m != C47L7)
 {
-JntbTr0 = QI38yRuun(1802283668, -942545348);
+JntbTr0 = QI38yRuun(1802283668, (short)-942545348);
 }
 else
 {
@@ -446,7 +446,7 @@ v0t3g8 = (int)ceil(kwM4m);
 }
 else
 {
-Z0IU6czN = QI38yRuun(442032615, 1050843530);
+Z0IU6czN = QI38yRuun(442032615, (short)1050843530);
 }
 
 {
@@ -471,7 +471,7 @@ i++;
 while (i < 4);
 }
 kwM4m = (int)ceil(v0t3g8);
-hA1reC8 = QI38yRuun(ftJZX9Flw, -1703880124);
+hA1reC8 = QI38yRuun(ftJZX9Flw, (short)-1703880124);
 if (ftJZX9Flw > o7XVLwdGO)
 {
 Z0IU6czN++;
@@ -511,7 +511,7 @@ case 'e':
 Ck28jOY4C = (int)floor(kwM4m);
 break;
 case 'f':
-KzXC = ylcR5TgZx(-1148143107, Z0IU6czN, 704736339, v0t3g8);
+KzXC = ylcR5TgZx((unsigned char)-1148143107, Z0IU6czN, 704736339, v0t3g8);
 break;
 case 'g':
 kwM4m = (int)ceil(Ck28jOY4C);
@@ -558,7 +558,7 @@ Ck28jOY4C = (int)ceil(JntbTr0);
 }
 }
 
-std::cout << C47L7 << QI38yRuun(KzXC, v0t3g8) << ylcR5TgZx(KzXC, 373606105, kwM4m, JntbTr0) << kwM4m << std::endl;
+std::cout << C47L7 << QI38yRuun(KzXC, v0t3g8) << ylcR5TgZx(KzXC, (short)373606105, kwM4m, JntbTr0) << kwM4m << std::endl;
 ftJZX9Flw = ylcR5TgZx((unsigned char)931739165, 1400179759, 1978824613, -392699046);
 
 if (JntbTr0 != C47L7)
@@ -579,6 +579,6 @@ unsigned char  ylcR5TgZx(unsigned char  p_nTG,short  gGU3g8o,unsigned int  I3sJW
 }
 
 short int	GcXj(unsigned long	AwTKBqJgRQ,int	Ift3x72M3)	{
-	return	253620665;
+	return	(short)253620665;
 }
 

@@ -16,7 +16,7 @@ unsigned long long d2zBkG57md()
 int main()
 {
   char  u0MFXlT,  HWXH,  b4Q8pz;
-    u0MFXlT  =  HWXH  =  b4Q8pz  =  -483190782;
+    u0MFXlT  =  HWXH  =  b4Q8pz  =  (char)-483190782;
     char    s8tw6mdVZ,    DIf_ox1_Y,    ZR943XXoV;
         s8tw6mdVZ    =    DIf_ox1_Y    =    ZR943XXoV    =    0;
 
@@ -411,7 +411,7 @@ if (HWXH <= -377410866)
 {
 for (int k = 2; k >= 0; --k)
 {
-u0MFXlT = (u0MFXlT & -547888432) ? 975939369 : d2zBkG57md();
+u0MFXlT = (u0MFXlT & -547888432) ? (char)975939369 : d2zBkG57md();
 }
 }
 }

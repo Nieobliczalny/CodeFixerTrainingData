@@ -19,7 +19,7 @@ int main(int argc, char** argv)
  p03SrSAq9 = 0;
  Lo94p5Ke_ = 0;
 	short	l8Bo8689,	dEKzuJ,	DG17qRNUni,	h4YhsD7G;
-	l8Bo8689	=	-1647161348;
+	l8Bo8689	=	(short)-1647161348;
 	dEKzuJ	=	(short)-676293172;
 	DG17qRNUni	=	276474528;
 	h4YhsD7G	=	562667578;
@@ -110,7 +110,7 @@ case 2:
 h4YhsD7G = xN5TVM & 933850565;
 break;
 case 3:
-h4YhsD7G = (xN5TVM != 888248383) ? h4YhsD7G : 1686316771;
+h4YhsD7G = (xN5TVM != 888248383) ? h4YhsD7G : (short)1686316771;
 break;
 default:
 h4YhsD7G = (int)abs(DG17qRNUni);

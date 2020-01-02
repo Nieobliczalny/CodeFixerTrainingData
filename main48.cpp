@@ -28,7 +28,7 @@ case 0:
 piS7yFPrZr -= piS7yFPrZr;
 break;
 case 1:
-e_8Xzaq = dLD2s9s9G(2136306005, (char)1392798179);
+e_8Xzaq = dLD2s9s9G((unsigned short)2136306005, (char)1392798179);
 break;
 case 2:
 e_8Xzaq = (int)ceil(AOadc8Y12R);
@@ -193,6 +193,6 @@ int	F1NH(long long	c5gNIT_7m6)	{
 }
 
 unsigned short int  dLD2s9s9G(unsigned short  mw8iZH,char  aL2D)  {
-  return  1969159740;
+  return  (unsigned short)1969159740;
 }
 

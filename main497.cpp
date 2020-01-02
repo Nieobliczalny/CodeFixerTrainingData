@@ -22,7 +22,7 @@ int main() {
   C2XOU  =  0;
   doR7J4  =  0;
   unsigned short int  RpDj3_V,  fBdtN2P,  h8e2211e7W,  w5rDkIq,  IfW0,  k1f8Hif6,  D6T31,  FZ8G,  uBEmK_1o,  zNvW3d,  Kr_yHFEnL,  tfO_i3B9,  h_UD_m,  oaJ_60o5,  C1zyUeVt_,  eSw_O,  jo_8fFlz,  mCp88l,  X9F1xE,  S8C9TS1N,  SF1o,  FL96,  G_Fnw,  uOe1O,  ZsmbIRWn,  CGNb,  RrY6,  N0Ry,  R_jwk__n,  Fg_w7,  MDUTmT8dRg,  JrC6rTkA,  q526N,  aJvv4wv,  zz7lVafV5l,  tEgEI,  Lora65D,  x60mv,  Oie3Z,  HHy8,  xV8n,  fJ1Me,  Edh9_8C,  z3ZU45,  ZK33vN9Wa,  Ft71D2j_9,  muVFndoq6,  IWwho61m,  aw_ik7_LP,  uA_Kri1,  I6xG,  hV_6r,  G64hrZ8yIG,  h_mF646Zk,  ahB4;
-  RpDj3_V  =  850840053;
+  RpDj3_V  =  (unsigned short)850840053;
   fBdtN2P  =  (unsigned short)-1473993703;
   h8e2211e7W  =  227825590;
   w5rDkIq  =  834522207;
@@ -32,7 +32,7 @@ int main() {
   FZ8G  =  1015586238;
   uBEmK_1o  =  -1139548271;
   zNvW3d  =  394058303;
-  Kr_yHFEnL  =  1833342244;
+  Kr_yHFEnL  =  (unsigned short)1833342244;
   tfO_i3B9  =  (unsigned short)1961082235;
   h_UD_m  =  -2090349635;
   oaJ_60o5  =  -1589273608;
@@ -42,7 +42,7 @@ int main() {
   mCp88l  =  -194330956;
   X9F1xE  =  -994368575;
   S8C9TS1N  =  -846260462;
-  SF1o  =  -393164104;
+  SF1o  =  (unsigned short)-393164104;
   FL96  =  (unsigned short)-2125866825;
   G_Fnw  =  47816403;
   uOe1O  =  563321059;
@@ -52,7 +52,7 @@ int main() {
   N0Ry  =  -1421368914;
   R_jwk__n  =  1628645509;
   Fg_w7  =  827842975;
-  MDUTmT8dRg  =  -1430368486;
+  MDUTmT8dRg  =  (unsigned short)-1430368486;
   JrC6rTkA  =  (unsigned short)-889663481;
   q526N  =  -905707403;
   aJvv4wv  =  -1563067985;
@@ -62,7 +62,7 @@ int main() {
   x60mv  =  -1276151006;
   Oie3Z  =  -419309208;
   HHy8  =  625070962;
-  xV8n  =  -612227801;
+  xV8n  =  (unsigned short)-612227801;
   fJ1Me  =  (unsigned short)94857191;
   Edh9_8C  =  1330003073;
   z3ZU45  =  -2096043388;
@@ -72,7 +72,7 @@ int main() {
   IWwho61m  =  869419299;
   aw_ik7_LP  =  -2067491085;
   uA_Kri1  =  60875494;
-  I6xG  =  -1026887394;
+  I6xG  =  (unsigned short)-1026887394;
   hV_6r  =  (unsigned short)1068249098;
   G64hrZ8yIG  =  -918104255;
   h_mF646Zk  =  1008799775;
@@ -213,7 +213,7 @@ cout << uA_Kri1 << "Jik9vW8M" << "pH0J4Xqf3" << R_jwk__n << uOe1O << endl;
 switch (ZOcmZYbN)
 {
 case 0:
-Edh9_8C = (C1zyUeVt_ & R8G23NZ88L) ? HHy8 : 796096163;
+Edh9_8C = (C1zyUeVt_ & R8G23NZ88L) ? HHy8 : (unsigned short)796096163;
 break;
 }
 

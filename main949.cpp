@@ -24,7 +24,7 @@ unsigned short int  zN0n6TVjM0(unsigned long long  iF0hXqZ1,unsigned short  Js41
 
 int main(void)
 {
-  short int  AmR7_8  =  -839338548;
+  short int  AmR7_8  =  (short)-839338548;
     unsigned long long    h7UhQmGi    =    -2023581753;
   short  Ydf8KB  =  (short)-1232323875;
 	long long	j3PP9	=	904908290;
@@ -36,7 +36,7 @@ int main(void)
   char  q7DVi  =  -341181406;
     long    zx7TF9lqdr    =    0;
   int  b91E1  =  -300619615;
- unsigned char K9isE5GGu = -1702847428;
+ unsigned char K9isE5GGu = (unsigned char)-1702847428;
     unsigned long long    b4OH3DA0    =    1000304512;
 	long long	eLCI0757q7	=	-274641037;
 	int	OX1e6_6ST	=	-707921701;
@@ -46,7 +46,7 @@ if ((AmR7_8 >= 335807959) || ((Ydf8KB >= q7DVi) && (zx7TF9lqdr > -1676288854)))
 {
 for (int j = 8; j >= 0; j--)
 {
-IQqMJ5Tk = zN0n6TVjM0(1470214959, q7DVi, IQqMJ5Tk, -1838201628);
+IQqMJ5Tk = zN0n6TVjM0(1470214959, q7DVi, IQqMJ5Tk, (short)-1838201628);
 }
 }
 else if (q7DVi > b91E1)
@@ -61,7 +61,7 @@ h7UhQmGi = Fe5RRXpUZ3(h7UhQmGi);
 }
 else if (OX1e6_6ST > 2135561318)
 {
-zx7TF9lqdr = zN0n6TVjM0(-1543510273, 47002816, (unsigned char)1860202827, AmR7_8);
+zx7TF9lqdr = zN0n6TVjM0(-1543510273, (unsigned short)47002816, (unsigned char)1860202827, AmR7_8);
 }
 else if ((j3PP9 > 1104755011) && (b91E1 < 921118149))
 {
@@ -92,7 +92,7 @@ case 'a':
 j3PP9 = (OX1e6_6ST == nlDEJy20) ? q7DVi : Ydf8KB;
 break;
 case 'b':
-AmR7_8 = pWJRn(2068859751);
+AmR7_8 = pWJRn((char)2068859751);
 break;
 default:
 b91E1 ^= 1086378141;
@@ -161,7 +161,7 @@ else if (nlDEJy20 & 1395378518)
 {
 if ((h7UhQmGi != nlDEJy20) && ((q7DVi > 1622130940) && (gw6H65 >= -764672550)))
 {
-B61u = zN0n6TVjM0(-880886636, -1894724507, (unsigned char)-1632317182, h7UhQmGi) + gw6H65;
+B61u = zN0n6TVjM0(-880886636, (unsigned short)-1894724507, (unsigned char)-1632317182, h7UhQmGi) + gw6H65;
 }
 else if ((q7DVi & Ydf8KB) || ((IQqMJ5Tk <= q7DVi) && (K9isE5GGu > 1004850855)))
 {
@@ -191,7 +191,7 @@ case 0:
 q7DVi = h7UhQmGi * h7UhQmGi;
 break;
 case 1:
-j3PP9 = pWJRn(434603305);
+j3PP9 = pWJRn((char)434603305);
 break;
 case 2:
 gw6H65 = nlDEJy20 ^ B61u;
@@ -209,7 +209,7 @@ else
 gw6H65 = q7DVi ^ AmR7_8;
 }
 }
-std::cout << b91E1 << Fe5RRXpUZ3(-2115459273) << zN0n6TVjM0(1926330889, (unsigned short)-2113513378, zx7TF9lqdr, gw6H65) << Fe5RRXpUZ3(AmR7_8) << zN0n6TVjM0(1927186933, q7DVi, zx7TF9lqdr, -777273450) << std::endl;
+std::cout << b91E1 << Fe5RRXpUZ3((short)-2115459273) << zN0n6TVjM0(1926330889, (unsigned short)-2113513378, zx7TF9lqdr, gw6H65) << Fe5RRXpUZ3(AmR7_8) << zN0n6TVjM0(1927186933, q7DVi, zx7TF9lqdr, -777273450) << std::endl;
 
 if ((h7UhQmGi == -1837932237) && (b91E1 > 369813883))
 {
@@ -253,7 +253,7 @@ for (int j = 8; j >= 0; --j)
 {
 try
 {
-OX1e6_6ST = pWJRn(-1146058059);
+OX1e6_6ST = pWJRn((char)-1146058059);
 }
 catch (int& errorCode)
 {
@@ -285,7 +285,7 @@ case 4:
 AmR7_8 ^= K9isE5GGu;
 break;
 case 5:
-IQqMJ5Tk = zN0n6TVjM0(935961704, 347805563, q7DVi, (short)-999728488);
+IQqMJ5Tk = zN0n6TVjM0(935961704, (unsigned short)347805563, q7DVi, (short)-999728488);
 break;
 case 6:
 TqO11_U = pWJRn(1919369718);
@@ -301,7 +301,7 @@ case 0:
 IQqMJ5Tk = zN0n6TVjM0(b91E1, IQqMJ5Tk, B61u, K9isE5GGu);
 break;
 case 1:
-eLCI0757q7 = pWJRn(-1427650356) % nlDEJy20;
+eLCI0757q7 = pWJRn((char)-1427650356) % nlDEJy20;
 break;
 case 2:
 gw6H65 = (int)abs(b91E1);
@@ -313,7 +313,7 @@ case 4:
 B61u &= AmR7_8;
 break;
 case 5:
-h7UhQmGi = Fe5RRXpUZ3(-676973707);
+h7UhQmGi = Fe5RRXpUZ3((short)-676973707);
 break;
 case 6:
 q7DVi = (int)abs(j3PP9);
@@ -356,7 +356,7 @@ else
 {
 for (int k = 0; k < 1; k++)
 {
-b4OH3DA0 = pWJRn(2098586902);
+b4OH3DA0 = pWJRn((char)2098586902);
 }
 }
 }
@@ -369,7 +369,7 @@ while (i >= 0)
 switch (W8_Lu)
 {
 case 0:
-zx7TF9lqdr = zN0n6TVjM0(gw6H65, B61u, 788150557, b91E1);
+zx7TF9lqdr = zN0n6TVjM0(gw6H65, B61u, (unsigned char)788150557, b91E1);
 break;
 case 1:
 W8_Lu |= 1583030712;
@@ -381,7 +381,7 @@ case 3:
 b4OH3DA0 = OX1e6_6ST ^ q7DVi;
 break;
 case 4:
-B61u = Fe5RRXpUZ3(-465555422);
+B61u = Fe5RRXpUZ3((short)-465555422);
 break;
 case 5:
 eLCI0757q7 = (int)abs(W8_Lu);

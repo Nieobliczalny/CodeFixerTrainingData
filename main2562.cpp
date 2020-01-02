@@ -73,7 +73,7 @@ if (h_h_mt != s5L96)
 {
 if (((DO08un79G) && (v7_3z != wkuyr7)) || (ObLc >= -1273750382))
 {
-Fkn64P = E7r_na(1182801068, -315521670);
+Fkn64P = E7r_na((unsigned char)1182801068, -315521670);
 }
 else if ((WX9Xs86B2 <= Lgkvm2HZ) || (kLHK8BdOF <= 460774478))
 {
@@ -92,7 +92,7 @@ std::cout << F4dr << WX9Xs86B2 << ObLc << std::endl;
 }
 else if ((mX_a5N < mP5Wlj5sr) || ((v7_3z <= -475827266) && (V44Q1J80 == wkuyr7)))
 {
-V44Q1J80 = Z7WqfAk(V44Q1J80, 572468549);
+V44Q1J80 = Z7WqfAk(V44Q1J80, (short)572468549);
 }
 else if ((Fkn64P & 674886005) || (S01cJFZ83 < 730019988))
 {
@@ -110,7 +110,7 @@ v7_3z = (int)abs(k2P7);
 }
 }
 }
-v7_3z = E7r_na(-1316070267, 5448676) + V44Q1J80;
+v7_3z = E7r_na((unsigned char)-1316070267, 5448676) + V44Q1J80;
 
 v7_3z = (float)(WX9Xs86B2);
 d74Oz_aI = RD05k7C(d74Oz_aI);
@@ -155,7 +155,7 @@ i--;
 Fkn64P = E7r_na(d74Oz_aI, 449939578);
 }
 }
-k2P7 = RD05k7C(1080762608);
+k2P7 = RD05k7C((short)1080762608);
 mX_a5N = (float)(X3bL7);
 
 try
@@ -220,7 +220,7 @@ mX_a5N = (int)ceil(n8JC);
 }
 else
 {
-h_h_mt = Z7WqfAk(-1689643711, (short)1548408800);
+h_h_mt = Z7WqfAk((short)-1689643711, (short)1548408800);
 }
 --j;
 }
@@ -260,7 +260,7 @@ case 'b':
 s5L96 = (int)floor(mX_a5N);
 break;
 case 'c':
-Fkn64P = E7r_na(473148557, d74Oz_aI);
+Fkn64P = E7r_na((unsigned char)473148557, d74Oz_aI);
 break;
 case 'd':
 WX9Xs86B2 = (V44Q1J80 <= -1019847428) ? h_h_mt : Fkn64P;
@@ -313,7 +313,7 @@ if (Lgkvm2HZ != Q0H3_5_OK)
 {
 if ((Fkn64P & 1980961309) && (h_h_mt != 389491224))
 {
-mP5Wlj5sr = RD05k7C(-649815030);
+mP5Wlj5sr = RD05k7C((short)-649815030);
 }
 else
 {
@@ -324,7 +324,7 @@ else if (Q0H3_5_OK >= V44Q1J80)
 {
 try
 {
-F4dr = RD05k7C(97333161);
+F4dr = RD05k7C((short)97333161);
 }
 catch (int& errorCode)
 {
@@ -362,7 +362,7 @@ v7_3z += 285410634;
 switch (Fkn64P)
 {
 case 0:
-DO08un79G = RD05k7C(16955803);
+DO08un79G = RD05k7C((short)16955803);
 break;
 case 1:
 d74Oz_aI = (int)floor(s5L96);
@@ -374,7 +374,7 @@ case 3:
 k2P7 = (F4dr < V44Q1J80) ? mP5Wlj5sr : Z7WqfAk(-1888823029, -1156950771);
 break;
 case 4:
-V44Q1J80 = RD05k7C(1581515964);
+V44Q1J80 = RD05k7C((short)1581515964);
 break;
 case 5:
 Fkn64P = E7r_na(-1192729814, 1747261093);

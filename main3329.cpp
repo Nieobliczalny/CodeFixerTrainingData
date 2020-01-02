@@ -19,7 +19,7 @@ unsigned int l57PF36j3(unsigned short sOAd,long long cO4G,long long NKZK_eO2,lon
 
 unsigned char	QYVqnWMFD3()
 {
-	return	-710021263;
+	return	(unsigned char)-710021263;
 }
 
 unsigned char    f9T8tHCw4O(long long    d_RD3rGR,int    Jfm5234l,char    fo_vq7,unsigned long    FOQ0d9_I,unsigned char    H8F8K)    {
@@ -52,7 +52,7 @@ for (int j = 6; j >= 0; j--)
 {
 try
 {
-rm08Zr8 = f9T8tHCw4O(rm08Zr8, l0D0YlWOuR, 514891650, hR61p, (unsigned char)-2038531524);
+rm08Zr8 = f9T8tHCw4O(rm08Zr8, l0D0YlWOuR, (char)514891650, hR61p, (unsigned char)-2038531524);
 }
 catch (int& errorCode)
 {
@@ -118,7 +118,7 @@ if ((i_J5 == 1894116256) || (I4M_soNya < 1891702048))
 {
 if (yayx & -1156203082)
 {
-WLwo = l57PF36j3(-2013322326, -1025202785, -308937088, Sm3_7e, ngCocpi_JM);
+WLwo = l57PF36j3((unsigned short)-2013322326, -1025202785, -308937088, Sm3_7e, ngCocpi_JM);
 }
 else
 {
@@ -161,7 +161,7 @@ q6c8H |= m4pkT;
 }
 else if (R1UUuEl != -416337008)
 {
-OOr7B = f9T8tHCw4O(931612665, 525982483, 443388656, -514913760, (unsigned char)-267547578);
+OOr7B = f9T8tHCw4O(931612665, 525982483, (char)443388656, -514913760, (unsigned char)-267547578);
 }
 else if (qM6BRZ9 == -290467256)
 {
@@ -210,7 +210,7 @@ n_4khMu = pBmyclP - tU1_Q9C_f;
 }
 else
 {
-WLwo = l57PF36j3(-482475041, rm08Zr8, pBmyclP, c8MiXTe, l0D0YlWOuR);
+WLwo = l57PF36j3((unsigned short)-482475041, rm08Zr8, pBmyclP, c8MiXTe, l0D0YlWOuR);
 }
 }
 else
@@ -269,7 +269,7 @@ M_pv2rE--;
 break;
 case 'f':
 case 'F':
-tU1_Q9C_f = f9T8tHCw4O(-498101422, WLwo, 413666731, 1412560939, I4M_soNya);
+tU1_Q9C_f = f9T8tHCw4O(-498101422, WLwo, (char)413666731, 1412560939, I4M_soNya);
 break;
 case 'g':
 case 'G':
@@ -299,7 +299,7 @@ i--;
 int i = 7;
 while (i >= 0)
 {
-cout << l57PF36j3(BQW8cXC, -35575873, NqYU, -1875065412, -831682297) << "no7_gba" << "PrG2My6C" << f9T8tHCw4O(-1194154634, -1396381377, 664628775, -1739820191, QBa8EXj2) << endl;
+cout << l57PF36j3(BQW8cXC, -35575873, NqYU, -1875065412, -831682297) << "no7_gba" << "PrG2My6C" << f9T8tHCw4O(-1194154634, -1396381377, (char)664628775, -1739820191, QBa8EXj2) << endl;
 i--;
 }
 }

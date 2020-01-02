@@ -20,7 +20,7 @@ long long TN3yeXC(long qZsNG);
 
 int main(void) {
   unsigned short int  i026,  Jd3TUK85,  gD6_703,  ji75LO0030,  VuUl3dkJ,  tB3Yj4Z,  Fl33ED,  oA9o0C,  Z8GXsH0,  qoyEAW,  pWx8s_j2t,  wNATGt0,  kpidcu,  hsX6t87vR,  o8qrZ2Bm,  xp1jACl,  Q48569,  t95zHU3b,  VF7_7Q16t7,  tN99D_,  d4ThSt4,  TTk7Vd287T,  T1YKwK,  B2NCZ8Z_8,  jCkTQsC30,  ln88b9U4oN,  kgPCpw5,  B68xMIoN,  t8kkZYf2D,  w_N6Z,  Vx4f,  kfV3nv1k8G,  vQb4WumNLm,  n5nkLS,  yOcz;
-    i026  =  Jd3TUK85  =  gD6_703  =  ji75LO0030  =  VuUl3dkJ  =  tB3Yj4Z  =  Fl33ED  =  oA9o0C  =  Z8GXsH0  =  qoyEAW  =  pWx8s_j2t  =  wNATGt0  =  kpidcu  =  hsX6t87vR  =  o8qrZ2Bm  =  xp1jACl  =  Q48569  =  t95zHU3b  =  VF7_7Q16t7  =  tN99D_  =  d4ThSt4  =  TTk7Vd287T  =  T1YKwK  =  B2NCZ8Z_8  =  jCkTQsC30  =  ln88b9U4oN  =  kgPCpw5  =  B68xMIoN  =  t8kkZYf2D  =  w_N6Z  =  Vx4f  =  kfV3nv1k8G  =  vQb4WumNLm  =  n5nkLS  =  yOcz  =  -999207469;
+    i026  =  Jd3TUK85  =  gD6_703  =  ji75LO0030  =  VuUl3dkJ  =  tB3Yj4Z  =  Fl33ED  =  oA9o0C  =  Z8GXsH0  =  qoyEAW  =  pWx8s_j2t  =  wNATGt0  =  kpidcu  =  hsX6t87vR  =  o8qrZ2Bm  =  xp1jACl  =  Q48569  =  t95zHU3b  =  VF7_7Q16t7  =  tN99D_  =  d4ThSt4  =  TTk7Vd287T  =  T1YKwK  =  B2NCZ8Z_8  =  jCkTQsC30  =  ln88b9U4oN  =  kgPCpw5  =  B68xMIoN  =  t8kkZYf2D  =  w_N6Z  =  Vx4f  =  kfV3nv1k8G  =  vQb4WumNLm  =  n5nkLS  =  yOcz  =  (unsigned short)-999207469;
 	long long	Ib1J;
 		Ib1J	=	0;
 
@@ -35,7 +35,7 @@ else
 {
 try
 {
-jCkTQsC30 = zMol3JBD(-939135330, (unsigned short)565887086, 1170819384);
+jCkTQsC30 = zMol3JBD((char)-939135330, (unsigned short)565887086, 1170819384);
 }
 catch (int& errorCode)
 {
@@ -93,7 +93,7 @@ else if ((kgPCpw5) || ((o8qrZ2Bm >= -393920624) && (VuUl3dkJ <= t95zHU3b)))
 switch (vQb4WumNLm)
 {
 case 0:
-tN99D_ = o13e6(tN99D_, 1629383196, (unsigned char)-525304056);
+tN99D_ = o13e6(tN99D_, (short)1629383196, (unsigned char)-525304056);
 break;
 }
 }
@@ -105,7 +105,7 @@ else
 {
 try
 {
-tB3Yj4Z = o13e6(-1982273538, 792839047, Q48569);
+tB3Yj4Z = o13e6(-1982273538, (short)792839047, Q48569);
 }
 catch (int& errorCode)
 {
@@ -129,7 +129,7 @@ else
 {
 try
 {
-oA9o0C = zMol3JBD(t8kkZYf2D, -340799786, (char)1034696418) * wNATGt0;
+oA9o0C = zMol3JBD(t8kkZYf2D, (unsigned short)-340799786, (char)1034696418) * wNATGt0;
 }
 catch (int& errorCode)
 {
@@ -140,7 +140,7 @@ tB3Yj4Z = zMol3JBD(tB3Yj4Z, Vx4f, -2108848312);
 
 Jd3TUK85 = (unsigned short int)(B2NCZ8Z_8);
 
-hsX6t87vR = o13e6(-1660523005, 341613596, (unsigned char)1763215082);
+hsX6t87vR = o13e6(-1660523005, (short)341613596, (unsigned char)1763215082);
 kgPCpw5 = (unsigned short int)(hsX6t87vR);
 
 i026 = yOcz / Ib1J;
@@ -192,7 +192,7 @@ return 0;
 
 short o13e6(unsigned long l83Qb,short int SNG5,unsigned char ra7e5)
 {
- return -1997792952;
+ return (short)-1997792952;
 }
 
 char  IevDGj1(short int  iW3PRD8A,short  X4D22XG2j,unsigned short  C16e,unsigned char  oTce)  {

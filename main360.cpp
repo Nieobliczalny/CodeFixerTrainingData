@@ -156,7 +156,7 @@ C1S4xgMX = Dff9s % Hp7iWe97;
 }
 else
 {
-n91JVkD = ot6iN(1310857163, (unsigned char)1608670764, w5y5, V_MmLUP);
+n91JVkD = ot6iN((char)1310857163, (unsigned char)1608670764, w5y5, V_MmLUP);
 }
 ++j;
 }
@@ -191,7 +191,7 @@ case 'g':
 WO_o_kVO_ = qeVaMmnKqq & 147307009;
 break;
 case 'h':
-xWoUYGCx2D = ot6iN(w5y5, 361559436, IBOXDLcQt, siA6Otza) | Z7900Wjb;
+xWoUYGCx2D = ot6iN(w5y5, (unsigned char)361559436, IBOXDLcQt, siA6Otza) | Z7900Wjb;
 break;
 case 'i':
 Iw6O = YC26N8Pg << 213248753;
@@ -252,7 +252,7 @@ do
 {
 try
 {
-Q7to = ot6iN(Q7to, -1488813571, 1832429080, qeVaMmnKqq);
+Q7to = ot6iN(Q7to, (unsigned char)-1488813571, 1832429080, qeVaMmnKqq);
 }
 catch (int& errorCode)
 {
@@ -299,7 +299,7 @@ while (j >= 0)
 {
 if (MMZ3 != 723712682)
 {
-G3YX = ot6iN(WO_o_kVO_, L9j3NcW1ZQ, -531357915, 274955927) - 948198720;
+G3YX = ot6iN(WO_o_kVO_, L9j3NcW1ZQ, -531357915, (short)274955927) - 948198720;
 }
 else if (PxLC77 > -514503732)
 {
@@ -380,7 +380,7 @@ lAaHI = V7K8f(1716289485);
 switch (Mgnd3zCe2U)
 {
 case 'a':
-nBw30V4sw = ot6iN(-1714288400, (unsigned char)-249090183, v4ssEJ, OU3sVBs4g0);
+nBw30V4sw = ot6iN((char)-1714288400, (unsigned char)-249090183, v4ssEJ, OU3sVBs4g0);
 break;
 case 'b':
 OU3sVBs4g0 = Anacm(OU3sVBs4g0);
@@ -495,7 +495,7 @@ iy7Lib3M = n91JVkD ^ WVNSwH4;
 }
 else
 {
-cout << YC26N8Pg << ot6iN(PxLC77, G3YX, o2__XGr_e, -620751308) << endl;
+cout << YC26N8Pg << ot6iN(PxLC77, G3YX, o2__XGr_e, (short)-620751308) << endl;
 }
 
 if ((OU3sVBs4g0 == 922504492) || (n1SuPMuN > 1770882188))
@@ -642,7 +642,7 @@ Vj_7a = (int)abs(n91JVkD);
 break;
 case 'c':
 case 'C':
-P766w = ot6iN(-2039665801, IBOXDLcQt, h9t6v, VIyQlas_);
+P766w = ot6iN((char)-2039665801, IBOXDLcQt, h9t6v, VIyQlas_);
 break;
 case 'd':
 case 'D':
@@ -755,7 +755,7 @@ case 1:
 S25_6dfZ5l = (int)abs(PD_7FsFZ);
 break;
 case 2:
-IBOXDLcQt = ot6iN(760106416, (unsigned char)-767140382, f1Q_6zGP, -1061263140);
+IBOXDLcQt = ot6iN((char)760106416, (unsigned char)-767140382, f1Q_6zGP, -1061263140);
 break;
 case 3:
 a9o_3 >>= 943534634;
@@ -805,7 +805,7 @@ return 0;
 
 short int    ot6iN(char    y8kmmx5z62,unsigned char    sp4n,unsigned long    Lwd7Esv,short    L2yR0)
 {
-    return    798952757;
+    return    (short)798952757;
 }
 
 unsigned short int	Anacm(unsigned long long	cLt_Jo6aC)	{

@@ -19,7 +19,7 @@ unsigned long LVDi5eD1x_() {
 
 short int  lnUzQa()
 {
-  return  1865405805;
+  return  (short)1865405805;
 }
 
 int main(int argc, char** argv) {

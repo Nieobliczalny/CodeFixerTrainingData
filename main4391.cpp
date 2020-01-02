@@ -14,7 +14,7 @@ unsigned long	E119V_F1O7(char	RoBns0,unsigned short int	Ghpi,unsigned int	C8q3Le
 int main(void)
 {
  long long wbv38w = -984062058;
-	unsigned short int	vdXP4v_kHG	=	-1452215583;
+	unsigned short int	vdXP4v_kHG	=	(unsigned short)-1452215583;
  double kL4H_9 = 1877376663;
 	double	NrgJ21E8hg	=	-667526945;
   short int  Tl002r9  =  (short)-70278983;
@@ -25,7 +25,7 @@ int main(void)
     unsigned short int    pdpsQV    =    -559859354;
  unsigned long X65y01 = 344777826;
 	unsigned int	C840	=	-1392195433;
- unsigned short int kH11m34iH3 = -580547708;
+ unsigned short int kH11m34iH3 = (unsigned short)-580547708;
 	double	Gk77CgaM2	=	642376040;
  char uU5W2FxzV = (char)-1577120806;
  unsigned int A57Kz = -1981519735;
@@ -36,7 +36,7 @@ int main(void)
   unsigned char  r_8zVK  =  -623675710;
 	unsigned char	Olc_3y10m	=	1736207149;
   long  L46UfG9  =  0;
-	short	E6m2n4onPr	=	424961941;
+	short	E6m2n4onPr	=	(short)424961941;
   long double  WKJ58g_6  =  -300790906;
   short  O5ZG9  =  (short)315758456;
 	unsigned long	yL922	=	578792393;
@@ -48,7 +48,7 @@ int main(void)
   unsigned int  F0O_  =  24233474;
   long double  uWZC9  =  1407604567;
     float    j4N4J95A    =    -984675498;
-  unsigned short  d7X7  =  -1955296640;
+  unsigned short  d7X7  =  (unsigned short)-1955296640;
     unsigned short int    SA7h8OiA    =    (unsigned short)1797606296;
  int CttB2787 = 1501396482;
     unsigned long long    pXDXvj_9    =    1977341936;
@@ -58,7 +58,7 @@ int main(void)
  unsigned short aoAg = -1517070524;
     unsigned char    yFee    =    -1884403170;
   double  zr9IpzB3Z3  =  -486338410;
-    short    G51K    =    525810482;
+    short    G51K    =    (short)525810482;
     unsigned long long    ZKEa610    =    0;
   long double  mG6c3  =  1417039936;
     unsigned short    mR6L    =    (unsigned short)303775139;
@@ -71,7 +71,7 @@ int main(void)
 	unsigned int	Ubfk	=	0;
   int  NFo329N62  =  -2032965328;
     long double    x068    =    -1838220493;
- short int AdeT2gZ = -246973574;
+ short int AdeT2gZ = (short)-246973574;
     short int    FbCPT    =    (short)802699016;
   unsigned int  EMhz4878_  =  -1623042018;
  float M98Dsd4S7W = -2020585446;
@@ -123,7 +123,7 @@ for (int j = 0; j < 3; ++j)
 switch (Rr18_X03FL)
 {
 case 'a':
-L46UfG9 = E119V_F1O7(-1455662344, (unsigned short)-991545919, s8a0uwxxF0, 1156878127);
+L46UfG9 = E119V_F1O7((char)-1455662344, (unsigned short)-991545919, s8a0uwxxF0, 1156878127);
 break;
 case 'b':
 WcT9zf38X = (int)abs(nh0ny);
@@ -147,7 +147,7 @@ G51K = (short)(F0O_);
 }
 else if (((Ubfk) || (MKAhw)) && ((Gk77CgaM2 <= MKAhw) && (f9Q_RxLWe < 926963016)))
 {
-L46UfG9 = E119V_F1O7(-591794050, nh0ny, 1709355301, (unsigned short)-2041733346);
+L46UfG9 = E119V_F1O7((char)-591794050, nh0ny, 1709355301, (unsigned short)-2041733346);
 }
 else if (d7X7 >= pXDXvj_9)
 {
@@ -197,7 +197,7 @@ j--;
 switch (wbv38w)
 {
 case 'a':
-AdeT2gZ = ky1n(-526105088, -1349495651, -1822700543);
+AdeT2gZ = ky1n(-526105088, -1349495651, (char)-1822700543);
 break;
 case 'b':
 CttB2787 = ky1n(-2048525503, CttB2787, (char)-504671526);
@@ -212,7 +212,7 @@ case 'e':
 Y5sO = (int)floor(kL4H_9);
 break;
 case 'f':
-vXxE__M = E119V_F1O7(NFo329N62, 106130416, C840, (unsigned short)-1078209628);
+vXxE__M = E119V_F1O7(NFo329N62, (unsigned short)106130416, C840, (unsigned short)-1078209628);
 break;
 default:
 OQ0rLc_ = (int)ceil(M98Dsd4S7W);
@@ -232,7 +232,7 @@ while (j < 10)
 {
 for (int k = 0; k < 5; k++)
 {
-L6dr = (Ly8r283H4) ? Q6ZK_U : -21221029;
+L6dr = (Ly8r283H4) ? Q6ZK_U : (char)-21221029;
 }
 j++;
 }
@@ -243,7 +243,7 @@ catch (int& errorCode)
 vXxE__M = E119V_F1O7(uU5W2FxzV, -1466227567, 1614856505, 1019366403);
 }
 
-std::cout << ky1n(uU5W2FxzV, Ds_d_, -698948148) << ky1n(1863162173, -801753280, (char)-2120739179) << "JQCGS" << std::endl;
+std::cout << ky1n(uU5W2FxzV, Ds_d_, (char)-698948148) << ky1n(1863162173, -801753280, (char)-2120739179) << "JQCGS" << std::endl;
 
 try
 {
@@ -306,7 +306,7 @@ j4N4J95A = ky1n(901333582, -587460571, r_8zVK);
 }
 }
 }
-std::cout << ky1n(j4N4J95A, C840, 1897226817) << FbCPT << E119V_F1O7(j4N4J95A, C840, 1557774675, kL4H_9) << "Wiayjp" << "Whd589" << std::endl;
+std::cout << ky1n(j4N4J95A, C840, (char)1897226817) << FbCPT << E119V_F1O7(j4N4J95A, C840, 1557774675, kL4H_9) << "Wiayjp" << "Whd589" << std::endl;
 
 if (Rr18_X03FL > X65y01)
 {
@@ -320,7 +320,7 @@ for (int i = 0; i < 4; ++i)
 {
 if (NFo329N62 & -80406193)
 {
-std::cout << ky1n(j4N4J95A, C840, 1571998319) << ky1n(j4N4J95A, C840, 1870084704) << yL922 << ky1n(-60536677, 861595735, r_8zVK) << ky1n(451240791, -1284546313, r_8zVK) << std::endl;
+std::cout << ky1n(j4N4J95A, C840, (char)1571998319) << ky1n(j4N4J95A, C840, 1870084704) << yL922 << ky1n(-60536677, 861595735, r_8zVK) << ky1n(451240791, -1284546313, r_8zVK) << std::endl;
 }
 }
 

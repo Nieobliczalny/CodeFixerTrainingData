@@ -21,7 +21,7 @@ int main(int argc, char** argv) {
   long double  D26D6  =  1806771486;
   int  AIz9W2AO3R  =  0;
     unsigned long    h1m9T30    =    0;
-	unsigned char	rg9I_Z6_M	=	-2073876740;
+	unsigned char	rg9I_Z6_M	=	(unsigned char)-2073876740;
 	float	Z3O45O	=	1862932751;
     short    b6oej1Zb    =    (short)40019521;
  unsigned short yR2Mn = -102447346;
@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
  unsigned char hoM28U1yt0 = 1086037427;
 	short int	qlA2KKc_G	=	-2068283992;
  unsigned long long E96cw = -1891121971;
-	unsigned short int	MNg_s8nE3Z	=	-2112523971;
+	unsigned short int	MNg_s8nE3Z	=	(unsigned short)-2112523971;
 	unsigned char	b3c1z0ruu	=	(unsigned char)1208410794;
  short int m4_613W3_D = 1202036129;
 	long	n1LR2	=	-1761398649;
@@ -42,7 +42,7 @@ int main(int argc, char** argv) {
 	unsigned char	HFw8v55DT3	=	0;
 	long double	hHD7XHre	=	-1475198588;
 	unsigned long long	VGG1MmPtR	=	-1198784319;
-    short    MkBoB_o9    =    335520408;
+    short    MkBoB_o9    =    (short)335520408;
 	short int	K3C39di5pE	=	(short)1064898719;
  unsigned short p9Zu = -1261236958;
   float  xw3NI  =  612472464;
@@ -53,7 +53,7 @@ int main(int argc, char** argv) {
  double H4_6X = -1018124299;
 	char	jpl_3migAZ	=	902127768;
 	double	l0dG2t	=	416557462;
-    char    Weyr4    =    1185507084;
+    char    Weyr4    =    (char)1185507084;
 	unsigned long	Cpd4g	=	-2046672194;
  unsigned char F7j5 = (unsigned char)435081469;
  short int gPja5 = 888597233;
@@ -63,7 +63,7 @@ int main(int argc, char** argv) {
     short int    A0I0zTgc5    =    -1180344928;
     int    sz_PjtlcXH    =    -1289739965;
 	int	d7AaZTtdw0	=	-42394342;
-    unsigned short    TrOnopy    =    1148382489;
+    unsigned short    TrOnopy    =    (unsigned short)1148382489;
     unsigned long    JuG75DR    =    -1057815365;
     unsigned char    cKXA106Q    =    (unsigned char)77066369;
   int  awAO  =  0;
@@ -74,7 +74,7 @@ int main(int argc, char** argv) {
     short int    tLqKJ3X    =    0;
 	long long	tGM6	=	-82930754;
  double sZPG = -685042165;
-  short  mmvpaM_4m  =  -1494048277;
+  short  mmvpaM_4m  =  (short)-1494048277;
  unsigned short H_mtE7E92 = (unsigned short)-717682288;
     short    GoM3j6G    =    -1603322381;
 

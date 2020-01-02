@@ -18,7 +18,7 @@ long m6m2J721my() {
 
 unsigned short    k0Mpv55ayO(long    MtBGv1f1d,long    SeF6,short int    I7SV8M5_,short int    e50WXmG7,unsigned char    omrqmwbC)
 {
-    return    -1052752901;
+    return    (unsigned short)-1052752901;
 }
 
 unsigned short int    TwP1_(unsigned short int    wv1uxuN,char    O5XJA08,short int    vzShLS4285,short    KrJ8voa,unsigned short    pi9_)
@@ -111,7 +111,7 @@ case 'd':
 X__4 = QWcJ - SP6YuaT0;
 break;
 }
-std::cout << O_457_sSY4(1253990913, x676j6xZC7, (char)-334224107, wfX21mTSz, IFzYMs1X0u) << D2pA24_F(jcuW_6LaH, x676j6xZC7, 846997074) << D5DsV4 << hp6Kk_ << "RPwX1Q" << std::endl;
+std::cout << O_457_sSY4((char)1253990913, x676j6xZC7, (char)-334224107, wfX21mTSz, IFzYMs1X0u) << D2pA24_F(jcuW_6LaH, x676j6xZC7, 846997074) << D5DsV4 << hp6Kk_ << "RPwX1Q" << std::endl;
 
 if (QWcJ >= CYU620)
 {
@@ -135,7 +135,7 @@ QOLTX = (int)floor(wfX21mTSz);
 Dzn740R = IFzYMs1X0u + A62nG;
 
 ucI08NI3DU = (float)(CYU620);
-std::cout << k0Mpv55ayO(-595723675, x676j6xZC7, -1529609236, (short)1469899495, IFzYMs1X0u) << E38Y << O_457_sSY4(jcuW_6LaH, 2046401109, 906970638, 1396111174, -829854055) << CYU620 << hp6Kk_ << std::endl;
+std::cout << k0Mpv55ayO(-595723675, x676j6xZC7, (short)-1529609236, (short)1469899495, IFzYMs1X0u) << E38Y << O_457_sSY4(jcuW_6LaH, 2046401109, 906970638, 1396111174, -829854055) << CYU620 << hp6Kk_ << std::endl;
 
 if ((SP6YuaT0 & 685271928) || (SP6YuaT0 & 398513824))
 {
@@ -170,7 +170,7 @@ try
 {
 if (z5Q2 == -1129142851)
 {
-LI6tSt37O = O_457_sSY4(-1017506617, q3018, (char)1560124095, jcuW_6LaH, QWcJ);
+LI6tSt37O = O_457_sSY4((char)-1017506617, q3018, (char)1560124095, jcuW_6LaH, QWcJ);
 }
 else
 {
@@ -232,7 +232,7 @@ D5DsV4 = (int)floor(vlsQ);
 }
 else
 {
-jcuW_6LaH = TwP1_(jcuW_6LaH, 1591122372, (short)-1213753565, SIdo5, LzEVY);
+jcuW_6LaH = TwP1_(jcuW_6LaH, (char)1591122372, (short)-1213753565, SIdo5, LzEVY);
 }
 }
 }
@@ -278,7 +278,7 @@ try
 {
 for (int k = 6; k >= 0; --k)
 {
-ucI08NI3DU = k0Mpv55ayO(ucI08NI3DU, -244761859, kG8F5, 807460840, QWcJ);
+ucI08NI3DU = k0Mpv55ayO(ucI08NI3DU, -244761859, kG8F5, (short)807460840, QWcJ);
 }
 }
 catch (int& errorCode)

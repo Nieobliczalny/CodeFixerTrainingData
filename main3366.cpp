@@ -17,7 +17,7 @@ short	RSN1_(short int	MJjLSQI7,unsigned char	IomC6C,short	id5m3,unsigned short	e
 }
 
 short int    f1E02M5l(unsigned long long    LIiUh57,unsigned int    ZEX2xs,long long    ZLoD,unsigned short int    UZk4H202O,unsigned short    cTOTIs)    {
-    return    -231759526;
+    return    (short)-231759526;
 }
 
 int main()
@@ -41,7 +41,7 @@ S20pKj = (int)abs(Y92b7mWypJ);
 }
 else if (((ONfpy > R1h6r2l) || (ys9c22ws == -1493715329)) || (H5g3 == c_7gYA))
 {
-ezVxng1 = RSN1_(M6P2xeP_, AQI_ovj28, -64727921, (unsigned short)-64306438, -1868279088);
+ezVxng1 = RSN1_(M6P2xeP_, AQI_ovj28, (short)-64727921, (unsigned short)-64306438, -1868279088);
 }
 else if (pZNM > AQI_ovj28)
 {
@@ -67,7 +67,7 @@ AQI_ovj28 += S20pKj;
 }
 else
 {
-PG_B3q = f1E02M5l(-397885356, -924194181, 1955711712, -1945526433, LWaEv2);
+PG_B3q = f1E02M5l(-397885356, -924194181, 1955711712, (unsigned short)-1945526433, LWaEv2);
 }
 }
 }
@@ -102,7 +102,7 @@ while (j < 3)
 {
 if (o_zNtQDW6Y >= 1983174837)
 {
-ezVxng1 = RSN1_(H_Gc0_6r, 1067933816, (short)17527730, JSv7, 38906741);
+ezVxng1 = RSN1_(H_Gc0_6r, (unsigned char)1067933816, (short)17527730, JSv7, 38906741);
 }
 else if ((Y92b7mWypJ >= -963131219) && ((n40A4_1zd <= -559892369) && (KgayS6Rs62 > 2105931551)))
 {
@@ -134,7 +134,7 @@ else
 {
 for (int k = 5; k >= 0; --k)
 {
-o_zNtQDW6Y = RSN1_(131947479, K1_y, uRXy2r04, s8sB9VsCkN, 1960108344) & pZNM;
+o_zNtQDW6Y = RSN1_((short)131947479, K1_y, uRXy2r04, s8sB9VsCkN, 1960108344) & pZNM;
 }
 }
 }
@@ -150,7 +150,7 @@ ys9c22ws = V86qt7xF1 | AWnUN2NsVi;
 break;
 case 'b':
 case 'B':
-pZNM = f1E02M5l(pZNM, O6s8LSo1, m9GQ29HpcW, -1794550843, h117_xJ4g);
+pZNM = f1E02M5l(pZNM, O6s8LSo1, m9GQ29HpcW, (unsigned short)-1794550843, h117_xJ4g);
 break;
 case 'c':
 case 'C':
@@ -185,7 +185,7 @@ case 2:
 XUO427Vc *= S20pKj;
 break;
 case 3:
-N276AZ68 = f1E02M5l(-318316347, n_K_Y9, a643qTKKi, 1832849573, M6P2xeP_);
+N276AZ68 = f1E02M5l(-318316347, n_K_Y9, a643qTKKi, (unsigned short)1832849573, M6P2xeP_);
 break;
 case 4:
 JSv7 = ehh_wHS8q * 902744612;
@@ -203,7 +203,7 @@ break;
 int i = 5;
 do
 {
-std::cout << Y92b7mWypJ << Y92b7mWypJ << "YnEnWOf" << RSN1_(EEh11V, oqrj3OFZ, 974172843, ys9c22ws, -2081126569) << "X6OkX8e1s5" << std::endl;
+std::cout << Y92b7mWypJ << Y92b7mWypJ << "YnEnWOf" << RSN1_(EEh11V, oqrj3OFZ, (short)974172843, ys9c22ws, -2081126569) << "X6OkX8e1s5" << std::endl;
 i--;
 }
 while (i >= 0);
@@ -220,7 +220,7 @@ case 0:
 Flz6 = RSN1_(LWaEv2, s2104F, V5xIy8_zw9, Flz6, -2062765105);
 break;
 case 1:
-J_5_T7D = f1E02M5l(-1801389475, V_an, -163261923, 239390178, (unsigned short)-1151111644);
+J_5_T7D = f1E02M5l(-1801389475, V_an, -163261923, (unsigned short)239390178, (unsigned short)-1151111644);
 break;
 case 2:
 Z246PvR1 = RSN1_(511495143, 1612610942, 841432177, ehh_wHS8q, f6l306j);
@@ -276,7 +276,7 @@ O6s8LSo1 &= 1278674870;
 switch (zAC25)
 {
 case 'a':
-Flz6 = RSN1_(O6s8LSo1, -1418396990, yFne2c4I5d, (unsigned short)1070953008, Flz6);
+Flz6 = RSN1_(O6s8LSo1, (unsigned char)-1418396990, yFne2c4I5d, (unsigned short)1070953008, Flz6);
 break;
 case 'b':
 oqrj3OFZ /= 275647082;
@@ -294,7 +294,7 @@ case 'f':
 KgayS6Rs62 = f1E02M5l(-1547179038, Wp9SF_1W, -303178081, JN7LXI, kCTfz);
 break;
 case 'g':
-ezVxng1 = RSN1_(J_5_T7D, -571866713, (short)1051530859, o_zNtQDW6Y, -1672551908);
+ezVxng1 = RSN1_(J_5_T7D, (unsigned char)-571866713, (short)1051530859, o_zNtQDW6Y, -1672551908);
 break;
 }
 
@@ -308,7 +308,7 @@ case 0:
 w3Q4j = (int)abs(GBG6v);
 break;
 case 1:
-kCTfz = RSN1_(-634483090, (unsigned char)-1521725732, O6s8LSo1, M6P2xeP_, 1241302483);
+kCTfz = RSN1_((short)-634483090, (unsigned char)-1521725732, O6s8LSo1, M6P2xeP_, 1241302483);
 break;
 case 2:
 ezVxng1 = RSN1_(-1838374032, TLz_C_, JSv7, 644821163, 136451022);
@@ -323,7 +323,7 @@ case 5:
 M6P2xeP_ = a643qTKKi ^ 702500555;
 break;
 default:
-d8igZAaG9C = f1E02M5l(d8igZAaG9C, zAC25, oqrj3OFZ, 1050663055, bo06W7MpQB);
+d8igZAaG9C = f1E02M5l(d8igZAaG9C, zAC25, oqrj3OFZ, (unsigned short)1050663055, bo06W7MpQB);
 break;
 }
 ++i;
@@ -356,7 +356,7 @@ default:
 qd1WiCj4 ^= s8sB9VsCkN;
 break;
 }
-std::cout << f1E02M5l(522906987, -1250660352, -1312699530, 1301946449, H5g3) << JSv7 << std::endl;
+std::cout << f1E02M5l(522906987, -1250660352, -1312699530, (unsigned short)1301946449, H5g3) << JSv7 << std::endl;
 return 0;
 }
 

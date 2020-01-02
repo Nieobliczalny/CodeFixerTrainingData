@@ -14,7 +14,7 @@ using std::floor;
 
 int main(int argc, char** argv) {
  unsigned short int FUn6k = 0;
-    short int    V4Qm6AL1ad    =    -561154743;
+    short int    V4Qm6AL1ad    =    (short)-561154743;
  short int X7js77 = 0;
   int  CKpipHxEr  =  -303569906;
   long long  X0C9hl1X  =  0;

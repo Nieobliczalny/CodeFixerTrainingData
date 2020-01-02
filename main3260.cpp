@@ -419,7 +419,7 @@ return 0;
 
 short int  JA0ZC(unsigned int  j1M9e9_,long long  abXA3UYJ,short int  GYaYOR0PT)
 {
-  return  -348862690;
+  return  (short)-348862690;
 }
 
 unsigned char  cFr4p()  {
@@ -432,7 +432,7 @@ unsigned short    bLlR36zPGW(unsigned int    OUA7b_9R)    {
 
 unsigned char tN89Y1_o()
 {
- return -1700190364;
+ return (unsigned char)-1700190364;
 }
 
 unsigned long FV02h98Sg2()

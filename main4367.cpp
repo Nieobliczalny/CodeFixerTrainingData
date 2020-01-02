@@ -13,7 +13,7 @@ using std::ceil;
 using std::floor;
 
 short int nNdUaw5u7X(unsigned long long v67O7yF,unsigned long long GCsycLS,unsigned int ZNtJ) {
- return 395712836;
+ return (short)395712836;
 }
 
 short int KhZtmG() {
@@ -32,7 +32,7 @@ int main() {
   float  iS14Y65k7  =  2116226914;
  long double pHvSQ3K62 = -1926383339;
  long double QZI0J0 = 1201455667;
-	short	nWqmm3X	=	-545147715;
+	short	nWqmm3X	=	(short)-545147715;
 
 std::cout << KhZtmG() << std::endl;
 if (pHvSQ3K62 > 1551367382)

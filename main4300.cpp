@@ -17,7 +17,7 @@ long long	bWIiL_Lh0(unsigned long	L2Rm3bW,unsigned short	gZ_CbQRSd)	{
 }
 
 short  xJKu(long long  hqwy,short int  V8q59HuD6,long  cdA5)  {
-  return  -698360157;
+  return  (short)-698360157;
 }
 
 long long hK0i(unsigned char vBP_R7E)
@@ -33,7 +33,7 @@ int main(int argc, char** argv)
 {
     long    KEqcn    =    1018372471;
   int  qR_tfZR58Z  =  0;
-    short int    Wd_FIUV6    =    1557952817;
+    short int    Wd_FIUV6    =    (short)1557952817;
     float    T20c    =    -819513875;
   double  aXKl_  =  -323900015;
   unsigned long long  Ryz3  =  340550624;
@@ -71,7 +71,7 @@ tLPKm1ws5 = xJKu(tLPKm1ws5, Wd_FIUV6, -1936169272);
 }
 else if (X0SKz_ == -632768958)
 {
-T20c = P_WX2NfL(T20c, 417211196, Wd_FIUV6);
+T20c = P_WX2NfL(T20c, (short)417211196, Wd_FIUV6);
 }
 else
 {
@@ -86,7 +86,7 @@ int j = 7;
 do
 {
 j--;
-CO8XF5 = xJKu(TXCM1Ve8, -1181186043, 1404811372);
+CO8XF5 = xJKu(TXCM1Ve8, (short)-1181186043, 1404811372);
 }
 while (j >= 0);
 }
@@ -120,7 +120,7 @@ CO8XF5 *= Ryz3;
 }
 if ((Wd_FIUV6 != -981889352) || (Ryz3 < 1957907000))
 {
-tLPKm1ws5 = xJKu(-66307745, -684236301, T20c);
+tLPKm1ws5 = xJKu(-66307745, (short)-684236301, T20c);
 }
 
 KEqcn = (long)(qR_tfZR58Z + (-625767880));
@@ -144,7 +144,7 @@ CO8XF5 = (unsigned char)(aXKl_);
 }
 }
 }
-std::cout << bWIiL_Lh0(-1835929021, -1944716906) << Wd_FIUV6 << "Q166" << bWIiL_Lh0(1411899742, tLPKm1ws5) << CO8XF5 << std::endl;
+std::cout << bWIiL_Lh0(-1835929021, (unsigned short)-1944716906) << Wd_FIUV6 << "Q166" << bWIiL_Lh0(1411899742, tLPKm1ws5) << CO8XF5 << std::endl;
 if (KEqcn & -1813260891)
 {
 X0SKz_ = bWIiL_Lh0(Ryz3, X0SKz_);
@@ -239,7 +239,7 @@ case 'd':
 TXCM1Ve8 = bWIiL_Lh0(1580259810, Ryz3);
 break;
 case 'e':
-Wd_FIUV6 = hK0i(-695676839);
+Wd_FIUV6 = hK0i((unsigned char)-695676839);
 break;
 case 'f':
 aXKl_ = (int)ceil(tLPKm1ws5);
@@ -285,7 +285,7 @@ case 4:
 Ryz3--;
 break;
 default:
-tLPKm1ws5 = hK0i(1999417127);
+tLPKm1ws5 = hK0i((unsigned char)1999417127);
 break;
 }
 }
@@ -295,7 +295,7 @@ Ryz3 = X0SKz_ >> 99071609;
 }
 std::cout << ywlYAI() << fuUs56M7v << qR_tfZR58Z << std::endl;
 
-Ryz3 = P_WX2NfL(274873033, (short)627743300, TXCM1Ve8);
+Ryz3 = P_WX2NfL((short)274873033, (short)627743300, TXCM1Ve8);
 
 {
 int i = 3;
@@ -313,7 +313,7 @@ while (i >= 0);
 switch (fuUs56M7v)
 {
 case 0:
-Wd_FIUV6 = hK0i(1524463082);
+Wd_FIUV6 = hK0i((unsigned char)1524463082);
 break;
 case 1:
 CO8XF5 |= 1096128651;
@@ -372,7 +372,7 @@ Ryz3 -= Ryz3;
 break;
 case 'b':
 case 'B':
-T20c = xJKu(943345978, 1479302673, 1259217258);
+T20c = xJKu(943345978, (short)1479302673, 1259217258);
 break;
 case 'c':
 case 'C':
@@ -392,7 +392,7 @@ tLPKm1ws5 = (int)ceil(T20c);
 break;
 case 'g':
 case 'G':
-aXKl_ = hK0i(1861658289);
+aXKl_ = hK0i((unsigned char)1861658289);
 break;
 }
 }
@@ -467,7 +467,7 @@ case 3:
 Wd_FIUV6 *= qR_tfZR58Z;
 break;
 default:
-T20c = hK0i(-122974733);
+T20c = hK0i((unsigned char)-122974733);
 break;
 }
 }

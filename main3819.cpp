@@ -10,7 +10,7 @@ using namespace std;
 
 int main(int argc, char** argv)
 {
-    short    dj7R_HDs    =    1709754527;
+    short    dj7R_HDs    =    (short)1709754527;
  long long aHtEMf = 0;
   double  ZURzs  =  -1781446428;
   int  d7G7LPn_9  =  1240240376;
@@ -20,7 +20,7 @@ int main(int argc, char** argv)
   unsigned int  ckv5l4p2lE  =  307734767;
  unsigned char J__U = -463432372;
 	double	f9KUBIdd	=	1394480482;
- short S6rFRrinr3 = 1830721925;
+ short S6rFRrinr3 = (short)1830721925;
  short int KuDb1yChrH = -183527460;
 	short int	rH2RZ	=	-1835780294;
 	int	fiWx	=	1860980120;
@@ -31,7 +31,7 @@ int main(int argc, char** argv)
   unsigned short  UM5vi0  =  1659224332;
     unsigned short int    Qwu7j    =    2112681322;
     long long    A0Kix    =    2031443576;
-  char  dm55  =  1187127160;
+  char  dm55  =  (char)1187127160;
  float p6bh0u809 = -1126368041;
 	long	BWZX	=	-887893707;
 	unsigned long	qEY_2y	=	1412019586;
@@ -43,7 +43,7 @@ int main(int argc, char** argv)
   short  V_V_h4A  =  -844605767;
  unsigned int CaieD = 1109984632;
 	short int	aA7q	=	0;
-	unsigned short int	IU1U	=	1742737485;
+	unsigned short int	IU1U	=	(unsigned short)1742737485;
  short o7WII5D = 1038056904;
   double  m_54  =  1663964822;
     unsigned long long    C95Cgr    =    814468050;
@@ -54,7 +54,7 @@ int main(int argc, char** argv)
 	short	Uj_3zVp	=	1699685794;
 	unsigned long	A9ZZm0	=	0;
   float  jT_Gk80  =  -1812570846;
-	short	XFkx0mp	=	-1174130777;
+	short	XFkx0mp	=	(short)-1174130777;
 	unsigned long long	r1PwM2	=	1963125224;
   long  url71  =  773147246;
  short int sDB2Ka2 = -1643735183;
@@ -64,7 +64,7 @@ int main(int argc, char** argv)
     long    ltq4BSW    =    -1091963272;
  unsigned long long yHA35z = 1410060482;
  unsigned short rtR_1mYr01 = -924339121;
-  short int  uh31c  =  -1597785434;
+  short int  uh31c  =  (short)-1597785434;
  unsigned short int Z1hPPbh8 = 0;
 
 ZURzs = (int)floor(OJRHk45T);
@@ -302,7 +302,7 @@ case 'e':
 OJRHk45T = (int)floor(ZURzs);
 break;
 default:
-Qwu7j = (d7G7LPn_9 != 1868676353) ? -1219095149 : (unsigned short)-284059282;
+Qwu7j = (d7G7LPn_9 != 1868676353) ? (unsigned short)-1219095149 : (unsigned short)-284059282;
 break;
 }
 OJRHk45T = (int)floor(jT_Gk80);

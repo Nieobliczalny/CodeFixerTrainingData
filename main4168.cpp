@@ -102,7 +102,7 @@ else if (UOJun >= -1076992647)
 int k = 0;
 do
 {
-uiBom = C5U6H(uiBom, 1235087331, Eq3xSM);
+uiBom = C5U6H(uiBom, (unsigned short)1235087331, Eq3xSM);
 ++k;
 }
 while (k < 10);
@@ -132,7 +132,7 @@ q123L_z = F8RnfPb6I(ZNDwr2);
 }
 else
 {
-U1HE62b = C5U6H(-35382784, 1868695432, Pp25FoJq0);
+U1HE62b = C5U6H(-35382784, (unsigned short)1868695432, Pp25FoJq0);
 }
 }
 ++i;
@@ -165,7 +165,7 @@ UOJun = (int)abs(qPp7Q);
 break;
 case 'f':
 case 'F':
-GK0_ = C5U6H(GK0_, -1160897018, Z5Ha3);
+GK0_ = C5U6H(GK0_, (unsigned short)-1160897018, Z5Ha3);
 break;
 case 'g':
 case 'G':
@@ -178,7 +178,7 @@ break;
 }
 }
 u_Ef = (long long)(MlYf8);
-k4f83Ce = C5U6H(k4f83Ce, 118047319, 388915144);
+k4f83Ce = C5U6H(k4f83Ce, (unsigned short)118047319, 388915144);
 std::cout << "X4J23A" << F8RnfPb6I(k4f83Ce) << F8RnfPb6I((short)2060243150) << F8RnfPb6I(-494674972) << std::endl;
 
 for (int i = 0; i < 8; ++i)
@@ -208,7 +208,7 @@ case 'a':
 q123L_z = F8RnfPb6I(r8qZ);
 break;
 case 'b':
-q123L_z = F8RnfPb6I(-1433752582);
+q123L_z = F8RnfPb6I((short)-1433752582);
 break;
 case 'c':
 HjPADa1wd = V2STABvInj ^ 1705623935;
@@ -245,6 +245,6 @@ unsigned int	F8RnfPb6I(short	hbzst)	{
 }
 
 unsigned short	C5U6H(long long	ohM9pn1rz,unsigned short	YhrivrY9M,unsigned int	Zuco85P)	{
-	return	-133862163;
+	return	(unsigned short)-133862163;
 }
 

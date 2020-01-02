@@ -128,7 +128,7 @@ else
 {
 try
 {
-H2K_12_ = gY1_(1145490131, A3Nc6_Irw);
+H2K_12_ = gY1_((unsigned short)1145490131, A3Nc6_Irw);
 }
 catch (int& errorCode)
 {
@@ -148,7 +148,7 @@ qI4Xz <<= 1001653982;
 break;
 case 'b':
 case 'B':
-dJ1E9V = aj6A(2029377970, QW82e1I, Xf3LpiD2);
+dJ1E9V = aj6A((unsigned char)2029377970, QW82e1I, Xf3LpiD2);
 break;
 case 'c':
 case 'C':
@@ -164,7 +164,7 @@ Xf3LpiD2 = bcXu | MVf825N;
 break;
 case 'f':
 case 'F':
-ifigu3 = gY1_(668449417, (unsigned char)1250303525);
+ifigu3 = gY1_((unsigned short)668449417, (unsigned char)1250303525);
 break;
 case 'g':
 case 'G':
@@ -187,7 +187,7 @@ try
 int j = 0;
 do
 {
-std::cout << "fX3iz" << "plP1" << aj6A(-1198800674, (short)-2145919116, Am6e40Mx45) << "ZV6QP78_1A" << std::endl;
+std::cout << "fX3iz" << "plP1" << aj6A((unsigned char)-1198800674, (short)-2145919116, Am6e40Mx45) << "ZV6QP78_1A" << std::endl;
 j++;
 }
 while (j < 9);
@@ -198,7 +198,7 @@ catch (int& errorCode)
 os5nn = gY1_(os5nn, -538132272);
 }
 
-if ((vZXzbC2D / F_HQFry9(os5nn, 1728370100, (unsigned short)1299985912, G49nHFmsaL, RCb_4Nh4)) <= 1796754287)
+if ((vZXzbC2D / F_HQFry9(os5nn, (char)1728370100, (unsigned short)1299985912, G49nHFmsaL, RCb_4Nh4)) <= 1796754287)
 {
 if ((gY1_(1015474903, -744242847) / F_HQFry9(os5nn, -37351902, p8nGc34, G49nHFmsaL, RCb_4Nh4)) != 1257720530)
 {
@@ -214,7 +214,7 @@ try
 {
 try
 {
-QLw62octA4 = gY1_(606977606, (unsigned char)1815544693);
+QLw62octA4 = gY1_((unsigned short)606977606, (unsigned char)1815544693);
 }
 catch (int& errorCode)
 {
@@ -232,7 +232,7 @@ int i = 7;
 while (i >= 0)
 {
 i--;
-std::cout << gY1_(GJJ5PEi96, -744648438) << z8q40MbrX << "j8pUjO" << std::endl;
+std::cout << gY1_(GJJ5PEi96, (unsigned char)-744648438) << z8q40MbrX << "j8pUjO" << std::endl;
 }
 }
 if (cv07_ != 499988981)
@@ -256,7 +256,7 @@ return 0;
 }
 
 char	gY1_(unsigned short	gm_t,unsigned char	CJp2)	{
-	return	-266799684;
+	return	(char)-266799684;
 }
 
 long long    F_HQFry9(int    GpJ6Mbijnr,char    ia0FO3q23,unsigned short    j9M6qQIWt,unsigned short int    pTPP4_30_,long long    FL7u9_SK)    {

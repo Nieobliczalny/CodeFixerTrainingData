@@ -119,7 +119,7 @@ case 'a':
 SyRO69_ = SyRO69_ - 896085938;
 break;
 case 'b':
-f1J5 = B9EA51_z40(1284022283, 1026004807, f1J5, t5a2Q0qs, 1312276018);
+f1J5 = B9EA51_z40((unsigned short)1284022283, 1026004807, f1J5, t5a2Q0qs, 1312276018);
 break;
 case 'c':
 J0L7 = B9EA51_z40(J0L7, h_7zEs, -1080604624, XyyZCW_d, -1112550330);
@@ -141,7 +141,7 @@ Q98rj >>= 1122466266;
 }
 else if (bTrtF36 > 2135578538)
 {
-f1J5 = B9EA51_z40(-342514558, -400576257, h_7zEs, e05OfF, ph745t3a);
+f1J5 = B9EA51_z40((unsigned short)-342514558, -400576257, h_7zEs, e05OfF, ph745t3a);
 }
 else
 {
@@ -186,7 +186,7 @@ do
 {
 if (ExTi8O != -1530706772)
 {
-J0L7 = B9EA51_z40(139824022, SyRO69_, JX9p3, (unsigned char)1925245492, -136539773);
+J0L7 = B9EA51_z40((unsigned short)139824022, SyRO69_, JX9p3, (unsigned char)1925245492, -136539773);
 }
 else if (z_ze >= -3434096)
 {
@@ -237,7 +237,7 @@ else
 {
 if (aK1Bx >= 1020046264)
 {
-d2c433Bx = B9EA51_z40(-1548835287, Kbl4Tis, d2c433Bx, (unsigned char)60745365, pIcfur1A);
+d2c433Bx = B9EA51_z40((unsigned short)-1548835287, Kbl4Tis, d2c433Bx, (unsigned char)60745365, pIcfur1A);
 }
 else
 {
@@ -364,7 +364,7 @@ else if ((RDhrIz > qLLJ) || (ph745t3a > -1615891543))
 {
 for (int k = 0; k < 7; ++k)
 {
-aK1Bx = B9EA51_z40(178679232, RDhrIz, 377993178, QLLVeIXv, -276826458);
+aK1Bx = B9EA51_z40((unsigned short)178679232, RDhrIz, 377993178, QLLVeIXv, -276826458);
 }
 }
 else
@@ -450,7 +450,7 @@ case 2:
 sbzKyAX6B3 *= t5a2Q0qs;
 break;
 case 3:
-J0L7 = B9EA51_z40(Q98rj, 849222446, 1890211406, -1845945771, 691633387);
+J0L7 = B9EA51_z40(Q98rj, 849222446, 1890211406, (unsigned char)-1845945771, 691633387);
 break;
 case 4:
 XyyZCW_d--;
@@ -602,7 +602,7 @@ f1J5 = (int)abs(d2c433Bx);
 break;
 case 'h':
 case 'H':
-f1J5 = B9EA51_z40(h_7zEs, -1275828006, 87684455, 2005478916, -61446676);
+f1J5 = B9EA51_z40(h_7zEs, -1275828006, 87684455, (unsigned char)2005478916, -61446676);
 break;
 default:
 h_7zEs = K4O1aUy_6 - HZ9Db96p_;
@@ -629,7 +629,7 @@ else
 int j = 8;
 do
 {
-std::cout << vH3c034x3() << "b_bJm4_27" << sn5R << B9EA51_z40(-1339021547, -1572584457, Rj_X_li1, (unsigned char)-1884656616, wO6pkVCgF5) << z_ze << std::endl;
+std::cout << vH3c034x3() << "b_bJm4_27" << sn5R << B9EA51_z40((unsigned short)-1339021547, -1572584457, Rj_X_li1, (unsigned char)-1884656616, wO6pkVCgF5) << z_ze << std::endl;
 --j;
 }
 while (j >= 0);
@@ -649,6 +649,6 @@ short    B9EA51_z40(unsigned short int    r03_ydGr8B,long long    kY_G6uk4B,unsi
 }
 
 short vH3c034x3() {
- return -1149358168;
+ return (short)-1149358168;
 }
 

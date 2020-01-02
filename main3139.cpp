@@ -239,7 +239,7 @@ cout << s23kZC5nl1 << II1B3huVs << s23kZC5nl1 << Yn0033Uqx << endl;
 R4Lb8QP /= 695989700;
 aD46_ek--;
 
-KrX4nVv5g1 = (o_Dia6_14 < 1989136007) ? Gz_L4 : -947892026;
+KrX4nVv5g1 = (o_Dia6_14 < 1989136007) ? Gz_L4 : (unsigned short)-947892026;
 {
 int i = 3;
 while (i >= 0)
@@ -347,7 +347,7 @@ if ((o_Dia6_14 < -1393278058) && (RoK1 != -1161379254))
 {
 W9LpWA7t1 = (unsigned short int)(II1B3huVs + (834415134));
 }
-u7W4V = (u75Q04xU == 793592833) ? 1584924971 : W9LpWA7t1;
+u7W4V = (u75Q04xU == 793592833) ? (unsigned short)1584924971 : W9LpWA7t1;
 if (o1c76oIo <= W9LpWA7t1)
 {
 cout << "TG5iRS" << M0i79 << TndqbJq << QKSUn_A << qN60t << endl;

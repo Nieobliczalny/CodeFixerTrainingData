@@ -18,7 +18,7 @@ int main(int argc, char** argv) {
  unsigned int Bc58g4T;
  Bc58g4T = -1472479965;
   short  v9_g01L;
-  v9_g01L  =  -1401104769;
+  v9_g01L  =  (short)-1401104769;
   unsigned int  h_EVri;
   h_EVri  =  0;
 	unsigned int	Y_4r5cVjvQ;
@@ -34,7 +34,7 @@ int main(int argc, char** argv) {
 	long long	KctCJ;
 	KctCJ	=	2050326393;
 	unsigned char	tBT4w0;
-	tBT4w0	=	877365019;
+	tBT4w0	=	(unsigned char)877365019;
 
 TD41f0I = R8q2cB6J ^ v9_g01L;
 

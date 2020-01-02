@@ -10,7 +10,7 @@ using namespace std;
 
 short V1In0c5H(long long GFak1N6)
 {
- return -1472021129;
+ return (short)-1472021129;
 }
 
 unsigned char  TGqyd31HSP(short int  BAWlY963)  {
@@ -50,7 +50,7 @@ case 4:
 fYYn = V1In0c5H(fYYn);
 break;
 case 5:
-nHLIwXXD = TGqyd31HSP(1758985518);
+nHLIwXXD = TGqyd31HSP((short)1758985518);
 break;
 case 6:
 ADpC0WCO = (int)abs(KVtgwWD0);
@@ -65,7 +65,7 @@ ST1EXH -= isAqP14;
 }
 else if (U1x6e == 655883232)
 {
-nHLIwXXD = TGqyd31HSP(-549219056);
+nHLIwXXD = TGqyd31HSP((short)-549219056);
 }
 else
 {
@@ -164,7 +164,7 @@ FimkW = V1In0c5H(FimkW);
 break;
 case 'b':
 case 'B':
-t8Jg97ebm = TGqyd31HSP(1506188167);
+t8Jg97ebm = TGqyd31HSP((short)1506188167);
 break;
 case 'c':
 case 'C':
@@ -176,7 +176,7 @@ nHLIwXXD = TGqyd31HSP((short)-65677026);
 break;
 case 'e':
 case 'E':
-nHLIwXXD = TGqyd31HSP(1705980546);
+nHLIwXXD = TGqyd31HSP((short)1705980546);
 break;
 case 'f':
 case 'F':
@@ -188,7 +188,7 @@ u4G8d6z <<= m_E31Cl90s;
 break;
 case 'h':
 case 'H':
-nHLIwXXD = TGqyd31HSP(747114028);
+nHLIwXXD = TGqyd31HSP((short)747114028);
 break;
 case 'i':
 case 'I':
@@ -200,7 +200,7 @@ break;
 }
 for (int i = 5; i >= 0; i--)
 {
-t8Jg97ebm = TGqyd31HSP(1333589974);
+t8Jg97ebm = TGqyd31HSP((short)1333589974);
 }
 {
 int i = 0;
@@ -229,7 +229,7 @@ A749H9A9 = jP4Zj2090 % 655315184;
 }
 else if (t8Jg97ebm != -1925106822)
 {
-t8Jg97ebm = TGqyd31HSP(-342716332);
+t8Jg97ebm = TGqyd31HSP((short)-342716332);
 }
 else if (l_4Wz < RycZm21WO7)
 {
@@ -327,7 +327,7 @@ Pz6h45u9 = y_dHm9 & 383575118;
 }
 else
 {
-nHLIwXXD = TGqyd31HSP(219891843);
+nHLIwXXD = TGqyd31HSP((short)219891843);
 }
 }
 }
@@ -343,7 +343,7 @@ case 'a':
 Ls00L = hQQBBO46_ << r0Bl;
 break;
 case 'b':
-t8Jg97ebm = TGqyd31HSP(-343655199);
+t8Jg97ebm = TGqyd31HSP((short)-343655199);
 break;
 case 'c':
 ybY1y007 >>= A749H9A9;
@@ -472,7 +472,7 @@ else
 {
 if (SJf03J2U2 > BtIsxa5__h)
 {
-t8Jg97ebm = TGqyd31HSP(960735105);
+t8Jg97ebm = TGqyd31HSP((short)960735105);
 }
 }
 }
@@ -499,7 +499,7 @@ if (K0TQ0sR7a8 <= Ej6ph0q9)
 int k = 0;
 do
 {
-nHLIwXXD = TGqyd31HSP(-1515477102);
+nHLIwXXD = TGqyd31HSP((short)-1515477102);
 k++;
 }
 while (k < 7);
@@ -537,7 +537,7 @@ else
 int j = 6;
 while (j >= 0)
 {
-nHLIwXXD = TGqyd31HSP(1313324603);
+nHLIwXXD = TGqyd31HSP((short)1313324603);
 --j;
 }
 }

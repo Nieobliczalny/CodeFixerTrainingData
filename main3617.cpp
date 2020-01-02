@@ -16,7 +16,7 @@ int main(void)
  unsigned long B37F8hT = 0;
 	unsigned long	MyYWk_ZRsU	=	625687343;
 	short int	uNFi180g6	=	0;
-    short int    b2_Wd0_tz    =    1550461671;
+    short int    b2_Wd0_tz    =    (short)1550461671;
   unsigned int  NYNP1G6sq  =  -1836671383;
  unsigned int EAO2HU = 2094257969;
 	unsigned long	NOQ3sbUC	=	0;

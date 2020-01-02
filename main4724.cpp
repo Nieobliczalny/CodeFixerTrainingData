@@ -25,7 +25,7 @@ long    C7_Jl2Xl()    {
 }
 
 unsigned short int    cv3ibEp5(unsigned char    vE5bdcOqY)    {
-    return    -1582062610;
+    return    (unsigned short)-1582062610;
 }
 
 int main(int argc, char** argv) {
@@ -263,7 +263,7 @@ case 8:
 tJq7 = (VC7Zr70 & SPlzZ6H) ? bte06HzlLQ : ecu6;
 break;
 case 9:
-JQVx3u3 = cv3ibEp5(-1183220823);
+JQVx3u3 = cv3ibEp5((unsigned char)-1183220823);
 break;
 }
 --j;

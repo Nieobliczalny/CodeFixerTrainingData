@@ -146,7 +146,7 @@ or379Ykvr = TCIwA7();
 }
 else
 {
-z9qz3 = J9v9im(qcw4, 577737578, wwcJqrK_r7);
+z9qz3 = J9v9im(qcw4, (unsigned short)577737578, wwcJqrK_r7);
 }
 }
 else if (z9qz3 < or379Ykvr)
@@ -179,7 +179,7 @@ case 2:
 z9qz3 = TCIwA7();
 break;
 case 3:
-z9qz3 = J9v9im(-803340673, wwcJqrK_r7, qcw4);
+z9qz3 = J9v9im((unsigned short)-803340673, wwcJqrK_r7, qcw4);
 break;
 case 4:
 z9qz3 *= or379Ykvr;
@@ -322,7 +322,7 @@ if (z9qz3)
 {
 if (wwcJqrK_r7 != -506603836)
 {
-or379Ykvr = J9v9im(or379Ykvr, 2088156842, -1404480086);
+or379Ykvr = J9v9im(or379Ykvr, (unsigned short)2088156842, -1404480086);
 }
 else if (((z9qz3 & qcw4) || (z9qz3 != qcw4)) && (wwcJqrK_r7 < -803041373))
 {
@@ -434,7 +434,7 @@ cout << "rypS5" << N0Ya4o6b(1912485907) << ywGnnUSEi(844331930) << z9qz3 << endl
 }
 else if (qcw4 > Z3FUP)
 {
-or379Ykvr = J9v9im(533700303, (unsigned short)-30194767, 387053165);
+or379Ykvr = J9v9im((unsigned short)533700303, (unsigned short)-30194767, 387053165);
 }
 else
 {
@@ -523,7 +523,7 @@ else if ((or379Ykvr <= C0eZ) || (or379Ykvr < -1690346530))
 {
 try
 {
-z9qz3 = J9v9im(-1661805773, qcw4, or379Ykvr) / qcw4;
+z9qz3 = J9v9im((unsigned short)-1661805773, qcw4, or379Ykvr) / qcw4;
 }
 catch (int& errorCode)
 {
@@ -534,7 +534,7 @@ else
 {
 if (qcw4 != wwcJqrK_r7)
 {
-z9qz3 = J9v9im(-1878838676, wwcJqrK_r7, 448321582);
+z9qz3 = J9v9im((unsigned short)-1878838676, wwcJqrK_r7, 448321582);
 }
 else
 {
@@ -544,7 +544,7 @@ z9qz3 = or379Ykvr + 1870774967;
 }
 else if (z9qz3 > qcw4)
 {
-or379Ykvr = J9v9im(-1655226891, (unsigned short)-277342955, 1990707958);
+or379Ykvr = J9v9im((unsigned short)-1655226891, (unsigned short)-277342955, 1990707958);
 }
 else if (wwcJqrK_r7 & 1318816294)
 {
@@ -597,7 +597,7 @@ case 'b':
 z9qz3 <<= 640083290;
 break;
 case 'c':
-or379Ykvr = J9v9im(-1493370680, (unsigned short)75615942, wwcJqrK_r7);
+or379Ykvr = J9v9im((unsigned short)-1493370680, (unsigned short)75615942, wwcJqrK_r7);
 break;
 case 'd':
 z9qz3 = wwcJqrK_r7 & 119643688;
@@ -682,7 +682,7 @@ else if ((or379Ykvr != -1522631491) && ((qcw4 == -182999757) || (qcw4 & C0eZ)))
 switch (or379Ykvr)
 {
 case 0:
-or379Ykvr = J9v9im(-1063864469, or379Ykvr, z9qz3);
+or379Ykvr = J9v9im((unsigned short)-1063864469, or379Ykvr, z9qz3);
 break;
 case 1:
 or379Ykvr = (int)abs(z9qz3);
@@ -784,7 +784,7 @@ return 0;
 }
 
 short  MGBkQ()  {
-  return  -1289824797;
+  return  (short)-1289824797;
 }
 
 long long    N0Ya4o6b(unsigned long    mhjB8A)
@@ -802,6 +802,6 @@ unsigned int    J9v9im(unsigned short    gfr1DQqh5,unsigned short    Rpz52G0,lon
 
 char TCIwA7()
 {
- return -705147946;
+ return (char)-705147946;
 }
 

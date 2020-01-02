@@ -10,7 +10,7 @@ using namespace std;
 
 int main(void)
 {
- unsigned short int w64W_7930 = -216143806;
+ unsigned short int w64W_7930 = (unsigned short)-216143806;
 	unsigned short int	gsdZo515xR	=	(unsigned short)1263338358;
   unsigned short  H5x0IR  =  532898278;
  unsigned short AsY2_gpmr3 = 1537769126;
@@ -22,7 +22,7 @@ int main(void)
   unsigned char  ujHqGzndU3  =  719137941;
 	double	d9ii	=	1446259345;
 	long long	xWOVfjb	=	-1243799145;
- short mC1450_Om = 271527723;
+ short mC1450_Om = (short)271527723;
   unsigned short  Y48sk  =  (unsigned short)-1973399498;
     unsigned long long    s9r_3    =    593825030;
 	unsigned short	cnEF_TX5I	=	0;
@@ -35,7 +35,7 @@ int main(void)
   unsigned long  Et_ke9  =  1114796625;
  long eUYp0JC = 1216404390;
   long  Hm3Z3v9  =  -1603492315;
-	unsigned short int	ezw04j	=	1674317365;
+	unsigned short int	ezw04j	=	(unsigned short)1674317365;
 	long long	rRlv964C1	=	0;
  unsigned int h40sh = 64068438;
  int VEr2TjU2z = -1272140166;
@@ -281,7 +281,7 @@ case 4:
 sY_m7bCe = (int)floor(d9ii);
 break;
 case 5:
-ujHqGzndU3 = (cE34y9 == -1575920737) ? 1862262507 : (unsigned char)-133572374;
+ujHqGzndU3 = (cE34y9 == -1575920737) ? (unsigned char)1862262507 : (unsigned char)-133572374;
 break;
 case 6:
 sY_m7bCe = (int)floor(d9ii);

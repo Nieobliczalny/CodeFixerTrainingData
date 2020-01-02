@@ -15,7 +15,7 @@ using namespace std;
 
 int main() {
     unsigned short    Xz1hFk53h6;
-    Xz1hFk53h6    =    -59836271;
+    Xz1hFk53h6    =    (unsigned short)-59836271;
  unsigned int YYX137F;
  YYX137F = 2007621027;
   long  GgFFM;
@@ -37,7 +37,7 @@ int main() {
 	int	VV1bSz2et9;
 	VV1bSz2et9	=	463044386;
 	unsigned short int	JEeG;
-	JEeG	=	336910385;
+	JEeG	=	(unsigned short)336910385;
     short int    hb_0qy;
     hb_0qy    =    (short)673309098;
 	unsigned char	VNeykM;
@@ -53,7 +53,7 @@ int main() {
     unsigned long    vj53s;
     vj53s    =    1420726164;
 	char	j6UE74F6;
-	j6UE74F6	=	-2130596931;
+	j6UE74F6	=	(char)-2130596931;
     double    VaS0c4UA6;
     VaS0c4UA6    =    -660562905;
   unsigned long  Bh2ciH41y7;
@@ -329,7 +329,7 @@ else
 {
 if (j6UE74F6 != zd_89)
 {
-j6UE74F6 = (VNeykM == VaS0c4UA6) ? 261935402 : GgFFM;
+j6UE74F6 = (VNeykM == VaS0c4UA6) ? (char)261935402 : GgFFM;
 }
 }
 }

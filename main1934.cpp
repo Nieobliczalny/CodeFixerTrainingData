@@ -139,7 +139,7 @@ else if (lRoV != Xfyab)
 switch (l0Dj5fkJ4M)
 {
 case 0:
-l0Dj5fkJ4M = (YG5SW <= -508274197) ? FnmrYJWG8 : -507325187;
+l0Dj5fkJ4M = (YG5SW <= -508274197) ? FnmrYJWG8 : (unsigned short)-507325187;
 break;
 case 1:
 k19JJ7 = j_2e();

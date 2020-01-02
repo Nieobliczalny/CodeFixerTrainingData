@@ -18,7 +18,7 @@ int HEJOGTc45(unsigned short int u8xp) {
 }
 
 unsigned char    nL5T()    {
-    return    -1577100536;
+    return    (unsigned char)-1577100536;
 }
 
 int    Yq5hJ_1(long    eEJ9orww1k)

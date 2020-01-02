@@ -55,7 +55,7 @@ ua4m_4 = (long long)(Fh2IpE_);
 
 if ((-1638204025 / Ze1sdo0) <= 2052570598)
 {
-JVkEPSW5u4 = oYq_zo3d(565235411, -1484214216, hIlCrNq, NtsrVm49Hn) / Ze1sdo0;
+JVkEPSW5u4 = oYq_zo3d(565235411, (char)-1484214216, hIlCrNq, NtsrVm49Hn) / Ze1sdo0;
 }
 if (V3S30sc7x == APLQ5m4)
 {
@@ -67,7 +67,7 @@ cout << mkHe6W << N6uBEJ(-1203230094, MyFIXH0, hIlCrNq, 1769027661, -1832636157)
 switch (rcwD)
 {
 case 0:
-arLvrbAa = oYq_zo3d(arLvrbAa, 954541365, 893055031, JS_Z8C);
+arLvrbAa = oYq_zo3d(arLvrbAa, (char)954541365, 893055031, JS_Z8C);
 break;
 case 1:
 MuI6OP2arH = oYq_zo3d(1192884489, IdVTxt3fz, -233611859, (char)-1733691727);
@@ -85,7 +85,7 @@ case 5:
 yw55 = IxcHa() >> tXQpB_KFT;
 break;
 case 6:
-Fh2IpE_ = oYq_zo3d(699130711, 2018814794, mkHe6W, mJ0QSzVb_);
+Fh2IpE_ = oYq_zo3d(699130711, (char)2018814794, mkHe6W, mJ0QSzVb_);
 break;
 case 7:
 V3S30sc7x = TxnbxXLemq(1172261863);
@@ -104,7 +104,7 @@ cout << "F3o1Ka" << "C55_x_" << endl;
 
 if (MuI6OP2arH & WdeNpw7Ops)
 {
-cout << H_72V060 << TxnbxXLemq(1922537450) << oYq_zo3d(hIlCrNq, 237358956, WaqXuy_42J, yr_56705n) << N6uBEJ(hIlCrNq, -230978014, -717192472, -2040116560, -1854883323) << endl;
+cout << H_72V060 << TxnbxXLemq(1922537450) << oYq_zo3d(hIlCrNq, (char)237358956, WaqXuy_42J, yr_56705n) << N6uBEJ(hIlCrNq, -230978014, -717192472, -2040116560, -1854883323) << endl;
 }
 
 switch (mJ0QSzVb_)
@@ -134,7 +134,7 @@ else
 {
 for (int k = 1; k >= 0; k--)
 {
-X3T1 = oYq_zo3d(1134343058, 2036353232, 1016294864, yr_56705n) * OF8vD4X7;
+X3T1 = oYq_zo3d(1134343058, (char)2036353232, 1016294864, yr_56705n) * OF8vD4X7;
 }
 }
 }
@@ -185,7 +185,7 @@ return 0;
 }
 
 unsigned short int  oYq_zo3d(long  IoNm_knn,char  MZaaR8,unsigned int  akG6X,char  Wsl01kujO5)  {
-  return  520366097;
+  return  (unsigned short)520366097;
 }
 
 unsigned long long  IxcHa()  {
@@ -198,7 +198,7 @@ unsigned int    H518()
 }
 
 unsigned short    N6uBEJ(int    qOcB,long    y36B,unsigned long    vLp8,unsigned long long    ldzjxjl82,unsigned long long    M20I)    {
-    return    1079775931;
+    return    (unsigned short)1079775931;
 }
 
 unsigned short	TxnbxXLemq(unsigned long long	vrj60dG)

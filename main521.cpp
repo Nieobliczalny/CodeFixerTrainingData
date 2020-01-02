@@ -43,7 +43,7 @@ int k = 3;
 do
 {
 k--;
-fBNH = nEda25pyOU(-1707339900);
+fBNH = nEda25pyOU((unsigned char)-1707339900);
 }
 while (k >= 0);
 }
@@ -78,7 +78,7 @@ j++;
 }
 else
 {
-fBNH = nEda25pyOU(-1408688892);
+fBNH = nEda25pyOU((unsigned char)-1408688892);
 }
 
 try
@@ -96,7 +96,7 @@ case 'a':
 wWkM = nEda25pyOU(AEiV) ^ 635683762;
 break;
 case 'b':
-fBNH = nEda25pyOU(1274657106);
+fBNH = nEda25pyOU((unsigned char)1274657106);
 break;
 case 'c':
 fBNH = nEda25pyOU((unsigned char)-168145581);
@@ -111,7 +111,7 @@ case 'f':
 b28GA += Wm269tE;
 break;
 case 'g':
-fBNH = nEda25pyOU(1808695463);
+fBNH = nEda25pyOU((unsigned char)1808695463);
 break;
 case 'h':
 fBNH = nEda25pyOU((unsigned char)-2081074829);
@@ -132,7 +132,7 @@ case 'a':
 M8RW0 >>= 1877753372;
 break;
 case 'b':
-fBNH = nEda25pyOU(538119);
+fBNH = nEda25pyOU((unsigned char)538119);
 break;
 case 'c':
 NckLf_ >>= 682264932;
@@ -145,7 +145,7 @@ for (int i = 2; i >= 0; --i)
 {
 if ((b28GA < 730933066) && (NckLf_ <= g6CDxx9))
 {
-fBNH = nEda25pyOU(1305574243);
+fBNH = nEda25pyOU((unsigned char)1305574243);
 }
 else if ((p1CG424 >= fBNH) && (wWkM < g6CDxx9))
 {
@@ -155,7 +155,7 @@ I2OC4_s >>= 948969018;
 }
 else
 {
-fBNH = nEda25pyOU(266198053);
+fBNH = nEda25pyOU((unsigned char)266198053);
 }
 }
 else if (S8eZXDz < 334660473)
@@ -181,7 +181,7 @@ else if (s7c0f <= oOlwJ7i87l)
 switch (M8RW0)
 {
 case 0:
-fBNH = nEda25pyOU(105476620);
+fBNH = nEda25pyOU((unsigned char)105476620);
 break;
 case 1:
 fBNH = nEda25pyOU(s7c0f);
@@ -202,7 +202,7 @@ case 6:
 tFB49G_Yo--;
 break;
 case 7:
-fBNH = nEda25pyOU(-68929435);
+fBNH = nEda25pyOU((unsigned char)-68929435);
 break;
 }
 }
@@ -224,7 +224,7 @@ case 2:
 NckLf_ <<= xFXP9;
 break;
 case 3:
-JXvXM = (AGx0_ <= -1798708785) ? -1064812874 : (unsigned short)1965737537;
+JXvXM = (AGx0_ <= -1798708785) ? (unsigned short)-1064812874 : (unsigned short)1965737537;
 break;
 case 4:
 ktT9 %= 278783038;
@@ -243,7 +243,7 @@ break;
 }
 try
 {
-cout << nEda25pyOU(629896870) << nEda25pyOU(s7c0f) << endl;
+cout << nEda25pyOU((unsigned char)629896870) << nEda25pyOU(s7c0f) << endl;
 }
 catch (int& errorCode)
 {
@@ -281,7 +281,7 @@ try
 switch (Hxi_3C6u)
 {
 case 0:
-fBNH = nEda25pyOU(877039968);
+fBNH = nEda25pyOU((unsigned char)877039968);
 break;
 case 1:
 Hxi_3C6u--;
@@ -313,7 +313,7 @@ case 0:
 z1q6_ &= 799334717;
 break;
 case 1:
-fBNH = nEda25pyOU(2007892852);
+fBNH = nEda25pyOU((unsigned char)2007892852);
 break;
 case 2:
 fBNH = nEda25pyOU((unsigned char)1178189103);
@@ -355,7 +355,7 @@ case 0:
 Hxi_3C6u -= 1011077969;
 break;
 case 1:
-fBNH = nEda25pyOU(936058573);
+fBNH = nEda25pyOU((unsigned char)936058573);
 break;
 case 2:
 S8eZXDz = qEzF ^ AEiV;
@@ -370,7 +370,7 @@ case 5:
 b28GA = n8d9_ / ZFrv;
 break;
 case 6:
-fBNH = nEda25pyOU(1178204731);
+fBNH = nEda25pyOU((unsigned char)1178204731);
 break;
 case 7:
 NckLf_ |= 79697989;
@@ -400,7 +400,7 @@ else
 fBNH = nEda25pyOU(o4j1jR_I);
 }
 
-fBNH = nEda25pyOU(291867800);
+fBNH = nEda25pyOU((unsigned char)291867800);
 S8eZXDz = (unsigned short int)(wWkM);
 
 z1q6_ = (unsigned short int)(oOlwJ7i87l + (226827270));
@@ -450,7 +450,7 @@ if (xFXP9 != 466474740)
 {
 for (int k = 3; k >= 0; k--)
 {
-fBNH = nEda25pyOU(2128768973);
+fBNH = nEda25pyOU((unsigned char)2128768973);
 }
 }
 else

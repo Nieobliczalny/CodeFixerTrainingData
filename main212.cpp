@@ -24,7 +24,7 @@ unsigned long long  OPI84xGQ()
 }
 
 char  XC11LNz379(short  LXG_)  {
-  return  -1944433345;
+  return  (char)-1944433345;
 }
 
 int main(int argc, char** argv)
@@ -52,7 +52,7 @@ case 'd':
 x883_3Vuj = IC2V(-576783853);
 break;
 case 'e':
-w7_n = XC11LNz379(267125531);
+w7_n = XC11LNz379((short)267125531);
 break;
 case 'f':
 w7_n = yz5_T % 1755080384;
@@ -64,7 +64,7 @@ case 'h':
 d__oX6xUQb--;
 break;
 case 'i':
-yz5_T = XC11LNz379(1839732212);
+yz5_T = XC11LNz379((short)1839732212);
 break;
 case 'j':
 x883_3Vuj = XC11LNz379((short)794306084);
@@ -81,7 +81,7 @@ catch (int& errorCode)
 {
 x883_3Vuj = m0W1aloEK / 550588194;
 }
-std::cout << XC11LNz379(-1823881386) << IC2V(x883_3Vuj) << s9s855 << std::endl;
+std::cout << XC11LNz379((short)-1823881386) << IC2V(x883_3Vuj) << s9s855 << std::endl;
 if (d__oX6xUQb > ppaDg)
 {
 SrL5 = (unsigned short)(d__oX6xUQb * SrL5);
@@ -115,7 +115,7 @@ yz5_T = y65GCi_ % 46957478;
 }
 else
 {
-v236 = BDB0SQS(v236, 1319333081, Kl7J);
+v236 = BDB0SQS(v236, (unsigned short)1319333081, Kl7J);
 }
 }
 else
@@ -149,7 +149,7 @@ do
 int j = 10;
 while (j >= 0)
 {
-yz5_T = XC11LNz379(-979051027);
+yz5_T = XC11LNz379((short)-979051027);
 j--;
 }
 }
@@ -181,7 +181,7 @@ case 0:
 v236 = SrL5 ^ 1720384499;
 break;
 case 1:
-yz5_T = XC11LNz379(-350762673);
+yz5_T = XC11LNz379((short)-350762673);
 break;
 }
 

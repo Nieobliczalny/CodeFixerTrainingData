@@ -8,7 +8,7 @@
 
 
 char	DQemJ(short	Jw_2X9,unsigned long long	Fg4F2Gj,unsigned long long	sl5WYG,unsigned short int	ZA6nqOov2g)	{
-	return	530360233;
+	return	(char)530360233;
 }
 
 long	FSf1qNr(int	Hl5hCN,unsigned char	XFk7)	{
@@ -64,7 +64,7 @@ int main(int argc, char** argv)
 	d8ti2J7	=	0;
 	Z1W4xAPKrS	=	0;
 
-E_Uq = DQemJ(1879690140, -1295826440, -1613196165, (unsigned short)581576624);
+E_Uq = DQemJ((short)1879690140, -1295826440, -1613196165, (unsigned short)581576624);
 {
 int i = 0;
 do
@@ -85,7 +85,7 @@ switch (d8ti2J7)
 {
 case 'a':
 case 'A':
-oRGc3 = DQemJ(Z1W4xAPKrS, E_Uq, -948595341, -1597693411) * 278879347;
+oRGc3 = DQemJ(Z1W4xAPKrS, E_Uq, -948595341, (unsigned short)-1597693411) * 278879347;
 break;
 case 'b':
 case 'B':
@@ -101,7 +101,7 @@ z79je = zYJQi45pa2(z79je, -1959219320, 2058156261);
 break;
 case 'e':
 case 'E':
-EfT5EB_A = iJ33(1837825149, CdGG, -436490239);
+EfT5EB_A = iJ33((short)1837825149, CdGG, -436490239);
 break;
 case 'f':
 case 'F':
@@ -136,7 +136,7 @@ switch (PnlCKx0B5)
 {
 case 'a':
 case 'A':
-ek2y = DQemJ(-1025001002, 1065358525, -1221580727, Pv_78EZJ7x);
+ek2y = DQemJ((short)-1025001002, 1065358525, -1221580727, Pv_78EZJ7x);
 break;
 case 'b':
 case 'B':
@@ -183,7 +183,7 @@ Z88_ = zYJQi45pa2(ek2y, M__Xj1Ng, c_jI) >> sQrebzlBf;
 }
 else if (JReM == -432795256)
 {
-d8ti2J7 = iJ33(C7P3qU, d8ti2J7, 555507582);
+d8ti2J7 = iJ33(C7P3qU, d8ti2J7, (unsigned short)555507582);
 }
 else if ((CdGG <= 169987947) && (M__Xj1Ng < lw74UKGn))
 {
@@ -224,7 +224,7 @@ else if (qY33ICi5z == z79je)
 {
 if (C7P3qU)
 {
-ul35I = (Z1W4xAPKrS & k36e0z7BY) ? -1831459583 : DQemJ(1100308516, yoPM, -1054655779, (unsigned short)-463601074);
+ul35I = (Z1W4xAPKrS & k36e0z7BY) ? -1831459583 : DQemJ((short)1100308516, yoPM, -1054655779, (unsigned short)-463601074);
 }
 else if (ek2y)
 {
@@ -240,7 +240,7 @@ Uhksn6my %= DO2_;
 }
 else if (ek2y > -17919849)
 {
-d8ti2J7 = iJ33(oRGc3, -486006449, (unsigned short)-1773306063);
+d8ti2J7 = iJ33(oRGc3, (unsigned char)-486006449, (unsigned short)-1773306063);
 }
 else if (B8xmlgmpHd)
 {
@@ -309,7 +309,7 @@ case 3:
 ZvR0m1Vp = FSf1qNr(ZvR0m1Vp, Z88_);
 break;
 case 4:
-lw74UKGn = DQemJ(767900811, Z88_, AurA17zd3, lw74UKGn) + 1104487952;
+lw74UKGn = DQemJ((short)767900811, Z88_, AurA17zd3, lw74UKGn) + 1104487952;
 break;
 case 5:
 AurA17zd3 = FSf1qNr(-20898840, (unsigned char)-1892869914);
@@ -321,7 +321,7 @@ case 7:
 oRGc3 *= 1031288260;
 break;
 case 8:
-d8ti2J7 = iJ33(1423578737, DO2_, 1500005244);
+d8ti2J7 = iJ33((short)1423578737, DO2_, 1500005244);
 break;
 default:
 d67F &= 1114844909;
@@ -332,7 +332,7 @@ break;
 int i = 0;
 do
 {
-std::cout << FSf1qNr(Z88_, -905189438) << Z88_ << std::endl;
+std::cout << FSf1qNr(Z88_, (unsigned char)-905189438) << Z88_ << std::endl;
 ++i;
 }
 while (i < 7);
@@ -373,7 +373,7 @@ else
 switch (AurA17zd3)
 {
 case 0:
-d8ti2J7 = iJ33(954068270, (unsigned char)-45767952, yoPM);
+d8ti2J7 = iJ33((short)954068270, (unsigned char)-45767952, yoPM);
 break;
 case 1:
 YgHz7mR2w &= ul35I;
@@ -416,7 +416,7 @@ for (int j = 0; j < 8; ++j)
 {
 try
 {
-Z1W4xAPKrS = iJ33(792317307, gZkr, sCZ4);
+Z1W4xAPKrS = iJ33((short)792317307, gZkr, sCZ4);
 }
 catch (int& errorCode)
 {
@@ -427,7 +427,7 @@ AurA17zd3 = FSf1qNr(AurA17zd3, -524696649);
 }
 }
 Uhksn6my--;
-std::cout << iJ33(-1753499523, EfT5EB_A, c_jI) << k36e0z7BY << FSf1qNr(AurA17zd3, (unsigned char)656622574) << std::endl;
+std::cout << iJ33((short)-1753499523, EfT5EB_A, c_jI) << k36e0z7BY << FSf1qNr(AurA17zd3, (unsigned char)656622574) << std::endl;
 
 if (Z88_ > 2142408560)
 {
@@ -458,7 +458,7 @@ else if ((CdGG != ul35I) && (qY33ICi5z >= 966262406))
 {
 for (int k = 0; k < 1; k++)
 {
-EfT5EB_A = iJ33(-1561745569, (unsigned char)1839290351, d67F);
+EfT5EB_A = iJ33((short)-1561745569, (unsigned char)1839290351, d67F);
 }
 }
 else
@@ -476,7 +476,7 @@ while (k < 5);
 }
 else if ((YgHz7mR2w == -1101470067) || ((B8xmlgmpHd) || (C7P3qU & Hud9jdCcv)))
 {
-JReM = FSf1qNr(-429670644, 1616431927);
+JReM = FSf1qNr(-429670644, (unsigned char)1616431927);
 }
 else if (d67F != 1362441841)
 {
@@ -519,7 +519,7 @@ int k = 0;
 do
 {
 k++;
-EfT5EB_A = iJ33(1564877076, oRGc3, qY33ICi5z);
+EfT5EB_A = iJ33((short)1564877076, oRGc3, qY33ICi5z);
 }
 while (k < 1);
 }

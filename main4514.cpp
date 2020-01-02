@@ -23,7 +23,7 @@ int main()
  unsigned short int bYfr5gH5Z = 0;
   short int  OsVl_M  =  0;
  unsigned long jy5_0k2mc = -979207329;
-  unsigned short  Ymz3N33E  =  -393258068;
+  unsigned short  Ymz3N33E  =  (unsigned short)-393258068;
 	int	z6sVro	=	-1951461376;
  unsigned long long ukULG = 0;
 
@@ -50,7 +50,7 @@ case 'c':
 Ymz3N33E = CG__D7L64v(r6_iM7b);
 break;
 case 'd':
-Ymz3N33E = CG__D7L64v(1847848948);
+Ymz3N33E = CG__D7L64v((unsigned char)1847848948);
 break;
 case 'e':
 jy5_0k2mc = CG__D7L64v((unsigned char)1579634366);
@@ -137,7 +137,7 @@ switch (z6sVro)
 {
 case 'a':
 case 'A':
-Ymz3N33E = CG__D7L64v(290704606);
+Ymz3N33E = CG__D7L64v((unsigned char)290704606);
 break;
 case 'b':
 case 'B':
@@ -254,7 +254,7 @@ case 'b':
 jy5_0k2mc ^= z6sVro;
 break;
 case 'c':
-z6sVro = CG__D7L64v(-2031783615);
+z6sVro = CG__D7L64v((unsigned char)-2031783615);
 break;
 case 'd':
 z6sVro = OsVl_M / jy5_0k2mc;
@@ -284,7 +284,7 @@ case 3:
 z6sVro = (int)abs(OsVl_M) + (1571686448);
 break;
 case 4:
-jy5_0k2mc = CG__D7L64v(-1770392729);
+jy5_0k2mc = CG__D7L64v((unsigned char)-1770392729);
 break;
 case 5:
 z6sVro *= Ymz3N33E;
@@ -310,7 +310,7 @@ Ymz3N33E = bYfr5gH5Z * 1686640356;
 }
 }
 }
-jy5_0k2mc = CG__D7L64v(1572759192);
+jy5_0k2mc = CG__D7L64v((unsigned char)1572759192);
 {
 int i = 4;
 do
@@ -360,7 +360,7 @@ else if ((ukULG >= -2022158670) || (Ymz3N33E & -1299670786))
 {
 for (int j = 0; j < 3; ++j)
 {
-cout << CG__D7L64v(-2003854265) << endl;
+cout << CG__D7L64v((unsigned char)-2003854265) << endl;
 }
 }
 else if (r6_iM7b == jy5_0k2mc)
@@ -443,7 +443,7 @@ z6sVro = (int)abs(OsVl_M) + (190544649);
 break;
 case 'f':
 case 'F':
-z6sVro = CG__D7L64v(616403580) + r6_iM7b;
+z6sVro = CG__D7L64v((unsigned char)616403580) + r6_iM7b;
 break;
 case 'g':
 case 'G':
@@ -492,7 +492,7 @@ jy5_0k2mc >>= 1997474942;
 }
 else if (Ymz3N33E < -1283584094)
 {
-jy5_0k2mc = CG__D7L64v(551212982);
+jy5_0k2mc = CG__D7L64v((unsigned char)551212982);
 }
 else
 {
@@ -565,6 +565,6 @@ long long  VV_vY8()
 }
 
 unsigned short int CG__D7L64v(unsigned char ZsV_C_) {
- return 855863029;
+ return (unsigned short)855863029;
 }
 

@@ -27,7 +27,7 @@ else if (ZU94g > 834142119)
 {
 if (aJSq4 != 487245328)
 {
-oHwva = DZDw_ah49(-1919969791, 369930841) | 1835661428;
+oHwva = DZDw_ah49((unsigned short)-1919969791, 369930841) | 1835661428;
 }
 }
 else if (o402D)
@@ -67,7 +67,7 @@ GEes = n2RLlDr | 1273528144;
 }
 }
 
-std::cout << DZDw_ah49(-1331917840, 684771254) << "N722h8f6C" << o9b9q53yZ2 << std::endl;
+std::cout << DZDw_ah49((unsigned short)-1331917840, 684771254) << "N722h8f6C" << o9b9q53yZ2 << std::endl;
 if (SR22Cv0XW != 1049880123)
 {
 {
@@ -110,7 +110,7 @@ do
 j++;
 if (aJSq4 & -1660625011)
 {
-NU0_psLt2y = DZDw_ah49(1793930054, -517130933);
+NU0_psLt2y = DZDw_ah49((unsigned short)1793930054, -517130933);
 }
 else if (SK_2Ze31 <= vJ856N9d)
 {
@@ -130,7 +130,7 @@ while (j < 8);
 }
 else if (aJSq4 > G2XY__B)
 {
-C1Ebf3_ = DZDw_ah49(1620513023, 622437799);
+C1Ebf3_ = DZDw_ah49((unsigned short)1620513023, 622437799);
 }
 else if (aMxs == -1312478189)
 {
@@ -140,7 +140,7 @@ else
 {
 if (ScU0 & -977305079)
 {
-NU0_psLt2y = DZDw_ah49(-172442155, -39057694);
+NU0_psLt2y = DZDw_ah49((unsigned short)-172442155, -39057694);
 }
 else
 {
@@ -233,7 +233,7 @@ switch (o9b9q53yZ2)
 {
 case 'a':
 case 'A':
-C1Ebf3_ = DZDw_ah49(-749800546, -140707086);
+C1Ebf3_ = DZDw_ah49((unsigned short)-749800546, -140707086);
 break;
 case 'b':
 case 'B':
@@ -253,7 +253,7 @@ SK_2Ze31 = xUgr >> 1542281236;
 break;
 case 'f':
 case 'F':
-vJ856N9d = DZDw_ah49(-490999768, 145877571) / 194134357;
+vJ856N9d = DZDw_ah49((unsigned short)-490999768, 145877571) / 194134357;
 break;
 case 'g':
 case 'G':
@@ -298,7 +298,7 @@ case 'a':
 n2RLlDr = DZDw_ah49(k89_l91, -1583042274);
 break;
 default:
-C1Ebf3_ = DZDw_ah49(-1649151772, 481215883);
+C1Ebf3_ = DZDw_ah49((unsigned short)-1649151772, 481215883);
 break;
 }
 }
@@ -314,7 +314,7 @@ n2RLlDr = DZDw_ah49(q2N8Y, WloVw60F9i);
 }
 else
 {
-C1Ebf3_ = DZDw_ah49(939029785, g3mI6u_61);
+C1Ebf3_ = DZDw_ah49((unsigned short)939029785, g3mI6u_61);
 }
 }
 else if (o402D <= k89_l91)
@@ -383,7 +383,7 @@ case 0:
 n2RLlDr = (int)abs(C1Ebf3_);
 break;
 case 1:
-n2RLlDr = DZDw_ah49(-1964873819, q2N8Y);
+n2RLlDr = DZDw_ah49((unsigned short)-1964873819, q2N8Y);
 break;
 case 2:
 C1Ebf3_ = DZDw_ah49((unsigned short)-755618873, -463196232);
@@ -395,7 +395,7 @@ case 4:
 C1Ebf3_ = DZDw_ah49(436335246, 1850921665);
 break;
 case 5:
-n2RLlDr = DZDw_ah49(-1309040443, -1431478801);
+n2RLlDr = DZDw_ah49((unsigned short)-1309040443, -1431478801);
 break;
 case 6:
 n2RLlDr = DZDw_ah49((unsigned short)106763780, Je6k6e943G);

@@ -14,7 +14,7 @@ int  HTK_9b1();
 int main(int argc, char** argv)
 {
   unsigned short int  o0Ipg1h9,  aflos3,  n9e7,  JubVcf,  Z3hwg9X,  k6X3NLzz,  kNs_,  Y90Z67xS,  GGhL5C10Qg,  iWj0s8u,  lPOihRVEYp,  N3Okx,  lrVQ4S2Fms,  E__bJ70nnx,  N37P,  bL_CkT_G2,  oClE,  LiDflrSe1C,  N2F5RyL6Kp,  i_lI6MI,  Ebeb1a9,  r_3E58,  omj8a3RxV,  XHe_xW8,  w911lk_QK_,  q7IUT;
-  o0Ipg1h9  =  -379623231;
+  o0Ipg1h9  =  (unsigned short)-379623231;
   aflos3  =  (unsigned short)1298379803;
   n9e7  =  1064195654;
   JubVcf  =  435722100;
@@ -24,7 +24,7 @@ int main(int argc, char** argv)
   Y90Z67xS  =  -291192636;
   GGhL5C10Qg  =  1928909785;
   iWj0s8u  =  168842496;
-  lPOihRVEYp  =  1452443073;
+  lPOihRVEYp  =  (unsigned short)1452443073;
   N3Okx  =  (unsigned short)-93945260;
   lrVQ4S2Fms  =  1363643668;
   E__bJ70nnx  =  62912881;
@@ -34,7 +34,7 @@ int main(int argc, char** argv)
   LiDflrSe1C  =  -484654658;
   N2F5RyL6Kp  =  768400192;
   i_lI6MI  =  731023627;
-  Ebeb1a9  =  609934744;
+  Ebeb1a9  =  (unsigned short)609934744;
   r_3E58  =  (unsigned short)-1162122539;
   omj8a3RxV  =  655286835;
   XHe_xW8  =  -1265199212;
@@ -55,7 +55,7 @@ int k = 2;
 do
 {
 --k;
-n9e7 = XjIk(-935049779, -364507680, E__bJ70nnx, (short)-949225011);
+n9e7 = XjIk(-935049779, (unsigned char)-364507680, E__bJ70nnx, (short)-949225011);
 }
 while (k >= 0);
 }
@@ -103,7 +103,7 @@ lV5ZIi = HTK_9b1();
 }
 }
 }
-N2F5RyL6Kp = XjIk(-346276159, N2F5RyL6Kp, i_lI6MI, -546198716);
+N2F5RyL6Kp = XjIk(-346276159, N2F5RyL6Kp, i_lI6MI, (short)-546198716);
 lV5ZIi = HTK_9b1();
 if (GGhL5C10Qg <= -309882855)
 {
@@ -130,7 +130,7 @@ case 'a':
 N3Okx++;
 break;
 case 'b':
-GGhL5C10Qg = XjIk(-1196024650, i_lI6MI, Y90Z67xS, 158987471);
+GGhL5C10Qg = XjIk(-1196024650, i_lI6MI, Y90Z67xS, (short)158987471);
 break;
 case 'c':
 bL_CkT_G2 ^= 2036343357;
@@ -160,7 +160,7 @@ n9e7 /= Ebeb1a9;
 
 lV5ZIi = HTK_9b1();
 
-r_3E58 = XjIk(-1761211573, 498985054, 1435008139, (short)-316840432);
+r_3E58 = XjIk(-1761211573, (unsigned char)498985054, 1435008139, (short)-316840432);
 if ((r_3E58 > -1860301839) || (JubVcf <= 355500360))
 {
 switch (iWj0s8u)
@@ -203,7 +203,7 @@ try
 int k = 0;
 while (k < 4)
 {
-k6X3NLzz = XjIk(1530204548, i_lI6MI, JubVcf, -841861605);
+k6X3NLzz = XjIk(1530204548, i_lI6MI, JubVcf, (short)-841861605);
 k++;
 }
 }

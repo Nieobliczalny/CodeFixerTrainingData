@@ -15,7 +15,7 @@ unsigned short int    nIVuK();
 
 int main(int argc, char** argv)
 {
- short Oy1F = -1062711997;
+ short Oy1F = (short)-1062711997;
 	short int	No4wnQQ9	=	(short)344763642;
 	long	gLVPAJ	=	605490551;
     unsigned short    WwF4k    =    0;
@@ -25,7 +25,7 @@ int main(int argc, char** argv)
  long double e9_bH5L = -1701531322;
 	unsigned long	uBPbcD	=	366942573;
 	long double	hg7dc	=	-628764351;
-	short int	CFxBj3_QCX	=	913408585;
+	short int	CFxBj3_QCX	=	(short)913408585;
  short zy6g = (short)-1694627050;
 	unsigned int	Aic0_0oR	=	-1818361608;
  unsigned short iUyYE = -901991522;
@@ -35,7 +35,7 @@ int main(int argc, char** argv)
   char  jx7_gnf  =  814153903;
     unsigned char    dBpy7jms    =    -1665381939;
     unsigned long    N9eMADt    =    -1898552168;
-	unsigned char	SaV9tjE_J	=	365702572;
+	unsigned char	SaV9tjE_J	=	(unsigned char)365702572;
   double  KhX4319EL  =  1349377360;
 	unsigned short	AJXUHzXTGM	=	(unsigned short)-861879333;
     short int    TW4n6    =    -1109842011;
@@ -45,7 +45,7 @@ int main(int argc, char** argv)
  unsigned char Fo1_EPe = 1886600738;
 	long	Fmq5_	=	0;
     char    Oqf2QM30    =    -1794445576;
-	short	QqAYG1HVGP	=	920577616;
+	short	QqAYG1HVGP	=	(short)920577616;
     char    Ik89hw_pmV    =    1441669636;
 	double	CS1AbQ	=	-1604986738;
  unsigned short Z2PkWb8 = (unsigned short)1928078994;
@@ -78,7 +78,7 @@ do
 {
 if (jx7_gnf >= CFxBj3_QCX)
 {
-Fmq5_ = v3X93G(-1444822886, 488182456, (unsigned short)709880588, -1452705355);
+Fmq5_ = v3X93G((char)-1444822886, 488182456, (unsigned short)709880588, -1452705355);
 }
 ++j;
 }
@@ -157,7 +157,7 @@ case 'c':
 Tp136QZ = Ik89hw_pmV % wPJVG_E1;
 break;
 case 'd':
-Fmq5_ = v3X93G(190252217, -729391780, (unsigned short)892601499, -1573272239);
+Fmq5_ = v3X93G((char)190252217, -729391780, (unsigned short)892601499, -1573272239);
 break;
 case 'e':
 SaV9tjE_J |= 427606232;
@@ -205,6 +205,6 @@ unsigned long	v3X93G(char	h9f0,unsigned int	YQUZN,unsigned short	ug_gA40hO,unsig
 
 unsigned short int    nIVuK()
 {
-    return    1276584352;
+    return    (unsigned short)1276584352;
 }
 

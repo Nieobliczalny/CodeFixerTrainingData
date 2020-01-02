@@ -45,7 +45,7 @@ case 1:
 KRa7j608 >>= 197672915;
 break;
 case 2:
-w_5r = (kfb216j8h == 1206060661) ? p6gOe4h_S : -856887152;
+w_5r = (kfb216j8h == 1206060661) ? p6gOe4h_S : (unsigned short)-856887152;
 break;
 case 3:
 E5dX35V98 <<= 1104701551;
@@ -264,7 +264,7 @@ while (j < 3);
 while (i >= 0);
 }
 KRa7j608--;
-w_5r = (ln2Y6F8F & FGaSi) ? KRa7j608 : 2100940442;
+w_5r = (ln2Y6F8F & FGaSi) ? KRa7j608 : (unsigned short)2100940442;
 
 {
 int i = 0;
@@ -330,7 +330,7 @@ uP7_ ^= 1402211260;
 }
 }
 }
-FGaSi = (E5dX35V98 != -889875226) ? uP7_ : -174234510;
+FGaSi = (E5dX35V98 != -889875226) ? uP7_ : (unsigned short)-174234510;
 
 if ((nQ3hz53O / ln2Y6F8F) >= -945952301)
 {

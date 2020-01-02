@@ -15,7 +15,7 @@ using std::ceil;
 using std::floor;
 
 short G_Py36SJ(unsigned short z3wh8gEFf4) {
- return 1240100020;
+ return (short)1240100020;
 }
 
 short int  c_4uk(long long  L2PMoEi,unsigned short  A4DNIFk7B,unsigned long  P4r5qWa,unsigned int  dj_906mP)  {
@@ -28,7 +28,7 @@ long long  T_Aw4hZ(short int  My11,long  sCL_14vi_,unsigned long  bd5VQ5u,int  a
 
 unsigned char Z59H3Bsh(char RVnKlo8D,unsigned long long F6QeF)
 {
- return 1491938673;
+ return (unsigned char)1491938673;
 }
 
 int main(int argc, char** argv) {
@@ -38,7 +38,7 @@ int main(int argc, char** argv) {
 	GYrMfTiY	=	634660981;
 	cj_DNSZ	=	-2129704883;
 	EeM5L_7	=	1444349615;
-	N7Jh9kdmEL	=	-1452212819;
+	N7Jh9kdmEL	=	(unsigned short)-1452212819;
 	UVj3LvHF	=	-1211748521;
 	hyvl39z	=	-996601417;
 	HeNVb9z6Q	=	-1737829720;
@@ -48,7 +48,7 @@ int main(int argc, char** argv) {
 	Di3t	=	161171453;
 	eSRgG0n	=	-1999096344;
 	lc166	=	-1285927176;
-	C_iQIrK	=	666858814;
+	C_iQIrK	=	(unsigned short)666858814;
 	FG696O87Sf	=	640794928;
 	aQzulE	=	743890201;
 	HVfQ_	=	-2134805312;
@@ -58,7 +58,7 @@ int main(int argc, char** argv) {
 	r_5N	=	109145610;
 	lt1pwXN	=	34190086;
 	GVrKxv0	=	2131984999;
-	tI43	=	-1503455895;
+	tI43	=	(unsigned short)-1503455895;
 	sG1QiwUp	=	-1604648017;
 	kPe6	=	-1704788723;
 	hlE5nCiA	=	1065227877;
@@ -68,7 +68,7 @@ int main(int argc, char** argv) {
 	L0w4yA7_0	=	-1803675603;
 	i_Wx9o	=	858043341;
 	yOaEOleP_6	=	-342246842;
-	nj4YrAnx9	=	-1598784080;
+	nj4YrAnx9	=	(unsigned short)-1598784080;
 	UCsk16L	=	227649867;
 	tbIzA53	=	1227482992;
 	GY5g_1	=	-289947632;
@@ -78,7 +78,7 @@ int main(int argc, char** argv) {
 	Jzig	=	105012348;
 	drMS829yOu	=	799626927;
 	pr1fM	=	-1057986448;
-	NxOG	=	-75706368;
+	NxOG	=	(unsigned short)-75706368;
 	n_R9	=	1382729270;
 	ulfI4	=	262710831;
 	I47_6I	=	1380131897;
@@ -88,7 +88,7 @@ int main(int argc, char** argv) {
 	ouo0u	=	-1906591072;
 	f1J1	=	-337930068;
 	tL7_5d4	=	317926968;
-	yLVg2vjnK	=	818424760;
+	yLVg2vjnK	=	(unsigned short)818424760;
 	xoKlW3N2	=	-2069617607;
 	LZhheq	=	-544437600;
 	Dr358QE_F	=	691516632;
@@ -98,7 +98,7 @@ int main(int argc, char** argv) {
 	n01wU641t	=	700914420;
 	UcD8_Vi8xV	=	92726723;
 	f8a9L3	=	1696963517;
-	PY6Wpf	=	-1616919647;
+	PY6Wpf	=	(unsigned short)-1616919647;
 	mT7s	=	394976342;
 	rkVa54	=	-1770949767;
 	whE43NW	=	1398664740;
@@ -111,7 +111,7 @@ int main(int argc, char** argv) {
 	pk1MconP	=	0;
 	LWYq8UBSP9	=	0;
 
-LZhheq = T_Aw4hZ(-1770411816, aY3EPc, GYrMfTiY, 1459483307, EeM5L_7) / w_j8;
+LZhheq = T_Aw4hZ((short)-1770411816, aY3EPc, GYrMfTiY, 1459483307, EeM5L_7) / w_j8;
 
 try
 {
@@ -193,7 +193,7 @@ if (NxOG == zZ1574VFh)
 {
 if ((NxOG <= whE43NW) || ((r_5N > -380432461) && (LZhheq < f1J1)))
 {
-GVrKxv0 = c_4uk(GVrKxv0, 756800760, yOaEOleP_6, -1516160807);
+GVrKxv0 = c_4uk(GVrKxv0, (unsigned short)756800760, yOaEOleP_6, -1516160807);
 }
 }
 else
@@ -210,7 +210,7 @@ do
 {
 if ((hyvl39z < 94140936) || (f1J1 <= zxwar3))
 {
-std::cout << G_Py36SJ(-2061094036) << "W0yZ03jKY_" << std::endl;
+std::cout << G_Py36SJ((unsigned short)-2061094036) << "W0yZ03jKY_" << std::endl;
 }
 else
 {

@@ -25,7 +25,7 @@ int main(int argc, char** argv) {
   double  AULP91  =  -465326728;
 	long	fzROXOZ9	=	0;
 	unsigned short int	A8sM	=	0;
-	unsigned char	SEGsl1QJ6j	=	1469606758;
+	unsigned char	SEGsl1QJ6j	=	(unsigned char)1469606758;
     long    Pg1vX    =    -849994019;
 
 AULP91 = ZpRjsu0F0(AULP91, Pg1vX);
@@ -74,7 +74,7 @@ fzROXOZ9 = a9M63fU48_(SEGsl1QJ6j, Pg1vX);
 }
 else
 {
-AULP91 = ZpRjsu0F0(-793478625, (char)-238224008);
+AULP91 = ZpRjsu0F0((short)-793478625, (char)-238224008);
 }
 }
 catch (int& errorCode)
@@ -96,7 +96,7 @@ case 1:
 AULP91 *= 1555496474;
 break;
 case 2:
-Pg1vX = ZpRjsu0F0(636323775, Pg1vX);
+Pg1vX = ZpRjsu0F0((short)636323775, Pg1vX);
 break;
 case 3:
 Pg1vX = (int)abs(AULP91);
@@ -162,7 +162,7 @@ int i = 0;
 while (i < 1)
 {
 ++i;
-std::cout << ZpRjsu0F0(-279266891, SEGsl1QJ6j) << std::endl;
+std::cout << ZpRjsu0F0((short)-279266891, SEGsl1QJ6j) << std::endl;
 }
 }
 {
@@ -190,7 +190,7 @@ while (k >= 0);
 while (i < 5);
 }
 SEGsl1QJ6j = fzROXOZ9 / a9M63fU48_(fzROXOZ9, SEGsl1QJ6j);
-Pg1vX = ZpRjsu0F0(-490277948, SEGsl1QJ6j) & 119221802;
+Pg1vX = ZpRjsu0F0((short)-490277948, SEGsl1QJ6j) & 119221802;
 
 try
 {

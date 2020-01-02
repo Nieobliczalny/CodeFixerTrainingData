@@ -342,7 +342,7 @@ f887_VHe_7 = j_73hJ - 325484031;
 }
 else
 {
-QRaBn = (Yu44mn != 123951490) ? -406251558 : (unsigned short)878511056;
+QRaBn = (Yu44mn != 123951490) ? (unsigned short)-406251558 : (unsigned short)878511056;
 }
 }
 else
@@ -545,7 +545,7 @@ case 0:
 j_JQ = BW5nk << Yu44mn;
 break;
 case 1:
-pZ54mfe = (yWwNW72 == 478333968) ? 947500456 : (unsigned short)408490517;
+pZ54mfe = (yWwNW72 == 478333968) ? (unsigned short)947500456 : (unsigned short)408490517;
 break;
 case 2:
 G567BE++;

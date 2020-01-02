@@ -12,7 +12,7 @@ using namespace std;
 
 int main()
 {
-	short	ShytJV	=	-896026412;
+	short	ShytJV	=	(short)-896026412;
 	unsigned short	Co86rFcvlK	=	0;
     long    yyvA    =    -236491994;
  double kgyyRVzc = 370615778;
@@ -22,7 +22,7 @@ int main()
   char  cwBOwYxy  =  1259100207;
  float QEkqgTS = -582370116;
 	unsigned short	l1TrfW	=	0;
- unsigned short int V8l5wQckI8 = 2025600095;
+ unsigned short int V8l5wQckI8 = (unsigned short)2025600095;
     unsigned int    k6NW7    =    -901167413;
  long A2H35fIM = -385434368;
  unsigned int qqKcD = 1684659498;
@@ -32,7 +32,7 @@ int main()
     long long    WxAN8    =    -1747320032;
     double    b5comvKT4Z    =    1128886687;
     double    Xx71O    =    753518558;
-	unsigned short int	lhaTaqd	=	-1451288786;
+	unsigned short int	lhaTaqd	=	(unsigned short)-1451288786;
  short UD37CF5 = -697257837;
   short  mu7EoB53M  =  109328727;
     unsigned short int    ysHG0CO    =    0;

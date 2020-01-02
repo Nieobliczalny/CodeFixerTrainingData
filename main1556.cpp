@@ -15,7 +15,7 @@ long long  X1aU9tb(unsigned long  we_4)
 int main(int argc, char** argv)
 {
   unsigned char  izmy;
-  izmy  =  679236401;
+  izmy  =  (unsigned char)679236401;
 	long long	YL822MVf;
 	YL822MVf	=	975948389;
  unsigned long long fhb__;
@@ -33,7 +33,7 @@ int main(int argc, char** argv)
   float  JuU65aQ;
   JuU65aQ  =  1154539612;
 	char	SO7V;
-	SO7V	=	-2029401182;
+	SO7V	=	(char)-2029401182;
   double  v_OiX20y;
   v_OiX20y  =  1668349528;
     unsigned long long    Q7e0_;

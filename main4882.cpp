@@ -14,7 +14,7 @@ using std::floor;
 
 int main(int argc, char** argv) {
  char ras809jW = 0;
-    unsigned short int    spc128Xfc    =    382308690;
+    unsigned short int    spc128Xfc    =    (unsigned short)382308690;
  long long m3O2 = 0;
 	char	w31yrFnDt	=	0;
 
@@ -41,7 +41,7 @@ for (int i = 3; i >= 0; i--)
 {
 if (w31yrFnDt >= ras809jW)
 {
-spc128Xfc = (ras809jW & w31yrFnDt) ? -2114941589 : m3O2;
+spc128Xfc = (ras809jW & w31yrFnDt) ? (unsigned short)-2114941589 : m3O2;
 }
 else if (ras809jW & -1471449051)
 {

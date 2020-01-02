@@ -11,7 +11,7 @@ using namespace std;
 int main(int argc, char** argv)
 {
     unsigned short int    UEggFV;
-    UEggFV    =    -1184466401;
+    UEggFV    =    (unsigned short)-1184466401;
 	char	t0NdX;
 	t0NdX	=	(char)-989388273;
   long  Bs_J44;

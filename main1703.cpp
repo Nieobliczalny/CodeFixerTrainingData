@@ -29,7 +29,7 @@ int main(int argc, char** argv)
 	float	GVhL;
 	GVhL	=	1103000652;
 	short	V_1A3656YU;
-	V_1A3656YU	=	-29550679;
+	V_1A3656YU	=	(short)-29550679;
   unsigned short int  a_1lUI4D9;
   a_1lUI4D9  =  (unsigned short)1172571526;
  int G2FPg;
@@ -41,7 +41,7 @@ int main(int argc, char** argv)
  float Y9b_kvS;
  Y9b_kvS = -146464342;
     short int    zDMPWr;
-    zDMPWr    =    262832053;
+    zDMPWr    =    (short)262832053;
 	unsigned long long	pc_5pPwX44;
 	pc_5pPwX44	=	0;
 	unsigned long long	ntupocLuy;
@@ -51,7 +51,7 @@ int main(int argc, char** argv)
 	unsigned short int	AAyuC5g;
 	AAyuC5g	=	(unsigned short)-1447551283;
 	char	LD0svOK;
-	LD0svOK	=	-855179824;
+	LD0svOK	=	(char)-855179824;
     unsigned short    xhHbl9Z;
     xhHbl9Z    =    -1509353593;
  short e73__q32J;
@@ -61,7 +61,7 @@ int main(int argc, char** argv)
 	unsigned long long	JFrghbt;
 	JFrghbt	=	-1848756663;
  unsigned short int mz0j9RD;
- mz0j9RD = -2047129010;
+ mz0j9RD = (unsigned short)-2047129010;
   int  XQJCSd4X3_;
   XQJCSd4X3_  =  -1939838355;
     long long    Qzz45Gi_t;
@@ -71,7 +71,7 @@ int main(int argc, char** argv)
   unsigned int  ce5QQZZ;
   ce5QQZZ  =  -871678241;
  unsigned char Qf2iulbK7z;
- Qf2iulbK7z = -1530167799;
+ Qf2iulbK7z = (unsigned char)-1530167799;
  long biHVS;
  biHVS = -56928477;
     int    ovmBmPL9S;
@@ -91,7 +91,7 @@ int main(int argc, char** argv)
  double DMw5h8PW;
  DMw5h8PW = -1960001293;
   unsigned short  Nwt620c;
-  Nwt620c  =  1224562422;
+  Nwt620c  =  (unsigned short)1224562422;
 	char	wxWoJoML0;
 	wxWoJoML0	=	(char)1589819165;
     double    y3e30S3hbX;
@@ -101,7 +101,7 @@ int main(int argc, char** argv)
  short gbGK5ol;
  gbGK5ol = 608995522;
     short int    cLV9;
-    cLV9    =    1494665110;
+    cLV9    =    (short)1494665110;
 	unsigned short	Ss5X;
 	Ss5X	=	(unsigned short)364875909;
  short int WJ184;
@@ -111,7 +111,7 @@ int main(int argc, char** argv)
   unsigned long long  AnX9;
   AnX9  =  897064059;
   short  wONH;
-  wONH  =  395014088;
+  wONH  =  (short)395014088;
     unsigned long long    XZJL3rJo;
     XZJL3rJo    =    -1568198413;
  double PyP9k;

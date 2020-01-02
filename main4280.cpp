@@ -17,7 +17,7 @@ int main(int argc, char** argv)
  double DKJcxq3PC9;
  DKJcxq3PC9 = 1807731290;
  unsigned short int Ho2X4L;
- Ho2X4L = -242391200;
+ Ho2X4L = (unsigned short)-242391200;
  int ua9KCi;
  ua9KCi = -1592946118;
  unsigned long WzLbr__0g;
@@ -39,7 +39,7 @@ int main(int argc, char** argv)
   long long  Aql7D407;
   Aql7D407  =  -696172442;
     short int    TR0Xa1zBm;
-    TR0Xa1zBm    =    -1975023315;
+    TR0Xa1zBm    =    (short)-1975023315;
   unsigned short int  B_U_a;
   B_U_a  =  (unsigned short)1853278657;
     unsigned char    QG06i;
@@ -53,7 +53,7 @@ int main(int argc, char** argv)
 	long double	mj9L8A5ZR;
 	mj9L8A5ZR	=	-795513071;
  unsigned short DZe7AjwzRm;
- DZe7AjwzRm = -748226431;
+ DZe7AjwzRm = (unsigned short)-748226431;
   long long  F4w4vF;
   F4w4vF  =  -2113343232;
     long double    ScxR;
@@ -65,7 +65,7 @@ int main(int argc, char** argv)
     int    UjuJT;
     UjuJT    =    1674779535;
 	short int	SLeRX;
-	SLeRX	=	250570652;
+	SLeRX	=	(short)250570652;
  double Dv1ZnJgt;
  Dv1ZnJgt = -790828529;
   long long  e61n68iymk;
@@ -75,7 +75,7 @@ int main(int argc, char** argv)
  unsigned char I0F81A7_;
  I0F81A7_ = (unsigned char)-337161774;
     short int    wqY_;
-    wqY_    =    -955672492;
+    wqY_    =    (short)-955672492;
  unsigned short M4At_;
  M4At_ = 1156313852;
  short yZmSZo_waW;
@@ -87,7 +87,7 @@ int main(int argc, char** argv)
 	unsigned int	rzt6Ux3T;
 	rzt6Ux3T	=	-2094261050;
     short int    Xxen26Tpm;
-    Xxen26Tpm    =    603281475;
+    Xxen26Tpm    =    (short)603281475;
  short int gnfzFk;
  gnfzFk = (short)493615758;
  unsigned short int hU1f5bj6y_;
@@ -99,7 +99,7 @@ int main(int argc, char** argv)
  int n60hfiw9f;
  n60hfiw9f = 0;
 	unsigned char	tq99;
-	tq99	=	-78067574;
+	tq99	=	(unsigned char)-78067574;
   float  Fkx3_J7;
   Fkx3_J7  =  782733710;
 	unsigned int	KW_5;
@@ -115,7 +115,7 @@ int main(int argc, char** argv)
 	unsigned long	URUP6JC_ki;
 	URUP6JC_ki	=	2059380139;
     char    tWRp7w;
-    tWRp7w    =    -1537342831;
+    tWRp7w    =    (char)-1537342831;
   float  X0SE46j6;
   X0SE46j6  =  -623639737;
  unsigned char y2KF0k_C;

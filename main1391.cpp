@@ -26,7 +26,7 @@ int main()
  unsigned long dnyQM3Y1 = -801236098;
   unsigned int  EqEV4  =  825956404;
     unsigned int    nbcMiSd    =    0;
-	short int	i3Kvc98	=	-43540108;
+	short int	i3Kvc98	=	(short)-43540108;
   unsigned int  OkR5P40a  =  959962860;
  unsigned long Hw0H93wJ__ = 1989819909;
 	short	XAL2	=	(short)642850346;
@@ -49,7 +49,7 @@ nbcMiSd = (unsigned int)(Uo_3);
 }
 while (i >= 0);
 }
-cout << "UrXpu3f" << T2EIpDXU(EqEV4, -1588855254) << i3Kvc98 << endl;
+cout << "UrXpu3f" << T2EIpDXU(EqEV4, (short)-1588855254) << i3Kvc98 << endl;
 
 Hw0H93wJ__ = (unsigned long)(EqEV4);
 
@@ -74,7 +74,7 @@ else if (EqEV4 >= nbcMiSd)
 {
 try
 {
-XAL2 = Yk_TNR_(98984658, XAL2, i3Kvc98, EqEV4, 1410827656);
+XAL2 = Yk_TNR_(98984658, XAL2, i3Kvc98, EqEV4, (unsigned short)1410827656);
 }
 catch (int& errorCode)
 {
@@ -91,7 +91,7 @@ else
 int k = 4;
 while (k >= 0)
 {
-OkR5P40a = dQ2p8(OkR5P40a, XAL2, -639235442, 780459388);
+OkR5P40a = dQ2p8(OkR5P40a, XAL2, (char)-639235442, 780459388);
 k--;
 }
 }
@@ -118,7 +118,7 @@ dnyQM3Y1 *= 833409307;
 break;
 }
 
-cout << Hw0H93wJ__ << OkR5P40a << T2EIpDXU(OkR5P40a, XAL2) << dQ2p8(-118885023, -237604867, (char)-666147836, Hw0H93wJ__) << endl;
+cout << Hw0H93wJ__ << OkR5P40a << T2EIpDXU(OkR5P40a, XAL2) << dQ2p8((short)-118885023, -237604867, (char)-666147836, Hw0H93wJ__) << endl;
 OkR5P40a = (unsigned int)(EqEV4);
 OkR5P40a = Yk_TNR_(OkR5P40a, 430802662, 1690060606, EqEV4, -2089850646);
 for (int i = 0; i < 10; ++i)
@@ -142,7 +142,7 @@ for (int j = 5; j >= 0; --j)
 {
 for (int k = 0; k < 5; ++k)
 {
-Hw0H93wJ__ = T2EIpDXU(-823872811, (short)-952992395);
+Hw0H93wJ__ = T2EIpDXU((unsigned short)-823872811, (short)-952992395);
 }
 }
 }
@@ -201,7 +201,7 @@ int j = 0;
 do
 {
 ++j;
-Hw0H93wJ__ = Yk_TNR_(1062684101, 1731563070, 1952154057, dnyQM3Y1, -1160358385);
+Hw0H93wJ__ = Yk_TNR_(1062684101, 1731563070, 1952154057, dnyQM3Y1, (unsigned short)-1160358385);
 }
 while (j < 7);
 }
@@ -213,7 +213,7 @@ case 0:
 Hw0H93wJ__ = nbcMiSd << 1877636136;
 break;
 case 1:
-Hw0H93wJ__ = Yk_TNR_(Hw0H93wJ__, 1733535589, -151212323, 1607587566, -1236728524);
+Hw0H93wJ__ = Yk_TNR_(Hw0H93wJ__, 1733535589, -151212323, 1607587566, (unsigned short)-1236728524);
 break;
 case 2:
 i3Kvc98 = T2EIpDXU(Uo_3, i3Kvc98);
@@ -251,7 +251,7 @@ long long  dQ2p8(short int  epu8_nk6Y,unsigned int  mQZ_1,char  VP2_M0B,long  Dc
 
 char Yk_TNR_(int YUKszYh,unsigned long long J36wY,unsigned long long x_4__,unsigned long long xDX_ix,unsigned short int K5b61)
 {
- return -439701458;
+ return (char)-439701458;
 }
 
 int    X8Sxx(char    dRQ9gZ3,char    DGkp)    {

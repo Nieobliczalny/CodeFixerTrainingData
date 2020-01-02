@@ -10,7 +10,7 @@ using namespace std;
 
 short MYxy_21S1(int iyV5_B,unsigned short int g6muOYRT,short int xfO45)
 {
- return -1385876184;
+ return (short)-1385876184;
 }
 
 char	U2Vpmk84T(unsigned int	r7p93Vjs,unsigned char	D8Ya5Yd,short	iwlU,char	w_kGwm_)	{
@@ -27,7 +27,7 @@ long long CqG8(long long Gv9N_,unsigned char DTvx2v5,unsigned short int J8T41,lo
 }
 
 char    zkMERCy_02(int    zlNi,long    idDy5BPLg,unsigned short int    O12IR,short int    lZq8_2F)    {
-    return    -210504140;
+    return    (char)-210504140;
 }
 
 int main(int argc, char** argv)
@@ -43,7 +43,7 @@ case 0:
 daxVTxYxV = wBiL__ >> 2008137345;
 break;
 case 1:
-KMaP_mfOCo = CqG8(KMaP_mfOCo, hpV_4g, 968173854, ybHS7vEA);
+KMaP_mfOCo = CqG8(KMaP_mfOCo, hpV_4g, (unsigned short)968173854, ybHS7vEA);
 break;
 case 2:
 IKmgZ = zkMERCy_02(e_VY3sb9, IKmgZ, (unsigned short)1410741220, -513185784);
@@ -55,7 +55,7 @@ case 4:
 e_VY3sb9 = U2Vpmk84T(n3i2Thq9tV, -1782180797, OL5oZQ, d7enu62s5);
 break;
 case 5:
-e_VY3sb9 = U2Vpmk84T(fI1e, -200262362, lqa014q937, kCLwP_F);
+e_VY3sb9 = U2Vpmk84T(fI1e, (unsigned char)-200262362, lqa014q937, kCLwP_F);
 break;
 case 6:
 n3i2Thq9tV += 633090372;
@@ -67,7 +67,7 @@ case 8:
 e77n04PP = zkMERCy_02(-1439819070, 1626862770, eyjXQa, UL_007Z03_);
 break;
 default:
-hpV_4g = CqG8(-1848969965, -820406683, ndbCeT, 1515839267);
+hpV_4g = CqG8(-1848969965, (unsigned char)-820406683, ndbCeT, 1515839267);
 break;
 }
 
@@ -86,7 +86,7 @@ cout << "cCQ23Len2a" << endl;
 int i = 3;
 do
 {
-cout << U2Vpmk84T(-1000802373, fI1e, 78673577, ybHS7vEA) << "lpuZrW7I64" << g_J8o542T() << endl;
+cout << U2Vpmk84T(-1000802373, fI1e, (short)78673577, ybHS7vEA) << "lpuZrW7I64" << g_J8o542T() << endl;
 i--;
 }
 while (i >= 0);
@@ -99,7 +99,7 @@ do
 i--;
 if (Kx0gfP)
 {
-s5LcE = MYxy_21S1(182796536, -2022694762, fI1e);
+s5LcE = MYxy_21S1(182796536, (unsigned short)-2022694762, fI1e);
 }
 }
 while (i >= 0);
@@ -111,7 +111,7 @@ case 0:
 o_WHVd = zkMERCy_02(-1950440766, f9u8K_, P87B, yBY1s4rd);
 break;
 case 1:
-i17sC6p2 = zkMERCy_02(i17sC6p2, KMl_, NRtUdzgrE, -2008533579);
+i17sC6p2 = zkMERCy_02(i17sC6p2, KMl_, NRtUdzgrE, (short)-2008533579);
 break;
 case 2:
 ndbCeT = (lqa014q937 < j8L1d) ? mr80Cg : 2095175505;

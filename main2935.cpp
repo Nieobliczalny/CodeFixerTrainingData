@@ -20,7 +20,7 @@ int main(int argc, char** argv)
  unsigned long p_qdkwe;
  p_qdkwe = -1537163189;
     char    ug_kjIfhg;
-    ug_kjIfhg    =    654517846;
+    ug_kjIfhg    =    (char)654517846;
   short  wZh9D1E;
   wZh9D1E  =  0;
 	unsigned long	Q6hdW10e1;
@@ -30,7 +30,7 @@ int main(int argc, char** argv)
     unsigned char    ml_V;
     ml_V    =    0;
   unsigned short  kn41;
-  kn41  =  -1360649448;
+  kn41  =  (unsigned short)-1360649448;
     short    LAxpr0s5J;
     LAxpr0s5J    =    0;
 	long	e097j7jFI;
@@ -41,7 +41,7 @@ int main(int argc, char** argv)
 bpJ9yBD = G2FA2(bpJ9yBD, kn41, Q6hdW10e1);
 wZh9D1E = (short)(LAxpr0s5J);
 
-ug_kjIfhg = 1889999337 / uxl4(-1754513549, 1160977903, Q6hdW10e1);
+ug_kjIfhg = 1889999337 / uxl4((unsigned char)-1754513549, 1160977903, Q6hdW10e1);
 
 Q6hdW10e1 |= kn41;
 
@@ -111,7 +111,7 @@ do
 switch (kn41)
 {
 case 'a':
-LAxpr0s5J = uxl4(p_qdkwe, LAxpr0s5J, 435883203);
+LAxpr0s5J = uxl4(p_qdkwe, LAxpr0s5J, (unsigned char)435883203);
 break;
 case 'b':
 bpJ9yBD = G2FA2(ml_V, LAxpr0s5J, 1326761898);
@@ -126,7 +126,7 @@ case 'e':
 p_qdkwe = bpJ9yBD & kn41;
 break;
 case 'f':
-e097j7jFI = G2FA2(838317738, z5oCi, wZh9D1E);
+e097j7jFI = G2FA2((short)838317738, z5oCi, wZh9D1E);
 break;
 case 'g':
 bpJ9yBD = LAxpr0s5J * 180337654;
@@ -146,7 +146,7 @@ break;
 while (i >= 0);
 }
 
-ug_kjIfhg = G2FA2(-1404808610, LAxpr0s5J, -154510263);
+ug_kjIfhg = G2FA2((short)-1404808610, LAxpr0s5J, -154510263);
 
 return 0;
 }

@@ -9,7 +9,7 @@
 using namespace std;
 
 short int  d84nKQ()  {
-  return  -622687089;
+  return  (short)-622687089;
 }
 
 unsigned short int	Op36B0QNi(unsigned short int	vX2RXPS4,char	L5N_5_2)	{
@@ -25,7 +25,7 @@ int main(void) {
  unsigned char lmkoQP6Wv;
  lmkoQP6Wv = 0;
 	unsigned char	W31U;
-	W31U	=	1390361752;
+	W31U	=	(unsigned char)1390361752;
     long long    z___Ax0;
     z___Ax0    =    828701804;
  unsigned char V6eVOU;
@@ -41,7 +41,7 @@ int main(void) {
     long double    CiGPbKb2W;
     CiGPbKb2W    =    2007435041;
   unsigned short int  TAe3Hs;
-  TAe3Hs  =  -1484046062;
+  TAe3Hs  =  (unsigned short)-1484046062;
   long  T1_FiBG;
   T1_FiBG  =  0;
 	short	iuk_3E;
@@ -51,7 +51,7 @@ int main(void) {
   int  D71_;
   D71_  =  -1191341701;
  unsigned char jFZRA_3B;
- jFZRA_3B = -274174644;
+ jFZRA_3B = (unsigned char)-274174644;
  unsigned long long o1dR;
  o1dR = -173088700;
   short int  AY7GTmr;
@@ -61,7 +61,7 @@ int main(void) {
     long double    x27guweg;
     x27guweg    =    1220162223;
     short int    n9m5uLyjej;
-    n9m5uLyjej    =    2136541822;
+    n9m5uLyjej    =    (short)2136541822;
 	float	A__660KaQ;
 	A__660KaQ	=	2018682624;
   unsigned short int  wL3955BKeU;
@@ -73,7 +73,7 @@ int main(void) {
  int P9xy_;
  P9xy_ = -291282933;
  short int cJ_usV22;
- cJ_usV22 = 1025266190;
+ cJ_usV22 = (short)1025266190;
   long  Ffojy0j;
   Ffojy0j  =  -1360897155;
 	unsigned short	g_kV;
@@ -85,7 +85,7 @@ int main(void) {
  unsigned long NAm85K0;
  NAm85K0 = -1135806528;
  short Kzb47Hk8;
- Kzb47Hk8 = 167646604;
+ Kzb47Hk8 = (short)167646604;
 
 jFZRA_3B--;
 cJ_usV22 = (int)abs(iuk_3E);
@@ -104,7 +104,7 @@ int k = 0;
 while (k < 4)
 {
 ++k;
-g_kV = Op36B0QNi(-1095788994, Kzb47Hk8);
+g_kV = Op36B0QNi((unsigned short)-1095788994, Kzb47Hk8);
 }
 }
 }
@@ -115,7 +115,7 @@ Ffojy0j = V6eVOU / 472559338;
 
 if (cuAC8n <= 19119395)
 {
-D71_ = PYCJQCIp(1295195886, (unsigned short)-2089647891);
+D71_ = PYCJQCIp((short)1295195886, (unsigned short)-2089647891);
 }
 else
 {
@@ -181,7 +181,7 @@ else if (rs36uWUe == 903592854)
 {
 if (cuAC8n)
 {
-rs36uWUe = PYCJQCIp(1332178356, T1_FiBG);
+rs36uWUe = PYCJQCIp((short)1332178356, T1_FiBG);
 }
 else
 {
@@ -237,7 +237,7 @@ AY7GTmr--;
 }
 else
 {
-T1_FiBG = Op36B0QNi(-1887188177, Luvi862);
+T1_FiBG = Op36B0QNi((unsigned short)-1887188177, Luvi862);
 }
 j--;
 }
@@ -303,7 +303,7 @@ case 0:
 NAm85K0 = z___Ax0 % 323717450;
 break;
 case 1:
-Kzb47Hk8 = PYCJQCIp(1260897482, g_kV);
+Kzb47Hk8 = PYCJQCIp((short)1260897482, g_kV);
 break;
 case 2:
 g_kV = Op36B0QNi(z___Ax0, TAe3Hs);
@@ -324,7 +324,7 @@ case 7:
 h_L0 = (int)floor(A__660KaQ);
 break;
 case 8:
-Kzb47Hk8 = PYCJQCIp(1997657230, (unsigned short)-437895919);
+Kzb47Hk8 = PYCJQCIp((short)1997657230, (unsigned short)-437895919);
 break;
 case 9:
 ax46 = (int)ceil(x27guweg);
@@ -447,7 +447,7 @@ cuAC8n = d84nKQ();
 
 if (Fv88GIb0_ & 952587938)
 {
-oh4Azs_c = PYCJQCIp(-1792369624, (unsigned short)-1478076999);
+oh4Azs_c = PYCJQCIp((short)-1792369624, (unsigned short)-1478076999);
 }
 
 if ((rs36uWUe < lmkoQP6Wv) || ((oh4Azs_c & cJ_usV22) || (jFZRA_3B & D71_)))
@@ -494,7 +494,7 @@ else if ((NAm85K0 > 180470756) && (YP23))
 int k = 10;
 while (k >= 0)
 {
-V6eVOU = PYCJQCIp(V6eVOU, -1513247607);
+V6eVOU = PYCJQCIp(V6eVOU, (unsigned short)-1513247607);
 k--;
 }
 }
@@ -541,7 +541,7 @@ do
 {
 for (int k = 0; k < 9; ++k)
 {
-cuAC8n = PYCJQCIp(cuAC8n, -395040170);
+cuAC8n = PYCJQCIp(cuAC8n, (unsigned short)-395040170);
 }
 ++j;
 }
@@ -579,7 +579,7 @@ case 'a':
 wL3955BKeU = T1_FiBG << Luvi862;
 break;
 case 'b':
-cJ_usV22 = PYCJQCIp(-540689460, (unsigned short)-860104769);
+cJ_usV22 = PYCJQCIp((short)-540689460, (unsigned short)-860104769);
 break;
 case 'c':
 iuk_3E ^= LVp802;
@@ -591,7 +591,7 @@ case 'e':
 cuAC8n = (z___Ax0 == -1391794519) ? -959562102 : wL3955BKeU;
 break;
 case 'f':
-lmkoQP6Wv = Op36B0QNi(jFZRA_3B, 1949298697);
+lmkoQP6Wv = Op36B0QNi(jFZRA_3B, (char)1949298697);
 break;
 case 'g':
 h_L0 = Kzb47Hk8 % 496727942;
@@ -630,7 +630,7 @@ Fv88GIb0_ = d84nKQ();
 }
 else
 {
-std::cout << "rVLclMq" << "YpxsAG" << PYCJQCIp(Fv88GIb0_, -200971803) << std::endl;
+std::cout << "rVLclMq" << "YpxsAG" << PYCJQCIp(Fv88GIb0_, (unsigned short)-200971803) << std::endl;
 }
 }
 return 0;

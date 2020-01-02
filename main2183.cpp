@@ -10,7 +10,7 @@ using namespace std;
 
 short int    WneoBI(short int    O5k135)
 {
-    return    143511280;
+    return    (short)143511280;
 }
 
 unsigned long nPdu2fF_5(long long GC9Ko_JE8W,unsigned short lshr3pn8vv,long HIU6,int xg35,short RWK21J) {
@@ -23,7 +23,7 @@ unsigned short E5TLPOQu5(short iP4169D7J) {
 
 int main(int argc, char** argv) {
 	char	QAsZocpB_9;
-	QAsZocpB_9	=	381979866;
+	QAsZocpB_9	=	(char)381979866;
     short    acoZE3ZZ;
     acoZE3ZZ    =    (short)-1706326932;
     long long    C6N6q4x;
@@ -45,7 +45,7 @@ int main(int argc, char** argv) {
  long SY2V4;
  SY2V4 = 814116830;
   unsigned char  a09Co;
-  a09Co  =  -610774270;
+  a09Co  =  (unsigned char)-610774270;
 
 switch (Cy5C62R)
 {
@@ -65,7 +65,7 @@ case 4:
 QAsZocpB_9 = (int)abs(C6N6q4x) + (-1152366992);
 break;
 case 5:
-Yt853ihYuv = nPdu2fF_5(-732934816, -7629027, SY2V4, 111969686, (short)196551686) ^ QAsZocpB_9;
+Yt853ihYuv = nPdu2fF_5(-732934816, (unsigned short)-7629027, SY2V4, 111969686, (short)196551686) ^ QAsZocpB_9;
 break;
 default:
 QAsZocpB_9 <<= a09Co;
@@ -83,7 +83,7 @@ while (j >= 0)
 --j;
 for (int k = 9; k >= 0; k--)
 {
-bA8MQT = nPdu2fF_5(-1458617794, bA8MQT, xX08E5, -775667862, -723683738);
+bA8MQT = nPdu2fF_5(-1458617794, bA8MQT, xX08E5, -775667862, (short)-723683738);
 }
 }
 }
@@ -117,7 +117,7 @@ case 7:
 SY2V4 = (int)abs(acoZE3ZZ);
 break;
 case 8:
-Yt853ihYuv = nPdu2fF_5(1573205584, 1469539839, a8Xuma, WT_0, (short)-1775095116);
+Yt853ihYuv = nPdu2fF_5(1573205584, (unsigned short)1469539839, a8Xuma, WT_0, (short)-1775095116);
 break;
 case 9:
 acoZE3ZZ = WneoBI(Cy5C62R);
@@ -186,7 +186,7 @@ int j = 4;
 while (j >= 0)
 {
 j--;
-std::cout << "Q23pYOhelc" << nPdu2fF_5(-1850916317, 2021047447, a8Xuma, uZqe, Cy5C62R) << std::endl;
+std::cout << "Q23pYOhelc" << nPdu2fF_5(-1850916317, (unsigned short)2021047447, a8Xuma, uZqe, Cy5C62R) << std::endl;
 }
 }
 }
@@ -223,7 +223,7 @@ else if ((SY2V4 != Yt853ihYuv) && ((C6N6q4x != 890707811) && (Yt853ihYuv >= C6N6
 {
 if (Yt853ihYuv != QAsZocpB_9)
 {
-QAsZocpB_9 = nPdu2fF_5(-2128811378, 942261205, 1538217981, xX08E5, a09Co);
+QAsZocpB_9 = nPdu2fF_5(-2128811378, (unsigned short)942261205, 1538217981, xX08E5, a09Co);
 }
 }
 else if (xX08E5 != Cy5C62R)
@@ -234,7 +234,7 @@ case 'a':
 bA8MQT = Yt853ihYuv & a09Co;
 break;
 case 'b':
-SY2V4 = nPdu2fF_5(1489126115, QAsZocpB_9, -1064213188, 1376538813, -1323110833) | bA8MQT;
+SY2V4 = nPdu2fF_5(1489126115, QAsZocpB_9, -1064213188, 1376538813, (short)-1323110833) | bA8MQT;
 break;
 case 'c':
 SY2V4 /= Cy5C62R;
@@ -255,7 +255,7 @@ case 'h':
 SY2V4 = Yt853ihYuv & 142700770;
 break;
 default:
-uZqe = E5TLPOQu5(-214347918);
+uZqe = E5TLPOQu5((short)-214347918);
 break;
 }
 }
@@ -380,7 +380,7 @@ else
 {
 for (int j = 0; j < 5; ++j)
 {
-std::cout << QAsZocpB_9 << nPdu2fF_5(a8Xuma, 2129581756, -658290554, C6N6q4x, Cy5C62R) << C6N6q4x << WneoBI(a8Xuma) << nPdu2fF_5(-952348302, (unsigned short)2128473802, Yt853ihYuv, C6N6q4x, -725478263) << std::endl;
+std::cout << QAsZocpB_9 << nPdu2fF_5(a8Xuma, (unsigned short)2129581756, -658290554, C6N6q4x, Cy5C62R) << C6N6q4x << WneoBI(a8Xuma) << nPdu2fF_5(-952348302, (unsigned short)2128473802, Yt853ihYuv, C6N6q4x, -725478263) << std::endl;
 }
 }
 acoZE3ZZ = nPdu2fF_5(xX08E5, uZqe, acoZE3ZZ, 1334975512, -166835638);
@@ -395,7 +395,7 @@ while (j < 6)
 int k = 9;
 do
 {
-a09Co = WneoBI(1692394598);
+a09Co = WneoBI((short)1692394598);
 k--;
 }
 while (k >= 0);
@@ -409,7 +409,7 @@ Yt853ihYuv |= 327531618;
 }
 a09Co--;
 
-std::cout << E5TLPOQu5(630471694) << "JL3O" << std::endl;
+std::cout << E5TLPOQu5((short)630471694) << "JL3O" << std::endl;
 
 try
 {
@@ -456,7 +456,7 @@ else
 {
 if (Cy5C62R & -1921384520)
 {
-a09Co = nPdu2fF_5(795887303, -102866684, -792891379, 330815521, (short)-1929009580);
+a09Co = nPdu2fF_5(795887303, (unsigned short)-102866684, -792891379, 330815521, (short)-1929009580);
 }
 }
 if (((WT_0 & C6N6q4x) && (bA8MQT < Cy5C62R)) && (QAsZocpB_9 >= 1769912682))
@@ -468,7 +468,7 @@ try
 switch (xX08E5)
 {
 case 0:
-a8Xuma = nPdu2fF_5(uZqe, -815070333, a8Xuma, QAsZocpB_9, (short)-971517453);
+a8Xuma = nPdu2fF_5(uZqe, (unsigned short)-815070333, a8Xuma, QAsZocpB_9, (short)-971517453);
 break;
 case 1:
 SY2V4 = Cy5C62R & 1821780429;

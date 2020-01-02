@@ -88,7 +88,7 @@ int main(void)
 
 for (int i = 0; i < 10; ++i)
 {
-nSrNYqzQ = E4o1b3x(400101379);
+nSrNYqzQ = E4o1b3x((short)400101379);
 }
 if (bZjyPGd != -2065402572)
 {
@@ -138,7 +138,7 @@ while (k < 3);
 }
 cout << "MwIE" << endl;
 
-cout << ia5_ / J0Ekd2l0p(540087927, 755717791, nSrNYqzQ, 1134687955) << endl;
+cout << ia5_ / J0Ekd2l0p((unsigned short)540087927, 755717791, nSrNYqzQ, 1134687955) << endl;
 
 if (Mm_4 < 852100812)
 {
@@ -157,7 +157,7 @@ else
 {
 if (uA1u <= 1634799827)
 {
-lMEkPslz9V = E4o1b3x(-875088862);
+lMEkPslz9V = E4o1b3x((short)-875088862);
 }
 else
 {
@@ -179,7 +179,7 @@ else if (OwDy24jH_ == -1746295802)
 {
 for (int j = 0; j < 6; ++j)
 {
-Zu_08F15y = J0Ekd2l0p(-90881433, lMEkPslz9V, Zu_08F15y, 127216018);
+Zu_08F15y = J0Ekd2l0p((unsigned short)-90881433, lMEkPslz9V, Zu_08F15y, 127216018);
 }
 }
 else if ((CN_I == 1052673191) && (nSrNYqzQ))
@@ -190,7 +190,7 @@ case 0:
 k7f07 = J0Ekd2l0p(uc0qJq02ky, MCzmQf8, (char)1222852115, bZjyPGd);
 break;
 case 1:
-wu_uKNF0k = J0Ekd2l0p(-2144163763, 625501651, BtlE8, WG8Gx6CF0l);
+wu_uKNF0k = J0Ekd2l0p((unsigned short)-2144163763, 625501651, BtlE8, WG8Gx6CF0l);
 break;
 case 2:
 j867Un7B = E4o1b3x(-699340705);
@@ -205,7 +205,7 @@ case 5:
 a47BX7j8P = q0IjRhW8P0 >> uA1u;
 break;
 case 6:
-bIAojd = J0Ekd2l0p(r8aIVGFT1, 2067684062, -1739730224, PVm_N_GI);
+bIAojd = J0Ekd2l0p(r8aIVGFT1, 2067684062, (char)-1739730224, PVm_N_GI);
 break;
 case 7:
 BVrDur_ = J0Ekd2l0p(WBQT6, X1rvdWDZV1, MCzmQf8, ByxUB9C);
@@ -225,7 +225,7 @@ X1rvdWDZV1 = J0Ekd2l0p(CYRZvgAe, ko8oK6UPs, Ouxmr_, -992188263) + axsvxws;
 }
 else if (((c3pC725 <= 540542281) && (IH_IofWki & 1712257633)) || (I2oVZ94 >= WOslhbqv3))
 {
-L6495h = E4o1b3x(-1338834404);
+L6495h = E4o1b3x((short)-1338834404);
 }
 else
 {
@@ -260,7 +260,7 @@ while (j >= 0);
 }
 else
 {
-k7f07 = J0Ekd2l0p(-2026169195, -1111417981, CYRZvgAe, -1510266613);
+k7f07 = J0Ekd2l0p((unsigned short)-2026169195, -1111417981, CYRZvgAe, -1510266613);
 }
 cout << J0Ekd2l0p((unsigned short)-28846650, ByxUB9C, CYRZvgAe, nSrNYqzQ) << "cTim_2ot" << JxDX_ << endl;
 for (int i = 7; i >= 0; --i)
@@ -287,7 +287,7 @@ y74qnq3H <<= Q29_gc;
 }
 else if (Ok0P78p66 & wu_uKNF0k)
 {
-BtlE8 = E4o1b3x(-1158521632);
+BtlE8 = E4o1b3x((short)-1158521632);
 }
 else if (BVrDur_ <= 1851914543)
 {

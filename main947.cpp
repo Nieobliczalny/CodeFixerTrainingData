@@ -9,7 +9,7 @@
 
 short	smG_17oZ_(unsigned char	j1xrM63G8,char	Bynn3)
 {
-	return	-1903665739;
+	return	(short)-1903665739;
 }
 
 unsigned char    R6Kk(short int    Q7szQdUwp)    {
@@ -75,7 +75,7 @@ S_h_ = (unsigned char)(U6YF);
 switch (S_h_)
 {
 case 'a':
-iUTa = R6Kk(-187695814);
+iUTa = R6Kk((short)-187695814);
 break;
 case 'b':
 U6YF = mp50692_I(-1496014331, S_h_);
@@ -90,7 +90,7 @@ case 'e':
 U6YF = mp50692_I(72351202, S_h_);
 break;
 case 'f':
-S_h_ = mp50692_I(135931756, 177331173);
+S_h_ = mp50692_I(135931756, (unsigned short)177331173);
 break;
 case 'g':
 iUTa = smG_17oZ_((unsigned char)1463678786, 898278240);
@@ -115,7 +115,7 @@ try
 int k = 3;
 do
 {
-iUTa = smG_17oZ_(U6YF, 1016480754);
+iUTa = smG_17oZ_(U6YF, (char)1016480754);
 k--;
 }
 while (k >= 0);
@@ -159,7 +159,7 @@ case 2:
 S_h_ = mp50692_I(568632285, iUTa);
 break;
 case 3:
-iUTa = R6Kk(-263934508);
+iUTa = R6Kk((short)-263934508);
 break;
 }
 
@@ -171,7 +171,7 @@ iUTa = (double)(S_h_ + (-2005624939));
 
 iUTa = (U6YF <= iUTa) ? S_h_ : U6YF;
 
-std::cout << S_h_ / mp50692_I(-1127678099, 1148244189) << std::endl;
+std::cout << S_h_ / mp50692_I(-1127678099, (unsigned short)1148244189) << std::endl;
 iUTa = smG_17oZ_(iUTa, S_h_);
 
 for (int i = 8; i >= 0; i--)
@@ -199,7 +199,7 @@ if (iUTa <= U6YF)
 int j = 0;
 while (j < 1)
 {
-iUTa = smG_17oZ_(-1708452298, (char)198030601);
+iUTa = smG_17oZ_((unsigned char)-1708452298, (char)198030601);
 ++j;
 }
 }

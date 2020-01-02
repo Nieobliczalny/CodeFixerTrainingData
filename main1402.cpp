@@ -102,7 +102,7 @@ int main(void)
  h1940qUX7i = 417976941;
  OUT2ob7L9 = 1394826180;
 
-cout << pzo7(-1274305869, (short)-1331094696, Qcmj_C6VRH, 1166318212, -629642429) << "ziz8B5y" << vhs1(xHoJPngKW, dpiZl_0s6, -885527081, Y4_wEHNk57, V3MsI) << oGzLUQ42(881779771) << endl;
+cout << pzo7((char)-1274305869, (short)-1331094696, Qcmj_C6VRH, 1166318212, -629642429) << "ziz8B5y" << vhs1(xHoJPngKW, dpiZl_0s6, -885527081, Y4_wEHNk57, V3MsI) << oGzLUQ42(881779771) << endl;
 dpiZl_0s6 = OUT2ob7L9 / DlY3W;
 
 switch (Akm0pI)
@@ -122,7 +122,7 @@ case 0:
 ye32 = (int)abs(P0eKTw0f);
 break;
 case 1:
-eS6X87 = oGzLUQ42(632936402);
+eS6X87 = oGzLUQ42((short)632936402);
 break;
 case 2:
 c1ou262Em /= U40oEJA;
@@ -149,7 +149,7 @@ unsigned long oGzLUQ42(short p4futA8aS) {
 
 short    vhs1(unsigned long    z8RUF2txd,unsigned long    oBy1ko,short    hH742G,unsigned char    NYjJPZ76,unsigned long    S08Z_)
 {
-    return    1991492403;
+    return    (short)1991492403;
 }
 
 long long	pzo7(char	P2Vv1q,short int	HnFTJRD3,char	mqmf2c,char	H_ObEAwX90,short	P806_kzVvN)
@@ -159,6 +159,6 @@ long long	pzo7(char	P2Vv1q,short int	HnFTJRD3,char	mqmf2c,char	H_ObEAwX90,short	
 
 short int    LZ50d0dKU(long    UoEs,unsigned int    ecY43S_94,short int    wQ6nCTS5,long    djsbs4TJw)
 {
-    return    422618773;
+    return    (short)422618773;
 }
 

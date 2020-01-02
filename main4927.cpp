@@ -17,7 +17,7 @@ using std::floor;
 
 int main(int argc, char** argv)
 {
- unsigned char IyMf5Hik1 = -798695734;
+ unsigned char IyMf5Hik1 = (unsigned char)-798695734;
 	double	m1dKHEt6Ve	=	-426167828;
   short int  hLF_46W  =  (short)-1789490459;
 	int	tr8E	=	0;
@@ -28,7 +28,7 @@ int main(int argc, char** argv)
 	long	p5oU11	=	-1528752660;
     long long    dnh1kIF01j    =    79509092;
   long long  JIfR4p509T  =  -776965386;
-    char    mr9qX    =    -1031880709;
+    char    mr9qX    =    (char)-1031880709;
  unsigned char G_cp8u_3C0 = (unsigned char)-1281098994;
     int    jItC_    =    -1488942285;
 	long long	A72PVNHM6	=	-1798433035;
@@ -39,7 +39,7 @@ int main(int argc, char** argv)
  unsigned short int AZ96_GsQ = 865587756;
  long Gy4P8omJMR = -396924224;
     int    hW43jV    =    -1358298237;
-    char    Y9RCrtyG7R    =    -841405148;
+    char    Y9RCrtyG7R    =    (char)-841405148;
   unsigned int  uNaqLH5RP5  =  -607269405;
   float  wgsbQ_U73  =  -947737900;
   float  t0XS2kR6Q  =  1611338900;
@@ -49,7 +49,7 @@ int main(int argc, char** argv)
 	char	VAfuyb5_	=	-1038969083;
     unsigned char    vHMttLl_    =    -32123029;
  unsigned long long GI7eF = 500208653;
-	char	pFqcd_	=	-1684154727;
+	char	pFqcd_	=	(char)-1684154727;
 	unsigned char	VF2r	=	-1418553168;
 	double	iq67	=	1864201975;
  char tnE_ = -2111750638;
@@ -61,7 +61,7 @@ int main(int argc, char** argv)
 	short int	RMfHR	=	0;
     unsigned int    b8O4nl4    =    -942428555;
  int i_TH = -885601806;
-  char  G9_bf4  =  -1780119312;
+  char  G9_bf4  =  (char)-1780119312;
     long double    lrLfv886    =    905807676;
 
 switch (q5W7XzM)

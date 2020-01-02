@@ -15,7 +15,7 @@ using namespace std;
 
 int main(void) {
     unsigned short    XxoRWA,    TjSPtoG206,    GD4x,    w33L6_5G,    J0RRY,    iE8mSUw6X,    g0cA06I50,    E6d4n0OXvX,    pORZ,    ATi3bQv4,    WN_Ymu,    W78bWOYGHq,    DKSu9y5Vo,    igcE13xc,    f4Hhv1474j,    a6e43TZ_NL,    pri5q91_1,    a4_6DjhMc,    ISSQ,    Bhzg9RGcP,    SrjpS,    I5nSYiF_,    Gh_50g,    Pj_Zln643,    pV3WDvPU,    wvQDZ619O8,    jAGh87vUY,    Xc0avT5,    NbUC94,    iy71a,    zj1g,    iW996RYwvp,    Q9BP92A,    D6e2,    K7cmFe1F,    Q0vbYg08h,    p3r0_kQ01,    flHGHl6,    SjL0,    h0O1IZ548h,    ww_WD0b7N5,    P473erPXN8,    t73wy9,    kys8Y8,    i3U_dwx6,    PE5E7C,    qbyD,    XXh7z52,    T81S,    Ava265s,    L9dbUw,    A_7hckab,    TB7g,    v_g9_,    FA2Hw58N,    I9Kk7Xk8,    r8w_JqB,    ERiVTgN50q,    M9pUd9Ioz,    U1BB,    QQQ9a17yQk,    iO7qma3,    JcTw_qawz,    Uy332YLgz0,    wK67fn8k7M,    PV2Gn,    G4n5YY,    D6W3GFe9l,    v0eUG,    G7Hc2l_WI0,    FRZufb6X4O,    R56u5hZ3V1,    KQucSDGn,    FzfW6MB,    tBIq5ce,    ql2if2BxS,    rxNFy9248T,    i3R3Qi5O,    zVwYv51O;
-        XxoRWA    =    TjSPtoG206    =    GD4x    =    w33L6_5G    =    J0RRY    =    iE8mSUw6X    =    g0cA06I50    =    E6d4n0OXvX    =    pORZ    =    ATi3bQv4    =    WN_Ymu    =    W78bWOYGHq    =    DKSu9y5Vo    =    igcE13xc    =    f4Hhv1474j    =    a6e43TZ_NL    =    pri5q91_1    =    a4_6DjhMc    =    ISSQ    =    Bhzg9RGcP    =    SrjpS    =    I5nSYiF_    =    Gh_50g    =    Pj_Zln643    =    pV3WDvPU    =    wvQDZ619O8    =    jAGh87vUY    =    Xc0avT5    =    NbUC94    =    iy71a    =    zj1g    =    iW996RYwvp    =    Q9BP92A    =    D6e2    =    K7cmFe1F    =    Q0vbYg08h    =    p3r0_kQ01    =    flHGHl6    =    SjL0    =    h0O1IZ548h    =    ww_WD0b7N5    =    P473erPXN8    =    t73wy9    =    kys8Y8    =    i3U_dwx6    =    PE5E7C    =    qbyD    =    XXh7z52    =    T81S    =    Ava265s    =    L9dbUw    =    A_7hckab    =    TB7g    =    v_g9_    =    FA2Hw58N    =    I9Kk7Xk8    =    r8w_JqB    =    ERiVTgN50q    =    M9pUd9Ioz    =    U1BB    =    QQQ9a17yQk    =    iO7qma3    =    JcTw_qawz    =    Uy332YLgz0    =    wK67fn8k7M    =    PV2Gn    =    G4n5YY    =    D6W3GFe9l    =    v0eUG    =    G7Hc2l_WI0    =    FRZufb6X4O    =    R56u5hZ3V1    =    KQucSDGn    =    FzfW6MB    =    tBIq5ce    =    ql2if2BxS    =    rxNFy9248T    =    i3R3Qi5O    =    zVwYv51O    =    -1068163322;
+        XxoRWA    =    TjSPtoG206    =    GD4x    =    w33L6_5G    =    J0RRY    =    iE8mSUw6X    =    g0cA06I50    =    E6d4n0OXvX    =    pORZ    =    ATi3bQv4    =    WN_Ymu    =    W78bWOYGHq    =    DKSu9y5Vo    =    igcE13xc    =    f4Hhv1474j    =    a6e43TZ_NL    =    pri5q91_1    =    a4_6DjhMc    =    ISSQ    =    Bhzg9RGcP    =    SrjpS    =    I5nSYiF_    =    Gh_50g    =    Pj_Zln643    =    pV3WDvPU    =    wvQDZ619O8    =    jAGh87vUY    =    Xc0avT5    =    NbUC94    =    iy71a    =    zj1g    =    iW996RYwvp    =    Q9BP92A    =    D6e2    =    K7cmFe1F    =    Q0vbYg08h    =    p3r0_kQ01    =    flHGHl6    =    SjL0    =    h0O1IZ548h    =    ww_WD0b7N5    =    P473erPXN8    =    t73wy9    =    kys8Y8    =    i3U_dwx6    =    PE5E7C    =    qbyD    =    XXh7z52    =    T81S    =    Ava265s    =    L9dbUw    =    A_7hckab    =    TB7g    =    v_g9_    =    FA2Hw58N    =    I9Kk7Xk8    =    r8w_JqB    =    ERiVTgN50q    =    M9pUd9Ioz    =    U1BB    =    QQQ9a17yQk    =    iO7qma3    =    JcTw_qawz    =    Uy332YLgz0    =    wK67fn8k7M    =    PV2Gn    =    G4n5YY    =    D6W3GFe9l    =    v0eUG    =    G7Hc2l_WI0    =    FRZufb6X4O    =    R56u5hZ3V1    =    KQucSDGn    =    FzfW6MB    =    tBIq5ce    =    ql2if2BxS    =    rxNFy9248T    =    i3R3Qi5O    =    zVwYv51O    =    (unsigned short)-1068163322;
 	short	HD2avv,	f7nVS;
 		HD2avv	=	f7nVS	=	0;
 
@@ -194,7 +194,7 @@ case 2:
 G7Hc2l_WI0 >>= R56u5hZ3V1;
 break;
 default:
-XxoRWA = (h0O1IZ548h <= -11538372) ? ATi3bQv4 : -527927187;
+XxoRWA = (h0O1IZ548h <= -11538372) ? ATi3bQv4 : (unsigned short)-527927187;
 break;
 }
 }
@@ -430,7 +430,7 @@ zj1g = r8w_JqB - 832059338;
 }
 else
 {
-a6e43TZ_NL = (Ava265s > Di4w_3o4) ? -1557255942 : (unsigned short)-114805207;
+a6e43TZ_NL = (Ava265s > Di4w_3o4) ? (unsigned short)-1557255942 : (unsigned short)-114805207;
 }
 }
 --i;

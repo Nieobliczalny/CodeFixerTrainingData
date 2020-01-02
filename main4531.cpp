@@ -14,7 +14,7 @@ using std::floor;
 
 unsigned short int	JApTyQ0V4v(unsigned char	qrXg1,unsigned short int	gn49t92)
 {
-	return	-1982628295;
+	return	(unsigned short)-1982628295;
 }
 
 char    wLF_9J(short    Hxotw7,unsigned int    iT70)    {
@@ -42,7 +42,7 @@ else if (gb7l != -1843430475)
 int k = 0;
 while (k < 3)
 {
-li38kP9fS = JApTyQ0V4v(-1110949988, lL1KY3V1P) & 1147882100;
+li38kP9fS = JApTyQ0V4v((unsigned char)-1110949988, lL1KY3V1P) & 1147882100;
 ++k;
 }
 }
@@ -95,7 +95,7 @@ while (i < 1)
 int j = 0;
 do
 {
-U83iqMw = JApTyQ0V4v(U83iqMw, 1679668924);
+U83iqMw = JApTyQ0V4v(U83iqMw, (unsigned short)1679668924);
 ++j;
 }
 while (j < 9);
@@ -121,7 +121,7 @@ iv4r = JApTyQ0V4v(-216250904, I2LQ6sL);
 I6ia_ZE = (double)(Avo0KF27v);
 if (r5E7m4Y == g26WgqPEg)
 {
-std::cout << PDzr449M52 << wLF_9J(iv4r, I2LQ6sL) << JApTyQ0V4v(iv4r, 1983103111) << std::endl;
+std::cout << PDzr449M52 << wLF_9J(iv4r, I2LQ6sL) << JApTyQ0V4v(iv4r, (unsigned short)1983103111) << std::endl;
 }
 else
 {
@@ -165,7 +165,7 @@ case 4:
 V5a1b3ez = wLF_9J(x1L4Z, -1623990123);
 break;
 case 5:
-x1L4Z = JApTyQ0V4v(163900342, (unsigned short)1470690956);
+x1L4Z = JApTyQ0V4v((unsigned char)163900342, (unsigned short)1470690956);
 break;
 case 6:
 CH600x3p = JApTyQ0V4v(V5a1b3ez, -679921742);

@@ -13,7 +13,7 @@ short K7i98(unsigned short h_33q,int z05542U_j,short ySpyL0E4,int z39JElX,unsign
 
 int main(int argc, char** argv) {
  unsigned long long li4bbTmy = 587736226;
-    char    n_dttK    =    144396011;
+    char    n_dttK    =    (char)144396011;
     char    I18z    =    0;
  char o8_40M1av = (char)-57817402;
     short int    TdBx_4    =    399632375;
@@ -28,7 +28,7 @@ int main(int argc, char** argv) {
   unsigned long  oRH7z6AZJ0  =  0;
  int Sj2E_1 = -985686612;
     unsigned int    aSzp2HRs    =    -535061079;
- unsigned short int G3M6dS936 = 946951319;
+ unsigned short int G3M6dS936 = (unsigned short)946951319;
 	char	YmK5tVn2	=	(char)-1361504508;
 	unsigned short	ekWB82j1	=	-2130214407;
 	long	K5k4595	=	882492642;
@@ -66,7 +66,7 @@ m3Hr0S_ = K7i98(m3Hr0S_, li4bbTmy, FpuBoy, I18z, 1250819633);
 }
 }
 
-BpYMQNHMP = K7i98(-597730198, TdBx_4, YmK5tVn2, 182102081, 2138374440);
+BpYMQNHMP = K7i98((unsigned short)-597730198, TdBx_4, YmK5tVn2, 182102081, 2138374440);
 std::cout << oRH7z6AZJ0 << "P5QD_gsM" << x9773xylU() << std::endl;
 try
 {
@@ -85,7 +85,7 @@ if (YmK5tVn2 < -439243406)
 {
 if ((FpuBoy != 1600092451) || ((TdBx_4) && (FpuBoy > 142581752)))
 {
-K5k4595 = K7i98(906275009, zv2ojy, (short)2143244186, P7o5, i9J3MwUXaL);
+K5k4595 = K7i98((unsigned short)906275009, zv2ojy, (short)2143244186, P7o5, i9J3MwUXaL);
 }
 else if ((ekWB82j1 & i9J3MwUXaL) && (DmUXKzmReD >= 285786356))
 {
@@ -124,7 +124,7 @@ aSzp2HRs++;
 }
 else if (G3M6dS936)
 {
-G3M6dS936 = K7i98(1689965612, 91834841, (short)606659426, 919603524, zv2ojy);
+G3M6dS936 = K7i98((unsigned short)1689965612, 91834841, (short)606659426, 919603524, zv2ojy);
 }
 else if (li4bbTmy > 1530783371)
 {
@@ -136,7 +136,7 @@ zv2ojy = x9773xylU();
 }
 else
 {
-DmUXKzmReD = K7i98(531396572, ekWB82j1, m3Kosl, li4bbTmy, n_dttK);
+DmUXKzmReD = K7i98((unsigned short)531396572, ekWB82j1, m3Kosl, li4bbTmy, n_dttK);
 }
 }
 }
@@ -202,6 +202,6 @@ unsigned short int x9773xylU() {
 }
 
 short K7i98(unsigned short h_33q,int z05542U_j,short ySpyL0E4,int z39JElX,unsigned long long pP2pE) {
- return -1386117253;
+ return (short)-1386117253;
 }
 

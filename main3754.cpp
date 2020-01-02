@@ -16,7 +16,7 @@ int main(int argc, char** argv) {
 	long double	FE_9XR8F5I	=	383906419;
   int  N3j1sjq  =  -606739745;
   unsigned int  m1iicD  =  -1589377457;
-    short    hqZaFs7    =    -918684125;
+    short    hqZaFs7    =    (short)-918684125;
 	short int	RJb10m2	=	(short)188498683;
  unsigned int Zc5JWfXA = 35972004;
  long double MOM8l = 1763499211;
@@ -26,7 +26,7 @@ int main(int argc, char** argv) {
  unsigned long long EJ0Eh_06U = -158510809;
 	int	iv_6oMm	=	531039617;
     int    EBLK4l50o    =    260237323;
- char bpqkV_3 = -1151872206;
+ char bpqkV_3 = (char)-1151872206;
     double    pl9j    =    -117246048;
     short int    A0Et6O6l    =    (short)1481240103;
   unsigned long long  rLr_8D  =  0;
@@ -39,7 +39,7 @@ int main(int argc, char** argv) {
 	unsigned int	Wy3N0a	=	-1244936370;
   long  X1C4RjhK  =  -1209929889;
  unsigned int hsUi = 1268457333;
-	char	b_69RgH1l	=	-2093522490;
+	char	b_69RgH1l	=	(char)-2093522490;
   long long  fHzx  =  -1486468653;
   unsigned short int  SN52m  =  (unsigned short)-741708177;
 	double	M7dxJ6hU	=	-2125372656;
@@ -57,7 +57,7 @@ M7dxJ6hU = (int)floor(FE_9XR8F5I);
 }
 }
 
-SN52m = E4U6lvu(1985417799, R92eO17, pl9j, (unsigned char)311987538, -1838937117);
+SN52m = E4U6lvu((unsigned char)1985417799, R92eO17, pl9j, (unsigned char)311987538, -1838937117);
 
 if (J9ddG_bS != mEHq8)
 {
@@ -129,7 +129,7 @@ i++;
 }
 while (i < 3);
 }
-rE_Y = E4U6lvu(rE_Y, hsUi, SN52m, -1058282611, Wy3N0a);
+rE_Y = E4U6lvu(rE_Y, hsUi, SN52m, (unsigned char)-1058282611, Wy3N0a);
 MOM8l = (int)abs(w5yP17rB2k);
 
 if ((EBLK4l50o == A0Et6O6l) || (pl9j))
@@ -182,7 +182,7 @@ case 0:
 A0Et6O6l = (int)abs(EBLK4l50o);
 break;
 case 1:
-bpqkV_3 = E4U6lvu(1957019011, -2068729515, SN52m, (unsigned char)961571276, -459307573) * hsUi;
+bpqkV_3 = E4U6lvu((unsigned char)1957019011, -2068729515, SN52m, (unsigned char)961571276, -459307573) * hsUi;
 break;
 }
 }
@@ -251,7 +251,7 @@ hsUi *= 1331145471;
 }
 else
 {
-Q8W1D = (chOB4o5Y & mEHq8) ? -814488294 : X1C4RjhK;
+Q8W1D = (chOB4o5Y & mEHq8) ? (char)-814488294 : X1C4RjhK;
 }
 }
 }
@@ -299,7 +299,7 @@ else
 {
 if ((M7dxJ6hU >= -297627593) && ((pl9j != M7dxJ6hU) || (Wy3N0a > mEHq8)))
 {
-hqZaFs7 = E4U6lvu(hqZaFs7, 418182744, R92eO17, -6619139, FE_9XR8F5I);
+hqZaFs7 = E4U6lvu(hqZaFs7, 418182744, R92eO17, (unsigned char)-6619139, FE_9XR8F5I);
 }
 else if (EBLK4l50o & tqM4)
 {
@@ -337,7 +337,7 @@ else if (HTrR0c2z1_ >= 1040026383)
 {
 for (int j = 0; j < 6; j++)
 {
-std::cout << E4U6lvu(EJ0Eh_06U, 753211456, WQHG_l, X1C4RjhK, -1668504352) << hsUi << w_H94Qjk(1813551088, (short)-1827860469, 1044584548) << w_H94Qjk(EJ0Eh_06U, -1593411148, 668177561) << std::endl;
+std::cout << E4U6lvu(EJ0Eh_06U, 753211456, WQHG_l, X1C4RjhK, (short)-1668504352) << hsUi << w_H94Qjk(1813551088, (short)-1827860469, 1044584548) << w_H94Qjk(EJ0Eh_06U, -1593411148, 668177561) << std::endl;
 }
 }
 else if (kD7e6_N8f > EBLK4l50o)
@@ -366,7 +366,7 @@ fHzx = w_H94Qjk(EJ0Eh_06U, chOB4o5Y, WQHG_l) ^ iv_6oMm;
 }
 else if (m1iicD > 1212907286)
 {
-rLr_8D = w_H94Qjk(-2063380873, M7dxJ6hU, 1795341600);
+rLr_8D = w_H94Qjk(-2063380873, M7dxJ6hU, (unsigned char)1795341600);
 }
 else
 {
@@ -401,7 +401,7 @@ chOB4o5Y -= EBLK4l50o;
 }
 else
 {
-M7dxJ6hU = E4U6lvu(1937971050, A0Et6O6l, hqZaFs7, (unsigned char)-808767925, FE_9XR8F5I);
+M7dxJ6hU = E4U6lvu((unsigned char)1937971050, A0Et6O6l, hqZaFs7, (unsigned char)-808767925, FE_9XR8F5I);
 }
 }
 else
@@ -437,7 +437,7 @@ pl9j = (int)ceil(M7dxJ6hU);
 }
 else if (Zc5JWfXA < EBLK4l50o)
 {
-rLr_8D = w_H94Qjk(X1C4RjhK, -2019079878, g8_hFsQ7);
+rLr_8D = w_H94Qjk(X1C4RjhK, (short)-2019079878, g8_hFsQ7);
 }
 else if (N3j1sjq != mEHq8)
 {
@@ -455,7 +455,7 @@ EJ0Eh_06U = R92eO17 / pl9j;
 }
 std::cout << EJ0Eh_06U << std::endl;
 
-std::cout << M7dxJ6hU << E4U6lvu(-1182264065, kD7e6_N8f, (short)547005876, -673089007, -533835308) << std::endl;
+std::cout << M7dxJ6hU << E4U6lvu((unsigned char)-1182264065, kD7e6_N8f, (short)547005876, -673089007, -533835308) << std::endl;
 
 M7dxJ6hU = (int)floor(pl9j);
 SN52m = (unsigned short int)(mEHq8 + (2118357670));
@@ -468,7 +468,7 @@ catch (int& errorCode)
 pl9j = (int)ceil(WQHG_l);
 }
 
-std::cout << "kLOC" << M7dxJ6hU << E4U6lvu(A0Et6O6l, kD7e6_N8f, -1196353932, (unsigned char)560115568, -781170039) << std::endl;
+std::cout << "kLOC" << M7dxJ6hU << E4U6lvu(A0Et6O6l, kD7e6_N8f, (short)-1196353932, (unsigned char)560115568, -781170039) << std::endl;
 return 0;
 }
 

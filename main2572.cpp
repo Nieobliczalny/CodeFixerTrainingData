@@ -14,7 +14,7 @@
 using namespace std;
 
 short    Eu7he(short int    cKEv_jfeq4,long long    Uc02)    {
-    return    676013295;
+    return    (short)676013295;
 }
 
 unsigned char	Aly4xC6whZ(unsigned long long	g5ps)
@@ -27,7 +27,7 @@ unsigned char sx7_lqL() {
 }
 
 char QTlLxK88(unsigned char CQQfK) {
- return 325563120;
+ return (char)325563120;
 }
 
 int main() {
@@ -65,7 +65,7 @@ switch (R296xmps6)
 {
 case 'a':
 case 'A':
-M_SiTu = Eu7he(-224390947, M4Ewwe5R);
+M_SiTu = Eu7he((short)-224390947, M4Ewwe5R);
 break;
 case 'b':
 case 'B':
@@ -89,7 +89,7 @@ K38wj6 = Aly4xC6whZ(-436950894);
 break;
 case 'g':
 case 'G':
-HgTTE = QTlLxK88(-1694594948);
+HgTTE = QTlLxK88((unsigned char)-1694594948);
 break;
 }
 }
@@ -99,7 +99,7 @@ for (int j = 6; j >= 0; j--)
 {
 if (SChv3k5Yq)
 {
-MUmoisy = Eu7he(1233216863, M4Ewwe5R);
+MUmoisy = Eu7he((short)1233216863, M4Ewwe5R);
 }
 else
 {
@@ -173,7 +173,7 @@ else
 {
 if ((Jj944 < X94K) && ((o5m9ED >= P8LbP) && (xiFK6f567 <= D73s4)))
 {
-b3h4q = QTlLxK88(-1348295119);
+b3h4q = QTlLxK88((unsigned char)-1348295119);
 }
 else
 {
@@ -197,7 +197,7 @@ q_185 &= gU734;
 }
 else if (i760uSGAT > u_Vr9)
 {
-cout << j9b5R9I_x << QTlLxK88(-110426709) << sx7_lqL() << endl;
+cout << j9b5R9I_x << QTlLxK88((unsigned char)-110426709) << sx7_lqL() << endl;
 }
 else
 {
@@ -266,7 +266,7 @@ ECs0Gy27 = Aly4xC6whZ(-747372958);
 }
 }
 
-HGDo7 = QTlLxK88(-255691258);
+HGDo7 = QTlLxK88((unsigned char)-255691258);
 
 cout << "Swm41CB55" << endl;
 for (int i = 0; i < 10; i++)
@@ -320,7 +320,7 @@ Gh8udj0zD4 = Aly4xC6whZ(1300457009);
 }
 else if ((Q68lbw7 <= D73s4) || (bXYxwe1))
 {
-De2R6 = QTlLxK88(832320006);
+De2R6 = QTlLxK88((unsigned char)832320006);
 }
 else if (De2R6 == bx3k47M)
 {
@@ -457,7 +457,7 @@ do
 {
 if (ha8N7vCU < 1787148643)
 {
-pLB3_1DR_w = Eu7he(1440322202, P8LbP);
+pLB3_1DR_w = Eu7he((short)1440322202, P8LbP);
 }
 ++j;
 }
@@ -493,7 +493,7 @@ P8LbP <<= M21B_NG;
 break;
 case 'c':
 case 'C':
-Jj944 = QTlLxK88(1028967873);
+Jj944 = QTlLxK88((unsigned char)1028967873);
 break;
 case 'd':
 case 'D':
@@ -525,7 +525,7 @@ case 2:
 nl8Vkq015 = (sSj1wB != 1574968013) ? D6LW : -1573048817;
 break;
 case 3:
-lt04x_QE0h = Eu7he(-18265494, -200618137);
+lt04x_QE0h = Eu7he((short)-18265494, -200618137);
 break;
 case 4:
 X4O0npW94k |= 15504672;

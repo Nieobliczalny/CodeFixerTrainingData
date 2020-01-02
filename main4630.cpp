@@ -83,7 +83,7 @@ switch (Kiw9O)
 {
 case 'a':
 case 'A':
-hHzv8_ = g4WVnkZX9(907160632, b5_SmGV, -685059326, (unsigned short)749476596);
+hHzv8_ = g4WVnkZX9((unsigned short)907160632, b5_SmGV, -685059326, (unsigned short)749476596);
 break;
 case 'b':
 case 'B':
@@ -103,7 +103,7 @@ q_tCY85l1 *= eTM_TS5UM;
 break;
 case 'f':
 case 'F':
-G9sO = g4WVnkZX9(295947459, bd23l, ApSKL_6f, (unsigned short)-247737531);
+G9sO = g4WVnkZX9((unsigned short)295947459, bd23l, ApSKL_6f, (unsigned short)-247737531);
 break;
 case 'g':
 case 'G':

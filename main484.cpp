@@ -118,7 +118,7 @@ int main() {
 	hYR392_	=	0;
 	uStGlQ	=	0;
 
-Qi2xZT39d = (L_mmam00) ? mBUp3VOY9B(365332551) : XC_7Zc0hR;
+Qi2xZT39d = (L_mmam00) ? mBUp3VOY9B((char)365332551) : XC_7Zc0hR;
 switch (gr0Z0UT)
 {
 case 'a':
@@ -135,7 +135,7 @@ htKw47X5x_ = (int)floor(Ew72);
 
 for (int i = 0; i < 6; i++)
 {
-t3g8K0 = mBUp3VOY9B(-145144340);
+t3g8K0 = mBUp3VOY9B((char)-145144340);
 }
 
 meZ5 = (long double)(kGp0OK);
@@ -161,7 +161,7 @@ for (int j = 2; j >= 0; --j)
 {
 try
 {
-t3g8K0 = mBUp3VOY9B(-76188978);
+t3g8K0 = mBUp3VOY9B((char)-76188978);
 }
 catch (int& errorCode)
 {
@@ -191,7 +191,7 @@ std::cout << v2169Wu5y7 << UjzKEL0k9G << mBUp3VOY9B(neSkw47Ij) << std::endl;
 
 std::cout << "izny_3c5L0" << Nm490h << Qi2xZT39d << std::endl;
 
-std::cout << "ApTH3ZrR9" << mBUp3VOY9B(1217997224) << std::endl;
+std::cout << "ApTH3ZrR9" << mBUp3VOY9B((char)1217997224) << std::endl;
 if (L_mmam00 != Yv2975_rK)
 {
 RkyL3Wb7 = vv08bw + 136571683;
@@ -263,7 +263,7 @@ case 'a':
 UCWZGI20P = (L_mmam00 & gr0Z0UT) ? Zws_RoEPdp : -2109222694;
 break;
 case 'b':
-gr0Z0UT = mBUp3VOY9B(1885899994);
+gr0Z0UT = mBUp3VOY9B((char)1885899994);
 break;
 case 'c':
 t3g8K0 = mBUp3VOY9B((char)-1915655801);
@@ -291,7 +291,7 @@ case 'b':
 guuxgWj /= t2S489;
 break;
 case 'c':
-gr0Z0UT = mBUp3VOY9B(-732765435);
+gr0Z0UT = mBUp3VOY9B((char)-732765435);
 break;
 case 'd':
 nczoaJ = (int)ceil(Ew72);
@@ -339,7 +339,7 @@ cozpqm = (long double)(Ew72);
 
 EFJ9G9cV00 = (int)abs(Dqq8v);
 
-m96ZmUfTr = ZwUASyh71M / mBUp3VOY9B(2062500472);
+m96ZmUfTr = ZwUASyh71M / mBUp3VOY9B((char)2062500472);
 Jlury2F = (B62Q_GkghK != 1780425359) ? mBUp3VOY9B((char)-43347485) : Dqq8v;
 z8Ars6 = M1667_Q3H9 / 370858018;
 
@@ -458,7 +458,7 @@ hYR392_ = mBUp3VOY9B(bVTO);
 }
 kGp0OK = (int)abs(J7M58cmQ8C);
 
-std::cout << mBUp3VOY9B(-1395786982) << "BCk7149Ud2" << HJcud75 << mBUp3VOY9B(bVTO) << std::endl;
+std::cout << mBUp3VOY9B((char)-1395786982) << "BCk7149Ud2" << HJcud75 << mBUp3VOY9B(bVTO) << std::endl;
 
 std::cout << Jlury2F << mBUp3VOY9B((char)-975201306) << mBUp3VOY9B(bVTO) << "Kbei" << gr0Z0UT << std::endl;
 {
@@ -470,7 +470,7 @@ Q97hL4xv = (long double)(gr0Z0UT + (1024319404));
 }
 }
 
-std::cout << mBUp3VOY9B(-1149396060) << std::endl;
+std::cout << mBUp3VOY9B((char)-1149396060) << std::endl;
 try
 {
 {
@@ -507,7 +507,7 @@ t2S489 = (int)abs(fny7);
 break;
 case 'c':
 case 'C':
-t3g8K0 = mBUp3VOY9B(-1475539320);
+t3g8K0 = mBUp3VOY9B((char)-1475539320);
 break;
 case 'd':
 case 'D':
@@ -526,7 +526,7 @@ case 'G':
 VfUokZG = mBUp3VOY9B(ZbQuMrB) ^ 1638412152;
 break;
 default:
-SzCruV = mBUp3VOY9B(-1485008605) / 1060469072;
+SzCruV = mBUp3VOY9B((char)-1485008605) / 1060469072;
 break;
 }
 i++;
@@ -548,7 +548,7 @@ Q97hL4xv = (gr0Z0UT & 756284061) ? mBUp3VOY9B(ZbQuMrB) : ynroN;
 break;
 case 'd':
 case 'D':
-hYR392_ = mBUp3VOY9B(1371393695);
+hYR392_ = mBUp3VOY9B((char)1371393695);
 break;
 case 'e':
 case 'E':
@@ -596,7 +596,7 @@ k55o = (int)abs(e13B2_0);
 break;
 case 'f':
 case 'F':
-gr0Z0UT = mBUp3VOY9B(-1700867031);
+gr0Z0UT = mBUp3VOY9B((char)-1700867031);
 break;
 case 'g':
 case 'G':

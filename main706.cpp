@@ -17,7 +17,7 @@ using std::floor;
 
 char  v61F(unsigned int  S_2Zi2,unsigned long long  N4gc5_,char  LVc_fyiA,int  G4XAJMGVK)
 {
-  return  -12391216;
+  return  (char)-12391216;
 }
 
 short    rt_2(unsigned short int    p7VPn__q6_)
@@ -27,7 +27,7 @@ short    rt_2(unsigned short int    p7VPn__q6_)
 
 unsigned char lo1_qKNQC4()
 {
- return -1664976382;
+ return (unsigned char)-1664976382;
 }
 
 int main(void) {
@@ -37,7 +37,7 @@ int main(void) {
   unsigned short int  v_UugG_  =  1296815961;
 	unsigned long	T7tdrN46	=	978158537;
  long double o7Uxg6 = 2039041869;
-	unsigned short int	bTpw48UI60	=	1219461349;
+	unsigned short int	bTpw48UI60	=	(unsigned short)1219461349;
 	float	w_la6zFX3	=	1207620806;
 	unsigned long	KnS2	=	-438217937;
   unsigned short int  T1c_ji259  =  1593128788;
@@ -51,7 +51,7 @@ int main(void) {
 	unsigned long	k733sv78	=	-1974438169;
  unsigned long long byGp6pe_n1 = -201643203;
   int  yET00s8lJ  =  -340873894;
-	short int	XT_g_	=	2094832664;
+	short int	XT_g_	=	(short)2094832664;
  long double Y0J56S = 1359862712;
 	long long	G1vFID8tO	=	1517966443;
     float    StMZ    =    1250892870;
@@ -62,7 +62,7 @@ int main(void) {
   unsigned short int  KZdZLf6  =  (unsigned short)-676519586;
   short int  lqNPplMnJ  =  -998142222;
 	unsigned int	s_hqZ	=	1727896371;
-    short    S9fy7fX_    =    -1812986369;
+    short    S9fy7fX_    =    (short)-1812986369;
   unsigned long long  y8flJdn  =  0;
     long long    NV7HtPs8Wq    =    1992479302;
     long long    c3t_zvQ    =    953252639;
@@ -72,7 +72,7 @@ int main(void) {
   unsigned short int  Ee3jk  =  (unsigned short)-322192360;
     short int    Xe0z    =    -1564307850;
 	int	cl5llc6	=	1264482271;
-  short int  DC3DR1_P90  =  1018334827;
+  short int  DC3DR1_P90  =  (short)1018334827;
  unsigned long long A5Uc__D8Xs = -599874649;
  int vwYA5 = -2083598602;
  long long V25TdT3 = -5199132;
@@ -229,7 +229,7 @@ do
 {
 for (int k = 0; k < 6; k++)
 {
-pEpe57H7K = rt_2(-1625596225);
+pEpe57H7K = rt_2((unsigned short)-1625596225);
 }
 ++j;
 }
@@ -277,7 +277,7 @@ case 3:
 kxK_ = (int)ceil(StMZ);
 break;
 case 4:
-DC3DR1_P90 = (u19pL10l == -1678814176) ? s_hqZ : -527059404;
+DC3DR1_P90 = (u19pL10l == -1678814176) ? s_hqZ : (short)-527059404;
 break;
 case 5:
 Y0J56S = (int)ceil(B1Kzi);
@@ -301,7 +301,7 @@ break;
 
 v_UugG_ = (unsigned short int)(QPICo);
 
-std::cout << lo1_qKNQC4() << "AKY9l4_T2" << v61F(B1Kzi, G1vFID8tO, 218909814, 1600958437) << std::endl;
+std::cout << lo1_qKNQC4() << "AKY9l4_T2" << v61F(B1Kzi, G1vFID8tO, (char)218909814, 1600958437) << std::endl;
 {
 int i = 0;
 do
@@ -394,7 +394,7 @@ for (int j = 0; j < 7; ++j)
 {
 if (DC3DR1_P90 != bTpw48UI60)
 {
-FV78Z = v61F(-914835873, ZmrfRsQV1L, -1107056507, A5Uc__D8Xs);
+FV78Z = v61F(-914835873, ZmrfRsQV1L, (char)-1107056507, A5Uc__D8Xs);
 }
 }
 }

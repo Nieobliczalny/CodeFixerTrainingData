@@ -15,7 +15,7 @@ using std::floor;
 int main() {
  double JGJbCb = 1449086810;
     long    g189q2    =    -1814323668;
-    char    sgL4_v3z2i    =    473654479;
+    char    sgL4_v3z2i    =    (char)473654479;
  char r6sT_hd = (char)-1188099128;
 	float	cA1Ico	=	-833924411;
     double    hP8__x4LV    =    -111581058;
@@ -30,7 +30,7 @@ int main() {
 	long double	A_AyPCb81	=	-705973983;
     long    h7_1o_fvif    =    114742856;
  unsigned int o86D8W7 = 995689538;
-  unsigned char  PnQtF  =  -1783341738;
+  unsigned char  PnQtF  =  (unsigned char)-1783341738;
 	unsigned long long	wNS_	=	1875965027;
 	float	O3Rn4c8_ue	=	-568032131;
     long    Ztbwg    =    1368791479;
@@ -41,7 +41,7 @@ int main() {
  double m9JSizsCx = 276586143;
   short  vMp57_  =  (short)533455688;
     float    FFI_tOmU4n    =    50668602;
-	unsigned char	Zn4KB81YQ	=	-1106255548;
+	unsigned char	Zn4KB81YQ	=	(unsigned char)-1106255548;
 	float	RGpb6	=	-282795146;
 	char	Zv9VX7S8Q	=	266432086;
   char  Rpea97Lut  =  -1188461285;
@@ -52,7 +52,7 @@ int main() {
 	unsigned int	qB1gB	=	-690912947;
 	long double	LxaU	=	-1727650304;
     long double    DC_k    =    -445138433;
- unsigned char l0A4x = 1191014696;
+ unsigned char l0A4x = (unsigned char)1191014696;
     unsigned long    z1p09JS    =    -739953181;
  unsigned long long E9dkL73UbH = -1824218429;
     float    vG_M43R90    =    1680092740;
@@ -63,7 +63,7 @@ int main() {
  short Z63qZR = (short)904990530;
  unsigned short Y7CkkX6O = -844121484;
 	double	a92d	=	-1355968908;
-  unsigned short int  NX4jw_QR_3  =  -429191825;
+  unsigned short int  NX4jw_QR_3  =  (unsigned short)-429191825;
  float qVtq = 1338423782;
     long double    B74V    =    -1394387904;
 	unsigned long	i_LHqqV1	=	955277268;

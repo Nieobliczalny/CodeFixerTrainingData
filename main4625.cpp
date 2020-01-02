@@ -21,7 +21,7 @@ int main(int argc, char** argv)
   unsigned long long  uBIY7_WC;
   uBIY7_WC  =  362017834;
   unsigned char  S_6l7J;
-  S_6l7J  =  1926204159;
+  S_6l7J  =  (unsigned char)1926204159;
  char xOJiQ;
  xOJiQ = 0;
  short int uujpUDr;
@@ -35,7 +35,7 @@ int main(int argc, char** argv)
  long long LL8f;
  LL8f = -589308627;
   short  H68NsrZu31;
-  H68NsrZu31  =  1246853669;
+  H68NsrZu31  =  (short)1246853669;
     double    zsml99;
     zsml99    =    1157449238;
   unsigned int  NFo5015b;
@@ -51,7 +51,7 @@ int main(int argc, char** argv)
 	long	t2857_;
 	t2857_	=	-1864828510;
   unsigned short  h2uc;
-  h2uc  =  -925437921;
+  h2uc  =  (unsigned short)-925437921;
  double ABD8m69mS;
  ABD8m69mS = 371589736;
  unsigned short ZtVe_4KB;
@@ -61,7 +61,7 @@ int main(int argc, char** argv)
 	unsigned char	XDIgI5gm;
 	XDIgI5gm	=	-1153423889;
     unsigned short    bFWNKj9;
-    bFWNKj9    =    -1347424030;
+    bFWNKj9    =    (unsigned short)-1347424030;
     long    SLC2z3k577;
     SLC2z3k577    =    -703619847;
  unsigned long Uw71FoYh8J;
@@ -75,7 +75,7 @@ int main(int argc, char** argv)
     double    YD122pZ03z;
     YD122pZ03z    =    -816634976;
  unsigned char K2u9HnbgxL;
- K2u9HnbgxL = 118195392;
+ K2u9HnbgxL = (unsigned char)118195392;
     unsigned int    nZSb8tu4;
     nZSb8tu4    =    -2069232987;
     unsigned char    lzb9ePX9;
@@ -85,7 +85,7 @@ int main(int argc, char** argv)
   unsigned int  Z7JUZf2P;
   Z7JUZf2P  =  137730860;
  char jcTh09zF8;
- jcTh09zF8 = 967997292;
+ jcTh09zF8 = (char)967997292;
     short    E0z2;
     E0z2    =    1743358332;
   long double  aPUBXVREE3;
@@ -97,7 +97,7 @@ int main(int argc, char** argv)
  unsigned char enUuHmwAcd;
  enUuHmwAcd = 0;
   unsigned short int  FB3hugD;
-  FB3hugD  =  1445383661;
+  FB3hugD  =  (unsigned short)1445383661;
 	short int	MiEK58V;
 	MiEK58V	=	1133074044;
   unsigned long long  Je_3K81DxU;
@@ -113,7 +113,7 @@ int main(int argc, char** argv)
     unsigned long    naRMVRy;
     naRMVRy    =    -1078361504;
 	unsigned short int	ga368VyZJ;
-	ga368VyZJ	=	-194932620;
+	ga368VyZJ	=	(unsigned short)-194932620;
 	short	rHQ74NF3E4;
 	rHQ74NF3E4	=	(short)-1521250848;
  char Mv2IWFd;

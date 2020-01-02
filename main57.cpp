@@ -14,7 +14,7 @@ using std::floor;
 
 short int  VJ02v_6m(long long  XaI7,unsigned long  g85_,unsigned short  ICE1M55G,int  c3Gk4FQU,int  gG9277uEPd)
 {
-  return  1318987079;
+  return  (short)1318987079;
 }
 
 unsigned int	VlQ8(int	A0SO6,short int	j_3nL8,unsigned int	UHndXjr582,long long	w94_gL,short int	Loct8)
@@ -32,7 +32,7 @@ unsigned char    YNTm46Bcn(int    G104_5zq_,unsigned short int    t7codo)    {
 
 int main()
 {
-    unsigned char    IEq5mmM    =    -215703850;
+    unsigned char    IEq5mmM    =    (unsigned char)-215703850;
   float  uW57LU9v8  =  -2089009605;
  long G8_Zq = 1897828440;
   unsigned char  Ne24  =  (unsigned char)1061049958;
@@ -46,7 +46,7 @@ int main()
     unsigned long long    TvW9OWz5X    =    2000785409;
   unsigned int  AAwCJ  =  1904151623;
  double bLsZJmq = 443516074;
- char fFUddP = 1551066382;
+ char fFUddP = (char)1551066382;
 	unsigned char	N3a6IdPDT	=	(unsigned char)-219270924;
 	unsigned short int	az_7	=	-1008484455;
  unsigned long long pnFazgw = -435573578;
@@ -57,7 +57,7 @@ int main()
 	int	hD_kT66X7	=	1168350314;
  double fT3_Z = 948752667;
 	long	J53Mxia35h	=	-758458481;
-    unsigned short int    WzJF9    =    -313463149;
+    unsigned short int    WzJF9    =    (unsigned short)-313463149;
     short    d4RJKrf6s    =    (short)192799312;
     unsigned long long    MQNNdVY    =    573321376;
 	short int	n_i1	=	-707497345;
@@ -103,7 +103,7 @@ pnFazgw = VlQ8(pnFazgw, N3a6IdPDT, -935670965, hD_kT66X7, MQNNdVY);
 break;
 case 'c':
 case 'C':
-N3a6IdPDT = RiBP(N3a6IdPDT, -599129382, -1938736411, fT3_Z, 710360731);
+N3a6IdPDT = RiBP(N3a6IdPDT, (char)-599129382, -1938736411, fT3_Z, 710360731);
 break;
 }
 
@@ -146,7 +146,7 @@ TvW9OWz5X = (unsigned long long)(Ky8yUnok0);
 }
 }
 
-std::cout << VJ02v_6m(xQJr_9uq, fT3_Z, 1124777150, d4RJKrf6s, M8tx) << VlQ8(xQJr_9uq, (short)-936981200, n_i1, d4RJKrf6s, M8tx) << YNTm46Bcn(xQJr_9uq, 713696992) << RiBP(257949134, fT3_Z, -832905822, -1549421733, M8tx) << std::endl;
+std::cout << VJ02v_6m(xQJr_9uq, fT3_Z, (unsigned short)1124777150, d4RJKrf6s, M8tx) << VlQ8(xQJr_9uq, (short)-936981200, n_i1, d4RJKrf6s, M8tx) << YNTm46Bcn(xQJr_9uq, 713696992) << RiBP(257949134, fT3_Z, -832905822, -1549421733, M8tx) << std::endl;
 
 Fy9E_yHk++;
 

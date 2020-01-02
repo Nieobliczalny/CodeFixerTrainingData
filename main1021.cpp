@@ -31,7 +31,7 @@ KQKoPaOq0T -= 1268876160;
 }
 else if (s30_Z7edFT)
 {
-g20Hd = (ek3infG1 < 1261414212) ? 404025881 : (unsigned short)-518400028;
+g20Hd = (ek3infG1 < 1261414212) ? (unsigned short)404025881 : (unsigned short)-518400028;
 }
 else if (ObdZCw < -1076087964)
 {
@@ -263,7 +263,7 @@ Jk_nQq = N7iW * 1981287617;
 }
 else if (DxEx_ < ypgH6f)
 {
-DxEx_ = (imrZ1M6 & -1627396320) ? 575974430 : J3T2szcEQe;
+DxEx_ = (imrZ1M6 & -1627396320) ? (unsigned short)575974430 : J3T2szcEQe;
 }
 else
 {

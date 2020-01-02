@@ -18,7 +18,7 @@ short    r3T2ikS(unsigned int    JBHi,unsigned long long    dV3A_8_ch);
 
 int main(void) {
 	unsigned char	TQ76a_Q08,	LHqT,	QMbxY2A34,	WVYzbWIHh,	z2lh,	BM0m,	A7Ct;
-		TQ76a_Q08	=	LHqT	=	QMbxY2A34	=	WVYzbWIHh	=	z2lh	=	BM0m	=	A7Ct	=	2060631430;
+		TQ76a_Q08	=	LHqT	=	QMbxY2A34	=	WVYzbWIHh	=	z2lh	=	BM0m	=	A7Ct	=	(unsigned char)2060631430;
   unsigned short  FrC1_2_,  kNfT7R,  Z0T76w,  u_O26Nb1,  cjsTi35;
     FrC1_2_  =  kNfT7R  =  Z0T76w  =  u_O26Nb1  =  cjsTi35  =  0;
 
@@ -181,6 +181,6 @@ short int  PO9jDPSp(unsigned short int  MrjcZ3F)  {
 
 short    r3T2ikS(unsigned int    JBHi,unsigned long long    dV3A_8_ch)
 {
-    return    -1477653579;
+    return    (short)-1477653579;
 }
 

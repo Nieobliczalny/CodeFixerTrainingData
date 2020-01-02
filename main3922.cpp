@@ -228,7 +228,7 @@ z4v16LX1P = p_TB - 1328673471;
 }
 else
 {
-k8Hh2 = (S1gJsR > -982157100) ? -609933366 : j5Y7ugRc;
+k8Hh2 = (S1gJsR > -982157100) ? (unsigned char)-609933366 : j5Y7ugRc;
 }
 }
 std::cout << 1492311345 / VF5CM83kt() << std::endl;

@@ -41,7 +41,7 @@ do
 {
 for (int k = 0; k < 6; k++)
 {
-A2UkUIb = (rtsb) ? -1330850184 : o8C_;
+A2UkUIb = (rtsb) ? (unsigned short)-1330850184 : o8C_;
 }
 j--;
 }

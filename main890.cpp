@@ -10,7 +10,7 @@ using namespace std;
 
 unsigned short int  TPLtuC()
 {
-  return  -1431879964;
+  return  (unsigned short)-1431879964;
 }
 
 short int    xEGv_LI1TP(long    o7ih5tDLUj,unsigned long long    L4XjK,int    ePmQ792)
@@ -20,7 +20,7 @@ short int    xEGv_LI1TP(long    o7ih5tDLUj,unsigned long long    L4XjK,int    eP
 
 int main(int argc, char** argv) {
   char  WMx3,  tm984wx,  Tts5eL;
-    WMx3  =  tm984wx  =  Tts5eL  =  1081917440;
+    WMx3  =  tm984wx  =  Tts5eL  =  (char)1081917440;
 	unsigned long	L0pj7x,	mASs;
 		L0pj7x	=	mASs	=	0;
 
@@ -98,7 +98,7 @@ break;
 
 Tts5eL = TPLtuC();
 
-Tts5eL = (L0pj7x & 762510432) ? 640386588 : Tts5eL;
+Tts5eL = (L0pj7x & 762510432) ? (char)640386588 : Tts5eL;
 
 {
 int i = 9;

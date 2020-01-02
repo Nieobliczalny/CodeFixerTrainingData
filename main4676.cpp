@@ -15,7 +15,7 @@ long long  lneYCn0(unsigned long long  SK8LR_Tcl);
 int main(void)
 {
     short int    VfK257430;
-    VfK257430    =    -923644697;
+    VfK257430    =    (short)-923644697;
   char  WiCPgA;
   WiCPgA  =  (char)-2068764336;
 	long	XXNiX_wM;
@@ -35,7 +35,7 @@ int main(void)
 	long long	hlpt;
 	hlpt	=	307407047;
     short int    l5JrrF;
-    l5JrrF    =    479024399;
+    l5JrrF    =    (short)479024399;
   unsigned short  lwAp3;
   lwAp3  =  (unsigned short)476166647;
 	long long	GH16;
@@ -45,7 +45,7 @@ int main(void)
   double  H0bD;
   H0bD  =  292632818;
  char OdO9nf;
- OdO9nf = -2003668641;
+ OdO9nf = (char)-2003668641;
  long ZWfCt9dV_N;
  ZWfCt9dV_N = 975084411;
  long long oXy40AH;
@@ -59,7 +59,7 @@ int main(void)
 	long double	Ez8S0v;
 	Ez8S0v	=	1401310737;
 	short	S3S391M;
-	S3S391M	=	-637065061;
+	S3S391M	=	(short)-637065061;
     unsigned char    K5I5uM5aiQ;
     K5I5uM5aiQ    =    (unsigned char)221610120;
  unsigned long long ZN393X8;
@@ -69,7 +69,7 @@ int main(void)
   short int  mi7p37;
   mi7p37  =  792407995;
   short  hS1L40p3DQ;
-  hS1L40p3DQ  =  -431379209;
+  hS1L40p3DQ  =  (short)-431379209;
 	float	tW0YkM7_;
 	tW0YkM7_	=	-892541620;
 	unsigned long	WgM5V2qXb;
@@ -81,7 +81,7 @@ int main(void)
  long double kEUgFyp9;
  kEUgFyp9 = 1888826073;
   short int  zIm4_93;
-  zIm4_93  =  -1173924216;
+  zIm4_93  =  (short)-1173924216;
  char eR7B;
  eR7B = (char)928335425;
 	int	psiy;
@@ -95,7 +95,7 @@ int main(void)
 	unsigned long	jMqiCcUA68;
 	jMqiCcUA68	=	0;
 	short	yCXkVH;
-	yCXkVH	=	-438280908;
+	yCXkVH	=	(short)-438280908;
   long long  uEA99or;
   uEA99or  =  1760360079;
  short M7wmLGg;
@@ -105,7 +105,7 @@ int main(void)
     double    ld0kb63;
     ld0kb63    =    -488695062;
 	unsigned char	f049yvHkjn;
-	f049yvHkjn	=	581016935;
+	f049yvHkjn	=	(unsigned char)581016935;
     unsigned long long    hVU278YL;
     hVU278YL    =    -834965038;
     double    fJ_O6wQ_C;
@@ -117,7 +117,7 @@ int main(void)
   long  Nj0sk;
   Nj0sk  =  270423075;
  unsigned short kPxDCd6;
- kPxDCd6 = -1880633372;
+ kPxDCd6 = (unsigned short)-1880633372;
   unsigned long long  M_s50;
   M_s50  =  -1636597420;
   long double  WUx7_G6;
@@ -129,7 +129,7 @@ int main(void)
  long double k2iD2_97H6;
  k2iD2_97H6 = 494009863;
 	short int	wq0In33Ng;
-	wq0In33Ng	=	624068548;
+	wq0In33Ng	=	(short)624068548;
 	float	i0S5;
 	i0S5	=	2014432923;
 	short	oMf0y9z0v;
@@ -139,7 +139,7 @@ int main(void)
   char  riM51Chh;
   riM51Chh  =  (char)-2079439029;
     unsigned short int    FtoeFcs;
-    FtoeFcs    =    542536015;
+    FtoeFcs    =    (unsigned short)542536015;
  unsigned short IcA17fK_95;
  IcA17fK_95 = 784276757;
  char wMxt;
@@ -153,7 +153,7 @@ int main(void)
     long long    dm8GG8W;
     dm8GG8W    =    377958404;
     unsigned char    All_gulW_;
-    All_gulW_    =    -1495958810;
+    All_gulW_    =    (unsigned char)-1495958810;
   float  M6RSn;
   M6RSn  =  -1329966085;
 	double	kP6w;
@@ -163,7 +163,7 @@ int main(void)
  long TAahpcaWH;
  TAahpcaWH = -1689293674;
  char zMeE9McF4;
- zMeE9McF4 = 378595354;
+ zMeE9McF4 = (char)378595354;
   unsigned short int  r6P8W7;
   r6P8W7  =  1768701690;
  double ZabuIngU;
@@ -173,7 +173,7 @@ int main(void)
 	float	JctEz09z;
 	JctEz09z	=	1484456723;
     short    UHx_8WNDv;
-    UHx_8WNDv    =    1506405624;
+    UHx_8WNDv    =    (short)1506405624;
  int rnaImL6o90;
  rnaImL6o90 = 0;
 	int	rF8H6K0571;
@@ -183,7 +183,7 @@ int main(void)
   int  p2LF;
   p2LF  =  -547388917;
   unsigned char  e2AYm4;
-  e2AYm4  =  -506906217;
+  e2AYm4  =  (unsigned char)-506906217;
     unsigned long long    P5189a__b7;
     P5189a__b7    =    -1636884084;
     int    E3aY;
@@ -199,7 +199,7 @@ int main(void)
 	int	Up80E;
 	Up80E	=	-1636114540;
   short int  u6_2;
-  u6_2  =  -1816352960;
+  u6_2  =  (short)-1816352960;
  unsigned int jJihwGIr6;
  jJihwGIr6 = 339053988;
     unsigned short int    o7Lwu;
@@ -209,7 +209,7 @@ int main(void)
   long double  H3QVB;
   H3QVB  =  -652652169;
     short int    Z0iw;
-    Z0iw    =    -691631339;
+    Z0iw    =    (short)-691631339;
 	char	CRH72A5G;
 	CRH72A5G	=	-581938289;
   unsigned long long  KMwr_;

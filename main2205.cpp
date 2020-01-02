@@ -10,7 +10,7 @@ using namespace std;
 
 unsigned short  kOC_(short int  px8NNT)
 {
-  return  1300066583;
+  return  (unsigned short)1300066583;
 }
 
 unsigned long long  w6dVp0W(unsigned long  KPu86lj)
@@ -236,7 +236,7 @@ iD4Y3A1 = fEMo + 1755280024;
 break;
 case 'd':
 case 'D':
-vsn2u = kOC_(-1286645325);
+vsn2u = kOC_((short)-1286645325);
 break;
 case 'e':
 case 'E':
@@ -295,7 +295,7 @@ int j = 10;
 do
 {
 j--;
-std::cout << kOC_(784114099) << w6dVp0W(tWn6r230) << "FHedo5" << "baasM" << std::endl;
+std::cout << kOC_((short)784114099) << w6dVp0W(tWn6r230) << "FHedo5" << "baasM" << std::endl;
 }
 while (j >= 0);
 }
@@ -405,7 +405,7 @@ switch (vlwA)
 {
 case 'a':
 case 'A':
-IqhBs = kOC_(1916191069);
+IqhBs = kOC_((short)1916191069);
 break;
 case 'b':
 case 'B':

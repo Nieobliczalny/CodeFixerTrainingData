@@ -13,7 +13,7 @@ using std::ceil;
 using std::floor;
 
 unsigned char    necy_6RxYC(unsigned long long    l9Us,long long    M8obFJ,unsigned short int    Ir50g1o4zp,unsigned int    RuYW9)    {
-    return    983072116;
+    return    (unsigned char)983072116;
 }
 
 unsigned short	BJtG87q_(unsigned short int	kI3Ds_,unsigned short int	ml3At)	{
@@ -75,7 +75,7 @@ while (i >= 0);
 }
 for (int i = 0; i < 4; ++i)
 {
-cout << BJtG87q_(-2079313521, sB_8DG418f) << "UGV0" << CG8UoOf3 << endl;
+cout << BJtG87q_((unsigned short)-2079313521, sB_8DG418f) << "UGV0" << CG8UoOf3 << endl;
 }
 
 if ((myeYF_wz & 239998546) || (D8Tk0EW < 1669984099))
@@ -89,7 +89,7 @@ int k = 3;
 do
 {
 k--;
-NG9FH = BJtG87q_(2069241248, gwDr);
+NG9FH = BJtG87q_((unsigned short)2069241248, gwDr);
 }
 while (k >= 0);
 }
@@ -125,7 +125,7 @@ D0l6Nz = (D8Tk0EW == -48273765) ? 847315088 : 753137943;
 }
 else if (nBl9pfo >= h2eHS)
 {
-cout << BJtG87q_(NG9FH, -838526959) << necy_6RxYC(-101903798, 1251282814, CG8UoOf3, 981013579) << BJtG87q_(NG9FH, gwDr) << BJtG87q_(NG9FH, gwDr) << D8Tk0EW << endl;
+cout << BJtG87q_(NG9FH, (unsigned short)-838526959) << necy_6RxYC(-101903798, 1251282814, CG8UoOf3, 981013579) << BJtG87q_(NG9FH, gwDr) << BJtG87q_(NG9FH, gwDr) << D8Tk0EW << endl;
 }
 else
 {
@@ -208,7 +208,7 @@ nBl9pfo = (double)(D8Tk0EW);
 }
 D8Tk0EW = YR70 * h2eHS;
 
-if (BJtG87q_(NG9FH, 1985210336) == 0)
+if (BJtG87q_(NG9FH, (unsigned short)1985210336) == 0)
 {
 	KBqmU = -127587425 / BJtG87q_(NG9FH, (unsigned short)1985210336);
 }
@@ -222,7 +222,7 @@ ZgQcK /= CG8UoOf3;
 }
 for (int i = 9; i >= 0; --i)
 {
-gwDr = BJtG87q_(KBqmU, -1361548859);
+gwDr = BJtG87q_(KBqmU, (unsigned short)-1361548859);
 }
 return 0;
 }

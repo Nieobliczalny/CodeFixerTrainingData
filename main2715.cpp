@@ -170,7 +170,7 @@ case 0:
 K3j_GHH = (int)abs(can_kn4d);
 break;
 case 1:
-yHLqRA = (X3bpB_3E6 == -1904310883) ? X3bpB_3E6 : -844383439;
+yHLqRA = (X3bpB_3E6 == -1904310883) ? X3bpB_3E6 : (short)-844383439;
 break;
 case 2:
 XyinK = (int)abs(K3j_GHH);

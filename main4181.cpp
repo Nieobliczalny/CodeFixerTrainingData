@@ -9,7 +9,7 @@
 using namespace std;
 
 unsigned short int WDEes(int W3203Cwd,unsigned int pn6y_9z506,unsigned int EomKEr_yeP) {
- return 307589283;
+ return (unsigned short)307589283;
 }
 
 unsigned long  oNw_G(unsigned long  g1o25U1sWp,unsigned long  Xvr4X)  {

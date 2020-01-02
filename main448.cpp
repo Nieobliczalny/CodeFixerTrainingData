@@ -21,7 +21,7 @@ int main(int argc, char** argv)
 	double	Trr_406x;
 	Trr_406x	=	-114099058;
 	short int	PG2G;
-	PG2G	=	-604618884;
+	PG2G	=	(short)-604618884;
   double  D_8Xz0;
   D_8Xz0  =  1898598027;
     unsigned char    Xt9Q;

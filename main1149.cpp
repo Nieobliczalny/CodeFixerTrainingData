@@ -18,7 +18,7 @@ int	qk_IRb5(long long	oXrNG30H,long long	GbkSIqW,long	t_Vqagm,short	PVG8blmJ)
 
 unsigned short    Gz3Nb1(char    PyXeK_3,unsigned short    o5Q0dXB)
 {
-    return    1091814500;
+    return    (unsigned short)1091814500;
 }
 
 unsigned long    Rgo4_Ddm(unsigned short int    WdbX3kM,unsigned char    TBHq,short    RlZRq,unsigned long long    Ii5eoQ)
@@ -28,7 +28,7 @@ unsigned long    Rgo4_Ddm(unsigned short int    WdbX3kM,unsigned char    TBHq,sh
 
 unsigned char	f84gmUL5(short int	N7202Q5Lo2,short int	imWx,char	RF9r9TStiw,unsigned short int	M46n87)
 {
-	return	-1569036807;
+	return	(unsigned char)-1569036807;
 }
 
 unsigned short Ze7riVOZ8(unsigned long long bTbQw0,long long hi_5lCljH,unsigned short int iZ2EAlJ9,unsigned short int u93OM0yfVe,unsigned int q4p4Bo3hGf)
@@ -50,7 +50,7 @@ do
 i--;
 for (int j = 0; j < 2; j++)
 {
-std::cout << "yw4C" << Jya27O2 << qk_IRb5(618402509, i_65, Jhfu9qC4x, yL3j1u4ilT) << Gz3Nb1(-369064557, i_65) << std::endl;
+std::cout << "yw4C" << Jya27O2 << qk_IRb5(618402509, i_65, Jhfu9qC4x, yL3j1u4ilT) << Gz3Nb1((char)-369064557, i_65) << std::endl;
 }
 }
 while (i >= 0);
@@ -72,7 +72,7 @@ case 'C':
 l1QfR_ = uf6LsfwP5 % 1579128801;
 break;
 default:
-pvlVVt8l_ = Gz3Nb1(1289094106, (unsigned short)-1242081926);
+pvlVVt8l_ = Gz3Nb1((char)1289094106, (unsigned short)-1242081926);
 break;
 }
 if ((Rgo4_Ddm(-1435258236, 1120284869, -1673431928, -1694711353) / Rgo4_Ddm(pvlVVt8l_, -209854197, m690uS63, wu0eR34P1)) < -1391283790)

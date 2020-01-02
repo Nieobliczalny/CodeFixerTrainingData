@@ -16,7 +16,7 @@ unsigned long	epJC2t5_();
 int main()
 {
  unsigned short int dW14oYcNZ;
- dW14oYcNZ = 1872732392;
+ dW14oYcNZ = (unsigned short)1872732392;
   long double  sV67;
   sV67  =  -1615181412;
     int    f9b43R;
@@ -32,7 +32,7 @@ int main()
  float k3r0pe_3;
  k3r0pe_3 = -379839803;
 	short	XCB6Bm;
-	XCB6Bm	=	-1085682325;
+	XCB6Bm	=	(short)-1085682325;
   char  SRq_5_pb7;
   SRq_5_pb7  =  (char)-673582446;
 	unsigned int	q67mRvPd;
@@ -44,7 +44,7 @@ int main()
   unsigned long long  a9Lm7;
   a9Lm7  =  -1565530186;
     unsigned short int    wbTI6ppJR;
-    wbTI6ppJR    =    -955931100;
+    wbTI6ppJR    =    (unsigned short)-955931100;
  long long iCnl_P6G;
  iCnl_P6G = 739659879;
  char PCl0bbN_cO;
@@ -62,7 +62,7 @@ int main()
   long  I_o4LR;
   I_o4LR  =  -224400862;
  short CJ1qz;
- CJ1qz = -2027448231;
+ CJ1qz = (short)-2027448231;
 	long	E35u;
 	E35u	=	1465901611;
  unsigned long q83TZ1;
@@ -74,7 +74,7 @@ int main()
     long    t6j7n16bW;
     t6j7n16bW    =    -174959172;
  unsigned char w0hUW;
- w0hUW = -1491274263;
+ w0hUW = (unsigned char)-1491274263;
 	unsigned short	V5JcVu2M;
 	V5JcVu2M	=	(unsigned short)-943693229;
  long d00QewWYg9;
@@ -92,7 +92,7 @@ int main()
     double    Cs9LL;
     Cs9LL    =    -2014727295;
 	unsigned char	OmToc;
-	OmToc	=	-399770917;
+	OmToc	=	(unsigned char)-399770917;
     long    GEW2_M9Dp;
     GEW2_M9Dp    =    -1250202508;
     long    Cv2g2g4;
@@ -106,7 +106,7 @@ int main()
     long long    s6p7Pt28;
     s6p7Pt28    =    446872817;
 	unsigned short	rY693O;
-	rY693O	=	222049289;
+	rY693O	=	(unsigned short)222049289;
   short  z9AMym2;
   z9AMym2  =  (short)-1664766733;
 	short int	f32Fw2PV8x;
@@ -118,7 +118,7 @@ int main()
   int  t7Li2Z6;
   t7Li2Z6  =  -1906345288;
  short int woULrMu3;
- woULrMu3 = -1244855689;
+ woULrMu3 = (short)-1244855689;
  long long I61nnFyk;
  I61nnFyk = -2014409783;
 	char	o2mO;
@@ -136,7 +136,7 @@ int main()
  int s4sX35vA;
  s4sX35vA = 1243129714;
 	unsigned short int	f0zssI8;
-	f0zssI8	=	-383747147;
+	f0zssI8	=	(unsigned short)-383747147;
 	int	qLqML;
 	qLqML	=	-1298314028;
  unsigned char EYvKT;
@@ -146,7 +146,7 @@ int main()
   unsigned short  Z36Z;
   Z36Z  =  1357461637;
     short int    Ut__CO6czx;
-    Ut__CO6czx    =    -1387300476;
+    Ut__CO6czx    =    (short)-1387300476;
  long double FYN0gLB5m;
  FYN0gLB5m = 1891666100;
   unsigned short int  yW794P;
@@ -181,7 +181,7 @@ if (t6j7n16bW < 957583508)
 dW14oYcNZ = z9AMym2 << LGCYc;
 }
 
-std::cout << o2mO << d0vAp(1692087981, w0hUW) << vX0ufvFr << std::endl;
+std::cout << o2mO << d0vAp((short)1692087981, w0hUW) << vX0ufvFr << std::endl;
 if (Z36Z & I_o4LR)
 {
 if ((C1q_O_k432 > -2132147495) || (hCCIg27 >= B50PZ))
@@ -206,7 +206,7 @@ U9M25ETd = (int)floor(tzn7);
 break;
 case 'd':
 case 'D':
-CJ1qz = pWqC4(-996770800, wbTI6ppJR, -105600745) & 1164268359;
+CJ1qz = pWqC4((unsigned short)-996770800, wbTI6ppJR, -105600745) & 1164268359;
 break;
 case 'e':
 case 'E':
@@ -218,7 +218,7 @@ O2A_47s90a = epJC2t5_();
 break;
 case 'g':
 case 'G':
-z0zMI57y_ = pWqC4(954610961, I61nnFyk, 151692364);
+z0zMI57y_ = pWqC4((unsigned short)954610961, I61nnFyk, 151692364);
 break;
 case 'h':
 case 'H':
@@ -234,7 +234,7 @@ LGCYc = (int)abs(Cv2g2g4);
 
 if (z0zMI57y_ > 1603434831)
 {
-std::cout << f9b43R << d0vAp(-254335801, ebIP) << d0vAp((short)-797008275, ebIP) << std::endl;
+std::cout << f9b43R << d0vAp((short)-254335801, ebIP) << d0vAp((short)-797008275, ebIP) << std::endl;
 }
 else if ((q67mRvPd > -74068057) || ((f9b43R < t7Li2Z6) && (DRx_98o7 >= 1958826734)))
 {
@@ -367,7 +367,7 @@ case 'a':
 qLqML ^= 1269090621;
 break;
 case 'b':
-dno4 = pWqC4(1758568892, f0zssI8, -607452104);
+dno4 = pWqC4((unsigned short)1758568892, f0zssI8, -607452104);
 break;
 case 'c':
 cDSkij8DoP = epJC2t5_();
@@ -416,7 +416,7 @@ rY693O = epJC2t5_();
 }
 else if (hCCIg27 > QPgB)
 {
-LG8bD = pWqC4(-862622826, SRq_5_pb7, GEW2_M9Dp);
+LG8bD = pWqC4((unsigned short)-862622826, SRq_5_pb7, GEW2_M9Dp);
 }
 else if (nKh0kU1h6 == -1165223784)
 {
@@ -458,7 +458,7 @@ sV67 = (int)ceil(Cs9LL);
 }
 else
 {
-std::cout << d0vAp(910200918, 1153586484) << yW794P << std::endl;
+std::cout << d0vAp((short)910200918, 1153586484) << yW794P << std::endl;
 }
 RYp7P = wbTI6ppJR / LG8bD;
 

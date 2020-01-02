@@ -18,7 +18,7 @@ unsigned long long	x9bd__l(unsigned short	rn7vN6845,int	VQo8Tdfr3y,unsigned char
 }
 
 short	UrFE8R_7(short int	JV7T9yf)	{
-	return	-1381446947;
+	return	(short)-1381446947;
 }
 
 int main(int argc, char** argv)
@@ -149,7 +149,7 @@ case 'E':
 r4WLt = UrFE8R_7(r4WLt);
 break;
 default:
-KTZy1 = x9bd__l(-1589732696, c2BQ, (unsigned char)-1748867670);
+KTZy1 = x9bd__l((unsigned short)-1589732696, c2BQ, (unsigned char)-1748867670);
 break;
 }
 

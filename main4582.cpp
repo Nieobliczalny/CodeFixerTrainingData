@@ -9,7 +9,7 @@
 using namespace std;
 
 char    i_2RJ0lUaZ(char    DJH_6,long    iH7C7UDL5,unsigned char    HD0cn,unsigned long    bnzJ_Zy,long long    Q58uN)    {
-    return    -1827650453;
+    return    (char)-1827650453;
 }
 
 unsigned long long	aE9Y(unsigned long	cJ3_W_,unsigned short int	k15K,long	MTtCfnEw_)	{
@@ -27,7 +27,7 @@ unsigned char  p74y1S85F(int  be80S)
 
 char zB4wC_8(unsigned long long ZAu3Q7,char tXymWWczXt)
 {
- return 2006409148;
+ return (char)2006409148;
 }
 
 int main()
@@ -96,7 +96,7 @@ if (be7bSjJS > i6j7JDDpB)
 {
 for (int j = 3; j >= 0; j--)
 {
-std::cout << aE9Y(be7bSjJS, -436253912, HOO74F4) << std::endl;
+std::cout << aE9Y(be7bSjJS, (unsigned short)-436253912, HOO74F4) << std::endl;
 }
 }
 p0_p9nbdh = AV92 | 1070292280;
@@ -124,7 +124,7 @@ case 3:
 tm8P4_1 = zB4wC_8(-1041089516, y0VFO) + 2109295009;
 break;
 case 4:
-m5sr = W6k6Cn(be7bSjJS, y0VFO, HOO74F4, 1643941971) % 422018953;
+m5sr = W6k6Cn(be7bSjJS, y0VFO, HOO74F4, (unsigned char)1643941971) % 422018953;
 break;
 case 5:
 MY17h55O = (int)abs(EMXFauX6) + (457861505);
@@ -136,7 +136,7 @@ case 7:
 GG8a8s6Rz2++;
 break;
 default:
-p536k = W6k6Cn(-439738758, -1116851861, -364218170, (unsigned char)-317047690);
+p536k = W6k6Cn(-439738758, (unsigned char)-1116851861, -364218170, (unsigned char)-317047690);
 break;
 }
 }

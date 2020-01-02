@@ -19,7 +19,7 @@ unsigned short L0Ech3(long long y2L1R5T,long lJH9u,long long KWwC);
 int main()
 {
     unsigned char    zg1tn332;
-    zg1tn332    =    2080013162;
+    zg1tn332    =    (unsigned char)2080013162;
 	short int	Fly_;
 	Fly_	=	(short)-793453322;
     long double    G9444iQs;
@@ -33,7 +33,7 @@ int main()
     unsigned int    bYh_5hxzu;
     bYh_5hxzu    =    544302803;
   char  E1QcV69Oca;
-  E1QcV69Oca  =  2132562548;
+  E1QcV69Oca  =  (char)2132562548;
   int  FYVeddq;
   FYVeddq  =  1080324695;
 	long double	cAMHXHYvC;
@@ -43,7 +43,7 @@ int main()
   long long  GQH1kK;
   GQH1kK  =  0;
     short int    x_K4;
-    x_K4    =    -1251035511;
+    x_K4    =    (short)-1251035511;
 
 try
 {
@@ -393,7 +393,7 @@ break;
 
 if (ILZ1Usly3 & x_K4)
 {
-Fly_ = (zg1tn332 <= GQH1kK) ? -971914619 : x_K4;
+Fly_ = (zg1tn332 <= GQH1kK) ? (short)-971914619 : x_K4;
 }
 else
 {
@@ -409,6 +409,6 @@ int  Q_KRw78E9(int  SoHRr1R,long  J2fESiEO)
 }
 
 unsigned short L0Ech3(long long y2L1R5T,long lJH9u,long long KWwC) {
- return -858666491;
+ return (unsigned short)-858666491;
 }
 

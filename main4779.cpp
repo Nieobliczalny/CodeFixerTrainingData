@@ -25,7 +25,7 @@ if (IXUJ_Jq_ > 568893450)
 {
 try
 {
-std::cout << vPBCJt(120454339, 506601419, e5E38L8B, i7__kl, -1140308879) << TtDVCYzd(1348486824, -1242134104) << "i3mb" << vPBCJt((short)-1424484556, -1804385451, 908043685, -935487459, 1664335774) << std::endl;
+std::cout << vPBCJt((short)120454339, 506601419, e5E38L8B, i7__kl, -1140308879) << TtDVCYzd(1348486824, -1242134104) << "i3mb" << vPBCJt((short)-1424484556, -1804385451, 908043685, -935487459, 1664335774) << std::endl;
 }
 catch (int& errorCode)
 {
@@ -57,7 +57,7 @@ catch (int& errorCode)
 yeR2GK1b2 &= B5n_2nea4;
 }
 }
-j5A_k = vPBCJt(1559682870, 1900695440, (char)-155520638, -609082903, -266775244);
+j5A_k = vPBCJt((short)1559682870, 1900695440, (char)-155520638, -609082903, -266775244);
 if ((l_KJ9O >= 1194219754) && ((g03r1s3) || (knWuwG_Q > 1158162857)))
 {
 {
@@ -102,7 +102,7 @@ char vPBCJt(short int yerZM03,unsigned long long I4_h1p,char Ym0So4,unsigned lon
 
 char TtDVCYzd(long long U5rt_,unsigned long gKkAE6)
 {
- return -1722397918;
+ return (char)-1722397918;
 }
 
 int	XVUDrF(long	Th1Cqe3U,unsigned long long	FIU5)	{

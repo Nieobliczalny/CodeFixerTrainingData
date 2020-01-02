@@ -9,7 +9,7 @@
 using namespace std;
 
 short int HW5B(unsigned long long Go59,unsigned char oPWhzUA,unsigned char fX49v) {
- return 754928118;
+ return (short)754928118;
 }
 
 unsigned char  k_m6273X(unsigned long  ZE_5,unsigned char  I97AV,short  SctF_Ijvy4,int  IwvGB)
@@ -38,7 +38,7 @@ w8s9d_vfed = 240853989 / uOuEC(Tl28PnK, -1007649554, Tii5o, JKCPq_OW);
 switch (BMEc3P)
 {
 case 0:
-r4TQJ_6tt = k_m6273X(1166717614, 2074521550, BMEc3P, -1211944560);
+r4TQJ_6tt = k_m6273X(1166717614, (unsigned char)2074521550, BMEc3P, -1211944560);
 break;
 case 1:
 jy49332k2P = (int)abs(Tii5o);
@@ -53,7 +53,7 @@ case 4:
 JflH26_7++;
 break;
 case 5:
-Tl28PnK = HW5B(375293864, -278675855, -31368266);
+Tl28PnK = HW5B(375293864, (unsigned char)-278675855, -31368266);
 break;
 case 6:
 JZZj8_R++;
@@ -74,7 +74,7 @@ case 'b':
 nBD8Nrq /= CsLg0;
 break;
 case 'c':
-aIq3qBx0x8 = XfwnBgG9(aIq3qBx0x8, 686966800, -1171258159, uMcN, y8vcNsp0Dl);
+aIq3qBx0x8 = XfwnBgG9(aIq3qBx0x8, 686966800, (short)-1171258159, uMcN, y8vcNsp0Dl);
 break;
 default:
 nBD8Nrq /= 969551394;
@@ -123,7 +123,7 @@ Iz3udV5 -= JKCPq_OW;
 break;
 case 'f':
 case 'F':
-plcO_Wc = k_m6273X(Tii5o, 543593640, Iz3udV5, AAKV);
+plcO_Wc = k_m6273X(Tii5o, (unsigned char)543593640, Iz3udV5, AAKV);
 break;
 case 'g':
 case 'G':
@@ -154,7 +154,7 @@ r4TQJ_6tt += QlKSQYC;
 int i = 7;
 while (i >= 0)
 {
-std::cout << "d6nIkY6" << XfwnBgG9(yz_vB5TTZZ, -1122205523, Z9hOBv9Dg, w8s9d_vfed, Iz3udV5) << uOuEC(-91160349, -664005826, 835262321, 1752882420) << "FMJy3" << std::endl;
+std::cout << "d6nIkY6" << XfwnBgG9(yz_vB5TTZZ, -1122205523, Z9hOBv9Dg, w8s9d_vfed, Iz3udV5) << uOuEC((char)-91160349, -664005826, 835262321, 1752882420) << "FMJy3" << std::endl;
 i--;
 }
 }
@@ -168,7 +168,7 @@ case 'b':
 Tii5o = (int)abs(jy49332k2P);
 break;
 case 'c':
-jy49332k2P = uOuEC(1479066467, 1566697177, Iz3udV5, plcO_Wc);
+jy49332k2P = uOuEC((char)1479066467, 1566697177, Iz3udV5, plcO_Wc);
 break;
 case 'd':
 w8s9d_vfed = (yz_vB5TTZZ <= 1715116571) ? uOuEC(375258374, -1138730958, 2087449588, 743518984) : s8c_ifzhh;
@@ -226,7 +226,7 @@ int j = 2;
 while (j >= 0)
 {
 --j;
-std::cout << uOuEC(148478943, tJIQ1G_p, Tii5o, -330427681) << XfwnBgG9(aIq3qBx0x8, tJIQ1G_p, (short)-1344663520, 1624998303, 1849076538) << k_m6273X(aIq3qBx0x8, tJIQ1G_p, 1181845576, -260307436) << std::endl;
+std::cout << uOuEC((char)148478943, tJIQ1G_p, Tii5o, -330427681) << XfwnBgG9(aIq3qBx0x8, tJIQ1G_p, (short)-1344663520, 1624998303, 1849076538) << k_m6273X(aIq3qBx0x8, tJIQ1G_p, 1181845576, -260307436) << std::endl;
 }
 }
 }
@@ -241,7 +241,7 @@ int i = 0;
 while (i < 4)
 {
 i++;
-std::cout << uOuEC(w2RB_58294, -1513086254, CsLg0, 964831928) << HW5B(-1973034279, -1407113411, (unsigned char)-1397793498) << XfwnBgG9(29274477, Zy5xi8Aqci, CsLg0, aIq3qBx0x8, Tii5o) << "omNh" << uOuEC(1402126721, Zy5xi8Aqci, -29526099, aIq3qBx0x8) << std::endl;
+std::cout << uOuEC(w2RB_58294, -1513086254, CsLg0, 964831928) << HW5B(-1973034279, (unsigned char)-1407113411, (unsigned char)-1397793498) << XfwnBgG9(29274477, Zy5xi8Aqci, CsLg0, aIq3qBx0x8, Tii5o) << "omNh" << uOuEC(1402126721, Zy5xi8Aqci, -29526099, aIq3qBx0x8) << std::endl;
 }
 }
 
@@ -261,7 +261,7 @@ case 2:
 jy49332k2P = uOuEC(de1s_J19, Lu9u8ou91, jy49332k2P, 318927391);
 break;
 case 3:
-Iz3udV5 = (h1VEa > -241852462) ? uOuEC(de1s_J19, 354956940, jy49332k2P, sX04_) : 1180349827;
+Iz3udV5 = (h1VEa > -241852462) ? uOuEC(de1s_J19, 354956940, jy49332k2P, sX04_) : (unsigned short)1180349827;
 break;
 case 4:
 Tii5o = (int)abs(jy49332k2P);

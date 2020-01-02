@@ -15,7 +15,7 @@ unsigned short	uu4D(long long	UdKf8,unsigned short int	j6wvi_26uv,unsigned long 
 
 int main(void) {
   char  bhHa,  VDlbQYB,  dQjA;
-    bhHa  =  VDlbQYB  =  dQjA  =  -931089578;
+    bhHa  =  VDlbQYB  =  dQjA  =  (char)-931089578;
 	unsigned int	Hmi06Y5,	R_tb;
 		Hmi06Y5	=	R_tb	=	0;
 
@@ -50,7 +50,7 @@ i--;
 switch (Hmi06Y5)
 {
 case 'a':
-dQjA = uu4D(-612621194, 199391157, Hmi06Y5, (unsigned char)-404768662) - VDlbQYB;
+dQjA = uu4D(-612621194, (unsigned short)199391157, Hmi06Y5, (unsigned char)-404768662) - VDlbQYB;
 break;
 case 'b':
 bhHa &= VDlbQYB;
@@ -71,7 +71,7 @@ case 'g':
 VDlbQYB = b695iE(VDlbQYB, R_tb, -1478507593, bhHa);
 break;
 case 'h':
-dQjA = uu4D(-1933039537, dQjA, 1416766505, 2101332733);
+dQjA = uu4D(-1933039537, dQjA, 1416766505, (unsigned char)2101332733);
 break;
 case 'i':
 VDlbQYB = b695iE(796581268, Hmi06Y5, VDlbQYB, (short)1988224791);
@@ -84,7 +84,7 @@ dQjA--;
 break;
 }
 
-std::cout << VDlbQYB << b695iE(-903489736, 1632864130, -12831635, bhHa) << "kbd0A9I" << std::endl;
+std::cout << VDlbQYB << b695iE(-903489736, (short)1632864130, -12831635, bhHa) << "kbd0A9I" << std::endl;
 
 if (bhHa <= 1509958356)
 {
@@ -147,6 +147,6 @@ unsigned short int	PvHHme9()	{
 }
 
 unsigned short	uu4D(long long	UdKf8,unsigned short int	j6wvi_26uv,unsigned long long	v7tW,unsigned char	jYLt9)	{
-	return	1789677753;
+	return	(unsigned short)1789677753;
 }
 

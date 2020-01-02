@@ -24,7 +24,7 @@ char  S2zr1vZ92X(unsigned long  nbjHRboV2,unsigned short int  M9VBEO_N)
 
 unsigned char    YdVVzit4N(unsigned long    eEVOyd_Pc,short    TvSU6g,short int    jT58akHe41,char    gDAhG2893,short    A9c1M75rN)
 {
-    return    949912675;
+    return    (unsigned char)949912675;
 }
 
 unsigned long	ico6(unsigned int	UF_DfV_l,unsigned short int	Fg27eSC9)
@@ -116,7 +116,7 @@ case 'd':
 B8p30v = (int)abs(CLKgt);
 break;
 case 'e':
-m_luz99S = YdVVzit4N(-805373870, Dq87GUZON, bDDKsgMG, -275202418, B4_6D9mKe);
+m_luz99S = YdVVzit4N(-805373870, Dq87GUZON, bDDKsgMG, (char)-275202418, B4_6D9mKe);
 break;
 case 'f':
 d4aY *= mOW19L6i2;
@@ -128,7 +128,7 @@ case 'h':
 zi_7 /= 1829295798;
 break;
 default:
-xQPdh8 = YdVVzit4N(xQPdh8, 1108940980, (short)-2141089060, mOW19L6i2, b6cU);
+xQPdh8 = YdVVzit4N(xQPdh8, (short)1108940980, (short)-2141089060, mOW19L6i2, b6cU);
 break;
 }
 
@@ -170,7 +170,7 @@ mOW19L6i2 = S2zr1vZ92X(WG23lOq8, exea2tuA);
 }
 else if (U7SnE)
 {
-BB33Z_ = YdVVzit4N(BB33Z_, -595448845, (short)-1802144897, KpLa, rJ42);
+BB33Z_ = YdVVzit4N(BB33Z_, (short)-595448845, (short)-1802144897, KpLa, rJ42);
 }
 else if (SL9gY <= Z3tm08eV2)
 {
@@ -182,7 +182,7 @@ B8p30v = xTkNxah();
 }
 else
 {
-BB33Z_ = YdVVzit4N(BB33Z_, 1416151949, w7V49v0, (char)-2085992890, B8p30v);
+BB33Z_ = YdVVzit4N(BB33Z_, (short)1416151949, w7V49v0, (char)-2085992890, B8p30v);
 }
 
 switch (GMN0)
@@ -200,7 +200,7 @@ case 3:
 BB33Z_ = (int)floor(zi_7);
 break;
 case 4:
-CLKgt = YdVVzit4N(243680874, -1224143644, bDDKsgMG, (char)-680780903, -1731283673);
+CLKgt = YdVVzit4N(243680874, (short)-1224143644, bDDKsgMG, (char)-680780903, -1731283673);
 break;
 case 5:
 rJ42 = S2zr1vZ92X(U7SnE, AL76T98);
@@ -216,7 +216,7 @@ switch (mOW19L6i2)
 {
 case 'a':
 case 'A':
-CLKgt = YdVVzit4N(CLKgt, -968729563, (short)-1701993666, 306421806, -287403994);
+CLKgt = YdVVzit4N(CLKgt, (short)-968729563, (short)-1701993666, 306421806, -287403994);
 break;
 case 'b':
 case 'B':
@@ -246,7 +246,7 @@ zW2_ = (int)floor(AL76T98);
 break;
 case 'c':
 case 'C':
-nn0K6 = YdVVzit4N(739511718, -856096899, pjEImV, (char)-243402981, -687529299);
+nn0K6 = YdVVzit4N(739511718, (short)-856096899, pjEImV, (char)-243402981, -687529299);
 break;
 case 'd':
 case 'D':
@@ -275,7 +275,7 @@ if (((GMN0 & rJ42) && (Jpdr_j == EJoC91g34)) || (d4aY > GEhVZ8uQ4l))
 int k = 9;
 while (k >= 0)
 {
-v7y_3 = ico6(1670003496, -1456088418);
+v7y_3 = ico6(1670003496, (unsigned short)-1456088418);
 k--;
 }
 }

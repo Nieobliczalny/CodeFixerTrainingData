@@ -652,7 +652,7 @@ return 0;
 
 unsigned char	g70jh3qoka()
 {
-	return	483524408;
+	return	(unsigned char)483524408;
 }
 
 unsigned int    cw04Qj1(unsigned int    z1hr)

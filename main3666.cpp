@@ -9,7 +9,7 @@
 using namespace std;
 
 unsigned short int  PeZ_4_6zNy(unsigned short int  maoZT5u,short int  jk89Ak3j5,long long  CST86l_,unsigned int  jZ_Z6_Iv1i)  {
-  return  -248460521;
+  return  (unsigned short)-248460521;
 }
 
 unsigned short int    I6piZ(unsigned long    GI11sfL,unsigned short    B_Yc_TTDA,unsigned int    a69EUY)    {
@@ -44,7 +44,7 @@ try
 int k = 0;
 do
 {
-Rjkh928l9 = i30n7avc(-570516712, R4GNT, -1348978702, (short)-556626052, B8D762q_);
+Rjkh928l9 = i30n7avc((unsigned char)-570516712, R4GNT, -1348978702, (short)-556626052, B8D762q_);
 ++k;
 }
 while (k < 8);
@@ -59,7 +59,7 @@ w3CVz2qhAj = I6piZ(1374304837, RqDZ, -116201329);
 
 if ((SolP > hwsa3HLE) || (A7x4 >= a3mWL))
 {
-i6VmLSGt5 = PeZ_4_6zNy(RqDZ, 628953850, -1768871792, DrrAPLb);
+i6VmLSGt5 = PeZ_4_6zNy(RqDZ, (short)628953850, -1768871792, DrrAPLb);
 }
 vXUVs = PeZ_4_6zNy((unsigned short)-1249305463, 1795684661, -1112365883, GSZG);
 
@@ -71,7 +71,7 @@ while (i < 3)
 int j = 0;
 do
 {
-hwsa3HLE = i30n7avc(hwsa3HLE, 1871572521, 1258073608, a3mWL, 768046976);
+hwsa3HLE = i30n7avc(hwsa3HLE, (short)1871572521, 1258073608, a3mWL, 768046976);
 ++j;
 }
 while (j < 8);
@@ -104,7 +104,7 @@ case 0:
 u5FEF = LH9JXbqgQ | 933487469;
 break;
 case 1:
-hwsa3HLE = cY9sB3a51y(hwsa3HLE, 1488335519, a3mWL, 779734432, (unsigned char)-947027310);
+hwsa3HLE = cY9sB3a51y(hwsa3HLE, 1488335519, a3mWL, (char)779734432, (unsigned char)-947027310);
 break;
 case 2:
 WhU67Y1i = PeZ_4_6zNy(1779764531, l2ZNzF7iN, R4GNT, fbub32WFwh);
@@ -116,7 +116,7 @@ case 4:
 Ye9Q5dk5C <<= 1024544556;
 break;
 case 5:
-ilLOhCfP = i30n7avc(ilLOhCfP, 1277537482, BNcNL1O35y, d9qP7u, EaZ9sI);
+ilLOhCfP = i30n7avc(ilLOhCfP, (short)1277537482, BNcNL1O35y, d9qP7u, EaZ9sI);
 break;
 case 6:
 R4GNT = (int)abs(A7x4);
@@ -149,7 +149,7 @@ A7x4 = (int)abs(R4GNT);
 }
 if ((d9qP7u & -534857153) && (gz8Lt >= 1151816199))
 {
-std::cout << hSxlUF << I6piZ(ilLOhCfP, -1213831120, -885551459) << cY9sB3a51y(ilLOhCfP, M0Jj6t, (unsigned short)-663694349, d9qP7u, 594463305) << HkeKaMdA4N << std::endl;
+std::cout << hSxlUF << I6piZ(ilLOhCfP, (unsigned short)-1213831120, -885551459) << cY9sB3a51y(ilLOhCfP, M0Jj6t, (unsigned short)-663694349, d9qP7u, 594463305) << HkeKaMdA4N << std::endl;
 }
 
 vXUVs = (unsigned int)(GQMblxLq);
@@ -178,7 +178,7 @@ for (int i = 2; i >= 0; --i)
 {
 try
 {
-mV3Z43 = I6piZ(mV3Z43, 584266321, 1249903413);
+mV3Z43 = I6piZ(mV3Z43, (unsigned short)584266321, 1249903413);
 }
 catch (int& errorCode)
 {
@@ -243,7 +243,7 @@ while (i < 8);
 
 if ((AMnx209 <= -238226370) || ((BNcNL1O35y == -2136371652) || (R4GNT >= -2115485059)))
 {
-std::cout << i30n7avc(JGf7X9eA13, aMh4_2A5, 1347452846, -1559882315, -533874756) << std::endl;
+std::cout << i30n7avc(JGf7X9eA13, aMh4_2A5, 1347452846, (short)-1559882315, -533874756) << std::endl;
 }
 if (z3FP9tLrbS > -2067206390)
 {
@@ -302,7 +302,7 @@ else if (L1vf3_ == 1244591260)
 {
 try
 {
-L1vf3_ = i30n7avc(L1vf3_, 585098930, agTxijAWtH, (short)1507278743, 2028922593);
+L1vf3_ = i30n7avc(L1vf3_, (short)585098930, agTxijAWtH, (short)1507278743, 2028922593);
 }
 catch (int& errorCode)
 {
@@ -313,7 +313,7 @@ else
 {
 if (GSZG <= SolP)
 {
-pJ7yx3I_7 = cY9sB3a51y(735213817, -977437853, agTxijAWtH, w3CVz2qhAj, d9qP7u) ^ 2142378656;
+pJ7yx3I_7 = cY9sB3a51y((short)735213817, -977437853, agTxijAWtH, w3CVz2qhAj, d9qP7u) ^ 2142378656;
 }
 else if (eJ70 == 1042268988)
 {
@@ -347,7 +347,7 @@ R4GNT = N_mKl3pa5();
 }
 else
 {
-JGf7X9eA13 = i30n7avc(-905274177, P8zptB5c86, -1156065025, DrrAPLb, L45iKqY7a3);
+JGf7X9eA13 = i30n7avc((unsigned char)-905274177, P8zptB5c86, -1156065025, DrrAPLb, L45iKqY7a3);
 }
 }
 }
@@ -389,7 +389,7 @@ A7x4 = (int)abs(agTxijAWtH);
 break;
 case 'd':
 case 'D':
-w3CVz2qhAj = PeZ_4_6zNy(w3CVz2qhAj, -961110538, GQMblxLq, -208213741);
+w3CVz2qhAj = PeZ_4_6zNy(w3CVz2qhAj, (short)-961110538, GQMblxLq, -208213741);
 break;
 case 'e':
 case 'E':
@@ -415,7 +415,7 @@ while (j >= 0);
 
 if ((l2ZNzF7iN > -500016025) && ((R4GNT >= -1318713134) && (pJ7yx3I_7 == eJ70)))
 {
-Ye9Q5dk5C = i30n7avc(-1428954691, KgG3P, -961602970, Bj6bM, Liupt);
+Ye9Q5dk5C = i30n7avc((unsigned char)-1428954691, KgG3P, -961602970, Bj6bM, Liupt);
 }
 else if ((hykn2) && (RqDZ))
 {

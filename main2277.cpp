@@ -61,7 +61,7 @@ case 2:
 bpQHbp5Ir5 = u0Vd_uHir / 1808750357;
 break;
 case 3:
-Hw8_9 = Vrm85UX(1829643876, -95015712, tvjNV_5, (unsigned short)1082904604, -1459637463);
+Hw8_9 = Vrm85UX(1829643876, (unsigned short)-95015712, tvjNV_5, (unsigned short)1082904604, -1459637463);
 break;
 case 4:
 tvjNV_5 = Hw8_9 ^ WOJi_MC5N;
@@ -90,7 +90,7 @@ u0Vd_uHir = (int)abs(yn2XG5);
 switch (q932ZjWVQ)
 {
 case 0:
-F1rYx77Gi1 = Vrm85UX(-501680169, -301470467, -781140389, q932ZjWVQ, bpQHbp5Ir5);
+F1rYx77Gi1 = Vrm85UX(-501680169, (unsigned short)-301470467, -781140389, q932ZjWVQ, bpQHbp5Ir5);
 break;
 }
 
@@ -105,7 +105,7 @@ try
 {
 if (((Hw8_9 > 1455745925) || (EeKnl_z0 & u0Vd_uHir)) && (n0Ig7n >= 1313028705))
 {
-F1rYx77Gi1 = Vrm85UX(-780295481, 324955786, n0Ig7n, heM_, XurPB);
+F1rYx77Gi1 = Vrm85UX(-780295481, (unsigned short)324955786, n0Ig7n, heM_, XurPB);
 }
 else
 {
@@ -151,7 +151,7 @@ XurPB = (int)abs(xUf618u);
 break;
 case 'b':
 case 'B':
-cfdwU38Lc = wohoo(eEcVQE9_, -1094579133, F1rYx77Gi1, -235532872);
+cfdwU38Lc = wohoo(eEcVQE9_, -1094579133, F1rYx77Gi1, (unsigned short)-235532872);
 break;
 case 'c':
 case 'C':
@@ -197,7 +197,7 @@ m2mt |= 520199101;
 }
 for (int i = 0; i < 1; i++)
 {
-heM_ = Vrm85UX(heM_, 1467508525, OQkX6K, ojM54, Zt6px);
+heM_ = Vrm85UX(heM_, (unsigned short)1467508525, OQkX6K, ojM54, Zt6px);
 }
 
 std::cout << wohoo(heM_, j3A_4, OQkX6K, ojM54) << "a6RW" << cfdwU38Lc << "IaL1YE" << Vrm85UX(heM_, j3A_4, -603130455, (unsigned short)1265032316, Zt6px) << std::endl;
@@ -256,7 +256,7 @@ unsigned int    Vrm85UX(long    Aw97Ogbc,unsigned short int    NYA_S9Pyg,unsigne
 
 char	Sc1f4fYm(unsigned long	ADoYX73MH,unsigned int	gQIJfB8Q,char	YViPE45,unsigned long long	v3UybN2ERu,unsigned long	ELUd71m79)
 {
-	return	-37196618;
+	return	(char)-37196618;
 }
 
 char	wohoo(int	fl31,unsigned long long	J12biKWnO,short	iEfU87,unsigned short	rWJlb1)	{

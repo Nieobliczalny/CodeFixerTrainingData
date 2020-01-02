@@ -23,7 +23,7 @@ int main(void) {
 	char	ukSY;
 	ukSY	=	0;
     unsigned short int    hURI8Cb;
-    hURI8Cb    =    -1312803724;
+    hURI8Cb    =    (unsigned short)-1312803724;
 	int	Fc6p9kN;
 	Fc6p9kN	=	-1709508965;
     float    Pl1x_vl;
@@ -53,7 +53,7 @@ int main(void) {
     long long    FC_cgoz_8;
     FC_cgoz_8    =    -13494392;
   unsigned char  jL3LWY;
-  jL3LWY  =  -1758504537;
+  jL3LWY  =  (unsigned char)-1758504537;
   unsigned short int  l6gfC10t5Q;
   l6gfC10t5Q  =  (unsigned short)2123106093;
 	long	X7uz;

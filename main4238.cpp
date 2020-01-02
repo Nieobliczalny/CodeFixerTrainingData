@@ -12,7 +12,7 @@ int  JZ_0z(short int  HD7vg,unsigned long  k6q2,unsigned short int  zw19XC_4)  {
 }
 
 unsigned short int    PCPL87yEF(short    ohp_kcC,unsigned long long    D_m4,short int    b_I540wRc2)    {
-    return    -717573180;
+    return    (unsigned short)-717573180;
 }
 
 short int	FmC3B_J3D(short int	JfYMcbm,int	MO122M,unsigned int	BD76b)
@@ -22,7 +22,7 @@ short int	FmC3B_J3D(short int	JfYMcbm,int	MO122M,unsigned int	BD76b)
 
 char	cGbx(unsigned long	xOHb6oV6,long long	cjkrb2h_6,unsigned long	t5y0kEB2E,unsigned long long	WR641BZrl,int	L_slSu)
 {
-	return	1022995166;
+	return	(char)1022995166;
 }
 
 unsigned long long	XMMUP9QC4P()	{
@@ -130,7 +130,7 @@ int main(void) {
     VZ_ToL    =    0;
     k03_1oLX6i    =    0;
 
-Hc2EPFI9 = JZ_0z(1056677708, ssWp6Ix9, f55f4mJy);
+Hc2EPFI9 = JZ_0z((short)1056677708, ssWp6Ix9, f55f4mJy);
 for (int i = 6; i >= 0; i--)
 {
 switch (cy8gP1GT)
@@ -172,7 +172,7 @@ for (int j = 0; j < 10; ++j)
 {
 try
 {
-a2Jhd = (Hc2EPFI9 >= -1537438159) ? P86W7 : JZ_0z(1747917585, uNBp0um, y0aGI_9KX4);
+a2Jhd = (Hc2EPFI9 >= -1537438159) ? P86W7 : JZ_0z((short)1747917585, uNBp0um, y0aGI_9KX4);
 }
 catch (int& errorCode)
 {
@@ -193,7 +193,7 @@ case 2:
 GbfuJ77 *= eK9_UQ0;
 break;
 case 3:
-ayJF99r = PCPL87yEF(59769035, uNBp0um, y0aGI_9KX4) | Ne2V;
+ayJF99r = PCPL87yEF((short)59769035, uNBp0um, y0aGI_9KX4) | Ne2V;
 break;
 case 4:
 PrrG_ /= mE2DaBs;
@@ -276,7 +276,7 @@ case 'c':
 aPy6m02_Eb = FmC3B_J3D(Hc2EPFI9, 431551669, K2ESnM) % mB4aFf;
 break;
 case 'd':
-W4WqztneBG = PCPL87yEF(961010884, M_4j, st05zu);
+W4WqztneBG = PCPL87yEF((short)961010884, M_4j, st05zu);
 break;
 default:
 a2Jhd = g4CEh3ENE + PrrG_;
@@ -311,7 +311,7 @@ int k = 0;
 do
 {
 ++k;
-nSEwD = PCPL87yEF(-274207276, 1220668096, (short)-809701634);
+nSEwD = PCPL87yEF((short)-274207276, 1220668096, (short)-809701634);
 }
 while (k < 5);
 }
@@ -346,7 +346,7 @@ else
 int k = 5;
 do
 {
-g4CEh3ENE = PCPL87yEF(360786590, RFw_Nn_M2Y, st05zu);
+g4CEh3ENE = PCPL87yEF((short)360786590, RFw_Nn_M2Y, st05zu);
 k--;
 }
 while (k >= 0);
@@ -385,7 +385,7 @@ while (i >= 0);
 }
 
 ryvXieD = Ne2V % S3j0rofx;
-std::cout << PCPL87yEF(606883142, -84802723, (short)1234593017) << GbfuJ77 << m80W4OxX2 << cGbx(-1001589345, -452949783, -208846154, 1770176026, -1616761025) << std::endl;
+std::cout << PCPL87yEF((short)606883142, -84802723, (short)1234593017) << GbfuJ77 << m80W4OxX2 << cGbx(-1001589345, -452949783, -208846154, 1770176026, -1616761025) << std::endl;
 try
 {
 Z7U2 += m___G;
@@ -426,7 +426,7 @@ K2ESnM = FmC3B_J3D(-23590207, -875619235, Uw_jD3);
 }
 }
 
-vuQ7S0G = PCPL87yEF(vuQ7S0G, -378748355, 1216553085);
+vuQ7S0G = PCPL87yEF(vuQ7S0G, -378748355, (short)1216553085);
 
 std::cout << S3j0rofx / a88Q2avdY << std::endl;
 std::cout << "IoFQ2vXVD" << XMMUP9QC4P() << JZ_0z(vuQ7S0G, 1901011878, (unsigned short)1369979587) << cGbx(-1869325164, 704059555, 812885644, -849000337, 1389877718) << PCPL87yEF(vuQ7S0G, -729297562, V0205m9) << std::endl;
@@ -455,7 +455,7 @@ pje5f0 = (int)abs(a88Q2avdY);
 }
 else
 {
-zl1q_ot8O1 = PCPL87yEF(1471229002, ayJF99r, UV26);
+zl1q_ot8O1 = PCPL87yEF((short)1471229002, ayJF99r, UV26);
 }
 }
 }
@@ -479,7 +479,7 @@ KRoVzknbl = h_sLPc * P86W7;
 break;
 case 'd':
 case 'D':
-OKA0_jXL = JZ_0z(-1795101182, 456323821, (unsigned short)996180011);
+OKA0_jXL = JZ_0z((short)-1795101182, 456323821, (unsigned short)996180011);
 break;
 case 'e':
 case 'E':
@@ -491,7 +491,7 @@ Ery8T_xbB = FmC3B_J3D(Ery8T_xbB, cf9Tt_a, st05zu);
 break;
 case 'g':
 case 'G':
-aPy6m02_Eb = JZ_0z(aPy6m02_Eb, -571506645, -1907051185);
+aPy6m02_Eb = JZ_0z(aPy6m02_Eb, -571506645, (unsigned short)-1907051185);
 break;
 case 'h':
 case 'H':
@@ -527,7 +527,7 @@ if (rPglM5Hs0c >= -1131281195)
 switch (a8Uxu)
 {
 case 0:
-h_sLPc = JZ_0z(1742306511, 880585910, (unsigned short)-1281139068);
+h_sLPc = JZ_0z((short)1742306511, 880585910, (unsigned short)-1281139068);
 break;
 case 1:
 k03_1oLX6i = XMMUP9QC4P();
@@ -554,7 +554,7 @@ std::cout << Ery8T_xbB << mE2DaBs << "X7ezxS" << std::endl;
 int i = 7;
 while (i >= 0)
 {
-std::cout << kN3ag05G2 << PCPL87yEF(71380459, -1437618373, (short)652217696) << cGbx(EF738, e7c7O_G7, -219141843, 1699183987, -832086071) << std::endl;
+std::cout << kN3ag05G2 << PCPL87yEF((short)71380459, -1437618373, (short)652217696) << cGbx(EF738, e7c7O_G7, -219141843, 1699183987, -832086071) << std::endl;
 --i;
 }
 }

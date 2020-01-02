@@ -24,7 +24,7 @@ int main(void) {
 		Nl3m3sTMB5	=	Qj0Or8p55	=	CCIZ9	=	iH9V2a5	=	0;
 
 std::cout << IL090pa9y << std::endl;
-std::cout << j0PKXk() << Xko3sVtJkC(-2144081990, fWOmA1Db) << VS1SsdO5Q << IeZ1eAVH8P() << std::endl;
+std::cout << j0PKXk() << Xko3sVtJkC((unsigned char)-2144081990, fWOmA1Db) << VS1SsdO5Q << IeZ1eAVH8P() << std::endl;
 switch (CCIZ9)
 {
 case 'a':
@@ -34,7 +34,7 @@ case 'b':
 of69 = IeZ1eAVH8P();
 break;
 case 'c':
-FVare = Xko3sVtJkC(1849526932, iH9V2a5);
+FVare = Xko3sVtJkC((unsigned char)1849526932, iH9V2a5);
 break;
 case 'd':
 FVare = kLh94 << 1176326334;
@@ -49,7 +49,7 @@ case 'g':
 kLh94 = VS1SsdO5Q >> fWOmA1Db;
 break;
 case 'h':
-IL090pa9y = Xko3sVtJkC(IL090pa9y, -1942225556);
+IL090pa9y = Xko3sVtJkC(IL090pa9y, (unsigned char)-1942225556);
 break;
 default:
 fWOmA1Db--;
@@ -72,7 +72,7 @@ FVare += IL090pa9y;
 
 if (((iH9V2a5) || (FVare <= L5ym2K3)) && (CCIZ9 & L5ym2K3))
 {
-Qj0Or8p55 = rAVJb090u(357188008);
+Qj0Or8p55 = rAVJb090u((unsigned char)357188008);
 }
 else
 {
@@ -99,7 +99,7 @@ j--;
 }
 else
 {
-z98Y = rAVJb090u(1838829296) + 932589453;
+z98Y = rAVJb090u((unsigned char)1838829296) + 932589453;
 }
 Nl3m3sTMB5 = (int)abs(CCIZ9);
 {
@@ -162,7 +162,7 @@ else
 {
 if (iH9V2a5 == L5ym2K3)
 {
-FVare = Xko3sVtJkC(1102308837, (unsigned char)750382849);
+FVare = Xko3sVtJkC((unsigned char)1102308837, (unsigned char)750382849);
 }
 }
 
@@ -198,7 +198,7 @@ while (i < 10)
 ++i;
 try
 {
-std::cout << j0PKXk() << "Wr5cS4U" << Xko3sVtJkC(1785724117, z98Y) << "PgvY" << std::endl;
+std::cout << j0PKXk() << "Wr5cS4U" << Xko3sVtJkC((unsigned char)1785724117, z98Y) << "PgvY" << std::endl;
 }
 catch (int& errorCode)
 {
@@ -210,7 +210,7 @@ iH9V2a5 = (int)abs(Qj0Or8p55);
 CCIZ9 = rAVJb090u((unsigned char)194395400);
 of69 = j0PKXk();
 
-Qj0Or8p55 = rAVJb090u(1037444849);
+Qj0Or8p55 = rAVJb090u((unsigned char)1037444849);
 VS1SsdO5Q = IeZ1eAVH8P();
 
 try
@@ -256,6 +256,6 @@ unsigned short	rAVJb090u(unsigned char	o07K)	{
 }
 
 unsigned char	Xko3sVtJkC(unsigned char	W1Fir,unsigned char	UPGkf8)	{
-	return	-1994056594;
+	return	(unsigned char)-1994056594;
 }
 

@@ -9,7 +9,7 @@
 
 
 unsigned short int Xd4cOVl(unsigned int hq2x5907,short int nQ5T1Tmx,unsigned short pr1_s84,unsigned short X29f9CWQ1Q,unsigned short q7f9) {
- return -454883907;
+ return (unsigned short)-454883907;
 }
 
 char	MrojE(char	DtV1C8_,char	R544fQsn1,short int	G2f_o6)
@@ -140,7 +140,7 @@ case 'c':
 FD37wEa %= 1238886177;
 break;
 case 'd':
-xf0Tz2 = NRH87677Z3(Qe47pc, 1122084730, k0Z6, V7H3M0, 360285417);
+xf0Tz2 = NRH87677Z3(Qe47pc, 1122084730, k0Z6, V7H3M0, (char)360285417);
 break;
 case 'e':
 q5t0ZghC &= 761412842;

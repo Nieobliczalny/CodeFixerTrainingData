@@ -15,7 +15,7 @@ using std::ceil;
 using std::floor;
 
 short int oSRC9vm(short int jqwO,unsigned short int K4VvW2_nU) {
- return -1319995237;
+ return (short)-1319995237;
 }
 
 int	S5xfSv0_p(char	JMRhP9T,short	XZrw3F0Xi,char	Z9WQ_f,unsigned int	Mv1QcQrr4,unsigned char	CqDi3efsi1)	{
@@ -81,7 +81,7 @@ case 'a':
 L3D8f3Vahh = S5xfSv0_p(YDpQH, X__017Ni, L3D8f3Vahh, -395395466, Br10yW);
 break;
 case 'b':
-dRNAN = S5xfSv0_p(FWufw_, 105358607, (char)1431174176, Gt_f396, 251981004);
+dRNAN = S5xfSv0_p(FWufw_, (short)105358607, (char)1431174176, Gt_f396, 251981004);
 break;
 case 'c':
 dRg75u = S5xfSv0_p(Z5P0q8QTl, -493744322, -127079368, FWufw_, O_xxs75By9);
@@ -108,7 +108,7 @@ vfjH2gU2 *= 817426312;
 }
 else if (vfjH2gU2 < CYM4_U3)
 {
-dRg75u = S5xfSv0_p(Z5P0q8QTl, vGp6dU, EnrDNBrG, O_xxs75By9, 767965938);
+dRg75u = S5xfSv0_p(Z5P0q8QTl, vGp6dU, EnrDNBrG, O_xxs75By9, (unsigned char)767965938);
 }
 else
 {

@@ -187,7 +187,7 @@ boSMLn9IA = t6tUr_4Y4 << o_3T6FOS8W;
 }
 else if (VD5cr1x & k1EA)
 {
-Vz5sG1Aa = Q_Mv5(966022851, 1998457999, (unsigned short)-1710963440);
+Vz5sG1Aa = Q_Mv5(966022851, (unsigned short)1998457999, (unsigned short)-1710963440);
 }
 else
 {
@@ -329,7 +329,7 @@ else if (((BG7y == 2042137808) || (wmsN_3)) || ((l3O3 < -1370736403) && (Kzk_pJt
 {
 if (W_YIuo72_ <= -116837684)
 {
-cQS20bHug = Q_Mv5(cQS20bHug, -1003435004, (unsigned short)-1811442719);
+cQS20bHug = Q_Mv5(cQS20bHug, (unsigned short)-1003435004, (unsigned short)-1811442719);
 }
 else
 {
@@ -452,7 +452,7 @@ cnr_tm7A -= kVNkqPN;
 }
 else
 {
-r09XkT_8 = Q_Mv5(r09XkT_8, 675286212, UYLvmfd04);
+r09XkT_8 = Q_Mv5(r09XkT_8, (unsigned short)675286212, UYLvmfd04);
 }
 }
 else if (dGPZ57r4 <= -1790497043)
@@ -477,7 +477,7 @@ else if (TzIg30q <= -568350707)
 {
 try
 {
-j4o5D5K8I = Q_Mv5(j4o5D5K8I, 525701267, (unsigned short)1736527822);
+j4o5D5K8I = Q_Mv5(j4o5D5K8I, (unsigned short)525701267, (unsigned short)1736527822);
 }
 catch (int& errorCode)
 {
@@ -631,7 +631,7 @@ case 1:
 pw3Q = L_AH86XJ(1577993240, -620441720, -1151510375);
 break;
 case 2:
-Is53 = Q_Mv5(-1141121095, -1453883830, (unsigned short)-622472531) / pIDM_LpYen;
+Is53 = Q_Mv5(-1141121095, (unsigned short)-1453883830, (unsigned short)-622472531) / pIDM_LpYen;
 break;
 case 3:
 hnwmJ0gdF8 = GBcodyJM(-1994439426, e458Ucpk) | Is53;
@@ -824,7 +824,7 @@ i3lG2 = S2Pual_ * h70C2a8zZf;
 break;
 case 'b':
 case 'B':
-MZYSVRJqO5 = Q_Mv5(-915646719, -1106289131, (unsigned short)1022229214);
+MZYSVRJqO5 = Q_Mv5(-915646719, (unsigned short)-1106289131, (unsigned short)1022229214);
 break;
 case 'c':
 case 'C':
@@ -843,7 +843,7 @@ switch (S6_n)
 {
 case 'a':
 case 'A':
-cQS20bHug = Q_Mv5(cQS20bHug, 1701343849, sG5B);
+cQS20bHug = Q_Mv5(cQS20bHug, (unsigned short)1701343849, sG5B);
 break;
 case 'b':
 case 'B':
@@ -894,7 +894,7 @@ int  L_AH86XJ(unsigned long long  Ej43EO_6C,unsigned long long  ntFJE7C,unsigned
 
 char    Q_Mv5(unsigned long long    cR43_4H1,unsigned short int    RIb3Zv1,unsigned short int    wKJyuW)
 {
-    return    -1033621831;
+    return    (char)-1033621831;
 }
 
 unsigned short	GBcodyJM(unsigned long	P1b5,int	e02aT)	{

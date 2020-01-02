@@ -19,7 +19,7 @@ unsigned char    oZ59(unsigned short int    gr29endsL,unsigned short    ndbSxMI,
 
 short    xT20(long long    Y9Tw49Ery,unsigned int    ID97N,short    M6Z_v,long    q609tc,short    D1Q_)
 {
-    return    -1952342778;
+    return    (short)-1952342778;
 }
 
 int main(void) {
@@ -34,7 +34,7 @@ int main(void) {
  unsigned int A74RqdRFNY;
  A74RqdRFNY = 599114717;
 	char	cTSyiJ;
-	cTSyiJ	=	78877179;
+	cTSyiJ	=	(char)78877179;
   unsigned long long  VNk67rMp0X;
   VNk67rMp0X  =  1599507744;
  unsigned long long QNZ0V;
@@ -46,7 +46,7 @@ int main(void) {
 	long double	CAqw;
 	CAqw	=	-1762789637;
     unsigned short int    R2RI5T9C_;
-    R2RI5T9C_    =    -1782264786;
+    R2RI5T9C_    =    (unsigned short)-1782264786;
  long dzUoKD2;
  dzUoKD2 = -1379777729;
     unsigned short int    GE88;
@@ -56,7 +56,7 @@ int main(void) {
   long long  kFJ520;
   kFJ520  =  1107252952;
  unsigned short ie406y;
- ie406y = -986771136;
+ ie406y = (unsigned short)-986771136;
   char  tenXP;
   tenXP  =  1391622894;
  long en37FDtiN4;
@@ -66,7 +66,7 @@ int main(void) {
     int    sFntW4r1;
     sFntW4r1    =    786105502;
     short    ncrGr;
-    ncrGr    =    60208906;
+    ncrGr    =    (short)60208906;
 	char	x1w7sLO4mC;
 	x1w7sLO4mC	=	-1460702600;
  long MEfu4U7d;
@@ -76,7 +76,7 @@ int main(void) {
     unsigned long    qu7TP1;
     qu7TP1    =    -1096115720;
   short int  z4HH9;
-  z4HH9  =  1335158822;
+  z4HH9  =  (short)1335158822;
     unsigned long long    Jo_0FYB;
     Jo_0FYB    =    1550032927;
   int  YY8jT_;
@@ -86,7 +86,7 @@ int main(void) {
  unsigned char rD1b;
  rD1b = -84144913;
     short    X3SOn52;
-    X3SOn52    =    -12517121;
+    X3SOn52    =    (short)-12517121;
   long  W8DiKkg;
   W8DiKkg  =  1547691420;
 	unsigned char	EVR98;
@@ -96,7 +96,7 @@ int main(void) {
 	char	mfg8RW;
 	mfg8RW	=	(char)1145383769;
  unsigned short int ZX1s;
- ZX1s = -1201430724;
+ ZX1s = (unsigned short)-1201430724;
  short int WAhc;
  WAhc = 1541774351;
  unsigned int t6dx8_m;
@@ -106,7 +106,7 @@ int main(void) {
  int yJb9Jy4Ys;
  yJb9Jy4Ys = 1301411258;
  char Pj880_PZ;
- Pj880_PZ = -1381357164;
+ Pj880_PZ = (char)-1381357164;
 	long double	HnCEW0eH;
 	HnCEW0eH	=	-668908726;
     long    if1vK;
@@ -116,7 +116,7 @@ int main(void) {
 	unsigned short int	Y6JXvV10;
 	Y6JXvV10	=	(unsigned short)-748613103;
 	unsigned short int	n5yTs7;
-	n5yTs7	=	-1147925127;
+	n5yTs7	=	(unsigned short)-1147925127;
  short int R8tmI0bmJQ;
  R8tmI0bmJQ = 767899827;
 	short int	yE0_xo4N;
@@ -126,7 +126,7 @@ int main(void) {
  char a870uZ8A;
  a870uZ8A = (char)-2146620748;
   char  Pd3id;
-  Pd3id  =  642578300;
+  Pd3id  =  (char)642578300;
   long long  qk379;
   qk379  =  -1586693684;
 	double	Et122Sf35O;
@@ -150,7 +150,7 @@ int main(void) {
     float    tu86LaB8;
     tu86LaB8    =    -987339015;
     char    x04co12_;
-    x04co12_    =    -634295034;
+    x04co12_    =    (char)-634295034;
 	short int	zqc2PbNS1;
 	zqc2PbNS1	=	(short)-225605005;
  unsigned short int ICnP_wgKBE;
@@ -164,7 +164,7 @@ int main(void) {
  unsigned int Ncv_aF2y7;
  Ncv_aF2y7 = 0;
 	short int	s___R;
-	s___R	=	77740290;
+	s___R	=	(short)77740290;
 	unsigned char	k9CQur;
 	k9CQur	=	0;
     unsigned long long    E1T4Cz;
@@ -176,7 +176,7 @@ int main(void) {
   double  aG53wRB;
   aG53wRB  =  -1977719231;
     short int    p_nnrmJzbN;
-    p_nnrmJzbN    =    238669016;
+    p_nnrmJzbN    =    (short)238669016;
 	long	f86EtuR3;
 	f86EtuR3	=	1878416904;
   short  uWND0VBt5;
@@ -186,7 +186,7 @@ int main(void) {
   long  M7DEGpD;
   M7DEGpD  =  1654996819;
  short F7_8;
- F7_8 = 72878895;
+ F7_8 = (short)72878895;
 	int	YD1l0hO3;
 	YD1l0hO3	=	1580551758;
 	unsigned short int	S5WJ4;
@@ -255,7 +255,7 @@ do
 j--;
 if (cyn2 & Ncv_aF2y7)
 {
-uWND0VBt5 = oZ59(R2RI5T9C_, -348961017, -916364313, (unsigned short)-1473944785);
+uWND0VBt5 = oZ59(R2RI5T9C_, (unsigned short)-348961017, -916364313, (unsigned short)-1473944785);
 }
 }
 while (j >= 0);
@@ -277,7 +277,7 @@ case 3:
 Cs_67DgsRa = k9CQur << QY4l6a1vP;
 break;
 case 4:
-F7_8 = Kna6_d0QUu(1441252628, 2106854020, tu86LaB8);
+F7_8 = Kna6_d0QUu(1441252628, (unsigned char)2106854020, tu86LaB8);
 break;
 default:
 tu86LaB8 = (int)ceil(aG53wRB);

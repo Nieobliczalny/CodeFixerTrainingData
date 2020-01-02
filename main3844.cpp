@@ -28,7 +28,7 @@ int main(void) {
  float yNudl1K = -910231621;
  unsigned long long G11u = 0;
   long long  T2K88  =  0;
- char XqLf = 921194267;
+ char XqLf = (char)921194267;
  unsigned long S_jjDL6YuR = 0;
   long double  iH8W_SKPM  =  -260795144;
 

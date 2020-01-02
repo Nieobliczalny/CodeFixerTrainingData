@@ -19,7 +19,7 @@ int main()
  unsigned long Fm1L_YB;
  Fm1L_YB = 0;
   short  HBsxx;
-  HBsxx  =  -612030714;
+  HBsxx  =  (short)-612030714;
   double  F_Ii_w;
   F_Ii_w  =  -1665139228;
   unsigned long long  Iz_6A;
@@ -37,7 +37,7 @@ int main()
     long long    flbQkGy;
     flbQkGy    =    0;
   unsigned short int  VER2Nwh;
-  VER2Nwh  =  751337947;
+  VER2Nwh  =  (unsigned short)751337947;
   int  v0KTwkE;
   v0KTwkE  =  1412192734;
     short int    WQa3jf8G_4;
@@ -55,7 +55,7 @@ int main()
 	unsigned long long	w0Mhm;
 	w0Mhm	=	-365132778;
     unsigned char    lG45;
-    lG45    =    132377609;
+    lG45    =    (unsigned char)132377609;
   unsigned long long  O7hyVj5;
   O7hyVj5  =  -1581562433;
   unsigned int  p3O2e;
@@ -67,7 +67,7 @@ int main()
 	int	o82Vc3L;
 	o82Vc3L	=	192175343;
  unsigned char Szpo866;
- Szpo866 = -71782665;
+ Szpo866 = (unsigned char)-71782665;
  short wrHz_;
  wrHz_ = (short)1452940353;
 

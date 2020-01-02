@@ -9,7 +9,7 @@
 
 unsigned short	tRf7Y(long long	IT7LdRo,unsigned long	KHXCW_rj0,long long	T82S2hhp,long long	B2qAN,unsigned long long	Q502rdZUs)
 {
-	return	-560936741;
+	return	(unsigned short)-560936741;
 }
 
 unsigned int    H_uWoOt(long long    sl6ZhV1WP5,int    T0bzAe1,unsigned char    QsCS8O85,unsigned long    pUZu2KJ_u,long long    zJ6yxWULR4)    {
@@ -26,7 +26,7 @@ unsigned short K07t8E1(unsigned short jJd5t,unsigned char tgk3,short int m5N0p,u
 
 char  Y__WeZ5(unsigned int  OE7S77u,unsigned short int  HyXshnG9dc)
 {
-  return  2076949125;
+  return  (char)2076949125;
 }
 
 int main()
@@ -36,7 +36,7 @@ int main()
     long    Lwfag43XO    =    -1728645903;
 	char	HNXy2T1NA	=	(char)1317963094;
   unsigned short int  Jy2IJ1Wf  =  -1558645601;
-  unsigned short int  oP11l_  =  -967651445;
+  unsigned short int  oP11l_  =  (unsigned short)-967651445;
 	long long	wY9x0238	=	0;
 	float	CooHlL5q	=	2070116367;
   int  qw4SJg2  =  -532082482;
@@ -48,7 +48,7 @@ int main()
   double  nxPsS5h2  =  -1339326179;
  unsigned int IoU8sEy = 1135077901;
 	long	kexq	=	-2001431327;
-    unsigned char    ceul    =    990191074;
+    unsigned char    ceul    =    (unsigned char)990191074;
     long long    rL3l_hgX_A    =    -314189330;
  unsigned long t7VF = -1015952512;
  long j120F0 = 1302177855;
@@ -58,7 +58,7 @@ int main()
   long long  XVnln7KY  =  1518162318;
  short int ysVmLLc = -1818578205;
  unsigned long wz7V7z = -1254623618;
-    short    T8N1_1a4B_    =    -594711313;
+    short    T8N1_1a4B_    =    (short)-594711313;
 	short	Swh51euw	=	0;
     long long    NIlkh    =    1716938679;
  unsigned int x4Fy5 = 2123374686;
@@ -71,7 +71,7 @@ int main()
 	long	TXDMR2Qpj	=	-1552966780;
   double  oo2Hp  =  -1527962693;
  unsigned long long W03f = 1011483011;
-    short int    zAcARFk    =    1111568530;
+    short int    zAcARFk    =    (short)1111568530;
  unsigned int nOt_ = 730453078;
 	short int	itBP1_e79	=	1149077263;
  short jAxTLm2StB = 1302038199;
@@ -83,7 +83,7 @@ int main()
   long double  NDnGR80m  =  -1422672457;
     float    cqm1m2K    =    -84435521;
  long long a_gpX9e = -1845390227;
- unsigned short RK5914 = 1159841500;
+ unsigned short RK5914 = (unsigned short)1159841500;
   float  sWjsfpI  =  -1826503127;
     short int    Rphu_2QuUX    =    (short)1829020791;
  double uMT1R7 = 1868672942;
@@ -94,7 +94,7 @@ int main()
   unsigned int  w95HlFVlH  =  1798860557;
     unsigned long long    eETdl    =    -1198124687;
   double  MH0gv3m  =  2110918625;
-	unsigned short	nmpPF	=	881069731;
+	unsigned short	nmpPF	=	(unsigned short)881069731;
   short int  aH6E  =  (short)-1566828070;
     unsigned short int    k7a7    =    -1560980330;
     char    Hka_flN    =    -1178201770;
@@ -106,7 +106,7 @@ int main()
  int BgVTS = 777730608;
     long long    jkyl_    =    -724508000;
  float e_ng76Z = -123503766;
-    short int    eDM34om    =    286937969;
+    short int    eDM34om    =    (short)286937969;
  short Mb29Ldw = (short)-1892894961;
   short int  BC20huAhB  =  -966818213;
  int dt8FSCdwF = -1630662000;
@@ -116,7 +116,7 @@ int main()
  unsigned short lCCdP2 = 114752738;
  float MX8Jwb6dv = -346804244;
  unsigned long long Vyffe48A1 = 430262990;
-    unsigned short    Bo81o_    =    -1308108692;
+    unsigned short    Bo81o_    =    (unsigned short)-1308108692;
  short xU0r = (short)5018845;
     char    L5IWx    =    1104798362;
  int Lz4LWx = -2128399375;
@@ -128,7 +128,7 @@ int main()
     unsigned short    toHbsH5eOM    =    1337971501;
   unsigned int  Eb2ZnGEF  =  1863673512;
 	long	Pl187	=	1030194770;
- short int cHNt5EC = -1348161324;
+ short int cHNt5EC = (short)-1348161324;
 	float	w4ZsBZ	=	-1250778080;
  unsigned long long gfaDHsL2A2 = 761119864;
 	long	XRPtOD	=	0;
@@ -150,7 +150,7 @@ BC20huAhB <<= 71166327;
 break;
 case 'c':
 case 'C':
-Bo81o_ = Y__WeZ5(Bo81o_, -2023984260);
+Bo81o_ = Y__WeZ5(Bo81o_, (unsigned short)-2023984260);
 break;
 case 'd':
 case 'D':
@@ -200,7 +200,7 @@ T0Grou6 <<= qw4SJg2;
 
 std::cout << "XxeZ" << Jy2IJ1Wf << "Ma_Ge_G3Wa" << std::endl;
 std::cout << "Ka2t_E" << std::endl;
-MH0gv3m = Y__WeZ5(MH0gv3m, 1403213376);
+MH0gv3m = Y__WeZ5(MH0gv3m, (unsigned short)1403213376);
 
 try
 {
@@ -234,7 +234,7 @@ catch (int& errorCode)
 wkfzD0 = Vyffe48A1 | U_KHnmQe;
 }
 
-std::cout << "DFUBXp7UA4" << d6aQj_98g(k17I7s, e_ng76Z, -191532441, -1516924281, -733963885) << wkfzD0 << std::endl;
+std::cout << "DFUBXp7UA4" << d6aQj_98g(k17I7s, e_ng76Z, -191532441, -1516924281, (unsigned short)-733963885) << wkfzD0 << std::endl;
 n561f = (hpKBb8 < -849214203) ? (unsigned short)1347617235 : -684493992;
 
 t7VF--;
@@ -245,7 +245,7 @@ case 0:
 Rphu_2QuUX = a_gpX9e << nmpPF;
 break;
 case 1:
-U_KHnmQe = d6aQj_98g(U_KHnmQe, POdh83fn, 698777133, e_ng76Z, 374452150);
+U_KHnmQe = d6aQj_98g(U_KHnmQe, POdh83fn, 698777133, e_ng76Z, (unsigned short)374452150);
 break;
 case 2:
 enUIF8 = POdh83fn | 168210155;
@@ -273,7 +273,7 @@ else
 {
 try
 {
-qoD_X = H_uWoOt(qoD_X, 1621021834, -748563680, j120F0, sWjsfpI);
+qoD_X = H_uWoOt(qoD_X, 1621021834, (unsigned char)-748563680, j120F0, sWjsfpI);
 }
 catch (int& errorCode)
 {
@@ -294,7 +294,7 @@ sWjsfpI = (int)floor(PE9Wa0_1X);
 }
 else
 {
-std::cout << j0n0i3JBV << "K9KiZ" << "ND5Q5frmJw" << Y__WeZ5(qoD_X, 2075979593) << std::endl;
+std::cout << j0n0i3JBV << "K9KiZ" << "ND5Q5frmJw" << Y__WeZ5(qoD_X, (unsigned short)2075979593) << std::endl;
 }
 std::cout << K07t8E1(qoD_X, RK5914, (short)-453435576, j120F0) << MX8Jwb6dv << Y__WeZ5(qoD_X, -644203870) << std::endl;
 
@@ -318,7 +318,7 @@ j120F0 = (int)abs(U_KHnmQe);
 }
 else if (Bo81o_ > T0Grou6)
 {
-Rphu_2QuUX = Y__WeZ5(Rphu_2QuUX, 1886303672);
+Rphu_2QuUX = Y__WeZ5(Rphu_2QuUX, (unsigned short)1886303672);
 }
 else if (J0G_9 & Vyffe48A1)
 {

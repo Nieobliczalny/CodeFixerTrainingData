@@ -76,7 +76,7 @@ if (ChU5 & 1093961654)
 {
 if (wI_s >= -89939119)
 {
-LL2o9 = v2Ah(LL2o9, QetsH7I, -1618670343, Mh_5ZZZt, 316580966);
+LL2o9 = v2Ah(LL2o9, QetsH7I, -1618670343, Mh_5ZZZt, (char)316580966);
 }
 else if (Qy1i15Hy >= -1960011159)
 {
@@ -213,7 +213,7 @@ break;
 
 for (int i = 0; i < 6; ++i)
 {
-H0F5Y_a = x3X5N4_N2f(838123056, 1465414154, 1947692073, B56v74pAsb);
+H0F5Y_a = x3X5N4_N2f(838123056, 1465414154, (unsigned short)1947692073, B56v74pAsb);
 }
 
 {
@@ -225,7 +225,7 @@ if (M_4S == JysHN_9f0n)
 {
 try
 {
-LK7n7 = (EshF2dQTTK >= JysHN_9f0n) ? -2103678269 : v2Ah(-516706063, 1165791621, -1585831246, B56v74pAsb, (char)800404274);
+LK7n7 = (EshF2dQTTK >= JysHN_9f0n) ? -2103678269 : v2Ah(-516706063, (unsigned short)1165791621, -1585831246, B56v74pAsb, (char)800404274);
 }
 catch (int& errorCode)
 {
@@ -258,7 +258,7 @@ else if ((ChU5 & 2141565473) || (EshF2dQTTK))
 {
 for (int k = 0; k < 4; k++)
 {
-Mh_5ZZZt = v2Ah(ChU5, -72155546, Zv3B47IGSO, -459577470, (char)901826097);
+Mh_5ZZZt = v2Ah(ChU5, (unsigned short)-72155546, Zv3B47IGSO, -459577470, (char)901826097);
 }
 }
 else if (LK7n7 <= -1126372664)
@@ -404,7 +404,7 @@ else if (u2_J)
 {
 for (int k = 0; k < 10; k++)
 {
-IISn = v2Ah(-93193484, LK7n7, -468832457, X518BBJoB, -409796941);
+IISn = v2Ah(-93193484, LK7n7, -468832457, X518BBJoB, (char)-409796941);
 }
 }
 else
@@ -476,7 +476,7 @@ unsigned char  AhP0()
 
 unsigned short    PYj_uG_EF6(unsigned long    n2o5W)
 {
-    return    -200049837;
+    return    (unsigned short)-200049837;
 }
 
 int lER2x0() {

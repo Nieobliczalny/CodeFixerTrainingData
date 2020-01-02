@@ -12,7 +12,7 @@ using namespace std;
 
 short int U2SXe4(unsigned char KE_wBCem,unsigned long rqv4)
 {
- return 1005585835;
+ return (short)1005585835;
 }
 
 char eeIQk(unsigned int Ep3r,unsigned long CBX_V,int A1d4,unsigned long long zGVGgT8l)
@@ -42,7 +42,7 @@ while (j < 5);
 }
 else
 {
-O2Gxj = U2SXe4(-1613850119, IR5F40);
+O2Gxj = U2SXe4((unsigned char)-1613850119, IR5F40);
 }
 if ((O1x41XJA / ck_81Jj2) <= 1817402637)
 {
@@ -98,7 +98,7 @@ gv4VN = oH9aqva << 1869735962;
 }
 else
 {
-y_4s6PWPy = U2SXe4(-1709177194, A4ZdkPz);
+y_4s6PWPy = U2SXe4((unsigned char)-1709177194, A4ZdkPz);
 }
 }
 }
@@ -108,7 +108,7 @@ while (i < 8);
 }
 try
 {
-std::cout << U2SXe4(-1986141976, -786619933) << De7s0 << U2SXe4(y_4s6PWPy, A4ZdkPz) << eeIQk(y_4s6PWPy, A4ZdkPz, 920909197, qMcQxhbfXb) << qMcQxhbfXb << std::endl;
+std::cout << U2SXe4((unsigned char)-1986141976, -786619933) << De7s0 << U2SXe4(y_4s6PWPy, A4ZdkPz) << eeIQk(y_4s6PWPy, A4ZdkPz, 920909197, qMcQxhbfXb) << qMcQxhbfXb << std::endl;
 }
 catch (int& errorCode)
 {
@@ -173,7 +173,7 @@ do
 {
 if (Z5K93 > jy88U227D)
 {
-fc_4p = U2SXe4(-970569523, O2Gxj);
+fc_4p = U2SXe4((unsigned char)-970569523, O2Gxj);
 }
 else
 {
@@ -206,7 +206,7 @@ case 0:
 zbndp6cz48 *= 876012902;
 break;
 case 1:
-zbndp6cz48 = U2SXe4(1215358213, -2084092379);
+zbndp6cz48 = U2SXe4((unsigned char)1215358213, -2084092379);
 break;
 case 2:
 ck_81Jj2 = eeIQk(r93h0hC, V6uM80_, -1198137558, 1043015846);
@@ -227,7 +227,7 @@ case 0:
 yopf49 = JyMuwOJ581 >> jGi_MW4SAT;
 break;
 case 1:
-AYH7Bi = U2SXe4(1005348998, 485353883);
+AYH7Bi = U2SXe4((unsigned char)1005348998, 485353883);
 break;
 case 2:
 ck_81Jj2 = eeIQk(VS_fC9, -322772610, 1538928169, 1553285421);
@@ -282,7 +282,7 @@ case 6:
 X6OukLU /= AYH7Bi;
 break;
 case 7:
-Z5K93 = U2SXe4(-947626, -1371391855);
+Z5K93 = U2SXe4((unsigned char)-947626, -1371391855);
 break;
 default:
 jnfk042sc = (int)abs(LPN8Q16W);
@@ -293,7 +293,7 @@ else
 {
 if (IR5F40 > f_kN8_)
 {
-zVekfCBJp = (du939hxfK3 < t_HFp7) ? 1601668327 : MEwKiNpgV;
+zVekfCBJp = (du939hxfK3 < t_HFp7) ? (short)1601668327 : MEwKiNpgV;
 }
 else if ((jGi_MW4SAT == jy88U227D) && (hFZDSpx))
 {

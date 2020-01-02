@@ -11,7 +11,7 @@ using namespace std;
 int main()
 {
 	short int	P36i8q56;
-	P36i8q56	=	-1215127314;
+	P36i8q56	=	(short)-1215127314;
     double    Erk51yjA8;
     Erk51yjA8    =    80261767;
     int    Bqo1wRZ;
@@ -23,7 +23,7 @@ int main()
     float    i8HhhPAM;
     i8HhhPAM    =    -1582633914;
 	unsigned char	O6710;
-	O6710	=	-744380082;
+	O6710	=	(unsigned char)-744380082;
  float U8Eh7Y;
  U8Eh7Y = -924824199;
     short    k3Fl9EK2W_;
@@ -33,7 +33,7 @@ int main()
  double ig0US5;
  ig0US5 = -1117944787;
  unsigned char xiY60;
- xiY60 = -2076995586;
+ xiY60 = (unsigned char)-2076995586;
   long  mW8Grb__j_;
   mW8Grb__j_  =  -2017664220;
     long    rDTbQ4HeV;
@@ -51,7 +51,7 @@ int main()
   long  H1o3;
   H1o3  =  1813265558;
  short int Gq61CP;
- Gq61CP = 1918248934;
+ Gq61CP = (short)1918248934;
  short int dQ_Q89A_5l;
  dQ_Q89A_5l = (short)1481137694;
 	int	vvG9NkX4;
@@ -61,7 +61,7 @@ int main()
 	unsigned long	yS1g9tW;
 	yS1g9tW	=	2049171734;
     unsigned short int    pdMV9;
-    pdMV9    =    295107843;
+    pdMV9    =    (unsigned short)295107843;
     long long    i3ZZa;
     i3ZZa    =    447602912;
  long long bt7QWC8Y;
@@ -75,7 +75,7 @@ int main()
     unsigned int    GMo86i1R9;
     GMo86i1R9    =    1653896561;
 	unsigned short int	O2HY;
-	O2HY	=	974545638;
+	O2HY	=	(unsigned short)974545638;
   long  S6uAzEh97j;
   S6uAzEh97j  =  1252137938;
   long long  guu8dU5t;
@@ -85,7 +85,7 @@ int main()
 	long long	r_4yI4W_7A;
 	r_4yI4W_7A	=	1578814839;
   char  LI7wP7z;
-  LI7wP7z  =  -1346761542;
+  LI7wP7z  =  (char)-1346761542;
  short int rE6gL0;
  rE6gL0 = -1924094866;
 	char	k63672KPrG;

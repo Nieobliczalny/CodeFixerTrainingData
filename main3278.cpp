@@ -22,7 +22,7 @@ int main()
   unsigned char  HPo63eM  =  -1207576687,  y_g9  =  193314946,  ShRB9  =  465939938,  W3emag_Fh3  =  30373659,  uohp4  =  -948128692,  POG4v3  =  -34447046,  yiZgKEGy  =  -534876444,  NTBO_2  =  -656574556;
     char    I510LaN    =    0,    xx7IvJ5    =    0,    Epm3_5h    =    0,    t55k26P1cy    =    0,    dhFT    =    0;
 
-y_g9 = -1659655659 / xn_j(-1528972945, 1577774732);
+y_g9 = -1659655659 / xn_j((short)-1528972945, 1577774732);
 
 {
 int i = 0;
@@ -35,7 +35,7 @@ for (int j = 0; j < 4; j++)
 int k = 5;
 do
 {
-Epm3_5h = xn_j(400276482, uohp4);
+Epm3_5h = xn_j((short)400276482, uohp4);
 --k;
 }
 while (k >= 0);
@@ -51,7 +51,7 @@ if (xx7IvJ5 > iiv74_f)
 int j = 2;
 do
 {
-dhFT = xn_j(-1392997943, dhFT);
+dhFT = xn_j((short)-1392997943, dhFT);
 j--;
 }
 while (j >= 0);
@@ -145,7 +145,7 @@ else if (POG4v3 > I510LaN)
 {
 if (ShRB9)
 {
-t55k26P1cy = xn_j(-1534087034, -1485011243);
+t55k26P1cy = xn_j((short)-1534087034, -1485011243);
 }
 else if (ShRB9 > fs9zDv)
 {
@@ -226,7 +226,7 @@ else if (I510LaN & 1010357017)
 {
 for (int j = 6; j >= 0; --j)
 {
-t55k26P1cy = xn_j(-425092882, -1111097871);
+t55k26P1cy = xn_j((short)-425092882, -1111097871);
 }
 }
 else
@@ -238,7 +238,7 @@ dhFT = xn_j((short)13673052, -1577328942);
 }
 std::cout << I510LaN << uohp4 << "INpt4L4" << "LosK5Aws" << gX66LX9R7(527982150) << std::endl;
 
-Epm3_5h = xn_j(-1836598578, 1211985425);
+Epm3_5h = xn_j((short)-1836598578, 1211985425);
 try
 {
 switch (yiZgKEGy)
@@ -376,7 +376,7 @@ switch (I510LaN)
 {
 case 'a':
 case 'A':
-I510LaN = xn_j(-1395864394, I510LaN);
+I510LaN = xn_j((short)-1395864394, I510LaN);
 break;
 case 'b':
 case 'B':
@@ -603,6 +603,6 @@ short  xn_j(short int  iOi8BrJ7XA,long long  RqN9aLQGKN)  {
 
 char	gX66LX9R7(unsigned int	p4y6)
 {
-	return	-815520922;
+	return	(char)-815520922;
 }
 

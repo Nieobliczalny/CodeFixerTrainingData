@@ -62,7 +62,7 @@ if ((h7UV_l8__R > r3Diz9) && (pno4Y == Vm3Z0W))
 {
 if ((WFOp1B5I2t != snt6G6YlIn) && ((KPRumHH > K6ieVe2Kq) && (UzbCfp < cu21Hb3YX)))
 {
-We2dD = NbQuIyAnf(-312770382, -2015004720);
+We2dD = NbQuIyAnf(-312770382, (short)-2015004720);
 }
 else if (Z627aoK)
 {
@@ -95,7 +95,7 @@ We2dD = NbQuIyAnf(-553718830, fcO9P);
 }
 else
 {
-We2dD = NbQuIyAnf(817335690, -738058724);
+We2dD = NbQuIyAnf(817335690, (short)-738058724);
 }
 
 {
@@ -127,7 +127,7 @@ switch (h7UV_l8__R)
 {
 case 'a':
 case 'A':
-snt6G6YlIn = M15L9(-1302402959);
+snt6G6YlIn = M15L9((unsigned short)-1302402959);
 break;
 }
 }
@@ -256,7 +256,7 @@ int i = 0;
 do
 {
 ++i;
-We2dD = NbQuIyAnf(194107921, 100390070);
+We2dD = NbQuIyAnf(194107921, (short)100390070);
 }
 while (i < 10);
 }
@@ -327,7 +327,7 @@ switch (We2dD)
 {
 case 'a':
 case 'A':
-Z627aoK = M15L9(-1094464694);
+Z627aoK = M15L9((unsigned short)-1094464694);
 break;
 case 'b':
 case 'B':
@@ -359,7 +359,7 @@ m5_Y = (int)abs(HXe49_);
 break;
 case 'i':
 case 'I':
-U14zR96 = M15L9(-2106390164);
+U14zR96 = M15L9((unsigned short)-2106390164);
 break;
 case 'j':
 case 'J':
@@ -424,7 +424,7 @@ case 3:
 W29_6f ^= jHG_XrJ;
 break;
 case 4:
-We2dD = NbQuIyAnf(-345635662, 1393245572);
+We2dD = NbQuIyAnf(-345635662, (short)1393245572);
 break;
 case 5:
 r3Diz9 %= 660796032;
@@ -462,7 +462,7 @@ while (k >= 0);
 switch (We2dD)
 {
 case 'a':
-m5_Y = M15L9(1797564881);
+m5_Y = M15L9((unsigned short)1797564881);
 break;
 default:
 UzbCfp = M15L9(UzbCfp);
@@ -516,7 +516,7 @@ for (int j = 7; j >= 0; --j)
 {
 if (h7UV_l8__R)
 {
-We2dD = NbQuIyAnf(UzbCfp, 1559491487);
+We2dD = NbQuIyAnf(UzbCfp, (short)1559491487);
 }
 else
 {
@@ -535,7 +535,7 @@ case 'b':
 We2dD = NbQuIyAnf(804184170, Z627aoK);
 break;
 case 'c':
-snt6G6YlIn = M15L9(-1617029258);
+snt6G6YlIn = M15L9((unsigned short)-1617029258);
 break;
 case 'd':
 FbJwaB = Sz_r & pno4Y;
@@ -649,7 +649,7 @@ case 3:
 KPRumHH = (int)abs(FbJwaB);
 break;
 case 4:
-fcO9P = M15L9(-285115558);
+fcO9P = M15L9((unsigned short)-285115558);
 break;
 case 5:
 b5s2 = (int)abs(fcO9P);
@@ -678,7 +678,7 @@ h7UV_l8__R %= 1054072785;
 switch (fcO9P)
 {
 case 0:
-We2dD = NbQuIyAnf(pno4Y, -844778681);
+We2dD = NbQuIyAnf(pno4Y, (short)-844778681);
 break;
 case 1:
 b5s2--;

@@ -272,7 +272,7 @@ case 'c':
 NV06FE3 %= 925295412;
 break;
 case 'd':
-BTNBC = (iE8f4xSqTQ) ? -74789591 : l1yS;
+BTNBC = (iE8f4xSqTQ) ? (unsigned short)-74789591 : l1yS;
 break;
 case 'e':
 mx8U4B1gn = mx8U4B1gn / i01e7;
@@ -313,7 +313,7 @@ if (LQyP5yV9w > yObW6)
 {
 if (NV06FE3 < BTNBC)
 {
-BTNBC = (YH2b4d == -1747727671) ? 2094863102 : (unsigned short)645079541;
+BTNBC = (YH2b4d == -1747727671) ? (unsigned short)2094863102 : (unsigned short)645079541;
 }
 }
 else
@@ -378,7 +378,7 @@ case 6:
 kB2cEX6 = (int)abs(j5vm);
 break;
 case 7:
-mx8U4B1gn = (YH2b4d > LQyP5yV9w) ? aAedT38DO : -52547757;
+mx8U4B1gn = (YH2b4d > LQyP5yV9w) ? aAedT38DO : (unsigned short)-52547757;
 break;
 default:
 mx8U4B1gn = iE8f4xSqTQ & 2040421178;

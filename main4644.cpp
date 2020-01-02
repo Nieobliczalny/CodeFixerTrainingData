@@ -18,7 +18,7 @@ using std::floor;
 
 int main(void) {
   long long  yc53  =  -1677056785;
-  short  J_q8v  =  -1872136314;
+  short  J_q8v  =  (short)-1872136314;
  double Z868mu = 1790739138;
   unsigned short int  OF72  =  (unsigned short)1241512560;
   unsigned long long  MtmWT1zz  =  0;
@@ -29,7 +29,7 @@ int main(void) {
   char  KeWb6Ykt  =  622382573;
     unsigned long long    xFkR6T3L    =    -1386173980;
     unsigned char    Xt5Q    =    0;
-    short    D7Y7    =    1382159815;
+    short    D7Y7    =    (short)1382159815;
 
 std::cout << zmPjY9Pg << "jx6x2x1T9" << "Adqb3" << "A9yArcI" << std::endl;
 
@@ -153,7 +153,7 @@ if (Xt5Q < 2046593232)
 {
 if (((J_q8v & N_4V9S9) || (F3P3iifX != 1066342382)) && (D7Y7 < -1848099519))
 {
-D7Y7 = (zmPjY9Pg & T4wD) ? 127665663 : D7Y7;
+D7Y7 = (zmPjY9Pg & T4wD) ? (short)127665663 : D7Y7;
 }
 else if (J_q8v < 1128149389)
 {
@@ -314,7 +314,7 @@ OF72 >>= yc53;
 }
 else
 {
-OF72 = (S_LcUEW0EU < N_4V9S9) ? 460682001 : (unsigned short)-1237501403;
+OF72 = (S_LcUEW0EU < N_4V9S9) ? (unsigned short)460682001 : (unsigned short)-1237501403;
 }
 }
 else if (yc53 != Xt5Q)

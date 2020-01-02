@@ -9,7 +9,7 @@
 
 unsigned short    d244Ye7()
 {
-    return    1509057034;
+    return    (unsigned short)1509057034;
 }
 
 unsigned short    F7W8(unsigned long long    MLrr_5)

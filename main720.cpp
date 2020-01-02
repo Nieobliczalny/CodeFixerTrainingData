@@ -14,7 +14,7 @@ using namespace std;
 int main(void)
 {
   unsigned short  vP_Em_03U;
-  vP_Em_03U  =  -201527640;
+  vP_Em_03U  =  (unsigned short)-201527640;
 	unsigned int	SVFec3b;
 	SVFec3b	=	418001949;
   float  o7G30qWSbW;
@@ -30,7 +30,7 @@ int main(void)
     unsigned int    jE61G;
     jE61G    =    1613203989;
     short int    b5C9l5;
-    b5C9l5    =    939850481;
+    b5C9l5    =    (short)939850481;
  double eE8u;
  eE8u = 319342301;
     unsigned long    a0gqDgd;
@@ -50,7 +50,7 @@ int main(void)
  double W_c_;
  W_c_ = 1785124017;
  short qQ5P8;
- qQ5P8 = 1144497598;
+ qQ5P8 = (short)1144497598;
 	long double	aoV_k2arN;
 	aoV_k2arN	=	764737394;
   double  vNmXDBBno;
@@ -62,7 +62,7 @@ int main(void)
 	unsigned int	dmM1L4;
 	dmM1L4	=	1066515179;
     unsigned char    TlKAPG2P;
-    TlKAPG2P    =    -1517785511;
+    TlKAPG2P    =    (unsigned char)-1517785511;
     float    gqCiiu;
     gqCiiu    =    1277945991;
     unsigned long    K1U__KK3;

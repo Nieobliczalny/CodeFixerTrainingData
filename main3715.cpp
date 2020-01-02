@@ -24,7 +24,7 @@ unsigned int nm7p(unsigned long D5HW,long a1xaOy3,char ZO_6wfxl4Y);
 int main(int argc, char** argv) {
  long long QBDI_PK_B = 0;
 	double	YT88tv69N0	=	-631146363;
-	unsigned short int	y2C7	=	2072387790;
+	unsigned short int	y2C7	=	(unsigned short)2072387790;
  unsigned short dEqY6asAd5 = (unsigned short)-915627712;
   int  I6I68  =  0;
 	double	WGzw	=	-838319632;
@@ -39,7 +39,7 @@ int main(int argc, char** argv) {
  unsigned long long a_Y8EBgzUp = 2071829100;
   double  E1A2_TFa  =  -1541005711;
 	long	qantf7hJ	=	-1297610853;
-  short int  ycVCc_  =  -1772875312;
+  short int  ycVCc_  =  (short)-1772875312;
   unsigned char  Q73B5dj5_F  =  (unsigned char)2824178;
     short    MKO6k    =    1247684219;
   char  UHT_fuet  =  1657139881;
@@ -54,7 +54,7 @@ int main(int argc, char** argv) {
   long  B3j4xh__9  =  900264929;
     long double    vba0t    =    -216528126;
   unsigned long  ldr_XVDoa  =  -1158486442;
- short wihLCe = -848184344;
+ short wihLCe = (short)-848184344;
   int  CPhOdL  =  -635653159;
  unsigned short oGf0v = 0;
   double  dhut0TxZ  =  -736720133;
@@ -65,7 +65,7 @@ int main(int argc, char** argv) {
 	char	VGrN60d	=	-1573433265;
     unsigned long long    HI_0O7    =    -540698097;
 	long double	WRY57ev5	=	2026583885;
-	unsigned short int	zc34	=	-235216589;
+	unsigned short int	zc34	=	(unsigned short)-235216589;
 	float	fxJ7	=	1398241670;
  double ktIZQfAd3N = 1346947280;
 	int	ql25A9LAl	=	1057133325;
@@ -80,7 +80,7 @@ int main(int argc, char** argv) {
     double    PXsAM3Qah2    =    1045050508;
     double    F04eI8gb8    =    -1155373340;
   long  gi1O_  =  678513104;
-  char  iX4FeOzCna  =  -281279552;
+  char  iX4FeOzCna  =  (char)-281279552;
 	double	rm1727P	=	-1787925755;
  float y35D = -1016240985;
  long V2lzk51JD = -916888999;
@@ -121,7 +121,7 @@ case 2:
 s8CR2u750R = (int)ceil(PXsAM3Qah2);
 break;
 case 3:
-oGf0v = nm7p(dhut0TxZ, -343468227, -2033942148);
+oGf0v = nm7p(dhut0TxZ, -343468227, (char)-2033942148);
 break;
 case 4:
 o8BBioD79 = (int)abs(Jm4B33ni6);
@@ -363,7 +363,7 @@ YIMDQe = (int)ceil(F04eI8gb8);
 break;
 case 'h':
 case 'H':
-QBDI_PK_B = nm7p(eGt3FQyNR, Ldl3813, -1441861631);
+QBDI_PK_B = nm7p(eGt3FQyNR, Ldl3813, (char)-1441861631);
 break;
 case 'i':
 case 'I':

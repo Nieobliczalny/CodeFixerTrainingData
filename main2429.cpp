@@ -21,7 +21,7 @@ short int    CHEtdyh(short    ZjVqZ0,unsigned int    ac6grz604A,short int    m8_
 int	yEq3q(unsigned short int	nxw98JR);
 
 int main(int argc, char** argv) {
-	short int	N57I2sFMu0	=	-957403662;
+	short int	N57I2sFMu0	=	(short)-957403662;
 	float	ve954n	=	2017791924;
  long double i00h1 = 415446984;
 	unsigned short int	wwCcMe_A	=	0;
@@ -56,7 +56,7 @@ int i = 0;
 while (i < 10)
 {
 i++;
-wwCcMe_A = hQ7QZgcJd0(N57I2sFMu0, PjX4, i00h1, -841944312);
+wwCcMe_A = hQ7QZgcJd0(N57I2sFMu0, PjX4, i00h1, (short)-841944312);
 }
 }
 for (int i = 0; i < 9; i++)
@@ -104,7 +104,7 @@ wwCcMe_A = (unsigned short int)(N57I2sFMu0 * (d__C8z));
 ve954n = (float)(N57I2sFMu0);
 N57I2sFMu0 = (int)abs(i00h1);
 
-N57I2sFMu0 = SMdB9rHU(1528903486, U3F8CDhOS, -381757483);
+N57I2sFMu0 = SMdB9rHU(1528903486, U3F8CDhOS, (short)-381757483);
 
 ve954n = i00h1 / U3F8CDhOS;
 N57I2sFMu0 = l9fWd((unsigned short)-2021892154, 25079069, ve954n, 69017862, -725137994);
@@ -118,7 +118,7 @@ case 'a':
 PjX4 = ve954n + 493888934;
 break;
 case 'b':
-N57I2sFMu0 = l9fWd(-184793803, wwCcMe_A, ve954n, 439841922, U3F8CDhOS);
+N57I2sFMu0 = l9fWd((unsigned short)-184793803, wwCcMe_A, ve954n, 439841922, U3F8CDhOS);
 break;
 case 'c':
 ve954n = (int)ceil(i00h1);
@@ -184,7 +184,7 @@ int k = 0;
 do
 {
 k++;
-ve954n = SMdB9rHU(ve954n, -1824881974, N57I2sFMu0);
+ve954n = SMdB9rHU(ve954n, (char)-1824881974, N57I2sFMu0);
 }
 while (k < 7);
 }
@@ -206,7 +206,7 @@ unsigned long long	hQ7QZgcJd0(char	GJ7N1,long long	j4_I1wu8,unsigned long	HdZdgN
 }
 
 unsigned short int	SMdB9rHU(long long	e5s_6LJa_,char	UBeRl95,short int	cWkq)	{
-	return	384206061;
+	return	(unsigned short)384206061;
 }
 
 int l9fWd(unsigned short int dyMg1bkIRj,short W8Ut8WS33d,long SH9Ksmh330,long IyNTBw1B,int dpC6) {

@@ -16,7 +16,7 @@ unsigned int	f__nb8Xv29(unsigned int	r_J52eRw,int	xT8P,unsigned long long	m38F3x
 
 int main() {
 	unsigned long long	em_A1QHTE2	=	1577990671;
-    short    ybDLBXud    =    1575874898;
+    short    ybDLBXud    =    (short)1575874898;
     long    kWT9    =    1134536384;
   long  gYTIDN8N  =  1986462511;
  unsigned char kGxizY52C = (unsigned char)618845002;
@@ -28,7 +28,7 @@ int main() {
   float  xOn8  =  -359984402;
 	unsigned long long	bXIE4qkM6	=	1174388990;
  short int sSR4492 = 0;
-    unsigned char    s73yC7    =    2096663303;
+    unsigned char    s73yC7    =    (unsigned char)2096663303;
   char  BAOl9  =  (char)1380860366;
  int m22a1I = -1284601482;
 	short int	JFcZ	=	1348259485;

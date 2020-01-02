@@ -11,7 +11,7 @@ int main()
 {
 	long long	L1oeF7IJ2	=	0;
 	short int	og75bD	=	0;
-	short int	xC12t	=	147389092;
+	short int	xC12t	=	(short)147389092;
     int    XJcRE2wbGQ    =    622684541;
     unsigned int    KYtV    =    0;
  int oEaF5C = 1463040157;

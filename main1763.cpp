@@ -20,7 +20,7 @@ unsigned int p_WnPCbx_()
 
 unsigned short  HTpW81()
 {
-  return  -1450563022;
+  return  (unsigned short)-1450563022;
 }
 
 int main() {

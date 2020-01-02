@@ -20,7 +20,7 @@ int main(void) {
     wD8L0366D    =    0;
     W0q1D    =    0;
     unsigned short int    D6c57g,    s8o7eqwtt,    IIMjtsQ6V1,    XR_Gqrb,    s4Bz,    Oz5sev,    aVX8eCW,    WWO25y,    tuX5tH,    d37RIW3Slj,    D5xhBmP1,    eL2K90y_Li;
-    D6c57g    =    -1180097038;
+    D6c57g    =    (unsigned short)-1180097038;
     s8o7eqwtt    =    (unsigned short)-1860879822;
     IIMjtsQ6V1    =    -895174669;
     XR_Gqrb    =    -492448326;
@@ -30,7 +30,7 @@ int main(void) {
     WWO25y    =    -741298095;
     tuX5tH    =    -1694481716;
     d37RIW3Slj    =    -1911342531;
-    D5xhBmP1    =    1404965725;
+    D5xhBmP1    =    (unsigned short)1404965725;
     eL2K90y_Li    =    (unsigned short)761604451;
 
 D6c57g /= 426812103;
@@ -40,7 +40,7 @@ if (((eL2K90y_Li >= 1543445211) && (wD8L0366D < 49452697)) || (tuX5tH > -2078356
 {
 if (eL2K90y_Li != -167966858)
 {
-aVX8eCW = XX35(-41426950, s4Bz);
+aVX8eCW = XX35((short)-41426950, s4Bz);
 }
 }
 else
@@ -185,7 +185,7 @@ case 'b':
 XR_Gqrb = D6c57g << 104746227;
 break;
 case 'c':
-Oz5sev = XX35(Oz5sev, 41224325);
+Oz5sev = XX35(Oz5sev, (unsigned char)41224325);
 break;
 case 'd':
 Oz5sev /= 2132930208;

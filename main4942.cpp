@@ -18,7 +18,7 @@ unsigned int qunFWs7FR() {
 }
 
 char	Q880704Qo(unsigned long long	VPN1g,unsigned short	Hmchy,unsigned long long	Q1w91i4lLK)	{
-	return	793243552;
+	return	(char)793243552;
 }
 
 int main(void) {
@@ -50,7 +50,7 @@ if ((Qqrj_8 > OhZi1V5s_J) && (dV_Ms3MFOd <= LS_7))
 {
 for (int j = 0; j < 10; j++)
 {
-cout << Q880704Qo(kz4CS, Rf05, 1242396483) << "ENOEPWQ" << Q880704Qo(kz4CS, -945246519, Cu92k) << "pzdP5T" << endl;
+cout << Q880704Qo(kz4CS, Rf05, 1242396483) << "ENOEPWQ" << Q880704Qo(kz4CS, (unsigned short)-945246519, Cu92k) << "pzdP5T" << endl;
 }
 }
 else
@@ -127,7 +127,7 @@ kz4CS = qunFWs7FR() * 510552584;
 }
 else
 {
-G5QM3a = Q880704Qo(G5QM3a, 9812587, rDX_3);
+G5QM3a = Q880704Qo(G5QM3a, (unsigned short)9812587, rDX_3);
 }
 }
 i++;
@@ -143,7 +143,7 @@ catch (int& errorCode)
 {
 yeMx6 = I3nM0n >> 339769484;
 }
-cout << Q880704Qo(G5QM3a, 1223310080, rDX_3) << Q880704Qo(G5QM3a, (unsigned short)-11113416, 249873881) << endl;
+cout << Q880704Qo(G5QM3a, (unsigned short)1223310080, rDX_3) << Q880704Qo(G5QM3a, (unsigned short)-11113416, 249873881) << endl;
 cout << "FO4em0a018" << qunFWs7FR() << Q880704Qo(1936092537, u0OfTq, rDX_3) << IVlo << "evYN" << endl;
 
 if (G5QM3a)
@@ -188,7 +188,7 @@ case 6:
 r48e_24isK = qunFWs7FR();
 break;
 case 7:
-I3nM0n = (xhIX_4s > dV_Ms3MFOd) ? u8Umt_7 : -1706706263;
+I3nM0n = (xhIX_4s > dV_Ms3MFOd) ? u8Umt_7 : (unsigned short)-1706706263;
 break;
 case 8:
 r48e_24isK = qunFWs7FR();

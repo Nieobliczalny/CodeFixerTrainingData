@@ -52,7 +52,7 @@ case 7:
 q9sy1qA = Q5hRqK7(q9sy1qA);
 break;
 case 8:
-Gs4TrQEdHW = j5Z31bR6d(towu3, 174622043);
+Gs4TrQEdHW = j5Z31bR6d(towu3, (unsigned short)174622043);
 break;
 case 9:
 j5eG ^= 1580536093;
@@ -98,7 +98,7 @@ case 1:
 bF4uQNBi = VnvX7_ * 1221392885;
 break;
 case 2:
-Rn8YIi = j5Z31bR6d(bu4R, -98440157);
+Rn8YIi = j5Z31bR6d(bu4R, (unsigned short)-98440157);
 break;
 case 3:
 roqTOkUe += bF4uQNBi;
@@ -158,7 +158,7 @@ long long Q5hRqK7(int W3QY7) {
 }
 
 short int  b60G7t6yy(unsigned char  hHR6c,unsigned char  KVt6X,long  P1EFD5)  {
-  return  -1773848033;
+  return  (short)-1773848033;
 }
 
 unsigned long	v2ODwTMB()	{

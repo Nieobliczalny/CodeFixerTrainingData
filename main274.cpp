@@ -24,7 +24,7 @@ int main(void)
     float    I7Pq2_xO;
     I7Pq2_xO    =    1714233169;
   unsigned short int  O3l9Op;
-  O3l9Op  =  747430545;
+  O3l9Op  =  (unsigned short)747430545;
     unsigned long    yWcJq7gW7;
     yWcJq7gW7    =    631340501;
 	long	VHc6;
@@ -36,7 +36,7 @@ int main(void)
  double GCSyTQNt53;
  GCSyTQNt53 = 1624690342;
     short int    CcauRT0;
-    CcauRT0    =    1298468331;
+    CcauRT0    =    (short)1298468331;
  unsigned int Wi9X;
  Wi9X = -1357513562;
   unsigned char  l69B99d;
@@ -52,7 +52,7 @@ int main(void)
  double FixmeBCQ_;
  FixmeBCQ_ = -1845372661;
     unsigned char    f_J1o;
-    f_J1o    =    -801761532;
+    f_J1o    =    (unsigned char)-801761532;
   unsigned long long  y52_U31S0k;
   y52_U31S0k  =  911260298;
     short int    IR9Vs16Gnm;
@@ -62,7 +62,7 @@ int main(void)
  unsigned long long PB_ngw;
  PB_ngw = -1532664461;
     unsigned char    A_Nh0x8tTd;
-    A_Nh0x8tTd    =    -712271843;
+    A_Nh0x8tTd    =    (unsigned char)-712271843;
 	long double	dxh4;
 	dxh4	=	573398445;
  long N6IIosZ;
@@ -74,7 +74,7 @@ int main(void)
     float    O_53;
     O_53    =    211933798;
     unsigned short int    xIdDnXzw0;
-    xIdDnXzw0    =    1882843618;
+    xIdDnXzw0    =    (unsigned short)1882843618;
 	float	PuSW13G;
 	PuSW13G	=	-934453137;
   unsigned int  DX_SuM;
@@ -84,7 +84,7 @@ int main(void)
  long ll808uh2h1;
  ll808uh2h1 = 1318338486;
 	short int	wzVkI2iNh;
-	wzVkI2iNh	=	-1280242929;
+	wzVkI2iNh	=	(short)-1280242929;
   unsigned int  bU87_;
   bU87_  =  -519542983;
   unsigned long  QFg5yfnGBt;
@@ -94,7 +94,7 @@ int main(void)
  unsigned short gSgoNztSJ;
  gSgoNztSJ = 177155547;
 	unsigned short	QpfmjoJ4;
-	QpfmjoJ4	=	1653766988;
+	QpfmjoJ4	=	(unsigned short)1653766988;
  unsigned short f3w3h0gRKQ;
  f3w3h0gRKQ = 986694936;
   char  bTte;
@@ -106,7 +106,7 @@ int main(void)
 	unsigned short int	f3r36Tek;
 	f3r36Tek	=	0;
     unsigned char    W1a95C_8R;
-    W1a95C_8R    =    1681521698;
+    W1a95C_8R    =    (unsigned char)1681521698;
 	double	tkn9lbl;
 	tkn9lbl	=	-889285884;
     unsigned char    Y9DMLBP;
@@ -231,7 +231,7 @@ case 5:
 N6IIosZ = (int)abs(wzVkI2iNh);
 break;
 case 6:
-l69B99d = (y52_U31S0k == 1602006804) ? Y9DMLBP : 1290183413;
+l69B99d = (y52_U31S0k == 1602006804) ? Y9DMLBP : (unsigned char)1290183413;
 break;
 default:
 O_53 = (int)ceil(I7Pq2_xO);

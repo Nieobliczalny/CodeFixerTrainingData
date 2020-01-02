@@ -46,7 +46,7 @@ int main() {
   long double  FT6zUVD2W1;
   FT6zUVD2W1  =  -1344058104;
     unsigned char    i0QdMHS1b_;
-    i0QdMHS1b_    =    -1985469796;
+    i0QdMHS1b_    =    (unsigned char)-1985469796;
 	unsigned short int	er_OV0;
 	er_OV0	=	0;
   char  ttZ3x48e;
@@ -62,7 +62,7 @@ int main() {
     long    t2gs;
     t2gs    =    -900231169;
     short    pAK0i;
-    pAK0i    =    -1627811635;
+    pAK0i    =    (short)-1627811635;
  short int s7k1;
  s7k1 = (short)2130419657;
     double    JY_D924Pj;
@@ -172,7 +172,7 @@ JY_D924Pj = (int)ceil(FT6zUVD2W1);
 break;
 case 'c':
 case 'C':
-s7k1 = U_mGs(1157883611, -1752080694);
+s7k1 = U_mGs((short)1157883611, -1752080694);
 break;
 case 'd':
 case 'D':
@@ -229,7 +229,7 @@ case 0:
 JY_D924Pj = (int)floor(FT6zUVD2W1);
 break;
 case 1:
-pAK0i = W5lq4Ut(-27697770, pAK0i);
+pAK0i = W5lq4Ut((short)-27697770, pAK0i);
 break;
 case 2:
 FT6zUVD2W1 = (int)floor(JY_D924Pj);

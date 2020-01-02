@@ -66,7 +66,7 @@ int k = 0;
 while (k < 4)
 {
 ++k;
-JMO_E2sG1_ = SX_V(966081747, Xe2e8bN, HbPS9uw1hx, 1131392580, n4UuM);
+JMO_E2sG1_ = SX_V(966081747, Xe2e8bN, HbPS9uw1hx, (unsigned char)1131392580, n4UuM);
 }
 }
 }
@@ -80,7 +80,7 @@ std::cout << h819 << std::endl;
 }
 else
 {
-F1ek = Uh62x_s(F1ek, -1426177155, gc9YhzLV5);
+F1ek = Uh62x_s(F1ek, (unsigned short)-1426177155, gc9YhzLV5);
 }
 }
 else if (j2c344El0)
@@ -101,7 +101,7 @@ iflJ = uf9LP1R(1543419814, HbPS9uw1hx);
 }
 else if (wll8Fgdz3)
 {
-DexXOt = SX_V(313620393, ql3b3UzX2, k5h7, 2122942962, (unsigned char)899638094);
+DexXOt = SX_V(313620393, ql3b3UzX2, k5h7, (unsigned char)2122942962, (unsigned char)899638094);
 }
 else if (wll8Fgdz3 > -1334790865)
 {
@@ -184,7 +184,7 @@ case 'b':
 yUacBe_E1 = (wll8Fgdz3 >= -849282893) ? uf9LP1R(-810094188, l4dI) : l4dI;
 break;
 case 'c':
-l4dI = Z26A7(-546743834, JMO_E2sG1_, j2c344El0, -1671293786, EylKR0_Bh);
+l4dI = Z26A7(-546743834, JMO_E2sG1_, j2c344El0, (unsigned char)-1671293786, EylKR0_Bh);
 break;
 case 'd':
 l4dI = JMO_E2sG1_ >> 156264715;
@@ -285,7 +285,7 @@ catch (int& errorCode)
 TW4_ = Uh62x_s(-1741201062, wll8Fgdz3, D9F2);
 }
 
-EylKR0_Bh = -993516179 / SX_V(-475010054, -282305612, 1906841174, JMO_E2sG1_, (unsigned char)-1667026035);
+EylKR0_Bh = -993516179 / SX_V(-475010054, (short)-282305612, 1906841174, JMO_E2sG1_, (unsigned char)-1667026035);
 for (int i = 0; i < 10; ++i)
 {
 switch (Hb4R1O)
@@ -296,7 +296,7 @@ F1ek ^= wll8Fgdz3;
 break;
 case 'b':
 case 'B':
-n4UuM = Uh62x_s(658968193, iflJ, 1295194526);
+n4UuM = Uh62x_s((unsigned short)658968193, iflJ, 1295194526);
 break;
 case 'c':
 case 'C':
@@ -312,7 +312,7 @@ Thp_I8z = Thp_I8z << 1877452315;
 break;
 case 'f':
 case 'F':
-ql3b3UzX2 = uf9LP1R(1341009070, -458375159);
+ql3b3UzX2 = uf9LP1R(1341009070, (unsigned short)-458375159);
 break;
 case 'g':
 case 'G':
@@ -341,7 +341,7 @@ ql3b3UzX2 = (long)(k5h7);
 
 std::cout << "Sc74Td" << h35D87bBI6 << uf9LP1R(h35D87bBI6, l4dI) << j2c344El0 << JMO_E2sG1_ << std::endl;
 
-std::cout << SX_V(194967767, 883862405, -73228630, (unsigned char)887054836, 1022253425) << "t_Ef" << Uh62x_s(h35D87bBI6, l4dI, -1712542616) << Uh62x_s(h35D87bBI6, -1891719546, 1729730791) << Z26A7(h35D87bBI6, l4dI, -901632999, wll8Fgdz3, n4UuM) << std::endl;
+std::cout << SX_V(194967767, (short)883862405, -73228630, (unsigned char)887054836, 1022253425) << "t_Ef" << Uh62x_s(h35D87bBI6, l4dI, -1712542616) << Uh62x_s(h35D87bBI6, -1891719546, 1729730791) << Z26A7(h35D87bBI6, l4dI, -901632999, wll8Fgdz3, n4UuM) << std::endl;
 
 {
 int i = 0;
@@ -362,7 +362,7 @@ DexXOt = SX_V(2031046606, L6_2_W, -1368961728, k5h7, MN4w3Om48u);
 }
 else
 {
-MN4w3Om48u = Uh62x_s(-1173910240, (unsigned short)-1980249867, 1581669021) >> 1118248287;
+MN4w3Om48u = Uh62x_s((unsigned short)-1173910240, (unsigned short)-1980249867, 1581669021) >> 1118248287;
 }
 }
 while (j >= 0);
@@ -382,7 +382,7 @@ do
 {
 try
 {
-yUacBe_E1 = Uh62x_s(j2c344El0, 110331312, 845519679) >> 774425166;
+yUacBe_E1 = Uh62x_s(j2c344El0, (unsigned short)110331312, 845519679) >> 774425166;
 }
 catch (int& errorCode)
 {
@@ -394,7 +394,7 @@ while (j < 3);
 }
 }
 }
-yUacBe_E1 = uf9LP1R(yUacBe_E1, 663525063);
+yUacBe_E1 = uf9LP1R(yUacBe_E1, (unsigned short)663525063);
 
 if (gc9YhzLV5 & 294248116)
 {
@@ -499,7 +499,7 @@ for (int j = 2; j >= 0; j--)
 switch (j2c344El0)
 {
 case 0:
-nr0_hHU89F = Z26A7(1930507435, TW4_, n4UuM, -1398540436, 1200279090);
+nr0_hHU89F = Z26A7(1930507435, TW4_, n4UuM, (unsigned char)-1398540436, 1200279090);
 break;
 case 1:
 l4dI = (int)abs(r89q0Lh4W);
@@ -530,7 +530,7 @@ while (j < 9)
 ++j;
 try
 {
-DexXOt = SX_V(j2c344El0, -1129810726, 138432276, EylKR0_Bh, gc9YhzLV5);
+DexXOt = SX_V(j2c344El0, (short)-1129810726, 138432276, EylKR0_Bh, gc9YhzLV5);
 }
 catch (int& errorCode)
 {
@@ -552,7 +552,7 @@ long	Uh62x_s(unsigned short	VZ_8oo3W5,unsigned short int	iUf8Xws2,int	kCUCwqI)	{
 }
 
 unsigned short int	Z26A7(long	b_Aa,unsigned long long	OgVJ5gDP6,short	a5iovIjGX,unsigned char	ArNd,long	i8QI)	{
-	return	104500102;
+	return	(unsigned short)104500102;
 }
 
 unsigned char	uf9LP1R(long long	SO0GFyTd,unsigned short	PJh7A50)	{

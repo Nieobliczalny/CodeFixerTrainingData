@@ -24,7 +24,7 @@ unsigned long  b8QW6Z(char  Pyc6N0LfB2,short  v_EfD83,int  tCmixA_u,unsigned lon
 int main()
 {
 	unsigned short	cgOH;
-	cgOH	=	2134070794;
+	cgOH	=	(unsigned short)2134070794;
   short  pj21R3NhS7;
   pj21R3NhS7  =  (short)1021306184;
  long long nCreO_b_e;
@@ -34,7 +34,7 @@ int main()
     unsigned int    u832RY3udx;
     u832RY3udx    =    1953727363;
     short int    w63k9it;
-    w63k9it    =    -1659281522;
+    w63k9it    =    (short)-1659281522;
 	short int	Yk_a;
 	Yk_a	=	(short)-324002842;
     int    Tys9;
@@ -54,7 +54,7 @@ int main()
  long long lOA6pHQM;
  lOA6pHQM = 1721250577;
     short    Q2C8z_xal7;
-    Q2C8z_xal7    =    209695290;
+    Q2C8z_xal7    =    (short)209695290;
 	int	v6wJ;
 	v6wJ	=	-1956029453;
   unsigned short  PrDXVez8M;
@@ -93,7 +93,7 @@ int k = 7;
 while (k >= 0)
 {
 --k;
-jCaKJ = b8QW6Z(jCaKJ, -1475670339, 134097894, cTdr4x_o);
+jCaKJ = b8QW6Z(jCaKJ, (short)-1475670339, 134097894, cTdr4x_o);
 }
 }
 }
@@ -104,7 +104,7 @@ int k = 5;
 while (k >= 0)
 {
 --k;
-Yk_a = b8QW6Z(1453366461, Yk_a, PrDXVez8M, cTdr4x_o) * Tys9;
+Yk_a = b8QW6Z((char)1453366461, Yk_a, PrDXVez8M, cTdr4x_o) * Tys9;
 }
 }
 }
@@ -154,7 +154,7 @@ nR6_Y9z = LkyrIK3a(s2QR3qv0kk, -1422631468);
 break;
 case 'h':
 case 'H':
-nR6_Y9z = LkyrIK3a(-1242022404, nR6_Y9z);
+nR6_Y9z = LkyrIK3a((unsigned char)-1242022404, nR6_Y9z);
 break;
 case 'i':
 case 'I':
@@ -324,7 +324,7 @@ cTdr4x_o = (int)abs(Tys9);
 
 if (Tys9 & -144762186)
 {
-cout << jCaKJ << LkyrIK3a(902932172, 1410477769) << endl;
+cout << jCaKJ << LkyrIK3a((unsigned char)902932172, 1410477769) << endl;
 }
 else if (Q2C8z_xal7 & 912481513)
 {
@@ -377,7 +377,7 @@ catch (int& errorCode)
 {
 nR6_Y9z = LkyrIK3a(cgOH, -441232425);
 }
-cout << "Y0384Kn" << LkyrIK3a(-76964542, Tys9) << v6wJ << "hCXp4I7j1" << endl;
+cout << "Y0384Kn" << LkyrIK3a((unsigned char)-76964542, Tys9) << v6wJ << "hCXp4I7j1" << endl;
 return 0;
 }
 

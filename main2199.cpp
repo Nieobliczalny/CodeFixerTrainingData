@@ -11,7 +11,7 @@ using namespace std;
 int main(int argc, char** argv) {
     int    Ufzvwm6    =    -1715973422;
 	long	z_Sq	=	-945809952;
-  short  q9b2  =  613279971;
+  short  q9b2  =  (short)613279971;
   unsigned short  j9_zbx5L  =  (unsigned short)-1422914061;
   long long  vJ_I  =  1243549020;
 	long double	R9n_6l	=	-319636116;
@@ -21,7 +21,7 @@ int main(int argc, char** argv) {
 	unsigned char	hZ__t38o_5	=	-1373746241;
     unsigned long    sR7pH123    =    617676381;
 	unsigned short	W90Mxc86H0	=	1978411979;
-    short int    XSNt    =    -1962614;
+    short int    XSNt    =    (short)-1962614;
 	unsigned short	Q9Bp5F3T6	=	0;
     char    zQ4f    =    (char)-1210549280;
     int    V8_dqZy79k    =    521765743;

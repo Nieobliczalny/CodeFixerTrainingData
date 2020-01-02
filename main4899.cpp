@@ -49,7 +49,7 @@ do
 j--;
 try
 {
-Fez8cill = (AG36t & -1739872525) ? 1503556795 : c4Rn8zW5f;
+Fez8cill = (AG36t & -1739872525) ? (char)1503556795 : c4Rn8zW5f;
 }
 catch (int& errorCode)
 {

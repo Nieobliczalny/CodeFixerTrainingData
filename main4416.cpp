@@ -8,7 +8,7 @@
 
 
 unsigned char X45fxU5H4(long oYEpBa3u,int OlTZ5Gd) {
- return 823843269;
+ return (unsigned char)823843269;
 }
 
 unsigned short  z30hNlv9m(unsigned long  ENhb,unsigned short  h0Hgh,short  K61aAz_,short int  l88V404_4E,int  Fsv3wJ1_7J)
@@ -28,7 +28,7 @@ long long M7xEq5(unsigned long NX0xy7,long long cEoS,int j1Yr0N7,unsigned char R
 int main(void)
 {
   unsigned short  tq_Dn,  kcKhq,  WivGeNd,  rdAeqp,  dkWtj3082b,  arX_m4,  jeBM,  nJu1YGBbg_,  E48cwyoBTc,  K66OZ3P8,  dbS8pJuh,  s_3L4S,  Ub5_9j2h,  WnGuzmB8fS,  As_1,  g300,  TC_J3,  rfIxHA,  LX6A3_vf_5,  a_HjMePcL2,  zgt8QJj90,  wJ0RASHKa8,  J2Hr6lKKf,  snAZU_v5,  eaw1M4_N,  jcGr,  a9K0x4,  TN0ds,  eLmoDVx69v,  nyy9o2m,  MeKiNXeMB,  x1zfvz,  T0Jn2d,  l96oMRL8,  w4gbr8v85,  UMk75pk,  EM0HM,  AwuqvJh2R,  EuPqz4,  k9aeuz5S_C,  TRsxf,  dPFVGCS5_;
-  tq_Dn  =  914503508;
+  tq_Dn  =  (unsigned short)914503508;
   kcKhq  =  (unsigned short)-1350729745;
   WivGeNd  =  -2051106820;
   rdAeqp  =  1368525144;
@@ -38,7 +38,7 @@ int main(void)
   nJu1YGBbg_  =  -1645969886;
   E48cwyoBTc  =  -140736807;
   K66OZ3P8  =  146511170;
-  dbS8pJuh  =  2056143184;
+  dbS8pJuh  =  (unsigned short)2056143184;
   s_3L4S  =  (unsigned short)140141261;
   Ub5_9j2h  =  -1875094143;
   WnGuzmB8fS  =  625418570;
@@ -48,7 +48,7 @@ int main(void)
   rfIxHA  =  1937085786;
   LX6A3_vf_5  =  412005041;
   a_HjMePcL2  =  2044974015;
-  zgt8QJj90  =  1815786136;
+  zgt8QJj90  =  (unsigned short)1815786136;
   wJ0RASHKa8  =  (unsigned short)511298554;
   J2Hr6lKKf  =  -1680842170;
   snAZU_v5  =  -1848821932;
@@ -58,7 +58,7 @@ int main(void)
   TN0ds  =  778055215;
   eLmoDVx69v  =  217449647;
   nyy9o2m  =  -153873142;
-  MeKiNXeMB  =  -850891358;
+  MeKiNXeMB  =  (unsigned short)-850891358;
   x1zfvz  =  (unsigned short)931051759;
   T0Jn2d  =  -780925071;
   l96oMRL8  =  -1061960115;
@@ -68,7 +68,7 @@ int main(void)
   AwuqvJh2R  =  -790781815;
   EuPqz4  =  926076099;
   k9aeuz5S_C  =  727093814;
-  TRsxf  =  1989992132;
+  TRsxf  =  (unsigned short)1989992132;
   dPFVGCS5_  =  (unsigned short)-721842459;
   long  GoaKX33y,  PYuS,  wlI8K2_e,  bmavSpXmJ_;
   GoaKX33y  =  0;
@@ -78,7 +78,7 @@ int main(void)
 
 if (wlI8K2_e >= -1949160282)
 {
-E48cwyoBTc = M7xEq5(-287140516, UMk75pk, -793305401, 1617676609, -1355333517);
+E48cwyoBTc = M7xEq5(-287140516, UMk75pk, -793305401, (unsigned char)1617676609, -1355333517);
 }
 try
 {
@@ -96,7 +96,7 @@ Ub5_9j2h += jcGr;
 }
 
 EuPqz4 = (unsigned short)(AwuqvJh2R);
-PYuS = liw9n(AwuqvJh2R, -1756801841, a_HjMePcL2, (unsigned char)-963924322);
+PYuS = liw9n(AwuqvJh2R, (char)-1756801841, a_HjMePcL2, (unsigned char)-963924322);
 if (l96oMRL8 == -1030197044)
 {
 {
@@ -114,7 +114,7 @@ for (int j = 3; j >= 0; --j)
 {
 if ((wJ0RASHKa8 < 1409875788) && (dPFVGCS5_ < T0Jn2d))
 {
-PYuS = liw9n(-1489563219, (char)-1326436348, -2076662393, J2Hr6lKKf);
+PYuS = liw9n((unsigned short)-1489563219, (char)-1326436348, -2076662393, J2Hr6lKKf);
 }
 else if (a9K0x4 & TC_J3)
 {
@@ -130,7 +130,7 @@ J2Hr6lKKf &= 73212715;
 }
 else if (eLmoDVx69v != As_1)
 {
-PYuS = liw9n(566686, a_HjMePcL2, (short)835807214, -1601388218);
+PYuS = liw9n((unsigned short)566686, a_HjMePcL2, (short)835807214, -1601388218);
 }
 else if (AwuqvJh2R <= PYuS)
 {
@@ -181,7 +181,7 @@ while (j >= 0)
 --j;
 if (dPFVGCS5_ < jcGr)
 {
-As_1 = z30hNlv9m(As_1, -1440012499, (short)396449704, 104193173, eaw1M4_N);
+As_1 = z30hNlv9m(As_1, (unsigned short)-1440012499, (short)396449704, 104193173, eaw1M4_N);
 }
 else if ((l96oMRL8 & 879617021) && (dbS8pJuh <= -325408125))
 {
@@ -217,7 +217,7 @@ for (int i = 6; i >= 0; --i)
 {
 snAZU_v5--;
 }
-std::cout << z30hNlv9m(As_1, s_3L4S, 1767974918, zgt8QJj90, -1125387840) << "P_KYpBa" << std::endl;
+std::cout << z30hNlv9m(As_1, s_3L4S, (short)1767974918, zgt8QJj90, -1125387840) << "P_KYpBa" << std::endl;
 
 TN0ds = WivGeNd ^ 1958539070;
 
@@ -243,7 +243,7 @@ EM0HM = nJu1YGBbg_ + dbS8pJuh;
 ++i;
 }
 }
-WivGeNd = M7xEq5(WivGeNd, 325962368, arX_m4, 100676547, (short)-1432253503);
+WivGeNd = M7xEq5(WivGeNd, 325962368, arX_m4, (unsigned char)100676547, (short)-1432253503);
 w4gbr8v85 = M7xEq5(w4gbr8v85, -769258322, -1534951630, 1400759704, 545465006);
 
 return 0;

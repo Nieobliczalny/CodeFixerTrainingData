@@ -16,7 +16,7 @@ int main(void)
 {
   int  fvlLYu6eP  =  0;
     unsigned long    V4QZb3    =    550791758;
-	unsigned short int	iwLFM	=	1074447015;
+	unsigned short int	iwLFM	=	(unsigned short)1074447015;
  unsigned long long Fv4u_ = -1652960880;
   short int  GHcr1M  =  (short)-671688748;
   long long  Gl83ljL  =  -2078734527;
@@ -28,7 +28,7 @@ int main(void)
  double J1Ze = 417961120;
     long double    nkB0HST0L    =    1787035331;
 	char	A_7Q22S	=	0;
-    unsigned char    Ut73ztAze    =    924937568;
+    unsigned char    Ut73ztAze    =    (unsigned char)924937568;
 	int	S0c08R	=	2065644151;
   unsigned long  OnhzZt  =  -67080311;
 	unsigned int	uL4O8146S	=	547804522;
@@ -42,7 +42,7 @@ int main(void)
     long    kzb12    =    -26198894;
 	long long	ad23	=	1558336213;
  long double p8m2 = -500893264;
-    unsigned short    fqw_5    =    210464022;
+    unsigned short    fqw_5    =    (unsigned short)210464022;
     long    h9gxrIn7dB    =    -1523391889;
     short int    FsaF58MD    =    (short)-1540716498;
  float e54z = 1389571437;
@@ -55,7 +55,7 @@ int main(void)
   unsigned int  InZ_tYzC8c  =  -797945201;
  double K0tM687 = 354781776;
 	unsigned int	UV51	=	0;
-	unsigned char	PifOZH	=	870280;
+	unsigned char	PifOZH	=	(unsigned char)870280;
  unsigned short oY62Tn5W = (unsigned short)462358439;
 
 for (int i = 5; i >= 0; i--)
@@ -208,7 +208,7 @@ else if (J1Ze <= -1155816016)
 {
 try
 {
-H_KMt6J3l = (fvlLYu6eP) ? TKEio : -1749204515;
+H_KMt6J3l = (fvlLYu6eP) ? TKEio : (unsigned short)-1749204515;
 }
 catch (int& errorCode)
 {

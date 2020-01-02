@@ -16,7 +16,7 @@ int main(int argc, char** argv)
   long double  R5M9o51;
   R5M9o51  =  -365351470;
  char ew454g;
- ew454g = 694289159;
+ ew454g = (char)694289159;
  int G2_5kTk287;
  G2_5kTk287 = 1592253505;
     float    L163;
@@ -42,7 +42,7 @@ int main(int argc, char** argv)
 	long double	L1T_;
 	L1T_	=	-550746305;
     unsigned short    XsRAi52orD;
-    XsRAi52orD    =    -1368782979;
+    XsRAi52orD    =    (unsigned short)-1368782979;
     long long    Hks4;
     Hks4    =    136816659;
   long  nJW8Wo;
@@ -52,7 +52,7 @@ int main(int argc, char** argv)
  unsigned char kAca1;
  kAca1 = (unsigned char)-83218561;
   short int  mufT2;
-  mufT2  =  -628085690;
+  mufT2  =  (short)-628085690;
  unsigned char ZXN9_jKw;
  ZXN9_jKw = -1236834965;
     float    ut6h;
@@ -72,7 +72,7 @@ int main(int argc, char** argv)
   long long  Rj508_C;
   Rj508_C  =  432206428;
  unsigned char lT3K;
- lT3K = 2117419884;
+ lT3K = (unsigned char)2117419884;
     short    jmn1;
     jmn1    =    0;
   unsigned long  tCoJvwL3T;
@@ -82,7 +82,7 @@ int main(int argc, char** argv)
 	unsigned short int	nfYeV5Cg;
 	nfYeV5Cg	=	(unsigned short)2019926295;
  unsigned short int CAfHW676;
- CAfHW676 = -1492588178;
+ CAfHW676 = (unsigned short)-1492588178;
   unsigned char  B4qI;
   B4qI  =  726371525;
 	long	Dj5kGkt;
@@ -92,7 +92,7 @@ int main(int argc, char** argv)
 	unsigned int	KdEQ4rcUH5;
 	KdEQ4rcUH5	=	1449703352;
     short    Se6YK4fJ76;
-    Se6YK4fJ76    =    -1682401181;
+    Se6YK4fJ76    =    (short)-1682401181;
  short int GJ6kga;
  GJ6kga = (short)352184402;
   unsigned short  VM4tQ;
@@ -131,7 +131,7 @@ kSDlpoLy = (int)ceil(tA74);
 }
 else if (VM4tQ < -1403405564)
 {
-std::cout << tSCRp4_ << KoEj(mufT2, 1231826641, 948575496) << "Utm5" << "Y7z2W" << FUy6 << std::endl;
+std::cout << tSCRp4_ << KoEj(mufT2, 1231826641, (unsigned char)948575496) << "Utm5" << "Y7z2W" << FUy6 << std::endl;
 }
 else if (jmn1 & qNV7MS)
 {
@@ -224,7 +224,7 @@ case 'A':
 L163 = (int)floor(gefpQH1dRj);
 break;
 default:
-jmn1 = KoEj(-161395254, 571973836, -1201244426);
+jmn1 = KoEj(-161395254, 571973836, (unsigned char)-1201244426);
 break;
 }
 }
@@ -285,7 +285,7 @@ int k = 5;
 do
 {
 k--;
-Ljq034b = KoEj(BlGNL64, 1074335217, 698832265);
+Ljq034b = KoEj(BlGNL64, 1074335217, (unsigned char)698832265);
 }
 while (k >= 0);
 }

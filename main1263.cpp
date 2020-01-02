@@ -21,7 +21,7 @@ long    KBqzv(unsigned long    vN33Y4p4);
 int main()
 {
  unsigned short int z23W5NT3g2, HEZBR, r054_fH8N, A_q0YEUL, Gy25, j885, e9_Cpm_4n4, Pi7W6, PZtB4Z, XWgt, RjcxW, EeA_37SSn7, gR_wslI, mSr3j6wb8, Rpg9, h6uEe9nu, umM74lP, O2ZaZdXp, TQ_U__A6d, owfm7u008f, W7_86_SV, cC6dRTVUH1, iTvV, le13FnqY, vD0O, ANnHwC6FB6, y8b34oe, S66U3vR, K_W828Aw9, qd9Si_, E02tHQ36, EWZQZ_YOa, lVa1, yX0n6, y7yZdoF1H, B466J, ghr5, Jr8PZw, eh_g, F_3aeQg7, lTh_dO6, aoa27Ao9f4, N2xHK3ydN, AyY7, Rj0o7kdruc, n8oY, y9r4A, A8PGdjDWg0, T747H_tXZ0, rC1By0Q, d92UeB_fdD, w09V_l7, HwEwh7RL, Taoa36, mVD2AJZH5;
- z23W5NT3g2 = -720421552;
+ z23W5NT3g2 = (unsigned short)-720421552;
  HEZBR = (unsigned short)-2118247335;
  r054_fH8N = -1965033894;
  A_q0YEUL = 232629961;
@@ -31,7 +31,7 @@ int main()
  Pi7W6 = -2024901123;
  PZtB4Z = 1216246903;
  XWgt = -1722603867;
- RjcxW = -701616175;
+ RjcxW = (unsigned short)-701616175;
  EeA_37SSn7 = (unsigned short)1615153093;
  gR_wslI = 86673499;
  mSr3j6wb8 = -1221675835;
@@ -41,7 +41,7 @@ int main()
  O2ZaZdXp = -1685688513;
  TQ_U__A6d = -1357701171;
  owfm7u008f = -1244326728;
- W7_86_SV = 231229966;
+ W7_86_SV = (unsigned short)231229966;
  cC6dRTVUH1 = (unsigned short)53361747;
  iTvV = 1663260594;
  le13FnqY = -2117711127;
@@ -51,7 +51,7 @@ int main()
  S66U3vR = -626099581;
  K_W828Aw9 = 1996279813;
  qd9Si_ = 668164761;
- E02tHQ36 = -1927654509;
+ E02tHQ36 = (unsigned short)-1927654509;
  EWZQZ_YOa = (unsigned short)-1029480401;
  lVa1 = 575766363;
  yX0n6 = -1540139081;
@@ -61,7 +61,7 @@ int main()
  Jr8PZw = -1728776128;
  eh_g = -802191269;
  F_3aeQg7 = -936440368;
- lTh_dO6 = -1434297192;
+ lTh_dO6 = (unsigned short)-1434297192;
  aoa27Ao9f4 = (unsigned short)1830573474;
  N2xHK3ydN = 369177018;
  AyY7 = -436219493;
@@ -71,7 +71,7 @@ int main()
  A8PGdjDWg0 = 255212206;
  T747H_tXZ0 = -1804266307;
  rC1By0Q = 415279185;
- d92UeB_fdD = 664566199;
+ d92UeB_fdD = (unsigned short)664566199;
  w09V_l7 = (unsigned short)1116489376;
  HwEwh7RL = -846776431;
  Taoa36 = -449449808;
@@ -256,7 +256,7 @@ case 4:
 AyY7 = eh_g * Jr8PZw;
 break;
 case 5:
-qd9Si_ = (n8oY) ? -1149491404 : y7yZdoF1H;
+qd9Si_ = (n8oY) ? (unsigned short)-1149491404 : y7yZdoF1H;
 break;
 case 6:
 Pi7W6 = sEQ4TKG7u();

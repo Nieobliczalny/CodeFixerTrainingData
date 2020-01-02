@@ -123,7 +123,7 @@ case 0:
 s614U0N8if = F_xfG5PV + 607504950;
 break;
 case 1:
-adVKj = W3b8(-1899719964, OQBQSQ, (unsigned short)-1924882790);
+adVKj = W3b8((unsigned short)-1899719964, OQBQSQ, (unsigned short)-1924882790);
 break;
 case 2:
 s614U0N8if = W3b8(-1343044580, W034RkP047, 174783001);
@@ -189,7 +189,7 @@ case 'e':
 OQBQSQ = (int)abs(W034RkP047);
 break;
 case 'f':
-OKF3_7 = W3b8(-1507011110, bv_U09IZ, (unsigned short)-457410372);
+OKF3_7 = W3b8((unsigned short)-1507011110, bv_U09IZ, (unsigned short)-457410372);
 break;
 case 'g':
 UF6_Ibe47 = V_2U() - 220862414;
@@ -224,7 +224,7 @@ case 4:
 adVKj = kh4TC3lH7_(adVKj);
 break;
 default:
-adVKj = W3b8(-1958184956, -1871559248, w37CZw);
+adVKj = W3b8((unsigned short)-1958184956, -1871559248, w37CZw);
 break;
 }
 std::cout << "P_4zXV__I" << "V9dU" << V_2U() << UF6_Ibe47 << rhrf3t1wxH << std::endl;
@@ -284,7 +284,7 @@ bwF6Ti9G = M464YyL();
 }
 if (M5_4)
 {
-std::cout << W3b8(-713481664, -1637728409, (unsigned short)221159093) << "Dsa5TfNA" << W3b8(bwF6Ti9G, -1096743710, -1053768991) << OQBQSQ << V_2U() << std::endl;
+std::cout << W3b8((unsigned short)-713481664, -1637728409, (unsigned short)221159093) << "Dsa5TfNA" << W3b8(bwF6Ti9G, -1096743710, -1053768991) << OQBQSQ << V_2U() << std::endl;
 }
 OQBQSQ = (char)(adVKj * OQBQSQ);
 std::cout << "Rq74xh" << adVKj << bv_U09IZ << std::endl;
@@ -331,7 +331,7 @@ switch (adVKj)
 {
 case 'a':
 case 'A':
-OKF3_7 = W3b8(-267494424, k81HyrQ1qk, Io68qnW);
+OKF3_7 = W3b8((unsigned short)-267494424, k81HyrQ1qk, Io68qnW);
 break;
 case 'b':
 case 'B':
@@ -425,7 +425,7 @@ case 1:
 OKF3_7 |= 1457766563;
 break;
 case 2:
-adVKj = W3b8(-1792328403, F_xfG5PV, (unsigned short)-6241550);
+adVKj = W3b8((unsigned short)-1792328403, F_xfG5PV, (unsigned short)-6241550);
 break;
 case 3:
 bwF6Ti9G = V_2U() % M5_4;
@@ -528,7 +528,7 @@ long	W3b8(unsigned short	fx36l_I,unsigned long long	Lei6s1,unsigned short int	Wj
 }
 
 short M464YyL() {
- return -737090174;
+ return (short)-737090174;
 }
 
 short    kh4TC3lH7_(long long    FuD6LMg)

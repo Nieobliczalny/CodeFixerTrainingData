@@ -103,7 +103,7 @@ int main(void)
   Z8c2d  =  0;
   GsK1au  =  0;
 
-GsK1au = gvUx7(RzaZp4, 685504412, o18o, O9g7Qd, swN2tACdn);
+GsK1au = gvUx7(RzaZp4, (short)685504412, o18o, O9g7Qd, swN2tACdn);
 
 if (bqShGDU1tw < rmBLkbRiwQ)
 {
@@ -129,7 +129,7 @@ Z8c2d = (int)abs(GsK1au);
 break;
 case 'c':
 case 'C':
-Z8c2d = gvUx7(1120888294, ovD7IP65, 630009314, W8b427J, tiOky3_5p);
+Z8c2d = gvUx7((unsigned short)1120888294, ovD7IP65, 630009314, W8b427J, tiOky3_5p);
 break;
 case 'd':
 case 'D':
@@ -164,7 +164,7 @@ case 'b':
 GsK1au = (int)abs(Z8c2d);
 break;
 case 'c':
-Z8c2d = gvUx7(770012032, xfgoNi5, yj9ayD55fF, -428164377, BHk7);
+Z8c2d = gvUx7((unsigned short)770012032, xfgoNi5, yj9ayD55fF, -428164377, BHk7);
 break;
 case 'd':
 Y7Hc *= Kcpa9;
@@ -176,7 +176,7 @@ case 'f':
 GsK1au = gvUx7(2145767100, l5__PLwVmM, 669574500, GsK1au, 1105609848);
 break;
 case 'g':
-Z8c2d = gvUx7(1714372767, BJUxt8XY5, 2115400942, PmBNh1_5, KNX_19_);
+Z8c2d = gvUx7((unsigned short)1714372767, BJUxt8XY5, 2115400942, PmBNh1_5, KNX_19_);
 break;
 case 'h':
 W8b427J += fircvW;
@@ -189,7 +189,7 @@ while (i >= 0)
 {
 for (int j = 10; j >= 0; j--)
 {
-std::cout << y107hldZ << s830K << yj9ayD55fF << "x090" << gvUx7(-1621009363, BJUxt8XY5, 616171001, PmBNh1_5, (unsigned char)696943244) << std::endl;
+std::cout << y107hldZ << s830K << yj9ayD55fF << "x090" << gvUx7((unsigned short)-1621009363, BJUxt8XY5, 616171001, PmBNh1_5, (unsigned char)696943244) << std::endl;
 }
 --i;
 }
@@ -203,7 +203,7 @@ while (j < 9)
 {
 try
 {
-GsK1au = gvUx7(k755V, -987971797, 272076558, -1172402092, (unsigned char)-284211304);
+GsK1au = gvUx7(k755V, (short)-987971797, 272076558, -1172402092, (unsigned char)-284211304);
 }
 catch (int& errorCode)
 {
@@ -227,7 +227,7 @@ osFM9935C++;
 switch (E1a_al53)
 {
 case 0:
-GsK1au = gvUx7(1791472195, ovD7IP65, -1315020390, gG37p8, (unsigned char)836691225);
+GsK1au = gvUx7((unsigned short)1791472195, ovD7IP65, -1315020390, gG37p8, (unsigned char)836691225);
 break;
 case 1:
 GsK1au = gvUx7(-2082349258, -2131166961, -12218154, -1847489161, x836);
@@ -246,7 +246,7 @@ break;
 std::cout << Tp7yF / GsK1au << std::endl;
 
 BHk7 = (unsigned long long)(XNaf9Q);
-Z8c2d = gvUx7(687388532, (short)-633552583, -813309583, 1729249478, 1492578760);
+Z8c2d = gvUx7((unsigned short)687388532, (short)-633552583, -813309583, 1729249478, 1492578760);
 
 GsK1au = gvUx7(1081138630, oUCb0MD, tiOky3_5p, l5__PLwVmM, xfgoNi5);
 
@@ -264,7 +264,7 @@ fircvW >>= tGVJ_W;
 break;
 case 'c':
 case 'C':
-GsK1au = gvUx7(C3bmjmkpbg, 100255993, chSarM, -699290849, (unsigned char)1188993054);
+GsK1au = gvUx7(C3bmjmkpbg, (short)100255993, chSarM, -699290849, (unsigned char)1188993054);
 break;
 case 'd':
 case 'D':
@@ -288,7 +288,7 @@ GsK1au = (int)abs(Z8c2d);
 break;
 case 'i':
 case 'I':
-GsK1au = gvUx7(1092090023, (short)-1432537918, -623910590, 2114314881, 1026851231);
+GsK1au = gvUx7((unsigned short)1092090023, (short)-1432537918, -623910590, 2114314881, 1026851231);
 break;
 default:
 GsK1au = gvUx7(xHini, -1936713773, chSarM, 1073908397, 201096748);
@@ -300,7 +300,7 @@ for (int i = 0; i < 3; i++)
 switch (Kcpa9)
 {
 case 'a':
-GsK1au = gvUx7(Tp7yF, txw8AY, 305194412, 710776372, 386914552);
+GsK1au = gvUx7(Tp7yF, txw8AY, 305194412, 710776372, (unsigned char)386914552);
 break;
 case 'b':
 Pb6hHOF *= 687531384;
@@ -312,7 +312,7 @@ case 'd':
 XEWCHGh <<= Bt5TT_O_yg;
 break;
 case 'e':
-GsK1au = gvUx7(YVdM5, 1875504606, Mz3m_cM, 1914581118, -1861591440);
+GsK1au = gvUx7(YVdM5, (short)1875504606, Mz3m_cM, 1914581118, -1861591440);
 break;
 case 'f':
 Z8c2d = gvUx7(eFcxTjQT, 1949072578, B1i2fG1, Sn0r2, 1871529426);

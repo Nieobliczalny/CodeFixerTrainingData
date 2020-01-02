@@ -191,7 +191,7 @@ case 'b':
 L2uC69J_p = (i6_u & OTdcj9e) ? e_8BNoao4 : x22uSm4;
 break;
 case 'c':
-DvZrLqEju6 = HqWkbh(-211946990, -784145780, Hf4MVkYQQB);
+DvZrLqEju6 = HqWkbh(-211946990, (unsigned short)-784145780, Hf4MVkYQQB);
 break;
 case 'd':
 DovO_0n = p6VY6Xl - cnBQ;
@@ -244,7 +244,7 @@ std::cout << "w6FXF" << HqWkbh(i099iZhw8, OV_gRxaFl, 791589822) << Gp3qbvo3 << s
 }
 else if (((xA3467WXa == U6e6Hxm8d6) || (y_TW < 1465536899)) || (i099iZhw8))
 {
-std::cout << p6VY6Xl << HqWkbh(i099iZhw8, 1152683278, 1507578077) << g920i << std::endl;
+std::cout << p6VY6Xl << HqWkbh(i099iZhw8, (unsigned short)1152683278, 1507578077) << g920i << std::endl;
 }
 else
 {
@@ -281,6 +281,6 @@ long long    KuL8()
 
 unsigned short int  LUnoK3()
 {
-  return  -1070907106;
+  return  (unsigned short)-1070907106;
 }
 

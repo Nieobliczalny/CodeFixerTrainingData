@@ -19,7 +19,7 @@ unsigned long long    GEcCT03_MY(unsigned long long    f3x0r,unsigned char    d3
 
 short int	y7glRe_(char	G71Wul,unsigned short	n6fD8E,unsigned int	fJq_2,unsigned short	K6vch3B_3V,unsigned short	g9d7IV)
 {
-	return	536731387;
+	return	(short)536731387;
 }
 
 char  u3VT(short  bRNn25v_3,int  hdD70SARab,unsigned short int  RzfO)
@@ -29,7 +29,7 @@ char  u3VT(short  bRNn25v_3,int  hdD70SARab,unsigned short int  RzfO)
 
 short	p_988fj4(long	itfc6,long	PPBfh2)
 {
-	return	-1540784075;
+	return	(short)-1540784075;
 }
 
 int main(int argc, char** argv)
@@ -182,7 +182,7 @@ int k = 5;
 do
 {
 --k;
-gd3nXd = u3VT(uW33oXfS, N7Ji7tcfN8, 2039247922);
+gd3nXd = u3VT(uW33oXfS, N7Ji7tcfN8, (unsigned short)2039247922);
 }
 while (k >= 0);
 }
@@ -197,7 +197,7 @@ bP4xfh95D6 = (int)floor(U8g1n);
 break;
 case 'b':
 case 'B':
-N7Ji7tcfN8 = y7glRe_(N7Ji7tcfN8, 1210092455, zbp9K, kFj1, (unsigned short)-74633680);
+N7Ji7tcfN8 = y7glRe_(N7Ji7tcfN8, (unsigned short)1210092455, zbp9K, kFj1, (unsigned short)-74633680);
 break;
 default:
 CHKc_ = p_988fj4(CHKc_, zbp9K);
@@ -276,7 +276,7 @@ if (N7Ji7tcfN8 > 65456576)
 {
 if ((EEdx9DE == -1134554110) || ((sd90EqY >= 39406382) && (IRE_waP > 1936826611)))
 {
-h0J3pWG = GEcCT03_MY(h0J3pWG, -1773095764, CHKc_, EAbo);
+h0J3pWG = GEcCT03_MY(h0J3pWG, (unsigned char)-1773095764, CHKc_, EAbo);
 }
 else
 {
@@ -294,7 +294,7 @@ case 1:
 iRUC = qOB30j96 - 1969044432;
 break;
 case 2:
-gd3nXd = u3VT(355495218, l_5TO5hdR, TL0UC50gc);
+gd3nXd = u3VT((short)355495218, l_5TO5hdR, TL0UC50gc);
 break;
 case 3:
 l_O4Dp3K = (int)abs(bP4xfh95D6);
@@ -372,7 +372,7 @@ case 5:
 CHKc_ *= 1376722630;
 break;
 case 6:
-qOB30j96 = y7glRe_(-1462178226, ku6TNQElHv, -118240674, aoXnS, (unsigned short)-168321469);
+qOB30j96 = y7glRe_((char)-1462178226, ku6TNQElHv, -118240674, aoXnS, (unsigned short)-168321469);
 break;
 case 7:
 aoXnS = X3Uq0 * 1879259717;
@@ -427,7 +427,7 @@ case 'd':
 qOB30j96 = b5pnJ(1977192750, IRE_waP);
 break;
 case 'e':
-nxpf_7tZr = GEcCT03_MY(nxpf_7tZr, 388141621, -1768960745, -36082352);
+nxpf_7tZr = GEcCT03_MY(nxpf_7tZr, (unsigned char)388141621, -1768960745, -36082352);
 break;
 case 'f':
 bP4xfh95D6 = (int)floor(v1r3cTLEjA);
@@ -457,7 +457,7 @@ case 'c':
 l_O4Dp3K = (int)ceil(FJLhjA97co);
 break;
 case 'd':
-AK0t = u3VT(-1175960220, Un5OE, (unsigned short)1425476754);
+AK0t = u3VT((short)-1175960220, Un5OE, (unsigned short)1425476754);
 break;
 }
 }

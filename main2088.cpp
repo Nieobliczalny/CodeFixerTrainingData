@@ -10,7 +10,7 @@
 
 short int    vN4SZ()
 {
-    return    -897236795;
+    return    (short)-897236795;
 }
 
 long  famB1653(unsigned long  Y_iyBwn_p,unsigned short int  BS300Y9,unsigned long  x_Hvu,short  tMX30s)
@@ -33,7 +33,7 @@ int i = 5;
 while (i >= 0)
 {
 i--;
-std::cout << eo4Mj << TDB332O << famB1653(lC85Q877E1, 703662863, z4WAlL2g, -1872351643) << Dm80zai1 << std::endl;
+std::cout << eo4Mj << TDB332O << famB1653(lC85Q877E1, (unsigned short)703662863, z4WAlL2g, -1872351643) << Dm80zai1 << std::endl;
 }
 }
 
@@ -69,7 +69,7 @@ case 2:
 NzP5W0mfF = (int)abs(La0lmV_t);
 break;
 case 3:
-seWCAAS = LV72Q(zGQah2V6, iTK9HR5d, eo4Mj, 1293092933, o2907_T);
+seWCAAS = LV72Q(zGQah2V6, iTK9HR5d, eo4Mj, (short)1293092933, o2907_T);
 break;
 case 4:
 NzP5W0mfF = (int)abs(A_T1sj);
@@ -91,7 +91,7 @@ if ((NzP5W0mfF <= iTK9HR5d) || (eo4Mj == 642896436))
 {
 try
 {
-TDB332O = famB1653(TDB332O, Dm80zai1, -2024218053, 1911957825);
+TDB332O = famB1653(TDB332O, Dm80zai1, -2024218053, (short)1911957825);
 }
 catch (int& errorCode)
 {

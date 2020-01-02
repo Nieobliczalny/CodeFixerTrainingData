@@ -15,7 +15,7 @@ int main(void)
   double  jE40HG_Z  =  -632959115;
     long double    xFjK41    =    -825552249;
  long i99h3AOq = 538169577;
- unsigned short int x_1MVPS3qn = -544514862;
+ unsigned short int x_1MVPS3qn = (unsigned short)-544514862;
  unsigned short int g93bpNDG = (unsigned short)859477038;
 	unsigned long	hX1o	=	1200486864;
 	char	EGcI	=	481646745;
@@ -25,7 +25,7 @@ int main(void)
  long s94Jo2p0D = 622798692;
     double    V93J63i    =    634651396;
 	long	L3g0akLzk	=	-1309023193;
- unsigned short P26V4 = 91313413;
+ unsigned short P26V4 = (unsigned short)91313413;
  unsigned int wq0icq = -1745249933;
  short jEjrA0b = 0;
   unsigned char  pIpY6E1SR  =  (unsigned char)212457838;
@@ -37,7 +37,7 @@ int main(void)
 	unsigned char	f_cb	=	-90765643;
 	unsigned long long	pER1	=	1022607793;
 	unsigned long	zIxpivQ	=	-336625847;
-  short int  F98M  =  1393450051;
+  short int  F98M  =  (short)1393450051;
   short  Xf80Xa8  =  (short)-1372639268;
 	float	BBade06f	=	58210961;
     int    Ow39Ap6    =    343458320;
@@ -49,7 +49,7 @@ int main(void)
 	long double	ttmxY	=	-151417334;
 	unsigned long long	a_WC645	=	-485410101;
  int je3_c9Kj = -1730424555;
- short int VmxHKZ6s = 1808108974;
+ short int VmxHKZ6s = (short)1808108974;
     float    uIgT7YO8O_    =    -881520687;
  float ey5Y8 = 1185613696;
     char    amM_3K    =    (char)-1779400640;
@@ -61,7 +61,7 @@ int main(void)
  long long kb22Ij9 = 1499140308;
 	long	Q3keJ8Yz	=	1116937578;
  long long xhWr9rlE = -910324023;
-  unsigned short  vfAzxq9dLw  =  -563807623;
+  unsigned short  vfAzxq9dLw  =  (unsigned short)-563807623;
 	unsigned long long	koYkn88lo	=	1576402476;
   int  Y3c90b4J3  =  2135485753;
   unsigned char  dSy9  =  (unsigned char)-603051425;
@@ -74,7 +74,7 @@ int main(void)
   unsigned long long  ae2F00  =  491549769;
 	unsigned int	mS0zG	=	1316982245;
  unsigned int CyXT_5Jjo = -1995942102;
-	unsigned short	Q1_DI1f__7	=	1954856200;
+	unsigned short	Q1_DI1f__7	=	(unsigned short)1954856200;
 	char	N1THQ94	=	(char)1944066162;
  unsigned short sjJ0HEC = 2029996601;
     unsigned char    aJ9O    =    -1515528750;

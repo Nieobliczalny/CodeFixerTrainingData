@@ -18,7 +18,7 @@ short  sqfm()  {
 
 unsigned short ldAlE8_()
 {
- return -490409048;
+ return (unsigned short)-490409048;
 }
 
 unsigned int h5qa(unsigned short int nA5T) {
@@ -192,7 +192,7 @@ if (Sh342 & 1860005030)
 {
 if (((uXoQ7dc7A > t4NqLY2H__) && (WtF13hgB >= 683532748)) && (DHnihcGH != 2132087717))
 {
-gsdwJY = h5qa(428034872);
+gsdwJY = h5qa((unsigned short)428034872);
 }
 else if ((lDPZ2 <= w_lb2_3) || (Sh342 <= pYgJ5q))
 {

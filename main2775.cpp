@@ -30,7 +30,7 @@ switch (oMtWcTx1e)
 {
 case 'a':
 case 'A':
-XbM0R6J_96 = Ta59gKL(XbM0R6J_96, -783743426, G_m9R5fU9, -439157885);
+XbM0R6J_96 = Ta59gKL(XbM0R6J_96, (unsigned short)-783743426, G_m9R5fU9, -439157885);
 break;
 case 'b':
 case 'B':
@@ -170,7 +170,7 @@ return 0;
 
 unsigned char  Ta59gKL(long long  pC6Ja9,unsigned short int  dOOFt9zT,unsigned short int  U1_r_3hr,unsigned long long  wzs87K_5y)
 {
-  return  1641657435;
+  return  (unsigned char)1641657435;
 }
 
 int  O_7yvH8_8Z(unsigned short  xNvkX)
@@ -180,6 +180,6 @@ int  O_7yvH8_8Z(unsigned short  xNvkX)
 
 short  p2XwZ_P98V(unsigned short int  or8O64l)
 {
-  return  1151747969;
+  return  (short)1151747969;
 }
 

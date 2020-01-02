@@ -33,7 +33,7 @@ else
 int k = 0;
 while (k < 4)
 {
-HiI9 = MwhUF(-1166292163, -1779456820);
+HiI9 = MwhUF((unsigned short)-1166292163, -1779456820);
 k++;
 }
 }
@@ -63,7 +63,7 @@ jjX_Y2 = jSKn2c33(-203776099);
 }
 else if (L7br8 == -321347609)
 {
-H4Tn584 = MwhUF(-914592310, 1607348028);
+H4Tn584 = MwhUF((unsigned short)-914592310, 1607348028);
 }
 else if (KxQw3 > -524808308)
 {
@@ -114,7 +114,7 @@ if ((1637792535 / MwhUF(cnzAY1WYl, -1944591352)) != -482162136)
 {
 if (((GhVqv9kFCP <= IrJ8GUA495) && (G2bovQ >= 222859249)) && (RG8Eq != -1673434021))
 {
-std::cout << MwhUF(1248124674, -653041861) << "oyn5mdph" << "cR3Y0a__" << B2_5 << std::endl;
+std::cout << MwhUF((unsigned short)1248124674, -653041861) << "oyn5mdph" << "cR3Y0a__" << B2_5 << std::endl;
 }
 else
 {
@@ -169,7 +169,7 @@ PSAz6XW = (int)abs(OVAB2);
 break;
 case 'c':
 case 'C':
-j6G6h = MwhUF(718694902, -1159084128);
+j6G6h = MwhUF((unsigned short)718694902, -1159084128);
 break;
 case 'd':
 case 'D':
@@ -238,7 +238,7 @@ O0DhnT9 = C7_lq1 >> 1150009935;
 int i = 0;
 while (i < 4)
 {
-H4Tn584 = MwhUF(1014980395, 1000328553);
+H4Tn584 = MwhUF((unsigned short)1014980395, 1000328553);
 i++;
 }
 }
@@ -372,7 +372,7 @@ B2_5 = jSKn2c33(B2_5);
 }
 else
 {
-std::cout << MwhUF(867641378, I7Q8) << jSKn2c33(1795139385) << MwhUF(B2_5, I7Q8) << jjX_Y2 << I7Q8 << std::endl;
+std::cout << MwhUF((unsigned short)867641378, I7Q8) << jSKn2c33(1795139385) << MwhUF(B2_5, I7Q8) << jjX_Y2 << I7Q8 << std::endl;
 }
 if (OWqh9f9 > 1311641875)
 {
@@ -422,6 +422,6 @@ short    MwhUF(unsigned short    b3cKS,long long    VzKY52M76)    {
 }
 
 unsigned char	jSKn2c33(unsigned long long	MZwiq5)	{
-	return	133172862;
+	return	(unsigned char)133172862;
 }
 

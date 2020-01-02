@@ -26,7 +26,7 @@ break;
 }
 }
 
-PYch = OPK_1(-1593785186) & 1882652964;
+PYch = OPK_1((short)-1593785186) & 1882652964;
 
 r_PA = (unsigned short int)(yd2e_);
 
@@ -41,7 +41,7 @@ while (i >= 0)
 i--;
 if (Rq4I_7)
 {
-std::cout << "wTf3r_" << OPK_1(-780762596) << "Ekis6cy" << Ff1s2tqR << std::endl;
+std::cout << "wTf3r_" << OPK_1((short)-780762596) << "Ekis6cy" << Ff1s2tqR << std::endl;
 }
 }
 }
@@ -73,7 +73,7 @@ UyC1999 %= Ff1s2tqR;
 break;
 case 'g':
 case 'G':
-Ibx94Shv7 = OPK_1(1976085886);
+Ibx94Shv7 = OPK_1((short)1976085886);
 break;
 default:
 Ibx94Shv7 = OPK_1((short)195235242);
@@ -125,7 +125,7 @@ int k = 0;
 do
 {
 k++;
-Ibx94Shv7 = OPK_1(1285860625);
+Ibx94Shv7 = OPK_1((short)1285860625);
 }
 while (k < 8);
 }
@@ -147,7 +147,7 @@ case 1:
 Li_5S3lv ^= P_LE_;
 break;
 case 2:
-Ibx94Shv7 = OPK_1(-8799133);
+Ibx94Shv7 = OPK_1((short)-8799133);
 break;
 case 3:
 Ibx94Shv7 = OPK_1((short)622960605);
@@ -165,7 +165,7 @@ case 7:
 nnl6--;
 break;
 case 8:
-Ibx94Shv7 = OPK_1(1035964433);
+Ibx94Shv7 = OPK_1((short)1035964433);
 break;
 }
 
@@ -218,7 +218,7 @@ else
 {
 if ((kj0aJ <= a19G3qjYBB) && (K6bz <= r_PA))
 {
-Ibx94Shv7 = OPK_1(2092998489);
+Ibx94Shv7 = OPK_1((short)2092998489);
 }
 else
 {
@@ -228,7 +228,7 @@ Ibx94Shv7 = OPK_1((short)2129329546);
 }
 
 std::cout << OPK_1(776376114) << a3p72dR << OPK_1(U1A2Zo8fX0) << OPK_1(1291576839) << std::endl;
-if ((BkTd / OPK_1(-482569064)) > -1700991252)
+if ((BkTd / OPK_1((short)-482569064)) > -1700991252)
 {
 std::cout << wkD4n << std::endl;
 }
@@ -261,7 +261,7 @@ nnl6 &= yd2e_;
 }
 else if (((grKpl >= 374207600) || (K6bz & V8Q4llduS)) || (Li_5S3lv & 546019497))
 {
-Ibx94Shv7 = OPK_1(532442023);
+Ibx94Shv7 = OPK_1((short)532442023);
 }
 else
 {

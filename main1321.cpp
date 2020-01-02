@@ -36,7 +36,7 @@ case 0:
 b5rI617E = (int)floor(scQ5B);
 break;
 case 1:
-LX170 = t8D_9i7(LX170, -1893951281, (char)-2132661839);
+LX170 = t8D_9i7(LX170, (short)-1893951281, (char)-2132661839);
 break;
 case 2:
 CCTz_gH5_ = N_3esu4N86();
@@ -113,7 +113,7 @@ case 'b':
 Qji2A = (int)abs(O05_);
 break;
 case 'c':
-O73YPz = t8D_9i7(967549500, 205113115, O8j24J);
+O73YPz = t8D_9i7(967549500, (short)205113115, O8j24J);
 break;
 default:
 BOuAw3_d *= 1977038946;
@@ -133,7 +133,7 @@ catch (int& errorCode)
 {
 xcQ8_j2s3 = BaxW_0z / 1264128017;
 }
-std::cout << sGVQ_n7Qu(-102533012, (unsigned char)601328601, O8j24J) << sGVQ_n7Qu(-454287378, -882134432, 1104396524) << std::endl;
+std::cout << sGVQ_n7Qu((short)-102533012, (unsigned char)601328601, O8j24J) << sGVQ_n7Qu(-454287378, -882134432, 1104396524) << std::endl;
 try
 {
 {
@@ -145,7 +145,7 @@ while (j >= 0)
 int k = 7;
 while (k >= 0)
 {
-dHfK7 = yL4o(dHfK7, 256189700);
+dHfK7 = yL4o(dHfK7, (unsigned short)256189700);
 --k;
 }
 }
@@ -200,7 +200,7 @@ wRu9i9LV -= 563185443;
 }
 else
 {
-std::cout << sGVQ_n7Qu(D5zXN10, -484338563, sA_HiyK) << N_3esu4N86() << NiO0KZ << std::endl;
+std::cout << sGVQ_n7Qu(D5zXN10, (unsigned char)-484338563, sA_HiyK) << N_3esu4N86() << NiO0KZ << std::endl;
 }
 {
 int i = 0;
@@ -213,7 +213,7 @@ while (i < 3);
 }
 for (int i = 1; i >= 0; i--)
 {
-xk25s0y2b = sGVQ_n7Qu(2044588453, (unsigned char)-924034214, Zb0h2m);
+xk25s0y2b = sGVQ_n7Qu((short)2044588453, (unsigned char)-924034214, Zb0h2m);
 }
 
 wV0_ = (long double)(FM_Blz6UK6 + (B4cWl1U));
@@ -229,7 +229,7 @@ case 1:
 MRO7vK_u = N_3esu4N86();
 break;
 default:
-CxSw9hh = yL4o(37203181, hfwe5);
+CxSw9hh = yL4o((short)37203181, hfwe5);
 break;
 }
 }
@@ -243,7 +243,7 @@ scQ5B = (int)abs(Y6MxKIlj);
 int i = 0;
 while (i < 10)
 {
-xcQ8_j2s3 = t8D_9i7(-1190227061, Mlm_kv, -898169537);
+xcQ8_j2s3 = t8D_9i7(-1190227061, Mlm_kv, (char)-898169537);
 ++i;
 }
 }
@@ -285,7 +285,7 @@ for (int j = 7; j >= 0; j--)
 {
 try
 {
-BaxW_0z = t8D_9i7(BaxW_0z, Qji2A, 222454534);
+BaxW_0z = t8D_9i7(BaxW_0z, Qji2A, (char)222454534);
 }
 catch (int& errorCode)
 {
@@ -300,7 +300,7 @@ return 0;
 }
 
 unsigned char  t8D_9i7(unsigned long long  IOu6YA_v,short  PR0d2e2rrP,char  NMF1HE83MD)  {
-  return  239677398;
+  return  (unsigned char)239677398;
 }
 
 unsigned short  yL4o(short int  S35g8,unsigned short int  ks6izx)
@@ -310,7 +310,7 @@ unsigned short  yL4o(short int  S35g8,unsigned short int  ks6izx)
 
 unsigned short N_3esu4N86()
 {
- return 15290703;
+ return (unsigned short)15290703;
 }
 
 long  sGVQ_n7Qu(short  YT35K,unsigned char  XaBjl,int  fUHHbjMv)

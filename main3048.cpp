@@ -110,7 +110,7 @@ K5zKn0_h7 = (unsigned long long)(l__f_02CZG);
 switch (V2GYtPC6Eo)
 {
 case 0:
-K5zKn0_h7 = F3jvd_Jbt(K5zKn0_h7, l__f_02CZG, 2095639550, M6Ra, 1865145321);
+K5zKn0_h7 = F3jvd_Jbt(K5zKn0_h7, l__f_02CZG, (short)2095639550, M6Ra, 1865145321);
 break;
 case 1:
 e2sO = F3jvd_Jbt(e2sO, M6Ra, (short)444648131, -2017293732, 1913622706);
@@ -151,7 +151,7 @@ return 0;
 
 short    yOV7ID3(int    iXmh52lG,long long    P9I25T,unsigned long long    W6oMC0z0)
 {
-    return    -1369801448;
+    return    (short)-1369801448;
 }
 
 unsigned long long    dP4GI2M()    {

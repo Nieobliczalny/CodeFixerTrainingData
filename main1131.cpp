@@ -13,7 +13,7 @@ using std::ceil;
 using std::floor;
 
 short  sHbHWLh()  {
-  return  426829362;
+  return  (short)426829362;
 }
 
 char	N9Zl(unsigned int	c5_4rK2E,unsigned short	Y_AP7g20)	{
@@ -81,7 +81,7 @@ kr7q = (int)abs(RmLtqRyli) + (-1440222326);
 break;
 case 'b':
 case 'B':
-GHoU73SZt8 = (GHoU73SZt8 >= x371) ? 1265383434 : W7nRBbB7hq(689152589, 503222418, -880651510, 868176332, -820368603);
+GHoU73SZt8 = (GHoU73SZt8 >= x371) ? 1265383434 : W7nRBbB7hq(689152589, 503222418, (unsigned char)-880651510, 868176332, -820368603);
 break;
 case 'c':
 case 'C':
@@ -94,7 +94,7 @@ break;
 }
 }
 }
-e7ujaMJ = W7nRBbB7hq(1344861307, RmLtqRyli, -1205183531, T48Ea_, 1692440124);
+e7ujaMJ = W7nRBbB7hq(1344861307, RmLtqRyli, (unsigned char)-1205183531, T48Ea_, 1692440124);
 e7ujaMJ = e7ujaMJ / G3dboVZ;
 if (e7ujaMJ != vG8q)
 {

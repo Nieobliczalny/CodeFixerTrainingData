@@ -116,7 +116,7 @@ else if ((wrN_tMM < oI846) || (j3AePkC_N >= -1985019443))
 switch (KC0j6v3)
 {
 case 'a':
-B18nm = (a95q3) ? b9gSCbsSGU : 256690338;
+B18nm = (a95q3) ? b9gSCbsSGU : (short)256690338;
 break;
 case 'b':
 tnT2++;
@@ -369,7 +369,7 @@ case 7:
 QXy0e52x ^= KsdNg00yN;
 break;
 default:
-ni4L = (X_0xEe98 > 1947594021) ? 1038617708 : (short)-230240060;
+ni4L = (X_0xEe98 > 1947594021) ? (short)1038617708 : (short)-230240060;
 break;
 }
 }

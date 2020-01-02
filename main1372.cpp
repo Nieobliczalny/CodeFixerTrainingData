@@ -24,7 +24,7 @@ int main(void) {
   float  C2ji;
   C2ji  =  -417680207;
   unsigned short  ZfiJwIp12n;
-  ZfiJwIp12n  =  -994195969;
+  ZfiJwIp12n  =  (unsigned short)-994195969;
     float    Vt47Y49MMy;
     Vt47Y49MMy    =    -1118654287;
  long double d_iMsX35;
@@ -34,7 +34,7 @@ int main(void) {
 	unsigned int	etq0dGe;
 	etq0dGe	=	-867775305;
  unsigned char FaHYaP3U8A;
- FaHYaP3U8A = 716091965;
+ FaHYaP3U8A = (unsigned char)716091965;
 	unsigned short	jHyE;
 	jHyE	=	(unsigned short)1707389379;
  char gu4fsc;
@@ -60,7 +60,7 @@ int main(void) {
  long double pOmSigu;
  pOmSigu = 1900938710;
     short int    JiE30;
-    JiE30    =    -1208181531;
+    JiE30    =    (short)-1208181531;
  short int q4y_;
  q4y_ = (short)681101142;
     unsigned long long    Ker0;
@@ -72,7 +72,7 @@ int main(void) {
 	float	b1Dv8t4i5;
 	b1Dv8t4i5	=	108944922;
  short int d12A2iG;
- d12A2iG = -1237751757;
+ d12A2iG = (short)-1237751757;
 	short int	E605rEB;
 	E605rEB	=	(short)-2104141959;
 
@@ -168,7 +168,7 @@ while (i < 10);
 }
 try
 {
-HUI3rUE9U = Zy69nm(-2072418768);
+HUI3rUE9U = Zy69nm((char)-2072418768);
 }
 catch (int& errorCode)
 {
@@ -235,7 +235,7 @@ case 'f':
 b1Dv8t4i5 = ZN07(b1Dv8t4i5);
 break;
 case 'g':
-LTr87z = (b1Dv8t4i5 > -68923080) ? E605rEB : 1922770310;
+LTr87z = (b1Dv8t4i5 > -68923080) ? E605rEB : (unsigned char)1922770310;
 break;
 case 'h':
 ZfiJwIp12n = ZN07(2012664151);
@@ -279,7 +279,7 @@ case 0:
 Z9qjUc_k1 |= 1035005531;
 break;
 case 1:
-d_iMsX35 = Zy69nm(839739990);
+d_iMsX35 = Zy69nm((char)839739990);
 break;
 case 2:
 d_iMsX35 = (int)floor(gj4qO);
@@ -350,7 +350,7 @@ char  w4bwE3U431()
 }
 
 unsigned short int  ZN07(long  VD0_)  {
-  return  2055310287;
+  return  (unsigned short)2055310287;
 }
 
 long    Zy69nm(char    VrVYAXO)    {

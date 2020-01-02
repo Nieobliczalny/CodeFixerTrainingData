@@ -32,7 +32,7 @@ switch (DmwL97_XT)
 {
 case 'a':
 case 'A':
-g7Lvknqi5 = cG6Y887rA(1670373750, zsE_, (unsigned short)-1680411879, -912203100);
+g7Lvknqi5 = cG6Y887rA((unsigned short)1670373750, zsE_, (unsigned short)-1680411879, -912203100);
 break;
 case 'b':
 case 'B':
@@ -80,7 +80,7 @@ for (int j = 0; j < 4; j++)
 {
 if (mgG2 == -692593322)
 {
-oL6uE7Sp = TAh7_q7(-897638944, 1476931618, Qe_63K6BYM, 90250328, (short)1433506640);
+oL6uE7Sp = TAh7_q7((short)-897638944, 1476931618, Qe_63K6BYM, 90250328, (short)1433506640);
 }
 else if (F8CXZ0EcD > YXbQ9Can7_)
 {
@@ -113,7 +113,7 @@ case 0:
 StZ40253 = (int)abs(rA3t9M94);
 break;
 case 1:
-G_02a7 = cG6Y887rA(LvIUA0, 1152304902, roHYfZ6A7, (unsigned short)988719422) ^ 163540801;
+G_02a7 = cG6Y887rA(LvIUA0, (unsigned short)1152304902, roHYfZ6A7, (unsigned short)988719422) ^ 163540801;
 break;
 case 2:
 F54X = k6Uhcoh9();
@@ -129,7 +129,7 @@ break;
 std::cout << 1187777824 / k6Uhcoh9() << std::endl;
 std::cout << zrhW76Ula << std::endl;
 
-PZk_ = TAh7_q7(-1101475132, 463154678, (char)1280254420, 1243612067, H175h3T4);
+PZk_ = TAh7_q7((short)-1101475132, 463154678, (char)1280254420, 1243612067, H175h3T4);
 
 std::cout << "heO3" << cG6Y887rA(-302708264, r0IaU9Ss, 866881478, dPsS44) << rA3t9M94 << std::endl;
 switch (oL6uE7Sp)
@@ -162,7 +162,7 @@ break;
 switch (Q053C62I8)
 {
 case 0:
-roHYfZ6A7 = (E9yA6 <= -1479370633) ? m8IaQ1Mha5 : 1419397111;
+roHYfZ6A7 = (E9yA6 <= -1479370633) ? m8IaQ1Mha5 : (short)1419397111;
 break;
 case 1:
 F54X = k6Uhcoh9();
@@ -204,7 +204,7 @@ int i = 3;
 do
 {
 i--;
-std::cout << "ksk1Z" << TAh7_q7(cyga4h08j5, 1985966662, -422147357, -1847436018, (short)1429199339) << "B55s4" << "M18G" << LvIUA0 << std::endl;
+std::cout << "ksk1Z" << TAh7_q7(cyga4h08j5, 1985966662, (char)-422147357, -1847436018, (short)1429199339) << "B55s4" << "M18G" << LvIUA0 << std::endl;
 }
 while (i >= 0);
 }
@@ -231,6 +231,6 @@ int TAh7_q7(short int MsJ55N,int eObGX,char GUu3Rq_,long g4Og88W_i5,short eSSG_U
 }
 
 unsigned short int  cG6Y887rA(unsigned short int  hchKDCEz_,unsigned short int  Y1eQIF0Tc,unsigned short int  M3_Z__87,unsigned short int  rm5z97B)  {
-  return  553868445;
+  return  (unsigned short)553868445;
 }
 

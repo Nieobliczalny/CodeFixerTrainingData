@@ -43,7 +43,7 @@ else if (d0y6e > 31571081)
 int k = 0;
 while (k < 9)
 {
-LKr2 = T6r5(1288355766, wfAxx, (unsigned short)-448653756, OO94Tujq3);
+LKr2 = T6r5((char)1288355766, wfAxx, (unsigned short)-448653756, OO94Tujq3);
 ++k;
 }
 }
@@ -75,7 +75,7 @@ else
 {
 if (l76c58u0G_ == -1573600513)
 {
-wjr1A = T6r5(434757261, vErGp56, tpFn4_zuwp, l2g5K);
+wjr1A = T6r5((char)434757261, vErGp56, tpFn4_zuwp, l2g5K);
 }
 else if (OO94Tujq3 <= 1180722969)
 {
@@ -125,7 +125,7 @@ A4k97 *= 734216012;
 }
 }
 }
-std::cout << MC_b29(mm5aFa, a98530) << MC_b29(mm5aFa, -1366522747) << "b20FU6dx_" << "zDQnENrOQc" << MC_b29((char)-1305312483, a98530) << std::endl;
+std::cout << MC_b29(mm5aFa, a98530) << MC_b29(mm5aFa, (unsigned char)-1366522747) << "b20FU6dx_" << "zDQnENrOQc" << MC_b29((char)-1305312483, a98530) << std::endl;
 
 nJ7T = MC_b29(nJ7T, 255330812);
 WOp1 = j2R8YX2y8 / T6r5(nJ7T, 1714321997, T7Boj, mLYv);
@@ -136,7 +136,7 @@ case 0:
 PJSQ6S += I60bHX4K49;
 break;
 case 1:
-wjr1A = T6r5(25850494, -854380675, dR6t9, FO09sJI95_);
+wjr1A = T6r5((char)25850494, -854380675, dR6t9, FO09sJI95_);
 break;
 case 2:
 u56do = OU_382__ ^ fp8sZ8j;
@@ -151,7 +151,7 @@ return 0;
 
 unsigned short MC_b29(char CDLS,unsigned char N1u8K3)
 {
- return 1119637038;
+ return (unsigned short)1119637038;
 }
 
 short T6r5(char o823kv,unsigned long long pmw284H,unsigned short zI1Oih,short l1WiS)

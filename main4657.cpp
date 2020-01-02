@@ -43,7 +43,7 @@ case 'b':
 UsrZEE = (int)ceil(ffJKBPizJk);
 break;
 default:
-MSoGdtlLH9 = H2rs2nBVY5(1702158023) ^ 914370462;
+MSoGdtlLH9 = H2rs2nBVY5((unsigned short)1702158023) ^ 914370462;
 break;
 }
 }
@@ -91,7 +91,7 @@ case 3:
 o116mvU4Z = (int)ceil(Hu053);
 break;
 case 4:
-o116mvU4Z = wTOiF(-1391447762, -453505474, -491803867);
+o116mvU4Z = wTOiF((char)-1391447762, -453505474, -491803867);
 break;
 case 5:
 m__SaRKmc = H2rs2nBVY5((unsigned short)-894430726);
@@ -131,7 +131,7 @@ if (t9Hy510nMt != 2060287453)
 {
 for (int k = 0; k < 6; ++k)
 {
-Hu053 = wTOiF(120651710, U43lANOe, X6Ym1af7nc);
+Hu053 = wTOiF((char)120651710, U43lANOe, X6Ym1af7nc);
 }
 }
 }
@@ -141,7 +141,7 @@ if (YZr7xwls6 & 1039185907)
 {
 try
 {
-j96H14xjuj = wTOiF(1321242274, DMQV__PcG, U43lANOe);
+j96H14xjuj = wTOiF((char)1321242274, DMQV__PcG, U43lANOe);
 }
 catch (int& errorCode)
 {
@@ -253,7 +253,7 @@ case 'a':
 U43lANOe -= 13543925;
 break;
 case 'b':
-OOEevC9 = wTOiF(-2131937923, bp3A6J2L_V, J0auJi0P);
+OOEevC9 = wTOiF((char)-2131937923, bp3A6J2L_V, J0auJi0P);
 break;
 case 'c':
 OOEevC9 = (int)ceil(Hu053);
@@ -265,7 +265,7 @@ case 'e':
 z0n7t0qd9 = t9Hy510nMt / j96H14xjuj;
 break;
 case 'f':
-bp3A6J2L_V = wTOiF(2028758253, 1223869240, J0auJi0P);
+bp3A6J2L_V = wTOiF((char)2028758253, 1223869240, J0auJi0P);
 break;
 case 'g':
 t87_wsZ5 = (int)abs(Hu053);
@@ -302,7 +302,7 @@ R_4LLN = C9E2I4Bj / Ki5Y28;
 }
 }
 
-Ll1soM = wTOiF(1920964613, -1526879065, zu_M5w8Rii);
+Ll1soM = wTOiF((char)1920964613, -1526879065, zu_M5w8Rii);
 
 if ((iW403TH & 429018935) || ((j96H14xjuj > -2007950377) && (t87_wsZ5 == 460307824)))
 {
@@ -333,7 +333,7 @@ z0n7t0qd9 = (int)abs(J0auJi0P);
 break;
 case 'e':
 case 'E':
-iW403TH = H2rs2nBVY5(-2095407380);
+iW403TH = H2rs2nBVY5((unsigned short)-2095407380);
 break;
 }
 }
@@ -370,7 +370,7 @@ while (k < 10);
 }
 }
 }
-pm09 = 1888495004 / H2rs2nBVY5(-2030703880);
+pm09 = 1888495004 / H2rs2nBVY5((unsigned short)-2030703880);
 vWOb_ = iW403TH & 2019233000;
 l8th = (float)(SSe791);
 
@@ -394,7 +394,7 @@ while (j >= 0);
 }
 }
 }
-std::cout << wTOiF(494940380, EYci_721M8, 690085272) << P6lEbaZ5Q << std::endl;
+std::cout << wTOiF((char)494940380, EYci_721M8, 690085272) << P6lEbaZ5Q << std::endl;
 
 if ((EYci_721M8 != -195729545) || ((vWOb_ >= 606975890) || (X6Ym1af7nc <= 1397381931)))
 {

@@ -135,7 +135,7 @@ ZF0PY_bsZ = RiG96S4vKL / 1373618239;
 }
 else
 {
-JdheMA5_ = U5k82R0(-510255835, u0_k7U, 47978925, -2028320768, IIUo);
+JdheMA5_ = U5k82R0(-510255835, u0_k7U, (unsigned short)47978925, -2028320768, IIUo);
 }
 }
 else
@@ -184,7 +184,7 @@ return 0;
 }
 
 unsigned short	Z_qKob(long	lWe182rv,long long	Ho4ekNvVW7,int	A5J2U5E,short int	Urij0K)	{
-	return	-616651006;
+	return	(unsigned short)-616651006;
 }
 
 unsigned long long O_vY80jGB5() {

@@ -10,7 +10,7 @@ using namespace std;
 
 int main() {
   unsigned char  Z2oSe3G6;
-  Z2oSe3G6  =  828922372;
+  Z2oSe3G6  =  (unsigned char)828922372;
  long double Ak2DC3UlLn;
  Ak2DC3UlLn = 209332496;
 	short	x6lU9VmO;
@@ -22,7 +22,7 @@ int main() {
     char    X7Tp;
     X7Tp    =    0;
  unsigned short int JSfwatS;
- JSfwatS = -649916177;
+ JSfwatS = (unsigned short)-649916177;
   unsigned long  Ycu9;
   Ycu9  =  1718749392;
     long double    a6_make4;
@@ -32,7 +32,7 @@ int main() {
 	long long	Mer5TGkH3;
 	Mer5TGkH3	=	881034879;
 	char	rwjK;
-	rwjK	=	-1957065650;
+	rwjK	=	(char)-1957065650;
     double    Z0R1Dr;
     Z0R1Dr    =    -1401653751;
 	int	AsF5WVkJmN;
@@ -44,7 +44,7 @@ int main() {
 	unsigned char	Qo5FiRKiT;
 	Qo5FiRKiT	=	0;
  char FN292Je;
- FN292Je = -1506143458;
+ FN292Je = (char)-1506143458;
 
 {
 int i = 0;

@@ -199,6 +199,6 @@ long    Bjqy0Ys()    {
 
 unsigned short int  vYmOE436(long long  gAe_,unsigned long long  ttVYO51J0Y)
 {
-  return  -1896167643;
+  return  (unsigned short)-1896167643;
 }
 

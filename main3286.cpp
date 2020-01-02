@@ -48,7 +48,7 @@ else if (EmIfX == 1014602195)
 int k = 1;
 do
 {
-VOfN5A = k9Twr(2030915664);
+VOfN5A = k9Twr((unsigned short)2030915664);
 k--;
 }
 while (k >= 0);
@@ -90,7 +90,7 @@ c9fZREfZN %= 1167202523;
 
 if (gcp5 >= -637559272)
 {
-std::cout << "G59LAL2Vl" << k9Twr(781922170) << uNH22t1F << gcp5 << sGBNq_mX1 << std::endl;
+std::cout << "G59LAL2Vl" << k9Twr((unsigned short)781922170) << uNH22t1F << gcp5 << sGBNq_mX1 << std::endl;
 }
 if (((EmIfX) || (jI_B == Q_733)) || ((Q_733 != -830930530) && (MLWTzBZbJ2 < -153454019)))
 {
@@ -144,7 +144,7 @@ c9fZREfZN = F__WK >> MLWTzBZbJ2;
 
 for (int i = 1; i >= 0; --i)
 {
-std::cout << k9Twr(-585454218) << k9Twr((unsigned short)474140994) << std::endl;
+std::cout << k9Twr((unsigned short)-585454218) << k9Twr((unsigned short)474140994) << std::endl;
 }
 
 F__WK /= 1426012526;
@@ -157,7 +157,7 @@ EmIfX = (long long)(gcp5);
 }
 else if (wE9Y6 != -1234153077)
 {
-std::cout << k9Twr(-1516558827) << std::endl;
+std::cout << k9Twr((unsigned short)-1516558827) << std::endl;
 }
 else if (l_hyo == gcp5)
 {
@@ -191,7 +191,7 @@ try
 {
 if (VOfN5A)
 {
-VOfN5A = k9Twr(1168790473);
+VOfN5A = k9Twr((unsigned short)1168790473);
 }
 else if (l_hyo != -1750363367)
 {
@@ -301,7 +301,7 @@ case 2:
 l_hyo = gcp5 | 1990086787;
 break;
 case 3:
-sGBNq_mX1 = k9Twr(114723007);
+sGBNq_mX1 = k9Twr((unsigned short)114723007);
 break;
 default:
 l_hyo = (int)abs(uNH22t1F);
@@ -397,7 +397,7 @@ else
 {
 if (F__WK != 1136949121)
 {
-sGBNq_mX1 = k9Twr(-1286117245);
+sGBNq_mX1 = k9Twr((unsigned short)-1286117245);
 }
 else
 {
@@ -444,7 +444,7 @@ for (int j = 8; j >= 0; j--)
 {
 if (l_hyo)
 {
-l_hyo = k9Twr(1475868520);
+l_hyo = k9Twr((unsigned short)1475868520);
 }
 }
 }
@@ -477,7 +477,7 @@ uNH22t1F &= 1537585255;
 }
 else
 {
-std::cout << npjkG0wa << k9Twr(-619990439) << "LArk" << jI_B << FX20_Qs4sv(567179397) << std::endl;
+std::cout << npjkG0wa << k9Twr((unsigned short)-619990439) << "LArk" << jI_B << FX20_Qs4sv(567179397) << std::endl;
 }
 }
 else if (F__WK != jI_B)
@@ -588,6 +588,6 @@ short    FX20_Qs4sv(int    GonX2)
 
 unsigned short	k9Twr(unsigned short int	TNz2tv)
 {
-	return	-556751796;
+	return	(unsigned short)-556751796;
 }
 

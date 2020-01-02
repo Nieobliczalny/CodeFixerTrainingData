@@ -56,7 +56,7 @@ X_xtw9e3 = R4b9();
 break;
 case 'e':
 case 'E':
-YC6Jjb = (EIuD <= j2jx66lt) ? 496358893 : R4b9();
+YC6Jjb = (EIuD <= j2jx66lt) ? (short)496358893 : R4b9();
 break;
 case 'f':
 case 'F':
@@ -713,7 +713,7 @@ case 0:
 N5YrHe5 = (int)abs(CC6w5I);
 break;
 case 1:
-qoJW2f8c = (EbZS5vzL_ > acK3pO) ? 1356791603 : jWdOxLw01();
+qoJW2f8c = (EbZS5vzL_ > acK3pO) ? (short)1356791603 : jWdOxLw01();
 break;
 case 2:
 S08f9_0oG7 = w991GnAt2A | 1679324261;
@@ -799,6 +799,6 @@ unsigned char    jWdOxLw01()    {
 }
 
 unsigned short int    R4b9()    {
-    return    1874714471;
+    return    (unsigned short)1874714471;
 }
 

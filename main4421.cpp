@@ -32,7 +32,7 @@ for (int i = 0; i < 7; i++)
 {
 if (iHNkY1dVD_ != -266786476)
 {
-Uwmk78IW = Xu53s0SQ(-1986031919, 1546978539, (short)-579711993, 1876634837);
+Uwmk78IW = Xu53s0SQ(-1986031919, (unsigned short)1546978539, (short)-579711993, 1876634837);
 }
 else
 {
@@ -65,7 +65,7 @@ w93T1 = (int)floor(m0ST6);
 
 Ip_a37NC = (double)(gljcdkpa1b);
 
-a44Bsr4 = ywlzdjh(2080751176, -1629083055, 105355228, jSFUJE6_, LkjeDhFr0);
+a44Bsr4 = ywlzdjh(2080751176, -1629083055, (short)105355228, jSFUJE6_, LkjeDhFr0);
 {
 int i = 4;
 while (i >= 0)
@@ -92,7 +92,7 @@ i--;
 qH7N8y = bR0F3X_x3 - OABz_;
 
 k8uSzt_ = (int)abs(bmu0Q4545h);
-yLRZW781d = ZT8xt41(168937962, (unsigned char)-1792823810, -643782070, 1952832788);
+yLRZW781d = ZT8xt41((unsigned short)168937962, (unsigned char)-1792823810, -643782070, 1952832788);
 
 switch (a44Bsr4)
 {
@@ -103,7 +103,7 @@ case 'b':
 pNR_d = ZT8xt41(1256745486, -1264389019, 1719373873, V73p);
 break;
 case 'c':
-pNR_d = K_9h(pNR_d, -1747477264);
+pNR_d = K_9h(pNR_d, (char)-1747477264);
 break;
 case 'd':
 I_FlO7m60 = (int)abs(w93T1);
@@ -143,7 +143,7 @@ else if (Alia81n != 747390201)
 {
 for (int k = 0; k < 3; k++)
 {
-S6JdK = K_9h(S6JdK, -941178547);
+S6JdK = K_9h(S6JdK, (char)-941178547);
 }
 }
 else
@@ -155,7 +155,7 @@ i++;
 while (i < 9);
 }
 pNR_d = OJ8k_V7N + 1019506258;
-S216f = ZT8xt41(-1531734950, 1573202277, 1893206902, -2024198382);
+S216f = ZT8xt41((unsigned short)-1531734950, 1573202277, 1893206902, -2024198382);
 
 switch (a44Bsr4)
 {
@@ -172,7 +172,7 @@ case 3:
 aAUle_mqG -= iEsbq;
 break;
 case 4:
-JIsY9NZ = ZT8xt41(2021456843, (unsigned char)-611049619, -453730550, 1456992278);
+JIsY9NZ = ZT8xt41((unsigned short)2021456843, (unsigned char)-611049619, -453730550, 1456992278);
 break;
 }
 
@@ -192,7 +192,7 @@ case 2:
 iEsbq = (int)floor(I_FlO7m60);
 break;
 case 3:
-fgA9 = ZT8xt41(fgA9, -800780161, 1048993802, 1081603268);
+fgA9 = ZT8xt41(fgA9, (unsigned char)-800780161, 1048993802, 1081603268);
 break;
 case 4:
 DV00bO = (int)ceil(qH7N8y);
@@ -227,6 +227,6 @@ unsigned short	ywlzdjh(int	dxi8o4gP9,unsigned long long	n_6t4i,short	Z_nGTNZq6,u
 
 char K_9h(long long V043T,char mQl_3F_)
 {
- return 211254362;
+ return (char)211254362;
 }
 

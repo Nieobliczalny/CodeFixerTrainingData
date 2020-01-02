@@ -14,7 +14,7 @@ unsigned long  VAz090mhs(unsigned short  QSjtzr7_M,long long  I2gT,unsigned int 
 }
 
 unsigned short int  Ih5qtx18m1(unsigned long long  bWnvQh,unsigned long long  L__3k6,unsigned int  xyx1lG)  {
-  return  -334333231;
+  return  (unsigned short)-334333231;
 }
 
 unsigned short v058vM(short int OSy__2,unsigned short AXmmsZ,unsigned long AEpz8O,unsigned int p_B_n0eb5K,long Yh9D2a0J_)
@@ -105,7 +105,7 @@ a43b6w21 = Ih5qtx18m1(1829228834, -1071080684, OoTApDK);
 break;
 case 'e':
 case 'E':
-O6vKz6 = VAz090mhs(1784556428, G9pOJI4, kh51_9fI, 275604837);
+O6vKz6 = VAz090mhs((unsigned short)1784556428, G9pOJI4, kh51_9fI, 275604837);
 break;
 case 'f':
 case 'F':
@@ -152,7 +152,7 @@ case 0:
 m47U8 = (int)abs(HaBiPmA);
 break;
 case 1:
-D61Q3RAcTN = v058vM(O6vKz6, -1276500568, N8I2xQ, 1194732106, -1437723248);
+D61Q3RAcTN = v058vM(O6vKz6, (unsigned short)-1276500568, N8I2xQ, 1194732106, -1437723248);
 break;
 case 2:
 Pdu6lp_c30 %= gnocfe_93;

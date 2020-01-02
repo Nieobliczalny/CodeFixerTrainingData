@@ -133,7 +133,7 @@ catch (int& errorCode)
 J7Dc1l8y /= 1756070774;
 }
 
-std::cout << "b0SIm" << La72H2(1273852480, blf5_, P_7E, mpYhOS9) << Vh8D4c9() << "q_rzA" << PBuA << std::endl;
+std::cout << "b0SIm" << La72H2((unsigned short)1273852480, blf5_, P_7E, mpYhOS9) << Vh8D4c9() << "q_rzA" << PBuA << std::endl;
 
 CFAtcX9Z = (int)(c__27UYX4);
 
@@ -182,7 +182,7 @@ return 0;
 
 unsigned char  La72H2(unsigned short  fCVW1n5,int  iLcmzqvxV,unsigned char  y8j8yR_,unsigned short  q__lgm75)
 {
-  return  1507689507;
+  return  (unsigned char)1507689507;
 }
 
 unsigned char    S_D4y9()    {

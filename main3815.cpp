@@ -10,7 +10,7 @@
 using namespace std;
 
 unsigned short ifoo(long long xv495a,unsigned long long GOjTh,unsigned long UyTWY1) {
- return -2056786454;
+ return (unsigned short)-2056786454;
 }
 
 long long    iamkZzH()
@@ -24,7 +24,7 @@ int main(void)
  unsigned int tRVl7FF = 0;
 	unsigned long long	I0_QYOc8	=	-215103086;
   unsigned short int  O4Sz09  =  0;
- unsigned char KT0uSYmn2 = 370407910;
+ unsigned char KT0uSYmn2 = (unsigned char)370407910;
   int  q1j_3B  =  1148324907;
     short    Gf_Q_x    =    (short)-2133218557;
     unsigned long long    S6uVOlM7j    =    201061812;
@@ -36,7 +36,7 @@ int main(void)
 	long	GRCK9D	=	1581154358;
 	double	k371BC	=	-99606005;
 	long double	JNE25208qa	=	-1196551368;
-    unsigned char    W_Sjwu    =    -214519099;
+    unsigned char    W_Sjwu    =    (unsigned char)-214519099;
   unsigned long  V30Ww  =  1230712577;
   int  LPJGQrq  =  0;
   int  O2T2yLY5I  =  2105038055;

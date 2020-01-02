@@ -10,7 +10,7 @@ using namespace std;
 
 unsigned short  Sf_H(short int  tM26Bs1N_q,long long  nzVV_)
 {
-  return  -128479960;
+  return  (unsigned short)-128479960;
 }
 
 unsigned int kS7sFg_8T(unsigned char o_zE,unsigned long LACr7CgD,unsigned char m0C2aD2_) {
@@ -23,7 +23,7 @@ unsigned int	lVD_f_V1U3(unsigned long long	P6Hl2L,long long	p410,long long	g5y14
 }
 
 unsigned short int  H816kiV()  {
-  return  850825018;
+  return  (unsigned short)850825018;
 }
 
 unsigned char  bPG8(unsigned long  b8__V,long  f3z_BR0)  {
@@ -49,7 +49,7 @@ case 'a':
 vlqRuMWXBM &= 9139024;
 break;
 case 'b':
-Dt6Z6N25 = Sf_H(452926367, axkun_os);
+Dt6Z6N25 = Sf_H((short)452926367, axkun_os);
 break;
 case 'c':
 vlqRuMWXBM = kS7sFg_8T(x7i1H91F, vlqRuMWXBM, G0R35UF7K_);
@@ -70,7 +70,7 @@ case 'h':
 G0R35UF7K_ = WaFB * vlqRuMWXBM;
 break;
 }
-cout << WaFB << kS7sFg_8T(Mk6Ed61, G0R35UF7K_, -837322127) << endl;
+cout << WaFB << kS7sFg_8T(Mk6Ed61, G0R35UF7K_, (unsigned char)-837322127) << endl;
 
 switch (Dt6Z6N25)
 {

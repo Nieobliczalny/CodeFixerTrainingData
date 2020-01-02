@@ -12,7 +12,7 @@
 using namespace std;
 
 short	y944y_5H8u(unsigned int	FU0_d,unsigned short	S1Khl1Jl)	{
-	return	-1362671503;
+	return	(short)-1362671503;
 }
 
 unsigned char TFwY3J(unsigned int wWx0T_5GmL) {
@@ -112,7 +112,7 @@ case 2:
 t7w45F3Q /= XY5dQJPp;
 break;
 case 3:
-dfaV_D3w = y944y_5H8u(-655913105, -1867753818);
+dfaV_D3w = y944y_5H8u(-655913105, (unsigned short)-1867753818);
 break;
 case 4:
 U943x2_1 = (int)floor(LrJ1g);
@@ -220,7 +220,7 @@ break;
 }
 std::cout << UzpTjhh << c_Co6b << "Nm0e276v4j" << std::endl;
 
-I8dvrF5XCl = y944y_5H8u(-1537212942, -294705163);
+I8dvrF5XCl = y944y_5H8u(-1537212942, (unsigned short)-294705163);
 {
 int i = 0;
 while (i < 6)
@@ -246,7 +246,7 @@ Eh4_yb5 = (int)abs(GVpYZmy75R);
 break;
 case 'b':
 case 'B':
-mI7xI6rO = y944y_5H8u(1958781616, -1679644539);
+mI7xI6rO = y944y_5H8u(1958781616, (unsigned short)-1679644539);
 break;
 case 'c':
 case 'C':
@@ -296,7 +296,7 @@ Y5th = Y102YI4(1503217636);
 int i = 0;
 do
 {
-g0IXlL42xh = y944y_5H8u(-576113169, 1878056653);
+g0IXlL42xh = y944y_5H8u(-576113169, (unsigned short)1878056653);
 ++i;
 }
 while (i < 7);
@@ -322,7 +322,7 @@ try
 int j = 5;
 while (j >= 0)
 {
-std::cout << y944y_5H8u(1323756055, -2041178864) << qs8l << "pU6Hfgiko" << g0IXlL42xh << std::endl;
+std::cout << y944y_5H8u(1323756055, (unsigned short)-2041178864) << qs8l << "pU6Hfgiko" << g0IXlL42xh << std::endl;
 j--;
 }
 }
@@ -334,7 +334,7 @@ DSK8KK16eg = (int)floor(Qmp5GYYn);
 
 uwjFH3s = TFwY3J(uwjFH3s);
 
-std::cout << hA7ZhG_ << eU2_n5W63 << y944y_5H8u(643767489, -1714355364) << "kzKKd" << std::endl;
+std::cout << hA7ZhG_ << eU2_n5W63 << y944y_5H8u(643767489, (unsigned short)-1714355364) << "kzKKd" << std::endl;
 Tu0FwU3400 = (long double)(DSK8KK16eg);
 if (g0IXlL42xh <= WxyyTgn_)
 {
@@ -347,7 +347,7 @@ int k = 0;
 while (k < 5)
 {
 k++;
-mqI281Rg = y944y_5H8u(mqI281Rg, 945272155);
+mqI281Rg = y944y_5H8u(mqI281Rg, (unsigned short)945272155);
 }
 }
 ++j;
@@ -359,7 +359,7 @@ else
 {
 std::cout << Qmp5GYYn << K36vQBw << std::endl;
 }
-std::cout << "gh_ZoCE2U_" << y944y_5H8u(mqI281Rg, -750446821) << "znX9R1H_Fu" << std::endl;
+std::cout << "gh_ZoCE2U_" << y944y_5H8u(mqI281Rg, (unsigned short)-750446821) << "znX9R1H_Fu" << std::endl;
 switch (Y5th)
 {
 case 0:
@@ -397,7 +397,7 @@ K36vQBw = (int)abs(Wc6G);
 }
 else if ((DSK8KK16eg <= U943x2_1) || ((qyp049CE) && (Y5th > eU2_n5W63)))
 {
-std::cout << qYWAfJ_v3 << y944y_5H8u(E1HB, 1259511966) << I8dvrF5XCl << "D_Q2ejh" << std::endl;
+std::cout << qYWAfJ_v3 << y944y_5H8u(E1HB, (unsigned short)1259511966) << I8dvrF5XCl << "D_Q2ejh" << std::endl;
 }
 else if (JBz9485j9 >= I8dvrF5XCl)
 {

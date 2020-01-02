@@ -20,7 +20,7 @@ long long LLpd() {
 int main(int argc, char** argv)
 {
     float    wAxGTP4    =    1239616555;
-  short  bJ_82YRjp9  =  704051844;
+  short  bJ_82YRjp9  =  (short)704051844;
   long long  b7p58_xL  =  -1127460470;
     unsigned int    D3147    =    728521805;
     unsigned char    y6qRgoD    =    (unsigned char)-395472046;
@@ -31,7 +31,7 @@ int main(int argc, char** argv)
   long long  CRKCqT2WRw  =  767444997;
  unsigned short bu718x1SM6 = -1609656032;
   float  zLGC0ZZF  =  1394688040;
- short IG102Z_s = 1311078447;
+ short IG102Z_s = (short)1311078447;
   unsigned short int  c7ZE_  =  0;
     long double    tIXz    =    2146502643;
     short int    Nto2Umo5    =    (short)1352372136;
@@ -41,7 +41,7 @@ int main(int argc, char** argv)
   unsigned short  g8micxLVj  =  685591671;
  unsigned long long Zbil = -688318252;
  double PitXWJG5O = -556779538;
-	short int	ZVGJ_TH27I	=	-1265502194;
+	short int	ZVGJ_TH27I	=	(short)-1265502194;
     unsigned char    Ie6mX3MGir    =    43194170;
 	char	b9Z35Twk	=	0;
   unsigned short  c304  =  (unsigned short)-1560790822;
@@ -53,7 +53,7 @@ int main(int argc, char** argv)
  long double Ukdhy5 = -1941344295;
     int    hG3kt6    =    -480416491;
  long long N27f4 = 1179039467;
-	char	nI7EY_	=	-1899152242;
+	char	nI7EY_	=	(char)-1899152242;
   long long  MGSd3yh3uO  =  -108448947;
   unsigned short  djBar3WyM  =  (unsigned short)-1890877276;
   unsigned short  WiE95  =  241800719;
@@ -65,7 +65,7 @@ int main(int argc, char** argv)
   unsigned short  ZYbkmO  =  -343356103;
  double t3Z_ = 1377197687;
  unsigned long cE3RJ = 1997641213;
- short O7G551GYx = 785472681;
+ short O7G551GYx = (short)785472681;
  unsigned int YR__89 = -213236089;
   long long  rUYxY5EH0  =  -1386154842;
     unsigned int    n9uZDx6    =    13285544;
@@ -79,7 +79,7 @@ int main(int argc, char** argv)
 	float	z4SvGJB	=	-1772352937;
     unsigned int    J1b1L1X    =    -565169350;
   unsigned int  kjLQ6_C  =  -367920444;
- unsigned char A2RQE = 6246255;
+ unsigned char A2RQE = (unsigned char)6246255;
     unsigned int    Zre30    =    -1318250704;
     float    hJcmqr98q    =    1369723004;
     unsigned long long    G__cCmPx3    =    0;

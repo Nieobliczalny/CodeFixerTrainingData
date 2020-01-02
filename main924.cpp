@@ -53,7 +53,7 @@ for (int i = 8; i >= 0; --i)
 std::cout << D14K << "aWSPA" << i2S4J << pp4NDIc << std::endl;
 }
 
-L1uH2 = B5568cOD5 / r9Fw(veNlW6B0, 534776168, Gv0dO, EGrd_Y2n64);
+L1uH2 = B5568cOD5 / r9Fw(veNlW6B0, (short)534776168, Gv0dO, EGrd_Y2n64);
 try
 {
 std::cout << "Mf_U5IH" << "xSzH454O" << std::endl;

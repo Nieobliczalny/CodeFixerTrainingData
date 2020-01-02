@@ -32,7 +32,7 @@ int main() {
     unsigned short int    C20Cm_    =    0,    rft_a_5    =    0,    nk918    =    0,    CT8qVsg6    =    0;
  float Vbw_ = 1325914297, L3hx = 2033419667, A1Aa4 = -795525708, YG8j0B4 = 1065548557, g1Ttw = -886438114, lu9vt32 = 51639053, q0DO_RJ9F = 453356384, F2gXg = 298663080, hRG5qe_ = 1499271790, tK1dagL = 1552752928, j2J0 = -1363894276, Nk4X0_ = 1283166490, Zi8s3 = 1347588312, vk9Ua5 = 1704314485, m1WsWph4 = -1006660341, Ad36xGA = -2130304896, yJYE61 = 142249419, G9_7yRE = -1843661364, A2_B8 = 822739032, m_84QMxMb = 643047818, qyPGIs = 1100163226, Pl650g4y1 = -1991234817, Y1dtT7 = 2096646776, PQw1FC__ = -1257520888, h0T_ = 880889295, bWr6C = 1858480518, E043 = 1848393985, Wo4x2W = 865915535, Nn9_t3_f = 242927111, iIg3_ = -611277913, U5wy20I = 733976858, FjCx = -429344484, NY6_u = -612266499, b8DRv = -1705966399, fM25otJ = 335082160, VionBCmO = -117371789, QHG9113Vs = 1102453192, e7uc0swo = -2013448715, QZhpKB9Bk = 1585338595, X_X46_qyM8 = 1237794506, eJUa1 = -1558098344;
 
-e7uc0swo = TF37kNfs(e7uc0swo, 723042066);
+e7uc0swo = TF37kNfs(e7uc0swo, (short)723042066);
 switch (CT8qVsg6)
 {
 case 0:
@@ -157,7 +157,7 @@ try
 {
 for (int k = 0; k < 8; k++)
 {
-X_X46_qyM8 = TF37kNfs(499146237, 1145545094);
+X_X46_qyM8 = TF37kNfs(499146237, (short)1145545094);
 }
 }
 catch (int& errorCode)
@@ -285,7 +285,7 @@ if (Wo4x2W < 1666767883)
 {
 try
 {
-U5wy20I = i_1WcN(705181911, CT8qVsg6);
+U5wy20I = i_1WcN((short)705181911, CT8qVsg6);
 }
 catch (int& errorCode)
 {
@@ -316,7 +316,7 @@ case 'a':
 E043 = FjCx - X_X46_qyM8;
 break;
 case 'b':
-A1Aa4 = i_1WcN(-1846086203, yJYE61);
+A1Aa4 = i_1WcN((short)-1846086203, yJYE61);
 break;
 case 'c':
 Nn9_t3_f = (int)abs(eJUa1);
@@ -376,7 +376,7 @@ case 2:
 A1Aa4 /= 2012833117;
 break;
 default:
-FjCx = i_1WcN(FjCx, 1339968362);
+FjCx = i_1WcN(FjCx, (unsigned short)1339968362);
 break;
 }
 }
@@ -416,7 +416,7 @@ case 4:
 lu9vt32 -= 247846736;
 break;
 case 5:
-YG8j0B4 = i_1WcN(236005882, QZhpKB9Bk);
+YG8j0B4 = i_1WcN((short)236005882, QZhpKB9Bk);
 break;
 case 6:
 Zi8s3 = i_1WcN(Zi8s3, nk918);

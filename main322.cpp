@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
  long gEVM9LEo;
  gEVM9LEo = -539608255;
   unsigned short  sImCkDs;
-  sImCkDs  =  -2018569957;
+  sImCkDs  =  (unsigned short)-2018569957;
     unsigned char    U1be;
     U1be    =    (unsigned char)1249196564;
 	unsigned int	vwS8G467_b;
@@ -44,7 +44,7 @@ int main(int argc, char** argv) {
     unsigned long long    lH09V8f2;
     lH09V8f2    =    1155266334;
 	char	WlvkE;
-	WlvkE	=	-321479954;
+	WlvkE	=	(char)-321479954;
 	unsigned short	x_8h54v0i4;
 	x_8h54v0i4	=	(unsigned short)-1515787341;
  long double peNhc;
@@ -54,7 +54,7 @@ int main(int argc, char** argv) {
 	unsigned long	Q9_E4ccm7;
 	Q9_E4ccm7	=	70873727;
 	char	vbT5M;
-	vbT5M	=	-1212217912;
+	vbT5M	=	(char)-1212217912;
   short int  GhLQaz;
   GhLQaz  =  (short)109426861;
  unsigned int FwX9sx0v;
@@ -66,7 +66,7 @@ int main(int argc, char** argv) {
  unsigned long long O4o_JGUO;
  O4o_JGUO = 2015469000;
  unsigned short int kwx1mV;
- kwx1mV = 471286525;
+ kwx1mV = (unsigned short)471286525;
  long long a8v6ZE0ax;
  a8v6ZE0ax = 0;
  char FUI2Nef;
@@ -76,7 +76,7 @@ int main(int argc, char** argv) {
     long double    wnQ_qHV;
     wnQ_qHV    =    1584376652;
  short iCE2x9roW;
- iCE2x9roW = -1166170661;
+ iCE2x9roW = (short)-1166170661;
 	unsigned short	Nwpi;
 	Nwpi	=	-528307043;
 	short	RO82ZvLN;
@@ -86,7 +86,7 @@ int main(int argc, char** argv) {
 	unsigned int	DIB8DUD0m;
 	DIB8DUD0m	=	80273554;
     short    a86HONc3;
-    a86HONc3    =    -789227545;
+    a86HONc3    =    (short)-789227545;
   unsigned long long  vWwPd2Z6;
   vWwPd2Z6  =  1298965655;
   unsigned long  S1xb3YM2WJ;
@@ -96,7 +96,7 @@ int main(int argc, char** argv) {
 	int	RUiv8;
 	RUiv8	=	-1394486790;
 
-cout << Y8Iujma82(-2069221465) << x_8h54v0i4 << "aoJoxG3" << "kXj0N" << hc_ftO(-1334706602, 312485616, Nwpi) << endl;
+cout << Y8Iujma82((short)-2069221465) << x_8h54v0i4 << "aoJoxG3" << "kXj0N" << hc_ftO(-1334706602, 312485616, Nwpi) << endl;
 switch (U1be)
 {
 case 'a':
@@ -141,7 +141,7 @@ Zx9E = (int)abs(E_bO8);
 break;
 }
 
-cout << M9_U(S1xb3YM2WJ, 1873930051, -2116387674, lH09V8f2, 1046747601) << "BnDX" << R64PGT(S1xb3YM2WJ) << R64PGT(S1xb3YM2WJ) << endl;
+cout << M9_U(S1xb3YM2WJ, 1873930051, (unsigned short)-2116387674, lH09V8f2, 1046747601) << "BnDX" << R64PGT(S1xb3YM2WJ) << R64PGT(S1xb3YM2WJ) << endl;
 
 if (RO82ZvLN <= 530489692)
 {
@@ -229,7 +229,7 @@ catch (int& errorCode)
 a86HONc3 = (int)abs(GhLQaz);
 }
 
-O4o_JGUO = hc_ftO(O4o_JGUO, 197485070, -508070525);
+O4o_JGUO = hc_ftO(O4o_JGUO, (short)197485070, -508070525);
 
 DIB8DUD0m = WlvkE / a8v6ZE0ax;
 if (LWxSyqj085 & -1413152481)
@@ -253,7 +253,7 @@ Yp20AOT = (Yp20AOT > 1261870697) ? vwS8G467_b : WlvkE;
 
 peNhc = hc_ftO(peNhc, kwx1mV, ZA9y);
 
-cout << M9_U(peNhc, kwx1mV, -1323958374, Kt_1LOz, lH09V8f2) << R64PGT((short)2045309255) << "EE1fw" << endl;
+cout << M9_U(peNhc, kwx1mV, (unsigned short)-1323958374, Kt_1LOz, lH09V8f2) << R64PGT((short)2045309255) << "EE1fw" << endl;
 {
 int i = 0;
 while (i < 2)
@@ -282,7 +282,7 @@ int j = 0;
 while (j < 9)
 {
 j++;
-cout << sTZ0p97r << "TB_I22V" << M9_U(peNhc, 1634654065, 316432791, 159046856, lH09V8f2) << endl;
+cout << sTZ0p97r << "TB_I22V" << M9_U(peNhc, 1634654065, (unsigned short)316432791, 159046856, lH09V8f2) << endl;
 }
 }
 }

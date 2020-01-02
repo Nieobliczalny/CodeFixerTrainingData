@@ -17,7 +17,7 @@ short int YKAohC72() {
 
 unsigned char	pQB1W(unsigned long	l5eLD0iyN,short	lDm33)
 {
-	return	124591445;
+	return	(unsigned char)124591445;
 }
 
 int  je68se(unsigned int  L50Jka,long long  CQl9288,int  x3p6jZc_)  {
@@ -28,7 +28,7 @@ int main(int argc, char** argv) {
     unsigned long long    Z_Qq    =    1552860754;
 	long double	s8D3	=	-122783873;
   char  CR064ES67  =  0;
-    short    U7K6_29gh5    =    1994700642;
+    short    U7K6_29gh5    =    (short)1994700642;
  unsigned long long gBm7 = 0;
   unsigned short  JO4M_EBf02  =  (unsigned short)1967944640;
 	long double	F77VDK	=	-1800110388;

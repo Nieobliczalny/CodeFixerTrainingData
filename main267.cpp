@@ -28,7 +28,7 @@ unsigned long long    iq44s3uW2(unsigned int    MXsOt66e_L,unsigned short int   
 
 short    llnUl5cM90(int    ihDW24)
 {
-    return    2140115980;
+    return    (short)2140115980;
 }
 
 int main(void) {
@@ -38,7 +38,7 @@ int main(void) {
 	short int	lnBnkbi	=	-767259775;
 	float	F_Q6621fZ	=	1238317452;
   int  U82KR1YZOM  =  0;
-  short  OE46  =  -1945408819;
+  short  OE46  =  (short)-1945408819;
     short int    McJr0zJdNV    =    0;
     long long    QhI7_B1    =    -1407429506;
 	unsigned long long	Z96R6	=	-1455593996;
@@ -51,7 +51,7 @@ int main(void) {
 	double	IQomDNb2e	=	1610611600;
 	unsigned int	y7Pb6e9	=	739340464;
  unsigned long long DyOZ_j_5S0 = 692348396;
-  char  H516_YL  =  -1931140268;
+  char  H516_YL  =  (char)-1931140268;
   double  F7kG4oh  =  614402735;
  short mL1G2g0J97 = -1954318601;
     float    sBKkXo    =    999141222;
@@ -61,7 +61,7 @@ int main(void) {
 	unsigned char	b93x5C5	=	(unsigned char)251812853;
  float a_A071t = -1869057126;
 	double	sMnCfb8B	=	-1917798879;
-	char	t5v1i	=	-1682132496;
+	char	t5v1i	=	(char)-1682132496;
   unsigned short  JDy4kn14t  =  -1360899642;
     long double    PBc623kZ    =    2105446162;
 	unsigned char	s5uR1a6T	=	2029031862;
@@ -71,7 +71,7 @@ int main(void) {
  double NiCw_ukeN = 1189760152;
  char hZJN = (char)1712528854;
   short int  fWpf3w7TRZ  =  0;
- short int LC6ISuS = -1913935409;
+ short int LC6ISuS = (short)-1913935409;
  unsigned int ZTgO = 261503665;
 	long	N54ps	=	469521623;
   unsigned char  Lp1z  =  -950305272;
@@ -85,7 +85,7 @@ int main(void) {
   long long  GPJqs80  =  727997780;
   long  ziUQeT  =  -1517316263;
  long double yB4nX9 = -330527221;
-    unsigned short    k8cj8    =    1613722439;
+    unsigned short    k8cj8    =    (unsigned short)1613722439;
 	unsigned int	P1N8_	=	-490793016;
   double  k1gZP  =  1330564383;
     double    V289Iy_Cu    =    1359127463;
@@ -95,7 +95,7 @@ int main(void) {
  unsigned char koSDuk = -966484427;
     long double    UVl5xw1    =    728637343;
  unsigned char l4O65gB = 1380205294;
-  char  IPpoMaDT  =  -361432490;
+  char  IPpoMaDT  =  (char)-361432490;
     unsigned long long    wFMT0    =    1283944575;
     unsigned short int    bxFi5QL1E_    =    674279641;
   float  uEv8  =  -770615;
@@ -107,7 +107,7 @@ int main(void) {
     short    wVmvQXgQ    =    -685942810;
 	long double	HhLsL65	=	-79715780;
 	unsigned long	V72p	=	-1265016720;
-	unsigned char	wKcI_nad	=	471834425;
+	unsigned char	wKcI_nad	=	(unsigned char)471834425;
 	unsigned short	Tr8Mg3nSl	=	1101767239;
  unsigned char N30Bq4 = -261818075;
 
@@ -167,7 +167,7 @@ while (j < 7)
 {
 if (OE46)
 {
-lnBnkbi = iq44s3uW2(1168003526, 250756625, N30Bq4, s5uR1a6T, kwFc5rtxnS);
+lnBnkbi = iq44s3uW2(1168003526, (unsigned short)250756625, N30Bq4, s5uR1a6T, kwFc5rtxnS);
 }
 else
 {
@@ -194,7 +194,7 @@ if (McJr0zJdNV > -1313139786)
 int k = 0;
 while (k < 3)
 {
-sCOa05a_n_ = iq44s3uW2(sCOa05a_n_, uEv8, 904623172, (short)-1151330351, -176272665);
+sCOa05a_n_ = iq44s3uW2(sCOa05a_n_, uEv8, (unsigned char)904623172, (short)-1151330351, -176272665);
 ++k;
 }
 }
@@ -204,7 +204,7 @@ else if (y3RPJ >= 1761759853)
 switch (zH8t)
 {
 case 'a':
-ZIo2AHKM3 = WM5M9HiZu(-1830156729);
+ZIo2AHKM3 = WM5M9HiZu((short)-1830156729);
 break;
 }
 }
@@ -281,7 +281,7 @@ else
 int j = 0;
 while (j < 2)
 {
-std::cout << UVl5xw1 << iq44s3uW2(-1269625590, 2128985536, wKcI_nad, (short)1296435694, Vot1) << "uFX1n0Ajx" << std::endl;
+std::cout << UVl5xw1 << iq44s3uW2(-1269625590, (unsigned short)2128985536, wKcI_nad, (short)1296435694, Vot1) << "uFX1n0Ajx" << std::endl;
 j++;
 }
 }
@@ -392,7 +392,7 @@ case 9:
 HhLsL65 = (int)ceil(uEv8);
 break;
 default:
-y7Pb6e9 = WM5M9HiZu(-1963501069);
+y7Pb6e9 = WM5M9HiZu((short)-1963501069);
 break;
 }
 std::cout << "bFLO0" << WM5M9HiZu((short)-1024534087) << ivhmemha_() << std::endl;
@@ -403,7 +403,7 @@ do
 --i;
 for (int j = 0; j < 3; ++j)
 {
-mL1G2g0J97 = iq44s3uW2(-482778532, kwFc5rtxnS, 711046111, Vot1, 534856574);
+mL1G2g0J97 = iq44s3uW2(-482778532, kwFc5rtxnS, (unsigned char)711046111, Vot1, 534856574);
 }
 }
 while (i >= 0);

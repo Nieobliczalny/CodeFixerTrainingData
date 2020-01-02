@@ -9,7 +9,7 @@
 
 unsigned char	avrl66(unsigned long long	cBk0o5f_)
 {
-	return	1048944666;
+	return	(unsigned char)1048944666;
 }
 
 long    AS4Maj()    {
@@ -19,7 +19,7 @@ long    AS4Maj()    {
 int main(int argc, char** argv)
 {
  unsigned char vSOE, K80vNh, Q_Ys7pg1, bszwn4, tGKi83_b5, n1895y1, IFCbl8uwDe, IEW1, ehyu, Y6MpEVM, g899, g_F0laI, l61J_2uxV, BUa1l5ZSc, Z21Cv, yquk, p_w8DQ;
-  vSOE = K80vNh = Q_Ys7pg1 = bszwn4 = tGKi83_b5 = n1895y1 = IFCbl8uwDe = IEW1 = ehyu = Y6MpEVM = g899 = g_F0laI = l61J_2uxV = BUa1l5ZSc = Z21Cv = yquk = p_w8DQ = -1849919972;
+  vSOE = K80vNh = Q_Ys7pg1 = bszwn4 = tGKi83_b5 = n1895y1 = IFCbl8uwDe = IEW1 = ehyu = Y6MpEVM = g899 = g_F0laI = l61J_2uxV = BUa1l5ZSc = Z21Cv = yquk = p_w8DQ = (unsigned char)-1849919972;
 	unsigned long	rvs1C0a,	uVa6No_oc6,	lEwH07ax2T;
 		rvs1C0a	=	uVa6No_oc6	=	lEwH07ax2T	=	0;
 

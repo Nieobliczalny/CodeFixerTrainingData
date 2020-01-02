@@ -11,7 +11,7 @@
 using namespace std;
 
 short	SDtTu7MeZ(char	lzDN0OM,long long	o1KNLn,unsigned long long	QmvpAz,unsigned long long	z_yn1Q84R,unsigned long	n850)	{
-	return	-1794573510;
+	return	(short)-1794573510;
 }
 
 unsigned int  GzVKPxK()  {
@@ -121,7 +121,7 @@ int main()
 
 if ((N69zl_v < MB78r3v) || (lEMd8_p <= -2140660492))
 {
-Vv7owZ7kFr = SDtTu7MeZ(-70046645, L7046fH4FP, 1189048248, nb3cnbj6, j4blZGrlr);
+Vv7owZ7kFr = SDtTu7MeZ((char)-70046645, L7046fH4FP, 1189048248, nb3cnbj6, j4blZGrlr);
 }
 
 iBLi = Pm9101 << 814276926;

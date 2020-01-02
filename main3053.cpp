@@ -492,7 +492,7 @@ Uw5ldwr0z = Bp4S1Qex();
 break;
 case 'd':
 case 'D':
-ifa5Yif = (GS49m65B < mXfywK) ? 548983591 : K4HF9t_s;
+ifa5Yif = (GS49m65B < mXfywK) ? (unsigned short)548983591 : K4HF9t_s;
 break;
 case 'e':
 case 'E':
@@ -741,7 +741,7 @@ return 0;
 
 short  Bp4S1Qex()
 {
-  return  -338234629;
+  return  (short)-338234629;
 }
 
 short int  eW2fl(unsigned int  B0w43de)  {

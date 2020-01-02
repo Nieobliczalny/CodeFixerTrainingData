@@ -13,7 +13,7 @@ short int RQFzcaV() {
 }
 
 int main() {
- unsigned short r8mkCK = -785166358;
+ unsigned short r8mkCK = (unsigned short)-785166358;
 	unsigned char	ItHD	=	(unsigned char)-277163452;
 	unsigned short int	PY5TM7Ft	=	0;
  unsigned long AzM8_I = -1591609021;

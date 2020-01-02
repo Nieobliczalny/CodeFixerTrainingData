@@ -47,7 +47,7 @@ for (int j = 0; j < 8; ++j)
 {
 if (PfDWAe1p8 & 1624162659)
 {
-PfDWAe1p8 = Ft2K9(-1719116868, P9ZqLn, 307771733);
+PfDWAe1p8 = Ft2K9(-1719116868, P9ZqLn, (unsigned char)307771733);
 }
 else if (((m4_k8cyC & -348745617) && (PL8WT & -1722441052)) || ((DJ8EkG67QG) || (Tu048lK != Id_SdFC781)))
 {
@@ -108,7 +108,7 @@ YqNYy9 = Ft2K9(cU0a, F7pcFom0W, pW9a2l8tt8);
 
 if (DJ8EkG67QG != 143430989)
 {
-std::cout << Ft2K9(-1483195279, 1980808493, 594609583) << std::endl;
+std::cout << Ft2K9(-1483195279, 1980808493, (unsigned char)594609583) << std::endl;
 }
 else
 {
@@ -136,7 +136,7 @@ IJlIoQg %= 1875264343;
 break;
 case 'f':
 case 'F':
-YqNYy9 = Ft2K9(DJ8EkG67QG, 1373101729, -811035405);
+YqNYy9 = Ft2K9(DJ8EkG67QG, 1373101729, (unsigned char)-811035405);
 break;
 case 'g':
 case 'G':
@@ -206,7 +206,7 @@ return 0;
 
 unsigned short int  IORw()
 {
-  return  -702607456;
+  return  (unsigned short)-702607456;
 }
 
 unsigned short	Ft2K9(long long	HDz14G0io,long long	TL721_,unsigned char	PT9C0)

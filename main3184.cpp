@@ -28,7 +28,7 @@ int main(void) {
 
 std::cout << kZ_kl(P7tc, J4_ZY4, qO3RW0nno5) << std::endl;
 qO3RW0nno5 *= 1441683128;
-s3BD = kZ_kl(-1545157649, -2126736196, PwhNa_q_);
+s3BD = kZ_kl((unsigned char)-1545157649, -2126736196, PwhNa_q_);
 oQb79 = AXNd__ / y60kn5u7PY;
 
 JRQ0pQr = kZ_kl((unsigned char)-807023387, 2108236308, -163414210);
@@ -46,7 +46,7 @@ mOg4pqQ87 /= 49498777;
 }
 else
 {
-JRQ0pQr = kZ_kl(-651459755, B0Oe, 1166313127);
+JRQ0pQr = kZ_kl((unsigned char)-651459755, B0Oe, 1166313127);
 }
 return 0;
 }

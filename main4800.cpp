@@ -11,7 +11,7 @@ using namespace std;
 
 char    Gg8d8()
 {
-    return    -1696130143;
+    return    (char)-1696130143;
 }
 
 unsigned int    rwW3(char    l6q4Me)
@@ -38,7 +38,7 @@ int main(int argc, char** argv)
  short int Wcgu;
  Wcgu = 0;
     unsigned short    Ux4iG1KyVN;
-    Ux4iG1KyVN    =    -1402484795;
+    Ux4iG1KyVN    =    (unsigned short)-1402484795;
     short int    gDN_1fIr;
     gDN_1fIr    =    (short)2038932882;
  unsigned long long TKSBKfoN;
@@ -50,7 +50,7 @@ int main(int argc, char** argv)
  double L031e;
  L031e = 1691189703;
     unsigned short    i_x0r9;
-    i_x0r9    =    1810688329;
+    i_x0r9    =    (unsigned short)1810688329;
   float  pVC0y;
   pVC0y  =  -982468610;
  char zjbh3JaZ6;
@@ -64,7 +64,7 @@ int main(int argc, char** argv)
     float    I12y_;
     I12y_    =    -1483175932;
   char  s8kT_21lJk;
-  s8kT_21lJk  =  1214750870;
+  s8kT_21lJk  =  (char)1214750870;
 	unsigned long	dLb8;
 	dLb8	=	253908338;
 
@@ -173,7 +173,7 @@ case 3:
 i_x0r9 = Gg8d8();
 break;
 case 4:
-ISQ2nrbk3 = rwW3(-451068760);
+ISQ2nrbk3 = rwW3((char)-451068760);
 break;
 case 5:
 I12y_ = (int)floor(L031e);
@@ -257,7 +257,7 @@ FW3TIInICk = (int)ceil(ivVME);
 }
 else if (((xvWmxe8C1 < FW3TIInICk) && (i_x0r9 <= DxA4X7h4Ie)) || (Uih0n > i_x0r9))
 {
-cout << FW3TIInICk << rwW3(-1490405317) << "tPr1nt_" << endl;
+cout << FW3TIInICk << rwW3((char)-1490405317) << "tPr1nt_" << endl;
 }
 else if (((dLb8 <= gDN_1fIr) && (L031e < DxA4X7h4Ie)) || (Uih0n))
 {
@@ -273,7 +273,7 @@ while (j >= 0);
 }
 else if ((L031e > Uih0n) && (Bl736m6b > DxA4X7h4Ie))
 {
-gDN_1fIr = hfZS7V(-386069812, gDN_1fIr);
+gDN_1fIr = hfZS7V((char)-386069812, gDN_1fIr);
 }
 else if ((ISQ2nrbk3 >= -1630167815) && ((RBKQ6 <= DxA4X7h4Ie) && (I12y_ < -1191087170)))
 {
@@ -323,7 +323,7 @@ int k = 0;
 while (k < 4)
 {
 ++k;
-Wcgu = rwW3(-1184476252);
+Wcgu = rwW3((char)-1184476252);
 }
 }
 }
@@ -343,7 +343,7 @@ while (j < 10)
 ++j;
 if (TKSBKfoN)
 {
-i_x0r9 = hfZS7V(2014986162, 332200400);
+i_x0r9 = hfZS7V((char)2014986162, 332200400);
 }
 else
 {
@@ -376,7 +376,7 @@ while (k >= 0);
 }
 else
 {
-gDN_1fIr = hfZS7V(-584436000, -560810031);
+gDN_1fIr = hfZS7V((char)-584436000, -560810031);
 }
 
 for (int i = 0; i < 7; ++i)
@@ -399,7 +399,7 @@ case 1:
 pVC0y = Uih0n ^ Ux4iG1KyVN;
 break;
 case 2:
-Wcgu = rwW3(-151772020);
+Wcgu = rwW3((char)-151772020);
 break;
 case 3:
 rNKuY846 <<= Bl736m6b;
@@ -428,7 +428,7 @@ break;
 }
 }
 
-RBKQ6 = hfZS7V(1719697218, i_x0r9);
+RBKQ6 = hfZS7V((char)1719697218, i_x0r9);
 
 return 0;
 }

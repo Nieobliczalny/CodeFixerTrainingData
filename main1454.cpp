@@ -274,7 +274,7 @@ RxpIP58yc = rx9Y_Zj45 | yZrRhfmes;
 break;
 case 'c':
 case 'C':
-gN6rA8uk = iwmeE58a ^ 942076346;
+gN6rA8uk = iwmeE58a ^ (unsigned short)942076346;
 break;
 case 'd':
 case 'D':

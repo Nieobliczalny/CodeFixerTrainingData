@@ -16,7 +16,7 @@ using std::ceil;
 using std::floor;
 
 unsigned char	D18b8o_9E8(int	a_b0Mv,unsigned short int	S7dr6Gz,unsigned long long	vj35B4Jk,short int	siBJ,unsigned int	n1Qq12a_V)	{
-	return	-41667489;
+	return	(unsigned char)-41667489;
 }
 
 int  n3Ve2(long  CwRGc3,long long  dIfxJl,int  NyE2U,unsigned long long  u6X4mm_hF,int  jW_iFPep6)
@@ -55,7 +55,7 @@ switch (h3sj1)
 {
 case 'a':
 case 'A':
-h3sj1 = Y5tFeYT9h(-1280966503, -21645318);
+h3sj1 = Y5tFeYT9h(-1280966503, (short)-21645318);
 break;
 case 'b':
 case 'B':
@@ -125,7 +125,7 @@ ZuGRT_E6X -= EL_EcK6_;
 break;
 case 'd':
 case 'D':
-LwNa = D18b8o_9E8(LwNa, -1870193040, 294083834, (short)-578716301, Ty1zKIt_C);
+LwNa = D18b8o_9E8(LwNa, (unsigned short)-1870193040, 294083834, (short)-578716301, Ty1zKIt_C);
 break;
 case 'e':
 case 'E':
@@ -248,7 +248,7 @@ do
 int k = 10;
 do
 {
-aHT__iu0R = Y5tFeYT9h(D9li, 1439603773);
+aHT__iu0R = Y5tFeYT9h(D9li, (short)1439603773);
 k--;
 }
 while (k >= 0);
@@ -266,7 +266,7 @@ case 'a':
 EL_EcK6_ = (rTlDm & 1511285539) ? 2128992589 : -1670773480;
 break;
 case 'b':
-GpZ9QUqdO5 = D18b8o_9E8(-318372247, ZuGRT_E6X, 458147385, 1519533864, te_KZuD);
+GpZ9QUqdO5 = D18b8o_9E8(-318372247, ZuGRT_E6X, 458147385, (short)1519533864, te_KZuD);
 break;
 case 'c':
 aHT__iu0R = Y5tFeYT9h(F0duIgB, YrStYQmajc);
@@ -278,7 +278,7 @@ case 'e':
 Ty1zKIt_C = aHT__iu0R | 1207073504;
 break;
 case 'f':
-rTlDm = Y5tFeYT9h(PMK7G0D, 92660517);
+rTlDm = Y5tFeYT9h(PMK7G0D, (short)92660517);
 break;
 case 'g':
 KOLn = (int)abs(cV6__ecI);
@@ -317,7 +317,7 @@ zlaEXN7 = bUuNIb9(zlaEXN7, yvvl9F, qTpt9, v3TNI);
 break;
 case 'g':
 case 'G':
-Ty1zKIt_C = D18b8o_9E8(1566391280, 642793668, qTpt9, (short)2125365530, cMef6bNx) % 551444963;
+Ty1zKIt_C = D18b8o_9E8(1566391280, (unsigned short)642793668, qTpt9, (short)2125365530, cMef6bNx) % 551444963;
 break;
 case 'h':
 case 'H':

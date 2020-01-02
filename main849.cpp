@@ -19,7 +19,7 @@ int main(void) {
     float    N91LeB4;
     N91LeB4    =    1427212562;
  short XQ49762;
- XQ49762 = 660547426;
+ XQ49762 = (short)660547426;
   unsigned long  RKqj;
   RKqj  =  1421113057;
     float    yW7H883xD;
@@ -29,7 +29,7 @@ int main(void) {
  short myStCjokR;
  myStCjokR = 1203927652;
   short  agOBHrMrE;
-  agOBHrMrE  =  992713938;
+  agOBHrMrE  =  (short)992713938;
     int    kzL9;
     kzL9    =    699946378;
  float T67E9n1f7s;
@@ -39,7 +39,7 @@ int main(void) {
 	short int	OT4JV;
 	OT4JV	=	(short)1742958687;
 	short	Xzdh3lz;
-	Xzdh3lz	=	2010406958;
+	Xzdh3lz	=	(short)2010406958;
  unsigned char LDb8tIM;
  LDb8tIM = 964710264;
 	short	e7x2;
@@ -49,7 +49,7 @@ int main(void) {
 	long	u539;
 	u539	=	-1720321239;
 	short	C4_73;
-	C4_73	=	-1026122126;
+	C4_73	=	(short)-1026122126;
   long double  p4Eh;
   p4Eh  =  -2017573055;
 	unsigned long	nJX0;
@@ -59,7 +59,7 @@ int main(void) {
     unsigned long    I5yNr;
     I5yNr    =    -1510791225;
     char    zXO5ukh8M7;
-    zXO5ukh8M7    =    829269921;
+    zXO5ukh8M7    =    (char)829269921;
 	unsigned int	IG_B;
 	IG_B	=	-1390373412;
  double MHS6mn9ZUG;
@@ -73,7 +73,7 @@ int main(void) {
     unsigned int    q6JEiDaI;
     q6JEiDaI    =    -289213520;
 	unsigned short int	nw64tF;
-	nw64tF	=	1943173001;
+	nw64tF	=	(unsigned short)1943173001;
  unsigned short int zT76HD30_4;
  zT76HD30_4 = (unsigned short)-506050512;
 	char	A28EN;
@@ -83,7 +83,7 @@ int main(void) {
     unsigned char    UcNi1;
     UcNi1    =    2121053073;
 	short	H3nU13i;
-	H3nU13i	=	460676240;
+	H3nU13i	=	(short)460676240;
 	unsigned char	Zdymh5;
 	Zdymh5	=	(unsigned char)1199510367;
   char  HOqpE8Aq2;
@@ -101,7 +101,7 @@ int main(void) {
   long double  VVh7v0d5_M;
   VVh7v0d5_M  =  385828389;
  short int u4YKt2UtZ5;
- u4YKt2UtZ5 = -1483712323;
+ u4YKt2UtZ5 = (short)-1483712323;
  long double Kt96;
  Kt96 = -545599044;
   short  j6bDAj;
@@ -115,7 +115,7 @@ int main(void) {
  unsigned char buC6uL__3q;
  buC6uL__3q = 0;
     short    Mp3X;
-    Mp3X    =    439566989;
+    Mp3X    =    (short)439566989;
 	unsigned long long	mlt6u;
 	mlt6u	=	480511314;
     long    DuX3p7;
@@ -139,7 +139,7 @@ int main(void) {
 	long double	XxMyjPix;
 	XxMyjPix	=	1824180407;
  unsigned short U2E2;
- U2E2 = -1942416993;
+ U2E2 = (unsigned short)-1942416993;
   char  J6SBSE1j6i;
   J6SBSE1j6i  =  0;
     char    LRrTK;

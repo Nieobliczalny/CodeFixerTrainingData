@@ -13,7 +13,7 @@ using std::ceil;
 using std::floor;
 
 char  aOXJn(unsigned short int  ZG_h15yxj8)  {
-  return  449952059;
+  return  (char)449952059;
 }
 
 long    vyh_(long    V7z_71dz1,long    oclaG4F1,int    R5_n4ec)    {
@@ -79,7 +79,7 @@ while (j < 2);
 }
 else if (iRM_jI0 & GdEg96gFfo)
 {
-uenKO = aOXJn(702304357);
+uenKO = aOXJn((unsigned short)702304357);
 }
 else if (FV39j_60)
 {
@@ -102,7 +102,7 @@ tpc__ = (int)floor(eD7_71Q);
 
 ozHyl = (double)(FV39j_60);
 
-std::cout << "jO8hXi_" << tpc__ << I5tcj_5 << aOXJn(-1073075943) << aOXJn((unsigned short)951430550) << std::endl;
+std::cout << "jO8hXi_" << tpc__ << I5tcj_5 << aOXJn((unsigned short)-1073075943) << aOXJn((unsigned short)951430550) << std::endl;
 
 if (hh44J == 0)
 {
@@ -119,7 +119,7 @@ while (i < 3);
 }
 Aj2d68 = (double)(QnG79);
 OSSjn62 = aOXJn(OSSjn62);
-nV9pnHI = aOXJn(-632349335);
+nV9pnHI = aOXJn((unsigned short)-632349335);
 
 for (int i = 2; i >= 0; i--)
 {

@@ -31,7 +31,7 @@ if ((O_cB >= wXV2) || (M66fn4 <= C1_5Wz49))
 switch (hxei)
 {
 case 'a':
-z5sm = b_nxo(-461377009, (unsigned short)1798319041);
+z5sm = b_nxo((short)-461377009, (unsigned short)1798319041);
 break;
 case 'b':
 nGY35 |= 2027838101;
@@ -43,7 +43,7 @@ case 'd':
 slqLJ35q = (xV0ep != 1488127587) ? hxei : 118972465;
 break;
 case 'e':
-z5sm = b_nxo(eBsu2, 1087776612);
+z5sm = b_nxo(eBsu2, (unsigned short)1087776612);
 break;
 case 'f':
 xV0ep = (int)abs(s_8IqeCaq8);
@@ -61,7 +61,7 @@ case 'j':
 F3dZ5vnU = lrtL8eIB3(F3dZ5vnU, -1077777695);
 break;
 default:
-z5sm = b_nxo(F3dZ5vnU, -380643387);
+z5sm = b_nxo(F3dZ5vnU, (unsigned short)-380643387);
 break;
 }
 }
@@ -71,7 +71,7 @@ else
 int k = 8;
 do
 {
-d6qC7_iBm4 = lrtL8eIB3(1290198410, Syor2Qn);
+d6qC7_iBm4 = lrtL8eIB3((unsigned char)1290198410, Syor2Qn);
 --k;
 }
 while (k >= 0);
@@ -86,7 +86,7 @@ eBsu2 = -1248813081 / b_nxo(N21v, ZY70i0);
 
 try
 {
-std::cout << "qO0KWqes" << "BDB26" << lrtL8eIB3(519566454, -308858890) << "jmB9nXY7PK" << std::endl;
+std::cout << "qO0KWqes" << "BDB26" << lrtL8eIB3((unsigned char)519566454, -308858890) << "jmB9nXY7PK" << std::endl;
 }
 catch (int& errorCode)
 {
@@ -156,7 +156,7 @@ try
 {
 if (O9cJO_)
 {
-z5sm = b_nxo(-995968764, (unsigned short)-474828586);
+z5sm = b_nxo((short)-995968764, (unsigned short)-474828586);
 }
 }
 catch (int& errorCode)
@@ -178,7 +178,7 @@ eBsu2 ^= 764798326;
 std::cout << "i94zg2d" << std::endl;
 if (N21v)
 {
-z5sm = b_nxo(O9cJO_, -1876739957);
+z5sm = b_nxo(O9cJO_, (unsigned short)-1876739957);
 }
 else
 {
@@ -201,7 +201,7 @@ else if (Syor2Qn != -1559301783)
 {
 if (OTYwFU9_G >= Mgnj3N8_e1)
 {
-z5sm = b_nxo(O9cJO_, 1352149005);
+z5sm = b_nxo(O9cJO_, (unsigned short)1352149005);
 }
 else
 {
@@ -249,7 +249,7 @@ O9cJO_ = Mgnj3N8_e1 ^ 1148824717;
 }
 else
 {
-z5sm = b_nxo(2074789401, (unsigned short)838385280);
+z5sm = b_nxo((short)2074789401, (unsigned short)838385280);
 }
 --j;
 }
@@ -265,7 +265,7 @@ for (int i = 8; i >= 0; --i)
 int j = 0;
 do
 {
-z5sm = b_nxo(-634998647, (unsigned short)-1673391512);
+z5sm = b_nxo((short)-634998647, (unsigned short)-1673391512);
 j++;
 }
 while (j < 10);

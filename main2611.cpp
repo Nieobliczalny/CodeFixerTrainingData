@@ -88,7 +88,7 @@ int main()
 	IKzIv9N3N	=	1405556679;
 	LK6576	=	1035195360;
 
-std::cout << "maEd5C8T7" << "W92F8NT7BS" << keB2rH(2032810595, 1792876660, v6926Gv0) << rzi24P << J3x88Nh << std::endl;
+std::cout << "maEd5C8T7" << "W92F8NT7BS" << keB2rH(2032810595, (short)1792876660, v6926Gv0) << rzi24P << J3x88Nh << std::endl;
 
 std::cout << ZJR8 / R83rr << std::endl;
 if (dWmtB_ > R83rr)
@@ -109,7 +109,7 @@ else
 {
 if (U0X4hB_K <= K9I5YeG1)
 {
-XW6z6_t0l = K37S(XW6z6_t0l, 1479920537);
+XW6z6_t0l = K37S(XW6z6_t0l, (unsigned short)1479920537);
 }
 else
 {
@@ -123,7 +123,7 @@ return 0;
 }
 
 short int	keB2rH(unsigned int	a4ty,short	FpAsvFI_e,unsigned short	C980npDZ)	{
-	return	1895111671;
+	return	(short)1895111671;
 }
 
 short int	l_5r99506H(short int	xvI57R,char	BmPpN4B57,unsigned long	YKF357tF80,char	O2n9Q,long	DY75_N)
@@ -137,6 +137,6 @@ unsigned int  DLN0L0t5_()
 }
 
 char  K37S(int  Z_LV71VY,unsigned short  NhoRt38y27)  {
-  return  -1379006791;
+  return  (char)-1379006791;
 }
 

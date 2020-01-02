@@ -24,7 +24,7 @@ int main() {
   unsigned long  y1_5a1_;
   y1_5a1_  =  -1580273276;
  short e2jqCv;
- e2jqCv = 2131608565;
+ e2jqCv = (short)2131608565;
  short int Asw83OsFdy;
  Asw83OsFdy = 0;
   unsigned short int  v53k0ZP;
@@ -40,7 +40,7 @@ int main() {
     int    FR5CxVZ5t5;
     FR5CxVZ5t5    =    -461588001;
 	char	MtPt11UV7o;
-	MtPt11UV7o	=	-2121622802;
+	MtPt11UV7o	=	(char)-2121622802;
     int    moCOTO5S2S;
     moCOTO5S2S    =    423090111;
   unsigned char  I5nN1;
@@ -51,7 +51,7 @@ int main() {
 switch (v53k0ZP)
 {
 case 0:
-MtPt11UV7o = mdKD7i5(MtPt11UV7o, moCOTO5S2S, 1665456265, -1618315933, 1555908236);
+MtPt11UV7o = mdKD7i5(MtPt11UV7o, moCOTO5S2S, (short)1665456265, -1618315933, 1555908236);
 break;
 case 1:
 Asw83OsFdy = (int)abs(MtPt11UV7o) * 0;
@@ -157,7 +157,7 @@ y1_5a1_ ^= NTN59FXO;
 
 if ((I5nN1 / Asw83OsFdy) < -123060290)
 {
-EjI7 = mdKD7i5(-741753912, -1638623787, L_iEfBn, 304240674, zd1_j) / Asw83OsFdy;
+EjI7 = mdKD7i5(-741753912, -1638623787, L_iEfBn, (short)304240674, zd1_j) / Asw83OsFdy;
 }
 
 switch (v53k0ZP)

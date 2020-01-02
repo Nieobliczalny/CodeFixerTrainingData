@@ -33,7 +33,7 @@ int main()
  float F8R_9;
  F8R_9 = 1070266440;
 	unsigned short int	OHkJzW8tD9;
-	OHkJzW8tD9	=	-1648832426;
+	OHkJzW8tD9	=	(unsigned short)-1648832426;
   double  hO_J8z8bVw;
   hO_J8z8bVw  =  1248514470;
     unsigned short int    sLD4S7;
@@ -43,7 +43,7 @@ int main()
     long double    W36CL0d_pd;
     W36CL0d_pd    =    60915277;
     short    tRoO9J9k;
-    tRoO9J9k    =    -1355832800;
+    tRoO9J9k    =    (short)-1355832800;
 	unsigned short	cxMBK8C;
 	cxMBK8C	=	-2113672996;
  short oI01egYA1g;
@@ -55,7 +55,7 @@ int main()
   float  lgj1lW4;
   lgj1lW4  =  -2008909720;
 	unsigned short int	t_FEqR;
-	t_FEqR	=	1538804534;
+	t_FEqR	=	(unsigned short)1538804534;
   short  R6Vptu;
   R6Vptu  =  (short)-1975630945;
     unsigned short    hB5Y;
@@ -65,7 +65,7 @@ int main()
  unsigned long X4oJjW2FX;
  X4oJjW2FX = -493606207;
     unsigned char    BspbQ62DId;
-    BspbQ62DId    =    -2066193398;
+    BspbQ62DId    =    (unsigned char)-2066193398;
 	unsigned long long	g761A5Ti;
 	g761A5Ti	=	-1355987187;
   unsigned long  sQEP66;
@@ -83,7 +83,7 @@ int main()
   unsigned int  wW4it7;
   wW4it7  =  1333945562;
   unsigned short int  tDQqI3Ef07;
-  tDQqI3Ef07  =  -457399420;
+  tDQqI3Ef07  =  (unsigned short)-457399420;
 	short int	VCe_1P3cVt;
 	VCe_1P3cVt	=	(short)-1172351751;
     int    py3L;

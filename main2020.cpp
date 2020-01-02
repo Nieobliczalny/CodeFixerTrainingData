@@ -19,7 +19,7 @@ long long	Awzla(short int	gnVmI65U);
 
 int main(int argc, char** argv) {
   double  ff0p5_  =  -117553203;
-	char	h6356qsbG	=	121525815;
+	char	h6356qsbG	=	(char)121525815;
  long long WN1xBau = 39183528;
   short  Ed4qCKG40  =  (short)-336811903;
  int Pdt8nyx7 = 119334415;
@@ -37,7 +37,7 @@ int main(int argc, char** argv) {
 	unsigned long	dl2D	=	-201256299;
   float  t_3m_7EGg  =  1956262543;
  long long Gg_7x6_8T = 1016901374;
-	short int	SLCF4	=	729317342;
+	short int	SLCF4	=	(short)729317342;
 	unsigned char	cuZ63V	=	(unsigned char)1598982411;
 	long	p_mn3_bW	=	485697892;
 	unsigned long long	vG6O4008b	=	-354823944;
@@ -55,7 +55,7 @@ int main(int argc, char** argv) {
   long double  R55D_5  =  -460037667;
     long long    aA1bzk7q7    =    -63907328;
   unsigned long  AqV71  =  -79309534;
- unsigned short X98_rgrp_2 = 52170295;
+ unsigned short X98_rgrp_2 = (unsigned short)52170295;
   unsigned int  mzDQqgTr  =  -933680613;
 	unsigned short	MwEt	=	(unsigned short)836717582;
 	unsigned short int	um_BenS	=	1808327217;
@@ -65,7 +65,7 @@ int main(int argc, char** argv) {
  long zRMfjZ4Vv9 = -13354735;
 	unsigned long	ehV1A5r	=	855847519;
 	unsigned char	w4lC657SaS	=	-2005606871;
-	unsigned short int	szK_3vT3	=	399687696;
+	unsigned short int	szK_3vT3	=	(unsigned short)399687696;
 	short int	ZN8c9hc8	=	17162296;
 	int	i563sI	=	-172569131;
 	int	wcHQ7Gq	=	-1945650151;
@@ -76,7 +76,7 @@ int main(int argc, char** argv) {
 	unsigned long long	hAG8hcu2Y	=	-2121825794;
  long double v_0yx3CpBr = 1965065215;
 	unsigned long long	u62S	=	1674877421;
-  char  T2Q6F50_O  =  159425086;
+  char  T2Q6F50_O  =  (char)159425086;
  short g1Q91lAyGV = -241353753;
 	unsigned short	zwVf1x	=	1292987846;
     char    u5VG45E    =    -71440040;
@@ -89,7 +89,7 @@ int main(int argc, char** argv) {
  double U84__6mH = -766758479;
 	unsigned int	sB_4Ftgl	=	-684888032;
     unsigned long    g4B_FSM    =    -898519868;
-	short	EDz5rBfET	=	-79615289;
+	short	EDz5rBfET	=	(short)-79615289;
 	double	ihH9	=	-1843827587;
 	unsigned int	d56TK	=	0;
  char o_I56YL2R_ = (char)-505960551;
@@ -100,7 +100,7 @@ int main(int argc, char** argv) {
  unsigned long sm9LI7 = -278421385;
   unsigned int  YU8Nic3Y  =  -191918138;
   unsigned short int  xIPq  =  0;
-	short int	BQ5Qh_	=	-1798053518;
+	short int	BQ5Qh_	=	(short)-1798053518;
   unsigned short  B3V_u9z  =  1192884264;
  unsigned long long g_N59XK = -1148995551;
     short int    xHiK    =    (short)-198320795;
@@ -114,7 +114,7 @@ int main(int argc, char** argv) {
 	long long	fk5LkX_4X	=	1288360909;
 	double	W2z2O5aIt	=	-1635893943;
  unsigned long WCh36C231p = 1509533454;
- unsigned char bY_tfgu3 = 974990354;
+ unsigned char bY_tfgu3 = (unsigned char)974990354;
   short int  WvsNzlBz1  =  (short)967213800;
 	char	VX_7R	=	-759104363;
  unsigned char v8p_ = 263666720;
@@ -124,7 +124,7 @@ int main(int argc, char** argv) {
 	double	e4za474D0	=	890529656;
   float  QV87E46u  =  526854149;
 
-std::cout << "k_En9AVP" << Awzla(1991274066) << "KI4o" << mZa59Rh(1311452786) << std::endl;
+std::cout << "k_En9AVP" << Awzla((short)1991274066) << "KI4o" << mZa59Rh(1311452786) << std::endl;
 
 if (WvsNzlBz1 >= -296640871)
 {
@@ -222,7 +222,7 @@ case 'd':
 QV87E46u = (int)abs(wI3k);
 break;
 case 'e':
-X98_rgrp_2 = (q12atZWLvN == ehV1A5r) ? ihH9 : -533410998;
+X98_rgrp_2 = (q12atZWLvN == ehV1A5r) ? ihH9 : (unsigned short)-533410998;
 break;
 case 'f':
 wI3k = bY_tfgu3 << 1090323136;
@@ -234,7 +234,7 @@ case 'h':
 I1P9 |= r046I;
 break;
 case 'i':
-fk5LkX_4X = Awzla(-946622069);
+fk5LkX_4X = Awzla((short)-946622069);
 break;
 default:
 d56TK = KU08B();
@@ -424,7 +424,7 @@ R55D_5 = (int)abs(Gg_7x6_8T);
 }
 try
 {
-e3Ct5p = Awzla(202636160);
+e3Ct5p = Awzla((short)202636160);
 }
 catch (int& errorCode)
 {
@@ -527,7 +527,7 @@ fk5LkX_4X = Ed4qCKG40 ^ wI3k;
 }
 else
 {
-MwEt = Awzla(-1784761520);
+MwEt = Awzla((short)-1784761520);
 }
 }
 else if ((dl2D <= vs4PlT) || (fZ2W_7uEq1 & w4lC657SaS))
@@ -566,7 +566,7 @@ else
 {
 try
 {
-IFK4 = Awzla(556840851);
+IFK4 = Awzla((short)556840851);
 }
 catch (int& errorCode)
 {
@@ -637,7 +637,7 @@ return 0;
 
 char	mZa59Rh(long long	T1Ne)
 {
-	return	-1644967118;
+	return	(char)-1644967118;
 }
 
 long long  KU08B()

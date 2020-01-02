@@ -14,7 +14,7 @@ char	g43DtodU(char	Er_b)
 }
 
 unsigned short int	goKQWPLp(unsigned short	DN9p80bH,unsigned long long	H603u11L)	{
-	return	-1197464926;
+	return	(unsigned short)-1197464926;
 }
 
 int main()
@@ -33,7 +33,7 @@ CvA5h6V1 = (unsigned int)(D6EDyO);
 while (i >= 0);
 }
 
-u714C6N = goKQWPLp(-881080115, CvA5h6V1);
+u714C6N = goKQWPLp((unsigned short)-881080115, CvA5h6V1);
 
 switch (GU28TO8)
 {
@@ -44,7 +44,7 @@ case 'b':
 YBp7 = g43DtodU((char)196510811);
 break;
 case 'c':
-YBp7 = g43DtodU(1006039671);
+YBp7 = g43DtodU((char)1006039671);
 break;
 case 'd':
 INqo77CDR = (int)abs(YBp7);
@@ -62,7 +62,7 @@ case 'h':
 m9Sq3TXNY = sq0A + f1zd0NtX;
 break;
 case 'i':
-INqo77CDR = g43DtodU(-656895727);
+INqo77CDR = g43DtodU((char)-656895727);
 break;
 }
 
@@ -111,7 +111,7 @@ else if ((K1hd34 <= 564523456) || ((BEnPe) && (RCon3 == 1009918263)))
 int j = 10;
 do
 {
-cout << F_zr0hArM << "gsl99bJ" << Y107Sf4lc << g43DtodU(-203254022) << endl;
+cout << F_zr0hArM << "gsl99bJ" << Y107Sf4lc << g43DtodU((char)-203254022) << endl;
 j--;
 }
 while (j >= 0);

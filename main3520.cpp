@@ -13,7 +13,7 @@ long Yp1z6(long long tGw537qAM,short int oPa950NH2,int uKBc9bng4) {
 }
 
 short int JQ2C4kI(unsigned short e8Sl4) {
- return -1901757592;
+ return (short)-1901757592;
 }
 
 int main(int argc, char** argv) {
@@ -23,7 +23,7 @@ int main(int argc, char** argv) {
  unsigned long V506TGvG2 = 517056428;
 	char	OPv9	=	-235479425;
  double EtSWiaO = 1091643562;
-    short int    orE1cF    =    -710547428;
+    short int    orE1cF    =    (short)-710547428;
 	unsigned int	gdOffiGq	=	-1923240484;
     unsigned long    tp99U8_    =    870945212;
 	long long	qOXE9T	=	-1968365330;
@@ -34,7 +34,7 @@ int main(int argc, char** argv) {
 	unsigned short	tb4I2yVZ	=	613798627;
     double    f5BZu    =    -110017360;
   long  UV4WvL  =  2034932199;
- char c_Y1m00 = 775597768;
+ char c_Y1m00 = (char)775597768;
  short hx75CH06JQ = 1717495589;
  short int WqH_v_9Lxv = -996715664;
     unsigned char    EMGtM    =    -2057021020;
@@ -47,7 +47,7 @@ int main(int argc, char** argv) {
   double  fxmUn1  =  709504349;
     unsigned long    pAVkRk9OfU    =    1795200601;
   long long  q1N35r3Y5f  =  -1088191203;
-	unsigned short	orn9cw2R	=	-1442128411;
+	unsigned short	orn9cw2R	=	(unsigned short)-1442128411;
     short int    AT2vxgH_RZ    =    307656513;
     long long    d44u    =    -1330855673;
  unsigned char K_s7k = (unsigned char)-1786253183;
@@ -62,7 +62,7 @@ int main(int argc, char** argv) {
  long long O0KS_ = 730004757;
   int  DJih  =  -1432145110;
     long    oaVm29hx    =    -1998293808;
-    unsigned short    u5aH3F    =    -1204080552;
+    unsigned short    u5aH3F    =    (unsigned short)-1204080552;
   long double  UE4_DxP3b2  =  1560431123;
 	char	VPT8ck98OE	=	(char)614072178;
 	short	D0l9p	=	1547871207;
@@ -73,7 +73,7 @@ int main(int argc, char** argv) {
  double Kt1yVM = 1694163969;
 	double	GU4P8py_v	=	-329516366;
  unsigned int R2uVx = 0;
-  char  pYAn2  =  471157105;
+  char  pYAn2  =  (char)471157105;
 	short int	AolUy5	=	(short)-556286879;
 
 {
@@ -125,7 +125,7 @@ break;
 kX89 = q1N35r3Y5f << R3sYi3;
 if (((IvC8dlN4K2 != 724869137) || (OPv9 < 1681371907)) && (j11wJq == -2068044959))
 {
-cout << JQ2C4kI(-105326168) << endl;
+cout << JQ2C4kI((unsigned short)-105326168) << endl;
 }
 try
 {

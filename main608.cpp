@@ -18,7 +18,7 @@ unsigned short int	g14l7_30(unsigned int	ZhsjZ_t)	{
 
 short  bzjhX()
 {
-  return  -1741564386;
+  return  (short)-1741564386;
 }
 
 int main(int argc, char** argv) {
@@ -35,7 +35,7 @@ int main(int argc, char** argv) {
 	float	Cw0p;
 	Cw0p	=	-1434620113;
 	short int	f0Eo;
-	f0Eo	=	-855002459;
+	f0Eo	=	(short)-855002459;
  unsigned long long sh2_;
  sh2_ = -1638786104;
  char U5Xrh2_gjD;
@@ -47,7 +47,7 @@ int main(int argc, char** argv) {
 	long	hnnrZ;
 	hnnrZ	=	1517426925;
  short kwSjK7Ek;
- kwSjK7Ek = -456439448;
+ kwSjK7Ek = (short)-456439448;
   unsigned short int  BEB707x;
   BEB707x  =  -404293338;
  short o8fZ3a4;
@@ -63,7 +63,7 @@ int main(int argc, char** argv) {
     unsigned int    t00Yi;
     t00Yi    =    -476401582;
   short  J2_i;
-  J2_i  =  -1879460650;
+  J2_i  =  (short)-1879460650;
     unsigned short    IPUHQ;
     IPUHQ    =    (unsigned short)416574849;
   unsigned short  J5wu0R3;
@@ -75,7 +75,7 @@ int main(int argc, char** argv) {
   double  s9yun;
   s9yun  =  182842971;
   char  S8mSQ0z;
-  S8mSQ0z  =  1498342051;
+  S8mSQ0z  =  (char)1498342051;
  long long q17b6l;
  q17b6l = -1339531412;
  unsigned int x_54UFYpBo;
@@ -89,7 +89,7 @@ int main(int argc, char** argv) {
  unsigned long U65fZ0Z9;
  U65fZ0Z9 = -98024295;
 	unsigned char	l3hrjfT9;
-	l3hrjfT9	=	-1937077607;
+	l3hrjfT9	=	(unsigned char)-1937077607;
 	char	dV2bx;
 	dV2bx	=	(char)-1157385126;
   short  bvsMX;
@@ -99,7 +99,7 @@ int main(int argc, char** argv) {
  short int Z0cxPI31as;
  Z0cxPI31as = 2033480258;
  unsigned short int jb5k_98s21;
- jb5k_98s21 = 304380566;
+ jb5k_98s21 = (unsigned short)304380566;
     long    SeA_N_HH;
     SeA_N_HH    =    -1667425416;
  unsigned long long C87n8gXm7T;
@@ -115,7 +115,7 @@ int main(int argc, char** argv) {
 	long long	IacgL;
 	IacgL	=	783377154;
  short int XqHW7;
- XqHW7 = 2068112234;
+ XqHW7 = (short)2068112234;
   double  xB4SRv6UyC;
   xB4SRv6UyC  =  -253388111;
 	short int	qtSZJXFV;
@@ -125,7 +125,7 @@ int main(int argc, char** argv) {
   unsigned int  X7FpWL_;
   X7FpWL_  =  -1742156079;
   char  A3D4dL2c1V;
-  A3D4dL2c1V  =  -1563154155;
+  A3D4dL2c1V  =  (char)-1563154155;
   long  BG1fIHIuS;
   BG1fIHIuS  =  97736826;
 
@@ -504,7 +504,7 @@ try
 {
 try
 {
-gnmPyezP = xFkL68jTr3 + 311436326;
+gnmPyezP = xFkL68jTr3 + (unsigned short)311436326;
 }
 catch (int& errorCode)
 {

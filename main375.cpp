@@ -266,7 +266,7 @@ catch (int& errorCode)
 {
 ON6I++;
 }
-EWR_2w = (Bg6w2P23u < m4_V) ? ON6I : 338240067;
+EWR_2w = (Bg6w2P23u < m4_V) ? ON6I : (unsigned short)338240067;
 
 ON6I = (unsigned short)(sy18qp);
 std::cout << "JZU78Wf_03" << nOErEcT25 << std::endl;

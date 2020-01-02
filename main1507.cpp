@@ -12,7 +12,7 @@ int main(void) {
 	double	kQDy	=	421756689;
     double    HSvfX4g    =    1320797743;
  long long xePo20h7 = -1685384089;
- unsigned char ug0AjG25RA = 2020732781;
+ unsigned char ug0AjG25RA = (unsigned char)2020732781;
  unsigned long long FaU9e64Hu9 = -1058559985;
     int    mL7_WS3nA    =    0;
 	long double	Hak6Y	=	-2026052196;
@@ -22,7 +22,7 @@ int main(void) {
  unsigned char Yg_67Y = -1612110518;
 	unsigned char	Ukw_94Gk	=	-638790720;
     int    uFJFx    =    -514598111;
-	unsigned short	S9Ys2	=	1682215050;
+	unsigned short	S9Ys2	=	(unsigned short)1682215050;
 	unsigned long long	hYLAc	=	-1108762669;
 	unsigned long long	L_6H	=	1069410135;
 

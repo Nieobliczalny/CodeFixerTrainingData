@@ -122,7 +122,7 @@ case 4:
 K2a6CBr = awqv >> 428862385;
 break;
 case 5:
-TqGAvSFcrW = (c6NO > 1204192563) ? -1308564172 : i90e3C;
+TqGAvSFcrW = (c6NO > 1204192563) ? (unsigned char)-1308564172 : i90e3C;
 break;
 case 6:
 cw_H = otHn67A % 1984263029;

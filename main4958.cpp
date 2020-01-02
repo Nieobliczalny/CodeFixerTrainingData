@@ -16,7 +16,7 @@ int main(int argc, char** argv)
 	unsigned short int	PTZV4rp2C	=	0;
   unsigned short int  sNK92Z83X  =  0;
   unsigned short int  ars6U__pe  =  0;
- char sokOT7i2_A = -154037613;
+ char sokOT7i2_A = (char)-154037613;
     unsigned int    nRJS9361    =    0;
 	unsigned int	gdP4	=	-1338687044;
 

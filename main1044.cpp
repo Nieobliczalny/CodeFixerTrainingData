@@ -150,7 +150,7 @@ case 'a':
 ssO527d = (int)floor(hPY0);
 break;
 case 'b':
-O6sC2hQ = Km39W04m(O6sC2hQ, Wlh3pqt3, M5_ZM, -2024119990, (char)2040387120);
+O6sC2hQ = Km39W04m(O6sC2hQ, Wlh3pqt3, M5_ZM, (unsigned short)-2024119990, (char)2040387120);
 break;
 case 'c':
 mBsSD51MM = (int)ceil(z25naE);
@@ -187,7 +187,7 @@ case 5:
 Owpr_Ujr = (S0D8 & j1p7_S60O) ? TriT : fy9boS_;
 break;
 case 6:
-FNEQAO6K = Km39W04m(FNEQAO6K, Mamthg_H, -1340039315, (unsigned short)1689865522, El0LIk6w84);
+FNEQAO6K = Km39W04m(FNEQAO6K, Mamthg_H, (unsigned char)-1340039315, (unsigned short)1689865522, El0LIk6w84);
 break;
 case 7:
 PTA4 = Pb174a % 773666491;
@@ -243,7 +243,7 @@ hPY0 = (int)floor(Mamthg_H);
 
 try
 {
-z25naE = Km39W04m(z25naE, U68OLTt_, a_a_, 835986543, ChstFzK);
+z25naE = Km39W04m(z25naE, U68OLTt_, a_a_, (unsigned short)835986543, ChstFzK);
 }
 catch (int& errorCode)
 {
@@ -325,7 +325,7 @@ S0D8 = Rkq2(G0i8zfFQAg);
 }
 
 fGB93XDR = yvkV8V();
-std::cout << Km39W04m(1815387562, -1305676939, (unsigned char)-1983461373, -768016550, 1128318022) << yvkV8V() << XLTac3x << bW38VN91 << std::endl;
+std::cout << Km39W04m(1815387562, (unsigned char)-1305676939, (unsigned char)-1983461373, -768016550, 1128318022) << yvkV8V() << XLTac3x << bW38VN91 << std::endl;
 if (GEM_Wcrj == ChstFzK)
 {
 switch (rI11b9Gs3)
@@ -354,7 +354,7 @@ else if (mSx264tW <= k3G3)
 {
 if ((FNEQAO6K > 1907308489) || (D5C81u9 <= -177692064))
 {
-std::cout << Km39W04m(-92626973, z25naE, -1906875956, (unsigned short)616474699, Pg6G89zF) << "l8j_S" << E_Zh35dlI << std::endl;
+std::cout << Km39W04m(-92626973, z25naE, (unsigned char)-1906875956, (unsigned short)616474699, Pg6G89zF) << "l8j_S" << E_Zh35dlI << std::endl;
 }
 else if (l6C57 == j1p7_S60O)
 {

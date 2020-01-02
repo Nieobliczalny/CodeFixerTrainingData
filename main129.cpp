@@ -211,7 +211,7 @@ case 2:
 DY2N0n >>= 1523744901;
 break;
 case 3:
-Hgpu04Z = S47h(1298907689);
+Hgpu04Z = S47h((short)1298907689);
 break;
 case 4:
 H2w3qn = (int)abs(r6vh);
@@ -256,7 +256,7 @@ DY2N0n = Ipvq * LbDV9t5_6;
 }
 else if (hD8vp96USj != mf55Hv3xwX)
 {
-PqAx_xz = S47h(-1599760445) % 724609186;
+PqAx_xz = S47h((short)-1599760445) % 724609186;
 }
 else if (Y39F != dw1_0GN)
 {
@@ -309,7 +309,7 @@ try
 int j = 6;
 do
 {
-std::cout << S47h(-1442347232) << "W4pWL8" << YP_ubkab3 << OBVGd42 << "Zz5W" << std::endl;
+std::cout << S47h((short)-1442347232) << "W4pWL8" << YP_ubkab3 << OBVGd42 << "Zz5W" << std::endl;
 j--;
 }
 while (j >= 0);
@@ -395,7 +395,7 @@ else if (v_GGb >= -1122789921)
 {
 if ((ElEd != ga9880) && ((mf55Hv3xwX & 793244058) && (Ipvq)))
 {
-dw1_0GN = S47h(-2124420674);
+dw1_0GN = S47h((short)-2124420674);
 }
 else
 {
@@ -406,7 +406,7 @@ else
 {
 if (eL1o_286VY > Y39F)
 {
-mf55Hv3xwX = S47h(51962559);
+mf55Hv3xwX = S47h((short)51962559);
 }
 }
 }
@@ -480,7 +480,7 @@ case 8:
 cnZ9e0d6X = S47h(cnZ9e0d6X);
 break;
 default:
-ElEd = S47h(-378341008);
+ElEd = S47h((short)-378341008);
 break;
 }
 ++j;
@@ -536,7 +536,7 @@ do
 switch (toEL90b0p)
 {
 case 'a':
-Hgpu04Z = S47h(-114449947);
+Hgpu04Z = S47h((short)-114449947);
 break;
 case 'b':
 v_GGb = S47h((short)278534887);
@@ -555,7 +555,7 @@ while (j >= 0);
 }
 else if (((LbDV9t5_6 < cnZ9e0d6X) || (JrtBYw4 != 1731368448)) && ((LbDV9t5_6 > eL1o_286VY) || (wi5m & 1266712471)))
 {
-std::cout << S47h(-1127692442) << "nBMHH3U" << "y_Fb" << std::endl;
+std::cout << S47h((short)-1127692442) << "nBMHH3U" << "y_Fb" << std::endl;
 }
 else if (Y39F)
 {
@@ -593,7 +593,7 @@ DY2N0n = rEti5j4Ww8 + ElEd;
 }
 else if (bLTNZ9q5r)
 {
-cnZ9e0d6X = S47h(-1479813249);
+cnZ9e0d6X = S47h((short)-1479813249);
 }
 else if (ga9880 != dw1_0GN)
 {
@@ -613,7 +613,7 @@ else
 {
 if ((H3Yz7tE8 != -1796136321) && ((RyjB2 != g5mYhoM) || (WTw08zU8Q9)))
 {
-std::cout << S47h(1999875465) << DLmTzl(LbDV9t5_6, 1995313770, 1401610209) << "FE_3" << ElEd << S47h(LbDV9t5_6) << std::endl;
+std::cout << S47h((short)1999875465) << DLmTzl(LbDV9t5_6, 1995313770, 1401610209) << "FE_3" << ElEd << S47h(LbDV9t5_6) << std::endl;
 }
 else
 {
@@ -722,7 +722,7 @@ else
 switch (LbDV9t5_6)
 {
 case 'a':
-dw1_0GN = S47h(-580583429);
+dw1_0GN = S47h((short)-580583429);
 break;
 case 'b':
 cnZ9e0d6X /= 450930525;

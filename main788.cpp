@@ -93,7 +93,7 @@ int main(int argc, char** argv) {
 	C2d3	=	-1565256232;
 	FcSRU1	=	883532378;
 
-UNmAmJ9mp_ = iL725Q5N(UNmAmJ9mp_, XCpvAPHQsc, -48406291, 836689161, b9Sa);
+UNmAmJ9mp_ = iL725Q5N(UNmAmJ9mp_, XCpvAPHQsc, (short)-48406291, 836689161, b9Sa);
 
 for (int i = 1; i >= 0; i--)
 {
@@ -132,7 +132,7 @@ switch (sqw0UY)
 {
 case 'a':
 case 'A':
-bNfZH0 = iL725Q5N(-1022800278, 864940014, 1820276333, -1595933806, I4AX0f20);
+bNfZH0 = iL725Q5N(-1022800278, 864940014, (short)1820276333, -1595933806, I4AX0f20);
 break;
 case 'b':
 case 'B':
@@ -163,7 +163,7 @@ try
 int k = 0;
 while (k < 6)
 {
-XCpvAPHQsc = iL725Q5N(XCpvAPHQsc, 1176455741, 2088829649, -1353740385, C2d3);
+XCpvAPHQsc = iL725Q5N(XCpvAPHQsc, 1176455741, (short)2088829649, -1353740385, C2d3);
 ++k;
 }
 }
@@ -196,7 +196,7 @@ Uq4l_N80 = (int)(b25UHVe);
 }
 }
 
-std::cout << iL725Q5N(-791568475, -89628161, 42332582, OKV4k7, BairYn_QD5) << G7stb6Z65((short)598905177, -1742078040, -1086180002, OKV4k7) << iL725Q5N(17506569, GeB4X1, C2d3, OKV4k7, 1619606280) << frmZa3dw << iL725Q5N(st5v, 1992340352, -78773642, -57196722, 986101784) << std::endl;
+std::cout << iL725Q5N(-791568475, -89628161, (short)42332582, OKV4k7, BairYn_QD5) << G7stb6Z65((short)598905177, -1742078040, -1086180002, OKV4k7) << iL725Q5N(17506569, GeB4X1, C2d3, OKV4k7, 1619606280) << frmZa3dw << iL725Q5N(st5v, 1992340352, -78773642, -57196722, 986101784) << std::endl;
 if (ep58Q)
 {
 if (O3HBzN & 1602043654)
@@ -260,7 +260,7 @@ int k = 0;
 while (k < 10)
 {
 ++k;
-qRCr22 = G7stb6Z65(qRCr22, TgA9, -1334963316, -184228275);
+qRCr22 = G7stb6Z65(qRCr22, TgA9, -1334963316, (char)-184228275);
 }
 }
 }
@@ -338,6 +338,6 @@ long    G7stb6Z65(short int    dr2mh,long long    KaHpG0,unsigned int    OCIH_A,
 
 short int	ldztpnOn0()
 {
-	return	293398097;
+	return	(short)293398097;
 }
 

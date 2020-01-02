@@ -27,7 +27,7 @@ int main(void)
 	float	DGXO4;
 	DGXO4	=	1635385075;
 	char	sVji;
-	sVji	=	-1151793862;
+	sVji	=	(char)-1151793862;
     long    gcYX;
     gcYX    =    -1546507892;
     char    BV_RJT324;
@@ -43,7 +43,7 @@ int main(void)
   unsigned long long  SGF_7iSVz;
   SGF_7iSVz  =  -223725026;
 	char	zS50r;
-	zS50r	=	102946406;
+	zS50r	=	(char)102946406;
  float n05cvn9;
  n05cvn9 = -1807957645;
   long  M7qD4k_zT;
@@ -59,7 +59,7 @@ int main(void)
     long long    Ic7i;
     Ic7i    =    -1250890859;
   unsigned short  cxtOlyU0yn;
-  cxtOlyU0yn  =  -58835981;
+  cxtOlyU0yn  =  (unsigned short)-58835981;
   unsigned long  nq7j5;
   nq7j5  =  -1886557899;
   short int  o1o545m;
@@ -79,7 +79,7 @@ int main(void)
  long long UAss_;
  UAss_ = -332482003;
  unsigned short WEKbeR4;
- WEKbeR4 = -1666795699;
+ WEKbeR4 = (unsigned short)-1666795699;
     double    o3rka;
     o3rka    =    -627131660;
   char  XDkYTVG;
@@ -89,7 +89,7 @@ int main(void)
  unsigned long long JbViq6;
  JbViq6 = -1682136882;
 	short int	xL_Sc;
-	xL_Sc	=	-2105102338;
+	xL_Sc	=	(short)-2105102338;
  short xOMJ0O89u_;
  xOMJ0O89u_ = 1066272540;
  double OyTd9V;
@@ -115,7 +115,7 @@ int main(void)
  long long i4KNKh_W8I;
  i4KNKh_W8I = 782058863;
     unsigned short int    mVX4esUl;
-    mVX4esUl    =    -274537868;
+    mVX4esUl    =    (unsigned short)-274537868;
     short    qaGYp0_o;
     qaGYp0_o    =    (short)1810069209;
     unsigned char    dl7RH;
@@ -131,7 +131,7 @@ int main(void)
     unsigned int    y2gKXAw;
     y2gKXAw    =    -809446548;
     unsigned short    l20P9_ilt;
-    l20P9_ilt    =    202469283;
+    l20P9_ilt    =    (unsigned short)202469283;
 	short	pkjBHVbV0;
 	pkjBHVbV0	=	(short)-1474882662;
   long long  t2_ZF6O_1Q;
@@ -145,7 +145,7 @@ int main(void)
   long long  pgWLb;
   pgWLb  =  -1917971936;
 	unsigned short	Yf90OoK;
-	Yf90OoK	=	-281419113;
+	Yf90OoK	=	(unsigned short)-281419113;
 	int	OyaiO;
 	OyaiO	=	755584149;
 	short	FTvGNuz;
@@ -157,7 +157,7 @@ int main(void)
 	unsigned long long	B24kvc;
 	B24kvc	=	0;
  char dWaL;
- dWaL = 532078379;
+ dWaL = (char)532078379;
 	double	jOl7231;
 	jOl7231	=	874362254;
   unsigned char  j02G0;
@@ -179,7 +179,7 @@ int main(void)
 	unsigned int	p7wMr;
 	p7wMr	=	1570681524;
 	char	g9Bg3Rz;
-	g9Bg3Rz	=	-116928540;
+	g9Bg3Rz	=	(char)-116928540;
 	float	n601qA43v;
 	n601qA43v	=	1856258571;
     short int    mPYnKea0g;
@@ -193,7 +193,7 @@ int main(void)
 	unsigned long	W2686;
 	W2686	=	-1714405063;
  unsigned char DTb5sgxoo;
- DTb5sgxoo = -933372098;
+ DTb5sgxoo = (unsigned char)-933372098;
     unsigned int    Kbi8cu;
     Kbi8cu    =    2127474313;
     short int    p1_hHN;
@@ -286,7 +286,7 @@ std::cout << K8vwG2i << std::endl;
 int i = 3;
 while (i >= 0)
 {
-W5313vQw86 = fXHT8J(1284835812, -407420632, o1o545m);
+W5313vQw86 = fXHT8J(1284835812, (short)-407420632, o1o545m);
 i--;
 }
 }
@@ -332,7 +332,7 @@ XDkYTVG = nq7j5 & 462488949;
 }
 else if (ULUGy < 490100787)
 {
-W2686 = fXHT8J(W2686, -472565902, -1897702515);
+W2686 = fXHT8J(W2686, (short)-472565902, -1897702515);
 }
 else if (k4jWh9 <= c3VZ2)
 {
@@ -354,7 +354,7 @@ case 1:
 jOl7231 = k4XYs();
 break;
 case 2:
-RMTzp6w = r17e(-1383842204, 470806153, U7_58kj);
+RMTzp6w = r17e(-1383842204, (unsigned short)470806153, U7_58kj);
 break;
 case 3:
 Bj7N = (int)ceil(K8vwG2i);
@@ -430,7 +430,7 @@ case 1:
 I5n35PN6y = g9Bg3Rz | 865397423;
 break;
 default:
-pgWLb = fXHT8J(pgWLb, -1531801661, sVji);
+pgWLb = fXHT8J(pgWLb, (short)-1531801661, sVji);
 break;
 }
 }
@@ -586,7 +586,7 @@ int j = 0;
 do
 {
 ++j;
-g0H33 = r17e(EP54qga, -1392197054, -717634965);
+g0H33 = r17e(EP54qga, (unsigned short)-1392197054, -717634965);
 }
 while (j < 4);
 }
@@ -600,7 +600,7 @@ case 0:
 OyTd9V = Zf0xF6BxK * 980521074;
 break;
 case 1:
-g0H33 = r17e(-280988393, 189151767, -1959558319);
+g0H33 = r17e(-280988393, (unsigned short)189151767, -1959558319);
 break;
 case 2:
 EP54qga = (int)floor(k4jWh9);
@@ -615,7 +615,7 @@ case 5:
 Hu8F_urD %= cxtOlyU0yn;
 break;
 case 6:
-sVji = fXHT8J(sVji, 1505850724, n05cvn9);
+sVji = fXHT8J(sVji, (short)1505850724, n05cvn9);
 break;
 case 7:
 DTb5sgxoo &= 1062306652;

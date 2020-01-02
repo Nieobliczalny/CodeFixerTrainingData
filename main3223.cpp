@@ -73,7 +73,7 @@ else
 {
 pA0I %= 1133149711;
 }
-std::cout << oM18(jL66, N_27gGv, -809221114) << std::endl;
+std::cout << oM18(jL66, N_27gGv, (unsigned char)-809221114) << std::endl;
 jFfX11J = oM18(L4nR2UE, pa7fD, NL_59w1EcB);
 
 D3Q8i2MXE = (int)abs(AiYvN5_V);
@@ -90,7 +90,7 @@ case 1:
 jFfX11J = oM18(pA0I, AVg9Y74uy, tuZNTi4H0);
 break;
 case 2:
-jFfX11J = oM18(lS0b37q25, HAeem, 1091078113);
+jFfX11J = oM18(lS0b37q25, HAeem, (unsigned char)1091078113);
 break;
 case 3:
 jFfX11J = oM18(nMoi, osr8a, (unsigned char)-1111629880);
@@ -105,7 +105,7 @@ default:
 hY6uv1_YT ^= 330438857;
 break;
 }
-vYjP9IzW8o = oM18(nMoi, osr8a, 1320704313) << 348010370;
+vYjP9IzW8o = oM18(nMoi, osr8a, (unsigned char)1320704313) << 348010370;
 return 0;
 }
 

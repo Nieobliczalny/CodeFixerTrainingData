@@ -11,7 +11,7 @@
 
 
 unsigned short int    IyxS_7Tt3e(unsigned long    XWYK3E0,unsigned long long    Uu8g_5Ekg,unsigned char    hU_A64no9,unsigned char    J9SQPkR)    {
-    return    -93681267;
+    return    (unsigned short)-93681267;
 }
 
 short int    BAene(int    oOe1)    {
@@ -98,7 +98,7 @@ RZ107I0R = BAene(-252835730);
 }
 else if (cx0_U0k)
 {
-O2KEMe6 = IyxS_7Tt3e(349397452, 1499203189, -589586969, wpj156);
+O2KEMe6 = IyxS_7Tt3e(349397452, 1499203189, (unsigned char)-589586969, wpj156);
 }
 else if (VH9ku38MUo)
 {
@@ -125,7 +125,7 @@ else
 Oj7Iw33pcb = YPOkdjc7a();
 }
 }
-std::cout << q2Af0 << VHUq1Xh18T << IyxS_7Tt3e(xqrMm4G4, RZ107I0R, Oj7Iw33pcb, 133796359) << "s_N26" << std::endl;
+std::cout << q2Af0 << VHUq1Xh18T << IyxS_7Tt3e(xqrMm4G4, RZ107I0R, Oj7Iw33pcb, (unsigned char)133796359) << "s_N26" << std::endl;
 
 rHwT_U = (long)(bU8iM__59 + (1943910251));
 
@@ -202,7 +202,7 @@ if (((kqAP9ju5l != L8GQR_) && (bt4n70i)) || (mpJE_Ze9N & bU8iM__59))
 {
 if ((O2KEMe6 == JGy0a6) || ((RZ107I0R != 878110032) || (nO8u1_J7nT < bU8iM__59)))
 {
-nO8u1_J7nT = IyxS_7Tt3e(-1870238478, -1273279562, 1342388552, (unsigned char)1030578140);
+nO8u1_J7nT = IyxS_7Tt3e(-1870238478, -1273279562, (unsigned char)1342388552, (unsigned char)1030578140);
 }
 else if (((z672FOB94p <= JGy0a6) && (Md_U9 == -1410316537)) && (wpj156 >= oC_x9KTxi))
 {
@@ -329,7 +329,7 @@ Cu_l37Sq = (long)(DbH2MD4);
 }
 while (i < 7);
 }
-Gjz_9SGr_4 = IyxS_7Tt3e(-147162444, -155391326, -569733647, gF2LQ);
+Gjz_9SGr_4 = IyxS_7Tt3e(-147162444, -155391326, (unsigned char)-569733647, gF2LQ);
 dw7juJf = (long)(gkonj);
 if (HGM8GdB & hf73_Y)
 {
@@ -464,7 +464,7 @@ else
 int k = 8;
 do
 {
-WvlgE84 = (M5DDw74 > DbH2MD4) ? IyxS_7Tt3e(bj7j, -1033278781, 331418714, wpj156) : JIP9e_SAEi;
+WvlgE84 = (M5DDw74 > DbH2MD4) ? IyxS_7Tt3e(bj7j, -1033278781, (unsigned char)331418714, wpj156) : JIP9e_SAEi;
 k--;
 }
 while (k >= 0);
@@ -495,7 +495,7 @@ case 3:
 rHwT_U = aUppn + gkonj;
 break;
 case 4:
-MZV1w = IyxS_7Tt3e(MZV1w, -927093334, q2Af0, 791024868);
+MZV1w = IyxS_7Tt3e(MZV1w, -927093334, q2Af0, (unsigned char)791024868);
 break;
 default:
 Md_U9 /= 1678653767;

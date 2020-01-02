@@ -9,7 +9,7 @@
 
 unsigned char XPYUAD2e(char FHQM65svu,unsigned char egb36m,int Iug_9zk,int sS5j3y,unsigned int cFsKF9_)
 {
- return -174908119;
+ return (unsigned char)-174908119;
 }
 
 short int  T7JBDy7aT(unsigned long  uFdw,short int  EH8_5,short  Z25M338z)
@@ -80,7 +80,7 @@ case 5:
 A0dguZy0 = (int)abs(eo5010);
 break;
 case 6:
-A0j6p = T7JBDy7aT(A0j6p, OC3HJxq, -77808736);
+A0j6p = T7JBDy7aT(A0j6p, OC3HJxq, (short)-77808736);
 break;
 case 7:
 H_nd = T7JBDy7aT(-227379019, OC3HJxq, (short)1938528642) << 779346403;
@@ -101,7 +101,7 @@ int k = 0;
 while (k < 9)
 {
 k++;
-P9_0wf8 = XPYUAD2e(1069959042, CR610i66z, si_tuO6RMX, A6b_2Gi, -241856283);
+P9_0wf8 = XPYUAD2e((char)1069959042, CR610i66z, si_tuO6RMX, A6b_2Gi, -241856283);
 }
 }
 j++;
@@ -150,7 +150,7 @@ case 'c':
 TGwQORQ = A0j6p >> kpCaGWrJz;
 break;
 case 'd':
-GxZQX9___ = XPYUAD2e(GxZQX9___, 2095526337, 2023928522, -1697408425, g0oYY0bDPV);
+GxZQX9___ = XPYUAD2e(GxZQX9___, (unsigned char)2095526337, 2023928522, -1697408425, g0oYY0bDPV);
 break;
 case 'e':
 eo5010 = q0P1e(-657235304, 1935748400, 376660867, (unsigned char)-1952469394, zM4JHaoA);
@@ -186,7 +186,7 @@ case 6:
 kpCaGWrJz = br9vCYE_U(A0j6p, 769900422) | aH22r;
 break;
 case 7:
-P9_0wf8 = T7JBDy7aT(1490218205, oWhr36gF, 599445457);
+P9_0wf8 = T7JBDy7aT(1490218205, oWhr36gF, (short)599445457);
 break;
 case 8:
 eo5010 = (int)abs(A0dguZy0);
@@ -252,7 +252,7 @@ if (CFTcENh4Sx != 1197053177)
 {
 if (GxZQX9___ != -1036594302)
 {
-std::cout << br9vCYE_U(kpCaGWrJz, -1493385094) << XPYUAD2e(-434380486, (unsigned char)-337575234, F12q4, 849567703, -1712255352) << "cKNQSeUMN" << oWhr36gF << std::endl;
+std::cout << br9vCYE_U(kpCaGWrJz, -1493385094) << XPYUAD2e((char)-434380486, (unsigned char)-337575234, F12q4, 849567703, -1712255352) << "cKNQSeUMN" << oWhr36gF << std::endl;
 }
 else if (P5iP1 & 1106804248)
 {
@@ -286,7 +286,7 @@ GxZQX9___ = (unsigned long)(g0oYY0bDPV);
 }
 else
 {
-std::cout << TGwQORQ << T7JBDy7aT(P5iP1, 945878856, PnGK) << std::endl;
+std::cout << TGwQORQ << T7JBDy7aT(P5iP1, (short)945878856, PnGK) << std::endl;
 }
 }
 
@@ -300,7 +300,7 @@ si_tuO6RMX = CR610i66z | H_nd;
 }
 if (si_tuO6RMX & g0oYY0bDPV)
 {
-std::cout << "O8Y05j" << zM4JHaoA << T7JBDy7aT(-1499876481, g0oYY0bDPV, -992172705) << std::endl;
+std::cout << "O8Y05j" << zM4JHaoA << T7JBDy7aT(-1499876481, g0oYY0bDPV, (short)-992172705) << std::endl;
 }
 else
 {

@@ -15,7 +15,7 @@ long  UF6I(short int  X29kksouo,long  x1pzX7I2lW,unsigned int  p_Z6,unsigned sho
 int main()
 {
   short int  w5fiv83  =  0;
- unsigned short int zQCUMjq = 693492589;
+ unsigned short int zQCUMjq = (unsigned short)693492589;
     int    yWWemb9px    =    -305519041;
   unsigned short  SA1PpJ  =  (unsigned short)-1274379516;
   char  n07v_2_b  =  -327318911;
@@ -39,7 +39,7 @@ while (i < 1)
 {
 if ((Eb1_ <= yWWemb9px) || ((HJl3x < 1922335558) || (yh9bpk9_ <= HJl3x)))
 {
-zQCUMjq = UF6I(-738133897, Ii_5u_h3Ho, zQCUMjq, (unsigned short)-1569732269) + yh9bpk9_;
+zQCUMjq = UF6I((short)-738133897, Ii_5u_h3Ho, zQCUMjq, (unsigned short)-1569732269) + yh9bpk9_;
 }
 else if (zQCUMjq & -1129627958)
 {
@@ -89,7 +89,7 @@ while (j >= 0);
 
 if (yh9bpk9_ != -1721061303)
 {
-cout << "FS0c6_dUy" << Eb1_ << UF6I(Ii_5u_h3Ho, n07v_2_b, m4_TZ, -1974834787) << "Bed078614" << "QqEzwWKFS6" << endl;
+cout << "FS0c6_dUy" << Eb1_ << UF6I(Ii_5u_h3Ho, n07v_2_b, m4_TZ, (unsigned short)-1974834787) << "Bed078614" << "QqEzwWKFS6" << endl;
 }
 else
 {
@@ -106,7 +106,7 @@ case 0:
 n07v_2_b = (int)abs(yWWemb9px);
 break;
 case 1:
-w5fiv83 = UF6I(w5fiv83, -1928099432, Q8uH372K, -308714930);
+w5fiv83 = UF6I(w5fiv83, -1928099432, Q8uH372K, (unsigned short)-308714930);
 break;
 case 2:
 Q8uH372K = (int)ceil(fgeIkHf);
@@ -127,7 +127,7 @@ case 7:
 Q8uH372K = (int)floor(fgeIkHf);
 break;
 case 8:
-w5fiv83 = UF6I(1610045123, Q8uH372K, HJl3x, Ii_5u_h3Ho);
+w5fiv83 = UF6I((short)1610045123, Q8uH372K, HJl3x, Ii_5u_h3Ho);
 break;
 case 9:
 n07v_2_b = UF6I((short)323504712, 977104717, HJl3x, Ii_5u_h3Ho) >> m4_TZ;
@@ -140,7 +140,7 @@ break;
 switch (Ii_5u_h3Ho)
 {
 case 0:
-w5fiv83 = UF6I(-1140060366, Eb1_, 778985549, HJl3x);
+w5fiv83 = UF6I((short)-1140060366, Eb1_, 778985549, HJl3x);
 break;
 case 1:
 fgeIkHf = Eb1_ / 448037601;
@@ -161,7 +161,7 @@ case 6:
 Q8uH372K = (int)ceil(fgeIkHf);
 break;
 case 7:
-w5fiv83 = UF6I(1192539923, -444488013, 804107533, (unsigned short)555406830);
+w5fiv83 = UF6I((short)1192539923, -444488013, 804107533, (unsigned short)555406830);
 break;
 default:
 SA1PpJ = UF6I(fgeIkHf, -991414906, -751695415, HJl3x) & 495130063;
@@ -189,7 +189,7 @@ case 1:
 yh9bpk9_ >>= 1498578581;
 break;
 case 2:
-w5fiv83 = UF6I(-1927071999, yWWemb9px, -1383736505, Q8uH372K);
+w5fiv83 = UF6I((short)-1927071999, yWWemb9px, -1383736505, Q8uH372K);
 break;
 }
 }
@@ -210,7 +210,7 @@ Ii_5u_h3Ho = n07v_2_b | Eb1_;
 }
 else if ((w5fiv83 & 1266398342) && ((m4_TZ & 601133125) || (SA1PpJ & -946254131)))
 {
-w5fiv83 = UF6I(-1712118681, Q8uH372K, yWWemb9px, n07v_2_b);
+w5fiv83 = UF6I((short)-1712118681, Q8uH372K, yWWemb9px, n07v_2_b);
 }
 else if ((HJl3x >= 768842036) && (SA1PpJ < -364805748))
 {
@@ -283,7 +283,7 @@ case 'd':
 Q8uH372K = (int)ceil(fgeIkHf);
 break;
 default:
-w5fiv83 = UF6I(2001234667, Q8uH372K, 1769055208, (unsigned short)368576889);
+w5fiv83 = UF6I((short)2001234667, Q8uH372K, 1769055208, (unsigned short)368576889);
 break;
 }
 }
@@ -303,7 +303,7 @@ case 0:
 Q8uH372K = (int)ceil(fgeIkHf);
 break;
 case 1:
-w5fiv83 = UF6I(SA1PpJ, -1022655652, 331744947, -1548522723);
+w5fiv83 = UF6I(SA1PpJ, -1022655652, 331744947, (unsigned short)-1548522723);
 break;
 case 2:
 yh9bpk9_ = Eb1_ + Q8uH372K;
@@ -323,7 +323,7 @@ int k = 6;
 do
 {
 --k;
-w5fiv83 = UF6I(714908791, Ii_5u_h3Ho, -1195875762, (unsigned short)-628980775);
+w5fiv83 = UF6I((short)714908791, Ii_5u_h3Ho, -1195875762, (unsigned short)-628980775);
 }
 while (k >= 0);
 }
@@ -336,7 +336,7 @@ w5fiv83 = UF6I(-1572731702, -1549935678, -1178827147, 494939315);
 }
 else if (Eb1_ != 1737748637)
 {
-w5fiv83 = UF6I(-357203929, 1020267133, -2095616166, yh9bpk9_);
+w5fiv83 = UF6I((short)-357203929, 1020267133, -2095616166, yh9bpk9_);
 }
 else if (((Ii_5u_h3Ho & Eb1_) && (m4_TZ & 1378405180)) || (zQCUMjq >= -1717768620))
 {
@@ -365,7 +365,7 @@ catch (int& errorCode)
 fgeIkHf = (int)ceil(Q8uH372K);
 }
 
-cout << yh9bpk9_ << UF6I(-1780137694, 1551828953, Eb1_, (unsigned short)726274893) << UF6I(-4195673, zQCUMjq, -1047447751, yh9bpk9_) << endl;
+cout << yh9bpk9_ << UF6I((short)-1780137694, 1551828953, Eb1_, (unsigned short)726274893) << UF6I(-4195673, zQCUMjq, -1047447751, yh9bpk9_) << endl;
 if (Eb1_ >= -1347593732)
 {
 if (yWWemb9px < -176665014)

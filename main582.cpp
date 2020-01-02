@@ -30,7 +30,7 @@ short int DWHv(short Yv5G0,unsigned int T1hi5K,unsigned long long WSavMk,int Mq5
 
 unsigned short int T9E_0sa0()
 {
- return 1385693842;
+ return (unsigned short)1385693842;
 }
 
 int main(int argc, char** argv) {

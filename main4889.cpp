@@ -14,7 +14,7 @@ unsigned int vL7kV()
 
 unsigned short int A9dNCuBOFv()
 {
- return -2080602934;
+ return (unsigned short)-2080602934;
 }
 
 int main(int argc, char** argv) {
@@ -27,7 +27,7 @@ int main(int argc, char** argv) {
  long rcrCk3FlRF = -363319718;
 	long long	J948ZRo2	=	407768892;
     int    ps8MPlg    =    1381205532;
- unsigned short h5_4Pa = 1148965447;
+ unsigned short h5_4Pa = (unsigned short)1148965447;
   double  qQi23NA44  =  -1297404054;
 	short	p_nzFn7	=	(short)319555349;
 	unsigned short	a01m	=	-862897893;
@@ -45,7 +45,7 @@ int main(int argc, char** argv) {
     double    MA4t    =    1506967367;
 	long double	lc9zG7	=	1196922784;
     unsigned long long    RyCSsmKmU    =    -73847040;
-    char    Q__g4Eq    =    -725931341;
+    char    Q__g4Eq    =    (char)-725931341;
   float  So3x80CB  =  1342287398;
   char  J6sU  =  0;
   unsigned short  CF6EvA9sz  =  (unsigned short)-995225543;
@@ -56,7 +56,7 @@ int main(int argc, char** argv) {
     unsigned short int    x5KgWv3    =    -909913549;
   double  A61oWC5  =  673577346;
     unsigned long    Hk1bx    =    -758981008;
-	unsigned char	ib1Y_	=	-1609706444;
+	unsigned char	ib1Y_	=	(unsigned char)-1609706444;
 
 J6sU = vL7kV();
 

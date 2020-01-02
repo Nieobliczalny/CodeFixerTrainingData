@@ -271,7 +271,7 @@ FlcDQ5 = z1UrP(FlcDQ5, llzSE3, -1846790605);
 break;
 case 'i':
 case 'I':
-Q5_4Dem15V = X288d4pR(F5Dj, 1351944918, -979161721);
+Q5_4Dem15V = X288d4pR(F5Dj, 1351944918, (unsigned char)-979161721);
 break;
 default:
 Hf5UXg3D89 = rx3aCp + 1770128648;
@@ -295,7 +295,7 @@ unsigned long long d0JHuh()
 }
 
 unsigned short int YR74WAarRz() {
- return 1972312438;
+ return (unsigned short)1972312438;
 }
 
 unsigned short    X288d4pR(unsigned long    drE4i8o04,long long    eNIzh02p1z,unsigned char    jpRV)    {

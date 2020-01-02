@@ -29,7 +29,7 @@ int main(int argc, char** argv) {
     long double    C6sxPiB;
     C6sxPiB    =    2033808646;
 	short int	FaHJI;
-	FaHJI	=	-255102635;
+	FaHJI	=	(short)-255102635;
 	long double	Vajw;
 	Vajw	=	168659804;
  short SG07yRN2Wn;
@@ -41,7 +41,7 @@ int main(int argc, char** argv) {
  long double lQdv9VU;
  lQdv9VU = 1095182992;
 	unsigned char	gM2eO_;
-	gM2eO_	=	-44423595;
+	gM2eO_	=	(unsigned char)-44423595;
  unsigned short mfWH75m;
  mfWH75m = 0;
   unsigned char  a_IN_5M38;
@@ -135,7 +135,7 @@ int j = 0;
 do
 {
 j++;
-a_IN_5M38 = hu7BM(a_IN_5M38, -809680874, 1026929178, tzSDMVF4);
+a_IN_5M38 = hu7BM(a_IN_5M38, -809680874, (unsigned short)1026929178, tzSDMVF4);
 }
 while (j < 7);
 }
@@ -165,7 +165,7 @@ while (k >= 0);
 }
 else if ((kbBul >= njdTrRM) && (gM2eO_ & -2024806057))
 {
-std::cout << kbBul << njdTrRM << Vajw << GdPP(Vajw, 243061984, lQdv9VU, XF078l) << SG07yRN2Wn << std::endl;
+std::cout << kbBul << njdTrRM << Vajw << GdPP(Vajw, (char)243061984, lQdv9VU, XF078l) << SG07yRN2Wn << std::endl;
 }
 else
 {
@@ -175,7 +175,7 @@ FaHJI = je64();
 }
 else if (lQdv9VU)
 {
-uyL3IU = hu7BM(-1607515926, 1669779210, tl_fVSaWp, a_IN_5M38);
+uyL3IU = hu7BM((unsigned char)-1607515926, 1669779210, tl_fVSaWp, a_IN_5M38);
 }
 else
 {
@@ -189,7 +189,7 @@ while (i >= 0);
 
 for (int i = 7; i >= 0; --i)
 {
-std::cout << hu7BM(153440028, -1624411104, tl_fVSaWp, -857552287) << std::endl;
+std::cout << hu7BM((unsigned char)153440028, -1624411104, tl_fVSaWp, -857552287) << std::endl;
 }
 if (FaHJI & mfWH75m)
 {
@@ -207,7 +207,7 @@ long long je64() {
 
 unsigned short int	GdPP(unsigned long long	Mzqu,char	u3803ezUyG,unsigned int	fZsSF6,unsigned char	BVOb4V0g)
 {
-	return	-1517857908;
+	return	(unsigned short)-1517857908;
 }
 
 short int  hu7BM(unsigned char  MLnLv4jXPc,int  wH_X1wQ,unsigned short  jqCC_AbRI,long long  H3D3__)  {

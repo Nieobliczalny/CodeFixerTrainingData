@@ -191,7 +191,7 @@ for (int j = 1; j >= 0; j--)
 {
 if ((GFmBl3 <= vmehieTJ) || (qi1m9c >= 1821422475))
 {
-g87Xe = w73bwe(-939737472, H_MQH2PW_, -227084237, qi1m9c);
+g87Xe = w73bwe(-939737472, H_MQH2PW_, (unsigned short)-227084237, qi1m9c);
 }
 else if (((vmehieTJ <= 113904910) || (g87Xe & 1625658206)) && (vmehieTJ & PX4288hu))
 {
@@ -267,7 +267,7 @@ qi1m9c += qi1m9c;
 break;
 case 'f':
 case 'F':
-g87Xe = w73bwe(qi1m9c, PX4288hu, -1570614664, H_MQH2PW_);
+g87Xe = w73bwe(qi1m9c, PX4288hu, (unsigned short)-1570614664, H_MQH2PW_);
 break;
 case 'g':
 case 'G':
@@ -291,7 +291,7 @@ case 0:
 vmehieTJ = (int)abs(g87Xe);
 break;
 default:
-vmehieTJ = w73bwe(qi1m9c, vmehieTJ, -289503862, -579150451);
+vmehieTJ = w73bwe(qi1m9c, vmehieTJ, (unsigned short)-289503862, -579150451);
 break;
 }
 }
@@ -329,7 +329,7 @@ vmehieTJ = w73bwe(vmehieTJ, -389075659, H_MQH2PW_, qi1m9c);
 break;
 case 'e':
 case 'E':
-H_MQH2PW_ = w73bwe(H_MQH2PW_, -1319237658, 1709747597, PX4288hu);
+H_MQH2PW_ = w73bwe(H_MQH2PW_, -1319237658, (unsigned short)1709747597, PX4288hu);
 break;
 case 'f':
 case 'F':
@@ -341,7 +341,7 @@ GFmBl3 = qi1m9c & 369613757;
 break;
 case 'h':
 case 'H':
-vmehieTJ = w73bwe(PX4288hu, 1102637832, -1659859257, -1472918840);
+vmehieTJ = w73bwe(PX4288hu, 1102637832, (unsigned short)-1659859257, -1472918840);
 break;
 default:
 g87Xe = w73bwe(2031693568, -87912891, (unsigned short)1664397736, 625902691);
@@ -361,7 +361,7 @@ try
 switch (g87Xe)
 {
 case 'a':
-vmehieTJ = w73bwe(vmehieTJ, PX4288hu, -725831239, 1895870204);
+vmehieTJ = w73bwe(vmehieTJ, PX4288hu, (unsigned short)-725831239, 1895870204);
 break;
 case 'b':
 PX4288hu = PX4288hu ^ 842880815;
@@ -388,7 +388,7 @@ PX4288hu |= 2135733112;
 }
 else if (vmehieTJ > -2057667543)
 {
-g87Xe = w73bwe(-2099452645, -1294517319, 986836742, 2026891334);
+g87Xe = w73bwe(-2099452645, -1294517319, (unsigned short)986836742, 2026891334);
 }
 else if ((PX4288hu < 1717540163) || ((GFmBl3 != -2104335296) || (qi1m9c <= 947285476)))
 {
@@ -400,7 +400,7 @@ PX4288hu = H_MQH2PW_ | GFmBl3;
 }
 else if (((GFmBl3 > qi1m9c) || (GFmBl3 > 512737319)) || (g87Xe >= 797193902))
 {
-qi1m9c = w73bwe(g87Xe, PX4288hu, 1870732492, 629680138) & 788539639;
+qi1m9c = w73bwe(g87Xe, PX4288hu, (unsigned short)1870732492, 629680138) & 788539639;
 }
 else if ((GFmBl3) || ((g87Xe) || (GFmBl3 < 2103502688)))
 {
@@ -428,7 +428,7 @@ PX4288hu--;
 
 try
 {
-g87Xe = w73bwe(PX4288hu, -1820944472, 1545189856, -192089963);
+g87Xe = w73bwe(PX4288hu, -1820944472, (unsigned short)1545189856, -192089963);
 }
 catch (int& errorCode)
 {
@@ -476,7 +476,7 @@ do
 {
 for (int k = 0; k < 10; ++k)
 {
-H_MQH2PW_ = w73bwe(H_MQH2PW_, g87Xe, -1672898056, -81672968);
+H_MQH2PW_ = w73bwe(H_MQH2PW_, g87Xe, (unsigned short)-1672898056, -81672968);
 }
 j--;
 }

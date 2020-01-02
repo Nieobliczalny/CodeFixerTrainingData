@@ -21,7 +21,7 @@ short  cGgv5TUM4U(unsigned short int  qQEHPN)
 int main(void)
 {
  long long hig51c1 = -1397160392;
-    unsigned short    H8e58    =    1012279304;
+    unsigned short    H8e58    =    (unsigned short)1012279304;
   float  Rnv_e2y_PT  =  -1710528998;
 	long double	SxTdD50v8	=	412947364;
  unsigned short Vz0eWK2e1 = (unsigned short)-1044897434;
@@ -31,7 +31,7 @@ int main(void)
  unsigned long B9t95S05nj = 606287445;
  unsigned short int Qn88HFiMCf = 1180138831;
 	short	WNz_sM4rdM	=	-143043429;
-	unsigned short int	l_F149A	=	1387817545;
+	unsigned short int	l_F149A	=	(unsigned short)1387817545;
  unsigned long sx658x = 248462047;
 	float	KJ4aBkP578	=	-1640454373;
 	unsigned long long	pBDsVb	=	-1666849289;
@@ -43,7 +43,7 @@ int main(void)
     short    yTimyLmA0    =    -1710574188;
     long double    JCrs7XMEs    =    1893066020;
     unsigned long long    droG    =    -160418548;
- short int WW0eErmt = -1628874606;
+ short int WW0eErmt = (short)-1628874606;
   unsigned short int  AVR15  =  1780519001;
   unsigned char  wbFS  =  -770836431;
   unsigned short int  Tw6x  =  1731220519;
@@ -56,7 +56,7 @@ case 0:
 AjVlI = (int)floor(KJ4aBkP578);
 break;
 case 1:
-VJUv8 = cGgv5TUM4U(1133721458);
+VJUv8 = cGgv5TUM4U((unsigned short)1133721458);
 break;
 case 2:
 VJUv8 = cGgv5TUM4U(oh9V_);
@@ -86,7 +86,7 @@ n4_K = (int)ceil(KJ4aBkP578);
 break;
 case 'c':
 case 'C':
-VJUv8 = cGgv5TUM4U(91058406);
+VJUv8 = cGgv5TUM4U((unsigned short)91058406);
 break;
 case 'd':
 case 'D':
@@ -124,7 +124,7 @@ n4_K = (int)abs(hig51c1);
 }
 else if (bD90H_ >= Tl0AxSU)
 {
-VJUv8 = cGgv5TUM4U(-1219323012);
+VJUv8 = cGgv5TUM4U((unsigned short)-1219323012);
 }
 else if (((AVR15 >= Kw1MpQ6) || (yTimyLmA0 <= Qn88HFiMCf)) || ((yjn5j9 != -607015270) || (l_F149A)))
 {
@@ -140,7 +140,7 @@ Vz0eWK2e1 <<= Tw6x;
 }
 else if (droG <= -1700349185)
 {
-VJUv8 = cGgv5TUM4U(-1166579688);
+VJUv8 = cGgv5TUM4U((unsigned short)-1166579688);
 }
 else
 {
@@ -173,7 +173,7 @@ else
 {
 if (pBDsVb == Kw1MpQ6)
 {
-VJUv8 = cGgv5TUM4U(934731129);
+VJUv8 = cGgv5TUM4U((unsigned short)934731129);
 }
 else if (wbFS == 945973294)
 {
@@ -271,7 +271,7 @@ case 0:
 l_F149A = VJUv8 / oh9V_;
 break;
 case 1:
-VJUv8 = cGgv5TUM4U(-561948385);
+VJUv8 = cGgv5TUM4U((unsigned short)-561948385);
 break;
 case 2:
 JCrs7XMEs -= 1896080092;
@@ -294,7 +294,7 @@ break;
 }
 }
 oh9V_ = (int)floor(JCrs7XMEs);
-VJUv8 = cGgv5TUM4U(-829851372);
+VJUv8 = cGgv5TUM4U((unsigned short)-829851372);
 VJUv8 = cGgv5TUM4U(R_f4aurG);
 
 VJUv8 = cGgv5TUM4U((unsigned short)-1433267570);
@@ -357,7 +357,7 @@ if (((SxTdD50v8 >= -1953659366) || (bSl1jbEHx != -622321449)) && (B9t95S05nj <= 
 {
 if (zG2pYT >= 285610053)
 {
-VJUv8 = cGgv5TUM4U(-330925066);
+VJUv8 = cGgv5TUM4U((unsigned short)-330925066);
 }
 }
 }
@@ -371,7 +371,7 @@ if (Tw6x < -1798895884)
 {
 if (oh9V_ > -11785578)
 {
-VJUv8 = cGgv5TUM4U(-1805934787);
+VJUv8 = cGgv5TUM4U((unsigned short)-1805934787);
 }
 else if (yjn5j9 > -731482330)
 {
@@ -406,7 +406,7 @@ while (k >= 0);
 }
 else
 {
-cout << WW0eErmt << cGgv5TUM4U(bD90H_) << cGgv5TUM4U(-1177808464) << "Snp4cgG" << AVR15 << endl;
+cout << WW0eErmt << cGgv5TUM4U(bD90H_) << cGgv5TUM4U((unsigned short)-1177808464) << "Snp4cgG" << AVR15 << endl;
 }
 }
 else if (((pBDsVb & 1940852286) && (n4_K > VJUv8)) && (AjVlI <= pBDsVb))
@@ -440,7 +440,7 @@ case 2:
 KJ4aBkP578 = (int)abs(JCrs7XMEs);
 break;
 case 3:
-VJUv8 = cGgv5TUM4U(-804841040);
+VJUv8 = cGgv5TUM4U((unsigned short)-804841040);
 break;
 case 4:
 Rnv_e2y_PT = (int)floor(oh9V_);
@@ -455,7 +455,7 @@ case 7:
 droG -= 583098142;
 break;
 case 8:
-VJUv8 = cGgv5TUM4U(1025984730);
+VJUv8 = cGgv5TUM4U((unsigned short)1025984730);
 break;
 case 9:
 hig51c1 = Tw6x | 939344382;
@@ -487,7 +487,7 @@ WW0eErmt = B9t95S05nj >> 768420965;
 break;
 case 'd':
 case 'D':
-VJUv8 = cGgv5TUM4U(722001255);
+VJUv8 = cGgv5TUM4U((unsigned short)722001255);
 break;
 }
 cout << cGgv5TUM4U(sx658x) << "Ds8D4V2" << endl;
@@ -551,7 +551,7 @@ case 1:
 VJUv8 = cGgv5TUM4U(Tw6x);
 break;
 case 2:
-VJUv8 = cGgv5TUM4U(554244824);
+VJUv8 = cGgv5TUM4U((unsigned short)554244824);
 break;
 case 3:
 n4_K = (int)ceil(KJ4aBkP578);
@@ -569,7 +569,7 @@ case 7:
 KJ4aBkP578 = (int)ceil(Rnv_e2y_PT);
 break;
 default:
-VJUv8 = cGgv5TUM4U(-274232873);
+VJUv8 = cGgv5TUM4U((unsigned short)-274232873);
 break;
 }
 return 0;

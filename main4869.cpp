@@ -41,7 +41,7 @@ else if (CSFI & K_M1_XUqN)
 int j = 0;
 while (j < 1)
 {
-OX4DzURm5 = aCePV(890099000, -1164466811, (char)-521160998, 1366618801);
+OX4DzURm5 = aCePV((unsigned short)890099000, -1164466811, (char)-521160998, 1366618801);
 j++;
 }
 }
@@ -60,7 +60,7 @@ i5L3 ^= 1235304172;
 break;
 case 'c':
 case 'C':
-GSBByUe_L = aCePV(906637432, 487041099, (char)466201502, Yc4k1z77_3);
+GSBByUe_L = aCePV((unsigned short)906637432, 487041099, (char)466201502, Yc4k1z77_3);
 break;
 case 'd':
 case 'D':
@@ -178,7 +178,7 @@ else if (r2TI == -23577089)
 switch (uI6xPcu_)
 {
 case 0:
-I89W4Or1v = aCePV(838495800, mPFxA, OX4DzURm5, a9u9tI);
+I89W4Or1v = aCePV((unsigned short)838495800, mPFxA, OX4DzURm5, a9u9tI);
 break;
 case 1:
 CSFI = aCePV(CSFI, -476248669, N9zua, (unsigned short)-1404730021);
@@ -199,7 +199,7 @@ case 6:
 BM9407R5 = (int)abs(Q0pj621Pf);
 break;
 case 7:
-WsEBRJOKV = aCePV(-924247721, I89W4Or1v, (char)-283843582, 269141911);
+WsEBRJOKV = aCePV((unsigned short)-924247721, I89W4Or1v, (char)-283843582, 269141911);
 break;
 default:
 L8Z5t9Mn0 <<= 183824716;
@@ -219,7 +219,7 @@ while (i < 6);
 }
 y6sP = (long long)(EkLv2N1iI + (1736315748));
 
-std::cout << aCePV(253203924, y6sP, (char)-428919188, mPuQc_) << sr1Ml4C << W8PN << aCePV(-1742028137, 190106998, -1566013574, 1129863325) << x6F3G << std::endl;
+std::cout << aCePV((unsigned short)253203924, y6sP, (char)-428919188, mPuQc_) << sr1Ml4C << W8PN << aCePV(-1742028137, 190106998, -1566013574, 1129863325) << x6F3G << std::endl;
 
 std::cout << W8PN << aCePV(e28zg, y6sP, 1083193692, mPuQc_) << aCePV(e28zg, y6sP, -347236754, -1448838164) << mYgJb5QdAz << iP2Zn5x << std::endl;
 if ((e28zg & Un6Eg) || ((k_bu8R458B & J5MvG) && (iwmL6 & vru2)))
@@ -234,7 +234,7 @@ w2ap1 = ZCzIYW();
 }
 else
 {
-NTdjCO = aCePV(NTdjCO, 190388720, 1964787924, uI6xPcu_);
+NTdjCO = aCePV(NTdjCO, 190388720, (char)1964787924, uI6xPcu_);
 }
 if ((D3g0_9 / w2ap1) != -927940463)
 {
@@ -257,7 +257,7 @@ w2ap1 = ZCzIYW();
 std::cout << "BLj4kLFI" << "Xk3bpG" << std::endl;
 if (OX4DzURm5 >= -632005271)
 {
-std::cout << aCePV(592372005, Xf35hb, (char)1333883497, -2012767716) << std::endl;
+std::cout << aCePV((unsigned short)592372005, Xf35hb, (char)1333883497, -2012767716) << std::endl;
 }
 else
 {
@@ -305,7 +305,7 @@ case 7:
 e28zg--;
 break;
 case 8:
-IVbx1ss_ = aCePV(IVbx1ss_, 2123080198, sr1Ml4C, -1466224237);
+IVbx1ss_ = aCePV(IVbx1ss_, 2123080198, sr1Ml4C, (unsigned short)-1466224237);
 break;
 case 9:
 McchgjYE = aCePV((unsigned short)-1719559370, i5L3, r2ZmoBa0, 134044000);
@@ -317,7 +317,7 @@ break;
 
 if (mYgJb5QdAz >= LrBqCHT1)
 {
-uI6xPcu_ = aCePV(363539385, vru2, W8PN, x6F3G);
+uI6xPcu_ = aCePV((unsigned short)363539385, vru2, W8PN, x6F3G);
 }
 
 try
@@ -353,7 +353,7 @@ case 0:
 Ej41a6 |= xMs_;
 break;
 default:
-k_bu8R458B = aCePV(-66322072, -1358947580, uI6xPcu_, (unsigned short)64004850);
+k_bu8R458B = aCePV((unsigned short)-66322072, -1358947580, uI6xPcu_, (unsigned short)64004850);
 break;
 }
 }
@@ -381,7 +381,7 @@ else
 {
 try
 {
-std::cout << aCePV(Xf35hb, GER7lcF, rGMt, 664723442) << std::endl;
+std::cout << aCePV(Xf35hb, GER7lcF, rGMt, (unsigned short)664723442) << std::endl;
 }
 catch (int& errorCode)
 {

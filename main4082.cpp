@@ -68,7 +68,7 @@ i++;
 switch (Vhk5na)
 {
 case 0:
-e_97 = H56S5W(1502891750, -485538545, -764314660);
+e_97 = H56S5W((char)1502891750, -485538545, -764314660);
 break;
 case 1:
 t991R = (int)floor(MshqM5ePL);
@@ -171,7 +171,7 @@ try
 switch (Ql056g1)
 {
 case 0:
-SdN8q3FI5 = H56S5W(-109386151, 1985035010, -1269121110);
+SdN8q3FI5 = H56S5W((char)-109386151, 1985035010, -1269121110);
 break;
 case 1:
 MshqM5ePL *= ps83m9;
@@ -256,7 +256,7 @@ case 0:
 un34mndfO = (Vhk5na >= -1948809376) ? FOrw4WirbD : KdZT5GYo;
 break;
 case 1:
-rfC6PsGCt = H56S5W(1779675022, 892852811, KdZT5GYo);
+rfC6PsGCt = H56S5W((char)1779675022, 892852811, KdZT5GYo);
 break;
 case 2:
 U97jz4vTMT = (int)floor(FOrw4WirbD);
@@ -286,7 +286,7 @@ break;
 
 for (int i = 9; i >= 0; i--)
 {
-std::cout << "A7xg" << zKUUORv1(-2016831028) << H56S5W(w2bGlT2WE, HY8a, EGt19dgr35) << zKUUORv1(w2bGlT2WE) << H56S5W(-553496809, HY8a, EGt19dgr35) << std::endl;
+std::cout << "A7xg" << zKUUORv1(-2016831028) << H56S5W(w2bGlT2WE, HY8a, EGt19dgr35) << zKUUORv1(w2bGlT2WE) << H56S5W((char)-553496809, HY8a, EGt19dgr35) << std::endl;
 }
 for (int i = 8; i >= 0; --i)
 {

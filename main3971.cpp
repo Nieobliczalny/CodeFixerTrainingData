@@ -36,7 +36,7 @@ if (((jS30872) && (rDzVo1d2 != -1133812001)) || ((mb5J == 1334806427) && (ArvQdf
 switch (WujpnS6)
 {
 case 'a':
-PQ85_5 = (CjZR <= -900994990) ? d1l_3EhJ_(1130661260, nD0HV1cq) : 1467041566;
+PQ85_5 = (CjZR <= -900994990) ? d1l_3EhJ_(1130661260, nD0HV1cq) : (short)1467041566;
 break;
 }
 }

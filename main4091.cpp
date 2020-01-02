@@ -19,7 +19,7 @@ unsigned int Gg23(short LBctwKV_D,short int MAZSw,unsigned int rp4E,char OQtAdO2
 int main(void)
 {
   unsigned short  Qh2Py_t;
-  Qh2Py_t  =  -1376138917;
+  Qh2Py_t  =  (unsigned short)-1376138917;
 	float	LykULIWf;
 	LykULIWf	=	162153124;
 	long long	OPYF_;
@@ -33,7 +33,7 @@ int main(void)
   double  MGl3s_yI32;
   MGl3s_yI32  =  -1924903039;
     unsigned short    f5690jKMHE;
-    f5690jKMHE    =    -2028659907;
+    f5690jKMHE    =    (unsigned short)-2028659907;
   unsigned long  gwTOC752w;
   gwTOC752w  =  264177635;
   long long  AWVX2;
@@ -43,7 +43,7 @@ int main(void)
   float  iLnL;
   iLnL  =  -146440267;
 	unsigned char	mT03Zu6;
-	mT03Zu6	=	-1550197141;
+	mT03Zu6	=	(unsigned char)-1550197141;
 	float	r4dB9s;
 	r4dB9s	=	-1531439388;
 	long long	Gvdpyyd1Z;
@@ -57,7 +57,7 @@ int main(void)
     float    bga4mSSXJ;
     bga4mSSXJ    =    -1245898296;
     short int    w4QrmY;
-    w4QrmY    =    763195642;
+    w4QrmY    =    (short)763195642;
     unsigned char    F33FoXEg;
     F33FoXEg    =    (unsigned char)-1190076690;
  int TGLmxLM7;
@@ -69,7 +69,7 @@ int main(void)
   long long  i_5H7jb;
   i_5H7jb  =  0;
 	unsigned char	UU6q6o9;
-	UU6q6o9	=	1244876339;
+	UU6q6o9	=	(unsigned char)1244876339;
 	short	f5Z7W;
 	f5Z7W	=	(short)-821137669;
 	unsigned char	PkdYh;
@@ -82,7 +82,7 @@ if (PkdYh)
 switch (Gvdpyyd1Z)
 {
 case 0:
-i_5H7jb = Gg23(WQ_f, -1518011862, WKK5SBc05I, r4dB9s);
+i_5H7jb = Gg23(WQ_f, (short)-1518011862, WKK5SBc05I, r4dB9s);
 break;
 case 1:
 r4dB9s = (f5690jKMHE < -1366459314) ? Q6OBCiNouf : 885006436;
@@ -108,7 +108,7 @@ case 'a':
 bga4mSSXJ = (int)floor(LykULIWf);
 break;
 case 'b':
-i_5H7jb = Gg23(bga4mSSXJ, -424215719, PkdYh, f5690jKMHE);
+i_5H7jb = Gg23(bga4mSSXJ, (short)-424215719, PkdYh, f5690jKMHE);
 break;
 case 'c':
 i_5H7jb = Gg23((short)1215992509, r4dB9s, o1_6, 897843308);
@@ -143,7 +143,7 @@ try
 {
 if ((i_5H7jb & -26593999) && (LykULIWf <= f6GV_27akm))
 {
-gwTOC752w = YQxrjrk2Pb(1285937741, f5690jKMHE, F33FoXEg, OPYF_, 490885746);
+gwTOC752w = YQxrjrk2Pb(1285937741, f5690jKMHE, F33FoXEg, OPYF_, (char)490885746);
 }
 else if (r4dB9s)
 {
@@ -200,7 +200,7 @@ case 6:
 Gvdpyyd1Z = f5Z7W & 1205797338;
 break;
 case 7:
-gwTOC752w = Gg23(317022713, f5690jKMHE, -2071809676, (char)407433372) ^ 210249611;
+gwTOC752w = Gg23((short)317022713, f5690jKMHE, -2071809676, (char)407433372) ^ 210249611;
 break;
 case 8:
 r4dB9s = (int)ceil(WKK5SBc05I);
@@ -266,7 +266,7 @@ for (int i = 4; i >= 0; --i)
 int j = 0;
 while (j < 10)
 {
-std::cout << OPYF_ << bga4mSSXJ << Gg23(mT03Zu6, LykULIWf, i_5H7jb, -1568034042) << Gg23(mT03Zu6, LykULIWf, i_5H7jb, WKK5SBc05I) << Gg23(mT03Zu6, (short)1289740365, i_5H7jb, WKK5SBc05I) << std::endl;
+std::cout << OPYF_ << bga4mSSXJ << Gg23(mT03Zu6, LykULIWf, i_5H7jb, (char)-1568034042) << Gg23(mT03Zu6, LykULIWf, i_5H7jb, WKK5SBc05I) << Gg23(mT03Zu6, (short)1289740365, i_5H7jb, WKK5SBc05I) << std::endl;
 j++;
 }
 }
@@ -301,7 +301,7 @@ if (((o1_6 >= B8REBl4X3) || (MGl3s_yI32 == XTZr)) || ((UU6q6o9 < XTZr) || (f5690
 {
 try
 {
-f5690jKMHE = Gg23(430902828, (short)1791246648, i_5H7jb, -2102921009) * UU6q6o9;
+f5690jKMHE = Gg23((short)430902828, (short)1791246648, i_5H7jb, -2102921009) * UU6q6o9;
 }
 catch (int& errorCode)
 {
@@ -344,7 +344,7 @@ case 0:
 coF_L6 -= i_5H7jb;
 break;
 case 1:
-i_5H7jb = Gg23(LykULIWf, -532616513, WQ_f, (char)85764631);
+i_5H7jb = Gg23(LykULIWf, (short)-532616513, WQ_f, (char)85764631);
 break;
 case 2:
 WKK5SBc05I = (int)ceil(WQ_f);
@@ -370,7 +370,7 @@ if (((r4dB9s > 1018697439) && (coF_L6 >= f6GV_27akm)) || ((Gvdpyyd1Z != -7399812
 int j = 0;
 do
 {
-std::cout << Gg23(o1_6, 2047531621, q3PS2f3Q_, mT03Zu6) << std::endl;
+std::cout << Gg23(o1_6, (short)2047531621, q3PS2f3Q_, mT03Zu6) << std::endl;
 j++;
 }
 while (j < 8);
@@ -433,7 +433,7 @@ r4dB9s = (int)abs(OPYF_);
 
 try
 {
-WQ_f = YQxrjrk2Pb(1043349082, AWVX2, 1681798521, bga4mSSXJ, -1424555351);
+WQ_f = YQxrjrk2Pb(1043349082, AWVX2, 1681798521, bga4mSSXJ, (char)-1424555351);
 }
 catch (int& errorCode)
 {
@@ -450,7 +450,7 @@ else
 {
 for (int j = 6; j >= 0; j--)
 {
-std::cout << Gg23(1487446453, (short)929253663, -1046843818, 879098053) << gwTOC752w << "x_fKW" << std::endl;
+std::cout << Gg23((short)1487446453, (short)929253663, -1046843818, 879098053) << gwTOC752w << "x_fKW" << std::endl;
 }
 }
 
@@ -478,7 +478,7 @@ else
 bga4mSSXJ = (int)floor(LykULIWf);
 }
 
-std::cout << YQxrjrk2Pb(2003617182, AWVX2, LykULIWf, bga4mSSXJ, Y5h3D1Uy) << ycul << YQxrjrk2Pb(WQ_f, 1526836102, LykULIWf, bga4mSSXJ, (char)-2070928693) << std::endl;
+std::cout << YQxrjrk2Pb(2003617182, AWVX2, LykULIWf, bga4mSSXJ, Y5h3D1Uy) << ycul << YQxrjrk2Pb(WQ_f, (short)1526836102, LykULIWf, bga4mSSXJ, (char)-2070928693) << std::endl;
 if (WKK5SBc05I == l81u)
 {
 {
@@ -503,7 +503,7 @@ j--;
 switch (q3PS2f3Q_)
 {
 case 0:
-UU6q6o9 = YQxrjrk2Pb(UU6q6o9, 360637579, 27214797, -1567660741, (char)-146995720);
+UU6q6o9 = YQxrjrk2Pb(UU6q6o9, (short)360637579, 27214797, -1567660741, (char)-146995720);
 break;
 case 1:
 AWVX2 = Gg23(UU6q6o9, f5Z7W, Gvdpyyd1Z, WKK5SBc05I) % 558218870;
@@ -526,7 +526,7 @@ WQ_f = (int)ceil(WKK5SBc05I);
 }
 else
 {
-Qh2Py_t = YQxrjrk2Pb(Qh2Py_t, 487155573, gwTOC752w, 1294257406, (char)-1072799150);
+Qh2Py_t = YQxrjrk2Pb(Qh2Py_t, (short)487155573, gwTOC752w, 1294257406, (char)-1072799150);
 }
 }
 }
@@ -565,7 +565,7 @@ AWVX2 <<= 46460348;
 }
 else if (((o1_6 > 705830103) || (TGLmxLM7 != XTZr)) || ((w4QrmY >= f6GV_27akm) && (w4QrmY & f5Z7W)))
 {
-std::cout << bga4mSSXJ << Gg23(PkdYh, UU6q6o9, -233694013, 1910977689) << "IFRHDw_Y1O" << f5690jKMHE << "DW7P647Az" << std::endl;
+std::cout << bga4mSSXJ << Gg23(PkdYh, UU6q6o9, -233694013, (char)1910977689) << "IFRHDw_Y1O" << f5690jKMHE << "DW7P647Az" << std::endl;
 }
 else
 {
@@ -580,7 +580,7 @@ unsigned long long    u5C_(long long    ZBm1jiBe8,unsigned int    tRqzow,int    
 
 unsigned short int    YQxrjrk2Pb(unsigned long    m63E,short int    LtTL,long    qT38SBy3U5,long    R8q801,char    uuLIMx0hkc)
 {
-    return    -458614456;
+    return    (unsigned short)-458614456;
 }
 
 unsigned int Gg23(short LBctwKV_D,short int MAZSw,unsigned int rp4E,char OQtAdO2QsR)

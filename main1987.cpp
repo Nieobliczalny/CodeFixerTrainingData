@@ -16,7 +16,7 @@ long long JUe4rN8p(char CpOSeSs,int CPr49m,unsigned int moasrLz) {
 
 unsigned short int	Kyt4FNdEAr(long long	S97mifjG8,unsigned short	Fzfci5gj,unsigned char	y21BWNeIx,unsigned long long	GTHaiH48R0,short int	ydYah_y)
 {
-	return	541491812;
+	return	(unsigned short)541491812;
 }
 
 unsigned long o2o8W()
@@ -26,7 +26,7 @@ unsigned long o2o8W()
 
 short int i4jXa55KHs(unsigned short d11HG,long sK0un9o,unsigned int gaJ3s7gX)
 {
- return 1423513319;
+ return (short)1423513319;
 }
 
 unsigned short int n0wpGjl(unsigned long G3sT7,short int xmWs,unsigned int hmx2e1,short QwUH2,unsigned long k2C8glKd1o) {
@@ -38,7 +38,7 @@ int main(int argc, char** argv)
     unsigned long long    S9ie    =    -1755388661;
   long  ZIxHfWU  =  2082648254;
  int HsV99aj6Z = 372698773;
-  unsigned char  y5Ge  =  -1007915427;
+  unsigned char  y5Ge  =  (unsigned char)-1007915427;
 	char	bm1pv_c1e	=	0;
 	long long	zZT7	=	550498328;
  unsigned char gh84920CO = (unsigned char)396383477;
@@ -196,7 +196,7 @@ YhE2_9 = o2o8W();
 break;
 case 'c':
 case 'C':
-YhE2_9 = Kyt4FNdEAr(-1421125752, -584054418, (unsigned char)-1921787315, -201193395, gh84920CO);
+YhE2_9 = Kyt4FNdEAr(-1421125752, (unsigned short)-584054418, (unsigned char)-1921787315, -201193395, gh84920CO);
 break;
 case 'd':
 case 'D':
@@ -240,7 +240,7 @@ for (int i = 0; i < 8; ++i)
 {
 try
 {
-zZT7 = i4jXa55KHs(-1996148872, 913250296, NsJilPG8sN);
+zZT7 = i4jXa55KHs((unsigned short)-1996148872, 913250296, NsJilPG8sN);
 }
 catch (int& errorCode)
 {
@@ -263,7 +263,7 @@ while (j < 8);
 
 ZIxHfWU = (long)(uo7Qk + (GTXar));
 
-cout << ZIxHfWU / JUe4rN8p(66953926, FotoDPa, NsJilPG8sN) << endl;
+cout << ZIxHfWU / JUe4rN8p((char)66953926, FotoDPa, NsJilPG8sN) << endl;
 
 cout << JUe4rN8p(zZT7, -2084187610, -1159040857) << i4jXa55KHs(zZT7, 216122155, -1921158999) << endl;
 

@@ -10,7 +10,7 @@
 int main(int argc, char** argv)
 {
  unsigned char hU32g, z257, GxQT_q6FFK, xoVqg_zN8n, iZcuO, QaXD44, VwBHeyd1Aw, F0bTt, Rb_h, K7f3x60, C7OK8Nqs, geq9MN0N, m0Z7WK5xb0, kAHoNHy, oL0jCp, k_ZcHO8i, KBSiTX, THN1Ir, KRuk, ZK7rxD6EW, jST0NXLZd, wf19810rf, E7XeFw6F, Osv_U2, PecScE4y4, RNUw, dwdA5KX, wRCKkb0, Jcqq4RyL, Gp_1057j, Pxy2A_g, Kf9QQ7, CJ4_TZ6R1Q, G08_nJ, eO_o6G4f, fCzdfz98z, g774, R6csl, H8l0_y3D, ag19q6fY, Y4i3Y7_g, Ua4HnB, h0G1g5, ds3Z11, KP2q_3t8Pp, mcfzlv53E, R70Y;
-  hU32g = z257 = GxQT_q6FFK = xoVqg_zN8n = iZcuO = QaXD44 = VwBHeyd1Aw = F0bTt = Rb_h = K7f3x60 = C7OK8Nqs = geq9MN0N = m0Z7WK5xb0 = kAHoNHy = oL0jCp = k_ZcHO8i = KBSiTX = THN1Ir = KRuk = ZK7rxD6EW = jST0NXLZd = wf19810rf = E7XeFw6F = Osv_U2 = PecScE4y4 = RNUw = dwdA5KX = wRCKkb0 = Jcqq4RyL = Gp_1057j = Pxy2A_g = Kf9QQ7 = CJ4_TZ6R1Q = G08_nJ = eO_o6G4f = fCzdfz98z = g774 = R6csl = H8l0_y3D = ag19q6fY = Y4i3Y7_g = Ua4HnB = h0G1g5 = ds3Z11 = KP2q_3t8Pp = mcfzlv53E = R70Y = 1522497186;
+  hU32g = z257 = GxQT_q6FFK = xoVqg_zN8n = iZcuO = QaXD44 = VwBHeyd1Aw = F0bTt = Rb_h = K7f3x60 = C7OK8Nqs = geq9MN0N = m0Z7WK5xb0 = kAHoNHy = oL0jCp = k_ZcHO8i = KBSiTX = THN1Ir = KRuk = ZK7rxD6EW = jST0NXLZd = wf19810rf = E7XeFw6F = Osv_U2 = PecScE4y4 = RNUw = dwdA5KX = wRCKkb0 = Jcqq4RyL = Gp_1057j = Pxy2A_g = Kf9QQ7 = CJ4_TZ6R1Q = G08_nJ = eO_o6G4f = fCzdfz98z = g774 = R6csl = H8l0_y3D = ag19q6fY = Y4i3Y7_g = Ua4HnB = h0G1g5 = ds3Z11 = KP2q_3t8Pp = mcfzlv53E = R70Y = (unsigned char)1522497186;
  int q94QW_, lw387_cK, i85d34, zvjeAt_l1o;
   q94QW_ = lw387_cK = i85d34 = zvjeAt_l1o = 0;
 
@@ -31,7 +31,7 @@ case 'c':
 hU32g >>= 382274839;
 break;
 case 'd':
-G08_nJ = (F0bTt >= -1680710258) ? -94460941 : (unsigned char)-1114851897;
+G08_nJ = (F0bTt >= -1680710258) ? (unsigned char)-94460941 : (unsigned char)-1114851897;
 break;
 case 'e':
 kAHoNHy <<= 581046384;
@@ -138,7 +138,7 @@ case 1:
 VwBHeyd1Aw |= QaXD44;
 break;
 case 2:
-RNUw = (k_ZcHO8i) ? -1597989212 : (unsigned char)-590951830;
+RNUw = (k_ZcHO8i) ? (unsigned char)-1597989212 : (unsigned char)-590951830;
 break;
 case 3:
 xoVqg_zN8n -= KRuk;

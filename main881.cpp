@@ -31,7 +31,7 @@ case 1:
 w3d_M = OCF7jnow_m | cPXeud;
 break;
 default:
-Is012303H = jh_4jdwK(-1012722927, WBPm5__60) - gmq2_nBm;
+Is012303H = jh_4jdwK((short)-1012722927, WBPm5__60) - gmq2_nBm;
 break;
 }
 }
@@ -52,7 +52,7 @@ try
 int k = 5;
 while (k >= 0)
 {
-m_M7e0C = jh_4jdwK(-1130199675, Is012303H);
+m_M7e0C = jh_4jdwK((short)-1130199675, Is012303H);
 --k;
 }
 }
@@ -104,7 +104,7 @@ WBPm5__60 = jh_4jdwK(w3d_M, -1113956920) / m_M7e0C;
 int i = 4;
 while (i >= 0)
 {
-m_M7e0C = jh_4jdwK(-1482482989, -1189592777);
+m_M7e0C = jh_4jdwK((short)-1482482989, -1189592777);
 --i;
 }
 }
@@ -116,7 +116,7 @@ while (i >= 0)
 switch (m_M7e0C)
 {
 case 0:
-LOSDTbQ4 = jh_4jdwK(2105523041, BCtD33JyY);
+LOSDTbQ4 = jh_4jdwK((short)2105523041, BCtD33JyY);
 break;
 case 1:
 w3d_M = O3mt & Is012303H;
@@ -150,7 +150,7 @@ break;
 }
 }
 
-LOSDTbQ4 = jh_4jdwK(105818508, -1149667043);
+LOSDTbQ4 = jh_4jdwK((short)105818508, -1149667043);
 
 m_M7e0C = (unsigned long)(UyStXiD5wo * m_M7e0C);
 
@@ -184,7 +184,7 @@ while (j >= 0);
 }
 else
 {
-std::cout << cPXeud << jh_4jdwK(1646802775, 331672019) << jh_4jdwK(w3d_M, DC4Xch6) << DC4Xch6 << OCF7jnow_m << std::endl;
+std::cout << cPXeud << jh_4jdwK((short)1646802775, 331672019) << jh_4jdwK(w3d_M, DC4Xch6) << DC4Xch6 << OCF7jnow_m << std::endl;
 }
 return 0;
 }

@@ -156,7 +156,7 @@ E1_r5 = p0PUO(947890098, -781952080, -1142644274, 1245559357, upWU) >> 147202767
 switch (tzx81_F99)
 {
 case 0:
-R72jMo2_ = (z5S1375ATd <= -576872547) ? -434444993 : R9LKNe9Tx(1512784568, huXC4_);
+R72jMo2_ = (z5S1375ATd <= -576872547) ? -434444993 : R9LKNe9Tx((unsigned short)1512784568, huXC4_);
 break;
 case 1:
 BW1ka32 = p0PUO(BW1ka32, wp06, QW15D0sZO, rC7B75, 480197810);
@@ -168,7 +168,7 @@ case 3:
 Vr3N = p0PUO((unsigned short)1091812576, IAVu6VUE, YH820D, -1858579444, 1480671585);
 break;
 case 4:
-G2eM3797P = p0PUO(-2118040971, WQmi, -616445301, 575851423, Xnk_Fa9WC);
+G2eM3797P = p0PUO((unsigned short)-2118040971, WQmi, -616445301, 575851423, Xnk_Fa9WC);
 break;
 case 5:
 sjC53e *= 235960043;
@@ -213,7 +213,7 @@ XXQlxTc += a5G7r;
 break;
 case 'e':
 case 'E':
-sjC53e = p0PUO(sjC53e, -1580784494, (short)-1060510183, UUMM2Q, 1595582673);
+sjC53e = p0PUO(sjC53e, (short)-1580784494, (short)-1060510183, UUMM2Q, 1595582673);
 break;
 case 'f':
 case 'F':
@@ -337,7 +337,7 @@ for (int j = 5; j >= 0; --j)
 switch (qt0_P30yc7)
 {
 case 0:
-XXQlxTc = p0PUO(XXQlxTc, 1922862574, WQmi, uAW_1, D0UN3D);
+XXQlxTc = p0PUO(XXQlxTc, (short)1922862574, WQmi, uAW_1, D0UN3D);
 break;
 case 1:
 S28Go235Q6 = JFVZ0U + 1106225966;
@@ -383,7 +383,7 @@ long long  blqR()
 
 short int R9LKNe9Tx(unsigned short int Jw2SDk,long A0MY116)
 {
- return -804676918;
+ return (short)-804676918;
 }
 
 unsigned short int umob9(unsigned long O5Yr3nV_6D)

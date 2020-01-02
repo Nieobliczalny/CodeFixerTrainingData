@@ -14,7 +14,7 @@ using std::ceil;
 using std::floor;
 
 unsigned char  bGGS()  {
-  return  1668726965;
+  return  (unsigned char)1668726965;
 }
 
 unsigned short	PKz4u7Vr(long	mTyHf_4U,unsigned short	Zi7DXK8,unsigned long	HNHR8RLx6e,short int	C2Q_)
@@ -24,7 +24,7 @@ unsigned short	PKz4u7Vr(long	mTyHf_4U,unsigned short	Zi7DXK8,unsigned long	HNHR8
 
 short    DWxF(char    Sx686w_,unsigned int    Z18kQitm,short int    Eo80EVk7p,long long    oYC49qRhnP)
 {
-    return    1649217033;
+    return    (short)1649217033;
 }
 
 unsigned short I0nKKLshx1() {
@@ -38,7 +38,7 @@ unsigned long DCn5S()
 
 int main(int argc, char** argv)
 {
- unsigned short int gq0jUE_ = -2043133116;
+ unsigned short int gq0jUE_ = (unsigned short)-2043133116;
  unsigned int uYzR = 1875355313;
  long double AA449r = 1386646375;
     int    RQQh5    =    -3918842;
@@ -49,7 +49,7 @@ int main(int argc, char** argv)
   char  WPIpU2l8n  =  (char)1655224883;
  long double W4Tl0 = 1300520873;
  unsigned long long eG3F = 989063727;
-    short int    XqZ10FH    =    1539160889;
+    short int    XqZ10FH    =    (short)1539160889;
 	unsigned char	mr45NJ93	=	120408102;
 	unsigned char	h81EnD0_	=	-1405421277;
     float    cyw3S3Urm    =    715985215;
@@ -61,7 +61,7 @@ int main(int argc, char** argv)
 	unsigned long long	j2Su8w	=	451576171;
 	float	xSbGc4O	=	486875535;
   long double  YTY_8Es763  =  -112682599;
- unsigned short int G3af = 1317330148;
+ unsigned short int G3af = (unsigned short)1317330148;
     short    N9pG    =    1510825846;
  int t1QY0NV = -158403606;
   short int  PJfNyeh  =  -1930930946;
@@ -73,7 +73,7 @@ int main(int argc, char** argv)
 	short	M3ub5	=	52447372;
   unsigned int  Bsd1Vf  =  227370617;
     long long    oG5M7    =    1771532544;
-    short int    SE4R5kv    =    1022377289;
+    short int    SE4R5kv    =    (short)1022377289;
 	unsigned char	h07LOY	=	-1442485364;
   long  tEG2_o  =  1541785423;
 	unsigned long	FcSNjj__cJ	=	536349166;
@@ -84,7 +84,7 @@ int main(int argc, char** argv)
 	unsigned long long	U9_7Ck	=	2089309706;
     long double    e5Sed    =    2068230326;
   long long  mFkRqG9qdT  =  -1531557253;
-  short  m453  =  -474140751;
+  short  m453  =  (short)-474140751;
   double  b_eof2d  =  1200405821;
 	unsigned char	Ech745U2r	=	-108886705;
     double    wR57IVysn    =    1918989495;
@@ -94,7 +94,7 @@ int main(int argc, char** argv)
   unsigned short  xr_GooWQy  =  (unsigned short)-694720327;
     unsigned char    JOPyeoR1o    =    1944794922;
  long long fRP710Km = -1517800673;
-  short int  F_RS24RuC  =  496157722;
+  short int  F_RS24RuC  =  (short)496157722;
     int    aar_uaYQ_h    =    0;
     unsigned long long    rY68_0l    =    -2075022108;
  float A67Gf = 1024098268;
@@ -106,7 +106,7 @@ int main(int argc, char** argv)
  char hs0w4z = (char)893344632;
   int  CScl  =  564061522;
   long double  M05OAV_nQp  =  1441220412;
-    short int    TV7mYE01    =    2075815111;
+    short int    TV7mYE01    =    (short)2075815111;
   float  Zu0C  =  -297188915;
     unsigned short    M635qq8    =    235481109;
  char xz73 = 2057999183;
@@ -117,7 +117,7 @@ int main(int argc, char** argv)
     long    w2JE    =    1991848079;
  long Glj77E = -2145047572;
  float xW0xv6w9yG = 2039088523;
-	unsigned short	x20L	=	-935747809;
+	unsigned short	x20L	=	(unsigned short)-935747809;
   short int  t68_  =  (short)847497668;
     unsigned short int    BaJHZf5Fej    =    -1338121194;
     long double    oiiid    =    -375286056;
@@ -225,7 +225,7 @@ M635qq8 &= co0N24I;
 }
 
 m453 = (short)(W_9Eoj4n + (-767320761));
-std::cout << DWxF(497513546, xW0xv6w9yG, eG3F, 1135486308) << std::endl;
+std::cout << DWxF((char)497513546, xW0xv6w9yG, eG3F, 1135486308) << std::endl;
 
 try
 {
@@ -394,7 +394,7 @@ case 4:
 M05OAV_nQp = (int)abs(AA449r);
 break;
 case 5:
-xz73 = DWxF(xz73, -2087675379, 1359497064, 1072566769);
+xz73 = DWxF(xz73, -2087675379, (short)1359497064, 1072566769);
 break;
 case 6:
 xW0xv6w9yG = DWxF((char)-360462354, 731801679, Glj77E, m453);

@@ -12,7 +12,7 @@ using namespace std;
 
 char	Eysx(unsigned int	Ptjm6fg,short int	JcvAnq0b,char	WTCC)
 {
-	return	-1820870380;
+	return	(char)-1820870380;
 }
 
 unsigned long long    C0c89()
@@ -128,7 +128,7 @@ else if ((QB2qyE7) || (S39X_Ul <= b91u9l7))
 {
 for (int k = 0; k < 10; k++)
 {
-Cgye6CJ = Eysx(98726495, ue4f, -1540616097);
+Cgye6CJ = Eysx(98726495, ue4f, (char)-1540616097);
 }
 }
 else if ((KPBZr) || (lroXW <= QB2qyE7))
@@ -148,7 +148,7 @@ MJ627Nhd ^= yRXqCf;
 break;
 case 'b':
 case 'B':
-Cgye6CJ = Eysx(Cgye6CJ, MJ627Nhd, 938910949);
+Cgye6CJ = Eysx(Cgye6CJ, MJ627Nhd, (char)938910949);
 break;
 case 'c':
 case 'C':
@@ -177,7 +177,7 @@ int k = 0;
 while (k < 1)
 {
 ++k;
-QT8Sl02qkr = Eysx(1930084435, d6zHK9MH2, -227732595);
+QT8Sl02qkr = Eysx(1930084435, d6zHK9MH2, (char)-227732595);
 }
 }
 }
@@ -204,7 +204,7 @@ else if (((AK_2T) && (KPBZr != Dv09db435)) && (NqRZH <= -945572873))
 {
 if (Dv09db435 >= ar7afEz2hc)
 {
-Up85SQZ4p = Eysx(1303420048, -2091051437, KPBZr);
+Up85SQZ4p = Eysx(1303420048, (short)-2091051437, KPBZr);
 }
 }
 else if (sKeBUOVgDD != b6F6aw9)
@@ -220,7 +220,7 @@ else
 int k = 0;
 while (k < 3)
 {
-KwBN2XhTS = Eysx(KwBN2XhTS, -1952992751, (char)-2038708877);
+KwBN2XhTS = Eysx(KwBN2XhTS, (short)-1952992751, (char)-2038708877);
 k++;
 }
 }
@@ -249,7 +249,7 @@ ue4f ^= 303968884;
 switch (PY7Iuy0)
 {
 case 0:
-lroXW = Eysx(-2107181800, QB2qyE7, -115996137);
+lroXW = Eysx(-2107181800, QB2qyE7, (char)-115996137);
 break;
 case 1:
 S3zg = C0c89();
@@ -261,7 +261,7 @@ case 3:
 KPBZr = Eysx(-1523379537, (short)2006264356, 893773781);
 break;
 case 4:
-Cgye6CJ = Eysx(Cgye6CJ, -913111675, 453040027);
+Cgye6CJ = Eysx(Cgye6CJ, (short)-913111675, 453040027);
 break;
 case 5:
 RyA_t = C0c89();
@@ -284,7 +284,7 @@ for (int i = 0; i < 10; i++)
 {
 if ((d6zHK9MH2) || ((J0o_oV48AC >= h00s4W) && (t_B12 < -1177429938)))
 {
-KPBZr = Eysx(314611611, 1464064263, (char)-1933718095);
+KPBZr = Eysx(314611611, (short)1464064263, (char)-1933718095);
 }
 else
 {
@@ -326,7 +326,7 @@ for (int j = 0; j < 5; j++)
 {
 if (h00s4W >= -801670176)
 {
-HIdk = Eysx(392023046, -235685450, qU3UDH044T);
+HIdk = Eysx(392023046, (short)-235685450, qU3UDH044T);
 }
 else
 {

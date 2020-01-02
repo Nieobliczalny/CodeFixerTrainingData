@@ -43,7 +43,7 @@ for (int j = 0; j < 7; j++)
 int k = 8;
 do
 {
-V1daj_ = p6Mb99dor(442604721, FR8sCIe, MqwexJ2, uI1q3Mhh, 1222176853);
+V1daj_ = p6Mb99dor(442604721, FR8sCIe, MqwexJ2, uI1q3Mhh, (unsigned short)1222176853);
 k--;
 }
 while (k >= 0);
@@ -104,7 +104,7 @@ h10c62 = bgCOF8o + 235420085;
 }
 else
 {
-U_Ex0y = TqqZ(-380326782, (unsigned short)-2049951445, -504902225, 940485679, -851235515);
+U_Ex0y = TqqZ((short)-380326782, (unsigned short)-2049951445, -504902225, 940485679, -851235515);
 }
 
 {
@@ -185,7 +185,7 @@ e49W = qhm1gI5();
 break;
 case 'b':
 case 'B':
-XLzt = z5u37KMFI(58875934);
+XLzt = z5u37KMFI((unsigned char)58875934);
 break;
 case 'c':
 case 'C':
@@ -239,7 +239,7 @@ case 0:
 EqUjbKw -= 62064961;
 break;
 case 1:
-V1daj_ = p6Mb99dor(954577108, -1539728310, -1002665123, r_ur4qA9, (unsigned short)114497);
+V1daj_ = p6Mb99dor(954577108, (unsigned short)-1539728310, -1002665123, r_ur4qA9, (unsigned short)114497);
 break;
 case 2:
 iATp3p8 += U_Ex0y;
@@ -308,7 +308,7 @@ if (Z0C_k19rf >= -72712450)
 {
 if ((cz5zm8g4 >= c3307n4) && ((h2CRVai == -1035829094) && (K3p0Q)))
 {
-sPFv = (mkFh) ? 1968323750 : (unsigned char)1074783637;
+sPFv = (mkFh) ? (unsigned char)1968323750 : (unsigned char)1074783637;
 }
 }
 else
@@ -325,7 +325,7 @@ while (j >= 0)
 j--;
 for (int k = 0; k < 3; ++k)
 {
-T4m5gG8G = z5u37KMFI(230127195);
+T4m5gG8G = z5u37KMFI((unsigned char)230127195);
 }
 }
 }
@@ -340,7 +340,7 @@ if (EqUjbKw > uI1q3Mhh)
 o3H7gS9m = (unsigned char)(iSP44Ag4_a);
 }
 }
-B_mx7J9bJ = z5u37KMFI(924584857);
+B_mx7J9bJ = z5u37KMFI((unsigned char)924584857);
 
 switch (e49W)
 {
@@ -396,7 +396,7 @@ h4sU2lH1da |= 1228685783;
 break;
 case 'b':
 case 'B':
-ft0d = p6Mb99dor(h6BsGmT8D, 1108337767, cGNn, 142331639, JXPC);
+ft0d = p6Mb99dor(h6BsGmT8D, (unsigned short)1108337767, cGNn, 142331639, JXPC);
 break;
 case 'c':
 case 'C':
@@ -408,7 +408,7 @@ jWG1RJv_7 = qhm1gI5();
 break;
 case 'e':
 case 'E':
-yZ7_9 = TqqZ(yZ7_9, X2fNV5, bgCOF8o, 1936209215, sPFv);
+yZ7_9 = TqqZ(yZ7_9, X2fNV5, bgCOF8o, (unsigned short)1936209215, sPFv);
 break;
 case 'f':
 case 'F':
@@ -428,7 +428,7 @@ A8wPrl *= 626530081;
 break;
 case 'j':
 case 'J':
-ZTLzrB = TqqZ(1383304449, (unsigned short)1365985484, cwTQ35Pv15, o3H7gS9m, X2fNV5);
+ZTLzrB = TqqZ((short)1383304449, (unsigned short)1365985484, cwTQ35Pv15, o3H7gS9m, X2fNV5);
 break;
 default:
 bgCOF8o = qhm1gI5();
@@ -447,7 +447,7 @@ return 0;
 
 short int  qhm1gI5()
 {
-  return  959093782;
+  return  (short)959093782;
 }
 
 unsigned short int TqqZ(short int OYb4Okn99,unsigned short int iF_mWa,unsigned int y8EvD,unsigned short d77q,unsigned char JQL022a0) {

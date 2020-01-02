@@ -29,7 +29,7 @@ do
 {
 if ((u38N3 > -778941613) || ((RnROe5esvm < 1536073498) || (Q1D5 & hTgu_)))
 {
-hTgu_ = y4msCL(38915955, z36Tb, c70hEeO4);
+hTgu_ = y4msCL((short)38915955, z36Tb, c70hEeO4);
 }
 else
 {
@@ -99,7 +99,7 @@ try
 {
 if (uMyGw_9850 != 2040200655)
 {
-DNS3c = y4msCL(Cy_yK5riK3, o2jcY9y, -694651289);
+DNS3c = y4msCL(Cy_yK5riK3, o2jcY9y, (short)-694651289);
 }
 }
 catch (int& errorCode)
@@ -115,7 +115,7 @@ else if (Q1D5 & dfQXM97hu)
 {
 try
 {
-ZBU1__Q2H = y4msCL(dTG8Z1, -1739269856, -1492051864);
+ZBU1__Q2H = y4msCL(dTG8Z1, -1739269856, (short)-1492051864);
 }
 catch (int& errorCode)
 {
@@ -189,7 +189,7 @@ case 'f':
 dfQXM97hu *= Cy_yK5riK3;
 break;
 case 'g':
-ZBU1__Q2H = y4msCL(W5PL, ZBU1__Q2H, 1325731932);
+ZBU1__Q2H = y4msCL(W5PL, ZBU1__Q2H, (short)1325731932);
 break;
 case 'h':
 dfQXM97hu &= umBH6ZE7gr;
@@ -201,7 +201,7 @@ case 'j':
 dTG8Z1 = i8U7I0AVr();
 break;
 default:
-jkZwmNCb06 = (MF084 != -70761136) ? 1932570822 : jkZwmNCb06;
+jkZwmNCb06 = (MF084 != -70761136) ? (short)1932570822 : jkZwmNCb06;
 break;
 }
 }
@@ -234,7 +234,7 @@ j++;
 }
 }
 
-W5PL = 991389630 / y4msCL(rgo0_5, Q1D5, -891101019);
+W5PL = 991389630 / y4msCL(rgo0_5, Q1D5, (short)-891101019);
 
 G2lxT %= 827691952;
 {
@@ -246,7 +246,7 @@ int j = 2;
 while (j >= 0)
 {
 --j;
-ZBU1__Q2H = y4msCL(1867042607, Q1D5, X66T1W);
+ZBU1__Q2H = y4msCL((short)1867042607, Q1D5, X66T1W);
 }
 }
 i--;
@@ -276,7 +276,7 @@ for (int j = 0; j < 3; j++)
 int k = 2;
 do
 {
-tIDD5uiYa = (BQZ2Qu >= -261793019) ? 832992691 : iGeW0_5;
+tIDD5uiYa = (BQZ2Qu >= -261793019) ? (short)832992691 : iGeW0_5;
 --k;
 }
 while (k >= 0);
@@ -286,7 +286,7 @@ while (k >= 0);
 while (i < 7);
 }
 
-DNS3c = y4msCL(-463472218, -937537698, c70hEeO4);
+DNS3c = y4msCL((short)-463472218, -937537698, c70hEeO4);
 try
 {
 for (int j = 0; j < 5; j++)
@@ -340,7 +340,7 @@ while (j < 3);
 }
 for (int i = 10; i >= 0; i--)
 {
-cout << "Gk4kaAo" << y4msCL(iGeW0_5, -1826322266, -770187507) << endl;
+cout << "Gk4kaAo" << y4msCL(iGeW0_5, -1826322266, (short)-770187507) << endl;
 }
 
 return 0;
@@ -353,6 +353,6 @@ long long y4msCL(short int K1x3TrL5,int L63shM,short int XXH92B_9ic)
 
 short int i8U7I0AVr()
 {
- return -775533241;
+ return (short)-775533241;
 }
 

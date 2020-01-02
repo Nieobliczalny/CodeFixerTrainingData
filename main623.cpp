@@ -8,7 +8,7 @@
 
 
 unsigned char  B0t_ZLEt(unsigned long  B0an0j3p_t,long long  PGe3w0r1)  {
-  return  256999510;
+  return  (unsigned char)256999510;
 }
 
 long    kU46(long long    So2mVutH,unsigned long long    OXmFe2s,unsigned char    RD3e_B,unsigned long    Ii881,unsigned int    r_11)
@@ -40,7 +40,7 @@ std::cout << "hvBj5JD6" << "OivCi_hu9" << "OR3t" << B0t_ZLEt(UT6mg, 1360431656) 
 
 for (int i = 8; i >= 0; --i)
 {
-z5J0MR = kU46(1704970024, X1KHCO6P, -26563861, r3uyg, LP51V);
+z5J0MR = kU46(1704970024, X1KHCO6P, (unsigned char)-26563861, r3uyg, LP51V);
 }
 
 {
@@ -85,7 +85,7 @@ if (iUiY0 <= Gr5uc)
 {
 try
 {
-D1F3 = kU46(wgs9, UT6mg, 1387600764, 337679925, VEijm);
+D1F3 = kU46(wgs9, UT6mg, (unsigned char)1387600764, 337679925, VEijm);
 }
 catch (int& errorCode)
 {
@@ -107,7 +107,7 @@ dK4_R = B0t_ZLEt(dK4_R, 121383741);
 }
 else if (W4s066 >= -290390219)
 {
-D1F3 = kU46(r3uyg, 1493504034, 1442729673, -1045159699, -1214289276);
+D1F3 = kU46(r3uyg, 1493504034, (unsigned char)1442729673, -1045159699, -1214289276);
 }
 else
 {
@@ -132,7 +132,7 @@ int k = 0;
 while (k < 6)
 {
 ++k;
-m8n9D = kU46(2007833233, -631829761, -412033171, VptqmmakQD, -46945796);
+m8n9D = kU46(2007833233, -631829761, (unsigned char)-412033171, VptqmmakQD, -46945796);
 }
 }
 }
@@ -232,7 +232,7 @@ case 3:
 BJ8V_6 = B0t_ZLEt(BJ8V_6, -774842621);
 break;
 case 4:
-R_98zT = kU46(k1G4, 1977187646, 1833913138, BZN6c258Hm, R_98zT);
+R_98zT = kU46(k1G4, 1977187646, (unsigned char)1833913138, BZN6c258Hm, R_98zT);
 break;
 case 5:
 nc34ble7gg = B0t_ZLEt(nc34ble7gg, 2040781814);
@@ -281,7 +281,7 @@ while (k >= 0);
 }
 }
 
-std::cout << kU46(-1335070983, OkF30, -168309568, 32606306, IPob) << OzGlU_Q << Q235TQ_ << std::endl;
+std::cout << kU46(-1335070983, OkF30, (unsigned char)-168309568, 32606306, IPob) << OzGlU_Q << Q235TQ_ << std::endl;
 
 if (cRw2 >= bUXJOGz29o)
 {
@@ -334,7 +334,7 @@ if (Hk8_ < nc34ble7gg)
 {
 try
 {
-D1F3 = kU46(Z5T6uVxu, W4s066, -1934755867, PnluBw, Q235TQ_);
+D1F3 = kU46(Z5T6uVxu, W4s066, (unsigned char)-1934755867, PnluBw, Q235TQ_);
 }
 catch (int& errorCode)
 {
@@ -345,7 +345,7 @@ else
 {
 for (int k = 4; k >= 0; --k)
 {
-m8n9D = kU46(m8n9D, 1911082923, 1095507641, 1603631528, 1605023359);
+m8n9D = kU46(m8n9D, 1911082923, (unsigned char)1095507641, 1603631528, 1605023359);
 }
 }
 }

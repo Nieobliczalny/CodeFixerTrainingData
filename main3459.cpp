@@ -13,7 +13,7 @@ long	Or4m2Lz(int	t2C_F2FlFN,unsigned long	VRs9sj,short int	AhQ45_7r)	{
 
 unsigned short int    DeK1()
 {
-    return    -11491681;
+    return    (unsigned short)-11491681;
 }
 
 char  jPC2(unsigned int  iX7J5T3Se,short int  s0MBTnaA,unsigned short int  RR1Gk20Xo,char  VVJMk04Tmm,int  EAHm30)  {
@@ -98,7 +98,7 @@ M1jB3N--;
 break;
 case 'e':
 case 'E':
-vyvj21 = jPC2(vyvj21, AZqmJ7u5m0, k7zJ, -518399785, -1725268061);
+vyvj21 = jPC2(vyvj21, AZqmJ7u5m0, k7zJ, (char)-518399785, -1725268061);
 break;
 case 'f':
 case 'F':
@@ -110,7 +110,7 @@ pWEK /= 1635637889;
 break;
 case 'h':
 case 'H':
-x7_3b = LW8crvsQ(-1488363777);
+x7_3b = LW8crvsQ((unsigned short)-1488363777);
 break;
 case 'i':
 case 'I':
@@ -163,7 +163,7 @@ case 6:
 tF_62n7271 = WBWHc1 * vyvj21;
 break;
 case 7:
-W_cZ5 = jPC2(yj52W3T9, 1030649625, (unsigned short)-277481109, n40s74c7nS, ch283) % 97331753;
+W_cZ5 = jPC2(yj52W3T9, (short)1030649625, (unsigned short)-277481109, n40s74c7nS, ch283) % 97331753;
 break;
 case 8:
 RCW_Hf_6ZS = GS88el8 ^ 1890948208;

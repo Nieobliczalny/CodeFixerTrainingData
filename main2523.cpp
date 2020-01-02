@@ -16,7 +16,7 @@ using namespace std;
 int main(int argc, char** argv)
 {
  char jSWgZcjk;
- jSWgZcjk = -2146487369;
+ jSWgZcjk = (char)-2146487369;
     short    rGoi0;
     rGoi0    =    (short)539763811;
  short a1Wgo;
@@ -38,7 +38,7 @@ int main(int argc, char** argv)
   unsigned short int  A88js;
   A88js  =  0;
  unsigned short HXc1_J2;
- HXc1_J2 = 344677407;
+ HXc1_J2 = (unsigned short)344677407;
 	int	K2LeO6H3;
 	K2LeO6H3	=	-35983300;
 	long	f826;
@@ -50,7 +50,7 @@ int main(int argc, char** argv)
 	unsigned long	G_9DT;
 	G_9DT	=	1795983151;
 	unsigned char	Xx769BOF;
-	Xx769BOF	=	-1241477685;
+	Xx769BOF	=	(unsigned char)-1241477685;
     unsigned int    vvS8_;
     vvS8_    =    1573084217;
   unsigned long  W3ejCIR;
@@ -64,7 +64,7 @@ int main(int argc, char** argv)
 	int	DtN_bq;
 	DtN_bq	=	1343435048;
     unsigned char    ty29_Hs;
-    ty29_Hs    =    2083783766;
+    ty29_Hs    =    (unsigned char)2083783766;
 	unsigned char	nO8pK_Jes;
 	nO8pK_Jes	=	1437990722;
   float  rO8dN_n;
@@ -78,7 +78,7 @@ int main(int argc, char** argv)
 	double	wZZpve;
 	wZZpve	=	-2010474241;
 	unsigned short int	t6be0_;
-	t6be0_	=	1343458363;
+	t6be0_	=	(unsigned short)1343458363;
   unsigned short int  Sl5s25IE;
   Sl5s25IE  =  (unsigned short)-289957628;
  unsigned long long cvLIpDWUV;
@@ -88,7 +88,7 @@ int main(int argc, char** argv)
     float    e5009f3;
     e5009f3    =    -1450638686;
  unsigned short int MIkvw;
- MIkvw = -1584702501;
+ MIkvw = (unsigned short)-1584702501;
 	float	XKJ8t7qI5c;
 	XKJ8t7qI5c	=	1562398470;
     float    BzmHO9pt;
@@ -104,7 +104,7 @@ int main(int argc, char** argv)
 	double	KUgVidmbS;
 	KUgVidmbS	=	-275940792;
  short int x02Iszd_vO;
- x02Iszd_vO = -134273796;
+ x02Iszd_vO = (short)-134273796;
 	double	i60B;
 	i60B	=	-1899109133;
   short  bEcM_d;
@@ -312,7 +312,7 @@ ty29_Hs = a1Wgo & C76Aip1T;
 break;
 case 'd':
 case 'D':
-bEcM_d = (t6be0_ != 487550344) ? -835342261 : (short)-550680447;
+bEcM_d = (t6be0_ != 487550344) ? (short)-835342261 : (short)-550680447;
 break;
 }
 i++;

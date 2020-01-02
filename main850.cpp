@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
     float    aM2TOhSvI4;
     aM2TOhSvI4    =    -1503195981;
   unsigned short int  X4NmoL;
-  X4NmoL  =  -1833345308;
+  X4NmoL  =  (unsigned short)-1833345308;
  unsigned short int xgQNs;
  xgQNs = (unsigned short)-885066864;
  unsigned char h48rUj2;
@@ -36,7 +36,7 @@ int main(int argc, char** argv) {
   double  deh7p0ewp;
   deh7p0ewp  =  -865493393;
 	unsigned short	O9vDCn;
-	O9vDCn	=	535004735;
+	O9vDCn	=	(unsigned short)535004735;
     int    xep_;
     xep_    =    -178774408;
     long long    Axx4Qj;
@@ -46,7 +46,7 @@ int main(int argc, char** argv) {
     unsigned short int    G68SI8;
     G68SI8    =    -1484255882;
     unsigned char    GH1V96;
-    GH1V96    =    597362724;
+    GH1V96    =    (unsigned char)597362724;
     float    KlC6j_;
     KlC6j_    =    1242433342;
     unsigned short int    N4U2va60Y;
@@ -60,7 +60,7 @@ int main(int argc, char** argv) {
 	unsigned int	OBgiga_u;
 	OBgiga_u	=	-1542019571;
     unsigned short    ig8aP2AIl1;
-    ig8aP2AIl1    =    -1534809906;
+    ig8aP2AIl1    =    (unsigned short)-1534809906;
 	long	k1_LFs;
 	k1_LFs	=	-2071004315;
   unsigned char  Ltcq5EwzH;
@@ -70,7 +70,7 @@ int main(int argc, char** argv) {
 	unsigned short	TICMYL8HSL;
 	TICMYL8HSL	=	-1346787378;
   short int  Hic6v8o;
-  Hic6v8o  =  -859502797;
+  Hic6v8o  =  (short)-859502797;
  long double bS_S95NpV9;
  bS_S95NpV9 = -1152453657;
     long double    q8DyDzCg;
@@ -84,7 +84,7 @@ int main(int argc, char** argv) {
   int  OeWf;
   OeWf  =  882100920;
  short int d48402W9;
- d48402W9 = -1558016603;
+ d48402W9 = (short)-1558016603;
     long long    R_1J32wx;
     R_1J32wx    =    869484310;
     short int    v3MA;
@@ -96,7 +96,7 @@ int main(int argc, char** argv) {
  unsigned long X418;
  X418 = -2070860673;
     short int    tFW07R4mv8;
-    tFW07R4mv8    =    1879858761;
+    tFW07R4mv8    =    (short)1879858761;
   long  xcwC;
   xcwC  =  109106900;
   unsigned int  syz15fN_;
@@ -118,7 +118,7 @@ int main(int argc, char** argv) {
     long double    aH67;
     aH67    =    1976512288;
 	unsigned short	X716qu4H;
-	X716qu4H	=	106344506;
+	X716qu4H	=	(unsigned short)106344506;
   int  R3zNn_;
   R3zNn_  =  220758003;
 

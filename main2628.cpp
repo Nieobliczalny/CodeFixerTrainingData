@@ -14,7 +14,7 @@ using namespace std;
 
 unsigned char	lxve_qBm(unsigned long	Zy_94)
 {
-	return	-1636003460;
+	return	(unsigned char)-1636003460;
 }
 
 unsigned short int  JfiD(unsigned long long  g3D5F)  {
@@ -109,7 +109,7 @@ int main() {
   wC5QM  =  0;
   TdYr  =  0;
 
-wC5QM = BfZMRE9ZU(1090641143);
+wC5QM = BfZMRE9ZU((unsigned short)1090641143);
 if (UEkdRp == 0)
 {
 	S34G47EX0 = 109797423 / UEkdRp;
@@ -122,7 +122,7 @@ case 0:
 xRh8DWTP = q6u1nO7_ + 17485713;
 break;
 case 1:
-XG90SHf6_3 = J86BWIWO(-1056410654, 270403942, -947203483, Pqmv09v, vza1JY3UgJ);
+XG90SHf6_3 = J86BWIWO((unsigned char)-1056410654, 270403942, -947203483, Pqmv09v, vza1JY3UgJ);
 break;
 case 2:
 bgj8jZFiP <<= JWBaVH1tY;
@@ -149,7 +149,7 @@ break;
 switch (G5SM4L)
 {
 case 0:
-i64m = p5S2L_kf5(507292272, (unsigned short)1837990805, q6u1nO7_);
+i64m = p5S2L_kf5((char)507292272, (unsigned short)1837990805, q6u1nO7_);
 break;
 case 1:
 UEkdRp = BfZMRE9ZU(eDPL3qKui);
@@ -164,7 +164,7 @@ case 4:
 S34G47EX0 ^= MA_4hbo7GT;
 break;
 case 5:
-wC5QM = BfZMRE9ZU(-558134309);
+wC5QM = BfZMRE9ZU((unsigned short)-558134309);
 break;
 }
 

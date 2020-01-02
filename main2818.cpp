@@ -23,7 +23,7 @@ int main()
 	long long	cF8opQ0f;
 	cF8opQ0f	=	0;
 	unsigned short	VUxW;
-	VUxW	=	800974053;
+	VUxW	=	(unsigned short)800974053;
   unsigned long long  VQFDl;
   VQFDl  =  -1682092480;
   unsigned char  M_vWB1AK;
@@ -35,7 +35,7 @@ int main()
   long double  y64A8cjY;
   y64A8cjY  =  465442157;
   unsigned short int  Ps8xDKqa;
-  Ps8xDKqa  =  255692597;
+  Ps8xDKqa  =  (unsigned short)255692597;
     long double    UVi7Bl81;
     UVi7Bl81    =    1394363677;
  long double E78eKQ;
@@ -47,7 +47,7 @@ int main()
  unsigned long long Zm7soqz48J;
  Zm7soqz48J = 2562651;
     short int    C6zZHDfqs3;
-    C6zZHDfqs3    =    -1754703032;
+    C6zZHDfqs3    =    (short)-1754703032;
   char  lZT7ZV4COf;
   lZT7ZV4COf  =  435458370;
  double ruy3a7WDc;
@@ -59,7 +59,7 @@ int main()
 	unsigned long	f7S6Zz;
 	f7S6Zz	=	-636767287;
   unsigned char  wge3Pad;
-  wge3Pad  =  2090744679;
+  wge3Pad  =  (unsigned char)2090744679;
  unsigned int o6EutexIk3;
  o6EutexIk3 = 0;
     unsigned short    sXavxk3gtf;
@@ -69,7 +69,7 @@ int main()
   long long  F1ig;
   F1ig  =  -2017488843;
   unsigned short  m49n_8Ji;
-  m49n_8Ji  =  -2090508337;
+  m49n_8Ji  =  (unsigned short)-2090508337;
   unsigned short  tF5O5rHBhc;
   tF5O5rHBhc  =  1079199412;
  unsigned int mpAyJVM_;
@@ -85,7 +85,7 @@ int main()
 	long double	sF2V2HzPD_;
 	sF2V2HzPD_	=	1721471065;
   unsigned short int  N_6kDp;
-  N_6kDp  =  -1306904466;
+  N_6kDp  =  (unsigned short)-1306904466;
  short zg6L7K;
  zg6L7K = 0;
     unsigned long    ur2A1mIT0;
@@ -95,7 +95,7 @@ int main()
 	double	V6gUrboM;
 	V6gUrboM	=	-1142855437;
     unsigned char    MfVC2Vc;
-    MfVC2Vc    =    -138161159;
+    MfVC2Vc    =    (unsigned char)-138161159;
   unsigned char  HH9iERE;
   HH9iERE  =  (unsigned char)1858322438;
   unsigned long long  Ymqu4;
@@ -107,7 +107,7 @@ int main()
  long long oJB14;
  oJB14 = -1825202450;
     unsigned char    gX7pdV2M2;
-    gX7pdV2M2    =    -2081819864;
+    gX7pdV2M2    =    (unsigned char)-2081819864;
     long long    jk15utI__0;
     jk15utI__0    =    0;
   long double  bF72;

@@ -857,7 +857,7 @@ return 0;
 }
 
 short int  xi9qVAY1()  {
-  return  -676317204;
+  return  (short)-676317204;
 }
 
 unsigned long long x9gFC7L(long Bh1w2,int OA5_se,long long EpTznwq1) {

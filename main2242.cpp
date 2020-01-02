@@ -20,7 +20,7 @@ int main(void) {
   unsigned int  nQj29k;
   nQj29k  =  -1647269021;
     unsigned short int    Fd4tF;
-    Fd4tF    =    487362606;
+    Fd4tF    =    (unsigned short)487362606;
 	double	zJ96J0gvz;
 	zJ96J0gvz	=	-85614770;
 	short	RtFx;
@@ -30,7 +30,7 @@ int main(void) {
 	double	lgQ5c7b;
 	lgQ5c7b	=	-1034028431;
  short OP6H_6V3f;
- OP6H_6V3f = -1444999656;
+ OP6H_6V3f = (short)-1444999656;
   long  Ae_X8;
   Ae_X8  =  2122256199;
   int  Rnkt;
@@ -40,7 +40,7 @@ int main(void) {
 	long	FZCg98;
 	FZCg98	=	168787388;
   short int  QgWZ8;
-  QgWZ8  =  1950867818;
+  QgWZ8  =  (short)1950867818;
 	long long	T4Nb5_;
 	T4Nb5_	=	-724680460;
  short int yy9_b3OS;
@@ -50,7 +50,7 @@ int main(void) {
  unsigned long long e2ku;
  e2ku = -1428741502;
 	unsigned short	B02a3Cz0;
-	B02a3Cz0	=	556485390;
+	B02a3Cz0	=	(unsigned short)556485390;
 
 T4Nb5_ = (int)abs(aWw7c07AP8);
 
@@ -71,7 +71,7 @@ if (TVy2 > 860106079)
 {
 if (FZCg98 != uGP73)
 {
-TVy2 = sDN6(526077952);
+TVy2 = sDN6((short)526077952);
 }
 else if (I5rq & TVy2)
 {
@@ -119,7 +119,7 @@ for (int i = 0; i < 4; i++)
 {
 if (Rnkt == uGP73)
 {
-cout << Rnkt << nQj29k << sDN6(1976930542) << yy9_b3OS << OP6H_6V3f << endl;
+cout << Rnkt << nQj29k << sDN6((short)1976930542) << yy9_b3OS << OP6H_6V3f << endl;
 }
 }
 
@@ -208,7 +208,7 @@ break;
 switch (yy9_b3OS)
 {
 case 0:
-TVy2 = sDN6(-1892301690);
+TVy2 = sDN6((short)-1892301690);
 break;
 case 1:
 zJ96J0gvz = (int)ceil(aWw7c07AP8);
@@ -284,7 +284,7 @@ do
 {
 if ((e2ku & 1394016067) && (nQj29k))
 {
-TVy2 = sDN6(1186197572);
+TVy2 = sDN6((short)1186197572);
 }
 ++j;
 }
@@ -308,7 +308,7 @@ else if (nQj29k & uGP73)
 {
 if ((QgWZ8 != T4Nb5_) && ((QgWZ8 > 670472391) && (TVy2 == uGP73)))
 {
-TVy2 = sDN6(-259398694);
+TVy2 = sDN6((short)-259398694);
 }
 }
 else if (T4Nb5_ & uGP73)
@@ -348,7 +348,7 @@ TVy2 = sDN6(I5rq);
 }
 else
 {
-B02a3Cz0 = (yy9_b3OS != uGP73) ? -417179153 : sDN6(I5rq);
+B02a3Cz0 = (yy9_b3OS != uGP73) ? (unsigned short)-417179153 : sDN6(I5rq);
 }
 }
 else
@@ -370,7 +370,7 @@ T4Nb5_ = (int)abs(lgQ5c7b);
 }
 else if ((B02a3Cz0 & yy9_b3OS) || (I5rq < FZCg98))
 {
-TVy2 = sDN6(1291527186);
+TVy2 = sDN6((short)1291527186);
 }
 else if (QgWZ8)
 {
@@ -382,7 +382,7 @@ OP6H_6V3f = OP6H_6V3f + aWw7c07AP8;
 }
 else
 {
-QgWZ8 = (I5rq > uGP73) ? sDN6(2062163035) : (short)1803368769;
+QgWZ8 = (I5rq > uGP73) ? sDN6((short)2062163035) : (short)1803368769;
 }
 }
 else if (OP6H_6V3f > -1312320915)

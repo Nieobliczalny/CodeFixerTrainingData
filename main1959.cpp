@@ -18,7 +18,7 @@ int	Gx2IyA2()
 }
 
 short H7u5nTL(long long PwC0Fb3) {
- return -1022598972;
+ return (short)-1022598972;
 }
 
 int main(int argc, char** argv)
@@ -28,7 +28,7 @@ int main(int argc, char** argv)
     EP85EE3    =    0;
     x_J6    =    0;
  unsigned short int gj9t1VrRPN, W7HMyhn, I8tE, hQCHiV_g, ayDa3G_y9, xULuq5ge9U, A2Hf, KQgOsU, cfde0_uNm, e52s_Jp7B5, E5A_9J, Rf__i, z9lSod, EYf54Ih9Q, Qsk74S, hf3HS, L9Q4835c8C, iNuC6U84u, V4fiOM27S, ekmON, fVz8A3U1, Gmn0BO9;
- gj9t1VrRPN = -424722393;
+ gj9t1VrRPN = (unsigned short)-424722393;
  W7HMyhn = (unsigned short)706610501;
  I8tE = 1924652159;
  hQCHiV_g = -884929374;
@@ -38,7 +38,7 @@ int main(int argc, char** argv)
  KQgOsU = 656989163;
  cfde0_uNm = 576956071;
  e52s_Jp7B5 = 129897435;
- E5A_9J = -1145732339;
+ E5A_9J = (unsigned short)-1145732339;
  Rf__i = (unsigned short)-1062484972;
  z9lSod = -227827100;
  EYf54Ih9Q = -889866363;
@@ -48,7 +48,7 @@ int main(int argc, char** argv)
  iNuC6U84u = 777742323;
  V4fiOM27S = 243002818;
  ekmON = 2004391434;
- fVz8A3U1 = -1270066151;
+ fVz8A3U1 = (unsigned short)-1270066151;
  Gmn0BO9 = (unsigned short)-941244389;
 
 iNuC6U84u = kfoh8O(1330743584, xULuq5ge9U, 683363531);
@@ -64,7 +64,7 @@ cfde0_uNm = H7u5nTL(cfde0_uNm);
 
 for (int i = 10; i >= 0; --i)
 {
-Rf__i = kfoh8O(1389398494, xULuq5ge9U, 1365312730);
+Rf__i = kfoh8O((unsigned char)1389398494, xULuq5ge9U, 1365312730);
 }
 
 try
@@ -109,7 +109,7 @@ if (EYf54Ih9Q <= 738737916)
 {
 if (ayDa3G_y9 != -1006100987)
 {
-ekmON = kfoh8O(-895484503, ayDa3G_y9, Qsk74S);
+ekmON = kfoh8O((unsigned char)-895484503, ayDa3G_y9, Qsk74S);
 }
 }
 else
@@ -145,7 +145,7 @@ e52s_Jp7B5 = (unsigned short int)(V4fiOM27S);
 
 if (Gmn0BO9 > Qsk74S)
 {
-std::cout << H7u5nTL(fVz8A3U1) << Gmn0BO9 << "WAP7D3NL" << kfoh8O(822833050, (unsigned short)-411145520, -212856816) << "GZRr2Hv" << std::endl;
+std::cout << H7u5nTL(fVz8A3U1) << Gmn0BO9 << "WAP7D3NL" << kfoh8O((unsigned char)822833050, (unsigned short)-411145520, -212856816) << "GZRr2Hv" << std::endl;
 }
 else
 {
@@ -159,7 +159,7 @@ if ((V4fiOM27S <= -1003364266) || (x_J6 == e52s_Jp7B5))
 {
 E5A_9J = (unsigned short int)(EP85EE3 + (-1332824046));
 }
-Qsk74S = kfoh8O(707754807, ekmON, 136954795);
+Qsk74S = kfoh8O((unsigned char)707754807, ekmON, 136954795);
 
 std::cout << "AIFG_i" << Rf__i << std::endl;
 

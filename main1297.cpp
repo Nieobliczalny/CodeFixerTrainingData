@@ -21,7 +21,7 @@ unsigned int	g1Dsc9qMa4(unsigned short	n_a7Y)	{
 }
 
 char    r7NC48a6kJ(unsigned int    w2N_laqPG1,int    Lg9VSec,unsigned short int    hbR5nP,short int    Mv12YPFJ9)    {
-    return    -417503060;
+    return    (char)-417503060;
 }
 
 int main(int argc, char** argv)
@@ -35,7 +35,7 @@ int main(int argc, char** argv)
  int SSvwge = 0;
     long long    Ny4_    =    387387665;
   unsigned long long  PSZFb  =  1423737804;
- unsigned short eVyO8 = -367334248;
+ unsigned short eVyO8 = (unsigned short)-367334248;
 	long	HNE4b7_	=	784508446;
 	unsigned long	n17mpE5	=	2040070576;
  char l6h1A = (char)1515225510;
@@ -45,7 +45,7 @@ int main(int argc, char** argv)
   unsigned short int  kg7q2n_P  =  -2006319866;
 	unsigned char	a6gPow2c	=	-1705212821;
  long BIUPDfI1vo = -1329574175;
-    unsigned short int    DnIy_    =    -1597639647;
+    unsigned short int    DnIy_    =    (unsigned short)-1597639647;
   short int  ZT6q2  =  -1885133875;
   unsigned char  F1P1Dx_y  =  0;
     float    n7aM    =    1928240477;
@@ -129,7 +129,7 @@ l6h1A = F1P1Dx_y - 1890205541;
 break;
 case 'f':
 case 'F':
-SSvwge = U1YMm9(BIUPDfI1vo, O_RNK0U, 531377939, SSvwge);
+SSvwge = U1YMm9(BIUPDfI1vo, O_RNK0U, (short)531377939, SSvwge);
 break;
 case 'g':
 case 'G':
@@ -227,7 +227,7 @@ YwJvv = r7NC48a6kJ(-1934857956, zMrgj2_, n7aM, DnIy_);
 break;
 case 'b':
 case 'B':
-DnIy_ = r7NC48a6kJ(DnIy_, ZT6q2, F1P1Dx_y, 1429764587);
+DnIy_ = r7NC48a6kJ(DnIy_, ZT6q2, F1P1Dx_y, (short)1429764587);
 break;
 case 'c':
 case 'C':
@@ -243,7 +243,7 @@ if (((A_KXIVa != kHSuq70c9s) || (A_KXIVa & PSZFb)) || (SSvwge & -1858587205))
 {
 if (zMrgj2_)
 {
-cout << O_RNK0U << r7NC48a6kJ(a6gPow2c, -1577477948, 2095718162, j7PyGmM) << "sbaek92R5" << uv_r << r7NC48a6kJ(a6gPow2c, eVyO8, (unsigned short)-704895279, j7PyGmM) << endl;
+cout << O_RNK0U << r7NC48a6kJ(a6gPow2c, -1577477948, (unsigned short)2095718162, j7PyGmM) << "sbaek92R5" << uv_r << r7NC48a6kJ(a6gPow2c, eVyO8, (unsigned short)-704895279, j7PyGmM) << endl;
 }
 else if (O_RNK0U == ce01N)
 {
@@ -339,7 +339,7 @@ cout << g1Dsc9qMa4(ZT6q2) << g1Dsc9qMa4(ZT6q2) << "YQmS8" << U1YMm9(ZT6q2, -5919
 }
 while (i < 4);
 }
-F1P1Dx_y = U1YMm9(-1597836325, 606771596, (short)1982900077, eVyO8);
+F1P1Dx_y = U1YMm9((short)-1597836325, 606771596, (short)1982900077, eVyO8);
 
 l6h1A = (int)abs(j7PyGmM);
 
@@ -351,7 +351,7 @@ if (Lk7P > ce01N)
 {
 try
 {
-PSZFb = r7NC48a6kJ(PSZFb, 1826892802, 402522333, HNE4b7_);
+PSZFb = r7NC48a6kJ(PSZFb, 1826892802, (unsigned short)402522333, HNE4b7_);
 }
 catch (int& errorCode)
 {

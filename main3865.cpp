@@ -14,7 +14,7 @@ int  xcac1S(unsigned short  XfHC1h,short  Ni1_)
 
 unsigned char    rLQwtM(unsigned char    Lzbcx,long long    RCMI4)
 {
-    return    191831318;
+    return    (unsigned char)191831318;
 }
 
 long W5cLi8d4OP()
@@ -28,7 +28,7 @@ unsigned long long b42_r()
 }
 
 short    DB3XRz1Y(unsigned long long    O_tjw70c_)    {
-    return    -62113053;
+    return    (short)-62113053;
 }
 
 int main() {
@@ -56,7 +56,7 @@ std::cout << W5cLi8d4OP() << l6RO3QUSsb << wn0tpB << W5cLi8d4OP() << std::endl;
 }
 else
 {
-std::cout << b42_r() << qxGke7FYkj << rLQwtM(-7835008, 2072278406) << std::endl;
+std::cout << b42_r() << qxGke7FYkj << rLQwtM((unsigned char)-7835008, 2072278406) << std::endl;
 }
 
 J775m9Wt *= 1050112761;
@@ -109,7 +109,7 @@ while (k >= 0);
 }
 else if (v5I312Ff != 1873054577)
 {
-l6RO3QUSsb = xcac1S(t0k9yvt, -1578149876);
+l6RO3QUSsb = xcac1S(t0k9yvt, (short)-1578149876);
 }
 else if (ZOzsGre0s & 2098256076)
 {
@@ -140,7 +140,7 @@ int i = 0;
 do
 {
 i++;
-qxGke7FYkj = rLQwtM(-344150275, 806747187);
+qxGke7FYkj = rLQwtM((unsigned char)-344150275, 806747187);
 }
 while (i < 2);
 }
@@ -161,7 +161,7 @@ jZa9 = t0k9yvt << c8BNm60;
 break;
 case 'c':
 case 'C':
-R_4WL2z = xcac1S(-1000531417, (short)21731304);
+R_4WL2z = xcac1S((unsigned short)-1000531417, (short)21731304);
 break;
 case 'd':
 case 'D':
@@ -279,7 +279,7 @@ case 0:
 wS3HercY %= 2083055423;
 break;
 default:
-a1Z2k25R = rLQwtM(1830720965, 1875809586);
+a1Z2k25R = rLQwtM((unsigned char)1830720965, 1875809586);
 break;
 }
 switch (D0t9l9FY)
@@ -330,7 +330,7 @@ case 4:
 mFKD8C = FCLmOc | 961133216;
 break;
 case 5:
-fXZPu5 = rLQwtM(1840050428, U_s_fv);
+fXZPu5 = rLQwtM((unsigned char)1840050428, U_s_fv);
 break;
 default:
 J775m9Wt = b42_r();
@@ -344,7 +344,7 @@ Ipf2_8X3 = W5cLi8d4OP();
 }
 else
 {
-FCLmOc = xcac1S(ZOzsGre0s, -1201858083) & 1494868208;
+FCLmOc = xcac1S(ZOzsGre0s, (short)-1201858083) & 1494868208;
 }
 if (a1Z2k25R)
 {
@@ -385,7 +385,7 @@ wn0tpB = (unsigned int)(Ipf2_8X3 + (-637609494));
 i--;
 }
 }
-R_4WL2z = xcac1S(-1107388441, ZOzsGre0s);
+R_4WL2z = xcac1S((unsigned short)-1107388441, ZOzsGre0s);
 
 z3Qyg = (unsigned int)(R_4WL2z);
 if (jZa9 & 1490563045)
@@ -396,7 +396,7 @@ while (j < 9)
 {
 if (b90fyF91pH < jZa9)
 {
-b90fyF91pH = xcac1S(-1657857884, t0k9yvt);
+b90fyF91pH = xcac1S((unsigned short)-1657857884, t0k9yvt);
 }
 else if (C0590wj >= -12738474)
 {

@@ -17,7 +17,7 @@ short int	k51F48u_(long	Y2dB6y3,short int	i49NGx,int	OZtOk,unsigned long	Y4mMHXx
 
 int main() {
     long    V3408ei    =    0;
-	short int	TWuU843	=	-266912165;
+	short int	TWuU843	=	(short)-266912165;
   short int  CzvpdgW13  =  0;
     double    Sei28l43Q    =    -929761501;
     unsigned short int    dD7E9NB3_x    =    (unsigned short)1737847129;
@@ -27,7 +27,7 @@ int main() {
 	long	Cxk4_2	=	1128358411;
     double    TF2Ib    =    1486127746;
 	long long	M6kH1A1	=	1045082722;
-    short    FZIicT0vw3    =    -1605068925;
+    short    FZIicT0vw3    =    (short)-1605068925;
  float HQa3505_r = 1885945996;
     unsigned short int    O6Gd_YLnU    =    1444555693;
  int ijit8 = 153975759;
@@ -39,7 +39,7 @@ int main() {
     unsigned short    KO5rYzRj    =    (unsigned short)316643404;
     unsigned char    s2o552    =    0;
     long long    R086R3    =    -888420355;
- short int wJyFbX = 965074813;
+ short int wJyFbX = (short)965074813;
   unsigned int  P05WVU6A  =  -1704307561;
   unsigned long  z1r_9eu07z  =  854181324;
   short  B9nJ  =  -1381670319;
@@ -104,7 +104,7 @@ TF2Ib = B7j6IyQ4();
 break;
 case 'f':
 case 'F':
-B9nJ = k51F48u_(-276964629, 1174751686, -207637269, -1355492212);
+B9nJ = k51F48u_(-276964629, (short)1174751686, -207637269, -1355492212);
 break;
 case 'g':
 case 'G':
@@ -172,7 +172,7 @@ if (dgRh & Cxk4_2)
 {
 if (ijit8 >= 857365424)
 {
-dD7E9NB3_x = k51F48u_(dD7E9NB3_x, 342355437, Cxk4_2, CzvpdgW13);
+dD7E9NB3_x = k51F48u_(dD7E9NB3_x, (short)342355437, Cxk4_2, CzvpdgW13);
 }
 else
 {
@@ -216,7 +216,7 @@ TF2Ib = (int)ceil(crRn1F1);
 std::cout << TF2Ib / s2o552 << std::endl;
 if (XCYa4T7 >= -1168174971)
 {
-z1r_9eu07z = k51F48u_(z1r_9eu07z, -994021086, R086R3, TF2Ib);
+z1r_9eu07z = k51F48u_(z1r_9eu07z, (short)-994021086, R086R3, TF2Ib);
 }
 else if (dD7E9NB3_x >= -1467608707)
 {
@@ -602,7 +602,7 @@ case 3:
 TF2Ib = gxn762E();
 break;
 case 4:
-TF2Ib = k51F48u_(dgRh, 1109845680, TF2Ib, -270511221);
+TF2Ib = k51F48u_(dgRh, (short)1109845680, TF2Ib, -270511221);
 break;
 case 5:
 wJyFbX -= R086R3;
@@ -640,6 +640,6 @@ unsigned long gxn762E() {
 
 short int	k51F48u_(long	Y2dB6y3,short int	i49NGx,int	OZtOk,unsigned long	Y4mMHXxY)
 {
-	return	-1999400061;
+	return	(short)-1999400061;
 }
 

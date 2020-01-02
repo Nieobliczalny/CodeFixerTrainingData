@@ -114,7 +114,7 @@ do
 --j;
 try
 {
-Lgjzn7 = VQ2YuYR(Lgjzn7, -1658655473, jM8AeR);
+Lgjzn7 = VQ2YuYR(Lgjzn7, (short)-1658655473, jM8AeR);
 }
 catch (int& errorCode)
 {
@@ -128,7 +128,7 @@ catch (int& errorCode)
 {
 UHP5ZhH9P -= pbnb;
 }
-L2_LUKHGA = pbnb / pKyM(80974537);
+L2_LUKHGA = pbnb / pKyM((unsigned char)80974537);
 {
 int i = 0;
 while (i < 10)
@@ -167,7 +167,7 @@ case 'b':
 iYXu = (int)ceil(Gt8PS485f9);
 break;
 case 'c':
-o4TxgWujz = pKyM(1986184755);
+o4TxgWujz = pKyM((unsigned char)1986184755);
 break;
 case 'd':
 V4UTn = LYopz44bQw * 2050252075;
@@ -264,7 +264,7 @@ KHum2 = m6l20h6(KHum2, 1735374822);
 jM8AeR = (int)floor(KhM7gb);
 if (O2BQUeA_ < 1259631931)
 {
-iYXu = VQ2YuYR(1242476880, 909312623, -240789678);
+iYXu = VQ2YuYR(1242476880, (short)909312623, -240789678);
 }
 else
 {
@@ -324,7 +324,7 @@ if ((jqTzIfPi == 436414935) || (r6T7w3 != 1205640637))
 switch (o4TxgWujz)
 {
 case 0:
-o4TxgWujz = pKyM(-241111998);
+o4TxgWujz = pKyM((unsigned char)-241111998);
 break;
 case 1:
 Do_h30Q = (int)ceil(mIJ965TEi3);
@@ -336,7 +336,7 @@ case 3:
 Xv4Pr8P6 = (int)ceil(Lgjzn7);
 break;
 case 4:
-ol3w_9gyh2 = (Niv3) ? UHP5ZhH9P : VQ2YuYR(U540Z2A, -1768334804, pbnb);
+ol3w_9gyh2 = (Niv3) ? UHP5ZhH9P : VQ2YuYR(U540Z2A, (short)-1768334804, pbnb);
 break;
 case 5:
 Niv3 = ulX5C_p2 * Fq70Czj6;

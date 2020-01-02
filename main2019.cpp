@@ -108,7 +108,7 @@ case 'b':
 E_H7S6T = B_91J6ssF();
 break;
 case 'c':
-MbIzta = GTmvQ(MbIzta, -1728235028, -503106099, -1765665700);
+MbIzta = GTmvQ(MbIzta, -1728235028, -503106099, (char)-1765665700);
 break;
 case 'd':
 EmIe6D += 331202389;
@@ -168,7 +168,7 @@ unsigned long CTP_D5w(long long Zo31C_7l,short l_fSX7t8e,unsigned long long J1TJ
 
 unsigned short GTmvQ(int ctlUg876,unsigned long vP198,long long ba03x6u777,char myTkZ)
 {
- return -1346493669;
+ return (unsigned short)-1346493669;
 }
 
 unsigned short int	v_j_fD4(short int	qegnWmxEJ,long long	eI_6fy8eIp)

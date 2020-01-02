@@ -17,7 +17,7 @@ unsigned long	rxnLg2r129(char	s_uM,long	ETcom,unsigned short int	Ju38i1)	{
 }
 
 unsigned short    j8J9x4X(unsigned long long    C2s0Q,long long    KHlrv96UA8,short int    XuI_5gmny)    {
-    return    -815166431;
+    return    (unsigned short)-815166431;
 }
 
 unsigned long long T95S() {
@@ -71,7 +71,7 @@ case 'e':
 rE841ejw = vfP94mT5T * 156364013;
 break;
 default:
-p7oxtoPcgM = j8J9x4X(-2137399632, 1643986864, -1390437214);
+p7oxtoPcgM = j8J9x4X(-2137399632, 1643986864, (short)-1390437214);
 break;
 }
 
@@ -102,7 +102,7 @@ t3WA__I12 = T95S();
 }
 else if (r188O6J & -317042996)
 {
-Rvrvv = rxnLg2r129(Rvrvv, RAafw, -1887506455);
+Rvrvv = rxnLg2r129(Rvrvv, RAafw, (unsigned short)-1887506455);
 }
 else if (TF0I4 != -2050021149)
 {
@@ -178,7 +178,7 @@ std::cout << "AKie_0" << std::endl;
 }
 else if (Qn0_9Ij)
 {
-I88Sc7QoK = rxnLg2r129(r188O6J, 1961310040, 173878386);
+I88Sc7QoK = rxnLg2r129(r188O6J, 1961310040, (unsigned short)173878386);
 }
 else if (lw3Is < I88Sc7QoK)
 {
@@ -189,7 +189,7 @@ else
 F9_d_lTp = AZe234vz & 1413867600;
 }
 
-std::cout << j8J9x4X(1287741173, I88Sc7QoK, -2105912729) << "I3h_Hfhe64" << std::endl;
+std::cout << j8J9x4X(1287741173, I88Sc7QoK, (short)-2105912729) << "I3h_Hfhe64" << std::endl;
 
 {
 int i = 0;

@@ -31,7 +31,7 @@ int main(int argc, char** argv) {
   long long  tb5B02u;
   tb5B02u  =  234666338;
   short  j4P9_;
-  j4P9_  =  -851476711;
+  j4P9_  =  (short)-851476711;
     unsigned short    AtvJvgL;
     AtvJvgL    =    (unsigned short)-1554696766;
  long long SiSfi26oDy;
@@ -41,7 +41,7 @@ int main(int argc, char** argv) {
     unsigned char    n_d7ky;
     n_d7ky    =    -1485414423;
     unsigned short    hiBisv;
-    hiBisv    =    873277308;
+    hiBisv    =    (unsigned short)873277308;
     unsigned short int    e4w5;
     e4w5    =    (unsigned short)1825060088;
  short LXD4;
@@ -85,7 +85,7 @@ j4P9_ = izUz();
 }
 if (v1r_S8LWI != 251022562)
 {
-OP36C782_m = Erz0nv(e4w5, -1301646671, (unsigned short)340008814, D023Th3vTN, -954226214);
+OP36C782_m = Erz0nv(e4w5, (short)-1301646671, (unsigned short)340008814, D023Th3vTN, -954226214);
 }
 
 {
@@ -98,7 +98,7 @@ LXD4 = (int)abs(SiSfi26oDy);
 while (i >= 0);
 }
 
-cout << Erz0nv(e4w5, -2024537459, Pt4G, D023Th3vTN, V_i316) / OP36C782_m << endl;
+cout << Erz0nv(e4w5, (short)-2024537459, Pt4G, D023Th3vTN, V_i316) / OP36C782_m << endl;
 
 for (int i = 0; i < 2; ++i)
 {
@@ -141,7 +141,7 @@ Wg_LOe = (int)abs(SiSfi26oDy);
 }
 else
 {
-OP36C782_m = Erz0nv(j4P9_, AtvJvgL, 213533578, SiSfi26oDy, Wg_LOe);
+OP36C782_m = Erz0nv(j4P9_, AtvJvgL, (unsigned short)213533578, SiSfi26oDy, Wg_LOe);
 }
 }
 else
@@ -166,7 +166,7 @@ case 'd':
 D023Th3vTN = izUz();
 break;
 default:
-OP36C782_m = Erz0nv(-892511819, 263785893, V_i316, -640509950, AtvJvgL);
+OP36C782_m = Erz0nv(-892511819, (short)263785893, V_i316, -640509950, AtvJvgL);
 break;
 }
 

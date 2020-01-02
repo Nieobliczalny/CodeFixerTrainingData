@@ -15,7 +15,7 @@ unsigned short int	ffSPy7i(long long	WSi3HiAV,unsigned short int	P1w45k42g,unsig
 
 unsigned char    f8I9(unsigned int    kwkgX3,long long    r77sobG79)
 {
-    return    1281320350;
+    return    (unsigned char)1281320350;
 }
 
 short kVE169_N(unsigned long q294urwm87)
@@ -29,7 +29,7 @@ int    R_hg4zi3(long long    S0qq2YJ,short int    iQvBWE,unsigned long    Yealat
 }
 
 char	ZkA2da58(unsigned short int	pLva33a8)	{
-	return	-848481747;
+	return	(char)-848481747;
 }
 
 int main()
@@ -39,7 +39,7 @@ int main()
  unsigned short int txrQ6_;
  txrQ6_ = 261859558;
 	unsigned short int	x7Pnd;
-	x7Pnd	=	-889540217;
+	x7Pnd	=	(unsigned short)-889540217;
 	unsigned short	VBlPVB;
 	VBlPVB	=	448670339;
  unsigned char wA81FaSNt;
@@ -49,7 +49,7 @@ int main()
 	unsigned long	RfjgdNF;
 	RfjgdNF	=	0;
     short    Rlcs_;
-    Rlcs_    =    363814679;
+    Rlcs_    =    (short)363814679;
   short int  Ik_zy8P;
   Ik_zy8P  =  (short)-322129946;
   unsigned char  ue0EPlqoR;
@@ -59,7 +59,7 @@ int main()
 	short int	Wmh9D39330;
 	Wmh9D39330	=	242021392;
  unsigned short Pt_t56_Ib;
- Pt_t56_Ib = -1884312565;
+ Pt_t56_Ib = (unsigned short)-1884312565;
   long double  gBv_57r60E;
   gBv_57r60E  =  -441693590;
 	short int	AhXFS;
@@ -75,7 +75,7 @@ int main()
 	char	TS_AG_4Q69;
 	TS_AG_4Q69	=	0;
   char  KD07;
-  KD07  =  1153487386;
+  KD07  =  (char)1153487386;
 
 for (int i = 10; i >= 0; --i)
 {
@@ -111,7 +111,7 @@ while (j < 5);
 }
 if (TS_AG_4Q69 != -1712692574)
 {
-std::cout << R_hg4zi3(-109360275, 301998421, Pt_t56_Ib, wA81FaSNt) << RfjgdNF << std::endl;
+std::cout << R_hg4zi3(-109360275, (short)301998421, Pt_t56_Ib, wA81FaSNt) << RfjgdNF << std::endl;
 }
 else if ((RfjgdNF == 40610773) || (TS_AG_4Q69 <= H5FA83J1))
 {
@@ -157,7 +157,7 @@ catch (int& errorCode)
 Ik_zy8P--;
 }
 }
-std::cout << Ina3j3969J << "Z7Uo" << KLS7Q << "NtEVZQzt" << ffSPy7i(785332984, 182239382, Ik_zy8P) << std::endl;
+std::cout << Ina3j3969J << "Z7Uo" << KLS7Q << "NtEVZQzt" << ffSPy7i(785332984, (unsigned short)182239382, Ik_zy8P) << std::endl;
 
 for (int i = 7; i >= 0; i--)
 {
@@ -170,7 +170,7 @@ j--;
 int k = 0;
 do
 {
-VBlPVB = R_hg4zi3(204364637, -1151366000, Ina3j3969J, -222837547);
+VBlPVB = R_hg4zi3(204364637, (short)-1151366000, Ina3j3969J, -222837547);
 ++k;
 }
 while (k < 1);
@@ -206,7 +206,7 @@ Pzru3L7c = f8I9(-11972366, 775297904);
 }
 else if (Wmh9D39330 & 1771383133)
 {
-x7Pnd = ZkA2da58(-1493985144);
+x7Pnd = ZkA2da58((unsigned short)-1493985144);
 }
 else if (AhXFS > KD07)
 {
@@ -218,7 +218,7 @@ qmgpT = (int)ceil(gBv_57r60E);
 }
 else if (wA81FaSNt)
 {
-RfjgdNF = ffSPy7i(181117100, -1895803052, KLS7Q);
+RfjgdNF = ffSPy7i(181117100, (unsigned short)-1895803052, KLS7Q);
 }
 else if (ue0EPlqoR)
 {
@@ -372,7 +372,7 @@ AhXFS = (int)abs(qmgpT);
 }
 else if ((Ik_zy8P == -576683473) || ((KLS7Q == 1865095930) && (H5FA83J1 > 602358329)))
 {
-wA81FaSNt = ZkA2da58(1770004457);
+wA81FaSNt = ZkA2da58((unsigned short)1770004457);
 }
 else
 {
@@ -395,7 +395,7 @@ ue0EPlqoR = f8I9(ue0EPlqoR, 88099418);
 }
 else if (ue0EPlqoR != -1880871431)
 {
-RfjgdNF = ffSPy7i(-1322595375, -716820216, VBlPVB);
+RfjgdNF = ffSPy7i(-1322595375, (unsigned short)-716820216, VBlPVB);
 }
 else if (VBlPVB <= KD07)
 {
@@ -453,7 +453,7 @@ break;
 --i;
 }
 }
-std::cout << ZkA2da58(-585897159) << wA81FaSNt << ZkA2da58(Ik_zy8P) << "hfa6Le7I_7" << std::endl;
+std::cout << ZkA2da58((unsigned short)-585897159) << wA81FaSNt << ZkA2da58(Ik_zy8P) << "hfa6Le7I_7" << std::endl;
 
 if (((Ik_zy8P == N6b55) || (RfjgdNF != -132478747)) || (P31qMo9L != VBlPVB))
 {
@@ -465,7 +465,7 @@ case 0:
 KLS7Q = kVE169_N(-73192725);
 break;
 case 1:
-TS_AG_4Q69 = ffSPy7i(-69766543, -860048263, 795765075);
+TS_AG_4Q69 = ffSPy7i(-69766543, (unsigned short)-860048263, 795765075);
 break;
 case 2:
 ue0EPlqoR = f8I9(ue0EPlqoR, TS_AG_4Q69);
@@ -496,7 +496,7 @@ Pt_t56_Ib = (H5FA83J1) ? x7Pnd : ue0EPlqoR;
 
 try
 {
-std::cout << P31qMo9L << R_hg4zi3(-926085108, 1657493459, N6b55, Wmh9D39330) << Wmh9D39330 << std::endl;
+std::cout << P31qMo9L << R_hg4zi3(-926085108, (short)1657493459, N6b55, Wmh9D39330) << Wmh9D39330 << std::endl;
 }
 catch (int& errorCode)
 {

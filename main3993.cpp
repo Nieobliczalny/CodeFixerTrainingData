@@ -18,7 +18,7 @@ int main(void) {
   long long  o36W6;
   o36W6  =  -918434428;
  char C4_9f_n826;
- C4_9f_n826 = 1349606811;
+ C4_9f_n826 = (char)1349606811;
     unsigned short    ug3vtb;
     ug3vtb    =    (unsigned short)1592850241;
  unsigned int aRkxt;
@@ -30,7 +30,7 @@ int main(void) {
   char  Yi1wMh;
   Yi1wMh  =  0;
 	unsigned short	rqWG;
-	rqWG	=	-1137156879;
+	rqWG	=	(unsigned short)-1137156879;
 	long	ubKA8g;
 	ubKA8g	=	-1986564426;
     long    m1uH_9F;
@@ -40,7 +40,7 @@ int main(void) {
     unsigned short    cSKBFoRb;
     cSKBFoRb    =    (unsigned short)1907099790;
   unsigned char  ObO5n9;
-  ObO5n9  =  -322208627;
+  ObO5n9  =  (unsigned char)-322208627;
  unsigned long long ETmn1033;
  ETmn1033 = 61568722;
 	unsigned int	Z0BULFq;
@@ -52,7 +52,7 @@ int main(void) {
 	float	Qs_Z2_K;
 	Qs_Z2_K	=	-1379651333;
  unsigned char i9HUZIQ7v4;
- i9HUZIQ7v4 = 880913277;
+ i9HUZIQ7v4 = (unsigned char)880913277;
     unsigned short    rR8c;
     rR8c    =    -1929544897;
   unsigned char  P3UyZ581;
@@ -62,7 +62,7 @@ int main(void) {
 	float	L0oReuWFg;
 	L0oReuWFg	=	-908509036;
   unsigned short int  ZC83865m;
-  ZC83865m  =  -1418139691;
+  ZC83865m  =  (unsigned short)-1418139691;
   short int  N5YlKK2H7P;
   N5YlKK2H7P  =  (short)1106006245;
 	short	cd81dC;
@@ -72,7 +72,7 @@ int main(void) {
   long double  yE4UCc6Te;
   yE4UCc6Te  =  1984761334;
 	unsigned short	Lnw1;
-	Lnw1	=	-249794071;
+	Lnw1	=	(unsigned short)-249794071;
  long double jT_8A6j8;
  jT_8A6j8 = 1607101011;
     unsigned int    Me5W_;
@@ -82,7 +82,7 @@ int main(void) {
     unsigned int    HviZ;
     HviZ    =    -363412682;
     unsigned short    xDf7kT;
-    xDf7kT    =    1528010669;
+    xDf7kT    =    (unsigned short)1528010669;
 	unsigned int	rfOhX4;
 	rfOhX4	=	870325456;
 	float	GlcI7;
@@ -96,7 +96,7 @@ int main(void) {
  float as7_C;
  as7_C = 1882600056;
  short Gc2B_9qEH;
- Gc2B_9qEH = 944412664;
+ Gc2B_9qEH = (short)944412664;
     unsigned long    Ep3_B7;
     Ep3_B7    =    -1279705351;
 	unsigned long	Hl0XX35tB;
@@ -108,7 +108,7 @@ int main(void) {
   unsigned long  D8n9;
   D8n9  =  0;
  unsigned char Xw0zj8Z;
- Xw0zj8Z = 765227932;
+ Xw0zj8Z = (unsigned char)765227932;
   long long  UHeAKb;
   UHeAKb  =  1579424724;
   short  ib_CZ;
@@ -120,7 +120,7 @@ int main(void) {
  double T080m;
  T080m = -1013422714;
   short int  L4U2;
-  L4U2  =  -1851567208;
+  L4U2  =  (short)-1851567208;
 
 if (rfOhX4 >= i9HUZIQ7v4)
 {

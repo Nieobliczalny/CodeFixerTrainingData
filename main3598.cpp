@@ -21,7 +21,7 @@ unsigned int  e_5JIT3(unsigned short int  Ge67lo3Du)
 
 unsigned char	r3MMYAdFkq()
 {
-	return	542218907;
+	return	(unsigned char)542218907;
 }
 
 unsigned long long	z0781C25T1(long	Ph2kt)	{
@@ -380,7 +380,7 @@ else
 {
 if (((bD03V83_2Y > LLTl50qBe) || (O7TW <= LLTl50qBe)) && (mVj_708H))
 {
-WqRAdNh9Gn = e_5JIT3(247963982);
+WqRAdNh9Gn = e_5JIT3((unsigned short)247963982);
 }
 }
 }
@@ -450,7 +450,7 @@ p6mkgXo6 = e_5JIT3(p6mkgXo6);
 break;
 case 'f':
 case 'F':
-l4K0U = e_5JIT3(-996745131);
+l4K0U = e_5JIT3((unsigned short)-996745131);
 break;
 case 'g':
 case 'G':

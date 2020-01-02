@@ -16,7 +16,7 @@ using namespace std;
 int main()
 {
     char    gDIW5ibz,    l2W6ZJ,    H4e_0oG8,    XYizuYk,    h992,    FAF83W,    KacV,    kjnxUhx,    FnB3QkGQ7,    w_Xd64LPnW,    Rqtw5,    exBgVz8o_,    bJP8__,    fh93yXL,    hheud1xkwd,    YM0tpDAFa,    nq4f7T2N9A,    U216w5XI8,    aSqwhG,    HdF9853M,    pOu0AMfk3,    i5_044X,    OU0CdAQ,    KE6Lp,    MYygzECp,    X46rPi93k2,    W__cCHb749,    uUE30whh,    o1F_V,    L7Ggq86Go,    SfVc_p0iV9,    azZp075f,    n3gpqrO3x3,    mNIqD,    OE4u8,    d9_FvPg2b,    OM1_8s_;
-    gDIW5ibz    =    2078363047;
+    gDIW5ibz    =    (char)2078363047;
     l2W6ZJ    =    (char)2016260656;
     H4e_0oG8    =    -1453208443;
     XYizuYk    =    -1775229455;
@@ -26,7 +26,7 @@ int main()
     kjnxUhx    =    1434400924;
     FnB3QkGQ7    =    720558879;
     w_Xd64LPnW    =    269784385;
-    Rqtw5    =    934789496;
+    Rqtw5    =    (char)934789496;
     exBgVz8o_    =    (char)372833473;
     bJP8__    =    -2145540137;
     fh93yXL    =    -759801351;
@@ -36,7 +36,7 @@ int main()
     U216w5XI8    =    1483189917;
     aSqwhG    =    1364075179;
     HdF9853M    =    1719937642;
-    pOu0AMfk3    =    2087212729;
+    pOu0AMfk3    =    (char)2087212729;
     i5_044X    =    (char)-401560755;
     OU0CdAQ    =    -104650912;
     KE6Lp    =    1729889367;
@@ -46,7 +46,7 @@ int main()
     uUE30whh    =    1496859837;
     o1F_V    =    693774780;
     L7Ggq86Go    =    1914392931;
-    SfVc_p0iV9    =    -1653919431;
+    SfVc_p0iV9    =    (char)-1653919431;
     azZp075f    =    (char)915471152;
     n3gpqrO3x3    =    -381607358;
     mNIqD    =    1034448228;
@@ -327,7 +327,7 @@ H4e_0oG8 <<= 1957185900;
 }
 else if (n3gpqrO3x3 == XYizuYk)
 {
-H4e_0oG8 = (W__cCHb749 == cOF79Kr) ? U216w5XI8 : -1102493654;
+H4e_0oG8 = (W__cCHb749 == cOF79Kr) ? U216w5XI8 : (char)-1102493654;
 }
 else if (H4e_0oG8 < OU0CdAQ)
 {
@@ -522,7 +522,7 @@ MYygzECp = (int)abs(azZp075f);
 }
 else
 {
-XYizuYk = (exBgVz8o_ > EKe3A6J) ? 362176998 : (char)-934197086;
+XYizuYk = (exBgVz8o_ > EKe3A6J) ? (char)362176998 : (char)-934197086;
 }
 }
 else

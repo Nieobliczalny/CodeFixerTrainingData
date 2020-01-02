@@ -13,7 +13,7 @@ using std::ceil;
 using std::floor;
 
 unsigned short int    MEpa4()    {
-    return    647002997;
+    return    (unsigned short)647002997;
 }
 
 long long	RxG1(int	v4WoP_7l,long	k1Hv0t9fW)	{
@@ -222,7 +222,7 @@ RxLgQCa = uGz7k(1007229862, E3g3);
 }
 else
 {
-ae5FT = N7E2vR(ae5FT, Jec9Szg, -1719711336);
+ae5FT = N7E2vR(ae5FT, Jec9Szg, (short)-1719711336);
 }
 }
 }

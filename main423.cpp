@@ -19,7 +19,7 @@ unsigned short	F778ntT(unsigned long	SXD5,char	Ec_eUSB);
 int main()
 {
     long double    PO07R    =    649648098;
-	unsigned short int	rmTY7o	=	-79759274;
+	unsigned short int	rmTY7o	=	(unsigned short)-79759274;
   unsigned short int  zm0MLNin  =  0;
   unsigned long long  efGm73VwB  =  0;
   int  O2_Rb  =  0;
@@ -91,7 +91,7 @@ int k = 0;
 do
 {
 k++;
-rmTY7o = F778ntT(rmTY7o, -37579841);
+rmTY7o = F778ntT(rmTY7o, (char)-37579841);
 }
 while (k < 9);
 }
@@ -181,7 +181,7 @@ PO07R = O2_Rb - zm0MLNin;
 int i = 0;
 while (i < 2)
 {
-rmTY7o = y3P_jIb3FU(1350378414);
+rmTY7o = y3P_jIb3FU((unsigned short)1350378414);
 ++i;
 }
 }
@@ -225,7 +225,7 @@ else if (PO07R != zm0MLNin)
 {
 try
 {
-PO07R = WBP6A73_5k(361995830);
+PO07R = WBP6A73_5k((char)361995830);
 }
 catch (int& errorCode)
 {
@@ -297,7 +297,7 @@ case 6:
 O2_Rb = (int)abs(PO07R) * 0;
 break;
 case 7:
-PO07R = WBP6A73_5k(408961691);
+PO07R = WBP6A73_5k((char)408961691);
 break;
 }
 }
@@ -310,7 +310,7 @@ while (j >= 0)
 j--;
 for (int k = 0; k < 9; ++k)
 {
-PO07R = WBP6A73_5k(831485167);
+PO07R = WBP6A73_5k((char)831485167);
 }
 }
 }
@@ -349,6 +349,6 @@ long long y3P_jIb3FU(unsigned short kw1ZO7RstR)
 
 unsigned short	F778ntT(unsigned long	SXD5,char	Ec_eUSB)
 {
-	return	-2092657919;
+	return	(unsigned short)-2092657919;
 }
 

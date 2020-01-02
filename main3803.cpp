@@ -10,7 +10,7 @@ using namespace std;
 
 int main(int argc, char** argv)
 {
-	char	S9v78378Xh	=	1189838943;
+	char	S9v78378Xh	=	(char)1189838943;
   unsigned long long  YSplw41  =  259324988;
   unsigned short  yyG6  =  (unsigned short)799705900;
   float  HWYS_6N  =  384216438;

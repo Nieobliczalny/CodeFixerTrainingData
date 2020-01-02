@@ -13,7 +13,7 @@ long	RTzYD(int	MWG3,unsigned char	JDAk_ZS0O)	{
 
 unsigned short TExHD2q(unsigned short int OI3ejd_4p,unsigned long long cVoPs,long long EJ49)
 {
- return -607950720;
+ return (unsigned short)-607950720;
 }
 
 int main(void)
@@ -23,7 +23,7 @@ int main(void)
 	long long	p35C_3R2R;
 	p35C_3R2R	=	1249230075;
     unsigned char    Q9HlanYJb_;
-    Q9HlanYJb_    =    2019277280;
+    Q9HlanYJb_    =    (unsigned char)2019277280;
  long long T696M;
  T696M = 45975845;
   short int  TCK498117;
@@ -35,7 +35,7 @@ int main(void)
 	unsigned long long	gVtB;
 	gVtB	=	386448605;
     unsigned short    Cunys4C;
-    Cunys4C    =    1106957629;
+    Cunys4C    =    (unsigned short)1106957629;
     unsigned short int    qCKO0L_h;
     qCKO0L_h    =    0;
 	unsigned long	fXDb;
@@ -55,7 +55,7 @@ switch (qCKO0L_h)
 {
 case 'a':
 case 'A':
-Cunys4C = TExHD2q(157603658, fXDb, gVtB);
+Cunys4C = TExHD2q((unsigned short)157603658, fXDb, gVtB);
 break;
 case 'b':
 case 'B':
@@ -100,7 +100,7 @@ ln73R = r4i6flarw + sV_7;
 
 std::cout << W7Fk8Rb << std::endl;
 
-std::cout << TExHD2q(1636747976, r4i6flarw, aAc0) << RTzYD(740586509, r4i6flarw) << p35C_3R2R << "E84b9" << std::endl;
+std::cout << TExHD2q((unsigned short)1636747976, r4i6flarw, aAc0) << RTzYD(740586509, r4i6flarw) << p35C_3R2R << "E84b9" << std::endl;
 
 switch (p35C_3R2R)
 {
@@ -166,7 +166,7 @@ case 3:
 qCKO0L_h = RTzYD(2114367994, sV_7);
 break;
 case 4:
-sV_7 = TExHD2q(2117084468, 1944419371, -1050084001);
+sV_7 = TExHD2q((unsigned short)2117084468, 1944419371, -1050084001);
 break;
 case 5:
 gVtB = TExHD2q(gVtB, 713419271, T696M);
@@ -178,7 +178,7 @@ case 7:
 T696M = (int)abs(TCK498117);
 break;
 default:
-p35C_3R2R = TExHD2q(1789883614, sV_7, T696M);
+p35C_3R2R = TExHD2q((unsigned short)1789883614, sV_7, T696M);
 break;
 }
 --j;
@@ -253,7 +253,7 @@ for (int j = 10; j >= 0; j--)
 int k = 0;
 while (k < 2)
 {
-aAc0 = TExHD2q(1997946377, -59463262, -1099140984);
+aAc0 = TExHD2q((unsigned short)1997946377, -59463262, -1099140984);
 ++k;
 }
 }
@@ -290,7 +290,7 @@ int i = 5;
 while (i >= 0)
 {
 i--;
-Q9HlanYJb_ = TExHD2q(466722343, 1598924661, -1317526065);
+Q9HlanYJb_ = TExHD2q((unsigned short)466722343, 1598924661, -1317526065);
 }
 }
 

@@ -143,7 +143,7 @@ do
 ++i;
 if (EnAy1Vd != 1313156610)
 {
-std::cout << Yy8XYSD_6(W5Bg28, 242348080, Y2umNi4e) << std::endl;
+std::cout << Yy8XYSD_6(W5Bg28, (unsigned char)242348080, Y2umNi4e) << std::endl;
 }
 else if (((JhD29k86L7 == -2013499214) && (Ysok1)) && ((PZ_M91_ <= -365342769) || (JhD29k86L7 <= J96a9kjE)))
 {
@@ -165,7 +165,7 @@ case 4:
 vvF4 = (int)abs(Maew4Fn21);
 break;
 case 5:
-J2o0NFTu = Yy8XYSD_6(450169778, BA2V5kpV, (short)-770191267);
+J2o0NFTu = Yy8XYSD_6((short)450169778, BA2V5kpV, (short)-770191267);
 break;
 default:
 H5LaU0V_1z += YGZLi4G;
@@ -180,7 +180,7 @@ else
 {
 try
 {
-J2o0NFTu = Yy8XYSD_6(-1839596673, (unsigned char)444739438, HBSg);
+J2o0NFTu = Yy8XYSD_6((short)-1839596673, (unsigned char)444739438, HBSg);
 }
 catch (int& errorCode)
 {
@@ -205,7 +205,7 @@ if (bbPX891KU & krek6IX)
 {
 try
 {
-wYVwu_ = Yy8XYSD_6(ELAikX, BHa5aigdU, 1305304245) & 2113110555;
+wYVwu_ = Yy8XYSD_6(ELAikX, BHa5aigdU, (short)1305304245) & 2113110555;
 }
 catch (int& errorCode)
 {
@@ -217,7 +217,7 @@ catch (int& errorCode)
 {
 J2o0NFTu = Yy8XYSD_6(-1725953755, 366161951, PyMj1D);
 }
-std::cout << Yy8XYSD_6(XSS_d, 76403883, PyMj1D) << f5qB22Zze << std::endl;
+std::cout << Yy8XYSD_6(XSS_d, (unsigned char)76403883, PyMj1D) << f5qB22Zze << std::endl;
 
 switch (Y2umNi4e)
 {
@@ -231,7 +231,7 @@ dv_vFpxfqj = b4Qq7E_8h << 1713104161;
 break;
 case 'c':
 case 'C':
-J2o0NFTu = Yy8XYSD_6(-1329518501, u401_, w2Z7mQfNwy);
+J2o0NFTu = Yy8XYSD_6((short)-1329518501, u401_, w2Z7mQfNwy);
 break;
 case 'd':
 case 'D':
@@ -268,7 +268,7 @@ if (rU56EaZC7 != KX7cbI86q)
 {
 if (BHa5aigdU <= HBSg)
 {
-J2o0NFTu = Yy8XYSD_6(iMZ5, -1046237997, E_Siup_tz);
+J2o0NFTu = Yy8XYSD_6(iMZ5, (unsigned char)-1046237997, E_Siup_tz);
 }
 }
 else
@@ -300,7 +300,7 @@ do
 int j = 8;
 while (j >= 0)
 {
-std::cout << W5Bg28 << "N35U" << BA2V5kpV << Yy8XYSD_6(-1347596926, (unsigned char)-959847417, Q4S0E) << Yy8XYSD_6(uQNo, 1396747709, Q4S0E) << std::endl;
+std::cout << W5Bg28 << "N35U" << BA2V5kpV << Yy8XYSD_6((short)-1347596926, (unsigned char)-959847417, Q4S0E) << Yy8XYSD_6(uQNo, 1396747709, Q4S0E) << std::endl;
 j--;
 }
 }
@@ -325,7 +325,7 @@ case 4:
 T_b0aF = (int)abs(jkaoYGnh);
 break;
 case 5:
-J2o0NFTu = Yy8XYSD_6(NTjbWO_wIC, -641152934, Y2umNi4e);
+J2o0NFTu = Yy8XYSD_6(NTjbWO_wIC, (unsigned char)-641152934, Y2umNi4e);
 break;
 case 6:
 JG7Xq0d7_ %= vvF4;
@@ -340,7 +340,7 @@ case 9:
 L2GNVp_W++;
 break;
 default:
-JhD29k86L7 = Yy8XYSD_6(-1076455508, MdEeI3sP6, 1911605987) & T_b0aF;
+JhD29k86L7 = Yy8XYSD_6((short)-1076455508, MdEeI3sP6, 1911605987) & T_b0aF;
 break;
 }
 
@@ -354,7 +354,7 @@ JG7Xq0d7_ = ML18A * W2EIn;
 }
 else if ((ML18A >= fB49iq) || ((J3VUg45Ts) && (Hl0b > -622924977)))
 {
-J2o0NFTu = Yy8XYSD_6(bbPX891KU, -1636294855, rU56EaZC7);
+J2o0NFTu = Yy8XYSD_6(bbPX891KU, (unsigned char)-1636294855, rU56EaZC7);
 }
 else if (krek6IX >= -1649515335)
 {
@@ -366,7 +366,7 @@ b32DUlLAz = (long)(L2GNVp_W);
 }
 else
 {
-std::cout << "N08k3r" << Yy8XYSD_6(-972967346, RfNS8a38p_, rU56EaZC7) << std::endl;
+std::cout << "N08k3r" << Yy8XYSD_6((short)-972967346, RfNS8a38p_, rU56EaZC7) << std::endl;
 }
 std::cout << "XY75j1OS" << PyMj1D << "yiCO1FEs" << "D_K066vZ9" << std::endl;
 J2o0NFTu = Yy8XYSD_6(ELAikX, gC3q, (short)-1559920009);

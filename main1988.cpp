@@ -15,7 +15,7 @@ short int	y3YJ(char	APSE890_8l)	{
 int main()
 {
   int  VrtnOcLDc6  =  577683844;
-    unsigned char    iZVVst    =    1859614309;
+    unsigned char    iZVVst    =    (unsigned char)1859614309;
   int  H0upm2  =  652540081;
   unsigned long long  lR0EhZ8  =  1689618422;
   int  VVh_04t0X  =  2049671971;
@@ -30,7 +30,7 @@ int main()
 	unsigned long	A8CocZ	=	917652609;
   long long  Wcwg31  =  1010074728;
 	float	Gwh7xqy5D	=	-1082535925;
-    unsigned short    L88_w4    =    -2028291966;
+    unsigned short    L88_w4    =    (unsigned short)-2028291966;
   int  mgN_eBj  =  1076617435;
 	long long	Ud_6_y_	=	1942682377;
     unsigned short    Zo7y7_a7g9    =    (unsigned short)1862504003;
@@ -44,7 +44,7 @@ int main()
 	long double	t3Q3DH	=	1188881946;
     long    n1ND    =    -1840624023;
     int    u2VkbITVC    =    1441658719;
-  short  he4V5Bi3Z  =  1050311030;
+  short  he4V5Bi3Z  =  (short)1050311030;
 	unsigned char	CLtL	=	(unsigned char)-1021552317;
 	unsigned long long	u_ywa5meO	=	-426977584;
     long long    RNoR0_jr    =    -222066803;
@@ -56,7 +56,7 @@ int main()
     long double    QD4O4Pv5_    =    1107048532;
 	unsigned long	Q9vJxj9	=	1052921340;
   int  qkh0  =  -1731780506;
-  unsigned char  K2DRba5N3C  =  1461621355;
+  unsigned char  K2DRba5N3C  =  (unsigned char)1461621355;
   float  Sr6f  =  -423856755;
   short int  G8ATq4Q  =  (short)-216717985;
 	short int	h82HQf_D3x	=	1379610073;
@@ -72,7 +72,7 @@ for (int i = 2; i >= 0; i--)
 {
 Sr6f = (int)floor(Ka83);
 }
-cout << "V6zPK7R" << y3YJ(-2028184872) << endl;
+cout << "V6zPK7R" << y3YJ((char)-2028184872) << endl;
 
 cout << y3YJ(Sr6f) << endl;
 
@@ -128,7 +128,7 @@ case 3:
 H0upm2 ^= 1132456756;
 break;
 case 4:
-q6Rlu49D = y3YJ(1410796974);
+q6Rlu49D = y3YJ((char)1410796974);
 break;
 case 5:
 q6Rlu49D = y3YJ((char)-340911070);

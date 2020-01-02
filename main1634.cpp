@@ -134,7 +134,7 @@ z2_sHBXgn = (int)abs(Egwc);
 }
 else
 {
-std::cout << ExIqfSmzrG() << "Yz_u7" << UM67Aap(a9E4QB94U, 1393718053, -1590874507, mc2M7_ntq1) << "Vs63u9" << ExIqfSmzrG() << std::endl;
+std::cout << ExIqfSmzrG() << "Yz_u7" << UM67Aap(a9E4QB94U, 1393718053, (char)-1590874507, mc2M7_ntq1) << "Vs63u9" << ExIqfSmzrG() << std::endl;
 }
 S8upUeGnt = AjSuUo();
 
@@ -145,7 +145,7 @@ W07Xe4E4 = AjSuUo();
 
 z2_sHBXgn |= 1417052702;
 
-mc2M7_ntq1 = UM67Aap(mc2M7_ntq1, -353367228, 29003925, -229075578);
+mc2M7_ntq1 = UM67Aap(mc2M7_ntq1, -353367228, (char)29003925, -229075578);
 {
 int i = 0;
 do
@@ -156,7 +156,7 @@ hw_CO = (long)(a9nx7Y27DL);
 }
 else if (Bw_x__2xu6 > Xp4c3mV3Sb)
 {
-O_8Y1 = UM67Aap(1763305255, -2088663576, GpmP3g, -1065349930);
+O_8Y1 = UM67Aap((char)1763305255, -2088663576, GpmP3g, -1065349930);
 }
 else if (a9nx7Y27DL == mc2M7_ntq1)
 {
@@ -166,7 +166,7 @@ case 0:
 A03x_K2K5 = ExIqfSmzrG();
 break;
 case 1:
-Egwc = UM67Aap(Egwc, -511494932, 1350783228, -1405381710);
+Egwc = UM67Aap(Egwc, -511494932, (char)1350783228, -1405381710);
 break;
 case 2:
 iXS_L7 = (int)abs(HAqR);
@@ -220,7 +220,7 @@ return 0;
 }
 
 short int UM67Aap(char fy3vj,long long d42ke7V,char b1y3g2,unsigned int BRJ94) {
- return -359653963;
+ return (short)-359653963;
 }
 
 unsigned int AjSuUo()

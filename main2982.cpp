@@ -27,7 +27,7 @@ UO77Op = (int)(EZlJe_9);
 switch (fe2ygW)
 {
 case 0:
-bmcU3Z53R_ = a179A_5_5(-999269564);
+bmcU3Z53R_ = a179A_5_5((unsigned short)-999269564);
 break;
 case 1:
 sZIV = (int)abs(R_CXXSNi);
@@ -51,7 +51,7 @@ case 7:
 UO77Op = (int)abs(ps620);
 break;
 default:
-fe2ygW = a179A_5_5(2092809734);
+fe2ygW = a179A_5_5((unsigned short)2092809734);
 break;
 }
 
@@ -107,7 +107,7 @@ for (int i = 0; i < 5; ++i)
 zrl9f64b2_ = (int)abs(DJ3N);
 }
 R_CXXSNi = (int)abs(DJ3N);
-if (k3O1yD6L1(1441032227, (short)-807385136, Sbt3YgB, EZlJe_9, 1916897956) == 0)
+if (k3O1yD6L1((char)1441032227, (short)-807385136, Sbt3YgB, EZlJe_9, 1916897956) == 0)
 {
 	Sbt3YgB = ar4P50Gs(kdqAaC, ps620) / k3O1yD6L1(1441032227, -807385136, Sbt3YgB, EZlJe_9, 1916897956);
 }
@@ -123,7 +123,7 @@ case 2:
 up6g48 >>= DJ3N;
 break;
 case 3:
-qP4P7B28X = k3O1yD6L1(2080698989, (short)869128683, UO77Op, 1779886445, zrl9f64b2_);
+qP4P7B28X = k3O1yD6L1((char)2080698989, (short)869128683, UO77Op, 1779886445, zrl9f64b2_);
 break;
 case 4:
 sZIV = R_CXXSNi * 1139862251;
@@ -135,7 +135,7 @@ case 6:
 PP_22RSR = up6g48 / 1363350378;
 break;
 case 7:
-vZ53_J8Do = ar4P50Gs(-1352929212, -5622237) & DJ3N;
+vZ53_J8Do = ar4P50Gs(-1352929212, (unsigned char)-5622237) & DJ3N;
 break;
 default:
 qP4P7B28X = k3O1yD6L1(sZIV, (short)484621810, Sbt3YgB, 1931354977, 1448428900);
@@ -157,7 +157,7 @@ case 0:
 DJ3N = a179A_5_5(DJ3N);
 break;
 case 1:
-jxw_jzN02 = k3O1yD6L1(EZlJe_9, -541690492, 1370075847, 1760203580, zrl9f64b2_);
+jxw_jzN02 = k3O1yD6L1(EZlJe_9, (short)-541690492, 1370075847, 1760203580, zrl9f64b2_);
 break;
 default:
 EZlJe_9 &= sZIV;
@@ -178,7 +178,7 @@ case 1:
 fe2ygW /= kdqAaC;
 break;
 case 2:
-ps620 = ar4P50Gs(ps620, 1932409958);
+ps620 = ar4P50Gs(ps620, (unsigned char)1932409958);
 break;
 case 3:
 up6g48 = (int)abs(zrl9f64b2_);
@@ -219,7 +219,7 @@ fe2ygW = (int)(EZlJe_9);
 }
 else if (PP_22RSR > R_CXXSNi)
 {
-cout << "reJN_0" << "K_wh47w3B" << UO77Op << a179A_5_5(1241907673) << endl;
+cout << "reJN_0" << "K_wh47w3B" << UO77Op << a179A_5_5((unsigned short)1241907673) << endl;
 }
 else
 {
@@ -250,7 +250,7 @@ return 0;
 }
 
 unsigned short int	ar4P50Gs(long long	dpbGnauPH,unsigned char	UNhokId3W2)	{
-	return	-34114842;
+	return	(unsigned short)-34114842;
 }
 
 unsigned short int k3O1yD6L1(char eVlvU667y,short int yM9RCU,long long kiOz_,unsigned int NId7eti1_,unsigned long w0_H7aigK) {

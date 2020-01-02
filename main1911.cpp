@@ -15,7 +15,7 @@ unsigned int    fg4E6(unsigned int    cW2_,unsigned short int    D8p5,unsigned l
 }
 
 short int    hY_P(unsigned short    HBFwi,int    HGVniQOs,unsigned short int    ja5c)    {
-    return    -419615539;
+    return    (short)-419615539;
 }
 
 int    UU2daKZ(int    mHOE1,char    lDm8478,unsigned long long    PG_O)    {
@@ -87,7 +87,7 @@ int j = 0;
 while (j < 6)
 {
 ++j;
-BF6gV = hY_P(BF6gV, hJzrj665p, -968136865);
+BF6gV = hY_P(BF6gV, hJzrj665p, (unsigned short)-968136865);
 }
 }
 }

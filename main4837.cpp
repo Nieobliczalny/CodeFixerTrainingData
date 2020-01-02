@@ -62,7 +62,7 @@ for (int i = 0; i < 1; ++i)
 {
 for (int j = 8; j >= 0; --j)
 {
-cout << R7d_ZP2d << WU2P0sx4Q(338902369, R7d_ZP2d, hnZV, 104501543, Xv70) << endl;
+cout << R7d_ZP2d << WU2P0sx4Q(338902369, R7d_ZP2d, hnZV, (unsigned short)104501543, Xv70) << endl;
 }
 }
 zhJp9OrBH3 -= 1862585481;
@@ -88,7 +88,7 @@ case 'c':
 YgxU6GG = H278CX();
 break;
 case 'd':
-u4B1Dd2a = aC86vLHM(737102220, zmL_a_, vtMDK8rf);
+u4B1Dd2a = aC86vLHM((short)737102220, zmL_a_, vtMDK8rf);
 break;
 case 'e':
 mY41s5 = aC86vLHM((short)-1431889011, m9XsRHKO, -1421641399);
@@ -146,7 +146,7 @@ else
 {
 try
 {
-cout << WU2P0sx4Q(vEXMz_e, FOWD6, wiSW14Wko, 1930041585, -1723971776) << endl;
+cout << WU2P0sx4Q(vEXMz_e, FOWD6, wiSW14Wko, (unsigned short)1930041585, -1723971776) << endl;
 }
 catch (int& errorCode)
 {
@@ -176,7 +176,7 @@ return 0;
 
 short aC86vLHM(short int DW0ZN_,short int dk8bk,unsigned long long yhO6)
 {
- return -2002622264;
+ return (short)-2002622264;
 }
 
 long long  H278CX()  {

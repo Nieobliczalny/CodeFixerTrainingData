@@ -15,7 +15,7 @@ using namespace std;
 
 short int D6R7r8Hs1(long y9az)
 {
- return -225277197;
+ return (short)-225277197;
 }
 
 unsigned short int    bIw281DE_8()    {
@@ -326,7 +326,7 @@ Xs5ZO2 = D6R7r8Hs1(665167904);
 }
 else if (Ib1UN > Wy97_1T6g5)
 {
-nIlDqz9i = (RWrKCsb == PJ9An63g_K) ? -1154027735 : ubVF_m0b;
+nIlDqz9i = (RWrKCsb == PJ9An63g_K) ? (short)-1154027735 : ubVF_m0b;
 }
 else
 {

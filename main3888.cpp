@@ -17,7 +17,7 @@ unsigned long long  J0yI5m0d(unsigned short  el_Yd91TG8)  {
 }
 
 short	as8ao7pr(long	s1q1x717RZ)	{
-	return	1779890546;
+	return	(short)1779890546;
 }
 
 unsigned long j3p6() {
@@ -27,7 +27,7 @@ unsigned long j3p6() {
 int main() {
     char    lFmF11Q1g    =    (char)174170170;
   unsigned char  v92G3l  =  959403641;
-	unsigned short	V0_n3	=	-1940485206;
+	unsigned short	V0_n3	=	(unsigned short)-1940485206;
  unsigned char ihvdpmK = 0;
   unsigned long long  F357Ydqj2  =  0;
  short int I0hi = -1500155597;
@@ -43,7 +43,7 @@ switch (v92G3l)
 {
 case 'a':
 case 'A':
-I0hi = (pmFWq) ? pmFWq : -808059895;
+I0hi = (pmFWq) ? pmFWq : (short)-808059895;
 break;
 case 'b':
 case 'B':
@@ -85,7 +85,7 @@ case 2:
 u8wUpH16Pp = (int)abs(I0hi);
 break;
 case 3:
-I0hi = J0yI5m0d(-1327241501);
+I0hi = J0yI5m0d((unsigned short)-1327241501);
 break;
 case 4:
 v92G3l = Sqoc - 203394094;
@@ -98,7 +98,7 @@ lFmF11Q1g = (int)abs(u8wUpH16Pp);
 break;
 }
 
-std::cout << J0yI5m0d(1266393338) << std::endl;
+std::cout << J0yI5m0d((unsigned short)1266393338) << std::endl;
 
 F357Ydqj2 = (unsigned long long)(V0_n3 * F357Ydqj2);
 if (V0_n3 >= -1078062522)

@@ -15,7 +15,7 @@ using std::floor;
 int main()
 {
  unsigned int cVoD = -47741410;
-  unsigned short  bCDo65__T_  =  -1160064618;
+  unsigned short  bCDo65__T_  =  (unsigned short)-1160064618;
  short xSehO = (short)-268662336;
 	unsigned char	S344	=	42558526;
  char qXgOkEP8 = -1708402967;
@@ -28,7 +28,7 @@ int main()
   unsigned long  XGhTR  =  -1861670098;
  float ylODp2q__1 = -1615848080;
  float y6GpTC3989 = 97735706;
-    char    U2ab41Cpm0    =    1246528614;
+    char    U2ab41Cpm0    =    (char)1246528614;
 	unsigned short	MHCiY6f	=	(unsigned short)305692835;
     long    k7f4_F    =    1213974398;
  float K8ehgUF_A = 1563446780;
@@ -38,7 +38,7 @@ int main()
 	double	llUkx	=	1400883368;
 	unsigned long long	s_2jEM5_L	=	297100341;
 	long double	B8brg9S0I	=	-1303500141;
-	short int	sLmQY	=	270530305;
+	short int	sLmQY	=	(short)270530305;
  long long THvbX = -1923061260;
 	short	trDRJV	=	(short)-1096199623;
 	unsigned long	WY8mA470	=	980436410;
@@ -48,7 +48,7 @@ int main()
     unsigned short    J04JXbrO    =    1182121969;
  unsigned short int r_L2Yv1X = -1564732598;
     int    mg7iOHl2    =    1625847124;
- unsigned short int hT1Uy4 = -1873219968;
+ unsigned short int hT1Uy4 = (unsigned short)-1873219968;
   short int  Dvc092p  =  -369664416;
     unsigned long long    M_Xh3    =    2078093721;
  short qsmZ1NcX = (short)-31681424;
@@ -59,7 +59,7 @@ int main()
   float  o_8Ez  =  -547612993;
   float  g726B_  =  1600938295;
 	int	XojV85hB9	=	-172830188;
-    unsigned char    i1M__9_    =    -694464709;
+    unsigned char    i1M__9_    =    (unsigned char)-694464709;
  unsigned long p1QAe1Mm0t = 85771174;
 	double	o8mlMQ_Z_	=	-1413554207;
     long    e3FWho    =    -314607241;

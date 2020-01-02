@@ -19,7 +19,7 @@ int main(int argc, char** argv)
   long long  sylh9IxOe  =  1018926336;
 	long double	Dr0H22	=	2054478771;
   char  Qj___PAtL8  =  0;
-    short int    Q5uGI    =    -905782060;
+    short int    Q5uGI    =    (short)-905782060;
  char oeVDeA = (char)-1759425654;
  long long H847cxI29t = -2022461362;
   short  p2Dy73  =  -1041174794;
@@ -30,7 +30,7 @@ int main(int argc, char** argv)
 	unsigned long long	ZLVuX47z0	=	1948119334;
     short    at128T    =    1886540522;
  unsigned long g4ice9uV = -1991280809;
-	unsigned short int	HjF9	=	-1041388384;
+	unsigned short int	HjF9	=	(unsigned short)-1041388384;
 	long long	r7e6	=	-794104422;
 	long long	I9Zbeq_08	=	340045584;
     short int    IEi4kg2o4R    =    (short)184070046;
@@ -41,7 +41,7 @@ int main(int argc, char** argv)
   long double  xwI0dc9U0  =  -1037277745;
   unsigned short int  rtAAeydB7c  =  -1992756660;
     unsigned long long    Ki14m1AI    =    959666281;
-    char    U8ox4IGi7    =    1840298861;
+    char    U8ox4IGi7    =    (char)1840298861;
  short N3kx_1 = 1309664925;
  unsigned long long Lsrqug = 1119739983;
 	char	zNFM0mHu1	=	(char)1052384788;
@@ -58,7 +58,7 @@ int main(int argc, char** argv)
     unsigned short    rvwcmmnK    =    0;
 	unsigned long	K8w5403	=	-533500827;
  long double p__0ozk3W = -1664205968;
-	short int	ie39TqP6E	=	-358111534;
+	short int	ie39TqP6E	=	(short)-358111534;
 	unsigned int	a0jrU	=	1348854145;
     unsigned long    GtU1UkyLfJ    =    1699213911;
 	char	BJ56ntg	=	(char)-98655335;
@@ -69,7 +69,7 @@ int main(int argc, char** argv)
  char pkU67 = -1688592403;
  long double Z3C3Wmy = -556690043;
   double  f2gm633_  =  -88448164;
- unsigned short int WkLZ0Tt91 = -2096953234;
+ unsigned short int WkLZ0Tt91 = (unsigned short)-2096953234;
   int  QYA8n4M8  =  -1557230621;
  float A6C40nuvQ = -467868970;
 	long	CZ_px_f92M	=	-990219745;
@@ -161,7 +161,7 @@ case 'c':
 pkU67 >>= qD30M7s5;
 break;
 case 'd':
-p2Dy73 = (rvwcmmnK) ? -1300918657 : ZLVuX47z0;
+p2Dy73 = (rvwcmmnK) ? (short)-1300918657 : ZLVuX47z0;
 break;
 case 'e':
 a0jrU %= u6_7;

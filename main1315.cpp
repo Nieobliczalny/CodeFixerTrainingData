@@ -31,7 +31,7 @@ int main() {
  long long zjc84cmx6;
  zjc84cmx6 = -940786376;
   short  pKc5hDrn0;
-  pKc5hDrn0  =  -601505572;
+  pKc5hDrn0  =  (short)-601505572;
     short int    AzfA47VCt;
     AzfA47VCt    =    (short)1820272899;
  unsigned long d58l;
@@ -43,7 +43,7 @@ int main() {
     long    BoI7b4m4B;
     BoI7b4m4B    =    1997608006;
 	unsigned char	bCguC_GW;
-	bCguC_GW	=	1939821959;
+	bCguC_GW	=	(unsigned char)1939821959;
     unsigned long long    wi_lqx;
     wi_lqx    =    310396433;
     double    i1v6rP4;
@@ -55,7 +55,7 @@ int main() {
  float T1Kr_;
  T1Kr_ = 385751901;
   unsigned char  iPmU45;
-  iPmU45  =  1381127721;
+  iPmU45  =  (unsigned char)1381127721;
 	int	igbVI_m_mG;
 	igbVI_m_mG	=	-1570132574;
   short int  ad2V;
@@ -65,7 +65,7 @@ int main() {
   unsigned short  zJE_EB;
   zJE_EB  =  -1742786374;
 	short	Uf_915_ew;
-	Uf_915_ew	=	-803913118;
+	Uf_915_ew	=	(short)-803913118;
   unsigned char  sc77C;
   sc77C  =  -528913060;
 	unsigned char	wf4Rk4;
@@ -77,7 +77,7 @@ int main() {
     unsigned long long    BX621;
     BX621    =    -1582888585;
     char    DE07;
-    DE07    =    1476599021;
+    DE07    =    (char)1476599021;
   int  GAs792GOiN;
   GAs792GOiN  =  391647020;
  long CL39_G2HV;
@@ -89,7 +89,7 @@ int main() {
  double jTIv_KP;
  jTIv_KP = 668884950;
   char  l5x811UcY;
-  l5x811UcY  =  -1019079073;
+  l5x811UcY  =  (char)-1019079073;
  long f40D3eKt70;
  f40D3eKt70 = -1913441575;
 	unsigned int	BEalj_;
@@ -147,7 +147,7 @@ do
 {
 try
 {
-vpZk = W1cCB9P(vpZk, -1042715544, 916610433);
+vpZk = W1cCB9P(vpZk, -1042715544, (unsigned short)916610433);
 }
 catch (int& errorCode)
 {
@@ -206,7 +206,7 @@ return 0;
 
 short int	H2FZS()
 {
-	return	-595161645;
+	return	(short)-595161645;
 }
 
 unsigned short F75fP(unsigned long long BDJ022Sss,long long twkr_0,long ngZfw9j) {

@@ -268,7 +268,7 @@ else if (EtlB4C >= 831744231)
 {
 try
 {
-k2_GX_ = (yTPL >= -968670542) ? -1075381118 : PCfMmy;
+k2_GX_ = (yTPL >= -968670542) ? (unsigned short)-1075381118 : PCfMmy;
 }
 catch (int& errorCode)
 {

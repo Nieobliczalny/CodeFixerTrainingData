@@ -13,7 +13,7 @@ unsigned short int  Gipgaj6J(unsigned long long  R91w8I);
 int main()
 {
 	short	D8Uw;
-	D8Uw	=	901312313;
+	D8Uw	=	(short)901312313;
   long long  JE1E86u;
   JE1E86u  =  -2006168130;
 	long long	nmHGoKm61;
@@ -23,7 +23,7 @@ int main()
     unsigned short    snuOV2u;
     snuOV2u    =    -1810662911;
  unsigned short APq0;
- APq0 = -1517282848;
+ APq0 = (unsigned short)-1517282848;
  short f3LJ6G;
  f3LJ6G = 1766394618;
   unsigned char  SozX1M72B;
@@ -39,7 +39,7 @@ int main()
     long double    Sm8m;
     Sm8m    =    -347623595;
     short    EX3emj4E;
-    EX3emj4E    =    -1236059377;
+    EX3emj4E    =    (short)-1236059377;
  unsigned long long sC50Sm1;
  sC50Sm1 = 1857896893;
   unsigned char  e_PbwbwP_;
@@ -49,7 +49,7 @@ int main()
 	unsigned long	XHIE04U_48;
 	XHIE04U_48	=	0;
 	unsigned short int	z241RL;
-	z241RL	=	273465819;
+	z241RL	=	(unsigned short)273465819;
 	unsigned long	tUDNDy3j8;
 	tUDNDy3j8	=	-315916407;
     double    ib5y;
@@ -61,7 +61,7 @@ int main()
 	unsigned long long	IuLe;
 	IuLe	=	-1941849159;
   short  Jz6ESOIMN;
-  Jz6ESOIMN  =  -436773241;
+  Jz6ESOIMN  =  (short)-436773241;
   double  bRA20i_J;
   bRA20i_J  =  1347432934;
  int vX4RNyAM;
@@ -73,7 +73,7 @@ int main()
  long long ZD4qT90Q;
  ZD4qT90Q = 1080381353;
  unsigned short ZuXMFJf8s;
- ZuXMFJf8s = 1841601085;
+ ZuXMFJf8s = (unsigned short)1841601085;
     unsigned char    L4lvm9D;
     L4lvm9D    =    -978233606;
  short int V1g528;
@@ -85,7 +85,7 @@ int main()
 	unsigned int	cd36;
 	cd36	=	-780693879;
     short    iATK;
-    iATK    =    -1291048752;
+    iATK    =    (short)-1291048752;
     short    cXgO823q;
     cXgO823q    =    (short)-1179160715;
   short  sE02M;
@@ -95,7 +95,7 @@ int main()
  unsigned char R8CrFB4N;
  R8CrFB4N = -833938410;
 	char	EhsJj9702;
-	EhsJj9702	=	-74739031;
+	EhsJj9702	=	(char)-74739031;
   double  kY9qhA;
   kY9qhA  =  -1910498141;
   long  j4I5_5T;
@@ -109,7 +109,7 @@ int main()
  long double Cdhz;
  Cdhz = -1473324812;
  unsigned short kcG98c12d5;
- kcG98c12d5 = 1949150878;
+ kcG98c12d5 = (unsigned short)1949150878;
  long long r182D_1K1v;
  r182D_1K1v = 1134575950;
   double  FGx6pAq;

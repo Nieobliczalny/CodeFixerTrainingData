@@ -111,7 +111,7 @@ if (KaD8Ar1 != 1294707573)
 int j = 10;
 while (j >= 0)
 {
-O5mv3qNC = iAp9i(-1408056585, 458851424, -1874924818, MFbwxkgd, D5Qv);
+O5mv3qNC = iAp9i((short)-1408056585, 458851424, -1874924818, MFbwxkgd, D5Qv);
 j--;
 }
 }
@@ -131,7 +131,7 @@ case 'B':
 W4l86 = iAp9i(tOTl, G3kR3OQk, n32t3GG, bj3ne7VS2P, i1jaWMa);
 break;
 default:
-JJ46 = iAp9i(-1310385544, bnsUrLn4A, -84518160, wLInCyDIS, 1600428451);
+JJ46 = iAp9i((short)-1310385544, bnsUrLn4A, -84518160, wLInCyDIS, 1600428451);
 break;
 }
 }
@@ -185,7 +185,7 @@ fAp8F083 += 1615031091;
 break;
 case 'h':
 case 'H':
-O5mv3qNC = iAp9i(C_uvtwy2, kDU3P3QRm, uF09RH_h, 38859442, JZyr);
+O5mv3qNC = iAp9i(C_uvtwy2, kDU3P3QRm, uF09RH_h, (short)38859442, JZyr);
 break;
 case 'i':
 case 'I':
@@ -209,7 +209,7 @@ Uo68fd /= 1947554835;
 }
 else
 {
-cout << iAp9i(1579129487, kDU3P3QRm, 825111789, (short)-1472051048, 1712480821) << iAp9i(C_uvtwy2, -164828558, 1072286846, -324752045, -1090745624) << Uo68fd << i75n << endl;
+cout << iAp9i((short)1579129487, kDU3P3QRm, 825111789, (short)-1472051048, 1712480821) << iAp9i(C_uvtwy2, -164828558, 1072286846, -324752045, -1090745624) << Uo68fd << i75n << endl;
 }
 
 {
@@ -266,7 +266,7 @@ case 2:
 n32t3GG = (HYE4p7 < -450159844) ? uHt7B_39Xq : 267065949;
 break;
 case 3:
-W4l86 = iAp9i(2005270076, lWT1PV, 1871714500, (short)-1972417335, Ahopf);
+W4l86 = iAp9i((short)2005270076, lWT1PV, 1871714500, (short)-1972417335, Ahopf);
 break;
 case 4:
 W4l86 = iAp9i(139229672, D2_fo33, -671677117, HYE4p7, w28_VSa9f9);
@@ -284,7 +284,7 @@ break;
 }
 else if (W4l86 & O5mv3qNC)
 {
-cout << MFbwxkgd << "fVGf0F63ly" << C_uvtwy2 << iAp9i(-1964037340, n32t3GG, A5b_S, (short)1604961320, -734182867) << JJ46 << endl;
+cout << MFbwxkgd << "fVGf0F63ly" << C_uvtwy2 << iAp9i((short)-1964037340, n32t3GG, A5b_S, (short)1604961320, -734182867) << JJ46 << endl;
 }
 else if (w28_VSa9f9 > fgOHr__4)
 {
@@ -332,7 +332,7 @@ for (int i = 0; i < 1; i++)
 switch (O5mv3qNC)
 {
 case 0:
-JJ46 = iAp9i(431501476, 1006085957, Opyd5, JQd32Q1, Uo68fd);
+JJ46 = iAp9i((short)431501476, 1006085957, Opyd5, JQd32Q1, Uo68fd);
 break;
 case 1:
 ATwSk0f0 = iAp9i(V_nsH, 1371071231, Opyd5, JQd32Q1, Uo68fd) ^ 38670263;
@@ -344,7 +344,7 @@ case 3:
 D5Qv = (int)abs(Beyx);
 break;
 case 4:
-JJ46 = iAp9i(-353179786, CI_fYi3, 1720888428, uvmND0vZc, h2sNQy);
+JJ46 = iAp9i((short)-353179786, CI_fYi3, 1720888428, uvmND0vZc, h2sNQy);
 break;
 case 5:
 W4l86 = iAp9i((short)1581634207, K07sfUZSc, -1964296741, 970238284, V_nsH);
@@ -356,7 +356,7 @@ case 7:
 Ahopf = (int)ceil(fAp8F083);
 break;
 case 8:
-JJ46 = iAp9i(i75n, Opyd5, 352324742, -257075996, -1855714631);
+JJ46 = iAp9i(i75n, Opyd5, 352324742, (short)-257075996, -1855714631);
 break;
 case 9:
 n32t3GG = (int)ceil(CI_fYi3);
@@ -388,7 +388,7 @@ fhJ_oA = I3QkA + 68128036;
 }
 else if (fAp8F083 >= 1386761451)
 {
-cout << I3QkA << iAp9i(i75n, Opyd5, -902428721, -253263248, 1357545428) << Beyx << D5Qv << endl;
+cout << I3QkA << iAp9i(i75n, Opyd5, -902428721, (short)-253263248, 1357545428) << Beyx << D5Qv << endl;
 }
 else if (JJ46 & 1027040489)
 {
@@ -399,7 +399,7 @@ O5mv3qNC = iAp9i((short)-2128219526, -1539495263, HohG89, -1786580541, -10869323
 }
 else if (g16oO__q4 <= V_nsH)
 {
-O5mv3qNC = iAp9i(1656114881, D5Qv, HohG89, KaD8Ar1, wLInCyDIS);
+O5mv3qNC = iAp9i((short)1656114881, D5Qv, HohG89, KaD8Ar1, wLInCyDIS);
 }
 else if ((CI_fYi3 > 167694473) || ((yhH6 != -622429110) || (h2sNQy >= 1554939529)))
 {
@@ -426,7 +426,7 @@ int k = 10;
 while (k >= 0)
 {
 --k;
-W4l86 = iAp9i(-619581862, 105248669, -1822645701, Beyx, 461652983);
+W4l86 = iAp9i((short)-619581862, 105248669, -1822645701, Beyx, 461652983);
 }
 }
 }
@@ -450,7 +450,7 @@ k--;
 }
 else if (O5mv3qNC < 494429760)
 {
-JJ46 = iAp9i(uvmND0vZc, HYE4p7, g16oO__q4, -838069376, fAp8F083);
+JJ46 = iAp9i(uvmND0vZc, HYE4p7, g16oO__q4, (short)-838069376, fAp8F083);
 }
 else if (g16oO__q4)
 {
@@ -489,7 +489,7 @@ for (int i = 6; i >= 0; i--)
 switch (JJ46)
 {
 case 'a':
-O5mv3qNC = iAp9i(fhJ_oA, D5Qv, JZyr, -1623827952, -1072673991);
+O5mv3qNC = iAp9i(fhJ_oA, D5Qv, JZyr, (short)-1623827952, -1072673991);
 break;
 case 'b':
 MFbwxkgd = (int)ceil(dLCl);

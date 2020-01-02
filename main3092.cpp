@@ -11,7 +11,7 @@ using namespace std;
 int main(void)
 {
 	short int	BnBOF;
-	BnBOF	=	-1128784537;
+	BnBOF	=	(short)-1128784537;
  long Sw6H7;
  Sw6H7 = 30167669;
     long double    jx0H;
@@ -23,7 +23,7 @@ int main(void)
  unsigned long R70_IV4FT;
  R70_IV4FT = 899897341;
   unsigned short  Uhjs5R64V;
-  Uhjs5R64V  =  1090692547;
+  Uhjs5R64V  =  (unsigned short)1090692547;
     unsigned short int    VIbb;
     VIbb    =    (unsigned short)-1121388555;
   unsigned short int  h6E74Fk;
@@ -33,7 +33,7 @@ int main(void)
  unsigned int BZ5hgCO0;
  BZ5hgCO0 = -940363837;
     unsigned short    sPS7d49;
-    sPS7d49    =    1301981377;
+    sPS7d49    =    (unsigned short)1301981377;
     long double    M5k0Jw249x;
     M5k0Jw249x    =    615023637;
   long long  ZF75cYMX_9;
@@ -43,7 +43,7 @@ int main(void)
  short Xc_79;
  Xc_79 = (short)610273294;
  unsigned short Xv8P_KPa3;
- Xv8P_KPa3 = -716087856;
+ Xv8P_KPa3 = (unsigned short)-716087856;
  unsigned int fDP1Lsgy8q;
  fDP1Lsgy8q = -284936175;
   short  gqxhV46;
@@ -53,7 +53,7 @@ int main(void)
   unsigned short int  DEvFY;
   DEvFY  =  (unsigned short)1721046231;
     unsigned short    e_6k;
-    e_6k    =    801689578;
+    e_6k    =    (unsigned short)801689578;
     short    itB0lU0;
     itB0lU0    =    1350186581;
   float  b1L7Jai8Fm;
@@ -67,7 +67,7 @@ int main(void)
     unsigned int    AbQc4jdN2;
     AbQc4jdN2    =    -641503398;
     short int    vCQkHadc;
-    vCQkHadc    =    144971086;
+    vCQkHadc    =    (short)144971086;
     float    a2Hb__6Bng;
     a2Hb__6Bng    =    -1414579250;
   long double  mVKH_E;

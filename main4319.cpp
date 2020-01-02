@@ -10,7 +10,7 @@ using namespace std;
 
 unsigned short int  rDufvJ(long long  F645UOm2,unsigned long  g24w,long long  k3z6AwM18,char  Ms02P,unsigned char  ornNfE5K)
 {
-  return  1981516927;
+  return  (unsigned short)1981516927;
 }
 
 long long	L_yW9(short	djS2K7,unsigned char	nk79mxI3)
@@ -23,7 +23,7 @@ short    f__xzW(long    TzQ57,long long    fxB_,long    P4Az,int    J56p_F)    {
 }
 
 short int	nxeXGsZTbJ(unsigned char	t9CwUrKm)	{
-	return	-2118569413;
+	return	(short)-2118569413;
 }
 
 unsigned int	bEUL6(int	AnjM4na,unsigned char	a9iyM)	{
@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
     unsigned long    WCakWK935e    =    602034660;
   short int  h7dq  =  0;
 	unsigned long long	at037z75t	=	-1765575339;
- char jzEx6B9 = -1313359727;
+ char jzEx6B9 = (char)-1313359727;
   long  k_K13x07E  =  -1700961762;
   unsigned short int  G9_7zd_2  =  (unsigned short)1428962231;
 	unsigned int	bR9NX07	=	-1020078407;
@@ -52,7 +52,7 @@ int main(int argc, char** argv) {
  double pdSPpvJILO = -1899364596;
   unsigned long  tyxknRk  =  871882648;
 	unsigned long	G95BE	=	-48061320;
-	char	g3FK	=	-483154125;
+	char	g3FK	=	(char)-483154125;
   int  x_zws  =  1125667907;
   long  dee671ffV2  =  296573549;
     unsigned short    Qs8pB0tRB    =    (unsigned short)1784649602;
@@ -63,7 +63,7 @@ if ((q14I66 / G9GJp1) == 1224082097)
 int i = 0;
 do
 {
-Qs8pB0tRB = bEUL6(-1951936105, 2066326676);
+Qs8pB0tRB = bEUL6(-1951936105, (unsigned char)2066326676);
 i++;
 }
 while (i < 2);
@@ -98,7 +98,7 @@ case 0:
 at037z75t -= w1ia;
 break;
 case 1:
-jzEx6B9 = (G9GJp1 != 348836498) ? -1812826976 : pdSPpvJILO;
+jzEx6B9 = (G9GJp1 != 348836498) ? (char)-1812826976 : pdSPpvJILO;
 break;
 case 2:
 G9GJp1 = L_yW9(x_zws, t_ceoKg);

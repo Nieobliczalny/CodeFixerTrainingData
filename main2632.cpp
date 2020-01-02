@@ -20,7 +20,7 @@ int  Pj4PZ()  {
 }
 
 unsigned short    b_u1Kv(unsigned char    Vy757CBy)    {
-    return    111048580;
+    return    (unsigned short)111048580;
 }
 
 int main()

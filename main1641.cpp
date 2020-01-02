@@ -25,7 +25,7 @@ unsigned short	R6oW45(short	AxxKRY,short int	CPDQK,unsigned char	Dh8pjK,unsigned
 
 short	d28JgOy(short int	vjS1h5d,unsigned long long	Z65DLsc_J,unsigned int	No46Y)
 {
-	return	-234386553;
+	return	(short)-234386553;
 }
 
 int main(int argc, char** argv) {
@@ -35,7 +35,7 @@ int main(int argc, char** argv) {
   unsigned short  EZn1Yf1WXo  =  1381226155;
   unsigned short  cMGO1__nu  =  -484587737;
     int    Z6qHyB    =    713641807;
-    short int    WV7u6pEQ71    =    -1240176677;
+    short int    WV7u6pEQ71    =    (short)-1240176677;
   unsigned int  a7Xm0  =  0;
 	long long	K98352EGn	=	954386246;
   unsigned int  u_EPX4yY  =  -942997307;
@@ -45,7 +45,7 @@ int main(int argc, char** argv) {
  unsigned char Pv0Eh9UZ7H = -1004825482;
   unsigned long long  lBVqN3  =  -1254946657;
 	unsigned char	nN3V1	=	0;
- unsigned char z9Q2H20 = -1997453041;
+ unsigned char z9Q2H20 = (unsigned char)-1997453041;
  unsigned char FaTr = 0;
  short tNTnU_VO = 2127410988;
  short Fo_4wtLk = 742206878;
@@ -68,7 +68,7 @@ Unaq_Fg = d28JgOy(Unaq_Fg, -1211532880, -271702454);
 }
 else if ((pY9nJ != nN3V1) && ((nN3V1) && (FFP87kK4Ck > -1388671246)))
 {
-tNTnU_VO = d28JgOy(-2060674286, -663219010, 1489952214);
+tNTnU_VO = d28JgOy((short)-2060674286, -663219010, 1489952214);
 }
 else if (EZn1Yf1WXo > 259593884)
 {
@@ -86,7 +86,7 @@ Unaq_Fg = FFP87kK4Ck - I25y4Uvm2j;
 }
 else
 {
-HdraF3eB2 = R6oW45(u_EPX4yY, pY9nJ, -1176542927, -1555565560, (short)1556207177);
+HdraF3eB2 = R6oW45(u_EPX4yY, pY9nJ, (unsigned char)-1176542927, -1555565560, (short)1556207177);
 }
 }
 else if (om64D & -477942182)
@@ -104,7 +104,7 @@ else if (Pv0Eh9UZ7H & 2056597829)
 {
 try
 {
-WV7u6pEQ71 = T4mMvS6(469232944);
+WV7u6pEQ71 = T4mMvS6((short)469232944);
 }
 catch (int& errorCode)
 {
@@ -157,7 +157,7 @@ tNTnU_VO = d28JgOy(tNTnU_VO, -1630038123, -786715713);
 switch (tbabDu6_3c)
 {
 case 0:
-EZn1Yf1WXo = t2Hnd0(69970884, JEd1vg_, nN3V1);
+EZn1Yf1WXo = t2Hnd0((unsigned short)69970884, JEd1vg_, nN3V1);
 break;
 case 1:
 i5Yxd8Q3 = (int)ceil(I25y4Uvm2j);
@@ -172,7 +172,7 @@ cMGO1__nu = t2Hnd0(cMGO1__nu, Ieb56, HdraF3eB2);
 int i = 0;
 do
 {
-WV7u6pEQ71 = d28JgOy(24877757, -299649497, WV7u6pEQ71);
+WV7u6pEQ71 = d28JgOy((short)24877757, -299649497, WV7u6pEQ71);
 i++;
 }
 while (i < 6);

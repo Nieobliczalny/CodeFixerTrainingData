@@ -15,7 +15,7 @@ unsigned int  by_u(unsigned char  Aj723nvc3)
 
 short int    q4Tnd6L8H3(long long    b747vO0)
 {
-    return    103103430;
+    return    (short)103103430;
 }
 
 int main()
@@ -43,7 +43,7 @@ case 4:
 CdvBAu = q4Tnd6L8H3(1120989176);
 break;
 case 5:
-T6E1ncOV3 = by_u(-941732248) << 1906799474;
+T6E1ncOV3 = by_u((unsigned char)-941732248) << 1906799474;
 break;
 }
 try
@@ -133,7 +133,7 @@ i++;
 int j = 4;
 do
 {
-X8o1CE9 = by_u(1216205790);
+X8o1CE9 = by_u((unsigned char)1216205790);
 --j;
 }
 while (j >= 0);
@@ -153,7 +153,7 @@ int i = 6;
 do
 {
 i--;
-std::cout << "Gl6Nh2n4" << "jphqBd9" << "DDi6a5_S8" << by_u(327159701) << std::endl;
+std::cout << "Gl6Nh2n4" << "jphqBd9" << "DDi6a5_S8" << by_u((unsigned char)327159701) << std::endl;
 }
 while (i >= 0);
 }
@@ -173,7 +173,7 @@ Rn1hH = (int)abs(iSHfyYB);
 
 g7Be = iSHfyYB / rB3qk4Dc;
 
-std::cout << oMlRr4w << c1HKDBl << by_u(-459609718) << q4Tnd6L8H3(-357691023) << D_2v38c << std::endl;
+std::cout << oMlRr4w << c1HKDBl << by_u((unsigned char)-459609718) << q4Tnd6L8H3(-357691023) << D_2v38c << std::endl;
 GW1r = q4Tnd6L8H3(-1746393562);
 std::cout << "MnukN9Y13I" << "nzcalUX" << D_2v38c << std::endl;
 Lo3333 = by_u((unsigned char)430275649);
@@ -203,7 +203,7 @@ else if (s4d9d31 <= -25464174)
 int k = 1;
 do
 {
-q8Vc = by_u(-157556809);
+q8Vc = by_u((unsigned char)-157556809);
 k--;
 }
 while (k >= 0);
@@ -396,7 +396,7 @@ case 'i':
 g81U = R42Stpfck % Z0eb_F;
 break;
 default:
-rB3qk4Dc = by_u(-2059828165);
+rB3qk4Dc = by_u((unsigned char)-2059828165);
 break;
 }
 }

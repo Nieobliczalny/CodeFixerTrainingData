@@ -46,7 +46,7 @@ case 0:
 Zpy3 &= C0u4;
 break;
 case 1:
-TfEajB0Sqw = qZM0c6b_c(vv_2DT0Cl, Ljo2, -533463928, (unsigned short)-450316964);
+TfEajB0Sqw = qZM0c6b_c(vv_2DT0Cl, Ljo2, (unsigned short)-533463928, (unsigned short)-450316964);
 break;
 case 2:
 cV8VVX = Nuk2_7() * X7_87n;
@@ -64,7 +64,7 @@ case 6:
 ew4e_e = SxxTvXz & 448467238;
 break;
 case 7:
-WM_13 = qZM0c6b_c(WM_13, tceX, -1900476602, (unsigned short)-863832383);
+WM_13 = qZM0c6b_c(WM_13, tceX, (unsigned short)-1900476602, (unsigned short)-863832383);
 break;
 case 8:
 TfEajB0Sqw = aR6Ys - 1381797583;
@@ -92,7 +92,7 @@ TfEajB0Sqw = rv1S71163 % UnW9;
 }
 }
 
-IQH_ = D2J5uMU(961006286, TfEajB0Sqw, -1334414489);
+IQH_ = D2J5uMU(961006286, TfEajB0Sqw, (unsigned char)-1334414489);
 if (aR6Ys)
 {
 {
@@ -118,7 +118,7 @@ return 0;
 
 unsigned char    RBL6h()
 {
-    return    2025613143;
+    return    (unsigned char)2025613143;
 }
 
 unsigned short int  D2J5uMU(long  ERuJg,long long  iz8eRY,unsigned char  bb87M9)

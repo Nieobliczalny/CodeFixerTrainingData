@@ -54,7 +54,7 @@ case 2:
 NN52DSge = (int)abs(gAYEH5F_) * 0;
 break;
 case 3:
-cFeZ = e9ky(-1240461222, B3yGJ8N__F, el3zwf2gy) & 46283425;
+cFeZ = e9ky((short)-1240461222, B3yGJ8N__F, el3zwf2gy) & 46283425;
 break;
 default:
 O22_P00 >>= F3eae2;
@@ -102,7 +102,7 @@ try
 {
 if ((RPUN9fR80O != p66f5) && ((oWsY != 1111749170) && (NN52DSge >= ag62HtZ)))
 {
-mVT3M26_L = e9ky(750711196, B3yGJ8N__F, e5Cyyg7);
+mVT3M26_L = e9ky((short)750711196, B3yGJ8N__F, e5Cyyg7);
 }
 else
 {
@@ -166,7 +166,7 @@ do
 j++;
 for (int k = 4; k >= 0; k--)
 {
-e5Cyyg7 = e9ky(37060276, AZgS, H04n);
+e5Cyyg7 = e9ky((short)37060276, AZgS, H04n);
 }
 }
 while (j < 4);
@@ -221,7 +221,7 @@ else if (O22_P00)
 {
 if (ag62HtZ)
 {
-W5d_4W3 = e9ky(W5d_4W3, RPUN9fR80O, 341091395);
+W5d_4W3 = e9ky(W5d_4W3, RPUN9fR80O, (short)341091395);
 }
 }
 else
@@ -247,7 +247,7 @@ N41ht8c = (int)abs(t8N1tT);
 }
 else if (iHCL5A > BK_sQD)
 {
-gAYEH5F_ = e9ky(1475360569, ag62HtZ, (short)782328004);
+gAYEH5F_ = e9ky((short)1475360569, ag62HtZ, (short)782328004);
 }
 else
 {
@@ -276,7 +276,7 @@ else
 {
 if ((PVAj == 432402877) && ((rX9M) || (e5Cyyg7 < 801268836)))
 {
-el3zwf2gy = e9ky(el3zwf2gy, -192659984, (short)-1261171567);
+el3zwf2gy = e9ky(el3zwf2gy, (unsigned short)-192659984, (short)-1261171567);
 }
 else if (el3zwf2gy > -1081780721)
 {
@@ -288,7 +288,7 @@ PVAj = (int)abs(rX9M) * 0;
 }
 else if (tfXB > 1300019065)
 {
-PVAj = N9n1T10_(ag62HtZ, 93672672);
+PVAj = N9n1T10_(ag62HtZ, (unsigned char)93672672);
 }
 else if (el3zwf2gy == -566155545)
 {
@@ -308,7 +308,7 @@ else
 {
 if (p66f5 & 1938136418)
 {
-std::cout << e9ky(W5d_4W3, -1232507479, (short)-1316390476) << std::endl;
+std::cout << e9ky(W5d_4W3, (unsigned short)-1232507479, (short)-1316390476) << std::endl;
 }
 else
 {
@@ -330,7 +330,7 @@ if (((H04n >= 861639476) && (RPUN9fR80O)) || ((H04n <= e5Cyyg7) || (H04n)))
 {
 if (cFeZ > AZgS)
 {
-O22_P00 = e9ky(O22_P00, 1184666142, (short)423539240);
+O22_P00 = e9ky(O22_P00, (unsigned short)1184666142, (short)423539240);
 }
 }
 else
@@ -377,7 +377,7 @@ case 'E':
 p66f5 |= el3zwf2gy;
 break;
 default:
-PVAj = N9n1T10_(rX9M, -2019946390);
+PVAj = N9n1T10_(rX9M, (unsigned char)-2019946390);
 break;
 }
 }
@@ -396,7 +396,7 @@ case 0:
 B3yGJ8N__F /= 896937635;
 break;
 case 1:
-oWsY = e9ky(oWsY, -1829977032, AJcPv_VldL);
+oWsY = e9ky(oWsY, (unsigned short)-1829977032, AJcPv_VldL);
 break;
 case 2:
 cFeZ--;
@@ -422,7 +422,7 @@ else
 int k = 0;
 do
 {
-tfXB = e9ky(1807894789, tfXB, oWsY);
+tfXB = e9ky((short)1807894789, tfXB, oWsY);
 k++;
 }
 while (k < 3);
@@ -441,7 +441,7 @@ else if ((PVAj < -43707226) && (el3zwf2gy != t8N1tT))
 int k = 1;
 do
 {
-p66f5 = e9ky(1216842775, (unsigned short)864770979, 1911260584);
+p66f5 = e9ky((short)1216842775, (unsigned short)864770979, 1911260584);
 --k;
 }
 while (k >= 0);
@@ -479,7 +479,7 @@ case 'a':
 ag62HtZ = e_d84Qr();
 break;
 case 'b':
-iHCL5A = N9n1T10_(W5d_4W3, 98949743);
+iHCL5A = N9n1T10_(W5d_4W3, (unsigned char)98949743);
 break;
 case 'c':
 FxWyiI = N9n1T10_(AJcPv_VldL, (unsigned char)1829587747);
@@ -507,7 +507,7 @@ else
 {
 if (rX9M <= gAYEH5F_)
 {
-B3yGJ8N__F = e9ky(PVAj, B3yGJ8N__F, -1593375683);
+B3yGJ8N__F = e9ky(PVAj, B3yGJ8N__F, (short)-1593375683);
 }
 else if (e5Cyyg7 <= -660053480)
 {
@@ -565,7 +565,7 @@ case 2:
 FxWyiI = N9n1T10_(-895541597, e5Cyyg7);
 break;
 case 3:
-FxWyiI = N9n1T10_(-833458046, -835630371);
+FxWyiI = N9n1T10_(-833458046, (unsigned char)-835630371);
 break;
 case 4:
 F3eae2 = Hrd6_Ct57e ^ RPUN9fR80O;
@@ -615,7 +615,7 @@ case 5:
 PVAj = (int)abs(gw13) * 0;
 break;
 case 6:
-RPUN9fR80O = e9ky(-1894511133, (unsigned short)634999202, 1175527945);
+RPUN9fR80O = e9ky((short)-1894511133, (unsigned short)634999202, 1175527945);
 break;
 case 7:
 oWsY = e9ky(oWsY, -1547253975, el3zwf2gy);
@@ -646,7 +646,7 @@ FxWyiI = (int)abs(oWsY) * 0;
 }
 else
 {
-std::cout << e9ky(oWsY, -1434004700, (short)1027887142) << e_d84Qr() << std::endl;
+std::cout << e9ky(oWsY, (unsigned short)-1434004700, (short)1027887142) << e_d84Qr() << std::endl;
 }
 }
 while (i >= 0);
@@ -663,7 +663,7 @@ do
 {
 for (int k = 6; k >= 0; --k)
 {
-ag62HtZ = e9ky(-489423774, (unsigned short)1908034972, -1611191794);
+ag62HtZ = e9ky((short)-489423774, (unsigned short)1908034972, -1611191794);
 }
 j--;
 }

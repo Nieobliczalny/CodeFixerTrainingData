@@ -17,7 +17,7 @@ long    lqyU224(unsigned short    qRF8y);
 
 int main(int argc, char** argv) {
     short int    B77n4;
-    B77n4    =    1840616771;
+    B77n4    =    (short)1840616771;
   float  wB_2;
   wB_2  =  1960393542;
   unsigned long  aCLrDl_z;
@@ -31,7 +31,7 @@ int main(int argc, char** argv) {
     long double    egXa_oM6z;
     egXa_oM6z    =    1759256704;
     unsigned short int    Ve32M4L1a;
-    Ve32M4L1a    =    -685951548;
+    Ve32M4L1a    =    (unsigned short)-685951548;
   double  m9ax7PCFvQ;
   m9ax7PCFvQ  =  1529955581;
 	short	Z43e0Iv;
@@ -45,7 +45,7 @@ int main(int argc, char** argv) {
 	float	MOAw;
 	MOAw	=	-2101966698;
 	unsigned short int	Z039_;
-	Z039_	=	-1681777817;
+	Z039_	=	(unsigned short)-1681777817;
   short  p7lD;
   p7lD  =  (short)1818161349;
 	double	gsztDJ;
@@ -59,7 +59,7 @@ int main(int argc, char** argv) {
     double    sT1xfFfRAQ;
     sT1xfFfRAQ    =    -977031604;
   short int  BxfEpD;
-  BxfEpD  =  -1310404369;
+  BxfEpD  =  (short)-1310404369;
   unsigned int  XqOn_;
   XqOn_  =  -743495974;
     unsigned short    WyD0de;
@@ -81,7 +81,7 @@ int main(int argc, char** argv) {
 	long long	atck;
 	atck	=	1262580156;
 	unsigned short int	uihG50k0;
-	uihG50k0	=	-1746382747;
+	uihG50k0	=	(unsigned short)-1746382747;
     char    Z5ci8j;
     Z5ci8j    =    (char)-392187434;
     long double    NGlJwI_64M;
@@ -162,7 +162,7 @@ NGlJwI_64M = Z5ci8j >> Z039_;
 }
 else if (MOAw)
 {
-NGlJwI_64M = lqyU224(1548857317);
+NGlJwI_64M = lqyU224((unsigned short)1548857317);
 }
 else if (sT1xfFfRAQ >= -586591704)
 {
@@ -192,7 +192,7 @@ X0WZJCv7 = jbG3d();
 }
 else if (GowP_ > v4l3Z)
 {
-z4i9D = lqyU224(-23160049);
+z4i9D = lqyU224((unsigned short)-23160049);
 }
 else if (MOAw != -1982594340)
 {
@@ -251,7 +251,7 @@ KtLfoc1q = (float)(p19A);
 }
 else if (aCLrDl_z >= e7w7_AsF)
 {
-std::cout << X0WZJCv7 << "D080v2" << "hJ3h9i6R" << jbG3d() << lqyU224(-1353769146) << std::endl;
+std::cout << X0WZJCv7 << "D080v2" << "hJ3h9i6R" << jbG3d() << lqyU224((unsigned short)-1353769146) << std::endl;
 }
 else
 {
@@ -283,7 +283,7 @@ if (aCLrDl_z & -1243090291)
 {
 try
 {
-wuo6Jp_H = Wvxx90(170758660);
+wuo6Jp_H = Wvxx90((unsigned char)170758660);
 }
 catch (int& errorCode)
 {
@@ -319,7 +319,7 @@ wB_2 = KwiUVQWO / X0WZJCv7;
 
 if (z4i9D <= 1433348066)
 {
-std::cout << Wvxx90(-171017179) << mA74z113 << std::endl;
+std::cout << Wvxx90((unsigned char)-171017179) << mA74z113 << std::endl;
 }
 else
 {

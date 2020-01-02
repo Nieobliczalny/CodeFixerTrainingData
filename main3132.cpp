@@ -16,7 +16,7 @@ unsigned short int	MZ86(long long	j6qKt_iVo7,short	o0akJlSx7,int	lUQCXV4SCS,int	
 
 int main(void) {
 	long long	FZhf	=	908751873;
-	char	EU4dbnur	=	-309990900;
+	char	EU4dbnur	=	(char)-309990900;
     short int    hvgy67q8Oz    =    (short)342606897;
  unsigned short int d1Vc87qCB = 0;
  int x3d6l_VR7P = -795426209;
@@ -26,7 +26,7 @@ int main(void) {
 	unsigned char	S9IHu22E	=	1640385509;
 	unsigned short	n7ySe	=	-965454368;
 	int	P35M6	=	-443030962;
-	short	R5LF142L	=	-1928219570;
+	short	R5LF142L	=	(short)-1928219570;
 	int	QMbS0uW	=	1382753560;
     unsigned short int    oighm4    =    0;
  long K74Ql9ETd2 = 0;
@@ -38,7 +38,7 @@ int main(void) {
 	short	mV0P8hK	=	1521177935;
 	unsigned long	jY3HL8f7SH	=	1429491973;
  long uqoH7 = -633294415;
-	char	eJU2	=	990349617;
+	char	eJU2	=	(char)990349617;
  long ZN0v652H = 899520429;
     long    K_3Yoweq3P    =    621002573;
   short  veFc8  =  (short)1788366535;
@@ -50,7 +50,7 @@ int main(void) {
 	int	L44EZcC2Zx	=	571062651;
  float d6Cxq2 = -951981717;
   int  d2Pt86_Ooa  =  1539977097;
-    unsigned char    pORu6G_ZaZ    =    1680682370;
+    unsigned char    pORu6G_ZaZ    =    (unsigned char)1680682370;
   char  YpGVfb  =  (char)1141826510;
  long long xBgPz1cB = -1087514443;
  float viK2 = 1382240434;
@@ -62,7 +62,7 @@ int main(void) {
 	long	Jpq2zElWRj	=	-1078207352;
 	unsigned long	YIwWp2v	=	-466694118;
  long long WF5b8rq = 0;
- unsigned short int EiM36s1G = 1280408664;
+ unsigned short int EiM36s1G = (unsigned short)1280408664;
 	float	XID1	=	-585866883;
  float cv2zuPVWnD = -1732093303;
  unsigned short ii4KfaI6IV = (unsigned short)131541063;
@@ -74,7 +74,7 @@ int main(void) {
     unsigned int    SEs9d3G    =    982794708;
   float  jo4ojL581  =  -126253146;
  long sQ_kdlRq = 1939196563;
-	unsigned char	DW8zGM1d6o	=	1233739616;
+	unsigned char	DW8zGM1d6o	=	(unsigned char)1233739616;
  short TNHV101J9 = (short)-95136913;
     unsigned char    F7M99    =    -1547741966;
  unsigned long long wgYPe98a = 1729211068;
@@ -103,7 +103,7 @@ catch (int& errorCode)
 eHaSpL = (int)abs(x3d6l_VR7P);
 }
 
-d1Vc87qCB = ez65qCo(cv2zuPVWnD, jo4ojL581, SEs9d3G, -896571361);
+d1Vc87qCB = ez65qCo(cv2zuPVWnD, jo4ojL581, SEs9d3G, (unsigned short)-896571361);
 {
 int i = 0;
 do
@@ -193,7 +193,7 @@ else
 int k = 7;
 do
 {
-K74Ql9ETd2 = ez65qCo(mV0P8hK, L44EZcC2Zx, -130473711, P35M6);
+K74Ql9ETd2 = ez65qCo(mV0P8hK, L44EZcC2Zx, (unsigned char)-130473711, P35M6);
 --k;
 }
 while (k >= 0);
@@ -213,7 +213,7 @@ if (uqoH7 < -1425843830)
 {
 if (aqVj > fbNtkRjy_B)
 {
-U_gwiW = MZ86(U_gwiW, -626470760, 1858826304, -632517700, (unsigned short)442610920);
+U_gwiW = MZ86(U_gwiW, (short)-626470760, 1858826304, -632517700, (unsigned short)442610920);
 }
 }
 else
@@ -240,7 +240,7 @@ case 'e':
 Wao4166jYr = ZjxN(178554108, -1764187606, 1792061870);
 break;
 case 'f':
-TwRyt1Vm2 = ez65qCo(925612016, -187647386, (unsigned char)827098431, XID1);
+TwRyt1Vm2 = ez65qCo(925612016, (unsigned short)-187647386, (unsigned char)827098431, XID1);
 break;
 default:
 DW8zGM1d6o = ez65qCo(-1849420568, -941126035, -1772816947, XID1) - 2016751580;
@@ -334,7 +334,7 @@ while (k >= 0);
 K_3Yoweq3P = (long)(d2Pt86_Ooa);
 
 Aht2 = (int)abs(d6Cxq2);
-std::cout << ez65qCo(MBalh8j, -1773332278, (unsigned char)-959988322, -1533547741) << "Nu0B_n" << F7M99 << "T_3K" << std::endl;
+std::cout << ez65qCo(MBalh8j, (unsigned short)-1773332278, (unsigned char)-959988322, -1533547741) << "Nu0B_n" << F7M99 << "T_3K" << std::endl;
 
 if (((K74Ql9ETd2 & -167433950) || (oighm4 & 278971750)) || (Wao4166jYr))
 {
@@ -375,7 +375,7 @@ return 0;
 }
 
 short    ZjxN(int    M3hSkvIjR,unsigned long long    uK1KZ,unsigned long long    UTJl)    {
-    return    -820193950;
+    return    (short)-820193950;
 }
 
 short int ez65qCo(unsigned long long eK3gRe,unsigned short int EHwK_yzcE2,unsigned char cmw0,unsigned short int q6IsAO08P)
@@ -385,6 +385,6 @@ short int ez65qCo(unsigned long long eK3gRe,unsigned short int EHwK_yzcE2,unsign
 
 unsigned short int	MZ86(long long	j6qKt_iVo7,short	o0akJlSx7,int	lUQCXV4SCS,int	JpNQ6QOZ,unsigned short	h_EB67_7x)
 {
-	return	-1776674290;
+	return	(unsigned short)-1776674290;
 }
 

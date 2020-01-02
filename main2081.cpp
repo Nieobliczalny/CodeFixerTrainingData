@@ -23,7 +23,7 @@ unsigned int    LM89_(char    gA24)
 
 char	Z3wNdJ_(char	iFf1o)
 {
-	return	361736219;
+	return	(char)361736219;
 }
 
 int main()
@@ -82,7 +82,7 @@ switch (aDziFZ8L4)
 {
 case 'a':
 case 'A':
-aDziFZ8L4 = Z3wNdJ_(-1429980967);
+aDziFZ8L4 = Z3wNdJ_((char)-1429980967);
 break;
 case 'b':
 case 'B':
@@ -94,7 +94,7 @@ UExCCd7JO7 = DR1s + UExCCd7JO7;
 break;
 case 'd':
 case 'D':
-UExCCd7JO7 = LM89_(1112241972);
+UExCCd7JO7 = LM89_((char)1112241972);
 break;
 case 'e':
 case 'E':
@@ -110,7 +110,7 @@ fQ7B *= fQ7B;
 break;
 case 'h':
 case 'H':
-DR1s = Z3wNdJ_(111744143);
+DR1s = Z3wNdJ_((char)111744143);
 break;
 case 'i':
 case 'I':
@@ -123,7 +123,7 @@ break;
 }
 else if ((UExCCd7JO7 < 231788756) || (aDziFZ8L4 <= mQM91))
 {
-ZFe2C = LM89_(1981924952) | aDziFZ8L4;
+ZFe2C = LM89_((char)1981924952) | aDziFZ8L4;
 }
 else if ((DR1s <= P4c5) && ((UExCCd7JO7 & -1833742648) || (DR1s != ZFe2C)))
 {
@@ -172,7 +172,7 @@ do
 {
 if (x08G0dyA == mQM91)
 {
-std::cout << Z3wNdJ_(-2011897558) << std::endl;
+std::cout << Z3wNdJ_((char)-2011897558) << std::endl;
 }
 else if (((DR1s <= -1058636993) && (gBg84vV)) && ((DR1s > mQM91) || (aDziFZ8L4 <= gO17AE)))
 {
@@ -188,7 +188,7 @@ case 2:
 x08G0dyA = Octe0qTvp();
 break;
 case 3:
-DR1s = LM89_(-1010137898);
+DR1s = LM89_((char)-1010137898);
 break;
 case 4:
 DR1s = Z3wNdJ_(DR1s);
@@ -200,7 +200,7 @@ case 6:
 ZFe2C = x08G0dyA & 1913085259;
 break;
 case 7:
-UExCCd7JO7 = Z3wNdJ_(768804911);
+UExCCd7JO7 = Z3wNdJ_((char)768804911);
 break;
 case 8:
 aDziFZ8L4 += aDziFZ8L4;
@@ -235,7 +235,7 @@ x08G0dyA = (int)abs(gBg84vV);
 switch (aDziFZ8L4)
 {
 case 0:
-DR1s = LM89_(-1019026310) * UExCCd7JO7;
+DR1s = LM89_((char)-1019026310) * UExCCd7JO7;
 break;
 case 1:
 gBg84vV = (int)abs(x08G0dyA);
@@ -278,7 +278,7 @@ case 'a':
 fQ7B = ZFe2C & 1667289612;
 break;
 case 'b':
-aDziFZ8L4 = Z3wNdJ_(425942449);
+aDziFZ8L4 = Z3wNdJ_((char)425942449);
 break;
 }
 }
@@ -318,7 +318,7 @@ x08G0dyA = Octe0qTvp();
 }
 else if (fQ7B != aDziFZ8L4)
 {
-fQ7B = Z3wNdJ_(30113445);
+fQ7B = Z3wNdJ_((char)30113445);
 }
 else if (DR1s <= gO17AE)
 {
@@ -359,7 +359,7 @@ gBg84vV = Octe0qTvp();
 
 aDziFZ8L4 = LM89_(aDziFZ8L4);
 
-UExCCd7JO7 = LM89_(-1643395385);
+UExCCd7JO7 = LM89_((char)-1643395385);
 
 if (UExCCd7JO7 < DR1s)
 {
@@ -377,7 +377,7 @@ case 2:
 gBg84vV = (int)abs(x08G0dyA);
 break;
 case 3:
-ZFe2C = LM89_(2129019213);
+ZFe2C = LM89_((char)2129019213);
 break;
 case 4:
 fQ7B /= 609830454;
@@ -395,7 +395,7 @@ case 8:
 x08G0dyA = (int)abs(gBg84vV);
 break;
 case 9:
-ZFe2C = LM89_(-1560406786);
+ZFe2C = LM89_((char)-1560406786);
 break;
 }
 }
@@ -415,7 +415,7 @@ if (fQ7B == 471480642)
 switch (aDziFZ8L4)
 {
 case 0:
-UExCCd7JO7 = LM89_(638415695);
+UExCCd7JO7 = LM89_((char)638415695);
 break;
 case 1:
 x08G0dyA = (int)abs(gBg84vV);
@@ -454,7 +454,7 @@ else if ((x08G0dyA >= -1675279576) && (ZFe2C == gO17AE))
 {
 if (ZFe2C <= P4c5)
 {
-aDziFZ8L4 = LM89_(1680981569);
+aDziFZ8L4 = LM89_((char)1680981569);
 }
 }
 else
@@ -465,7 +465,7 @@ ZFe2C = LM89_(gBg84vV);
 int i = 0;
 while (i < 3)
 {
-std::cout << Z3wNdJ_(1854745616) << DR1s << std::endl;
+std::cout << Z3wNdJ_((char)1854745616) << DR1s << std::endl;
 i++;
 }
 }
@@ -550,7 +550,7 @@ case 'a':
 DR1s &= aDziFZ8L4;
 break;
 case 'b':
-DR1s = LM89_(1630613363);
+DR1s = LM89_((char)1630613363);
 break;
 case 'c':
 ZFe2C <<= aDziFZ8L4;
@@ -570,7 +570,7 @@ break;
 }
 if ((gBg84vV & -2135636652) && ((x08G0dyA > fQ7B) || (ZFe2C & x08G0dyA)))
 {
-std::cout << LM89_(UExCCd7JO7) << "oLYj" << x08G0dyA << Z3wNdJ_(UExCCd7JO7) << LM89_(-573178439) << std::endl;
+std::cout << LM89_(UExCCd7JO7) << "oLYj" << x08G0dyA << Z3wNdJ_(UExCCd7JO7) << LM89_((char)-573178439) << std::endl;
 }
 else if (fQ7B <= P4c5)
 {
@@ -584,7 +584,7 @@ aDziFZ8L4 = Z3wNdJ_((char)1891639398);
 }
 else if ((aDziFZ8L4 <= -1567000366) && ((fQ7B <= mQM91) || (ZFe2C)))
 {
-std::cout << aDziFZ8L4 << "ik0_u_3e4" << Z3wNdJ_(-1298126713) << std::endl;
+std::cout << aDziFZ8L4 << "ik0_u_3e4" << Z3wNdJ_((char)-1298126713) << std::endl;
 }
 else
 {

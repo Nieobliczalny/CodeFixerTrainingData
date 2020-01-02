@@ -151,7 +151,7 @@ else if ((Sle2v_ <= -541538866) && (Pkw5C <= 1352391780))
 int k = 3;
 do
 {
-K855v = I9PF_kbR(181065057, 1957540301, 130854827, y_5Gin);
+K855v = I9PF_kbR(181065057, (short)1957540301, 130854827, y_5Gin);
 --k;
 }
 while (k >= 0);
@@ -293,7 +293,7 @@ wBPcRpW = (Y4L6UU349D <= 970050151) ? -165565220 : VN7F0A;
 }
 else if (aG6e54)
 {
-R_8RW_ICnm = bIg8xh0gj(R_8RW_ICnm, -1543189472, svbd8p_Kr, 628089968);
+R_8RW_ICnm = bIg8xh0gj(R_8RW_ICnm, -1543189472, svbd8p_Kr, (short)628089968);
 }
 else if (IAm0HOt == -646473127)
 {
@@ -322,7 +322,7 @@ else
 {
 if (((DiPeC & VN7F0A) || (Pkw5C > VN7F0A)) && (h15Ef))
 {
-fF45Ziv = D94kJ6(603676415, -1260829993, -201364785, nBFR7l30);
+fF45Ziv = D94kJ6(603676415, (short)-1260829993, -201364785, nBFR7l30);
 }
 else
 {
@@ -397,7 +397,7 @@ aLUe_n *= 1595741025;
 
 if (RFmDhHKY >= VN7F0A)
 {
-std::cout << EDJW0nIeiP << "x_4o_Cgb_p" << D94kJ6(1336341060, -1028514408, Xb24MFd, JLTb__) << I9PF_kbR(-1957232277, R_8RW_ICnm, Xb24MFd, JLTb__) << d3QMYNiJ << std::endl;
+std::cout << EDJW0nIeiP << "x_4o_Cgb_p" << D94kJ6(1336341060, (short)-1028514408, Xb24MFd, JLTb__) << I9PF_kbR(-1957232277, R_8RW_ICnm, Xb24MFd, JLTb__) << d3QMYNiJ << std::endl;
 }
 else if (Mk5f122 == 1919422711)
 {
@@ -420,7 +420,7 @@ EdJSlG6 = (int)abs(Mk5f122);
 }
 else if (Dyat9Btig4 != N90um)
 {
-std::cout << I9PF_kbR(255785698, -1409727198, Xb24MFd, JLTb__) << FTyLgPamf() << FTyLgPamf() << std::endl;
+std::cout << I9PF_kbR(255785698, (short)-1409727198, Xb24MFd, JLTb__) << FTyLgPamf() << FTyLgPamf() << std::endl;
 }
 else
 {
@@ -468,7 +468,7 @@ Z_PiYG = (int)ceil(D77_Z_1);
 }
 else
 {
-Pkw5C = bIg8xh0gj(Pkw5C, 412222059, 955074100, 1923648567);
+Pkw5C = bIg8xh0gj(Pkw5C, 412222059, 955074100, (short)1923648567);
 }
 
 C72Nn2O71w = q48SmGo / DiPeC;
@@ -483,7 +483,7 @@ int V5H50x_89y()
 
 unsigned short	bIg8xh0gj(unsigned char	jcF3L,unsigned long long	hiXb17,unsigned long long	tUA4Mow,short	mI1nFEZ)
 {
-	return	867349958;
+	return	(unsigned short)867349958;
 }
 
 unsigned long  D94kJ6(unsigned long long  Md6Ji1xN,short  M_at8i,unsigned long long  M3eX0c,short  jDwe4X8B5)  {

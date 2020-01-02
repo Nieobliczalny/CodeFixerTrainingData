@@ -22,7 +22,7 @@ int main()
     unsigned long    h9VZ_2;
     h9VZ_2    =    1507691097;
     unsigned short int    eYF7;
-    eYF7    =    -1859163458;
+    eYF7    =    (unsigned short)-1859163458;
     unsigned short int    EBro_13e;
     EBro_13e    =    0;
 	unsigned short int	E8l4N;
@@ -42,7 +42,7 @@ int main()
  double eps9i;
  eps9i = 1934855049;
  unsigned short int kp9M71;
- kp9M71 = -1300677448;
+ kp9M71 = (unsigned short)-1300677448;
 	char	dQr1bZcC;
 	dQr1bZcC	=	(char)-114838650;
     unsigned char    nC20;

@@ -18,7 +18,7 @@ using std::ceil;
 using std::floor;
 
 unsigned char	AT00a7kh(unsigned long	uc_YK543)	{
-	return	-91513511;
+	return	(unsigned char)-91513511;
 }
 
 unsigned int Nbtv(unsigned long CVKpp39og) {
@@ -32,7 +32,7 @@ int main()
  double Hmi6W6OAb;
  Hmi6W6OAb = -1174659762;
  short int aTooo6R;
- aTooo6R = 1389714922;
+ aTooo6R = (short)1389714922;
  unsigned short rycDdhWPL;
  rycDdhWPL = (unsigned short)-864061294;
 	double	maQV7e;
@@ -44,7 +44,7 @@ int main()
 	float	n9vI;
 	n9vI	=	1749174263;
     unsigned char    cNRJEjp0;
-    cNRJEjp0    =    1425226707;
+    cNRJEjp0    =    (unsigned char)1425226707;
 	double	WX5do;
 	WX5do	=	-88096259;
 	long long	A1gxoQC;
@@ -56,7 +56,7 @@ int main()
     long double    ea58QtPhC5;
     ea58QtPhC5    =    -1916193812;
   unsigned char  Xbf7VpB;
-  Xbf7VpB  =  -1674171081;
+  Xbf7VpB  =  (unsigned char)-1674171081;
   unsigned int  VV_M6Z6;
   VV_M6Z6  =  2086691244;
   long long  hwiT3_ewP;
@@ -74,7 +74,7 @@ int main()
  unsigned int CqP0a7;
  CqP0a7 = 1323898295;
 	short	vn33qp;
-	vn33qp	=	-1158333940;
+	vn33qp	=	(short)-1158333940;
 	long long	h5f2zu;
 	h5f2zu	=	-1106884892;
     unsigned long long    XqTkQ_;
@@ -86,7 +86,7 @@ int main()
  unsigned long C21e;
  C21e = -1404723945;
     unsigned short    KM_T4mXO;
-    KM_T4mXO    =    659373609;
+    KM_T4mXO    =    (unsigned short)659373609;
     unsigned int    lv_0;
     lv_0    =    685063288;
 	long long	WT3lY10XJl;
@@ -118,7 +118,7 @@ int main()
     unsigned int    dCJO;
     dCJO    =    1347437774;
     unsigned short    pti48W93f;
-    pti48W93f    =    -1276577461;
+    pti48W93f    =    (unsigned short)-1276577461;
   unsigned char  F_s84XRI9;
   F_s84XRI9  =  0;
     unsigned long    JKSo;
@@ -134,7 +134,7 @@ int main()
  unsigned long long kD0_f;
  kD0_f = 1143764417;
  unsigned char yrT5FkF;
- yrT5FkF = 874744000;
+ yrT5FkF = (unsigned char)874744000;
   float  Hgz0;
   Hgz0  =  -1628333605;
     int    a_6TS;

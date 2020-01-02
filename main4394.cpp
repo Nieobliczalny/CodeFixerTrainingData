@@ -112,7 +112,7 @@ case 0:
 eWkh10y -= OE_4b03H;
 break;
 case 1:
-DYYiA = Yn7O(1656442438, PyHJzZ07A);
+DYYiA = Yn7O((short)1656442438, PyHJzZ07A);
 break;
 case 2:
 r9iWqv7yoS = MTuItu4Cl(ynkp, -1068425194, KOZ2lS);
@@ -124,7 +124,7 @@ case 4:
 MXj5a4E2 = MTuItu4Cl((short)-1708899039, O9ePGD0I, -1811822439);
 break;
 case 5:
-goNV9qhC = Yn7O(-1920176345, -1012482677);
+goNV9qhC = Yn7O((short)-1920176345, -1012482677);
 break;
 case 6:
 olWt_d1HY = MTuItu4Cl(olWt_d1HY, 1888176404, -1146347380);
@@ -193,7 +193,7 @@ case 0:
 j_RYU1U = (int)abs(bvKoK);
 break;
 case 1:
-H1_09 = MTuItu4Cl(-1949472819, -1914245700, A_XY6IW);
+H1_09 = MTuItu4Cl((short)-1949472819, -1914245700, A_XY6IW);
 break;
 case 2:
 b3VT = MTuItu4Cl(b3VT, oGi5S94qq, 1293503507);
@@ -236,7 +236,7 @@ switch (h80Ef)
 {
 case 'a':
 case 'A':
-NPti1j6V = MTuItu4Cl(-1312538155, vfKqu5, -1656862520);
+NPti1j6V = MTuItu4Cl((short)-1312538155, vfKqu5, -1656862520);
 break;
 case 'b':
 case 'B':
@@ -248,7 +248,7 @@ ynkp = Yn7O(1534539107, b3VT);
 break;
 case 'd':
 case 'D':
-v9yp4BD = MTuItu4Cl(1170483393, v9yp4BD, -2090559332);
+v9yp4BD = MTuItu4Cl((short)1170483393, v9yp4BD, -2090559332);
 break;
 case 'e':
 case 'E':
@@ -265,7 +265,7 @@ else if (KOZ2lS != 78143194)
 int j = 8;
 while (j >= 0)
 {
-oGi5S94qq = Yn7O(-1977336083, 322786042);
+oGi5S94qq = Yn7O((short)-1977336083, 322786042);
 --j;
 }
 }
@@ -275,7 +275,7 @@ else if (ynkp & oGi5S94qq)
 switch (oGi5S94qq)
 {
 case 0:
-g_93hI588 = MTuItu4Cl(-1316670820, g_93hI588, -296863499);
+g_93hI588 = MTuItu4Cl((short)-1316670820, g_93hI588, -296863499);
 break;
 case 1:
 ynkp = Yn7O((short)1929317590, wdyvWI08uB);
@@ -335,7 +335,7 @@ else if (uWFY0o80c < r9iWqv7yoS)
 {
 if (Xjhbp51HNV == 103971072)
 {
-oGi5S94qq = Yn7O(717472845, -1768884319);
+oGi5S94qq = Yn7O((short)717472845, -1768884319);
 }
 }
 else if (e_8d == f2411_Np4)
@@ -361,7 +361,7 @@ else if ((ynkp > g_93hI588) || (vfKqu5))
 switch (goNV9qhC)
 {
 case 'a':
-r9iWqv7yoS = MTuItu4Cl(-2089562227, 1815520083, -656848680) >> 376222392;
+r9iWqv7yoS = MTuItu4Cl((short)-2089562227, 1815520083, -656848680) >> 376222392;
 break;
 case 'b':
 h80Ef = Yn7O((short)1140225810, 464849285);

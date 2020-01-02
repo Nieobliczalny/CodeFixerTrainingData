@@ -18,7 +18,7 @@ using std::ceil;
 using std::floor;
 
 unsigned short int    G20J2q0PL(char    FRSr,long    CC69,short int    A6bq83_0H,unsigned long    uW0sD2dd,unsigned int    A4l1Qs)    {
-    return    557662977;
+    return    (unsigned short)557662977;
 }
 
 unsigned short int    Dg0RK()    {
@@ -31,7 +31,7 @@ unsigned long    I35X9N(unsigned short    HEib61q,short int    p_6l)
 }
 
 unsigned short  TUI_G(short  jfn8,char  K5MyG)  {
-  return  -1662017150;
+  return  (unsigned short)-1662017150;
 }
 
 short    RguVI(unsigned short int    en9T5M1)
@@ -43,7 +43,7 @@ int main(void) {
     int    Ykl34WEsBQ;
     Ykl34WEsBQ    =    0;
   short int  A5126di9_b;
-  A5126di9_b  =  -1024477398;
+  A5126di9_b  =  (short)-1024477398;
     unsigned long    SuWG_kY4r;
     SuWG_kY4r    =    0;
 	double	Udh4us;
@@ -53,7 +53,7 @@ int main(void) {
   double  F3dY67T;
   F3dY67T  =  -1554678469;
     unsigned short int    s7_x;
-    s7_x    =    -933410215;
+    s7_x    =    (unsigned short)-933410215;
     unsigned short int    ab4B;
     ab4B    =    (unsigned short)1251013332;
     int    sSVPOP7y7;
@@ -63,7 +63,7 @@ int main(void) {
  long octREB;
  octREB = 2021077918;
  unsigned short int g77213O1L;
- g77213O1L = 1855474942;
+ g77213O1L = (unsigned short)1855474942;
 	long	NOqkY2m;
 	NOqkY2m	=	0;
 
@@ -150,7 +150,7 @@ F3dY67T = (int)floor(Udh4us);
 yXqm4vu &= g77213O1L;
 
 NOqkY2m = (int)abs(Ykl34WEsBQ);
-std::cout << G20J2q0PL(-25119154, 628440081, A5126di9_b, yXqm4vu, ab4B) << I35X9N((unsigned short)-541738503, -1381634544) << RguVI(sSVPOP7y7) << std::endl;
+std::cout << G20J2q0PL((char)-25119154, 628440081, A5126di9_b, yXqm4vu, ab4B) << I35X9N((unsigned short)-541738503, -1381634544) << RguVI(sSVPOP7y7) << std::endl;
 
 std::cout << Udh4us << std::endl;
 {
@@ -162,7 +162,7 @@ do
 int j = 0;
 while (j < 8)
 {
-yXqm4vu = TUI_G(799728337, (char)-1106843864);
+yXqm4vu = TUI_G((short)799728337, (char)-1106843864);
 ++j;
 }
 }

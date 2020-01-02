@@ -27,7 +27,7 @@ int main()
  float I1_n174;
  I1_n174 = -45935589;
  short int j11iCtsj;
- j11iCtsj = -831512405;
+ j11iCtsj = (short)-831512405;
  unsigned char aeDmz4U19;
  aeDmz4U19 = (unsigned char)485858541;
     unsigned long    lrJB1a7;
@@ -558,6 +558,6 @@ unsigned long long  W08r8(unsigned int  fL2rP)  {
 }
 
 unsigned short int    jw90i931(unsigned long long    QE936_D3F)    {
-    return    927091555;
+    return    (unsigned short)927091555;
 }
 

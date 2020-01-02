@@ -18,7 +18,7 @@ using std::ceil;
 using std::floor;
 
 unsigned char  dK3_08()  {
-  return  -530587370;
+  return  (unsigned char)-530587370;
 }
 
 short	HR4D91j()	{
@@ -31,7 +31,7 @@ int  L3gl(char  XR819Pw,unsigned int  m0W93,unsigned char  SSeIwlo8f,int  WNMZl0
 
 short int o1PcNuU(unsigned int ycapS1SAB,long long b4n12iWmo,unsigned char P0IO,char YSHaz5Ft)
 {
- return -1136919688;
+ return (short)-1136919688;
 }
 
 int main(int argc, char** argv) {
@@ -62,7 +62,7 @@ saAyB64 = HR4D91j();
 }
 else if (StWhH4WYA < CpSD)
 {
-NAP704I_DC = L3gl(169410682, 482428420, (unsigned char)2063525125, yW_1hU6e);
+NAP704I_DC = L3gl((char)169410682, 482428420, (unsigned char)2063525125, yW_1hU6e);
 }
 else
 {
@@ -72,7 +72,7 @@ A3Wo4DU = L3gl(A3Wo4DU, G_bNCe, f_GuF, hCj59Xx143);
 }
 }
 }
-cout << L3gl(A3Wo4DU, G_bNCe, f_GuF, hCj59Xx143) << "btt0" << HR4D91j() << "EFOX" << o1PcNuU(-493252903, 1694430371, -1721504921, (char)-338666602) << endl;
+cout << L3gl(A3Wo4DU, G_bNCe, f_GuF, hCj59Xx143) << "btt0" << HR4D91j() << "EFOX" << o1PcNuU(-493252903, 1694430371, (unsigned char)-1721504921, (char)-338666602) << endl;
 {
 int i = 0;
 while (i < 4)

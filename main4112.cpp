@@ -94,7 +94,7 @@ case 'a':
 I2Ggc0_255 = RY7_76EzW9();
 break;
 case 'b':
-GrBdNbV_60 = M_2DILsw(GrBdNbV_60, -1152158316, (unsigned char)-1107958098);
+GrBdNbV_60 = M_2DILsw(GrBdNbV_60, (char)-1152158316, (unsigned char)-1107958098);
 break;
 case 'c':
 X6zs5tZ = jkmRFP(X6zs5tZ, wo8xk6);
@@ -127,7 +127,7 @@ yrz5y = RY7_76EzW9();
 }
 else
 {
-XDyJ = jkmRFP(-1612793282, Oen7smEbTP);
+XDyJ = jkmRFP((short)-1612793282, Oen7smEbTP);
 }
 --j;
 }
@@ -157,6 +157,6 @@ unsigned long  RY7_76EzW9()
 
 unsigned short    jkmRFP(short int    av3x_OKmM1,unsigned long    MqlvG73tC)
 {
-    return    1987760583;
+    return    (unsigned short)1987760583;
 }
 

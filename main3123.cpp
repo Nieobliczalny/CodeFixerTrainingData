@@ -29,7 +29,7 @@ int main() {
   unsigned long  lXheds;
   lXheds  =  294758563;
  unsigned char nI26;
- nI26 = -885616802;
+ nI26 = (unsigned char)-885616802;
   unsigned short int  Qx0zYc;
   Qx0zYc  =  (unsigned short)473219150;
   short int  hZUX;
@@ -39,7 +39,7 @@ int main() {
     double    sQ7_OE;
     sQ7_OE    =    1425973861;
  short m1_5F8R7C;
- m1_5F8R7C = -87269200;
+ m1_5F8R7C = (short)-87269200;
 	long	unS_9Y;
 	unS_9Y	=	-172341261;
   short  n_zDRx8C;
@@ -49,7 +49,7 @@ int main() {
  float E_rFn;
  E_rFn = -1873781272;
   unsigned char  iDJVzSThDX;
-  iDJVzSThDX  =  1543845814;
+  iDJVzSThDX  =  (unsigned char)1543845814;
   float  BIXcaL;
   BIXcaL  =  -1434364736;
     long double    d9wn8GV;
@@ -69,7 +69,7 @@ int main() {
  double RyBOjCNC_I;
  RyBOjCNC_I = 1990069495;
  unsigned char J0PlbH0X7;
- J0PlbH0X7 = 1940030204;
+ J0PlbH0X7 = (unsigned char)1940030204;
  unsigned long x_d2A;
  x_d2A = 176046376;
  long long xNQM58F;
@@ -83,7 +83,7 @@ int main() {
 	double	WB9tzc3;
 	WB9tzc3	=	-1769878483;
  short Eq1eqg;
- Eq1eqg = 408368902;
+ Eq1eqg = (short)408368902;
   unsigned int  nVxsHhAOQ;
   nVxsHhAOQ  =  619554522;
  long long a0bTg4sHb8;
@@ -109,7 +109,7 @@ int main() {
  float wU22neFho;
  wU22neFho = -785640865;
  char f0WcQ7uP2d;
- f0WcQ7uP2d = -1166789689;
+ f0WcQ7uP2d = (char)-1166789689;
 	int	q2Dt8_SZv;
 	q2Dt8_SZv	=	1594067780;
  unsigned char e28JlQD_v;
@@ -119,7 +119,7 @@ int main() {
  unsigned short cdzw912u5l;
  cdzw912u5l = -803902332;
     unsigned short int    dxJG;
-    dxJG    =    -649598324;
+    dxJG    =    (unsigned short)-649598324;
     double    boquwC;
     boquwC    =    -2043296738;
  unsigned short C75n_E;
@@ -129,7 +129,7 @@ int main() {
  char VKG4;
  VKG4 = -348993328;
     unsigned short    Gg0g1;
-    Gg0g1    =    1063448333;
+    Gg0g1    =    (unsigned short)1063448333;
     unsigned long long    jSBgh;
     jSBgh    =    -405191280;
  char GBdr;
@@ -194,7 +194,7 @@ int j = 0;
 do
 {
 ++j;
-fzm4w42Tr = (aO4t0) ? 1894141141 : (short)-1008810300;
+fzm4w42Tr = (aO4t0) ? (short)1894141141 : (short)-1008810300;
 }
 while (j < 2);
 }

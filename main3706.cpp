@@ -170,7 +170,7 @@ case 3:
 Q5173tz = sV_kK2Ulg - 1216380440;
 break;
 case 4:
-Q5173tz = PX17I3ZZl(Q5173tz, 883130054, 478856069, o_hjwKKn);
+Q5173tz = PX17I3ZZl(Q5173tz, 883130054, (unsigned char)478856069, o_hjwKKn);
 break;
 }
 --j;
@@ -294,7 +294,7 @@ for (int i = 9; i >= 0; --i)
 jXMFR4vUwC = ae9Y4();
 }
 
-std::cout << PX17I3ZZl(-52168174, V2Vc1, S7lwl7qQ, 2068522349) << "PKshgSL_k" << xMMxzq << MLSpvz_FYX() << std::endl;
+std::cout << PX17I3ZZl((short)-52168174, V2Vc1, S7lwl7qQ, 2068522349) << "PKshgSL_k" << xMMxzq << MLSpvz_FYX() << std::endl;
 
 if (Hrl6 > -1602283500)
 {
@@ -320,7 +320,7 @@ return 0;
 
 short    NDmrfY0()
 {
-    return    1937842213;
+    return    (short)1937842213;
 }
 
 short int MLSpvz_FYX()
@@ -338,6 +338,6 @@ int PX17I3ZZl(short int Ps7VZK,unsigned long long O90LIjUQHY,unsigned char a7e9O
 
 short int	ae9Y4()
 {
-	return	-1416218346;
+	return	(short)-1416218346;
 }
 

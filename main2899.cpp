@@ -11,7 +11,7 @@ using namespace std;
 int main()
 {
 	char	D55P09;
-	D55P09	=	-1136172841;
+	D55P09	=	(char)-1136172841;
   short  y7PX0TZ;
   y7PX0TZ  =  (short)-272305281;
   long long  M_rzCAH;
@@ -25,7 +25,7 @@ int main()
     unsigned long    PQ27D80sT;
     PQ27D80sT    =    -93556950;
   short int  hv8yu;
-  hv8yu  =  -1569078485;
+  hv8yu  =  (short)-1569078485;
   double  SL20RebO;
   SL20RebO  =  -458315686;
 	long	I26Js2NQ4r;
@@ -35,7 +35,7 @@ int main()
     short int    sl5_3och;
     sl5_3och    =    -1420229456;
     unsigned short int    tG8ngn6ro6;
-    tG8ngn6ro6    =    -441104367;
+    tG8ngn6ro6    =    (unsigned short)-441104367;
  unsigned long long XUmFwhWpA;
  XUmFwhWpA = -649561674;
     long    v8xUoN_2;
@@ -49,7 +49,7 @@ int main()
 	float	Te0osz;
 	Te0osz	=	-1001780931;
   char  DvW8K9k7;
-  DvW8K9k7  =  -557673884;
+  DvW8K9k7  =  (char)-557673884;
   short  axv3K5v;
   axv3K5v  =  (short)-679424914;
     char    EPnRL6_O;
@@ -63,7 +63,7 @@ int main()
     long double    Z_2bM6_;
     Z_2bM6_    =    82834233;
  char rD_5v;
- rD_5v = -811476019;
+ rD_5v = (char)-811476019;
     short int    dS0_h;
     dS0_h    =    (short)969599553;
  unsigned short J_59Tt8Fg1;
@@ -79,7 +79,7 @@ int main()
   double  LD23n_t4F9;
   LD23n_t4F9  =  1445028354;
   unsigned short  Ag94;
-  Ag94  =  -1749029680;
+  Ag94  =  (unsigned short)-1749029680;
   long long  C0zS;
   C0zS  =  -1523989576;
 

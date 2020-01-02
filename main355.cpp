@@ -9,7 +9,7 @@
 using namespace std;
 
 char m0a_3Z5(long long dL65W5,int suAV9) {
- return -45317855;
+ return (char)-45317855;
 }
 
 unsigned char  hBXjW24al()
@@ -174,7 +174,7 @@ s3uy = hBXjW24al();
 
 for (int i = 0; i < 10; ++i)
 {
-std::cout << hBXjW24al() << Ss1a << mo0vx << J1Ok(-1874183831) << std::endl;
+std::cout << hBXjW24al() << Ss1a << mo0vx << J1Ok((unsigned short)-1874183831) << std::endl;
 }
 
 {
@@ -254,7 +254,7 @@ Gr9S = hBXjW24al();
 }
 else if (s8Vw6 == -974466324)
 {
-lma6xQ3s = J1Ok(-1537932991);
+lma6xQ3s = J1Ok((unsigned short)-1537932991);
 }
 else
 {
@@ -356,7 +356,7 @@ for (int j = 0; j < 1; j++)
 {
 if (t44B != AGY6rEEiw)
 {
-lma6xQ3s = J1Ok(-770066910);
+lma6xQ3s = J1Ok((unsigned short)-770066910);
 }
 }
 i--;
@@ -423,7 +423,7 @@ else if ((s3uy > -589312558) && (z0i0M_O & 654828223))
 {
 try
 {
-LktV4tOH5 = J1Ok(1257708701);
+LktV4tOH5 = J1Ok((unsigned short)1257708701);
 }
 catch (int& errorCode)
 {
@@ -437,7 +437,7 @@ int k = 3;
 do
 {
 --k;
-LktV4tOH5 = J1Ok(-944053067);
+LktV4tOH5 = J1Ok((unsigned short)-944053067);
 }
 while (k >= 0);
 }
@@ -467,7 +467,7 @@ else if (LktV4tOH5 <= -1837420236)
 int j = 0;
 while (j < 7)
 {
-std::cout << J1Ok(453530414) << LjHe3 << hBXjW24al() << "pjbd" << hBXjW24al() << std::endl;
+std::cout << J1Ok((unsigned short)453530414) << LjHe3 << hBXjW24al() << "pjbd" << hBXjW24al() << std::endl;
 j++;
 }
 }
@@ -520,7 +520,7 @@ xJl2JM8Q = hBXjW24al();
 }
 }
 
-std::cout << J1Ok(-1241792677) << "fDdu25sT4B" << "cVmPf" << mD9dN_d << "vEScUVter" << std::endl;
+std::cout << J1Ok((unsigned short)-1241792677) << "fDdu25sT4B" << "cVmPf" << mD9dN_d << "vEScUVter" << std::endl;
 
 return 0;
 }

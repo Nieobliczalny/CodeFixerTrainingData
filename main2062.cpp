@@ -41,7 +41,7 @@ if (hcN9RZuJ >= -922665954)
 {
 if (KD5iMB_Z >= wQa3z)
 {
-TsUP = TIV1D2w(1881132207, -511714123, (char)1159359425) & 1403857462;
+TsUP = TIV1D2w((unsigned short)1881132207, -511714123, (char)1159359425) & 1403857462;
 }
 }
 else
@@ -138,7 +138,7 @@ case 7:
 j3zF = R_s23D67x5(m1QLSvHd);
 break;
 case 8:
-weH2zC8 = TIV1D2w(-1126188515, mhLR_Nk4l, wQa3z);
+weH2zC8 = TIV1D2w((unsigned short)-1126188515, mhLR_Nk4l, wQa3z);
 break;
 default:
 hJ3Y = (TsUP & -1698561411) ? (char)423382774 : 1202883907;
@@ -177,7 +177,7 @@ hcN9RZuJ = (char)(TsUP);
 }
 lX0RnDS5 = hJ3Y / R_s23D67x5(weH2zC8);
 
-std::cout << TIV1D2w(weH2zC8, 2004561524, -1419225998) << R_s23D67x5(weH2zC8) << std::endl;
+std::cout << TIV1D2w(weH2zC8, 2004561524, (char)-1419225998) << R_s23D67x5(weH2zC8) << std::endl;
 KAIaxVzb = (char)(weH2zC8);
 
 try
@@ -288,7 +288,7 @@ case 1:
 wQa3z = zqq9();
 break;
 case 2:
-weH2zC8 = TIV1D2w(2078132520, -780582639, j3zF);
+weH2zC8 = TIV1D2w((unsigned short)2078132520, -780582639, j3zF);
 break;
 case 3:
 lX0RnDS5 = (int)abs(hJ3Y);
@@ -316,7 +316,7 @@ long long  R_s23D67x5(unsigned long  QQT32_31Gx)
 }
 
 short  zqq9()  {
-  return  879600005;
+  return  (short)879600005;
 }
 
 char    TIV1D2w(unsigned short    w6CDC52,int    Sy_7y_,char    QmBQ21)    {

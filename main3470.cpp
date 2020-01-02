@@ -44,7 +44,7 @@ if (OJxqdT > 1797219286)
 int j = 0;
 while (j < 7)
 {
-ONsr8I = t4ns1SQ(dTd46h_zK, 1019467039, -1127041379, Ow82FMa, KVLN_FX);
+ONsr8I = t4ns1SQ(dTd46h_zK, (short)1019467039, -1127041379, Ow82FMa, KVLN_FX);
 ++j;
 }
 }
@@ -68,7 +68,7 @@ for (int j = 0; j < 2; ++j)
 int k = 0;
 while (k < 6)
 {
-KVdV = COUt(-375573602, 1634559311);
+KVdV = COUt(-375573602, (unsigned char)1634559311);
 ++k;
 }
 }
@@ -83,7 +83,7 @@ try
 switch (p19IUq7ZB)
 {
 case 'a':
-Pgt744u = COUt(Pgt744u, -1927752595);
+Pgt744u = COUt(Pgt744u, (unsigned char)-1927752595);
 break;
 case 'b':
 h0lsO0_ = vcEy() & 365417147;
@@ -101,7 +101,7 @@ case 'f':
 KVLN_FX = yc17i % Zy0TzDM;
 break;
 case 'g':
-IGF_P_sgH5 = COUt(198627157, -1713754300);
+IGF_P_sgH5 = COUt(198627157, (unsigned char)-1713754300);
 break;
 case 'h':
 L9Zyf9 = t4ns1SQ(-1194134252, (short)-892487682, 1379248663, IGF_P_sgH5, tkqyvgKJj);
@@ -138,7 +138,7 @@ int k = 0;
 while (k < 1)
 {
 k++;
-ONsr8I = t4ns1SQ(1983325352, -1871296005, Zy0TzDM, p19IUq7ZB, Ow82FMa);
+ONsr8I = t4ns1SQ(1983325352, (short)-1871296005, Zy0TzDM, p19IUq7ZB, Ow82FMa);
 }
 }
 }
@@ -161,7 +161,7 @@ yc17i = vcEy();
 break;
 case 'c':
 case 'C':
-p19IUq7ZB = COUt(p19IUq7ZB, -833518637);
+p19IUq7ZB = COUt(p19IUq7ZB, (unsigned char)-833518637);
 break;
 case 'd':
 case 'D':
@@ -180,7 +180,7 @@ if (lu4Zb != 1252057210)
 int k = 0;
 do
 {
-ONsr8I = t4ns1SQ(IGF_P_sgH5, -2124090496, ZcuSPa, lu4Zb, 452645129);
+ONsr8I = t4ns1SQ(IGF_P_sgH5, (short)-2124090496, ZcuSPa, lu4Zb, 452645129);
 k++;
 }
 while (k < 5);
@@ -205,7 +205,7 @@ else if ((ONsr8I >= 345768824) && (T76G1 & -1968843329))
 {
 for (int k = 4; k >= 0; --k)
 {
-L9Zyf9 = t4ns1SQ(eh_C7dMY, 907287413, 1233407072, uysvG, L9Zyf9);
+L9Zyf9 = t4ns1SQ(eh_C7dMY, (short)907287413, 1233407072, uysvG, L9Zyf9);
 }
 }
 else if (nXy6 == aA25)
@@ -230,7 +230,7 @@ else
 {
 for (int k = 10; k >= 0; --k)
 {
-eZS0 = t4ns1SQ(eZS0, 1653107480, F9za6, -1312857689, -1317013798);
+eZS0 = t4ns1SQ(eZS0, (short)1653107480, F9za6, -1312857689, -1317013798);
 }
 }
 }
@@ -253,7 +253,7 @@ case 3:
 e14nmgTgC = bmHY_8PV4 + dTd46h_zK;
 break;
 case 4:
-L9Zyf9 = t4ns1SQ(L9Zyf9, -284743402, 848677755, Jp8UN, tkqyvgKJj);
+L9Zyf9 = t4ns1SQ(L9Zyf9, (short)-284743402, 848677755, Jp8UN, tkqyvgKJj);
 break;
 case 5:
 Ow82FMa = H5gT6l9z35 & 393957865;
@@ -323,7 +323,7 @@ case 'b':
 Pgt744u = vcEy() | bmHY_8PV4;
 break;
 case 'c':
-hIXDt = t4ns1SQ(-1610329121, -561794069, -1813743878, nXy6, C6b25K);
+hIXDt = t4ns1SQ(-1610329121, (short)-561794069, -1813743878, nXy6, C6b25K);
 break;
 default:
 dTd46h_zK = i2qSwx2C * lMDF;
@@ -337,7 +337,7 @@ int k = 0;
 while (k < 8)
 {
 ++k;
-Jp8UN = COUt(1350354271, 1500181202);
+Jp8UN = COUt(1350354271, (unsigned char)1500181202);
 }
 }
 }
@@ -402,7 +402,7 @@ M5Ap = (long long)(aA25);
 switch (znOojRiv)
 {
 case 0:
-wQQ7B = t4ns1SQ(vv_Zl_QG, -1885778735, -1991187212, -2051738889, bmHY_8PV4);
+wQQ7B = t4ns1SQ(vv_Zl_QG, (short)-1885778735, -1991187212, -2051738889, bmHY_8PV4);
 break;
 }
 
@@ -412,7 +412,7 @@ Ow82FMa = (long long)(KVLN_FX);
 }
 else if (KVLN_FX < wQQ7B)
 {
-cout << OJxqdT << vcEy() << g7hA_v3 << COUt(vv_Zl_QG, -300946202) << endl;
+cout << OJxqdT << vcEy() << g7hA_v3 << COUt(vv_Zl_QG, (unsigned char)-300946202) << endl;
 }
 else if (tkqyvgKJj & aA25)
 {
@@ -449,7 +449,7 @@ else if (Jp8UN & IGF_P_sgH5)
 {
 if ((ZcuSPa <= G7BdG) || (Zy0TzDM <= G7BdG))
 {
-IGF_P_sgH5 = COUt(IGF_P_sgH5, -1806552221);
+IGF_P_sgH5 = COUt(IGF_P_sgH5, (unsigned char)-1806552221);
 }
 else
 {
@@ -474,7 +474,7 @@ IGF_P_sgH5 = MzgU + vv_Zl_QG;
 }
 else
 {
-F9za6 = COUt(F9za6, -634515655);
+F9za6 = COUt(F9za6, (unsigned char)-634515655);
 }
 {
 int i = 0;
@@ -485,7 +485,7 @@ try
 {
 if (JZfKZ > 236996039)
 {
-eZS0 = t4ns1SQ(znOojRiv, 669605250, tkqyvgKJj, oS8e703, 1141765231);
+eZS0 = t4ns1SQ(znOojRiv, (short)669605250, tkqyvgKJj, oS8e703, 1141765231);
 }
 else
 {
@@ -504,7 +504,7 @@ for (int i = 0; i < 4; i++)
 {
 zfJ8479sh6 += 1532679054;
 }
-JZfKZ = COUt(1075753556, -1624152843);
+JZfKZ = COUt(1075753556, (unsigned char)-1624152843);
 switch (tkqyvgKJj)
 {
 case 'a':
@@ -546,7 +546,7 @@ case 0:
 C6b25K = vcEy();
 break;
 default:
-lMDF = COUt(-1580411071, -56297366);
+lMDF = COUt(-1580411071, (unsigned char)-56297366);
 break;
 }
 
@@ -572,7 +572,7 @@ short int t4ns1SQ(unsigned long GNN7,short TGf5S,long V93T018J,long bKfW_,unsign
 
 unsigned short int	vcEy()
 {
-	return	-421188176;
+	return	(unsigned short)-421188176;
 }
 
 long  COUt(int  H9d_mot3R,unsigned char  ZDxry)  {

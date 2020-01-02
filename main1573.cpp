@@ -31,7 +31,7 @@ int main(int argc, char** argv)
 nm6F4XPc3 = (unsigned long long)(Sm_tHjbSU);
 for (int i = 8; i >= 0; --i)
 {
-Nsn8_KF = aI_6Yzss(25940932, 1445923980);
+Nsn8_KF = aI_6Yzss((char)25940932, 1445923980);
 }
 
 if (n2YqC5 != fSKG7v0)
@@ -73,7 +73,7 @@ break;
 
 try
 {
-cout << aI_6Yzss(zYSwZ31H, -791477396) << aI_6Yzss(689416131, 1090857158) << endl;
+cout << aI_6Yzss(zYSwZ31H, -791477396) << aI_6Yzss((char)689416131, 1090857158) << endl;
 }
 catch (int& errorCode)
 {
@@ -87,7 +87,7 @@ if (zMHq9 == WZUcv)
 {
 if (JVsS == 2046405073)
 {
-Nsn8_KF = aI_6Yzss(-47475876, Nsn8_KF);
+Nsn8_KF = aI_6Yzss((char)-47475876, Nsn8_KF);
 }
 else if (kXbt8u == -1695874679)
 {
@@ -149,7 +149,7 @@ case 3:
 UJ4n226v = aI_6Yzss(ZLNJo6HrG, -251276356);
 break;
 case 4:
-M11c1vxc8 = aI_6Yzss(679485259, -788511313);
+M11c1vxc8 = aI_6Yzss((char)679485259, -788511313);
 break;
 case 5:
 cTQCkp %= AQ4C9;

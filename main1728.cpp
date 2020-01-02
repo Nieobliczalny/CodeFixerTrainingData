@@ -111,7 +111,7 @@ case 'c':
 xDOX ^= rC0_A;
 break;
 case 'd':
-ee6uG_y7T = (t3YnL <= -1276377800) ? -214391554 : XmjBRy7;
+ee6uG_y7T = (t3YnL <= -1276377800) ? (unsigned short)-214391554 : XmjBRy7;
 break;
 case 'e':
 AL0MPVXJH = rC0_A % 1204856563;
@@ -292,7 +292,7 @@ case 'a':
 P54S = u76g_agUjK / bamtpp498;
 break;
 case 'b':
-C6_W = (OZOoZ8 >= 787335446) ? -775288148 : (unsigned short)1787119962;
+C6_W = (OZOoZ8 >= 787335446) ? (unsigned short)-775288148 : (unsigned short)1787119962;
 break;
 case 'c':
 Fgmn = NUO8xqFK % 1999158;

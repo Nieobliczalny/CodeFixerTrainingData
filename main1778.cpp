@@ -62,7 +62,7 @@ W968JH1e_6 = E452h0y2 / XsphQs1W_;
 }
 else if (Za8q2T3v != -525017493)
 {
-NsH1 = V99VA2io(-1751865958, Za8q2T3v) ^ 2091919364;
+NsH1 = V99VA2io((unsigned char)-1751865958, Za8q2T3v) ^ 2091919364;
 }
 else if (XsY8V == 565286921)
 {
@@ -95,7 +95,7 @@ rqnaa <<= jMwDs68;
 }
 else
 {
-D1q9Ws_ = V99VA2io(-1703216456, q_cIU0);
+D1q9Ws_ = V99VA2io((unsigned char)-1703216456, q_cIU0);
 }
 }
 else
@@ -130,7 +130,7 @@ else if ((TT729JG7K <= 1607229515) || (mSQy0f > 703446850))
 switch (rVMa5Ith6)
 {
 case 0:
-Y3Qc = V99VA2io(2003532396, (unsigned short)1277797767);
+Y3Qc = V99VA2io((unsigned char)2003532396, (unsigned short)1277797767);
 break;
 case 1:
 Y3Qc = V99VA2io(900005961, -1180461510);
@@ -142,7 +142,7 @@ case 3:
 eg7YT = (int)abs(P4Oe6Uxl);
 break;
 default:
-ovV38o = V99VA2io(-1595496412, (unsigned short)-810383541);
+ovV38o = V99VA2io((unsigned char)-1595496412, (unsigned short)-810383541);
 break;
 }
 }
@@ -163,7 +163,7 @@ for (int j = 1; j >= 0; j--)
 {
 if (VNQLn & o15_)
 {
-Y3Qc = V99VA2io(901848042, (unsigned short)-1187000102);
+Y3Qc = V99VA2io((unsigned char)901848042, (unsigned short)-1187000102);
 }
 else
 {
@@ -201,7 +201,7 @@ case 3:
 z562tqn--;
 break;
 case 4:
-ovV38o = V99VA2io(-1359386749, WM7fiDW2IZ);
+ovV38o = V99VA2io((unsigned char)-1359386749, WM7fiDW2IZ);
 break;
 case 5:
 rqnaa |= Jce8To;
@@ -248,7 +248,7 @@ fC1qq96E3_ &= P4Oe6Uxl;
 std::cout << s_Lwb6G << std::endl;
 for (int i = 0; i < 3; i++)
 {
-std::cout << "q3DMZgs" << "YnyrSs2g" << V99VA2io(-604760174, (unsigned short)1196981202) << std::endl;
+std::cout << "q3DMZgs" << "YnyrSs2g" << V99VA2io((unsigned char)-604760174, (unsigned short)1196981202) << std::endl;
 }
 return 0;
 }

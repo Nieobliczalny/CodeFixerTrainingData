@@ -13,7 +13,7 @@ unsigned long	Wl5F36t8();
 int main(void)
 {
  short int k_65rReFI, Wva8a3C5Y, UTB0, BNdivo_, jmc0, lOolYbXAj, H145G_K7, T97780, eWWQWd, TpqNR_RuM, T60oM9x1, de9P27IqN, H_R2ho, pWuVGK, Hs66, BWAm9gPBF_, vVzdkRZ;
-  k_65rReFI = Wva8a3C5Y = UTB0 = BNdivo_ = jmc0 = lOolYbXAj = H145G_K7 = T97780 = eWWQWd = TpqNR_RuM = T60oM9x1 = de9P27IqN = H_R2ho = pWuVGK = Hs66 = BWAm9gPBF_ = vVzdkRZ = 1761185198;
+  k_65rReFI = Wva8a3C5Y = UTB0 = BNdivo_ = jmc0 = lOolYbXAj = H145G_K7 = T97780 = eWWQWd = TpqNR_RuM = T60oM9x1 = de9P27IqN = H_R2ho = pWuVGK = Hs66 = BWAm9gPBF_ = vVzdkRZ = (short)1761185198;
  short Z5i19RyiA, B67xn, r7K4185_Z, eJiL, K_Uj4;
   Z5i19RyiA = B67xn = r7K4185_Z = eJiL = K_Uj4 = 0;
 
@@ -264,7 +264,7 @@ r7K4185_Z = Wl5F36t8();
 }
 else
 {
-T60oM9x1 = (Z5i19RyiA & -771200152) ? -627476652 : H145G_K7;
+T60oM9x1 = (Z5i19RyiA & -771200152) ? (short)-627476652 : H145G_K7;
 }
 --j;
 }

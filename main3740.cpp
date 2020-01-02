@@ -16,7 +16,7 @@ using std::ceil;
 using std::floor;
 
 char    mg88N08()    {
-    return    -818307088;
+    return    (char)-818307088;
 }
 
 unsigned short	Odk9gtM(long	tgW1Q,char	z11346)
@@ -43,7 +43,7 @@ case 'c':
 RZU6x = (int)abs(wk_u8eL);
 break;
 case 'd':
-EeF9NF = Odk9gtM(qahKpvzIKJ, 1725479506);
+EeF9NF = Odk9gtM(qahKpvzIKJ, (char)1725479506);
 break;
 case 'e':
 OMmazI = Odk9gtM(t_YGX, (char)-949776210);
@@ -138,7 +138,7 @@ case 'b':
 hL8nLiq -= aSRKCCrP;
 break;
 case 'c':
-EeF9NF = Odk9gtM(-627974546, -965707771);
+EeF9NF = Odk9gtM(-627974546, (char)-965707771);
 break;
 case 'd':
 q5IP8W50j = mg88N08();
@@ -154,7 +154,7 @@ OWvMY33 = mg88N08();
 break;
 }
 bnJtt9 = mg88N08();
-if ((wSAZ4 / Odk9gtM(bnJtt9, 695154677)) == 384276719)
+if ((wSAZ4 / Odk9gtM(bnJtt9, (char)695154677)) == 384276719)
 {
 wk_u8eL = 932097026 / Odk9gtM(bnJtt9, R7tS7W4_1Q);
 }

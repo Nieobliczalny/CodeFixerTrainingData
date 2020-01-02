@@ -19,7 +19,7 @@ short int  WoO57x(unsigned int  Ms7xuh9Z,long  g71h,long  vNoJ3,char  FdRk153t_1
 int main(int argc, char** argv)
 {
     long long    dSle4fuVj_    =    -14941503;
-	char	WHHn52vl	=	-1592448257;
+	char	WHHn52vl	=	(char)-1592448257;
 	unsigned char	yR_y7E5	=	(unsigned char)-1213533408;
 	double	zwEiz_inP	=	1632062025;
  unsigned long z1B4 = 1971567163;
@@ -30,7 +30,7 @@ int main(int argc, char** argv)
 	unsigned short	Z1V5nWZc	=	721650848;
   long double  cQXb  =  519534329;
 	short int	tF75J06V	=	0;
- unsigned char OCIU4JWZl = -495864993;
+ unsigned char OCIU4JWZl = (unsigned char)-495864993;
     unsigned short int    l36h0JugiP    =    (unsigned short)-1011503302;
 	long long	ZfWTic13	=	1858699642;
  float lJuf356_ = -1858299250;
@@ -67,7 +67,7 @@ case 1:
 HRTr = (int)floor(lJuf356_);
 break;
 default:
-tF75J06V = TtG3(-829039664, -107251125);
+tF75J06V = TtG3(-829039664, (char)-107251125);
 break;
 }
 }
@@ -189,7 +189,7 @@ case 1:
 Z1V5nWZc = OCIU4JWZl >> Dd31B3V1;
 break;
 case 2:
-tF75J06V = TtG3(-1301762173, 858277227);
+tF75J06V = TtG3(-1301762173, (char)858277227);
 break;
 case 3:
 ZfWTic13 = (int)abs(dSle4fuVj_);
@@ -273,6 +273,6 @@ unsigned short    TtG3(unsigned long long    fv_79Jv8Dn,char    qTi_f1)    {
 
 short int  WoO57x(unsigned int  Ms7xuh9Z,long  g71h,long  vNoJ3,char  FdRk153t_1)
 {
-  return  -733968695;
+  return  (short)-733968695;
 }
 

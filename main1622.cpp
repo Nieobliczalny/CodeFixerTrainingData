@@ -20,7 +20,7 @@ short int Rnsu0()
 int main(void)
 {
 	long double	y0WmS7	=	-710151525;
-  char  YtGRJ  =  423431244;
+  char  YtGRJ  =  (char)423431244;
 	long long	XrXM	=	-461580855;
     unsigned long    Ot64    =    0;
     float    nR4IG    =    1463073714;
@@ -30,7 +30,7 @@ int main(void)
 	unsigned long	cz_Y2	=	0;
     float    RBl66U9    =    -1925204939;
   float  vUgSB1p  =  582370722;
-	short	V1qX_o	=	931819591;
+	short	V1qX_o	=	(short)931819591;
   unsigned long  dVV28S  =  0;
     unsigned short int    k0Cw    =    495430953;
  unsigned char cJmd5UF9U = 0;
@@ -164,7 +164,7 @@ vUgSB1p = (int)ceil(S4928u);
 break;
 case 'c':
 case 'C':
-a41Rb1C = (pZ55T0W6 > -181779762) ? RBl66U9 : 327529674;
+a41Rb1C = (pZ55T0W6 > -181779762) ? RBl66U9 : (short)327529674;
 break;
 case 'd':
 case 'D':

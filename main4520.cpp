@@ -16,7 +16,7 @@ int main()
     eJx2_    =    0;
     Ji2L9ZBA    =    0;
     unsigned char    qkxL0,    m_WW,    r6x8,    gN3X8,    BQD_,    xVafr9Fwd,    H86XhSNn,    Z5hF7w_0E1,    QWdm0Y,    jB4325K,    EBpbx_q36h,    s4QXz,    Xs_A,    Y2al,    zSgz,    N58ze,    pPB6T81,    X8nR,    rVhgO,    zBcLWcL,    mGdf4,    M2HI1,    hkky2WS,    E9IA30As,    p8CQ0T,    d2Ls_o,    XL78,    mDCoF9,    Jm0Gb_,    rOrD39N69,    GHEeDV,    pG_k0W,    Q_dh9,    L7oEK,    idMBPuvD_,    foG7SN,    KuJIU9,    esZ_z,    KW6_6oOQPG,    W2b1;
-    qkxL0    =    -2053069766;
+    qkxL0    =    (unsigned char)-2053069766;
     m_WW    =    (unsigned char)-1097161537;
     r6x8    =    1235961892;
     gN3X8    =    -1716491279;
@@ -26,7 +26,7 @@ int main()
     Z5hF7w_0E1    =    1975031778;
     QWdm0Y    =    -133228731;
     jB4325K    =    -1098628461;
-    EBpbx_q36h    =    -400919115;
+    EBpbx_q36h    =    (unsigned char)-400919115;
     s4QXz    =    (unsigned char)-469570358;
     Xs_A    =    -292793667;
     Y2al    =    553053880;
@@ -36,7 +36,7 @@ int main()
     X8nR    =    -1010818090;
     rVhgO    =    -602210199;
     zBcLWcL    =    -973467458;
-    mGdf4    =    270510145;
+    mGdf4    =    (unsigned char)270510145;
     M2HI1    =    (unsigned char)1905445981;
     hkky2WS    =    1631875190;
     E9IA30As    =    1075325072;
@@ -46,7 +46,7 @@ int main()
     mDCoF9    =    -501247274;
     Jm0Gb_    =    1480936205;
     rOrD39N69    =    -157645027;
-    GHEeDV    =    -92201898;
+    GHEeDV    =    (unsigned char)-92201898;
     pG_k0W    =    (unsigned char)1486619348;
     Q_dh9    =    -1022850718;
     L7oEK    =    -369878369;
@@ -110,7 +110,7 @@ case 'b':
 mDCoF9 %= hkky2WS;
 break;
 case 'c':
-hkky2WS = (mGdf4 < qkxL0) ? -791436832 : (unsigned char)-1342983562;
+hkky2WS = (mGdf4 < qkxL0) ? (unsigned char)-791436832 : (unsigned char)-1342983562;
 break;
 case 'd':
 KuJIU9 &= 953658625;
@@ -275,7 +275,7 @@ case 9:
 BQD_ = KW6_6oOQPG & Z5hF7w_0E1;
 break;
 }
-XL78 = (rOrD39N69 & X8nR) ? Ji2L9ZBA : -1070848688;
+XL78 = (rOrD39N69 & X8nR) ? Ji2L9ZBA : (unsigned char)-1070848688;
 {
 int i = 0;
 while (i < 8)
@@ -517,7 +517,7 @@ Y2al = gN3X8 + 216864530;
 }
 else
 {
-gN3X8 = (KuJIU9) ? H86XhSNn : 276833914;
+gN3X8 = (KuJIU9) ? H86XhSNn : (unsigned char)276833914;
 }
 }
 }

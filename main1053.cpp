@@ -22,7 +22,7 @@ int main()
 	int	vZCDWu9;
 	vZCDWu9	=	-1768975547;
   short int  G6ve;
-  G6ve  =  1046459157;
+  G6ve  =  (short)1046459157;
     short int    qPK51XbLB;
     qPK51XbLB    =    (short)638271824;
 	double	Ndjx5;
@@ -36,7 +36,7 @@ int main()
   unsigned long long  U5X3;
   U5X3  =  1518600399;
     unsigned short int    I4W3750CQs;
-    I4W3750CQs    =    546355008;
+    I4W3750CQs    =    (unsigned short)546355008;
 	char	Yy650J9EBt;
 	Yy650J9EBt	=	(char)527631240;
   unsigned char  kcJ__w;
@@ -46,7 +46,7 @@ int main()
   long double  n16gPL63I_;
   n16gPL63I_  =  1116940247;
     short    H9T6;
-    H9T6    =    -2038373969;
+    H9T6    =    (short)-2038373969;
   short int  G67vs1;
   G67vs1  =  (short)-1027382009;
     unsigned long    R8bkd0_ta5;
@@ -56,7 +56,7 @@ int main()
     unsigned short int    akX90bF31q;
     akX90bF31q    =    1243742509;
 	unsigned short	tylZ;
-	tylZ	=	-1649610368;
+	tylZ	=	(unsigned short)-1649610368;
     unsigned long long    ylYd0R5qF;
     ylYd0R5qF    =    -914028385;
 	float	e_lVG;
@@ -68,7 +68,7 @@ int main()
     long    ph1WsogL8;
     ph1WsogL8    =    0;
   short int  qDd4AZ33bV;
-  qDd4AZ33bV  =  1555325522;
+  qDd4AZ33bV  =  (short)1555325522;
 
 xa0A = (int)abs(YSmI_m);
 for (int i = 0; i < 4; i++)
@@ -439,7 +439,7 @@ switch (vZCDWu9)
 {
 case 'a':
 case 'A':
-G67vs1 = (G6ve) ? 673277079 : x11p;
+G67vs1 = (G6ve) ? (short)673277079 : x11p;
 break;
 case 'b':
 case 'B':

@@ -14,7 +14,7 @@ int    KPP6fDMF3F(int    uBp2k3);
 
 int main(void) {
  short int Zc33_6kZ;
- Zc33_6kZ = -564280897;
+ Zc33_6kZ = (short)-564280897;
  short int zKx7;
  zKx7 = (short)1476989166;
  double T2D_q;
@@ -24,7 +24,7 @@ int main(void) {
     unsigned short    wAgSpCwGo5;
     wAgSpCwGo5    =    -1614574924;
  unsigned char YZU8BAoq;
- YZU8BAoq = 1356050872;
+ YZU8BAoq = (unsigned char)1356050872;
   unsigned short  VUr0m;
   VUr0m  =  (unsigned short)-2065888626;
   unsigned int  jI3kAyEJ;
@@ -36,7 +36,7 @@ int main(void) {
   unsigned long  kiv_n_Y;
   kiv_n_Y  =  -1913131686;
  short int hCf16H201k;
- hCf16H201k = 1718534315;
+ hCf16H201k = (short)1718534315;
     unsigned long long    S1WINlLI7;
     S1WINlLI7    =    -1281170658;
  unsigned long BqTgY92zX;
@@ -50,7 +50,7 @@ int main(void) {
  unsigned int nS82FL4NJ;
  nS82FL4NJ = 0;
   unsigned char  cCy4;
-  cCy4  =  268458963;
+  cCy4  =  (unsigned char)268458963;
  short z4OGtA;
  z4OGtA = 872986429;
  unsigned int wcaZV;
@@ -66,7 +66,7 @@ int main(void) {
   double  g8bLdYG1Wk;
   g8bLdYG1Wk  =  1054513337;
 	short int	V1_sFIUWE;
-	V1_sFIUWE	=	969637511;
+	V1_sFIUWE	=	(short)969637511;
 	long double	Y6_st3;
 	Y6_st3	=	400032523;
   unsigned long long  wK0859q51;
@@ -76,7 +76,7 @@ int main(void) {
  long long F0EG03rL9;
  F0EG03rL9 = -177717755;
  unsigned short int aRhxcI2;
- aRhxcI2 = -1200859788;
+ aRhxcI2 = (unsigned short)-1200859788;
  unsigned long u0471sE9V9;
  u0471sE9V9 = -2033583285;
 	long	Pd3aQ;
@@ -88,7 +88,7 @@ int main(void) {
  long long t9j_F1_g4;
  t9j_F1_g4 = -1576056126;
     unsigned short int    mR99yb;
-    mR99yb    =    155148165;
+    mR99yb    =    (unsigned short)155148165;
 	unsigned long	zBbtH;
 	zBbtH	=	-1744246538;
 	short	wShE_f4s;
@@ -100,7 +100,7 @@ int main(void) {
   unsigned long  P7kG3Tx;
   P7kG3Tx  =  843122231;
   char  D35Zs;
-  D35Zs  =  732835603;
+  D35Zs  =  (char)732835603;
   long double  K7Ls1_g;
   K7Ls1_g  =  -2138256183;
   long double  FiNO8;
@@ -112,7 +112,7 @@ int main(void) {
     long long    jeI98G0PaH;
     jeI98G0PaH    =    -1746751117;
   unsigned short  G1b72V6_h;
-  G1b72V6_h  =  37312695;
+  G1b72V6_h  =  (unsigned short)37312695;
  unsigned long nReb7S_6;
  nReb7S_6 = 1942599455;
 	unsigned int	Ukv1pdJYsu;

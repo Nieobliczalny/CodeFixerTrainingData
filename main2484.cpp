@@ -52,7 +52,7 @@ case 'b':
 L0Ck1532 = j1wm % 1960056262;
 break;
 case 'c':
-k5G69W51 = Ml_Mzq0Sd5(2111343333, Fx1_, 1062422376, -574271981, L0Ck1532);
+k5G69W51 = Ml_Mzq0Sd5((unsigned char)2111343333, Fx1_, 1062422376, -574271981, L0Ck1532);
 break;
 case 'd':
 Fe9j_G3E *= uvXfIg;
@@ -87,7 +87,7 @@ case 'b':
 lQ466V -= 1699764370;
 break;
 case 'c':
-k5G69W51 = Ml_Mzq0Sd5(2135088129, QzDH, -684150040, -1060435824, Fx1_);
+k5G69W51 = Ml_Mzq0Sd5((unsigned char)2135088129, QzDH, -684150040, -1060435824, Fx1_);
 break;
 case 'd':
 L0Ck1532 <<= k5G69W51;
@@ -115,7 +115,7 @@ if (zk5CPT3 > Fe9j_G3E)
 {
 if (QzDH)
 {
-mFLSlh30q = PW0MLOumB(1990486178, -1865293347);
+mFLSlh30q = PW0MLOumB((short)1990486178, -1865293347);
 }
 else
 {
@@ -135,7 +135,7 @@ fw4g4 = F516bocO4(fw4g4, 166770075);
 while (i < 9);
 }
 
-u9_ca__ = Ml_Mzq0Sd5(u9_ca__, lQ466V, S5b1MjA, EwuzCz, 1580639301);
+u9_ca__ = Ml_Mzq0Sd5(u9_ca__, lQ466V, S5b1MjA, EwuzCz, (short)1580639301);
 
 fw4g4 = (int)(Fe9j_G3E);
 std::cout << PW0MLOumB(u9_ca__, lQ466V) << j1wm << std::endl;
@@ -150,7 +150,7 @@ int k = 0;
 do
 {
 ++k;
-mFLSlh30q = PW0MLOumB(652573700, QzDH);
+mFLSlh30q = PW0MLOumB((short)652573700, QzDH);
 }
 while (k < 10);
 }
@@ -202,7 +202,7 @@ else
 {
 if (D8Y_HE_9 < S5b1MjA)
 {
-QzDH = Ml_Mzq0Sd5(1517421933, -948176070, 413668376, -1597024397, Fe9j_G3E);
+QzDH = Ml_Mzq0Sd5((unsigned char)1517421933, -948176070, 413668376, -1597024397, Fe9j_G3E);
 }
 }
 }
@@ -212,7 +212,7 @@ zk5CPT3 >>= 181935411;
 }
 
 mFLSlh30q = (long)(fw4g4 * mFLSlh30q);
-mFLSlh30q = PW0MLOumB(-1979861, D8Y_HE_9);
+mFLSlh30q = PW0MLOumB((short)-1979861, D8Y_HE_9);
 
 switch (I5577E3)
 {
@@ -223,7 +223,7 @@ case 1:
 L0Ck1532 = (int)abs(j1wm);
 break;
 case 2:
-w4ypTM = F516bocO4(1216797043, -95780046) - 991006414;
+w4ypTM = F516bocO4((char)1216797043, -95780046) - 991006414;
 break;
 case 3:
 L0Ck1532--;
@@ -254,7 +254,7 @@ return 0;
 
 char	Ml_Mzq0Sd5(unsigned char	u03tG7Wa7,unsigned int	R8SL5SOLhe,unsigned int	FBig,long	jGcB7Sff9,short int	t171WT0Ah)
 {
-	return	-39705241;
+	return	(char)-39705241;
 }
 
 int  F516bocO4(char  X405HZ3ye6,unsigned long  q_x1O5J)  {

@@ -71,7 +71,7 @@ while (k >= 0);
 i--;
 }
 }
-GKW2i_aO2h = -773909282 / wgtR9(1508608375, m2_OGBg, -1948961654, VNIv75U);
+GKW2i_aO2h = -773909282 / wgtR9((char)1508608375, m2_OGBg, -1948961654, VNIv75U);
 
 gZ7796l = BsyVEJaNaG(gZ7796l, (unsigned short)-1405763641, INu3wbiHK, 156412323, DF1F);
 
@@ -82,7 +82,7 @@ while (i < 2)
 {
 if (z8kPh6E)
 {
-std::cout << "M33vD3y0" << BsyVEJaNaG(2136984700, H6kiMw3Ts, INu3wbiHK, 580307493, DF1F) << std::endl;
+std::cout << "M33vD3y0" << BsyVEJaNaG(2136984700, H6kiMw3Ts, INu3wbiHK, (unsigned char)580307493, DF1F) << std::endl;
 }
 else
 {
@@ -121,7 +121,7 @@ do
 switch (W_Dvq734)
 {
 case 0:
-gZ7796l = yfTxG(2065371170, (unsigned short)-1335748372, B_487BH, hH58713IYA, 722922413);
+gZ7796l = yfTxG((unsigned char)2065371170, (unsigned short)-1335748372, B_487BH, hH58713IYA, 722922413);
 break;
 case 1:
 D078Mt0 = GkfY(-93698447, 1748354271, W_Dvq734);
@@ -143,7 +143,7 @@ do
 {
 try
 {
-YQmEJh_uq = Bf7l(YQmEJh_uq, JGrv2E, 441468953, H6kiMw3Ts, (unsigned short)100738570);
+YQmEJh_uq = Bf7l(YQmEJh_uq, JGrv2E, (short)441468953, H6kiMw3Ts, (unsigned short)100738570);
 }
 catch (int& errorCode)
 {
@@ -159,7 +159,7 @@ int i = 0;
 do
 {
 ++i;
-PnhH332Q27 = GkfY(PnhH332Q27, -829324036, Gz6H5);
+PnhH332Q27 = GkfY(PnhH332Q27, (short)-829324036, Gz6H5);
 }
 while (i < 4);
 }
@@ -170,7 +170,7 @@ rk3gLWmQy = (unsigned char)(Yaf4c9b + (HIEu));
 }
 else
 {
-std::cout << wgtR9(PnhH332Q27, 2091664105, 1038082358, -30165008) << INu3wbiHK << "njW4uH" << GkfY(-48998102, 1217757486, Gz6H5) << jf1d5_ << std::endl;
+std::cout << wgtR9(PnhH332Q27, 2091664105, 1038082358, -30165008) << INu3wbiHK << "njW4uH" << GkfY(-48998102, (short)1217757486, Gz6H5) << jf1d5_ << std::endl;
 }
 for (int i = 0; i < 3; i++)
 {
@@ -193,7 +193,7 @@ int k = 6;
 while (k >= 0)
 {
 --k;
-E2nVd9 = BsyVEJaNaG(E2nVd9, 688152997, 1733461330, (unsigned char)-522899930, yh_u);
+E2nVd9 = BsyVEJaNaG(E2nVd9, (unsigned short)688152997, 1733461330, (unsigned char)-522899930, yh_u);
 }
 }
 }
@@ -206,7 +206,7 @@ case 'a':
 XzaG53A = wgtR9(VC8Xh1UGt3, -1912377385, E2nVd9, yh_u);
 break;
 case 'b':
-INu3wbiHK = yfTxG(INu3wbiHK, -5913873, 374889285, 977469490, zi9e_qn);
+INu3wbiHK = yfTxG(INu3wbiHK, (unsigned short)-5913873, 374889285, 977469490, zi9e_qn);
 break;
 case 'c':
 fgfE_4wUv = Bf7l(1691471197, NJ08f1, DE54jc, r67W, yh_u);
@@ -244,7 +244,7 @@ long long	BsyVEJaNaG(long long	fQxc,unsigned short int	Vb72_I80J,unsigned long l
 
 unsigned short int  yfTxG(unsigned char  Q8UyZsJUm,unsigned short  v0vAx_6QN,long long  VdfLC28DAU,unsigned long long  FYZ73_,char  ha6e)
 {
-  return  -1899420905;
+  return  (unsigned short)-1899420905;
 }
 
 char GkfY(long Et7q,short x_bB_K,char Nc3OgGrF) {

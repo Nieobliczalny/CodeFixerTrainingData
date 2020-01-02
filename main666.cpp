@@ -30,7 +30,7 @@ int main(int argc, char** argv)
 	unsigned int	J3JwEz39;
 	J3JwEz39	=	0;
   unsigned short  MeGLK;
-  MeGLK  =  253924951;
+  MeGLK  =  (unsigned short)253924951;
  int zTUDkG;
  zTUDkG = 457323499;
   double  DwCpk1S;
@@ -40,7 +40,7 @@ int main(int argc, char** argv)
  short int kTGul;
  kTGul = (short)1371447456;
     short int    R0S0c8Qj0t;
-    R0S0c8Qj0t    =    1765880884;
+    R0S0c8Qj0t    =    (short)1765880884;
   short  Lfl28;
   Lfl28  =  -1916980879;
     long    A87_;
@@ -54,7 +54,7 @@ int main(int argc, char** argv)
 	unsigned long long	O0RR;
 	O0RR	=	2000428477;
     unsigned short    R79b1f;
-    R79b1f    =    -1323244956;
+    R79b1f    =    (unsigned short)-1323244956;
 	int	FHEb_;
 	FHEb_	=	-859606665;
     int    s5Flnn;
@@ -68,7 +68,7 @@ int main(int argc, char** argv)
   int  IpZxNOjo8;
   IpZxNOjo8  =  -765006829;
  unsigned short t1V_Y26;
- t1V_Y26 = 1101514547;
+ t1V_Y26 = (unsigned short)1101514547;
     long    wBOh0T;
     wBOh0T    =    1979899941;
 
@@ -169,7 +169,7 @@ while (j < 9);
 }
 else if ((J3JwEz39 >= -1866250926) || (bu0H31S6 >= 100395518))
 {
-std::cout << M5UPwp1b(1182185284) << OLX8(1808365487, Lfl28, 343748370, R79b1f, 1745284906) << std::endl;
+std::cout << M5UPwp1b(1182185284) << OLX8(1808365487, Lfl28, 343748370, R79b1f, (unsigned short)1745284906) << std::endl;
 }
 else if (IpZxNOjo8 <= 1859309698)
 {
@@ -214,7 +214,7 @@ FHEb_++;
 }
 else if (R79b1f <= g4QXOw_)
 {
-std::cout << d6Ke2iJT(phLbt8_N9, 1848755376, QCd9, -18327208) << std::endl;
+std::cout << d6Ke2iJT(phLbt8_N9, (short)1848755376, QCd9, -18327208) << std::endl;
 }
 else
 {
@@ -245,7 +245,7 @@ case 'd':
 phLbt8_N9 = (int)floor(Bd3Jy);
 break;
 case 'e':
-zTUDkG = OLX8(691226317, MeGLK, Bd3Jy, Lfl28, -2004343883);
+zTUDkG = OLX8(691226317, MeGLK, Bd3Jy, Lfl28, (unsigned short)-2004343883);
 break;
 case 'f':
 CS1q_Aa7 = sH2eY0(CS1q_Aa7, -480732710);
@@ -284,7 +284,7 @@ short    F5JeR54()    {
 }
 
 unsigned char  sH2eY0(short  p_DPBKNUtw,long long  gc1w3pEo)  {
-  return  -1249744241;
+  return  (unsigned char)-1249744241;
 }
 
 unsigned short int  d6Ke2iJT(unsigned short int  HO2jV_2,short int  nh71U,unsigned short  vZEYIDV2xF,long long  L4vBSEJLLt)

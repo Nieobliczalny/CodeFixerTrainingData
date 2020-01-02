@@ -24,7 +24,7 @@ int main(int argc, char** argv)
  int A_3s833;
  A_3s833 = -584382184;
  unsigned char fWqK;
- fWqK = -626026122;
+ fWqK = (unsigned char)-626026122;
     short int    NyyqRF;
     NyyqRF    =    (short)629982921;
 	unsigned long	UMf6F;
@@ -46,7 +46,7 @@ int main(int argc, char** argv)
 	int	kSJyF49_tl;
 	kSJyF49_tl	=	-57004867;
   short  s42eiD;
-  s42eiD  =  -77152072;
+  s42eiD  =  (short)-77152072;
  unsigned long long aGH_Apadm;
  aGH_Apadm = 472456064;
 	long	X7E7r9AC6;
@@ -56,7 +56,7 @@ int main(int argc, char** argv)
   long  DsCjwAba0;
   DsCjwAba0  =  1102116267;
 	unsigned char	r0Hj6;
-	r0Hj6	=	717517617;
+	r0Hj6	=	(unsigned char)717517617;
   short  W06b;
   W06b  =  (short)-792237308;
   long  HIDMNtJi;
@@ -104,7 +104,7 @@ do
 i--;
 try
 {
-HIDMNtJi = y7532OKv(-805479450, -580026667, 989275067, fTjP1, W06b);
+HIDMNtJi = y7532OKv(-805479450, -580026667, (short)989275067, fTjP1, W06b);
 }
 catch (int& errorCode)
 {
@@ -180,7 +180,7 @@ std::cout << "G_w9Jv" << "FXf0t_eem" << eAEu() << std::endl;
 }
 else
 {
-I28YD1Vt5 = y7532OKv(I28YD1Vt5, -2091468850, lkOH, 961872886, A_3s833);
+I28YD1Vt5 = y7532OKv(I28YD1Vt5, -2091468850, lkOH, (short)961872886, A_3s833);
 }
 if (jGQ7V0476_ <= -373565367)
 {
@@ -302,7 +302,7 @@ while (i < 5);
 switch (s42eiD)
 {
 case 0:
-s42eiD = y7532OKv(-438089228, d1975, U_6bsML, -406715892, 317852854);
+s42eiD = y7532OKv(-438089228, d1975, U_6bsML, (short)-406715892, 317852854);
 break;
 case 1:
 rMg6_p = eAEu();
@@ -335,7 +335,7 @@ case 'c':
 wf72P |= A_3s833;
 break;
 case 'd':
-L6T6qP = y7532OKv(L6T6qP, NyyqRF, -1756411143, d1975, kSJyF49_tl);
+L6T6qP = y7532OKv(L6T6qP, NyyqRF, (short)-1756411143, d1975, kSJyF49_tl);
 break;
 case 'e':
 rMg6_p = eAEu();

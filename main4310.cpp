@@ -18,7 +18,7 @@ int main(void)
  long double g7al8 = -844606640;
 	long double	CHDow8	=	-1180781552;
 	unsigned int	POtXEC0	=	0;
-  unsigned short  I4E4g648NL  =  -1647803566;
+  unsigned short  I4E4g648NL  =  (unsigned short)-1647803566;
     unsigned long long    v65Tb7v7    =    1214371797;
     unsigned char    Et9df6II    =    (unsigned char)-1775853827;
  unsigned char HsCpG3 = -5429923;
@@ -28,7 +28,7 @@ int main(void)
   short  d42G59BvY  =  -776837279;
     unsigned short    qtXSD02    =    0;
 	unsigned char	B6r75xS	=	-208728258;
-    unsigned short    oQR8bH    =    1428112660;
+    unsigned short    oQR8bH    =    (unsigned short)1428112660;
   char  RI171W  =  736409958;
  long long x4zGr5_m9 = -580778543;
     short int    ECw3nt7BH    =    (short)977941370;
@@ -219,7 +219,7 @@ case 1:
 x7y068po = L99k(x7y068po);
 break;
 case 2:
-I4E4g648NL = (kanNr != 338156276) ? ECw3nt7BH : -252860464;
+I4E4g648NL = (kanNr != 338156276) ? ECw3nt7BH : (unsigned short)-252860464;
 break;
 case 3:
 Et9df6II ^= pZ3a33I;
@@ -307,7 +307,7 @@ d42G59BvY = (short)(JTa6lo_);
 
 for (int i = 0; i < 3; ++i)
 {
-oQR8bH = (RI171W) ? 468146012 : L99k(d42G59BvY);
+oQR8bH = (RI171W) ? (unsigned short)468146012 : L99k(d42G59BvY);
 }
 g7al8 = -1365621406 / L99k(d42G59BvY);
 

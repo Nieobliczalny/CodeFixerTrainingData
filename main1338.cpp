@@ -39,7 +39,7 @@ while (i >= 0)
 --i;
 for (int j = 6; j >= 0; --j)
 {
-Ep3sC3vx = R50g_sIs0v(-1100547686, 1417767287);
+Ep3sC3vx = R50g_sIs0v(-1100547686, (unsigned char)1417767287);
 }
 }
 }
@@ -65,7 +65,7 @@ Psy_G6gP = R50g_sIs0v(Psy_G6gP, D980);
 break;
 }
 
-l12O8XGXk = R50g_sIs0v(l12O8XGXk, 2133777260);
+l12O8XGXk = R50g_sIs0v(l12O8XGXk, (unsigned char)2133777260);
 
 try
 {
@@ -80,7 +80,7 @@ q1e___n8 = (Z8rSP9_C >= Ep3sC3vx) ? D980 : l12O8XGXk;
 }
 if ((Z8rSP9_C >= q1e___n8) && (D980 > f7hL8e4v_S))
 {
-D980 = R50g_sIs0v(1639705910, -1869218659);
+D980 = R50g_sIs0v(1639705910, (unsigned char)-1869218659);
 }
 else if (Ep3sC3vx != N4N_)
 {
@@ -171,7 +171,7 @@ case 'b':
 D1rJ -= l12O8XGXk;
 break;
 case 'c':
-Ep3sC3vx = R50g_sIs0v(-1240815315, -697314826);
+Ep3sC3vx = R50g_sIs0v(-1240815315, (unsigned char)-697314826);
 break;
 case 'd':
 q1e___n8 = Ep3sC3vx - 1783147309;
@@ -189,7 +189,7 @@ case 'a':
 YlVO9i8 = R50g_sIs0v(1807766660, D980);
 break;
 case 'b':
-D980 = R50g_sIs0v(-517850140, 1582209776);
+D980 = R50g_sIs0v(-517850140, (unsigned char)1582209776);
 break;
 case 'c':
 YlVO9i8 = R50g_sIs0v(1861030336, YlVO9i8);
@@ -307,7 +307,7 @@ case 1:
 D1rJ ^= 1529896401;
 break;
 case 2:
-l12O8XGXk = R50g_sIs0v(l12O8XGXk, -1921213823);
+l12O8XGXk = R50g_sIs0v(l12O8XGXk, (unsigned char)-1921213823);
 break;
 case 3:
 YlVO9i8 = R50g_sIs0v(D1rJ, Z8rSP9_C);
@@ -373,7 +373,7 @@ while (j >= 0);
 l12O8XGXk = R50g_sIs0v(1622809747, D980);
 
 Z8rSP9_C /= q1e___n8;
-q1e___n8 = R50g_sIs0v(-480244318, 2000956553) / Ep3sC3vx;
+q1e___n8 = R50g_sIs0v(-480244318, (unsigned char)2000956553) / Ep3sC3vx;
 
 {
 int i = 4;
@@ -385,7 +385,7 @@ while (j < 1)
 {
 if (((D1rJ != 404446231) && (l12O8XGXk > q1e___n8)) || (YlVO9i8 & D1rJ))
 {
-Z8rSP9_C = R50g_sIs0v(l12O8XGXk, 800959739) | 606417760;
+Z8rSP9_C = R50g_sIs0v(l12O8XGXk, (unsigned char)800959739) | 606417760;
 }
 else
 {
@@ -432,7 +432,7 @@ case 'a':
 Z8rSP9_C &= D1rJ;
 break;
 case 'b':
-D980 = R50g_sIs0v(q1e___n8, -1502332857);
+D980 = R50g_sIs0v(q1e___n8, (unsigned char)-1502332857);
 break;
 case 'c':
 Ep3sC3vx = R50g_sIs0v(Ep3sC3vx, (unsigned char)-1207737779);
@@ -453,7 +453,7 @@ else if (q1e___n8 != -920779273)
 {
 try
 {
-D980 = R50g_sIs0v(D980, -1156217454);
+D980 = R50g_sIs0v(D980, (unsigned char)-1156217454);
 }
 catch (int& errorCode)
 {
@@ -476,7 +476,7 @@ D1rJ -= YlVO9i8;
 Psy_G6gP = R50g_sIs0v(D1rJ, q1e___n8);
 try
 {
-cout << "ZX4YS7x" << "cpoFzO" << R50g_sIs0v(-481683449, -2105220391) << "SrZFx" << R50g_sIs0v(D1rJ, q1e___n8) << endl;
+cout << "ZX4YS7x" << "cpoFzO" << R50g_sIs0v(-481683449, (unsigned char)-2105220391) << "SrZFx" << R50g_sIs0v(D1rJ, q1e___n8) << endl;
 }
 catch (int& errorCode)
 {

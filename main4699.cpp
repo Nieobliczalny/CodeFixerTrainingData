@@ -12,7 +12,7 @@ int main(void)
     long    Q9_du0l9A;
         Q9_du0l9A    =    0;
     short    U6cR,    was6O78_,    fUYyexf,    f0hAs30yVx,    MJCx0UK,    n21WC,    HsfQ_QoL,    OZos7bgW,    fAQM8yCU85,    H_8zc5,    TUD9,    Kp5t3731,    lhZJ_,    C1rVB4,    UJ5y_cq00,    O2g6,    W7Rn93,    XOMwI6,    S8rGWQE,    Y12ISpn_,    fGJ2,    bPukl2,    c82H,    E0wn55OE7,    Vq4__9,    or42p,    i3R751IrDz,    bQ5U,    FA_2QV21,    J34Ehnt;
-        U6cR    =    was6O78_    =    fUYyexf    =    f0hAs30yVx    =    MJCx0UK    =    n21WC    =    HsfQ_QoL    =    OZos7bgW    =    fAQM8yCU85    =    H_8zc5    =    TUD9    =    Kp5t3731    =    lhZJ_    =    C1rVB4    =    UJ5y_cq00    =    O2g6    =    W7Rn93    =    XOMwI6    =    S8rGWQE    =    Y12ISpn_    =    fGJ2    =    bPukl2    =    c82H    =    E0wn55OE7    =    Vq4__9    =    or42p    =    i3R751IrDz    =    bQ5U    =    FA_2QV21    =    J34Ehnt    =    -1381359741;
+        U6cR    =    was6O78_    =    fUYyexf    =    f0hAs30yVx    =    MJCx0UK    =    n21WC    =    HsfQ_QoL    =    OZos7bgW    =    fAQM8yCU85    =    H_8zc5    =    TUD9    =    Kp5t3731    =    lhZJ_    =    C1rVB4    =    UJ5y_cq00    =    O2g6    =    W7Rn93    =    XOMwI6    =    S8rGWQE    =    Y12ISpn_    =    fGJ2    =    bPukl2    =    c82H    =    E0wn55OE7    =    Vq4__9    =    or42p    =    i3R751IrDz    =    bQ5U    =    FA_2QV21    =    J34Ehnt    =    (short)-1381359741;
 
 {
 int i = 0;
@@ -138,7 +138,7 @@ E0wn55OE7 = HsfQ_QoL / lhZJ_;
 }
 else
 {
-was6O78_ = (HsfQ_QoL < bPukl2) ? -6625673 : S8rGWQE;
+was6O78_ = (HsfQ_QoL < bPukl2) ? (short)-6625673 : S8rGWQE;
 }
 }
 }
@@ -171,7 +171,7 @@ UJ5y_cq00 = bPukl2 * 1500003080;
 }
 else
 {
-H_8zc5 = (OZos7bgW == -225646877) ? 1134661718 : H_8zc5;
+H_8zc5 = (OZos7bgW == -225646877) ? (short)1134661718 : H_8zc5;
 }
 j++;
 }
@@ -197,7 +197,7 @@ C1rVB4 = Y12ISpn_ / 1209461700;
 }
 else
 {
-XOMwI6 = (U6cR > HsfQ_QoL) ? J34Ehnt : 1903048936;
+XOMwI6 = (U6cR > HsfQ_QoL) ? J34Ehnt : (short)1903048936;
 }
 switch (Kp5t3731)
 {
@@ -378,7 +378,7 @@ case 4:
 fAQM8yCU85 = J34Ehnt | i3R751IrDz;
 break;
 case 5:
-O2g6 = (Y12ISpn_ <= 1805269159) ? lhZJ_ : 1098766936;
+O2g6 = (Y12ISpn_ <= 1805269159) ? lhZJ_ : (short)1098766936;
 break;
 case 6:
 bPukl2 += Q9_du0l9A;
@@ -612,7 +612,7 @@ else if (n21WC != U6cR)
 {
 try
 {
-O2g6 = (bQ5U >= -1480427676) ? Y12ISpn_ : 98511365;
+O2g6 = (bQ5U >= -1480427676) ? Y12ISpn_ : (short)98511365;
 }
 catch (int& errorCode)
 {

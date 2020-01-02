@@ -17,7 +17,7 @@ short int  S53v(unsigned int  cV1Eu0qo5W,unsigned char  m_wBy5O_60)  {
 }
 
 short int m51g156(unsigned long ln9E_2,int b5Fv2_8eY,unsigned short xB0vvnO57X,unsigned char iMBsU,short int FD1MDf6U42) {
- return -1096039122;
+ return (short)-1096039122;
 }
 
 unsigned long long	qEz0KN(unsigned long long	dT9y8nTz,short int	cpbp520jA4,unsigned short	EbjYX_w)	{
@@ -30,7 +30,7 @@ long long  Eu9_71CeDj(long  ovc2O,int  F75n,long long  OzVIo8bJ98,unsigned long 
 }
 
 int main(void) {
-	unsigned char	zD1Z77o	=	-1485154229;
+	unsigned char	zD1Z77o	=	(unsigned char)-1485154229;
 	short	JDC24AWKq	=	(short)-399126386;
  long I441WW89 = -1605477247;
   unsigned int  dbGa  =  41327738;
@@ -40,7 +40,7 @@ int main(void) {
 	int	vGOsB	=	-165154037;
     short int    LbjitNwggJ    =    1178262733;
   short int  Fpb1J  =  1616420354;
-	unsigned short int	w17Y	=	-314122947;
+	unsigned short int	w17Y	=	(unsigned short)-314122947;
 	float	UTk9559	=	1335807348;
   unsigned int  gHi01X3IF6  =  1595289322;
     short int    cs6PYmX2    =    (short)611413424;
@@ -58,7 +58,7 @@ int main(void) {
  short uO02 = 0;
     long long    z2hB2H3    =    -1582475426;
 	int	F662h9w	=	843139034;
-    char    Yvme0y2L    =    -538363563;
+    char    Yvme0y2L    =    (char)-538363563;
   int  tdtl  =  -250237991;
  int TkX4 = 0;
     int    FJXPXDoJ2    =    1079844956;
@@ -72,7 +72,7 @@ int main(void) {
 	unsigned int	J0ebORW	=	1473511066;
 	long long	glB7k__RP	=	0;
 	unsigned long long	yYhzjR3CU	=	-137488169;
-	char	ICtG26h3f_	=	1771010746;
+	char	ICtG26h3f_	=	(char)1771010746;
   short  hBtTCwz  =  431834686;
  long FAEUuwVNb = 1358916379;
   short  RAEN_  =  -526366006;
@@ -83,7 +83,7 @@ int main(void) {
 	short	iyT6_	=	933795627;
     short    D4po_W7    =    -1257058594;
     int    xyfd361o    =    -1221582012;
-    unsigned char    A8s3Y0Gp    =    -10346283;
+    unsigned char    A8s3Y0Gp    =    (unsigned char)-10346283;
   unsigned short  wE4yCkAla0  =  1953259161;
   unsigned short int  rP77ZZc3AC  =  265117781;
   unsigned char  YNwm_yn3IV  =  15559525;
@@ -133,7 +133,7 @@ i--;
 while (i >= 0);
 }
 
-if ((-705491830 / S53v(1424415402, 1187343986)) == 203555877)
+if ((-705491830 / S53v(1424415402, (unsigned char)1187343986)) == 203555877)
 {
 ShNXt6EHq1 = qEz0KN(h0r8Ffn, ShNXt6EHq1, i_8VYe4);
 }
@@ -198,7 +198,7 @@ case 0:
 FAEUuwVNb = Eu9_71CeDj(FAEUuwVNb, Fpb1J, 1240991888, cs6PYmX2);
 break;
 case 1:
-TkX4 = S53v(KUdaJyT, -1951577507);
+TkX4 = S53v(KUdaJyT, (unsigned char)-1951577507);
 break;
 case 2:
 rP77ZZc3AC >>= Yvme0y2L;
@@ -210,7 +210,7 @@ case 4:
 cs6PYmX2 = (int)abs(ShNXt6EHq1);
 break;
 case 5:
-K8h4 = m51g156(-601765177, gHi01X3IF6, tDaW_8F1_, -2029828957, Ejz6v18_wH);
+K8h4 = m51g156(-601765177, gHi01X3IF6, tDaW_8F1_, (unsigned char)-2029828957, Ejz6v18_wH);
 break;
 default:
 Ejz6v18_wH = (int)floor(dZ_XH1HC);
@@ -256,7 +256,7 @@ while (k < 4);
 }
 }
 }
-UTk9559 = qEz0KN(-479410553, KUdaJyT, -1082809681);
+UTk9559 = qEz0KN(-479410553, KUdaJyT, (unsigned short)-1082809681);
 S0QWQMiY = m51g156(-446059562, 1629068839, (unsigned short)1651981246, RAEN_, FAEUuwVNb);
 try
 {
@@ -290,7 +290,7 @@ for (int i = 0; i < 1; i++)
 int j = 5;
 while (j >= 0)
 {
-RAEN_ = qEz0KN(suzBgPKnf_, -806900875, MzlN7) - FJXPXDoJ2;
+RAEN_ = qEz0KN(suzBgPKnf_, (short)-806900875, MzlN7) - FJXPXDoJ2;
 --j;
 }
 }
@@ -309,7 +309,7 @@ if (J0ebORW == xyfd361o)
 {
 try
 {
-A8s3Y0Gp = qEz0KN(A8s3Y0Gp, cs6PYmX2, 1602749669);
+A8s3Y0Gp = qEz0KN(A8s3Y0Gp, cs6PYmX2, (unsigned short)1602749669);
 }
 catch (int& errorCode)
 {
@@ -382,7 +382,7 @@ dZ_XH1HC = (int)floor(Ejz6v18_wH);
 }
 else if (glB7k__RP != -911741189)
 {
-w17Y = m51g156(w17Y, 1006685944, -1352063298, (unsigned char)982361829, 301710912);
+w17Y = m51g156(w17Y, 1006685944, (unsigned short)-1352063298, (unsigned char)982361829, 301710912);
 }
 else if (suzBgPKnf_ != JDC24AWKq)
 {
@@ -399,7 +399,7 @@ Y25361Vw1_ = (int)ceil(Ejz6v18_wH);
 }
 else
 {
-std::cout << m51g156(-864935684, -776919409, wE4yCkAla0, MgH98jie0l, -1883442661) << std::endl;
+std::cout << m51g156(-864935684, -776919409, wE4yCkAla0, MgH98jie0l, (short)-1883442661) << std::endl;
 }
 }
 return 0;

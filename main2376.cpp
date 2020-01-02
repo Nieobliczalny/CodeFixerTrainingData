@@ -41,7 +41,7 @@ case 0:
 H9Q_fO = fUsR >> 1542429761;
 break;
 case 1:
-fOaEA7__ = jk44H2w(710698782, 292973176, (unsigned char)1918793122, 519871379);
+fOaEA7__ = jk44H2w(710698782, (char)292973176, (unsigned char)1918793122, 519871379);
 break;
 case 2:
 Q3N1E917O = HM2_Q43(1363779531, sz39b5);
@@ -124,7 +124,7 @@ case 3:
 EW9uB = (XR2d <= LVm8B3Awop) ? vn758x9S6 : 988108956;
 break;
 default:
-rHZZ = jk44H2w(rHZZ, 697494755, (unsigned char)-181836467, R5CEAW4r);
+rHZZ = jk44H2w(rHZZ, (char)697494755, (unsigned char)-181836467, R5CEAW4r);
 break;
 }
 if ((H9Q_fO == R0EB5) || (Atp69_22 <= h1Q155lSr2))
@@ -134,7 +134,7 @@ for (int j = 0; j < 1; j++)
 switch (vLHSdqe3M_)
 {
 case 0:
-q3K5F8nrm = jk44H2w(-61401348, jlQc7on, -925456912, 1783697150);
+q3K5F8nrm = jk44H2w(-61401348, jlQc7on, (unsigned char)-925456912, 1783697150);
 break;
 case 1:
 Atp69_22 = zxHU(-952980878, ZLQ5N6IwiF, -391279537);
@@ -160,7 +160,7 @@ RzqFC = HM2_Q43(RzqFC, ueNo__d42);
 }
 }
 }
-std::cout << LVm8B3Awop << zxHU(RzqFC, -932481907, o_ylUMfY) << HM2_Q43(-1048711307, 828576511) << "y9_B_G7EP6" << jk44H2w(RzqFC, -1294555757, (unsigned char)-14597427, 1880934608) << std::endl;
+std::cout << LVm8B3Awop << zxHU(RzqFC, -932481907, o_ylUMfY) << HM2_Q43(-1048711307, 828576511) << "y9_B_G7EP6" << jk44H2w(RzqFC, (char)-1294555757, (unsigned char)-14597427, 1880934608) << std::endl;
 
 if ((yF09TXB) || (X9bNseaxS))
 {
@@ -215,7 +215,7 @@ jlQc7on = HM2_Q43(-706046370, RzqFC) >> 1035618504;
 break;
 }
 }
-G5R2 = jk44H2w(-1812812151, Atp69_22, 1549659497, yDI7g);
+G5R2 = jk44H2w(-1812812151, Atp69_22, (unsigned char)1549659497, yDI7g);
 
 {
 int i = 4;
@@ -255,7 +255,7 @@ switch (Vs32as3DK)
 {
 case 'a':
 case 'A':
-V9MQjrA = jk44H2w(1372875268, U9ATlf32, -1817513991, -1026259568);
+V9MQjrA = jk44H2w(1372875268, U9ATlf32, (unsigned char)-1817513991, -1026259568);
 break;
 case 'b':
 case 'B':
@@ -271,7 +271,7 @@ UWy_1 = ueNo__d42 << N56wj;
 break;
 case 'e':
 case 'E':
-h1Q155lSr2 = jk44H2w(113829228, LVm8B3Awop, 433201234, ewA5d0);
+h1Q155lSr2 = jk44H2w(113829228, LVm8B3Awop, (unsigned char)433201234, ewA5d0);
 break;
 case 'f':
 case 'F':
@@ -299,7 +299,7 @@ unsigned int  zxHU(unsigned long long  EKqj,long  E7oq,unsigned int  Lqv4y)
 
 unsigned char	HM2_Q43(int	Vr9z6c48,long long	B_G7DlQb)
 {
-	return	1889646373;
+	return	(unsigned char)1889646373;
 }
 
 short int  jk44H2w(unsigned long long  sxokqiU_J9,char  q_R72hH,unsigned char  i1H6,unsigned long long  F1FTHXwUk)
@@ -309,6 +309,6 @@ short int  jk44H2w(unsigned long long  sxokqiU_J9,char  q_R72hH,unsigned char  i
 
 char gb8Oq(short jj4frn0,char kH35M,unsigned long S9QK,char jf3n1mU4f)
 {
- return 877350328;
+ return (char)877350328;
 }
 

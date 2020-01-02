@@ -14,7 +14,7 @@ int main(void) {
 	unsigned long	lpcz5X;
 	lpcz5X	=	-1750448240;
 	unsigned short	lIvhB_Y;
-	lIvhB_Y	=	1514336970;
+	lIvhB_Y	=	(unsigned short)1514336970;
 	long	U_hVWSmz;
 	U_hVWSmz	=	-1554466977;
  short zB_4Q;
@@ -26,7 +26,7 @@ int main(void) {
   unsigned long long  gl8j4XKP0;
   gl8j4XKP0  =  -550534336;
     short    ekqv0lurL5;
-    ekqv0lurL5    =    464029990;
+    ekqv0lurL5    =    (short)464029990;
   unsigned char  w0_19;
   w0_19  =  (unsigned char)-856255767;
  double hBdI6d0WHt;
@@ -40,7 +40,7 @@ int main(void) {
   unsigned int  an_FssxKk;
   an_FssxKk  =  -1040537764;
  char JurU;
- JurU = 970087748;
+ JurU = (char)970087748;
     unsigned short int    LrAn;
     LrAn    =    (unsigned short)-483933671;
   unsigned char  rjEV6ch9LL;
@@ -52,7 +52,7 @@ int main(void) {
  double vlYF0W;
  vlYF0W = -181571526;
   short int  uTbQC;
-  uTbQC  =  -1364291884;
+  uTbQC  =  (short)-1364291884;
 	unsigned short int	I8oia2t2d;
 	I8oia2t2d	=	(unsigned short)-706660371;
 	long long	M7Oxs7817;
@@ -78,7 +78,7 @@ int main(void) {
  short sIzSDq;
  sIzSDq = 0;
   unsigned char  L_yI8ot2v6;
-  L_yI8ot2v6  =  1586015958;
+  L_yI8ot2v6  =  (unsigned char)1586015958;
  unsigned short int DEJ5_;
  DEJ5_ = (unsigned short)-652232692;
   short int  HgZ_cG;
@@ -88,7 +88,7 @@ int main(void) {
   unsigned int  YIM0gB4zH;
   YIM0gB4zH  =  -1631219997;
 	unsigned short int	HtDI14WF;
-	HtDI14WF	=	1209852486;
+	HtDI14WF	=	(unsigned short)1209852486;
     char    bYlx3T;
     bYlx3T    =    (char)-1539982099;
 	unsigned short int	Ymm6;
@@ -100,7 +100,7 @@ int main(void) {
  long double K8i9Sef_U9;
  K8i9Sef_U9 = -557977328;
     unsigned short    w0nHGZo3yk;
-    w0nHGZo3yk    =    -665233127;
+    w0nHGZo3yk    =    (unsigned short)-665233127;
   unsigned char  dDx2i;
   dDx2i  =  (unsigned char)-521431751;
     unsigned long    kT9_x;
@@ -261,7 +261,7 @@ case 8:
 M7Oxs7817 %= 1133693826;
 break;
 case 9:
-I8oia2t2d = (M7Oxs7817 != 555626529) ? 1671939773 : (unsigned short)1326769685;
+I8oia2t2d = (M7Oxs7817 != 555626529) ? (unsigned short)1671939773 : (unsigned short)1326769685;
 break;
 }
 }

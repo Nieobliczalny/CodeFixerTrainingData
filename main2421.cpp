@@ -151,7 +151,7 @@ case 6:
 pfNAOn |= Pr5G1;
 break;
 case 7:
-ojL0 = (jY_9Fa1_nT <= 273404423) ? Pr5G1 : -2111692658;
+ojL0 = (jY_9Fa1_nT <= 273404423) ? Pr5G1 : (short)-2111692658;
 break;
 case 8:
 ojL0 = MP3lCrVuxX ^ 1235975270;
@@ -565,7 +565,7 @@ int k = 0;
 do
 {
 k++;
-R3vxf3s = (ojL0 & 2043752139) ? -839903119 : (short)-164194140;
+R3vxf3s = (ojL0 & 2043752139) ? (short)-839903119 : (short)-164194140;
 }
 while (k < 5);
 }

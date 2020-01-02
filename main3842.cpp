@@ -17,7 +17,7 @@ int main()
 {
   int  wBdq3_  =  -455376167;
   long long  a7C6  =  566434937;
-    unsigned char    nDIy7oc_8    =    -245583130;
+    unsigned char    nDIy7oc_8    =    (unsigned char)-245583130;
 	long long	s_xQR05m	=	619010898;
  int Fb0IFEZq = 0;
 	unsigned long long	dfc4s	=	-1946685515;
@@ -29,7 +29,7 @@ int main()
   unsigned short  OlySkIfo  =  -1131964034;
 	unsigned int	bm4ozJ4D4	=	2123217943;
 	unsigned long	N4XiK0T	=	339056052;
- unsigned char lSLY1i = -550516019;
+ unsigned char lSLY1i = (unsigned char)-550516019;
 	unsigned short int	Jjb05r4z6F	=	1493465276;
  long long L6_aUbDPyc = -1934519175;
   int  OG_L2vil  =  1758470110;
@@ -41,7 +41,7 @@ int main()
   unsigned long  lA4KQ43u  =  567288034;
 	float	Kmzl	=	-2129179996;
     float    Mcdu    =    -83029802;
-	short int	D_QOKDT	=	-981945669;
+	short int	D_QOKDT	=	(short)-981945669;
 	unsigned int	myn0	=	-486945508;
 	unsigned short	B9eWL_IT	=	298478591;
   unsigned int  g_b10Qi6G  =  -966064615;
@@ -51,7 +51,7 @@ int main()
     char    HWaW5F2    =    1752171012;
 	char	wer9	=	-1769873240;
 	long	UX1mFWc	=	1871337033;
-  short  aVjJ_  =  1850862184;
+  short  aVjJ_  =  (short)1850862184;
  int od74M = 2085312464;
   float  D2B5hm4_  =  -482557877;
   short int  g6ZdmQ7M  =  122479367;
@@ -66,7 +66,7 @@ int main()
     long long    Ln_a6A    =    -477218403;
     unsigned short int    Lt4C    =    0;
  unsigned long long HCMv10dGE = 743060295;
-    short    yL_C    =    -1549372306;
+    short    yL_C    =    (short)-1549372306;
     unsigned long long    YuRpX    =    -1189032431;
  short Sfj8 = (short)-1903780845;
     double    s0i3n    =    400454203;
@@ -77,7 +77,7 @@ int main()
 	unsigned long	jL0W1l9n	=	781232287;
 	char	W_QS5	=	-643431144;
   double  k6FCBtF  =  517222360;
-	short	PL46v	=	1575929711;
+	short	PL46v	=	(short)1575929711;
  short jyDUP461O = (short)1028591813;
     double    smhVw9559    =    -450449589;
   long long  i0pN_K  =  -1292847001;
@@ -87,7 +87,7 @@ int main()
  double H_0oy9XB9H = -991576949;
  long double o8lYi = 557013403;
     unsigned long long    Q4xy5N0Qj    =    1442926389;
-	unsigned char	X5nN	=	-112375121;
+	unsigned char	X5nN	=	(unsigned char)-112375121;
  short int UrXrpT6Y = (short)-2128205568;
 	int	D4AC7A	=	-1577211787;
     float    SN2r799Ys    =    -949389922;
@@ -98,7 +98,7 @@ int main()
 	long	Rkt_	=	4358637;
     long double    CZZ1zkfco1    =    1133366540;
     float    XbUfq9S0FO    =    -508374808;
-  short int  u60ZkY  =  -1500706792;
+  short int  u60ZkY  =  (short)-1500706792;
   unsigned long  u_A67N  =  -227677768;
 	int	FjDeKfp0e	=	1695940253;
     double    Ph9Hy_76    =    -1406852727;
@@ -108,7 +108,7 @@ int main()
  unsigned char Uy_E4PnD = -1499541853;
  unsigned char IgFRN = 2032122678;
 	float	y188WL	=	-969296230;
-    unsigned short int    zzvIE102    =    -694279289;
+    unsigned short int    zzvIE102    =    (unsigned short)-694279289;
 
 std::cout << bm4ozJ4D4 << std::endl;
 std::cout << "nV54JUdA1_" << std::endl;
@@ -197,7 +197,7 @@ giNF = (int)ceil(Kmzl);
 }
 }
 
-smhVw9559 = O_fy2PrN(-275040583, 1487284025, (unsigned char)613861330);
+smhVw9559 = O_fy2PrN(-275040583, (short)1487284025, (unsigned char)613861330);
 
 {
 int i = 0;
@@ -250,7 +250,7 @@ case 'a':
 D2B5hm4_ = (int)ceil(H_0oy9XB9H);
 break;
 case 'b':
-U80orXdK = O_fy2PrN(-1166693368, 873006729, (unsigned char)-1415209662);
+U80orXdK = O_fy2PrN(-1166693368, (short)873006729, (unsigned char)-1415209662);
 break;
 case 'c':
 D2T73nQ_ = zr70 % sGE9ziS;
@@ -270,7 +270,7 @@ if (OG_L2vil & 1631726565)
 y188WL = (float)(u_A67N);
 }
 
-std::cout << E65474Xg9u << O_fy2PrN(D2T73nQ_, -1967191126, Mcdu) << O_fy2PrN(D2T73nQ_, g73yx6, (unsigned char)845530093) << "KzZ8LR67zA" << "H57SUI69" << std::endl;
+std::cout << E65474Xg9u << O_fy2PrN(D2T73nQ_, (short)-1967191126, Mcdu) << O_fy2PrN(D2T73nQ_, g73yx6, (unsigned char)845530093) << "KzZ8LR67zA" << "H57SUI69" << std::endl;
 switch (Rkt_)
 {
 case 'a':
@@ -286,7 +286,7 @@ std::cout << bm4ozJ4D4 << std::endl;
 
 for (int i = 0; i < 3; i++)
 {
-wBdq3_ = O_fy2PrN(-1092323606, -1712387157, bm4ozJ4D4);
+wBdq3_ = O_fy2PrN(-1092323606, (short)-1712387157, bm4ozJ4D4);
 }
 {
 int i = 5;

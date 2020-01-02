@@ -11,7 +11,7 @@ using namespace std;
 
 int main(int argc, char** argv)
 {
-	short	vTwLyIe5	=	-1608400784;
+	short	vTwLyIe5	=	(short)-1608400784;
  int NY9sE = -2010366640;
     char    FM9rAzBOY    =    (char)-219856669;
 	long long	vI1X1VuLDp	=	550681239;
@@ -22,7 +22,7 @@ int main(int argc, char** argv)
 	long	rWHdld_	=	-76639546;
   unsigned long  fM0nB9406  =  -28894576;
 	long double	STVYW	=	-1627373769;
-    unsigned char    gLdkF    =    -1702248421;
+    unsigned char    gLdkF    =    (unsigned char)-1702248421;
     float    JaVhmM    =    1908132902;
  unsigned char lLk46E64Y = (unsigned char)418885062;
  long i668JP = -123063015;
@@ -36,7 +36,7 @@ int main(int argc, char** argv)
  unsigned short y0m1BxTL = 0;
 	int	YLk_	=	0;
   unsigned long long  IIvk6b6_7k  =  1251769460;
-	char	pR7_aEdx	=	331579025;
+	char	pR7_aEdx	=	(char)331579025;
 	unsigned char	wj1_ew1Gt	=	(unsigned char)1649536636;
     unsigned short    qQfybE7Vd0    =    1263590470;
  int ysD24sFb7 = -1336752601;
@@ -48,7 +48,7 @@ int main(int argc, char** argv)
 	int	Dg3I3HYPj	=	-768872467;
 	unsigned int	vUYZ	=	749343591;
   unsigned int  h8BVls763  =  1219335379;
- short tBoI = 363687237;
+ short tBoI = (short)363687237;
  long x0y656 = 987849510;
   unsigned int  MlAYk29By  =  -879878806;
   int  aJ5OwVJVr  =  930373091;
@@ -59,7 +59,7 @@ int main(int argc, char** argv)
   short  Y6sW8  =  (short)1531824594;
  long long LV_Z = 953820904;
 	int	Z_I2qb	=	1327025328;
-  unsigned short  e67B74G3C  =  -960456321;
+  unsigned short  e67B74G3C  =  (unsigned short)-960456321;
     float    R1vV2    =    1746814779;
     int    pA5e    =    1360727468;
  unsigned short int X8vYcs86n4 = 1364596429;
@@ -70,7 +70,7 @@ int main(int argc, char** argv)
   long long  G7qmJt2D_w  =  -50997730;
     unsigned char    aIW9DR9    =    (unsigned char)-1361329340;
     int    YAlzq    =    -100512538;
- unsigned char x3QU = 191354756;
+ unsigned char x3QU = (unsigned char)191354756;
 	unsigned long long	VVsvVsXT6r	=	498367173;
 	unsigned short	IL16URSK9i	=	1354861528;
   int  nBG30Xue  =  1651289947;

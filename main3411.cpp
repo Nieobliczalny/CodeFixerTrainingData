@@ -28,7 +28,7 @@ switch (x9Cx)
 {
 case 'a':
 case 'A':
-rfOBs = Hb8b9R(-1050853927, 1856569725, 110331894, lWO2LV, (unsigned short)-625704314);
+rfOBs = Hb8b9R((short)-1050853927, 1856569725, 110331894, lWO2LV, (unsigned short)-625704314);
 break;
 case 'b':
 case 'B':
@@ -63,7 +63,7 @@ else if (x9Cx >= 197125197)
 int k = 0;
 while (k < 8)
 {
-lQW_8Ki8B = Hb8b9R(K0pV4Up_, U0VK7_S9f, hYDZ, 921198482, 919039489) % 1190058487;
+lQW_8Ki8B = Hb8b9R(K0pV4Up_, U0VK7_S9f, hYDZ, 921198482, (unsigned short)919039489) % 1190058487;
 ++k;
 }
 }
@@ -110,7 +110,7 @@ else
 switch (x9Cx)
 {
 case 0:
-u1nhN37p = Ci2eA15L(-654297599, 752610006, 1345825664, WggU, XxfUVGLS);
+u1nhN37p = Ci2eA15L(-654297599, (unsigned short)752610006, 1345825664, WggU, XxfUVGLS);
 break;
 case 1:
 hYDZ = (int)floor(rhrf66B0y);
@@ -141,7 +141,7 @@ try
 {
 if (L_M3u4U < 2130432696)
 {
-std::cout << "lG9M4UWrcc" << Hb8b9R(267166691, -480479757, 2093287149, -1699469944, XxfUVGLS) << rudka << std::endl;
+std::cout << "lG9M4UWrcc" << Hb8b9R((short)267166691, -480479757, 2093287149, -1699469944, XxfUVGLS) << rudka << std::endl;
 }
 else if (c9WWx23YW == uB94l8CPN7)
 {
@@ -186,7 +186,7 @@ U0VK7_S9f = OHo5_purCX / 1256640717;
 
 try
 {
-omxduyqL6 = Ci2eA15L(192164855, -1738201268, 455884749, hYDZ, (char)836629078);
+omxduyqL6 = Ci2eA15L(192164855, (unsigned short)-1738201268, 455884749, hYDZ, (char)836629078);
 }
 catch (int& errorCode)
 {
@@ -202,7 +202,7 @@ rfOBs = (x9Cx & -1217514828) ? -1536778929 : u1nhN37p;
 while (i < 9);
 }
 
-std::cout << "s8xm00" << "kjx8H" << Ci2eA15L(-1748323511, 653898168, -1596810046, 1471977460, (char)1608293322) << "f0oRQaE" << J3y3_() << std::endl;
+std::cout << "s8xm00" << "kjx8H" << Ci2eA15L(-1748323511, (unsigned short)653898168, -1596810046, 1471977460, (char)1608293322) << "f0oRQaE" << J3y3_() << std::endl;
 
 for (int i = 10; i >= 0; --i)
 {
@@ -221,7 +221,7 @@ rhrf66B0y = O4lvbBJ(rhrf66B0y, OHo5_purCX, omxduyqL6, qkL2wFEr1, 2016016275);
 switch (omxduyqL6)
 {
 case 0:
-rhrf66B0y = Hb8b9R(rhrf66B0y, 1290007739, A53957, -968140724, -660774066);
+rhrf66B0y = Hb8b9R(rhrf66B0y, 1290007739, A53957, -968140724, (unsigned short)-660774066);
 break;
 default:
 lWO2LV -= 1793073436;
@@ -252,7 +252,7 @@ long long    Ci2eA15L(long    RUYp,unsigned short int    L0m271z9Jy,unsigned lon
 }
 
 char	J3y3_()	{
-	return	1677225400;
+	return	(char)1677225400;
 }
 
 short	Hb8b9R(short int	ui70_x8lK,unsigned long long	ziyV6H,int	Q7P1OjG,long long	GB2OiF3y,unsigned short	Wy_6oZ)

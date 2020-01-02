@@ -21,7 +21,7 @@ int main(int argc, char** argv)
 	long	MOA13jOrce	=	890307380;
     int    FH5_QP    =    -1415732329;
 	unsigned int	E_kNY	=	1621447974;
-    char    Mdy4    =    -542742650;
+    char    Mdy4    =    (char)-542742650;
   double  DPw4j2uOUt  =  -668089526;
     double    t8F0    =    38742123;
   float  X9UP2nD  =  583907657;
@@ -38,7 +38,7 @@ int main(int argc, char** argv)
     long double    L0332    =    166409297;
     unsigned int    lgAUX    =    1817076300;
 	unsigned long	Z9I7iK	=	-894284545;
- short K5PqU5 = 1398906912;
+ short K5PqU5 = (short)1398906912;
 	int	M7keCg0B9	=	1314365320;
 	int	b0jfQRZIu	=	-1830013049;
 	unsigned char	Vgk45TlDA	=	(unsigned char)2011568561;
@@ -48,7 +48,7 @@ int main(int argc, char** argv)
  short i_HQpcX = 1889880420;
   long double  r__FbK  =  1308861563;
   long long  e0mBgp12  =  1470399243;
- unsigned short v_ias0jk = -1967739345;
+ unsigned short v_ias0jk = (unsigned short)-1967739345;
     long    ZgtX    =    1784099520;
 
 Z9I7iK = GesEH2h3 * 2072069353;
@@ -126,7 +126,7 @@ std::cout << "WmTh2t_" << "t4e1BQa3" << Apu3Fo_3W(DPw4j2uOUt, U0Cm) << std::endl
 }
 else if (h3yjf29 != -259701)
 {
-U0Cm = Apu3Fo_3W(-672829368, r__FbK);
+U0Cm = Apu3Fo_3W((short)-672829368, r__FbK);
 }
 else
 {
@@ -150,7 +150,7 @@ VPDqgwvmP6 = (int)floor(r__FbK);
 switch (FH5_QP)
 {
 case 0:
-U0Cm = Apu3Fo_3W(1868427393, Z5phBD6);
+U0Cm = Apu3Fo_3W((short)1868427393, Z5phBD6);
 break;
 case 1:
 U0Cm = Apu3Fo_3W(M7keCg0B9, -19239954);
@@ -206,7 +206,7 @@ break;
 }
 }
 
-U0Cm = Apu3Fo_3W(242040569, ounN);
+U0Cm = Apu3Fo_3W((short)242040569, ounN);
 try
 {
 K5PqU5 = e0mBgp12 << rmGe7s7;
@@ -228,7 +228,7 @@ case 'b':
 v_ias0jk &= 922066107;
 break;
 case 'c':
-U0Cm = Apu3Fo_3W(1152426821, 1536306105);
+U0Cm = Apu3Fo_3W((short)1152426821, 1536306105);
 break;
 case 'd':
 U0Cm = Apu3Fo_3W(rmGe7s7, MOA13jOrce);
@@ -240,7 +240,7 @@ case 'f':
 r__FbK = (int)abs(DPw4j2uOUt);
 break;
 case 'g':
-U0Cm = Apu3Fo_3W(-1681457613, SuZlq);
+U0Cm = Apu3Fo_3W((short)-1681457613, SuZlq);
 break;
 case 'h':
 VPDqgwvmP6 = (int)ceil(L0332);
@@ -280,7 +280,7 @@ U0Cm = Apu3Fo_3W(-597735421, 1203732213);
 }
 else if ((VPDqgwvmP6) && (UkEn <= Mdy4))
 {
-std::cout << Apu3Fo_3W(-703301798, -1153318542) << std::endl;
+std::cout << Apu3Fo_3W((short)-703301798, -1153318542) << std::endl;
 }
 else if (lgAUX & b0jfQRZIu)
 {
@@ -297,7 +297,7 @@ X9UP2nD = (int)abs(K5PqU5);
 
 t8F0 = (int)ceil(X9UP2nD);
 
-U0Cm = Apu3Fo_3W(-492272311, t8F0);
+U0Cm = Apu3Fo_3W((short)-492272311, t8F0);
 std::cout << Apu3Fo_3W((short)1845512707, 181643015) << Apu3Fo_3W(GesEH2h3, t8F0) << std::endl;
 for (int i = 0; i < 5; i++)
 {

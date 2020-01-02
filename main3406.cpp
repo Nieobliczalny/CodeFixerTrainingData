@@ -8,7 +8,7 @@
 
 
 unsigned short    So43TM()    {
-    return    -850093547;
+    return    (unsigned short)-850093547;
 }
 
 long  p8N5y3gt()

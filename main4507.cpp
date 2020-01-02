@@ -10,7 +10,7 @@ using namespace std;
 
 char b939_()
 {
- return -1114195365;
+ return (char)-1114195365;
 }
 
 unsigned int T0SXAA(unsigned short d1sT2gD,unsigned int V37P1aKTx,short int ZxslN,short int lDNJzz) {
@@ -23,7 +23,7 @@ unsigned int    JJ8vkLe()
 }
 
 unsigned short qkp7ew(int bfd2) {
- return -1040409121;
+ return (unsigned short)-1040409121;
 }
 
 short	nv7K_(unsigned int	yh9Q143,unsigned short	OjOG8,unsigned long	xWwph0cT)	{
@@ -36,7 +36,7 @@ int main(int argc, char** argv) {
     unsigned long long    Ph1_WZN,    X09bQ_NR,    H4gH6d;
         Ph1_WZN    =    X09bQ_NR    =    H4gH6d    =    0;
 
-std::cout << Ph1_WZN << Kj8w8C_9 << b939_() << T0SXAA(-1517301421, Ze14J9Hz, 628106508, -1507442964) << "a95UKK5g" << std::endl;
+std::cout << Ph1_WZN << Kj8w8C_9 << b939_() << T0SXAA((unsigned short)-1517301421, Ze14J9Hz, 628106508, -1507442964) << "a95UKK5g" << std::endl;
 
 Ze14J9Hz = Ph1_WZN + Ze14J9Hz;
 
@@ -61,7 +61,7 @@ case 2:
 Ze14J9Hz ^= EJRG;
 break;
 case 3:
-Ze14J9Hz = nv7K_(-847566264, -7944172, 1256395141);
+Ze14J9Hz = nv7K_(-847566264, (unsigned short)-7944172, 1256395141);
 break;
 case 4:
 H4gH6d = T0SXAA((unsigned short)15809576, 264637964, 710384024, -1765266227);
@@ -95,7 +95,7 @@ switch (H4gH6d)
 {
 case 'a':
 case 'A':
-Ph1_WZN = T0SXAA(Ph1_WZN, -1483741556, Kj8w8C_9, 181752401);
+Ph1_WZN = T0SXAA(Ph1_WZN, -1483741556, Kj8w8C_9, (short)181752401);
 break;
 case 'b':
 case 'B':
@@ -115,7 +115,7 @@ Ze14J9Hz = b939_() - Kj8w8C_9;
 break;
 case 'f':
 case 'F':
-H4gH6d = T0SXAA(-1026370827, -441047489, X09bQ_NR, Ze14J9Hz);
+H4gH6d = T0SXAA((unsigned short)-1026370827, -441047489, X09bQ_NR, Ze14J9Hz);
 break;
 case 'g':
 case 'G':
@@ -144,7 +144,7 @@ Kj8w8C_9 = Kj8w8C_9 * 1799047710;
 }
 
 Kj8w8C_9 = b939_();
-std::cout << nv7K_(1393160338, 2008380351, -655144609) << "YY18b28" << JJ8vkLe() << "Q15DorT" << "QaoOfrN4" << std::endl;
+std::cout << nv7K_(1393160338, (unsigned short)2008380351, -655144609) << "YY18b28" << JJ8vkLe() << "Q15DorT" << "QaoOfrN4" << std::endl;
 
 H4gH6d = T0SXAA((unsigned short)2082659929, EJRG, 1143474304, 614358360);
 
@@ -162,7 +162,7 @@ EJRG = qkp7ew(EJRG);
 }
 else if (Ph1_WZN != EJRG)
 {
-Ph1_WZN = T0SXAA(Ph1_WZN, -219909656, -1231813166, H4gH6d);
+Ph1_WZN = T0SXAA(Ph1_WZN, -219909656, (short)-1231813166, H4gH6d);
 }
 else if (Ze14J9Hz <= 960811439)
 {
@@ -278,7 +278,7 @@ Kj8w8C_9 = b939_();
 }
 else if (H4gH6d <= Ze14J9Hz)
 {
-Ze14J9Hz = nv7K_(Ze14J9Hz, -1043082922, 48175173);
+Ze14J9Hz = nv7K_(Ze14J9Hz, (unsigned short)-1043082922, 48175173);
 }
 else
 {
@@ -325,7 +325,7 @@ case 7:
 Kj8w8C_9 = qkp7ew(Ph1_WZN);
 break;
 case 8:
-X09bQ_NR = T0SXAA(-1990721274, Ze14J9Hz, Kj8w8C_9, H4gH6d);
+X09bQ_NR = T0SXAA((unsigned short)-1990721274, Ze14J9Hz, Kj8w8C_9, H4gH6d);
 break;
 case 9:
 EJRG = b939_();
@@ -338,7 +338,7 @@ Ze14J9Hz = nv7K_(Ze14J9Hz, (unsigned short)247995644, X09bQ_NR);
 
 std::cout << Ze14J9Hz / X09bQ_NR << std::endl;
 
-std::cout << T0SXAA(Ze14J9Hz, -1527898900, -815411209, -1692051349) << std::endl;
+std::cout << T0SXAA(Ze14J9Hz, -1527898900, (short)-815411209, -1692051349) << std::endl;
 {
 int i = 4;
 do
@@ -437,7 +437,7 @@ EJRG |= Ze14J9Hz;
 }
 else
 {
-std::cout << nv7K_(-1462508114, -188889211, X09bQ_NR) << std::endl;
+std::cout << nv7K_(-1462508114, (unsigned short)-188889211, X09bQ_NR) << std::endl;
 }
 }
 while (i >= 0);
@@ -452,7 +452,7 @@ while (j >= 0)
 j--;
 if ((H4gH6d == -1578278309) || (Ze14J9Hz == -1551275742))
 {
-Ph1_WZN = T0SXAA(1374520980, -161447689, (short)526500515, EJRG);
+Ph1_WZN = T0SXAA((unsigned short)1374520980, -161447689, (short)526500515, EJRG);
 }
 else
 {
@@ -510,7 +510,7 @@ Kj8w8C_9 ^= 2058442981;
 switch (X09bQ_NR)
 {
 case 'a':
-H4gH6d = T0SXAA(Ze14J9Hz, EJRG, 1760651782, (short)2120996307);
+H4gH6d = T0SXAA(Ze14J9Hz, EJRG, (short)1760651782, (short)2120996307);
 break;
 case 'b':
 EJRG = qkp7ew(-296936221);
@@ -543,7 +543,7 @@ case 'a':
 EJRG = H4gH6d / H4gH6d;
 break;
 case 'b':
-X09bQ_NR = T0SXAA(1382500830, 1559602782, EJRG, Ze14J9Hz);
+X09bQ_NR = T0SXAA((unsigned short)1382500830, 1559602782, EJRG, Ze14J9Hz);
 break;
 case 'c':
 Ze14J9Hz = T0SXAA((unsigned short)643139710, Ph1_WZN, 2058915795, 264224931) | 2124524285;

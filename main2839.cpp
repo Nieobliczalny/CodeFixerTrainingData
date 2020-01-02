@@ -16,7 +16,7 @@ int main(int argc, char** argv)
     unsigned long long    o2yWe_7,    Zg95Ez6a,    TrWl5THgi;
         o2yWe_7    =    Zg95Ez6a    =    TrWl5THgi    =    0;
 	unsigned char	FN9T,	Yeds1QB,	qh9Y,	O41Z,	dYyHrjl1v,	GSLH9,	q0h_kJ25Ai,	HN6I0,	K8CpyW,	z9_btpfY,	b7LwG,	jv4Z_3,	TPDB_I4,	Vr5ZY7z,	qj9Vfy17,	nCYgZ0U30M,	l7W7,	b_00VM2P,	p_9fLW,	tWL3R_b,	XYN__SAYQ,	iKAL2yRA0,	K_Rg4_,	uwm388,	iAyq287t,	HT0X_MWcW,	y9x3Vwc8n,	x4oD9u,	P0gg_QuR,	UsHt1Tzu3Q,	dAs48,	LJ_f1znah,	V5CVYe,	Cfv2,	YJcuc1bK4,	HSnDmg1cf_,	kyq_,	TPm92,	EtcKX1988,	rKX_Y,	r00x,	e8jQ7u90g,	u_I8g,	GIpLMD,	a_h0w6,	PbRX,	sAye1yQ,	sP62O8uqJp,	N_skvKEr,	II2S7o433,	ip9y5_Vs,	nGn5u7n,	DgAPY87sg,	qyWO1FzKB5,	n7Qpw,	H90x,	SRbLfxnAwK,	b8YPe_,	a1HzH6Z,	U58le,	GWb_qA,	a_95,	ECV_U,	K_Ne5y1h22,	i4mp6A9u2;
-		FN9T	=	Yeds1QB	=	qh9Y	=	O41Z	=	dYyHrjl1v	=	GSLH9	=	q0h_kJ25Ai	=	HN6I0	=	K8CpyW	=	z9_btpfY	=	b7LwG	=	jv4Z_3	=	TPDB_I4	=	Vr5ZY7z	=	qj9Vfy17	=	nCYgZ0U30M	=	l7W7	=	b_00VM2P	=	p_9fLW	=	tWL3R_b	=	XYN__SAYQ	=	iKAL2yRA0	=	K_Rg4_	=	uwm388	=	iAyq287t	=	HT0X_MWcW	=	y9x3Vwc8n	=	x4oD9u	=	P0gg_QuR	=	UsHt1Tzu3Q	=	dAs48	=	LJ_f1znah	=	V5CVYe	=	Cfv2	=	YJcuc1bK4	=	HSnDmg1cf_	=	kyq_	=	TPm92	=	EtcKX1988	=	rKX_Y	=	r00x	=	e8jQ7u90g	=	u_I8g	=	GIpLMD	=	a_h0w6	=	PbRX	=	sAye1yQ	=	sP62O8uqJp	=	N_skvKEr	=	II2S7o433	=	ip9y5_Vs	=	nGn5u7n	=	DgAPY87sg	=	qyWO1FzKB5	=	n7Qpw	=	H90x	=	SRbLfxnAwK	=	b8YPe_	=	a1HzH6Z	=	U58le	=	GWb_qA	=	a_95	=	ECV_U	=	K_Ne5y1h22	=	i4mp6A9u2	=	-253231145;
+		FN9T	=	Yeds1QB	=	qh9Y	=	O41Z	=	dYyHrjl1v	=	GSLH9	=	q0h_kJ25Ai	=	HN6I0	=	K8CpyW	=	z9_btpfY	=	b7LwG	=	jv4Z_3	=	TPDB_I4	=	Vr5ZY7z	=	qj9Vfy17	=	nCYgZ0U30M	=	l7W7	=	b_00VM2P	=	p_9fLW	=	tWL3R_b	=	XYN__SAYQ	=	iKAL2yRA0	=	K_Rg4_	=	uwm388	=	iAyq287t	=	HT0X_MWcW	=	y9x3Vwc8n	=	x4oD9u	=	P0gg_QuR	=	UsHt1Tzu3Q	=	dAs48	=	LJ_f1znah	=	V5CVYe	=	Cfv2	=	YJcuc1bK4	=	HSnDmg1cf_	=	kyq_	=	TPm92	=	EtcKX1988	=	rKX_Y	=	r00x	=	e8jQ7u90g	=	u_I8g	=	GIpLMD	=	a_h0w6	=	PbRX	=	sAye1yQ	=	sP62O8uqJp	=	N_skvKEr	=	II2S7o433	=	ip9y5_Vs	=	nGn5u7n	=	DgAPY87sg	=	qyWO1FzKB5	=	n7Qpw	=	H90x	=	SRbLfxnAwK	=	b8YPe_	=	a1HzH6Z	=	U58le	=	GWb_qA	=	a_95	=	ECV_U	=	K_Ne5y1h22	=	i4mp6A9u2	=	(unsigned char)-253231145;
 
 switch (nGn5u7n)
 {
@@ -181,7 +181,7 @@ case 1:
 Vr5ZY7z ^= XYN__SAYQ;
 break;
 case 2:
-ECV_U = (TrWl5THgi == -1396486568) ? -1757729949 : tWL3R_b;
+ECV_U = (TrWl5THgi == -1396486568) ? (unsigned char)-1757729949 : tWL3R_b;
 break;
 case 3:
 a1HzH6Z = N_skvKEr * sAye1yQ;
@@ -351,7 +351,7 @@ else if (K8CpyW == -552428168)
 switch (EtcKX1988)
 {
 case 'a':
-u_I8g = (Vr5ZY7z) ? 2124646435 : XYN__SAYQ;
+u_I8g = (Vr5ZY7z) ? (unsigned char)2124646435 : XYN__SAYQ;
 break;
 case 'b':
 PbRX = n7Qpw ^ jv4Z_3;

@@ -17,7 +17,7 @@ unsigned int	QaRo_afZ20(int	L81gNuLEd,long long	Lwe4N_bYeY)	{
 
 short int    auGo()
 {
-    return    712286184;
+    return    (short)712286184;
 }
 
 long	UA61hek(unsigned short	i9X0rLs5A2)	{
@@ -28,7 +28,7 @@ int main() {
 	unsigned long	PsHFh810n;
 	PsHFh810n	=	905560381;
   char  QgT_b78b6j;
-  QgT_b78b6j  =  1676593911;
+  QgT_b78b6j  =  (char)1676593911;
 	long double	VYiy6H8;
 	VYiy6H8	=	2085965072;
   unsigned long long  uhmLx493;
@@ -44,7 +44,7 @@ int main() {
 	unsigned short int	Mf7dX;
 	Mf7dX	=	0;
 	short	y2S5q;
-	y2S5q	=	-1399405595;
+	y2S5q	=	(short)-1399405595;
  unsigned int XPX2nGA0g;
  XPX2nGA0g = 1344032801;
  unsigned char Z7pu_;
@@ -60,7 +60,7 @@ int main() {
 	long double	Pf8LiCI;
 	Pf8LiCI	=	51065302;
  unsigned short int yB2398hRV0;
- yB2398hRV0 = -1578346549;
+ yB2398hRV0 = (unsigned short)-1578346549;
 	unsigned short int	fh8y;
 	fh8y	=	0;
 	long long	v_R5PYQW_7;
@@ -70,7 +70,7 @@ int main() {
     short int    o0NOIY;
     o0NOIY    =    (short)-11092512;
 	unsigned short int	d1BB;
-	d1BB	=	-1855989466;
+	d1BB	=	(unsigned short)-1855989466;
 
 uhmLx493 &= 1447256374;
 
@@ -185,7 +185,7 @@ case 'a':
 k61_21 = auGo();
 break;
 case 'b':
-Ni2R5w8a6 = UA61hek(-238127941);
+Ni2R5w8a6 = UA61hek((unsigned short)-238127941);
 break;
 default:
 UTy_ = auGo();
@@ -416,7 +416,7 @@ Pf8LiCI = (int)abs(QgT_b78b6j);
 }
 else
 {
-y2S5q = UA61hek(1664910262);
+y2S5q = UA61hek((unsigned short)1664910262);
 }
 }
 else if (y2S5q)
@@ -433,7 +433,7 @@ while (k >= 0);
 }
 else if (fh8y >= 636232031)
 {
-std::cout << QaRo_afZ20(-1970958395, 666636438) << Vl1_ << E_ZC607(XPX2nGA0g, 733134062, -1209522448, (unsigned short)1940455801) << "pDi1Sl1R" << "A_j7" << std::endl;
+std::cout << QaRo_afZ20(-1970958395, 666636438) << Vl1_ << E_ZC607(XPX2nGA0g, 733134062, (short)-1209522448, (unsigned short)1940455801) << "pDi1Sl1R" << "A_j7" << std::endl;
 }
 else
 {
@@ -566,7 +566,7 @@ catch (int& errorCode)
 Vl1_ = PsHFh810n >> 1075670601;
 }
 yB2398hRV0 = o0NOIY * QgT_b78b6j;
-q8_v803qa = UA61hek(207943421);
+q8_v803qa = UA61hek((unsigned short)207943421);
 return 0;
 }
 

@@ -17,7 +17,7 @@ unsigned short int    lpV2();
 int main(int argc, char** argv)
 {
 	unsigned int	G9FXqfQG8	=	-130954557;
- unsigned short int m1M9 = -2141640195;
+ unsigned short int m1M9 = (unsigned short)-2141640195;
  short int YdLFZSf34 = 0;
   unsigned long  i489  =  0;
     unsigned short    M1l1n    =    (unsigned short)758545505;
@@ -27,7 +27,7 @@ int main(int argc, char** argv)
 	unsigned char	lZ88RcOTAH	=	0;
  long vFT8Y = 0;
   unsigned int  YqnSY  =  0;
-    short int    qXizf1nHuR    =    -982262119;
+    short int    qXizf1nHuR    =    (short)-982262119;
 	int	vL43jqU1	=	-514690675;
 	char	dhbjkYxlCL	=	-741494183;
     unsigned short int    J9v0    =    (unsigned short)-903301470;
@@ -68,6 +68,6 @@ unsigned short  Qk53Z4(unsigned short int  YVpY1,short int  NUdsVXDQ97,char  Xr3
 }
 
 unsigned short int    lpV2()    {
-    return    1737822693;
+    return    (unsigned short)1737822693;
 }
 

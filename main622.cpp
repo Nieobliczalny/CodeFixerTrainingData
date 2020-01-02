@@ -136,7 +136,7 @@ while (i >= 0)
 i--;
 if ((v7qmc) || (YKr5H != -1844658868))
 {
-LP9L_U96L = DRzKH4u(-1476505455, xWs7U27, 1507301833, (unsigned short)-677680101);
+LP9L_U96L = DRzKH4u((unsigned short)-1476505455, xWs7U27, 1507301833, (unsigned short)-677680101);
 }
 }
 }

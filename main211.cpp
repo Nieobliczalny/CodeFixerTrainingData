@@ -43,7 +43,7 @@ j--;
 int k = 0;
 while (k < 10)
 {
-MEz8p = PYhu722(i7X5TAh, -1607237290);
+MEz8p = PYhu722(i7X5TAh, (unsigned char)-1607237290);
 ++k;
 }
 }
@@ -53,7 +53,7 @@ while (j >= 0);
 }
 else if (i7X5TAh < b48z6)
 {
-z8ssU9rIJ1 = PYhu722(z8ssU9rIJ1, 535757637);
+z8ssU9rIJ1 = PYhu722(z8ssU9rIJ1, (unsigned char)535757637);
 }
 else if (((i7X5TAh >= -2016319429) || (z8ssU9rIJ1 <= MEz8p)) && ((MEz8p < 1601163817) || (MEz8p < t_E253)))
 {
@@ -71,7 +71,7 @@ case 'a':
 i7X5TAh *= MEz8p;
 break;
 case 'b':
-z8ssU9rIJ1 = PYhu722(z8ssU9rIJ1, -1522642133);
+z8ssU9rIJ1 = PYhu722(z8ssU9rIJ1, (unsigned char)-1522642133);
 break;
 case 'c':
 MEz8p = PYhu722(i7X5TAh, (unsigned char)563473096);
@@ -95,7 +95,7 @@ case 'i':
 i7X5TAh = z8ssU9rIJ1 * 1104067770;
 break;
 case 'j':
-MEz8p = PYhu722(MEz8p, 164517386);
+MEz8p = PYhu722(MEz8p, (unsigned char)164517386);
 break;
 }
 }
@@ -111,7 +111,7 @@ case 'c':
 MEz8p = PYhu722(-163043137, z8ssU9rIJ1);
 break;
 case 'd':
-z8ssU9rIJ1 = PYhu722(z8ssU9rIJ1, 1548241488);
+z8ssU9rIJ1 = PYhu722(z8ssU9rIJ1, (unsigned char)1548241488);
 break;
 case 'e':
 i7X5TAh = MEz8p + 465429745;
@@ -139,7 +139,7 @@ if (MEz8p & z8ssU9rIJ1)
 {
 if (i7X5TAh == MEz8p)
 {
-i7X5TAh = (MEz8p & -1927329939) ? PYhu722(189881486, 650827226) : t_E253;
+i7X5TAh = (MEz8p & -1927329939) ? PYhu722(189881486, (unsigned char)650827226) : t_E253;
 }
 }
 else if (z8ssU9rIJ1 == t_E253)
@@ -154,7 +154,7 @@ z8ssU9rIJ1 = PYhu722(z8ssU9rIJ1, i7X5TAh);
 }
 else if (i7X5TAh <= 924087544)
 {
-MEz8p = PYhu722(-413422713, 1763942937);
+MEz8p = PYhu722(-413422713, (unsigned char)1763942937);
 }
 else if (i7X5TAh > MEz8p)
 {
@@ -166,7 +166,7 @@ i7X5TAh = (z8ssU9rIJ1 < MEz8p) ? t_E253 : MEz8p;
 }
 else
 {
-MEz8p = PYhu722(-1752767241, 305172781);
+MEz8p = PYhu722(-1752767241, (unsigned char)305172781);
 }
 }
 else if (z8ssU9rIJ1 != i7X5TAh)
@@ -197,7 +197,7 @@ while (k < 3);
 
 for (int i = 8; i >= 0; i--)
 {
-MEz8p = PYhu722(1811205565, 1693576048);
+MEz8p = PYhu722(1811205565, (unsigned char)1693576048);
 }
 
 {
@@ -207,7 +207,7 @@ do
 i++;
 if (z8ssU9rIJ1 & MEz8p)
 {
-cout << z8ssU9rIJ1 << "SO4mbs" << "JP32oi5tP6" << "jQ0rWiXYn" << PYhu722(MEz8p, -882030667) << endl;
+cout << z8ssU9rIJ1 << "SO4mbs" << "JP32oi5tP6" << "jQ0rWiXYn" << PYhu722(MEz8p, (unsigned char)-882030667) << endl;
 }
 else
 {
@@ -245,7 +245,7 @@ int k = 0;
 do
 {
 ++k;
-z8ssU9rIJ1 = PYhu722(1565201461, 85093562);
+z8ssU9rIJ1 = PYhu722(1565201461, (unsigned char)85093562);
 }
 while (k < 2);
 }
@@ -255,7 +255,7 @@ else
 {
 if (((i7X5TAh <= z8ssU9rIJ1) || (MEz8p > z8ssU9rIJ1)) && ((z8ssU9rIJ1 & MEz8p) && (z8ssU9rIJ1 & -1694656608)))
 {
-cout << PYhu722(2070711352, i7X5TAh) << "MhuTIo1" << PYhu722(z8ssU9rIJ1, 873192856) << "X6kh" << "p5SGmPn" << endl;
+cout << PYhu722(2070711352, i7X5TAh) << "MhuTIo1" << PYhu722(z8ssU9rIJ1, (unsigned char)873192856) << "X6kh" << "p5SGmPn" << endl;
 }
 }
 
@@ -366,7 +366,7 @@ case 'c':
 i7X5TAh = i7X5TAh - 2094625193;
 break;
 case 'd':
-MEz8p = PYhu722(i7X5TAh, 1884916961);
+MEz8p = PYhu722(i7X5TAh, (unsigned char)1884916961);
 break;
 case 'e':
 i7X5TAh -= z8ssU9rIJ1;
@@ -378,7 +378,7 @@ case 'g':
 MEz8p = PYhu722(-671709343, (unsigned char)-266504244);
 break;
 case 'h':
-MEz8p = PYhu722(MEz8p, 2096180730);
+MEz8p = PYhu722(MEz8p, (unsigned char)2096180730);
 break;
 case 'i':
 i7X5TAh /= z8ssU9rIJ1;
@@ -390,7 +390,7 @@ try
 {
 if (MEz8p == z8ssU9rIJ1)
 {
-cout << PYhu722(MEz8p, -110474373) << i7X5TAh << "AOTTm" << endl;
+cout << PYhu722(MEz8p, (unsigned char)-110474373) << i7X5TAh << "AOTTm" << endl;
 }
 }
 catch (int& errorCode)
@@ -451,7 +451,7 @@ while (j < 3);
 }
 else if (z8ssU9rIJ1 > MEz8p)
 {
-z8ssU9rIJ1 = PYhu722(2117667850, 1569354956);
+z8ssU9rIJ1 = PYhu722(2117667850, (unsigned char)1569354956);
 }
 else if (z8ssU9rIJ1 & XkjA)
 {
@@ -537,7 +537,7 @@ case 1:
 i7X5TAh = MEz8p * MEz8p;
 break;
 case 2:
-z8ssU9rIJ1 = PYhu722(z8ssU9rIJ1, 564268187);
+z8ssU9rIJ1 = PYhu722(z8ssU9rIJ1, (unsigned char)564268187);
 break;
 case 3:
 i7X5TAh = i7X5TAh * 1581511498;
@@ -568,7 +568,7 @@ z8ssU9rIJ1 = (unsigned char)(XkjA * z8ssU9rIJ1);
 
 for (int i = 1; i >= 0; i--)
 {
-z8ssU9rIJ1 = PYhu722(658990636, 112646746);
+z8ssU9rIJ1 = PYhu722(658990636, (unsigned char)112646746);
 }
 if (MEz8p > 737937944)
 {
@@ -632,7 +632,7 @@ else if ((i7X5TAh < MEz8p) || ((MEz8p > XkjA) && (z8ssU9rIJ1)))
 {
 try
 {
-z8ssU9rIJ1 = PYhu722(1328505420, 1913271420);
+z8ssU9rIJ1 = PYhu722(1328505420, (unsigned char)1913271420);
 }
 catch (int& errorCode)
 {
@@ -650,7 +650,7 @@ case 1:
 MEz8p = PYhu722(MEz8p, z8ssU9rIJ1);
 break;
 case 2:
-MEz8p = PYhu722(MEz8p, 811192560);
+MEz8p = PYhu722(MEz8p, (unsigned char)811192560);
 break;
 case 3:
 MEz8p = PYhu722(631588099, i7X5TAh);
@@ -665,7 +665,7 @@ case 6:
 i7X5TAh -= z8ssU9rIJ1;
 break;
 case 7:
-i7X5TAh = PYhu722(-640308413, -82162840) & 1614131518;
+i7X5TAh = PYhu722(-640308413, (unsigned char)-82162840) & 1614131518;
 break;
 case 8:
 i7X5TAh *= 1680161678;
@@ -696,7 +696,7 @@ else if (MEz8p <= XkjA)
 int k = 2;
 do
 {
-z8ssU9rIJ1 = PYhu722(z8ssU9rIJ1, -1897632788);
+z8ssU9rIJ1 = PYhu722(z8ssU9rIJ1, (unsigned char)-1897632788);
 --k;
 }
 while (k >= 0);
@@ -718,7 +718,7 @@ i7X5TAh -= 382817882;
 }
 else if (MEz8p)
 {
-i7X5TAh = PYhu722(1952090002, -2078752769) << 1587915070;
+i7X5TAh = PYhu722(1952090002, (unsigned char)-2078752769) << 1587915070;
 }
 else
 {
@@ -766,7 +766,7 @@ for (int j = 4; j >= 0; --j)
 {
 for (int k = 6; k >= 0; --k)
 {
-MEz8p = PYhu722(MEz8p, -373256565);
+MEz8p = PYhu722(MEz8p, (unsigned char)-373256565);
 }
 }
 }
@@ -798,7 +798,7 @@ j--;
 int k = 3;
 while (k >= 0)
 {
-z8ssU9rIJ1 = PYhu722(i7X5TAh, -416925992);
+z8ssU9rIJ1 = PYhu722(i7X5TAh, (unsigned char)-416925992);
 --k;
 }
 }
@@ -809,7 +809,7 @@ else
 {
 if (((MEz8p != z8ssU9rIJ1) && (MEz8p >= 2140097067)) && (z8ssU9rIJ1 != t_E253))
 {
-MEz8p = PYhu722(-491277887, -1354778072);
+MEz8p = PYhu722(-491277887, (unsigned char)-1354778072);
 }
 }
 
@@ -822,7 +822,7 @@ int k = 7;
 do
 {
 k--;
-z8ssU9rIJ1 = PYhu722(1175134222, -1803306293);
+z8ssU9rIJ1 = PYhu722(1175134222, (unsigned char)-1803306293);
 }
 while (k >= 0);
 }
@@ -841,7 +841,7 @@ while (j >= 0)
 {
 if (z8ssU9rIJ1 & b48z6)
 {
-MEz8p = PYhu722(MEz8p, -1265392012);
+MEz8p = PYhu722(MEz8p, (unsigned char)-1265392012);
 }
 else
 {
@@ -861,7 +861,7 @@ while (j >= 0)
 int k = 0;
 do
 {
-MEz8p = PYhu722(-1453831850, 990315007);
+MEz8p = PYhu722(-1453831850, (unsigned char)990315007);
 ++k;
 }
 while (k < 1);
@@ -941,7 +941,7 @@ while (j < 7)
 ++j;
 if (i7X5TAh >= -1141035843)
 {
-MEz8p = PYhu722(MEz8p, -524008569);
+MEz8p = PYhu722(MEz8p, (unsigned char)-524008569);
 }
 else
 {

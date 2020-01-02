@@ -25,7 +25,7 @@ int main(int argc, char** argv)
 	yIccRMW9	=	0;
 	iDoBO9nv4	=	0;
   unsigned char  aRdw7,  XV5LmT,  W2Gk5VB,  k63D2Ng,  uQG6_t819N,  gyO_99u_bu,  HrJBqX,  Qq_444S1O,  QBhea,  oYPfF,  bTu29,  vQHlhM395k,  qSf0Kic3y,  hY_X_,  PS2Gp74rX,  dfM_,  fd1b1UM,  cPe_mP_m2U,  WJyIOpXTj6,  P7O76,  ie8k4QGM,  RJIKy,  kN1a,  PlSid,  r4fkn17,  d7zuiX_o;
-  aRdw7  =  1825470219;
+  aRdw7  =  (unsigned char)1825470219;
   XV5LmT  =  (unsigned char)-1135747352;
   W2Gk5VB  =  -520222469;
   k63D2Ng  =  1481352046;
@@ -35,7 +35,7 @@ int main(int argc, char** argv)
   Qq_444S1O  =  473135707;
   QBhea  =  -118675836;
   oYPfF  =  519988955;
-  bTu29  =  574228362;
+  bTu29  =  (unsigned char)574228362;
   vQHlhM395k  =  (unsigned char)1642969108;
   qSf0Kic3y  =  1870792780;
   hY_X_  =  -763359223;
@@ -45,7 +45,7 @@ int main(int argc, char** argv)
   cPe_mP_m2U  =  -644138964;
   WJyIOpXTj6  =  -1844780545;
   P7O76  =  160827793;
-  ie8k4QGM  =  -376197048;
+  ie8k4QGM  =  (unsigned char)-376197048;
   RJIKy  =  (unsigned char)667365811;
   kN1a  =  -2042989312;
   PlSid  =  623179800;
@@ -87,7 +87,7 @@ E4idm2sT57 = (int)abs(yIccRMW9);
 }
 else
 {
-yIccRMW9 = g0VDq(-329144783, -1560204454, (char)-312016709, WJyIOpXTj6, -41457111);
+yIccRMW9 = g0VDq((short)-329144783, -1560204454, (char)-312016709, WJyIOpXTj6, -41457111);
 }
 PlSid = (unsigned char)(cPe_mP_m2U);
 ie8k4QGM = g0VDq(2089292723, -888260079, -219092349, WJyIOpXTj6, -507843819) / yIccRMW9;
@@ -109,7 +109,7 @@ case 3:
 uQG6_t819N = bTu29 / iDoBO9nv4;
 break;
 case 4:
-d7zuiX_o = Cazh_6YW(1724085997, d7zuiX_o, PlSid, P7O76, -1082367131);
+d7zuiX_o = Cazh_6YW((unsigned char)1724085997, d7zuiX_o, PlSid, P7O76, -1082367131);
 break;
 case 5:
 E4idm2sT57 = g0VDq(PS2Gp74rX, -1516064021, fd1b1UM, 223955786, 378847818);
@@ -139,7 +139,7 @@ unsigned long long  Cazh_6YW(unsigned char  L9Q8S5G,unsigned long long  uoU_0s,l
 }
 
 unsigned char  Jk805(unsigned char  tw13,long  XEa_N2)  {
-  return  -1671764451;
+  return  (unsigned char)-1671764451;
 }
 
 long i6q_l1(unsigned short int NJ__8)
@@ -149,6 +149,6 @@ long i6q_l1(unsigned short int NJ__8)
 
 short int  WUFh7QER9(short  slXY,short  vf6UE1)
 {
-  return  -2092065438;
+  return  (short)-2092065438;
 }
 

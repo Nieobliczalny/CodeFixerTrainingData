@@ -95,7 +95,7 @@ int main()
 switch (jHQZv_)
 {
 case 0:
-tg3L0 = tyA5gaD(-590056437, -434085496, 1491960222, R4Ibo, w_VV);
+tg3L0 = tyA5gaD(-590056437, (short)-434085496, 1491960222, R4Ibo, w_VV);
 break;
 case 1:
 Oa17IIp *= tg3L0;
@@ -191,7 +191,7 @@ if (((di4cF != -1044888598) || (di4cF >= -1509017811)) && ((C_sGc != -354909397)
 {
 if ((SI663Iq != dc21pV) && (jHQZv_ & -966613512))
 {
-b296VI = n9VM__(882268854);
+b296VI = n9VM__((unsigned short)882268854);
 }
 else
 {
@@ -215,7 +215,7 @@ if ((1678850065 / vXMY6()) != -2009337892)
 {
 if (jHQZv_ & 787777582)
 {
-cout << tyA5gaD(b296VI, -1159505315, -977630787, Y38Hg44w, VhZ_PCL4) << "K6xzr7F" << "Ka6VcCwi" << endl;
+cout << tyA5gaD(b296VI, (short)-1159505315, -977630787, Y38Hg44w, VhZ_PCL4) << "K6xzr7F" << "Ka6VcCwi" << endl;
 }
 else if ((Y38Hg44w > -2080068520) && (Y86u == t0Ki))
 {
@@ -233,7 +233,7 @@ b296VI = Z09N_x2sj - 285396838;
 break;
 case 'c':
 case 'C':
-D93i2_M97 = n9VM__(1581672711);
+D93i2_M97 = n9VM__((unsigned short)1581672711);
 break;
 case 'd':
 case 'D':
@@ -291,7 +291,7 @@ Z09N_x2sj = (int)ceil(p6Too7);
 }
 if (e4pks == YIFi)
 {
-YIFi = tyA5gaD(-1535074055, 437019538, 250361354, p6Too7, jIG1U99mKv);
+YIFi = tyA5gaD(-1535074055, (short)437019538, 250361354, p6Too7, jIG1U99mKv);
 }
 else
 {
@@ -314,7 +314,7 @@ j--;
 
 try
 {
-gy76 = tyA5gaD(gy76, -310248975, -1875538336, (unsigned short)863543625, -421001004);
+gy76 = tyA5gaD(gy76, (short)-310248975, -1875538336, (unsigned short)863543625, -421001004);
 }
 catch (int& errorCode)
 {
@@ -343,7 +343,7 @@ switch (jHQZv_)
 {
 case 'a':
 case 'A':
-jIG1U99mKv = n9VM__(-178001563);
+jIG1U99mKv = n9VM__((unsigned short)-178001563);
 break;
 case 'b':
 case 'B':
@@ -364,7 +364,7 @@ break;
 e66j_qT = (int)ceil(lcd_lkfmL5);
 for (int i = 0; i < 3; ++i)
 {
-cout << di4cF << "pGlV_N3N" << "zt3JobriZ" << tyA5gaD(e4pks, tg3L0, 1792949040, -1554079596, yRHhn_2GWW) << SI663Iq << endl;
+cout << di4cF << "pGlV_N3N" << "zt3JobriZ" << tyA5gaD(e4pks, tg3L0, 1792949040, (unsigned short)-1554079596, yRHhn_2GWW) << SI663Iq << endl;
 }
 
 {
@@ -378,7 +378,7 @@ case 'a':
 E7N_2r = (int)ceil(n4eV10W);
 break;
 case 'b':
-OAJ0gCc0_s = n9VM__(1747114956);
+OAJ0gCc0_s = n9VM__((unsigned short)1747114956);
 break;
 case 'c':
 Oa17IIp = n9VM__(Oa17IIp);
@@ -397,7 +397,7 @@ unsigned short int    vXMY6()    {
 
 char  tyA5gaD(unsigned long long  h2vd_mQ,short  Z8dja_ds,unsigned long  a76n,unsigned short int  NM3_0xezV6,unsigned int  ufaGooU3)
 {
-  return  1304986769;
+  return  (char)1304986769;
 }
 
 unsigned int  n9VM__(unsigned short int  em7W20Rp)  {

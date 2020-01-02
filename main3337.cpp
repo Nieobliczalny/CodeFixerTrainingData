@@ -13,7 +13,7 @@ using std::ceil;
 using std::floor;
 
 unsigned char    mRr4Xrm00G(unsigned int    NgVe7,char    x6_99_)    {
-    return    -2094757620;
+    return    (unsigned char)-2094757620;
 }
 
 unsigned short    vu9_(unsigned long long    x9142fV,int    vkatDy7E,unsigned int    v102192sO)    {
@@ -27,7 +27,7 @@ unsigned long n_nCZ(char Wy7jMmQX,short int q_1K)
 
 unsigned short  xS72s6r_(unsigned char  nD0_d,int  GfIm)
 {
-  return  571038726;
+  return  (unsigned short)571038726;
 }
 
 int main()
@@ -181,7 +181,7 @@ case 'c':
 Mzy9Q = (int)abs(OX4_hG) + (-1456207789);
 break;
 case 'd':
-OX4_hG = n_nCZ(1312057670, M3t5Jw6_);
+OX4_hG = n_nCZ((char)1312057670, M3t5Jw6_);
 break;
 case 'e':
 hL6gr4 = (int)abs(s_83Y);
@@ -206,7 +206,7 @@ else if ((tQpNX7bA >= CjJD8b) || (Gv_mkD9i))
 switch (DltTd1WrFP)
 {
 case 0:
-t9W3 = mRr4Xrm00G(-685632539, -163725506);
+t9W3 = mRr4Xrm00G(-685632539, (char)-163725506);
 break;
 case 1:
 SDpQPdC = n_nCZ(t9W3, (short)493103467) | 593965696;
@@ -225,7 +225,7 @@ case 0:
 f346lO /= 1170134434;
 break;
 case 1:
-a8zcbEOrpe = (Gv_mkD9i != -2085698282) ? 1089515733 : n_nCZ(-2022275625, (short)-17121496);
+a8zcbEOrpe = (Gv_mkD9i != -2085698282) ? 1089515733 : n_nCZ((char)-2022275625, (short)-17121496);
 break;
 case 2:
 QbjdTC2f = zP5gNhM_8d + 1251664375;
@@ -248,7 +248,7 @@ hL6gr4 = (long double)(c6_Sp_);
 }
 else
 {
-Bu5_r2j8Fy = mRr4Xrm00G(-1522230594, 2096027537);
+Bu5_r2j8Fy = mRr4Xrm00G(-1522230594, (char)2096027537);
 }
 }
 else
@@ -260,7 +260,7 @@ switch (uhHKD9)
 {
 case 'a':
 case 'A':
-Gv_mkD9i = mRr4Xrm00G(Gv_mkD9i, 396986532);
+Gv_mkD9i = mRr4Xrm00G(Gv_mkD9i, (char)396986532);
 break;
 case 'b':
 case 'B':
@@ -363,7 +363,7 @@ X9H3 = My1i7 * 525148850;
 break;
 case 'f':
 case 'F':
-uhHKD9 = n_nCZ(-1581704202, E7__xe4q);
+uhHKD9 = n_nCZ((char)-1581704202, E7__xe4q);
 break;
 case 'g':
 case 'G':

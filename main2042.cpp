@@ -13,7 +13,7 @@ using std::ceil;
 using std::floor;
 
 unsigned short    nOxbB()    {
-    return    111773194;
+    return    (unsigned short)111773194;
 }
 
 long    TD7nzZough(short int    XtMiA7jN,int    hVDy,short int    U0tHAw_uwk,unsigned short int    Ld51v)    {
@@ -25,7 +25,7 @@ unsigned char  GTzq(int  Gf1KqFin_F)  {
 }
 
 char  gqk9E()  {
-  return  1276075858;
+  return  (char)1276075858;
 }
 
 int main(void)
@@ -174,7 +174,7 @@ switch (G5jI99c2)
 {
 case 'a':
 case 'A':
-G5jI99c2 = TD7nzZough(190780069, gSb2Co685, a8c5hJ2g_, yXK1F3);
+G5jI99c2 = TD7nzZough((short)190780069, gSb2Co685, a8c5hJ2g_, yXK1F3);
 break;
 case 'b':
 case 'B':
@@ -228,7 +228,7 @@ else
 {
 try
 {
-G5jI99c2 = TD7nzZough(-972715176, 831941447, (short)729379544, 910747986);
+G5jI99c2 = TD7nzZough((short)-972715176, 831941447, (short)729379544, 910747986);
 }
 catch (int& errorCode)
 {

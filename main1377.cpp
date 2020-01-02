@@ -16,7 +16,7 @@ using std::floor;
 
 int main() {
   short  tnBth___u;
-  tnBth___u  =  2069169095;
+  tnBth___u  =  (short)2069169095;
 	long	zoIr6;
 	zoIr6	=	1799218402;
     char    T9UphL3;
@@ -38,7 +38,7 @@ int main() {
     unsigned long    a7tP9H_dZi;
     a7tP9H_dZi    =    -55046312;
 	unsigned char	A543;
-	A543	=	1759547516;
+	A543	=	(unsigned char)1759547516;
     unsigned char    qNjw;
     qNjw    =    (unsigned char)-871383754;
     unsigned long long    U2eU4WdMe;
@@ -50,7 +50,7 @@ int main() {
     float    qNSz3h8e;
     qNSz3h8e    =    -1702251940;
   unsigned short int  q5zWeQ8Y9A;
-  q5zWeQ8Y9A  =  1406322867;
+  q5zWeQ8Y9A  =  (unsigned short)1406322867;
   unsigned char  kwmQ51X;
   kwmQ51X  =  0;
 	int	dRt6uGre;
@@ -62,7 +62,7 @@ int main() {
     unsigned long    P42HGE087;
     P42HGE087    =    2051028518;
     unsigned short    fXaDl;
-    fXaDl    =    -157285425;
+    fXaDl    =    (unsigned short)-157285425;
  unsigned short int BBd9mT7x;
  BBd9mT7x = 300784475;
   unsigned short  xnZYvnZhm;

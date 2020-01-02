@@ -18,7 +18,7 @@ int main(void) {
  float F_2KG;
  F_2KG = -179954269;
     short    DcI164;
-    DcI164    =    -21458584;
+    DcI164    =    (short)-21458584;
   short int  f4o6ww;
   f4o6ww  =  (short)-1687285787;
     long    h_nE1Ph;
@@ -28,7 +28,7 @@ int main(void) {
   unsigned long  hz4q7l8K_5;
   hz4q7l8K_5  =  657774087;
   unsigned char  V7xEJb8;
-  V7xEJb8  =  1669838538;
+  V7xEJb8  =  (unsigned char)1669838538;
  unsigned short int p3GC3_h;
  p3GC3_h = 0;
 	short	AT4b;
@@ -40,7 +40,7 @@ int main(void) {
   unsigned long long  VUoYW;
   VUoYW  =  932481717;
     short    bDGHL9fyi;
-    bDGHL9fyi    =    981515306;
+    bDGHL9fyi    =    (short)981515306;
  long long x1zB4G;
  x1zB4G = -178167388;
     unsigned short    aNfXrs06J;
@@ -64,7 +64,7 @@ int main(void) {
     long    ux2Dv1iA;
     ux2Dv1iA    =    0;
     char    ar00s8j7;
-    ar00s8j7    =    1876233808;
+    ar00s8j7    =    (char)1876233808;
     unsigned long long    iyGZ;
     iyGZ    =    -196228581;
     double    pvE0;
@@ -74,7 +74,7 @@ int main(void) {
     unsigned char    V9qZT4Dm9;
     V9qZT4Dm9    =    -1456593202;
     char    o1SwM_JGTL;
-    o1SwM_JGTL    =    780720776;
+    o1SwM_JGTL    =    (char)780720776;
 	unsigned long long	uz_R_377;
 	uz_R_377	=	-1388787159;
 	short	Ge_Uj;
@@ -106,7 +106,7 @@ int main(void) {
     unsigned int    Oq216QU;
     Oq216QU    =    -272460843;
   unsigned char  Uxu8;
-  Uxu8  =  1825169232;
+  Uxu8  =  (unsigned char)1825169232;
     long    Qs_6;
     Qs_6    =    0;
     unsigned long    DD4fY;
@@ -118,7 +118,7 @@ int main(void) {
 	long	pA35;
 	pA35	=	-201899164;
  short int sy3Iu5Bd;
- sy3Iu5Bd = 1208765664;
+ sy3Iu5Bd = (short)1208765664;
 
 std::cout << f68GggIz(1921542445, -462436314, Xoc4L_0s8t, -1916281306, 135269936) << f68GggIz(F4ZrcZ0, V9qZT4Dm9, Xoc4L_0s8t, qqi4n, Zo7ci7EMk) << h_nE1Ph << f68GggIz(1513779581, 1436575400, Xoc4L_0s8t, 1565920804, 40527957) << std::endl;
 
@@ -147,7 +147,7 @@ while (i < 1);
 
 if ((iyGZ & vtlq7) && (Uxu8 > GE_LI80FaK))
 {
-XtDgg = f68GggIz(2124959201, 441398375, ODT79G46j, EKynV, pA35);
+XtDgg = f68GggIz(2124959201, (short)441398375, ODT79G46j, EKynV, pA35);
 }
 
 return 0;

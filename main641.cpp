@@ -14,7 +14,7 @@ int main(int argc, char** argv) {
  int L202e1DnAW;
  L202e1DnAW = 1207894787;
  unsigned short f744B09_;
- f744B09_ = 1604419181;
+ f744B09_ = (unsigned short)1604419181;
  unsigned short PQ_a;
  PQ_a = (unsigned short)1973489696;
 	unsigned int	q_nrJO;
@@ -24,7 +24,7 @@ int main(int argc, char** argv) {
 	short int	uP100G1;
 	uP100G1	=	-869634586;
  unsigned char EBXsm3Eh;
- EBXsm3Eh = 1649216445;
+ EBXsm3Eh = (unsigned char)1649216445;
 	unsigned int	L65v3S6S;
 	L65v3S6S	=	715391538;
     unsigned short int    vEZxj;
@@ -34,7 +34,7 @@ int main(int argc, char** argv) {
     int    YT9yuK;
     YT9yuK    =    -478634697;
   short int  YXoXK;
-  YXoXK  =  -1608294328;
+  YXoXK  =  (short)-1608294328;
     unsigned int    PUomj5Ep_;
     PUomj5Ep_    =    -385493418;
 	long	rM4_H713;
@@ -58,7 +58,7 @@ int main(int argc, char** argv) {
  unsigned int g_5B6eH84;
  g_5B6eH84 = 1538187762;
     unsigned short    v_6v;
-    v_6v    =    791008053;
+    v_6v    =    (unsigned short)791008053;
  unsigned char mrlo5Jy7Bh;
  mrlo5Jy7Bh = (unsigned char)949432924;
   short  q5lQ;
@@ -68,7 +68,7 @@ int main(int argc, char** argv) {
 	unsigned short	g2zVBtUv;
 	g2zVBtUv	=	513557885;
 	short	uE30;
-	uE30	=	-299875956;
+	uE30	=	(short)-299875956;
  unsigned short n5Sd35;
  n5Sd35 = (unsigned short)1172129505;
  short vQz6vqnM;
@@ -95,7 +95,7 @@ for (int i = 0; i < 10; i++)
 switch (YXoXK)
 {
 case 0:
-vEZxj = AgPw(-44837148);
+vEZxj = AgPw((short)-44837148);
 break;
 case 1:
 vEZxj = AgPw(xhUnB);
@@ -123,7 +123,7 @@ if (((iYYO9O2 >= 1660875513) && (uE30 <= -626216783)) && (YT9yuK & s_j_oo))
 cout << AgPw(f744B09_) << AgPw(f744B09_) << endl;
 }
 
-cout << AgPw(1128255894) << endl;
+cout << AgPw((short)1128255894) << endl;
 if ((soJ4w64C == -883703793) && (L65v3S6S))
 {
 if (q5lQ >= vQz6vqnM)
@@ -146,7 +146,7 @@ case 0:
 vEZxj = AgPw(YT9yuK);
 break;
 case 1:
-vEZxj = AgPw(-1575971597);
+vEZxj = AgPw((short)-1575971597);
 break;
 case 2:
 U5YB_8KI = (int)floor(f8DXcd_AY);
@@ -158,7 +158,7 @@ case 4:
 PUomj5Ep_ &= 2005447995;
 break;
 case 5:
-vEZxj = AgPw(992010042);
+vEZxj = AgPw((short)992010042);
 break;
 }
 }
@@ -172,7 +172,7 @@ f8DXcd_AY = (int)ceil(ITgZk);
 break;
 case 'b':
 case 'B':
-vEZxj = AgPw(-701936961);
+vEZxj = AgPw((short)-701936961);
 break;
 case 'c':
 case 'C':

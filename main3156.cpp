@@ -17,7 +17,7 @@ long long  N6vC0(int  oIFR84wN84,int  y0rk108,long long  Nc8_,unsigned int  xRz9
 }
 
 short	kC3d(unsigned char	KUd6,int	GRv9L)	{
-	return	-860433835;
+	return	(short)-860433835;
 }
 
 int  MeWMF(short int  DY23,unsigned short  F2Z1_,unsigned int  m_5z65_yzo,short int  C3Q8_g_)
@@ -38,7 +38,7 @@ int main()
  int t2V2G0h = 844984257;
 	int	BCG_	=	-1381640574;
  unsigned int Yn6l1rY = -2057615219;
-	unsigned short	ncYC5f_S	=	-478353505;
+	unsigned short	ncYC5f_S	=	(unsigned short)-478353505;
 	char	q4KX11	=	(char)1441396270;
  float A2a8Oci1 = -1333989805;
   unsigned char  wISuf8  =  -1416497398;
@@ -48,7 +48,7 @@ int main()
 	unsigned short	gSZM9_Q4	=	1392490993;
     unsigned char    NYxU    =    1393427715;
     unsigned long long    Jl_YA8_    =    786726808;
-    unsigned char    IZ4u    =    1371935140;
+    unsigned char    IZ4u    =    (unsigned char)1371935140;
 	unsigned char	xbeoulh	=	(unsigned char)830796556;
   unsigned short  gAWCIP6_I  =  -1129257616;
     long    yG07PEl1    =    -356630266;
@@ -58,7 +58,7 @@ int main()
     unsigned long    qR43Y1B    =    -1496856577;
 	unsigned int	AXK3	=	-1899019853;
  double M2cwQT = -898453790;
- short sr3rCp = 782294580;
+ short sr3rCp = (short)782294580;
  double J47X_ = -1382424315;
  unsigned long Yb_7zEi5 = 1823715724;
   long  ghH3  =  -869940092;
@@ -68,7 +68,7 @@ int main()
  short int R4X7 = 1410592330;
 	unsigned short int	y54S247	=	1420021908;
 	long	ewmCQ9O	=	-1340086794;
-  char  a47MXkQ8  =  861388961;
+  char  a47MXkQ8  =  (char)861388961;
     char    vh2R4Gu_    =    1962053726;
 
 try
@@ -139,7 +139,7 @@ for (int i = 2; i >= 0; --i)
 {
 LH8zy = (int)floor(c9uUj);
 }
-c9uUj = M6EY5(-142183479, (short)-1540470809, -2079858192, R4X7, uZhups);
+c9uUj = M6EY5((unsigned char)-142183479, (short)-1540470809, -2079858192, R4X7, uZhups);
 
 AXK3 = (unsigned int)(xbvBFuL);
 
@@ -152,7 +152,7 @@ int j = 2;
 do
 {
 j--;
-FLYng_F2K0 = (gAWCIP6_I < Dq_ntpY) ? QPlnvJ104(-1839673784, (char)2023580587, -1955611066) : c9uUj;
+FLYng_F2K0 = (gAWCIP6_I < Dq_ntpY) ? QPlnvJ104((short)-1839673784, (char)2023580587, -1955611066) : c9uUj;
 }
 while (j >= 0);
 }
@@ -200,7 +200,7 @@ else
 {
 if (R4X7 & AXK3)
 {
-AjAVD58J = QPlnvJ104(AXK3, 944423671, (short)-396800039);
+AjAVD58J = QPlnvJ104(AXK3, (char)944423671, (short)-396800039);
 }
 else
 {

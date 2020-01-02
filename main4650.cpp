@@ -144,7 +144,7 @@ do
 {
 if (rc1T4j <= P3Bj2)
 {
-std::cout << gE_8HK3(133775618, 1185989220, N61A2Uc_F, 1119531325, (char)-1940561331) << "jD897mMsHt" << std::endl;
+std::cout << gE_8HK3(133775618, (char)1185989220, N61A2Uc_F, 1119531325, (char)-1940561331) << "jD897mMsHt" << std::endl;
 }
 else
 {
@@ -167,7 +167,7 @@ unsigned long long  DBF7S1()
 }
 
 short cWf0S9w_7(unsigned long long y8Z_VC9ETo,int pP0dP_) {
- return 1513083652;
+ return (short)1513083652;
 }
 
 short    uI437Y5(short    i2t0p4Yw,unsigned long    PV51)    {

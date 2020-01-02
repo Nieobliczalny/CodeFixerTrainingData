@@ -150,7 +150,7 @@ case 4:
 SpPU5 = (int)abs(SpJ_) + (1958193303);
 break;
 case 5:
-yPEAI0AA = W4k_MNt(Qq5QIaSrBK, SpJ_, -189721166);
+yPEAI0AA = W4k_MNt(Qq5QIaSrBK, SpJ_, (unsigned short)-189721166);
 break;
 case 6:
 SpPU5 -= yPEAI0AA;
@@ -175,7 +175,7 @@ SpPU5 = (int)abs(Qq5QIaSrBK) + (1501743869);
 }
 }
 
-gX1kh = W4k_MNt(1096344547, -1464337077, gX1kh);
+gX1kh = W4k_MNt(1096344547, (unsigned short)-1464337077, gX1kh);
 yPEAI0AA = (long double)(SpPU5);
 try
 {
@@ -206,7 +206,7 @@ gX1kh = (int)ceil(SpPU5);
 }
 else if (((SpJ_) && (ZY6P33 & 1675094434)) || (ZY6P33))
 {
-gX1kh = W4k_MNt(-339095483, WkM9bxy, 734802924);
+gX1kh = W4k_MNt(-339095483, WkM9bxy, (unsigned short)734802924);
 }
 else if ((WkM9bxy & SpJ_) || (gX1kh > yPEAI0AA))
 {
@@ -231,7 +231,7 @@ yPEAI0AA = (int)floor(gX1kh);
 }
 else
 {
-std::cout << etO22O(gX1kh, 501258205) << "VH09" << ZY6P33 << etO22O(-1522096634, WkM9bxy) << W4k_MNt(gX1kh, WkM9bxy, -1766695191) << std::endl;
+std::cout << etO22O(gX1kh, 501258205) << "VH09" << ZY6P33 << etO22O(-1522096634, WkM9bxy) << W4k_MNt(gX1kh, WkM9bxy, (unsigned short)-1766695191) << std::endl;
 }
 }
 catch (int& errorCode)
@@ -247,7 +247,7 @@ case 'a':
 gX1kh -= 149761257;
 break;
 case 'b':
-SpPU5 = W4k_MNt(WkM9bxy, 262249155, yPEAI0AA) - 137754113;
+SpPU5 = W4k_MNt(WkM9bxy, (unsigned short)262249155, yPEAI0AA) - 137754113;
 break;
 case 'c':
 yPEAI0AA = W4k_MNt(WkM9bxy, (unsigned short)1390228686, yPEAI0AA) ^ 1111877124;
@@ -280,7 +280,7 @@ case 4:
 yPEAI0AA /= 15939303;
 break;
 case 5:
-SpPU5 = W4k_MNt(1776630796, 39968116, (unsigned short)1794129159);
+SpPU5 = W4k_MNt(1776630796, (unsigned short)39968116, (unsigned short)1794129159);
 break;
 case 6:
 yPEAI0AA = W4k_MNt(yPEAI0AA, -1737687085, 366074287);
@@ -296,7 +296,7 @@ WkM9bxy = etO22O(SpPU5, -711520081);
 break;
 }
 gX1kh = (int)abs(WkM9bxy) + (-382256771);
-std::cout << W4k_MNt(SpPU5, -1776359168, (unsigned short)729454025) << std::endl;
+std::cout << W4k_MNt(SpPU5, (unsigned short)-1776359168, (unsigned short)729454025) << std::endl;
 gX1kh = W4k_MNt(Qq5QIaSrBK, 291670096, -1929968194);
 
 {
@@ -329,7 +329,7 @@ yPEAI0AA = W4k_MNt(Qq5QIaSrBK, yPEAI0AA, WkM9bxy);
 break;
 case 'd':
 case 'D':
-gX1kh = W4k_MNt(1382003497, -200473206, (unsigned short)-1888267483);
+gX1kh = W4k_MNt(1382003497, (unsigned short)-200473206, (unsigned short)-1888267483);
 break;
 case 'e':
 case 'E':

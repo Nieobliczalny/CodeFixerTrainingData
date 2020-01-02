@@ -80,7 +80,7 @@ catch (int& errorCode)
 tOOhA4Ruh0 = pT4gd9v(tOOhA4Ruh0);
 }
 
-i142Y77xp = Sn8DD(i142Y77xp, m4kF, 1703428272, h5SH9VVQ, j48044Cs);
+i142Y77xp = Sn8DD(i142Y77xp, m4kF, (unsigned short)1703428272, h5SH9VVQ, j48044Cs);
 
 std::cout << KS4LsY8M << std::endl;
 {
@@ -100,7 +100,7 @@ switch (pLu7Rlwn0)
 {
 case 'a':
 case 'A':
-KS4LsY8M = Sn8DD(KS4LsY8M, HV40, -2076604634, mQOxWGOT2x, pLu7Rlwn0);
+KS4LsY8M = Sn8DD(KS4LsY8M, HV40, (unsigned short)-2076604634, mQOxWGOT2x, pLu7Rlwn0);
 break;
 case 'b':
 case 'B':
@@ -164,7 +164,7 @@ j++;
 }
 }
 }
-HV40 = Sn8DD(HV40, vo4MYHy3, -921859336, mQOxWGOT2x, 1313043440);
+HV40 = Sn8DD(HV40, vo4MYHy3, (unsigned short)-921859336, mQOxWGOT2x, 1313043440);
 
 {
 int i = 0;
@@ -206,7 +206,7 @@ case 'd':
 n8_S %= 1438658687;
 break;
 case 'e':
-D0MmO8g = Tw7986(977443217, rJmz7);
+D0MmO8g = Tw7986((char)977443217, rJmz7);
 break;
 case 'f':
 D0MmO8g = Tw7986((char)-595489860, 1166538273);
@@ -231,7 +231,7 @@ short Tw7986(char keHcqB,unsigned char WQc130_NnL) {
 }
 
 short    TdJrBH0RL(long long    sfNVx)    {
-    return    -1376502965;
+    return    (short)-1376502965;
 }
 
 unsigned long long	Sn8DD(int	sZ9Q_Gcn,unsigned short	V1OwK8Ifq_,unsigned short	h58aEFud,long	xPl9Y,int	MHTN1)	{
@@ -244,6 +244,6 @@ unsigned short int	h1zQe62kTc(unsigned int	IP9NPOJ1)	{
 
 char	pT4gd9v(unsigned long long	Qgfz)
 {
-	return	-542233401;
+	return	(char)-542233401;
 }
 

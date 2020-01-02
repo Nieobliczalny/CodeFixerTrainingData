@@ -18,7 +18,7 @@ int r3cLcGA(unsigned short Li3zm,unsigned int b59Axh,long ng_I54Fn3)
 }
 
 short int	C2AK_80c1T(short	MmFw6Gr7uo)	{
-	return	-1761097180;
+	return	(short)-1761097180;
 }
 
 int main()
@@ -119,7 +119,7 @@ try
 switch (cDF230r4p3)
 {
 case 0:
-nrnRi = r3cLcGA(796708174, 610661870, -364246449);
+nrnRi = r3cLcGA((unsigned short)796708174, 610661870, -364246449);
 break;
 case 1:
 RCEgDkm4_r %= 1058087652;
@@ -146,7 +146,7 @@ case 8:
 aA47MqR15h = r3cLcGA(DHr_Qvzm__, -1893694040, bdvNvE);
 break;
 case 9:
-nrnRi = r3cLcGA(447457128, 602423099, -1200582596);
+nrnRi = r3cLcGA((unsigned short)447457128, 602423099, -1200582596);
 break;
 default:
 oxXZM = C2AK_80c1T(oxXZM);
@@ -165,7 +165,7 @@ if (nrnRi == 0)
 
 P_8qweb = (unsigned long)(aA47MqR15h + (198492445));
 
-std::cout << C2AK_80c1T(oxXZM) << C2AK_80c1T(240247450) << std::endl;
+std::cout << C2AK_80c1T(oxXZM) << C2AK_80c1T((short)240247450) << std::endl;
 Q261j3w11Z = C2AK_80c1T((short)-988484004);
 
 nrnRi = (int)abs(b2Q737);
@@ -178,7 +178,7 @@ while (i < 4)
 i4W0T = cZ0J7 | XI0j;
 }
 }
-std::cout << AynVc7X_0 << pyf1 << r3cLcGA(Q261j3w11Z, N4425qzGB5, 1430404107) << r3cLcGA(Q261j3w11Z, -1923252790, -418716107) << C2AK_80c1T(1784772126) << std::endl;
+std::cout << AynVc7X_0 << pyf1 << r3cLcGA(Q261j3w11Z, N4425qzGB5, 1430404107) << r3cLcGA(Q261j3w11Z, -1923252790, -418716107) << C2AK_80c1T((short)1784772126) << std::endl;
 
 return 0;
 }

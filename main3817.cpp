@@ -67,7 +67,7 @@ iPAhvXf = (short)(Onj_0s);
 }
 else
 {
-wiK6Cr = D6z282(wiK6Cr, -1730458863, jc4NI1P, (unsigned short)-351013951, W42_AbKJV);
+wiK6Cr = D6z282(wiK6Cr, (unsigned short)-1730458863, jc4NI1P, (unsigned short)-351013951, W42_AbKJV);
 }
 }
 else
@@ -80,7 +80,7 @@ d2Dn = (int)abs(VWL673);
 }
 else
 {
-bud4_0Xg = D6z282(bud4_0Xg, -958244242, (unsigned char)-321206901, YoEy_0jO, sbd5);
+bud4_0Xg = D6z282(bud4_0Xg, (unsigned short)-958244242, (unsigned char)-321206901, YoEy_0jO, sbd5);
 }
 }
 else
@@ -102,7 +102,7 @@ mWfRB83 %= VYU50e;
 break;
 case 'b':
 case 'B':
-hRVr = S1GyEC7t(-1797467865, f1ML38k7);
+hRVr = S1GyEC7t((unsigned short)-1797467865, f1ML38k7);
 break;
 case 'c':
 case 'C':
@@ -114,7 +114,7 @@ kC1R2I = XRnmm(1481503683, jDy2);
 break;
 case 'e':
 case 'E':
-W42_AbKJV = (f3X491 >= mWfRB83) ? ucFXSPHsj : 477510570;
+W42_AbKJV = (f3X491 >= mWfRB83) ? ucFXSPHsj : (short)477510570;
 break;
 }
 }
@@ -140,7 +140,7 @@ y3666Ii = xZH4 - CK3N;
 
 try
 {
-std::cout << D6z282(-1622781735, ucFXSPHsj, -1698766895, (unsigned short)-637032914, 1009963446) << VYU50e << "Ng4Wv3m" << std::endl;
+std::cout << D6z282(-1622781735, ucFXSPHsj, (unsigned char)-1698766895, (unsigned short)-637032914, 1009963446) << VYU50e << "Ng4Wv3m" << std::endl;
 }
 catch (int& errorCode)
 {
@@ -179,7 +179,7 @@ int j = 2;
 while (j >= 0)
 {
 --j;
-sbd5 = S1GyEC7t(416740169, -1087605955);
+sbd5 = S1GyEC7t((unsigned short)416740169, -1087605955);
 }
 }
 }
@@ -226,7 +226,7 @@ if ((jc4NI1P < -104944237) || (CKT5p41E >= 366730209))
 {
 if (f3X491 < llX7)
 {
-hRVr = S1GyEC7t(-1821741462, -1314128208);
+hRVr = S1GyEC7t((unsigned short)-1821741462, -1314128208);
 }
 else
 {
@@ -254,7 +254,7 @@ if ((YoEy_0jO) && ((Nchm < f1ML38k7) || (f3X491)))
 {
 if (bfz559 != RIjdmKO3c)
 {
-tb_620T = XRnmm(tb_620T, 406374230);
+tb_620T = XRnmm(tb_620T, (char)406374230);
 }
 else
 {
@@ -276,7 +276,7 @@ while (k >= 0);
 }
 else
 {
-std::cout << S1GyEC7t(1670553034, 1728048044) << baw4(242724436) << wDj53 << "m1zzW52AmK" << std::endl;
+std::cout << S1GyEC7t((unsigned short)1670553034, 1728048044) << baw4(242724436) << wDj53 << "m1zzW52AmK" << std::endl;
 }
 
 try
@@ -317,7 +317,7 @@ if (VWL673 >= RIjdmKO3c)
 {
 if ((W42_AbKJV != 1919408978) || (hVc8nDoiF))
 {
-std::cout << DBaDqz << S1GyEC7t(-467590981, jc4NI1P) << "kaQ_" << o9k0 << zWA9pcDz << std::endl;
+std::cout << DBaDqz << S1GyEC7t((unsigned short)-467590981, jc4NI1P) << "kaQ_" << o9k0 << zWA9pcDz << std::endl;
 }
 }
 else

@@ -29,7 +29,7 @@ catch (int& errorCode)
 {
 DC1y = jtrw(730175344, 468041963, -949066746, 2020018575);
 }
-std::cout << Juj_(E7IHXC8C, -847224396) << Juj_((short)-428657769, DC1y) << "T5ee" << Juj_(E7IHXC8C, DC1y) << sIYqEx6P23 << std::endl;
+std::cout << Juj_(E7IHXC8C, (unsigned char)-847224396) << Juj_((short)-428657769, DC1y) << "T5ee" << Juj_(E7IHXC8C, DC1y) << sIYqEx6P23 << std::endl;
 if (fGOZ < -1408929842)
 {
 if ((QI0VkZ_) || ((DC1y) || (IRs63C != -1762500247)))
@@ -42,7 +42,7 @@ else
 ErApfS = (float)(E7IHXC8C + (-1994978828));
 }
 
-std::cout << "teMAQ" << jtrw(-1237994081, -949198029, qTM4tTo, fGOZ) << std::endl;
+std::cout << "teMAQ" << jtrw(-1237994081, (unsigned short)-949198029, qTM4tTo, fGOZ) << std::endl;
 if (jk_ErecML)
 {
 {
@@ -55,7 +55,7 @@ j++;
 while (j < 9);
 }
 }
-std::cout << Juj_(lco94_, -1432960412) << dxBAM_l << Juj_((short)-1761424825, -384254812) << E7IHXC8C << std::endl;
+std::cout << Juj_(lco94_, (unsigned char)-1432960412) << dxBAM_l << Juj_((short)-1761424825, -384254812) << E7IHXC8C << std::endl;
 
 qTM4tTo = (int)ceil(kkU9_);
 std::cout << jtrw(-365346322, -1377812336, 36027383, ANeXa) << "xzB282kJ" << "N_6NXAOQQR" << std::endl;
@@ -65,7 +65,7 @@ if (o5jmCphfI & 1497603471)
 {
 try
 {
-fGOZ = jtrw(782165130, 670301406, (short)-1798275548, 1813913529);
+fGOZ = jtrw(782165130, (unsigned short)670301406, (short)-1798275548, 1813913529);
 }
 catch (int& errorCode)
 {
@@ -156,7 +156,7 @@ break;
 
 for (int i = 2; i >= 0; i--)
 {
-ANeXa = jtrw(30742934, 1837463894, G_1d_4B, 265679239);
+ANeXa = jtrw(30742934, (unsigned short)1837463894, G_1d_4B, 265679239);
 }
 nqKZ = (int)ceil(HXYnk1);
 
@@ -169,7 +169,7 @@ catch (int& errorCode)
 fGOZ = jtrw(-705128792, 1284330816, -425564470, G_1d_4B);
 }
 
-D9gDa = fR44aH / Juj_(fGOZ, -1817036469);
+D9gDa = fR44aH / Juj_(fGOZ, (unsigned char)-1817036469);
 if (E7IHXC8C)
 {
 G_1d_4B = (float)(o5jmCphfI + (-829566876));
@@ -235,7 +235,7 @@ for (int j = 0; j < 1; ++j)
 {
 if (Fsu3gb > QI0VkZ_)
 {
-QI0VkZ_ = Juj_(-455459471, IhOh2wqG0r);
+QI0VkZ_ = Juj_((short)-455459471, IhOh2wqG0r);
 }
 else if (DC1y != 958950656)
 {
@@ -268,7 +268,7 @@ Mu5_D8Uc = (qTM4tTo != 2017354870) ? -18918515 : -1071307621;
 }
 else if (sIYqEx6P23 > Ta5no7tZe7)
 {
-std::cout << "Mj_470M0x" << Juj_(-1440649160, (unsigned char)-468704374) << std::endl;
+std::cout << "Mj_470M0x" << Juj_((short)-1440649160, (unsigned char)-468704374) << std::endl;
 }
 else if (ErApfS)
 {
@@ -278,7 +278,7 @@ else
 {
 for (int j = 10; j >= 0; j--)
 {
-ErApfS = jtrw(ErApfS, 257498658, (short)-1970784999, -20981090);
+ErApfS = jtrw(ErApfS, (unsigned short)257498658, (short)-1970784999, -20981090);
 }
 }
 return 0;
@@ -291,6 +291,6 @@ short int	Juj_(short	R_Rs,unsigned char	Gb8c)
 
 unsigned short  jtrw(unsigned long long  wUge,unsigned short int  Pct8,short int  yiNn3LzA,unsigned long  P5f10j24)
 {
-  return  1241692211;
+  return  (unsigned short)1241692211;
 }
 

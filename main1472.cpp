@@ -87,7 +87,7 @@ do
 j--;
 if (((u32F_P >= -1720243436) || (tP15y6a_g != 1185440570)) && (LC0J5WUl < S9Eu))
 {
-kXSi = TQZhsvMsp_(883281333, 1993608396, -397478314);
+kXSi = TQZhsvMsp_((short)883281333, 1993608396, -397478314);
 }
 }
 while (j >= 0);
@@ -130,7 +130,7 @@ if (vr8x0tq == 1672055774)
 switch (Q75hb)
 {
 case 0:
-b_PxR = TQZhsvMsp_(-524270384, 436725478, e5QQ08J3);
+b_PxR = TQZhsvMsp_((short)-524270384, 436725478, e5QQ08J3);
 break;
 case 1:
 y075u9T2Jw = TP9ggrc() >> hXVts_8_6;
@@ -313,7 +313,7 @@ else
 switch (z_JI9)
 {
 case 'a':
-e5QQ08J3 = TQZhsvMsp_(1076503490, MB48sZ6b5, -1305434003);
+e5QQ08J3 = TQZhsvMsp_((short)1076503490, MB48sZ6b5, -1305434003);
 break;
 case 'b':
 iGmj2NhS = TP9ggrc();
@@ -325,7 +325,7 @@ case 'd':
 cfReuR39Wg <<= 803551432;
 break;
 case 'e':
-zCV6h = TQZhsvMsp_(-1258542311, -1951726151, y075u9T2Jw);
+zCV6h = TQZhsvMsp_((short)-1258542311, -1951726151, y075u9T2Jw);
 break;
 case 'f':
 TgUC_jYhh = TQZhsvMsp_(100527236, LC0J5WUl, P2i1dS);
@@ -337,7 +337,7 @@ case 'h':
 FvB7B6G_0 = TP9ggrc();
 break;
 case 'i':
-nk5efPHgZV = TQZhsvMsp_(-176153534, ctUenq5, S9Eu);
+nk5efPHgZV = TQZhsvMsp_((short)-176153534, ctUenq5, S9Eu);
 break;
 }
 }
@@ -369,7 +369,7 @@ break;
 
 TgUC_jYhh = (long)(S9Eu);
 
-cout << IF1r_(-775685684, 131311978) << TP9ggrc() << "rJ80VpOm" << "R639" << TP9ggrc() << endl;
+cout << IF1r_(-775685684, (unsigned short)131311978) << TP9ggrc() << "rJ80VpOm" << "R639" << TP9ggrc() << endl;
 if ((FvB7B6G_0 / Wb0_2Ws3) >= 65540556)
 {
 for (int i = 3; i >= 0; --i)
@@ -398,7 +398,7 @@ if (DGB47 == Y_gvFLta_)
 {
 if ((d8mC8GXe & tP15y6a_g) || (tP15y6a_g == -1552654559))
 {
-Bvis56 = TQZhsvMsp_(470253835, y075u9T2Jw, b_PxR);
+Bvis56 = TQZhsvMsp_((short)470253835, y075u9T2Jw, b_PxR);
 }
 else
 {
@@ -420,7 +420,7 @@ while (k >= 0);
 }
 else if (MB48sZ6b5 > -889433997)
 {
-u32F_P = IF1r_(U0I6sB35iN, 686931930) ^ U_6L4SF1A;
+u32F_P = IF1r_(U0I6sB35iN, (unsigned short)686931930) ^ U_6L4SF1A;
 }
 else if (((x561qozU3H & -1359335785) || (w5a44n & 366641044)) || (TgUC_jYhh >= 1741960991))
 {
@@ -567,7 +567,7 @@ case 6:
 ctUenq5 *= nk5efPHgZV;
 break;
 case 7:
-Wb0_2Ws3 = IF1r_(S9Eu, -1257149842);
+Wb0_2Ws3 = IF1r_(S9Eu, (unsigned short)-1257149842);
 break;
 case 8:
 Y_gvFLta_ = IF1r_(S9Eu, kXSi) | 38385951;

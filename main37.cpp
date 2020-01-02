@@ -31,7 +31,7 @@ int main(int argc, char** argv)
 	short	se024G6QQj,	cc1j,	q99u59110;
 		se024G6QQj	=	cc1j	=	q99u59110	=	0;
  char AC858Vfx4, JS5IUoa6, uc4E, IdYgW9FE, Wr1B, rihK, O27uU, sHoH, i7gx, Wt2f99DiZ, z4L249A8S, D1402C8, P77bGP7LN, nNB43, Kzw4b7Ow6, DMJT6hN, RwOoUxL, gt5jIc97Yb;
-  AC858Vfx4 = JS5IUoa6 = uc4E = IdYgW9FE = Wr1B = rihK = O27uU = sHoH = i7gx = Wt2f99DiZ = z4L249A8S = D1402C8 = P77bGP7LN = nNB43 = Kzw4b7Ow6 = DMJT6hN = RwOoUxL = gt5jIc97Yb = -796858129;
+  AC858Vfx4 = JS5IUoa6 = uc4E = IdYgW9FE = Wr1B = rihK = O27uU = sHoH = i7gx = Wt2f99DiZ = z4L249A8S = D1402C8 = P77bGP7LN = nNB43 = Kzw4b7Ow6 = DMJT6hN = RwOoUxL = gt5jIc97Yb = (char)-796858129;
 
 switch (Wr1B)
 {
@@ -48,7 +48,7 @@ case 3:
 q99u59110 = CPo1Fo(sHoH, IdYgW9FE, JS5IUoa6, -1511413462, Kzw4b7Ow6);
 break;
 case 4:
-uc4E = CPo1Fo(sHoH, IdYgW9FE, JS5IUoa6, 905447882, 981180691) + 1176587729;
+uc4E = CPo1Fo(sHoH, IdYgW9FE, JS5IUoa6, 905447882, (unsigned short)981180691) + 1176587729;
 break;
 case 5:
 P77bGP7LN %= gt5jIc97Yb;
@@ -67,7 +67,7 @@ else
 int j = 0;
 while (j < 10)
 {
-std::cout << P9pn2(1558797910) << K5n6Fx07() << std::endl;
+std::cout << P9pn2((short)1558797910) << K5n6Fx07() << std::endl;
 ++j;
 }
 }
@@ -146,7 +146,7 @@ gt5jIc97Yb = K5n6Fx07();
 D1402C8 &= 451248821;
 
 Kzw4b7Ow6 -= 764404113;
-if ((QlU_N / CPo1Fo(gt5jIc97Yb, z4L249A8S, -455812671, -199350351, (unsigned short)-719943195)) != -919919137)
+if ((QlU_N / CPo1Fo(gt5jIc97Yb, z4L249A8S, (char)-455812671, -199350351, (unsigned short)-719943195)) != -919919137)
 {
 O27uU = 562337965 / se024G6QQj;
 }
@@ -158,7 +158,7 @@ D1402C8 ^= 598542253;
 }
 else if (((IdYgW9FE != nqML) && (q99u59110 == zh35qxQObx)) || (P77bGP7LN >= QlU_N))
 {
-std::cout << P9pn2(1845156206) << rihK << O27uU << "m750cq" << std::endl;
+std::cout << P9pn2((short)1845156206) << rihK << O27uU << "m750cq" << std::endl;
 }
 else
 {
@@ -196,7 +196,7 @@ char    CPo1Fo(char    R8fV,long long    dGLunb,char    OX1b6lo8z3,int    pEF71X
 }
 
 unsigned short	MeW8O3S(long	Aw_3A87RMi,long	P0LPE8i61q)	{
-	return	1394685529;
+	return	(unsigned short)1394685529;
 }
 
 long    x34v(unsigned long long    q_OtV,int    MO8qjmr,unsigned int    uSSEgVo)

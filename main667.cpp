@@ -21,7 +21,7 @@ int main()
 
 if (WsC03r)
 {
-cout << PwWJ_9T3(-1206675819) << "QMP0Y_" << "xrhWwj" << KO2YFJz2 << "vn2A5nL5y" << endl;
+cout << PwWJ_9T3((char)-1206675819) << "QMP0Y_" << "xrhWwj" << KO2YFJz2 << "vn2A5nL5y" << endl;
 }
 else if (F_7i8b)
 {
@@ -64,7 +64,7 @@ t_hc3 = -951628297 / CZ_5_i;
 switch (Hq2C1EXqV1)
 {
 case 'a':
-l2df94 = PwWJ_9T3(1707194530);
+l2df94 = PwWJ_9T3((char)1707194530);
 break;
 case 'b':
 l2df94 = PwWJ_9T3(UFPc);
@@ -111,7 +111,7 @@ switch (l2df94)
 {
 case 'a':
 case 'A':
-ZC_Zh6Ldh = PwWJ_9T3(-1230713665);
+ZC_Zh6Ldh = PwWJ_9T3((char)-1230713665);
 break;
 case 'b':
 case 'B':
@@ -130,7 +130,7 @@ case 'E':
 oBBB3wou = (int)ceil(zRd8jmBmg5);
 break;
 default:
-ZC_Zh6Ldh = PwWJ_9T3(1644410168);
+ZC_Zh6Ldh = PwWJ_9T3((char)1644410168);
 break;
 }
 
@@ -158,7 +158,7 @@ EM6E = (int)abs(s2R0);
 break;
 case 'd':
 case 'D':
-wJa3G = PwWJ_9T3(-673741227) ^ 608582159;
+wJa3G = PwWJ_9T3((char)-673741227) ^ 608582159;
 break;
 default:
 wog90nJ8Ef = (int)abs(y8f3);

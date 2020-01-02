@@ -10,7 +10,7 @@
 short	f2Jt6ka(char	Y6_BO);
 
 int main() {
-    char    DWE4gR    =    -1537116630;
+    char    DWE4gR    =    (char)-1537116630;
  short int It7926T5 = 0;
 	short	C95VI1418r	=	(short)2115504952;
 	unsigned int	gDHZKYtV4O	=	1212570743;
@@ -20,7 +20,7 @@ int main() {
     unsigned long    czMi6    =    -49953182;
  char lv9fl712r = -1210967358;
 	unsigned short	OmeM_VLWD	=	-1330272411;
- unsigned char bN0_486C = -956498084;
+ unsigned char bN0_486C = (unsigned char)-956498084;
   unsigned short int  WWDEo  =  685910940;
 	int	Amf4_m_0	=	-360961072;
     unsigned long long    j2eWcOtXx8    =    847841054;
@@ -32,7 +32,7 @@ int main() {
  unsigned long long FYFj0 = -1901183054;
  unsigned int fQQT08FIg6 = -560706184;
 	int	wpJuNcL6	=	1647812073;
-  unsigned char  g7R5o2iH  =  -2146126325;
+  unsigned char  g7R5o2iH  =  (unsigned char)-2146126325;
  short g7fRQ85 = 1038860036;
  short HX36E99 = 1165821320;
     unsigned long    hR9N_8SAl    =    -1472343830;
@@ -45,7 +45,7 @@ int main() {
 	double	FR_25_Mpw	=	1850286006;
   unsigned int  aWtT  =  -1002663887;
  unsigned int C45tj2xn = 595353055;
-    unsigned short int    wE7_4    =    -1855722098;
+    unsigned short int    wE7_4    =    (unsigned short)-1855722098;
   unsigned short  K39t1ghaWa  =  (unsigned short)-1292844558;
  unsigned long long m48k = 1535224677;
  float d2dQnw5_TC = 1846953362;
@@ -55,7 +55,7 @@ int main() {
 	unsigned int	iA0iq8e7	=	824226162;
     short int    G55T58_    =    1950470686;
   float  w2sz  =  -2089402720;
-    unsigned short int    KyPfY    =    744637508;
+    unsigned short int    KyPfY    =    (unsigned short)744637508;
 	char	nW9_2se0F	=	(char)7808139;
  short K74U2Ip = -598155379;
  short WhH4_34C = -26143062;
@@ -65,7 +65,7 @@ int main() {
   long long  S763e5  =  -1378727297;
   int  l5j88P  =  0;
 	long	P_98BvPyMN	=	70145100;
-  char  Ay0w26x4  =  1931416046;
+  char  Ay0w26x4  =  (char)1931416046;
     unsigned short int    JxC0    =    (unsigned short)311319759;
   unsigned short  HLCS56o8  =  1651519117;
 	long double	N8q2K15Wa	=	-2135140878;
@@ -77,7 +77,7 @@ int main() {
   long double  S2PU__7  =  1383459104;
 	double	dQozygU	=	-622517307;
   long double  JXS9  =  1910226476;
-	short	KOHgUpw	=	112025044;
+	short	KOHgUpw	=	(short)112025044;
     int    PGeoHDf    =    -197247971;
 
 std::cout << wE7_4 << f2Jt6ka(HLCS56o8) << f2Jt6ka((char)1342184607) << m48k << GR4d_5ji << std::endl;
@@ -87,7 +87,7 @@ WWDEo = JxC0 ^ m48k;
 int i = 1;
 do
 {
-std::cout << m_1AC << K13_e << f2Jt6ka(-216965638) << "jWmN9SeKaU" << "vzLgEpa" << std::endl;
+std::cout << m_1AC << K13_e << f2Jt6ka((char)-216965638) << "jWmN9SeKaU" << "vzLgEpa" << std::endl;
 --i;
 }
 while (i >= 0);
@@ -97,7 +97,7 @@ int i = 10;
 do
 {
 --i;
-std::cout << f2Jt6ka(105702988) << f2Jt6ka((char)-314701729) << f2Jt6ka(HLCS56o8) << f2Jt6ka(HLCS56o8) << std::endl;
+std::cout << f2Jt6ka((char)105702988) << f2Jt6ka((char)-314701729) << f2Jt6ka(HLCS56o8) << f2Jt6ka(HLCS56o8) << std::endl;
 }
 while (i >= 0);
 }

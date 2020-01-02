@@ -9,7 +9,7 @@
 using namespace std;
 
 int main() {
- unsigned short int w73E = 54361695;
+ unsigned short int w73E = (unsigned short)54361695;
 	char	c5l3rJ6BZ	=	0,	HQM0	=	0,	SUUJXO4	=	0,	Wl_vX	=	0,	o1NX	=	0;
 
 cout << "Nte_" << w73E << o1NX << "e8_0L" << endl;

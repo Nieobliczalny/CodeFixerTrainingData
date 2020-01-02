@@ -14,7 +14,7 @@ using std::floor;
 
 int main(void) {
 	short	a5Pf2,	Vz4BNXe,	ZuDl,	le6A,	vn_j3,	Z3xVBk1NJT,	aBTJ,	n19_I_,	egIr570,	D0e0,	Aqm6clLa9y,	o13bwA,	rTYd9U0l,	h749H,	U8b1Rg,	kU4yl3RR,	VIOHM6ynIU;
-	a5Pf2	=	1705384419;
+	a5Pf2	=	(short)1705384419;
 	Vz4BNXe	=	(short)-1875645501;
 	ZuDl	=	347981756;
 	le6A	=	1234969757;
@@ -24,7 +24,7 @@ int main(void) {
 	n19_I_	=	-881017919;
 	egIr570	=	1027863813;
 	D0e0	=	1037269947;
-	Aqm6clLa9y	=	-1356838056;
+	Aqm6clLa9y	=	(short)-1356838056;
 	o13bwA	=	(short)1059406436;
 	rTYd9U0l	=	1453179681;
 	h749H	=	-1426854847;
@@ -432,7 +432,7 @@ case 5:
 o13bwA <<= 1082128022;
 break;
 case 6:
-D0e0 = (D0e0 >= egIr570) ? 1983288385 : Vz4BNXe;
+D0e0 = (D0e0 >= egIr570) ? (short)1983288385 : Vz4BNXe;
 break;
 case 7:
 Z3xVBk1NJT %= 130934960;
@@ -460,7 +460,7 @@ cout << egIr570 << endl;
 }
 else if ((Z3xVBk1NJT <= -952145900) || (kU4yl3RR >= -1635022772))
 {
-o13bwA = (le6A <= 2108673642) ? o13bwA : -223641026;
+o13bwA = (le6A <= 2108673642) ? o13bwA : (short)-223641026;
 }
 else if (Z3xVBk1NJT >= -1627583006)
 {

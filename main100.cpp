@@ -11,7 +11,7 @@
 
 int main(int argc, char** argv)
 {
-  unsigned short int  kO5bwti9RS  =  -1283921369;
+  unsigned short int  kO5bwti9RS  =  (unsigned short)-1283921369;
   short int  dibZ469Vu  =  (short)1827668225;
     short    pfd7A    =    0;
   double  LSf150  =  -1961816899;
@@ -25,7 +25,7 @@ int main(int argc, char** argv)
  unsigned long KRe_54_QW = -536666503;
 	long double	iTJwvnTX	=	-1419163946;
   double  byRn2g0z  =  1349226064;
-    unsigned short int    n9Eiqj    =    304093732;
+    unsigned short int    n9Eiqj    =    (unsigned short)304093732;
  unsigned char KENmmlwm = (unsigned char)1666741199;
   float  IzhB63F  =  783121268;
  unsigned short int Inh_K9e = 442150493;
@@ -35,7 +35,7 @@ int main(int argc, char** argv)
     unsigned long    N10j072    =    2065943652;
  unsigned char C8Cl_IU68 = -524292441;
  unsigned long long UibD = 1298996501;
- unsigned short M0LZ = 1906571197;
+ unsigned short M0LZ = (unsigned short)1906571197;
   long long  PTjw08_52  =  1132472009;
     unsigned char    r75b902Vj    =    (unsigned char)-1335182101;
  unsigned short v5cwDu4 = -1615336347;
@@ -45,7 +45,7 @@ int main(int argc, char** argv)
     short    sFIad    =    0;
 	unsigned char	Gj2G	=	-902478757;
   short int  rsltp5  =  1768214338;
-    unsigned char    KX1aW0SuDo    =    754870440;
+    unsigned char    KX1aW0SuDo    =    (unsigned char)754870440;
   unsigned short int  rR135k7Y  =  -1180950228;
   unsigned long long  J3_NQ2  =  -929458766;
     double    qyau3Qe0    =    727420673;
@@ -56,7 +56,7 @@ int main(int argc, char** argv)
  long long wApj = 1015285957;
   unsigned long long  XCwVS  =  -290878553;
   double  C_Wx  =  -1695859155;
-	char	M_2n_IER	=	1744566665;
+	char	M_2n_IER	=	(char)1744566665;
     short int    g4I81    =    301379066;
     unsigned char    eTjWgG9M    =    418265376;
  short l4l3C8r5 = 1579473935;
@@ -67,7 +67,7 @@ int main(int argc, char** argv)
  unsigned long long SjGcnFs3 = 401131790;
     unsigned long    Q53_i    =    -567526130;
     unsigned int    vu0zpOgo5    =    395051709;
-  unsigned short int  y_I9  =  1114938114;
+  unsigned short int  y_I9  =  (unsigned short)1114938114;
 
 switch (w7_l)
 {
@@ -517,7 +517,7 @@ case 1:
 M0LZ /= 1262559665;
 break;
 case 2:
-kO5bwti9RS = (M5ARLNO) ? ptZu : 585291837;
+kO5bwti9RS = (M5ARLNO) ? ptZu : (unsigned short)585291837;
 break;
 case 3:
 XCwVS *= 251390631;

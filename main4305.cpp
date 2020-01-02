@@ -37,7 +37,7 @@ int main(void) {
 	tKUnty0n	=	0;
 	BQ7qI5	=	0;
 
-BQ7qI5 = hN_LN8v(BQ7qI5, -935661507, (unsigned char)-1152032688, 837345899);
+BQ7qI5 = hN_LN8v(BQ7qI5, (unsigned short)-935661507, (unsigned char)-1152032688, 837345899);
 try
 {
 if (((i7w9 & ICH6dOYUT) && (ICH6dOYUT != Ius_i3YPOV)) && (AgjH0bdf >= mers5euY))
@@ -61,7 +61,7 @@ try
 int k = 0;
 do
 {
-i7w9 = yS36M1uz(-1522025317, -1940552182);
+i7w9 = yS36M1uz((short)-1522025317, -1940552182);
 k++;
 }
 while (k < 3);
@@ -117,7 +117,7 @@ LqVSZn = Ius_i3YPOV * lOi_MmkO;
 }
 else if (i7w9 <= 1663978407)
 {
-BQ7qI5 = hN_LN8v(l4cQJ, 1905869476, (unsigned char)-1502599490, -366442457);
+BQ7qI5 = hN_LN8v(l4cQJ, (unsigned short)1905869476, (unsigned char)-1502599490, -366442457);
 }
 else if (((QXeXF_m != mers5euY) && (tKUnty0n <= IAz7ZLz)) || (buFt))
 {
@@ -132,7 +132,7 @@ std::cout << yS36M1uz(699362708, BQ7qI5) << "I3ZPRv_CD" << std::endl;
 }
 else
 {
-xsxY = hN_LN8v(277670408, xsxY, (unsigned char)724226798, AgjH0bdf);
+xsxY = hN_LN8v((short)277670408, xsxY, (unsigned char)724226798, AgjH0bdf);
 }
 std::cout << "b292Gi" << hN_LN8v(-473337598, 23661908, BQ7qI5, AgjH0bdf) << std::endl;
 tKUnty0n = (int)abs(ICH6dOYUT);
@@ -156,7 +156,7 @@ i--;
 }
 }
 
-std::cout << mers5euY / hN_LN8v(-1086192633, xsxY, BQ7qI5, AgjH0bdf) << std::endl;
+std::cout << mers5euY / hN_LN8v((short)-1086192633, xsxY, BQ7qI5, AgjH0bdf) << std::endl;
 
 AgjH0bdf = (unsigned int)(tKUnty0n + (1870634260));
 LqVSZn = f8P_6m(564123711, (char)-772641563, buFt, 1551814285);
@@ -168,7 +168,7 @@ int j = 6;
 do
 {
 --j;
-std::cout << "oCfV2g91E2" << hN_LN8v(LqVSZn, -711004327, -1699757693, ESb0e1) << std::endl;
+std::cout << "oCfV2g91E2" << hN_LN8v(LqVSZn, (unsigned short)-711004327, -1699757693, ESb0e1) << std::endl;
 }
 while (j >= 0);
 }
@@ -182,7 +182,7 @@ case 1:
 i7w9++;
 break;
 case 2:
-ICH6dOYUT = hN_LN8v(ICH6dOYUT, 5096393, lOi_MmkO, 2063339170);
+ICH6dOYUT = hN_LN8v(ICH6dOYUT, (unsigned short)5096393, lOi_MmkO, 2063339170);
 break;
 case 3:
 lOi_MmkO *= 1063422481;
@@ -220,7 +220,7 @@ return 0;
 
 unsigned short  f8P_6m(unsigned long  luw3cK,char  sBT1,unsigned long  DP4b,unsigned long long  mGBHAn)
 {
-  return  -1657606293;
+  return  (unsigned short)-1657606293;
 }
 
 unsigned short	hN_LN8v(short	VlUEH7,unsigned short int	O3u8ViXhV9,unsigned char	v8h0AL,short	V7ImV8bD)	{

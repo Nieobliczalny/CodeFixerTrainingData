@@ -14,7 +14,7 @@ using std::floor;
 
 unsigned char  jtC6_CHrA(int  vX98rl,unsigned long long  Ay_dNts,unsigned int  LsE09,unsigned long  Pda81Aen)
 {
-  return  543523470;
+  return  (unsigned char)543523470;
 }
 
 unsigned long long a_84R(unsigned char WExX96,long vDNX1d,short I9d3MRs,long long vljME_g) {
@@ -42,7 +42,7 @@ case 0:
 OL34NKg3 = dq53N(-11756591, bs49);
 break;
 case 1:
-yq53EEijQ = a_84R(950497889, ORr_, (short)1179538096, 358247059);
+yq53EEijQ = a_84R((unsigned char)950497889, ORr_, (short)1179538096, 358247059);
 break;
 case 2:
 Ms0_K = jtC6_CHrA(1705180609, 766329845, -2040603036, -1237817080);
@@ -54,7 +54,7 @@ case 4:
 FHGm8lL9 = dq53N(-222775221, ORr_);
 break;
 case 5:
-dpTiDI2_dU = a_84R(qCa65y2m8r, 931572600, -1561641356, CGWBv2m);
+dpTiDI2_dU = a_84R(qCa65y2m8r, 931572600, (short)-1561641356, CGWBv2m);
 break;
 case 6:
 BDKHjCE_zd &= tjY0s6Go;
@@ -66,7 +66,7 @@ break;
 switch (SNa5)
 {
 case 0:
-PdeWZ8Dov = dq53N(-1874257277, -2042125760);
+PdeWZ8Dov = dq53N(-1874257277, (unsigned short)-2042125760);
 break;
 case 1:
 iW8iD >>= 1520789335;
@@ -78,7 +78,7 @@ case 3:
 GCJBPkM %= 799169795;
 break;
 case 4:
-dpTiDI2_dU = a_84R(-480864295, z6xTIn7038, (short)-1799890749, LOb6f0VC);
+dpTiDI2_dU = a_84R((unsigned char)-480864295, z6xTIn7038, (short)-1799890749, LOb6f0VC);
 break;
 case 5:
 L_9Rh9 = jtC6_CHrA(-547931853, bs49, J_RbIHhjM_, 1416598877);
@@ -91,7 +91,7 @@ break;
 switch (FHGm8lL9)
 {
 case 0:
-NXGeZ = dq53N(NXGeZ, -1467051492);
+NXGeZ = dq53N(NXGeZ, (unsigned short)-1467051492);
 break;
 case 1:
 Eck7O9B = jtC6_CHrA(Eck7O9B, 1481825697, BDKHjCE_zd, CGWBv2m);
@@ -116,7 +116,7 @@ dpTiDI2_dU = a_84R(CGWBv2m, uFFwKcB, kW8N, ewD_zbX);
 FHGm8lL9 = QBRfck / 1105393224;
 r8_42wCDh = Wpb88wVCS / dpTiDI2_dU;
 
-O18EPN = a_84R(Ms0_K, ORr_, 1175042425, H3pw_Bv);
+O18EPN = a_84R(Ms0_K, ORr_, (short)1175042425, H3pw_Bv);
 
 if (cH61bF)
 {

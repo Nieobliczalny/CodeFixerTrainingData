@@ -27,7 +27,7 @@ int main() {
   unsigned long  tmTMFPDLM  =  -1617664760;
   unsigned short int  PSxJ  =  0;
     double    J9445_hC    =    80755905;
-    short    DPkNWvx3l2    =    -311171154;
+    short    DPkNWvx3l2    =    (short)-311171154;
   short int  V_g0X7dl  =  (short)2001053876;
   float  iQc711  =  -1648080695;
     unsigned short    h_i_    =    1045458808;
@@ -41,7 +41,7 @@ int main() {
  long meQe = -1607183198;
  unsigned int gIVLNfDE3E = -309204978;
  unsigned long A0D1EzA = 0;
-  char  w0tw  =  343187015;
+  char  w0tw  =  (char)343187015;
 	unsigned short	ob0d	=	(unsigned short)2027649300;
 	long double	ozqS_9	=	451999710;
  long long yCpc7 = 605685733;
@@ -53,7 +53,7 @@ int main() {
 switch (V_g0X7dl)
 {
 case 'a':
-yQ4cfdE = qeXHZ5U(1822584838, yQ4cfdE, (unsigned short)1950850594);
+yQ4cfdE = qeXHZ5U((unsigned short)1822584838, yQ4cfdE, (unsigned short)1950850594);
 break;
 case 'b':
 KMltbuG47 = (int)floor(W7_T4CB);
@@ -151,7 +151,7 @@ cout << z6En78() << endl;
 
 if (yCpc7)
 {
-A0D1EzA = qeXHZ5U(-154850542, yCpc7, vM6U);
+A0D1EzA = qeXHZ5U((unsigned short)-154850542, yCpc7, vM6U);
 }
 {
 int i = 4;
@@ -188,7 +188,7 @@ case 'i':
 Ct4Me34 = z6En78() >> tmTMFPDLM;
 break;
 case 'j':
-ob0d = (r135i != w0tw) ? 1637503448 : z6En78();
+ob0d = (r135i != w0tw) ? (unsigned short)1637503448 : z6En78();
 break;
 }
 }
@@ -279,7 +279,7 @@ V_g0X7dl = gIVLNfDE3E - 1177033861;
 i--;
 }
 }
-V_g0X7dl = m2IX6C_f / qeXHZ5U(h_i_, 697917210, ob0d);
+V_g0X7dl = m2IX6C_f / qeXHZ5U(h_i_, (short)697917210, ob0d);
 
 if ((iQc711 != 911581875) && ((Ct4Me34 >= -280417630) || (meQe)))
 {
@@ -297,7 +297,7 @@ for (int j = 0; j < 8; j++)
 {
 if (B_C0 >= -789768769)
 {
-r135i = qeXHZ5U(h_i_, -1291222141, ob0d) ^ 511876455;
+r135i = qeXHZ5U(h_i_, (short)-1291222141, ob0d) ^ 511876455;
 }
 }
 }
@@ -322,7 +322,7 @@ V_g0X7dl = z6En78();
 }
 else if (P5CrW7P3D > 1811560965)
 {
-yQ4cfdE = qeXHZ5U(-1891199984, B_C0, KMltbuG47);
+yQ4cfdE = qeXHZ5U((unsigned short)-1891199984, B_C0, KMltbuG47);
 }
 else if (((yQ4cfdE <= -793683708) || (iQc711 == 2113384521)) || (vM6U != UnDv))
 {
@@ -351,7 +351,7 @@ try
 {
 try
 {
-yQ4cfdE = qeXHZ5U(V_g0X7dl, -210754731, yQ4cfdE);
+yQ4cfdE = qeXHZ5U(V_g0X7dl, (short)-210754731, yQ4cfdE);
 }
 catch (int& errorCode)
 {

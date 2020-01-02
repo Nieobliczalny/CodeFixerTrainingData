@@ -17,7 +17,7 @@ unsigned long	HK6H7B(unsigned long long	DZ9NVe,short int	x8FQH3XN6);
 
 int main() {
     unsigned long    M_Iz3    =    -655559178;
- unsigned char bvNa2 = -797541348;
+ unsigned char bvNa2 = (unsigned char)-797541348;
 	unsigned short int	g_Xi5OL6e2	=	(unsigned short)-953435037;
 	long long	BVj6fA7__8	=	0;
  long long o9ts = -995381898;
@@ -27,7 +27,7 @@ int main() {
 	unsigned short int	AR2X8	=	-1076598371;
  char mrDw_ = 827177658;
 	short int	hJ6MfZ5D	=	-396612271;
-    short int    xk1Uu    =    608421031;
+    short int    xk1Uu    =    (short)608421031;
   unsigned short int  j6JlY4_  =  (unsigned short)791479887;
  unsigned int dTMe = 355833663;
  float YrrwIiwM = 1551877595;
@@ -38,7 +38,7 @@ int main() {
 	float	bKv_Gnx	=	-441577929;
     unsigned int    Au3Yj860    =    0;
 	long long	t4k06DPX8	=	1761151587;
- unsigned short Z6Yq2359 = -1288967425;
+ unsigned short Z6Yq2359 = (unsigned short)-1288967425;
  long n84D4VU88 = -1831099386;
   double  j4RT9  =  822581063;
   char  x0Wk_xx07  =  0;
@@ -54,7 +54,7 @@ int main() {
     float    mfOAcx    =    -464528276;
 	long	g_E602_0T2	=	-397485302;
  long long m7_jXOWMx = 741423430;
- short int Z1KoCdlbeu = -98763949;
+ short int Z1KoCdlbeu = (short)-98763949;
     unsigned short int    h0XtjOa9xw    =    (unsigned short)-9867575;
   int  u5D5L01V  =  -1030253830;
   unsigned short int  e0lssKzbPy  =  1394720722;
@@ -208,7 +208,7 @@ cout << uR2dF << endl;
 }
 else if (h0XtjOa9xw <= n84D4VU88)
 {
-cout << HK6H7B(Au3Yj860, -158784553) << HK6H7B(-1419714288, (short)-366583398) << endl;
+cout << HK6H7B(Au3Yj860, (short)-158784553) << HK6H7B(-1419714288, (short)-366583398) << endl;
 }
 else
 {
@@ -220,7 +220,7 @@ else
 {
 try
 {
-hJ6MfZ5D = HK6H7B(hJ6MfZ5D, 1363453640);
+hJ6MfZ5D = HK6H7B(hJ6MfZ5D, (short)1363453640);
 }
 catch (int& errorCode)
 {
@@ -337,7 +337,7 @@ cout << lqPs6j(-1540946514) << "Wf_tA" << endl;
 }
 else
 {
-cout << HK6H7B(h0XtjOa9xw, -1951392555) << endl;
+cout << HK6H7B(h0XtjOa9xw, (short)-1951392555) << endl;
 }
 
 {
@@ -374,7 +374,7 @@ int k = 6;
 while (k >= 0)
 {
 k--;
-MF0_hcyF = HK6H7B(MF0_hcyF, 636991903);
+MF0_hcyF = HK6H7B(MF0_hcyF, (short)636991903);
 }
 }
 }

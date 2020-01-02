@@ -15,7 +15,7 @@ long long  US9DwvdN()
 
 char    GO_e94TC(short    VmTGJ5GaSW,unsigned long long    t8NyC,long long    om3TXJ5,short    VldrWP2)
 {
-    return    -1263621845;
+    return    (char)-1263621845;
 }
 
 unsigned long long pV1_(unsigned short GoHf_vC8Ta)
@@ -40,7 +40,7 @@ std::cout << "tP31" << bN_3V << pV1_(c6L5) << w46ANB << std::endl;
 std::cout << I7_M_534n_ << "o_3k2gj_wg" << std::endl;
 
 mr53iN_02 = (char)(pwVIec * mr53iN_02);
-std::cout << "iuS3" << GO_e94TC(c6L5, kE9T_TlR, pwVIec, -1337484694) << GO_e94TC((short)-1856725604, 1462081272, -875751248, -1028708694) << US9DwvdN() << std::endl;
+std::cout << "iuS3" << GO_e94TC(c6L5, kE9T_TlR, pwVIec, (short)-1337484694) << GO_e94TC((short)-1856725604, 1462081272, -875751248, -1028708694) << US9DwvdN() << std::endl;
 pwVIec = (unsigned int)(bN_3V);
 
 c6L5 %= 746680521;
@@ -75,7 +75,7 @@ mr53iN_02 = US9DwvdN();
 }
 else if ((c6L5 == -2073018002) && (w46ANB >= pwVIec))
 {
-c6L5 = GO_e94TC(338276957, kE9T_TlR, bN_3V, w46ANB);
+c6L5 = GO_e94TC((short)338276957, kE9T_TlR, bN_3V, w46ANB);
 }
 else
 {
@@ -138,7 +138,7 @@ c6L5 = I7_M_534n_ % bN_3V;
 break;
 case 'c':
 case 'C':
-bN_3V = pV1_(137991800);
+bN_3V = pV1_((unsigned short)137991800);
 break;
 case 'd':
 case 'D':
@@ -150,7 +150,7 @@ bN_3V = pV1_((unsigned short)343718167);
 break;
 case 'f':
 case 'F':
-c6L5 = GO_e94TC(T_1VAUf3a9, c6L5, -127295696, -1155456470);
+c6L5 = GO_e94TC(T_1VAUf3a9, c6L5, -127295696, (short)-1155456470);
 break;
 case 'g':
 case 'G':
@@ -215,7 +215,7 @@ case 'd':
 w46ANB = US9DwvdN();
 break;
 case 'e':
-c6L5 = pV1_(2023991501);
+c6L5 = pV1_((unsigned short)2023991501);
 break;
 case 'f':
 kE9T_TlR = c6L5 % bN_3V;
@@ -230,7 +230,7 @@ case 'i':
 mr53iN_02 = (int)abs(I7_M_534n_);
 break;
 case 'j':
-kE9T_TlR = GO_e94TC(-1850233002, kE9T_TlR, -1615447441, mr53iN_02);
+kE9T_TlR = GO_e94TC((short)-1850233002, kE9T_TlR, -1615447441, mr53iN_02);
 break;
 default:
 pwVIec ^= 71691100;
@@ -271,7 +271,7 @@ bN_3V -= bN_3V;
 }
 else
 {
-c6L5 = pV1_(-1303311881);
+c6L5 = pV1_((unsigned short)-1303311881);
 }
 ++j;
 }
@@ -378,7 +378,7 @@ case 'I':
 pwVIec *= mr53iN_02;
 break;
 default:
-c6L5 = (pwVIec & mr53iN_02) ? GO_e94TC(c6L5, -2053086420, I7_M_534n_, -136896148) : GO_e94TC((short)1898137800, kE9T_TlR, 1198306350, -43407205);
+c6L5 = (pwVIec & mr53iN_02) ? GO_e94TC(c6L5, -2053086420, I7_M_534n_, (short)-136896148) : GO_e94TC((short)1898137800, kE9T_TlR, 1198306350, -43407205);
 break;
 }
 }
@@ -406,7 +406,7 @@ while (j >= 0);
 switch (I7_M_534n_)
 {
 case 0:
-pwVIec = GO_e94TC(-1322690100, 549114760, 2066495111, (short)-246194286);
+pwVIec = GO_e94TC((short)-1322690100, 549114760, 2066495111, (short)-246194286);
 break;
 case 1:
 bN_3V <<= 1221225087;
@@ -428,7 +428,7 @@ c6L5 %= kE9T_TlR;
 break;
 }
 I7_M_534n_ = US9DwvdN();
-std::cout << bN_3V << US9DwvdN() << GO_e94TC(1438389334, -2076847482, mr53iN_02, c6L5) << "JYUt68nw_" << std::endl;
+std::cout << bN_3V << US9DwvdN() << GO_e94TC((short)1438389334, -2076847482, mr53iN_02, c6L5) << "JYUt68nw_" << std::endl;
 
 bN_3V = kE9T_TlR >> 987903928;
 
@@ -449,7 +449,7 @@ case 3:
 T_1VAUf3a9 = US9DwvdN();
 break;
 case 4:
-bN_3V = pV1_(1715449794);
+bN_3V = pV1_((unsigned short)1715449794);
 break;
 case 5:
 mr53iN_02 = (int)abs(T_1VAUf3a9);
@@ -516,7 +516,7 @@ while (j >= 0);
 switch (mr53iN_02)
 {
 case 'a':
-kE9T_TlR = pV1_(1525161091);
+kE9T_TlR = pV1_((unsigned short)1525161091);
 break;
 case 'b':
 mr53iN_02 = (int)abs(w46ANB);
@@ -528,7 +528,7 @@ case 'd':
 c6L5 = pV1_(-487434607);
 break;
 case 'e':
-bN_3V = GO_e94TC(T_1VAUf3a9, bN_3V, -1540024039, 1456110256);
+bN_3V = GO_e94TC(T_1VAUf3a9, bN_3V, -1540024039, (short)1456110256);
 break;
 case 'f':
 kE9T_TlR <<= c6L5;
@@ -540,7 +540,7 @@ case 'h':
 kE9T_TlR = GO_e94TC(I7_M_534n_, mr53iN_02, kE9T_TlR, (short)159928596);
 break;
 case 'i':
-bN_3V = pV1_(-628598544);
+bN_3V = pV1_((unsigned short)-628598544);
 break;
 }
 if (T_1VAUf3a9 == -192182583)
@@ -598,7 +598,7 @@ else
 {
 for (int k = 0; k < 2; ++k)
 {
-bN_3V = pV1_(-890350582);
+bN_3V = pV1_((unsigned short)-890350582);
 }
 }
 }
@@ -616,7 +616,7 @@ case 0:
 w46ANB = US9DwvdN();
 break;
 case 1:
-pwVIec = GO_e94TC(mr53iN_02, -1063628934, pwVIec, -1462382396);
+pwVIec = GO_e94TC(mr53iN_02, -1063628934, pwVIec, (short)-1462382396);
 break;
 case 2:
 I7_M_534n_ = (int)abs(w46ANB);
@@ -649,7 +649,7 @@ I7_M_534n_ = (int)abs(w46ANB);
 }
 else if ((T_1VAUf3a9 == o__G) || (T_1VAUf3a9))
 {
-bN_3V = GO_e94TC(bN_3V, w46ANB, pwVIec, 2020809250);
+bN_3V = GO_e94TC(bN_3V, w46ANB, pwVIec, (short)2020809250);
 }
 else if (c6L5 != w46ANB)
 {

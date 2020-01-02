@@ -20,7 +20,7 @@ short    b7m7(long    w9lx,unsigned int    jzI_He,unsigned long long    ziPo)
 
 int main(void)
 {
-	unsigned short	IxyV0OZS	=	-217845085;
+	unsigned short	IxyV0OZS	=	(unsigned short)-217845085;
     unsigned short int    H6AZP_Js8    =    (unsigned short)-450189898;
   char  x4a_9t9Q0  =  -1920750781;
     unsigned int    n1fhi_    =    0;
@@ -34,7 +34,7 @@ int main(void)
  long long KUQCCQn = -1600317858;
     unsigned long    hOonH_    =    476801203;
     long long    Q7_vMx00    =    0;
-    unsigned short int    h4b05Jt08    =    547982630;
+    unsigned short int    h4b05Jt08    =    (unsigned short)547982630;
   unsigned int  c0U_  =  -512003152;
   float  GzvZ  =  1565484645;
     long double    Heo_IZn4    =    1100214160;
@@ -45,7 +45,7 @@ int main(void)
   unsigned short  w8MK6i_c  =  536133889;
     unsigned int    WOh_n33q    =    1377589087;
   unsigned long  Lnx46rLkV_  =  635086316;
- unsigned short int ki4E = 1993084747;
+ unsigned short int ki4E = (unsigned short)1993084747;
  unsigned short Ec22 = 777409245;
   unsigned long  yZM7Qf  =  918434534;
   float  N0k0  =  1172741933;
@@ -55,7 +55,7 @@ int main(void)
 	unsigned short int	fwc7	=	(unsigned short)-1511613230;
 	long	Xp4AciVx2	=	323471389;
  unsigned short int sKXKJ = -97072378;
- unsigned short int E0pFC = -170464715;
+ unsigned short int E0pFC = (unsigned short)-170464715;
   unsigned long long  W1nfm9  =  1908180605;
   short int  KW4Vvi2sH7  =  871587057;
     unsigned long long    t3jU14q6    =    76428596;
@@ -67,7 +67,7 @@ int main(void)
     long long    w4n0014G93    =    0;
   long  XvDl  =  211117414;
  double Y1Ha86 = 714203;
-  unsigned char  K7041  =  1843782543;
+  unsigned char  K7041  =  (unsigned char)1843782543;
   unsigned short  oVSt  =  (unsigned short)-1749518234;
 	long	X98_DUW79	=	770478138;
  unsigned long long i92D6u8T5P = 1107698313;
@@ -77,7 +77,7 @@ int main(void)
 	unsigned short	El5He2k5l	=	650523065;
 	unsigned long	pZy94Ai7a	=	-1604976742;
  unsigned short Xt2Qg5J = -886469545;
-  short int  WiZ84A03  =  -511015405;
+  short int  WiZ84A03  =  (short)-511015405;
 	unsigned long	DDYM_qr	=	1612161605;
     unsigned long    Np0JT    =    -2004336224;
     double    EO2ZFrgv7l    =    1935769697;
@@ -91,7 +91,7 @@ int main(void)
 	long	Tb99	=	2062918867;
   float  XXIop36  =  -1596269241;
   int  x55xDO99R  =  -367275054;
-	short	e9Ra	=	472625141;
+	short	e9Ra	=	(short)472625141;
   long double  z9TqZ86z_  =  -1229077875;
  unsigned short D4_0k8 = (unsigned short)139434653;
 	unsigned short int	MC566IO	=	-915455762;

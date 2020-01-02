@@ -21,7 +21,7 @@ long long	d_heE(unsigned short int	bUKi8fMd7,short int	vNfN,int	u94VUUK18)	{
 }
 
 unsigned short int  L111BbO(unsigned short int  Pn8KBg0,int  vE0xT)  {
-  return  -137320045;
+  return  (unsigned short)-137320045;
 }
 
 int	I7_tt(unsigned int	p9Lc68dqo,unsigned long	YSOR,unsigned short int	VV_8De0)	{
@@ -35,7 +35,7 @@ unsigned short int R1g7oF0E_(long long qFO3,unsigned short int tQNm0b,unsigned l
 
 int main(int argc, char** argv)
 {
- short LM8X6V6X3q = -1993967920;
+ short LM8X6V6X3q = (short)-1993967920;
   unsigned long long  bGf_0Uv2e_  =  1854544213;
 	double	fK736PxorE	=	1654569948;
     short int    to5u8b_Ch    =    1716071166;
@@ -46,7 +46,7 @@ int main(int argc, char** argv)
  unsigned short int us15v = -1953289160;
 	long	o1h4_NiG	=	-1022929638;
  int r785OMXcl = -1723828127;
-	short	MMKj833Wny	=	3736129;
+	short	MMKj833Wny	=	(short)3736129;
   unsigned short  DvK8Lv9h11  =  520465003;
   long long  A_R6LfL  =  -1177064516;
   unsigned char  j9cMx2  =  1258723347;
@@ -67,7 +67,7 @@ int i = 6;
 do
 {
 i--;
-cout << MMKj833Wny << "sSP9Z" << "pOk0nT2hN" << L111BbO(564156079, wX6i21e) << "y581Jx" << endl;
+cout << MMKj833Wny << "sSP9Z" << "pOk0nT2hN" << L111BbO((unsigned short)564156079, wX6i21e) << "y581Jx" << endl;
 }
 while (i >= 0);
 }
@@ -136,7 +136,7 @@ l7j1S = (int)ceil(cMM9gJ);
 }
 else
 {
-sX5N4Ghxq = L111BbO(-458818068, SyjNKKjgi);
+sX5N4Ghxq = L111BbO((unsigned short)-458818068, SyjNKKjgi);
 }
 }
 }
@@ -148,7 +148,7 @@ do
 {
 for (int k = 2; k >= 0; k--)
 {
-to5u8b_Ch = (DvK8Lv9h11 > MMKj833Wny) ? wHpv2Y : 113886677;
+to5u8b_Ch = (DvK8Lv9h11 > MMKj833Wny) ? wHpv2Y : (short)113886677;
 }
 j++;
 }
@@ -211,7 +211,7 @@ case 2:
 A_R6LfL %= 1265277216;
 break;
 }
-MMKj833Wny = LM8X6V6X3q / d_heE(523001935, kd3u_zQ, SyjNKKjgi);
+MMKj833Wny = LM8X6V6X3q / d_heE((unsigned short)523001935, kd3u_zQ, SyjNKKjgi);
 
 us15v /= 1673500397;
 
@@ -223,7 +223,7 @@ if (o1h4_NiG >= wHpv2Y)
 {
 if (FRnFvEg >= LKrO4XS5)
 {
-FRnFvEg = I7_tt(1952415777, -58081896, 2087231040);
+FRnFvEg = I7_tt(1952415777, -58081896, (unsigned short)2087231040);
 }
 else if (DvK8Lv9h11 >= -247258121)
 {

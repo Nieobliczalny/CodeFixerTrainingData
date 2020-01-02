@@ -19,7 +19,7 @@ long	dVZ1_z9G();
 int main()
 {
  unsigned long CC02_Zk4 = -2131302183;
-  unsigned char  PO_5H6  =  1116215922;
+  unsigned char  PO_5H6  =  (unsigned char)1116215922;
   short  crI1i_p  =  (short)-767094937;
 	unsigned long long	I0ypFff	=	-672028696;
 	short int	djNUjS2	=	1043837334;
@@ -29,7 +29,7 @@ int main()
     long long    N50AJGDn    =    1941033974;
 	unsigned long	q9wsb_z	=	-751779210;
  char d_mbIsACo = 0;
- unsigned char k_08O = -1960896971;
+ unsigned char k_08O = (unsigned char)-1960896971;
     unsigned long    Yy11Y54j9M    =    2034606652;
 	char	kXkUYhj	=	(char)1416826510;
 	short	eP1eb	=	-1525096843;
@@ -41,7 +41,7 @@ int main()
  long long rsmdR__TX = 1506711558;
   unsigned long  Q5jjh7  =  -905724719;
     unsigned int    jC8iyPFi    =    0;
-  unsigned char  gvarur  =  1930919610;
+  unsigned char  gvarur  =  (unsigned char)1930919610;
  int u18O = 827663419;
     long    Rd317S10LM    =    1826121902;
 	unsigned long long	A6891wK6QI	=	-1059852699;
@@ -51,7 +51,7 @@ int main()
  short int sL6ZYT2Md = -581817483;
   unsigned long  h02u02  =  -1779871908;
 	double	Sqi7PF	=	988194753;
-  short int  bY9H680QGC  =  2036792924;
+  short int  bY9H680QGC  =  (short)2036792924;
 	long	L4WAD	=	-1617679927;
     unsigned char    G1c103G1Ja    =    836042433;
 	short	mPLO6du	=	1670962676;
@@ -64,7 +64,7 @@ int main()
 	int	NM2Tr0lbZt	=	-1879107615;
   long  C5X2  =  797444816;
  unsigned long JV0pXu4X = 214095023;
-  short  V6_4_U6FbO  =  -2103232631;
+  short  V6_4_U6FbO  =  (short)-2103232631;
   unsigned long  z3sk0t  =  -1465239694;
  unsigned short int B2K73MVh = 561146880;
     unsigned long long    hdnl    =    1693901879;
@@ -79,7 +79,7 @@ int main()
   long long  Q7YZ8Rx32i  =  -557482110;
 	long long	W8ra	=	-1708194530;
     unsigned long    XwIS_    =    173410610;
- short u2_44p = 1897853830;
+ short u2_44p = (short)1897853830;
   long long  Z4D68a  =  496047974;
 	char	Iz9UG8	=	(char)106602302;
   short int  aDL5R1W  =  788177238;
@@ -89,7 +89,7 @@ int main()
     unsigned short int    v_ZE    =    -1722247457;
   long  CyH5INy  =  -1512580238;
     char    BEpPW6BJ_U    =    -954562463;
-    short int    F3CmyE7f8h    =    -112081825;
+    short int    F3CmyE7f8h    =    (short)-112081825;
   double  d_9LQ  =  -800017118;
 	long double	bc8MVFbJ	=	326938313;
  long long x6FbE89Sl9 = -1482071377;
@@ -100,7 +100,7 @@ int main()
 	long double	d2_94	=	-796847689;
  short int yD8C = -1625523581;
     long long    o4UNnQU    =    513653768;
-    short    L08l8FgF    =    -1880058080;
+    short    L08l8FgF    =    (short)-1880058080;
 	unsigned char	KZMD1IGxQ	=	-370899264;
   double  ICn3JN_9VR  =  1196458771;
 	long	FPqql	=	2138615677;
@@ -120,7 +120,7 @@ crI1i_p = (NM2Tr0lbZt >= 225757168) ? B7oeoS : CyH5INy;
 break;
 case 'b':
 case 'B':
-Sqi7PF = Vy12G(Sqi7PF, -1008600368, -159775468);
+Sqi7PF = Vy12G(Sqi7PF, (short)-1008600368, -159775468);
 break;
 case 'c':
 case 'C':
@@ -135,7 +135,7 @@ try
 {
 if (vQc7UwB4b <= djNUjS2)
 {
-cout << "cLN1" << zBMD(-426755591, U7FX1ruLQ, 501927680, nwECrH, CY_HKrJvV) << "e74z" << Vy12G(-1100131011, U7FX1ruLQ, 415167175) << endl;
+cout << "cLN1" << zBMD(-426755591, U7FX1ruLQ, 501927680, nwECrH, CY_HKrJvV) << "e74z" << Vy12G((unsigned char)-1100131011, U7FX1ruLQ, 415167175) << endl;
 }
 else
 {
@@ -171,7 +171,7 @@ case 'a':
 Z4D68a = zBMD(-276480428, -1696358947, tUNi, 1284323783, -1856911489) - F6M42j;
 break;
 case 'b':
-djNUjS2 = Vy12G(-846666163, (short)625236667, Sqi7PF);
+djNUjS2 = Vy12G((unsigned char)-846666163, (short)625236667, Sqi7PF);
 break;
 case 'c':
 y2uRBb %= crI1i_p;
@@ -193,7 +193,7 @@ case 2:
 bc8MVFbJ = (int)floor(ICn3JN_9VR);
 break;
 case 3:
-U7FX1ruLQ = Vy12G(U7FX1ruLQ, 1453552093, 573211646);
+U7FX1ruLQ = Vy12G(U7FX1ruLQ, (short)1453552093, 573211646);
 break;
 default:
 W8ra /= sL6ZYT2Md;
@@ -302,7 +302,7 @@ long    zBMD(unsigned long long    m0Al42I6B,long long    ym0e,unsigned int    s
 
 short  Vy12G(unsigned char  s85T,short int  VfgbfKLG24,long  Pijw0PSODQ)
 {
-  return  -406079421;
+  return  (short)-406079421;
 }
 
 unsigned short	b3nnRI_O()

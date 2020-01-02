@@ -41,7 +41,7 @@ case 'c':
 Rci57Vm = (int)abs(G8L4);
 break;
 case 'd':
-aanMF96kfT = D5NH(-1693986213, PXy_P10NRX);
+aanMF96kfT = D5NH((unsigned char)-1693986213, PXy_P10NRX);
 break;
 }
 }
@@ -84,7 +84,7 @@ HPFjjnswU /= v8V9b;
 break;
 case 'c':
 case 'C':
-ee9p = cUtQJA(1158814413);
+ee9p = cUtQJA((short)1158814413);
 break;
 case 'd':
 case 'D':
@@ -111,7 +111,7 @@ case 'I':
 cN2N5e = (int)ceil(B9578);
 break;
 default:
-F7RTcChCF = r_5198W6cI(673754513, 1673217627);
+F7RTcChCF = r_5198W6cI(673754513, (unsigned short)1673217627);
 break;
 }
 }
@@ -157,7 +157,7 @@ while (k < 5);
 }
 else if ((UKNK6R == WC5aG2nhy) && (AWFJijw == 55187420))
 {
-std::cout << "A7YP" << "d5y__mN" << ZKB_fG(-1179974863) << eK8b << sbDSd << std::endl;
+std::cout << "A7YP" << "d5y__mN" << ZKB_fG((unsigned short)-1179974863) << eK8b << sbDSd << std::endl;
 }
 else if (c_x3ef72s8 == Ql9P96l)
 {
@@ -191,7 +191,7 @@ case 'b':
 c_x3ef72s8 = ZKB_fG(c_x3ef72s8);
 break;
 case 'c':
-uv1z_v09N = r_5198W6cI(-361248888, -779681409);
+uv1z_v09N = r_5198W6cI(-361248888, (unsigned short)-779681409);
 break;
 case 'd':
 JU5qB45faZ = D5NH(K_6oA, JU5qB45faZ);
@@ -219,7 +219,7 @@ break;
 LcMzHK3 = (int)ceil(w6b63H3i8);
 if (((CU7UV_) || (iLgC > 461014732)) && ((xseUCuBbc <= 1846421371) && (F8p6j90 < C816_J5Z51)))
 {
-std::cout << mnTNx0xk3t << D5NH(2046026999, 1346673789) << cUtQJA((short)236426038) << std::endl;
+std::cout << mnTNx0xk3t << D5NH((unsigned char)2046026999, 1346673789) << cUtQJA((short)236426038) << std::endl;
 }
 
 ee9p = E3XV048ah5();
@@ -229,7 +229,7 @@ Tjq_59 = (int)abs(b3sshS93p5);
 }
 CU7UV_ = SOJ6q8KJ7 / JU5qB45faZ;
 
-std::cout << "u21DW_" << D5NH(919638427, C816_J5Z51) << pZU3 << D5NH(ee9p, C816_J5Z51) << ZKB_fG((unsigned short)139485168) << std::endl;
+std::cout << "u21DW_" << D5NH((unsigned char)919638427, C816_J5Z51) << pZU3 << D5NH(ee9p, C816_J5Z51) << ZKB_fG((unsigned short)139485168) << std::endl;
 
 {
 int i = 10;
@@ -264,7 +264,7 @@ return 0;
 
 unsigned short int  cUtQJA(short int  Hk3ZI)
 {
-  return  -1461089674;
+  return  (unsigned short)-1461089674;
 }
 
 short int  E3XV048ah5()

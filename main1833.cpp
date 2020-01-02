@@ -112,7 +112,7 @@ l9FX2j = E6EdRRe(l9FX2j);
 break;
 case 'c':
 case 'C':
-Zn1p3V = L9pZx2juwD(-1190027633, y9T8sC);
+Zn1p3V = L9pZx2juwD((unsigned char)-1190027633, y9T8sC);
 break;
 case 'd':
 case 'D':
@@ -143,7 +143,7 @@ std::cout << LD9n45 << xpQ8JYqdX << "QHU_gp249d" << "Y7_m44" << std::endl;
 }
 else if (aG2GBp != -2105070383)
 {
-std::cout << Qo0_RMa_g7 << "k1Y1cUN76e" << L9pZx2juwD(2111171204, 1120141398) << E6EdRRe(k0DFY9) << std::endl;
+std::cout << Qo0_RMa_g7 << "k1Y1cUN76e" << L9pZx2juwD((unsigned char)2111171204, 1120141398) << E6EdRRe(k0DFY9) << std::endl;
 }
 else
 {
@@ -166,7 +166,7 @@ if (UM0Ed)
 {
 if (dbHfdRwi & -1749620047)
 {
-std::cout << L9pZx2juwD(816647295, Qo0_RMa_g7) << E6EdRRe(-2074801601) << L9pZx2juwD(k0DFY9, Qo0_RMa_g7) << "U90Y" << awooD << std::endl;
+std::cout << L9pZx2juwD((unsigned char)816647295, Qo0_RMa_g7) << E6EdRRe(-2074801601) << L9pZx2juwD(k0DFY9, Qo0_RMa_g7) << "U90Y" << awooD << std::endl;
 }
 else if (sq6q_k & Cg_E8)
 {
@@ -635,7 +635,7 @@ return 0;
 
 short	r68_n_0(unsigned long long	l_Hh_R)
 {
-	return	-1579554268;
+	return	(short)-1579554268;
 }
 
 short int	L9pZx2juwD(unsigned char	A_48RKj_9,int	OGct)	{

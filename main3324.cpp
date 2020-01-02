@@ -18,7 +18,7 @@ int    NH9O()
 }
 
 unsigned short int    RoHk(unsigned short    mcn9,unsigned long long    B1sGP)    {
-    return    2025792685;
+    return    (unsigned short)2025792685;
 }
 
 int main() {
@@ -40,7 +40,7 @@ while (j < 2)
 switch (tNHUq7U)
 {
 case 0:
-HyTj = (qjnn88727k >= -856643113) ? -1955877804 : GP7WRuAP(Mlk7, n2KF, -917083017);
+HyTj = (qjnn88727k >= -856643113) ? (unsigned char)-1955877804 : GP7WRuAP(Mlk7, n2KF, -917083017);
 break;
 default:
 irL6_FgVKc = tNHUq7U * RNONJ8Fg;
@@ -97,7 +97,7 @@ int k = 9;
 while (k >= 0)
 {
 k--;
-L83D3V = RoHk(-2133220923, HyTj);
+L83D3V = RoHk((unsigned short)-2133220923, HyTj);
 }
 }
 }
@@ -124,7 +124,7 @@ int k = 7;
 while (k >= 0)
 {
 k--;
-rhW0VUA = GP7WRuAP(XdWBgBPr, 268395200, -1890180485);
+rhW0VUA = GP7WRuAP(XdWBgBPr, (short)268395200, -1890180485);
 }
 }
 }
@@ -141,7 +141,7 @@ case 0:
 rhW0VUA = GP7WRuAP(-144493270, iNmq, -183401301);
 break;
 default:
-L1o2_P75 = RoHk(-7067690, 265201);
+L1o2_P75 = RoHk((unsigned short)-7067690, 265201);
 break;
 }
 }
@@ -189,7 +189,7 @@ else if (A2B3FWMYz > 1198651327)
 {
 for (int k = 5; k >= 0; k--)
 {
-hbjkP_W7j = (th68RygM & A2B3FWMYz) ? iNmq : 2103653914;
+hbjkP_W7j = (th68RygM & A2B3FWMYz) ? iNmq : (unsigned char)2103653914;
 }
 }
 else
@@ -221,7 +221,7 @@ i--;
 
 if (irL6_FgVKc & 1994769869)
 {
-std::cout << GP7WRuAP(1373053234, -781587577, -2077394809) << std::endl;
+std::cout << GP7WRuAP(1373053234, (short)-781587577, -2077394809) << std::endl;
 }
 else if (th68RygM > L83D3V)
 {
@@ -255,7 +255,7 @@ iNmq = RoHk(iNmq, zN5OcSo6);
 }
 else if (zN5OcSo6 & x5751_1)
 {
-rhW0VUA = GP7WRuAP(835825662, -1108538093, L1o2_P75);
+rhW0VUA = GP7WRuAP(835825662, (short)-1108538093, L1o2_P75);
 }
 else
 {
@@ -347,7 +347,7 @@ F6FnxH8_N = NH9O();
 
 if ((Qp1r5H / bO_0) <= 395388160)
 {
-std::cout << GP7WRuAP(bO_0, -1059276860, R_Kdu33) << tNHUq7U << th68RygM << eODr6az_j << std::endl;
+std::cout << GP7WRuAP(bO_0, (short)-1059276860, R_Kdu33) << tNHUq7U << th68RygM << eODr6az_j << std::endl;
 }
 
 if (CjHG42uSf < s1_0jpm)

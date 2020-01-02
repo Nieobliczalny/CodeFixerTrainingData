@@ -15,7 +15,7 @@ int main()
 	unsigned long	cG_Nh;
 	cG_Nh	=	-1697737532;
  short lW9BNmU3p;
- lW9BNmU3p = -540831979;
+ lW9BNmU3p = (short)-540831979;
   int  M7h7;
   M7h7  =  -174866372;
  short bur8ej4n;
@@ -29,7 +29,7 @@ int main()
     float    HDhoq;
     HDhoq    =    1218802805;
     short int    qK_36_cw;
-    qK_36_cw    =    1156398335;
+    qK_36_cw    =    (short)1156398335;
  unsigned char sNck8GB;
  sNck8GB = (unsigned char)1771444560;
 	float	rcuQ_Pl_B;
@@ -39,7 +39,7 @@ int main()
 	unsigned long long	htPp_o_20K;
 	htPp_o_20K	=	-658127920;
 	short int	q6Ich_2_w;
-	q6Ich_2_w	=	-610414630;
+	q6Ich_2_w	=	(short)-610414630;
  long double rp5HU;
  rp5HU = 200561490;
  unsigned short ABkaEPme4_;
@@ -49,7 +49,7 @@ int main()
  long double bf_aeqp;
  bf_aeqp = 5344201;
   unsigned char  phV57lc;
-  phV57lc  =  15291950;
+  phV57lc  =  (unsigned char)15291950;
  unsigned long long NohO0;
  NohO0 = 1662223928;
   long double  VND_o7Zz;
@@ -61,7 +61,7 @@ int main()
  int T_p64J36cz;
  T_p64J36cz = -552349303;
     unsigned short int    tQAOWxB;
-    tQAOWxB    =    725065441;
+    tQAOWxB    =    (unsigned short)725065441;
     double    M4GK_8y;
     M4GK_8y    =    -438462296;
   unsigned long  du6k;
@@ -96,7 +96,7 @@ q859ra376Q *= phV57lc;
 }
 else if (((bf_aeqp) && (J423B & -113790665)) || ((J423B == sNck8GB) || (HDhoq == rcuQ_Pl_B)))
 {
-ITxX = M_B8(-411409419, bf_aeqp, -1724439508, piYLDJL_6g);
+ITxX = M_B8((unsigned short)-411409419, bf_aeqp, -1724439508, piYLDJL_6g);
 }
 else if (((sNck8GB >= -764957456) && (ITxX <= tLA3G)) || (cG_Nh))
 {
@@ -169,7 +169,7 @@ do
 {
 for (int k = 0; k < 3; k++)
 {
-ITxX = M_B8(htPp_o_20K, -546250936, -290497353, -986246973);
+ITxX = M_B8(htPp_o_20K, -546250936, -290497353, (unsigned short)-986246973);
 }
 --j;
 }
@@ -184,7 +184,7 @@ int j = 3;
 do
 {
 --j;
-std::cout << qK_36_cw << q6Ich_2_w << M_B8(525678444, 237804361, tQAOWxB, (unsigned short)-1127707913) << "oE_IrbI8A" << std::endl;
+std::cout << qK_36_cw << q6Ich_2_w << M_B8((unsigned short)525678444, 237804361, tQAOWxB, (unsigned short)-1127707913) << "oE_IrbI8A" << std::endl;
 }
 while (j >= 0);
 }
@@ -203,7 +203,7 @@ do
 ++j;
 try
 {
-ITxX = M_B8(bur8ej4n, 20162736, -1760698623, -1819087642);
+ITxX = M_B8(bur8ej4n, 20162736, -1760698623, (unsigned short)-1819087642);
 }
 catch (int& errorCode)
 {
@@ -255,7 +255,7 @@ rp5HU = (long double)(q859ra376Q);
 df_yq8g = (int)ceil(rp5HU);
 
 tQAOWxB %= qK_36_cw;
-std::cout << -1766615607 / M_B8(-765521704, -1724441332, 1761043374, du6k) << std::endl;
+std::cout << -1766615607 / M_B8((unsigned short)-765521704, -1724441332, 1761043374, du6k) << std::endl;
 
 return 0;
 }

@@ -82,7 +82,7 @@ IDs3 <<= 671972530;
 break;
 case 'c':
 case 'C':
-UeONSpTj = VkhPh(-977320315);
+UeONSpTj = VkhPh((unsigned short)-977320315);
 break;
 default:
 UeONSpTj = VkhPh(e3F_J);
@@ -126,7 +126,7 @@ UeONSpTj = VkhPh(-365837576);
 switch (qTsI4pWz)
 {
 case 0:
-S70jd21v0r = Ba7XA321(1449623623, x7U7f1g7u, -1214900810);
+S70jd21v0r = Ba7XA321(1449623623, x7U7f1g7u, (unsigned char)-1214900810);
 break;
 case 1:
 x53P5 = Ba7XA321(x53P5, W0_gmn, (unsigned char)1620683583);
@@ -138,7 +138,7 @@ case 3:
 zL7n = VbLn9Qy3sP + IDs3;
 break;
 case 4:
-IDs3 = Ba7XA321(IDs3, x7U7f1g7u, -1081135808);
+IDs3 = Ba7XA321(IDs3, x7U7f1g7u, (unsigned char)-1081135808);
 break;
 case 5:
 CuR_2OFlg = (int)abs(e3F_J) * 0;
@@ -159,7 +159,7 @@ if ((q8dxR02NRH != xA5PSb2V) && (S70jd21v0r > x7U7f1g7u))
 switch (S70jd21v0r)
 {
 case 'a':
-zL7n = Ba7XA321(22601237, 1885107965, 1030721812);
+zL7n = Ba7XA321(22601237, 1885107965, (unsigned char)1030721812);
 break;
 case 'b':
 qTsI4pWz += zL7n;
@@ -238,7 +238,7 @@ CuR_2OFlg = (int)abs(W0_gmn) * 0;
 
 if (UeONSpTj)
 {
-std::cout << Ba7XA321(x53P5, -1940844265, 212079640) << std::endl;
+std::cout << Ba7XA321(x53P5, -1940844265, (unsigned char)212079640) << std::endl;
 }
 else
 {
@@ -268,7 +268,7 @@ while (i >= 0)
 {
 if ((q8dxR02NRH >= T8v4) || ((x53P5 & e3F_J) || (x7U7f1g7u <= -1064564928)))
 {
-S70jd21v0r = Ba7XA321(-751674905, -1721672430, 1012689760);
+S70jd21v0r = Ba7XA321(-751674905, -1721672430, (unsigned char)1012689760);
 }
 else
 {
@@ -278,7 +278,7 @@ case 0:
 IDs3 &= x53P5;
 break;
 case 1:
-VbLn9Qy3sP = VkhPh(68007191);
+VbLn9Qy3sP = VkhPh((unsigned short)68007191);
 break;
 case 2:
 qTsI4pWz = (CuR_2OFlg == IDs3) ? S70jd21v0r : e3F_J;
@@ -296,7 +296,7 @@ case 6:
 IDs3 = Ba7XA321(IDs3, -1882310640, UeONSpTj);
 break;
 case 7:
-UeONSpTj = VkhPh(-1965261032);
+UeONSpTj = VkhPh((unsigned short)-1965261032);
 break;
 }
 }
@@ -392,7 +392,7 @@ break;
 }
 else
 {
-std::cout << "UH_9Fiyv14" << VkhPh(x7U7f1g7u) << Ba7XA321(2059884774, x53P5, -912323894) << "EHGVLDS2W" << q8dxR02NRH << std::endl;
+std::cout << "UH_9Fiyv14" << VkhPh(x7U7f1g7u) << Ba7XA321(2059884774, x53P5, (unsigned char)-912323894) << "EHGVLDS2W" << q8dxR02NRH << std::endl;
 }
 }
 {

@@ -55,7 +55,7 @@ if (OHPb7_ogN6 == 1761873945)
 {
 if (faTy794XZ6 <= LtK39MOWV)
 {
-OHPb7_ogN6 = n7DTt3q(1182858564, 427019054, QB6xe4Y_6);
+OHPb7_ogN6 = n7DTt3q(1182858564, (short)427019054, QB6xe4Y_6);
 }
 }
 else
@@ -99,7 +99,7 @@ else if (Nm_32R2 == OHPb7_ogN6)
 {
 if (((McXKr) && (LtK39MOWV < Dk6b7iA)) && (r_1M8G & -959076913))
 {
-hc9hRb_ = n7DTt3q(hc9hRb_, 2092741041, 1108308581);
+hc9hRb_ = n7DTt3q(hc9hRb_, (short)2092741041, 1108308581);
 }
 else if (r_1M8G > 1393706505)
 {
@@ -125,7 +125,7 @@ int k = 0;
 do
 {
 k++;
-lja80tsj9 = QunJ(681632964, eMyaDhr, r_1M8G, iO9IiAL_, (char)-1390965626);
+lja80tsj9 = QunJ((unsigned char)681632964, eMyaDhr, r_1M8G, iO9IiAL_, (char)-1390965626);
 }
 while (k < 10);
 }
@@ -148,7 +148,7 @@ case 0:
 fpC8tA08 = L8G0E(1076857392);
 break;
 case 1:
-u7HL = n7DTt3q(u7HL, 767998824, 536344002);
+u7HL = n7DTt3q(u7HL, (short)767998824, 536344002);
 break;
 case 2:
 sP69SW57b7 = (int)ceil(ytU6AGpn3);
@@ -171,7 +171,7 @@ try
 {
 if (iO9IiAL_)
 {
-std::cout << mS8e9() << g2dF << sP69SW57b7 << QunJ(-1932373615, 372851926, LtK39MOWV, eMyaDhr, lja80tsj9) << n7DTt3q(-1252719742, sP69SW57b7, LtK39MOWV) << std::endl;
+std::cout << mS8e9() << g2dF << sP69SW57b7 << QunJ((unsigned char)-1932373615, 372851926, LtK39MOWV, eMyaDhr, lja80tsj9) << n7DTt3q(-1252719742, sP69SW57b7, LtK39MOWV) << std::endl;
 }
 }
 catch (int& errorCode)
@@ -282,7 +282,7 @@ unsigned long long    QunJ(unsigned char    Rp2D,unsigned long long    BIteu6f08
 }
 
 unsigned char    n7DTt3q(long long    gGNiPxzu0,short    U08_bR,unsigned long    u9r17w0c)    {
-    return    973244609;
+    return    (unsigned char)973244609;
 }
 
 short int L8G0E(int dxxDg) {

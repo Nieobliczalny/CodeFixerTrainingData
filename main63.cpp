@@ -14,7 +14,7 @@
 using namespace std;
 
 unsigned char  F1x9153TC()  {
-  return  354978306;
+  return  (unsigned char)354978306;
 }
 
 unsigned long long DjD49l(unsigned short c2Bu_NkE_,unsigned int JTKsZ5H,short int O_1V,short int t807IP) {
@@ -36,7 +36,7 @@ unsigned int  ILpD7iB9z(long long  M28X87dD,short  G2ACHY,short  zlng_Jm,long lo
 int main(void)
 {
 	unsigned int	aEEw5t	=	2127796591;
- short C7j1a9 = -662780953;
+ short C7j1a9 = (short)-662780953;
  unsigned long long haqs3 = 0;
   long long  TJkmW4mrt  =  1107846753;
 	short int	xGCwd8	=	(short)-346386732;
@@ -47,7 +47,7 @@ int main(void)
     unsigned long long    MHA8VN_8i    =    162217834;
   short  F4I1C  =  0;
     unsigned long long    V5As13P2    =    1699641142;
-	unsigned short	npK4h6r71	=	-1931330706;
+	unsigned short	npK4h6r71	=	(unsigned short)-1931330706;
  double Ijw2YY = -235956233;
   unsigned short  KkKZp54  =  (unsigned short)-169043641;
   float  vVl7lDQ_1  =  1710259522;
@@ -65,7 +65,7 @@ int main(void)
 	short int	v331_h3	=	0;
     unsigned int    xZKv6    =    -1410137801;
  long long xC3qj_7z = 686397290;
- unsigned char x6710 = 763760961;
+ unsigned char x6710 = (unsigned char)763760961;
     long double    quR8QEh5Db    =    -1304462794;
 
 vVl7lDQ_1 = (float)(D6sT7sA);
@@ -120,7 +120,7 @@ if (MHA8VN_8i >= MQ3xz)
 {
 if (vVl7lDQ_1 <= -27352293)
 {
-MQ3xz = ILpD7iB9z(xC3qj_7z, -1914835825, jqGZ3Mw9, 1544306543, haqs3);
+MQ3xz = ILpD7iB9z(xC3qj_7z, (short)-1914835825, jqGZ3Mw9, 1544306543, haqs3);
 }
 else
 {
@@ -135,7 +135,7 @@ MHA8VN_8i = j1Rd4 % Cldb;
 }
 else if (C7j1a9 <= QP9xug4)
 {
-W3S6JYn4Yk = ILpD7iB9z(2019787635, -1699746987, ZUz2, npK4h6r71, 318428664);
+W3S6JYn4Yk = ILpD7iB9z(2019787635, (short)-1699746987, ZUz2, npK4h6r71, 318428664);
 }
 else if (npK4h6r71 == j1Rd4)
 {
@@ -170,7 +170,7 @@ while (j < 4)
 ++j;
 try
 {
-xGCwd8 = kKz6K4(206924360, 961969824, 310114789);
+xGCwd8 = kKz6K4(206924360, 961969824, (unsigned char)310114789);
 }
 catch (int& errorCode)
 {
@@ -200,7 +200,7 @@ else if (v331_h3 >= -1529777178)
 int j = 8;
 do
 {
-rQoI = DjD49l(203465242, 1617863020, quR8QEh5Db, (short)-293719767);
+rQoI = DjD49l((unsigned short)203465242, 1617863020, quR8QEh5Db, (short)-293719767);
 --j;
 }
 while (j >= 0);
@@ -219,7 +219,7 @@ Cldb = (unsigned char)(j1Rd4);
 }
 else if (((Yta7rU > vuZk0C7) && (D6sT7sA > npK4h6r71)) && ((jqGZ3Mw9 & -1744093568) || (KkKZp54 & 316500794)))
 {
-std::cout << Cldb << DjD49l(rQoI, xZKv6, quR8QEh5Db, xGCwd8) << ILpD7iB9z(rQoI, xZKv6, 625279642, -974750341, 823424709) << std::endl;
+std::cout << Cldb << DjD49l(rQoI, xZKv6, quR8QEh5Db, xGCwd8) << ILpD7iB9z(rQoI, xZKv6, (short)625279642, -974750341, 823424709) << std::endl;
 }
 else
 {
@@ -238,7 +238,7 @@ for (int i = 9; i >= 0; i--)
 {
 F4I1C = (int)abs(D6sT7sA) * 0;
 }
-MQ3xz = ILpD7iB9z(-186116699, 1892992488, jqGZ3Mw9, o04lofREc, -841235118);
+MQ3xz = ILpD7iB9z(-186116699, (short)1892992488, jqGZ3Mw9, o04lofREc, -841235118);
 
 D6sT7sA = a7s008yo / W3S6JYn4Yk;
 
@@ -259,7 +259,7 @@ case 3:
 KkKZp54 >>= 493533358;
 break;
 case 4:
-KkKZp54 = DjD49l(MHA8VN_8i, MQ3xz, jqGZ3Mw9, -77212624) >> 148956226;
+KkKZp54 = DjD49l(MHA8VN_8i, MQ3xz, jqGZ3Mw9, (short)-77212624) >> 148956226;
 break;
 case 5:
 aEEw5t = xGCwd8 ^ 1173884707;

@@ -16,7 +16,7 @@ int main(void)
 	long	pyTRdW	=	-983270001;
  unsigned long long mn4rD6Q = 443534743;
     unsigned long    Cu4K9k    =    -1758203767;
-  unsigned short  Q0rgE  =  -1656847002;
+  unsigned short  Q0rgE  =  (unsigned short)-1656847002;
 	unsigned long long	oB1Dj4Jg1R	=	5347318;
   long double  pXAc1  =  -666443101;
  short int bb_eSa = (short)-111480020;
@@ -26,7 +26,7 @@ int main(void)
 	unsigned int	ym21	=	1553640932;
  long VPWe = 0;
     unsigned short    Bb1AqnoU    =    569882809;
-  unsigned char  tf9_A  =  -133083816;
+  unsigned char  tf9_A  =  (unsigned char)-133083816;
  unsigned int Y_I_j1f2_ = -1748887199;
 	short int	PMChsV6_	=	-380181501;
  short int M1i24 = (short)-765632486;
@@ -36,7 +36,7 @@ int main(void)
     unsigned int    v_dV38_r    =    -709144217;
 	unsigned short int	d_HM_8	=	-1009012953;
 	unsigned long long	yQbs	=	1352096325;
- short oN7WD = -319551744;
+ short oN7WD = (short)-319551744;
     long long    J0yZG7z    =    -1853521098;
  unsigned short int ofs3Z8W = 1615698668;
   double  l4ANaW0cq  =  424225472;
@@ -48,7 +48,7 @@ int main(void)
 	short	bNS94s_b	=	-1068891837;
     int    d8O8zq64    =    2146753811;
  long cEO1 = -834457183;
- short int I40t08pw = 1042171411;
+ short int I40t08pw = (short)1042171411;
  unsigned short int OCxMg = -1877128792;
  short int dd453 = (short)-271397299;
 	unsigned long	Nr0r40	=	-1733732032;
@@ -59,7 +59,7 @@ int main(void)
  float QZTg4dQ = 318868183;
 	unsigned int	RSubl8N3H	=	-2025589415;
   long long  hr5Zrn81_4  =  -948818602;
-    unsigned short    X5fFuZ2    =    -1705653108;
+    unsigned short    X5fFuZ2    =    (unsigned short)-1705653108;
     unsigned long long    YLJxx4    =    -644630099;
   long double  N_XcVW  =  1429130405;
  short int sSk4_MjB = (short)1041091433;
@@ -71,7 +71,7 @@ int main(void)
 	unsigned char	H7v3X0TOSq	=	-1624530982;
   double  mHV729k  =  1248191902;
   float  kbv27  =  -367477608;
- unsigned short E_zY = -1030778246;
+ unsigned short E_zY = (unsigned short)-1030778246;
   long  Ya8y_WSMc  =  1508053689;
     unsigned char    CI0Znj7rA9    =    (unsigned char)-589092949;
  unsigned int nY_184 = -1471485275;
@@ -81,7 +81,7 @@ int main(void)
  double LU18RhnW = -701959958;
     short    m104EXT3    =    1295275737;
 	long long	D_2q7Gs	=	1360689453;
- short int T9mf_fnkz = -1534908879;
+ short int T9mf_fnkz = (short)-1534908879;
 	unsigned long long	J_2yjhBO	=	18662147;
   short  mzfLY  =  (short)1509930909;
   long  UABC  =  544689373;
@@ -91,7 +91,7 @@ int main(void)
   int  Y1r8YgI  =  148097938;
     unsigned char    Cii_lcS    =    572176660;
  char V2caoPfq1 = -686293247;
-    unsigned short    W3eYdt387    =    593790164;
+    unsigned short    W3eYdt387    =    (unsigned short)593790164;
 	short int	V7TQoY2A	=	-1707851759;
 
 oRja0Mm = (unsigned short int)(cEO1);
@@ -436,7 +436,7 @@ while (j >= 0)
 {
 try
 {
-ofs3Z8W = (pXAc1 < X5fFuZ2) ? -1871008452 : hr5Zrn81_4;
+ofs3Z8W = (pXAc1 < X5fFuZ2) ? (unsigned short)-1871008452 : hr5Zrn81_4;
 }
 catch (int& errorCode)
 {

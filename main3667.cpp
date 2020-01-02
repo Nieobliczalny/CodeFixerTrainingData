@@ -22,7 +22,7 @@ switch (y0pHx)
 {
 case 'a':
 case 'A':
-Bfc1_ = ok_2814bm(1450270609, -902216870);
+Bfc1_ = ok_2814bm((unsigned char)1450270609, -902216870);
 break;
 case 'b':
 case 'B':
@@ -54,7 +54,7 @@ case 0:
 tW7Mk = (int)abs(c0T1Ug);
 break;
 case 1:
-mwbQHdZ = ok_2814bm(-1765142212, 1985841872);
+mwbQHdZ = ok_2814bm((unsigned char)-1765142212, 1985841872);
 break;
 case 2:
 n8_Qf0 = ok_2814bm((unsigned char)314990617, WNzr);

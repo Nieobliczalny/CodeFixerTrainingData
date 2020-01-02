@@ -14,7 +14,7 @@ using std::floor;
 
 int main(int argc, char** argv) {
   long double  dNCH4mE  =  1212699856;
- short y2S_uA = 1517573397;
+ short y2S_uA = (short)1517573397;
 	unsigned int	fB1l8904	=	-641045932;
   long  v0hKC8  =  139549017;
  float sBIf8S04_F = -1734347222;

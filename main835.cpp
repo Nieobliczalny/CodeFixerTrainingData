@@ -13,7 +13,7 @@ using std::ceil;
 using std::floor;
 
 short    pD_u(unsigned short    sU5r_L0Q,unsigned char    K59u4)    {
-    return    1228717460;
+    return    (short)1228717460;
 }
 
 unsigned long long  v7YQB(unsigned short  x3GLW,unsigned long  uDN58_9ij,unsigned short int  a7ahGS_4wQ,unsigned short int  WflBQs,short int  C6pFO40Ge)  {
@@ -31,7 +31,7 @@ long long bSmE6zf(unsigned long rRtiMBz_4x,unsigned short int E_U27_sN)
 
 short int	imcQ8h(unsigned char	Q9HCwq6k5,unsigned char	TSF0649qw)
 {
-	return	337061712;
+	return	(short)337061712;
 }
 
 int main(int argc, char** argv)
@@ -42,7 +42,7 @@ int main(int argc, char** argv)
     short int    cWL6_    =    -5934443;
   unsigned char  X6_I1  =  -708792999;
  long long X5bEeh = 1479891684;
-    unsigned short    iaTB    =    -2041038388;
+    unsigned short    iaTB    =    (unsigned short)-2041038388;
 	int	w2o_o5n71	=	-1456730287;
 	char	Ut18JXO3	=	144300481;
  char bqwHY65z = -821847823;
@@ -64,7 +64,7 @@ case 'b':
 cWL6_ = X6_I1 / 1496774649;
 break;
 case 'c':
-G16dEc = v7YQB(1406228506, 1256639612, (unsigned short)150595230, -1527496834, 951980761);
+G16dEc = v7YQB((unsigned short)1406228506, 1256639612, (unsigned short)150595230, -1527496834, 951980761);
 break;
 default:
 DQePwv = (int)abs(w2o_o5n71);
@@ -77,7 +77,7 @@ if ((o4Msqttn == 1426664281) && ((G16dEc >= 1703261685) && (Ut18JXO3 != 15019488
 {
 for (int k = 6; k >= 0; --k)
 {
-tEeb = bSmE6zf(tEeb, -1392889326);
+tEeb = bSmE6zf(tEeb, (unsigned short)-1392889326);
 }
 }
 }
@@ -92,7 +92,7 @@ w2o_o5n71 = (int)(o4Msqttn);
 int i = 0;
 do
 {
-S2M6 = BAQVYBt(cWL6_, 1930870984, iaTB);
+S2M6 = BAQVYBt(cWL6_, (unsigned char)1930870984, iaTB);
 i++;
 }
 while (i < 6);
@@ -120,7 +120,7 @@ case 0:
 G16dEc &= o4Msqttn;
 break;
 case 1:
-S2M6 = BAQVYBt(o4Msqttn, -1727051346, bqwHY65z);
+S2M6 = BAQVYBt(o4Msqttn, (unsigned char)-1727051346, bqwHY65z);
 break;
 case 2:
 S2M6 = BAQVYBt(665576626, i08xStZGT, (unsigned short)1895015523);
@@ -135,7 +135,7 @@ case 5:
 vU_8I057 = (int)abs(bqwHY65z);
 break;
 case 6:
-vU_8I057 = imcQ8h(-1093014427, (unsigned char)1551058864);
+vU_8I057 = imcQ8h((unsigned char)-1093014427, (unsigned char)1551058864);
 break;
 case 7:
 o4Msqttn++;
@@ -153,7 +153,7 @@ if (S2M6 == 0)
 	i08xStZGT = G16dEc / S2M6;
 }
 i08xStZGT = X5bEeh - 890695596;
-std::cout << imcQ8h(-1671262743, (unsigned char)793731387) << pD_u(vU_8I057, i08xStZGT) << bSmE6zf(11471402, i08xStZGT) << std::endl;
+std::cout << imcQ8h((unsigned char)-1671262743, (unsigned char)793731387) << pD_u(vU_8I057, i08xStZGT) << bSmE6zf(11471402, i08xStZGT) << std::endl;
 
 if (X6_I1 < -858110707)
 {
@@ -235,7 +235,7 @@ o4Msqttn = (unsigned long long)(P_7A720hk);
 }
 else if (((iaTB <= 1927952821) && (X5bEeh <= 598323753)) && (X5bEeh > -2143270857))
 {
-std::cout << X5bEeh << imcQ8h(740842674, (unsigned char)-847448570) << "Zp6_0bwL" << i08xStZGT << std::endl;
+std::cout << X5bEeh << imcQ8h((unsigned char)740842674, (unsigned char)-847448570) << "Zp6_0bwL" << i08xStZGT << std::endl;
 }
 else
 {
@@ -264,7 +264,7 @@ if (X6_I1 < -1388067398)
 {
 try
 {
-o4Msqttn = bSmE6zf(o4Msqttn, -499313725);
+o4Msqttn = bSmE6zf(o4Msqttn, (unsigned short)-499313725);
 }
 catch (int& errorCode)
 {
@@ -336,7 +336,7 @@ else if (bqwHY65z >= S2M6)
 int k = 0;
 while (k < 2)
 {
-bqwHY65z = v7YQB(-627163977, G16dEc, vU_8I057, (unsigned short)-728587076, 200680314);
+bqwHY65z = v7YQB((unsigned short)-627163977, G16dEc, vU_8I057, (unsigned short)-728587076, 200680314);
 ++k;
 }
 }
@@ -373,7 +373,7 @@ int k = 0;
 do
 {
 ++k;
-o4Msqttn = pD_u(1610056123, Ut18JXO3) * 1987094175;
+o4Msqttn = pD_u((unsigned short)1610056123, Ut18JXO3) * 1987094175;
 }
 while (k < 5);
 }
@@ -383,7 +383,7 @@ while (k < 5);
 }
 else
 {
-std::cout << "Q07c90" << G16dEc << bSmE6zf(-319604824, -976504964) << std::endl;
+std::cout << "Q07c90" << G16dEc << bSmE6zf(-319604824, (unsigned short)-976504964) << std::endl;
 }
 for (int i = 0; i < 6; ++i)
 {
@@ -402,7 +402,7 @@ case 1:
 X5bEeh *= 1403647993;
 break;
 case 2:
-i08xStZGT = bSmE6zf(-104359808, 1749720887);
+i08xStZGT = bSmE6zf(-104359808, (unsigned short)1749720887);
 break;
 case 3:
 i08xStZGT = vU_8I057 | 739144342;
@@ -417,7 +417,7 @@ case 6:
 P_7A720hk = bSmE6zf(P_7A720hk, S2M6);
 break;
 default:
-X5bEeh = v7YQB(P_7A720hk, 1243294154, -300486058, -260578320, 733350237) & 1423895879;
+X5bEeh = v7YQB(P_7A720hk, 1243294154, (unsigned short)-300486058, -260578320, 733350237) & 1423895879;
 break;
 }
 
@@ -448,7 +448,7 @@ switch (iaTB)
 {
 case 'a':
 case 'A':
-S2M6 = BAQVYBt(716432019, 1125594492, (unsigned short)-1042701765);
+S2M6 = BAQVYBt(716432019, (unsigned char)1125594492, (unsigned short)-1042701765);
 break;
 case 'b':
 case 'B':
@@ -464,7 +464,7 @@ iaTB >>= X6_I1;
 break;
 case 'e':
 case 'E':
-bqwHY65z = imcQ8h(1285406315, X6_I1);
+bqwHY65z = imcQ8h((unsigned char)1285406315, X6_I1);
 break;
 case 'f':
 case 'F':
@@ -480,7 +480,7 @@ X5bEeh >>= tEeb;
 break;
 case 'i':
 case 'I':
-G16dEc = bSmE6zf(G16dEc, -691087403);
+G16dEc = bSmE6zf(G16dEc, (unsigned short)-691087403);
 break;
 }
 }
@@ -492,7 +492,7 @@ if (o4Msqttn >= -2047202967)
 {
 if (Ut18JXO3 >= 49359707)
 {
-G16dEc = bSmE6zf(G16dEc, 767465875);
+G16dEc = bSmE6zf(G16dEc, (unsigned short)767465875);
 }
 else
 {
@@ -554,7 +554,7 @@ int k = 0;
 while (k < 2)
 {
 ++k;
-S2M6 = BAQVYBt(-446479926, X6_I1, -1026541249);
+S2M6 = BAQVYBt(-446479926, X6_I1, (unsigned short)-1026541249);
 }
 }
 }
@@ -565,7 +565,7 @@ try
 {
 for (int k = 4; k >= 0; k--)
 {
-Ut18JXO3 = imcQ8h(Ut18JXO3, 1939893885);
+Ut18JXO3 = imcQ8h(Ut18JXO3, (unsigned char)1939893885);
 }
 }
 catch (int& errorCode)
@@ -578,7 +578,7 @@ else
 bqwHY65z = (char)(G16dEc);
 }
 
-X6_I1 = bSmE6zf(X6_I1, -1003162310);
+X6_I1 = bSmE6zf(X6_I1, (unsigned short)-1003162310);
 
 {
 int i = 8;
@@ -590,7 +590,7 @@ do
 {
 for (int k = 0; k < 9; k++)
 {
-bqwHY65z = v7YQB(-1412516135, -1405794035, i08xStZGT, n420N, G16dEc) * 1928261464;
+bqwHY65z = v7YQB((unsigned short)-1412516135, -1405794035, i08xStZGT, n420N, G16dEc) * 1928261464;
 }
 --j;
 }
@@ -608,7 +608,7 @@ while (i >= 0)
 switch (tEeb)
 {
 case 0:
-S2M6 = BAQVYBt(-341328859, 312189038, n420N);
+S2M6 = BAQVYBt(-341328859, (unsigned char)312189038, n420N);
 break;
 case 1:
 w2o_o5n71 = BAQVYBt(-1498377126, bqwHY65z, n420N) << 1569890279;

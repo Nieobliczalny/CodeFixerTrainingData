@@ -16,7 +16,7 @@ int  LiIayeh9h(unsigned short int  kE2DP0);
 
 int main(int argc, char** argv) {
     unsigned char    Iw8cz;
-    Iw8cz    =    -827000795;
+    Iw8cz    =    (unsigned char)-827000795;
 	char	ReHd8;
 	ReHd8	=	(char)2090760986;
     long double    QN6QF;
@@ -28,7 +28,7 @@ int main(int argc, char** argv) {
  float uOeYK_v3WE;
  uOeYK_v3WE = -11453179;
  unsigned short int G9M2Y;
- G9M2Y = 2099448365;
+ G9M2Y = (unsigned short)2099448365;
   unsigned int  KE__;
   KE__  =  1369752768;
     long    KV1PK56;
@@ -46,7 +46,7 @@ int main(int argc, char** argv) {
  long e4_6E_Pr30;
  e4_6E_Pr30 = -444391600;
  unsigned short zdC7mtKR;
- zdC7mtKR = 17481558;
+ zdC7mtKR = (unsigned short)17481558;
     unsigned long long    VkWf81Dy;
     VkWf81Dy    =    -742168597;
   float  ohVrse;
@@ -64,7 +64,7 @@ int main(int argc, char** argv) {
  int nT65mO;
  nT65mO = -595805164;
   short int  RSeS77jP0h;
-  RSeS77jP0h  =  372253948;
+  RSeS77jP0h  =  (short)372253948;
   long long  n5z2V370;
   n5z2V370  =  -1443669637;
 	unsigned char	dI3rkt6;
@@ -74,7 +74,7 @@ int main(int argc, char** argv) {
 	short	m0107;
 	m0107	=	-953834163;
     char    wD89;
-    wD89    =    1593046562;
+    wD89    =    (char)1593046562;
 	unsigned short int	UY1Qb;
 	UY1Qb	=	1652549781;
  unsigned int fH1CA8;
@@ -90,7 +90,7 @@ int main(int argc, char** argv) {
   int  U_Yup;
   U_Yup  =  2103790874;
   unsigned short  V9tVvC_;
-  V9tVvC_  =  1176020553;
+  V9tVvC_  =  (unsigned short)1176020553;
     long double    tv37vQ0;
     tv37vQ0    =    1377944233;
  short int e3kyjp;
@@ -100,7 +100,7 @@ int main(int argc, char** argv) {
     unsigned long long    VwGm7oH1;
     VwGm7oH1    =    -475428401;
  unsigned short U78uz;
- U78uz = 555466247;
+ U78uz = (unsigned short)555466247;
 	unsigned int	u8_v;
 	u8_v	=	-1633012928;
     long long    nu8P3bb;
@@ -110,7 +110,7 @@ int main(int argc, char** argv) {
  short QePZed_;
  QePZed_ = (short)-1173399223;
  unsigned char Aw4M;
- Aw4M = -1442964923;
+ Aw4M = (unsigned char)-1442964923;
     unsigned long    mlN5lQH92;
     mlN5lQH92    =    1815739457;
  short int jki4D1;
@@ -120,7 +120,7 @@ int main(int argc, char** argv) {
 	short int	W451wdP;
 	W451wdP	=	(short)-1582314349;
  char ySQrMss9;
- ySQrMss9 = 1776600859;
+ ySQrMss9 = (char)1776600859;
     short    p_ng1lM8;
     p_ng1lM8    =    -1109727304;
     unsigned short    gg_I_3z;
@@ -134,7 +134,7 @@ int main(int argc, char** argv) {
  long DZkNwpPL1k;
  DZkNwpPL1k = -1481930687;
   char  JY9eZic;
-  JY9eZic  =  -772110970;
+  JY9eZic  =  (char)-772110970;
 	unsigned char	jG1D;
 	jG1D	=	-1968487720;
     short    XEg5I;
@@ -146,7 +146,7 @@ int main(int argc, char** argv) {
 	double	POng;
 	POng	=	-30925082;
  short ZzFigFYaGL;
- ZzFigFYaGL = 1338465668;
+ ZzFigFYaGL = (short)1338465668;
 	short	u2ld45h;
 	u2ld45h	=	(short)1881844160;
     int    C98u_Y5ll;
@@ -156,7 +156,7 @@ int main(int argc, char** argv) {
   char  Iu778TFn;
   Iu778TFn  =  -399269351;
 	short	CX5Nd9d;
-	CX5Nd9d	=	-73012758;
+	CX5Nd9d	=	(short)-73012758;
     unsigned int    dOnlk0D;
     dOnlk0D    =    -1069717542;
   long long  oUX1;
@@ -166,7 +166,7 @@ int main(int argc, char** argv) {
   char  L8lm67;
   L8lm67  =  (char)321466251;
 	short int	P4JO5I1v;
-	P4JO5I1v	=	-870548235;
+	P4JO5I1v	=	(short)-870548235;
  short int AvXgj6_F;
  AvXgj6_F = -1594970599;
  short r46y4pO5Yu;
@@ -196,7 +196,7 @@ case 0:
 VwGm7oH1 = wD89 & 111948007;
 break;
 case 1:
-nE4S1X_48 = LiIayeh9h(1358207091);
+nE4S1X_48 = LiIayeh9h((unsigned short)1358207091);
 break;
 case 2:
 nE4S1X_48 = LiIayeh9h((unsigned short)-1001849056);
@@ -211,7 +211,7 @@ case 5:
 ok4I8zCa |= 971320730;
 break;
 case 6:
-nE4S1X_48 = LiIayeh9h(-1056224969);
+nE4S1X_48 = LiIayeh9h((unsigned short)-1056224969);
 break;
 }
 for (int i = 6; i >= 0; i--)
@@ -224,7 +224,7 @@ LiyOS = (int)floor(tv37vQ0);
 
 try
 {
-cout << LiIayeh9h(1791432630) << KV1PK56 << m0107 << endl;
+cout << LiIayeh9h((unsigned short)1791432630) << KV1PK56 << m0107 << endl;
 }
 catch (int& errorCode)
 {
@@ -245,7 +245,7 @@ switch (eR_5D58NN)
 {
 case 'a':
 case 'A':
-LPlFj = LiIayeh9h(-1361591595);
+LPlFj = LiIayeh9h((unsigned short)-1361591595);
 break;
 case 'b':
 case 'B':
@@ -257,7 +257,7 @@ QePZed_ = itMMbFr1GY << oUX1;
 break;
 case 'd':
 case 'D':
-LPlFj = LiIayeh9h(-225565143);
+LPlFj = LiIayeh9h((unsigned short)-225565143);
 break;
 case 'e':
 case 'E':
@@ -335,7 +335,7 @@ j++;
 int k = 0;
 do
 {
-LPlFj = LiIayeh9h(1956548138);
+LPlFj = LiIayeh9h((unsigned short)1956548138);
 k++;
 }
 while (k < 7);
@@ -352,7 +352,7 @@ if (C98u_Y5ll > e2yO7_qzZ)
 {
 if (zdC7mtKR)
 {
-LPlFj = LiIayeh9h(-771969295);
+LPlFj = LiIayeh9h((unsigned short)-771969295);
 }
 }
 else if (LiyOS < XO71Cyd_0)
@@ -363,7 +363,7 @@ else if (v_YD6WW == -1556308273)
 {
 for (int k = 9; k >= 0; k--)
 {
-nE4S1X_48 = LiIayeh9h(-826904838);
+nE4S1X_48 = LiIayeh9h((unsigned short)-826904838);
 }
 }
 else if ((nu8P3bb) && (ySQrMss9 < 1699114683))
@@ -380,7 +380,7 @@ nE4S1X_48 = LiIayeh9h(zdC7mtKR);
 break;
 case 'c':
 case 'C':
-nE4S1X_48 = LiIayeh9h(-1010783270);
+nE4S1X_48 = LiIayeh9h((unsigned short)-1010783270);
 break;
 case 'd':
 case 'D':
@@ -401,7 +401,7 @@ else
 switch (e4_6E_Pr30)
 {
 case 'a':
-nE4S1X_48 = LiIayeh9h(1234522413);
+nE4S1X_48 = LiIayeh9h((unsigned short)1234522413);
 break;
 case 'b':
 Aw4M = t2Uj971m | JY9eZic;
@@ -438,7 +438,7 @@ while (j < 1)
 {
 for (int k = 0; k < 10; ++k)
 {
-nE4S1X_48 = LiIayeh9h(1555398181);
+nE4S1X_48 = LiIayeh9h((unsigned short)1555398181);
 }
 ++j;
 }
@@ -462,7 +462,7 @@ cout << LiIayeh9h(nE4S1X_48) << "LCKM2w70" << endl;
 }
 else if (itMMbFr1GY <= x_4NnFv6)
 {
-nE4S1X_48 = LiIayeh9h(-1721152117);
+nE4S1X_48 = LiIayeh9h((unsigned short)-1721152117);
 }
 else
 {
@@ -498,7 +498,7 @@ p_ng1lM8 = KjMu3PE >> u2ld45h;
 switch (U17p3J)
 {
 case 'a':
-nE4S1X_48 = LiIayeh9h(-1348021382);
+nE4S1X_48 = LiIayeh9h((unsigned short)-1348021382);
 break;
 case 'b':
 nu8P3bb >>= x_4NnFv6;
@@ -545,7 +545,7 @@ default:
 W_Xf <<= 1446398726;
 break;
 }
-cout << LiIayeh9h(1040069000) << endl;
+cout << LiIayeh9h((unsigned short)1040069000) << endl;
 {
 int i = 0;
 while (i < 3)

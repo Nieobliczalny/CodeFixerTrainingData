@@ -21,7 +21,7 @@ char    a4be7FB0();
 int main(int argc, char** argv)
 {
     unsigned short int    nWfF;
-    nWfF    =    939321597;
+    nWfF    =    (unsigned short)939321597;
 	int	ps__4Ue5o;
 	ps__4Ue5o	=	1808739017;
 	float	Uqts6RX;
@@ -33,7 +33,7 @@ int main(int argc, char** argv)
  char e7I3l9;
  e7I3l9 = 0;
     unsigned short int    C2ddS4_;
-    C2ddS4_    =    749210416;
+    C2ddS4_    =    (unsigned short)749210416;
     short int    c3_h1;
     c3_h1    =    0;
   long  B5BS8t7Ura;
@@ -45,7 +45,7 @@ B5BS8t7Ura = (long)(Uqts6RX * B5BS8t7Ura);
 
 if ((ps__4Ue5o == 662622108) || (F_52O > c3_h1))
 {
-C2ddS4_ = e5_ZM_(1172769481, (unsigned short)-2116996803, -1571474673);
+C2ddS4_ = e5_ZM_((unsigned char)1172769481, (unsigned short)-2116996803, -1571474673);
 }
 else if ((e7I3l9) && (ps__4Ue5o == -1576952825))
 {
@@ -88,7 +88,7 @@ F_52O |= ps__4Ue5o;
 
 cout << c3_h1 << C2ddS4_ << a4be7FB0() << vMCAv(1437838506, C2ddS4_) << ps__4Ue5o << endl;
 
-B5BS8t7Ura = I7__(B5BS8t7Ura, 12715568, 1598448537, -1895907039);
+B5BS8t7Ura = I7__(B5BS8t7Ura, 12715568, 1598448537, (unsigned char)-1895907039);
 
 Uqts6RX = e5_ZM_((unsigned char)-228684400, 338208483, 315823275);
 
@@ -101,7 +101,7 @@ ps__4Ue5o = e5_ZM_(ps__4Ue5o, c3_h1, -931406740);
 
 cout << "hv_P" << IAjo_ << e6gM(-1233107402) << "t1T5jrDb" << endl;
 
-cout << e6gM(-334329896) << "func7" << I7__(-1466011414, c3_h1, -2108810543, e7I3l9) << e5_ZM_(-1443104494, c3_h1, B5BS8t7Ura) << endl;
+cout << e6gM(-334329896) << "func7" << I7__(-1466011414, c3_h1, -2108810543, e7I3l9) << e5_ZM_((unsigned char)-1443104494, c3_h1, B5BS8t7Ura) << endl;
 
 cout << a4be7FB0() << a4be7FB0() << "P0Zb" << endl;
 nWfF = ps__4Ue5o / e7I3l9;
@@ -115,7 +115,7 @@ for (int j = 5; j >= 0; j--)
 {
 if (c3_h1 < 261521221)
 {
-ps__4Ue5o = e5_ZM_(2130455393, (unsigned short)-1007609115, 1562410143);
+ps__4Ue5o = e5_ZM_((unsigned char)2130455393, (unsigned short)-1007609115, 1562410143);
 }
 else
 {
@@ -139,7 +139,7 @@ unsigned int    e6gM(long long    XJSX)    {
 }
 
 short    vMCAv(unsigned int    e2_854Sz4,int    yS29)    {
-    return    569276471;
+    return    (short)569276471;
 }
 
 int e5_ZM_(unsigned char c5LN3D,unsigned short Wm5_OYosFh,unsigned long L9zsa) {

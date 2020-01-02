@@ -27,7 +27,7 @@ int main(int argc, char** argv) {
     unsigned short int    T_CYX;
     T_CYX    =    0;
 	short int	guE2x3P;
-	guE2x3P	=	866861877;
+	guE2x3P	=	(short)866861877;
  float w2JWNC;
  w2JWNC = 1578168448;
     long double    k4Q7T63i9f;
@@ -37,7 +37,7 @@ int main(int argc, char** argv) {
     unsigned long    QJIY;
     QJIY    =    1418856071;
  short int i81L3CF_i4;
- i81L3CF_i4 = 2093295200;
+ i81L3CF_i4 = (short)2093295200;
     float    M9pT685;
     M9pT685    =    -548167963;
 	short int	D3bn_;
@@ -47,7 +47,7 @@ int main(int argc, char** argv) {
   unsigned char  Mm983;
   Mm983  =  -613385172;
   short int  lAjt09B0N;
-  lAjt09B0N  =  -1433009734;
+  lAjt09B0N  =  (short)-1433009734;
 	short	xTd7;
 	xTd7	=	2060579281;
     unsigned char    tDJU;
@@ -59,7 +59,7 @@ int main(int argc, char** argv) {
   long double  o1RZqunQ;
   o1RZqunQ  =  46959359;
 	short	Q8D27;
-	Q8D27	=	1003492584;
+	Q8D27	=	(short)1003492584;
 
 {
 int i = 0;
@@ -139,7 +139,7 @@ case 4:
 A0eUVt12ci = ZXOD1 + 572077399;
 break;
 case 5:
-xTd7 = (ZXOD1 <= -384482644) ? 532752249 : gzy5PE4;
+xTd7 = (ZXOD1 <= -384482644) ? (short)532752249 : gzy5PE4;
 break;
 default:
 w2JWNC = (int)abs(guE2x3P);

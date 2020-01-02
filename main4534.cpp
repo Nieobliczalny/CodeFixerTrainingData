@@ -69,7 +69,7 @@ int main()
   q_f_y9k0hC  =  828887588;
 
 MvIub_d = (long double)(nSxG6M2P);
-PHB1hC4rO = qerO(-1196093227, 1720445577);
+PHB1hC4rO = qerO(-1196093227, (unsigned short)1720445577);
 X2R6sLm5k5 = qerO(mnIe, Om8099TD__) / Ghd__UyEgN;
 for (int i = 10; i >= 0; i--)
 {
@@ -85,7 +85,7 @@ B9fE = mnIe / Om8099TD__;
 break;
 case 'c':
 case 'C':
-gCyI8czQJ = p391RpD(PHB1hC4rO, gCyI8czQJ, XcNKf, -1410966512);
+gCyI8czQJ = p391RpD(PHB1hC4rO, gCyI8czQJ, XcNKf, (unsigned char)-1410966512);
 break;
 case 'd':
 case 'D':
@@ -183,7 +183,7 @@ else if (((kC7vkj7) && (ptbTm6bN3 < mnIe)) || (B9fE <= XcNKf))
 {
 if (X2R6sLm5k5)
 {
-llrygB2_e = p391RpD(-862888284, -295410912, G_RyWnwyjt, VqV34o);
+llrygB2_e = p391RpD((unsigned char)-862888284, -295410912, G_RyWnwyjt, VqV34o);
 }
 else
 {
@@ -236,7 +236,7 @@ MZrrSC8_Qv = (int)floor(Pb74Czs);
 }
 else if (((R8WAc_ <= 1636807702) || (R8WAc_)) && ((PHB1hC4rO & 1151112561) && (kC7vkj7 < -283715326)))
 {
-std::cout << p391RpD(-1991094932, Pb74Czs, PHB1hC4rO, (unsigned char)-1304995479) << MZrrSC8_Qv << qerO(XEQXI0Q0_0, -1552926440) << O5nTE_L56_ << std::endl;
+std::cout << p391RpD((unsigned char)-1991094932, Pb74Czs, PHB1hC4rO, (unsigned char)-1304995479) << MZrrSC8_Qv << qerO(XEQXI0Q0_0, -1552926440) << O5nTE_L56_ << std::endl;
 }
 else if ((TdDO77 >= DT8Y) && (s4e_kh != 986922906))
 {
@@ -254,7 +254,7 @@ if (Om8099TD__ <= aS4Bc24)
 int k = 0;
 while (k < 5)
 {
-jCuVKAn = p391RpD(1043009069, 445023056, 1313032511, G_RyWnwyjt);
+jCuVKAn = p391RpD((unsigned char)1043009069, 445023056, 1313032511, G_RyWnwyjt);
 k++;
 }
 }
@@ -304,7 +304,7 @@ DT8Y = (int)abs(jCuVKAn);
 
 if ((R8WAc_ != 350991626) && (Om8099TD__ < 774619594))
 {
-udRucjNL = p391RpD(-1372539376, 2030874653, PHB1hC4rO, (unsigned char)1182160282);
+udRucjNL = p391RpD((unsigned char)-1372539376, 2030874653, PHB1hC4rO, (unsigned char)1182160282);
 }
 
 switch (PHB1hC4rO)
@@ -342,7 +342,7 @@ unsigned short int    qerO(unsigned long    bxv7PhV_A,unsigned short    a_3Fi1)
 }
 
 short    r_4br666Q(unsigned long    h9jHuzVw)    {
-    return    887539666;
+    return    (short)887539666;
 }
 
 unsigned short int  p391RpD(unsigned char  gY5vZ,unsigned long long  G_L1aWh,unsigned int  S15f,unsigned char  J8Xe7v_c)  {

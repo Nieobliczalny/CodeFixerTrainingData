@@ -13,7 +13,7 @@ int  YUBIM_y2p();
 
 int main()
 {
-    unsigned short int    qH_tp2fF6K    =    -884162786;
+    unsigned short int    qH_tp2fF6K    =    (unsigned short)-884162786;
  long u3DL8 = -352155931;
  long double Srkp0 = -1932186819;
     unsigned char    d2RJd    =    (unsigned char)409442092;
@@ -28,7 +28,7 @@ int main()
     long long    RUTmQ    =    -52244057;
     unsigned long    PxD5pq028L    =    1009876759;
  int y7mt = 1247117131;
-  short  DOd2Ld8e  =  1781237442;
+  short  DOd2Ld8e  =  (short)1781237442;
     short int    H1ziZ    =    (short)-591780201;
     unsigned int    KUH2    =    -879405766;
 	short int	S5e6O2g	=	-2082645176;
@@ -39,7 +39,7 @@ int main()
  unsigned int Z69yg249a = 1644097905;
   long  MsPS  =  875211583;
   unsigned int  yUvO6  =  -356764582;
- unsigned short int FOqv6F = -668687288;
+ unsigned short int FOqv6F = (unsigned short)-668687288;
 	long double	wLIu	=	2044737048;
     long double    E9PXwdqr    =    -168034276;
  unsigned short Y9BVck_xX = (unsigned short)-1956945134;
@@ -49,7 +49,7 @@ int main()
   long double  w3g7Y7q  =  -2080133528;
   unsigned char  M542BrhL  =  1231440600;
 	long	V_y_AX	=	1272491236;
-	short	ZZ5170PO	=	1365677568;
+	short	ZZ5170PO	=	(short)1365677568;
   long long  vs3n8ma_y  =  -819128215;
 
 PxD5pq028L = (Z69yg249a > qH_tp2fF6K) ? 247213273 : G1rr;

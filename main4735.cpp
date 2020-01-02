@@ -21,7 +21,7 @@ int main(int argc, char** argv)
     int    mVQNt;
     mVQNt    =    2029503983;
     short int    A23eaI_cws;
-    A23eaI_cws    =    1934495612;
+    A23eaI_cws    =    (short)1934495612;
     char    a2pt_o;
     a2pt_o    =    (char)-1630798016;
 	double	TmQ9;
@@ -39,7 +39,7 @@ int main(int argc, char** argv)
  long double AMtNBc1dQV;
  AMtNBc1dQV = 628245226;
   unsigned char  s55R7;
-  s55R7  =  -348792200;
+  s55R7  =  (unsigned char)-348792200;
 	unsigned long long	Eb7z2DwZH;
 	Eb7z2DwZH	=	309906701;
 	int	oV5YTqd0z6;
@@ -53,7 +53,7 @@ int main(int argc, char** argv)
  long OBu5_KU;
  OBu5_KU = -573573777;
  unsigned short c3dltT74;
- c3dltT74 = -303222166;
+ c3dltT74 = (unsigned short)-303222166;
 
 {
 int i = 0;

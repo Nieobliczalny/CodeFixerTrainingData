@@ -40,7 +40,7 @@ if (Au3BPDz >= VXiS3JU)
 int k = 9;
 do
 {
-C235 = E2r4(-12582800);
+C235 = E2r4((char)-12582800);
 --k;
 }
 while (k >= 0);
@@ -81,7 +81,7 @@ while (j >= 0)
 int k = 0;
 while (k < 1)
 {
-dt9LwqXO = LSX2Mk(dt9LwqXO, U2I9M6X292, 405905274, -2049664866, -262034814);
+dt9LwqXO = LSX2Mk(dt9LwqXO, U2I9M6X292, 405905274, (unsigned char)-2049664866, -262034814);
 k++;
 }
 }
@@ -118,7 +118,7 @@ j++;
 }
 }
 
-std::cout << "XH82mmSi" << E2r4(-2143242785) << std::endl;
+std::cout << "XH82mmSi" << E2r4((char)-2143242785) << std::endl;
 if ((1468126910 / DCN525P78M) <= -953115629)
 {
 i6Uxsl0VA = E2r4((char)-264443641);
@@ -159,7 +159,7 @@ else if (Oy88lY)
 {
 for (int k = 0; k < 3; ++k)
 {
-Mt7B = LSX2Mk(1603210377, 704072649, 1358527320, 1455919985, k9F6J);
+Mt7B = LSX2Mk(1603210377, 704072649, 1358527320, (unsigned char)1455919985, k9F6J);
 }
 }
 else
@@ -174,7 +174,7 @@ try
 {
 for (int k = 0; k < 4; k++)
 {
-wv9893e = E2r4(1128294812);
+wv9893e = E2r4((char)1128294812);
 }
 }
 catch (int& errorCode)
@@ -193,7 +193,7 @@ case 'a':
 XpN7K48L46 = (int)abs(cuNYQ);
 break;
 case 'b':
-cT8DFSdY = c535dXqDB(446501977, zj24_4I1E, fO8zhQPeom);
+cT8DFSdY = c535dXqDB((char)446501977, zj24_4I1E, fO8zhQPeom);
 break;
 case 'c':
 Au3BPDz = c535dXqDB((char)1385582035, -1131084973, 2092179765);
@@ -214,7 +214,7 @@ case 'h':
 DCN525P78M = E90b2();
 break;
 case 'i':
-doy2paqwC = LSX2Mk(doy2paqwC, U2I9M6X292, c_Jfng1, 410195001, -435980057);
+doy2paqwC = LSX2Mk(doy2paqwC, U2I9M6X292, c_Jfng1, (unsigned char)410195001, -435980057);
 break;
 default:
 vN8j0 = E2r4((char)1069577621);
@@ -249,7 +249,7 @@ if (M9h2PYhR <= SmCt)
 switch (b6iph02_j7)
 {
 case 'a':
-o6u6 = LSX2Mk(o6u6, ncqN, rv_XkhoDYk, -1857914176, hg30820);
+o6u6 = LSX2Mk(o6u6, ncqN, rv_XkhoDYk, (unsigned char)-1857914176, hg30820);
 break;
 default:
 OnV52O = bcjdbrj0 - rwuz;
@@ -274,7 +274,7 @@ yfNq7Kl9 -= m_2Q5xH_dE;
 break;
 case 'c':
 case 'C':
-rVzTP2k23N = E2r4(1879206329);
+rVzTP2k23N = E2r4((char)1879206329);
 break;
 case 'd':
 case 'D':
@@ -316,7 +316,7 @@ while (k >= 0);
 }
 }
 
-std::cout << C235 << E90b2() << "lndk" << E2r4(715339330) << H07fjgR << std::endl;
+std::cout << C235 << E90b2() << "lndk" << E2r4((char)715339330) << H07fjgR << std::endl;
 try
 {
 std::cout << "mfv7VJ" << std::endl;
@@ -333,7 +333,7 @@ switch (Yl53)
 {
 case 'a':
 case 'A':
-g9oE = E2r4(-1184676442);
+g9oE = E2r4((char)-1184676442);
 break;
 case 'b':
 case 'B':
@@ -345,7 +345,7 @@ dt9LwqXO <<= OnV52O;
 break;
 case 'd':
 case 'D':
-rwuz = c535dXqDB(408682126, FI7c0Q5f, -901081156);
+rwuz = c535dXqDB((char)408682126, FI7c0Q5f, -901081156);
 break;
 case 'e':
 case 'E':
@@ -412,7 +412,7 @@ unsigned int E2r4(char P1Na2P9K6) {
 }
 
 unsigned short int LSX2Mk(unsigned int veyGzV,unsigned long long M4LnE9Db,unsigned int FtYxyv9MV9,unsigned char yBWZnd__d,int F44OHnI8J2) {
- return 1786184037;
+ return (unsigned short)1786184037;
 }
 
 unsigned int c535dXqDB(char Bt9Udc6iFr,unsigned int Y_7p4M_2,unsigned long qGGtz)

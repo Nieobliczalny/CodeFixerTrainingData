@@ -16,7 +16,7 @@ long long h4m_j1(unsigned long yrdK,short int Vww5kr2x)
 }
 
 short int  OlC_fj(unsigned long  XB1_r,int  V7_1,char  bgdT97,int  fER311T0A,long long  dq43X5Z_)  {
-  return  666500403;
+  return  (short)666500403;
 }
 
 int main()
@@ -39,7 +39,7 @@ if ((rg0AEE == -1449898904) && (IJ_1o_ != 462357553))
 {
 try
 {
-QI5EAY = OlC_fj(QI5EAY, h16wJ, 1035118443, -727295033, S7_jOa1M);
+QI5EAY = OlC_fj(QI5EAY, h16wJ, (char)1035118443, -727295033, S7_jOa1M);
 }
 catch (int& errorCode)
 {
@@ -71,7 +71,7 @@ if (lWdXy > 1235294708)
 {
 for (int k = 3; k >= 0; k--)
 {
-j27CpddGBk = (RknO > 1333414298) ? 2115413310 : yqbA;
+j27CpddGBk = (RknO > 1333414298) ? (unsigned short)2115413310 : yqbA;
 }
 }
 else
@@ -106,7 +106,7 @@ case 0:
 Qq00IW = (int)abs(h16wJ);
 break;
 case 1:
-h16wJ = h4m_j1(-329564149, -1511311905);
+h16wJ = h4m_j1(-329564149, (short)-1511311905);
 break;
 case 2:
 IJ_1o_ = h4m_j1(1663421818, IJ_1o_);
@@ -136,7 +136,7 @@ A96sk7B = OlC_fj(170412683, 1725388132, uYT833, Dy42ti, -661573396) + c4yKS;
 
 NV1f3 = (unsigned short)(Qq00IW + (KM30n5Y));
 
-cout << h4m_j1(345158, -861583345) << "g2CevBD6" << OlC_fj(wwu764z2, yqbA, (char)-332810386, 1492553974, -2038213093) << a_HG << endl;
+cout << h4m_j1(345158, (short)-861583345) << "g2CevBD6" << OlC_fj(wwu764z2, yqbA, (char)-332810386, 1492553974, -2038213093) << a_HG << endl;
 lWdXy = OlC_fj(832427614, -6606943, 1304113407, e25vfde1PX, j27CpddGBk);
 
 cout << a_HG << OlC_fj(-753798610, yqbA, 2006184747, e25vfde1PX, j27CpddGBk) << j27CpddGBk << OlC_fj(1205754280, -309732010, H170, -1599266294, 2084410050) << endl;
@@ -150,7 +150,7 @@ if ((IJ_1o_ == -1731446456) || (bjc59y61 == KM30n5Y))
 {
 if (h16wJ <= -921880236)
 {
-wwu764z2 = OlC_fj(wwu764z2, Qq00IW, -2055445913, 939590844, 1662670152);
+wwu764z2 = OlC_fj(wwu764z2, Qq00IW, (char)-2055445913, 939590844, 1662670152);
 }
 else if (((yqbA & 1759186530) || (j27CpddGBk)) || (QI5EAY < kBzrITeW))
 {
@@ -162,7 +162,7 @@ bjc59y61 &= 1305884634;
 }
 else
 {
-IJ_1o_ = h4m_j1(850525095, -2041154768);
+IJ_1o_ = h4m_j1(850525095, (short)-2041154768);
 }
 }
 else

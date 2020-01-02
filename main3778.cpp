@@ -13,7 +13,7 @@
 
 
 short int HPao0gNxF(unsigned long vMy48n_,long Tf1E1LVE,unsigned int CB9ncZV4,unsigned int bRIxVY) {
- return -816579560;
+ return (short)-816579560;
 }
 
 char	HUQ4pjY8V(int	xUA9,long	P29_A0T,unsigned int	NSvh,int	lgjHE)
@@ -32,7 +32,7 @@ long    jW8d(unsigned char    jJ_C,unsigned short    eXUZ5_7G,unsigned long    a
 int main()
 {
     unsigned char    H13p;
-    H13p    =    -444164381;
+    H13p    =    (unsigned char)-444164381;
  long double v085642S;
  v085642S = 1664843625;
 	unsigned int	j1OuubjnS;
@@ -44,7 +44,7 @@ int main()
   long double  Nh_2;
   Nh_2  =  841326012;
     short    CLQK;
-    CLQK    =    -1036581415;
+    CLQK    =    (short)-1036581415;
  unsigned short l1zA5bEa5S;
  l1zA5bEa5S = (unsigned short)-1780623345;
     unsigned int    HWLU4;
@@ -67,7 +67,7 @@ switch (H13p)
 {
 case 'a':
 case 'A':
-U4pNBw2EG = iVl5c(1486384084, U4pNBw2EG);
+U4pNBw2EG = iVl5c((unsigned char)1486384084, U4pNBw2EG);
 break;
 case 'b':
 case 'B':
@@ -81,7 +81,7 @@ default:
 H13p = HPao0gNxF(H13p, Qv5Kyl, 1182994709, 171907453);
 break;
 }
-U4pNBw2EG = iVl5c(-613831401, rsyyCqK9);
+U4pNBw2EG = iVl5c((unsigned char)-613831401, rsyyCqK9);
 std::cout << j1OuubjnS << Nh_2 << HPao0gNxF(U4pNBw2EG, -701250893, j1OuubjnS, 330409432) << "lwI617" << CLQK << std::endl;
 
 for (int i = 0; i < 8; ++i)
@@ -108,7 +108,7 @@ case 'c':
 hMxU5SXcW7 += 1575134729;
 break;
 case 'd':
-CLQK = iVl5c(-89019012, H13p);
+CLQK = iVl5c((unsigned char)-89019012, H13p);
 break;
 case 'e':
 U4pNBw2EG = (int)ceil(v085642S);
@@ -150,7 +150,7 @@ CLQK *= 123192515;
 }
 else if (jp_sgVK <= HWLU4)
 {
-H13p = iVl5c(421841365, jp_sgVK);
+H13p = iVl5c((unsigned char)421841365, jp_sgVK);
 }
 else
 {
@@ -190,7 +190,7 @@ while (j < 2)
 j++;
 for (int k = 5; k >= 0; --k)
 {
-jp_sgVK = (Nh_2 == -500920943) ? -693614131 : v085642S;
+jp_sgVK = (Nh_2 == -500920943) ? (short)-693614131 : v085642S;
 }
 }
 }
@@ -215,7 +215,7 @@ v085642S = (long double)(Nh_2);
 }
 else if (l1zA5bEa5S & Qo4rF9yc)
 {
-std::cout << jW8d(428004836, H13p, hMxU5SXcW7) << std::endl;
+std::cout << jW8d((unsigned char)428004836, H13p, hMxU5SXcW7) << std::endl;
 }
 else
 {
@@ -236,7 +236,7 @@ v085642S = iVl5c(-683776120, U4pNBw2EG);
 }
 }
 
-std::cout << hMxU5SXcW7 << jW8d(-114618167, U4pNBw2EG, 1492785833) << Nh_2 << std::endl;
+std::cout << hMxU5SXcW7 << jW8d((unsigned char)-114618167, U4pNBw2EG, 1492785833) << Nh_2 << std::endl;
 
 if (HWLU4)
 {
@@ -278,7 +278,7 @@ else
 {
 jp_sgVK = EvC2s2Cx | CLQK;
 }
-jp_sgVK = hMxU5SXcW7 / jW8d(-878204431, (unsigned short)-1702757521, rsyyCqK9);
+jp_sgVK = hMxU5SXcW7 / jW8d((unsigned char)-878204431, (unsigned short)-1702757521, rsyyCqK9);
 
 {
 int i = 1;

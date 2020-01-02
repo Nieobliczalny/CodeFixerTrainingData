@@ -12,7 +12,7 @@
 
 short  gq7eEgBMO3(int  iK0AqaU)
 {
-  return  -1333971059;
+  return  (short)-1333971059;
 }
 
 short  aNBB3U0s3(unsigned short  z7oy6,unsigned short int  nAe_4GeY6i,short int  QGVMVu,char  Ny23uFt)
@@ -31,7 +31,7 @@ unsigned long long  wZpg6yT(char  Q4_Ii38k40,long long  s52GP,unsigned long long
 
 unsigned short	Mp2D925(unsigned short	NTMhK6voU)
 {
-	return	-1557337535;
+	return	(unsigned short)-1557337535;
 }
 
 int main(void) {
@@ -42,7 +42,7 @@ int main(void) {
 
 for (int i = 0; i < 8; ++i)
 {
-std::cout << wZpg6yT(Cm261G4s4w, 745298409, H6V0N4HVQ) << Mp2D925(1401606609) << std::endl;
+std::cout << wZpg6yT(Cm261G4s4w, 745298409, H6V0N4HVQ) << Mp2D925((unsigned short)1401606609) << std::endl;
 }
 
 {
@@ -60,7 +60,7 @@ ZCztsIj75i = wZpg6yT(ZCztsIj75i, -621082316, vXrVGUiK);
 }
 else
 {
-D5auK_mGP = wZpg6yT(-1924517619, xoOW3TWi, -1703498809);
+D5auK_mGP = wZpg6yT((char)-1924517619, xoOW3TWi, -1703498809);
 }
 }
 }
@@ -73,7 +73,7 @@ try
 {
 if (O7k62gwH)
 {
-qY_j2zur8m = aNBB3U0s3(1898292540, qY_j2zur8m, (short)-935571929, u5QS);
+qY_j2zur8m = aNBB3U0s3((unsigned short)1898292540, qY_j2zur8m, (short)-935571929, u5QS);
 }
 else
 {
@@ -102,7 +102,7 @@ vXrVGUiK = (unsigned long)(tI5jBYO);
 i--;
 }
 }
-std::cout << aNBB3U0s3(-1798075481, TNZk5h1, Q679yx6WK4, PJ1Tj65Sbe) << "e5aOn8" << FfQitUSzOZ << y_2LbE97 << "P1glVA" << std::endl;
+std::cout << aNBB3U0s3((unsigned short)-1798075481, TNZk5h1, Q679yx6WK4, PJ1Tj65Sbe) << "e5aOn8" << FfQitUSzOZ << y_2LbE97 << "P1glVA" << std::endl;
 
 Q679yx6WK4 = gq7eEgBMO3(Q679yx6WK4);
 
@@ -123,7 +123,7 @@ for (int i = 7; i >= 0; i--)
 m4dfyfwh1 = (int)abs(HqnT2E0yNp);
 }
 
-xW30JW = Mp2D925(-1135517912);
+xW30JW = Mp2D925((unsigned short)-1135517912);
 epl9fi = (unsigned long)(tI5jBYO);
 gx4_8xSY_Y = (unsigned long)(tI5jBYO);
 if ((xoOW3TWi >= xmaeYc2l) || (HqnT2E0yNp != tI5jBYO))
@@ -157,7 +157,7 @@ else if ((re3c <= xmaeYc2l) && (D5auK_mGP <= 515012696))
 int k = 1;
 do
 {
-ktIu8_sN = aNBB3U0s3(-732127549, (unsigned short)-2055385927, x18i6rr6_, -1122868463) ^ NUAl0;
+ktIu8_sN = aNBB3U0s3((unsigned short)-732127549, (unsigned short)-2055385927, x18i6rr6_, -1122868463) ^ NUAl0;
 k--;
 }
 while (k >= 0);
@@ -180,7 +180,7 @@ PJ1Tj65Sbe = gq7eEgBMO3(-944614057);
 }
 else
 {
-std::cout << aNBB3U0s3(PJ1Tj65Sbe, Cm261G4s4w, 1664445293, (char)-624968394) << wZpg6yT(-1072969790, Cm261G4s4w, jnYW) << "o8p5OWILF" << "h_2I7j8Y" << std::endl;
+std::cout << aNBB3U0s3(PJ1Tj65Sbe, Cm261G4s4w, (short)1664445293, (char)-624968394) << wZpg6yT(-1072969790, Cm261G4s4w, jnYW) << "o8p5OWILF" << "h_2I7j8Y" << std::endl;
 }
 }
 if ((Jwpy > 1988397936) || (V654 != tI5jBYO))
@@ -190,7 +190,7 @@ if (Ls_inK1cu == -88959415)
 switch (ZCztsIj75i)
 {
 case 'a':
-w4AZEA5_6X = Mp2D925(1258757797);
+w4AZEA5_6X = Mp2D925((unsigned short)1258757797);
 break;
 case 'b':
 ce19_jF = wZpg6yT((char)-1127483642, 2033129800, -712448537);
@@ -202,7 +202,7 @@ case 'd':
 TNZk5h1 = Cm261G4s4w + 1511399554;
 break;
 case 'e':
-VC1Gb8Ou = aNBB3U0s3(728785683, D5auK_mGP, 1960104943, -1085693173);
+VC1Gb8Ou = aNBB3U0s3((unsigned short)728785683, D5auK_mGP, 1960104943, -1085693173);
 break;
 case 'f':
 m4dfyfwh1 = aNBB3U0s3(epl9fi, (unsigned short)-183700890, -1945049169, O7k62gwH);
@@ -246,7 +246,7 @@ catch (int& errorCode)
 {
 HqnT2E0yNp = aNBB3U0s3(2063570190, -64598087, -1095058591, FfQitUSzOZ);
 }
-qY_j2zur8m = aNBB3U0s3(-1558092474, Lr1HLySN, (short)-974185093, 1469234276);
+qY_j2zur8m = aNBB3U0s3((unsigned short)-1558092474, Lr1HLySN, (short)-974185093, 1469234276);
 
 ispio2 = FfQitUSzOZ / aNBB3U0s3(661952688, 1720328418, Jwpy, xoOW3TWi);
 for (int i = 4; i >= 0; --i)
@@ -262,7 +262,7 @@ case 1:
 VC1Gb8Ou = (int)abs(qY_j2zur8m);
 break;
 case 2:
-qokh = Mp2D925(-1964336478) % vXrVGUiK;
+qokh = Mp2D925((unsigned short)-1964336478) % vXrVGUiK;
 break;
 case 3:
 Lr1HLySN /= 429321492;
@@ -312,7 +312,7 @@ while (i < 9);
 int i = 1;
 do
 {
-std::cout << c2_A(1223908327) << "Bbr_" << aNBB3U0s3(qokh, (unsigned short)-1455423371, Jwpy, -1235089511) << std::endl;
+std::cout << c2_A((unsigned char)1223908327) << "Bbr_" << aNBB3U0s3(qokh, (unsigned short)-1455423371, Jwpy, -1235089511) << std::endl;
 i--;
 }
 while (i >= 0);

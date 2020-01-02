@@ -25,7 +25,7 @@ int main(int argc, char** argv)
 p8Tcit = Vhp12g5();
 for (int i = 0; i < 6; ++i)
 {
-ABqn1 = nfhNTqtO(1525427584, 1219466218);
+ABqn1 = nfhNTqtO(1525427584, (unsigned short)1219466218);
 }
 for (int i = 0; i < 10; i++)
 {
@@ -37,7 +37,7 @@ if (vGA_A7306_ < hOwgF)
 {
 if (zMjiWrR <= hOwgF)
 {
-Fl7p80_ = nfhNTqtO(Fl7p80_, 399603360);
+Fl7p80_ = nfhNTqtO(Fl7p80_, (unsigned short)399603360);
 }
 else
 {
@@ -62,7 +62,7 @@ case 2:
 ewh5g = tO1a_ | 761089174;
 break;
 case 3:
-UGeba = nfhNTqtO(34208923, 281254586);
+UGeba = nfhNTqtO(34208923, (unsigned short)281254586);
 break;
 case 4:
 wM6934g6 = (wM6934g6 & 770409241) ? hAC8 : OK_151yop;
@@ -116,7 +116,7 @@ for (int i = 3; i >= 0; --i)
 {
 if (((XT84P2 <= ewh5g) || (wM6934g6 != p7Kl)) || (vbrv22s2))
 {
-ABqn1 = nfhNTqtO(856607523, 239098446);
+ABqn1 = nfhNTqtO(856607523, (unsigned short)239098446);
 }
 else if (vbrv22s2 < df5_i2I)
 {
@@ -207,7 +207,7 @@ tO1a_ = Cj7E4UpM | 1987319918;
 break;
 case 'b':
 case 'B':
-lU5GwL = nfhNTqtO(lU5GwL, 1773033622);
+lU5GwL = nfhNTqtO(lU5GwL, (unsigned short)1773033622);
 break;
 case 'c':
 case 'C':
@@ -317,7 +317,7 @@ unsigned long    e3wF()    {
 }
 
 unsigned short    nfhNTqtO(long    X6G8O7PKg,unsigned short int    lY2xXl9)    {
-    return    -1073732910;
+    return    (unsigned short)-1073732910;
 }
 
 unsigned long  Vhp12g5()

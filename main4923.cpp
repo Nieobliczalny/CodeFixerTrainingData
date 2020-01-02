@@ -16,7 +16,7 @@ using namespace std;
 int main()
 {
 	short int	xxD7jVbNZ;
-	xxD7jVbNZ	=	-529414081;
+	xxD7jVbNZ	=	(short)-529414081;
     short    cGp6HY10ge;
     cGp6HY10ge    =    0;
   char  W1o_QJ0;
@@ -26,7 +26,7 @@ int main()
     long double    XoY5a228;
     XoY5a228    =    -523537190;
  unsigned char qcAFKd7T1C;
- qcAFKd7T1C = 1507397874;
+ qcAFKd7T1C = (unsigned char)1507397874;
  unsigned int Pg7_ISsV7s;
  Pg7_ISsV7s = -95210565;
 	long long	EWK6_T36o;

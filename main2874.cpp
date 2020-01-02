@@ -29,7 +29,7 @@ int main(void)
 	float	UW3LpEK1b0;
 	UW3LpEK1b0	=	-1555340448;
  unsigned short a2j7ui;
- a2j7ui = -1455128095;
+ a2j7ui = (unsigned short)-1455128095;
  int Ai3Sn;
  Ai3Sn = 0;
 
@@ -113,7 +113,7 @@ j_aE = (int)abs(d5vBr7) * 0;
 }
 else
 {
-dp3jB2u = IpUrzK9(1435007152);
+dp3jB2u = IpUrzK9((unsigned short)1435007152);
 }
 }
 }
@@ -151,7 +151,7 @@ N8r304b2 = IpUrzK9(N8r304b2);
 break;
 case 'f':
 case 'F':
-dp3jB2u = IpUrzK9(-631420714);
+dp3jB2u = IpUrzK9((unsigned short)-631420714);
 break;
 case 'g':
 case 'G':
@@ -264,7 +264,7 @@ case 1:
 Ai3Sn = (int)abs(d5vBr7) * 0;
 break;
 case 2:
-Ai3Sn = IpUrzK9(2142905342);
+Ai3Sn = IpUrzK9((unsigned short)2142905342);
 break;
 case 3:
 d5vBr7 = (int)abs(j_aE) + (-1196958980);
@@ -276,7 +276,7 @@ case 5:
 UW3LpEK1b0 = UW3LpEK1b0 + 519110443;
 break;
 default:
-j_aE = IpUrzK9(1588140712);
+j_aE = IpUrzK9((unsigned short)1588140712);
 break;
 }
 switch (j_aE)
@@ -291,7 +291,7 @@ case 2:
 d5vBr7 = d5vBr7 & 688412502;
 break;
 case 3:
-N8r304b2 = IpUrzK9(1458585359);
+N8r304b2 = IpUrzK9((unsigned short)1458585359);
 break;
 case 4:
 d5vBr7 = Ai3Sn + L1Lu552I;
@@ -312,7 +312,7 @@ case 0:
 dp3jB2u = IpUrzK9(dp3jB2u);
 break;
 case 1:
-Ai3Sn = IpUrzK9(-1735525304);
+Ai3Sn = IpUrzK9((unsigned short)-1735525304);
 break;
 case 2:
 j_aE = IpUrzK9(j_aE);
@@ -354,7 +354,7 @@ catch (int& errorCode)
 {
 d5vBr7 = d5vBr7 - j_aE;
 }
-std::cout << IpUrzK9(-2009784039) << j_aE << L1Lu552I << N8r304b2 << std::endl;
+std::cout << IpUrzK9((unsigned short)-2009784039) << j_aE << L1Lu552I << N8r304b2 << std::endl;
 
 switch (N8r304b2)
 {
@@ -365,7 +365,7 @@ case 1:
 dp3jB2u = IpUrzK9(-697828698);
 break;
 case 2:
-dp3jB2u = IpUrzK9(-83647745);
+dp3jB2u = IpUrzK9((unsigned short)-83647745);
 break;
 case 3:
 N8r304b2 = IpUrzK9(1661581981);

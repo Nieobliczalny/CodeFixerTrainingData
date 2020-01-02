@@ -14,7 +14,7 @@ using std::floor;
 
 int main(int argc, char** argv) {
 	short int	a2fglPh6dH;
-	a2fglPh6dH	=	1806490943;
+	a2fglPh6dH	=	(short)1806490943;
   int  fvf46;
   fvf46  =  -1510010518;
  short n3ar58;
@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
     unsigned long long    O5s60co_;
     O5s60co_    =    750383788;
  unsigned short int cmwKY91joQ;
- cmwKY91joQ = 1189580785;
+ cmwKY91joQ = (unsigned short)1189580785;
     unsigned long long    CgNF1;
     CgNF1    =    909170016;
 	unsigned short int	OnCIA;
@@ -46,7 +46,7 @@ int main(int argc, char** argv) {
     double    o4u9;
     o4u9    =    716309761;
   unsigned char  O_NkA_4Yk8;
-  O_NkA_4Yk8  =  -1274915879;
+  O_NkA_4Yk8  =  (unsigned char)-1274915879;
 	short int	Q5n_X_8;
 	Q5n_X_8	=	(short)-413783726;
     long long    G_29;
@@ -58,7 +58,7 @@ int main(int argc, char** argv) {
     unsigned int    KsCIB6;
     KsCIB6    =    963807734;
   short int  z0152cu;
-  z0152cu  =  -1206209870;
+  z0152cu  =  (short)-1206209870;
   long  a_nZ3;
   a_nZ3  =  2015590922;
     short    MF70;
@@ -78,7 +78,7 @@ int main(int argc, char** argv) {
 	unsigned int	cz_Ml;
 	cz_Ml	=	-1565602714;
   unsigned short int  xRFJ5PaU;
-  xRFJ5PaU  =  118334173;
+  xRFJ5PaU  =  (unsigned short)118334173;
   unsigned short  hw33D6;
   hw33D6  =  (unsigned short)-806954828;
   long long  DyaZUzKc5_;
@@ -90,7 +90,7 @@ int main(int argc, char** argv) {
 	int	qhv5;
 	qhv5	=	0;
   unsigned short  J2ff__;
-  J2ff__  =  -1510831696;
+  J2ff__  =  (unsigned short)-1510831696;
 	unsigned int	g6UrhX37;
 	g6UrhX37	=	241250170;
 	short int	E_lq2X_h31;
@@ -100,7 +100,7 @@ int main(int argc, char** argv) {
 	long double	tdz1tO9_;
 	tdz1tO9_	=	1370894528;
   unsigned char  GgxdstD;
-  GgxdstD  =  1902981285;
+  GgxdstD  =  (unsigned char)1902981285;
 	long	y__ic3t;
 	y__ic3t	=	747135187;
 	unsigned long	kD4i8Fl;

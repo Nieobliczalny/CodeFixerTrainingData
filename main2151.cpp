@@ -22,7 +22,7 @@ int main(void)
 switch (N82FPD)
 {
 case 0:
-vPpp7kex_2 = je_k0_h(vPpp7kex_2, -744882526, XNY2byU8);
+vPpp7kex_2 = je_k0_h(vPpp7kex_2, (unsigned short)-744882526, XNY2byU8);
 break;
 }
 if ((N82FPD <= -1086761494) && (N82FPD >= wrF0Rsuvh7))
@@ -52,7 +52,7 @@ case 5:
 HQSo15 = Xd_i();
 break;
 case 6:
-XNY2byU8 = je_k0_h(XNY2byU8, -534380466, N82FPD);
+XNY2byU8 = je_k0_h(XNY2byU8, (unsigned short)-534380466, N82FPD);
 break;
 case 7:
 XNY2byU8 = F70WXkf();
@@ -128,7 +128,7 @@ case 'C':
 wrF0Rsuvh7 = vPpp7kex_2 >> 161538445;
 break;
 default:
-wrF0Rsuvh7 = je_k0_h(wrF0Rsuvh7, -1334515441, XNY2byU8);
+wrF0Rsuvh7 = je_k0_h(wrF0Rsuvh7, (unsigned short)-1334515441, XNY2byU8);
 break;
 }
 }
@@ -161,7 +161,7 @@ k++;
 switch (HQSo15)
 {
 case 'a':
-wrF0Rsuvh7 = je_k0_h(-1708546586, -1730124625, HQSo15);
+wrF0Rsuvh7 = je_k0_h(-1708546586, (unsigned short)-1730124625, HQSo15);
 break;
 case 'b':
 N82FPD = F70WXkf();
@@ -187,7 +187,7 @@ if (((vPpp7kex_2 > 1341632872) && (HQSo15 & -1704225867)) || ((N82FPD) || (N82FP
 {
 if ((wrF0Rsuvh7 == -51431431) && ((N82FPD < vPpp7kex_2) || (XNY2byU8 > 467280865)))
 {
-wrF0Rsuvh7 = je_k0_h(wrF0Rsuvh7, 1284614970, 96352210);
+wrF0Rsuvh7 = je_k0_h(wrF0Rsuvh7, (unsigned short)1284614970, 96352210);
 }
 else if (HQSo15 > 838259288)
 {
@@ -238,7 +238,7 @@ wrF0Rsuvh7 = N82FPD % XNY2byU8;
 }
 else
 {
-XNY2byU8 = je_k0_h(XNY2byU8, -1160465075, N82FPD);
+XNY2byU8 = je_k0_h(XNY2byU8, (unsigned short)-1160465075, N82FPD);
 }
 }
 else if (N82FPD & 281208859)
@@ -253,7 +253,7 @@ XNY2byU8 = je_k0_h(XNY2byU8, wrF0Rsuvh7, HQSo15);
 }
 else if (((HQSo15 != wrF0Rsuvh7) && (wrF0Rsuvh7 != 1307655017)) && ((XNY2byU8 & 410140203) && (vPpp7kex_2 > -1915606881)))
 {
-XNY2byU8 = je_k0_h(HQSo15, 615589777, 1311654524);
+XNY2byU8 = je_k0_h(HQSo15, (unsigned short)615589777, 1311654524);
 }
 else if (XNY2byU8 != -931320531)
 {
@@ -353,7 +353,7 @@ HQSo15 = Xd_i();
 }
 else if (HQSo15 < -663948615)
 {
-vPpp7kex_2 = je_k0_h(vPpp7kex_2, -51166007, -1132859856);
+vPpp7kex_2 = je_k0_h(vPpp7kex_2, (unsigned short)-51166007, -1132859856);
 }
 else
 {
@@ -442,7 +442,7 @@ HQSo15 = Xd_i();
 }
 else
 {
-vPpp7kex_2 = (N82FPD == HQSo15) ? -367826684 : je_k0_h(HQSo15, 1153204281, -1705835850);
+vPpp7kex_2 = (N82FPD == HQSo15) ? -367826684 : je_k0_h(HQSo15, (unsigned short)1153204281, -1705835850);
 }
 }
 }
@@ -488,7 +488,7 @@ return 0;
 }
 
 short int	je_k0_h(unsigned int	zoYE6i,unsigned short	ta18qj6B,long	fpJx)	{
-	return	750398520;
+	return	(short)750398520;
 }
 
 unsigned char F70WXkf()

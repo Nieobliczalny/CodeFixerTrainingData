@@ -35,7 +35,7 @@ unsigned int  v429(unsigned short int  aTI27,char  j5Hy9,unsigned long  p_f4Xn14
 
 int main(int argc, char** argv)
 {
-	short	f58vW3	=	1856297143,	Sx7jcrT	=	(short)1483454213,	v83z	=	1977445650,	i056Q_	=	-889347118,	l6f_0_3Zm	=	605886299;
+	short	f58vW3	=	(short)1856297143,	Sx7jcrT	=	(short)1483454213,	v83z	=	1977445650,	i056Q_	=	-889347118,	l6f_0_3Zm	=	605886299;
  unsigned long long x2u58NAr = 0, jrd2lzQ = 0, M1qBiq = 0, k2sNe_ = 0;
 
 if (CB893cpmF() == 0)
@@ -61,7 +61,7 @@ while (i >= 0);
 
 if ((k2sNe_ >= 30672546) || (x2u58NAr & jVgj))
 {
-cout << k2sNe_ << "J9Q1TAMRt" << s3i4R2(-1937370854, 1163450841, 447442350, 1934455363, v83z) << k2sNe_ << endl;
+cout << k2sNe_ << "J9Q1TAMRt" << s3i4R2((unsigned short)-1937370854, 1163450841, 447442350, 1934455363, v83z) << k2sNe_ << endl;
 }
 else if (Sx7jcrT != k2sNe_)
 {

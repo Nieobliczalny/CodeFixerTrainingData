@@ -17,7 +17,7 @@ int main(void)
 {
  unsigned long long t5hCdZ1 = 0;
  unsigned int Q4_C39G7k = -983466318;
- unsigned short P_9c4c2WD1 = 2135315144;
+ unsigned short P_9c4c2WD1 = (unsigned short)2135315144;
 	unsigned long	s_46540	=	-1870268269;
   float  qB20  =  -452097098;
   unsigned short  Djs5v  =  (unsigned short)-2082207072;
@@ -27,7 +27,7 @@ int main(void)
   unsigned char  TOmB  =  -1959262969;
 	short int	Ijc_89p	=	-827376084;
     short    Tj30C4m9I    =    0;
-  short  T49R868H  =  2131056636;
+  short  T49R868H  =  (short)2131056636;
   unsigned char  I6YN0  =  -170217429;
 	short	A280N1Vt	=	-1463720683;
  short pzNJI = 0;
@@ -46,7 +46,7 @@ case 1:
 t5hCdZ1 = FbA79(Ijc_89p);
 break;
 case 2:
-zIjK07d = FbA79(-220955298);
+zIjK07d = FbA79((unsigned short)-220955298);
 break;
 case 3:
 Tj30C4m9I = FbA79(TOmB);
@@ -74,7 +74,7 @@ i--;
 while (i >= 0);
 }
 
-pzNJI = FbA79(-1234178841);
+pzNJI = FbA79((unsigned short)-1234178841);
 
 Djs5v = (unsigned short)(qJP0yuvT_U);
 
@@ -88,7 +88,7 @@ for (int j = 2; j >= 0; --j)
 {
 try
 {
-Tj30C4m9I = FbA79(1200304579);
+Tj30C4m9I = FbA79((unsigned short)1200304579);
 }
 catch (int& errorCode)
 {
@@ -103,7 +103,7 @@ int i = 0;
 while (i < 2)
 {
 i++;
-Tj30C4m9I = FbA79(-1846377112);
+Tj30C4m9I = FbA79((unsigned short)-1846377112);
 }
 }
 
@@ -122,7 +122,7 @@ break;
 zvtL3gN = (float)(P_9c4c2WD1);
 std::cout << A280N1Vt << "I0CkW" << FbA79(v6Z2N9d9S) << "g0O4" << std::endl;
 
-Tj30C4m9I = FbA79(994172824);
+Tj30C4m9I = FbA79((unsigned short)994172824);
 switch (I6YN0)
 {
 case 'a':
@@ -150,7 +150,7 @@ while (j >= 0)
 {
 if (Sd7z9v < I6YN0)
 {
-zIjK07d = FbA79(590224916);
+zIjK07d = FbA79((unsigned short)590224916);
 }
 j--;
 }
@@ -166,7 +166,7 @@ while (i >= 0)
 {
 try
 {
-std::cout << T49R868H << "S7b0b9" << FbA79(-1217730263) << std::endl;
+std::cout << T49R868H << "S7b0b9" << FbA79((unsigned short)-1217730263) << std::endl;
 }
 catch (int& errorCode)
 {
@@ -179,7 +179,7 @@ zIjK07d = FbA79(zIjK07d);
 
 if (TOmB > A280N1Vt)
 {
-t5hCdZ1 = FbA79(1507750331);
+t5hCdZ1 = FbA79((unsigned short)1507750331);
 }
 {
 int i = 0;
@@ -222,7 +222,7 @@ zvtL3gN = (int)floor(qB20);
 break;
 case 'e':
 case 'E':
-t5hCdZ1 = FbA79(-269721820);
+t5hCdZ1 = FbA79((unsigned short)-269721820);
 break;
 case 'f':
 case 'F':
@@ -234,7 +234,7 @@ break;
 }
 if (TOmB == -819198276)
 {
-std::cout << GG8O56W << FbA79(t5hCdZ1) << FbA79(786926852) << "SeUt" << std::endl;
+std::cout << GG8O56W << FbA79(t5hCdZ1) << FbA79((unsigned short)786926852) << "SeUt" << std::endl;
 }
 else if (Q4_C39G7k == qJP0yuvT_U)
 {
@@ -268,7 +268,7 @@ else if (TOmB <= 404981701)
 int j = 0;
 do
 {
-std::cout << FbA79(t5hCdZ1) << FbA79(-63954388) << Tj30C4m9I << std::endl;
+std::cout << FbA79(t5hCdZ1) << FbA79((unsigned short)-63954388) << Tj30C4m9I << std::endl;
 j++;
 }
 while (j < 2);
@@ -279,7 +279,7 @@ else
 switch (t5hCdZ1)
 {
 case 0:
-pzNJI = FbA79(-1834337724);
+pzNJI = FbA79((unsigned short)-1834337724);
 break;
 case 1:
 GG8O56W--;

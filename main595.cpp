@@ -15,7 +15,7 @@ long	x7pbX3c7vF()
 
 int main(int argc, char** argv) {
  unsigned short yH52KW_0;
- yH52KW_0 = 164591956;
+ yH52KW_0 = (unsigned short)164591956;
  short fZyVj0o_;
  fZyVj0o_ = (short)-575593215;
     unsigned int    xW84KHL3;
@@ -25,7 +25,7 @@ int main(int argc, char** argv) {
   unsigned short  M8Cy6;
   M8Cy6  =  -1875521992;
   unsigned short int  c446D9A;
-  c446D9A  =  1481610364;
+  c446D9A  =  (unsigned short)1481610364;
   char  cJazy;
   cJazy  =  (char)-588592052;
  double eRSB;
@@ -39,7 +39,7 @@ int main(int argc, char** argv) {
  long double d1x_;
  d1x_ = 1788314855;
     unsigned short int    NaMb;
-    NaMb    =    -1598812500;
+    NaMb    =    (unsigned short)-1598812500;
 	long	I93c;
 	I93c	=	-380438374;
     char    HH9D;
@@ -49,7 +49,7 @@ int main(int argc, char** argv) {
     unsigned short    aCx9S04lt;
     aCx9S04lt    =    (unsigned short)1113381014;
   short  Ap3es3;
-  Ap3es3  =  -586643412;
+  Ap3es3  =  (short)-586643412;
   int  q4p1tQO;
   q4p1tQO  =  611641670;
  unsigned long Fn79y5wtY7;
@@ -59,7 +59,7 @@ int main(int argc, char** argv) {
 	unsigned char	Qd838;
 	Qd838	=	(unsigned char)-1956232667;
   char  QkmZ;
-  QkmZ  =  -1104579634;
+  QkmZ  =  (char)-1104579634;
 	unsigned short	Y66rI0idd;
 	Y66rI0idd	=	0;
   unsigned long long  ly_2Mn31;
@@ -337,7 +337,7 @@ switch (aCx9S04lt)
 {
 case 'a':
 case 'A':
-yH52KW_0 = (Qd838 & -1134003855) ? -1030237552 : q4p1tQO;
+yH52KW_0 = (Qd838 & -1134003855) ? (unsigned short)-1030237552 : q4p1tQO;
 break;
 case 'b':
 case 'B':

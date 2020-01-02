@@ -25,7 +25,7 @@ unsigned short int JzP5nnMy(long HEeS,unsigned char SXMdA_Jz);
 long long  By5chBuXs(short  p012xz_k,unsigned char  X05E86PIG);
 
 int main(int argc, char** argv) {
- short int ggj_1r7zv = -837607741;
+ short int ggj_1r7zv = (short)-837607741;
   unsigned long long  uOVGj485wC  =  -647412463;
 	char	A01gAF	=	(char)-466748723;
  unsigned short int j4l1P = 555674139;
@@ -37,7 +37,7 @@ int main(int argc, char** argv) {
   float  hTCZSx90  =  45746789;
   float  cs9DFB76_1  =  -1430294852;
 	float	hNtPT19q	=	-750947667;
-	short int	Y7anY	=	1034311488;
+	short int	Y7anY	=	(short)1034311488;
  char DWvr3aq = (char)-1954057977;
     char    B2c92M    =    1631904558;
  double q7vAP = 1554187994;
@@ -47,7 +47,7 @@ int main(int argc, char** argv) {
     long double    ddqxo68    =    -267802430;
     short    P5Fry_z5    =    0;
     short int    Jl5tWX4    =    1808405817;
-	unsigned short	XfO0	=	125059648;
+	unsigned short	XfO0	=	(unsigned short)125059648;
   long long  Ib_DgzGD  =  -1751881826;
     short    x393Pg_l1_    =    (short)53644948;
     double    vGON    =    867888382;
@@ -58,7 +58,7 @@ int main(int argc, char** argv) {
  long long qQPBp4T7 = -1843754252;
  unsigned int A4u6I_zG = -707442212;
 	float	b0ptc7j	=	-546559530;
-    short    Zxp76R    =    -1959948937;
+    short    Zxp76R    =    (short)-1959948937;
 	unsigned long long	QA_4__jze6	=	-2128981570;
 	long double	C2y7p1ug9	=	48879546;
 	unsigned short	B2_sQA	=	(unsigned short)1814228812;
@@ -83,7 +83,7 @@ case 'e':
 R01K = j4l1P * Zxp76R;
 break;
 case 'f':
-hNtPT19q = mi_832(hNtPT19q, 1395171045, 2111556309, b0ptc7j);
+hNtPT19q = mi_832(hNtPT19q, 1395171045, (unsigned short)2111556309, b0ptc7j);
 break;
 case 'g':
 hTCZSx90 = (int)ceil(vGON);
@@ -110,7 +110,7 @@ std::cout << vGON << mi_832(-834274397, -1261651491, KReh0, b0ptc7j) << Zxp76R <
 }
 else
 {
-Y7anY = mi_832(Y7anY, -1326230025, -635525859, XfO0);
+Y7anY = mi_832(Y7anY, -1326230025, (unsigned short)-635525859, XfO0);
 }
 }
 else
@@ -126,7 +126,7 @@ else
 {
 if (A4u6I_zG)
 {
-uOVGj485wC = By5chBuXs(uOVGj485wC, 1990442774);
+uOVGj485wC = By5chBuXs(uOVGj485wC, (unsigned char)1990442774);
 }
 else
 {
@@ -226,7 +226,7 @@ while (k < 5);
 }
 else if (((Vf012S <= 1337982804) && (j4l1P > P5Fry_z5)) && (hTCZSx90))
 {
-QA_4__jze6 = By5chBuXs(-2127625510, q7vAP);
+QA_4__jze6 = By5chBuXs((short)-2127625510, q7vAP);
 }
 else if ((b0ptc7j == 1500255266) && (cs9DFB76_1 >= -338670467))
 {
@@ -297,7 +297,7 @@ std::cout << By5chBuXs(P5Fry_z5, ddqxo68) << Bt9_4 << x393Pg_l1_ << mi_832(P5Fry
 
 if (vf92aZr != DWvr3aq)
 {
-std::cout << hmlm << JzP5nnMy(-1996152186, -1071588221) << "XOc7vAmH" << B04ZR9Q4_2 << std::endl;
+std::cout << hmlm << JzP5nnMy(-1996152186, (unsigned char)-1071588221) << "XOc7vAmH" << B04ZR9Q4_2 << std::endl;
 }
 else
 {
@@ -328,7 +328,7 @@ else
 {
 if ((cs9DFB76_1 > 259318916) && (A4u6I_zG >= wTyC23eTl))
 {
-Bt9_4 = By5chBuXs(-2063381368, B2_sQA);
+Bt9_4 = By5chBuXs((short)-2063381368, B2_sQA);
 }
 else
 {
@@ -343,7 +343,7 @@ if (DWvr3aq > Vf012S)
 switch (L_R8JoF9z)
 {
 case 'a':
-x393Pg_l1_ = OFo0d_uI(592771483, -1166989583, Jl5tWX4, (char)-571635117, -608833050);
+x393Pg_l1_ = OFo0d_uI(592771483, (unsigned char)-1166989583, Jl5tWX4, (char)-571635117, -608833050);
 break;
 case 'b':
 Ib_DgzGD = OFo0d_uI(96933516, qQPBp4T7, -1403475853, 1307304125, -1899508117);
@@ -403,7 +403,7 @@ else
 {
 if ((Zxp76R & Y7anY) || (vGON))
 {
-A01gAF = mi_832(587789508, 364335319, 1390473297, -1541962605);
+A01gAF = mi_832(587789508, 364335319, (unsigned short)1390473297, -1541962605);
 }
 else if (Y7anY)
 {
@@ -448,7 +448,7 @@ Zxp76R = (int)abs(A01gAF);
 }
 else
 {
-std::cout << mi_832(Ib_DgzGD, 1024188430, -581378871, vf92aZr) << "zjeI_3wJr" << std::endl;
+std::cout << mi_832(Ib_DgzGD, 1024188430, (unsigned short)-581378871, vf92aZr) << "zjeI_3wJr" << std::endl;
 }
 if (C28J3IW > 1077802477)
 {
@@ -471,7 +471,7 @@ return 0;
 }
 
 char	mi_832(unsigned long long	rBz1_nDQ,unsigned long	apk94NG_4,unsigned short	B_7kUMAmK3,int	NkdB_)	{
-	return	-1444105691;
+	return	(char)-1444105691;
 }
 
 unsigned char KaHQA6QDg(unsigned long long ZO0900NEq8)

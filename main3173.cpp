@@ -13,7 +13,7 @@ int main()
 	short	zzPZ0;
 	zzPZ0	=	0;
     unsigned short    qAIUpWQnhI;
-    qAIUpWQnhI    =    -645049237;
+    qAIUpWQnhI    =    (unsigned short)-645049237;
   long  Gfs_ys;
   Gfs_ys  =  307642487;
 	long long	Bim1_;
@@ -25,7 +25,7 @@ int main()
 	double	wuN2x_;
 	wuN2x_	=	1813380426;
   char  TZAZo_HG1;
-  TZAZo_HG1  =  530473400;
+  TZAZo_HG1  =  (char)530473400;
     unsigned short    yYE6zi_0;
     yYE6zi_0    =    -1885200996;
   long  OWZpoTT7I;
@@ -37,7 +37,7 @@ int main()
     int    Tr5MOHf;
     Tr5MOHf    =    951555184;
   unsigned short  jgRR3_4Bp;
-  jgRR3_4Bp  =  -755455354;
+  jgRR3_4Bp  =  (unsigned short)-755455354;
     unsigned long    C6J9HUJ;
     C6J9HUJ    =    511222252;
  double s943;
@@ -75,7 +75,7 @@ int main()
     long    uB0W40eL8;
     uB0W40eL8    =    788031263;
   short  rK4Y2_;
-  rK4Y2_  =  -352429602;
+  rK4Y2_  =  (short)-352429602;
   short  jyQS8INSR;
   jyQS8INSR  =  (short)-639142770;
   char  Nc5mGs_;
@@ -85,7 +85,7 @@ int main()
   float  y9TVdi;
   y9TVdi  =  535853933;
  short int vD4Vtyk;
- vD4Vtyk = -45351617;
+ vD4Vtyk = (short)-45351617;
   unsigned long long  u6_2_;
   u6_2_  =  -254176841;
   unsigned long  CbLRs0mA;
@@ -97,7 +97,7 @@ int main()
  unsigned long long tzCbqn2;
  tzCbqn2 = -1188258373;
  char k5785;
- k5785 = -1039212585;
+ k5785 = (char)-1039212585;
     int    W_kIwUNN;
     W_kIwUNN    =    -258075952;
     unsigned short    lNYh;
@@ -107,7 +107,7 @@ int main()
  unsigned int EW46mMAbdd;
  EW46mMAbdd = 1110783158;
 	unsigned short	Bm48ny59h3;
-	Bm48ny59h3	=	918411021;
+	Bm48ny59h3	=	(unsigned short)918411021;
     char    xzoN04YT;
     xzoN04YT    =    -1050044919;
   unsigned short  JgPCG9c;
@@ -117,7 +117,7 @@ int main()
  int LT04HTSGuu;
  LT04HTSGuu = 2038851659;
   unsigned char  kE8tzKh;
-  kE8tzKh  =  -103886625;
+  kE8tzKh  =  (unsigned char)-103886625;
   unsigned short  O7DA4J22;
   O7DA4J22  =  796842223;
 	short int	a7K0;
@@ -133,7 +133,7 @@ int main()
     long double    Ps720Vi5lB;
     Ps720Vi5lB    =    1908057555;
  unsigned short int vj3c6idU2;
- vj3c6idU2 = -1997367505;
+ vj3c6idU2 = (unsigned short)-1997367505;
 	long long	e71snv;
 	e71snv	=	-1854221034;
   unsigned long  q42S8Iv;

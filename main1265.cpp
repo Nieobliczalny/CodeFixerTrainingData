@@ -16,7 +16,7 @@ unsigned short  K81O(unsigned long  D8KJ_Ye)
 
 short int  ZT27Zg565L(unsigned char  P4QC,short int  l35M58crKd,long  qH4m0wTysi,long  qxsF4)
 {
-  return  330478161;
+  return  (short)330478161;
 }
 
 short    Z952N(unsigned long long    I90I24,char    JNhq)    {
@@ -31,7 +31,7 @@ int main(void)
 {
   unsigned short  of33  =  0;
  float D38dD85JR = -1313879958;
-  short  tbY_  =  -138031098;
+  short  tbY_  =  (short)-138031098;
 	unsigned short	j_dY8Av	=	0;
 	unsigned short	G_3r5Vg	=	(unsigned short)-582364512;
     long    b8H6s5ex1Y    =    -13750839;
@@ -70,7 +70,7 @@ case 'a':
 b8H6s5ex1Y = KlHM & 1677741703;
 break;
 case 'b':
-G_3r5Vg = Z952N(U_DI1, 712383401);
+G_3r5Vg = Z952N(U_DI1, (char)712383401);
 break;
 case 'c':
 tb_PH5 = tb_PH5 ^ b8H6s5ex1Y;
@@ -85,7 +85,7 @@ case 'f':
 D38dD85JR = D38dD85JR - 2028266590;
 break;
 case 'g':
-G_3r5Vg = Z952N(G_3r5Vg, -249744903);
+G_3r5Vg = Z952N(G_3r5Vg, (char)-249744903);
 break;
 case 'h':
 tb_PH5 /= D38dD85JR;
@@ -147,7 +147,7 @@ int k = 5;
 do
 {
 --k;
-tb_PH5 = ZT27Zg565L(1881325391, (short)1076142734, U_DI1, 2073952929);
+tb_PH5 = ZT27Zg565L((unsigned char)1881325391, (short)1076142734, U_DI1, 2073952929);
 }
 while (k >= 0);
 }
@@ -160,7 +160,7 @@ try
 {
 for (int k = 9; k >= 0; k--)
 {
-b8H6s5ex1Y = Z952N(-1077493066, 60989028);
+b8H6s5ex1Y = Z952N(-1077493066, (char)60989028);
 }
 }
 catch (int& errorCode)
@@ -225,7 +225,7 @@ do
 ++i;
 if ((tb_PH5 >= b8H6s5ex1Y) && (G_3r5Vg & U3A13f9))
 {
-std::cout << Z952N(1730806779, U_DI1) << ZT27Zg565L(-970901188, (short)133008145, -990908421, -361029423) << "dJ1ov3082" << Z952N(KlHM, U_DI1) << std::endl;
+std::cout << Z952N(1730806779, U_DI1) << ZT27Zg565L((unsigned char)-970901188, (short)133008145, -990908421, -361029423) << "dJ1ov3082" << Z952N(KlHM, U_DI1) << std::endl;
 }
 else
 {
@@ -291,7 +291,7 @@ int k = 6;
 do
 {
 k--;
-KlHM = ZT27Zg565L(nvLg, 219174665, -863994749, -363480618);
+KlHM = ZT27Zg565L(nvLg, (short)219174665, -863994749, -363480618);
 }
 while (k >= 0);
 }
@@ -340,7 +340,7 @@ D38dD85JR = Z952N(U_DI1, 990956137);
 }
 }
 
-std::cout << ZT27Zg565L(U_DI1, -1662042272, D38dD85JR, nvLg) << std::endl;
+std::cout << ZT27Zg565L(U_DI1, (short)-1662042272, D38dD85JR, nvLg) << std::endl;
 switch (U_DI1)
 {
 case 'a':
@@ -357,7 +357,7 @@ tb_PH5 = (int)abs(D38dD85JR);
 break;
 }
 
-std::cout << Z952N(885370824, 546794760) << "Dbw6LHF" << "xr_M_3yVdA" << std::endl;
+std::cout << Z952N(885370824, (char)546794760) << "Dbw6LHF" << "xr_M_3yVdA" << std::endl;
 return 0;
 }
 

@@ -13,7 +13,7 @@
 
 unsigned short int  o2I11F01uZ()
 {
-  return  -771740784;
+  return  (unsigned short)-771740784;
 }
 
 short int u66_B(long Kjh_,int k93a) {
@@ -26,7 +26,7 @@ int sYtQZd5(unsigned long long pYrs_qfD_4,unsigned short ddMVxhsN7)
 }
 
 char    oP8QBbP(long long    DX_6,unsigned short int    oD_L400Yw,short int    J5tgA23T)    {
-    return    -1992522775;
+    return    (char)-1992522775;
 }
 
 int  e8oC4mQ9()
@@ -285,7 +285,7 @@ case 'f':
 kmj7_LSD1V = e8oC4mQ9();
 break;
 case 'g':
-KRxWWs6H1 = sYtQZd5(702293349, -1406370459);
+KRxWWs6H1 = sYtQZd5(702293349, (unsigned short)-1406370459);
 break;
 case 'h':
 F_74JmJ7 = (int)abs(kk6t8y_);

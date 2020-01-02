@@ -42,7 +42,7 @@ while (k < 1);
 }
 }
 }
-Zai70h = N57190t1(-896602446, (unsigned char)-1392163358, -928625537);
+Zai70h = N57190t1((unsigned char)-896602446, (unsigned char)-1392163358, -928625537);
 
 try
 {
@@ -58,7 +58,7 @@ ZwDb9fCeh = xWo40W(ZwDb9fCeh);
 }
 else if (l6a2p <= pwmDbp)
 {
-ec_1a = xWo40W(1428340975) + 64390698;
+ec_1a = xWo40W((unsigned char)1428340975) + 64390698;
 }
 else if ((z6EApy & -1383952159) && ((V6d5ng3C_ > ByH1EqE45) && (z6EApy <= X3ZeF1g3)))
 {
@@ -70,7 +70,7 @@ isGQ4 = N57190t1((unsigned char)52875842, 855233478, w1gh9Pg);
 }
 else if (((LjcWb != e4fLl) && (t539v5vj > X3ZeF1g3)) || ((b2TLmi_ > zxV560j) || (z4J8gF > 457185258)))
 {
-Zai70h = N57190t1(249104508, Hw6IdN_, Jnn1D2);
+Zai70h = N57190t1((unsigned char)249104508, Hw6IdN_, Jnn1D2);
 }
 else
 {
@@ -95,7 +95,7 @@ int k = 1;
 do
 {
 --k;
-do9vnN2y_ = N57190t1(-575906732, w_r2RE84D6, -2020911237);
+do9vnN2y_ = N57190t1((unsigned char)-575906732, w_r2RE84D6, -2020911237);
 }
 while (k >= 0);
 }
@@ -126,7 +126,7 @@ else
 {
 for (int k = 0; k < 2; k++)
 {
-XfZxt7A7X7 = xWo40W(1380882351);
+XfZxt7A7X7 = xWo40W((unsigned char)1380882351);
 }
 }
 i--;
@@ -159,7 +159,7 @@ int k = 9;
 do
 {
 --k;
-isGQ4 = N57190t1(1903300017, I_0v7MP4, -503533717);
+isGQ4 = N57190t1((unsigned char)1903300017, I_0v7MP4, -503533717);
 }
 while (k >= 0);
 }
@@ -200,7 +200,7 @@ case 8:
 Zai70h = (int)abs(isGQ4);
 break;
 case 9:
-iQh_Xrq8_ = xWo40W(1747871997);
+iQh_Xrq8_ = xWo40W((unsigned char)1747871997);
 break;
 default:
 z5_76e5 += 1541531680;
@@ -221,7 +221,7 @@ case 'a':
 kBRgZ0J >>= 931283878;
 break;
 default:
-z5_76e5 = xWo40W(-2103527003);
+z5_76e5 = xWo40W((unsigned char)-2103527003);
 break;
 }
 }
@@ -241,7 +241,7 @@ isGQ4 = (int)abs(EwJKa_VH);
 }
 else if (qMtyI <= pwmDbp)
 {
-std::cout << "Wpd2Db" << "OQ37WfJV" << xWo40W(-1761665867) << std::endl;
+std::cout << "Wpd2Db" << "OQ37WfJV" << xWo40W((unsigned char)-1761665867) << std::endl;
 }
 else
 {
@@ -286,7 +286,7 @@ j1_Q <<= 1865349766;
 }
 else
 {
-Zai70h = N57190t1(1056041414, (unsigned char)1246943877, hk_k1);
+Zai70h = N57190t1((unsigned char)1056041414, (unsigned char)1246943877, hk_k1);
 }
 j--;
 }

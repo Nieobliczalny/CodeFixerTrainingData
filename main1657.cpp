@@ -44,7 +44,7 @@ catch (int& errorCode)
 mb9A6 = u88l3DiWAM(m49qR_G);
 }
 
-cout << u88l3DiWAM(-1745630083) << endl;
+cout << u88l3DiWAM((unsigned short)-1745630083) << endl;
 
 if ((E1_V9) && ((Gcq0S2f0 <= Q44O2) && (mMua6BL7 < SylvWR)))
 {
@@ -56,7 +56,7 @@ gWmj6bX = u88l3DiWAM(m49qR_G) / 1609666178;
 }
 else
 {
-d9TQT1 = u88l3DiWAM(-808281062);
+d9TQT1 = u88l3DiWAM((unsigned short)-808281062);
 }
 }
 }
@@ -67,7 +67,7 @@ do
 {
 for (int j = 6; j >= 0; j--)
 {
-d9TQT1 = u88l3DiWAM(-1508762794);
+d9TQT1 = u88l3DiWAM((unsigned short)-1508762794);
 }
 i--;
 }

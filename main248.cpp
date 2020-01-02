@@ -22,7 +22,7 @@ V_S82cr = vTl22TP(V_S82cr, FS40usW943, lROg);
 int i = 7;
 do
 {
-V_S82cr = vTl22TP(V_S82cr, bzlU3, 2141073869);
+V_S82cr = vTl22TP(V_S82cr, bzlU3, (unsigned short)2141073869);
 i--;
 }
 while (i >= 0);
@@ -44,7 +44,7 @@ while (j < 2);
 
 if (FS40usW943 < bzlU3)
 {
-FS40usW943 = Z__4vjxX8c(-468377065, -71730091, FS40usW943, bzlU3, 1071538238);
+FS40usW943 = Z__4vjxX8c((unsigned short)-468377065, -71730091, FS40usW943, bzlU3, 1071538238);
 }
 
 bzlU3 = (unsigned short)(lROg * bzlU3);
@@ -60,7 +60,7 @@ case 1:
 V_S82cr = vTl22TP(bzlU3, V_S82cr, T1r4Ivo10);
 break;
 case 2:
-T1r4Ivo10 = ktPZgj1z(2130243239, V_S82cr) >> 1169208410;
+T1r4Ivo10 = ktPZgj1z((short)2130243239, V_S82cr) >> 1169208410;
 break;
 case 3:
 lROg = vTl22TP(FS40usW943, (unsigned short)1956687073, -296755099);
@@ -119,7 +119,7 @@ if (T1r4Ivo10 >= -1032299026)
 lROg = (int)floor(V_S82cr);
 }
 
-V_S82cr = Z__4vjxX8c(62242630, lROg, bzlU3, -2009843843, V_S82cr) / bzlU3;
+V_S82cr = Z__4vjxX8c((unsigned short)62242630, lROg, bzlU3, -2009843843, V_S82cr) / bzlU3;
 lROg = vTl22TP(FS40usW943, (unsigned short)882232306, bzlU3) & 1338625958;
 V_S82cr = (int)floor(T1r4Ivo10);
 V_S82cr = (double)(T1r4Ivo10);
@@ -152,7 +152,7 @@ if ((V_S82cr <= -1088827142) && ((lROg != bzlU3) || (lROg == bzlU3)))
 {
 if (FS40usW943 & -1710931630)
 {
-lROg = Z__4vjxX8c(2006311534, 1689222973, bzlU3, -1481007265, V_S82cr) * T1r4Ivo10;
+lROg = Z__4vjxX8c((unsigned short)2006311534, 1689222973, bzlU3, -1481007265, V_S82cr) * T1r4Ivo10;
 }
 }
 else if (bzlU3 > V_S82cr)
@@ -204,7 +204,7 @@ else if (((bzlU3 <= lROg) || (bzlU3 != -161196235)) || ((lROg < V_S82cr) || (T1r
 int k = 0;
 do
 {
-lROg = (lROg >= 1262785190) ? Z__4vjxX8c(1066076754, -973606970, 1390534775, 863050097, 320946629) : 1333615549;
+lROg = (lROg >= 1262785190) ? Z__4vjxX8c((unsigned short)1066076754, -973606970, 1390534775, 863050097, 320946629) : 1333615549;
 k++;
 }
 while (k < 7);
@@ -220,7 +220,7 @@ if (bzlU3 <= 1261974925)
 {
 try
 {
-std::cout << vTl22TP(2015561855, lROg, (unsigned short)2038854414) << ktPZgj1z(1058844790, -1036444502) << "vKGrv5" << "MiYZOj" << V_S82cr << std::endl;
+std::cout << vTl22TP((unsigned short)2015561855, lROg, (unsigned short)2038854414) << ktPZgj1z(1058844790, -1036444502) << "vKGrv5" << "MiYZOj" << V_S82cr << std::endl;
 }
 catch (int& errorCode)
 {
@@ -273,7 +273,7 @@ try
 {
 for (int k = 10; k >= 0; k--)
 {
-V_S82cr = vTl22TP(V_S82cr, 381802273, (unsigned short)-1858879025);
+V_S82cr = vTl22TP(V_S82cr, (unsigned short)381802273, (unsigned short)-1858879025);
 }
 }
 catch (int& errorCode)
@@ -291,7 +291,7 @@ for (int j = 0; j < 5; j++)
 {
 if (V_S82cr != -1036221729)
 {
-V_S82cr = vTl22TP(857051142, FS40usW943, V_S82cr);
+V_S82cr = vTl22TP((unsigned short)857051142, FS40usW943, V_S82cr);
 }
 else
 {
@@ -318,6 +318,6 @@ unsigned int ktPZgj1z(short BEf5OV,int nBuL_t9gI0) {
 }
 
 unsigned char	vTl22TP(unsigned short	L5VZ_t,unsigned short int	wtc_,unsigned short	To_5)	{
-	return	-2067612837;
+	return	(unsigned char)-2067612837;
 }
 

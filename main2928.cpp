@@ -20,7 +20,7 @@ int main(void) {
     Vkv0    =    0;
     nmkkma    =    0;
   short  AM2o,  t9O_OH;
-  AM2o  =  -375129456;
+  AM2o  =  (short)-375129456;
   t9O_OH  =  (short)-12010482;
 
 if (Vkv0 > -1347929313)
@@ -133,7 +133,7 @@ xu3y6NR = RM1_7587mE();
 break;
 }
 std::cout << RM1_7587mE() << Vkv0 << std::endl;
-t9O_OH = (tdt_r_8g <= L0gfnug) ? -1338238594 : xu3y6NR;
+t9O_OH = (tdt_r_8g <= L0gfnug) ? (short)-1338238594 : xu3y6NR;
 
 switch (AM2o)
 {

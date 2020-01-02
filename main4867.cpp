@@ -16,7 +16,7 @@ int main(void)
 {
 	unsigned short	DWgzqEm5_	=	0;
 	int	Iyj0RMOvYq	=	-1044251123;
-    unsigned short int    Q_O3G07ZI    =    1443329515;
+    unsigned short int    Q_O3G07ZI    =    (unsigned short)1443329515;
 	long long	R2aWb94	=	-1171156270;
  unsigned short V_gM9nB = 0;
 	short	mqahtkZ	=	(short)1642793982;

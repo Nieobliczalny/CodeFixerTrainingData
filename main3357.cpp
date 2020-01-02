@@ -21,7 +21,7 @@ int main(int argc, char** argv) {
     short    u2ZN_vC2;
     u2ZN_vC2    =    0;
  short int UEd1xO, JEVi, UfoWz5, fbov79D85, C6mFz7, pvhXq_Vjd, gVql4p, U523p, P68K0ap_P, VN9vHVcl, jBkV581n9, LmdY27K_sR, C07pR_Ra, C2aY, QgKo949, C9735126, BXno5hq3m9, rP87KW, yQ_GY9, qn32SU, Kx750, wn8V7fa, Lty30BoF, lgUQo5oxm_, e_8rpHV, z2z9sn, g5eZmz, J8HAvK1_p, Lgc771j4py, o4wG2D7, f4hX396, F6HN3gAZ, XqI07ZEk, eLrjKVk4Z, EVyY, Nu3G2PvUb5, Bq2tw6Fvi, Xb9T_9t, l3W31bti, sVd4FACe, oXlfp7Y9, OS9Te3SnB9, m4O03, nJOt4UPI9, SGg65u, KQ8vH5, Ir64T7, w9D3jgA30, o3lnnXlXV, rPN4Dayn, Tc0wU6, s45qZdASN, H8N3RIt, lv6e3eI3, u1S9, icfHtj, wEB97, gZYa, L1BcZS_y8, X_5Y9w7Ps, Y90oz, ocrN, gjN7Qyt7, S6GuHXF, ony09, k3N21oBh, KA3SG2S_9_, aWf0K, o2WFl81, dNac;
- UEd1xO = 838414263;
+ UEd1xO = (short)838414263;
  JEVi = (short)-438669971;
  UfoWz5 = 417618895;
  fbov79D85 = -791739290;
@@ -31,7 +31,7 @@ int main(int argc, char** argv) {
  U523p = -728245987;
  P68K0ap_P = 508573377;
  VN9vHVcl = -1972169636;
- jBkV581n9 = 1150814066;
+ jBkV581n9 = (short)1150814066;
  LmdY27K_sR = (short)-1992748403;
  C07pR_Ra = -878502802;
  C2aY = -204269069;
@@ -41,7 +41,7 @@ int main(int argc, char** argv) {
  rP87KW = 835509473;
  yQ_GY9 = -1183205852;
  qn32SU = 648637811;
- Kx750 = 725521462;
+ Kx750 = (short)725521462;
  wn8V7fa = (short)-1579304230;
  Lty30BoF = 1299296947;
  lgUQo5oxm_ = 1358801233;
@@ -51,7 +51,7 @@ int main(int argc, char** argv) {
  J8HAvK1_p = -829368778;
  Lgc771j4py = 781582549;
  o4wG2D7 = 423275155;
- f4hX396 = 2057443492;
+ f4hX396 = (short)2057443492;
  F6HN3gAZ = (short)1203175025;
  XqI07ZEk = 2046363631;
  eLrjKVk4Z = 1928643144;
@@ -61,7 +61,7 @@ int main(int argc, char** argv) {
  Xb9T_9t = -1193818859;
  l3W31bti = -1816669006;
  sVd4FACe = -443457277;
- oXlfp7Y9 = -289368815;
+ oXlfp7Y9 = (short)-289368815;
  OS9Te3SnB9 = (short)1359345941;
  m4O03 = -995329031;
  nJOt4UPI9 = -936132035;
@@ -71,7 +71,7 @@ int main(int argc, char** argv) {
  w9D3jgA30 = -973929746;
  o3lnnXlXV = 1156618448;
  rPN4Dayn = -1645432733;
- Tc0wU6 = -1707824815;
+ Tc0wU6 = (short)-1707824815;
  s45qZdASN = (short)1676162814;
  H8N3RIt = -1676177926;
  lv6e3eI3 = 1371648212;
@@ -81,7 +81,7 @@ int main(int argc, char** argv) {
  gZYa = 1084441884;
  L1BcZS_y8 = 2090435157;
  X_5Y9w7Ps = 341457430;
- Y90oz = 848612292;
+ Y90oz = (short)848612292;
  ocrN = (short)-1351545845;
  gjN7Qyt7 = 563278395;
  S6GuHXF = 1209581802;
@@ -166,7 +166,7 @@ OS9Te3SnB9 = (int)abs(l3W31bti);
 u2ZN_vC2 = a7np7Y7(P68K0ap_P, Lty30BoF);
 for (int i = 0; i < 10; ++i)
 {
-std::cout << fbov79D85 << Lgc771j4py << a7np7Y7(2078746399, -112125468) << std::endl;
+std::cout << fbov79D85 << Lgc771j4py << a7np7Y7(2078746399, (char)-112125468) << std::endl;
 }
 
 if ((u2ZN_vC2 / u2ZN_vC2) > 1540162321)
@@ -192,7 +192,7 @@ case 'b':
 lgUQo5oxm_ = (int)abs(f4hX396);
 break;
 case 'c':
-Ir64T7 = a7np7Y7(P68K0ap_P, -1686808196) & 568117833;
+Ir64T7 = a7np7Y7(P68K0ap_P, (char)-1686808196) & 568117833;
 break;
 default:
 P68K0ap_P += o4wG2D7;
@@ -230,7 +230,7 @@ case 'c':
 Lty30BoF = (int)abs(Nu3G2PvUb5);
 break;
 case 'd':
-u2ZN_vC2 = a7np7Y7(w9D3jgA30, -775578151);
+u2ZN_vC2 = a7np7Y7(w9D3jgA30, (char)-775578151);
 break;
 case 'e':
 u2ZN_vC2 = a7np7Y7(1919705149, UEd1xO);
@@ -269,7 +269,7 @@ while (j >= 0)
 {
 if (lgUQo5oxm_)
 {
-ocrN = (jBkV581n9) ? fwng8j0 : 574765188;
+ocrN = (jBkV581n9) ? fwng8j0 : (short)574765188;
 }
 else
 {
@@ -283,7 +283,7 @@ else
 {
 if (lgUQo5oxm_ <= 1702200116)
 {
-u2ZN_vC2 = a7np7Y7(877272127, 922270332);
+u2ZN_vC2 = a7np7Y7(877272127, (char)922270332);
 }
 }
 
@@ -298,7 +298,7 @@ else if (JEVi <= Lgc771j4py)
 {
 if (g5eZmz < o2WFl81)
 {
-std::cout << a7np7Y7(-839645774, lgUQo5oxm_) << gZYa << a7np7Y7(-507844280, 1033402942) << std::endl;
+std::cout << a7np7Y7(-839645774, lgUQo5oxm_) << gZYa << a7np7Y7(-507844280, (char)1033402942) << std::endl;
 }
 else
 {
@@ -409,7 +409,7 @@ while (j >= 0);
 while (i >= 0);
 }
 
-u2ZN_vC2 = a7np7Y7(C6mFz7, -7297659);
+u2ZN_vC2 = a7np7Y7(C6mFz7, (char)-7297659);
 switch (U523p)
 {
 case 0:
@@ -422,7 +422,7 @@ case 2:
 icfHtj = qn32SU ^ 852010949;
 break;
 case 3:
-u2ZN_vC2 = a7np7Y7(657849709, 169257162);
+u2ZN_vC2 = a7np7Y7(657849709, (char)169257162);
 break;
 case 4:
 Tc0wU6 = P8_DK - 1050485912;

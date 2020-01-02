@@ -18,7 +18,7 @@ unsigned short int S07DCCg_9(long long IZ33y,long Zk0ka,unsigned char jh6QUH,sho
 
 char    rxm2n3Q5v8(long long    FWOHub,unsigned short    K88wxj_0r)
 {
-    return    -391486466;
+    return    (char)-391486466;
 }
 
 int main(int argc, char** argv) {
@@ -124,7 +124,7 @@ for (int i = 0; i < 10; i++)
 {
 ccLp1b5 = (double)(mnxS4F8_W);
 }
-SHs9q = S07DCCg_9(1547793730, -304963647, -1928972289, de46);
+SHs9q = S07DCCg_9(1547793730, -304963647, (unsigned char)-1928972289, de46);
 {
 int i = 6;
 while (i >= 0)
@@ -170,7 +170,7 @@ if (y9Nrg5_W == -1649489557)
 switch (EkZKKkr)
 {
 case 'a':
-eCA0 = rxm2n3Q5v8(eCA0, -664111620);
+eCA0 = rxm2n3Q5v8(eCA0, (unsigned short)-664111620);
 break;
 case 'b':
 exABkr /= 1633769582;
@@ -182,7 +182,7 @@ case 'd':
 SHs9q = S07DCCg_9(SHs9q, -1781141056, Qtp5se, (short)-1969883027);
 break;
 case 'e':
-SHs9q = S07DCCg_9(F9TC8ZA2xB, Qtp5se, 868086260, eCA0);
+SHs9q = S07DCCg_9(F9TC8ZA2xB, Qtp5se, (unsigned char)868086260, eCA0);
 break;
 case 'f':
 de46 = f9Pqw26w4(-1821380241, y9Nrg5_W);
@@ -205,7 +205,7 @@ while (j < 9);
 }
 }
 
-cout << "H20nCDC5_" << "MSy984z" << rxm2n3Q5v8(-1042635424, 2128662562) << endl;
+cout << "H20nCDC5_" << "MSy984z" << rxm2n3Q5v8(-1042635424, (unsigned short)2128662562) << endl;
 cout << rxm2n3Q5v8(185438796, (unsigned short)-484966317) << S07DCCg_9(-1641359296, -1019490617, 499759126, k2oZ8KLl22) << ccLp1b5 << endl;
 for (int i = 5; i >= 0; i--)
 {
@@ -219,7 +219,7 @@ for (int j = 10; j >= 0; j--)
 Mn1K7 = f9Pqw26w4(1343702453, y9Nrg5_W) + 2096079696;
 }
 }
-cout << S07DCCg_9(-1189901950, y9Nrg5_W, Mn1K7, -2074846106) << F9TC8ZA2xB << rxm2n3Q5v8(-1720200312, (unsigned short)975822967) << endl;
+cout << S07DCCg_9(-1189901950, y9Nrg5_W, Mn1K7, (short)-2074846106) << F9TC8ZA2xB << rxm2n3Q5v8(-1720200312, (unsigned short)975822967) << endl;
 if (kuMV1_PC > 1022505005)
 {
 if (exABkr <= -1872085699)
@@ -256,7 +256,7 @@ SHs9q = (unsigned short int)(k2oZ8KLl22 * SHs9q);
 }
 else if (((Mn1K7 <= -883925575) && (y9Nrg5_W > -502564186)) && (de46 >= -1464292246))
 {
-EkZKKkr = S07DCCg_9(187993415, -252187998, -1626259330, ccLp1b5);
+EkZKKkr = S07DCCg_9(187993415, -252187998, (unsigned char)-1626259330, ccLp1b5);
 }
 else
 {

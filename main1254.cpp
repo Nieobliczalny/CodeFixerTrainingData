@@ -20,7 +20,7 @@ unsigned short HKi4755(short int JJ83D,unsigned char J17_8,unsigned short FUBf_3
 
 int main(int argc, char** argv) {
 	unsigned long long	K12p	=	0;
-	short int	Ah7mIn_	=	-889979342;
+	short int	Ah7mIn_	=	(short)-889979342;
 	unsigned short	Tcfn_	=	(unsigned short)1647559934;
  char Qqh8 = 119325310;
   double  B2dY5A  =  -2144036379;
@@ -64,7 +64,7 @@ Ah7mIn_++;
 break;
 }
 
-Tcfn_ = Yy__5ew7() / HKi4755(Qqh8, -1645007833, bdr_, Tcfn_);
+Tcfn_ = Yy__5ew7() / HKi4755(Qqh8, (unsigned char)-1645007833, bdr_, Tcfn_);
 
 for (int i = 0; i < 6; i++)
 {
@@ -88,7 +88,7 @@ case 'e':
 bdr_ = uiVT(748550047, 2089048096, Tcfn_, Ah7mIn_);
 break;
 case 'f':
-K12p = HKi4755(35087882, B2dY5A, (unsigned short)1395838283, 1921507981);
+K12p = HKi4755((short)35087882, B2dY5A, (unsigned short)1395838283, 1921507981);
 break;
 case 'g':
 Ah7mIn_ = (B2dY5A <= 414742175) ? Qqh8 : Qqh8;
@@ -100,7 +100,7 @@ break;
 }
 else
 {
-K12p = HKi4755(-2133793141, (unsigned char)950164743, Tcfn_, 172135568);
+K12p = HKi4755((short)-2133793141, (unsigned char)950164743, Tcfn_, 172135568);
 }
 }
 try
@@ -143,7 +143,7 @@ else
 cout << "znG_" << Tcfn_ << endl;
 }
 
-K12p = HKi4755(-1661707150, Tcfn_, Ah7mIn_, (unsigned short)1294901552);
+K12p = HKi4755((short)-1661707150, Tcfn_, Ah7mIn_, (unsigned short)1294901552);
 
 if (((Tcfn_ > bdr_) && (Tcfn_ > Ah7mIn_)) && (K12p != -1627022475))
 {
@@ -162,7 +162,7 @@ Ah7mIn_ = (int)abs(B2dY5A);
 break;
 case 'b':
 case 'B':
-bdr_ = uiVT(bdr_, -1926518025, -1558399694, -558419066);
+bdr_ = uiVT(bdr_, -1926518025, (short)-1558399694, -558419066);
 break;
 case 'c':
 case 'C':
@@ -183,7 +183,7 @@ break;
 switch (K12p)
 {
 case 0:
-Ah7mIn_ = N6F20RI(Ah7mIn_, Tcfn_, 456357087, -1090536875);
+Ah7mIn_ = N6F20RI(Ah7mIn_, Tcfn_, 456357087, (unsigned short)-1090536875);
 break;
 case 1:
 bdr_ = Qqh8 + 1382576221;
@@ -198,7 +198,7 @@ case 4:
 Qqh8 |= 301849753;
 break;
 case 5:
-bdr_ = N6F20RI(bdr_, 197428879, -1436104033, -1484134593);
+bdr_ = N6F20RI(bdr_, 197428879, -1436104033, (unsigned short)-1484134593);
 break;
 case 6:
 Ah7mIn_ = N6F20RI(Ah7mIn_, 767247456, bdr_, B2dY5A);
@@ -223,7 +223,7 @@ if (B2dY5A < -1278435657)
 int k = 0;
 while (k < 10)
 {
-Qqh8 = yQ5x(Qqh8, Tcfn_, -10263134, B2dY5A, -2082699977);
+Qqh8 = yQ5x(Qqh8, Tcfn_, (unsigned char)-10263134, B2dY5A, -2082699977);
 ++k;
 }
 }
@@ -234,7 +234,7 @@ while (i >= 0);
 }
 try
 {
-K12p = HKi4755(B2dY5A, 123996344, (unsigned short)2057140802, -676655306);
+K12p = HKi4755(B2dY5A, (unsigned char)123996344, (unsigned short)2057140802, -676655306);
 }
 catch (int& errorCode)
 {
@@ -261,7 +261,7 @@ return 0;
 }
 
 char Yy__5ew7() {
- return 1878259739;
+ return (char)1878259739;
 }
 
 unsigned short int	uiVT(unsigned long long	nuw9qeYy7,unsigned long	C1gvym,short int	G5HEM,unsigned int	HnoVMg)	{

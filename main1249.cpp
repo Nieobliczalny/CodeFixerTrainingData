@@ -15,7 +15,7 @@ short int ycYw9qh()
 
 unsigned short int  eYD_O(long  FXZPX0Q5,unsigned char  RVO1SV)
 {
-  return  1254667555;
+  return  (unsigned short)1254667555;
 }
 
 int main(int argc, char** argv) {
@@ -42,7 +42,7 @@ case 'd':
 xK67 = eYD_O(xK67, uwM77vp);
 break;
 case 'e':
-xK67 = eYD_O(Ya7tT, 1944101688);
+xK67 = eYD_O(Ya7tT, (unsigned char)1944101688);
 break;
 case 'f':
 wfI_ = R8rDkBEz & B5jon7TbJ;
@@ -94,7 +94,7 @@ if ((xK67 & B5jon7TbJ) || ((Ya7tT == w7F3i638) || (TXW31cLs2 & 1592622547)))
 switch (FK6l2)
 {
 case 0:
-TXW31cLs2 = eYD_O(FK6l2, -979449634);
+TXW31cLs2 = eYD_O(FK6l2, (unsigned char)-979449634);
 break;
 case 1:
 TXW31cLs2 = eYD_O(TXW31cLs2, w7F3i638);
@@ -120,7 +120,7 @@ wfI_ = (int)abs(uwM77vp);
 }
 else
 {
-bcoN2 = eYD_O(473120751, -1324815503);
+bcoN2 = eYD_O(473120751, (unsigned char)-1324815503);
 }
 }
 catch (int& errorCode)
@@ -176,7 +176,7 @@ switch (w7F3i638)
 {
 case 'a':
 case 'A':
-uwM77vp = eYD_O(-1755583912, -370089102);
+uwM77vp = eYD_O(-1755583912, (unsigned char)-370089102);
 break;
 case 'b':
 case 'B':
@@ -213,7 +213,7 @@ if ((Ya7tT == R8rDkBEz) || (xK67 > -156177838))
 {
 if ((uwM77vp != Ya7tT) || (TXW31cLs2 != w7F3i638))
 {
-xK67 = eYD_O(-1817292543, 1782765182);
+xK67 = eYD_O(-1817292543, (unsigned char)1782765182);
 }
 else
 {
@@ -229,7 +229,7 @@ k++;
 }
 else
 {
-std::cout << FK6l2 << eYD_O(xK67, -112591653) << wfI_ << std::endl;
+std::cout << FK6l2 << eYD_O(xK67, (unsigned char)-112591653) << wfI_ << std::endl;
 }
 
 try
@@ -287,7 +287,7 @@ case 4:
 B5jon7TbJ = eYD_O(501144186, wfI_) | 1850038637;
 break;
 case 5:
-uwM77vp = eYD_O(-854649845, -1460548964);
+uwM77vp = eYD_O(-854649845, (unsigned char)-1460548964);
 break;
 }
 
@@ -335,7 +335,7 @@ int k = 0;
 do
 {
 k++;
-bcoN2 = eYD_O(FK6l2, 1347197143);
+bcoN2 = eYD_O(FK6l2, (unsigned char)1347197143);
 }
 while (k < 9);
 }
@@ -406,7 +406,7 @@ case 5:
 xK67 = (uwM77vp < -768955494) ? -1293068386 : bcoN2;
 break;
 case 6:
-B5jon7TbJ = eYD_O(-411702643, -338680695);
+B5jon7TbJ = eYD_O(-411702643, (unsigned char)-338680695);
 break;
 case 7:
 wfI_ = (int)abs(xK67);
@@ -448,7 +448,7 @@ else
 {
 if (uwM77vp != 1595857916)
 {
-wfI_ = eYD_O(-2135855084, -1223242376);
+wfI_ = eYD_O(-2135855084, (unsigned char)-1223242376);
 }
 }
 }
@@ -460,7 +460,7 @@ do
 {
 try
 {
-std::cout << uwM77vp << B5jon7TbJ << eYD_O(wfI_, 1560700022) << ycYw9qh() << ycYw9qh() << std::endl;
+std::cout << uwM77vp << B5jon7TbJ << eYD_O(wfI_, (unsigned char)1560700022) << ycYw9qh() << ycYw9qh() << std::endl;
 }
 catch (int& errorCode)
 {
@@ -533,7 +533,7 @@ case 5:
 FK6l2 = ycYw9qh();
 break;
 case 6:
-bcoN2 = eYD_O(480898387, -648400811);
+bcoN2 = eYD_O(480898387, (unsigned char)-648400811);
 break;
 case 7:
 bcoN2 = (int)abs(wfI_);
@@ -554,7 +554,7 @@ for (int j = 0; j < 4; ++j)
 {
 if (FK6l2 > -2146490503)
 {
-uwM77vp = eYD_O(-1937429760, 2100493204) >> 1216608967;
+uwM77vp = eYD_O(-1937429760, (unsigned char)2100493204) >> 1216608967;
 }
 else if (R8rDkBEz == -1509436194)
 {
@@ -580,7 +580,7 @@ case 0:
 bcoN2 &= 1408399229;
 break;
 case 1:
-xK67 = eYD_O(xK67, 214580263);
+xK67 = eYD_O(xK67, (unsigned char)214580263);
 break;
 case 2:
 TXW31cLs2 = eYD_O(w7F3i638, (unsigned char)-459497034);

@@ -68,7 +68,7 @@ catch (int& errorCode)
 zUd9_76 = GLINK_z1a3(208035863, -645817158, -1169223075, k4m6Ar);
 }
 }
-std::cout << "P_c9uARl6v" << "LJ0C4_518e" << "iN14_H" << EPyA63(Vqgn9Md7N, qZTN9cn7, 41473559, k4m6Ar, 2114882240) << std::endl;
+std::cout << "P_c9uARl6v" << "LJ0C4_518e" << "iN14_H" << EPyA63(Vqgn9Md7N, qZTN9cn7, 41473559, k4m6Ar, (unsigned char)2114882240) << std::endl;
 cef2X7o = tG8kCGN3i - Vqgn9Md7N;
 if (GLINK_z1a3(Vqgn9Md7N, qZTN9cn7, zUd9_76, 829675793) == 0)
 {
@@ -96,7 +96,7 @@ return 0;
 }
 
 unsigned short int EPyA63(unsigned char eN65qv3S,short p6Q_cMUmir,long B3X3q,unsigned long l049tb3,unsigned char E7hKj) {
- return -1208771321;
+ return (unsigned short)-1208771321;
 }
 
 unsigned long  GLINK_z1a3(char  v56a,unsigned char  ec4FX2UV,unsigned long long  i2CBC,unsigned long long  g3YDdlJC)

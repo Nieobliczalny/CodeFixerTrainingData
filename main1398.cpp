@@ -17,7 +17,7 @@ using std::ceil;
 using std::floor;
 
 unsigned char    A0lDD(short    MEXt960El,unsigned short    O9YnZJUs7O,unsigned long    u6umi8539G,long    N08K06X)    {
-    return    941239778;
+    return    (unsigned char)941239778;
 }
 
 unsigned char    z8FAJQ1w(unsigned char    XjfU3zUv,short    kfk60kkg8w,int    I67h)
@@ -92,7 +92,7 @@ int main(void) {
 	cRv_P7Rj6Y	=	1014457134;
 	oq5g3Y	=	443819663;
 
-eFU94Yzb97 = Rcvk6(h7uH8v, BEmom4PSY1, m164tZ6, 180396755);
+eFU94Yzb97 = Rcvk6(h7uH8v, BEmom4PSY1, m164tZ6, (unsigned char)180396755);
 Xbrt = (I1Z2) ? D80KT3_hn((short)536525178) : jmZBEaV8p;
 for (int i = 4; i >= 0; i--)
 {
@@ -132,7 +132,7 @@ case 1:
 L1JZy17 = (u9xb0) ? 942088495 : K272IY;
 break;
 case 2:
-Xe24c5_e4w = XCpss(Xe24c5_e4w, cRv_P7Rj6Y, -1239722946, (unsigned char)-749299908, 1505538239);
+Xe24c5_e4w = XCpss(Xe24c5_e4w, cRv_P7Rj6Y, (unsigned char)-1239722946, (unsigned char)-749299908, 1505538239);
 break;
 case 3:
 nT1J_3i = (int)abs(a7m9_uGc);
@@ -147,7 +147,7 @@ case 6:
 VFtQz3HcoU = TEAz56 ^ ubTJlThEY;
 break;
 case 7:
-q9qz = A0lDD(q9qz, -2020339049, -1228978945, a7m9_uGc);
+q9qz = A0lDD(q9qz, (unsigned short)-2020339049, -1228978945, a7m9_uGc);
 break;
 case 8:
 a7m9_uGc = (int)abs(QZmcH88F);
@@ -212,7 +212,7 @@ cout << o7yl13D9y2 << endl;
 }
 for (int i = 0; i < 1; i++)
 {
-xH7_MDhk09 = XCpss(-925482357, 1693488173, 188974625, (unsigned char)1493180520, ubTJlThEY);
+xH7_MDhk09 = XCpss(-925482357, 1693488173, (unsigned char)188974625, (unsigned char)1493180520, ubTJlThEY);
 }
 
 return 0;

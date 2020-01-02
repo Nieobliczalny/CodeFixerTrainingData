@@ -74,7 +74,7 @@ for (int i = 8; i >= 0; --i)
 int j = 0;
 do
 {
-std::cout << "uX9Ehs56IO" << scOPd(1218236632, l84IC, ekW5l53N_) << Ci9eIZUOl << "NUZXF7625K" << "IA0aF" << std::endl;
+std::cout << "uX9Ehs56IO" << scOPd((short)1218236632, l84IC, ekW5l53N_) << Ci9eIZUOl << "NUZXF7625K" << "IA0aF" << std::endl;
 ++j;
 }
 while (j < 10);
@@ -101,7 +101,7 @@ i--;
 
 for (int i = 0; i < 9; ++i)
 {
-std::cout << Ti87(C17LvuCD, f9qWgL, Tafb) << boi55 << "VqsN8mG46Z" << YUv8K0crq5 << Ti87(C17LvuCD, f9qWgL, 12467075) << std::endl;
+std::cout << Ti87(C17LvuCD, f9qWgL, Tafb) << boi55 << "VqsN8mG46Z" << YUv8K0crq5 << Ti87(C17LvuCD, f9qWgL, (unsigned char)12467075) << std::endl;
 }
 
 if (tK0w94W < -2058519684)
@@ -113,7 +113,7 @@ int k = 3;
 do
 {
 --k;
-XLs8E2weX = Ti87(XLs8E2weX, ng7H4f4Bp, 982587968);
+XLs8E2weX = Ti87(XLs8E2weX, ng7H4f4Bp, (unsigned char)982587968);
 }
 while (k >= 0);
 }
@@ -139,7 +139,7 @@ std::cout << Ue_yKY97jD << "xH_Q" << L7914E1Nh << scOPd(XLs8E2weX, -930531633, h
 }
 }
 
-qE98_Olv_G = Ti87(qE98_Olv_G, -1319244469, Wh9_);
+qE98_Olv_G = Ti87(qE98_Olv_G, (short)-1319244469, Wh9_);
 
 try
 {
@@ -184,7 +184,7 @@ else if (C17LvuCD == 666518887)
 switch (ET6l14)
 {
 case 0:
-l84IC = Ti87(1423193472, m1Q2S807Y, Tafb);
+l84IC = Ti87((unsigned short)1423193472, m1Q2S807Y, Tafb);
 break;
 default:
 kUuGT = qfkv((char)-1528788047);
@@ -207,7 +207,7 @@ xW46T843E5 ^= 1662896801;
 }
 while (i >= 0);
 }
-VtnmvT4I = -680018620 / scOPd(568462256, -1369576914, L7914E1Nh);
+VtnmvT4I = -680018620 / scOPd((short)568462256, -1369576914, L7914E1Nh);
 if (ekW5l53N_ >= 726064120)
 {
 switch (glgGbtu01m)
@@ -219,7 +219,7 @@ case 1:
 sdRh <<= J3t0scgnU;
 break;
 case 2:
-Nbp3m = qfkv(1518248703);
+Nbp3m = qfkv((char)1518248703);
 break;
 case 3:
 w880n1i_3O = scOPd((short)-1658707574, qE98_Olv_G, -1321282887);
@@ -231,7 +231,7 @@ case 5:
 C17LvuCD &= 782971788;
 break;
 case 6:
-L7914E1Nh = Ti87(-1505871461, p9FLXLU0d, 1456178496);
+L7914E1Nh = Ti87((unsigned short)-1505871461, p9FLXLU0d, 1456178496);
 break;
 default:
 w880n1i_3O = scOPd((short)1620733329, MqMHdY0gC, rWrV13);
@@ -262,7 +262,7 @@ switch (F__48X)
 {
 case 'a':
 case 'A':
-L6B7yrL = Ti87(489500265, MqMHdY0gC, rWrV13) / M1bNA;
+L6B7yrL = Ti87((unsigned short)489500265, MqMHdY0gC, rWrV13) / M1bNA;
 break;
 case 'b':
 case 'B':
@@ -274,7 +274,7 @@ w880n1i_3O = scOPd(yZdb, Nbp3m, (char)590113574);
 break;
 case 'd':
 case 'D':
-MqMHdY0gC = Ti87(yZdb, 1267315230, 1174544978) << 865792400;
+MqMHdY0gC = Ti87(yZdb, (short)1267315230, 1174544978) << 865792400;
 break;
 case 'e':
 case 'E':
@@ -286,7 +286,7 @@ ET6l14--;
 break;
 case 'g':
 case 'G':
-wS2XuIwC73 = qfkv(-122172220) / 305376835;
+wS2XuIwC73 = qfkv((char)-122172220) / 305376835;
 break;
 case 'h':
 case 'H':
@@ -301,7 +301,7 @@ case 'J':
 l84IC = (nmBy5 < krP541V56H) ? o46UXb : 1253375196;
 break;
 default:
-Ue_yKY97jD = qfkv(-627832752);
+Ue_yKY97jD = qfkv((char)-627832752);
 break;
 }
 }
@@ -312,7 +312,7 @@ int i = 0;
 while (i < 9)
 {
 ++i;
-L7914E1Nh = Ti87(L7914E1Nh, -519547435, Tr_Uy);
+L7914E1Nh = Ti87(L7914E1Nh, (short)-519547435, Tr_Uy);
 }
 }
 
@@ -326,7 +326,7 @@ char    Ti87(unsigned short    EO57,short int    R_3i_FLn8,unsigned char    jt9q
 
 short int  qfkv(char  S9l4y11s)
 {
-  return  1376789626;
+  return  (short)1376789626;
 }
 
 unsigned short int scOPd(short eCy71RI64,unsigned int ONZX,char x7XKUK)

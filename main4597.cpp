@@ -16,7 +16,7 @@ using std::ceil;
 using std::floor;
 
 short    q2O9Fin_1(unsigned long long    LgJ24,int    k09m1cgm,long long    fB5h,unsigned long    x0rPE7Z)    {
-    return    -290963107;
+    return    (short)-290963107;
 }
 
 short nfere8GS6() {
@@ -93,7 +93,7 @@ if ((t_fh_3eY & V38e7u) && (O21vX > -329769333))
 m67YU84ci_ = q2O9Fin_1(m67YU84ci_, xboL, t_fh_3eY, c7PugG72);
 }
 
-std::cout << qoKt(-1431386717, -965045221, t_fh_3eY) << nfere8GS6() << q2O9Fin_1(446715189, -472260511, t_fh_3eY, -1220392205) << "JtXbqE75" << qoKt(-1985210586, xboL, -837719672) << std::endl;
+std::cout << qoKt(-1431386717, (unsigned short)-965045221, t_fh_3eY) << nfere8GS6() << q2O9Fin_1(446715189, -472260511, t_fh_3eY, -1220392205) << "JtXbqE75" << qoKt(-1985210586, xboL, -837719672) << std::endl;
 
 if ((nfere8GS6() / W4iXJ18P) >= 831028417)
 {
@@ -180,7 +180,7 @@ if (N5ZY66Yi6 <= x885Z02h)
 {
 if (xboL & AsWpsC1)
 {
-b_EaxR52v5 = qoKt(-1841870855, 1540119034, W4iXJ18P);
+b_EaxR52v5 = qoKt(-1841870855, (unsigned short)1540119034, W4iXJ18P);
 }
 else
 {

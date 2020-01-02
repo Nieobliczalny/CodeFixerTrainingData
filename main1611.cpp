@@ -20,7 +20,7 @@ unsigned long bHdsR(short Dd6G3r7Fk,int AlN5z39,int RbF8t,unsigned long long J7s
 
 int main(void) {
  short c036Qq;
- c036Qq = -1332605034;
+ c036Qq = (short)-1332605034;
  long long saHsaOs;
  saHsaOs = 1242467944;
 	double	YP_E2FUD58;
@@ -30,7 +30,7 @@ int main(void) {
  short int ArR5qt;
  ArR5qt = 1709981532;
     char    EFxO51;
-    EFxO51    =    -1730808082;
+    EFxO51    =    (char)-1730808082;
     unsigned int    p2_4_;
     p2_4_    =    -1930204600;
     unsigned long    PEqy_K4z0f;
@@ -40,7 +40,7 @@ int main(void) {
 	unsigned long long	SzZ94ynSy;
 	SzZ94ynSy	=	-166106819;
 	char	eqSM1E;
-	eqSM1E	=	456509076;
+	eqSM1E	=	(char)456509076;
     unsigned int    mxVX;
     mxVX    =    578845509;
  long up7N;
@@ -50,7 +50,7 @@ int main(void) {
 	unsigned long long	a_a_v;
 	a_a_v	=	-766889671;
 	short int	LtP7a;
-	LtP7a	=	104840022;
+	LtP7a	=	(short)104840022;
     int    HTtzd7_WH2;
     HTtzd7_WH2    =    905057441;
     unsigned long long    WuWha;
@@ -66,7 +66,7 @@ int main(void) {
 	float	rPp8;
 	rPp8	=	-1778323141;
   short  UmCg2S;
-  UmCg2S  =  -1552354054;
+  UmCg2S  =  (short)-1552354054;
   float  KjFJkAN;
   KjFJkAN  =  1524109474;
     long long    qBXq8Y;
@@ -82,7 +82,7 @@ int main(void) {
   double  n486x;
   n486x  =  -1577725719;
 	short int	Q5nSQZvjyk;
-	Q5nSQZvjyk	=	1321467974;
+	Q5nSQZvjyk	=	(short)1321467974;
   long double  x4_V9oe;
   x4_V9oe  =  361973661;
  float pb_vxKH;
@@ -92,7 +92,7 @@ int main(void) {
   float  IZ7ey;
   IZ7ey  =  1375801575;
 	unsigned short	DXG_87;
-	DXG_87	=	-1536358128;
+	DXG_87	=	(unsigned short)-1536358128;
  unsigned int WqV4p8;
  WqV4p8 = -37608762;
  short hIN7;
@@ -110,7 +110,7 @@ int main(void) {
   unsigned long long  TROO9;
   TROO9  =  0;
  short int f1bGvVE;
- f1bGvVE = 1857559968;
+ f1bGvVE = (short)1857559968;
     short    EITU;
     EITU    =    (short)65257517;
  unsigned char Z7wAU9V4;
@@ -122,7 +122,7 @@ int main(void) {
  unsigned int TswInMl;
  TswInMl = -1981905823;
   unsigned short  sz4N1QjpWp;
-  sz4N1QjpWp  =  -1735382572;
+  sz4N1QjpWp  =  (unsigned short)-1735382572;
     long    sB5WWf_Rhj;
     sB5WWf_Rhj    =    -1816759774;
  char L46FH9;
@@ -132,7 +132,7 @@ int main(void) {
     float    KzYH;
     KzYH    =    986234040;
 	unsigned short int	vkwG75Aed1;
-	vkwG75Aed1	=	742215017;
+	vkwG75Aed1	=	(unsigned short)742215017;
 	char	FWkm6g2FI;
 	FWkm6g2FI	=	-1517362562;
   long double  J_5o7kos;
@@ -142,7 +142,7 @@ int main(void) {
   unsigned long long  uf78ftB;
   uf78ftB  =  507074048;
   short int  u7OvB;
-  u7OvB  =  -1343293262;
+  u7OvB  =  (short)-1343293262;
   unsigned short int  cn4LuA;
   cn4LuA  =  100044992;
     unsigned char    xG_Y;
@@ -154,7 +154,7 @@ int main(void) {
     unsigned long long    Jk6b9;
     Jk6b9    =    -322817725;
     short    c97Av1Z;
-    c97Av1Z    =    -1908753467;
+    c97Av1Z    =    (short)-1908753467;
 	int	x8G9YbA;
 	x8G9YbA	=	373043328;
   float  H6x8;
@@ -170,7 +170,7 @@ int main(void) {
 	unsigned long long	j1W_A5;
 	j1W_A5	=	-264995712;
  unsigned short int rKbf1G6H;
- rKbf1G6H = -1167728254;
+ rKbf1G6H = (unsigned short)-1167728254;
 	unsigned long long	i9JJfCgeCx;
 	i9JJfCgeCx	=	1408508323;
  long double aqMtcO;
@@ -186,7 +186,7 @@ int main(void) {
  long long rkb3Ya;
  rkb3Ya = -1654514665;
 	unsigned short int	R8e8wcDF;
-	R8e8wcDF	=	-1242252841;
+	R8e8wcDF	=	(unsigned short)-1242252841;
  unsigned long long LSg04;
  LSg04 = 301091659;
 	short	I1xqt6i69a;
@@ -198,7 +198,7 @@ int main(void) {
 
 cout << KjFJkAN << endl;
 
-w2N421 = MOL899(2034916897, zsDw_L9) / ovCAF(lDDND56c, -295056585, -1964217438);
+w2N421 = MOL899((short)2034916897, zsDw_L9) / ovCAF(lDDND56c, -295056585, -1964217438);
 
 L46FH9 = bHdsR((short)693970652, urczg6, EITU, 1291164181, -1243326435);
 
@@ -214,7 +214,7 @@ unsigned short int    ovCAF(unsigned int    g71RM,long    gA21epRha7,int    YJN3
 
 short int  MOL899(short  Qa0A,short  Ld6txv5k)
 {
-  return  1428290459;
+  return  (short)1428290459;
 }
 
 unsigned long bHdsR(short Dd6G3r7Fk,int AlN5z39,int RbF8t,unsigned long long J7sgl,long S9o6c3) {

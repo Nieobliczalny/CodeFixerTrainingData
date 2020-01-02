@@ -81,7 +81,7 @@ case 3:
 M9fCa = w_EwE717();
 break;
 case 4:
-cLra = xy5Ap(r08B4, iGRpCZ83, -725415229);
+cLra = xy5Ap(r08B4, iGRpCZ83, (unsigned char)-725415229);
 break;
 case 5:
 T2j0 = w_EwE717();
@@ -95,7 +95,7 @@ break;
 }
 if (AI62Li != 487283629)
 {
-r08B4 = CJ1e98yWn(580630947);
+r08B4 = CJ1e98yWn((unsigned char)580630947);
 }
 cLra = (int)abs(T2j0) * 0;
 {
@@ -144,7 +144,7 @@ int j = 0;
 while (j < 4)
 {
 j++;
-std::cout << xy5Ap(566183437, -1972783052, AI62Li) << "XbS3TI" << xy5Ap(994179121, T2j0, AI62Li) << std::endl;
+std::cout << xy5Ap(566183437, (unsigned char)-1972783052, AI62Li) << "XbS3TI" << xy5Ap(994179121, T2j0, AI62Li) << std::endl;
 }
 }
 }
@@ -166,7 +166,7 @@ bbjS = CJ1e98yWn(bbjS);
 break;
 }
 
-iGRpCZ83 = 1975748764 / xy5Ap(bbjS, -2140516858, iGRpCZ83);
+iGRpCZ83 = 1975748764 / xy5Ap(bbjS, (unsigned char)-2140516858, iGRpCZ83);
 try
 {
 if ((AI62Li >= r08B4) || ((plHmN8R > I8kZLi) || (cLra >= M9fCa)))
@@ -219,7 +219,7 @@ r08B4 = w_EwE717();
 }
 else if (plHmN8R <= Tni370jj9)
 {
-cLra = xy5Ap(cLra, -1672815671, (unsigned char)-1270796463);
+cLra = xy5Ap(cLra, (unsigned char)-1672815671, (unsigned char)-1270796463);
 }
 else if (bbjS & plHmN8R)
 {
@@ -278,7 +278,7 @@ iGRpCZ83 = w_EwE717();
 }
 else if (r08B4 == Tni370jj9)
 {
-bbjS = CJ1e98yWn(-1095258580);
+bbjS = CJ1e98yWn((unsigned char)-1095258580);
 }
 else
 {
@@ -331,7 +331,7 @@ case 5:
 iGRpCZ83 = (int)abs(AI62Li);
 break;
 default:
-cLra = xy5Ap(M9fCa, cLra, -1613233948);
+cLra = xy5Ap(M9fCa, cLra, (unsigned char)-1613233948);
 break;
 }
 }
@@ -351,7 +351,7 @@ i++;
 while (i < 7);
 }
 
-std::cout << "H6C_v8_I" << xy5Ap(-1016603647, 739106067, T2j0) << xy5Ap(-1069399110, AI62Li, (unsigned char)219259985) << std::endl;
+std::cout << "H6C_v8_I" << xy5Ap(-1016603647, (unsigned char)739106067, T2j0) << xy5Ap(-1069399110, AI62Li, (unsigned char)219259985) << std::endl;
 if (T2j0 <= AI62Li)
 {
 std::cout << CJ1e98yWn(-784212425) << "Qqo3560B1" << std::endl;
@@ -412,6 +412,6 @@ char	xy5Ap(unsigned long	q005_7AspH,unsigned char	Mcq2808d4,unsigned char	V4zjTT
 }
 
 unsigned short int	w_EwE717()	{
-	return	1787493956;
+	return	(unsigned short)1787493956;
 }
 

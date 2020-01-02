@@ -19,7 +19,7 @@ char	HM30jvK_b_(unsigned int	YVg6q5ETP);
 int main(void)
 {
  unsigned char EJa7J__b7J;
- EJa7J__b7J = 43168878;
+ EJa7J__b7J = (unsigned char)43168878;
   long  tj2fX_0AO9;
   tj2fX_0AO9  =  936362646;
     int    JI42sC_U61;
@@ -35,7 +35,7 @@ int main(void)
  unsigned long long hqjIFE9_m;
  hqjIFE9_m = 1704032217;
   unsigned char  u1B4_;
-  u1B4_  =  -1623219766;
+  u1B4_  =  (unsigned char)-1623219766;
     unsigned int    DBHql;
     DBHql    =    -197205265;
   int  AGjFWSlS;
@@ -47,7 +47,7 @@ int main(void)
     long    hHVL4_;
     hHVL4_    =    409326667;
 	unsigned char	kF6_Y524Oc;
-	kF6_Y524Oc	=	-634075167;
+	kF6_Y524Oc	=	(unsigned char)-634075167;
     unsigned char    sPoJZ8jh;
     sPoJZ8jh    =    (unsigned char)-651219073;
     double    Z79r;
@@ -67,7 +67,7 @@ int main(void)
  int P1_y;
  P1_y = -1956081262;
   short  YGmOzmC;
-  YGmOzmC  =  2083340963;
+  YGmOzmC  =  (short)2083340963;
 
 Z79r = y0r3xdMlo1(Z79r, Tdx_0W1, -1357798986, -108621241);
 
@@ -117,7 +117,7 @@ case 'a':
 Z79r = (int)ceil(ldC229JO8Z);
 break;
 case 'b':
-h424pj = oi94iWTfD(-1034563468, 1826397421);
+h424pj = oi94iWTfD((char)-1034563468, 1826397421);
 break;
 case 'c':
 Tdx_0W1 = (int)abs(ldC229JO8Z);
@@ -185,7 +185,7 @@ else
 int j = 0;
 do
 {
-std::cout << wJvB_sXa << "P1kt3Ro" << y0r3xdMlo1(1251142024, 584955822, wJvB_sXa, sPoJZ8jh) << std::endl;
+std::cout << wJvB_sXa << "P1kt3Ro" << y0r3xdMlo1((unsigned char)1251142024, 584955822, wJvB_sXa, sPoJZ8jh) << std::endl;
 ++j;
 }
 while (j < 8);
@@ -253,7 +253,7 @@ sPoJZ8jh = sPoJZ8jh - 1331825910;
 }
 else
 {
-wJvB_sXa = oi94iWTfD(647505349, vj4PI);
+wJvB_sXa = oi94iWTfD((char)647505349, vj4PI);
 }
 }
 else if (aG_871N808 > F6dd8cg)
@@ -453,7 +453,7 @@ DBHql ^= YGmOzmC;
 }
 else if (((aG_871N808 <= wJvB_sXa) || (Tdx_0W1 == lK_5Jg3T)) || (aG_871N808 < F6dd8cg))
 {
-hqjIFE9_m = y0r3xdMlo1(-964724710, hHVL4_, 468911587, Z79r);
+hqjIFE9_m = y0r3xdMlo1((unsigned char)-964724710, hHVL4_, 468911587, Z79r);
 }
 else if (h424pj != EJa7J__b7J)
 {
@@ -500,7 +500,7 @@ vj4PI %= AGjFWSlS;
 }
 else
 {
-std::cout << Tdx_0W1 << y0r3xdMlo1(-1557293949, AGjFWSlS, P1_y, DBHql) << "hl06N0AIk" << std::endl;
+std::cout << Tdx_0W1 << y0r3xdMlo1((unsigned char)-1557293949, AGjFWSlS, P1_y, DBHql) << "hl06N0AIk" << std::endl;
 }
 
 WjK1 = y0r3xdMlo1(WjK1, DBHql, ldC229JO8Z, P1_y);
@@ -514,7 +514,7 @@ long	y0r3xdMlo1(unsigned char	V8v1SN,unsigned long	Sf_eH_7,int	Na4lU,unsigned lo
 }
 
 unsigned short int	zDR1rzlvy(long	z66cy1,int	OkMFlv,unsigned long	l4lu7h,unsigned long long	l11Bi,unsigned int	r28_AAX3)	{
-	return	-372618592;
+	return	(unsigned short)-372618592;
 }
 
 char  oi94iWTfD(char  Caa883m,int  QgTwo9m8gF)  {

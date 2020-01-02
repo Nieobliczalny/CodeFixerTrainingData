@@ -14,7 +14,7 @@ using std::ceil;
 using std::floor;
 
 short int    DR_M5bey9h()    {
-    return    1396828993;
+    return    (short)1396828993;
 }
 
 unsigned long long	oe3C_G1(short int	c8nY_,long long	PlcHD54ax)	{
@@ -29,7 +29,7 @@ int	VO_qND_2B(short	vtLPEHl5)
 int main()
 {
     short int    Wtr0F;
-    Wtr0F    =    -360821027;
+    Wtr0F    =    (short)-360821027;
 	short int	Dn_ASmb3;
 	Dn_ASmb3	=	(short)1890587808;
  char uOvt;
@@ -39,7 +39,7 @@ int main()
  float f98S5F;
  f98S5F = -1986609495;
 	unsigned short int	D4fRw266;
-	D4fRw266	=	1110920979;
+	D4fRw266	=	(unsigned short)1110920979;
  short bti34p;
  bti34p = (short)-879481841;
 	unsigned long long	LITV;
@@ -51,7 +51,7 @@ int main()
     int    o8ww;
     o8ww    =    -472018130;
  unsigned char BXC_w;
- BXC_w = -579116498;
+ BXC_w = (unsigned char)-579116498;
 	int	DGWEXdl83;
 	DGWEXdl83	=	-156275128;
 	unsigned long	UrH67k00_;
@@ -63,7 +63,7 @@ int main()
  unsigned long long Za4aVHes;
  Za4aVHes = 275895445;
 	char	T9xwl2P06;
-	T9xwl2P06	=	869541928;
+	T9xwl2P06	=	(char)869541928;
 	float	c76R5Sx;
 	c76R5Sx	=	1622629510;
 	int	gFg0bfa22;
@@ -77,7 +77,7 @@ int main()
   unsigned long long  W4rFP6k;
   W4rFP6k  =  -860862510;
  unsigned short int UB1B98TG;
- UB1B98TG = -2071728651;
+ UB1B98TG = (unsigned short)-2071728651;
  char ie1g5uagsL;
  ie1g5uagsL = (char)862613286;
     long double    J2m_7;
@@ -89,7 +89,7 @@ int main()
  double K5IgG3E;
  K5IgG3E = 798808136;
  char qZ91n_;
- qZ91n_ = -76347893;
+ qZ91n_ = (char)-76347893;
     unsigned short    WTigx4;
     WTigx4    =    (unsigned short)-2110102281;
   long double  o8vwC_8aee;
@@ -117,7 +117,7 @@ int main()
 	double	DmM1FDQ6T;
 	DmM1FDQ6T	=	47447968;
 	char	BuQECkR9;
-	BuQECkR9	=	-1370912581;
+	BuQECkR9	=	(char)-1370912581;
   unsigned char  zAoB3;
   zAoB3  =  (unsigned char)-36983849;
  long double iWlx;
@@ -127,7 +127,7 @@ int main()
   long double  o9XM6z;
   o9XM6z  =  126807029;
   unsigned char  Lbuh6ip;
-  Lbuh6ip  =  -144913471;
+  Lbuh6ip  =  (unsigned char)-144913471;
  unsigned char Na_gYq;
  Na_gYq = (unsigned char)-1169807349;
  int QV1_BEvXd;
@@ -157,7 +157,7 @@ int main()
   long  a_5VmY;
   a_5VmY  =  893876504;
  short int zdm98r;
- zdm98r = -1146501537;
+ zdm98r = (short)-1146501537;
   unsigned int  kGSj;
   kGSj  =  -87849025;
  unsigned char FCjc4L;
@@ -173,7 +173,7 @@ int main()
  int xnnR1Qh;
  xnnR1Qh = -1503571020;
 	short int	qac2;
-	qac2	=	-1225950837;
+	qac2	=	(short)-1225950837;
  unsigned int SH342vo91s;
  SH342vo91s = -1421249983;
   unsigned char  dKcH1Ok3Yz;
@@ -183,7 +183,7 @@ int main()
   long long  h6_m1y;
   h6_m1y  =  437435541;
 	unsigned short int	J1HJRzQ;
-	J1HJRzQ	=	-736787567;
+	J1HJRzQ	=	(unsigned short)-736787567;
     double    SHk4f69zOQ;
     SHk4f69zOQ    =    -2106243624;
   long  nW6_r;
@@ -195,7 +195,7 @@ int main()
  long NMNeJ6JHD;
  NMNeJ6JHD = 252400011;
  char X5y4M9hV64;
- X5y4M9hV64 = -1850490939;
+ X5y4M9hV64 = (char)-1850490939;
  double HE3SZ2rZ;
  HE3SZ2rZ = -1024759011;
 	float	ZWa3sP;
@@ -205,7 +205,7 @@ int main()
     unsigned char    qIk4;
     qIk4    =    (unsigned char)-1829942439;
 	unsigned short int	bj6j;
-	bj6j	=	-1466072249;
+	bj6j	=	(unsigned short)-1466072249;
 	short	j_lu;
 	j_lu	=	-1034428563;
  double L5GuhE;
@@ -309,7 +309,7 @@ switch (CeVs6iY4f9)
 {
 case 'a':
 case 'A':
-gFg0bfa22 = VO_qND_2B(842499800);
+gFg0bfa22 = VO_qND_2B((short)842499800);
 break;
 case 'b':
 case 'B':
@@ -452,7 +452,7 @@ int i = 4;
 do
 {
 i--;
-cout << VO_qND_2B(1841265293) << DR_M5bey9h() << oe3C_G1(vp3s8q8t, ZWa3sP) << xsPDC_ << FCjc4L << endl;
+cout << VO_qND_2B((short)1841265293) << DR_M5bey9h() << oe3C_G1(vp3s8q8t, ZWa3sP) << xsPDC_ << FCjc4L << endl;
 }
 while (i >= 0);
 }
@@ -486,7 +486,7 @@ if ((WTigx4 < i7pvh) && ((HK_m >= Wlc91tZ69) && (lu__8WtW & 445943343)))
 DmM1FDQ6T = (int)floor(Zl4G1D1R);
 }
 
-if ((oe3C_G1(vp3s8q8t, -1576816313) / VO_qND_2B(-1732143588)) <= 1841906093)
+if ((oe3C_G1(vp3s8q8t, -1576816313) / VO_qND_2B((short)-1732143588)) <= 1841906093)
 {
 dS4g86zPt = VO_qND_2B(LITV);
 }
@@ -591,7 +591,7 @@ for (int j = 4; j >= 0; j--)
 {
 if (vcMf4_jey == 2134021840)
 {
-LITV = oe3C_G1(-555976076, -326612564);
+LITV = oe3C_G1((short)-555976076, -326612564);
 }
 }
 }

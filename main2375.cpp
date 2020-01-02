@@ -109,7 +109,7 @@ case 2:
 N86w_--;
 break;
 default:
-rao8BD86B = p6Lazq7(-1705368855, -556884993);
+rao8BD86B = p6Lazq7(-1705368855, (unsigned short)-556884993);
 break;
 }
 j++;
@@ -139,7 +139,7 @@ case 4:
 EX7Nb_Ek = p6Lazq7(A8MYG30TvT, ctuOvQ);
 break;
 case 5:
-EX7Nb_Ek = p6Lazq7(1778145873, 1915842553);
+EX7Nb_Ek = p6Lazq7(1778145873, (unsigned short)1915842553);
 break;
 default:
 Ss6E5 += OB3wBoN5;
@@ -238,7 +238,7 @@ return 0;
 }
 
 unsigned char    ZAP3xBWw()    {
-    return    425730723;
+    return    (unsigned char)425730723;
 }
 
 long long p6Lazq7(long long Of2l3_4n7b,unsigned short int AaYNqk)

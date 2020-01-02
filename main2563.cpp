@@ -16,7 +16,7 @@ using std::ceil;
 using std::floor;
 
 short	MNET6W(long	LPfzVgS)	{
-	return	-1849215537;
+	return	(short)-1849215537;
 }
 
 unsigned int	Jk8Ds_W2N(unsigned long long	sPi4,unsigned short	P9aHt2oI6,short int	J35aPq,long long	k86_pdO7,long long	i57Du)
@@ -31,7 +31,7 @@ unsigned long    P0V7FP5T(unsigned long    C6_K,int    WKz_S_7N,char    vnjHZb2Z
 
 int main()
 {
-  char  sbIV182i  =  -1987117872,  vyuC9S99_  =  (char)858950918,  k1mxY6  =  1116573188,  hc9y  =  243344083,  m6MKJm73k  =  2046205519,  wNMnAEBm  =  596910591;
+  char  sbIV182i  =  (char)-1987117872,  vyuC9S99_  =  (char)858950918,  k1mxY6  =  1116573188,  hc9y  =  243344083,  m6MKJm73k  =  2046205519,  wNMnAEBm  =  596910591;
  unsigned short int f82KSY = 0, r4Aw = 0, F8fn3Xu = 0;
 
 cout << MNET6W(sbIV182i) << Jk8Ds_W2N(1947003503, 1579009340, -99916469, hc9y, 410909668) << P0V7FP5T(sbIV182i, vyuC9S99_, k1mxY6, hc9y) << "GE4OcBT" << endl;
@@ -57,7 +57,7 @@ case 1:
 hc9y ^= vyuC9S99_;
 break;
 case 2:
-k1mxY6 = P0V7FP5T(k1mxY6, sbIV182i, vyuC9S99_, 482336480);
+k1mxY6 = P0V7FP5T(k1mxY6, sbIV182i, vyuC9S99_, (unsigned short)482336480);
 break;
 case 3:
 hc9y = P0V7FP5T(1088819699, hc9y, r4Aw, (unsigned short)-1825257270);
@@ -75,7 +75,7 @@ case 7:
 m6MKJm73k -= 1239545822;
 break;
 case 8:
-F8fn3Xu = Jk8Ds_W2N(hc9y, F8fn3Xu, -1645096431, -871607556, 1964697300);
+F8fn3Xu = Jk8Ds_W2N(hc9y, F8fn3Xu, (short)-1645096431, -871607556, 1964697300);
 break;
 default:
 f82KSY = Jk8Ds_W2N(-506203242, (unsigned short)-949928451, sbIV182i, -640835090, r4Aw);
@@ -94,7 +94,7 @@ case 'a':
 vyuC9S99_ *= 1221895499;
 break;
 case 'b':
-hc9y = P0V7FP5T(498960596, -533083859, -1141766654, (unsigned short)-824519633);
+hc9y = P0V7FP5T(498960596, -533083859, (char)-1141766654, (unsigned short)-824519633);
 break;
 case 'c':
 k1mxY6 = hc9y / 2073092150;
@@ -109,7 +109,7 @@ else
 {
 if (vyuC9S99_ <= r4Aw)
 {
-f82KSY = Jk8Ds_W2N(f82KSY, -1990453416, m6MKJm73k, wNMnAEBm, -85411857);
+f82KSY = Jk8Ds_W2N(f82KSY, (unsigned short)-1990453416, m6MKJm73k, wNMnAEBm, -85411857);
 }
 else if (((m6MKJm73k) || (vyuC9S99_)) && ((m6MKJm73k == wNMnAEBm) || (sbIV182i > m6MKJm73k)))
 {
@@ -146,7 +146,7 @@ m6MKJm73k = k1mxY6 * r4Aw;
 switch (hc9y)
 {
 case 'a':
-wNMnAEBm = P0V7FP5T(177117841, 1422357516, -7902682, hc9y);
+wNMnAEBm = P0V7FP5T(177117841, 1422357516, (char)-7902682, hc9y);
 break;
 case 'b':
 vyuC9S99_ = (int)abs(wNMnAEBm);
@@ -158,7 +158,7 @@ case 'd':
 k1mxY6 -= 138285090;
 break;
 case 'e':
-k1mxY6 = P0V7FP5T(k1mxY6, 1072896942, 1273446716, wNMnAEBm);
+k1mxY6 = P0V7FP5T(k1mxY6, 1072896942, (char)1273446716, wNMnAEBm);
 break;
 case 'f':
 m6MKJm73k %= 1791181014;
@@ -171,7 +171,7 @@ break;
 int i = 2;
 do
 {
-r4Aw = Jk8Ds_W2N(-550798157, -526431938, wNMnAEBm, F8fn3Xu, sbIV182i);
+r4Aw = Jk8Ds_W2N(-550798157, (unsigned short)-526431938, wNMnAEBm, F8fn3Xu, sbIV182i);
 --i;
 }
 while (i >= 0);
@@ -185,7 +185,7 @@ do
 {
 if (F8fn3Xu != 923562260)
 {
-f82KSY = Jk8Ds_W2N(f82KSY, 159972447, k1mxY6, m6MKJm73k, F8fn3Xu);
+f82KSY = Jk8Ds_W2N(f82KSY, (unsigned short)159972447, k1mxY6, m6MKJm73k, F8fn3Xu);
 }
 else
 {
@@ -223,7 +223,7 @@ try
 {
 if (((k1mxY6 < h8DZ) && (sbIV182i == t2anL)) && (vyuC9S99_ < wNMnAEBm))
 {
-hc9y = P0V7FP5T(hc9y, -467679916, k1mxY6, 289950823);
+hc9y = P0V7FP5T(hc9y, -467679916, k1mxY6, (unsigned short)289950823);
 }
 }
 catch (int& errorCode)
@@ -250,7 +250,7 @@ case 'C':
 k1mxY6 = (int)abs(hc9y);
 break;
 default:
-vyuC9S99_ = P0V7FP5T(vyuC9S99_, hc9y, -1148892238, k1mxY6);
+vyuC9S99_ = P0V7FP5T(vyuC9S99_, hc9y, (char)-1148892238, k1mxY6);
 break;
 }
 
@@ -269,7 +269,7 @@ k1mxY6++;
 while (j >= 0);
 }
 }
-hc9y = Jk8Ds_W2N(-776040147, 188038674, (short)-1574047595, -1831155305, wNMnAEBm) ^ wNMnAEBm;
+hc9y = Jk8Ds_W2N(-776040147, (unsigned short)188038674, (short)-1574047595, -1831155305, wNMnAEBm) ^ wNMnAEBm;
 try
 {
 switch (m6MKJm73k)
@@ -302,7 +302,7 @@ do
 i--;
 if (m6MKJm73k > t2anL)
 {
-cout << P0V7FP5T(-2138973467, -815151908, wNMnAEBm, -222529451) << wNMnAEBm << MNET6W(-875535030) << hc9y << endl;
+cout << P0V7FP5T(-2138973467, -815151908, wNMnAEBm, (unsigned short)-222529451) << wNMnAEBm << MNET6W(-875535030) << hc9y << endl;
 }
 else
 {
@@ -323,7 +323,7 @@ try
 switch (f82KSY)
 {
 case 'a':
-vyuC9S99_ = P0V7FP5T(vyuC9S99_, F8fn3Xu, 673552182, k1mxY6);
+vyuC9S99_ = P0V7FP5T(vyuC9S99_, F8fn3Xu, (char)673552182, k1mxY6);
 break;
 case 'b':
 hc9y = MNET6W(hc9y);

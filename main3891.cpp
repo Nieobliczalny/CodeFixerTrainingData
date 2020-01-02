@@ -38,7 +38,7 @@ return 0;
 
 short  Y2O0yf(int  G5rzk0n,int  JFmKKP8,unsigned char  tA_4243C)
 {
-  return  1205502376;
+  return  (short)1205502376;
 }
 
 long long	emjSmyQ68s(unsigned int	Wnf6bKBEl)	{
@@ -55,6 +55,6 @@ char X_f14N(unsigned short int a6W372VQ,short int qlK7nHCI) {
 
 unsigned char  wep6WWe(unsigned short  J1JQcD663L,long long  U2a25rL4E,int  wAd04g,short int  v_V2lB5)
 {
-  return  -2032105746;
+  return  (unsigned char)-2032105746;
 }
 

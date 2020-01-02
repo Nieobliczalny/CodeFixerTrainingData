@@ -15,7 +15,7 @@ using namespace std;
 int main(void)
 {
  long double uH572a28 = 427214131;
-    short    GX7X35j3X    =    -475868395;
+    short    GX7X35j3X    =    (short)-475868395;
  short m5X2K = (short)511934661;
   char  xX_2X  =  1859059313;
     unsigned long long    qV8R158S1    =    1261532964;
@@ -26,7 +26,7 @@ int main(void)
     char    Hw5rN21P_    =    1779154420;
   unsigned short int  D7NqG  =  -647333909;
   float  kVxIr  =  -713610527;
-    short    U_xV8    =    -1841953207;
+    short    U_xV8    =    (short)-1841953207;
 	unsigned long long	wwm6ut	=	-285350007;
 	unsigned short int	hMwKT	=	(unsigned short)1486346358;
   int  SF7XM01  =  -1496437873;
@@ -37,7 +37,7 @@ int main(void)
  long U74U_8 = -313543500;
 	short int	D7oeF	=	0;
  long long vuE690 = -1087024753;
-    short int    Q8121MgAk    =    1880493468;
+    short int    Q8121MgAk    =    (short)1880493468;
   short int  uXa_kP8  =  (short)-1610227146;
  int uTwS9v8X = 88155317;
 	short int	w2r1lbN	=	318847955;
@@ -47,7 +47,7 @@ int main(void)
   unsigned char  sj90ah  =  0;
     long long    u4R4    =    2093666783;
     unsigned short int    Y1W4Qu    =    1055531236;
- unsigned short dB5NR = 1778393831;
+ unsigned short dB5NR = (unsigned short)1778393831;
  long long deA_M_m = 1871265102;
   float  H4Ojnj9Lq  =  756510168;
  float khw_prGBMR = 1742878661;
@@ -58,7 +58,7 @@ int main(void)
 	char	Ys3rA7o1ci	=	0;
     unsigned short    K5hFRdy5q    =    6145760;
 	long	g_D5	=	0;
-	char	PpPE	=	1268383299;
+	char	PpPE	=	(char)1268383299;
  unsigned long U2939MDYN = -330463652;
 
 {

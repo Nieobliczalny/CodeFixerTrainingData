@@ -18,7 +18,7 @@ unsigned short int EeMq4S(short int IcF11yl,unsigned char gz0V,unsigned short in
 
 int main(int argc, char** argv) {
 	char	zo0xj,	i_d29Yw,	LNc0P3vk,	pL4uYKg,	IL__1;
-	zo0xj	=	-125354385;
+	zo0xj	=	(char)-125354385;
 	i_d29Yw	=	(char)-1587390815;
 	LNc0P3vk	=	-722396230;
 	pL4uYKg	=	-1681195498;
@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
  q_Ru9hh1wF = 0;
  rjD004Y = 0;
 
-cout << "vyW77l" << EeMq4S(875359709, i_d29Yw, (unsigned short)-1779180432, -105277276, -247340678) << IL__1 << hl6vfh(1541262702) << shZ_0380Y8 << endl;
+cout << "vyW77l" << EeMq4S((short)875359709, i_d29Yw, (unsigned short)-1779180432, -105277276, -247340678) << IL__1 << hl6vfh(1541262702) << shZ_0380Y8 << endl;
 cout << shZ_0380Y8 << IL__1 << BFLt67k << endl;
 
 if (((LNc0P3vk < 217527967) && (shZ_0380Y8 == 1027448346)) && (pL4uYKg))
@@ -57,7 +57,7 @@ int j = 1;
 do
 {
 --j;
-cout << zo0xj << EeMq4S(zo0xj, -1437989236, (unsigned short)-44986556, pL4uYKg, IL__1) << "qL5CRRS_sv" << "bc_78XFNw" << shZ_0380Y8 << endl;
+cout << zo0xj << EeMq4S(zo0xj, (unsigned char)-1437989236, (unsigned short)-44986556, pL4uYKg, IL__1) << "qL5CRRS_sv" << "bc_78XFNw" << shZ_0380Y8 << endl;
 }
 while (j >= 0);
 }
@@ -126,7 +126,7 @@ i_d29Yw = kkpc9C52 & LNc0P3vk;
 
 try
 {
-zo0xj = EeMq4S(441909987, (unsigned char)1306831556, shZ_0380Y8, LNc0P3vk, -1172736476);
+zo0xj = EeMq4S((short)441909987, (unsigned char)1306831556, shZ_0380Y8, LNc0P3vk, -1172736476);
 }
 catch (int& errorCode)
 {
@@ -161,7 +161,7 @@ int k = 5;
 while (k >= 0)
 {
 --k;
-i_d29Yw = d_GO1Rc3(i_d29Yw, shZ_0380Y8, -409132589);
+i_d29Yw = d_GO1Rc3(i_d29Yw, shZ_0380Y8, (short)-409132589);
 }
 }
 }
@@ -192,7 +192,7 @@ case 1:
 LNc0P3vk = zo0xj - 1946478248;
 break;
 case 2:
-i_d29Yw = EeMq4S(-154711484, BFLt67k, (unsigned short)-1993476911, 1258099337, 344766961);
+i_d29Yw = EeMq4S((short)-154711484, BFLt67k, (unsigned short)-1993476911, 1258099337, 344766961);
 break;
 case 3:
 shZ_0380Y8 = hl6vfh(625395348);
@@ -212,7 +212,7 @@ else
 {
 for (int j = 0; j < 8; ++j)
 {
-cout << kkpc9C52 << i_d29Yw << EeMq4S(253642945, rjD004Y, (unsigned short)-1964940868, 1116634005, -408460400) << zo0xj << endl;
+cout << kkpc9C52 << i_d29Yw << EeMq4S((short)253642945, rjD004Y, (unsigned short)-1964940868, 1116634005, -408460400) << zo0xj << endl;
 }
 }
 
@@ -244,7 +244,7 @@ case 0:
 i_d29Yw = pL4uYKg + 1826360153;
 break;
 case 1:
-LNc0P3vk = (kkpc9C52 == -66127149) ? JDn2FNDi(1187246486, i_d29Yw) : -1405312239;
+LNc0P3vk = (kkpc9C52 == -66127149) ? JDn2FNDi(1187246486, i_d29Yw) : (char)-1405312239;
 break;
 default:
 pL4uYKg = JDn2FNDi(2017929770, -50808835);
@@ -329,7 +329,7 @@ i--;
 }
 while (i >= 0);
 }
-zo0xj = EeMq4S(1691099991, zo0xj, (unsigned short)-36946036, 42704010, rjD004Y);
+zo0xj = EeMq4S((short)1691099991, zo0xj, (unsigned short)-36946036, 42704010, rjD004Y);
 
 {
 int i = 0;
@@ -339,7 +339,7 @@ for (int j = 0; j < 10; ++j)
 {
 for (int k = 0; k < 8; ++k)
 {
-zo0xj = EeMq4S(-745958742, (unsigned char)-95535377, 1948259478, -26657282, IL__1);
+zo0xj = EeMq4S((short)-745958742, (unsigned char)-95535377, 1948259478, -26657282, IL__1);
 }
 }
 i++;
@@ -428,7 +428,7 @@ else
 {
 if (BFLt67k < 1335517064)
 {
-cout << "l56PV4O" << d_GO1Rc3(-136293299, LNc0P3vk, kkpc9C52) << pL4uYKg << d_GO1Rc3(zo0xj, LNc0P3vk, kkpc9C52) << endl;
+cout << "l56PV4O" << d_GO1Rc3((unsigned short)-136293299, LNc0P3vk, kkpc9C52) << pL4uYKg << d_GO1Rc3(zo0xj, LNc0P3vk, kkpc9C52) << endl;
 }
 else if ((zo0xj < i_d29Yw) || (q_Ru9hh1wF < -810632331))
 {
@@ -496,7 +496,7 @@ pL4uYKg = d_GO1Rc3(zo0xj, 1899576487, pL4uYKg) ^ LNc0P3vk;
 }
 else
 {
-i_d29Yw = EeMq4S(-1937713355, (unsigned char)37004542, i_d29Yw, shZ_0380Y8, -369566540);
+i_d29Yw = EeMq4S((short)-1937713355, (unsigned char)37004542, i_d29Yw, shZ_0380Y8, -369566540);
 }
 }
 else
@@ -520,7 +520,7 @@ case 0:
 i_d29Yw = zo0xj | IL__1;
 break;
 case 1:
-zo0xj = EeMq4S(rjD004Y, q_Ru9hh1wF, 415222218, kkpc9C52, shZ_0380Y8);
+zo0xj = EeMq4S(rjD004Y, q_Ru9hh1wF, (unsigned short)415222218, kkpc9C52, shZ_0380Y8);
 break;
 case 2:
 zo0xj -= i_d29Yw;
@@ -535,7 +535,7 @@ case 5:
 zo0xj = d_GO1Rc3(zo0xj, LNc0P3vk, i_d29Yw);
 break;
 case 6:
-IL__1 = d_GO1Rc3(zo0xj, 769199178, 2104472340) >> i_d29Yw;
+IL__1 = d_GO1Rc3(zo0xj, 769199178, (short)2104472340) >> i_d29Yw;
 break;
 }
 }
@@ -583,7 +583,7 @@ long long hl6vfh(unsigned int l1p6x)
 
 unsigned short int JDn2FNDi(long vVD6L,long long P6YXBc6q3q)
 {
- return 2087896521;
+ return (unsigned short)2087896521;
 }
 
 unsigned short int EeMq4S(short int IcF11yl,unsigned char gz0V,unsigned short int q8Dd,unsigned short RqgYKfw2b,unsigned long lc3Mds) {

@@ -26,7 +26,7 @@ long    JDuMQ5(long    F_VBXv_2z4);
 
 int main(void) {
  unsigned char i4305w9;
- i4305w9 = -1301141810;
+ i4305w9 = (unsigned char)-1301141810;
   short  m_sXqfP6s;
   m_sXqfP6s  =  (short)776165936;
     long    FI90;
@@ -56,7 +56,7 @@ int main(void) {
  double ld1W;
  ld1W = -605721368;
  unsigned short Khy7Ap;
- Khy7Ap = 586907863;
+ Khy7Ap = (unsigned short)586907863;
  unsigned int DeAF6;
  DeAF6 = 476286422;
   char  ztKG9;
@@ -66,7 +66,7 @@ int main(void) {
 	long	CM4H50;
 	CM4H50	=	31440346;
   unsigned short int  ov_394Kj9_;
-  ov_394Kj9_  =  -720056536;
+  ov_394Kj9_  =  (unsigned short)-720056536;
   short  N3FNBc;
   N3FNBc  =  2063721090;
     short int    A5vNa;
@@ -141,7 +141,7 @@ if (XYxS96hCw == 0)
 
 if (Nz7nT3Rmr <= cMb9)
 {
-kG_T = i7234y9FGZ(1968076699, (short)-105565703);
+kG_T = i7234y9FGZ((unsigned short)1968076699, (short)-105565703);
 }
 else if (((ud6BY_Jb8B > ov_394Kj9_) && (i4305w9 & 1304913237)) || (ud6BY_Jb8B & P_jhk))
 {
@@ -169,7 +169,7 @@ case 'C':
 AVwr = JgK_(AVwr, -1234663679);
 break;
 default:
-P_jhk = JgK_(-1128204643, PVOBwZ);
+P_jhk = JgK_((unsigned char)-1128204643, PVOBwZ);
 break;
 }
 }
@@ -278,7 +278,7 @@ m_sXqfP6s = s8BQOmn >> N3FNBc;
 }
 else if (f6y9 > N3FNBc)
 {
-cout << "b_csf9p5s" << i7234y9FGZ(149433161, (short)598369778) << CJKvd << "o7oQ" << A5vNa << endl;
+cout << "b_csf9p5s" << i7234y9FGZ((unsigned short)149433161, (short)598369778) << CJKvd << "o7oQ" << A5vNa << endl;
 }
 else if ((ztKG9 != FI90) && (FI90 <= P_jhk))
 {
@@ -446,7 +446,7 @@ FI90 = JDuMQ5(FI90);
 }
 else if ((ld1W) || ((AVwr < xYPO0Zf) && (CM4H50 & A5vNa)))
 {
-cout << JgK_(-183690412, Khy7Ap) << endl;
+cout << JgK_((unsigned char)-183690412, Khy7Ap) << endl;
 }
 else
 {
@@ -494,7 +494,7 @@ try
 {
 for (int j = 9; j >= 0; j--)
 {
-cout << "mlNp111" << "hvnMPs" << "ejNhC3XE96" << i7234y9FGZ(-2066413041, (short)874890483) << endl;
+cout << "mlNp111" << "hvnMPs" << "ejNhC3XE96" << i7234y9FGZ((unsigned short)-2066413041, (short)874890483) << endl;
 }
 }
 catch (int& errorCode)
@@ -510,7 +510,7 @@ unsigned char I6S_p1v72()
 }
 
 unsigned short i7234y9FGZ(unsigned short int W2_JFL,short int N__U) {
- return -260642113;
+ return (unsigned short)-260642113;
 }
 
 short int JgK_(unsigned char jGIx1avE,unsigned int wW4dD3DR4)

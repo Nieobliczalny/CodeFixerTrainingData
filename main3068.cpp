@@ -289,6 +289,6 @@ unsigned long long    OW77A2u69(int    AG_5)    {
 
 short int  pGz_w()
 {
-  return  325980939;
+  return  (short)325980939;
 }
 

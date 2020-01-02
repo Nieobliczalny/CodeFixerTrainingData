@@ -263,7 +263,7 @@ if ((g67kL != sJj6) && (K14DC3))
 {
 for (int k = 7; k >= 0; --k)
 {
-C9ale = (C9ale >= Lwjb) ? -598357578 : K14DC3;
+C9ale = (C9ale >= Lwjb) ? (unsigned short)-598357578 : K14DC3;
 }
 }
 else

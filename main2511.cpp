@@ -24,7 +24,7 @@ int main(int argc, char** argv)
 switch (Zui0flb4)
 {
 case 'a':
-R8QHf0A = KY8Kua(855186871, BSejs7TTZ6);
+R8QHf0A = KY8Kua((unsigned char)855186871, BSejs7TTZ6);
 break;
 }
 P2PGnSm9l = pCf4_D_JE & 2057018512;
@@ -42,7 +42,7 @@ Yj547 = KY8Kua(Om11x42, IJX9_5U_);
 switch (O5ebgD2)
 {
 case 0:
-Yj547 = KY8Kua(C6wg0D, -1242522383);
+Yj547 = KY8Kua(C6wg0D, (short)-1242522383);
 break;
 case 1:
 R8QHf0A = KY8Kua(lJHT06qg32, fVKUAlVC);
@@ -55,7 +55,7 @@ switch (BSejs7TTZ6)
 {
 case 'a':
 case 'A':
-R8QHf0A = KY8Kua(1587761823, FBdzp);
+R8QHf0A = KY8Kua((unsigned char)1587761823, FBdzp);
 break;
 default:
 O5ebgD2 = (int)abs(mh9307_M8_) * 0;
@@ -66,7 +66,7 @@ ZKj96g6 = (int)abs(QL9_FTVJ);
 
 if ((vTO5SE1wO > 1583476948) && ((m9xvc3349J >= 1236539395) && (R8QHf0A <= PIaPP9Z_LO)))
 {
-cout << KY8Kua(-184192265, (short)444653391) << KY8Kua(-244151669, FBdzp) << endl;
+cout << KY8Kua((unsigned char)-184192265, (short)444653391) << KY8Kua(-244151669, FBdzp) << endl;
 }
 {
 int i = 0;
@@ -85,7 +85,7 @@ while (j < 4);
 }
 while (i < 3);
 }
-ZKj96g6 = g6h5Xk / KY8Kua(2062699716, FBdzp);
+ZKj96g6 = g6h5Xk / KY8Kua((unsigned char)2062699716, FBdzp);
 
 for (int i = 0; i < 9; i++)
 {
@@ -122,7 +122,7 @@ int k = 0;
 while (k < 3)
 {
 ++k;
-N9JR0T = KY8Kua(410088317, dhASc8_zm) + gKZr59pJ;
+N9JR0T = KY8Kua((unsigned char)410088317, dhASc8_zm) + gKZr59pJ;
 }
 }
 }
@@ -154,7 +154,7 @@ case 'd':
 O5ebgD2 = KY8Kua(gwb1HTR, XC3_6);
 break;
 case 'e':
-nZ4B884 = KY8Kua(-238918687, n4go_NF6);
+nZ4B884 = KY8Kua((unsigned char)-238918687, n4go_NF6);
 break;
 case 'f':
 bIOuR = q4r9X20Y - up_KEPH;
@@ -214,7 +214,7 @@ dl0Q4ls74 = (dhASc8_zm < 1878932301) ? S1vUChud : IJX9_5U_;
 }
 if (((n4go_NF6) && (c3gfqkN)) || ((zm_IW60) || (FBdzp == fzZ67b6)))
 {
-cout << KY8Kua(-1556907311, (short)1905058878) << KY8Kua(fLsYGV, n4go_NF6) << KY8Kua(-517748550, -869810944) << KY8Kua(fLsYGV, n4go_NF6) << c3gfqkN << endl;
+cout << KY8Kua((unsigned char)-1556907311, (short)1905058878) << KY8Kua(fLsYGV, n4go_NF6) << KY8Kua(-517748550, -869810944) << KY8Kua(fLsYGV, n4go_NF6) << c3gfqkN << endl;
 }
 
 cout << "yprw93sa" << l78VA << "kzT0maf5" << "z7gS1F" << KY8Kua(fLsYGV, 1366272774) << endl;
@@ -229,7 +229,7 @@ while (j >= 0)
 j--;
 try
 {
-nZ4B884 = KY8Kua(-1529507626, (short)913267394);
+nZ4B884 = KY8Kua((unsigned char)-1529507626, (short)913267394);
 }
 catch (int& errorCode)
 {
@@ -240,7 +240,7 @@ R8QHf0A = KY8Kua(-1732550143, XC3_6);
 }
 else
 {
-R8QHf0A = KY8Kua(-1234538454, g6h5Xk);
+R8QHf0A = KY8Kua((unsigned char)-1234538454, g6h5Xk);
 }
 
 for (int i = 1; i >= 0; --i)
@@ -283,7 +283,7 @@ int k = 2;
 do
 {
 --k;
-Yj547 = KY8Kua(bIOuR, -1356051127);
+Yj547 = KY8Kua(bIOuR, (short)-1356051127);
 }
 while (k >= 0);
 }
@@ -312,7 +312,7 @@ else
 {
 try
 {
-Yj547 = KY8Kua(-1921252255, vTO5SE1wO);
+Yj547 = KY8Kua((unsigned char)-1921252255, vTO5SE1wO);
 }
 catch (int& errorCode)
 {

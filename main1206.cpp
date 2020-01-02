@@ -43,7 +43,7 @@ int main(void)
     unsigned long long    e42y;
     e42y    =    -1128100661;
  short int dZor;
- dZor = 1502876192;
+ dZor = (short)1502876192;
     unsigned short    PGaU31u_9;
     PGaU31u_9    =    (unsigned short)-977527532;
     long    BJ8044i;
@@ -55,7 +55,7 @@ int main(void)
     char    x5TiRu_;
     x5TiRu_    =    0;
   short  tvAzf8Rk2;
-  tvAzf8Rk2  =  580325767;
+  tvAzf8Rk2  =  (short)580325767;
 	long	n_6M92;
 	n_6M92	=	107710955;
     unsigned long    T3oi0j9k;
@@ -67,7 +67,7 @@ int main(void)
 	long long	jFM4z82r3y;
 	jFM4z82r3y	=	-618699822;
 	char	g3YLS;
-	g3YLS	=	-1235612641;
+	g3YLS	=	(char)-1235612641;
   unsigned int  G6N25Q811;
   G6N25Q811  =  211140312;
   long long  pq8p_IAe6L;
@@ -79,7 +79,7 @@ int main(void)
     long long    bVMHTRH_K;
     bVMHTRH_K    =    123973979;
 	short int	jBB97;
-	jBB97	=	-1238925413;
+	jBB97	=	(short)-1238925413;
  unsigned long long oH1x0jf;
  oH1x0jf = 0;
     short    lnBgMP5kh;
@@ -91,7 +91,7 @@ int main(void)
 	long double	xHLk_EI16p;
 	xHLk_EI16p	=	-1890105984;
   unsigned short  fOO5kzE;
-  fOO5kzE  =  1886916903;
+  fOO5kzE  =  (unsigned short)1886916903;
   unsigned long long  d3O7B;
   d3O7B  =  -1429767849;
   short  e__o;
@@ -142,7 +142,7 @@ tvAzf8Rk2--;
 break;
 case 'd':
 case 'D':
-x5TiRu_ = Jj60H(dZor, 1285291362, 616352125);
+x5TiRu_ = Jj60H(dZor, 1285291362, (unsigned short)616352125);
 break;
 case 'e':
 case 'E':

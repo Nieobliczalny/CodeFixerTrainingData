@@ -23,7 +23,7 @@ int main(void)
   long long  XrmSd;
   XrmSd  =  936427373;
     short    f7TqTK;
-    f7TqTK    =    -1021927655;
+    f7TqTK    =    (short)-1021927655;
   double  aTqGNKrGh;
   aTqGNKrGh  =  182563977;
  unsigned char ec7qzNYE6u;
@@ -41,7 +41,7 @@ int main(void)
     unsigned int    pu4D2D8_3e;
     pu4D2D8_3e    =    -467481854;
     short int    a4cc;
-    a4cc    =    432166024;
+    a4cc    =    (short)432166024;
 	short	kPL0f9xdZy;
 	kPL0f9xdZy	=	(short)-1286614231;
 	unsigned short	DpYivFkO8;
@@ -51,7 +51,7 @@ int main(void)
 	unsigned long long	T8ptQS4;
 	T8ptQS4	=	-87779419;
     unsigned short int    BZ_fc;
-    BZ_fc    =    -482425032;
+    BZ_fc    =    (unsigned short)-482425032;
     char    oe2kr;
     oe2kr    =    (char)-1029098979;
     long    c05TCgVG3;
@@ -67,7 +67,7 @@ int main(void)
  unsigned short int SW48_;
  SW48_ = 0;
 	char	tiu_GCxy7t;
-	tiu_GCxy7t	=	1496295193;
+	tiu_GCxy7t	=	(char)1496295193;
     unsigned short    sS3958j;
     sS3958j    =    (unsigned short)-978815821;
   unsigned int  A6_mcv;
@@ -87,7 +87,7 @@ int main(void)
 	unsigned long	KmXX;
 	KmXX	=	0;
 	short int	WnR41;
-	WnR41	=	1848682788;
+	WnR41	=	(short)1848682788;
 	char	a3L0VJU;
 	a3L0VJU	=	0;
     unsigned long    k_1_MuA0f;
@@ -127,7 +127,7 @@ zJg8 %= 1695904781;
 }
 else
 {
-KmXX = P8trmPn4(1755133436);
+KmXX = P8trmPn4((unsigned short)1755133436);
 }
 }
 if (oe2kr & -1976221484)
@@ -205,7 +205,7 @@ T8ptQS4 = WnR41 | c05TCgVG3;
 break;
 case 'c':
 case 'C':
-KmXX = P8trmPn4(-745294665);
+KmXX = P8trmPn4((unsigned short)-745294665);
 break;
 case 'd':
 case 'D':
@@ -338,7 +338,7 @@ switch (T8ptQS4)
 {
 case 'a':
 case 'A':
-LyF1TBE__0 = P8trmPn4(-737021530);
+LyF1TBE__0 = P8trmPn4((unsigned short)-737021530);
 break;
 case 'b':
 case 'B':
@@ -425,7 +425,7 @@ case 4:
 ga3g0d = u_08lD_a(ga3g0d, GfBpGjJ, SW48_, 845803540);
 break;
 case 5:
-SW48_ = P8trmPn4(1380883341);
+SW48_ = P8trmPn4((unsigned short)1380883341);
 break;
 case 6:
 jg27SSzBy6 = P8trmPn4((unsigned short)-1734716270) - 4367408;
@@ -446,6 +446,6 @@ unsigned long    EAQu9c9()
 
 short u_08lD_a(int TCf2x77b,unsigned long C5RL8,long long nqD71MT,unsigned long U5Gni_r)
 {
- return 1489585030;
+ return (short)1489585030;
 }
 

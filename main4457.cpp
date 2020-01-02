@@ -18,7 +18,7 @@ int main(void) {
 	short int	C_p_u4UT0z;
 	C_p_u4UT0z	=	0;
   unsigned short int  w4t2V7;
-  w4t2V7  =  2005097073;
+  w4t2V7  =  (unsigned short)2005097073;
   long  rwo2_;
   rwo2_  =  1281995957;
     long    hxw_Gvw5;
@@ -45,7 +45,7 @@ znU5 %= 1664625025;
 }
 else if (rHcY >= C_p_u4UT0z)
 {
-w4t2V7 = (znU5 & 2037245926) ? 194840101 : C_p_u4UT0z;
+w4t2V7 = (znU5 & 2037245926) ? (unsigned short)194840101 : C_p_u4UT0z;
 }
 else if (w4t2V7 < -519067166)
 {

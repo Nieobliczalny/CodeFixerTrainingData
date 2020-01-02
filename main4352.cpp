@@ -17,7 +17,7 @@ int main(int argc, char** argv)
 	long double	pBx9Vg9e85;
 	pBx9Vg9e85	=	899581404;
     unsigned char    Tc0rg2qE;
-    Tc0rg2qE    =    -1055886583;
+    Tc0rg2qE    =    (unsigned char)-1055886583;
   long double  s5l4L;
   s5l4L  =  1951071376;
   unsigned short  mA9Q;
@@ -27,7 +27,7 @@ int main(int argc, char** argv)
   long  E2IDUOy8;
   E2IDUOy8  =  -591586515;
     short    bF1uz2QKcO;
-    bF1uz2QKcO    =    606616512;
+    bF1uz2QKcO    =    (short)606616512;
  unsigned char YEwnG1cc;
  YEwnG1cc = -804274082;
     unsigned short    A09q;
@@ -349,7 +349,7 @@ case 4:
 d3b_NCI3 |= A09q;
 break;
 case 5:
-bF1uz2QKcO = (YEwnG1cc & 1815827318) ? -1873017855 : YEwnG1cc;
+bF1uz2QKcO = (YEwnG1cc & 1815827318) ? (short)-1873017855 : YEwnG1cc;
 break;
 case 6:
 pBx9Vg9e85 = (int)ceil(s5l4L);

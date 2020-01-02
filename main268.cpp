@@ -18,7 +18,7 @@ using std::floor;
 
 short int Kd7Og(long TEvsR)
 {
- return -1041685901;
+ return (short)-1041685901;
 }
 
 long    o8C5hs45d(long long    JDWIe5KK3,long    fdZzUY7wx,char    h4oTU57qQ,int    Sr9A2vn)
@@ -33,7 +33,7 @@ long long    m1_9Ah4(unsigned char    T_835,int    NmUQ6a9,unsigned short int   
 int main(void)
 {
     short    p_9P,    RD6t1oX3u,    iNApN77Ik,    IPEts1lc2,    YAE8v5k,    c6_x079KV,    II_TZS,    B6bYq4Mx;
-    p_9P    =    1910631891;
+    p_9P    =    (short)1910631891;
     RD6t1oX3u    =    (short)-1749437589;
     iNApN77Ik    =    811804625;
     IPEts1lc2    =    1997120141;
@@ -58,7 +58,7 @@ int i = 0;
 while (i < 9)
 {
 i++;
-std::cout << "O64T7O1l_" << "hruP" << Kd7Og(198486095) << m1_9Ah4(p_9P, RD6t1oX3u, -923855654) << std::endl;
+std::cout << "O64T7O1l_" << "hruP" << Kd7Og(198486095) << m1_9Ah4(p_9P, RD6t1oX3u, (unsigned short)-923855654) << std::endl;
 }
 }
 
@@ -155,7 +155,7 @@ case 2:
 B6bYq4Mx = p_9P - II_TZS;
 break;
 case 3:
-p_9P = o8C5hs45d(p_9P, -653368001, 594677402, -120472309);
+p_9P = o8C5hs45d(p_9P, -653368001, (char)594677402, -120472309);
 break;
 case 4:
 II_TZS &= IPEts1lc2;
@@ -243,7 +243,7 @@ do
 j--;
 try
 {
-II_TZS = (c6_x079KV & 575756833) ? p_9P : 1850781411;
+II_TZS = (c6_x079KV & 575756833) ? p_9P : (short)1850781411;
 }
 catch (int& errorCode)
 {
@@ -305,7 +305,7 @@ case 'a':
 YAE8v5k--;
 break;
 case 'b':
-tPYpuq = m1_9Ah4(tPYpuq, -1831682717, -734738942);
+tPYpuq = m1_9Ah4(tPYpuq, -1831682717, (unsigned short)-734738942);
 break;
 case 'c':
 RD6t1oX3u = (int)abs(c6_x079KV);
@@ -349,7 +349,7 @@ case 0:
 YAE8v5k = ZuGMU_uhz ^ RD6t1oX3u;
 break;
 case 1:
-c6_x079KV = o8C5hs45d(c6_x079KV, II_TZS, -1981784820, -136078486);
+c6_x079KV = o8C5hs45d(c6_x079KV, II_TZS, (char)-1981784820, -136078486);
 break;
 case 2:
 ZuGMU_uhz = m1_9Ah4(c6_x079KV, IPEts1lc2, (unsigned short)2107175483);
@@ -364,7 +364,7 @@ case 5:
 II_TZS -= 1635466758;
 break;
 case 6:
-B6bYq4Mx = o8C5hs45d(-372161414, B6bYq4Mx, 304603417, 874499318);
+B6bYq4Mx = o8C5hs45d(-372161414, B6bYq4Mx, (char)304603417, 874499318);
 break;
 case 7:
 II_TZS -= 929565353;
@@ -496,7 +496,7 @@ case 1:
 p_9P = (int)abs(tPYpuq) + (-923729439);
 break;
 case 2:
-tPYpuq = m1_9Ah4(c6_x079KV, -1227141915, -1013242484);
+tPYpuq = m1_9Ah4(c6_x079KV, -1227141915, (unsigned short)-1013242484);
 break;
 case 3:
 iNApN77Ik = o8C5hs45d(1362907889, -1370717869, p_9P, ZuGMU_uhz);
@@ -573,7 +573,7 @@ switch (c6_x079KV)
 {
 case 'a':
 case 'A':
-ZuGMU_uhz = m1_9Ah4(1958964278, p_9P, c6_x079KV);
+ZuGMU_uhz = m1_9Ah4((unsigned char)1958964278, p_9P, c6_x079KV);
 break;
 case 'b':
 case 'B':
@@ -601,7 +601,7 @@ RD6t1oX3u = (int)abs(YAE8v5k);
 break;
 case 'h':
 case 'H':
-tPYpuq = m1_9Ah4(1269277524, 1499801686, II_TZS);
+tPYpuq = m1_9Ah4((unsigned char)1269277524, 1499801686, II_TZS);
 break;
 }
 }
@@ -677,7 +677,7 @@ if (B6bYq4Mx != -1663266535)
 {
 try
 {
-RD6t1oX3u = o8C5hs45d(1347094640, ZuGMU_uhz, 1817416203, 1771574396);
+RD6t1oX3u = o8C5hs45d(1347094640, ZuGMU_uhz, (char)1817416203, 1771574396);
 }
 catch (int& errorCode)
 {

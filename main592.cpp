@@ -30,7 +30,7 @@ Rd1SSN0Z = O43Oy / 473075883;
 break;
 case 'b':
 case 'B':
-a7V8djxvR2 = rznqw(462670129, -173617572, A2FhMO, -19330199);
+a7V8djxvR2 = rznqw((unsigned short)462670129, -173617572, A2FhMO, -19330199);
 break;
 case 'c':
 case 'C':
@@ -45,7 +45,7 @@ case 'E':
 xG01--;
 break;
 default:
-s842Y = rznqw(hK4bs3, 1710727350, 267972759, -762554279);
+s842Y = rznqw(hK4bs3, 1710727350, (char)267972759, -762554279);
 break;
 }
 }
@@ -59,7 +59,7 @@ int i = 5;
 while (i >= 0)
 {
 i--;
-Rd1SSN0Z = rznqw(-2118907895, O43Oy, (char)1702430094, xZVhpLV9h);
+Rd1SSN0Z = rznqw((unsigned short)-2118907895, O43Oy, (char)1702430094, xZVhpLV9h);
 }
 }
 

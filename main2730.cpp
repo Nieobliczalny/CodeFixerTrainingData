@@ -11,7 +11,7 @@ unsigned long	a5PhMw926N();
 
 int main(void) {
     unsigned char    MAo1l9,    hEb7D4S,    ygrv6M,    Dc_8,    WqB_Y8fUC,    nYjXn,    VwFeAxfleN,    B1Js,    B1xL9Ne,    Y55S,    q885d,    I11n4r94V,    R4671e5A_,    l6eDEE923,    X8Z31S,    o_k_Bufsr8,    X7_HY0,    lZsr4P7,    ur08y91L,    G8K71Q1L4,    UCXC8,    xseJMs9,    eNcmg;
-    MAo1l9    =    -1776334712;
+    MAo1l9    =    (unsigned char)-1776334712;
     hEb7D4S    =    (unsigned char)-1826656493;
     ygrv6M    =    -10105254;
     Dc_8    =    1613675144;
@@ -21,7 +21,7 @@ int main(void) {
     B1Js    =    476910071;
     B1xL9Ne    =    -4127823;
     Y55S    =    1572412539;
-    q885d    =    -159556982;
+    q885d    =    (unsigned char)-159556982;
     I11n4r94V    =    (unsigned char)555695490;
     R4671e5A_    =    1524828782;
     l6eDEE923    =    1648990736;
@@ -31,7 +31,7 @@ int main(void) {
     lZsr4P7    =    633978616;
     ur08y91L    =    1000231427;
     G8K71Q1L4    =    1392081564;
-    UCXC8    =    -2039302577;
+    UCXC8    =    (unsigned char)-2039302577;
     xseJMs9    =    (unsigned char)-653068971;
     eNcmg    =    1566507589;
   long long  mF78;
@@ -85,7 +85,7 @@ case 4:
 q885d = hEb7D4S >> 1582959442;
 break;
 case 5:
-ygrv6M = (eNcmg) ? 2138395577 : (unsigned char)-443886320;
+ygrv6M = (eNcmg) ? (unsigned char)2138395577 : (unsigned char)-443886320;
 break;
 case 6:
 mF78 = a5PhMw926N();

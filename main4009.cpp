@@ -96,7 +96,7 @@ case 0:
 Nsd3eB5 = TKNv__AST3();
 break;
 case 1:
-m9osW8 = d1sNVruVW(-1128782968, oi5cCI, luDLzo54d, X464_GMi7F);
+m9osW8 = d1sNVruVW((unsigned char)-1128782968, oi5cCI, luDLzo54d, X464_GMi7F);
 break;
 case 2:
 Qgl0kIodb = X464_GMi7F >> 1286886556;
@@ -125,7 +125,7 @@ else
 {
 try
 {
-gBWac6147 = YgTdJH(770394589, m9osW8, h1Uu8z67, (unsigned short)-1951631778);
+gBWac6147 = YgTdJH((short)770394589, m9osW8, h1Uu8z67, (unsigned short)-1951631778);
 }
 catch (int& errorCode)
 {
@@ -151,7 +151,7 @@ Qgl0kIodb = OKixq ^ d6e_JpI;
 }
 else if (((cm4_VssLY) && (luDLzo54d == 851639861)) || (xBoF & -1241363073))
 {
-NTg8 = YgTdJH(-69748660, 1242300784, tNBL6, (unsigned short)800658352) ^ 1105275138;
+NTg8 = YgTdJH((short)-69748660, 1242300784, tNBL6, (unsigned short)800658352) ^ 1105275138;
 }
 else
 {
@@ -167,7 +167,7 @@ else if (oi5cCI != -301912332)
 {
 if (Qgl0kIodb == bXtH)
 {
-vgQ70 = YgTdJH(-591314520, -1084273941, h1Uu8z67, (unsigned short)-169374458);
+vgQ70 = YgTdJH((short)-591314520, -1084273941, h1Uu8z67, (unsigned short)-169374458);
 }
 }
 else if ((cm4_VssLY > -1067139730) || (o76493B_3 != 13258403))
@@ -203,7 +203,7 @@ case 'b':
 NTg8 = eG4nHQ63Z4 | d6e_JpI;
 break;
 case 'c':
-oi5cCI = YgTdJH(oi5cCI, -851056785, l30RH, -466522439);
+oi5cCI = YgTdJH(oi5cCI, -851056785, l30RH, (unsigned short)-466522439);
 break;
 case 'd':
 xBoF = D1WmAz4l | ERw_65;
@@ -248,7 +248,7 @@ int k = 0;
 do
 {
 ++k;
-oi5cCI = YgTdJH(1676761935, 1124169306, ERw_65, tNBL6);
+oi5cCI = YgTdJH((short)1676761935, 1124169306, ERw_65, tNBL6);
 }
 while (k < 2);
 }
@@ -450,7 +450,7 @@ case 1:
 ERw_65 = bXtH << 710594625;
 break;
 case 2:
-l30RH = YgTdJH(236034805, 1896715832, X464_GMi7F, gBWac6147);
+l30RH = YgTdJH((short)236034805, 1896715832, X464_GMi7F, gBWac6147);
 break;
 case 3:
 m9osW8 = YgTdJH(m9osW8, D1WmAz4l, Lnyh9nM, (unsigned short)-1404433217);
@@ -499,7 +499,7 @@ unsigned long  d1sNVruVW(unsigned char  vsdzifXP8,long  jwUoLCg,unsigned short i
 
 short int  Lb6XNbWi(long  W1fk8f,unsigned int  MgAk)
 {
-  return  -915143774;
+  return  (short)-915143774;
 }
 
 int  YgTdJH(short  yjL7m,long  a6LEFPKg,unsigned int  fm6u5x53Z3,unsigned short int  S5pG0w43bu)  {

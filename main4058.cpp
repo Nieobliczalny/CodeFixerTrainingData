@@ -52,7 +52,7 @@ catch (int& errorCode)
 C229 = (int)abs(NdeIgg90);
 }
 
-aR0ai8 = eu_qlje0(714686333);
+aR0ai8 = eu_qlje0((unsigned short)714686333);
 if (pUY20w > 1199471009)
 {
 if (E4zUBe != oAPaguL4F)
@@ -78,7 +78,7 @@ VY4xZ_ = (int)abs(E4zUBe);
 }
 else
 {
-Ee7nGSpQ1 = eu_qlje0(1407708978) % zD13OjN;
+Ee7nGSpQ1 = eu_qlje0((unsigned short)1407708978) % zD13OjN;
 }
 for (int i = 4; i >= 0; i--)
 {
@@ -124,7 +124,7 @@ pUY20w &= E_DB3j_om;
 break;
 case 'g':
 case 'G':
-fV97h_gxcA = eu_qlje0(1869719758);
+fV97h_gxcA = eu_qlje0((unsigned short)1869719758);
 break;
 case 'h':
 case 'H':
@@ -134,7 +134,7 @@ break;
 }
 else
 {
-fV97h_gxcA = eu_qlje0(865056981);
+fV97h_gxcA = eu_qlje0((unsigned short)865056981);
 }
 
 for (int i = 0; i < 6; ++i)

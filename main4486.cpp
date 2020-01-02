@@ -10,7 +10,7 @@
 
 char	rhs2W5WBT(unsigned int	awQdG)
 {
-	return	-1749345926;
+	return	(char)-1749345926;
 }
 
 unsigned long long	VM0t5(unsigned char	K_qD,unsigned long	mJcCt06A0p)	{
@@ -33,7 +33,7 @@ int main(int argc, char** argv)
 	double	MUgI	=	2117878200;
  unsigned long long hq0F = -590488352;
  float B_glkznXS = -817752117;
-    short    d4M11O7z    =    1886631022;
+    short    d4M11O7z    =    (short)1886631022;
  long long KtC2ue = 1721793636;
  double Tslc = 830995729;
   float  P_btF  =  436379370;
@@ -43,7 +43,7 @@ int main(int argc, char** argv)
  unsigned char C5y804D47 = (unsigned char)-311443144;
   unsigned short int  yPR1o_Dv86  =  -835301675;
  long long d7AWh0s = -787719918;
-	short int	qrZZxw	=	817344566;
+	short int	qrZZxw	=	(short)817344566;
 	char	T96R352	=	1314954292;
  unsigned int cH__tP8IW = 0;
  double Gh2_SwN2h9 = -196850712;
@@ -54,7 +54,7 @@ int main(int argc, char** argv)
     float    z0a_nB6_id    =    2070077769;
 	int	OIAW7JbH	=	246884425;
     unsigned int    WyJ9216    =    -1695539724;
- short int cpHZzXQp2 = -1197457075;
+ short int cpHZzXQp2 = (short)-1197457075;
  unsigned char EAboCmsjl = (unsigned char)730769061;
     int    b_9_7weY    =    906873739;
     unsigned long long    Pab6T    =    -992313097;
@@ -64,7 +64,7 @@ int main(int argc, char** argv)
     int    Btj0OK    =    76478205;
   char  nWU4Tr3J  =  -607732651;
     unsigned long    C2WVr    =    -561463872;
-  short  XcfPrtOKNs  =  822868785;
+  short  XcfPrtOKNs  =  (short)822868785;
  long PDP6 = 474752504;
     int    l5M_    =    -1886102075;
  double NFxBg61_ = -1308649641;
@@ -75,7 +75,7 @@ int main(int argc, char** argv)
 	long	R48rZL	=	185396757;
 	unsigned char	k_su8ADp	=	673228962;
     float    D36OmOCQ1    =    -1232200915;
-	unsigned short int	g2rknB7H	=	-823513567;
+	unsigned short int	g2rknB7H	=	(unsigned short)-823513567;
 	float	ge7jz	=	1892174410;
     unsigned short    Zvp6351    =    -1261042493;
  char llG98r = 1641167768;
@@ -85,7 +85,7 @@ int main(int argc, char** argv)
     long double    OOXoDcDXw    =    -1607233813;
 	unsigned char	UC0s	=	(unsigned char)695124900;
   unsigned char  U215Xpx  =  -338320018;
-    short int    d_P4nc    =    -1362008576;
+    short int    d_P4nc    =    (short)-1362008576;
 
 QqRfl = VM0t5(-373477728, 120010369);
 {
@@ -164,7 +164,7 @@ case 2:
 Tslc /= 948251889;
 break;
 case 3:
-cH__tP8IW = VM0t5(-606554234, -456222183);
+cH__tP8IW = VM0t5((unsigned char)-606554234, -456222183);
 break;
 case 4:
 nWU4Tr3J /= V4Z4;
@@ -337,7 +337,7 @@ C5y804D47 = WyJ9216 & Btj0OK;
 break;
 case 'g':
 case 'G':
-cH__tP8IW = VM0t5(-1923089683, yPR1o_Dv86);
+cH__tP8IW = VM0t5((unsigned char)-1923089683, yPR1o_Dv86);
 break;
 case 'h':
 case 'H':
@@ -376,7 +376,7 @@ U215Xpx = lp_W9u84dT(-1251729121);
 break;
 case 'b':
 case 'B':
-QqRfl = VM0t5(-626382296, -1603342446);
+QqRfl = VM0t5((unsigned char)-626382296, -1603342446);
 break;
 case 'c':
 case 'C':
@@ -510,7 +510,7 @@ u_Fs = rhs2W5WBT(u_Fs);
 break;
 case 'g':
 case 'G':
-cH__tP8IW = VM0t5(-131364715, U03Z);
+cH__tP8IW = VM0t5((unsigned char)-131364715, U03Z);
 break;
 case 'h':
 case 'H':
@@ -688,7 +688,7 @@ for (int i = 2; i >= 0; --i)
 z0a_nB6_id = (int)ceil(OOXoDcDXw);
 }
 
-std::cout << "hNaoUA1NMS" << lp_W9u84dT(1341815697) << "dhqGA" << cpHZzXQp2 << VM0t5(1046573354, -1650694689) << std::endl;
+std::cout << "hNaoUA1NMS" << lp_W9u84dT(1341815697) << "dhqGA" << cpHZzXQp2 << VM0t5((unsigned char)1046573354, -1650694689) << std::endl;
 llG98r++;
 
 {
@@ -710,7 +710,7 @@ case 3:
 P_btF = (int)ceil(ge7jz);
 break;
 case 4:
-cH__tP8IW = VM0t5(-1392988925, KtC2ue);
+cH__tP8IW = VM0t5((unsigned char)-1392988925, KtC2ue);
 break;
 case 5:
 Oq2jOl = (int)abs(b_9_7weY);
@@ -872,7 +872,7 @@ else
 {
 if (U215Xpx)
 {
-QqRfl = VM0t5(1229067682, NFxBg61_);
+QqRfl = VM0t5((unsigned char)1229067682, NFxBg61_);
 }
 else if (b_9_7weY)
 {
@@ -933,7 +933,7 @@ Kz0706 = lp_W9u84dT(Kz0706);
 }
 else if (llG98r & U16IF4dIwP)
 {
-cH__tP8IW = VM0t5(-1144425671, IsRY6Oz4);
+cH__tP8IW = VM0t5((unsigned char)-1144425671, IsRY6Oz4);
 }
 else if (C2WVr & Q6e8c_)
 {
@@ -988,7 +988,7 @@ if (Q6e8c_ >= 923372356)
 {
 if (RC70)
 {
-cH__tP8IW = VM0t5(1116710935, C5y804D47);
+cH__tP8IW = VM0t5((unsigned char)1116710935, C5y804D47);
 }
 else if ((U215Xpx & 887571525) && ((hK_oeAA == U215Xpx) && (d_P4nc >= Q6CG5)))
 {

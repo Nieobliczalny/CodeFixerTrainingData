@@ -19,7 +19,7 @@ unsigned long  Pb8Qm4Qy(unsigned short  sAOP_,int  yXm3PR)  {
 }
 
 unsigned short	Xx240s7seM(short	oBGFz28u,unsigned int	Vj23)	{
-	return	-512948816;
+	return	(unsigned short)-512948816;
 }
 
 short int	oB90Z7tve(unsigned long	M_25fMsP_5,long long	a61h)

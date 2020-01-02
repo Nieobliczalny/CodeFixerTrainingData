@@ -19,7 +19,7 @@ int    n49rgoF(unsigned long    u_dyjvJqh,unsigned short int    N_7H,int    n11T
 
 unsigned short  KhxnrG(int  DO176B5XiX)
 {
-  return  1805954336;
+  return  (unsigned short)1805954336;
 }
 
 long sQ3fRaPu(char MN3I085G,long ihcSxr,short Bv4A2R6__) {
@@ -118,7 +118,7 @@ while (j < 5)
 {
 if (J_mk3zqcji < SlLRPq)
 {
-TG8C5SX = AdXoBL(-922910440, -259222478);
+TG8C5SX = AdXoBL((unsigned short)-922910440, -259222478);
 }
 ++j;
 }
@@ -181,7 +181,7 @@ break;
 
 Prc23z9 = (long)(JOM1 * Prc23z9);
 TG8C5SX = (float)(q2449);
-Z8wply = FDqlD5Z5t_(-352860098, -1036071559, CytCL84b, JOM1, -223386022);
+Z8wply = FDqlD5Z5t_(-352860098, (char)-1036071559, CytCL84b, JOM1, -223386022);
 
 {
 int i = 0;
@@ -210,7 +210,7 @@ while (i < 10);
 TG8C5SX = j74B6v3n / Z8wply;
 CytCL84b = (int)abs(xDKU);
 
-std::cout << l9Pr_VR8T << AdXoBL(-406033969, J_mk3zqcji) << "l0uS7" << Z8wply << "Kl66_Kdv" << std::endl;
+std::cout << l9Pr_VR8T << AdXoBL((unsigned short)-406033969, J_mk3zqcji) << "l0uS7" << Z8wply << "Kl66_Kdv" << std::endl;
 
 JOM1 = (float)(SlLRPq);
 
@@ -251,7 +251,7 @@ while (j >= 0)
 int k = 5;
 while (k >= 0)
 {
-xDKU = AdXoBL(1256815975, -255320558);
+xDKU = AdXoBL((unsigned short)1256815975, -255320558);
 --k;
 }
 }

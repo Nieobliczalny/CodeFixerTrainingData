@@ -50,7 +50,7 @@ IPmCb = J8s9IIG >> Qt672WiFM1;
 }
 else
 {
-U6q7ytR8 = f09EwVw(387444114);
+U6q7ytR8 = f09EwVw((short)387444114);
 }
 }
 else if (CRM32XJ0E != 609848496)
@@ -65,7 +65,7 @@ KxzA = (EUF8ST1 >= J8s9IIG) ? IPmCb : 5876022;
 }
 else if (rgA058ev == -1748613712)
 {
-U6q7ytR8 = f09EwVw(1188790351);
+U6q7ytR8 = f09EwVw((short)1188790351);
 }
 else
 {
@@ -76,7 +76,7 @@ else
 {
 if (E6O_ < UFZ46mN)
 {
-Y9e5 = rKA42t1q(-1198709588, -557979694);
+Y9e5 = rKA42t1q((unsigned short)-1198709588, -557979694);
 }
 else
 {
@@ -100,7 +100,7 @@ case 'd':
 U6q7ytR8 = f09EwVw(j1mVT6_Mj);
 break;
 case 'e':
-AHC029Vd = f09EwVw(-798445116);
+AHC029Vd = f09EwVw((short)-798445116);
 break;
 }
 if (O541 > E6O_)
@@ -147,7 +147,7 @@ else
 switch (CVRk2r6u_)
 {
 case 0:
-sXVz = rKA42t1q(-1064214964, VJ2r0);
+sXVz = rKA42t1q((unsigned short)-1064214964, VJ2r0);
 break;
 case 1:
 U41E = rKA42t1q((unsigned short)-1566090023, 862956281) / j1mVT6_Mj;
@@ -174,7 +174,7 @@ while (i >= 0)
 {
 try
 {
-std::cout << rKA42t1q(-1921739450, -388788796) << vokPL << f09EwVw(Su95PrP) << std::endl;
+std::cout << rKA42t1q((unsigned short)-1921739450, -388788796) << vokPL << f09EwVw(Su95PrP) << std::endl;
 }
 catch (int& errorCode)
 {
@@ -262,7 +262,7 @@ while (j >= 0);
 }
 else if (CUUjpNOAa2 == s2680)
 {
-TfkNNh2 = f09EwVw(-122296178);
+TfkNNh2 = f09EwVw((short)-122296178);
 }
 else if (Y2f37no <= LJQ5)
 {
@@ -277,7 +277,7 @@ PKG7I0fmX1 *= 1740320394;
 }
 else if (n_OGN & LJQ5)
 {
-std::cout << sXVz << f09EwVw(-1449244875) << "d1uSR" << ySR1875_ << std::endl;
+std::cout << sXVz << f09EwVw((short)-1449244875) << "d1uSR" << ySR1875_ << std::endl;
 }
 else
 {
@@ -293,6 +293,6 @@ unsigned short int    f09EwVw(short    L51z)
 }
 
 unsigned short rKA42t1q(unsigned short int LCkXJwiGC,unsigned long long k3s_) {
- return 498900695;
+ return (unsigned short)498900695;
 }
 

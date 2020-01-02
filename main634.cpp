@@ -82,7 +82,7 @@ case 'b':
 cCl_Nz3 = U3g5();
 break;
 case 'c':
-OaLL = CBE1KT(-1025807550, -1490976568, -1785680448, NPWM34C);
+OaLL = CBE1KT((short)-1025807550, -1490976568, -1785680448, NPWM34C);
 break;
 case 'd':
 rO0TA = z32MC(rO0TA, -1887087623);
@@ -95,7 +95,7 @@ NPWM34C = z32MC(NPWM34C, RV8O);
 break;
 }
 Jw1t_RMgxc = (unsigned long long)(f5cT);
-c8igu945J = CBE1KT(-901227994, 737594064, 1398115280, m24ZeCU);
+c8igu945J = CBE1KT((short)-901227994, 737594064, 1398115280, m24ZeCU);
 for (int i = 0; i < 8; ++i)
 {
 ZUs0g0YcFa++;
@@ -113,6 +113,6 @@ long long	CBE1KT(short int	X4_o8P_lb,unsigned long	u3G_9_10wj,unsigned long	b_b_
 
 unsigned char z32MC(unsigned long long eQW3_J6B0,unsigned int ADN67g)
 {
- return -992976184;
+ return (unsigned char)-992976184;
 }
 

@@ -23,7 +23,7 @@ for (int i = 7; i >= 0; i--)
 {
 e0l30_4k7 = (int)abs(o1eb59n);
 }
-Y5D_57gC = (pA2a6 >= 647755590) ? wYE65 : -257981303;
+Y5D_57gC = (pA2a6 >= 647755590) ? wYE65 : (short)-257981303;
 
 UJ_4w = (short int)(yeKaWed0);
 

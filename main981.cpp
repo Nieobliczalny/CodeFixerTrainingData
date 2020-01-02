@@ -62,7 +62,7 @@ case 7:
 pJ5DDI = p8kphiV80 + 458180472;
 break;
 case 8:
-I65e = (YY8Wu > cuKY7) ? -1214449816 : (short)-1291258821;
+I65e = (YY8Wu > cuKY7) ? (short)-1214449816 : (short)-1291258821;
 break;
 case 9:
 I65e *= w_1BcMt;
@@ -308,7 +308,7 @@ BOhWX1 = (int)abs(cuKY7) + (1937561978);
 }
 else
 {
-i06y3P4 = (ICGEAW & -782670804) ? -1592748799 : (short)882149460;
+i06y3P4 = (ICGEAW & -782670804) ? (short)-1592748799 : (short)882149460;
 }
 }
 else if (O1_la & -340599283)

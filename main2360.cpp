@@ -20,7 +20,7 @@ using std::floor;
 int main(void)
 {
  unsigned short int Y1T0o901 = 0;
- unsigned char y4N5 = -2104572325;
+ unsigned char y4N5 = (unsigned char)-2104572325;
   long long  W4g17lFj  =  -178133874;
  unsigned short int FgfUS = 0;
     unsigned int    pN37dVt6E0    =    0;

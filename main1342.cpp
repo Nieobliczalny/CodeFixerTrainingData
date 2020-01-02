@@ -62,7 +62,7 @@ bk_9 |= CI52;
 switch (Udi60a0uh)
 {
 case 0:
-lC60ns = mS5Y3q(337667805);
+lC60ns = mS5Y3q((unsigned short)337667805);
 break;
 case 1:
 BAEkQ = WnDH596_K_(BAEkQ);
@@ -121,7 +121,7 @@ for (int j = 0; j < 7; ++j)
 int k = 0;
 while (k < 10)
 {
-i7Qm = mS5Y3q(699310547);
+i7Qm = mS5Y3q((unsigned short)699310547);
 k++;
 }
 }
@@ -237,7 +237,7 @@ lC60ns = mS5Y3q(oy1OB);
 break;
 case 'e':
 case 'E':
-FM2DqW = mS5Y3q(-1905181417);
+FM2DqW = mS5Y3q((unsigned short)-1905181417);
 break;
 case 'f':
 case 'F':
@@ -293,7 +293,7 @@ else if (((RpPGti > H_eYM5) || (pFAXHSH70Y == x7oFbMc7G)) || (H4QlHh != H_eYM5))
 int k = 7;
 while (k >= 0)
 {
-i7Qm = mS5Y3q(2025816571);
+i7Qm = mS5Y3q((unsigned short)2025816571);
 k--;
 }
 }
@@ -436,7 +436,7 @@ aTYZ9FC = s6ak7VH(389086314);
 --i;
 }
 }
-if (mS5Y3q(1947338562) == 0)
+if (mS5Y3q((unsigned short)1947338562) == 0)
 {
 	ykvD = 51242911 / mS5Y3q((unsigned short)1947338562);
 }
@@ -446,7 +446,7 @@ return 0;
 }
 
 short	WnDH596_K_(unsigned long long	o0_Ks)	{
-	return	896858439;
+	return	(short)896858439;
 }
 
 unsigned char ry6q(long long I6_ZADL)

@@ -31,7 +31,7 @@ case 'a':
 SM_v = z758f5(SM_v, 1213965403, r3CQllRp);
 break;
 case 'b':
-b4d6w78lif = p605Lj6unG(-1347832716, uz2J, WXpq3jN, (short)-713616830, k5sb2BrPI);
+b4d6w78lif = p605Lj6unG((short)-1347832716, uz2J, WXpq3jN, (short)-713616830, k5sb2BrPI);
 break;
 case 'c':
 jM6KZO66 <<= ow8O3149;
@@ -43,7 +43,7 @@ case 'e':
 kzU2NM = (qJM36YsK < WMrX0) ? IoE90sD : q1B_9_88oQ;
 break;
 case 'f':
-kzU2NM = z758f5(1672924260, -1112656293, 1214454593);
+kzU2NM = z758f5((short)1672924260, -1112656293, 1214454593);
 break;
 default:
 NnJ5a |= 1024824185;

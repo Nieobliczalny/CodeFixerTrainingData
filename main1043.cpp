@@ -14,7 +14,7 @@ int main(int argc, char** argv) {
  unsigned long long mPoT = 762923652;
   int  I7X6fw  =  1960907726;
  unsigned int aN4QUiu = 1141234983;
- unsigned short int luPA = -1849237276;
+ unsigned short int luPA = (unsigned short)-1849237276;
     unsigned char    weny    =    (unsigned char)-2071832918;
  unsigned short int yoWeJnH = 760455459;
 	long	vX0B6	=	-1743175525;
@@ -25,7 +25,7 @@ int main(int argc, char** argv) {
     double    zg0a3_TI    =    399210602;
   long long  BZ_z_3CL  =  870207820;
     long long    pk4Yb5D0    =    712184370;
-  unsigned char  Dqd5H7  =  396135043;
+  unsigned char  Dqd5H7  =  (unsigned char)396135043;
     unsigned char    A88x22K    =    (unsigned char)-900761765;
  float Br4gN = 1754520789;
  unsigned int Qm2_dn5g = 1812410187;
@@ -35,7 +35,7 @@ int main(int argc, char** argv) {
 	unsigned long long	gCvdj	=	1409198700;
 	unsigned short int	fPZVRG2	=	1686170307;
 	long long	thL9x_	=	-1968211682;
-    short    I3AGcIbt    =    115029014;
+    short    I3AGcIbt    =    (short)115029014;
  short GW_3YL = (short)27867838;
 	double	w_6Qs	=	-1352719585;
  unsigned char pUz9OUUR9b = -326132404;
@@ -48,7 +48,7 @@ int main(int argc, char** argv) {
 	int	i699z26l0	=	-1699849375;
   int  f7T1M  =  839970627;
 	long long	DPqm	=	901384281;
- unsigned short PyqK_vzP = -1211326400;
+ unsigned short PyqK_vzP = (unsigned short)-1211326400;
 	short	b4iRp7SqA2	=	(short)1545668068;
  unsigned short int WVC26KzE3 = -993733289;
     unsigned long    xcrXvQRH79    =    -879098036;
@@ -61,7 +61,7 @@ int main(int argc, char** argv) {
 	double	x_5V	=	590782272;
  unsigned int h5369h_X = 231147485;
  unsigned long long EHfBi = 1139442125;
-    unsigned char    dv6hR    =    1785252962;
+    unsigned char    dv6hR    =    (unsigned char)1785252962;
 	char	d7n5n	=	(char)2003901303;
     short int    JBV_bXW5RM    =    1354606137;
 	short int	F6SkK	=	-850308160;
@@ -71,7 +71,7 @@ int main(int argc, char** argv) {
 	long long	n7Qgyu9PLo	=	152113052;
     unsigned long    tJLIn_pE    =    0;
     char    kXmy    =    -1495396948;
-	unsigned short	Ge94	=	-1502052141;
+	unsigned short	Ge94	=	(unsigned short)-1502052141;
     long long    R05vClH7_    =    865206311;
  unsigned long long F419M04mS1 = 1481511180;
  float VI77FKx_dB = 117060121;

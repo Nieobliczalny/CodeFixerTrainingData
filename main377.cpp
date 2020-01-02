@@ -16,7 +16,7 @@ unsigned short int  f383(long  H6596j6GEm)
 }
 
 short	v_gSjY85(unsigned int	A43YEQC83E)	{
-	return	714635104;
+	return	(short)714635104;
 }
 
 unsigned char    rVC5Py(unsigned long long    w2Ojq1t,short int    VmOv4__y)    {
@@ -140,7 +140,7 @@ case 'a':
 Mm7l = f383(u2RsiM);
 break;
 case 'b':
-kbtq9w = rVC5Py(kbtq9w, -65090517);
+kbtq9w = rVC5Py(kbtq9w, (short)-65090517);
 break;
 case 'c':
 OS4kj28 = v_gSjY85(1702922956);
@@ -191,7 +191,7 @@ y2kdH = o7c37bH / 985229584;
 break;
 case 'f':
 case 'F':
-mt2NH = (fv0e != 645893934) ? YPR64 : rVC5Py(mt2NH, -827617862);
+mt2NH = (fv0e != 645893934) ? YPR64 : rVC5Py(mt2NH, (short)-827617862);
 break;
 case 'g':
 case 'G':

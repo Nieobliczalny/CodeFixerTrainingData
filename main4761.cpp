@@ -30,7 +30,7 @@ try
 int j = 0;
 do
 {
-NXXt6Agocv = z_wo_kDJ(1244034407, (short)469515345, I5d2p);
+NXXt6Agocv = z_wo_kDJ((short)1244034407, (short)469515345, I5d2p);
 j++;
 }
 while (j < 5);
@@ -51,7 +51,7 @@ if ((p_06 != 1918513461) && (C391))
 {
 try
 {
-X4n3 = z_wo_kDJ(1074118262, (short)1494898961, Smj6D);
+X4n3 = z_wo_kDJ((short)1074118262, (short)1494898961, Smj6D);
 }
 catch (int& errorCode)
 {
@@ -70,7 +70,7 @@ else
 switch (ONxPe57e)
 {
 case 'a':
-dT132 = z_wo_kDJ(dT132, 295741124, lgbVXQ896L);
+dT132 = z_wo_kDJ(dT132, (short)295741124, lgbVXQ896L);
 break;
 case 'b':
 Mu63q0X = z_wo_kDJ((short)445075995, tLWRe8CGT, sPy6I_Nu);
@@ -96,7 +96,7 @@ while (i < 9);
 
 if (lgbVXQ896L == 305496335)
 {
-bE44z7E0M = z_wo_kDJ(-82742606, ol8vYqK_72, -726815042);
+bE44z7E0M = z_wo_kDJ((short)-82742606, ol8vYqK_72, -726815042);
 }
 else if (p_06 != yY5Uy55tP)
 {
@@ -181,7 +181,7 @@ rSF_NTBUF = tLWRe8CGT * RCDv61rcX2;
 break;
 case 'j':
 case 'J':
-C391 = z_wo_kDJ(439734722, p_06, -411745931);
+C391 = z_wo_kDJ((short)439734722, p_06, -411745931);
 break;
 default:
 Zk486I1 = ZhU0F6jg(404760833, C391);
@@ -258,7 +258,7 @@ case 4:
 Li9sSBc32U = N9o5_Td_6W << p7TNN;
 break;
 case 5:
-GVQ4 = z_wo_kDJ(-1298527944, (short)898796426, -2110864093);
+GVQ4 = z_wo_kDJ((short)-1298527944, (short)898796426, -2110864093);
 break;
 case 6:
 X4n3 = N9o5_Td_6W >> 1613044969;
@@ -285,7 +285,7 @@ do
 switch (I5d2p)
 {
 case 0:
-Li9sSBc32U = z_wo_kDJ(828375051, (short)-1769273825, I5d2p);
+Li9sSBc32U = z_wo_kDJ((short)828375051, (short)-1769273825, I5d2p);
 break;
 case 1:
 lKx1z -= 1473312837;
@@ -297,7 +297,7 @@ case 3:
 V639Bs57++;
 break;
 case 4:
-tLWRe8CGT = z_wo_kDJ(2099792639, dT132, 8794440);
+tLWRe8CGT = z_wo_kDJ((short)2099792639, dT132, 8794440);
 break;
 case 5:
 Zk486I1 = ZhU0F6jg(-998167730, tLWRe8CGT);
@@ -345,7 +345,7 @@ if (di_GNP2ctZ >= KZ8m2_9T)
 {
 if (RCDv61rcX2 >= -51663096)
 {
-Smj6D = z_wo_kDJ(Smj6D, 370458416, X4n3);
+Smj6D = z_wo_kDJ(Smj6D, (short)370458416, X4n3);
 }
 else
 {
@@ -371,7 +371,7 @@ case 'c':
 tLWRe8CGT |= 599588828;
 break;
 case 'd':
-ol8vYqK_72 = z_wo_kDJ(860777450, (short)-57938142, W8UKJ3fY);
+ol8vYqK_72 = z_wo_kDJ((short)860777450, (short)-57938142, W8UKJ3fY);
 break;
 case 'e':
 JO81U = vUZmKc0 >> 133601206;
@@ -411,7 +411,7 @@ case 'a':
 Zk486I1 = ZhU0F6jg(333333828, 154973822);
 break;
 case 'b':
-k7UrO1 = z_wo_kDJ(k7UrO1, 1908710610, -1451313299);
+k7UrO1 = z_wo_kDJ(k7UrO1, (short)1908710610, -1451313299);
 break;
 case 'c':
 p_06 -= 247660036;
@@ -426,7 +426,7 @@ case 'f':
 GVQ4 = z_wo_kDJ(GVQ4, V639Bs57, tLWRe8CGT);
 break;
 case 'g':
-tLWRe8CGT = z_wo_kDJ(tLWRe8CGT, 203395931, pTL_XX2);
+tLWRe8CGT = z_wo_kDJ(tLWRe8CGT, (short)203395931, pTL_XX2);
 break;
 case 'h':
 k7UrO1 ^= 704920083;
@@ -515,7 +515,7 @@ int k = 8;
 while (k >= 0)
 {
 --k;
-JO81U = z_wo_kDJ(Zk486I1, 1058093786, yd2Bm) - 1969812524;
+JO81U = z_wo_kDJ(Zk486I1, (short)1058093786, yd2Bm) - 1969812524;
 }
 }
 }
@@ -526,7 +526,7 @@ else if (hc96o8 == -1473392053)
 {
 if (((Wr_XG_zT0b <= vUZmKc0) && (KZ8m2_9T < 1825555119)) || (rSF_NTBUF != ONxPe57e))
 {
-std::cout << "M0iivO8Ro7" << z_wo_kDJ(1034656464, (short)-1070675535, 1422206769) << std::endl;
+std::cout << "M0iivO8Ro7" << z_wo_kDJ((short)1034656464, (short)-1070675535, 1422206769) << std::endl;
 }
 else
 {
@@ -553,7 +553,7 @@ int k = 0;
 do
 {
 k++;
-pTL_XX2 = z_wo_kDJ(k7UrO1, 1098976178, I5d2p) >> 1997160676;
+pTL_XX2 = z_wo_kDJ(k7UrO1, (short)1098976178, I5d2p) >> 1997160676;
 }
 while (k < 10);
 }
@@ -565,7 +565,7 @@ int k = 8;
 while (k >= 0)
 {
 k--;
-Li9sSBc32U = z_wo_kDJ(Li9sSBc32U, 1235907094, 1440189809);
+Li9sSBc32U = z_wo_kDJ(Li9sSBc32U, (short)1235907094, 1440189809);
 }
 }
 }
@@ -618,7 +618,7 @@ Zk486I1 = ZhU0F6jg(e59h4P5zBX, -869989179);
 break;
 case 'h':
 case 'H':
-lgbVXQ896L = z_wo_kDJ(-25125852, C391, lKx1z) >> 1238248983;
+lgbVXQ896L = z_wo_kDJ((short)-25125852, C391, lKx1z) >> 1238248983;
 break;
 case 'i':
 case 'I':
@@ -634,7 +634,7 @@ break;
 switch (t409)
 {
 case 0:
-gHC4uxFtEC = z_wo_kDJ(-1231920096, (short)-374281428, -1631576243);
+gHC4uxFtEC = z_wo_kDJ((short)-1231920096, (short)-374281428, -1631576243);
 break;
 case 1:
 gHC4uxFtEC++;
@@ -682,7 +682,7 @@ case 'd':
 r5d6 = o4rtsg18s_ / 265487583;
 break;
 case 'e':
-t409 = z_wo_kDJ(t409, -442836934, oJX4Vgn47);
+t409 = z_wo_kDJ(t409, (short)-442836934, oJX4Vgn47);
 break;
 case 'f':
 gHC4uxFtEC >>= 1984240091;

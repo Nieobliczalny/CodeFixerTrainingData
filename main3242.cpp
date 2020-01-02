@@ -13,7 +13,7 @@ using std::ceil;
 using std::floor;
 
 short  qZ3qIjMW9p(long  Pj89)  {
-  return  515222937;
+  return  (short)515222937;
 }
 
 unsigned char R6y8xX89(short int MhBLAn5G,unsigned short int C3q5t1bp,long YGYL35P,unsigned long long K0iy)
@@ -28,7 +28,7 @@ unsigned int O6_SNt()
 
 short Ra_SWhCC(unsigned long long eXwVa,short R7lyY0xOup,unsigned short hpWiqpB9,short int uqcI8NN)
 {
- return 1458326518;
+ return (short)1458326518;
 }
 
 int main(int argc, char** argv) {
@@ -42,7 +42,7 @@ int main(int argc, char** argv) {
   long  z5__0U_  =  0;
   long double  XoZ95xbqr_  =  2117078121;
   unsigned long  r_Qswlv33D  =  -2145244944;
-    char    T_93An3zrA    =    -1008132210;
+    char    T_93An3zrA    =    (char)-1008132210;
     long    M70YueYL3    =    0;
  int GI8Jy8T = 195976846;
 	short int	dp5LBN	=	(short)-188506453;
@@ -53,7 +53,7 @@ int main(int argc, char** argv) {
  unsigned short int Y48g15Y0eT = 1405179431;
     unsigned short    GsABv_z    =    1739368135;
     unsigned long    Sk9W5    =    1257469712;
-    unsigned short int    fAt73    =    -1845540211;
+    unsigned short int    fAt73    =    (unsigned short)-1845540211;
 	int	qe1h	=	-1832193946;
     int    TRwX    =    1171091333;
 	unsigned char	mFpRRuN3R4	=	(unsigned char)1742505269;
@@ -67,7 +67,7 @@ int main(int argc, char** argv) {
     unsigned long long    g2Je_    =    -1346975482;
     unsigned int    vkb3U_cl37    =    138409727;
 	unsigned char	ryjBmhOu	=	0;
-	unsigned short int	QQ_y	=	1192501854;
+	unsigned short int	QQ_y	=	(unsigned short)1192501854;
   long  EMpip9H_0  =  1864941458;
   long double  Avwc  =  954458342;
   float  LId1teN  =  -1505408412;

@@ -13,7 +13,7 @@ int main(void) {
     long long    Ms4P0mO;
     Ms4P0mO    =    -1393185536;
  unsigned char ypcf9r_x6Q;
- ypcf9r_x6Q = -1706235803;
+ ypcf9r_x6Q = (unsigned char)-1706235803;
  unsigned short z6z7204br;
  z6z7204br = (unsigned short)1225424275;
  unsigned short int Oc74gOeL8W;
@@ -23,7 +23,7 @@ int main(void) {
  long double vvXk;
  vvXk = 243908679;
 	unsigned char	iF5Bk942q;
-	iF5Bk942q	=	2003355404;
+	iF5Bk942q	=	(unsigned char)2003355404;
     unsigned short int    N6Dt;
     N6Dt    =    (unsigned short)1613772351;
   unsigned char  XkC1Pd0G;
@@ -41,7 +41,7 @@ int main(void) {
     long double    iUb758;
     iUb758    =    67861441;
  unsigned short p1_z5l;
- p1_z5l = 176151097;
+ p1_z5l = (unsigned short)176151097;
  unsigned int FHhg_nzPX;
  FHhg_nzPX = -1185202074;
  long x4tg;
@@ -53,7 +53,7 @@ int main(void) {
 	unsigned long	FdQID7_3wb;
 	FdQID7_3wb	=	1571159890;
 	unsigned char	oF1S97QPIm;
-	oF1S97QPIm	=	2002582907;
+	oF1S97QPIm	=	(unsigned char)2002582907;
     unsigned char    baK8WQqmw;
     baK8WQqmw    =    582508669;
     unsigned short int    O2gio6SAU_;
@@ -67,7 +67,7 @@ int main(void) {
     unsigned long    x3ubc68Xy;
     x3ubc68Xy    =    -1508623146;
  unsigned char yfy0KA6;
- yfy0KA6 = -1746577268;
+ yfy0KA6 = (unsigned char)-1746577268;
 	double	aqxOM_;
 	aqxOM_	=	-856871910;
  unsigned int jS7mQ1C;
@@ -382,7 +382,7 @@ while (i >= 0);
 
 for (int i = 10; i >= 0; --i)
 {
-Oc74gOeL8W = (oF1S97QPIm == iUb758) ? x27kfV : -640089345;
+Oc74gOeL8W = (oF1S97QPIm == iUb758) ? x27kfV : (unsigned short)-640089345;
 }
 if (XkC1Pd0G & -273844335)
 {

@@ -11,7 +11,7 @@ using namespace std;
 
 unsigned short int  q30F_a0M(short int  F41n7k,short  VXgI1Ew9,char  Ci92T7Zu,unsigned char  L2mbP_6F)
 {
-  return  520244507;
+  return  (unsigned short)520244507;
 }
 
 long long    Yq2cj5c1O_(unsigned short    or5YZx1c,long    eMI43vaMg,short    y342,unsigned int    M6Pl53)
@@ -21,7 +21,7 @@ long long    Yq2cj5c1O_(unsigned short    or5YZx1c,long    eMI43vaMg,short    y3
 
 unsigned short    HobF_p7s(int    s1nWu0k2,long long    q115a8Yv3,unsigned int    Bg57T4_kBY,long long    ZsR6cw)
 {
-    return    -2126355992;
+    return    (unsigned short)-2126355992;
 }
 
 unsigned short int    j8O4(char    k4qyYbo9,long long    w_08,unsigned int    u2yk,char    Ejua2pz)
@@ -150,7 +150,7 @@ else if ((yzjtjG1v2 > kb8Tuah) || (WaTF24i & 644923600))
 {
 for (int k = 0; k < 2; k++)
 {
-houtg3 = Yq2cj5c1O_(83305005, RzwCPt0YT, (short)1048235571, eBVdtIh_);
+houtg3 = Yq2cj5c1O_((unsigned short)83305005, RzwCPt0YT, (short)1048235571, eBVdtIh_);
 }
 }
 else if (ckt1FMvNQ_ < -777173386)
@@ -180,7 +180,7 @@ else if (PUd11 <= PxwOdnzE)
 {
 if (u8vS3YN & 2107623818)
 {
-B_3m = j8O4(oVjTAUrLq, AK4x357UKk, ZMsE1, 474094618);
+B_3m = j8O4(oVjTAUrLq, AK4x357UKk, ZMsE1, (char)474094618);
 }
 }
 else
@@ -217,7 +217,7 @@ case 'c':
 sp3CWbm3 = HobF_p7s(sp3CWbm3, 1891194045, DCUGm1f44, d2736WX12);
 break;
 case 'd':
-b_e8of = Yq2cj5c1O_(-1117169571, ckt1FMvNQ_, mJuIL6f0, -1455757282);
+b_e8of = Yq2cj5c1O_((unsigned short)-1117169571, ckt1FMvNQ_, mJuIL6f0, -1455757282);
 break;
 case 'e':
 xm6Kxns *= 1992108222;
@@ -229,7 +229,7 @@ case 'g':
 WmK4e4lTm = HobF_p7s(-1026572225, 1202713285, -582626569, p46VB);
 break;
 case 'h':
-lB0s7d2 = j8O4(-1276013422, C1AVm, 751975867, Cg49__313Q);
+lB0s7d2 = j8O4((char)-1276013422, C1AVm, 751975867, Cg49__313Q);
 break;
 default:
 Wq32Y150 -= b_e8of;
@@ -240,7 +240,7 @@ dIW3FSVq = (long)(kb8Tuah + (-953333417));
 
 fWC0R /= 514066126;
 
-RzwCPt0YT = gi5K / j8O4(-2121373641, C1AVm, -2064889703, (char)1790142167);
+RzwCPt0YT = gi5K / j8O4((char)-2121373641, C1AVm, -2064889703, (char)1790142167);
 return 0;
 }
 

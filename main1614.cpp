@@ -17,7 +17,7 @@ unsigned long long  U63gFMp(unsigned short int  P95u9,long long  KLmm1N);
 int main(int argc, char** argv)
 {
     unsigned short int    dT0ionxJ0;
-    dT0ionxJ0    =    -1508500896;
+    dT0ionxJ0    =    (unsigned short)-1508500896;
     unsigned char    UAf5PB77;
     UAf5PB77    =    0;
 	long double	ebBRC1o;
@@ -27,7 +27,7 @@ int main(int argc, char** argv)
  short jD_L;
  jD_L = (short)1022008682;
     short    p0J5W3rms;
-    p0J5W3rms    =    1642139561;
+    p0J5W3rms    =    (short)1642139561;
 	unsigned long	Fa5rGu;
 	Fa5rGu	=	1475751573;
     long    wt3uegAVux;
@@ -45,7 +45,7 @@ int main(int argc, char** argv)
 	long double	ky5_iI;
 	ky5_iI	=	-1816387476;
 	short	ij3Q8Y2JN;
-	ij3Q8Y2JN	=	788984675;
+	ij3Q8Y2JN	=	(short)788984675;
 	unsigned long	gl8R7rv75S;
 	gl8R7rv75S	=	-895396000;
     float    zx9h;
@@ -55,7 +55,7 @@ int main(int argc, char** argv)
 	short int	U9OG0i667W;
 	U9OG0i667W	=	593434904;
 	unsigned char	uj4_kg0;
-	uj4_kg0	=	-1794160933;
+	uj4_kg0	=	(unsigned char)-1794160933;
  unsigned char j3PFo5hyt;
  j3PFo5hyt = 1334736698;
   long double  B0NKk;
@@ -65,7 +65,7 @@ int main(int argc, char** argv)
   unsigned int  vXGY_t;
   vXGY_t  =  0;
  short hKAvEt58i5;
- hKAvEt58i5 = 821606482;
+ hKAvEt58i5 = (short)821606482;
   unsigned char  gA2O3;
   gA2O3  =  -75596262;
 	unsigned char	Wta0EV;
@@ -87,7 +87,7 @@ ij3Q8Y2JN /= t307p;
 }
 else if (U9OG0i667W & 1603425173)
 {
-UAf5PB77 = B_OA(-1732030122, hKAvEt58i5, T2VBxHn6VH, 1773453609);
+UAf5PB77 = B_OA((unsigned short)-1732030122, hKAvEt58i5, T2VBxHn6VH, 1773453609);
 }
 else if (LmG4TY0 < 961888843)
 {
@@ -126,7 +126,7 @@ else
 {
 vXGY_t = B_OA(WY099, j3PFo5hyt, -1190564890, -87173599);
 }
-std::cout << U9OG0i667W << "P5e4dB" << B_OA(2046163379, j3PFo5hyt, zutRo0w_, vXGY_t) << "P9dz9fXFo" << dT0ionxJ0 << std::endl;
+std::cout << U9OG0i667W << "P5e4dB" << B_OA((unsigned short)2046163379, j3PFo5hyt, zutRo0w_, vXGY_t) << "P9dz9fXFo" << dT0ionxJ0 << std::endl;
 
 std::cout << UAf5PB77 << wt3uegAVux << std::endl;
 
@@ -162,7 +162,7 @@ jD_L %= 393828937;
 }
 else if (((y5tm6vN6 & zutRo0w_) && (uj4_kg0 != DuiW_)) || (ky5_iI >= 845402547))
 {
-std::cout << B_OA(-1791512155, j3PFo5hyt, zutRo0w_, -1875553279) << U63gFMp((unsigned short)-1375439107, j3PFo5hyt) << "U2f1M3" << std::endl;
+std::cout << B_OA((unsigned short)-1791512155, j3PFo5hyt, zutRo0w_, -1875553279) << U63gFMp((unsigned short)-1375439107, j3PFo5hyt) << "U2f1M3" << std::endl;
 }
 else if (ebBRC1o >= -1678483934)
 {
@@ -232,7 +232,7 @@ int k = 0;
 while (k < 2)
 {
 k++;
-vXGY_t = B_OA(-691964421, 1070426370, -1781903547, 294036049);
+vXGY_t = B_OA((unsigned short)-691964421, 1070426370, -1781903547, 294036049);
 }
 }
 }
@@ -303,7 +303,7 @@ case 1:
 t307p = U63gFMp(t307p, -734719981);
 break;
 case 2:
-UAf5PB77 = B_OA(1147204821, -2005111703, p0J5W3rms, hKAvEt58i5);
+UAf5PB77 = B_OA((unsigned short)1147204821, -2005111703, p0J5W3rms, hKAvEt58i5);
 break;
 case 3:
 p0J5W3rms |= LmG4TY0;
@@ -327,7 +327,7 @@ case 0:
 ky5_iI = (int)abs(y5tm6vN6);
 break;
 case 1:
-T2VBxHn6VH = U63gFMp(-679405166, UAf5PB77) + 1313431340;
+T2VBxHn6VH = U63gFMp((unsigned short)-679405166, UAf5PB77) + 1313431340;
 break;
 case 2:
 J1QQS = wt3uegAVux % p0J5W3rms;
@@ -342,7 +342,7 @@ case 5:
 gl8R7rv75S = gA2O3 / zx9h;
 break;
 case 6:
-UAf5PB77 = B_OA(-1568578266, -794616206, U9OG0i667W, j3PFo5hyt);
+UAf5PB77 = B_OA((unsigned short)-1568578266, -794616206, U9OG0i667W, j3PFo5hyt);
 break;
 }
 j++;
@@ -480,7 +480,7 @@ int k = 0;
 while (k < 4)
 {
 k++;
-UAf5PB77 = B_OA(1572803238, 1521221212, -1260138924, j3PFo5hyt);
+UAf5PB77 = B_OA((unsigned short)1572803238, 1521221212, -1260138924, j3PFo5hyt);
 }
 }
 }
@@ -492,7 +492,7 @@ else
 {
 if (ij3Q8Y2JN != -858976524)
 {
-UAf5PB77 = B_OA(345471866, -4803721, gA2O3, 323225339);
+UAf5PB77 = B_OA((unsigned short)345471866, -4803721, gA2O3, 323225339);
 }
 }
 }
@@ -519,7 +519,7 @@ try
 {
 try
 {
-std::cout << "h6h0HHB" << "lj_E4" << U63gFMp(1468366994, 1901182488) << T2VBxHn6VH << std::endl;
+std::cout << "h6h0HHB" << "lj_E4" << U63gFMp((unsigned short)1468366994, 1901182488) << T2VBxHn6VH << std::endl;
 }
 catch (int& errorCode)
 {
@@ -542,7 +542,7 @@ j--;
 int k = 8;
 do
 {
-jD_L = U63gFMp(163271610, vXGY_t);
+jD_L = U63gFMp((unsigned short)163271610, vXGY_t);
 k--;
 }
 while (k >= 0);

@@ -12,7 +12,7 @@ using namespace std;
 
 int main()
 {
-	short	l61P	=	1239010872;
+	short	l61P	=	(short)1239010872;
     unsigned short int    Xe7QhP3q    =    (unsigned short)-1529339547;
  double SFbm8f5Gi = -726120157;
 	long long	uCvnVV	=	-374170968;
@@ -22,7 +22,7 @@ int main()
   short  X57297Y_  =  11850253;
 	char	jDPG	=	99408148;
     char    r495W91o8e    =    505953385;
-    unsigned char    KONf    =    -1531059792;
+    unsigned char    KONf    =    (unsigned char)-1531059792;
  long double Fkw76aQ = -817918835;
 	unsigned long long	TnRYYw0LS_	=	8162889;
   unsigned short int  DaJ47477  =  (unsigned short)1349730715;
@@ -32,7 +32,7 @@ int main()
   char  R7NJ19I2jm  =  -449649089;
 	char	G43q	=	1497685240;
     unsigned char    rE4U0Fi    =    -2128331019;
- unsigned short int rDd1b79g = -1961981267;
+ unsigned short int rDd1b79g = (unsigned short)-1961981267;
 	short	a26eo2snc	=	-519501111;
 	char	Q3n32S	=	-1880014225;
  short Qp4RiJf = (short)610898140;
@@ -45,7 +45,7 @@ int main()
 	double	xAU1	=	1336496990;
 	unsigned long	x0mIgt	=	-65849867;
  int c2L7e2hY_d = -1808296884;
-  char  dqAoY  =  -786626650;
+  char  dqAoY  =  (char)-786626650;
  int y9VP84l = -1316995479;
   unsigned char  I4Mbx8MdU  =  (unsigned char)-936513617;
     unsigned char    x2ZF    =    -458125224;
@@ -56,7 +56,7 @@ int main()
  long double ROF3scAKj = -1377007849;
   unsigned long long  O96kH4D  =  -149292751;
     unsigned long    Q4y4w04r    =    0;
-  unsigned short  WL2Gd  =  2012864369;
+  unsigned short  WL2Gd  =  (unsigned short)2012864369;
   unsigned int  N1PhQG83  =  332662825;
   unsigned short int  wEz_7uRn  =  (unsigned short)-431798794;
   double  w5_IhVy  =  2114613293;
@@ -66,7 +66,7 @@ int main()
 	unsigned short	fI8bu4QD8	=	1495512959;
   unsigned int  igNg  =  1941054000;
 	short	RTr05	=	-34149086;
-  char  Y_dP25JWBU  =  -11473021;
+  char  Y_dP25JWBU  =  (char)-11473021;
 	unsigned short int	lsVbuzA_t	=	577056798;
     int    rY042_j_    =    -56483740;
  short int AMRuy8 = (short)917232690;
@@ -76,7 +76,7 @@ int main()
 	double	aVpD32	=	-1019377037;
     int    x7E7T9B21    =    810657965;
  double V_c048_J7u = -1537570123;
-    char    lHV6N_k    =    1789486497;
+    char    lHV6N_k    =    (char)1789486497;
  long long bc1ZJ69_0x = 889003155;
     short int    b0s801    =    1673393273;
   long long  E11j1Vog  =  615740898;
@@ -207,7 +207,7 @@ w_I_kn0_ = (int)floor(V_c048_J7u);
 break;
 case 'c':
 case 'C':
-wEz_7uRn = (OS3OZ > 1555641756) ? lUkFO : 1966314940;
+wEz_7uRn = (OS3OZ > 1555641756) ? lUkFO : (unsigned short)1966314940;
 break;
 case 'd':
 case 'D':

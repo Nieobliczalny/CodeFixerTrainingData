@@ -21,7 +21,7 @@ int i = 0;
 while (i < 7)
 {
 i++;
-std::cout << HAeIM7SMj(289708120, -1997259528) << "ic0w3VA" << std::endl;
+std::cout << HAeIM7SMj(289708120, (unsigned short)-1997259528) << "ic0w3VA" << std::endl;
 }
 }
 
@@ -46,7 +46,7 @@ uPd0cPEc5 = HAeIM7SMj(734964221, iC56) << yzvV;
 
 try
 {
-UX26z3_ = HAeIM7SMj(TLshP414X, 1562864054);
+UX26z3_ = HAeIM7SMj(TLshP414X, (unsigned short)1562864054);
 }
 catch (int& errorCode)
 {
@@ -69,7 +69,7 @@ ttvW52W2z = (int)abs(UX26z3_);
 }
 else
 {
-UX26z3_ = HAeIM7SMj(uNMJU, -77947515);
+UX26z3_ = HAeIM7SMj(uNMJU, (unsigned short)-77947515);
 }
 }
 }
@@ -138,7 +138,7 @@ case 4:
 ttvW52W2z = (int)abs(UX26z3_);
 break;
 case 5:
-UX26z3_ = HAeIM7SMj(889284664, 1914855570);
+UX26z3_ = HAeIM7SMj(889284664, (unsigned short)1914855570);
 break;
 case 6:
 ll8CE1 = xlVF2rR6 % 1596209973;

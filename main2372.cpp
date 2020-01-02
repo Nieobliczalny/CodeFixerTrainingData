@@ -33,7 +33,7 @@ else
 {
 B1dq = (long double)(GcPr + (837496176));
 }
-cout << AK7Kttg3(-1026377462, 1748219486, 546825924, (unsigned short)-764628805) << endl;
+cout << AK7Kttg3((unsigned char)-1026377462, 1748219486, 546825924, (unsigned short)-764628805) << endl;
 
 if ((P9Mcyft <= GcPr) && (j73OrCkW6z == q608832o2))
 {
@@ -45,7 +45,7 @@ if (m2fkS0_5U1 <= B0Si6s)
 {
 if (yr7CsE5Qv < -1813236100)
 {
-oZUjH9l = ybi9_008a3(-2129429973);
+oZUjH9l = ybi9_008a3((unsigned char)-2129429973);
 }
 else
 {
@@ -135,7 +135,7 @@ else if (q608832o2 & K0VI15)
 {
 if (C4PvJ_Gl != E5afJ)
 {
-q608832o2 = AK7Kttg3(q608832o2, T318Nl, 961158748, 820282964);
+q608832o2 = AK7Kttg3(q608832o2, T318Nl, 961158748, (unsigned short)820282964);
 }
 else if (o810IzZ)
 {
@@ -181,7 +181,7 @@ o810IzZ = tVb14cpYP(626073759, aKMM1y956f);
 }
 else if (S6nG0f4_RE < -2020881748)
 {
-K0VI15 = AK7Kttg3(yWJfAKL, -1036101844, Cd5hZ, 930443199);
+K0VI15 = AK7Kttg3(yWJfAKL, -1036101844, Cd5hZ, (unsigned short)930443199);
 }
 else
 {
@@ -216,7 +216,7 @@ vVz4vn1 = (long double)(nj9vd0ZZ);
 }
 else
 {
-cout << AK7Kttg3(-1395874348, lj29i8C11, B1dq, (unsigned short)2008163523) << endl;
+cout << AK7Kttg3((unsigned char)-1395874348, lj29i8C11, B1dq, (unsigned short)2008163523) << endl;
 }
 }
 else if (B1dq <= -2016211850)
@@ -293,7 +293,7 @@ aKMM1y956f = (int)floor(m2fkS0_5U1);
 
 if (Cd5hZ != E5afJ)
 {
-cout << "P3CWdou" << AK7Kttg3(-41097795, -1433054945, 607429091, j73OrCkW6z) << FTH_6y << tVb14cpYP(yr7CsE5Qv, (short)1703858074) << tVb14cpYP(yr7CsE5Qv, 427089077) << endl;
+cout << "P3CWdou" << AK7Kttg3((unsigned char)-41097795, -1433054945, 607429091, j73OrCkW6z) << FTH_6y << tVb14cpYP(yr7CsE5Qv, (short)1703858074) << tVb14cpYP(yr7CsE5Qv, 427089077) << endl;
 }
 else if ((vVz4vn1 >= tO0F9) && ((K7_K6WG <= q608832o2) && (nj9vd0ZZ != 45153853)))
 {
@@ -389,7 +389,7 @@ return 0;
 }
 
 unsigned short	Rf_mE4J(unsigned long long	HM3mh42O,long long	IPqr4O)	{
-	return	468244226;
+	return	(unsigned short)468244226;
 }
 
 unsigned char AK7Kttg3(unsigned char S9I_,unsigned long qbxlmo0,unsigned long long XEZnb,unsigned short Lm40PO0p4) {

@@ -24,7 +24,7 @@ int main() {
  double Z40YG_f;
  Z40YG_f = -1755986125;
 	char	Um22;
-	Um22	=	-427046627;
+	Um22	=	(char)-427046627;
   long long  qU1_Wx5dio;
   qU1_Wx5dio  =  0;
  unsigned char wY6s8X;
@@ -34,7 +34,7 @@ int main() {
 	char	mGW56_n8;
 	mGW56_n8	=	-1253590769;
     char    Gq38b8;
-    Gq38b8    =    357920338;
+    Gq38b8    =    (char)357920338;
   long double  icB6W_G;
   icB6W_G  =  1167469572;
 

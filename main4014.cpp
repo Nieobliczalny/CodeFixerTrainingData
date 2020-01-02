@@ -9,7 +9,7 @@
 using namespace std;
 
 char	pc_p5kkWX(short	lvxy,long long	WdhmHDAT,unsigned int	OOTF,long long	v2HDV)	{
-	return	-166185046;
+	return	(char)-166185046;
 }
 
 unsigned short	TZo4_z(short int	Pya4mw5T,unsigned int	TLL1D)	{
@@ -166,7 +166,7 @@ while (i < 8);
 int i = 0;
 while (i < 5)
 {
-I4pf33 = (Q3wZmfmKh8 & -529039984) ? I_t2NNupd : TZo4_z(1654343754, 1698667786);
+I4pf33 = (Q3wZmfmKh8 & -529039984) ? I_t2NNupd : TZo4_z((short)1654343754, 1698667786);
 ++i;
 }
 }
@@ -183,7 +183,7 @@ do
 j--;
 if (Q3wZmfmKh8 & -1997967210)
 {
-vgv0x = TZo4_z(1241525875, rt8tv);
+vgv0x = TZo4_z((short)1241525875, rt8tv);
 }
 else
 {
@@ -223,7 +223,7 @@ case 'b':
 I4pf33 = VqdCBcWXO / Mtr_pL;
 break;
 case 'c':
-hY9Ev1 = p55Lj(1642583294, -2113028923);
+hY9Ev1 = p55Lj((unsigned char)1642583294, -2113028923);
 break;
 }
 }
@@ -241,7 +241,7 @@ if (vgv0x >= hImDz3)
 Mtr_pL = tH9W8 - I_t2NNupd;
 }
 
-cout << pc_p5kkWX(-499750746, hY9Ev1, 401190999, -1497736507) << "L5F3Tcj39y" << endl;
+cout << pc_p5kkWX((short)-499750746, hY9Ev1, 401190999, -1497736507) << "L5F3Tcj39y" << endl;
 if (I4pf33 <= 1551198452)
 {
 vgv0x = TZo4_z((short)829873849, -609342815);

@@ -21,7 +21,7 @@ int main(int argc, char** argv) {
     short int    tJGp1X_9t;
     tJGp1X_9t    =    0;
   unsigned short int  d9eX;
-  d9eX  =  -1944664498;
+  d9eX  =  (unsigned short)-1944664498;
   double  CIU3P_;
   CIU3P_  =  -1996689776;
     long    CDon_0Svu;
@@ -31,7 +31,7 @@ int main(int argc, char** argv) {
   int  oVF6H3aH;
   oVF6H3aH  =  -1662973135;
 	short	C1wnHeWoA;
-	C1wnHeWoA	=	589861370;
+	C1wnHeWoA	=	(short)589861370;
 
 if (((tJGp1X_9t != dR_PCYp) || (CDon_0Svu)) || (bGjm <= 398716580))
 {
@@ -212,7 +212,7 @@ while (j >= 0);
 
 for (int i = 10; i >= 0; i--)
 {
-std::cout << "HDG6zoMt3n" << b6MUl0(1618314736, oVF6H3aH, tJGp1X_9t, bGjm, -857680703) << D8IF6((char)579929403) << D8IF6(CIU3P_) << CDon_0Svu << std::endl;
+std::cout << "HDG6zoMt3n" << b6MUl0(1618314736, oVF6H3aH, tJGp1X_9t, bGjm, (short)-857680703) << D8IF6((char)579929403) << D8IF6(CIU3P_) << CDon_0Svu << std::endl;
 }
 
 oVF6H3aH = d9eX / d9eX;
@@ -236,7 +236,7 @@ bGjm = D8IF6(C1wnHeWoA);
 break;
 case 'e':
 case 'E':
-CDon_0Svu = b6MUl0(tJGp1X_9t, 1694818326, CDon_0Svu, (short)-1766154654, -1485331067);
+CDon_0Svu = b6MUl0(tJGp1X_9t, (unsigned short)1694818326, CDon_0Svu, (short)-1766154654, -1485331067);
 break;
 }
 {
@@ -267,7 +267,7 @@ C1wnHeWoA = Eqr0ytwK2c(C1wnHeWoA);
 switch (tJGp1X_9t)
 {
 case 0:
-CDon_0Svu = b6MUl0(1076922203, -1609042276, (short)-1110598058, bGjm, oVF6H3aH);
+CDon_0Svu = b6MUl0(1076922203, (unsigned short)-1609042276, (short)-1110598058, bGjm, oVF6H3aH);
 break;
 case 1:
 C1wnHeWoA = (int)abs(CIU3P_);
@@ -323,7 +323,7 @@ int    D8IF6(char    ndQ7b768_)    {
 }
 
 unsigned short b6MUl0(unsigned long kN6EWq__c,unsigned short PX28Kz13,short y363,short int bT6B0,short e373165) {
- return 1372116259;
+ return (unsigned short)1372116259;
 }
 
 unsigned long long	Eqr0ytwK2c(unsigned int	j12c07YM)

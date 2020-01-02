@@ -13,7 +13,7 @@ int main() {
  double E_W4Nx_YAo = 730675095;
   float  crYB_  =  -179947405;
   int  h8fUG7x  =  -1396878557;
-  unsigned short int  i8bp19C  =  1808768875;
+  unsigned short int  i8bp19C  =  (unsigned short)1808768875;
     double    O659V    =    2108087609;
     unsigned char    lT_18rvpX4    =    (unsigned char)-912648053;
     long    G2UB04S    =    1752810209;
@@ -29,7 +29,7 @@ int main() {
 	unsigned short int	rl1_j	=	0;
     float    b_I2xxE5E    =    324641579;
     unsigned char    vI910AJn    =    0;
- short int O13zAB = 1214941037;
+ short int O13zAB = (short)1214941037;
   unsigned char  x2oIrqygOh  =  (unsigned char)424144047;
 	long double	o6o6lIKp	=	1044075606;
  int P_47 = -1018063511;
@@ -45,7 +45,7 @@ int main() {
   long long  bcQN5vFV2c  =  186639821;
 	char	O__F	=	0;
  unsigned short int ElSK = 0;
-	unsigned short	K766E	=	-1954691815;
+	unsigned short	K766E	=	(unsigned short)-1954691815;
     short    NKBFP_W    =    (short)1568779828;
  char cY71t = -1489286542;
   short  xhL57NQue_  =  217916398;
@@ -74,7 +74,7 @@ Z1_xqyHzf = (int)floor(O659V);
 }
 else if (b_I2xxE5E >= U84T)
 {
-K766E = (K766E >= 188790411) ? x2oIrqygOh : 1041037838;
+K766E = (K766E >= 188790411) ? x2oIrqygOh : (unsigned short)1041037838;
 }
 else if (((O659V > TAKj) && (Iu0QvGZ2K > -1412887820)) && (K766E > -1599834963))
 {

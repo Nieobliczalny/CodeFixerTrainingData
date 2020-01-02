@@ -9,7 +9,7 @@
 
 int main(int argc, char** argv)
 {
- unsigned short int H7hnhAbF = -1219065210;
+ unsigned short int H7hnhAbF = (unsigned short)-1219065210;
  unsigned short W2sIsn34z = (unsigned short)-1491760515;
   long  Xbh58b98m5  =  495675534;
   unsigned char  q9fXE2c  =  1106900092;
@@ -21,7 +21,7 @@ int main(int argc, char** argv)
  unsigned long long QVcGT2 = 1128771197;
 	unsigned long long	hjmPNa	=	-160769259;
 	double	L8qR4lz	=	-1040756970;
-    short    DD___7    =    414937702;
+    short    DD___7    =    (short)414937702;
 	short	ihpi4cy	=	(short)948931326;
  float KdYzx2N1p = 974054726;
  short c36473X_g = 1286755806;
@@ -34,7 +34,7 @@ int main(int argc, char** argv)
     unsigned long long    IPBu50OT    =    -973315832;
     unsigned int    X2zpSG    =    1152742595;
 	float	F5QJR	=	-399765807;
-  short int  nxhMYL3DB  =  38383946;
+  short int  nxhMYL3DB  =  (short)38383946;
 
 F5QJR = QVcGT2 << W2sIsn34z;
 if (az0W27Q < u5LHz9l)

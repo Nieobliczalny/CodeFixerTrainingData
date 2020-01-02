@@ -22,7 +22,7 @@ unsigned short Z9NLm6k_v(unsigned long long c2TXt_,unsigned int z87Wyf0CN,unsign
 int main()
 {
     long long    T1_cY    =    0,    y1Seb28Z8X    =    0,    rV5w    =    0,    R98kh_gu3K    =    0;
- short int jG39m = -1828509225, E9TYB_ = (short)-1746783923;
+ short int jG39m = (short)-1828509225, E9TYB_ = (short)-1746783923;
 
 try
 {
@@ -42,7 +42,7 @@ catch (int& errorCode)
 {
 jG39m = Z9NLm6k_v(rV5w, y1Seb28Z8X, R98kh_gu3K, -920803791, T1_cY);
 }
-T1_cY = xX_FUA(-1445649222, T1_cY, rV5w, R98kh_gu3K);
+T1_cY = xX_FUA((unsigned short)-1445649222, T1_cY, rV5w, R98kh_gu3K);
 
 {
 int i = 1;
@@ -55,7 +55,7 @@ do
 ++j;
 for (int k = 5; k >= 0; k--)
 {
-T1_cY = xX_FUA(-1190142396, R98kh_gu3K, (unsigned char)-800588188, -992747525);
+T1_cY = xX_FUA((unsigned short)-1190142396, R98kh_gu3K, (unsigned char)-800588188, -992747525);
 }
 }
 while (j < 8);
@@ -99,7 +99,7 @@ case 'i':
 E9TYB_ |= 1828198392;
 break;
 default:
-y1Seb28Z8X = xX_FUA(y1Seb28Z8X, -1020026528, (unsigned char)-1235175942, -2098445168);
+y1Seb28Z8X = xX_FUA(y1Seb28Z8X, (short)-1020026528, (unsigned char)-1235175942, -2098445168);
 break;
 }
 }
@@ -130,7 +130,7 @@ jG39m = T1_cY % E9TYB_;
 }
 else if (T1_cY == 1118246121)
 {
-E9TYB_ = Z9NLm6k_v(-324677502, -458407044, -1574602498, R98kh_gu3K, rV5w);
+E9TYB_ = Z9NLm6k_v(-324677502, -458407044, (unsigned short)-1574602498, R98kh_gu3K, rV5w);
 }
 else if (R98kh_gu3K < B6ps)
 {
@@ -143,7 +143,7 @@ E9TYB_ = KVa6(E9TYB_, 2027880183, rV5w, y1Seb28Z8X);
 }
 else if (((rV5w & y1Seb28Z8X) || (T1_cY == ZT5TvDu)) || (y1Seb28Z8X <= 1936302900))
 {
-T1_cY = xX_FUA(1259007442, T1_cY, 250379585, -1578318117);
+T1_cY = xX_FUA((unsigned short)1259007442, T1_cY, 250379585, -1578318117);
 }
 else if (y1Seb28Z8X >= E9TYB_)
 {
@@ -291,6 +291,6 @@ unsigned long  ZIOK4J(unsigned long long  V5qg3eQ9,long long  KHLR3uZD2n,unsigne
 }
 
 unsigned short Z9NLm6k_v(unsigned long long c2TXt_,unsigned int z87Wyf0CN,unsigned short int MCZB_x,unsigned int zsKk,long long kJlG_6KUO) {
- return -481445985;
+ return (unsigned short)-481445985;
 }
 

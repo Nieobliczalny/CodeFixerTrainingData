@@ -9,7 +9,7 @@
 using namespace std;
 
 unsigned short int  Zq3bXtXx3M(unsigned long long  XJh75u3)  {
-  return  -1683576509;
+  return  (unsigned short)-1683576509;
 }
 
 short int F_ne(long Nlc_,long O9v8s5b,unsigned long long cE05c0E8oI) {
@@ -33,7 +33,7 @@ int main() {
 	char	ni41,	v_Zm0,	Ls2vSYGvrg;
 		ni41	=	v_Zm0	=	Ls2vSYGvrg	=	0;
 	short	e0_A,	g8vRtCw0c,	aDpz_gm5,	AHO29q,	t2_nJn;
-		e0_A	=	g8vRtCw0c	=	aDpz_gm5	=	AHO29q	=	t2_nJn	=	-1117481496;
+		e0_A	=	g8vRtCw0c	=	aDpz_gm5	=	AHO29q	=	t2_nJn	=	(short)-1117481496;
 
 if (g8vRtCw0c)
 {
@@ -107,7 +107,7 @@ AHO29q = (int)abs(g8vRtCw0c);
 }
 for (int i = 9; i >= 0; i--)
 {
-e0_A = (Ls2vSYGvrg) ? AHO29q : 1439834796;
+e0_A = (Ls2vSYGvrg) ? AHO29q : (short)1439834796;
 }
 switch (AHO29q)
 {
@@ -331,7 +331,7 @@ do
 switch (Ls2vSYGvrg)
 {
 case 0:
-AHO29q = (g8vRtCw0c <= aDpz_gm5) ? -1946114779 : (short)238223605;
+AHO29q = (g8vRtCw0c <= aDpz_gm5) ? (short)-1946114779 : (short)238223605;
 break;
 case 1:
 aDpz_gm5 = F_ne(1776095998, 1675115838, 675758395);
@@ -355,7 +355,7 @@ case 7:
 Ls2vSYGvrg = (int)abs(g8vRtCw0c) * 0;
 break;
 case 8:
-e0_A = (e0_A & -2032358854) ? -783393876 : sIl_2h4y1f(1626573960);
+e0_A = (e0_A & -2032358854) ? (short)-783393876 : sIl_2h4y1f(1626573960);
 break;
 case 9:
 g8vRtCw0c = Zq3bXtXx3M(-747978468);

@@ -21,7 +21,7 @@ int main(int argc, char** argv)
   unsigned long  pz_x;
   pz_x  =  177534231;
     short int    bG3q0;
-    bG3q0    =    -66670840;
+    bG3q0    =    (short)-66670840;
 	long double	OZ91OY5x;
 	OZ91OY5x	=	-2094470363;
 	char	EY29;
@@ -37,7 +37,7 @@ int main(int argc, char** argv)
   unsigned long  f7Xq;
   f7Xq  =  527551969;
 	unsigned char	R6Xwctf_;
-	R6Xwctf_	=	347886346;
+	R6Xwctf_	=	(unsigned char)347886346;
   long double  y8w_8M_1F2;
   y8w_8M_1F2  =  -365496147;
 	unsigned int	fg_t7;
@@ -51,7 +51,7 @@ int main(int argc, char** argv)
  float vrU49wx;
  vrU49wx = 1961974526;
  unsigned short S0xG1xs;
- S0xG1xs = -1407811388;
+ S0xG1xs = (unsigned short)-1407811388;
   double  Zekay;
   Zekay  =  -811595369;
     long    yaERuVg;
@@ -61,7 +61,7 @@ int main(int argc, char** argv)
   double  v4_zyNZ;
   v4_zyNZ  =  -1525746432;
  short int mt87Q9G;
- mt87Q9G = -1000343174;
+ mt87Q9G = (short)-1000343174;
 	unsigned long	sZVvQ4E;
 	sZVvQ4E	=	386996138;
 	int	x1D8;
@@ -71,7 +71,7 @@ int main(int argc, char** argv)
     unsigned long long    Ehr2R5JVsv;
     Ehr2R5JVsv    =    686154228;
  unsigned short int pL1Ea;
- pL1Ea = -542069661;
+ pL1Ea = (unsigned short)-542069661;
  long Tt53;
  Tt53 = 342766796;
   long  qb_7RO7m;
@@ -83,7 +83,7 @@ int main(int argc, char** argv)
 	long double	Oh__4;
 	Oh__4	=	130663794;
   unsigned short  eSdJNw9Y7X;
-  eSdJNw9Y7X  =  1648974609;
+  eSdJNw9Y7X  =  (unsigned short)1648974609;
  short r2C0zW6;
  r2C0zW6 = (short)-360051984;
  short Pf5_u0i9;
@@ -101,7 +101,7 @@ int main(int argc, char** argv)
  int rdzcAR9;
  rdzcAR9 = 514454267;
     char    draP47;
-    draP47    =    -231649872;
+    draP47    =    (char)-231649872;
     unsigned int    Eg2mBB7bQ;
     Eg2mBB7bQ    =    0;
   double  AaAcUMlR_E;
@@ -111,7 +111,7 @@ int main(int argc, char** argv)
   long long  IN38l39;
   IN38l39  =  -383098759;
  char y4LYN_ksA;
- y4LYN_ksA = -1562854467;
+ y4LYN_ksA = (char)-1562854467;
     double    e2SgXKQY5;
     e2SgXKQY5    =    -1735052363;
   int  jq1O53;
@@ -127,7 +127,7 @@ int main(int argc, char** argv)
 	unsigned long long	ak7HTh08h;
 	ak7HTh08h	=	1304106581;
     unsigned short    ZpdPcuf;
-    ZpdPcuf    =    1303435467;
+    ZpdPcuf    =    (unsigned short)1303435467;
  long double TPJG0_4;
  TPJG0_4 = 123443265;
 	int	h32dB;
@@ -141,7 +141,7 @@ int main(int argc, char** argv)
   double  l3wz4JDT8;
   l3wz4JDT8  =  -820706295;
     char    Zy20PQea;
-    Zy20PQea    =    997163414;
+    Zy20PQea    =    (char)997163414;
     unsigned short    iZLM;
     iZLM    =    (unsigned short)-1431370702;
 	unsigned short int	XPK4A;
@@ -153,7 +153,7 @@ int main(int argc, char** argv)
 	unsigned int	smhxd;
 	smhxd	=	-968967483;
   unsigned short  lwT2xubRW;
-  lwT2xubRW  =  1436280965;
+  lwT2xubRW  =  (unsigned short)1436280965;
     long double    YXv0o;
     YXv0o    =    1520091483;
     double    ffMR4bwm9Y;
@@ -163,7 +163,7 @@ int main(int argc, char** argv)
 	unsigned short	hA9r_n3hHE;
 	hA9r_n3hHE	=	1501668776;
     unsigned short int    VSa62eN;
-    VSa62eN    =    1333512477;
+    VSa62eN    =    (unsigned short)1333512477;
 	unsigned int	HgnA;
 	HgnA	=	82363011;
 	unsigned short	C0nsh8y_4;
@@ -180,7 +180,7 @@ int main(int argc, char** argv)
 switch (iZLM)
 {
 case 0:
-ffMR4bwm9Y = PsV1(ffMR4bwm9Y, Q096wF3q_, 1246301327, 1184233004);
+ffMR4bwm9Y = PsV1(ffMR4bwm9Y, Q096wF3q_, 1246301327, (short)1184233004);
 break;
 case 1:
 v4_zyNZ = (int)ceil(Q6_fH);
@@ -341,7 +341,7 @@ x1D8 = Slli();
 }
 try
 {
-std::cout << "B8q72520" << "yF8Qb_" << Zekay << WCG2z(585086193) << std::endl;
+std::cout << "B8q72520" << "yF8Qb_" << Zekay << WCG2z((unsigned short)585086193) << std::endl;
 }
 catch (int& errorCode)
 {
@@ -380,7 +380,7 @@ case 'd':
 h32dB = zXMWO();
 break;
 case 'e':
-v4_zyNZ = PsV1(h32dB, 141236537, B5Ot_, -435037801) << Lr01;
+v4_zyNZ = PsV1(h32dB, 141236537, B5Ot_, (short)-435037801) << Lr01;
 break;
 case 'f':
 YXv0o = (int)floor(l3wz4JDT8);
@@ -473,7 +473,7 @@ qb_7RO7m = (int)abs(r2C0zW6);
 }
 else if (draP47 <= pv32v_90)
 {
-Tt53 = PsV1(pL1Ea, kg0_h7, VSa62eN, 60145845) | 62005588;
+Tt53 = PsV1(pL1Ea, kg0_h7, VSa62eN, (short)60145845) | 62005588;
 }
 else
 {
@@ -510,7 +510,7 @@ unsigned char	Slli()	{
 }
 
 unsigned short int    zXMWO()    {
-    return    1748251351;
+    return    (unsigned short)1748251351;
 }
 
 unsigned char WCG2z(unsigned short n83k)
@@ -520,6 +520,6 @@ unsigned char WCG2z(unsigned short n83k)
 
 char  PsV1(unsigned long  oga_Y,unsigned long  YIw_4SPt,unsigned long long  mGq7xI47__,short int  WxA4v)
 {
-  return  -1063667664;
+  return  (char)-1063667664;
 }
 

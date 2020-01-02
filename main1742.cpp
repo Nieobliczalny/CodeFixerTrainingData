@@ -42,7 +42,7 @@ if (Jwqap66)
 int j = 0;
 while (j < 1)
 {
-CG72To9E = v7DCghP3C(1394052332, Ct0aal4, (char)-1216734691, -1317483551, J3t8R);
+CG72To9E = v7DCghP3C((unsigned short)1394052332, Ct0aal4, (char)-1216734691, -1317483551, J3t8R);
 j++;
 }
 }
@@ -65,7 +65,7 @@ if ((CG72To9E <= j5X6W6) || (Jwqap66 < j5X6W6))
 int k = 9;
 do
 {
-Ct0aal4 = oCCTf_N4(209779767, Ct0aal4, phBo_a1, -892597470, Z33YeBk_39);
+Ct0aal4 = oCCTf_N4(209779767, Ct0aal4, phBo_a1, (short)-892597470, Z33YeBk_39);
 --k;
 }
 while (k >= 0);
@@ -92,7 +92,7 @@ qXE_X6_T = (long)(S3sRfgJ5GF);
 }
 else if ((Jwqap66 == j5X6W6) && (Jwqap66 < j5X6W6))
 {
-std::cout << XAlpnJ0n4E << r6_uS_w(-697066703, (short)1599736526, 902491122, CG72To9E) << vLek9us << V41QkXK6i7 << r6_uS_w(phBo_a1, t77X, 307992077, CG72To9E) << std::endl;
+std::cout << XAlpnJ0n4E << r6_uS_w((unsigned short)-697066703, (short)1599736526, 902491122, CG72To9E) << vLek9us << V41QkXK6i7 << r6_uS_w(phBo_a1, t77X, 307992077, CG72To9E) << std::endl;
 }
 else
 {
@@ -116,7 +116,7 @@ int  d8jYgA0b1(long  LU334_2K,int  tfaRI2z_,long long  BDMYU)  {
 
 unsigned char	r6_uS_w(unsigned short	Gaovz9,short int	R63h5d,long long	F0UfkI,unsigned short	v78073db)
 {
-	return	-956389468;
+	return	(unsigned char)-956389468;
 }
 
 char s_fH80(int gF2M3e,int fUQN5Fs0b)

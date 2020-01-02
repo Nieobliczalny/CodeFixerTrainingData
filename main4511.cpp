@@ -21,7 +21,7 @@ int main()
  unsigned short Uyo__;
  Uyo__ = 0;
  unsigned short sJ6po3n6;
- sJ6po3n6 = -1200606107;
+ sJ6po3n6 = (unsigned short)-1200606107;
 	unsigned short int	s_7oq;
 	s_7oq	=	(unsigned short)-1892863845;
   unsigned long long  VUTLkU;
@@ -43,7 +43,7 @@ int main()
   double  GRbr5pL7S;
   GRbr5pL7S  =  1017066375;
   char  J267DP;
-  J267DP  =  1660676904;
+  J267DP  =  (char)1660676904;
   unsigned long long  k58264;
   k58264  =  1702894837;
 	char	VQngt6;
@@ -56,7 +56,7 @@ int i = 5;
 do
 {
 i--;
-x1PHE1 = bLpV(-1128400445, x1PHE1);
+x1PHE1 = bLpV((unsigned short)-1128400445, x1PHE1);
 }
 while (i >= 0);
 }
@@ -185,7 +185,7 @@ J267DP <<= 328998844;
 }
 else if (p5_5fu7XRH & 813306728)
 {
-Ju36iNDmps = bLpV(-1560265949, 298583800);
+Ju36iNDmps = bLpV((unsigned short)-1560265949, 298583800);
 }
 else if (Uyo__ & 237268241)
 {
@@ -283,7 +283,7 @@ catch (int& errorCode)
 {
 GRbr5pL7S = (int)abs(x1PHE1);
 }
-k58264 = bLpV(-767754277, ryZ5x_6__);
+k58264 = bLpV((unsigned short)-767754277, ryZ5x_6__);
 VQngt6 = (char)(sJ6po3n6 * VQngt6);
 
 {
@@ -335,7 +335,7 @@ cK5hZ = (int)floor(GRbr5pL7S);
 }
 else if (cK5hZ)
 {
-std::cout << YHF2(-1573563559, 752138723) << bLpV(305297152, ryZ5x_6__) << thSX7r(VQngt6, 1898050951, (unsigned short)-1438528373) << "nwG3bp" << std::endl;
+std::cout << YHF2(-1573563559, 752138723) << bLpV((unsigned short)305297152, ryZ5x_6__) << thSX7r(VQngt6, 1898050951, (unsigned short)-1438528373) << "nwG3bp" << std::endl;
 }
 else
 {
@@ -358,7 +358,7 @@ int i = 0;
 while (i < 8)
 {
 ++i;
-s_7oq = bLpV(509819075, 302500076);
+s_7oq = bLpV((unsigned short)509819075, 302500076);
 }
 }
 
@@ -386,7 +386,7 @@ Ju36iNDmps = s_7oq | kWwdE6c;
 while (i < 9);
 }
 
-kWwdE6c = thSX7r(-1680620972, p5_5fu7XRH, 847403354);
+kWwdE6c = thSX7r(-1680620972, p5_5fu7XRH, (unsigned short)847403354);
 VUTLkU = thSX7r(VUTLkU, nZ_5nca, cK5hZ);
 GRbr5pL7S = (int)floor(cK5hZ);
 
@@ -408,7 +408,7 @@ case 'c':
 p5_5fu7XRH = YHF2(-826414529, 1303644147);
 break;
 case 'd':
-x1PHE1 = Yn5jY_41WU(sJ6po3n6, 263317876, (unsigned short)1032032243, p5_5fu7XRH, -741982570) / 986439873;
+x1PHE1 = Yn5jY_41WU(sJ6po3n6, (short)263317876, (unsigned short)1032032243, p5_5fu7XRH, -741982570) / 986439873;
 break;
 case 'e':
 s_7oq = GRbr5pL7S / Uyo__;
@@ -436,7 +436,7 @@ break;
 
 RGvSJi = (short)(Uyo__);
 
-s_7oq = Yn5jY_41WU(s_7oq, 1695675793, (unsigned short)1289121929, 127969146, J267DP);
+s_7oq = Yn5jY_41WU(s_7oq, (short)1695675793, (unsigned short)1289121929, 127969146, J267DP);
 try
 {
 J267DP = (char)(kWwdE6c);
@@ -470,7 +470,7 @@ else if ((sJ6po3n6 != 998104313) || ((kWwdE6c < -1925673940) && (VUTLkU != nZ_5n
 {
 if (Ju36iNDmps <= 747850497)
 {
-GRbr5pL7S = bLpV(1906817164, Uyo__);
+GRbr5pL7S = bLpV((unsigned short)1906817164, Uyo__);
 }
 else if (k58264)
 {
@@ -482,7 +482,7 @@ GRbr5pL7S = VUTLkU | 1131119375;
 }
 else if (GRbr5pL7S == p5_5fu7XRH)
 {
-s_7oq = Yn5jY_41WU(p5_5fu7XRH, -2004625225, Ju36iNDmps, (char)2017539337, 2005481953);
+s_7oq = Yn5jY_41WU(p5_5fu7XRH, (short)-2004625225, Ju36iNDmps, (char)2017539337, 2005481953);
 }
 else if (x1PHE1 == -84526024)
 {
@@ -527,7 +527,7 @@ GRbr5pL7S = (int)floor(cK5hZ);
 }
 else
 {
-GRbr5pL7S = thSX7r(-249935428, ryZ5x_6__, -1603450049);
+GRbr5pL7S = thSX7r(-249935428, ryZ5x_6__, (unsigned short)-1603450049);
 }
 }
 else
@@ -574,7 +574,7 @@ while (i < 10);
 }
 for (int i = 8; i >= 0; i--)
 {
-VUTLkU = Yn5jY_41WU(227245035, VUTLkU, (unsigned short)489819616, -1380099306, -1795114875);
+VUTLkU = Yn5jY_41WU((char)227245035, VUTLkU, (unsigned short)489819616, -1380099306, -1795114875);
 }
 
 if (VUTLkU >= -1647718975)
@@ -647,7 +647,7 @@ case 3:
 GRbr5pL7S = bLpV(Uyo__, 1875042220);
 break;
 case 4:
-J267DP = Yn5jY_41WU(J267DP, sJ6po3n6, kWwdE6c, 1316835827, (short)-203914679);
+J267DP = Yn5jY_41WU(J267DP, sJ6po3n6, kWwdE6c, (char)1316835827, (short)-203914679);
 break;
 case 5:
 kWwdE6c ^= 942188019;
@@ -689,7 +689,7 @@ while (k >= 0);
 }
 else
 {
-std::cout << bLpV(J267DP, 866189528) << "yh34g" << RGvSJi << Yn5jY_41WU(-2036587173, (short)1281763927, VUTLkU, 1274067967, -159222520) << std::endl;
+std::cout << bLpV(J267DP, 866189528) << "yh34g" << RGvSJi << Yn5jY_41WU((char)-2036587173, (short)1281763927, VUTLkU, 1274067967, -159222520) << std::endl;
 }
 return 0;
 }

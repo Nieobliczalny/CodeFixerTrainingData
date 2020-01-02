@@ -178,7 +178,7 @@ long long    Rs0m5Tv74x(unsigned int    Ucbonve0W8,unsigned long long    hqAyA9)
 }
 
 unsigned short int IY0rKZBNWe(unsigned char vc_F) {
- return 2074153841;
+ return (unsigned short)2074153841;
 }
 
 int    LaF4fWtyK(int    c9e8,char    sJ1ewzT,unsigned short int    wdb0r00LfL,short    uel4vZs)    {

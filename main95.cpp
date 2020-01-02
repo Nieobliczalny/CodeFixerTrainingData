@@ -16,7 +16,7 @@ int main(int argc, char** argv) {
 	long double	S9Lp;
 	S9Lp	=	-1388553518;
 	unsigned short int	D4l0doT9;
-	D4l0doT9	=	-1640585949;
+	D4l0doT9	=	(unsigned short)-1640585949;
   unsigned int  YJbSQFEON;
   YJbSQFEON  =  353867577;
     double    mWa4cPO8;
@@ -26,7 +26,7 @@ int main(int argc, char** argv) {
 	long long	J59Qh;
 	J59Qh	=	-1339390568;
     unsigned char    g3__eP038;
-    g3__eP038    =    -1000321385;
+    g3__eP038    =    (unsigned char)-1000321385;
   unsigned long  URwAuyW;
   URwAuyW  =  -1072741532;
 	long long	l2Cawo10o;
@@ -48,7 +48,7 @@ int main(int argc, char** argv) {
     unsigned long    Eyr4Zw_LPJ;
     Eyr4Zw_LPJ    =    -388985040;
 	short	F4mrMcS3;
-	F4mrMcS3	=	658015343;
+	F4mrMcS3	=	(short)658015343;
  unsigned long long a1g3l;
  a1g3l = 519287733;
  unsigned long long Pu57aBL4;
@@ -126,7 +126,7 @@ if (Eyr4Zw_LPJ > S9Lp)
 {
 if (CC23pg0 > YJbSQFEON)
 {
-F4mrMcS3 = (S9Lp <= Oc60_w7) ? -393877595 : (short)-1271096807;
+F4mrMcS3 = (S9Lp <= Oc60_w7) ? (short)-393877595 : (short)-1271096807;
 }
 else
 {

@@ -105,7 +105,7 @@ case 4:
 T7gkWH = BkAiw << GN_E;
 break;
 case 5:
-f59807_ = qc_Ai | 349585651;
+f59807_ = qc_Ai | (char)349585651;
 break;
 case 6:
 SHaub += 549826319;
@@ -214,7 +214,7 @@ case 4:
 A25lko = OPekGl6Ghz | PhfV19;
 break;
 case 5:
-K_706_ = (T7gkWH <= qc_Ai) ? dK5d63 : -1568104643;
+K_706_ = (T7gkWH <= qc_Ai) ? dK5d63 : (char)-1568104643;
 break;
 case 6:
 IUX1h >>= f59807_;
@@ -352,7 +352,7 @@ while (i >= 0);
 }
 K9hkLN2 += 1085297681;
 
-PEzb = qc_Ai ^ 1976956293;
+PEzb = qc_Ai ^ (char)1976956293;
 return 0;
 }
 

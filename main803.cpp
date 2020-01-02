@@ -432,6 +432,6 @@ unsigned short int	P5Pb7Z(unsigned long long	W2Kt)
 }
 
 short int ZNnavh0C2(unsigned int qnk2,long long DM4Hat,unsigned long long jij3Q) {
- return -980729064;
+ return (short)-980729064;
 }
 

@@ -15,7 +15,7 @@ int main(int argc, char** argv) {
   fbn2Av  =  0;
   P_M0_  =  0;
   short int  X5Im_lSo,  o2GX,  Ut42,  q7ZM,  tdhp__P6R6,  YhEmL71,  vBaER8iBcr,  GTEnuzP2H,  YKBJL__,  NKDZ,  dvHTI,  yEBbdg64,  uo98bXp7yp,  JSNvR,  d5aIC1c,  lM5bmx,  i80LCe7,  LU492,  D_VGlP7ya1,  UayhL32J,  o7exznb_;
-  X5Im_lSo  =  6198316;
+  X5Im_lSo  =  (short)6198316;
   o2GX  =  (short)-1308270629;
   Ut42  =  -2124101792;
   q7ZM  =  -2077362411;
@@ -25,7 +25,7 @@ int main(int argc, char** argv) {
   GTEnuzP2H  =  -1530146104;
   YKBJL__  =  610808123;
   NKDZ  =  2072173512;
-  dvHTI  =  -377578701;
+  dvHTI  =  (short)-377578701;
   yEBbdg64  =  (short)960165066;
   uo98bXp7yp  =  -1035965516;
   JSNvR  =  1370177546;
@@ -35,7 +35,7 @@ int main(int argc, char** argv) {
   LU492  =  -966093485;
   D_VGlP7ya1  =  -352075957;
   UayhL32J  =  -1914296813;
-  o7exznb_  =  -1349068573;
+  o7exznb_  =  (short)-1349068573;
 
 q7ZM = (int)abs(YKBJL__);
 LU492 = NKDZ ^ 302729524;
@@ -45,7 +45,7 @@ if ((D_VGlP7ya1 <= 906279454) || (lM5bmx <= GTEnuzP2H))
 {
 try
 {
-YKBJL__ = (YKBJL__) ? q7ZM : -1022256858;
+YKBJL__ = (YKBJL__) ? q7ZM : (short)-1022256858;
 }
 catch (int& errorCode)
 {
@@ -162,7 +162,7 @@ try
 {
 for (int k = 7; k >= 0; k--)
 {
-o2GX = (vBaER8iBcr > X5Im_lSo) ? 1505092563 : lM5bmx;
+o2GX = (vBaER8iBcr > X5Im_lSo) ? (short)1505092563 : lM5bmx;
 }
 }
 catch (int& errorCode)
@@ -222,7 +222,7 @@ d5aIC1c = NKDZ / GTEnuzP2H;
 break;
 case 'c':
 case 'C':
-yEBbdg64 = (q7ZM & 1454351899) ? fbn2Av : -1645858893;
+yEBbdg64 = (q7ZM & 1454351899) ? fbn2Av : (short)-1645858893;
 break;
 case 'd':
 case 'D':
@@ -441,7 +441,7 @@ vBaER8iBcr = (int)abs(JSNvR);
 }
 else if (NKDZ != -923460508)
 {
-LU492 = (i80LCe7 == UayhL32J) ? 1283438569 : (short)-1007812478;
+LU492 = (i80LCe7 == UayhL32J) ? (short)1283438569 : (short)-1007812478;
 }
 else if (lM5bmx >= yn348l)
 {

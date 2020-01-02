@@ -448,7 +448,7 @@ return 0;
 
 short int bY6Ir1i7()
 {
- return -1662704783;
+ return (short)-1662704783;
 }
 
 long OeMY17i4(int GI6SUSI8) {

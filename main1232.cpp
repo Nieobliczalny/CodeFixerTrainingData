@@ -13,7 +13,7 @@ unsigned int	z79cxUB(long long	w87kc5Z83l,unsigned short int	ipRTv)
 }
 
 unsigned short int	Cmytm6_64(unsigned short	Qa220cIH,char	KJA4f1Ylb)	{
-	return	-502355774;
+	return	(unsigned short)-502355774;
 }
 
 unsigned short  QCCJu8V9Iu(unsigned long long  eFl19Z)  {
@@ -33,7 +33,7 @@ int main(void)
   short  xCvPePDR;
   xCvPePDR  =  0;
     unsigned short    PXus;
-    PXus    =    306201795;
+    PXus    =    (unsigned short)306201795;
  long double FGprx19kxP;
  FGprx19kxP = 1904016682;
     unsigned char    hnE77kQj;
@@ -43,7 +43,7 @@ int main(void)
  unsigned char uy73V6G;
  uy73V6G = -222353772;
  short int Bq3l8l30Tp;
- Bq3l8l30Tp = -568331927;
+ Bq3l8l30Tp = (short)-568331927;
  unsigned short ba8n_0nZ;
  ba8n_0nZ = -1412586655;
   unsigned int  LQ1XsG;
@@ -53,7 +53,7 @@ int main(void)
  unsigned short int fK55;
  fK55 = (unsigned short)907204;
     short int    L12y445Q;
-    L12y445Q    =    -1670395705;
+    L12y445Q    =    (short)-1670395705;
 	unsigned long long	pfmjTxG1;
 	pfmjTxG1	=	1993199049;
   unsigned int  xt7Rpr45sy;
@@ -71,7 +71,7 @@ int main(void)
     unsigned long long    p8TyRV;
     p8TyRV    =    -954131223;
 	unsigned short int	oC1AHQU5;
-	oC1AHQU5	=	-1432450553;
+	oC1AHQU5	=	(unsigned short)-1432450553;
 	long long	WqjCV;
 	WqjCV	=	-431485264;
 	unsigned long	pL6ih;
@@ -81,7 +81,7 @@ int main(void)
   unsigned long  Aa7Xu;
   Aa7Xu  =  -1058773397;
   char  R7gc;
-  R7gc  =  -519820596;
+  R7gc  =  (char)-519820596;
   unsigned short  K2PQ29wknm;
   K2PQ29wknm  =  0;
  unsigned long cfuGaI;
@@ -97,7 +97,7 @@ int main(void)
  unsigned long long wYk81k;
  wYk81k = -1589528847;
 	unsigned short	LO0R;
-	LO0R	=	-649050145;
+	LO0R	=	(unsigned short)-649050145;
 	unsigned long long	VuskC7;
 	VuskC7	=	331271452;
  unsigned long W1P0HDsVKw;
@@ -109,7 +109,7 @@ int main(void)
     long double    k4itrQ;
     k4itrQ    =    -1060674794;
     char    r54ZUO_t;
-    r54ZUO_t    =    684890132;
+    r54ZUO_t    =    (char)684890132;
  unsigned long W69d8u;
  W69d8u = -793555447;
  long VMWc;
@@ -129,7 +129,7 @@ int main(void)
  double KJ59xeV65;
  KJ59xeV65 = -8509587;
   unsigned short  cSnxMFc;
-  cSnxMFc  =  1460290976;
+  cSnxMFc  =  (unsigned short)1460290976;
 	unsigned short int	srKah;
 	srKah	=	(unsigned short)-1093718157;
  unsigned short int n0fXr8q5y;

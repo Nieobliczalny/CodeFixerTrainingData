@@ -20,7 +20,7 @@ int main(void)
     unsigned long long    YGDh_h;
     YGDh_h    =    35179044;
   short int  QjenwkIC;
-  QjenwkIC  =  -722979932;
+  QjenwkIC  =  (short)-722979932;
     short    M8Y3h41;
     M8Y3h41    =    (short)-2023527987;
     unsigned short int    D8I1VnX;
@@ -36,7 +36,7 @@ int main(void)
     long double    YC5zx;
     YC5zx    =    -730029319;
  char z52dmS;
- z52dmS = -643649944;
+ z52dmS = (char)-643649944;
   unsigned long long  KwFc8CA;
   KwFc8CA  =  259450385;
 	short	kzHd1hQ9tO;
@@ -50,7 +50,7 @@ int main(void)
   long  DoTfI;
   DoTfI  =  0;
     unsigned char    xxaWO6Nf5;
-    xxaWO6Nf5    =    377658924;
+    xxaWO6Nf5    =    (unsigned char)377658924;
 
 K6_04MuS_ ^= 756607247;
 
@@ -81,7 +81,7 @@ while (i < 8)
 {
 if (K6_04MuS_ != 1848595136)
 {
-WeLea6 = SG32mlV(-1124535974, th95c2);
+WeLea6 = SG32mlV((unsigned short)-1124535974, th95c2);
 }
 i++;
 }
@@ -99,7 +99,7 @@ case 'c':
 lG3v6zyR--;
 break;
 case 'd':
-mjUq = SG32mlV(-769208427, (unsigned short)-1877671757);
+mjUq = SG32mlV((unsigned short)-769208427, (unsigned short)-1877671757);
 break;
 case 'e':
 YC5zx = (int)ceil(xfx5p74);
@@ -111,7 +111,7 @@ break;
 
 WeLea6 = SG32mlV(WeLea6, K6_04MuS_);
 
-WeLea6 = SG32mlV(-475942621, (unsigned short)1270484934);
+WeLea6 = SG32mlV((unsigned short)-475942621, (unsigned short)1270484934);
 DoTfI = SG32mlV(197465054, DoTfI);
 
 if (mjUq > -1113154859)
@@ -125,7 +125,7 @@ std::cout << "BoT052nY60" << SG32mlV(729478276, -96256969) << SG32mlV(xfx5p74, 1
 
 lG3v6zyR = (unsigned int)(mjUq + (2070562487));
 
-WeLea6 = SG32mlV(-522873700, (unsigned short)381757275);
+WeLea6 = SG32mlV((unsigned short)-522873700, (unsigned short)381757275);
 {
 int i = 0;
 while (i < 5)
@@ -178,7 +178,7 @@ if (YbUe > 1145138397)
 int j = 0;
 while (j < 2)
 {
-D8I1VnX = SG32mlV(-1034245623, D8I1VnX);
+D8I1VnX = SG32mlV((unsigned short)-1034245623, D8I1VnX);
 j++;
 }
 }
@@ -206,7 +206,7 @@ do
 {
 for (int k = 6; k >= 0; --k)
 {
-D8I1VnX = SG32mlV(-2124099089, (unsigned short)2114661743);
+D8I1VnX = SG32mlV((unsigned short)-2124099089, (unsigned short)2114661743);
 }
 j--;
 }
@@ -219,7 +219,7 @@ switch (z52dmS)
 {
 case 'a':
 case 'A':
-D8I1VnX = SG32mlV(-1262210349, (unsigned short)-1911106886);
+D8I1VnX = SG32mlV((unsigned short)-1262210349, (unsigned short)-1911106886);
 break;
 case 'b':
 case 'B':

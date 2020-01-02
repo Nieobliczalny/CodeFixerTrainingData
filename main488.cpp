@@ -193,7 +193,7 @@ for (int i = 0; i < 4; i++)
 {
 kgkQf0dvD = (int)abs(BC7Tx);
 }
-IY5su4oG = (LxB0ae4l) ? em4BaT7L : -1389246036;
+IY5su4oG = (LxB0ae4l) ? em4BaT7L : (char)-1389246036;
 
 B6c8F = (int)abs(o3_HJ);
 try

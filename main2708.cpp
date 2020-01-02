@@ -24,7 +24,7 @@ int main(int argc, char** argv)
  unsigned int G2r_gUmE;
  G2r_gUmE = -328517546;
  char JHXNZ;
- JHXNZ = -1421321535;
+ JHXNZ = (char)-1421321535;
 	unsigned short	deP_Z7AU3;
 	deP_Z7AU3	=	(unsigned short)1689442848;
   long double  zg6H_;
@@ -38,7 +38,7 @@ int main(int argc, char** argv)
     double    s8_A;
     s8_A    =    -1542325830;
 	unsigned char	aufy_;
-	aufy_	=	1205121349;
+	aufy_	=	(unsigned char)1205121349;
     unsigned long long    ejPqBX5i42;
     ejPqBX5i42    =    -939771403;
  int Fj21v;
@@ -48,7 +48,7 @@ int main(int argc, char** argv)
  long TVe5_YNq72;
  TVe5_YNq72 = 536871225;
 	unsigned short	uQ1K9_;
-	uQ1K9_	=	-881894329;
+	uQ1K9_	=	(unsigned short)-881894329;
   short  UwRmHw530T;
   UwRmHw530T  =  -1423362817;
  long ED1vR22vZ;
@@ -60,7 +60,7 @@ int main(int argc, char** argv)
     unsigned long long    h356;
     h356    =    0;
  char oJ0y1zP1F;
- oJ0y1zP1F = -1699897938;
+ oJ0y1zP1F = (char)-1699897938;
   int  L_owB;
   L_owB  =  -181284853;
  unsigned char jxm_dFrl1;
@@ -70,7 +70,7 @@ int main(int argc, char** argv)
   long double  nF_0U;
   nF_0U  =  -1703927791;
 	unsigned char	AvnnVMYJr;
-	AvnnVMYJr	=	12088641;
+	AvnnVMYJr	=	(unsigned char)12088641;
     double    zH9u5k;
     zH9u5k    =    485723107;
 	unsigned char	s4l4s;
@@ -86,7 +86,7 @@ int main(int argc, char** argv)
   unsigned long  bw32;
   bw32  =  -1922463894;
     short int    HQ3N8zj;
-    HQ3N8zj    =    -1902264520;
+    HQ3N8zj    =    (short)-1902264520;
 	unsigned short int	T48d;
 	T48d	=	(unsigned short)-1539891830;
  long d_3s68;
@@ -102,7 +102,7 @@ int main(int argc, char** argv)
   long long  h0wMX4L5t;
   h0wMX4L5t  =  978538509;
   char  muztPPi2k6;
-  muztPPi2k6  =  1060506638;
+  muztPPi2k6  =  (char)1060506638;
 	unsigned long	B9J17xA;
 	B9J17xA	=	-1167660334;
     char    GBeE6u9;
@@ -124,7 +124,7 @@ int main(int argc, char** argv)
 	unsigned long	a_w_;
 	a_w_	=	895641929;
   unsigned char  QkrVq337;
-  QkrVq337  =  -728886217;
+  QkrVq337  =  (unsigned char)-728886217;
     char    y70r;
     y70r    =    0;
   short  buYPa92VY7;
@@ -140,7 +140,7 @@ int main(int argc, char** argv)
  double j65O;
  j65O = -78184318;
  unsigned short int uAstw7sq;
- uAstw7sq = 741036280;
+ uAstw7sq = (unsigned short)741036280;
  unsigned int u8Y1;
  u8Y1 = 1102847321;
  unsigned short int iTMvJ;
@@ -154,7 +154,7 @@ int main(int argc, char** argv)
     long    YmYB080TJ;
     YmYB080TJ    =    -1974253613;
  char PEX8x_T;
- PEX8x_T = -1994141411;
+ PEX8x_T = (char)-1994141411;
  float sMIm7Ey353;
  sMIm7Ey353 = -67999193;
  unsigned short int la2r__;
@@ -164,7 +164,7 @@ int main(int argc, char** argv)
   float  NFbRZ2151;
   NFbRZ2151  =  1923571144;
     short    B5KryOKB06;
-    B5KryOKB06    =    1815073866;
+    B5KryOKB06    =    (short)1815073866;
 	long double	cZ8q4g1;
 	cZ8q4g1	=	1872519884;
  unsigned short mCciBe;
@@ -180,7 +180,7 @@ int main(int argc, char** argv)
 	double	Gy_fI01;
 	Gy_fI01	=	486762822;
  char Zv6y;
- Zv6y = -1682691880;
+ Zv6y = (char)-1682691880;
   long long  D18X746J45;
   D18X746J45  =  1040361188;
     unsigned int    DQ3Tx;
@@ -240,7 +240,7 @@ VKXca9Ecs7 &= uQ1K9_;
 G2r_gUmE = (unsigned int)(HQ3N8zj);
 try
 {
-std::cout << KN9z(-1994581275, (short)1967364439, 2023866407, -2023577564) << "D5YEW16MS" << "Ma4gfI" << "g6VP_7" << std::endl;
+std::cout << KN9z((char)-1994581275, (short)1967364439, 2023866407, -2023577564) << "D5YEW16MS" << "Ma4gfI" << "g6VP_7" << std::endl;
 }
 catch (int& errorCode)
 {
@@ -286,7 +286,7 @@ T48d = KN9z(940062880, 1620174104, 410232015, 743888821);
 bJ336BZ1--;
 
 TVe5_YNq72 = o6Fh5adCc2();
-std::cout << G0b6I() << "jGNjaNZ45G" << KN9z(72675556, (short)1069052148, PEX8x_T, -149631021) << dU6J << std::endl;
+std::cout << G0b6I() << "jGNjaNZ45G" << KN9z((char)72675556, (short)1069052148, PEX8x_T, -149631021) << dU6J << std::endl;
 s4l4s = (unsigned char)(u8Y1);
 
 try
@@ -431,7 +431,7 @@ return 0;
 }
 
 short Pwmv(unsigned long chg60S6b7,unsigned int q_38cMjN,long long lj__,long Ci_2J7Zqw,short int xOQrDF2O) {
- return -4033884;
+ return (short)-4033884;
 }
 
 unsigned short o6Fh5adCc2()

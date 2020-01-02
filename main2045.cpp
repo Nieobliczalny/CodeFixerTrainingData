@@ -55,7 +55,7 @@ LDdSE = (int)floor(Q3D5lTit_3);
 
 for (int i = 5; i >= 0; i--)
 {
-std::cout << e1W7d(1272601423, (unsigned short)1671304398) << e40GLj5h29(71180482, -1778044526, -1808056011) << e40GLj5h29(-1236333176, 1287894205, -407989906) << std::endl;
+std::cout << e1W7d((unsigned short)1272601423, (unsigned short)1671304398) << e40GLj5h29(71180482, -1778044526, -1808056011) << e40GLj5h29(-1236333176, 1287894205, -407989906) << std::endl;
 }
 
 {
@@ -84,7 +84,7 @@ else if ((LDdSE != -803405618) && (ao5q > 1946389215))
 {
 if ((x9lL8 == -1760308709) || (x9lL8 != -1984034305))
 {
-LDdSE = e40GLj5h29(1414959560, 1372351804, -2033286682);
+LDdSE = e40GLj5h29(1414959560, 1372351804, (unsigned char)-2033286682);
 }
 else
 {
@@ -109,7 +109,7 @@ int k = 0;
 while (k < 1)
 {
 k++;
-D79b = e1W7d(LDdSE, -36036904);
+D79b = e1W7d(LDdSE, (unsigned short)-36036904);
 }
 }
 }
@@ -174,7 +174,7 @@ unsigned long long    OwU3(unsigned char    LMQB)
 
 short    D9kFk690Zo(unsigned long long    jP3Z57,unsigned short    D8BpwX3_V,unsigned long    jSDB9h0y)
 {
-    return    857227114;
+    return    (short)857227114;
 }
 
 unsigned char    e40GLj5h29(long    w85a8kh,int    fYV2Av,unsigned char    z62U4a)    {

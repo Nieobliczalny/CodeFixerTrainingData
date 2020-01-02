@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
 	double	AcA0G_;
 	AcA0G_	=	2100952010;
  unsigned short int AUFns4;
- AUFns4 = 1262036883;
+ AUFns4 = (unsigned short)1262036883;
   int  ymLD4D4_;
   ymLD4D4_  =  -649194059;
     unsigned short int    uNC7N96o;
@@ -34,7 +34,7 @@ case 0:
 uNC7N96o ^= AUFns4;
 break;
 case 1:
-ymLD4D4_ = xnQGz(ymLD4D4_, AUFns4, zC1iQG6, 764955372);
+ymLD4D4_ = xnQGz(ymLD4D4_, AUFns4, zC1iQG6, (unsigned char)764955372);
 break;
 case 2:
 AcA0G_ = oKA_zOA_(ymLD4D4_) + 1104207350;
@@ -102,7 +102,7 @@ else if (AcA0G_ > AUFns4)
 switch (ymLD4D4_)
 {
 case 'a':
-AcA0G_ = oKA_zOA_(-1418158586);
+AcA0G_ = oKA_zOA_((unsigned short)-1418158586);
 break;
 default:
 uNC7N96o >>= AUFns4;
@@ -243,7 +243,7 @@ case 'f':
 zC1iQG6 = b9z06();
 break;
 default:
-AcA0G_ = oKA_zOA_(505248577) * 1110210618;
+AcA0G_ = oKA_zOA_((unsigned short)505248577) * 1110210618;
 break;
 }
 if (ymLD4D4_ & -818558891)
@@ -300,7 +300,7 @@ return 0;
 
 unsigned char	xnQGz(long long	t7y_L,unsigned long	ekwCjm,int	qvq93,unsigned char	vPS9S)
 {
-	return	-1002943708;
+	return	(unsigned char)-1002943708;
 }
 
 short b9z06()
@@ -314,6 +314,6 @@ long I1avkVX90(unsigned long long skA6A,long dlws) {
 
 short int	oKA_zOA_(unsigned short int	wS3pmS)
 {
-	return	-371443133;
+	return	(short)-371443133;
 }
 

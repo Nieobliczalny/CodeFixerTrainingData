@@ -20,7 +20,7 @@ long long  T72tB_Z(short  k1En8ARxXx,unsigned long long  GKDL62_n,unsigned long 
 int main(void)
 {
   long long  wSr7m7H  =  124897648;
-  short int  n85D44h3  =  887514992;
+  short int  n85D44h3  =  (short)887514992;
     unsigned long long    IAEThOCe    =    474639871;
   unsigned short  S9C6Vs35XE  =  (unsigned short)-978601170;
  unsigned long W4r4Y8Q0 = -1667239644;
@@ -30,7 +30,7 @@ int main(void)
 	int	hb5P0l05	=	748388941;
  unsigned short int RBcgVT = 2080198798;
 	char	RYZG_8o	=	-1505650024;
-	short	Grs1Ad4L	=	1405358444;
+	short	Grs1Ad4L	=	(short)1405358444;
  short int eQzdW3oD0i = 1537132890;
 	short	WJ3_AmtA7	=	(short)-1258706609;
     float    Op_30n    =    980188658;
@@ -43,7 +43,7 @@ int main(void)
 	int	a68m3s	=	-1898541530;
  int wdJ_M6 = 418643988;
   unsigned long  e62vrOwJ  =  -973961316;
-  short int  XVjv70  =  749822199;
+  short int  XVjv70  =  (short)749822199;
  unsigned short int D4Rt9ML = (unsigned short)968768480;
   short  FppIK63ht1  =  781697704;
 	long long	tqRS	=	-344174379;
@@ -58,7 +58,7 @@ int main(void)
   unsigned int  e632  =  825876868;
 	long long	k92v	=	1593282046;
 	float	QfP0Hq	=	-502146617;
-  short int  qj_7U_u2  =  1207371196;
+  short int  qj_7U_u2  =  (short)1207371196;
     unsigned short int    m_09    =    (unsigned short)-1514166736;
  unsigned int s77H = 743282693;
   short  NsLhFr  =  -1702305188;
@@ -69,7 +69,7 @@ int main(void)
  short T9NO38y0z = 1709327761;
  unsigned char Vw2owH__tO = 0;
     double    xoVUDg    =    222019763;
-    short    OW6W03l    =    1832823325;
+    short    OW6W03l    =    (short)1832823325;
  double ptJ_jeKi = 1876858695;
     int    Ala_61nB    =    2056495076;
     unsigned long    L43i    =    -955069955;
@@ -79,7 +79,7 @@ int main(void)
 	float	eg69qAlg2W	=	-743441874;
  long long nOP1j1 = -530234425;
  unsigned int Od6xa = 0;
-  unsigned short  viA9WJD  =  -1049077810;
+  unsigned short  viA9WJD  =  (unsigned short)-1049077810;
     int    gq87dqoSv    =    1714620141;
   unsigned short  n_14SG13gY  =  0;
     float    pXyFb    =    779608453;
@@ -91,7 +91,7 @@ int main(void)
  unsigned int fwuM = 1114116163;
  long YxKLU = -1071359315;
 	unsigned long	WCgnO_	=	905820565;
-	unsigned short	E_SW4he	=	917591922;
+	unsigned short	E_SW4he	=	(unsigned short)917591922;
   double  Zxfrco  =  -768908146;
 	long double	gb7_v_lk	=	120641789;
   unsigned int  EcI7i_atW8  =  1670042894;
@@ -105,7 +105,7 @@ int main(void)
  unsigned long UTD_n = 59094501;
 	double	Sn_hpPXxr	=	-1682132156;
 	unsigned long long	o03OcTA1WN	=	515072850;
- char Q3d7 = -2090890687;
+ char Q3d7 = (char)-2090890687;
  unsigned short uV_n0C = (unsigned short)657305023;
 	short	K9Zn5	=	-1091894550;
 
@@ -214,7 +214,7 @@ else if (m_09 == YxKLU)
 {
 if (YxKLU <= dWmygt)
 {
-X17znc82O = T72tB_Z(1284187200, -549483363, 59945492);
+X17znc82O = T72tB_Z((short)1284187200, -549483363, 59945492);
 }
 else if (EcI7i_atW8 > 938006406)
 {
@@ -489,7 +489,7 @@ L43i /= 820542021;
 }
 else
 {
-cout << "yeilfHj_" << T72tB_Z(-1433724376, X17znc82O, YLsY6WL) << T72tB_Z(viA9WJD, X17znc82O, YLsY6WL) << endl;
+cout << "yeilfHj_" << T72tB_Z((short)-1433724376, X17znc82O, YLsY6WL) << T72tB_Z(viA9WJD, X17znc82O, YLsY6WL) << endl;
 }
 switch (hb5P0l05)
 {
@@ -524,7 +524,7 @@ case 0:
 Sn_hpPXxr = (int)ceil(QfP0Hq);
 break;
 case 1:
-xxYmQj1Z = T72tB_Z(-120468901, WNKEQX1W, C1Zo8n);
+xxYmQj1Z = T72tB_Z((short)-120468901, WNKEQX1W, C1Zo8n);
 break;
 case 2:
 WNKEQX1W = Vw2owH__tO + cfxwKY;
@@ -671,7 +671,7 @@ while (i >= 0)
 i--;
 if (qj_7U_u2 < dWmygt)
 {
-cout << T72tB_Z(-1018817002, -987076638, peavV5) << "J37J5a" << DO7Xv8m1() << T72tB_Z((short)161258394, -1498096622, -251698950) << peavV5 << endl;
+cout << T72tB_Z((short)-1018817002, -987076638, peavV5) << "J37J5a" << DO7Xv8m1() << T72tB_Z((short)161258394, -1498096622, -251698950) << peavV5 << endl;
 }
 else if (L43i >= WNKEQX1W)
 {
@@ -706,7 +706,7 @@ unsigned long	DO7Xv8m1()
 }
 
 unsigned short int    vV5IjbwN(int    p0HZJkV)    {
-    return    -628630501;
+    return    (unsigned short)-628630501;
 }
 
 long long  T72tB_Z(short  k1En8ARxXx,unsigned long long  GKDL62_n,unsigned long long  n6eQzH0Y)  {

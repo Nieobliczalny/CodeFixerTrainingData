@@ -75,7 +75,7 @@ YIy1U62E = wMnl(YIy1U62E);
 }
 if (ZAFL <= 1873949805)
 {
-std::cout << wMnl(-2000874135) << tfVr7u << Ojb8((short)1170597835, T7BJw) << "CgF3jH" << std::endl;
+std::cout << wMnl((unsigned short)-2000874135) << tfVr7u << Ojb8((short)1170597835, T7BJw) << "CgF3jH" << std::endl;
 }
 else
 {
@@ -94,7 +94,7 @@ else if (U6Gezu9 != otq9q)
 {
 if (UiHM777Ze == E2ou8EKf)
 {
-qwbzr2F = Ojb8(2021325178, eZC23l2_0J);
+qwbzr2F = Ojb8((short)2021325178, eZC23l2_0J);
 }
 else if (((V_8Rp <= N7qahoJsr1) || (WqGDQQ24M)) || (tfVr7u <= Z2J0EL9))
 {
@@ -110,7 +110,7 @@ U6Gezu9 = Ojb8(U6Gezu9, -1294981148);
 }
 else if ((J13d == -1328749010) || (tfVr7u))
 {
-zXHHh = Ojb8(393479402, oggoiiFy);
+zXHHh = Ojb8((short)393479402, oggoiiFy);
 }
 else if (otq9q != -79910602)
 {
@@ -125,7 +125,7 @@ else if ((Eml18r != D6vqgS7lv) && (Eml18r & -686607640))
 {
 if (((V_8Rp > -36305247) && (UjYi & OP4g690v)) && (qwbzr2F & qLe1_))
 {
-ZAFL = wMnl(-1526668520);
+ZAFL = wMnl((unsigned short)-1526668520);
 }
 else
 {
@@ -183,7 +183,7 @@ for (int i = 1; i >= 0; i--)
 {
 try
 {
-Vms5 = wMnl(-950687728);
+Vms5 = wMnl((unsigned short)-950687728);
 }
 catch (int& errorCode)
 {
@@ -258,7 +258,7 @@ int k = 0;
 while (k < 8)
 {
 ++k;
-qwbzr2F = wMnl(1184125223) ^ OGTf2G;
+qwbzr2F = wMnl((unsigned short)1184125223) ^ OGTf2G;
 }
 }
 }
@@ -278,7 +278,7 @@ while (i >= 0);
 }
 tfVr7u = Ojb8(tfVr7u, -1227766552);
 
-std::cout << wMnl(1681069081) << qLe1_ << wMnl(tfVr7u) << J9mf(tfVr7u) << std::endl;
+std::cout << wMnl((unsigned short)1681069081) << qLe1_ << wMnl(tfVr7u) << J9mf(tfVr7u) << std::endl;
 UjYi = CLLDf9 + 1756416287;
 
 std::cout << "T065oz3h8O" << wMnl(tfVr7u) << T7BJw << D6vqgS7lv << wMnl(tfVr7u) << std::endl;
@@ -311,7 +311,7 @@ eZC23l2_0J = (int)abs(mOvp);
 }
 else
 {
-zXHHh = Ojb8(612570810, 1903998260);
+zXHHh = Ojb8((short)612570810, 1903998260);
 }
 }
 i--;
@@ -332,7 +332,7 @@ Vms5 -= 1942378286;
 }
 else if (xmPlf0_o)
 {
-E2ou8EKf = Ojb8(382213653, OPBox44O8);
+E2ou8EKf = Ojb8((short)382213653, OPBox44O8);
 }
 else if ((V_8Rp & 645079277) && (Eml18r < OP4g690v))
 {
@@ -342,7 +342,7 @@ CYUWwL7 = Ojb8(CYUWwL7, -260928542);
 }
 else
 {
-qwbzr2F = Ojb8(865492796, 2128704471);
+qwbzr2F = Ojb8((short)865492796, 2128704471);
 }
 }
 else
@@ -445,7 +445,7 @@ do
 switch (b7VsDg)
 {
 case 0:
-oggoiiFy = Ojb8(2040445382, -1282502221);
+oggoiiFy = Ojb8((short)2040445382, -1282502221);
 break;
 case 1:
 DeyM = T7BJw / D6vqgS7lv;
@@ -497,7 +497,7 @@ unsigned char    J9mf(unsigned int    fFbiDoS)    {
 
 short int Ojb8(short F9SHZ,unsigned int TR8jLI)
 {
- return 420204331;
+ return (short)420204331;
 }
 
 unsigned long  wMnl(unsigned short int  PxlCjxvR2)

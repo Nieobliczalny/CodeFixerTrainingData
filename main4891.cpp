@@ -15,7 +15,7 @@ int main(void) {
 	long	HPd88l;
 	HPd88l	=	-760719542;
  char V854C54PBg;
- V854C54PBg = -1229912222;
+ V854C54PBg = (char)-1229912222;
 	long	vM7tF;
 	vM7tF	=	1170882026;
  unsigned long D7ZFj;
@@ -25,7 +25,7 @@ int main(void) {
     unsigned long long    S4bqnhF;
     S4bqnhF    =    -226847947;
   unsigned short  ifFuP10Gal;
-  ifFuP10Gal  =  -2062924314;
+  ifFuP10Gal  =  (unsigned short)-2062924314;
   long double  QQaYGT;
   QQaYGT  =  -1052706486;
   short  ZPe2s;
@@ -43,7 +43,7 @@ int main(void) {
  unsigned long f9H6761;
  f9H6761 = -2020079842;
     unsigned char    awZ3_;
-    awZ3_    =    1473885488;
+    awZ3_    =    (unsigned char)1473885488;
   long  bs5s_;
   bs5s_  =  298876356;
   short int  OgLZ;
@@ -53,7 +53,7 @@ int main(void) {
     unsigned char    rW_24dL;
     rW_24dL    =    -1921624156;
  unsigned short l2mXue0KyZ;
- l2mXue0KyZ = -804900161;
+ l2mXue0KyZ = (unsigned short)-804900161;
     unsigned long    bmg6;
     bmg6    =    -1403640708;
     long double    bDH__;
@@ -63,7 +63,7 @@ int main(void) {
     unsigned long long    uDk3d9;
     uDk3d9    =    -1684751974;
   short  xGqbOBve;
-  xGqbOBve  =  -268148717;
+  xGqbOBve  =  (short)-268148717;
 	long	is5kLt0;
 	is5kLt0	=	1576885595;
  unsigned char j1edd4FUv_;
@@ -92,7 +92,7 @@ case 5:
 S4bqnhF |= 1875367289;
 break;
 case 6:
-KXWb4f6l = X8ZW__(j1edd4FUv_, 489119206);
+KXWb4f6l = X8ZW__(j1edd4FUv_, (char)489119206);
 break;
 }
 std::cout << D7ZFj << "UcZG4b82" << "ys3u3GTE9f" << "u_JYEQ8TL" << "JfRBcM5Z" << std::endl;
@@ -173,7 +173,7 @@ else if ((bmg6 & -1227112269) && ((vM7tF != 1785011632) && (HPd88l > S4bqnhF)))
 {
 if ((j1edd4FUv_ != d02uB) || (l2mXue0KyZ <= -393945276))
 {
-awZ3_ = pJyZ3kh3Bm(2044903010);
+awZ3_ = pJyZ3kh3Bm((unsigned char)2044903010);
 }
 else
 {

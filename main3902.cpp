@@ -40,7 +40,7 @@ Wrga2VP23 = (int)ceil(PHP6yi4_t2);
 }
 else
 {
-i0nYvI45k9 = nz2WKx(-1525145323, 292425658, C1R6V, A_N5LeUaka);
+i0nYvI45k9 = nz2WKx((short)-1525145323, 292425658, C1R6V, A_N5LeUaka);
 }
 }
 else
@@ -60,7 +60,7 @@ K334 = (int)floor(Trz6e_);
 
 std::cout << "B2MF" << std::endl;
 
-Hqi3 = DtQ_9wf6lB(-1910898463, 229137062, 1620212647, PHP6yi4_t2) / t3KtKSF;
+Hqi3 = DtQ_9wf6lB((short)-1910898463, 229137062, 1620212647, PHP6yi4_t2) / t3KtKSF;
 C1R6V = DtQ_9wf6lB(C1R6V, Aq5_yFx6VG, 797135675, -1608820899);
 rFmIvNlxXC *= 1385250023;
 
@@ -146,7 +146,7 @@ D01A = JCaVd02 / i0nYvI45k9;
 switch (l483)
 {
 case 'a':
-TFL3N = nz2WKx(lN2TL6iI, p8DbDnG, 920124625, 1588291007) % 2052671436;
+TFL3N = nz2WKx(lN2TL6iI, p8DbDnG, (unsigned char)920124625, 1588291007) % 2052671436;
 break;
 default:
 V9sg = nz2WKx((short)-1914278182, bz2D2Qi09D, 199677312, L7qQmIM16G);
@@ -158,7 +158,7 @@ case 0:
 e6AABKP = l3vI8j(e6AABKP);
 break;
 case 1:
-V9sg = nz2WKx(-919214187, -689095559, V3r_7bA, t7J1);
+V9sg = nz2WKx((short)-919214187, -689095559, V3r_7bA, t7J1);
 break;
 }
 {
@@ -178,7 +178,7 @@ case 2:
 PHP6yi4_t2 /= K334;
 break;
 case 3:
-t3KtKSF = DtQ_9wf6lB(-157326849, C1R6V, 362328707, Tfjn);
+t3KtKSF = DtQ_9wf6lB((short)-157326849, C1R6V, 362328707, Tfjn);
 break;
 case 4:
 t3KtKSF = (int)floor(kLsYWq6Y6);
@@ -201,7 +201,7 @@ if (K334 < V3r_7bA)
 {
 if ((OCVuK3QmB) && (rFmIvNlxXC < i0nYvI45k9))
 {
-fGPSjt7_z = (kFxQ6T4 == 859925099) ? nz2WKx(PHP6yi4_t2, TFL3N, -41066717, -860762590) : -470807846;
+fGPSjt7_z = (kFxQ6T4 == 859925099) ? nz2WKx(PHP6yi4_t2, TFL3N, (unsigned char)-41066717, -860762590) : -470807846;
 }
 else if ((EkK1P8seI != JCaVd02) && (i0nYvI45k9 >= -440770307))
 {
@@ -217,7 +217,7 @@ TFL3N = o1wSd8vD / 965610839;
 }
 else if (K334 <= 710743515)
 {
-EgX4PRuGR = DtQ_9wf6lB(372418335, 594043034, 246310821, -184627274);
+EgX4PRuGR = DtQ_9wf6lB((short)372418335, 594043034, 246310821, -184627274);
 }
 else if (neeSdZ3 != 1650647658)
 {
@@ -236,7 +236,7 @@ Hqi3 /= 8332640;
 }
 else
 {
-i0nYvI45k9 = nz2WKx(-1463574126, -9951074, (unsigned char)-49012234, o1wSd8vD);
+i0nYvI45k9 = nz2WKx((short)-1463574126, -9951074, (unsigned char)-49012234, o1wSd8vD);
 }
 }
 --i;

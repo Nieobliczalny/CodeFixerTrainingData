@@ -29,7 +29,7 @@ int  h4MRihe_76(short int  CL1fr,long long  RN0Rr0i0,int  y5nIQny1)  {
 }
 
 short int	R4w_e(unsigned char	nfC3sC2n)	{
-	return	1127665743;
+	return	(short)1127665743;
 }
 
 int main(int argc, char** argv) {
@@ -46,7 +46,7 @@ int main(int argc, char** argv) {
     long double    KgnUxtE_F;
     KgnUxtE_F    =    -1553039440;
   char  HY_8;
-  HY_8  =  -652710300;
+  HY_8  =  (char)-652710300;
   unsigned long  dJTL;
   dJTL  =  -1818626767;
     unsigned long long    liPNFquuE6;
@@ -66,7 +66,7 @@ if (((co9YH6A2SG != Flzz4) && (qv8h6IOq3b != Pq0gd5n)) && (co9YH6A2SG == ym7x1_u
 {
 for (int k = 5; k >= 0; --k)
 {
-liPNFquuE6 = R4w_e(958615704);
+liPNFquuE6 = R4w_e((unsigned char)958615704);
 }
 }
 }
@@ -89,7 +89,7 @@ for (int j = 3; j >= 0; j--)
 {
 try
 {
-liPNFquuE6 = biNuawO64w(-465638879, liPNFquuE6, -254854070, (unsigned char)-1571743828, -1444323299);
+liPNFquuE6 = biNuawO64w(-465638879, liPNFquuE6, (unsigned short)-254854070, (unsigned char)-1571743828, -1444323299);
 }
 catch (int& errorCode)
 {
@@ -114,7 +114,7 @@ try
 int k = 0;
 do
 {
-HY_8 = h4MRihe_76(-293413190, -1991691748, 1385346108);
+HY_8 = h4MRihe_76((short)-293413190, -1991691748, 1385346108);
 k++;
 }
 while (k < 7);
@@ -138,7 +138,7 @@ case 1:
 E0701M = (int)abs(KgnUxtE_F) * 0;
 break;
 case 2:
-liPNFquuE6 = biNuawO64w(-2023471928, qv8h6IOq3b, Pq0gd5n, -1982025718, HY_8);
+liPNFquuE6 = biNuawO64w(-2023471928, qv8h6IOq3b, Pq0gd5n, (unsigned char)-1982025718, HY_8);
 break;
 case 3:
 ic2q = (int)abs(co9YH6A2SG);
@@ -194,7 +194,7 @@ case 'c':
 HY_8 = liPNFquuE6 / 800391134;
 break;
 case 'd':
-qv8h6IOq3b = d6gGe1(qv8h6IOq3b, HY_8, 551721735);
+qv8h6IOq3b = d6gGe1(qv8h6IOq3b, HY_8, (short)551721735);
 break;
 case 'e':
 HY_8 = Pq0gd5n * 1612578869;
@@ -233,7 +233,7 @@ dJTL |= 1166752976;
 }
 else
 {
-cout << biNuawO64w(qv8h6IOq3b, -1410955181, 128075987, (unsigned char)-407234516, liPNFquuE6) << h4MRihe_76(-100662635, -338945859, 1589477012) << "M52VCIkk" << co9YH6A2SG << endl;
+cout << biNuawO64w(qv8h6IOq3b, -1410955181, (unsigned short)128075987, (unsigned char)-407234516, liPNFquuE6) << h4MRihe_76(-100662635, -338945859, 1589477012) << "M52VCIkk" << co9YH6A2SG << endl;
 }
 }
 catch (int& errorCode)

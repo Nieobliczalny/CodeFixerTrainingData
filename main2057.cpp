@@ -66,7 +66,7 @@ while (j >= 0)
 j--;
 try
 {
-Zi620M95eL = i8e8(-53282676);
+Zi620M95eL = i8e8((unsigned short)-53282676);
 }
 catch (int& errorCode)
 {
@@ -124,7 +124,7 @@ if (VL4sG9)
 {
 try
 {
-R758N = k7gk_x6GSQ(1748481263, -1995389465, -1438031084, -2126291469, -1262360203);
+R758N = k7gk_x6GSQ(1748481263, -1995389465, (short)-1438031084, -2126291469, -1262360203);
 }
 catch (int& errorCode)
 {

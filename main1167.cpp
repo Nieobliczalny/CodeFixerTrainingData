@@ -14,7 +14,7 @@ using namespace std;
 
 short    gV7sUMQ0(long    A34i_)
 {
-    return    -1511488251;
+    return    (short)-1511488251;
 }
 
 unsigned short int	UP6_9GgWHs(long	BhLFh_12)	{
@@ -31,7 +31,7 @@ unsigned int    UzNB(short int    je47CL,unsigned long    lnFf,char    EAvGM5,un
 }
 
 short int	uxVK7JrI(unsigned long long	e812e_R8d,short int	Amb2EIolG5,unsigned int	A8_47P,unsigned int	zT7q5,unsigned short int	Zh7Nq)	{
-	return	939761005;
+	return	(short)939761005;
 }
 
 int main(void)
@@ -60,7 +60,7 @@ case 0:
 eLNjXn /= 425110785;
 break;
 case 1:
-eLNjXn = UzNB(TNNyI, qNlEtz, -1130335910, (unsigned short)-566436124, -1492381406);
+eLNjXn = UzNB(TNNyI, qNlEtz, (char)-1130335910, (unsigned short)-566436124, -1492381406);
 break;
 case 2:
 eLNjXn = UzNB(eLNjXn, ACeT, -1967888977, -366550227, TNNyI);
@@ -72,7 +72,7 @@ case 4:
 eLNjXn = UP6_9GgWHs(500156126) & 1707112118;
 break;
 case 5:
-eLNjXn = uxVK7JrI(1585730075, TNNyI, qNlEtz, 1473674084, -636159771);
+eLNjXn = uxVK7JrI(1585730075, TNNyI, qNlEtz, 1473674084, (unsigned short)-636159771);
 break;
 case 6:
 qNlEtz = (int)abs(ACeT);
@@ -156,7 +156,7 @@ ACeT = (long)(eLNjXn * ACeT);
 switch (TNNyI)
 {
 case 0:
-eLNjXn = UzNB(eLNjXn, 1847759721, -941138104, (unsigned short)-680962607, 1192990831);
+eLNjXn = UzNB(eLNjXn, 1847759721, (char)-941138104, (unsigned short)-680962607, 1192990831);
 break;
 case 1:
 eLNjXn ^= 429127008;
@@ -198,7 +198,7 @@ else
 {
 if (eLNjXn < TNNyI)
 {
-std::cout << uxVK7JrI(VO15UEvy, TNNyI, eLNjXn, ACeT, 151115979) << TNNyI << "noHVJmF3q" << std::endl;
+std::cout << uxVK7JrI(VO15UEvy, TNNyI, eLNjXn, ACeT, (unsigned short)151115979) << TNNyI << "noHVJmF3q" << std::endl;
 }
 else if (eLNjXn < 426259408)
 {
@@ -254,7 +254,7 @@ else
 {
 for (int k = 3; k >= 0; --k)
 {
-eLNjXn = UzNB(-400039727, 1914033296, VO15UEvy, (unsigned short)-1910108693, -1575061855);
+eLNjXn = UzNB((short)-400039727, 1914033296, VO15UEvy, (unsigned short)-1910108693, -1575061855);
 }
 }
 }
@@ -271,7 +271,7 @@ int k = 1;
 do
 {
 k--;
-eLNjXn = gR_0Y(1180193738, eLNjXn);
+eLNjXn = gR_0Y((short)1180193738, eLNjXn);
 }
 while (k >= 0);
 }
@@ -299,7 +299,7 @@ int k = 4;
 while (k >= 0)
 {
 --k;
-eLNjXn = gR_0Y(1719334550, VO15UEvy);
+eLNjXn = gR_0Y((short)1719334550, VO15UEvy);
 }
 }
 }
@@ -348,7 +348,7 @@ VO15UEvy = UP6_9GgWHs(VO15UEvy);
 }
 }
 eLNjXn %= 1304427878;
-eLNjXn = UzNB(TNNyI, -507980538, -279492037, (unsigned short)-185624334, -47895518);
+eLNjXn = UzNB(TNNyI, -507980538, (char)-279492037, (unsigned short)-185624334, -47895518);
 
 if (TNNyI)
 {
@@ -374,7 +374,7 @@ for (int i = 0; i < 8; ++i)
 VO15UEvy = (unsigned long long)(P22918nk * VO15UEvy);
 }
 
-std::cout << qNlEtz << "ZaD1k2888" << uxVK7JrI(-272605423, 256240237, -2098572353, ACeT, (unsigned short)-1412500726) << "tx3og" << "e67M2t1Z3" << std::endl;
+std::cout << qNlEtz << "ZaD1k2888" << uxVK7JrI(-272605423, (short)256240237, -2098572353, ACeT, (unsigned short)-1412500726) << "tx3og" << "e67M2t1Z3" << std::endl;
 
 return 0;
 }

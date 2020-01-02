@@ -93,7 +93,7 @@ Y1_Q_ic14s = c1rfMQI05 - z0faR833vA;
 break;
 }
 C703MS_Wbe *= D74Ps;
-dKW6 = (W5gK7R32iK) ? yHDYB : -177844658;
+dKW6 = (W5gK7R32iK) ? yHDYB : (unsigned short)-177844658;
 BsyB7QUPga ^= lgeHw;
 switch (GL9Z4XLt)
 {

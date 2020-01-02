@@ -34,7 +34,7 @@ do
 ++j;
 try
 {
-oFIHQ3IF0C = z4MuCOL(oFIHQ3IF0C, -1113087600, 1514857898, pyD58ZK4);
+oFIHQ3IF0C = z4MuCOL(oFIHQ3IF0C, -1113087600, (short)1514857898, pyD58ZK4);
 }
 catch (int& errorCode)
 {
@@ -49,7 +49,7 @@ while (i < 5);
 }
 for (int i = 3; i >= 0; --i)
 {
-pElh1J6hIz = p4c_X(pElh1J6hIz, 385980, j9N7RK, -969289296, es2wt);
+pElh1J6hIz = p4c_X(pElh1J6hIz, 385980, j9N7RK, (short)-969289296, es2wt);
 }
 
 pyD58ZK4 = z4MuCOL((char)1375915734, NyCafF, es2wt, nL4g09gGI6);
@@ -64,7 +64,7 @@ D4oVxbW1y_ += 1822042414;
 j9N7RK = (unsigned long)(es2wt * j9N7RK);
 
 oFIHQ3IF0C |= 490595304;
-pElh1J6hIz = p4c_X(T4SN, -8823604, -788665110, (short)-1530239464, O_rYqaVE);
+pElh1J6hIz = p4c_X(T4SN, -8823604, (unsigned char)-788665110, (short)-1530239464, O_rYqaVE);
 
 switch (nL4g09gGI6)
 {
@@ -75,7 +75,7 @@ case 1:
 es2wt = z4MuCOL(787787176, es2wt, 330878497, HVY80qP3D);
 break;
 default:
-oFIHQ3IF0C = z4MuCOL(-1245412557, nL4g09gGI6, T4SN, HVY80qP3D);
+oFIHQ3IF0C = z4MuCOL((char)-1245412557, nL4g09gGI6, T4SN, HVY80qP3D);
 break;
 }
 if (V0iQ & 11093754)
@@ -99,7 +99,7 @@ oFIHQ3IF0C %= 1697878663;
 }
 try
 {
-D4oVxbW1y_ = z4MuCOL(-1193978198, 2088785315, (short)668794879, T4SN);
+D4oVxbW1y_ = z4MuCOL((char)-1193978198, 2088785315, (short)668794879, T4SN);
 }
 catch (int& errorCode)
 {
@@ -112,7 +112,7 @@ do
 {
 for (int j = 2; j >= 0; j--)
 {
-pElh1J6hIz = p4c_X(668772637, HVY80qP3D, NyCafF, pyD58ZK4, V0iQ);
+pElh1J6hIz = p4c_X((unsigned char)668772637, HVY80qP3D, NyCafF, pyD58ZK4, V0iQ);
 }
 ++i;
 }
@@ -122,7 +122,7 @@ while (i < 5);
 switch (pElh1J6hIz)
 {
 case 0:
-pElh1J6hIz = p4c_X(D5YJvK1fi_, 293005666, j9N7RK, -1593591111, O_rYqaVE);
+pElh1J6hIz = p4c_X(D5YJvK1fi_, 293005666, j9N7RK, (short)-1593591111, O_rYqaVE);
 break;
 case 1:
 T4SN >>= 407638522;
@@ -148,7 +148,7 @@ O_rYqaVE = (int)abs(T4SN);
 }
 else
 {
-D4oVxbW1y_ = z4MuCOL(D4oVxbW1y_, 345791553, D5YJvK1fi_, -2025174382);
+D4oVxbW1y_ = z4MuCOL(D4oVxbW1y_, 345791553, D5YJvK1fi_, (unsigned short)-2025174382);
 }
 
 {
@@ -166,7 +166,7 @@ if (NyCafF & 1033275546)
 int j = 7;
 do
 {
-V0iQ = (T4SN <= -312801431) ? p4c_X(112495516, nL4g09gGI6, (unsigned char)1484231998, -1361604762, -398652471) : j9N7RK;
+V0iQ = (T4SN <= -312801431) ? p4c_X((unsigned char)112495516, nL4g09gGI6, (unsigned char)1484231998, -1361604762, -398652471) : j9N7RK;
 j--;
 }
 while (j >= 0);
@@ -193,7 +193,7 @@ case 'd':
 O_rYqaVE++;
 break;
 case 'e':
-pElh1J6hIz = p4c_X(-1639758031, 143883032, (unsigned char)-386987811, pElh1J6hIz, oFIHQ3IF0C);
+pElh1J6hIz = p4c_X((unsigned char)-1639758031, 143883032, (unsigned char)-386987811, pElh1J6hIz, oFIHQ3IF0C);
 break;
 case 'f':
 nL4g09gGI6 = p4c_X(oFIHQ3IF0C, 1974452980, pyD58ZK4, 433346795, -1306064931);
@@ -242,7 +242,7 @@ j9N7RK = (unsigned long)(es2wt * j9N7RK);
 }
 else
 {
-j9N7RK = p4c_X(D4oVxbW1y_, j9N7RK, T4SN, 1777661845, es2wt);
+j9N7RK = p4c_X(D4oVxbW1y_, j9N7RK, T4SN, (short)1777661845, es2wt);
 }
 cout << p4c_X(D4oVxbW1y_, -193341641, (unsigned char)-375746631, NyCafF, es2wt) << p4c_X(D4oVxbW1y_, j9N7RK, T4SN, -1824007035, 2131671279) << p4c_X(D4oVxbW1y_, j9N7RK, T4SN, -1437095140, -387207628) << O_rYqaVE << endl;
 
@@ -288,7 +288,7 @@ oFIHQ3IF0C = T4SN ^ 1062567578;
 }
 else if (O_rYqaVE > V0iQ)
 {
-j9N7RK = p4c_X(962389609, -1112339642, pyD58ZK4, V0iQ, -2088714888);
+j9N7RK = p4c_X((unsigned char)962389609, -1112339642, pyD58ZK4, V0iQ, -2088714888);
 }
 else if (NyCafF <= -1311761596)
 {
@@ -314,7 +314,7 @@ pyD58ZK4 = (long)(oFIHQ3IF0C);
 }
 else
 {
-D5YJvK1fi_ = z4MuCOL(D5YJvK1fi_, nL4g09gGI6, 813921376, (unsigned short)970156167);
+D5YJvK1fi_ = z4MuCOL(D5YJvK1fi_, nL4g09gGI6, (short)813921376, (unsigned short)970156167);
 }
 
 for (int i = 4; i >= 0; i--)
@@ -324,7 +324,7 @@ cout << "Mi3T" << pyD58ZK4 << endl;
 
 try
 {
-T4SN = z4MuCOL(315087630, es2wt, NyCafF, (unsigned short)49588668);
+T4SN = z4MuCOL((char)315087630, es2wt, NyCafF, (unsigned short)49588668);
 }
 catch (int& errorCode)
 {
@@ -334,7 +334,7 @@ if (es2wt <= 344701655)
 {
 for (int j = 4; j >= 0; --j)
 {
-cout << p4c_X(1470549783, -449080125, (unsigned char)-1525995858, -1476156780, -656745489) << "qMu2rtw" << endl;
+cout << p4c_X((unsigned char)1470549783, -449080125, (unsigned char)-1525995858, -1476156780, -656745489) << "qMu2rtw" << endl;
 }
 }
 T4SN = (long)(HVY80qP3D);
@@ -358,7 +358,7 @@ while (i < 4);
 
 for (int i = 0; i < 4; i++)
 {
-cout << p4c_X(T4SN, es2wt, NyCafF, -1137014787, -302973350) << z4MuCOL((char)570418635, 358675683, NyCafF, pElh1J6hIz) << p4c_X(-1835913466, es2wt, -284491942, 221318867, 1370553094) << endl;
+cout << p4c_X(T4SN, es2wt, NyCafF, (short)-1137014787, -302973350) << z4MuCOL((char)570418635, 358675683, NyCafF, pElh1J6hIz) << p4c_X(-1835913466, es2wt, -284491942, 221318867, 1370553094) << endl;
 }
 switch (HVY80qP3D)
 {
@@ -369,7 +369,7 @@ case 1:
 NyCafF = z4MuCOL(-653044728, -1300967962, -1888988476, T4SN);
 break;
 case 2:
-V0iQ = z4MuCOL(-1376112166, -1690060339, oFIHQ3IF0C, nL4g09gGI6);
+V0iQ = z4MuCOL((char)-1376112166, -1690060339, oFIHQ3IF0C, nL4g09gGI6);
 break;
 case 3:
 NyCafF >>= 963889019;
@@ -390,7 +390,7 @@ break;
 
 for (int i = 0; i < 4; i++)
 {
-cout << p4c_X(-1597816801, -930216770, pElh1J6hIz, (short)-592088301, NyCafF) << p4c_X(V0iQ, pyD58ZK4, -384585573, -1109176988, NyCafF) << "gYca8TMr8_" << "c28H81X" << V0iQ << endl;
+cout << p4c_X((unsigned char)-1597816801, -930216770, pElh1J6hIz, (short)-592088301, NyCafF) << p4c_X(V0iQ, pyD58ZK4, -384585573, -1109176988, NyCafF) << "gYca8TMr8_" << "c28H81X" << V0iQ << endl;
 }
 
 if (((T4SN >= 1765636330) || (pyD58ZK4 & 1646750372)) || (T4SN))

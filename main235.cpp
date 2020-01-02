@@ -26,7 +26,7 @@ int main(void)
   V58G2G  =  0;
   o8fRHmy  =  0;
     short    fK_v763S,    tX0Yq3VXe,    X8pSx8g1n,    PwE_9,    f6yr;
-    fK_v763S    =    -318954895;
+    fK_v763S    =    (short)-318954895;
     tX0Yq3VXe    =    (short)1947296844;
     X8pSx8g1n    =    -1392246686;
     PwE_9    =    1833175677;
@@ -46,7 +46,7 @@ if (X8pSx8g1n > V58G2G)
 switch (o8fRHmy)
 {
 case 0:
-X8pSx8g1n = t_j_U0(X8pSx8g1n, V58G2G, 1567742914, 784307292, PwE_9);
+X8pSx8g1n = t_j_U0(X8pSx8g1n, V58G2G, (short)1567742914, 784307292, PwE_9);
 break;
 case 1:
 J3q0N5PDXR = Os24q7t(1129704144, -299142278);
@@ -106,7 +106,7 @@ int k = 4;
 do
 {
 --k;
-fK_v763S = k54Mj7A(-561114853, (short)2067010648, PwE_9, -2053810031);
+fK_v763S = k54Mj7A((unsigned short)-561114853, (short)2067010648, PwE_9, -2053810031);
 }
 while (k >= 0);
 }
@@ -235,7 +235,7 @@ long long    Os24q7t(long    T9_5T,unsigned int    Gm3hk)
 }
 
 unsigned short APrda(long q1gG,unsigned int BniX4o_,long lL8L3UsYb,unsigned int uqDg49q) {
- return -1455631704;
+ return (unsigned short)-1455631704;
 }
 
 unsigned short  QbQ4MU(unsigned char  R9JAoT4,unsigned long long  U2B18Oe)  {
@@ -248,6 +248,6 @@ unsigned long long t_j_U0(unsigned long long UZO7,unsigned long long A1__4,short
 }
 
 short int	k54Mj7A(unsigned short int	y3g4S_zSFS,short	GLFxR,unsigned short int	FNXa02Q,short int	pI91_QQzn8)	{
-	return	-88495063;
+	return	(short)-88495063;
 }
 

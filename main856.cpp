@@ -15,7 +15,7 @@ unsigned short	jOu_(unsigned long long	W_k78p_pgP,int	McLQ,int	IE2YEMs)
 
 unsigned short int  v3z14VfJz(long long  oKOY22mk9,long long  XP1FrqI,char  m9B91_r2,unsigned long long  uXqcUseev)
 {
-  return  -1934689055;
+  return  (unsigned short)-1934689055;
 }
 
 int main(void)
@@ -31,7 +31,7 @@ try
 {
 if (J_T65 < Npm2d27)
 {
-UyUc97 = v3z14VfJz(-841691735, 166855786, -192396447, -519075321);
+UyUc97 = v3z14VfJz(-841691735, 166855786, (char)-192396447, -519075321);
 }
 }
 catch (int& errorCode)

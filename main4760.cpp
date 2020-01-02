@@ -33,7 +33,7 @@ Bn8f = MubLEeo7 >> yzvv0;
 }
 else
 {
-hkgO59i1b = (OBhHyWYr <= 45526333) ? -1854047232 : (char)956892333;
+hkgO59i1b = (OBhHyWYr <= 45526333) ? (char)-1854047232 : (char)956892333;
 }
 }
 i++;

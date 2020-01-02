@@ -27,7 +27,7 @@ int main(void)
   int  W4_u__4  =  1572792641,  XI0Q6O4Oxe  =  -1890294195,  x98R3Uebq  =  661285057,  Auay  =  -2089031328,  jeFIwo  =  655023543,  C4M4c7nf53  =  -2037549841,  vC7bRGH8s  =  1677347667,  U1d4L  =  112394222,  FMoD3  =  1611377424,  X9Tvr6aF2  =  1241763731;
   unsigned long long  B9EzkM_H_P  =  0,  WpHy9t6  =  0,  Wn3bdu6e1  =  0;
 
-Auay = vFH6HRcdB(-273138621, X9Tvr6aF2, -2113968112, (char)-703960649);
+Auay = vFH6HRcdB((unsigned short)-273138621, X9Tvr6aF2, -2113968112, (char)-703960649);
 
 {
 int i = 4;
@@ -81,7 +81,7 @@ C4M4c7nf53 = (int)abs(W4_u__4);
 }
 else
 {
-XI0Q6O4Oxe = vFH6HRcdB(XI0Q6O4Oxe, -1241788507, 57183510, -1227476399);
+XI0Q6O4Oxe = vFH6HRcdB(XI0Q6O4Oxe, -1241788507, 57183510, (char)-1227476399);
 }
 W4_u__4 = (int)(X9Tvr6aF2);
 if ((X9Tvr6aF2 == FMoD3) || (X9Tvr6aF2 <= FMoD3))
@@ -112,7 +112,7 @@ if (((Wn3bdu6e1 < -2068680972) || (B9EzkM_H_P < YBdMfRe07Q)) && (Auay < -1254555
 {
 try
 {
-U1d4L = vT5r(-1293673262, vC7bRGH8s);
+U1d4L = vT5r((short)-1293673262, vC7bRGH8s);
 }
 catch (int& errorCode)
 {
@@ -174,7 +174,7 @@ else if ((FMoD3 & YBdMfRe07Q) || ((Auay > jeFIwo) && (Wn3bdu6e1 == Auay)))
 {
 if (Auay & g2l8)
 {
-W4_u__4 = Cdf3_89_Lr(W4_u__4, 1402791917);
+W4_u__4 = Cdf3_89_Lr(W4_u__4, (short)1402791917);
 }
 }
 else if (X9Tvr6aF2 != C4M4c7nf53)
@@ -196,7 +196,7 @@ Auay -= U1d4L;
 }
 else if (XI0Q6O4Oxe <= I5B130ZZ_6)
 {
-FMoD3 = HG47491Ylq(-1267491456, 487581144, XI0Q6O4Oxe, -451288569);
+FMoD3 = HG47491Ylq(-1267491456, (short)487581144, XI0Q6O4Oxe, -451288569);
 }
 else
 {
@@ -209,7 +209,7 @@ U1d4L |= 984085856;
 }
 else if (((WpHy9t6) || (XI0Q6O4Oxe > jeFIwo)) || ((vC7bRGH8s > -620076654) || (FMoD3)))
 {
-std::cout << Cdf3_89_Lr(X9Tvr6aF2, 398808908) << std::endl;
+std::cout << Cdf3_89_Lr(X9Tvr6aF2, (short)398808908) << std::endl;
 }
 else
 {
@@ -225,7 +225,7 @@ case 2:
 B9EzkM_H_P = Xe5I8k();
 break;
 case 3:
-X9Tvr6aF2 = Cdf3_89_Lr(1806089501, W4_u__4);
+X9Tvr6aF2 = Cdf3_89_Lr((unsigned char)1806089501, W4_u__4);
 break;
 case 4:
 vC7bRGH8s ^= Auay;
@@ -278,7 +278,7 @@ if ((Auay == WpHy9t6) || (X9Tvr6aF2 != -1943397504))
 {
 if ((jeFIwo <= g2l8) && (U1d4L != g2l8))
 {
-X9Tvr6aF2 = vFH6HRcdB(1852430974, -145255803, -789389296, (char)-572269257);
+X9Tvr6aF2 = vFH6HRcdB((unsigned short)1852430974, -145255803, -789389296, (char)-572269257);
 }
 else
 {
@@ -316,7 +316,7 @@ j++;
 }
 else if (C4M4c7nf53 <= vC7bRGH8s)
 {
-Auay = vFH6HRcdB(Auay, 1454695964, -1440819322, -1533296282);
+Auay = vFH6HRcdB(Auay, 1454695964, -1440819322, (char)-1533296282);
 }
 else if (WpHy9t6 == 1341501162)
 {
@@ -376,7 +376,7 @@ X9Tvr6aF2 = (int)(XI0Q6O4Oxe);
 switch (jeFIwo)
 {
 case 0:
-x98R3Uebq = vFH6HRcdB(837530543, 507645755, -519091048, WpHy9t6);
+x98R3Uebq = vFH6HRcdB((unsigned short)837530543, 507645755, -519091048, WpHy9t6);
 break;
 case 1:
 jeFIwo = vFH6HRcdB((unsigned short)-736778291, 667886860, -1984590598, Wn3bdu6e1);
@@ -388,7 +388,7 @@ break;
 
 C4M4c7nf53 += X9Tvr6aF2;
 
-std::cout << vFH6HRcdB(jeFIwo, 2139658526, -1793744290, Auay) << HG47491Ylq(-303328296, -33035656, XI0Q6O4Oxe, 385235939) << vFH6HRcdB(2054982835, FMoD3, -1612561649, -269573897) << HG47491Ylq(1929982697, -2113234990, -1875567495, -333845364) << std::endl;
+std::cout << vFH6HRcdB(jeFIwo, 2139658526, -1793744290, Auay) << HG47491Ylq(-303328296, (short)-33035656, XI0Q6O4Oxe, 385235939) << vFH6HRcdB(2054982835, FMoD3, -1612561649, -269573897) << HG47491Ylq(1929982697, -2113234990, -1875567495, -333845364) << std::endl;
 
 switch (x98R3Uebq)
 {
@@ -405,7 +405,7 @@ case 3:
 vC7bRGH8s = HG47491Ylq(vC7bRGH8s, jeFIwo, XI0Q6O4Oxe, X9Tvr6aF2);
 break;
 case 4:
-X9Tvr6aF2 = Cdf3_89_Lr(561311409, W4_u__4);
+X9Tvr6aF2 = Cdf3_89_Lr((unsigned char)561311409, W4_u__4);
 break;
 case 5:
 C4M4c7nf53 <<= 31090671;
@@ -440,7 +440,7 @@ unsigned long	HG47491Ylq(long	pCPb7i,short	pelnM6P0z,long long	M07L,unsigned int
 
 unsigned short Cdf3_89_Lr(unsigned char ERr6hPaRB0,short int AT6br9)
 {
- return -1163679868;
+ return (unsigned short)-1163679868;
 }
 
 unsigned char    vT5r(short    U3BWX,unsigned short int    mu_3k6)    {

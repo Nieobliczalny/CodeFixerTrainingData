@@ -72,7 +72,7 @@ int j = 2;
 do
 {
 j--;
-std::cout << HjN83 << dw3nb0(-934551910, -1529419653, 619877075) << HJ314Y() << a8w_l(NZ5i, 1569315302) << HJ314Y() << std::endl;
+std::cout << HjN83 << dw3nb0(-934551910, (char)-1529419653, 619877075) << HJ314Y() << a8w_l(NZ5i, 1569315302) << HJ314Y() << std::endl;
 }
 while (j >= 0);
 }
@@ -111,7 +111,7 @@ else if (ej2pCNCm)
 {
 try
 {
-bb4HnNMZP = GmoMI9_0(2046826485, NZ5i, 2102742987, rJIuZ1k, (short)-892718028);
+bb4HnNMZP = GmoMI9_0((unsigned short)2046826485, NZ5i, 2102742987, rJIuZ1k, (short)-892718028);
 }
 catch (int& errorCode)
 {
@@ -172,7 +172,7 @@ ej2pCNCm = (unsigned long long)(rJIuZ1k);
 switch (uy1EhZf9_1)
 {
 case 'a':
-I7A3_D24C = GmoMI9_0(I7A3_D24C, 2074237182, c3w3h, Dnwr6wA_9P, (short)-2091880848);
+I7A3_D24C = GmoMI9_0(I7A3_D24C, (short)2074237182, c3w3h, Dnwr6wA_9P, (short)-2091880848);
 break;
 case 'b':
 rJIuZ1k -= pZ3tw8Pwr;
@@ -226,7 +226,7 @@ catch (int& errorCode)
 uy1EhZf9_1 |= c3w3h;
 }
 
-std::cout << "G3kpV4_n" << HJ314Y() << ej2pCNCm << dw3nb0(-1838171504, 480542990, ej2pCNCm) << rJIuZ1k << std::endl;
+std::cout << "G3kpV4_n" << HJ314Y() << ej2pCNCm << dw3nb0(-1838171504, (char)480542990, ej2pCNCm) << rJIuZ1k << std::endl;
 
 pZ3tw8Pwr = dw3nb0(c3w3h, pZ3tw8Pwr, -1330939884);
 
@@ -237,7 +237,7 @@ try
 {
 if (rJIuZ1k <= 472805651)
 {
-Dnwr6wA_9P = GmoMI9_0(-870953169, (short)1864049324, -1162741592, bb4HnNMZP, v0Bp);
+Dnwr6wA_9P = GmoMI9_0((unsigned short)-870953169, (short)1864049324, -1162741592, bb4HnNMZP, v0Bp);
 }
 else if (Dnwr6wA_9P > 903170669)
 {
@@ -284,7 +284,7 @@ pZ3tw8Pwr = dw3nb0(rJIuZ1k, Dnwr6wA_9P, 1342219251);
 }
 else if (ZM5w & -701199983)
 {
-Dnwr6wA_9P = GmoMI9_0(Dnwr6wA_9P, 1227798608, c3w3h, v0Bp, HjN83);
+Dnwr6wA_9P = GmoMI9_0(Dnwr6wA_9P, (short)1227798608, c3w3h, v0Bp, HjN83);
 }
 else
 {
@@ -312,7 +312,7 @@ ZM5w = I7A3_D24C >> 1441815007;
 break;
 case 'b':
 case 'B':
-pZ3tw8Pwr = dw3nb0(1887976141, 463358207, HjN83);
+pZ3tw8Pwr = dw3nb0(1887976141, (char)463358207, HjN83);
 break;
 case 'c':
 case 'C':
@@ -323,7 +323,7 @@ case 'D':
 ZM5w %= 1779042696;
 break;
 default:
-HjN83 = GmoMI9_0(HjN83, -1560062457, -1506052201, pZ3tw8Pwr, 769290634);
+HjN83 = GmoMI9_0(HjN83, (short)-1560062457, -1506052201, pZ3tw8Pwr, 769290634);
 break;
 }
 
@@ -351,7 +351,7 @@ while (k < 1);
 }
 else if (NZ5i == 2074959939)
 {
-std::cout << c3w3h << GmoMI9_0(-647424402, (short)1692517493, 504979590, 1963225568, c3w3h) << "PTjH2A" << std::endl;
+std::cout << c3w3h << GmoMI9_0((unsigned short)-647424402, (short)1692517493, 504979590, 1963225568, c3w3h) << "PTjH2A" << std::endl;
 }
 else if ((uy1EhZf9_1 < -1566366957) && (rJIuZ1k < HjN83))
 {
@@ -473,7 +473,7 @@ for (int j = 0; j < 3; ++j)
 switch (ZM5w)
 {
 case 'a':
-rJIuZ1k = GmoMI9_0(pZ3tw8Pwr, rJIuZ1k, uy1EhZf9_1, bb4HnNMZP, 1539984684);
+rJIuZ1k = GmoMI9_0(pZ3tw8Pwr, rJIuZ1k, uy1EhZf9_1, bb4HnNMZP, (short)1539984684);
 break;
 case 'b':
 v0Bp = bb4HnNMZP % ZM5w;

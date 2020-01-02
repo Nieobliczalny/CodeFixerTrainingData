@@ -43,7 +43,7 @@ case 2:
 SX9Gr72pm = Un0giC92();
 break;
 case 3:
-eQkIUrto = LWJJtgcye(2035056507) - 1699449109;
+eQkIUrto = LWJJtgcye((unsigned char)2035056507) - 1699449109;
 break;
 }
 std::cout << Un0giC92() << LWJJtgcye(SX9Gr72pm) << "y2tOC" << "bxIDJY9" << std::endl;
@@ -142,7 +142,7 @@ case 5:
 bH86Q = LWJJtgcye(UZ2X_BM);
 break;
 case 6:
-bH86Q = LWJJtgcye(-2115082919);
+bH86Q = LWJJtgcye((unsigned char)-2115082919);
 break;
 case 7:
 SX9Gr72pm = (int)ceil(Bnt079W);
@@ -166,7 +166,7 @@ ooYJM4e6 = (int)abs(hme94n3DC);
 break;
 case 'b':
 case 'B':
-JpIvz8_ = LWJJtgcye(-1236662697);
+JpIvz8_ = LWJJtgcye((unsigned char)-1236662697);
 break;
 case 'c':
 case 'C':
@@ -194,7 +194,7 @@ switch (JpIvz8_)
 {
 case 'a':
 case 'A':
-bH86Q = LWJJtgcye(-1930738094);
+bH86Q = LWJJtgcye((unsigned char)-1930738094);
 break;
 case 'b':
 case 'B':
@@ -243,7 +243,7 @@ for (int j = 0; j < 9; ++j)
 {
 try
 {
-bH86Q = LWJJtgcye(1713879468);
+bH86Q = LWJJtgcye((unsigned char)1713879468);
 }
 catch (int& errorCode)
 {
@@ -256,7 +256,7 @@ smMmY0K *= 1134919463;
 J00vsS = (smMmY0K >= MAw8Re_) ? Un0giC92() : J00vsS;
 if (eQkIUrto > 1895205280)
 {
-bH86Q = LWJJtgcye(352207289);
+bH86Q = LWJJtgcye((unsigned char)352207289);
 }
 if (e7Cy)
 {
@@ -335,7 +335,7 @@ case 'g':
 y5iaI5 = (int)floor(UZ2X_BM);
 break;
 case 'h':
-bH86Q = LWJJtgcye(146988861);
+bH86Q = LWJJtgcye((unsigned char)146988861);
 break;
 case 'i':
 zBMW0jm = (int)abs(MAw8Re_);
@@ -349,7 +349,7 @@ if (J00vsS != 1020902594)
 {
 if ((J00vsS) && (Gd4GrrnE0 <= -1804437124))
 {
-JpIvz8_ = LWJJtgcye(-1026163480);
+JpIvz8_ = LWJJtgcye((unsigned char)-1026163480);
 }
 }
 }

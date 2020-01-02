@@ -21,7 +21,7 @@ int main(int argc, char** argv) {
  I5ky = 0;
  V3vjyx1 = 0;
  unsigned short int N200rZL7l1, cFhmqP08A0, uI_2tHykJ, Y1b2, Z7ls2_U8, GYEgq, Hc52JB29W, ebuY7Ly4DW, tm5c8zjiC, GvF5RT0, Nmzi0U2j1X, y0vz4o13, D62UTH3, Yx_ub1HtK, TzHQe5, B_InDXa0O, tqMb_6, znO63RaDoO, I6X6cxZ7vY, b3A9MXM, J3cqsLD, ypK3zgC32;
- N200rZL7l1 = 936195253;
+ N200rZL7l1 = (unsigned short)936195253;
  cFhmqP08A0 = (unsigned short)-574542725;
  uI_2tHykJ = -542333242;
  Y1b2 = -1419822255;
@@ -31,7 +31,7 @@ int main(int argc, char** argv) {
  ebuY7Ly4DW = 367796281;
  tm5c8zjiC = -505439509;
  GvF5RT0 = 1575169903;
- Nmzi0U2j1X = -969470507;
+ Nmzi0U2j1X = (unsigned short)-969470507;
  y0vz4o13 = (unsigned short)-622417376;
  D62UTH3 = -607433720;
  Yx_ub1HtK = -1544271441;
@@ -41,7 +41,7 @@ int main(int argc, char** argv) {
  znO63RaDoO = -1842204773;
  I6X6cxZ7vY = 1586655249;
  b3A9MXM = -559606559;
- J3cqsLD = 551048877;
+ J3cqsLD = (unsigned short)551048877;
  ypK3zgC32 = (unsigned short)-1835588474;
 
 try

@@ -22,7 +22,7 @@ int i = 4;
 while (i >= 0)
 {
 --i;
-std::cout << kv_7tw5K6d << ERvx08D5(337422098) << std::endl;
+std::cout << kv_7tw5K6d << ERvx08D5((char)337422098) << std::endl;
 }
 }
 try
@@ -114,7 +114,7 @@ case 'd':
 A3We = ERvx08D5(A3We);
 break;
 case 'e':
-a0o_zaW_ = ERvx08D5(1809206421);
+a0o_zaW_ = ERvx08D5((char)1809206421);
 break;
 }
 j++;
@@ -229,7 +229,7 @@ else
 {
 I75BR2Fyho = (double)(V08sPKkXt7 + (-1051524168));
 }
-ccz2a = ERvx08D5(2142452696);
+ccz2a = ERvx08D5((char)2142452696);
 {
 int i = 0;
 while (i < 9)

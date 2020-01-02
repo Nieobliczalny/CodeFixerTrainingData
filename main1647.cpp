@@ -21,7 +21,7 @@ int main(void)
   unsigned long long  O5718fN2du;
   O5718fN2du  =  -1047526626;
     unsigned char    tvG_Qw;
-    tvG_Qw    =    157378026;
+    tvG_Qw    =    (unsigned char)157378026;
  long double VVcs0ORjUk;
  VVcs0ORjUk = 942017051;
   unsigned long  rdvtEl6;
@@ -31,7 +31,7 @@ int main(void)
   unsigned long long  SHM99A_2GD;
   SHM99A_2GD  =  -443655061;
  short Tx52Mc;
- Tx52Mc = 70869908;
+ Tx52Mc = (short)70869908;
     int    z3ry1;
     z3ry1    =    0;
     unsigned long long    BPq1;
@@ -41,7 +41,7 @@ int main(void)
 	long	uMf_7N;
 	uMf_7N	=	-59361969;
     short int    MKj8RU2r;
-    MKj8RU2r    =    598694075;
+    MKj8RU2r    =    (short)598694075;
   unsigned short  D3B1;
   D3B1  =  0;
     unsigned long long    Z06zpWqI0;
@@ -53,7 +53,7 @@ int main(void)
     double    Z4J4w;
     Z4J4w    =    -1472726318;
  short vDzia4CI72;
- vDzia4CI72 = -465134899;
+ vDzia4CI72 = (short)-465134899;
   float  B0Q_y6;
   B0Q_y6  =  767350710;
   unsigned char  Z3eBz8pGk;
@@ -63,7 +63,7 @@ int main(void)
 	unsigned char	Kqf6;
 	Kqf6	=	1988321907;
   short  R2hsY5oNS;
-  R2hsY5oNS  =  -632576786;
+  R2hsY5oNS  =  (short)-632576786;
   char  vG62b1R;
   vG62b1R  =  2080707744;
 	unsigned long	UC1Y5sT59J;
@@ -79,7 +79,7 @@ int main(void)
 	long	F306F5f7BV;
 	F306F5f7BV	=	-1981896077;
  unsigned char MW3aP73;
- MW3aP73 = -585767924;
+ MW3aP73 = (unsigned char)-585767924;
     long long    hQVos;
     hQVos    =    312885032;
  unsigned int W9Km;
@@ -95,7 +95,7 @@ VVcs0ORjUk = (int)ceil(Z4J4w);
 
 try
 {
-z3ry1 = Q3xtOCn0(1663145806);
+z3ry1 = Q3xtOCn0((short)1663145806);
 }
 catch (int& errorCode)
 {

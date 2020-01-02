@@ -347,7 +347,7 @@ for (int i = 0; i < 8; i++)
 {
 for (int j = 1; j >= 0; j--)
 {
-i6k3 = (Py7E_y & Z_5Du) ? 654529882 : KAg3SS4PVS;
+i6k3 = (Py7E_y & Z_5Du) ? (short)654529882 : KAg3SS4PVS;
 }
 }
 
@@ -568,7 +568,7 @@ O3CD3LA = (cA0o & hU_Os15) ? r5XWa2uM : uSky4_MZq;
 }
 else if ((Hc63b > -792527440) && (j01B_s0x9 & Z_5Du))
 {
-Er_574U = (lkmcL7J_) ? 1407128860 : QbtA1w4286;
+Er_574U = (lkmcL7J_) ? (short)1407128860 : QbtA1w4286;
 }
 else if (NL11 & Z_5Du)
 {

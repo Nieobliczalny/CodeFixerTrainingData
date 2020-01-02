@@ -17,7 +17,7 @@ using std::floor;
 
 char  gEj75J8l3(unsigned short int  oFCL)
 {
-  return  1468178970;
+  return  (char)1468178970;
 }
 
 unsigned int X2482o(char WB3k) {
@@ -31,7 +31,7 @@ unsigned char M_Ua_ab9(unsigned int MeGj4)
 
 unsigned char	R082GA8J8A()
 {
-	return	-765250512;
+	return	(unsigned char)-765250512;
 }
 
 unsigned short int  QGl4_1(short  wkU_M,unsigned long long  ppHny551j,unsigned short int  qR8T6czs)  {
@@ -128,7 +128,7 @@ L_39QQ5 = WR4QcC_ << 1627653438;
 break;
 case 'g':
 case 'G':
-L_39QQ5 = X2482o(-1119592290);
+L_39QQ5 = X2482o((char)-1119592290);
 break;
 }
 }
@@ -138,7 +138,7 @@ is71VG32P0 = M_Ua_ab9(-533404107);
 }
 for (int i = 1; i >= 0; i--)
 {
-LU_5i5ji = (L_39QQ5 == eM065X) ? QGl4_1(2127875322, -606049791, (unsigned short)931897037) : 1953658927;
+LU_5i5ji = (L_39QQ5 == eM065X) ? QGl4_1((short)2127875322, -606049791, (unsigned short)931897037) : 1953658927;
 }
 WR4QcC_ = R082GA8J8A();
 try
@@ -153,7 +153,7 @@ catch (int& errorCode)
 T43x__ = QGl4_1(-207088994, -76972746, eM065X);
 }
 TS082jN = qM_9KQ2 | 1250784913;
-eyT415b0 = gEj75J8l3(953214423);
+eyT415b0 = gEj75J8l3((unsigned short)953214423);
 
 eyT415b0 = ZCcwy3_VS / Z203sxk;
 
@@ -200,7 +200,7 @@ i--;
 }
 }
 
-qM_9KQ2 = (sISA6HFYvf < Rb82C) ? 1390654839 : TS082jN;
+qM_9KQ2 = (sISA6HFYvf < Rb82C) ? (unsigned short)1390654839 : TS082jN;
 
 if ((Pef_90k & zy15xK__rE) || (VtdVs67wQ == 1628578180))
 {
@@ -226,7 +226,7 @@ for (int j = 0; j < 1; ++j)
 {
 try
 {
-eM065X = QGl4_1(839409243, -1750651970, (unsigned short)-358640940);
+eM065X = QGl4_1((short)839409243, -1750651970, (unsigned short)-358640940);
 }
 catch (int& errorCode)
 {
@@ -273,7 +273,7 @@ case 0:
 eyT415b0 = X2482o(eyT415b0);
 break;
 case 1:
-Hy294Js0 = gEj75J8l3(-358019488);
+Hy294Js0 = gEj75J8l3((unsigned short)-358019488);
 break;
 case 2:
 T43x__ = is71VG32P0 << 1892052847;
@@ -285,7 +285,7 @@ case 4:
 VtdVs67wQ = QGl4_1(VtdVs67wQ, Hy294Js0, xVJz73);
 break;
 case 5:
-L_39QQ5 = X2482o(1772076090) % 878069454;
+L_39QQ5 = X2482o((char)1772076090) % 878069454;
 break;
 case 6:
 xVJz73 = QGl4_1(xVJz73, -540424579, LO9ZB);
@@ -350,7 +350,7 @@ L_39QQ5 = (unsigned short int)(xVJz73);
 
 lb0kDuE = (unsigned short int)(Z203sxk + (MwA6eY9F2));
 
-qM_9KQ2 = X2482o(-598494368);
+qM_9KQ2 = X2482o((char)-598494368);
 
 if (WR4QcC_ <= 445487666)
 {

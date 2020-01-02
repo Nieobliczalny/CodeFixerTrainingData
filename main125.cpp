@@ -9,7 +9,7 @@
 using namespace std;
 
 unsigned short    SlOf(long    U9BQo,unsigned short    RgB6d6BW01,long long    a40B53)    {
-    return    -945216445;
+    return    (unsigned short)-945216445;
 }
 
 int    um0g7Ce8n(unsigned long long    FNDizq,unsigned short    E7jmn5V296,int    DC4F4rV)    {
@@ -69,7 +69,7 @@ M81m2k1tg = Z257_(M81m2k1tg);
 break;
 case 'c':
 case 'C':
-s_q40_z0 = um0g7Ce8n(-84124472, -789415927, cZgt);
+s_q40_z0 = um0g7Ce8n(-84124472, (unsigned short)-789415927, cZgt);
 break;
 case 'd':
 case 'D':
@@ -81,7 +81,7 @@ A_864 = M81m2k1tg >> 1756746238;
 break;
 case 'f':
 case 'F':
-cZgt = um0g7Ce8n(7364296, 826594157, M81m2k1tg);
+cZgt = um0g7Ce8n(7364296, (unsigned short)826594157, M81m2k1tg);
 break;
 default:
 M81m2k1tg = Z257_(-233032470);
@@ -95,7 +95,7 @@ s_q40_z0 = (unsigned short)(cZgt);
 A_864 = (long)(M81m2k1tg);
 try
 {
-std::cout << um0g7Ce8n(761855096, -1483785361, 996095544) << std::endl;
+std::cout << um0g7Ce8n(761855096, (unsigned short)-1483785361, 996095544) << std::endl;
 }
 catch (int& errorCode)
 {
@@ -167,7 +167,7 @@ i--;
 }
 if ((cZgt == -870895532) && (cZgt >= M81m2k1tg))
 {
-A_864 = SlOf(cZgt, 797155152, 1107151489);
+A_864 = SlOf(cZgt, (unsigned short)797155152, 1107151489);
 }
 for (int i = 0; i < 4; ++i)
 {
@@ -199,7 +199,7 @@ j++;
 int k = 0;
 do
 {
-t89fH438V = SlOf(s_q40_z0, 1766060490, -299117900);
+t89fH438V = SlOf(s_q40_z0, (unsigned short)1766060490, -299117900);
 ++k;
 }
 while (k < 4);
@@ -213,7 +213,7 @@ int i = 9;
 while (i >= 0)
 {
 i--;
-std::cout << "s1GRK7u2u" << um0g7Ce8n(s_q40_z0, -7771115, 216973168) << std::endl;
+std::cout << "s1GRK7u2u" << um0g7Ce8n(s_q40_z0, (unsigned short)-7771115, 216973168) << std::endl;
 }
 }
 

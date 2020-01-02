@@ -14,7 +14,7 @@ using std::ceil;
 using std::floor;
 
 unsigned char    F0Kq5()    {
-    return    741500570;
+    return    (unsigned char)741500570;
 }
 
 short int    EaJga(long    tLkfz,unsigned short    INfrcTIa6_)
@@ -35,7 +35,7 @@ int main(void) {
 	short int	C86I8PO_7;
 	C86I8PO_7	=	0;
   unsigned short int  o0FoYui;
-  o0FoYui  =  -778515889;
+  o0FoYui  =  (unsigned short)-778515889;
     long    V7CkrN;
     V7CkrN    =    1510764627;
 	long long	XOlU3SK;
@@ -55,7 +55,7 @@ int main(void) {
 	short int	oEA0CV0vG9;
 	oEA0CV0vG9	=	0;
     short    mBag;
-    mBag    =    1731342164;
+    mBag    =    (short)1731342164;
 	short	diws0nTPtM;
 	diws0nTPtM	=	0;
     long double    bweG_3A3A;
@@ -121,7 +121,7 @@ case 0:
 xBad1 = mBag >> 1153445600;
 break;
 case 1:
-oEA0CV0vG9 = H_00(23161583);
+oEA0CV0vG9 = H_00((short)23161583);
 break;
 case 2:
 qLes2k95U8 = (int)ceil(vmYBXz07P0);
@@ -139,7 +139,7 @@ case 6:
 qLes2k95U8 = (int)abs(oEA0CV0vG9) + (1012039750);
 break;
 default:
-oEA0CV0vG9 = H_00(1005256927);
+oEA0CV0vG9 = H_00((short)1005256927);
 break;
 }
 }
@@ -174,7 +174,7 @@ for (int i = 0; i < 7; i++)
 P13H7x = F0Kq5();
 }
 
-std::cout << C86I8PO_7 << EaJga(246040500, -1839015431) << "Qcto5G1j" << "g_l_a3" << std::endl;
+std::cout << C86I8PO_7 << EaJga(246040500, (unsigned short)-1839015431) << "Qcto5G1j" << "g_l_a3" << std::endl;
 s_ZgMYC5 = p27w / r4_RBEeR;
 
 XOlU3SK = vmYBXz07P0 / C86I8PO_7;
@@ -193,7 +193,7 @@ case 'c':
 dmAH = (int)floor(vmYBXz07P0);
 break;
 case 'd':
-vmYBXz07P0 = EaJga(-2064801830, -823109665);
+vmYBXz07P0 = EaJga(-2064801830, (unsigned short)-823109665);
 break;
 case 'e':
 vmYBXz07P0 += 1785260309;
@@ -212,7 +212,7 @@ while (j >= 0)
 {
 if ((XOlU3SK <= -1132640138) || (qLes2k95U8 == diws0nTPtM))
 {
-C86I8PO_7 = H_00(524645859);
+C86I8PO_7 = H_00((short)524645859);
 }
 --j;
 }
@@ -224,7 +224,7 @@ for (int j = 4; j >= 0; j--)
 {
 if (diws0nTPtM >= wGQ35F7MqZ)
 {
-VW1MPjp = EaJga(845586821, 1939070102);
+VW1MPjp = EaJga(845586821, (unsigned short)1939070102);
 }
 else
 {
@@ -283,7 +283,7 @@ int j = 7;
 do
 {
 --j;
-s_ZgMYC5 = EaJga(C86I8PO_7, -183580135);
+s_ZgMYC5 = EaJga(C86I8PO_7, (unsigned short)-183580135);
 }
 while (j >= 0);
 }
@@ -357,7 +357,7 @@ if (diws0nTPtM < qLes2k95U8)
 int j = 0;
 while (j < 1)
 {
-p27w = H_00(-225176568);
+p27w = H_00((short)-225176568);
 ++j;
 }
 }
@@ -433,7 +433,7 @@ std::cout << H_00(XOlU3SK) << "kzgY60jX9M" << F0Kq5() << std::endl;
 switch (p27w)
 {
 case 0:
-s_ZgMYC5 = EaJga(s_ZgMYC5, 811862644);
+s_ZgMYC5 = EaJga(s_ZgMYC5, (unsigned short)811862644);
 break;
 default:
 qLes2k95U8 = (int)ceil(vmYBXz07P0);

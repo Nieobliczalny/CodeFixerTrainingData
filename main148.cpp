@@ -13,7 +13,7 @@ unsigned long    XCDt8_4e7(unsigned int    w51Uf6R,unsigned int    M2mhx_)    {
 
 short kv_h4Dw0T_(unsigned short O3Jzu34)
 {
- return -1224273227;
+ return (short)-1224273227;
 }
 
 unsigned long long V4bJ463(char rH15,unsigned long JRcScUUE6C,long BrJ7,char E2u4xY4W,long I7X_g) {
@@ -34,7 +34,7 @@ int main(int argc, char** argv) {
     unsigned long    YVSPjy2;
     YVSPjy2    =    904587440;
 	short int	u3_Ws;
-	u3_Ws	=	1912070233;
+	u3_Ws	=	(short)1912070233;
 	unsigned long long	UtDTQH;
 	UtDTQH	=	-916135034;
  long long SptaF04;
@@ -58,7 +58,7 @@ int main(int argc, char** argv) {
 	long long	zTNrudM;
 	zTNrudM	=	1089188724;
   unsigned short int  Pgx5OA2YK8;
-  Pgx5OA2YK8  =  -1143785741;
+  Pgx5OA2YK8  =  (unsigned short)-1143785741;
  unsigned char X61a3;
  X61a3 = (unsigned char)619088910;
  float uK12V_;
@@ -68,7 +68,7 @@ int main(int argc, char** argv) {
  unsigned short int VgrFTA5;
  VgrFTA5 = -2101277634;
 	short	nTtL;
-	nTtL	=	-790660130;
+	nTtL	=	(short)-790660130;
   char  pl42d;
   pl42d  =  (char)-1009950730;
   unsigned short int  mo_h;
@@ -78,7 +78,7 @@ int main(int argc, char** argv) {
     short    pUgzxIf;
     pUgzxIf    =    1514206281;
   unsigned short int  M94s2g;
-  M94s2g  =  944999693;
+  M94s2g  =  (unsigned short)944999693;
 	char	YACD_;
 	YACD_	=	(char)57406243;
   long  P7gEQ2D2;
@@ -90,7 +90,7 @@ int main(int argc, char** argv) {
  unsigned int aCW1mid;
  aCW1mid = 333870559;
     unsigned short int    y7Rz7;
-    y7Rz7    =    -306021946;
+    y7Rz7    =    (unsigned short)-306021946;
   unsigned short  uPJ_X;
   uPJ_X  =  (unsigned short)-343361704;
   unsigned short  oK4QLew;
@@ -100,7 +100,7 @@ int main(int argc, char** argv) {
     unsigned short    efPHXPV0b6;
     efPHXPV0b6    =    -2072872637;
  short int a3S_65dt9;
- a3S_65dt9 = -1754138996;
+ a3S_65dt9 = (short)-1754138996;
  char q8US8W;
  q8US8W = (char)-830707779;
  unsigned long Q_h7V36ZA;
@@ -114,7 +114,7 @@ int main(int argc, char** argv) {
 	long double	l29x7_;
 	l29x7_	=	1186329951;
 	char	z6saEE;
-	z6saEE	=	1702526713;
+	z6saEE	=	(char)1702526713;
  unsigned long long Qa2PXoPkT;
  Qa2PXoPkT = 2083146762;
   unsigned long  E4ou;
@@ -136,7 +136,7 @@ int main(int argc, char** argv) {
     long    I1_SDQ8no;
     I1_SDQ8no    =    371988831;
 	short int	M5JI;
-	M5JI	=	1706594157;
+	M5JI	=	(short)1706594157;
   short  urQ_y;
   urQ_y  =  (short)1710885824;
     double    DB6iX8P;
@@ -154,7 +154,7 @@ int main(int argc, char** argv) {
  double dsgQb;
  dsgQb = -812161928;
  short AHYkPzJ;
- AHYkPzJ = -1210798607;
+ AHYkPzJ = (short)-1210798607;
     short int    ZPjI;
     ZPjI    =    (short)1867114390;
   unsigned long long  m223m9cz_;
@@ -166,7 +166,7 @@ int main(int argc, char** argv) {
     long double    PrjA7R_;
     PrjA7R_    =    666975263;
  short int JZd705;
- JZd705 = 189357660;
+ JZd705 = (short)189357660;
   long double  HHaLTR8xn;
   HHaLTR8xn  =  1323594830;
  double FjMAG;
@@ -180,7 +180,7 @@ int main(int argc, char** argv) {
  long UEuW2qeE98;
  UEuW2qeE98 = -1722493455;
  short int Hzi3p;
- Hzi3p = -1147267002;
+ Hzi3p = (short)-1147267002;
  unsigned short int NCso5Jo_;
  NCso5Jo_ = (unsigned short)-861292613;
 	long	Vtfs6R0m;
@@ -194,7 +194,7 @@ int main(int argc, char** argv) {
     unsigned long long    YY_Uk;
     YY_Uk    =    -1094462395;
     unsigned short int    cYsNlgk_1_;
-    cYsNlgk_1_    =    -830322816;
+    cYsNlgk_1_    =    (unsigned short)-830322816;
  short int j8_B;
  j8_B = (short)-830848210;
   long double  I5YgZT;
@@ -204,7 +204,7 @@ int main(int argc, char** argv) {
   char  wPLsLGmE8X;
   wPLsLGmE8X  =  -824051788;
  short L4DKSvA968;
- L4DKSvA968 = -961421662;
+ L4DKSvA968 = (short)-961421662;
 	double	rPe6ZjZa;
 	rPe6ZjZa	=	346530301;
  char yCmYJltrhd;
@@ -214,7 +214,7 @@ int main(int argc, char** argv) {
  float xo40k2ewh;
  xo40k2ewh = 1371764345;
 
-uPJ_X = kv_h4Dw0T_(987769504);
+uPJ_X = kv_h4Dw0T_((unsigned short)987769504);
 if ((Xwt8__ < -1702895015) || ((HQO2jqqWVa == yCmYJltrhd) && (Qa2PXoPkT == X42_4OWs)))
 {
 rPe6ZjZa = V4bJ463(961087387, -1411011024, 1539342396, -1720339643, -1851701452);

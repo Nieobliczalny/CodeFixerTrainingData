@@ -20,7 +20,7 @@ long	N129(unsigned short int	xG_15,char	qx_f3PdXHw)	{
 
 char kQ21c(unsigned short int boDYlVZ)
 {
- return -922182690;
+ return (char)-922182690;
 }
 
 unsigned long	L0NqAqJN1F(unsigned long long	jA83B17El,char	Eqq93sQI4,unsigned short	lwcG0p_1X,unsigned long long	dvV_8,unsigned long	Gt5DC2aO2)	{
@@ -42,7 +42,7 @@ case 0:
 sEE0xrV++;
 break;
 case 1:
-v984LEf = kQ21c(-1525292213);
+v984LEf = kQ21c((unsigned short)-1525292213);
 break;
 case 2:
 tY399 = IxOEKu | vU14;
@@ -69,7 +69,7 @@ case 9:
 d41NejDo = qPeza(85264721);
 break;
 default:
-e17a8Rz = L0NqAqJN1F(1794987197, rK5l9oI, -1578180928, -743251045, Vh_R45hR_5);
+e17a8Rz = L0NqAqJN1F(1794987197, rK5l9oI, (unsigned short)-1578180928, -743251045, Vh_R45hR_5);
 break;
 }
 cout << "mncAPw7" << L0NqAqJN1F(e17a8Rz, (char)-596320935, -26370030, R6_8TxE, Vh_R45hR_5) << VmWntjSuqT << d41NejDo << endl;
@@ -95,7 +95,7 @@ int i = 8;
 do
 {
 --i;
-Z6NU185D64 = N129(-1939431839, (char)-1703144610);
+Z6NU185D64 = N129((unsigned short)-1939431839, (char)-1703144610);
 }
 while (i >= 0);
 }

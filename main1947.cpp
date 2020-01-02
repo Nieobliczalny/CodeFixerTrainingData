@@ -15,7 +15,7 @@ short EkZRi_tuA()
 
 short	fnG3_Gn(unsigned short int	W2VAEl)
 {
-	return	650952973;
+	return	(short)650952973;
 }
 
 int main(int argc, char** argv)
@@ -37,7 +37,7 @@ QG92a4i_l4 = EkZRi_tuA();
 switch (setqlsIAS)
 {
 case 0:
-ByY5Cc2nWT = fnG3_Gn(1948117846);
+ByY5Cc2nWT = fnG3_Gn((unsigned short)1948117846);
 break;
 case 1:
 setqlsIAS--;
@@ -49,7 +49,7 @@ case 3:
 I0vvb = setqlsIAS & 2105937660;
 break;
 case 4:
-I0vvb = fnG3_Gn(563708034);
+I0vvb = fnG3_Gn((unsigned short)563708034);
 break;
 case 5:
 QG92a4i_l4 = EkZRi_tuA();
@@ -103,7 +103,7 @@ case 1:
 fWOc5_R += 211449944;
 break;
 case 2:
-ER9t = fnG3_Gn(-1005663426);
+ER9t = fnG3_Gn((unsigned short)-1005663426);
 break;
 case 3:
 c_OpT0E4_o %= 463796667;
@@ -130,7 +130,7 @@ break;
 
 if ((f3WkqGuI / QG92a4i_l4) <= -611179347)
 {
-I0vvb = fnG3_Gn(-1269448492);
+I0vvb = fnG3_Gn((unsigned short)-1269448492);
 }
 
 e7AI14r -= 666609557;
@@ -243,7 +243,7 @@ I0vvb *= I0vvb;
 }
 else
 {
-I0vvb = fnG3_Gn(-1003427097) % setqlsIAS;
+I0vvb = fnG3_Gn((unsigned short)-1003427097) % setqlsIAS;
 }
 }
 }
@@ -269,7 +269,7 @@ QG92a4i_l4 = EkZRi_tuA();
 break;
 case 'd':
 case 'D':
-I0vvb = fnG3_Gn(1624115673);
+I0vvb = fnG3_Gn((unsigned short)1624115673);
 break;
 }
 }
@@ -303,7 +303,7 @@ case 7:
 f3WkqGuI = f3WkqGuI >> 113419645;
 break;
 default:
-e7AI14r = fnG3_Gn(795862506);
+e7AI14r = fnG3_Gn((unsigned short)795862506);
 break;
 }
 }
@@ -353,7 +353,7 @@ fWOc5_R = fnG3_Gn(fWOc5_R);
 }
 else
 {
-ESdnSoAo = fnG3_Gn(-1965171507);
+ESdnSoAo = fnG3_Gn((unsigned short)-1965171507);
 }
 }
 while (i >= 0);

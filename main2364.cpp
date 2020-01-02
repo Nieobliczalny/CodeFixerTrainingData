@@ -19,7 +19,7 @@ long    w6IJQ1qb();
 int main(void)
 {
  unsigned short A0ZoJ_wn;
- A0ZoJ_wn = -1121943511;
+ A0ZoJ_wn = (unsigned short)-1121943511;
   short  kOhh4_ed;
   kOhh4_ed  =  (short)1384253608;
  unsigned long long So918s9p9;
@@ -31,7 +31,7 @@ int main(void)
     unsigned char    gIaaxR49;
     gIaaxR49    =    0;
 	unsigned short int	TKw630kV;
-	TKw630kV	=	1405752495;
+	TKw630kV	=	(unsigned short)1405752495;
 
 {
 int i = 0;
@@ -72,7 +72,7 @@ try
 {
 try
 {
-gIaaxR49 = zF2earn1IN(gIaaxR49, -1530779646, -554055386, -936621914);
+gIaaxR49 = zF2earn1IN(gIaaxR49, (short)-1530779646, -554055386, -936621914);
 }
 catch (int& errorCode)
 {
@@ -270,7 +270,7 @@ if (J6iyk_lN == 457878952)
 switch (So918s9p9)
 {
 case 0:
-kOhh4_ed = H4PC(-1821336677, -1630455441, 2056596667, 1231926707, -967246591);
+kOhh4_ed = H4PC((short)-1821336677, -1630455441, 2056596667, 1231926707, -967246591);
 break;
 case 1:
 A0ZoJ_wn = gIaaxR49 / BuoWe10433;
@@ -282,7 +282,7 @@ break;
 }
 else if (So918s9p9 & BuoWe10433)
 {
-cout << z0NU9(1166153294, 240612725, -582971137) << endl;
+cout << z0NU9(1166153294, (unsigned char)240612725, -582971137) << endl;
 }
 else if (BuoWe10433 < -2053317747)
 {
@@ -332,7 +332,7 @@ A0ZoJ_wn = H4PC(A0ZoJ_wn, kOhh4_ed, So918s9p9, gIaaxR49, J6iyk_lN);
 }
 else
 {
-So918s9p9 = zF2earn1IN(-1778014911, kOhh4_ed, So918s9p9, 905271662);
+So918s9p9 = zF2earn1IN((unsigned short)-1778014911, kOhh4_ed, So918s9p9, 905271662);
 }
 }
 }
@@ -348,7 +348,7 @@ while (j < 7)
 {
 if (kOhh4_ed)
 {
-TKw630kV = H4PC(-607425009, BuoWe10433, 675498209, So918s9p9, -784518798);
+TKw630kV = H4PC((short)-607425009, BuoWe10433, 675498209, So918s9p9, -784518798);
 }
 else
 {
@@ -391,7 +391,7 @@ if (TKw630kV)
 int k = 0;
 while (k < 8)
 {
-J6iyk_lN = z0NU9(gIaaxR49, -1688954795, J6iyk_lN);
+J6iyk_lN = z0NU9(gIaaxR49, (unsigned char)-1688954795, J6iyk_lN);
 k++;
 }
 }
@@ -431,7 +431,7 @@ J6iyk_lN *= A0ZoJ_wn;
 }
 else if ((TKw630kV & -642145155) || (gIaaxR49 != 585320277))
 {
-A0ZoJ_wn = (A0ZoJ_wn != -1302863976) ? A0ZoJ_wn : -551624193;
+A0ZoJ_wn = (A0ZoJ_wn != -1302863976) ? A0ZoJ_wn : (unsigned short)-551624193;
 }
 else
 {
@@ -483,7 +483,7 @@ else
 switch (A0ZoJ_wn)
 {
 case 'a':
-gIaaxR49 = zF2earn1IN(-628243750, TKw630kV, BuoWe10433, -2008104662);
+gIaaxR49 = zF2earn1IN((unsigned short)-628243750, TKw630kV, BuoWe10433, -2008104662);
 break;
 default:
 kOhh4_ed = w6IJQ1qb();

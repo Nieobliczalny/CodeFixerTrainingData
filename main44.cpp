@@ -17,7 +17,7 @@ short  HLbc3()
 
 char	b4HyN(long	nl92TEK,short	N60I420T,long	jnYJ3u)
 {
-	return	-1662435046;
+	return	(char)-1662435046;
 }
 
 unsigned short	F_Ae(long long	CCrt_7RljX,short	Nwdhg,unsigned short int	NMJWa1y,short	G309ln65)

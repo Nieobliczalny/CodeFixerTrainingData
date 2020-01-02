@@ -16,7 +16,7 @@ int main()
     int    Z20CPxW13y;
     Z20CPxW13y    =    -594012118;
  char nR_3omJ1;
- nR_3omJ1 = 294293902;
+ nR_3omJ1 = (char)294293902;
     int    aox_uRC;
     aox_uRC    =    1693293241;
   unsigned short  g6MCc58g64;
@@ -32,7 +32,7 @@ int main()
   int  K17XqVZ179;
   K17XqVZ179  =  1784935175;
   unsigned short int  r863WS160;
-  r863WS160  =  192935400;
+  r863WS160  =  (unsigned short)192935400;
 	unsigned char	jhIYBe6PUY;
 	jhIYBe6PUY	=	(unsigned char)1971544235;
   unsigned short int  qeFj_C;
@@ -46,7 +46,7 @@ int main()
     long    f_NTb;
     f_NTb    =    1711745549;
     short    H6S0nrS5R;
-    H6S0nrS5R    =    -1658064302;
+    H6S0nrS5R    =    (short)-1658064302;
  short int LQG2281d;
  LQG2281d = (short)993615148;
  unsigned short tKSsZ9m;
@@ -58,7 +58,7 @@ int main()
   long  O7BGB;
   O7BGB  =  -1184440012;
 	short	FT_24eKV1;
-	FT_24eKV1	=	-346582998;
+	FT_24eKV1	=	(short)-346582998;
  unsigned int W67w2z281;
  W67w2z281 = -1412272011;
     unsigned short    PC4590;
@@ -68,7 +68,7 @@ int main()
   long  Cz1s0N;
   Cz1s0N  =  -580115908;
     short int    wBK0;
-    wBK0    =    -757958578;
+    wBK0    =    (short)-757958578;
 	unsigned short int	GR34;
 	GR34	=	-264973655;
   double  N766;
@@ -80,7 +80,7 @@ int main()
   float  w_5x1Sgd;
   w_5x1Sgd  =  -801845280;
     short int    hMXgS;
-    hMXgS    =    292894952;
+    hMXgS    =    (short)292894952;
 	unsigned int	tG5465;
 	tG5465	=	-367596989;
   int  HKu3;
@@ -90,7 +90,7 @@ int main()
   unsigned long  C8w0kr3GP;
   C8w0kr3GP  =  -1925642179;
  unsigned char XEtWck;
- XEtWck = 2081534160;
+ XEtWck = (unsigned char)2081534160;
   float  dfFTDJ46PO;
   dfFTDJ46PO  =  158980641;
 	unsigned char	RA2_27R;
@@ -104,7 +104,7 @@ int main()
 	long double	yi8QYLD;
 	yi8QYLD	=	852473628;
   unsigned char  S8fs_vPk7;
-  S8fs_vPk7  =  926367161;
+  S8fs_vPk7  =  (unsigned char)926367161;
     char    l5IEOrEm_;
     l5IEOrEm_    =    (char)767448168;
  unsigned int flij;
@@ -301,7 +301,7 @@ vJlX = sC1C6 * I44O47;
 }
 else
 {
-LQG2281d = (w_5x1Sgd) ? Oy6_ : -1008666262;
+LQG2281d = (w_5x1Sgd) ? Oy6_ : (short)-1008666262;
 }
 }
 i++;
@@ -538,7 +538,7 @@ case 1:
 N766 = (int)ceil(w_5x1Sgd);
 break;
 case 2:
-r863WS160 = (qeFj_C >= 1480695611) ? 1856274567 : (unsigned short)-1922465565;
+r863WS160 = (qeFj_C >= 1480695611) ? (unsigned short)1856274567 : (unsigned short)-1922465565;
 break;
 case 3:
 LQG2281d <<= I44O47;

@@ -13,7 +13,7 @@ unsigned long long vZ11_uOe(unsigned char LYtw4Jc,char ryhWin5x8c)
 }
 
 short P22rJ26jJx(unsigned long long cXBeJ) {
- return -283290559;
+ return (short)-283290559;
 }
 
 int main(int argc, char** argv) {
@@ -67,7 +67,7 @@ int main(int argc, char** argv) {
  kU2Q83e = 1765006760;
  x_Ri_X2 = 729760863;
 
-igOSxG = MG1r_y9y / vZ11_uOe(1609030549, (char)355632899);
+igOSxG = MG1r_y9y / vZ11_uOe((unsigned char)1609030549, (char)355632899);
 
 std::cout << "NH2b7" << "pI1Q1rxz" << P22rJ26jJx(XEXY4aK3dl) << "GhnxWUu2t0" << C67jh8P << std::endl;
 std::cout << P22rJ26jJx(XEXY4aK3dl) << "U4Tm" << std::endl;
@@ -88,7 +88,7 @@ int k = 4;
 do
 {
 k--;
-hXG18 = vZ11_uOe(-334693948, Am_O9Irx);
+hXG18 = vZ11_uOe((unsigned char)-334693948, Am_O9Irx);
 }
 while (k >= 0);
 }
@@ -110,7 +110,7 @@ case 3:
 b8cYK = vZ11_uOe(Ik1LHVg, z21_5emq);
 break;
 case 4:
-PZsv = vZ11_uOe(-361873802, Zdqz);
+PZsv = vZ11_uOe((unsigned char)-361873802, Zdqz);
 break;
 case 5:
 b8cYK = vZ11_uOe(k5qm, (char)1676949945);
@@ -143,7 +143,7 @@ int k = 1;
 do
 {
 k--;
-hXG18 = vZ11_uOe(1753340937, (char)1088642111);
+hXG18 = vZ11_uOe((unsigned char)1753340937, (char)1088642111);
 }
 while (k >= 0);
 }
@@ -241,7 +241,7 @@ qJn3tuve <<= JJ_EyiyMaK;
 break;
 case 'b':
 case 'B':
-PZsv = vZ11_uOe(y2uT2, 1294639249);
+PZsv = vZ11_uOe(y2uT2, (char)1294639249);
 break;
 case 'c':
 case 'C':
@@ -253,7 +253,7 @@ hXG18 = vZ11_uOe(kU2Q83e, -1177379968);
 break;
 case 'e':
 case 'E':
-hXG18 = vZ11_uOe(uq32N79, 1341348268);
+hXG18 = vZ11_uOe(uq32N79, (char)1341348268);
 break;
 case 'f':
 case 'F':
@@ -280,7 +280,7 @@ else
 {
 if (Am_O9Irx <= -870160045)
 {
-b8cYK = vZ11_uOe(uq32N79, -1240726015);
+b8cYK = vZ11_uOe(uq32N79, (char)-1240726015);
 }
 else
 {
@@ -303,7 +303,7 @@ zvb434jPl--;
 break;
 case 'b':
 case 'B':
-hXG18 = vZ11_uOe(1587813453, Rzg9);
+hXG18 = vZ11_uOe((unsigned char)1587813453, Rzg9);
 break;
 case 'c':
 case 'C':
@@ -354,7 +354,7 @@ QX_b_ *= y2uT2;
 }
 else if ((ip92S5tN6 & 1562844831) || ((a3s142 != 1525797412) && (zvb434jPl == -1510377265)))
 {
-b8cYK = vZ11_uOe(1255604433, (char)-704833514);
+b8cYK = vZ11_uOe((unsigned char)1255604433, (char)-704833514);
 }
 else if (R7Mo1Sn <= z21_5emq)
 {
@@ -377,7 +377,7 @@ else if (b8cYK >= PZsv)
 {
 try
 {
-b8cYK = vZ11_uOe(pg0o22, -117626019);
+b8cYK = vZ11_uOe(pg0o22, (char)-117626019);
 }
 catch (int& errorCode)
 {
@@ -388,7 +388,7 @@ else
 {
 for (int k = 0; k < 10; k++)
 {
-PZsv = vZ11_uOe(51051041, PCf9);
+PZsv = vZ11_uOe((unsigned char)51051041, PCf9);
 }
 }
 }

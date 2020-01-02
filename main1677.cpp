@@ -10,7 +10,7 @@ using namespace std;
 
 short  GXG_j7(unsigned long long  N4eY0w2EM,unsigned short int  N1vB)
 {
-  return  -1397443120;
+  return  (short)-1397443120;
 }
 
 unsigned int    vLLOEE(int    kLx8,short    x1EWx,short    x50AVp67,unsigned long    u6B0bjD71,unsigned short int    t4hA2y)    {
@@ -141,7 +141,7 @@ case 0:
 oR1For = Y3R9YG9g9q - liTX;
 break;
 case 1:
-q_9m = vLLOEE(y8aLk, q_9m, -270706172, -1384048166, bn6o);
+q_9m = vLLOEE(y8aLk, q_9m, (short)-270706172, -1384048166, bn6o);
 break;
 }
 {

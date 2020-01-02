@@ -19,7 +19,7 @@ using std::floor;
 
 char  JSsLE5sM3J(unsigned short  QrU43Ivw,unsigned short  RO9vT)
 {
-  return  -385695962;
+  return  (char)-385695962;
 }
 
 unsigned char rt2Y7qRH4(long long SORwZmUi_Z)
@@ -39,7 +39,7 @@ unsigned int  WzAx4O()
 
 int main(void) {
 	int	PyE0qp	=	-1472787596;
- short int E5Txfc3z = -1964516191;
+ short int E5Txfc3z = (short)-1964516191;
 	char	PnfZsZ	=	(char)1830272096;
  short int X0pEJ = 0;
 	unsigned long	Lot7dmkN	=	2040581813;
@@ -49,7 +49,7 @@ int main(void) {
 	unsigned int	cTeOH07jz	=	408743336;
 	unsigned short int	sX6U6_WDDH	=	-1192744553;
 	float	sP72KN0_a8	=	-890848833;
-    short int    KzYJHWa    =    1573580997;
+    short int    KzYJHWa    =    (short)1573580997;
  long long dOcjY = 1109886961;
 	unsigned long	Kd2A2uRmGl	=	-1132281001;
  short S5_c = (short)-937701598;
@@ -59,7 +59,7 @@ int main(void) {
 	long double	sB73N	=	354552830;
 	long	Pe02J201b	=	-1647551209;
     short    npIojZ0    =    -158340433;
-  unsigned short  HTm4Vg  =  -646010720;
+  unsigned short  HTm4Vg  =  (unsigned short)-646010720;
 	int	K2y_3	=	123930512;
   unsigned long long  qbUS  =  -1529058465;
 	unsigned short int	BRC1PI	=	(unsigned short)-979148185;
@@ -82,7 +82,7 @@ Kd2A2uRmGl = (unsigned long)(tLb1s);
 
 if (dOcjY)
 {
-X0pEJ = wts366X(BRC1PI, -480777858, tLb1s, 1467286774);
+X0pEJ = wts366X(BRC1PI, -480777858, tLb1s, (unsigned short)1467286774);
 }
 else if (((Kd2A2uRmGl & 98334950) || (HTm4Vg > -1413883800)) || (X0pEJ & 1608873475))
 {
@@ -92,7 +92,7 @@ std::cout << dOcjY << "w8VaA2y" << wts366X(72668716, -2115031124, (char)13706629
 }
 else
 {
-dOcjY = JSsLE5sM3J(277357704, PyE0qp);
+dOcjY = JSsLE5sM3J((unsigned short)277357704, PyE0qp);
 }
 }
 else if (((PyE0qp <= VmEbZIdgQ) || (PnfZsZ <= Nx82Iv)) || (K2y_3))
@@ -221,7 +221,7 @@ for (int j = 0; j < 9; j++)
 {
 try
 {
-PnfZsZ = JSsLE5sM3J(1891367405, X0pEJ);
+PnfZsZ = JSsLE5sM3J((unsigned short)1891367405, X0pEJ);
 }
 catch (int& errorCode)
 {
@@ -248,7 +248,7 @@ case 'a':
 E5Txfc3z = PnfZsZ * PnfZsZ;
 break;
 case 'b':
-HTm4Vg = JSsLE5sM3J(1462024609, sX6U6_WDDH);
+HTm4Vg = JSsLE5sM3J((unsigned short)1462024609, sX6U6_WDDH);
 break;
 case 'c':
 qbUS = rt2Y7qRH4(1950153709);
@@ -294,7 +294,7 @@ AP363KWF = tLb1s / 1487330267;
 }
 while (i >= 0);
 }
-std::cout << wts366X(cTeOH07jz, -1652586478, sB73N, -854876344) << JSsLE5sM3J((unsigned short)1672527260, sP72KN0_a8) << std::endl;
+std::cout << wts366X(cTeOH07jz, -1652586478, sB73N, (unsigned short)-854876344) << JSsLE5sM3J((unsigned short)1672527260, sP72KN0_a8) << std::endl;
 
 E5Txfc3z = BRC1PI & 479508210;
 switch (AP363KWF)
@@ -315,7 +315,7 @@ case 4:
 K2y_3 = rt2Y7qRH4(269560011);
 break;
 case 5:
-X0pEJ = wts366X(605774728, -1911133118, VfoKb, 595679386);
+X0pEJ = wts366X(605774728, -1911133118, VfoKb, (unsigned short)595679386);
 break;
 case 6:
 sP72KN0_a8 = (int)floor(sB73N);

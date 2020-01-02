@@ -27,7 +27,7 @@ unsigned int a0aj5E(long lY10u2_7d,unsigned int TrNX8QI15B,unsigned int Nd_gzFp)
 }
 
 short	dA0YpbLG(unsigned short int	ZY_3q4,char	X1yS)	{
-	return	-458445956;
+	return	(short)-458445956;
 }
 
 unsigned short Uvy5O8K(unsigned short int EB7Ll8,unsigned long long M4LA233,unsigned short int TU9U2WhzaL,char v7g1e5yT5) {
@@ -45,7 +45,7 @@ try
 {
 try
 {
-LNh1E1b_c = RZ_kYct90V(-647697507, LNh1E1b_c);
+LNh1E1b_c = RZ_kYct90V((unsigned char)-647697507, LNh1E1b_c);
 }
 catch (int& errorCode)
 {
@@ -69,7 +69,7 @@ do
 j--;
 if (((I7C3Gid) || (LNh1E1b_c & -1670911570)) && (JKHTbJDD9n != i7qU67Ocn))
 {
-dBPIqi = Y6pYOwa46(LNh1E1b_c, dBPIqi, -7790207, -644533422, -1083118408);
+dBPIqi = Y6pYOwa46(LNh1E1b_c, dBPIqi, -7790207, -644533422, (unsigned char)-1083118408);
 }
 else
 {
@@ -106,7 +106,7 @@ if (((dBPIqi != ubfF4i) || (ubfF4i)) && (ZIXXiNvHl < 409413796))
 {
 try
 {
-LNh1E1b_c = RZ_kYct90V(1081887475, (unsigned short)896539387);
+LNh1E1b_c = RZ_kYct90V((unsigned char)1081887475, (unsigned short)896539387);
 }
 catch (int& errorCode)
 {
@@ -117,7 +117,7 @@ else
 {
 if (((tTllo <= JKHTbJDD9n) || (tTllo != i7qU67Ocn)) || (ubfF4i > 2013065686))
 {
-ZIXXiNvHl = dA0YpbLG(-965573978, (char)812863678);
+ZIXXiNvHl = dA0YpbLG((unsigned short)-965573978, (char)812863678);
 }
 }
 }
@@ -233,7 +233,7 @@ do
 i++;
 if (dBPIqi != i7qU67Ocn)
 {
-std::cout << "U3131i5xf" << ubfF4i << RZ_kYct90V(1877074096, (unsigned short)483999137) << "sR6Ud" << std::endl;
+std::cout << "U3131i5xf" << ubfF4i << RZ_kYct90V((unsigned char)1877074096, (unsigned short)483999137) << "sR6Ud" << std::endl;
 }
 else
 {
@@ -283,7 +283,7 @@ if (LNh1E1b_c > ubfF4i)
 switch (LNh1E1b_c)
 {
 case 0:
-I7C3Gid = dA0YpbLG(-112019016, (char)-635696237);
+I7C3Gid = dA0YpbLG((unsigned short)-112019016, (char)-635696237);
 break;
 case 1:
 JKHTbJDD9n = ZIXXiNvHl - 346942940;
@@ -304,7 +304,7 @@ case 6:
 dBPIqi = tTllo / ZIXXiNvHl;
 break;
 case 7:
-ubfF4i = dA0YpbLG(ubfF4i, -1377770579);
+ubfF4i = dA0YpbLG(ubfF4i, (char)-1377770579);
 break;
 default:
 tTllo = (int)floor(I7C3Gid);
@@ -333,7 +333,7 @@ I7C3Gid = (double)(ZIXXiNvHl);
 }
 dBPIqi = (double)(JKHTbJDD9n);
 
-JKHTbJDD9n = 1908078129 / RZ_kYct90V(ubfF4i, -1198795372);
+JKHTbJDD9n = 1908078129 / RZ_kYct90V(ubfF4i, (unsigned short)-1198795372);
 if ((I7C3Gid < i7qU67Ocn) || ((ZIXXiNvHl < i7qU67Ocn) || (I7C3Gid == JKHTbJDD9n)))
 {
 {
@@ -373,7 +373,7 @@ case 'd':
 I7C3Gid = tTllo * 588547372;
 break;
 case 'e':
-ubfF4i = Y6pYOwa46(1343022607, 1439627251, ZIXXiNvHl, -1029054577, dBPIqi);
+ubfF4i = Y6pYOwa46(1343022607, (unsigned char)1439627251, ZIXXiNvHl, -1029054577, dBPIqi);
 break;
 case 'f':
 ZIXXiNvHl = Uvy5O8K((unsigned short)-1505390407, -841530217, -1686176534, ubfF4i);
@@ -387,7 +387,7 @@ else if (ZIXXiNvHl)
 {
 try
 {
-JKHTbJDD9n = Y6pYOwa46(-1445630783, -990973239, dBPIqi, ubfF4i, (unsigned char)-687692033);
+JKHTbJDD9n = Y6pYOwa46(-1445630783, (unsigned char)-990973239, dBPIqi, ubfF4i, (unsigned char)-687692033);
 }
 catch (int& errorCode)
 {
@@ -485,7 +485,7 @@ catch (int& errorCode)
 ZIXXiNvHl = Y6pYOwa46(1190503982, -1473443550, 1658551153, JKHTbJDD9n, I7C3Gid);
 }
 }
-std::cout << "exOZeS" << dA0YpbLG(1629761117, LNh1E1b_c) << "Vm__GXnWFs" << a0aj5E(ZIXXiNvHl, LNh1E1b_c, -1934759926) << std::endl;
+std::cout << "exOZeS" << dA0YpbLG((unsigned short)1629761117, LNh1E1b_c) << "Vm__GXnWFs" << a0aj5E(ZIXXiNvHl, LNh1E1b_c, -1934759926) << std::endl;
 {
 int i = 2;
 do
@@ -503,7 +503,7 @@ case 'b':
 dBPIqi = dA0YpbLG(LNh1E1b_c, dBPIqi);
 break;
 case 'c':
-tTllo = Uvy5O8K(tTllo, LNh1E1b_c, 984114421, (char)151559825);
+tTllo = Uvy5O8K(tTllo, LNh1E1b_c, (unsigned short)984114421, (char)151559825);
 break;
 case 'd':
 tTllo *= 1328200159;
@@ -578,7 +578,7 @@ JKHTbJDD9n = (int)ceil(dBPIqi);
 }
 else if (ZIXXiNvHl > i7qU67Ocn)
 {
-ZIXXiNvHl = dA0YpbLG(1369433250, dBPIqi);
+ZIXXiNvHl = dA0YpbLG((unsigned short)1369433250, dBPIqi);
 }
 else if (LNh1E1b_c & -260308418)
 {
@@ -614,7 +614,7 @@ else
 int j = 5;
 do
 {
-dBPIqi = dA0YpbLG(dBPIqi, -2123105909);
+dBPIqi = dA0YpbLG(dBPIqi, (char)-2123105909);
 --j;
 }
 while (j >= 0);

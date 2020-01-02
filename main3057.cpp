@@ -12,7 +12,7 @@
 using namespace std;
 
 char pcYN6o(long ONd4LP,long IGr5p7iF_) {
- return -228759012;
+ return (char)-228759012;
 }
 
 unsigned short int IVl2_9c7v_() {
@@ -25,7 +25,7 @@ unsigned short  pnf_iw()
 }
 
 unsigned short int PMdA(unsigned long long x8_9afF,int mG8m,short nGZg3H) {
- return 149258676;
+ return (unsigned short)149258676;
 }
 
 short    MG8u1g_(long    w9qr8859,int    wjekhBLp,int    e1vwM8io,long    Z6v5ant40,int    Lf_c)    {
@@ -36,7 +36,7 @@ int main(void)
 {
     char    Hsk8yR6DAg    =    (char)491652772;
     double    E351G    =    1367327372;
-	unsigned short int	G5K8toH	=	1900035182;
+	unsigned short int	G5K8toH	=	(unsigned short)1900035182;
 	unsigned int	P_68TpQ88e	=	-1915597938;
  unsigned short int i86725n = 2026684430;
   unsigned int  h_exZWG  =  465395018;
@@ -48,7 +48,7 @@ int main(void)
     unsigned char    KDb00L    =    -1339428749;
     unsigned long    j6O9Afvb    =    125335881;
     unsigned int    s2L9VZg9    =    -1390483860;
-	unsigned short int	HB9Ukt0T	=	1413671598;
+	unsigned short int	HB9Ukt0T	=	(unsigned short)1413671598;
   long  OTMO  =  801091916;
 	short	RteTE9A4F6	=	-435155035;
  char L4nV = -1353702884;
@@ -66,7 +66,7 @@ int main(void)
 	unsigned int	B3_y0nv8	=	101615925;
  float XtMRV = 2085278808;
   float  YbUh  =  -462299882;
-  char  qS1069  =  2024119550;
+  char  qS1069  =  (char)2024119550;
   long long  dwDjn5__N  =  1981445096;
     unsigned char    sk7IL    =    (unsigned char)1453856658;
     long double    kJUIgtyQ    =    984395702;
@@ -77,7 +77,7 @@ int main(void)
  unsigned short int X7l1LMN = 847578701;
   long long  g89zG461Z0  =  -1662115833;
 	unsigned long	zjh0qeMOFr	=	-1179772396;
-    unsigned short    qr19l    =    -1732908293;
+    unsigned short    qr19l    =    (unsigned short)-1732908293;
     unsigned short int    Cm3VA    =    (unsigned short)-2008591241;
  short int pTYhPdnUA7 = -1727488821;
 	unsigned int	rvGe2	=	-658058099;
@@ -88,7 +88,7 @@ int main(void)
     char    f9wY8HH    =    -743963186;
  long double M0G1zM8 = -1043019799;
   float  LfK4  =  1506323353;
- unsigned short i39dJ = -2057897789;
+ unsigned short i39dJ = (unsigned short)-2057897789;
  long long wlXZ9vWOu = -2029360475;
     unsigned short int    F4_j    =    (unsigned short)2082853832;
     unsigned char    ZQv1Xf    =    -985753988;
@@ -98,7 +98,7 @@ int main(void)
     short    qLY7    =    -920113776;
   char  Qn7_3  =  2084759876;
   float  V_jU6A2  =  -708027276;
- short iORYPbqa83 = -1092588795;
+ short iORYPbqa83 = (short)-1092588795;
  unsigned long long s_kl7 = -2027566723;
  unsigned long long n9zm4 = -815573749;
  long huM4K = 490842592;
@@ -108,7 +108,7 @@ int main(void)
   double  Y_bTG_szMG  =  780034038;
     long long    z0gc233    =    -276880102;
  long double UDUuP = -803199233;
-  unsigned char  P__b6q_C_d  =  -1993901454;
+  unsigned char  P__b6q_C_d  =  (unsigned char)-1993901454;
  unsigned short int twS1N_avL = 1232295191;
     unsigned short int    me2S    =    1263853051;
 	unsigned long long	CdSU	=	1573519741;
@@ -118,7 +118,7 @@ int main(void)
  char eTUFhq33 = (char)85827414;
 	int	NA_9	=	-911101954;
   short int  LaMu9j  =  1141767715;
- short N4xpR0qs = -262252196;
+ short N4xpR0qs = (short)-262252196;
 	unsigned short int	seoYGm5	=	-909071990;
   char  lNKNqCq5  =  816836091;
   unsigned short int  rv1h  =  2005800956;
@@ -185,7 +185,7 @@ i39dJ = pnf_iw();
 }
 
 CdSU &= 398164196;
-cout << PMdA(726535383, wlXZ9vWOu, 1947004134) << pnf_iw() << "MR6_4aw" << endl;
+cout << PMdA(726535383, wlXZ9vWOu, (short)1947004134) << pnf_iw() << "MR6_4aw" << endl;
 hw87Q |= n3k_0f;
 
 {
@@ -264,7 +264,7 @@ P__b6q_C_d = pcYN6o(P__b6q_C_d, f9wY8HH);
 }
 else if (me2S >= x86B4H1M)
 {
-rvGe2 = PMdA(D_bCWQJG, -1700335109, 600750367);
+rvGe2 = PMdA(D_bCWQJG, -1700335109, (short)600750367);
 }
 else
 {
@@ -327,7 +327,7 @@ int k = 0;
 do
 {
 k++;
-J2FdFcy = PMdA(J2FdFcy, -173507304, 134555005);
+J2FdFcy = PMdA(J2FdFcy, -173507304, (short)134555005);
 }
 while (k < 10);
 }
@@ -413,7 +413,7 @@ case 5:
 seoYGm5 *= 1901971254;
 break;
 case 6:
-RteTE9A4F6 = PMdA(RteTE9A4F6, 2132396696, 1777940287);
+RteTE9A4F6 = PMdA(RteTE9A4F6, 2132396696, (short)1777940287);
 break;
 case 7:
 LaMu9j = pcYN6o(RteTE9A4F6, eTUFhq33) % 80202970;
@@ -503,7 +503,7 @@ if (P_On59lD)
 {
 try
 {
-iORYPbqa83 = PMdA(iORYPbqa83, i39dJ, 1828882230);
+iORYPbqa83 = PMdA(iORYPbqa83, i39dJ, (short)1828882230);
 }
 catch (int& errorCode)
 {

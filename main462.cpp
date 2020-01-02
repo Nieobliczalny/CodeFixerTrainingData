@@ -50,7 +50,7 @@ if (Nk_19 <= FYR2q_)
 {
 if (e7MA152 > W80q7)
 {
-NIe83yS = Tput(-1560979364, 2028177684, (unsigned short)-177040672, zt9V9V, NIe83yS);
+NIe83yS = Tput((char)-1560979364, 2028177684, (unsigned short)-177040672, zt9V9V, NIe83yS);
 }
 else
 {
@@ -65,7 +65,7 @@ NIe83yS = (FYR2q_ >= -512163328) ? W80q7 : Nk_19;
 NIe83yS <<= 90825345;
 if (zt9V9V <= 1015593799)
 {
-std::cout << "Y74iyncmp" << "lz9J_T_f" << "BWWGZRWn" << pusPvIOI(FYR2q_) << Vk3R13cN(2114462803, -1882078737, (unsigned short)-364733923) << std::endl;
+std::cout << "Y74iyncmp" << "lz9J_T_f" << "BWWGZRWn" << pusPvIOI(FYR2q_) << Vk3R13cN(2114462803, (char)-1882078737, (unsigned short)-364733923) << std::endl;
 }
 else
 {
@@ -102,7 +102,7 @@ do
 --j;
 if (zt9V9V <= FYR2q_)
 {
-Nk_19 = gQDmfN(195869225);
+Nk_19 = gQDmfN((char)195869225);
 }
 else
 {
@@ -142,7 +142,7 @@ NIe83yS = Tput(e7MA152, FYR2q_, NIe83yS, Nk_19, 1716129158);
 break;
 case 'b':
 case 'B':
-NIe83yS = pusPvIOI(-660327234);
+NIe83yS = pusPvIOI((unsigned short)-660327234);
 break;
 case 'c':
 case 'C':
@@ -170,7 +170,7 @@ else if (e7MA152 != -633024461)
 {
 if (((NIe83yS == -597305413) && (FYR2q_ < Nk_19)) && (zt9V9V & W80q7))
 {
-NIe83yS = KvU8EC(zt9V9V, FYR2q_, 1269222690, NIe83yS);
+NIe83yS = KvU8EC(zt9V9V, FYR2q_, (short)1269222690, NIe83yS);
 }
 }
 else if ((Nk_19) || (Nk_19 >= Nt_755lh9))
@@ -181,7 +181,7 @@ case 0:
 NIe83yS = KvU8EC(-966962945, e7MA152, (short)361527540, -636195552);
 break;
 case 1:
-NIe83yS = pusPvIOI(1621238829);
+NIe83yS = pusPvIOI((unsigned short)1621238829);
 break;
 case 2:
 NIe83yS = KvU8EC(1623308828, NIe83yS, -977670601, 1029953564);
@@ -241,7 +241,7 @@ long Vk3R13cN(unsigned long long onWl,char a8Zs9,unsigned short int LVd63Ri7Gd) 
 
 char	pusPvIOI(unsigned short int	B5I1z8P7K2)
 {
-	return	-666180046;
+	return	(char)-666180046;
 }
 
 short  Tput(char  WSdvP_,unsigned long long  xhZC3,unsigned short int  PLzO0,long  lK1CA6wW,unsigned long  Js3gJSR93K)

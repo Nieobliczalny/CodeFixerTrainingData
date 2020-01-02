@@ -16,7 +16,7 @@ int main() {
  long double K4_3A = 782214766, ia9WiF4 = -2090634808, V__HIDMk = -2047433101, B1qPF_ = -486184150, bT82 = -531328403, Py_s6_de = -1304167507, uqM95 = 1033847112, QxQ6xj = -508720874, kJ13 = -2059436307, FV9FsS = 2120800081, X_90cH = -706903614, hR2Qh = 1514062212, wj_W = -1770288280, HHiVBGg0VW = -1350247709, QSV3o = -321384717, w_5FPG8hOp = 1354731167, C15mZOA = 1680306094, xoLojBs67 = -1989013673, p6WcPN1h9 = 593454166, mlFDb = 74413898, Lg8d4Z69V = 1382056309, Y1FJ3S9Itb = -915555141, zTxhY3Y = -1048973848;
 	long long	Sq386NT	=	0,	b_3c6	=	0,	si1LvUF1V	=	0,	Wmt63N	=	0;
 
-Sq386NT = OH86UGC(-1768203238, Y1FJ3S9Itb);
+Sq386NT = OH86UGC((unsigned short)-1768203238, Y1FJ3S9Itb);
 if (Sq386NT & -1443617879)
 {
 std::cout << hR2Qh << OH86UGC((unsigned short)218851519, Y1FJ3S9Itb) << std::endl;
@@ -51,7 +51,7 @@ i--;
 while (i >= 0);
 }
 
-std::cout << zTxhY3Y / OH86UGC(Lg8d4Z69V, 749258565) << std::endl;
+std::cout << zTxhY3Y / OH86UGC(Lg8d4Z69V, (short)749258565) << std::endl;
 
 {
 int i = 10;
@@ -72,7 +72,7 @@ else if (HHiVBGg0VW < zTxhY3Y)
 {
 try
 {
-wj_W = (Sq386NT <= 1852889877) ? -487849462 : OH86UGC(Lg8d4Z69V, 1366034114);
+wj_W = (Sq386NT <= 1852889877) ? -487849462 : OH86UGC(Lg8d4Z69V, (short)1366034114);
 }
 catch (int& errorCode)
 {
@@ -84,7 +84,7 @@ else if ((bT82 <= -1784472329) && (b_3c6 & 1657375502))
 switch (Wmt63N)
 {
 case 0:
-Sq386NT = OH86UGC(-522771295, (short)890614365);
+Sq386NT = OH86UGC((unsigned short)-522771295, (short)890614365);
 break;
 case 1:
 Wmt63N = OH86UGC(-1301553737, -186318692);
@@ -96,7 +96,7 @@ case 3:
 QxQ6xj += 1923758536;
 break;
 case 4:
-Wmt63N = OH86UGC(-1931178157, Wmt63N);
+Wmt63N = OH86UGC((unsigned short)-1931178157, Wmt63N);
 break;
 }
 }
@@ -109,7 +109,7 @@ zTxhY3Y = Py_s6_de * X_90cH;
 }
 else
 {
-b_3c6 = OH86UGC(-1575139056, V__HIDMk);
+b_3c6 = OH86UGC((unsigned short)-1575139056, V__HIDMk);
 }
 --i;
 }
@@ -126,7 +126,7 @@ if (ia9WiF4 <= 1451090972)
 kJ13 = (long double)(w_5FPG8hOp);
 }
 }
-std::cout << OH86UGC(hR2Qh, V__HIDMk) << OH86UGC(1650028470, V__HIDMk) << std::endl;
+std::cout << OH86UGC(hR2Qh, V__HIDMk) << OH86UGC((unsigned short)1650028470, V__HIDMk) << std::endl;
 
 {
 int i = 0;
@@ -145,7 +145,7 @@ switch (Wmt63N)
 {
 case 'a':
 case 'A':
-b_3c6 = OH86UGC(1603856945, b_3c6);
+b_3c6 = OH86UGC((unsigned short)1603856945, b_3c6);
 break;
 default:
 uqM95 = (int)ceil(Y1FJ3S9Itb);
@@ -158,7 +158,7 @@ else
 switch (b_3c6)
 {
 case 0:
-Wmt63N = OH86UGC(1341335835, (short)1783198128);
+Wmt63N = OH86UGC((unsigned short)1341335835, (short)1783198128);
 break;
 case 1:
 zTxhY3Y -= Sq386NT;
@@ -170,7 +170,7 @@ case 3:
 hR2Qh /= 939438035;
 break;
 case 4:
-Sq386NT = OH86UGC(-1475826611, (short)-1614938376);
+Sq386NT = OH86UGC((unsigned short)-1475826611, (short)-1614938376);
 break;
 case 5:
 si1LvUF1V = OH86UGC(-952244340, p6WcPN1h9);
@@ -191,7 +191,7 @@ K4_3A /= 1920002346;
 break;
 case 'b':
 case 'B':
-b_3c6 = OH86UGC(b_3c6, 681594410);
+b_3c6 = OH86UGC(b_3c6, (short)681594410);
 break;
 case 'c':
 case 'C':
@@ -203,7 +203,7 @@ w_5FPG8hOp = (int)abs(QSV3o);
 break;
 case 'e':
 case 'E':
-Sq386NT = OH86UGC(418530526, QxQ6xj);
+Sq386NT = OH86UGC((unsigned short)418530526, QxQ6xj);
 break;
 case 'f':
 case 'F':
@@ -215,7 +215,7 @@ Y1FJ3S9Itb = b_3c6 % 885651138;
 break;
 case 'h':
 case 'H':
-si1LvUF1V = OH86UGC(-1427917939, (short)-1689991142);
+si1LvUF1V = OH86UGC((unsigned short)-1427917939, (short)-1689991142);
 break;
 case 'i':
 case 'I':
@@ -230,7 +230,7 @@ break;
 zTxhY3Y = (int)floor(X_90cH);
 if (Y1FJ3S9Itb < -1572072431)
 {
-std::cout << FV9FsS << OH86UGC(1155354271, FV9FsS) << OH86UGC(B1qPF_, FV9FsS) << std::endl;
+std::cout << FV9FsS << OH86UGC((unsigned short)1155354271, FV9FsS) << OH86UGC(B1qPF_, FV9FsS) << std::endl;
 }
 else if (V__HIDMk != si1LvUF1V)
 {
@@ -282,7 +282,7 @@ while (j >= 0);
 }
 else if ((K4_3A == mlFDb) || ((FV9FsS <= -155567770) || (si1LvUF1V & -324476806)))
 {
-Wmt63N = OH86UGC(Y1FJ3S9Itb, 1278044943);
+Wmt63N = OH86UGC(Y1FJ3S9Itb, (short)1278044943);
 }
 else
 {
@@ -304,7 +304,7 @@ Py_s6_de = xoLojBs67 * 539754526;
 break;
 case 'd':
 case 'D':
-Wmt63N = OH86UGC(-2142396777, uqM95);
+Wmt63N = OH86UGC((unsigned short)-2142396777, uqM95);
 break;
 }
 }
@@ -314,7 +314,7 @@ else
 int k = 3;
 do
 {
-Sq386NT = OH86UGC(kJ13, -1230904129);
+Sq386NT = OH86UGC(kJ13, (short)-1230904129);
 k--;
 }
 while (k >= 0);

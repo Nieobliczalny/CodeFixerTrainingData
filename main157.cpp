@@ -18,7 +18,7 @@ char	GV9T29cj(int	XFL5os,unsigned long	c_tCJ3TCb,unsigned long	Ar6eVeRj3h,unsign
 int main(void)
 {
     unsigned short int    xyq3Co99j;
-    xyq3Co99j    =    537262923;
+    xyq3Co99j    =    (unsigned short)537262923;
 	char	yJ7LP68;
 	yJ7LP68	=	(char)-1156073129;
     unsigned short    W0hs2N0;
@@ -30,7 +30,7 @@ int main(void)
 	long	Yt6LUM;
 	Yt6LUM	=	-1630391877;
  char pJ8DUr58;
- pJ8DUr58 = -642961916;
+ pJ8DUr58 = (char)-642961916;
 	double	xq3hXB7w94;
 	xq3hXB7w94	=	341530595;
 	unsigned short int	MS2Cqwg7D;
@@ -52,7 +52,7 @@ int main(void)
   double  kZwKz_jgN;
   kZwKz_jgN  =  -1027398638;
  short int qd_ngN0Ni;
- qd_ngN0Ni = 70631074;
+ qd_ngN0Ni = (short)70631074;
  double c45Xx2;
  c45Xx2 = -1145987823;
   unsigned long  LYleK;
@@ -62,7 +62,7 @@ int main(void)
   double  Im32B;
   Im32B  =  -1213688892;
     unsigned short int    kR24_0oGiE;
-    kR24_0oGiE    =    2143526275;
+    kR24_0oGiE    =    (unsigned short)2143526275;
   short int  QVM4gM__t;
   QVM4gM__t  =  -1202717477;
  short int j7BPm_4Bx;
@@ -72,7 +72,7 @@ int main(void)
     int    s4T1aTJ;
     s4T1aTJ    =    0;
  unsigned char nz1S2JjN;
- nz1S2JjN = 1710287545;
+ nz1S2JjN = (unsigned char)1710287545;
 
 std::cout << Gr43JeX(1692500865, 629618630) << kR24_0oGiE << Vsb_g_h_() << std::endl;
 try
@@ -99,7 +99,7 @@ IYe6aErR = yJ7LP68 - 1396744511;
 std::cout << "wcQ8" << std::endl;
 
 kZwKz_jgN = (double)(Cd92OM);
-std::cout << mOKSS(1901464221, 2039286815) << Vsb_g_h_() << fWQRD << GV9T29cj(-340147087, -601757506, -1435315059, -1580903019) << Vsb_g_h_() << std::endl;
+std::cout << mOKSS((short)1901464221, 2039286815) << Vsb_g_h_() << fWQRD << GV9T29cj(-340147087, -601757506, -1435315059, -1580903019) << Vsb_g_h_() << std::endl;
 
 std::cout << "JligTf9q" << QVM4gM__t << "t_cy6MI8" << "mQ_71iSIY" << std::endl;
 
@@ -136,7 +136,7 @@ return 0;
 }
 
 unsigned char  mOKSS(short int  aOh3R4,unsigned int  x2F33)  {
-  return  -375855804;
+  return  (unsigned char)-375855804;
 }
 
 short    Vsb_g_h_()    {
@@ -150,6 +150,6 @@ unsigned long  Gr43JeX(unsigned short int  Iox9mx50,unsigned int  p9sT2)
 
 char	GV9T29cj(int	XFL5os,unsigned long	c_tCJ3TCb,unsigned long	Ar6eVeRj3h,unsigned long long	Ecei1)
 {
-	return	-977129086;
+	return	(char)-977129086;
 }
 

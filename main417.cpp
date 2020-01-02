@@ -23,7 +23,7 @@ int main()
   long long  q_5J_;
   q_5J_  =  0;
 	short	fp44v;
-	fp44v	=	-31628704;
+	fp44v	=	(short)-31628704;
   unsigned int  A41EzU81Ar;
   A41EzU81Ar  =  3255073;
 	unsigned long	iO5P4;
@@ -35,7 +35,7 @@ int main()
  float c754JhG;
  c754JhG = -969364768;
 	unsigned short	AIol9G;
-	AIol9G	=	-1060090766;
+	AIol9G	=	(unsigned short)-1060090766;
  unsigned int mk6_;
  mk6_ = 0;
     unsigned short    w8JS5i4g8b;
@@ -47,7 +47,7 @@ int main()
     unsigned int    rqv_8n_;
     rqv_8n_    =    -1269471750;
 	char	aqCXzyu;
-	aqCXzyu	=	-1021435603;
+	aqCXzyu	=	(char)-1021435603;
     unsigned long long    c4WepMBC;
     c4WepMBC    =    -786133224;
 
@@ -105,7 +105,7 @@ iO5P4 += Ysp8Ns;
 break;
 case 'h':
 case 'H':
-c4WepMBC = u_6T(1509234879, rqv_8n_, c754JhG);
+c4WepMBC = u_6T((short)1509234879, rqv_8n_, c754JhG);
 break;
 case 'i':
 case 'I':
@@ -194,7 +194,7 @@ try
 int k = 7;
 while (k >= 0)
 {
-j6st7wUL = u_6T(-439795587, (short)-577543489, c4WepMBC);
+j6st7wUL = u_6T((short)-439795587, (short)-577543489, c4WepMBC);
 --k;
 }
 }
@@ -218,7 +218,7 @@ j6st7wUL = (int)ceil(c754JhG);
 }
 else if (q_5J_ != 1155602238)
 {
-c754JhG = u_6T(c754JhG, 216563708, A41EzU81Ar);
+c754JhG = u_6T(c754JhG, (short)216563708, A41EzU81Ar);
 }
 else if ((Ysp8Ns == iO5P4) && ((c4WepMBC > -277909997) && (m9cy < eNfW6e4)))
 {
@@ -326,7 +326,7 @@ q_5J_ = (int)abs(m9cy) * 0;
 
 A41EzU81Ar = (unsigned int)(c4WepMBC);
 
-AIol9G = u_6T(AIol9G, -310921996, (short)-970079705);
+AIol9G = u_6T(AIol9G, (short)-310921996, (short)-970079705);
 iO5P4 = -590563933 / fmRfn();
 
 std::cout << m9cy << std::endl;
@@ -359,7 +359,7 @@ try
 {
 for (int k = 0; k < 1; k++)
 {
-fp44v = u_6T(1818750866, (short)-572081339, -1568655914);
+fp44v = u_6T((short)1818750866, (short)-572081339, -1568655914);
 }
 }
 catch (int& errorCode)
@@ -448,7 +448,7 @@ while (j < 5);
 }
 else
 {
-lV64yR2 = u_6T(-620159037, iO5P4, (short)-1215921718);
+lV64yR2 = u_6T((short)-620159037, iO5P4, (short)-1215921718);
 }
 
 w8JS5i4g8b = (unsigned short)(c4WepMBC * (pCE4tE));
@@ -473,7 +473,7 @@ for (int j = 5; j >= 0; j--)
 {
 for (int k = 3; k >= 0; --k)
 {
-A41EzU81Ar = u_6T(1026040881, (short)-1200360519, iO5P4);
+A41EzU81Ar = u_6T((short)1026040881, (short)-1200360519, iO5P4);
 }
 }
 --i;
@@ -484,7 +484,7 @@ return 0;
 }
 
 short int  u_6T(short int  ShB_Ai,short  Dxmp,short int  iETGw6O6A)  {
-  return  1229306566;
+  return  (short)1229306566;
 }
 
 unsigned char	fmRfn()

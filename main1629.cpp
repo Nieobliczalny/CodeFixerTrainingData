@@ -19,7 +19,7 @@ long  vI5hx1t1a()  {
 int main(int argc, char** argv)
 {
  short Ey6X9n;
- Ey6X9n = 694892231;
+ Ey6X9n = (short)694892231;
  short int r40c5b;
  r40c5b = (short)-334990808;
  float XkxMN;
@@ -33,7 +33,7 @@ int main(int argc, char** argv)
 	unsigned long long	i_Z2_i;
 	i_Z2_i	=	727847151;
 	short int	xk9_s_8D;
-	xk9_s_8D	=	1781465812;
+	xk9_s_8D	=	(short)1781465812;
 	long long	Xrwp86;
 	Xrwp86	=	-750814552;
 	unsigned long long	wu0NS1;
@@ -43,7 +43,7 @@ int main(int argc, char** argv)
 	unsigned long long	W9sR9S4;
 	W9sR9S4	=	0;
  unsigned short int d2nrnR;
- d2nrnR = 240861192;
+ d2nrnR = (unsigned short)240861192;
     long long    MyL5fiorL;
     MyL5fiorL    =    -1200067001;
     unsigned char    Ab0AXxT;
@@ -59,7 +59,7 @@ int main(int argc, char** argv)
 	long double	DHz_g_h0D;
 	DHz_g_h0D	=	-862399325;
  short p_S1;
- p_S1 = 1309688480;
+ p_S1 = (short)1309688480;
     long    XiEL;
     XiEL    =    1655790323;
 	short	AR11fr;
@@ -69,7 +69,7 @@ int main(int argc, char** argv)
  int xZbx30Uxq8;
  xZbx30Uxq8 = -955655710;
   short  X9WARru;
-  X9WARru  =  -1904305236;
+  X9WARru  =  (short)-1904305236;
   long double  K57Go;
   K57Go  =  -982345354;
     unsigned long    B05L008;

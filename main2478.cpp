@@ -31,7 +31,7 @@ case 'b':
 dMQ8j_2 *= aNcO2;
 break;
 case 'c':
-cSzt5z = Mj67(-408323609, (short)1207880820, 557440543, 1799380139);
+cSzt5z = Mj67((short)-408323609, (short)1207880820, 557440543, 1799380139);
 break;
 case 'd':
 QsJ4CXOv = (int)ceil(VyZ2q);
@@ -115,7 +115,7 @@ TfJ0OwgXL = (int)floor(D7paf735);
 }
 else if (eUOpb19 & 1799898656)
 {
-cSzt5z = BcUt(-1380083824, jiXZU5ih37, 213970686);
+cSzt5z = BcUt(-1380083824, jiXZU5ih37, (unsigned short)213970686);
 }
 else if (fbDDnY5 != -1025396717)
 {
@@ -207,7 +207,7 @@ break;
 }
 }
 
-WNgREA9 = BcUt(1953423286, 122203368, -996061107);
+WNgREA9 = BcUt(1953423286, 122203368, (unsigned short)-996061107);
 
 cSzt5z = g96RGw49T * jiXZU5ih37;
 
@@ -268,7 +268,7 @@ while (j < 2);
 }
 else if (X_w9 <= dMQ8j_2)
 {
-g96RGw49T = BcUt(-343538090, 1959985631, 489369814) - ASC97;
+g96RGw49T = BcUt(-343538090, 1959985631, (unsigned short)489369814) - ASC97;
 }
 else if ((eUOpb19 != -932268417) && ((aNcO2 & eUOpb19) || (WNgREA9)))
 {
@@ -313,7 +313,7 @@ wv03QW6x9 = (int)abs(VyZ2q);
 break;
 case 'e':
 case 'E':
-t_8RP_G5g7 = Mj67(1576456236, (short)457596296, l0h8x7iWNb, -1776017051);
+t_8RP_G5g7 = Mj67((short)1576456236, (short)457596296, l0h8x7iWNb, -1776017051);
 break;
 case 'f':
 case 'F':
@@ -396,7 +396,7 @@ else if (eUOpb19 > Y_O08)
 {
 for (int k = 0; k < 10; ++k)
 {
-V59C0lnh = BcUt(-711365617, 1985292340, 192686486) | 18870038;
+V59C0lnh = BcUt(-711365617, 1985292340, (unsigned short)192686486) | 18870038;
 }
 }
 else
@@ -452,7 +452,7 @@ break;
 }
 if (ozjF563j6)
 {
-t_8RP_G5g7 = Mj67(-249314115, X_w9, ozjF563j6, -324907762);
+t_8RP_G5g7 = Mj67((short)-249314115, X_w9, ozjF563j6, -324907762);
 }
 else if ((RKXk182H == -1567056062) || (dMQ8j_2 != 1743148361))
 {
@@ -502,7 +502,7 @@ G_KGC30zL = BcUt(-1894591652, -279041245, nfh_Fj);
 }
 else if (Y_O08 != 1239751992)
 {
-G_KGC30zL = BcUt(eUOpb19, G_KGC30zL, -1069679518);
+G_KGC30zL = BcUt(eUOpb19, G_KGC30zL, (unsigned short)-1069679518);
 }
 else
 {
@@ -522,7 +522,7 @@ long long    Mj67(short    wnnmUS,short    k4A_D1ok,unsigned long long    Tq2L5l
 
 short int	BcUt(long long	NAOqH,unsigned int	WS8e,unsigned short	E1ddZ_1)
 {
-	return	1466764131;
+	return	(short)1466764131;
 }
 
 int Ab1noi(unsigned long long bJF4YvE,long long NEs9X,unsigned int wwHzIgc5) {

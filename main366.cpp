@@ -18,7 +18,7 @@ unsigned int	T6L7Ou6()	{
 
 unsigned char	oeRa36ydE(unsigned short int	KO9V,unsigned long long	hQ_85Wj__D)
 {
-	return	-496959778;
+	return	(unsigned char)-496959778;
 }
 
 unsigned short int IaJwrqY7T(long y2qjThZ5,unsigned long long x5U04UX79,unsigned short int pr7KtxOyq7,unsigned long YjK_) {
@@ -111,7 +111,7 @@ q9D2l3t /= 674053313;
 }
 else
 {
-FCwb = IaJwrqY7T(FCwb, 1160079423, -1606950279, rIl1m);
+FCwb = IaJwrqY7T(FCwb, 1160079423, (unsigned short)-1606950279, rIl1m);
 }
 }
 }
@@ -121,7 +121,7 @@ if ((nhhEt) && (D6_LGgAtQ > 1853961430))
 cout << "DN5r4uN0" << T6L7Ou6() << "Kc52qxzOW" << qD2m << "B4Oumx8" << endl;
 }
 
-cout << IaJwrqY7T(FCwb, 1888160836, -1194933831, rIl1m) << FCwb << endl;
+cout << IaJwrqY7T(FCwb, 1888160836, (unsigned short)-1194933831, rIl1m) << FCwb << endl;
 D6_LGgAtQ = 1630481148 / Z6h3PT_O();
 return 0;
 }

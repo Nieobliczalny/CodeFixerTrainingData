@@ -15,7 +15,7 @@ using std::floor;
 int main(void)
 {
     unsigned short int    E_fL;
-    E_fL    =    -787572190;
+    E_fL    =    (unsigned short)-787572190;
   float  G_tpcu;
   G_tpcu  =  2028722743;
   unsigned long  v3H1Vv5HN;
@@ -25,7 +25,7 @@ int main(void)
     unsigned int    scVz_8X7G8;
     scVz_8X7G8    =    1755252172;
  unsigned short int g5Q_;
- g5Q_ = 822592081;
+ g5Q_ = (unsigned short)822592081;
   unsigned int  zXB3;
   zXB3  =  1394331175;
     unsigned long long    htO8I6L;
@@ -35,7 +35,7 @@ int main(void)
   long double  YOnBKZR5;
   YOnBKZR5  =  108546841;
  unsigned char rS8M;
- rS8M = -2082836750;
+ rS8M = (unsigned char)-2082836750;
     long long    Ua1_Wu3N;
     Ua1_Wu3N    =    1343539311;
     long long    yf7g61lgtX;
@@ -49,7 +49,7 @@ int main(void)
   int  Iqa_Wmdm;
   Iqa_Wmdm  =  -1392026992;
  char M_1T4v9;
- M_1T4v9 = 286475959;
+ M_1T4v9 = (char)286475959;
  unsigned short Mzri;
  Mzri = (unsigned short)-504855372;
     double    BwfeX7O83X;
@@ -65,7 +65,7 @@ int main(void)
 	float	I_Xn;
 	I_Xn	=	-1506366938;
  unsigned char Ype_6WJP4;
- Ype_6WJP4 = -672143093;
+ Ype_6WJP4 = (unsigned char)-672143093;
  short q4Q9T;
  q4Q9T = (short)-966884944;
 	unsigned short	Q2j2gQn8;
@@ -75,7 +75,7 @@ int main(void)
     unsigned char    yTBmW;
     yTBmW    =    1642002987;
   short  nD5TV210Mt;
-  nD5TV210Mt  =  1918817785;
+  nD5TV210Mt  =  (short)1918817785;
  int kT36n;
  kT36n = -301188977;
     int    oTOI9;
@@ -91,7 +91,7 @@ int main(void)
  unsigned long long ovw67;
  ovw67 = 1417766961;
  unsigned char E_uXQfZ;
- E_uXQfZ = -1239918680;
+ E_uXQfZ = (unsigned char)-1239918680;
  int r60ux90r;
  r60ux90r = -617601002;
     char    b3F27g;
@@ -103,7 +103,7 @@ int main(void)
  int KSi66;
  KSi66 = -1890795894;
 	unsigned char	PoPD70R8;
-	PoPD70R8	=	-1234263281;
+	PoPD70R8	=	(unsigned char)-1234263281;
 	long	L2nAQW_j;
 	L2nAQW_j	=	-149519889;
 	long long	xbt4g;
@@ -113,7 +113,7 @@ int main(void)
   float  dUcP25;
   dUcP25  =  1917277465;
  unsigned short int qs_0ZF;
- qs_0ZF = -1664793322;
+ qs_0ZF = (unsigned short)-1664793322;
   long  VY_t6xu_E;
   VY_t6xu_E  =  410141117;
   short  qds4;

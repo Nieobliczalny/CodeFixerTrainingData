@@ -12,7 +12,7 @@ int main()
     long    YBq4_9m,    ytSF927e_,    MLR_k6;
         YBq4_9m    =    ytSF927e_    =    MLR_k6    =    0;
     short int    k70n_w,    eJP592ZD,    Wr1UYW,    LZySDI0,    gwx8_,    H357MAaF,    R5v4P6YKA,    JF2s,    zo3WU,    njc8X1k5Y0,    mXDyK,    xGf1zUnxNU,    gv912MT6nP,    B7h3ff_,    bML4GTsBU,    J93NEq_d,    egTszl,    OyxcbP,    j4k7pMXyFq,    vgsr,    Q69L374m4s,    lyX9Q3E45m,    hFewUSE50,    W_b9Fgo,    Y4t7ue2O3;
-        k70n_w    =    eJP592ZD    =    Wr1UYW    =    LZySDI0    =    gwx8_    =    H357MAaF    =    R5v4P6YKA    =    JF2s    =    zo3WU    =    njc8X1k5Y0    =    mXDyK    =    xGf1zUnxNU    =    gv912MT6nP    =    B7h3ff_    =    bML4GTsBU    =    J93NEq_d    =    egTszl    =    OyxcbP    =    j4k7pMXyFq    =    vgsr    =    Q69L374m4s    =    lyX9Q3E45m    =    hFewUSE50    =    W_b9Fgo    =    Y4t7ue2O3    =    2072620545;
+        k70n_w    =    eJP592ZD    =    Wr1UYW    =    LZySDI0    =    gwx8_    =    H357MAaF    =    R5v4P6YKA    =    JF2s    =    zo3WU    =    njc8X1k5Y0    =    mXDyK    =    xGf1zUnxNU    =    gv912MT6nP    =    B7h3ff_    =    bML4GTsBU    =    J93NEq_d    =    egTszl    =    OyxcbP    =    j4k7pMXyFq    =    vgsr    =    Q69L374m4s    =    lyX9Q3E45m    =    hFewUSE50    =    W_b9Fgo    =    Y4t7ue2O3    =    (short)2072620545;
 
 W_b9Fgo = (short int)(Q69L374m4s);
 if (gv912MT6nP)
@@ -374,7 +374,7 @@ gwx8_ = (int)abs(B7h3ff_);
 break;
 case 'f':
 case 'F':
-k70n_w = (W_b9Fgo < -1113800175) ? JF2s : 2092255158;
+k70n_w = (W_b9Fgo < -1113800175) ? JF2s : (short)2092255158;
 break;
 case 'g':
 case 'G':

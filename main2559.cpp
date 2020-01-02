@@ -35,7 +35,7 @@ case 0:
 Bn2dvoq = (int)abs(u_aI4);
 break;
 case 1:
-y5J_M3PoGN = z_eOHxV04_(275510119, 1437870877, -2070605280, 43822005);
+y5J_M3PoGN = z_eOHxV04_(275510119, 1437870877, (unsigned short)-2070605280, 43822005);
 break;
 case 2:
 wPrytgk = jpE5 ^ q58d46;
@@ -50,7 +50,7 @@ case 5:
 Y3VRu785 = hBMm8z76_ / n3_B8Y;
 break;
 case 6:
-KMSLZ2BV = z_eOHxV04_(KMSLZ2BV, FFF1_P8d0, 749185313, g96vz_Cw);
+KMSLZ2BV = z_eOHxV04_(KMSLZ2BV, FFF1_P8d0, (unsigned short)749185313, g96vz_Cw);
 break;
 case 7:
 Gcgl3jxE = kJQ1FPa33a * lmP8t_H1;
@@ -62,7 +62,7 @@ case 9:
 mp97q = (tDp4b8n) ? -946371796 : NfjSKMg6tn;
 break;
 default:
-FABsy = (Z_d9mO1b <= NfjSKMg6tn) ? -500501285 : y5POyv2H;
+FABsy = (Z_d9mO1b <= NfjSKMg6tn) ? (unsigned char)-500501285 : y5POyv2H;
 break;
 }
 i++;
@@ -97,7 +97,7 @@ if ((K6lZ & hBMm8z76_) && (gVA224 > eGL_37w))
 {
 lmP8t_H1 = (unsigned char)(sf8C3pw33H);
 }
-J11k = z_eOHxV04_(J11k, 1567254533, -1351222996, 1600081678);
+J11k = z_eOHxV04_(J11k, 1567254533, (unsigned short)-1351222996, 1600081678);
 
 if ((KMSLZ2BV <= -346836662) && (Gcgl3jxE >= -2043893885))
 {
@@ -117,7 +117,7 @@ else
 {
 Bn2dvoq = qW4Zypjs(Gcgl3jxE, ewOiu1G_nh, -37882075);
 }
-Mol6hb6PA = z_eOHxV04_(-783488248, w097n03gjH, -303477767, 131551861);
+Mol6hb6PA = z_eOHxV04_(-783488248, w097n03gjH, (unsigned short)-303477767, 131551861);
 
 {
 int i = 0;
@@ -180,7 +180,7 @@ case 0:
 Bn2dvoq = (int)abs(u_aI4);
 break;
 case 1:
-BUj4 = (kEZxbvc9p >= 614802443) ? z_eOHxV04_(CoF_x, -1115656612, -1447583007, Do9h) : (unsigned char)-585585433;
+BUj4 = (kEZxbvc9p >= 614802443) ? z_eOHxV04_(CoF_x, -1115656612, (unsigned short)-1447583007, Do9h) : (unsigned char)-585585433;
 break;
 case 2:
 VQVYui0 *= 1753326304;
@@ -223,7 +223,7 @@ else
 {
 try
 {
-std::cout << EO8KR << j_o0v4 << S5y_3eA << qW4Zypjs(1547354636, AU9D1uGb_, 41646616) << q58d46 << std::endl;
+std::cout << EO8KR << j_o0v4 << S5y_3eA << qW4Zypjs((unsigned short)1547354636, AU9D1uGb_, 41646616) << q58d46 << std::endl;
 }
 catch (int& errorCode)
 {
@@ -240,7 +240,7 @@ jpE5 = (unsigned char)(KMSLZ2BV);
 while (i < 10);
 }
 
-S5y_3eA = z_eOHxV04_(2067057460, 125136219, -1864145351, 1630320020);
+S5y_3eA = z_eOHxV04_(2067057460, 125136219, (unsigned short)-1864145351, 1630320020);
 return 0;
 }
 

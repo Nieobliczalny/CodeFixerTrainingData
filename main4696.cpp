@@ -57,7 +57,7 @@ int i = 0;
 do
 {
 i++;
-cout << VKPpe << HU1ku7 << c1P3c(I5bY1, 35229900, (char)-168783851, -1535436568) << endl;
+cout << VKPpe << HU1ku7 << c1P3c(I5bY1, (unsigned char)35229900, (char)-168783851, -1535436568) << endl;
 }
 while (i < 8);
 }
@@ -76,7 +76,7 @@ try
 {
 for (int k = 2; k >= 0; k--)
 {
-I5bY1 = c1P3c(wZ5Myh, I5bY1, 13847487, V9jH_DNR);
+I5bY1 = c1P3c(wZ5Myh, I5bY1, (char)13847487, V9jH_DNR);
 }
 }
 catch (int& errorCode)
@@ -96,7 +96,7 @@ wZ5Myh = vryDVe5(HU1ku7);
 B_tV = FPS9X5JCWr(1140394500, -1031392037, 740627270, 1192623273, Pq6_2__43);
 if (rO44lFR3 & -1288718838)
 {
-gY3n_4W4 = c1P3c(g644CnFUL, -67891761, Dpkv__494, (unsigned char)1725434325);
+gY3n_4W4 = c1P3c(g644CnFUL, (unsigned char)-67891761, Dpkv__494, (unsigned char)1725434325);
 }
 else if ((rO44lFR3 != -473981451) && (rO44lFR3 == 417474765))
 {
@@ -130,7 +130,7 @@ if (Pq6_2__43 > 1037567876)
 {
 if ((LfskE <= -794697332) || (V9jH_DNR > -1532616538))
 {
-cout << BKYU_3n << c1P3c(QmD_B8dCH, -164685917, (char)-228224941, 1846021068) << "MPXvoz2ix" << yd5_59 << endl;
+cout << BKYU_3n << c1P3c(QmD_B8dCH, (unsigned char)-164685917, (char)-228224941, 1846021068) << "MPXvoz2ix" << yd5_59 << endl;
 }
 else if ((BzI4l90uJ < -1645243772) || ((g644CnFUL > -1338741350) || (Vub0 < BKYU_3n)))
 {
@@ -194,7 +194,7 @@ else if (((rO44lFR3 > z368) || (VKPpe)) && ((q7_u > g644CnFUL) && (wZ5Myh & rO44
 {
 if (zpr8 != -928337895)
 {
-K55qP_ = c1P3c(K55qP_, zpr8, yIyXBI2, 1547931277);
+K55qP_ = c1P3c(K55qP_, zpr8, yIyXBI2, (unsigned char)1547931277);
 }
 else if (C4hfTzce0W > -1743032125)
 {
@@ -400,7 +400,7 @@ case 'A':
 yd5_59 = (VKPpe != 1247895714) ? vryDVe5(138193018) : 1725040966;
 break;
 default:
-QRoSu = c1P3c(C4hfTzce0W, QRoSu, 312591988, (unsigned char)1694338879);
+QRoSu = c1P3c(C4hfTzce0W, QRoSu, (char)312591988, (unsigned char)1694338879);
 break;
 }
 cout << "zac98PSSou" << FPS9X5JCWr(-2133599232, QRoSu, -1209699978, -1808262492, 106878908) << endl;
@@ -411,7 +411,7 @@ return 0;
 
 unsigned short	FPS9X5JCWr(unsigned long	qTvhSvhrW,long	PbQJm,unsigned long	x__yTqV,unsigned int	TvH1,int	f9eo2k5_8k)
 {
-	return	-1226478069;
+	return	(unsigned short)-1226478069;
 }
 
 int    c1P3c(long long    IY0Iv3kt7T,unsigned char    J217OxKi,char    zSgdtH9t,unsigned char    DZqnput)

@@ -9,7 +9,7 @@
 using namespace std;
 
 unsigned char L5mVGn2C8b(unsigned short t1b3qb26,long long z_dw60C) {
- return -1410566745;
+ return (unsigned char)-1410566745;
 }
 
 char	tW57_jZ5u(long	dTzE,unsigned short int	pP6eq511Ov,unsigned short int	Rm6G0epsp7,long long	Ne6e9,unsigned long	S2whxY)
@@ -23,7 +23,7 @@ char  Yo3j()  {
 
 short int d2f6DZ7I96(short int IBEkQjT,long Xstm28U46,int uK651,unsigned short int ClO3uPwKF)
 {
- return 1672121558;
+ return (short)1672121558;
 }
 
 int main() {
@@ -34,7 +34,7 @@ cPX9338M = (int)(JTmAL66 + (-26621638));
 
 std::cout << Uf0c << std::endl;
 
-TG_3TZV1N = urP8YR / tW57_jZ5u(TG_3TZV1N, 1025352932, (unsigned short)145162631, Hb5z, -1851328340);
+TG_3TZV1N = urP8YR / tW57_jZ5u(TG_3TZV1N, (unsigned short)1025352932, (unsigned short)145162631, Hb5z, -1851328340);
 
 if ((Sg4wybz == Hb5z) || ((Hb5z != 1187079471) || (TG_3TZV1N > -1390861018)))
 {
@@ -46,7 +46,7 @@ for (int j = 10; j >= 0; --j)
 {
 if (Hb5z != JTmAL66)
 {
-Uf0c = d2f6DZ7I96(Uf0c, 1374368538, 1358149570, 512034909);
+Uf0c = d2f6DZ7I96(Uf0c, 1374368538, 1358149570, (unsigned short)512034909);
 }
 else if (th_X1b66)
 {
@@ -79,7 +79,7 @@ case 'a':
 tq2dViIf += 1226617609;
 break;
 case 'b':
-TG_3TZV1N = d2f6DZ7I96(th_X1b66, TG_3TZV1N, Sg4wybz, 1395165825);
+TG_3TZV1N = d2f6DZ7I96(th_X1b66, TG_3TZV1N, Sg4wybz, (unsigned short)1395165825);
 break;
 case 'c':
 TG_3TZV1N = (int)abs(cPX9338M);
@@ -135,7 +135,7 @@ Uf0c--;
 }
 
 Hb5z = (int)(tq2dViIf);
-Sg4wybz = d2f6DZ7I96(1609899136, 2080700265, -2139323677, (unsigned short)1137425441);
+Sg4wybz = d2f6DZ7I96((short)1609899136, 2080700265, -2139323677, (unsigned short)1137425441);
 for (int i = 1; i >= 0; i--)
 {
 for (int j = 0; j < 1; j++)

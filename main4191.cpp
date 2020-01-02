@@ -36,7 +36,7 @@ int main(int argc, char** argv)
     long long    HQQ0PVk;
     HQQ0PVk    =    -723375833;
     char    vI49rv;
-    vI49rv    =    506659360;
+    vI49rv    =    (char)506659360;
   unsigned char  G9zAt;
   G9zAt  =  (unsigned char)2106699520;
  short wMK0zUT;
@@ -46,7 +46,7 @@ int main(int argc, char** argv)
   char  vG4s;
   vG4s  =  -1048250706;
 	short int	uJ0J0W0_n;
-	uJ0J0W0_n	=	1628911261;
+	uJ0J0W0_n	=	(short)1628911261;
   short  sx83CM2ri;
   sx83CM2ri  =  0;
   unsigned short  K3GWP;
@@ -64,7 +64,7 @@ int main(int argc, char** argv)
 	double	h_wP;
 	h_wP	=	-687959301;
  unsigned short RtfUdNO99;
- RtfUdNO99 = 1926648083;
+ RtfUdNO99 = (unsigned short)1926648083;
   long double  jVHMB;
   jVHMB  =  -1265533526;
   float  P_0u;
@@ -76,7 +76,7 @@ int main(int argc, char** argv)
 	long double	i65B;
 	i65B	=	-347511367;
     short int    nr6SpwI;
-    nr6SpwI    =    1459458533;
+    nr6SpwI    =    (short)1459458533;
 
 if ((vG4s > wMK0zUT) || (uJ0J0W0_n <= FCgt4jXAB3))
 {
@@ -98,7 +98,7 @@ case 'e':
 nr6SpwI ^= 1221129017;
 break;
 case 'f':
-zl1a = KKQP_sh(zl1a, wMK0zUT, -1378439902, i65B, 1900654210);
+zl1a = KKQP_sh(zl1a, wMK0zUT, (short)-1378439902, i65B, 1900654210);
 break;
 case 'g':
 Gw404S = (int)ceil(jVHMB);
@@ -110,7 +110,7 @@ case 'i':
 i65B = (int)abs(vG4s);
 break;
 default:
-wMK0zUT = F4Pf_d5z(247262548, P_0u);
+wMK0zUT = F4Pf_d5z((short)247262548, P_0u);
 break;
 }
 }
@@ -122,7 +122,7 @@ if (jVHMB == Jsr2MNWy)
 {
 try
 {
-i65B = aalBESkIz2(-2141083950, (unsigned char)1368138528, uJ0J0W0_n, 608303075, FCgt4jXAB3);
+i65B = aalBESkIz2((char)-2141083950, (unsigned char)1368138528, uJ0J0W0_n, 608303075, FCgt4jXAB3);
 }
 catch (int& errorCode)
 {
@@ -144,7 +144,7 @@ if (FCgt4jXAB3 <= P_0u)
 {
 if (nr6SpwI == -203534361)
 {
-P_0u = DU69d6yf6(P_0u, -1626714430);
+P_0u = DU69d6yf6(P_0u, (char)-1626714430);
 }
 }
 }
@@ -163,7 +163,7 @@ do
 j++;
 try
 {
-nr6SpwI = aalBESkIz2(nr6SpwI, 780248579, n1tN_Y2f7, -1500312802, FCgt4jXAB3);
+nr6SpwI = aalBESkIz2(nr6SpwI, (unsigned char)780248579, n1tN_Y2f7, -1500312802, FCgt4jXAB3);
 }
 catch (int& errorCode)
 {

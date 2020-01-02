@@ -14,7 +14,7 @@ unsigned long long p2K_3X8y(unsigned int PPW08aC,unsigned long Milaqd) {
 int main(void)
 {
 	unsigned char	V2v9t14Fqi;
-	V2v9t14Fqi	=	1195334532;
+	V2v9t14Fqi	=	(unsigned char)1195334532;
   int  BU2pEK8RJ8;
   BU2pEK8RJ8  =  -1337780140;
   unsigned char  UDw2n99g;
@@ -26,7 +26,7 @@ int main(void)
   long double  hiXf;
   hiXf  =  -2024423225;
   char  H_0_h;
-  H_0_h  =  1106211586;
+  H_0_h  =  (char)1106211586;
   short int  I279;
   I279  =  (short)825959692;
 	float	JmKfZ;
@@ -54,7 +54,7 @@ int main(void)
 	long long	J9Fym5wBnT;
 	J9Fym5wBnT	=	935814157;
     short    n442tX3d;
-    n442tX3d    =    247143951;
+    n442tX3d    =    (short)247143951;
     long long    nN341gj;
     nN341gj    =    19301003;
     long double    veV8Tnk4;
@@ -68,7 +68,7 @@ int main(void)
  float XoJ_4Wx;
  XoJ_4Wx = -2089887984;
   unsigned short int  h7TU814Ck;
-  h7TU814Ck  =  1091967867;
+  h7TU814Ck  =  (unsigned short)1091967867;
   long  YVoF8CvW10;
   YVoF8CvW10  =  -1091872824;
     int    b5BO;

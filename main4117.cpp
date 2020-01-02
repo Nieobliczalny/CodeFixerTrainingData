@@ -312,7 +312,7 @@ return 0;
 }
 
 unsigned short  shlgACs4h()  {
-  return  -370028947;
+  return  (unsigned short)-370028947;
 }
 
 unsigned short	kHIX_Ok(long long	CC2yiE81Z,long	w2398TTu4t)

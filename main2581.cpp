@@ -26,7 +26,7 @@ int main(void)
     long long    Rj9p0    =    1583377404;
  unsigned long DYjlw = 0;
 
-Rj9p0 = aUHoP8BP_(-2022296151) / O4_u3;
+Rj9p0 = aUHoP8BP_((unsigned short)-2022296151) / O4_u3;
 try
 {
 switch (a1Y0)
@@ -41,7 +41,7 @@ iLxn5ZdHLn = (int)abs(aNZkn);
 break;
 case 'c':
 case 'C':
-a1Y0 = nA6IqJi5t(a1Y0, j4u3NMPqt, 1944761372, 806985379, O4_u3);
+a1Y0 = nA6IqJi5t(a1Y0, j4u3NMPqt, 1944761372, (unsigned char)806985379, O4_u3);
 break;
 case 'd':
 case 'D':
@@ -78,7 +78,7 @@ break;
 switch (a1Y0)
 {
 case 0:
-rHp438NnT = wSUI2(2107408970);
+rHp438NnT = wSUI2((unsigned short)2107408970);
 break;
 case 1:
 j4u3NMPqt = nA6IqJi5t(j4u3NMPqt, O4_u3, -379887857, (unsigned char)1022962486, -412779885);
@@ -109,7 +109,7 @@ long aUHoP8BP_(unsigned short int WNa4)
 }
 
 short int  wSUI2(unsigned short  Z5G64ua0L)  {
-  return  214184472;
+  return  (short)214184472;
 }
 
 char nA6IqJi5t(unsigned char q24O9,long long kQ0_W18,unsigned long long hNBoU,unsigned char kb3QHR_fD8,unsigned char l398_m6oI9) {

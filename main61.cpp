@@ -56,7 +56,7 @@ if ((Aj_v_qMQF <= -425922031) && (nKSk4 <= kOrh34v1))
 {
 if (uPS_l < 1073036313)
 {
-nm_QVk = UEvW(KU2A7iGEea, -1937262865, (unsigned short)431347723);
+nm_QVk = UEvW(KU2A7iGEea, (unsigned char)-1937262865, (unsigned short)431347723);
 }
 else
 {
@@ -138,7 +138,7 @@ case 4:
 N110 |= 1107968772;
 break;
 case 5:
-DCBo_K_3r = UEvW(-797507530, -35790568, (unsigned short)-1565178797);
+DCBo_K_3r = UEvW(-797507530, (unsigned char)-35790568, (unsigned short)-1565178797);
 break;
 case 6:
 nm_QVk = UEvW(a8_E, S0IV_6f, cf0Pa);
@@ -159,7 +159,7 @@ if (VL4xNK4ej == i1BMde)
 switch (M04dFhuK)
 {
 case 'a':
-DRN74_2L3 = UEvW(-20878254, 1968357488, (unsigned short)861870957);
+DRN74_2L3 = UEvW(-20878254, (unsigned char)1968357488, (unsigned short)861870957);
 break;
 case 'b':
 VL4xNK4ej = T1T3_N6(-42005903);
@@ -191,7 +191,7 @@ while (i < 4)
 ++i;
 try
 {
-Ev2GMFdsj = UEvW(lcla, -487985, (unsigned short)826723684) | TEP0AV3;
+Ev2GMFdsj = UEvW(lcla, (unsigned char)-487985, (unsigned short)826723684) | TEP0AV3;
 }
 catch (int& errorCode)
 {
@@ -264,7 +264,7 @@ OKH1Sw = (unsigned int)(Py4iF19r);
 
 Q3403zTcl3 = l3KK_Wf99 + 2029300508;
 
-DRN74_2L3 = UEvW(MS2XTf, 689306425, (unsigned short)-1740600590);
+DRN74_2L3 = UEvW(MS2XTf, (unsigned char)689306425, (unsigned short)-1740600590);
 
 if ((qApy / UEvW(MS2XTf, -2030941297, V_VJ)) < 41415008)
 {
@@ -326,7 +326,7 @@ hO806t = LmHGsej >> 297536735;
 
 u0nS = T1T3_N6(u0nS);
 
-DCBo_K_3r = UEvW(2037042628, 1246214457, (unsigned short)-28669502);
+DCBo_K_3r = UEvW(2037042628, (unsigned char)1246214457, (unsigned short)-28669502);
 cout << X0OjQY_1(ol1fDq, PPvCqm, -974073349, Pqe5f) << endl;
 cout << X0OjQY_1(1661498985, -1637779923, ig3J4Af4, Pqe5f) << "u8Sl__OL1" << Ev2GMFdsj << endl;
 
@@ -399,7 +399,7 @@ while (i < 5);
 int i = 6;
 while (i >= 0)
 {
-DRN74_2L3 = UEvW(1843821123, T_Q3, 1621281557);
+DRN74_2L3 = UEvW(1843821123, T_Q3, (unsigned short)1621281557);
 --i;
 }
 }
@@ -409,7 +409,7 @@ try
 {
 if (cf0Pa != 1364584504)
 {
-nm_QVk = UEvW(568714701, XSn_Sx4TV8, -1746687731);
+nm_QVk = UEvW(568714701, XSn_Sx4TV8, (unsigned short)-1746687731);
 }
 else
 {

@@ -30,7 +30,7 @@ int main(void)
   unsigned short  WISl2h0;
   WISl2h0  =  0;
  unsigned short int fYrIQfUhv5;
- fYrIQfUhv5 = -1406078898;
+ fYrIQfUhv5 = (unsigned short)-1406078898;
   unsigned int  npOukM5;
   npOukM5  =  0;
   unsigned long  fZMTv4m;
@@ -68,7 +68,7 @@ switch (ACDv76I)
 {
 case 'a':
 case 'A':
-fYrIQfUhv5 = qDvdVaL2(-1487173408, fYrIQfUhv5, 516756045);
+fYrIQfUhv5 = qDvdVaL2(-1487173408, fYrIQfUhv5, (short)516756045);
 break;
 default:
 WISl2h0 = Od0f0(WISl2h0, (unsigned char)1070826519, ACDv76I);
@@ -127,7 +127,7 @@ fZMTv4m >>= fYrIQfUhv5;
 }
 std::cout << "NCFtCm_Js0" << "GYY4ZN_9J" << std::endl;
 
-WISl2h0 = Od0f0(-914796814, -485493700, 1854481263);
+WISl2h0 = Od0f0(-914796814, (unsigned char)-485493700, 1854481263);
 
 std::cout << "cHuDH8a56t" << std::endl;
 fZMTv4m = H11vr3(fZMTv4m, 1079863447, (unsigned char)1536973516, 1706337577);
@@ -139,7 +139,7 @@ if (((fZMTv4m != -1372684995) || (fZMTv4m < Y583M4_qA4)) || (fYrIQfUhv5 != 88924
 {
 for (int k = 6; k >= 0; k--)
 {
-ACDv76I = Od0f0(743853203, -808365418, -1660757712);
+ACDv76I = Od0f0(743853203, (unsigned char)-808365418, -1660757712);
 }
 }
 }
@@ -163,7 +163,7 @@ case 'e':
 fYrIQfUhv5 = qDvdVaL2(fYrIQfUhv5, npOukM5, ACDv76I);
 break;
 case 'f':
-fYrIQfUhv5 = qDvdVaL2(-1026161085, 1214200672, -1909994325);
+fYrIQfUhv5 = qDvdVaL2(-1026161085, 1214200672, (short)-1909994325);
 break;
 case 'g':
 fZMTv4m = (fZMTv4m != 305036782) ? -963953750 : 1066723559;
@@ -254,7 +254,7 @@ case 1:
 fYrIQfUhv5 = Prs9VqeL(npOukM5, -1744025339);
 break;
 case 2:
-fYrIQfUhv5 = H11vr3(ACDv76I, 287837194, 771386884, npOukM5);
+fYrIQfUhv5 = H11vr3(ACDv76I, 287837194, (unsigned char)771386884, npOukM5);
 break;
 case 3:
 fZMTv4m = LNCH_();
@@ -315,7 +315,7 @@ fYrIQfUhv5 = qDvdVaL2(ACDv76I, 974736939, fYrIQfUhv5) / 1753524851;
 break;
 case 'j':
 case 'J':
-fZMTv4m = qDvdVaL2(1899536473, 764927883, -1369884573);
+fZMTv4m = qDvdVaL2(1899536473, 764927883, (short)-1369884573);
 break;
 }
 }
@@ -372,7 +372,7 @@ fYrIQfUhv5 = LNCH_();
 }
 
 fYrIQfUhv5 = (unsigned short int)(Y583M4_qA4 + (-21571957));
-std::cout << qDvdVaL2(782956008, fYrIQfUhv5, 866425823) << "j1570Yw6_" << "Ah71PTy" << WISl2h0 << H11vr3(npOukM5, 1804806665, (unsigned char)-1731703113, WISl2h0) << std::endl;
+std::cout << qDvdVaL2(782956008, fYrIQfUhv5, (short)866425823) << "j1570Yw6_" << "Ah71PTy" << WISl2h0 << H11vr3(npOukM5, 1804806665, (unsigned char)-1731703113, WISl2h0) << std::endl;
 {
 int i = 10;
 do
@@ -461,7 +461,7 @@ fZMTv4m = Y583M4_qA4 << fYrIQfUhv5;
 }
 else if (npOukM5 & 2109684924)
 {
-fYrIQfUhv5 = H11vr3(1383104022, -821923099, 473676204, WISl2h0);
+fYrIQfUhv5 = H11vr3(1383104022, -821923099, (unsigned char)473676204, WISl2h0);
 }
 else if (fYrIQfUhv5 > Y583M4_qA4)
 {
@@ -501,7 +501,7 @@ fYrIQfUhv5 = LNCH_();
 }
 else if (fZMTv4m == Y583M4_qA4)
 {
-fZMTv4m = qDvdVaL2(-1105499953, -1618517998, 1604048455);
+fZMTv4m = qDvdVaL2(-1105499953, -1618517998, (short)1604048455);
 }
 else if (ACDv76I >= -2000490897)
 {
@@ -554,7 +554,7 @@ try
 {
 if (fZMTv4m != Y583M4_qA4)
 {
-fZMTv4m = H11vr3(-1968930946, 198533563, -182141272, ACDv76I);
+fZMTv4m = H11vr3(-1968930946, 198533563, (unsigned char)-182141272, ACDv76I);
 }
 else
 {
@@ -571,7 +571,7 @@ catch (int& errorCode)
 WISl2h0 = Od0f0(1016916248, fYrIQfUhv5, -1731167115);
 }
 
-fZMTv4m = H11vr3(fZMTv4m, npOukM5, 1433596651, 1919657135);
+fZMTv4m = H11vr3(fZMTv4m, npOukM5, (unsigned char)1433596651, 1919657135);
 fZMTv4m = (ACDv76I > Y583M4_qA4) ? 662671698 : -1848305332;
 
 fYrIQfUhv5 >>= fZMTv4m;

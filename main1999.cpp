@@ -9,7 +9,7 @@
 
 int main(int argc, char** argv) {
 	unsigned short int	Gu6m2dK,	BR82,	so08Py0tR,	jHHi,	BPCiD2N10K,	dWldyW,	n6k0LjF5,	ymn1bNE1,	J7o8AA,	xo6sWapxn8,	m6OFSXkw,	g79k,	R8Dmbn_Un,	gUiAb,	UGTnwc946V,	nBxFCE,	oVXg64jbjl,	zVQ39,	ODtC9,	FN_EmaET,	pAZ559313,	z9RbYE2uV,	I7u9w2,	XA2MW,	p5Q6,	k8niPj_,	q15kR,	ApryZYoe,	Xo6F,	H347Bkt,	u3GhbJw,	r_29EzV8R,	LtTi8U88,	I8ev,	eRV_OXic6B,	YA1WAQ,	Gl09Q9_,	Q2G8Fb,	G_PdIAS,	GbQuNBkJ,	t4XG36dOqx,	z4n07ro_IT,	K59p_U,	Wyc3,	E7Gl_Wo1a,	gpq2F_f,	nQnL_n;
-	Gu6m2dK	=	886713742;
+	Gu6m2dK	=	(unsigned short)886713742;
 	BR82	=	(unsigned short)96582401;
 	so08Py0tR	=	-1753840759;
 	jHHi	=	-939991726;
@@ -19,7 +19,7 @@ int main(int argc, char** argv) {
 	ymn1bNE1	=	453978090;
 	J7o8AA	=	1598950634;
 	xo6sWapxn8	=	-202761250;
-	m6OFSXkw	=	-1755030179;
+	m6OFSXkw	=	(unsigned short)-1755030179;
 	g79k	=	(unsigned short)-445581008;
 	R8Dmbn_Un	=	-1571886762;
 	gUiAb	=	-1126875509;
@@ -29,7 +29,7 @@ int main(int argc, char** argv) {
 	zVQ39	=	925179835;
 	ODtC9	=	678077970;
 	FN_EmaET	=	1995751213;
-	pAZ559313	=	-1231294190;
+	pAZ559313	=	(unsigned short)-1231294190;
 	z9RbYE2uV	=	(unsigned short)96954127;
 	I7u9w2	=	-1215550105;
 	XA2MW	=	348727066;
@@ -39,7 +39,7 @@ int main(int argc, char** argv) {
 	ApryZYoe	=	1578426263;
 	Xo6F	=	-2071875697;
 	H347Bkt	=	-1723012675;
-	u3GhbJw	=	-1813015324;
+	u3GhbJw	=	(unsigned short)-1813015324;
 	r_29EzV8R	=	(unsigned short)-1784792111;
 	LtTi8U88	=	2003251257;
 	I8ev	=	-169491095;
@@ -49,7 +49,7 @@ int main(int argc, char** argv) {
 	Q2G8Fb	=	412218288;
 	G_PdIAS	=	326456231;
 	GbQuNBkJ	=	1856523339;
-	t4XG36dOqx	=	963632697;
+	t4XG36dOqx	=	(unsigned short)963632697;
 	z4n07ro_IT	=	(unsigned short)705968803;
 	K59p_U	=	1420734231;
 	Wyc3	=	-1599626142;
@@ -124,7 +124,7 @@ I8ev = n6k0LjF5 - 255324689;
 break;
 case 'g':
 case 'G':
-UGTnwc946V = (K59p_U != ODtC9) ? -1334215255 : (unsigned short)1794824587;
+UGTnwc946V = (K59p_U != ODtC9) ? (unsigned short)-1334215255 : (unsigned short)1794824587;
 break;
 case 'h':
 case 'H':
@@ -151,7 +151,7 @@ for (int i = 0; i < 8; ++i)
 {
 if (gUiAb <= 1244194587)
 {
-z4n07ro_IT = (xo6sWapxn8 & E7Gl_Wo1a) ? G_PdIAS : -1073801997;
+z4n07ro_IT = (xo6sWapxn8 & E7Gl_Wo1a) ? G_PdIAS : (unsigned short)-1073801997;
 }
 else
 {
@@ -565,7 +565,7 @@ int k = 0;
 do
 {
 k++;
-ODtC9 = (n6k0LjF5 < 631354343) ? m6OFSXkw : 1761531264;
+ODtC9 = (n6k0LjF5 < 631354343) ? m6OFSXkw : (unsigned short)1761531264;
 }
 while (k < 5);
 }

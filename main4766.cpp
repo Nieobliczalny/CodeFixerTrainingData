@@ -18,7 +18,7 @@ int main(int argc, char** argv) {
   unsigned long long  Q59Yx353;
   Q59Yx353  =  323247435;
  short ll5Z88_;
- ll5Z88_ = -936339774;
+ ll5Z88_ = (short)-936339774;
   short int  U26re45;
   U26re45  =  0;
   long  MMQs67;
@@ -28,7 +28,7 @@ int main(int argc, char** argv) {
  long double JyKAw;
  JyKAw = 910960415;
   char  v06u;
-  v06u  =  1701849196;
+  v06u  =  (char)1701849196;
  unsigned short pE30cU;
  pE30cU = 1507160186;
 	char	QLK_gi7X;
@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
  long C2Q7zdv;
  C2Q7zdv = -1675226442;
     unsigned short int    A2yW;
-    A2yW    =    195470018;
+    A2yW    =    (unsigned short)195470018;
     unsigned long    UCxwyY;
     UCxwyY    =    1372985347;
     double    s5K26fh22;
@@ -58,7 +58,7 @@ int main(int argc, char** argv) {
     long    UO1D6;
     UO1D6    =    0;
  char UC8Ew6;
- UC8Ew6 = 1096174762;
+ UC8Ew6 = (char)1096174762;
  char DYhWx;
  DYhWx = (char)-1069078908;
   unsigned short  uWQA7;
@@ -80,7 +80,7 @@ int main(int argc, char** argv) {
 	double	j7rq;
 	j7rq	=	-151746576;
  unsigned short int k6s56hMD;
- k6s56hMD = -170119282;
+ k6s56hMD = (unsigned short)-170119282;
  unsigned long long nSLXMz;
  nSLXMz = -870628721;
   short int  v36z616U;
@@ -94,7 +94,7 @@ int main(int argc, char** argv) {
     unsigned int    B3kWGcr;
     B3kWGcr    =    -773147558;
   short  Dh5XZ1CU68;
-  Dh5XZ1CU68  =  -701310843;
+  Dh5XZ1CU68  =  (short)-701310843;
   char  Tm098M;
   Tm098M  =  (char)-1529752140;
     unsigned long    eVOpFfL;
@@ -104,7 +104,7 @@ int main(int argc, char** argv) {
   char  s0aCmW;
   s0aCmW  =  -86835178;
   unsigned char  TzgKCt_;
-  TzgKCt_  =  -786943660;
+  TzgKCt_  =  (unsigned char)-786943660;
 	unsigned short int	be44q1C0P;
 	be44q1C0P	=	(unsigned short)365223102;
   unsigned int  x37i0xK;
@@ -129,7 +129,7 @@ case 'd':
 b85K1Q = (int)floor(JyKAw);
 break;
 case 'e':
-MMQs67 = ch3_NT6(654287816, -1504802879, ZCoz56_ns1);
+MMQs67 = ch3_NT6(654287816, (short)-1504802879, ZCoz56_ns1);
 break;
 case 'f':
 v7kB4Z = ev96EtiyH9(v7kB4Z, (unsigned short)1179549386, 1257697615);
@@ -144,7 +144,7 @@ case 'i':
 s5K26fh22 = UO1D6 & 1482371205;
 break;
 case 'j':
-U26re45 = ch3_NT6(1110530116, -320418296, 603608726);
+U26re45 = ch3_NT6(1110530116, (short)-320418296, 603608726);
 break;
 default:
 v7kB4Z = (int)floor(Ij4cPgc);
@@ -206,7 +206,7 @@ case 5:
 v36z616U |= 1152317909;
 break;
 case 6:
-v36z616U = ev96EtiyH9(v36z616U, 277772665, k6s56hMD);
+v36z616U = ev96EtiyH9(v36z616U, (unsigned short)277772665, k6s56hMD);
 break;
 case 7:
 v7kB4Z = (int)floor(b85K1Q);
@@ -225,7 +225,7 @@ if (HZbxG < -1982773282)
 {
 if (((bCVOQd & -756930637) && (X7V86L4_E >= -60862088)) || (bLF7gQX != 972914660))
 {
-UO1D6 = ch3_NT6(1368974870, 428453907, x37i0xK);
+UO1D6 = ch3_NT6(1368974870, (short)428453907, x37i0xK);
 }
 }
 else if (((A2yW) || (QLK_gi7X > 1124903713)) || ((be44q1C0P != A2yW) || (QLK_gi7X > Fm7Nx3B)))
@@ -286,7 +286,7 @@ pE30cU = U26re45 % 1832647268;
 }
 }
 
-std::cout << ev96EtiyH9(419618688, pE30cU, 1979339628) << eVOpFfL << ch3_NT6(UC8Ew6, pE30cU, a7_9EX6__) << ev96EtiyH9((short)-2030464316, 1499639044, a7_9EX6__) << std::endl;
+std::cout << ev96EtiyH9((short)419618688, pE30cU, 1979339628) << eVOpFfL << ch3_NT6(UC8Ew6, pE30cU, a7_9EX6__) << ev96EtiyH9((short)-2030464316, 1499639044, a7_9EX6__) << std::endl;
 {
 int i = 0;
 while (i < 1)
@@ -325,7 +325,7 @@ hpJ_b5 = ev96EtiyH9(Fm7Nx3B, 2046268058, E6Owd) & pE30cU;
 v3l2wK1t7 = ch3_NT6(hpJ_b5, b85K1Q, 2075976522);
 if (((E87sI_ & -217056916) && (B3kWGcr < eVOpFfL)) && (UCxwyY <= HZbxG))
 {
-std::cout << TzgKCt_ << "q2V7gQ5" << ev96EtiyH9(hpJ_b5, 539708464, zZouExoapW) << s0aCmW << ev96EtiyH9((short)1224258434, b85K1Q, 1586473044) << std::endl;
+std::cout << TzgKCt_ << "q2V7gQ5" << ev96EtiyH9(hpJ_b5, (unsigned short)539708464, zZouExoapW) << s0aCmW << ev96EtiyH9((short)1224258434, b85K1Q, 1586473044) << std::endl;
 }
 else
 {
@@ -342,7 +342,7 @@ do
 {
 if (((U26re45 & v36z616U) && (uWQA7 & 1273909273)) || (Q59Yx353 > v06u))
 {
-UO1D6 = ch3_NT6(Zp48k9ZQv9, -154287127, 1215878511);
+UO1D6 = ch3_NT6(Zp48k9ZQv9, (short)-154287127, 1215878511);
 }
 ++i;
 }

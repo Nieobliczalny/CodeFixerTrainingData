@@ -21,7 +21,7 @@ unsigned short int    pY3zHE(unsigned short int    IuB_rf,unsigned short    bMr4
 int main(int argc, char** argv) {
     long long    Ci7nbe    =    1211135667;
  unsigned long tq_c3q = -2097657864;
-	unsigned char	SRj617ryP	=	-590028543;
+	unsigned char	SRj617ryP	=	(unsigned char)-590028543;
  long long X97Bo2fT = -1120888172;
  unsigned short ZiK9k74tJ = (unsigned short)-1668488814;
 	unsigned long long	wdwMyT1d_	=	-1301259783;
@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
 	float	LndTk6w	=	-139191817;
   unsigned char  wj4j  =  -497667979;
  int EZ9w5 = 915422958;
-  short int  cHTLae_HG6  =  -1295562049;
+  short int  cHTLae_HG6  =  (short)-1295562049;
   unsigned int  gUq8UR1g  =  2095196515;
   long  ErNYuC  =  -824249198;
 	unsigned long	hk5e49rf	=	0;
@@ -44,7 +44,7 @@ int main(int argc, char** argv) {
  unsigned int y00961s = -239211337;
 	double	rOe1Zr7vOI	=	-1660028469;
     unsigned long long    nERv_069    =    0;
-    unsigned short    YfXmm5dj    =    44444567;
+    unsigned short    YfXmm5dj    =    (unsigned short)44444567;
 	double	PaY8lVkp1S	=	339932945;
  double yS2JUzo2ll = -1356434216;
     unsigned short    L8IH9    =    (unsigned short)1108907275;
@@ -54,7 +54,7 @@ int main(int argc, char** argv) {
 	unsigned short int	zvec8	=	1069823680;
   float  ycM8x5C9FF  =  1055777927;
   unsigned short  tL8oh__  =  1983583339;
-    short int    Uo3qRV8z    =    455117452;
+    short int    Uo3qRV8z    =    (short)455117452;
   unsigned short int  HN4C9S6  =  -688988217;
  unsigned long c_H34tJ = 2057096665;
     unsigned short int    wLqvu4d1    =    (unsigned short)1643252720;
@@ -69,7 +69,7 @@ switch (cHTLae_HG6)
 {
 case 'a':
 case 'A':
-p5wU = G3uv10V(208958497, 755518662);
+p5wU = G3uv10V(208958497, (char)755518662);
 break;
 case 'b':
 case 'B':
@@ -129,7 +129,7 @@ for (int i = 0; i < 2; ++i)
 {
 for (int j = 4; j >= 0; j--)
 {
-cout << pY3zHE(-576804697, zvec8, 1777402792, HN4C9S6) << "e7l3" << "emm8" << endl;
+cout << pY3zHE((unsigned short)-576804697, zvec8, 1777402792, HN4C9S6) << "e7l3" << "emm8" << endl;
 }
 }
 
@@ -140,7 +140,7 @@ ycM8x5C9FF = (int)ceil(LndTk6w);
 Y2A6z = (int)abs(Ci7nbe);
 for (int i = 0; i < 2; ++i)
 {
-cout << pY3zHE(s730d, -1093850236, SRj617ryP, HN4C9S6) << G3uv10V(-1166499769, (char)-15874599) << L8IH9 << endl;
+cout << pY3zHE(s730d, (unsigned short)-1093850236, SRj617ryP, HN4C9S6) << G3uv10V(-1166499769, (char)-15874599) << L8IH9 << endl;
 }
 if (X97Bo2fT < 32502547)
 {
@@ -210,7 +210,7 @@ else
 {
 if (y00961s)
 {
-hk5e49rf = G3uv10V(-2121283425, -1203165729);
+hk5e49rf = G3uv10V(-2121283425, (char)-1203165729);
 }
 else if (cHTLae_HG6 < 350846330)
 {
@@ -247,7 +247,7 @@ zvec8 = pY3zHE(zvec8, -206609089, 1789032851, p5wU);
 
 LpfmX = (long long)(axR0x + (tVj580uhX));
 
-Ci7nbe = PX66_00g / G3uv10V(606741541, -275057474);
+Ci7nbe = PX66_00g / G3uv10V(606741541, (char)-275057474);
 
 for (int i = 0; i < 1; i++)
 {
@@ -257,7 +257,7 @@ cout << "fL7iwaN" << "Ru2FR" << G3uv10V(99861310, tL8oh__) << O9a1TfPP(-20791372
 ErNYuC = (long)(tVj580uhX);
 htvZ9ImB = (int)abs(LndTk6w);
 
-cout << v_mpK0NqN << ycM8x5C9FF << pY3zHE(zvec8, tL8oh__, s730d, 90184595) << endl;
+cout << v_mpK0NqN << ycM8x5C9FF << pY3zHE(zvec8, tL8oh__, s730d, (short)90184595) << endl;
 
 rOe1Zr7vOI = (int)abs(LndTk6w);
 
@@ -297,7 +297,7 @@ int i = 0;
 while (i < 1)
 {
 i++;
-cout << G3uv10V(1733206727, -10005305) << endl;
+cout << G3uv10V(1733206727, (char)-10005305) << endl;
 }
 }
 
@@ -362,7 +362,7 @@ switch (wLqvu4d1)
 {
 case 'a':
 case 'A':
-hk5e49rf = G3uv10V(1304160690, -440232655);
+hk5e49rf = G3uv10V(1304160690, (char)-440232655);
 break;
 case 'b':
 case 'B':
@@ -411,7 +411,7 @@ case 'a':
 Y2A6z = (int)ceil(P41m70aj7);
 break;
 case 'b':
-ycM8x5C9FF = pY3zHE(1591187009, ycM8x5C9FF, 1449242913, y00961s);
+ycM8x5C9FF = pY3zHE((unsigned short)1591187009, ycM8x5C9FF, 1449242913, y00961s);
 break;
 case 'c':
 wdwMyT1d_ = pY3zHE((unsigned short)261551148, 516964649, Uo3qRV8z, cHTLae_HG6);
@@ -483,7 +483,7 @@ case 'd':
 p4N0 = G3uv10V(ErNYuC, L8IH9);
 break;
 case 'e':
-p4N0 = G3uv10V(1547266254, -2108924638);
+p4N0 = G3uv10V(1547266254, (char)-2108924638);
 break;
 case 'f':
 yS2JUzo2ll = (int)ceil(PaY8lVkp1S);
@@ -508,6 +508,6 @@ unsigned long long O9a1TfPP(long lA1y4Ndn1x) {
 }
 
 unsigned short int    pY3zHE(unsigned short int    IuB_rf,unsigned short    bMr4bpbAOv,long long    P6Ni,short    L1YQnBy)    {
-    return    1991499034;
+    return    (unsigned short)1991499034;
 }
 

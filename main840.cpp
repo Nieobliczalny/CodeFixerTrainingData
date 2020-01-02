@@ -19,7 +19,7 @@ using std::floor;
 
 unsigned short int Nw4fa()
 {
- return 1565735478;
+ return (unsigned short)1565735478;
 }
 
 char  oVHQh4l9q(unsigned int  t4M2)  {

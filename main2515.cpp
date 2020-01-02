@@ -11,7 +11,7 @@ using namespace std;
 
 int main(void)
 {
-  char  ME30ltW  =  719950324;
+  char  ME30ltW  =  (char)719950324;
  float qz7R7uy = -976288663;
     unsigned char    rTm97    =    (unsigned char)-1763280103;
     unsigned short int    j7jw7GL80    =    1808216155;
@@ -30,7 +30,7 @@ int main(void)
  long double ln_l5Q = -1622521161;
  unsigned long long xq0n0RSvi8 = -1263444808;
   long  lv25_Lj_  =  0;
-	unsigned short int	D2AY	=	1227792112;
+	unsigned short int	D2AY	=	(unsigned short)1227792112;
   unsigned int  r2p10M15  =  -2089633486;
   unsigned long long  PAkzFBdM  =  0;
  long long ajYqXFt7D = 1915249045;
@@ -40,7 +40,7 @@ int main(void)
     long    v1_Xq    =    2055852683;
     int    tijjq    =    -68557393;
   long  FOrE4  =  -442502181;
-	unsigned char	XPUKKi	=	745167625;
+	unsigned char	XPUKKi	=	(unsigned char)745167625;
 
 {
 int i = 0;
@@ -228,7 +228,7 @@ RPD_ = FOrE4 * 1942624244;
 break;
 case 'f':
 case 'F':
-r5D5Q = (vJoIoQi1u) ? -131223573 : (unsigned short)1033396678;
+r5D5Q = (vJoIoQi1u) ? (unsigned short)-131223573 : (unsigned short)1033396678;
 break;
 case 'g':
 case 'G':

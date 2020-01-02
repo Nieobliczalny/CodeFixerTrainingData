@@ -16,7 +16,7 @@ int main() {
   unsigned short  WD38ikW3N;
   WD38ikW3N  =  0;
     short    SohUL1vV;
-    SohUL1vV    =    1555312345;
+    SohUL1vV    =    (short)1555312345;
     short int    FYHqH3spy;
     FYHqH3spy    =    0;
   long long  IVLi6;
@@ -26,7 +26,7 @@ int main() {
 	unsigned int	SKhyW8;
 	SKhyW8	=	0;
     unsigned short    q53l7kkj;
-    q53l7kkj    =    728141147;
+    q53l7kkj    =    (unsigned short)728141147;
     unsigned long    YOYD50b;
     YOYD50b    =    1249283249;
   short  AI1EL4;

@@ -16,7 +16,7 @@ int main()
 {
  long long roxDeg9 = 1787765314;
  long aVGSlwC = 1016581147;
-    short    n6_H    =    -1767089311;
+    short    n6_H    =    (short)-1767089311;
  char RXO_9 = (char)602479872;
  unsigned short int ryCJ_gDM8U = -1306471671;
  unsigned char f00yBja = -58172874;
@@ -27,7 +27,7 @@ int main()
   unsigned long long  FH__f79  =  102732756;
  int RQ9M1xzs = 174220826;
   float  lG052gI3W0  =  302987125;
-    unsigned short    Q86W_    =    -75194991;
+    unsigned short    Q86W_    =    (unsigned short)-75194991;
  short c89_HLc = (short)1895580064;
     char    XfIDe    =    614984079;
   unsigned short int  o2amc7OD3g  =  11047728;
@@ -38,7 +38,7 @@ int main()
   long long  DN2xJXsv74  =  1564474695;
 	unsigned short	m696	=	-1582038200;
     float    yy2ert    =    1710557103;
- char vGvJ8B0jsb = 950804814;
+ char vGvJ8B0jsb = (char)950804814;
  short S409FjB = (short)-1843895742;
   short  bPVW  =  1899099968;
   char  qTZ4rw6Z  =  1492782981;
@@ -48,7 +48,7 @@ int main()
     unsigned long    WIugNnO78    =    0;
 	short	GeZBm324	=	-383526698;
 	long double	Vmi2sx6k	=	1550071838;
-  unsigned short int  tCt0XnL8  =  649057107;
+  unsigned short int  tCt0XnL8  =  (unsigned short)649057107;
 
 try
 {
@@ -89,7 +89,7 @@ catch (int& errorCode)
 {
 bPVW = CH2Fp_ ^ 156144100;
 }
-RQ9M1xzs = P24y_vQ2(-1286634200, -1909336665);
+RQ9M1xzs = P24y_vQ2((unsigned short)-1286634200, -1909336665);
 
 {
 int i = 2;
@@ -206,7 +206,7 @@ yy2ert = (int)ceil(Vmi2sx6k);
 }
 else
 {
-w0B5IicZt4 = P24y_vQ2(1677619601, 1492788763);
+w0B5IicZt4 = P24y_vQ2((unsigned short)1677619601, 1492788763);
 }
 }
 while (j < 2);
@@ -221,7 +221,7 @@ int k = 9;
 while (k >= 0)
 {
 --k;
-vGvJ8B0jsb = P24y_vQ2(1864416091, -2022181703);
+vGvJ8B0jsb = P24y_vQ2((unsigned short)1864416091, -2022181703);
 }
 }
 }
@@ -243,7 +243,7 @@ case 1:
 roxDeg9 = (int)abs(n6_H);
 break;
 case 2:
-GeZBm324 = P24y_vQ2(-2104041102, 1234558435);
+GeZBm324 = P24y_vQ2((unsigned short)-2104041102, 1234558435);
 break;
 }
 try
@@ -259,7 +259,7 @@ int i = 5;
 while (i >= 0)
 {
 --i;
-qTZ4rw6Z = P24y_vQ2(1831835248, -635920373);
+qTZ4rw6Z = P24y_vQ2((unsigned short)1831835248, -635920373);
 }
 }
 {
@@ -308,7 +308,7 @@ XfIDe = P24y_vQ2(t92_E9, XfIDe);
 break;
 case 'g':
 case 'G':
-vGvJ8B0jsb = P24y_vQ2(-1947440294, 1146071501);
+vGvJ8B0jsb = P24y_vQ2((unsigned short)-1947440294, 1146071501);
 break;
 case 'h':
 case 'H':
@@ -332,6 +332,6 @@ unsigned short int	dOgBVJ27()
 
 unsigned short  P24y_vQ2(unsigned short  qeafnA,unsigned long  Kr7GF)
 {
-  return  1686795428;
+  return  (unsigned short)1686795428;
 }
 

@@ -88,7 +88,7 @@ Y6osoa &= B7cZ;
 }
 else if (HV609dX >= -276103753)
 {
-ZOMm0e_ = rS0hR6(506181972, Y6osoa);
+ZOMm0e_ = rS0hR6((char)506181972, Y6osoa);
 }
 else if ((B7cZ == -2014798041) && ((TCFU2_ == W6HjKCn5f7) && (GLHTxCbm & W6HjKCn5f7)))
 {
@@ -150,7 +150,7 @@ return 0;
 }
 
 char    F3N9RLX()    {
-    return    -1582485578;
+    return    (char)-1582485578;
 }
 
 short rS0hR6(char agnqSst,unsigned short int qvwAUT15) {

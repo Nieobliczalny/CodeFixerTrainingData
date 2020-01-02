@@ -10,7 +10,7 @@
 
 short int kVa1Iwm1T(long long u0WrA58)
 {
- return -913952456;
+ return (short)-913952456;
 }
 
 long long    Rqvg6O(short int    N72iVO,short int    Y94sf_2M,unsigned long long    EdzV,unsigned char    VHb5q_)    {
@@ -121,7 +121,7 @@ ivrMy7fcB = nNd31DCm >> LOwFe1I;
 }
 else
 {
-std::cout << u47aRiS_Z(tuRmN__1SP, ZpyG7h, 1610994350, dBXy) << "b6Sb" << std::endl;
+std::cout << u47aRiS_Z(tuRmN__1SP, ZpyG7h, (unsigned short)1610994350, dBXy) << "b6Sb" << std::endl;
 }
 }
 i4zp8 = Ml32 - DHMrQqS5;
@@ -133,7 +133,7 @@ switch (jEM1n9)
 {
 case 'a':
 case 'A':
-a_8lWNz = u47aRiS_Z(a_8lWNz, -980283579, K325qc, (unsigned char)-178600090);
+a_8lWNz = u47aRiS_Z(a_8lWNz, (unsigned short)-980283579, K325qc, (unsigned char)-178600090);
 break;
 case 'b':
 case 'B':
@@ -145,7 +145,7 @@ i--;
 while (i >= 0);
 }
 
-std::cout << "HSsZkfBr" << Rqvg6O(1336933339, nNIJn62GIH, -1436717606, (unsigned char)1619848238) << std::endl;
+std::cout << "HSsZkfBr" << Rqvg6O((short)1336933339, nNIJn62GIH, -1436717606, (unsigned char)1619848238) << std::endl;
 
 o_mP2F_7 >>= xgZCIIo;
 
@@ -189,7 +189,7 @@ switch (BfwUiY)
 {
 case 'a':
 case 'A':
-nNd31DCm = Rqvg6O(-1980210296, (short)-187546011, -1489138068, tuRmN__1SP) & 1003102052;
+nNd31DCm = Rqvg6O((short)-1980210296, (short)-187546011, -1489138068, tuRmN__1SP) & 1003102052;
 break;
 case 'b':
 case 'B':
@@ -213,7 +213,7 @@ o9wI7OJy = xNr_A(V9_q, UysjW_U);
 break;
 case 'g':
 case 'G':
-CWD4 = u47aRiS_Z(CWD4, tuRmN__1SP, 1009852980, Ml32);
+CWD4 = u47aRiS_Z(CWD4, tuRmN__1SP, (unsigned short)1009852980, Ml32);
 break;
 case 'h':
 case 'H':
@@ -268,7 +268,7 @@ switch (CWD4)
 {
 case 'a':
 case 'A':
-G_4x7r0 = Rqvg6O(G_4x7r0, bq_ODUUj7, -13437647, -469807192);
+G_4x7r0 = Rqvg6O(G_4x7r0, bq_ODUUj7, -13437647, (unsigned char)-469807192);
 break;
 default:
 ySJZ4L1p = N46ao >> Kn_On3A;

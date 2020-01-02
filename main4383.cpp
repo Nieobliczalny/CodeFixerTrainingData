@@ -21,7 +21,7 @@ long	qqw90h_2p_(int	H0_A,long	J3h_N6EN,short	AbJ8l439,char	ETCvB);
 
 int main(void) {
     unsigned int    bT4_qt6CO    =    1315577166;
-    char    s996N7i9X    =    -175021475;
+    char    s996N7i9X    =    (char)-175021475;
  long HQF3RB_z = -1129811281;
     unsigned short int    CbIc64A    =    (unsigned short)-844567358;
 	char	XYTMh	=	-1115864105;
@@ -31,7 +31,7 @@ int main(void) {
   long double  nfGaP3qs  =  682108017;
 	double	a6q63Q	=	-1538648483;
 	int	e694	=	0;
-    short int    TC1KzE_    =    -874496755;
+    short int    TC1KzE_    =    (short)-874496755;
  unsigned long gC88 = 1740904461;
     unsigned long    GQExTo4    =    128675365;
 	unsigned int	p9ksBOa_	=	1547444873;
@@ -43,7 +43,7 @@ int main(void) {
   short int  bjdgKg_W  =  (short)1900516670;
   long double  VJnQr4h  =  -1791561366;
  unsigned long Ym4S3g = 1885916162;
-	short	csFB	=	-1114315539;
+	short	csFB	=	(short)-1114315539;
  long long nmiS = 1405356981;
   long  v4N45Z4u25  =  -1104317325;
  short y_KZ = -1423912840;
@@ -55,7 +55,7 @@ int main(void) {
     double    uu40X    =    1950545918;
 	float	UHZp	=	-540975542;
  unsigned long iZ7i53_F2 = 2109633561;
- unsigned char f7aLl_ = -1019752209;
+ unsigned char f7aLl_ = (unsigned char)-1019752209;
   int  o5H_I94  =  0;
 	long long	M3VPNViF	=	-1029682250;
     float    k8IXOjks5k    =    925301454;
@@ -65,7 +65,7 @@ int main(void) {
  short int U3W22aT_8f = 1916055594;
  float C56XS5 = -462439281;
 	unsigned long	CMBbD6A_0K	=	-296006635;
-    unsigned short    M_pc_1I1    =    -1905655855;
+    unsigned short    M_pc_1I1    =    (unsigned short)-1905655855;
     unsigned char    wXOgwjh7pl    =    -1086886572;
   short  M333W7x  =  1137657484;
   unsigned char  tX2_V1p  =  -1273805657;
@@ -75,7 +75,7 @@ int main(void) {
   short int  tWpsG1m1W1  =  922989714;
 
 TC1KzE_ = 1888023186 / cT4W4Y();
-std::cout << F_XX << "mlY3s47Cs" << qqw90h_2p_(1195482541, -894693190, nmiS, 1276685647) << std::endl;
+std::cout << F_XX << "mlY3s47Cs" << qqw90h_2p_(1195482541, -894693190, nmiS, (char)1276685647) << std::endl;
 
 try
 {
@@ -203,7 +203,7 @@ long  cT4W4Y()  {
 
 unsigned short  SrlFWxg(unsigned long long  lYz_1Vg6k,int  Ga1DvvP_,unsigned long long  f_6u2Rr)
 {
-  return  365581497;
+  return  (unsigned short)365581497;
 }
 
 short nXYx(unsigned long tW2qb3l3P,long gLgF5iHh,unsigned short int wET2hBod) {

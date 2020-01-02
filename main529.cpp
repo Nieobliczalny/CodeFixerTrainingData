@@ -20,7 +20,7 @@ int main() {
   unsigned int  IG7w  =  -819580779;
 	long	c8xl4X9c8	=	-2125589191;
     unsigned long    B9sr219O    =    0;
-    unsigned char    HC9x4z2    =    -1322981021;
+    unsigned char    HC9x4z2    =    (unsigned char)-1322981021;
  unsigned char cl45 = (unsigned char)-1516730029;
   unsigned short int  nV991j  =  -1936403344;
  unsigned short int D_snAOw = -140562422;
@@ -62,7 +62,7 @@ cl45 = c8xl4X9c8 | 1393639665;
 }
 else if (HC9x4z2 > -1994470851)
 {
-std::cout << JJ0L1TOu8f(1019591205, -1102531522, (unsigned short)-1064699332, 1488842209, -1855121758) << c8xl4X9c8 << oA_51uGIS() << lbdk66KSK4() << HC9x4z2 << std::endl;
+std::cout << JJ0L1TOu8f(1019591205, (short)-1102531522, (unsigned short)-1064699332, 1488842209, -1855121758) << c8xl4X9c8 << oA_51uGIS() << lbdk66KSK4() << HC9x4z2 << std::endl;
 }
 else if (((P3L42) && (nV991j >= 366916442)) && (nV991j & HC9x4z2))
 {
@@ -82,7 +82,7 @@ int k = 7;
 do
 {
 k--;
-B9sr219O = q0Ag58Z(P3L42, -108473546, HC9x4z2, cl45, nV991j);
+B9sr219O = q0Ag58Z(P3L42, (short)-108473546, HC9x4z2, cl45, nV991j);
 }
 while (k >= 0);
 }
@@ -112,7 +112,7 @@ if (HC9x4z2)
 switch (nV991j)
 {
 case 'a':
-B9sr219O = q0Ag58Z(500915821, cl45, 321212185, (char)-325247456, -1938630295);
+B9sr219O = q0Ag58Z((short)500915821, cl45, 321212185, (char)-325247456, -1938630295);
 break;
 case 'b':
 P3L42 = lbdk66KSK4() ^ IG7w;
@@ -173,7 +173,7 @@ else
 int k = 0;
 do
 {
-B9sr219O = q0Ag58Z(-1431871909, B9sr219O, 341353087, D_snAOw, HC9x4z2);
+B9sr219O = q0Ag58Z((short)-1431871909, B9sr219O, 341353087, D_snAOw, HC9x4z2);
 k++;
 }
 while (k < 3);
@@ -260,7 +260,7 @@ HC9x4z2 = D_snAOw >> cl45;
 }
 }
 }
-std::cout << q0Ag58Z(-1326162345, (short)-108578835, 2051659730, nV991j, c8xl4X9c8) << D_snAOw << std::endl;
+std::cout << q0Ag58Z((short)-1326162345, (short)-108578835, 2051659730, nV991j, c8xl4X9c8) << D_snAOw << std::endl;
 D_snAOw = JJ0L1TOu8f(D_snAOw, HC9x4z2, -1354162600, c8xl4X9c8, P3L42);
 
 {
@@ -277,7 +277,7 @@ int k = 0;
 while (k < 1)
 {
 ++k;
-cl45 = JJ0L1TOu8f(37588029, -639013538, c8xl4X9c8, -1256756648, 489283394);
+cl45 = JJ0L1TOu8f(37588029, (short)-639013538, c8xl4X9c8, -1256756648, 489283394);
 }
 }
 ++j;
@@ -295,7 +295,7 @@ unsigned long  lbdk66KSK4()
 
 char  oA_51uGIS()
 {
-  return  -71442050;
+  return  (char)-71442050;
 }
 
 unsigned short  q0Ag58Z(short int  HuIbWAFu6M,short  nVO9cq7,unsigned long long  kV9CA4G,char  quMpOCa9T7,unsigned char  Nl7zSaZJ)  {

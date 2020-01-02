@@ -128,7 +128,7 @@ if (iekUC_s > mHEdwAw0)
 {
 try
 {
-AoE8r70q = K8pCk60p53(-240848874, -1330297791, -1098414787, -532928096, (unsigned short)1549271546);
+AoE8r70q = K8pCk60p53(-240848874, -1330297791, -1098414787, (short)-532928096, (unsigned short)1549271546);
 }
 catch (int& errorCode)
 {
@@ -209,7 +209,7 @@ S1J0B6N = (long long)(m5ZdGauL2);
 int i = 0;
 while (i < 7)
 {
-std::cout << "qGbQ1g_" << C58IMjl << dD7vtd(-1916737009, Jl6tBSx8aX, V1IAMf61, 489216421, 168507870) << std::endl;
+std::cout << "qGbQ1g_" << C58IMjl << dD7vtd((unsigned short)-1916737009, Jl6tBSx8aX, V1IAMf61, 489216421, 168507870) << std::endl;
 i++;
 }
 }
@@ -219,7 +219,7 @@ case 0:
 S8z_6P5z0l = (int)abs(SIgq);
 break;
 case 1:
-TsD5lD9 = WY5eokSC4B(220348144, TsD5lD9, 471084576, oE9aT, (unsigned short)-600590217);
+TsD5lD9 = WY5eokSC4B((char)220348144, TsD5lD9, 471084576, oE9aT, (unsigned short)-600590217);
 break;
 case 2:
 s2rxuN += tU5d49MYz;
@@ -235,7 +235,7 @@ sM2M2q0_v8 = WY5eokSC4B(rIA7Vg, 251766077, P__k5, 752121447, Jl6tBSx8aX);
 break;
 }
 
-TsD5lD9 = WY5eokSC4B(OV37L, HMdG4gLw3, TsD5lD9, V1IAMf61, -802503819);
+TsD5lD9 = WY5eokSC4B(OV37L, HMdG4gLw3, TsD5lD9, V1IAMf61, (unsigned short)-802503819);
 
 UU4kx = (long long)(p7167a);
 if (P__k5)
@@ -352,7 +352,7 @@ if ((mgBL1eOn >= nY5pnAMpSH) && ((fmh73O > Jl6tBSx8aX) && (hp2Pjcq2 <= 114391252
 {
 V1IAMf61 = (long long)(mHEdwAw0);
 }
-mgBL1eOn = rdKYz(1092410923, -532773161, -1027765512, ssD4h);
+mgBL1eOn = rdKYz(1092410923, -532773161, (char)-1027765512, ssD4h);
 
 {
 int i = 3;
@@ -366,7 +366,7 @@ while (j < 3)
 j++;
 if ((x7ei05wb != -762264181) && (G_Wbrwmc8x == -1761682147))
 {
-m5ZdGauL2 = rdKYz(m5ZdGauL2, 205121876, G_Wbrwmc8x, 2066309022);
+m5ZdGauL2 = rdKYz(m5ZdGauL2, 205121876, G_Wbrwmc8x, (char)2066309022);
 }
 else
 {
@@ -386,7 +386,7 @@ switch (gj2na_N4P9)
 {
 case 'a':
 case 'A':
-B_4C4rCX66 = K8pCk60p53(B_4C4rCX66, T7a3D0S5F, S8z_6P5z0l, -1466967170, UU4kx);
+B_4C4rCX66 = K8pCk60p53(B_4C4rCX66, T7a3D0S5F, S8z_6P5z0l, (short)-1466967170, UU4kx);
 break;
 case 'b':
 case 'B':
@@ -398,7 +398,7 @@ SIgq = dD7vtd(SIgq, (short)-1744515103, 1342153759, -854063087, gj2na_N4P9);
 break;
 case 'd':
 case 'D':
-l0APDS__UI = K8pCk60p53(l0APDS__UI, 1523989523, -348073097, 1150683563, mHF7W);
+l0APDS__UI = K8pCk60p53(l0APDS__UI, 1523989523, -348073097, (short)1150683563, mHF7W);
 break;
 case 'e':
 case 'E':
@@ -417,7 +417,7 @@ case 'H':
 BzoIa23h4 = (int)abs(Q064qZ7);
 break;
 default:
-ueg4lDp1li = rdKYz(ueg4lDp1li, rIA7Vg, -1662524565, (char)2125792216);
+ueg4lDp1li = rdKYz(ueg4lDp1li, rIA7Vg, (char)-1662524565, (char)2125792216);
 break;
 }
 }

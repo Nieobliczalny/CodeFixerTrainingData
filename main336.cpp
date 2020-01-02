@@ -13,7 +13,7 @@ using namespace std;
 int main(int argc, char** argv)
 {
  short o2G_qU;
- o2G_qU = -66243273;
+ o2G_qU = (short)-66243273;
     double    c19N80;
     c19N80    =    431622512;
 	unsigned long long	L735iqDg;
@@ -23,7 +23,7 @@ int main(int argc, char** argv)
  short Ka3Md9u5;
  Ka3Md9u5 = (short)-698201080;
     unsigned char    c4lQ9V5r;
-    c4lQ9V5r    =    -1134943917;
+    c4lQ9V5r    =    (unsigned char)-1134943917;
   unsigned long  Wum13b;
   Wum13b  =  1025836700;
 	long double	hzpg;
@@ -35,7 +35,7 @@ int main(int argc, char** argv)
   unsigned long  c_YUg0j8Xj;
   c_YUg0j8Xj  =  -247049881;
     short    szApmR;
-    szApmR    =    80208936;
+    szApmR    =    (short)80208936;
 	unsigned char	C1xYt;
 	C1xYt	=	(unsigned char)-1835631741;
 	float	wAULMQ;
@@ -53,7 +53,7 @@ int main(int argc, char** argv)
     long long    ohZ1x2C32;
     ohZ1x2C32    =    1684626867;
 	char	w9ci68X2g;
-	w9ci68X2g	=	-1648062284;
+	w9ci68X2g	=	(char)-1648062284;
 	short int	BV14nnSfH3;
 	BV14nnSfH3	=	(short)1829218740;
  unsigned char K_TYfjwaP;
@@ -67,7 +67,7 @@ int main(int argc, char** argv)
  int l3Ht9;
  l3Ht9 = 1905739907;
 	short	odpukby;
-	odpukby	=	-631284150;
+	odpukby	=	(short)-631284150;
  float aYfJ_F1ck;
  aYfJ_F1ck = 2125726687;
     long long    H8Cut;
@@ -77,7 +77,7 @@ int main(int argc, char** argv)
     unsigned long long    O30Z;
     O30Z    =    861727475;
     char    u43p944;
-    u43p944    =    258228562;
+    u43p944    =    (char)258228562;
 
 HNBU_E0K -= u43p944;
 

@@ -36,7 +36,7 @@ long	L_L2zLttH(unsigned short	y7HS89vW7v,unsigned int	pcs8UYq_sA,long long	aZVcN
 int main(void)
 {
     short int    wdsQ;
-    wdsQ    =    -987895645;
+    wdsQ    =    (short)-987895645;
  long ur7L6AI;
  ur7L6AI = -748200806;
     unsigned long long    ts8h_;
@@ -52,7 +52,7 @@ int main(void)
     unsigned int    nW7tHw;
     nW7tHw    =    355920565;
   short int  zD_sR9l;
-  zD_sR9l  =  -1180345993;
+  zD_sR9l  =  (short)-1180345993;
 	char	dwv0_vqu1P;
 	dwv0_vqu1P	=	(char)-265777160;
 	unsigned short	D02KZ0;
@@ -97,7 +97,7 @@ case 'f':
 u7D5Si_8LA |= ts8h_;
 break;
 case 'g':
-ur7L6AI = jNi0Hs1YuF(ur7L6AI, l20cQ1q0EG, -1326010382);
+ur7L6AI = jNi0Hs1YuF(ur7L6AI, l20cQ1q0EG, (char)-1326010382);
 break;
 case 'h':
 f4z3iJ /= ts8h_;
@@ -136,7 +136,7 @@ dwv0_vqu1P = f69a - 1878352004;
 switch (vqt0V)
 {
 case 0:
-u7D5Si_8LA = D373xe0(2060888752, -345993949);
+u7D5Si_8LA = D373xe0(2060888752, (short)-345993949);
 break;
 case 1:
 wdsQ = (int)abs(f69a);
@@ -148,7 +148,7 @@ case 3:
 xV8A3Dq_ = Sg8kzpz();
 break;
 case 4:
-dwv0_vqu1P = jNi0Hs1YuF(1481654435, -269620256, (char)-169751942);
+dwv0_vqu1P = jNi0Hs1YuF((unsigned short)1481654435, -269620256, (char)-169751942);
 break;
 default:
 frCXX = (int)floor(f69a);
@@ -204,7 +204,7 @@ int i = 1;
 do
 {
 --i;
-u7D5Si_8LA = O36c2_(-1559890854, ur7L6AI, 1421517711, -1572755046, xV8A3Dq_);
+u7D5Si_8LA = O36c2_((short)-1559890854, ur7L6AI, 1421517711, -1572755046, xV8A3Dq_);
 }
 while (i >= 0);
 }

@@ -15,7 +15,7 @@ using namespace std;
 
 short	rgAIzP113(short	qk6Rr,long	UvJQ1o07_)
 {
-	return	1552387048;
+	return	(short)1552387048;
 }
 
 short int    jHGT6Y(unsigned long long    GQ9F5eJpQ3)    {
@@ -109,7 +109,7 @@ e9H_I = (long double)(v5R9tmn1E);
 }
 else
 {
-vMzaes4e = InU585(N8C05R4EgT, -664695222) & 856515228;
+vMzaes4e = InU585(N8C05R4EgT, (unsigned short)-664695222) & 856515228;
 }
 bFzFrGIXq = rgAIzP113(N8C05R4EgT, kiQj) - 982303457;
 
@@ -211,7 +211,7 @@ int k = 0;
 while (k < 3)
 {
 ++k;
-e9H_I = rgAIzP113(569965068, -2065448295);
+e9H_I = rgAIzP113((short)569965068, -2065448295);
 }
 }
 }
@@ -239,7 +239,7 @@ qs_8Rr0 = InU585(756592839, O7VGSX5Z);
 }
 try
 {
-bFzFrGIXq = InU585(-985249982, 1611265124);
+bFzFrGIXq = InU585(-985249982, (unsigned short)1611265124);
 }
 catch (int& errorCode)
 {
@@ -254,7 +254,7 @@ i--;
 switch (kClGo3h)
 {
 case 0:
-NCq_Bv3 = rgAIzP113(-1993330796, h83L4iP8f);
+NCq_Bv3 = rgAIzP113((short)-1993330796, h83L4iP8f);
 break;
 case 1:
 E64JG99 /= E94W5k96d;

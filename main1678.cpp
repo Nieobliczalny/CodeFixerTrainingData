@@ -105,7 +105,7 @@ do
 int k = 1;
 do
 {
-R6Cen0JcH = gHlQLG(288131229);
+R6Cen0JcH = gHlQLG((unsigned short)288131229);
 --k;
 }
 while (k >= 0);
@@ -147,7 +147,7 @@ wdjb3o946 = gHlQLG(wdjb3o946);
 }
 while (i >= 0);
 }
-std::cout << gHlQLG(-1851942112) << std::endl;
+std::cout << gHlQLG((unsigned short)-1851942112) << std::endl;
 
 I2_04 = (unsigned long long)(VAo2);
 
@@ -165,7 +165,7 @@ case 'c':
 mdyMNF_K_t = gHlQLG(mdyMNF_K_t);
 break;
 default:
-Gh6L = gHlQLG(208131035);
+Gh6L = gHlQLG((unsigned short)208131035);
 break;
 }
 }
@@ -211,7 +211,7 @@ else
 {
 Lp04a7O = gHlQLG(kmJ8AvdF88);
 }
-v45_68Hi = gHlQLG(-1997244407);
+v45_68Hi = gHlQLG((unsigned short)-1997244407);
 i0W16C7 = (unsigned long long)(R8JKlN);
 czipsc90 = gHlQLG(czipsc90);
 {
@@ -344,7 +344,7 @@ return 0;
 }
 
 char gHlQLG(unsigned short int pp3I_o) {
- return -2010149818;
+ return (char)-2010149818;
 }
 
 unsigned int	Z55bHJQ()

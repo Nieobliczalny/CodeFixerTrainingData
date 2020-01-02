@@ -18,7 +18,7 @@ int main(void) {
   is59t9  =  0;
   k_Ei2db  =  0;
     char    BV0b,    uzSJ_RF,    UKzB4L,    Ty0mq3B,    Y84g,    sj_06s_,    NaKi65,    H_b1AA1y3J,    UU94mW,    R1fNL_74Xh,    drxm,    b1E17,    r7dvj8wnE2,    x03s3Zw3JL,    h01Ttb0snh,    d_HRw3Y9o,    p_l_l,    W5k7cRS,    rw861QM6r,    qDc83M50,    r2rJZRQt,    Q2T1jOc_J,    x2vr2n,    olDM1f6V,    BG024t93,    hx_J51,    N1340b7,    f3Oh6uS666,    L19z_d,    WpgutP_i,    nKG3n8M0,    rGbT,    t5U3crf,    t8rNu,    rCK20YN9p8,    mw6I0,    Hp1GS4A_y,    HCz0_86,    XDdHelq,    iSkX,    RnRvtDm2,    a5is67S4fa,    EXAlV99_sP,    i6lMnms1F_,    V66owIIY,    OG4G;
-    BV0b    =    252837665;
+    BV0b    =    (char)252837665;
     uzSJ_RF    =    (char)-348262765;
     UKzB4L    =    1590299061;
     Ty0mq3B    =    -1690123578;
@@ -28,7 +28,7 @@ int main(void) {
     H_b1AA1y3J    =    725654585;
     UU94mW    =    -1040717991;
     R1fNL_74Xh    =    -292956725;
-    drxm    =    -969771519;
+    drxm    =    (char)-969771519;
     b1E17    =    (char)813739536;
     r7dvj8wnE2    =    -1803447417;
     x03s3Zw3JL    =    -2141455160;
@@ -38,7 +38,7 @@ int main(void) {
     W5k7cRS    =    1810535068;
     rw861QM6r    =    -306238013;
     qDc83M50    =    498462706;
-    r2rJZRQt    =    -44792452;
+    r2rJZRQt    =    (char)-44792452;
     Q2T1jOc_J    =    (char)1858147290;
     x2vr2n    =    -2066841389;
     olDM1f6V    =    960305015;
@@ -48,7 +48,7 @@ int main(void) {
     f3Oh6uS666    =    -1521535590;
     L19z_d    =    572168404;
     WpgutP_i    =    -1549382527;
-    nKG3n8M0    =    1891990549;
+    nKG3n8M0    =    (char)1891990549;
     rGbT    =    (char)122490268;
     t5U3crf    =    2087151599;
     t8rNu    =    -1204266400;
@@ -58,7 +58,7 @@ int main(void) {
     HCz0_86    =    2048928400;
     XDdHelq    =    2023907742;
     iSkX    =    1740757865;
-    RnRvtDm2    =    -66461974;
+    RnRvtDm2    =    (char)-66461974;
     a5is67S4fa    =    (char)1917332267;
     EXAlV99_sP    =    1135278721;
     i6lMnms1F_    =    -2128279712;
@@ -122,7 +122,7 @@ case 2:
 b1E17 &= 859875301;
 break;
 case 3:
-k_Ei2db = K4idJttX(157288967, -1377213935, OG4G, -597554952);
+k_Ei2db = K4idJttX((char)157288967, -1377213935, OG4G, -597554952);
 break;
 case 4:
 V66owIIY |= 887604253;
@@ -140,7 +140,7 @@ case 8:
 rw861QM6r = RnRvtDm2 << rCK20YN9p8;
 break;
 case 9:
-is59t9 = K4idJttX(-119063075, 421496589, -2079388033, 719335523);
+is59t9 = K4idJttX((char)-119063075, 421496589, -2079388033, 719335523);
 break;
 default:
 hx_J51 = (RnRvtDm2 & 1227300427) ? K4idJttX((char)653557016, EXAlV99_sP, rw861QM6r, -807326540) : UKzB4L;
@@ -176,7 +176,7 @@ if (uzSJ_RF < p_l_l)
 {
 try
 {
-BV0b = K4idJttX(-2112111562, UKzB4L, hx_J51, 486071594) + 944017636;
+BV0b = K4idJttX((char)-2112111562, UKzB4L, hx_J51, 486071594) + 944017636;
 }
 catch (int& errorCode)
 {
@@ -197,7 +197,7 @@ olDM1f6V += 1181530392;
 }
 else if ((WpgutP_i == -538683332) || ((t8rNu) || (iSkX <= EXAlV99_sP)))
 {
-k_Ei2db = K4idJttX(-193499374, V66owIIY, -1461812255, Ty0mq3B);
+k_Ei2db = K4idJttX((char)-193499374, V66owIIY, -1461812255, Ty0mq3B);
 }
 else if (BG024t93)
 {
@@ -230,7 +230,7 @@ case 1:
 d_HRw3Y9o = N1340b7 % 1332085527;
 break;
 case 2:
-k_Ei2db = K4idJttX(-435269698, 2137808697, -709106755, -1495315812);
+k_Ei2db = K4idJttX((char)-435269698, 2137808697, -709106755, -1495315812);
 break;
 }
 }
@@ -257,7 +257,7 @@ H1vJ60_ = K4idJttX(UU94mW, hx_J51, r7dvj8wnE2, 673326148);
 }
 else if (uzSJ_RF < -1691510552)
 {
-is59t9 = K4idJttX(-1996569671, HCz0_86, BG024t93, R1fNL_74Xh);
+is59t9 = K4idJttX((char)-1996569671, HCz0_86, BG024t93, R1fNL_74Xh);
 }
 else if (((WpgutP_i != 482098423) && (is59t9 == 639432662)) || ((L19z_d >= -714312247) || (EXAlV99_sP < -1804460458)))
 {
@@ -276,7 +276,7 @@ else if (WpgutP_i > -47749192)
 {
 for (int k = 2; k >= 0; k--)
 {
-H1vJ60_ = K4idJttX(-1700029174, drxm, 1414742054, -1485861033);
+H1vJ60_ = K4idJttX((char)-1700029174, drxm, 1414742054, -1485861033);
 }
 }
 else
@@ -299,7 +299,7 @@ if (N1340b7 <= Q2T1jOc_J)
 int k = 0;
 do
 {
-k_Ei2db = K4idJttX(1960924312, 1172086176, 371876117, 822395324);
+k_Ei2db = K4idJttX((char)1960924312, 1172086176, 371876117, 822395324);
 k++;
 }
 while (k < 7);

@@ -8,7 +8,7 @@
 
 
 short    De_C7_9ET()    {
-    return    453607556;
+    return    (short)453607556;
 }
 
 short int	bABC5cg4f(unsigned long long	cH571)	{
@@ -29,7 +29,7 @@ int main(void)
 	unsigned long long	ka6J	=	368214672,	Y7RnOhr	=	-1996179708,	f9YBlE	=	-2116773446;
  short X_WE0Tydf = 0, YJtaGPV = 0, m9aWJq = 0, N7mi = 0, rXIGn = 0;
 
-Y7RnOhr = Oh1A(-1782197384, (short)894151574, f9YBlE, -2006734886, YJtaGPV) + f9YBlE;
+Y7RnOhr = Oh1A((unsigned short)-1782197384, (short)894151574, f9YBlE, -2006734886, YJtaGPV) + f9YBlE;
 ka6J = (unsigned long long)(m9aWJq + (-1901007921));
 
 {
@@ -69,7 +69,7 @@ Y7RnOhr -= X_WE0Tydf;
 }
 }
 
-std::cout << cLA095(ka6J) << Oh1A(1359314469, (short)-1493172520, N7mi, -1904724037, YJtaGPV) << std::endl;
+std::cout << cLA095(ka6J) << Oh1A((unsigned short)1359314469, (short)-1493172520, N7mi, -1904724037, YJtaGPV) << std::endl;
 Y7RnOhr = X_WE0Tydf << 1103205293;
 
 {
@@ -136,7 +136,7 @@ Y7RnOhr = Oh1A(m9aWJq, Y7RnOhr, N7mi, ka6J, -69079579);
 }
 else
 {
-f9YBlE = Oh1A(-1981854014, N7mi, 785043799, 1549633910, X_WE0Tydf);
+f9YBlE = Oh1A((unsigned short)-1981854014, N7mi, 785043799, 1549633910, X_WE0Tydf);
 }
 switch (YJtaGPV)
 {
@@ -147,7 +147,7 @@ case 'b':
 f9YBlE = bABC5cg4f(YJtaGPV);
 break;
 default:
-ka6J = Oh1A(ka6J, 141426057, N7mi, Y7RnOhr, YJtaGPV);
+ka6J = Oh1A(ka6J, (short)141426057, N7mi, Y7RnOhr, YJtaGPV);
 break;
 }
 
@@ -177,7 +177,7 @@ case 0:
 ka6J = Oh1A(ka6J, m9aWJq, -1754482961, YJtaGPV, N7mi);
 break;
 case 1:
-ka6J = Oh1A(2047002534, (short)2023689622, -778114284, Y7RnOhr, -670507222);
+ka6J = Oh1A((unsigned short)2047002534, (short)2023689622, -778114284, Y7RnOhr, -670507222);
 break;
 case 2:
 rXIGn = (int)abs(X_WE0Tydf);
@@ -216,7 +216,7 @@ case 2:
 m9aWJq = cLA095(-2096540379);
 break;
 case 3:
-ka6J = Oh1A(m9aWJq, -899243115, YJtaGPV, ka6J, f9YBlE);
+ka6J = Oh1A(m9aWJq, (short)-899243115, YJtaGPV, ka6J, f9YBlE);
 break;
 case 4:
 ka6J = De_C7_9ET() / X_WE0Tydf;
@@ -312,7 +312,7 @@ catch (int& errorCode)
 ka6J = De_C7_9ET();
 }
 
-std::cout << YJtaGPV << Oh1A(-556923513, (short)729652231, N7mi, ka6J, Y7RnOhr) << m9aWJq << m9aWJq << "W351kJxfL" << std::endl;
+std::cout << YJtaGPV << Oh1A((unsigned short)-556923513, (short)729652231, N7mi, ka6J, Y7RnOhr) << m9aWJq << m9aWJq << "W351kJxfL" << std::endl;
 if (X_WE0Tydf < Y7RnOhr)
 {
 {

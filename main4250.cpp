@@ -23,7 +23,7 @@ short int  RVdveuf(unsigned short int  RWW32,unsigned char  B17M5,unsigned long 
 
 int main(void)
 {
- short int Q2W4FLw6QU = -158667526;
+ short int Q2W4FLw6QU = (short)-158667526;
   long long  mMrVd  =  31619361;
     long double    Y163P8p    =    -163762330;
 	unsigned int	DE6Z	=	334253556;
@@ -72,7 +72,7 @@ else if ((mT8b4 == dVgvs3ai) || (k28S < -75407918))
 {
 if ((vqd26wYd > uhHkyU) || (k28S <= dVgvs3ai))
 {
-Q___WK7Oo = RVdveuf(409359798, m4N_g0, -369211683, (short)-622515430);
+Q___WK7Oo = RVdveuf((unsigned short)409359798, m4N_g0, -369211683, (short)-622515430);
 }
 else if (vqd26wYd & -262070178)
 {
@@ -118,7 +118,7 @@ gMv7ivcm = Kpa8FO(gMv7ivcm, Y163P8p);
 break;
 case 'b':
 case 'B':
-k28S = RVdveuf(k28S, vqd26wYd, gMv7ivcm, -1044676604);
+k28S = RVdveuf(k28S, vqd26wYd, gMv7ivcm, (short)-1044676604);
 break;
 case 'c':
 case 'C':
@@ -153,7 +153,7 @@ case 'J':
 gMv7ivcm = Kpa8FO(Y163P8p, DE6Z);
 break;
 default:
-mT8b4 = RVdveuf(mT8b4, vqd26wYd, -1798104844, 1755042533);
+mT8b4 = RVdveuf(mT8b4, vqd26wYd, -1798104844, (short)1755042533);
 break;
 }
 }
@@ -164,7 +164,7 @@ mMrVd = RVdveuf(f0Q2kF0Vmd, (unsigned char)-869537636, mT8b4, 686029048);
 
 try
 {
-Y163P8p = RVdveuf(213715254, Y163P8p, -827862294, m4N_g0);
+Y163P8p = RVdveuf((unsigned short)213715254, Y163P8p, -827862294, m4N_g0);
 }
 catch (int& errorCode)
 {
@@ -194,7 +194,7 @@ for (int j = 9; j >= 0; --j)
 switch (k28S)
 {
 case 0:
-gMv7ivcm = Kpa8FO(1791118463, 1166593087);
+gMv7ivcm = Kpa8FO((unsigned char)1791118463, 1166593087);
 break;
 case 1:
 Y163P8p = RVdveuf(Y163P8p, (unsigned char)-1276675405, Q2W4FLw6QU, 22831014);
@@ -278,7 +278,7 @@ gMv7ivcm = Kpa8FO(gMv7ivcm, mT8b4);
 }
 else if (f0Q2kF0Vmd == mT8b4)
 {
-mMrVd = RVdveuf(-249382748, mMrVd, Y163P8p, (short)-1261077089);
+mMrVd = RVdveuf((unsigned short)-249382748, mMrVd, Y163P8p, (short)-1261077089);
 }
 else if (mT8b4 == 995757474)
 {
@@ -295,7 +295,7 @@ else if (mT8b4 >= -2066069323)
 switch (Q___WK7Oo)
 {
 case 0:
-Q___WK7Oo = RVdveuf(1554638997, Y163P8p, 427774231, (short)-924302649);
+Q___WK7Oo = RVdveuf((unsigned short)1554638997, Y163P8p, 427774231, (short)-924302649);
 break;
 case 1:
 Y163P8p = RVdveuf(1030092746, DE6Z, 1094067445, 607092589);
@@ -316,7 +316,7 @@ case 6:
 gMv7ivcm = (int)abs(Q2W4FLw6QU) * 0;
 break;
 case 7:
-DE6Z = RVdveuf(DE6Z, -1160474532, vqd26wYd, Q___WK7Oo);
+DE6Z = RVdveuf(DE6Z, (unsigned char)-1160474532, vqd26wYd, Q___WK7Oo);
 break;
 }
 }
@@ -349,7 +349,7 @@ Y163P8p = mMrVd ^ 1018195226;
 break;
 case 'f':
 case 'F':
-Q2W4FLw6QU = RVdveuf(-620000987, (unsigned char)1012831876, 2044054226, vqd26wYd);
+Q2W4FLw6QU = RVdveuf((unsigned short)-620000987, (unsigned char)1012831876, 2044054226, vqd26wYd);
 break;
 case 'g':
 case 'G':
@@ -377,7 +377,7 @@ catch (int& errorCode)
 k28S--;
 }
 
-std::cout << k28S << Kpa8FO(-1126465048, -1642720110) << "Flc9T2s1u" << "WV_792" << std::endl;
+std::cout << k28S << Kpa8FO((unsigned char)-1126465048, -1642720110) << "Flc9T2s1u" << "WV_792" << std::endl;
 std::cout << RVdveuf(Y163P8p, (unsigned char)298515975, f0Q2kF0Vmd, vqd26wYd) << Y163P8p << "N0xTZl7c7Q" << "fn9Sth42" << std::endl;
 
 for (int i = 0; i < 3; ++i)
@@ -390,7 +390,7 @@ else if ((DE6Z & jd13) && (m4N_g0 >= -1695641260))
 {
 if (vqd26wYd)
 {
-m4N_g0 = Kpa8FO(-1318140665, 511244348);
+m4N_g0 = Kpa8FO((unsigned char)-1318140665, 511244348);
 }
 else
 {
@@ -403,7 +403,7 @@ Q2W4FLw6QU >>= 63999459;
 }
 else
 {
-DE6Z = RVdveuf(-2016530522, (unsigned char)-1774515538, -794864361, k28S);
+DE6Z = RVdveuf((unsigned short)-2016530522, (unsigned char)-1774515538, -794864361, k28S);
 }
 }
 if (vqd26wYd != 2088887129)
@@ -423,7 +423,7 @@ m4N_g0 = Kpa8FO(DE6Z, m4N_g0);
 }
 else if (gMv7ivcm <= m4N_g0)
 {
-Q___WK7Oo = RVdveuf(-901121816, gMv7ivcm, mT8b4, (short)296526116);
+Q___WK7Oo = RVdveuf((unsigned short)-901121816, gMv7ivcm, mT8b4, (short)296526116);
 }
 else if (Y163P8p != -1196198248)
 {
@@ -464,7 +464,7 @@ gMv7ivcm = Kpa8FO(gMv7ivcm, 2118434968);
 }
 try
 {
-vqd26wYd = RVdveuf(1489376681, (unsigned char)-1363380915, mMrVd, Y163P8p);
+vqd26wYd = RVdveuf((unsigned short)1489376681, (unsigned char)-1363380915, mMrVd, Y163P8p);
 }
 catch (int& errorCode)
 {
@@ -481,6 +481,6 @@ unsigned int  Kpa8FO(unsigned char  f8B_iNu_,unsigned long  oDfG3yq)
 }
 
 short int  RVdveuf(unsigned short int  RWW32,unsigned char  B17M5,unsigned long  CRibu6,short int  X2juU9wI4)  {
-  return  1390042241;
+  return  (short)1390042241;
 }
 

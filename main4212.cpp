@@ -23,7 +23,7 @@ int    RAGJbXA(unsigned int    uspR_KNomA,char    TB4b,short    j0Qd890Nk,short 
 
 int main() {
     double    Kmvt    =    385272233;
- unsigned char jtPvS6I8 = -1095774170;
+ unsigned char jtPvS6I8 = (unsigned char)-1095774170;
 	long double	H2q0sK0	=	-2043661718;
 	unsigned long	TSL_jFyEd	=	417799300;
     short    tbXtec9X0    =    (short)-1023268880;
@@ -35,7 +35,7 @@ int main() {
     long double    rpEd    =    -1563300688;
  long GX9o8VB = -1278394611;
   unsigned int  GwRnB3  =  1913555947;
-	unsigned short	km3C9046_9	=	1837833503;
+	unsigned short	km3C9046_9	=	(unsigned short)1837833503;
 	unsigned long	z2Z64s6X0Q	=	741360699;
     short    ps0vl_9    =    (short)1419830564;
   unsigned char  tFKZ3  =  2120112139;
@@ -46,7 +46,7 @@ int main() {
  long BG74cZsdZX = 727296908;
   unsigned char  l54Mv2N0  =  877885668;
  int h8TOP = 1083589419;
-  short int  miyDN1  =  -1894656265;
+  short int  miyDN1  =  (short)-1894656265;
     long double    a2b5y9n9_    =    1751381240;
     unsigned short int    hNb4eP    =    (unsigned short)1443538427;
     short int    u8G15OD9A3    =    -1947045518;
@@ -57,7 +57,7 @@ int main() {
  long double kz2cM_ = -2146555926;
   float  Y6Nv  =  -1829612259;
   long double  ywviJO  =  579476003;
-    short    iDTYK    =    2124533605;
+    short    iDTYK    =    (short)2124533605;
  long nNVNRKw = -1651715803;
     int    FtmXirQ    =    0;
   int  d_W9jWj2z  =  -1559727443;
@@ -70,7 +70,7 @@ for (int i = 0; i < 3; i++)
 {
 try
 {
-FtmXirQ = s_hXg44KfZ(-2077712914, -1504951151, -2134404459, Y6Nv);
+FtmXirQ = s_hXg44KfZ((unsigned char)-2077712914, -1504951151, -2134404459, Y6Nv);
 }
 catch (int& errorCode)
 {
@@ -96,7 +96,7 @@ case 2:
 wQ9h = vj5f6cNe1(-1978141081, -101289646, 204024806, 2028053240);
 break;
 case 3:
-hNb4eP = JC65w(1189311060, BG74cZsdZX, 1853543322);
+hNb4eP = JC65w((unsigned short)1189311060, BG74cZsdZX, 1853543322);
 break;
 case 4:
 j8Rh = s_hXg44KfZ((unsigned char)1918788334, 1277695694, u8G15OD9A3, puw03lS2);
@@ -146,7 +146,7 @@ unsigned long    s_hXg44KfZ(unsigned char    eulSb6jA7z,short    E80O04n_,unsign
 }
 
 unsigned char Dg47nIK(unsigned long TYI4d_G6YQ,unsigned long Z9_RGRHwa,unsigned long long cels,int mA1MhQ) {
- return -1573151874;
+ return (unsigned char)-1573151874;
 }
 
 short  JC65w(unsigned short int  CVdRfWiL2j,char  AuVeHeKmoy,unsigned int  mNh7mK2lf)

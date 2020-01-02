@@ -13,7 +13,7 @@
 
 
 unsigned short int	GmvmVZ631l(unsigned char	uDbFakz1,unsigned long long	zkcQt2Vr,unsigned long	YH_Hdfyv_,int	Rdob0tTv,unsigned long	V2I3T5E_7E)	{
-	return	-2102436261;
+	return	(unsigned short)-2102436261;
 }
 
 short int	d4B5_e()	{
@@ -24,7 +24,7 @@ int main(void)
 {
     int    xA_ou0r7dI    =    -351829126;
 	unsigned long long	x757N_8gj	=	0;
-	char	nh5ef	=	-2132256534;
+	char	nh5ef	=	(char)-2132256534;
  long GUEY = 44124094;
  unsigned int yv07o0z = 0;
 	unsigned int	ej_52z5z	=	0;
@@ -37,7 +37,7 @@ GUEY = (int)abs(nh5ef);
 
 if (wT_Y5_clT != -1710083067)
 {
-xA_ou0r7dI = GmvmVZ631l(1364674206, GUEY, 973446147, x757N_8gj, 2127431359);
+xA_ou0r7dI = GmvmVZ631l((unsigned char)1364674206, GUEY, 973446147, x757N_8gj, 2127431359);
 }
 try
 {
@@ -74,7 +74,7 @@ while (i >= 0)
 --i;
 if (ej_52z5z > -669518766)
 {
-std::cout << "W738eVg" << GmvmVZ631l(-1264628705, -1674478977, nh5ef, 14146790, ej_52z5z) << "MspiN5H" << d4B5_e() << std::endl;
+std::cout << "W738eVg" << GmvmVZ631l((unsigned char)-1264628705, -1674478977, nh5ef, 14146790, ej_52z5z) << "MspiN5H" << d4B5_e() << std::endl;
 }
 else if ((wT_Y5_clT) && ((ej_52z5z > nh5ef) && (GUEY < x757N_8gj)))
 {
@@ -153,7 +153,7 @@ xA_ou0r7dI = x757N_8gj / nh5ef;
 }
 else
 {
-std::cout << x757N_8gj << GmvmVZ631l(1459647264, -86074154, ej_52z5z, GUEY, wT_Y5_clT) << "mY_2ag" << std::endl;
+std::cout << x757N_8gj << GmvmVZ631l((unsigned char)1459647264, -86074154, ej_52z5z, GUEY, wT_Y5_clT) << "mY_2ag" << std::endl;
 }
 wT_Y5_clT = (long)(ggNHUn_j7);
 
@@ -255,7 +255,7 @@ else
 {
 if (((yv07o0z <= ggNHUn_j7) && (nh5ef >= yv07o0z)) || ((nh5ef == -1462401216) && (x757N_8gj != T2dM4_6m)))
 {
-wT_Y5_clT = GmvmVZ631l(-1923199713, -1544637563, nh5ef, 1644869534, 876848335);
+wT_Y5_clT = GmvmVZ631l((unsigned char)-1923199713, -1544637563, nh5ef, 1644869534, 876848335);
 }
 }
 i--;
@@ -283,7 +283,7 @@ case 'f':
 xA_ou0r7dI = xA_ou0r7dI / nh5ef;
 break;
 case 'g':
-xA_ou0r7dI = GmvmVZ631l(341714239, ej_52z5z, xA_ou0r7dI, -243673564, 1064537215);
+xA_ou0r7dI = GmvmVZ631l((unsigned char)341714239, ej_52z5z, xA_ou0r7dI, -243673564, 1064537215);
 break;
 case 'h':
 xA_ou0r7dI = (int)abs(GUEY);

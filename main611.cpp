@@ -15,7 +15,7 @@ unsigned long    jle3oVS7(char    t_zV9y,unsigned long long    jQ76ytN,long long
 
 int main(void) {
     unsigned long long    B8w3_Z8d    =    -546593781;
- short int eD8eXg0x = 729181573;
+ short int eD8eXg0x = (short)729181573;
  float Ellgy1S = 156386321;
 	unsigned char	br5iNT_	=	0;
  double bVS3E = -2097111271;
@@ -104,7 +104,7 @@ case 2:
 Ellgy1S = QEr4 | 1275272581;
 break;
 case 3:
-br5iNT_ = jle3oVS7(794850934, -122079096, 772717211, B8w3_Z8d);
+br5iNT_ = jle3oVS7((char)794850934, -122079096, 772717211, B8w3_Z8d);
 break;
 default:
 eD8eXg0x = QEr4 >> 1458699716;
@@ -168,7 +168,7 @@ br5iNT_ = jle3oVS7(bVS3E, Rz9Hw6l1, -2143248989, -1657266997);
 }
 else if (B8w3_Z8d)
 {
-br5iNT_ = jle3oVS7(-421972743, QEr4, 813323551, 1284608598);
+br5iNT_ = jle3oVS7((char)-421972743, QEr4, 813323551, 1284608598);
 }
 else if (br5iNT_ & eD8eXg0x)
 {
@@ -213,7 +213,7 @@ case 2:
 br5iNT_ = jle3oVS7(bVS3E, br5iNT_, -990331865, -1705267131);
 break;
 case 3:
-br5iNT_ = jle3oVS7(382554206, B8w3_Z8d, -1482230847, -989026236);
+br5iNT_ = jle3oVS7((char)382554206, B8w3_Z8d, -1482230847, -989026236);
 break;
 default:
 QEr4 &= 969331030;
@@ -294,7 +294,7 @@ QEr4 = (long)(JvPSAyh1GQ + (1432114786));
 }
 else if ((Ellgy1S <= JvPSAyh1GQ) && ((B8w3_Z8d <= JvPSAyh1GQ) && (eD8eXg0x == -971678951)))
 {
-br5iNT_ = jle3oVS7(1776150687, QEr4, eD8eXg0x, Ellgy1S);
+br5iNT_ = jle3oVS7((char)1776150687, QEr4, eD8eXg0x, Ellgy1S);
 }
 else
 {
@@ -311,7 +311,7 @@ while (j >= 0)
 int k = 3;
 do
 {
-br5iNT_ = jle3oVS7(1425192520, 1632672737, br5iNT_, -652178103);
+br5iNT_ = jle3oVS7((char)1425192520, 1632672737, br5iNT_, -652178103);
 --k;
 }
 while (k >= 0);
@@ -351,7 +351,7 @@ try
 {
 if (B8w3_Z8d <= br5iNT_)
 {
-br5iNT_ = jle3oVS7(1183462390, -821708505, br5iNT_, Rz9Hw6l1);
+br5iNT_ = jle3oVS7((char)1183462390, -821708505, br5iNT_, Rz9Hw6l1);
 }
 else
 {
@@ -429,7 +429,7 @@ case 1:
 QEr4 = (int)abs(eD8eXg0x);
 break;
 case 2:
-br5iNT_ = jle3oVS7(-927993643, 1482629128, bVS3E, Ellgy1S);
+br5iNT_ = jle3oVS7((char)-927993643, 1482629128, bVS3E, Ellgy1S);
 break;
 case 3:
 QEr4--;
@@ -441,7 +441,7 @@ case 5:
 br5iNT_ = jle3oVS7((char)1009682300, 1395025643, B8w3_Z8d, Rz9Hw6l1);
 break;
 case 6:
-br5iNT_ = jle3oVS7(10518081, QEr4, Ellgy1S, -1125600319);
+br5iNT_ = jle3oVS7((char)10518081, QEr4, Ellgy1S, -1125600319);
 break;
 default:
 B8w3_Z8d <<= eD8eXg0x;
@@ -456,7 +456,7 @@ else
 Ellgy1S = (float)(QEr4);
 }
 
-br5iNT_ = jle3oVS7(-487638301, Ellgy1S, bVS3E, 2024792385);
+br5iNT_ = jle3oVS7((char)-487638301, Ellgy1S, bVS3E, 2024792385);
 return 0;
 }
 

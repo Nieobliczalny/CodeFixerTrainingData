@@ -8,7 +8,7 @@
 
 
 char    ulr1gROA1()    {
-    return    -1867429755;
+    return    (char)-1867429755;
 }
 
 short int T4xHC(unsigned long long h22g3Cbcr,short int hw1HQ,char IvvCLZIJa,unsigned short int wO67z921R9) {
@@ -21,6 +21,7 @@ int	F3vL_()
 }
 
 int main() {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
   unsigned short int  o8Od8E  =  2088053412,  Z79j  =  605400868,  G_NI1s  =  2036232245,  zoGVPB380b  =  1794881914,  fadyDL  =  997881024,  f3p_bX  =  -736409672,  dv5vHJOj  =  -1624858416;
     int    lL0JA    =    0,    O2AjM    =    0,    yaXR    =    0;
 
@@ -39,7 +40,7 @@ case 'd':
 dv5vHJOj %= 1223767131;
 break;
 case 'e':
-Z79j = T4xHC(1093179449, -983225938, G_NI1s, O2AjM);
+Z79j = T4xHC(1093179449, (short)-983225938, G_NI1s, O2AjM);
 break;
 case 'f':
 yaXR = F3vL_();
@@ -155,7 +156,7 @@ else if (yaXR < 138508543)
 {
 if (yaXR != 1842281126)
 {
-dv5vHJOj = T4xHC(134832742, -1833198170, (char)2143312590, -351463879);
+dv5vHJOj = T4xHC(134832742, (short)-1833198170, (char)2143312590, -351463879);
 }
 }
 else if (Z79j == 180908997)
@@ -174,7 +175,7 @@ o8Od8E = ulr1gROA1();
 }
 else if (lL0JA > -865194083)
 {
-std::cout << ulr1gROA1() << T4xHC(o8Od8E, yaXR, 2026334972, (unsigned short)-903583791) << std::endl;
+std::cout << ulr1gROA1() << T4xHC(o8Od8E, yaXR, (char)2026334972, (unsigned short)-903583791) << std::endl;
 }
 else
 {
@@ -286,7 +287,7 @@ else if (O2AjM & 1123565073)
 {
 try
 {
-fadyDL = T4xHC(O2AjM, 522593063, (char)322945475, G_NI1s);
+fadyDL = T4xHC(O2AjM, (short)522593063, (char)322945475, G_NI1s);
 }
 catch (int& errorCode)
 {
@@ -301,7 +302,7 @@ else
 {
 for (int k = 7; k >= 0; --k)
 {
-dv5vHJOj = T4xHC(dv5vHJOj, 2041878908, (char)178434250, lL0JA);
+dv5vHJOj = T4xHC(dv5vHJOj, (short)2041878908, (char)178434250, lL0JA);
 }
 }
 }

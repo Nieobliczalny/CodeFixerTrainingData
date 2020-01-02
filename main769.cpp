@@ -14,7 +14,7 @@ using namespace std;
 long long  XeD3P_(unsigned int  u7U_I7D3);
 
 int main(int argc, char** argv) {
-	unsigned short int	r5Yy5Ig2i7	=	-1795402503;
+	unsigned short int	r5Yy5Ig2i7	=	(unsigned short)-1795402503;
  long nsY9W6P0 = 2051895468;
     unsigned short int    vkWn5RacQ    =    (unsigned short)484589523;
  char i3Z12 = -1433654950;
@@ -27,7 +27,7 @@ int main(int argc, char** argv) {
   unsigned int  JxRANgN  =  1189178986;
 	unsigned long	J0_2xNrA5	=	0;
   unsigned long  a3cfI0  =  -500116777;
-    unsigned short    UhV9_    =    -740360065;
+    unsigned short    UhV9_    =    (unsigned short)-740360065;
   unsigned long long  z7dX  =  0;
 	short int	BW4EI	=	(short)-564287611;
 	double	xFGwL18	=	-603317509;
@@ -230,7 +230,7 @@ vkWn5RacQ = r87R - z7dX;
 }
 else if (r5Yy5Ig2i7 >= 2144309521)
 {
-w2gv = PD_jXp3S ^ 1003954017;
+w2gv = PD_jXp3S ^ (unsigned short)1003954017;
 }
 else if ((I52Of2Crzo != -2041832445) && (xFGwL18))
 {
@@ -461,7 +461,7 @@ for (int j = 0; j < 2; j++)
 {
 if (r5Yy5Ig2i7 == -1883854995)
 {
-w2gv = (z7dX) ? UhV9_ : 577731793;
+w2gv = (z7dX) ? UhV9_ : (unsigned short)577731793;
 }
 }
 }

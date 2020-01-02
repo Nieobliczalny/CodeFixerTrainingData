@@ -34,7 +34,7 @@ int main(void) {
   int  q76x2h  =  0;
     long    oS0I    =    1296941523;
 	long long	mzZm1p0366	=	-2125847103;
-  unsigned short int  gmSu4x0_2  =  -219361666;
+  unsigned short int  gmSu4x0_2  =  (unsigned short)-219361666;
   short int  YE4Y  =  (short)298297041;
 	unsigned long	HnqtN7	=	1958013718;
   unsigned char  zQ7tcEt  =  -863237425;
@@ -44,7 +44,7 @@ int main(void) {
   unsigned long  n9rA  =  -1317748017;
 	float	VkMhn	=	582115750;
     long long    ie7g8_99K    =    -1321854684;
-    unsigned char    tfv20OKR    =    -176653715;
+    unsigned char    tfv20OKR    =    (unsigned char)-176653715;
  int K0XMg7dQ3 = 0;
     short int    ECEVtHt3    =    (short)-427816163;
 
@@ -80,7 +80,7 @@ default:
 YE4Y = u0575Pq4k7(-46279816, G9YlQkC, n9rA);
 break;
 }
-std::cout << ruLXX7() << VPPRiw454M << u0575Pq4k7(YE4Y, G9YlQkC, 910117630) << tfv20OKR << "D8M1J" << std::endl;
+std::cout << ruLXX7() << VPPRiw454M << u0575Pq4k7(YE4Y, G9YlQkC, (short)910117630) << tfv20OKR << "D8M1J" << std::endl;
 g15b_y2 = ZOBJM9(g15b_y2, 1350598466);
 
 n9rA = (unsigned long)(OiIWJz6pTu);
@@ -102,7 +102,7 @@ case 1:
 VkMhn = (int)floor(JQ4ZM6);
 break;
 case 2:
-ie7g8_99K = (ECEVtHt3 != 674797876) ? u0575Pq4k7(ECEVtHt3, g15b_y2, -923618692) : gmSu4x0_2;
+ie7g8_99K = (ECEVtHt3 != 674797876) ? u0575Pq4k7(ECEVtHt3, g15b_y2, (short)-923618692) : gmSu4x0_2;
 break;
 case 3:
 NX8d1BI8G = (int)floor(Nx1v51M8U);
@@ -181,7 +181,7 @@ NX8d1BI8G = (int)ceil(VPPRiw454M);
 }
 else
 {
-WTFu = u0575Pq4k7(-709077842, -1400250156, -359809422);
+WTFu = u0575Pq4k7(-709077842, -1400250156, (short)-359809422);
 }
 }
 }
@@ -212,7 +212,7 @@ case 0:
 zQ7tcEt = u0575Pq4k7(zQ7tcEt, R9soX9tB, jZAvn1H5jP);
 break;
 case 1:
-me9f6pJj = u0575Pq4k7(1231817737, -1017318540, -1669270011);
+me9f6pJj = u0575Pq4k7(1231817737, -1017318540, (short)-1669270011);
 break;
 case 2:
 ie7g8_99K = fN9S(K47L_XVCmD, ie7g8_99K);
@@ -272,7 +272,7 @@ case 5:
 mzZm1p0366 ^= HnqtN7;
 break;
 case 6:
-x_Pm = ZOBJM9(-634793027, -295125428);
+x_Pm = ZOBJM9((short)-634793027, -295125428);
 break;
 case 7:
 Nx1v51M8U = (int)floor(JQ4ZM6);
@@ -349,7 +349,7 @@ long  u0575Pq4k7(unsigned long  W_3G90R_,long long  fSfd,short  n28c8)
 
 short int    ZOBJM9(short    LX3709v1,long long    I274jX)
 {
-    return    -103525264;
+    return    (short)-103525264;
 }
 
 short ruLXX7() {

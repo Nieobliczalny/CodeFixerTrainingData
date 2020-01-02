@@ -10,7 +10,7 @@ using namespace std;
 
 int main(void) {
 	int	vH9_K	=	0;
-	char	PG3z2N	=	-1848840911;
+	char	PG3z2N	=	(char)-1848840911;
 	int	HGQ_NEyyc9	=	0;
  unsigned long ZY34uHkg2m = -825259947;
     unsigned long long    i3U21    =    1122598977;
@@ -58,7 +58,7 @@ PG3z2N /= PG3z2N;
 }
 else
 {
-PG3z2N = (HGQ_NEyyc9 & 1347118051) ? i3U21 : -1781670974;
+PG3z2N = (HGQ_NEyyc9 & 1347118051) ? i3U21 : (char)-1781670974;
 }
 }
 else if (HGQ_NEyyc9 < -1363855983)
@@ -164,7 +164,7 @@ case 0:
 PG3z2N /= ZY34uHkg2m;
 break;
 case 1:
-PG3z2N = (PG3z2N != i3U21) ? -391042599 : ZY34uHkg2m;
+PG3z2N = (PG3z2N != i3U21) ? (char)-391042599 : ZY34uHkg2m;
 break;
 case 2:
 vH9_K = (int)abs(PG3z2N) * 0;

@@ -14,7 +14,7 @@ using std::floor;
 
 short    gRe2(short    L2PhB7,unsigned int    WJTGcI,long long    SFT5L)
 {
-    return    -811021474;
+    return    (short)-811021474;
 }
 
 unsigned long long pdOm(int AAc9aot3p8) {
@@ -34,7 +34,7 @@ for (int j = 10; j >= 0; j--)
 {
 if (C4Ar <= -1807574800)
 {
-h3xk62_bl = gRe2(1127183273, 1387216916, -244245341);
+h3xk62_bl = gRe2((short)1127183273, 1387216916, -244245341);
 }
 else
 {
@@ -138,7 +138,7 @@ Q6HFc4 = pdOm(l3i0zP7568);
 }
 Fwc98G0 = (long)(L3_67viF3Y);
 
-cout << pdOm(l3i0zP7568) << gRe2(1546503573, -252256210, 440714233) << endl;
+cout << pdOm(l3i0zP7568) << gRe2((short)1546503573, -252256210, 440714233) << endl;
 
 for (int i = 5; i >= 0; i--)
 {
@@ -182,7 +182,7 @@ case 2:
 HZ0D90lz /= h3xk62_bl;
 break;
 case 3:
-uGy0 = gRe2(662529512, 828915715, 1871060110);
+uGy0 = gRe2((short)662529512, 828915715, 1871060110);
 break;
 case 4:
 ouhe = (i9A12rF & -1940834306) ? Fwc98G0 : MYDIT;
@@ -207,7 +207,7 @@ int i = 0;
 do
 {
 i++;
-cout << J95IPr9V_b << pdOm(1286231994) << "x_a94x2X75" << gRe2(-631732235, ouhe, vvB9prQ) << endl;
+cout << J95IPr9V_b << pdOm(1286231994) << "x_a94x2X75" << gRe2((short)-631732235, ouhe, vvB9prQ) << endl;
 }
 while (i < 10);
 }

@@ -29,7 +29,7 @@ short c92UfaRv5(unsigned int y_v7H)
 
 unsigned short	q_MZ(char	DkDfSPv2,long	I54c_XU,unsigned char	oQMG8NdRmv,int	F4Yif8R503)
 {
-	return	-1327265404;
+	return	(unsigned short)-1327265404;
 }
 
 char y2bWncb8(unsigned long long Z1baGrUF,unsigned char dnOi6fN,unsigned long jD2oL9pJqz) {
@@ -39,7 +39,7 @@ char y2bWncb8(unsigned long long Z1baGrUF,unsigned char dnOi6fN,unsigned long jD
 int main(void)
 {
 	unsigned short	rhr8ldTb;
-	rhr8ldTb	=	-1382216841;
+	rhr8ldTb	=	(unsigned short)-1382216841;
   unsigned long  TE_q4S5D;
   TE_q4S5D  =  -1945563517;
   unsigned int  xqW6c;
@@ -49,7 +49,7 @@ int main(void)
 	int	M9U4xd2M_;
 	M9U4xd2M_	=	-1523174020;
  char R9svl8;
- R9svl8 = -1380362860;
+ R9svl8 = (char)-1380362860;
  long long srj9_3t;
  srj9_3t = 365296651;
   short int  Pp0s;
@@ -63,7 +63,7 @@ int main(void)
  unsigned long long E2K75S6Lj;
  E2K75S6Lj = 651023601;
     unsigned short    v1N18_;
-    v1N18_    =    -716250725;
+    v1N18_    =    (unsigned short)-716250725;
   unsigned int  g_965x5PGS;
   g_965x5PGS  =  -737084092;
 	int	nUtbr1sy52;
@@ -81,7 +81,7 @@ int main(void)
     double    e0TL;
     e0TL    =    1449065067;
 	unsigned short	DvzRV0u5c7;
-	DvzRV0u5c7	=	-1066085716;
+	DvzRV0u5c7	=	(unsigned short)-1066085716;
  unsigned long long e4Lt1aq1;
  e4Lt1aq1 = 437800240;
   long double  V__2x72;
@@ -93,7 +93,7 @@ int main(void)
   unsigned long long  vN6eK7p;
   vN6eK7p  =  -419077110;
 	unsigned short	rMv0;
-	rMv0	=	-1018683088;
+	rMv0	=	(unsigned short)-1018683088;
     float    Iac1;
     Iac1    =    -1125546227;
     unsigned long long    w6QY;
@@ -109,7 +109,7 @@ int main(void)
   int  VHHY5JSF7;
   VHHY5JSF7  =  0;
  unsigned short a964AE;
- a964AE = 1962414877;
+ a964AE = (unsigned short)1962414877;
   unsigned long  Ty0rhHS;
   Ty0rhHS  =  1727568706;
  long eIV_6;
@@ -123,7 +123,7 @@ int main(void)
 	int	w3JS8g4_;
 	w3JS8g4_	=	553803507;
     unsigned char    Cs20_7jA3;
-    Cs20_7jA3    =    -876160254;
+    Cs20_7jA3    =    (unsigned char)-876160254;
  long long QKEMs;
  QKEMs = 1957017770;
     long long    ZAL4B_G;
@@ -133,7 +133,7 @@ int main(void)
  short yS0ZJh1;
  yS0ZJh1 = -339651885;
   short  Gj_247;
-  Gj_247  =  211114170;
+  Gj_247  =  (short)211114170;
   long double  P1_K5_8LO;
   P1_K5_8LO  =  -987417340;
     float    dg4ak9X16;
@@ -143,7 +143,7 @@ int main(void)
  int Khy2N;
  Khy2N = -2034588892;
  char Jg3b9MQaw;
- Jg3b9MQaw = 468632442;
+ Jg3b9MQaw = (char)468632442;
  unsigned int e_iniwtxE7;
  e_iniwtxE7 = -661041679;
     char    XoL0jR;
@@ -163,7 +163,7 @@ int main(void)
   long double  NkojUG;
   NkojUG  =  -1301125711;
  unsigned char ex13bV50_N;
- ex13bV50_N = 215175677;
+ ex13bV50_N = (unsigned char)215175677;
   char  yjPJQ;
   yjPJQ  =  (char)715450236;
   unsigned char  J7KY06530O;
@@ -173,7 +173,7 @@ int main(void)
 	double	a6LmA;
 	a6LmA	=	-134791722;
   short int  X2fc;
-  X2fc  =  1350435296;
+  X2fc  =  (short)1350435296;
 
 TE_q4S5D = (unsigned long)(srj9_3t);
 cout << "K0c9g43" << r1l09ge(1041234207) << "zL_O4G_v" << endl;
@@ -231,7 +231,7 @@ while (j >= 0);
 }
 else if (w3JS8g4_ & gNh2S8_tO)
 {
-XAR67YgoHs = q_MZ(Grf7L3p4B, 1446688749, -782013297, -1736985927) * 444130180;
+XAR67YgoHs = q_MZ(Grf7L3p4B, 1446688749, (unsigned char)-782013297, -1736985927) * 444130180;
 }
 else
 {
@@ -318,7 +318,7 @@ NkojUG = (int)ceil(P1_K5_8LO);
 }
 else
 {
-Dtm_U = q_MZ(1884148680, Khy2N, raPTMrolA, -795707879);
+Dtm_U = q_MZ((char)1884148680, Khy2N, raPTMrolA, -795707879);
 }
 }
 while (j < 8);
@@ -441,7 +441,7 @@ case 1:
 HUUa2B97 = HUUa2B97 | yNg7m;
 break;
 case 2:
-XoL0jR = y2bWncb8(XoL0jR, -295012926, xy_g64Rl);
+XoL0jR = y2bWncb8(XoL0jR, (unsigned char)-295012926, xy_g64Rl);
 break;
 case 3:
 HUUa2B97 = r1l09ge(HUUa2B97);
@@ -479,7 +479,7 @@ do
 int k = 9;
 while (k >= 0)
 {
-TJmKHP6 = q_MZ(-128034354, -1234014788, yS0ZJh1, dg4ak9X16);
+TJmKHP6 = q_MZ((char)-128034354, -1234014788, yS0ZJh1, dg4ak9X16);
 k--;
 }
 }
@@ -510,7 +510,7 @@ else if (g_965x5PGS > 7000863)
 {
 if (((QKEMs < 1439722250) && (Cs20_7jA3 <= 251829088)) || (Dtm_U))
 {
-gNh2S8_tO = q_MZ(1051011020, NjcEF, Ty0rhHS, VHHY5JSF7);
+gNh2S8_tO = q_MZ((char)1051011020, NjcEF, Ty0rhHS, VHHY5JSF7);
 }
 else
 {

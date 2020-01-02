@@ -10,7 +10,7 @@ using namespace std;
 
 int main(void) {
 	unsigned short	MlQytgY;
-	MlQytgY	=	1626921992;
+	MlQytgY	=	(unsigned short)1626921992;
     short    Ww2aHg74u;
     Ww2aHg74u    =    (short)-58749059;
   double  xAd5l;
@@ -20,7 +20,7 @@ int main(void) {
  int ebVfP6F;
  ebVfP6F = -593448404;
  short int bdHbS;
- bdHbS = 1095086044;
+ bdHbS = (short)1095086044;
     int    l965;
     l965    =    -286720345;
     unsigned char    M2ONt1;
@@ -30,7 +30,7 @@ int main(void) {
  unsigned short int ghHe;
  ghHe = -990223555;
  unsigned short int UgKYa99Y39;
- UgKYa99Y39 = 195565588;
+ UgKYa99Y39 = (unsigned short)195565588;
     short    Ctu05MJ_;
     Ctu05MJ_    =    -1152201285;
   short int  iDd544KXT6;
@@ -50,7 +50,7 @@ int main(void) {
 	unsigned char	DOc4Dm;
 	DOc4Dm	=	0;
   unsigned char  CXAbAMG37;
-  CXAbAMG37  =  372913808;
+  CXAbAMG37  =  (unsigned char)372913808;
  int K81PPA;
  K81PPA = 1794883894;
   char  AS05CHc;
@@ -60,7 +60,7 @@ int main(void) {
  float o9G1;
  o9G1 = 2012370216;
     unsigned short int    V3UYpM_I;
-    V3UYpM_I    =    -31416699;
+    V3UYpM_I    =    (unsigned short)-31416699;
     short    e_3tgO7U;
     e_3tgO7U    =    -662530374;
  int HrBROl78_;
@@ -70,7 +70,7 @@ int main(void) {
 	char	o5MsXB4;
 	o5MsXB4	=	0;
  unsigned char wAAZ5o;
- wAAZ5o = 1728492377;
+ wAAZ5o = (unsigned char)1728492377;
     long double    c__FL;
     c__FL    =    1785069798;
     unsigned short    fY4_c;
@@ -84,7 +84,7 @@ int main(void) {
 	int	Jds3kV;
 	Jds3kV	=	-1621894390;
  unsigned short L74cTTj6;
- L74cTTj6 = -1258066719;
+ L74cTTj6 = (unsigned short)-1258066719;
  long long eb5qQpmTOB;
  eb5qQpmTOB = -992973765;
 

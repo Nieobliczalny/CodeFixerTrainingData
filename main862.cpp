@@ -87,7 +87,7 @@ y1JDe86pFd = y1JDe86pFd / 1035441632;
 }
 else if ((q9Nd >= -1870079771) && (LXzb & -1449183246))
 {
-AS1gz = (ec_D_ > NcJl7) ? R5V7mzn : -667484266;
+AS1gz = (ec_D_ > NcJl7) ? R5V7mzn : (unsigned char)-667484266;
 }
 else
 {
@@ -107,7 +107,7 @@ else if (NcJl7 <= yE4UWv5D)
 int k = 0;
 while (k < 10)
 {
-c4JR = (ec_D_ == yE4UWv5D) ? y1JDe86pFd : -1025103632;
+c4JR = (ec_D_ == yE4UWv5D) ? y1JDe86pFd : (unsigned char)-1025103632;
 ++k;
 }
 }

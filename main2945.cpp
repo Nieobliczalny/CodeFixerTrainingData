@@ -15,7 +15,7 @@ using std::floor;
 int main(void)
 {
     unsigned char    Z6O7;
-    Z6O7    =    438142559;
+    Z6O7    =    (unsigned char)438142559;
  unsigned short int K_9ne8L_;
  K_9ne8L_ = (unsigned short)-1388881635;
     short    Ffhlq;
@@ -29,7 +29,7 @@ int main(void)
   long double  NZ_R5w8;
   NZ_R5w8  =  -1726982608;
 	short	QB_vD_D36U;
-	QB_vD_D36U	=	-1026641463;
+	QB_vD_D36U	=	(short)-1026641463;
   int  yAwzm69;
   yAwzm69  =  2109082950;
   unsigned short int  q9Iuvg69Y;
@@ -41,7 +41,7 @@ int main(void)
   double  oZW6A;
   oZW6A  =  -84418757;
   short  fTHiqb5r;
-  fTHiqb5r  =  -839482640;
+  fTHiqb5r  =  (short)-839482640;
  short QlcA0;
  QlcA0 = (short)250877717;
 	long	U86Z;
@@ -51,7 +51,7 @@ int main(void)
  int SgeEE;
  SgeEE = -267683700;
   unsigned char  evaeT614u;
-  evaeT614u  =  1559930191;
+  evaeT614u  =  (unsigned char)1559930191;
     unsigned char    TuO7t3;
     TuO7t3    =    0;
   long  yBEO6;
@@ -65,7 +65,7 @@ int main(void)
 	float	m3ZM;
 	m3ZM	=	-1755234763;
     unsigned char    aZ08;
-    aZ08    =    1924126776;
+    aZ08    =    (unsigned char)1924126776;
   unsigned short  zbEJ73IgFM;
   zbEJ73IgFM  =  (unsigned short)2136811153;
  short h9gbSDj;
@@ -75,7 +75,7 @@ int main(void)
   unsigned long  hccz;
   hccz  =  1287276521;
   char  t9zW;
-  t9zW  =  643202414;
+  t9zW  =  (char)643202414;
 	int	Uhbz;
 	Uhbz	=	774794430;
 	char	z40r_1pvE;
@@ -87,7 +87,7 @@ int main(void)
 	unsigned long long	NLzT1hUumM;
 	NLzT1hUumM	=	-1534642070;
     char    RwUuXpljQ;
-    RwUuXpljQ    =    -681404367;
+    RwUuXpljQ    =    (char)-681404367;
   unsigned char  X93yWj9Jc;
   X93yWj9Jc  =  (unsigned char)1826726110;
  unsigned short PieMo3xp4;
@@ -99,7 +99,7 @@ int main(void)
   unsigned int  Fzse6;
   Fzse6  =  766848714;
     unsigned short    KawN;
-    KawN    =    1906123654;
+    KawN    =    (unsigned short)1906123654;
 	unsigned long long	a9S4;
 	a9S4	=	-1591302960;
   short  tWTaOy;
@@ -113,7 +113,7 @@ int main(void)
     float    YVyRX;
     YVyRX    =    1195538854;
  short fr607e_i2;
- fr607e_i2 = 106970965;
+ fr607e_i2 = (short)106970965;
     unsigned long    q040;
     q040    =    -1530860825;
   long long  hoY9_;
@@ -125,7 +125,7 @@ int main(void)
   unsigned long  m_mDw7Ch;
   m_mDw7Ch  =  947125497;
   unsigned char  vgN034Y;
-  vgN034Y  =  651326244;
+  vgN034Y  =  (unsigned char)651326244;
  long double wX3oykG3L;
  wX3oykG3L = -1700537533;
 	short	gU3e4wA;

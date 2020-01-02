@@ -128,7 +128,7 @@ while (j >= 0)
 --j;
 for (int k = 0; k < 1; k++)
 {
-TG2e_M = x26DdLG8(-602300759, (unsigned char)-2100421878, EOPhrUeJ1V);
+TG2e_M = x26DdLG8((char)-602300759, (unsigned char)-2100421878, EOPhrUeJ1V);
 }
 }
 }
@@ -173,7 +173,7 @@ case 'b':
 cg_cs <<= aE2rZ;
 break;
 case 'c':
-m78_o7Wnuf = x26DdLG8(954170912, (unsigned char)-41549665, f213U3VW);
+m78_o7Wnuf = x26DdLG8((char)954170912, (unsigned char)-41549665, f213U3VW);
 break;
 case 'd':
 xSq4_147g6 = W8gL05FTd ^ 717759633;
@@ -188,7 +188,7 @@ case 'g':
 xSq4_147g6 += u8wb3_GO;
 break;
 case 'h':
-R6NvB665N = coVQ4Z(-961225154, 257856452, -1629060150);
+R6NvB665N = coVQ4Z((short)-961225154, 257856452, -1629060150);
 break;
 case 'i':
 W_3H66d9si = Y4EG7vOk(-1071070016, FIro, cg_cs, Gz8uHB8);
@@ -213,7 +213,7 @@ case 'd':
 b4IWyKn = (int)abs(W5O2pt);
 break;
 case 'e':
-w7UEBGnLbY = x26DdLG8(-1439489720, (unsigned char)-1248447185, QDFXd);
+w7UEBGnLbY = x26DdLG8((char)-1439489720, (unsigned char)-1248447185, QDFXd);
 break;
 case 'f':
 x714 = fo_c();
@@ -253,7 +253,7 @@ return 0;
 
 short int fo_c()
 {
- return 87374303;
+ return (short)87374303;
 }
 
 long long	z6LOe()	{

@@ -23,7 +23,7 @@ int  El9uSZ0xLh(char  PfRgCF9jJa,long  gWV8)
 }
 
 unsigned short int RH9X36B209(unsigned short NXe2qP6,short e_260) {
- return -91471244;
+ return (unsigned short)-91471244;
 }
 
 unsigned long  a4zF8(unsigned long  yvK4,unsigned int  ZBg_no)
@@ -33,7 +33,7 @@ unsigned long  a4zF8(unsigned long  yvK4,unsigned int  ZBg_no)
 
 unsigned short int  iU6zEG5L3w(unsigned short int  u7hnIeDF,unsigned short int  Adz4iHR,unsigned short  qe7_2L29fV,long long  dw_N5fE)
 {
-  return  767373561;
+  return  (unsigned short)767373561;
 }
 
 int main(void) {
@@ -82,7 +82,7 @@ case 4:
 xsaXu5I = (int)abs(pq4MPBz);
 break;
 case 5:
-k30v = RH9X36B209(k30v, 157198976);
+k30v = RH9X36B209(k30v, (short)157198976);
 break;
 case 6:
 nMGTt4 *= 1274459563;
@@ -135,7 +135,7 @@ Q0U2pFm4 -= ZMMRS2033m;
 }
 else if (as_iON6lb <= -1119906939)
 {
-as_iON6lb = iU6zEG5L3w(-502401533, as_iON6lb, (unsigned short)-1813591289, Q0U2pFm4);
+as_iON6lb = iU6zEG5L3w((unsigned short)-502401533, as_iON6lb, (unsigned short)-1813591289, Q0U2pFm4);
 }
 else if (ZMMRS2033m > -1076419319)
 {
@@ -174,7 +174,7 @@ while (j >= 0)
 {
 if (ZMMRS2033m > 1467343165)
 {
-pH7yW27XV = iU6zEG5L3w(-142351806, nMGTt4, as_iON6lb, -149460359);
+pH7yW27XV = iU6zEG5L3w((unsigned short)-142351806, nMGTt4, as_iON6lb, -149460359);
 }
 --j;
 }
@@ -188,7 +188,7 @@ switch (xsaXu5I)
 {
 case 'a':
 case 'A':
-nMGTt4 = iU6zEG5L3w(pH7yW27XV, 455372908, as_iON6lb, -1403884974) / 275367915;
+nMGTt4 = iU6zEG5L3w(pH7yW27XV, (unsigned short)455372908, as_iON6lb, -1403884974) / 275367915;
 break;
 case 'b':
 case 'B':
@@ -220,7 +220,7 @@ as_iON6lb = (int)abs(xsaXu5I);
 break;
 case 'i':
 case 'I':
-k30v = El9uSZ0xLh(-898471577, q17oq);
+k30v = El9uSZ0xLh((char)-898471577, q17oq);
 break;
 }
 }
@@ -238,7 +238,7 @@ as_iON6lb = (long long)(xsaXu5I);
 int i = 5;
 while (i >= 0)
 {
-pH7yW27XV = iU6zEG5L3w(-1666168677, xsaXu5I, k30v, nMGTt4);
+pH7yW27XV = iU6zEG5L3w((unsigned short)-1666168677, xsaXu5I, k30v, nMGTt4);
 i--;
 }
 }
@@ -263,7 +263,7 @@ j--;
 }
 if (((k30v) && (nMGTt4 < -1208547335)) && (Q0U2pFm4 == k30v))
 {
-q17oq = RH9X36B209(417225080, (short)-762066841) - 1381637177;
+q17oq = RH9X36B209((unsigned short)417225080, (short)-762066841) - 1381637177;
 }
 else if (Z01HqI4dY <= 995523988)
 {
@@ -289,7 +289,7 @@ int k = 9;
 while (k >= 0)
 {
 --k;
-nMGTt4 = RH9X36B209(97651709, ATvzuWa);
+nMGTt4 = RH9X36B209((unsigned short)97651709, ATvzuWa);
 }
 }
 }

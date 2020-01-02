@@ -14,7 +14,7 @@ unsigned long long	weMN_y()	{
 
 short  pa2r2yT1iT(int  xV_U,unsigned short  KHUdsUPE)
 {
-  return  -814517554;
+  return  (short)-814517554;
 }
 
 short int	iRxbY2e_(unsigned short int	UEb5dBq)
@@ -101,7 +101,7 @@ do
 int k = 0;
 do
 {
-JOP9N = pa2r2yT1iT(JOP9N, 1870444461);
+JOP9N = pa2r2yT1iT(JOP9N, (unsigned short)1870444461);
 k++;
 }
 while (k < 3);
@@ -137,7 +137,7 @@ try
 {
 try
 {
-cout << pa2r2yT1iT(-138849981, 1368736102) << endl;
+cout << pa2r2yT1iT(-138849981, (unsigned short)1368736102) << endl;
 }
 catch (int& errorCode)
 {
@@ -150,7 +150,7 @@ FZozXx = (int)floor(EXJ0YO56);
 }
 
 cout << HuxmbA << endl;
-if (iRxbY2e_(-2106376762) == 0)
+if (iRxbY2e_((unsigned short)-2106376762) == 0)
 {
 	P78YaTE = 343598827 / iRxbY2e_((unsigned short)-2106376762);
 }

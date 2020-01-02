@@ -29,7 +29,7 @@ int main(int argc, char** argv) {
 
 if (g6D_J != -20257247)
 {
-std::cout << c6uKvk(-1826124228, ww684u4BlF, 638299211) << JL279WR << std::endl;
+std::cout << c6uKvk((unsigned short)-1826124228, ww684u4BlF, 638299211) << JL279WR << std::endl;
 }
 else if (v6Co != JL279WR)
 {
@@ -41,7 +41,7 @@ JL279WR *= 898442561;
 }
 else if (ww684u4BlF <= JK0QevZ2Kb)
 {
-JK0QevZ2Kb = c6uKvk(JL279WR, 1923091954, v6Co);
+JK0QevZ2Kb = c6uKvk(JL279WR, (short)1923091954, v6Co);
 }
 else
 {
@@ -52,7 +52,7 @@ else if ((v6Co) || (pvH50uzr <= v6Co))
 {
 try
 {
-JK0QevZ2Kb = c6uKvk(ww684u4BlF, -668721712, JK0QevZ2Kb);
+JK0QevZ2Kb = c6uKvk(ww684u4BlF, (short)-668721712, JK0QevZ2Kb);
 }
 catch (int& errorCode)
 {
@@ -67,7 +67,7 @@ case 0:
 g6D_J = (int)ceil(JL279WR);
 break;
 case 1:
-pvH50uzr = (JL279WR != -1411722030) ? -1707113800 : c6uKvk(1534160438, (short)24067038, JK0QevZ2Kb);
+pvH50uzr = (JL279WR != -1411722030) ? -1707113800 : c6uKvk((unsigned short)1534160438, (short)24067038, JK0QevZ2Kb);
 break;
 case 2:
 JK0QevZ2Kb = c6uKvk(g6D_J, -1916508244, pvH50uzr);
@@ -79,7 +79,7 @@ case 4:
 JL279WR = (v6Co & JK0QevZ2Kb) ? g6D_J : ww684u4BlF;
 break;
 case 5:
-v6Co = c6uKvk(-2123023383, (short)-136156158, 1080354416);
+v6Co = c6uKvk((unsigned short)-2123023383, (short)-136156158, 1080354416);
 break;
 case 6:
 ww684u4BlF = (int)ceil(pvH50uzr);
@@ -91,7 +91,7 @@ case 8:
 ww684u4BlF = (int)floor(JL279WR);
 break;
 default:
-JK0QevZ2Kb = c6uKvk(615472137, (short)1212831264, 1598437543);
+JK0QevZ2Kb = c6uKvk((unsigned short)615472137, (short)1212831264, 1598437543);
 break;
 }
 }
@@ -152,7 +152,7 @@ g6D_J = (int)ceil(pvH50uzr);
 
 std::cout << JL279WR << JL279WR << std::endl;
 
-std::cout << c6uKvk(pvH50uzr, 330794369, -1560959481) << g6D_J << c6uKvk((unsigned short)-380354622, v6Co, -1999672257) << ww684u4BlF << std::endl;
+std::cout << c6uKvk(pvH50uzr, (short)330794369, -1560959481) << g6D_J << c6uKvk((unsigned short)-380354622, v6Co, -1999672257) << ww684u4BlF << std::endl;
 g6D_J = (float)(v6Co + (-965114957));
 
 for (int i = 0; i < 9; ++i)
@@ -163,7 +163,7 @@ case 'a':
 JK0QevZ2Kb = c6uKvk(pvH50uzr, JK0QevZ2Kb, g6D_J);
 break;
 case 'b':
-v6Co = c6uKvk(-1564514365, JL279WR, pvH50uzr);
+v6Co = c6uKvk((unsigned short)-1564514365, JL279WR, pvH50uzr);
 break;
 case 'c':
 g6D_J = ww684u4BlF - 636100784;
@@ -207,7 +207,7 @@ try
 {
 if (((JL279WR) && (g6D_J >= 1539828659)) || (JL279WR == -45705846))
 {
-JK0QevZ2Kb = c6uKvk(-1540086339, pvH50uzr, ww684u4BlF);
+JK0QevZ2Kb = c6uKvk((unsigned short)-1540086339, pvH50uzr, ww684u4BlF);
 }
 }
 catch (int& errorCode)
@@ -220,7 +220,7 @@ std::cout << v6Co << "Sus5" << c6uKvk((unsigned short)-2033698957, pvH50uzr, 114
 
 if (v6Co < -1097979067)
 {
-v6Co = c6uKvk(-311812008, JL279WR, 263896039);
+v6Co = c6uKvk((unsigned short)-311812008, JL279WR, 263896039);
 }
 else if ((JK0QevZ2Kb > 2035000935) || (v6Co >= -115292787))
 {
@@ -234,7 +234,7 @@ else if (JK0QevZ2Kb & v6Co)
 {
 try
 {
-std::cout << c6uKvk(v6Co, JL279WR, g6D_J) << c6uKvk(v6Co, 1168468299, g6D_J) << g6D_J << c6uKvk((unsigned short)1830730813, 255330841, g6D_J) << c6uKvk(-805292002, 2090657328, g6D_J) << std::endl;
+std::cout << c6uKvk(v6Co, JL279WR, g6D_J) << c6uKvk(v6Co, (short)1168468299, g6D_J) << g6D_J << c6uKvk((unsigned short)1830730813, 255330841, g6D_J) << c6uKvk(-805292002, 2090657328, g6D_J) << std::endl;
 }
 catch (int& errorCode)
 {
@@ -255,7 +255,7 @@ pvH50uzr = (int)floor(g6D_J);
 }
 else if (ww684u4BlF)
 {
-v6Co = c6uKvk(518984565, JK0QevZ2Kb, -340957927);
+v6Co = c6uKvk((unsigned short)518984565, JK0QevZ2Kb, -340957927);
 }
 else if (JL279WR >= 44935842)
 {
@@ -277,7 +277,7 @@ try
 {
 try
 {
-v6Co = c6uKvk(1622973510, pvH50uzr, -6281012);
+v6Co = c6uKvk((unsigned short)1622973510, pvH50uzr, -6281012);
 }
 catch (int& errorCode)
 {
@@ -292,7 +292,7 @@ v6Co = c6uKvk(v6Co, 15660483, -59081925);
 
 if ((JL279WR >= 1758442203) || (JK0QevZ2Kb < 243889572))
 {
-std::cout << JL279WR << JL279WR << c6uKvk(v6Co, JK0QevZ2Kb, 1557846628) << c6uKvk(v6Co, 1790356797, -1581151892) << "z_8g5" << std::endl;
+std::cout << JL279WR << JL279WR << c6uKvk(v6Co, JK0QevZ2Kb, 1557846628) << c6uKvk(v6Co, (short)1790356797, -1581151892) << "z_8g5" << std::endl;
 }
 else if (JK0QevZ2Kb != v6Co)
 {
@@ -304,7 +304,7 @@ if (((g6D_J) && (pvH50uzr >= -1484238155)) && ((JK0QevZ2Kb >= -335190011) && (ww
 {
 if (pvH50uzr >= g6D_J)
 {
-JK0QevZ2Kb = c6uKvk(JK0QevZ2Kb, -1992213226, v6Co);
+JK0QevZ2Kb = c6uKvk(JK0QevZ2Kb, (short)-1992213226, v6Co);
 }
 else
 {
@@ -337,7 +337,7 @@ v6Co = c6uKvk(v6Co, JK0QevZ2Kb, -818029470);
 }
 else if (((v6Co != 1333614521) || (ww684u4BlF != 1317824773)) && ((JL279WR == JK0QevZ2Kb) || (JL279WR != -1903286022)))
 {
-std::cout << c6uKvk(v6Co, JK0QevZ2Kb, -2020084277) << "dheIUq9v" << c6uKvk(v6Co, -837160342, 1510114076) << v6Co << std::endl;
+std::cout << c6uKvk(v6Co, JK0QevZ2Kb, -2020084277) << "dheIUq9v" << c6uKvk(v6Co, (short)-837160342, 1510114076) << v6Co << std::endl;
 }
 else if (JL279WR >= 594677438)
 {
@@ -349,7 +349,7 @@ case 0:
 g6D_J = pvH50uzr + 200009916;
 break;
 case 1:
-JK0QevZ2Kb = c6uKvk(JK0QevZ2Kb, 2103630704, 1670915356);
+JK0QevZ2Kb = c6uKvk(JK0QevZ2Kb, (short)2103630704, 1670915356);
 break;
 default:
 g6D_J = (g6D_J < 1167137145) ? g6D_J : c6uKvk(JK0QevZ2Kb, (short)732779414, -234695137);
@@ -363,7 +363,7 @@ v6Co = c6uKvk(ww684u4BlF, g6D_J, pvH50uzr);
 }
 else if (pvH50uzr <= -1146781834)
 {
-std::cout << c6uKvk(1777881225, (short)306743420, 2077613374) << "v7h3HyLJH" << std::endl;
+std::cout << c6uKvk((unsigned short)1777881225, (short)306743420, 2077613374) << "v7h3HyLJH" << std::endl;
 }
 else if (g6D_J >= v6Co)
 {
@@ -391,7 +391,7 @@ int k = 9;
 while (k >= 0)
 {
 k--;
-v6Co = c6uKvk(1668846024, (short)-1930059914, -229083590);
+v6Co = c6uKvk((unsigned short)1668846024, (short)-1930059914, -229083590);
 }
 }
 }

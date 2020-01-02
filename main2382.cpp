@@ -433,7 +433,7 @@ return 0;
 }
 
 short	YJdk(unsigned long	R3Pi)	{
-	return	-1167046956;
+	return	(short)-1167046956;
 }
 
 long    i3Lw()

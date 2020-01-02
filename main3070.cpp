@@ -12,7 +12,7 @@ int main(void) {
  long long I8L3PLkSQM = -631424252;
   long long  s8mT5fmMK  =  -1938994353;
  unsigned long long BqejR = -676029501;
- char jk6gTxQ = 65752813;
+ char jk6gTxQ = (char)65752813;
 	double	yw4n70	=	-2018765307;
  long double rL23B = -140694098;
  char Y0T_20IDjO = (char)1359653811;
@@ -24,7 +24,7 @@ int main(void) {
  unsigned short int U1k12HAd0 = 1200405984;
  int F5103gnM = 0;
     unsigned int    R3g2_3Gx    =    789573085;
-	char	X9cS	=	92961086;
+	char	X9cS	=	(char)92961086;
   float  ziS2Jo  =  -543319204;
 
 std::cout << rL23B << yw4n70 << std::endl;

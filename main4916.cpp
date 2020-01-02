@@ -33,7 +33,7 @@ int main(void)
 	unsigned long long	s9rM;
 	s9rM	=	-886986163;
     unsigned short    nB015iw;
-    nB015iw    =    -1340707469;
+    nB015iw    =    (unsigned short)-1340707469;
 	unsigned short int	Hz200FgQz3;
 	Hz200FgQz3	=	(unsigned short)-210963674;
 	unsigned char	wl7F_QC;
@@ -47,7 +47,7 @@ int main(void)
  double zd02;
  zd02 = 1097340003;
  unsigned char l_64D08;
- l_64D08 = 776838985;
+ l_64D08 = (unsigned char)776838985;
  unsigned char M_6LI;
  M_6LI = (unsigned char)1992361024;
   long long  e0i331;
@@ -61,7 +61,7 @@ int main(void)
  long R_Af_M3;
  R_Af_M3 = 700083314;
 	unsigned short	x_6euM;
-	x_6euM	=	28712410;
+	x_6euM	=	(unsigned short)28712410;
     short int    k55Ig1m;
     k55Ig1m    =    (short)30513787;
 	unsigned short	P7n43_STm;
@@ -73,7 +73,7 @@ int main(void)
   long double  WWTho;
   WWTho  =  540266234;
 	unsigned short int	yV6Zb6YMJ;
-	yV6Zb6YMJ	=	1953932339;
+	yV6Zb6YMJ	=	(unsigned short)1953932339;
  char DKDrLu6;
  DKDrLu6 = (char)551002836;
  unsigned short b0XqL3;
@@ -83,7 +83,7 @@ int main(void)
 	short int	nGP1;
 	nGP1	=	-1337089356;
   unsigned short  Daec55la;
-  Daec55la  =  -178263388;
+  Daec55la  =  (unsigned short)-178263388;
   long double  HNOX;
   HNOX  =  2083089672;
   int  CTZWJ_0b;
@@ -93,7 +93,7 @@ int main(void)
   double  L99r0tD;
   L99r0tD  =  263452476;
     short int    ujI8ur_;
-    ujI8ur_    =    -877628664;
+    ujI8ur_    =    (short)-877628664;
 	unsigned int	jQdg1;
 	jQdg1	=	-194275091;
 	unsigned char	f_9y1EP;
@@ -107,7 +107,7 @@ int main(void)
   long long  bE5D;
   bE5D  =  599641389;
  short V04G;
- V04G = 1946316957;
+ V04G = (short)1946316957;
 	int	B5xIZH3a2;
 	B5xIZH3a2	=	1334261675;
   short  U8bZZ6T;
@@ -117,7 +117,7 @@ int main(void)
   unsigned char  e3EX6;
   e3EX6  =  422435439;
 	unsigned short int	eB9x2;
-	eB9x2	=	-157430322;
+	eB9x2	=	(unsigned short)-157430322;
 
 std::cout << "B0j9_9" << Rc50 << Rc50 << F3GfgYyEwM << Xl418BBj_6 << std::endl;
 

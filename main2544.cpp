@@ -37,7 +37,7 @@ for (int i = 0; i < 7; i++)
 std::cout << "qeEu0" << "duTBxtVE9" << "zG4B" << std::endl;
 }
 W0olZ = FQo20 / Fbrb5(1265445246);
-std::cout << Iq4eJQ_(-1986313090, -1690001600, nVG3yZDMA, 749326652, I_51_ujGtP) << "exhtD_ejSs" << Y3uBo25P5 << std::endl;
+std::cout << Iq4eJQ_((unsigned short)-1986313090, -1690001600, nVG3yZDMA, 749326652, I_51_ujGtP) << "exhtD_ejSs" << Y3uBo25P5 << std::endl;
 {
 int i = 0;
 do
@@ -116,7 +116,7 @@ case 'd':
 B4Gj = Iq4eJQ_(B4Gj, 184409477, f7rK56416, -440939771, FQo20);
 break;
 case 'e':
-B4Gj = Iq4eJQ_(-1523405917, Y3uBo25P5, (short)-15512250, 764128835, -598807271);
+B4Gj = Iq4eJQ_((unsigned short)-1523405917, Y3uBo25P5, (short)-15512250, 764128835, -598807271);
 break;
 case 'f':
 BUx_ = (B4Gj != 175551697) ? 477690082 : I_51_ujGtP;
@@ -176,7 +176,7 @@ while (i < 2)
 {
 if ((f7rK56416 == -1533507536) && ((B4Gj >= R80__wI4b) && (nVG3yZDMA < R80__wI4b)))
 {
-FQo20 = Iq4eJQ_(zzAsPQJ, FQo20, -907167906, eUIl5hQ8, nVG3yZDMA);
+FQo20 = Iq4eJQ_(zzAsPQJ, FQo20, (short)-907167906, eUIl5hQ8, nVG3yZDMA);
 }
 else if (g227E > R80__wI4b)
 {
@@ -228,7 +228,7 @@ c1q3o63I /= g227E;
 break;
 case 'c':
 case 'C':
-g227E = Iq4eJQ_(g227E, I0i4K5Owg, 1394570882, c1q3o63I, 705091387);
+g227E = Iq4eJQ_(g227E, I0i4K5Owg, (short)1394570882, c1q3o63I, 705091387);
 break;
 case 'd':
 case 'D':
@@ -240,7 +240,7 @@ I_51_ujGtP = (int)ceil(FQo20);
 break;
 case 'f':
 case 'F':
-g227E = Iq4eJQ_(-568486968, 1070989015, f7rK56416, 1133185146, c1q3o63I);
+g227E = Iq4eJQ_((unsigned short)-568486968, 1070989015, f7rK56416, 1133185146, c1q3o63I);
 break;
 case 'g':
 case 'G':
@@ -296,7 +296,7 @@ case 'F':
 BUx_ = (int)abs(W0olZ);
 break;
 default:
-eUIl5hQ8 = Iq4eJQ_(eUIl5hQ8, 1009940400, 1701959402, BUx_, c1q3o63I);
+eUIl5hQ8 = Iq4eJQ_(eUIl5hQ8, 1009940400, (short)1701959402, BUx_, c1q3o63I);
 break;
 }
 if (zzAsPQJ & -1420147773)
@@ -313,7 +313,7 @@ zzAsPQJ = Fbrb5(-1216916616);
 switch (zzAsPQJ)
 {
 case 0:
-w_siZC = Iq4eJQ_(1648979449, c1q3o63I, eUIl5hQ8, -1263407325, -1989338436);
+w_siZC = Iq4eJQ_((unsigned short)1648979449, c1q3o63I, eUIl5hQ8, -1263407325, -1989338436);
 break;
 case 1:
 Y3uBo25P5 = (int)floor(B4Gj);

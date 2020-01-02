@@ -12,7 +12,7 @@ using namespace std;
 
 int main(int argc, char** argv) {
 	unsigned short int	jXMe155;
-	jXMe155	=	-558041951;
+	jXMe155	=	(unsigned short)-558041951;
   short  Y72DiCCG5f;
   Y72DiCCG5f  =  0;
 	float	zQz4NC;
@@ -26,7 +26,7 @@ int main(int argc, char** argv) {
     long long    nsJv0UCUG;
     nsJv0UCUG    =    -1958118858;
     short    v8j2;
-    v8j2    =    1001360003;
+    v8j2    =    (short)1001360003;
 	unsigned long	w51y1K5;
 	w51y1K5	=	1766128244;
     unsigned short int    js2Uny;
@@ -46,7 +46,7 @@ int main(int argc, char** argv) {
     long double    lf42D;
     lf42D    =    1011227108;
     unsigned char    e9tl;
-    e9tl    =    309005731;
+    e9tl    =    (unsigned char)309005731;
     long long    VOcz5_;
     VOcz5_    =    816665676;
   unsigned short  Ld3N043;
@@ -58,7 +58,7 @@ int main(int argc, char** argv) {
 	short	j9kfp0lpT;
 	j9kfp0lpT	=	0;
     short    xDIg3g_y2H;
-    xDIg3g_y2H    =    1993031859;
+    xDIg3g_y2H    =    (short)1993031859;
   unsigned long  vw_gdz58_;
   vw_gdz58_  =  0;
 	long	DkvS;
@@ -68,7 +68,7 @@ int main(int argc, char** argv) {
   long  tv58;
   tv58  =  1813811839;
   unsigned char  G0f9_UUYr;
-  G0f9_UUYr  =  -1391566105;
+  G0f9_UUYr  =  (unsigned char)-1391566105;
     int    I39qjQuYSM;
     I39qjQuYSM    =    -1765310555;
   long long  v16N1;
@@ -80,7 +80,7 @@ int main(int argc, char** argv) {
   long double  Jpy1K;
   Jpy1K  =  868897673;
     short int    tWl5S2;
-    tWl5S2    =    -1580409535;
+    tWl5S2    =    (short)-1580409535;
 
 if (j9kfp0lpT >= y58g)
 {

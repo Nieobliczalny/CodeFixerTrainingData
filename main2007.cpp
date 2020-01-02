@@ -35,7 +35,7 @@ while (j >= 0);
 }
 else
 {
-std::cout << XeDXYu7_b(48070944, wXHHN, wbxWEci, 108205448) << BD9E0RXmQ(bDSQOhP, wXHHN) << std::endl;
+std::cout << XeDXYu7_b((short)48070944, wXHHN, wbxWEci, 108205448) << BD9E0RXmQ(bDSQOhP, wXHHN) << std::endl;
 }
 {
 int i = 10;
@@ -51,7 +51,7 @@ do
 {
 if ((K1n6R9YUA) && ((mB2f8NG & 1824426270) && (mM_9 == s55_FGm)))
 {
-std::cout << XeDXYu7_b(-1825435094, 1609389759, wbxWEci, -26326506) << BD9E0RXmQ(bDSQOhP, (unsigned short)1663553691) << BD9E0RXmQ(bDSQOhP, -2138369007) << std::endl;
+std::cout << XeDXYu7_b((short)-1825435094, 1609389759, wbxWEci, -26326506) << BD9E0RXmQ(bDSQOhP, (unsigned short)1663553691) << BD9E0RXmQ(bDSQOhP, -2138369007) << std::endl;
 }
 else if (bDSQOhP == p375D0pIb)
 {
@@ -75,7 +75,7 @@ s55_FGm += wbxWEci;
 break;
 }
 
-std::cout << XeDXYu7_b(389219559, wXHHN, wbxWEci, lRYLpFNI_) << wXHHN << ps1uIp95 << XeDXYu7_b((short)2107655732, wXHHN, wbxWEci, lRYLpFNI_) << std::endl;
+std::cout << XeDXYu7_b((short)389219559, wXHHN, wbxWEci, lRYLpFNI_) << wXHHN << ps1uIp95 << XeDXYu7_b((short)2107655732, wXHHN, wbxWEci, lRYLpFNI_) << std::endl;
 
 std::cout << KC_ib4 << "YIOb_53ZY" << BD9E0RXmQ(bDSQOhP, 807549086) << BD9E0RXmQ(bDSQOhP, -641293426) << std::endl;
 return 0;

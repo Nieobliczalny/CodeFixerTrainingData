@@ -45,7 +45,7 @@ case 0:
 L2o5beB2 %= 986217470;
 break;
 case 1:
-nhYzWQcC3 = SfHH2(787288805);
+nhYzWQcC3 = SfHH2((short)787288805);
 break;
 case 2:
 Xa4HigkHy = SfHH2(Qt_dmdC);
@@ -87,7 +87,7 @@ catch (int& errorCode)
 uE3kTN = SfHH2(A7cPxd) | 486124522;
 }
 
-nhYzWQcC3 = SfHH2(-2035600649);
+nhYzWQcC3 = SfHH2((short)-2035600649);
 
 if (Z6s2tPe)
 {
@@ -105,7 +105,7 @@ case 'a':
 nhYzWQcC3 = SfHH2(Q9193h2);
 break;
 case 'b':
-Xa4HigkHy = SfHH2(-1539497918);
+Xa4HigkHy = SfHH2((short)-1539497918);
 break;
 }
 j++;
@@ -137,7 +137,7 @@ do
 {
 for (int k = 0; k < 10; ++k)
 {
-nhYzWQcC3 = SfHH2(2086129534);
+nhYzWQcC3 = SfHH2((short)2086129534);
 }
 j--;
 }
@@ -160,7 +160,7 @@ if (j9x_)
 int k = 0;
 while (k < 6)
 {
-nhYzWQcC3 = SfHH2(-1180220607);
+nhYzWQcC3 = SfHH2((short)-1180220607);
 k++;
 }
 }
@@ -172,7 +172,7 @@ cout << "N4_EA0Q" << swnrv4 << SfHH2((short)1586707398) << "rK8vBF4" << SfHH2(-2
 }
 else if ((mJR7J3j == 1469525846) && (C2ib4 != tf90hK9))
 {
-Xa4HigkHy = SfHH2(1025143614);
+Xa4HigkHy = SfHH2((short)1025143614);
 }
 else
 {

@@ -21,7 +21,7 @@ int main(int argc, char** argv)
 
 try
 {
-o_142n7p = C_d56(-324651434, L24Yq, FZq8SJX_);
+o_142n7p = C_d56((unsigned short)-324651434, L24Yq, FZq8SJX_);
 }
 catch (int& errorCode)
 {
@@ -44,7 +44,7 @@ for (int j = 0; j < 9; ++j)
 int k = 0;
 do
 {
-FZq8SJX_ = QF99Tg93V(136873869, 1970192110, -1271378412);
+FZq8SJX_ = QF99Tg93V(136873869, (unsigned char)1970192110, -1271378412);
 ++k;
 }
 while (k < 8);
@@ -108,7 +108,7 @@ case 'a':
 o_142n7p = k_sT();
 break;
 case 'b':
-FZq8SJX_ = QF99Tg93V(L24Yq, -42180151, FZq8SJX_);
+FZq8SJX_ = QF99Tg93V(L24Yq, (unsigned char)-42180151, FZq8SJX_);
 break;
 default:
 L24Yq -= 739431704;
@@ -123,7 +123,7 @@ try
 {
 if (L24Yq & 893986461)
 {
-o_142n7p = C_d56(-1094127888, (unsigned short)1676324815, 124534524);
+o_142n7p = C_d56((unsigned short)-1094127888, (unsigned short)1676324815, 124534524);
 }
 }
 catch (int& errorCode)
@@ -174,7 +174,7 @@ if (o_142n7p != 49803763)
 switch (o_142n7p)
 {
 case 0:
-o_142n7p = C_d56(-813138285, FZq8SJX_, L24Yq);
+o_142n7p = C_d56((unsigned short)-813138285, FZq8SJX_, L24Yq);
 break;
 case 1:
 FZq8SJX_ = QF99Tg93V(o_142n7p, L24Yq, FZq8SJX_);
@@ -186,7 +186,7 @@ case 3:
 FZq8SJX_ = (int)abs(L24Yq) * 0;
 break;
 case 4:
-L24Yq = C_d56(445317427, (unsigned short)-1814932458, o_142n7p);
+L24Yq = C_d56((unsigned short)445317427, (unsigned short)-1814932458, o_142n7p);
 break;
 case 5:
 L24Yq = C_d56(L24Yq, -1743327543, 1466178045);
@@ -244,7 +244,7 @@ case 0:
 o_142n7p >>= 678043555;
 break;
 case 1:
-FZq8SJX_ = QF99Tg93V(-1411482295, 267669820, -1586600733);
+FZq8SJX_ = QF99Tg93V(-1411482295, (unsigned char)267669820, -1586600733);
 break;
 case 2:
 L24Yq <<= o_142n7p;
@@ -272,7 +272,7 @@ case 1:
 L24Yq = (int)abs(FZq8SJX_) + (2042421061);
 break;
 case 2:
-FZq8SJX_ = QF99Tg93V(L24Yq, 1964438431, o_142n7p);
+FZq8SJX_ = QF99Tg93V(L24Yq, (unsigned char)1964438431, o_142n7p);
 break;
 case 3:
 FZq8SJX_ = QF99Tg93V(1606292629, FZq8SJX_, L24Yq);
@@ -287,7 +287,7 @@ case 6:
 o_142n7p /= FZq8SJX_;
 break;
 case 7:
-L24Yq = C_d56(L24Yq, -1769596153, FZq8SJX_);
+L24Yq = C_d56(L24Yq, (unsigned short)-1769596153, FZq8SJX_);
 break;
 case 8:
 o_142n7p = o_142n7p & L24Yq;
@@ -302,7 +302,7 @@ case 'b':
 o_142n7p = (L24Yq == FZq8SJX_) ? FZq8SJX_ : o_142n7p;
 break;
 case 'c':
-L24Yq = C_d56(FZq8SJX_, 203661921, o_142n7p);
+L24Yq = C_d56(FZq8SJX_, (unsigned short)203661921, o_142n7p);
 break;
 case 'd':
 L24Yq = L24Yq & 1623262613;
@@ -331,7 +331,7 @@ unsigned long  C_d56(unsigned short  gH821,unsigned short  La_WDR191,unsigned in
 
 short int k_sT()
 {
- return -251366983;
+ return (short)-251366983;
 }
 
 unsigned char  QF99Tg93V(long  xpo0_Y_482,unsigned char  oxRudB,unsigned int  W8tYcHRL)

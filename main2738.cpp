@@ -11,7 +11,7 @@ using namespace std;
 int main()
 {
 	short	Y347D;
-	Y347D	=	1423150185;
+	Y347D	=	(short)1423150185;
   unsigned long  G4s_06W;
   G4s_06W  =  -1533146311;
     unsigned int    Mwglh7Pq;
@@ -21,7 +21,7 @@ int main()
 	long	ravmr;
 	ravmr	=	0;
     short int    CKXReY3r;
-    CKXReY3r    =    542897375;
+    CKXReY3r    =    (short)542897375;
  unsigned long long NiG61qjl;
  NiG61qjl = 1531893712;
     unsigned short    J7Rgm9e;
@@ -31,7 +31,7 @@ int main()
 	short	br7xnwwmBH;
 	br7xnwwmBH	=	(short)244481877;
   unsigned short  z2j__4a;
-  z2j__4a  =  -138321101;
+  z2j__4a  =  (unsigned short)-138321101;
  double k04H50;
  k04H50 = 1791599871;
 	unsigned long long	Pk_L1diTO;
@@ -45,7 +45,7 @@ int main()
   unsigned int  d3w5v;
   d3w5v  =  -1926507665;
  unsigned char X_ec;
- X_ec = 1795448409;
+ X_ec = (unsigned char)1795448409;
   unsigned short int  P_U_FJ3vO4;
   P_U_FJ3vO4  =  0;
  unsigned int dgk502;
@@ -61,7 +61,7 @@ int main()
     double    D9M65I2;
     D9M65I2    =    -1552222038;
   unsigned char  g6zra5k;
-  g6zra5k  =  1492193533;
+  g6zra5k  =  (unsigned char)1492193533;
   unsigned short int  wERKqdgz;
   wERKqdgz  =  (unsigned short)-619228522;
 	int	XeU1gvFH;

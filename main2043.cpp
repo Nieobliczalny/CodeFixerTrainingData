@@ -15,7 +15,7 @@ int main()
 	unsigned int	NcoJ;
 	NcoJ	=	1235704156;
     char    iAIu0;
-    iAIu0    =    885907382;
+    iAIu0    =    (char)885907382;
   unsigned short  pocE7Cux8X;
   pocE7Cux8X  =  (unsigned short)-1842373382;
     double    YHsEcS;
@@ -27,7 +27,7 @@ int main()
 	int	SDB9AKQ;
 	SDB9AKQ	=	859710909;
  unsigned short int ogdwI45UG;
- ogdwI45UG = -545776694;
+ ogdwI45UG = (unsigned short)-545776694;
   long long  QY9t0;
   QY9t0  =  0;
   unsigned long  to3l;
@@ -37,7 +37,7 @@ int main()
 	unsigned short	pELZmYxOK3;
 	pELZmYxOK3	=	(unsigned short)1350582799;
  short bTR_;
- bTR_ = -1599803568;
+ bTR_ = (short)-1599803568;
 	unsigned short int	vCcj7x;
 	vCcj7x	=	327164644;
   short int  D8kAw1;
@@ -51,7 +51,7 @@ int main()
 	unsigned long	hjytO8b_;
 	hjytO8b_	=	1609168146;
 	unsigned char	sry29J0_;
-	sry29J0_	=	1332826353;
+	sry29J0_	=	(unsigned char)1332826353;
 	long	s_9p4PN;
 	s_9p4PN	=	1136841390;
  char BibP;
@@ -61,7 +61,7 @@ int main()
   int  FsTdsVz;
   FsTdsVz  =  1241413091;
  unsigned short int x00L_V;
- x00L_V = 1230649579;
+ x00L_V = (unsigned short)1230649579;
     long    DJ9QFG;
     DJ9QFG    =    -1073513131;
   unsigned short  Dix0B_U6;
@@ -75,7 +75,7 @@ int main()
  long long b2qP5H2k0C;
  b2qP5H2k0C = 1670961024;
   unsigned short int  YlmZ7lrn9;
-  YlmZ7lrn9  =  -706315883;
+  YlmZ7lrn9  =  (unsigned short)-706315883;
   short  wsB3ybRs;
   wsB3ybRs  =  (short)1725273575;
 	unsigned long long	K70i5q8;
@@ -87,7 +87,7 @@ int main()
     unsigned int    H51Wi;
     H51Wi    =    1869488468;
 	char	l6vgI;
-	l6vgI	=	1635583005;
+	l6vgI	=	(char)1635583005;
   unsigned short int  I61rq7;
   I61rq7  =  (unsigned short)-851238285;
  double P9ll;
@@ -99,7 +99,7 @@ int main()
   unsigned short int  GB_y;
   GB_y  =  0;
     unsigned short int    n_925Dq;
-    n_925Dq    =    -1737331522;
+    n_925Dq    =    (unsigned short)-1737331522;
 	unsigned int	U6LrJ7;
 	U6LrJ7	=	997896070;
  unsigned short csmUUB0;
@@ -111,7 +111,7 @@ int main()
     unsigned int    kIbo2GqE36;
     kIbo2GqE36    =    1624424105;
   short int  A7v9rM;
-  A7v9rM  =  -848971795;
+  A7v9rM  =  (short)-848971795;
  int Vx7a;
  Vx7a = 0;
 

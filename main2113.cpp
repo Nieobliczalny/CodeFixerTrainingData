@@ -18,7 +18,7 @@ unsigned int    YBHoXD5()    {
 
 short int    uk77(unsigned long long    oEyXta9B)
 {
-    return    -245322356;
+    return    (short)-245322356;
 }
 
 int main(int argc, char** argv)
@@ -102,7 +102,7 @@ else
 {
 if (Y299Ae)
 {
-AY9pHg = (Y299Ae >= -389589576) ? uk77(NO375wb7) : -1568027996;
+AY9pHg = (Y299Ae >= -389589576) ? uk77(NO375wb7) : (char)-1568027996;
 }
 else
 {

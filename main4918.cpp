@@ -17,7 +17,7 @@ using std::floor;
 
 int main() {
   short  L6GbaIN_cd;
-  L6GbaIN_cd  =  -625492032;
+  L6GbaIN_cd  =  (short)-625492032;
     float    l457z;
     l457z    =    -1305088745;
   float  bqW_4Tq;

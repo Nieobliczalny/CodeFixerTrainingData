@@ -13,7 +13,7 @@ unsigned long    s77Gfgi(int    TaMoZM,short    hTzT9W3Cxr,unsigned short int   
 }
 
 short int	p10s7d(char	O2xwI4daE_)	{
-	return	1798425878;
+	return	(short)1798425878;
 }
 
 short ENpEs7v5()
@@ -28,7 +28,7 @@ unsigned long gEHXY5Cfr(unsigned int Opa4,unsigned short KUCde3g5)
 
 int main() {
   unsigned short  mM1_;
-  mM1_  =  720973672;
+  mM1_  =  (unsigned short)720973672;
 	unsigned long long	ye1E;
 	ye1E	=	74366651;
 	short int	EcxSOB;
@@ -38,7 +38,7 @@ int main() {
  unsigned short Sb17pPwE8;
  Sb17pPwE8 = -594440030;
 	char	j91BnRj;
-	j91BnRj	=	751592921;
+	j91BnRj	=	(char)751592921;
  short kYxZR5L;
  kYxZR5L = 0;
     char    gT990r;
@@ -48,7 +48,7 @@ int main() {
   float  fq9H7;
   fq9H7  =  -932481019;
   short int  S9AFj_4ZK5;
-  S9AFj_4ZK5  =  1835273412;
+  S9AFj_4ZK5  =  (short)1835273412;
   unsigned long long  rCoIvKdB;
   rCoIvKdB  =  509182021;
 	short int	jfA8U;
@@ -68,7 +68,7 @@ int main() {
     long long    C6Y_u;
     C6Y_u    =    -463122247;
     unsigned short int    q58X5pZz5;
-    q58X5pZz5    =    260500739;
+    q58X5pZz5    =    (unsigned short)260500739;
 
 j91BnRj = ENpEs7v5();
 
@@ -103,7 +103,7 @@ while (j < 10);
 }
 else if (cuquMYp4 == -1468707294)
 {
-std::cout << De5pjiEZ5 << s77Gfgi(C6Y_u, 453801506, Sb17pPwE8, (short)586272696) << std::endl;
+std::cout << De5pjiEZ5 << s77Gfgi(C6Y_u, (short)453801506, Sb17pPwE8, (short)586272696) << std::endl;
 }
 else
 {
@@ -115,7 +115,7 @@ j++;
 switch (w_u8p0Ht7x)
 {
 case 0:
-j91BnRj = (gT990r <= 1382712776) ? s77Gfgi(-1590781042, -34090165, (unsigned short)616943829, 1388912866) : mM1_;
+j91BnRj = (gT990r <= 1382712776) ? s77Gfgi(-1590781042, (short)-34090165, (unsigned short)616943829, 1388912866) : mM1_;
 break;
 case 1:
 gT990r = (int)abs(M5UJ_zSv) * 0;
@@ -145,7 +145,7 @@ catch (int& errorCode)
 R73n4 &= C6Y_u;
 }
 
-EcxSOB = gEHXY5Cfr(-1549017467, -1777206417) / gT990r;
+EcxSOB = gEHXY5Cfr(-1549017467, (unsigned short)-1777206417) / gT990r;
 
 for (int i = 0; i < 10; i++)
 {
@@ -174,7 +174,7 @@ do
 i--;
 try
 {
-std::cout << fq9H7 << "QS5l" << gEHXY5Cfr(575654661, 1350603712) << mM1_ << std::endl;
+std::cout << fq9H7 << "QS5l" << gEHXY5Cfr(575654661, (unsigned short)1350603712) << mM1_ << std::endl;
 }
 catch (int& errorCode)
 {
@@ -188,7 +188,7 @@ switch (Sb17pPwE8)
 {
 case 'a':
 case 'A':
-gT990r = s77Gfgi(-285535608, EcxSOB, -550629927, R73n4);
+gT990r = s77Gfgi(-285535608, EcxSOB, (unsigned short)-550629927, R73n4);
 break;
 case 'b':
 case 'B':

@@ -13,7 +13,7 @@ int main(void) {
     int    gNpt;
     gNpt    =    0;
 	unsigned short int	f6d_7C4;
-	f6d_7C4	=	-1677008640;
+	f6d_7C4	=	(unsigned short)-1677008640;
     unsigned long long    TUwO523U0;
     TUwO523U0    =    0;
 	short	rfFE;
@@ -37,7 +37,7 @@ int main(void) {
 	unsigned short int	qez1w01;
 	qez1w01	=	0;
   unsigned char  Z9o0d1e;
-  Z9o0d1e  =  -533156166;
+  Z9o0d1e  =  (unsigned char)-533156166;
  unsigned long long T_W1;
  T_W1 = 858470045;
     unsigned short int    vS3_nj9gt2;
@@ -273,7 +273,7 @@ switch (Njg5rRo)
 {
 case 'a':
 case 'A':
-f6d_7C4 = (gNpt <= -919870788) ? Njg5rRo : -819879702;
+f6d_7C4 = (gNpt <= -919870788) ? Njg5rRo : (unsigned short)-819879702;
 break;
 case 'b':
 case 'B':

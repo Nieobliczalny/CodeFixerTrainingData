@@ -14,7 +14,7 @@ int main()
  long double Tyez6Ucy = 723293310;
 	unsigned int	ql22kee42	=	1828034481;
   char  z18cf4Br2  =  0;
-	unsigned short int	L9MMW_uD0I	=	789483786;
+	unsigned short int	L9MMW_uD0I	=	(unsigned short)789483786;
 	long long	u2wctKig3	=	681257356;
 	double	AaiGM5	=	-1450779530;
  double WqJ3_ = 900757446;

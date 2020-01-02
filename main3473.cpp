@@ -9,7 +9,7 @@
 
 unsigned short	hGR4a9YC(char	R212p94,char	q6KU,unsigned long	fan1,char	Xm4WMfWI8J)
 {
-	return	481720437;
+	return	(unsigned short)481720437;
 }
 
 unsigned short int    x__8HQM(unsigned long    e7M4,unsigned long    rAsBZn,long long    KtgV1UJW,long    UiWe,unsigned short int    Pm71)    {
@@ -39,7 +39,7 @@ try
 {
 for (int k = 0; k < 8; k++)
 {
-s9e2 = x__8HQM(s9e2, H0a4, qq76PmVO1V, I1hwvU19Mg, 26604341);
+s9e2 = x__8HQM(s9e2, H0a4, qq76PmVO1V, I1hwvU19Mg, (unsigned short)26604341);
 }
 }
 catch (int& errorCode)
@@ -92,7 +92,7 @@ jq_8hFZbj = h6BOf3R2gZ * 1213757994;
 break;
 case 'b':
 case 'B':
-MXgpa = x__8HQM(MXgpa, xb9X47, f5dRQ60o, Y1ZZfTJ, -1058868448);
+MXgpa = x__8HQM(MXgpa, xb9X47, f5dRQ60o, Y1ZZfTJ, (unsigned short)-1058868448);
 break;
 case 'c':
 case 'C':
@@ -119,7 +119,7 @@ do
 {
 try
 {
-std::cout << x__8HQM(G5sAm3N, s2gQr, Qcx_qELNy, xb9X47, 148725773) << X2030iB << oS56II5J << std::endl;
+std::cout << x__8HQM(G5sAm3N, s2gQr, Qcx_qELNy, xb9X47, (unsigned short)148725773) << X2030iB << oS56II5J << std::endl;
 }
 catch (int& errorCode)
 {
@@ -145,7 +145,7 @@ for (int j = 0; j < 9; j++)
 {
 for (int k = 10; k >= 0; k--)
 {
-UWr1gkZ6 = x__8HQM(556018987, Z3EzR, Txg_7EJ_, oS56II5J, 352976150);
+UWr1gkZ6 = x__8HQM(556018987, Z3EzR, Txg_7EJ_, oS56II5J, (unsigned short)352976150);
 }
 }
 }
@@ -189,7 +189,7 @@ X2030iB *= I1hwvU19Mg;
 break;
 case 'd':
 case 'D':
-I1hwvU19Mg = FZ69a(-1367206953, 363191469, o05cZJCwS);
+I1hwvU19Mg = FZ69a(-1367206953, (char)363191469, o05cZJCwS);
 break;
 case 'e':
 case 'E':
@@ -253,7 +253,7 @@ if (ht7339PG6E <= m5b4J5GSh)
 {
 for (int k = 6; k >= 0; --k)
 {
-t3oc = FZ69a(H_rIa, 2121251631, -1614760559);
+t3oc = FZ69a(H_rIa, (char)2121251631, -1614760559);
 }
 }
 else
@@ -299,7 +299,7 @@ if (c_BZDw > YnB4UsBO)
 {
 if (nvb8WQup != 132571206)
 {
-vPGrm7s = hGR4a9YC(-1196793556, H0a4, -817133476, (char)1052363575) << 1306675527;
+vPGrm7s = hGR4a9YC((char)-1196793556, H0a4, -817133476, (char)1052363575) << 1306675527;
 }
 else
 {
@@ -322,7 +322,7 @@ if (o05cZJCwS == 103308917)
 {
 try
 {
-Xaw1TJy7xi = (Txg_7EJ_ <= 256838167) ? 1614602417 : hGR4a9YC(xb9X47, 1837852571, U2TgY, qq76PmVO1V);
+Xaw1TJy7xi = (Txg_7EJ_ <= 256838167) ? 1614602417 : hGR4a9YC(xb9X47, (char)1837852571, U2TgY, qq76PmVO1V);
 }
 catch (int& errorCode)
 {
@@ -419,7 +419,7 @@ X2030iB = Et_r40go | f5dRQ60o;
 }
 else if (B57VN5HFy & 951543483)
 {
-MXgpa = hGR4a9YC(-1184460232, vPGrm7s, 1505011444, (char)2143022517);
+MXgpa = hGR4a9YC((char)-1184460232, vPGrm7s, 1505011444, (char)2143022517);
 }
 else if (bWPo < 213556863)
 {
@@ -434,7 +434,7 @@ std::cout << v0SBUHaj5 << tOyox << std::endl;
 }
 else if (H_rIa == -1451594167)
 {
-std::cout << FZ69a(1786488425, 389107305, H_rIa) << x__8HQM(MXgpa, vPGrm7s, -1345094460, -144945004, Y1ZZfTJ) << k0_Oo3 << "qMq1Nb51" << std::endl;
+std::cout << FZ69a(1786488425, (char)389107305, H_rIa) << x__8HQM(MXgpa, vPGrm7s, -1345094460, -144945004, Y1ZZfTJ) << k0_Oo3 << "qMq1Nb51" << std::endl;
 }
 else
 {
@@ -469,7 +469,7 @@ sL2_5A21l <<= o05cZJCwS;
 }
 if ((qq76PmVO1V >= 1397842998) || (v0SBUHaj5 >= YnB4UsBO))
 {
-std::cout << FZ69a(-1492457418, -737134701, I1hwvU19Mg) << std::endl;
+std::cout << FZ69a(-1492457418, (char)-737134701, I1hwvU19Mg) << std::endl;
 }
 else if ((s9e2 > nvb8WQup) && (tOyox != MKH33r_))
 {
@@ -479,7 +479,7 @@ case 0:
 ovKpbhZ = x__8HQM(257780976, ix4_8, Z3EzR, m5b4J5GSh, UWr1gkZ6);
 break;
 case 1:
-Qcx_qELNy = x__8HQM(-1148856786, cmJON, ovKpbhZ, 936333592, -1550071523);
+Qcx_qELNy = x__8HQM(-1148856786, cmJON, ovKpbhZ, 936333592, (unsigned short)-1550071523);
 break;
 case 2:
 t3oc = FZ69a(hAo065C9, f5dRQ60o, oS56II5J);
@@ -547,7 +547,7 @@ j--;
 JiAb = k0_Oo3 ^ ovKpbhZ;
 
 Y1ZZfTJ = (long long)(tOyox);
-std::cout << hGR4a9YC(nvb8WQup, -570991008, o05cZJCwS, qKCj4M2) << x__8HQM(nvb8WQup, -1884450725, o05cZJCwS, qKCj4M2, m5b4J5GSh) << "iiVl_0Y" << "lc_B" << hGR4a9YC((char)2096909726, Xaw1TJy7xi, o05cZJCwS, 1804294998) << std::endl;
+std::cout << hGR4a9YC(nvb8WQup, (char)-570991008, o05cZJCwS, qKCj4M2) << x__8HQM(nvb8WQup, -1884450725, o05cZJCwS, qKCj4M2, m5b4J5GSh) << "iiVl_0Y" << "lc_B" << hGR4a9YC((char)2096909726, Xaw1TJy7xi, o05cZJCwS, 1804294998) << std::endl;
 
 return 0;
 }

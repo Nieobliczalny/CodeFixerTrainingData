@@ -27,7 +27,7 @@ char    fF1Od2(short    khAqBDpul)
 }
 
 int main(void) {
- unsigned short int NeWS = 463076615;
+ unsigned short int NeWS = (unsigned short)463076615;
     double    gS56    =    -312233172;
     unsigned long    ZiPeKn5ql    =    -1280550545;
 	long long	P5V6BA72_1	=	0;
@@ -117,7 +117,7 @@ ZiPeKn5ql = (unsigned long)(L6ZH5t8);
 
 bo0o = (int)ceil(gS56);
 
-ZiPeKn5ql = rd_1EkmV(-923943748, bo0o, cRb_iuQ8c, 1076718596);
+ZiPeKn5ql = rd_1EkmV((unsigned short)-923943748, bo0o, cRb_iuQ8c, 1076718596);
 for (int i = 4; i >= 0; i--)
 {
 try
@@ -163,7 +163,7 @@ case 4:
 L6ZH5t8 *= 1184622295;
 break;
 case 5:
-NeWS = rd_1EkmV(-912116172, bo0o, 1885704859, -1162397815);
+NeWS = rd_1EkmV((unsigned short)-912116172, bo0o, 1885704859, -1162397815);
 break;
 case 6:
 cRb_iuQ8c = xH1ttecF_();
@@ -197,7 +197,7 @@ case 2:
 F762M = fF1Od2(gS56);
 break;
 case 3:
-LP66__t_zK = rd_1EkmV(-458781776, 1216904380, NeWS, gS56);
+LP66__t_zK = rd_1EkmV((unsigned short)-458781776, 1216904380, NeWS, gS56);
 break;
 case 4:
 gS56 = LP66__t_zK << L6ZH5t8;
@@ -285,7 +285,7 @@ else
 switch (P5V6BA72_1)
 {
 case 0:
-ZiPeKn5ql = rd_1EkmV(-1401483075, -525656816, L6ZH5t8, gS56) / LP66__t_zK;
+ZiPeKn5ql = rd_1EkmV((unsigned short)-1401483075, -525656816, L6ZH5t8, gS56) / LP66__t_zK;
 break;
 case 1:
 P5V6BA72_1 = fF1Od2((short)312716484);

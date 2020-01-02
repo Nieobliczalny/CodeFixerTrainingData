@@ -20,7 +20,7 @@ unsigned long jCdh5r9H5(short int M8Hjix,short Ki7eUG9p,unsigned short u6_y3zo)
 }
 
 short	D0HHvUM60_(char	IndfB,unsigned long	B322Qu8W37,int	dRi35,unsigned short	l_d6Fgl8,unsigned short	jV8R)	{
-	return	-46108486;
+	return	(short)-46108486;
 }
 
 char g64nHsI(unsigned long long v5UDqF2)
@@ -118,7 +118,7 @@ zxE63ox = CY678 | 2089528782;
 }
 else
 {
-std::cout << D0HHvUM60_(q2H5ayd52, -2064377236, 132946037, -1123567384, (unsigned short)-102091331) << "I647_lU3" << std::endl;
+std::cout << D0HHvUM60_(q2H5ayd52, -2064377236, 132946037, (unsigned short)-1123567384, (unsigned short)-102091331) << "I647_lU3" << std::endl;
 }
 }
 else
@@ -138,7 +138,7 @@ case 0:
 I583ts3R |= 1316976406;
 break;
 case 1:
-I583ts3R = jCdh5r9H5(I583ts3R, 720472743, V4m_T_JRPp);
+I583ts3R = jCdh5r9H5(I583ts3R, (short)720472743, V4m_T_JRPp);
 break;
 case 2:
 he1gj2V72_ = jCdh5r9H5(he1gj2V72_, (short)582476947, 802481479);
@@ -181,7 +181,7 @@ CY678 += ie_6J2s5;
 break;
 case 'b':
 case 'B':
-b_F2q_6_i = y4htsIyy(-1369085806, -597540318, H6MYQ, (short)310678173, 1940288498);
+b_F2q_6_i = y4htsIyy(-1369085806, (short)-597540318, H6MYQ, (short)310678173, 1940288498);
 break;
 case 'c':
 case 'C':
@@ -202,7 +202,7 @@ he1gj2V72_ = I583ts3R | Rs5386i;
 
 fSyt1AwDE3 = g64nHsI(U5XAgH);
 
-std::cout << "FztBs" << g64nHsI(U5XAgH) << D0HHvUM60_(U5XAgH, Rs5386i, I583ts3R, H9fiE, -1754579211) << std::endl;
+std::cout << "FztBs" << g64nHsI(U5XAgH) << D0HHvUM60_(U5XAgH, Rs5386i, I583ts3R, H9fiE, (unsigned short)-1754579211) << std::endl;
 
 std::cout << ie_6J2s5 << std::endl;
 switch (Zw_4T)
@@ -223,7 +223,7 @@ case 'e':
 U5XAgH |= 2134840295;
 break;
 default:
-CY678 = y4htsIyy(CY678, 2115802269, (short)961679002, 438839250, 2129831000);
+CY678 = y4htsIyy(CY678, (short)2115802269, (short)961679002, 438839250, 2129831000);
 break;
 }
 
@@ -248,7 +248,7 @@ case 0:
 CY678 = H9fiE - 833348759;
 break;
 case 1:
-zxE63ox = D0HHvUM60_(zxE63ox, -735157179, q2H5ayd52, 282166, (unsigned short)-767147044);
+zxE63ox = D0HHvUM60_(zxE63ox, -735157179, q2H5ayd52, (unsigned short)282166, (unsigned short)-767147044);
 break;
 case 2:
 q2H5ayd52 = (int)abs(I583ts3R);
@@ -286,7 +286,7 @@ if (((b_F2q_6_i < H9fiE) || (ie_6J2s5 == m1fxcCYq4H)) || ((I583ts3R & 255604954)
 {
 for (int k = 0; k < 10; ++k)
 {
-U5XAgH = y4htsIyy(-1796877385, Rs5386i, he1gj2V72_, -482147400, -1201915964);
+U5XAgH = y4htsIyy(-1796877385, Rs5386i, he1gj2V72_, (short)-482147400, -1201915964);
 }
 }
 }

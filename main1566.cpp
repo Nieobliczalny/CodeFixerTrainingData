@@ -14,7 +14,7 @@ using std::floor;
 
 unsigned char	NJl2(char	ygmEG,int	zDoJ)
 {
-	return	-1219320698;
+	return	(unsigned char)-1219320698;
 }
 
 char	f5Q_cCeO7(short int	e866DA2gAd,long long	Coh9ln,unsigned short int	cvnG_Cnt)	{
@@ -27,7 +27,7 @@ unsigned char    Rw5l4232f(char    CA2l,long    O6D5UE,short    yE_3KTH,char    
 }
 
 unsigned short int    Tp7H2d()    {
-    return    411342140;
+    return    (unsigned short)411342140;
 }
 
 int main(int argc, char** argv) {
@@ -38,7 +38,7 @@ int main(int argc, char** argv) {
     unsigned short    XWBV3m7O4;
     XWBV3m7O4    =    (unsigned short)-1873035379;
   unsigned short int  OJSranAM;
-  OJSranAM  =  480809699;
+  OJSranAM  =  (unsigned short)480809699;
  unsigned char kz6uxPaR;
  kz6uxPaR = -2007573744;
  unsigned short int BsXdtGX5m5;
@@ -52,7 +52,7 @@ int main(int argc, char** argv) {
   unsigned short  s6VX;
   s6VX  =  0;
   unsigned char  uxl1;
-  uxl1  =  1793632595;
+  uxl1  =  (unsigned char)1793632595;
 	short int	P8REwb;
 	P8REwb	=	0;
 
@@ -105,7 +105,7 @@ P8REwb = (int)abs(v_SkT_);
 }
 else
 {
-P8REwb = Rw5l4232f(kz6uxPaR, P8REwb, 561952211, (char)1496395658, -1349310733);
+P8REwb = Rw5l4232f(kz6uxPaR, P8REwb, (short)561952211, (char)1496395658, -1349310733);
 }
 }
 else if (P8REwb > np0N6umD3)
@@ -128,7 +128,7 @@ v_SkT_ = (int)abs(E1M90) * 0;
 }
 else if (E1M90 >= Mzl8qA3v)
 {
-E1M90 = f5Q_cCeO7(-346597386, E1M90, (unsigned short)-220172895);
+E1M90 = f5Q_cCeO7((short)-346597386, E1M90, (unsigned short)-220172895);
 }
 else if (BsXdtGX5m5 >= 1488594022)
 {
@@ -144,7 +144,7 @@ OJSranAM -= s6VX;
 }
 else if (uxl1 >= E1M90)
 {
-E1M90 = f5Q_cCeO7(v_SkT_, E1M90, 188386509);
+E1M90 = f5Q_cCeO7(v_SkT_, E1M90, (unsigned short)188386509);
 }
 else
 {
@@ -215,7 +215,7 @@ try
 {
 try
 {
-Mzl8qA3v = Rw5l4232f(-469179355, W4zJd3, (short)1627221296, np0N6umD3, 2063407300);
+Mzl8qA3v = Rw5l4232f((char)-469179355, W4zJd3, (short)1627221296, np0N6umD3, 2063407300);
 }
 catch (int& errorCode)
 {
@@ -294,7 +294,7 @@ case 4:
 BsXdtGX5m5 &= 1470012460;
 break;
 case 5:
-P8REwb = Rw5l4232f(1885084770, E1M90, P8REwb, XWBV3m7O4, (short)1967223830);
+P8REwb = Rw5l4232f((char)1885084770, E1M90, P8REwb, XWBV3m7O4, (short)1967223830);
 break;
 case 6:
 OJSranAM &= 51528347;
@@ -353,7 +353,7 @@ int j = 0;
 do
 {
 j++;
-std::cout << "sx9sUK" << f5Q_cCeO7(BsXdtGX5m5, -517469089, -2037381303) << s6VX << std::endl;
+std::cout << "sx9sUK" << f5Q_cCeO7(BsXdtGX5m5, -517469089, (unsigned short)-2037381303) << s6VX << std::endl;
 }
 while (j < 3);
 }
@@ -370,7 +370,7 @@ int k = 0;
 while (k < 5)
 {
 k++;
-v_SkT_ = Rw5l4232f(1063033926, kz6uxPaR, Mzl8qA3v, (char)-204511142, 451257617);
+v_SkT_ = Rw5l4232f((char)1063033926, kz6uxPaR, Mzl8qA3v, (char)-204511142, 451257617);
 }
 }
 }
@@ -412,7 +412,7 @@ try
 switch (s6VX)
 {
 case 0:
-kz6uxPaR = f5Q_cCeO7(-303661857, kz6uxPaR, (unsigned short)-501632501);
+kz6uxPaR = f5Q_cCeO7((short)-303661857, kz6uxPaR, (unsigned short)-501632501);
 break;
 case 1:
 kz6uxPaR |= 1925894509;
@@ -458,7 +458,7 @@ case 0:
 BsXdtGX5m5 -= np0N6umD3;
 break;
 case 1:
-kz6uxPaR = NJl2(1367213439, 1192452091);
+kz6uxPaR = NJl2((char)1367213439, 1192452091);
 break;
 case 2:
 BsXdtGX5m5 = BsXdtGX5m5 ^ XWBV3m7O4;
@@ -492,7 +492,7 @@ OJSranAM = Tp7H2d();
 }
 else if (P8REwb != 550688848)
 {
-std::cout << kz6uxPaR << Tp7H2d() << "tJ15" << Rw5l4232f(OJSranAM, np0N6umD3, -1892910018, v_SkT_, P8REwb) << std::endl;
+std::cout << kz6uxPaR << Tp7H2d() << "tJ15" << Rw5l4232f(OJSranAM, np0N6umD3, (short)-1892910018, v_SkT_, P8REwb) << std::endl;
 }
 else if (np0N6umD3)
 {
@@ -545,7 +545,7 @@ case 'f':
 OJSranAM = Tp7H2d();
 break;
 case 'g':
-v_SkT_ = Rw5l4232f(-868408766, -1374957164, (short)1645705262, W4zJd3, Mzl8qA3v);
+v_SkT_ = Rw5l4232f((char)-868408766, -1374957164, (short)1645705262, W4zJd3, Mzl8qA3v);
 break;
 case 'h':
 XWBV3m7O4 = NJl2(XWBV3m7O4, 701417779);
@@ -573,7 +573,7 @@ if (P8REwb != -912986013)
 {
 BsXdtGX5m5 = (unsigned short int)(XWBV3m7O4);
 }
-std::cout << "c3LUwJ01l" << "x33Q4JB41" << "wX4O7F3__4" << f5Q_cCeO7(-488035510, P8REwb, (unsigned short)-193653065) << v_SkT_ << std::endl;
+std::cout << "c3LUwJ01l" << "x33Q4JB41" << "wX4O7F3__4" << f5Q_cCeO7((short)-488035510, P8REwb, (unsigned short)-193653065) << v_SkT_ << std::endl;
 try
 {
 {

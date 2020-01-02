@@ -49,7 +49,7 @@ int k = 1;
 do
 {
 --k;
-k3Sq = uuCJiqll(-2028687633, aX9114io);
+k3Sq = uuCJiqll((char)-2028687633, aX9114io);
 }
 while (k >= 0);
 }
@@ -121,7 +121,7 @@ PS30t = (Il7yq > 1424260815) ? -1883462928 : -1687793962;
 break;
 case 'c':
 case 'C':
-k3Sq = uuCJiqll(1072531482, YqECAf4pU);
+k3Sq = uuCJiqll((char)1072531482, YqECAf4pU);
 break;
 default:
 Il7yq = sTuE16Ud5_(mJ8Wnr) ^ 1049687162;
@@ -135,7 +135,7 @@ case 0:
 i6R0V -= 381529221;
 break;
 case 1:
-G91I = sTuE16Ud5_(-600537632);
+G91I = sTuE16Ud5_((char)-600537632);
 break;
 case 2:
 mJ8Wnr = sTuE16Ud5_(mJ8Wnr);
@@ -162,7 +162,7 @@ case 9:
 YqECAf4pU = X0jtYyT + 2086844192;
 break;
 default:
-Il7yq = sTuE16Ud5_(-76344311);
+Il7yq = sTuE16Ud5_((char)-76344311);
 break;
 }
 }
@@ -174,7 +174,7 @@ Jn5R4 /= k3Sq;
 switch (i6R0V)
 {
 case 0:
-jil997by = sTuE16Ud5_(-777074138);
+jil997by = sTuE16Ud5_((char)-777074138);
 break;
 case 1:
 PS30t = sTuE16Ud5_(PS30t);
@@ -192,7 +192,7 @@ switch (aX9114io)
 {
 case 'a':
 case 'A':
-SL2c5 = sTuE16Ud5_(1167252037) ^ Pd1K3;
+SL2c5 = sTuE16Ud5_((char)1167252037) ^ Pd1K3;
 break;
 case 'b':
 case 'B':
@@ -226,7 +226,7 @@ case 'd':
 PS30t <<= aX9114io;
 break;
 case 'e':
-k3Sq = uuCJiqll(-45126358, SL2c5);
+k3Sq = uuCJiqll((char)-45126358, SL2c5);
 break;
 case 'f':
 G91I = sTuE16Ud5_((char)850341885);
@@ -308,7 +308,7 @@ if (aX9114io < 1489386252)
 {
 try
 {
-cout << "gujf_b0" << "AQX4" << sTuE16Ud5_(1171684678) << uuCJiqll(X0jtYyT, YqECAf4pU) << endl;
+cout << "gujf_b0" << "AQX4" << sTuE16Ud5_((char)1171684678) << uuCJiqll(X0jtYyT, YqECAf4pU) << endl;
 }
 catch (int& errorCode)
 {
@@ -362,7 +362,7 @@ while (k >= 0);
 }
 }
 }
-Pd1K3 = sTuE16Ud5_(1202340142);
+Pd1K3 = sTuE16Ud5_((char)1202340142);
 
 cout << sTuE16Ud5_((char)1545792893) << uuCJiqll(Pd1K3, i6R0V) << sTuE16Ud5_(Pd1K3) << endl;
 return 0;

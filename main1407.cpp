@@ -22,7 +22,7 @@ long long	S3Ls_Q(long	bzM_xr,char	bt6yA,unsigned long long	qWX_HMta1,short	eitgU
 unsigned long	Vmm_(short int	W0L8v7i_,long long	nfd_NpnD,unsigned long	BG4o,unsigned long	Ni9pe);
 
 int main() {
-    unsigned short    v54EN7    =    -1906606442,    XztJV    =    (unsigned short)-1333652677,    oIOUIVw3w    =    -1831853131;
+    unsigned short    v54EN7    =    (unsigned short)-1906606442,    XztJV    =    (unsigned short)-1333652677,    oIOUIVw3w    =    -1831853131;
  char kqeBQrF3R = 0, me445_ = 0, ksBZ0 = 0, Bx4cc0713C = 0;
 
 if ((XztJV >= Ih58) && (Bx4cc0713C))
@@ -80,7 +80,7 @@ oIOUIVw3w = oIOUIVw3w ^ 1765568566;
 }
 else
 {
-v54EN7 = a20h(-558644952, XztJV, me445_, 753077131);
+v54EN7 = a20h(-558644952, XztJV, me445_, (unsigned short)753077131);
 }
 }
 else if (v54EN7 <= ksBZ0)
@@ -112,7 +112,7 @@ else
 {
 try
 {
-XztJV = Vmm_(-1019473191, oIOUIVw3w, ksBZ0, -580968903);
+XztJV = Vmm_((short)-1019473191, oIOUIVw3w, ksBZ0, -580968903);
 }
 catch (int& errorCode)
 {
@@ -148,7 +148,7 @@ case 'b':
 ksBZ0 = (int)abs(Bx4cc0713C);
 break;
 case 'c':
-ksBZ0 = S3Ls_Q(2072845636, Bx4cc0713C, oIOUIVw3w, kqeBQrF3R, 1250206236);
+ksBZ0 = S3Ls_Q(2072845636, Bx4cc0713C, oIOUIVw3w, kqeBQrF3R, (short)1250206236);
 break;
 case 'd':
 v54EN7 >>= 373279587;
@@ -160,7 +160,7 @@ case 'f':
 v54EN7 -= kqeBQrF3R;
 break;
 case 'g':
-kqeBQrF3R = S3Ls_Q(-732816640, 1942647848, 346684031, 1924631426, -64817762);
+kqeBQrF3R = S3Ls_Q(-732816640, (char)1942647848, 346684031, 1924631426, -64817762);
 break;
 case 'h':
 me445_ = S3Ls_Q(-513404129, 715266919, oIOUIVw3w, kqeBQrF3R, XztJV);
@@ -172,7 +172,7 @@ break;
 }
 }
 
-std::cout << a20h(me445_, XztJV, 1940329025, -1369098295) << t7f2owa_n7() << oIOUIVw3w << t7f2owa_n7() << oIOUIVw3w << std::endl;
+std::cout << a20h(me445_, XztJV, 1940329025, (unsigned short)-1369098295) << t7f2owa_n7() << oIOUIVw3w << t7f2owa_n7() << oIOUIVw3w << std::endl;
 oIOUIVw3w = (unsigned short)(Ih58);
 if ((ksBZ0 < Ih58) && (kqeBQrF3R != oIOUIVw3w))
 {
@@ -192,7 +192,7 @@ me445_ = S3Ls_Q(v54EN7, me445_, Bx4cc0713C, oIOUIVw3w, XztJV);
 }
 else if ((XztJV) || (Bx4cc0713C & ksBZ0))
 {
-XztJV = a20h(420750901, 1131654404, Bx4cc0713C, 1259445848);
+XztJV = a20h(420750901, 1131654404, Bx4cc0713C, (unsigned short)1259445848);
 }
 else if ((kqeBQrF3R != v54EN7) && (v54EN7 != Ih58))
 {
@@ -217,7 +217,7 @@ for (int j = 2; j >= 0; --j)
 {
 if (Bx4cc0713C != 1142968342)
 {
-v54EN7 = Vmm_(-1757509631, oIOUIVw3w, Bx4cc0713C, ksBZ0);
+v54EN7 = Vmm_((short)-1757509631, oIOUIVw3w, Bx4cc0713C, ksBZ0);
 }
 else if (kqeBQrF3R != Sp7iC_1BZS)
 {
@@ -249,7 +249,7 @@ XztJV /= 1783219701;
 }
 else
 {
-oIOUIVw3w = Vmm_(1294685502, Bx4cc0713C, kqeBQrF3R, -744389822);
+oIOUIVw3w = Vmm_((short)1294685502, Bx4cc0713C, kqeBQrF3R, -744389822);
 }
 }
 else
@@ -279,7 +279,7 @@ try
 switch (v54EN7)
 {
 case 'a':
-XztJV = Vmm_(-419333809, v54EN7, -1989961125, 303046366);
+XztJV = Vmm_((short)-419333809, v54EN7, -1989961125, 303046366);
 break;
 case 'b':
 XztJV = Vmm_(ksBZ0, -1453000182, XztJV, -618687164);
@@ -348,7 +348,7 @@ case 'b':
 oIOUIVw3w = S9WTwTEN(Bx4cc0713C, me445_);
 break;
 case 'c':
-me445_ = S3Ls_Q(402070555, Bx4cc0713C, oIOUIVw3w, -1124570896, v54EN7);
+me445_ = S3Ls_Q(402070555, Bx4cc0713C, oIOUIVw3w, (short)-1124570896, v54EN7);
 break;
 case 'd':
 oIOUIVw3w &= 119558989;
@@ -371,7 +371,7 @@ switch (XztJV)
 {
 case 'a':
 case 'A':
-XztJV = Vmm_(-580201713, -496834490, -1762322683, 1788725616);
+XztJV = Vmm_((short)-580201713, -496834490, -1762322683, 1788725616);
 break;
 case 'b':
 case 'B':
@@ -400,7 +400,7 @@ break;
 }
 }
 }
-std::cout << S3Ls_Q(Bx4cc0713C, me445_, oIOUIVw3w, v54EN7, -1975558084) << std::endl;
+std::cout << S3Ls_Q(Bx4cc0713C, me445_, oIOUIVw3w, v54EN7, (short)-1975558084) << std::endl;
 oIOUIVw3w = S9WTwTEN(Bx4cc0713C, me445_) / S3Ls_Q(Bx4cc0713C, me445_, oIOUIVw3w, v54EN7, (short)-615105666);
 
 try
@@ -428,7 +428,7 @@ XztJV = a20h(-1198107092, -592111928, XztJV, oIOUIVw3w);
 XztJV = t7f2owa_n7();
 if (me445_)
 {
-std::cout << oIOUIVw3w << ksBZ0 << t7f2owa_n7() << a20h(kqeBQrF3R, 740661418, 903005556, -1700674127) << std::endl;
+std::cout << oIOUIVw3w << ksBZ0 << t7f2owa_n7() << a20h(kqeBQrF3R, 740661418, 903005556, (unsigned short)-1700674127) << std::endl;
 }
 else
 {
@@ -466,7 +466,7 @@ return 0;
 }
 
 unsigned short int	t7f2owa_n7()	{
-	return	-111837030;
+	return	(unsigned short)-111837030;
 }
 
 long long	a20h(unsigned long	SboBbDp,unsigned int	etAP8,unsigned long	QKkb3lTHa,unsigned short	HVu6KoOLnm)

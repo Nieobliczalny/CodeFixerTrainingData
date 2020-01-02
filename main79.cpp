@@ -26,7 +26,7 @@ int main(int argc, char** argv)
  float qDMV;
  qDMV = -986181872;
 	unsigned char	TK_02Ote;
-	TK_02Ote	=	-665109781;
+	TK_02Ote	=	(unsigned char)-665109781;
     unsigned long long    ekLWv3ZP4;
     ekLWv3ZP4    =    -1113304372;
 	double	UW53E;
@@ -38,7 +38,7 @@ int main(int argc, char** argv)
 	long double	W5q7pnJ6Y;
 	W5q7pnJ6Y	=	-281824528;
     unsigned short int    w3AtW6fA;
-    w3AtW6fA    =    -1091197515;
+    w3AtW6fA    =    (unsigned short)-1091197515;
 	unsigned short int	jv59v_;
 	jv59v_	=	(unsigned short)1253778243;
     unsigned char    Ps61BQ0yp4;
@@ -56,7 +56,7 @@ int main(int argc, char** argv)
 	long long	nO1N75;
 	nO1N75	=	-445014234;
     char    B7Px0;
-    B7Px0    =    1998049597;
+    B7Px0    =    (char)1998049597;
  unsigned short Uhn_R;
  Uhn_R = (unsigned short)-741468398;
  unsigned int N0QiFL;
@@ -68,7 +68,7 @@ int main(int argc, char** argv)
 	long long	KYhV3R1d8;
 	KYhV3R1d8	=	90691479;
 	short	o51l7QnF0;
-	o51l7QnF0	=	650025564;
+	o51l7QnF0	=	(short)650025564;
 
 if ((N_lebWy) && ((nO1N75 & 866969581) && (TK_02Ote & 807691793)))
 {
@@ -137,7 +137,7 @@ if (ki9UDDj)
 {
 Ps61BQ0yp4 = k5Y65v(Ps61BQ0yp4, Uhn_R, aR5PH3);
 }
-std::cout << "V3hys" << CIiF_3(-1411114135, -767595327, aR5PH3, -1606875172, 1240648388) << k5Y65v(-1128504750, Uhn_R, (unsigned short)-189370177) << b35v2_5PU(-1691395765, Uhn_R, 2010880329, TK_02Ote, HhX2) << std::endl;
+std::cout << "V3hys" << CIiF_3(-1411114135, -767595327, aR5PH3, -1606875172, (unsigned short)1240648388) << k5Y65v(-1128504750, Uhn_R, (unsigned short)-189370177) << b35v2_5PU(-1691395765, Uhn_R, 2010880329, TK_02Ote, HhX2) << std::endl;
 
 for (int i = 10; i >= 0; --i)
 {
@@ -172,7 +172,7 @@ while (j < 10)
 {
 for (int k = 4; k >= 0; k--)
 {
-w3AtW6fA = k5Y65v(1333654826, N0QiFL, -164493921);
+w3AtW6fA = k5Y65v(1333654826, N0QiFL, (unsigned short)-164493921);
 }
 ++j;
 }
@@ -188,7 +188,7 @@ return 0;
 
 unsigned char	k5Y65v(long	TWg6w_7mG,unsigned short int	D6y0JMD,unsigned short	a2VKTqBzi)
 {
-	return	-271978045;
+	return	(unsigned char)-271978045;
 }
 
 char  CIiF_3(long  M3GtXA,unsigned int  uKhaX,short int  BkmPeHSa,long long  a9Xml3Z,unsigned short int  TYN84g)

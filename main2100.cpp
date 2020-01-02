@@ -89,7 +89,7 @@ else if (Blvfj1h6_E <= -588045089)
 {
 for (int k = 0; k < 4; k++)
 {
-hwG4T = (zDgWR_ != m_7_a4w8) ? ADH4x : -761391581;
+hwG4T = (zDgWR_ != m_7_a4w8) ? ADH4x : (short)-761391581;
 }
 }
 else if ((FNSE51duO < JOWp8) || ((cW_4Yhk > F9dw7SJTl) || (t_23E < -748489582)))
@@ -243,7 +243,7 @@ case 'c':
 r_4S_ ^= vqkiK3j;
 break;
 case 'd':
-xahV2 = (h7DGPxs) ? Qe8l3v : 794405547;
+xahV2 = (h7DGPxs) ? Qe8l3v : (short)794405547;
 break;
 case 'e':
 Qe8l3v |= 209015859;

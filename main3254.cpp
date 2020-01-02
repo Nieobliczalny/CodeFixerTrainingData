@@ -16,7 +16,7 @@ int main(void) {
     unsigned int    wL03N;
     wL03N    =    203633591;
   short  fdA3yTi;
-  fdA3yTi  =  1821581959;
+  fdA3yTi  =  (short)1821581959;
     unsigned short    Us56jq2a08;
     Us56jq2a08    =    0;
   unsigned short  CsM_q4y2;
@@ -26,7 +26,7 @@ int main(void) {
  char J36DN;
  J36DN = -820040173;
   unsigned char  w1AIFz;
-  w1AIFz  =  -1713360884;
+  w1AIFz  =  (unsigned char)-1713360884;
  char MN01;
  MN01 = 0;
 
@@ -411,7 +411,7 @@ else
 int k = 1;
 while (k >= 0)
 {
-fdA3yTi = (HmvcV9 != CsM_q4y2) ? -681967317 : J36DN;
+fdA3yTi = (HmvcV9 != CsM_q4y2) ? (short)-681967317 : J36DN;
 --k;
 }
 }

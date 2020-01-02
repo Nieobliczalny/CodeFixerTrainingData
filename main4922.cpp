@@ -21,7 +21,7 @@ int main() {
 switch (VrnLdj6)
 {
 case 0:
-ALh8u2DRh = VhRC9QF(q7Gs_Mf4, -203995506, -903037426);
+ALh8u2DRh = VhRC9QF(q7Gs_Mf4, (short)-203995506, -903037426);
 break;
 case 1:
 ALh8u2DRh = VhRC9QF(B56cj, -1244482986, z5016);
@@ -50,7 +50,7 @@ int k = 0;
 do
 {
 ++k;
-Q40o9sZ = T6lPCaEEjV(1076111108, (char)-414585230, m60DP, 1336834791);
+Q40o9sZ = T6lPCaEEjV((short)1076111108, (char)-414585230, m60DP, 1336834791);
 }
 while (k < 1);
 }
@@ -81,7 +81,7 @@ return 0;
 }
 
 unsigned short	T6lPCaEEjV(short	u_dRV7ZU5d,char	qXOQ03uG,long	AcH3,unsigned char	ydSuI4)	{
-	return	-86047486;
+	return	(unsigned short)-86047486;
 }
 
 unsigned char VhRC9QF(unsigned short sFsu,short int STjzVH,unsigned long long BXxU51s) {

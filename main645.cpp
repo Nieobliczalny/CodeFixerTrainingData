@@ -13,7 +13,7 @@ short    t7Pa(unsigned short    xJ675Jibvk,int    mgYNevfxfc,unsigned char    dH
 }
 
 short  t928(short int  gkhhwEn9,unsigned long long  nB4VgI)  {
-  return  1578708844;
+  return  (short)1578708844;
 }
 
 unsigned char  vO4KTq33VB()
@@ -23,7 +23,7 @@ unsigned char  vO4KTq33VB()
 
 int main() {
  double TfaLj60 = 1325329646;
-  unsigned short int  fialLEw_  =  -1383648281;
+  unsigned short int  fialLEw_  =  (unsigned short)-1383648281;
   long double  r2_OnvK  =  2089497063;
 	long long	toDy	=	-681678109;
   long long  VzeQEHs  =  1290719003;
@@ -36,7 +36,7 @@ int main() {
   unsigned int  Hp_yQ0Do  =  -827778401;
     int    iD828T    =    0;
  long double hb_N6lw1wZ = 946581043;
-  unsigned char  K5UTN4ew  =  -982304022;
+  unsigned char  K5UTN4ew  =  (unsigned char)-982304022;
  long double pb8a2D = 2024962458;
 	float	L1bN	=	1567250995;
     unsigned short int    y_7dV3nS    =    (unsigned short)567583628;
@@ -46,7 +46,7 @@ int main() {
 	long long	dk2eq_8	=	-1322254149;
     short int    sphe    =    -153650862;
 	double	U73lOyN_	=	-966313382;
-  unsigned char  j6d7c8  =  -728581982;
+  unsigned char  j6d7c8  =  (unsigned char)-728581982;
     int    n5_18DSEJ    =    953558241;
   long  o8_f  =  1427657395;
 	unsigned short	p_RUV	=	(unsigned short)1161483407;
@@ -57,7 +57,7 @@ int main() {
 	unsigned short	e2tP7a	=	-1765005416;
     long long    e1Do    =    -1363371992;
     float    E6ML_b    =    -906245075;
- unsigned char F6N_h = 45264916;
+ unsigned char F6N_h = (unsigned char)45264916;
  long double I677Lhv = 1641830880;
  unsigned long lL__n5E6 = 903504499;
     unsigned long    dm0q    =    1443666609;
@@ -67,7 +67,7 @@ int main() {
  long double V8_E2B = 1653408667;
 	unsigned char	X9rph3	=	(unsigned char)1663032731;
  unsigned int GgxaV5cE = 316820059;
-    unsigned char    Kwtuz0eT    =    -2042588556;
+    unsigned char    Kwtuz0eT    =    (unsigned char)-2042588556;
 	long	ofIY	=	1237358190;
 
 {
@@ -101,7 +101,7 @@ case 7:
 Hp_yQ0Do++;
 break;
 default:
-V8_E2B = t7Pa(1129018588, jXI1o28o_, E6ML_b, 943268484, (unsigned char)1533398107) >> Kwtuz0eT;
+V8_E2B = t7Pa((unsigned short)1129018588, jXI1o28o_, E6ML_b, 943268484, (unsigned char)1533398107) >> Kwtuz0eT;
 break;
 }
 --i;
@@ -123,7 +123,7 @@ while (k < 7);
 }
 }
 }
-F6N_h = t7Pa(dk2eq_8, -1588671823, E6ML_b, -1222790831, 749664301) / iD828T;
+F6N_h = t7Pa(dk2eq_8, -1588671823, E6ML_b, -1222790831, (unsigned char)749664301) / iD828T;
 switch (iD828T)
 {
 case 0:

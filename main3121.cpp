@@ -12,7 +12,7 @@ unsigned long long o0Mi_qB5(long KQX942,unsigned short int Z6J8UPg8a) {
 }
 
 char	B0Om7n_NWg()	{
-	return	1617605207;
+	return	(char)1617605207;
 }
 
 unsigned short int    Q0ggTt(short    dfkZKwnZ,unsigned long long    c88Fg66CV,short int    sbya7)    {
@@ -25,7 +25,7 @@ int main(int argc, char** argv) {
 
 if ((RT_bdTB <= KGYyYx) && (a_266XbJ12 != vi9F7u2Fl_))
 {
-std::cout << Q0ggTt(KGYyYx, se8A2E6Ckl, dxpSPlS8Ac) << Q0ggTt(KGYyYx, se8A2E6Ckl, -1058382424) << yAdq73ut << std::endl;
+std::cout << Q0ggTt(KGYyYx, se8A2E6Ckl, dxpSPlS8Ac) << Q0ggTt(KGYyYx, se8A2E6Ckl, (short)-1058382424) << yAdq73ut << std::endl;
 }
 else
 {
@@ -44,7 +44,7 @@ dxpSPlS8Ac = Q0ggTt(dxpSPlS8Ac, MqXdXE_54, 1541447474);
 
 std::cout << MqXdXE_54 / K327C6rb4 << std::endl;
 MqXdXE_54 = (unsigned short)(YG6H22GZCt);
-std::cout << B0Om7n_NWg() << vi9F7u2Fl_ << Q0ggTt(dxpSPlS8Ac, 1673117197, -1428818763) << dxpSPlS8Ac << std::endl;
+std::cout << B0Om7n_NWg() << vi9F7u2Fl_ << Q0ggTt(dxpSPlS8Ac, 1673117197, (short)-1428818763) << dxpSPlS8Ac << std::endl;
 if (K327C6rb4 >= 1841573012)
 {
 if (se8A2E6Ckl <= K16ilpQY)
@@ -73,7 +73,7 @@ Tjo1o = p8PX ^ MqXdXE_54;
 }
 else if (dxpSPlS8Ac & 732690805)
 {
-std::cout << "qllgKo" << YG6H22GZCt << Q0ggTt(-1348694045, MqXdXE_54, (short)2039613586) << std::endl;
+std::cout << "qllgKo" << YG6H22GZCt << Q0ggTt((short)-1348694045, MqXdXE_54, (short)2039613586) << std::endl;
 }
 else if (MqXdXE_54 >= se8A2E6Ckl)
 {
@@ -113,7 +113,7 @@ case 5:
 vi9F7u2Fl_ -= 934796747;
 break;
 case 6:
-bqay = o0Mi_qB5(-544992279, -784651533);
+bqay = o0Mi_qB5(-544992279, (unsigned short)-784651533);
 break;
 case 7:
 LIb5h6l6d %= 278894992;
@@ -130,7 +130,7 @@ else if ((dxpSPlS8Ac < 218350799) && (K327C6rb4 >= 45344974))
 {
 try
 {
-yAdq73ut = o0Mi_qB5(411018277, -619586663);
+yAdq73ut = o0Mi_qB5(411018277, (unsigned short)-619586663);
 }
 catch (int& errorCode)
 {

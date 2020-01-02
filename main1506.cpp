@@ -13,7 +13,7 @@ unsigned int  zJ_n(long  j6L_9H1,unsigned short int  Q3HpL9r,unsigned int  bQU36
 }
 
 unsigned short    nWXna(unsigned int    p8tv5by6,unsigned long    n285TR_N3)    {
-    return    878645794;
+    return    (unsigned short)878645794;
 }
 
 long DY97ghU44w()

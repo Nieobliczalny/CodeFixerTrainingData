@@ -15,7 +15,7 @@ using namespace std;
 
 char    c9eMRZ0(unsigned long long    Oi0j_,unsigned long    s82_m51I6)
 {
-    return    -1333108548;
+    return    (char)-1333108548;
 }
 
 unsigned char t1PgrK0iGt(int ht7Se8T66b)

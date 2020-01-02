@@ -18,7 +18,7 @@ using std::floor;
 int main()
 {
 	unsigned int	AUf1y	=	1460421600;
-	unsigned char	gMdZ_T5	=	1550732536;
+	unsigned char	gMdZ_T5	=	(unsigned char)1550732536;
     double    zf6_qv2t    =    435858764;
   unsigned int  j9F42PKK12  =  101466040;
   char  e30rjZ  =  0;
@@ -34,7 +34,7 @@ int main()
     int    ib02    =    0;
  unsigned long long Caev0lgU = -818012897;
 	long	b68cRGKNU	=	742031778;
-    short int    h9gbL6L    =    -335737567;
+    short int    h9gbL6L    =    (short)-335737567;
  unsigned int N0YGy_J = 715139115;
 	unsigned short int	xioe6pX2E	=	(unsigned short)-599257768;
   short  IlRE88MM  =  -28467145;
@@ -44,7 +44,7 @@ int main()
 	unsigned long long	Tz1Gzl	=	1663460689;
     unsigned int    jvV5Ld    =    1348324639;
   short  NCx9lg1VYu  =  0;
-	unsigned short int	JIglA7	=	1864704465;
+	unsigned short int	JIglA7	=	(unsigned short)1864704465;
   unsigned long  m8JClW  =  -1110719118;
  short y8yxS = (short)244123948;
   short  WFaTIF4s  =  2007257648;

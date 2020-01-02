@@ -24,7 +24,7 @@ unsigned int  oN6_SWt3y(short  FNoOT,short int  qRWshi_C0_)  {
 }
 
 short int    eSsy(unsigned char    oeQG79m8N)    {
-    return    1308696987;
+    return    (short)1308696987;
 }
 
 short e_LBk6(long long iaUP_PSX16,char oyg8AN39V)
@@ -90,7 +90,7 @@ if (JYqa >= STj4F9Q)
 int k = 0;
 do
 {
-DRl8j = oN6_SWt3y(DRl8j, 1278983679);
+DRl8j = oN6_SWt3y(DRl8j, (short)1278983679);
 k++;
 }
 while (k < 1);
@@ -109,7 +109,7 @@ do
 {
 try
 {
-b1da7 = e_LBk6(b1da7, -105204080);
+b1da7 = e_LBk6(b1da7, (char)-105204080);
 }
 catch (int& errorCode)
 {
@@ -150,7 +150,7 @@ default:
 JYqa = t_sqD9dN2(Sy9n, b1da7);
 break;
 }
-DRl8j = oN6_SWt3y(428349863, (short)-2079121049);
+DRl8j = oN6_SWt3y((short)428349863, (short)-2079121049);
 try
 {
 d1qDZFQF = (unsigned int)(FZ_Di_fW78);
@@ -165,7 +165,7 @@ if (b7PP2JUX40 > FCUTR)
 switch (MhdC3c)
 {
 case 'a':
-yP155T = eSsy(322993660);
+yP155T = eSsy((unsigned char)322993660);
 break;
 case 'b':
 D90NOV *= Lv_CgQ9o;
@@ -228,7 +228,7 @@ uJ6S = e_LBk6(uJ6S, FZ_Di_fW78);
 
 j1w__1qe = EoP0d2Q & 1900870164;
 
-EoP0d2Q = oN6_SWt3y(1511106801, (short)-232829027);
+EoP0d2Q = oN6_SWt3y((short)1511106801, (short)-232829027);
 
 {
 int i = 7;
@@ -244,7 +244,7 @@ switch (j1w__1qe)
 {
 case 'a':
 case 'A':
-ggBb_5XC = oN6_SWt3y(2039770466, b7PP2JUX40);
+ggBb_5XC = oN6_SWt3y((short)2039770466, b7PP2JUX40);
 break;
 case 'b':
 case 'B':
@@ -264,7 +264,7 @@ LXy4E_K *= 459704845;
 break;
 case 'f':
 case 'F':
-n_PEtGOE = t_sqD9dN2(-199213661, 1370832272);
+n_PEtGOE = t_sqD9dN2(-199213661, (short)1370832272);
 break;
 case 'g':
 case 'G':
@@ -276,7 +276,7 @@ D90NOV = D90NOV >> 218457226;
 break;
 case 'i':
 case 'I':
-Jbid32Q_9b = oN6_SWt3y(Jbid32Q_9b, -472148540);
+Jbid32Q_9b = oN6_SWt3y(Jbid32Q_9b, (short)-472148540);
 break;
 case 'j':
 case 'J':
@@ -374,7 +374,7 @@ std::cout << "QF3105E7M2" << e_LBk6(EoP0d2Q, j1w__1qe) << std::endl;
 }
 else
 {
-std::cout << eSsy(-800441944) << Sy9n << "IXdK3" << e_LBk6(103686237, j1w__1qe) << NtyL36Xa << std::endl;
+std::cout << eSsy((unsigned char)-800441944) << Sy9n << "IXdK3" << e_LBk6(103686237, j1w__1qe) << NtyL36Xa << std::endl;
 }
 switch (D90NOV)
 {
@@ -394,7 +394,7 @@ case 'e':
 mGEP++;
 break;
 case 'f':
-frPRHVYq3Z = e_LBk6(frPRHVYq3Z, 993246293);
+frPRHVYq3Z = e_LBk6(frPRHVYq3Z, (char)993246293);
 break;
 default:
 OOepd26S = L0XyvTk32(OOepd26S);

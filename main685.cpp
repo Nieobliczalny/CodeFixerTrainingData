@@ -19,7 +19,7 @@ int main(void) {
     char    eb8uwsnK;
     eb8uwsnK    =    0;
 	unsigned char	BF30WM;
-	BF30WM	=	-1351996977;
+	BF30WM	=	(unsigned char)-1351996977;
   long double  v0ND8;
   v0ND8  =  -998884698;
 	int	p8cX7j1hg;

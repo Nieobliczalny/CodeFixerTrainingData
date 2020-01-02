@@ -10,7 +10,7 @@
 
 
 unsigned short int  ph42(unsigned short  s1N933W5B7,unsigned short  E68i4VU,char  sG2Pm5HPZ,unsigned int  R50xt2y5n3,long long  Kh0n3)  {
-  return  -1435232842;
+  return  (unsigned short)-1435232842;
 }
 
 unsigned char  Y5NZ2(int  a80b_0Y,unsigned int  Z4229GA,unsigned short int  wFgP9,unsigned long long  QAuwu5Ewg)
@@ -61,7 +61,7 @@ break;
 
 if (aJK2)
 {
-std::cout << c8QrOx34 << ph42(c8QrOx34, 822835051, (char)1089308778, -1025126543, j2vYR72M9) << c8QrOx34 << std::endl;
+std::cout << c8QrOx34 << ph42(c8QrOx34, (unsigned short)822835051, (char)1089308778, -1025126543, j2vYR72M9) << c8QrOx34 << std::endl;
 }
 
 try
@@ -114,7 +114,7 @@ else
 c8QrOx34 = (long)(ct4BQ1v5 + (sKd8pOQvVz));
 }
 }
-c8QrOx34 = ph42(1840520265, wlF24lZuHY, j2vYR72M9, vxpWuK, -1799604259);
+c8QrOx34 = ph42((unsigned short)1840520265, wlF24lZuHY, j2vYR72M9, vxpWuK, -1799604259);
 c8QrOx34 = 1205556404 / vxpWuK;
 aJK2 = Y5NZ2(aJK2, j2vYR72M9, (unsigned short)-1800568699, wlF24lZuHY);
 try
@@ -157,7 +157,7 @@ aJK2 = (char)(wlF24lZuHY);
 while (i >= 0);
 }
 
-std::cout << hK4cfj9B0X(aJK2, wlF24lZuHY) << Y5NZ2(aJK2, wlF24lZuHY, 1126381954, c8QrOx34) << std::endl;
+std::cout << hK4cfj9B0X(aJK2, wlF24lZuHY) << Y5NZ2(aJK2, wlF24lZuHY, (unsigned short)1126381954, c8QrOx34) << std::endl;
 
 c8QrOx34 = j2vYR72M9 + c8QrOx34;
 if (j2vYR72M9)
@@ -200,7 +200,7 @@ int i = 0;
 while (i < 10)
 {
 ++i;
-c8QrOx34 = ph42(-2548043, j2vYR72M9, (char)-1809675844, -186288992, c8QrOx34);
+c8QrOx34 = ph42((unsigned short)-2548043, j2vYR72M9, (char)-1809675844, -186288992, c8QrOx34);
 }
 }
 
@@ -221,7 +221,7 @@ c8QrOx34 = aJK2 | 1556104117;
 }
 else if ((aJK2 == 856598911) || ((j2vYR72M9 < ct4BQ1v5) && (aJK2 != -769369902)))
 {
-c8QrOx34 = ph42(vxpWuK, 1687911036, aJK2, -1552582204, j2vYR72M9);
+c8QrOx34 = ph42(vxpWuK, (unsigned short)1687911036, aJK2, -1552582204, j2vYR72M9);
 }
 else if (j2vYR72M9 >= wlF24lZuHY)
 {
@@ -242,7 +242,7 @@ vxpWuK = (int)abs(j2vYR72M9);
 }
 else if (aJK2 >= -1074463538)
 {
-aJK2 = Y5NZ2(-1352602556, 915176966, 1575594859, 1898551431);
+aJK2 = Y5NZ2(-1352602556, 915176966, (unsigned short)1575594859, 1898551431);
 }
 else
 {
@@ -311,7 +311,7 @@ c8QrOx34 /= wlF24lZuHY;
 }
 else
 {
-vxpWuK = Y5NZ2(1445787274, wlF24lZuHY, -1398519547, -89818672);
+vxpWuK = Y5NZ2(1445787274, wlF24lZuHY, (unsigned short)-1398519547, -89818672);
 }
 }
 }

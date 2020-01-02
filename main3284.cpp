@@ -13,7 +13,7 @@ using std::ceil;
 using std::floor;
 
 int main() {
-    short int    kbM4tsK7    =    -1995828731;
+    short int    kbM4tsK7    =    (short)-1995828731;
     short int    boGKoyUs    =    (short)-303400572;
  unsigned short int H46Oy9L = -1436720351;
     char    CUj9932S2n    =    753263952;
@@ -25,7 +25,7 @@ int main() {
     float    g11c6    =    -387633973;
  int PKWhOC3Z = 0;
     float    Qr2n6l1JHt    =    -1320834722;
-	char	K9Z2pkpS	=	-56180677;
+	char	K9Z2pkpS	=	(char)-56180677;
   unsigned long long  stxs4  =  60129241;
  unsigned short int gf_iJ8 = (unsigned short)1554223791;
 
@@ -184,7 +184,7 @@ for (int j = 0; j < 5; ++j)
 {
 if (PGK_OuqW_ == 1743565336)
 {
-NM9P_UkW = (CUj9932S2n) ? H46Oy9L : -1554941384;
+NM9P_UkW = (CUj9932S2n) ? H46Oy9L : (unsigned short)-1554941384;
 }
 else if ((K9Z2pkpS <= 1636982562) || ((aI7ZeVP >= 685854485) || (FSw7oX_PB & -989014016)))
 {

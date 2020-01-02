@@ -13,7 +13,7 @@ int main(void)
   short int  eG_AnES0w8,  neOob;
     eG_AnES0w8  =  neOob  =  0;
     short    m4artOB,    zoO0lZ3W,    e378,    yVY37P,    k__HR1Gy,    vM0zB2z,    WXda2V4I6,    L9NQm,    vxy_5lm5,    Bv368_U,    pk_2,    gxI58o09IR,    PBUyzlYP,    RCi1r0_gd,    l5n5P1,    DFTl4u,    Q0thyvfZ,    e9JDKeraV_,    ED3Oli7nL,    S3qm,    bgijxX_Y6_,    nCg8,    SDb_42a,    r2hIUB71X4,    g8_PKuP,    eV5Fr_FT0,    r_uxrQAD,    n5j6,    k4ewB921Mo,    TOE21633,    l5_o58_N,    jQk98g23,    OXKQM7k8o,    uD0y;
-        m4artOB    =    zoO0lZ3W    =    e378    =    yVY37P    =    k__HR1Gy    =    vM0zB2z    =    WXda2V4I6    =    L9NQm    =    vxy_5lm5    =    Bv368_U    =    pk_2    =    gxI58o09IR    =    PBUyzlYP    =    RCi1r0_gd    =    l5n5P1    =    DFTl4u    =    Q0thyvfZ    =    e9JDKeraV_    =    ED3Oli7nL    =    S3qm    =    bgijxX_Y6_    =    nCg8    =    SDb_42a    =    r2hIUB71X4    =    g8_PKuP    =    eV5Fr_FT0    =    r_uxrQAD    =    n5j6    =    k4ewB921Mo    =    TOE21633    =    l5_o58_N    =    jQk98g23    =    OXKQM7k8o    =    uD0y    =    1401518147;
+        m4artOB    =    zoO0lZ3W    =    e378    =    yVY37P    =    k__HR1Gy    =    vM0zB2z    =    WXda2V4I6    =    L9NQm    =    vxy_5lm5    =    Bv368_U    =    pk_2    =    gxI58o09IR    =    PBUyzlYP    =    RCi1r0_gd    =    l5n5P1    =    DFTl4u    =    Q0thyvfZ    =    e9JDKeraV_    =    ED3Oli7nL    =    S3qm    =    bgijxX_Y6_    =    nCg8    =    SDb_42a    =    r2hIUB71X4    =    g8_PKuP    =    eV5Fr_FT0    =    r_uxrQAD    =    n5j6    =    k4ewB921Mo    =    TOE21633    =    l5_o58_N    =    jQk98g23    =    OXKQM7k8o    =    uD0y    =    (short)1401518147;
 
 vxy_5lm5++;
 Q0thyvfZ %= r2hIUB71X4;
@@ -151,7 +151,7 @@ case 7:
 PBUyzlYP = m4artOB - 1413440801;
 break;
 case 8:
-DFTl4u = (g8_PKuP > r_uxrQAD) ? Q0thyvfZ : -2109946841;
+DFTl4u = (g8_PKuP > r_uxrQAD) ? Q0thyvfZ : (short)-2109946841;
 break;
 default:
 l5_o58_N = ED3Oli7nL ^ m4artOB;
@@ -305,7 +305,7 @@ case 0:
 S3qm--;
 break;
 case 1:
-jQk98g23 = (e378) ? -11290227 : m4artOB;
+jQk98g23 = (e378) ? (short)-11290227 : m4artOB;
 break;
 case 2:
 ED3Oli7nL /= PBUyzlYP;
@@ -566,7 +566,7 @@ while (j < 9);
 }
 }
 
-l5n5P1 = (vxy_5lm5 & 1543642237) ? yVY37P : -2051037803;
+l5n5P1 = (vxy_5lm5 & 1543642237) ? yVY37P : (short)-2051037803;
 std::cout << l5_o58_N << "NB1hvd" << "hZCb" << std::endl;
 {
 int i = 0;

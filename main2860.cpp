@@ -15,7 +15,7 @@ using namespace std;
 int main(void)
 {
     short    H36Q6OdQS;
-    H36Q6OdQS    =    786661228;
+    H36Q6OdQS    =    (short)786661228;
  unsigned int E__9W5E20;
  E__9W5E20 = 429763812;
 	long	sa0Q;
@@ -35,7 +35,7 @@ int main(void)
  unsigned int duik9;
  duik9 = 771892090;
 	short int	zo43cLv;
-	zo43cLv	=	-1685318439;
+	zo43cLv	=	(short)-1685318439;
 	short int	qu1y_;
 	qu1y_	=	(short)1191478949;
  long long IXt3;
@@ -51,7 +51,7 @@ int main(void)
 	unsigned long long	Ipe_;
 	Ipe_	=	-896909463;
  short Md9x_S;
- Md9x_S = 671315674;
+ Md9x_S = (short)671315674;
     unsigned long long    E8rN2HuLp;
     E8rN2HuLp    =    -595111556;
 	short	ph40z2;
@@ -69,7 +69,7 @@ int main(void)
  long long lp5CH;
  lp5CH = -1748412952;
  unsigned short int qgf3;
- qgf3 = -1781420049;
+ qgf3 = (unsigned short)-1781420049;
   unsigned short  P8dzL1lo30;
   P8dzL1lo30  =  0;
 	float	RC6ydmL;
@@ -79,7 +79,7 @@ int main(void)
   long  iDRw7k4vzu;
   iDRw7k4vzu  =  1466552346;
   char  Vu5Rj;
-  Vu5Rj  =  1591127085;
+  Vu5Rj  =  (char)1591127085;
     unsigned char    XgvSS876K;
     XgvSS876K    =    (unsigned char)-1281537485;
     unsigned int    pwR4RA5i;
@@ -101,7 +101,7 @@ int main(void)
     int    yoFKx90nou;
     yoFKx90nou    =    -1555254030;
     short    J24Qk;
-    J24Qk    =    1429458919;
+    J24Qk    =    (short)1429458919;
     float    uGuir4;
     uGuir4    =    1140757510;
   short int  TA3a4kMXsq;
@@ -115,7 +115,7 @@ int main(void)
 	long	a2mAo2GZ_5;
 	a2mAo2GZ_5	=	129739666;
     short int    YVsd3m;
-    YVsd3m    =    -406712853;
+    YVsd3m    =    (short)-406712853;
   long  cwB_c5f;
   cwB_c5f  =  -492789022;
   char  Flxcb;
@@ -131,7 +131,7 @@ int main(void)
  long long fAAe;
  fAAe = 1037783783;
   unsigned char  m2_Xrcu_98;
-  m2_Xrcu_98  =  186123781;
+  m2_Xrcu_98  =  (unsigned char)186123781;
 	unsigned char	xpL50617_P;
 	xpL50617_P	=	(unsigned char)1625843086;
 	unsigned char	F8aV5;
@@ -143,7 +143,7 @@ int main(void)
   long double  X22e;
   X22e  =  -1323817653;
  short yYQKqSjn;
- yYQKqSjn = -1504675430;
+ yYQKqSjn = (short)-1504675430;
  long long tyl67ot8;
  tyl67ot8 = -369848386;
  char wVmaWw;
@@ -155,7 +155,7 @@ int main(void)
 	double	nz82FDM;
 	nz82FDM	=	1990656990;
 	char	R0ux5ak;
-	R0ux5ak	=	2018397707;
+	R0ux5ak	=	(char)2018397707;
     unsigned short    ger_XOQ;
     ger_XOQ    =    (unsigned short)635055384;
 

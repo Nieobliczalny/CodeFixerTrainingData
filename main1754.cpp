@@ -21,7 +21,7 @@ int main(void) {
 
 for (int i = 7; i >= 0; i--)
 {
-std::cout << "k3ZkFHZr1Q" << SPF1bK << wAy6(917511602) << wAy6(Hv_aVY) << std::endl;
+std::cout << "k3ZkFHZr1Q" << SPF1bK << wAy6((char)917511602) << wAy6(Hv_aVY) << std::endl;
 }
 O4728_WM_ = (unsigned short int)(h082e);
 {
@@ -56,7 +56,7 @@ std::cout << W52fHE43 << std::endl;
 }
 else
 {
-b6Q0 = wAy6(-978753087) & AoNU4uDRPw;
+b6Q0 = wAy6((char)-978753087) & AoNU4uDRPw;
 }
 }
 else if (w854 < -2135632934)
@@ -96,7 +96,7 @@ fTUR7mBv <<= 30932738;
 NEF_UY35O >>= 1733915922;
 if (((Gavf8L >= -314806695) || (zP70Ph1 > 1486006741)) && (MUga))
 {
-std::cout << FA2LyC << TheDq517(XAn5O7oV2O, 2021389714, (unsigned char)1152482474) << wAy6(XAn5O7oV2O) << std::endl;
+std::cout << FA2LyC << TheDq517(XAn5O7oV2O, (unsigned char)2021389714, (unsigned char)1152482474) << wAy6(XAn5O7oV2O) << std::endl;
 }
 std::cout << "asce2J04M" << qqWrNo2D << std::endl;
 x6JSuEX_u |= 1726493798;
@@ -119,7 +119,7 @@ Gavf8L = wAy6(Gavf8L);
 break;
 case 'c':
 case 'C':
-adDk = TheDq517(-927119194, -370125222, b6Q0);
+adDk = TheDq517(-927119194, (unsigned char)-370125222, b6Q0);
 break;
 case 'd':
 case 'D':
@@ -143,7 +143,7 @@ p973Rw9u0 >>= GyPJ;
 break;
 case 'i':
 case 'I':
-ZC77wdK3 = TheDq517(-763656631, -925442509, (unsigned char)1471938369);
+ZC77wdK3 = TheDq517(-763656631, (unsigned char)-925442509, (unsigned char)1471938369);
 break;
 case 'j':
 case 'J':
@@ -161,7 +161,7 @@ while (j >= 0)
 --j;
 if (xTO2_ki > 1583756607)
 {
-wRw1F = TheDq517(2087738136, 813994942, fTUR7mBv);
+wRw1F = TheDq517(2087738136, (unsigned char)813994942, fTUR7mBv);
 }
 else if (p973Rw9u0 == y2185)
 {
@@ -204,7 +204,7 @@ while (j < 3);
 }
 }
 std::cout << TheDq517(-1044540926, adDk, nYCrE30zi) << Yk78mqv6 << ral4ve() << ral4ve() << std::endl;
-if (TheDq517(kMd3JBz, -999094663, (unsigned char)-576767328) == 0)
+if (TheDq517(kMd3JBz, (unsigned char)-999094663, (unsigned char)-576767328) == 0)
 {
 	h082e = x6JSuEX_u / TheDq517(kMd3JBz, -999094663, -576767328);
 }
@@ -225,7 +225,7 @@ while (i >= 0)
 {
 if (I2AaV <= 1335561029)
 {
-ZC77wdK3 = TheDq517(NEF_UY35O, 527968751, F0a30Xx1Q);
+ZC77wdK3 = TheDq517(NEF_UY35O, (unsigned char)527968751, F0a30Xx1Q);
 }
 else
 {

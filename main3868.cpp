@@ -15,7 +15,7 @@ short int L8G0tWE0Kg(short int sJ0y_02,unsigned int U0G7xPyCv,unsigned long long
 
 short int  c7z164(unsigned char  VRkO)
 {
-  return  1207043640;
+  return  (short)1207043640;
 }
 
 unsigned short  Qu784(unsigned long  P2Vp0CR2U,unsigned char  t8x96UY5M,char  z446i1mEg,unsigned int  fpU4S,int  R__I)
@@ -47,7 +47,7 @@ int main(void)
  unsigned long j3_w7C4;
  j3_w7C4 = -1100946312;
   short  Lz38dO_9;
-  Lz38dO_9  =  331670650;
+  Lz38dO_9  =  (short)331670650;
     float    kW6X8;
     kW6X8    =    -169334868;
   char  Wo182;
@@ -222,7 +222,7 @@ Wo182 |= 828938231;
 }
 else
 {
-Lz38dO_9 = c7z164(-590943626) % 1050028170;
+Lz38dO_9 = c7z164((unsigned char)-590943626) % 1050028170;
 }
 }
 else
@@ -239,7 +239,7 @@ case 2:
 Lz38dO_9 ^= j3_w7C4;
 break;
 case 3:
-Lz38dO_9 = Qu784(163442660, Z03g, -814822021, 81094460, -1533689871);
+Lz38dO_9 = Qu784(163442660, Z03g, (char)-814822021, 81094460, -1533689871);
 break;
 case 4:
 kW6X8 = (int)abs(Wo182);
@@ -256,7 +256,7 @@ int k = 0;
 do
 {
 ++k;
-AKJlVj = Qu784(AKJlVj, 937804542, n4zD_, Q_16tIg8I, -896727027);
+AKJlVj = Qu784(AKJlVj, (unsigned char)937804542, n4zD_, Q_16tIg8I, -896727027);
 }
 while (k < 1);
 }
@@ -319,7 +319,7 @@ else
 {
 Q_16tIg8I = (char)(ZnCbKl);
 }
-std::cout << Wo182 / L8G0tWE0Kg(j3_w7C4, 1663798479, 472359980, 1759676551, 1469683093) << std::endl;
+std::cout << Wo182 / L8G0tWE0Kg(j3_w7C4, 1663798479, 472359980, (short)1759676551, 1469683093) << std::endl;
 {
 int i = 0;
 while (i < 10)
@@ -364,7 +364,7 @@ case 4:
 F8EX = (int)abs(Lz38dO_9) * 0;
 break;
 case 5:
-Wo182 = Qu784(Wo182, 1583058275, (char)1686128462, 276376708, 574772720);
+Wo182 = Qu784(Wo182, (unsigned char)1583058275, (char)1686128462, 276376708, 574772720);
 break;
 default:
 AKJlVj &= 1407769095;
@@ -377,7 +377,7 @@ else if (Wo182 != j3_w7C4)
 int k = 2;
 while (k >= 0)
 {
-n4zD_ = c7z164(-1194226361);
+n4zD_ = c7z164((unsigned char)-1194226361);
 --k;
 }
 }
@@ -401,7 +401,7 @@ u29mJ6 = (int)ceil(kW6X8);
 Lz38dO_9 = Z2A5E12R2B();
 if (j3_w7C4 <= ZnCbKl)
 {
-Q_16tIg8I = L8G0tWE0Kg(-1547978934, 1875949661, 1820363292, (short)-1302989539, -1039398121);
+Q_16tIg8I = L8G0tWE0Kg((short)-1547978934, 1875949661, 1820363292, (short)-1302989539, -1039398121);
 }
 else if (Z03g)
 {
@@ -431,7 +431,7 @@ int k = 0;
 do
 {
 ++k;
-Ptx9b6Z = L8G0tWE0Kg(Wo182, 1263283592, -695055711, 284050197, F8EX);
+Ptx9b6Z = L8G0tWE0Kg(Wo182, 1263283592, -695055711, (short)284050197, F8EX);
 }
 while (k < 3);
 }

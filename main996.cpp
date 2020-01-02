@@ -28,7 +28,7 @@ int main(int argc, char** argv)
  unsigned long long K0z1z2T9;
  K0z1z2T9 = 1806708095;
     char    h2oMCVSE;
-    h2oMCVSE    =    -763218389;
+    h2oMCVSE    =    (char)-763218389;
  unsigned long long a_Nuodp;
  a_Nuodp = 234302836;
 	long	vEXFR;

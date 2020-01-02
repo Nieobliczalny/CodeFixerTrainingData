@@ -20,7 +20,7 @@ int main(int argc, char** argv)
 	T7h9IQ9n	=	0;
 	wLQWVSs14	=	0;
  unsigned short c5Zw5t, Lug_pH, JTMHp2F_k, r7I_8, zIeV_A2Y, opMD4Fix_8, NH_ohJ, rL7L_so, CImekh7v;
- c5Zw5t = -1284890777;
+ c5Zw5t = (unsigned short)-1284890777;
  Lug_pH = (unsigned short)942677865;
  JTMHp2F_k = 1751830499;
  r7I_8 = 1736058704;
@@ -643,7 +643,7 @@ else
 switch (T7h9IQ9n)
 {
 case 'a':
-rL7L_so = (T7h9IQ9n < f5mc8I_) ? 821077363 : (unsigned short)627445002;
+rL7L_so = (T7h9IQ9n < f5mc8I_) ? (unsigned short)821077363 : (unsigned short)627445002;
 break;
 default:
 r7I_8 = JTMHp2F_k * NH_ohJ;
@@ -777,7 +777,7 @@ catch (int& errorCode)
 zIeV_A2Y &= 318529115;
 }
 }
-CImekh7v = (T7h9IQ9n >= mOp73D5NBc) ? rL7L_so : -1395073281;
+CImekh7v = (T7h9IQ9n >= mOp73D5NBc) ? rL7L_so : (unsigned short)-1395073281;
 
 for (int i = 0; i < 6; ++i)
 {
@@ -793,7 +793,7 @@ c5Zw5t += 106451134;
 }
 else if (wLQWVSs14)
 {
-opMD4Fix_8 = (lg7I) ? CImekh7v : 1781370805;
+opMD4Fix_8 = (lg7I) ? CImekh7v : (unsigned short)1781370805;
 }
 else if (((lg7I != rL7L_so) && (kWhRTm)) && (JTMHp2F_k & mOp73D5NBc))
 {

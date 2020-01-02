@@ -17,7 +17,7 @@ int main(int argc, char** argv)
   unsigned short int  lhPd993rf,  y9M_h,  oEpJ,  xR79,  wA07Dol5K;
     lhPd993rf  =  y9M_h  =  oEpJ  =  xR79  =  wA07Dol5K  =  0;
  short int GQuWN, GO61, EPtQ0fgbrD, x876khR6N, B4NB90Z618, W0Kry_2j5, tW7NqXQ, VFim0ox5, F2k9udW, Tc9C, g_40eiMmq, i4_WIyg, t3ss6rvX5, m4LdBn8I, PvW1e_2, uJ84k6i, yPz4W, H4s_, Bqq652r7, n26zA_, tl52C, L7_8e1iu4f;
-  GQuWN = GO61 = EPtQ0fgbrD = x876khR6N = B4NB90Z618 = W0Kry_2j5 = tW7NqXQ = VFim0ox5 = F2k9udW = Tc9C = g_40eiMmq = i4_WIyg = t3ss6rvX5 = m4LdBn8I = PvW1e_2 = uJ84k6i = yPz4W = H4s_ = Bqq652r7 = n26zA_ = tl52C = L7_8e1iu4f = -692564597;
+  GQuWN = GO61 = EPtQ0fgbrD = x876khR6N = B4NB90Z618 = W0Kry_2j5 = tW7NqXQ = VFim0ox5 = F2k9udW = Tc9C = g_40eiMmq = i4_WIyg = t3ss6rvX5 = m4LdBn8I = PvW1e_2 = uJ84k6i = yPz4W = H4s_ = Bqq652r7 = n26zA_ = tl52C = L7_8e1iu4f = (short)-692564597;
 
 if ((H4s_ & -1283425678) && (n26zA_ != -2136289648))
 {
@@ -331,7 +331,7 @@ do
 {
 for (int j = 0; j < 8; ++j)
 {
-L7_8e1iu4f = (y9M_h != t3ss6rvX5) ? -524393732 : oEpJ;
+L7_8e1iu4f = (y9M_h != t3ss6rvX5) ? (short)-524393732 : oEpJ;
 }
 i++;
 }

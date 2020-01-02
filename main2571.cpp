@@ -120,7 +120,7 @@ case 3:
 vg9dWjI = IG444rO / 1960577994;
 break;
 case 4:
-zOUBwXMr8 = u5jW5(-1248322119);
+zOUBwXMr8 = u5jW5((unsigned char)-1248322119);
 break;
 case 5:
 hi5Gbo6 = u5jW5(hi5Gbo6);
@@ -157,7 +157,7 @@ s6RnzOvavZ = (int)abs(DmF02ms_Q);
 }
 else if (((hi5Gbo6 > 299750223) || (UNj9_ >= plD4N)) || (p58z14 != UNj9_))
 {
-cout << xw5g(-547061147) << u5jW5(160334305) << "Q9PJL8Pp" << u5jW5((unsigned char)1124272557) << endl;
+cout << xw5g(-547061147) << u5jW5((unsigned char)160334305) << "Q9PJL8Pp" << u5jW5((unsigned char)1124272557) << endl;
 }
 else if (oBP6Xrrl3v != -490024416)
 {
@@ -191,7 +191,7 @@ nenSIg = oBP6Xrrl3v + 1870900816;
 break;
 case 'd':
 case 'D':
-ZN97rWGr6 = u5jW5(2012599921);
+ZN97rWGr6 = u5jW5((unsigned char)2012599921);
 break;
 case 'e':
 case 'E':

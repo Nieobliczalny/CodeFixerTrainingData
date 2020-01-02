@@ -139,7 +139,7 @@ F1P4e73hMe ^= Cs_e;
 break;
 case 'b':
 case 'B':
-pk9263 = (w04IBO615 != mNfXWwV_F) ? -1763009787 : umEe;
+pk9263 = (w04IBO615 != mNfXWwV_F) ? (char)-1763009787 : umEe;
 break;
 case 'c':
 case 'C':

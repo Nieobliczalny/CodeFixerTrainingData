@@ -27,7 +27,7 @@ int main(void)
 	unsigned long long	v3aQ;
 	v3aQ	=	1472622388;
  unsigned short int pN8a7S;
- pN8a7S = -292429723;
+ pN8a7S = (unsigned short)-292429723;
 	double	Sv169;
 	Sv169	=	1595829921;
  double G1up95;
@@ -37,7 +37,7 @@ int main(void)
 	short int	n_w1bkX0O;
 	n_w1bkX0O	=	(short)-2101847621;
  char ZI6H3Cj;
- ZI6H3Cj = 75734088;
+ ZI6H3Cj = (char)75734088;
 	unsigned int	ctsk2e7A4x;
 	ctsk2e7A4x	=	-604922235;
   unsigned long long  o6IKqdi0u;
@@ -53,7 +53,7 @@ int main(void)
     long long    cc4zAv4a;
     cc4zAv4a    =    0;
   short int  bY10E;
-  bY10E  =  -2030627653;
+  bY10E  =  (short)-2030627653;
     unsigned char    By_r5g8_;
     By_r5g8_    =    (unsigned char)-1082802489;
   double  PB14XRe;
@@ -63,7 +63,7 @@ int main(void)
 	short	tO__3sGfK;
 	tO__3sGfK	=	-1519029209;
     unsigned char    D5iJ47;
-    D5iJ47    =    110550064;
+    D5iJ47    =    (unsigned char)110550064;
 	unsigned short int	T1YXq14;
 	T1YXq14	=	(unsigned short)-948449912;
     int    f8hWfaGn;
@@ -77,7 +77,7 @@ int main(void)
 	int	Wp4x6Z7;
 	Wp4x6Z7	=	-1466622741;
     unsigned short int    Txt_Hn9;
-    Txt_Hn9    =    -581888002;
+    Txt_Hn9    =    (unsigned short)-581888002;
  unsigned long OpYX0;
  OpYX0 = -975572091;
   double  a46e9k4Fh;
@@ -480,7 +480,7 @@ tO__3sGfK ^= 1654075991;
 
 try
 {
-bY10E = (PLbnl102r == Qa2A222v) ? -1890353690 : Y_5MTgprm9;
+bY10E = (PLbnl102r == Qa2A222v) ? (short)-1890353690 : Y_5MTgprm9;
 }
 catch (int& errorCode)
 {

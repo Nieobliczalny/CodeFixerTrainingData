@@ -24,7 +24,7 @@ int main(void)
     double    XRFcNpEU5;
     XRFcNpEU5    =    -1333815523;
  short B0Vpa0;
- B0Vpa0 = -1777155116;
+ B0Vpa0 = (short)-1777155116;
     unsigned short int    JbKEU09;
     JbKEU09    =    0;
 	unsigned int	c75Gq0zPpr;
@@ -42,7 +42,7 @@ int main(void)
   int  j4Nzl;
   j4Nzl  =  -2088413232;
     unsigned short    zf1Frpd62;
-    zf1Frpd62    =    582249728;
+    zf1Frpd62    =    (unsigned short)582249728;
  unsigned long qMbE48;
  qMbE48 = -463785627;
 	float	Zh7RW3;

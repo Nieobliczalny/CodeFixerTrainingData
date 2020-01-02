@@ -151,7 +151,7 @@ case 4:
 EY2joWlA /= jb6khu1;
 break;
 default:
-x_fw = J0_cTOd5(-539915695);
+x_fw = J0_cTOd5((short)-539915695);
 break;
 }
 }
@@ -167,7 +167,7 @@ case 'a':
 WAGls04I4u--;
 break;
 case 'b':
-T2kUUb2 = k8kqF(-1268101136, -1838830382, Yjox7);
+T2kUUb2 = k8kqF((unsigned short)-1268101136, -1838830382, Yjox7);
 break;
 case 'c':
 Y_u01g = Fos5(Y_u01g, -3981380);
@@ -204,7 +204,7 @@ try
 {
 try
 {
-mT1F34q5 = J0_cTOd5(1803054123);
+mT1F34q5 = J0_cTOd5((short)1803054123);
 }
 catch (int& errorCode)
 {
@@ -329,7 +329,7 @@ else if (rPz4J > Mil8412K87)
 switch (jbna7nXR)
 {
 case 'a':
-T2kUUb2 = k8kqF(Q4rJ3r0O, HVn873KTe, 2008954436);
+T2kUUb2 = k8kqF(Q4rJ3r0O, HVn873KTe, (unsigned short)2008954436);
 break;
 case 'b':
 lN3QCTU = o8C24HJm(T2kUUb2);
@@ -347,7 +347,7 @@ case 'f':
 E_mo = dTt3p | 2076786824;
 break;
 case 'g':
-Mil8412K87 = (g03gOL2 & -182712235) ? 305481536 : (unsigned short)-937974298;
+Mil8412K87 = (g03gOL2 & -182712235) ? (unsigned short)305481536 : (unsigned short)-937974298;
 break;
 case 'h':
 Rk3P4lS7 = o8C24HJm(887145594);
@@ -401,7 +401,7 @@ return 0;
 
 short  o8C24HJm(unsigned long long  e0Pqd1oNuw)
 {
-  return  -966849531;
+  return  (short)-966849531;
 }
 
 unsigned long	YIUSsE0Ng()	{

@@ -11,7 +11,7 @@ using namespace std;
 int main()
 {
   char  o511_A,  c_E_C_,  xn7u1,  m67S_9S7,  c8ht3m,  ptRh2rf,  Ah45,  B63_5a,  knSpU,  fOWaU,  G2akNz_,  qAJ2,  FM8QUG,  IZ2k__Nz,  zEW_S4a,  FGoGf92W,  YnT7k5D,  VW9Gq5R,  VVwi2RfVV,  e4Shw6D2,  hPk3l7Y,  Z2n_It_Hea,  DHZ6,  khPZgZs,  QZ_EX4UY,  ILGSHB,  vCqB9A7,  JD4K_9Q_i,  R10M3f0V7X,  D645e0tx,  lp0e5,  ZM9z,  oMr90x5,  seZ4H,  QLKfY9qy9u,  WP4M7i8r53,  mR9_i,  KAt0qib4H,  mwO0kyUkS,  J06Xx6nY5g,  ht4ikf3,  OI6O,  pK2_,  B816Pu,  u373L5,  Ibp2HTxu,  Z0b0iZ;
-    o511_A  =  c_E_C_  =  xn7u1  =  m67S_9S7  =  c8ht3m  =  ptRh2rf  =  Ah45  =  B63_5a  =  knSpU  =  fOWaU  =  G2akNz_  =  qAJ2  =  FM8QUG  =  IZ2k__Nz  =  zEW_S4a  =  FGoGf92W  =  YnT7k5D  =  VW9Gq5R  =  VVwi2RfVV  =  e4Shw6D2  =  hPk3l7Y  =  Z2n_It_Hea  =  DHZ6  =  khPZgZs  =  QZ_EX4UY  =  ILGSHB  =  vCqB9A7  =  JD4K_9Q_i  =  R10M3f0V7X  =  D645e0tx  =  lp0e5  =  ZM9z  =  oMr90x5  =  seZ4H  =  QLKfY9qy9u  =  WP4M7i8r53  =  mR9_i  =  KAt0qib4H  =  mwO0kyUkS  =  J06Xx6nY5g  =  ht4ikf3  =  OI6O  =  pK2_  =  B816Pu  =  u373L5  =  Ibp2HTxu  =  Z0b0iZ  =  -1210724005;
+    o511_A  =  c_E_C_  =  xn7u1  =  m67S_9S7  =  c8ht3m  =  ptRh2rf  =  Ah45  =  B63_5a  =  knSpU  =  fOWaU  =  G2akNz_  =  qAJ2  =  FM8QUG  =  IZ2k__Nz  =  zEW_S4a  =  FGoGf92W  =  YnT7k5D  =  VW9Gq5R  =  VVwi2RfVV  =  e4Shw6D2  =  hPk3l7Y  =  Z2n_It_Hea  =  DHZ6  =  khPZgZs  =  QZ_EX4UY  =  ILGSHB  =  vCqB9A7  =  JD4K_9Q_i  =  R10M3f0V7X  =  D645e0tx  =  lp0e5  =  ZM9z  =  oMr90x5  =  seZ4H  =  QLKfY9qy9u  =  WP4M7i8r53  =  mR9_i  =  KAt0qib4H  =  mwO0kyUkS  =  J06Xx6nY5g  =  ht4ikf3  =  OI6O  =  pK2_  =  B816Pu  =  u373L5  =  Ibp2HTxu  =  Z0b0iZ  =  (char)-1210724005;
   long  EqIbW0,  u7PuGTGQ,  l_MkU1pdgI;
     EqIbW0  =  u7PuGTGQ  =  l_MkU1pdgI  =  0;
 
@@ -340,7 +340,7 @@ ptRh2rf = knSpU << e4Shw6D2;
 }
 else if ((ht4ikf3 & khPZgZs) && ((seZ4H < 957002606) || (QZ_EX4UY <= -435998330)))
 {
-u373L5 = (e4Shw6D2 <= R10M3f0V7X) ? ILGSHB : 1062786499;
+u373L5 = (e4Shw6D2 <= R10M3f0V7X) ? ILGSHB : (char)1062786499;
 }
 else if (o511_A >= 124722340)
 {

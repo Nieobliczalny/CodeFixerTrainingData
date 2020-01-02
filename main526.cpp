@@ -10,7 +10,7 @@ using namespace std;
 
 unsigned short uk8671s8(int S8kFB56MC)
 {
- return 1473532404;
+ return (unsigned short)1473532404;
 }
 
 char    V96y(unsigned short int    RJcumZG,unsigned char    B_04C_47,unsigned char    Sse7)    {
@@ -27,7 +27,7 @@ int main() {
 int i = 0;
 do
 {
-std::cout << V96y(jrdaScm4_, 329603481, ii84GEq) << "De9IR5YKX1" << std::endl;
+std::cout << V96y(jrdaScm4_, (unsigned char)329603481, ii84GEq) << "De9IR5YKX1" << std::endl;
 i++;
 }
 while (i < 7);
@@ -59,7 +59,7 @@ case 0:
 qbl_1u = uk8671s8(qbl_1u);
 break;
 case 1:
-d0f06 = V96y(-872842853, (unsigned char)112611865, wp0r6ty);
+d0f06 = V96y((unsigned short)-872842853, (unsigned char)112611865, wp0r6ty);
 break;
 case 2:
 hj2FmA_0 = (F4xF > 1874746507) ? uk8671s8(-836765070) : -1985475223;
@@ -71,7 +71,7 @@ case 4:
 U0N4i_A7WM = V96y(981747130, -21303888, 2055766452);
 break;
 case 5:
-hePZYti = V96y(-259774699, bV55T71, (unsigned char)859855620);
+hePZYti = V96y((unsigned short)-259774699, bV55T71, (unsigned char)859855620);
 break;
 case 6:
 D79_Y = nIpf % poqRT;
@@ -90,7 +90,7 @@ HF0tU = (unsigned short int)(Z0fF01ypi1);
 switch (fiwXpv11)
 {
 case 0:
-hePZYti = V96y(-537006051, jrdaScm4_, F4xF);
+hePZYti = V96y((unsigned short)-537006051, jrdaScm4_, F4xF);
 break;
 case 1:
 K9F06ThB6Z = pF843f0 - POT2IVTd6;
@@ -131,7 +131,7 @@ switch (Z0fF01ypi1)
 {
 case 'a':
 case 'A':
-D79_Y = V96y(261495015, (unsigned char)1668624378, ktKxn) - 1825667934;
+D79_Y = V96y((unsigned short)261495015, (unsigned char)1668624378, ktKxn) - 1825667934;
 break;
 case 'b':
 case 'B':
@@ -143,7 +143,7 @@ oYl2h64 = V96y(pF843f0, -760654428, 1308996664);
 break;
 case 'd':
 case 'D':
-hePZYti = V96y(-545673677, (unsigned char)1054325371, -1639128331);
+hePZYti = V96y((unsigned short)-545673677, (unsigned char)1054325371, -1639128331);
 break;
 case 'e':
 case 'E':
@@ -189,7 +189,7 @@ catch (int& errorCode)
 {
 ii84GEq = (N3vbl_1u2_ & 397496843) ? uk8671s8(142666968) : Z0fF01ypi1;
 }
-oYl2h64 = V96y(an1DV_, 2141004786, (unsigned char)-351012886);
+oYl2h64 = V96y(an1DV_, (unsigned char)2141004786, (unsigned char)-351012886);
 if ((Y0_3n33 >= -1647886892) && ((ziLy5q) || (jrdaScm4_ <= poqRT)))
 {
 F4xF ^= Z0fF01ypi1;
@@ -225,7 +225,7 @@ int i = 9;
 do
 {
 i--;
-a0wou6dbu0 = V96y(-125058853, F4xF, (unsigned char)2077913754);
+a0wou6dbu0 = V96y((unsigned short)-125058853, F4xF, (unsigned char)2077913754);
 }
 while (i >= 0);
 }
@@ -238,7 +238,7 @@ while (i < 4)
 switch (XRhO)
 {
 case 0:
-U0N4i_A7WM = V96y(-423653435, O1vK5u, vHQKOGz);
+U0N4i_A7WM = V96y((unsigned short)-423653435, O1vK5u, vHQKOGz);
 break;
 case 1:
 d0f06 = V96y(CfHU6z, (unsigned char)-352724740, S9AA3O0G);

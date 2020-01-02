@@ -14,7 +14,7 @@ int main(int argc, char** argv)
   PHVO3  =  0;
   cz4_FO  =  0;
   unsigned char  Ei84f_tUb3,  Y5Oh5QH,  AqBO,  kSb40w7T,  pEqA0Z9m,  ECKYhY,  xJDTo0Oe,  c0_c1W,  bq7o6iV5K,  I4QRo5,  eKx1vl,  oe22G4gOFB,  WVW1ev6nE0,  zqFQC5,  cCk7,  ighvYb5,  Pslh,  gul2J,  jzOOu,  OVeV1Ggjs,  ImFjSaf0zo,  a08hkv,  NoLp0EV,  qQsl4OVR7,  d07zxEbdY,  RC44_mDb_2,  ZN4DqTb_,  FMN8,  f_p_3,  l1aePlWDS,  OQMHMc1_b,  oa98r7H,  wz2z68,  UvWo7owed,  lrkl9Rk,  V65PhEh,  q8HI3_5P,  LkKt_,  M61d2U9N,  O_DWkq2_,  Q22Yu2g,  yR28o5,  t6QP3x0S,  A1N6,  K4Bb6568h2,  oYgYP75J_,  C67R13jP_,  me21r9K,  pip6ihV,  DI_uiW9,  rghJ;
-  Ei84f_tUb3  =  1378056543;
+  Ei84f_tUb3  =  (unsigned char)1378056543;
   Y5Oh5QH  =  (unsigned char)-1506859962;
   AqBO  =  -1657541632;
   kSb40w7T  =  -517066454;
@@ -24,7 +24,7 @@ int main(int argc, char** argv)
   c0_c1W  =  905022761;
   bq7o6iV5K  =  -610338939;
   I4QRo5  =  -224602575;
-  eKx1vl  =  -827439382;
+  eKx1vl  =  (unsigned char)-827439382;
   oe22G4gOFB  =  (unsigned char)-1357837084;
   WVW1ev6nE0  =  850949526;
   zqFQC5  =  1125201422;
@@ -34,7 +34,7 @@ int main(int argc, char** argv)
   gul2J  =  -1892747074;
   jzOOu  =  -1402859841;
   OVeV1Ggjs  =  1552773534;
-  ImFjSaf0zo  =  -765628407;
+  ImFjSaf0zo  =  (unsigned char)-765628407;
   a08hkv  =  (unsigned char)-649599386;
   NoLp0EV  =  1846172426;
   qQsl4OVR7  =  -458615759;
@@ -44,7 +44,7 @@ int main(int argc, char** argv)
   FMN8  =  1122500792;
   f_p_3  =  1444933535;
   l1aePlWDS  =  -508053716;
-  OQMHMc1_b  =  -1126816897;
+  OQMHMc1_b  =  (unsigned char)-1126816897;
   oa98r7H  =  (unsigned char)-1337801243;
   wz2z68  =  -48420923;
   UvWo7owed  =  971699663;
@@ -54,7 +54,7 @@ int main(int argc, char** argv)
   LkKt_  =  -1510001852;
   M61d2U9N  =  1263592110;
   O_DWkq2_  =  -2018385769;
-  Q22Yu2g  =  -1203750564;
+  Q22Yu2g  =  (unsigned char)-1203750564;
   yR28o5  =  (unsigned char)1297473779;
   t6QP3x0S  =  168609641;
   A1N6  =  -807119479;
@@ -64,7 +64,7 @@ int main(int argc, char** argv)
   me21r9K  =  241190919;
   pip6ihV  =  -1675253964;
   DI_uiW9  =  1641609557;
-  rghJ  =  1217199075;
+  rghJ  =  (unsigned char)1217199075;
 
 {
 int i = 8;

@@ -28,7 +28,7 @@ unsigned int    Z08e(long    NDZOe,long    neVPSWkT7,long long    a8Kdc__Y)
 
 unsigned char  TUV78(long  DebN,char  vzVu,long long  k5sq9Qq8_,unsigned int  Du06TtF5)
 {
-  return  817677016;
+  return  (unsigned char)817677016;
 }
 
 unsigned short  BAHuP5RA(long long  Eldk6lW,unsigned int  Kd2BQygm,char  cWWru6)  {
@@ -144,7 +144,7 @@ int main(int argc, char** argv)
   DNVPui  =  0;
   n758T3dv92  =  0;
 
-cout << a_EE << "y13prNu" << "SXs20C" << TUV78(HA12z_o6, 292176690, 1019739571, 564949934) << endl;
+cout << a_EE << "y13prNu" << "SXs20C" << TUV78(HA12z_o6, (char)292176690, 1019739571, 564949934) << endl;
 sf9z1 = (long long)(q633Y2NoRF + (1923078331));
 nsx_B = -186043922 / isPmK88;
 
@@ -198,7 +198,7 @@ i--;
 }
 
 QonYaW = (long long)(q633Y2NoRF + (1036374362));
-cout << L_rl5(HA12z_o6) << "K_Jgv9JeE" << TUV78(HA12z_o6, 686365292, d1A0q9H, lajk_r687) << x0VtL8j << n758T3dv92 << endl;
+cout << L_rl5(HA12z_o6) << "K_Jgv9JeE" << TUV78(HA12z_o6, (char)686365292, d1A0q9H, lajk_r687) << x0VtL8j << n758T3dv92 << endl;
 q_e1j6_g30 = (long long)(bmVA_qWNW3);
 
 return 0;

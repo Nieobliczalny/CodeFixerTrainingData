@@ -23,7 +23,7 @@ int main(void)
  long long S1699ssJ2;
  S1699ssJ2 = 1880774337;
     unsigned short int    YWpVC;
-    YWpVC    =    -344767498;
+    YWpVC    =    (unsigned short)-344767498;
  long double u9Sw9eg_E;
  u9Sw9eg_E = 1488085112;
     long    rX25ZxL;
@@ -39,7 +39,7 @@ int main(void)
   int  Ou4kdGmq3;
   Ou4kdGmq3  =  0;
     unsigned short    a4fj9k1c;
-    a4fj9k1c    =    23504049;
+    a4fj9k1c    =    (unsigned short)23504049;
   int  pYU_qf7;
   pYU_qf7  =  0;
   long double  bGdofEu062;
@@ -65,7 +65,7 @@ int main(void)
  unsigned long long RM9rXW2;
  RM9rXW2 = -2013517816;
   unsigned short  DrKHUI2S2;
-  DrKHUI2S2  =  1005481964;
+  DrKHUI2S2  =  (unsigned short)1005481964;
   short int  G1FX_oI1L;
   G1FX_oI1L  =  (short)-376913313;
 	double	mOtN0;
@@ -77,7 +77,7 @@ int main(void)
 	unsigned long long	stWV8HVp37;
 	stWV8HVp37	=	238346429;
 	char	hq0ZGWG;
-	hq0ZGWG	=	-214465600;
+	hq0ZGWG	=	(char)-214465600;
 	char	UQvUBteG1;
 	UQvUBteG1	=	(char)-716851804;
  unsigned long long JhGT;
@@ -87,7 +87,7 @@ int main(void)
   unsigned short  b26vf_57p;
   b26vf_57p  =  -529573519;
     short    SeltyFKv45;
-    SeltyFKv45    =    -1877992941;
+    SeltyFKv45    =    (short)-1877992941;
     unsigned long long    P0bge5Ob;
     P0bge5Ob    =    456286090;
 	char	K5Lb2xdBv3;
@@ -140,7 +140,7 @@ cout << WZ7EDhvK5 / Ou4kdGmq3 << endl;
 switch (VMf_PR58)
 {
 case 0:
-Ou4kdGmq3 = w5bwG076a(-1977706628, UQvUBteG1, i_7W9poiNu, 454413378, -89462307);
+Ou4kdGmq3 = w5bwG076a(-1977706628, UQvUBteG1, i_7W9poiNu, 454413378, (short)-89462307);
 break;
 case 1:
 a4fj9k1c &= 581848302;
@@ -202,7 +202,7 @@ case 5:
 sCHg >>= K5Lb2xdBv3;
 break;
 case 6:
-nfhva7Bm = w5bwG076a(K5Lb2xdBv3, 113739514, -206230495, 267201318, -513544336);
+nfhva7Bm = w5bwG076a(K5Lb2xdBv3, 113739514, -206230495, 267201318, (short)-513544336);
 break;
 case 7:
 YTwf45c = (int)ceil(ZzbJd0Cny);
@@ -246,7 +246,7 @@ else if ((VMf_PR58 & -122789580) && ((stWV8HVp37 <= 853548502) || (sCHg != -2047
 {
 if (((URdftfu & w45B64EXl) && (JhGT != -1070130854)) || ((xOzHG84U1 & 331127486) && (UQvUBteG1 != HYWGYv_3tf)))
 {
-nfhva7Bm = w5bwG076a(WZ7EDhvK5, hZ3cnF, -834372874, 735343239, -601981277);
+nfhva7Bm = w5bwG076a(WZ7EDhvK5, hZ3cnF, -834372874, 735343239, (short)-601981277);
 }
 else
 {
@@ -285,7 +285,7 @@ else if ((PSU3H >= 290867605) && ((K5Lb2xdBv3 >= pu_oJL) && (PSU3H > Zi53hhlW)))
 int k = 0;
 while (k < 3)
 {
-Ou4kdGmq3 = w5bwG076a(DrKHUI2S2, G1FX_oI1L, ZzbJd0Cny, K5Lb2xdBv3, -1945812575);
+Ou4kdGmq3 = w5bwG076a(DrKHUI2S2, G1FX_oI1L, ZzbJd0Cny, K5Lb2xdBv3, (short)-1945812575);
 ++k;
 }
 }
@@ -372,7 +372,7 @@ b26vf_57p *= 1042572046;
 break;
 case 'd':
 case 'D':
-nfhva7Bm = w5bwG076a(URdftfu, RM9rXW2, Z0lbwg8, a4fj9k1c, -1187182379);
+nfhva7Bm = w5bwG076a(URdftfu, RM9rXW2, Z0lbwg8, a4fj9k1c, (short)-1187182379);
 break;
 case 'e':
 case 'E':
@@ -404,7 +404,7 @@ switch (hq0ZGWG)
 {
 case 'a':
 case 'A':
-Ou4kdGmq3 = w5bwG076a(RM9rXW2, rX25ZxL, SeltyFKv45, P0bge5Ob, 161236897);
+Ou4kdGmq3 = w5bwG076a(RM9rXW2, rX25ZxL, SeltyFKv45, P0bge5Ob, (short)161236897);
 break;
 case 'b':
 case 'B':
@@ -416,7 +416,7 @@ Ou4kdGmq3 = w5bwG076a(1835610834, -1094194137, 1230451307, -514051903, SeltyFKv4
 break;
 case 'd':
 case 'D':
-nfhva7Bm = w5bwG076a(HYWGYv_3tf, Zi53hhlW, hZ3cnF, DrKHUI2S2, -682671762);
+nfhva7Bm = w5bwG076a(HYWGYv_3tf, Zi53hhlW, hZ3cnF, DrKHUI2S2, (short)-682671762);
 break;
 case 'e':
 case 'E':
@@ -460,7 +460,7 @@ catch (int& errorCode)
 VMf_PR58 %= YWpVC;
 }
 }
-nfhva7Bm = w5bwG076a(PSU3H, -1016933291, GF_qUM, y43zE2, 1167201210);
+nfhva7Bm = w5bwG076a(PSU3H, -1016933291, GF_qUM, y43zE2, (short)1167201210);
 
 if (DrKHUI2S2 < w45B64EXl)
 {
@@ -474,7 +474,7 @@ switch (rX25ZxL)
 {
 case 'a':
 case 'A':
-pYU_qf7 = w5bwG076a(1788985691, -976559137, URdftfu, -1585029404, 2146411011);
+pYU_qf7 = w5bwG076a(1788985691, -976559137, URdftfu, -1585029404, (short)2146411011);
 break;
 case 'b':
 case 'B':
@@ -486,7 +486,7 @@ HYWGYv_3tf = (int)ceil(WZ7EDhvK5);
 break;
 case 'd':
 case 'D':
-Ou4kdGmq3 = w5bwG076a(hq0ZGWG, UQvUBteG1, HYWGYv_3tf, Z0lbwg8, -232952958);
+Ou4kdGmq3 = w5bwG076a(hq0ZGWG, UQvUBteG1, HYWGYv_3tf, Z0lbwg8, (short)-232952958);
 break;
 }
 }

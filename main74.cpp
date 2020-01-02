@@ -19,7 +19,7 @@ int main(int argc, char** argv)
 	unsigned long long	hNd045;
 	hNd045	=	-488045226;
     char    z882;
-    z882    =    1455181394;
+    z882    =    (char)1455181394;
   unsigned long  j_7ooWI696;
   j_7ooWI696  =  -189992097;
 	float	lenPkf1fm;
@@ -29,7 +29,7 @@ int main(int argc, char** argv)
 	long long	FB9qT;
 	FB9qT	=	-1297964387;
     char    ofPXg;
-    ofPXg    =    623503697;
+    ofPXg    =    (char)623503697;
   unsigned char  bCsR5L0_48;
   bCsR5L0_48  =  0;
     float    fqrUAcJ;
@@ -45,7 +45,7 @@ int main(int argc, char** argv)
 	long long	Aq_r_om;
 	Aq_r_om	=	0;
 	unsigned short	NkmO_DV;
-	NkmO_DV	=	1672008562;
+	NkmO_DV	=	(unsigned short)1672008562;
 
 for (int i = 0; i < 8; i++)
 {

@@ -31,7 +31,7 @@ unsigned long long gow1ubE__b(long long vAR_2pE,unsigned char W_18Ahv5) {
 
 int main(int argc, char** argv) {
   unsigned long  Iy65n  =  -891980591;
-	char	aAEKm8Aj	=	-1441247751;
+	char	aAEKm8Aj	=	(char)-1441247751;
   long double  p6DS2g33W  =  -347478811;
 	unsigned long	OLB6155S	=	-974580035;
   unsigned long  B_FeJU  =  -910346119;
@@ -45,7 +45,7 @@ int main(int argc, char** argv) {
   long double  Tw_kH  =  -280414852;
     float    VBfBn5oGq7    =    1462010654;
     unsigned long long    hdzR6_c    =    0;
-	short int	gfvst50x	=	1313818567;
+	short int	gfvst50x	=	(short)1313818567;
  long bgRBpsb35 = 0;
  unsigned short int uYR86v_cH = (unsigned short)1573824919;
     short    vbphP    =    1279657768;
@@ -56,7 +56,7 @@ int main(int argc, char** argv) {
   long  v8ei3  =  1537311139;
  double uP11_ = -1261098291;
  short int ti_B = 0;
- short BV_q6 = -859280909;
+ short BV_q6 = (short)-859280909;
  long GKMcbr2 = 61575525;
     long double    KT9_ul08S4    =    -1390935133;
  double VTGVRu = 1330304604;
@@ -98,7 +98,7 @@ case 3:
 f_V_4Rp8 = uj5w2fU(f_V_4Rp8, GKMcbr2, uP11_, gfvst50x);
 break;
 case 4:
-uP11_ = uj5w2fU(-635003967, 1117398392, ZdGw, (char)-876432069);
+uP11_ = uj5w2fU((short)-635003967, 1117398392, ZdGw, (char)-876432069);
 break;
 default:
 Tw_kH = (int)abs(vbphP);
@@ -195,7 +195,7 @@ F79jU &= B_FeJU;
 
 try
 {
-MYBa_KjvB4 = uj5w2fU(MYBa_KjvB4, -729242279, VBfBn5oGq7, 793182379);
+MYBa_KjvB4 = uj5w2fU(MYBa_KjvB4, -729242279, VBfBn5oGq7, (char)793182379);
 }
 catch (int& errorCode)
 {
@@ -270,7 +270,7 @@ Iy65n = gow1ubE__b(Iy65n, MyE0G4fB9);
 }
 else
 {
-Tw_kH = gow1ubE__b(-1541771368, 1373570921);
+Tw_kH = gow1ubE__b(-1541771368, (unsigned char)1373570921);
 }
 --j;
 }
@@ -363,7 +363,7 @@ int i = 0;
 do
 {
 i++;
-u6Lt7l = uj5w2fU(u6Lt7l, f_V_4Rp8, 1418542587, OR_3SeMR);
+u6Lt7l = uj5w2fU(u6Lt7l, f_V_4Rp8, (unsigned short)1418542587, OR_3SeMR);
 }
 while (i < 8);
 }
@@ -376,7 +376,7 @@ try
 {
 try
 {
-cout << hdzR6_c << ikXNy() << gow1ubE__b(R3ji, 851979389) << GKMcbr2 << endl;
+cout << hdzR6_c << ikXNy() << gow1ubE__b(R3ji, (unsigned char)851979389) << GKMcbr2 << endl;
 }
 catch (int& errorCode)
 {
@@ -388,7 +388,7 @@ catch (int& errorCode)
 vO33_ = gow1ubE__b(-1729325121, -1506899627);
 }
 
-MC5mVEc3 = gow1ubE__b(-946482130, 524605065);
+MC5mVEc3 = gow1ubE__b(-946482130, (unsigned char)524605065);
 {
 int i = 0;
 while (i < 1)

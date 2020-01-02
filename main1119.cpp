@@ -18,7 +18,7 @@ int  hXH7Np(unsigned int  RYtn1KAZ_9,long long  m_F43ZzcCr,unsigned short  YU87s
 }
 
 unsigned short int    P8KkL(unsigned int    VyT234cUs5,short int    gDN2b,unsigned short int    V_SY04nub5)    {
-    return    -1457852242;
+    return    (unsigned short)-1457852242;
 }
 
 int main(void) {
@@ -46,7 +46,7 @@ case 'D':
 q4912j_ = (int)abs(VMxRL);
 break;
 }
-p006eKVy = zF8TYf83 / hXH7Np(1472426454, 1742571898, -140637556);
+p006eKVy = zF8TYf83 / hXH7Np(1472426454, 1742571898, (unsigned short)-140637556);
 jjFo8F4 = (char)(l94vXaRT9 + (-1423510554));
 
 aP3cqGrA_o = P8KkL(aP3cqGrA_o, ADMC9zjpi, MwcBh44HgZ);

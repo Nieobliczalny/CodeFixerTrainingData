@@ -19,7 +19,7 @@ using std::floor;
 
 int main() {
   short int  oCoRAZN;
-  oCoRAZN  =  -996681851;
+  oCoRAZN  =  (short)-996681851;
 	float	n6c8;
 	n6c8	=	-1137341016;
     unsigned short int    H2n8;
@@ -29,7 +29,7 @@ int main() {
 	char	mhiV8D;
 	mhiV8D	=	391671747;
     unsigned short    i55xWB;
-    i55xWB    =    -24745573;
+    i55xWB    =    (unsigned short)-24745573;
 	unsigned short	RAg8j3;
 	RAg8j3	=	1624543128;
 	unsigned long	l1wwrWw32_;
@@ -41,7 +41,7 @@ int main() {
   long long  m2Dkc;
   m2Dkc  =  1795990593;
  short int z6D_xqH3B5;
- z6D_xqH3B5 = 1677952852;
+ z6D_xqH3B5 = (short)1677952852;
   long  K16gP;
   K16gP  =  190147326;
   short int  bP1YY;
@@ -231,7 +231,7 @@ oCoRAZN %= z6D_xqH3B5;
 }
 else
 {
-OB5H0xEs = (lKg2a1 <= mhiV8D) ? lKg2a1 : -468510194;
+OB5H0xEs = (lKg2a1 <= mhiV8D) ? lKg2a1 : (unsigned char)-468510194;
 }
 }
 }

@@ -22,7 +22,7 @@ unsigned int  pncv(unsigned long long  BsUe6kN5,unsigned long  MRjw8BfjB4,unsign
 
 int main(void) {
  unsigned short int focojM4;
- focojM4 = 380777738;
+ focojM4 = (unsigned short)380777738;
     long double    H7jUg;
     H7jUg    =    13813176;
   unsigned short  m_Q0HiQ;
@@ -36,7 +36,7 @@ int main(void) {
  unsigned long Tkt1851;
  Tkt1851 = 238147706;
  short int W38tu9Jh;
- W38tu9Jh = -1713316893;
+ W38tu9Jh = (short)-1713316893;
 	double	NL8K48DLyd;
 	NL8K48DLyd	=	50111863;
  long SO8as9U;
@@ -46,7 +46,7 @@ int main(void) {
  long rysA;
  rysA = -541909494;
  short sEXT4byG;
- sEXT4byG = -83161847;
+ sEXT4byG = (short)-83161847;
     long double    Wnj2BD;
     Wnj2BD    =    -212077759;
 	double	uaw4gsaG;
@@ -64,7 +64,7 @@ int main(void) {
 	int	Z462ic7;
 	Z462ic7	=	1161726684;
   short  fZ805Z;
-  fZ805Z  =  668501153;
+  fZ805Z  =  (short)668501153;
     double    A1l0ZpK;
     A1l0ZpK    =    -718649088;
 	long	W02EzX6b9;
@@ -74,7 +74,7 @@ int main(void) {
 	int	dVQTLgq;
 	dVQTLgq	=	-1734288296;
  unsigned short b7eiva1;
- b7eiva1 = 481738507;
+ b7eiva1 = (unsigned short)481738507;
     float    T3R4t;
     T3R4t    =    -995276487;
   unsigned char  dn_0IS;
@@ -88,7 +88,7 @@ int main(void) {
     int    vxaMJ65HZ;
     vxaMJ65HZ    =    2125698100;
   short int  i9lSrUy4D7;
-  i9lSrUy4D7  =  -616112209;
+  i9lSrUy4D7  =  (short)-616112209;
 	unsigned long long	kry7_6Z;
 	kry7_6Z	=	964072925;
 	unsigned long	TEa2qN;
@@ -106,7 +106,7 @@ int main(void) {
  long double m36w;
  m36w = -1700647929;
 	char	QO_vL__H;
-	QO_vL__H	=	1902240476;
+	QO_vL__H	=	(char)1902240476;
   unsigned short int  ivX517a4MA;
   ivX517a4MA  =  (unsigned short)1238713577;
  short int rZKfAYiLZ;
@@ -116,7 +116,7 @@ int main(void) {
 	unsigned int	AmI9BnAt;
 	AmI9BnAt	=	-445633868;
  unsigned short int SmUu372J81;
- SmUu372J81 = -1408523428;
+ SmUu372J81 = (unsigned short)-1408523428;
   long double  T4FM;
   T4FM  =  1949645837;
   int  OT9K;
@@ -128,7 +128,7 @@ int main(void) {
 	unsigned long long	k7R66uR3;
 	k7R66uR3	=	1838209368;
  char s8XNW84_W;
- s8XNW84_W = -1825021427;
+ s8XNW84_W = (char)-1825021427;
   unsigned short  u7bA896;
   u7bA896  =  -1908680260;
     long long    P167W;
@@ -140,7 +140,7 @@ int main(void) {
 	double	Wv4y5;
 	Wv4y5	=	2101238274;
 	unsigned char	rsI8110;
-	rsI8110	=	-1668512342;
+	rsI8110	=	(unsigned char)-1668512342;
  long double g9_hwy;
  g9_hwy = -719943180;
  unsigned long yRnNHT1;
@@ -152,7 +152,7 @@ int main(void) {
  long double f4L7VWv8;
  f4L7VWv8 = 445226174;
   unsigned char  baWH;
-  baWH  =  1245435559;
+  baWH  =  (unsigned char)1245435559;
 	unsigned long long	flBds8S;
 	flBds8S	=	-1607961571;
 	long	X8fn;
@@ -172,7 +172,7 @@ int main(void) {
  unsigned int eFD0pI;
  eFD0pI = -881805737;
  unsigned short int Fbi_2;
- Fbi_2 = 266792426;
+ Fbi_2 = (unsigned short)266792426;
   unsigned long long  ER16Psns;
   ER16Psns  =  1815538681;
   unsigned long long  ihKk737O_u;
@@ -281,7 +281,7 @@ A1l0ZpK = (int)ceil(Rx67_3tO7X);
 }
 else if ((P167W >= -1327733695) && (Tkt1851))
 {
-Sbcn7VD = vn6JNi1n6B(ER16Psns, -1213845729, Wv4y5, flBds8S);
+Sbcn7VD = vn6JNi1n6B(ER16Psns, (unsigned short)-1213845729, Wv4y5, flBds8S);
 }
 else
 {
@@ -300,7 +300,7 @@ g9_hwy = (int)abs(k4JT4vE7Ly);
 
 if (((AL43p_89u < IAJzgTP0dX) || (g9_hwy > focojM4)) && (SO8as9U < 685735208))
 {
-std::cout << pncv(ER16Psns, 902731451, 407052428) << vxaMJ65HZ << rsI8110 << std::endl;
+std::cout << pncv(ER16Psns, 902731451, (unsigned short)407052428) << vxaMJ65HZ << rsI8110 << std::endl;
 }
 else if (((flBds8S < 464290196) && (Sbcn7VD == -1369468164)) || (yRnNHT1 != -1533201462))
 {
@@ -338,7 +338,7 @@ int k = 0;
 while (k < 9)
 {
 ++k;
-Sbcn7VD = vn6JNi1n6B(1529541335, -1247552368, EhC_SNW21C, yRnNHT1);
+Sbcn7VD = vn6JNi1n6B(1529541335, (unsigned short)-1247552368, EhC_SNW21C, yRnNHT1);
 }
 }
 }
@@ -349,7 +349,7 @@ baWH = pncv(450173041, -1775329604, -49579523);
 }
 else if (DRPB2MP & P167W)
 {
-KA2o_ = vn6JNi1n6B(eFD0pI, 244916976, 2114552799, Za06f86g);
+KA2o_ = vn6JNi1n6B(eFD0pI, (unsigned short)244916976, 2114552799, Za06f86g);
 }
 else
 {

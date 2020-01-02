@@ -27,7 +27,7 @@ int main()
 	short int	HdTlQ;
 	HdTlQ	=	0;
 	unsigned short int	v2ZH12UH7;
-	v2ZH12UH7	=	847784967;
+	v2ZH12UH7	=	(unsigned short)847784967;
  unsigned char m5L555U2;
  m5L555U2 = (unsigned char)-1862660557;
   unsigned short  AQz6o3;

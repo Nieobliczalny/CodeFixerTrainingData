@@ -12,7 +12,7 @@
 using namespace std;
 
 char v_Uk4_w20_(unsigned char k_8b,unsigned char G_wYf,unsigned short CJM788,unsigned long long lYsR,long O6_16EEB) {
- return -1746276616;
+ return (char)-1746276616;
 }
 
 long  oC4q7b(unsigned long long  E5RopL_,short  u44he,long  mhu0Z,unsigned int  lBJ9)
@@ -30,7 +30,7 @@ do
 {
 try
 {
-cout << oC4q7b(-1950619627, -1848738907, 1090217233, okhC87N) << qkz9Db << "LLcfM" << v_Uk4_w20_(RPgx1U, (unsigned char)-1781718035, -341454850, okhC87N, qA_6_cr) << vKWu << endl;
+cout << oC4q7b(-1950619627, (short)-1848738907, 1090217233, okhC87N) << qkz9Db << "LLcfM" << v_Uk4_w20_(RPgx1U, (unsigned char)-1781718035, -341454850, okhC87N, qA_6_cr) << vKWu << endl;
 }
 catch (int& errorCode)
 {
@@ -54,7 +54,7 @@ case 'a':
 w9z2 /= JqrYPg0X;
 break;
 case 'b':
-RPgx1U = v_Uk4_w20_(RPgx1U, 360947561, (unsigned short)190343182, -1355644950, w9z2);
+RPgx1U = v_Uk4_w20_(RPgx1U, (unsigned char)360947561, (unsigned short)190343182, -1355644950, w9z2);
 break;
 case 'c':
 Ihjn = (int)abs(w9z2);
@@ -126,7 +126,7 @@ switch (TmOtl)
 {
 case 'a':
 case 'A':
-xADvAc_Vl5 = v_Uk4_w20_(xADvAc_Vl5, -562662393, LERI2I, -151494464, 1356961203);
+xADvAc_Vl5 = v_Uk4_w20_(xADvAc_Vl5, (unsigned char)-562662393, LERI2I, -151494464, 1356961203);
 break;
 case 'b':
 case 'B':
@@ -138,7 +138,7 @@ v8EX <<= 655952416;
 break;
 case 'd':
 case 'D':
-T0MrB7u3_ = v_Uk4_w20_(1039045968, eZ78i1, d0h_, -1318704042, CIIuA2);
+T0MrB7u3_ = v_Uk4_w20_((unsigned char)1039045968, eZ78i1, d0h_, -1318704042, CIIuA2);
 break;
 case 'e':
 case 'E':
@@ -150,7 +150,7 @@ Ez7__A = (int)abs(R6_n8);
 break;
 case 'g':
 case 'G':
-aTMf6XIpQ = oC4q7b(lYRZ, 1003082416, v8EX, -928170603);
+aTMf6XIpQ = oC4q7b(lYRZ, (short)1003082416, v8EX, -928170603);
 break;
 case 'h':
 case 'H':
@@ -162,7 +162,7 @@ Yc4602zZoq = v_Uk4_w20_(Yc4602zZoq, T0MrB7u3_, (unsigned short)1756241396, CIIuA
 break;
 case 'j':
 case 'J':
-D_X61R_ = v_Uk4_w20_(762974839, TmOtl, X_a3f55CQ, -1423672773, xADvAc_Vl5);
+D_X61R_ = v_Uk4_w20_((unsigned char)762974839, TmOtl, X_a3f55CQ, -1423672773, xADvAc_Vl5);
 break;
 }
 }
@@ -181,7 +181,7 @@ case 3:
 Y62BmFLB = v_Uk4_w20_(LRVsH362, Y62BmFLB, vKWu, -782320983, jLRU6V07) / or5Nq3543;
 break;
 case 4:
-aTMf6XIpQ = oC4q7b(eZ78i1, -1547547794, aTMf6XIpQ, 926687299);
+aTMf6XIpQ = oC4q7b(eZ78i1, (short)-1547547794, aTMf6XIpQ, 926687299);
 break;
 case 5:
 CIIuA2 = lYRZ | xADvAc_Vl5;

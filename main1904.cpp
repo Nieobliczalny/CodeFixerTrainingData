@@ -18,7 +18,7 @@ using std::ceil;
 using std::floor;
 
 int main(int argc, char** argv) {
-	short	I6FZ7Q	=	709126286;
+	short	I6FZ7Q	=	(short)709126286;
 	unsigned long	HTU485r	=	-1837045983;
   short int  hbW4n  =  0;
 	unsigned short	BzQ8_I	=	(unsigned short)491959607;
@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
     int    vli76D    =    454677473;
 	unsigned char	RZ8Bc78V4	=	0;
 	unsigned int	Q1af9l0Y	=	712280500;
-  unsigned char  UnXHw75XmF  =  1726256016;
+  unsigned char  UnXHw75XmF  =  (unsigned char)1726256016;
 	long double	Uon7ZVA8	=	1499193132;
   long long  q8tQR9R2  =  -1211166194;
     unsigned char    lFYzE5d    =    (unsigned char)691966940;
@@ -103,7 +103,7 @@ U7cT = (int)ceil(Uon7ZVA8);
 break;
 case 'c':
 case 'C':
-I6FZ7Q = (q8tQR9R2) ? U7cT : -178621590;
+I6FZ7Q = (q8tQR9R2) ? U7cT : (short)-178621590;
 break;
 case 'd':
 case 'D':

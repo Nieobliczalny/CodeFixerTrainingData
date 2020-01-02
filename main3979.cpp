@@ -73,7 +73,7 @@ case 'b':
 kOT9I9 = iCvKzjbz / kNaQ6h4;
 break;
 case 'c':
-ME_O88N = (v1z5XyJu >= 1002663732) ? pS7jBx__ : -1943341186;
+ME_O88N = (v1z5XyJu >= 1002663732) ? pS7jBx__ : (char)-1943341186;
 break;
 case 'd':
 K_pl = MEDcnD4LDv | 2075350170;
@@ -204,7 +204,7 @@ MEDcnD4LDv = iCvKzjbz * 557648380;
 break;
 case 'f':
 case 'F':
-ri_IH = (KgkbumeNZ) ? -705105515 : (char)-1145044961;
+ri_IH = (KgkbumeNZ) ? (char)-705105515 : (char)-1145044961;
 break;
 default:
 kOT9I9 ^= 1116589886;

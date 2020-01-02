@@ -194,7 +194,7 @@ int k = 4;
 while (k >= 0)
 {
 --k;
-kyE_E6r7f = (X_u5G2He4 != 1608788262) ? -1406639880 : (short)-1245803013;
+kyE_E6r7f = (X_u5G2He4 != 1608788262) ? (short)-1406639880 : (short)-1245803013;
 }
 }
 }
@@ -369,7 +369,7 @@ U8P2r0B ^= MvR_A_6FbZ;
 break;
 case 'b':
 case 'B':
-T5B601 = (lL064RD2x > 2076740525) ? -262234583 : (short)1422513975;
+T5B601 = (lL064RD2x > 2076740525) ? (short)-262234583 : (short)1422513975;
 break;
 case 'c':
 case 'C':

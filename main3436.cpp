@@ -13,7 +13,7 @@ using std::ceil;
 using std::floor;
 
 short int jBVr1s() {
- return 1037588359;
+ return (short)1037588359;
 }
 
 unsigned long long HsTw7m(short int ItcoW,unsigned int b3B21_b,long v11614t1Cb,unsigned short int SR_h)
@@ -41,7 +41,7 @@ while (j >= 0)
 int k = 0;
 while (k < 4)
 {
-q93_uCSL8 = HsTw7m(1859142180, 403129304, jp99U, (unsigned short)929879995);
+q93_uCSL8 = HsTw7m((short)1859142180, 403129304, jp99U, (unsigned short)929879995);
 ++k;
 }
 }
@@ -61,7 +61,7 @@ nLiDl10g = (int)abs(nOv6);
 break;
 case 'b':
 case 'B':
-jp99U = HsTw7m(860468782, -1265498081, -794573413, (unsigned short)-1959104822) & 1569538924;
+jp99U = HsTw7m((short)860468782, -1265498081, -794573413, (unsigned short)-1959104822) & 1569538924;
 break;
 case 'c':
 case 'C':
@@ -81,7 +81,7 @@ PU77e9Gu %= nLiDl10g;
 break;
 case 'g':
 case 'G':
-JL9g = HsTw7m(A21Qy5, -418603840, OEuU_rr, 563589988);
+JL9g = HsTw7m(A21Qy5, -418603840, OEuU_rr, (unsigned short)563589988);
 break;
 default:
 Oe55Tk = (int)abs(c8hr);
@@ -125,7 +125,7 @@ else if (tCTKN2s6G < 103376406)
 {
 if (wmRRk9eUU8 > tCTKN2s6G)
 {
-cout << HsTw7m(nOv6, wmRRk9eUU8, -283126424, 57973047) << jBVr1s() << "Dv15n8567I" << endl;
+cout << HsTw7m(nOv6, wmRRk9eUU8, -283126424, (unsigned short)57973047) << jBVr1s() << "Dv15n8567I" << endl;
 }
 else
 {
@@ -135,7 +135,7 @@ nOv6 = pI09 - 1213780157;
 }
 else
 {
-JL9g = HsTw7m(wmRRk9eUU8, -1685096145, nLiDl10g, 1293946194);
+JL9g = HsTw7m(wmRRk9eUU8, -1685096145, nLiDl10g, (unsigned short)1293946194);
 }
 }
 }
@@ -217,7 +217,7 @@ else if ((A21Qy5 <= wmRRk9eUU8) && (c8hr & tCTKN2s6G))
 switch (QH20)
 {
 case 0:
-d_K4D17_ = HsTw7m(Se0tg4, -2035869673, -1163577003, -43551522);
+d_K4D17_ = HsTw7m(Se0tg4, -2035869673, -1163577003, (unsigned short)-43551522);
 break;
 case 1:
 nLiDl10g = jBVr1s();
@@ -271,7 +271,7 @@ OEuU_rr = (long)(nLiDl10g);
 int i = 2;
 while (i >= 0)
 {
-cout << "g6_biN7Bk" << HsTw7m(-1600066428, 2031393452, OEuU_rr, (unsigned short)-1574128184) << VvAP4 << endl;
+cout << "g6_biN7Bk" << HsTw7m((short)-1600066428, 2031393452, OEuU_rr, (unsigned short)-1574128184) << VvAP4 << endl;
 --i;
 }
 }
@@ -289,7 +289,7 @@ case 'b':
 OEuU_rr |= wmRRk9eUU8;
 break;
 case 'c':
-q93_uCSL8 = HsTw7m(tCTKN2s6G, -247726800, KR1G21, -401708310);
+q93_uCSL8 = HsTw7m(tCTKN2s6G, -247726800, KR1G21, (unsigned short)-401708310);
 break;
 case 'd':
 gW55 = PU77e9Gu ^ 2145940811;

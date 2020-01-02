@@ -17,7 +17,7 @@ char MhwpTu9oR3() {
 }
 
 unsigned char  AaZ3VJ2Uvr(short int  B9a3R23,unsigned short int  jc8O,unsigned long  U0Rgv443,unsigned short int  Zs5qMN8_3f,unsigned short int  YeB7_2pBA3)  {
-  return  137308260;
+  return  (unsigned char)137308260;
 }
 
 long long feoBc()
@@ -155,7 +155,7 @@ case 2:
 JA1Z5 = MhwpTu9oR3();
 break;
 case 3:
-k_U1a279K = AaZ3VJ2Uvr(-450485006, jnZ_AK3Uj, -212508299, (unsigned short)43520823, -1746652318);
+k_U1a279K = AaZ3VJ2Uvr((short)-450485006, jnZ_AK3Uj, -212508299, (unsigned short)43520823, -1746652318);
 break;
 case 4:
 Zm4hQAKb /= 688941403;
@@ -211,7 +211,7 @@ catch (int& errorCode)
 {
 kbAIcq = Q_w3Hv5X * jVTmIZ;
 }
-std::cout << fF73Q4LB << "KQy6M8" << AaZ3VJ2Uvr(xQ9EQq4, jnZ_AK3Uj, U83odu4, czIC, -251545997) << "PX_8tQgPX_" << std::endl;
+std::cout << fF73Q4LB << "KQy6M8" << AaZ3VJ2Uvr(xQ9EQq4, jnZ_AK3Uj, U83odu4, czIC, (unsigned short)-251545997) << "PX_8tQgPX_" << std::endl;
 
 {
 int i = 0;
@@ -226,7 +226,7 @@ q_Rm148 = (double)(DVx13Ym);
 
 std::cout << zVj9f94 << "ViaozYe" << vTx8 << "JT2_f_30F" << std::endl;
 
-std::cout << AaZ3VJ2Uvr(-540319682, (unsigned short)1446963939, 1313128402, czIC, farCtKau) << std::endl;
+std::cout << AaZ3VJ2Uvr((short)-540319682, (unsigned short)1446963939, 1313128402, czIC, farCtKau) << std::endl;
 if (Da7rBql)
 {
 std::cout << "wkTV_d8sry" << AaZ3VJ2Uvr(693355998, -303576007, 1482687800, 633599172, 479468372) << std::endl;
@@ -251,7 +251,7 @@ else
 {
 if (kTJM4 <= QtR4k73)
 {
-k_U1a279K = AaZ3VJ2Uvr(813345007, (unsigned short)606130521, m6r0, 1812653012, -1764281725);
+k_U1a279K = AaZ3VJ2Uvr((short)813345007, (unsigned short)606130521, m6r0, 1812653012, -1764281725);
 }
 else
 {

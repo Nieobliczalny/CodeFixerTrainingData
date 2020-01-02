@@ -97,7 +97,7 @@ for (int j = 2; j >= 0; j--)
 Ic79v_CmpR = (ytEl48HL & 1700916302) ? 1941568214 : -297119525;
 }
 }
-SOl960 = tK6346qS(ycmu0z24YM, -854377759, aKHEu);
+SOl960 = tK6346qS(ycmu0z24YM, (short)-854377759, aKHEu);
 
 try
 {
@@ -143,7 +143,7 @@ F857 = (long)(s6Hz7Om);
 }
 else
 {
-SOl960 = tK6346qS(316561838, (short)-1441219588, k14ODNI);
+SOl960 = tK6346qS((char)316561838, (short)-1441219588, k14ODNI);
 }
 }
 catch (int& errorCode)
@@ -155,7 +155,7 @@ if (sWsexpRobQ != flrM4L_)
 {
 MWP_ = M2tvb4YIY ^ qkBC0T4;
 }
-std::cout << tK6346qS(117452146, f23beL34j, 823776458) << "vCLpHKcw" << std::endl;
+std::cout << tK6346qS((char)117452146, f23beL34j, 823776458) << "vCLpHKcw" << std::endl;
 
 b_93kexj = nlnfliU8(-740328402) / 22281602;
 
@@ -181,7 +181,7 @@ switch (qkBC0T4)
 {
 case 'a':
 case 'A':
-lk5u3xy = tK6346qS(izgIxwq5, -881429322, -1133704500) << MwRL_3fh;
+lk5u3xy = tK6346qS(izgIxwq5, (short)-881429322, -1133704500) << MwRL_3fh;
 break;
 case 'b':
 case 'B':
@@ -257,7 +257,7 @@ j--;
 }
 else if (SOl960 > 924268474)
 {
-SOl960 = tK6346qS(290665543, (short)1617831013, -1895391406);
+SOl960 = tK6346qS((char)290665543, (short)1617831013, -1895391406);
 }
 else if (((CCcKn54oD >= 1284156369) && (r8s56tl < I7OvNs0)) || ((W16h & 628095843) || (I7OvNs0 != -1147385658)))
 {
@@ -271,7 +271,7 @@ int k = 8;
 do
 {
 k--;
-SOl960 = tK6346qS(-1129594152, MwRL_3fh, v2qsh);
+SOl960 = tK6346qS((char)-1129594152, MwRL_3fh, v2qsh);
 }
 while (k >= 0);
 }
@@ -285,7 +285,7 @@ for (int j = 10; j >= 0; --j)
 {
 if (((CX6W2Pim) || (izgIxwq5 != Op52mFi)) && (Fx_F9rSm1 < bxshj))
 {
-SOl960 = tK6346qS(2114040094, (short)-180124431, G1CISgY65);
+SOl960 = tK6346qS((char)2114040094, (short)-180124431, G1CISgY65);
 }
 }
 }
@@ -308,7 +308,7 @@ case 0:
 qkBC0T4 /= 1563908398;
 break;
 case 1:
-SOl960 = tK6346qS(G9P44mv, -1650531712, 1458753221);
+SOl960 = tK6346qS(G9P44mv, (short)-1650531712, 1458753221);
 break;
 case 2:
 aKHEu = uR8NVbf - G9P44mv;
@@ -397,7 +397,7 @@ case 5:
 Ic79v_CmpR = nlnfliU8(-1059772287);
 break;
 case 6:
-SOl960 = tK6346qS(-1345219195, izgIxwq5, sUuS2xK3nd);
+SOl960 = tK6346qS((char)-1345219195, izgIxwq5, sUuS2xK3nd);
 break;
 }
 }
@@ -569,7 +569,7 @@ if (CX6W2Pim <= cNP4)
 {
 for (int k = 5; k >= 0; --k)
 {
-SOl960 = tK6346qS(-1231601865, (short)-1894152187, -1074915346);
+SOl960 = tK6346qS((char)-1231601865, (short)-1894152187, -1074915346);
 }
 }
 else
@@ -587,7 +587,7 @@ while (k < 2);
 }
 else
 {
-std::cout << "I6y0HhI1" << aKHEu << tK6346qS(446153048, (short)1896123176, wAN8890Pwd) << "yc_jy66" << H8s_Zh7ir << std::endl;
+std::cout << "I6y0HhI1" << aKHEu << tK6346qS((char)446153048, (short)1896123176, wAN8890Pwd) << "yc_jy66" << H8s_Zh7ir << std::endl;
 }
 
 switch (IGWdmM)
@@ -614,7 +614,7 @@ fX37Ja = (int)abs(IO9Qw8);
 break;
 case 'f':
 case 'F':
-SOl960 = tK6346qS(-436406461, Ic79v_CmpR, Vx041);
+SOl960 = tK6346qS((char)-436406461, Ic79v_CmpR, Vx041);
 break;
 case 'g':
 case 'G':
@@ -646,7 +646,7 @@ case 2:
 H8s_Zh7ir = IO9Qw8 % MwRL_3fh;
 break;
 case 3:
-SOl960 = tK6346qS(r8s56tl, 1870605546, 1995172885);
+SOl960 = tK6346qS(r8s56tl, (short)1870605546, 1995172885);
 break;
 case 4:
 wAN8890Pwd = nlnfliU8(-1104717805);
@@ -664,7 +664,7 @@ case 8:
 MWP_ = nlnfliU8(MWP_);
 break;
 case 9:
-SOl960 = tK6346qS(aKHEu, 1518230605, C8nUqb5Qur);
+SOl960 = tK6346qS(aKHEu, (short)1518230605, C8nUqb5Qur);
 break;
 }
 }
@@ -716,7 +716,7 @@ case 0:
 cNP4++;
 break;
 case 1:
-SOl960 = tK6346qS(c_8JrcV2D, 2053425662, 1184729855);
+SOl960 = tK6346qS(c_8JrcV2D, (short)2053425662, 1184729855);
 break;
 case 2:
 NZEp33 = (int)abs(fX37Ja);
@@ -741,7 +741,7 @@ while (i >= 0)
 {
 if (Ic79v_CmpR & -592549778)
 {
-std::cout << "MPZXQY3f87" << tK6346qS(-2078512424, (short)1937520484, gwGQR9hY6Y) << std::endl;
+std::cout << "MPZXQY3f87" << tK6346qS((char)-2078512424, (short)1937520484, gwGQR9hY6Y) << std::endl;
 }
 i--;
 }
@@ -752,7 +752,7 @@ return 0;
 
 unsigned short int	nlnfliU8(unsigned int	l5kmPoX)
 {
-	return	629020315;
+	return	(unsigned short)629020315;
 }
 
 long long tK6346qS(char h2rm,short SN3n18SX2,unsigned long U_Cz7g) {

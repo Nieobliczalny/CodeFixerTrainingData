@@ -501,7 +501,7 @@ else if (aLw6d2 & rs41i)
 switch (c8_04VL)
 {
 case 0:
-Jj4i1a_6 = (Ql53TzZn > -972885258) ? -653320110 : WPQOl(vSz22);
+Jj4i1a_6 = (Ql53TzZn > -972885258) ? (unsigned short)-653320110 : WPQOl(vSz22);
 break;
 case 1:
 WZ_kzBUY = FcWxMgVcj ^ 348963758;

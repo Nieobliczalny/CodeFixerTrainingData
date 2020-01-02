@@ -33,7 +33,7 @@ case 3:
 OaQg_8R ^= vBlU;
 break;
 case 4:
-ke6z3u = d07_4XoI(215810990, 138638920);
+ke6z3u = d07_4XoI((unsigned char)215810990, 138638920);
 break;
 }
 for (int i = 0; i < 7; ++i)
@@ -53,7 +53,7 @@ yjkAk++;
 switch (CtWxn3)
 {
 case 'a':
-ECDaS = d07_4XoI(1730637018, 1050723078);
+ECDaS = d07_4XoI((unsigned char)1730637018, 1050723078);
 break;
 case 'b':
 ZT0nnon = OF9O07x % 2009541867;
@@ -72,7 +72,7 @@ vBlU = Z69p + 934599204;
 break;
 }
 
-Tj3DrJ = d07_4XoI(76935503, -1019255557);
+Tj3DrJ = d07_4XoI((unsigned char)76935503, -1019255557);
 
 if (npR8r8_zYn >= pR6918NEB)
 {
@@ -99,7 +99,7 @@ else
 {
 if (P2Zo9Wx > 1377742118)
 {
-Tj3DrJ = d07_4XoI(913623486, gff2cs8);
+Tj3DrJ = d07_4XoI((unsigned char)913623486, gff2cs8);
 }
 else if ((Tj3DrJ != JAD0842iJ) || (OaQg_8R >= O4Q5I0g))
 {
@@ -128,7 +128,7 @@ case 1:
 vGhrQC9nC ^= 454022235;
 break;
 case 2:
-ECDaS = d07_4XoI(-274841251, Z123);
+ECDaS = d07_4XoI((unsigned char)-274841251, Z123);
 break;
 case 3:
 Tj3DrJ = d07_4XoI((unsigned char)1506001674, I_tXaU5RO);
@@ -149,7 +149,7 @@ while (j < 9)
 int k = 0;
 while (k < 1)
 {
-ECDaS = d07_4XoI(699196469, -853124423);
+ECDaS = d07_4XoI((unsigned char)699196469, -853124423);
 k++;
 }
 }
@@ -182,7 +182,7 @@ Tj3DrJ = d07_4XoI(vBlU, 1120335114);
 
 if (((ECDaS > ZT0nnon) && (AYPLNGyg >= OF9O07x)) || (npR8r8_zYn))
 {
-std::cout << d07_4XoI(-79633316, 645202300) << "d7Xf" << C58s1m << d07_4XoI(vBlU, 435901710) << Ts4Y48zg << std::endl;
+std::cout << d07_4XoI((unsigned char)-79633316, 645202300) << "d7Xf" << C58s1m << d07_4XoI(vBlU, 435901710) << Ts4Y48zg << std::endl;
 }
 
 vBlU &= o42H;
@@ -213,7 +213,7 @@ while (k < 6);
 }
 }
 
-std::cout << FhDV1sT << d07_4XoI(1583810284, -1701476815) << d07_4XoI((unsigned char)1248280229, 34330079) << "bkld_3Q" << std::endl;
+std::cout << FhDV1sT << d07_4XoI((unsigned char)1583810284, -1701476815) << d07_4XoI((unsigned char)1248280229, 34330079) << "bkld_3Q" << std::endl;
 if (oe7j85y == 0)
 {
 	Z123 = Z69p / oe7j85y;
@@ -226,7 +226,7 @@ Z123 = AYPLNGyg | 906532549;
 break;
 case 'b':
 case 'B':
-oe7j85y = d07_4XoI(988960400, 1807474538);
+oe7j85y = d07_4XoI((unsigned char)988960400, 1807474538);
 break;
 case 'c':
 case 'C':
@@ -238,7 +238,7 @@ ECDaS = d07_4XoI((unsigned char)-2143259148, -2112310916);
 break;
 case 'e':
 case 'E':
-ke6z3u = d07_4XoI(745697228, o42H);
+ke6z3u = d07_4XoI((unsigned char)745697228, o42H);
 break;
 default:
 ZT0nnon = s08t_ck % qXoK;

@@ -43,7 +43,7 @@ case 'b':
 h5YfD = OKhATie(h5YfD);
 break;
 case 'c':
-h5YfD = Db2BF(h5YfD, 2140301773, LMt_Q42f27, -1525029756);
+h5YfD = Db2BF(h5YfD, (unsigned short)2140301773, LMt_Q42f27, -1525029756);
 break;
 case 'd':
 Esv7 |= jlR2_2dV9;
@@ -179,7 +179,7 @@ int k = 6;
 while (k >= 0)
 {
 --k;
-Q8UqQ_ = u5nI(-726674012, Mj_w9Hx, -1414577805, 343451470);
+Q8UqQ_ = u5nI(-726674012, Mj_w9Hx, -1414577805, (unsigned short)343451470);
 }
 }
 }
@@ -234,7 +234,7 @@ do
 {
 if (cuY41uD == 2058056343)
 {
-TZ28q = Db2BF(EaGyU7u78, 315197218, m4WR, h5YfD) | 62192751;
+TZ28q = Db2BF(EaGyU7u78, (unsigned short)315197218, m4WR, h5YfD) | 62192751;
 }
 j--;
 }
@@ -258,7 +258,7 @@ for (int j = 1; j >= 0; j--)
 {
 if (MprS4sp2_y <= 83174969)
 {
-r8tchj5 = Db2BF(r8tchj5, 1216944188, p6VaioZo0, -1118304161);
+r8tchj5 = Db2BF(r8tchj5, (unsigned short)1216944188, p6VaioZo0, -1118304161);
 }
 else
 {
@@ -333,7 +333,7 @@ if ((h5YfD >= 772383232) && ((m_77mN31m <= 475683598) && (W6d59Qg5K & 1335374103
 {
 try
 {
-r8tchj5 = Db2BF(-1477400194, (unsigned short)991371420, FOvGC, mxK37In6);
+r8tchj5 = Db2BF((unsigned short)-1477400194, (unsigned short)991371420, FOvGC, mxK37In6);
 }
 catch (int& errorCode)
 {
@@ -356,7 +356,7 @@ else
 {
 std::cout << cuY41uD << F0_3W2 << MZIc << std::endl;
 }
-std::cout << u5nI(r8tchj5, 1237510842, -673067159, -1675093753) << OKhATie(-315502821) << TZ28q << std::endl;
+std::cout << u5nI(r8tchj5, 1237510842, -673067159, (unsigned short)-1675093753) << OKhATie(-315502821) << TZ28q << std::endl;
 try
 {
 try
@@ -416,7 +416,7 @@ case 'b':
 L_6JnO = HKWxgJ ^ PK7cIkdoQV;
 break;
 case 'c':
-a0h97 = Db2BF(r8tchj5, 1386621098, -1774572871, mxK37In6) - 1242304878;
+a0h97 = Db2BF(r8tchj5, (unsigned short)1386621098, -1774572871, mxK37In6) - 1242304878;
 break;
 case 'd':
 G6t6 = hgXL80tf ^ 374759032;
@@ -432,7 +432,7 @@ if ((Ddx9j7j) || (Q_eH6U5 == Q8UqQ_))
 {
 try
 {
-std::cout << Db2BF(39578914, (unsigned short)266300490, 1984663771, mxK37In6) << Q_79d624H << NZwPB << u5nI(r8tchj5, -688420303, -1954655568, 1943836268) << std::endl;
+std::cout << Db2BF((unsigned short)39578914, (unsigned short)266300490, 1984663771, mxK37In6) << Q_79d624H << NZwPB << u5nI(r8tchj5, -688420303, -1954655568, 1943836268) << std::endl;
 }
 catch (int& errorCode)
 {
@@ -444,7 +444,7 @@ return 0;
 }
 
 char  OKhATie(unsigned long long  A8_jGre)  {
-  return  1929024498;
+  return  (char)1929024498;
 }
 
 unsigned short int	u5nI(unsigned long	d50P2_8m,long long	PLh00QSl8,int	Xg7PEx4b86,unsigned short	LX__Rk2C)
@@ -454,7 +454,7 @@ unsigned short int	u5nI(unsigned long	d50P2_8m,long long	PLh00QSl8,int	Xg7PEx4b8
 
 unsigned short int	Db2BF(unsigned short	xfSf,unsigned short int	jZA8F24Ot,unsigned int	L5h9qPB,unsigned int	XMEnr9vc)
 {
-	return	-188430810;
+	return	(unsigned short)-188430810;
 }
 
 unsigned char  F_U2k6(unsigned long long  RZ9Q7KZ)

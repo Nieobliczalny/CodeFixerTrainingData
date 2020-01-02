@@ -18,7 +18,7 @@ long long  mqcy4Ic4O5(unsigned short  jf78z);
 int main(int argc, char** argv)
 {
     unsigned short int    g98z2t,    H85aSG8ey4,    weX6R_pX,    gFF1kF8OQ,    q593gF9PMM,    m0L9fA,    YC91,    l_j1zkPCQ,    tqWIzh,    adfT,    awnA_87h,    Wgh6_M,    Vv0XJS,    Gpa5NJk,    ang837QQ,    Aa5V1,    AodKO__cF;
-        g98z2t    =    H85aSG8ey4    =    weX6R_pX    =    gFF1kF8OQ    =    q593gF9PMM    =    m0L9fA    =    YC91    =    l_j1zkPCQ    =    tqWIzh    =    adfT    =    awnA_87h    =    Wgh6_M    =    Vv0XJS    =    Gpa5NJk    =    ang837QQ    =    Aa5V1    =    AodKO__cF    =    1486819286;
+        g98z2t    =    H85aSG8ey4    =    weX6R_pX    =    gFF1kF8OQ    =    q593gF9PMM    =    m0L9fA    =    YC91    =    l_j1zkPCQ    =    tqWIzh    =    adfT    =    awnA_87h    =    Wgh6_M    =    Vv0XJS    =    Gpa5NJk    =    ang837QQ    =    Aa5V1    =    AodKO__cF    =    (unsigned short)1486819286;
 	unsigned int	bp7y07LDtd,	BDjdGXa,	HdLH,	Y75F5k;
 		bp7y07LDtd	=	BDjdGXa	=	HdLH	=	Y75F5k	=	0;
 
@@ -36,7 +36,7 @@ weX6R_pX *= 1959539203;
 }
 else if ((gFF1kF8OQ > adfT) || ((g98z2t) && (awnA_87h == a8s_u2y)))
 {
-BDjdGXa = mqcy4Ic4O5(848193334);
+BDjdGXa = mqcy4Ic4O5((unsigned short)848193334);
 }
 else if (tqWIzh >= BDjdGXa)
 {
@@ -82,7 +82,7 @@ case 4:
 AodKO__cF = adfT % weX6R_pX;
 break;
 case 5:
-HdLH = mqcy4Ic4O5(-1529650440);
+HdLH = mqcy4Ic4O5((unsigned short)-1529650440);
 break;
 case 6:
 Aa5V1 <<= 809969148;
@@ -162,7 +162,7 @@ Y75F5k = mqcy4Ic4O5(Y75F5k);
 break;
 case 'c':
 case 'C':
-HdLH = mqcy4Ic4O5(-713906074);
+HdLH = mqcy4Ic4O5((unsigned short)-713906074);
 break;
 case 'd':
 case 'D':
@@ -174,7 +174,7 @@ HdLH = mqcy4Ic4O5((unsigned short)-1170336588);
 break;
 case 'f':
 case 'F':
-Y75F5k = mqcy4Ic4O5(-182522378);
+Y75F5k = mqcy4Ic4O5((unsigned short)-182522378);
 break;
 }
 --i;
@@ -226,7 +226,7 @@ else if (Wgh6_M & Y75F5k)
 {
 if (((awnA_87h == YC91) && (q593gF9PMM == -255629740)) || ((Aa5V1 > 1768900102) || (H85aSG8ey4 > -423207569)))
 {
-HdLH = mqcy4Ic4O5(1933900283);
+HdLH = mqcy4Ic4O5((unsigned short)1933900283);
 }
 else
 {
@@ -238,7 +238,7 @@ else if (BDjdGXa <= dIa1B)
 switch (q593gF9PMM)
 {
 case 'a':
-BDjdGXa = mqcy4Ic4O5(1213841695);
+BDjdGXa = mqcy4Ic4O5((unsigned short)1213841695);
 break;
 case 'b':
 AodKO__cF >>= YC91;
@@ -404,7 +404,7 @@ case 8:
 Vv0XJS = adfT % awnA_87h;
 break;
 default:
-BDjdGXa = mqcy4Ic4O5(1584069848);
+BDjdGXa = mqcy4Ic4O5((unsigned short)1584069848);
 break;
 }
 
@@ -415,7 +415,7 @@ return 0;
 }
 
 unsigned short  iBKvfp()  {
-  return  -1008912711;
+  return  (unsigned short)-1008912711;
 }
 
 long long  mqcy4Ic4O5(unsigned short  jf78z)

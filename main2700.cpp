@@ -12,7 +12,7 @@ long long    W6z9v2kDB();
 
 int main(void)
 {
-  char  Yyr_Y  =  1695133947;
+  char  Yyr_Y  =  (char)1695133947;
     unsigned short int    OGqzq1s    =    (unsigned short)-1016696626;
  short YNrcw = 1539583954;
   long long  U0V8R  =  1671538913;
@@ -22,7 +22,7 @@ int main(void)
     float    qtm72_yy3I    =    -991436754;
   unsigned long  d0h6T  =  264283663;
 	unsigned long	HL6B	=	747520386;
-    short    o4EB    =    1247415606;
+    short    o4EB    =    (short)1247415606;
     unsigned long long    eJ__K79Z    =    -2053122297;
     unsigned long    qyl2bu6    =    196784493;
     unsigned char    v8Pdy1Pq    =    0;
@@ -32,7 +32,7 @@ int main(void)
  unsigned char SAbD = -265698855;
   long long  XSy93No26  =  -285676425;
     unsigned int    Sb6t5A7jeF    =    856801850;
- char S0APEAYd8m = 884677278;
+ char S0APEAYd8m = (char)884677278;
  double yJwt = -2047480876;
     long long    hhrpn07    =    2077228808;
  int BykP5b98a9 = -1276840247;
@@ -42,7 +42,7 @@ int main(void)
   long  OY5Ekd  =  201924136;
 	double	Bh7tT_1	=	-1296523033;
   long  kk3jen  =  2028348189;
-	unsigned short	pbL8g	=	1041821204;
+	unsigned short	pbL8g	=	(unsigned short)1041821204;
  unsigned short wNk134 = 1626813774;
   unsigned int  apA79YqA9  =  1434835717;
  float Z7M7g2X0 = 1816704651;
@@ -52,7 +52,7 @@ int main(void)
   unsigned char  m4J39DWaSD  =  (unsigned char)-559090766;
  unsigned long j15G = 1120701127;
   unsigned short int  d9O9Et  =  -1914373012;
-  short  wZbS  =  1739920231;
+  short  wZbS  =  (short)1739920231;
 	long long	W26S7_MmV4	=	920537014;
   int  eF36G_TqOq  =  2015237344;
     unsigned char    wu0eIT0    =    -1995057688;
@@ -62,7 +62,7 @@ int main(void)
     short int    DdQ0fA3    =    (short)1534455026;
   double  lAz7J1UpL  =  719677821;
     unsigned short int    nBIB3N    =    1872762109;
- short aTskP = 1592051680;
+ short aTskP = (short)1592051680;
   unsigned short int  rQ30d0qn  =  1779239283;
  float f4j3 = 2044084252;
  long long ZjnPFD_ = 66910094;
@@ -73,7 +73,7 @@ int main(void)
     long long    l84o3E9sc    =    772629112;
   unsigned long  a_pIe  =  1538958552;
  float jLY0 = 1630148177;
-  short  fKVKa  =  2144070954;
+  short  fKVKa  =  (short)2144070954;
 	unsigned int	OrNz	=	-1889853538;
 
 mwxhy_ = W6z9v2kDB();

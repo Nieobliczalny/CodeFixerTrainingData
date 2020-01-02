@@ -13,7 +13,7 @@ unsigned char    w_U1l_Ao7p(short int    HRbVE,unsigned short    Ls483anWzN,shor
 int main(int argc, char** argv) {
 	long	K_vs	=	0;
   double  yxev_6r9KV  =  1993242836;
-	short int	d3_x	=	598395940;
+	short int	d3_x	=	(short)598395940;
     float    oVRE    =    749435648;
   unsigned short  I9Rt  =  0;
  short int PX__GfU4l = (short)-296191488;
@@ -23,7 +23,7 @@ int main(int argc, char** argv) {
     short    q4qQ    =    -589667597;
     unsigned int    o321g3K    =    913942069;
   int  IJ7KR3  =  0;
-	short int	kDwtiO	=	-1308770435;
+	short int	kDwtiO	=	(short)-1308770435;
 
 kDwtiO = w_U1l_Ao7p(650434884, PX__GfU4l, 570371048, q4qQ) / w_U1l_Ao7p(14918234, 1880219351, 1550748389, q4qQ);
 
@@ -51,7 +51,7 @@ int k = 0;
 do
 {
 ++k;
-VJCb = w_U1l_Ao7p(VJCb, q4qQ, -214054568, K_vs);
+VJCb = w_U1l_Ao7p(VJCb, q4qQ, (short)-214054568, K_vs);
 }
 while (k < 6);
 }
@@ -67,7 +67,7 @@ switch (zfm6pB5YQx)
 {
 case 'a':
 case 'A':
-IJ7KR3 = w_U1l_Ao7p(IJ7KR3, 1051273140, zfm6pB5YQx, -1738512738);
+IJ7KR3 = w_U1l_Ao7p(IJ7KR3, (unsigned short)1051273140, zfm6pB5YQx, -1738512738);
 break;
 case 'b':
 case 'B':
@@ -91,7 +91,7 @@ oVRE = (int)ceil(yxev_6r9KV);
 break;
 case 'g':
 case 'G':
-IJ7KR3 = w_U1l_Ao7p(IJ7KR3, -1846923644, K_vs, PX__GfU4l);
+IJ7KR3 = w_U1l_Ao7p(IJ7KR3, (unsigned short)-1846923644, K_vs, PX__GfU4l);
 break;
 case 'h':
 case 'H':
@@ -117,7 +117,7 @@ VJCb = (short int)(IJ7KR3);
 }
 }
 
-K_vs = w_U1l_Ao7p(zfm6pB5YQx, -26504467, (short)-1759988417, K_vs);
+K_vs = w_U1l_Ao7p(zfm6pB5YQx, (unsigned short)-26504467, (short)-1759988417, K_vs);
 {
 int i = 2;
 do
@@ -138,7 +138,7 @@ kDwtiO ^= o321g3K;
 }
 else
 {
-K_vs = w_U1l_Ao7p(d3_x, q4qQ, -1496901586, kDwtiO);
+K_vs = w_U1l_Ao7p(d3_x, q4qQ, (short)-1496901586, kDwtiO);
 }
 }
 --i;
@@ -157,7 +157,7 @@ for (int j = 0; j < 6; ++j)
 {
 if ((yxev_6r9KV < o321g3K) || ((VJCb < 953797559) || (PX__GfU4l >= CFAPwbIfm6)))
 {
-IJ7KR3 = w_U1l_Ao7p(-862141269, d3_x, (short)1317395114, -1692116904);
+IJ7KR3 = w_U1l_Ao7p((short)-862141269, d3_x, (short)1317395114, -1692116904);
 }
 }
 }
@@ -173,7 +173,7 @@ VJCb = (short int)(PX__GfU4l * VJCb);
 int i = 0;
 while (i < 9)
 {
-I9Rt = w_U1l_Ao7p(-1958020281, (unsigned short)-1959018460, -2138738239, CFAPwbIfm6);
+I9Rt = w_U1l_Ao7p((short)-1958020281, (unsigned short)-1959018460, -2138738239, CFAPwbIfm6);
 i++;
 }
 }

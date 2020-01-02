@@ -14,7 +14,7 @@ using namespace std;
 int main(int argc, char** argv)
 {
 	long long	HdVsJQ6b	=	-775323832;
-	short	msTynX	=	462433936;
+	short	msTynX	=	(short)462433936;
     short int    rbWkJky2    =    (short)-1038491491;
     short int    hMjt    =    2100578244;
  unsigned long long ip436pw7lH = -626977415;
@@ -31,7 +31,7 @@ int main(int argc, char** argv)
 	float	T3f8tS16s5	=	-1178004718;
     float    C86sD4M    =    373354559;
 	long long	Ofg1o64B39	=	1024350052;
- char fXm_k1Kf1E = -996906719;
+ char fXm_k1Kf1E = (char)-996906719;
     unsigned long long    CW2Gu    =    -1552653628;
   unsigned short  NffY  =  (unsigned short)-1551996471;
   unsigned short  CI71s  =  829683603;
@@ -49,7 +49,7 @@ int main(int argc, char** argv)
   short int  eL5oj5i  =  0;
   unsigned long long  xJ0_s270He  =  -1932207535;
 	unsigned int	Hw1q	=	-769684123;
-	short int	LtuP_7Wq	=	330144902;
+	short int	LtuP_7Wq	=	(short)330144902;
 	long long	usT9k8y	=	983430932;
 	unsigned short	mo3_	=	(unsigned short)-987565701;
  unsigned int l_3f = -935914889;
@@ -60,7 +60,7 @@ int main(int argc, char** argv)
  long ZE65U9 = 1285625446;
 	unsigned short	vv_T	=	-36699542;
   unsigned long  U43Ldk80at  =  -1825877983;
-    short    Czr7    =    -952071258;
+    short    Czr7    =    (short)-952071258;
  unsigned long long xTxgNJq7 = 478641561;
   long  l7a7bp4nJq  =  -436598077;
     unsigned long long    V0SZCn70hc    =    -450444909;
@@ -70,7 +70,7 @@ int main(int argc, char** argv)
 	long double	aloNl79	=	2031054936;
     int    Oes4    =    -1071443987;
  int rV08s8l = -1678807311;
-	unsigned char	c12bwWG	=	-1146894281;
+	unsigned char	c12bwWG	=	(unsigned char)-1146894281;
 
 if (sm_G == lHck1B)
 {

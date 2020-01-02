@@ -26,7 +26,7 @@ yCt5S8gh += s_b3;
 }
 else
 {
-T6_gr82dHa = Ys8_4q(s_b3, B4_i1, -2006146956) * 69648024;
+T6_gr82dHa = Ys8_4q(s_b3, B4_i1, (short)-2006146956) * 69648024;
 }
 }
 else if (xEsb35L_7I)
@@ -42,7 +42,7 @@ else if (RI2Y & b7Ye2iQB5)
 switch (O1gH23Wi_)
 {
 case 0:
-pA7LOq = Ys8_4q(129954210, (short)-940390038, yCt5S8gh);
+pA7LOq = Ys8_4q((short)129954210, (short)-940390038, yCt5S8gh);
 break;
 case 1:
 Do8AvF215c = Ys8_4q(Xj21, -195810172, -369079639);
@@ -62,7 +62,7 @@ int k = 0;
 do
 {
 ++k;
-pA7LOq = Ys8_4q(-1948525069, R3YMY29_iI, xH4oy);
+pA7LOq = Ys8_4q((short)-1948525069, R3YMY29_iI, xH4oy);
 }
 while (k < 7);
 }
@@ -73,7 +73,7 @@ catch (int& errorCode)
 Do8AvF215c = Ys8_4q(OnCih_Pc, 1499371094, TROF);
 }
 
-std::cout << TROF << Ys8_4q(OnCih_Pc, -1364974959, TROF) << "F69Edf" << VYfpjP6743 << std::endl;
+std::cout << TROF << Ys8_4q(OnCih_Pc, (short)-1364974959, TROF) << "F69Edf" << VYfpjP6743 << std::endl;
 
 switch (lbH4q9jOR)
 {
@@ -127,7 +127,7 @@ switch (pA7LOq)
 {
 case 'a':
 case 'A':
-pA7LOq = Ys8_4q(AFSC8, -1009296204, L5Ewh);
+pA7LOq = Ys8_4q(AFSC8, (short)-1009296204, L5Ewh);
 break;
 case 'b':
 case 'B':
@@ -195,7 +195,7 @@ while (i >= 0);
 
 T6_gr82dHa -= oMPD4A;
 
-std::cout << 663861739 / Ys8_4q(-146846536, (short)1204945163, 99913413) << std::endl;
+std::cout << 663861739 / Ys8_4q((short)-146846536, (short)1204945163, 99913413) << std::endl;
 
 Px9p8ZCf = (int)(xEsb35L_7I);
 
@@ -206,7 +206,7 @@ int j = 4;
 while (j >= 0)
 {
 j--;
-pA7LOq = Ys8_4q(-384808574, (short)-1448747394, -937295859);
+pA7LOq = Ys8_4q((short)-384808574, (short)-1448747394, -937295859);
 }
 }
 }

@@ -56,7 +56,7 @@ while (i >= 0);
 }
 
 BH_cjKmV_c++;
-cout << sJDWS(V05F, 1563267228, -271024159) << "wafd" << sJDWS(V05F, (short)-1250392836, 1542688490) << "eqT69gd" << endl;
+cout << sJDWS(V05F, (short)1563267228, -271024159) << "wafd" << sJDWS(V05F, (short)-1250392836, 1542688490) << "eqT69gd" << endl;
 cout << -102202327 / kVt_ << endl;
 
 return 0;
@@ -68,6 +68,6 @@ long  sJDWS(long long  u3Kw42,short  svq7,int  SPGG5_)  {
 
 short int	KJuS2(long	zpAf544DF,short int	HW5P__v)
 {
-	return	605203566;
+	return	(short)605203566;
 }
 

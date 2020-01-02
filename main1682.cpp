@@ -49,7 +49,7 @@ while (i < 3);
 
 FFrw6y = (short int)(t0_dC1Y + (758027294));
 
-cout << d2_1A8wmE_(pmp7Lt, F_EXy, -859335332, (unsigned char)24006832) << pmp7Lt << endl;
+cout << d2_1A8wmE_(pmp7Lt, F_EXy, (short)-859335332, (unsigned char)24006832) << pmp7Lt << endl;
 {
 int i = 7;
 while (i >= 0)
@@ -61,7 +61,7 @@ cout << vT7p5txQ_1(pmp7Lt) << "ngRE0" << d2_1A8wmE_(-390583192, F_EXy, ea4pb3Z6D
 }
 }
 }
-w86E8Vr = zpVCvYY50A(-1047823468, ea4pb3Z6Dn, -2079999906, -449993226, -172140081);
+w86E8Vr = zpVCvYY50A(-1047823468, ea4pb3Z6Dn, (unsigned short)-2079999906, -449993226, -172140081);
 switch (e0jMUcEe19)
 {
 case 0:
@@ -71,7 +71,7 @@ case 1:
 e0jMUcEe19 = e0jMUcEe19 >> 1495212542;
 break;
 case 2:
-FFrw6y = vT7p5txQ_1(55663150);
+FFrw6y = vT7p5txQ_1((short)55663150);
 break;
 default:
 zRDq6kQ32 = zpVCvYY50A(fzn7B4, (char)793372707, -1862198415, F_EXy, pmp7Lt);
@@ -121,7 +121,7 @@ unsigned long long  VkNl_91(long  Mdg62kv,short  LUBbr541Fp,unsigned char  NsifM
 
 unsigned short int	vT7p5txQ_1(short	TvmvseD_p)
 {
-	return	99783187;
+	return	(unsigned short)99783187;
 }
 
 char zpVCvYY50A(long long uuxgFyO,char H1ECIth,unsigned short FZY325R,int D85Z4M3,long long cXK3)

@@ -9,7 +9,7 @@
 using namespace std;
 
 short	s4qxzC()	{
-	return	2034914302;
+	return	(short)2034914302;
 }
 
 long long    MbSS(unsigned short    ZM4MF1P75z,int    ORXFZ,unsigned char    nb90DEd8Uz)    {
@@ -26,7 +26,7 @@ unsigned short int ownpP0PDe2() {
 
 short    FT5Nn_31D(char    X8vQ97_h9,unsigned long    SsLHFZ89,unsigned short    dYLs266)
 {
-    return    -920391024;
+    return    (short)-920391024;
 }
 
 int main()
@@ -89,7 +89,7 @@ cout << zXWA(O_6bL2pN, Zq2m, Qm75P, B70U7, l3MG4EcG) << "nP12Y" << EOqqDeQ0nb <<
 }
 else if (X_Q5B_O8F9 > Z_9j7)
 {
-cout << zXWA(-265219049, 1494448429, 437309783, (unsigned char)-1445355054, 1216936167) << zXWA(-1753558311, Zq2m, -1465198178, B70U7, l3MG4EcG) << s4qxzC() << endl;
+cout << zXWA((short)-265219049, 1494448429, 437309783, (unsigned char)-1445355054, 1216936167) << zXWA(-1753558311, Zq2m, -1465198178, B70U7, l3MG4EcG) << s4qxzC() << endl;
 }
 else if (y5yru_wjV8 != -435116400)
 {
@@ -108,7 +108,7 @@ Q8fj8Fo += qM_3_2gM8;
 break;
 case 'b':
 case 'B':
-O_6bL2pN = FT5Nn_31D(1275102520, Z_9j7, akRHOFF);
+O_6bL2pN = FT5Nn_31D((char)1275102520, Z_9j7, akRHOFF);
 break;
 case 'c':
 case 'C':
@@ -132,7 +132,7 @@ AFf26TdGf = t_JnI1sD_z ^ 239503040;
 break;
 case 'h':
 case 'H':
-WzM20nwYZ = zXWA(-984681998, -1780126439, 475018843, Q8fj8Fo, jWSmH);
+WzM20nwYZ = zXWA((short)-984681998, -1780126439, 475018843, Q8fj8Fo, jWSmH);
 break;
 case 'i':
 case 'I':
@@ -183,7 +183,7 @@ eV1nw_P = (int)ceil(Zq2m);
 break;
 case 'g':
 case 'G':
-M64A_ = MbSS(-390677738, -478229907, jWSmH);
+M64A_ = MbSS((unsigned short)-390677738, -478229907, jWSmH);
 break;
 case 'h':
 case 'H':
@@ -195,7 +195,7 @@ KO8DnU_V = (int)floor(nyfhxZ__60);
 break;
 case 'j':
 case 'J':
-Qm75P = (t_JnI1sD_z & -1477268169) ? ux6_Vm54y : MbSS(-24887148, I2H_3a, a0etQh);
+Qm75P = (t_JnI1sD_z & -1477268169) ? ux6_Vm54y : MbSS((unsigned short)-24887148, I2H_3a, a0etQh);
 break;
 default:
 TP36_ = ownpP0PDe2() << 141253089;
@@ -226,7 +226,7 @@ case 'f':
 e4BI4tLA = ownpP0PDe2();
 break;
 case 'g':
-cn6Z = zXWA(362418207, -1464380842, y5yru_wjV8, (unsigned char)746081139, B7F5rb_);
+cn6Z = zXWA((short)362418207, -1464380842, y5yru_wjV8, (unsigned char)746081139, B7F5rb_);
 break;
 default:
 T4M404w4z = (int)ceil(cn6Z);
@@ -261,7 +261,7 @@ CBsu_ = p3Eo7fLZ0c - 1905510276;
 break;
 case 'b':
 case 'B':
-JMpo = MbSS(534091545, GZUlq, O_6bL2pN);
+JMpo = MbSS((unsigned short)534091545, GZUlq, O_6bL2pN);
 break;
 case 'c':
 case 'C':
@@ -287,7 +287,7 @@ t_JnI1sD_z = ownpP0PDe2();
 
 G6FX = (int)abs(udn_aK_j79);
 cout << "Wg0vNY50c" << endl;
-cout << "O2_W" << MbSS(303654632, QjL1b, O_6bL2pN) << WzM20nwYZ << "T0m73JnKL5" << endl;
+cout << "O2_W" << MbSS((unsigned short)303654632, QjL1b, O_6bL2pN) << WzM20nwYZ << "T0m73JnKL5" << endl;
 {
 int i = 0;
 do
@@ -318,7 +318,7 @@ int j = 3;
 do
 {
 --j;
-Z_9j7 = MbSS(1551588709, 1898628453, (unsigned char)-1581050241);
+Z_9j7 = MbSS((unsigned short)1551588709, 1898628453, (unsigned char)-1581050241);
 }
 while (j >= 0);
 }
@@ -352,7 +352,7 @@ if (Bv2_ != 1635048284)
 {
 try
 {
-cout << FT5Nn_31D(1380366082, e4BI4tLA, (unsigned short)665911340) << "LJF_6f" << PI4pUg << endl;
+cout << FT5Nn_31D((char)1380366082, e4BI4tLA, (unsigned short)665911340) << "LJF_6f" << PI4pUg << endl;
 }
 catch (int& errorCode)
 {

@@ -19,7 +19,7 @@ int main()
     double    jyD4fq;
     jyD4fq    =    323070796;
  char VWE4HMD;
- VWE4HMD = -1380627492;
+ VWE4HMD = (char)-1380627492;
  long double QEg46;
  QEg46 = 1871071648;
     unsigned int    qkanEPDk;
@@ -31,7 +31,7 @@ int main()
   int  T35oI3iPe;
   T35oI3iPe  =  -690354967;
 	char	B4jaTMJ3lt;
-	B4jaTMJ3lt	=	-1870226677;
+	B4jaTMJ3lt	=	(char)-1870226677;
   int  phgU1z;
   phgU1z  =  -1778893752;
   long long  TG22KUH;
@@ -43,7 +43,7 @@ int main()
   int  RN59VWr;
   RN59VWr  =  1254052832;
 	char	aARx0X9n5;
-	aARx0X9n5	=	555203711;
+	aARx0X9n5	=	(char)555203711;
     long double    SBj_D3wy;
     SBj_D3wy    =    -784894246;
  short evNl3af2;
@@ -53,7 +53,7 @@ int main()
     unsigned int    Vn6yPX;
     Vn6yPX    =    -1268668854;
  short slUFRP;
- slUFRP = 1813160660;
+ slUFRP = (short)1813160660;
     short int    L9lp;
     L9lp    =    1702822123;
     unsigned long long    z9gRaCFYGE;
@@ -71,7 +71,7 @@ int main()
   double  Ag4vKH1j;
   Ag4vKH1j  =  -754940040;
   char  wLDuM0;
-  wLDuM0  =  -984069540;
+  wLDuM0  =  (char)-984069540;
  long long T6uXcEF;
  T6uXcEF = -570076643;
   long long  Cr2AX_Vt5;
@@ -87,7 +87,7 @@ int main()
 	long	cmNggY8E81;
 	cmNggY8E81	=	1549168363;
     short    HGWG;
-    HGWG    =    -448514745;
+    HGWG    =    (short)-448514745;
 	unsigned char	k16HS6v874;
 	k16HS6v874	=	(unsigned char)-1484083938;
     short int    Js_Y;
@@ -103,7 +103,7 @@ int main()
     unsigned int    Gl1C;
     Gl1C    =    1601313792;
     short    ouZSRp;
-    ouZSRp    =    472189651;
+    ouZSRp    =    (short)472189651;
  int p6OD_M9ih3;
  p6OD_M9ih3 = -443987231;
   double  s3Trkjd;
@@ -123,7 +123,7 @@ int main()
   float  PvjT78SNQ5;
   PvjT78SNQ5  =  1102450347;
     short int    Cb5na0x;
-    Cb5na0x    =    -488963328;
+    Cb5na0x    =    (short)-488963328;
   double  jfdZH;
   jfdZH  =  1439041551;
   char  Kr3B7_qAw;
@@ -139,7 +139,7 @@ int main()
  unsigned long long Wm0S;
  Wm0S = 323486811;
 	unsigned short int	L_hxL18;
-	L_hxL18	=	1698373689;
+	L_hxL18	=	(unsigned short)1698373689;
  unsigned char BW9m;
  BW9m = (unsigned char)-1319739885;
 	unsigned long	MgHUYQk6;
@@ -151,7 +151,7 @@ int main()
   unsigned int  Hu25tst;
   Hu25tst  =  1436416239;
  unsigned char MNGxw;
- MNGxw = 2075811748;
+ MNGxw = (unsigned char)2075811748;
   unsigned char  Ei_50I;
   Ei_50I  =  (unsigned char)649762448;
  unsigned int Sqa0D41vM;

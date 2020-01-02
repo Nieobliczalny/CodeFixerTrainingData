@@ -10,7 +10,7 @@ using namespace std;
 
 int main()
 {
- char Mga_MfQb = 1297434961;
+ char Mga_MfQb = (char)1297434961;
  int zViG = 1334057025;
  char cbBr_jY = (char)-616126751;
 	unsigned short	CugfI_	=	35097379;
@@ -23,7 +23,7 @@ int main()
     unsigned long    s7Qtm6q    =    340497696;
     long    a0CzJ    =    -2075164535;
  int B5UT6SMc = 1894398245;
-    unsigned short    Y_G3037rya    =    1711062896;
+    unsigned short    Y_G3037rya    =    (unsigned short)1711062896;
     float    OAH9Sx08Lt    =    -729917413;
   unsigned char  xo7254  =  (unsigned char)977994400;
  long T9H1t_ = -1355452488;
@@ -34,7 +34,7 @@ int main()
 	long double	j5kbmq8	=	474174204;
 	unsigned char	LX00pB1r	=	1831026804;
  long double A3AN = -1676410347;
- char W30j = 2135249030;
+ char W30j = (char)2135249030;
   unsigned short int  xm70Yrh4Jr  =  (unsigned short)1848776018;
  long long d8Pf0Z2oGS = -84078327;
  short int W4Kx = -1838754826;

@@ -15,7 +15,7 @@ unsigned int zHQJkG1(char K6h9C7E09,unsigned int rO381,unsigned short int qYb_Y_
 short int yIoX5_(unsigned long long Kpg44h,unsigned char Mbs2);
 
 int main() {
-	short	X00_	=	896467491;
+	short	X00_	=	(short)896467491;
   unsigned short int  H2h4fpsQx  =  (unsigned short)-754245300;
     short int    IT8E86c    =    0;
   short  GRWy8  =  2105645107;
@@ -25,7 +25,7 @@ int main() {
 	int	W8bm_e0	=	384267583;
   int  Fa29Ms  =  617186228;
  unsigned long uwV4Bvq4 = 177438420;
- unsigned short N49m4_ = 608038784;
+ unsigned short N49m4_ = (unsigned short)608038784;
     long    Y1EzL    =    -1351291806;
  short int nk635 = (short)591817828;
 	double	JQ6eZvsit8	=	-87194951;
@@ -36,7 +36,7 @@ int main() {
  long double C7GT_zZGC5 = -1253865865;
     unsigned long long    VGsxXE79KO    =    0;
  unsigned int xL0e_5 = 1233448190;
-  short int  X8CHg  =  1835780079;
+  short int  X8CHg  =  (short)1835780079;
  long long FbvcKKQE = 0;
     short    n__6539    =    (short)-1499612094;
   short int  FNKC5u  =  -543067754;
@@ -82,7 +82,7 @@ uwV4Bvq4 = zHQJkG1(uwV4Bvq4, 2084563674, X00_, -838769711);
 }
 for (int i = 10; i >= 0; i--)
 {
-cout << "zS19kg1g" << yIoX5_(1038234664, Fa29Ms) << yIoX5_(-399210632, -2040369125) << "IAn4e67Kf" << "OlMe_T6" << endl;
+cout << "zS19kg1g" << yIoX5_(1038234664, Fa29Ms) << yIoX5_(-399210632, (unsigned char)-2040369125) << "IAn4e67Kf" << "OlMe_T6" << endl;
 }
 switch (X00_)
 {
@@ -102,7 +102,7 @@ do
 {
 for (int j = 10; j >= 0; j--)
 {
-X8CHg = zHQJkG1(n__6539, -1025212017, 1432989049, (unsigned short)1554349198) | xL0e_5;
+X8CHg = zHQJkG1(n__6539, -1025212017, (unsigned short)1432989049, (unsigned short)1554349198) | xL0e_5;
 }
 ++i;
 }
@@ -124,7 +124,7 @@ switch (s3426tgHh5)
 {
 case 'a':
 case 'A':
-FbvcKKQE = gI27(GVWVPFxv_Q, X8CHg, 1246872032, -775453573, (char)-267561017);
+FbvcKKQE = gI27(GVWVPFxv_Q, X8CHg, 1246872032, (short)-775453573, (char)-267561017);
 break;
 case 'b':
 case 'B':
@@ -152,7 +152,7 @@ JQ6eZvsit8 = (int)floor(p_C2H99u03);
 break;
 case 'h':
 case 'H':
-VGsxXE79KO = gI27(-1182760900, JQ6eZvsit8, Y1EzL, 1602531869, VgGb);
+VGsxXE79KO = gI27(-1182760900, JQ6eZvsit8, Y1EzL, (short)1602531869, VgGb);
 break;
 }
 }
@@ -205,6 +205,6 @@ unsigned int zHQJkG1(char K6h9C7E09,unsigned int rO381,unsigned short int qYb_Y_
 }
 
 short int yIoX5_(unsigned long long Kpg44h,unsigned char Mbs2) {
- return 1800015749;
+ return (short)1800015749;
 }
 
