@@ -23,7 +23,7 @@ unsigned char VRwxcil7w(long long Q9CuN3P,short VnYqQ) {
 
 short	Kb_UdN89()
 {
-	return	596026637;
+	return	(short)596026637;
 }
 
 unsigned short int  RizZ9dtk(unsigned long long  ao0X)
@@ -63,7 +63,7 @@ case 3:
 SF5pe424 = pQ4e3P(SF5pe424);
 break;
 case 4:
-KGV_ = wC02lnWj_(-518570605, 1781594859, 1375060211, -1455554243, 1652655992);
+KGV_ = wC02lnWj_((char)-518570605, 1781594859, 1375060211, -1455554243, 1652655992);
 break;
 case 5:
 RZdy4Y9N8h = HA0Gb_j >> y8_d3Av2;
@@ -256,7 +256,7 @@ Vj1kv54DiG = RizZ9dtk(1581047618);
 }
 else if ((DxTKNw4q >= Q_W5Ic9) || (I44yqE == 1723838967))
 {
-aQYEGAZ = VRwxcil7w(324885453, 495872235);
+aQYEGAZ = VRwxcil7w(324885453, (short)495872235);
 }
 else if (JEQ55Jbr != KRjOkz)
 {

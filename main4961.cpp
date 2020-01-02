@@ -39,7 +39,7 @@ case 2:
 J94imGD_ = Hr7_ / T2_4qD;
 break;
 case 3:
-rtlrWK = SMe35J(1858534296, Lf18T_f_vA, -202483982, rtlrWK, w2xoyLs);
+rtlrWK = SMe35J((unsigned short)1858534296, Lf18T_f_vA, -202483982, rtlrWK, w2xoyLs);
 break;
 default:
 rtlrWK = SMe35J(b3lWjoL2M, -95051416, 1168735600, Lf18T_f_vA, eb4k);
@@ -129,7 +129,7 @@ case 2:
 Pwmg = (POG_y) ? 655603056 : AjE_w6B;
 break;
 case 3:
-Nc6PX = SMe35J(-1280246736, 1619711489, Nc6PX, 431019306, Hr7_) + AjE_w6B;
+Nc6PX = SMe35J((unsigned short)-1280246736, 1619711489, Nc6PX, 431019306, Hr7_) + AjE_w6B;
 break;
 case 4:
 Hr7_ = (int)floor(q_K4E);
@@ -317,7 +317,7 @@ WjwqpPB22L = SMe35J(954451563, Hr7_, WjwqpPB22L, YwftbePN, eb4k);
 }
 else if (lGYfXBv != w2xoyLs)
 {
-WjwqpPB22L = SMe35J(286882539, q_K4E, -1750413728, 493652409, Pwmg);
+WjwqpPB22L = SMe35J((unsigned short)286882539, q_K4E, -1750413728, 493652409, Pwmg);
 }
 else if (le0Q > 1629028421)
 {

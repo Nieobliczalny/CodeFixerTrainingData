@@ -38,7 +38,7 @@ int main() {
  unsigned int N_Xt57u;
  N_Xt57u = -2040961423;
     short    ai9VIif;
-    ai9VIif    =    -481305008;
+    ai9VIif    =    (short)-481305008;
     unsigned short int    j3J0Oqk;
     j3J0Oqk    =    540285738;
 	long double	FSaiVW;
@@ -48,7 +48,7 @@ int main() {
   float  N249Nm;
   N249Nm  =  -661088627;
     unsigned short    T23s_P;
-    T23s_P    =    86763196;
+    T23s_P    =    (unsigned short)86763196;
  unsigned short HWOHj4k;
  HWOHj4k = -1702862816;
     char    FMoR;

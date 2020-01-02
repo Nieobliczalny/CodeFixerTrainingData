@@ -31,7 +31,7 @@ int main(int argc, char** argv) {
 	short int	Ks_19W;
 	Ks_19W	=	0;
  short gO56P_3;
- gO56P_3 = 944569843;
+ gO56P_3 = (short)944569843;
     unsigned int    E227T;
     E227T    =    197325812;
     unsigned long    E6aJz9;
@@ -45,7 +45,7 @@ int main(int argc, char** argv) {
     unsigned char    aOi1r;
     aOi1r    =    -1464056525;
  unsigned char OMi2H;
- OMi2H = -1661303238;
+ OMi2H = (unsigned char)-1661303238;
     char    mqKk33;
     mqKk33    =    -774958671;
   unsigned char  eq8OF5;
@@ -245,7 +245,7 @@ case 'c':
 ne68JE = XkLtDw(-1547480321);
 break;
 case 'd':
-Ks_19W = XkLtDw(2008649477);
+Ks_19W = XkLtDw((unsigned short)2008649477);
 break;
 }
 std::cout << lDXxkO8v_E(241699802) << lDXxkO8v_E(AP402_8Aua) << lDXxkO8v_E(-131169557) << std::endl;
@@ -460,7 +460,7 @@ switch (dEzFKh8)
 {
 case 'a':
 case 'A':
-ZHquQJT3H5 = lDXxkO8v_E(-1744788945);
+ZHquQJT3H5 = lDXxkO8v_E((unsigned short)-1744788945);
 break;
 case 'b':
 case 'B':
@@ -498,7 +498,7 @@ break;
 switch (mHT2mQJWm4)
 {
 case 0:
-A7XmOa = XkLtDw(-1822377482) ^ mHT2mQJWm4;
+A7XmOa = XkLtDw((unsigned short)-1822377482) ^ mHT2mQJWm4;
 break;
 case 1:
 w70d22S4T = mHT2mQJWm4 - wHDf;
@@ -539,7 +539,7 @@ case 5:
 mHT2mQJWm4 = lDXxkO8v_E(1514498839);
 break;
 case 6:
-ne68JE = XkLtDw(-353100262);
+ne68JE = XkLtDw((unsigned short)-353100262);
 break;
 case 7:
 ZHquQJT3H5 /= HiUE9yuG3C;

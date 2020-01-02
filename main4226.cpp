@@ -113,7 +113,7 @@ case 1:
 frohr2LW = (int)abs(hnS_);
 break;
 case 2:
-z5rRUgxL5 = ubIA1jnte2(1703514844, -1424858483, 401670279, -1699447416);
+z5rRUgxL5 = ubIA1jnte2(1703514844, (unsigned short)-1424858483, 401670279, -1699447416);
 break;
 case 3:
 q48u = (int)abs(anqAz0);
@@ -184,7 +184,7 @@ z5rRUgxL5 = ubIA1jnte2(gb7n7230tn, 631290095, ws77tD7PLF, N86l);
 break;
 case 'b':
 case 'B':
-Pdq_1 = ubIA1jnte2(-2076946079, 1367181910, -168797212, -1939936339);
+Pdq_1 = ubIA1jnte2(-2076946079, (unsigned short)1367181910, -168797212, -1939936339);
 break;
 case 'c':
 case 'C':
@@ -247,7 +247,7 @@ while (i >= 0);
 }
 h3_I0KuBDE %= i3kcZ;
 
-cout << "x_Pr_o8g_" << "uQVtR2cHl" << ubIA1jnte2(-1584816247, -367473328, frohr2LW, gb7n7230tn) << e6v_sfS772 << endl;
+cout << "x_Pr_o8g_" << "uQVtR2cHl" << ubIA1jnte2(-1584816247, (unsigned short)-367473328, frohr2LW, gb7n7230tn) << e6v_sfS772 << endl;
 
 switch (BuaBW_3m7J)
 {
@@ -400,7 +400,7 @@ QO1TK = (int)(j1MXv767);
 osirD2 = (int)abs(yLkpO5kn_);
 try
 {
-cout << "pwW1k" << "RrO90" << LY7Sl << ubIA1jnte2(Pdq_1, 1727571184, -395258001, px7UMy) << izK0t958J_ << endl;
+cout << "pwW1k" << "RrO90" << LY7Sl << ubIA1jnte2(Pdq_1, (unsigned short)1727571184, -395258001, px7UMy) << izK0t958J_ << endl;
 }
 catch (int& errorCode)
 {
@@ -422,7 +422,7 @@ case 1:
 yTLr8v = ubIA1jnte2(-793572308, 1852339122, i3kcZ, h3_I0KuBDE);
 break;
 case 2:
-Pdq_1 = ubIA1jnte2(1521788399, 1080057870, Pdq_1, 322910850);
+Pdq_1 = ubIA1jnte2(1521788399, (unsigned short)1080057870, Pdq_1, 322910850);
 break;
 case 3:
 g_w3V0 = (int)abs(QJ1r);

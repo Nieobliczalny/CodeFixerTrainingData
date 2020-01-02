@@ -13,7 +13,7 @@ int main(void) {
   unsigned long  vsaiwz  =  -2144086951;
 	long double	wRj6V_	=	1910769280;
   unsigned char  zM88f3zM  =  -1546726207;
-	char	P6tl	=	259614702;
+	char	P6tl	=	(char)259614702;
     unsigned short    Kx1l1UY5ML    =    1853068550;
  unsigned long lcM0Q9 = 1357023048;
  double Fss_2 = -698100516;
@@ -23,7 +23,7 @@ int main(void) {
  short T942 = 1372752836;
     unsigned short    TtaF3QZd    =    -1754574757;
     unsigned char    AkgaC3s    =    -554680598;
-  unsigned short int  XKwlC7Oc5  =  1668279012;
+  unsigned short int  XKwlC7Oc5  =  (unsigned short)1668279012;
   long  i1bx  =  -1308692922;
  short int L07Rmgg = 1061679773;
   int  tjITb8nhY  =  -985963634;
@@ -36,7 +36,7 @@ int main(void) {
   double  mUq1_8jye2  =  -1914717524;
  unsigned short int hcjc3lTN = 1208812145;
     long long    mio4PA631    =    862778210;
-  unsigned short  uCqPa  =  -1329604972;
+  unsigned short  uCqPa  =  (unsigned short)-1329604972;
   unsigned long long  to8cgn  =  0;
   unsigned short int  VX_m8LsIi  =  -881644833;
   unsigned long  Bp8_Qz3rjc  =  -309263552;
@@ -47,7 +47,7 @@ int main(void) {
   char  k34_q9wE  =  645701210;
 	long double	d_fM	=	725275374;
   unsigned int  ap51Hb9JSJ  =  1358976976;
-  char  g5Dl  =  -415832795;
+  char  g5Dl  =  (char)-415832795;
     short int    c6Z7    =    -2023055701;
     long long    WLeXg274rD    =    -2115015985;
   char  H_9f6  =  -1080760279;
@@ -59,7 +59,7 @@ int main(void) {
  unsigned short uEovfp = -1769633382;
  long pgt3 = -585839317;
  double f7Qv19gwi = -211140000;
- short WIpjSUzXzV = -245316585;
+ short WIpjSUzXzV = (short)-245316585;
   unsigned short int  AraS  =  474098062;
  double aAkYT_S = 244278530;
  short h5Tmf1 = 542664566;
@@ -72,7 +72,7 @@ int main(void) {
  long long Ll_177 = -1325932142;
   long long  tpN4  =  -595820385;
  unsigned long v38ht1x3v0 = 1503093629;
- unsigned short int n9f3d0x8 = -454760534;
+ unsigned short int n9f3d0x8 = (unsigned short)-454760534;
 	unsigned char	zV824f6z0	=	129695614;
   unsigned char  P3LS  =  1922768006;
 	unsigned short	dFj6o5J	=	-1020986301;

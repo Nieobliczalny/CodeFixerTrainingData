@@ -103,7 +103,7 @@ else if (((LqXt != jAo0L3) && (C88NXx2W != 1975335263)) || (v7J7RR >= 186298735)
 {
 try
 {
-E_LxIbn = G_28C2bO(2113560000, 830492997, q04To23r);
+E_LxIbn = G_28C2bO(2113560000, (unsigned char)830492997, q04To23r);
 }
 catch (int& errorCode)
 {
@@ -128,7 +128,7 @@ case 2:
 ibstquP = M507atV << OBzg9uWpuH;
 break;
 case 3:
-E_LxIbn = G_28C2bO(v7J7RR, 483295757, -1720645836);
+E_LxIbn = G_28C2bO(v7J7RR, 483295757, (unsigned short)-1720645836);
 break;
 case 4:
 q04To23r *= 554334969;
@@ -153,7 +153,7 @@ break;
 int i = 1;
 do
 {
-pn420tB = G_28C2bO(-648969917, 2107744580, 1138147613);
+pn420tB = G_28C2bO(-648969917, (unsigned char)2107744580, 1138147613);
 --i;
 }
 while (i >= 0);
@@ -191,7 +191,7 @@ Nb_Z4nr = ys4N5mH | r250e_;
 }
 else
 {
-E_LxIbn = G_28C2bO(U3J09ZP5, 374316013, 670603666);
+E_LxIbn = G_28C2bO(U3J09ZP5, 374316013, (unsigned short)670603666);
 }
 }
 }
@@ -218,7 +218,7 @@ int k = 2;
 while (k >= 0)
 {
 k--;
-E_LxIbn = G_28C2bO(-1936553908, q04To23r, -1089318642);
+E_LxIbn = G_28C2bO(-1936553908, q04To23r, (unsigned short)-1089318642);
 }
 }
 }
@@ -269,7 +269,7 @@ pn420tB = G_28C2bO(655966138, pn420tB, Nhpe5d63E0);
 }
 else if (wR8Tftx == -1564486671)
 {
-pn420tB = G_28C2bO(d7Q162m88, -1717064104, ls82jtL4l);
+pn420tB = G_28C2bO(d7Q162m88, (unsigned char)-1717064104, ls82jtL4l);
 }
 else if (M507atV <= pIegXFS7)
 {
@@ -370,7 +370,7 @@ i--;
 }
 while (i >= 0);
 }
-E_LxIbn = G_28C2bO(49288532, -1648520195, v7J7RR);
+E_LxIbn = G_28C2bO((short)49288532, -1648520195, v7J7RR);
 yQqV80esq = v7J7RR << 1320826193;
 {
 int i = 8;
@@ -397,7 +397,7 @@ if (Nhpe5d63E0 <= -950484840)
 {
 if ((yQqV80esq >= -888307470) && ((ibIrJzi > Nb_Z4nr) || (sws3S & 1261437203)))
 {
-Nhpe5d63E0 = G_28C2bO(-1246892127, -32198937, -606611846);
+Nhpe5d63E0 = G_28C2bO(-1246892127, (unsigned char)-32198937, -606611846);
 }
 else
 {
@@ -439,7 +439,7 @@ else
 int k = 0;
 do
 {
-E_LxIbn = G_28C2bO(-168155423, 980716012, pIegXFS7);
+E_LxIbn = G_28C2bO((short)-168155423, 980716012, pIegXFS7);
 ++k;
 }
 while (k < 6);
@@ -467,7 +467,7 @@ switch (r250e_)
 {
 case 'a':
 case 'A':
-E_LxIbn = G_28C2bO(-1035237453, 1347733144, FNP44Hb5);
+E_LxIbn = G_28C2bO(-1035237453, (unsigned char)1347733144, FNP44Hb5);
 break;
 case 'b':
 case 'B':
@@ -483,7 +483,7 @@ Bx_4 *= B9v4EM1;
 break;
 case 'e':
 case 'E':
-QV2e = G_28C2bO(174050803, U3J09ZP5, 1098709815) ^ 1155762411;
+QV2e = G_28C2bO(174050803, U3J09ZP5, (unsigned short)1098709815) ^ 1155762411;
 break;
 case 'f':
 case 'F':

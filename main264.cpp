@@ -28,7 +28,7 @@ int main(int argc, char** argv) {
   long long  NhU2W77c6s;
   NhU2W77c6s  =  -769083122;
   short  w_63B;
-  w_63B  =  -230177236;
+  w_63B  =  (short)-230177236;
     int    Fo1EnW6V;
     Fo1EnW6V    =    -1744356257;
 	int	Ri6PeS_g;
@@ -42,7 +42,7 @@ int main(int argc, char** argv) {
   int  lMJ4_;
   lMJ4_  =  1463362645;
   unsigned char  GMv_;
-  GMv_  =  1752713784;
+  GMv_  =  (unsigned char)1752713784;
   long  R08_;
   R08_  =  -798245965;
 	unsigned char	l_wTK;
@@ -58,7 +58,7 @@ int main(int argc, char** argv) {
 	long double	gwOSHt4N29;
 	gwOSHt4N29	=	-2114379686;
 	unsigned short	oLG24K1;
-	oLG24K1	=	-1607323231;
+	oLG24K1	=	(unsigned short)-1607323231;
  unsigned long long Fl9x0;
  Fl9x0 = -41071536;
  unsigned short MamS;

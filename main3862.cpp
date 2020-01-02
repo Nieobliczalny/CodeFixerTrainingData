@@ -166,7 +166,7 @@ if (nrnRi == 0)
 P_8qweb = (unsigned long)(aA47MqR15h + (198492445));
 
 std::cout << C2AK_80c1T(oxXZM) << C2AK_80c1T(240247450) << std::endl;
-Q261j3w11Z = C2AK_80c1T(-988484004);
+Q261j3w11Z = C2AK_80c1T((short)-988484004);
 
 nrnRi = (int)abs(b2Q737);
 

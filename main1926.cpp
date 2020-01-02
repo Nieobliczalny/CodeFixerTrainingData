@@ -31,7 +31,7 @@ int main(int argc, char** argv) {
 	unsigned int	dE_F8v3_W6;
 	dE_F8v3_W6	=	-1979994808;
     unsigned short int    rg90msz;
-    rg90msz    =    -811319928;
+    rg90msz    =    (unsigned short)-811319928;
     unsigned int    lw84yaf6;
     lw84yaf6    =    -748151761;
   double  f17kbnHT;
@@ -121,7 +121,7 @@ lw84yaf6 = TTm6EXgK();
 break;
 case 'g':
 case 'G':
-Us3Y9A_M = WX7WS(-1614668349, -1907258145);
+Us3Y9A_M = WX7WS(-1614668349, (short)-1907258145);
 break;
 case 'h':
 case 'H':
@@ -143,7 +143,7 @@ case 'a':
 nmN0nY = (int)abs(Us3Y9A_M) + (1262133643);
 break;
 case 'b':
-w_9q2 = L8Rl1(1629382265, 1562700736, 1928868051);
+w_9q2 = L8Rl1(1629382265, 1562700736, (unsigned short)1928868051);
 break;
 default:
 m3_wedjnie = r692 >> 1910230343;
@@ -281,7 +281,7 @@ w_9q2 = L8Rl1(-1460985716, f17kbnHT, -1330295693);
 }
 else if (r692 & Us3Y9A_M)
 {
-r692 = WX7WS(17622886, 1333882095);
+r692 = WX7WS((unsigned short)17622886, 1333882095);
 }
 else
 {

@@ -20,6 +20,7 @@ short	nf8_n(long long	j26W0,int	GoeJjo6F,int	aAsSvjG)
 
 int main(void) {
     unsigned short    F__W0a9    =    0;
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
 	unsigned short	hl24m3N9J4	=	-6848963,	T_KBul7	=	-497708526,	YaN9mBSI	=	919790755,	Zh4Fu	=	-342683743,	u685X	=	-628412269,	rPDy6WM5j8	=	-2051457863,	O7K0KP9d	=	1620956190,	n0_dyJw9f5	=	-1343362869,	e_Gc7	=	947178961,	fQEA5Q6	=	-244747248,	jHiFhvgK	=	747927671,	i7_gpJD	=	-1387394628,	yrQr37bu	=	-6516002,	xQOa	=	-877421259,	PEYn6YTm6b	=	1915198578;
 
 {

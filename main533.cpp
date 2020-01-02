@@ -49,7 +49,7 @@ int main(void)
 	unsigned char	kF6_Y524Oc;
 	kF6_Y524Oc	=	-634075167;
     unsigned char    sPoJZ8jh;
-    sPoJZ8jh    =    -651219073;
+    sPoJZ8jh    =    (unsigned char)-651219073;
     double    Z79r;
     Z79r    =    1739797245;
  unsigned short int vj4PI;
@@ -518,7 +518,7 @@ unsigned short int	zDR1rzlvy(long	z66cy1,int	OkMFlv,unsigned long	l4lu7h,unsigne
 }
 
 char  oi94iWTfD(char  Caa883m,int  QgTwo9m8gF)  {
-  return  1913578333;
+  return  (char)1913578333;
 }
 
 char	HM30jvK_b_(unsigned int	YVg6q5ETP)	{

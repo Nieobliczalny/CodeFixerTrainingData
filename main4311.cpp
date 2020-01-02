@@ -49,7 +49,7 @@ n3T5AN = (short int)(tccSU * n3T5AN);
 
 if (((Kbr37uG_x < 602903607) || (Yf134K6Tu4 <= -345782075)) && (DIw5Up18Q == OsSfg))
 {
-vv9P6b = dFc_An7(-1750500786, vv9P6b, Yf134K6Tu4, -266786052, 1473921063);
+vv9P6b = dFc_An7(-1750500786, vv9P6b, Yf134K6Tu4, -266786052, (unsigned char)1473921063);
 }
 
 std::cout << aALtj << "Ty0Dx0" << qFd5x5y() << Wwhr << std::endl;
@@ -85,7 +85,7 @@ unsigned short  eTPvLCj(long  D0_FNEq0Z,unsigned char  qXaN,unsigned long  HaoC,
 
 char  dFc_An7(short int  TCC7R2TKz,unsigned long  D0GxQeT,int  QKGoSHil4p,unsigned int  gNEBjpL_5i,unsigned char  h314E8__5)
 {
-  return  -800576496;
+  return  (char)-800576496;
 }
 
 long long	a2Z28l56y(long	ykqB52ud0k,unsigned short int	RXg9ubVgsB,unsigned int	NX08V2)	{

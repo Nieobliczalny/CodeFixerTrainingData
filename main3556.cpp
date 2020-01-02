@@ -253,7 +253,7 @@ case 'H':
 k8ML4MyO--;
 break;
 default:
-PSxazQ7Cu = DW629X(-750678557, 765049028);
+PSxazQ7Cu = DW629X(-750678557, (unsigned short)765049028);
 break;
 }
 }
@@ -318,7 +318,7 @@ case 6:
 KbL18Ijp = ocS9A59TRM(880273136);
 break;
 case 7:
-CRv8NAB = ocS9A59TRM(-895664161);
+CRv8NAB = ocS9A59TRM((char)-895664161);
 break;
 default:
 o9b3f = lWS77 | 1566623151;

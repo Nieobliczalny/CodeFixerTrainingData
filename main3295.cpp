@@ -11,7 +11,7 @@ using namespace std;
 int main(void) {
     char    mcf4EQ_6_    =    0;
     short    cPKLNJk    =    1330507478;
-  short int  p9j8nu  =  -171751287;
+  short int  p9j8nu  =  (short)-171751287;
     short int    Imb3xSH5R    =    -1431424557;
 	long long	vT6J39o	=	-618558159;
  double O79P = 623515461;
@@ -27,7 +27,7 @@ int main(void) {
 	unsigned short	SrUE	=	0;
   char  b46v1  =  0;
     unsigned long long    dM3ID_6Z8P    =    -1986102596;
-	short	A0184uH	=	1821901553;
+	short	A0184uH	=	(short)1821901553;
 	long	uVu6RN210	=	1582165836;
   short int  WCLp1fp  =  -1968656917;
  int Wjqyl8W3Z = 1858577383;
@@ -37,7 +37,7 @@ int main(void) {
  unsigned long long PJ241e = 1835353549;
   int  vHE01wIr  =  -183695395;
  unsigned char Po3_1__8 = -1298469174;
-	short int	TFbE1PO6	=	948546564;
+	short int	TFbE1PO6	=	(short)948546564;
 	long	ERv_1	=	1183346678;
 	int	ZeQ8SH4q	=	-642321260;
   unsigned long  uQGu  =  -2092822110;
@@ -267,7 +267,7 @@ while (k < 6);
 }
 }
 }
-U53f_O82A2 = (Do2dZu) ? -269502622 : -90519865;
+U53f_O82A2 = (Do2dZu) ? -269502622 : (unsigned short)-90519865;
 
 uQGu = RZjfG9 * ERv_1;
 try

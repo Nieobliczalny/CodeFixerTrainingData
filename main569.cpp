@@ -26,7 +26,7 @@ int main(void)
 	float	X_Sjei;
 	X_Sjei	=	1245130060;
   unsigned short int  QM6Yq46;
-  QM6Yq46  =  -1242949784;
+  QM6Yq46  =  (unsigned short)-1242949784;
     int    jp0KO;
     jp0KO    =    1765836951;
  long double QgF1_w14g;
@@ -46,7 +46,7 @@ int main(void)
  unsigned char P34Hmvey36;
  P34Hmvey36 = -1079482612;
 	unsigned short int	I9S_LwlbbY;
-	I9S_LwlbbY	=	-1957054491;
+	I9S_LwlbbY	=	(unsigned short)-1957054491;
   short int  CRC_;
   CRC_  =  1979043929;
 	int	UlV39UC0s;
@@ -58,7 +58,7 @@ int main(void)
   short  xa_B2;
   xa_B2  =  -1967695152;
     unsigned short    c60iu142;
-    c60iu142    =    1832292837;
+    c60iu142    =    (unsigned short)1832292837;
 	unsigned char	ytWB;
 	ytWB	=	256075078;
 	double	L48z360;
@@ -70,7 +70,7 @@ int main(void)
  unsigned int BcW3r6m;
  BcW3r6m = -1170142646;
 	short int	tz53ocD;
-	tz53ocD	=	1192506789;
+	tz53ocD	=	(short)1192506789;
 	unsigned char	edirV0;
 	edirV0	=	1126189721;
   unsigned short int  jMIr2rz;
@@ -90,7 +90,7 @@ int main(void)
     unsigned char    S62NZCQB;
     S62NZCQB    =    149168979;
     unsigned char    MtIpgBSL5;
-    MtIpgBSL5    =    843680219;
+    MtIpgBSL5    =    (unsigned char)843680219;
     float    XLkDN_Fx;
     XLkDN_Fx    =    -951834345;
 	unsigned int	P6A7_d2b;
@@ -100,7 +100,7 @@ int main(void)
     short int    VSvv8;
     VSvv8    =    -1591313700;
     short int    q_rp92;
-    q_rp92    =    218444722;
+    q_rp92    =    (short)218444722;
     float    rmc2;
     rmc2    =    -265117266;
 	unsigned long	YnOrev;
@@ -110,7 +110,7 @@ int main(void)
     unsigned char    U6Gf;
     U6Gf    =    1888519905;
  char MGiCYAW;
- MGiCYAW = 657230578;
+ MGiCYAW = (char)657230578;
 	unsigned char	X_w4IRbbG3;
 	X_w4IRbbG3	=	-310674276;
   double  u08xi1T;
@@ -126,7 +126,7 @@ int main(void)
 	long	c03diF7U8;
 	c03diF7U8	=	1860957112;
     unsigned char    aC90tmA;
-    aC90tmA    =    1768478396;
+    aC90tmA    =    (unsigned char)1768478396;
 
 if (S62NZCQB < 193874153)
 {
@@ -164,7 +164,7 @@ else if (r9Q0m4 <= X_w4IRbbG3)
 switch (APWtq99)
 {
 case 0:
-lNVV = jX3VOg(ytWB, 290808797, MGiCYAW, QgF1_w14g);
+lNVV = jX3VOg(ytWB, (unsigned short)290808797, MGiCYAW, QgF1_w14g);
 break;
 case 1:
 P34Hmvey36 = vx5FwGt5rl();
@@ -200,7 +200,7 @@ Fn3a = jMIr2rz >> I9S_LwlbbY;
 }
 else if ((x40pb > APWtq99) && (FUm99 > -2113603954))
 {
-lNVV = jX3VOg(edirV0, -1090775479, 658828161, aC90tmA);
+lNVV = jX3VOg(edirV0, -1090775479, (short)658828161, aC90tmA);
 }
 else
 {
@@ -259,7 +259,7 @@ while (k >= 0);
 }
 else if ((QmSO_ != cJ05p) && ((ytWB > cJ05p) && (X_Sjei)))
 {
-std::cout << QnKP0nq(540087637, ytWB, 217402727) << std::endl;
+std::cout << QnKP0nq(540087637, ytWB, (short)217402727) << std::endl;
 }
 else if (kO1H34Oc != cJ05p)
 {
@@ -470,7 +470,7 @@ for (int i = 0; i < 6; ++i)
 {
 QmSO_ = S62NZCQB | UlV39UC0s;
 }
-jMIr2rz = jX3VOg(-278660839, -848797027, jp0KO, xa_B2);
+jMIr2rz = jX3VOg(-278660839, (unsigned short)-848797027, jp0KO, xa_B2);
 
 switch (c60iu142)
 {
@@ -487,7 +487,7 @@ case 3:
 X_Sjei = (int)ceil(Xo9fGg12h);
 break;
 case 4:
-Efm1U = QnKP0nq(1789712629, -89586003, kO1H34Oc);
+Efm1U = QnKP0nq(1789712629, (char)-89586003, kO1H34Oc);
 break;
 case 5:
 O5fB1Z = M5AWo(867173532, aC90tmA);
@@ -518,7 +518,7 @@ P34Hmvey36 = M5AWo(P34Hmvey36, GnsNtJA);
 break;
 case 'c':
 case 'C':
-lNVV = jX3VOg(-1262136094, 1555846166, P34Hmvey36, -1070763448);
+lNVV = jX3VOg(-1262136094, (unsigned short)1555846166, P34Hmvey36, -1070763448);
 break;
 case 'd':
 case 'D':
@@ -585,7 +585,7 @@ else
 switch (MqKQbbF)
 {
 case 0:
-ytWB = QnKP0nq(328146920, 490706687, N9P791);
+ytWB = QnKP0nq((unsigned short)328146920, 490706687, N9P791);
 break;
 case 1:
 u08xi1T = (int)floor(rmc2);
@@ -660,7 +660,7 @@ if (S62NZCQB)
 S62NZCQB = (unsigned char)(cJ05p + (1370740697));
 }
 
-n_0TKP_t = lNVV / jX3VOg(1160464920, 1692144714, MtIpgBSL5, 866671786);
+n_0TKP_t = lNVV / jX3VOg(1160464920, (unsigned short)1692144714, MtIpgBSL5, 866671786);
 try
 {
 {
@@ -725,7 +725,7 @@ case 'a':
 Q3ups = QnKP0nq(Q3ups, -645443062, OJ_zP2r);
 break;
 case 'b':
-lNVV = jX3VOg(-150530035, FUm99, S62NZCQB, PnH1s);
+lNVV = jX3VOg((short)-150530035, FUm99, S62NZCQB, PnH1s);
 break;
 case 'c':
 Fn3a = M5AWo(950350560, QgF1_w14g);
@@ -750,7 +750,7 @@ do
 --j;
 if ((BcW3r6m) && (YnOrev & c60iu142))
 {
-QmSO_ = QnKP0nq(-2083364582, -1844050789, FUm99);
+QmSO_ = QnKP0nq(-2083364582, (char)-1844050789, FUm99);
 }
 }
 while (j >= 0);

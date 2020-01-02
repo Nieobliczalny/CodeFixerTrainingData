@@ -28,7 +28,7 @@ int main() {
   short  J6b8O5x;
   J6b8O5x  =  1554992101;
     unsigned short int    ekROQe;
-    ekROQe    =    -986660597;
+    ekROQe    =    (unsigned short)-986660597;
 	short	k2j5;
 	k2j5	=	-1125600620;
 	unsigned int	Mzzl_lXI_e;
@@ -38,7 +38,7 @@ int main() {
   unsigned short int  d_Y7gPy36;
   d_Y7gPy36  =  -1672941894;
   unsigned short int  qi48O;
-  qi48O  =  -535694843;
+  qi48O  =  (unsigned short)-535694843;
 	long long	mDriS6k;
 	mDriS6k	=	129286258;
   unsigned short int  FQnJS;
@@ -58,7 +58,7 @@ int main() {
   unsigned int  L6b7;
   L6b7  =  0;
  unsigned short int bMRQwIk;
- bMRQwIk = 194257832;
+ bMRQwIk = (unsigned short)194257832;
     unsigned char    UOgrY2Z_3;
     UOgrY2Z_3    =    377161575;
   unsigned short int  sSm3FDT2B9;
@@ -117,7 +117,7 @@ do
 {
 if (((W31Lp <= 936958982) && (bMRQwIk >= -848497272)) && (bMRQwIk & 425769167))
 {
-cout << sSm3FDT2B9 << v82tC(l7F_43fX2, ekROQe, 633509864) << "J_691Ih31" << Tq2KjGm(l7F_43fX2, ekROQe, 1001465770, 281151352, W31Lp) << W31Lp << endl;
+cout << sSm3FDT2B9 << v82tC(l7F_43fX2, ekROQe, 633509864) << "J_691Ih31" << Tq2KjGm(l7F_43fX2, ekROQe, (unsigned char)1001465770, 281151352, W31Lp) << W31Lp << endl;
 }
 else
 {
@@ -130,7 +130,7 @@ case 1:
 LQagK = v82tC(-1861096265, -74263142, ekROQe);
 break;
 case 2:
-L6b7 = Tq2KjGm(165231318, 1520470479, 1823225202, 370188078, U4H4);
+L6b7 = Tq2KjGm((unsigned short)165231318, 1520470479, 1823225202, 370188078, U4H4);
 break;
 case 3:
 bMRQwIk = SHkZf(bMRQwIk, FUsw, SM_JLf3J);
@@ -211,7 +211,7 @@ case 4:
 J6b8O5x = v82tC(J6b8O5x, 1925754879, JiOGqU8wq);
 break;
 case 5:
-sSm3FDT2B9 = zFmt0_b(sSm3FDT2B9, qi48O, -1233886270, 1961860883);
+sSm3FDT2B9 = zFmt0_b(sSm3FDT2B9, qi48O, (unsigned short)-1233886270, 1961860883);
 break;
 case 6:
 l7F_43fX2 = (int)ceil(kB3jqJl);
@@ -348,7 +348,7 @@ case 7:
 W4rf9r0H3 = (int)abs(k2j5);
 break;
 case 8:
-L6b7 = Tq2KjGm(1787257679, kB3jqJl, -206670839, Mzzl_lXI_e, lrl8);
+L6b7 = Tq2KjGm((unsigned short)1787257679, kB3jqJl, -206670839, Mzzl_lXI_e, lrl8);
 break;
 case 9:
 sSm3FDT2B9++;
@@ -367,7 +367,7 @@ switch (IJKf82K9_6)
 {
 case 'a':
 case 'A':
-FUsw = SHkZf(-965998764, -1252512340, ekROQe);
+FUsw = SHkZf((char)-965998764, -1252512340, ekROQe);
 break;
 case 'b':
 case 'B':
@@ -416,7 +416,7 @@ char	SHkZf(char	xXANZC8,unsigned int	h5wA233P1,int	tZ3E_2)
 
 unsigned short  v82tC(long long  Z_b4f94_,char  f3Gm14c1BY,char  W6I_lSBT_)
 {
-  return  -1262032015;
+  return  (unsigned short)-1262032015;
 }
 
 unsigned int    Tq2KjGm(unsigned short    KCyI4dDU,unsigned long long    mcCr74iI,unsigned char    ixo85YhO,long    D_8moC_Fr,long long    E629V34)    {

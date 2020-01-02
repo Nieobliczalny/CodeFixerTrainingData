@@ -22,7 +22,7 @@ long DY97ghU44w()
 }
 
 short    z6qIZ93(short int    IA8Qs,long long    bveBUY,long long    AGH99u4R,char    yua7i_P7,int    O1sHT)    {
-    return    -735083359;
+    return    (short)-735083359;
 }
 
 int main()

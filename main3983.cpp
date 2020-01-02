@@ -26,7 +26,7 @@ unsigned int h5qa(unsigned short int nA5T) {
 }
 
 char    i806Fxl(long long    O29q,unsigned int    kv7yo5w)    {
-    return    -700645315;
+    return    (char)-700645315;
 }
 
 int main(void) {

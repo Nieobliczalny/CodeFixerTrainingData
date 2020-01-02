@@ -32,6 +32,7 @@ long long	P7bw()
 }
 
 int main(int argc, char** argv) {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
     unsigned char    Z0i5B163_d    =    1135527338,    F08MF6Zps    =    2121502217,    q5J1jv    =    -1449942150,    fbd55Hu0L    =    1069415940,    b7mAj2HM8    =    -952008800,    Y7Je4    =    -1158747279,    X7juj5p7    =    696698622,    rak7V0ax    =    -1251418618,    y8FL4f44qj    =    -1066703429;
 	unsigned long	DV8xY	=	0,	AJhDEmmAr	=	0;
 
@@ -113,7 +114,7 @@ DV8xY = sdaKEJ();
 }
 else if ((b7mAj2HM8 >= -724962621) && (b7mAj2HM8 & X7juj5p7))
 {
-Z0i5B163_d = BgmG(-1736210396, y8FL4f44qj, F08MF6Zps, -2059846732, X7juj5p7);
+Z0i5B163_d = BgmG(-1736210396, y8FL4f44qj, F08MF6Zps, (unsigned short)-2059846732, X7juj5p7);
 }
 else if (((fbd55Hu0L) || (X7juj5p7 != 2101385438)) || ((y8FL4f44qj & 1806752513) && (fbd55Hu0L & rak7V0ax)))
 {
@@ -404,7 +405,7 @@ case 4:
 X7juj5p7 = BgmG(X7juj5p7, AJhDEmmAr, 697017320, 1216003827, -295750839);
 break;
 case 5:
-rak7V0ax = (rak7V0ax >= -1731795755) ? -226162012 : fbd55Hu0L;
+rak7V0ax = (rak7V0ax >= -1731795755) ? (unsigned char)-226162012 : fbd55Hu0L;
 break;
 case 6:
 F08MF6Zps /= 178849158;
@@ -693,7 +694,7 @@ else
 {
 std::cout << rak7V0ax << rak7V0ax << std::endl;
 }
-Z0i5B163_d = BgmG(DV8xY, 404509683, 1083403267, -1604798828, AJhDEmmAr);
+Z0i5B163_d = BgmG(DV8xY, 404509683, 1083403267, (unsigned short)-1604798828, AJhDEmmAr);
 for (int i = 7; i >= 0; i--)
 {
 AJhDEmmAr = sdaKEJ();

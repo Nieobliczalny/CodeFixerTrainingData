@@ -26,7 +26,7 @@ int main() {
 	h4A_	=	0;
 	short int	jrz72_Xi,	fbOl5,	Smq_,	kq01am5,	rK5yT,	s3DebZ,	hwEMo1;
 	jrz72_Xi	=	1037797529;
-	fbOl5	=	1368055650;
+	fbOl5	=	(short)1368055650;
 	Smq_	=	377483153;
 	kq01am5	=	-1949687176;
 	rK5yT	=	350114869;
@@ -165,7 +165,7 @@ int j = 9;
 while (j >= 0)
 {
 j--;
-hwEMo1 = e__w52nYa(130763446, ryG5j5dt77, 1545966724, rK5yT);
+hwEMo1 = e__w52nYa(130763446, ryG5j5dt77, (unsigned short)1545966724, rK5yT);
 }
 }
 }
@@ -181,7 +181,7 @@ int i = 0;
 while (i < 8)
 {
 ++i;
-cout << "wk2RJq" << ziLqBigr(-1885453390, -554772874, -1072084878, -333096628) << "Bo132rha5" << "d4V0hHf" << jrz72_Xi << endl;
+cout << "wk2RJq" << ziLqBigr(-1885453390, (unsigned short)-554772874, -1072084878, -333096628) << "Bo132rha5" << "d4V0hHf" << jrz72_Xi << endl;
 }
 }
 
@@ -265,7 +265,7 @@ cout << "P6N8rp" << kq01am5 << hwEMo1 << kq01am5 << fbOl5 << endl;
 }
 try
 {
-cout << e__w52nYa(Smq_, -1196259551, h4A_, -593788347) << e__w52nYa(Smq_, 794673613, -1929753779, -865288293) << fbOl5 << v76L(-1842840813, s3DebZ) << endl;
+cout << e__w52nYa(Smq_, -1196259551, h4A_, -593788347) << e__w52nYa(Smq_, 794673613, (unsigned short)-1929753779, -865288293) << fbOl5 << v76L(-1842840813, s3DebZ) << endl;
 }
 catch (int& errorCode)
 {

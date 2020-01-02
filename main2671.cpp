@@ -57,7 +57,7 @@ Z0rn = Qh31J(Z0rn);
 }
 else
 {
-v_5Z71H0xL = P8jA(Z0rn, -489182856, 1825423441, -810873492, pZSn9k);
+v_5Z71H0xL = P8jA(Z0rn, (unsigned char)-489182856, 1825423441, -810873492, pZSn9k);
 }
 }
 a352WYB17u = (unsigned long long)(s7v3);

@@ -18,6 +18,7 @@ char    c8LAC8p_2(char    j2_vcQan,unsigned long long    rJlZ,unsigned long    J
 }
 
 int main(void) {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
 	short int	qT1aJVqEkh	=	261002830,	AI888	=	-825352407,	XzrO6CjD0	=	1623917335,	s59XTz	=	1985002292,	ez_d	=	465300525,	FD83c18iY8	=	1794197618,	aC5_V__5J_	=	-529815849,	FOnu3vL	=	2018886079,	fYSHVP7G	=	-655939743,	nWJl	=	474781910,	T4U0ur	=	-486646662,	k2Mz_hE	=	204453257,	He977_5	=	-1058659656,	vnYH2v2	=	1666465123,	arrB7Ma	=	293175783,	joFV3ith	=	-1621468515,	q__h	=	-1567254950,	z8L_	=	-1776575234,	Zfz7B88Z_	=	-1400054315,	jy_3xewV4	=	1186226961,	By3BHm	=	-1047605654,	YFIB	=	1360061784,	It_S_WMTn5	=	-962567244,	Ips730ZM0	=	899826169,	U8U_6LeI	=	-2138731518,	E3LN48	=	2051254920,	BNQu	=	904822406,	u511O_MnH4	=	988421613,	c1xWhYnkU	=	1699414385,	G_3Zp8L7	=	-1956327639,	Tz6lZ9065G	=	-67208702,	FcQ1oOj	=	2038866489,	uPDUIc0	=	-2106373135,	lRUC	=	1327085103,	o40xqU8	=	183996820,	u42ec11	=	1660110673,	F7C2Y4	=	775550514;
 	int	H5Jgw5pd	=	0,	nXeZ_dnLN	=	0,	A8xBf	=	0,	R7_k	=	0;
 
@@ -42,7 +43,7 @@ case 3:
 FcQ1oOj += U8U_6LeI;
 break;
 case 4:
-H5Jgw5pd = c8LAC8p_2(U8U_6LeI, jy_3xewV4, 325232254, -1412611475);
+H5Jgw5pd = c8LAC8p_2(U8U_6LeI, jy_3xewV4, 325232254, (unsigned short)-1412611475);
 break;
 case 5:
 R7_k = c8LAC8p_2(514776564, 27845903, k2Mz_hE, 1465143615);
@@ -80,7 +81,7 @@ case 'd':
 XzrO6CjD0 *= FOnu3vL;
 break;
 default:
-H5Jgw5pd = c8LAC8p_2(7726739, 779733533, 941158586, -2004300594);
+H5Jgw5pd = c8LAC8p_2(7726739, 779733533, 941158586, (unsigned short)-2004300594);
 break;
 }
 
@@ -115,7 +116,7 @@ case 'f':
 A8xBf = c8LAC8p_2(uPDUIc0, -99454557, jy_3xewV4, A8xBf);
 break;
 case 'g':
-R7_k = c8LAC8p_2(-721204763, s59XTz, joFV3ith, -368213304);
+R7_k = c8LAC8p_2(-721204763, s59XTz, joFV3ith, (unsigned short)-368213304);
 break;
 case 'h':
 XzrO6CjD0 -= 5375581;
@@ -169,7 +170,7 @@ G_3Zp8L7 |= 1927296190;
 }
 else if (k2Mz_hE != 880870552)
 {
-A8xBf = c8LAC8p_2(784890975, u42ec11, XzrO6CjD0, 379015152);
+A8xBf = c8LAC8p_2(784890975, u42ec11, XzrO6CjD0, (unsigned short)379015152);
 }
 else if ((arrB7Ma > u42ec11) && (s59XTz < -180506020))
 {
@@ -211,7 +212,7 @@ else
 {
 if ((uPDUIc0 <= 1628045319) && (aC5_V__5J_ < 2058623053))
 {
-u511O_MnH4 = c8LAC8p_2(1759895505, -1938776018, -522239927, 1124091763) * nXeZ_dnLN;
+u511O_MnH4 = c8LAC8p_2(1759895505, -1938776018, -522239927, (unsigned short)1124091763) * nXeZ_dnLN;
 }
 else if ((Zfz7B88Z_ != 41967565) || ((z8L_ & -583413976) && (G_3Zp8L7 < 1411379899)))
 {
@@ -277,7 +278,7 @@ if (s59XTz & k2Mz_hE)
 {
 if (YFIB > 1233370855)
 {
-A8xBf = c8LAC8p_2(-371597648, Tz6lZ9065G, It_S_WMTn5, 217501855);
+A8xBf = c8LAC8p_2(-371597648, Tz6lZ9065G, It_S_WMTn5, (unsigned short)217501855);
 }
 else
 {
@@ -307,7 +308,7 @@ case 1:
 F7C2Y4 = A8xBf % nWJl;
 break;
 case 2:
-vnYH2v2 = c8LAC8p_2(AI888, z8L_, 1945090885, 830609887) ^ G_3Zp8L7;
+vnYH2v2 = c8LAC8p_2(AI888, z8L_, 1945090885, (unsigned short)830609887) ^ G_3Zp8L7;
 break;
 case 3:
 FD83c18iY8 = (int)abs(s59XTz);

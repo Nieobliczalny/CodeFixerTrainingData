@@ -18,7 +18,7 @@ int main(void)
     unsigned long    V4QZb3    =    550791758;
 	unsigned short int	iwLFM	=	1074447015;
  unsigned long long Fv4u_ = -1652960880;
-  short int  GHcr1M  =  -671688748;
+  short int  GHcr1M  =  (short)-671688748;
   long long  Gl83ljL  =  -2078734527;
 	short	TKEio	=	-1747019766;
     unsigned long    u1_7z13    =    1661639842;
@@ -34,7 +34,7 @@ int main(void)
 	unsigned int	uL4O8146S	=	547804522;
     short int    rnLH195Aq    =    0;
   long long  PuRFG  =  -2069995308;
-    short int    L_qNIZ5    =    1269366014;
+    short int    L_qNIZ5    =    (short)1269366014;
     unsigned int    bTa6    =    -340608841;
 	char	g11y9vGxG	=	752266452;
     float    G_O2P8ts    =    1028142842;
@@ -44,7 +44,7 @@ int main(void)
  long double p8m2 = -500893264;
     unsigned short    fqw_5    =    210464022;
     long    h9gxrIn7dB    =    -1523391889;
-    short int    FsaF58MD    =    -1540716498;
+    short int    FsaF58MD    =    (short)-1540716498;
  float e54z = 1389571437;
     unsigned char    zE6L    =    -1619354635;
   unsigned long  uI_8SbcGwO  =  -1655098022;
@@ -56,7 +56,7 @@ int main(void)
  double K0tM687 = 354781776;
 	unsigned int	UV51	=	0;
 	unsigned char	PifOZH	=	870280;
- unsigned short oY62Tn5W = 462358439;
+ unsigned short oY62Tn5W = (unsigned short)462358439;
 
 for (int i = 5; i >= 0; i--)
 {

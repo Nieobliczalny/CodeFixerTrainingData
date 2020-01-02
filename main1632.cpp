@@ -38,7 +38,7 @@ int main(void)
     short    LDEt1Vqbec;
     LDEt1Vqbec    =    1802373385;
     unsigned short    X79T;
-    X79T    =    731162528;
+    X79T    =    (unsigned short)731162528;
  long double E9_fNz95sE;
  E9_fNz95sE = 419254031;
 	long double	YqvDz;
@@ -124,7 +124,7 @@ else if (aTdMR77v > gjT1ejp44)
 int k = 0;
 while (k < 1)
 {
-w95ws = igOw(-851231637, aewzAQV);
+w95ws = igOw((char)-851231637, aewzAQV);
 k++;
 }
 }
@@ -188,7 +188,7 @@ case 'h':
 vlBWI8 = gd5KdfBy(vlBWI8, -65369902, S3X9n0, -1123836226);
 break;
 case 'i':
-AUjv = w786ZlZj7(-13196285, 298179513, aTdMR77v);
+AUjv = w786ZlZj7(-13196285, (unsigned short)298179513, aTdMR77v);
 break;
 case 'j':
 E9_fNz95sE = (int)floor(zqUX8X2H0);

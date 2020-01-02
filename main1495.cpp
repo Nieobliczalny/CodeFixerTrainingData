@@ -23,7 +23,7 @@ int main(int argc, char** argv) {
     unsigned long    h1m9T30    =    0;
 	unsigned char	rg9I_Z6_M	=	-2073876740;
 	float	Z3O45O	=	1862932751;
-    short    b6oej1Zb    =    40019521;
+    short    b6oej1Zb    =    (short)40019521;
  unsigned short yR2Mn = -102447346;
  long meVsl = -1148226049;
   short  Zx2gd  =  -1794474104;
@@ -33,7 +33,7 @@ int main(int argc, char** argv) {
 	short int	qlA2KKc_G	=	-2068283992;
  unsigned long long E96cw = -1891121971;
 	unsigned short int	MNg_s8nE3Z	=	-2112523971;
-	unsigned char	b3c1z0ruu	=	1208410794;
+	unsigned char	b3c1z0ruu	=	(unsigned char)1208410794;
  short int m4_613W3_D = 1202036129;
 	long	n1LR2	=	-1761398649;
 	unsigned short int	f11p1550i	=	-269480317;
@@ -43,7 +43,7 @@ int main(int argc, char** argv) {
 	long double	hHD7XHre	=	-1475198588;
 	unsigned long long	VGG1MmPtR	=	-1198784319;
     short    MkBoB_o9    =    335520408;
-	short int	K3C39di5pE	=	1064898719;
+	short int	K3C39di5pE	=	(short)1064898719;
  unsigned short p9Zu = -1261236958;
   float  xw3NI  =  612472464;
   long long  vWBynl434  =  -68186598;
@@ -55,7 +55,7 @@ int main(int argc, char** argv) {
 	double	l0dG2t	=	416557462;
     char    Weyr4    =    1185507084;
 	unsigned long	Cpd4g	=	-2046672194;
- unsigned char F7j5 = 435081469;
+ unsigned char F7j5 = (unsigned char)435081469;
  short int gPja5 = 888597233;
  short k0fAj = -1786495556;
 	unsigned short int	gI61Tq	=	1721613853;
@@ -65,7 +65,7 @@ int main(int argc, char** argv) {
 	int	d7AaZTtdw0	=	-42394342;
     unsigned short    TrOnopy    =    1148382489;
     unsigned long    JuG75DR    =    -1057815365;
-    unsigned char    cKXA106Q    =    77066369;
+    unsigned char    cKXA106Q    =    (unsigned char)77066369;
   int  awAO  =  0;
   unsigned long long  UlNM  =  766001458;
     float    sW2_    =    -1534176176;
@@ -75,7 +75,7 @@ int main(int argc, char** argv) {
 	long long	tGM6	=	-82930754;
  double sZPG = -685042165;
   short  mmvpaM_4m  =  -1494048277;
- unsigned short H_mtE7E92 = -717682288;
+ unsigned short H_mtE7E92 = (unsigned short)-717682288;
     short    GoM3j6G    =    -1603322381;
 
 try

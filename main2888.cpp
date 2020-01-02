@@ -22,7 +22,7 @@ unsigned short    IXhC(unsigned char    g1be,unsigned char    oTXL0Zk2,unsigned 
 }
 
 unsigned short int    kL9ttT60V()    {
-    return    125864761;
+    return    (unsigned short)125864761;
 }
 
 int HYOnzy14kd(unsigned char xFGLUKNT,int Rj3J2G9IG,unsigned long long D4rueL4,unsigned int J8KpZ4Z5uN)
@@ -33,7 +33,7 @@ int HYOnzy14kd(unsigned char xFGLUKNT,int Rj3J2G9IG,unsigned long long D4rueL4,u
 int main() {
 	unsigned short int	GY12K9_c2E,	h3_Ot,	AkBDC98,	miC2_,	abooirSb,	Z72Py8yB,	hrxeUq,	l301PCC_G,	Aw1_,	Men8x2W3,	ch4nPy2j0,	z7Z5,	dX63Cueja,	p0j7UA,	pGR7K436,	S6wMTQ0q,	CuY74Uuw,	v8eF,	wMw5,	IUQFBVsb,	s7F5l7,	Z_35D,	sXed_3P,	pE_WyT;
 	GY12K9_c2E	=	489781671;
-	h3_Ot	=	843020753;
+	h3_Ot	=	(unsigned short)843020753;
 	AkBDC98	=	89850333;
 	miC2_	=	520239463;
 	abooirSb	=	-1858586722;
@@ -43,7 +43,7 @@ int main() {
 	Aw1_	=	805836121;
 	Men8x2W3	=	1441488510;
 	ch4nPy2j0	=	1285253796;
-	z7Z5	=	2064160299;
+	z7Z5	=	(unsigned short)2064160299;
 	dX63Cueja	=	373185190;
 	p0j7UA	=	1481978842;
 	pGR7K436	=	-758795248;
@@ -53,7 +53,7 @@ int main() {
 	wMw5	=	798576897;
 	IUQFBVsb	=	1583459809;
 	s7F5l7	=	1972712210;
-	Z_35D	=	-1305470793;
+	Z_35D	=	(unsigned short)-1305470793;
 	sXed_3P	=	616593509;
 	pE_WyT	=	546408802;
  int yhV8gW78L0;
@@ -109,7 +109,7 @@ while (j < 10);
 }
 else if (CuY74Uuw != -1532343718)
 {
-h3_Ot = IXhC(848559903, CuY74Uuw, 1789231583);
+h3_Ot = IXhC(848559903, CuY74Uuw, (unsigned char)1789231583);
 }
 else if (S6wMTQ0q <= -1973001322)
 {
@@ -205,7 +205,7 @@ else if (v8eF < TZ6vp)
 int k = 0;
 do
 {
-IUQFBVsb = IXhC(1605898614, z7Z5, 1443472840);
+IUQFBVsb = IXhC(1605898614, z7Z5, (unsigned char)1443472840);
 k++;
 }
 while (k < 2);
@@ -233,7 +233,7 @@ yhV8gW78L0 = u4Q4atU0i();
 break;
 case 'e':
 case 'E':
-Z_35D = IXhC(30780515, -1191458609, IUQFBVsb);
+Z_35D = IXhC(30780515, (unsigned char)-1191458609, IUQFBVsb);
 break;
 case 'f':
 case 'F':
@@ -335,7 +335,7 @@ case 0:
 yhV8gW78L0 = u4Q4atU0i();
 break;
 case 1:
-Z72Py8yB = IXhC(-880956831, -1370742665, abooirSb);
+Z72Py8yB = IXhC(-880956831, (unsigned char)-1370742665, abooirSb);
 break;
 case 2:
 Men8x2W3 = (GY12K9_c2E & jH402L_) ? kL9ttT60V() : -1377513705;
@@ -422,7 +422,7 @@ case 'a':
 hrxeUq = kL9ttT60V();
 break;
 case 'b':
-l301PCC_G = IXhC(359097709, 691101906, pGR7K436);
+l301PCC_G = IXhC(359097709, (unsigned char)691101906, pGR7K436);
 break;
 case 'c':
 p0j7UA = kL9ttT60V();

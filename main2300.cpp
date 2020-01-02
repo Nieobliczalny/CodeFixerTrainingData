@@ -27,7 +27,7 @@ int main(void)
     char    ivMjJa;
     ivMjJa    =    -1551245247;
   unsigned short  aG9C3;
-  aG9C3  =  -197156589;
+  aG9C3  =  (unsigned short)-197156589;
     short    Z6o7NQOm;
     Z6o7NQOm    =    1898747592;
     float    ASkdxAN;
@@ -110,7 +110,7 @@ break;
 int i = 6;
 while (i >= 0)
 {
-std::cout << bIqgce(-1869508549, -1588230724) << k72W76w10 << std::endl;
+std::cout << bIqgce((unsigned short)-1869508549, -1588230724) << k72W76w10 << std::endl;
 i--;
 }
 }
@@ -148,7 +148,7 @@ p9xGfy = qnHn(625043773, p9xGfy);
 }
 else if (s7b2nvd8 <= -812117403)
 {
-k72W76w10 = bIqgce(-1310742558, ASkdxAN);
+k72W76w10 = bIqgce((unsigned short)-1310742558, ASkdxAN);
 }
 else if (s7b2nvd8 < ASkdxAN)
 {
@@ -173,7 +173,7 @@ while (j >= 0);
 
 std::cout << s7b2nvd8 << bIqgce(1513796895, 698197886) << std::endl;
 
-ASkdxAN = bIqgce(-1438614211, ZJTvAP1_);
+ASkdxAN = bIqgce((unsigned short)-1438614211, ZJTvAP1_);
 for (int i = 7; i >= 0; --i)
 {
 YTid = (int)floor(s7b2nvd8);

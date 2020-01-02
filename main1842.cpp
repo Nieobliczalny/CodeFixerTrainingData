@@ -20,6 +20,7 @@ short int  g05It6(unsigned long  e2uySO7D87,long long  yXNkU8F,int  apcejiD4,uns
 int main(int argc, char** argv)
 {
  char tX0y_ENb = 0, wX7vgJb7 = 0, m3cfYg = 0, r0j2 = 0;
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
 	short int	o4iHkA9	=	-740969849,	ipZuO	=	-757683510,	V234	=	1664841563,	kh7crjg9u	=	1910201840,	hEJ94kntI6	=	1529965492,	wkmeS7h50n	=	-452346091,	G10_KGU9Ga	=	-1456291705,	t4MT1B3Ne	=	-809741061,	ZXTA7Zu6	=	-2042873523,	atiJ4968	=	1635309535,	x08mkG8S	=	266773153,	u8YzLs	=	-869203651,	VZaF0WXT	=	1206431645,	WtD052bPJD	=	-1072998091,	v_YO4l	=	2110736270,	A7_LuC	=	771284178,	x1eps0t2	=	534375940,	GK1EbHOPL	=	428700064,	xc59	=	2041675614,	WVF_4y	=	880323393,	FM28gT	=	-177821654,	AUmi65pKA	=	-635996937,	ER4U2s	=	284463073,	zm93mgdLI	=	423072662,	wTzj2YtE4	=	1821390009,	wl6QqLYa04	=	-769104571,	VgsKIk	=	1024794044,	OB9b	=	767686505,	v57264	=	1552639663;
 
 {

@@ -16,7 +16,7 @@ unsigned long long F6795j8LfB(unsigned int l7Him,unsigned char UE7UM1D);
 int main() {
     unsigned char    U1Wqu    =    -1056160365;
   unsigned long long  vDo9J39  =  210279830;
-    short int    p617RY    =    239205257;
+    short int    p617RY    =    (short)239205257;
  unsigned int G1sGP09A3d = -25146425;
   short  twgbTw317h  =  574632021;
  float UkxKj9X = 671601545;
@@ -38,7 +38,7 @@ int main() {
 	unsigned long long	sqI1nCLqp6	=	881606248;
   char  h3Kl95_69X  =  -641296399;
     unsigned short    NJJNRuo12    =    0;
-	short int	c8pg3A6S	=	-1775579208;
+	short int	c8pg3A6S	=	(short)-1775579208;
   double  k62ho  =  709211230;
  double fQ6E09 = 357433248;
     long    hbSMKlc    =    2020963174;
@@ -71,7 +71,7 @@ LQ581I += 691012907;
 int i = 0;
 do
 {
-tcKi_ = i_1H_pH(-198934906, ZogMK6BFg3, -1647597910);
+tcKi_ = i_1H_pH(-198934906, ZogMK6BFg3, (unsigned char)-1647597910);
 i++;
 }
 while (i < 5);
@@ -130,7 +130,7 @@ k62ho = (int)ceil(eJQOId748X);
 break;
 case 'd':
 case 'D':
-hbSMKlc = i_1H_pH(1011846676, c8pg3A6S, 911909953);
+hbSMKlc = i_1H_pH(1011846676, c8pg3A6S, (unsigned char)911909953);
 break;
 case 'e':
 case 'E':
@@ -199,7 +199,7 @@ case 3:
 FFKOjqWbw = m643(1195482752, -287747042, h3Kl95_69X, -1826964999);
 break;
 case 4:
-Kugu4F = F6795j8LfB(eJQOId748X, 820681350);
+Kugu4F = F6795j8LfB(eJQOId748X, (unsigned char)820681350);
 break;
 case 5:
 Qeg9mzl5E = F6795j8LfB(yH77RQ12o, eJQOId748X);
@@ -278,7 +278,7 @@ case 4:
 G1sGP09A3d = i_1H_pH(-2049645128, eJQOId748X, h3Kl95_69X);
 break;
 default:
-twgbTw317h = (U1Wqu > 1120099997) ? 808169817 : U1Wqu;
+twgbTw317h = (U1Wqu > 1120099997) ? (short)808169817 : U1Wqu;
 break;
 }
 try
@@ -341,7 +341,7 @@ switch (U1Wqu)
 {
 case 'a':
 case 'A':
-EN0d = i_1H_pH(-400923183, 1505904699, -2062870004);
+EN0d = i_1H_pH(-400923183, 1505904699, (unsigned char)-2062870004);
 break;
 case 'b':
 case 'B':
@@ -376,7 +376,7 @@ while (i < 9)
 {
 if (G1sGP09A3d <= 1124074829)
 {
-std::cout << hbSMKlc << i_1H_pH(eJQOId748X, 936689168, twgbTw317h) << i_1H_pH(-1485257127, fQ6E09, 1192107691) << F6795j8LfB(eJQOId748X, fQ6E09) << std::endl;
+std::cout << hbSMKlc << i_1H_pH(eJQOId748X, 936689168, twgbTw317h) << i_1H_pH((unsigned char)-1485257127, fQ6E09, 1192107691) << F6795j8LfB(eJQOId748X, fQ6E09) << std::endl;
 }
 else
 {

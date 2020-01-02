@@ -568,7 +568,7 @@ cout << IsW_r(615121166, -1943225163) << endl;
 }
 else if (c3aRU9a66q)
 {
-cout << IsW_r(686813227, -656524222) << IsW_r(Ra8f_60, xt0u1yJ) << jz4X << IsW_r(Ra8f_60, xt0u1yJ) << endl;
+cout << IsW_r((short)686813227, -656524222) << IsW_r(Ra8f_60, xt0u1yJ) << jz4X << IsW_r(Ra8f_60, xt0u1yJ) << endl;
 }
 else if (OmJR034ok == m6kv7TN59)
 {

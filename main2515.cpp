@@ -13,7 +13,7 @@ int main(void)
 {
   char  ME30ltW  =  719950324;
  float qz7R7uy = -976288663;
-    unsigned char    rTm97    =    -1763280103;
+    unsigned char    rTm97    =    (unsigned char)-1763280103;
     unsigned short int    j7jw7GL80    =    1808216155;
   unsigned short int  pBV4  =  -861197115;
 	unsigned char	IhJF9bK9U	=	-293673074;
@@ -228,7 +228,7 @@ RPD_ = FOrE4 * 1942624244;
 break;
 case 'f':
 case 'F':
-r5D5Q = (vJoIoQi1u) ? -131223573 : 1033396678;
+r5D5Q = (vJoIoQi1u) ? -131223573 : (unsigned short)1033396678;
 break;
 case 'g':
 case 'G':

@@ -37,7 +37,7 @@ int main() {
  long double WqN67pX;
  WqN67pX = -414449311;
   short int  cVooHL723;
-  cVooHL723  =  -336769443;
+  cVooHL723  =  (short)-336769443;
   unsigned char  b_tt3_OJS;
   b_tt3_OJS  =  513742041;
 	unsigned int	nwKN;
@@ -63,7 +63,7 @@ int main() {
 	short	DDk8_7HlB;
 	DDk8_7HlB	=	0;
   unsigned short int  J60FCg;
-  J60FCg  =  -1962587809;
+  J60FCg  =  (unsigned short)-1962587809;
   unsigned long  Kp3_5ca;
   Kp3_5ca  =  -1416086859;
     unsigned char    DWxH83Bv;
@@ -99,7 +99,7 @@ int main() {
  long Vd02;
  Vd02 = 190157811;
   short  Idx2zw946;
-  Idx2zw946  =  -383004955;
+  Idx2zw946  =  (short)-383004955;
 
 {
 int i = 6;
@@ -142,7 +142,7 @@ if (Kcua != O_R34ZyEW_)
 K1zH1cv <<= 922893620;
 }
 p2omo9 = (int)ceil(g6OOr2_c);
-std::cout << mbbtDEGFC(-1193062115) << mbbtDEGFC(-2095275491) << "g49kBY4" << J60FCg << "Li_605z2" << std::endl;
+std::cout << mbbtDEGFC(-1193062115) << mbbtDEGFC((short)-2095275491) << "g49kBY4" << J60FCg << "Li_605z2" << std::endl;
 
 if (b_tt3_OJS < ihDP2J77)
 {
@@ -285,7 +285,7 @@ Ne37w = H3f_pLJ7_(hxDB_, -1833047487, 647626749, ihDP2J77);
 WqN67pX = (int)floor(AyKVDWG);
 if (J60FCg == pp3b0)
 {
-X2tp = H3f_pLJ7_(hxDB_, 1939019261, 277077882, -1468497592) | 417129077;
+X2tp = H3f_pLJ7_(hxDB_, (unsigned short)1939019261, 277077882, -1468497592) | 417129077;
 }
 else
 {
@@ -378,7 +378,7 @@ mgXh = hI4o(-1449662377, -1587737160, b_tt3_OJS);
 }
 else if (Yw__gu9 != B87_)
 {
-std::cout << Kcua << "HlmCcW8kg1" << hI4o(1965812793, p2omo9, 291908740) << R_0rsa(O7m442Lv3) << "j5BVvHGQx" << std::endl;
+std::cout << Kcua << "HlmCcW8kg1" << hI4o((short)1965812793, p2omo9, 291908740) << R_0rsa(O7m442Lv3) << "j5BVvHGQx" << std::endl;
 }
 else
 {

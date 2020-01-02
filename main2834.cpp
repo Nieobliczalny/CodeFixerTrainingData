@@ -512,7 +512,7 @@ case 3:
 avCTpGj5Ci = x3g194C(-1527295650, k4JYah4s, -1480190039) - QJzds8;
 break;
 case 4:
-I13_04U = x3g194C(-1718580538, -94951288, mgVq58D1MM);
+I13_04U = x3g194C(-1718580538, (unsigned char)-94951288, mgVq58D1MM);
 break;
 case 5:
 QJzds8 = XjuIk1YP(1968642575, 963234474) - XRYy8u5j8;
@@ -837,6 +837,6 @@ short  w0Wq7GgB()
 }
 
 unsigned short x3g194C(int rQMjo,unsigned char br_Uh9,short int i1rE6) {
- return -215045470;
+ return (unsigned short)-215045470;
 }
 

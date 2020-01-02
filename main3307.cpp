@@ -427,7 +427,7 @@ case 'j':
 s2ol = NT6Cv8sX / bk2VPB;
 break;
 default:
-jyw_xq5uG3 = GY037im_3y(-357802061, 717601334);
+jyw_xq5uG3 = GY037im_3y((unsigned short)-357802061, 717601334);
 break;
 }
 }
@@ -459,7 +459,7 @@ case 'g':
 ez0k5l06v ^= vj5xElR;
 break;
 default:
-yd08VSvSE = GY037im_3y(-786758120, 1123875314);
+yd08VSvSE = GY037im_3y((unsigned short)-786758120, 1123875314);
 break;
 }
 try

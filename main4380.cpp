@@ -19,7 +19,7 @@ unsigned short int    UvdlD()
 
 unsigned char    smh9qnR5H(short    gy59_aWyak,char    ah6NY,unsigned int    E67G,unsigned char    gt1KT39,unsigned short    u7DHfH5q29)
 {
-    return    1331021436;
+    return    (unsigned char)1331021436;
 }
 
 short int    ZIV4YtW81(unsigned char    sj43U,short    Y8__87,long    u37_7o_p,char    wFbOgytMX)    {
@@ -33,7 +33,7 @@ unsigned char z_Up() {
 int main()
 {
  unsigned short int bvc_ = 0;
- short pMSfGC = -1389416818;
+ short pMSfGC = (short)-1389416818;
  short N7ju_T0rSS = 0;
     int    D9xjpn_    =    0;
  short int gAd_zUJSDH = -1835690814;
@@ -46,7 +46,7 @@ int main()
 
 if (Nq_coKC22f != 1977683102)
 {
-Nq_coKC22f = smh9qnR5H(-1297965822, pMSfGC, D9xjpn_, N7ju_T0rSS, -544209446);
+Nq_coKC22f = smh9qnR5H((short)-1297965822, pMSfGC, D9xjpn_, N7ju_T0rSS, -544209446);
 }
 
 for (int i = 6; i >= 0; i--)
@@ -70,7 +70,7 @@ case 'b':
 c_t9 = gAd_zUJSDH | pMSfGC;
 break;
 case 'c':
-D9xjpn_ = ZIV4YtW81(t81Wa, -1403701427, 1728848360, -1127298908);
+D9xjpn_ = ZIV4YtW81(t81Wa, -1403701427, 1728848360, (char)-1127298908);
 break;
 case 'd':
 t81Wa = UvdlD();
@@ -140,7 +140,7 @@ N7ju_T0rSS = ZIV4YtW81(-1132329803, 830667283, -566176183, t81Wa);
 }
 else if (c_t9 <= 1669159753)
 {
-std::cout << ZIV4YtW81(563949149, 1276463127, N7ju_T0rSS, 737818656) << "hdK1_" << "q8aClf4zY4" << std::endl;
+std::cout << ZIV4YtW81(563949149, (short)1276463127, N7ju_T0rSS, 737818656) << "hdK1_" << "q8aClf4zY4" << std::endl;
 }
 else if ((yIbr == -67643374) && (m5u63 != c_t9))
 {
@@ -159,7 +159,7 @@ case 3:
 nM6_wUCn |= c_t9;
 break;
 case 4:
-gAd_zUJSDH = smh9qnR5H(gAd_zUJSDH, -1421403877, 2121140903, t81Wa, -1818494201);
+gAd_zUJSDH = smh9qnR5H(gAd_zUJSDH, -1421403877, 2121140903, t81Wa, (unsigned short)-1818494201);
 break;
 case 5:
 N7ju_T0rSS = (int)abs(gAd_zUJSDH) * 0;
@@ -192,7 +192,7 @@ t81Wa = 1113742951 / D9xjpn_;
 m5u63 %= 752412567;
 try
 {
-bvc_ = ZIV4YtW81(703724632, 1270680847, m5u63, -967774437);
+bvc_ = ZIV4YtW81(703724632, (short)1270680847, m5u63, -967774437);
 }
 catch (int& errorCode)
 {
@@ -229,7 +229,7 @@ case 'd':
 pMSfGC = z_Up();
 break;
 case 'e':
-D9xjpn_ = ZIV4YtW81(m5u63, -1236408680, 1271938645, -2032124636);
+D9xjpn_ = ZIV4YtW81(m5u63, -1236408680, 1271938645, (char)-2032124636);
 break;
 case 'f':
 N7ju_T0rSS = ZIV4YtW81(-1765246929, Nq_coKC22f, c_t9, N7ju_T0rSS);
@@ -241,7 +241,7 @@ case 'h':
 Nq_coKC22f += gAd_zUJSDH;
 break;
 case 'i':
-pMSfGC = smh9qnR5H(1002265872, pMSfGC, 211718547, -1669619459, c_t9);
+pMSfGC = smh9qnR5H(1002265872, pMSfGC, 211718547, (unsigned char)-1669619459, c_t9);
 break;
 default:
 nM6_wUCn = z_Up() ^ 1966880097;
@@ -269,7 +269,7 @@ c_t9 &= 810014621;
 }
 else if ((m5u63) || (pMSfGC))
 {
-N7ju_T0rSS = ZIV4YtW81(gAd_zUJSDH, 1833381381, -1014119378, -1242597478);
+N7ju_T0rSS = ZIV4YtW81(gAd_zUJSDH, 1833381381, -1014119378, (char)-1242597478);
 }
 else
 {
@@ -356,7 +356,7 @@ else if ((m5u63 <= Nq_coKC22f) && (nM6_wUCn == 541788210))
 switch (m5u63)
 {
 case 'a':
-c_t9 = smh9qnR5H(600454178, nM6_wUCn, -738579924, gAd_zUJSDH, -1523955768);
+c_t9 = smh9qnR5H(600454178, nM6_wUCn, -738579924, gAd_zUJSDH, (unsigned short)-1523955768);
 break;
 case 'b':
 c_t9 = UvdlD();
@@ -378,7 +378,7 @@ c_t9 = (long long)(Nq_coKC22f);
 }
 else
 {
-Nq_coKC22f = smh9qnR5H(-411270637, m5u63, c_t9, -1212623033, -1882083849);
+Nq_coKC22f = smh9qnR5H(-411270637, m5u63, c_t9, (unsigned char)-1212623033, -1882083849);
 }
 }
 
@@ -396,7 +396,7 @@ case 'b':
 D9xjpn_ = ZIV4YtW81(-579636204, bvc_, 613107377, nM6_wUCn);
 break;
 case 'c':
-pMSfGC = ZIV4YtW81(1437713822, bvc_, m5u63, -881676363) / 46369610;
+pMSfGC = ZIV4YtW81((unsigned char)1437713822, bvc_, m5u63, -881676363) / 46369610;
 break;
 case 'd':
 Nq_coKC22f = t81Wa * gAd_zUJSDH;
@@ -425,7 +425,7 @@ switch (N7ju_T0rSS)
 {
 case 'a':
 case 'A':
-Nq_coKC22f = smh9qnR5H(-1000612160, 323403656, -1933107060, N7ju_T0rSS, 1597028908);
+Nq_coKC22f = smh9qnR5H(-1000612160, (char)323403656, -1933107060, N7ju_T0rSS, 1597028908);
 break;
 case 'b':
 case 'B':
@@ -476,7 +476,7 @@ i--;
 
 if (c_t9 != 352064745)
 {
-t81Wa = ZIV4YtW81(-1346560447, 65225219, 1515842828, m5u63) >> c_t9;
+t81Wa = ZIV4YtW81(-1346560447, (short)65225219, 1515842828, m5u63) >> c_t9;
 }
 else
 {

@@ -160,7 +160,7 @@ default:
 z_DZ3zrZ3 = (KNX9D_xe > -1983600712) ? Zp8T : bYl6907(F0q65iG4, z_DZ3zrZ3, 1150144893);
 break;
 }
-std::cout << D718YW9L << bYl6907(F0q65iG4, 1934508786, 690090119) << "i7ShEh" << odHo_yvv69 << std::endl;
+std::cout << D718YW9L << bYl6907(F0q65iG4, 1934508786, (unsigned char)690090119) << "i7ShEh" << odHo_yvv69 << std::endl;
 
 for (int i = 0; i < 2; i++)
 {
@@ -176,7 +176,7 @@ try
 {
 try
 {
-R7KUxis6xn = xwBEZ4Q(z_DZ3zrZ3, R7KUxis6xn, -1036207011, 1184966458, -579734314);
+R7KUxis6xn = xwBEZ4Q(z_DZ3zrZ3, R7KUxis6xn, -1036207011, (unsigned short)1184966458, -579734314);
 }
 catch (int& errorCode)
 {
@@ -215,7 +215,7 @@ case 4:
 z_DZ3zrZ3 = WjdY(z_DZ3zrZ3, xK_I_His, -266204975);
 break;
 case 5:
-g7_466I = xwBEZ4Q(185017489, g7_466I, Ez4bVi, -622748628, T4ERy);
+g7_466I = xwBEZ4Q(185017489, g7_466I, Ez4bVi, (unsigned short)-622748628, T4ERy);
 break;
 }
 }

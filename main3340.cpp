@@ -33,7 +33,7 @@ int main(void)
   float  JqU6;
   JqU6  =  -1098789109;
     short    GgVc8A4;
-    GgVc8A4    =    268285490;
+    GgVc8A4    =    (short)268285490;
  short int F29E8R7_ZJ;
  F29E8R7_ZJ = -1850176437;
   short  k8N_;
@@ -47,7 +47,7 @@ int main(void)
 	unsigned int	QOd4;
 	QOd4	=	1241347726;
   short int  AsNJ;
-  AsNJ  =  1630787900;
+  AsNJ  =  (short)1630787900;
 	unsigned long	y_Kh6O6;
 	y_Kh6O6	=	-2078938491;
     long double    lt3k8m1;
@@ -57,7 +57,7 @@ int main(void)
   unsigned int  LgOchD0;
   LgOchD0  =  426714915;
     unsigned short    nPQ8Sm;
-    nPQ8Sm    =    577765804;
+    nPQ8Sm    =    (unsigned short)577765804;
     long long    b7f00Yhwgw;
     b7f00Yhwgw    =    624428989;
  unsigned long m5dpr;
@@ -89,7 +89,7 @@ int main(void)
 	unsigned long	VtecKHicr4;
 	VtecKHicr4	=	1618346133;
  unsigned short int FEvW0mg9U;
- FEvW0mg9U = 485323277;
+ FEvW0mg9U = (unsigned short)485323277;
   unsigned int  LLOT84;
   LLOT84  =  37466770;
  unsigned short CVaOTwy5w;
@@ -109,7 +109,7 @@ int main(void)
   float  o_OA4uXT4h;
   o_OA4uXT4h  =  -26154198;
   unsigned char  poyg_;
-  poyg_  =  1522053465;
+  poyg_  =  (unsigned char)1522053465;
     short    nv16;
     nv16    =    -773134445;
     unsigned char    Wzyz4_JHy;
@@ -119,7 +119,7 @@ int main(void)
  short int J71j9X;
  J71j9X = -76179489;
     short    E5Lv6g1;
-    E5Lv6g1    =    -2056173489;
+    E5Lv6g1    =    (short)-2056173489;
   float  Q39TKgQ3s;
   Q39TKgQ3s  =  1880984717;
   unsigned long long  tdO8fEtSl;
@@ -147,7 +147,7 @@ int main(void)
     unsigned long long    crU1YmpaC_;
     crU1YmpaC_    =    -1530602807;
     unsigned short    B3M1ftMy;
-    B3M1ftMy    =    115948394;
+    B3M1ftMy    =    (unsigned short)115948394;
   unsigned char  E6Izi;
   E6Izi  =  1114520756;
 	double	J3b7;
@@ -171,7 +171,7 @@ int main(void)
     unsigned char    r4bmG;
     r4bmG    =    -1366249793;
     short int    Iwj9yjVK3;
-    Iwj9yjVK3    =    -1795597340;
+    Iwj9yjVK3    =    (short)-1795597340;
  long RzWKJ;
  RzWKJ = -104174278;
  long jW0h6H;
@@ -185,7 +185,7 @@ int main(void)
  float gwOZ;
  gwOZ = 419727865;
 	unsigned short	QCou;
-	QCou	=	-1629216289;
+	QCou	=	(unsigned short)-1629216289;
   long double  o8laF9;
   o8laF9  =  381427945;
     short    RtlaDu3;
@@ -197,7 +197,7 @@ int main(void)
   long long  q5G_bMp1;
   q5G_bMp1  =  17197765;
  unsigned short int yHqY3qC;
- yHqY3qC = -643707319;
+ yHqY3qC = (unsigned short)-643707319;
  float BgqVV;
  BgqVV = -1126508797;
  short int rWE3V506;
@@ -207,7 +207,7 @@ int main(void)
 	long	zA6lFGE7o5;
 	zA6lFGE7o5	=	115527287;
   short int  CzGjrJn;
-  CzGjrJn  =  1402209171;
+  CzGjrJn  =  (short)1402209171;
 	float	RQGT824h;
 	RQGT824h	=	704896306;
 	unsigned short int	GYb5xN9U_;
@@ -219,7 +219,7 @@ int main(void)
     char    O7sCn;
     O7sCn    =    0;
  unsigned char C5wDusZL;
- C5wDusZL = 77895359;
+ C5wDusZL = (unsigned char)77895359;
   float  Z_0RJ5V;
   Z_0RJ5V  =  778467656;
 	float	Uzron;
@@ -297,7 +297,7 @@ C5wDusZL = v3U6_(1026418046, 958760291, U3MUXF4);
 break;
 }
 
-Z_0RJ5V = v3U6_(Z_0RJ5V, 1976185499, 427603338);
+Z_0RJ5V = v3U6_(Z_0RJ5V, 1976185499, (unsigned short)427603338);
 if ((m6qi24N3_ & Odmzk0zt) || (Ew_8eIMy & -2069314122))
 {
 RoI4Ag >>= 1090456615;
@@ -346,7 +346,7 @@ l6NcT %= Wzyz4_JHy;
 break;
 }
 
-DAAL7_8o5 = EwyWL(DAAL7_8o5, j8c69F6v, -734032073, 862819876, -562165404);
+DAAL7_8o5 = EwyWL(DAAL7_8o5, j8c69F6v, -734032073, 862819876, (char)-562165404);
 
 {
 int i = 0;
@@ -485,7 +485,7 @@ s80qH70 %= l6NcT;
 break;
 case 'f':
 case 'F':
-RzWKJ = EwyWL(1529245159, 1741618295, 1159746028, 1852815359, pKgG34A2);
+RzWKJ = EwyWL(1529245159, 1741618295, (short)1159746028, 1852815359, pKgG34A2);
 break;
 }
 }
@@ -512,7 +512,7 @@ Zem4wzfx9 = v3U6_(Zem4wzfx9, 672602862, yA2t2fo1s4);
 }
 }
 }
-yA2t2fo1s4 = v3U6_(-583413121, -2025997931, 379115832);
+yA2t2fo1s4 = v3U6_(-583413121, -2025997931, (unsigned short)379115832);
 
 {
 int i = 7;
@@ -526,7 +526,7 @@ YgaS_y8A++;
 }
 else
 {
-t857nY3V = v3U6_(-1070137241, 1801312224, 1152149654);
+t857nY3V = v3U6_(-1070137241, 1801312224, (unsigned short)1152149654);
 }
 }
 --i;
@@ -556,7 +556,7 @@ case 'c':
 A3_2bP4jQ = Q950(1802091586, 996598059);
 break;
 case 'd':
-GgVc8A4 = XW4pN2c80(1548069128, Uzron, -468493026, 215167321);
+GgVc8A4 = XW4pN2c80(1548069128, Uzron, (char)-468493026, 215167321);
 break;
 case 'e':
 pKgG34A2 = yA2t2fo1s4 ^ Wzyz4_JHy;
@@ -612,7 +612,7 @@ case 6:
 O7sCn = c6rA9pFI3(193373271, -420977694, 1900915214);
 break;
 case 7:
-b7f00Yhwgw = XW4pN2c80(-130478559, -648600179, -76558600, k8N_) - 1382860687;
+b7f00Yhwgw = XW4pN2c80(-130478559, -648600179, (char)-76558600, k8N_) - 1382860687;
 break;
 }
 }
@@ -660,7 +660,7 @@ i++;
 std::cout << "j8dgkUGMKl" << Q950(-973482178, od32UsT) << "pK1piEm50" << v3U6_(poyg_, od32UsT, Gy5QO) << std::endl;
 }
 }
-r39i5_7 = EwyWL(1690459491, -348312254, 998873038, 524223879, Zem4wzfx9) << zh01Wb;
+r39i5_7 = EwyWL(1690459491, -348312254, (short)998873038, 524223879, Zem4wzfx9) << zh01Wb;
 {
 int i = 0;
 do
@@ -723,7 +723,7 @@ std::cout << ocf7DEa << c6rA9pFI3(-832987338, -197808610, ocf7DEa) << "FFFinI3" 
 }
 else
 {
-s80qH70 = v3U6_(s80qH70, O7sCn, -2093452058);
+s80qH70 = v3U6_(s80qH70, O7sCn, (unsigned short)-2093452058);
 }
 switch (zh01Wb)
 {
@@ -749,7 +749,7 @@ case 'g':
 pKgG34A2 = (int)ceil(lt3k8m1);
 break;
 case 'h':
-t857nY3V = XW4pN2c80(-1444254545, 2129008512, r39i5_7, 861214863);
+t857nY3V = XW4pN2c80(-1444254545, (char)2129008512, r39i5_7, 861214863);
 break;
 default:
 o_OA4uXT4h = (int)ceil(Q39TKgQ3s);
@@ -848,7 +848,7 @@ while (k < 7);
 }
 else if (U3MUXF4)
 {
-std::cout << "Fa9w47B1I" << v3U6_(826279025, 1544885100, -857910766) << "Sd4P8Sxp4" << U3MUXF4 << std::endl;
+std::cout << "Fa9w47B1I" << v3U6_(826279025, 1544885100, (unsigned short)-857910766) << "Sd4P8Sxp4" << U3MUXF4 << std::endl;
 }
 else if ((m5dpr < -390141017) && (KYKZmQ_JWw & Odmzk0zt))
 {
@@ -920,7 +920,7 @@ else
 {
 if (s80qH70)
 {
-JqU6 = EwyWL(O7sCn, 952774034, -605856044, zA6lFGE7o5, 448239063);
+JqU6 = EwyWL(O7sCn, 952774034, (short)-605856044, zA6lFGE7o5, 448239063);
 }
 else
 {

@@ -31,7 +31,7 @@ int main()
  long fMA2sQ2n;
  fMA2sQ2n = 0;
  unsigned short LKV3;
- LKV3 = -245167704;
+ LKV3 = (unsigned short)-245167704;
   unsigned short int  SO9BE;
   SO9BE  =  1040996971;
   unsigned short int  FOHYM;
@@ -41,7 +41,7 @@ int main()
   unsigned long  Z_12C;
   Z_12C  =  1998870533;
  unsigned char sYxU3f;
- sYxU3f = 2009219644;
+ sYxU3f = (unsigned char)2009219644;
     long long    SQPLPxj;
     SQPLPxj    =    882130008;
   unsigned short  o1UvP3BTi;
@@ -51,7 +51,7 @@ int main()
 	long	ZrH_hh8;
 	ZrH_hh8	=	691102731;
     unsigned char    A4s87Z5y;
-    A4s87Z5y    =    466848273;
+    A4s87Z5y    =    (unsigned char)466848273;
     float    X3__dSRlif;
     X3__dSRlif    =    900863335;
   long double  fxm0;

@@ -19,7 +19,7 @@ char  i3bn39s();
 int main(int argc, char** argv) {
   long  oG9PG3  =  0;
  char oGeg_33H78 = -253716730;
-  char  l4ZLi  =  1975693989;
+  char  l4ZLi  =  (char)1975693989;
  unsigned long rz76l8m5 = 0;
 
 if (l4ZLi >= oG9PG3)
@@ -71,7 +71,7 @@ case 4:
 l4ZLi = i3bn39s();
 break;
 case 5:
-oG9PG3 = ry32hd1(1560339495);
+oG9PG3 = ry32hd1((unsigned char)1560339495);
 break;
 case 6:
 oGeg_33H78--;
@@ -245,7 +245,7 @@ oG9PG3 = (int)abs(oGeg_33H78) * 0;
 break;
 case 'd':
 case 'D':
-oGeg_33H78 = vc7I34Los_(-1502840980, -645743566, -2035301295, -1485439668, -2014782722);
+oGeg_33H78 = vc7I34Los_(-1502840980, -645743566, (unsigned short)-2035301295, -1485439668, -2014782722);
 break;
 case 'e':
 case 'E':
@@ -265,7 +265,7 @@ oGeg_33H78 = (char)(l4ZLi);
 }
 else
 {
-cout << l4ZLi << oGeg_33H78 << kw8t() << vc7I34Los_(-27353721, 231160213, 2002373610, 242913839, 1316863417) << endl;
+cout << l4ZLi << oGeg_33H78 << kw8t() << vc7I34Los_((char)-27353721, 231160213, 2002373610, 242913839, 1316863417) << endl;
 }
 
 l4ZLi = kw8t();
@@ -278,7 +278,7 @@ case 'b':
 oG9PG3 = ry32hd1(266634840);
 break;
 case 'c':
-oG9PG3 = ry32hd1(-80575412);
+oG9PG3 = ry32hd1((unsigned char)-80575412);
 break;
 case 'd':
 oGeg_33H78 = vc7I34Los_(-1241624451, -629845817, oGeg_33H78, l4ZLi, 512921578);
@@ -366,7 +366,7 @@ oG9PG3 = (int)abs(oGeg_33H78) * 0;
 }
 else if (((oGeg_33H78 < 272444082) || (oGeg_33H78 == l4ZLi)) || (oGeg_33H78))
 {
-oGeg_33H78 = vc7I34Los_(-1983972905, l4ZLi, 2036311147, oG9PG3, -1911232423);
+oGeg_33H78 = vc7I34Los_(-1983972905, l4ZLi, (unsigned short)2036311147, oG9PG3, -1911232423);
 }
 else if ((rz76l8m5 > l4ZLi) || (l4ZLi != -743765793))
 {
@@ -425,6 +425,6 @@ unsigned short int vc7I34Los_(char HSbV907x0,unsigned int oHS1e2,unsigned short 
 
 char  i3bn39s()
 {
-  return  685069092;
+  return  (char)685069092;
 }
 

@@ -292,7 +292,7 @@ case 'i':
 nh5ef = (int)abs(GUEY);
 break;
 case 'j':
-nh5ef = GmvmVZ631l(151634756, yv07o0z, -1439874349, nh5ef, 918137489);
+nh5ef = GmvmVZ631l((unsigned char)151634756, yv07o0z, -1439874349, nh5ef, 918137489);
 break;
 }
 

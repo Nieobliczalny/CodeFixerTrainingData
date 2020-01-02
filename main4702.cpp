@@ -18,7 +18,7 @@ int main(void) {
     long double    FfaiTj    =    -1047392624;
   int  CZ71c  =  358520332;
 	unsigned char	pp6Vj	=	-4715474;
-  unsigned short  T574Z  =  -795880601;
+  unsigned short  T574Z  =  (unsigned short)-795880601;
 	unsigned char	Sm3O0	=	0;
  long dKp8vc = 876878910;
     long double    TUq1s8E    =    -784258431;
@@ -48,7 +48,7 @@ if (B3oJq > -481283766)
 {
 for (int k = 0; k < 8; k++)
 {
-Sm3O0 = f07purs8VH(CZ71c, -1847431783, -541370860, oPlRT6N);
+Sm3O0 = f07purs8VH(CZ71c, -1847431783, (unsigned char)-541370860, oPlRT6N);
 }
 }
 else
@@ -63,7 +63,7 @@ dKp8vc--;
 }
 else if (dKp8vc < avEGZ09)
 {
-Sm3O0 = f07purs8VH(-598156699, 1423509858, pp6Vj, T2nz);
+Sm3O0 = f07purs8VH(-598156699, (short)1423509858, pp6Vj, T2nz);
 }
 else
 {
@@ -77,7 +77,7 @@ pLR67E = pp6Vj ^ QK0P;
 Sm3O0 = f07purs8VH(pLR67E, Sm3O0, 1642434215, 1066872833);
 
 oPlRT6N = (int)abs(avEGZ09);
-Sm3O0 = f07purs8VH(-1511720772, -992974785, a_Y6pe, avEGZ09);
+Sm3O0 = f07purs8VH((unsigned short)-1511720772, -992974785, a_Y6pe, avEGZ09);
 if (a_Y6pe >= T2nz)
 {
 try
@@ -107,7 +107,7 @@ if (dKp8vc != -299793351)
 int k = 0;
 while (k < 8)
 {
-Sm3O0 = f07purs8VH(-1971671654, -903245761, 1924667468, pp6Vj);
+Sm3O0 = f07purs8VH(-1971671654, (short)-903245761, 1924667468, pp6Vj);
 ++k;
 }
 }
@@ -125,7 +125,7 @@ Sm3O0 = f07purs8VH(-1313531821, pp6Vj, B3oJq, avEGZ09);
 }
 else if (T574Z >= -1100055190)
 {
-pp6Vj = f07purs8VH(1896216693, pp6Vj, -927737213, avEGZ09) | QK0P;
+pp6Vj = f07purs8VH((unsigned short)1896216693, pp6Vj, -927737213, avEGZ09) | QK0P;
 }
 else if (CZ71c >= 85969056)
 {
@@ -182,7 +182,7 @@ while (j >= 0);
 
 if (QK0P <= avEGZ09)
 {
-Sm3O0 = f07purs8VH(1550100691, dKp8vc, 1788194509, CZ71c);
+Sm3O0 = f07purs8VH(1550100691, dKp8vc, (unsigned char)1788194509, CZ71c);
 }
 else
 {
@@ -209,7 +209,7 @@ catch (int& errorCode)
 {
 pp6Vj = (T2nz == -1406739544) ? -179279467 : a_Y6pe;
 }
-Sm3O0 = f07purs8VH(-235462884, 1511990761, Sm3O0, pLR67E);
+Sm3O0 = f07purs8VH(-235462884, (short)1511990761, Sm3O0, pLR67E);
 {
 int i = 8;
 do

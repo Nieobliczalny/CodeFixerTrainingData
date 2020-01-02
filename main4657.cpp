@@ -94,7 +94,7 @@ case 4:
 o116mvU4Z = wTOiF(-1391447762, -453505474, -491803867);
 break;
 case 5:
-m__SaRKmc = H2rs2nBVY5(-894430726);
+m__SaRKmc = H2rs2nBVY5((unsigned short)-894430726);
 break;
 case 6:
 d3JR5t37c = (int)floor(DMQV__PcG);
@@ -271,7 +271,7 @@ case 'g':
 t87_wsZ5 = (int)abs(Hu053);
 break;
 case 'h':
-OJ5kw_I8t = H2rs2nBVY5(326452585);
+OJ5kw_I8t = H2rs2nBVY5((unsigned short)326452585);
 break;
 case 'i':
 z0n7t0qd9 = H2rs2nBVY5(DMQV__PcG) % 1154157961;

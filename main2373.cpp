@@ -49,7 +49,7 @@ case 3:
 q6b2lNwqr2 = calF8Ik - ErH8F;
 break;
 case 4:
-CuKyqa8j = K9PKTDC09f(hm4_iRG, YIRN4rHt0, -1587251773);
+CuKyqa8j = K9PKTDC09f(hm4_iRG, YIRN4rHt0, (short)-1587251773);
 break;
 case 5:
 oKy2p_Aj /= 560487759;
@@ -164,7 +164,7 @@ else if (eFVNGCm)
 switch (abOSs_Ol)
 {
 case 'a':
-auCDrFLw6m = K9PKTDC09f(auCDrFLw6m, -792127355, -1198371282);
+auCDrFLw6m = K9PKTDC09f(auCDrFLw6m, -792127355, (short)-1198371282);
 break;
 case 'b':
 m3s9Vch = V2KD();

@@ -639,7 +639,7 @@ short	r68_n_0(unsigned long long	l_Hh_R)
 }
 
 short int	L9pZx2juwD(unsigned char	A_48RKj_9,int	OGct)	{
-	return	728805526;
+	return	(short)728805526;
 }
 
 long	E6EdRRe(long	F9wJ)	{

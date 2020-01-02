@@ -110,7 +110,7 @@ case 'e':
 MiQe33 = (int)floor(K_iG5s3G);
 break;
 case 'f':
-E53GK = TSPo38_(E53GK, -1177660595, -1064552575);
+E53GK = TSPo38_(E53GK, (short)-1177660595, -1064552575);
 break;
 case 'g':
 INRONs0MXH = (int)floor(tST_t0nA1);
@@ -198,7 +198,7 @@ else if (vqk81_4 < -535296224)
 {
 if (tST_t0nA1 >= xvIxm2n)
 {
-std::cout << TSPo38_(Y139G, -775692206, -991765032) << "iqE90" << SgU7s(Y139G) << SgU7s(Y139G) << IO0Y2_k << std::endl;
+std::cout << TSPo38_(Y139G, -775692206, (unsigned short)-991765032) << "iqE90" << SgU7s(Y139G) << SgU7s(Y139G) << IO0Y2_k << std::endl;
 }
 else if ((o0_Q7Jk) && (O81Tj5njTg != E53GK))
 {

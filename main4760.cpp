@@ -14,6 +14,7 @@ using std::floor;
 
 int main(void) {
     short    rDsMbXg146    =    0,    h8AM8Ixq2    =    0;
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
   char  OBhHyWYr  =  1806283352,  TG7EO7i1  =  1773382025,  Bn8f  =  1099948277,  J4SvoVsBV  =  -1965977583,  vlay  =  -837452411,  yzvv0  =  289173196,  hr1JSY2W  =  1773740186,  yU14GhBah  =  354002060,  eE9c  =  -1945650440,  upUjxfi  =  -732716970,  x5wC  =  1120231688,  hkgO59i1b  =  1763516286,  W9wuAC  =  450591749,  OuUkea0aD  =  -1742741447,  HHsCeD  =  1142294574,  Xqaj6  =  -1844800944,  MubLEeo7  =  -1612678753,  hlrs  =  -814292290;
 
 {
@@ -32,7 +33,7 @@ Bn8f = MubLEeo7 >> yzvv0;
 }
 else
 {
-hkgO59i1b = (OBhHyWYr <= 45526333) ? -1854047232 : 956892333;
+hkgO59i1b = (OBhHyWYr <= 45526333) ? -1854047232 : (char)956892333;
 }
 }
 i++;

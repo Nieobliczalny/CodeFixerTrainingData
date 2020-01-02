@@ -39,7 +39,7 @@ int main(int argc, char** argv)
 	char	txlE8Tj3;
 	txlE8Tj3	=	-45186518;
 	unsigned char	Gfcc64P;
-	Gfcc64P	=	-49552645;
+	Gfcc64P	=	(unsigned char)-49552645;
     long long    JrJNuHmwO;
     JrJNuHmwO    =    920508816;
  unsigned long long bW85Md8;
@@ -55,7 +55,7 @@ int main(int argc, char** argv)
     unsigned long    f6XPq_nV;
     f6XPq_nV    =    1745940521;
     short int    gwjZql;
-    gwjZql    =    -295969023;
+    gwjZql    =    (short)-295969023;
   long  hMX5f03Uu;
   hMX5f03Uu  =  -1067592088;
 	int	N0ZknLD45m;
@@ -71,7 +71,7 @@ int main(int argc, char** argv)
  unsigned long long ISqhZ7;
  ISqhZ7 = 0;
 	unsigned short	uMosb;
-	uMosb	=	1581260268;
+	uMosb	=	(unsigned short)1581260268;
     short    CA_UJFJPT;
     CA_UJFJPT    =    -1559467664;
   short int  x5j0eB7;
@@ -91,7 +91,7 @@ int main(int argc, char** argv)
  unsigned short int y_06qYjG;
  y_06qYjG = 89388400;
 	unsigned short	caEUb5p;
-	caEUb5p	=	1347574647;
+	caEUb5p	=	(unsigned short)1347574647;
  int j_Oi4a;
  j_Oi4a = -1216497275;
  short int BkEv;
@@ -107,7 +107,7 @@ int main(int argc, char** argv)
  long long GPZ3l_scr;
  GPZ3l_scr = -1441986839;
 	unsigned short int	W8oLjP1WM8;
-	W8oLjP1WM8	=	1247831928;
+	W8oLjP1WM8	=	(unsigned short)1247831928;
 	char	e41t;
 	e41t	=	-1304483021;
  unsigned short umYU58jo;
@@ -117,7 +117,7 @@ int main(int argc, char** argv)
 	float	BaR00zd2_V;
 	BaR00zd2_V	=	949711998;
  char hA4Z_1;
- hA4Z_1 = -1013902735;
+ hA4Z_1 = (char)-1013902735;
  unsigned char dL1_f_9;
  dL1_f_9 = 995836184;
 	unsigned short	vRlieAx;
@@ -127,7 +127,7 @@ int main(int argc, char** argv)
 	float	iUit5eIyX;
 	iUit5eIyX	=	-1005861530;
 	unsigned short int	G_A7;
-	G_A7	=	1538102035;
+	G_A7	=	(unsigned short)1538102035;
   unsigned short  q9p4uFlw__;
   q9p4uFlw__  =  -76096028;
   unsigned short int  U2e69gHk;
@@ -137,7 +137,7 @@ int main(int argc, char** argv)
  unsigned short pYw97qD;
  pYw97qD = 738257068;
 	char	JD6Cds;
-	JD6Cds	=	452716095;
+	JD6Cds	=	(char)452716095;
  double oGaL57MpBF;
  oGaL57MpBF = -1466499806;
 	unsigned long	Nv0kKYGP87;

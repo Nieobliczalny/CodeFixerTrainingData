@@ -22,7 +22,7 @@ std::cout << Er2D_89lmA << "izJ6HU818" << "w_kIM" << "ifl84" << I_133_yJ << std:
 
 if ((CtSLgVAu > Gv5DutK2) || ((CtSLgVAu & 1438150814) || (Gv5DutK2 >= -1734679153)))
 {
-Wg_i52P = dro_M90(262842383, z3x2A, Y1XeMU79);
+Wg_i52P = dro_M90((short)262842383, z3x2A, Y1XeMU79);
 }
 else if (Wg_i52P < -544184261)
 {
@@ -34,7 +34,7 @@ else
 {
 for (int k = 0; k < 3; ++k)
 {
-CtSLgVAu = dro_M90(1196534603, 92245035, Hu6f3S8);
+CtSLgVAu = dro_M90(1196534603, (unsigned short)92245035, Hu6f3S8);
 }
 }
 }
@@ -160,7 +160,7 @@ case 'a':
 CtSLgVAu = dro_M90(-360072170, z3x2A, csAb_);
 break;
 case 'b':
-WHLk6 = dro_M90(uYO4zFzJU, -658338254, xptP693);
+WHLk6 = dro_M90(uYO4zFzJU, (unsigned short)-658338254, xptP693);
 break;
 case 'c':
 mSe22U3a = oB366U(rzVf6, 348703760, CPjSF1I0, Hu6f3S8);
@@ -181,7 +181,7 @@ case 'h':
 EKQSW_6cZ3 = Hu6f3S8 ^ Lbz673U;
 break;
 case 'i':
-Gv5DutK2 = oB366U(-1505642545, q_tK, -1066874666, Wg_i52P);
+Gv5DutK2 = oB366U((short)-1505642545, q_tK, -1066874666, Wg_i52P);
 break;
 case 'j':
 CtSLgVAu = dro_M90(1090019672, EKQSW_6cZ3, CPjSF1I0);
@@ -222,7 +222,7 @@ case 7:
 tXv_MpzqG = oB366U(-2005740137, J88306, q_tK, uYO4zFzJU);
 break;
 default:
-Er2D_89lmA = oB366U(67474012, 716731450, q_tK, 1141006652) % 1517257000;
+Er2D_89lmA = oB366U((short)67474012, 716731450, q_tK, 1141006652) % 1517257000;
 break;
 }
 }
@@ -277,7 +277,7 @@ if (Y1XeMU79 >= J88306)
 {
 try
 {
-Er2D_89lmA = (CPjSF1I0 > 672107117) ? 647341827 : -1497779520;
+Er2D_89lmA = (CPjSF1I0 > 672107117) ? 647341827 : (short)-1497779520;
 }
 catch (int& errorCode)
 {
@@ -290,7 +290,7 @@ else
 int j = 8;
 do
 {
-std::cout << dro_M90(Y1XeMU79, 18584264, csAb_) << oB366U(Y1XeMU79, J88306, csAb_, Lbz673U) << oB366U(-1169073343, 832867357, csAb_, 2108814050) << std::endl;
+std::cout << dro_M90(Y1XeMU79, 18584264, csAb_) << oB366U(Y1XeMU79, J88306, csAb_, Lbz673U) << oB366U((short)-1169073343, 832867357, csAb_, 2108814050) << std::endl;
 --j;
 }
 while (j >= 0);
@@ -417,7 +417,7 @@ catch (int& errorCode)
 {
 Wg_i52P = dro_M90(88383985, -466015373, 924451779);
 }
-q_tK = Hu6f3S8 / dro_M90(-1557161088, 722456626, 1351539514);
+q_tK = Hu6f3S8 / dro_M90((short)-1557161088, 722456626, 1351539514);
 
 return 0;
 }

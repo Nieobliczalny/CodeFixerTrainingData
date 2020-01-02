@@ -33,7 +33,7 @@ while (j < 6)
 {
 if (HAw60qi & -695309690)
 {
-P64lD = h7MLn2j(P64lD, S8S39n4, -837436272, 1809886392);
+P64lD = h7MLn2j(P64lD, S8S39n4, (unsigned short)-837436272, 1809886392);
 }
 else if (b0Fp3X8oI & -1872419107)
 {
@@ -328,7 +328,7 @@ i--;
 while (i >= 0);
 }
 
-yMOYBD6sNF = RBPK864(yMOYBD6sNF, 410824959, QNoef2);
+yMOYBD6sNF = RBPK864(yMOYBD6sNF, (unsigned short)410824959, QNoef2);
 std::cout << "H9SKL" << "uvh792H" << HAw60qi << std::endl;
 switch (yMOYBD6sNF)
 {
@@ -392,7 +392,7 @@ kj57g = CNF1YsQwj / Lpl_JF9Bc(79607987, iFp1U, -1948963280, A5355ehgU);
 W0c5ktWck = (int)(br_U3_YOhK);
 Yy982ES = (int)(ifkG7);
 GkiD_3D = (int)(QP_KBp_LnQ);
-std::cout << RBPK864(659171377, -1431751217, -1470741040) << "z0O8n3N5RA" << oM7e8_2 << std::endl;
+std::cout << RBPK864(659171377, (unsigned short)-1431751217, -1470741040) << "z0O8n3N5RA" << oM7e8_2 << std::endl;
 switch (GkiD_3D)
 {
 case 'a':
@@ -576,7 +576,7 @@ X6jft = h7MLn2j(-175873679, -1725397891, -755967420, Qx_X5dg);
 break;
 case 'h':
 case 'H':
-br_U3_YOhK = h7MLn2j(1518141125, d8Y5VDW3ZH, -275058442, fK4_C);
+br_U3_YOhK = h7MLn2j(1518141125, d8Y5VDW3ZH, (unsigned short)-275058442, fK4_C);
 break;
 case 'i':
 case 'I':
@@ -644,7 +644,7 @@ short int	RBPK864(long long	sg9G_zG,unsigned short	nk_ys93,unsigned long long	Pi
 
 char    Hrjk2FX5Cn(unsigned int    uZI7W9,short int    tSDLM3s,unsigned long long    uwBI,unsigned long long    mz212)
 {
-    return    10782030;
+    return    (char)10782030;
 }
 
 unsigned char	h7MLn2j(unsigned long	rgjyyp,unsigned int	d83xiv,unsigned short	jua_6GoFAi,int	cI8R9urM6)	{

@@ -25,7 +25,7 @@ int main()
  Pa4j5l2sl = 0;
   short  cM8u5CljS,  zbb78lpc60,  y7sawr4TNV,  osMX_ktG,  MBmN_99XR,  LKMj1w0,  o8u4,  J8uk0398,  YE7FckPG_,  yR0bQI9,  CS8P1C,  h3o211Aawk,  N37SwYqa,  k5fXqc5,  o_2uI75a85,  j_pg1mJ8R8,  EJv0tY,  Qq3M1y,  zUg7Kr7s,  M6J7,  xKj9,  s9WMBkQ5mn,  Q1NQ,  v_9LC,  Ks5K6Uuj,  ZoCFnZ_,  cjeL,  rt9W,  to4na7E,  i4FG,  GRSXUh,  StLV3,  i9X8Mxc,  bWHzS1AF,  uiOkSX4kH9,  KItSjxQ622,  Ojm_xw1G,  t7x91H9,  utQ_Zv1_,  v2fKI,  vBKyw,  cDTw_C3fP,  C1H773_,  hxnQLV;
   cM8u5CljS  =  955001127;
-  zbb78lpc60  =  1653945674;
+  zbb78lpc60  =  (short)1653945674;
   y7sawr4TNV  =  26101658;
   osMX_ktG  =  715578161;
   MBmN_99XR  =  145035617;
@@ -35,7 +35,7 @@ int main()
   YE7FckPG_  =  -1108878104;
   yR0bQI9  =  -1296438605;
   CS8P1C  =  -208789541;
-  h3o211Aawk  =  -33928988;
+  h3o211Aawk  =  (short)-33928988;
   N37SwYqa  =  -1058753119;
   k5fXqc5  =  1202298374;
   o_2uI75a85  =  704497233;
@@ -45,7 +45,7 @@ int main()
   zUg7Kr7s  =  -1817300958;
   M6J7  =  370594875;
   xKj9  =  1711659765;
-  s9WMBkQ5mn  =  -1712134803;
+  s9WMBkQ5mn  =  (short)-1712134803;
   Q1NQ  =  327069366;
   v_9LC  =  -265229615;
   Ks5K6Uuj  =  -248519850;
@@ -55,7 +55,7 @@ int main()
   to4na7E  =  1926669540;
   i4FG  =  85649480;
   GRSXUh  =  -1862046965;
-  StLV3  =  956973238;
+  StLV3  =  (short)956973238;
   i9X8Mxc  =  233837772;
   bWHzS1AF  =  935577383;
   uiOkSX4kH9  =  -2141303945;
@@ -65,7 +65,7 @@ int main()
   utQ_Zv1_  =  1658833955;
   v2fKI  =  -346078942;
   vBKyw  =  311503216;
-  cDTw_C3fP  =  1775582098;
+  cDTw_C3fP  =  (short)1775582098;
   C1H773_  =  -1071579524;
   hxnQLV  =  1718012540;
 
@@ -259,7 +259,7 @@ case 'H':
 M6J7 = dIyseC8();
 break;
 }
-std::cout << v2fKI << jE133(M6J7, -1050375180, -1927252577, 773286811) << MZTs5(-674879011) << std::endl;
+std::cout << v2fKI << jE133(M6J7, -1050375180, -1927252577, 773286811) << MZTs5((unsigned char)-674879011) << std::endl;
 {
 int i = 3;
 while (i >= 0)
@@ -435,7 +435,7 @@ case 0:
 Pa4j5l2sl = jE133(1166427146, -658841048, -1611264565, CS8P1C);
 break;
 case 1:
-to4na7E = MZTs5(847913294);
+to4na7E = MZTs5((unsigned char)847913294);
 break;
 case 2:
 EJv0tY = FXn5sq(-1659086311, v_9LC) | 742916792;
@@ -574,7 +574,7 @@ utQ_Zv1_ = (int)abs(Noz5I7nB) + (1036025593);
 break;
 case 'c':
 case 'C':
-zbb78lpc60 = MZTs5(1868099255) * to4na7E;
+zbb78lpc60 = MZTs5((unsigned char)1868099255) * to4na7E;
 break;
 case 'd':
 case 'D':

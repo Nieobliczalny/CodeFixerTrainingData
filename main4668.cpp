@@ -19,7 +19,7 @@ int main(int argc, char** argv)
   short int  r7W4mQ;
   r7W4mQ  =  1900613826;
     short int    PVE6Bz4AEu;
-    PVE6Bz4AEu    =    1057397350;
+    PVE6Bz4AEu    =    (short)1057397350;
   short int  o8Ix4Sk31;
   o8Ix4Sk31  =  -778370329;
  char r0nW;
@@ -31,7 +31,7 @@ int main(int argc, char** argv)
 	unsigned short int	I5QHiKY42;
 	I5QHiKY42	=	949913947;
     unsigned short int    REGIa8;
-    REGIa8    =    -1079660587;
+    REGIa8    =    (unsigned short)-1079660587;
   unsigned short int  GY9r_5;
   GY9r_5  =  1263833439;
  int nau85;
@@ -45,7 +45,7 @@ int main(int argc, char** argv)
   unsigned int  tyDj6;
   tyDj6  =  1230886632;
  short ZL9si1SE;
- ZL9si1SE = 628371196;
+ ZL9si1SE = (short)628371196;
     unsigned short int    B2WEq9;
     B2WEq9    =    1423608443;
  double A9hf_pS_lZ;
@@ -61,7 +61,7 @@ int main(int argc, char** argv)
   long double  iFZ1u_Y4F;
   iFZ1u_Y4F  =  -1944044103;
 	unsigned char	Rr706LMXRA;
-	Rr706LMXRA	=	-403017487;
+	Rr706LMXRA	=	(unsigned char)-403017487;
   unsigned int  fs83Dw8z7z;
   fs83Dw8z7z  =  -604432730;
  unsigned long OV5Io7d;
@@ -509,7 +509,7 @@ case 'h':
 Mavl = uJmdLmE(nBRP7_8J, -1681728551, -613192662);
 break;
 case 'i':
-x7p_6530i = uJmdLmE(1856580801, -655942186, x7p_6530i);
+x7p_6530i = uJmdLmE(1856580801, (char)-655942186, x7p_6530i);
 break;
 case 'j':
 Mavl = uJmdLmE(2037459220, pOjtw2PJ, -1109444707);

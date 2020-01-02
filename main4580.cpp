@@ -20,6 +20,7 @@ unsigned short int    V2o_60TH_(char    ZmEl6f1a,long long    kEyU1_,long    sN9
 
 int main() {
  short K6ZeI6 = 0;
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
     unsigned short    of1V    =    639414873,    k_FFCdm7    =    667588327,    zUY24h_B    =    210365778,    NKn24    =    -811738587,    g2JIH    =    904146144,    h9yd0FE    =    -435375732,    nh7A0q2AvN    =    1859694700,    ZWQ4uM5    =    -77872795,    S856av9E    =    2013283204,    k423Y_xz    =    -651754213,    SimfRyI    =    134435025,    p_v_9gSn    =    -1236094520,    cE92y    =    -1800377964,    J7RlB18QK    =    1496997080,    DzFM    =    -1307227120,    tNl9Hb40nr    =    -190224767,    zYD_feLjP    =    282737426,    W9mFs_80dv    =    -2118659988,    W1TM    =    -1029588944,    H_Ub0rw    =    1427945110,    eW7D    =    -194743016,    FJmQ8UFC    =    -903515357,    q0DW_D2_    =    -960076814;
 
 W1TM >>= 379604700;
@@ -59,7 +60,7 @@ case 'B':
 S856av9E <<= g2JIH;
 break;
 default:
-K6ZeI6 = xWL4MA7D(eW7D, g2JIH, p_v_9gSn, -1933427095, k423Y_xz);
+K6ZeI6 = xWL4MA7D(eW7D, g2JIH, p_v_9gSn, (char)-1933427095, k423Y_xz);
 break;
 }
 }
@@ -87,7 +88,7 @@ while (j >= 0);
 }
 }
 
-cE92y = zUY24h_B / xWL4MA7D(1322042957, g2JIH, p_v_9gSn, 2032115931, k423Y_xz);
+cE92y = zUY24h_B / xWL4MA7D(1322042957, g2JIH, p_v_9gSn, (char)2032115931, k423Y_xz);
 
 J7RlB18QK = xWL4MA7D(eW7D, g2JIH, 1114055740, -1536103518, -777203956) | DzFM;
 
@@ -107,7 +108,7 @@ std::cout << "NDoJ" << DzFM << V2o_60TH_(-1077423208, -2119183909, eW7D) << std:
 
 for (int i = 0; i < 5; i++)
 {
-K6ZeI6 = xWL4MA7D(1528754965, DzFM, 1108984283, q0DW_D2_, zUY24h_B);
+K6ZeI6 = xWL4MA7D((unsigned short)1528754965, DzFM, 1108984283, q0DW_D2_, zUY24h_B);
 }
 
 for (int i = 0; i < 3; ++i)
@@ -193,7 +194,7 @@ case 2:
 tNl9Hb40nr = AAO615JBQ(-785247532, 169353842);
 break;
 case 3:
-J7RlB18QK = V2o_60TH_(-877452964, -2068253876, -224781972);
+J7RlB18QK = V2o_60TH_((char)-877452964, -2068253876, -224781972);
 break;
 case 4:
 zYD_feLjP = tNl9Hb40nr & 115335853;
@@ -229,7 +230,7 @@ long long xWL4MA7D(unsigned short Ae2BF,int eGM3k_N,unsigned short int ZcKAx0K,c
 
 unsigned short	SIPiBb(unsigned long	jNNKVo461,long long	zCo_4)
 {
-	return	477313368;
+	return	(unsigned short)477313368;
 }
 
 unsigned short int    V2o_60TH_(char    ZmEl6f1a,long long    kEyU1_,long    sN98)    {

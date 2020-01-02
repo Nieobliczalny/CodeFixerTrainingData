@@ -24,7 +24,7 @@ short int  UIQMoN()
 
 unsigned char	nV762D(unsigned char	W_qu3Y9QlF,unsigned short	NTqK30JTs,unsigned long	X253)
 {
-	return	712087591;
+	return	(unsigned char)712087591;
 }
 
 int main(void) {
@@ -37,7 +37,7 @@ int main(void) {
 	int	B_08zt	=	-785663458;
     float    TYPk40Ee_U    =    -310081580;
   long  GlSM  =  1133541478;
-  unsigned short int  C54kM  =  -610729747;
+  unsigned short int  C54kM  =  (unsigned short)-610729747;
  short RQ95bk = 888804147;
   long double  Edm0  =  907288352;
   float  L64M8nb1G  =  -1768762224;
@@ -47,7 +47,7 @@ int main(void) {
  unsigned long long O5_y = -1885240556;
  short EMJk7828_P = 1838859909;
   int  mql6j7sB  =  -2140891250;
-	short	hn_n4	=	-1193967366;
+	short	hn_n4	=	(short)-1193967366;
     unsigned long long    ZaY2_bho    =    -34037250;
  unsigned short OyNcN7 = 1222598772;
  long double y55GJ76e = 138745761;
@@ -59,7 +59,7 @@ int main(void) {
  unsigned int vvn29K4u8 = 22757061;
 	unsigned int	YmN1MWHZ_	=	-2116646275;
     int    jeyuEp0x    =    -1721754608;
-  short  nY9175C5  =  -885551944;
+  short  nY9175C5  =  (short)-885551944;
   long double  a_t8_  =  1899100714;
   unsigned int  hov3zWQf4S  =  0;
     unsigned long long    Brd_c    =    0;
@@ -179,7 +179,7 @@ cvo2p = (float)(n8gmAS9);
 
 RQ95bk = n8gmAS9 / Z3WGP2_Q(M9_5H_GZ10, K_KM2PxA64);
 
-cout << nV762D(-275677635, 1608660433, 416369604) << endl;
+cout << nV762D(-275677635, (unsigned short)1608660433, 416369604) << endl;
 {
 int i = 0;
 do
@@ -290,7 +290,7 @@ switch (ZaY2_bho)
 {
 case 'a':
 case 'A':
-OyNcN7 = nV762D(OyNcN7, 1488646197, mNYetFS);
+OyNcN7 = nV762D(OyNcN7, (unsigned short)1488646197, mNYetFS);
 break;
 case 'b':
 case 'B':

@@ -21,7 +21,7 @@ int main() {
 	float	N2Ou	=	-552334844;
   long  Mih_j5_  =  -1827058897;
     unsigned short    fS0J    =    277790057;
-    unsigned char    Q84h    =    39358110;
+    unsigned char    Q84h    =    (unsigned char)39358110;
  unsigned int KzbJj4 = -641537225;
   short  c4Wj_QFF2  =  -1806544344;
   short int  J2iYD_Z  =  767148508;
@@ -32,7 +32,7 @@ int main() {
 	long	V_Sdn	=	1632826751;
     unsigned short    K0n_L    =    963367606;
 	unsigned long long	CwO2S2	=	-641407327;
-    unsigned char    cfAQZs0p79    =    -384251196;
+    unsigned char    cfAQZs0p79    =    (unsigned char)-384251196;
     char    Jew1    =    -1382850504;
 	unsigned long	Cm1wIsx5	=	-735316642;
     unsigned long    K_i4    =    -1933490948;
@@ -43,7 +43,7 @@ int main() {
     short int    wZQan5Hm2    =    557907911;
 	long double	L9805O	=	-208825608;
     double    I8b75    =    -1616919366;
- short xgQB = -226128096;
+ short xgQB = (short)-226128096;
  short int Y609B4U0 = -724335734;
  unsigned long long wROg = 0;
 	char	V8t2bpS7	=	-1636922132;
@@ -56,7 +56,7 @@ int main() {
   float  hyxp  =  946418097;
     int    wT_M2f7y    =    -305877357;
 	double	M0kCC	=	-72609361;
- unsigned short Xn0sZ = -1632058772;
+ unsigned short Xn0sZ = (unsigned short)-1632058772;
   short int  s0J2_lI  =  414066957;
   unsigned int  YtPtI  =  1879745823;
 	int	JUn11d635	=	-1215524883;
@@ -67,7 +67,7 @@ int main() {
   short int  w5eRzvA  =  -1464728337;
  unsigned int P206i09lSo = -1445888955;
  unsigned int sLMpo = 464758241;
-    char    TIWe4Am    =    1837927948;
+    char    TIWe4Am    =    (char)1837927948;
     unsigned long    ph7_7u    =    1966204250;
 	long double	Pjw1NQ	=	-1975532137;
 	short int	GSNsw_lq	=	-1255702041;
@@ -106,7 +106,7 @@ while (i >= 0);
 K_i4 = (unsigned long)(dQ9wfP8 + (-1989497342));
 
 wZQan5Hm2 = (int)abs(V8t2bpS7);
-std::cout << "WrHT4kW3" << T24AT_r(-1339351602, 593117662, -2024667170, 2083428327, -1667732262) << "fxj428EE" << std::endl;
+std::cout << "WrHT4kW3" << T24AT_r(-1339351602, 593117662, (unsigned short)-2024667170, 2083428327, -1667732262) << "fxj428EE" << std::endl;
 
 if (e_4l43tQ >= dQ9wfP8)
 {

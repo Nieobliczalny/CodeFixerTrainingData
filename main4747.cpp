@@ -14,6 +14,7 @@ unsigned int  L8zH(long  Pcy14GN_n,long long  Bs4PR6YH,unsigned long long  uUM3J
 
 int main(void) {
   short  Z82Dxb1hP  =  0,  M6z3jgXJZ8  =  0,  O_Jw2  =  0;
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
     short    ai0p_Ep33j    =    -624723286,    Ju_e5mD    =    -41255529,    QA543pkEo    =    1142524070,    JVbS_M    =    886922005,    epjm0v_Kn    =    -1720417528,    dGy7Ylp    =    1367298561,    z5Om    =    -589343011,    Oy7LEN    =    910374689,    PFgo    =    1397712177,    P4iC4    =    381716375,    I39xCdc    =    737105295,    sJ6w0c    =    -649760158,    dI7U4E67    =    -928469239,    ra1F_MF7yS    =    -525642077,    wI20I    =    191207449,    Y2rkNO    =    1270403422,    S8qu3ik    =    -1777143042,    g2HmH    =    1011859276,    xk4joTl    =    572365446,    spjt7    =    -491627654,    n8zrG    =    -149586398,    NdVe05F1t    =    749068545;
 
 if (Ju_e5mD >= -1929064591)
@@ -216,7 +217,7 @@ break;
 
 for (int i = 0; i < 1; i++)
 {
-PFgo = (O_Jw2 & 1573174784) ? 696636232 : -1465583226;
+PFgo = (O_Jw2 & 1573174784) ? 696636232 : (short)-1465583226;
 }
 for (int i = 0; i < 1; ++i)
 {

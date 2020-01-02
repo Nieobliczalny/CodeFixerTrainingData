@@ -427,7 +427,7 @@ unsigned char  cFr4p()  {
 }
 
 unsigned short    bLlR36zPGW(unsigned int    OUA7b_9R)    {
-    return    1788658945;
+    return    (unsigned short)1788658945;
 }
 
 unsigned char tN89Y1_o()

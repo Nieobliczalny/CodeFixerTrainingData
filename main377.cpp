@@ -20,7 +20,7 @@ short	v_gSjY85(unsigned int	A43YEQC83E)	{
 }
 
 unsigned char    rVC5Py(unsigned long long    w2Ojq1t,short int    VmOv4__y)    {
-    return    1025933064;
+    return    (unsigned char)1025933064;
 }
 
 int main(void)

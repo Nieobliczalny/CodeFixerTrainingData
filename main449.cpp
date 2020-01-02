@@ -24,7 +24,7 @@ long	J8MaAC(unsigned long	W1B1)
 }
 
 short int  yU5S()  {
-  return  892281711;
+  return  (short)892281711;
 }
 
 unsigned int    mS_4I3CzXl(unsigned int    jZe_1gDB,unsigned short int    A0_j4498U,long    L6Cx)
@@ -37,7 +37,7 @@ int main() {
     l4MVkCL    =    0;
     short    UkWqh,    lEL2,    R1g9,    s0f2,    qpj4,    U8u6h,    vNavP,    p5_X7lc9p6,    Q4Q10A,    Zi_eV,    D4anE,    IH17F54,    jMUYSPg,    XGPLo3,    QhTiPsM82,    b9p7RO2n,    P_G42i6,    U7ty,    YUge,    Z7kb_59P,    v2AN5W,    EN4XH76,    B8HsxLYL,    cLJVK5,    nenB,    Q0pVnw4,    eUxHo55V,    YE_954_j_,    Nx3SKj,    ua02I9bEX,    t9PLr6V3,    UjqXFN_19;
     UkWqh    =    -1224453347;
-    lEL2    =    1733362234;
+    lEL2    =    (short)1733362234;
     R1g9    =    -188644015;
     s0f2    =    234460950;
     qpj4    =    -626662344;
@@ -47,7 +47,7 @@ int main() {
     Q4Q10A    =    -557441232;
     Zi_eV    =    557493153;
     D4anE    =    -691374000;
-    IH17F54    =    936262005;
+    IH17F54    =    (short)936262005;
     jMUYSPg    =    1767532203;
     XGPLo3    =    -1212599016;
     QhTiPsM82    =    2039820966;
@@ -57,7 +57,7 @@ int main() {
     YUge    =    -494533497;
     Z7kb_59P    =    -919838821;
     v2AN5W    =    -1582272900;
-    EN4XH76    =    1510754607;
+    EN4XH76    =    (short)1510754607;
     B8HsxLYL    =    865805272;
     cLJVK5    =    1947762749;
     nenB    =    1263501463;
@@ -67,7 +67,7 @@ int main() {
     Nx3SKj    =    -2011068377;
     ua02I9bEX    =    1045136142;
     t9PLr6V3    =    -334324575;
-    UjqXFN_19    =    2071418180;
+    UjqXFN_19    =    (short)2071418180;
 
 t9PLr6V3 = J8MaAC(t9PLr6V3);
 
@@ -102,7 +102,7 @@ else
 {
 std::cout << "Pc6iLii6e" << Nx3SKj << s0f2 << std::endl;
 }
-Q4Q10A = xXh8r(Q4Q10A, 1518607575, UjqXFN_19, 238977709, 1313913234);
+Q4Q10A = xXh8r(Q4Q10A, 1518607575, UjqXFN_19, (short)238977709, 1313913234);
 
 switch (Q0pVnw4)
 {
@@ -113,7 +113,7 @@ case 'b':
 YE_954_j_ %= Zi_eV;
 break;
 case 'c':
-l4MVkCL = chH06g(s0f2, -2010343556, -1102395902, -112067501, D4anE);
+l4MVkCL = chH06g(s0f2, -2010343556, -1102395902, (unsigned short)-112067501, D4anE);
 break;
 case 'd':
 Z7kb_59P -= qpj4;

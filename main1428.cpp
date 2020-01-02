@@ -21,7 +21,7 @@ int main(int argc, char** argv) {
 	double	x40CYru	=	1807101834;
 	double	y9sC3E_4	=	-453320852;
     short int    pPGV    =    -1836417186;
-  unsigned char  mTPe  =  898020862;
+  unsigned char  mTPe  =  (unsigned char)898020862;
  unsigned short int X5P_z7dl0t = 1912003206;
   short  F6hJv  =  -921532131;
     unsigned long long    LRxm79ZF    =    856133429;
@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
  short V9I5 = -87776320;
 	int	Mj259opH	=	720988052;
   char  CV0_8U4DC_  =  -1889487401;
-	short int	U11Ms9T	=	977670539;
+	short int	U11Ms9T	=	(short)977670539;
   unsigned long long  VQYMw5vv0a  =  -1173429683;
     short int    FPjh    =    -1630024969;
 	int	ctUVEy18	=	1026401877;
@@ -49,7 +49,7 @@ int main(int argc, char** argv) {
  short e_KkDD4x = -894477364;
  int PVQGSKSt85 = 524725028;
   int  ZOgNISPxbC  =  444201522;
-    unsigned short int    CfSM_    =    734941903;
+    unsigned short int    CfSM_    =    (unsigned short)734941903;
 	unsigned long long	oUZ_P_	=	1468526021;
     unsigned long long    NTVz6Te    =    743101544;
     unsigned short int    OYJHQ6Z    =    1151359833;
@@ -68,7 +68,7 @@ int main(int argc, char** argv) {
     long    RyAN4p    =    1511115467;
     int    eD6HlxbJ3    =    1195162837;
  unsigned short int m637mD = 1801923448;
-    char    C4d7HV    =    -1820607233;
+    char    C4d7HV    =    (char)-1820607233;
 	unsigned short int	CdRHO9K	=	-1343488424;
 	short	CV_5h_0m_	=	-1134315453;
     long long    YYV__r    =    813552439;
@@ -80,7 +80,7 @@ int main(int argc, char** argv) {
     unsigned int    LpY5l    =    308523080;
     unsigned int    vcRHKY    =    -1077199483;
     char    gMO3    =    -333231417;
- unsigned short int WpD__7 = -1099838329;
+ unsigned short int WpD__7 = (unsigned short)-1099838329;
  long double B7gYk4y = 2109098451;
 	double	cIgHznCIY_	=	-1152652299;
  unsigned long cD9Y = 1518240246;
@@ -91,7 +91,7 @@ int main(int argc, char** argv) {
   unsigned char  birUiyo_M_  =  1366741260;
     unsigned long long    NGBR    =    74800195;
 	unsigned short	k719Xsq12	=	1100271938;
-    short    bz961Or8A    =    265973121;
+    short    bz961Or8A    =    (short)265973121;
     unsigned short int    xUFE96oZ87    =    1591300144;
  unsigned char aqce5 = 1005128576;
  short int X60_whE = 2025488207;

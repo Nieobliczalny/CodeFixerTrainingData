@@ -16,7 +16,7 @@ int main(int argc, char** argv) {
 	char	Fn6f;
 	Fn6f	=	-1989871820;
     short int    VlKI;
-    VlKI    =    1507415943;
+    VlKI    =    (short)1507415943;
   unsigned char  pMN4jHh;
   pMN4jHh  =  1709047186;
  unsigned short vLa2J;
@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
 	int	Y4Mx4c6i;
 	Y4Mx4c6i	=	-2072874807;
  unsigned short int YTZo;
- YTZo = 205876982;
+ YTZo = (unsigned short)205876982;
  long long M2AHrd0q;
  M2AHrd0q = 2031689250;
 	short	t94R9bt3;
@@ -44,7 +44,7 @@ int main(int argc, char** argv) {
   long double  CRFzir_9;
   CRFzir_9  =  160435163;
  unsigned short a5y03nId7;
- a5y03nId7 = 1830474475;
+ a5y03nId7 = (unsigned short)1830474475;
     unsigned int    Ul0113;
     Ul0113    =    916374024;
   unsigned short int  Bw5t0F2x;
@@ -66,7 +66,7 @@ int main(int argc, char** argv) {
     long    tl_nobDHF;
     tl_nobDHF    =    -1691711411;
  unsigned char oPp8;
- oPp8 = -1214742146;
+ oPp8 = (unsigned char)-1214742146;
 	float	eIDP4at_;
 	eIDP4at_	=	-1904305441;
     short    UZo3;
@@ -76,7 +76,7 @@ int main(int argc, char** argv) {
   unsigned short int  U6Kg;
   U6Kg  =  1122656150;
  short int JAecF23r;
- JAecF23r = -1256586421;
+ JAecF23r = (short)-1256586421;
   unsigned char  oY2xin;
   oY2xin  =  -375285482;
  short int rrP_6554u;
@@ -110,7 +110,7 @@ int main(int argc, char** argv) {
  unsigned long jiaVi;
  jiaVi = -394589338;
     unsigned char    htYPR39YZ;
-    htYPR39YZ    =    -1635021386;
+    htYPR39YZ    =    (unsigned char)-1635021386;
 	long long	YPjA0nX5V;
 	YPjA0nX5V	=	764778840;
     unsigned long long    jKd4e6ryP_;
@@ -120,7 +120,7 @@ int main(int argc, char** argv) {
     unsigned long    K3dEX64;
     K3dEX64    =    0;
  short int Hsw46m_E4;
- Hsw46m_E4 = 1110689507;
+ Hsw46m_E4 = (short)1110689507;
     int    ZC6_s3aM82;
     ZC6_s3aM82    =    1335783032;
   short  YfGN;
@@ -146,7 +146,7 @@ int main(int argc, char** argv) {
  unsigned int XG_yUiH7fi;
  XG_yUiH7fi = -575289613;
   unsigned char  nHeHW;
-  nHeHW  =  1975668010;
+  nHeHW  =  (unsigned char)1975668010;
  double F84_byR;
  F84_byR = -92980237;
     unsigned short int    lFF59;

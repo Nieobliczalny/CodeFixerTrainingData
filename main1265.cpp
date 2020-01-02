@@ -20,7 +20,7 @@ short int  ZT27Zg565L(unsigned char  P4QC,short int  l35M58crKd,long  qH4m0wTysi
 }
 
 short    Z952N(unsigned long long    I90I24,char    JNhq)    {
-    return    -1027319719;
+    return    (short)-1027319719;
 }
 
 short int    EY6Vy()    {
@@ -33,7 +33,7 @@ int main(void)
  float D38dD85JR = -1313879958;
   short  tbY_  =  -138031098;
 	unsigned short	j_dY8Av	=	0;
-	unsigned short	G_3r5Vg	=	-582364512;
+	unsigned short	G_3r5Vg	=	(unsigned short)-582364512;
     long    b8H6s5ex1Y    =    -13750839;
   char  nvLg  =  0;
  short EYanNS6 = -524578963;
@@ -147,7 +147,7 @@ int k = 5;
 do
 {
 --k;
-tb_PH5 = ZT27Zg565L(1881325391, 1076142734, U_DI1, 2073952929);
+tb_PH5 = ZT27Zg565L(1881325391, (short)1076142734, U_DI1, 2073952929);
 }
 while (k >= 0);
 }
@@ -225,7 +225,7 @@ do
 ++i;
 if ((tb_PH5 >= b8H6s5ex1Y) && (G_3r5Vg & U3A13f9))
 {
-std::cout << Z952N(1730806779, U_DI1) << ZT27Zg565L(-970901188, 133008145, -990908421, -361029423) << "dJ1ov3082" << Z952N(KlHM, U_DI1) << std::endl;
+std::cout << Z952N(1730806779, U_DI1) << ZT27Zg565L(-970901188, (short)133008145, -990908421, -361029423) << "dJ1ov3082" << Z952N(KlHM, U_DI1) << std::endl;
 }
 else
 {

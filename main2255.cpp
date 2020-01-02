@@ -17,7 +17,7 @@ int main(int argc, char** argv) {
     short int    Jt1fOT0J3    =    -557309864;
     long double    zbE6V8Da    =    -1987659312;
   double  Y3lFcl  =  -18370167;
-    unsigned char    rIff    =    -1391841634;
+    unsigned char    rIff    =    (unsigned char)-1391841634;
     char    ALGSyjPn    =    2031010762;
 	int	p0H_tiVmZ	=	-1000231668;
     float    S8JT    =    621290979;
@@ -36,7 +36,7 @@ int main(int argc, char** argv) {
   int  zQsJJ__PiH  =  0;
   char  BPOR5G5q  =  0;
   short  c0rzq7f_  =  0;
- unsigned short SCo7M3Q = -1953584640;
+ unsigned short SCo7M3Q = (unsigned short)-1953584640;
   int  t541Q_5B  =  421133177;
 	unsigned int	LD4T	=	-1080718907;
     unsigned char    rxtAN    =    -706594236;
@@ -47,7 +47,7 @@ int main(int argc, char** argv) {
 	long long	bW19	=	0;
 	int	wOe5_rwHK5	=	-1652477285;
  long uXuS0 = 1067300943;
-	unsigned short	c5919	=	-12071748;
+	unsigned short	c5919	=	(unsigned short)-12071748;
   double  W02Y  =  474036017;
     double    XqWzsWJT    =    768310313;
   double  D1Z5  =  -1696254280;
@@ -57,7 +57,7 @@ int main(int argc, char** argv) {
     unsigned char    M3NzFG1e_    =    1063150821;
     unsigned char    h7WJ    =    1493342703;
     short    Iymx6N    =    1032602859;
-	short int	XkE1S	=	-1375562016;
+	short int	XkE1S	=	(short)-1375562016;
  long double OTjC = -649268231;
  double fTz4WfSv8N = 1725945550;
   long  rP4PI1E  =  -706776761;
@@ -69,7 +69,7 @@ int main(int argc, char** argv) {
  long M6Mw3F1P = -114107420;
     long long    V2KY4HOsE0    =    -1817855329;
 	char	VaIH8	=	1012570988;
-	short int	Rcvmh	=	1420897814;
+	short int	Rcvmh	=	(short)1420897814;
   float  cdxWdNO  =  -1426415574;
 	unsigned int	N00Em4MP	=	-1020932002;
     unsigned short    yw9__    =    -1248590129;
@@ -80,7 +80,7 @@ int main(int argc, char** argv) {
   unsigned long long  Pke5lq  =  1089927406;
     unsigned int    PSq6A2_K    =    1957057441;
   unsigned short int  Qf74Mt  =  -505343183;
-  unsigned short  sB14H8Hl  =  199796372;
+  unsigned short  sB14H8Hl  =  (unsigned short)199796372;
  char PozDC1a35z = -1214717065;
  unsigned char N5Z0dpD3YW = -1730410378;
     unsigned long long    S14ej92J0x    =    -56447388;

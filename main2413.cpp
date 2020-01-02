@@ -32,7 +32,7 @@ unsigned int  mgI946()  {
 int main(void)
 {
   char  s918mA  =  -227518476;
-    unsigned short int    Z973px72    =    491510561;
+    unsigned short int    Z973px72    =    (unsigned short)491510561;
   short  V8nkFoIRF  =  -2093134306;
   float  Km18M  =  -768466689;
     long    e8Hhw66    =    -11410417;

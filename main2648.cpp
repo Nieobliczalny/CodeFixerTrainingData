@@ -37,7 +37,7 @@ int main(int argc, char** argv)
 	long double	JB6S_0zb8;
 	JB6S_0zb8	=	1358102327;
   short int  U_s6xpU_35;
-  U_s6xpU_35  =  1575405717;
+  U_s6xpU_35  =  (short)1575405717;
 	unsigned short int	DhBw;
 	DhBw	=	0;
 	unsigned short	Wqj036O25;
@@ -63,7 +63,7 @@ int main(int argc, char** argv)
   unsigned short int  IA215dH;
   IA215dH  =  51915007;
   char  Qolr4T5f6P;
-  Qolr4T5f6P  =  942248124;
+  Qolr4T5f6P  =  (char)942248124;
     long    g950;
     g950    =    0;
  long double b3xs1B0q1O;
@@ -81,7 +81,7 @@ int main(int argc, char** argv)
   unsigned long long  X71_Smr;
   X71_Smr  =  1227138683;
   unsigned char  A53x2yrc;
-  A53x2yrc  =  -1462908995;
+  A53x2yrc  =  (unsigned char)-1462908995;
   unsigned long  i3K_h;
   i3K_h  =  129971943;
  unsigned long EW21JCJ0m;
@@ -95,7 +95,7 @@ int main(int argc, char** argv)
 int i = 8;
 while (i >= 0)
 {
-x5_Hnbano3 = b5n8(857308245);
+x5_Hnbano3 = b5n8((unsigned short)857308245);
 i--;
 }
 }
@@ -107,7 +107,7 @@ int i = 0;
 while (i < 6)
 {
 i++;
-b3xs1B0q1O = T_OHrbtL(1347886462, -1938637511, 145344507, S6359, -1242630246) + 1178099064;
+b3xs1B0q1O = T_OHrbtL(1347886462, -1938637511, (short)145344507, S6359, -1242630246) + 1178099064;
 }
 }
 
@@ -324,7 +324,7 @@ oBbTW = X71_Smr | X0M9uC;
 }
 }
 }
-LmW34 = T_OHrbtL(-2012974197, -1560907813, 861284275, 1357461763, A53x2yrc) | M_5eR0G;
+LmW34 = T_OHrbtL(-2012974197, -1560907813, (short)861284275, 1357461763, A53x2yrc) | M_5eR0G;
 d81esa1p = (unsigned short int)(KPNq1_S4a * d81esa1p);
 if (VTBK < A53x2yrc)
 {

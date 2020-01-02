@@ -12,7 +12,7 @@ int main(int argc, char** argv)
 {
  float f189xo = -598931938;
     unsigned char    L3mGXQ4    =    -432393917;
-  unsigned short int  e1IH  =  -594013477;
+  unsigned short int  e1IH  =  (unsigned short)-594013477;
     long double    K30M2VYNk0    =    1595740478;
     int    TgGaq    =    -1761751551;
   double  gXzSo  =  -1504366002;
@@ -24,7 +24,7 @@ int main(int argc, char** argv)
     unsigned char    WTm6Rd8    =    1937191644;
   double  kgu9j_2A8  =  1140656946;
 	long	iIYHa13	=	246751700;
-    short    K3_O2QEm    =    919346132;
+    short    K3_O2QEm    =    (short)919346132;
 	unsigned long	XQMQ4Vxv7	=	-980792550;
  long double f2mr = -252107635;
   unsigned long  w9U69hEP9x  =  -14420382;
@@ -35,7 +35,7 @@ int main(int argc, char** argv)
 	short	qbCS2vG	=	-1666827732;
 	unsigned long long	z034	=	-2008811910;
   float  CBSl1e7euN  =  278736772;
- short t1O247a = 636207120;
+ short t1O247a = (short)636207120;
  unsigned long long JmS256e = -1308058605;
     float    b_b8R6    =    21633404;
     float    V7fmte    =    892199869;
@@ -46,7 +46,7 @@ int main(int argc, char** argv)
  unsigned int fRCPv9tH = -697799836;
   int  j_9_2_  =  1575412193;
 	short int	gQ9D5	=	641655503;
-	short int	u4M4S2Fk	=	-409134078;
+	short int	u4M4S2Fk	=	(short)-409134078;
 	unsigned long	nuY_	=	-1878211089;
 	long long	f1ibLS	=	-1883589446;
   char  PL6o2yQc  =  -1740596429;
@@ -63,7 +63,7 @@ int main(int argc, char** argv)
  unsigned long long v471 = 785921203;
     unsigned short    si4kE7hJ7n    =    -287230209;
  int utV9tBJht = 0;
- char mKHe = 2036902338;
+ char mKHe = (char)2036902338;
 	short int	EjMf	=	-158429795;
  unsigned long long Q_9u = 0;
 	unsigned long	fwCAV	=	1632044433;
@@ -73,7 +73,7 @@ int main(int argc, char** argv)
     double    b89hl786    =    144650339;
  unsigned short U7h43450cQ = 2129790652;
   unsigned char  UUtFB_Z7  =  0;
-    unsigned char    Fn71Rbv2pd    =    -823569750;
+    unsigned char    Fn71Rbv2pd    =    (unsigned char)-823569750;
  unsigned short int Y3m9 = -1526098950;
 
 switch (w9e7)

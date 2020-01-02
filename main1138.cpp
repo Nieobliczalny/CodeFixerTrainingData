@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
     unsigned long    n3gTnMfR;
     n3gTnMfR    =    -296779900;
  unsigned short int x7xM4;
- x7xM4 = -527549176;
+ x7xM4 = (unsigned short)-527549176;
 	long double	I_nW02_NC6;
 	I_nW02_NC6	=	111946340;
  float Botios;

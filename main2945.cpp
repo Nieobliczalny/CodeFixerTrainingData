@@ -17,7 +17,7 @@ int main(void)
     unsigned char    Z6O7;
     Z6O7    =    438142559;
  unsigned short int K_9ne8L_;
- K_9ne8L_ = -1388881635;
+ K_9ne8L_ = (unsigned short)-1388881635;
     short    Ffhlq;
     Ffhlq    =    134971177;
   unsigned long  E1d_AD2vU1;
@@ -33,7 +33,7 @@ int main(void)
   int  yAwzm69;
   yAwzm69  =  2109082950;
   unsigned short int  q9Iuvg69Y;
-  q9Iuvg69Y  =  1829456179;
+  q9Iuvg69Y  =  (unsigned short)1829456179;
  long OKl1KolL8R;
  OKl1KolL8R = -1697099834;
 	long	T5e36mQS5;
@@ -43,7 +43,7 @@ int main(void)
   short  fTHiqb5r;
   fTHiqb5r  =  -839482640;
  short QlcA0;
- QlcA0 = 250877717;
+ QlcA0 = (short)250877717;
 	long	U86Z;
 	U86Z	=	2108733423;
 	unsigned short int	yGlQu7Q;
@@ -67,7 +67,7 @@ int main(void)
     unsigned char    aZ08;
     aZ08    =    1924126776;
   unsigned short  zbEJ73IgFM;
-  zbEJ73IgFM  =  2136811153;
+  zbEJ73IgFM  =  (unsigned short)2136811153;
  short h9gbSDj;
  h9gbSDj = 1373747826;
   long long  tZFJ;
@@ -79,7 +79,7 @@ int main(void)
 	int	Uhbz;
 	Uhbz	=	774794430;
 	char	z40r_1pvE;
-	z40r_1pvE	=	1254338388;
+	z40r_1pvE	=	(char)1254338388;
 	char	R9i72KtEzR;
 	R9i72KtEzR	=	-1786930522;
   long  qgc3;
@@ -89,7 +89,7 @@ int main(void)
     char    RwUuXpljQ;
     RwUuXpljQ    =    -681404367;
   unsigned char  X93yWj9Jc;
-  X93yWj9Jc  =  1826726110;
+  X93yWj9Jc  =  (unsigned char)1826726110;
  unsigned short PieMo3xp4;
  PieMo3xp4 = 0;
   long long  quxMYc;
@@ -103,7 +103,7 @@ int main(void)
 	unsigned long long	a9S4;
 	a9S4	=	-1591302960;
   short  tWTaOy;
-  tWTaOy  =  -760109416;
+  tWTaOy  =  (short)-760109416;
 	short int	Nm_Bvk79;
 	Nm_Bvk79	=	-1714549960;
   unsigned long  SP3MecbO;
@@ -119,7 +119,7 @@ int main(void)
   long long  hoY9_;
   hoY9_  =  -168486527;
 	unsigned char	nKU61FI;
-	nKU61FI	=	1767780339;
+	nKU61FI	=	(unsigned char)1767780339;
   unsigned char  Y65db2qu;
   Y65db2qu  =  10783312;
   unsigned long  m_mDw7Ch;
@@ -129,7 +129,7 @@ int main(void)
  long double wX3oykG3L;
  wX3oykG3L = -1700537533;
 	short	gU3e4wA;
-	gU3e4wA	=	-1282797025;
+	gU3e4wA	=	(short)-1282797025;
   int  lv50j_W;
   lv50j_W  =  553744073;
 

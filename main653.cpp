@@ -31,7 +31,7 @@ unsigned int	m84x5(short	F4P58e_fu,unsigned int	NEP2G5,unsigned char	ZAlTL03C5V)
 }
 
 short CG03qso(unsigned short int a3lNzZ) {
- return -981711260;
+ return (short)-981711260;
 }
 
 int main() {
@@ -104,7 +104,7 @@ int main() {
 	unsigned int	U1gW;
 	U1gW	=	924483325;
   unsigned short int  oV_A93C_9;
-  oV_A93C_9  =  -904664788;
+  oV_A93C_9  =  (unsigned short)-904664788;
 	int	zA08xxVyn;
 	zA08xxVyn	=	-1977438150;
     long    mTggr1;
@@ -118,7 +118,7 @@ int main() {
 	unsigned int	hTpOmiL;
 	hTpOmiL	=	-294394932;
 	unsigned short int	k_7K13kqe;
-	k_7K13kqe	=	-1811559689;
+	k_7K13kqe	=	(unsigned short)-1811559689;
 	unsigned long long	R7Wg6grPv;
 	R7Wg6grPv	=	-1274929825;
     double    RRdu70sV_;
@@ -134,7 +134,7 @@ int main() {
  long long wthu;
  wthu = 605598622;
 	unsigned short	ZOQd0;
-	ZOQd0	=	182169667;
+	ZOQd0	=	(unsigned short)182169667;
  unsigned int k4u8O4;
  k4u8O4 = -615813065;
  unsigned short Xoh_Deaxof;
@@ -164,7 +164,7 @@ int main() {
 	char	n6TL5;
 	n6TL5	=	-1972808317;
   unsigned short  LI_1jBY7_t;
-  LI_1jBY7_t  =  1274808930;
+  LI_1jBY7_t  =  (unsigned short)1274808930;
 	int	OWGA4_2f;
 	OWGA4_2f	=	1273502;
     short    I_C7NUI2;
@@ -178,7 +178,7 @@ int main() {
  unsigned char yUC_Kcx1;
  yUC_Kcx1 = -2137960595;
  unsigned char WFL7U3;
- WFL7U3 = 2138324089;
+ WFL7U3 = (unsigned char)2138324089;
     float    cZpPH3;
     cZpPH3    =    -1343568753;
     unsigned short int    vJ6ifE0ZV;
@@ -227,7 +227,7 @@ N__32_5 = E32_e1mk8(-1969302162);
 }
 else if ((I_C7NUI2 != XR77_s0fM1) || ((RRdu70sV_ == 800167878) || (f4i5mZML95 < h647)))
 {
-u096pkg = m84x5(-2082533692, t9AaV5F, H3w0X);
+u096pkg = m84x5((short)-2082533692, t9AaV5F, H3w0X);
 }
 else if (BMad7SflPS <= 746507528)
 {
@@ -270,7 +270,7 @@ int j = 0;
 do
 {
 ++j;
-std::cout << m84x5(483468679, k_7K13kqe, -1283323370) << std::endl;
+std::cout << m84x5(483468679, k_7K13kqe, (unsigned char)-1283323370) << std::endl;
 }
 while (j < 4);
 }
@@ -348,7 +348,7 @@ else if (((WFL7U3 == F1TdyEiw4U) || (U1gW != F1TdyEiw4U)) || (Z_14O7 != h647))
 {
 try
 {
-A5_p = O3RD(351799093, -559159612);
+A5_p = O3RD((char)351799093, -559159612);
 }
 catch (int& errorCode)
 {
@@ -379,7 +379,7 @@ while (i >= 0)
 --i;
 try
 {
-s7G8rEji5t = m84x5(497988090, -1937110023, 233305920);
+s7G8rEji5t = m84x5(497988090, -1937110023, (unsigned char)233305920);
 }
 catch (int& errorCode)
 {
@@ -619,7 +619,7 @@ while (j >= 0)
 {
 for (int k = 0; k < 10; ++k)
 {
-E8mRZ8y2 = m84x5(1602418760, Xoh_Deaxof, -1219681472);
+E8mRZ8y2 = m84x5(1602418760, Xoh_Deaxof, (unsigned char)-1219681472);
 }
 --j;
 }

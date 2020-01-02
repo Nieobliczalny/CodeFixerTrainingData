@@ -162,7 +162,7 @@ else
 {
 if (iH9V2a5 == L5ym2K3)
 {
-FVare = Xko3sVtJkC(1102308837, 750382849);
+FVare = Xko3sVtJkC(1102308837, (unsigned char)750382849);
 }
 }
 
@@ -207,7 +207,7 @@ iH9V2a5 = (int)abs(Qj0Or8p55);
 }
 }
 
-CCIZ9 = rAVJb090u(194395400);
+CCIZ9 = rAVJb090u((unsigned char)194395400);
 of69 = j0PKXk();
 
 Qj0Or8p55 = rAVJb090u(1037444849);

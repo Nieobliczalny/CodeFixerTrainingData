@@ -114,7 +114,7 @@ case 3:
 yR9Ophl = QgH_(yR9Ophl, -1407013755);
 break;
 case 4:
-R0cgXf = Y_2E(r6J7, -2143588531);
+R0cgXf = Y_2E(r6J7, (unsigned short)-2143588531);
 break;
 case 5:
 ZVvGK1GFYl = Y_2E(ZVvGK1GFYl, y0p3I);

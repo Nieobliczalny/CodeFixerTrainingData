@@ -34,7 +34,7 @@ int main(int argc, char** argv) {
  long BYIvp1i_Q = 1092207753;
     unsigned long long    InOhLo    =    -1050612908;
   int  UHRkuYBsXl  =  -2052208306;
-  unsigned char  Zmg0z34gNc  =  -911579567;
+  unsigned char  Zmg0z34gNc  =  (unsigned char)-911579567;
 	unsigned char	p_pjcH	=	1168416814;
   int  LQ407  =  -234582419;
 	short	a3C6EF	=	-1604815826;
@@ -44,7 +44,7 @@ int main(int argc, char** argv) {
  double uuhi = 2073506331;
  long double Oa4hTT = 1024939452;
  unsigned short int eW2EFID = -2002666634;
- short Pweem55VjW = 1322929655;
+ short Pweem55VjW = (short)1322929655;
     float    pANxKjEd5    =    -1189502707;
 	unsigned char	LxT5EV	=	-205183065;
   long double  Bxyn  =  827174952;
@@ -56,7 +56,7 @@ int main(int argc, char** argv) {
 	short int	vVg0CeN9QK	=	1346016360;
  long long G8hA = 1803902941;
  long QXSL1W = 903073572;
- char yGzy8P26an = 1393967237;
+ char yGzy8P26an = (char)1393967237;
     unsigned short int    Pb21aZuop    =    -1847615203;
     unsigned long long    RBwC7ai9F    =    113978867;
     int    M3_nTY2qY    =    919505000;
@@ -69,7 +69,7 @@ int main(int argc, char** argv) {
  double xNc39IH = 1182764203;
  long double TWDTX49 = -1290809722;
   char  gvV7tV  =  352176059;
-  short  CBQkB  =  1163600157;
+  short  CBQkB  =  (short)1163600157;
 	double	TU5L9_5duh	=	274409878;
 	double	eaLo0	=	821561835;
     char    m5OY    =    1973988334;
@@ -84,7 +84,7 @@ int main(int argc, char** argv) {
     unsigned long long    n7m94MH    =    311792353;
 	long long	xYHaTPE4_0	=	2024883287;
     unsigned char    s93t    =    -1112051571;
-  short  dJ__Dz0I  =  -973585052;
+  short  dJ__Dz0I  =  (short)-973585052;
   long  UMKR  =  0;
 
 s93t = A_289W_();
@@ -181,7 +181,7 @@ while (i >= 0);
 }
 if (gvV7tV == TU5L9_5duh)
 {
-q61w1 = Mo4qW7_N(-1641625340, -436657995);
+q61w1 = Mo4qW7_N(-1641625340, (short)-436657995);
 }
 else if ((eaLo0) && (RBwC7ai9F < 596207883))
 {
@@ -352,7 +352,7 @@ else
 {
 if (eaLo0 != UMKR)
 {
-q61w1 = Mo4qW7_N(-1646831447, InOhLo);
+q61w1 = Mo4qW7_N((unsigned short)-1646831447, InOhLo);
 }
 else
 {

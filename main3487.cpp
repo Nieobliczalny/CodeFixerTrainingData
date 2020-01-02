@@ -28,7 +28,7 @@ int main() {
 	unsigned char	b9VnF3i2h;
 	b9VnF3i2h	=	-371261150;
     unsigned short int    asF8x;
-    asF8x    =    1037402183;
+    asF8x    =    (unsigned short)1037402183;
   float  D_SK;
   D_SK  =  -343140917;
 	unsigned int	rS315;
@@ -50,7 +50,7 @@ int main() {
     float    u_F7n31oF;
     u_F7n31oF    =    -887696270;
  unsigned char xyid1_7X2u;
- xyid1_7X2u = -248134847;
+ xyid1_7X2u = (unsigned char)-248134847;
 	unsigned short	w8A4r;
 	w8A4r	=	1925148563;
 	long	DLfEcsM;

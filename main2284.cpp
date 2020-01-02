@@ -23,7 +23,7 @@ unsigned short  NLSFk(unsigned long long  lq8b3enor3,long long  rFya0V38o,int  T
 
 char  FiJkY31_(unsigned char  QW52PU2cv,unsigned int  j36HrrzZ3,short int  h7gItP,unsigned long long  zX4PbVe,unsigned short int  N1y80n)
 {
-  return  -1214476347;
+  return  (char)-1214476347;
 }
 
 unsigned int  vS8m(unsigned long long  eP1cH0SB6G,unsigned long  XH_vdBUAOI,long  n6bXYN_,long long  KtafE0Dl8)
@@ -43,7 +43,7 @@ int main(int argc, char** argv) {
     unsigned char    Y58bO1g;
     Y58bO1g    =    134389298;
     unsigned short int    iL__l1;
-    iL__l1    =    -1352775976;
+    iL__l1    =    (unsigned short)-1352775976;
   short int  z_qF;
   z_qF  =  -1714474227;
 	short	EY4mP46y;
@@ -59,7 +59,7 @@ int main(int argc, char** argv) {
     unsigned short int    nW0vV_;
     nW0vV_    =    -1107282524;
  short int P2kpQcdLP;
- P2kpQcdLP = -1089039330;
+ P2kpQcdLP = (short)-1089039330;
 	char	Qs11;
 	Qs11	=	1786136407;
 	unsigned long	aH5u5;
@@ -135,7 +135,7 @@ break;
 }
 
 ud28gK = vS8m(EY4mP46y, ud28gK, -444808552, 1457325639);
-std::cout << FiJkY31_(EY4mP46y, 1346995788, 146244125, 600963161, -486580488) / vS8m(-1629845448, -1328094068, Mb8E, P2kpQcdLP) << std::endl;
+std::cout << FiJkY31_(EY4mP46y, 1346995788, 146244125, 600963161, (unsigned short)-486580488) / vS8m(-1629845448, -1328094068, Mb8E, P2kpQcdLP) << std::endl;
 switch (nuVa4cNh5)
 {
 case 'a':
@@ -161,7 +161,7 @@ EY4mP46y = pLIud0 << 128445841;
 break;
 }
 
-Y58bO1g = (Mb8E & -385610250) ? 73812910 : -488931718;
+Y58bO1g = (Mb8E & -385610250) ? 73812910 : (unsigned char)-488931718;
 
 return 0;
 }

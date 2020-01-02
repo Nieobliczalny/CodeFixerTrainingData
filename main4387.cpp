@@ -24,7 +24,7 @@ long  TWCD9(unsigned int  ipMz254,unsigned char  rBwYFwGyRX,int  ptminb,unsigned
 int main(int argc, char** argv) {
 	long long	pd8H1k67I	=	411152606;
   unsigned char  bnw8XZzU  =  122888684;
-    unsigned char    HpV32CdI00    =    1557641509;
+    unsigned char    HpV32CdI00    =    (unsigned char)1557641509;
  char ek_Hgp6XQR = 1340711831;
   double  i__KiX  =  -1474450575;
     long    VZ4Y3LpP    =    1461198370;
@@ -37,7 +37,7 @@ int main(int argc, char** argv) {
     float    Wk1_O4    =    -1765013166;
     unsigned long    IsFxBFvW    =    -978730380;
  unsigned short int tPuqbdWNE = 1940858432;
-	unsigned char	lk6Sq_EUW	=	-423672884;
+	unsigned char	lk6Sq_EUW	=	(unsigned char)-423672884;
   unsigned short int  mMJE8  =  -135440057;
   char  uh9BI2  =  -305959812;
   unsigned char  RBeSj8mI  =  -284678915;
@@ -47,7 +47,7 @@ int main(int argc, char** argv) {
 	short	E7553	=	236146479;
  unsigned char X3jiCk6gm8 = 921750198;
     short int    vX_91uP6Z    =    -364347964;
-	unsigned char	ao2T	=	65793288;
+	unsigned char	ao2T	=	(unsigned char)65793288;
   unsigned int  gj8W94l7n  =  -936899824;
 	long double	QB773TBu9	=	846558181;
   unsigned short int  mU8x_c  =  0;
@@ -125,7 +125,7 @@ case 2:
 i__KiX = TWCD9(436479380, QB773TBu9, 2000818638, 1688584204) / 328220453;
 break;
 case 3:
-mU8x_c = Jq8l_vZS(-852778038, 1062345325);
+mU8x_c = Jq8l_vZS(-852778038, (short)1062345325);
 break;
 }
 }

@@ -126,7 +126,7 @@ rDejeG9Sf0 = c009Z3Sy5 ^ l1f69AQ;
 break;
 case 'g':
 case 'G':
-PZ9r = tB3Fd(2027713361, 1381494637, iHT8cGpAW, 1437920457, -1923690735);
+PZ9r = tB3Fd(2027713361, 1381494637, iHT8cGpAW, 1437920457, (short)-1923690735);
 break;
 case 'h':
 case 'H':
@@ -159,7 +159,7 @@ case 'c':
 DU57hlmP++;
 break;
 case 'd':
-cQnkZVK = tB3Fd(-520795935, iTthM, -240053115, 322373902, -1346891354);
+cQnkZVK = tB3Fd(-520795935, iTthM, -240053115, 322373902, (short)-1346891354);
 break;
 case 'e':
 kCDM_D4x = cQnkZVK ^ 1610740876;
@@ -202,7 +202,7 @@ while (i < 4);
 
 YqGLr6oj = B38oz15n();
 
-cout << tB3Fd(-1602122915, BVDs, y06b8E8, YsB_F_66, sYNHFv65) << X4yF73 << lKBhh99k0 << B38oz15n() << IM5pt(YqGLr6oj, 605401600) << endl;
+cout << tB3Fd((short)-1602122915, BVDs, y06b8E8, YsB_F_66, sYNHFv65) << X4yF73 << lKBhh99k0 << B38oz15n() << IM5pt(YqGLr6oj, 605401600) << endl;
 if (iTthM)
 {
 ke1dA = (unsigned long long)(LT8vW5IOd_ + (2124291805));

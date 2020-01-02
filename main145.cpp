@@ -69,7 +69,7 @@ if (TO8gx)
 switch (TSBGfy_F)
 {
 case 0:
-TSBGfy_F = u1C184m0(1075650333, jysFv9, k641gmPH, 720351777, vG3d1);
+TSBGfy_F = u1C184m0(1075650333, jysFv9, k641gmPH, (unsigned short)720351777, vG3d1);
 break;
 case 1:
 YN2Qf = (int)ceil(jysFv9);
@@ -123,7 +123,7 @@ TSBGfy_F = u1C184m0(-626940971, jysFv9, -1050321599, bxm32_, nGD8Hra96x);
 }
 }
 }
-TSBGfy_F = u1C184m0(-1775980619, jysFv9, -1394326549, bxm32_, orE3S_2g);
+TSBGfy_F = u1C184m0((unsigned short)-1775980619, jysFv9, -1394326549, bxm32_, orE3S_2g);
 
 {
 int i = 0;
@@ -234,7 +234,7 @@ break;
 }
 try
 {
-Kp50l2r = u1C184m0(-471717050, 47767147, -1765881762, jysFv9, nGD8Hra96x);
+Kp50l2r = u1C184m0(-471717050, (unsigned short)47767147, -1765881762, jysFv9, nGD8Hra96x);
 }
 catch (int& errorCode)
 {

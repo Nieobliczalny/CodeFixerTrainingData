@@ -19,7 +19,7 @@ short int	GcXj(unsigned long	AwTKBqJgRQ,int	Ift3x72M3);
 int main(int argc, char** argv) {
     short    x1lZES6    =    211323404;
 	unsigned long	hA1reC8	=	-39890725;
- short Z0IU6czN = -895596174;
+ short Z0IU6czN = (short)-895596174;
   float  JntbTr0  =  294301544;
     double    v0t3g8    =    1327461298;
 	unsigned short int	C47L7	=	-81894299;
@@ -43,7 +43,7 @@ else if (JntbTr0)
 {
 if (kwM4m == ftJZX9Flw)
 {
-KzXC = ylcR5TgZx(504689248, -1767358713, C47L7, 142245234);
+KzXC = ylcR5TgZx(504689248, (short)-1767358713, C47L7, 142245234);
 }
 else
 {
@@ -68,7 +68,7 @@ else
 {
 C47L7 = (unsigned short int)(kwM4m);
 }
-ftJZX9Flw = ylcR5TgZx(-257630517, x1lZES6, 262615202, hA1reC8);
+ftJZX9Flw = ylcR5TgZx((unsigned char)-257630517, x1lZES6, 262615202, hA1reC8);
 
 {
 int i = 0;
@@ -231,7 +231,7 @@ Z0IU6czN = GcXj(-918041727, x1lZES6);
 }
 else if (KzXC <= Yhoj0)
 {
-std::cout << C47L7 << ftJZX9Flw << ylcR5TgZx(Z0IU6czN, x1lZES6, -1729004067, kwM4m) << ylcR5TgZx(Z0IU6czN, 890324397, -1461898826, -426903320) << std::endl;
+std::cout << C47L7 << ftJZX9Flw << ylcR5TgZx(Z0IU6czN, x1lZES6, -1729004067, kwM4m) << ylcR5TgZx(Z0IU6czN, 890324397, -1461898826, (unsigned char)-426903320) << std::endl;
 }
 else if (ftJZX9Flw != JntbTr0)
 {
@@ -559,7 +559,7 @@ Ck28jOY4C = (int)ceil(JntbTr0);
 }
 
 std::cout << C47L7 << QI38yRuun(KzXC, v0t3g8) << ylcR5TgZx(KzXC, 373606105, kwM4m, JntbTr0) << kwM4m << std::endl;
-ftJZX9Flw = ylcR5TgZx(931739165, 1400179759, 1978824613, -392699046);
+ftJZX9Flw = ylcR5TgZx((unsigned char)931739165, 1400179759, 1978824613, -392699046);
 
 if (JntbTr0 != C47L7)
 {

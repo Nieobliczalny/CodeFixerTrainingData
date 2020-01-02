@@ -30,7 +30,7 @@ int i = 9;
 do
 {
 i--;
-sXKyM = Hc1qVdr(2114822840, 1368264536);
+sXKyM = Hc1qVdr(2114822840, (short)1368264536);
 }
 while (i >= 0);
 }

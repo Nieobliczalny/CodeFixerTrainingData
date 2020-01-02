@@ -24,7 +24,7 @@ int main(int argc, char** argv)
  char R52s_;
  R52s_ = 2000431085;
     unsigned short int    y422f4;
-    y422f4    =    -1757156223;
+    y422f4    =    (unsigned short)-1757156223;
  float uRepUV8baZ;
  uRepUV8baZ = 846540323;
  unsigned long long Hw2T;
@@ -38,7 +38,7 @@ int main(int argc, char** argv)
  short int Srt1_67MB;
  Srt1_67MB = 0;
  unsigned short int f4927l_1e;
- f4927l_1e = -371121455;
+ f4927l_1e = (unsigned short)-371121455;
     unsigned long long    hL19mq;
     hL19mq    =    749346776;
  unsigned char L_sn;
@@ -52,7 +52,7 @@ int main(int argc, char** argv)
 	unsigned short	Lg08349ig0;
 	Lg08349ig0	=	-1984484045;
  unsigned char EK000e3Ok;
- EK000e3Ok = 1373703544;
+ EK000e3Ok = (unsigned char)1373703544;
     unsigned long    NQ94si03O_;
     NQ94si03O_    =    0;
  int OjC_C__5C;
@@ -74,7 +74,7 @@ int main(int argc, char** argv)
   long long  miJC1x1;
   miJC1x1  =  1580351898;
  char sft35Rz0l5;
- sft35Rz0l5 = -854796631;
+ sft35Rz0l5 = (char)-854796631;
   unsigned int  eH_7y938;
   eH_7y938  =  -2090289784;
  float AkQSrw;
@@ -84,7 +84,7 @@ int main(int argc, char** argv)
  long double y0mlWC_;
  y0mlWC_ = -1903513703;
  unsigned short t3H1TwCZ0I;
- t3H1TwCZ0I = -68436572;
+ t3H1TwCZ0I = (unsigned short)-68436572;
   int  g2F7;
   g2F7  =  453252233;
   unsigned long  C7rEi2sbYT;
@@ -114,7 +114,7 @@ int main(int argc, char** argv)
  unsigned short N1NjtrBlYs;
  N1NjtrBlYs = -678166476;
   short int  TYCO;
-  TYCO  =  -1932477524;
+  TYCO  =  (short)-1932477524;
   float  MmWBn37;
   MmWBn37  =  -455279170;
   unsigned char  yKt5iQd;
@@ -134,7 +134,7 @@ int main(int argc, char** argv)
 
 if (Srt1_67MB == 0)
 {
-	b7rf = hhjF(781340900, 539030402, Q9Ot4r, 1347829623) / Srt1_67MB;
+	b7rf = hhjF(781340900, (char)539030402, Q9Ot4r, 1347829623) / Srt1_67MB;
 }
 if (TZAHGjEa != -2015124051)
 {
@@ -169,7 +169,7 @@ r3VNxAZpK1 = I26mSI_(V9_14lOd, -889145805);
 }
 }
 u_dw7hYAqT = (unsigned short int)(T92lVy4xUJ);
-ZTqJh_G = d1ym1lO(-1961545019, r3VNxAZpK1) & L_sn;
+ZTqJh_G = d1ym1lO((short)-1961545019, r3VNxAZpK1) & L_sn;
 
 return 0;
 }
@@ -184,7 +184,7 @@ char P1H6V3HU0() {
 }
 
 unsigned char    hhjF(unsigned long long    M8CI,char    oP5dU,unsigned short int    A68VHpiYUq,unsigned long long    MCbX9f)    {
-    return    932733945;
+    return    (unsigned char)932733945;
 }
 
 unsigned char d1ym1lO(short int KbrzTL_,short ACwO1XW09) {

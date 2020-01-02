@@ -14,6 +14,7 @@ unsigned long  be_i(long  o0E8mCU2W);
 int main()
 {
 	unsigned long long	ZQBMiN5V	=	0,	p3AD1WFc	=	0;
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
     short    Cr44    =    1911629193,    XyinK    =    -1052644053,    X3bpB_3E6    =    -1633619149,    sAw5UA3yf    =    -1736111262,    K3j_GHH    =    -1750124193,    M0S4Fk6    =    627303460,    YwM3Rmw    =    1036728268,    can_kn4d    =    1676721105,    UEo_82_    =    1310288602,    lPW5LE    =    2056269468,    WGClW_Z4    =    -256920275,    yHLqRA    =    -208302802;
 
 switch (UEo_82_)

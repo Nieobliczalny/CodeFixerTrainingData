@@ -27,7 +27,7 @@ int main(void)
 {
 	char	p64c8Y,	u_0i8IxU6a,	MUU1f,	UGXAs,	Bft2OI9_,	i7ErL5CEY,	Ra4Ym,	WGpuq,	Z_Ewm,	Arq96tK9i,	NB06o7,	HE6G,	lfYLq,	p1UTu,	n62qsB,	Gd55,	p0S0,	SP4Hr6236A,	Ae0TO0k,	pH_Ev,	RC9A,	zYJ42G9,	I5cQ7s_,	j16tt,	zNnMJ,	z2m0wBd24E,	zDU6;
 	p64c8Y	=	-268839137;
-	u_0i8IxU6a	=	-1769609295;
+	u_0i8IxU6a	=	(char)-1769609295;
 	MUU1f	=	1955185204;
 	UGXAs	=	-1034525113;
 	Bft2OI9_	=	-1581946335;
@@ -37,7 +37,7 @@ int main(void)
 	Z_Ewm	=	-980946355;
 	Arq96tK9i	=	-456510088;
 	NB06o7	=	398093271;
-	HE6G	=	1580952745;
+	HE6G	=	(char)1580952745;
 	lfYLq	=	-138638035;
 	p1UTu	=	396283389;
 	n62qsB	=	-556074349;
@@ -47,7 +47,7 @@ int main(void)
 	Ae0TO0k	=	-2141184730;
 	pH_Ev	=	984426115;
 	RC9A	=	-1542746396;
-	zYJ42G9	=	1359987991;
+	zYJ42G9	=	(char)1359987991;
 	I5cQ7s_	=	549426445;
 	j16tt	=	228843969;
 	zNnMJ	=	-555504641;
@@ -252,7 +252,7 @@ while (i < 10)
 {
 for (int j = 3; j >= 0; --j)
 {
-std::cout << Ae0TO0k << B9t3QSD6(UGXAs, -1661276204, 1116772601) << j16tt << B9t3QSD6(UGXAs, -2104097189, 1097737543) << std::endl;
+std::cout << Ae0TO0k << B9t3QSD6(UGXAs, -1661276204, 1116772601) << j16tt << B9t3QSD6(UGXAs, -2104097189, (short)1097737543) << std::endl;
 }
 ++i;
 }
@@ -326,7 +326,7 @@ case 4:
 z2m0wBd24E = fOly5p6rbk(-1169247458, pH_Ev, -262200574, lfYLq);
 break;
 case 5:
-z2m0wBd24E = fOly5p6rbk(938795234, Ae0TO0k, WGpuq, zDU6);
+z2m0wBd24E = fOly5p6rbk((char)938795234, Ae0TO0k, WGpuq, zDU6);
 break;
 case 6:
 Bft2OI9_ = fOly5p6rbk(1485648653, Z_Ewm, -1777553967, p76u010N);

@@ -21,7 +21,7 @@ int main()
 {
  unsigned short T8cfhQVTZ0, nrbx4pH, W7G_I, eI8_, yYx2MNx08, Yaws40Wz;
  T8cfhQVTZ0 = -2124282719;
- nrbx4pH = -642443485;
+ nrbx4pH = (unsigned short)-642443485;
  W7G_I = -870803232;
  eI8_ = 1706363715;
  yYx2MNx08 = -1480664930;
@@ -38,7 +38,7 @@ cout << "xm2ee" << IKF7s37E4 << endl;
 
 try
 {
-yYx2MNx08 = ZXd7(480207168, yYx2MNx08);
+yYx2MNx08 = ZXd7((unsigned char)480207168, yYx2MNx08);
 }
 catch (int& errorCode)
 {
@@ -214,7 +214,7 @@ dGax1Epue = (int)abs(IKF7s37E4);
 }
 else
 {
-eI8_ = hxl_i5v7r4(1132745069, 725196531, IKF7s37E4, 118401782, -907333288);
+eI8_ = hxl_i5v7r4(1132745069, (short)725196531, IKF7s37E4, 118401782, -907333288);
 }
 }
 while (j < 10);
@@ -252,7 +252,7 @@ unsigned char    hxl_i5v7r4(unsigned short    Ng61a7I,short    BM69q_9,long    w
 
 unsigned short int	EOdp(long long	mkROyE3,unsigned long	ofPx41E7Ai,unsigned short	id748p4YJ8,long long	cIp3tI48,unsigned short	k7_v5zYC0)
 {
-	return	424238570;
+	return	(unsigned short)424238570;
 }
 
 unsigned short  ZXd7(unsigned char  H5r9nBLi,short int  Uk8N3T3)

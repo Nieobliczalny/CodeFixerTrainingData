@@ -64,7 +64,7 @@ do
 {
 try
 {
-XZJB = kJvmiT8cZr(-81274048, -822695931, -2069179996, 874960835);
+XZJB = kJvmiT8cZr(-81274048, -822695931, (char)-2069179996, 874960835);
 }
 catch (int& errorCode)
 {
@@ -99,7 +99,7 @@ T9yIrwV7_ /= B8wlEWq0A7;
 }
 else if (XZJB & cEQt4)
 {
-o2yWgs3 = kJvmiT8cZr(-967324362, 1421590181, -490043051, -1788185635);
+o2yWgs3 = kJvmiT8cZr(-967324362, 1421590181, (char)-490043051, -1788185635);
 }
 else
 {
@@ -115,7 +115,7 @@ o2yWgs3 = (unsigned int)(ifBKxx1 + (jgn6));
 
 o2yWgs3 = kJvmiT8cZr(o2yWgs3, u68w, 200881459, 362752216);
 t3UQ &= 1893515366;
-nK1k8cXHp = kJvmiT8cZr(-1345011949, HBNjZ7k65, -481855147, B8wlEWq0A7);
+nK1k8cXHp = kJvmiT8cZr((unsigned short)-1345011949, HBNjZ7k65, -481855147, B8wlEWq0A7);
 
 if (nK1k8cXHp)
 {
@@ -231,7 +231,7 @@ nK1k8cXHp = W75dHr4y(nK1k8cXHp, -86932361, o2yWgs3, XZJB, -184706570);
 }
 
 XZJB = (unsigned int)(jgn6);
-std::cout << prT3lHWR(nK1k8cXHp, fZR7_ZAS, 2106335767) << kJvmiT8cZr(493724110, fZR7_ZAS, -1050919713, 729668102) << kJvmiT8cZr(nK1k8cXHp, -2016592587, 2133835885, -426565280) << HBNjZ7k65 << std::endl;
+std::cout << prT3lHWR(nK1k8cXHp, fZR7_ZAS, 2106335767) << kJvmiT8cZr(493724110, fZR7_ZAS, (char)-1050919713, 729668102) << kJvmiT8cZr(nK1k8cXHp, -2016592587, 2133835885, -426565280) << HBNjZ7k65 << std::endl;
 
 if (ngX4m4)
 {
@@ -309,7 +309,7 @@ T9yIrwV7_ = ifBKxx1 ^ 1192779111;
 }
 else
 {
-std::cout << "oFoJW6" << "y2Nkz" << T9yIrwV7_ << GNe8(-635407089, 1072013542, 950050976, 1330181284, -860662619) << "MD61t" << std::endl;
+std::cout << "oFoJW6" << "y2Nkz" << T9yIrwV7_ << GNe8(-635407089, 1072013542, (short)950050976, 1330181284, -860662619) << "MD61t" << std::endl;
 }
 }
 else
@@ -341,7 +341,7 @@ if (((t3UQ == sYe43KWj) || (t3UQ >= 1158235740)) && (B8wlEWq0A7 < 513827202))
 switch (M848)
 {
 case 0:
-M848 = kJvmiT8cZr(1200541197, XZJB, 227942025, t3UQ);
+M848 = kJvmiT8cZr(1200541197, XZJB, (char)227942025, t3UQ);
 break;
 case 1:
 ngX4m4 = kJvmiT8cZr(-1057671951, XZJB, -1098812694, T9yIrwV7_);
@@ -583,7 +583,7 @@ short int  kJvmiT8cZr(unsigned short int  x84C45,unsigned int  Om5neCwF42,char  
 
 unsigned short int  TC7FM(unsigned int  SXL8oz,char  eqGw)
 {
-  return  1041855040;
+  return  (unsigned short)1041855040;
 }
 
 unsigned long W75dHr4y(unsigned short int QjF6t47GY,int vI_9jU,char KGe_RR1TF,unsigned short J9vT,long long sZ0dS2X)

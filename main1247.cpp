@@ -28,7 +28,7 @@ int main(void) {
   float  x_y979UKNF  =  -715742829;
   double  gP9D  =  -1026425818;
     long long    dAUd2Cl_lK    =    -2136303331;
-    short    xQZa    =    1736594848;
+    short    xQZa    =    (short)1736594848;
 	unsigned char	m4AJK5kb67	=	793995716;
   short int  FI29  =  -853431882;
     float    K46YPq75    =    394071210;
@@ -44,7 +44,7 @@ int main(void) {
     unsigned short int    uekjKR    =    2144135540;
  long QLbMlwd = -1836462624;
     float    uG935SU9    =    -687544038;
-  char  eMjQlH  =  -592459206;
+  char  eMjQlH  =  (char)-592459206;
 	double	llkWyK	=	-632859270;
  unsigned long z1D30 = 701941931;
  int NQbI = 1205725918;
@@ -56,7 +56,7 @@ int main(void) {
 	unsigned short int	o2181cW885	=	189564853;
  long Ef9EIwMO6_ = -544465156;
 	unsigned long long	XPwje97p04	=	1144492997;
-  unsigned short  JoTNc  =  -852774642;
+  unsigned short  JoTNc  =  (unsigned short)-852774642;
   unsigned short  mjl7r1MW3i  =  -1359488247;
  double MNs_6R_VOG = -942593538;
 	unsigned long long	R5I19X52yq	=	0;
@@ -72,7 +72,7 @@ K46YPq75 = (int)floor(bES1MX3l);
 int i = 0;
 while (i < 5)
 {
-R5I19X52yq = L48E(132965187, 1065063763);
+R5I19X52yq = L48E(132965187, (char)1065063763);
 i++;
 }
 }
@@ -107,7 +107,7 @@ case 'c':
 g64g89A5j = af_V6057_M - bES1MX3l;
 break;
 case 'd':
-WA3TD527n = Y7uZx(411623587, -2105807239, JoTNc, -1626279327, llkWyK);
+WA3TD527n = Y7uZx((short)411623587, -2105807239, JoTNc, -1626279327, llkWyK);
 break;
 }
 
@@ -126,7 +126,7 @@ while (i < 6);
 }
 std::cout << L48E(WA3TD527n, 2111275052) << "dc_cu" << "N1bW" << llkWyK << std::endl;
 
-std::cout << WA3TD527n << Y7uZx(WA3TD527n, uG935SU9, -1338903875, gP9D, llkWyK) << std::endl;
+std::cout << WA3TD527n << Y7uZx(WA3TD527n, uG935SU9, (unsigned short)-1338903875, gP9D, llkWyK) << std::endl;
 
 {
 int i = 0;
@@ -159,7 +159,7 @@ while (k >= 0);
 ++i;
 }
 }
-Ef9EIwMO6_ = Y7uZx(-986302693, MNs_6R_VOG, JoTNc, -1649045741, -163778053);
+Ef9EIwMO6_ = Y7uZx((short)-986302693, MNs_6R_VOG, JoTNc, -1649045741, -163778053);
 QLbMlwd += 1036525619;
 
 WA3TD527n = 1681134220 / L48E(-1082935512, -1220641599);

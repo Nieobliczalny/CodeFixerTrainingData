@@ -15,7 +15,7 @@ int main(void)
  long fJkz;
  fJkz = 0;
   unsigned short int  VH5hC41;
-  VH5hC41  =  452038711;
+  VH5hC41  =  (unsigned short)452038711;
  unsigned short int nkLU;
  nkLU = -174757539;
   unsigned char  nhMu;

@@ -23,7 +23,7 @@ int main(int argc, char** argv) {
   unsigned long  MD5ev0;
   MD5ev0  =  0;
   short int  xLR0Cp4uq;
-  xLR0Cp4uq  =  1573093173;
+  xLR0Cp4uq  =  (short)1573093173;
   long long  X9LfZECUw;
   X9LfZECUw  =  862814565;
   unsigned long long  ocVS1;
@@ -33,7 +33,7 @@ int main(int argc, char** argv) {
 	short	Y5lXCkJ;
 	Y5lXCkJ	=	1615769661;
     char    azf6Y66Xh3;
-    azf6Y66Xh3    =    801367877;
+    azf6Y66Xh3    =    (char)801367877;
   unsigned int  T7i8;
   T7i8  =  -1187498355;
 	long long	DO64xB;
@@ -43,7 +43,7 @@ int main(int argc, char** argv) {
  short A1RzjEiu;
  A1RzjEiu = -216714547;
 	short	jGw16;
-	jGw16	=	-1790274064;
+	jGw16	=	(short)-1790274064;
  unsigned long long gSW9Q4rB_;
  gSW9Q4rB_ = -1955382743;
     unsigned int    fk8Ht8;

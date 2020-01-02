@@ -228,7 +228,7 @@ bTg1 = Ev6f671(bTg1, PK47v__4, 1677339337, ECF6yAE);
 }
 else if (Dy_cGvvUL0 >= wO88QA)
 {
-std::cout << ECF6yAE << SIuM4YV << "R2s9" << Ev6f671(bTg1, PK47v__4, -609463872, ECF6yAE) << std::endl;
+std::cout << ECF6yAE << SIuM4YV << "R2s9" << Ev6f671(bTg1, PK47v__4, (char)-609463872, ECF6yAE) << std::endl;
 }
 else
 {
@@ -307,7 +307,7 @@ case 5:
 bTg1 = Ev6f671(-1670554529, 212357386, w9Rt_vhE6, 1443729073);
 break;
 case 6:
-bTg1 = Ev6f671(PK47v__4, 1591116655, -85318539, ECF6yAE);
+bTg1 = Ev6f671(PK47v__4, 1591116655, (char)-85318539, ECF6yAE);
 break;
 case 7:
 bTg1 = Ev6f671(-1636377993, aqL03Mf, PK47v__4, w9Rt_vhE6);
@@ -440,7 +440,7 @@ case 2:
 bTg1 = Ev6f671(Dy_cGvvUL0, -116879813, bTg1, ECF6yAE);
 break;
 case 3:
-bTg1 = Ev6f671(wZ_VsWbns, bTg1, -71799632, ECF6yAE);
+bTg1 = Ev6f671(wZ_VsWbns, bTg1, (char)-71799632, ECF6yAE);
 break;
 case 4:
 bTg1 = Ev6f671(-575523316, 878397211, w9Rt_vhE6, 814073355);
@@ -599,7 +599,7 @@ bTg1 = Ev6f671(844984918, 1985639965, 1874742911, ECF6yAE);
 }
 else if ((SIuM4YV >= sp8F8fdt6B) || (wZ_VsWbns < jb3_6s))
 {
-bTg1 = Ev6f671(ECF6yAE, -480944860, 1647300420, -1372563643);
+bTg1 = Ev6f671(ECF6yAE, -480944860, (char)1647300420, -1372563643);
 }
 else
 {
@@ -721,7 +721,7 @@ bTg1 = Ev6f671(wZ_VsWbns, Dy_cGvvUL0, -662132376, PK47v__4);
 break;
 case 'c':
 case 'C':
-bTg1 = Ev6f671(wZ_VsWbns, -171651079, -1884115161, bTg1);
+bTg1 = Ev6f671(wZ_VsWbns, -171651079, (char)-1884115161, bTg1);
 break;
 case 'd':
 case 'D':
@@ -745,7 +745,7 @@ bTg1 = Ev6f671(632260211, -29538598, -1115620692, 1044696513);
 break;
 case 'i':
 case 'I':
-bTg1 = Ev6f671(2104895130, ECF6yAE, -743801546, -1963135309);
+bTg1 = Ev6f671(2104895130, ECF6yAE, (char)-743801546, -1963135309);
 break;
 }
 }
@@ -836,7 +836,7 @@ bTg1 = Ev6f671(ECF6yAE, Dy_cGvvUL0, -207902219, SIuM4YV);
 }
 else if (wZ_VsWbns != 1218561977)
 {
-std::cout << Ev6f671(1891776650, 553543348, bTg1, SIuM4YV) << "PDro1bqVs5" << "SCs81gKhe3" << Ev6f671(-1877865124, Dy_cGvvUL0, -1671136932, -776111433) << "waNex9x8" << std::endl;
+std::cout << Ev6f671(1891776650, 553543348, bTg1, SIuM4YV) << "PDro1bqVs5" << "SCs81gKhe3" << Ev6f671(-1877865124, Dy_cGvvUL0, (char)-1671136932, -776111433) << "waNex9x8" << std::endl;
 }
 else
 {

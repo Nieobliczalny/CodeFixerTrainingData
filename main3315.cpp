@@ -740,7 +740,7 @@ case 0:
 Tj39wYNdxX = OzUKc7YCf(461028021, 65503269);
 break;
 default:
-WV6P = OzUKc7YCf(1442476197, oSiTa7Tt);
+WV6P = OzUKc7YCf((short)1442476197, oSiTa7Tt);
 break;
 }
 }
@@ -929,7 +929,7 @@ unsigned long long    TW3iqrGVPq(unsigned long long    KBObN__dd4)
 }
 
 unsigned char  k2phI1()  {
-  return  -385055269;
+  return  (unsigned char)-385055269;
 }
 
 short int LaWUosne0()

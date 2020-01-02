@@ -24,7 +24,7 @@ int main(void)
     unsigned short    H8e58    =    1012279304;
   float  Rnv_e2y_PT  =  -1710528998;
 	long double	SxTdD50v8	=	412947364;
- unsigned short Vz0eWK2e1 = -1044897434;
+ unsigned short Vz0eWK2e1 = (unsigned short)-1044897434;
     long double    AjVlI    =    2067218388;
   long long  zG2pYT  =  300373104;
 	int	bD90H_	=	1860197001;
@@ -39,7 +39,7 @@ int main(void)
   unsigned long long  p0M47  =  1577457221;
     int    bSl1jbEHx    =    1316103658;
     double    oh9V_    =    1458765363;
-    unsigned short int    yjn5j9    =    -1369881674;
+    unsigned short int    yjn5j9    =    (unsigned short)-1369881674;
     short    yTimyLmA0    =    -1710574188;
     long double    JCrs7XMEs    =    1893066020;
     unsigned long long    droG    =    -160418548;
@@ -297,7 +297,7 @@ oh9V_ = (int)floor(JCrs7XMEs);
 VJUv8 = cGgv5TUM4U(-829851372);
 VJUv8 = cGgv5TUM4U(R_f4aurG);
 
-VJUv8 = cGgv5TUM4U(-1433267570);
+VJUv8 = cGgv5TUM4U((unsigned short)-1433267570);
 for (int i = 8; i >= 0; i--)
 {
 for (int j = 0; j < 6; j++)
@@ -365,7 +365,7 @@ while (i >= 0);
 }
 Vz0eWK2e1 = (unsigned short)(pBDsVb);
 n4_K = (double)(Tl0AxSU);
-oh9V_ = -68406200 / cGgv5TUM4U(223253528);
+oh9V_ = -68406200 / cGgv5TUM4U((unsigned short)223253528);
 
 if (Tw6x < -1798895884)
 {
@@ -446,7 +446,7 @@ case 4:
 Rnv_e2y_PT = (int)floor(oh9V_);
 break;
 case 5:
-VJUv8 = cGgv5TUM4U(-809970745);
+VJUv8 = cGgv5TUM4U((unsigned short)-809970745);
 break;
 case 6:
 Rnv_e2y_PT = (int)ceil(oh9V_);
@@ -464,7 +464,7 @@ break;
 }
 else
 {
-cout << cGgv5TUM4U(1506849091) << endl;
+cout << cGgv5TUM4U((unsigned short)1506849091) << endl;
 }
 }
 else

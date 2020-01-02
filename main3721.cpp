@@ -171,7 +171,7 @@ e45mwO3_5N = 148834160 / whEZW7(-1701998165);
 int i = 0;
 while (i < 8)
 {
-jkx7 = whEZW7(-249389262);
+jkx7 = whEZW7((short)-249389262);
 ++i;
 }
 }
@@ -446,7 +446,7 @@ oy6E9W5V9r = whEZW7(-1376415858);
 break;
 case 'b':
 case 'B':
-zqwLu0 = whEZW7(-325380541);
+zqwLu0 = whEZW7((short)-325380541);
 break;
 case 'c':
 case 'C':
@@ -490,7 +490,7 @@ case 5:
 CldiAt = (npo3QS4 == 1627052330) ? jkx7 : -1578775512;
 break;
 case 6:
-Xa5q76o0A = whEZW7(1357434714);
+Xa5q76o0A = whEZW7((short)1357434714);
 break;
 }
 
@@ -523,7 +523,7 @@ break;
 }
 else if (eCpA != -729755447)
 {
-cout << "ZM1zqn70y" << whEZW7(-2112593393) << "efkn3_Y4R" << endl;
+cout << "ZM1zqn70y" << whEZW7((short)-2112593393) << "efkn3_Y4R" << endl;
 }
 else if (OdZE >= m_3btL)
 {
@@ -572,7 +572,7 @@ case 'C':
 Xa5q76o0A = whEZW7(33846533);
 break;
 default:
-Kc8mb3F5 = whEZW7(-1846310137);
+Kc8mb3F5 = whEZW7((short)-1846310137);
 break;
 }
 

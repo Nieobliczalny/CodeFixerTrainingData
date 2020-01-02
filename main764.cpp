@@ -17,7 +17,7 @@ int main(void) {
     unsigned long long    TUwO523U0;
     TUwO523U0    =    0;
 	short	rfFE;
-	rfFE	=	-1659307965;
+	rfFE	=	(short)-1659307965;
   float  rLQT7Y4;
   rLQT7Y4  =  -449378673;
  long long h9H_;
@@ -41,7 +41,7 @@ int main(void) {
  unsigned long long T_W1;
  T_W1 = 858470045;
     unsigned short int    vS3_nj9gt2;
-    vS3_nj9gt2    =    -686126222;
+    vS3_nj9gt2    =    (unsigned short)-686126222;
   short  Njg5rRo;
   Njg5rRo  =  0;
 

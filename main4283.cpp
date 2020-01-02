@@ -44,7 +44,7 @@ int main() {
 	unsigned short int	S2_sTG;
 	S2_sTG	=	-1172838202;
   unsigned short  xBjZz2V2M;
-  xBjZz2V2M  =  1197985495;
+  xBjZz2V2M  =  (unsigned short)1197985495;
     int    dTXG;
     dTXG    =    -857654265;
 	unsigned long long	S_lsP_;
@@ -56,7 +56,7 @@ int main() {
     unsigned int    C2Tu9O3;
     C2Tu9O3    =    206177056;
  unsigned char RpP4jy;
- RpP4jy = 473492024;
+ RpP4jy = (unsigned char)473492024;
 	long double	jN8dyJ3y;
 	jN8dyJ3y	=	383977374;
     long    Nu48iZ;
@@ -70,7 +70,7 @@ int main() {
     long    j9_lZuR1q2;
     j9_lZuR1q2    =    0;
  short int qK4pP55;
- qK4pP55 = 654910388;
+ qK4pP55 = (short)654910388;
  unsigned int lv7e_8U;
  lv7e_8U = -99833519;
     double    xZ_B7;
@@ -80,7 +80,7 @@ int main() {
   short  q6mGHJ4J;
   q6mGHJ4J  =  -1926152882;
   short int  W3Yn_ud4;
-  W3Yn_ud4  =  -1865550697;
+  W3Yn_ud4  =  (short)-1865550697;
 	unsigned short	x787f;
 	x787f	=	1194842462;
   unsigned int  q7jL;
@@ -92,7 +92,7 @@ int main() {
  short Q8W_BmvrWl;
  Q8W_BmvrWl = -13290367;
 	unsigned short int	Ooh0x;
-	Ooh0x	=	-1646571605;
+	Ooh0x	=	(unsigned short)-1646571605;
   short int  X5i4OGFTwB;
   X5i4OGFTwB  =  -500169137;
 	short int	Oc33jd;
@@ -120,7 +120,7 @@ int main() {
 	int	pBFyqsBSTj;
 	pBFyqsBSTj	=	828142931;
  short JgOBP;
- JgOBP = 413903936;
+ JgOBP = (short)413903936;
  char M102oy5lBQ;
  M102oy5lBQ = -1312445205;
  int LNMp629_;
@@ -134,7 +134,7 @@ int main() {
   unsigned char  Hya7Pm7;
   Hya7Pm7  =  1768131023;
  unsigned char qul_1;
- qul_1 = 1592049044;
+ qul_1 = (unsigned char)1592049044;
 	unsigned char	O57jUP4xj;
 	O57jUP4xj	=	1071091660;
 	double	pL28;
@@ -231,7 +231,7 @@ case 'c':
 Jd_G1 = DMM2(Jd_G1, 1463597848);
 break;
 case 'd':
-N73ZBvg4u = DMM2(-1674477184, -1670483082);
+N73ZBvg4u = DMM2(-1674477184, (unsigned short)-1670483082);
 break;
 }
 }
@@ -241,7 +241,7 @@ else
 j9_lZuR1q2 = J0S0J(qK4pP55, -1014958487);
 }
 
-std::cout << DMM2(-779058791, 1886711935) << DMM2(qK4pP55, Hya7Pm7) << "TtjM69" << std::endl;
+std::cout << DMM2(-779058791, (unsigned short)1886711935) << DMM2(qK4pP55, Hya7Pm7) << "TtjM69" << std::endl;
 
 std::cout << b0lzgleNN << LyXm4 << LNMp629_ << q7jL << MFDaRi << std::endl;
 
@@ -278,7 +278,7 @@ case 0:
 q6mGHJ4J = J0S0J(1950819316, 372857075) << S_lsP_;
 break;
 case 1:
-j9_lZuR1q2 = J0S0J(1835839503, -289174041);
+j9_lZuR1q2 = J0S0J(1835839503, (short)-289174041);
 break;
 case 2:
 j9_lZuR1q2 = J0S0J(1604606928, ZSV3H_07MO);
@@ -317,7 +317,7 @@ C2Tu9O3 = (qK4pP55) ? DMM2(b0lzgleNN, 490856790) : -402579480;
 }
 }
 }
-j9_lZuR1q2 = J0S0J(977417498, 803881636);
+j9_lZuR1q2 = J0S0J(977417498, (short)803881636);
 return 0;
 }
 

@@ -14,7 +14,7 @@ unsigned char EHEKZRz(int toV_Ygp__,char Ba25581,long HneliEYI,long bM_W_0_g,uns
 
 short DWSzVfsW(unsigned long long vbVuPm10,long long r6j19o5,long long igA3HP8,short int QL8CUZnI,long long jWZS7v8y1)
 {
- return -670760509;
+ return (short)-670760509;
 }
 
 unsigned long    XP_4Q(unsigned long long    A4lH,short int    N_F9Fv4Ylz,unsigned char    MX_o,char    IK_vPetAD9)
@@ -31,7 +31,7 @@ int main(int argc, char** argv) {
     unsigned long    wDjNm6RP    =    1219470478;
   float  ppa_  =  -1200027468;
 	unsigned long long	PyrkMvZ	=	-743361449;
-	short int	TrZlM2	=	453515818;
+	short int	TrZlM2	=	(short)453515818;
  float KcYSD = -1360703026;
 	short	S60T207	=	-492969138;
 	char	vQyzxdo	=	582239356;
@@ -43,7 +43,7 @@ int main(int argc, char** argv) {
     float    PE0u    =    -886219442;
 	unsigned long	F513dc_	=	-2026868195;
  double G0k_ = -581459878;
-    short    uk33Q_    =    -510278044;
+    short    uk33Q_    =    (short)-510278044;
  short NrXz5q1 = -1588536735;
   char  Fcj_fW3g  =  -1663686259;
   char  jxfw9CdE  =  -1872977219;
@@ -53,7 +53,7 @@ int main(int argc, char** argv) {
  int Qn_5 = 2133761257;
   unsigned int  opTnf96SQO  =  1466713147;
  unsigned long long r8P89 = -1819894145;
-    short    x7Ty3SEw    =    91646242;
+    short    x7Ty3SEw    =    (short)91646242;
     unsigned short int    AX49dZg30D    =    875913985;
     short int    IMFNl    =    -1468728028;
   unsigned short  N6d4AIbd  =  -1678391012;
@@ -63,7 +63,7 @@ int main(int argc, char** argv) {
  unsigned int bF5__ = 255473129;
     unsigned char    w49YE    =    0;
 	long	Ne0925xe	=	256051783;
-	short int	S6kw_vQUu	=	1366834548;
+	short int	S6kw_vQUu	=	(short)1366834548;
 	long double	V2Uv5PVgym	=	1723994323;
  unsigned long long ze3xdm44k = 1278581281;
  float Vlg2_ = 676482911;
@@ -74,7 +74,7 @@ int main(int argc, char** argv) {
 	unsigned long long	Z9xA8	=	-126134033;
  char ni2M8_VsjI = -441298762;
   double  toSasr  =  419515196;
- char wrwJPKd = -1383036081;
+ char wrwJPKd = (char)-1383036081;
     unsigned long    X8W67v6Nqk    =    -1243500474;
   short  hRZ6zupv66  =  -281998881;
  long zVtG2ldoG = -1079256477;
@@ -84,7 +84,7 @@ int main(int argc, char** argv) {
 	unsigned short int	sAC74S30U	=	1347061282;
 	long	y2JD	=	-808765485;
 	long double	dolM48	=	468417109;
-  short int  l44Pc  =  1308317598;
+  short int  l44Pc  =  (short)1308317598;
  short int jTr1g0H = -790479261;
  short int hs8z1lsn6 = 1702659117;
 
@@ -96,7 +96,7 @@ r8P89 = EHEKZRz(-1460919249, -1867079068, ni2M8_VsjI, apyqlx8, -1633253623);
 break;
 case 'b':
 case 'B':
-w49YE = XP_4Q(zVtG2ldoG, -1478802367, sAC74S30U, 19231050);
+w49YE = XP_4Q(zVtG2ldoG, (short)-1478802367, sAC74S30U, 19231050);
 break;
 case 'c':
 case 'C':
@@ -108,7 +108,7 @@ w49YE = XP_4Q(1655628217, F513dc_, 1101896723, apyqlx8);
 break;
 case 'e':
 case 'E':
-w49YE = XP_4Q(PE0u, -912382216, Fno_q, jTr1g0H);
+w49YE = XP_4Q(PE0u, (short)-912382216, Fno_q, jTr1g0H);
 break;
 case 'f':
 case 'F':
@@ -120,7 +120,7 @@ c__0528 = CqCSn75_S + S60T207;
 break;
 case 'h':
 case 'H':
-w49YE = XP_4Q(S6kw_vQUu, -238749941, -1486428822, X8W67v6Nqk);
+w49YE = XP_4Q(S6kw_vQUu, -238749941, (unsigned char)-1486428822, X8W67v6Nqk);
 break;
 case 'i':
 case 'I':
@@ -169,7 +169,7 @@ case 1:
 dolM48 = (int)floor(V2Uv5PVgym);
 break;
 case 2:
-w49YE = XP_4Q(-1849220540, 1988504364, -260692806, -1885506069);
+w49YE = XP_4Q(-1849220540, 1988504364, (unsigned char)-260692806, -1885506069);
 break;
 case 3:
 w49YE = XP_4Q(bF5__, Ne0925xe, dolM48, COZxRS);
@@ -283,7 +283,7 @@ switch (apyqlx8)
 {
 case 'a':
 case 'A':
-w49YE = XP_4Q(N6d4AIbd, -5964174, -858127520, S6kw_vQUu);
+w49YE = XP_4Q(N6d4AIbd, -5964174, (unsigned char)-858127520, S6kw_vQUu);
 break;
 case 'b':
 case 'B':
@@ -359,7 +359,7 @@ case 2:
 S60T207 = (int)abs(jTr1g0H);
 break;
 case 3:
-apyqlx8 = EHEKZRz(apyqlx8, 1120609025, l44Pc, toSasr, CqCSn75_S);
+apyqlx8 = EHEKZRz(apyqlx8, (char)1120609025, l44Pc, toSasr, CqCSn75_S);
 break;
 case 4:
 vQyzxdo = (int)abs(Ne0925xe);
@@ -685,7 +685,7 @@ case 'E':
 CqCSn75_S = (int)ceil(Vlg2_);
 break;
 default:
-F513dc_ = (J518i39aC) ? XP_4Q(ppa_, 1540068081, 2016506640, 1799234592) : XP_4Q(-211594923, opTnf96SQO, r8P89, 1200554333);
+F513dc_ = (J518i39aC) ? XP_4Q(ppa_, 1540068081, (unsigned char)2016506640, 1799234592) : XP_4Q(-211594923, opTnf96SQO, r8P89, 1200554333);
 break;
 }
 }

@@ -28,7 +28,7 @@ unsigned short int  W6x7siJ50M(unsigned long long  ZW2Yl_,unsigned char  PyU4O,c
 }
 
 char	IDI6fqbMF(unsigned long	n12AnCI)	{
-	return	-1849918291;
+	return	(char)-1849918291;
 }
 
 int main(int argc, char** argv) {
@@ -192,7 +192,7 @@ case 'c':
 W4Kg = PjN9C2_ | V8A7;
 break;
 case 'd':
-m5ye1uj = W6x7siJ50M(m5ye1uj, -1308381258, Fa0hz3);
+m5ye1uj = W6x7siJ50M(m5ye1uj, (unsigned char)-1308381258, Fa0hz3);
 break;
 case 'e':
 mr9Dy38 |= KN9w13S77;
@@ -261,7 +261,7 @@ int j = 0;
 while (j < 2)
 {
 ++j;
-Z8D5_ImDv = W6x7siJ50M(777789719, -217859034, 486184591);
+Z8D5_ImDv = W6x7siJ50M(777789719, -217859034, (char)486184591);
 }
 }
 }
@@ -384,7 +384,7 @@ while (j < 3)
 ++j;
 for (int k = 0; k < 8; ++k)
 {
-o27_8_2 = W6x7siJ50M(o27_8_2, -1762103967, 1181782871);
+o27_8_2 = W6x7siJ50M(o27_8_2, -1762103967, (char)1181782871);
 }
 }
 }
@@ -414,7 +414,7 @@ case 'e':
 Qv1jG = Nmm8MID << do_S;
 break;
 case 'f':
-Z4t7O4s9s = lPAYH3f0(-895419598, m130ip3vh, Z85mNI, 170455471, 150044019);
+Z4t7O4s9s = lPAYH3f0(-895419598, m130ip3vh, Z85mNI, 170455471, (short)150044019);
 break;
 case 'g':
 vA2r0W12 = lPAYH3f0(vA2r0W12, 1302698114, p3300uPs8d, Fa0hz3, eUk1978);

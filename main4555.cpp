@@ -253,7 +253,7 @@ VuxZ = w4WqL_(-174602124, 2007512021, f20TH, EEY0);
 
 TjU4j8cn6 = (long double)(N_9ll7grF6);
 
-k2oB = mo8OFiW(-1367148312, Gwx6vY);
+k2oB = mo8OFiW((unsigned char)-1367148312, Gwx6vY);
 
 for (int i = 0; i < 10; i++)
 {
@@ -272,7 +272,7 @@ case 3:
 qG864 = (int)abs(cpp9h3C);
 break;
 case 4:
-qG864 = w4WqL_(1724139518, -1681674932, z64Y8, -1201189840);
+qG864 = w4WqL_(1724139518, -1681674932, z64Y8, (unsigned short)-1201189840);
 break;
 case 5:
 NdmHg6_7 = (int)ceil(PG05l4x7zQ);
@@ -286,7 +286,7 @@ if (((z64Y8 != 29545502) || (AC6s8icF)) && (k6_Q6I5 < -470406942))
 {
 if (nVcER31c < 1243683690)
 {
-std::cout << "p56899" << mo8OFiW(-435652725, 1901530723) << mo8OFiW(-38526537, F0wa1GLb) << mo8OFiW(329859728, F0wa1GLb) << a1ij3W << std::endl;
+std::cout << "p56899" << mo8OFiW(-435652725, 1901530723) << mo8OFiW((unsigned char)-38526537, F0wa1GLb) << mo8OFiW(329859728, F0wa1GLb) << a1ij3W << std::endl;
 }
 else
 {

@@ -289,7 +289,7 @@ case 'G':
 O_0SGAA6 = (int)abs(AVKLHQ);
 break;
 default:
-zo296OWc = XvdqZEj64(-2098046976, -83949002);
+zo296OWc = XvdqZEj64((unsigned short)-2098046976, -83949002);
 break;
 }
 for (int i = 7; i >= 0; --i)
@@ -325,7 +325,7 @@ case 'b':
 Hr5f_m <<= bnBmYe7L;
 break;
 case 'c':
-BHo_ = XvdqZEj64(1256064338, -935239127);
+BHo_ = XvdqZEj64((unsigned short)1256064338, -935239127);
 break;
 default:
 mbow = XvdqZEj64(JsyFdEg, k7TWZsE);

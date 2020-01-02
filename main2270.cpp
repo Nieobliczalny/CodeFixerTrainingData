@@ -9,6 +9,7 @@
 
 int main()
 {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
   unsigned short int  YH2b4d  =  -344410391,  BTNBC  =  -571983519,  dsM_L9xiM  =  -99727715,  LQyP5yV9w  =  -272243855,  aAedT38DO  =  1408567346,  iE8f4xSqTQ  =  -587113533,  NV06FE3  =  1419260684,  mx8U4B1gn  =  665228703,  z6gOSjPn5  =  1094712634;
     char    kB2cEX6    =    0,    yObW6    =    0,    i01e7    =    0,    j5vm    =    0,    l1yS    =    0;
 
@@ -312,7 +313,7 @@ if (LQyP5yV9w > yObW6)
 {
 if (NV06FE3 < BTNBC)
 {
-BTNBC = (YH2b4d == -1747727671) ? 2094863102 : 645079541;
+BTNBC = (YH2b4d == -1747727671) ? 2094863102 : (unsigned short)645079541;
 }
 }
 else

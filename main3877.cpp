@@ -126,7 +126,7 @@ int i = 7;
 while (i >= 0)
 {
 i--;
-std::cout << rV_5s(-1672682645, -732196337) << pn_d(-301131603) << Ifq04MW(PKkzL_79X5, -2060646001) << "MhPq47SR7b" << mpbl9D5(-310551301, 1753920963, iw55eByz, a2XLTJ9) << std::endl;
+std::cout << rV_5s(-1672682645, -732196337) << pn_d((char)-301131603) << Ifq04MW(PKkzL_79X5, -2060646001) << "MhPq47SR7b" << mpbl9D5(-310551301, 1753920963, iw55eByz, a2XLTJ9) << std::endl;
 }
 }
 switch (fR2j7)
@@ -161,7 +161,7 @@ V0FKLq = pn_d(-1092945661);
 break;
 case 'h':
 case 'H':
-hj5RUN4_mE = pn_d(-552504833);
+hj5RUN4_mE = pn_d((char)-552504833);
 break;
 default:
 Zqt41tS = rV_5s(Zqt41tS, cF1G6O);
@@ -319,7 +319,7 @@ case 5:
 h2z5Y5T = pn_d(1463912200);
 break;
 case 6:
-DC42 = rV_5s(DC42, -1787749437);
+DC42 = rV_5s(DC42, (unsigned char)-1787749437);
 break;
 case 7:
 Oqd77ZOPWd += 1780599334;
@@ -335,7 +335,7 @@ m6ABB4mZs = rV_5s(1243946795, 1987685235);
 break;
 }
 
-std::cout << qFF3ZKK3b << rV_5s(m6ABB4mZs, -256859973) << std::endl;
+std::cout << qFF3ZKK3b << rV_5s(m6ABB4mZs, (unsigned char)-256859973) << std::endl;
 try
 {
 {
@@ -425,7 +425,7 @@ AV99 = pn_d(1140725554);
 break;
 case 'c':
 case 'C':
-wmLO = pn_d(-1615277299);
+wmLO = pn_d((char)-1615277299);
 break;
 case 'd':
 case 'D':
@@ -467,7 +467,7 @@ if (Ckn9vx3 != 2078686061)
 switch (t38G98dy)
 {
 case 0:
-l92uAX188 = rV_5s(l92uAX188, 2030255955);
+l92uAX188 = rV_5s(l92uAX188, (unsigned char)2030255955);
 break;
 case 1:
 Zgx1 = rV_5s(Zgx1, l92uAX188);
@@ -515,7 +515,7 @@ case 3:
 Lg9s = rV_5s(Lg9s, r1GH__j);
 break;
 case 4:
-LS2X = mpbl9D5(-723969978, -658927066, -2130365195, 742424469);
+LS2X = mpbl9D5(-723969978, (unsigned char)-658927066, -2130365195, 742424469);
 break;
 case 5:
 jDrFc = mpbl9D5(-865885787, YUr0Of, 1513186279, DC42);
@@ -551,7 +551,7 @@ case 'b':
 xkDD2 = Ifq04MW(jd20Gp9P3, zK5mnWOeIG);
 break;
 case 'c':
-Dc22qSO = pn_d(947491615);
+Dc22qSO = pn_d((char)947491615);
 break;
 case 'd':
 C8Y8kYycy %= Or_G04E;
@@ -566,7 +566,7 @@ case 'g':
 jd20Gp9P3 ^= 699360977;
 break;
 case 'h':
-PKkzL_79X5 = pn_d(-1287275896);
+PKkzL_79X5 = pn_d((char)-1287275896);
 break;
 default:
 l7q7D2M9Y ^= LTr6;

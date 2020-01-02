@@ -21,6 +21,7 @@ unsigned char	He4b0();
 unsigned long long	fdNW8R1Xlf(unsigned int	lfB8wd6);
 
 int main(int argc, char** argv) {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
 	char	w_7hUsL24	=	1107756644,	Pra9KA	=	-146896217,	OL0Nc	=	1476185808,	h3L1HOn3	=	-672089141,	fQgnD0J3OH	=	-361388612,	X4qQ90	=	-655532855,	NTIp	=	-372656612,	rW3_7s	=	-994638431,	S4cEwX9rP	=	361153657,	pA8pj7Ba7	=	-836676367,	ONK2rlRqu	=	-1383923580,	v4hD1z	=	-1221951868,	u24Clp39	=	1937801561,	SEB43kAH7b	=	-359432739,	djgd19Sm_	=	-1224135314,	N22DB_6	=	1646381586,	RKJT2_	=	654197916,	cxi4dAr	=	-1554299793,	OFw_M8q9_E	=	-834996758,	MgQr	=	-1354227562,	Cexp0	=	-2016602918,	FJx5X	=	1942041086,	lTINVYq8	=	1870590578,	A9_jIs4z	=	1725471497,	s_NM84yx	=	844609350,	lVc5e	=	-134061545,	f23Mwk	=	1325869747,	bdARLod	=	103047558,	oaZD_RH	=	1677724630,	PaqyH	=	-1720903782,	U9ScKm3n1	=	1111719723,	N1GI8D	=	-1890516138,	Z5CPZGY9b	=	419354302,	n_Tf5cZ	=	496450245,	nXzBnG6	=	-1895301313,	rBZjVx	=	1045962860,	KNckK	=	-1737087173,	bBLU5	=	2004249167;
     unsigned long    RH7Sui_04X    =    0;
 
@@ -231,7 +232,7 @@ case 0:
 RKJT2_ = veiNH_1G(521740876);
 break;
 case 1:
-u24Clp39 = veiNH_1G(1970311896);
+u24Clp39 = veiNH_1G((short)1970311896);
 break;
 case 2:
 KNckK = A9_jIs4z % n_Tf5cZ;
@@ -262,7 +263,7 @@ switch (KNckK)
 {
 case 'a':
 case 'A':
-OFw_M8q9_E = (PaqyH > Op3dgGmA) ? -385927166 : -2132736548;
+OFw_M8q9_E = (PaqyH > Op3dgGmA) ? -385927166 : (char)-2132736548;
 break;
 case 'b':
 case 'B':
@@ -694,7 +695,7 @@ unsigned char	TXcRfGUh5F(int	G6r5_X8v)
 
 unsigned char	He4b0()
 {
-	return	-669346774;
+	return	(unsigned char)-669346774;
 }
 
 unsigned long long	fdNW8R1Xlf(unsigned int	lfB8wd6)	{

@@ -12,7 +12,7 @@ short    De_C7_9ET()    {
 }
 
 short int	bABC5cg4f(unsigned long long	cH571)	{
-	return	1340669614;
+	return	(short)1340669614;
 }
 
 unsigned int	cLA095(unsigned long	bwoqxHr88V)
@@ -29,7 +29,7 @@ int main(void)
 	unsigned long long	ka6J	=	368214672,	Y7RnOhr	=	-1996179708,	f9YBlE	=	-2116773446;
  short X_WE0Tydf = 0, YJtaGPV = 0, m9aWJq = 0, N7mi = 0, rXIGn = 0;
 
-Y7RnOhr = Oh1A(-1782197384, 894151574, f9YBlE, -2006734886, YJtaGPV) + f9YBlE;
+Y7RnOhr = Oh1A(-1782197384, (short)894151574, f9YBlE, -2006734886, YJtaGPV) + f9YBlE;
 ka6J = (unsigned long long)(m9aWJq + (-1901007921));
 
 {
@@ -69,7 +69,7 @@ Y7RnOhr -= X_WE0Tydf;
 }
 }
 
-std::cout << cLA095(ka6J) << Oh1A(1359314469, -1493172520, N7mi, -1904724037, YJtaGPV) << std::endl;
+std::cout << cLA095(ka6J) << Oh1A(1359314469, (short)-1493172520, N7mi, -1904724037, YJtaGPV) << std::endl;
 Y7RnOhr = X_WE0Tydf << 1103205293;
 
 {
@@ -177,7 +177,7 @@ case 0:
 ka6J = Oh1A(ka6J, m9aWJq, -1754482961, YJtaGPV, N7mi);
 break;
 case 1:
-ka6J = Oh1A(2047002534, 2023689622, -778114284, Y7RnOhr, -670507222);
+ka6J = Oh1A(2047002534, (short)2023689622, -778114284, Y7RnOhr, -670507222);
 break;
 case 2:
 rXIGn = (int)abs(X_WE0Tydf);
@@ -312,7 +312,7 @@ catch (int& errorCode)
 ka6J = De_C7_9ET();
 }
 
-std::cout << YJtaGPV << Oh1A(-556923513, 729652231, N7mi, ka6J, Y7RnOhr) << m9aWJq << m9aWJq << "W351kJxfL" << std::endl;
+std::cout << YJtaGPV << Oh1A(-556923513, (short)729652231, N7mi, ka6J, Y7RnOhr) << m9aWJq << m9aWJq << "W351kJxfL" << std::endl;
 if (X_WE0Tydf < Y7RnOhr)
 {
 {

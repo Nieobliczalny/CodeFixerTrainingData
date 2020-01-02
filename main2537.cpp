@@ -31,7 +31,7 @@ try
 {
 if (QfCPO3vG != yC3R)
 {
-IAvvG = LBRiH6TU1(2048798156, -1459720375, B18l, 479034068, -776095033);
+IAvvG = LBRiH6TU1(2048798156, (unsigned short)-1459720375, B18l, 479034068, -776095033);
 }
 }
 catch (int& errorCode)
@@ -129,7 +129,7 @@ else if (z1Mi > -397086589)
 int k = 0;
 do
 {
-QfCPO3vG = LBRiH6TU1(-1372168471, B18l, cJdkJOI, vx5aVg1h, 1455520026);
+QfCPO3vG = LBRiH6TU1(-1372168471, B18l, cJdkJOI, vx5aVg1h, (unsigned char)1455520026);
 k++;
 }
 while (k < 2);
@@ -175,7 +175,7 @@ if (((GI48_N >= 226495603) && (a9N4j482L & 1705224070)) && (Gha0O4r8bo >= B18l))
 {
 if ((rIUw == Q_eY) || (B18l))
 {
-GI48_N = LBRiH6TU1(1835313942, z1Mi, ojDDDR, RNfP, 1320836043) >> IAvvG;
+GI48_N = LBRiH6TU1(1835313942, z1Mi, ojDDDR, RNfP, (unsigned char)1320836043) >> IAvvG;
 }
 else if (QfCPO3vG == 85346156)
 {
@@ -266,7 +266,7 @@ j--;
 int k = 1;
 do
 {
-E7RYp10qN = LBRiH6TU1(-1538591930, rIUw, QfCPO3vG, a9N4j482L, -1976986259);
+E7RYp10qN = LBRiH6TU1(-1538591930, rIUw, QfCPO3vG, a9N4j482L, (unsigned char)-1976986259);
 k--;
 }
 while (k >= 0);
@@ -400,7 +400,7 @@ QI4pPk = TB5H73ED5(1404568078, -2089647492, prWdz_9Lg0);
 
 GI48_N = prWdz_9Lg0 | rTeTXwXT;
 
-std::cout << z1Mi << W_9cvZw(g2768y9, 325477125, 1612411561, -1683608267) << h5LA << W_9cvZw(g2768y9, 1424740537, prWdz_9Lg0, 1042740274) << std::endl;
+std::cout << z1Mi << W_9cvZw(g2768y9, 325477125, 1612411561, -1683608267) << h5LA << W_9cvZw(g2768y9, 1424740537, prWdz_9Lg0, (char)1042740274) << std::endl;
 
 {
 int i = 0;
@@ -451,7 +451,7 @@ case 5:
 vx5aVg1h = LBRiH6TU1(vx5aVg1h, -1701715934, 1379267766, GI48_N, g2768y9);
 break;
 case 6:
-IAvvG = IiGx7By(RNfP, 1818731739, vx5aVg1h);
+IAvvG = IiGx7By(RNfP, (char)1818731739, vx5aVg1h);
 break;
 case 7:
 rTeTXwXT = W_9cvZw(rTeTXwXT, -1080556172, 1883316368, atHm1jN1);
@@ -556,7 +556,7 @@ do
 j--;
 if (atHm1jN1 < ojDDDR)
 {
-GI48_N = LBRiH6TU1(GI48_N, 2049448354, RNfP, -1289816501, 1835927731);
+GI48_N = LBRiH6TU1(GI48_N, 2049448354, RNfP, -1289816501, (unsigned char)1835927731);
 }
 }
 while (j >= 0);

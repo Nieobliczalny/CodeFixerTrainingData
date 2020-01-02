@@ -20,7 +20,7 @@ int main(void)
 	unsigned int	POtXEC0	=	0;
   unsigned short  I4E4g648NL  =  -1647803566;
     unsigned long long    v65Tb7v7    =    1214371797;
-    unsigned char    Et9df6II    =    -1775853827;
+    unsigned char    Et9df6II    =    (unsigned char)-1775853827;
  unsigned char HsCpG3 = -5429923;
     char    pZ3a33I    =    -611561339;
  unsigned short int KS0A4vE = 1152356308;
@@ -31,7 +31,7 @@ int main(void)
     unsigned short    oQR8bH    =    1428112660;
   char  RI171W  =  736409958;
  long long x4zGr5_m9 = -580778543;
-    short int    ECw3nt7BH    =    977941370;
+    short int    ECw3nt7BH    =    (short)977941370;
 	unsigned long	G__F	=	0;
 	unsigned long long	kanNr	=	0;
 

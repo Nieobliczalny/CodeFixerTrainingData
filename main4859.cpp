@@ -10,7 +10,7 @@ using namespace std;
 
 int main() {
  short int Bik9gIw3Oz = -455777429;
- unsigned char xmic = -1956183388;
+ unsigned char xmic = (unsigned char)-1956183388;
 	long double	dC0O_	=	1658478436;
 	long long	FBu8	=	180162111;
  long Y66EwiCo = -2104906072;
@@ -24,7 +24,7 @@ int main() {
     double    k1I92Z0s5c    =    -221473094;
 	unsigned int	C3Hm	=	840618177;
 	float	ZzAior	=	355571877;
-	unsigned short	do1L0	=	505621872;
+	unsigned short	do1L0	=	(unsigned short)505621872;
     char    Tx6ll    =    -1521345310;
  unsigned long long d6HSv = 136848168;
   unsigned char  g3ay2kgU  =  -84361747;
@@ -36,7 +36,7 @@ int main() {
  double jsH4MOWGgP = 1168589089;
 	float	O0_TYoKWYu	=	333808413;
     int    PEAXH6irkC    =    2021702131;
-  unsigned short int  oY1XJ58  =  -626114318;
+  unsigned short int  oY1XJ58  =  (unsigned short)-626114318;
  char qC8240s8 = -201990956;
     unsigned short int    P_C_lz    =    1239517447;
     unsigned short    l1hm0HCK0j    =    -1170723074;
@@ -48,7 +48,7 @@ int main() {
     unsigned int    g3t6Jo356    =    236826704;
  float FmPbe = 285268227;
     long long    I1DTn    =    -1924849293;
-	short	i3cZII	=	-1350103720;
+	short	i3cZII	=	(short)-1350103720;
 	unsigned int	FITR	=	247632100;
  unsigned long long RlPf = -457581852;
 	int	S_z7o2_4N	=	-1644386301;
@@ -60,7 +60,7 @@ int main() {
     double    W82TwUkk6p    =    -158075877;
     int    W1e4ex    =    -1604395333;
 	long double	Ddk2349_rB	=	1699604753;
-    unsigned short int    U342ML5    =    1506284748;
+    unsigned short int    U342ML5    =    (unsigned short)1506284748;
     long    GY7Qq    =    -949294764;
 	unsigned short	Zl9kH3	=	-1279476961;
 	unsigned short int	u_y0r51	=	-517159725;
@@ -78,7 +78,7 @@ int main() {
   int  E29HP  =  356614332;
     long double    jE96aD    =    686634531;
 	unsigned int	NB478	=	-744885738;
-	short int	ty9o	=	1439377380;
+	short int	ty9o	=	(short)1439377380;
     short int    y47_2AR6    =    1867786090;
 	short	ew9H	=	-895663340;
   short int  Cn7x87c  =  -70758731;

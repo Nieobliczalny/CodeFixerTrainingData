@@ -28,7 +28,7 @@ int main() {
  short int Asw83OsFdy;
  Asw83OsFdy = 0;
   unsigned short int  v53k0ZP;
-  v53k0ZP  =  1320743003;
+  v53k0ZP  =  (unsigned short)1320743003;
 	long	NTN59FXO;
 	NTN59FXO	=	-2138143679;
 	unsigned long long	x4GH;
@@ -44,7 +44,7 @@ int main() {
     int    moCOTO5S2S;
     moCOTO5S2S    =    423090111;
   unsigned char  I5nN1;
-  I5nN1  =  -674218128;
+  I5nN1  =  (unsigned char)-674218128;
   unsigned short int  E1ze45blO;
   E1ze45blO  =  -1333522079;
 
@@ -164,7 +164,7 @@ switch (v53k0ZP)
 {
 case 'a':
 case 'A':
-E1ze45blO = mdKD7i5(1675784235, MtPt11UV7o, 1075879229, zd1_j, 560946265);
+E1ze45blO = mdKD7i5(1675784235, MtPt11UV7o, (short)1075879229, zd1_j, 560946265);
 break;
 case 'b':
 case 'B':

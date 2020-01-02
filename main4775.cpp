@@ -278,7 +278,7 @@ case 'g':
 RcDxij04y = U2C109H(RcDxij04y, -309914661, 1360978563);
 break;
 default:
-OZiL = U2C109H(1931745409, vF_t_2j0b7, -2060361591);
+OZiL = U2C109H(1931745409, vF_t_2j0b7, (unsigned short)-2060361591);
 break;
 }
 }
@@ -559,7 +559,7 @@ case 1:
 B1UA >>= 2032758519;
 break;
 case 2:
-g107 = U2C109H(851149174, WYl3, -1419021856);
+g107 = U2C109H(851149174, WYl3, (unsigned short)-1419021856);
 break;
 case 3:
 G5Bx = U2C109H(-674580401, Yso_, UBkt1e4T4);

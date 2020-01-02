@@ -39,7 +39,7 @@ int main(int argc, char** argv) {
  long h7iyOEj0 = -295407032;
     long    dkL_ApePy    =    -1100951288;
     long    YGoh    =    -1413118024;
-  unsigned short  d2A_Pp36Y  =  608086979;
+  unsigned short  d2A_Pp36Y  =  (unsigned short)608086979;
 	unsigned short	yFVm	=	1168330937;
     short    NEoPv7n    =    -1818348108;
  long long ZRvyJKJ = 528028897;
@@ -49,7 +49,7 @@ int main(int argc, char** argv) {
   long long  IAubu  =  -1814498164;
  int zrCBn1D = -641016378;
 	long	u7i9R	=	-1781750426;
-	short int	c2SNtQRuI	=	-785333617;
+	short int	c2SNtQRuI	=	(short)-785333617;
  short Stgad3 = -37026626;
 	short	D6kb7ps	=	2042369019;
     long long    Pqk4qxVY    =    -2062510281;
@@ -62,7 +62,7 @@ int main(int argc, char** argv) {
 	unsigned char	cnQCiH_6	=	0;
   int  XQKc1  =  116522439;
  long double Evn7D_ = -589352318;
- short bgM78Y2M = 1666469838;
+ short bgM78Y2M = (short)1666469838;
  int y5dCno9Bw = -1244445896;
  double dG_Dai1c = 1125737450;
 	unsigned short int	mr76	=	-524129443;
@@ -73,7 +73,7 @@ int main(int argc, char** argv) {
   double  i33mk79t  =  899198183;
 	char	Oonxfe0s	=	1921849415;
     unsigned long long    V_kx6F3dP    =    1051148579;
-	short	nb0iqk	=	-350447431;
+	short	nb0iqk	=	(short)-350447431;
  char NL_WaFYZ = -714194579;
   float  ba8p  =  415454435;
 
@@ -189,7 +189,7 @@ cnQCiH_6 = OJj7(-624997187, -368456352, XQKc1);
 break;
 case 'c':
 case 'C':
-Gv1P51 = OJj7(1773491403, 1143994024, 506171505);
+Gv1P51 = OJj7((char)1773491403, 1143994024, 506171505);
 break;
 case 'd':
 case 'D':
@@ -221,7 +221,7 @@ else if (Pqk4qxVY <= yFVm)
 switch (nb0iqk)
 {
 case 0:
-SJ__0 = It31uzF25(-1798138267, 993136345, bgM78Y2M, 1051600170);
+SJ__0 = It31uzF25(-1798138267, 993136345, bgM78Y2M, (unsigned short)1051600170);
 break;
 case 1:
 xap5g79c9n = xjN7RWh_3(-2003056131, h7iyOEj0);
@@ -408,7 +408,7 @@ break;
 }
 try
 {
-Gv1P51 = OJj7(24476133, 2088662053, -1303664052);
+Gv1P51 = OJj7((char)24476133, 2088662053, -1303664052);
 }
 catch (int& errorCode)
 {
@@ -428,7 +428,7 @@ catch (int& errorCode)
 {
 dG_Dai1c = (int)floor(gh3VZL);
 }
-fmC2h = xjN7RWh_3(1747377055, -2117253358);
+fmC2h = xjN7RWh_3(1747377055, (unsigned short)-2117253358);
 if (y5dCno9Bw & -149864681)
 {
 if (i33mk79t < -1252785864)
@@ -481,7 +481,7 @@ gh3VZL = (int)floor(M2zy);
 break;
 case 'h':
 case 'H':
-h7iyOEj0 = U40d(h7iyOEj0, -1468564700, -800515971);
+h7iyOEj0 = U40d(h7iyOEj0, -1468564700, (short)-800515971);
 break;
 case 'i':
 case 'I':

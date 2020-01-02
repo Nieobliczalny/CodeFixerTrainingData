@@ -33,7 +33,7 @@ int main(void)
     int    u_1tl7O;
     u_1tl7O    =    -1868077587;
     short int    rBCC;
-    rBCC    =    794696163;
+    rBCC    =    (short)794696163;
  float NIQR00_nc8;
  NIQR00_nc8 = -1894924001;
  short z4c0X4;
@@ -45,7 +45,7 @@ int main(void)
   long long  R2u62FK0K;
   R2u62FK0K  =  -1382771125;
  unsigned char z34Yf9;
- z34Yf9 = -1708555657;
+ z34Yf9 = (unsigned char)-1708555657;
     unsigned short    wzGM;
     wzGM    =    0;
 	short int	uah0zfr0eW;
@@ -59,7 +59,7 @@ int main(void)
   unsigned long long  qd194eRO;
   qd194eRO  =  1855095465;
  short int sCA4;
- sCA4 = 894451050;
+ sCA4 = (short)894451050;
 	long long	xicm;
 	xicm	=	-1596632929;
 	unsigned long	sXBGk29N;
@@ -69,7 +69,7 @@ int main(void)
  short rXh55Y69x;
  rXh55Y69x = -812151661;
 	char	F_3XY5Q327;
-	F_3XY5Q327	=	-1562115810;
+	F_3XY5Q327	=	(char)-1562115810;
   long double  Ln60;
   Ln60  =  314389905;
   short  EA5MKc3S;
@@ -83,7 +83,7 @@ int main(void)
 	char	PzGvm6PDL;
 	PzGvm6PDL	=	1922138455;
  unsigned short int m1Wj5A1;
- m1Wj5A1 = 605688613;
+ m1Wj5A1 = (unsigned short)605688613;
  float oXPm;
  oXPm = -1081760881;
  unsigned int CGbm2;
@@ -93,7 +93,7 @@ int main(void)
 	char	a_x4b;
 	a_x4b	=	717281777;
   unsigned short int  Uw2M;
-  Uw2M  =  1007914331;
+  Uw2M  =  (unsigned short)1007914331;
  long long M593M6f8;
  M593M6f8 = -1886870695;
   unsigned short int  KCSA;
@@ -115,7 +115,7 @@ int main(void)
   long double  Fmj_gr2;
   Fmj_gr2  =  90729489;
     unsigned short int    Urtma;
-    Urtma    =    2115736029;
+    Urtma    =    (unsigned short)2115736029;
   unsigned short int  t2EEHa21t;
   t2EEHa21t  =  812055017;
 	short	Eo3_1;
@@ -263,7 +263,7 @@ case 2:
 WLsbCjb ^= 646018389;
 break;
 case 3:
-uah0zfr0eW = gb8RKem(1803213245, -322768224, V09H9_9g1C, 1138207413);
+uah0zfr0eW = gb8RKem(1803213245, (short)-322768224, V09H9_9g1C, 1138207413);
 break;
 }
 }
@@ -401,7 +401,7 @@ std::cout << gb8RKem(-896227364, z4c0X4, Ln60, sXBGk29N) << m1Wj5A1 << "VdUp3" <
 }
 else if (r_p8Jt5aU9 <= -1087212807)
 {
-std::cout << gb8RKem(lHo80, z4c0X4, Ln60, 1736332844) << gb8RKem(810975715, -348844904, 1528588917, 71980899) << gb8RKem(lHo80, 367255603, 1160466525, sXBGk29N) << "OwTi" << "Z3S7n" << std::endl;
+std::cout << gb8RKem(lHo80, z4c0X4, Ln60, 1736332844) << gb8RKem(810975715, -348844904, 1528588917, 71980899) << gb8RKem(lHo80, (short)367255603, 1160466525, sXBGk29N) << "OwTi" << "Z3S7n" << std::endl;
 }
 else
 {

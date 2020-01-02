@@ -22,7 +22,7 @@ unsigned short int  s2LN64017(short int  o2TWTDy,short int  rbKk)  {
 
 char Ik470_g(unsigned short u04QTDm340,unsigned char K7rqZ,long Pb8M3,char i83V,short Lmf20)
 {
- return 860808256;
+ return (char)860808256;
 }
 
 unsigned short	Gez6n222w(short	rd6ONRx_ZS,char	Nf_0,unsigned int	a53T2ik)

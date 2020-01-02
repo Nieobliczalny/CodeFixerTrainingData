@@ -21,7 +21,7 @@ int main(int argc, char** argv) {
 	unsigned long long	o01_57ba	=	-1060729523;
   long long  DwrO5kQm  =  242585263;
  unsigned int vNq76go = -265068401;
- unsigned char cdfu3_ = 1571396886;
+ unsigned char cdfu3_ = (unsigned char)1571396886;
   long  G7_UyU  =  65496400;
  unsigned short int o4nv = -814624716;
  long long t4qs1W8 = -894756054;
@@ -38,7 +38,7 @@ int main(int argc, char** argv) {
     unsigned char    BL2bn    =    0;
     unsigned char    AgoP    =    516945978;
     unsigned int    Q79vmrMA0v    =    -786528036;
- unsigned short int Q2Ht85c5bI = -360146650;
+ unsigned short int Q2Ht85c5bI = (unsigned short)-360146650;
 	unsigned short	Yhxe_F	=	-2007628916;
   double  oOhsf  =  353664165;
 	int	u4p1khOlq	=	1228730923;
@@ -325,7 +325,7 @@ case 6:
 oOhsf = (int)floor(p2hluss0K4);
 break;
 case 7:
-v2t784r22 = (DwrO5kQm > -43378784) ? -975932673 : -944107137;
+v2t784r22 = (DwrO5kQm > -43378784) ? -975932673 : (short)-944107137;
 break;
 default:
 a804k590 >>= 1559271260;

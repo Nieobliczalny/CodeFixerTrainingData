@@ -39,7 +39,7 @@ int main(void) {
   unsigned int  h6jZ5m5S;
   h6jZ5m5S  =  -2078049091;
   short int  Z0JK4_R;
-  Z0JK4_R  =  -989693894;
+  Z0JK4_R  =  (short)-989693894;
 	unsigned long	nhxUw5zS;
 	nhxUw5zS	=	1823068048;
  float lL_V_;
@@ -53,7 +53,7 @@ int main(void) {
   char  xA8lLzq;
   xA8lLzq  =  -76575261;
   short  Uxaq;
-  Uxaq  =  323630290;
+  Uxaq  =  (short)323630290;
   long long  h_sQPu;
   h_sQPu  =  221780305;
  char ll3e8rH9;
@@ -71,7 +71,7 @@ int main(void) {
     unsigned long long    ft1n_Qu5;
     ft1n_Qu5    =    -1941799553;
 	short	ijk5rc_p;
-	ijk5rc_p	=	1782689669;
+	ijk5rc_p	=	(short)1782689669;
   long  k4JUa72;
   k4JUa72  =  953336465;
 	unsigned char	g6avvJm6w;
@@ -83,7 +83,7 @@ int main(void) {
  float dx_726;
  dx_726 = 1974174777;
     short    m_Q1Iw4;
-    m_Q1Iw4    =    -286674361;
+    m_Q1Iw4    =    (short)-286674361;
  int odkNM9;
  odkNM9 = 1992998964;
 	unsigned long	XsJ1;
@@ -101,7 +101,7 @@ try
 {
 for (int k = 0; k < 8; ++k)
 {
-sx1ze = (DI_HMakeA4 < Xer7) ? x8sW : Vs_2f(756119980, -494370915, 483389123);
+sx1ze = (DI_HMakeA4 < Xer7) ? x8sW : Vs_2f((unsigned short)756119980, -494370915, 483389123);
 }
 }
 catch (int& errorCode)
@@ -167,7 +167,7 @@ lL_V_ = vyyK02Q(-2129611772);
 }
 else if (k4JUa72 < -1810793493)
 {
-DI_HMakeA4 = X8o5Q(504913395, -725149348, 1806280281, 2066054525, 44205639);
+DI_HMakeA4 = X8o5Q(504913395, -725149348, 1806280281, 2066054525, (short)44205639);
 }
 else if (g6avvJm6w & 1303758739)
 {
@@ -277,7 +277,7 @@ XNV_xfLz1d = (int)floor(mJSo_FO_o6);
 break;
 case 'd':
 case 'D':
-DI_HMakeA4 = X8o5Q(1241113255, 828985170, g6avvJm6w, XsJ1, -662304909);
+DI_HMakeA4 = X8o5Q(1241113255, 828985170, g6avvJm6w, XsJ1, (short)-662304909);
 break;
 }
 }
@@ -358,7 +358,7 @@ i--;
 while (i >= 0);
 }
 
-cout << THqhA4 << dx_726 << Vs_2f(ll3e8rH9, 632727195, -2095753791) << Vs_2f(-1019385133, 697952007, Tylrm2i2_X) << endl;
+cout << THqhA4 << dx_726 << Vs_2f(ll3e8rH9, 632727195, -2095753791) << Vs_2f((unsigned short)-1019385133, 697952007, Tylrm2i2_X) << endl;
 {
 int i = 1;
 while (i >= 0)
@@ -579,7 +579,7 @@ vn7wSm3 = X8o5Q(Z0JK4_R, lL_V_, 2101301285, 1609300311, 1800968402);
 }
 else if (ll3e8rH9 >= -1798004583)
 {
-ft1n_Qu5 = Vs_2f(446753408, k4JUa72, 1683526643);
+ft1n_Qu5 = Vs_2f((unsigned short)446753408, k4JUa72, 1683526643);
 }
 else
 {

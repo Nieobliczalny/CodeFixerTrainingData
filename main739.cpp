@@ -103,7 +103,7 @@ case 'g':
 M_DbjqrM = Su2_sL(384152859, tPS3m, M_DbjqrM, 37463863);
 break;
 case 'h':
-BcgjCiX = Hh92w(1290639981, vOXhIA, AKkgge5e);
+BcgjCiX = Hh92w((char)1290639981, vOXhIA, AKkgge5e);
 break;
 case 'i':
 M_DbjqrM = Su2_sL(761512364, -1123230979, -1030814087, -1708977588);
@@ -124,7 +124,7 @@ while (i >= 0);
 }
 
 vV21_5 = Su2_sL(1890264854, 405659472, Kkc_, XB40dcM);
-cout << Hh92w(-1141167642, V9a4Bl2, 1997333282) << endl;
+cout << Hh92w(-1141167642, V9a4Bl2, (unsigned short)1997333282) << endl;
 if (xd9Bx != x9QUDF1)
 {
 if ((i9R5I != 501373087) && (tr3B <= 1336840162))
@@ -140,7 +140,7 @@ k++;
 }
 else
 {
-cout << V9a4Bl2 << Su2_sL(tr3B, -583287166, 1473125214, XB40dcM) << Su2_sL(tr3B, -868803121, Kkc_, 1756339636) << "Q7i1dS" << Hh92w(690715494, V9a4Bl2, -1203363629) << endl;
+cout << V9a4Bl2 << Su2_sL(tr3B, -583287166, 1473125214, XB40dcM) << Su2_sL(tr3B, -868803121, Kkc_, 1756339636) << "Q7i1dS" << Hh92w((char)690715494, V9a4Bl2, -1203363629) << endl;
 }
 }
 else
@@ -175,7 +175,7 @@ SpzIbOzq_9 = Su2_sL(tr3B, V9a4Bl2, -1122049465, XB40dcM) + 541066080;
 }
 else if (r_8HV_P)
 {
-r_8HV_P = Hh92w(19870399, SpzIbOzq_9, 203436180);
+r_8HV_P = Hh92w(19870399, SpzIbOzq_9, (unsigned short)203436180);
 }
 else if (M_DbjqrM == -594154796)
 {
@@ -187,7 +187,7 @@ cout << "g4grCK" << "Ir5Lu5" << Y87Y41 << "mP0x2u8Y7" << "I_92" << endl;
 }
 else
 {
-cout << "JD_4DHMi" << AKkgge5e << "oyZC_YYfzf" << Hh92w(1902122515, SpzIbOzq_9, -1287993586) << Hh92w(r_8HV_P, -474552258, vV21_5) << endl;
+cout << "JD_4DHMi" << AKkgge5e << "oyZC_YYfzf" << Hh92w(1902122515, SpzIbOzq_9, (unsigned short)-1287993586) << Hh92w(r_8HV_P, -474552258, vV21_5) << endl;
 }
 Y87Y41 = (int)(Df35j0a);
 try
@@ -200,7 +200,7 @@ case 0:
 BcgjCiX = Hh92w(-407855311, XB40dcM, l07b);
 break;
 case 1:
-M8vlqr99DV = Hh92w(-1793960722, 579290278, Y87Y41);
+M8vlqr99DV = Hh92w((char)-1793960722, 579290278, Y87Y41);
 break;
 case 2:
 Y87Y41 = Hh92w(Y87Y41, Df35j0a, 1720966466);
@@ -212,7 +212,7 @@ break;
 }
 else
 {
-cout << tr3B << tr3B << M_DbjqrM << Hh92w(-1322968905, Df35j0a, -530480572) << endl;
+cout << tr3B << tr3B << M_DbjqrM << Hh92w(-1322968905, Df35j0a, (unsigned short)-530480572) << endl;
 }
 }
 catch (int& errorCode)
@@ -293,7 +293,7 @@ case 2:
 x9QUDF1 /= XB40dcM;
 break;
 case 3:
-YZYW_MDJ_g = Hh92w(449465266, yBLka8x1FK, M8vlqr99DV);
+YZYW_MDJ_g = Hh92w((char)449465266, yBLka8x1FK, M8vlqr99DV);
 break;
 default:
 BcgjCiX = YZYW_MDJ_g * tr3B;
@@ -337,7 +337,7 @@ case 4:
 r_8HV_P = (tPS3m != l07b) ? Df35j0a : SpzIbOzq_9;
 break;
 case 5:
-xd9Bx = Hh92w(-2116986248, M_DbjqrM, 1357919147);
+xd9Bx = Hh92w((char)-2116986248, M_DbjqrM, 1357919147);
 break;
 default:
 x9QUDF1 = i9R5I % Kkc_;
@@ -355,7 +355,7 @@ catch (int& errorCode)
 SpzIbOzq_9 -= M8vlqr99DV;
 }
 
-cout << Hh92w(-14704816, x9QUDF1, 1374441397) / M_DbjqrM << endl;
+cout << Hh92w(-14704816, x9QUDF1, (unsigned short)1374441397) / M_DbjqrM << endl;
 vV21_5 = Su2_sL(-561579016, vV21_5, -1826223613, V9a4Bl2);
 BcgjCiX = (int)(Kkc_);
 
@@ -398,7 +398,7 @@ r_8HV_P = r_8HV_P & tr3B;
 }
 else if (M_DbjqrM > 1002951580)
 {
-xd9Bx = Hh92w(1976197693, -1240084387, Y87Y41);
+xd9Bx = Hh92w((char)1976197693, -1240084387, Y87Y41);
 }
 else
 {
@@ -440,7 +440,7 @@ else if (tPS3m == 1973431764)
 {
 for (int k = 0; k < 1; ++k)
 {
-SpzIbOzq_9 = Hh92w(SpzIbOzq_9, -575475732, -1599891663);
+SpzIbOzq_9 = Hh92w(SpzIbOzq_9, -575475732, (unsigned short)-1599891663);
 }
 }
 else
@@ -501,7 +501,7 @@ tPS3m /= 1230666179;
 }
 else
 {
-cout << Hh92w(-645232839, -1177696671, -222833956) << endl;
+cout << Hh92w((char)-645232839, -1177696671, -222833956) << endl;
 }
 
 try
@@ -531,7 +531,7 @@ tr3B = Hh92w(tr3B, 1988611400, -688209243);
 switch (yBLka8x1FK)
 {
 case 0:
-yBLka8x1FK = Hh92w(1798090191, -100032598, 718723442);
+yBLka8x1FK = Hh92w((char)1798090191, -100032598, 718723442);
 break;
 case 1:
 r_8HV_P = (int)abs(XB40dcM);
@@ -566,7 +566,7 @@ int i = 0;
 do
 {
 i++;
-cout << vOXhIA << Su2_sL(vV21_5, yBLka8x1FK, -1795034301, V9a4Bl2) << Kkc_ << Hh92w(-535538776, 1463120288, 2070488633) << endl;
+cout << vOXhIA << Su2_sL(vV21_5, yBLka8x1FK, -1795034301, V9a4Bl2) << Kkc_ << Hh92w(-535538776, 1463120288, (unsigned short)2070488633) << endl;
 }
 while (i < 3);
 }

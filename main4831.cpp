@@ -23,7 +23,7 @@ int main(void) {
   long long  Yndh7_g_  =  -1002383584;
   unsigned char  d34W_I  =  -1079413526;
  long uZxDCJj = -88675911;
- unsigned short UzS97EL = -1131027863;
+ unsigned short UzS97EL = (unsigned short)-1131027863;
   unsigned char  FgjL  =  383856206;
   long long  fZTUY2GkgF  =  1560735998;
 	short int	EKII8t19	=	223089709;
@@ -34,7 +34,7 @@ int main(void) {
 	double	LGtW40t639	=	-1074954433;
   short  B__xZe2qa  =  -923615150;
     long long    uzt8So    =    -846741524;
- short int W0W3 = 851665458;
+ short int W0W3 = (short)851665458;
  int F_j7Y = -613064215;
  unsigned long ggICOuX = 530086017;
 	unsigned long long	d6E4	=	-1088282112;
@@ -49,7 +49,7 @@ int main(void) {
 	int	Xcl7r1UZ	=	0;
   int  v1G9es  =  1846269516;
   short int  n3e_1Jwg  =  -1253079869;
-    short int    GaufWs    =    1483443555;
+    short int    GaufWs    =    (short)1483443555;
   double  rlwdi  =  1042947679;
   long double  MU__Ct  =  -1925129213;
   unsigned short int  EPXZG_8OLl  =  1204451513;
@@ -59,7 +59,7 @@ int main(void) {
   unsigned char  o7G7kM4  =  2046435999;
 	unsigned short int	bXgWvJbA	=	934473342;
 	unsigned short int	ldK99C1nj	=	797691533;
-  unsigned short int  WgU3DAr9  =  620792164;
+  unsigned short int  WgU3DAr9  =  (unsigned short)620792164;
 	short int	sxDd9Tc093	=	926606210;
     int    P_j8    =    -1799900091;
 	long double	Ukq5y	=	-32176678;
@@ -75,7 +75,7 @@ int main(void) {
 	int	aHf86Bj6p	=	1567633945;
     long    RU1FW    =    -1408511101;
     unsigned char    IfNFW    =    200245369;
-    unsigned char    W560XFR6T8    =    1177123782;
+    unsigned char    W560XFR6T8    =    (unsigned char)1177123782;
 	long double	Yra76HVR4	=	1176825523;
 	long double	mx6j	=	706706552;
   unsigned char  JsU_85tE  =  -966774200;
@@ -90,7 +90,7 @@ int main(void) {
     unsigned long    Lc9kQo1FW    =    203797556;
  float h3At = -161025348;
   long long  PRSf5  =  -1826527265;
-	short int	AG9_nTDn8	=	-265772178;
+	short int	AG9_nTDn8	=	(short)-265772178;
     char    k98jVqH4a6    =    -482908891;
  double zGkZ9chkh0 = -1761266349;
 
@@ -473,6 +473,6 @@ short int    l3194gc(long    vO_tgXx,int    T4bw)
 }
 
 unsigned short  k5Vl()  {
-  return  -1978885134;
+  return  (unsigned short)-1978885134;
 }
 

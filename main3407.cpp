@@ -100,7 +100,7 @@ else if (AyIC5 == 2054360829)
 {
 if (cr7yg2x)
 {
-CzrvTBZbb = nqO_(-1909020957, XJHmYy, -25865166, 1174377590, 683877450);
+CzrvTBZbb = nqO_(-1909020957, XJHmYy, (short)-25865166, 1174377590, 683877450);
 }
 else if (((RbnH != -2040985593) && (GAr7jdv)) && (nQ3i15 > -1372332270))
 {
@@ -124,7 +124,7 @@ tewMnBGb6 = nqO_(tewMnBGb6, -1228768075, zvJJcyQv, Pj22O, FTSzHhm5U8);
 }
 else
 {
-CzrvTBZbb = nqO_(CzrvTBZbb, ku060334, -1846181459, j_03P3R8, -2143890967);
+CzrvTBZbb = nqO_(CzrvTBZbb, ku060334, (short)-1846181459, j_03P3R8, -2143890967);
 }
 }
 else if (jE02x77J80 & -956323152)
@@ -147,7 +147,7 @@ ZdMTi_JM5_ = D7_7();
 }
 else if (Zoe0nO_ >= -1391926752)
 {
-Q58Dg = nqO_(-1090353939, 1970494446, 1369236342, -6037343, V54xgJG4Qm) & sql89yW;
+Q58Dg = nqO_(-1090353939, (unsigned short)1970494446, 1369236342, -6037343, V54xgJG4Qm) & sql89yW;
 }
 else
 {
@@ -161,7 +161,7 @@ if ((qzJsOGLrHS <= tewMnBGb6) || ((kHLCW51cRn <= 517115554) && (zAb26sVc)))
 {
 if (onawNPzPJ < 2142090827)
 {
-std::cout << VUGRElEZKF << nqO_(1432869933, -921703785, -1614622403, NXFi, -122666993) << std::endl;
+std::cout << VUGRElEZKF << nqO_(1432869933, (unsigned short)-921703785, -1614622403, NXFi, -122666993) << std::endl;
 }
 }
 else if (W5fA1jA1IA > 349597447)
@@ -232,7 +232,7 @@ NXFi = (int)abs(FTSzHhm5U8);
 break;
 case 'c':
 case 'C':
-tblL5 = nqO_(176029033, -533001553, 1244448365, 1367669963, -520998216);
+tblL5 = nqO_(176029033, (unsigned short)-533001553, 1244448365, 1367669963, -520998216);
 break;
 case 'd':
 case 'D':
@@ -244,7 +244,7 @@ Vo5Zy4 = nqO_(Vo5Zy4, -997205805, WcBbc63, kHLCW51cRn, -938741701);
 break;
 case 'f':
 case 'F':
-m6D2c = nqO_(1430353268, -1910867279, WcBbc63, kHLCW51cRn, W3__e_) % tI893_7e3;
+m6D2c = nqO_(1430353268, (unsigned short)-1910867279, WcBbc63, kHLCW51cRn, W3__e_) % tI893_7e3;
 break;
 case 'g':
 case 'G':
@@ -590,7 +590,7 @@ case 'b':
 xBf0 = (int)abs(C2mgnW);
 break;
 case 'c':
-b6VJY = nqO_(-1233333915, -1128025144, ZdMTi_JM5_, -1996955143, W5fA1jA1IA);
+b6VJY = nqO_(-1233333915, (unsigned short)-1128025144, ZdMTi_JM5_, -1996955143, W5fA1jA1IA);
 break;
 }
 }

@@ -25,7 +25,7 @@ int main() {
 	int	FMf59qAa	=	-747540634;
 	char	aFa76G8r4r	=	-1221575110;
     unsigned long    aS_60Q4    =    0;
-  short  w8Gy186n  =  599034735;
+  short  w8Gy186n  =  (short)599034735;
   long  Ke693E  =  797020480;
  unsigned short vST_A4C7os = 0;
   unsigned long  DevzdQS  =  1334686205;
@@ -37,7 +37,7 @@ int main() {
  unsigned int FS1c3S = 1917423293;
   unsigned long  bNenZa  =  21635731;
  unsigned int GoO_c_87 = 1700458223;
-	char	k_85_kqQT6	=	142904291;
+	char	k_85_kqQT6	=	(char)142904291;
     unsigned short    C11fRLqU6o    =    -1900094338;
 	int	v8Zpzd3la	=	883612918;
 	unsigned long	M2aV	=	1296339156;

@@ -16,7 +16,7 @@ int main(int argc, char** argv) {
     unsigned char    vbE55ai;
     vbE55ai    =    -1389865052;
   unsigned short int  h4s91;
-  h4s91  =  -438877090;
+  h4s91  =  (unsigned short)-438877090;
  unsigned long long jw_69;
  jw_69 = 1772458117;
  long P5oNdo;
@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
     char    oXv8ST_97z;
     oXv8ST_97z    =    -1129190754;
     unsigned char    WmP0i6;
-    WmP0i6    =    338271159;
+    WmP0i6    =    (unsigned char)338271159;
 	unsigned long	Cw6Zq7;
 	Cw6Zq7	=	530288024;
  char M0TK7C0u;
@@ -48,7 +48,7 @@ int main(int argc, char** argv) {
   unsigned int  UO40a0_xT;
   UO40a0_xT  =  -106745686;
     short    Wv1XjA;
-    Wv1XjA    =    -114962409;
+    Wv1XjA    =    (short)-114962409;
     short int    N3PmZDO;
     N3PmZDO    =    -608036107;
 	int	V64_QgX_;
@@ -82,7 +82,7 @@ int main(int argc, char** argv) {
  long double cc13;
  cc13 = -327604728;
     short int    fP6d;
-    fP6d    =    -1421820706;
+    fP6d    =    (short)-1421820706;
  int xC5b93kihO;
  xC5b93kihO = -2067861709;
 	unsigned short	Npoiji;
@@ -94,7 +94,7 @@ int main(int argc, char** argv) {
 	unsigned long	Ru7Q0EHcl;
 	Ru7Q0EHcl	=	2083985417;
   unsigned short  QVM12Nos1;
-  QVM12Nos1  =  -1321307888;
+  QVM12Nos1  =  (unsigned short)-1321307888;
  unsigned short int CMGl1;
  CMGl1 = -652041477;
  long double Lj6690;
@@ -200,7 +200,7 @@ XKs6 = sgEv4u32WA(-644265963, 1052687355, -720420937);
 break;
 case 'b':
 case 'B':
-XKs6 = sgEv4u32WA(-1167228881, 1914852145, 488889387);
+XKs6 = sgEv4u32WA(-1167228881, 1914852145, (char)488889387);
 break;
 case 'c':
 case 'C':
@@ -326,7 +326,7 @@ try
 {
 if (IVP9_2AYwr > -1473232756)
 {
-XKs6 = sgEv4u32WA(uOV6Ib9g, 1943303853, 1923983878);
+XKs6 = sgEv4u32WA(uOV6Ib9g, 1943303853, (char)1923983878);
 }
 else if ((jw_69) || (n3Gnev >= 452612497))
 {
@@ -449,7 +449,7 @@ int j = 9;
 while (j >= 0)
 {
 j--;
-std::cout << sgEv4u32WA(1597569853, 2065052593, cc13) << sgEv4u32WA(N3PmZDO, 1258760666, -1208151491) << U_Pz00N0q << sgEv4u32WA(N3PmZDO, -1089076662, -1488030569) << std::endl;
+std::cout << sgEv4u32WA(1597569853, 2065052593, cc13) << sgEv4u32WA(N3PmZDO, 1258760666, -1208151491) << U_Pz00N0q << sgEv4u32WA(N3PmZDO, -1089076662, (char)-1488030569) << std::endl;
 }
 }
 }

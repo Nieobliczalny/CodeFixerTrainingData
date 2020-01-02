@@ -29,7 +29,7 @@ int main() {
     unsigned long long    YRCHuNo_L    =    1615178722;
   unsigned long long  KS812aE6t  =  1947390248;
  long long L_7_wB7XU5 = -1321636633;
-    short    K89DP    =    -507932886;
+    short    K89DP    =    (short)-507932886;
   unsigned long long  A3wuR26a  =  -682356389;
     long double    L2D4WkPr6z    =    1248719963;
     unsigned short int    wJ3bF    =    -57670312;
@@ -41,7 +41,7 @@ int main() {
     int    j_1aZrSkvV    =    668923272;
     float    H9b_82LL    =    1394489411;
  int b3F4 = 1872385499;
-	char	E56edGZxm	=	396069528;
+	char	E56edGZxm	=	(char)396069528;
  double xPlGkjG = -795572296;
 	unsigned short int	e3E942VtIO	=	1542764793;
  long es1ZQG0ivG = 1292063832;
@@ -51,7 +51,7 @@ int main() {
  unsigned short int U62O_sX = 912872592;
   short int  tFgO  =  1934228925;
   short int  QfHe  =  974452620;
-	unsigned short	kim6q	=	916915143;
+	unsigned short	kim6q	=	(unsigned short)916915143;
     short int    Jx0pi7    =    1589609068;
  long double IcP5 = 684313100;
  short eOLnJ_ = 383251612;
@@ -61,7 +61,7 @@ int main() {
 	unsigned short	Kbd1L7	=	-731759545;
 	unsigned short int	SmbQf	=	-863251504;
   int  h_v9  =  693764685;
-    short int    dj4mV2Ai2k    =    2047688860;
+    short int    dj4mV2Ai2k    =    (short)2047688860;
   double  dY1gN5  =  1980010137;
  long Gd5Q2m = -110823059;
  long double p4801NL9 = -57722731;
@@ -78,7 +78,7 @@ int main() {
  int y_w_6wS0vg = 740108989;
  char kPR99 = 1973916695;
   unsigned long long  F32DoIQi  =  -1451872996;
- unsigned short int C035t = -1392589343;
+ unsigned short int C035t = (unsigned short)-1392589343;
 	float	g4TJGl	=	-385119385;
     unsigned int    A8x0H13    =    827796098;
   unsigned short int  DEzu2  =  0;
@@ -157,7 +157,7 @@ if (e3E942VtIO & A8x0H13)
 {
 for (int k = 10; k >= 0; --k)
 {
-OSa1PUU18 = Uf060xfz6(1522274798, -494753888, SmbQf);
+OSa1PUU18 = Uf060xfz6(1522274798, (unsigned char)-494753888, SmbQf);
 }
 }
 else
@@ -194,7 +194,7 @@ y_57g1nNvB = E56edGZxm * 1241399204;
 std::cout << A5h3Wum3Vs(IcP5, 324450943, 94186613) << A5h3Wum3Vs(IcP5, Jx0pi7, H9b_82LL) << Uf060xfz6(IcP5, Jx0pi7, -486081652) << std::endl;
 if (L2D4WkPr6z >= 349943170)
 {
-std::cout << A5h3Wum3Vs(1647840835, Jx0pi7, -880199176) << A5h3Wum3Vs(995707103, 769873617, H9b_82LL) << std::endl;
+std::cout << A5h3Wum3Vs(1647840835, Jx0pi7, (unsigned short)-880199176) << A5h3Wum3Vs(995707103, 769873617, H9b_82LL) << std::endl;
 }
 else if (torU4t85_)
 {
@@ -238,7 +238,7 @@ std::cout << L_vgxEzS0Y(Kbd1L7, -248563183) << std::endl;
 }
 for (int i = 0; i < 8; ++i)
 {
-std::cout << xPlGkjG << L_vgxEzS0Y(-1927109794, jkz9RP94vU) << "ht_6s" << std::endl;
+std::cout << xPlGkjG << L_vgxEzS0Y((unsigned char)-1927109794, jkz9RP94vU) << "ht_6s" << std::endl;
 }
 
 {
@@ -316,7 +316,7 @@ y_w_6wS0vg = A5h3Wum3Vs(44972771, y_w_6wS0vg, -362381637);
 torU4t85_ = (int)floor(L2D4WkPr6z);
 std::cout << "Nf9_PDh" << "tJ1B" << U62O_sX << OSa1PUU18 << std::endl;
 
-YRCHuNo_L = H3_FSOyu / Uf060xfz6(DEzu2, -198142633, eOLnJ_);
+YRCHuNo_L = H3_FSOyu / Uf060xfz6(DEzu2, (unsigned char)-198142633, eOLnJ_);
 if (k4_sA80I > -1687132327)
 {
 if (Bd1tX9 < bQ31fI)
@@ -358,7 +358,7 @@ pAI715OSI = A5h3Wum3Vs(2142850823, -861737122, 964427454);
 }
 }
 
-Bo44SPApk2 = Uf060xfz6(669617810, 914592083, Jx0pi7);
+Bo44SPApk2 = Uf060xfz6((unsigned short)669617810, 914592083, Jx0pi7);
 
 if (wJ3bF >= g4TJGl)
 {
@@ -424,7 +424,7 @@ LgGFqo36 = (int)abs(Jx0pi7);
 }
 else if (((s3f806TE8t & FKhL6W07) && (F6VJn6 & FKhL6W07)) || ((H3_FSOyu < 537409191) && (wJ3bF == -182111355)))
 {
-std::cout << L_vgxEzS0Y(-1089701026, -590074778) << A5h3Wum3Vs(-1254923674, VlGx40, QfHe) << Uf060xfz6(OSa1PUU18, VlGx40, QfHe) << std::endl;
+std::cout << L_vgxEzS0Y(-1089701026, (short)-590074778) << A5h3Wum3Vs(-1254923674, VlGx40, QfHe) << Uf060xfz6(OSa1PUU18, VlGx40, QfHe) << std::endl;
 }
 else if (Bd1tX9 > OSa1PUU18)
 {
@@ -664,7 +664,7 @@ tFgO = (int)abs(K89DP);
 break;
 case 'c':
 case 'C':
-Bd1tX9 = A5h3Wum3Vs(-819179484, L_7_wB7XU5, -474093496);
+Bd1tX9 = A5h3Wum3Vs(-819179484, L_7_wB7XU5, (unsigned short)-474093496);
 break;
 case 'd':
 case 'D':

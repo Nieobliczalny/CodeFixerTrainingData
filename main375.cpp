@@ -13,6 +13,7 @@ using namespace std;
 int main(int argc, char** argv)
 {
  unsigned long long bkvi = 0;
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
 	unsigned short	ON6I	=	-210795625,	nOErEcT25	=	603811604,	fWy4zNm	=	-295508561,	m4_V	=	-853072659,	Uni2jA_S6F	=	-1898144451,	j0Zw4MQ9X4	=	-496709399,	sy18qp	=	-1839459162,	EWR_2w	=	643071556,	Bg6w2P23u	=	1558322539;
 
 std::cout << fWy4zNm << "z8_7nNO" << "NSz27_q20" << "O6793" << std::endl;

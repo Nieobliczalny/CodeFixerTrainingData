@@ -21,7 +21,7 @@ int main(int argc, char** argv)
 {
  unsigned long long W2MqhlG = -1067434354;
  unsigned short int fl9e_7H = 560014747;
-    unsigned short    LB9l    =    171400575;
+    unsigned short    LB9l    =    (unsigned short)171400575;
     int    x5mj8J2O71    =    179032748;
     unsigned long long    kKw5JxuD_Y    =    1255320780;
  long long pbBa2Efe = 0;
@@ -36,7 +36,7 @@ int main(int argc, char** argv)
   short  CtXoat5F  =  -1531971106;
  short Gtn2 = 0;
     unsigned long    CdQt    =    1626786117;
-  char  HDtDu66T  =  -201944934;
+  char  HDtDu66T  =  (char)-201944934;
 	long long	KXst	=	-577469994;
     unsigned long long    tsaCf1U    =    856348382;
     unsigned int    RE5t    =    -371044130;
@@ -47,7 +47,7 @@ int main(int argc, char** argv)
 	unsigned char	eiNuAtS6	=	529126799;
     char    tgxd    =    368479169;
     int    GPaFGc    =    -580807412;
-    char    gHi7_9h    =    1965487001;
+    char    gHi7_9h    =    (char)1965487001;
   double  BPfM6rF0U  =  -1822631235;
     unsigned short    Fgd424bo    =    -587779827;
 	short	K69978	=	1433860497;
@@ -58,7 +58,7 @@ int main(int argc, char** argv)
     unsigned long    Kf0jgbITW    =    -160944074;
 	double	UG2lJIarp	=	744384524;
 	int	V5MxuNI8R	=	-2023203907;
-    short    ndYv    =    -746333068;
+    short    ndYv    =    (short)-746333068;
   unsigned long long  Txi7  =  1296312361;
 	long	ZgI9h3v	=	1240187242;
  int WUk4HlI = 1649357820;
@@ -68,7 +68,7 @@ int main(int argc, char** argv)
 	unsigned int	J1_T	=	-698685860;
  float Z_995u = 2066667392;
   unsigned long  K4bz7q2Wmo  =  0;
-	short int	FP1G7Fq	=	1003284076;
+	short int	FP1G7Fq	=	(short)1003284076;
 	int	HvpWF	=	1526867725;
     unsigned short    vB3VnN    =    -1977293910;
  short int U3uc8q54 = 1748725650;
@@ -82,7 +82,7 @@ int main(int argc, char** argv)
 	int	ba7xdtHZb	=	619763083;
 	double	QKRVa4i4l	=	-862513747;
  double Etu38qW84 = -2098098317;
-  unsigned short  M6Ik_P  =  -272832936;
+  unsigned short  M6Ik_P  =  (unsigned short)-272832936;
 	unsigned long long	H_oppwT_	=	-875866281;
 	long double	Pt7FAIR2	=	-1608088120;
     float    ttThxm    =    -1636703552;

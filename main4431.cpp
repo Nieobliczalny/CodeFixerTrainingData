@@ -76,7 +76,7 @@ a321Ua4 = Txls0Py0M ^ 1094964676;
 }
 }
 Y0a0yNRGhz = XIuJ35 + lM3w1K6;
-std::cout << dC057(1117172692, 1024016121, -1157756945) << std::endl;
+std::cout << dC057(1117172692, 1024016121, (char)-1157756945) << std::endl;
 e456hOQ = lOOpE / iKZ0s_I;
 return 0;
 }

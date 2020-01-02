@@ -26,7 +26,7 @@ int main(void) {
     long double    H7jUg;
     H7jUg    =    13813176;
   unsigned short  m_Q0HiQ;
-  m_Q0HiQ  =  -1924599463;
+  m_Q0HiQ  =  (unsigned short)-1924599463;
   unsigned short  z537Tp3Ca;
   z537Tp3Ca  =  -1257565042;
 	double	Rx67_3tO7X;
@@ -42,7 +42,7 @@ int main(void) {
  long SO8as9U;
  SO8as9U = -329811801;
     char    O_2FYLaMnG;
-    O_2FYLaMnG    =    -1219253690;
+    O_2FYLaMnG    =    (char)-1219253690;
  long rysA;
  rysA = -541909494;
  short sEXT4byG;
@@ -54,7 +54,7 @@ int main(void) {
   int  gg9L;
   gg9L  =  1761502876;
     char    elyP1h7sW;
-    elyP1h7sW    =    -356868105;
+    elyP1h7sW    =    (char)-356868105;
   long  DRPB2MP;
   DRPB2MP  =  -1434624777;
  unsigned long M5iX13;
@@ -78,7 +78,7 @@ int main(void) {
     float    T3R4t;
     T3R4t    =    -995276487;
   unsigned char  dn_0IS;
-  dn_0IS  =  828914062;
+  dn_0IS  =  (unsigned char)828914062;
     float    DbTPV2CC;
     DbTPV2CC    =    -1990765933;
   long long  Wh9Z_D;
@@ -96,7 +96,7 @@ int main(void) {
 	float	TY9Fz;
 	TY9Fz	=	-513491032;
 	short int	UPK_0LdMC2;
-	UPK_0LdMC2	=	119350860;
+	UPK_0LdMC2	=	(short)119350860;
 	long	Os204dB_V;
 	Os204dB_V	=	-782793814;
     unsigned long long    s2OgDl0;
@@ -108,7 +108,7 @@ int main(void) {
 	char	QO_vL__H;
 	QO_vL__H	=	1902240476;
   unsigned short int  ivX517a4MA;
-  ivX517a4MA  =  1238713577;
+  ivX517a4MA  =  (unsigned short)1238713577;
  short int rZKfAYiLZ;
  rZKfAYiLZ = 842549112;
   char  i034_rL2X;
@@ -122,7 +122,7 @@ int main(void) {
   int  OT9K;
   OT9K  =  -1735914131;
 	char	h9fE;
-	h9fE	=	-1560329475;
+	h9fE	=	(char)-1560329475;
  long L8pPrvr98p;
  L8pPrvr98p = 282724620;
 	unsigned long long	k7R66uR3;
@@ -134,7 +134,7 @@ int main(void) {
     long long    P167W;
     P167W    =    -2142465325;
     unsigned char    W6e_vg7;
-    W6e_vg7    =    690549524;
+    W6e_vg7    =    (unsigned char)690549524;
  unsigned long d279;
  d279 = -1701168052;
 	double	Wv4y5;
@@ -146,7 +146,7 @@ int main(void) {
  unsigned long yRnNHT1;
  yRnNHT1 = -1699561818;
 	short	AL43p_89u;
-	AL43p_89u	=	-63500618;
+	AL43p_89u	=	(short)-63500618;
     short    svlYiIf_;
     svlYiIf_    =    1275612540;
  long double f4L7VWv8;
@@ -158,7 +158,7 @@ int main(void) {
 	long	X8fn;
 	X8fn	=	-848236746;
     unsigned char    g4_Wc82OUr;
-    g4_Wc82OUr    =    -1903132942;
+    g4_Wc82OUr    =    (unsigned char)-1903132942;
 	unsigned short	kYp1Yd4;
 	kYp1Yd4	=	-345689217;
     int    yi4q45shaE;
@@ -180,7 +180,7 @@ int main(void) {
  long double im80;
  im80 = -485406586;
     short    k4JT4vE7Ly;
-    k4JT4vE7Ly    =    -1577293658;
+    k4JT4vE7Ly    =    (short)-1577293658;
   short  Sbcn7VD;
   Sbcn7VD  =  0;
     long    zSA466_Z5q;
@@ -358,7 +358,7 @@ Wnj2BD = (int)ceil(h7_b3);
 
 std::cout << -410924992 / KA2o_ << std::endl;
 
-std::cout << vn6JNi1n6B(eFD0pI, 1609708912, DbTPV2CC, Za06f86g) << s2OgDl0 << pncv(575528854, kFhy, DbTPV2CC) << "GaDo" << std::endl;
+std::cout << vn6JNi1n6B(eFD0pI, (unsigned short)1609708912, DbTPV2CC, Za06f86g) << s2OgDl0 << pncv(575528854, kFhy, DbTPV2CC) << "GaDo" << std::endl;
 
 if (svlYiIf_ > rsI8110)
 {

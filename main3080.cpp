@@ -261,7 +261,7 @@ We2dD = NbQuIyAnf(194107921, 100390070);
 while (i < 10);
 }
 
-fcO9P = M15L9(-2112733629);
+fcO9P = M15L9((unsigned short)-2112733629);
 
 {
 int i = 0;
@@ -430,7 +430,7 @@ case 5:
 r3Diz9 %= 660796032;
 break;
 case 6:
-snt6G6YlIn = NbQuIyAnf(b5s2, -1164934184) >> 745146713;
+snt6G6YlIn = NbQuIyAnf(b5s2, (short)-1164934184) >> 745146713;
 break;
 case 7:
 We2dD = NbQuIyAnf(-442866908, pno4Y);
@@ -655,7 +655,7 @@ case 5:
 b5s2 = (int)abs(fcO9P);
 break;
 case 6:
-HXe49_ = M15L9(-936628058);
+HXe49_ = M15L9((unsigned short)-936628058);
 break;
 case 7:
 jHG_XrJ = KPRumHH ^ 966287011;

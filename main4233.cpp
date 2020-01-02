@@ -62,7 +62,7 @@ qSv3d = k1r8WVRWC(r1p3rxOYb, 728285252, -783755651);
 }
 else
 {
-YxB_gXBLm = k1r8WVRWC(N675, ihq1HLcky, -1896102390);
+YxB_gXBLm = k1r8WVRWC(N675, ihq1HLcky, (short)-1896102390);
 }
 }
 }
@@ -100,7 +100,7 @@ iVUzRJTzn -= 1995013079;
 }
 else
 {
-z36my = C77T(-964734221, -1029361665, 109544501);
+z36my = C77T(-964734221, (char)-1029361665, 109544501);
 }
 ++j;
 }
@@ -181,7 +181,7 @@ while (k >= 0);
 }
 else if (YxB_gXBLm & -979827706)
 {
-RsXL = C77T(1321428094, 2003053144, -1923818345);
+RsXL = C77T(1321428094, (char)2003053144, -1923818345);
 }
 else if (YxB_gXBLm & J99FG)
 {
@@ -333,7 +333,7 @@ else if (J99FG > 1026595677)
 {
 if (ZiwK2a_zZ5)
 {
-i2foccQ1bZ = k1r8WVRWC(-303518384, 1092255223, 1906396478);
+i2foccQ1bZ = k1r8WVRWC((short)-303518384, 1092255223, 1906396478);
 }
 }
 else if (ihq1HLcky)
@@ -429,7 +429,7 @@ case 2:
 LC_eM = C77T(1398519995, i2foccQ1bZ, r1p3rxOYb);
 break;
 case 3:
-VO647dsH = C77T(-1624997420, 1895828417, -1478117342);
+VO647dsH = C77T((char)-1624997420, 1895828417, -1478117342);
 break;
 case 4:
 z36my = (int)ceil(WxjIxT8Y);
@@ -493,7 +493,7 @@ case 2:
 fn4O_15rU_ *= r17cL8w5;
 break;
 case 3:
-ihq1HLcky = C77T(-1126173382, ihq1HLcky, pQoe6);
+ihq1HLcky = C77T((char)-1126173382, ihq1HLcky, pQoe6);
 break;
 case 4:
 V_ine_ = V_ine_ + r17cL8w5;
@@ -556,7 +556,7 @@ else
 {
 try
 {
-V_ine_ = C77T(-1238006484, 1290274213, -361775744);
+V_ine_ = C77T(-1238006484, (char)1290274213, -361775744);
 }
 catch (int& errorCode)
 {
@@ -590,7 +590,7 @@ case 'b':
 fn4O_15rU_ *= 1683146555;
 break;
 case 'c':
-iVUzRJTzn = C77T(J99FG, 1220552104, -1403881368);
+iVUzRJTzn = C77T(J99FG, (char)1220552104, -1403881368);
 break;
 case 'd':
 iVUzRJTzn = C77T(-1297897246, -911920055, pQoe6);
@@ -622,7 +622,7 @@ while (k >= 0);
 }
 else
 {
-cout << "tC7KS" << "Q0yA46d" << k1r8WVRWC(-111467962, 401632364, 1404375077) << k1r8WVRWC(pQoe6, OtHuU0k6, i2foccQ1bZ) << endl;
+cout << "tC7KS" << "Q0yA46d" << k1r8WVRWC(-111467962, 401632364, (short)1404375077) << k1r8WVRWC(pQoe6, OtHuU0k6, i2foccQ1bZ) << endl;
 }
 }
 else

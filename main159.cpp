@@ -36,7 +36,7 @@ int main()
   long long  Rn9kGxya1a  =  0;
     long    h006    =    -322166603;
     unsigned int    x6Q_    =    -1370909914;
- char Z2hEc8BT2 = -1327834342;
+ char Z2hEc8BT2 = (char)-1327834342;
   unsigned long long  J3QJ  =  -1642295385;
     int    bdtS3    =    105010623;
  short fD64_A7h = -1282900689;
@@ -46,7 +46,7 @@ int main()
     long    joZa6e    =    -501551659;
  unsigned long long F8QPL = 820387988;
 	unsigned long long	wpBH651q	=	-1266914155;
-	unsigned char	c632DnH96W	=	-769990523;
+	unsigned char	c632DnH96W	=	(unsigned char)-769990523;
   long double  U5rJ  =  -1472056403;
  unsigned int fbuDk = -81451387;
   short  S5XWH027  =  -1579739576;
@@ -61,7 +61,7 @@ int main()
 	long double	KE6k	=	927582518;
  unsigned short yrj58Bzqc = 1556856425;
     double    N658i    =    -1241245050;
-  unsigned char  i8x_5H  =  330476682;
+  unsigned char  i8x_5H  =  (unsigned char)330476682;
 	float	fMWC	=	-1360029079;
   unsigned long long  NlT7bia  =  1726704219;
   float  l_9Zr8Uru  =  -852726130;
@@ -77,7 +77,7 @@ int main()
   unsigned long  J8J_  =  296039675;
  unsigned int jxZ8j_3 = -1061742447;
     unsigned long    o08IgOUVS    =    951832948;
-  short int  Y2uf  =  -2026076069;
+  short int  Y2uf  =  (short)-2026076069;
 	double	pwXGH	=	1926532741;
   long  ZaltLn  =  1289597574;
   char  acXGCK  =  -713567051;
@@ -203,7 +203,7 @@ case 2:
 LoQCn14H = od_A9AT(-545287598);
 break;
 case 3:
-Yrs7j = Hy6Ts7X(Yrs7j, -1555448158, jQ5el4Dz, ZXMSn0Ug, -1062253369);
+Yrs7j = Hy6Ts7X(Yrs7j, (short)-1555448158, jQ5el4Dz, ZXMSn0Ug, -1062253369);
 break;
 default:
 U5rJ = (int)floor(pwXGH);
@@ -241,7 +241,7 @@ cl52u8 = iq5j();
 }
 else
 {
-jxZ8j_3 = Hy6Ts7X(19023367, -1424947144, 815674267, 27834600, -1380549034);
+jxZ8j_3 = Hy6Ts7X(19023367, -1424947144, 815674267, 27834600, (short)-1380549034);
 }
 }
 else if (yrj58Bzqc >= 1194546317)
@@ -468,7 +468,7 @@ Rn9kGxya1a = od_A9AT(-553340510);
 }
 else
 {
-pwXGH = O0vn(-862839657) | Z2hEc8BT2;
+pwXGH = O0vn((short)-862839657) | Z2hEc8BT2;
 }
 }
 }

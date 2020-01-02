@@ -27,7 +27,7 @@ int main() {
  unsigned short Burv78T;
  Burv78T = -2142198934;
     short int    f8NW4MieZ1;
-    f8NW4MieZ1    =    1118946000;
+    f8NW4MieZ1    =    (short)1118946000;
  long zvzCNRCt;
  zvzCNRCt = 0;
     unsigned long    QH44Qw4v;
@@ -39,7 +39,7 @@ int main() {
   float  Hq7G;
   Hq7G  =  -1717461193;
   unsigned char  Wn4vWMw4;
-  Wn4vWMw4  =  343465142;
+  Wn4vWMw4  =  (unsigned char)343465142;
   long double  hLYjj;
   hLYjj  =  491310057;
 	unsigned long	nFTIpWzqvR;
@@ -49,7 +49,7 @@ int main() {
   char  vRV2X9f1;
   vRV2X9f1  =  -649475310;
   unsigned short int  e4s_;
-  e4s_  =  1229237127;
+  e4s_  =  (unsigned short)1229237127;
   unsigned long  c7qi0A98;
   c7qi0A98  =  274358524;
  unsigned long O1U6JZQp;

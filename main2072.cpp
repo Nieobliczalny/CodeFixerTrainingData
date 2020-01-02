@@ -143,7 +143,7 @@ F857 = (long)(s6Hz7Om);
 }
 else
 {
-SOl960 = tK6346qS(316561838, -1441219588, k14ODNI);
+SOl960 = tK6346qS(316561838, (short)-1441219588, k14ODNI);
 }
 }
 catch (int& errorCode)
@@ -257,7 +257,7 @@ j--;
 }
 else if (SOl960 > 924268474)
 {
-SOl960 = tK6346qS(290665543, 1617831013, -1895391406);
+SOl960 = tK6346qS(290665543, (short)1617831013, -1895391406);
 }
 else if (((CCcKn54oD >= 1284156369) && (r8s56tl < I7OvNs0)) || ((W16h & 628095843) || (I7OvNs0 != -1147385658)))
 {
@@ -285,7 +285,7 @@ for (int j = 10; j >= 0; --j)
 {
 if (((CX6W2Pim) || (izgIxwq5 != Op52mFi)) && (Fx_F9rSm1 < bxshj))
 {
-SOl960 = tK6346qS(2114040094, -180124431, G1CISgY65);
+SOl960 = tK6346qS(2114040094, (short)-180124431, G1CISgY65);
 }
 }
 }
@@ -317,7 +317,7 @@ case 3:
 IwD9HyKpU = nlnfliU8(IwD9HyKpU);
 break;
 case 4:
-SOl960 = tK6346qS(-889267365, 91328618, -325747314);
+SOl960 = tK6346qS((char)-889267365, 91328618, -325747314);
 break;
 default:
 IGWdmM = MWP_ ^ 1917888981;
@@ -403,7 +403,7 @@ break;
 }
 else if (S1k0Y3bWt == CX6W2Pim)
 {
-std::cout << tK6346qS(-1355843399, izgIxwq5, -1691173180) << tK6346qS(Y3MJ_, izgIxwq5, sUuS2xK3nd) << nlnfliU8(Y3MJ_) << fX37Ja << Ic79v_CmpR << std::endl;
+std::cout << tK6346qS((char)-1355843399, izgIxwq5, -1691173180) << tK6346qS(Y3MJ_, izgIxwq5, sUuS2xK3nd) << nlnfliU8(Y3MJ_) << fX37Ja << Ic79v_CmpR << std::endl;
 }
 else
 {
@@ -569,7 +569,7 @@ if (CX6W2Pim <= cNP4)
 {
 for (int k = 5; k >= 0; --k)
 {
-SOl960 = tK6346qS(-1231601865, -1894152187, -1074915346);
+SOl960 = tK6346qS(-1231601865, (short)-1894152187, -1074915346);
 }
 }
 else
@@ -587,7 +587,7 @@ while (k < 2);
 }
 else
 {
-std::cout << "I6y0HhI1" << aKHEu << tK6346qS(446153048, 1896123176, wAN8890Pwd) << "yc_jy66" << H8s_Zh7ir << std::endl;
+std::cout << "I6y0HhI1" << aKHEu << tK6346qS(446153048, (short)1896123176, wAN8890Pwd) << "yc_jy66" << H8s_Zh7ir << std::endl;
 }
 
 switch (IGWdmM)
@@ -741,7 +741,7 @@ while (i >= 0)
 {
 if (Ic79v_CmpR & -592549778)
 {
-std::cout << "MPZXQY3f87" << tK6346qS(-2078512424, 1937520484, gwGQR9hY6Y) << std::endl;
+std::cout << "MPZXQY3f87" << tK6346qS(-2078512424, (short)1937520484, gwGQR9hY6Y) << std::endl;
 }
 i--;
 }

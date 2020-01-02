@@ -17,6 +17,7 @@ unsigned char    Dc1u_rM3(unsigned int    UlK2Ok);
 
 int main(void)
 {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
     short int    AwRF77248    =    1286776384,    PiXMTnm6    =    1918043996,    uy__Yo_Qz    =    187308914,    uS3G7    =    481567907,    XOo7    =    765990031,    ZgYVVPA    =    1879613733,    D8rb7q4    =    -1539612944,    bd8drA6PYd    =    1058364167,    p0Od9    =    -1205070905,    W44iO    =    1615964339,    H2KRi    =    -1945162619,    Lyjsm    =    -1204372139,    ZUO9XnPGm    =    -27750579,    bh68h    =    438934945,    dOh_p8xm    =    -1140591427,    K476tY    =    -20170512,    u40DK_    =    279405607,    hXn8apT5J    =    59036486,    fu8GEA    =    -75218233,    jDszvf7Pa    =    1584481633,    uFH3CtWS9    =    -582489089,    tlaG2Nq7s    =    802195827,    K7StKV    =    451808394,    X_67Jyquj    =    -875106338,    q_OtIF7    =    1006828238,    T58C11EQv8    =    -2142251156,    k0jZu_MA22    =    1515694452,    Qh_14V    =    -1720732582,    prl7j7    =    -62855850,    U7G_C9lm9    =    509696560,    BHv11E    =    2096445630,    AK51    =    -1329417130,    tdHezN9IT0    =    871187061,    SS5A1g    =    53706681,    X182E    =    -5764329,    Jj794    =    1063224682,    Kz104    =    1109400420,    E_mUwj    =    455940572,    LnaEqELOl0    =    15958804,    yYW5jiD    =    -457919982,    f7pOyx    =    -478405552,    SIn4    =    1753344904;
     unsigned long long    FxAI1n    =    0,    zR6_qb    =    0,    N0gMaP    =    0,    E_eKUzws8F    =    0,    V7656    =    0;
 
@@ -232,6 +233,6 @@ short	iuXT()	{
 
 unsigned char    Dc1u_rM3(unsigned int    UlK2Ok)
 {
-    return    1745783722;
+    return    (unsigned char)1745783722;
 }
 

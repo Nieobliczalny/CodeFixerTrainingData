@@ -56,7 +56,7 @@ while (i >= 0);
 }
 
 BH_cjKmV_c++;
-cout << sJDWS(V05F, 1563267228, -271024159) << "wafd" << sJDWS(V05F, -1250392836, 1542688490) << "eqT69gd" << endl;
+cout << sJDWS(V05F, 1563267228, -271024159) << "wafd" << sJDWS(V05F, (short)-1250392836, 1542688490) << "eqT69gd" << endl;
 cout << -102202327 / kVt_ << endl;
 
 return 0;

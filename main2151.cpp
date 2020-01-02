@@ -493,7 +493,7 @@ short int	je_k0_h(unsigned int	zoYE6i,unsigned short	ta18qj6B,long	fpJx)	{
 
 unsigned char F70WXkf()
 {
- return 467090231;
+ return (unsigned char)467090231;
 }
 
 unsigned char Xd_i()

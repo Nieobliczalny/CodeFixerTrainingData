@@ -22,6 +22,7 @@ long long mm0H016PGp(unsigned short jd_4F,unsigned int uk_b8,unsigned short int 
 int main()
 {
 	long	bkNk	=	0;
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
     short    l_WXJ8a    =    488787648,    W7H7M0    =    -1468686435,    c3iy2r88Cx    =    269675189,    r6pz233iD    =    -1822077267,    BJUdhJ    =    824012112,    d8a4vgb_    =    -1716714502,    esTF    =    846901554,    B24W    =    -1646901091,    rDf_oy    =    406812999,    X_Fu    =    495820889,    DTy6oe    =    -1765857905,    J_4a1xCX3u    =    -1286515082,    o8IH_    =    2025524900,    yWS2j    =    1250719571,    WG3_Nn0tnP    =    1385195980,    jBDyDcElm    =    2005799077,    FbCp    =    1608546784,    J80f8UK    =    1781329000,    IoJ6ZxE    =    -1352984001,    m5xbKs    =    2045430902,    LCAxvE    =    547743493,    orBT7V    =    -1033056274,    Nr3Z    =    121149444,    nrRmD5nH_    =    -630043776,    GA8C    =    1661585401,    dOYU5    =    1971689983,    oN_R1KL8v9    =    -240897418,    C2Dh6    =    985899167,    m4VTibMb    =    292022359,    m5jbV3fq8L    =    -166583589,    houa670TS4    =    -1260303262,    Q0m5Isx9BS    =    -1892313170,    P_e2bwUb    =    -692834776,    UT6zPE    =    21321064,    WpQ0JIM1Ew    =    418014397;
 
 try
@@ -92,7 +93,7 @@ WG3_Nn0tnP = C2Dh6 >> 1338477272;
 }
 while (i >= 0);
 }
-std::cout << IspK3ab25j(1556948627, LCAxvE, -344402256, m5jbV3fq8L) << "xttG0R_" << orBT7V << std::endl;
+std::cout << IspK3ab25j(1556948627, LCAxvE, (unsigned short)-344402256, m5jbV3fq8L) << "xttG0R_" << orBT7V << std::endl;
 if (esTF > hnIan1F7)
 {
 {
@@ -136,7 +137,7 @@ for (int j = 0; j < 7; j++)
 int k = 0;
 do
 {
-bkNk = mm0H016PGp(-486886932, GA8C, Nr3Z, -326407162);
+bkNk = mm0H016PGp(-486886932, GA8C, Nr3Z, (short)-326407162);
 ++k;
 }
 while (k < 9);
@@ -260,7 +261,7 @@ UT6zPE &= BJUdhJ;
 }
 else if (((P_e2bwUb == -1524956176) || (r6pz233iD != esTF)) || ((d8a4vgb_) && (WpQ0JIM1Ew <= BJUdhJ)))
 {
-bkNk = mm0H016PGp(513172529, 1847911020, yWS2j, 1375442879);
+bkNk = mm0H016PGp(513172529, 1847911020, yWS2j, (short)1375442879);
 }
 else
 {
@@ -286,7 +287,7 @@ case 0:
 J80f8UK = JLFXkeh6xU(-240215260, yWS2j, orBT7V);
 break;
 case 1:
-bkNk = mm0H016PGp(-2054608907, -1894602379, 1116926580, m5xbKs);
+bkNk = mm0H016PGp(-2054608907, -1894602379, (unsigned short)1116926580, m5xbKs);
 break;
 case 2:
 r6pz233iD = (int)abs(o8IH_);
@@ -316,7 +317,7 @@ if ((J_4a1xCX3u >= Q0m5Isx9BS) && ((X_Fu > o8IH_) || (Q0m5Isx9BS < -520572564)))
 {
 for (int k = 0; k < 5; ++k)
 {
-J_4a1xCX3u = IspK3ab25j(1858262844, -550721299, -95009148, 1261074202) << nrRmD5nH_;
+J_4a1xCX3u = IspK3ab25j(1858262844, -550721299, (unsigned short)-95009148, 1261074202) << nrRmD5nH_;
 }
 }
 }
@@ -334,7 +335,7 @@ rDf_oy = IspK3ab25j(bkNk, 909062331, UT6zPE, -1026445334);
 break;
 case 'c':
 case 'C':
-bkNk = mm0H016PGp(W7H7M0, -1075178004, -1593834834, 749353170);
+bkNk = mm0H016PGp(W7H7M0, -1075178004, (unsigned short)-1593834834, 749353170);
 break;
 case 'd':
 case 'D':
@@ -357,7 +358,7 @@ case 'H':
 orBT7V = IspK3ab25j(orBT7V, -654349130, 1799377477, -1635479497);
 break;
 default:
-jBDyDcElm = JLFXkeh6xU(-1906772302, 1128731693, 1498688603);
+jBDyDcElm = JLFXkeh6xU(-1906772302, 1128731693, (short)1498688603);
 break;
 }
 }
@@ -371,7 +372,7 @@ C2Dh6 = IspK3ab25j(C2Dh6, UT6zPE, -1014075945, 1756270769);
 }
 else
 {
-IoJ6ZxE = JLFXkeh6xU(-216246614, -1566745807, 249025858);
+IoJ6ZxE = JLFXkeh6xU(-216246614, -1566745807, (short)249025858);
 }
 }
 catch (int& errorCode)
@@ -435,7 +436,7 @@ if (bkNk >= WpQ0JIM1Ew)
 {
 if ((r6pz233iD == -1594420403) && (DTy6oe != -207819063))
 {
-bkNk = mm0H016PGp(X_Fu, 115086811, 761533367, 1905067708);
+bkNk = mm0H016PGp(X_Fu, 115086811, 761533367, (short)1905067708);
 }
 else if (B24W > 875257451)
 {
@@ -489,7 +490,7 @@ case 0:
 WpQ0JIM1Ew |= 99274542;
 break;
 case 1:
-C2Dh6 = mm0H016PGp(-1945125842, 1569504168, -2033857682, 1655235703) << 688394080;
+C2Dh6 = mm0H016PGp(-1945125842, 1569504168, (unsigned short)-2033857682, 1655235703) << 688394080;
 break;
 case 2:
 UT6zPE++;

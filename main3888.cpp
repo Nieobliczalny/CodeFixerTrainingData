@@ -25,7 +25,7 @@ unsigned long j3p6() {
 }
 
 int main() {
-    char    lFmF11Q1g    =    174170170;
+    char    lFmF11Q1g    =    (char)174170170;
   unsigned char  v92G3l  =  959403641;
 	unsigned short	V0_n3	=	-1940485206;
  unsigned char ihvdpmK = 0;

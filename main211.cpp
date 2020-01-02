@@ -74,7 +74,7 @@ case 'b':
 z8ssU9rIJ1 = PYhu722(z8ssU9rIJ1, -1522642133);
 break;
 case 'c':
-MEz8p = PYhu722(i7X5TAh, 563473096);
+MEz8p = PYhu722(i7X5TAh, (unsigned char)563473096);
 break;
 case 'd':
 z8ssU9rIJ1 = PYhu722(z8ssU9rIJ1, i7X5TAh);
@@ -102,7 +102,7 @@ break;
 switch (MEz8p)
 {
 case 'a':
-z8ssU9rIJ1 = PYhu722(i7X5TAh, -626765927);
+z8ssU9rIJ1 = PYhu722(i7X5TAh, (unsigned char)-626765927);
 break;
 case 'b':
 z8ssU9rIJ1 = PYhu722(i7X5TAh, z8ssU9rIJ1);
@@ -158,7 +158,7 @@ MEz8p = PYhu722(-413422713, 1763942937);
 }
 else if (i7X5TAh > MEz8p)
 {
-MEz8p = PYhu722(-1305466541, 1664168320);
+MEz8p = PYhu722(-1305466541, (unsigned char)1664168320);
 }
 else if (((i7X5TAh > 430143594) || (MEz8p != -2073287806)) && ((MEz8p <= b48z6) && (MEz8p)))
 {
@@ -375,7 +375,7 @@ case 'f':
 i7X5TAh += 868662114;
 break;
 case 'g':
-MEz8p = PYhu722(-671709343, -266504244);
+MEz8p = PYhu722(-671709343, (unsigned char)-266504244);
 break;
 case 'h':
 MEz8p = PYhu722(MEz8p, 2096180730);
@@ -455,7 +455,7 @@ z8ssU9rIJ1 = PYhu722(2117667850, 1569354956);
 }
 else if (z8ssU9rIJ1 & XkjA)
 {
-cout << PYhu722(z8ssU9rIJ1, -665146610) << "g8v_" << z8ssU9rIJ1 << PYhu722(-1563335307, i7X5TAh) << endl;
+cout << PYhu722(z8ssU9rIJ1, (unsigned char)-665146610) << "g8v_" << z8ssU9rIJ1 << PYhu722(-1563335307, i7X5TAh) << endl;
 }
 else if (z8ssU9rIJ1)
 {
@@ -576,7 +576,7 @@ if (MEz8p)
 {
 for (int k = 2; k >= 0; --k)
 {
-z8ssU9rIJ1 = PYhu722(z8ssU9rIJ1, -1750875747);
+z8ssU9rIJ1 = PYhu722(z8ssU9rIJ1, (unsigned char)-1750875747);
 }
 }
 else
@@ -656,7 +656,7 @@ case 3:
 MEz8p = PYhu722(631588099, i7X5TAh);
 break;
 case 4:
-z8ssU9rIJ1 = PYhu722(1850602041, 1916715206);
+z8ssU9rIJ1 = PYhu722(1850602041, (unsigned char)1916715206);
 break;
 case 5:
 MEz8p = PYhu722(MEz8p, i7X5TAh);
@@ -774,7 +774,7 @@ else if (((z8ssU9rIJ1) || (MEz8p == i7X5TAh)) || (i7X5TAh > z8ssU9rIJ1))
 {
 for (int j = 0; j < 6; j++)
 {
-z8ssU9rIJ1 = PYhu722(z8ssU9rIJ1, 706836514);
+z8ssU9rIJ1 = PYhu722(z8ssU9rIJ1, (unsigned char)706836514);
 }
 }
 else if ((i7X5TAh > -575312591) && ((MEz8p) && (MEz8p & z8ssU9rIJ1)))

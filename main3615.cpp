@@ -16,6 +16,7 @@ unsigned short int	o473C5a()	{
 
 int main(int argc, char** argv)
 {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
     short int    gtk_gYr    =    1673194308,    mJ5faajQ    =    1631266712,    ZiE_00    =    -775967656,    VWJF4G    =    -1532810139,    vfJu2ZmUeN    =    -1047627987,    za0MqnKGI    =    -1130702010,    GOS7X0i    =    -1242139676,    E0JwWf0S    =    -174513880,    Tl08bhE    =    -3432616,    LM8O6O    =    -759883983,    FGGd35PN    =    2057226700,    V8_g0    =    1863545915,    imh2    =    -1374935356,    LK_YoC_    =    -1761202874,    Fb8UT_o    =    1283295282,    Umr_HQnFs4    =    1209326252,    nIZr    =    -788146648,    nIR0    =    1217262442,    m7l36OE    =    89939217,    P031l    =    -9622440,    A52zZ_CA    =    -838860073,    cS1R    =    1151037600,    hN68    =    -2091483963,    Qp8bD0z    =    201985241,    W2gnmJSX6x    =    -34419687,    k1H_4    =    1212041041,    lnGo2rKYG4    =    -1626157477,    kS5L    =    -1206722756,    jE0j    =    1487656168,    lWa1    =    1976223487,    u8uxshlJC    =    154485885,    BZ__9N    =    -355521673,    U27p    =    1460500700,    aH2_    =    219022817,    cl5491ku    =    88145587,    v54C6_Io9    =    -987916940,    cX3BvVf    =    -1565407105,    uKW4Gt1K3_    =    -527463555,    y2adv70x    =    482041051,    r_l5a36q8R    =    -1036874323;
     short    J37j    =    0,    OCu_OWNZ2P    =    0,    IyV13    =    0,    etL6    =    0;
 

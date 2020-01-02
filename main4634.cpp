@@ -10,7 +10,7 @@
 int main() {
   char  C0kO,  id3MJTX,  cc1jR,  B2D4zU2,  F4383z,  Kxp2,  iA5l99,  x693uH24g9,  xbSWu,  b402JI7j5,  R894r_E4,  ERTQ8Tad;
   C0kO  =  2017908719;
-  id3MJTX  =  -1151025014;
+  id3MJTX  =  (char)-1151025014;
   cc1jR  =  -430194434;
   B2D4zU2  =  -377294746;
   F4383z  =  1918536200;
@@ -20,7 +20,7 @@ int main() {
   xbSWu  =  -1045202617;
   b402JI7j5  =  -1748590898;
   R894r_E4  =  -2058418954;
-  ERTQ8Tad  =  187109717;
+  ERTQ8Tad  =  (char)187109717;
  short ucnOpQfM, Blaia_3x, PtLS, LURmf;
  ucnOpQfM = 0;
  Blaia_3x = 0;

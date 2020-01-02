@@ -43,6 +43,7 @@ int main(void)
     Wl707    =    49210654;
     Fsn68Z    =    -1107568059;
 
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
 cout << L2SsP5Tl(-606340705, -1860418768) << a4ykB(1363327466, -2005205843) << Fsn68Z << KyuZoyvMyH(-854227950, 607749454, 1844223263, 73439044) << KyuZoyvMyH(-2030002764, 1400610228, 410314372, jML08659x) << endl;
 
 Fsn68Z = (unsigned long long)(jML08659x + (-679647651));
@@ -74,7 +75,7 @@ case 'b':
 Fsn68Z = Fsn68Z << 1867645307;
 break;
 case 'c':
-B38R = KyuZoyvMyH(B38R, eJg5TzWPO, -1707037313, -35200236);
+B38R = KyuZoyvMyH(B38R, eJg5TzWPO, (unsigned short)-1707037313, -35200236);
 break;
 case 'd':
 Fsn68Z = HF931_2t6(1680859861, eJg5TzWPO, 747246825, -2035746990, Fsn68Z);
@@ -183,7 +184,7 @@ case 3:
 Wl707 = L2SsP5Tl(eJg5TzWPO, jML08659x);
 break;
 case 4:
-Wl707 = L2SsP5Tl(2139778006, Wl707);
+Wl707 = L2SsP5Tl((unsigned short)2139778006, Wl707);
 break;
 case 5:
 Wl707 = jML08659x & 1333526765;
@@ -259,7 +260,7 @@ Wl707 *= 1408079952;
 Wl707 = (unsigned long long)(eJg5TzWPO + (-766487181));
 if ((415421581 / KyuZoyvMyH(B38R, eJg5TzWPO, -638855138, 798996838)) > 1511895234)
 {
-if ((jML08659x / KyuZoyvMyH(-672175293, eJg5TzWPO, 92772079, 548086608)) >= 479243984)
+if ((jML08659x / KyuZoyvMyH(-672175293, eJg5TzWPO, (unsigned short)92772079, 548086608)) >= 479243984)
 {
 cout << Wl707 << KyuZoyvMyH(B38R, eJg5TzWPO, 957011002, Fsn68Z) << endl;
 }
@@ -360,7 +361,7 @@ case 0:
 Fsn68Z = w98IpmFMTh(Fsn68Z);
 break;
 case 1:
-B38R = KyuZoyvMyH(B38R, -1040968397, -285561659, Fsn68Z);
+B38R = KyuZoyvMyH(B38R, -1040968397, (unsigned short)-285561659, Fsn68Z);
 break;
 case 2:
 Fsn68Z = B38R << 131699991;
@@ -397,7 +398,7 @@ else if ((Wl707 & -1628071144) || (kWtC & Wl707))
 {
 try
 {
-cout << HF931_2t6(jML08659x, -331597942, 986074749, B38R, eJg5TzWPO) << KyuZoyvMyH(jML08659x, 1537391241, -1179713418, B38R) << HF931_2t6(jML08659x, 1203514537, 1160271784, -406243585, eJg5TzWPO) << w98IpmFMTh(jML08659x) << "L89C972U3g" << endl;
+cout << HF931_2t6(jML08659x, -331597942, 986074749, B38R, eJg5TzWPO) << KyuZoyvMyH(jML08659x, (short)1537391241, -1179713418, B38R) << HF931_2t6(jML08659x, 1203514537, 1160271784, -406243585, eJg5TzWPO) << w98IpmFMTh(jML08659x) << "L89C972U3g" << endl;
 }
 catch (int& errorCode)
 {
@@ -443,7 +444,7 @@ Wl707 = Fsn68Z % 712955044;
 }
 else if ((B38R) || (Fsn68Z <= -1075579324))
 {
-jML08659x = KyuZoyvMyH(Fsn68Z, 402983646, -504905561, -609815516);
+jML08659x = KyuZoyvMyH(Fsn68Z, 402983646, (unsigned short)-504905561, -609815516);
 }
 else
 {

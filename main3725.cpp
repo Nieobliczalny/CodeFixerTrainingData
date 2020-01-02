@@ -209,7 +209,7 @@ case 'e':
 D0MmO8g = Tw7986(977443217, rJmz7);
 break;
 case 'f':
-D0MmO8g = Tw7986(-595489860, 1166538273);
+D0MmO8g = Tw7986((char)-595489860, 1166538273);
 break;
 default:
 YiTU1t32i = TdJrBH0RL(YiTU1t32i);
@@ -239,7 +239,7 @@ unsigned long long	Sn8DD(int	sZ9Q_Gcn,unsigned short	V1OwK8Ifq_,unsigned short	h
 }
 
 unsigned short int	h1zQe62kTc(unsigned int	IP9NPOJ1)	{
-	return	-555241417;
+	return	(unsigned short)-555241417;
 }
 
 char	pT4gd9v(unsigned long long	Qgfz)

@@ -39,7 +39,7 @@ if (LElR >= -1161816731)
 {
 for (int k = 0; k < 4; ++k)
 {
-MwA3 = X3_Nz9lY(-1047234013, 1906479977, LElR);
+MwA3 = X3_Nz9lY(-1047234013, (short)1906479977, LElR);
 }
 }
 else if (YuF_a49_sd > -897125928)
@@ -54,7 +54,7 @@ fkw5yDO5h += 251369919;
 }
 else if (YuF_a49_sd > 933942045)
 {
-fkw5yDO5h = X3_Nz9lY(1895176802, -1372661645, MwA3);
+fkw5yDO5h = X3_Nz9lY(1895176802, (short)-1372661645, MwA3);
 }
 else
 {
@@ -71,7 +71,7 @@ else
 int k = 0;
 do
 {
-V5KT = X3_Nz9lY(-424034111, 1848616814, pv1e52X);
+V5KT = X3_Nz9lY(-424034111, (short)1848616814, pv1e52X);
 ++k;
 }
 while (k < 9);
@@ -96,7 +96,7 @@ fkw5yDO5h = YuF_a49_sd ^ MwA3;
 }
 else if (pv1e52X == V5KT)
 {
-fkw5yDO5h = X3_Nz9lY(1729044036, -1066558632, 368048850);
+fkw5yDO5h = X3_Nz9lY(1729044036, (short)-1066558632, 368048850);
 }
 else if (fkw5yDO5h > V5KT)
 {
@@ -180,7 +180,7 @@ case 'c':
 V5KT = X3_Nz9lY(LElR, 1489934879, YuF_a49_sd);
 break;
 case 'd':
-fkw5yDO5h = X3_Nz9lY(1788593899, WW85Uu, 1376372535);
+fkw5yDO5h = X3_Nz9lY((short)1788593899, WW85Uu, 1376372535);
 break;
 case 'e':
 V5KT ^= 997754828;

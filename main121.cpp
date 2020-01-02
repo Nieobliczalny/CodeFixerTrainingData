@@ -20,7 +20,7 @@ short  Lp1B5()
 int main() {
  short int EC7r4j = -1690600432;
  int hEXTT5qcW = -1277893078;
-    short int    Hp5h9c_APN    =    -1455485114;
+    short int    Hp5h9c_APN    =    (short)-1455485114;
   unsigned char  I_wfBW  =  900844455;
  double h08Ss0 = -886120764;
     unsigned long    Dnoe    =    -1233243035;
@@ -41,7 +41,7 @@ int main() {
 	long	y1Sd	=	1031651332;
   float  cah511  =  -614879293;
   double  W142  =  1388606446;
- unsigned short int V_Iv = 929167062;
+ unsigned short int V_Iv = (unsigned short)929167062;
  double n6Q54lcmz = -2141600426;
     unsigned int    Y8dy19mA    =    -1109032868;
  double NjLSH = 342742360;
@@ -143,7 +143,7 @@ V_Iv--;
 switch (V_Iv)
 {
 case 'a':
-JQVZ = n67k0RiH(JQVZ, 1263250550, 1598271557, rb5ed22);
+JQVZ = n67k0RiH(JQVZ, 1263250550, (char)1598271557, rb5ed22);
 break;
 case 'b':
 rb5ed22 >>= V_Iv;
@@ -172,7 +172,7 @@ break;
 }
 RCOpA = (int)abs(gT1BuoV);
 
-cIzcSN = n67k0RiH(cIzcSN, -1376345076, -1934438453, cah511);
+cIzcSN = n67k0RiH(cIzcSN, -1376345076, (char)-1934438453, cah511);
 h08Ss0 = Uw8g / VqAA;
 JQVZ = n67k0RiH(JQVZ, h08Ss0, -809528934, -1707551077);
 
@@ -224,7 +224,7 @@ case 4:
 cIzcSN = n67k0RiH(cIzcSN, 1534226492, VqAA, Vb_f2s_6);
 break;
 case 5:
-cah511 = (Uw8g != 1312566875) ? R77J7tpH5 : n67k0RiH(379041681, -1506435755, VqAA, 1507671455);
+cah511 = (Uw8g != 1312566875) ? R77J7tpH5 : n67k0RiH(379041681, (short)-1506435755, VqAA, 1507671455);
 break;
 case 6:
 cah511 = RCOpA % lr78;
@@ -391,7 +391,7 @@ case 'c':
 jYsXen3C = n67k0RiH(420599774, 123370407, NjLSH, rb5ed22);
 break;
 case 'd':
-y1Sd = n67k0RiH(-1755198433, Vb_f2s_6, 762654324, -200399955);
+y1Sd = n67k0RiH(-1755198433, Vb_f2s_6, (char)762654324, -200399955);
 break;
 case 'e':
 NjLSH = (int)ceil(h08Ss0);

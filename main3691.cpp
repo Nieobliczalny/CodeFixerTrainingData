@@ -21,7 +21,7 @@ unsigned long long  h83qqyt4N(short  tzbSM,unsigned char  n_42,unsigned short in
 }
 
 unsigned char rJ69J7O() {
- return -2026594889;
+ return (unsigned char)-2026594889;
 }
 
 int main(int argc, char** argv)
@@ -46,7 +46,7 @@ case 0:
 MX55eh1NjT = (LX1Hv_E) ? i4vQ0UvV4P : Iwgt172Vm0(LX1Hv_E, MX55eh1NjT, 1754350149);
 break;
 case 1:
-HM34ISqyu3 = Iwgt172Vm0(-1516279518, -1016534051, 772442233);
+HM34ISqyu3 = Iwgt172Vm0(-1516279518, (unsigned short)-1016534051, 772442233);
 break;
 case 2:
 LX1Hv_E <<= xZKC;
@@ -77,7 +77,7 @@ case 1:
 i4vQ0UvV4P += tk78qaTBfF;
 break;
 default:
-LX1Hv_E = Iwgt172Vm0(-622787644, i4vQ0UvV4P, SY_MoJK0);
+LX1Hv_E = Iwgt172Vm0((unsigned char)-622787644, i4vQ0UvV4P, SY_MoJK0);
 break;
 }
 }
@@ -114,7 +114,7 @@ CdNwhs9u1R = rJ69J7O();
 }
 else if (((xZKC < -573105282) || (HM34ISqyu3 & 1600678801)) && (HM34ISqyu3 != 265087674))
 {
-gX457_ = Iwgt172Vm0(2103523087, -1341196706, 1102200028);
+gX457_ = Iwgt172Vm0(2103523087, (unsigned short)-1341196706, 1102200028);
 }
 else if (tk78qaTBfF != 506148372)
 {
@@ -149,7 +149,7 @@ std::cout << MX55eh1NjT << "T_T7XPhbz" << xZKC << i4vQ0UvV4P << "hB2b1ell1" << s
 int i = 0;
 while (i < 3)
 {
-std::cout << Iwgt172Vm0(-774638848, tk78qaTBfF, N4j5) << Iwgt172Vm0(-1577291571, 797078344, -881850180) << "K2_3nI4k6R" << siy_hU(MX55eh1NjT) << std::endl;
+std::cout << Iwgt172Vm0(-774638848, tk78qaTBfF, N4j5) << Iwgt172Vm0((unsigned char)-1577291571, 797078344, -881850180) << "K2_3nI4k6R" << siy_hU(MX55eh1NjT) << std::endl;
 i++;
 }
 }
@@ -218,7 +218,7 @@ case 'b':
 gX457_ /= SY_MoJK0;
 break;
 case 'c':
-SY_MoJK0 = h83qqyt4N(-1273606416, -1756985434, DZ436bp48, -1306191530);
+SY_MoJK0 = h83qqyt4N(-1273606416, (unsigned char)-1756985434, DZ436bp48, -1306191530);
 break;
 case 'd':
 CdNwhs9u1R = xZKC << N4j5;
@@ -233,7 +233,7 @@ case 'g':
 MX55eh1NjT = siy_hU(-288037277);
 break;
 case 'h':
-oXxcw = h83qqyt4N(-296922831, xZKC, 647727102, 359379148);
+oXxcw = h83qqyt4N((short)-296922831, xZKC, 647727102, 359379148);
 break;
 case 'i':
 LX1Hv_E = DZ436bp48 - 1021691761;
@@ -304,7 +304,7 @@ tk78qaTBfF *= oXxcw;
 }
 else
 {
-gX457_ = Iwgt172Vm0(1729494068, 530945745, -2078303643);
+gX457_ = Iwgt172Vm0(1729494068, (unsigned short)530945745, -2078303643);
 }
 {
 int i = 8;

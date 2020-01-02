@@ -54,7 +54,7 @@ case 0:
 hvm9NIk9 = qhAVef_();
 break;
 case 1:
-NtmpohCD7 = IE_8_50p(1117132672, 739015190);
+NtmpohCD7 = IE_8_50p(1117132672, (unsigned short)739015190);
 break;
 }
 --i;
@@ -101,7 +101,7 @@ catch (int& errorCode)
 BY0CIbx5S = gSB48d3b_(QLj_, -684364791, Gf_d, 1090929588, YLobt438VX);
 }
 }
-XG53iM9XH2 = e20DpEUbR1(1602160006, 1356811399, Ub0_liw, Mm_w);
+XG53iM9XH2 = e20DpEUbR1(1602160006, (unsigned char)1356811399, Ub0_liw, Mm_w);
 
 nXDVNr86VG = e20DpEUbR1(-1232916551, Lpm41Bzg0, Ub0_liw, Mm_w) % NneINfOTt;
 if ((oZdp3 != -1988518872) || ((mah0XDdRK) && (gzQzRBM != DB_DKk9)))
@@ -124,7 +124,7 @@ int k = 3;
 while (k >= 0)
 {
 k--;
-q2Dy8z = e20DpEUbR1(q2Dy8z, NKAT, 1500581331, -1912082258);
+q2Dy8z = e20DpEUbR1(q2Dy8z, NKAT, 1500581331, (unsigned short)-1912082258);
 }
 }
 }
@@ -155,7 +155,7 @@ GG_aNEE /= N3e842W;
 }
 else
 {
-six12S = e20DpEUbR1(six12S, 1325157977, k6r1Dm, -1842750093);
+six12S = e20DpEUbR1(six12S, 1325157977, k6r1Dm, (unsigned short)-1842750093);
 }
 }
 else if (BY0CIbx5S == pBr_s7_)
@@ -245,7 +245,7 @@ vE4Fzv = IE_8_50p(-1126136335, b5_0a6);
 break;
 case 'd':
 case 'D':
-FVMvUvT = gSB48d3b_(-1754267046, JyjIgr28, -2017860922, Pv0uTquZvV, -1678553366);
+FVMvUvT = gSB48d3b_(-1754267046, JyjIgr28, -2017860922, Pv0uTquZvV, (short)-1678553366);
 break;
 case 'e':
 case 'E':
@@ -257,7 +257,7 @@ au55yJ = gSB48d3b_(MO5RHaQ, 20613470, -1450771525, -577087479, Ub0_liw);
 break;
 case 'g':
 case 'G':
-k6r1Dm = e20DpEUbR1(351961435, -399603109, 1337918791, E5vCC__);
+k6r1Dm = e20DpEUbR1(351961435, (unsigned char)-399603109, 1337918791, E5vCC__);
 break;
 case 'h':
 case 'H':
@@ -293,7 +293,7 @@ A312b >>= F4N2lZfy;
 break;
 case 'c':
 case 'C':
-rn_1h_ = e20DpEUbR1(rn_1h_, Ub0_liw, 324430050, Lg2df6i);
+rn_1h_ = e20DpEUbR1(rn_1h_, Ub0_liw, (unsigned short)324430050, Lg2df6i);
 break;
 case 'd':
 case 'D':
@@ -317,7 +317,7 @@ bvI82f = qhAVef_();
 break;
 case 'i':
 case 'I':
-w6nT_rgQh = e20DpEUbR1(-1830714453, Q55CdZxDl, -173579040, -1766812819);
+w6nT_rgQh = e20DpEUbR1(-1830714453, Q55CdZxDl, -173579040, (unsigned short)-1766812819);
 break;
 case 'j':
 case 'J':

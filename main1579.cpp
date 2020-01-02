@@ -45,7 +45,7 @@ case 3:
 PAK7j96XOc /= HFQ30NND;
 break;
 default:
-Zcu6O00 = t5C9Pds6sk(83066310, -1584172221, 1991667298);
+Zcu6O00 = t5C9Pds6sk(83066310, (short)-1584172221, 1991667298);
 break;
 }
 }
@@ -69,7 +69,7 @@ h5RQ5y8t = u2_yKOFHY(-330253483, Q20xW, -1534416955);
 break;
 case 'c':
 case 'C':
-o62_Ci = u2_yKOFHY(-1135946800, 1694670814, 1633566172);
+o62_Ci = u2_yKOFHY((short)-1135946800, 1694670814, 1633566172);
 break;
 case 'd':
 case 'D':
@@ -108,7 +108,7 @@ case 5:
 PBsv_UyE += CJSKdUt_;
 break;
 case 6:
-wX5zy6X3Z1 = n6_09_(631326340, a1sAar6BS, -605008928, -1320393036);
+wX5zy6X3Z1 = n6_09_(631326340, a1sAar6BS, -605008928, (short)-1320393036);
 break;
 case 7:
 z172aRNN3W = (int)abs(t9_6);
@@ -126,7 +126,7 @@ for (int i = 0; i < 9; i++)
 {
 try
 {
-std::cout << t5C9Pds6sk(KjfpBI3NU, 462036555, S92C) << t5C9Pds6sk(-550668673, l4cWw3_Ef, S92C) << R2CmQ() << std::endl;
+std::cout << t5C9Pds6sk(KjfpBI3NU, 462036555, S92C) << t5C9Pds6sk((short)-550668673, l4cWw3_Ef, S92C) << R2CmQ() << std::endl;
 }
 catch (int& errorCode)
 {
@@ -174,7 +174,7 @@ try
 {
 if ((J_3Q4_e87 & Q20xW) || ((qfGA37 & 1547925740) || (j1HJ_F > wX5zy6X3Z1)))
 {
-HFQ30NND = u2_yKOFHY(-582775273, 1152399566, l3c6F75soU);
+HFQ30NND = u2_yKOFHY(-582775273, (short)1152399566, l3c6F75soU);
 }
 else
 {
@@ -191,7 +191,7 @@ while (i < 9);
 }
 try
 {
-std::cout << eZhstW1a << n6_09_(-976316680, 393532201, fb2O8D_z, 288294958) << u2_yKOFHY(-1738694427, PBsv_UyE, fb2O8D_z) << std::endl;
+std::cout << eZhstW1a << n6_09_(-976316680, 393532201, fb2O8D_z, (short)288294958) << u2_yKOFHY(-1738694427, PBsv_UyE, fb2O8D_z) << std::endl;
 }
 catch (int& errorCode)
 {
@@ -267,7 +267,7 @@ case 'c':
 qfGA37 = R2CmQ();
 break;
 case 'd':
-HFQ30NND = t5C9Pds6sk(614556428, 78070387, eZhstW1a);
+HFQ30NND = t5C9Pds6sk(614556428, (short)78070387, eZhstW1a);
 break;
 case 'e':
 sw_9Cl2j ^= 1893627634;
@@ -345,6 +345,6 @@ unsigned short	n6_09_(char	G916f,unsigned long long	kON_mK,int	S4Ey,short int	k1
 
 unsigned short u2_yKOFHY(short int V5LAE,short G548f12,long dD62UR)
 {
- return 2102057623;
+ return (unsigned short)2102057623;
 }
 

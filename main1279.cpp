@@ -176,7 +176,7 @@ g7Be = iSHfyYB / rB3qk4Dc;
 std::cout << oMlRr4w << c1HKDBl << by_u(-459609718) << q4Tnd6L8H3(-357691023) << D_2v38c << std::endl;
 GW1r = q4Tnd6L8H3(-1746393562);
 std::cout << "MnukN9Y13I" << "nzcalUX" << D_2v38c << std::endl;
-Lo3333 = by_u(430275649);
+Lo3333 = by_u((unsigned char)430275649);
 
 {
 int i = 6;

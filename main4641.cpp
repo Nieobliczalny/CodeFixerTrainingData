@@ -31,7 +31,7 @@ case 'a':
 SM_v = z758f5(SM_v, 1213965403, r3CQllRp);
 break;
 case 'b':
-b4d6w78lif = p605Lj6unG(-1347832716, uz2J, WXpq3jN, -713616830, k5sb2BrPI);
+b4d6w78lif = p605Lj6unG(-1347832716, uz2J, WXpq3jN, (short)-713616830, k5sb2BrPI);
 break;
 case 'c':
 jM6KZO66 <<= ow8O3149;

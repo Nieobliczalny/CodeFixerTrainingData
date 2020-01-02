@@ -42,7 +42,7 @@ if (((IR5mmBkZM_ == V_Ohkby) && (vt0gOSnr < -1803008163)) || ((X6I4 > 887485762)
 switch (nh0sLHsX)
 {
 case 0:
-pO05 = HTsWc(1014702603, 1398055233, 1704334288, 1665103096);
+pO05 = HTsWc(1014702603, 1398055233, 1704334288, (short)1665103096);
 break;
 case 1:
 p_U8b = qx072rWQ4(p_U8b, IR5mmBkZM_);
@@ -97,7 +97,7 @@ dSUN28 = HTsWc(1810774379, -58424302, 1681360746, -1148605535) % 1417935564;
 break;
 }
 
-dSUN28 = qx072rWQ4(1071093171, pO05);
+dSUN28 = qx072rWQ4((unsigned short)1071093171, pO05);
 
 pO05 = (unsigned long long)(X6I4 * (V_Ohkby));
 
@@ -117,7 +117,7 @@ case 2:
 pgt88 = dSUN28 >> 2128889307;
 break;
 case 3:
-nHggv0D = qx072rWQ4(-730229638, -937630707);
+nHggv0D = qx072rWQ4((unsigned short)-730229638, -937630707);
 break;
 case 4:
 pE0FH1efT *= 70690968;
@@ -208,7 +208,7 @@ case 'a':
 IR5mmBkZM_ = qx072rWQ4(-75687531, fcb3H);
 break;
 case 'b':
-nh0sLHsX = HTsWc(M_g6IwL59, nh0sLHsX, 871008584, 985024260);
+nh0sLHsX = HTsWc(M_g6IwL59, nh0sLHsX, 871008584, (short)985024260);
 break;
 case 'c':
 p_U8b &= 544246533;
@@ -253,7 +253,7 @@ case 3:
 pE0FH1efT = v2Bus1PE ^ 2097084116;
 break;
 case 4:
-pgt88 = qx072rWQ4(1029742862, 680114082);
+pgt88 = qx072rWQ4((unsigned short)1029742862, 680114082);
 break;
 case 5:
 pO05 = HTsWc(L07l1, -1763851235, v2Bus1PE, pgt88);
@@ -265,7 +265,7 @@ case 7:
 L07l1 = qx072rWQ4(1893991558, p_U8b);
 break;
 case 8:
-nHggv0D = qx072rWQ4(167973070, L07l1);
+nHggv0D = qx072rWQ4((unsigned short)167973070, L07l1);
 break;
 default:
 nh0sLHsX = HTsWc(pE0FH1efT, nh0sLHsX, -2130647830, M_g6IwL59);
@@ -307,7 +307,7 @@ else
 {
 try
 {
-vt0gOSnr = qx072rWQ4(779326969, 32202303);
+vt0gOSnr = qx072rWQ4((unsigned short)779326969, 32202303);
 }
 catch (int& errorCode)
 {
@@ -456,7 +456,7 @@ pO05 = HTsWc(X6I4, Z_Rd, -12500115, pO05);
 break;
 case 'c':
 case 'C':
-X3rN3F = HTsWc(192953145, 355525881, X6I4, 1352779183);
+X3rN3F = HTsWc(192953145, 355525881, X6I4, (short)1352779183);
 break;
 case 'd':
 case 'D':
@@ -472,7 +472,7 @@ pgt88 *= L07l1;
 break;
 case 'g':
 case 'G':
-X3rN3F = HTsWc(M_g6IwL59, 1723707319, Z_Rd, -2026553865);
+X3rN3F = HTsWc(M_g6IwL59, 1723707319, Z_Rd, (short)-2026553865);
 break;
 case 'h':
 case 'H':
@@ -507,7 +507,7 @@ case 5:
 vt0gOSnr = qx072rWQ4(-117826231, X3rN3F);
 break;
 case 6:
-dSUN28 = qx072rWQ4(1879826569, pE0FH1efT);
+dSUN28 = qx072rWQ4((unsigned short)1879826569, pE0FH1efT);
 break;
 default:
 L07l1 = qx072rWQ4(L07l1, IR5mmBkZM_);

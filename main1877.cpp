@@ -29,7 +29,7 @@ int main()
   long double  oET6H;
   oET6H  =  -1348077988;
  unsigned char YDbDiSwgXp;
- YDbDiSwgXp = 1005570876;
+ YDbDiSwgXp = (unsigned char)1005570876;
   char  PSw7VOgHt;
   PSw7VOgHt  =  321395331;
   long double  X9Y0Q9;
@@ -39,7 +39,7 @@ int main()
   long long  LEzHL;
   LEzHL  =  1307857449;
     unsigned char    mJi7;
-    mJi7    =    -1154040356;
+    mJi7    =    (unsigned char)-1154040356;
  char e0_Olego;
  e0_Olego = -239242907;
  int P35t7;
@@ -53,7 +53,7 @@ int main()
  float H2I6s__5;
  H2I6s__5 = 172097692;
   unsigned char  x7JoL94ZY;
-  x7JoL94ZY  =  1209132173;
+  x7JoL94ZY  =  (unsigned char)1209132173;
  long double elwV42CHX;
  elwV42CHX = -58100472;
 	unsigned long long	B4c2;
@@ -67,7 +67,7 @@ int main()
  unsigned long long IXAW_Xf8lG;
  IXAW_Xf8lG = 936893999;
 	short	r9qsUgm;
-	r9qsUgm	=	-640527132;
+	r9qsUgm	=	(short)-640527132;
 	unsigned short	Bbe34;
 	Bbe34	=	-371817805;
 	short	Q_obenZ_;
@@ -79,7 +79,7 @@ int main()
  unsigned int AgEz0;
  AgEz0 = -392417824;
  short S_3msmhw_A;
- S_3msmhw_A = 1763749098;
+ S_3msmhw_A = (short)1763749098;
 	unsigned int	iQCyw0;
 	iQCyw0	=	1899941364;
 	long	Bho4;
@@ -93,7 +93,7 @@ int main()
   long double  hzW0851P9;
   hzW0851P9  =  -1810374313;
     short    TNuY;
-    TNuY    =    301740638;
+    TNuY    =    (short)301740638;
     long long    d4v_9Cbm57;
     d4v_9Cbm57    =    -1289280806;
 	unsigned char	lpcRdv5CM;
@@ -103,7 +103,7 @@ int main()
  long dAP1_1Q4E;
  dAP1_1Q4E = 320907266;
  short int L12l5X;
- L12l5X = -69574120;
+ L12l5X = (short)-69574120;
     short    E811s2f;
     E811s2f    =    -1322772575;
 	float	M_JPNVK6;
@@ -115,7 +115,7 @@ int main()
  unsigned long long vNMYm;
  vNMYm = -1242744883;
  char I0Af0l5p;
- I0Af0l5p = -731924652;
+ I0Af0l5p = (char)-731924652;
  float Kdy9IXS8o2;
  Kdy9IXS8o2 = 1908688494;
   long double  U114jYScYH;
@@ -141,7 +141,7 @@ int main()
  float X7e5jptE0;
  X7e5jptE0 = -135878883;
     char    rK35;
-    rK35    =    -669939688;
+    rK35    =    (char)-669939688;
 	unsigned int	G0MsJ;
 	G0MsJ	=	-1805742892;
  unsigned long long WbiPa_rrE;
@@ -215,7 +215,7 @@ int j = 4;
 do
 {
 j--;
-std::cout << jxTJXw5(-859790045, j9l_kHVCM, WDo4_s, I0Af0l5p) << d1h9(LEzHL) << jxTJXw5(210219770, -525614498, WDo4_s, -124482840) << "A2a_i_" << std::endl;
+std::cout << jxTJXw5(-859790045, j9l_kHVCM, WDo4_s, I0Af0l5p) << d1h9(LEzHL) << jxTJXw5((char)210219770, -525614498, WDo4_s, -124482840) << "A2a_i_" << std::endl;
 }
 while (j >= 0);
 }
@@ -317,7 +317,7 @@ break;
 }
 else if (d4v_9Cbm57)
 {
-std::cout << jc_0VA20T4 << d1h9(576387760) << std::endl;
+std::cout << jc_0VA20T4 << d1h9((unsigned char)576387760) << std::endl;
 }
 else
 {

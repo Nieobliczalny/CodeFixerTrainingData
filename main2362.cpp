@@ -14,7 +14,7 @@ short int  tdSs3y11(char  ymmW1hW3)  {
 }
 
 unsigned short int	jYoamC(unsigned char	saka,unsigned short	KWf_8g2ci6,char	Sqfbk5Eg,short int	Ljtns)	{
-	return	1755483969;
+	return	(unsigned short)1755483969;
 }
 
 int	DTa61s8k(short int	Z0OHa3xi,unsigned short int	Q3n0Bk8E2c,short	B9WFlI60)
@@ -44,7 +44,7 @@ int j = 7;
 while (j >= 0)
 {
 j--;
-std::cout << WvTK(837061463, -1044757249, 551066113, Cb0Rwrg) << std::endl;
+std::cout << WvTK(837061463, -1044757249, (short)551066113, Cb0Rwrg) << std::endl;
 }
 }
 }
@@ -64,7 +64,7 @@ i++;
 std::cout << "q1S0" << IcY858eU(ce5ha20W2f, T5J9Wn2nE, atL_Xhm8) << std::endl;
 try
 {
-r_ir8TJ = WvTK(-421481272, -1367413575, RTs8CSWSo, -1384843530);
+r_ir8TJ = WvTK(-421481272, -1367413575, RTs8CSWSo, (unsigned char)-1384843530);
 }
 catch (int& errorCode)
 {
@@ -131,7 +131,7 @@ else if ((G8Bwp_d < Jd8aByf9Gd) || (gVg60I < 1888422578))
 {
 if ((LuN1c27 >= Jd8aByf9Gd) || (lYw6Pk6A))
 {
-Eby0j = WvTK(-737064617, 1231749637, 926425161, b_EZ_SEl);
+Eby0j = WvTK(-737064617, 1231749637, (short)926425161, b_EZ_SEl);
 }
 }
 else
@@ -175,7 +175,7 @@ lgC9YQXo_5 = IcY858eU(lgC9YQXo_5, PFeppCS1, MRXr);
 break;
 case 'd':
 case 'D':
-AA6sXq = IcY858eU(668021729, bT7z, Q255l_);
+AA6sXq = IcY858eU((unsigned char)668021729, bT7z, Q255l_);
 break;
 case 'e':
 case 'E':
@@ -187,7 +187,7 @@ bT7z += 1782116153;
 break;
 case 'g':
 case 'G':
-o7nqocp2WQ = DTa61s8k(o7nqocp2WQ, 1770177362, -890773325);
+o7nqocp2WQ = DTa61s8k(o7nqocp2WQ, 1770177362, (short)-890773325);
 break;
 case 'h':
 case 'H':
@@ -198,7 +198,7 @@ case 'I':
 PFeppCS1 = IcY858eU(-314796306, -2092317347, YeWsq);
 break;
 default:
-p95pU = DTa61s8k(-647860926, 625933234, 1058185664);
+p95pU = DTa61s8k(-647860926, (unsigned short)625933234, 1058185664);
 break;
 }
 std::cout << mE4vc << Cb0Rwrg << std::endl;
@@ -221,7 +221,7 @@ case 2:
 j48__Cu = IcY858eU(663453824, bF1oED_xL, ce5ha20W2f);
 break;
 default:
-xtSlo = DTa61s8k(j48__Cu, bF1oED_xL, 1269980628) + 1674602837;
+xtSlo = DTa61s8k(j48__Cu, bF1oED_xL, (short)1269980628) + 1674602837;
 break;
 }
 try
@@ -252,7 +252,7 @@ if (AA6sXq > Jd8aByf9Gd)
 {
 try
 {
-oG3l0 = jYoamC(432696503, lYw6Pk6A, -1859542331, 1084102186);
+oG3l0 = jYoamC(432696503, lYw6Pk6A, (char)-1859542331, 1084102186);
 }
 catch (int& errorCode)
 {

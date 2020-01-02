@@ -22,7 +22,7 @@ int main(int argc, char** argv)
     unsigned short int    sCN35c8l_r;
     sCN35c8l_r    =    1985739404;
   char  d5_vFE;
-  d5_vFE  =  2091238706;
+  d5_vFE  =  (char)2091238706;
  int l0D5;
  l0D5 = -1755804282;
  long double y2XBP9;
@@ -56,7 +56,7 @@ int main(int argc, char** argv)
     unsigned short int    JEb75d;
     JEb75d    =    330409177;
   unsigned char  I_nmgHI_;
-  I_nmgHI_  =  -2001148760;
+  I_nmgHI_  =  (unsigned char)-2001148760;
   unsigned long long  tqSKstu5vq;
   tqSKstu5vq  =  2019568681;
   char  Vg8r7y0j;
@@ -70,7 +70,7 @@ int main(int argc, char** argv)
     short    Kji_IyW;
     Kji_IyW    =    -72191511;
  unsigned char Oc8Tpk9ei;
- Oc8Tpk9ei = -755732383;
+ Oc8Tpk9ei = (unsigned char)-755732383;
     unsigned long long    eOcuMYim;
     eOcuMYim    =    1513053001;
  unsigned long long r0q51aU;
@@ -131,7 +131,7 @@ fj7BN07b3 = VgNZ(l0D5, -410921958, fj7BN07b3, -1471589560, tqSKstu5vq);
 }
 else if (u2hb2LgVn6 < IQzZ_c5)
 {
-std::cout << O0Id6_VE << l0D5 << VgNZ(-102240792, R1Bd61, fj7BN07b3, vXs1hy, -357067077) << std::endl;
+std::cout << O0Id6_VE << l0D5 << VgNZ((short)-102240792, R1Bd61, fj7BN07b3, vXs1hy, -357067077) << std::endl;
 }
 else
 {
@@ -192,7 +192,7 @@ case 3:
 R1Bd61 = O0Id6_VE & it2rdaZ;
 break;
 case 4:
-Vz54 = VgNZ(l0D5, -303477565, jF_FJ6oDDT, RKI_7, Q_283g0_6m);
+Vz54 = VgNZ(l0D5, (unsigned short)-303477565, jF_FJ6oDDT, RKI_7, Q_283g0_6m);
 break;
 case 5:
 egZgf0 = (int)floor(mDjgfZf);
@@ -277,7 +277,7 @@ case 0:
 JEb75d -= 1751297888;
 break;
 case 1:
-kGdxu = VgNZ(1757617204, -1740784403, Q_283g0_6m, 831001431, jF_FJ6oDDT);
+kGdxu = VgNZ(1757617204, (unsigned short)-1740784403, Q_283g0_6m, 831001431, jF_FJ6oDDT);
 break;
 case 2:
 jF_FJ6oDDT = (int)abs(R1Bd61);
@@ -298,7 +298,7 @@ case 7:
 Kji_IyW = it2rdaZ * 1030387135;
 break;
 default:
-Kji_IyW = r_7Ht4 | 1320679481;
+Kji_IyW = r_7Ht4 | (short)1320679481;
 break;
 }
 }

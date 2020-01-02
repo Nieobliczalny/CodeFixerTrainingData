@@ -31,7 +31,7 @@ case 1:
 E9Wb8u9 = Um10Zek(LE97T6_J, F3kouyp_O, HX24jwj7e1, T60i, 134574750) - E9Wb8u9;
 break;
 case 2:
-JYaj_Evt9y = G3JgEm(1534274504, HDUCS9cl);
+JYaj_Evt9y = G3JgEm((unsigned char)1534274504, HDUCS9cl);
 break;
 case 3:
 mvc1S5vdR = G3JgEm(mvc1S5vdR, o8knr_);
@@ -116,7 +116,7 @@ aK64 = GUq64wH(aK64, eLV7, 889210168, J7F2vN2jA, -1299712844);
 }
 else if (gv5XMV1k <= 1399432137)
 {
-MI7M5BM91d = Um10Zek(-1966347767, vkVvAl5, 1148727790, -2143891055, -1950748633);
+MI7M5BM91d = Um10Zek(-1966347767, vkVvAl5, 1148727790, -2143891055, (short)-1950748633);
 }
 else
 {
@@ -126,7 +126,7 @@ std::cout << GUq64wH(MI7M5BM91d, vkVvAl5, G_H32C_x1, 2049790428, 85665568) << st
 }
 }
 
-tM5l = Um10Zek(tM5l, GA5ey, 1202072225, vkVvAl5, 821929412);
+tM5l = Um10Zek(tM5l, GA5ey, 1202072225, vkVvAl5, (short)821929412);
 try
 {
 std::cout << VKNbq9aIG5(tM5l, -1917251209, G_H32C_x1, 465874548) << aIX_ << "MPWG4_DG" << G3JgEm(-1379312752, -164217721) << std::endl;
@@ -146,7 +146,7 @@ mvc1S5vdR = Um10Zek(mvc1S5vdR, -1624857192, 1591682652, 1153766317, JYaj_Evt9y);
 Wjl99 %= 1685255819;
 Eqc86jC = VKNbq9aIG5(110962083, 620189699, 59904830, gv5XMV1k);
 
-rr1SqY = G3JgEm(-225626380, xWqRGEKriE) / n56AT0(Eqc86jC, 717560284);
+rr1SqY = G3JgEm((unsigned char)-225626380, xWqRGEKriE) / n56AT0(Eqc86jC, 717560284);
 
 aIX_ = (unsigned long long)(uYqbm_V);
 

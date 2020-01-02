@@ -26,7 +26,7 @@ char  p_mG9b62l_(long  oe8F6sDG,int  dPknkJ2,long long  RiZf0672,unsigned short 
 
 unsigned char G_8E17VFf(long long JQJUZ_DyIl,unsigned char eaQb,long long mKi6a,unsigned long CQ248)
 {
- return 1568575833;
+ return (unsigned char)1568575833;
 }
 
 int main(void) {
@@ -41,7 +41,7 @@ int main(void) {
   double  XVGYbK;
   XVGYbK  =  -81326076;
   short  PGrY28mU;
-  PGrY28mU  =  1628450670;
+  PGrY28mU  =  (short)1628450670;
   float  OvFD802;
   OvFD802  =  -1845120268;
 	long double	Pw946_d2b;
@@ -63,7 +63,7 @@ int main(void) {
     short    zoxpjx1Bb1;
     zoxpjx1Bb1    =    0;
  short int y6w5FlW7t0;
- y6w5FlW7t0 = 351354630;
+ y6w5FlW7t0 = (short)351354630;
   unsigned int  Ko8SQ;
   Ko8SQ  =  -2050985584;
   long long  F4FLd9Um;
@@ -123,7 +123,7 @@ else if (Ko8SQ > 1279328109)
 int j = 0;
 do
 {
-L2idj13k_ = De1rYt(cg5mCel, -1898876345, 189995557, 1670514604);
+L2idj13k_ = De1rYt(cg5mCel, -1898876345, 189995557, (unsigned char)1670514604);
 ++j;
 }
 while (j < 4);
@@ -137,7 +137,7 @@ for (int j = 0; j < 9; j++)
 int k = 0;
 while (k < 3)
 {
-F4FLd9Um = tt9oU48HD0(F4FLd9Um, bg51U0jP0, 415810675, 1466939812);
+F4FLd9Um = tt9oU48HD0(F4FLd9Um, bg51U0jP0, 415810675, (unsigned short)1466939812);
 ++k;
 }
 }
@@ -188,7 +188,7 @@ int i = 7;
 do
 {
 i--;
-cout << De1rYt(bg51U0jP0, XTdTQNA, F4FLd9Um, 857731516) << "O1y_BhAZdF" << b_k_voq2 << endl;
+cout << De1rYt(bg51U0jP0, XTdTQNA, F4FLd9Um, (unsigned char)857731516) << "O1y_BhAZdF" << b_k_voq2 << endl;
 }
 while (i >= 0);
 }
@@ -213,7 +213,7 @@ try
 {
 for (int j = 3; j >= 0; --j)
 {
-zoxpjx1Bb1 = De1rYt(1765522305, hgg_09, L2idj13k_, -1665701040);
+zoxpjx1Bb1 = De1rYt(1765522305, hgg_09, L2idj13k_, (unsigned char)-1665701040);
 }
 }
 catch (int& errorCode)
@@ -230,7 +230,7 @@ PGrY28mU = g3hR << fFIUQQ9;
 }
 else if (((Pw946_d2b < XTdTQNA) && (XTdTQNA < -1327279456)) && ((TsIvH < 1839282364) && (y1O3 < fFIUQQ9)))
 {
-Pw946_d2b = CqqLB6U8(1586611583, hgg_09, 693465450, 927677960) | Ko8SQ;
+Pw946_d2b = CqqLB6U8(1586611583, hgg_09, (char)693465450, 927677960) | Ko8SQ;
 }
 else
 {
@@ -269,7 +269,7 @@ case 'e':
 fFIUQQ9 = G_8E17VFf(Vn2h3, fFIUQQ9, -1329129334, hgg_09);
 break;
 case 'f':
-b_k_voq2 = tt9oU48HD0(-403245696, PGrY28mU, 1079385610, -1228453993);
+b_k_voq2 = tt9oU48HD0(-403245696, PGrY28mU, 1079385610, (unsigned short)-1228453993);
 break;
 case 'g':
 y6w5FlW7t0 = tt9oU48HD0(y6w5FlW7t0, -1601740959, hgg_09, 396291453);

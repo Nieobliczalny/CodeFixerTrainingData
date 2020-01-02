@@ -26,7 +26,7 @@ unsigned char WHxwRLh(unsigned short int gpM95mHdZ9,unsigned long long kSVt) {
 
 unsigned short  Er0VXUPv7D(unsigned long long  VP9at26,int  hW94fE7,short  hJh6m,unsigned short  MIEE_9Et)
 {
-  return  -306443810;
+  return  (unsigned short)-306443810;
 }
 
 long    cUGm3U6Sbv()
@@ -40,7 +40,7 @@ int main() {
 	unsigned int	L8dme3qh1O;
 	L8dme3qh1O	=	0;
   unsigned char  C6MT_EePL6;
-  C6MT_EePL6  =  187037782;
+  C6MT_EePL6  =  (unsigned char)187037782;
  short t2_1cYI_;
  t2_1cYI_ = 2063479257;
   unsigned long long  QQ70t;
@@ -54,7 +54,7 @@ int main() {
 	long long	h10_eGB8uD;
 	h10_eGB8uD	=	289055309;
     unsigned short    wxn29rBzLA;
-    wxn29rBzLA    =    1004575235;
+    wxn29rBzLA    =    (unsigned short)1004575235;
     unsigned long    PZz9;
     PZz9    =    -158602641;
  unsigned char kA8cfJX0;
@@ -90,7 +90,7 @@ int main() {
     float    zYQ6JX;
     zYQ6JX    =    1425641251;
   unsigned short  MsUL_;
-  MsUL_  =  -867761736;
+  MsUL_  =  (unsigned short)-867761736;
   long  f5MvlKR6k;
   f5MvlKR6k  =  261716354;
 	long long	G1KlOb;
@@ -334,7 +334,7 @@ case 4:
 lt8Qb_UWx >>= 1065139646;
 break;
 case 5:
-Es9ILT9v = paUmC86bP(-684508930, 800119641);
+Es9ILT9v = paUmC86bP(-684508930, (short)800119641);
 break;
 }
 
@@ -362,7 +362,7 @@ else if (XtkM45A2o < t2_1cYI_)
 {
 if (LW9VT & L8dme3qh1O)
 {
-V4_pWk_1jP = Er0VXUPv7D(-458417157, f8f2Y5O9, -744559103, 9167610);
+V4_pWk_1jP = Er0VXUPv7D(-458417157, f8f2Y5O9, -744559103, (unsigned short)9167610);
 }
 else if ((nlqtR7) && (XtkM45A2o > -348651085))
 {
@@ -393,7 +393,7 @@ ntJ0ZEXE_ = (int)ceil(Y5Pa7GJ96H);
 }
 else if ((iS_xY9Yah > 1377332100) || (XtkM45A2o < -1774605129))
 {
-Es9ILT9v = Er0VXUPv7D(298832712, -615524843, 1215621120, -935738796);
+Es9ILT9v = Er0VXUPv7D(298832712, -615524843, 1215621120, (unsigned short)-935738796);
 }
 else if (Y5Pa7GJ96H != 1399542753)
 {
@@ -406,7 +406,7 @@ Es9ILT9v = (int)abs(G1KlOb);
 }
 else if ((f5MvlKR6k == wxn29rBzLA) || (YV9ULH104 == 1645469532))
 {
-ouoF8ZcHx = paUmC86bP(1971439284, 1277934429);
+ouoF8ZcHx = paUmC86bP(1971439284, (short)1277934429);
 }
 else
 {

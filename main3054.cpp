@@ -20,7 +20,7 @@ int main()
   unsigned char  zaxPj;
   zaxPj  =  -1361636845;
     char    G58_tU;
-    G58_tU    =    -1277206413;
+    G58_tU    =    (char)-1277206413;
     unsigned int    afK_3;
     afK_3    =    -1224088048;
     short int    pJ8rT4c;
@@ -30,7 +30,7 @@ int main()
  unsigned char etV4zTuo;
  etV4zTuo = 1857131708;
   short int  lT56Y9Q;
-  lT56Y9Q  =  -1344159457;
+  lT56Y9Q  =  (short)-1344159457;
 	long long	OrRzx;
 	OrRzx	=	2139151070;
     short    G2DysQzwD0;
@@ -44,7 +44,7 @@ int main()
   short int  JQiIviI;
   JQiIviI  =  -1008460008;
   unsigned short  f8t6;
-  f8t6  =  540043497;
+  f8t6  =  (unsigned short)540043497;
 	unsigned short	BBnMwWm3n;
 	BBnMwWm3n	=	-2114905266;
 	unsigned short	W6_68QP;
@@ -74,7 +74,7 @@ int main()
     char    Ff66M;
     Ff66M    =    0;
     short int    qV8S8;
-    qV8S8    =    1298457765;
+    qV8S8    =    (short)1298457765;
 	unsigned long long	j8Diog;
 	j8Diog	=	1190946910;
  unsigned int LiEeiT;
@@ -399,7 +399,7 @@ else
 std::cout << tKRy2blTJ(880430857) << std::endl;
 }
 }
-std::cout << tKRy2blTJ(655225647) << F4tLA << "hJ1mesg0" << "z_r8" << std::endl;
+std::cout << tKRy2blTJ((unsigned char)655225647) << F4tLA << "hJ1mesg0" << "z_r8" << std::endl;
 Ff66M = (int)abs(OrRzx) * 0;
 if (iFdwR7ufk6 != 838795300)
 {

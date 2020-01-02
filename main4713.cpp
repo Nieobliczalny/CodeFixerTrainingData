@@ -16,7 +16,7 @@ short int	Lz5__Aos5(unsigned long	HlS7zS3)	{
 int main(int argc, char** argv)
 {
 	unsigned short int	X75Xv0	=	-1340756957;
-  char  T_G04cPJe  =  498351875;
+  char  T_G04cPJe  =  (char)498351875;
 	unsigned long	TZ21r	=	-1142523475;
  unsigned short w2_x_ = -1281242778;
   short  ltcKSQrda2  =  0;
@@ -33,7 +33,7 @@ int main(int argc, char** argv)
   long long  B5Kc64  =  1233451875;
 	unsigned short	L_u6p7	=	173893694;
   unsigned int  P8Ej7Kgq  =  -1796107121;
- unsigned char ULs48I = -1569275081;
+ unsigned char ULs48I = (unsigned char)-1569275081;
     unsigned long long    rJOE    =    816104491;
   int  Zg56ezPoH6  =  321902929;
  char whup = 1108957413;
@@ -49,7 +49,7 @@ int main(int argc, char** argv)
     unsigned long    YkhDPf26oG    =    182806692;
   long long  C11N6  =  1023789052;
  double b5c5 = 764868589;
- char G87_75xl = -1007100069;
+ char G87_75xl = (char)-1007100069;
   long double  k8Ylc9A1  =  -1914451549;
     unsigned short int    zUG0dXD8I    =    1013569993;
     unsigned long long    GRi63L9n4    =    0;

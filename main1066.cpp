@@ -19,7 +19,7 @@ unsigned char    F0Kq5()    {
 
 short int    EaJga(long    tLkfz,unsigned short    INfrcTIa6_)
 {
-    return    -1735868924;
+    return    (short)-1735868924;
 }
 
 char  H_00(short  U7nwEmx00)
@@ -41,7 +41,7 @@ int main(void) {
 	long long	XOlU3SK;
 	XOlU3SK	=	87704620;
  unsigned char ELJDTG;
- ELJDTG = 1488492625;
+ ELJDTG = (unsigned char)1488492625;
     long    P13H7x;
     P13H7x    =    340533678;
   double  vmYBXz07P0;
@@ -61,7 +61,7 @@ int main(void) {
     long double    bweG_3A3A;
     bweG_3A3A    =    -1126140019;
 	unsigned short	s_ZgMYC5;
-	s_ZgMYC5	=	-781863157;
+	s_ZgMYC5	=	(unsigned short)-781863157;
     double    dmAH;
     dmAH    =    -905549704;
 	float	r4_RBEeR;
@@ -364,7 +364,7 @@ p27w = H_00(-225176568);
 }
 else if (diws0nTPtM == wGQ35F7MqZ)
 {
-std::cout << "QmXS" << "iWMrHYhf06" << "S0C41P5K4l" << H_00(1256113213) << EaJga(ELJDTG, -768254648) << std::endl;
+std::cout << "QmXS" << "iWMrHYhf06" << "S0C41P5K4l" << H_00((short)1256113213) << EaJga(ELJDTG, -768254648) << std::endl;
 }
 else if (ELJDTG & wGQ35F7MqZ)
 {

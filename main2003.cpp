@@ -16,7 +16,7 @@ int main(int argc, char** argv)
     unsigned char    vGT7_jNy0V    =    -401635815;
  float Kc9F__1y = -1145794292;
   int  JU98X41  =  -1667338754;
-	short	XfB2	=	-1887280658;
+	short	XfB2	=	(short)-1887280658;
   long long  jgV_07JIO  =  -2074797882;
 	unsigned short	GvuU94R	=	1828087451;
     unsigned short int    Boj6z__64t    =    441676043;
@@ -29,7 +29,7 @@ int main(int argc, char** argv)
     unsigned char    j8Xbz6    =    791629258;
 	unsigned long	EUNP31n1	=	-1851051088;
 	int	uR7ky	=	1808213589;
-    short    xD_6    =    -706387925;
+    short    xD_6    =    (short)-706387925;
 
 lVUlBb6 = vaQ4(-1241634985, j8Xbz6);
 
@@ -88,7 +88,7 @@ try
 {
 if ((xD_6 == lVUlBb6) && (jgV_07JIO <= Ob_Mz))
 {
-lVUlBb6 = vaQ4(-1381512203, Ob_Mz);
+lVUlBb6 = vaQ4((short)-1381512203, Ob_Mz);
 }
 else
 {

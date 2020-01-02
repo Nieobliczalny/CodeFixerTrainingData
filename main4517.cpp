@@ -49,7 +49,7 @@ FUD_XTb9 = tbE1Y6I(1687706732, -1061759174, 499441767);
 }
 else if (FUD_XTb9 & -382313191)
 {
-sJeb7_06Pn = BEhO(-917041730, -565410329, 437692561);
+sJeb7_06Pn = BEhO((unsigned char)-917041730, -565410329, 437692561);
 }
 else if (AYo1d < -24050733)
 {
@@ -61,7 +61,7 @@ sJeb7_06Pn = sJeb7_06Pn / 1838852609;
 }
 else if (AYo1d <= lNt4)
 {
-std::cout << rUv6x_iYY(-1497083397, -993994661, -1357429820, h_XdV) << "Sv4hdJQ6S" << std::endl;
+std::cout << rUv6x_iYY(-1497083397, (unsigned short)-993994661, -1357429820, h_XdV) << "Sv4hdJQ6S" << std::endl;
 }
 else if (FUD_XTb9 != 1540635522)
 {
@@ -117,7 +117,7 @@ break;
 
 sJeb7_06Pn = bdkWP(-435145057, -1113048069, AYo1d, -1930875231, -1869955542);
 
-std::cout << rUv6x_iYY(1971576126, sJeb7_06Pn, -1883893633, -162862017) << ULAY60 << std::endl;
+std::cout << rUv6x_iYY(1971576126, sJeb7_06Pn, (char)-1883893633, -162862017) << ULAY60 << std::endl;
 if (MB5c3qI < 1002978049)
 {
 sJeb7_06Pn = (long double)(c6RKk3a1r);
@@ -132,7 +132,7 @@ sJeb7_06Pn = rUv6x_iYY(MB5c3qI, ULAY60, h_XdV, 1130386316);
 }
 else
 {
-sJeb7_06Pn = rUv6x_iYY(1022420768, -627607309, FUD_XTb9, -908218863);
+sJeb7_06Pn = rUv6x_iYY(1022420768, (unsigned short)-627607309, FUD_XTb9, -908218863);
 }
 }
 else if (MB5c3qI <= ULAY60)
@@ -157,7 +157,7 @@ sJeb7_06Pn = bdkWP(842777421, FUD_XTb9, AYo1d, -1132732546, 1123550389);
 break;
 case 'e':
 case 'E':
-sJeb7_06Pn = rUv6x_iYY(21537522, -1469385924, 1673430283, -844493608);
+sJeb7_06Pn = rUv6x_iYY(21537522, (unsigned short)-1469385924, 1673430283, -844493608);
 break;
 case 'f':
 case 'F':
@@ -182,7 +182,7 @@ AYo1d = (unsigned long)(sJeb7_06Pn * AYo1d);
 }
 else if (MB5c3qI)
 {
-sJeb7_06Pn = BEhO(1195200313, -1450404494, sJeb7_06Pn);
+sJeb7_06Pn = BEhO(1195200313, (unsigned short)-1450404494, sJeb7_06Pn);
 }
 else if (h_XdV < 282370711)
 {
@@ -196,7 +196,7 @@ sJeb7_06Pn = p57VASt(ULAY60, 1805486558, 831176962, MB5c3qI);
 }
 else if (h_XdV >= FUD_XTb9)
 {
-sJeb7_06Pn = rUv6x_iYY(1402923241, -1577877006, -857442188, -184437207);
+sJeb7_06Pn = rUv6x_iYY((short)1402923241, -1577877006, -857442188, -184437207);
 }
 else if (FUD_XTb9 <= -1959593727)
 {
@@ -227,7 +227,7 @@ if ((FUD_XTb9) && (h_XdV < sJeb7_06Pn))
 {
 if ((FUD_XTb9 < MB5c3qI) && ((FUD_XTb9 != 2127699912) && (h_XdV >= c6RKk3a1r)))
 {
-std::cout << FUD_XTb9 << p57VASt(1203137532, h_XdV, 365875968, FUD_XTb9) << "G759z_3t" << std::endl;
+std::cout << FUD_XTb9 << p57VASt((unsigned char)1203137532, h_XdV, 365875968, FUD_XTb9) << "G759z_3t" << std::endl;
 }
 else
 {
@@ -265,7 +265,7 @@ case 5:
 sJeb7_06Pn = BEhO(532293046, h_XdV, ULAY60);
 break;
 case 6:
-sJeb7_06Pn = rUv6x_iYY(66849884, sJeb7_06Pn, ULAY60, -800438902);
+sJeb7_06Pn = rUv6x_iYY((short)66849884, sJeb7_06Pn, ULAY60, -800438902);
 break;
 case 7:
 sJeb7_06Pn = p57VASt(806620462, sJeb7_06Pn, ULAY60, AYo1d) >> 1621359765;

@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
   unsigned long  D3763;
   D3763  =  -159357512;
 	short	G5C9_50i;
-	G5C9_50i	=	387453651;
+	G5C9_50i	=	(short)387453651;
  unsigned short GGo_iXuP_l;
  GGo_iXuP_l = -802572803;
     unsigned long long    zM4iaMd;
@@ -44,7 +44,7 @@ int main(int argc, char** argv) {
   double  a4_x1V;
   a4_x1V  =  1080047133;
  short int ph0Af;
- ph0Af = 681794940;
+ ph0Af = (short)681794940;
  unsigned char j5uoYRp;
  j5uoYRp = -1290276125;
  long long aKZKY2Uzn;
@@ -64,7 +64,7 @@ int main(int argc, char** argv) {
 	float	F5DpRf5;
 	F5DpRf5	=	851887569;
 	unsigned short	kis86vp;
-	kis86vp	=	-92756397;
+	kis86vp	=	(unsigned short)-92756397;
   int  FjS1L8Cp;
   FjS1L8Cp  =  -1398096661;
 	int	s297w91bb;
@@ -94,7 +94,7 @@ int main(int argc, char** argv) {
   char  J_Ce5FHsx7;
   J_Ce5FHsx7  =  -877521715;
 	unsigned char	d92EN3b7;
-	d92EN3b7	=	1044348680;
+	d92EN3b7	=	(unsigned char)1044348680;
  int Ti_b1w8GQ;
  Ti_b1w8GQ = 178596252;
  long B3IUsv;
@@ -112,7 +112,7 @@ int main(int argc, char** argv) {
  unsigned short int Z4e_7QA1;
  Z4e_7QA1 = 163432641;
   unsigned char  m23V;
-  m23V  =  1618906429;
+  m23V  =  (unsigned char)1618906429;
     unsigned short    k5p5Q;
     k5p5Q    =    858516416;
 	short	EuaWy6YDc;
@@ -233,7 +233,7 @@ case 4:
 UfWTG0 = V_EDs_(ph0Af, RLy8c6I3, nYCtyfGx5Q, -761364310);
 break;
 case 5:
-C79ws = V_EDs_(-1942800913, B3IUsv, 1915506769, -1576087109);
+C79ws = V_EDs_(-1942800913, B3IUsv, (unsigned short)1915506769, -1576087109);
 break;
 case 6:
 Mu23g5sTeF = s297w91bb + 1933310553;
@@ -250,7 +250,7 @@ j5uoYRp = (unsigned char)(f8_Qx);
 
 for (int i = 1; i >= 0; i--)
 {
-std::cout << V_EDs_(s297w91bb, 178842371, -1888555050, Mu23g5sTeF) << V_EDs_(s297w91bb, -1964224714, k5p5Q, Mu23g5sTeF) << V_EDs_(594726315, B3IUsv, -1478175166, 1212102237) << "zXjhsIe" << std::endl;
+std::cout << V_EDs_(s297w91bb, 178842371, -1888555050, Mu23g5sTeF) << V_EDs_(s297w91bb, -1964224714, k5p5Q, Mu23g5sTeF) << V_EDs_(594726315, B3IUsv, (unsigned short)-1478175166, 1212102237) << "zXjhsIe" << std::endl;
 }
 
 if ((GGo_iXuP_l >= -1765197371) && (s297w91bb))
@@ -291,7 +291,7 @@ case 3:
 UfWTG0 = V_EDs_(f8_Qx, D3763, RGIbW_, Z4e_7QA1);
 break;
 case 4:
-C79ws = V_EDs_(-1728496441, -2080474465, 1761780847, 430946435);
+C79ws = V_EDs_(-1728496441, -2080474465, (unsigned short)1761780847, 430946435);
 break;
 case 5:
 UfWTG0 = V_EDs_(vC746Rbrt2, EuaWy6YDc, D3763, Mx0pF2oqU0);

@@ -64,7 +64,7 @@ else if (((c1JPFQ94 == NmK3) || (Ny9N0M2)) && (pd4Z <= 1578036814))
 switch (Ny9N0M2)
 {
 case 'a':
-Y6_498vf = NF6778K(-518833280, -1564929898, iArg, -1966919310);
+Y6_498vf = NF6778K(-518833280, -1564929898, iArg, (short)-1966919310);
 break;
 case 'b':
 n8uFA /= 1667747605;
@@ -97,7 +97,7 @@ case 0:
 Y5hTozRB6J -= 1374413246;
 break;
 case 1:
-TuPH = ryj9iZ4(1958615173, 2061977566, 666429543, l4WrIP);
+TuPH = ryj9iZ4(1958615173, 2061977566, (unsigned short)666429543, l4WrIP);
 break;
 case 2:
 NmK3 -= XTJu;
@@ -109,7 +109,7 @@ case 4:
 TuPH = ryj9iZ4(w_R5320cw, 486378942, -2023546352, 222516311);
 break;
 case 5:
-l4WrIP = NF6778K(l4WrIP, yiq5, -1947435575, -36160856);
+l4WrIP = NF6778K(l4WrIP, yiq5, -1947435575, (short)-36160856);
 break;
 case 6:
 TuPH = ryj9iZ4(AJ7DoP683, -551775982, 1600997799, 317876445);
@@ -151,7 +151,7 @@ XTJu = y227 + 617527813;
 }
 else
 {
-L989T0ar = NF6778K(1887851299, yiq5, -1168748448, Xo3808Rwi);
+L989T0ar = NF6778K(1887851299, yiq5, (unsigned char)-1168748448, Xo3808Rwi);
 }
 }
 }
@@ -162,7 +162,7 @@ for (int j = 10; j >= 0; --j)
 qt_8x6Il = (int)abs(pd4Z);
 }
 }
-oj98J8w = NF6778K(-991376618, yiq5, 481537084, Xo3808Rwi) + S7VwQhtK;
+oj98J8w = NF6778K(-991376618, yiq5, (unsigned char)481537084, Xo3808Rwi) + S7VwQhtK;
 
 KngHGhW = (double)(AJ7DoP683);
 
@@ -197,7 +197,7 @@ TuPH = ryj9iZ4(Do20Bq, BS6b0qf, AJ7DoP683, 1331936670);
 }
 else
 {
-c1JPFQ94 = NF6778K(-1610706685, 860013432, 1738705410, 1779791638);
+c1JPFQ94 = NF6778K((short)-1610706685, 860013432, 1738705410, 1779791638);
 }
 }
 }
@@ -235,7 +235,7 @@ K8YxOds88 = (double)(oj98J8w);
 ++i;
 }
 }
-XTJu = -350190173 / ryj9iZ4(-1814903642, pd4Z, -311895288, E8_5Ow5);
+XTJu = -350190173 / ryj9iZ4(-1814903642, pd4Z, (unsigned short)-311895288, E8_5Ow5);
 try
 {
 for (int j = 2; j >= 0; --j)
@@ -315,7 +315,7 @@ else if (((ioB7a986 < 1312087818) || (b9LCV9S <= 1080389764)) || (Xo3808Rwi & 14
 switch (Xo3808Rwi)
 {
 case 0:
-Y6_498vf = NF6778K(1710540713, Titn2Zg, F_U5, X4XZaqa);
+Y6_498vf = NF6778K((short)1710540713, Titn2Zg, F_U5, X4XZaqa);
 break;
 case 1:
 pd4Z = Do20Bq - K8YxOds88;

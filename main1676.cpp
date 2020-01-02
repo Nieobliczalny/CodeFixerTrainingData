@@ -22,7 +22,7 @@ int main(void)
  int CY9L7A_5c = 0;
   short int  ZGSG6fh  =  0;
   short  H546twn  =  650366376;
-  unsigned char  uzbzYuJV5  =  -1497089605;
+  unsigned char  uzbzYuJV5  =  (unsigned char)-1497089605;
  long long bXa8uv6W6 = -1952484649;
     short int    O2lt52    =    531326075;
   double  j2mBc  =  -372406905;
@@ -96,7 +96,7 @@ while (k < 8);
 }
 else if (uzbzYuJV5 >= wf97Fet420)
 {
-cout << "Z71GH1" << noKw(j2mBc, 1074510591) << endl;
+cout << "Z71GH1" << noKw(j2mBc, (short)1074510591) << endl;
 }
 else
 {

@@ -25,7 +25,7 @@ int main(int argc, char** argv)
   short int  znKaBq  =  -1476180422;
 	long	q_R4	=	-1311741813;
  int D4W8Y06k = -1063733477;
- unsigned short z6yE = -757968432;
+ unsigned short z6yE = (unsigned short)-757968432;
   unsigned int  upi4UOICk  =  290485961;
  unsigned int lbn2WAJ = -309870057;
     double    r3EyhP    =    114735272;
@@ -39,7 +39,7 @@ int main(int argc, char** argv)
     long double    li2pQ42    =    -453903840;
     long double    EE6LH9    =    -697901190;
  unsigned long long j_2ku0I = -1368695704;
-    short int    s879cF    =    746255200;
+    short int    s879cF    =    (short)746255200;
  short CwM92 = 10667592;
 	unsigned long long	R6s1Tv	=	1325859145;
  long long tf79zj5o = 0;
@@ -53,7 +53,7 @@ int main(int argc, char** argv)
 	unsigned long long	Q_vg8rs_L1	=	-1728030785;
   double  lc12Jt5y  =  1936167010;
 	long long	w7DaUbAa38	=	735737792;
- short rb8DE0Tq = -708620993;
+ short rb8DE0Tq = (short)-708620993;
 	unsigned char	KPd_	=	0;
 	long	zk_8	=	-489905140;
  short int sCsMh = 1187643124;
@@ -67,7 +67,7 @@ int main(int argc, char** argv)
   short  Z5L60  =  512454847;
 	unsigned int	KM3oyUz	=	-499266626;
 	long	ZNvQk	=	1497520553;
-	char	IF3UC_5Ib	=	125095419;
+	char	IF3UC_5Ib	=	(char)125095419;
     unsigned long    k9m_k9b    =    896291125;
 	unsigned long	HOu7_	=	632587632;
     unsigned long    wPDn    =    201672132;
@@ -83,7 +83,7 @@ int main(int argc, char** argv)
   unsigned long  Q0u_  =  -1329419484;
  long long QDgryHVk = 307097527;
   double  Fv258W12J  =  6577330;
-	unsigned short	RPmb9SO9	=	-2025296302;
+	unsigned short	RPmb9SO9	=	(unsigned short)-2025296302;
   int  ZKXo4R  =  -1740041269;
   long  ZEXx9xV_bv  =  192739639;
  float Px982CD8r = -1410372404;
@@ -220,7 +220,7 @@ case 8:
 Cf_nJ = Yyc3B + zk_8;
 break;
 case 9:
-upi4UOICk = qu70PUT_G(-78679729, -257934746, 654658020, -690851940);
+upi4UOICk = qu70PUT_G(-78679729, (unsigned char)-257934746, 654658020, -690851940);
 break;
 default:
 KM3oyUz = i79Ot(KM3oyUz, zU_g3o, 437841503, 1664451394, 98872144);
@@ -368,7 +368,7 @@ short int  qu70PUT_G(short int  vu5L,unsigned char  RpOMf5f38,unsigned long long
 }
 
 char SLm9HzL(char yljfdI1Lm,long R9qNCU_,long long cGSFmTy) {
- return 1434222272;
+ return (char)1434222272;
 }
 
 unsigned long long i79Ot(long RuCFcw5hL,long long le61fCQ,long i9TyCKk9YB,long long WMa1el0,int p3mo)

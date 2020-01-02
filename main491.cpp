@@ -11,7 +11,7 @@ int main()
 {
 	unsigned char	D_7v,	S2KKvb,	tkBqq,	hTXB0r,	TMx7o0,	enTx1R,	Q_6tKu7Fl,	gX7wQKxk,	itAu847;
 	D_7v	=	1785001205;
-	S2KKvb	=	-895174397;
+	S2KKvb	=	(unsigned char)-895174397;
 	tkBqq	=	-1891210105;
 	hTXB0r	=	1266855855;
 	TMx7o0	=	-1865710141;

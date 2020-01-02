@@ -22,7 +22,7 @@ char	b4HyN(long	nl92TEK,short	N60I420T,long	jnYJ3u)
 
 unsigned short	F_Ae(long long	CCrt_7RljX,short	Nwdhg,unsigned short int	NMJWa1y,short	G309ln65)
 {
-	return	754822396;
+	return	(unsigned short)754822396;
 }
 
 unsigned long long eUta(unsigned long l_I8c,unsigned short okmYJgkts9,long O0551LR4,unsigned long long gVtR) {

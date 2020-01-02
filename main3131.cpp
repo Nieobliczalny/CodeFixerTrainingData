@@ -61,7 +61,7 @@ wx_0L8_K8w = (long)(N_0o_ISsW);
 }
 }
 
-cout << "q1HE20b" << "lI7QOOQ" << FxYohfP_(-655185465, -632808230) << "z3m4n" << wR5__ << endl;
+cout << "q1HE20b" << "lI7QOOQ" << FxYohfP_(-655185465, (char)-632808230) << "z3m4n" << wR5__ << endl;
 try
 {
 {
@@ -100,7 +100,7 @@ KbL5306 = KjiEJ6y_4y(aSyK, -860225800);
 break;
 case 'd':
 case 'D':
-Ov0zF = FxYohfP_(2088419224, 1143708652);
+Ov0zF = FxYohfP_(2088419224, (char)1143708652);
 break;
 case 'e':
 case 'E':

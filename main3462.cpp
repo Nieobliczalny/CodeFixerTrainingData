@@ -29,7 +29,7 @@ long long  IFOIY0A5w(unsigned int  m8URJh3jH,unsigned long long  xyzRMWS,char  V
 
 unsigned char    Kc2454CRt(unsigned long    u0LQZ6O1bR,int    js996X1_)
 {
-    return    1440628706;
+    return    (unsigned char)1440628706;
 }
 
 long    Z2520(long    s4OVP,unsigned int    P4XgX,char    I_EniY,short int    rjkNHY88rD,int    b9_J)
@@ -96,7 +96,7 @@ while (k < 9);
 }
 else if (R210KYZX == -1556209986)
 {
-cout << IFOIY0A5w(pa_g2, cNGEh1L, 903075397) << pa_g2 << Z2520(-1350387757, cNGEh1L, DP90, wp99x32, k5rxhk1n) << "uv6p9zmRQ4" << endl;
+cout << IFOIY0A5w(pa_g2, cNGEh1L, (char)903075397) << pa_g2 << Z2520(-1350387757, cNGEh1L, DP90, wp99x32, k5rxhk1n) << "uv6p9zmRQ4" << endl;
 }
 else if (d_YS88q)
 {
@@ -120,7 +120,7 @@ jPxp_ = Kc2454CRt(-2132220119, Vkq5);
 break;
 case 'e':
 case 'E':
-ZYYPYEec7R = AvvuQ29(688240498, MjgSq2, -146511397, 323766984);
+ZYYPYEec7R = AvvuQ29(688240498, MjgSq2, (short)-146511397, 323766984);
 break;
 case 'f':
 case 'F':
@@ -143,7 +143,7 @@ int k = 0;
 do
 {
 k++;
-J94kp = Z2520(J94kp, -243279371, 962380476, 1754723504, ZYYPYEec7R);
+J94kp = Z2520(J94kp, -243279371, 962380476, (short)1754723504, ZYYPYEec7R);
 }
 while (k < 6);
 }
@@ -294,7 +294,7 @@ pa_g2 = FB_BCdgP6K - WR9G0ycF;
 }
 else
 {
-Vkq5 = r0_gW(wp99x32, 1700183879, 1189379195, FB_BCdgP6K, -793866256) | 2101880205;
+Vkq5 = r0_gW(wp99x32, 1700183879, (short)1189379195, FB_BCdgP6K, -793866256) | 2101880205;
 }
 }
 else
@@ -363,7 +363,7 @@ k5rxhk1n <<= TfAPK20;
 break;
 case 'b':
 case 'B':
-WR9G0ycF = Z2520(WR9G0ycF, -2015872278, 671499423, 574183795, R210KYZX);
+WR9G0ycF = Z2520(WR9G0ycF, -2015872278, 671499423, (short)574183795, R210KYZX);
 break;
 case 'c':
 case 'C':
@@ -387,7 +387,7 @@ while (k < 2);
 }
 }
 }
-cout << IFOIY0A5w(DP90, ZYYPYEec7R, -625031094) << Kc2454CRt(DP90, -379252965) << AvvuQ29(DP90, ZYYPYEec7R, cNGEh1L, -1216093773) << "b_n5YgB" << "HYl8Y867" << endl;
+cout << IFOIY0A5w(DP90, ZYYPYEec7R, (char)-625031094) << Kc2454CRt(DP90, -379252965) << AvvuQ29(DP90, ZYYPYEec7R, cNGEh1L, -1216093773) << "b_n5YgB" << "HYl8Y867" << endl;
 cout << Z2520(DP90, ZYYPYEec7R, 661485791, -1938999844, tHJ4M0I) << Kc2454CRt(383103841, ZYYPYEec7R) << AvvuQ29(DP90, 1493049695, cNGEh1L, 723904613) << MjgSq2 << endl;
 
 for (int i = 5; i >= 0; --i)

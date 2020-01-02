@@ -52,7 +52,7 @@ case 0:
 X5DXT955x = ZZZng7_3(1316660840, -1777665849, -2073648705, -173692053, H_2aO57);
 break;
 case 1:
-pTS07Eu_Sg = ZZZng7_3(-685829528, 1450113389, 2043719317, Hv2fmdY5W, 802998363);
+pTS07Eu_Sg = ZZZng7_3((unsigned char)-685829528, 1450113389, 2043719317, Hv2fmdY5W, 802998363);
 break;
 case 2:
 Dz7568 = ZZZng7_3(-487548120, V3mrs8JvHk, -1687488398, oNCF_, 235776418);
@@ -103,7 +103,7 @@ else if (Lk0M_q8x > -1899218401)
 {
 try
 {
-pTS07Eu_Sg = ZZZng7_3(-715737306, -440579179, -196050121, 632741432, 1544208953);
+pTS07Eu_Sg = ZZZng7_3((unsigned char)-715737306, -440579179, -196050121, 632741432, 1544208953);
 }
 catch (int& errorCode)
 {
@@ -172,7 +172,7 @@ case 0:
 pTS07Eu_Sg = ZZZng7_3(1103693605, XgQ7_tog, p89_POFM, 1186082395, z15z0);
 break;
 default:
-pTS07Eu_Sg = ZZZng7_3(-830309452, pTS07Eu_Sg, vi6aDwW, nO92, 1324413570);
+pTS07Eu_Sg = ZZZng7_3((unsigned char)-830309452, pTS07Eu_Sg, vi6aDwW, nO92, 1324413570);
 break;
 }
 }
@@ -198,7 +198,7 @@ if ((nZ71prcaAt == wY8s1a) || (Hv2fmdY5W >= 566388370))
 {
 try
 {
-std::cout << ZZZng7_3(-1239483384, k1bHmSeP, 429614761, mWSV3, nZ71prcaAt) << ZZZng7_3(o46GM19L, k1bHmSeP, -77256004, -1668485846, nZ71prcaAt) << "QiY38C7sq7" << ZZZng7_3(o46GM19L, 1623342531, vg7jgkj0S, mWSV3, -809300467) << FA24HcA__h << std::endl;
+std::cout << ZZZng7_3((unsigned char)-1239483384, k1bHmSeP, 429614761, mWSV3, nZ71prcaAt) << ZZZng7_3(o46GM19L, k1bHmSeP, -77256004, -1668485846, nZ71prcaAt) << "QiY38C7sq7" << ZZZng7_3(o46GM19L, 1623342531, vg7jgkj0S, mWSV3, -809300467) << FA24HcA__h << std::endl;
 }
 catch (int& errorCode)
 {
@@ -225,7 +225,7 @@ X5DXT955x = ZZZng7_3(1124106121, -443850719, 1672335879, OkoLDw_1g, l_6xZuy6em);
 break;
 case 'd':
 case 'D':
-X5DXT955x = ZZZng7_3(636656448, vTM3Fqkor, 411534944, -1810836891, l1r299mN);
+X5DXT955x = ZZZng7_3((unsigned char)636656448, vTM3Fqkor, 411534944, -1810836891, l1r299mN);
 break;
 case 'e':
 case 'E':
@@ -241,7 +241,7 @@ t7530K1Ar = ZZZng7_3(Em739, D8_cm40, e0umTt, QeY9WM_, Hv2fmdY5W) * 1016209559;
 break;
 case 'h':
 case 'H':
-pTS07Eu_Sg = ZZZng7_3(446171483, 144371746, iXtW1247, k0yo, yXR9i1q14L);
+pTS07Eu_Sg = ZZZng7_3((unsigned char)446171483, 144371746, iXtW1247, k0yo, yXR9i1q14L);
 break;
 }
 if (HncTD8dCx8 < -2100690621)

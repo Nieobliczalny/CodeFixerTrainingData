@@ -51,7 +51,7 @@ case 2:
 FcF541uzBv = DDXd_sf >> g5BI51zcD;
 break;
 case 3:
-JrEnABKbr = xPZQSF_j(1032897912, e65l1WY9G);
+JrEnABKbr = xPZQSF_j((unsigned char)1032897912, e65l1WY9G);
 break;
 default:
 DDXd_sf = HNDI % 1164153209;
@@ -115,7 +115,7 @@ else if (fVofnP & r4MWL)
 int k = 0;
 while (k < 2)
 {
-bIyI5 = YQxFf_7X(1737821672, DDXd_sf, 529615656);
+bIyI5 = YQxFf_7X(1737821672, DDXd_sf, (char)529615656);
 ++k;
 }
 }
@@ -192,7 +192,7 @@ K49A6 += fLjH67y;
 }
 else if (l0C_KNE == -170452967)
 {
-VNkha1z = YQxFf_7X(p16HL, 593259091, 1668172177) - 2035912735;
+VNkha1z = YQxFf_7X(p16HL, 593259091, (char)1668172177) - 2035912735;
 }
 else if ((Lm__5McHPn != 744918392) && (e65l1WY9G))
 {
@@ -208,7 +208,7 @@ catch (int& errorCode)
 {
 fLjH67y = K49A6 % fVofnP;
 }
-cout << bIyI5 << "DtjIsdCY9o" << e1t2(I4X6Q1V, -69096883, 1049057241, -1727234615) << "c6ijz9q" << xPZQSF_j(-1596823113, XAMF6B3) << endl;
+cout << bIyI5 << "DtjIsdCY9o" << e1t2(I4X6Q1V, -69096883, (short)1049057241, -1727234615) << "c6ijz9q" << xPZQSF_j(-1596823113, XAMF6B3) << endl;
 
 for (int i = 0; i < 5; ++i)
 {
@@ -255,7 +255,7 @@ while (i < 2);
 }
 
 l0C_KNE = -2062718763 / Ff4K43S0;
-cout << "NC2Da85dL" << e1t2(bIyI5, p16HL, -1139113669, f1_234R) << YQxFf_7X(bIyI5, 1381125305, e65l1WY9G) << Ff4K43S0 << endl;
+cout << "NC2Da85dL" << e1t2(bIyI5, p16HL, -1139113669, f1_234R) << YQxFf_7X(bIyI5, (unsigned char)1381125305, e65l1WY9G) << Ff4K43S0 << endl;
 {
 int i = 0;
 do
@@ -290,7 +290,7 @@ y10W1c52 ^= JrEnABKbr;
 break;
 case 'g':
 case 'G':
-fLjH67y = xPZQSF_j(838718289, mZZ5NsP);
+fLjH67y = xPZQSF_j((unsigned char)838718289, mZZ5NsP);
 break;
 case 'h':
 case 'H':
@@ -329,7 +329,7 @@ XAMF6B3 = DDXd_sf >> RE61NH;
 }
 else
 {
-e65l1WY9G = YQxFf_7X(HNDI, 692694585, 1998583003);
+e65l1WY9G = YQxFf_7X(HNDI, 692694585, (char)1998583003);
 }
 }
 else
@@ -399,7 +399,7 @@ case 2:
 VNkha1z = Ge6FJ9_MBc(-1940303229, -1627178792, 252957625, mZZ5NsP, 114175865);
 break;
 case 3:
-Bp234 = YQxFf_7X(-1781424319, 1397849306, -1481921302);
+Bp234 = YQxFf_7X((char)-1781424319, 1397849306, -1481921302);
 break;
 case 4:
 iB_9 = Ge6FJ9_MBc(FcF541uzBv, p16HL, y10W1c52, mZZ5NsP, HNDI) - g5BI51zcD;

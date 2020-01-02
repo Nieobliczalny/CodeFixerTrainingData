@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
     q_1EUL    =    0;
  unsigned char I3oxU, hB5277C, stE3BoP9yd, a7d9U, AKt9z3Ra5p, H14UE5Bh63, dA2_003, ZMZ13_jfe, UWsFuiU5, S_1o7, Inq87KSa, y0hA2, AiMp, bxlJB, A45O, W0UL, lFWzK3LH, drWrYeL1, IUFpxy, n6hzc, N2Ld1nnH_, bKP2E0L4, z56TMD, hv9_NBkf, g8l4v9w1, q29f2064, LB773, W0x1pq, u0KkfU41, L6h7c, vbEX2c5, zCzwN3s, sK2bp, LBPsuuSUDA, R50F_o, m0XiXl16v, A9qZM9vmu, nh2Jg0_2, TfN8E_3blP, zEkt6D, g2Ub_ZP5vm, FjEHqD8m0, A_763Wdv, h72X, Z8z6RQ;
  I3oxU = -1774544824;
- hB5277C = -847254796;
+ hB5277C = (unsigned char)-847254796;
  stE3BoP9yd = 1112225796;
  a7d9U = -885532321;
  AKt9z3Ra5p = 2106227617;
@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
  UWsFuiU5 = -319171421;
  S_1o7 = -1929453399;
  Inq87KSa = 1773144209;
- y0hA2 = -1063488176;
+ y0hA2 = (unsigned char)-1063488176;
  AiMp = -1928332222;
  bxlJB = 357526411;
  A45O = -1797936145;
@@ -42,7 +42,7 @@ int main(int argc, char** argv) {
  IUFpxy = 939966772;
  n6hzc = 493892752;
  N2Ld1nnH_ = -1917017768;
- bKP2E0L4 = 1469259923;
+ bKP2E0L4 = (unsigned char)1469259923;
  z56TMD = -582162428;
  hv9_NBkf = 1017800999;
  g8l4v9w1 = 66918470;
@@ -52,7 +52,7 @@ int main(int argc, char** argv) {
  u0KkfU41 = -1996407715;
  L6h7c = 1020224302;
  vbEX2c5 = 1658048314;
- zCzwN3s = 1672194801;
+ zCzwN3s = (unsigned char)1672194801;
  sK2bp = -487497395;
  LBPsuuSUDA = -1126214654;
  R50F_o = 155492754;
@@ -62,7 +62,7 @@ int main(int argc, char** argv) {
  TfN8E_3blP = -789704395;
  zEkt6D = 462025163;
  g2Ub_ZP5vm = 2123817124;
- FjEHqD8m0 = 1300855680;
+ FjEHqD8m0 = (unsigned char)1300855680;
  A_763Wdv = -1930314973;
  h72X = -1589909736;
  Z8z6RQ = 442210978;
@@ -560,7 +560,7 @@ case 1:
 hv9_NBkf = WAb4Juc8z(-1680071028, sK2bp, A9qZM9vmu);
 break;
 case 2:
-zEkt6D = WAb4Juc8z(zEkt6D, -310688693, -187556088);
+zEkt6D = WAb4Juc8z(zEkt6D, -310688693, (short)-187556088);
 break;
 default:
 dA2_003 = P__E5(1451834748) & 1762466075;
@@ -681,7 +681,7 @@ LBPsuuSUDA = WAb4Juc8z(-1486799484, q_1EUL, -688898921);
 break;
 case 'd':
 case 'D':
-y0hA2 = (A_763Wdv <= -1277862268) ? -754705316 : -1292839247;
+y0hA2 = (A_763Wdv <= -1277862268) ? (unsigned char)-754705316 : -1292839247;
 break;
 default:
 LBPsuuSUDA = A45O + 571061029;
@@ -839,6 +839,6 @@ char    pfCo()    {
 }
 
 short int	Wpd7()	{
-	return	1852053997;
+	return	(short)1852053997;
 }
 

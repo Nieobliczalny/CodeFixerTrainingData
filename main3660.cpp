@@ -80,7 +80,7 @@ N819p1 = t17Qhq_(-447287279, -1033105934, XD3MRS_S2);
 break;
 case 'g':
 case 'G':
-N819p1 = (IxmX8qt < N819p1) ? p1MWo8 : YnvT6bL(414916462);
+N819p1 = (IxmX8qt < N819p1) ? p1MWo8 : YnvT6bL((unsigned char)414916462);
 break;
 case 'h':
 case 'H':

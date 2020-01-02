@@ -12,7 +12,7 @@ int main() {
     short int    f_X_3p9zb    =    -915908763;
   long double  Lsv7j3  =  717263473;
   float  sj3QK8  =  -1497245562;
-  short int  IrXP09  =  -2013442784;
+  short int  IrXP09  =  (short)-2013442784;
 	long double	U5W07xj2t	=	1410691900;
 	double	Z1H7rdVD	=	960258574;
   unsigned long long  qH___P  =  -658469603;
@@ -25,7 +25,7 @@ int main() {
   unsigned int  AjP_Qz310  =  0;
  unsigned long long eq99 = 1347304442;
  long j_5j07 = 804079435;
-    short    BkR04    =    268494168;
+    short    BkR04    =    (short)268494168;
   short  CTnw  =  -1252241493;
     unsigned int    MjayGm3    =    -1447579811;
  int uo5l8 = -1818315584;
@@ -37,7 +37,7 @@ int main() {
 	long long	SIx9bK	=	-1577486589;
   long long  y9UvOH  =  1675002547;
  unsigned char t91wd = 0;
-  unsigned short int  Ab4A  =  -631028804;
+  unsigned short int  Ab4A  =  (unsigned short)-631028804;
 
 try
 {

@@ -25,7 +25,7 @@ int main(int argc, char** argv)
  unsigned int gW_y = 829763389;
 	char	R4i_5O5LF2	=	213475959;
 	int	mU8NZ_13_G	=	-215976321;
-	unsigned short int	x__Uwa212J	=	-393936134;
+	unsigned short int	x__Uwa212J	=	(unsigned short)-393936134;
 	short	YlaUn1ra	=	-183254857;
   unsigned int  fW_zcRzU3  =  -1706086030;
     unsigned char    v9UQJ    =    591101250;
@@ -37,7 +37,7 @@ int main(int argc, char** argv)
 	unsigned long long	IuM979lZL	=	-218896152;
   unsigned short  d8055  =  606670779;
  unsigned int hwZY6eg = -84736989;
- short int JuDglLLG8c = -2127556346;
+ short int JuDglLLG8c = (short)-2127556346;
  short int UTm2o = 714276192;
   unsigned int  vIZ__Ucl2  =  -1297072855;
  unsigned int o79P = -1819181232;
@@ -51,7 +51,7 @@ int main(int argc, char** argv)
   float  kdQwJwvZv  =  -98960642;
   double  w7Q8  =  -1248874939;
 	unsigned int	yr3k_R5k	=	1288605548;
-    unsigned short    iHWqG    =    -53144403;
+    unsigned short    iHWqG    =    (unsigned short)-53144403;
  unsigned char TnCY = 1323244639;
     unsigned char    cDFnL    =    -757714811;
 	short int	g1F2zMIl1	=	-1916338083;
@@ -61,7 +61,7 @@ int main(int argc, char** argv)
 	float	O_5356Q84L	=	608501055;
   unsigned short int  i0_156_2G  =  2112076081;
  short L84_yG8lB = -1748984278;
-    unsigned short int    ynMQl7mB    =    -782492358;
+    unsigned short int    ynMQl7mB    =    (unsigned short)-782492358;
     unsigned long    H95pZsf    =    1269364072;
   int  p42t6pvxDF  =  692614673;
  unsigned int SjFR4Yvcl = -1405187467;
@@ -78,7 +78,7 @@ int main(int argc, char** argv)
  short int uG1oMVVoT1 = 1147909752;
  long long d_5sUN1 = 627852748;
  unsigned int SW1XSMR5 = 1018660258;
-	unsigned short int	M0SAzxN698	=	1152843063;
+	unsigned short int	M0SAzxN698	=	(unsigned short)1152843063;
     unsigned char    tuV42k    =    -480344171;
   unsigned long long  LPokI1k  =  308574614;
  unsigned char MnJx5a3 = 1765123214;
@@ -91,7 +91,7 @@ int main(int argc, char** argv)
     long long    Pcja    =    661465971;
     unsigned int    GeZb    =    -505799913;
  unsigned int SHFnG6X7 = 2006383433;
-  unsigned char  n5kE0YoP  =  -997446954;
+  unsigned char  n5kE0YoP  =  (unsigned char)-997446954;
  unsigned int Vb2J = 474543475;
 
 std::cout << "J33iJOh7" << DXzy << Pcja << "PN5L" << std::endl;

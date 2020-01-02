@@ -73,7 +73,7 @@ try
 {
 if (O7k62gwH)
 {
-qY_j2zur8m = aNBB3U0s3(1898292540, qY_j2zur8m, -935571929, u5QS);
+qY_j2zur8m = aNBB3U0s3(1898292540, qY_j2zur8m, (short)-935571929, u5QS);
 }
 else
 {
@@ -106,7 +106,7 @@ std::cout << aNBB3U0s3(-1798075481, TNZk5h1, Q679yx6WK4, PJ1Tj65Sbe) << "e5aOn8"
 
 Q679yx6WK4 = gq7eEgBMO3(Q679yx6WK4);
 
-VC1Gb8Ou = aNBB3U0s3(Jwpy, 291071049, V654, VC1Gb8Ou);
+VC1Gb8Ou = aNBB3U0s3(Jwpy, (unsigned short)291071049, V654, VC1Gb8Ou);
 if (mfO6GL9 == G5kMy_Gw0_)
 {
 if (ktIu8_sN >= ce19_jF)
@@ -157,7 +157,7 @@ else if ((re3c <= xmaeYc2l) && (D5auK_mGP <= 515012696))
 int k = 1;
 do
 {
-ktIu8_sN = aNBB3U0s3(-732127549, -2055385927, x18i6rr6_, -1122868463) ^ NUAl0;
+ktIu8_sN = aNBB3U0s3(-732127549, (unsigned short)-2055385927, x18i6rr6_, -1122868463) ^ NUAl0;
 k--;
 }
 while (k >= 0);
@@ -180,7 +180,7 @@ PJ1Tj65Sbe = gq7eEgBMO3(-944614057);
 }
 else
 {
-std::cout << aNBB3U0s3(PJ1Tj65Sbe, Cm261G4s4w, 1664445293, -624968394) << wZpg6yT(-1072969790, Cm261G4s4w, jnYW) << "o8p5OWILF" << "h_2I7j8Y" << std::endl;
+std::cout << aNBB3U0s3(PJ1Tj65Sbe, Cm261G4s4w, 1664445293, (char)-624968394) << wZpg6yT(-1072969790, Cm261G4s4w, jnYW) << "o8p5OWILF" << "h_2I7j8Y" << std::endl;
 }
 }
 if ((Jwpy > 1988397936) || (V654 != tI5jBYO))
@@ -193,7 +193,7 @@ case 'a':
 w4AZEA5_6X = Mp2D925(1258757797);
 break;
 case 'b':
-ce19_jF = wZpg6yT(-1127483642, 2033129800, -712448537);
+ce19_jF = wZpg6yT((char)-1127483642, 2033129800, -712448537);
 break;
 case 'c':
 H6V0N4HVQ *= HqnT2E0yNp;
@@ -205,7 +205,7 @@ case 'e':
 VC1Gb8Ou = aNBB3U0s3(728785683, D5auK_mGP, 1960104943, -1085693173);
 break;
 case 'f':
-m4dfyfwh1 = aNBB3U0s3(epl9fi, -183700890, -1945049169, O7k62gwH);
+m4dfyfwh1 = aNBB3U0s3(epl9fi, (unsigned short)-183700890, -1945049169, O7k62gwH);
 break;
 case 'g':
 Jwpy = ispio2 - 17829499;
@@ -246,7 +246,7 @@ catch (int& errorCode)
 {
 HqnT2E0yNp = aNBB3U0s3(2063570190, -64598087, -1095058591, FfQitUSzOZ);
 }
-qY_j2zur8m = aNBB3U0s3(-1558092474, Lr1HLySN, -974185093, 1469234276);
+qY_j2zur8m = aNBB3U0s3(-1558092474, Lr1HLySN, (short)-974185093, 1469234276);
 
 ispio2 = FfQitUSzOZ / aNBB3U0s3(661952688, 1720328418, Jwpy, xoOW3TWi);
 for (int i = 4; i >= 0; --i)
@@ -312,7 +312,7 @@ while (i < 9);
 int i = 1;
 do
 {
-std::cout << c2_A(1223908327) << "Bbr_" << aNBB3U0s3(qokh, -1455423371, Jwpy, -1235089511) << std::endl;
+std::cout << c2_A(1223908327) << "Bbr_" << aNBB3U0s3(qokh, (unsigned short)-1455423371, Jwpy, -1235089511) << std::endl;
 i--;
 }
 while (i >= 0);

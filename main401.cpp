@@ -28,7 +28,7 @@ int main(int argc, char** argv)
  unsigned int DPg5B8wh;
  DPg5B8wh = -482823278;
     unsigned short int    nggaJVY7tQ;
-    nggaJVY7tQ    =    1160958054;
+    nggaJVY7tQ    =    (unsigned short)1160958054;
 	double	aSN6EzFC;
 	aSN6EzFC	=	-1892961399;
     long double    bGL6382;
@@ -40,7 +40,7 @@ int main(int argc, char** argv)
  double gHMX72R5;
  gHMX72R5 = -600202541;
     unsigned short int    hEvIc4_dj;
-    hEvIc4_dj    =    1525352091;
+    hEvIc4_dj    =    (unsigned short)1525352091;
 	char	D9uIuBy;
 	D9uIuBy	=	-323518795;
  unsigned short int Bx3L;
@@ -72,7 +72,7 @@ int main(int argc, char** argv)
   unsigned int  Vx9s;
   Vx9s  =  -845247796;
     short int    rUIlhj_4;
-    rUIlhj_4    =    1513502185;
+    rUIlhj_4    =    (short)1513502185;
 	short int	cm3PYc;
 	cm3PYc	=	1337382506;
 	long double	N28Tu;
@@ -88,7 +88,7 @@ int main(int argc, char** argv)
 	short	KsW3b;
 	KsW3b	=	-1000874135;
 	short	B_967n41;
-	B_967n41	=	848728745;
+	B_967n41	=	(short)848728745;
     double    In0cw;
     In0cw    =    -319164184;
  unsigned char Jaz7b8jhLg;
@@ -102,7 +102,7 @@ int main(int argc, char** argv)
 	long long	y3wEN68;
 	y3wEN68	=	-1177709433;
  unsigned short int b5EkHkJ;
- b5EkHkJ = 740839274;
+ b5EkHkJ = (unsigned short)740839274;
     long long    XPqsys1;
     XPqsys1    =    -41076561;
  unsigned int R9ti152i0R;
@@ -116,7 +116,7 @@ int main(int argc, char** argv)
 	unsigned short	n1fq71P;
 	n1fq71P	=	1037328400;
     unsigned short    E805Tr63B;
-    E805Tr63B    =    1012262656;
+    E805Tr63B    =    (unsigned short)1012262656;
  short int O7hl;
  O7hl = -2110944060;
   unsigned short int  ROX16;
@@ -366,7 +366,7 @@ case 5:
 T9X3a = Vy_nf6();
 break;
 case 6:
-k9HRKWy9t = iB9E(1233255190, KLfXo62, -2047697912, -1175995433, -142263109);
+k9HRKWy9t = iB9E((char)1233255190, KLfXo62, -2047697912, -1175995433, -142263109);
 break;
 case 7:
 bGL6382 *= aSN6EzFC;
@@ -447,7 +447,7 @@ bGL6382 = (int)ceil(kpO6RJ);
 }
 else if (z4D3eLe4c > wmAquB428R)
 {
-P63GQlfZ = iB9E(-1938386748, -611468089, -1695048542, N08cjQq8, -1563344037);
+P63GQlfZ = iB9E((char)-1938386748, -611468089, -1695048542, N08cjQq8, -1563344037);
 }
 else if (((B_967n41) || (ymDy98_l3C <= -1405336684)) || (P63GQlfZ))
 {

@@ -315,7 +315,7 @@ unsigned char zI2_yev3n()
 
 unsigned short u106JeW()
 {
- return -2121248940;
+ return (unsigned short)-2121248940;
 }
 
 unsigned int	K6ma1N(unsigned long long	O_u2J_,char	maqy2,unsigned short	KtO2buF7m,unsigned long	FrO1Z)	{

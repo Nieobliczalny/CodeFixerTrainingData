@@ -36,7 +36,7 @@ case 1:
 LW1ubLJb = Y1A8j2jFd / 1972322563;
 break;
 case 2:
-Z_Iw3 = Epm_9s(Z_Iw3, vZb_6HR6M6, 296302350, -518264067, VG7v);
+Z_Iw3 = Epm_9s(Z_Iw3, vZb_6HR6M6, (short)296302350, -518264067, VG7v);
 break;
 case 3:
 V__VUpg29 -= igyQqt_qt;
@@ -76,7 +76,7 @@ while (k < 4);
 }
 else
 {
-JaoYsMGY3 = yI5753(-481980566, -1202947405, iEoI7u);
+JaoYsMGY3 = yI5753(-481980566, (short)-1202947405, iEoI7u);
 }
 
 switch (I6iM7EJv17)
@@ -111,7 +111,7 @@ if (UwL4n_)
 {
 if (pvsb >= Y1A8j2jFd)
 {
-R1YCaV7Ob = Epm_9s(-425325954, m5d5, 435654904, COO7_B_, Ov1E) >> Tn9s;
+R1YCaV7Ob = Epm_9s(-425325954, m5d5, (short)435654904, COO7_B_, Ov1E) >> Tn9s;
 }
 else
 {
@@ -133,7 +133,7 @@ X2hcitqK = L1_bz68 << 1631039878;
 
 if ((wiR2 >= ld0Sn3wtB) || ((lc_bD71Ru == ld0Sn3wtB) || (t3fC_0v8W)))
 {
-std::cout << X2hcitqK << xR5OMe2 << "fcrt" << "M9qym0dG" << yI5753(-403512412, 111166148, X8DGTf_W) << std::endl;
+std::cout << X2hcitqK << xR5OMe2 << "fcrt" << "M9qym0dG" << yI5753(-403512412, (short)111166148, X8DGTf_W) << std::endl;
 }
 else
 {
@@ -163,7 +163,7 @@ case 6:
 Qgd6sK11 = ld0Sn3wtB * 966529317;
 break;
 case 7:
-igyQqt_qt = yI5753(-881588653, mcvbyQ, -1702887676);
+igyQqt_qt = yI5753((short)-881588653, mcvbyQ, -1702887676);
 break;
 }
 m64662 = (unsigned long)(xE74ely);
@@ -252,7 +252,7 @@ acK3W <<= Y3gI8P2;
 }
 else
 {
-E8k73 = Epm_9s(E8k73, 1080919832, -1274240439, acK3W, YQ_6yb);
+E8k73 = Epm_9s(E8k73, 1080919832, (short)-1274240439, acK3W, YQ_6yb);
 }
 }
 }
@@ -283,7 +283,7 @@ E8k73 = Epm_9s(E8k73, -124934193, acK3W, -1304673941, -1391153923);
 break;
 case 'b':
 case 'B':
-ah1_uo9JwY = qD2jN(-3213215);
+ah1_uo9JwY = qD2jN((unsigned char)-3213215);
 break;
 case 'c':
 case 'C':
@@ -307,7 +307,7 @@ QP6WKOrz_3 = yI5753(QP6WKOrz_3, -994823520, E8k73);
 }
 else
 {
-std::cout << LW1ubLJb << Epm_9s(QP6WKOrz_3, dqdpOdf2A, E8k73, uppK3y1RS, VNrKy) << Epm_9s(768659352, dqdpOdf2A, 1085093336, 264902293, VNrKy) << Epm_9s(QP6WKOrz_3, -1641096978, -1470613582, -1319002679, VNrKy) << "foXSJ" << std::endl;
+std::cout << LW1ubLJb << Epm_9s(QP6WKOrz_3, dqdpOdf2A, E8k73, uppK3y1RS, VNrKy) << Epm_9s((unsigned short)768659352, dqdpOdf2A, 1085093336, 264902293, VNrKy) << Epm_9s(QP6WKOrz_3, -1641096978, -1470613582, -1319002679, VNrKy) << "foXSJ" << std::endl;
 }
 }
 
@@ -332,7 +332,7 @@ break;
 }
 for (int i = 0; i < 7; ++i)
 {
-h7_dd = Epm_9s(h7_dd, 450420276, wVh1A6m6Wn, -1548977906, wh9sH_f_Gs);
+h7_dd = Epm_9s(h7_dd, (short)450420276, wVh1A6m6Wn, -1548977906, wh9sH_f_Gs);
 }
 
 Ury9 = Epm_9s(Ury9, 347959729, h7_dd, hn1bk, -1448120914);
@@ -364,7 +364,7 @@ D9sFq8ohLQ = Epm_9s(D9sFq8ohLQ, 648345335, xR5OMe2, C0f9sqg7dT, 422621367);
 }
 else
 {
-X2hcitqK = yI5753(1348011158, 142933315, -1263611136);
+X2hcitqK = yI5753((short)1348011158, 142933315, -1263611136);
 }
 }
 }
@@ -378,7 +378,7 @@ do
 int k = 8;
 do
 {
-u4L6 = Epm_9s(388562532, -669185070, 583671611, gaQj986Iu, 114760119);
+u4L6 = Epm_9s(388562532, (short)-669185070, 583671611, gaQj986Iu, 114760119);
 k--;
 }
 while (k >= 0);
@@ -409,7 +409,7 @@ n_Ah63xE = (iw6lfUd1MZ <= VT7d) ? yI5753(yM4c0OgePN, 1173511375, ZnVHveZ1U) : YX
 }
 else
 {
-h1VB = yI5753(h1VB, -1605536587, 1334930362);
+h1VB = yI5753(h1VB, (short)-1605536587, 1334930362);
 }
 }
 }
@@ -469,7 +469,7 @@ case 0:
 wCedt4 = Epm_9s(wCedt4, 427133796, n_Yc, hn1bk, LW1ubLJb);
 break;
 case 1:
-ah1_uo9JwY = qD2jN(1906790769);
+ah1_uo9JwY = qD2jN((unsigned char)1906790769);
 break;
 case 2:
 m5d5 = Epm_9s(R1YCaV7Ob, 2080846972, ah1_uo9JwY, jH5U4, Jkqb) >> 84614370;
@@ -484,7 +484,7 @@ case 5:
 zXi5K = qD2jN(314216022);
 break;
 case 6:
-wh9sH_f_Gs = qD2jN(832124526) >> Ov1E;
+wh9sH_f_Gs = qD2jN((unsigned char)832124526) >> Ov1E;
 break;
 case 7:
 n8TTQVlz_9 = yI5753(-996635968, 311707795, -441779656);
@@ -497,7 +497,7 @@ for (int i = 2; i >= 0; --i)
 {
 try
 {
-AJwr8bz_ = Epm_9s(107035882, Y3gI8P2, -1544712284, 2026928558, -131860448);
+AJwr8bz_ = Epm_9s(107035882, Y3gI8P2, (short)-1544712284, 2026928558, -131860448);
 }
 catch (int& errorCode)
 {
@@ -520,6 +520,6 @@ int	qD2jN(unsigned char	N2X3Ikkj5)	{
 
 char	yI5753(short	z50l,short int	VbQ9,long	BRYvinQ)
 {
-	return	69255914;
+	return	(char)69255914;
 }
 

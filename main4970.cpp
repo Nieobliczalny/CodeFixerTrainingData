@@ -13,7 +13,7 @@ unsigned short int  Zq3bXtXx3M(unsigned long long  XJh75u3)  {
 }
 
 short int F_ne(long Nlc_,long O9v8s5b,unsigned long long cE05c0E8oI) {
- return -2112420193;
+ return (short)-2112420193;
 }
 
 char    sIl_2h4y1f(unsigned int    ZCW8bGN)    {
@@ -331,7 +331,7 @@ do
 switch (Ls2vSYGvrg)
 {
 case 0:
-AHO29q = (g8vRtCw0c <= aDpz_gm5) ? -1946114779 : 238223605;
+AHO29q = (g8vRtCw0c <= aDpz_gm5) ? -1946114779 : (short)238223605;
 break;
 case 1:
 aDpz_gm5 = F_ne(1776095998, 1675115838, 675758395);

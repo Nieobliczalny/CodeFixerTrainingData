@@ -30,7 +30,7 @@ long  vCMA(int  w23iGWro7)  {
 }
 
 char    d01gbuEr_4(char    XFBSQ,short    s3ag1R0q,unsigned short int    G467)    {
-    return    733740690;
+    return    (char)733740690;
 }
 
 int main() {
@@ -87,7 +87,7 @@ TV_tfLZT90 = (int)abs(wMq4);
 break;
 case 'b':
 case 'B':
-TV_tfLZT90 = HbgDbkc8Nc(851974603, 503767042, 889449286);
+TV_tfLZT90 = HbgDbkc8Nc(851974603, 503767042, (short)889449286);
 break;
 case 'c':
 case 'C':

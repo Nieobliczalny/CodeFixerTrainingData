@@ -85,7 +85,7 @@ KEWGIDS1_N = (int)abs(c0bgbVq) * 0;
 break;
 case 'g':
 case 'G':
-c0bgbVq = X4i1d9r(1999077455, c0bgbVq, 1184287519, oclyV2f1, -816893631);
+c0bgbVq = X4i1d9r(1999077455, c0bgbVq, (unsigned short)1184287519, oclyV2f1, -816893631);
 break;
 case 'h':
 case 'H':
@@ -117,7 +117,7 @@ Hl25K0 = (int)ceil(rT357s4);
 }
 else if ((iktZ9Yd < 463286952) || ((Hl25K0 <= -1514008320) || (voOP827C)))
 {
-std::cout << oclyV2f1 << "FI1L9H" << X4i1d9r(Hl25K0, 1169357025, -1330363525, -225193690, rT357s4) << std::endl;
+std::cout << oclyV2f1 << "FI1L9H" << X4i1d9r(Hl25K0, 1169357025, -1330363525, (unsigned short)-225193690, rT357s4) << std::endl;
 }
 else if ((ro6K <= 66973033) && (voOP827C > R0Pwad75T))
 {
@@ -226,7 +226,7 @@ case 1:
 ro6K = (int)floor(rT357s4);
 break;
 case 2:
-KEWGIDS1_N = v7ji2c2s(rT357s4, Hl25K0, 874767643);
+KEWGIDS1_N = v7ji2c2s(rT357s4, Hl25K0, (char)874767643);
 break;
 case 3:
 c0bgbVq = c0bgbVq * c0bgbVq;
@@ -241,7 +241,7 @@ case 6:
 c0bgbVq = n86bs161(c0bgbVq, 296246301, KEWGIDS1_N, -319673486);
 break;
 case 7:
-R0Pwad75T = v7ji2c2s(R0Pwad75T, oclyV2f1, -1802704791);
+R0Pwad75T = v7ji2c2s(R0Pwad75T, oclyV2f1, (char)-1802704791);
 break;
 case 8:
 oclyV2f1 /= ro6K;
@@ -274,7 +274,7 @@ do
 --i;
 if (Hl25K0 <= -888770211)
 {
-Hl25K0 = X4i1d9r(-1237678781, R0Pwad75T, 326227485, -292132179, voOP827C);
+Hl25K0 = X4i1d9r(-1237678781, R0Pwad75T, (unsigned short)326227485, -292132179, voOP827C);
 }
 else if (oclyV2f1 != voOP827C)
 {
@@ -339,7 +339,7 @@ iktZ9Yd = (long double)(Hl25K0);
 }
 if (v7ji2c2s(1773789053, R0Pwad75T, -2066414795) == 0)
 {
-	oclyV2f1 = c0bgbVq / v7ji2c2s(1773789053, R0Pwad75T, -2066414795);
+	oclyV2f1 = c0bgbVq / v7ji2c2s(1773789053, R0Pwad75T, (char)-2066414795);
 }
 
 if (KEWGIDS1_N <= -358826024)
@@ -349,7 +349,7 @@ ro6K /= voOP827C;
 
 try
 {
-Hl25K0 = X4i1d9r(-1163131553, Hl25K0, -340713235, 1478636161, -974735855);
+Hl25K0 = X4i1d9r(-1163131553, Hl25K0, (unsigned short)-340713235, 1478636161, -974735855);
 }
 catch (int& errorCode)
 {
@@ -376,7 +376,7 @@ char    pyA6F(unsigned char    TZIu1rnC)
 }
 
 unsigned char    X4i1d9r(short    x_9urEl3K,int    PZ48q9C,unsigned short int    mGy14a,unsigned short    rpBQMPnf7_,long long    hFegc1pJi0)    {
-    return    -5105111;
+    return    (unsigned char)-5105111;
 }
 
 int    v7ji2c2s(long    CUMYf7w,unsigned short    anz32Hh,char    Z9W8)

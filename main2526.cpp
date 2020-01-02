@@ -199,7 +199,7 @@ C2d_V = b5fa_feFd9(C2d_V, -490549723, vtK_e1, 458463537);
 break;
 case 'f':
 case 'F':
-YqiMZB = P1q_(1992780264);
+YqiMZB = P1q_((unsigned char)1992780264);
 break;
 case 'g':
 case 'G':
@@ -342,7 +342,7 @@ case 1:
 Y5jl = P1q_(2004644568);
 break;
 case 2:
-WQCi3P = b5fa_feFd9(WQCi3P, 200897895, 168880567, -2029734265);
+WQCi3P = b5fa_feFd9(WQCi3P, (short)200897895, 168880567, -2029734265);
 break;
 case 3:
 fRVmdSxTS1 &= Og2x8np;

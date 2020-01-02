@@ -23,7 +23,7 @@ unsigned long Sdu5cmb(char Oai4YgJo,unsigned long SKDJK5h,char BZ04k8Jmk,int ET6
 int main()
 {
 	unsigned short int	X86v5yA	=	991273028;
-	short int	Ap7l3	=	-580478890;
+	short int	Ap7l3	=	(short)-580478890;
 	unsigned short	Kf2vk	=	1691687821;
  unsigned long B2nz6Ap = 918646903;
  unsigned short o6lX7ID = 1572292029;
@@ -33,7 +33,7 @@ int main()
     unsigned short int    X3xK    =    811847634;
  int Etl4FWa4 = 761424298;
 	unsigned short int	gJcVR47	=	1407341400;
-    char    Y_8IH3    =    1590261935;
+    char    Y_8IH3    =    (char)1590261935;
  short int m67o = 0;
     float    tyod    =    -467809273;
     char    v_0rt    =    -1575195065;
@@ -46,7 +46,7 @@ int main()
 	char	x3m6	=	-847573710;
 	long long	sm7eJ80vUh	=	-729726233;
 	unsigned int	mi4TA35M9l	=	-1779812818;
-    unsigned short int    Q2T7VN6K    =    -552023794;
+    unsigned short int    Q2T7VN6K    =    (unsigned short)-552023794;
  unsigned short VWkQnUqTLG = -600483855;
  unsigned long DJ3eU0 = -463370049;
 	long	r_jp6_S53	=	745740809;
@@ -400,7 +400,7 @@ short int  MYhnFc1eA(unsigned long  c_HLV2Qdj,short  f14X,unsigned long long  Hs
 }
 
 unsigned short R1c9b(unsigned int Rj162UtZ8V) {
- return 477487490;
+ return (unsigned short)477487490;
 }
 
 unsigned long Sdu5cmb(char Oai4YgJo,unsigned long SKDJK5h,char BZ04k8Jmk,int ET67UK)

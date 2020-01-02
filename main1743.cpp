@@ -15,7 +15,7 @@ unsigned int    CXGi6Ui();
 int main(void) {
 	unsigned long long	P7__xU	=	1445791064;
     short    E9Xbs4    =    -1115863957;
-    short int    kE77x    =    1648642485;
+    short int    kE77x    =    (short)1648642485;
   char  KNkXUY3e9D  =  1604348545;
 	int	kd66M9WP3X	=	-1445826764;
   unsigned long long  oit0g66J27  =  176865475;
@@ -25,7 +25,7 @@ int main(void) {
  short int kJ9qtV = 1138543643;
   double  Rq9sb1SfR7  =  -1347032491;
   unsigned short  xcoX6v0  =  892927375;
-	char	YYn253D	=	1854459457;
+	char	YYn253D	=	(char)1854459457;
     unsigned char    Fl7u    =    541955240;
  short int QpDq9qpQ0 = -2129537900;
   unsigned short int  Ie_M61u4n  =  1779645190;
@@ -112,7 +112,7 @@ T_O5q = CXGi6Ui();
 }
 else
 {
-xcoX6v0 = (D4XT03OLK == jB5kC3yqu) ? -1233902651 : 966196113;
+xcoX6v0 = (D4XT03OLK == jB5kC3yqu) ? -1233902651 : (unsigned short)966196113;
 }
 }
 else if ((P7__xU <= kd66M9WP3X) || (kd66M9WP3X < -1693429371))

@@ -48,7 +48,7 @@ int main(int argc, char** argv)
 	RSo_84rL	=	0;
 	KntK	=	0;
 
-IiE96 = x360I8RYX(3247283, rK_9mjp25, 1598683968, x0zTGRb, -2067994849);
+IiE96 = x360I8RYX(3247283, rK_9mjp25, 1598683968, x0zTGRb, (unsigned short)-2067994849);
 if ((a3FAFa1ZP) && (r52dLNO3_ != Cg9zIl265))
 {
 {
@@ -70,7 +70,7 @@ D_Ne80d = fs8Si(-1856428878, -638138274, a3FAFa1ZP, 530628133, r52dLNO3_);
 }
 Ck41WLm3V = (long)(Qtg3j4);
 
-fPAwBxw = jnMnGFF5R(-902202120, 1514408155, KntK, RSo_84rL, 606435062);
+fPAwBxw = jnMnGFF5R((unsigned short)-902202120, 1514408155, KntK, RSo_84rL, 606435062);
 
 NRpUxR40Qe = fPAwBxw / IiE96;
 
@@ -110,7 +110,7 @@ for (int i = 0; i < 5; i++)
 rK_9mjp25 >>= vPdw3;
 }
 
-cout << gNjAE__(427601671, 1887324543) << x360I8RYX(x0zTGRb, Bcw6F97_O, -1050780848, dK26, fBtXh71O6I) << endl;
+cout << gNjAE__(427601671, 1887324543) << x360I8RYX(x0zTGRb, Bcw6F97_O, (unsigned short)-1050780848, dK26, fBtXh71O6I) << endl;
 
 for (int i = 7; i >= 0; i--)
 {

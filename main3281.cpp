@@ -15,7 +15,7 @@ int main(void)
 	unsigned long	C2d0Aid5	=	0;
 	unsigned long	Ks2a6316	=	-1414704218;
     unsigned long    I70s_495    =    536824069;
-  unsigned char  qzDnXO76FA  =  1101387758;
+  unsigned char  qzDnXO76FA  =  (unsigned char)1101387758;
  unsigned char ZMn8P_Ul9 = -1603621129;
  short int tgZ22A3AN = -1194451612;
     long long    IdUZ4j    =    891994091;
@@ -25,7 +25,7 @@ int main(void)
   int  vNBdZlth  =  -374565042;
  int tkk__e = 919989656;
  unsigned short int pok7f0V = 544413671;
- char afg1 = -1722667211;
+ char afg1 = (char)-1722667211;
  long double xNn5 = -510717775;
 	unsigned int	jh8e0o51Lb	=	1223939376;
     short int    MsfEeiT    =    435769836;
@@ -37,7 +37,7 @@ int main(void)
     unsigned short int    j0r1OU46    =    -771506128;
  unsigned long long HRY7 = -1336095680;
  unsigned int UjvTi2RC0 = -1208367885;
- unsigned char Rt3S3U = 44469894;
+ unsigned char Rt3S3U = (unsigned char)44469894;
   unsigned short  QeSz85J6D0  =  2127011228;
  unsigned char AzPVk3N = 960879390;
  long G5ZY5h54tw = 1214685433;
@@ -48,7 +48,7 @@ int main(void)
     long long    Xm2f    =    1395816369;
     unsigned long long    jyVN    =    1102206690;
     unsigned long    ZAug0    =    -1596357905;
-    char    Flm93A    =    -1136219423;
+    char    Flm93A    =    (char)-1136219423;
  unsigned short t9_V = 137949035;
   long long  msFT6wY  =  2004564116;
   unsigned short int  NQ_9G5  =  754942800;
@@ -60,7 +60,7 @@ int main(void)
 	long double	FQuEa	=	194800482;
  unsigned int j0zpK65n0O = 0;
     double    n859JORRQ    =    416407977;
- unsigned short X5tG = -1710271412;
+ unsigned short X5tG = (unsigned short)-1710271412;
 	unsigned short	n2_K3M	=	-1185625953;
  short K5ABeufc = -1498072858;
   unsigned long  Y5GByY7  =  129069995;
@@ -71,7 +71,7 @@ int main(void)
     long double    IskA_Z    =    -15086038;
     unsigned int    BMACC901    =    1417690409;
   long  J56e  =  -285159902;
-	unsigned short int	j4fNrF	=	599115261;
+	unsigned short int	j4fNrF	=	(unsigned short)599115261;
 	short int	SIz_aj09z7	=	-1014401739;
     short    iz8ZcN7Z    =    -1962545110;
  long double u9_L0iY = -594904763;

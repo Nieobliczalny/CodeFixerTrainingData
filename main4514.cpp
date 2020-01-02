@@ -53,7 +53,7 @@ case 'd':
 Ymz3N33E = CG__D7L64v(1847848948);
 break;
 case 'e':
-jy5_0k2mc = CG__D7L64v(1579634366);
+jy5_0k2mc = CG__D7L64v((unsigned char)1579634366);
 break;
 }
 bYfr5gH5Z = (unsigned short int)(uAa9j);
@@ -145,7 +145,7 @@ ukULG = VV_vY8();
 break;
 case 'c':
 case 'C':
-jy5_0k2mc = CG__D7L64v(1782513529);
+jy5_0k2mc = CG__D7L64v((unsigned char)1782513529);
 break;
 case 'd':
 case 'D':
@@ -260,7 +260,7 @@ case 'd':
 z6sVro = OsVl_M / jy5_0k2mc;
 break;
 case 'e':
-z6sVro = CG__D7L64v(1394034512);
+z6sVro = CG__D7L64v((unsigned char)1394034512);
 break;
 case 'f':
 z6sVro = (int)abs(OsVl_M) + (-359234822);

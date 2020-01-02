@@ -26,7 +26,7 @@ int main(void) {
  long double gJUWz3nU;
  gJUWz3nU = -991394612;
 	unsigned char	VL3u;
-	VL3u	=	-270794454;
+	VL3u	=	(unsigned char)-270794454;
     long    XuRi;
     XuRi    =    -1201439564;
  char Ern16;
@@ -36,7 +36,7 @@ int main(void) {
  unsigned long long v7o5;
  v7o5 = -1509599604;
  unsigned short vfz9q862;
- vfz9q862 = 1801860712;
+ vfz9q862 = (unsigned short)1801860712;
   unsigned char  dEixD1s7;
   dEixD1s7  =  622293260;
 	unsigned long	DEElLs;
@@ -50,7 +50,7 @@ Ern16 ^= v7o5;
 
 if (v7o5 & U7n1F9iTU)
 {
-cout << QCJq(908248804, KpyA, 734732883, -936648381, -638755799) << Y1OPqFn78() << VL3u << endl;
+cout << QCJq(908248804, KpyA, 734732883, (unsigned short)-936648381, -638755799) << Y1OPqFn78() << VL3u << endl;
 }
 else if (XuRi == 428677716)
 {
@@ -96,7 +96,7 @@ Ujv_z1iaL = Y1OPqFn78();
 }
 else if (XuRi & 156180065)
 {
-AaP26v2o = QCJq(XuRi, 83091488, vfz9q862, -628810232, 519289631);
+AaP26v2o = QCJq(XuRi, 83091488, vfz9q862, (unsigned short)-628810232, 519289631);
 }
 else
 {
@@ -109,7 +109,7 @@ else
 switch (XuRi)
 {
 case 0:
-AaP26v2o = QCJq(Ern16, -1362133654, -506036997, 212177287, -662631687);
+AaP26v2o = QCJq(Ern16, -1362133654, -506036997, (unsigned short)212177287, -662631687);
 break;
 case 1:
 dEixD1s7 >>= v7o5;
@@ -124,7 +124,7 @@ case 4:
 Ujv_z1iaL ^= v7o5;
 break;
 case 5:
-AaP26v2o = QCJq(470274921, 941065091, Ern16, gJUWz3nU, -1599138061);
+AaP26v2o = QCJq(470274921, 941065091, Ern16, gJUWz3nU, (unsigned char)-1599138061);
 break;
 case 6:
 vfz9q862 = KpyA & 1426764554;
@@ -139,7 +139,7 @@ break;
 }
 qL57XP = Y1OPqFn78();
 
-if ((-2097729915 / QCJq(qL57XP, -2024640443, v7o5, 1504679902, dEixD1s7)) < -716316674)
+if ((-2097729915 / QCJq(qL57XP, -2024640443, v7o5, (unsigned short)1504679902, dEixD1s7)) < -716316674)
 {
 AaP26v2o = (int)abs(ie0xgJf) * 0;
 }
@@ -157,7 +157,7 @@ case 'a':
 dEixD1s7 = Y1OPqFn78();
 break;
 case 'b':
-AaP26v2o = QCJq(AaP26v2o, -175347304, ie0xgJf, dEixD1s7, 201868268);
+AaP26v2o = QCJq(AaP26v2o, -175347304, ie0xgJf, dEixD1s7, (unsigned char)201868268);
 break;
 case 'c':
 XuRi = (int)abs(AaP26v2o) + (-848529218);

@@ -22,7 +22,7 @@ int main()
   unsigned short  ys8M80qJY  =  896766363;
 	unsigned long long	PiT_	=	-112087082;
   double  u_J7x  =  -1659449586;
-	short int	fgPuQ	=	754851658;
+	short int	fgPuQ	=	(short)754851658;
   unsigned int  DkiWfpW9yO  =  -1091074347;
  unsigned long p814M9 = 0;
 	long long	x_7Nkx8	=	0;
@@ -32,7 +32,7 @@ int main()
   int  BTQ_1a5v5  =  0;
  unsigned char HBYCu52o29 = -567792045;
   unsigned long  HY9IZ_7N  =  880644518;
-  unsigned short int  znGOr91_0  =  74861709;
+  unsigned short int  znGOr91_0  =  (unsigned short)74861709;
  double CXb_0ue8jG = -552397792;
 
 try
@@ -56,7 +56,7 @@ CXb_0ue8jG = (int)floor(O6c2RpWki6);
 break;
 }
 }
-BTQ_1a5v5 = iS61p(-1895697614, -1622088066, BTQ_1a5v5);
+BTQ_1a5v5 = iS61p((unsigned char)-1895697614, -1622088066, BTQ_1a5v5);
 
 DkiWfpW9yO = (unsigned int)(p814M9 + (1626482134));
 try
@@ -192,7 +192,7 @@ case 'd':
 m4QEM = l_0__ZW();
 break;
 case 'e':
-p814M9 = iS61p(-2057216056, -1335579292, -1249218204);
+p814M9 = iS61p(-2057216056, (char)-1335579292, -1249218204);
 break;
 default:
 g35g5 |= PiT_;

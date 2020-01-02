@@ -21,7 +21,7 @@ int main(int argc, char** argv)
     int    ZH9VJ301    =    0;
  unsigned int jt471x = 1901917261;
  long long Fq1xt = -1106968416;
-	short int	w5th	=	1803726919;
+	short int	w5th	=	(short)1803726919;
  short int U_QmyaP7 = -443060831;
  unsigned short int v12d88y2eJ = 0;
   short  tnbg  =  0;
@@ -34,7 +34,7 @@ int main(int argc, char** argv)
  double G_CTO62 = 23023167;
  unsigned long Zl9A6 = 1128234086;
   unsigned long long  ew_C0R  =  2135427526;
- char AJXW9E = -1914841126;
+ char AJXW9E = (char)-1914841126;
 	unsigned char	FiNowPqgE	=	-1358162958;
 
 if (v12d88y2eJ & 1206990171)
@@ -59,7 +59,7 @@ else if (((G1gX > 2054521854) && (ZH9VJ301 <= -1742075832)) || (Q_hgIB & -947839
 {
 if ((ZH9VJ301) || (o_9oC7QT == HOgCJ))
 {
-ZH9VJ301 = sRRXzyyE3(-1623468408, 1583024643, -405306775, 184952259, o_9oC7QT);
+ZH9VJ301 = sRRXzyyE3(-1623468408, 1583024643, (short)-405306775, 184952259, o_9oC7QT);
 }
 else
 {
@@ -113,7 +113,7 @@ U_QmyaP7 += Zl9A6;
 
 for (int i = 1; i >= 0; i--)
 {
-std::cout << G_CTO62 << sRRXzyyE3(1910647103, 1737562450, qf55he9, egHx5, YLL5xh_) << sRRXzyyE3(F8fNX_, Zl9A6, qf55he9, egHx5, -2024508214) << "gu24g" << sRRXzyyE3(F8fNX_, 686424914, qf55he9, 276747401, -1719679600) << std::endl;
+std::cout << G_CTO62 << sRRXzyyE3(1910647103, 1737562450, qf55he9, egHx5, YLL5xh_) << sRRXzyyE3(F8fNX_, Zl9A6, qf55he9, egHx5, (char)-2024508214) << "gu24g" << sRRXzyyE3(F8fNX_, 686424914, qf55he9, 276747401, -1719679600) << std::endl;
 }
 v12d88y2eJ = sRRXzyyE3(2078131636, HOgCJ, -313817192, qf55he9, v12d88y2eJ);
 ZH9VJ301 = (int)(ew_C0R * ZH9VJ301);
@@ -137,7 +137,7 @@ case 3:
 YLL5xh_ = (int)ceil(F8fNX_);
 break;
 case 4:
-tnbg = sRRXzyyE3(1282219506, 1881616116, -162384896, -1483846167, -1706770265);
+tnbg = sRRXzyyE3(1282219506, 1881616116, (short)-162384896, -1483846167, -1706770265);
 break;
 default:
 HOgCJ--;
@@ -155,7 +155,7 @@ else
 {
 if (ZH9VJ301 <= -310727209)
 {
-G1gX = sRRXzyyE3(G1gX, Q_hgIB, t4QLqR5Kn, FiNowPqgE, 1956626771);
+G1gX = sRRXzyyE3(G1gX, Q_hgIB, t4QLqR5Kn, FiNowPqgE, (char)1956626771);
 }
 else
 {

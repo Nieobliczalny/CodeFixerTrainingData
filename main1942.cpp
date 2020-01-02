@@ -236,7 +236,7 @@ else if ((JqL5u6 < tJZ0E0) || (q12i3t4W_Q))
 switch (JqL5u6)
 {
 case 0:
-DRq6RJ = S_lsTZ(-161180624, 1130522682, hVxxq0kl6, 2062139927, -1977331346);
+DRq6RJ = S_lsTZ(-161180624, (unsigned short)1130522682, hVxxq0kl6, 2062139927, -1977331346);
 break;
 case 1:
 Qsi2++;
@@ -277,7 +277,7 @@ while (j >= 0)
 --j;
 for (int k = 4; k >= 0; --k)
 {
-k68_ = S_lsTZ(103191634, VQtjh1c8, FS_O3j1wU7, -2076789770, pMEN);
+k68_ = S_lsTZ(103191634, VQtjh1c8, FS_O3j1wU7, (unsigned short)-2076789770, pMEN);
 }
 }
 }
@@ -301,7 +301,7 @@ JJX46A++;
 }
 }
 
-ruQ09ZE1 = S_lsTZ(ruQ09ZE1, okj5rTsR, eJ50_, -980998271, 143584288);
+ruQ09ZE1 = S_lsTZ(ruQ09ZE1, okj5rTsR, eJ50_, -980998271, (unsigned short)143584288);
 FS_O3j1wU7 = (long long)(SV0h5 + (r1Tq));
 try
 {
@@ -317,7 +317,7 @@ MG2bn21ROe = qqKr80m2I_(MG2bn21ROe, ji4_f4Z);
 }
 else if (PHeP50La92 == ewEv)
 {
-z2tS7 = S_lsTZ(z2tS7, V3owNInL, 134643107, 287870294, j6_Y_506);
+z2tS7 = S_lsTZ(z2tS7, V3owNInL, 134643107, (unsigned short)287870294, j6_Y_506);
 }
 else if (JqL5u6 != nLb_TW_L)
 {
@@ -389,7 +389,7 @@ for (int i = 0; i < 6; ++i)
 switch (yvtNs8)
 {
 case 'a':
-rwns = S_lsTZ(844241475, 2019649624, 1273848959, -1470407504, k2_4B);
+rwns = S_lsTZ(844241475, (unsigned short)2019649624, 1273848959, -1470407504, k2_4B);
 break;
 case 'b':
 DK6NUM /= 1333100315;
@@ -466,7 +466,7 @@ else
 int k = 0;
 while (k < 5)
 {
-k68_ = S_lsTZ(k68_, 1243406190, KshRa, z152K, -759901149);
+k68_ = S_lsTZ(k68_, 1243406190, KshRa, z152K, (unsigned short)-759901149);
 k++;
 }
 }
@@ -477,7 +477,7 @@ catch (int& errorCode)
 gNS76Dj3i--;
 }
 
-std::cout << S_lsTZ(1181111356, -239953249, -1729772149, 1774808067, -1123027107) << std::endl;
+std::cout << S_lsTZ(1181111356, (unsigned short)-239953249, -1729772149, 1774808067, -1123027107) << std::endl;
 
 hVxxq0kl6 = wWS52_Q(-1262234260, CL5_c27, -16850171, 251919929);
 
@@ -528,7 +528,7 @@ PwHwT4e = qqKr80m2I_(PwHwT4e, 1664855340);
 }
 else if ((OOuDg5w > ECpaR7) && ((y61qLg3 & 36177642) || (yUEE79j & eJ50_)))
 {
-PHeP50La92 = S_lsTZ(1575801002, -647579120, e7Aa0oF, -2082821006, do7E);
+PHeP50La92 = S_lsTZ(1575801002, (unsigned short)-647579120, e7Aa0oF, -2082821006, do7E);
 }
 else if (F_wpnJMp == 1474100758)
 {

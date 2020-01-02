@@ -22,7 +22,7 @@ int main(void)
 	char	c_QPe86p;
 	c_QPe86p	=	1688681958;
     char    pTfA6bZG84;
-    pTfA6bZG84    =    -1682816983;
+    pTfA6bZG84    =    (char)-1682816983;
  long double Tg_D;
  Tg_D = -2025297414;
     unsigned int    Saiv6K9_;
@@ -38,7 +38,7 @@ int main(void)
   unsigned short int  i062;
   i062  =  785165553;
     char    B59yec6;
-    B59yec6    =    1549232084;
+    B59yec6    =    (char)1549232084;
   float  Panf53V6;
   Panf53V6  =  -1665310178;
     unsigned long    O2BuW2S;
@@ -52,7 +52,7 @@ int main(void)
  long hV35;
  hV35 = 211966238;
   short int  ac50oKQ_Y6;
-  ac50oKQ_Y6  =  -1285688957;
+  ac50oKQ_Y6  =  (short)-1285688957;
   float  uN2cl700;
   uN2cl700  =  1436635041;
     long long    FrLt4QGch;
@@ -76,7 +76,7 @@ int main(void)
 	short int	FF05B;
 	FF05B	=	-1212880224;
  short g6cGls;
- g6cGls = 765578258;
+ g6cGls = (short)765578258;
     unsigned int    M_Go;
     M_Go    =    2064883288;
     unsigned char    JB17ic_zS3;
@@ -86,7 +86,7 @@ int main(void)
 	short int	wyIfaiit6d;
 	wyIfaiit6d	=	-2085947571;
     short int    RqFQ;
-    RqFQ    =    437386892;
+    RqFQ    =    (short)437386892;
     long    i6pW99dy;
     i6pW99dy    =    160184469;
   float  n_l18hhJ1I;
@@ -152,7 +152,7 @@ case 1:
 Tg_D = (int)floor(n_l18hhJ1I);
 break;
 case 2:
-lm2kwNdE = evVG_9o(-1985329170);
+lm2kwNdE = evVG_9o((unsigned short)-1985329170);
 break;
 case 3:
 M_Go = GT7A47(M_Go);
@@ -225,7 +225,7 @@ case 0:
 Lk8p = evVG_9o(-1909016881) ^ hV35;
 break;
 case 1:
-Tb0vt9_sL0 = evVG_9o(-2055624322);
+Tb0vt9_sL0 = evVG_9o((unsigned short)-2055624322);
 break;
 case 2:
 Lk8p <<= VPx0_J0r4K;
@@ -371,7 +371,7 @@ try
 {
 if ((Tg_D < 1781364727) && (KF138 & FrLt4QGch))
 {
-lm2kwNdE = evVG_9o(-472454579);
+lm2kwNdE = evVG_9o((unsigned short)-472454579);
 }
 else
 {

@@ -149,7 +149,7 @@ for (int i = 1; i >= 0; i--)
 eFRkV3ta6 = (double)(R0H2);
 }
 
-XQ2W3wF = cR7LFk2n16(-1566929251, -670714886, -219345231, TLS0GLO, -198741551);
+XQ2W3wF = cR7LFk2n16(-1566929251, (short)-670714886, -219345231, TLS0GLO, -198741551);
 
 y_q__1 = -1990746044 / XQ2W3wF;
 
@@ -198,7 +198,7 @@ qGBz8Ed0 = (double)(gUXWeu);
 switch (XQ2W3wF)
 {
 case 0:
-XQ2W3wF = cR7LFk2n16(-181819730, Fn4FOx, D1av3NNL1F, 764423137, n904);
+XQ2W3wF = cR7LFk2n16(-181819730, Fn4FOx, D1av3NNL1F, (unsigned char)764423137, n904);
 break;
 case 1:
 Kwe92ZXy = (int)floor(ZassM6GW);

@@ -38,7 +38,7 @@ int main(int argc, char** argv) {
     long long    NfSbRAmX;
     NfSbRAmX    =    1468640112;
   unsigned char  z4v_I;
-  z4v_I  =  -521635492;
+  z4v_I  =  (unsigned char)-521635492;
  unsigned char tq4E;
  tq4E = 727912896;
  unsigned int H31h;
@@ -50,7 +50,7 @@ int main(int argc, char** argv) {
     long    yxp9a_54m;
     yxp9a_54m    =    1135117994;
  char E91Lu_6A;
- E91Lu_6A = 1749647266;
+ E91Lu_6A = (char)1749647266;
  int k53nYM6;
  k53nYM6 = -283434034;
     unsigned long long    H_3cC4;
@@ -62,7 +62,7 @@ int main(int argc, char** argv) {
   unsigned int  nS_d3SM32;
   nS_d3SM32  =  -1102914483;
 	short int	qcoyS;
-	qcoyS	=	47120038;
+	qcoyS	=	(short)47120038;
 	float	yj_hZ6105i;
 	yj_hZ6105i	=	295288071;
 	short	K3_52O1;
@@ -104,7 +104,7 @@ int main(int argc, char** argv) {
     long double    ev548BVR9;
     ev548BVR9    =    -1822877661;
     short int    VMcGIQ3D1;
-    VMcGIQ3D1    =    212953719;
+    VMcGIQ3D1    =    (short)212953719;
 
 std::cout << "SyVYx_vJ" << std::endl;
 
@@ -428,7 +428,7 @@ std::cout << "EhvE2" << ae_VEs0(zvJ5H1i, -1394490864, 1189128947, 746181018) << 
 }
 else
 {
-std::cout << R015yjP0R(zvJ5H1i, -7643426, -500103641, f3P_V, 282607049) << zvJ5H1i << LL912 << pjc7c5 << std::endl;
+std::cout << R015yjP0R(zvJ5H1i, -7643426, -500103641, f3P_V, (short)282607049) << zvJ5H1i << LL912 << pjc7c5 << std::endl;
 }
 
 for (int i = 5; i >= 0; --i)

@@ -17,7 +17,7 @@ int main(void)
   long double  PE2uR6y7W1  =  -638094312;
   char  y_c3  =  1408805890;
   long  Gz9y_mf  =  1488534645;
-    short int    Icp9_c43    =    -1552572074;
+    short int    Icp9_c43    =    (short)-1552572074;
   long long  R912Ln  =  576309374;
  unsigned short int A9zsYJg706 = 899036750;
  short ho2QyfJGQ = 1343755460;
@@ -31,7 +31,7 @@ int main(void)
  unsigned short int t5Q84SYx91 = -946588858;
 	unsigned long	FL0sS3	=	-953558004;
  long double uPMA = -1499831796;
- short xO2Rn978U = 1777964048;
+ short xO2Rn978U = (short)1777964048;
   long double  dK3ksQ4Xw  =  244840069;
     unsigned long    glniM_46O    =    -760255888;
  short int rbic99iw = 1861844873;

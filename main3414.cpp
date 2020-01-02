@@ -47,7 +47,7 @@ int main(void) {
 	short	Ou6v7IIj9;
 	Ou6v7IIj9	=	-346770112;
 	char	fbfC0E;
-	fbfC0E	=	-1525677210;
+	fbfC0E	=	(char)-1525677210;
 	unsigned int	qh60m5nm;
 	qh60m5nm	=	-961727666;
     long    C4e3N14_6;
@@ -61,7 +61,7 @@ int main(void) {
  long x5mt1F;
  x5mt1F = 1829848932;
   char  CaVt;
-  CaVt  =  1678711253;
+  CaVt  =  (char)1678711253;
     short    qGScfyj_A;
     qGScfyj_A    =    1004715707;
     float    RxX7_QM;
@@ -71,7 +71,7 @@ int main(void) {
   float  xn0_NfY;
   xn0_NfY  =  -71513452;
     short    Vo8t_;
-    Vo8t_    =    -2073843511;
+    Vo8t_    =    (short)-2073843511;
  int UhCz16IpG;
  UhCz16IpG = -716405258;
   float  zTnN6I4_s2;
@@ -89,7 +89,7 @@ int main(void) {
   unsigned char  X11vv;
   X11vv  =  0;
 	unsigned short int	jZ6dQ;
-	jZ6dQ	=	-1975071676;
+	jZ6dQ	=	(unsigned short)-1975071676;
     unsigned long long    CZ0dV3i;
     CZ0dV3i    =    1466261021;
     short    H2knW;
@@ -99,7 +99,7 @@ int main(void) {
     unsigned char    o4feLh2;
     o4feLh2    =    141478320;
   char  EVsWe3;
-  EVsWe3  =  -968874844;
+  EVsWe3  =  (char)-968874844;
  long uzKsmD7Bnm;
  uzKsmD7Bnm = 668535544;
     long    YjiLqvVc;
@@ -473,7 +473,7 @@ YjiLqvVc = jdeY(-1053559971, 1018436661);
 W4s8_PzY2E = jdeY(W4s8_PzY2E, 128569747);
 if (SefW_61 == nknk)
 {
-std::cout << "AyuZLppV8" << jdeY(1690840368, 1022977161) << jdeY(W4s8_PzY2E, fbfC0E) << std::endl;
+std::cout << "AyuZLppV8" << jdeY(1690840368, (short)1022977161) << jdeY(W4s8_PzY2E, fbfC0E) << std::endl;
 }
 else if (fbfC0E & ej_zZt)
 {

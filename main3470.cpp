@@ -104,7 +104,7 @@ case 'g':
 IGF_P_sgH5 = COUt(198627157, -1713754300);
 break;
 case 'h':
-L9Zyf9 = t4ns1SQ(-1194134252, -892487682, 1379248663, IGF_P_sgH5, tkqyvgKJj);
+L9Zyf9 = t4ns1SQ(-1194134252, (short)-892487682, 1379248663, IGF_P_sgH5, tkqyvgKJj);
 break;
 case 'i':
 dTd46h_zK = (int)abs(p19IUq7ZB);
@@ -262,7 +262,7 @@ case 6:
 lu4Zb <<= 1599751185;
 break;
 case 7:
-ONsr8I = t4ns1SQ(625681946, 691294493, uysvG, -1399580634, lufAksF);
+ONsr8I = t4ns1SQ(625681946, (short)691294493, uysvG, -1399580634, lufAksF);
 break;
 case 8:
 AqUr8o_3fR |= OJxqdT;

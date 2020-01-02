@@ -20,7 +20,7 @@ int main(void) {
     unsigned short    Us56jq2a08;
     Us56jq2a08    =    0;
   unsigned short  CsM_q4y2;
-  CsM_q4y2  =  1335904539;
+  CsM_q4y2  =  (unsigned short)1335904539;
 	double	avqRNFJ;
 	avqRNFJ	=	-1528520781;
  char J36DN;

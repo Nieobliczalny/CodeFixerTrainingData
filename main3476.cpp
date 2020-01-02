@@ -28,7 +28,7 @@ int main(int argc, char** argv)
  XDMn1 = 0;
  unsigned short STTOi2_U_V, U442k2dq48, PEs3yPHm, nHEQsqgPBY, QmZ5Kjk5, h706qVc, CbuFOxg8, f2fpxsbDZ0, YIm10, qUA88FH9g, LCt6r4P, H_8J6tW, RheeHD_71, k_W4BKw6J, u8Vjct5I, U0iHhnB, ntf_Y_cxN, zn87_Yh, qc_rNmFY, L6_b, EDCH4_H, zdKU5k, E68B0, NDRG9op8;
  STTOi2_U_V = 519207752;
- U442k2dq48 = 1168917141;
+ U442k2dq48 = (unsigned short)1168917141;
  PEs3yPHm = 1473615072;
  nHEQsqgPBY = -1488521136;
  QmZ5Kjk5 = -1672361723;
@@ -38,7 +38,7 @@ int main(int argc, char** argv)
  YIm10 = -774741137;
  qUA88FH9g = -825741491;
  LCt6r4P = -571922642;
- H_8J6tW = -1550273903;
+ H_8J6tW = (unsigned short)-1550273903;
  RheeHD_71 = -2565483;
  k_W4BKw6J = 145628326;
  u8Vjct5I = -1395617044;
@@ -48,7 +48,7 @@ int main(int argc, char** argv)
  qc_rNmFY = 1753976983;
  L6_b = -927547552;
  EDCH4_H = -1797281881;
- zdKU5k = 860866132;
+ zdKU5k = (unsigned short)860866132;
  E68B0 = -515057912;
  NDRG9op8 = 638344664;
 
@@ -81,7 +81,7 @@ case 5:
 ntf_Y_cxN = P_oLNy(ntf_Y_cxN, SRfuFjAK5, 816174943, UsDh, f2fpxsbDZ0);
 break;
 case 6:
-ntf_Y_cxN = P_oLNy(-1566106796, 723757427, CbuFOxg8, 253011383, 987265765);
+ntf_Y_cxN = P_oLNy(-1566106796, 723757427, CbuFOxg8, 253011383, (unsigned short)987265765);
 break;
 case 7:
 nHEQsqgPBY = P_oLNy(-893143696, -312874044, -1178505021, 1205589293, 794444420);
@@ -152,7 +152,7 @@ case 6:
 E68B0 = nHEQsqgPBY ^ 446791259;
 break;
 case 7:
-zn87_Yh = P_oLNy(-1198595010, -706415741, 1623383435, RheeHD_71, -322153482);
+zn87_Yh = P_oLNy(-1198595010, -706415741, 1623383435, RheeHD_71, (unsigned short)-322153482);
 break;
 }
 switch (u8Vjct5I)
@@ -279,7 +279,7 @@ case 0:
 EDCH4_H += STTOi2_U_V;
 break;
 case 1:
-nHEQsqgPBY = P_oLNy(nHEQsqgPBY, 1812680373, 436538690, 1188377057, 1528177063);
+nHEQsqgPBY = P_oLNy(nHEQsqgPBY, 1812680373, 436538690, 1188377057, (unsigned short)1528177063);
 break;
 case 2:
 U0iHhnB = (U0iHhnB < -431679254) ? RheeHD_71 : 868089773;
@@ -542,7 +542,7 @@ case 5:
 H_8J6tW = P_oLNy(H_8J6tW, nHEQsqgPBY, zdKU5k, -458911415, -1489587490);
 break;
 case 6:
-LCt6r4P = P_oLNy(LCt6r4P, 67521043, 89762534, -85770744, -1606324406);
+LCt6r4P = P_oLNy(LCt6r4P, 67521043, (unsigned short)89762534, -85770744, -1606324406);
 break;
 case 7:
 XDMn1 = OXWq6(-195610189);

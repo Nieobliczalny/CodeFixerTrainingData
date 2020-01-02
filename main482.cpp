@@ -19,7 +19,7 @@ int main(void)
 	unsigned char	gl1_b;
 	gl1_b	=	-1978308315;
     unsigned short    AAb_aZhGa;
-    AAb_aZhGa    =    -627156258;
+    AAb_aZhGa    =    (unsigned short)-627156258;
     unsigned short int    mY9uWtS74;
     mY9uWtS74    =    -778994453;
  int fa9m2R884Q;
@@ -33,7 +33,7 @@ int main(void)
   long double  IqfZwj;
   IqfZwj  =  -677651617;
     short int    FKM0o025_;
-    FKM0o025_    =    2001480019;
+    FKM0o025_    =    (short)2001480019;
  unsigned char kN9kH_603S;
  kN9kH_603S = -1945268070;
   short int  oTjm;
@@ -51,7 +51,7 @@ int main(void)
     float    I9_Ma;
     I9_Ma    =    120225694;
   unsigned char  lWQ8x8_642;
-  lWQ8x8_642  =  -64576187;
+  lWQ8x8_642  =  (unsigned char)-64576187;
     long    f2MoC8Ah;
     f2MoC8Ah    =    294926505;
     unsigned long long    Bc7lMh1op;
@@ -63,7 +63,7 @@ int main(void)
  unsigned char yo56;
  yo56 = -456534376;
     char    kYvy9UFmYy;
-    kYvy9UFmYy    =    -1593143854;
+    kYvy9UFmYy    =    (char)-1593143854;
 	double	eO631O8p;
 	eO631O8p	=	967568347;
  unsigned short int CE2k_W14Rg;
@@ -83,7 +83,7 @@ int main(void)
     unsigned int    fGeQ;
     fGeQ    =    -1370736377;
 
-std::cout << wH0Q74EXX(-491356916, f2MoC8Ah, -1683731936, IqfZwj, CE2k_W14Rg) << yfN45ql(kYvy9UFmYy, f2MoC8Ah, -1281829503) << std::endl;
+std::cout << wH0Q74EXX(-491356916, f2MoC8Ah, (short)-1683731936, IqfZwj, CE2k_W14Rg) << yfN45ql(kYvy9UFmYy, f2MoC8Ah, -1281829503) << std::endl;
 
 fGeQ = yfN45ql(406282607, 633804841, gl1_b);
 
@@ -111,7 +111,7 @@ oTjm = (int)abs(Eo52);
 }
 else if ((eCh5Mi) && (IqfZwj == bHkQn0_))
 {
-std::cout << wH0Q74EXX(fGeQ, VI2b3nq1E, gl1_b, -1872774836, CE2k_W14Rg) << wH0Q74EXX(-1994721293, VI2b3nq1E, gl1_b, kN9kH_603S, CE2k_W14Rg) << wH0Q74EXX(117719297, VI2b3nq1E, 816772608, -269401392, 93480541) << yfN45ql(fGeQ, 1099152968, gl1_b) << std::endl;
+std::cout << wH0Q74EXX(fGeQ, VI2b3nq1E, gl1_b, -1872774836, CE2k_W14Rg) << wH0Q74EXX(-1994721293, VI2b3nq1E, gl1_b, kN9kH_603S, CE2k_W14Rg) << wH0Q74EXX(117719297, VI2b3nq1E, 816772608, -269401392, 93480541) << yfN45ql(fGeQ, (char)1099152968, gl1_b) << std::endl;
 }
 else
 {
@@ -130,7 +130,7 @@ if (mY9uWtS74 < 222800158)
 {
 for (int j = 4; j >= 0; --j)
 {
-E10w8P8X = wH0Q74EXX(-2046168958, 321653163, -1716068346, eCh5Mi, AAb_aZhGa);
+E10w8P8X = wH0Q74EXX(-2046168958, 321653163, (short)-1716068346, eCh5Mi, AAb_aZhGa);
 }
 }
 
@@ -143,7 +143,7 @@ case 1:
 E10w8P8X = wH0Q74EXX(YzT5tR, -880852751, fN2WCaHgW, eCh5Mi, eO631O8p);
 break;
 case 2:
-fN2WCaHgW = yfN45ql(-1780679617, 1235659570, VI2b3nq1E);
+fN2WCaHgW = yfN45ql(-1780679617, (char)1235659570, VI2b3nq1E);
 break;
 case 3:
 E10w8P8X = wH0Q74EXX(40120300, -1850317756, 1872081357, fN2WCaHgW, 1993172973);
@@ -237,7 +237,7 @@ case 'a':
 Eo52 = yfN45ql(Eo52, YzT5tR, 2118838232);
 break;
 case 'b':
-vfBo30 = wH0Q74EXX(IqfZwj, 2130390040, 1545843689, bHkQn0_, C7IG_36);
+vfBo30 = wH0Q74EXX(IqfZwj, (short)2130390040, 1545843689, bHkQn0_, C7IG_36);
 break;
 case 'c':
 VI2b3nq1E = (int)floor(I9_Ma);
@@ -273,7 +273,7 @@ NST0 = (int)ceil(Z92bC0yb4);
 C7IG_36 = (int)ceil(I9_Ma);
 if ((NST0 > Z92bC0yb4) || ((C7IG_36 < -456702959) && (NoiA0Vw >= -1825118252)))
 {
-vfBo30 = wH0Q74EXX(1710639062, -54892062, NoiA0Vw, 291877532, 479842213);
+vfBo30 = wH0Q74EXX(1710639062, (short)-54892062, NoiA0Vw, 291877532, 479842213);
 }
 else if (((eCh5Mi & f2MoC8Ah) && (AAb_aZhGa >= I9_Ma)) || (eCh5Mi != AAb_aZhGa))
 {
@@ -285,7 +285,7 @@ if ((CE2k_W14Rg & -2057871200) && (AAb_aZhGa > VI2b3nq1E))
 {
 for (int k = 0; k < 9; k++)
 {
-vfBo30 = wH0Q74EXX(IqfZwj, -1509364832, wF2POYu45, AAb_aZhGa, -20314420);
+vfBo30 = wH0Q74EXX(IqfZwj, (short)-1509364832, wF2POYu45, AAb_aZhGa, -20314420);
 }
 }
 else if (Bc7lMh1op >= lWQ8x8_642)
@@ -296,7 +296,7 @@ case 'a':
 AAb_aZhGa = yfN45ql(852363606, 426737837, y_3q);
 break;
 case 'b':
-kYvy9UFmYy = yfN45ql(1486917243, -628036220, VI2b3nq1E);
+kYvy9UFmYy = yfN45ql(1486917243, (char)-628036220, VI2b3nq1E);
 break;
 case 'c':
 eO631O8p = (int)floor(IqfZwj);
@@ -430,7 +430,7 @@ while (i >= 0)
 {
 try
 {
-AAb_aZhGa = yfN45ql(-966902726, -1409368563, -570288281);
+AAb_aZhGa = yfN45ql(-966902726, (char)-1409368563, -570288281);
 }
 catch (int& errorCode)
 {

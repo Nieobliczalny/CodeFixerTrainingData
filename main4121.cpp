@@ -25,7 +25,7 @@ int main(void)
   float  WJR1  =  -1766233968;
 	unsigned int	b3Pyxscc	=	-1469948279;
  long long Zq2_Pa = 1328800120;
-    char    SJyn8    =    -1174601322;
+    char    SJyn8    =    (char)-1174601322;
 	double	YgBK8	=	1331666695;
     short    UE05    =    343502932;
   double  JKC_  =  1296529895;
@@ -36,7 +36,7 @@ int main(void)
  long O5aU7uqhp = -1458889810;
     double    Js0jekWe    =    -2068917903;
  unsigned long long vdgb = 1983262239;
-    unsigned char    Y_2W2onfY9    =    1088203774;
+    unsigned char    Y_2W2onfY9    =    (unsigned char)1088203774;
  long J733ezHR = -1325617316;
  short e_61GtU = 79994713;
 	long	d87y_g	=	549085868;
@@ -48,7 +48,7 @@ int main(void)
 	float	m86_d207cd	=	-1659662041;
 	float	w2iSf	=	-1817285066;
  unsigned long long xy2E = 0;
-    unsigned char    MhGts8qooo    =    -790577653;
+    unsigned char    MhGts8qooo    =    (unsigned char)-790577653;
     char    K_Srrx    =    -1764744876;
   unsigned short  R4nMD3we  =  -421350670;
   char  mXa1TC76  =  -1278223027;
@@ -58,7 +58,7 @@ int main(void)
     short    Q51DF28rH5    =    -1687265717;
  long long UK460 = 145690346;
  long ci1_ = 0;
-	unsigned char	XdY8A_	=	562615246;
+	unsigned char	XdY8A_	=	(unsigned char)562615246;
   int  YFB8ns_1V  =  1208711197;
     short    aJw037mND    =    1466576766;
     short    Z0jLq12    =    0;
@@ -290,7 +290,7 @@ hCDBv8R4j7 = kSq735();
 break;
 case 'b':
 case 'B':
-Km3QW_Qt = q0M0(-1448772760, 513490748);
+Km3QW_Qt = q0M0(-1448772760, (char)513490748);
 break;
 case 'c':
 case 'C':
@@ -474,7 +474,7 @@ case 1:
 d87y_g = (int)abs(viaqUqfBc);
 break;
 case 2:
-qalNdaO = q0M0(1603820369, -2121617883);
+qalNdaO = q0M0(1603820369, (char)-2121617883);
 break;
 case 3:
 WJR1 = (int)ceil(qalNdaO);

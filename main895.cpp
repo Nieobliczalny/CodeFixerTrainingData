@@ -20,7 +20,7 @@ int main(int argc, char** argv) {
  unsigned long q9sJL;
  q9sJL = 596395135;
   unsigned short int  s4sFuo4Kl_;
-  s4sFuo4Kl_  =  1121736415;
+  s4sFuo4Kl_  =  (unsigned short)1121736415;
  unsigned char Szc13;
  Szc13 = 1742973907;
 	unsigned long	Z8_Du64;
@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
   unsigned char  Ctd9;
   Ctd9  =  1556196889;
   short  cpzDtL5f;
-  cpzDtL5f  =  -1941636576;
+  cpzDtL5f  =  (short)-1941636576;
 	float	D17f;
 	D17f	=	-212386955;
  short zsCFfJTy2;
@@ -42,7 +42,7 @@ int main(int argc, char** argv) {
 	unsigned char	B34w0A;
 	B34w0A	=	-1359055767;
   short int  Y0fF;
-  Y0fF  =  794926030;
+  Y0fF  =  (short)794926030;
  unsigned int XCSkbZp;
  XCSkbZp = 1299481693;
   unsigned int  iTkq67;
@@ -227,7 +227,7 @@ switch (Obe3mqK)
 {
 case 'a':
 case 'A':
-J8e3IM = h4Mm(Szc13, -894942452, Ctd9, 818325412, c12z2K);
+J8e3IM = h4Mm(Szc13, -894942452, Ctd9, (char)818325412, c12z2K);
 break;
 case 'b':
 case 'B':

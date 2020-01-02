@@ -31,7 +31,7 @@ case 'c':
 hU32g >>= 382274839;
 break;
 case 'd':
-G08_nJ = (F0bTt >= -1680710258) ? -94460941 : -1114851897;
+G08_nJ = (F0bTt >= -1680710258) ? -94460941 : (unsigned char)-1114851897;
 break;
 case 'e':
 kAHoNHy <<= 581046384;
@@ -138,7 +138,7 @@ case 1:
 VwBHeyd1Aw |= QaXD44;
 break;
 case 2:
-RNUw = (k_ZcHO8i) ? -1597989212 : -590951830;
+RNUw = (k_ZcHO8i) ? -1597989212 : (unsigned char)-590951830;
 break;
 case 3:
 xoVqg_zN8n -= KRuk;

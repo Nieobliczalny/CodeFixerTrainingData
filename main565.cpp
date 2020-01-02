@@ -34,7 +34,7 @@ int main()
 	unsigned int	Ki3h1N58q;
 	Ki3h1N58q	=	1097494864;
   char  F337d5s9dk;
-  F337d5s9dk  =  -773192911;
+  F337d5s9dk  =  (char)-773192911;
   short int  o9XYZ;
   o9XYZ  =  -334658835;
   long double  gdy0s0g;
@@ -64,7 +64,7 @@ int main()
   long long  vi_vT;
   vi_vT  =  -1566530524;
 	char	SqjC;
-	SqjC	=	-1260319430;
+	SqjC	=	(char)-1260319430;
 	char	p81D;
 	p81D	=	17556399;
   unsigned long long  IZg0_;

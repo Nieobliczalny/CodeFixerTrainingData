@@ -12,7 +12,7 @@ int main()
 {
   short  t7Ss9,  G0qQ8C6k,  Fh4mG1_A86,  BLD735kkvK,  p7h4SxJja,  PZS9p7Y_K,  G1NrK,  eHD1fp,  xAV4u6H481,  Wml_CvEgeG,  ODQHz697k,  nhGCq,  FD4l2_d0L,  z_Ra0axs,  cL716dT1O,  JNJX6u089,  FN_3f,  nACQdWAV,  Wd3Ou2M,  XZ8IRB4e43,  yfdkwQZ8xo,  aqN61Z8V1,  PJX8Z,  Rr0a9e,  MiL_M8a_,  GpBs3_km8w,  c2yN5jfVo,  ZWPf,  XMCf6,  P23eh65p0S,  R5hWaVk2U2,  KunrGkWU,  D7iVWg,  D4F5,  g3O4I,  MQzm86,  hWin0mpq,  bOj1,  HDrf,  mCkxJ7o4M2,  KS7_ir3,  Q2WeV3,  EI3QmzIfA4,  v1xp,  hhL350a1,  fM6F,  XZGMbQF1,  rymUTh,  b2O_f6oM,  ItVg1dX,  Ar6c_a,  Lha_T3SlS,  oumL0Jms5D;
   t7Ss9  =  -1948508256;
-  G0qQ8C6k  =  727645111;
+  G0qQ8C6k  =  (short)727645111;
   Fh4mG1_A86  =  -1491487292;
   BLD735kkvK  =  -1529081464;
   p7h4SxJja  =  -1786137362;
@@ -22,7 +22,7 @@ int main()
   xAV4u6H481  =  -1120084455;
   Wml_CvEgeG  =  1923663645;
   ODQHz697k  =  924826045;
-  nhGCq  =  -1286773850;
+  nhGCq  =  (short)-1286773850;
   FD4l2_d0L  =  -1652715668;
   z_Ra0axs  =  -141837692;
   cL716dT1O  =  1393024973;
@@ -32,7 +32,7 @@ int main()
   Wd3Ou2M  =  -2009946190;
   XZ8IRB4e43  =  1650527237;
   yfdkwQZ8xo  =  -512477745;
-  aqN61Z8V1  =  -1101644730;
+  aqN61Z8V1  =  (short)-1101644730;
   PJX8Z  =  -1876983088;
   Rr0a9e  =  2029186096;
   MiL_M8a_  =  1277704461;
@@ -42,7 +42,7 @@ int main()
   XMCf6  =  -2092318889;
   P23eh65p0S  =  -1805518271;
   R5hWaVk2U2  =  1550205689;
-  KunrGkWU  =  1630121735;
+  KunrGkWU  =  (short)1630121735;
   D7iVWg  =  586239048;
   D4F5  =  -1911496554;
   g3O4I  =  447373294;
@@ -52,7 +52,7 @@ int main()
   HDrf  =  46145142;
   mCkxJ7o4M2  =  -736039701;
   KS7_ir3  =  -746771861;
-  Q2WeV3  =  -2095257047;
+  Q2WeV3  =  (short)-2095257047;
   EI3QmzIfA4  =  1588147397;
   v1xp  =  115466695;
   hhL350a1  =  -145723221;
@@ -62,7 +62,7 @@ int main()
   b2O_f6oM  =  -757897262;
   ItVg1dX  =  -1047108408;
   Ar6c_a  =  -730483335;
-  Lha_T3SlS  =  -1103608777;
+  Lha_T3SlS  =  (short)-1103608777;
   oumL0Jms5D  =  -1096729706;
     unsigned long    b_xA9AmmV;
     b_xA9AmmV    =    0;

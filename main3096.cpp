@@ -26,7 +26,7 @@ unsigned short int	uFm4()
 }
 
 short int	viyv759w90(int	E29u0,long	W389CjBEiP,unsigned long long	T0qlO,short	ElpL9i4mc1)	{
-	return	-878239962;
+	return	(short)-878239962;
 }
 
 int main(void)
@@ -38,7 +38,7 @@ int main(void)
   unsigned int  O2ITh  =  171530608;
 	unsigned long	vJoTmYW	=	-1675233422;
     unsigned long long    SI_i    =    802395691;
-  unsigned short int  p33Joif  =  10927088;
+  unsigned short int  p33Joif  =  (unsigned short)10927088;
   long double  TjeT7_10  =  -768549085;
 	float	ba2a	=	989020126;
   unsigned short  kqO05n  =  -1031447753;
@@ -49,7 +49,7 @@ int main(void)
 	char	iU6a0	=	-100988364;
   short  hjm6ewW9  =  857665353;
  long long Qj7_9xL2x = -1592558863;
- short int H6UOn635 = 1594323329;
+ short int H6UOn635 = (short)1594323329;
  char ZUYaM5 = -1147915459;
     unsigned short int    rzRaN5_v    =    1968516595;
   long  HSU5H4WpS3  =  345492766;
@@ -62,7 +62,7 @@ int main(void)
     unsigned long    AvPi_on    =    595863665;
     double    i09C    =    812548139;
   unsigned long long  V2V3Z  =  581372375;
- short int P_y7Qq = -415659531;
+ short int P_y7Qq = (short)-415659531;
 	unsigned int	I9nqyNNf	=	1569951252;
   unsigned int  K138crzxp  =  0;
     unsigned char    Up66    =    -598161241;
@@ -141,7 +141,7 @@ else if (iU6a0 <= y_bXZdh)
 switch (k27rXBC2)
 {
 case 0:
-i09C = jQM9(-101859164, 974536477, -339712167, 802915275, 1696345101);
+i09C = jQM9(-101859164, 974536477, -339712167, 802915275, (short)1696345101);
 break;
 case 1:
 sG94Dfpb4 = u_LP25L5tN(-172622180, -1802218440, 861015191) | yY4BR;
@@ -394,7 +394,7 @@ p7oIO8Vb = jQM9(725975266, -1089442692, LJK3lY9x, 1380682409, kHPzcxHj);
 p7oIO8Vb = (char)(s_X8);
 if (qpxvW)
 {
-H6UOn635 = jQM9(-2027842562, -1578815663, -1433461514, -631630642, 1404585595);
+H6UOn635 = jQM9(-2027842562, -1578815663, -1433461514, -631630642, (short)1404585595);
 }
 
 {
@@ -525,7 +525,7 @@ LJK3lY9x = (char)(ee1i);
 }
 else if (qpxvW != Nj9U8)
 {
-ZUYaM5 = jQM9(547259413, -1600449623, -1775248640, ZK0qVk7Ul6, 604844210);
+ZUYaM5 = jQM9(547259413, -1600449623, -1775248640, ZK0qVk7Ul6, (short)604844210);
 }
 else
 {

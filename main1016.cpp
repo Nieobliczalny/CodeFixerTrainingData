@@ -35,7 +35,7 @@ int main()
  short PhJ4f;
  PhJ4f = 1345732195;
 	short	wFe7Hr53X;
-	wFe7Hr53X	=	-1651866543;
+	wFe7Hr53X	=	(short)-1651866543;
     short int    XXqK;
     XXqK    =    1078121754;
 	short int	GL3f9_D6n;
@@ -71,7 +71,7 @@ int main()
 	unsigned char	bkU0RGPaY0;
 	bkU0RGPaY0	=	1685580658;
   short  u_Q0;
-  u_Q0  =  -893025884;
+  u_Q0  =  (short)-893025884;
 	long long	Ns1Mw;
 	Ns1Mw	=	1722427473;
 	long double	VTx95ap_3u;
@@ -85,7 +85,7 @@ int main()
   short  zOs4uVVdL;
   zOs4uVVdL  =  498148816;
  unsigned short int kS_O1N150;
- kS_O1N150 = 144673630;
+ kS_O1N150 = (unsigned short)144673630;
  unsigned int HU3Czn8IBt;
  HU3Czn8IBt = -2088308370;
     long double    Z07II;

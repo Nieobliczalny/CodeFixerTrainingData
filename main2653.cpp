@@ -35,7 +35,7 @@ ZqX711DgZc >>= 1962334389;
 }
 else if (w1364pti)
 {
-std::cout << dLsjJ << WyOw7eC(-2022416322, 1724536355, Ix8_T_y, -1317119735, -874882945) << std::endl;
+std::cout << dLsjJ << WyOw7eC((short)-2022416322, 1724536355, Ix8_T_y, -1317119735, -874882945) << std::endl;
 }
 else
 {
@@ -148,7 +148,7 @@ else
 {
 BW_y1p_Js4 = ra9Lj_ymj(772066943, Fsir3V6, ZqX711DgZc, 1959076364);
 }
-rl2K_n0 = ra9Lj_ymj(850585043, u1Fwa8, r5u80fx, RWPZWnyb6E);
+rl2K_n0 = ra9Lj_ymj((short)850585043, u1Fwa8, r5u80fx, RWPZWnyb6E);
 
 for (int i = 0; i < 5; ++i)
 {
@@ -229,7 +229,7 @@ case 4:
 JZm7xW -= gQTa16nfBJ;
 break;
 case 5:
-W1Rtb4foi = WyOw7eC(-973869458, 832642383, b3JI9, 160644154, -1006110306);
+W1Rtb4foi = WyOw7eC((short)-973869458, 832642383, b3JI9, 160644154, -1006110306);
 break;
 case 6:
 qbbs = HPu3zc();
@@ -615,7 +615,7 @@ unsigned short int  n_lu7a()
 }
 
 char	HPu3zc()	{
-	return	-447734042;
+	return	(char)-447734042;
 }
 
 int  ra9Lj_ymj(short int  Je284gK,unsigned int  G0BTj,unsigned long  ANBR,long long  Jz1J)

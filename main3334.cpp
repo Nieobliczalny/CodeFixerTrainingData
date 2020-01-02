@@ -8,6 +8,7 @@
 
 
 int main() {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
  unsigned short int Hy3bF8 = -2146530064, T7wqK_1 = 1396872304, B_en47SQ62 = -264598850, p3ci36L23v = 204929334, Hkg22or5V = -881692463, OPPsu0y = -2037807105, BH__kfQ3M = 321396465, d4p_X3l = -1022880792, fa5C_Uj87D = 1406591663, U1Q9VYUb0 = -1387318124, C6p56WppV = 109868653, swtfkiIbuX = 432864870, GFdXakPA = -602655868, gSA_u = -130101526, jMV_7UWVIo = -1605675652, t6Zx_2fB = -1946147538, KY76yn6 = -481593862, p9Yl4 = -360663321, W_38 = -50032466;
 	short	r42u06bKM	=	0,	zXq4	=	0,	m0lE59g95h	=	0;
 
@@ -706,7 +707,7 @@ jMV_7UWVIo = Hy3bF8 ^ T7wqK_1;
 }
 else if (KY76yn6 > -421205299)
 {
-T7wqK_1 = (t6Zx_2fB <= OPPsu0y) ? -262292473 : 650334545;
+T7wqK_1 = (t6Zx_2fB <= OPPsu0y) ? -262292473 : (unsigned short)650334545;
 }
 else if (jMV_7UWVIo >= gSA_u)
 {

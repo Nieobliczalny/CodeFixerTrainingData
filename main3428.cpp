@@ -415,7 +415,7 @@ while (i >= 0);
 }
 for (int i = 0; i < 3; ++i)
 {
-DDGg = T5367p0(1090452309, 143292683);
+DDGg = T5367p0(1090452309, (unsigned char)143292683);
 }
 
 {
@@ -675,7 +675,7 @@ case 5:
 kf6X6Q44 = BQv_v5CxC();
 break;
 default:
-e70bH = T5367p0(-1210208136, 1857466771);
+e70bH = T5367p0(-1210208136, (unsigned char)1857466771);
 break;
 }
 --j;
@@ -733,6 +733,6 @@ char    BQv_v5CxC()    {
 
 short  T5367p0(short int  O7VtFyA,unsigned char  Cruz8Jg8)
 {
-  return  -769995200;
+  return  (short)-769995200;
 }
 

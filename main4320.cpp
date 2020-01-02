@@ -21,7 +21,7 @@ int main(void) {
   unsigned short  JIbM  =  786012456;
 	unsigned long long	C6X5QebzN0	=	554597780;
   int  j_36  =  -551458373;
-    short    iD_7n80    =    -63492110;
+    short    iD_7n80    =    (short)-63492110;
  long double aLjApwq = 104048041;
     int    vgffxXFJ    =    -2077596734;
     unsigned char    pwTeD    =    -171198047;
@@ -31,7 +31,7 @@ int main(void) {
     unsigned long    Y8jDGv    =    -1155688520;
 	short int	u6_m1_1	=	546834083;
  short int x1sR = -303964852;
-    unsigned short    TXyBVpZL    =    17151289;
+    unsigned short    TXyBVpZL    =    (unsigned short)17151289;
  long long Tt4C7sD = 982270437;
     char    QgKz8lvB    =    1485269643;
 	char	beM5	=	0;
@@ -41,7 +41,7 @@ int main(void) {
     short int    Ij9cf6B    =    180081219;
     unsigned long    LEd7Msk8WG    =    -230345983;
   short  L4YcpQ6  =  1406973785;
- unsigned short ZGm63_ec = -1269573275;
+ unsigned short ZGm63_ec = (unsigned short)-1269573275;
   unsigned short  OYRNV0I6Ou  =  383540719;
 	float	oNH3EUFdo	=	1921497853;
 	unsigned long	YFvA8u389L	=	467683385;
@@ -51,7 +51,7 @@ int main(void) {
 	long double	BEDWqSwU9Z	=	-1634413834;
  int Az5t_Q5t = 1198765815;
  short int CgvvZm9SN = 1175400832;
-	char	AM81Lh	=	-1664938943;
+	char	AM81Lh	=	(char)-1664938943;
     double    R3U2l5o    =    449607088;
     long long    w80Ru    =    -1422277449;
     unsigned long    cBdJ8w9rli    =    1504722967;
@@ -68,7 +68,7 @@ int main(void) {
 	long	JXS7XBflo	=	0;
  int EZTx = -1993670742;
     short int    nYQsj    =    -320947265;
-  short int  RM0t  =  1121106668;
+  short int  RM0t  =  (short)1121106668;
     float    oqd2_46    =    -522070292;
 	unsigned short int	lqpvGGWAxl	=	250495516;
   long double  MME7_p  =  1490410381;
@@ -86,7 +86,7 @@ int main(void) {
     long double    ehN0s_R    =    459659177;
 	unsigned int	wv3YVM	=	-1947537536;
  long long rFn9 = 2123253501;
-	short int	A_464Y	=	-646050330;
+	short int	A_464Y	=	(short)-646050330;
     long long    b9fAoL    =    -1449458188;
 	long	sqZUXy8w	=	1505829267;
     short int    AWR614eo6    =    -2103072246;
@@ -105,7 +105,7 @@ int main(void) {
   unsigned long long  Uwdvuk_  =  1662473942;
   double  NVrW  =  -1231381152;
     float    jU77m0OQj    =    997415546;
- unsigned char U8Y_UcwqsI = -1894952430;
+ unsigned char U8Y_UcwqsI = (unsigned char)-1894952430;
   unsigned short  s_08_  =  -1305256401;
 	unsigned long long	G26v_qw	=	-1397826687;
   long double  AnxVD  =  -1065536179;
@@ -126,7 +126,7 @@ switch (A_464Y)
 {
 case 'a':
 case 'A':
-JIbM = W87LeJ(JIbM, 1276976682, -1498033255);
+JIbM = W87LeJ(JIbM, 1276976682, (unsigned char)-1498033255);
 break;
 case 'b':
 case 'B':
@@ -196,7 +196,7 @@ else if (RM0t)
 {
 if (cBdJ8w9rli > -1654212448)
 {
-i89CUE = W87LeJ(i89CUE, -594796862, 606155745);
+i89CUE = W87LeJ(i89CUE, -594796862, (unsigned char)606155745);
 }
 }
 else if ((Uwdvuk_ <= j_36) || (OC2T08_ != IDVW1p7f))
@@ -211,7 +211,7 @@ else if ((lqpvGGWAxl >= A_464Y) || (s_08_ != IDVW1p7f))
 {
 if (A_464Y)
 {
-BjmG = W87LeJ(-1888804383, b9fAoL, 1113164909);
+BjmG = W87LeJ(-1888804383, b9fAoL, (unsigned char)1113164909);
 }
 else
 {
@@ -257,7 +257,7 @@ JXS7XBflo = Yx4u(j2672BFs, NVrW);
 }
 else if (Z9_4A2)
 {
-std::cout << LEd7Msk8WG << W87LeJ(1763222402, 364812995, -680560765) << "H8UD1w" << ga20e_0n(j2672BFs) << std::endl;
+std::cout << LEd7Msk8WG << W87LeJ(1763222402, (unsigned short)364812995, -680560765) << "H8UD1w" << ga20e_0n(j2672BFs) << std::endl;
 }
 else if ((n2kM7y0ULT > QgKz8lvB) && ((ehN0s_R >= IDVW1p7f) || (RM0t & -481474114)))
 {
@@ -284,7 +284,7 @@ AWR614eo6 = (int)abs(R3U2l5o);
 }
 else if (w0AcyH > 867634322)
 {
-U8Y_UcwqsI = W87LeJ(868184591, s_08_, -1294572542);
+U8Y_UcwqsI = W87LeJ((unsigned short)868184591, s_08_, -1294572542);
 }
 else
 {
@@ -355,7 +355,7 @@ Z9_4A2 = Tt4C7sD / 1602163947;
 break;
 case 'e':
 case 'E':
-jU77m0OQj = W87LeJ(645310443, -265911354, -527722602);
+jU77m0OQj = W87LeJ((unsigned short)645310443, -265911354, -527722602);
 break;
 case 'f':
 case 'F':
@@ -444,7 +444,7 @@ while (j >= 0)
 j--;
 if (MK07_7o3hO == IDVW1p7f)
 {
-w0AcyH = W87LeJ(87289981, OYRNV0I6Ou, 596608632);
+w0AcyH = W87LeJ(87289981, OYRNV0I6Ou, (unsigned char)596608632);
 }
 else if (npA92hnI <= 299086269)
 {

@@ -37,7 +37,7 @@ int main()
 	unsigned char	K_J09py;
 	K_J09py	=	819074166;
 	short	i0sB;
-	i0sB	=	1855909741;
+	i0sB	=	(short)1855909741;
   double  b8i4KY97ba;
   b8i4KY97ba  =  745153558;
   unsigned short  l0G84e;
@@ -69,7 +69,7 @@ int main()
 	unsigned long long	tFmC;
 	tFmC	=	1378503976;
     short    m95p6x7WRE;
-    m95p6x7WRE    =    -431063807;
+    m95p6x7WRE    =    (short)-431063807;
   double  O7wuUN7yo;
   O7wuUN7yo  =  -809212296;
 	short int	uS8j_moGQy;
@@ -93,7 +93,7 @@ int main()
     int    J_s_P;
     J_s_P    =    2091436806;
 	short int	L_OD;
-	L_OD	=	-741559505;
+	L_OD	=	(short)-741559505;
  short j2ORjv_K;
  j2ORjv_K = -1640643605;
 
@@ -245,7 +245,7 @@ short int  ADsc(unsigned long  g2juT8,unsigned char  u33Bp__M1,short int  xOqi_9
 }
 
 short int tT_YzP(int nF0W7_9xQ,short int xFX4Lj41,int jUHq,long sAgMta6E) {
- return 2075431411;
+ return (short)2075431411;
 }
 
 long long	Ye7m()

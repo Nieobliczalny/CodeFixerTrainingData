@@ -23,7 +23,7 @@ int main()
 	short	Knp_G5v;
 	Knp_G5v	=	-1021940645;
  short int tP0M1X88Sx;
- tP0M1X88Sx = 1313648566;
+ tP0M1X88Sx = (short)1313648566;
   double  k4qW3_6vH;
   k4qW3_6vH  =  880364927;
     unsigned long    NdMS9_n9a_;
@@ -43,7 +43,7 @@ int main()
     float    fTFCh9uE;
     fTFCh9uE    =    -189092170;
  short SJ41gvz3Z;
- SJ41gvz3Z = 1334662594;
+ SJ41gvz3Z = (short)1334662594;
     float    yQ09S7S4_i;
     yQ09S7S4_i    =    1110852748;
  unsigned long guEu36;
@@ -55,7 +55,7 @@ int main()
   short  TQq5;
   TQq5  =  -1304538510;
 	char	T_2O;
-	T_2O	=	-1858947974;
+	T_2O	=	(char)-1858947974;
     float    Ruk02Z2MG;
     Ruk02Z2MG    =    1014915450;
 	unsigned short	Iz07;
@@ -65,7 +65,7 @@ int main()
   unsigned short int  U_QLP6n17;
   U_QLP6n17  =  -452269939;
     char    TVZc8hZYy2;
-    TVZc8hZYy2    =    278726932;
+    TVZc8hZYy2    =    (char)278726932;
     long long    b7V_H3ig;
     b7V_H3ig    =    1302546883;
   long double  xn6xs10ga;
@@ -81,7 +81,7 @@ int main()
 	unsigned long	I6GL;
 	I6GL	=	2112689784;
   unsigned short  Q53FCag;
-  Q53FCag  =  1380361102;
+  Q53FCag  =  (unsigned short)1380361102;
     unsigned short int    KLCq;
     KLCq    =    1104253844;
 	unsigned short int	GJDAfc_Q_;
@@ -91,7 +91,7 @@ int main()
 	long long	XR1N_sP;
 	XR1N_sP	=	-1119724116;
  char tOT3e4_J6v;
- tOT3e4_J6v = 970513773;
+ tOT3e4_J6v = (char)970513773;
  double SNaU3cG;
  SNaU3cG = 2104233060;
  double IE0X24;
@@ -105,7 +105,7 @@ int main()
     unsigned long long    F0jG3456L;
     F0jG3456L    =    -2105147991;
 	char	u6s_;
-	u6s_	=	1037724278;
+	u6s_	=	(char)1037724278;
 	long double	Vq8ZM9;
 	Vq8ZM9	=	921003909;
     double    IJw2Oce6k5;
@@ -119,7 +119,7 @@ int main()
 	unsigned long	AN8G_;
 	AN8G_	=	3081715;
 	unsigned short int	c460o0;
-	c460o0	=	1390235471;
+	c460o0	=	(unsigned short)1390235471;
 	double	Qy566PTShI;
 	Qy566PTShI	=	428578401;
  int Zc7WeL0YvF;
@@ -131,7 +131,7 @@ int main()
  unsigned long Z20P;
  Z20P = -1500446058;
  unsigned char T0k24E2_;
- T0k24E2_ = 721640190;
+ T0k24E2_ = (unsigned char)721640190;
   unsigned long long  Pb9m;
   Pb9m  =  1002144766;
 	unsigned short	AhEr3s92;
@@ -141,7 +141,7 @@ int main()
     unsigned long    tIJv9E2;
     tIJv9E2    =    443544150;
     unsigned short int    LyNo;
-    LyNo    =    264200116;
+    LyNo    =    (unsigned short)264200116;
  int C14xxq;
  C14xxq = -1577383502;
 
@@ -265,7 +265,7 @@ f32SiYq = SF8_(477699041, 920304719, qz4A);
 
 if ((-723465454 / f32SiYq) <= 1036005510)
 {
-if ((SF8_(u6s_, 1290742128, 2062613223) / SF8_(-1469396612, 1262508387, -1930153558)) > -1649681027)
+if ((SF8_(u6s_, 1290742128, 2062613223) / SF8_((unsigned short)-1469396612, 1262508387, -1930153558)) > -1649681027)
 {
 try
 {

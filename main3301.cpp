@@ -41,7 +41,7 @@ case 'a':
 lGs9di = (D6EDyO != Z09z) ? goKQWPLp(u714C6N, 1892824860) : v00v;
 break;
 case 'b':
-YBp7 = g43DtodU(196510811);
+YBp7 = g43DtodU((char)196510811);
 break;
 case 'c':
 YBp7 = g43DtodU(1006039671);

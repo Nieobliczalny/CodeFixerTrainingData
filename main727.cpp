@@ -123,7 +123,7 @@ MJiURd1ri = (long)(p18xDm_g);
 
 Amdkz = H2J2z5LJ3(Amdkz, c94COK);
 
-v69v48i_uk = 1248987988 / X9hW1(-1159506579, -1210869974);
+v69v48i_uk = 1248987988 / X9hW1(-1159506579, (char)-1210869974);
 if ((azCm68mVBr < Amdkz) && (xGv5m4 > B4BcYEqHCj))
 {
 NuEnB = (long)(g7k1);
@@ -198,7 +198,7 @@ p18xDm_g = (int)abs(Amdkz);
 }
 else
 {
-Amdkz = kU8c36ok(910344066, -107627979, 2002149244, -896742215);
+Amdkz = kU8c36ok((short)910344066, -107627979, 2002149244, -896742215);
 }
 }
 }
@@ -325,7 +325,7 @@ for (int i = 0; i < 7; ++i)
 switch (c94COK)
 {
 case 0:
-xGv5m4 = X9hW1(692993101, 1309372199);
+xGv5m4 = X9hW1(692993101, (char)1309372199);
 break;
 case 1:
 c94COK = kU8c36ok(749669391, C5v1WDv_D_, 492378597, 1130876928);

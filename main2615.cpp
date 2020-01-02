@@ -14,7 +14,7 @@ unsigned short  H3G_5f(short  Y_w94,char  Eayo_jw,long long  nY028lCQ,unsigned l
 
 short int	SR6w(int	n912,long	i2K8g)
 {
-	return	1696950476;
+	return	(short)1696950476;
 }
 
 char    LhTr(unsigned short    Wok_ju17,int    BGIEvE,long    U4T4goym,int    xUvU)    {
@@ -45,7 +45,7 @@ break;
 }
 for (int i = 5; i >= 0; i--)
 {
-BRWb4ws = LhTr(1210326988, Rk3p5q, -880242537, kr15gJ);
+BRWb4ws = LhTr((unsigned short)1210326988, Rk3p5q, -880242537, kr15gJ);
 }
 try
 {
@@ -311,7 +311,7 @@ while (i < 4);
 
 if ((LhTr(-698390732, btN849C7q, oI6g4L_g7R, lxz6DD) / s79fJ) > 834065193)
 {
-gx35zZqSJ = LhTr(-2143959423, btN849C7q, 644700053, 968391210) / ZY6i;
+gx35zZqSJ = LhTr((unsigned short)-2143959423, btN849C7q, 644700053, 968391210) / ZY6i;
 }
 C6LOZ81 = SR6w(686480208, -1444974495);
 

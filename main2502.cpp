@@ -19,7 +19,7 @@ int main(void) {
   k_Ei2db  =  0;
     char    BV0b,    uzSJ_RF,    UKzB4L,    Ty0mq3B,    Y84g,    sj_06s_,    NaKi65,    H_b1AA1y3J,    UU94mW,    R1fNL_74Xh,    drxm,    b1E17,    r7dvj8wnE2,    x03s3Zw3JL,    h01Ttb0snh,    d_HRw3Y9o,    p_l_l,    W5k7cRS,    rw861QM6r,    qDc83M50,    r2rJZRQt,    Q2T1jOc_J,    x2vr2n,    olDM1f6V,    BG024t93,    hx_J51,    N1340b7,    f3Oh6uS666,    L19z_d,    WpgutP_i,    nKG3n8M0,    rGbT,    t5U3crf,    t8rNu,    rCK20YN9p8,    mw6I0,    Hp1GS4A_y,    HCz0_86,    XDdHelq,    iSkX,    RnRvtDm2,    a5is67S4fa,    EXAlV99_sP,    i6lMnms1F_,    V66owIIY,    OG4G;
     BV0b    =    252837665;
-    uzSJ_RF    =    -348262765;
+    uzSJ_RF    =    (char)-348262765;
     UKzB4L    =    1590299061;
     Ty0mq3B    =    -1690123578;
     Y84g    =    -1191854912;
@@ -29,7 +29,7 @@ int main(void) {
     UU94mW    =    -1040717991;
     R1fNL_74Xh    =    -292956725;
     drxm    =    -969771519;
-    b1E17    =    813739536;
+    b1E17    =    (char)813739536;
     r7dvj8wnE2    =    -1803447417;
     x03s3Zw3JL    =    -2141455160;
     h01Ttb0snh    =    1411747317;
@@ -39,7 +39,7 @@ int main(void) {
     rw861QM6r    =    -306238013;
     qDc83M50    =    498462706;
     r2rJZRQt    =    -44792452;
-    Q2T1jOc_J    =    1858147290;
+    Q2T1jOc_J    =    (char)1858147290;
     x2vr2n    =    -2066841389;
     olDM1f6V    =    960305015;
     BG024t93    =    900637477;
@@ -49,7 +49,7 @@ int main(void) {
     L19z_d    =    572168404;
     WpgutP_i    =    -1549382527;
     nKG3n8M0    =    1891990549;
-    rGbT    =    122490268;
+    rGbT    =    (char)122490268;
     t5U3crf    =    2087151599;
     t8rNu    =    -1204266400;
     rCK20YN9p8    =    395220735;
@@ -59,7 +59,7 @@ int main(void) {
     XDdHelq    =    2023907742;
     iSkX    =    1740757865;
     RnRvtDm2    =    -66461974;
-    a5is67S4fa    =    1917332267;
+    a5is67S4fa    =    (char)1917332267;
     EXAlV99_sP    =    1135278721;
     i6lMnms1F_    =    -2128279712;
     V66owIIY    =    1272231265;
@@ -143,7 +143,7 @@ case 9:
 is59t9 = K4idJttX(-119063075, 421496589, -2079388033, 719335523);
 break;
 default:
-hx_J51 = (RnRvtDm2 & 1227300427) ? K4idJttX(653557016, EXAlV99_sP, rw861QM6r, -807326540) : UKzB4L;
+hx_J51 = (RnRvtDm2 & 1227300427) ? K4idJttX((char)653557016, EXAlV99_sP, rw861QM6r, -807326540) : UKzB4L;
 break;
 }
 }
@@ -261,7 +261,7 @@ is59t9 = K4idJttX(-1996569671, HCz0_86, BG024t93, R1fNL_74Xh);
 }
 else if (((WpgutP_i != 482098423) && (is59t9 == 639432662)) || ((L19z_d >= -714312247) || (EXAlV99_sP < -1804460458)))
 {
-k_Ei2db = K4idJttX(-237753660, -152471988, -1236015977, Hp1GS4A_y);
+k_Ei2db = K4idJttX((char)-237753660, -152471988, -1236015977, Hp1GS4A_y);
 }
 else if (r7dvj8wnE2 >= 820258784)
 {

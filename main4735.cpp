@@ -23,7 +23,7 @@ int main(int argc, char** argv)
     short int    A23eaI_cws;
     A23eaI_cws    =    1934495612;
     char    a2pt_o;
-    a2pt_o    =    -1630798016;
+    a2pt_o    =    (char)-1630798016;
 	double	TmQ9;
 	TmQ9	=	-1923469419;
 	long double	jZ5No1s;
@@ -47,7 +47,7 @@ int main(int argc, char** argv)
 	unsigned int	iYhLDDfLOo;
 	iYhLDDfLOo	=	0;
  short ig4ju;
- ig4ju = -1886472297;
+ ig4ju = (short)-1886472297;
   int  t5gEI5;
   t5gEI5  =  2061034651;
  long OBu5_KU;

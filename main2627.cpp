@@ -29,7 +29,7 @@ int main(int argc, char** argv) {
   unsigned char  zIT8Is3tEM  =  0;
  long JHqA5J = 0;
 	unsigned long long	D2ySAvm4	=	-1640312778;
- char A6y0ZZ06P = 1462781195;
+ char A6y0ZZ06P = (char)1462781195;
 	unsigned char	yNYg4_v	=	2119624823;
 	short	Bs_TV	=	673569344;
     unsigned char    flfU541un    =    1242098541;
@@ -42,7 +42,7 @@ int main(int argc, char** argv) {
 	long	B2WXUdZA7s	=	-1016718663;
  long RnzTGj17a = -826213068;
     unsigned long long    B94G31mtK    =    926173193;
-	unsigned short int	YVmpAWI28y	=	1849625636;
+	unsigned short int	YVmpAWI28y	=	(unsigned short)1849625636;
  short jjr1Shrc = -2043756770;
   char  E6C287clC  =  901049441;
  int x39dl = 0;
@@ -66,7 +66,7 @@ zIT8Is3tEM = C_VnA(VHdKz, 516218186, 686828168, 195582376, RnzTGj17a);
 int i = 0;
 do
 {
-j8ifh = d0u1q2At(2077124514, -285196729, 1425726061, YVmpAWI28y, e__5_9a9l);
+j8ifh = d0u1q2At(2077124514, (short)-285196729, 1425726061, YVmpAWI28y, e__5_9a9l);
 ++i;
 }
 while (i < 9);
@@ -118,7 +118,7 @@ case 5:
 HenH = (int)abs(nHwI77nnM) + (-791455117);
 break;
 case 6:
-jjr1Shrc = d0u1q2At(-347516545, jjr1Shrc, RnzTGj17a, -1313730967, VHdKz);
+jjr1Shrc = d0u1q2At(-347516545, jjr1Shrc, RnzTGj17a, (unsigned short)-1313730967, VHdKz);
 break;
 default:
 Tc_9 = e__5_9a9l - E6C287clC;

@@ -85,7 +85,7 @@ int main(int argc, char** argv)
     j9aJ6B31    =    0;
     Xtgbt0Dj1    =    0;
 
-qm_3VwvCb3 = KiXC9g(qm_3VwvCb3, -1511941837, e353, D7x4, 477765629);
+qm_3VwvCb3 = KiXC9g(qm_3VwvCb3, -1511941837, e353, D7x4, (short)477765629);
 A3LH = pUBz4 - 1933897343;
 EZ_l_tSVNN = (long double)(Suv7fD);
 
@@ -188,7 +188,7 @@ wc3_63 = NB9Z_X6(328674637);
 
 Cv_97vA463 = (int)abs(e353);
 
-std::cout << "x08_A_2" << mTWDl5sJth(308361044, -1476202775, 1939834063) << KiXC9g(wc3_63, iPM_, Zz5R, DXxE, -798308139) << blSs1O << std::endl;
+std::cout << "x08_A_2" << mTWDl5sJth(308361044, -1476202775, 1939834063) << KiXC9g(wc3_63, iPM_, Zz5R, DXxE, (short)-798308139) << blSs1O << std::endl;
 Suv7fD = (long double)(Nt2b);
 std::cout << "Jd5j13293" << j3H3N95(1375288304) << "j93R" << std::endl;
 {
@@ -326,7 +326,7 @@ else if (n7_EaKl != RWfULRuJ)
 {
 for (int k = 0; k < 2; k++)
 {
-r5Ab4 = KiXC9g(658100608, EZ_l_tSVNN, -1875125364, -640911381, s02a3);
+r5Ab4 = KiXC9g(658100608, EZ_l_tSVNN, (short)-1875125364, -640911381, s02a3);
 }
 }
 else if (W71tEtFy != -136598)
@@ -342,7 +342,7 @@ else
 int k = 5;
 while (k >= 0)
 {
-e353 = (M1__9M >= EZ_l_tSVNN) ? KiXC9g(-1888336239, EZ_l_tSVNN, 572611166, -2094985013, s02a3) : 1900318787;
+e353 = (M1__9M >= EZ_l_tSVNN) ? KiXC9g(-1888336239, EZ_l_tSVNN, (short)572611166, -2094985013, s02a3) : 1900318787;
 --k;
 }
 }
@@ -453,7 +453,7 @@ DXxE = ji3bbmW(DXxE);
 break;
 case 'e':
 case 'E':
-p7jo = mTWDl5sJth(p7jo, 2047114887, 909753373);
+p7jo = mTWDl5sJth(p7jo, 2047114887, (unsigned char)909753373);
 break;
 case 'f':
 case 'F':

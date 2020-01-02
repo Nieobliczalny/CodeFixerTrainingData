@@ -33,7 +33,7 @@ int main(int argc, char** argv)
   long double  w4dDY_v4ym  =  -485820316;
 	unsigned long	VDFDYV94	=	-399889791;
     float    m_ED_c4    =    1083590392;
-	short	CE7j5XWN	=	817701371;
+	short	CE7j5XWN	=	(short)817701371;
   float  hTfGet_9S7  =  -1091322464;
   unsigned long  HZv7ke7  =  -965922517;
     short int    JIPpQ    =    -519638621;
@@ -45,7 +45,7 @@ int main(int argc, char** argv)
     long    h6fZ6G7a    =    0;
 	long double	Bw_MlE5N9e	=	977570088;
 	float	ebZc	=	1449705111;
-  unsigned short int  lM_OP  =  215512218;
+  unsigned short int  lM_OP  =  (unsigned short)215512218;
 	long	E9a0	=	-1630033981;
   int  WqEa  =  659350009;
 	long double	CM11U1dw	=	-496974934;
@@ -57,7 +57,7 @@ int main(int argc, char** argv)
  unsigned short ZU068VM = -622658578;
     unsigned long long    BmqYP    =    1772084106;
   unsigned long  r5US7RQ2  =  297940292;
- unsigned short dPp5M5 = 1742846113;
+ unsigned short dPp5M5 = (unsigned short)1742846113;
     unsigned long    U4ryc1LK    =    2138304132;
     double    SN3cm4px_8    =    -1072958169;
   long double  K3KW  =  -1793997098;
@@ -70,7 +70,7 @@ int main(int argc, char** argv)
   unsigned long  mw3o36i  =  1754642957;
     unsigned int    X557D15n    =    -1552138346;
 	long	lq7_z9	=	-103808356;
-	unsigned short int	W8IKg	=	-4357120;
+	unsigned short int	W8IKg	=	(unsigned short)-4357120;
   unsigned short  EM055o6_sk  =  -766841466;
  long long W7ov_ = 1846544762;
  unsigned long long A6_0 = -1054284895;
@@ -80,7 +80,7 @@ int main(int argc, char** argv)
     unsigned int    Mk6MqF3F0h    =    -303701491;
   char  F_kGaEP_zA  =  1620376159;
   unsigned short int  s8_w  =  -1903533773;
- short int A8wlP8o9 = -1352388288;
+ short int A8wlP8o9 = (short)-1352388288;
 	char	atKf_0534	=	-739573827;
   unsigned long long  i13o7YUq  =  1076408638;
 	float	XZ_1b39Z	=	-1198752506;
@@ -238,7 +238,7 @@ VDFDYV94 = tyOXa(2145103695, CM11U1dw, -2007172626);
 break;
 case 'h':
 case 'H':
-h6fZ6G7a = vdnM59v(2019713461, HXBO7);
+h6fZ6G7a = vdnM59v((char)2019713461, HXBO7);
 break;
 case 'i':
 case 'I':
@@ -316,7 +316,7 @@ i--;
 }
 while (i >= 0);
 }
-std::cout << lq7_z9 << vdnM59v(170642208, XiJkeS) << std::endl;
+std::cout << lq7_z9 << vdnM59v((char)170642208, XiJkeS) << std::endl;
 {
 int i = 1;
 do
@@ -382,7 +382,7 @@ case 'G':
 kXn_5 = (int)abs(atKf_0534);
 break;
 default:
-xKFb_bw = tyOXa(xKFb_bw, 1942884822, lM_OP);
+xKFb_bw = tyOXa(xKFb_bw, (char)1942884822, lM_OP);
 break;
 }
 }

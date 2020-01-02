@@ -132,7 +132,7 @@ for (int i = 7; i >= 0; i--)
 {
 if (CC3yZI_8SN > 2082453053)
 {
-r1hzo559 = AVmB(-1124290419, h7AM11, Ka0zotKE, hvW1_, 271775310);
+r1hzo559 = AVmB(-1124290419, h7AM11, Ka0zotKE, hvW1_, (char)271775310);
 }
 else
 {
@@ -162,7 +162,7 @@ if (HjaRX < 682552655)
 {
 if (q_J9L1r8X == -1360013379)
 {
-kyy8RSv = AVmB(1387664308, -1227571924, -949290936, -1348100459, q_J9L1r8X);
+kyy8RSv = AVmB(1387664308, (unsigned short)-1227571924, -949290936, -1348100459, q_J9L1r8X);
 }
 else if (eN3op)
 {
@@ -188,7 +188,7 @@ case 1:
 HjaRX = k__2bJ(X9Dri, 1851405237, r4702SG_);
 break;
 case 2:
-r4702SG_ = g4m0j(1105224553, -17206677);
+r4702SG_ = g4m0j(1105224553, (short)-17206677);
 break;
 case 3:
 A1dOX = V89T6E2 % 2016760413;
@@ -229,7 +229,7 @@ try
 {
 try
 {
-YKMzLW7wq = AVmB(YKMzLW7wq, 1460729066, 260345988, -1972756898, CJKF);
+YKMzLW7wq = AVmB(YKMzLW7wq, 1460729066, 260345988, (unsigned char)-1972756898, CJKF);
 }
 catch (int& errorCode)
 {
@@ -369,7 +369,7 @@ int j = 9;
 while (j >= 0)
 {
 --j;
-std::cout << AVmB(X9Dri, -1145827653, 2139843868, -2001678542, -1399289660) << "cfO32isnk" << r4702SG_ << std::endl;
+std::cout << AVmB(X9Dri, -1145827653, 2139843868, (unsigned char)-2001678542, -1399289660) << "cfO32isnk" << r4702SG_ << std::endl;
 }
 }
 }
@@ -431,7 +431,7 @@ else if (((A1dOX > 1744279067) && (K_m918 == 1066183876)) && ((U2o10PQ & r4702SG
 switch (Rdu4y6vStU)
 {
 case 'a':
-r1hzo559 = AVmB(-1584549356, q_J9L1r8X, -1307047450, 1005555419, IkIe);
+r1hzo559 = AVmB(-1584549356, q_J9L1r8X, -1307047450, (unsigned char)1005555419, IkIe);
 break;
 case 'b':
 r1hzo559 = z5Lv9nq & oVrt6;
@@ -446,7 +446,7 @@ case 'e':
 hvW1_ = g4m0j(297207697, 285466283);
 break;
 case 'f':
-X9Dri = AVmB(X9Dri, K1j3xxR, -1530869044, CC3yZI_8SN, -419999239);
+X9Dri = AVmB(X9Dri, K1j3xxR, -1530869044, CC3yZI_8SN, (char)-419999239);
 break;
 }
 }
@@ -486,7 +486,7 @@ case 1:
 X9Dri = g4m0j(-276603891, -1909512899);
 break;
 case 2:
-A1dOX = AVmB(-92143233, dNsKuu, HjaRX, 1911520061, IkIe);
+A1dOX = AVmB((unsigned short)-92143233, dNsKuu, HjaRX, 1911520061, IkIe);
 break;
 case 3:
 iV24b = k__2bJ(r1hzo559, 1768853521, 1110108582);

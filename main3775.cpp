@@ -31,7 +31,7 @@ int main(void)
     long    gcYX;
     gcYX    =    -1546507892;
     char    BV_RJT324;
-    BV_RJT324    =    -1832179637;
+    BV_RJT324    =    (char)-1832179637;
  unsigned int r4Z4v491S;
  r4Z4v491S = -688514325;
     unsigned short int    I5n35PN6y;
@@ -63,7 +63,7 @@ int main(void)
   unsigned long  nq7j5;
   nq7j5  =  -1886557899;
   short int  o1o545m;
-  o1o545m  =  -2077013269;
+  o1o545m  =  (short)-2077013269;
 	unsigned short	x9YiK8;
 	x9YiK8	=	-1050220102;
   unsigned char  u_pFc229;
@@ -83,7 +83,7 @@ int main(void)
     double    o3rka;
     o3rka    =    -627131660;
   char  XDkYTVG;
-  XDkYTVG  =  -347465539;
+  XDkYTVG  =  (char)-347465539;
 	long long	W7Qq;
 	W7Qq	=	920747706;
  unsigned long long JbViq6;
@@ -95,7 +95,7 @@ int main(void)
  double OyTd9V;
  OyTd9V = -170448771;
   short int  cWISj_GiY;
-  cWISj_GiY  =  -186891940;
+  cWISj_GiY  =  (short)-186891940;
 	long double	Zf0xF6BxK;
 	Zf0xF6BxK	=	1228710275;
     unsigned long long    g_72h1P;
@@ -117,7 +117,7 @@ int main(void)
     unsigned short int    mVX4esUl;
     mVX4esUl    =    -274537868;
     short    qaGYp0_o;
-    qaGYp0_o    =    1810069209;
+    qaGYp0_o    =    (short)1810069209;
     unsigned char    dl7RH;
     dl7RH    =    1777631127;
   unsigned short int  SKO7v_b;
@@ -133,7 +133,7 @@ int main(void)
     unsigned short    l20P9_ilt;
     l20P9_ilt    =    202469283;
 	short	pkjBHVbV0;
-	pkjBHVbV0	=	-1474882662;
+	pkjBHVbV0	=	(short)-1474882662;
   long long  t2_ZF6O_1Q;
   t2_ZF6O_1Q  =  -995906390;
     unsigned short    SxZ5ZDws57;
@@ -149,7 +149,7 @@ int main(void)
 	int	OyaiO;
 	OyaiO	=	755584149;
 	short	FTvGNuz;
-	FTvGNuz	=	-1024360017;
+	FTvGNuz	=	(short)-1024360017;
   long double  eDVx8EJk2h;
   eDVx8EJk2h  =  -1820640124;
 	unsigned long long	wKwX_f;
@@ -161,7 +161,7 @@ int main(void)
 	double	jOl7231;
 	jOl7231	=	874362254;
   unsigned char  j02G0;
-  j02G0  =  -306616054;
+  j02G0  =  (unsigned char)-306616054;
     long    R3Y8;
     R3Y8    =    -949616816;
     long    tFycI;
@@ -185,7 +185,7 @@ int main(void)
     short int    mPYnKea0g;
     mPYnKea0g    =    0;
 	unsigned short	lTeBGp;
-	lTeBGp	=	1441229879;
+	lTeBGp	=	(unsigned short)1441229879;
  short int x3eA;
  x3eA = -471492339;
  unsigned long long ZF6fV33q54;
@@ -197,7 +197,7 @@ int main(void)
     unsigned int    Kbi8cu;
     Kbi8cu    =    2127474313;
     short int    p1_hHN;
-    p1_hHN    =    776904694;
+    p1_hHN    =    (short)776904694;
     long double    Hk9O1H5;
     Hk9O1H5    =    -1267672005;
 	unsigned char	c3VZ2;

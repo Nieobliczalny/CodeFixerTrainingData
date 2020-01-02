@@ -109,7 +109,7 @@ case 3:
 mXs4EWR80z = mQx7Bg7(mXs4EWR80z, HjnnJ, YO49DG);
 break;
 case 4:
-ovfk5u3zm = mQx7Bg7(-1197123027, -297945551, 1478997727);
+ovfk5u3zm = mQx7Bg7(-1197123027, (unsigned short)-297945551, 1478997727);
 break;
 case 5:
 G0FSe ^= m_NL;
@@ -135,7 +135,7 @@ cout << AENddb9C << dmwb0HJE(1229649552, -745402777, -2072455028, 730467477) << 
 }
 x90l = znonh0z * 844330816;
 
-yI5fs = dmwb0HJE(1096913482, HaFuo54, znonh0z, -1737434638);
+yI5fs = dmwb0HJE((unsigned char)1096913482, HaFuo54, znonh0z, -1737434638);
 
 cout << "m3hv" << dmwb0HJE(Ugrm, -1187645829, 757390714, 267951548) << ucu6rL() << G0FSe << endl;
 hYgeeAxzG = (unsigned int)(rPdAj);
@@ -180,7 +180,7 @@ case 1:
 OJMA_jW = P42w % HaFuo54;
 break;
 case 2:
-CF601 = mQx7Bg7(1447320795, 796394910, -462808736);
+CF601 = mQx7Bg7(1447320795, (unsigned short)796394910, -462808736);
 break;
 case 3:
 Mh60APv20 = M_RFlFVUu * x90l;
@@ -195,7 +195,7 @@ case 6:
 UV8ZY3w6WP = wQPls(UV8ZY3w6WP, 820026628, 2003187280, uDn23ntMv);
 break;
 case 7:
-xk1OUiScN = wQPls(UV8ZY3w6WP, Uh7NR, 141921264, uDn23ntMv) % znonh0z;
+xk1OUiScN = wQPls(UV8ZY3w6WP, Uh7NR, (unsigned char)141921264, uDn23ntMv) % znonh0z;
 break;
 case 8:
 Ej4dW8M = wQPls(1756953077, 708096467, qRTCvK1YOd, Ugrm);
@@ -270,7 +270,7 @@ q9q5 = bPVA << RqZE;
 }
 for (int i = 6; i >= 0; i--)
 {
-cout << wQPls(av6DTU, 921048659, -1991141025, -50695216) << wQPls(av6DTU, G0FSe, nT6VW9Vm, 1035392972) << endl;
+cout << wQPls(av6DTU, 921048659, -1991141025, (char)-50695216) << wQPls(av6DTU, G0FSe, nT6VW9Vm, 1035392972) << endl;
 }
 
 {
@@ -315,7 +315,7 @@ int k = 0;
 do
 {
 ++k;
-vd2BUPe = wQPls(vd2BUPe, iY___, -148708066, 644862471);
+vd2BUPe = wQPls(vd2BUPe, iY___, -148708066, (char)644862471);
 }
 while (k < 6);
 }

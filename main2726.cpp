@@ -192,7 +192,7 @@ oz4c = Bc2KmA_o(324165651, U3_ur37Nc, OLLLa_2, B_h56a);
 break;
 case 'e':
 case 'E':
-D9Y_ = Bc2KmA_o(-454440815, 1420179427, 1328795806, -270348591);
+D9Y_ = Bc2KmA_o(-454440815, 1420179427, (unsigned short)1328795806, -270348591);
 break;
 default:
 wXjGl5mTX = eK92hu << 931301635;

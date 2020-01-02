@@ -64,7 +64,7 @@ int main() {
   double  SQ19N3Pu;
   SQ19N3Pu  =  -1154660617;
     short    nv075Q1;
-    nv075Q1    =    -1406233404;
+    nv075Q1    =    (short)-1406233404;
     double    tWwWr_k9a;
     tWwWr_k9a    =    1845044904;
     short int    W415OLd;
@@ -74,7 +74,7 @@ int main() {
  unsigned short int c4ScC;
  c4ScC = -2092337545;
     unsigned char    JH0F3wRO;
-    JH0F3wRO    =    -837682544;
+    JH0F3wRO    =    (unsigned char)-837682544;
 	long long	pRTh8A1X;
 	pRTh8A1X	=	-439555236;
  unsigned short g_3_l;
@@ -90,7 +90,7 @@ int main() {
  short o46gd;
  o46gd = 1250827533;
 	short int	n88upg;
-	n88upg	=	470714905;
+	n88upg	=	(short)470714905;
 	long long	Z_7IhTV;
 	Z_7IhTV	=	-936468474;
     unsigned char    CVMRu1;

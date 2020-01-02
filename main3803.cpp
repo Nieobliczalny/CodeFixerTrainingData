@@ -12,7 +12,7 @@ int main(int argc, char** argv)
 {
 	char	S9v78378Xh	=	1189838943;
   unsigned long long  YSplw41  =  259324988;
-  unsigned short  yyG6  =  799705900;
+  unsigned short  yyG6  =  (unsigned short)799705900;
   float  HWYS_6N  =  384216438;
   unsigned short int  Pp2JAgVV93  =  1247141744;
  long long XXkb5DZAP = 0;

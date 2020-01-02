@@ -18,7 +18,7 @@ char  OCrg9k5pz(unsigned int  BXL4v45WH4,unsigned int  ni1s6,unsigned short  yjJ
 }
 
 short	SJ560()	{
-	return	1256212641;
+	return	(short)1256212641;
 }
 
 int    FU4NP6C(unsigned long long    ZT0pz4)
@@ -32,6 +32,7 @@ char  VU5v()  {
 
 int main() {
   unsigned char  hyNw  =  0,  Mkos  =  0;
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
   unsigned short int  k149N  =  -777384607,  mt5QU1i  =  -559292513,  k46xeBMDOr  =  -1114309821,  l_5b_3OUh  =  -2109470847,  uSFl  =  212549459,  v4MIyCwZZ  =  -1675391175,  l067G  =  -732764219,  fI_y  =  -754770614,  COgWR  =  1583714408,  hrw2i  =  283776127,  ZW86z398  =  -919483831,  KPgQHEd  =  1689229855,  PxBx7r6x7  =  -373862603,  G8w9ZS  =  808978638,  x29J  =  -1707122530,  GTFwY  =  -1760698256,  S144  =  452401554,  AiI05_A  =  -1252846485,  FySBZ6t4q  =  -1951327075,  fcCX5  =  -323629428,  Qu6L  =  -1183682152,  XLmuA7B6a  =  2063794517,  l0Ed  =  -2126264841,  rShy9Wh1  =  -1890380537,  U2Xx1  =  -305476645,  W4bAaLdoD  =  -1172568637,  jkNs3bZ  =  -785897608,  b911_sft1M  =  -868446416,  Q66c_ukLJs  =  1752402163,  VU9__  =  1343832004,  AZQNmV8IJ  =  1425192871,  vI199L_i  =  -179574651,  qXi9  =  -1140069398,  QcSI53  =  1401349687,  o_X9Yv9C1v  =  -1547304731,  eI3Lf5eV  =  309647363,  WNu9l3kKmP  =  391044383,  xaR37  =  754059449,  IoDs  =  -846372241,  M5UCo4f  =  509201459,  q1HuHjojvk  =  -314483749,  q8BFY  =  -1760839412,  u6Ex7  =  1695267452,  xOR_dRZ45  =  1543097296,  ybCy_K6  =  1458910848,  Y35nnDr7i  =  584668668,  C14w26O40F  =  1115557100,  Ul3_s  =  900301005,  oMd3_z  =  1560584298,  iu4868  =  2986568,  p0cINZ  =  -1058063685,  qB6aV77OZ  =  -714775332,  tl1MV  =  928109219,  V49u  =  -1451640843,  Spd9_S0tHt  =  -1771575663,  JBno0  =  1311570304,  hA44  =  282277077,  H7WHgk  =  1466857117,  LB39Pq3KLl  =  -1973246377,  FThUxh7  =  174566435,  hJ1v  =  739826745,  RzwJI  =  394406585,  oCnRy0  =  -1491677525,  Yk7WVyK2C  =  -1186154085,  mzeG532ff  =  -316762728,  a_QI  =  643557710,  ye8lzvQl  =  -127684426,  glxm  =  382442953,  oP87hyU  =  67328557,  S8lx69ay0  =  1326567260,  YJsWl  =  1823153990,  ojiGYE  =  1060068801,  df764OH  =  -1766811960,  h0a3a  =  2057916211,  GF86_mDzKM  =  149444003,  Rzp7n  =  1075123835,  z4e4Wp  =  -683172785,  LxUgy8u  =  -1083796159,  x6wpM  =  -124980859,  WI__Og521H  =  838013071,  rdR90e3  =  -665713880;
 
 Mkos = (unsigned char)(WNu9l3kKmP * Mkos);
@@ -187,7 +188,7 @@ int i = 3;
 while (i >= 0)
 {
 --i;
-std::cout << "Ll53Yq7" << OCrg9k5pz(2140166937, vI199L_i, -380208975) << VU5v() << std::endl;
+std::cout << "Ll53Yq7" << OCrg9k5pz(2140166937, vI199L_i, (unsigned short)-380208975) << VU5v() << std::endl;
 }
 }
 df764OH = (unsigned short int)(RzwJI);

@@ -106,7 +106,7 @@ else
 {
 ZxGP = (int)floor(tOK98W8SbB);
 }
-q0GHDYTq = RUPVEBYN3U(-1844663757, -1430016185, -1008967347, t7OY8J5, 1325190400);
+q0GHDYTq = RUPVEBYN3U(-1844663757, -1430016185, -1008967347, t7OY8J5, (unsigned char)1325190400);
 D_9eg8POx = (int)abs(FStTP0pOb);
 std::cout << I1k4952() / NxacBk1El << std::endl;
 
@@ -235,7 +235,7 @@ Qil732 = W_TQQMNV - CiTzN9P70;
 std::cout << "YdFlT" << std::endl;
 if ((iiRM & -314592123) || (NLVuM2HdP8))
 {
-std::cout << XF_Wape << RUPVEBYN3U(-1914881591, 1285712764, iGSc31N, n64Y26eQ2L, -1571020704) << I1k4952() << I1k4952() << std::endl;
+std::cout << XF_Wape << RUPVEBYN3U(-1914881591, 1285712764, iGSc31N, n64Y26eQ2L, (unsigned char)-1571020704) << I1k4952() << I1k4952() << std::endl;
 }
 else
 {

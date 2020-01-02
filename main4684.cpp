@@ -154,7 +154,7 @@ char    F3N9RLX()    {
 }
 
 short rS0hR6(char agnqSst,unsigned short int qvwAUT15) {
- return -568501245;
+ return (short)-568501245;
 }
 
 short int  mU5sR(char  it68jvAWn1,int  OCFn_92NjK)  {

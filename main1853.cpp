@@ -22,7 +22,7 @@ int main(void)
  int pXSD_Y7 = 100991901;
     char    pvO0BL4    =    0;
   unsigned char  Ofq3L4  =  1943844886;
-	unsigned short int	EEz72n8	=	1646933609;
+	unsigned short int	EEz72n8	=	(unsigned short)1646933609;
   short int  MzRSn  =  1409752785;
 	char	ac4V	=	-870601666;
   float  n62q_Ygl9  =  1937721216;
@@ -45,7 +45,7 @@ int main(void)
  short yAG14bcu = 0;
 	float	T35pCC4r	=	-753395242;
     unsigned long long    gRRl22c    =    441085689;
- short o3MT = 1259656444;
+ short o3MT = (short)1259656444;
     unsigned long long    kDmGu    =    881931109;
     char    cm80vbs    =    326849060;
     long long    loJ86wWd8    =    -1104157316;
@@ -62,7 +62,7 @@ for (int i = 1; i >= 0; i--)
 std::cout << G7h7D << std::endl;
 }
 
-std::cout << gRRl22c << vPAY67n(ac4V, -444637323, 185305044) << n62q_Ygl9 << "RPDW79P" << vPAY67n(31497719, -703419328, I3_up3) << std::endl;
+std::cout << gRRl22c << vPAY67n(ac4V, -444637323, (unsigned short)185305044) << n62q_Ygl9 << "RPDW79P" << vPAY67n(31497719, -703419328, I3_up3) << std::endl;
 
 {
 int i = 0;
@@ -123,7 +123,7 @@ Q_lVEDO <<= I3_up3;
 }
 else if (cm80vbs == -544219121)
 {
-vACe = vPAY67n(vACe, 572490533, 1846877962);
+vACe = vPAY67n(vACe, 572490533, (unsigned short)1846877962);
 }
 else if (Sv78zQvA36 > -2030003904)
 {
@@ -157,7 +157,7 @@ yAG14bcu = c25nYB_l();
 
 std::cout << gdi800i << "ZkGAa_Fv" << gdi800i << std::endl;
 
-EC84O = vPAY67n(-815318208, loJ86wWd8, -769814987) / yAG14bcu;
+EC84O = vPAY67n(-815318208, loJ86wWd8, (unsigned short)-769814987) / yAG14bcu;
 
 {
 int i = 5;
@@ -231,7 +231,7 @@ do
 j++;
 if (yAG14bcu)
 {
-T35pCC4r = vPAY67n(-1359376339, yAG14bcu, 1355125683);
+T35pCC4r = vPAY67n(-1359376339, yAG14bcu, (unsigned short)1355125683);
 }
 else
 {
@@ -274,7 +274,7 @@ e66R8Fo = TpmB6250 | G7h7D;
 }
 else if ((d0HQ7c >= 1048338878) && ((vY32wRha > -1479019288) && (vY32wRha != cm80vbs)))
 {
-YA39Q2e = vPAY67n(-1979895260, -1016790453, -1679584319);
+YA39Q2e = vPAY67n(-1979895260, (unsigned short)-1016790453, -1679584319);
 }
 else if (loJ86wWd8 < 649424010)
 {
@@ -341,7 +341,7 @@ T35pCC4r = vPAY67n(1345647726, cm80vbs, c25_);
 switch (yAG14bcu)
 {
 case 0:
-o3MT = vPAY67n(o3MT, 1824417421, 1069059939);
+o3MT = vPAY67n(o3MT, (unsigned short)1824417421, 1069059939);
 break;
 case 1:
 gdi800i = (int)floor(c_j5N9tg_8);

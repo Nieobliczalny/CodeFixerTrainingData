@@ -16,7 +16,7 @@ int main(int argc, char** argv) {
  unsigned short quXHDeqN = 454375039;
 	double	xjX9PDSB71	=	-634176887;
   double  zAs471  =  631879027;
-  char  Iz72UbVnV  =  128193225;
+  char  Iz72UbVnV  =  (char)128193225;
   unsigned long long  qT0V4hFut  =  1456876345;
     unsigned long long    yYIBs98emn    =    1774187843;
   unsigned short int  H237mOBWV  =  -1055676614;
@@ -33,7 +33,7 @@ int main(int argc, char** argv) {
     double    sHrg_    =    216738903;
     unsigned int    IYB_5    =    2060728962;
   short  eU6xmA1P  =  -916814643;
- unsigned short h7Aw = -356559566;
+ unsigned short h7Aw = (unsigned short)-356559566;
   int  ef59f_0  =  1139792103;
     short    zJPyzi57    =    651844500;
  short int zrWa = 327778199;
@@ -43,7 +43,7 @@ int main(int argc, char** argv) {
     unsigned short    NC8f8    =    1439897035;
   long double  NmDGz  =  -1449463618;
 	unsigned short	r3_k	=	172995136;
-	short int	Eixpke1HqF	=	558616152;
+	short int	Eixpke1HqF	=	(short)558616152;
 	unsigned long	eudy6	=	-404210203;
     unsigned short int    fVT69qg    =    1369772882;
   unsigned int  Jf3lc54025  =  -1770429829;
@@ -54,7 +54,7 @@ int main(int argc, char** argv) {
  double uVYhApOZOX = 1487187216;
     float    mbb1Rpw6f_    =    162298807;
 	unsigned short int	LK6E	=	737843858;
-  short int  W8J40Me  =  868006383;
+  short int  W8J40Me  =  (short)868006383;
   int  pi1452wzv  =  641590048;
  long long y8nDn_q9i4 = -79379844;
  char Hiv_Wu = -769616419;
@@ -72,7 +72,7 @@ int main(int argc, char** argv) {
     long double    w9043fn1    =    1968155709;
   unsigned long long  uQ9OxLw  =  1910299916;
     unsigned int    izfGU    =    1072016440;
- unsigned short int L_C1 = 994774502;
+ unsigned short int L_C1 = (unsigned short)994774502;
   unsigned long  O4vJ8uD  =  -1857870798;
 	unsigned short int	MI1sBR	=	-491353741;
     unsigned short int    M9HB    =    0;
@@ -85,7 +85,7 @@ int main(int argc, char** argv) {
  unsigned short XlAx_ = 1967329762;
     unsigned long long    Y6HdE    =    1446884626;
     long    n0n277Mz    =    -1323551426;
- unsigned char g14Lg3r8X3 = 565233474;
+ unsigned char g14Lg3r8X3 = (unsigned char)565233474;
 	int	diJIDKJG	=	-447165759;
   long double  z3_kN_c1X2  =  651246260;
   long double  Q7pm  =  965605173;
@@ -95,7 +95,7 @@ int main(int argc, char** argv) {
  long long x46khK = 1297154764;
 	long long	amF2k__s0	=	-123375318;
   char  MIahkT4  =  841549148;
-  unsigned short int  d_g7T1q89  =  1630571530;
+  unsigned short int  d_g7T1q89  =  (unsigned short)1630571530;
   float  efe2Mr  =  1610660218;
     char    r8vvi4z    =    -573045279;
     long long    ksR55    =    -2027597154;
@@ -142,7 +142,7 @@ X1_25 = (int)abs(pi1452wzv);
 }
 MIahkT4 = -1928606138 / Reb5nOB(d_g7T1q89, mkbs1U, Q7pm, -2125666836, -1967099703);
 
-M9HB = Reb5nOB(-1056592233, H237mOBWV, -931154829, -899419129, W8J40Me);
+M9HB = Reb5nOB((unsigned char)-1056592233, H237mOBWV, -931154829, -899419129, W8J40Me);
 amF2k__s0--;
 
 {
@@ -157,7 +157,7 @@ while (i < 2);
 xjX9PDSB71 = (int)floor(Xo7fNX);
 Tn3N >>= 584820088;
 
-M9HB = Reb5nOB(598119377, z3_kN_c1X2, n0n277Mz, MIahkT4, eudy6);
+M9HB = Reb5nOB((unsigned char)598119377, z3_kN_c1X2, n0n277Mz, MIahkT4, eudy6);
 for (int i = 0; i < 2; ++i)
 {
 kX7y1 = (int)floor(m48w8k3a6);
@@ -202,7 +202,7 @@ int k = 0;
 do
 {
 k++;
-M9HB = Reb5nOB(1165622546, yYIBs98emn, 1775441050, eU6xmA1P, Yr42bxn56);
+M9HB = Reb5nOB(1165622546, yYIBs98emn, (unsigned short)1775441050, eU6xmA1P, Yr42bxn56);
 }
 while (k < 4);
 }
@@ -221,7 +221,7 @@ case 1:
 uVYhApOZOX = (int)ceil(PF395U);
 break;
 case 2:
-M9HB = Reb5nOB(843277597, 1568230939, 1373319344, qy044Hz9, -1052760508);
+M9HB = Reb5nOB(843277597, (unsigned char)1568230939, 1373319344, qy044Hz9, -1052760508);
 break;
 case 3:
 M9HB = Reb5nOB(-1021954913, ksR55, 1969453632, -977434015, G0AUX);
@@ -242,7 +242,7 @@ case 8:
 rJc4mcr2u9 = (int)abs(MIahkT4);
 break;
 case 9:
-M9HB = Reb5nOB(eudy6, -1298096934, zrWa, -894701639, xjX9PDSB71);
+M9HB = Reb5nOB(eudy6, -1298096934, zrWa, (unsigned short)-894701639, xjX9PDSB71);
 break;
 }
 }

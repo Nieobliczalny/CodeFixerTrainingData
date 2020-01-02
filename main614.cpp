@@ -84,7 +84,7 @@ int main(int argc, char** argv) {
 Dg9wQtixz = (double)(vU38_rhP);
 try
 {
-New6TLjq7T = Mg_DS(-1879512654, -10182139, -937396747);
+New6TLjq7T = Mg_DS(-1879512654, -10182139, (short)-937396747);
 }
 catch (int& errorCode)
 {
@@ -102,7 +102,7 @@ std::cout << k054brnE7 << tunfMxuf << N16_ << std::endl;
 }
 }
 
-std::cout << Vn405j2_q << "mRD4" << gSaC4 << DFNJH9 << M4mb(1756117205, 199681626, uW_Mf91C5) << std::endl;
+std::cout << Vn405j2_q << "mRD4" << gSaC4 << DFNJH9 << M4mb(1756117205, (unsigned short)199681626, uW_Mf91C5) << std::endl;
 
 if ((kx38wr == O_Zi) || (V941g9NX > j_sx934w))
 {
@@ -121,7 +121,7 @@ case 1:
 N16_ -= lr1BrA;
 break;
 case 2:
-Icjo = M4mb(Icjo, -2050800584, -1805712618);
+Icjo = M4mb(Icjo, (unsigned short)-2050800584, -1805712618);
 break;
 case 3:
 New6TLjq7T = (int)abs(Gi37);
@@ -176,7 +176,7 @@ vj7Y1ABr = (int)ceil(q0RVuH);
 }
 }
 
-P0_k_z = M4mb(-697984989, v_Tgu, -374342932);
+P0_k_z = M4mb(-697984989, v_Tgu, (unsigned short)-374342932);
 
 switch (tunfMxuf)
 {
@@ -196,7 +196,7 @@ case 4:
 tunfMxuf = KvQJfQ9(1089026646);
 break;
 case 5:
-HV4bgcyf = M4mb(2109260675, 212547557, iMEWX8);
+HV4bgcyf = M4mb(2109260675, (unsigned short)212547557, iMEWX8);
 break;
 case 6:
 rDwY = (int)abs(cHFC);
@@ -339,7 +339,7 @@ tunfMxuf = KvQJfQ9(HV4bgcyf);
 while (i >= 0);
 }
 
-XDfP6yqC = M4mb(-1518339539, 532046242, -158976985) / tunfMxuf;
+XDfP6yqC = M4mb(-1518339539, (unsigned short)532046242, -158976985) / tunfMxuf;
 
 switch (tunfMxuf)
 {
@@ -365,7 +365,7 @@ New6TLjq7T = (int)floor(iMEWX8);
 break;
 case 'f':
 case 'F':
-P0_k_z = Mg_DS(-177552035, 115593763, 1109598073);
+P0_k_z = Mg_DS(-177552035, 115593763, (short)1109598073);
 break;
 case 'g':
 case 'G':
@@ -405,7 +405,7 @@ case 3:
 Gi37 = (int)abs(lURf1QJ);
 break;
 case 4:
-YjgWV19WkN = M4mb(YjgWV19WkN, 608944254, 2060510790);
+YjgWV19WkN = M4mb(YjgWV19WkN, 608944254, (unsigned short)2060510790);
 break;
 default:
 lURf1QJ = (int)floor(gmtuMO58);
@@ -523,7 +523,7 @@ else if (mdIGDr > gmtuMO58)
 {
 for (int k = 2; k >= 0; --k)
 {
-EqLZGpm = M4mb(tunfMxuf, 1146708128, -599584122);
+EqLZGpm = M4mb(tunfMxuf, 1146708128, (unsigned short)-599584122);
 }
 }
 else if ((YjgWV19WkN == v_Tgu) || ((Lyxg60 != Hz9Isz0) && (EqLZGpm != 859384238)))
@@ -577,7 +577,7 @@ break;
 
 try
 {
-std::cout << JY0zH9 << M4mb(54229333, jgIq8, YjgWV19WkN) << std::endl;
+std::cout << JY0zH9 << M4mb((unsigned short)54229333, jgIq8, YjgWV19WkN) << std::endl;
 }
 catch (int& errorCode)
 {

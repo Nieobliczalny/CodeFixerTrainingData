@@ -23,7 +23,7 @@ int main() {
  long long cCojTBV;
  cCojTBV = -1521414578;
  short bTn1bpv;
- bTn1bpv = -961224905;
+ bTn1bpv = (short)-961224905;
 	unsigned int	A4C_;
 	A4C_	=	-749720521;
   long long  t3ji6;
@@ -45,7 +45,7 @@ int main() {
 	long	IEOt91215;
 	IEOt91215	=	0;
  unsigned short int N8E38_Vk8;
- N8E38_Vk8 = -72394485;
+ N8E38_Vk8 = (unsigned short)-72394485;
     double    ZxUGFV_16;
     ZxUGFV_16    =    -859789031;
     long double    ApS91;
@@ -57,7 +57,7 @@ int main() {
  unsigned short g727;
  g727 = -1931368090;
     unsigned char    zJOmai6;
-    zJOmai6    =    1580559151;
+    zJOmai6    =    (unsigned char)1580559151;
     char    AjF7Gal_;
     AjF7Gal_    =    2015765273;
     double    ghByqbI7;
@@ -75,7 +75,7 @@ int main() {
     unsigned long    A_K8g3z;
     A_K8g3z    =    399237680;
   char  yklp8o;
-  yklp8o  =  -77108295;
+  yklp8o  =  (char)-77108295;
 	double	eQc_i8j_Q;
 	eQc_i8j_Q	=	1784871721;
 	short	MVB47_Eb;
@@ -87,7 +87,7 @@ int main() {
 	int	EfWWlX4;
 	EfWWlX4	=	1999332638;
 	short int	eBkma;
-	eBkma	=	-745608228;
+	eBkma	=	(short)-745608228;
  long double dRRjh4dp;
  dRRjh4dp = -1836242155;
   double  S5xb74wC9;
@@ -126,7 +126,7 @@ else
 {
 for (int j = 0; j < 5; ++j)
 {
-cCojTBV = vpcDXHo_X(-242583801, -284562015, -1693521912, -1414268320, yrDo8AE);
+cCojTBV = vpcDXHo_X(-242583801, -284562015, (unsigned char)-1693521912, -1414268320, yrDo8AE);
 }
 }
 for (int i = 0; i < 10; i++)
@@ -286,7 +286,7 @@ else if ((N8E38_Vk8 > 1044526026) || (t3ji6 == 282023483))
 {
 if ((A4C_ >= t82qZxK8Uw) || (bTn1bpv))
 {
-zJOmai6 = vpcDXHo_X(-1034535307, YUyjwdlOE, 866494679, -98224259, 1310095149);
+zJOmai6 = vpcDXHo_X(-1034535307, YUyjwdlOE, 866494679, (unsigned short)-98224259, 1310095149);
 }
 }
 else if (((zJOmai6 <= Uuf7) && (zJOmai6)) || (i7Cy_u2T))
@@ -320,7 +320,7 @@ else
 {
 try
 {
-P_30TWb54 = y_473(P_30TWb54, 622047575, 75079071);
+P_30TWb54 = y_473(P_30TWb54, 622047575, (char)75079071);
 }
 catch (int& errorCode)
 {
@@ -380,7 +380,7 @@ k++;
 }
 else if (tEDG == 1323753895)
 {
-ApS91 = vpcDXHo_X(ApS91, -46121140, t3ji6, cCojTBV, -566541770);
+ApS91 = vpcDXHo_X(ApS91, -46121140, t3ji6, cCojTBV, (unsigned char)-566541770);
 }
 else
 {
@@ -585,7 +585,7 @@ while (i >= 0)
 switch (t3ji6)
 {
 case 0:
-e0Jb10Cku = vpcDXHo_X(-166475084, -1892123312, -502042812, -572312830, -152477097);
+e0Jb10Cku = vpcDXHo_X(-166475084, -1892123312, (unsigned char)-502042812, -572312830, -152477097);
 break;
 case 1:
 fhP316PQDX = (int)ceil(S5xb74wC9);

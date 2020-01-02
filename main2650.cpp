@@ -170,7 +170,7 @@ q593gF9PMM = weX6R_pX - l_j1zkPCQ;
 break;
 case 'e':
 case 'E':
-HdLH = mqcy4Ic4O5(-1170336588);
+HdLH = mqcy4Ic4O5((unsigned short)-1170336588);
 break;
 case 'f':
 case 'F':
@@ -181,7 +181,7 @@ break;
 }
 }
 Aa5V1 = HdLH / Y75F5k;
-std::cout << ang837QQ << iBKvfp() << mqcy4Ic4O5(-824640143) << "t067ExqI" << iBKvfp() << std::endl;
+std::cout << ang837QQ << iBKvfp() << mqcy4Ic4O5((unsigned short)-824640143) << "t067ExqI" << iBKvfp() << std::endl;
 {
 int i = 3;
 while (i >= 0)
@@ -244,7 +244,7 @@ case 'b':
 AodKO__cF >>= YC91;
 break;
 case 'c':
-HdLH = mqcy4Ic4O5(-842290124);
+HdLH = mqcy4Ic4O5((unsigned short)-842290124);
 break;
 }
 }

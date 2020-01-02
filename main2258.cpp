@@ -18,7 +18,7 @@ int main(void) {
  long long kyx6I;
  kyx6I = -783438962;
  unsigned short int o4CNP4yUo;
- o4CNP4yUo = -91513558;
+ o4CNP4yUo = (unsigned short)-91513558;
   float  s05t442;
   s05t442  =  1640175205;
   short  RMA9OM0E;
@@ -54,7 +54,7 @@ int main(void) {
     float    isqcIwRN1;
     isqcIwRN1    =    -539188612;
     unsigned char    Gue6OMi0;
-    Gue6OMi0    =    1156160462;
+    Gue6OMi0    =    (unsigned char)1156160462;
 	unsigned short	eJ0P350;
 	eJ0P350	=	-421126510;
     short    qM3mC0aF;
@@ -70,7 +70,7 @@ int main(void) {
   unsigned short int  kD3A7;
   kD3A7  =  -1956983280;
   short  FHl08g;
-  FHl08g  =  2119517227;
+  FHl08g  =  (short)2119517227;
   float  gRU_P2;
   gRU_P2  =  1151789235;
 	int	hG488c;
@@ -114,7 +114,7 @@ int main(void) {
 	short int	IOM7;
 	IOM7	=	-2121666168;
   unsigned short  mEL34_h;
-  mEL34_h  =  2102992437;
+  mEL34_h  =  (unsigned short)2102992437;
  long long p8IWME0;
  p8IWME0 = 1393319078;
   unsigned int  R0azurUm;

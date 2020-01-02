@@ -20,7 +20,7 @@ int main()
     int    aox_uRC;
     aox_uRC    =    1693293241;
   unsigned short  g6MCc58g64;
-  g6MCc58g64  =  -1030513708;
+  g6MCc58g64  =  (unsigned short)-1030513708;
     unsigned short int    SZt6C_;
     SZt6C_    =    -1070037241;
  unsigned long long Eq_5JawkC;
@@ -34,7 +34,7 @@ int main()
   unsigned short int  r863WS160;
   r863WS160  =  192935400;
 	unsigned char	jhIYBe6PUY;
-	jhIYBe6PUY	=	1971544235;
+	jhIYBe6PUY	=	(unsigned char)1971544235;
   unsigned short int  qeFj_C;
   qeFj_C  =  0;
   short int  m403;
@@ -48,7 +48,7 @@ int main()
     short    H6S0nrS5R;
     H6S0nrS5R    =    -1658064302;
  short int LQG2281d;
- LQG2281d = 993615148;
+ LQG2281d = (short)993615148;
  unsigned short tKSsZ9m;
  tKSsZ9m = 641994334;
 	unsigned long	xum4aF_y;
@@ -62,7 +62,7 @@ int main()
  unsigned int W67w2z281;
  W67w2z281 = -1412272011;
     unsigned short    PC4590;
-    PC4590    =    52864608;
+    PC4590    =    (unsigned short)52864608;
 	int	D1JKJn;
 	D1JKJn	=	-14377275;
   long  Cz1s0N;
@@ -94,7 +94,7 @@ int main()
   float  dfFTDJ46PO;
   dfFTDJ46PO  =  158980641;
 	unsigned char	RA2_27R;
-	RA2_27R	=	-1637272529;
+	RA2_27R	=	(unsigned char)-1637272529;
     unsigned int    bHqm;
     bHqm    =    1214030505;
     unsigned short    lq02V;
@@ -106,7 +106,7 @@ int main()
   unsigned char  S8fs_vPk7;
   S8fs_vPk7  =  926367161;
     char    l5IEOrEm_;
-    l5IEOrEm_    =    767448168;
+    l5IEOrEm_    =    (char)767448168;
  unsigned int flij;
  flij = -207770336;
  short int sC1C6;
@@ -538,7 +538,7 @@ case 1:
 N766 = (int)ceil(w_5x1Sgd);
 break;
 case 2:
-r863WS160 = (qeFj_C >= 1480695611) ? 1856274567 : -1922465565;
+r863WS160 = (qeFj_C >= 1480695611) ? 1856274567 : (unsigned short)-1922465565;
 break;
 case 3:
 LQG2281d <<= I44O47;

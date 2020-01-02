@@ -21,7 +21,7 @@ long  xZ4OY95m5i(short  zH9e22Ff0u)  {
 
 int main(int argc, char** argv)
 {
-	unsigned char	E_599O	=	1279383813;
+	unsigned char	E_599O	=	(unsigned char)1279383813;
     char    w_m5rxMK5    =    0;
 
 try
@@ -57,7 +57,7 @@ E_599O = H2_52WAJ(w_m5rxMK5, E_599O, 1790134085, -55586281);
 E_599O = H2_52WAJ(E_599O, w_m5rxMK5, -1571771594, 529831969);
 std::cout << "NCs_pdb" << H2_52WAJ(E_599O, w_m5rxMK5, 1401585252, -325735767) << w_m5rxMK5 << xZ4OY95m5i(E_599O) << xZ4OY95m5i(409157651) << std::endl;
 
-w_m5rxMK5 = xZ4OY95m5i(-1864032690);
+w_m5rxMK5 = xZ4OY95m5i((short)-1864032690);
 
 std::cout << H2_52WAJ(-784298861, 1663181275, 1877188900, -1548342720) << "RNbX5Hu" << "O45l3" << std::endl;
 
@@ -116,7 +116,7 @@ case 'e':
 w_m5rxMK5 = xZ4OY95m5i(1039769669);
 break;
 case 'f':
-E_599O = H2_52WAJ(-1574013529, -771510508, 1128274830, -830775574);
+E_599O = H2_52WAJ(-1574013529, (unsigned char)-771510508, 1128274830, -830775574);
 break;
 case 'g':
 E_599O = E_599O / 1240921493;
@@ -217,7 +217,7 @@ w_m5rxMK5 = xZ4OY95m5i(w_m5rxMK5);
 
 if (xZ4OY95m5i(-1504566500) == 0)
 {
-	E_599O = w_m5rxMK5 / xZ4OY95m5i(-1504566500);
+	E_599O = w_m5rxMK5 / xZ4OY95m5i((short)-1504566500);
 }
 
 E_599O = H2_52WAJ(1431991182, w_m5rxMK5, -562524636, 438842330);
@@ -403,7 +403,7 @@ w_m5rxMK5 = xZ4OY95m5i(w_m5rxMK5);
 break;
 case 'c':
 case 'C':
-w_m5rxMK5 = xZ4OY95m5i(694557201);
+w_m5rxMK5 = xZ4OY95m5i((short)694557201);
 break;
 case 'd':
 case 'D':

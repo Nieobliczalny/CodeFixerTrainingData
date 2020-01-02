@@ -42,7 +42,7 @@ int main(int argc, char** argv) {
   char  u8pqZ4;
   u8pqZ4  =  0;
   unsigned short  uhz5_5Z;
-  uhz5_5Z  =  -1054681449;
+  uhz5_5Z  =  (unsigned short)-1054681449;
 
 u8pqZ4 = (int)abs(sCDgM) * 0;
 
@@ -148,7 +148,7 @@ catch (int& errorCode)
 sCDgM >>= 2147309490;
 }
 
-u8pqZ4 = Wd__7A2(-1796021659, -1058859530, u8pqZ4, -2040448799, -857378777);
+u8pqZ4 = Wd__7A2(-1796021659, -1058859530, u8pqZ4, (short)-2040448799, -857378777);
 switch (sCDgM)
 {
 case 0:
@@ -232,7 +232,7 @@ if (u8pqZ4 > r8_RQ8d94)
 switch (uhz5_5Z)
 {
 case 0:
-u8pqZ4 = Wd__7A2(-575748335, 134321753, u8pqZ4, 1799866087, -1715451711);
+u8pqZ4 = Wd__7A2(-575748335, 134321753, u8pqZ4, (short)1799866087, -1715451711);
 break;
 case 1:
 sCDgM++;
@@ -290,7 +290,7 @@ uhz5_5Z = Q6r9owt_y();
 }
 else if ((u8pqZ4 & uhz5_5Z) || (uhz5_5Z <= 1727830391))
 {
-u8pqZ4 = Wd__7A2(u8pqZ4, 1673095499, uhz5_5Z, 624851750, 1429821970);
+u8pqZ4 = Wd__7A2(u8pqZ4, 1673095499, uhz5_5Z, (short)624851750, 1429821970);
 }
 else if (sCDgM != 24013819)
 {
@@ -350,7 +350,7 @@ uhz5_5Z = u8pqZ4 + u8pqZ4;
 }
 else if ((sCDgM > u27tFM) && (uhz5_5Z != 1030623612))
 {
-u8pqZ4 = Wd__7A2(1030448342, 104677593, 1496822855, 812553577, 2139913924);
+u8pqZ4 = Wd__7A2(1030448342, 104677593, 1496822855, (short)812553577, 2139913924);
 }
 else if (uhz5_5Z != sCDgM)
 {
@@ -426,7 +426,7 @@ else if (((u8pqZ4 >= r8_RQ8d94) || (u8pqZ4 != sCDgM)) && (uhz5_5Z))
 {
 if (uhz5_5Z < r8_RQ8d94)
 {
-u8pqZ4 = Wd__7A2(u8pqZ4, 796240812, uhz5_5Z, -124785862, -2063659575);
+u8pqZ4 = Wd__7A2(u8pqZ4, 796240812, uhz5_5Z, (short)-124785862, -2063659575);
 }
 }
 else if (sCDgM < 364127863)
@@ -503,7 +503,7 @@ case 7:
 sCDgM = sCDgM & uhz5_5Z;
 break;
 case 8:
-sCDgM = o_qNh(-1658408028, -803481200);
+sCDgM = o_qNh(-1658408028, (unsigned short)-803481200);
 break;
 default:
 uhz5_5Z = o_qNh(u8pqZ4, uhz5_5Z);
@@ -565,7 +565,7 @@ std::cout << "ibY01b4" << "wSWUP9K1q" << "q9U21I4F" << "PNPyxbYEB_" << "WxVgq0g"
 }
 else if (((sCDgM <= 1717372544) && (sCDgM < r8_RQ8d94)) || ((u8pqZ4 != sCDgM) && (u8pqZ4)))
 {
-std::cout << sCDgM << Q6r9owt_y() << Wd__7A2(-1091133296, -586586931, uhz5_5Z, 1511040283, 1321527566) << std::endl;
+std::cout << sCDgM << Q6r9owt_y() << Wd__7A2(-1091133296, -586586931, uhz5_5Z, (short)1511040283, 1321527566) << std::endl;
 }
 else if (uhz5_5Z < Lk8M0n7)
 {
@@ -578,7 +578,7 @@ case 1:
 sCDgM = (int)abs(u8pqZ4) + (1192796875);
 break;
 case 2:
-u8pqZ4 = Wd__7A2(uhz5_5Z, -616429688, u8pqZ4, 233213556, 1738036862);
+u8pqZ4 = Wd__7A2(uhz5_5Z, -616429688, u8pqZ4, (short)233213556, 1738036862);
 break;
 default:
 sCDgM = Q6r9owt_y();
@@ -604,7 +604,7 @@ case 0:
 sCDgM = F7GSOds(-1321219325);
 break;
 case 1:
-uhz5_5Z = F7GSOds(1851584556);
+uhz5_5Z = F7GSOds((unsigned short)1851584556);
 break;
 case 2:
 sCDgM *= 1247110179;
@@ -632,7 +632,7 @@ case 'a':
 sCDgM = F7GSOds(1732623125);
 break;
 case 'b':
-sCDgM = F7GSOds(1714291422);
+sCDgM = F7GSOds((unsigned short)1714291422);
 break;
 case 'c':
 u8pqZ4 = (int)abs(sCDgM) * 0;
@@ -689,7 +689,7 @@ case 0:
 sCDgM = (int)abs(u8pqZ4) + (1518584353);
 break;
 case 1:
-sCDgM = Wd__7A2(816500915, -963620779, 166911580, 756219395, -293020731) * 563211936;
+sCDgM = Wd__7A2(816500915, -963620779, 166911580, (short)756219395, -293020731) * 563211936;
 break;
 case 2:
 sCDgM &= uhz5_5Z;
@@ -769,7 +769,7 @@ while (i >= 0)
 switch (u8pqZ4)
 {
 case 'a':
-u8pqZ4 = Wd__7A2(786918823, -1723267212, -1268667616, 1422459917, -1698395927);
+u8pqZ4 = Wd__7A2(786918823, -1723267212, -1268667616, (short)1422459917, -1698395927);
 break;
 case 'b':
 sCDgM = o_qNh(1161907193, -1961560294);
@@ -793,7 +793,7 @@ case 'h':
 sCDgM /= u8pqZ4;
 break;
 case 'i':
-u8pqZ4 = Wd__7A2(25591692, u8pqZ4, -2138177073, -301166032, 1472548292);
+u8pqZ4 = Wd__7A2(25591692, u8pqZ4, -2138177073, (short)-301166032, 1472548292);
 break;
 case 'j':
 sCDgM = F7GSOds(sCDgM);

@@ -34,7 +34,7 @@ int main(int argc, char** argv) {
   unsigned long  mI7K;
   mI7K  =  1885138574;
   short int  qVGCdQe;
-  qVGCdQe  =  33347379;
+  qVGCdQe  =  (short)33347379;
   unsigned short int  Vt6C8WgO1S;
   Vt6C8WgO1S  =  1354761905;
   int  m76sn35;
@@ -48,7 +48,7 @@ int main(int argc, char** argv) {
     short    guYt;
     guYt    =    -1725184812;
  short int s9LO5_CBR;
- s9LO5_CBR = 894172095;
+ s9LO5_CBR = (short)894172095;
     long long    HZXFPNR_y;
     HZXFPNR_y    =    1829027757;
 	short	zK4Aw;
@@ -170,7 +170,7 @@ vjz3 = t58MBt510(-433579968, zK4Aw, -1169712731);
 }
 else
 {
-CW2m = t58MBt510(CW2m, -295221332, -764762421);
+CW2m = t58MBt510(CW2m, -295221332, (unsigned short)-764762421);
 }
 }
 while (j < 8);
@@ -205,7 +205,7 @@ break;
 }
 else if ((mI7K & m76sn35) && (JOW62e6kl9 >= -2132898752))
 {
-H5Fm9r = kk_Uo(-542431883, 1868650647);
+H5Fm9r = kk_Uo(-542431883, (unsigned char)1868650647);
 }
 else if (qVGCdQe != H5Fm9r)
 {
@@ -347,7 +347,7 @@ case 0:
 vjz3 = kk_Uo(vjz3, 1188046477);
 break;
 case 1:
-m76sn35 = t58MBt510(m76sn35, mI7K, 1018141622);
+m76sn35 = t58MBt510(m76sn35, mI7K, (unsigned short)1018141622);
 break;
 case 2:
 fJ1RQV01_7 = (int)abs(H5Fm9r);
@@ -895,7 +895,7 @@ for (int j = 0; j < 7; j++)
 switch (I5yvnyqQL)
 {
 case 0:
-zK4Aw = kk_Uo(1242458216, -1619440162);
+zK4Aw = kk_Uo(1242458216, (unsigned char)-1619440162);
 break;
 case 1:
 H5Fm9r = (int)floor(vjz3);

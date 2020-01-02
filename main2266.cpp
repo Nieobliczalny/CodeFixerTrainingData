@@ -27,7 +27,7 @@ int main() {
  int k28OA = 1634333917;
   long double  wqGP  =  1206744714;
   unsigned int  hYN2G3y  =  -13143067;
-    unsigned short int    mMQ9MBDG    =    351076965;
+    unsigned short int    mMQ9MBDG    =    (unsigned short)351076965;
 	long	r068zjJ	=	-1708239898;
   long double  o_JT  =  -1722104055;
     short int    c_y73YeKl    =    682351872;
@@ -38,7 +38,7 @@ int main() {
 	unsigned long long	lsj34Ik5	=	1443776104;
 	long long	t8n7CQ_JZ	=	-1062367935;
 	long double	icDifMARN_	=	929987738;
-  short  PKI70Mpk  =  209690452;
+  short  PKI70Mpk  =  (short)209690452;
     char    O_SiGQl    =    1025381141;
  long z0j5 = 0;
   short int  Mz8YySy5  =  845685344;
@@ -52,7 +52,7 @@ int main() {
   unsigned int  K35_4zSq  =  247120813;
   float  Ya_4OdX0n  =  -1558644331;
  unsigned char l_97x = 103308789;
-    short int    q5r239    =    537631849;
+    short int    q5r239    =    (short)537631849;
     unsigned long    GFG1Xx0    =    1329762233;
  long double hE06f51lz = 2041064785;
 	long	F_p9N4ws52	=	-1430660780;
@@ -62,7 +62,7 @@ int main() {
   unsigned long  J_8Z0  =  -1843059464;
   unsigned short  Nj5Tf  =  -1911951533;
     short    KQk__q    =    472237;
-	unsigned char	Mzd49	=	-1380533992;
+	unsigned char	Mzd49	=	(unsigned char)-1380533992;
 	unsigned short int	ohom2	=	576533683;
   char  UJZ_EIY  =  -204539771;
     unsigned short int    P09_q0    =    1768896533;
@@ -72,7 +72,7 @@ int main() {
 	short	H1015	=	0;
  long long LznHd = 2142196750;
  short int xxUe5fbL_ = -1403983798;
-	char	d624	=	1046369631;
+	char	d624	=	(char)1046369631;
 	char	xDK7E8Sdt	=	-2116899175;
     unsigned char    z6lM33    =    1951248712;
   unsigned int  A47RW  =  1285653463;
@@ -85,7 +85,7 @@ int main() {
   unsigned char  DiXBR1  =  153343660;
 	int	SfzGFJ0p	=	89240147;
  long VD2OcTN = -1287539574;
-  unsigned short int  D648lAL7ev  =  -223115688;
+  unsigned short int  D648lAL7ev  =  (unsigned short)-223115688;
  float iOzC_sHv_8 = 1765691852;
 	char	shn69T_d	=	517533244;
   unsigned int  Wk8t0L83x  =  1422395748;
@@ -156,7 +156,7 @@ while (k < 10);
 while (j >= 0);
 }
 }
-std::cout << Ye9HeVU532(-1295341944, -152819084, -63917342, 726715840) << "G2_w8N5S" << std::endl;
+std::cout << Ye9HeVU532(-1295341944, -152819084, (short)-63917342, 726715840) << "G2_w8N5S" << std::endl;
 
 for (int i = 1; i >= 0; i--)
 {

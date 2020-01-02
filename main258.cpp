@@ -15,7 +15,7 @@ char    Ri1QDZ(unsigned long long    P7JWS9h_3,long long    lev1)
 
 short int  s0UE(int  P3y6B0gyA,int  hF3phj5to,unsigned short int  h_5uqrE7,unsigned short  X9v6SD0)
 {
-  return  885083802;
+  return  (short)885083802;
 }
 
 unsigned int    YUS424(unsigned long long    g4fK0,long long    uSOU2Emy7S,unsigned char    RLGede2f3r)    {
@@ -32,6 +32,7 @@ short int    m_t3wIx_(short int    SLXX)    {
 }
 
 int main() {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
   char  StdZGo  =  -1562148277,  FGU1z  =  -773372497,  H5_0X16_Mg  =  868141097,  xsgs  =  1546052560,  Zilj84n0G  =  -446301254,  B_3_tE3  =  816208984,  E_wUy8ptW  =  786071250,  A__M1I  =  385468244,  PtG27  =  581435360,  KHHijk  =  -1112569188,  gnyN_C3D8  =  -1462652249,  l3pTAtMu  =  -1688390885,  UbX9zQ8  =  841179152,  F68_d  =  1711807431,  qL9ql  =  1743962086,  vxOwL9OG  =  -1150309997,  Th2PZXo  =  50672714,  YN21Z0j2  =  61951433,  O7Am5me6um  =  -1153779170,  hs91_  =  -1651487398,  Uu81i4  =  53548757,  D3ns6P3Lz9  =  341096634,  Nzr5ewNu  =  -1654281481,  X160G_f  =  617850216,  Kj6eN0M  =  1990396327,  uzJdi7msF_  =  -638308545;
   long  Ih0w0_  =  0,  KaIRuf  =  0,  yPI_r76  =  0,  zMv0jh2fFr  =  0;
 
@@ -101,7 +102,7 @@ for (int j = 0; j < 1; j++)
 {
 if (qL9ql != KaIRuf)
 {
-qL9ql = YUS424(qL9ql, -2084744513, -1467159029);
+qL9ql = YUS424(qL9ql, -2084744513, (unsigned char)-1467159029);
 }
 else if ((YN21Z0j2 >= -406419231) || ((PtG27 & 1874261909) && (yPI_r76 != -151767998)))
 {
@@ -126,7 +127,7 @@ Zilj84n0G = s0UE(-1996372821, -2027295485, -78989149, PtG27);
 
 uzJdi7msF_ >>= Nzr5ewNu;
 
-KHHijk = m_t3wIx_(663240105) / yPI_r76;
+KHHijk = m_t3wIx_((short)663240105) / yPI_r76;
 
 yPI_r76 = B7e5ye6(Nzr5ewNu);
 
@@ -210,7 +211,7 @@ H5_0X16_Mg = s0UE(1425728233, A__M1I, hs91_, -1487277802);
 break;
 case 'c':
 case 'C':
-Ih0w0_ = B7e5ye6(1626138840);
+Ih0w0_ = B7e5ye6((unsigned short)1626138840);
 break;
 case 'd':
 case 'D':

@@ -24,7 +24,7 @@ int main(void) {
  long long IXt9Ex = -370196935;
  float cnm2weds = 1059276075;
   double  mNB6  =  -342834770;
-	char	IuQQ	=	-1119938231;
+	char	IuQQ	=	(char)-1119938231;
     long double    rL29U2V    =    1873820180;
   long long  Rq_W  =  1008572688;
   unsigned int  iSh1tlETx  =  1670193510;
@@ -34,7 +34,7 @@ int main(void) {
  unsigned short av0m = 0;
  double a2N5 = -1348883042;
  int un874rGdG = 2055279459;
-  char  Co52QNhf05  =  -1946170698;
+  char  Co52QNhf05  =  (char)-1946170698;
     short    o6lO655    =    1335322131;
 	unsigned long	chtDM16Y	=	2085204312;
     short    Zmk_H_6    =    85181607;
@@ -46,7 +46,7 @@ int main(void) {
   unsigned char  UN793Y5  =  -1667203606;
     char    u18bPP3H97    =    0;
 	char	v2SZ0Z	=	0;
-	char	LNJJJnUy_	=	-172808215;
+	char	LNJJJnUy_	=	(char)-172808215;
  float x0XH4bad = 2123202114;
  unsigned short g57Ci7J = -126848812;
   unsigned int  XLB4B  =  -1600593598;
@@ -57,7 +57,7 @@ int main(void) {
     unsigned short int    R81H6rUY5    =    1288136967;
   float  EQe73ef8  =  -1415174704;
  long double f5YdQTJ4PT = -310131697;
-    char    U8iPx75    =    -1399715661;
+    char    U8iPx75    =    (char)-1399715661;
     unsigned long long    qIrv    =    1961891369;
 	float	qQw1aI29	=	228772326;
   long  Pa1vu1_5X  =  1921121387;
@@ -68,7 +68,7 @@ int main(void) {
     long long    LuGsI6K0M    =    92412550;
     short    jSNgAx    =    -981222794;
     double    C9tB50_7qG    =    334815452;
-  short int  C4c7cDh  =  -1475024971;
+  short int  C4c7cDh  =  (short)-1475024971;
     long    Cw8saEk    =    -1785790697;
     unsigned long long    GuU2    =    -211626201;
 
@@ -195,7 +195,7 @@ case 'd':
 v2SZ0Z = GVIw_6(1146396989, -260607741, M_WXU_);
 break;
 case 'e':
-av0m = GVIw_6(uAzek, -349343166, ARwlg);
+av0m = GVIw_6(uAzek, (short)-349343166, ARwlg);
 break;
 default:
 uAzek &= 2064955686;
@@ -256,7 +256,7 @@ case 1:
 u18bPP3H97 = GVIw_6(rL29U2V, -1365170809, 926697199);
 break;
 case 2:
-N_JM = GVIw_6(chtDM16Y, 1144697015, N_JM);
+N_JM = GVIw_6(chtDM16Y, (short)1144697015, N_JM);
 break;
 case 3:
 v2SZ0Z = GVIw_6(Cw8saEk, x0XH4bad, g57Ci7J);
@@ -316,7 +316,7 @@ case 'c':
 u18bPP3H97 = GVIw_6(XLB4B, -1937251966, 407402523);
 break;
 case 'd':
-v2SZ0Z = GVIw_6(x0XH4bad, -155802511, o6lO655);
+v2SZ0Z = GVIw_6(x0XH4bad, (short)-155802511, o6lO655);
 break;
 case 'e':
 chtDM16Y >>= 1152027851;

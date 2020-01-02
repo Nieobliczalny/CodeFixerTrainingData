@@ -28,7 +28,7 @@ int main() {
   long long  qU1_Wx5dio;
   qU1_Wx5dio  =  0;
  unsigned char wY6s8X;
- wY6s8X = -1533759229;
+ wY6s8X = (unsigned char)-1533759229;
     unsigned int    Y6D4;
     Y6D4    =    -294335523;
 	char	mGW56_n8;

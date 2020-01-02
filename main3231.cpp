@@ -34,7 +34,7 @@ int main(int argc, char** argv)
 	float	XiXLb75Efi	=	1190951572;
 	unsigned short int	C94z1oV_jl	=	18062792;
     int    Xs0z67f    =    -685292823;
-    char    gBHnL0Hyp    =    887250240;
+    char    gBHnL0Hyp    =    (char)887250240;
     int    tt_4cPfLg    =    0;
 	short int	NjWnYDBQN	=	160897847;
 	unsigned char	HDlD6	=	0;
@@ -48,7 +48,7 @@ int main(int argc, char** argv)
 	unsigned int	Lesmxp8	=	-1099561835;
   long  D3FqeLjZ  =  -1489668974;
     unsigned long    NnSM931Ye    =    -514523835;
-    unsigned char    g603_    =    196050184;
+    unsigned char    g603_    =    (unsigned char)196050184;
 	unsigned char	aGFeIR	=	919050606;
     int    r7U9    =    649084997;
   double  iul632P7E  =  -554202342;
@@ -58,7 +58,7 @@ int main(int argc, char** argv)
   unsigned short int  I1H78gl3cC  =  -987039676;
     unsigned short    xN6p1CW    =    -850511423;
  unsigned long long hNS_ = 927467286;
- short int vMGPd0D = -85300376;
+ short int vMGPd0D = (short)-85300376;
   unsigned long long  R7NjY4  =  519500090;
     short    IwaBQS0BD    =    -1910090451;
 
@@ -292,7 +292,7 @@ else
 hNS_ = PxVzP8nn6(hNS_, -398556827, -1677592202, 1507441762);
 }
 
-t1f6uIL5 = a0L_O_(577466011, 1727717468, SaBu5Po4m1);
+t1f6uIL5 = a0L_O_((short)577466011, 1727717468, SaBu5Po4m1);
 
 if (aGFeIR & oFi_112)
 {
@@ -361,7 +361,7 @@ else if (gK4L <= 1918884032)
 {
 try
 {
-cout << a0L_O_(515422922, 1210742043, l1L8) << "C80ye" << "LxLAxI" << "U88THSIvso" << a0L_O_(-1969850042, -2115732667, l1L8) << endl;
+cout << a0L_O_(515422922, 1210742043, l1L8) << "C80ye" << "LxLAxI" << "U88THSIvso" << a0L_O_((short)-1969850042, -2115732667, l1L8) << endl;
 }
 catch (int& errorCode)
 {
@@ -439,7 +439,7 @@ char    a0L_O_(short int    a8sM1,unsigned long    n12E,char    u2f0)
 }
 
 unsigned short    g4_9(unsigned long long    IbVz4RY_,unsigned char    tyF1_)    {
-    return    -169309438;
+    return    (unsigned short)-169309438;
 }
 
 unsigned int    PxVzP8nn6(unsigned int    o9aD_8R03m,long long    NV2_,long long    Odesuaen49,unsigned short    v1j9e1)    {

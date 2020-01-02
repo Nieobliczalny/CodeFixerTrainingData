@@ -21,7 +21,7 @@ int main() {
 	unsigned char	fU0lIGBEu;
 	fU0lIGBEu	=	-2128248810;
 	short int	xzNEvb;
-	xzNEvb	=	-525724812;
+	xzNEvb	=	(short)-525724812;
  unsigned long jk936sF;
  jk936sF = 842842473;
     unsigned long long    I9ns;
@@ -31,7 +31,7 @@ int main() {
 	short int	c84k;
 	c84k	=	-1069455353;
 	short int	ySTP;
-	ySTP	=	-731203907;
+	ySTP	=	(short)-731203907;
  unsigned short int XN9Q;
  XN9Q = -1518744267;
 	long	rPKQD017;
@@ -49,7 +49,7 @@ int main() {
  char Zg9VNC1E7;
  Zg9VNC1E7 = -2079107178;
   unsigned char  aIuj_0VS_;
-  aIuj_0VS_  =  794479076;
+  aIuj_0VS_  =  (unsigned char)794479076;
  unsigned long ClFy49u;
  ClFy49u = -1549580611;
  short EukBZ;
@@ -77,7 +77,7 @@ int main() {
   short int  t55R;
   t55R  =  -380886585;
 	char	CqKVCpXI;
-	CqKVCpXI	=	1962832956;
+	CqKVCpXI	=	(char)1962832956;
 	unsigned short int	tnLjr;
 	tnLjr	=	1185573860;
  unsigned short int E2Ma3LF1f;
@@ -115,7 +115,7 @@ j--;
 }
 }
 }
-std::cout << "Ug__K" << d4bP_m44K(1104091709, -1948985052, -260775902, I9ns, wtAd3) << b0b36Y << EukBZ << std::endl;
+std::cout << "Ug__K" << d4bP_m44K(1104091709, (unsigned short)-1948985052, -260775902, I9ns, wtAd3) << b0b36Y << EukBZ << std::endl;
 if (n4A7 < t55R)
 {
 for (int j = 9; j >= 0; j--)
@@ -160,7 +160,7 @@ if ((CqKVCpXI <= v4_H) || (qpUAk > v4_H))
 {
 if (b0b36Y != l8Vd5fiJ)
 {
-T16Gb = d4bP_m44K(ClFy49u, K_2D5, ct9vS, -88334170, 1676825186);
+T16Gb = d4bP_m44K(ClFy49u, K_2D5, ct9vS, -88334170, (short)1676825186);
 }
 }
 else if (xzNEvb >= Sr11166)
@@ -273,7 +273,7 @@ Sr11166 = (int)ceil(ghFUkCfz20);
 }
 else if (Ffp7uOqSR > qpUAk)
 {
-T16Gb = d4bP_m44K(277910676, 2066835106, Sr11166, -962756851, T16Gb);
+T16Gb = d4bP_m44K(277910676, (unsigned short)2066835106, Sr11166, -962756851, T16Gb);
 }
 else if ((Zg9VNC1E7 <= R047W_ndx) && (rPKQD017 != l8Vd5fiJ))
 {
@@ -340,7 +340,7 @@ K_2D5 = R5d_(-1202808442);
 
 Sr11166 = (int)abs(c84k);
 
-std::cout << "Z7yUl8ZV" << c6THq48(2121767625, 1043988881, 72802226, 1285366744) << std::endl;
+std::cout << "Z7yUl8ZV" << c6THq48(2121767625, 1043988881, (char)72802226, 1285366744) << std::endl;
 if (T16Gb == 0)
 {
 	fU0lIGBEu = WGW9_c7J_u / T16Gb;

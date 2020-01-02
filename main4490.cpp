@@ -15,7 +15,7 @@ unsigned char Bzvys9S(long E2ebO,unsigned int KfZHvFV,long long gm3Go8d,unsigned
 int main(int argc, char** argv)
 {
   short int  G3z2  =  1557532232;
-  unsigned short int  Kd2V  =  438602392;
+  unsigned short int  Kd2V  =  (unsigned short)438602392;
 	unsigned short	n1175jo	=	2118719492;
  long u_6F2 = 0;
   unsigned short  JfNbMf5W  =  128771451;
@@ -34,7 +34,7 @@ int main(int argc, char** argv)
  long long oXHw8_I7rA = -1683354143;
   float  m95mv3hC8m  =  -1933898161;
  unsigned char t_SnIf = 0;
-    short int    j10LJj_    =    81893300;
+    short int    j10LJj_    =    (short)81893300;
  unsigned char k75m4u = -1384933666;
 	char	yYso9FCq	=	-1290360810;
   long  ef7px  =  -1381859842;
@@ -44,7 +44,7 @@ int main(int argc, char** argv)
     long long    O3jVOY    =    -986163535;
   short int  pvv4A36Y4  =  1235876126;
 
-std::cout << yYso9FCq << DH_uwyo(-467056879, 1249986734, -319128773) << "urDxC53" << Bzvys9S(1224490554, -390656005, oXHw8_I7rA, K3Y7g) << std::endl;
+std::cout << yYso9FCq << DH_uwyo((unsigned short)-467056879, 1249986734, -319128773) << "urDxC53" << Bzvys9S(1224490554, -390656005, oXHw8_I7rA, K3Y7g) << std::endl;
 
 try
 {
@@ -145,7 +145,7 @@ switch (JfNbMf5W)
 {
 case 'a':
 case 'A':
-t_SnIf = DH_uwyo(1696430686, 275255307, t_SnIf);
+t_SnIf = DH_uwyo(1696430686, (char)275255307, t_SnIf);
 break;
 case 'b':
 case 'B':
@@ -157,7 +157,7 @@ EUTd = (int)abs(j10LJj_);
 break;
 }
 
-u_6F2 = DH_uwyo(-2061200802, 2116193515, -2092811980);
+u_6F2 = DH_uwyo(-2061200802, (char)2116193515, -2092811980);
 switch (yYso9FCq)
 {
 case 'a':
@@ -180,7 +180,7 @@ case 0:
 Et01CU = (int)abs(j10LJj_);
 break;
 case 1:
-t_SnIf = DH_uwyo(-1864660015, -905274167, j10LJj_);
+t_SnIf = DH_uwyo(-1864660015, (char)-905274167, j10LJj_);
 break;
 case 2:
 lA5Ojj2v_ = (int)abs(hVzO1NP6it);
@@ -250,7 +250,7 @@ while (j < 4);
 }
 else if ((JfNbMf5W <= -1324522002) || (n1175jo != 367231969))
 {
-Kd2V = DH_uwyo(-1809357975, m95mv3hC8m, 205925280) % 2140548741;
+Kd2V = DH_uwyo((unsigned short)-1809357975, m95mv3hC8m, 205925280) % 2140548741;
 }
 else
 {

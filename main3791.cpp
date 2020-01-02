@@ -14,6 +14,7 @@ using std::floor;
 
 int main() {
 	unsigned char	koNXzW6M	=	0,	ps0OPM3kGA	=	0,	ElQ5Z	=	0;
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
 	short int	qUN5	=	-834785357,	pm8OFGI8Bt	=	-1689644816,	mlf38t	=	387219280,	uth4Oi	=	-1684378416,	b928sZ6	=	-1238618396,	B3453c	=	-1088187583,	vlO165h8	=	-1583592504,	EZ_w	=	468678843,	Bg1riPIEm	=	-1105192804,	GEDSl	=	-2039687339,	HMv3Z_	=	-306299506,	H6kPmP5hR	=	971738120,	yu57_	=	-697182421,	RF5BCTft	=	-1747286953,	zwLZ	=	325163173,	vv2NH	=	128257667,	wpSJD__4I_	=	616737266,	U1hF	=	-365551474,	Cq7BQBkBQv	=	-1528832517,	q4dngAd	=	-2135792325,	q5ITF	=	1983770510,	dIC4N	=	-986644503,	AOQLGl7tg	=	484710629,	TydRK	=	-773178034,	GwuD	=	731792549,	uLrob	=	-1397752145,	x7_1	=	336109963,	i17FC	=	-2028030197,	dTBz11	=	1975798251;
 
 switch (koNXzW6M)

@@ -26,7 +26,7 @@ unsigned long ue9_() {
 
 short int Vjdx(unsigned char lmJ61r,unsigned char iWbP9,unsigned short r59i0WFdR)
 {
- return -1105815316;
+ return (short)-1105815316;
 }
 
 int main() {
@@ -148,7 +148,7 @@ else
 switch (A8xD)
 {
 case 'a':
-ql19NRHRR = Vjdx(-556045685, -1680349628, -1794106819);
+ql19NRHRR = Vjdx(-556045685, (unsigned char)-1680349628, -1794106819);
 break;
 case 'b':
 AjvOXCoo3 = Vjdx(1157378189, 1977242889, tC83tPVF);
@@ -168,7 +168,7 @@ for (int j = 0; j < 9; ++j)
 switch (p80yNm7k5)
 {
 case 0:
-PK3t = y6a7xa19g4(1244590715, 1674361235, -814476449, -27372766);
+PK3t = y6a7xa19g4(1244590715, 1674361235, -814476449, (char)-27372766);
 break;
 case 1:
 P3O_52R841 = B8PE6N8W(SLqkT4y, Xf57lF0R_N);
@@ -275,7 +275,7 @@ else
 switch (o3eJ41I4P0)
 {
 case 0:
-xL14t1e74u = B8PE6N8W(100864303, 1841356944) << 1789069141;
+xL14t1e74u = B8PE6N8W((short)100864303, 1841356944) << 1789069141;
 break;
 case 1:
 f67r2y4lj8 += KE36Ot43;
@@ -287,7 +287,7 @@ case 3:
 AjvOXCoo3 = (int)abs(V9UH1MO9);
 break;
 case 4:
-P6wBpZusT2 = y6a7xa19g4(P6wBpZusT2, -875485864, SLqkT4y, 913048846);
+P6wBpZusT2 = y6a7xa19g4(P6wBpZusT2, (short)-875485864, SLqkT4y, 913048846);
 break;
 case 5:
 pyG1 = y6a7xa19g4(pyG1, -241793698, -1859768173, 557970398);
@@ -297,7 +297,7 @@ PK3t = y6a7xa19g4(PK3t, -557294260, If733_4f_, fEx7);
 break;
 }
 }
-cout << f67r2y4lj8 << y_zY0 << ue9_() << Vjdx(PK3t, -54285458, 1805244895) << "RAw4" << endl;
+cout << f67r2y4lj8 << y_zY0 << ue9_() << Vjdx(PK3t, (unsigned char)-54285458, 1805244895) << "RAw4" << endl;
 switch (tC83tPVF)
 {
 case 0:

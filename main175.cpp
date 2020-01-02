@@ -156,7 +156,7 @@ else if (i_k2l & 211077318)
 {
 if ((y090qxP1 != hEyW08) || (w55y == p44V4U2Z))
 {
-TS2j = yAhSJhX(1772227051, 1769450201, ws0AS_y3k);
+TS2j = yAhSJhX(1772227051, (short)1769450201, ws0AS_y3k);
 }
 else if (TeE9q4z41 & 1424367190)
 {
@@ -343,7 +343,7 @@ case 'a':
 TS2j++;
 break;
 case 'b':
-Tsugf0qo = yAhSJhX(-453200968, 326148797, 1691103525);
+Tsugf0qo = yAhSJhX(-453200968, (short)326148797, 1691103525);
 break;
 case 'c':
 TS2j = IfQDP();

@@ -23,7 +23,7 @@ int main(void)
   unsigned char  n9yE6;
   n9yE6  =  -1816018537;
  unsigned short int ry6dQKrGd3;
- ry6dQKrGd3 = -1141359857;
+ ry6dQKrGd3 = (unsigned short)-1141359857;
  long long aeCj;
  aeCj = 0;
   unsigned long long  BXt2GoXrx6;
@@ -43,7 +43,7 @@ int main(void)
  unsigned long uPeWM3614;
  uPeWM3614 = -59788582;
  short int ZeX16sht;
- ZeX16sht = 797864978;
+ ZeX16sht = (short)797864978;
  float wC8e64;
  wC8e64 = 1533823691;
     long    YNGmG6i9Qc;
@@ -116,7 +116,7 @@ while (i < 2)
 {
 if ((Yp_IQt != -1400114480) && (ZeX16sht & -655875223))
 {
-cout << "azOY992jGv" << OBXiu4(n9v5djp, 1960685786, -2004653985, EWa0G53G, -2014975562) << endl;
+cout << "azOY992jGv" << OBXiu4(n9v5djp, 1960685786, (unsigned char)-2004653985, EWa0G53G, -2014975562) << endl;
 }
 else
 {
@@ -187,7 +187,7 @@ catch (int& errorCode)
 P667t8Y = (int)abs(MT0B);
 }
 
-H5_wpwp = OBXiu4(1891715423, -1576567828, -1024902507, YNGmG6i9Qc, -53011987);
+H5_wpwp = OBXiu4(1891715423, -1576567828, -1024902507, YNGmG6i9Qc, (unsigned short)-53011987);
 
 {
 int i = 0;
@@ -204,7 +204,7 @@ c_Qa = (int)abs(EWa0G53G);
 i++;
 }
 }
-cout << "Z4M0KQ63U" << OBXiu4(xE6NKZ3, -427477680, 1750043851, 229302007, X1ub1Wfd7) << "wHmE4PSpP3" << ojqfY << cs79w(xE6NKZ3, P667t8Y, H5_wpwp, YNGmG6i9Qc, -722808689) << endl;
+cout << "Z4M0KQ63U" << OBXiu4(xE6NKZ3, -427477680, 1750043851, 229302007, X1ub1Wfd7) << "wHmE4PSpP3" << ojqfY << cs79w(xE6NKZ3, P667t8Y, H5_wpwp, YNGmG6i9Qc, (char)-722808689) << endl;
 
 dmM2 = (unsigned int)(ry6dQKrGd3);
 DImpLO = YNGmG6i9Qc / Z_03_;
@@ -221,7 +221,7 @@ else
 {
 aeCj = OBXiu4(1060255701, -2137842038, -811219181, -1943836956, ZeX16sht);
 }
-mQ651gN_ = cs79w(mQ651gN_, DImpLO, ZeX16sht, Yp_IQt, 133754497);
+mQ651gN_ = cs79w(mQ651gN_, DImpLO, ZeX16sht, Yp_IQt, (char)133754497);
 mGZq_ &= X1ub1Wfd7;
 {
 int i = 8;
@@ -247,7 +247,7 @@ n9v5djp %= 2101550012;
 }
 else if (ry6dQKrGd3 > 1475246315)
 {
-Z_03_ = OBXiu4(1558186108, Z_03_, -752852744, BXt2GoXrx6, 1841156627);
+Z_03_ = OBXiu4(1558186108, Z_03_, -752852744, BXt2GoXrx6, (unsigned short)1841156627);
 }
 else
 {
@@ -312,7 +312,7 @@ switch (ojqfY)
 {
 case 'a':
 case 'A':
-A71l4 = OBXiu4(1317639910, ry6dQKrGd3, -179737190, F_8_YeK2QP, 834797133);
+A71l4 = OBXiu4(1317639910, ry6dQKrGd3, -179737190, F_8_YeK2QP, (unsigned short)834797133);
 break;
 case 'b':
 case 'B':

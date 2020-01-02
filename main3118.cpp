@@ -459,7 +459,7 @@ unsigned short int Z8zqJI(long R_Y90ja77o,char D645cV)
 
 unsigned short	ZLjr1l_Bx_()
 {
-	return	-1682503208;
+	return	(unsigned short)-1682503208;
 }
 
 unsigned char    X0NdRkoM(unsigned long    TWT_c,unsigned long long    DmF2_MSDX4)

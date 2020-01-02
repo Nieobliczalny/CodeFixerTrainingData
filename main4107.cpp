@@ -11,7 +11,7 @@ using namespace std;
 int main(void) {
     unsigned short int    V0qIL1mT4    =    0;
     short int    l16IG    =    -1701200290;
- short ydeSO_8 = -361055853;
+ short ydeSO_8 = (short)-361055853;
     unsigned short    uhBk    =    -45499801;
     short int    rqPU    =    1252200572;
   unsigned long  n2KVm  =  0;
@@ -23,7 +23,7 @@ int main(void) {
   long long  seyMO_f  =  -1019267694;
 	unsigned int	RO1g83M	=	-451919958;
   unsigned short  N8l7c  =  779697737;
- unsigned short DylZ = -147644028;
+ unsigned short DylZ = (unsigned short)-147644028;
  unsigned long long y3vDMA = -541614457;
   float  Hs15xYC1  =  586891820;
 	char	OT115X_M	=	0;

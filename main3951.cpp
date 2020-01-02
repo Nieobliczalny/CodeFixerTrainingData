@@ -28,7 +28,7 @@ int main(void) {
  unsigned char i4305w9;
  i4305w9 = -1301141810;
   short  m_sXqfP6s;
-  m_sXqfP6s  =  776165936;
+  m_sXqfP6s  =  (short)776165936;
     long    FI90;
     FI90    =    -83876240;
 	char	j60w92;
@@ -60,7 +60,7 @@ int main(void) {
  unsigned int DeAF6;
  DeAF6 = 476286422;
   char  ztKG9;
-  ztKG9  =  -1481341142;
+  ztKG9  =  (char)-1481341142;
     unsigned char    f6y9;
     f6y9    =    913306389;
 	long	CM4H50;
@@ -70,7 +70,7 @@ int main(void) {
   short  N3FNBc;
   N3FNBc  =  2063721090;
     short int    A5vNa;
-    A5vNa    =    769198431;
+    A5vNa    =    (short)769198431;
 
 {
 int i = 8;
@@ -141,7 +141,7 @@ if (XYxS96hCw == 0)
 
 if (Nz7nT3Rmr <= cMb9)
 {
-kG_T = i7234y9FGZ(1968076699, -105565703);
+kG_T = i7234y9FGZ(1968076699, (short)-105565703);
 }
 else if (((ud6BY_Jb8B > ov_394Kj9_) && (i4305w9 & 1304913237)) || (ud6BY_Jb8B & P_jhk))
 {
@@ -278,7 +278,7 @@ m_sXqfP6s = s8BQOmn >> N3FNBc;
 }
 else if (f6y9 > N3FNBc)
 {
-cout << "b_csf9p5s" << i7234y9FGZ(149433161, 598369778) << CJKvd << "o7oQ" << A5vNa << endl;
+cout << "b_csf9p5s" << i7234y9FGZ(149433161, (short)598369778) << CJKvd << "o7oQ" << A5vNa << endl;
 }
 else if ((ztKG9 != FI90) && (FI90 <= P_jhk))
 {
@@ -494,7 +494,7 @@ try
 {
 for (int j = 9; j >= 0; j--)
 {
-cout << "mlNp111" << "hvnMPs" << "ejNhC3XE96" << i7234y9FGZ(-2066413041, 874890483) << endl;
+cout << "mlNp111" << "hvnMPs" << "ejNhC3XE96" << i7234y9FGZ(-2066413041, (short)874890483) << endl;
 }
 }
 catch (int& errorCode)
@@ -515,7 +515,7 @@ unsigned short i7234y9FGZ(unsigned short int W2_JFL,short int N__U) {
 
 short int JgK_(unsigned char jGIx1avE,unsigned int wW4dD3DR4)
 {
- return -1330264972;
+ return (short)-1330264972;
 }
 
 long    JDuMQ5(long    F_VBXv_2z4)    {

@@ -30,7 +30,7 @@ case 'b':
 x9j9946NQ = Jaf8_X(2111384183, Z91Au12Ta, IRLegt708s, -2067083377) + 131143479;
 break;
 case 'c':
-uXrfhTvIVl = Jaf8_X(cK5Pdu, -421521457, A5WH, j4Ma5JVLV7);
+uXrfhTvIVl = Jaf8_X(cK5Pdu, (char)-421521457, A5WH, j4Ma5JVLV7);
 break;
 case 'd':
 mRV9EUJF = pELH53Prfz + M13rAVz6f;
@@ -130,7 +130,7 @@ while (k >= 0);
 }
 else if (UxPdZ_G5n & -206994515)
 {
-uXrfhTvIVl = Jaf8_X(-425060188, SsYjDoib8, -20273494, -586634329);
+uXrfhTvIVl = Jaf8_X(-425060188, SsYjDoib8, -20273494, (unsigned short)-586634329);
 }
 else
 {
@@ -146,7 +146,7 @@ Z745L7ALb = (TB1G1cr < SsYjDoib8) ? MtU_gt0cv : SBy99;
 }
 else if ((IaL3VVaNA != MtU_gt0cv) || ((w6LR7_g85 > -445614967) || (Kv_SPMdC82)))
 {
-uXrfhTvIVl = Jaf8_X(1238991003, 473076025, Z91Au12Ta, 381507953);
+uXrfhTvIVl = Jaf8_X(1238991003, 473076025, Z91Au12Ta, (unsigned short)381507953);
 }
 else if (EO5d299d75 == cJqOZl)
 {
@@ -166,7 +166,7 @@ try
 {
 for (int k = 9; k >= 0; --k)
 {
-uXrfhTvIVl = Jaf8_X(758853728, -1036866749, AV_T5, 1376746456);
+uXrfhTvIVl = Jaf8_X(758853728, -1036866749, AV_T5, (unsigned short)1376746456);
 }
 }
 catch (int& errorCode)

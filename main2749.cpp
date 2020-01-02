@@ -40,6 +40,7 @@ unsigned long  A0jVK1N__p()  {
 int main(void)
 {
     long long    qKx6v    =    0;
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
 	short int	G0v94J1	=	-1672521158,	a2sy19y1N	=	-678137592,	We23X	=	-914457199,	JEuJ3N	=	2124278561,	Rj9l	=	1246667260,	g4vn8	=	215197582,	guFBeGeBw	=	-222607892,	Ivm_3	=	-1283334074,	qo7o	=	-1103682940,	rGSm5l4_R3	=	-1471632203,	bv7wA	=	2054168269,	Oiwf9V	=	-535533675,	dJ3wIUlO	=	-444493330,	xZF73_A_fM	=	61971864,	Y1r4SW	=	694243182;
 
 if (qKx6v & 690057027)
@@ -74,7 +75,7 @@ Oiwf9V = (short int)(Y1r4SW);
 switch (Y1r4SW)
 {
 case 0:
-Oiwf9V = xBqsNy(-1695995582, We23X, qo7o, qKx6v, -726425638);
+Oiwf9V = xBqsNy(-1695995582, We23X, qo7o, qKx6v, (unsigned short)-726425638);
 break;
 case 1:
 Y1r4SW *= 1711625818;
@@ -189,7 +190,7 @@ dJ3wIUlO = guFBeGeBw - qo7o;
 break;
 case 'b':
 case 'B':
-Oiwf9V = xBqsNy(Oiwf9V, 2033409505, xZF73_A_fM, -61714431, qKx6v);
+Oiwf9V = xBqsNy(Oiwf9V, 2033409505, xZF73_A_fM, (unsigned short)-61714431, qKx6v);
 break;
 case 'c':
 case 'C':

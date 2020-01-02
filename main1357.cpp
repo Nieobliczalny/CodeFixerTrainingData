@@ -31,7 +31,7 @@ int main(void)
     int    Zsad    =    -1303130763;
     unsigned long    d7908    =    0;
  long long TDxqhtO5 = -882434882;
-	short	zhhw4_9pL	=	-1815689527;
+	short	zhhw4_9pL	=	(short)-1815689527;
  unsigned short Pz1IywAR = -875865611;
     unsigned short int    KozI3Lb7    =    -1063124960;
     int    m1JAd    =    1820491672;
@@ -41,7 +41,7 @@ int main(void)
     unsigned long long    e6YZ    =    -946246685;
     int    bKWV2L9    =    -1862659373;
  unsigned short int Wx4kCKI3 = 17002234;
-  char  kQ5t1Ee49  =  795966695;
+  char  kQ5t1Ee49  =  (char)795966695;
     short int    roLlVjK    =    442256253;
  double AGcTV = 1742243090;
     double    x5P_U6u    =    -474439725;
@@ -52,7 +52,7 @@ int main(void)
 	unsigned short	oypL7x99	=	1496686686;
  unsigned short int iX8r79X_ = 2103973481;
 	float	c362Z	=	-921991284;
-    short    qUzbKx    =    257524980;
+    short    qUzbKx    =    (short)257524980;
 	unsigned char	eg7O4n	=	829684808;
     int    JKztFW    =    0;
  short hx8X = -1718888109;
@@ -65,7 +65,7 @@ int main(void)
     long double    Sjlh7    =    1318399362;
     short    pW6fW2    =    -337671610;
     long double    s_ir08    =    438435029;
-  char  dm4s_wG2eB  =  1411164613;
+  char  dm4s_wG2eB  =  (char)1411164613;
 
 {
 int i = 0;
@@ -223,7 +223,7 @@ std::cout << JKztFW << kg57059C9(1188409577) << "I4gBqUH83" << "Cws7T1WSy" << st
 }
 else if (zhhw4_9pL & wnV0)
 {
-kQ5t1Ee49 = eYkB(-836838414, 563378516, -1672249715, qUzbKx);
+kQ5t1Ee49 = eYkB(-836838414, 563378516, (short)-1672249715, qUzbKx);
 }
 else
 {

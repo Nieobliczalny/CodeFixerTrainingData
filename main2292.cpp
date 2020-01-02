@@ -21,7 +21,7 @@ unsigned short    yq_03(int    JyP3f)    {
 }
 
 unsigned short int	lYcD7()	{
-	return	-434111303;
+	return	(unsigned short)-434111303;
 }
 
 int main()
@@ -160,7 +160,7 @@ z_7y0K = O5WHGI9_S(643309636);
 }
 else if (lE6l6mF >= -131716902)
 {
-o7VZ7 = O5WHGI9_S(-1085128110);
+o7VZ7 = O5WHGI9_S((short)-1085128110);
 }
 else
 {

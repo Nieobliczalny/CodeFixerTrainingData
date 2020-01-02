@@ -41,7 +41,7 @@ else if (CSFI & K_M1_XUqN)
 int j = 0;
 while (j < 1)
 {
-OX4DzURm5 = aCePV(890099000, -1164466811, -521160998, 1366618801);
+OX4DzURm5 = aCePV(890099000, -1164466811, (char)-521160998, 1366618801);
 j++;
 }
 }
@@ -60,7 +60,7 @@ i5L3 ^= 1235304172;
 break;
 case 'c':
 case 'C':
-GSBByUe_L = aCePV(906637432, 487041099, 466201502, Yc4k1z77_3);
+GSBByUe_L = aCePV(906637432, 487041099, (char)466201502, Yc4k1z77_3);
 break;
 case 'd':
 case 'D':
@@ -181,7 +181,7 @@ case 0:
 I89W4Or1v = aCePV(838495800, mPFxA, OX4DzURm5, a9u9tI);
 break;
 case 1:
-CSFI = aCePV(CSFI, -476248669, N9zua, -1404730021);
+CSFI = aCePV(CSFI, -476248669, N9zua, (unsigned short)-1404730021);
 break;
 case 2:
 BM9407R5 = (int)abs(rG2EN8);
@@ -199,7 +199,7 @@ case 6:
 BM9407R5 = (int)abs(Q0pj621Pf);
 break;
 case 7:
-WsEBRJOKV = aCePV(-924247721, I89W4Or1v, -283843582, 269141911);
+WsEBRJOKV = aCePV(-924247721, I89W4Or1v, (char)-283843582, 269141911);
 break;
 default:
 L8Z5t9Mn0 <<= 183824716;
@@ -219,7 +219,7 @@ while (i < 6);
 }
 y6sP = (long long)(EkLv2N1iI + (1736315748));
 
-std::cout << aCePV(253203924, y6sP, -428919188, mPuQc_) << sr1Ml4C << W8PN << aCePV(-1742028137, 190106998, -1566013574, 1129863325) << x6F3G << std::endl;
+std::cout << aCePV(253203924, y6sP, (char)-428919188, mPuQc_) << sr1Ml4C << W8PN << aCePV(-1742028137, 190106998, -1566013574, 1129863325) << x6F3G << std::endl;
 
 std::cout << W8PN << aCePV(e28zg, y6sP, 1083193692, mPuQc_) << aCePV(e28zg, y6sP, -347236754, -1448838164) << mYgJb5QdAz << iP2Zn5x << std::endl;
 if ((e28zg & Un6Eg) || ((k_bu8R458B & J5MvG) && (iwmL6 & vru2)))
@@ -257,7 +257,7 @@ w2ap1 = ZCzIYW();
 std::cout << "BLj4kLFI" << "Xk3bpG" << std::endl;
 if (OX4DzURm5 >= -632005271)
 {
-std::cout << aCePV(592372005, Xf35hb, 1333883497, -2012767716) << std::endl;
+std::cout << aCePV(592372005, Xf35hb, (char)1333883497, -2012767716) << std::endl;
 }
 else
 {
@@ -308,7 +308,7 @@ case 8:
 IVbx1ss_ = aCePV(IVbx1ss_, 2123080198, sr1Ml4C, -1466224237);
 break;
 case 9:
-McchgjYE = aCePV(-1719559370, i5L3, r2ZmoBa0, 134044000);
+McchgjYE = aCePV((unsigned short)-1719559370, i5L3, r2ZmoBa0, 134044000);
 break;
 default:
 uI6xPcu_ -= F_91;
@@ -353,7 +353,7 @@ case 0:
 Ej41a6 |= xMs_;
 break;
 default:
-k_bu8R458B = aCePV(-66322072, -1358947580, uI6xPcu_, 64004850);
+k_bu8R458B = aCePV(-66322072, -1358947580, uI6xPcu_, (unsigned short)64004850);
 break;
 }
 }

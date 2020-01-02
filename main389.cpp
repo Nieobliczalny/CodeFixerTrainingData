@@ -16,6 +16,7 @@ int W08h(unsigned short int eed1,int E2u8y3_);
 
 int main(void)
 {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
     unsigned char    PT_44F8o_    =    -471631732,    hHvO__QFy3    =    -488573869,    Bf_Iaw    =    1644808577,    ayU_L9    =    1168178797,    VAnhEY    =    243402146,    tlf4pb    =    201691594,    r7H3l    =    -1478187648,    uy791rVG6    =    1606859848,    wLl6cgK4    =    259484555,    w2KyBe    =    679111040,    SkkqUNEO    =    -1418266452,    sv7W    =    501375529,    N3Jy    =    -1534920056,    b459Tl2    =    1019104330,    CPjmpm    =    -1902024422,    Fzpm8329    =    1804812985,    nL16d_D    =    148831668,    jqfi67SRFX    =    -1300096220,    U8W4_7p    =    1412136261,    b3sxAc2ZTb    =    528621718,    EHXiP5_c    =    856487725,    CAc900y_0    =    149403429,    PCnLw    =    1934925754,    fGA8    =    1468660326,    AWdF4UA    =    252307175,    HI4m    =    164006348,    Jf1xmGB0    =    1127266530,    a_6W3i1E_    =    -636745381,    oEgyBIY    =    545697203,    W7f74ut6    =    -1662787210,    kIaqXLE    =    1788997826,    jMSFD05d0R    =    -1360900621,    SM8AtpL    =    -1432440,    AQ97SS    =    -1711346055,    OQvWB_    =    -1192326171,    Xyfb8Mz5I_    =    -1617155114,    zQB3Gv9bLd    =    -1914312463,    Z4S8    =    625172474,    V824    =    -1122446099;
   unsigned short  V9p_r568B7  =  0,  SZ2t  =  0;
 
@@ -33,7 +34,7 @@ case 'c':
 Bf_Iaw = W08h(ayU_L9, AQ97SS) | 5974324;
 break;
 case 'd':
-V9p_r568B7 = W08h(-617031733, 564635420);
+V9p_r568B7 = W08h((unsigned short)-617031733, 564635420);
 break;
 case 'e':
 SZ2t = W08h(SkkqUNEO, HI4m);
@@ -315,7 +316,7 @@ HI4m |= 351411484;
 }
 else
 {
-V9p_r568B7 = W08h(-826034388, PCnLw);
+V9p_r568B7 = W08h((unsigned short)-826034388, PCnLw);
 }
 }
 else if ((nL16d_D <= PCnLw) && (Xyfb8Mz5I_ <= kIaqXLE))
@@ -467,7 +468,7 @@ V9p_r568B7 = W08h(-1923649160, CAc900y_0);
 break;
 case 'b':
 case 'B':
-SZ2t = W08h(-645373007, -475156234);
+SZ2t = W08h((unsigned short)-645373007, -475156234);
 break;
 case 'c':
 case 'C':

@@ -18,6 +18,7 @@ unsigned short int	q_V4nU(int	VDswU_5t,char	q_s5RrF7,unsigned short	PT13_y8,int	
 unsigned short    f1O4ukSk5k(unsigned short    H5FKaISK);
 
 int main(void) {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
 	short int	ZKkI	=	93582909,	xAe1jA_	=	1815736105,	xPL93	=	724036508,	Gf6937Y1W4	=	-196108265,	q6gFo	=	481372180,	cGoq	=	-995786422,	YMaD212AGI	=	608130046,	g83tWJSm	=	-1322165193,	fscV9hd34q	=	-1341160239,	TcVB450N	=	1407835633,	tZlRvT_t	=	-632212574,	Ksi5Svc29E	=	-938129812,	vTLyn_Y42D	=	-783985725,	K31Ua8SQX	=	1767755804,	ffOEyY	=	-877239309,	lBw75	=	-2136355257,	JuF488	=	1321491338,	W7w0_Bmj	=	-54202807,	fa1qZ4WoV5	=	1298228365,	EppW35o2	=	-1545624318,	sE8I	=	233293945,	djj7	=	1918139135,	uz1T_8ljC	=	-982993520,	Gzc_O15	=	-1736389384,	m3bpAH	=	-309719724,	k44D7	=	-606712165,	v9XJ	=	-656666287,	Ae9wvo	=	230700220,	MLPWl	=	1881512677,	c64Bu0_j48	=	-2044974042,	A_7819	=	2096301169,	oC64DK	=	1652694500,	T1M2Sw	=	-226756786,	uw1TX6o	=	242078752,	Dc_L7R6	=	77357111,	KhNnnwPfQM	=	84646086,	t87HZ_	=	-1363495610,	r_E4Ay	=	-1409159522,	UYB18FnDES	=	1400415741,	IG00	=	-1806938922,	fF4_o14k	=	-1652319407,	y5d35Z47J	=	2137491477,	xUfFv_5DL	=	-697129711,	OCk__yfKQU	=	-1545124159,	ns2r6_69m1	=	-957597513,	Opm3ffLJOk	=	1208626311,	UNQ4Iua4M	=	-1508555573,	Bmbw	=	664830107,	k8X9aw99fD	=	459307189,	IGi05f43	=	1830256596,	q6Eei4	=	-1033924494,	N5U72	=	-551361658;
  short Tqdr4HgAAA = 0, O3JQBNgk = 0, if1254zc = 0;
 
@@ -266,7 +267,7 @@ case 3:
 tZlRvT_t = vTLyn_Y42D % 1783227242;
 break;
 case 4:
-fF4_o14k = q_V4nU(fF4_o14k, -1001569438, m3bpAH, r_E4Ay);
+fF4_o14k = q_V4nU(fF4_o14k, (char)-1001569438, m3bpAH, r_E4Ay);
 break;
 case 5:
 Tqdr4HgAAA = f1O4ukSk5k(v9XJ);
@@ -373,7 +374,7 @@ switch (Ae9wvo)
 {
 case 'a':
 case 'A':
-k8X9aw99fD = q_V4nU(Tqdr4HgAAA, 586809280, -1590061129, uw1TX6o);
+k8X9aw99fD = q_V4nU(Tqdr4HgAAA, 586809280, (unsigned short)-1590061129, uw1TX6o);
 break;
 case 'b':
 case 'B':
@@ -494,7 +495,7 @@ short    x3Dq()
 
 unsigned short int	q_V4nU(int	VDswU_5t,char	q_s5RrF7,unsigned short	PT13_y8,int	J06gs3JQ)
 {
-	return	662758466;
+	return	(unsigned short)662758466;
 }
 
 unsigned short    f1O4ukSk5k(unsigned short    H5FKaISK)

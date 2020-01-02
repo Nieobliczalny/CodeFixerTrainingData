@@ -74,7 +74,7 @@ case 'd':
 kx2Ps = (WNb07T_4O) ? mgnx8lb9(sEyyc16, d_KQk3, b0bX) : u1AN_4Qg;
 break;
 case 'e':
-dtgpnirh = lfpH(-560480011, -1822522980);
+dtgpnirh = lfpH(-560480011, (char)-1822522980);
 break;
 }
 }
@@ -387,7 +387,7 @@ while (i >= 0)
 PG7h8bfD3 = u9UAi772(-1928965381, 858716162) | 1624729027;
 }
 }
-std::cout << u9UAi772(Km0K, GilwW52xz) << "z_oTB3c88" << mgnx8lb9(1116874163, GilwW52xz, -723227986) << "YGCH7gX" << mgnx8lb9(-900120094, -1308549292, -1830815636) << std::endl;
+std::cout << u9UAi772(Km0K, GilwW52xz) << "z_oTB3c88" << mgnx8lb9((char)1116874163, GilwW52xz, -723227986) << "YGCH7gX" << mgnx8lb9(-900120094, -1308549292, -1830815636) << std::endl;
 
 if (KMA45 >= wz58hK99_)
 {

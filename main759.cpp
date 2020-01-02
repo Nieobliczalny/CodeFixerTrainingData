@@ -36,7 +36,7 @@ case 3:
 c8nfSh2DP = F2PRtyI80L(2095872882, c8nfSh2DP, -1117174441, oTLB195Az) ^ 453371974;
 break;
 case 4:
-s3P5qNwMj = F2PRtyI80L(-1409244340, 1260791915, p4yWTC00H9, l7fJfR);
+s3P5qNwMj = F2PRtyI80L(-1409244340, (unsigned short)1260791915, p4yWTC00H9, l7fJfR);
 break;
 case 5:
 e5722d2aq_ = z5_77Pz64(e5722d2aq_);
@@ -95,6 +95,6 @@ short z5_77Pz64(long long p_5SH7)
 }
 
 unsigned short	F2PRtyI80L(unsigned long	XWJN8aSQ,unsigned short int	tFF__5,int	AHp95X85_T,unsigned short	osit)	{
-	return	378306906;
+	return	(unsigned short)378306906;
 }
 

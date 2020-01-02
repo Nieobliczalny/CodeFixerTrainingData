@@ -188,7 +188,7 @@ case 7:
 Ep2LDuxIO = Op_0PRHuNc(Ep2LDuxIO, pSCJQ7c, -1786864673);
 break;
 case 8:
-uv_2f13_ = Ih4LQjVcQ(uv_2f13_, -1421100491, rmYow759z);
+uv_2f13_ = Ih4LQjVcQ(uv_2f13_, (unsigned short)-1421100491, rmYow759z);
 break;
 }
 }

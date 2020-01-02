@@ -21,7 +21,7 @@ short    b7m7(long    w9lx,unsigned int    jzI_He,unsigned long long    ziPo)
 int main(void)
 {
 	unsigned short	IxyV0OZS	=	-217845085;
-    unsigned short int    H6AZP_Js8    =    -450189898;
+    unsigned short int    H6AZP_Js8    =    (unsigned short)-450189898;
   char  x4a_9t9Q0  =  -1920750781;
     unsigned int    n1fhi_    =    0;
     short    mGquEJsC    =    -694881437;
@@ -38,7 +38,7 @@ int main(void)
   unsigned int  c0U_  =  -512003152;
   float  GzvZ  =  1565484645;
     long double    Heo_IZn4    =    1100214160;
- unsigned short E4nKri_ = -821895756;
+ unsigned short E4nKri_ = (unsigned short)-821895756;
 	unsigned long	C459285	=	-1508959673;
     short int    aF8gA    =    -752207774;
   unsigned char  cC07B6d1  =  1417713589;
@@ -52,7 +52,7 @@ int main(void)
 	unsigned int	eriM	=	26660508;
 	long double	tdjFg	=	-2006887691;
  unsigned int Qd0j_S82 = 1267863284;
-	unsigned short int	fwc7	=	-1511613230;
+	unsigned short int	fwc7	=	(unsigned short)-1511613230;
 	long	Xp4AciVx2	=	323471389;
  unsigned short int sKXKJ = -97072378;
  unsigned short int E0pFC = -170464715;
@@ -68,7 +68,7 @@ int main(void)
   long  XvDl  =  211117414;
  double Y1Ha86 = 714203;
   unsigned char  K7041  =  1843782543;
-  unsigned short  oVSt  =  -1749518234;
+  unsigned short  oVSt  =  (unsigned short)-1749518234;
 	long	X98_DUW79	=	770478138;
  unsigned long long i92D6u8T5P = 1107698313;
     long double    V10Gi200    =    931294931;
@@ -81,7 +81,7 @@ int main(void)
 	unsigned long	DDYM_qr	=	1612161605;
     unsigned long    Np0JT    =    -2004336224;
     double    EO2ZFrgv7l    =    1935769697;
- short int ZpAtmch_ = -399998890;
+ short int ZpAtmch_ = (short)-399998890;
  double dEX8GJ8 = -642200186;
     unsigned long long    qG3R2ncdC1    =    2033645070;
 	short	wZXQf4d	=	-871738529;
@@ -93,7 +93,7 @@ int main(void)
   int  x55xDO99R  =  -367275054;
 	short	e9Ra	=	472625141;
   long double  z9TqZ86z_  =  -1229077875;
- unsigned short D4_0k8 = 139434653;
+ unsigned short D4_0k8 = (unsigned short)139434653;
 	unsigned short int	MC566IO	=	-915455762;
  short int fq4t9ZjX_4 = -123032197;
 	unsigned short	MaG409	=	-167182240;

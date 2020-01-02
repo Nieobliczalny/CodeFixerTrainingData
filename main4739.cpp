@@ -36,7 +36,7 @@ int main(int argc, char** argv)
     int    lRPx    =    1374922294;
  int Ta8I5__y = 251509401;
  unsigned char nYv5 = 0;
-    unsigned short int    c8mM6    =    589953753;
+    unsigned short int    c8mM6    =    (unsigned short)589953753;
 	unsigned short	i3147w7N	=	0;
   int  KVVizeUIVj  =  1455116686;
   unsigned int  PmiaWt  =  1473200247;
@@ -48,7 +48,7 @@ int main(int argc, char** argv)
  char nRVu = -538976265;
 	float	EpCYf3	=	-1681901979;
     unsigned long long    awZK_fvf9p    =    -2067262820;
-	unsigned short int	I39Mbv	=	608238733;
+	unsigned short int	I39Mbv	=	(unsigned short)608238733;
   short  z6m30DfAX  =  0;
 	unsigned long	fy6C3m_	=	1114669237;
  long double wGL6 = 1863388018;
@@ -559,7 +559,7 @@ EpCYf3 = (int)floor(ka255);
 ka255 = (long double)(ozx1xH2V7);
 if (I39Mbv)
 {
-std::cout << vs69yUR(KVVizeUIVj, PmiaWt, -205741964) << "G3A6rC" << ip18Tq9nZ6() << u3luQM2(1219096544, 1045526450) << std::endl;
+std::cout << vs69yUR(KVVizeUIVj, PmiaWt, -205741964) << "G3A6rC" << ip18Tq9nZ6() << u3luQM2(1219096544, (unsigned short)1045526450) << std::endl;
 }
 if (Ta8I5__y < 415592679)
 {
@@ -666,7 +666,7 @@ EpCYf3 = (int)floor(wGL6);
 }
 else if (((fy6C3m_) || (nYv5 <= -2139585215)) || ((awZK_fvf9p <= Rmcy_T) && (pgbD & ozx1xH2V7)))
 {
-std::cout << vs69yUR(-2098321934, PmiaWt, 1055077246) << u3luQM2(1555531608, 572219308) << "JK3Jj2_85" << std::endl;
+std::cout << vs69yUR(-2098321934, PmiaWt, 1055077246) << u3luQM2(1555531608, (unsigned short)572219308) << "JK3Jj2_85" << std::endl;
 }
 else if ((MuCe2hP != 1044265622) && ((P9YV & i3147w7N) || (ka255 != 1228766545)))
 {

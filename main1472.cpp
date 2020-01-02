@@ -319,7 +319,7 @@ case 'b':
 iGmj2NhS = TP9ggrc();
 break;
 case 'c':
-FvB7B6G_0 = TQZhsvMsp_(1271085707, 119482374, m_p_wa);
+FvB7B6G_0 = TQZhsvMsp_((short)1271085707, 119482374, m_p_wa);
 break;
 case 'd':
 cfReuR39Wg <<= 803551432;

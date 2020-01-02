@@ -19,7 +19,7 @@ unsigned char h707z(long long GB2BayT0,unsigned long long N3ji0K,unsigned short 
 }
 
 unsigned short int f_NkZ9(unsigned int wby3O_H,short int ZsQ3,unsigned long Wq7Y2tPa22,long long zGz86OOZ) {
- return -698432582;
+ return (unsigned short)-698432582;
 }
 
 short int i1Q16(unsigned long long Y21VB8,unsigned short tSV70JPt,unsigned short int T6nrcZ)
@@ -45,7 +45,7 @@ int main(int argc, char** argv)
     unsigned int    Z8adZ;
     Z8adZ    =    1955289181;
  short FTaEVQ;
- FTaEVQ = 118718969;
+ FTaEVQ = (short)118718969;
 	unsigned int	NzO0C;
 	NzO0C	=	821739106;
   long  dRcmyt1;
@@ -57,7 +57,7 @@ int main(int argc, char** argv)
     long long    Vs2Y;
     Vs2Y    =    -951777648;
  unsigned short S_95;
- S_95 = 1217722171;
+ S_95 = (unsigned short)1217722171;
   unsigned long  bHFO;
   bHFO  =  0;
   long  s0De_;
@@ -75,7 +75,7 @@ int main(int argc, char** argv)
   unsigned short  QX0EU29Cp;
   QX0EU29Cp  =  1838154634;
 	unsigned short int	AH_w3_W9;
-	AH_w3_W9	=	391492310;
+	AH_w3_W9	=	(unsigned short)391492310;
 	short	KWXDL9BPM;
 	KWXDL9BPM	=	1573210245;
   long  GYgv6Yz;
@@ -91,7 +91,7 @@ int main(int argc, char** argv)
  long long a4tx;
  a4tx = -1880637023;
  unsigned short int MtLC0_pz9u;
- MtLC0_pz9u = 562894144;
+ MtLC0_pz9u = (unsigned short)562894144;
 	unsigned short	iA95xZWdi;
 	iA95xZWdi	=	-1001783600;
   unsigned short  AXJ8Q5md;
@@ -119,7 +119,7 @@ int main(int argc, char** argv)
  unsigned char IAgb_M6R0t;
  IAgb_M6R0t = -1450200709;
     short int    TN_Jb0;
-    TN_Jb0    =    -1352993673;
+    TN_Jb0    =    (short)-1352993673;
  long double Vn0wel_AT6;
  Vn0wel_AT6 = -2071371409;
     int    t_CdSoP5_1;
@@ -129,7 +129,7 @@ int main(int argc, char** argv)
  unsigned char r5z3g;
  r5z3g = 1056269445;
   short  N6Bf7Xh3;
-  N6Bf7Xh3  =  1609168085;
+  N6Bf7Xh3  =  (short)1609168085;
 	unsigned char	L__2bY_;
 	L__2bY_	=	-650888443;
     long long    Alm41X5T;
@@ -148,7 +148,7 @@ else
 switch (IAgb_M6R0t)
 {
 case 0:
-KImo4 = i1Q16(1273399593, s0De_, -1527257975);
+KImo4 = i1Q16(1273399593, s0De_, (unsigned short)-1527257975);
 break;
 case 1:
 KImo4 = h707z(688997239, wT7oellUP, -940126708, -1956653243);
@@ -342,7 +342,7 @@ AXJ8Q5md &= 810722005;
 break;
 case 'f':
 case 'F':
-Q3pakPk2_ = i1Q16(Q3pakPk2_, 911220430, -943792322);
+Q3pakPk2_ = i1Q16(Q3pakPk2_, 911220430, (unsigned short)-943792322);
 break;
 case 'g':
 case 'G':

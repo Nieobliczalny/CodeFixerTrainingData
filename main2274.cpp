@@ -21,7 +21,7 @@ int main() {
  long double LaV_3dw5 = 1988349464;
   long  f02_w  =  1676136799;
   long long  r3eq5in  =  -677872725;
-  unsigned char  Z7JrBfp  =  94398448;
+  unsigned char  Z7JrBfp  =  (unsigned char)94398448;
 	long	i358WAJj	=	981946802;
  unsigned int ENtE44s48_ = -167373618;
   long double  NI4gRVFi8  =  -411325809;
@@ -31,7 +31,7 @@ int main() {
 	long long	ySLMCx5	=	1055666130;
     short int    B60htg_    =    -1227262217;
   unsigned long  uN0o5i8M  =  34672818;
-    char    G8VcV    =    1058989590;
+    char    G8VcV    =    (char)1058989590;
     long    L_L4jL21Jp    =    -305828997;
     long long    n08y5Py37O    =    162536366;
  int t5yYR = -393865293;
@@ -42,7 +42,7 @@ int main() {
   unsigned char  h4JFI4XY  =  1995985151;
   double  g5Ta5r4J3k  =  -1439656760;
     int    hPwYBq0i_    =    -1145796756;
-	unsigned char	if1j	=	-2017066886;
+	unsigned char	if1j	=	(unsigned char)-2017066886;
     short int    e_c1k85    =    2125305425;
     long double    zC_Q5Sj    =    -1601767536;
   unsigned long long  rUFHm0795  =  -866974627;
@@ -53,7 +53,7 @@ int main() {
 	char	Pcqctjm	=	1966696298;
     float    v_1z_    =    968710480;
  unsigned int o4Q1 = -338087104;
- unsigned short KxBn = 33533007;
+ unsigned short KxBn = (unsigned short)33533007;
     unsigned short    LRO0O604x5    =    -676733674;
  float V54j = 1934795218;
     float    oDbKoLVLM4    =    -235756313;
@@ -66,7 +66,7 @@ int main() {
   long long  e_r49X  =  2007467099;
 	unsigned short int	dOTzjq	=	-1914801688;
 	double	P__23B9	=	-2096971584;
-    unsigned char    w3bV    =    86506416;
+    unsigned char    w3bV    =    (unsigned char)86506416;
   unsigned char  On4_11ve  =  1293459810;
     unsigned short    sj_WD0B    =    -910510107;
     unsigned short    vSwi_vVX7F    =    1325460891;
@@ -162,7 +162,7 @@ ZGaeb7U = (int)floor(b1G6BG);
 }
 
 b1G6BG = iL5jafA(av3YR, 702450549) / iL5jafA(1898680009, 113380463);
-gxAdB04TA_ = iL5jafA(-468817017, i4Q0K) * 897371695;
+gxAdB04TA_ = iL5jafA((unsigned short)-468817017, i4Q0K) * 897371695;
 
 if ((ZGaeb7U > H5WnM_S6a) || ((MaQ8_nci) || (ht13 < w3bV)))
 {

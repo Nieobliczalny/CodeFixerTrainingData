@@ -31,6 +31,7 @@ char z04_t6_1b(long k8hECI7,unsigned short int mf9oI) {
 }
 
 int main(int argc, char** argv) {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
   short  XBKyyjK3n  =  1568241107,  EU9IR89W  =  -298784949,  hiAuu3N8  =  709382910,  z56Pmu5F_  =  1761875249,  S1Mr6VOhB  =  -833840790,  J3pG74Sl_  =  342934918,  j7R9LX1l  =  1737821904,  QR8shv1  =  1120129133,  y5Z2_X9  =  518530934,  o5pB  =  2114639745,  qEIozT  =  -459568644,  Fd4lh20ONF  =  1836137116,  vd3th2  =  -556145071,  tLZ_kdO990  =  -921781077,  N030s  =  198399321,  V0szr  =  -1678764661,  Ws_273  =  -889749918,  pb320Z_  =  696235586,  N2721  =  -433701866,  faXjid  =  -549037539,  M1NWN  =  -1228631304,  JAP__k  =  -2119680435,  mbn2H39  =  -748144393,  C5W9mh9cA  =  1251250763,  cuNX  =  790992413,  NL0_P9s4QR  =  -1081843220,  IX2V30  =  1907683805,  Z9wAY7_f  =  -1679878463,  t4jD  =  -1586826870,  K90dthttt  =  -1845905499,  CduIs  =  147891658,  ZMnGfdmb4b  =  1469032760,  N4hK  =  1084600831,  R3nGL7E  =  -1509679260,  KV18lT0_  =  394108422,  REy17XBk6R  =  -1266819785,  b_2ZyH2dL  =  -1838626905,  u1Aw8  =  -682315556,  qy0EI0621s  =  -89775812,  NNySQj  =  -714653827,  Q_dC1EA4  =  -1874051172,  q45Ujf4  =  2073423399,  zzr3KTUl3  =  1615576698,  Oc_fNCS5SD  =  -1860592437,  svTeCB78f  =  -1012340837,  UzvC_r34K1  =  1216527623,  Q0Uk  =  1434834104,  THrxH  =  -858880453,  ulnS37BBGp  =  783435529,  M7L3bu33N2  =  -2125894086,  y_N1T1  =  -750286711,  Be_28s2u  =  -1864705054,  j2hB14Mz  =  -897476012,  QCadBP  =  1529872871,  PyQ_SX1r  =  -1336820586,  rTSj  =  993269437,  kRUP96y  =  340070632,  k8P58j  =  -1422214628,  H7_f1_4p  =  1664068040,  BAKbf  =  1702082259;
  long e441 = 0, KLD6 = 0, KjsQ5 = 0;
 
@@ -187,7 +188,7 @@ else
 int k = 0;
 while (k < 9)
 {
-z56Pmu5F_ = Z_LA(-1346334401, -1953888903, -1070800759, t4jD);
+z56Pmu5F_ = Z_LA(-1346334401, -1953888903, (short)-1070800759, t4jD);
 k++;
 }
 }
@@ -212,7 +213,7 @@ else
 int k = 9;
 do
 {
-pb320Z_ = PyQg6lbc9M(pb320Z_, 1232651887, 9776125, -1905357960);
+pb320Z_ = PyQg6lbc9M(pb320Z_, 1232651887, (char)9776125, -1905357960);
 k--;
 }
 while (k >= 0);
@@ -250,7 +251,7 @@ case 3:
 N030s &= 1022152125;
 break;
 case 4:
-svTeCB78f = RfWk(-2019145487, 1092090352, -750878719, -1476019849, BAKbf);
+svTeCB78f = RfWk(-2019145487, (short)1092090352, -750878719, -1476019849, BAKbf);
 break;
 case 5:
 Ws_273 = PyQg6lbc9M(Ws_273, -1396254044, 1314477230, XBKyyjK3n);
@@ -297,7 +298,7 @@ else if (IX2V30 & 1574557528)
 {
 if (M7L3bu33N2 < R3nGL7E)
 {
-UzvC_r34K1 = RfWk(-1347106004, N2721, 158335199, -1120550940, e441);
+UzvC_r34K1 = RfWk(-1347106004, N2721, 158335199, (unsigned char)-1120550940, e441);
 }
 }
 else if ((kRUP96y < -1817631948) || ((hiAuu3N8 & 577262433) || (Ws_273)))
@@ -372,7 +373,7 @@ switch (QR8shv1)
 {
 case 'a':
 case 'A':
-y5Z2_X9 = RfWk(y5Z2_X9, 497156313, -1572593939, 882432783, 2058803349);
+y5Z2_X9 = RfWk(y5Z2_X9, 497156313, -1572593939, (unsigned char)882432783, 2058803349);
 break;
 default:
 BAKbf = (int)abs(UzvC_r34K1);
@@ -431,7 +432,7 @@ case 1:
 zzr3KTUl3 = RfWk(2027967114, j7R9LX1l, 1139450874, tLZ_kdO990, 1785505688);
 break;
 case 2:
-REy17XBk6R = PyQg6lbc9M(REy17XBk6R, NNySQj, 1576562551, ZMnGfdmb4b);
+REy17XBk6R = PyQg6lbc9M(REy17XBk6R, NNySQj, (char)1576562551, ZMnGfdmb4b);
 break;
 case 3:
 M1NWN /= 2122457807;
@@ -516,7 +517,7 @@ pb320Z_ = faXjid ^ 1847157303;
 
 if (qEIozT == -1371558685)
 {
-cout << Z_LA(UzvC_r34K1, ulnS37BBGp, JAP__k, k8P58j) << PyQg6lbc9M(-489848028, 1993916407, JAP__k, k8P58j) << y5Z2_X9 << "B0w_Afx" << endl;
+cout << Z_LA(UzvC_r34K1, ulnS37BBGp, JAP__k, k8P58j) << PyQg6lbc9M(-489848028, (unsigned short)1993916407, JAP__k, k8P58j) << y5Z2_X9 << "B0w_Afx" << endl;
 }
 else if (Z9wAY7_f)
 {
@@ -527,7 +528,7 @@ int k = 0;
 do
 {
 ++k;
-y5Z2_X9 = RfWk(460067117, 2010889171, -2000834426, 1805062178, 157746807);
+y5Z2_X9 = RfWk(460067117, (short)2010889171, -2000834426, 1805062178, 157746807);
 }
 while (k < 3);
 }
@@ -612,7 +613,7 @@ KLD6 = z04_t6_1b(-304562602, 1555394279);
 break;
 case 'c':
 case 'C':
-y_N1T1 = PyQg6lbc9M(-354051716, zzr3KTUl3, Oc_fNCS5SD, 916447418);
+y_N1T1 = PyQg6lbc9M((unsigned short)-354051716, zzr3KTUl3, Oc_fNCS5SD, 916447418);
 break;
 case 'd':
 case 'D':
@@ -640,7 +641,7 @@ KV18lT0_ = (int)abs(z56Pmu5F_);
 break;
 case 'j':
 case 'J':
-t4jD = PyQg6lbc9M(-2019185055, -1766375460, -458053107, e441);
+t4jD = PyQg6lbc9M(-2019185055, (unsigned short)-1766375460, -458053107, e441);
 break;
 default:
 KV18lT0_ |= XBKyyjK3n;
@@ -676,7 +677,7 @@ switch (q45Ujf4)
 {
 case 'a':
 case 'A':
-XBKyyjK3n = PyQg6lbc9M(-1070568991, V0szr, y5Z2_X9, -1305042954);
+XBKyyjK3n = PyQg6lbc9M(-1070568991, V0szr, y5Z2_X9, (unsigned char)-1305042954);
 break;
 case 'b':
 case 'B':
@@ -688,7 +689,7 @@ NL0_P9s4QR = KV18lT0_ / THrxH;
 break;
 case 'd':
 case 'D':
-K90dthttt = PyQg6lbc9M(2146220079, 1981270791, -452670295, y5Z2_X9);
+K90dthttt = PyQg6lbc9M(2146220079, (unsigned short)1981270791, -452670295, y5Z2_X9);
 break;
 case 'e':
 case 'E':

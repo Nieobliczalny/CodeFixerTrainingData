@@ -23,6 +23,7 @@ char	Q880704Qo(unsigned long long	VPN1g,unsigned short	Hmchy,unsigned long long	
 
 int main(void) {
     unsigned int    r48e_24isK    =    0,    WIq_I    =    0;
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
   unsigned short int  F81Ro  =  -1738360332,  M5B70R14  =  -255675251,  lJ_045T3  =  -1380224039,  JRj_Q0mM_  =  -544525870,  Jj9zR  =  1518881513,  u8_PkQ7djg  =  1664211785,  uY09  =  1569325999,  sIA_4B63  =  2063094232,  ii956V4  =  -692839967,  G5QM3a  =  357225691,  Aenpc58  =  -1713265474,  V4b6WsO  =  -816282411,  TzSGKi_  =  -1987937347,  Qqrj_8  =  -631513091,  bEFV780T  =  1009788574,  BOUl8Ft8  =  -678588694,  H65hzm  =  1032816555,  Cu92k  =  -136086416,  K7kwe1  =  346725340,  rDX_3  =  769936541,  K0H8  =  -2080120341,  IVlo  =  706608360,  E_br4_  =  -2129393371,  yeMx6  =  -811778491,  Rf05  =  -760364750,  dd8pGBjB  =  -648818184,  D2M8BS  =  -1989274931,  xhIX_4s  =  694910092,  x54T  =  -1642394084,  A77guT5V3f  =  1889442606,  u8Umt_7  =  -616253133,  Q67rl  =  2048406507,  s_XA5P41Nw  =  -491922940,  MJ3vV95V  =  551099013,  I3nM0n  =  1318139680,  u0OfTq  =  -1122932412,  a8kX3  =  1187685138,  LS_7  =  1691946762,  zxnI  =  2046898367,  iMB42M_tC  =  -241339172,  dV_Ms3MFOd  =  -1929001811,  kz4CS  =  83280625,  SQS5wV3  =  582538776,  a7L0y7Zi  =  -2008093975;
 
 K7kwe1 = (unsigned short int)(OhZi1V5s_J + (-347660783));
@@ -142,7 +143,7 @@ catch (int& errorCode)
 {
 yeMx6 = I3nM0n >> 339769484;
 }
-cout << Q880704Qo(G5QM3a, 1223310080, rDX_3) << Q880704Qo(G5QM3a, -11113416, 249873881) << endl;
+cout << Q880704Qo(G5QM3a, 1223310080, rDX_3) << Q880704Qo(G5QM3a, (unsigned short)-11113416, 249873881) << endl;
 cout << "FO4em0a018" << qunFWs7FR() << Q880704Qo(1936092537, u0OfTq, rDX_3) << IVlo << "evYN" << endl;
 
 if (G5QM3a)

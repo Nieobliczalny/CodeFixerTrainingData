@@ -108,7 +108,7 @@ case 0:
 U5I_ = sZ___w4P9A << iv_T1l6lsP;
 break;
 case 1:
-iv_T1l6lsP = womtT(iv_T1l6lsP, RHsx42pGIt, dCKbVJgjZ3, 1784706495, -1776865977);
+iv_T1l6lsP = womtT(iv_T1l6lsP, RHsx42pGIt, dCKbVJgjZ3, 1784706495, (unsigned char)-1776865977);
 break;
 case 2:
 fFD2WWq = womtT(fFD2WWq, 1367114150, U5I_, -566720636, 1114461358);
@@ -185,7 +185,7 @@ int k = 0;
 while (k < 6)
 {
 ++k;
-U5I_ = womtT(353228115, -1163892158, -1731016420, -6468829, 1823808153);
+U5I_ = womtT(353228115, -1163892158, (unsigned short)-1731016420, -6468829, 1823808153);
 }
 }
 ++j;
@@ -269,7 +269,7 @@ while (j < 9);
 }
 while (i >= 0);
 }
-std::cout << RcaYYby() << womtT(1055248216, 605702099, -559058754, 336465539, iv_T1l6lsP) << std::endl;
+std::cout << RcaYYby() << womtT(1055248216, 605702099, (unsigned short)-559058754, 336465539, iv_T1l6lsP) << std::endl;
 
 fFD2WWq ^= RHsx42pGIt;
 {
@@ -295,7 +295,7 @@ case 0:
 sZ___w4P9A = RcaYYby();
 break;
 case 1:
-GQ6yU2N17 = womtT(1273038169, -571819954, -933791932, fuRGz, uK1vpy8);
+GQ6yU2N17 = womtT(1273038169, -571819954, (unsigned short)-933791932, fuRGz, uK1vpy8);
 break;
 default:
 dCKbVJgjZ3 &= 1731142042;
@@ -337,7 +337,7 @@ else
 {
 for (int k = 6; k >= 0; --k)
 {
-pfM6gD9b = womtT(256128834, 1304397435, GQ6yU2N17, 1268018460, d984);
+pfM6gD9b = womtT(256128834, 1304397435, GQ6yU2N17, (char)1268018460, d984);
 }
 }
 --i;

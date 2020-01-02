@@ -199,7 +199,7 @@ std::cout << Va5563q_a2 << V86JBH4 << e4m233M6() << V86JBH4 << "Ka2MO_b" << std:
 }
 else
 {
-std::cout << lUN0(2020384453, g6i27M, K_RC38Ow, -494491983) << "Rpm3tWv" << "c3VC_" << fAxBe85O(t95D14Tl, 820443197, K_RC38Ow, -351869294) << e4m233M6() << std::endl;
+std::cout << lUN0(2020384453, g6i27M, K_RC38Ow, -494491983) << "Rpm3tWv" << "c3VC_" << fAxBe85O(t95D14Tl, 820443197, K_RC38Ow, (unsigned short)-351869294) << e4m233M6() << std::endl;
 }
 for (int i = 6; i >= 0; i--)
 {

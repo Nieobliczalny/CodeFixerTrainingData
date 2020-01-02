@@ -17,7 +17,7 @@ int    u8Plsol(short int    JO0J,long    f8sxOt_t)    {
 }
 
 short int ivWCB82R(unsigned char YDla_3db,unsigned short int ksDL0Mg,unsigned char DC7ng_SVT,unsigned int LFq0,long FU53xw0F5) {
- return -7116009;
+ return (short)-7116009;
 }
 
 unsigned short int  xec5XS_(unsigned short int  i4vb19u7Y,long  eMyiDs6_,unsigned int  iTD_,unsigned char  aUF5eiGvhL,long  UJutl4Q)
@@ -40,7 +40,7 @@ int main(void) {
 DLWBSJ = 1530616971 / cCt3;
 if ((DLWBSJ == -514151336) && ((LZH39 == XhPd867a) || (LZH39 < -521311011)))
 {
-cout << ivWCB82R(DLWBSJ, Vo8jJ, cCt3, -1189012663, LZH39) << "hshm1VS" << ivWCB82R(DLWBSJ, -1423383143, cCt3, -81438323, LZH39) << xec5XS_(DLWBSJ, Vo8jJ, -252509512, 1063001980, LZH39) << endl;
+cout << ivWCB82R(DLWBSJ, Vo8jJ, cCt3, -1189012663, LZH39) << "hshm1VS" << ivWCB82R(DLWBSJ, -1423383143, cCt3, -81438323, LZH39) << xec5XS_(DLWBSJ, Vo8jJ, -252509512, (unsigned char)1063001980, LZH39) << endl;
 }
 else
 {

@@ -63,7 +63,7 @@ case 0:
 bOHy = wt5b(-1743663336, 179485798, -868350373);
 break;
 case 1:
-bOHy = wt5b(O5jPUi9I, 1621839859, 562259001);
+bOHy = wt5b(O5jPUi9I, (short)1621839859, 562259001);
 break;
 case 2:
 d7l3rH <<= 1367251132;

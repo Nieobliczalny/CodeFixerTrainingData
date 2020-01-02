@@ -55,7 +55,7 @@ int main(void) {
   unsigned char  jL3LWY;
   jL3LWY  =  -1758504537;
   unsigned short int  l6gfC10t5Q;
-  l6gfC10t5Q  =  2123106093;
+  l6gfC10t5Q  =  (unsigned short)2123106093;
 	long	X7uz;
 	X7uz	=	-1146443678;
 

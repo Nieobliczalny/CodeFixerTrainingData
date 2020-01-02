@@ -33,7 +33,7 @@ int main(void) {
   unsigned short  Yg7Au7_7_P;
   Yg7Au7_7_P  =  12909591;
     unsigned char    S1s1nJT5F9;
-    S1s1nJT5F9    =    -916900932;
+    S1s1nJT5F9    =    (unsigned char)-916900932;
  unsigned int s7gA5e4;
  s7gA5e4 = 1482502366;
     unsigned short int    uUYYT4Oq;
@@ -43,7 +43,7 @@ int main(void) {
 	unsigned char	q76_9m;
 	q76_9m	=	-673394985;
  short int V8YMg0V;
- V8YMg0V = -682916061;
+ V8YMg0V = (short)-682916061;
   unsigned short  NXk7_ofd;
   NXk7_ofd  =  1886838964;
   unsigned int  cYM8;
@@ -59,7 +59,7 @@ int main(void) {
  float Eq8X87nt5p;
  Eq8X87nt5p = -1003015915;
 	unsigned short	DTc3Vv;
-	DTc3Vv	=	1485109154;
+	DTc3Vv	=	(unsigned short)1485109154;
  float cLX5_;
  cLX5_ = 1356344383;
     unsigned short    T_ZlGwV0;
@@ -79,7 +79,7 @@ int main(void) {
   unsigned int  h98_8j;
   h98_8j  =  -449635077;
     unsigned short int    kW6a79K;
-    kW6a79K    =    -981166307;
+    kW6a79K    =    (unsigned short)-981166307;
     unsigned short    rt826oe;
     rt826oe    =    -634473210;
  short udKXFI2;
@@ -89,7 +89,7 @@ int main(void) {
   long long  lCv5RN2_q8;
   lCv5RN2_q8  =  -1210434314;
     unsigned short    Ans0xHxl;
-    Ans0xHxl    =    -1968053023;
+    Ans0xHxl    =    (unsigned short)-1968053023;
 	double	Kk_m300;
 	Kk_m300	=	-1222226622;
   short int  FkGdQz2;
@@ -113,7 +113,7 @@ int main(void) {
 	unsigned int	F1Ve1hh_N;
 	F1Ve1hh_N	=	-1676057684;
   unsigned char  Td9j7iw8T;
-  Td9j7iw8T  =  712817756;
+  Td9j7iw8T  =  (unsigned char)712817756;
 	unsigned short int	S5_ny;
 	S5_ny	=	629525747;
  unsigned int avUV;
@@ -132,7 +132,7 @@ i++;
 }
 }
 M_OsZSWkQ = DTc3Vv / HTqQ;
-cout << n4SZi(70254012, -427343384, -1906366227) << b3m_I_Zw0(udKXFI2, s7gA5e4, fs0k, e7yz9zK) << b3m_I_Zw0(1283419781, -2043663209, fs0k, -1978908461) << cG__l76tM << M_OsZSWkQ << endl;
+cout << n4SZi(70254012, -427343384, -1906366227) << b3m_I_Zw0(udKXFI2, s7gA5e4, fs0k, e7yz9zK) << b3m_I_Zw0(1283419781, (unsigned short)-2043663209, fs0k, -1978908461) << cG__l76tM << M_OsZSWkQ << endl;
 
 if (S1s1nJT5F9 & 1605669370)
 {
@@ -144,7 +144,7 @@ switch (yDZLE__8I)
 {
 case 'a':
 case 'A':
-R13S6Qi = b3m_I_Zw0(465250772, 388141442, -2034544533, Oe_4F);
+R13S6Qi = b3m_I_Zw0(465250772, (unsigned short)388141442, -2034544533, Oe_4F);
 break;
 case 'b':
 case 'B':

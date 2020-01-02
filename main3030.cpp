@@ -23,7 +23,7 @@ short int cW3IF4(unsigned long long h442M8s,unsigned long long S973,unsigned cha
 }
 
 unsigned short  A1IE13()  {
-  return  1488775704;
+  return  (unsigned short)1488775704;
 }
 
 int main()
@@ -227,7 +227,7 @@ else if (lf58 > -1685522778)
 {
 if (((gGllD_ & 218018425) && (jgErj59 >= 476908408)) && (Ir6Ot < -1022647023))
 {
-UIpF = q_166(73728811);
+UIpF = q_166((short)73728811);
 }
 else
 {

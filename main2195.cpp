@@ -65,7 +65,7 @@ unsigned long long VU8mtj8tY(int Dblxx8RRDj,unsigned int hZeYH,unsigned long NXs
 }
 
 short int    SlwKMlhB7()    {
-    return    -1129069988;
+    return    (short)-1129069988;
 }
 
 unsigned short	ule87ZN8()

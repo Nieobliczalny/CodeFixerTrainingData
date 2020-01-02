@@ -21,7 +21,7 @@ int main(void) {
   double  l5IM1L4s94  =  2036826955;
  float B7miQH82rU = 601488683;
 	unsigned long	pU4hb	=	686277641;
-  unsigned char  H370  =  -342390958;
+  unsigned char  H370  =  (unsigned char)-342390958;
   char  pSPj  =  380159625;
  short int JwfiV = -1754115789;
   unsigned long  EM7wQhgh  =  0;
@@ -37,7 +37,7 @@ int main(void) {
     double    qWsKmb1_Dn    =    1685150073;
 	float	r1V7ZhKS	=	-1981804565;
   double  RgyPyqd  =  565411672;
-    unsigned short int    WGZNg158    =    604745727;
+    unsigned short int    WGZNg158    =    (unsigned short)604745727;
     long long    VQ68    =    -1640562984;
  unsigned int p_Rkxi55 = 1972906925;
 	unsigned char	p3d0A	=	454156431;
@@ -49,7 +49,7 @@ int main(void) {
 	int	wfjhilX40	=	478176047;
     float    g_g7    =    -110088004;
   unsigned long  nvl9joXPe  =  1633442663;
-	unsigned short int	an500KT	=	1453797808;
+	unsigned short int	an500KT	=	(unsigned short)1453797808;
  unsigned int RAI_ = -1007426257;
   long  X48v2nT  =  1881951746;
 	int	MA11	=	-1250159229;
@@ -59,7 +59,7 @@ int main(void) {
     long    fr6K    =    13620475;
     unsigned int    wRFHE8_Xt    =    -1388375510;
     int    V3FhSd758    =    667085961;
-	unsigned char	cV_M	=	-1211116494;
+	unsigned char	cV_M	=	(unsigned char)-1211116494;
  long long p09zb_ELq = -2107348175;
  int S6i5Iz4Ms4 = 1273205616;
 	int	Y2vA77a	=	1280362699;
@@ -71,7 +71,7 @@ switch (s29QQx6_r3)
 {
 case 'a':
 case 'A':
-EM7wQhgh = OgpP4(p09zb_ELq, -42439833, pSPj, nvl9joXPe);
+EM7wQhgh = OgpP4(p09zb_ELq, (unsigned short)-42439833, pSPj, nvl9joXPe);
 break;
 case 'b':
 case 'B':
@@ -95,7 +95,7 @@ l5IM1L4s94 = (int)floor(B7miQH82rU);
 break;
 case 'g':
 case 'G':
-zwRGBr = OgpP4(1996869895, -957122553, -1055582947, wRFHE8_Xt);
+zwRGBr = OgpP4(1996869895, -957122553, (short)-1055582947, wRFHE8_Xt);
 break;
 case 'h':
 case 'H':
@@ -114,7 +114,7 @@ OmZyb = l3f07Xvk / zwRGBr;
 break;
 }
 
-EM7wQhgh = OgpP4(-2084939936, -1272365300, 897341740, 2036253648);
+EM7wQhgh = OgpP4(-2084939936, -1272365300, (short)897341740, 2036253648);
 
 p_Rkxi55 |= 2085400538;
 {
@@ -133,7 +133,7 @@ GjsAk2Z = W70JxGbiO % H370;
 
 B7Lv9jnE4J = (char)(WGZNg158);
 RAI_ = (unsigned int)(Es4_5);
-zwRGBr = OgpP4(B7dGR56__, 217530776, 619718746, -1343843908);
+zwRGBr = OgpP4(B7dGR56__, 217530776, (short)619718746, -1343843908);
 {
 int i = 9;
 do
@@ -161,7 +161,7 @@ case 'd':
 EM7wQhgh = OgpP4(qWsKmb1_Dn, KiA4S, xo5flcS, V3FhSd758);
 break;
 case 'e':
-EM7wQhgh = OgpP4(-1841190408, 1523195312, B7Lv9jnE4J, -795428185);
+EM7wQhgh = OgpP4(-1841190408, (unsigned short)1523195312, B7Lv9jnE4J, -795428185);
 break;
 case 'f':
 cV_M = s29QQx6_r3 << YK_i_;
@@ -180,7 +180,7 @@ case 0:
 EM7wQhgh = OgpP4(2060790541, l3f07Xvk, 172339689, nvl9joXPe);
 break;
 case 1:
-EM7wQhgh = OgpP4(88367697, 2125830609, -1538500441, nvl9joXPe);
+EM7wQhgh = OgpP4(88367697, (unsigned short)2125830609, -1538500441, nvl9joXPe);
 break;
 case 2:
 dFpkDaaklG = (int)abs(r1V7ZhKS);
@@ -198,7 +198,7 @@ case 6:
 EM7wQhgh = OgpP4(K5hY5Z_Jq, 711646754, bbZJR064y, an500KT);
 break;
 default:
-zwRGBr = OgpP4(wRFHE8_Xt, 1123583158, -1673286280, p_Rkxi55);
+zwRGBr = OgpP4(wRFHE8_Xt, (unsigned short)1123583158, -1673286280, p_Rkxi55);
 break;
 }
 
@@ -248,7 +248,7 @@ EX3w = (int)ceil(B7miQH82rU);
 }
 else
 {
-zwRGBr = OgpP4(H370, 706540927, 165523828, 880127791);
+zwRGBr = OgpP4(H370, (unsigned short)706540927, 165523828, 880127791);
 }
 EM7wQhgh = OgpP4(1591079374, 222953372, EM7wQhgh, -1585899583);
 
@@ -262,7 +262,7 @@ i--;
 while (i >= 0);
 }
 
-std::cout << OgpP4(WGgt, p09zb_ELq, -694022403, bbZJR064y) << wfjhilX40 << OgpP4(WGgt, p09zb_ELq, -1468771042, -129226926) << std::endl;
+std::cout << OgpP4(WGgt, p09zb_ELq, -694022403, bbZJR064y) << wfjhilX40 << OgpP4(WGgt, p09zb_ELq, (short)-1468771042, -129226926) << std::endl;
 
 X48v2nT >>= GjsAk2Z;
 {
@@ -293,7 +293,7 @@ zwRGBr = OgpP4(KiA4S, RgyPyqd, WGZNg158, B7miQH82rU);
 
 if ((H370 / zwRGBr) == -1511703375)
 {
-std::cout << OgpP4(KiA4S, -912032183, -885527299, -481493175) << p_Rkxi55 << OgpP4(-255794221, -1121059204, WGZNg158, B7miQH82rU) << "V6O6S" << std::endl;
+std::cout << OgpP4(KiA4S, -912032183, (short)-885527299, -481493175) << p_Rkxi55 << OgpP4(-255794221, -1121059204, WGZNg158, B7miQH82rU) << "V6O6S" << std::endl;
 }
 dFpkDaaklG = (int)ceil(l5IM1L4s94);
 EM7wQhgh = OgpP4(s29QQx6_r3, 713332224, JwfiV, W70JxGbiO);

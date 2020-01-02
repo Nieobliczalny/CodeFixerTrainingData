@@ -9,6 +9,7 @@
 
 int main() {
  int cuKY7 = 0;
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
   short int  KZz1  =  1776220163,  i06y3P4  =  400963617,  w_1BcMt  =  69068850,  ZZMC94  =  -1950350365,  O1_la  =  -1094099700,  BOhWX1  =  1493380768,  Ca_8cM9R  =  1327241104,  ICGEAW  =  -1412732434,  zbp_b  =  962165272,  Z03Cati3cV  =  -1300308953,  I65e  =  -1209786900,  fOhe_pJHU  =  -1477881089,  bYpy  =  1516719476,  X0if6  =  263158665,  Xs6h7Jk2Gz  =  705109199,  qAo0  =  665446001,  J8hm3U  =  618816146,  pJ5DDI  =  -1118490888,  w3d6  =  1694223742,  B82ET  =  2072784322,  p8kphiV80  =  -1209439615,  u969qrqMzV  =  -1800763771,  YY8Wu  =  -1635018718;
 
 std::cout << B82ET << B82ET << "T54_yh5T" << fOhe_pJHU << std::endl;
@@ -61,7 +62,7 @@ case 7:
 pJ5DDI = p8kphiV80 + 458180472;
 break;
 case 8:
-I65e = (YY8Wu > cuKY7) ? -1214449816 : -1291258821;
+I65e = (YY8Wu > cuKY7) ? -1214449816 : (short)-1291258821;
 break;
 case 9:
 I65e *= w_1BcMt;
@@ -307,7 +308,7 @@ BOhWX1 = (int)abs(cuKY7) + (1937561978);
 }
 else
 {
-i06y3P4 = (ICGEAW & -782670804) ? -1592748799 : 882149460;
+i06y3P4 = (ICGEAW & -782670804) ? -1592748799 : (short)882149460;
 }
 }
 else if (O1_la & -340599283)

@@ -14,7 +14,7 @@ int main(int argc, char** argv)
  long long aHtEMf = 0;
   double  ZURzs  =  -1781446428;
   int  d7G7LPn_9  =  1240240376;
-  unsigned short int  vdEJ_2_  =  1764972489;
+  unsigned short int  vdEJ_2_  =  (unsigned short)1764972489;
     unsigned int    XUVO    =    -1081819566;
   unsigned short  U4Mfk  =  -1115634184;
   unsigned int  ckv5l4p2lE  =  307734767;
@@ -27,7 +27,7 @@ int main(int argc, char** argv)
     unsigned long long    mVJQUR    =    1729345632;
     unsigned int    H3hF0i_j1g    =    1004933932;
 	float	OJRHk45T	=	1506708446;
-	char	B_TMz2kK	=	-1499222617;
+	char	B_TMz2kK	=	(char)-1499222617;
   unsigned short  UM5vi0  =  1659224332;
     unsigned short int    Qwu7j    =    2112681322;
     long long    A0Kix    =    2031443576;
@@ -37,7 +37,7 @@ int main(int argc, char** argv)
 	unsigned long	qEY_2y	=	1412019586;
   unsigned long  fEnZwOmOC  =  -271059377;
     long    BcMkC8E    =    1496023096;
-  char  YmjUhR0  =  -97396086;
+  char  YmjUhR0  =  (char)-97396086;
     long    LRSp48B    =    -303651095;
  short md3hG = 758393925;
   short  V_V_h4A  =  -844605767;
@@ -49,7 +49,7 @@ int main(int argc, char** argv)
     unsigned long long    C95Cgr    =    814468050;
     double    WRoyIw4    =    -1670803699;
  unsigned int rDkjK = -1784325499;
- unsigned short int N_wH1kqg = 1034259568;
+ unsigned short int N_wH1kqg = (unsigned short)1034259568;
 	unsigned long	cUV4AHwx	=	-138607760;
 	short	Uj_3zVp	=	1699685794;
 	unsigned long	A9ZZm0	=	0;
@@ -59,7 +59,7 @@ int main(int argc, char** argv)
   long  url71  =  773147246;
  short int sDB2Ka2 = -1643735183;
 	char	X18_	=	-1188113941;
- unsigned char F80dh7KEfm = 513825822;
+ unsigned char F80dh7KEfm = (unsigned char)513825822;
 	long long	MD_tn	=	881433242;
     long    ltq4BSW    =    -1091963272;
  unsigned long long yHA35z = 1410060482;
@@ -302,7 +302,7 @@ case 'e':
 OJRHk45T = (int)floor(ZURzs);
 break;
 default:
-Qwu7j = (d7G7LPn_9 != 1868676353) ? -1219095149 : -284059282;
+Qwu7j = (d7G7LPn_9 != 1868676353) ? -1219095149 : (unsigned short)-284059282;
 break;
 }
 OJRHk45T = (int)floor(jT_Gk80);

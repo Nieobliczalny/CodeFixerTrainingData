@@ -33,7 +33,7 @@ int main(int argc, char** argv) {
   short  j4P9_;
   j4P9_  =  -851476711;
     unsigned short    AtvJvgL;
-    AtvJvgL    =    -1554696766;
+    AtvJvgL    =    (unsigned short)-1554696766;
  long long SiSfi26oDy;
  SiSfi26oDy = -1188695258;
  unsigned long long v1r_S8LWI;
@@ -43,7 +43,7 @@ int main(int argc, char** argv) {
     unsigned short    hiBisv;
     hiBisv    =    873277308;
     unsigned short int    e4w5;
-    e4w5    =    1825060088;
+    e4w5    =    (unsigned short)1825060088;
  short LXD4;
  LXD4 = 2084810493;
   float  Pt4G;
@@ -85,7 +85,7 @@ j4P9_ = izUz();
 }
 if (v1r_S8LWI != 251022562)
 {
-OP36C782_m = Erz0nv(e4w5, -1301646671, 340008814, D023Th3vTN, -954226214);
+OP36C782_m = Erz0nv(e4w5, -1301646671, (unsigned short)340008814, D023Th3vTN, -954226214);
 }
 
 {
@@ -150,7 +150,7 @@ cout << Wg_LOe << izUz() << "Uamag2" << v1r_S8LWI << rTY7Fb << endl;
 }
 D023Th3vTN = (int)ceil(Pt4G);
 
-OP36C782_m = Erz0nv(1700817525, -741510654, 1597733895, n_d7ky, tb5B02u);
+OP36C782_m = Erz0nv(1700817525, (short)-741510654, 1597733895, n_d7ky, tb5B02u);
 switch (Wg_LOe)
 {
 case 'a':

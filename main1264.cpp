@@ -139,7 +139,7 @@ catch (int& errorCode)
 mx36oK8g = l00U5ST();
 }
 }
-std::cout << G6u643p7C(2094462236, 1992382445) << std::endl;
+std::cout << G6u643p7C(2094462236, (char)1992382445) << std::endl;
 if ((U3L3bMqJP == y7o3) && (ZbV9I95MG <= -1181051827))
 {
 Q5Nbd = U3L3bMqJP | Sx3DPQAgY;
@@ -422,7 +422,7 @@ c9rY54RnuP = IfZrS() * AvZYQX;
 break;
 case 'e':
 case 'E':
-U3L3bMqJP = G6u643p7C(112345699, -643070707);
+U3L3bMqJP = G6u643p7C(112345699, (char)-643070707);
 break;
 case 'f':
 case 'F':

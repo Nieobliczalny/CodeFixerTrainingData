@@ -67,7 +67,7 @@ int main(void)
 	IBukB93V	=	-704173001;
 	LaV9A	=	15072213;
 
-if (K5QvWfr(717224542, 1765055153) == 0)
+if (K5QvWfr(717224542, (unsigned char)1765055153) == 0)
 {
 	dv7NvSsC_ = H0MA(hR0b2LIu) / K5QvWfr(717224542, 1765055153);
 }

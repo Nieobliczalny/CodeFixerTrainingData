@@ -55,7 +55,7 @@ while (i >= 0);
 
 for (int i = 0; i < 5; i++)
 {
-zGSw1 = acmfV3IfeC(rwWx7, dj_Jk, dHl7C_1U, 1148690985) - rwWx7;
+zGSw1 = acmfV3IfeC(rwWx7, dj_Jk, dHl7C_1U, (unsigned short)1148690985) - rwWx7;
 }
 vNWEru6 = (float)(uq35ci);
 
@@ -295,7 +295,7 @@ dHl7C_1U = bO6PGVCl1 * jby42h2;
 }
 else
 {
-std::cout << acmfV3IfeC(-1084887367, -361442246, tlX7iI, 558209966) << acmfV3IfeC(775990558, 75483111, 291523186, 2064934315) << "UMv9B5dn" << std::endl;
+std::cout << acmfV3IfeC(-1084887367, -361442246, tlX7iI, 558209966) << acmfV3IfeC(775990558, 75483111, 291523186, (unsigned short)2064934315) << "UMv9B5dn" << std::endl;
 }
 pU89zJ_y9V = (int)abs(pi90);
 

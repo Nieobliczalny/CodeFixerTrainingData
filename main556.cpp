@@ -34,6 +34,7 @@ short	R603(long	ka4T9u_0L)	{
 
 int main(int argc, char** argv)
 {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
 	unsigned short	I9o_	=	1351129841,	Y_Gb_uh6U	=	-1112122121,	xzAh5E	=	-406537777,	j0_5	=	-794806613,	WfWbsqm4qs	=	-999056947,	cx2nNhR8	=	-1341298578,	p_Sh6	=	-57811540,	ZSOu	=	-1229412499,	r5J3Q6Ak_K	=	666966651,	Nbrx9YA	=	2015661907,	U6y5_8GnnP	=	-144229923,	sIIG9Kc6	=	-210626442,	PQt6RE	=	1028396969,	iFSxxo6W	=	936514155,	vZ_M_9	=	992364415,	SR7Gky_dVv	=	-2076087405,	i8N44_	=	-783914159,	HBrjq6	=	-1051629434,	aqX6	=	977838403,	c7sz	=	1707133992,	Tm442G	=	-596755210,	PVuW1	=	-1047383681,	Urlp20k_K	=	-1821539132,	Oy34XNb_	=	555095661,	g4nYc	=	-1557213911,	G7ZOtcT	=	1664508240,	k8FH	=	641338351,	ef_6M	=	2106949439,	s6_Vy_	=	-1481332578,	sxzBFM5c5X	=	-1325810069,	oO10Bz	=	1137897352,	lk2wRlY	=	1359670113,	N9hsS10YV8	=	-814361646,	t2M3m7UBN2	=	2069739921,	Zs_Nn1	=	48148936,	l1nSAxu7s	=	1251142251,	ZVBW1YQ8_b	=	1052202005,	bfJRkI0F	=	1241945672,	EKq6nxx	=	406869861,	A7Z7L7MBi	=	880076806,	wRtb6JpL9	=	776098238,	Gm5ea	=	-217392791,	KFYkMbm7S_	=	821813574,	HvM_L_TDLY	=	2016765187,	SV904a1	=	565448228,	skj_m15gc1	=	-875338918,	QRSF3_	=	536245601,	HL2b	=	-1491359711,	NS0vUR5x	=	329104050,	mK5Fq	=	174477034,	iXPo9rP_U_	=	-1068187907,	DXLz3	=	26780538,	dANI	=	256140142,	bTSh	=	-1027634077,	c2uGM	=	-100965708,	Fx62b	=	316136826,	W_usQyK	=	-2046326085,	YZ74	=	-1297473381,	Lenuy	=	1633641027,	XQ0uh	=	-1466332073,	DF1Q	=	2022747510,	h2bH	=	-1149840994,	QP0ZM_7	=	144366893,	lJpm	=	-1984746240,	U9Tbscz_	=	85957042,	ddjtt5qA9o	=	-1922081632,	s3i__G	=	-989815761,	gJ8yU17	=	-1728695147,	kMV9B06	=	-631182427,	P1ZR7UB4	=	-720659197,	BtKrB980	=	-774436049,	dO_Yc8_7	=	182189670,	PLHiN0Ifpj	=	-1783555848,	JGEL_	=	-713999703,	hEr8_o83	=	-1482443180,	Jua10A4	=	-474928340,	LKFc8I7O	=	-1226133829,	m1HttK4J_	=	269137632,	s4HsKj7286	=	-1702359662,	UdW2Xq	=	179068569,	dwrc1_dJ_N	=	2045479726,	rH4I6rDl	=	-1090566184,	N5UDJY	=	1858362573;
  unsigned long long sh8jd0A = 0, h05_ = 0, L8a8iIW0 = 0, o2ZaY9 = 0;
 
@@ -75,7 +76,7 @@ Fx62b = i85K14zM(Fx62b, 1394428551);
 break;
 case 'h':
 case 'H':
-DXLz3 = i85K14zM(Fx62b, -970641120) & dANI;
+DXLz3 = i85K14zM(Fx62b, (short)-970641120) & dANI;
 break;
 case 'i':
 case 'I':
@@ -140,7 +141,7 @@ case 0:
 aqX6 = QP0ZM_7 - Fx62b;
 break;
 case 1:
-bTSh = opCzG_rg(-1609224119, 981568231);
+bTSh = opCzG_rg(-1609224119, (short)981568231);
 break;
 }
 BtKrB980 = R603(BtKrB980);
@@ -163,7 +164,7 @@ else
 {
 if ((A7Z7L7MBi <= Urlp20k_K) && (SV904a1 < 1124655845))
 {
-oO10Bz = TJ9dYg6j(oO10Bz, -594897310, 925568295, 1696206051);
+oO10Bz = TJ9dYg6j(oO10Bz, -594897310, 925568295, (char)1696206051);
 }
 else if (((m1HttK4J_ != SV904a1) && (NS0vUR5x >= sxzBFM5c5X)) || (ZSOu & U4vv8_y6G))
 {
@@ -175,7 +176,7 @@ h05_ = g9FK_6w(1525175791, WfWbsqm4qs, hEr8_o83);
 }
 else if (h2bH == JCGsV1Cyor)
 {
-Nbrx9YA = TJ9dYg6j(Nbrx9YA, l1nSAxu7s, 1897776992, -268356031);
+Nbrx9YA = TJ9dYg6j(Nbrx9YA, l1nSAxu7s, 1897776992, (char)-268356031);
 }
 else if ((PQt6RE > QP0ZM_7) && (dO_Yc8_7 == 1768637350))
 {
@@ -187,7 +188,7 @@ c7sz = t2M3m7UBN2 % 889502658;
 }
 else
 {
-EKq6nxx = opCzG_rg(1080171250, -1904916364);
+EKq6nxx = opCzG_rg(1080171250, (short)-1904916364);
 }
 }
 }
@@ -321,7 +322,7 @@ Nbrx9YA = U9Tbscz_ | c2uGM;
 break;
 case 'e':
 case 'E':
-aqX6 = TJ9dYg6j(aqX6, 1130442597, -2057815798, kMV9B06);
+aqX6 = TJ9dYg6j(aqX6, 1130442597, (char)-2057815798, kMV9B06);
 break;
 default:
 UdW2Xq &= c2uGM;
@@ -402,7 +403,7 @@ if (hEr8_o83 <= -809704765)
 {
 for (int k = 0; k < 3; ++k)
 {
-s4HsKj7286 = opCzG_rg(1248039470, -403267609);
+s4HsKj7286 = opCzG_rg(1248039470, (short)-403267609);
 }
 }
 }
@@ -422,7 +423,7 @@ do
 j++;
 for (int k = 6; k >= 0; --k)
 {
-Nbrx9YA = TJ9dYg6j(-1660609523, 1392450511, 1058305156, -1708436752);
+Nbrx9YA = TJ9dYg6j(-1660609523, 1392450511, 1058305156, (char)-1708436752);
 }
 }
 while (j < 6);
@@ -459,7 +460,7 @@ L8a8iIW0 = g9FK_6w(-1546868054, -478908863, -689980906);
 }
 else
 {
-bTSh = TJ9dYg6j(bTSh, iFSxxo6W, p_Sh6, 1630218853);
+bTSh = TJ9dYg6j(bTSh, iFSxxo6W, p_Sh6, (char)1630218853);
 }
 }
 }

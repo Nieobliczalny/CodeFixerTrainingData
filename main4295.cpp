@@ -11,7 +11,7 @@ using namespace std;
 int main(void)
 {
 	short int	Qtzj0	=	1350915579;
- unsigned short v35Ut = 2000610697;
+ unsigned short v35Ut = (unsigned short)2000610697;
  char Ggsc0tXJT = -795337074;
 	char	RW95	=	558082820;
  unsigned int c5L2I = 2050716600;
@@ -23,7 +23,7 @@ int main(void)
   unsigned short int  Y26znKa6  =  753698388;
   unsigned long  mUs2nqKscC  =  -884606271;
     long    Mnr47    =    -31066664;
- unsigned short int b40O1hT0 = 2035416842;
+ unsigned short int b40O1hT0 = (unsigned short)2035416842;
 	long	EXc491	=	-982905211;
  unsigned short ERZzwQLYWo = 1078285386;
   long long  q2N8I  =  802101853;
@@ -35,7 +35,7 @@ int main(void)
   unsigned char  UM_3Oie  =  -466572676;
   long  xq6_E5  =  204731934;
   unsigned int  jtesYTc16  =  1507659985;
-	unsigned char	D3Q7qj_x0	=	57624096;
+	unsigned char	D3Q7qj_x0	=	(unsigned char)57624096;
     unsigned char    kUrLbmtnwt    =    -992763749;
 	double	Nk8I6	=	952098970;
  unsigned char P13_jXCY = -609153368;
@@ -45,7 +45,7 @@ int main(void)
   unsigned char  zY5QZ  =  878427403;
  unsigned short int Dup4Yo = 1197696115;
   int  n_TWr7Sm7K  =  -1076275186;
-	unsigned short	lSxRD6	=	825326913;
+	unsigned short	lSxRD6	=	(unsigned short)825326913;
     short int    Kvnry    =    693549068;
 	long long	M8oW6Z4zRx	=	645318603;
   short  FZJ5gals_  =  99175408;
@@ -56,7 +56,7 @@ int main(void)
     unsigned short    lZ8b66WoL    =    1233186316;
     long    F1J1U6rhf3    =    -1852475126;
   unsigned long long  M4roz4  =  -1060904554;
-  char  t6ioVfYpr  =  -903485188;
+  char  t6ioVfYpr  =  (char)-903485188;
 	long long	pDH9cTaL	=	-1929652972;
   long long  ykD_ZF  =  -1866313434;
  long ktL10y7w = -1373458232;
@@ -72,7 +72,7 @@ int main(void)
 	float	d_w6tOXEz	=	2138765569;
   float  XfX8  =  1865456441;
  double uNfzm = 726888204;
-  short int  P2FV  =  1815812774;
+  short int  P2FV  =  (short)1815812774;
 
 if (v35Ut <= n98VY8)
 {
@@ -484,7 +484,7 @@ b40O1hT0 /= J0_7_fNP;
 }
 else if (Slb988Wt != Qtzj0)
 {
-D3Q7qj_x0 = (ykD_ZF > -471422965) ? 1961407577 : -416590165;
+D3Q7qj_x0 = (ykD_ZF > -471422965) ? 1961407577 : (unsigned char)-416590165;
 }
 else if (ERZzwQLYWo < XfX8)
 {

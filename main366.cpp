@@ -22,7 +22,7 @@ unsigned char	oeRa36ydE(unsigned short int	KO9V,unsigned long long	hQ_85Wj__D)
 }
 
 unsigned short int IaJwrqY7T(long y2qjThZ5,unsigned long long x5U04UX79,unsigned short int pr7KtxOyq7,unsigned long YjK_) {
- return 1133526525;
+ return (unsigned short)1133526525;
 }
 
 int main(int argc, char** argv) {

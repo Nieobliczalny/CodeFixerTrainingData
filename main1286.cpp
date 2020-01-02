@@ -19,7 +19,7 @@ unsigned short	ePcqPFuncE(int	b29K__ah,short	lJ0Qe0a4k_)
 
 char    szFr8LT0(unsigned int    kUNXy5B,long    g2FSeDxC4,unsigned long long    dakUXpy)
 {
-    return    441363296;
+    return    (char)441363296;
 }
 
 short G0ZaYb9s(unsigned short int W9VzW_S9A,short int bi71jHL,unsigned char b9NbSYJ,unsigned char YKs8_6UbyW,short h_59x_MnaU) {
@@ -35,7 +35,7 @@ int main()
 {
     unsigned short    VWr14,    HJz7,    AN6GlU2xbM,    jOeQY8S,    gvRXe5qan6,    yDDQ1W98z,    FNjoF2UG51,    gfAF20FV5,    OANn2,    d3_V,    rt2d_MdsR,    n1Y1B0,    DA8WIM,    k9c6,    KFzPEEMb_2;
     VWr14    =    -48091050;
-    HJz7    =    1072790933;
+    HJz7    =    (unsigned short)1072790933;
     AN6GlU2xbM    =    1657050882;
     jOeQY8S    =    1627882234;
     gvRXe5qan6    =    304974981;
@@ -45,7 +45,7 @@ int main()
     OANn2    =    -794866610;
     d3_V    =    -1875520507;
     rt2d_MdsR    =    -2034604389;
-    n1Y1B0    =    48037704;
+    n1Y1B0    =    (unsigned short)48037704;
     DA8WIM    =    253518179;
     k9c6    =    176627543;
     KFzPEEMb_2    =    118882138;
@@ -128,7 +128,7 @@ case 5:
 DA8WIM = G0ZaYb9s(DA8WIM, OANn2, HJz7, RZ2VPVT, VWr14);
 break;
 case 6:
-AN6GlU2xbM = G0ZaYb9s(1209702670, HbM4, AN6GlU2xbM, rt2d_MdsR, 2056368095);
+AN6GlU2xbM = G0ZaYb9s(1209702670, HbM4, AN6GlU2xbM, rt2d_MdsR, (short)2056368095);
 break;
 case 7:
 OANn2 = szFr8LT0(OANn2, 334887106, DA8WIM);
@@ -209,7 +209,7 @@ for (int j = 0; j < 3; j++)
 HJz7 %= 596442704;
 }
 }
-cout << ePcqPFuncE(gvRXe5qan6, jOeQY8S) << "vvn8g0Gn3g" << "HU4zw4" << O_18b2nR(-1049367463, -52551880) << G0ZaYb9s(gvRXe5qan6, jOeQY8S, n1Y1B0, -1280098492, HJz7) << endl;
+cout << ePcqPFuncE(gvRXe5qan6, jOeQY8S) << "vvn8g0Gn3g" << "HU4zw4" << O_18b2nR(-1049367463, -52551880) << G0ZaYb9s(gvRXe5qan6, jOeQY8S, n1Y1B0, (unsigned char)-1280098492, HJz7) << endl;
 
 if (gfAF20FV5 <= -1172949048)
 {
@@ -230,7 +230,7 @@ n1Y1B0 = FNjoF2UG51 / aGJiw0;
 switch (HbM4)
 {
 case 'a':
-jOeQY8S = G0ZaYb9s(602612084, 1248428006, 837502664, -999338446, -911544543);
+jOeQY8S = G0ZaYb9s(602612084, (short)1248428006, 837502664, -999338446, -911544543);
 break;
 case 'b':
 AN6GlU2xbM = O_18b2nR(1621186280, -680703209);

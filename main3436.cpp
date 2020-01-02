@@ -41,7 +41,7 @@ while (j >= 0)
 int k = 0;
 while (k < 4)
 {
-q93_uCSL8 = HsTw7m(1859142180, 403129304, jp99U, 929879995);
+q93_uCSL8 = HsTw7m(1859142180, 403129304, jp99U, (unsigned short)929879995);
 ++k;
 }
 }
@@ -61,7 +61,7 @@ nLiDl10g = (int)abs(nOv6);
 break;
 case 'b':
 case 'B':
-jp99U = HsTw7m(860468782, -1265498081, -794573413, -1959104822) & 1569538924;
+jp99U = HsTw7m(860468782, -1265498081, -794573413, (unsigned short)-1959104822) & 1569538924;
 break;
 case 'c':
 case 'C':
@@ -271,7 +271,7 @@ OEuU_rr = (long)(nLiDl10g);
 int i = 2;
 while (i >= 0)
 {
-cout << "g6_biN7Bk" << HsTw7m(-1600066428, 2031393452, OEuU_rr, -1574128184) << VvAP4 << endl;
+cout << "g6_biN7Bk" << HsTw7m(-1600066428, 2031393452, OEuU_rr, (unsigned short)-1574128184) << VvAP4 << endl;
 --i;
 }
 }

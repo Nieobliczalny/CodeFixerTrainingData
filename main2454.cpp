@@ -23,7 +23,7 @@ int main()
     M0TEB5bZ    =    0;
 	unsigned char	T3UShs,	Nt5VnFo9_,	wtf7TX0R,	NrTOR,	O2Y2QSWk,	qU25n32qh,	q57iEY,	ETz8SdLEnU,	t529IO,	k4Sf,	RZpcn,	W1vG7wo,	BWOcYg8,	j_Y3AJ5a54,	VbwQbEW0,	R_pV,	lBtsSK,	bTT9n7,	IRfrfg0Ih4,	GoV8u8l,	d7wVf_U,	JG0rACxTm9,	N5d84SW_4,	ubC1m,	RKns0xh_N,	O1qjNuVV,	fUoeh7zc8p,	nkU600K,	y81FZm4s40,	o_7GaFD2;
 	T3UShs	=	1867400508;
-	Nt5VnFo9_	=	-157287834;
+	Nt5VnFo9_	=	(unsigned char)-157287834;
 	wtf7TX0R	=	-279359834;
 	NrTOR	=	-588808195;
 	O2Y2QSWk	=	-207279741;
@@ -33,7 +33,7 @@ int main()
 	t529IO	=	-1765562445;
 	k4Sf	=	647578117;
 	RZpcn	=	549560120;
-	W1vG7wo	=	195481387;
+	W1vG7wo	=	(unsigned char)195481387;
 	BWOcYg8	=	-1184721001;
 	j_Y3AJ5a54	=	32836408;
 	VbwQbEW0	=	-1988901780;
@@ -43,7 +43,7 @@ int main()
 	IRfrfg0Ih4	=	-1659645916;
 	GoV8u8l	=	-1343591222;
 	d7wVf_U	=	-1890939627;
-	JG0rACxTm9	=	-799759696;
+	JG0rACxTm9	=	(unsigned char)-799759696;
 	N5d84SW_4	=	1247648971;
 	ubC1m	=	530148226;
 	RKns0xh_N	=	785020194;
@@ -97,7 +97,7 @@ qU25n32qh = (unsigned char)(N5d84SW_4);
 }
 else if (RZpcn <= -274840256)
 {
-Y3b2fk = H45p4s_yH(-592883158, NrTOR, 877516047, 1996347558, -1717296066);
+Y3b2fk = H45p4s_yH(-592883158, NrTOR, (short)877516047, 1996347558, -1717296066);
 }
 else
 {
@@ -198,7 +198,7 @@ else if ((Y3b2fk & 589409272) || (q57iEY >= 1851697886))
 {
 if ((O2Y2QSWk <= -2121982676) && (ubC1m <= 1964498831))
 {
-M0TEB5bZ = H45p4s_yH(2071383485, -1169042832, -1622114967, N5d84SW_4, -1709976998);
+M0TEB5bZ = H45p4s_yH(2071383485, -1169042832, (short)-1622114967, N5d84SW_4, -1709976998);
 }
 else if (ETz8SdLEnU)
 {
@@ -218,7 +218,7 @@ int k = 4;
 do
 {
 --k;
-Y3b2fk = H45p4s_yH(1239550404, 1288166225, -670586757, N5d84SW_4, -1406125916);
+Y3b2fk = H45p4s_yH(1239550404, 1288166225, (short)-670586757, N5d84SW_4, -1406125916);
 }
 while (k >= 0);
 }
@@ -279,7 +279,7 @@ cout << "DBPDk" << H45p4s_yH(RZpcn, ubC1m, -648530182, R_pV, RKns0xh_N) << endl;
 }
 
 N5d84SW_4 = JG0rACxTm9 * Y3b2fk;
-cout << "VguM_" << "h1Kj0sQ" << H45p4s_yH(2057836643, ubC1m, JG0rACxTm9, 1570367713, RKns0xh_N) << endl;
+cout << "VguM_" << "h1Kj0sQ" << H45p4s_yH((char)2057836643, ubC1m, JG0rACxTm9, 1570367713, RKns0xh_N) << endl;
 for (int i = 4; i >= 0; i--)
 {
 switch (RKns0xh_N)
@@ -457,7 +457,7 @@ while (k < 1);
 }
 else
 {
-Y3b2fk = H45p4s_yH(-1003207566, GoV8u8l, -209438935, k4Sf, 1526713434);
+Y3b2fk = H45p4s_yH(-1003207566, GoV8u8l, (short)-209438935, k4Sf, 1526713434);
 }
 }
 catch (int& errorCode)

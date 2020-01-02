@@ -88,7 +88,7 @@ if (B0SO == -1413662950)
 {
 try
 {
-B0SO = IHGcgLTl(1974571246, -1169340169, grdtR, -1082774706);
+B0SO = IHGcgLTl(1974571246, -1169340169, grdtR, (short)-1082774706);
 }
 catch (int& errorCode)
 {
@@ -177,7 +177,7 @@ case 8:
 Z7Q_ = h99vJjop0X();
 break;
 case 9:
-grdtR = IHGcgLTl(-2000336508, -1706097045, B0SO, -494664055);
+grdtR = IHGcgLTl(-2000336508, -1706097045, B0SO, (short)-494664055);
 break;
 default:
 Z7Q_ = (grdtR == B0SO) ? h99vJjop0X() : pA1Ttz9_K;
@@ -262,7 +262,7 @@ B0SO = IHGcgLTl(B0SO, Z7Q_, 973398082, mop86);
 Z7Q_ = IHGcgLTl(-1202351083, Z7Q_, -779681649, 6637651) | 1520011556;
 if (mop86 != -867571359)
 {
-mop86 = IHGcgLTl(261159795, 829772572, B0SO, 55227397);
+mop86 = IHGcgLTl(261159795, (short)829772572, B0SO, 55227397);
 }
 for (int i = 0; i < 6; ++i)
 {

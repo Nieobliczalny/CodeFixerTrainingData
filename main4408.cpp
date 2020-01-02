@@ -18,7 +18,7 @@ int main()
     long double    CGSVR    =    1024887516;
 	unsigned short int	dO4_	=	-182540217;
   unsigned long long  fbb_7  =  1563653646;
- short CLWXCO62VP = -1164530898;
+ short CLWXCO62VP = (short)-1164530898;
  short int r1vHo4h = -1129188910;
     unsigned short int    Ca1xW7t60X    =    0;
   int  A2y4P  =  529798951;
@@ -39,7 +39,7 @@ int main()
     unsigned long    nGtGE    =    -548800204;
  short vh4q59B = 0;
  long double oh95Z0s57 = 172736944;
- unsigned char TFL2Obyf = -1585798776;
+ unsigned char TFL2Obyf = (unsigned char)-1585798776;
 
 dO4_ = (unsigned short int)(dKh_q_ + (ZiV5k));
 

@@ -18,7 +18,7 @@ unsigned short int GQsY_(short int M29aaSU1_A,unsigned long XWZ8Cht9l,unsigned s
 
 unsigned short X0QA(long hDSE,long evHzWvIU,short int K9nep16dz)
 {
- return 1771333333;
+ return (unsigned short)1771333333;
 }
 
 int main(int argc, char** argv)
@@ -32,7 +32,7 @@ if ((sEa_ & Phy604kqM) || (Zo84Jfd != -518006795))
 {
 if ((EN559O) || (K665ZK != 2105964750))
 {
-EN559O = GQsY_(EN559O, 352230225, -126477673);
+EN559O = GQsY_(EN559O, 352230225, (unsigned short)-126477673);
 }
 }
 }
@@ -48,7 +48,7 @@ case 0:
 LnwE452V4 = X0QA(LnwE452V4, 1912608477, -378108426);
 break;
 case 1:
-Y237mC_cOX = GQsY_(-94962188, -1855456639, Zo84Jfd);
+Y237mC_cOX = GQsY_((short)-94962188, -1855456639, Zo84Jfd);
 break;
 case 2:
 Vn1FuQ0 = X0QA(386376084, Y237mC_cOX, LnwE452V4);

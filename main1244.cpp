@@ -9,6 +9,7 @@
 using namespace std;
 
 int main() {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
 	unsigned short	Piqw3p6	=	940433103,	nQ3hz53O	=	1868775850,	E5dX35V98	=	-1796827017,	FGaSi	=	-1041836799,	kfb216j8h	=	-1239337322,	p6gOe4h_S	=	-419204094,	KRa7j608	=	1217209359,	uP7_	=	1956086507,	w_5r	=	1655630692;
 	unsigned long	ln2Y6F8F	=	0;
 

@@ -27,7 +27,7 @@ int main(int argc, char** argv)
   unsigned char  zc8YAPI4  =  694965614;
  double z8V0A4 = 1135017775;
 	long	ZHMfW	=	1475427641;
-  short int  w7g005  =  1295820884;
+  short int  w7g005  =  (short)1295820884;
   double  QLvojv2  =  74687207;
     long    FTUQ3    =    1513331675;
 	int	f2ko	=	-1391788589;
@@ -37,7 +37,7 @@ int main(int argc, char** argv)
  long long RHEP5Nfk_ = 314600332;
 	unsigned char	td_t	=	551434458;
   unsigned char  lE3EX17_6s  =  -2086038607;
-    short int    LgNel    =    281839313;
+    short int    LgNel    =    (short)281839313;
  long long NJ841UdLB = -361049944;
 	unsigned short int	w5v9uwrGTg	=	-219713842;
 	short	oiXJpy	=	0;
@@ -47,7 +47,7 @@ int main(int argc, char** argv)
     double    W37Vg90    =    -201687975;
   long long  e8R7__lQ_Y  =  1724685211;
   unsigned short  x25jVg2gY  =  -280851673;
-	short int	n94JrtP	=	1700800048;
+	short int	n94JrtP	=	(short)1700800048;
  char GaQ2 = -1857995482;
 	long long	p_bp	=	-1519490132;
     long    Bv6p3    =    1509512458;
@@ -197,7 +197,7 @@ QLvojv2 = x25jVg2gY | e8R7__lQ_Y;
 break;
 }
 }
-std::cout << vD5dNQCPE << uyJmKZdoen(-1336775105, -1024420579, tkpT8, LgNel, Bv6p3) << "XBipD" << uyJmKZdoen(x25jVg2gY, 1735183758, -2063652682, LgNel, 505337385) << "Z57fWIz59" << std::endl;
+std::cout << vD5dNQCPE << uyJmKZdoen(-1336775105, -1024420579, tkpT8, LgNel, Bv6p3) << "XBipD" << uyJmKZdoen(x25jVg2gY, (unsigned short)1735183758, -2063652682, LgNel, 505337385) << "Z57fWIz59" << std::endl;
 
 vD5dNQCPE = (int)floor(W37Vg90);
 
@@ -310,7 +310,7 @@ p_bp = p_bp + 811562388;
 }
 else if (gywh0mP < -1805225817)
 {
-oiXJpy = uyJmKZdoen(1661077849, 1982307185, p_bp, 1811198555, wsHu);
+oiXJpy = uyJmKZdoen(1661077849, 1982307185, p_bp, (unsigned char)1811198555, wsHu);
 }
 else if (((ZHMfW == wsHu) || (oiXJpy > -558695821)) && (TtHV == -378687673))
 {
@@ -396,7 +396,7 @@ case 'd':
 s5Z88 = Vl__162 >> 1055774545;
 break;
 case 'e':
-e8R7__lQ_Y = (NJ841UdLB & 834668295) ? 1264135669 : uyJmKZdoen(-1219210833, 840263520, GaQ2, w5v9uwrGTg, -373585741);
+e8R7__lQ_Y = (NJ841UdLB & 834668295) ? 1264135669 : uyJmKZdoen(-1219210833, (unsigned short)840263520, GaQ2, w5v9uwrGTg, -373585741);
 break;
 default:
 lE3EX17_6s = ce4O2k(lE3EX17_6s);

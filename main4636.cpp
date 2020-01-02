@@ -19,6 +19,7 @@ unsigned int Fs5vu(unsigned int LRED46I9);
 short    V8R964Ls_(unsigned short    qj900vM5,long long    MMpq,unsigned short int    Y6piKLm3I);
 
 int main(void) {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
  unsigned char a261e = 404080708, A1qDdDzc6 = 692429999, q5VmIhX = -530991745, p3zXkpJ = 24469604, B3_W_ = 2145299013, cW3SbH = -1887185059, oVdzV06 = 2143877040, L1c2q_3_9A = -1583801871, DHW22G55_ = 147032902, XG7K2Q5UE = -1435537316, Na0jG = -631914429, n1_bzMu_S3 = 1937678932, gMb3iFUq0j = -74597218, h45iCy = 1963934648, Bm18Kf_BG = 366153074, sXqHN = 1666786438, Did5 = -335932006, sQqKa6mMb = 1914312479, HSiB = 1502479362, sB59Rb = -859032899, L_nGR2O = -1659787568, YAJ_2LBU = 689660678, ed_cVk__ = -1727140919, D0UF0zV09o = 883330920, RSeh = -795479586, KsSeDF64T5 = 864226757, IFbj = 1126437453, Q7nID7t = 1986160110, fK9Iv8 = -112453950, j1ASD1mpp2 = -1391146785, b9lmV8 = 1981181577, UPbLCuH5 = -354334313, Gf2qB = 9669007, U3T8Z2q3 = -463510291, B3ggZ3w = -1544662834, s7_IN15i30 = 1267807292, PW_33R3A = -2010016937, m0J5gPzGj = 535164822, YnYJHZBxQ = -1652429147, WFoSdP38zm = 1427405574, gk1lK = -495645613, tDk98 = 1828217671, GF7w38AX = 725164214, qA95 = -1772196191, Pgf19Pm6P = -805898724, H2vzANQ = 1985085677, mtMAFs5 = 1678351737, T2qT = -1698969913, NttJ70N_ = 792026801, wV4g1fc9Hn = 623115729, jpEcb3 = -1042942206, qsD6JxzUAr = -1787392701, YQcquuKT9l = 593602842, hYw27r = -1381580909, pj_3vpDQY = 1757598582, f9HWlSB5cT = -217336599, IPy7N4 = -1815508736, KAdw = 2131921858, xBhuj = 923289432, kcqg = 1488730766, yU603 = -1883409887, Nm5t_87 = -2033077498, vCm1x_ = 356117412, yV0_UsFPO = -1334333003, i56R = 359521705, nGyog6W = 495217004, K_G5P79_7 = 1703645361, fU5tT7Yj2z = -1727860494, FQ1K = 1076699191, gyCImwsW3w = -445061738, h0t0b2_ = -734153691, Y30xXu = -595384143, IQu1R_ = -791015364, qTo4U = 2099350838, iVn8ZiXXn = 267764515, LkN15d804 = 556100325;
  char RCdOj = 0, zbS4gN94L = 0, WFPF = 0, gvOp = 0;
 
@@ -238,7 +239,7 @@ RCdOj = (int)abs(WFPF);
 break;
 case 'b':
 case 'B':
-zbS4gN94L = V8R964Ls_(-1394516745, Did5, -1311355142);
+zbS4gN94L = V8R964Ls_(-1394516745, Did5, (unsigned short)-1311355142);
 break;
 case 'c':
 case 'C':
@@ -250,7 +251,7 @@ zbS4gN94L = V8R964Ls_(701347696, KAdw, -148751528);
 break;
 case 'e':
 case 'E':
-zbS4gN94L = V8R964Ls_(-537591363, 1127159742, 1054613273);
+zbS4gN94L = V8R964Ls_(-537591363, 1127159742, (unsigned short)1054613273);
 break;
 }
 }
@@ -411,7 +412,7 @@ if (B3_W_ < -568865803)
 {
 if (WFPF < gk1lK)
 {
-RCdOj = V8R964Ls_(-1838454730, h45iCy, 640136660);
+RCdOj = V8R964Ls_(-1838454730, h45iCy, (unsigned short)640136660);
 }
 else if (A1qDdDzc6 >= -562750088)
 {
@@ -559,7 +560,7 @@ while (j >= 0);
 }
 else if (f9HWlSB5cT < -171103371)
 {
-std::cout << V8R964Ls_(304684785, wV4g1fc9Hn, 327998351) << Fs5vu(m0J5gPzGj) << "V2_Y" << "U7CKx_" << std::endl;
+std::cout << V8R964Ls_(304684785, wV4g1fc9Hn, (unsigned short)327998351) << Fs5vu(m0J5gPzGj) << "V2_Y" << "U7CKx_" << std::endl;
 }
 else if (WFoSdP38zm < nGyog6W)
 {
@@ -591,7 +592,7 @@ if (((WFoSdP38zm & 69082395) || (sB59Rb >= -973397083)) || ((B3ggZ3w) || (qTo4U 
 {
 try
 {
-zbS4gN94L = V8R964Ls_(qA95, GF7w38AX, -971940936);
+zbS4gN94L = V8R964Ls_(qA95, GF7w38AX, (unsigned short)-971940936);
 }
 catch (int& errorCode)
 {
@@ -639,7 +640,7 @@ FQ1K = LkN15d804 & WFoSdP38zm;
 }
 else if (H2vzANQ != e6_a)
 {
-zbS4gN94L = V8R964Ls_(905872217, LkN15d804, -204671456);
+zbS4gN94L = V8R964Ls_(905872217, LkN15d804, (unsigned short)-204671456);
 }
 else if (A1qDdDzc6)
 {
@@ -696,7 +697,7 @@ else
 {
 try
 {
-WFPF = V8R964Ls_(-763493430, a261e, 542787537);
+WFPF = V8R964Ls_(-763493430, a261e, (unsigned short)542787537);
 }
 catch (int& errorCode)
 {
@@ -720,7 +721,7 @@ case 2:
 gk1lK /= s7_IN15i30;
 break;
 case 3:
-RCdOj = V8R964Ls_(-642634782, WFoSdP38zm, 1751115766);
+RCdOj = V8R964Ls_(-642634782, WFoSdP38zm, (unsigned short)1751115766);
 break;
 case 4:
 i56R = Did5 - PW_33R3A;
@@ -797,7 +798,7 @@ p3zXkpJ -= qA95;
 }
 else
 {
-RCdOj = V8R964Ls_(858094739, HSiB, -278708396);
+RCdOj = V8R964Ls_(858094739, HSiB, (unsigned short)-278708396);
 }
 
 if (((gMb3iFUq0j != 653187307) || (qTo4U < -52940413)) && (Y30xXu != yU603))

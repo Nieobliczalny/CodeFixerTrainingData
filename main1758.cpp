@@ -148,7 +148,7 @@ case 7:
 SX9Gr72pm = (int)ceil(Bnt079W);
 break;
 case 8:
-bH86Q = LWJJtgcye(-732830761);
+bH86Q = LWJJtgcye((unsigned char)-732830761);
 break;
 case 9:
 lKN6G1 = (int)ceil(CGYr0nU0_);

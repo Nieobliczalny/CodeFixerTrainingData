@@ -328,6 +328,6 @@ unsigned short  VGvrLqH(unsigned long long  F8Rs0,short  coZS6csx9)  {
 
 unsigned short    RmEtW(char    Zb5Mrab_5,long long    LKI9aW_s)
 {
-    return    -73936259;
+    return    (unsigned short)-73936259;
 }
 

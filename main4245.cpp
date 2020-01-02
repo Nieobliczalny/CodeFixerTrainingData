@@ -25,7 +25,7 @@ unsigned short int g2Im6Kl1_(unsigned long long AsoNp9,unsigned short W7W3J,unsi
 
 unsigned short int    znY3R()
 {
-    return    274432891;
+    return    (unsigned short)274432891;
 }
 
 int main() {
@@ -40,7 +40,7 @@ int main() {
     unsigned int    D56zz_30;
     D56zz_30    =    -134757080;
 	char	CkQ5Ox7fr;
-	CkQ5Ox7fr	=	95042532;
+	CkQ5Ox7fr	=	(char)95042532;
 	unsigned int	I1JrWp;
 	I1JrWp	=	220929061;
  long Lixo6QF;
@@ -52,7 +52,7 @@ int main() {
 	unsigned long	Fi0wlr;
 	Fi0wlr	=	0;
   short  Ts02Zs_71;
-  Ts02Zs_71  =  -1118004312;
+  Ts02Zs_71  =  (short)-1118004312;
  short int rIoAKKT2Ng;
  rIoAKKT2Ng = -1460845158;
  int Yd_7jPtd;
@@ -72,7 +72,7 @@ int main() {
   unsigned int  w_7QhuI22J;
   w_7QhuI22J  =  -1821760513;
 	short int	oUL2I0c0;
-	oUL2I0c0	=	-764077662;
+	oUL2I0c0	=	(short)-764077662;
 	long	M41f3kei;
 	M41f3kei	=	-497964945;
   unsigned long long  zord810O;
@@ -86,7 +86,7 @@ int main() {
   int  Gq_I7PIG;
   Gq_I7PIG  =  0;
   short int  S43jIzi13i;
-  S43jIzi13i  =  1462872793;
+  S43jIzi13i  =  (short)1462872793;
 	int	ZPOFmj;
 	ZPOFmj	=	559342675;
  long NB_v;
@@ -102,7 +102,7 @@ int main() {
  unsigned short AFY1rC7s34;
  AFY1rC7s34 = -1963763074;
 	char	R_832L7R9X;
-	R_832L7R9X	=	-510737963;
+	R_832L7R9X	=	(char)-510737963;
 	short int	pO6f;
 	pO6f	=	1704609291;
   unsigned long  Y0_fuTdgi;
@@ -312,7 +312,7 @@ while (i < 4);
 }
 Fi0wlr = xDYiQ(848433807, zsD5w8Z6, 101681506, zord810O, -1939075246);
 
-w_7QhuI22J = 1935597268 / xDYiQ(50569162, -36890498, 236443658, 418790573, 299933911);
+w_7QhuI22J = 1935597268 / xDYiQ((unsigned char)50569162, -36890498, 236443658, 418790573, 299933911);
 i54On6lE = (long double)(M1678Rz3k2);
 
 if ((TKFa <= AFY1rC7s34) || ((K_W69C0 >= 1505619675) || (A9XA < -1899475752)))
@@ -425,7 +425,7 @@ pO6f = (short int)(R9M5_Y);
 }
 try
 {
-cout << hWTn() << "gPDzYBa4BM" << g2Im6Kl1_(IDS9, -1354941720, 1156355463, -577846153) << endl;
+cout << hWTn() << "gPDzYBa4BM" << g2Im6Kl1_(IDS9, -1354941720, (unsigned char)1156355463, -577846153) << endl;
 }
 catch (int& errorCode)
 {
@@ -439,7 +439,7 @@ int j = 0;
 do
 {
 ++j;
-cout << ZPOFmj << g2Im6Kl1_(725342759, 90173072, -1919235328, QcXU_iLeK1) << endl;
+cout << ZPOFmj << g2Im6Kl1_(725342759, 90173072, (unsigned char)-1919235328, QcXU_iLeK1) << endl;
 }
 while (j < 8);
 }
@@ -501,7 +501,7 @@ do
 i++;
 try
 {
-cout << g2Im6Kl1_(Y0_fuTdgi, R9M5_Y, 935772359, -1016543676) << "CnFh" << endl;
+cout << g2Im6Kl1_(Y0_fuTdgi, R9M5_Y, 935772359, (unsigned short)-1016543676) << "CnFh" << endl;
 }
 catch (int& errorCode)
 {

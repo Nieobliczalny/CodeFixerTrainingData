@@ -49,7 +49,7 @@ int main()
     unsigned short    M_mm;
     M_mm    =    147980644;
  short int i1ZDbeP8;
- i1ZDbeP8 = -1403392433;
+ i1ZDbeP8 = (short)-1403392433;
 	unsigned long	jp2yx85;
 	jp2yx85	=	80653936;
   short  V9z9M;
@@ -289,7 +289,7 @@ case 4:
 LJ2A1 = pB_D0Lk(jA_en7K, -1511521525, 499219654, -1390864942) * 2100449349;
 break;
 case 5:
-Ib2F6GO_r = LF8jP(-252463319, -1574954661, L9zE3);
+Ib2F6GO_r = LF8jP(-252463319, (unsigned short)-1574954661, L9zE3);
 break;
 case 6:
 LJ2A1 = (int)floor(Fwrww);
@@ -327,7 +327,7 @@ i1ZDbeP8 = AX9jU6(-582229026, 1978128614);
 }
 if ((L9zE3 <= -447729508) || (Ueqv5 & -2000981075))
 {
-jp2yx85 = LF8jP(jp2yx85, -397547798, Ueqv5);
+jp2yx85 = LF8jP(jp2yx85, (unsigned short)-397547798, Ueqv5);
 }
 else
 {
@@ -438,7 +438,7 @@ case 3:
 i1ZDbeP8 = AX9jU6(i1ZDbeP8, -1347772378);
 break;
 case 4:
-L9zE3 = LF8jP(1048698960, -137737851, jp2yx85);
+L9zE3 = LF8jP(1048698960, (unsigned short)-137737851, jp2yx85);
 break;
 case 5:
 i1ZDbeP8 = i1ZDbeP8 + 76925391;
@@ -481,7 +481,7 @@ V9z9M = Bo_yM % 1315764491;
 break;
 case 'd':
 case 'D':
-P2rBu = AX9jU6(130916291, Sa4A4u7T);
+P2rBu = AX9jU6((unsigned short)130916291, Sa4A4u7T);
 break;
 }
 }

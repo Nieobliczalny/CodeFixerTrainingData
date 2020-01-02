@@ -20,7 +20,7 @@ int main()
     float    XA86AI7YD    =    -1791914229;
   unsigned int  S5HvT  =  -1497720437;
     long double    K10sNa    =    -70910462;
-    unsigned short int    C2wxnbP    =    994189628;
+    unsigned short int    C2wxnbP    =    (unsigned short)994189628;
   long long  v416B  =  -137283735;
     unsigned short    LFiJHyC    =    -618934104;
     short int    DOQXc    =    -2110467001;
@@ -31,7 +31,7 @@ int main()
   float  ZW4g7w0  =  -415056130;
     unsigned short int    w4u9p6Ob8    =    -565430863;
   long  YEl1sa  =  1872714724;
-	short int	yGnub	=	-1300177231;
+	short int	yGnub	=	(short)-1300177231;
  float F887S = 1422916386;
  unsigned char AgSE8TuG_ = -638633739;
  long double h_0j = -1936228731;
@@ -46,7 +46,7 @@ int main()
   long long  GX4f_  =  289918861;
  unsigned long long Qe09AXs = 1829130409;
  unsigned long long SdW_s8ZDv = -943201488;
-  unsigned short int  bLQ65m  =  -1041910713;
+  unsigned short int  bLQ65m  =  (unsigned short)-1041910713;
 	long	WITo1rY	=	1329537095;
  float p_9yu_e4 = 488276167;
  short itZr3Kg = -1801195047;
@@ -56,7 +56,7 @@ int main()
 	short	r6Tm	=	1306933360;
   double  CF1Z71N3HQ  =  1276726719;
  short int p97s = 0;
-	unsigned char	Cxe6kcB	=	601017574;
+	unsigned char	Cxe6kcB	=	(unsigned char)601017574;
 	short int	gb_T	=	-873694017;
  unsigned long Sm_1c5 = -1394540827;
     short    BC492Gnu4    =    1286832744;
@@ -66,7 +66,7 @@ int main()
 	char	Mve8R4kqmK	=	-1465611303;
     unsigned short    Wgqeq1q    =    522052259;
     unsigned long    DCxnu48    =    1364895632;
-	unsigned char	z4F910K	=	-2121533747;
+	unsigned char	z4F910K	=	(unsigned char)-2121533747;
   unsigned long long  gLBl9ns  =  -1830557212;
 	float	boS_V5	=	1239387509;
 	double	YzE7DU	=	1182677957;
@@ -79,7 +79,7 @@ int main()
 	long	eq4wU_Q	=	-1095788002;
 	unsigned long long	db3Lmo6	=	1730402502;
 	float	AaT1E738lJ	=	1136999358;
- unsigned short D__qwQ = -289505525;
+ unsigned short D__qwQ = (unsigned short)-289505525;
 
 p4JISu = (int)floor(AaT1E738lJ);
 
@@ -147,7 +147,7 @@ while (k < 2);
 while (i >= 0);
 }
 
-std::cout << bj_Li6(1212608110, swQ_7s, k_651Q1l, i5yYp157P) << w4u9p6Ob8 << Mve8R4kqmK << DFKZ(996085363, swQ_7s, 262630036) << TY9oLGS << std::endl;
+std::cout << bj_Li6(1212608110, swQ_7s, k_651Q1l, i5yYp157P) << w4u9p6Ob8 << Mve8R4kqmK << DFKZ(996085363, swQ_7s, (unsigned short)262630036) << TY9oLGS << std::endl;
 std::cout << p4JISu << "buetHIf83e" << std::endl;
 for (int i = 8; i >= 0; --i)
 {

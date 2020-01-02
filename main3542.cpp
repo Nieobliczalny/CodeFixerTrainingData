@@ -49,7 +49,7 @@ jV5ve1q = (int)abs(yY7c3q0);
 }
 else if ((E9mzE_L1 & 1293536645) || ((oz80_gt8sP != 1415717206) || (E9mzE_L1 & -1019559558)))
 {
-aLAb2 = avYGdeqw4B(-1766280819);
+aLAb2 = avYGdeqw4B((char)-1766280819);
 }
 else if (x9KxBYo > DSmp)
 {

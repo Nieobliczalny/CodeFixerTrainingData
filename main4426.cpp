@@ -15,6 +15,7 @@ long long  lrtL8eIB3(unsigned char  rU51,unsigned int  qLA7NrI_D);
 long    b_nxo(short    W9_i,unsigned short    i7wUph7);
 
 int main(int argc, char** argv) {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
     char    wXV2    =    -223312929,    fq48j_U_s3    =    -18356785,    eBsu2    =    -1849522408,    Vo61_So7    =    81116114,    Syor2Qn    =    -911444852,    slqLJ35q    =    618386630,    M66fn4    =    -861971358,    s_8IqeCaq8    =    -1763318271,    q7ff9    =    -2000574452,    Mgnj3N8_e1    =    48027999,    hxei    =    824225975,    ZY70i0    =    -1557005914,    DEzRCM    =    501944036,    N21v    =    -450849291,    XlSjDfgjRU    =    -575241853,    xV0ep    =    846944475,    nGY35    =    -765384766,    d6qC7_iBm4    =    540196912,    O9cJO_    =    -1766265528,    OTYwFU9_G    =    -612036247,    F3dZ5vnU    =    1380326248,    Hp5O2X6    =    1798687042,    eE_Vu    =    146461068,    O_cB    =    -1338503333;
     long    z5sm    =    0;
 
@@ -30,7 +31,7 @@ if ((O_cB >= wXV2) || (M66fn4 <= C1_5Wz49))
 switch (hxei)
 {
 case 'a':
-z5sm = b_nxo(-461377009, 1798319041);
+z5sm = b_nxo(-461377009, (unsigned short)1798319041);
 break;
 case 'b':
 nGY35 |= 2027838101;
@@ -48,7 +49,7 @@ case 'f':
 xV0ep = (int)abs(s_8IqeCaq8);
 break;
 case 'g':
-eBsu2 = lrtL8eIB3(-2045946356, nGY35);
+eBsu2 = lrtL8eIB3((unsigned char)-2045946356, nGY35);
 break;
 case 'h':
 q7ff9 = lrtL8eIB3(q7ff9, xV0ep);
@@ -155,7 +156,7 @@ try
 {
 if (O9cJO_)
 {
-z5sm = b_nxo(-995968764, -474828586);
+z5sm = b_nxo(-995968764, (unsigned short)-474828586);
 }
 }
 catch (int& errorCode)
@@ -248,7 +249,7 @@ O9cJO_ = Mgnj3N8_e1 ^ 1148824717;
 }
 else
 {
-z5sm = b_nxo(2074789401, 838385280);
+z5sm = b_nxo(2074789401, (unsigned short)838385280);
 }
 --j;
 }
@@ -264,7 +265,7 @@ for (int i = 8; i >= 0; --i)
 int j = 0;
 do
 {
-z5sm = b_nxo(-634998647, -1673391512);
+z5sm = b_nxo(-634998647, (unsigned short)-1673391512);
 j++;
 }
 while (j < 10);

@@ -21,7 +21,7 @@ int main(int argc, char** argv)
  float V4CaZpz = -2104286639;
   long double  Q38Q5X8_W  =  1565333798;
     long    oeiZCKgLIa    =    1646608862;
-	char	Gfv9	=	1776587590;
+	char	Gfv9	=	(char)1776587590;
 	unsigned short	Z73z0aYl	=	1780036038;
 	long double	kk4OB	=	-115392593;
     unsigned long    eZp4WewjYY    =    -495397953;
@@ -32,7 +32,7 @@ int main(int argc, char** argv)
     long    V471Z9    =    57125256;
     unsigned char    xB3VO_572    =    1952683053;
   float  eSW0  =  -302446479;
-	unsigned char	AedMNMv	=	-1298991029;
+	unsigned char	AedMNMv	=	(unsigned char)-1298991029;
   char  TUJw_NvU  =  -809270653;
   unsigned long  RYCr_8  =  -1276280028;
 	short int	ZD_6ZCCg	=	-1425058435;
@@ -47,7 +47,7 @@ int main(int argc, char** argv)
  unsigned long U6SE492K = 0;
  unsigned int uD_7 = -2099948252;
     unsigned long long    tu7D5w_a39    =    1099151121;
-    char    X8BjcnunGt    =    1665038156;
+    char    X8BjcnunGt    =    (char)1665038156;
   unsigned int  xb8w7C  =  1672996851;
 	long double	n_qcsE	=	1068510027;
  unsigned short fnPc = 1868120641;
@@ -70,7 +70,7 @@ int main(int argc, char** argv)
 	unsigned int	q9wor0b	=	-270295472;
  float RioDXjlc5 = -186254231;
  unsigned long long npTL_VsGoR = -330335038;
-    unsigned short    Z19m    =    1967900804;
+    unsigned short    Z19m    =    (unsigned short)1967900804;
     short    Fhmw39l3v    =    -1396755619;
     long    N9eP45A    =    1448086139;
 	int	R_H4Gv6	=	1499812382;
@@ -150,7 +150,7 @@ case 3:
 V4CaZpz = (int)ceil(Q38Q5X8_W);
 break;
 case 4:
-ZAm6W_ = Cex23(-528807305, -1385888959);
+ZAm6W_ = Cex23((unsigned short)-528807305, -1385888959);
 break;
 case 5:
 VoOsQABA = (int)floor(j7Wpi7H_);
@@ -310,7 +310,7 @@ case 4:
 U6SE492K = Cex23(-345282087, n_qcsE);
 break;
 case 5:
-EBH_6W3_W = Cex23(1357371276, ra6RV_Y);
+EBH_6W3_W = Cex23((unsigned short)1357371276, ra6RV_Y);
 break;
 case 6:
 zj3kXjQ %= gEu32PazH;
@@ -349,7 +349,7 @@ EBH_6W3_W = Cex23(80120479, R_H4Gv6);
 }
 if (oeiZCKgLIa < 2065132833)
 {
-cout << mwvIj << Cex23(-1417164997, R_H4Gv6) << "jeG8859" << Q38Q5X8_W << endl;
+cout << mwvIj << Cex23((unsigned short)-1417164997, R_H4Gv6) << "jeG8859" << Q38Q5X8_W << endl;
 }
 else
 {
@@ -694,7 +694,7 @@ C_sb = Cex23(-1654692020, -150776135);
 break;
 }
 
-U6SE492K = Cex23(783758642, KwDNoR);
+U6SE492K = Cex23((unsigned short)783758642, KwDNoR);
 
 for (int i = 0; i < 10; i++)
 {

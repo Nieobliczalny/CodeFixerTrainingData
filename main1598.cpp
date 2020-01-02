@@ -41,7 +41,7 @@ YxrQ6Yand = (long long)(wLHO0 + (-921486612));
 
 tBEoQ3tTXo = (int)abs(x1cgA);
 
-Jj06b08Q70 = a5H1x2GfxF / o14cR5G(X_5sXb6f, 1852193990, 526413794, -642042105, 1429968430);
+Jj06b08Q70 = a5H1x2GfxF / o14cR5G(X_5sXb6f, 1852193990, (unsigned short)526413794, -642042105, 1429968430);
 for (int i = 0; i < 10; i++)
 {
 if (BBAmP201y <= wLHO0)
@@ -52,7 +52,7 @@ Q90c_Ue23 = (int)abs(ATWC);
 switch (src5)
 {
 case 0:
-BPk5i8 = o14cR5G(bDv4N23__o, YxrQ6Yand, 114704763, 626890883, j66SL1);
+BPk5i8 = o14cR5G(bDv4N23__o, YxrQ6Yand, 114704763, (short)626890883, j66SL1);
 break;
 case 1:
 ATWC *= f6h6RT;
@@ -76,7 +76,7 @@ case 7:
 S8H4Ai >>= 10638167;
 break;
 case 8:
-V0Xrel = o14cR5G(MH_evZ, 901211927, 585989867, -1119966874, 543508158);
+V0Xrel = o14cR5G(MH_evZ, 901211927, (unsigned short)585989867, -1119966874, 543508158);
 break;
 }
 try
@@ -114,7 +114,7 @@ voA_sX2Z = (long long)(Bhu9u);
 int i = 5;
 do
 {
-std::cout << o14cR5G(1084507631, Xoi8, 1592385413, tz0_s3A, -1435852517) << std::endl;
+std::cout << o14cR5G(1084507631, Xoi8, (unsigned short)1592385413, tz0_s3A, -1435852517) << std::endl;
 i--;
 }
 while (i >= 0);
@@ -137,7 +137,7 @@ else
 {
 if (V0Xrel & -746738703)
 {
-FFRGG = o14cR5G(2033816071, -948292782, 755208122, -1656323513, 268655655);
+FFRGG = o14cR5G(2033816071, -948292782, (unsigned short)755208122, -1656323513, 268655655);
 }
 else if (twBz5x2)
 {
@@ -183,7 +183,7 @@ else if (f6h6RT)
 {
 if ((E0SLANcief >= 1623597433) || (G_C8 >= b6sTVm))
 {
-BPk5i8 = o14cR5G(H5Eqoa75n, -1528252665, 220353334, i0OLw08, -384558923);
+BPk5i8 = o14cR5G(H5Eqoa75n, (unsigned short)-1528252665, 220353334, i0OLw08, -384558923);
 }
 else
 {
@@ -210,7 +210,7 @@ std::cout << "HndJ" << "K46168OS4" << "PH6OQhI3" << G_C8 << std::endl;
 
 LEO9z = (long long)(wLHO0 + (b6sTVm));
 
-FFRGG = o14cR5G(Ze1P4J, -1045480579, 2132112801, n0x2J, -815663243);
+FFRGG = o14cR5G(Ze1P4J, -1045480579, (unsigned short)2132112801, n0x2J, -815663243);
 if (jHjWj == wLHO0)
 {
 std::cout << LEO9z << o14cR5G(Ze1P4J, x7I_mh, z78sC_7, 4730715, -1641680559) << "O_m7O8" << std::endl;
@@ -236,7 +236,7 @@ case 'C':
 or8lDf /= 461181952;
 break;
 default:
-FFRGG = o14cR5G(gi5N5, femse, -1251669275, J_D3_R4, 861111578);
+FFRGG = o14cR5G(gi5N5, femse, (unsigned short)-1251669275, J_D3_R4, 861111578);
 break;
 }
 ++j;
@@ -271,7 +271,7 @@ while (j < 4);
 }
 }
 
-j66SL1 = C9dr(-258858991, BPk5i8);
+j66SL1 = C9dr((unsigned char)-258858991, BPk5i8);
 for (int i = 9; i >= 0; i--)
 {
 X3O4v1av = o14cR5G(-703689115, -2005911004, -2017627574, 1432082452, -183134589) - 1275344072;
@@ -310,7 +310,7 @@ ZO3b4v2OF <<= i0OLw08;
 break;
 case 'd':
 case 'D':
-J5G22wO = C9dr(538995610, rKtzl);
+J5G22wO = C9dr((unsigned char)538995610, rKtzl);
 break;
 case 'e':
 case 'E':

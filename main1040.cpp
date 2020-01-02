@@ -78,7 +78,7 @@ std::cout << P43z(632628681, gdfor, 1317198789, DGK5t_v) << FS4ng << aM872 << st
 }
 std::cout << "Z4Jad07" << P43z(-376471382, gdfor, kR6m6zvgR, 532770715) << std::endl;
 
-std::cout << "DGd1l" << FS4ng << K25vL3WL29() << K25vL3WL29() << i7AsQ3t0s(-844486405, -1948163797) << std::endl;
+std::cout << "DGd1l" << FS4ng << K25vL3WL29() << K25vL3WL29() << i7AsQ3t0s((short)-844486405, -1948163797) << std::endl;
 
 for (int i = 7; i >= 0; i--)
 {
@@ -154,7 +154,7 @@ case 4:
 QsnxC = P43z(-1845011696, 606045286, taj_Sd, Z02gUb6g);
 break;
 case 5:
-CVw1295 = i7AsQ3t0s(713223502, 1161478775);
+CVw1295 = i7AsQ3t0s((short)713223502, 1161478775);
 break;
 case 6:
 aM872++;
@@ -703,7 +703,7 @@ case 'c':
 kk8s0007 |= FW7_UmF_H;
 break;
 default:
-QsnxC = P43z(FX6U54z_, 2034905001, AfL6JN6R, -748008732);
+QsnxC = P43z(FX6U54z_, 2034905001, AfL6JN6R, (short)-748008732);
 break;
 }
 }
@@ -935,7 +935,7 @@ aM872 = i7AsQ3t0s(-396543030, 1579168225);
 }
 else if (cvMQ2_ < -554264991)
 {
-QsnxC = P43z(39102085, gdfor, 787815113, -681449531);
+QsnxC = P43z(39102085, gdfor, 787815113, (short)-681449531);
 }
 else if (ENw48_6 < -2123551603)
 {

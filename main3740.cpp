@@ -46,7 +46,7 @@ case 'd':
 EeF9NF = Odk9gtM(qahKpvzIKJ, 1725479506);
 break;
 case 'e':
-OMmazI = Odk9gtM(t_YGX, -949776210);
+OMmazI = Odk9gtM(t_YGX, (char)-949776210);
 break;
 case 'f':
 EeF9NF = Odk9gtM(cPOWiWT, NmU0FrK);
@@ -147,7 +147,7 @@ case 'e':
 Oj7HzO3 = Odk9gtM(q5IP8W50j, rl84) | 66476203;
 break;
 case 'f':
-oRUGCO = Odk9gtM(q5IP8W50j, 1581045382) % 760612263;
+oRUGCO = Odk9gtM(q5IP8W50j, (char)1581045382) % 760612263;
 break;
 case 'g':
 OWvMY33 = mg88N08();

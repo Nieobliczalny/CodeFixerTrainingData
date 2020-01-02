@@ -17,7 +17,7 @@ int main(int argc, char** argv)
 {
     int    qr3RrUQz    =    -1040216866;
   short  va5lr8  =  1983674262;
-	unsigned char	qy9r	=	100850556;
+	unsigned char	qy9r	=	(unsigned char)100850556;
     unsigned long long    i4t9zv01S    =    0;
  short int L9ZM = -1253074932;
  short int jbFX = -2072317889;
@@ -30,7 +30,7 @@ int main(int argc, char** argv)
  long double t0m9px_5 = -1877172886;
     long    ip_yo_H    =    -1457912942;
 	short	o37KR1M	=	-1592495776;
-	short int	N6Aml1NzBi	=	-298842375;
+	short int	N6Aml1NzBi	=	(short)-298842375;
     long double    N3hkDX58Xb    =    1499326302;
 	short	Kk9q7lUL	=	0;
  unsigned int gvX_Lg2_8_ = 751666146;
@@ -288,7 +288,7 @@ cout << R_zzoogD << "PZ9i09V40" << LFcSj(776214153) << N6Aml1NzBi << endl;
 switch (qy9r)
 {
 case 'a':
-Kk9q7lUL = LFcSj(1656134396);
+Kk9q7lUL = LFcSj((char)1656134396);
 break;
 case 'b':
 Kk9q7lUL = LFcSj(-1425525863);
@@ -309,7 +309,7 @@ case 'g':
 Kk9q7lUL = LFcSj(-184748591);
 break;
 case 'h':
-i4t9zv01S = LFcSj(-344324418);
+i4t9zv01S = LFcSj((char)-344324418);
 break;
 case 'i':
 vx7X = (int)ceil(LL18FKq);

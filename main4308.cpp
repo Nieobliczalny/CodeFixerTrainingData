@@ -84,7 +84,7 @@ case 8:
 O9uf9Dua = tt3ONhbh_ | 1013882599;
 break;
 case 9:
-INAP65Qi0b = Jas53fpEC(LOZXhBnCr, qE194, -804715365, l_U7N, 700502660);
+INAP65Qi0b = Jas53fpEC(LOZXhBnCr, qE194, (unsigned short)-804715365, l_U7N, 700502660);
 break;
 }
 }
@@ -138,7 +138,7 @@ else if (knW3Z29Zn <= 2138956325)
 {
 for (int k = 4; k >= 0; k--)
 {
-s667e = vXfou(865249756, jp4J6, tt3ONhbh_, lo2wUp2c);
+s667e = vXfou((unsigned char)865249756, jp4J6, tt3ONhbh_, lo2wUp2c);
 }
 }
 else if (PG29_ == lo2wUp2c)
@@ -158,7 +158,7 @@ oVj7zg7 = Jas53fpEC(-860343703, c487, beFmgsXNE9, -315826518, 1402872750);
 }
 else if (uB_96 != r18l)
 {
-INAP65Qi0b = Jas53fpEC(860405907, -1041332695, qE194, -1710047898, 1789319251);
+INAP65Qi0b = Jas53fpEC((unsigned short)860405907, -1041332695, qE194, -1710047898, 1789319251);
 }
 else
 {
@@ -197,7 +197,7 @@ case 2:
 xqdcy1 = vXfou(xqdcy1, -2091854147, l_U7N, -1486741672);
 break;
 case 3:
-Kx5w = vXfou(332285919, 220881082, 750719991, gj_nPOzF9_);
+Kx5w = vXfou((unsigned char)332285919, 220881082, 750719991, gj_nPOzF9_);
 break;
 case 4:
 Lvtog66 = vXfou(1980277647, Fl5Yr3nHvm, s0T0r, c487);
@@ -240,7 +240,7 @@ if ((s667e == 1478178495) || (INAP65Qi0b != D8g_1))
 {
 if (Iozfr8KZG == -130086042)
 {
-cout << Jas53fpEC(-111984678, -1690023173, -48830358, -540275138, hZ_3Nmz_nE) << Jas53fpEC(b102NFRjm, s0T0r, -1165696570, 1401480221, hZ_3Nmz_nE) << vXfou(-219015796, 2127557793, c487, l_U7N) << N7ePW << "QFprK5" << endl;
+cout << Jas53fpEC(-111984678, -1690023173, (unsigned short)-48830358, -540275138, hZ_3Nmz_nE) << Jas53fpEC(b102NFRjm, s0T0r, -1165696570, 1401480221, hZ_3Nmz_nE) << vXfou(-219015796, 2127557793, c487, l_U7N) << N7ePW << "QFprK5" << endl;
 }
 else if ((xqdcy1 & -172377818) && (s0T0r == -779411773))
 {
@@ -267,7 +267,7 @@ else
 {
 for (int k = 1; k >= 0; --k)
 {
-oVj7zg7 = Jas53fpEC(-493700702, ah2QApf_6, -1571435826, 1065243174, Sat4b);
+oVj7zg7 = Jas53fpEC(-493700702, ah2QApf_6, (unsigned short)-1571435826, 1065243174, Sat4b);
 }
 }
 }
@@ -282,7 +282,7 @@ case 1:
 INAP65Qi0b = Jas53fpEC(Fl5Yr3nHvm, zd39B1QF0Y, -419624425, -301060930, 629004287);
 break;
 case 2:
-DPxO7I3U = vXfou(664703203, acoa, c487, eMil);
+DPxO7I3U = vXfou((unsigned char)664703203, acoa, c487, eMil);
 break;
 case 3:
 r18l = vXfou(-89412988, 960086679, -880676425, -1315014570);
@@ -318,7 +318,7 @@ case 3:
 oVj7zg7 = Jas53fpEC(-1732856101, 923151158, ah2QApf_6, s0T0r, 1297542960);
 break;
 case 4:
-hZ_3Nmz_nE = vXfou(1045006913, egR0I7fV, x9X6HZq, -492642802);
+hZ_3Nmz_nE = vXfou((unsigned char)1045006913, egR0I7fV, x9X6HZq, -492642802);
 break;
 case 5:
 N7ePW = vXfou(N7ePW, jDZQm63, x_28C4p__3, 1952093545);
@@ -330,7 +330,7 @@ case 7:
 INAP65Qi0b = Jas53fpEC(sNw7y9_H, b102NFRjm, 1318556895, 1065513192, O9uf9Dua);
 break;
 case 8:
-Lvtog66 = vXfou(1928534562, uB_96, -1317730548, N18uJ);
+Lvtog66 = vXfou((unsigned char)1928534562, uB_96, -1317730548, N18uJ);
 break;
 case 9:
 jBPy--;
@@ -361,7 +361,7 @@ BJpKn3o2G = vXfou(209489421, tt3ONhbh_, -1791734084, -747474649);
 }
 try
 {
-oVj7zg7 = Jas53fpEC(829604623, a5psBD3_, -1953608938, -1965288945, qE194);
+oVj7zg7 = Jas53fpEC(829604623, a5psBD3_, (unsigned short)-1953608938, -1965288945, qE194);
 }
 catch (int& errorCode)
 {
@@ -380,7 +380,7 @@ xt9LmXtyJ5 = (unsigned int)(qQhx);
 INAP65Qi0b = Jas53fpEC(PG29_, lo2wUp2c, -316409674, 662451535, -360071095);
 try
 {
-cout << Yf_f00A4C << Jas53fpEC(803059035, lo2wUp2c, 963062215, 232344644, Lth2mF_11K) << "Py7hVP" << "o1YrSI8V" << Jas53fpEC(1624966541, lo2wUp2c, gj_nPOzF9_, 2000149614, -1953134087) << endl;
+cout << Yf_f00A4C << Jas53fpEC((unsigned short)803059035, lo2wUp2c, 963062215, 232344644, Lth2mF_11K) << "Py7hVP" << "o1YrSI8V" << Jas53fpEC(1624966541, lo2wUp2c, gj_nPOzF9_, 2000149614, -1953134087) << endl;
 }
 catch (int& errorCode)
 {
@@ -415,7 +415,7 @@ m537Cg = Jas53fpEC(-1180292430, -594244960, Yf_f00A4C, ok1M9B2te, zd39B1QF0Y) ^ 
 switch (I4K76O)
 {
 case 'a':
-Lth2mF_11K = vXfou(-1743747163, 1431058716, -225797946, -15946053);
+Lth2mF_11K = vXfou((unsigned char)-1743747163, 1431058716, -225797946, -15946053);
 break;
 case 'b':
 sNw7y9_H = qE194 & 141197252;

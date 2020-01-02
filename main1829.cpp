@@ -35,7 +35,7 @@ case 0:
 cGHw5eX2OW = I7x9n + dh77pY2Ou;
 break;
 case 1:
-Rt1T = A5gE_D3(836245633, 1521256699, 1519505990);
+Rt1T = A5gE_D3(836245633, (unsigned short)1521256699, 1519505990);
 break;
 case 2:
 g1LHCOOA = g1LHCOOA << RME0xPqWzP;
@@ -56,7 +56,7 @@ case 7:
 dH1j1 *= 1920083770;
 break;
 case 8:
-V84wN = e5W16Y(or1yC, -1774670575);
+V84wN = e5W16Y(or1yC, (unsigned char)-1774670575);
 break;
 case 9:
 GNG4w0QRW1 <<= 1380225244;
@@ -86,7 +86,7 @@ ph477 = e5W16Y(ph477, 794812454);
 switch (WqU_n57)
 {
 case 0:
-KTqV8ZH4R6 = Wf_1pmENw(KTqV8ZH4R6, -778555701, -1692425675, -1686844431, TmYEH1oTT);
+KTqV8ZH4R6 = Wf_1pmENw(KTqV8ZH4R6, -778555701, -1692425675, (short)-1686844431, TmYEH1oTT);
 break;
 case 1:
 w7ilola7--;
@@ -161,7 +161,7 @@ A0_rRHyV5 = (dh77pY2Ou == zflgLo) ? KxGUk0zxES : e5W16Y(GNG4w0QRW1, N_r7);
 break;
 case 'd':
 case 'D':
-WqU_n57 = nQB55nV(2013824961, WqU_n57);
+WqU_n57 = nQB55nV((unsigned short)2013824961, WqU_n57);
 break;
 case 'e':
 case 'E':
@@ -268,7 +268,7 @@ case 'd':
 rbw56 = A5gE_D3(-244921268, upMfCaguv, A0_rRHyV5);
 break;
 case 'e':
-nf8d = e5W16Y(rbw56, -1374866833) + GNG4w0QRW1;
+nf8d = e5W16Y(rbw56, (unsigned char)-1374866833) + GNG4w0QRW1;
 break;
 case 'f':
 G2F444 = A5gE_D3(-164215826, TmYEH1oTT, -447314960);
@@ -312,7 +312,7 @@ case 'e':
 JZ5F = (int)abs(C7YPZGwqY);
 break;
 case 'f':
-U4u9Ny2TQ = nQB55nV(-1845152116, 1766709078);
+U4u9Ny2TQ = nQB55nV(-1845152116, (unsigned short)1766709078);
 break;
 case 'g':
 Rt1T = A5gE_D3(Rt1T, -818400672, TmYEH1oTT);

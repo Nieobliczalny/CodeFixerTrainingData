@@ -29,7 +29,7 @@ int main(int argc, char** argv) {
  unsigned short int kZYD10;
  kZYD10 = 1194992940;
   unsigned short  n7oibW2;
-  n7oibW2  =  554747842;
+  n7oibW2  =  (unsigned short)554747842;
  int Nxmh_W47_;
  Nxmh_W47_ = -2036058796;
     long    k78O01Xr8;
@@ -59,7 +59,7 @@ int main(int argc, char** argv) {
  unsigned long e5lB;
  e5lB = 203821986;
   short int  i7fFucdL7H;
-  i7fFucdL7H  =  901831639;
+  i7fFucdL7H  =  (short)901831639;
     long long    NhiJfy;
     NhiJfy    =    0;
  unsigned long long p_Gx5W2M;
@@ -187,7 +187,7 @@ else if (fypyJv777)
 switch (W2JT_3y6)
 {
 case 'a':
-i7fFucdL7H = (KKO2 & x57p5) ? 1792534552 : 466250321;
+i7fFucdL7H = (KKO2 & x57p5) ? 1792534552 : (short)466250321;
 break;
 }
 }

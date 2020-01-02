@@ -16,6 +16,7 @@ char lXu4G(short int T4Y8,int S1QRx1);
 
 int main(void)
 {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
     char    GKn21mH    =    -285159187,    Hmx9t7u8xN    =    -682068400,    Q0HXilwh6Y    =    1870683690,    Qu2IEX7    =    -927027047,    zDcvRTpp    =    866365281,    H_dvfg980_    =    393269018,    XppaO_    =    284413596,    bOuz776l    =    1481721714,    rLSF    =    1728199353,    L_2R4i    =    1615669865,    le48hVEBYj    =    1649012805,    m6Xvx_v    =    -1201268844,    ACf3PUP    =    2112184729,    pZs4_cU    =    -1116212362,    coQp1If    =    -119991272,    gigT14    =    -1486994548,    HpB7    =    -2073342527,    oHX71S2Hj    =    1812001165,    x3K3Cjdqu    =    1805625913,    w_D24YOf    =    1376800039,    WfVTG    =    364655214,    wN1l_iZ    =    -1982886638,    w8Cg0vcN    =    -372640864,    h0pHQzO    =    2017191611,    K9jov9e665    =    690251048,    w1RE6ztr    =    376420797,    cz6YyB    =    432190511,    u4a9T555BB    =    -2146049646,    xoCAeJHF6    =    1782520105,    u6FH71_    =    -2137779079,    G33p    =    1410947594;
 	int	VqlX70d	=	0,	cRU666Lo9	=	0;
 
@@ -408,7 +409,7 @@ cRU666Lo9 = lXu4G(1434416381, m6Xvx_v);
 }
 }
 
-VqlX70d = lXu4G(1979584257, -1850593002);
+VqlX70d = lXu4G((short)1979584257, -1850593002);
 std::cout << Hmx9t7u8xN << std::endl;
 
 if (cRU666Lo9 < x3K3Cjdqu)

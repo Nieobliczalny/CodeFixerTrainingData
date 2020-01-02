@@ -33,7 +33,7 @@ int main() {
  unsigned short int nywYg;
  nywYg = 2008014324;
   unsigned short int  w_Oi1F;
-  w_Oi1F  =  -1841946726;
+  w_Oi1F  =  (unsigned short)-1841946726;
  unsigned short int t2Q086D8;
  t2Q086D8 = 1512078520;
  unsigned long long Ad95oJ;
@@ -45,7 +45,7 @@ int main() {
  unsigned char gzJGJ;
  gzJGJ = -2084600762;
     short int    dJVgwmhA;
-    dJVgwmhA    =    -1496082707;
+    dJVgwmhA    =    (short)-1496082707;
 	int	XyI4;
 	XyI4	=	706418695;
 	unsigned long long	GR4w4;
@@ -63,7 +63,7 @@ int main() {
 	short	Q5R2IN54_D;
 	Q5R2IN54_D	=	-529384756;
 	unsigned char	Zg_QZ448;
-	Zg_QZ448	=	1730594591;
+	Zg_QZ448	=	(unsigned char)1730594591;
 	char	zK4pBhesGn;
 	zK4pBhesGn	=	961115841;
  int td8CS_;
@@ -77,7 +77,7 @@ int main() {
     long    HE992_;
     HE992_    =    1491973041;
 	unsigned short int	xkXm0Z91s;
-	xkXm0Z91s	=	-1684278602;
+	xkXm0Z91s	=	(unsigned short)-1684278602;
   long  XTPQBtw7r8;
   XTPQBtw7r8  =  -931318176;
 	long long	ZY22Jd_X;
@@ -87,7 +87,7 @@ int main() {
 	unsigned short	Wml7t8_s86;
 	Wml7t8_s86	=	-873973979;
     short int    sguxfhX9G;
-    sguxfhX9G    =    -971788104;
+    sguxfhX9G    =    (short)-971788104;
   unsigned long long  p8tvkd949;
   p8tvkd949  =  -706601732;
     unsigned long long    E9p0y9u_l;
@@ -97,7 +97,7 @@ int main() {
     long long    bbNg3c9nZb;
     bbNg3c9nZb    =    632040171;
   char  sk4JZ;
-  sk4JZ  =  -1583242096;
+  sk4JZ  =  (char)-1583242096;
   double  Uaq2;
   Uaq2  =  -1913662206;
 	double	PvN5G_l;
@@ -145,7 +145,7 @@ int main() {
   short  I_j0i;
   I_j0i  =  342555266;
  unsigned short int auGm295P;
- auGm295P = 1163838292;
+ auGm295P = (unsigned short)1163838292;
   short  D65dS;
   D65dS  =  2012544719;
  long long u_U23W8e;
@@ -155,7 +155,7 @@ int main() {
  unsigned char O_jZ8;
  O_jZ8 = 1548467108;
     char    z80nG;
-    z80nG    =    189488896;
+    z80nG    =    (char)189488896;
   unsigned long  Wl4QAh3;
   Wl4QAh3  =  -1401740355;
 
@@ -194,7 +194,7 @@ int i = 0;
 while (i < 2)
 {
 i++;
-std::cout << kdzl_8rSN(Wl4QAh3, 180996053, XTPQBtw7r8, XyI4, -434269724) << "guD4K9cISS" << "JScKsB0z" << "fIjK" << std::endl;
+std::cout << kdzl_8rSN(Wl4QAh3, 180996053, XTPQBtw7r8, XyI4, (char)-434269724) << "guD4K9cISS" << "JScKsB0z" << "fIjK" << std::endl;
 }
 }
 
@@ -233,7 +233,7 @@ if (h1FH3_9 >= XyI4)
 {
 if (e946G66F & RrDiDj7)
 {
-std::cout << "grqp80SXl" << "soC1w3" << kdzl_8rSN(368043863, -1287172974, sk4JZ, 966697471, -1340552669) << "D736f2Y3" << std::endl;
+std::cout << "grqp80SXl" << "soC1w3" << kdzl_8rSN(368043863, (unsigned short)-1287172974, sk4JZ, 966697471, -1340552669) << "D736f2Y3" << std::endl;
 }
 }
 else
@@ -247,7 +247,7 @@ case 'b':
 o0i_Xf7iK = (int)ceil(Z_45RJ_);
 break;
 case 'c':
-u_U23W8e = kdzl_8rSN(t4h5Kodl, -2039568300, 1812888015, auGm295P, -2004016105);
+u_U23W8e = kdzl_8rSN(t4h5Kodl, -2039568300, 1812888015, auGm295P, (char)-2004016105);
 break;
 case 'd':
 u_U23W8e = kdzl_8rSN(auGm295P, -1862480084, -609496850, r_91LO, Uaq2);
@@ -258,7 +258,7 @@ break;
 }
 }
 
-std::cout << kdzl_8rSN(-1335070922, 1178927556, 548435759, -1010861804, 404042921) << std::endl;
+std::cout << kdzl_8rSN(-1335070922, 1178927556, 548435759, (short)-1010861804, 404042921) << std::endl;
 
 FzQnG3U = (int)floor(mqle9W9L);
 
@@ -335,7 +335,7 @@ case 'b':
 gzJGJ &= 1079836792;
 break;
 case 'c':
-u_U23W8e = kdzl_8rSN(r_91LO, -831940822, -1103490589, ZL5z7UmhU9, -1987755059);
+u_U23W8e = kdzl_8rSN(r_91LO, -831940822, -1103490589, ZL5z7UmhU9, (char)-1987755059);
 break;
 default:
 LF86O_8 = YLIhb0di0h(-930849600, -1666482189, PvN5G_l, VLXiJq);
@@ -400,7 +400,7 @@ case 3:
 PvN5G_l = (int)floor(o0i_Xf7iK);
 break;
 case 4:
-o0i_Xf7iK = YLIhb0di0h(-946625190, 1768268768, O_jZ8, Wml7t8_s86);
+o0i_Xf7iK = YLIhb0di0h(-946625190, (char)1768268768, O_jZ8, Wml7t8_s86);
 break;
 case 5:
 u_U23W8e = kdzl_8rSN(1719895122, t51Ez8, -1068917954, t2Q086D8, 344726681);
@@ -461,7 +461,7 @@ XyI4 = (int)abs(bbNg3c9nZb);
 }
 else
 {
-u_U23W8e = kdzl_8rSN(-1387318115, 355698431, -189038547, 551617117, -954883253);
+u_U23W8e = kdzl_8rSN(-1387318115, 355698431, -189038547, (short)551617117, -954883253);
 }
 }
 }

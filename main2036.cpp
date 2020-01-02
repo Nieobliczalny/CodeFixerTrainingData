@@ -45,7 +45,7 @@ int main()
  unsigned short int cPFV;
  cPFV = -1310155069;
  char w5S1vrnU2o;
- w5S1vrnU2o = -1056384037;
+ w5S1vrnU2o = (char)-1056384037;
  float IhkA;
  IhkA = 357284458;
 	unsigned short	PLOP2Jq4;
@@ -59,7 +59,7 @@ int main()
  double EiH5;
  EiH5 = -455348145;
  unsigned short int TCyyt;
- TCyyt = -947550471;
+ TCyyt = (unsigned short)-947550471;
   double  jOLZVHRjW;
   jOLZVHRjW  =  1211922859;
  long w7O5;
@@ -71,7 +71,7 @@ int main()
   unsigned short  j8M3FH;
   j8M3FH  =  292189866;
     char    P6XA6QL_;
-    P6XA6QL_    =    1091780743;
+    P6XA6QL_    =    (char)1091780743;
     long double    fgLPh;
     fgLPh    =    16230060;
   long long  hn__wGn;
@@ -89,7 +89,7 @@ int main()
     int    zwl7262s_7;
     zwl7262s_7    =    1460831604;
  unsigned char HPq5R916Nu;
- HPq5R916Nu = 1350985314;
+ HPq5R916Nu = (unsigned char)1350985314;
   int  uR_u81;
   uR_u81  =  -1021426076;
 
@@ -112,7 +112,7 @@ case 'b':
 IhkA = (int)floor(EiH5);
 break;
 case 'c':
-y2gvdH1w0 = qP6t5lc1(y2gvdH1w0, -914414414, udiFw0d6VI);
+y2gvdH1w0 = qP6t5lc1(y2gvdH1w0, (unsigned char)-914414414, udiFw0d6VI);
 break;
 case 'd':
 EiH5 = (int)ceil(IhkA);
@@ -193,7 +193,7 @@ case 'h':
 P6XA6QL_ = W_2z3k(P6XA6QL_, EiH5);
 break;
 case 'i':
-KrtW = qP6t5lc1(-828186226, -591695336, -885196934);
+KrtW = qP6t5lc1((unsigned char)-828186226, -591695336, -885196934);
 break;
 default:
 fgLPh = (int)floor(IhkA);

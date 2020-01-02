@@ -394,7 +394,7 @@ mJJdnAx = odN1PaCGYy(1439557853);
 }
 }
 
-gHND_EnX = odN1PaCGYy(-1590752118);
+gHND_EnX = odN1PaCGYy((unsigned short)-1590752118);
 
 if (rZ3Y_cok)
 {

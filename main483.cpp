@@ -270,7 +270,7 @@ v_bYPY = (int)abs(jggU);
 switch (v_bYPY)
 {
 case 0:
-x5Nu = z37xx03uo0(v_bYPY, 1748222721, 1501867322, -534091571, -486777170) - 1584842379;
+x5Nu = z37xx03uo0(v_bYPY, 1748222721, (short)1501867322, -534091571, -486777170) - 1584842379;
 break;
 }
 x5Nu = (ZPz8aN == P7u_) ? P7u_ : 1473367137;
@@ -284,7 +284,7 @@ v_bYPY = Q_8cn9Fl(574386396, -501968112);
 int i = 0;
 while (i < 1)
 {
-std::cout << Q_8cn9Fl(v_bYPY, -1867837994) << z37xx03uo0(v_bYPY, -1611656981, x5Nu, jggU, P7u_) << "gUmFGF" << z37xx03uo0(-1092263877, -323851197, x5Nu, jggU, P7u_) << std::endl;
+std::cout << Q_8cn9Fl(v_bYPY, -1867837994) << z37xx03uo0(v_bYPY, -1611656981, x5Nu, jggU, P7u_) << "gUmFGF" << z37xx03uo0(-1092263877, (unsigned char)-323851197, x5Nu, jggU, P7u_) << std::endl;
 i++;
 }
 }
@@ -316,7 +316,7 @@ int k = 6;
 do
 {
 k--;
-x5Nu = z37xx03uo0(jggU, -1036224132, -1373117017, 934217364, 18215289);
+x5Nu = z37xx03uo0(jggU, -1036224132, (short)-1373117017, 934217364, 18215289);
 }
 while (k >= 0);
 }

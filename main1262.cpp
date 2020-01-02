@@ -33,7 +33,7 @@ int main(void) {
  long gYOYqM2;
  gYOYqM2 = -1338783868;
  short int kXN4PaP;
- kXN4PaP = -810692285;
+ kXN4PaP = (short)-810692285;
     float    c3s_jX;
     c3s_jX    =    -1488276003;
   long long  GWF2k_q;
@@ -49,7 +49,7 @@ int main(void) {
   float  INa77hv94;
   INa77hv94  =  1169932085;
   unsigned short  pcmZyY93;
-  pcmZyY93  =  -590350625;
+  pcmZyY93  =  (unsigned short)-590350625;
  short RSczR_o;
  RSczR_o = -1733950388;
   unsigned long  j_7O_Ot534;
@@ -69,7 +69,7 @@ int main(void) {
  int G1285T2;
  G1285T2 = 1806622903;
     short    dgYsrc63pH;
-    dgYsrc63pH    =    1423761953;
+    dgYsrc63pH    =    (short)1423761953;
   long long  G8BeaA43s;
   G8BeaA43s  =  -1125497769;
   unsigned short  B2eY1En;
@@ -79,7 +79,7 @@ int main(void) {
   unsigned short  UIrR;
   UIrR  =  235469604;
     unsigned short int    MJ1QQ_;
-    MJ1QQ_    =    220156123;
+    MJ1QQ_    =    (unsigned short)220156123;
     unsigned long long    K8uaIJF176;
     K8uaIJF176    =    -1745148556;
     long    btoU;
@@ -95,7 +95,7 @@ int main(void) {
  float M3aQ;
  M3aQ = -1283673319;
     short    glw46R5ep;
-    glw46R5ep    =    144347200;
+    glw46R5ep    =    (short)144347200;
  short int vkz90no5;
  vkz90no5 = -980124189;
   long long  Cg6R;
@@ -107,7 +107,7 @@ int main(void) {
   unsigned char  V8gL9pBptn;
   V8gL9pBptn  =  0;
     unsigned short int    bLF03ctcY;
-    bLF03ctcY    =    -1059086023;
+    bLF03ctcY    =    (unsigned short)-1059086023;
  int s_ait;
  s_ait = -679312697;
 	unsigned int	Nw2Q;
@@ -123,7 +123,7 @@ int main(void) {
   float  j30h;
   j30h  =  -1231271986;
 	unsigned short	OCilmh4x;
-	OCilmh4x	=	2023297215;
+	OCilmh4x	=	(unsigned short)2023297215;
  unsigned long MrBEL7da;
  MrBEL7da = 717695016;
  unsigned char YwHJyJk968;
@@ -135,7 +135,7 @@ int main(void) {
 	long long	M_LJ_;
 	M_LJ_	=	631934293;
 	short int	SJ2_0Vz9z;
-	SJ2_0Vz9z	=	-101748991;
+	SJ2_0Vz9z	=	(short)-101748991;
   int  yKfACb8S2Q;
   yKfACb8S2Q  =  1085387131;
     short    rnVjD4Y2;
@@ -145,7 +145,7 @@ int main(void) {
  unsigned short TyW24;
  TyW24 = -1355707671;
     char    t10s;
-    t10s    =    -33573232;
+    t10s    =    (char)-33573232;
   short int  y0ZT;
   y0ZT  =  332097215;
 	unsigned char	y8hG;
@@ -155,7 +155,7 @@ int main(void) {
 	int	l13tGd31l1;
 	l13tGd31l1	=	660962352;
   unsigned short int  Le8PxK3n;
-  Le8PxK3n  =  -715429875;
+  Le8PxK3n  =  (unsigned short)-715429875;
 	unsigned short int	o492JD_49;
 	o492JD_49	=	1677077965;
  unsigned char XIBteU2;
@@ -165,7 +165,7 @@ int main(void) {
 	short	pC_X5c0gp;
 	pC_X5c0gp	=	780336987;
     unsigned char    tHP_jtE;
-    tHP_jtE    =    1996760065;
+    tHP_jtE    =    (unsigned char)1996760065;
   unsigned int  SfOb7lwpX;
   SfOb7lwpX  =  807495711;
 	unsigned char	PT7R3YY3;
@@ -175,7 +175,7 @@ int main(void) {
     double    Z3ub52x_V;
     Z3ub52x_V    =    -198851771;
  short UQbx62;
- UQbx62 = 533127111;
+ UQbx62 = (short)533127111;
     unsigned long    zI9d31s80;
     zI9d31s80    =    854783368;
  char Bn_20y0;
@@ -347,7 +347,7 @@ case 2:
 UIrR *= TyW24;
 break;
 case 3:
-TyW24 = RE5M62(1666349779, ysP7, -1244511946, -1025725206);
+TyW24 = RE5M62((unsigned char)1666349779, ysP7, -1244511946, -1025725206);
 break;
 case 4:
 M3aQ = (int)floor(Z3ub52x_V);
@@ -481,7 +481,7 @@ SJ2_0Vz9z *= fF0ye;
 }
 else
 {
-lOpjUY = c6D067vB(-422762300, TI99, 974523627, -795120617, -1754812641);
+lOpjUY = c6D067vB(-422762300, TI99, 974523627, (short)-795120617, -1754812641);
 }
 }
 catch (int& errorCode)
@@ -533,7 +533,7 @@ case 'f':
 dgYsrc63pH = B2eY1En - 894431013;
 break;
 case 'g':
-PriADKr0IY = c6D067vB(PriADKr0IY, 207240444, 865334752, 1751598543, -423384007);
+PriADKr0IY = c6D067vB(PriADKr0IY, 207240444, 865334752, (short)1751598543, -423384007);
 break;
 default:
 G1285T2 = (int)abs(c3s_jX);
@@ -575,7 +575,7 @@ yKfACb8S2Q = (int)abs(j30h);
 }
 else if (U4xk & tHP_jtE)
 {
-std::cout << U4xk << "Dq5Lm" << RE5M62(-376276649, V8gL9pBptn, -890433301, -912504019) << "aYsivW12j" << RE5M62(-170313740, V8gL9pBptn, T0B4o7i, -177390956) << std::endl;
+std::cout << U4xk << "Dq5Lm" << RE5M62(-376276649, V8gL9pBptn, -890433301, -912504019) << "aYsivW12j" << RE5M62((unsigned char)-170313740, V8gL9pBptn, T0B4o7i, -177390956) << std::endl;
 }
 else
 {

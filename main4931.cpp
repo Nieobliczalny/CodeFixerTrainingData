@@ -84,7 +84,7 @@ Pgo__Q_I9 = 1256473722 / wMe972d0wO;
 switch (Bw8fE9jEj)
 {
 case 0:
-ck4nnf4RS = tH2T(1420074499, 954075769);
+ck4nnf4RS = tH2T(1420074499, (char)954075769);
 break;
 case 1:
 q21I = tH2T(-890185045, -604811954);

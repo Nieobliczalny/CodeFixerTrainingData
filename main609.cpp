@@ -165,7 +165,7 @@ case 2:
 O0tzG98u = u3gOO(1820294907, -718312639);
 break;
 case 3:
-Vr3N = p0PUO(1091812576, IAVu6VUE, YH820D, -1858579444, 1480671585);
+Vr3N = p0PUO((unsigned short)1091812576, IAVu6VUE, YH820D, -1858579444, 1480671585);
 break;
 case 4:
 G2eM3797P = p0PUO(-2118040971, WQmi, -616445301, 575851423, Xnk_Fa9WC);
@@ -213,7 +213,7 @@ XXQlxTc += a5G7r;
 break;
 case 'e':
 case 'E':
-sjC53e = p0PUO(sjC53e, -1580784494, -1060510183, UUMM2Q, 1595582673);
+sjC53e = p0PUO(sjC53e, -1580784494, (short)-1060510183, UUMM2Q, 1595582673);
 break;
 case 'f':
 case 'F':
@@ -388,7 +388,7 @@ short int R9LKNe9Tx(unsigned short int Jw2SDk,long A0MY116)
 
 unsigned short int umob9(unsigned long O5Yr3nV_6D)
 {
- return -1775863098;
+ return (unsigned short)-1775863098;
 }
 
 unsigned short    u3gOO(long    WH_I9,int    GX_0t7Z2W6)

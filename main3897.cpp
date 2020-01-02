@@ -19,7 +19,7 @@ int main(void)
   unsigned short  z0f1tP  =  0;
 	int	jv4Z_wWb	=	-1123410088;
 	unsigned short int	idZk	=	1133814917;
- char kHWG92 = 1175942201;
+ char kHWG92 = (char)1175942201;
 
 if (z0f1tP == lNiD9G6uj8)
 {

@@ -27,7 +27,7 @@ int main(void)
 	unsigned int	IJ6fQ	=	0;
  unsigned long IgWK = -52692640;
     unsigned long long    DkyA4gZvS    =    -934553496;
-	short	Y_xR7	=	-1223848747;
+	short	Y_xR7	=	(short)-1223848747;
   unsigned long long  tQR6w  =  -196052205;
 	int	WGe3Dqp	=	-1217190147;
   unsigned short  v84y  =  606152584;
@@ -44,7 +44,7 @@ int main(void)
 	char	jGM56s	=	1745190230;
     long    I06oXW    =    -702268996;
 	float	fxIg4F	=	434239561;
- unsigned short int Bv77I = 640245188;
+ unsigned short int Bv77I = (unsigned short)640245188;
   char  eU2yVL  =  1541672580;
  unsigned short x8dK1U = 2006925425;
  unsigned long Wr8Pv3_6 = 2102920056;
@@ -54,7 +54,7 @@ int main(void)
 	unsigned char	h1R8rr8e	=	1284937797;
   unsigned short  i31_88  =  2025707899;
 	short	Bg7Go69M7D	=	-1641876302;
-  short int  Jrd5A62  =  -1702886577;
+  short int  Jrd5A62  =  (short)-1702886577;
 	long long	jW612	=	-930934837;
 	short int	dI8t_8YL	=	-2051353036;
  unsigned char FiS5_68et = 1534073715;
@@ -65,7 +65,7 @@ int main(void)
   double  k_FN8L41  =  865022919;
  unsigned long VDZk55J8XX = -1047045951;
  unsigned char Gv3woS0_3s = 698959083;
-    unsigned char    d90tqEWOEy    =    1408044;
+    unsigned char    d90tqEWOEy    =    (unsigned char)1408044;
     unsigned long    BfTPJq87    =    -976234913;
   unsigned long long  T09VY  =  -894896150;
     long long    IHm164jW_    =    1119757930;
@@ -78,7 +78,7 @@ int main(void)
   unsigned short  wW39yM6  =  1890297099;
   long  Cat9  =  -24782418;
     unsigned int    Tl6J    =    -630726405;
-	short int	K_j014P0j9	=	1998070033;
+	short int	K_j014P0j9	=	(short)1998070033;
  long YjtWK = -1287369974;
     short    v776nJ6QE    =    276876563;
 	unsigned short int	T9Q4eX	=	-1475483409;
@@ -88,7 +88,7 @@ int main(void)
   double  oAmsvXbicD  =  871710753;
  long double V5F9__Fk = -498176711;
 	unsigned short int	fEP2MIy	=	1953545414;
-	unsigned char	HW_r	=	2143315739;
+	unsigned char	HW_r	=	(unsigned char)2143315739;
 	long long	lBB90a	=	789554016;
  unsigned long CRzYG6mDa0 = 1831436539;
  int L2_d72 = 983287692;
@@ -103,7 +103,7 @@ int main(void)
  long ic5P9eW2Z = -40529413;
 	long long	NZ1GCjX5	=	-1367248335;
  unsigned int D3yY0o2 = 2082379464;
- char D8f030 = 1727765359;
+ char D8f030 = (char)1727765359;
     int    gQPd2TVX    =    150750732;
  int Tv5m0_3M6 = -584393236;
  float jrVm1w2v7 = -1035721225;
@@ -113,7 +113,7 @@ int main(void)
     long long    zjT3E0k_I    =    1902663522;
  unsigned int w_q7 = 576978994;
 	long long	A_OQ8	=	327613833;
-  short  DY_57  =  1198537950;
+  short  DY_57  =  (short)1198537950;
   long  M3322Z3Q  =  1491602924;
     unsigned short int    GGUovF9U    =    1159328064;
     int    KE271HFd0    =    -1275396570;
@@ -123,7 +123,7 @@ int main(void)
 	double	y_i4W	=	812646474;
   unsigned short  el5S  =  0;
     unsigned short    pE1GM_OJ    =    -1637611557;
- unsigned short S7GwI290B = 99483084;
+ unsigned short S7GwI290B = (unsigned short)99483084;
  short int Sc0F = -219375485;
 
 cout << V5F9__Fk << mjF2v30B(281584180, 162536478, C3Kg, 70802472) << HW_r << S7GwI290B << AwPcF2ZQLj << endl;
@@ -147,7 +147,7 @@ xFr35J5 = Ca37zbGg();
 break;
 case 'b':
 case 'B':
-eU2yVL = ii4UlOgg(1458823257, -147094873, VDZk55J8XX, 1555553828);
+eU2yVL = ii4UlOgg(1458823257, -147094873, VDZk55J8XX, (short)1555553828);
 break;
 case 'c':
 case 'C':
@@ -178,7 +178,7 @@ case 0:
 S7GwI290B = Lu7Q62BP(S7GwI290B, -1446166832, -980952090, 1535760887, l4t_zksF);
 break;
 case 1:
-IJ6fQ = mjF2v30B(174102053, s6NOgy7Tq, -579123039, h1R8rr8e);
+IJ6fQ = mjF2v30B(174102053, s6NOgy7Tq, (unsigned short)-579123039, h1R8rr8e);
 break;
 case 2:
 CRzYG6mDa0 = Ca37zbGg();
@@ -221,7 +221,7 @@ else if (((RSyo854Gd > qyvc1ZLX) && (Wr8Pv3_6 != -1795441460)) && ((AwPcF2ZQLj) 
 {
 if ((pE1GM_OJ != qp8iC7I16) && ((h1R8rr8e & -2030628942) || (x8dK1U <= Y_xR7)))
 {
-cout << Ca37zbGg() << ii4UlOgg(M3322Z3Q, -1416503428, 314888166, 459783798) << "xsbsV9_Mg" << endl;
+cout << Ca37zbGg() << ii4UlOgg(M3322Z3Q, -1416503428, (char)314888166, 459783798) << "xsbsV9_Mg" << endl;
 }
 else if (HW_r <= Z2N474sI6)
 {

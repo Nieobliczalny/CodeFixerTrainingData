@@ -26,7 +26,7 @@ int    VXh35qb()    {
 
 unsigned short uZV216p4lO()
 {
- return 1631499505;
+ return (unsigned short)1631499505;
 }
 
 unsigned short  Ig8m(unsigned short int  b_3i,unsigned int  UAX9L,short int  jr_M8sVxT,short int  U6G8B6T8P5,short int  IK3l8)  {
@@ -69,7 +69,7 @@ JbmRVzF7 = (int)(fZ3b);
 }
 else
 {
-KedUnS = Ig8m(J7_9lzD_, KedUnS, -1604179429, -307806272, 1118722440);
+KedUnS = Ig8m(J7_9lzD_, KedUnS, -1604179429, (short)-307806272, 1118722440);
 }
 switch (h713h57eu2)
 {

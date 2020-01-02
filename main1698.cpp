@@ -34,7 +34,7 @@ int main(void)
     short    ACY6_m    =    -1358908057;
     unsigned short int    lV_J_    =    0;
   long long  pb8G_9Bu  =  -1364809814;
-  unsigned short int  r6P4_N2V7  =  -319266986;
+  unsigned short int  r6P4_N2V7  =  (unsigned short)-319266986;
     long    RobW_p    =    0;
 	long long	j39_p22	=	591568605;
 

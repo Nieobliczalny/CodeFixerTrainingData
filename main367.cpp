@@ -20,7 +20,7 @@ int main()
  double WqJ3_ = 900757446;
  float nS54EK9U4j = 160983663;
  unsigned char IqKA = 0;
-    short int    v77hCW0J0    =    891065975;
+    short int    v77hCW0J0    =    (short)891065975;
   unsigned char  z9xQ5_hT0B  =  0;
   unsigned short int  r0Ncf24mZ  =  0;
  int D_WM4 = 0;

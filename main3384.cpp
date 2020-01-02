@@ -27,7 +27,7 @@ int main()
 
 Wl65CofC6O = (jn0bA6FT1 == -900270918) ? l0I_Qkv : V2F9wEO;
 
-SEFL2rhT = Om2366T1(SEFL2rhT, -2117463972, 1646818482);
+SEFL2rhT = Om2366T1(SEFL2rhT, -2117463972, (unsigned short)1646818482);
 
 jn0bA6FT1 = (long double)(tM5ogW);
 sN2_mn = (XMgI5GpDjQ < QThhsA3J) ? -551650858 : Ng5k_QI3A_;
@@ -74,7 +74,7 @@ F286EI = (int)ceil(wAf58B1Ng7);
 break;
 case 'e':
 case 'E':
-QThhsA3J = Om2366T1(-1292203872, -526665151, IrNnQ8_Gcc);
+QThhsA3J = Om2366T1(-1292203872, (unsigned short)-526665151, IrNnQ8_Gcc);
 break;
 case 'f':
 case 'F':
@@ -119,7 +119,7 @@ jn0bA6FT1 = (int)abs(sN2_mn);
 }
 else
 {
-FH6l = Om2366T1(-1983231825, jn0bA6FT1, -258327064);
+FH6l = Om2366T1(-1983231825, jn0bA6FT1, (unsigned short)-258327064);
 }
 }
 else if (if63KP9J2 > Wl65CofC6O)
@@ -139,7 +139,7 @@ case 'd':
 rxcxGy = pWsmmE9 / 1076896711;
 break;
 case 'e':
-mAKjsqD6W = O1hC_Hv(-1109183496, -657305788);
+mAKjsqD6W = O1hC_Hv((short)-1109183496, -657305788);
 break;
 case 'f':
 pWsmmE9 = (N7WqKlC < wAf58B1Ng7) ? l0I_Qkv : -767457734;
@@ -151,7 +151,7 @@ case 'h':
 SEFL2rhT = yokfo0S();
 break;
 case 'i':
-IrNnQ8_Gcc = Om2366T1(-284011728, -944723606, Wl65CofC6O);
+IrNnQ8_Gcc = Om2366T1(-284011728, (unsigned short)-944723606, Wl65CofC6O);
 break;
 case 'j':
 SEFL2rhT /= 1173948470;
@@ -163,7 +163,7 @@ break;
 }
 else if (F286EI < -994043725)
 {
-wAf58B1Ng7 = Om2366T1(1359744263, rxcxGy, 368520828);
+wAf58B1Ng7 = Om2366T1(1359744263, rxcxGy, (unsigned short)368520828);
 }
 else
 {
@@ -196,7 +196,7 @@ F286EI = W34n9 * 1245827414;
 }
 }
 }
-sN2_mn = Om2366T1(-842713499, wAf58B1Ng7, -1674027656);
+sN2_mn = Om2366T1(-842713499, wAf58B1Ng7, (unsigned short)-1674027656);
 
 pWsmmE9 = (Wl65CofC6O >= l0I_Qkv) ? -1136838373 : rxcxGy;
 
@@ -375,7 +375,7 @@ case 'a':
 mAKjsqD6W = O1hC_Hv(1087219254, b4zj);
 break;
 case 'b':
-mAKjsqD6W = O1hC_Hv(wAf58B1Ng7, -1952219962);
+mAKjsqD6W = O1hC_Hv(wAf58B1Ng7, (unsigned char)-1952219962);
 break;
 case 'c':
 rxcxGy = wAf58B1Ng7 * 810256126;
@@ -393,7 +393,7 @@ case 'g':
 if63KP9J2 = (int)abs(jn0bA6FT1);
 break;
 case 'h':
-mAKjsqD6W = O1hC_Hv(-1541793549, -1509365330);
+mAKjsqD6W = O1hC_Hv(-1541793549, (unsigned char)-1509365330);
 break;
 case 'i':
 wAf58B1Ng7 = O1hC_Hv(v9Y_8g5SC6, wAf58B1Ng7) >> 402143989;
@@ -529,7 +529,7 @@ return 0;
 
 char  yokfo0S()
 {
-  return  -1594743885;
+  return  (char)-1594743885;
 }
 
 unsigned long long O1hC_Hv(short int FWzw5we,unsigned char fL5Em8zQX2)

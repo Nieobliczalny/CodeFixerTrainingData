@@ -128,7 +128,7 @@ else if (f6rxZ19ds <= MwQ06f7GX_)
 {
 for (int k = 3; k >= 0; k--)
 {
-h8kmEQ = mZ40(1969178566) ^ MVn8;
+h8kmEQ = mZ40((char)1969178566) ^ MVn8;
 }
 }
 else if (HjZ7_ >= b0W7gWSxPq)
@@ -198,7 +198,7 @@ int j = 10;
 while (j >= 0)
 {
 --j;
-cout << i7eIuO_PKU(T_FKBZ5) << mZ40(2088850966) << mZ40(-1329013651) << hbkgg() << endl;
+cout << i7eIuO_PKU(T_FKBZ5) << mZ40(2088850966) << mZ40((char)-1329013651) << hbkgg() << endl;
 }
 }
 }

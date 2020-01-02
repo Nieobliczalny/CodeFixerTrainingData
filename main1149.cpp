@@ -33,7 +33,7 @@ unsigned char	f84gmUL5(short int	N7202Q5Lo2,short int	imWx,char	RF9r9TStiw,unsig
 
 unsigned short Ze7riVOZ8(unsigned long long bTbQw0,long long hi_5lCljH,unsigned short int iZ2EAlJ9,unsigned short int u93OM0yfVe,unsigned int q4p4Bo3hGf)
 {
- return 1212119521;
+ return (unsigned short)1212119521;
 }
 
 int main(int argc, char** argv)
@@ -72,7 +72,7 @@ case 'C':
 l1QfR_ = uf6LsfwP5 % 1579128801;
 break;
 default:
-pvlVVt8l_ = Gz3Nb1(1289094106, -1242081926);
+pvlVVt8l_ = Gz3Nb1(1289094106, (unsigned short)-1242081926);
 break;
 }
 if ((Rgo4_Ddm(-1435258236, 1120284869, -1673431928, -1694711353) / Rgo4_Ddm(pvlVVt8l_, -209854197, m690uS63, wu0eR34P1)) < -1391283790)

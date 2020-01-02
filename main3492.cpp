@@ -23,7 +23,7 @@ int main(void) {
 	long double	L03NxKV8;
 	L03NxKV8	=	1976252203;
     unsigned short int    V0a0q;
-    V0a0q    =    1660325501;
+    V0a0q    =    (unsigned short)1660325501;
     unsigned long    xQgI1iV;
     xQgI1iV    =    -1733326141;
 	int	WEjG3JK0;
@@ -47,7 +47,7 @@ int main(void) {
     double    cMKb4w;
     cMKb4w    =    1160716460;
     unsigned short    R91D193;
-    R91D193    =    296163397;
+    R91D193    =    (unsigned short)296163397;
  int qDP89FKI_;
  qDP89FKI_ = 706363681;
   float  Rr2zP054KL;
@@ -61,7 +61,7 @@ int main(void) {
   long double  GIym4V;
   GIym4V  =  -346388141;
  short int Vc1zqO64E1;
- Vc1zqO64E1 = -450615764;
+ Vc1zqO64E1 = (short)-450615764;
     unsigned short    I0O4;
     I0O4    =    -924714846;
     unsigned int    K51Z03g;
@@ -83,7 +83,7 @@ int main(void) {
  short qf2cP8I_Js;
  qf2cP8I_Js = 0;
  short int Uu20PY;
- Uu20PY = 1691202936;
+ Uu20PY = (short)1691202936;
     long double    leWbpj6S;
     leWbpj6S    =    -1417340829;
     unsigned long    D0vBV92wq;
@@ -99,7 +99,7 @@ int main(void) {
 	long double	T1QX;
 	T1QX	=	1312510580;
   char  xkunKwr;
-  xkunKwr  =  1197479890;
+  xkunKwr  =  (char)1197479890;
  int Bief01mt6;
  Bief01mt6 = 605552073;
 	unsigned long long	dgwguLc;
@@ -117,7 +117,7 @@ int main(void) {
  int sFsPloE8;
  sFsPloE8 = -601214212;
     unsigned char    jJIeQ8MY65;
-    jJIeQ8MY65    =    1106589805;
+    jJIeQ8MY65    =    (unsigned char)1106589805;
   unsigned int  lU_jU;
   lU_jU  =  -1031024247;
     float    h7V7PF4_;
@@ -129,7 +129,7 @@ int main(void) {
   long  GuQ9Zk;
   GuQ9Zk  =  1148424499;
   short  G_7U;
-  G_7U  =  -1716518642;
+  G_7U  =  (short)-1716518642;
  char HpuA7c9q7;
  HpuA7c9q7 = 116131960;
     char    WXN3n6O;
@@ -147,7 +147,7 @@ int main(void) {
     double    i2Za8uv;
     i2Za8uv    =    1868001538;
 
-i5FlQ = sbVy(1753634662, fCcW7fnnr, 1120987336, xR43To);
+i5FlQ = sbVy(1753634662, fCcW7fnnr, (short)1120987336, xR43To);
 GIym4V = (int)ceil(L03NxKV8);
 
 std::cout << RJ3tlA8 << dgwguLc << "J_898p" << std::endl;
@@ -213,7 +213,7 @@ Lp9F = ZTdRP_b7A(Vc1zqO64E1, i5FlQ, WO63, xQgI1iV, D0vBV92wq);
 switch (lA_xh)
 {
 case 0:
-Lp9F = ZTdRP_b7A(-1153423096, 562752355, -414573528, dHj15y, qDP89FKI_);
+Lp9F = ZTdRP_b7A(-1153423096, (unsigned short)562752355, -414573528, dHj15y, qDP89FKI_);
 break;
 case 1:
 L03NxKV8 = (int)ceil(zK03q_);
@@ -274,7 +274,7 @@ case 6:
 G_7U = HpuA7c9q7 << D0vBV92wq;
 break;
 case 7:
-tg_k = ZTdRP_b7A(2113065299, -126522323, -245615933, RTQb86_epW, GuQ9Zk);
+tg_k = ZTdRP_b7A(2113065299, (unsigned short)-126522323, -245615933, RTQb86_epW, GuQ9Zk);
 break;
 case 8:
 s2_p = sbVy(-879965372, s2_p, -392505186, -1274080069);

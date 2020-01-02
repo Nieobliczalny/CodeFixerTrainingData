@@ -25,7 +25,7 @@ int main(void)
   unsigned short  Uhjs5R64V;
   Uhjs5R64V  =  1090692547;
     unsigned short int    VIbb;
-    VIbb    =    -1121388555;
+    VIbb    =    (unsigned short)-1121388555;
   unsigned short int  h6E74Fk;
   h6E74Fk  =  -251351602;
     unsigned long    iXHX4nJ;
@@ -41,7 +41,7 @@ int main(void)
     int    GC75pri;
     GC75pri    =    1643120120;
  short Xc_79;
- Xc_79 = 610273294;
+ Xc_79 = (short)610273294;
  unsigned short Xv8P_KPa3;
  Xv8P_KPa3 = -716087856;
  unsigned int fDP1Lsgy8q;
@@ -51,7 +51,7 @@ int main(void)
   short  uZT4;
   uZT4  =  355820111;
   unsigned short int  DEvFY;
-  DEvFY  =  1721046231;
+  DEvFY  =  (unsigned short)1721046231;
     unsigned short    e_6k;
     e_6k    =    801689578;
     short    itB0lU0;
@@ -75,7 +75,7 @@ int main(void)
 
 uZT4 = (short)(GC75pri);
 
-DEvFY = (b1L7Jai8Fm <= 1015308727) ? -476946876 : 832527331;
+DEvFY = (b1L7Jai8Fm <= 1015308727) ? (unsigned short)-476946876 : 832527331;
 if ((GC75pri < sPS7d49) && (vCQkHadc >= Xv8P_KPa3))
 {
 h6E74Fk -= 1388336138;

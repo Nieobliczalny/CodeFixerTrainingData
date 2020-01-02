@@ -48,7 +48,7 @@ VXYC |= fHXD4;
 }
 else
 {
-std::cout << G_kq2mjp(N7A06, -1484269614, -1746122336) << "EkO7vwwHR" << G_kq2mjp(-654793743, -1413371138, 1324822158) << Hn_1t << "QMqEbM" << std::endl;
+std::cout << G_kq2mjp(N7A06, -1484269614, -1746122336) << "EkO7vwwHR" << G_kq2mjp(-654793743, (unsigned char)-1413371138, 1324822158) << Hn_1t << "QMqEbM" << std::endl;
 }
 }
 else
@@ -72,7 +72,7 @@ case 'd':
 iku96yZm8Q = G_kq2mjp(72299488, a_u1_g095, S8IXJON28);
 break;
 case 'e':
-iku96yZm8Q = G_kq2mjp(-2066993489, 2042957345, -1350000620);
+iku96yZm8Q = G_kq2mjp(-2066993489, (unsigned char)2042957345, -1350000620);
 break;
 case 'f':
 iku96yZm8Q = G_kq2mjp(-29138697, H08ST5gZ5, -321807589);
@@ -86,7 +86,7 @@ iku96yZm8Q = G_kq2mjp(434342471, -1145578951, JDtyF);
 break;
 case 'b':
 case 'B':
-iku96yZm8Q = G_kq2mjp(1705431654, -1452757156, 577060917);
+iku96yZm8Q = G_kq2mjp(1705431654, (unsigned char)-1452757156, 577060917);
 break;
 case 'c':
 case 'C':
@@ -158,7 +158,7 @@ case 5:
 ru25Lc *= TU4yA4;
 break;
 case 6:
-iku96yZm8Q = G_kq2mjp(JGKCiXCI, 782940015, R6sC);
+iku96yZm8Q = G_kq2mjp(JGKCiXCI, (unsigned char)782940015, R6sC);
 break;
 case 7:
 iku96yZm8Q = G_kq2mjp(-902240181, -1558502205, ibc2pYbMo);
@@ -212,7 +212,7 @@ else if (((WX8IqctP7Y >= Amujx) && (a_u1_g095 == Amujx)) || (xUJmG))
 {
 if (a_u1_g095 > Amujx)
 {
-iku96yZm8Q = G_kq2mjp(wZZPQjgq73, -1295567461, 1028578120);
+iku96yZm8Q = G_kq2mjp(wZZPQjgq73, (unsigned char)-1295567461, 1028578120);
 }
 else if (rtmen)
 {
@@ -267,7 +267,7 @@ iku96yZm8Q = G_kq2mjp(698440790, 886374888, -1945893740);
 
 std::cout << JGKCiXCI << G_kq2mjp(m_689R3Nt, rtmen, n4s_R) << G_kq2mjp(1015304769, rtmen, 802029331) << std::endl;
 
-iku96yZm8Q = G_kq2mjp(y7yP2LUH, 1857558005, hr5k87);
+iku96yZm8Q = G_kq2mjp(y7yP2LUH, (unsigned char)1857558005, hr5k87);
 
 Wg4BR = (unsigned long)(Amujx + (561635937));
 
@@ -462,7 +462,7 @@ JZ23 >>= XFs7Y;
 break;
 case 'c':
 case 'C':
-iku96yZm8Q = G_kq2mjp(Fk96B_13, 514931212, 743876605);
+iku96yZm8Q = G_kq2mjp(Fk96B_13, (unsigned char)514931212, 743876605);
 break;
 case 'd':
 case 'D':

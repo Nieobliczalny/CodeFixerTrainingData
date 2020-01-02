@@ -17,7 +17,7 @@ int main(int argc, char** argv)
  unsigned long o4I_u = -1675042769;
  short int LE5IFdvl = -1236013369;
     unsigned int    q008    =    162575672;
-  unsigned short  I0x_MY  =  -1295998884;
+  unsigned short  I0x_MY  =  (unsigned short)-1295998884;
 	long double	naT13	=	-1477569307;
   short  FlH_S_3Mv2  =  -770553387;
   char  JwB40ok  =  0;
@@ -29,7 +29,7 @@ int main(int argc, char** argv)
  unsigned short wj6e9 = 352504774;
 	unsigned long long	x4sfE6	=	-1885379791;
 	double	T7SmVgX51	=	1160323884;
-	unsigned short int	BZ_9fm	=	2140896953;
+	unsigned short int	BZ_9fm	=	(unsigned short)2140896953;
   char  A4j602j_  =  1532853418;
   long  ex8nzI3  =  -588059796;
 	double	Rfs45Ua	=	-656065120;
@@ -40,7 +40,7 @@ int main(int argc, char** argv)
 	unsigned long	SyZ47_06N	=	-1086559290;
   char  cUK_k2__5e  =  -607230234;
  long s76oGHIlms = 654214377;
-    unsigned short    vNgXyIHwH    =    400324075;
+    unsigned short    vNgXyIHwH    =    (unsigned short)400324075;
  long double O_8l9E0 = 787199343;
  short gQnzT8x0_4 = -1084729112;
   long  nX__f  =  1932028799;
@@ -51,7 +51,7 @@ int main(int argc, char** argv)
  unsigned long xUMb = -34803298;
 	unsigned int	L596F0	=	-417522831;
     long    U_6RJ1tojV    =    946429909;
- char PRm39e4wKI = -1763243917;
+ char PRm39e4wKI = (char)-1763243917;
 	unsigned short int	IZvMGDwb_	=	1933066762;
   unsigned long long  u2OtF  =  1827334926;
 	unsigned short int	QsD46_nx	=	255693047;
@@ -61,7 +61,7 @@ int main(int argc, char** argv)
   int  pS_49  =  -60981099;
     short int    x64NC83    =    -899049507;
 	unsigned char	j8Oy	=	1795328537;
- short KU818QK = -1035168541;
+ short KU818QK = (short)-1035168541;
     unsigned long long    y5aD    =    612034211;
     long long    HIktyL76_Y    =    79316589;
   unsigned long long  xdp454c7Mu  =  -778653558;
@@ -71,7 +71,7 @@ int main(int argc, char** argv)
 	short int	n4_Zf2D2	=	-1701115965;
 	short int	OHU97cf4	=	654847524;
  unsigned long long MjwOstZoNO = 0;
-	short	xgh5	=	718123391;
+	short	xgh5	=	(short)718123391;
   short int  p760LbWD5  =  1165237795;
   unsigned char  Rn_OX  =  692827870;
   unsigned char  lEDHQ5jE4  =  -1359374416;
@@ -135,7 +135,7 @@ else if (LhYtjw > 841869416)
 int k = 3;
 do
 {
-BZ_9fm = (ApnXSd3 & -1778746072) ? 2026623375 : -1460840968;
+BZ_9fm = (ApnXSd3 & -1778746072) ? 2026623375 : (unsigned short)-1460840968;
 --k;
 }
 while (k >= 0);

@@ -45,7 +45,7 @@ int main(int argc, char** argv)
 	short int	uUkOh9ojT;
 	uUkOh9ojT	=	-467675867;
  unsigned short int f_7yn;
- f_7yn = -758948916;
+ f_7yn = (unsigned short)-758948916;
 	unsigned short int	zD81b4auS;
 	zD81b4auS	=	203430338;
 	unsigned short int	v2_bA_D5J;
@@ -69,7 +69,7 @@ int main(int argc, char** argv)
 	short int	Mhb0yV8bqi;
 	Mhb0yV8bqi	=	-478904001;
 	char	Ji9Ix;
-	Ji9Ix	=	1578270231;
+	Ji9Ix	=	(char)1578270231;
     int    z46yUj;
     z46yUj    =    439312533;
 
@@ -143,7 +143,7 @@ case 6:
 xs8or5jx8c = wU2qd05D1S | Ji9Ix;
 break;
 case 7:
-z46yUj = hPGw(-1839377853, 1516700391);
+z46yUj = hPGw(-1839377853, (short)1516700391);
 break;
 case 8:
 EiD62yt = (int)ceil(D166tzgu);
@@ -309,7 +309,7 @@ catch (int& errorCode)
 Ji9Ix = (int)abs(zr_4W2P);
 }
 
-uUkOh9ojT = Snmz(-566017944);
+uUkOh9ojT = Snmz((char)-566017944);
 
 EiD62yt = (int)abs(z46yUj);
 Mhb0yV8bqi = (short int)(f_7yn);

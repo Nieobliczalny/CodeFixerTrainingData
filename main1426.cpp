@@ -35,7 +35,7 @@ int main(int argc, char** argv)
 	float	dR89h7kr7C;
 	dR89h7kr7C	=	-2122259061;
     unsigned short int    Rd5zX;
-    Rd5zX    =    -446229837;
+    Rd5zX    =    (unsigned short)-446229837;
     unsigned short int    or9yekk;
     or9yekk    =    -862152751;
  long odoCybE70;
@@ -53,7 +53,7 @@ int main(int argc, char** argv)
 	unsigned long long	xO00;
 	xO00	=	-1274005711;
 	short int	wy5clzB0b;
-	wy5clzB0b	=	-850686475;
+	wy5clzB0b	=	(short)-850686475;
     int    geWTd24_;
     geWTd24_    =    -1138932736;
  unsigned char x0NbImCOs;
@@ -75,7 +75,7 @@ int main(int argc, char** argv)
 	char	Im_ct9xM;
 	Im_ct9xM	=	1217603993;
   unsigned short  oZ0r7;
-  oZ0r7  =  -596874735;
+  oZ0r7  =  (unsigned short)-596874735;
   long long  m5AtAneS;
   m5AtAneS  =  -191104064;
  unsigned short int F4kq;
@@ -89,7 +89,7 @@ int main(int argc, char** argv)
 	long long	eV6dj61524;
 	eV6dj61524	=	-2030957462;
  unsigned short int j280AQV;
- j280AQV = 1408136447;
+ j280AQV = (unsigned short)1408136447;
 	unsigned short	E1gJxz02g;
 	E1gJxz02g	=	-436425944;
  unsigned short int fTLex;
@@ -101,7 +101,7 @@ int main(int argc, char** argv)
     int    s8dkU30Et;
     s8dkU30Et    =    1393776389;
   short  ERmg;
-  ERmg  =  67035530;
+  ERmg  =  (short)67035530;
  unsigned long long X87zOASOS_;
  X87zOASOS_ = -213263082;
   unsigned long  U8f6px_;
@@ -113,7 +113,7 @@ int main(int argc, char** argv)
   char  cIfMnZ1;
   cIfMnZ1  =  0;
  short int BjA6ux0;
- BjA6ux0 = -845620692;
+ BjA6ux0 = (short)-845620692;
   unsigned long long  A42d;
   A42d  =  -1066601717;
 	int	BBmXm7950;
@@ -139,7 +139,7 @@ int main(int argc, char** argv)
 	unsigned long long	uH5U;
 	uH5U	=	-116323761;
 	unsigned char	ITNoK;
-	ITNoK	=	988214292;
+	ITNoK	=	(unsigned char)988214292;
   short  nQ9NQ4rvl9;
   nQ9NQ4rvl9  =  1368375791;
     short    UMrNetQ;
@@ -316,7 +316,7 @@ while (i >= 0);
 }
 Kl5iGDY2 /= eV6dj61524;
 
-cout << eV6dj61524 / S7WBvBA04(305515977) << endl;
+cout << eV6dj61524 / S7WBvBA04((unsigned short)305515977) << endl;
 
 if (((X87zOASOS_) || (r_Rk <= 826583791)) && (xO00 < -1612232682))
 {

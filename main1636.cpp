@@ -16,7 +16,7 @@ int  QOuc7pkM()  {
 }
 
 char Y1Ahq8(int VBVF,unsigned long long V_65SIb) {
- return 1043372960;
+ return (char)1043372960;
 }
 
 int main(int argc, char** argv)
@@ -341,7 +341,7 @@ for (int j = 6; j >= 0; --j)
 {
 if (wsHi > -113064164)
 {
-sxIC09y0q = C2YrNkqbR(776125697, -803123326, 806283974);
+sxIC09y0q = C2YrNkqbR(776125697, (short)-803123326, 806283974);
 }
 }
 }
@@ -351,7 +351,7 @@ if ((b1KS9) && ((rzaO) && (BNVl5OrRKI)))
 {
 try
 {
-BNVl5OrRKI = C2YrNkqbR(-320755150, -333590434, 627210317);
+BNVl5OrRKI = C2YrNkqbR(-320755150, (short)-333590434, 627210317);
 }
 catch (int& errorCode)
 {

@@ -102,7 +102,7 @@ while (j < 2)
 {
 if (((N5no & TkYI0a7_) && (C26MaUdmz <= AFL6NYhVG)) || ((E5IiDEjE & N5no) || (K7AmKGeV >= kXT_)))
 {
-u_jVkx7Xo = aU0tt(-1682338943, 823993567, A999, Gbl4, -1072745420);
+u_jVkx7Xo = aU0tt(-1682338943, (unsigned short)823993567, A999, Gbl4, -1072745420);
 }
 else
 {
@@ -146,6 +146,6 @@ unsigned short int	QvqLE7E_R7(int	yN5_w9,int	rUIJB,char	DIPEvL,unsigned long	Zv3
 
 short  aU0tt(unsigned short  kp7vMfgE,unsigned short  FwZ6o12g,unsigned short int  CrURpv26i5,char  P_7b,unsigned short int  vdPeZCO6Mz)
 {
-  return  -1592704764;
+  return  (short)-1592704764;
 }
 

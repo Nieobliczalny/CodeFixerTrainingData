@@ -23,7 +23,7 @@ int main(int argc, char** argv) {
  unsigned long tq_c3q = -2097657864;
 	unsigned char	SRj617ryP	=	-590028543;
  long long X97Bo2fT = -1120888172;
- unsigned short ZiK9k74tJ = -1668488814;
+ unsigned short ZiK9k74tJ = (unsigned short)-1668488814;
 	unsigned long long	wdwMyT1d_	=	-1301259783;
 	unsigned long long	R5_t2b38d9	=	-1566659369;
 	short	v_mpK0NqN	=	-708574641;
@@ -36,7 +36,7 @@ int main(int argc, char** argv) {
   unsigned int  gUq8UR1g  =  2095196515;
   long  ErNYuC  =  -824249198;
 	unsigned long	hk5e49rf	=	0;
- unsigned short int s730d = 1604003104;
+ unsigned short int s730d = (unsigned short)1604003104;
  short int p4N0 = 0;
  unsigned long PX66_00g = 1960754698;
  long long LpfmX = 587433074;
@@ -47,7 +47,7 @@ int main(int argc, char** argv) {
     unsigned short    YfXmm5dj    =    44444567;
 	double	PaY8lVkp1S	=	339932945;
  double yS2JUzo2ll = -1356434216;
-    unsigned short    L8IH9    =    1108907275;
+    unsigned short    L8IH9    =    (unsigned short)1108907275;
   unsigned long  s6kY  =  -1197353123;
 	unsigned int	JJml	=	-337738247;
   long double  TJFe1f  =  -158817593;
@@ -57,7 +57,7 @@ int main(int argc, char** argv) {
     short int    Uo3qRV8z    =    455117452;
   unsigned short int  HN4C9S6  =  -688988217;
  unsigned long c_H34tJ = 2057096665;
-    unsigned short int    wLqvu4d1    =    1643252720;
+    unsigned short int    wLqvu4d1    =    (unsigned short)1643252720;
  unsigned short int YJU60j = 348144794;
   long double  P41m70aj7  =  -334869235;
   char  htvZ9ImB  =  -753422051;
@@ -140,7 +140,7 @@ ycM8x5C9FF = (int)ceil(LndTk6w);
 Y2A6z = (int)abs(Ci7nbe);
 for (int i = 0; i < 2; ++i)
 {
-cout << pY3zHE(s730d, -1093850236, SRj617ryP, HN4C9S6) << G3uv10V(-1166499769, -15874599) << L8IH9 << endl;
+cout << pY3zHE(s730d, -1093850236, SRj617ryP, HN4C9S6) << G3uv10V(-1166499769, (char)-15874599) << L8IH9 << endl;
 }
 if (X97Bo2fT < 32502547)
 {
@@ -414,7 +414,7 @@ case 'b':
 ycM8x5C9FF = pY3zHE(1591187009, ycM8x5C9FF, 1449242913, y00961s);
 break;
 case 'c':
-wdwMyT1d_ = pY3zHE(261551148, 516964649, Uo3qRV8z, cHTLae_HG6);
+wdwMyT1d_ = pY3zHE((unsigned short)261551148, 516964649, Uo3qRV8z, cHTLae_HG6);
 break;
 case 'd':
 wdwMyT1d_ = pY3zHE(1613225795, 506676755, SRj617ryP, p5wU);

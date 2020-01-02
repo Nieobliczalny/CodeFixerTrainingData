@@ -30,7 +30,7 @@ try
 int j = 0;
 do
 {
-NXXt6Agocv = z_wo_kDJ(1244034407, 469515345, I5d2p);
+NXXt6Agocv = z_wo_kDJ(1244034407, (short)469515345, I5d2p);
 j++;
 }
 while (j < 5);
@@ -51,7 +51,7 @@ if ((p_06 != 1918513461) && (C391))
 {
 try
 {
-X4n3 = z_wo_kDJ(1074118262, 1494898961, Smj6D);
+X4n3 = z_wo_kDJ(1074118262, (short)1494898961, Smj6D);
 }
 catch (int& errorCode)
 {
@@ -73,7 +73,7 @@ case 'a':
 dT132 = z_wo_kDJ(dT132, 295741124, lgbVXQ896L);
 break;
 case 'b':
-Mu63q0X = z_wo_kDJ(445075995, tLWRe8CGT, sPy6I_Nu);
+Mu63q0X = z_wo_kDJ((short)445075995, tLWRe8CGT, sPy6I_Nu);
 break;
 case 'c':
 lKx1z = z_wo_kDJ(lKx1z, -1935723055, e59h4P5zBX);
@@ -258,7 +258,7 @@ case 4:
 Li9sSBc32U = N9o5_Td_6W << p7TNN;
 break;
 case 5:
-GVQ4 = z_wo_kDJ(-1298527944, 898796426, -2110864093);
+GVQ4 = z_wo_kDJ(-1298527944, (short)898796426, -2110864093);
 break;
 case 6:
 X4n3 = N9o5_Td_6W >> 1613044969;
@@ -285,7 +285,7 @@ do
 switch (I5d2p)
 {
 case 0:
-Li9sSBc32U = z_wo_kDJ(828375051, -1769273825, I5d2p);
+Li9sSBc32U = z_wo_kDJ(828375051, (short)-1769273825, I5d2p);
 break;
 case 1:
 lKx1z -= 1473312837;
@@ -303,7 +303,7 @@ case 5:
 Zk486I1 = ZhU0F6jg(-998167730, tLWRe8CGT);
 break;
 case 6:
-O9odK1zl = z_wo_kDJ(-1516396179, C391, -840424345);
+O9odK1zl = z_wo_kDJ((short)-1516396179, C391, -840424345);
 break;
 case 7:
 Zk486I1 = ZhU0F6jg(k7UrO1, bE44z7E0M);
@@ -351,7 +351,7 @@ else
 {
 try
 {
-G8E1J7T_ = z_wo_kDJ(G8E1J7T_, 1832747447, 1103015119);
+G8E1J7T_ = z_wo_kDJ(G8E1J7T_, (short)1832747447, 1103015119);
 }
 catch (int& errorCode)
 {
@@ -371,7 +371,7 @@ case 'c':
 tLWRe8CGT |= 599588828;
 break;
 case 'd':
-ol8vYqK_72 = z_wo_kDJ(860777450, -57938142, W8UKJ3fY);
+ol8vYqK_72 = z_wo_kDJ(860777450, (short)-57938142, W8UKJ3fY);
 break;
 case 'e':
 JO81U = vUZmKc0 >> 133601206;
@@ -526,7 +526,7 @@ else if (hc96o8 == -1473392053)
 {
 if (((Wr_XG_zT0b <= vUZmKc0) && (KZ8m2_9T < 1825555119)) || (rSF_NTBUF != ONxPe57e))
 {
-std::cout << "M0iivO8Ro7" << z_wo_kDJ(1034656464, -1070675535, 1422206769) << std::endl;
+std::cout << "M0iivO8Ro7" << z_wo_kDJ(1034656464, (short)-1070675535, 1422206769) << std::endl;
 }
 else
 {
@@ -634,7 +634,7 @@ break;
 switch (t409)
 {
 case 0:
-gHC4uxFtEC = z_wo_kDJ(-1231920096, -374281428, -1631576243);
+gHC4uxFtEC = z_wo_kDJ(-1231920096, (short)-374281428, -1631576243);
 break;
 case 1:
 gHC4uxFtEC++;

@@ -204,7 +204,7 @@ int i = 7;
 while (i >= 0)
 {
 --i;
-std::cout << SMLmme7L1G(-363253111, LqB9i76e0, yYZ1F) << mL0rVMJW(398810807, 907703250, yYZ1F, VIa9Wxx5N) << AM7mAf50Q4 << std::endl;
+std::cout << SMLmme7L1G(-363253111, LqB9i76e0, yYZ1F) << mL0rVMJW(398810807, (short)907703250, yYZ1F, VIa9Wxx5N) << AM7mAf50Q4 << std::endl;
 }
 }
 {

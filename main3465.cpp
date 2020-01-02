@@ -12,7 +12,7 @@ char    ulr1gROA1()    {
 }
 
 short int T4xHC(unsigned long long h22g3Cbcr,short int hw1HQ,char IvvCLZIJa,unsigned short int wO67z921R9) {
- return 747176236;
+ return (short)747176236;
 }
 
 int	F3vL_()
@@ -27,7 +27,7 @@ int main() {
 switch (o8Od8E)
 {
 case 'a':
-fadyDL = T4xHC(-519789135, -188075545, o8Od8E, O2AjM);
+fadyDL = T4xHC(-519789135, (short)-188075545, o8Od8E, O2AjM);
 break;
 case 'b':
 yaXR = F3vL_();
@@ -45,7 +45,7 @@ case 'f':
 yaXR = F3vL_();
 break;
 case 'g':
-fadyDL = T4xHC(-2105838544, -1383851733, -1030497983, 810735840);
+fadyDL = T4xHC(-2105838544, (short)-1383851733, -1030497983, 810735840);
 break;
 case 'h':
 fadyDL = G_NI1s | 1904683274;
@@ -155,7 +155,7 @@ else if (yaXR < 138508543)
 {
 if (yaXR != 1842281126)
 {
-dv5vHJOj = T4xHC(134832742, -1833198170, 2143312590, -351463879);
+dv5vHJOj = T4xHC(134832742, -1833198170, (char)2143312590, -351463879);
 }
 }
 else if (Z79j == 180908997)
@@ -174,7 +174,7 @@ o8Od8E = ulr1gROA1();
 }
 else if (lL0JA > -865194083)
 {
-std::cout << ulr1gROA1() << T4xHC(o8Od8E, yaXR, 2026334972, -903583791) << std::endl;
+std::cout << ulr1gROA1() << T4xHC(o8Od8E, yaXR, 2026334972, (unsigned short)-903583791) << std::endl;
 }
 else
 {
@@ -286,7 +286,7 @@ else if (O2AjM & 1123565073)
 {
 try
 {
-fadyDL = T4xHC(O2AjM, 522593063, 322945475, G_NI1s);
+fadyDL = T4xHC(O2AjM, 522593063, (char)322945475, G_NI1s);
 }
 catch (int& errorCode)
 {
@@ -301,7 +301,7 @@ else
 {
 for (int k = 7; k >= 0; --k)
 {
-dv5vHJOj = T4xHC(dv5vHJOj, 2041878908, 178434250, lL0JA);
+dv5vHJOj = T4xHC(dv5vHJOj, 2041878908, (char)178434250, lL0JA);
 }
 }
 }

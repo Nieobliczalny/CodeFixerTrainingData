@@ -18,7 +18,7 @@ char	tW57_jZ5u(long	dTzE,unsigned short int	pP6eq511Ov,unsigned short int	Rm6G0e
 }
 
 char  Yo3j()  {
-  return  1784978271;
+  return  (char)1784978271;
 }
 
 short int d2f6DZ7I96(short int IBEkQjT,long Xstm28U46,int uK651,unsigned short int ClO3uPwKF)
@@ -34,7 +34,7 @@ cPX9338M = (int)(JTmAL66 + (-26621638));
 
 std::cout << Uf0c << std::endl;
 
-TG_3TZV1N = urP8YR / tW57_jZ5u(TG_3TZV1N, 1025352932, 145162631, Hb5z, -1851328340);
+TG_3TZV1N = urP8YR / tW57_jZ5u(TG_3TZV1N, 1025352932, (unsigned short)145162631, Hb5z, -1851328340);
 
 if ((Sg4wybz == Hb5z) || ((Hb5z != 1187079471) || (TG_3TZV1N > -1390861018)))
 {
@@ -135,7 +135,7 @@ Uf0c--;
 }
 
 Hb5z = (int)(tq2dViIf);
-Sg4wybz = d2f6DZ7I96(1609899136, 2080700265, -2139323677, 1137425441);
+Sg4wybz = d2f6DZ7I96(1609899136, 2080700265, -2139323677, (unsigned short)1137425441);
 for (int i = 1; i >= 0; i--)
 {
 for (int j = 0; j < 1; j++)

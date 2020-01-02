@@ -11,7 +11,7 @@ int main(int argc, char** argv) {
  short int B4lWG4;
  B4lWG4 = -919420088;
  unsigned short int IFhZ3eFj;
- IFhZ3eFj = 680322228;
+ IFhZ3eFj = (unsigned short)680322228;
  unsigned long Dy767Iu;
  Dy767Iu = 512358299;
  unsigned short int Q8GP6fS;
@@ -21,7 +21,7 @@ int main(int argc, char** argv) {
   short  S9TT;
   S9TT  =  -774905416;
     char    DRb_ly9_6;
-    DRb_ly9_6    =    -1489568926;
+    DRb_ly9_6    =    (char)-1489568926;
  long e8pnS;
  e8pnS = 1521099114;
 	unsigned long long	WOogweNv;
@@ -49,7 +49,7 @@ int main(int argc, char** argv) {
   short  cUxZ76;
   cUxZ76  =  1033178276;
   unsigned short int  PY2yfD01t7;
-  PY2yfD01t7  =  -2060353013;
+  PY2yfD01t7  =  (unsigned short)-2060353013;
  unsigned int Imc_sqE;
  Imc_sqE = -1445451239;
   unsigned short int  U7Bi;
@@ -59,7 +59,7 @@ int main(int argc, char** argv) {
  unsigned char T9h6;
  T9h6 = -1584222789;
  unsigned short lPs99SCtA;
- lPs99SCtA = -1846980800;
+ lPs99SCtA = (unsigned short)-1846980800;
  short lxR8fsK;
  lxR8fsK = 0;
 
@@ -351,7 +351,7 @@ case 'a':
 HiR_F2T += 1821243368;
 break;
 default:
-b0fiKd = (KwaCW_T < B4lWG4) ? -1492462597 : 985179439;
+b0fiKd = (KwaCW_T < B4lWG4) ? -1492462597 : (short)985179439;
 break;
 }
 }

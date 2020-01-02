@@ -27,7 +27,7 @@ int main(int argc, char** argv)
 	unsigned short int	Q3hQU263s7	=	1210411494;
   int  UFopag  =  -688640589;
   unsigned int  m_4h67D  =  1863676758;
-    unsigned short int    NR4G    =    -1489631731;
+    unsigned short int    NR4G    =    (unsigned short)-1489631731;
     unsigned short    R57B4    =    -2043942137;
   long  qjIk  =  -1912290734;
     long long    PHy3z    =    -252667982;
@@ -40,7 +40,7 @@ int main(int argc, char** argv)
   int  C_ocXx  =  342727179;
   long long  z_FV6B1ni9  =  -692309192;
  long long dEoNtF = 841155658;
-	unsigned short	f9P84Epl	=	273466100;
+	unsigned short	f9P84Epl	=	(unsigned short)273466100;
 	unsigned int	Ao_0sVwCu	=	-2014470658;
   char  n5Igrwj  =  -804073491;
   char  BTBD696Df  =  407355788;
@@ -55,7 +55,7 @@ int main(int argc, char** argv)
 	long double	ON4l7	=	-404879512;
     long long    P672Q    =    -1058869203;
  long long yifB3 = 20153441;
- unsigned short oRp9Ul7H = 1031573212;
+ unsigned short oRp9Ul7H = (unsigned short)1031573212;
   unsigned char  Uh2YKgDV7  =  -920939927;
 	short int	q1a7	=	895974723;
   unsigned int  a6Ah  =  -48683052;
@@ -66,7 +66,7 @@ int main(int argc, char** argv)
  short int m_C8qgf = -64919290;
 	short	t_cr1W29I	=	-1921629010;
  long double d4nFaNP4LA = -1582425803;
-    short    uXeUOE_eei    =    1756164272;
+    short    uXeUOE_eei    =    (short)1756164272;
 	short int	NWTzX4u	=	-1221343979;
   float  zr7a8F  =  -1280786669;
  unsigned long long s6vFK9 = 1437997908;
@@ -78,7 +78,7 @@ int main(int argc, char** argv)
   unsigned short  rY_483  =  222668175;
 	long long	r649	=	-1072517538;
 	long double	sK84Meo	=	105498289;
-  unsigned short  VTzL7T  =  -1685677648;
+  unsigned short  VTzL7T  =  (unsigned short)-1685677648;
     unsigned short int    DaSwDQ35    =    676102345;
  double JTE68 = -307038742;
  unsigned short int xxwe6tfdcv = 2119122694;
@@ -119,7 +119,7 @@ U7_L = (xxwe6tfdcv) ? aLw1T : -1801923245;
 break;
 case 'g':
 case 'G':
-DGs68AW = lW104ZUTJ(DGs68AW, -753414016, PHy3z, m_C8qgf);
+DGs68AW = lW104ZUTJ(DGs68AW, (unsigned char)-753414016, PHy3z, m_C8qgf);
 break;
 case 'h':
 case 'H':
@@ -165,7 +165,7 @@ D_al = T2L8Fy(D_al, emjjIbb, Ohl3q504, Q00Woxr, ON4l7);
 }
 else
 {
-cout << lW104ZUTJ(-1046815721, 922480916, Ohl3q504, Q00Woxr) << CiM7r(D_al, emjjIbb, 550394774, -752464605) << endl;
+cout << lW104ZUTJ(-1046815721, (unsigned char)922480916, Ohl3q504, Q00Woxr) << CiM7r(D_al, emjjIbb, 550394774, -752464605) << endl;
 }
 
 Ohl3q504 = lW104ZUTJ(-1225944764, D_al, zr7a8F, P672Q);
@@ -186,7 +186,7 @@ k--;
 }
 }
 
-w2Wh1gy = AAG7b1s(-476238357, R57B4, -845981290, 518869205, 991377295);
+w2Wh1gy = AAG7b1s(-476238357, R57B4, -845981290, 518869205, (unsigned short)991377295);
 if (uXeUOE_eei & WsRI3YBEc)
 {
 cout << "QzD0sxGaC" << endl;
@@ -256,7 +256,7 @@ oRp9Ul7H = CiM7r(-1696200517, Q3hQU263s7, 1694685193, -2017935186) >> Uh2YKgDV7;
 }
 else
 {
-cout << "qEZZq86q" << C_ocXx << "onQ628r" << WsRI3YBEc << dkIB03Tmv(-207598274, 579863899) << endl;
+cout << "qEZZq86q" << C_ocXx << "onQ628r" << WsRI3YBEc << dkIB03Tmv((short)-207598274, 579863899) << endl;
 }
 a6Ah = (unsigned int)(jNNcGULzR);
 if ((VTzL7T >= 33380680) || (TPus_S6U <= -575066152))
@@ -334,7 +334,7 @@ case 'e':
 k6_fj = dkIB03Tmv(1853468332, -22397464);
 break;
 case 'f':
-Ec_q2k = CiM7r(1966769344, -732101768, 938538472, WsRI3YBEc);
+Ec_q2k = CiM7r(1966769344, (short)-732101768, 938538472, WsRI3YBEc);
 break;
 case 'g':
 Uh2YKgDV7 <<= 88885836;
@@ -375,7 +375,7 @@ case 4:
 z_FV6B1ni9 = k6_fj | 2029954899;
 break;
 case 5:
-PHy3z = lW104ZUTJ(-411421456, -634218222, k6_fj, -1457166142);
+PHy3z = lW104ZUTJ(-411421456, (unsigned char)-634218222, k6_fj, -1457166142);
 break;
 }
 VTzL7T = NR4G - dEoNtF;
@@ -408,7 +408,7 @@ short int  AAG7b1s(int  JXxT3T,long  Vlitk6d,unsigned short int  r_7461qIkw,int 
 }
 
 unsigned char	lW104ZUTJ(short	lNDohgu1s9,unsigned char	Ej_ql21R,unsigned long	fHQMd_E1Ul,unsigned long	XXv3z3Y95U)	{
-	return	425116706;
+	return	(unsigned char)425116706;
 }
 
 long CiM7r(long KHliOpeQl0,short int q5Qg,unsigned long gx8CUpkf44,short int MOC0Xxr) {

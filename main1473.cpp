@@ -23,7 +23,7 @@ unsigned short IaZ3NA2(unsigned long long ln0d,unsigned int Kijc,short int yXAHS
 
 unsigned short  z7cWl716G(unsigned long  tyZ8X)
 {
-  return  2094302611;
+  return  (unsigned short)2094302611;
 }
 
 long    vO__6U38c(unsigned int    oH7KjxiP)
@@ -42,7 +42,7 @@ int main() {
 
 H1JT63N7 = (int)abs(VgfI657cv);
 JEN2u85g = (long double)(W7h4gLI57);
-P0V7 = jtnihKIStG(-1125944804, 570120401, W7h4gLI57, b1V9N_36) / NHWxncC(VgfI657cv, -1714047288, W7h4gLI57);
+P0V7 = jtnihKIStG(-1125944804, 570120401, W7h4gLI57, b1V9N_36) / NHWxncC(VgfI657cv, (short)-1714047288, W7h4gLI57);
 
 for (int i = 0; i < 3; ++i)
 {

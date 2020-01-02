@@ -27,7 +27,7 @@ int main()
     unsigned short int    e_f2MkqM;
     e_f2MkqM    =    -1661752121;
     unsigned short    sULZ0srL;
-    sULZ0srL    =    -1574295086;
+    sULZ0srL    =    (unsigned short)-1574295086;
   long double  OQL2;
   OQL2  =  1555041869;
     float    scw90;
@@ -39,7 +39,7 @@ int main()
   unsigned char  YHRj622B6O;
   YHRj622B6O  =  2071507218;
   short int  Lw30a76;
-  Lw30a76  =  317434608;
+  Lw30a76  =  (short)317434608;
 	long double	vFPKh5i3Oe;
 	vFPKh5i3Oe	=	-1701304384;
  short VSee;
@@ -51,7 +51,7 @@ int main()
     long double    QSj_q;
     QSj_q    =    -1501687934;
     short int    IJ11FNz6n;
-    IJ11FNz6n    =    -392411143;
+    IJ11FNz6n    =    (short)-392411143;
   char  zUE7wW;
   zUE7wW  =  -1905611518;
  unsigned short int Y2GNFRu09;
@@ -77,7 +77,7 @@ int main()
 	unsigned short int	Nee3wq4;
 	Nee3wq4	=	0;
 	short int	x229l;
-	x229l	=	163381168;
+	x229l	=	(short)163381168;
 	unsigned int	w6Tgry;
 	w6Tgry	=	-1537196791;
     unsigned char    C8jeFgFC;
@@ -103,7 +103,7 @@ int main()
   long  jyC3bBsYHJ;
   jyC3bBsYHJ  =  0;
     char    HDqUE6;
-    HDqUE6    =    2083148077;
+    HDqUE6    =    (char)2083148077;
  char EDa_EjCm;
  EDa_EjCm = -772171505;
   unsigned long long  qQ0s;
@@ -135,7 +135,7 @@ int main()
 	long long	XR3wAhIas;
 	XR3wAhIas	=	-1342677288;
 	unsigned short	qZ90VLQ;
-	qZ90VLQ	=	929884690;
+	qZ90VLQ	=	(unsigned short)929884690;
   unsigned short int  SIID4;
   SIID4  =  436003836;
 	long long	AZWu;
@@ -151,7 +151,7 @@ int main()
   int  tmCC;
   tmCC  =  -1808116536;
   short int  qo1T;
-  qo1T  =  -896412078;
+  qo1T  =  (short)-896412078;
     double    am_Kh8eL8r;
     am_Kh8eL8r    =    -1726807883;
 	unsigned short	hV3Z4D_Q3z;
@@ -163,7 +163,7 @@ int main()
   float  zy659BG0;
   zy659BG0  =  1052092899;
   unsigned char  ghAyKvpv_C;
-  ghAyKvpv_C  =  -605213830;
+  ghAyKvpv_C  =  (unsigned char)-605213830;
     long long    PNtvG;
     PNtvG    =    1551469290;
 	double	WJHJhv21N;
@@ -197,7 +197,7 @@ int main()
   long  haGeZop1f;
   haGeZop1f  =  -6830875;
   unsigned char  WGFhcf;
-  WGFhcf  =  669145162;
+  WGFhcf  =  (unsigned char)669145162;
 	int	W_XtvY28t;
 	W_XtvY28t	=	274683263;
   long double  In296IqTJ;
@@ -217,7 +217,7 @@ int main()
  long long MW8vvtdb;
  MW8vvtdb = -1607554478;
  short int RHME7iU;
- RHME7iU = -855455247;
+ RHME7iU = (short)-855455247;
  int jDDLmQ8;
  jDDLmQ8 = 1538827267;
  long ol6eWny;
@@ -248,7 +248,7 @@ else if ((SVZT3J48N) || (jyC3bBsYHJ > -1302941202))
 {
 if (L06EuP_7PV <= Gmpw_3m_)
 {
-cout << "bevpL" << Ro3E(zc_E1A8oD) << "vQ99" << Y2GNFRu09 << HoQb(2035595263, G6QZbt, V89t_28MKu, V7m9I2j6f, 1664661051) << endl;
+cout << "bevpL" << Ro3E(zc_E1A8oD) << "vQ99" << Y2GNFRu09 << HoQb(2035595263, G6QZbt, V89t_28MKu, V7m9I2j6f, (unsigned short)1664661051) << endl;
 }
 else
 {
@@ -261,7 +261,7 @@ t8qAndE_v = (long long)(QcP1J1);
 }
 else if (rk5a != X50Rv0P7q)
 {
-cout << Ro3E(1767964610) << "ly8log_" << zBgF9C(2119981376, 336741354, 844921651, 311095587) << KyjBiP1MIK << endl;
+cout << Ro3E(1767964610) << "ly8log_" << zBgF9C(2119981376, (unsigned short)336741354, 844921651, 311095587) << KyjBiP1MIK << endl;
 }
 else if ((sULZ0srL & W_XtvY28t) && (X50Rv0P7q >= aP_k120OH))
 {
@@ -298,7 +298,7 @@ int k = 0;
 do
 {
 k++;
-g5d6 = HoQb(-1017042787, 240472575, -1729983172, YHRj622B6O, HDqUE6);
+g5d6 = HoQb(-1017042787, (short)240472575, -1729983172, YHRj622B6O, HDqUE6);
 }
 while (k < 3);
 }
@@ -311,7 +311,7 @@ HDqUE6 = f7dXQ8d << bq6w2OpR_P;
 }
 else
 {
-XJTaR = zBgF9C(919650021, 301812572, qFftv, QcP1J1);
+XJTaR = zBgF9C(919650021, (unsigned short)301812572, qFftv, QcP1J1);
 }
 }
 }
@@ -520,7 +520,7 @@ bEqP7p = (int)ceil(zy659BG0);
 break;
 case 'd':
 case 'D':
-AZWu = zBgF9C(1017214753, -566976064, bF848j5J, -824538903);
+AZWu = zBgF9C(1017214753, (unsigned short)-566976064, bF848j5J, -824538903);
 break;
 case 'e':
 case 'E':
@@ -636,7 +636,7 @@ q4Lkk7 = Yij9deO94(-1918995945, l840Zt, G6QZbt, 941794296);
 }
 else
 {
-AZWu = HoQb(q4Lkk7, -1298725229, 152819087, YHRj622B6O, KyjBiP1MIK) ^ haGeZop1f;
+AZWu = HoQb(q4Lkk7, (short)-1298725229, 152819087, YHRj622B6O, KyjBiP1MIK) ^ haGeZop1f;
 }
 }
 }

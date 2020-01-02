@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
     short int    O2D33d;
     O2D33d    =    1303703420;
  short int Pt54_Fy1V2;
- Pt54_Fy1V2 = -1204968621;
+ Pt54_Fy1V2 = (short)-1204968621;
     unsigned short int    v14l72NK;
     v14l72NK    =    0;
   unsigned long long  MHSd;
@@ -91,7 +91,7 @@ case 'j':
 CmNTt369 = wQ4LMg(-1995025443);
 break;
 default:
-L0k4q = r6_7g(-637317376, -1073126587, lJLo3);
+L0k4q = r6_7g(-637317376, (unsigned short)-1073126587, lJLo3);
 break;
 }
 }
@@ -173,7 +173,7 @@ L0k4q = (int)ceil(WZvrdj9uaC);
 break;
 case 'g':
 case 'G':
-Wf_MX2 = tn9_(-1221943054, -2003762929, ZUPCWkt);
+Wf_MX2 = tn9_(-1221943054, (short)-2003762929, ZUPCWkt);
 break;
 case 'h':
 case 'H':
@@ -196,7 +196,7 @@ break;
 
 for (int i = 0; i < 1; ++i)
 {
-Pt54_Fy1V2 = wQ4LMg(-124730163);
+Pt54_Fy1V2 = wQ4LMg((short)-124730163);
 }
 
 std::cout << -1596918706 / Wf_MX2 << std::endl;
@@ -241,7 +241,7 @@ WZvrdj9uaC = wQ4LMg(1250214833);
 
 Ip03_T7jy9 = (long)(kHsD_aes);
 
-std::cout << Wf_MX2 << "h2Hfnm670K" << tn9_(-330797088, 117325889, 296970802) << wQ4LMg(-124025814) << "V3i9MlD42" << std::endl;
+std::cout << Wf_MX2 << "h2Hfnm670K" << tn9_(-330797088, (short)117325889, 296970802) << wQ4LMg(-124025814) << "V3i9MlD42" << std::endl;
 switch (v14l72NK)
 {
 case 0:
@@ -269,7 +269,7 @@ case 7:
 L0k4q = (int)floor(WZvrdj9uaC);
 break;
 }
-std::cout << r6_7g(ZUPCWkt, 1016960278, Ge__6Q7Qw) << "Aga_RLi" << r6_7g(ZUPCWkt, dW8B6a, Ge__6Q7Qw) << std::endl;
+std::cout << r6_7g(ZUPCWkt, (unsigned short)1016960278, Ge__6Q7Qw) << "Aga_RLi" << r6_7g(ZUPCWkt, dW8B6a, Ge__6Q7Qw) << std::endl;
 
 if (((Pt54_Fy1V2 == 760740224) || (MHSd > WZvrdj9uaC)) || ((Pt54_Fy1V2 >= kHsD_aes) && (bvr87M >= Ge__6Q7Qw)))
 {
@@ -386,7 +386,7 @@ bvr87M = tn9_(CmNTt369, -490783580, bvr87M);
 
 try
 {
-ZUPCWkt = wQ4LMg(245680621);
+ZUPCWkt = wQ4LMg((short)245680621);
 }
 catch (int& errorCode)
 {
@@ -431,7 +431,7 @@ return 0;
 
 short	wQ4LMg(short	zuPX_z4)
 {
-	return	435805702;
+	return	(short)435805702;
 }
 
 unsigned int    tn9_(unsigned long long    qT6t_6,short int    m98Op0WN,unsigned int    TI90)

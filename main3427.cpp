@@ -17,7 +17,7 @@ unsigned char WKb6u(unsigned char U1L1,long t3Wtc,unsigned char yXFjwGFY,short f
 }
 
 char  ylr6u4jGZ(char  rk4PFk1UI,unsigned short  EU6wDtQ)  {
-  return  643293047;
+  return  (char)643293047;
 }
 
 int s7286uSR4B() {
@@ -39,7 +39,7 @@ int main(int argc, char** argv) {
   long long  F0l3;
   F0l3  =  0;
 	unsigned short int	hGmGC;
-	hGmGC	=	-1147488424;
+	hGmGC	=	(unsigned short)-1147488424;
 	char	OuN42b5080;
 	OuN42b5080	=	-773514823;
     unsigned long    z9mr1x;
@@ -59,7 +59,7 @@ int main(int argc, char** argv) {
   double  Pz94E;
   Pz94E  =  -1173054816;
 	short int	oF75JE9;
-	oF75JE9	=	-1303127269;
+	oF75JE9	=	(short)-1303127269;
  unsigned char Lsi8CPT_04;
  Lsi8CPT_04 = -55507059;
  long double p0NO0UZX;
@@ -71,7 +71,7 @@ int main(int argc, char** argv) {
 int i = 0;
 do
 {
-Pz94E = WKb6u(-1929815242, oF75JE9, -1432929500, N_fe948, 955794682);
+Pz94E = WKb6u((unsigned char)-1929815242, oF75JE9, -1432929500, N_fe948, 955794682);
 ++i;
 }
 while (i < 3);
@@ -98,7 +98,7 @@ case 3:
 z9mr1x = s7286uSR4B();
 break;
 case 4:
-I7MomU = WKb6u(-1384501717, 1925416250, -423557712, -1080166467, 1633995230);
+I7MomU = WKb6u(-1384501717, 1925416250, (unsigned char)-423557712, -1080166467, 1633995230);
 break;
 case 5:
 Pz94E = (int)floor(Ol51);
@@ -114,7 +114,7 @@ try
 int j = 9;
 do
 {
-cout << "QYYcEU" << F0l3 << s7286uSR4B() << WKb6u(I7MomU, -407410930, Ol51, -1610405304, 163614217) << RB0J(-366760584) << endl;
+cout << "QYYcEU" << F0l3 << s7286uSR4B() << WKb6u(I7MomU, -407410930, Ol51, -1610405304, 163614217) << RB0J((short)-366760584) << endl;
 --j;
 }
 while (j >= 0);
@@ -158,7 +158,7 @@ case 'f':
 F0l3 = (int)abs(p0NO0UZX) * 0;
 break;
 default:
-cME4 = WKb6u(-135329407, Pz94E, -226954147, oF75JE9, Lsi8CPT_04);
+cME4 = WKb6u(-135329407, Pz94E, (unsigned char)-226954147, oF75JE9, Lsi8CPT_04);
 break;
 }
 if ((Lsi8CPT_04 & nyNXJ4) && (I7MomU < C5WrRX7hL))
@@ -265,7 +265,7 @@ switch (F0l3)
 {
 case 'a':
 case 'A':
-p0NO0UZX = WKb6u(p0NO0UZX, Lsi8CPT_04, -763307772, 724336106, hGmGC);
+p0NO0UZX = WKb6u(p0NO0UZX, Lsi8CPT_04, -763307772, (short)724336106, hGmGC);
 break;
 case 'b':
 case 'B':

@@ -34,7 +34,7 @@ ii_m_D = Sqo5KN9_o5(ii_m_D, jXRe58c9, uiVO47Nq);
 
 for (int i = 0; i < 3; i++)
 {
-nkxzlS = Sqo5KN9_o5(298912437, 1788050714, 1307787095);
+nkxzlS = Sqo5KN9_o5(298912437, (char)1788050714, 1307787095);
 }
 if ((uiVO47Nq > Ic0a9N0) || (YODr6h))
 {
@@ -98,7 +98,7 @@ std::cout << I220 << Sqo5KN9_o5(VkSf4C, n6Gk1, 1835535954) << VVtcw6(VkSf4C) << 
 }
 E0A4T = (long double)(aswePP8);
 
-std::cout << nPvI4Wby_ << jIg2 << Sqo5KN9_o5(-1155850902, 859604444, -317007902) << "p61eWXH0" << VkSf4C << std::endl;
+std::cout << nPvI4Wby_ << jIg2 << Sqo5KN9_o5((short)-1155850902, 859604444, -317007902) << "p61eWXH0" << VkSf4C << std::endl;
 aN6Ih5h55 = (long double)(IPHP_T_3L_);
 
 l1z4EH = Q3pK8g / 729203615;

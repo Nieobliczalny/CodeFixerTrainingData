@@ -44,7 +44,7 @@ int main(void) {
   int  o3z1;
   o3z1  =  -4373834;
   unsigned char  ha3FX3;
-  ha3FX3  =  2034513507;
+  ha3FX3  =  (unsigned char)2034513507;
 	long	F8oSM;
 	F8oSM	=	321859800;
   unsigned short  oGc__C;
@@ -62,7 +62,7 @@ int main(void) {
     int    xIDi_;
     xIDi_    =    118008669;
 	short int	r6NmqL78e;
-	r6NmqL78e	=	-553123851;
+	r6NmqL78e	=	(short)-553123851;
   short int  P3845E8;
   P3845E8  =  83840738;
     short    A0F5dIZZz;
@@ -72,7 +72,7 @@ int main(void) {
 	short int	byNH_4rV42;
 	byNH_4rV42	=	-979995183;
 	unsigned short int	Gc4JWNFtT7;
-	Gc4JWNFtT7	=	9176878;
+	Gc4JWNFtT7	=	(unsigned short)9176878;
     float    bg_Oz5;
     bg_Oz5    =    2057543889;
     unsigned int    i6_8l;
@@ -102,7 +102,7 @@ int main(void) {
 	long	to7P1O39;
 	to7P1O39	=	-1825765450;
     unsigned char    bdZ5i_Y;
-    bdZ5i_Y    =    347123265;
+    bdZ5i_Y    =    (unsigned char)347123265;
   short  BZjeUYgf26;
   BZjeUYgf26  =  -1654941399;
 	unsigned short int	x4RiATz;
@@ -112,7 +112,7 @@ int main(void) {
   int  C_t6tZ963;
   C_t6tZ963  =  1958048641;
   unsigned short  wAm1P58ZB3;
-  wAm1P58ZB3  =  1884774080;
+  wAm1P58ZB3  =  (unsigned short)1884774080;
  unsigned int DmQX04R;
  DmQX04R = -63521109;
     short    GUJFS;
@@ -124,7 +124,7 @@ int main(void) {
     unsigned char    HCm4ii3;
     HCm4ii3    =    2085486412;
   unsigned short  uVu_98394t;
-  uVu_98394t  =  373730932;
+  uVu_98394t  =  (unsigned short)373730932;
 	char	D33n;
 	D33n	=	-1916404160;
 	unsigned char	C9_f5LI;
@@ -136,7 +136,7 @@ int main(void) {
 	unsigned long	ez_11ssQc;
 	ez_11ssQc	=	1774704287;
 	unsigned short int	w2pg6M;
-	w2pg6M	=	2059850017;
+	w2pg6M	=	(unsigned short)2059850017;
     char    Z4e6n;
     Z4e6n    =    1790260952;
     int    W0yf;
@@ -156,7 +156,7 @@ int main(void) {
     int    KiPY;
     KiPY    =    -611907187;
   unsigned char  ay_Ze;
-  ay_Ze  =  1512071715;
+  ay_Ze  =  (unsigned char)1512071715;
   char  A7_StpuUh;
   A7_StpuUh  =  -1236657391;
 	long long	jD6811qaqq;
@@ -172,7 +172,7 @@ int main(void) {
  unsigned long eY1I6f_7;
  eY1I6f_7 = -818998019;
   unsigned short  D7210;
-  D7210  =  -1632063102;
+  D7210  =  (unsigned short)-1632063102;
 	int	Kw_R20oEX;
 	Kw_R20oEX	=	-810372544;
   short  I_EFjVz;
@@ -185,7 +185,7 @@ H9m_q4 = u8_V5(2010292691);
 int i = 1;
 do
 {
-HCm4ii3 = jJa3D5BcM(846012722, 342917101, xVz341sQ, U_08, -167690484);
+HCm4ii3 = jJa3D5BcM((short)846012722, 342917101, xVz341sQ, U_08, -167690484);
 --i;
 }
 while (i >= 0);
@@ -255,7 +255,7 @@ int k = 0;
 do
 {
 ++k;
-bg_Oz5 = jJa3D5BcM(-1882971145, -1539352914, 1962095566, mi_c_D08Q, i6_8l);
+bg_Oz5 = jJa3D5BcM(-1882971145, -1539352914, (char)1962095566, mi_c_D08Q, i6_8l);
 }
 while (k < 9);
 }
@@ -314,7 +314,7 @@ Gf0s7h = w755WAR2();
 break;
 case 'f':
 case 'F':
-C4X0 = jJa3D5BcM(322786208, vBS1l3it8G, W0yf, 1235662734, 1258833565);
+C4X0 = jJa3D5BcM(322786208, vBS1l3it8G, W0yf, 1235662734, (short)1258833565);
 break;
 case 'g':
 case 'G':
@@ -440,7 +440,7 @@ AW5C = (iQvmD6 < -1797143996) ? w755WAR2() : -1959506541;
 break;
 case 'g':
 case 'G':
-C9_f5LI = u8_V5(-1343620749);
+C9_f5LI = u8_V5((unsigned short)-1343620749);
 break;
 case 'h':
 case 'H':
@@ -456,7 +456,7 @@ U_08 = (int)floor(l39tqIo);
 break;
 }
 std::cout << kGb84uZ6(858565230) << "DBE22" << xccJBey7 << std::endl;
-std::cout << u8_V5(1274351648) << "eL8O" << kGb84uZ6(888385518) << G3BZ(uVu_98394t, 886052930, C4X0, 7256278) << std::endl;
+std::cout << u8_V5((unsigned short)1274351648) << "eL8O" << kGb84uZ6(888385518) << G3BZ(uVu_98394t, 886052930, C4X0, 7256278) << std::endl;
 
 switch (xccJBey7)
 {
@@ -529,7 +529,7 @@ else if (C4X0 >= K5V2z7ij)
 {
 for (int k = 0; k < 5; ++k)
 {
-Cn4DMt8e1 = jJa3D5BcM(1963734464, -1410986624, 1390155526, Gc4JWNFtT7, 1256889824);
+Cn4DMt8e1 = jJa3D5BcM((short)1963734464, -1410986624, 1390155526, Gc4JWNFtT7, 1256889824);
 }
 }
 else if (ay_Ze == 1713225913)
@@ -600,7 +600,7 @@ unsigned short    u8_V5(unsigned short    v4q5SvO7g)
 }
 
 char kGb84uZ6(unsigned long long tFPN_kgX) {
- return -1292537898;
+ return (char)-1292537898;
 }
 
 unsigned short    w755WAR2()

@@ -31,7 +31,7 @@ int main(int argc, char** argv)
 {
 	short int	Z3ndv_2E,	aDudJa0k76,	lq83230r9g,	yuiDXm2,	qcrU,	tri5,	FdM8sfM,	W_5kD1c7po,	uoeOt3,	X7ze,	M4804EtBh,	fsE8xOZ,	U72h8IJ,	TDY98zq,	vS9AFVl41P,	JtzPXvQ4,	TYF2BX3J49,	m1Qc7I,	b7_Df,	t5_54V8,	End1K,	l26WP52,	Cpo_vG3Q,	Fr_oJ6cIm,	QVv9CMl4,	LpqzxYFe_D,	sN877P5tR6,	UaBd1fNW6,	bZOeRiVO,	K0wul_cOap,	fpKB3i_jLb,	CKIB,	w0MQee,	bQC5Hk5,	uad84,	a4NorF4Xy,	amSF7,	Rv8W5HHHU,	OPYD_J,	zZU78gS,	X126A,	N83vR35i_6,	z4jfNl8D9,	FS603OM9,	Y_NbFuyZ,	Q9Y07K0OAt,	tR_4lf,	qZTxV,	T13KVMWd43,	b_928l,	WrjyB3,	Ov2EN71AK,	BjUq20lT,	G_JLrK_GrZ,	dBGg_6,	gPu1DGKkXf,	ek5gQn_Bo,	y_Tc2AP,	ED9z1My9,	DdWGD,	m76Ef,	EyN_W,	I9MDyc7,	owb5x,	jSRBk9lwV,	lr7W,	EQH3OnAW9Z,	pissUMuT,	sv5If2sa3f,	W0yPU50mde,	v4C6,	p5_AJ6Br5a,	q_q86s,	M_C8181,	tYpTpi5SBr,	L35B4n6yA,	eyFe,	MYL2oI0C,	oFkD5lL_,	Kmjo0LfTa,	ZVvIO,	g_DA8DeQr,	Od_6L2s6P,	D3_85d,	A01w4R0Qjb;
 	Z3ndv_2E	=	-1099229734;
-	aDudJa0k76	=	1538385025;
+	aDudJa0k76	=	(short)1538385025;
 	lq83230r9g	=	-771633908;
 	yuiDXm2	=	-723279926;
 	qcrU	=	-1181821079;
@@ -41,7 +41,7 @@ int main(int argc, char** argv)
 	uoeOt3	=	759702351;
 	X7ze	=	1505198369;
 	M4804EtBh	=	784236954;
-	fsE8xOZ	=	-907642751;
+	fsE8xOZ	=	(short)-907642751;
 	U72h8IJ	=	-546279114;
 	TDY98zq	=	-938531555;
 	vS9AFVl41P	=	-171511242;
@@ -51,7 +51,7 @@ int main(int argc, char** argv)
 	b7_Df	=	1081034178;
 	t5_54V8	=	-860287794;
 	End1K	=	88394387;
-	l26WP52	=	-148795201;
+	l26WP52	=	(short)-148795201;
 	Cpo_vG3Q	=	148838524;
 	Fr_oJ6cIm	=	1092215014;
 	QVv9CMl4	=	1492497904;
@@ -61,7 +61,7 @@ int main(int argc, char** argv)
 	bZOeRiVO	=	-1154805488;
 	K0wul_cOap	=	-706146263;
 	fpKB3i_jLb	=	-1793044218;
-	CKIB	=	-643458623;
+	CKIB	=	(short)-643458623;
 	w0MQee	=	1831558421;
 	bQC5Hk5	=	1179508705;
 	uad84	=	361581954;
@@ -71,7 +71,7 @@ int main(int argc, char** argv)
 	OPYD_J	=	972269204;
 	zZU78gS	=	348094268;
 	X126A	=	-1833261050;
-	N83vR35i_6	=	-1993192747;
+	N83vR35i_6	=	(short)-1993192747;
 	z4jfNl8D9	=	181589303;
 	FS603OM9	=	-1150521585;
 	Y_NbFuyZ	=	1994186538;
@@ -81,7 +81,7 @@ int main(int argc, char** argv)
 	T13KVMWd43	=	-1034962754;
 	b_928l	=	2008619956;
 	WrjyB3	=	1508367054;
-	Ov2EN71AK	=	-1319696914;
+	Ov2EN71AK	=	(short)-1319696914;
 	BjUq20lT	=	-609151898;
 	G_JLrK_GrZ	=	-1202952881;
 	dBGg_6	=	168480615;
@@ -91,7 +91,7 @@ int main(int argc, char** argv)
 	ED9z1My9	=	-2072270159;
 	DdWGD	=	1819153244;
 	m76Ef	=	854616763;
-	EyN_W	=	-1678173734;
+	EyN_W	=	(short)-1678173734;
 	I9MDyc7	=	1608297823;
 	owb5x	=	1715038629;
 	jSRBk9lwV	=	797977646;
@@ -101,7 +101,7 @@ int main(int argc, char** argv)
 	sv5If2sa3f	=	-2070792009;
 	W0yPU50mde	=	1313007808;
 	v4C6	=	688295045;
-	p5_AJ6Br5a	=	-208169705;
+	p5_AJ6Br5a	=	(short)-208169705;
 	q_q86s	=	968214170;
 	M_C8181	=	333245239;
 	tYpTpi5SBr	=	-1089801629;
@@ -111,7 +111,7 @@ int main(int argc, char** argv)
 	oFkD5lL_	=	2096475431;
 	Kmjo0LfTa	=	1653283504;
 	ZVvIO	=	1621338364;
-	g_DA8DeQr	=	-681579130;
+	g_DA8DeQr	=	(short)-681579130;
 	Od_6L2s6P	=	-678667193;
 	D3_85d	=	567658670;
 	A01w4R0Qjb	=	95704639;
@@ -317,7 +317,7 @@ uad84 = U63kt8I8j * 2032554389;
 }
 else
 {
-w0MQee = pMeN_B(141206085, 117777143);
+w0MQee = pMeN_B(141206085, (short)117777143);
 }
 }
 }
@@ -476,7 +476,7 @@ case 6:
 b_928l = pMeN_B(-659884798, m76Ef);
 break;
 case 7:
-Q9Y07K0OAt = pMeN_B(-372684782, gPu1DGKkXf);
+Q9Y07K0OAt = pMeN_B((unsigned char)-372684782, gPu1DGKkXf);
 break;
 case 8:
 A01w4R0Qjb = (int)abs(zZU78gS);
@@ -532,7 +532,7 @@ if (n09Sca6 & U63kt8I8j)
 {
 try
 {
-Od_6L2s6P = pMeN_B(Od_6L2s6P, -1263738077);
+Od_6L2s6P = pMeN_B(Od_6L2s6P, (short)-1263738077);
 }
 catch (int& errorCode)
 {
@@ -550,7 +550,7 @@ if (U72h8IJ & U63kt8I8j)
 {
 try
 {
-Kmjo0LfTa = pMeN_B(Kmjo0LfTa, -273704735);
+Kmjo0LfTa = pMeN_B(Kmjo0LfTa, (short)-273704735);
 }
 catch (int& errorCode)
 {
@@ -616,7 +616,7 @@ int k = 9;
 do
 {
 k--;
-A2y5r = c__w1(fsE8xOZ, -679983202, 1899997026);
+A2y5r = c__w1(fsE8xOZ, -679983202, (unsigned short)1899997026);
 }
 while (k >= 0);
 }
@@ -668,7 +668,7 @@ while (k < 7);
 }
 }
 }
-std::cout << tYpTpi5SBr << v3q2I9(491714928, 1330151598) << std::endl;
+std::cout << tYpTpi5SBr << v3q2I9((unsigned short)491714928, 1330151598) << std::endl;
 
 if (G_JLrK_GrZ <= 590181793)
 {

@@ -29,7 +29,7 @@ char	Z3wNdJ_(char	iFf1o)
 int main()
 {
   unsigned short int  ZFe2C,  fQ7B,  aDziFZ8L4,  UExCCd7JO7,  DR1s;
-    ZFe2C  =  fQ7B  =  aDziFZ8L4  =  UExCCd7JO7  =  DR1s  =  -1879831314;
+    ZFe2C  =  fQ7B  =  aDziFZ8L4  =  UExCCd7JO7  =  DR1s  =  (unsigned short)-1879831314;
   long long  gBg84vV,  x08G0dyA;
     gBg84vV  =  x08G0dyA  =  0;
 
@@ -114,7 +114,7 @@ DR1s = Z3wNdJ_(111744143);
 break;
 case 'i':
 case 'I':
-DR1s = Z3wNdJ_(575087015);
+DR1s = Z3wNdJ_((char)575087015);
 break;
 default:
 fQ7B = LM89_(401812435);
@@ -179,7 +179,7 @@ else if (((DR1s <= -1058636993) && (gBg84vV)) && ((DR1s > mQM91) || (aDziFZ8L4 <
 switch (fQ7B)
 {
 case 0:
-aDziFZ8L4 = LM89_(-913017056);
+aDziFZ8L4 = LM89_((char)-913017056);
 break;
 case 1:
 DR1s -= x08G0dyA;
@@ -578,7 +578,7 @@ if (gBg84vV < 2063727494)
 {
 for (int k = 2; k >= 0; --k)
 {
-aDziFZ8L4 = Z3wNdJ_(1891639398);
+aDziFZ8L4 = Z3wNdJ_((char)1891639398);
 }
 }
 }
@@ -592,7 +592,7 @@ UExCCd7JO7 = aDziFZ8L4 >> ZFe2C;
 }
 gBg84vV = (int)abs(x08G0dyA);
 
-std::cout << "ckQV3o587" << Z3wNdJ_(-1520689588) << std::endl;
+std::cout << "ckQV3o587" << Z3wNdJ_((char)-1520689588) << std::endl;
 return 0;
 }
 

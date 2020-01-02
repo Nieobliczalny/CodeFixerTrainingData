@@ -20,7 +20,7 @@ unsigned int	wzxX4b6X(short int	G4UgTmaW5e);
 
 int main(int argc, char** argv) {
   unsigned char  WTkG  =  1394533853;
-  unsigned short int  yFu87  =  -1093293648;
+  unsigned short int  yFu87  =  (unsigned short)-1093293648;
  unsigned short int wNb_2h0mKv = 1465900227;
   long  vb_2YbEbR  =  -1310298187;
   short int  z4fv  =  -1603149014;
@@ -31,7 +31,7 @@ int main(int argc, char** argv) {
  int HYOR7 = 931794015;
  unsigned char tU_v = -857768761;
 	long double	ZahI	=	1726869055;
-  short int  Qb504  =  -1483705617;
+  short int  Qb504  =  (short)-1483705617;
  double a8eCOh341 = -563378942;
  unsigned long long DDxauk95 = 1501473469;
  short CZYNceF = -1530547190;
@@ -47,7 +47,7 @@ int main(int argc, char** argv) {
   long long  ipYD  =  -1848939851;
     unsigned short int    PHhGL    =    0;
     long long    hoBc6I4mP6    =    1970441042;
-  unsigned char  FPa19K  =  2093568481;
+  unsigned char  FPa19K  =  (unsigned char)2093568481;
   unsigned char  Q0K00Cm4  =  644793942;
     unsigned int    y4N1ap32    =    -1855155840;
   long double  B6uif  =  438196784;
@@ -58,7 +58,7 @@ int main(int argc, char** argv) {
   unsigned char  D5lJ  =  1460975991;
  short Bdjly2cKg = 228712342;
 	double	ifLp6x	=	-1669723111;
-    unsigned short int    bB61h71    =    2105641329;
+    unsigned short int    bB61h71    =    (unsigned short)2105641329;
     float    k_9J32SCa9    =    1625055770;
  unsigned short dc5e = 1590080552;
 	unsigned int	RAA_O0	=	292801665;
@@ -211,7 +211,7 @@ case 2:
 ZahI = (int)floor(a8eCOh341);
 break;
 case 3:
-mz_L7TRy1 = A4c24q(1510856655, 59295868, yFu87, -727381427) % HHeWe;
+mz_L7TRy1 = A4c24q(1510856655, 59295868, yFu87, (unsigned short)-727381427) % HHeWe;
 break;
 }
 }
@@ -294,7 +294,7 @@ case 7:
 PHhGL = A4c24q(527436514, Y80B0RzO66, mz_L7TRy1, a8eCOh341);
 break;
 case 8:
-ipYD = wzxX4b6X(2137873654);
+ipYD = wzxX4b6X((short)2137873654);
 break;
 }
 }

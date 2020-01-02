@@ -11,7 +11,7 @@ using namespace std;
 int main(void) {
   long long  R2n3XIzM  =  1383325224;
   unsigned short int  xcYP41TFT_  =  615317925;
- unsigned short int j397F5 = -1302532728;
+ unsigned short int j397F5 = (unsigned short)-1302532728;
   short  M10V6gK5Rp  =  1463155419;
     long long    W6Q3MUgb    =    1551572853;
 	long	T6R8	=	2020478257;
@@ -25,7 +25,7 @@ int main(void) {
  unsigned int eeAa6r = -425378872;
  double sxHv479z = -130673078;
   double  u3BG9Ly  =  105553231;
-    unsigned short int    nazQHRBsYk    =    -1235887681;
+    unsigned short int    nazQHRBsYk    =    (unsigned short)-1235887681;
   unsigned int  n1Pq2EA_g_  =  -229071208;
   short int  XC66_LV0Rn  =  1865490100;
     unsigned short int    zKcl    =    1029930424;
@@ -39,7 +39,7 @@ int main(void) {
     long double    uGf0k6Z40    =    -184712278;
     long long    UM82    =    1052545143;
   float  j5l5_34  =  653148015;
- unsigned char F3IK22JIc2 = 1598281187;
+ unsigned char F3IK22JIc2 = (unsigned char)1598281187;
   long long  Ilvt5  =  1252032829;
   unsigned int  vo_5s_VY  =  2062066450;
     char    a9TVQ    =    59170157;
@@ -57,7 +57,7 @@ int main(void) {
   double  dq6SI8n  =  787356343;
   unsigned short  f5r_g2WP  =  313092251;
   unsigned int  Hf82  =  -1694926382;
- unsigned short I0tP0_89 = -297893604;
+ unsigned short I0tP0_89 = (unsigned short)-297893604;
 	double	VMTK	=	368121290;
  short int kt00_9G3 = -266935893;
  char x3XOfF38 = -1976219067;
@@ -68,7 +68,7 @@ int main(void) {
   unsigned int  Erho5Xts  =  -388900190;
 	char	v3wfSL2IX8	=	-345444586;
     long long    sfdxNcsG7    =    -166747382;
-  unsigned char  Fhu10GsJU5  =  -1127104271;
+  unsigned char  Fhu10GsJU5  =  (unsigned char)-1127104271;
  unsigned char mI_uF3_ = -2064286883;
 	long long	QR4D	=	1826897453;
   long long  B9EiCy  =  -52785148;
@@ -78,7 +78,7 @@ int main(void) {
     char    qp20d8    =    -353144993;
     char    YNLX8gM9x    =    -542200570;
  short H3r2s = 0;
-    unsigned short int    soi5_G0mt    =    109177640;
+    unsigned short int    soi5_G0mt    =    (unsigned short)109177640;
  long double h5HmCr333 = 623625948;
 	long	V6cvLkjpAi	=	-3618687;
  long wQ0V48 = -1234353141;

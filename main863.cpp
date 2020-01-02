@@ -102,7 +102,7 @@ tpc__ = (int)floor(eD7_71Q);
 
 ozHyl = (double)(FV39j_60);
 
-std::cout << "jO8hXi_" << tpc__ << I5tcj_5 << aOXJn(-1073075943) << aOXJn(951430550) << std::endl;
+std::cout << "jO8hXi_" << tpc__ << I5tcj_5 << aOXJn(-1073075943) << aOXJn((unsigned short)951430550) << std::endl;
 
 if (hh44J == 0)
 {

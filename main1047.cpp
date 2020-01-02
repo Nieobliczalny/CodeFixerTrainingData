@@ -14,6 +14,7 @@
 using namespace std;
 
 int main() {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
 	unsigned short	Ks07p	=	740286666,	x4AR	=	-1428178265,	g88_x6F7	=	292646680,	q8okI8E	=	400047516,	d5t5_A	=	-74025600,	e6WdS6	=	1954062586,	Y2J__N	=	-1812535553,	K4Jghu_6	=	-1575041352,	UTEMzDU	=	808280711;
 	unsigned int	bZ4i5av8QB	=	0;
 

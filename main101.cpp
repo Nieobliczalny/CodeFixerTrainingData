@@ -468,7 +468,7 @@ bb0oD5c9AT = (short)(bg6V0 * bb0oD5c9AT);
 }
 else
 {
-cout << uMGwpz_1 << "zsgN" << aKzza << WkbID(DSd3Oro2Lp, hz_3Ie, -519577995) << xyk7 << endl;
+cout << uMGwpz_1 << "zsgN" << aKzza << WkbID(DSd3Oro2Lp, hz_3Ie, (unsigned char)-519577995) << xyk7 << endl;
 }
 {
 int i = 3;
@@ -623,7 +623,7 @@ catch (int& errorCode)
 {
 Y24hIg = WkbID(Y24hIg, 696771842, C6Z_4);
 }
-cout << W1zb_vI4y() << DU8xD5d(-1779038187, x_3tb, C6Z_4) << endl;
+cout << W1zb_vI4y() << DU8xD5d((unsigned char)-1779038187, x_3tb, C6Z_4) << endl;
 for (int i = 6; i >= 0; i--)
 {
 try
@@ -857,7 +857,7 @@ case 6:
 P2BKdOn = DU8xD5d(75854987, oosw, -2107875582);
 break;
 case 7:
-P2BKdOn = DU8xD5d(-281787037, 1182302641, w198Q7v28);
+P2BKdOn = DU8xD5d((unsigned char)-281787037, 1182302641, w198Q7v28);
 break;
 case 8:
 mTJ55_oS_ -= mTJ55_oS_;

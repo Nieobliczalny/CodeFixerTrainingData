@@ -154,7 +154,7 @@ int k = 2;
 do
 {
 --k;
-yK91zxYN = rrqO71(1711261633, -479534931, ATfRw5N702, 1335835800);
+yK91zxYN = rrqO71(1711261633, (short)-479534931, ATfRw5N702, 1335835800);
 }
 while (k >= 0);
 }
@@ -190,7 +190,7 @@ catch (int& errorCode)
 {
 h7B52d8 = rrqO71(xuQU_Afb, -2060394795, I86Zq, -1650520282);
 }
-std::cout << rrqO71(1643222355, -1696272041, I86Zq, -378574014) << sot_IeW35_ << "DancX49Ct" << rrqO71(-847345093, -1595895192, -1897908002, L99F8S_C) << ILFz << std::endl;
+std::cout << rrqO71(1643222355, -1696272041, I86Zq, -378574014) << sot_IeW35_ << "DancX49Ct" << rrqO71(-847345093, (short)-1595895192, -1897908002, L99F8S_C) << ILFz << std::endl;
 
 if (U8K0J7 < -1063177496)
 {
@@ -371,7 +371,7 @@ ATfRw5N702 = (int)abs(L_h___m);
 break;
 }
 
-hdV1iA = rrqO71(692162155, 1588146402, yW7v7_, IxF15K1DS1) / rrqO71(Hd9BMQL_y, a5t1Ai, -1861077376, IxF15K1DS1);
+hdV1iA = rrqO71(692162155, 1588146402, yW7v7_, IxF15K1DS1) / rrqO71(Hd9BMQL_y, a5t1Ai, (unsigned short)-1861077376, IxF15K1DS1);
 switch (AWsE8zbB)
 {
 case 0:
@@ -393,7 +393,7 @@ case 5:
 h7B52d8 = rrqO71(1899249371, -351530981, E6Gv5z096q, ILFz);
 break;
 case 6:
-Vc3Hh7 = rrqO71(OV006C, AIbuOXsO, 1308423467, -1133418493) / HMa74;
+Vc3Hh7 = rrqO71(OV006C, AIbuOXsO, (unsigned short)1308423467, -1133418493) / HMa74;
 break;
 case 7:
 l2QC58 *= 819065741;
@@ -423,7 +423,7 @@ std::cout << v9Fn0 << "JFkMJR7V5" << IxF15K1DS1 << std::endl;
 
 if (OV006C > -1680870737)
 {
-Zosc_r0 = rrqO71(Zosc_r0, -1630089479, -818577334, krzJbne);
+Zosc_r0 = rrqO71(Zosc_r0, -1630089479, (unsigned short)-818577334, krzJbne);
 }
 else if ((OV006C <= IxF15K1DS1) && ((tPAE8ng_8_) && (QNXw & -141125339)))
 {
@@ -520,7 +520,7 @@ iCZ6y = l95jr();
 }
 else if (h7B52d8 == -521427534)
 {
-heA__7_ = rrqO71(heA__7_, 465025845, 1685744512, GYbW77jR0);
+heA__7_ = rrqO71(heA__7_, 465025845, (unsigned short)1685744512, GYbW77jR0);
 }
 else if (bWRKwCUiUM >= -2109278591)
 {
@@ -562,7 +562,7 @@ std::cout << "oJzd" << std::endl;
 
 jT__0DZrW = (char)(a5t1Ai * jT__0DZrW);
 
-heA__7_ = rrqO71(yW7v7_, 561594938, 904816206, fkJMjcm83F);
+heA__7_ = rrqO71(yW7v7_, 561594938, (unsigned short)904816206, fkJMjcm83F);
 return 0;
 }
 

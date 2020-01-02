@@ -248,7 +248,7 @@ do
 {
 if (oV81X9F != -68624015)
 {
-Yv0lT = AxCQIeH(Yv0lT, -1966950242);
+Yv0lT = AxCQIeH(Yv0lT, (short)-1966950242);
 }
 else
 {
@@ -336,7 +336,7 @@ case 0:
 ZPRlliOs28 = LUZ8O_k_5W(450385001, DHV02797KM);
 break;
 case 1:
-ZPRlliOs28 = LUZ8O_k_5W(1154049752, i959R42A);
+ZPRlliOs28 = LUZ8O_k_5W((unsigned char)1154049752, i959R42A);
 break;
 case 2:
 J7PCed6z = PNt0(339888496, Z1W85055);
@@ -349,7 +349,7 @@ break;
 }
 else
 {
-cout << WUv_dV << LUZ8O_k_5W(J7PCed6z, 32695029) << KwLL6R << ZH0t78 << AxCQIeH(2119239931, 1472274065) << endl;
+cout << WUv_dV << LUZ8O_k_5W(J7PCed6z, 32695029) << KwLL6R << ZH0t78 << AxCQIeH(2119239931, (short)1472274065) << endl;
 }
 
 {
@@ -477,7 +477,7 @@ mOi5I1jM = PNt0(mOi5I1jM, -1879572395);
 break;
 case 'h':
 case 'H':
-ZPRlliOs28 = LUZ8O_k_5W(-1787497603, ZPRlliOs28);
+ZPRlliOs28 = LUZ8O_k_5W((unsigned char)-1787497603, ZPRlliOs28);
 break;
 case 'i':
 case 'I':
@@ -560,7 +560,7 @@ unsigned short int PNt0(char D74h5196,short Q_U51l) {
 }
 
 char  k5g34XPV_(long  aro7v)  {
-  return  -967049042;
+  return  (char)-967049042;
 }
 
 short	AxCQIeH(unsigned int	J9rsWSE0c,short	a_8s_7P)	{

@@ -24,7 +24,7 @@ int main(int argc, char** argv)
     unsigned long    x22ewzaI;
     x22ewzaI    =    -1753484393;
   short  U0Y4LK;
-  U0Y4LK  =  452557154;
+  U0Y4LK  =  (short)452557154;
 	long long	Xif174;
 	Xif174	=	-675680345;
 	short	T68F;
@@ -50,7 +50,7 @@ int main(int argc, char** argv)
  short hgY6q;
  hgY6q = -1789741646;
     unsigned short    yVY36cr8zw;
-    yVY36cr8zw    =    53376907;
+    yVY36cr8zw    =    (unsigned short)53376907;
 	int	MCl_6n4Y0;
 	MCl_6n4Y0	=	1120335764;
   double  T54CFvA;
@@ -62,7 +62,7 @@ int main(int argc, char** argv)
   long long  y4RY0;
   y4RY0  =  -1677341412;
 	char	fw_t7_;
-	fw_t7_	=	-691825784;
+	fw_t7_	=	(char)-691825784;
  unsigned int Ui80hdi;
  Ui80hdi = 1037838174;
 	unsigned char	B214_RJBJw;

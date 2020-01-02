@@ -18,7 +18,7 @@ int main(void) {
 
 if (BSBv3gYGYX & 447545818)
 {
-std::cout << IR33VWFy() << tEgbI0V(1284069279, -853265407, -1630696920) << CK_vuxAq << tEgbI0V(CO3PKroK_6, 1936563193, CK_vuxAq) << "DO53elAG" << std::endl;
+std::cout << IR33VWFy() << tEgbI0V(1284069279, -853265407, -1630696920) << CK_vuxAq << tEgbI0V(CO3PKroK_6, (unsigned char)1936563193, CK_vuxAq) << "DO53elAG" << std::endl;
 }
 
 switch (G5XuOt)

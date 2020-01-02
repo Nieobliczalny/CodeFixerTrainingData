@@ -48,7 +48,7 @@ case 5:
 zV6_W5P = OsE3e6O7(1176493869, 2006851031);
 break;
 case 6:
-zV6_W5P = OsE3e6O7(1581338854, -1372236966);
+zV6_W5P = OsE3e6O7(1581338854, (short)-1372236966);
 break;
 default:
 zV6_W5P = OsE3e6O7(-889028188, X5abupYoal);
@@ -102,7 +102,7 @@ while (j < 8);
 }
 else
 {
-zV6_W5P = OsE3e6O7(t9Bka_72, -1007309968);
+zV6_W5P = OsE3e6O7(t9Bka_72, (short)-1007309968);
 }
 
 qKKU_ = Yq0d33 / zV6_W5P;
@@ -149,7 +149,7 @@ try
 {
 if ((X5abupYoal == VTpGm1vuRU) && (Yq0d33))
 {
-zV6_W5P = OsE3e6O7(-741979882, 2107026514);
+zV6_W5P = OsE3e6O7(-741979882, (short)2107026514);
 }
 }
 catch (int& errorCode)

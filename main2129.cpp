@@ -107,7 +107,7 @@ T6lDw8tT = (int)abs(b96W41mdUP) + (-1053424308);
 break;
 case 'g':
 case 'G':
-Nu8vP0y_ = jU95(87999914, -1969663816, Upr008NJ);
+Nu8vP0y_ = jU95(87999914, (unsigned short)-1969663816, Upr008NJ);
 break;
 case 'h':
 case 'H':
@@ -171,7 +171,7 @@ i--;
 }
 if (VKOL < e_4O436)
 {
-std::cout << "E_MPx6J7M" << At_a00(b96W41mdUP, -1181309035, -1717736500, -1123253551) << std::endl;
+std::cout << "E_MPx6J7M" << At_a00(b96W41mdUP, -1181309035, -1717736500, (unsigned short)-1123253551) << std::endl;
 }
 else if (F_kT1)
 {
@@ -181,7 +181,7 @@ case 'a':
 r9KYIREnC = F_kT1 >> 1306172860;
 break;
 case 'b':
-b96W41mdUP = At_a00(-637120920, T6lDw8tT, -571147572, -633056949);
+b96W41mdUP = At_a00(-637120920, T6lDw8tT, (short)-571147572, -633056949);
 break;
 case 'c':
 Upr008NJ = At_a00(T6lDw8tT, fKxso_, 1218155926, F_kT1);
@@ -206,7 +206,7 @@ else if (Nu8vP0y_ != -944659468)
 {
 for (int j = 0; j < 6; ++j)
 {
-std::cout << e_4O436 << T6lDw8tT << jU95(b96W41mdUP, -769169593, -1895714871) << jU95(b96W41mdUP, T6lDw8tT, -671279184) << std::endl;
+std::cout << e_4O436 << T6lDw8tT << jU95(b96W41mdUP, -769169593, (short)-1895714871) << jU95(b96W41mdUP, T6lDw8tT, -671279184) << std::endl;
 }
 }
 else if (b96W41mdUP < Bn2Ws_we)
@@ -335,7 +335,7 @@ int j = 7;
 while (j >= 0)
 {
 --j;
-LpmsEwp = jU95(-1419642641, g2OOfv5, 958430551) + 555511710;
+LpmsEwp = jU95(-1419642641, g2OOfv5, (short)958430551) + 555511710;
 }
 }
 }
@@ -433,7 +433,7 @@ else
 switch (r9KYIREnC)
 {
 case 0:
-b96W41mdUP = At_a00(-407394437, b96W41mdUP, Nu8vP0y_, 1064104932);
+b96W41mdUP = At_a00(-407394437, b96W41mdUP, Nu8vP0y_, (unsigned short)1064104932);
 break;
 case 1:
 T6lDw8tT = (int)abs(LpmsEwp);
@@ -463,7 +463,7 @@ LpmsEwp >>= g2OOfv5;
 }
 else
 {
-std::cout << At_a00(-681449868, 346382458, 2027562654, 1316857961) << r9KYIREnC << std::endl;
+std::cout << At_a00(-681449868, 346382458, (short)2027562654, 1316857961) << r9KYIREnC << std::endl;
 }
 if (fKxso_ >= -2059657179)
 {
@@ -508,7 +508,7 @@ case 5:
 T6lDw8tT = ybG_9PO();
 break;
 case 6:
-Upr008NJ = At_a00(2094985239, VKOL, Upr008NJ, -635147978);
+Upr008NJ = At_a00(2094985239, VKOL, Upr008NJ, (unsigned short)-635147978);
 break;
 case 7:
 g2OOfv5 = jU95(Upr008NJ, g2OOfv5, b96W41mdUP);

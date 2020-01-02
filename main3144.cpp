@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
     long    li1uG7pU8n;
     li1uG7pU8n    =    0;
     short    xBA1csQ;
-    xBA1csQ    =    -202382662;
+    xBA1csQ    =    (short)-202382662;
  int rp_h;
  rp_h = 6043923;
     unsigned char    PW372cYw;
@@ -52,7 +52,7 @@ int main(int argc, char** argv) {
     short    P32yF;
     P32yF    =    262376241;
 	unsigned char	NXTOa;
-	NXTOa	=	1171925195;
+	NXTOa	=	(unsigned char)1171925195;
   float  O31Gn_;
   O31Gn_  =  1699026261;
   unsigned char  IvT4H5;
@@ -219,7 +219,7 @@ else
 {
 if ((xBA1csQ > 1722177794) && ((IvT4H5 == -718795904) || (DQ18yR > -1950878584)))
 {
-DQ18yR = HputCm(-2029455720, 579545872, -1421126445);
+DQ18yR = HputCm(-2029455720, (short)579545872, -1421126445);
 }
 else
 {
@@ -316,7 +316,7 @@ for (int j = 3; j >= 0; j--)
 {
 if (rp_h != -2060313103)
 {
-nUj0yUzc_ = HputCm(-276920593, -1790030089, -1708947081);
+nUj0yUzc_ = HputCm(-276920593, (short)-1790030089, -1708947081);
 }
 }
 }
@@ -368,7 +368,7 @@ case 3:
 PW372cYw = l69ZF_n();
 break;
 case 4:
-dci3hZU9mw = HputCm(dci3hZU9mw, 428986015, 1573985083);
+dci3hZU9mw = HputCm(dci3hZU9mw, 428986015, (unsigned char)1573985083);
 break;
 case 5:
 dci3hZU9mw = u2ZG_(dci3hZU9mw, akJ2_2_, -825235644, -522241401) >> 1420880582;
@@ -421,7 +421,7 @@ if (NXTOa != 1290549995)
 {
 if ((rp_h >= NXTOa) && ((IL947E0A3_) || (NXTOa != O31Gn_)))
 {
-NXTOa = HputCm(1513298363, -889061624, -1751556262);
+NXTOa = HputCm(1513298363, (short)-889061624, -1751556262);
 }
 else if (P32yF <= -637168875)
 {

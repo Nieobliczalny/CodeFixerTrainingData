@@ -115,7 +115,7 @@ case 'h':
 A1W3 /= 545883360;
 break;
 case 'i':
-z4_QzyUq = op5O4H(774079220, 230839530, 1850431123, -1271067957);
+z4_QzyUq = op5O4H(774079220, 230839530, (unsigned short)1850431123, -1271067957);
 break;
 }
 std::cout << RNU_ << "SsRXFV" << std::endl;
@@ -192,7 +192,7 @@ else if (q5Ce <= v1JI)
 {
 try
 {
-O6t0g = op5O4H(-1709882946, -140502574, -1581495144, A9M6gmz_);
+O6t0g = op5O4H(-1709882946, -140502574, (unsigned short)-1581495144, A9M6gmz_);
 }
 catch (int& errorCode)
 {
@@ -254,7 +254,7 @@ while (j < 7);
 }
 try
 {
-std::cout << op5O4H(-1255154239, 290293061, 1369395177, -1920035132) << "Nqhw90Z1_" << op5O4H(YY5tKIN, wm15w3JFD6, 1092129014, QE0a9) << op5O4H(YY5tKIN, wm15w3JFD6, -456148546, 1648321374) << std::endl;
+std::cout << op5O4H(-1255154239, 290293061, (unsigned short)1369395177, -1920035132) << "Nqhw90Z1_" << op5O4H(YY5tKIN, wm15w3JFD6, 1092129014, QE0a9) << op5O4H(YY5tKIN, wm15w3JFD6, -456148546, 1648321374) << std::endl;
 }
 catch (int& errorCode)
 {
@@ -289,7 +289,7 @@ z4_QzyUq = op5O4H(1095517046, T0NTZ4C3PT, m6UB, 2116235745);
 break;
 case 'f':
 case 'F':
-LmftW = (X0Slp) ? op5O4H(o5RZ68ES, T0NTZ4C3PT, -1799426503, R_fcV5V7) : op5O4H(-1294624076, T0NTZ4C3PT, -1448636062, R_fcV5V7);
+LmftW = (X0Slp) ? op5O4H(o5RZ68ES, T0NTZ4C3PT, -1799426503, R_fcV5V7) : op5O4H(-1294624076, T0NTZ4C3PT, (unsigned short)-1448636062, R_fcV5V7);
 break;
 case 'g':
 case 'G':
@@ -464,7 +464,7 @@ for (int i = 0; i < 6; ++i)
 {
 if (xS_2dWb4G2 <= TC88)
 {
-lVRZ26m4 = op5O4H(1577943778, 554391425, -831900175, p_PDr) | 34471498;
+lVRZ26m4 = op5O4H(1577943778, 554391425, (unsigned short)-831900175, p_PDr) | 34471498;
 }
 }
 
@@ -508,7 +508,7 @@ case 1:
 z4_QzyUq = op5O4H(-1610339171, I446957_qw, m2Qv, ur72f);
 break;
 case 2:
-O6t0g = op5O4H(152393599, o302, -787023341, -2072121715);
+O6t0g = op5O4H(152393599, o302, (unsigned short)-787023341, -2072121715);
 break;
 case 3:
 T066203A = op5O4H(wU_UDeT7, LmftW, q5Ce, c3swX6s3O2);
@@ -523,7 +523,7 @@ case 6:
 T066203A = op5O4H(p_PDr, 543368356, -2001054895, -2098880906);
 break;
 case 7:
-E2fd_h = op5O4H(cHlS, o302, -569810935, -1918284699);
+E2fd_h = op5O4H(cHlS, o302, (unsigned short)-569810935, -1918284699);
 break;
 case 8:
 B7O9EN0Jj -= 289935502;

@@ -26,7 +26,7 @@ int main(int argc, char** argv)
     int    ey15;
     ey15    =    0;
   unsigned short  JG5kU;
-  JG5kU  =  1056779084;
+  JG5kU  =  (unsigned short)1056779084;
   short  RgJ5MUP5;
   RgJ5MUP5  =  1763899256;
  short int tGUucx2R;
@@ -36,7 +36,7 @@ int main(int argc, char** argv)
     char    rl12h;
     rl12h    =    -569747171;
 	short	j14ZO;
-	j14ZO	=	621338790;
+	j14ZO	=	(short)621338790;
     unsigned long long    Zyapje2WF;
     Zyapje2WF    =    51449088;
 	unsigned short	n0pw4RX3O;
@@ -48,7 +48,7 @@ int main(int argc, char** argv)
     float    sd4J;
     sd4J    =    224674559;
 	short int	gOL0h;
-	gOL0h	=	2135195382;
+	gOL0h	=	(short)2135195382;
   unsigned short  O_i764EFHP;
   O_i764EFHP  =  -641556803;
  unsigned long long EXQfL7l;
@@ -76,7 +76,7 @@ int main(int argc, char** argv)
  long long r5Ri7S;
  r5Ri7S = -1597087891;
     short int    Ad8M_;
-    Ad8M_    =    862113689;
+    Ad8M_    =    (short)862113689;
 	long	TY11x2W_r;
 	TY11x2W_r	=	64473670;
 	char	oXipAN0b;
@@ -88,7 +88,7 @@ int main(int argc, char** argv)
   long long  pXFgPQ5hwr;
   pXFgPQ5hwr  =  1472040112;
     unsigned short int    DGOBgwD24;
-    DGOBgwD24    =    -381522646;
+    DGOBgwD24    =    (unsigned short)-381522646;
  double Mc4F1ZEF;
  Mc4F1ZEF = -670750733;
     long double    v7Qav0_8td;
@@ -106,7 +106,7 @@ int main(int argc, char** argv)
   unsigned long long  d5Vl1;
   d5Vl1  =  -277983808;
  unsigned char z2iSm;
- z2iSm = -55656907;
+ z2iSm = (unsigned char)-55656907;
 	double	cq2s_U6LG;
 	cq2s_U6LG	=	1599557559;
   unsigned short int  lt09Z;
@@ -150,7 +150,7 @@ int main(int argc, char** argv)
     unsigned long long    f9QbybS;
     f9QbybS    =    625889470;
 	unsigned short int	UP67O84z0;
-	UP67O84z0	=	1374511408;
+	UP67O84z0	=	(unsigned short)1374511408;
   unsigned int  yuG3Xrfi7;
   yuG3Xrfi7  =  -1566343364;
     unsigned int    w__lbN23n;
@@ -166,7 +166,7 @@ int main(int argc, char** argv)
 	unsigned long	v1P1;
 	v1P1	=	1092116406;
  short ZL9eIATzA;
- ZL9eIATzA = 2134593213;
+ ZL9eIATzA = (short)2134593213;
     short    PS0A7Q035j;
     PS0A7Q035j    =    -514700482;
     unsigned long    TFT9;

@@ -36,7 +36,7 @@ int main(void) {
  unsigned char FaHYaP3U8A;
  FaHYaP3U8A = 716091965;
 	unsigned short	jHyE;
-	jHyE	=	1707389379;
+	jHyE	=	(unsigned short)1707389379;
  char gu4fsc;
  gu4fsc = 538419773;
   double  tih9;
@@ -62,7 +62,7 @@ int main(void) {
     short int    JiE30;
     JiE30    =    -1208181531;
  short int q4y_;
- q4y_ = 681101142;
+ q4y_ = (short)681101142;
     unsigned long long    Ker0;
     Ker0    =    1638536498;
   unsigned char  LTr87z;
@@ -74,7 +74,7 @@ int main(void) {
  short int d12A2iG;
  d12A2iG = -1237751757;
 	short int	E605rEB;
-	E605rEB	=	-2104141959;
+	E605rEB	=	(short)-2104141959;
 
 if ((ZN07(-1928428289) / M4o9) > 1457396046)
 {

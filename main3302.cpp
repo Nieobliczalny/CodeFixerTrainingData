@@ -34,7 +34,7 @@ int main(int argc, char** argv)
     unsigned short int    l9C_ZEs39;
     l9C_ZEs39    =    -677291053;
     unsigned char    k3H72VMo8c;
-    k3H72VMo8c    =    747225958;
+    k3H72VMo8c    =    (unsigned char)747225958;
 
 aFgZ01 = (long long)(ZrYx1wYRRf * aFgZ01);
 
@@ -78,7 +78,7 @@ try
 switch (l9C_ZEs39)
 {
 case 0:
-ZrYx1wYRRf = Gm66Z0Tw6(aFgZ01, 603608187, MLY0zT38OK);
+ZrYx1wYRRf = Gm66Z0Tw6(aFgZ01, (char)603608187, MLY0zT38OK);
 break;
 case 1:
 l9C_ZEs39 = Gm66Z0Tw6(aFgZ01, 894518327, -824483782);
@@ -96,7 +96,7 @@ case 5:
 jBxM5MND = Gm66Z0Tw6(-751780686, 1018887078, VXoqh);
 break;
 case 6:
-aFgZ01 = yoZsIq3R4(-1742566225, 1941283727, MLY0zT38OK, 387847125);
+aFgZ01 = yoZsIq3R4((short)-1742566225, 1941283727, MLY0zT38OK, 387847125);
 break;
 case 7:
 Q27l5 *= aFgZ01;
@@ -132,7 +132,7 @@ case 2:
 aFgZ01 = yoZsIq3R4(l9C_ZEs39, 1082300645, eG_o_, -1723434969);
 break;
 default:
-BAReQmf_I6 = Gm66Z0Tw6(-1719922475, 426341388, 1266502650);
+BAReQmf_I6 = Gm66Z0Tw6(-1719922475, (char)426341388, 1266502650);
 break;
 }
 }

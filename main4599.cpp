@@ -17,7 +17,7 @@ int main(int argc, char** argv)
  char jhP67Q8K;
  jhP67Q8K = 559599086;
   unsigned short int  AdGy9s;
-  AdGy9s  =  -1418862667;
+  AdGy9s  =  (unsigned short)-1418862667;
     long    T28S7kl16;
     T28S7kl16    =    173452571;
 	unsigned short int	cHIG8P;

@@ -18,7 +18,7 @@ int main()
 	unsigned short	Xfc_ZR;
 	Xfc_ZR	=	-1820582491;
  short QgDA9cv;
- QgDA9cv = 1758682514;
+ QgDA9cv = (short)1758682514;
  long double mtSntS;
  mtSntS = -465363797;
     unsigned short int    cmQild;
@@ -36,7 +36,7 @@ int main()
     unsigned short int    zwaw2D;
     zwaw2D    =    -283309458;
     unsigned short    wU_3bLX_;
-    wU_3bLX_    =    -1062797537;
+    wU_3bLX_    =    (unsigned short)-1062797537;
 	unsigned long	A94_wn;
 	A94_wn	=	-1680098903;
     unsigned int    CDpgq1obAV;

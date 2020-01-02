@@ -14,7 +14,7 @@ int main(void)
   long  l2qDVw  =  311831845;
   unsigned long  k6OR9  =  1367514092;
     short int    jnKBv    =    0;
-  short  yuhSAy9  =  2075485200;
+  short  yuhSAy9  =  (short)2075485200;
  short int X38LG0re83 = 454614002;
 	unsigned long long	rO45	=	-1736777813;
  short G47mB = 1370243018;

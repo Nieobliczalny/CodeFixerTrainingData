@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
  unsigned int odhFSl8;
  odhFSl8 = -609468677;
     unsigned char    D6z6;
-    D6z6    =    532088830;
+    D6z6    =    (unsigned char)532088830;
  long double LNATSnn2;
  LNATSnn2 = 55823926;
 	unsigned short int	ONl96wa11;
@@ -62,7 +62,7 @@ int main(int argc, char** argv) {
 	short int	W9v2Q6L_dU;
 	W9v2Q6L_dU	=	0;
     unsigned short    OZEwjPF;
-    OZEwjPF    =    -1418062037;
+    OZEwjPF    =    (unsigned short)-1418062037;
     double    ogvmpLC;
     ogvmpLC    =    -1725139346;
     unsigned short    WrYzIR;
@@ -84,7 +84,7 @@ int main(int argc, char** argv) {
   double  qx3I;
   qx3I  =  546114602;
  char aag4;
- aag4 = 1833992897;
+ aag4 = (char)1833992897;
   char  MDSqdIl;
   MDSqdIl  =  589906788;
   unsigned long  AFsJ;
@@ -102,7 +102,7 @@ int main(int argc, char** argv) {
   unsigned int  yLc2;
   yLc2  =  414064103;
  short int tgzCb;
- tgzCb = -304867525;
+ tgzCb = (short)-304867525;
 	unsigned long long	K74dItWA6;
 	K74dItWA6	=	-941596621;
  unsigned char gzgoH;
@@ -120,7 +120,7 @@ int main(int argc, char** argv) {
   short int  j0fxrj;
   j0fxrj  =  -1901966866;
     char    WFv6KS26h;
-    WFv6KS26h    =    1447139406;
+    WFv6KS26h    =    (char)1447139406;
     unsigned short    oxrV4_;
     oxrV4_    =    -1290325929;
   unsigned int  ikW8D36k;
@@ -136,7 +136,7 @@ int main(int argc, char** argv) {
 	short	ur7t;
 	ur7t	=	-1982452780;
 	unsigned short int	yGhzsVet;
-	yGhzsVet	=	2102241075;
+	yGhzsVet	=	(unsigned short)2102241075;
     long    S86pu1;
     S86pu1    =    -1561979094;
 	long double	z5Am7m;
@@ -162,7 +162,7 @@ int main(int argc, char** argv) {
 	unsigned int	WV_N;
 	WV_N	=	580598414;
     short int    WdV2Kj6;
-    WdV2Kj6    =    712992265;
+    WdV2Kj6    =    (short)712992265;
  long long YAcL7P95d_;
  YAcL7P95d_ = 1077386621;
     long    Z9Z09GEh;
@@ -475,7 +475,7 @@ ur7t = D6z6 * 93696135;
 while (i >= 0);
 }
 
-std::cout << rkdX_gqo5n(w05YW23t0m, -1244855895, WFv6KS26h) << rkdX_gqo5n(1852492487, gzgoH, 1089775302) << "B_8Xycs" << std::endl;
+std::cout << rkdX_gqo5n(w05YW23t0m, -1244855895, WFv6KS26h) << rkdX_gqo5n(1852492487, gzgoH, (unsigned char)1089775302) << "B_8Xycs" << std::endl;
 
 std::cout << zr41X6 << qOkh5k_04_ << L0R2HruX4a << D6z6 << UDGU10 << std::endl;
 
@@ -565,7 +565,7 @@ case 2:
 OZEwjPF <<= tgzCb;
 break;
 case 3:
-gzgoH = rkdX_gqo5n(gzgoH, S86pu1, 1196978776);
+gzgoH = rkdX_gqo5n(gzgoH, S86pu1, (unsigned char)1196978776);
 break;
 case 4:
 m266e <<= 1071883569;
@@ -594,7 +594,7 @@ case 0:
 m266e = rkdX_gqo5n(m266e, -1659299717, W9v2Q6L_dU);
 break;
 case 1:
-WFv6KS26h = rkdX_gqo5n(-345271915, -27851306, yGhzsVet);
+WFv6KS26h = rkdX_gqo5n(-345271915, (unsigned char)-27851306, yGhzsVet);
 break;
 case 2:
 ogvmpLC = Gdvq3N();
@@ -680,7 +680,7 @@ unsigned char  TX9w16fa(short int  P2B1UM,unsigned int  seB43qkd2)
 }
 
 unsigned short Gdvq3N() {
- return 1305378828;
+ return (unsigned short)1305378828;
 }
 
 unsigned short  WEPc6y3dM(long long  iE69EH159,unsigned int  k_vW52eaH,unsigned int  K5rB10aL,long long  p3F0o)  {

@@ -15,6 +15,7 @@ short int  L1PAM_7F(unsigned char  L5gkhT89,int  c3vG6rpm,long long  Husyd,unsig
 
 int main() {
   unsigned char  R36Trhco  =  0,  NW4L___q  =  0,  RpsDte  =  0,  RpTwUDv  =  0;
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
   short  mRykIjA6  =  -1389801367,  H6hix3  =  -1563225864,  j6mxO5  =  2098640085,  T624rN  =  171195147,  bA_4yEmj  =  -822629494,  Dtv4N9  =  1734123045,  saVrR  =  1730050280,  yk8v9JME  =  900468219,  GssM  =  -1180817934,  BUgEqxh  =  -2057349711,  T7Scm  =  613720438,  c80Dw591n  =  1727025622,  v8zg8  =  -1516544831,  Ou6f5T8d  =  -1392628942,  iOPUS2qnL  =  990495108,  G4E_  =  1392159515,  N2_IbQV  =  -562206399,  vCqqb25GE  =  -1203411433,  rFqLkV7By  =  -832223706,  sW4Gwht  =  -1701358451;
 
 if (T7Scm != -1431407025)
@@ -32,7 +33,7 @@ case 1:
 iOPUS2qnL = uy_hG8c(-1701106635) / v8zg8;
 break;
 default:
-c80Dw591n = iP_ad(130486610, sW4Gwht);
+c80Dw591n = iP_ad((unsigned char)130486610, sW4Gwht);
 break;
 }
 j--;
@@ -54,7 +55,7 @@ iOPUS2qnL *= yk8v9JME;
 }
 else if (GssM < -644582784)
 {
-NW4L___q = L1PAM_7F(-357577357, -846500801, -593566764, -574832982);
+NW4L___q = L1PAM_7F(-357577357, -846500801, -593566764, (unsigned short)-574832982);
 }
 else if ((G4E_) && (H6hix3 < 1426571671))
 {
@@ -74,7 +75,7 @@ else
 switch (RpsDte)
 {
 case 0:
-RpTwUDv = L1PAM_7F(689644173, -368739545, iOPUS2qnL, -249859519);
+RpTwUDv = L1PAM_7F(689644173, -368739545, iOPUS2qnL, (unsigned short)-249859519);
 break;
 default:
 BUgEqxh = iP_ad(-2129290937, 823914312) >> H6hix3;
@@ -145,7 +146,7 @@ case 'd':
 yk8v9JME = yk8v9JME << 1352535547;
 break;
 case 'e':
-vCqqb25GE = iP_ad(-1901577779, 316987998);
+vCqqb25GE = iP_ad(-1901577779, (char)316987998);
 break;
 case 'f':
 c80Dw591n = iP_ad(328616326, -804917970);
@@ -197,7 +198,7 @@ int k = 0;
 do
 {
 ++k;
-RpTwUDv = L1PAM_7F(1192692027, -630454239, GssM, -652610513);
+RpTwUDv = L1PAM_7F(1192692027, -630454239, GssM, (unsigned short)-652610513);
 }
 while (k < 9);
 }
@@ -290,7 +291,7 @@ N2_IbQV %= 17420101;
 }
 else
 {
-std::cout << "ZFx5_3" << "pMu1V5wm" << RpTwUDv << L1PAM_7F(871625111, -1487114494, -41925483, 321792010) << H6hix3 << std::endl;
+std::cout << "ZFx5_3" << "pMu1V5wm" << RpTwUDv << L1PAM_7F(871625111, -1487114494, -41925483, (unsigned short)321792010) << H6hix3 << std::endl;
 }
 }
 else
@@ -346,7 +347,7 @@ char  iP_ad(unsigned char  RyQhn,char  APe9X74)  {
 
 short int  uy_hG8c(long long  s__IEw9M8I)
 {
-  return  -1173183266;
+  return  (short)-1173183266;
 }
 
 short int  L1PAM_7F(unsigned char  L5gkhT89,int  c3vG6rpm,long long  Husyd,unsigned short int  RYoE8D_1sg)

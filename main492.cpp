@@ -239,7 +239,7 @@ BsjM = sF2aZ5(1398538097, 386373548);
 }
 else if (if7E2UtL != AG16N)
 {
-std::cout << sF2aZ5(-1441853294, 62229752) << A82Sok3 << std::endl;
+std::cout << sF2aZ5((short)-1441853294, 62229752) << A82Sok3 << std::endl;
 }
 else
 {
@@ -278,7 +278,7 @@ if (K8Iv == 0)
 {
 	vMin = -1378471291 / K8Iv;
 }
-std::cout << Yg_GQwOp << sF2aZ5(-1673275880, -1096452016) << Rj_7JF_F6_ << i1vc1 << std::endl;
+std::cout << Yg_GQwOp << sF2aZ5((short)-1673275880, -1096452016) << Rj_7JF_F6_ << i1vc1 << std::endl;
 
 O_I84 = Ujn9_x5b << nLoZi8Vtr;
 {
@@ -313,7 +313,7 @@ Ujn9_x5b = sF2aZ5(-1816060770, BgZuhV) << jJl3ic_DBb;
 break;
 case 'd':
 case 'D':
-BsjM = sF2aZ5(176768707, oqgVL);
+BsjM = sF2aZ5((short)176768707, oqgVL);
 break;
 case 'e':
 case 'E':

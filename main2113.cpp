@@ -23,7 +23,7 @@ short int    uk77(unsigned long long    oEyXta9B)
 
 int main(int argc, char** argv)
 {
-	char	Y299Ae	=	1998734905,	AY9pHg	=	-1589483504,	ZadxF	=	-280372417;
+	char	Y299Ae	=	(char)1998734905,	AY9pHg	=	-1589483504,	ZadxF	=	-280372417;
  short int NO375wb7 = 0, IN5rVPY = 0;
 
 std::cout << "DCF2D" << YBHoXD5() << std::endl;
@@ -106,7 +106,7 @@ AY9pHg = (Y299Ae >= -389589576) ? uk77(NO375wb7) : -1568027996;
 }
 else
 {
-AY9pHg = (Y299Ae < -88587419) ? YBHoXD5() : 752743781;
+AY9pHg = (Y299Ae < -88587419) ? YBHoXD5() : (char)752743781;
 }
 }
 }

@@ -138,7 +138,7 @@ else if (Dq1bhl33 & -2120509529)
 int k = 0;
 while (k < 7)
 {
-z2mz3D = Nrk8Ms06aT(-766813043, yJnb_dA, -212992980, 445840163, 1000850355);
+z2mz3D = Nrk8Ms06aT(-766813043, yJnb_dA, (unsigned char)-212992980, 445840163, 1000850355);
 ++k;
 }
 }
@@ -150,7 +150,7 @@ HMA3 = HMA3 / c___13;
 }
 
 HMA3 = r88S6(OHx_E_u3D, 780406128, yJnb_dA);
-std::cout << drZyI83W6W << Nrk8Ms06aT(OHx_E_u3D, HMA3, -253067907, -1062603850, 1818913919) << std::endl;
+std::cout << drZyI83W6W << Nrk8Ms06aT(OHx_E_u3D, HMA3, -253067907, -1062603850, (unsigned short)1818913919) << std::endl;
 for (int i = 0; i < 3; ++i)
 {
 HMA3 = (int)abs(z2mz3D);
@@ -239,7 +239,7 @@ case 1:
 HMA3 = (int)abs(drZyI83W6W) + (1585256605);
 break;
 case 2:
-z2mz3D = Nrk8Ms06aT(332523130, z2mz3D, 1796081849, c___13, Dq1bhl33);
+z2mz3D = Nrk8Ms06aT(332523130, z2mz3D, (unsigned char)1796081849, c___13, Dq1bhl33);
 break;
 }
 
@@ -322,7 +322,7 @@ case 3:
 Dq1bhl33--;
 break;
 case 4:
-Dq1bhl33 = Nrk8Ms06aT(OHx_E_u3D, 337418557, -2032540628, -459235517, HMA3) - c___13;
+Dq1bhl33 = Nrk8Ms06aT(OHx_E_u3D, 337418557, (unsigned char)-2032540628, -459235517, HMA3) - c___13;
 break;
 case 5:
 c___13 = fYttb9();

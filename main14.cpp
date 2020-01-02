@@ -52,7 +52,7 @@ RwLaF6 = P_OPlr(iTbRD, -992434597, -2027140992);
 }
 else if (mjVO == Ot56_2)
 {
-std::cout << P_OPlr(iTbRD, 984448, 125423268) << "xX6GHL0jzu" << rVHDE << pHh_TuZhV() << std::endl;
+std::cout << P_OPlr(iTbRD, (unsigned short)984448, 125423268) << "xX6GHL0jzu" << rVHDE << pHh_TuZhV() << std::endl;
 }
 else
 {
@@ -76,7 +76,7 @@ while (i < 2)
 pd7R1 = pHh_TuZhV();
 }
 }
-n3_88 = KjQM_f / P_OPlr(341538058, -997826122, 1381822071);
+n3_88 = KjQM_f / P_OPlr(341538058, (unsigned short)-997826122, 1381822071);
 {
 int i = 3;
 while (i >= 0)

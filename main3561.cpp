@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
 	long double	J59781aWk;
 	J59781aWk	=	-475434887;
     unsigned short    J3TT;
-    J3TT    =    -70046444;
+    J3TT    =    (unsigned short)-70046444;
 	unsigned long	oXB55BlR;
 	oXB55BlR	=	-723020054;
     unsigned short int    lqZ059U;
@@ -84,7 +84,7 @@ int main(int argc, char** argv) {
     unsigned short int    iORR3O;
     iORR3O    =    -2106081356;
 	short int	nPu_;
-	nPu_	=	829264755;
+	nPu_	=	(short)829264755;
   double  Lwes5B;
   Lwes5B  =  -1296552988;
   unsigned int  m54dvj4;
@@ -118,7 +118,7 @@ int main(int argc, char** argv) {
  long V31bMJxN0;
  V31bMJxN0 = 1342232947;
 	short	As55u6i;
-	As55u6i	=	1356047689;
+	As55u6i	=	(short)1356047689;
   unsigned long long  CQJJT;
   CQJJT  =  275383721;
  unsigned int xP_0gIg6;
@@ -134,7 +134,7 @@ int main(int argc, char** argv) {
     long long    v6m1z;
     v6m1z    =    -175072725;
  unsigned short V1fX_m_6_;
- V1fX_m_6_ = -1313043113;
+ V1fX_m_6_ = (unsigned short)-1313043113;
   unsigned int  JT6odYJA;
   JT6odYJA  =  1233860070;
 	long	L6_9vN1;
@@ -148,7 +148,7 @@ int main(int argc, char** argv) {
     unsigned long    HKoPf_Uhu;
     HKoPf_Uhu    =    -1780513913;
 	short	jk_vr7D;
-	jk_vr7D	=	1923827867;
+	jk_vr7D	=	(short)1923827867;
     unsigned short    X4ABK;
     X4ABK    =    -1736330820;
     long    Q_a43770;
@@ -196,7 +196,7 @@ t_x313_Y = w360CI5J - 1204345948;
 }
 else if ((vqQuX & n811N) || (hw0BxkPd <= x2gPzzO))
 {
-Ol30Zc9 = yYeS18f(xN9xsQ5lk, 1079086629);
+Ol30Zc9 = yYeS18f(xN9xsQ5lk, (char)1079086629);
 }
 else
 {
@@ -251,7 +251,7 @@ t_x313_Y = (long long)(BzMZfkBA_a);
 }
 else
 {
-UU3Poq = yYeS18f(-462090781, -1425284042);
+UU3Poq = yYeS18f(-462090781, (char)-1425284042);
 }
 X4ABK = x2gPzzO / yYeS18f(-69418956, UU3Poq);
 {
@@ -371,7 +371,7 @@ cp2kz9Qs0 = (int)abs(Lwes5B);
 }
 else
 {
-cout << yYeS18f(-1940061863, 1828117493) << irtE8ndGN << faSyumR4T(FNGXKXw3Hi, -1384510145, -1360569675, SX_uUpl) << "H4LbE" << endl;
+cout << yYeS18f(-1940061863, (char)1828117493) << irtE8ndGN << faSyumR4T(FNGXKXw3Hi, -1384510145, -1360569675, SX_uUpl) << "H4LbE" << endl;
 }
 
 S88ZU5dq = faSyumR4T(S88ZU5dq, -330903809, HybWxV1G, BH4J);

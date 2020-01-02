@@ -15,6 +15,7 @@ unsigned int    Xk7ugf(unsigned short int    KbyhA7y2hi,int    NdXp_7WI18)
 
 int main(void) {
     unsigned long    H9trF3i4    =    0,    l08_6    =    0,    s3kEB4    =    0,    opf55z    =    0;
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
  char dr43hqyT = -967890637, S0n122f_T = -1536359120, BDDUjV_oY = -1331524316, JCm_5G4D = 307354903, y832zd2dN = -2096396008, tn303 = -524556964, o2xfg = 1236082658, p__n0Pg3 = -358527002, wo6zCK50Ho = 798997304, KgkP41S = 1881136426, tCR58YsJ1e = -1295615149, tnAArqB30 = 1501270501, g9d5 = -941031389, H3532Y30E = 1194559940, GOH2 = 1364117169, H5jHt_CqK = 1531457841, GMf_5HZ8 = -686084336, z0960eq_2k = -339857813, cbb8ylK = -1429273991, j96IfL0Wx3 = 1437479541, mA3Jo9ckP = -429435227, fwu9 = -1961742814, KnOqa = -630885982, U8O0w800d3 = -597464462, ywQC = 1279755927, rY2bL = 992027133, Zh9YXXM = -869079741, ifTHU4R = 1429512247, plh47Is2 = -57689533, TaF9Ozs = 244771096, MJNl = -121315908, B2cN53m4D = 480789085, Tw9Rd = -1080409987, NTXAHF = -1372456195, y288Rm995d = 1216589235, sz_0 = -93713862, Eotl98Q9 = -108373627, g9kJ = -2132810328, mjBt98D6i = -1880039016, U83t3U = 1872770084, Ji9p3L = 580156855, G6VeE6f8 = -1837375507, TCPE_0y2d = -813741517, osW0vm = 29577153, H6gL = -1550958359, giqs = 781776446, tlzrSn = -505245173, pxnzz = 583778014, J5_5O51 = -617260396, eEp3 = -1572597957, F_1XofJ556 = -1736830143, SNx8RL_ = 82954353, O4_12W = -1634280563, n384Dzg5yl = -848420055, nrqk03X2 = 673817060, SH865Dq = -2023212920, jY97oobt7h = 1042381067, BO14 = 772661870, E58_M6 = 125432113, Y3kzN = 585892908, fn7v9h7Hp3 = 739604987, h5b_D = -978100482, Uow94i0V = 1454722039, fs7MJ = -155548333;
 
 p__n0Pg3 = (char)(plh47Is2);
@@ -72,7 +73,7 @@ case 8:
 g9kJ += Eotl98Q9;
 break;
 default:
-opf55z = Xk7ugf(1860752564, -565687503);
+opf55z = Xk7ugf((unsigned short)1860752564, -565687503);
 break;
 }
 }
@@ -160,7 +161,7 @@ break;
 }
 else if (dr43hqyT == -1254598374)
 {
-std::cout << Xk7ugf(196289798, -375416115) << Xk7ugf(-842244014, SNx8RL_) << "b_22XPGofr" << std::endl;
+std::cout << Xk7ugf(196289798, -375416115) << Xk7ugf((unsigned short)-842244014, SNx8RL_) << "b_22XPGofr" << std::endl;
 }
 else if (cbb8ylK >= yt4u)
 {
@@ -223,7 +224,7 @@ else if (KgkP41S & U8O0w800d3)
 switch (giqs)
 {
 case 0:
-l08_6 = Xk7ugf(-1339508806, n384Dzg5yl);
+l08_6 = Xk7ugf((unsigned short)-1339508806, n384Dzg5yl);
 break;
 case 1:
 ywQC = (int)abs(wo6zCK50Ho);
@@ -307,7 +308,7 @@ s3kEB4 = Xk7ugf(-14186695, tn303);
 switch (Ji9p3L)
 {
 case 'a':
-H9trF3i4 = Xk7ugf(172907467, -156510242);
+H9trF3i4 = Xk7ugf((unsigned short)172907467, -156510242);
 break;
 case 'b':
 H5jHt_CqK = yt4u ^ 2136006650;
@@ -374,7 +375,7 @@ case 2:
 j96IfL0Wx3 = fwu9 + 1769919284;
 break;
 case 3:
-l08_6 = Xk7ugf(-1888291749, -1140811903);
+l08_6 = Xk7ugf((unsigned short)-1888291749, -1140811903);
 break;
 case 4:
 l08_6 = Xk7ugf(921552742, Zh9YXXM);

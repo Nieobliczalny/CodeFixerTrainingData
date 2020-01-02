@@ -143,7 +143,7 @@ break;
 }
 }
 
-jIM6Y2 = (PjsIg) ? 1611245006 : s6fHrd1(295364568, 1687082197, B15a3);
+jIM6Y2 = (PjsIg) ? 1611245006 : s6fHrd1((short)295364568, 1687082197, B15a3);
 
 if (uP9PgR1 & pQzD_qU)
 {

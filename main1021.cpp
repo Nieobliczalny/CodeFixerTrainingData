@@ -10,6 +10,7 @@ using namespace std;
 
 int main()
 {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
   unsigned short int  ObdZCw  =  2067039810,  H39WXNG3  =  -1770355649,  Jk_nQq  =  1891205304,  ek3infG1  =  -653530163,  J3T2szcEQe  =  539966122,  HYX3jO  =  1919012067,  G5mAulQ  =  680278081,  s30_Z7edFT  =  -661742915,  kf80_Wi0F  =  -1726177182,  SWqqiC4S  =  -1101824776,  s86_sV  =  1835467889,  DxEx_  =  309488791,  cVdZrv_Ye5  =  -1373754266,  yIW898  =  -1037697076,  f7Ycp3bZ8  =  -231993681,  Z_63W  =  -1070925245,  u8TsH2  =  1036504854,  zY0i3  =  -451291758,  yb3C  =  -464030813,  N7iW  =  -1181782020,  KQKoPaOq0T  =  1357637481,  F_40n  =  1552483857,  g20Hd  =  1934731884,  ypgH6f  =  -1379950336,  N5W6  =  -501114036;
   unsigned char  imrZ1M6  =  0,  fw0o5YThYS  =  0;
 
@@ -30,7 +31,7 @@ KQKoPaOq0T -= 1268876160;
 }
 else if (s30_Z7edFT)
 {
-g20Hd = (ek3infG1 < 1261414212) ? 404025881 : -518400028;
+g20Hd = (ek3infG1 < 1261414212) ? 404025881 : (unsigned short)-518400028;
 }
 else if (ObdZCw < -1076087964)
 {

@@ -30,7 +30,7 @@ int main(int argc, char** argv)
   long  gB36V5nxMk;
   gB36V5nxMk  =  -723654134;
   unsigned char  hEw3;
-  hEw3  =  -33753674;
+  hEw3  =  (unsigned char)-33753674;
  short int QuIE;
  QuIE = 2004511044;
     long    mluqk;
@@ -44,7 +44,7 @@ int main(int argc, char** argv)
 	char	Qb220z_;
 	Qb220z_	=	1475287574;
     short int    PjLg;
-    PjLg    =    1536761900;
+    PjLg    =    (short)1536761900;
 	unsigned char	Zvf_rC;
 	Zvf_rC	=	125920123;
  unsigned char Ct27X11qT;
@@ -64,7 +64,7 @@ int main(int argc, char** argv)
 	short int	dM4QUMO5P;
 	dM4QUMO5P	=	-1879242086;
   short int  XAcm;
-  XAcm  =  1153081419;
+  XAcm  =  (short)1153081419;
   double  b08CEJi;
   b08CEJi  =  -1059042388;
 	float	d7FdQdhQJ;
@@ -80,7 +80,7 @@ int main(int argc, char** argv)
  short int MD0ZRfk3b;
  MD0ZRfk3b = 0;
 	unsigned short	C_MQg;
-	C_MQg	=	-1600773601;
+	C_MQg	=	(unsigned short)-1600773601;
 	unsigned short	A3K6b;
 	A3K6b	=	1942295832;
     unsigned char    WCCs1tUV;
@@ -166,7 +166,7 @@ YU12Gd3Il = TV6feqz << mluqk;
 }
 
 A3K6b = (unsigned short)(hcaq0 + (f30msd_));
-std::cout << QI024H_S16(1214875378, -749431769, b08CEJi, -298961200) << Zca1_Ks2qw(-593292908) << QI024H_S16(PjLg, -145504259, b08CEJi, gB36V5nxMk) << Zca1_Ks2qw(812988618) << std::endl;
+std::cout << QI024H_S16(1214875378, (short)-749431769, b08CEJi, -298961200) << Zca1_Ks2qw(-593292908) << QI024H_S16(PjLg, -145504259, b08CEJi, gB36V5nxMk) << Zca1_Ks2qw(812988618) << std::endl;
 
 try
 {
@@ -284,7 +284,7 @@ else if ((Zvf_rC <= Zq_p3) && ((hEw3 == -1450781115) || (b08CEJi > -1196300502))
 {
 if ((TV6feqz & -709008839) && (kCdj64 > pnhq0ABTfj))
 {
-MD0ZRfk3b = QI024H_S16(-669908366, VYMh5pqd8K, -1943505549, 569920538);
+MD0ZRfk3b = QI024H_S16(-669908366, VYMh5pqd8K, (short)-1943505549, 569920538);
 }
 else if (PjLg < Wy8xqGw0)
 {
@@ -365,7 +365,7 @@ std::cout << Zca1_Ks2qw(Zq_p3) << Qb220z_ << std::endl;
 }
 PjLg = (short int)(hcaq0 + (-759857545));
 lC38_GK3 = Zca1_Ks2qw(lC38_GK3);
-std::cout << QI024H_S16(lC38_GK3, -94520568, 274689482, XAcm) << "jCuRVB" << QI024H_S16(-575996194, TMP_, -2069172739, 1734042775) << "JCulI" << std::endl;
+std::cout << QI024H_S16(lC38_GK3, -94520568, (short)274689482, XAcm) << "jCuRVB" << QI024H_S16(-575996194, TMP_, -2069172739, 1734042775) << "JCulI" << std::endl;
 
 if ((Zca1_Ks2qw(-1232425281) / QI024H_S16(lC38_GK3, 128458396, -838259722, 1787788309)) < -997973425)
 {
@@ -506,7 +506,7 @@ else
 switch (A3K6b)
 {
 case 0:
-MD0ZRfk3b = QI024H_S16(678358633, 307675838, pnhq0ABTfj, Wy8xqGw0);
+MD0ZRfk3b = QI024H_S16(678358633, (short)307675838, pnhq0ABTfj, Wy8xqGw0);
 break;
 case 1:
 PlTQw83qv6 = (int)abs(XAcm);
@@ -536,7 +536,7 @@ break;
 }
 
 Zq_p3 = (QuIE < A3K6b) ? Qb220z_ : U73O8;
-MD0ZRfk3b = QI024H_S16(1467309111, 139207923, RW5Y_q, 1726687406);
+MD0ZRfk3b = QI024H_S16((short)1467309111, 139207923, RW5Y_q, 1726687406);
 {
 int i = 7;
 while (i >= 0)
@@ -578,7 +578,7 @@ case 0:
 RW5Y_q = (int)ceil(b08CEJi);
 break;
 case 1:
-MD0ZRfk3b = QI024H_S16(-1855371580, -129725886, -2102169452, -1066853917);
+MD0ZRfk3b = QI024H_S16(-1855371580, (short)-129725886, -2102169452, -1066853917);
 break;
 case 2:
 PjLg = (int)abs(RW5Y_q);
@@ -634,7 +634,7 @@ while (j < 9);
 }
 
 b08CEJi = (int)ceil(wCh1d);
-MD0ZRfk3b = QI024H_S16(-427122688, VYMh5pqd8K, 753932953, Ct27X11qT);
+MD0ZRfk3b = QI024H_S16(-427122688, VYMh5pqd8K, (short)753932953, Ct27X11qT);
 
 for (int i = 0; i < 10; i++)
 {

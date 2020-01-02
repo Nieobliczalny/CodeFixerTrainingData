@@ -39,7 +39,7 @@ int main()
     char    r24KZFZ;
     r24KZFZ    =    -990924307;
 	unsigned char	x8ra5ef;
-	x8ra5ef	=	-1810359910;
+	x8ra5ef	=	(unsigned char)-1810359910;
   unsigned long long  m__SCHAh;
   m__SCHAh  =  966262203;
     unsigned long long    s_3hZ7;
@@ -55,7 +55,7 @@ int main()
   unsigned long long  QAt6;
   QAt6  =  952404512;
  unsigned char pj4O6U;
- pj4O6U = 419817770;
+ pj4O6U = (unsigned char)419817770;
 	unsigned char	k3Ts4JZb;
 	k3Ts4JZb	=	-1681374405;
 	float	mzc4Ypt;
@@ -71,7 +71,7 @@ int main()
  short int bT254;
  bT254 = 859653685;
     unsigned short int    Nk7J8U3DU6;
-    Nk7J8U3DU6    =    432196365;
+    Nk7J8U3DU6    =    (unsigned short)432196365;
   long double  yyoqT;
   yyoqT  =  547083426;
  double wcPZvriXce;
@@ -109,7 +109,7 @@ int main()
 	char	bL_COe3w2;
 	bL_COe3w2	=	1346127276;
   unsigned short int  JPE2;
-  JPE2  =  325585583;
+  JPE2  =  (unsigned short)325585583;
   short  F7Nv1e3F;
   F7Nv1e3F  =  -1126639742;
 	long	ZTy0fQa;
@@ -127,7 +127,7 @@ int main()
  long double x64J63GV;
  x64J63GV = 1002859594;
  unsigned short S4p6yl;
- S4p6yl = -554814524;
+ S4p6yl = (unsigned short)-554814524;
   char  iC717BZV;
   iC717BZV  =  736136765;
  long long O55Oo;
@@ -336,7 +336,7 @@ wR2r6U = hpwQV3ebLQ(wR2r6U, MlFl9X, -705367172, -1469876983);
 break;
 case 'f':
 case 'F':
-Y4NzK0tyq8 = (r24KZFZ == T1E2Hrzpx3) ? -1730248660 : -360801252;
+Y4NzK0tyq8 = (r24KZFZ == T1E2Hrzpx3) ? (unsigned char)-1730248660 : -360801252;
 break;
 default:
 F7Nv1e3F++;
@@ -378,7 +378,7 @@ else if (iuPyrPeN >= -1531078560)
 int j = 0;
 do
 {
-std::cout << F7Nv1e3F << "RmkAj9_" << O55Oo << l5hH82(mzc4Ypt, JUziVK6gx, 643744277, -830780105, -1774655429) << l5hH82(mzc4Ypt, 505038602, -511984662, 2091639563, RqNEHy4_e) << std::endl;
+std::cout << F7Nv1e3F << "RmkAj9_" << O55Oo << l5hH82(mzc4Ypt, JUziVK6gx, 643744277, (short)-830780105, -1774655429) << l5hH82(mzc4Ypt, 505038602, -511984662, 2091639563, RqNEHy4_e) << std::endl;
 j++;
 }
 while (j < 10);

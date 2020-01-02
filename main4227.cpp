@@ -24,7 +24,7 @@ unsigned short int  jW3ee_h4SS(unsigned short  cw3c1SQ7u,unsigned char  g_O30xH0
 
 int main(void) {
 	unsigned int	ulMPnKZUC	=	951454415;
- unsigned char dr9OCa0 = 714901544;
+ unsigned char dr9OCa0 = (unsigned char)714901544;
     unsigned short    k224H_    =    319611443;
 	long	o5s99JK5X	=	0;
 
@@ -112,7 +112,7 @@ switch (o5s99JK5X)
 {
 case 'a':
 case 'A':
-o5s99JK5X = ZNOOsGk18(-76359608);
+o5s99JK5X = ZNOOsGk18((unsigned short)-76359608);
 break;
 case 'b':
 case 'B':
@@ -138,7 +138,7 @@ case 'c':
 o5s99JK5X = ZNOOsGk18(1315873171);
 break;
 case 'd':
-dr9OCa0 = jW3ee_h4SS(-140922210, k224H_);
+dr9OCa0 = jW3ee_h4SS((unsigned short)-140922210, k224H_);
 break;
 case 'e':
 o5s99JK5X = ZNOOsGk18(535427870);
@@ -175,7 +175,7 @@ try
 {
 if (k224H_ == -1971805715)
 {
-o5s99JK5X = ZNOOsGk18(-1364758627);
+o5s99JK5X = ZNOOsGk18((unsigned short)-1364758627);
 }
 else
 {
@@ -341,7 +341,7 @@ else if (ulMPnKZUC > 579674062)
 int j = 0;
 while (j < 4)
 {
-k224H_ = jW3ee_h4SS(-1802876745, 962393614);
+k224H_ = jW3ee_h4SS((unsigned short)-1802876745, 962393614);
 j++;
 }
 }
@@ -400,7 +400,7 @@ ulMPnKZUC = jW3ee_h4SS(-635812950, ulMPnKZUC);
 }
 else
 {
-o5s99JK5X = ZNOOsGk18(1194862009);
+o5s99JK5X = ZNOOsGk18((unsigned short)1194862009);
 }
 }
 {
@@ -421,7 +421,7 @@ case 'a':
 o5s99JK5X = ZNOOsGk18(-238015789);
 break;
 case 'b':
-k224H_ = jW3ee_h4SS(-511711766, o5s99JK5X);
+k224H_ = jW3ee_h4SS((unsigned short)-511711766, o5s99JK5X);
 break;
 case 'c':
 k224H_ = jW3ee_h4SS(o5s99JK5X, -1127529993);
@@ -492,7 +492,7 @@ k224H_ = jW3ee_h4SS(-1471139556, dr9OCa0);
 }
 else if (k224H_ >= dr9OCa0)
 {
-k224H_ = jW3ee_h4SS(1794352616, -2040209348);
+k224H_ = jW3ee_h4SS((unsigned short)1794352616, -2040209348);
 }
 else if (dr9OCa0 >= k224H_)
 {
@@ -536,7 +536,7 @@ o5s99JK5X = ZNOOsGk18(ulMPnKZUC);
 }
 else
 {
-k224H_ = jW3ee_h4SS(617216166, 2128782409);
+k224H_ = jW3ee_h4SS(617216166, (unsigned char)2128782409);
 }
 }
 else if (dr9OCa0 > 668171107)
@@ -646,7 +646,7 @@ dr9OCa0 = jW3ee_h4SS(2107194185, -877346891);
 while (j < 9);
 }
 }
-k224H_ = jW3ee_h4SS(784796234, -911478104);
+k224H_ = jW3ee_h4SS(784796234, (unsigned char)-911478104);
 dr9OCa0 &= 224566407;
 return 0;
 }

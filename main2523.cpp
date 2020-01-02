@@ -18,7 +18,7 @@ int main(int argc, char** argv)
  char jSWgZcjk;
  jSWgZcjk = -2146487369;
     short    rGoi0;
-    rGoi0    =    539763811;
+    rGoi0    =    (short)539763811;
  short a1Wgo;
  a1Wgo = -1500582438;
  float Iu1_N7;
@@ -46,7 +46,7 @@ int main(int argc, char** argv)
     long double    sssPI9r;
     sssPI9r    =    2090180777;
     unsigned char    C76Aip1T;
-    C76Aip1T    =    985108825;
+    C76Aip1T    =    (unsigned char)985108825;
 	unsigned long	G_9DT;
 	G_9DT	=	1795983151;
 	unsigned char	Xx769BOF;
@@ -58,7 +58,7 @@ int main(int argc, char** argv)
     long double    vjSZq;
     vjSZq    =    -537319580;
   short  jjs6s0fO;
-  jjs6s0fO  =  -355531380;
+  jjs6s0fO  =  (short)-355531380;
  int zQvYsdD;
  zQvYsdD = -1321861469;
 	int	DtN_bq;
@@ -70,7 +70,7 @@ int main(int argc, char** argv)
   float  rO8dN_n;
   rO8dN_n  =  571665873;
 	short int	SHDaNN4_xi;
-	SHDaNN4_xi	=	63379548;
+	SHDaNN4_xi	=	(short)63379548;
     unsigned short int    ccnHq;
     ccnHq    =    -1005197792;
   double  Wk3u_j9Wka;
@@ -80,7 +80,7 @@ int main(int argc, char** argv)
 	unsigned short int	t6be0_;
 	t6be0_	=	1343458363;
   unsigned short int  Sl5s25IE;
-  Sl5s25IE  =  -289957628;
+  Sl5s25IE  =  (unsigned short)-289957628;
  unsigned long long cvLIpDWUV;
  cvLIpDWUV = 0;
   char  M9vM;
@@ -94,7 +94,7 @@ int main(int argc, char** argv)
     float    BzmHO9pt;
     BzmHO9pt    =    -1276568069;
   short  KSlM;
-  KSlM  =  -1424767197;
+  KSlM  =  (short)-1424767197;
   short int  mma9tSb;
   mma9tSb  =  0;
   long double  BsOmZ7;
@@ -108,7 +108,7 @@ int main(int argc, char** argv)
 	double	i60B;
 	i60B	=	-1899109133;
   short  bEcM_d;
-  bEcM_d  =  -1229391093;
+  bEcM_d  =  (short)-1229391093;
 	short	gK5XnlQ1_1;
 	gK5XnlQ1_1	=	1999883936;
 
@@ -312,7 +312,7 @@ ty29_Hs = a1Wgo & C76Aip1T;
 break;
 case 'd':
 case 'D':
-bEcM_d = (t6be0_ != 487550344) ? -835342261 : -550680447;
+bEcM_d = (t6be0_ != 487550344) ? -835342261 : (short)-550680447;
 break;
 }
 i++;

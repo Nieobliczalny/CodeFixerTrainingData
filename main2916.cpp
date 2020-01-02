@@ -17,7 +17,7 @@ short int    nNgNJNETu()    {
 }
 
 short int  S6x0_VIs8()  {
-  return  -1392889395;
+  return  (short)-1392889395;
 }
 
 short int  knYw892c(long long  Q523j)  {
@@ -34,7 +34,7 @@ int main() {
  unsigned short int YLeCLtbV;
  YLeCLtbV = -309488209;
  short O12fVy;
- O12fVy = 455512932;
+ O12fVy = (short)455512932;
     long long    wU96E_;
     wU96E_    =    1632639055;
  int P8IVRUmx5D;
@@ -54,7 +54,7 @@ int main() {
 	unsigned short	xAc070;
 	xAc070	=	1995733198;
     short int    u4iKUbfm;
-    u4iKUbfm    =    -420227136;
+    u4iKUbfm    =    (short)-420227136;
 	long	upp6;
 	upp6	=	-1842117639;
 	long	oubemhkBs;
@@ -66,7 +66,7 @@ int main() {
  unsigned char r6_T;
  r6_T = 1173237605;
  unsigned char xB0_;
- xB0_ = -799522777;
+ xB0_ = (unsigned char)-799522777;
 	int	tAqho05;
 	tAqho05	=	0;
     unsigned short    t_Z1caY;
@@ -80,7 +80,7 @@ int main() {
 	unsigned int	t_zH7htzH;
 	t_zH7htzH	=	-320218049;
  char p23p;
- p23p = 707914404;
+ p23p = (char)707914404;
 	long long	v5617U8;
 	v5617U8	=	416869266;
  unsigned short int v4z88z_vB;
@@ -90,7 +90,7 @@ int main() {
  unsigned char f9nXa;
  f9nXa = 346429928;
 	short	pQ1Ma;
-	pQ1Ma	=	1674232676;
+	pQ1Ma	=	(short)1674232676;
   char  BB4f;
   BB4f  =  -1000211982;
 	float	oFHb_5y;
@@ -104,7 +104,7 @@ int main() {
 	unsigned long	Xet_x_vkAB;
 	Xet_x_vkAB	=	1985930700;
     unsigned short    H843ML5m;
-    H843ML5m    =    -1860411024;
+    H843ML5m    =    (unsigned short)-1860411024;
   long long  Q6g1vDVU0;
   Q6g1vDVU0  =  0;
 	unsigned int	T0133;
@@ -116,7 +116,7 @@ int main() {
 	char	Ay245;
 	Ay245	=	697302586;
 	short	wh_iv93kC;
-	wh_iv93kC	=	-1965259811;
+	wh_iv93kC	=	(short)-1965259811;
  long double mNFf_93fz;
  mNFf_93fz = 906226791;
 	unsigned int	r7Z1re;
@@ -144,7 +144,7 @@ int main() {
 	float	d0Mx4oPSo;
 	d0Mx4oPSo	=	-1326049008;
  short BgN_R8BTu;
- BgN_R8BTu = 1712596660;
+ BgN_R8BTu = (short)1712596660;
   unsigned char  lnz5y;
   lnz5y  =  -1053475461;
 	unsigned long	QghV;
@@ -158,7 +158,7 @@ int main() {
 	int	zy9i;
 	zy9i	=	-1282122111;
   short  kv0s_8nZ;
-  kv0s_8nZ  =  265593364;
+  kv0s_8nZ  =  (short)265593364;
 	int	aij7ff;
 	aij7ff	=	-1359095959;
 	double	wj5bV;

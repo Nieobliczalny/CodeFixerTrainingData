@@ -100,7 +100,7 @@ n6WeLz = Amx_HW17zS(-1772605757);
 }
 else if (((a_Tx2 >= W5KyU7_pHM) || (X0zr4Vdu > -1877074647)) && (ajYB != 951642649))
 {
-ajYB = T1m00_(1528746963);
+ajYB = T1m00_((short)1528746963);
 }
 else
 {
@@ -152,7 +152,7 @@ case 'c':
 N93jMi2g = (int)floor(qu6vz);
 break;
 case 'd':
-ajYB = T1m00_(-833301350);
+ajYB = T1m00_((short)-833301350);
 break;
 case 'e':
 uDfoMR765 = qb1F3kg + sxMNJq;
@@ -200,7 +200,7 @@ case 0:
 ajYB = T1m00_(565400948);
 break;
 case 1:
-jC7JM = Amx_HW17zS(922454935);
+jC7JM = Amx_HW17zS((unsigned short)922454935);
 break;
 case 2:
 jC7JM = Amx_HW17zS(1832240984);
@@ -542,7 +542,7 @@ switch (ajYB)
 {
 case 'a':
 case 'A':
-ajYB = T1m00_(333824929);
+ajYB = T1m00_((short)333824929);
 break;
 }
 if ((LU5r2 / ajYB) >= 213399177)

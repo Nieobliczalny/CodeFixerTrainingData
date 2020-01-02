@@ -15,7 +15,7 @@ short QTd_5I1(short pwkW18ER)
 
 char    WseRJ_W7(unsigned short    w3k_e2K271)
 {
-    return    -2023466898;
+    return    (char)-2023466898;
 }
 
 long	vCrVCn(unsigned long long	ncQ3H4ASf,long long	iF81dwioYY,short int	g1NxT4S,short int	eElu,long	z9lt8S)
@@ -39,7 +39,7 @@ try
 {
 for (int k = 0; k < 7; ++k)
 {
-fE3tMbn1 = WseRJ_W7(-1679579764);
+fE3tMbn1 = WseRJ_W7((unsigned short)-1679579764);
 }
 }
 catch (int& errorCode)
@@ -138,7 +138,7 @@ break;
 }
 else if (((cxB5ZFrGGI >= H5gPm17n) || (Z3FPhEGL <= kh3KTgk8_)) || (CyA8y <= EPrQmz))
 {
-bHOk7YSQ = vCrVCn(-1248649459, hGxIjJ7, 737884677, 1979823880, 1437282313);
+bHOk7YSQ = vCrVCn(-1248649459, hGxIjJ7, 737884677, (short)1979823880, 1437282313);
 }
 else if (((QAC46 != fLYf_Wb) && (vEl43iGVQ == 1218389331)) && ((bHOk7YSQ & -807146337) || (f62xBl <= 1282674003)))
 {

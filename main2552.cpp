@@ -27,7 +27,7 @@ int main() {
   unsigned char  vGn8a0u5_;
   vGn8a0u5_  =  1002226817;
 	unsigned short	eiI5_e;
-	eiI5_e	=	-1284453787;
+	eiI5_e	=	(unsigned short)-1284453787;
  short G3f4xy;
  G3f4xy = 871089583;
  long double d27_5o8YzH;
@@ -41,7 +41,7 @@ int main() {
  unsigned short g43_8;
  g43_8 = 1370075088;
   char  rt566gp;
-  rt566gp  =  -1543771097;
+  rt566gp  =  (char)-1543771097;
  unsigned short mfD6L;
  mfD6L = -1355863552;
     double    q2TokM_o;
@@ -61,7 +61,7 @@ int main() {
  long long N6Bg;
  N6Bg = -208312461;
   short int  OYan0447;
-  OYan0447  =  758435665;
+  OYan0447  =  (short)758435665;
  long IaOEYc5Jj5;
  IaOEYc5Jj5 = 1857838764;
   unsigned char  DvOFtQh8L;
@@ -73,7 +73,7 @@ int main() {
     long long    LEabOR3Mri;
     LEabOR3Mri    =    1390091551;
 	short int	NGg3UBlL;
-	NGg3UBlL	=	-670074385;
+	NGg3UBlL	=	(short)-670074385;
 	int	vrer5;
 	vrer5	=	1010511383;
   unsigned short  IbQ83i;
@@ -83,7 +83,7 @@ int main() {
   unsigned long long  qLdF1RnBj9;
   qLdF1RnBj9  =  -1602223670;
 	short	ki39j12;
-	ki39j12	=	591080872;
+	ki39j12	=	(short)591080872;
     unsigned short int    KSOwg4APQ;
     KSOwg4APQ    =    -1498658457;
  long iSH14I0n;
@@ -99,7 +99,7 @@ int main() {
   char  U1BNwV;
   U1BNwV  =  0;
   unsigned char  R69cSKC;
-  R69cSKC  =  1617965845;
+  R69cSKC  =  (unsigned char)1617965845;
 	long long	Zb0X405_;
 	Zb0X405_	=	312503079;
 	short	igE_E8_LW;
@@ -109,7 +109,7 @@ int main() {
     int    i3eu7FswX;
     i3eu7FswX    =    -650038746;
   char  oCZ1Di;
-  oCZ1Di  =  1994327765;
+  oCZ1Di  =  (char)1994327765;
   unsigned long long  sG7oJ3i_g;
   sG7oJ3i_g  =  502041008;
     short int    o0Ec;
@@ -125,7 +125,7 @@ int main() {
  unsigned long wTO5N;
  wTO5N = -1297040176;
     unsigned char    P091;
-    P091    =    1116243900;
+    P091    =    (unsigned char)1116243900;
   long long  VoMd3mN23E;
   VoMd3mN23E  =  1568072277;
   char  P49kZ0V;
@@ -137,7 +137,7 @@ int main() {
 	unsigned short	f2DH;
 	f2DH	=	-44306939;
  unsigned short int q3KRe1X;
- q3KRe1X = 1193470123;
+ q3KRe1X = (unsigned short)1193470123;
  long S0IE9_60;
  S0IE9_60 = 478210025;
   short  u8ODzm;
@@ -147,7 +147,7 @@ int main() {
  unsigned short hlDK6;
  hlDK6 = -1934541473;
   unsigned short int  my_Uzi;
-  my_Uzi  =  443500962;
+  my_Uzi  =  (unsigned short)443500962;
 	char	HiqC;
 	HiqC	=	-995729780;
 	long	S23Amk7b;
@@ -163,7 +163,7 @@ int main() {
     char    Caeyw;
     Caeyw    =    -98352967;
   short int  cMKVVR;
-  cMKVVR  =  814239285;
+  cMKVVR  =  (short)814239285;
 	long	OWITd_;
 	OWITd_	=	-950249373;
 

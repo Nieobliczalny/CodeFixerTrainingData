@@ -26,7 +26,7 @@ int main(void) {
 	double	YP_E2FUD58;
 	YP_E2FUD58	=	1356634003;
  unsigned char XI1zYFU_Gc;
- XI1zYFU_Gc = -1866582773;
+ XI1zYFU_Gc = (unsigned char)-1866582773;
  short int ArR5qt;
  ArR5qt = 1709981532;
     char    EFxO51;
@@ -46,7 +46,7 @@ int main(void) {
  long up7N;
  up7N = 263297134;
     unsigned short    rRr1T8C;
-    rRr1T8C    =    -1529507193;
+    rRr1T8C    =    (unsigned short)-1529507193;
 	unsigned long long	a_a_v;
 	a_a_v	=	-766889671;
 	short int	LtP7a;
@@ -58,7 +58,7 @@ int main(void) {
     unsigned long    C9_uopX4m3;
     C9_uopX4m3    =    13999479;
 	unsigned short int	zsDw_L9;
-	zsDw_L9	=	-794328476;
+	zsDw_L9	=	(unsigned short)-794328476;
   unsigned short  er831zu;
   er831zu  =  0;
 	long long	a0K50Me;
@@ -96,7 +96,7 @@ int main(void) {
  unsigned int WqV4p8;
  WqV4p8 = -37608762;
  short hIN7;
- hIN7 = 1650028465;
+ hIN7 = (short)1650028465;
  short B__ALgk2;
  B__ALgk2 = 193615398;
     float    y8AP9;
@@ -112,7 +112,7 @@ int main(void) {
  short int f1bGvVE;
  f1bGvVE = 1857559968;
     short    EITU;
-    EITU    =    65257517;
+    EITU    =    (short)65257517;
  unsigned char Z7wAU9V4;
  Z7wAU9V4 = -1921408722;
 	unsigned long	dldR_6X1C;
@@ -126,7 +126,7 @@ int main(void) {
     long    sB5WWf_Rhj;
     sB5WWf_Rhj    =    -1816759774;
  char L46FH9;
- L46FH9 = 1890961653;
+ L46FH9 = (char)1890961653;
 	unsigned long	JAfl3qn2;
 	JAfl3qn2	=	1171306897;
     float    KzYH;
@@ -138,7 +138,7 @@ int main(void) {
   long double  J_5o7kos;
   J_5o7kos  =  56413009;
   unsigned short  E0m5;
-  E0m5  =  2137642276;
+  E0m5  =  (unsigned short)2137642276;
   unsigned long long  uf78ftB;
   uf78ftB  =  507074048;
   short int  u7OvB;
@@ -148,7 +148,7 @@ int main(void) {
     unsigned char    xG_Y;
     xG_Y    =    101154097;
  unsigned char cY7I2cxDIL;
- cY7I2cxDIL = -595491953;
+ cY7I2cxDIL = (unsigned char)-595491953;
 	long long	XZ5rmsW;
 	XZ5rmsW	=	-2130014567;
     unsigned long long    Jk6b9;
@@ -190,7 +190,7 @@ int main(void) {
  unsigned long long LSg04;
  LSg04 = 301091659;
 	short	I1xqt6i69a;
-	I1xqt6i69a	=	-177109859;
+	I1xqt6i69a	=	(short)-177109859;
     char    h9lEK;
     h9lEK    =    321589467;
     char    NRa2aEvGjz;
@@ -200,7 +200,7 @@ cout << KjFJkAN << endl;
 
 w2N421 = MOL899(2034916897, zsDw_L9) / ovCAF(lDDND56c, -295056585, -1964217438);
 
-L46FH9 = bHdsR(693970652, urczg6, EITU, 1291164181, -1243326435);
+L46FH9 = bHdsR((short)693970652, urczg6, EITU, 1291164181, -1243326435);
 
 p2_4_ = MOL899(p2_4_, 372352107);
 

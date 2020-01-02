@@ -34,7 +34,7 @@ int main(int argc, char** argv) {
 
 if (o_U6QrB <= -1605235273)
 {
-smqOR8 = cv3ibEp5(1449933039);
+smqOR8 = cv3ibEp5((unsigned char)1449933039);
 }
 for (int i = 0; i < 4; i++)
 {

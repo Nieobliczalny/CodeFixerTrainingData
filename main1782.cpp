@@ -14,7 +14,7 @@ int main()
 {
  unsigned short int WCMnFXX6o, GE54, En_bc, oP9_t5cec, OG5I1, Jxc28_, u2ab_yS9hd, c3T3, j7_8YA, U1FddKfd2D, it3wtf2, c3TDd54, VoTnrBl0, Suw1C1q499, kOhaO, B7x1O_XibO, CO49wzgR, bRfxM4_, l1KntS4, mGpON, LoV4l2j, XCU2T84, sL_omV4qD4, sXj8BX, zH4B, z8_dB9TDJ6, Q4Bc_Ili, Oei3, et_7jszH, U9oV, W7177, uX2W, W0618nSn, w8_0_51, vK9CbAM, ZHIw, FGu5S, J0jx_wx, QF1U7k0rVM, DJhh__Gd, FfUXx, yGibGPWrf, YJGwv09, rX2RWR65a1, b807I, bvLlmV, mX13uVykb_, T1JlYSza25, PKgFX5BZaW, cOQyen86I, C9lQCtWVQ, xIG54l, v1h1789, wN8XTxa, bwvpArBA9, Y8NQ85, vFvMx, Vfe3, n1LG8, VZ3SNPDHg, J5_fXo5, FHs2S_J, evaqbZLG0, Gm_17pPUE, KvSfMZ;
  WCMnFXX6o = -477235630;
- GE54 = 1291949516;
+ GE54 = (unsigned short)1291949516;
  En_bc = -395838903;
  oP9_t5cec = -498123694;
  OG5I1 = 508300328;
@@ -24,7 +24,7 @@ int main()
  j7_8YA = 327614988;
  U1FddKfd2D = -1403687238;
  it3wtf2 = 1391249214;
- c3TDd54 = -267694986;
+ c3TDd54 = (unsigned short)-267694986;
  VoTnrBl0 = 1451464761;
  Suw1C1q499 = 2095199680;
  kOhaO = 174372463;
@@ -34,7 +34,7 @@ int main()
  l1KntS4 = 624819284;
  mGpON = 1937756626;
  LoV4l2j = -1129883982;
- XCU2T84 = -1383637497;
+ XCU2T84 = (unsigned short)-1383637497;
  sL_omV4qD4 = -1870214566;
  sXj8BX = -1795132981;
  zH4B = 379573235;
@@ -44,7 +44,7 @@ int main()
  et_7jszH = -674989419;
  U9oV = 2047414136;
  W7177 = -562955747;
- uX2W = -101907663;
+ uX2W = (unsigned short)-101907663;
  W0618nSn = 654326895;
  w8_0_51 = 95157947;
  vK9CbAM = 1921254573;
@@ -54,7 +54,7 @@ int main()
  QF1U7k0rVM = -1469338720;
  DJhh__Gd = -156904751;
  FfUXx = 822143421;
- yGibGPWrf = -479141440;
+ yGibGPWrf = (unsigned short)-479141440;
  YJGwv09 = 2076175365;
  rX2RWR65a1 = 713242501;
  b807I = -1378372406;
@@ -64,7 +64,7 @@ int main()
  PKgFX5BZaW = -1224611709;
  cOQyen86I = -1506675915;
  C9lQCtWVQ = -471588574;
- xIG54l = 1642962071;
+ xIG54l = (unsigned short)1642962071;
  v1h1789 = -1397126809;
  wN8XTxa = 1630705992;
  bwvpArBA9 = 1345361070;
@@ -74,7 +74,7 @@ int main()
  n1LG8 = -199031093;
  VZ3SNPDHg = 229316039;
  J5_fXo5 = 476329108;
- FHs2S_J = 1262828777;
+ FHs2S_J = (unsigned short)1262828777;
  evaqbZLG0 = 1848225274;
  Gm_17pPUE = -437280805;
  KvSfMZ = -1320018566;

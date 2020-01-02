@@ -23,7 +23,7 @@ int main(int argc, char** argv) {
 	long	W13aH5_8;
 	W13aH5_8	=	1792639010;
     unsigned short int    CYgya;
-    CYgya    =    1293929392;
+    CYgya    =    (unsigned short)1293929392;
 	unsigned char	d_WHj3I;
 	d_WHj3I	=	1522035318;
     int    JbB4_76q;
@@ -33,7 +33,7 @@ int main(int argc, char** argv) {
 	unsigned long long	y98qR5mH;
 	y98qR5mH	=	-2047038427;
  short int s3C10_0D1G;
- s3C10_0D1G = -948069063;
+ s3C10_0D1G = (short)-948069063;
 	unsigned char	LBJO2;
 	LBJO2	=	-255022330;
     unsigned short int    W8Hv;
@@ -43,7 +43,7 @@ int main(int argc, char** argv) {
   double  N31r8;
   N31r8  =  -161716664;
  unsigned short fi8H;
- fi8H = -1407289088;
+ fi8H = (unsigned short)-1407289088;
  unsigned char plS5qX8y;
  plS5qX8y = 358585534;
     unsigned short    nH5X8mP7;
@@ -59,7 +59,7 @@ int main(int argc, char** argv) {
  char LA18T_i;
  LA18T_i = -1433834309;
     unsigned short int    B_3r0z;
-    B_3r0z    =    -1487033048;
+    B_3r0z    =    (unsigned short)-1487033048;
  unsigned int zCPB;
  zCPB = -1802513766;
  short at20s;
@@ -73,7 +73,7 @@ int main(int argc, char** argv) {
     char    tx8amF;
     tx8amF    =    -280996748;
   unsigned char  Dr040Bv;
-  Dr040Bv  =  -1408865555;
+  Dr040Bv  =  (unsigned char)-1408865555;
  unsigned long ki1_;
  ki1_ = -554163315;
  long long kh88u;
@@ -97,7 +97,7 @@ int main(int argc, char** argv) {
   short int  TA4ARm_;
   TA4ARm_  =  1850777464;
 	char	iEm1zY1ecC;
-	iEm1zY1ecC	=	998724676;
+	iEm1zY1ecC	=	(char)998724676;
 	char	LqUqH_Co;
 	LqUqH_Co	=	1937875634;
   unsigned int  IhO7E;
@@ -123,7 +123,7 @@ int main(int argc, char** argv) {
 	unsigned short int	wI71B_C;
 	wI71B_C	=	-39473803;
     unsigned char    il6Z39y;
-    il6Z39y    =    2001597093;
+    il6Z39y    =    (unsigned char)2001597093;
     short    O71p1;
     O71p1    =    -1807429475;
 	unsigned int	TLo17W92n;
@@ -135,7 +135,7 @@ int main(int argc, char** argv) {
   double  OTKi8p70J;
   OTKi8p70J  =  -2142427120;
     unsigned short    XuId_gX4v;
-    XuId_gX4v    =    -879964955;
+    XuId_gX4v    =    (unsigned short)-879964955;
   int  qx9G3KBnD4;
   qx9G3KBnD4  =  -143158815;
 	unsigned short	zqRK3xwXW5;
@@ -151,7 +151,7 @@ int main(int argc, char** argv) {
   unsigned long long  wi4078qV;
   wi4078qV  =  1640529700;
   short int  tFE0DDdc3T;
-  tFE0DDdc3T  =  -1951287310;
+  tFE0DDdc3T  =  (short)-1951287310;
 	unsigned char	p_Ro;
 	p_Ro	=	-1039505299;
 	short int	LSQmKmr4o2;
@@ -167,7 +167,7 @@ int main(int argc, char** argv) {
     unsigned short    kNf98Uk781;
     kNf98Uk781    =    574462046;
 	unsigned short int	ZiTYXouNFu;
-	ZiTYXouNFu	=	1595001555;
+	ZiTYXouNFu	=	(unsigned short)1595001555;
   unsigned char  E_XYBm;
   E_XYBm  =  -2010151159;
  short mkHd1cM2ba;
@@ -183,7 +183,7 @@ int main(int argc, char** argv) {
     long long    Yt61;
     Yt61    =    943730390;
 
-std::cout << KhXO << S7_r3(1921835765, NnD10lF, 1209383836) << tx8amF << S7_r3(zCPB, 1996771462, qx9G3KBnD4) << std::endl;
+std::cout << KhXO << S7_r3(1921835765, NnD10lF, (char)1209383836) << tx8amF << S7_r3(zCPB, 1996771462, qx9G3KBnD4) << std::endl;
 
 GZJY4pUp = (int)floor(QEbbKv);
 
@@ -211,7 +211,7 @@ else if ((VMjc2S & LqUqH_Co) || ((Yt61 & at20s) && (SIZrn_ > 83121457)))
 switch (xe_8P1f)
 {
 case 0:
-TF8l = S7_r3(389451883, 857089231, 1191969222) - Tm3I0;
+TF8l = S7_r3(389451883, 857089231, (char)1191969222) - Tm3I0;
 break;
 case 1:
 Is154UN = (int)ceil(SIZrn_);
@@ -249,7 +249,7 @@ O2I_1l4Y_ = (char)(tFE0DDdc3T);
 }
 std::cout << LSQmKmr4o2 << TF8l << "OMTH" << "WtXUKpT" << std::endl;
 mbD9B5xw9n = zCPB % 1560214572;
-TLo17W92n = S7_r3(1128572389, zCPB, -1060313819);
+TLo17W92n = S7_r3(1128572389, zCPB, (char)-1060313819);
 if (O9OzKLL5d <= kNf98Uk781)
 {
 tx8amF = gC2V / S_g_P2T4;
@@ -272,7 +272,7 @@ std::cout << "X9pH50VfM" << S7_r3(nH5X8mP7, -1400573826, Hh77) << std::endl;
 
 std::cout << OwcK5eH0 << e9_6 << std::endl;
 
-std::cout << tx8amF << "W35n4f" << S7_r3(-940199900, zCPB, Hh77) << "xUkZXg5" << QEbbKv << std::endl;
+std::cout << tx8amF << "W35n4f" << S7_r3((short)-940199900, zCPB, Hh77) << "xUkZXg5" << QEbbKv << std::endl;
 
 {
 int i = 7;

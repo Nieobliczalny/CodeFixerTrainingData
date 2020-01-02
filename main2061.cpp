@@ -90,7 +90,7 @@ int main()
 	Mck3_35of	=	0;
 	x882VGK1K_	=	0;
 
-std::cout << imxf3622sx(362879398, 1312188957, 405343445, -329154860) << T1oqonWZuN << std::endl;
+std::cout << imxf3622sx(362879398, (unsigned short)1312188957, 405343445, -329154860) << T1oqonWZuN << std::endl;
 
 nenLIb *= 1463195042;
 G_DT5apMDS = (int)abs(NIMDwG9ytO);
@@ -238,7 +238,7 @@ else if (dg16bD33pj > r1N0)
 {
 try
 {
-k_g6Rm0 = imxf3622sx(-1708360558, -1948698225, pA17FVk0I_, 286469016);
+k_g6Rm0 = imxf3622sx(-1708360558, (unsigned short)-1948698225, pA17FVk0I_, 286469016);
 }
 catch (int& errorCode)
 {
@@ -259,7 +259,7 @@ NIMDwG9ytO = t6VJkjfp(-1889902064);
 
 if (CZe7nC9Cq)
 {
-std::cout << W5ninB_7(NIMDwG9ytO) << "KDnh_u6" << "K9oK" << a9ifpRKQm7(303761684, G4huS6s) << std::endl;
+std::cout << W5ninB_7(NIMDwG9ytO) << "KDnh_u6" << "K9oK" << a9ifpRKQm7((short)303761684, G4huS6s) << std::endl;
 }
 else
 {
@@ -269,7 +269,7 @@ case 0:
 eQ6R_LQ7 = imxf3622sx(NIMDwG9ytO, -1762070393, dB4zzscg, -835669166) & lNvj3Ce8g;
 break;
 case 1:
-Mck3_35of = O436z3(txWz99bHqc, -869456330, -761478366, aQNJI, QB4S4Lulr);
+Mck3_35of = O436z3(txWz99bHqc, (unsigned char)-869456330, -761478366, aQNJI, QB4S4Lulr);
 break;
 case 2:
 Y64IyQ4 *= HPcnOR6e6q;
@@ -367,7 +367,7 @@ w_MQtOpV++;
 }
 }
 
-std::cout << "wHc4z" << "vQ1xO" << O436z3(kg0sW_o, -1369160284, -1809062756, NIMDwG9ytO, VARsPI) << a9ifpRKQm7(-301490052, SxFn5Wi3g) << std::endl;
+std::cout << "wHc4z" << "vQ1xO" << O436z3(kg0sW_o, -1369160284, -1809062756, NIMDwG9ytO, VARsPI) << a9ifpRKQm7((short)-301490052, SxFn5Wi3g) << std::endl;
 if (HPcnOR6e6q & 1733540596)
 {
 std::cout << kg0sW_o << std::endl;
@@ -378,7 +378,7 @@ for (int j = 0; j < 1; j++)
 {
 if ((QB4S4Lulr & r1N0) && (g2uJ9 <= -654682070))
 {
-tnsjD = imxf3622sx(303546836, -723692516, z4L8, 1745235);
+tnsjD = imxf3622sx(303546836, (unsigned short)-723692516, z4L8, 1745235);
 }
 else if (UC5OQ_pku <= 695451202)
 {
@@ -485,7 +485,7 @@ case 0:
 kg0sW_o = a9ifpRKQm7(1981155266, kg0sW_o);
 break;
 case 1:
-Mck3_35of = O436z3(SxFn5Wi3g, 519408285, k_g6Rm0, -346963316, T1oqonWZuN);
+Mck3_35of = O436z3(SxFn5Wi3g, (unsigned char)519408285, k_g6Rm0, -346963316, T1oqonWZuN);
 break;
 case 2:
 G_DT5apMDS = (int)abs(dB4zzscg);

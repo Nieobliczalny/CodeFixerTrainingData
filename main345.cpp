@@ -236,7 +236,7 @@ Tns22 = (int)abs(Bd1_9IF4Lv);
 eM1vr2VQ = UR6b61(ap006_xfaA, -775452154, QD83lzJv);
 
 X7Yb5DKe_3 = (double)(Xrp4kK_);
-std::cout << zOjc8O << UR6b61(ap006_xfaA, Q84k, -839370893) << std::endl;
+std::cout << zOjc8O << UR6b61(ap006_xfaA, Q84k, (unsigned short)-839370893) << std::endl;
 
 m2OKnBtVG = (double)(Gr0a8t3L12);
 
@@ -246,7 +246,7 @@ r3R8 = x2WjFp - 177153287;
 switch (RVmPf8jV)
 {
 case 0:
-RVmPf8jV = UR6b61(o1aa4m, Tns22, 1580145351);
+RVmPf8jV = UR6b61(o1aa4m, Tns22, (unsigned short)1580145351);
 break;
 case 1:
 Q84k = (int)floor(m2OKnBtVG);

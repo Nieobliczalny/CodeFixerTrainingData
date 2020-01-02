@@ -18,7 +18,7 @@ int main(void) {
   unsigned long  PgWHIJ8oK0;
   PgWHIJ8oK0  =  1057393216;
   unsigned short int  N2nkH1D;
-  N2nkH1D  =  -654641092;
+  N2nkH1D  =  (unsigned short)-654641092;
  double H86N9ab7;
  H86N9ab7 = 1915440430;
   long long  fu1E;
@@ -32,7 +32,7 @@ int main(void) {
   long long  n_58HW0G9;
   n_58HW0G9  =  0;
   short int  r55p9Bdz;
-  r55p9Bdz  =  -1615367242;
+  r55p9Bdz  =  (short)-1615367242;
 	double	I1cFlx4i;
 	I1cFlx4i	=	439853957;
  float UEXw1zB07;
@@ -42,7 +42,7 @@ int main(void) {
     unsigned char    nov_556Pb;
     nov_556Pb    =    1661050981;
     unsigned short int    g7yCr;
-    g7yCr    =    192233316;
+    g7yCr    =    (unsigned short)192233316;
  long double v55B;
  v55B = -1134779562;
  long Zqian;

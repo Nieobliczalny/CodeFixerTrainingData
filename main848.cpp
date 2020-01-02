@@ -26,7 +26,7 @@ int main(int argc, char** argv) {
 	unsigned int	vi6wI163nn;
 	vi6wI163nn	=	804694838;
  short int E4f3VN_;
- E4f3VN_ = -754669144;
+ E4f3VN_ = (short)-754669144;
     unsigned long    wdLKGVyg40;
     wdLKGVyg40    =    0;
     int    FTis;
@@ -50,7 +50,7 @@ int main(int argc, char** argv) {
  long long EU849;
  EU849 = 1060664762;
  short int yTnsZ;
- yTnsZ = 1919612817;
+ yTnsZ = (short)1919612817;
  unsigned short Ywe1;
  Ywe1 = 487978493;
  unsigned long evs_IEDpXw;
@@ -68,7 +68,7 @@ int main(int argc, char** argv) {
     unsigned int    rBB9;
     rBB9    =    -1828497009;
 	unsigned short	j3A7XSiGH;
-	j3A7XSiGH	=	-931818818;
+	j3A7XSiGH	=	(unsigned short)-931818818;
   char  mX0_;
   mX0_  =  -1210492118;
  short Al_9v8;
@@ -100,7 +100,7 @@ int main(int argc, char** argv) {
   float  LkBp;
   LkBp  =  -1706850606;
     unsigned char    Au2m7;
-    Au2m7    =    -714423868;
+    Au2m7    =    (unsigned char)-714423868;
 	unsigned short int	iqW6Jhl4;
 	iqW6Jhl4	=	123417889;
   unsigned long long  k0UX;
@@ -112,7 +112,7 @@ int main(int argc, char** argv) {
   unsigned long  GMYPY05P_p;
   GMYPY05P_p  =  -202450178;
     unsigned short    A_mNb1_P;
-    A_mNb1_P    =    -1718421992;
+    A_mNb1_P    =    (unsigned short)-1718421992;
  long double fKR63Aa75;
  fKR63Aa75 = -78637133;
  short int EbId2SNP;
@@ -124,7 +124,7 @@ int main(int argc, char** argv) {
   unsigned long  Jg_997;
   Jg_997  =  1102995374;
 	short	vwSESVP5;
-	vwSESVP5	=	-1120438105;
+	vwSESVP5	=	(short)-1120438105;
 	short int	L3WFe_0;
 	L3WFe_0	=	828782599;
     long double    PioI7xcGJz;
@@ -138,7 +138,7 @@ int main(int argc, char** argv) {
     char    zq8aXXw;
     zq8aXXw    =    -724723107;
 	short	NA5lK2ma8N;
-	NA5lK2ma8N	=	-1772944134;
+	NA5lK2ma8N	=	(short)-1772944134;
   long  h7zf351;
   h7zf351  =  1884196960;
 	unsigned long long	RhIUEfGj5K;
@@ -158,7 +158,7 @@ int k = 0;
 do
 {
 ++k;
-rBB9 = AE6q7TL_iq(-2020954535, 2126869678, EU849);
+rBB9 = AE6q7TL_iq(-2020954535, (short)2126869678, EU849);
 }
 while (k < 4);
 }

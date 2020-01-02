@@ -18,7 +18,7 @@ short int	ryY7(long long	B_3023I,unsigned short int	Z56V,unsigned short int	c9Hy
 }
 
 short int  w40RH724(int  U48Z)  {
-  return  77979737;
+  return  (short)77979737;
 }
 
 int main(void)
@@ -28,7 +28,7 @@ int main(void)
 	unsigned short	Hnx4VksOy0;
 	Hnx4VksOy0	=	797269070;
     unsigned short int    NSCKB7;
-    NSCKB7    =    -284439623;
+    NSCKB7    =    (unsigned short)-284439623;
   unsigned int  uLFi39kb;
   uLFi39kb  =  -1773482660;
 	unsigned short int	YN3Qp30;
@@ -52,7 +52,7 @@ int main(void)
  short y42ikpg;
  y42ikpg = 0;
     short    dJzkx3A;
-    dJzkx3A    =    -1394653128;
+    dJzkx3A    =    (short)-1394653128;
     unsigned long long    Ahy624SE0;
     Ahy624SE0    =    1444222959;
     unsigned long    lV7G_Y36;
@@ -70,7 +70,7 @@ int main(void)
  long long t0s95CTX1a;
  t0s95CTX1a = 1736558683;
 	unsigned short	F_P1;
-	F_P1	=	-2116849026;
+	F_P1	=	(unsigned short)-2116849026;
 	long	n1Uv;
 	n1Uv	=	1235155447;
 	double	U55aOdd;
@@ -80,7 +80,7 @@ int main(void)
     unsigned int    Aup0DA21;
     Aup0DA21    =    -737238776;
   short  S90jAEys;
-  S90jAEys  =  -1733957222;
+  S90jAEys  =  (short)-1733957222;
     long    ZR_ox4;
     ZR_ox4    =    0;
 	unsigned long	BDOLbkAT6S;
@@ -90,7 +90,7 @@ int main(void)
 	char	Kfn52W8R0;
 	Kfn52W8R0	=	766254969;
   unsigned short int  neLhm;
-  neLhm  =  -1673031266;
+  neLhm  =  (unsigned short)-1673031266;
  long AWa7G4y;
  AWa7G4y = 1478477871;
  long double r94NR;
@@ -151,7 +151,7 @@ case 'e':
 lDqU7i_S5q = w40RH724(1224997661);
 break;
 case 'f':
-S90jAEys = ryY7(1293937051, -1441396514, NSCKB7, 2057181592);
+S90jAEys = ryY7(1293937051, -1441396514, NSCKB7, (short)2057181592);
 break;
 case 'g':
 Ahy624SE0 = ryY7(2124066152, -1143359346, BDOLbkAT6S, 1169113384);
@@ -250,7 +250,7 @@ jEwxKT = (unsigned short int)(Aup0DA21);
 }
 }
 
-t0s95CTX1a = ryY7(t0s95CTX1a, dJzkx3A, neLhm, 256753340);
+t0s95CTX1a = ryY7(t0s95CTX1a, dJzkx3A, neLhm, (short)256753340);
 
 {
 int i = 7;
@@ -263,7 +263,7 @@ lDqU7i_S5q = (long)(Kfn52W8R0);
 H1Bk3QI2lC = LZENwmH_E6 / ZR_ox4;
 
 Iu8qUDM7J = Lv9dne(-1849414026, Iu8qUDM7J);
-Hnx4VksOy0 = ryY7(Hnx4VksOy0, -194737696, Kfn52W8R0, n1Uv);
+Hnx4VksOy0 = ryY7(Hnx4VksOy0, (unsigned short)-194737696, Kfn52W8R0, n1Uv);
 
 if (icZ2I8)
 {
@@ -318,7 +318,7 @@ qQ_AeXZ = (int)abs(y42ikpg) + (428408556);
 cout << H1Bk3QI2lC << lV7G_Y36 << endl;
 Aup0DA21 = ryY7(330717786, Ahy624SE0, U55aOdd, 1053587404);
 
-cout << F_P1 << ryY7(Aup0DA21, Ahy624SE0, 1914002098, -1229782392) << endl;
+cout << F_P1 << ryY7(Aup0DA21, Ahy624SE0, (unsigned short)1914002098, -1229782392) << endl;
 try
 {
 switch (m1UDTKH)
@@ -371,7 +371,7 @@ YX76Xqf3 = w40RH724(m1UDTKH) - kwCO29Xaw;
 
 if (dJzkx3A > r94NR)
 {
-WIK1hwRGha = (X8Byd0 <= 444630588) ? m1UDTKH : ryY7(1991836592, -1370834484, Dwt66Y, 1769413448);
+WIK1hwRGha = (X8Byd0 <= 444630588) ? m1UDTKH : ryY7(1991836592, -1370834484, Dwt66Y, (short)1769413448);
 }
 else
 {
@@ -391,7 +391,7 @@ U55aOdd = (int)floor(icZ2I8);
 break;
 case 'c':
 case 'C':
-jt7HNfH = ryY7(jt7HNfH, -1265134984, 1637392993, Zn0u3);
+jt7HNfH = ryY7(jt7HNfH, -1265134984, (unsigned short)1637392993, Zn0u3);
 break;
 case 'd':
 case 'D':
@@ -451,7 +451,7 @@ case 'f':
 y42ikpg = Lv9dne(AWa7G4y, qQ_AeXZ);
 break;
 case 'g':
-icZ2I8 = ryY7(icZ2I8, 797077895, LZENwmH_E6, -2062554554);
+icZ2I8 = ryY7(icZ2I8, (unsigned short)797077895, LZENwmH_E6, -2062554554);
 break;
 case 'h':
 lDqU7i_S5q = NSCKB7 | Kfn52W8R0;
@@ -488,7 +488,7 @@ S90jAEys = (short)(Ahy624SE0);
 }
 
 q92Cl = BDOLbkAT6S - 175885835;
-cout << ryY7(601834770, 1784974814, lDqU7i_S5q, -1847765972) << uLFi39kb << Lv9dne(m1UDTKH, q92Cl) << "d70Zc2ES" << "rFSo7N67" << endl;
+cout << ryY7(601834770, 1784974814, lDqU7i_S5q, (short)-1847765972) << uLFi39kb << Lv9dne(m1UDTKH, q92Cl) << "d70Zc2ES" << "rFSo7N67" << endl;
 U55aOdd = (int)ceil(Zn0u3);
 if ((t_CYJWVIE > 1917523198) && (Dwt66Y != YN3Qp30))
 {
@@ -601,7 +601,7 @@ r94NR = (int)floor(Dwt66Y);
 }
 else if (y42ikpg < -294433451)
 {
-BDOLbkAT6S = ryY7(-936180668, Zn0u3, 1319905762, -1209053710);
+BDOLbkAT6S = ryY7(-936180668, Zn0u3, 1319905762, (short)-1209053710);
 }
 else
 {

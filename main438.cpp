@@ -20,7 +20,7 @@ unsigned short CNUh(unsigned char ZUZk8,unsigned long long CXoOlq_ra,unsigned in
 
 int main(int argc, char** argv) {
  short int vI7h5l2_HX = 121934993;
-	short	aBfBD	=	1848922178;
+	short	aBfBD	=	(short)1848922178;
   long double  fftL_rou  =  -1440123206;
     long    ErWh    =    -273791644;
  char MYrK2HIcS = 333197388;
@@ -37,7 +37,7 @@ int main(int argc, char** argv) {
     int    g4UVGx    =    917262021;
   int  yGdfcCzIo  =  -1661718815;
     unsigned long    oo2mjw8f    =    816303998;
-    short    z67RiE    =    1637415916;
+    short    z67RiE    =    (short)1637415916;
     unsigned short    ugB6kH    =    1108341307;
   unsigned long  aIuAdI1a8  =  0;
     float    la9437Dp9    =    548868270;
@@ -75,7 +75,7 @@ case 'a':
 fftL_rou = CNUh(fftL_rou, NYJZZ, -455621585, -1244329350);
 break;
 case 'b':
-ErWh = FBQDB10_(ErWh, 1383180000, 1025923833);
+ErWh = FBQDB10_(ErWh, (unsigned char)1383180000, 1025923833);
 break;
 case 'c':
 X6Za64k = (int)abs(fftL_rou);
@@ -237,7 +237,7 @@ while (i < 5)
 {
 try
 {
-cout << fftL_rou << g4UVGx << vI7h5l2_HX << CNUh(NYJZZ, 1608856135, Jq6kpnYw5, 20324890) << CNUh(NYJZZ, aBfBD, Jq6kpnYw5, -932203987) << endl;
+cout << fftL_rou << g4UVGx << vI7h5l2_HX << CNUh(NYJZZ, 1608856135, Jq6kpnYw5, 20324890) << CNUh(NYJZZ, aBfBD, Jq6kpnYw5, (unsigned short)-932203987) << endl;
 }
 catch (int& errorCode)
 {

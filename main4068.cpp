@@ -36,7 +36,7 @@ int main(int argc, char** argv)
  char TQpfD;
  TQpfD = 0;
  short int P2trU1C;
- P2trU1C = 1194528664;
+ P2trU1C = (short)1194528664;
  int PF9Qa;
  PF9Qa = 1072500062;
   unsigned short  wlz3tO;
@@ -61,7 +61,7 @@ case 3:
 wlz3tO += xx6c;
 break;
 case 4:
-TQpfD = xm38Z220F1(-1492201216);
+TQpfD = xm38Z220F1((short)-1492201216);
 break;
 case 5:
 B5Ad2_w = xx6c & PF9Qa;
@@ -82,7 +82,7 @@ case 'b':
 a_8Ixu = (int)abs(TQpfD) + (562079224);
 break;
 case 'c':
-a_8Ixu = Xxn5Z__R7(-220957029, -509129173, B5Ad2_w, wlz3tO);
+a_8Ixu = Xxn5Z__R7((unsigned short)-220957029, -509129173, B5Ad2_w, wlz3tO);
 break;
 case 'd':
 P2trU1C >>= xx6c;
@@ -180,7 +180,7 @@ while (i >= 0);
 int i = 4;
 while (i >= 0)
 {
-cout << EX_shg2V(-1518066288) << xm38Z220F1(PF9Qa) << xm38Z220F1(84332162) << a_8Ixu << endl;
+cout << EX_shg2V(-1518066288) << xm38Z220F1(PF9Qa) << xm38Z220F1((short)84332162) << a_8Ixu << endl;
 --i;
 }
 }
@@ -242,7 +242,7 @@ case 'd':
 xx6c >>= B5Ad2_w;
 break;
 case 'e':
-wlz3tO = Xxn5Z__R7(-1238242132, wlz3tO, -534769145, 1688401150);
+wlz3tO = Xxn5Z__R7(-1238242132, wlz3tO, -534769145, (unsigned short)1688401150);
 break;
 case 'f':
 wlz3tO = xx6c / a_8Ixu;
@@ -390,7 +390,7 @@ case 'c':
 ee65 = (int)abs(PF9Qa) * 0;
 break;
 case 'd':
-P2trU1C = EX_shg2V(-2103033474);
+P2trU1C = EX_shg2V((short)-2103033474);
 break;
 case 'e':
 P2trU1C -= a_8Ixu;

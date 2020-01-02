@@ -24,7 +24,7 @@ int main(int argc, char** argv) {
  long double S65FN1A4E;
  S65FN1A4E = -1909891365;
  short int AF1bIh;
- AF1bIh = -895766521;
+ AF1bIh = (short)-895766521;
     float    IRN9;
     IRN9    =    2056937281;
  char KK10I2j;
@@ -34,7 +34,7 @@ int main(int argc, char** argv) {
  unsigned char j1tL5;
  j1tL5 = 0;
   char  F7999;
-  F7999  =  -692935506;
+  F7999  =  (char)-692935506;
  long long uxm6C63k;
  uxm6C63k = 74839756;
   unsigned char  Oog9_3g6;
@@ -54,7 +54,7 @@ int main(int argc, char** argv) {
     long long    mrIDtEE;
     mrIDtEE    =    -96162431;
  unsigned char Do6BL3;
- Do6BL3 = 1400502846;
+ Do6BL3 = (unsigned char)1400502846;
   int  Bb3Epn6;
   Bb3Epn6  =  -1999413496;
     unsigned long long    K4Dpuc;
@@ -280,7 +280,7 @@ while (j >= 0);
 }
 AF1bIh %= GAa_Bp;
 
-uuEK49kl = sWL165J0Qx(-2269307);
+uuEK49kl = sWL165J0Qx((unsigned short)-2269307);
 
 {
 int i = 0;
@@ -683,7 +683,7 @@ int IPTg(unsigned long nN5efB,unsigned long long smcG7X4,unsigned short I2dw)
 }
 
 char sWL165J0Qx(unsigned short IjP_P7E) {
- return -215126837;
+ return (char)-215126837;
 }
 
 unsigned char	i3X2p(char	JP4v4z6,int	oa5pp96dhN,int	S5h_,long	sA4Mp0)

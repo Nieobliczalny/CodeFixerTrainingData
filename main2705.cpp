@@ -19,7 +19,7 @@ long c8d_6AI4(unsigned char ddS7,long long V3ulb,unsigned char PbxEcMamz,unsigne
 int main()
 {
     unsigned short    g1RcAIiza    =    -1975063769;
-  unsigned char  pt8x4Pj  =  1725974552;
+  unsigned char  pt8x4Pj  =  (unsigned char)1725974552;
 	unsigned short int	gl1J	=	332585459;
     unsigned long long    JKQ7lh9    =    -317749728;
     long long    ml_Bz2d    =    0;
@@ -36,7 +36,7 @@ int main()
     unsigned long    D9Tew    =    -1994441947;
 	int	iBQ_ehqZjh	=	-1855233807;
 	short int	v5aqug	=	-2132019402;
-	unsigned char	L3doM_C	=	1037350386;
+	unsigned char	L3doM_C	=	(unsigned char)1037350386;
     unsigned long long    D39dJE95    =    1714126098;
     unsigned char    Ua852    =    -1783994013;
     unsigned short int    BZ0ggrz4m    =    -2081034353;
@@ -46,7 +46,7 @@ int main()
   unsigned short  zN9PoSB  =  1983424570;
  unsigned short R18VmfM = -1647064075;
   unsigned short  RToOd  =  -2004428168;
-	unsigned short	fPyP_Fd1	=	-1015053294;
+	unsigned short	fPyP_Fd1	=	(unsigned short)-1015053294;
  unsigned short int ti4mkVm = -62282350;
  unsigned char mFsQ = -1240104930;
 	long long	DIow	=	1661274922;
@@ -66,7 +66,7 @@ int main()
  float c_0Yu3GwjP = 1238954977;
     int    eM2Qmu    =    -1952591187;
   long double  y6D_Mf13U8  =  1792908712;
-	short	fuvX	=	-1148646849;
+	short	fuvX	=	(short)-1148646849;
  long double w1vfU_953 = -759076759;
 	unsigned int	wCp6	=	-145836852;
  unsigned char gHPxm7w8s = 841566505;
@@ -212,7 +212,7 @@ J3ZhhW9x6J = (unsigned long)(fPyP_Fd1);
 CuwN_d = (unsigned short)(T18oE);
 if (wCp6 & f45ktK)
 {
-cout << c8d_6AI4(1216975731, -230039829, l3OwX4, 1941682993) << IS6kp(aJjR5, 179349686, -1322095283, LkMA514K6, -62702168) << "ynDQZt" << l5mLy6ITO() << endl;
+cout << c8d_6AI4(1216975731, -230039829, l3OwX4, 1941682993) << IS6kp(aJjR5, 179349686, -1322095283, LkMA514K6, (unsigned short)-62702168) << "ynDQZt" << l5mLy6ITO() << endl;
 }
 try
 {
@@ -257,7 +257,7 @@ catch (int& errorCode)
 l3OwX4 = IS6kp(l3OwX4, -313628774, LkMA514K6, wCp6, -1559695047);
 }
 MyXpSDn6Si = l5mLy6ITO() / agN8rc(395595773);
-piFMO1JM = agN8rc(2079357598);
+piFMO1JM = agN8rc((unsigned char)2079357598);
 
 AGDC = (unsigned short int)(X5mf);
 if (Z114 & 1076347041)

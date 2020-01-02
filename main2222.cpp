@@ -355,7 +355,7 @@ char	R186u(long long	g1w7Z,unsigned int	p6pP997l,unsigned long long	u4JBuu45u)
 }
 
 unsigned short	OJ_f8()	{
-	return	-2041635644;
+	return	(unsigned short)-2041635644;
 }
 
 unsigned short    w9Ika_sG()

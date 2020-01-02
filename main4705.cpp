@@ -18,7 +18,7 @@ unsigned long long    h_3gEix(unsigned short int    cqX34z,long    HiL852o2)    
 }
 
 short int  OW6Sle93(unsigned char  j8lC9lwLsl)  {
-  return  733551321;
+  return  (short)733551321;
 }
 
 int main(void)
@@ -32,7 +32,7 @@ int main(void)
  double Ko_kdKI = 961039303;
   long long  C8W_3v8320  =  -123624718;
 	unsigned long	F8BVi	=	-132404379;
-  unsigned short int  EfStn7  =  1709148614;
+  unsigned short int  EfStn7  =  (unsigned short)1709148614;
 	short	iM7TLA	=	-1820381793;
 	unsigned short int	iwvS	=	916379270;
     double    C_wKUR96y    =    853911994;
@@ -194,7 +194,7 @@ try
 {
 if (Ko_kdKI != EfStn7)
 {
-iwvS = OW6Sle93(1409600700);
+iwvS = OW6Sle93((unsigned char)1409600700);
 }
 else
 {

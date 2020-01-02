@@ -397,7 +397,7 @@ case 2:
 QMeGTp = nvv_h2IVg_(K1nXU, -166766520, A_n7Z7) / y0vRFNBhDQ;
 break;
 case 3:
-aM0oVUp = nvv_h2IVg_(aM0oVUp, -605617410, 2080689716);
+aM0oVUp = nvv_h2IVg_(aM0oVUp, (unsigned short)-605617410, 2080689716);
 break;
 case 4:
 QMeGTp = S5K0(QMeGTp);
@@ -479,7 +479,7 @@ ymJRaY6ssg = S5K0(-1940139516);
 }
 else if (aR4g == rtLmZq)
 {
-GilI7x = S5K0(-812404069) << 1724124423;
+GilI7x = S5K0((short)-812404069) << 1724124423;
 }
 else
 {
@@ -622,7 +622,7 @@ long	Utx7x()	{
 
 unsigned short    nvv_h2IVg_(unsigned int    AhLBEO0fg,unsigned short int    p1Q0,unsigned long    oAI92kA50)
 {
-    return    837128339;
+    return    (unsigned short)837128339;
 }
 
 int  S5K0(short  I2e7185)  {

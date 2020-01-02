@@ -27,7 +27,7 @@ int main()
 	short int	v8kl;
 	v8kl	=	-1636164591;
     short    L8xX4kKM_;
-    L8xX4kKM_    =    209146578;
+    L8xX4kKM_    =    (short)209146578;
 	short	VtYOIsd_;
 	VtYOIsd_	=	-2034941721;
     char    C7oQqS7YE;
@@ -109,7 +109,7 @@ Sek_ba7iM = v8kl + s5dw;
 }
 try
 {
-v8kl = ApLF2M0(CsQh0q8, -331924677, -1766261480);
+v8kl = ApLF2M0(CsQh0q8, -331924677, (unsigned short)-1766261480);
 }
 catch (int& errorCode)
 {
@@ -129,7 +129,7 @@ long long  e__isYbbJ(char  tE8Cek45,unsigned short int  hD0BK_5GO,unsigned short
 }
 
 char ApLF2M0(unsigned short F__MnXy,unsigned short int Le76,unsigned short int PU_RX4iTn) {
- return -1143819029;
+ return (char)-1143819029;
 }
 
 unsigned char  K47RBH1g0(short int  IKw4n9,unsigned int  qk9e,short int  ALWV)  {

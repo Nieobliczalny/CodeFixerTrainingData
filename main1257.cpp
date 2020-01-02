@@ -142,7 +142,7 @@ if (aT5csnEN == elY5NrmPl)
 switch (p_21)
 {
 case 0:
-TbP5LdM5Uq = z26C(AR2278sL, elY5NrmPl, 1732867044);
+TbP5LdM5Uq = z26C(AR2278sL, elY5NrmPl, (short)1732867044);
 break;
 case 1:
 b8u_e_0c7 = G8m81 - Oa4lM2rMm;

@@ -22,7 +22,7 @@ long    fGM45SXT(unsigned short    Gj_9,long    RZAiIy8OM_)
 }
 
 unsigned char	tH9cf9D_(unsigned short int	Q_m8G8,long long	N7x07pkzp8,unsigned short int	Iqx7Pjj)	{
-	return	-712968805;
+	return	(unsigned char)-712968805;
 }
 
 int main()
@@ -34,7 +34,7 @@ int main()
  int TvXX;
  TvXX = 1675084870;
 	unsigned short int	f354NDUeB;
-	f354NDUeB	=	1683360902;
+	f354NDUeB	=	(unsigned short)1683360902;
     double    Rz3i_6K683;
     Rz3i_6K683    =    274989971;
     unsigned short    sCXW;
@@ -46,7 +46,7 @@ int main()
     unsigned long long    XBa4V;
     XBa4V    =    -822335772;
 	short int	a0M38D;
-	a0M38D	=	345534527;
+	a0M38D	=	(short)345534527;
 	unsigned short int	GJn7r;
 	GJn7r	=	1436756076;
  float L2dRp2d;
@@ -58,7 +58,7 @@ int main()
     double    ao8faHRj;
     ao8faHRj    =    492917212;
   short  aAoi1TI11g;
-  aAoi1TI11g  =  -204780144;
+  aAoi1TI11g  =  (short)-204780144;
   unsigned short  i6ts;
   i6ts  =  0;
  long long Y0m7d9e;
@@ -72,7 +72,7 @@ int main()
 	long	tqZkX;
 	tqZkX	=	625715226;
   char  CUb4k199N;
-  CUb4k199N  =  767131837;
+  CUb4k199N  =  (char)767131837;
     long    m4s52;
     m4s52    =    1121961631;
   unsigned short int  PUJIP6Rs;
@@ -273,7 +273,7 @@ int i = 0;
 do
 {
 ++i;
-std::cout << Sd2g1K0ZEj << I_qk64D5(-48797386, -91937163, 400778251, BjQ8VU3, Rz3i_6K683) << I_qk64D5(axlW8, -1720690982, -278262210, BjQ8VU3, Rz3i_6K683) << At51_Z(axlW8) << CUb4k199N << std::endl;
+std::cout << Sd2g1K0ZEj << I_qk64D5(-48797386, -91937163, 400778251, BjQ8VU3, Rz3i_6K683) << I_qk64D5(axlW8, (short)-1720690982, -278262210, BjQ8VU3, Rz3i_6K683) << At51_Z(axlW8) << CUb4k199N << std::endl;
 }
 while (i < 6);
 }
@@ -358,7 +358,7 @@ m4s52 = tH9cf9D_(m4s52, -692493171, 1510600122);
 }
 else if ((s2ya5n < YsL_) && (tqZkX > 979066115))
 {
-GJn7r = I_qk64D5(GJn7r, 1784953990, q3xQ8Tc6_, i6ts, 403702967);
+GJn7r = I_qk64D5(GJn7r, (short)1784953990, q3xQ8Tc6_, i6ts, 403702967);
 }
 else if (BjQ8VU3 >= 33138887)
 {

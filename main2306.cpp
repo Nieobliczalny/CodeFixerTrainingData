@@ -13,7 +13,7 @@ short    KjTVc(unsigned int    VXZi8C_,short int    RO_Qb,unsigned short int    
 }
 
 unsigned char    VV9TJiCBYd()    {
-    return    2019678669;
+    return    (unsigned char)2019678669;
 }
 
 unsigned long long  TDG6()  {
@@ -42,7 +42,7 @@ int main(int argc, char** argv)
  short int n4KCSS;
  n4KCSS = 674841368;
   unsigned short int  PSsibX;
-  PSsibX  =  275702956;
+  PSsibX  =  (unsigned short)275702956;
   char  qna0vN_;
   qna0vN_  =  1077922049;
     long long    xi_0;
@@ -54,7 +54,7 @@ int main(int argc, char** argv)
 	short	rqj76x;
 	rqj76x	=	0;
  unsigned char pur2BNOov;
- pur2BNOov = -1025339008;
+ pur2BNOov = (unsigned char)-1025339008;
 	short	ya89D0D;
 	ya89D0D	=	-1294701566;
     long    nhEo30N;
@@ -99,7 +99,7 @@ i--;
 
 if (PSsibX <= -1548750342)
 {
-cout << "fm0tR" << KjTVc(pur2BNOov, 1706047136, O7XDdNy, 690931589, n4KCSS) << TDG6() << xi_0 << endl;
+cout << "fm0tR" << KjTVc(pur2BNOov, 1706047136, O7XDdNy, (unsigned char)690931589, n4KCSS) << TDG6() << xi_0 << endl;
 }
 else
 {
@@ -156,7 +156,7 @@ cRu4_3Y6rM &= PSsibX;
 }
 else
 {
-qna0vN_ = KjTVc(-583839723, UgeM, fFtCAu, -822853229, -73075941);
+qna0vN_ = KjTVc(-583839723, UgeM, fFtCAu, -822853229, (short)-73075941);
 }
 }
 else if (O7XDdNy)
@@ -193,7 +193,7 @@ int i = 2;
 while (i >= 0)
 {
 --i;
-x9Von3mb8 = XoJ3(692714976, pur2BNOov, 168567837, mLS9TviJT8);
+x9Von3mb8 = XoJ3(692714976, pur2BNOov, (unsigned short)168567837, mLS9TviJT8);
 }
 }
 
@@ -215,7 +215,7 @@ case 'b':
 UgeM = (int)floor(Q4j_78ZFJH);
 break;
 case 'c':
-mLS9TviJT8 = XoJ3(O7XDdNy, -1017462624, -74661877, 1581450305) / UgeM;
+mLS9TviJT8 = XoJ3(O7XDdNy, -1017462624, (unsigned short)-74661877, 1581450305) / UgeM;
 break;
 case 'd':
 cRu4_3Y6rM--;
@@ -267,7 +267,7 @@ i++;
 switch (xi_0)
 {
 case 0:
-fFtCAu = XoJ3(2129880245, 1559520353, -727177592, fFtCAu);
+fFtCAu = XoJ3(2129880245, 1559520353, (unsigned short)-727177592, fFtCAu);
 break;
 case 1:
 UgeM = (int)floor(Q4j_78ZFJH);
@@ -303,7 +303,7 @@ cout << "CyNaU_0_8" << VV9TJiCBYd() << "Y54TW36_" << endl;
 }
 if (fFtCAu >= FH6J_)
 {
-n4KCSS = KjTVc(PSsibX, -660225085, -441848579, FH6J_, 1154685608) & 1180321882;
+n4KCSS = KjTVc(PSsibX, -660225085, (unsigned short)-441848579, FH6J_, 1154685608) & 1180321882;
 }
 
 return 0;

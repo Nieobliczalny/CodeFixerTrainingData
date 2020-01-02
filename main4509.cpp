@@ -38,7 +38,7 @@ RzewlR = UbFl_3112K(RzewlR, -604242810, aB0V136S, Z4xo, ZBcRyM);
 break;
 case 'c':
 case 'C':
-lH8_p72 = IGlssT(-1139702994);
+lH8_p72 = IGlssT((short)-1139702994);
 break;
 case 'd':
 case 'D':

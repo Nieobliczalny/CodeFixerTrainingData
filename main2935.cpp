@@ -26,7 +26,7 @@ int main(int argc, char** argv)
 	unsigned long	Q6hdW10e1;
 	Q6hdW10e1	=	-228113533;
   short  bpJ9yBD;
-  bpJ9yBD  =  -592803843;
+  bpJ9yBD  =  (short)-592803843;
     unsigned char    ml_V;
     ml_V    =    0;
   unsigned short  kn41;
@@ -36,7 +36,7 @@ int main(int argc, char** argv)
 	long	e097j7jFI;
 	e097j7jFI	=	617418058;
  unsigned short int z5oCi;
- z5oCi = -673731448;
+ z5oCi = (unsigned short)-673731448;
 
 bpJ9yBD = G2FA2(bpJ9yBD, kn41, Q6hdW10e1);
 wZh9D1E = (short)(LAxpr0s5J);
@@ -117,7 +117,7 @@ case 'b':
 bpJ9yBD = G2FA2(ml_V, LAxpr0s5J, 1326761898);
 break;
 case 'c':
-p_qdkwe = G2FA2(-732040642, -1164550019, wZh9D1E);
+p_qdkwe = G2FA2((short)-732040642, -1164550019, wZh9D1E);
 break;
 case 'd':
 kn41 = wZh9D1E % 2133871409;

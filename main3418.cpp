@@ -181,7 +181,7 @@ ztL59 = hH7mA_PC(-42263549);
 }
 else
 {
-yc5e6ii = hH7mA_PC(1215660307);
+yc5e6ii = hH7mA_PC((short)1215660307);
 }
 }
 

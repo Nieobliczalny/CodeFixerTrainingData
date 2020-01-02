@@ -70,7 +70,7 @@ case 0:
 arLvrbAa = oYq_zo3d(arLvrbAa, 954541365, 893055031, JS_Z8C);
 break;
 case 1:
-MuI6OP2arH = oYq_zo3d(1192884489, IdVTxt3fz, -233611859, -1733691727);
+MuI6OP2arH = oYq_zo3d(1192884489, IdVTxt3fz, -233611859, (char)-1733691727);
 break;
 case 2:
 peo2xve_r9 = N6uBEJ(2144174540, 1340802765, MyFIXH0, I5N_32, i11_Od2);
@@ -203,6 +203,6 @@ unsigned short    N6uBEJ(int    qOcB,long    y36B,unsigned long    vLp8,unsigned
 
 unsigned short	TxnbxXLemq(unsigned long long	vrj60dG)
 {
-	return	1184019194;
+	return	(unsigned short)1184019194;
 }
 

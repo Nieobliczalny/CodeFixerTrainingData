@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
     unsigned long    quZ1,    GMG_iwi71;
         quZ1    =    GMG_iwi71    =    0;
 	unsigned short	WJgB6,	cdKTISLQ,	m_O3_,	r_OPoGhk,	hm9yUQE0,	c7QSFm,	IjppK,	hz_YLrw,	M3Mc9,	uuvNFR8284,	Hi0jMCzZB,	khU3,	EIj_qXY,	x7s_0kR8;
-		WJgB6	=	cdKTISLQ	=	m_O3_	=	r_OPoGhk	=	hm9yUQE0	=	c7QSFm	=	IjppK	=	hz_YLrw	=	M3Mc9	=	uuvNFR8284	=	Hi0jMCzZB	=	khU3	=	EIj_qXY	=	x7s_0kR8	=	-1191288861;
+		WJgB6	=	cdKTISLQ	=	m_O3_	=	r_OPoGhk	=	hm9yUQE0	=	c7QSFm	=	IjppK	=	hz_YLrw	=	M3Mc9	=	uuvNFR8284	=	Hi0jMCzZB	=	khU3	=	EIj_qXY	=	x7s_0kR8	=	(unsigned short)-1191288861;
 
 if (khU3 & quZ1)
 {

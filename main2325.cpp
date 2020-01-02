@@ -32,7 +32,7 @@ unsigned char  TUV78(long  DebN,char  vzVu,long long  k5sq9Qq8_,unsigned int  Du
 }
 
 unsigned short  BAHuP5RA(long long  Eldk6lW,unsigned int  Kd2BQygm,char  cWWru6)  {
-  return  164724613;
+  return  (unsigned short)164724613;
 }
 
 int main(int argc, char** argv)

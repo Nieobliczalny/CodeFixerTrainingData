@@ -23,7 +23,7 @@ int  Z_iZOp(unsigned long long  EKsy6w_Y5b,long  rXwi34)
 }
 
 short    Eqau9XD9U8(int    tDj19J)    {
-    return    539199394;
+    return    (short)539199394;
 }
 
 short R59L(int J7ZXGtF,unsigned char sSPd,unsigned short int aw34xd2x,char yjX804io1)
@@ -33,7 +33,7 @@ short R59L(int J7ZXGtF,unsigned char sSPd,unsigned short int aw34xd2x,char yjX80
 
 int main(void)
 {
- short sNor6v = 28842164;
+ short sNor6v = (short)28842164;
     long    i99_    =    1046611258;
     int    d_G2f8    =    -311143818;
 	double	MTN1l	=	1458197177;
@@ -44,7 +44,7 @@ int main(void)
 	float	C7UPb9v2sL	=	665235467;
  unsigned short int vM4wM3ki = -193021849;
   long  il76d2Kq84  =  -1725772995;
-    short    F6HPR    =    -999391704;
+    short    F6HPR    =    (short)-999391704;
  long long zjYu = -404798630;
  unsigned char yVwD380 = 1946932615;
     unsigned char    ZpAy5eD    =    -1574732420;
@@ -57,7 +57,7 @@ int main(void)
   unsigned short int  bj_IxH  =  0;
  unsigned long VPa88cJ = -286830646;
     short    AwctGT7y0A    =    -444036791;
-  unsigned short int  xdWYUr9S  =  -400697832;
+  unsigned short int  xdWYUr9S  =  (unsigned short)-400697832;
  unsigned short int fX4Ir = 0;
 	short	upeh	=	1577878633;
     unsigned long    I1ri0I0    =    299300498;
@@ -78,7 +78,7 @@ int main(void)
 	int	JHR989	=	-624905292;
 	long long	V096d9It	=	1267151007;
 	float	XV4H_s5j7	=	221863176;
-  short int  VEJeJ  =  791402545;
+  short int  VEJeJ  =  (short)791402545;
     int    lKzE5D9B    =    -2121130429;
     unsigned int    y9qFlc918f    =    1028641744;
 	unsigned long long	dY7G2	=	526339356;
@@ -94,7 +94,7 @@ else
 int j = 7;
 while (j >= 0)
 {
-cout << d_G2f8 << R59L(691225802, -1240909610, 1451375282, 1827227742) << JHR989 << endl;
+cout << d_G2f8 << R59L(691225802, -1240909610, (unsigned short)1451375282, 1827227742) << JHR989 << endl;
 j--;
 }
 }

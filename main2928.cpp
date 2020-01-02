@@ -21,7 +21,7 @@ int main(void) {
     nmkkma    =    0;
   short  AM2o,  t9O_OH;
   AM2o  =  -375129456;
-  t9O_OH  =  -12010482;
+  t9O_OH  =  (short)-12010482;
 
 if (Vkv0 > -1347929313)
 {

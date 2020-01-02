@@ -234,7 +234,7 @@ case 1:
 dDA29eN = MG_l01Jw(-2070748467) << G1Wu_5td;
 break;
 case 2:
-g_Cd8 = MG_l01Jw(-774396527);
+g_Cd8 = MG_l01Jw((unsigned char)-774396527);
 break;
 case 3:
 wLt9p_p03 += 1023506329;
@@ -249,7 +249,7 @@ case 6:
 GX02wbIrQ = MG_l01Jw(1661097179);
 break;
 case 7:
-GX02wbIrQ = MG_l01Jw(-552481928);
+GX02wbIrQ = MG_l01Jw((unsigned char)-552481928);
 break;
 case 8:
 L5CPAq = L5CPAq & 1208384514;
@@ -357,7 +357,7 @@ case 5:
 GX02wbIrQ = MG_l01Jw(1462622026);
 break;
 case 6:
-k863C0ci_g = MG_l01Jw(-1892664557);
+k863C0ci_g = MG_l01Jw((unsigned char)-1892664557);
 break;
 case 7:
 gfB7P5 ^= 576215486;
@@ -378,7 +378,7 @@ case 2:
 YwtaE--;
 break;
 case 3:
-pRAOlU8 = MG_l01Jw(158943249);
+pRAOlU8 = MG_l01Jw((unsigned char)158943249);
 break;
 case 4:
 g_Cd8 = MG_l01Jw(201050253);
@@ -442,7 +442,7 @@ case 'c':
 X0O_qzP9 = MG_l01Jw(-582914045);
 break;
 case 'd':
-GX02wbIrQ = MG_l01Jw(1750164229);
+GX02wbIrQ = MG_l01Jw((unsigned char)1750164229);
 break;
 case 'e':
 GX02wbIrQ = MG_l01Jw(1348920488);

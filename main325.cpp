@@ -123,7 +123,7 @@ CfNFG = (int)(OkO4qKq7);
 }
 else if (SviQdhT3_F <= X_R2_5pA)
 {
-d7SeNP = VS6OA_09VU(254399539, 2134706283);
+d7SeNP = VS6OA_09VU(254399539, (char)2134706283);
 }
 else if (Dy1v03b9)
 {
@@ -307,7 +307,7 @@ WK5eHJf = BO_No3PW();
 break;
 case 'i':
 case 'I':
-d7SeNP = VS6OA_09VU(-1154736834, 1353228975);
+d7SeNP = VS6OA_09VU(-1154736834, (char)1353228975);
 break;
 case 'j':
 case 'J':

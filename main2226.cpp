@@ -22,7 +22,7 @@ int main(int argc, char** argv)
   unsigned long long  ds_9HyKb;
   ds_9HyKb  =  1482783176;
   short int  VJGKMo5;
-  VJGKMo5  =  958529293;
+  VJGKMo5  =  (short)958529293;
   unsigned long long  Yv1d1TY9cF;
   Yv1d1TY9cF  =  -972654062;
  short vg0R7;
@@ -32,7 +32,7 @@ int main(int argc, char** argv)
   unsigned long long  RUrI3z;
   RUrI3z  =  645095802;
 	unsigned char	I775;
-	I775	=	-981225166;
+	I775	=	(unsigned char)-981225166;
 	long double	yjzw;
 	yjzw	=	1072311125;
 	short int	jf8F;
@@ -58,7 +58,7 @@ int main(int argc, char** argv)
   unsigned long  ue4Exig;
   ue4Exig  =  -1844965947;
  short PZun0i;
- PZun0i = 1086251156;
+ PZun0i = (short)1086251156;
  short v_1X8;
  v_1X8 = -1207281415;
  float VNjLpJh3y1;
@@ -80,7 +80,7 @@ int main(int argc, char** argv)
  long long irpxhWS;
  irpxhWS = 331453688;
   unsigned short  jt69M9p44Y;
-  jt69M9p44Y  =  -302597529;
+  jt69M9p44Y  =  (unsigned short)-302597529;
  short B_C6a_a;
  B_C6a_a = 624127270;
  long jH8B2p6Q;
@@ -102,7 +102,7 @@ int main(int argc, char** argv)
 	long long	CUwudY;
 	CUwudY	=	1967016992;
   char  hm_K55ce5w;
-  hm_K55ce5w  =  622226407;
+  hm_K55ce5w  =  (char)622226407;
   char  sE5Ft501;
   sE5Ft501  =  1648438696;
     unsigned int    J95BA9C_n;
@@ -122,7 +122,7 @@ int main(int argc, char** argv)
 	float	XP26S9;
 	XP26S9	=	-1647931934;
     unsigned short    lg02G;
-    lg02G    =    1026967648;
+    lg02G    =    (unsigned short)1026967648;
 	unsigned short	UJ08IJ;
 	UJ08IJ	=	1771760026;
 
@@ -344,7 +344,7 @@ CUwudY = AnmQP_7Vcb(-143566540, umqx3f59m);
 }
 else
 {
-std::cout << sE5Ft501 << IR1JNRM(1132135555) << "j0_5" << AnmQP_7Vcb(CUwudY, 718962573) << std::endl;
+std::cout << sE5Ft501 << IR1JNRM((unsigned short)1132135555) << "j0_5" << AnmQP_7Vcb(CUwudY, 718962573) << std::endl;
 }
 Y2aaHC3H77 ^= 1922692719;
 return 0;

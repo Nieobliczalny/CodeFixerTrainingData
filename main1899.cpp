@@ -13,7 +13,7 @@ unsigned short    OJc0kyL(short    tAep,unsigned short int    pI4yj3t0,char    Z
 }
 
 short  GoU9b2d3V(unsigned short  ku23,int  WMmjezT8y,short int  IkW57,unsigned char  KlFk)  {
-  return  1304809204;
+  return  (short)1304809204;
 }
 
 long  xbexion6(int  YgwF2M78n,long long  OgObSrp93a,long long  cjlwH1,long  PK5tpCR6h)
@@ -123,7 +123,7 @@ int main(int argc, char** argv)
 zNyYKj8 /= XgU7nh;
 
 OkBw = (int)ceil(N1571);
-std::cout << "evSH" << NY_W9T(311461887, Cagz_mA2dR, o6s9MH) << "y2B4O6vNQ" << OJc0kyL(-1512022326, 1771560995, -2034009045, fjc0b, 1658647835) << std::endl;
+std::cout << "evSH" << NY_W9T(311461887, Cagz_mA2dR, o6s9MH) << "y2B4O6vNQ" << OJc0kyL(-1512022326, (unsigned short)1771560995, -2034009045, fjc0b, 1658647835) << std::endl;
 switch (WNrm)
 {
 case 0:
@@ -164,7 +164,7 @@ case 2:
 N_5NDpA6_Q /= 314111053;
 break;
 case 3:
-RHvgC = GoU9b2d3V(302930518, HX64w25Tp, 597099360, -1133684554);
+RHvgC = GoU9b2d3V(302930518, HX64w25Tp, (short)597099360, -1133684554);
 break;
 case 4:
 g2ViAHgE = (int)abs(L3Fjjg);
@@ -176,7 +176,7 @@ case 6:
 FayRoYc = GoU9b2d3V(-1583225692, rx59, o6s9MH, 719824027);
 break;
 default:
-L3Fjjg = OJc0kyL(L3Fjjg, 1663741788, -1808300477, unLQDOB4bv, n_l0);
+L3Fjjg = OJc0kyL(L3Fjjg, 1663741788, (char)-1808300477, unLQDOB4bv, n_l0);
 break;
 }
 {
@@ -310,7 +310,7 @@ else if (Dk1kDQt)
 int j = 0;
 while (j < 2)
 {
-std::cout << GoU9b2d3V(x_8_XD, IW8Quy07, 1751186219, -766301977) << "j62RORY9cO" << "Dv61dh3zo5" << k766 << std::endl;
+std::cout << GoU9b2d3V(x_8_XD, IW8Quy07, 1751186219, (unsigned char)-766301977) << "j62RORY9cO" << "Dv61dh3zo5" << k766 << std::endl;
 j++;
 }
 }
@@ -348,7 +348,7 @@ M828rI3 = (int)ceil(DHlF4ddox);
 }
 else if (drNp6 < 1314224289)
 {
-E13_YN56_ = OJc0kyL(E13_YN56_, B7Cuc, 1377479342, YB9nJ_6, 963525420);
+E13_YN56_ = OJc0kyL(E13_YN56_, B7Cuc, 1377479342, YB9nJ_6, (char)963525420);
 }
 else if (ORv_ > L3Fjjg)
 {
@@ -392,7 +392,7 @@ if (((rl6EQ2 != y7Lk3h_1S) && (XgU7nh <= 1863671462)) || (WNrm & -353598124))
 {
 if (((Esv6 < 59264811) && (MAh19hB1K <= -2035945005)) || (f9l6525Wh >= aT8__X1BWd))
 {
-DHlF4ddox = GoU9b2d3V(-1898259973, iG28cK3k, 672503184, N_5NDpA6_Q);
+DHlF4ddox = GoU9b2d3V(-1898259973, iG28cK3k, (short)672503184, N_5NDpA6_Q);
 }
 else if (M828rI3 != 1293204817)
 {

@@ -13,7 +13,7 @@ unsigned char  eu6t3()  {
 }
 
 int main() {
- short int E18U4yoK = 553900226, Vf2_cHqj2 = -991787115, Zytr6V = -1430942827, S9R_7 = 1919405770, a4ctu4 = -1839764545;
+ short int E18U4yoK = 553900226, Vf2_cHqj2 = (short)-991787115, Zytr6V = -1430942827, S9R_7 = 1919405770, a4ctu4 = -1839764545;
   long long  FwEs  =  0;
 
 S9R_7 = eu6t3() / Vf2_cHqj2;

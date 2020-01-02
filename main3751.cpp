@@ -26,7 +26,7 @@ unsigned long  lVe1C(long long  XDt4xPJ,long long  vDc1WV1,unsigned short int  R
 
 int main(void) {
 	unsigned short	eeWHS	=	-1163398295;
- short int gR3L2wFzE5 = 939157247;
+ short int gR3L2wFzE5 = (short)939157247;
  unsigned char Tv34O_sxy = -1089763186;
 	long long	LQtHtu8	=	-296247214;
   short int  S1v2a0A  =  998646598;
@@ -82,7 +82,7 @@ while (i < 5)
 switch (LQtHtu8)
 {
 case 0:
-H2__N2U = KJ6c(-1044435354, -68930872, -2145247296);
+H2__N2U = KJ6c((unsigned short)-1044435354, -68930872, -2145247296);
 break;
 case 1:
 Uj682v = Uj682v << 1564410314;
@@ -94,7 +94,7 @@ case 3:
 AP_77 = lVe1C(-2024845906, -1902302410, 332127429, 525052959);
 break;
 case 4:
-RdLMf_ = lVe1C(RdLMf_, LQtHtu8, -299953802, 2005530928);
+RdLMf_ = lVe1C(RdLMf_, LQtHtu8, (unsigned short)-299953802, 2005530928);
 break;
 case 5:
 XTm0MK6o84 = Ksv_aqlr49();
@@ -197,7 +197,7 @@ L2UD = (unsigned long long)(H2__N2U);
 
 if ((Uj682v >= 414139162) || (AP_77 > RdLMf_))
 {
-A048_8mT = lVe1C(A048_8mT, AP_77, -988969963, -55120025);
+A048_8mT = lVe1C(A048_8mT, AP_77, -988969963, (short)-55120025);
 }
 else if (OG2C7LR_92)
 {
@@ -275,7 +275,7 @@ if (XTm0MK6o84)
 {
 if (LQtHtu8 == uK_aAC0r)
 {
-std::cout << "U9_cf2C" << lVe1C(A048_8mT, -1864625460, -772650192, -1637483195) << "UMc6x6_" << std::endl;
+std::cout << "U9_cf2C" << lVe1C(A048_8mT, -1864625460, -772650192, (short)-1637483195) << "UMc6x6_" << std::endl;
 }
 else
 {

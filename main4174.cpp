@@ -126,7 +126,7 @@ FMWuQrD2 = Ol2W90z_K(FMWuQrD2, 885719559, A7O6G62_81, 2136316091, U049g20);
 }
 else if (sID3ztGy <= 2134531687)
 {
-Ef3RJQlOa = Ol2W90z_K(-657895230, 405971157, -103745824, vOSc9s, -1949879645);
+Ef3RJQlOa = Ol2W90z_K((char)-657895230, 405971157, -103745824, vOSc9s, -1949879645);
 }
 else if (((grtFqj9dJ7 & 2060636750) || (sID3ztGy < voq8HY8)) || (grtFqj9dJ7 > D65sYRXdp7))
 {
@@ -144,7 +144,7 @@ Qa42oba = fNTBzr7f(-1391379515);
 }
 else
 {
-cout << fNTBzr7f(884733336) << fNTBzr7f(2125024283) << Ol2W90z_K(A2x_sI09wb, voq8HY8, rVmok2c, -2055950152, R7D23) << "pQ_i" << Ol2W90z_K(1221825150, 409076794, rVmok2c, Qa42oba, -1801348694) << endl;
+cout << fNTBzr7f(884733336) << fNTBzr7f(2125024283) << Ol2W90z_K(A2x_sI09wb, voq8HY8, rVmok2c, -2055950152, R7D23) << "pQ_i" << Ol2W90z_K((char)1221825150, 409076794, rVmok2c, Qa42oba, -1801348694) << endl;
 }
 Qa42oba = fNTBzr7f(489419199);
 if ((Qa42oba >= 837409461) || ((VNBl308g & -1439961572) || (Jh84_E18 & -1002417274)))
@@ -363,7 +363,7 @@ case 5:
 Mva2uuR ^= 469365473;
 break;
 case 6:
-rVmok2c = Ol2W90z_K(1953667263, 1647092946, -1345047257, -2052038914, 496109627);
+rVmok2c = Ol2W90z_K(1953667263, 1647092946, -1345047257, (unsigned short)-2052038914, 496109627);
 break;
 case 7:
 M6FyN = Ol2W90z_K(-904703899, pezbjbc0, rVmok2c, lYUdLz, FMWuQrD2);
@@ -437,7 +437,7 @@ case 0:
 WbPk_pR_ = Ol2W90z_K(WbPk_pR_, 1264373593, -781673165, 2068463184, pezbjbc0);
 break;
 case 1:
-d0E4 = Ol2W90z_K(WbPk_pR_, 1143256146, WI5AK6z1C, 1335199501, 84619762) >> BkD9Pw7j1;
+d0E4 = Ol2W90z_K(WbPk_pR_, 1143256146, WI5AK6z1C, (unsigned short)1335199501, 84619762) >> BkD9Pw7j1;
 break;
 case 2:
 A2x_sI09wb = Ol2W90z_K(-1113914648, -1761172034, wwSv, eNkrjIN3A, 502200258);
@@ -455,7 +455,7 @@ case 6:
 sID3ztGy = fNTBzr7f(-501699428);
 break;
 case 7:
-ole5iZ = Ol2W90z_K(36204067, 1216023640, xXyU67tU, 738539685, 35112027);
+ole5iZ = Ol2W90z_K(36204067, 1216023640, xXyU67tU, (unsigned short)738539685, 35112027);
 break;
 case 8:
 Mva2uuR /= cEsIMM6;
@@ -528,7 +528,7 @@ return 0;
 }
 
 char	Ol2W90z_K(char	i35k6TGYx,unsigned int	v2sv,unsigned long	XJ85_jPJdJ,unsigned short	ZkZ8497M_K,int	Q1Su)	{
-	return	-1916860627;
+	return	(char)-1916860627;
 }
 
 long	fNTBzr7f(int	r5HV4)

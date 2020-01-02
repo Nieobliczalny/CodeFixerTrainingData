@@ -19,7 +19,7 @@ int	URcaG681(long long	ZXvfdk,unsigned long	HrTocx4bG,long long	iQ6a8_vxR_,unsig
 
 int main(int argc, char** argv) {
  short int Nn80;
- Nn80 = -358550076;
+ Nn80 = (short)-358550076;
     unsigned long    SI21;
     SI21    =    -1619172353;
     int    F9WI2;
@@ -29,7 +29,7 @@ int main(int argc, char** argv) {
     unsigned char    P1BjY9;
     P1BjY9    =    -2020018605;
   short  OEr0p1Tfg;
-  OEr0p1Tfg  =  578414035;
+  OEr0p1Tfg  =  (short)578414035;
   float  CeS1;
   CeS1  =  -1477334764;
  unsigned long sH8KT;
@@ -45,7 +45,7 @@ int main(int argc, char** argv) {
     int    xt_Gb640xQ;
     xt_Gb640xQ    =    1847335094;
  unsigned short F0vaNUh;
- F0vaNUh = -655902822;
+ F0vaNUh = (unsigned short)-655902822;
 	long double	nbjXVL;
 	nbjXVL	=	-1868667822;
   char  QL4_k;
@@ -68,7 +68,7 @@ case 'a':
 ng3mkN = (int)abs(e8Eq4);
 break;
 case 'b':
-lo9L = URcaG681(581065377, -381879499, 1628853212, 1459476918, 373925519);
+lo9L = URcaG681(581065377, -381879499, 1628853212, 1459476918, (short)373925519);
 break;
 case 'c':
 bb8DZ0ap = (int)ceil(nbjXVL);
@@ -128,7 +128,7 @@ lo9L = URcaG681(1459426180, 1750150167, ng3mkN, 1874869039, CeS1);
 break;
 }
 
-lo9L = URcaG681(-275472082, 1381888752, sH8KT, QL4_k, 400900786);
+lo9L = URcaG681(-275472082, 1381888752, sH8KT, QL4_k, (short)400900786);
 if (lo9L == 0)
 {
 	QL4_k = ng3mkN / lo9L;
@@ -149,7 +149,7 @@ bb8DZ0ap = (int)floor(nbjXVL);
 }
 }
 
-std::cout << "cz_H1496r" << QL4_k << URcaG681(ng3mkN, 468190665, 587438204, -1320295689, 949269885) << "qka488" << "VU77kTQ" << std::endl;
+std::cout << "cz_H1496r" << QL4_k << URcaG681(ng3mkN, 468190665, 587438204, -1320295689, (short)949269885) << "qka488" << "VU77kTQ" << std::endl;
 try
 {
 ng3mkN = (int)abs(lo9L) + (1355394579);
@@ -173,7 +173,7 @@ else if (HF6DDth4U == -1709991766)
 {
 for (int k = 3; k >= 0; --k)
 {
-lo9L = URcaG681(F9WI2, -1007142971, -1557978678, -2145077997, 802718580);
+lo9L = URcaG681(F9WI2, -1007142971, -1557978678, -2145077997, (short)802718580);
 }
 }
 else if ((lo9L & ng3mkN) && ((HF6DDth4U <= -40778280) && (b09QNJ8rwU)))
@@ -197,7 +197,7 @@ catch (int& errorCode)
 nbjXVL = (int)floor(CeS1);
 }
 
-P1BjY9 = URcaG681(-2134863277, 1565317997, 248735012, -841746391, -59782239) - 2014570110;
+P1BjY9 = URcaG681(-2134863277, 1565317997, 248735012, -841746391, (short)-59782239) - 2014570110;
 
 F9WI2 = (int)abs(nbjXVL);
 lo9L = URcaG681(-2144330900, Nn80, -1159199197, CeS1, -1966699688);

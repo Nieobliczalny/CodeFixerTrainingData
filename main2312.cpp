@@ -25,7 +25,7 @@ int main()
   unsigned short int  or0_U;
   or0_U  =  1980747134;
     unsigned short int    Es0fx2_g5;
-    Es0fx2_g5    =    -1900712002;
+    Es0fx2_g5    =    (unsigned short)-1900712002;
  long CuHiiY2I6A;
  CuHiiY2I6A = 1691160628;
     unsigned long long    SYPA3FoeN;
@@ -39,7 +39,7 @@ int main()
  int NZf9_Z_m9Y;
  NZf9_Z_m9Y = 334156217;
   unsigned short  v43YE;
-  v43YE  =  -1217482185;
+  v43YE  =  (unsigned short)-1217482185;
  unsigned short kAz2;
  kAz2 = -1762263954;
     unsigned short    hP8O1;
@@ -51,7 +51,7 @@ int main()
  unsigned long UrO5_aw9;
  UrO5_aw9 = 91637009;
     short int    XyBSPFQ4ep;
-    XyBSPFQ4ep    =    1988309951;
+    XyBSPFQ4ep    =    (short)1988309951;
   unsigned short  xv8P8Z;
   xv8P8Z  =  937555080;
     float    dG_7;
@@ -65,7 +65,7 @@ int main()
  char Pe45Ox5;
  Pe45Ox5 = 915401475;
     short    D1szNY0yq;
-    D1szNY0yq    =    -1671278808;
+    D1szNY0yq    =    (short)-1671278808;
   unsigned int  Xi76;
   Xi76  =  975599873;
 	unsigned char	F6yG;
@@ -79,7 +79,7 @@ int main()
  long long Z7z8;
  Z7z8 = -785408853;
   short int  KhZO1J_n;
-  KhZO1J_n  =  -913377770;
+  KhZO1J_n  =  (short)-913377770;
     long long    Hi8S_xbJv;
     Hi8S_xbJv    =    1753826370;
  char F4nOScSNV;
@@ -89,7 +89,7 @@ int main()
 	int	YI_241U0t;
 	YI_241U0t	=	0;
   short  HRXvU;
-  HRXvU  =  465567371;
+  HRXvU  =  (short)465567371;
     short int    AFkZy_rB;
     AFkZy_rB    =    684326398;
     float    dAkTF6z9a;
@@ -136,7 +136,7 @@ case 1:
 vjrb3 = K1T3eC9(1812982970, CuHiiY2I6A, 1463508700, 72243074);
 break;
 case 2:
-YI_241U0t = K1T3eC9(1835405940, 281458316, dG_7, 1831077208);
+YI_241U0t = K1T3eC9((char)1835405940, 281458316, dG_7, 1831077208);
 break;
 case 3:
 YI_241U0t = K1T3eC9(Pe45Ox5, -1934259030, 381862570, 1176760631);
@@ -167,7 +167,7 @@ try
 {
 if (B8qeRJ1)
 {
-YI_241U0t = K1T3eC9(446302857, GQEi7, 1827056688, -2043279851);
+YI_241U0t = K1T3eC9((char)446302857, GQEi7, 1827056688, -2043279851);
 }
 else if (GQEi7 == Vd6Vh7)
 {
@@ -177,7 +177,7 @@ o2S4o = (int)floor(dG_7);
 }
 else
 {
-YI_241U0t = K1T3eC9(1071378453, 683360164, NpG_u, SYPA3FoeN);
+YI_241U0t = K1T3eC9(1071378453, (unsigned short)683360164, NpG_u, SYPA3FoeN);
 }
 }
 else

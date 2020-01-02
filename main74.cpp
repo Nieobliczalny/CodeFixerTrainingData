@@ -37,7 +37,7 @@ int main(int argc, char** argv)
   double  b5s04;
   b5s04  =  -1130762435;
   char  yk5y3Ydn;
-  yk5y3Ydn  =  1200089507;
+  yk5y3Ydn  =  (char)1200089507;
   int  eAEinn0GI;
   eAEinn0GI  =  392693324;
 	unsigned int	xz44ar2J8;

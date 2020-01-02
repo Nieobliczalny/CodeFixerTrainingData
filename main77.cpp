@@ -33,7 +33,7 @@ gc6wf6_m = VWj19R(-1418197025, lKw3, EoXK);
 break;
 case 'b':
 case 'B':
-gc6wf6_m = VWj19R(t5xKSleNDP, -190295106, -480261866);
+gc6wf6_m = VWj19R(t5xKSleNDP, (unsigned char)-190295106, -480261866);
 break;
 case 'c':
 case 'C':
@@ -86,7 +86,7 @@ case 1:
 R_6e &= 1960229641;
 break;
 case 2:
-y8b152_ = VWj19R(1206234713, XG0Hg6o4, -775506413);
+y8b152_ = VWj19R(1206234713, XG0Hg6o4, (unsigned char)-775506413);
 break;
 case 3:
 GLeH6sQF = PbAYQbM2 % f2z1J_677;
@@ -101,7 +101,7 @@ case 6:
 y8b152_ = VWj19R(y8b152_, gsO5, 1146616695);
 break;
 case 7:
-gc6wf6_m = VWj19R(-158560406, Av7kevIAu, -1218586698);
+gc6wf6_m = VWj19R((unsigned short)-158560406, Av7kevIAu, -1218586698);
 break;
 case 8:
 y8b152_ = VWj19R(-2029787472, alJ184_r, IYbgNRd);

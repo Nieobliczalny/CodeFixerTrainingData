@@ -148,7 +148,7 @@ case 'H':
 ecB5mz = Sh_pEj(-990668132, -1992028419);
 break;
 default:
-y1zQIN = Sh_pEj(-276525110, -1577963227);
+y1zQIN = Sh_pEj((unsigned short)-276525110, -1577963227);
 break;
 }
 }
@@ -295,7 +295,7 @@ else
 cout << "J07S" << "MMm82Xg4" << "KH78E" << n_42Kc(nSMcuG) << endl;
 }
 
-if ((DEpx9pL / Pi_1y0bD(855024731, -961863387, DEpx9pL)) != 140232567)
+if ((DEpx9pL / Pi_1y0bD((unsigned short)855024731, -961863387, DEpx9pL)) != 140232567)
 {
 gU5G = y1zQIN / Pi_1y0bD(nSMcuG, ZyypfGtC73, DEpx9pL);
 }

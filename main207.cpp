@@ -14,7 +14,7 @@ unsigned char XPYUAD2e(char FHQM65svu,unsigned char egb36m,int Iug_9zk,int sS5j3
 
 short int  T7JBDy7aT(unsigned long  uFdw,short int  EH8_5,short  Z25M338z)
 {
-  return  1528178958;
+  return  (short)1528178958;
 }
 
 long long	br9vCYE_U(unsigned long	Z_VL3eE,unsigned int	XFFWNzte)	{
@@ -83,7 +83,7 @@ case 6:
 A0j6p = T7JBDy7aT(A0j6p, OC3HJxq, -77808736);
 break;
 case 7:
-H_nd = T7JBDy7aT(-227379019, OC3HJxq, 1938528642) << 779346403;
+H_nd = T7JBDy7aT(-227379019, OC3HJxq, (short)1938528642) << 779346403;
 break;
 default:
 zM4JHaoA--;
@@ -153,7 +153,7 @@ case 'd':
 GxZQX9___ = XPYUAD2e(GxZQX9___, 2095526337, 2023928522, -1697408425, g0oYY0bDPV);
 break;
 case 'e':
-eo5010 = q0P1e(-657235304, 1935748400, 376660867, -1952469394, zM4JHaoA);
+eo5010 = q0P1e(-657235304, 1935748400, 376660867, (unsigned char)-1952469394, zM4JHaoA);
 break;
 }
 }
@@ -252,7 +252,7 @@ if (CFTcENh4Sx != 1197053177)
 {
 if (GxZQX9___ != -1036594302)
 {
-std::cout << br9vCYE_U(kpCaGWrJz, -1493385094) << XPYUAD2e(-434380486, -337575234, F12q4, 849567703, -1712255352) << "cKNQSeUMN" << oWhr36gF << std::endl;
+std::cout << br9vCYE_U(kpCaGWrJz, -1493385094) << XPYUAD2e(-434380486, (unsigned char)-337575234, F12q4, 849567703, -1712255352) << "cKNQSeUMN" << oWhr36gF << std::endl;
 }
 else if (P5iP1 & 1106804248)
 {
@@ -308,7 +308,7 @@ si_tuO6RMX ^= oWhr36gF;
 }
 try
 {
-std::cout << "lMWV0m34X" << Y9ehM << "nGeoRz" << g0oYY0bDPV << q0P1e(P5iP1, g0oYY0bDPV, 993515898, 487272330, 2021319381) << std::endl;
+std::cout << "lMWV0m34X" << Y9ehM << "nGeoRz" << g0oYY0bDPV << q0P1e(P5iP1, g0oYY0bDPV, 993515898, (unsigned char)487272330, 2021319381) << std::endl;
 }
 catch (int& errorCode)
 {

@@ -24,7 +24,7 @@ int main() {
 	unsigned char	fx2_D11;
 	fx2_D11	=	-657532206;
   unsigned short  g28HLFvB3;
-  g28HLFvB3  =  -1818835640;
+  g28HLFvB3  =  (unsigned short)-1818835640;
   short int  dUaQHdO1v;
   dUaQHdO1v  =  -1131940509;
 	unsigned short	ec021pvP;

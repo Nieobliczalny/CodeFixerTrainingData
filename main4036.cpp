@@ -20,7 +20,7 @@ int main()
  unsigned char gKr__h = -1502166140;
 	unsigned int	uV3dC_	=	-837828902;
   float  iCdnS55N  =  856055480;
- char A36oy = -108971874;
+ char A36oy = (char)-108971874;
  short int bbH_mX = -1103620221;
  short pVs0_n8l = 0;
 	long long	kqr43REJuM	=	188346959;
@@ -30,7 +30,7 @@ int main()
   unsigned long long  gqNZynfP7q  =  1400002557;
  unsigned char wuKy2jGOHk = -1106531189;
   unsigned short int  Gbl_vq  =  -1406435098;
-    short int    fupMy4v    =    -1723498815;
+    short int    fupMy4v    =    (short)-1723498815;
     unsigned short    rZuZ    =    -705221571;
 	unsigned char	dFxp_z99w	=	378350239;
   unsigned long  JMkj2_T  =  1149474095;
@@ -46,7 +46,7 @@ int main()
  int JYC550 = -1787438372;
     int    oT57eXGYTe    =    1206811880;
 	double	H_3j_	=	-1450723701;
-    short int    csXe_SaM    =    -1331398417;
+    short int    csXe_SaM    =    (short)-1331398417;
     char    QOHTY7    =    -1511133292;
  long double w_speLgZfc = -891128795;
     short    gD53xOWMU    =    1098809233;
@@ -56,7 +56,7 @@ int main()
  double iFHBVh1 = -290741975;
     int    V_HNa8N2Z1    =    -109660191;
 	unsigned long	Sa5_2Z3	=	-1951596393;
-	unsigned char	k_8vh2	=	952513286;
+	unsigned char	k_8vh2	=	(unsigned char)952513286;
 	unsigned int	pmU6F6	=	1298192089;
   unsigned short  gJTI4  =  1948670651;
   long long  gkJI9l2I5  =  0;
@@ -67,7 +67,7 @@ int main()
 	unsigned char	kw8w_4w_8	=	949888438;
 	unsigned int	snsiFK7	=	1129760442;
   long long  jDoV0L  =  -576428213;
-  short  l82g14_  =  1309893442;
+  short  l82g14_  =  (short)1309893442;
 	unsigned long	uJ7O0E2pT	=	-84591018;
 	unsigned long	T2I5_r3K0i	=	1374625561;
  unsigned int BYABUevUEi = -79240894;
@@ -89,7 +89,7 @@ bdoVztx2v = (int)floor(t275V2T);
 std::cout << "z327qb2Pt" << std::endl;
 w_speLgZfc = (long double)(qoGrBxcX4E);
 
-std::cout << "m9I2I9" << JLgkz1BO(1980268066, -1284135005, C688, 1255890873) << A36oy << std::endl;
+std::cout << "m9I2I9" << JLgkz1BO(1980268066, (char)-1284135005, C688, 1255890873) << A36oy << std::endl;
 bUEZqq5XM0 = JLgkz1BO(bUEZqq5XM0, 1221361344, 1922301057, 628420984);
 w_speLgZfc = (int)ceil(j148w3Oh);
 
@@ -170,7 +170,7 @@ do
 {
 try
 {
-JMkj2_T = JLgkz1BO(-1423870613, -2034580415, 500045636, gJTI4);
+JMkj2_T = JLgkz1BO(-1423870613, (char)-2034580415, 500045636, gJTI4);
 }
 catch (int& errorCode)
 {

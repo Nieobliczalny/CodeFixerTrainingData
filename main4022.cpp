@@ -21,7 +21,7 @@ unsigned short int	Trht(short	iTHEZ2)
 
 char    iaQye(unsigned long    aRppezb7,unsigned long long    Ol6e6pt4d,int    cFmSh)
 {
-    return    -1387240094;
+    return    (char)-1387240094;
 }
 
 unsigned char Ux680QJ(short int BG6qK4Tmo) {
@@ -242,7 +242,7 @@ while (i >= 0)
 switch (D8KjlLC52)
 {
 case 0:
-E6gqY7E = v7G22Hq134(1455296437, geRjic, 1600937267);
+E6gqY7E = v7G22Hq134(1455296437, geRjic, (short)1600937267);
 break;
 case 1:
 zDDeWQ++;
@@ -260,7 +260,7 @@ case 5:
 cQ6OSe <<= byslFI55;
 break;
 case 6:
-b86s = v7G22Hq134(234913182, 432062683, -1100227934);
+b86s = v7G22Hq134(234913182, 432062683, (short)-1100227934);
 break;
 default:
 r4Xq8 = Ux680QJ(r4Xq8);

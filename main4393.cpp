@@ -16,7 +16,7 @@ int main(int argc, char** argv)
 {
  short Ph2g = -914829688;
     unsigned int    Yha6vp    =    1647432907;
- short int H_FFf315h = 1809883911;
+ short int H_FFf315h = (short)1809883911;
     double    LUwxS_    =    -412556091;
 	int	PFQGSF3dN	=	-150563557;
  int JR_1 = 1610537379;
@@ -26,7 +26,7 @@ int main(int argc, char** argv)
     unsigned short int    TWD3_uyI3    =    -982446293;
   short int  m84vg8G  =  1154268985;
  short int DUgZ45Vt = 348622771;
-  short  sK9gj  =  470638204;
+  short  sK9gj  =  (short)470638204;
     short    vBlfK5o    =    0;
 	char	vSnJhS	=	-1515013260;
   long  vF7T8A  =  951963139;
@@ -39,7 +39,7 @@ int main(int argc, char** argv)
     unsigned short int    XkSR    =    1608130959;
  unsigned int axatPeY2 = -1236882686;
 	double	JK_5ZMw	=	-1952552032;
-    short    YNNf_KG    =    -1589934464;
+    short    YNNf_KG    =    (short)-1589934464;
 	long	jY13oF	=	1333739474;
   unsigned int  v3ZL  =  1811061211;
  unsigned short d8_Ks2 = -1216364352;
@@ -49,7 +49,7 @@ int main(int argc, char** argv)
 	unsigned short	k28Se5hCa	=	110422947;
 	unsigned long	w5Nk1	=	156987246;
     unsigned short    cKCJeM    =    -1617395410;
-  unsigned short int  SLgKu91  =  659045265;
+  unsigned short int  SLgKu91  =  (unsigned short)659045265;
 	unsigned int	jef1my	=	1725887738;
  unsigned char irDl7tZE = 362336225;
 	unsigned char	eur32sBa	=	1197297444;
@@ -64,7 +64,7 @@ int main(int argc, char** argv)
     long long    nvM_3FsvTf    =    -421101304;
  long long p97qp_6p_G = -270879622;
   int  TE1kx  =  -816561773;
-	short	Wv00Gx7Gp	=	952312706;
+	short	Wv00Gx7Gp	=	(short)952312706;
     short int    I27Z8NU3S    =    226830328;
     unsigned int    T_3zS2oK2D    =    0;
  unsigned long bKeeY4e7 = 212232867;
@@ -75,7 +75,7 @@ int main(int argc, char** argv)
     char    Q9tx2m7ww    =    0;
 	char	J8G4RZuFIB	=	1733153502;
   long long  c_6d  =  -797561681;
- short int O77_ = 1937809181;
+ short int O77_ = (short)1937809181;
  long long A8kh6e_9 = 1783315201;
 
 if (SLgKu91 != 1535818517)
@@ -122,7 +122,7 @@ case 2:
 U5519DN1y = xtmPIV2k1(-683712713, 2252514, XkSR);
 break;
 case 3:
-KcPs = xtmPIV2k1(-820938263, -1006031029, d8_Ks2);
+KcPs = xtmPIV2k1(-820938263, (short)-1006031029, d8_Ks2);
 break;
 case 4:
 DtONZ = (int)abs(Q9tx2m7ww) + (-728420482);
@@ -203,7 +203,7 @@ LH96z_ = cKCJeM | 171998521;
 cout << DUgZ45Vt << xtmPIV2k1(vF7T8A, Q9tx2m7ww, LH96z_) << xtmPIV2k1(vF7T8A, -1580369854, 1364238028) << endl;
 UWVgpLG = (int)floor(LUwxS_);
 
-cout << xtmPIV2k1(vF7T8A, -1532655507, LH96z_) << "r4NlF6j9c" << "ub_8OmUQ2" << v3ZL << endl;
+cout << xtmPIV2k1(vF7T8A, (short)-1532655507, LH96z_) << "r4NlF6j9c" << "ub_8OmUQ2" << v3ZL << endl;
 
 {
 int i = 10;

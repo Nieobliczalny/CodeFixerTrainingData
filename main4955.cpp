@@ -30,7 +30,7 @@ int main() {
  short zAwgX95vX;
  zAwgX95vX = -1020338574;
 	unsigned short int	U3C3qA;
-	U3C3qA	=	-2072380002;
+	U3C3qA	=	(unsigned short)-2072380002;
 	unsigned int	vDMO1J6;
 	vDMO1J6	=	-239924962;
 	unsigned short	U18Uex;
@@ -52,7 +52,7 @@ int main() {
     short int    V6YPg;
     V6YPg    =    1649229696;
   short  u6iW47Qq;
-  u6iW47Qq  =  -1693587602;
+  u6iW47Qq  =  (short)-1693587602;
     float    XOe8RT3;
     XOe8RT3    =    828055690;
 	unsigned long long	a027pcuIbf;
@@ -64,7 +64,7 @@ int main() {
   short int  E5_HUP0fy;
   E5_HUP0fy  =  156433060;
 	short int	BDy891wJ;
-	BDy891wJ	=	-1568876206;
+	BDy891wJ	=	(short)-1568876206;
 	long	Vi4jrX;
 	Vi4jrX	=	-701245926;
   float  bsAD7ZD;
@@ -76,7 +76,7 @@ int main() {
   int  Ffj931v93m;
   Ffj931v93m  =  881839718;
 	unsigned char	vSfOAN1P1;
-	vSfOAN1P1	=	50808301;
+	vSfOAN1P1	=	(unsigned char)50808301;
   double  esj1E1l6IA;
   esj1E1l6IA  =  -120480200;
     long    kSn4iUR;
@@ -94,7 +94,7 @@ int main() {
 	long	erR__W8y;
 	erR__W8y	=	277727673;
 	char	mt7K4;
-	mt7K4	=	1304326215;
+	mt7K4	=	(char)1304326215;
   float  lEmVp7M;
   lEmVp7M  =  -961157057;
     char    v_G2;
@@ -108,7 +108,7 @@ Vi4jrX = (long)(K352651_);
 
 try
 {
-cout << CxwOn(kSn4iUR, 1817914525, 312858543, 109448593, n5O7F) << wF88B0T2(822991158, E5_HUP0fy, 32792027, -292252483) << UMH9u(kSn4iUR) << endl;
+cout << CxwOn(kSn4iUR, 1817914525, 312858543, 109448593, n5O7F) << wF88B0T2(822991158, E5_HUP0fy, (short)32792027, -292252483) << UMH9u(kSn4iUR) << endl;
 }
 catch (int& errorCode)
 {
@@ -235,7 +235,7 @@ case 2:
 SOan41 = (int)floor(xzgstCAt);
 break;
 case 3:
-K352651_ = wF88B0T2(1769099250, 657496425, 1256429908, U3C3qA);
+K352651_ = wF88B0T2(1769099250, 657496425, (short)1256429908, U3C3qA);
 break;
 case 4:
 u6iW47Qq = UV1OF(-1407465917, v_G2, -1605715129, 1771629628, erR__W8y);
@@ -386,7 +386,7 @@ case 4:
 K87IP = UMH9u(-824809529);
 break;
 case 5:
-UZDA = wF88B0T2(-1200225835, erR__W8y, O56Vxlq1, n5O7F);
+UZDA = wF88B0T2((unsigned short)-1200225835, erR__W8y, O56Vxlq1, n5O7F);
 break;
 case 6:
 lEmVp7M = (int)floor(SB27gi4ENk);
@@ -473,7 +473,7 @@ if (O56Vxlq1 == LPTK)
 {
 if ((BDy891wJ < -1873840861) || ((GekkSvM == kSn4iUR) || (TN7M735SH <= VZ2g4dX7)))
 {
-Vi4jrX = UV1OF(-1308910445, -2063171353, dCJLM, -6548992, 1910670880);
+Vi4jrX = UV1OF(-1308910445, -2063171353, dCJLM, (unsigned short)-6548992, 1910670880);
 }
 }
 LPTK = (int)abs(xzgstCAt);

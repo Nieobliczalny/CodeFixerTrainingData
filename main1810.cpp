@@ -412,7 +412,7 @@ short hf105ruTkb(unsigned long long qcmlQx)
 
 unsigned char	dzpUf9(unsigned char	ndVLwr)
 {
-	return	-1625293531;
+	return	(unsigned char)-1625293531;
 }
 
 short    c4ZqTv(unsigned short    b6922N)
@@ -426,6 +426,6 @@ unsigned long  R_97026(short int  z_c3zQNB6,long long  Shax0k)  {
 
 unsigned short	o3RD4WqR()
 {
-	return	1939997381;
+	return	(unsigned short)1939997381;
 }
 

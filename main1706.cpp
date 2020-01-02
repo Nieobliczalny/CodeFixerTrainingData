@@ -20,7 +20,7 @@ int main(int argc, char** argv)
  Lo94p5Ke_ = 0;
 	short	l8Bo8689,	dEKzuJ,	DG17qRNUni,	h4YhsD7G;
 	l8Bo8689	=	-1647161348;
-	dEKzuJ	=	-676293172;
+	dEKzuJ	=	(short)-676293172;
 	DG17qRNUni	=	276474528;
 	h4YhsD7G	=	562667578;
 

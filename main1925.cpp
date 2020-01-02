@@ -26,7 +26,7 @@ int main()
     unsigned short int    EBro_13e;
     EBro_13e    =    0;
 	unsigned short int	E8l4N;
-	E8l4N	=	980383429;
+	E8l4N	=	(unsigned short)980383429;
     unsigned long    UcBG;
     UcBG    =    0;
     short int    zNGLHF;
@@ -44,7 +44,7 @@ int main()
  unsigned short int kp9M71;
  kp9M71 = -1300677448;
 	char	dQr1bZcC;
-	dQr1bZcC	=	-114838650;
+	dQr1bZcC	=	(char)-114838650;
     unsigned char    nC20;
     nC20    =    -1897387498;
   short  VORMU5mO;

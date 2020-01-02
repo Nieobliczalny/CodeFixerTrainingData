@@ -18,7 +18,7 @@ int main() {
     unsigned short int    b300qxmj26;
     b300qxmj26    =    -1481465672;
   unsigned short int  Si3jQ8;
-  Si3jQ8  =  -1497211343;
+  Si3jQ8  =  (unsigned short)-1497211343;
  char q_nn;
  q_nn = 1054696722;
     double    Wtv__Cq_;
@@ -121,7 +121,7 @@ Wtv__Cq_ += q_nn;
 }
 else if (ucu_FFGy >= 1177636834)
 {
-q_nn = Ks6Di4vn3f(-1708036843, -402761244, zZr2WrwE, ZzdEvll);
+q_nn = Ks6Di4vn3f(-1708036843, (short)-402761244, zZr2WrwE, ZzdEvll);
 }
 else
 {
@@ -140,7 +140,7 @@ bk6iIUUkp2++;
 }
 else if ((zZr2WrwE >= -1980681020) || ((ucu_FFGy < 499307927) || (SM061_AiCT & b300qxmj26)))
 {
-ZzdEvll = Ks6Di4vn3f(ZzdEvll, 818884670, 1258042104, 1615944822);
+ZzdEvll = Ks6Di4vn3f(ZzdEvll, 818884670, (char)1258042104, 1615944822);
 }
 else if (bk6iIUUkp2 > 636056236)
 {
@@ -177,7 +177,7 @@ j++;
 }
 else if (((b300qxmj26) || (Si3jQ8 < ZzdEvll)) || (q_nn & -549862682))
 {
-std::cout << Ks6Di4vn3f(ZzdEvll, -1300128070, -1387201228, Wtv__Cq_) << "iq_N63" << std::endl;
+std::cout << Ks6Di4vn3f(ZzdEvll, -1300128070, (char)-1387201228, Wtv__Cq_) << "iq_N63" << std::endl;
 }
 else
 {
@@ -238,7 +238,7 @@ bk6iIUUkp2 *= 817237272;
 }
 else if (Si3jQ8 >= 942621624)
 {
-b300qxmj26 = Ks6Di4vn3f(SM061_AiCT, 633300811, 2112193847, 1540363706);
+b300qxmj26 = Ks6Di4vn3f(SM061_AiCT, 633300811, (char)2112193847, 1540363706);
 }
 else
 {
@@ -251,7 +251,7 @@ Si3jQ8++;
 }
 else if ((zZr2WrwE) || (bk6iIUUkp2 >= 1691937778))
 {
-bk6iIUUkp2 = Ks6Di4vn3f(-833964013, r0abPCHQu3, -642707618, -380360209) & 2076872909;
+bk6iIUUkp2 = Ks6Di4vn3f(-833964013, r0abPCHQu3, (char)-642707618, -380360209) & 2076872909;
 }
 else
 {
@@ -371,7 +371,7 @@ Rw9qL = (unsigned short int)(Si3jQ8 * Rw9qL);
 }
 }
 
-std::cout << ucu_FFGy << Ks6Di4vn3f(682924857, -2022799715, b300qxmj26, 773807217) << g1l4() << "LQ77uyi0Y_" << Ks6Di4vn3f(ZzdEvll, q_nn, b300qxmj26, Rw9qL) << std::endl;
+std::cout << ucu_FFGy << Ks6Di4vn3f(682924857, (short)-2022799715, b300qxmj26, 773807217) << g1l4() << "LQ77uyi0Y_" << Ks6Di4vn3f(ZzdEvll, q_nn, b300qxmj26, Rw9qL) << std::endl;
 q_nn = (int)abs(Wtv__Cq_);
 
 ZzdEvll = Ks6Di4vn3f(ZzdEvll, Wtv__Cq_, ucu_FFGy, r0abPCHQu3);

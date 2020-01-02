@@ -200,7 +200,7 @@ for (int j = 8; j >= 0; --j)
 {
 for (int k = 0; k < 1; k++)
 {
-lb79dY9_b7 = x1loM8C(-880973477, -571652796, pa4jvt, 1549886615, Kv7TjD_7);
+lb79dY9_b7 = x1loM8C(-880973477, (unsigned char)-571652796, pa4jvt, 1549886615, Kv7TjD_7);
 }
 }
 i--;
@@ -337,7 +337,7 @@ case 'C':
 Jw_I7M0ypN = f6_Q1wq2uc();
 break;
 default:
-C6D9HIN = x1loM8C(-1102075882, Ey0Vi37za, q43JK4, xV955s0_3F, 914704447);
+C6D9HIN = x1loM8C(-1102075882, Ey0Vi37za, q43JK4, xV955s0_3F, (unsigned char)914704447);
 break;
 }
 }

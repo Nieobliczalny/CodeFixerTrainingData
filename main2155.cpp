@@ -23,7 +23,7 @@ unsigned int  J7A2_tO0(short  MaG0a3,unsigned short int  M_493U,long  h7ShfSYPr)
 }
 
 unsigned char    QCpk13(long    n9a5UGLY,short    BBj6BAECF_)    {
-    return    -2036726338;
+    return    (unsigned char)-2036726338;
 }
 
 unsigned short WX37g(char Afj3E) {
@@ -33,7 +33,7 @@ unsigned short WX37g(char Afj3E) {
 int main()
 {
  int Tjc_2io = -155281746;
- char H5mlh12 = -1467392009;
+ char H5mlh12 = (char)-1467392009;
 	float	M1L6	=	-751142941;
   short int  jG1dI  =  1977389792;
  long D_v1x_ = -1782843555;
@@ -46,7 +46,7 @@ int main()
  double u1L81A4o = -28474380;
     int    FK6Sqab_Qw    =    729777991;
 	float	J6WjR1trCO	=	1837248808;
- unsigned char JI4xw0JnY = 1611250556;
+ unsigned char JI4xw0JnY = (unsigned char)1611250556;
   unsigned long  BE9CG0R  =  -1034457535;
 	unsigned short	Jy9B72TVGd	=	-1364437822;
     unsigned char    zX9n924    =    392795659;
@@ -60,7 +60,7 @@ int main()
     unsigned int    U79G4    =    1252479451;
     unsigned long    AbPSjJ    =    -1595142677;
  unsigned short int Rhk_if = -13404909;
- unsigned char Yw75H1G_4 = -1426672357;
+ unsigned char Yw75H1G_4 = (unsigned char)-1426672357;
 	short int	sL853srB	=	-215083932;
     float    dCjg4Dc5    =    733923096;
  short u5F_ = 1299061444;
@@ -73,7 +73,7 @@ int main()
   unsigned long long  ml8r0pOP0  =  -1987938678;
     short    t4P7Yn    =    610516712;
   unsigned int  Sxp_b6  =  422802173;
-    short    de5AZYg278    =    1822267905;
+    short    de5AZYg278    =    (short)1822267905;
   long long  Pscf  =  -821054480;
   unsigned int  o4tlnMOg5  =  -1026613114;
  long double ki78C2alL = -844793488;
@@ -85,7 +85,7 @@ int main()
   long  u8_nuJe  =  457954640;
   unsigned long  Z0c6g5  =  1512183134;
   long long  DV5d_0  =  0;
- char yJc0 = 1284327070;
+ char yJc0 = (char)1284327070;
  double Y4ugnOik = 783080590;
   long  P_ZUDV_0w  =  -721116441;
     unsigned int    O_IXEMBI    =    -950206121;
@@ -98,7 +98,7 @@ int main()
 	float	CgMKcg	=	-80584903;
     long    DP2BHDJ781    =    1313777330;
   float  l1tdmt68  =  1452815418;
-  unsigned char  rNr4hui  =  -552530513;
+  unsigned char  rNr4hui  =  (unsigned char)-552530513;
  unsigned short N92G7r4ea = 872004324;
     unsigned short int    J3j1fHnnl    =    -1091302226;
     double    T0J7ZWc    =    -360307247;
@@ -116,7 +116,7 @@ int main()
 	unsigned int	Lc8t8	=	-2023791543;
     long    RXM1    =    -300101613;
  char GjL1rZ = -2085612746;
-    char    Y_12o    =    -2035250200;
+    char    Y_12o    =    (char)-2035250200;
  unsigned long d6dKhNL8r = 954471205;
 	unsigned int	AF8_16Oba	=	583535013;
  float T2C56ncr = 687271106;
@@ -127,7 +127,7 @@ int main()
 	unsigned long	wlkJ8k2P	=	-2125867838;
   unsigned short int  lVbb_iI_H  =  661287890;
     long double    kdY5T3Cd1    =    -1255223107;
-  short  xdchS2  =  -1720040283;
+  short  xdchS2  =  (short)-1720040283;
 	long long	DkQucA4f	=	-1398690547;
     long    J7Zca    =    -1225388799;
  unsigned long long cAB_GZFu = 148324659;
@@ -143,7 +143,7 @@ std::cout << "ozY6" << Q_Sv << "j0tm1" << dDeEVyM3E() << std::endl;
 }
 else
 {
-l1tdmt68 = WX37g(-1975645199);
+l1tdmt68 = WX37g((char)-1975645199);
 }
 M1L6 = (float)(Pscf);
 if ((DHFKq5DL & wlkJ8k2P) && (xdchS2 & 1157508969))
@@ -260,7 +260,7 @@ try
 {
 for (int k = 9; k >= 0; --k)
 {
-sL853srB = WX37g(1917482105) >> 425670607;
+sL853srB = WX37g((char)1917482105) >> 425670607;
 }
 }
 catch (int& errorCode)
@@ -345,7 +345,7 @@ else if (DHFKq5DL & mYqB6zti)
 {
 try
 {
-kdY5T3Cd1 = J7A2_tO0(12874114, 99868751, wh3G3j);
+kdY5T3Cd1 = J7A2_tO0(12874114, (unsigned short)99868751, wh3G3j);
 }
 catch (int& errorCode)
 {
@@ -360,7 +360,7 @@ lS1g *= 387586738;
 }
 else
 {
-HT88q1rJb = J7A2_tO0(367025845, 716842823, 1667711554);
+HT88q1rJb = J7A2_tO0(367025845, (unsigned short)716842823, 1667711554);
 }
 }
 else
@@ -387,7 +387,7 @@ std::cout << FrKO << "Zq7im4xI" << QCpk13(-1916445033, E77yDtE) << std::endl;
 
 if (AF8_16Oba >= IvUV5)
 {
-C0u_g98ll4 = J7A2_tO0(-815843381, -10130552, -582529520);
+C0u_g98ll4 = J7A2_tO0(-815843381, (unsigned short)-10130552, -582529520);
 }
 else if (cAB_GZFu)
 {

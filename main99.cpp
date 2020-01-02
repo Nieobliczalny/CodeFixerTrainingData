@@ -38,7 +38,7 @@ int main()
     unsigned char    O5FtC9I;
     O5FtC9I    =    -1358199224;
 	unsigned char	O9qdq;
-	O9qdq	=	-2131378358;
+	O9qdq	=	(unsigned char)-2131378358;
  unsigned long IuPC2Y_;
  IuPC2Y_ = -1233358422;
 	short int	DM_7_B;
@@ -48,7 +48,7 @@ int main()
     short int    AC1H119;
     AC1H119    =    627107994;
     char    D1t4;
-    D1t4    =    194412546;
+    D1t4    =    (char)194412546;
  short int IMD19SqD;
  IMD19SqD = 1193437094;
   int  fq96zp4a;
@@ -66,7 +66,7 @@ int main()
 	unsigned short int	zGp_wp;
 	zGp_wp	=	-1875163249;
  unsigned short int k_Wuyf9zc7;
- k_Wuyf9zc7 = 1894922044;
+ k_Wuyf9zc7 = (unsigned short)1894922044;
     char    zwmk16aAR7;
     zwmk16aAR7    =    -1414581549;
 	unsigned long long	aUlNM6;
@@ -458,7 +458,7 @@ short int A0A8P_5(unsigned char z3JnU24SM) {
 
 char	j90_jA_I9(long long	OyVe2,unsigned int	kkV1J_J,long long	GhLqk7yR,short int	ko2_0KC3M)
 {
-	return	1746378736;
+	return	(char)1746378736;
 }
 
 long	mVtm(long	iNIZTkg)	{

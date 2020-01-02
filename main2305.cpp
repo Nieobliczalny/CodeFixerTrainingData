@@ -26,7 +26,7 @@ unsigned long long T95S() {
 
 unsigned short	XQk6(unsigned int	m84Eq,unsigned long	s96ZL0)
 {
-	return	-1200280271;
+	return	(unsigned short)-1200280271;
 }
 
 int main(void)

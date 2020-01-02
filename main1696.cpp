@@ -53,7 +53,7 @@ while (k >= 0);
 }
 else
 {
-std::cout << "e9sSpi" << W0o_bB(-1297712342, -2062116626, D_2nQHf, zE5h, 591708793) << JzbpOR(hns9Kf, -341171032) << U61Ntv7k4W << std::endl;
+std::cout << "e9sSpi" << W0o_bB(-1297712342, -2062116626, D_2nQHf, zE5h, (unsigned char)591708793) << JzbpOR(hns9Kf, -341171032) << U61Ntv7k4W << std::endl;
 }
 x8MuW = lW47(-229246118, -869458655, -552004854, 798462701, L5_PE2);
 {
@@ -63,7 +63,7 @@ while (i >= 0)
 --i;
 if (zE5h)
 {
-UI_9Q = W0o_bB(535596099, -1322443060, use1wV7Z, pIsAVh0, -952305222);
+UI_9Q = W0o_bB(535596099, -1322443060, use1wV7Z, pIsAVh0, (unsigned char)-952305222);
 }
 else
 {
@@ -149,7 +149,7 @@ int k = 6;
 do
 {
 --k;
-tgB481_2 = lW47(p63aEBP, -112209058, RCJfGogLkh, -696550687, 202094406) >> 2024782330;
+tgB481_2 = lW47(p63aEBP, -112209058, RCJfGogLkh, (short)-696550687, 202094406) >> 2024782330;
 }
 while (k >= 0);
 }
@@ -191,7 +191,7 @@ else
 {
 for (int k = 2; k >= 0; k--)
 {
-wN9pDKqQ = lW47(407068419, 1899712975, vs9txc, RscK09, 1699936924);
+wN9pDKqQ = lW47(407068419, (char)1899712975, vs9txc, RscK09, 1699936924);
 }
 }
 }
@@ -217,7 +217,7 @@ x8MuW = lW47(zE5h, hwD6T, 1822435309, 214404272, 718734651);
 }
 else
 {
-b7YY1 = ZFgD0mbh(1275874724, 1497512063);
+b7YY1 = ZFgD0mbh(1275874724, (unsigned short)1497512063);
 }
 }
 }
@@ -255,7 +255,7 @@ if (((A0mY == R5TA51_G) && (ZDR_ & -420926395)) && ((YI947 != R5TA51_G) && (x8Mu
 {
 H727W_e = W0o_bB(H727W_e, 1977715800, 828917641, RscK09, 833716251);
 }
-std::cout << ZFgD0mbh(1778457453, 1230619471) << "BcI9hX" << std::endl;
+std::cout << ZFgD0mbh(1778457453, (unsigned short)1230619471) << "BcI9hX" << std::endl;
 {
 int i = 0;
 do
@@ -300,7 +300,7 @@ UI_9Q = JzbpOR(UI_9Q, K22x0Mw2);
 }
 else if (nvP5 <= wN9pDKqQ)
 {
-wo85 = lW47(1817195570, K22x0Mw2, Yj0UeWjaB1, -1826746908, -1809221346) & F5rd;
+wo85 = lW47(1817195570, K22x0Mw2, Yj0UeWjaB1, (short)-1826746908, -1809221346) & F5rd;
 }
 else if (YI947 > f5alo)
 {
@@ -441,7 +441,7 @@ W1N4 = R5TA51_G * 1373358484;
 }
 else if (vs9txc <= f5alo)
 {
-std::cout << ZFgD0mbh(wo85, pSCy_0O) << lW47(wo85, pSCy_0O, 47990694, 119476237, F5rd) << "Nqylxps6" << W0o_bB(wo85, -1102546021, A0mY, nQ_4u0, -148301207) << fK8__a9 << std::endl;
+std::cout << ZFgD0mbh(wo85, pSCy_0O) << lW47(wo85, pSCy_0O, 47990694, 119476237, F5rd) << "Nqylxps6" << W0o_bB(wo85, -1102546021, A0mY, nQ_4u0, (unsigned char)-148301207) << fK8__a9 << std::endl;
 }
 else if (gai1Snc1nF > XPp8k3Zv7K)
 {

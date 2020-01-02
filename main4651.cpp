@@ -19,7 +19,7 @@ int main(int argc, char** argv) {
   double  tatQ_d_X7  =  -1052759425;
   double  Qs013LbQ  =  -906708681;
 	int	wa_7iIO	=	-675238283;
-    unsigned char    WYw0o    =    -610470287;
+    unsigned char    WYw0o    =    (unsigned char)-610470287;
   unsigned char  p7C02650PH  =  1318936284;
   double  eeSVsU8a  =  -387593700;
   float  yjwJT  =  -2126138257;
@@ -41,7 +41,7 @@ int main(int argc, char** argv) {
  long bB2g8U_ = 190602987;
  unsigned short Ln_wci1fu = 370595176;
     int    o90a_X9f    =    1199981371;
-  unsigned short int  q1ovOo  =  2114041491;
+  unsigned short int  q1ovOo  =  (unsigned short)2114041491;
  short int bzd4jka = 987355211;
     short    ShnNHK    =    -287150951;
 	short	C0i3z8	=	1975859665;
@@ -52,7 +52,7 @@ int main(int argc, char** argv) {
   unsigned char  QAIbHy0D  =  1867987505;
 	char	UIKZu	=	-2115052574;
  long double f2oASR5 = 1222612617;
-	unsigned short	HEXQX03r	=	838502631;
+	unsigned short	HEXQX03r	=	(unsigned short)838502631;
   double  bVPE_I7Rg5  =  522385872;
 	long double	yt_uesk7_A	=	-94433777;
 	unsigned int	KgJl6	=	1360012467;
@@ -117,7 +117,7 @@ case 3:
 q7HF324 = eqj_b3PZdd % 1616182309;
 break;
 case 4:
-f2oASR5 = Ts_R3r(222445577, -1618659282, -1779297327, W6Db_GwR);
+f2oASR5 = Ts_R3r(222445577, (short)-1618659282, -1779297327, W6Db_GwR);
 break;
 case 5:
 yjwJT = (int)ceil(eeSVsU8a);

@@ -182,7 +182,7 @@ g6o9Rnjx4 = o87fn7i71(w0v18_2w3);
 
 h65_FBT3 = G052FM2vu();
 cout << opua / Hrmsy8UHvi << endl;
-cout << nv54 << yYiU8KC << o87fn7i71(1002004842) << endl;
+cout << nv54 << yYiU8KC << o87fn7i71((unsigned char)1002004842) << endl;
 {
 int i = 7;
 do
@@ -244,7 +244,7 @@ case 5:
 h65_FBT3 = (int)ceil(gc3x86);
 break;
 case 6:
-Hrmsy8UHvi = o87fn7i71(672399725);
+Hrmsy8UHvi = o87fn7i71((unsigned char)672399725);
 break;
 case 7:
 g6o9Rnjx4 = o87fn7i71(KCWgfG217);
@@ -276,7 +276,7 @@ char    H1B6Ix(unsigned char    A_v7U,unsigned long    d233Aee9r1,int    EF8h,un
 }
 
 unsigned short	M2z_5Y(unsigned int	PZ907_wl8,unsigned long	SsPc5v4)	{
-	return	1977521062;
+	return	(unsigned short)1977521062;
 }
 
 unsigned int  o87fn7i71(unsigned char  e4N8bD)  {

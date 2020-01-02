@@ -26,7 +26,7 @@ int main(void)
   int  pc47X5FtWc;
   pc47X5FtWc  =  644763292;
  unsigned short p52_3bH;
- p52_3bH = -270332982;
+ p52_3bH = (unsigned short)-270332982;
   short int  v8vEuUKs_;
   v8vEuUKs_  =  -1104482563;
 	unsigned int	ym6cOw_VUI;
@@ -40,7 +40,7 @@ int main(void)
 	char	iZUfqZ;
 	iZUfqZ	=	-1866694832;
   short int  E6NF10G;
-  E6NF10G  =  2008631552;
+  E6NF10G  =  (short)2008631552;
   int  y0Hm_rYtCz;
   y0Hm_rYtCz  =  857431198;
   unsigned long long  GPDM2F7p;
@@ -52,7 +52,7 @@ int main(void)
 	short int	QmKHdXk7N;
 	QmKHdXk7N	=	-1551280735;
     unsigned char    Gqy1_786O5;
-    Gqy1_786O5    =    503434503;
+    Gqy1_786O5    =    (unsigned char)503434503;
 	short	KVZ54lkA3x;
 	KVZ54lkA3x	=	1541258417;
  short s_tv;
@@ -72,7 +72,7 @@ int main(void)
   unsigned char  h1XM;
   h1XM  =  1488190701;
 
-E6NF10G = pdp8tCxs(s_tv) / pdp8tCxs(-630656640);
+E6NF10G = pdp8tCxs(s_tv) / pdp8tCxs((short)-630656640);
 if ((Kufr != 1590759761) || (h1XM & -97904731))
 {
 y0Hm_rYtCz = (int)(Yb2FdN_H7);
@@ -400,7 +400,7 @@ for (int j = 8; j >= 0; j--)
 {
 try
 {
-GPDM2F7p = pdp8tCxs(1711231519);
+GPDM2F7p = pdp8tCxs((short)1711231519);
 }
 catch (int& errorCode)
 {

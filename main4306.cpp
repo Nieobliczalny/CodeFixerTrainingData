@@ -28,7 +28,7 @@ int main(int argc, char** argv) {
 	int	Cac9w7x7b0	=	-1002399743;
     long long    ac50sHL_G    =    1379317559;
     char    w84ef4nvha    =    -1082947659;
-    unsigned char    ZY0lJ    =    2040600386;
+    unsigned char    ZY0lJ    =    (unsigned char)2040600386;
 	double	M7VECBnDb0	=	-245014872;
   short  nKg1v3  =  -763888238;
 	short	E83y6d2	=	0;
@@ -45,7 +45,7 @@ int main(int argc, char** argv) {
   int  E_O32k5_  =  -2095878091;
 	unsigned char	ut23	=	0;
  short int B4M_heot49 = 882971904;
-    unsigned short    orfbDI    =    879163034;
+    unsigned short    orfbDI    =    (unsigned short)879163034;
 	long	T1Vusm6d0E	=	-1967406837;
 	unsigned long	exML	=	-1899049333;
     long double    wcBt4XR    =    -1060203213;
@@ -64,7 +64,7 @@ if (orfbDI >= Mpsozf)
 {
 try
 {
-ZY0lJ = Kh2Z_(1279886223, -948549668);
+ZY0lJ = Kh2Z_(1279886223, (unsigned short)-948549668);
 }
 catch (int& errorCode)
 {
@@ -242,7 +242,7 @@ case 2:
 kx58t = Kh2Z_(501525104, HZ6SW);
 break;
 case 3:
-E_O32k5_ = qnvEclcJ(-278932907) | 1976076916;
+E_O32k5_ = qnvEclcJ((short)-278932907) | 1976076916;
 break;
 case 4:
 WCu3oaW4 = T49U3R69C(-214095356, -1218568443, c26iKl_AZF, vso3E3I, -195618813);
@@ -252,7 +252,7 @@ x3R44 = T49U3R69C(x3R44, -2124154973, Cac9w7x7b0, 456498116, h9_0U);
 break;
 }
 }
-std::cout << "TdGjoX5" << "ub2s" << LoE26(1031041934, 2019988367, -1279914146) << std::endl;
+std::cout << "TdGjoX5" << "ub2s" << LoE26(1031041934, 2019988367, (short)-1279914146) << std::endl;
 
 for (int i = 0; i < 2; ++i)
 {
@@ -287,7 +287,7 @@ try
 {
 if (((M7VECBnDb0 >= w84ef4nvha) || (LWkXlnTOX >= 1197567124)) && (E83y6d2 != TG3VQ))
 {
-nKg1v3 = T49U3R69C(1531861807, 1852385716, B4M_heot49, -1486582143, T1Vusm6d0E);
+nKg1v3 = T49U3R69C(1531861807, (unsigned short)1852385716, B4M_heot49, -1486582143, T1Vusm6d0E);
 }
 else if (E3__rnn != 1883832316)
 {
@@ -315,7 +315,7 @@ switch (w84ef4nvha)
 {
 case 'a':
 case 'A':
-T1Vusm6d0E = T49U3R69C(543600065, TG3VQ, T1Vusm6d0E, 53520371, -1778353381);
+T1Vusm6d0E = T49U3R69C(543600065, TG3VQ, T1Vusm6d0E, 53520371, (unsigned short)-1778353381);
 break;
 case 'b':
 case 'B':

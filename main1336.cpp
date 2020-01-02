@@ -64,7 +64,7 @@ case 3:
 xW8ArGnc = t5zDueyi(-501048250);
 break;
 case 4:
-hpCG = e2W_Qorzy(46923221, 1005554128);
+hpCG = e2W_Qorzy((unsigned short)46923221, 1005554128);
 break;
 case 5:
 w5Lu_9EZQ = e2W_Qorzy(965911556, -1310707389);
@@ -84,7 +84,7 @@ case 'b':
 DaP2 &= X6Gg0L_;
 break;
 case 'c':
-yC3Dao20 = V5q0Z2E(987483326, dSN9e1_d, -313750304, -1891795246);
+yC3Dao20 = V5q0Z2E((short)987483326, dSN9e1_d, -313750304, -1891795246);
 break;
 case 'd':
 uEJ52jV_4 = o5d89uoxwV * 1756447012;
@@ -109,7 +109,7 @@ Npc0i = V5q0Z2E(Npc0i, C_oU5UDj4, -1922584822, 423442537);
 }
 else if (DaP2 == Rctulm)
 {
-Npc0i = V5q0Z2E(647617063, -172211105, C_oU5UDj4, fIdLXj0);
+Npc0i = V5q0Z2E(647617063, (char)-172211105, C_oU5UDj4, fIdLXj0);
 }
 else if (V2426AI_VP <= -223403573)
 {

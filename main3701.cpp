@@ -32,7 +32,7 @@ unsigned short int cGK2h(unsigned long dnc_,unsigned short E3_Z79T5,int RyMI,uns
 
 int main(void)
 {
- unsigned short rb6_B7 = 1758766217;
+ unsigned short rb6_B7 = (unsigned short)1758766217;
     unsigned long    P55uPI    =    0,    VLN4    =    0;
 
 try
@@ -88,7 +88,7 @@ rb6_B7 = (P55uPI) ? -1139411083 : VLN4;
 }
 else
 {
-rb6_B7 = Jk8x5wOP(-1878730557, 685413028, -1738142969, 217641549) + P55uPI;
+rb6_B7 = Jk8x5wOP((unsigned short)-1878730557, 685413028, -1738142969, 217641549) + P55uPI;
 }
 }
 }
@@ -144,7 +144,7 @@ rb6_B7 = VLN4 - 1229194483;
 }
 else
 {
-rb6_B7 = cGK2h(-598115954, 904969313, 2070956429, -813785104, 1127985081);
+rb6_B7 = cGK2h(-598115954, 904969313, 2070956429, -813785104, (unsigned short)1127985081);
 }
 }
 else if ((VLN4 <= 246878348) && (rb6_B7 > P55uPI))
@@ -179,7 +179,7 @@ else
 switch (rb6_B7)
 {
 case 'a':
-rb6_B7 = cGK2h(rb6_B7, 125502746, P55uPI, -1470462161, 1641317831);
+rb6_B7 = cGK2h(rb6_B7, 125502746, P55uPI, -1470462161, (unsigned short)1641317831);
 break;
 case 'b':
 rb6_B7 = rb6_B7 % 375775372;
@@ -204,7 +204,7 @@ for (int i = 5; i >= 0; i--)
 std::cout << "PdTb2" << "Zpt3L8uac" << P55uPI << std::endl;
 }
 
-rb6_B7 = cGK2h(P55uPI, -1185417750, rb6_B7, 1490051656, -571551229) / VLN4;
+rb6_B7 = cGK2h(P55uPI, -1185417750, rb6_B7, 1490051656, (unsigned short)-571551229) / VLN4;
 
 rb6_B7 = pyK2Z1NF(-784089282, P55uPI, 1700561667);
 
@@ -247,7 +247,7 @@ while (j < 5);
 }
 else if (rb6_B7 == 630159789)
 {
-rb6_B7 = cGK2h(-563047380, -140159707, -1558367008, -710056772, 1209068874);
+rb6_B7 = cGK2h(-563047380, -140159707, -1558367008, -710056772, (unsigned short)1209068874);
 }
 else
 {
@@ -264,7 +264,7 @@ rb6_B7 -= 1909541793;
 }
 }
 
-std::cout << cGK2h(-672922007, 879234872, rb6_B7, 2131444862, -884030535) << VLN4 << std::endl;
+std::cout << cGK2h(-672922007, 879234872, rb6_B7, 2131444862, (unsigned short)-884030535) << VLN4 << std::endl;
 rb6_B7 <<= 1430373307;
 
 for (int i = 0; i < 2; i++)
@@ -325,7 +325,7 @@ switch (VLN4)
 {
 case 'a':
 case 'A':
-rb6_B7 = cGK2h(1493661089, 2002014384, VLN4, -803112965, -186439796);
+rb6_B7 = cGK2h(1493661089, 2002014384, VLN4, -803112965, (unsigned short)-186439796);
 break;
 case 'b':
 case 'B':
@@ -344,7 +344,7 @@ case 'E':
 P55uPI = Jk8x5wOP(-931843322, 1265600821, rb6_B7, 1416386316);
 break;
 default:
-rb6_B7 = cGK2h(rb6_B7, P55uPI, -795870876, -144149992, -34378414);
+rb6_B7 = cGK2h(rb6_B7, P55uPI, -795870876, -144149992, (unsigned short)-34378414);
 break;
 }
 }
@@ -354,7 +354,7 @@ std::cout << VLN4 << "gOYW6O" << std::endl;
 switch (rb6_B7)
 {
 case 0:
-VLN4 = Jk8x5wOP(-123044872, VLN4, 471365532, 501163457);
+VLN4 = Jk8x5wOP(-123044872, VLN4, (short)471365532, 501163457);
 break;
 case 1:
 rb6_B7 += rb6_B7;

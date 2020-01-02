@@ -37,7 +37,7 @@ int main(void) {
   unsigned long long  ixS6__O  =  -170378904;
   double  ELRv  =  1771506320;
     unsigned int    o2Vd    =    -1840202118;
-  short  o507xkz8tp  =  -1471151445;
+  short  o507xkz8tp  =  (short)-1471151445;
   short int  ihjz7Vx_e  =  -625582453;
 	unsigned short int	V5sU8lz3G	=	-209272264;
     int    DJBPmXcO    =    1340684673;
@@ -49,7 +49,7 @@ int main(void) {
  short int Vu_9D50nSD = 884110490;
  float fVXc5 = 519118966;
 	long	IvcvGPNTo	=	-936843270;
-	char	Wk51xE	=	1311849430;
+	char	Wk51xE	=	(char)1311849430;
 	long double	HbCVOlBT8e	=	368449852;
  char SJn8Mn = -1244700536;
   double  EV7sV_  =  1614156114;
@@ -64,7 +64,7 @@ int main(void) {
  float CqdW_e = 282335580;
  int gpCz1b6M1 = 1110723929;
  short int Zz5G00 = -1069709269;
-  short  vf7m0_3y7  =  -1962860028;
+  short  vf7m0_3y7  =  (short)-1962860028;
   unsigned int  wX6Fj3t_1  =  -980943148;
     char    TgbpJ3    =    -489910897;
   long double  wT7A  =  -1407469066;
@@ -77,7 +77,7 @@ int main(void) {
   unsigned int  LxN56  =  -465008591;
  unsigned long long aN47 = 0;
     unsigned short int    sOcy6zK_V    =    -501369316;
-	unsigned char	k9D9juP	=	-1228763213;
+	unsigned char	k9D9juP	=	(unsigned char)-1228763213;
  long EP20mBR = -1346711524;
   double  p5Wd  =  483599500;
 	short int	t8Ca9iG67_	=	-728978628;
@@ -251,7 +251,7 @@ cout << ixS6__O << "Ksv7eQ" << DOUs6 << vIum3KSPJ(-761774950, -1759023380) << xg
 
 if (vf7m0_3y7)
 {
-wT7A = vIum3KSPJ(wT7A, 1618434018);
+wT7A = vIum3KSPJ(wT7A, (short)1618434018);
 }
 
 O3dHzh7rBZ <<= Osa1;

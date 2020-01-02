@@ -35,7 +35,7 @@ int main(int argc, char** argv)
  short F_8cTg87xy;
  F_8cTg87xy = -711128994;
 	unsigned char	w010kW8;
-	w010kW8	=	-1621758551;
+	w010kW8	=	(unsigned char)-1621758551;
 	unsigned char	Aw0p15c;
 	Aw0p15c	=	1913483183;
 	char	ws_J02EE1C;
@@ -53,7 +53,7 @@ int main(int argc, char** argv)
   unsigned long  m0c9gI;
   m0c9gI  =  -1266965126;
     short int    z5szR;
-    z5szR    =    8765909;
+    z5szR    =    (short)8765909;
     unsigned long    R9o2_3;
     R9o2_3    =    1998563454;
   unsigned short  BnrD6;
@@ -63,7 +63,7 @@ int main(int argc, char** argv)
  float E48tv2um;
  E48tv2um = 1262208846;
 	short int	GhkPU;
-	GhkPU	=	-1134806468;
+	GhkPU	=	(short)-1134806468;
  int QITJWQp;
  QITJWQp = -745056691;
 
@@ -91,7 +91,7 @@ case 3:
 vV9S_ = hgZO(-1819435024, aoknPwW_y, 1029434350);
 break;
 case 4:
-dT_Q = Gx6O_5(-1492439679, aoknPwW_y, mFoq4k_E, TN_495DOz) / TN_495DOz;
+dT_Q = Gx6O_5((short)-1492439679, aoknPwW_y, mFoq4k_E, TN_495DOz) / TN_495DOz;
 break;
 case 5:
 w010kW8 /= 1924566116;
@@ -132,7 +132,7 @@ while (i < 3);
 }
 TpQ3 = Gx6O_5(-215073530, -1486016385, Aw0p15c, R9o2_3);
 
-TpQ3 = Gx6O_5(GhkPU, 382531066, 1275976796, 1985428357);
+TpQ3 = Gx6O_5(GhkPU, 382531066, (short)1275976796, 1985428357);
 TN_495DOz = aoknPwW_y / Gx6O_5(126416108, 1157589278, aoknPwW_y, TN_495DOz);
 for (int i = 6; i >= 0; --i)
 {
@@ -161,7 +161,7 @@ mFoq4k_E = (int)abs(GhkPU);
 break;
 case 'b':
 case 'B':
-TpQ3 = Gx6O_5(-2019354612, -610195518, mFoq4k_E, -1983772784);
+TpQ3 = Gx6O_5(-2019354612, -610195518, mFoq4k_E, (unsigned short)-1983772784);
 break;
 case 'c':
 case 'C':

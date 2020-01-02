@@ -43,7 +43,7 @@ int main(int argc, char** argv)
 	long double	P07I9OwyJ6;
 	P07I9OwyJ6	=	-1729874405;
 	unsigned char	r_X3NyELY;
-	r_X3NyELY	=	2058084152;
+	r_X3NyELY	=	(unsigned char)2058084152;
 	unsigned short int	tHG9qzmu;
 	tHG9qzmu	=	1167728818;
 	unsigned short int	ukKNtg;
@@ -55,7 +55,7 @@ int main(int argc, char** argv)
     unsigned int    FUM2tLq;
     FUM2tLq    =    702618955;
   unsigned char  w7OHh14aC;
-  w7OHh14aC  =  305234799;
+  w7OHh14aC  =  (unsigned char)305234799;
   float  BJ4EcgxU;
   BJ4EcgxU  =  1441098035;
  unsigned int pG8_MYf5_;
@@ -69,7 +69,7 @@ int main(int argc, char** argv)
   unsigned int  jzQHow2;
   jzQHow2  =  -614221930;
   short int  NpgT7lhkQ5;
-  NpgT7lhkQ5  =  1569260481;
+  NpgT7lhkQ5  =  (short)1569260481;
  short int a640;
  a640 = 1521435572;
   short  dAZ_s;
@@ -81,7 +81,7 @@ int main(int argc, char** argv)
   short  y2YA;
   y2YA  =  -707380080;
     unsigned short    u2qA7GC1D2;
-    u2qA7GC1D2    =    -752521046;
+    u2qA7GC1D2    =    (unsigned short)-752521046;
 
 P07I9OwyJ6 = (int)floor(BJ4EcgxU);
 
@@ -96,7 +96,7 @@ P07I9OwyJ6 = (int)ceil(YzIw);
 
 BJ4EcgxU = (float)(n8AknllB4c + (-558954950));
 
-cout << pnu1Dt(z6mwVi, -1806136550, YzIw) / eCK_(1466346338, 754747192) << endl;
+cout << pnu1Dt(z6mwVi, -1806136550, YzIw) / eCK_(1466346338, (unsigned short)754747192) << endl;
 
 if (sU0XDQO1)
 {
@@ -193,7 +193,7 @@ else
 {
 if (U8Fa4 >= 447789454)
 {
-cout << pnu1Dt(-786519055, Ad3QP, 552111035) << "YTIOpx0cI1" << eCK_(-877694931, Ad3QP) << "GDi97" << pnu1Dt(135649661, Ad3QP, -1615052194) << endl;
+cout << pnu1Dt(-786519055, Ad3QP, 552111035) << "YTIOpx0cI1" << eCK_(-877694931, Ad3QP) << "GDi97" << pnu1Dt((unsigned char)135649661, Ad3QP, -1615052194) << endl;
 }
 else if (ur9N3HN8Z != rAk2O9)
 {
@@ -204,7 +204,7 @@ a640 = (int)abs(BJ4EcgxU);
 }
 else if (V_6tChV0J2 <= -1253252959)
 {
-P07I9OwyJ6 = pnu1Dt(-1102880407, -408804313, -458950856);
+P07I9OwyJ6 = pnu1Dt(-1102880407, (unsigned short)-408804313, -458950856);
 }
 else
 {
@@ -241,7 +241,7 @@ case 0:
 Nz4FTQZiHN = (NpgT7lhkQ5 == -1184142785) ? -1497443940 : u2qA7GC1D2;
 break;
 case 1:
-Nz4FTQZiHN = pnu1Dt(1630976497, 1785131858, lkaM5UdBll);
+Nz4FTQZiHN = pnu1Dt((unsigned char)1630976497, 1785131858, lkaM5UdBll);
 break;
 case 2:
 U8Fa4 /= 898442431;
@@ -269,7 +269,7 @@ while (k < 7);
 
 n8AknllB4c = eCK_(-664841891, 386395863);
 FUM2tLq = k_ZQ_D8 & V_6tChV0J2;
-YzIw = (BJ4EcgxU > -1634852283) ? pnu1Dt(rAk2O9, 497998369, 1188219565) : 390068135;
+YzIw = (BJ4EcgxU > -1634852283) ? pnu1Dt(rAk2O9, (unsigned short)497998369, 1188219565) : 390068135;
 
 return 0;
 }

@@ -17,7 +17,7 @@ int main(int argc, char** argv) {
  short ffayJ;
  ffayJ = 95745285;
  unsigned short int SaNFA;
- SaNFA = 545145741;
+ SaNFA = (unsigned short)545145741;
  unsigned short int Vry28K;
  Vry28K = -878329587;
  long double H8gMe;
@@ -29,7 +29,7 @@ int main(int argc, char** argv) {
  long long e7_x;
  e7_x = 197577586;
  char z_4Tt;
- z_4Tt = -1963528670;
+ z_4Tt = (char)-1963528670;
 	double	ATZtY532FV;
 	ATZtY532FV	=	2065117081;
 	unsigned short	c0_d0W_G;
@@ -59,7 +59,7 @@ int main(int argc, char** argv) {
 	unsigned short int	PWDHyBWN;
 	PWDHyBWN	=	0;
   unsigned short  WecV7vz;
-  WecV7vz  =  -706620697;
+  WecV7vz  =  (unsigned short)-706620697;
 	long double	MWX9;
 	MWX9	=	1978554945;
     unsigned long    Sr7iX_h;
@@ -69,7 +69,7 @@ int main(int argc, char** argv) {
   unsigned short int  mJlE95F5;
   mJlE95F5  =  0;
   unsigned short  Q2s_;
-  Q2s_  =  -1171636455;
+  Q2s_  =  (unsigned short)-1171636455;
     long long    RQZQz3;
     RQZQz3    =    -1492293802;
 	unsigned int	z238Bvat;
@@ -83,7 +83,7 @@ int main(int argc, char** argv) {
  long long O_go_;
  O_go_ = 1878129363;
     short    Dnzdg;
-    Dnzdg    =    1078567588;
+    Dnzdg    =    (short)1078567588;
  short int xja889n;
  xja889n = 594429279;
   char  O84YTw;
@@ -107,7 +107,7 @@ int main(int argc, char** argv) {
   unsigned short int  bk3M4pu;
   bk3M4pu  =  -1969118818;
   unsigned short  wEU0P3V2;
-  wEU0P3V2  =  1640055169;
+  wEU0P3V2  =  (unsigned short)1640055169;
 	unsigned char	wsM0x1s2sm;
 	wsM0x1s2sm	=	-866223821;
   long double  VDf_aZjf0;
@@ -123,7 +123,7 @@ int main(int argc, char** argv) {
     long    v00wt1;
     v00wt1    =    -977122751;
   char  ngeBBK4DQT;
-  ngeBBK4DQT  =  -1249427117;
+  ngeBBK4DQT  =  (char)-1249427117;
  unsigned char GFl3_wPC7;
  GFl3_wPC7 = 0;
  short us7pxxo;
@@ -147,7 +147,7 @@ int main(int argc, char** argv) {
  unsigned short int l0_3__y1;
  l0_3__y1 = 611014843;
 	unsigned short	aUOo_sA1;
-	aUOo_sA1	=	53586624;
+	aUOo_sA1	=	(unsigned short)53586624;
 	unsigned int	Qvv063;
 	Qvv063	=	-64552090;
   unsigned short  sG4903S0;

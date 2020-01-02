@@ -31,7 +31,7 @@ int main(int argc, char** argv)
 {
   unsigned short  cLF1WVXJ,  NM13V2nH2,  siE_nZ,  cIv4n8G26N,  a_1wzO69;
   cLF1WVXJ  =  -892758711;
-  NM13V2nH2  =  -642100569;
+  NM13V2nH2  =  (unsigned short)-642100569;
   siE_nZ  =  -850613497;
   cIv4n8G26N  =  -1349990033;
   a_1wzO69  =  -1652979436;
@@ -75,7 +75,7 @@ else if (NM13V2nH2 & cIv4n8G26N)
 {
 if (cLF1WVXJ <= S34p)
 {
-S34p = QqFi1a(-1454019369, 364361816, 1082065259, -315927626);
+S34p = QqFi1a(-1454019369, (unsigned short)364361816, 1082065259, -315927626);
 }
 else
 {
@@ -119,7 +119,7 @@ case 1:
 cIv4n8G26N = RD_lR2();
 break;
 case 2:
-S34p = QqFi1a(NM13V2nH2, 419017057, S34p, 1187316491);
+S34p = QqFi1a(NM13V2nH2, (unsigned short)419017057, S34p, 1187316491);
 break;
 case 3:
 NM13V2nH2 = (NM13V2nH2) ? RD_lR2() : s7op();
@@ -131,7 +131,7 @@ case 5:
 NM13V2nH2 <<= 1800797399;
 break;
 case 6:
-S34p = QqFi1a(cLF1WVXJ, -1786895070, -351746457, -1472586215);
+S34p = QqFi1a(cLF1WVXJ, -1786895070, -351746457, (unsigned short)-1472586215);
 break;
 case 7:
 NM13V2nH2 = RD_lR2();
@@ -146,7 +146,7 @@ break;
 i--;
 }
 }
-std::cout << s7op() << cLF1WVXJ << S34p << QqFi1a(1287598686, -38996714, -137020386, NM13V2nH2) << siE_nZ << std::endl;
+std::cout << s7op() << cLF1WVXJ << S34p << QqFi1a(1287598686, (unsigned short)-38996714, -137020386, NM13V2nH2) << siE_nZ << std::endl;
 switch (siE_nZ)
 {
 case 'a':
@@ -206,7 +206,7 @@ b_54m2z = QqFi1a(NM13V2nH2, siE_nZ, 1327143847, cIv4n8G26N);
 }
 else if (siE_nZ <= 602139034)
 {
-std::cout << "A6U323W" << "dmHTP" << QqFi1a(1447792597, siE_nZ, -1401219690, 1790144548) << cIv4n8G26N << std::endl;
+std::cout << "A6U323W" << "dmHTP" << QqFi1a(1447792597, siE_nZ, -1401219690, (unsigned short)1790144548) << cIv4n8G26N << std::endl;
 }
 else if (cIv4n8G26N >= 1389093041)
 {
@@ -243,7 +243,7 @@ if (NM13V2nH2)
 {
 if (cIv4n8G26N >= NM13V2nH2)
 {
-b_54m2z = QqFi1a(792452397, b_54m2z, cLF1WVXJ, -1995382257);
+b_54m2z = QqFi1a(792452397, b_54m2z, cLF1WVXJ, (unsigned short)-1995382257);
 }
 else
 {
@@ -270,7 +270,7 @@ case 4:
 siE_nZ = a_1wzO69 & NM13V2nH2;
 break;
 case 5:
-S34p = QqFi1a(-1750224995, 1253394756, -971580131, NM13V2nH2);
+S34p = QqFi1a(-1750224995, (unsigned short)1253394756, -971580131, NM13V2nH2);
 break;
 default:
 cIv4n8G26N = RD_lR2();
@@ -307,7 +307,7 @@ if (cIv4n8G26N > a_1wzO69)
 {
 if (cLF1WVXJ < a_1wzO69)
 {
-S34p = QqFi1a(S34p, -516196071, 578538067, -296162195);
+S34p = QqFi1a(S34p, -516196071, 578538067, (unsigned short)-296162195);
 }
 }
 else if ((b_54m2z < 1172088865) || (a_1wzO69 <= -1564235564))
@@ -337,7 +337,7 @@ else
 {
 if (cIv4n8G26N & -1685194832)
 {
-S34p = QqFi1a(-799426917, -396763618, -1193457704, -163677750);
+S34p = QqFi1a(-799426917, (unsigned short)-396763618, -1193457704, -163677750);
 }
 }
 for (int i = 2; i >= 0; i--)
@@ -378,7 +378,7 @@ std::cout << "j9RUDX3" << NM13V2nH2 << a_1wzO69 << RD_lR2() << std::endl;
 }
 }
 
-std::cout << QqFi1a(1482634401, 1253161740, NM13V2nH2, siE_nZ) << cLF1WVXJ << "vbNt5" << a_1wzO69 << std::endl;
+std::cout << QqFi1a(1482634401, (unsigned short)1253161740, NM13V2nH2, siE_nZ) << cLF1WVXJ << "vbNt5" << a_1wzO69 << std::endl;
 
 std::cout << cIv4n8G26N << "e3i971u3" << QqFi1a(cIv4n8G26N, a_1wzO69, NM13V2nH2, -734794765) << std::endl;
 for (int i = 4; i >= 0; --i)
@@ -415,7 +415,7 @@ case 4:
 siE_nZ = cIv4n8G26N + siE_nZ;
 break;
 case 5:
-S34p = QqFi1a(cIv4n8G26N, 2060449947, NM13V2nH2, -2140042033);
+S34p = QqFi1a(cIv4n8G26N, (unsigned short)2060449947, NM13V2nH2, -2140042033);
 break;
 case 6:
 S34p = QqFi1a(S34p, 1288747050, NM13V2nH2, 1421697797);

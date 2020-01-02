@@ -148,7 +148,7 @@ catch (int& errorCode)
 {
 u7hF8_DV = Kbuuas(u7hF8_DV);
 }
-QxiK37 = oKG83(167616201) / O2m8L5sHfo(1306132578, i5tYI25, -2013939891);
+QxiK37 = oKG83(167616201) / O2m8L5sHfo(1306132578, i5tYI25, (unsigned char)-2013939891);
 {
 int i = 2;
 while (i >= 0)
@@ -191,7 +191,7 @@ el8yQ34 /= 1551375614;
 break;
 case 'b':
 case 'B':
-JDXe_RUMA = O2m8L5sHfo(892638946, p42h5MH9, 750984450);
+JDXe_RUMA = O2m8L5sHfo(892638946, p42h5MH9, (unsigned char)750984450);
 break;
 case 'c':
 case 'C':

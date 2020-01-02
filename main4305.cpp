@@ -37,7 +37,7 @@ int main(void) {
 	tKUnty0n	=	0;
 	BQ7qI5	=	0;
 
-BQ7qI5 = hN_LN8v(BQ7qI5, -935661507, -1152032688, 837345899);
+BQ7qI5 = hN_LN8v(BQ7qI5, -935661507, (unsigned char)-1152032688, 837345899);
 try
 {
 if (((i7w9 & ICH6dOYUT) && (ICH6dOYUT != Ius_i3YPOV)) && (AgjH0bdf >= mers5euY))
@@ -117,7 +117,7 @@ LqVSZn = Ius_i3YPOV * lOi_MmkO;
 }
 else if (i7w9 <= 1663978407)
 {
-BQ7qI5 = hN_LN8v(l4cQJ, 1905869476, -1502599490, -366442457);
+BQ7qI5 = hN_LN8v(l4cQJ, 1905869476, (unsigned char)-1502599490, -366442457);
 }
 else if (((QXeXF_m != mers5euY) && (tKUnty0n <= IAz7ZLz)) || (buFt))
 {
@@ -132,7 +132,7 @@ std::cout << yS36M1uz(699362708, BQ7qI5) << "I3ZPRv_CD" << std::endl;
 }
 else
 {
-xsxY = hN_LN8v(277670408, xsxY, 724226798, AgjH0bdf);
+xsxY = hN_LN8v(277670408, xsxY, (unsigned char)724226798, AgjH0bdf);
 }
 std::cout << "b292Gi" << hN_LN8v(-473337598, 23661908, BQ7qI5, AgjH0bdf) << std::endl;
 tKUnty0n = (int)abs(ICH6dOYUT);
@@ -159,7 +159,7 @@ i--;
 std::cout << mers5euY / hN_LN8v(-1086192633, xsxY, BQ7qI5, AgjH0bdf) << std::endl;
 
 AgjH0bdf = (unsigned int)(tKUnty0n + (1870634260));
-LqVSZn = f8P_6m(564123711, -772641563, buFt, 1551814285);
+LqVSZn = f8P_6m(564123711, (char)-772641563, buFt, 1551814285);
 
 if (buFt >= -1378870670)
 {
@@ -176,7 +176,7 @@ while (j >= 0);
 switch (QXeXF_m)
 {
 case 0:
-QXeXF_m = f8P_6m(-1910565601, 384743020, i7w9, LqVSZn);
+QXeXF_m = f8P_6m(-1910565601, (char)384743020, i7w9, LqVSZn);
 break;
 case 1:
 i7w9++;
@@ -191,7 +191,7 @@ case 4:
 tKUnty0n = (int)abs(xsxY);
 break;
 case 5:
-l4cQJ = f8P_6m(503974535, -1156386135, zFjFkPeK9, 1397266873);
+l4cQJ = f8P_6m(503974535, (char)-1156386135, zFjFkPeK9, 1397266873);
 break;
 case 6:
 BQ7qI5 = (int)abs(ICH6dOYUT);

@@ -26,7 +26,7 @@ int main(int argc, char** argv) {
  double KEP26Vj2v = -168829771;
  long WeryO03GHm = 971107810;
     unsigned char    dytb9nBk3T    =    938029066;
- short int x0eB = 153220335;
+ short int x0eB = (short)153220335;
   char  C8XX2  =  -1027391792;
   int  kK665lLL  =  0;
 	long double	w2SP	=	1328782580;
@@ -60,7 +60,7 @@ while (i < 6);
 }
 
 KEP26Vj2v = D56125_(KEP26Vj2v, 759750758, -1664357502);
-cout << "zMe4Is6" << D56125_(-506432368, e78dlM, oMUN6R) << WeryO03GHm << endl;
+cout << "zMe4Is6" << D56125_((unsigned short)-506432368, e78dlM, oMUN6R) << WeryO03GHm << endl;
 if (oMUN6R != -1672601100)
 {
 oK5LX = (int)abs(kK665lLL);
@@ -138,7 +138,7 @@ case 'b':
 xt2I = oUP12b0Vb(xt2I, -1427298409, x0eB);
 break;
 case 'c':
-x0eB = D56125_(-796520085, 680046932, 901600246);
+x0eB = D56125_(-796520085, (char)680046932, 901600246);
 break;
 case 'd':
 WeryO03GHm = u1dV28oaN(WeryO03GHm);
@@ -196,7 +196,7 @@ else
 {
 if (f32_tW0_ZG < -1547248085)
 {
-Ubxl_0Fd0A = wCVjq(-825699008, KEP26Vj2v, 1076688966, MsWXKO58X);
+Ubxl_0Fd0A = wCVjq(-825699008, KEP26Vj2v, (unsigned short)1076688966, MsWXKO58X);
 }
 }
 }
@@ -243,7 +243,7 @@ Ubxl_0Fd0A = (int)floor(MsWXKO58X);
 }
 else if (K15V_9d)
 {
-dytb9nBk3T = wCVjq(-683638542, -1138429716, 233028064, oMUN6R);
+dytb9nBk3T = wCVjq(-683638542, -1138429716, (unsigned short)233028064, oMUN6R);
 }
 else if ((KEP26Vj2v > C8XX2) || (WeryO03GHm <= 530597392))
 {
@@ -304,7 +304,7 @@ while (j >= 0);
 }
 }
 
-cout << D56125_(1221941427, C8XX2, e78dlM) << dytb9nBk3T << wCVjq(dytb9nBk3T, C8XX2, e78dlM, 1002608774) << oK5LX << endl;
+cout << D56125_(1221941427, C8XX2, e78dlM) << dytb9nBk3T << wCVjq(dytb9nBk3T, C8XX2, e78dlM, (char)1002608774) << oK5LX << endl;
 
 if (DJP88ZWqjK < f32_tW0_ZG)
 {
@@ -323,7 +323,7 @@ else if (K15V_9d > -1380921376)
 {
 try
 {
-WeryO03GHm = D56125_(-1579891987, -1072591556, -493167420);
+WeryO03GHm = D56125_(-1579891987, (char)-1072591556, -493167420);
 }
 catch (int& errorCode)
 {
@@ -342,7 +342,7 @@ MsWXKO58X = (int)floor(Ubxl_0Fd0A);
 }
 else
 {
-w2SP = D56125_(-1611829332, 676455792, x0eB);
+w2SP = D56125_(-1611829332, (char)676455792, x0eB);
 }
 }
 else
@@ -455,7 +455,7 @@ short int u1dV28oaN(int S6l40M) {
 
 unsigned char	D56125_(unsigned short int	FeEKUH,char	VC1V,unsigned long	b15giS)
 {
-	return	-2035253298;
+	return	(unsigned char)-2035253298;
 }
 
 short    oUP12b0Vb(unsigned short    JLc_2,unsigned int    IF_l23_p,long long    i_Fu)    {

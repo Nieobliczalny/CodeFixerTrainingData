@@ -30,7 +30,7 @@ int main(void)
 	long	VHc6;
 	VHc6	=	-61003554;
  short gxFAq;
- gxFAq = 1575588098;
+ gxFAq = (short)1575588098;
     float    K48Z54x4lb;
     K48Z54x4lb    =    1552985713;
  double GCSyTQNt53;
@@ -40,7 +40,7 @@ int main(void)
  unsigned int Wi9X;
  Wi9X = -1357513562;
   unsigned char  l69B99d;
-  l69B99d  =  1893954222;
+  l69B99d  =  (unsigned char)1893954222;
     float    czA9_5L34h;
     czA9_5L34h    =    -1242515693;
   short int  Ik0sW;
@@ -56,7 +56,7 @@ int main(void)
   unsigned long long  y52_U31S0k;
   y52_U31S0k  =  911260298;
     short int    IR9Vs16Gnm;
-    IR9Vs16Gnm    =    -195255761;
+    IR9Vs16Gnm    =    (short)-195255761;
 	unsigned short	NqcGE_QLh;
 	NqcGE_QLh	=	0;
  unsigned long long PB_ngw;
@@ -90,7 +90,7 @@ int main(void)
   unsigned long  QFg5yfnGBt;
   QFg5yfnGBt  =  -1026806402;
   unsigned char  lA__odFO_;
-  lA__odFO_  =  906851485;
+  lA__odFO_  =  (unsigned char)906851485;
  unsigned short gSgoNztSJ;
  gSgoNztSJ = 177155547;
 	unsigned short	QpfmjoJ4;
@@ -110,7 +110,7 @@ int main(void)
 	double	tkn9lbl;
 	tkn9lbl	=	-889285884;
     unsigned char    Y9DMLBP;
-    Y9DMLBP    =    1320863294;
+    Y9DMLBP    =    (unsigned char)1320863294;
 
 try
 {

@@ -19,7 +19,7 @@ long    M8tan36V(int    s2c6,short int    e1j2o,short    G2DF72XKK,short    w18_
 
 int main(int argc, char** argv) {
   short  j6O42TyQ  =  1139388592;
-  short  yzaok6HM_  =  -225392272;
+  short  yzaok6HM_  =  (short)-225392272;
 	unsigned long long	x2BZnR5CVD	=	-303097809;
   unsigned short  HS3m4E  =  -1114167903;
   char  ur3w3  =  1734094862;
@@ -94,7 +94,7 @@ try
 switch (ur3w3)
 {
 case 0:
-q4Cl89 = M8tan36V(q4Cl89, 1147010449, ur3w3, -895711469);
+q4Cl89 = M8tan36V(q4Cl89, 1147010449, ur3w3, (short)-895711469);
 break;
 case 1:
 LxQ0D = M8tan36V(-1903415222, 1081712786, UHZ9_412, x2BZnR5CVD);
@@ -192,7 +192,7 @@ Fkr5uTMJ = Jg6_(947370425, ur3w3, x2BZnR5CVD, UHZ9_412, -1655680048);
 break;
 case 'b':
 case 'B':
-yzaok6HM_ = M8tan36V(yzaok6HM_, LxQ0D, 1053382714, -1442116292);
+yzaok6HM_ = M8tan36V(yzaok6HM_, LxQ0D, 1053382714, (short)-1442116292);
 break;
 case 'c':
 case 'C':
@@ -215,7 +215,7 @@ case 'G':
 yzaok6HM_ = (int)abs(ur3w3);
 break;
 default:
-UHZ9_412 = M8tan36V(-474090403, 1761655821, x2BZnR5CVD, -800450537);
+UHZ9_412 = M8tan36V(-474090403, 1761655821, x2BZnR5CVD, (short)-800450537);
 break;
 }
 j++;
@@ -382,7 +382,7 @@ if (x2BZnR5CVD & L3h_f88Tc)
 std::cout << L3h_f88Tc << ur3w3 << Fkr5uTMJ << "Ikd25N6" << Jg6_(836357939, 1873935839, j6O42TyQ, q4Cl89, L3h_f88Tc) << std::endl;
 }
 x2BZnR5CVD = j6O42TyQ ^ q4Cl89;
-ur3w3 = (Fkr5uTMJ == 819397360) ? 1237166123 : j6O42TyQ;
+ur3w3 = (Fkr5uTMJ == 819397360) ? (char)1237166123 : j6O42TyQ;
 if (L3h_f88Tc < -208173577)
 {
 if (L3h_f88Tc < LfL7qI)
@@ -461,7 +461,7 @@ try
 int k = 0;
 do
 {
-yzaok6HM_ = M8tan36V(yzaok6HM_, -946951748, 815246467, q4Cl89);
+yzaok6HM_ = M8tan36V(yzaok6HM_, -946951748, (short)815246467, q4Cl89);
 k++;
 }
 while (k < 6);
@@ -488,7 +488,7 @@ Fkr5uTMJ = Jg6_(yzaok6HM_, j6O42TyQ, x2BZnR5CVD, q4Cl89, Fkr5uTMJ);
 break;
 case 'c':
 case 'C':
-LxQ0D = M8tan36V(LxQ0D, ur3w3, 941137459, -87928718);
+LxQ0D = M8tan36V(LxQ0D, ur3w3, 941137459, (short)-87928718);
 break;
 case 'd':
 case 'D':

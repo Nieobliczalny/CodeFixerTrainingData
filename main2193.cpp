@@ -145,7 +145,7 @@ for (int i = 5; i >= 0; i--)
 P8eRg = pdOm(Qhx9V);
 }
 
-lvXI_RAxQA = gRe2(-213585221, g_dVN, QU_fv82b);
+lvXI_RAxQA = gRe2((short)-213585221, g_dVN, QU_fv82b);
 
 P8eRg = pdOm(-1039546658);
 try

@@ -24,7 +24,7 @@ int main(void)
 	long long	XrXM	=	-461580855;
     unsigned long    Ot64    =    0;
     float    nR4IG    =    1463073714;
-    short    a41Rb1C    =    1986611890;
+    short    a41Rb1C    =    (short)1986611890;
 	short int	m82ZhE	=	1614002896;
  long O8eWp4 = 0;
 	unsigned long	cz_Y2	=	0;
@@ -38,7 +38,7 @@ int main(void)
     unsigned long long    jyX0Wp3    =    -323683309;
  unsigned long ft7q = 1631737877;
 	float	p6aL	=	-361282016;
-  char  pZ55T0W6  =  58822880;
+  char  pZ55T0W6  =  (char)58822880;
     float    S4928u    =    -899112773;
  double JR9532Wm3J = -222309120;
   double  ViVZY9723  =  1910302147;

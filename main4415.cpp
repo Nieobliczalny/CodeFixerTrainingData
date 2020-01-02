@@ -27,6 +27,7 @@ unsigned long long X4pG3() {
 }
 
 int main() {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
     short    OA_x    =    -1406593386,    JfF0    =    -1466912020,    vCv796    =    1989267328,    WA6L8FXp8    =    1238703867,    d_7_1bCZ61    =    648798803,    f76aw    =    1023320530,    ObvO11    =    1448187439,    O6uL0fJD    =    681553833,    vbdD4Qx03    =    -405787399,    SOG8io25az    =    4828025,    B7kfJ3aP    =    1756116789,    Ee1fbc1m    =    1271352493,    mi4a27gj6G    =    1447210657,    z96_Z_IB    =    -1781899222,    q6Uy    =    1811785632,    OY9SQo4559    =    625810473,    eWJ_8OZ3Yd    =    -1260705590,    S6ARXmcJa    =    1647385865,    v91VGxS6s    =    -623277145,    J75plEZb    =    448465274,    xrUuT    =    -864316565,    m_Ln4Cq    =    -1161478010,    gqdqPN18h4    =    -1938218636;
   long  E1T6T_H  =  0,  cluGF  =  0,  dQIPxK8G34  =  0,  l8BL1APg  =  0,  Q75d6  =  0;
 
@@ -275,7 +276,7 @@ f76aw = (int)abs(OY9SQo4559);
 }
 else if ((B7kfJ3aP <= m_Ln4Cq) && ((OY9SQo4559 & zlaY) && (E1T6T_H)))
 {
-l8BL1APg = z23p(1547059314, 1587010925, 1276315668);
+l8BL1APg = z23p((short)1547059314, 1587010925, 1276315668);
 }
 else if (xrUuT < f76aw)
 {

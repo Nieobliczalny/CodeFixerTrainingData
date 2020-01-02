@@ -43,7 +43,7 @@ do
 int k = 0;
 while (k < 2)
 {
-D_XBR_ = d6Mu(15186684, -591772021) | 1999285353;
+D_XBR_ = d6Mu(15186684, (short)-591772021) | 1999285353;
 k++;
 }
 }
@@ -64,7 +64,7 @@ do
 j--;
 if (Z8y6x4eE6L >= 1673329583)
 {
-kT2YcFi = d6Mu(-2088592296, 1925761265);
+kT2YcFi = d6Mu(-2088592296, (short)1925761265);
 }
 }
 while (j >= 0);
@@ -75,7 +75,7 @@ try
 {
 if (x7PP9 == L4nUSo66Rc)
 {
-std::cout << "k69mSrh_" << d6Mu(p1_MEd3, 1818912372) << d6Mu(p1_MEd3, pkjf3d1e) << U2BGr2GtX << d6Mu(p1_MEd3, -798334376) << std::endl;
+std::cout << "k69mSrh_" << d6Mu(p1_MEd3, 1818912372) << d6Mu(p1_MEd3, pkjf3d1e) << U2BGr2GtX << d6Mu(p1_MEd3, (short)-798334376) << std::endl;
 }
 else if (lL4nE7N >= RE_h8)
 {
@@ -93,7 +93,7 @@ catch (int& errorCode)
 {
 pkjf3d1e = stukK6V9Ki ^ 2110067624;
 }
-kT2YcFi = d6Mu(-45761237, vOwAF);
+kT2YcFi = d6Mu((unsigned char)-45761237, vOwAF);
 
 EVu7W7 = -260187810 / d6Mu(2007263138, -2042370298);
 Iuprw38 = d6Mu(1742457057, 1050794009);
@@ -124,7 +124,7 @@ catch (int& errorCode)
 {
 VGxXELFr9 = gtisNKX >> 1140491926;
 }
-GQ2_WFq55 = d6Mu(-733538969, 302161071);
+GQ2_WFq55 = d6Mu(-733538969, (short)302161071);
 try
 {
 switch (U2BGr2GtX)
@@ -154,7 +154,7 @@ else if ((Ctb06zBL0g < RE_h8) && (Ctb06zBL0g >= EC_kB5b))
 {
 try
 {
-gtisNKX = d6Mu(1654293008, ckY728);
+gtisNKX = d6Mu((unsigned char)1654293008, ckY728);
 }
 catch (int& errorCode)
 {
@@ -254,7 +254,7 @@ else
 {
 if (eIruOZ3 > VGxXELFr9)
 {
-kT2YcFi = d6Mu(871220866, -232168555);
+kT2YcFi = d6Mu(871220866, (short)-232168555);
 }
 else if (VGxXELFr9 >= Zojm)
 {
@@ -270,7 +270,7 @@ Iuprw38 = d6Mu(1858693565, y3PK7g);
 }
 else if (ckY728 & L4nUSo66Rc)
 {
-kT2YcFi = d6Mu(-430997325, 2102423949);
+kT2YcFi = d6Mu((unsigned char)-430997325, 2102423949);
 }
 else if (Z8y6x4eE6L >= gtisNKX)
 {
@@ -313,7 +313,7 @@ case 7:
 hk9n9I -= M6w9;
 break;
 default:
-Iuprw38 = d6Mu(725512562, -2052485989);
+Iuprw38 = d6Mu(725512562, (short)-2052485989);
 break;
 }
 }
@@ -325,7 +325,7 @@ for (int j = 0; j < 3; ++j)
 {
 if (zbNhZhqQ_C & uk082Op6)
 {
-Iuprw38 = d6Mu(1364045621, 857269640);
+Iuprw38 = d6Mu(1364045621, (short)857269640);
 }
 else
 {
@@ -359,7 +359,7 @@ case 5:
 f1ZidmdEmI >>= lCOn8m69m;
 break;
 case 6:
-kT2YcFi = d6Mu(-1902001133, -1259948802);
+kT2YcFi = d6Mu((unsigned char)-1902001133, -1259948802);
 break;
 case 7:
 Iuprw38 = d6Mu(zbNhZhqQ_C, 1134108550);

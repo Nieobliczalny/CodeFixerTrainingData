@@ -168,7 +168,7 @@ yQ_kJV4 = V4C5W6t(1735030767);
 }
 else if (yGgf0ljxjv)
 {
-std::cout << V4C5W6t(1172180787) << a0Tj0 << C5wGE86W(F58k5R, jra2IiK, tK0KY0VI, -1230584128) << C5wGE86W(-2088558341, -1858724156, 930109892, QAMm7mqzBM) << std::endl;
+std::cout << V4C5W6t((unsigned short)1172180787) << a0Tj0 << C5wGE86W(F58k5R, jra2IiK, tK0KY0VI, -1230584128) << C5wGE86W(-2088558341, -1858724156, 930109892, QAMm7mqzBM) << std::endl;
 }
 else if (f9x9tUTW & 1496987672)
 {

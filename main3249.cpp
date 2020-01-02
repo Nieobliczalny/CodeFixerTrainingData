@@ -21,6 +21,7 @@ unsigned int	QCZ9(long	ehF9,unsigned long long	Ptqtp1bcwm);
 int main()
 {
 	long long	Uc4WG1	=	0;
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
   char  EUn14aF3_J  =  2136234833,  BUJ6En_huq  =  -2136178133,  Q944_J715  =  1961774811,  vBmq  =  1723942138,  I1C5  =  -1164165706,  v8S6K  =  -469335476,  ooVq  =  -564896742,  H0t8iWX  =  479818389,  P_6cS  =  -2077209711,  xsPfeFtF  =  1722530719,  gm3Tx  =  -324165882,  d_F_  =  38036833,  B_3C4xU8H8  =  -321439697,  c_KXygad  =  -1259128731,  BlM7  =  1366997935,  jSU38m  =  1563693232,  wib16  =  298261598,  QOk3UP5YT  =  -1042514392,  QkC7LC79  =  574310030,  WnYpmA366  =  -1301202861,  s00mj  =  -319636885,  fwrF  =  1492402679,  URm4t6S9  =  -457418584,  smr7  =  2095245422,  pggazC53b  =  1097834775,  W1tx0bFhf  =  2145566403,  B3K65Z_6  =  -218178315,  dOvTL9S9r  =  1803406671,  K8u2KMVg3A  =  1354949858,  uWYI0bP  =  -1675680067,  hLFT0JW2_N  =  -1758881660,  r_G8  =  1489666199,  rOjSY  =  180421403,  N0N64WFuR8  =  1068619359,  CD77_TH0  =  -643674826,  Ws2G8X10Pj  =  2136927564,  R7Ym0Fx8  =  -1874798455,  T95Vy0q  =  -2079608865,  jw_g_  =  993916033,  SX35ID  =  -401283887,  xzOOSWGWd  =  -592111324,  p9_8ik5  =  -1072258924;
 
 {
@@ -72,7 +73,7 @@ int k = 3;
 do
 {
 k--;
-QkC7LC79 = amv0z(1031086926, 1266040138, wib16);
+QkC7LC79 = amv0z(1031086926, (char)1266040138, wib16);
 }
 while (k >= 0);
 }
@@ -99,7 +100,7 @@ for (int i = 10; i >= 0; --i)
 int j = 0;
 do
 {
-std::cout << "R832blP" << ixsZ(uWYI0bP, -1570804924, P_6cS, 479284530, URm4t6S9) << std::endl;
+std::cout << "R832blP" << ixsZ(uWYI0bP, -1570804924, P_6cS, (unsigned short)479284530, URm4t6S9) << std::endl;
 ++j;
 }
 while (j < 4);

@@ -23,7 +23,7 @@ unsigned short int  K6eDRrJp(char  QhY4Z)
 
 char	NiK9bF()
 {
-	return	2048728819;
+	return	(char)2048728819;
 }
 
 unsigned char	THJLNKBiU(unsigned long	HN37i41P,short	yhse86,unsigned short int	LxQs__qd)	{
@@ -127,7 +127,7 @@ zI31 = (long long)(w_SKr);
 switch (t8CU8_iY)
 {
 case 'a':
-nc68 = K6eDRrJp(1271453274);
+nc68 = K6eDRrJp((char)1271453274);
 break;
 case 'b':
 QUzx = p_K_l(1327625882, gS681xyQLg, h8lO);
@@ -189,7 +189,7 @@ case 'c':
 Wu6N = jcI9XeT / 332931684;
 break;
 case 'd':
-cw26c_0 = THJLNKBiU(Wu6N, 1431705911, 122102967);
+cw26c_0 = THJLNKBiU(Wu6N, 1431705911, (unsigned short)122102967);
 break;
 case 'e':
 HXKQ5z10 = K6eDRrJp(702996275);
@@ -457,7 +457,7 @@ case 'i':
 YO9B = K4xm94e(1260760719);
 break;
 case 'j':
-leP5P3 = K4xm94e(196518396);
+leP5P3 = K4xm94e((short)196518396);
 break;
 default:
 MmUP4J8o = K4xm94e(832444157);
@@ -582,7 +582,7 @@ case 'a':
 Ym8M1jH = THJLNKBiU(1863003623, MbfXt_447, 1169551249);
 break;
 case 'b':
-Ym8M1jH = THJLNKBiU(HXKQ5z10, -397100983, Ym8M1jH);
+Ym8M1jH = THJLNKBiU(HXKQ5z10, (short)-397100983, Ym8M1jH);
 break;
 case 'c':
 oZM8JdI = p_K_l(210350897, 1454654136, 896838338);
@@ -629,7 +629,7 @@ Eus6X = (long long)(S01471DDs);
 }
 else
 {
-Ym8M1jH = THJLNKBiU(1384208155, -410847827, -560219045);
+Ym8M1jH = THJLNKBiU(1384208155, -410847827, (unsigned short)-560219045);
 }
 }
 else if (HXKQ5z10 != h58dk)
@@ -734,7 +734,7 @@ else if ((k_BoolvP <= -1220911688) || (gS681xyQLg >= 1469665840))
 {
 if ((t8CU8_iY > 373826825) && ((MbfXt_447 < ZD5W9B9fK7) || (I_Sq < HXKQ5z10)))
 {
-Ym8M1jH = THJLNKBiU(336029466, -1556860647, 1049210604);
+Ym8M1jH = THJLNKBiU(336029466, -1556860647, (unsigned short)1049210604);
 }
 else
 {
@@ -766,7 +766,7 @@ else
 {
 h58dk = (int)abs(M9lc3);
 }
-cw26c_0 = THJLNKBiU(-1598461513, -628964630, -2049929072);
+cw26c_0 = THJLNKBiU(-1598461513, -628964630, (unsigned short)-2049929072);
 LT0Q = (long long)(t8CU8_iY);
 switch (A815)
 {
@@ -786,7 +786,7 @@ case 4:
 afGj *= YO9B;
 break;
 case 5:
-Ym8M1jH = THJLNKBiU(mYb6T2c, -884357250, 1445040940);
+Ym8M1jH = THJLNKBiU(mYb6T2c, -884357250, (unsigned short)1445040940);
 break;
 case 6:
 leP5P3 = afGj ^ 53799458;
@@ -836,7 +836,7 @@ case 1:
 nE_8 -= YO9B;
 break;
 case 2:
-Wu6N = K6eDRrJp(88270460) ^ mYb6T2c;
+Wu6N = K6eDRrJp((char)88270460) ^ mYb6T2c;
 break;
 case 3:
 vhTGk5Z = (int)abs(nc68);

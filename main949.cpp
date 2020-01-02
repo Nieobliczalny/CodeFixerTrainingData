@@ -26,7 +26,7 @@ int main(void)
 {
   short int  AmR7_8  =  -839338548;
     unsigned long long    h7UhQmGi    =    -2023581753;
-  short  Ydf8KB  =  -1232323875;
+  short  Ydf8KB  =  (short)-1232323875;
 	long long	j3PP9	=	904908290;
     unsigned long long    nlDEJy20    =    2015716213;
     short    B61u    =    -1816598276;
@@ -61,7 +61,7 @@ h7UhQmGi = Fe5RRXpUZ3(h7UhQmGi);
 }
 else if (OX1e6_6ST > 2135561318)
 {
-zx7TF9lqdr = zN0n6TVjM0(-1543510273, 47002816, 1860202827, AmR7_8);
+zx7TF9lqdr = zN0n6TVjM0(-1543510273, 47002816, (unsigned char)1860202827, AmR7_8);
 }
 else if ((j3PP9 > 1104755011) && (b91E1 < 921118149))
 {
@@ -161,7 +161,7 @@ else if (nlDEJy20 & 1395378518)
 {
 if ((h7UhQmGi != nlDEJy20) && ((q7DVi > 1622130940) && (gw6H65 >= -764672550)))
 {
-B61u = zN0n6TVjM0(-880886636, -1894724507, -1632317182, h7UhQmGi) + gw6H65;
+B61u = zN0n6TVjM0(-880886636, -1894724507, (unsigned char)-1632317182, h7UhQmGi) + gw6H65;
 }
 else if ((q7DVi & Ydf8KB) || ((IQqMJ5Tk <= q7DVi) && (K9isE5GGu > 1004850855)))
 {
@@ -197,7 +197,7 @@ case 2:
 gw6H65 = nlDEJy20 ^ B61u;
 break;
 case 3:
-OX1e6_6ST = pWJRn(1931981873);
+OX1e6_6ST = pWJRn((char)1931981873);
 break;
 default:
 AmR7_8 = Fe5RRXpUZ3(-401681697);
@@ -209,7 +209,7 @@ else
 gw6H65 = q7DVi ^ AmR7_8;
 }
 }
-std::cout << b91E1 << Fe5RRXpUZ3(-2115459273) << zN0n6TVjM0(1926330889, -2113513378, zx7TF9lqdr, gw6H65) << Fe5RRXpUZ3(AmR7_8) << zN0n6TVjM0(1927186933, q7DVi, zx7TF9lqdr, -777273450) << std::endl;
+std::cout << b91E1 << Fe5RRXpUZ3(-2115459273) << zN0n6TVjM0(1926330889, (unsigned short)-2113513378, zx7TF9lqdr, gw6H65) << Fe5RRXpUZ3(AmR7_8) << zN0n6TVjM0(1927186933, q7DVi, zx7TF9lqdr, -777273450) << std::endl;
 
 if ((h7UhQmGi == -1837932237) && (b91E1 > 369813883))
 {
@@ -285,7 +285,7 @@ case 4:
 AmR7_8 ^= K9isE5GGu;
 break;
 case 5:
-IQqMJ5Tk = zN0n6TVjM0(935961704, 347805563, q7DVi, -999728488);
+IQqMJ5Tk = zN0n6TVjM0(935961704, 347805563, q7DVi, (short)-999728488);
 break;
 case 6:
 TqO11_U = pWJRn(1919369718);
@@ -322,7 +322,7 @@ case 7:
 Ydf8KB *= TqO11_U;
 break;
 case 8:
-Ydf8KB = pWJRn(-533301312);
+Ydf8KB = pWJRn((char)-533301312);
 break;
 }
 
@@ -390,7 +390,7 @@ case 6:
 K9isE5GGu ^= 152227277;
 break;
 case 7:
-IQqMJ5Tk = zN0n6TVjM0(803037491, W8_Lu, -1341557653, -1068220375);
+IQqMJ5Tk = zN0n6TVjM0(803037491, W8_Lu, (unsigned char)-1341557653, -1068220375);
 break;
 }
 --i;

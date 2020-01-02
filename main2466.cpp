@@ -39,7 +39,7 @@ int main(int argc, char** argv) {
  double B231Z6O_p6;
  B231Z6O_p6 = -1399800785;
 	unsigned short int	Q31qgg;
-	Q31qgg	=	1089637812;
+	Q31qgg	=	(unsigned short)1089637812;
  unsigned int R6OB;
  R6OB = 1542118132;
 	float	HTUhD2qn;
@@ -69,7 +69,7 @@ int main(int argc, char** argv) {
 	short	xyweldM77;
 	xyweldM77	=	-765482234;
     unsigned char    ow5u3J;
-    ow5u3J    =    -1832833737;
+    ow5u3J    =    (unsigned char)-1832833737;
 	float	NL2c6Jv385;
 	NL2c6Jv385	=	556729862;
 
@@ -139,7 +139,7 @@ IL3kbhP3 = (int)floor(W5ukJHVD);
 break;
 case 'e':
 case 'E':
-xyweldM77 = Fq494y(-580805197, -1701078388);
+xyweldM77 = Fq494y((unsigned char)-580805197, -1701078388);
 break;
 }
 --j;
@@ -203,7 +203,7 @@ case 0:
 aacCzJE0_3 = NL5W1F + 783993703;
 break;
 case 1:
-W5ukJHVD = lPU5d4U(1790963052, -220828363);
+W5ukJHVD = lPU5d4U(1790963052, (short)-220828363);
 break;
 case 2:
 W5ukJHVD = (int)floor(HTUhD2qn);
@@ -338,7 +338,7 @@ while (j >= 0)
 switch (ow5u3J)
 {
 case 0:
-B231Z6O_p6 = lPU5d4U(1240521892, 596372808);
+B231Z6O_p6 = lPU5d4U(1240521892, (short)596372808);
 break;
 case 1:
 d8G16 = r_eNeR7T(d8G16);
@@ -405,7 +405,7 @@ case 5:
 TSK3g3NL = IMU6fs4rl(w68jw_cq);
 break;
 case 6:
-R6OB = lPU5d4U(R6OB, -620893704);
+R6OB = lPU5d4U(R6OB, (short)-620893704);
 break;
 default:
 M1iHRscv = (int)abs(MnEC);

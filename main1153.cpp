@@ -31,7 +31,7 @@ int main(int argc, char** argv) {
  char uFZw;
  uFZw = -1881422414;
     short int    BxhPBpeW4u;
-    BxhPBpeW4u    =    -2017954187;
+    BxhPBpeW4u    =    (short)-2017954187;
     int    fHwA;
     fHwA    =    -1046148313;
 	unsigned int	lO_58XTNXs;
@@ -43,7 +43,7 @@ int main(int argc, char** argv) {
 	unsigned long	Aw7UzpP3i7;
 	Aw7UzpP3i7	=	150346959;
   unsigned short int  ye_6R;
-  ye_6R  =  1562491555;
+  ye_6R  =  (unsigned short)1562491555;
     double    qqty;
     qqty    =    -2117011321;
  char mEx94kH80D;
@@ -55,7 +55,7 @@ int main(int argc, char** argv) {
   short  IWq2im;
   IWq2im  =  -1412225741;
 	short	U_X8;
-	U_X8	=	-1339779439;
+	U_X8	=	(short)-1339779439;
     long double    t4vAsFe;
     t4vAsFe    =    -24895777;
  unsigned int MNG4_48;

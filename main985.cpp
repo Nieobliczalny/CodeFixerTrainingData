@@ -189,7 +189,7 @@ case 1:
 diyf82 -= 1122753411;
 break;
 case 2:
-X810c_2i4x = je5nLkA_2c(lilUL34W2G, -1566815995, -1647851455, dn1V, iqTKs9__);
+X810c_2i4x = je5nLkA_2c(lilUL34W2G, -1566815995, (short)-1647851455, dn1V, iqTKs9__);
 break;
 case 3:
 fUUng4_ = iqTKs9__ ^ 674202023;
@@ -217,7 +217,7 @@ iqTKs9__ |= 1657985512;
 break;
 case 'd':
 case 'D':
-fUUng4_ = je5nLkA_2c(1456052234, 1724568769, -921475363, X810c_2i4x, s07Xkc5g);
+fUUng4_ = je5nLkA_2c(1456052234, 1724568769, (short)-921475363, X810c_2i4x, s07Xkc5g);
 break;
 case 'e':
 case 'E':
@@ -232,7 +232,7 @@ s07Xkc5g = lilUL34W2G + 284960357;
 
 if (SlKl_ <= -1281740598)
 {
-std::cout << z8wE_c << je5nLkA_2c(1775429513, iqTKs9__, 1392255334, 1905375411, -820445202) << std::endl;
+std::cout << z8wE_c << je5nLkA_2c(1775429513, iqTKs9__, 1392255334, 1905375411, (short)-820445202) << std::endl;
 }
 
 W_g5Q0 = (int)(diyf82);
@@ -287,7 +287,7 @@ case 1:
 W_g5Q0 ^= WYxtJEa;
 break;
 default:
-dn1V = je5nLkA_2c(dn1V, diyf82, 621114940, s07Xkc5g, 1114698198);
+dn1V = je5nLkA_2c(dn1V, diyf82, 621114940, s07Xkc5g, (short)1114698198);
 break;
 }
 }
@@ -428,7 +428,7 @@ while (i < 3)
 ++i;
 if (((diyf82 < 1008414759) && (wb6p7b & kIkhZ2)) || (X810c_2i4x == diyf82))
 {
-BxgbvL3F = je5nLkA_2c(-1402530008, 881748364, -263045637, 2031251844, lilUL34W2G);
+BxgbvL3F = je5nLkA_2c(-1402530008, 881748364, (short)-263045637, 2031251844, lilUL34W2G);
 }
 else
 {
@@ -455,7 +455,7 @@ case 'c':
 BxgbvL3F = lilUL34W2G ^ s07Xkc5g;
 break;
 case 'd':
-iqTKs9__ = je5nLkA_2c(-749472302, -98325221, -937906161, -2073042201, WYxtJEa);
+iqTKs9__ = je5nLkA_2c(-749472302, -98325221, (short)-937906161, -2073042201, WYxtJEa);
 break;
 case 'e':
 s07Xkc5g = je5nLkA_2c(436531783, 1272811347, 1846529353, diyf82, SlKl_);
@@ -491,7 +491,7 @@ lilUL34W2G = XtP4Iv(1936724534);
 }
 else if (W_g5Q0 < 359920079)
 {
-std::cout << L6jn(diyf82) << L6jn(diyf82) << XtP4Iv(-860483572) << std::endl;
+std::cout << L6jn(diyf82) << L6jn(diyf82) << XtP4Iv((short)-860483572) << std::endl;
 }
 else if ((BxgbvL3F == W_g5Q0) && (lilUL34W2G == wb6p7b))
 {

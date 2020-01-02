@@ -24,7 +24,7 @@ unsigned char    NyQhD(unsigned char    duWC99t5,unsigned int    r2F48QE6,char  
 }
 
 int main() {
-	unsigned short	h5zyxex6	=	1816386881;
+	unsigned short	h5zyxex6	=	(unsigned short)1816386881;
   char  dFCP8ta8  =  0;
  float qGob9208 = 116506688;
   long  XQVHPm  =  -1557474893;
@@ -34,7 +34,7 @@ int main() {
 	unsigned int	DU065jn	=	498680845;
   double  isB2  =  -1844438818;
 	long long	Q_3E	=	0;
- unsigned short int z01g_ = 1978742992;
+ unsigned short int z01g_ = (unsigned short)1978742992;
   unsigned long  dkRQnOAp  =  0;
  unsigned short dF8OS2jB = 436222015;
   char  Di0vaP5  =  -1347283244;
@@ -44,7 +44,7 @@ int main() {
     int    Y4P8    =    -1732821293;
   long double  KSKMLUx_P  =  -1127905805;
  char u9woJ1 = 1142587646;
- char Z5WHXgj172 = 1049955151;
+ char Z5WHXgj172 = (char)1049955151;
     int    d3dT    =    1540397818;
     unsigned int    us1LfePYt_    =    -365773772;
     int    ToC75m_    =    -1531367881;
@@ -121,7 +121,7 @@ qGob9208 = (int)floor(KSKMLUx_P);
 Z5WHXgj172 = (char)(Uk4_2b_3 + (cs88_9k));
 
 dFCP8ta8 = (int)abs(qGob9208) * 0;
-dkRQnOAp = NyQhD(195693164, PP6Yl_F, 321172876);
+dkRQnOAp = NyQhD(195693164, PP6Yl_F, (char)321172876);
 
 std::cout << "VS9Uh" << jPYgIj(DU065jn, 111667628) << NyQhD(DU065jn, PP6Yl_F, -1323664918) << "XM3x1nV0" << std::endl;
 
@@ -264,7 +264,7 @@ case 2:
 dkRQnOAp = NyQhD(1487979339, h5zyxex6, Tt3bwY);
 break;
 case 3:
-dFCP8ta8 = NyQhD(ye8p, -712676468, 1215317404);
+dFCP8ta8 = NyQhD(ye8p, -712676468, (char)1215317404);
 break;
 case 4:
 isB2 = (int)ceil(qGob9208);
@@ -282,7 +282,7 @@ case 8:
 ToC75m_ = us1LfePYt_ * 539386730;
 break;
 default:
-Q_3E = NyQhD(-1957072950, qGob9208, z01g_);
+Q_3E = NyQhD((unsigned char)-1957072950, qGob9208, z01g_);
 break;
 }
 }

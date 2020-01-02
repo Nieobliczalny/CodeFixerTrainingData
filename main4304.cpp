@@ -47,7 +47,7 @@ else if (i1t9e6RTs & -1773970419)
 {
 if ((i1t9e6RTs & GR49sn) && (iK8_D < 284873779))
 {
-std::cout << bqzkOe4(oPEah2M, -1978404140, 1848541655, 207989488, 174392357) << std::endl;
+std::cout << bqzkOe4(oPEah2M, -1978404140, 1848541655, 207989488, (short)174392357) << std::endl;
 }
 else if (iK8_D != -1137509169)
 {
@@ -205,7 +205,7 @@ int i = 6;
 do
 {
 --i;
-Fkz6wf = bqzkOe4(-315555250, -991625131, GR49sn, 2027094843, -1689372319);
+Fkz6wf = bqzkOe4(-315555250, -991625131, GR49sn, 2027094843, (short)-1689372319);
 }
 while (i >= 0);
 }
@@ -369,7 +369,7 @@ if ((XznlFN1L7 > G567d4csI) || (GR49sn & 1338612173))
 switch (GR49sn)
 {
 case 'a':
-oPEah2M = bqzkOe4(i1t9e6RTs, oPEah2M, 79303674, 1340635019, 606472769);
+oPEah2M = bqzkOe4(i1t9e6RTs, oPEah2M, 79303674, 1340635019, (short)606472769);
 break;
 }
 }

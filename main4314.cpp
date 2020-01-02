@@ -186,7 +186,7 @@ do
 {
 if (ExTi8O != -1530706772)
 {
-J0L7 = B9EA51_z40(139824022, SyRO69_, JX9p3, 1925245492, -136539773);
+J0L7 = B9EA51_z40(139824022, SyRO69_, JX9p3, (unsigned char)1925245492, -136539773);
 }
 else if (z_ze >= -3434096)
 {
@@ -237,7 +237,7 @@ else
 {
 if (aK1Bx >= 1020046264)
 {
-d2c433Bx = B9EA51_z40(-1548835287, Kbl4Tis, d2c433Bx, 60745365, pIcfur1A);
+d2c433Bx = B9EA51_z40(-1548835287, Kbl4Tis, d2c433Bx, (unsigned char)60745365, pIcfur1A);
 }
 else
 {
@@ -369,7 +369,7 @@ aK1Bx = B9EA51_z40(178679232, RDhrIz, 377993178, QLLVeIXv, -276826458);
 }
 else
 {
-aK1Bx = B9EA51_z40(-475173043, -2080678238, bTrtF36, 382279093, aK1Bx);
+aK1Bx = B9EA51_z40((unsigned short)-475173043, -2080678238, bTrtF36, 382279093, aK1Bx);
 }
 }
 else if (ExTi8O <= 1701022720)
@@ -629,7 +629,7 @@ else
 int j = 8;
 do
 {
-std::cout << vH3c034x3() << "b_bJm4_27" << sn5R << B9EA51_z40(-1339021547, -1572584457, Rj_X_li1, -1884656616, wO6pkVCgF5) << z_ze << std::endl;
+std::cout << vH3c034x3() << "b_bJm4_27" << sn5R << B9EA51_z40(-1339021547, -1572584457, Rj_X_li1, (unsigned char)-1884656616, wO6pkVCgF5) << z_ze << std::endl;
 --j;
 }
 while (j >= 0);

@@ -23,7 +23,7 @@ short int  v2yR(unsigned long  t18e,unsigned short int  qjAbh9FkR,unsigned int  
 
 unsigned short  znTMXP(long long  lrSKx)
 {
-  return  -1797619299;
+  return  (unsigned short)-1797619299;
 }
 
 long c66K482(unsigned long long SeL0u,unsigned int I8_XGn_fZ,unsigned long long O2_q)
@@ -199,7 +199,7 @@ case 0:
 B66Y8450n = v2yR(-932948601, -1573018738, iFg_) << qDmSV;
 break;
 case 1:
-FMgGGmqbD = ka6OR2n9w(-1577930884, -2036666020) & h6VwdLWAzU;
+FMgGGmqbD = ka6OR2n9w((unsigned short)-1577930884, -2036666020) & h6VwdLWAzU;
 break;
 case 2:
 wV9Q = ku8I(-1545234828, 1461029161, 387307987) << iFg_;
@@ -415,7 +415,7 @@ KqQ3M6lX4C = v2yR(-1157868989, E3q0i66Ih, -90903039);
 }
 else if (L5FP5 <= 2025233424)
 {
-T2O4yy = ka6OR2n9w(1169554818, 1818979187);
+T2O4yy = ka6OR2n9w(1169554818, (unsigned short)1818979187);
 }
 else if ((KkU6sYm <= -1441755721) || ((g6jm9fg7) || (yn7mHz6f8)))
 {
@@ -491,7 +491,7 @@ else if (B66Y8450n != MOUbsEbF)
 {
 try
 {
-MoG_82O8W = ka6OR2n9w(415110603, 1613011383);
+MoG_82O8W = ka6OR2n9w(415110603, (unsigned short)1613011383);
 }
 catch (int& errorCode)
 {

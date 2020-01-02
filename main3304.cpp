@@ -25,7 +25,7 @@ int main(void)
  unsigned long cuv11e1_L;
  cuv11e1_L = 1420783455;
   short  wo9IKz;
-  wo9IKz  =  -824045898;
+  wo9IKz  =  (short)-824045898;
 	unsigned long	e5R8nV6q1y;
 	e5R8nV6q1y	=	0;
 	short	Tu7_p;
@@ -60,7 +60,7 @@ else
 {
 if ((RLDlPFD) || (wo9IKz == cuv11e1_L))
 {
-jqvaCxU = A0ia06(jqvaCxU, 863591636, 779429348, -1852107840);
+jqvaCxU = A0ia06(jqvaCxU, 863591636, 779429348, (char)-1852107840);
 }
 }
 }
@@ -75,7 +75,7 @@ case 1:
 F_9c84wg <<= Y4yoH_N0gd;
 break;
 case 2:
-RLDlPFD = A0ia06(wo9IKz, RLDlPFD, -968725998, 1310077907);
+RLDlPFD = A0ia06(wo9IKz, RLDlPFD, -968725998, (char)1310077907);
 break;
 case 3:
 e5R8nV6q1y = A0ia06(-2073275480, Vf34JY8I, x_84D80i, 1507491303);
@@ -96,7 +96,7 @@ case 8:
 jqvaCxU = A0ia06(jqvaCxU, RLDlPFD, 965632303, WX_WR8);
 break;
 case 9:
-e5R8nV6q1y = A0ia06(-1431410467, WQ2oBy, 76242250, RLDlPFD);
+e5R8nV6q1y = A0ia06((short)-1431410467, WQ2oBy, 76242250, RLDlPFD);
 break;
 }
 jqvaCxU = A0ia06(jqvaCxU, WQ2oBy, Tu7_p, 1614780206);
@@ -146,7 +146,7 @@ try
 int j = 0;
 while (j < 1)
 {
-std::cout << "DNrTKN" << A0ia06(-2003669787, jqvaCxU, -2023870948, -1456221592) << A0ia06(WQ2oBy, jqvaCxU, e5R8nV6q1y, x_84D80i) << std::endl;
+std::cout << "DNrTKN" << A0ia06((short)-2003669787, jqvaCxU, -2023870948, -1456221592) << A0ia06(WQ2oBy, jqvaCxU, e5R8nV6q1y, x_84D80i) << std::endl;
 ++j;
 }
 }
@@ -174,7 +174,7 @@ case 2:
 x_84D80i %= 883472124;
 break;
 default:
-e5R8nV6q1y = A0ia06(104195376, x_84D80i, -203754631, Tu7_p);
+e5R8nV6q1y = A0ia06(104195376, x_84D80i, (unsigned char)-203754631, Tu7_p);
 break;
 }
 }
@@ -187,7 +187,7 @@ for (int j = 0; j < 10; j++)
 switch (e5R8nV6q1y)
 {
 case 0:
-e5R8nV6q1y = A0ia06(Y4yoH_N0gd, -197193115, 1292538566, 745308660);
+e5R8nV6q1y = A0ia06(Y4yoH_N0gd, -197193115, 1292538566, (char)745308660);
 break;
 case 1:
 WQ2oBy = A0ia06(Y4yoH_N0gd, WX_WR8, WQ2oBy, wo9IKz);
@@ -227,7 +227,7 @@ case 1:
 wo9IKz = (int)abs(Tu7_p);
 break;
 case 2:
-RLDlPFD = A0ia06(RLDlPFD, Y4yoH_N0gd, 1628976430, 932966072);
+RLDlPFD = A0ia06(RLDlPFD, Y4yoH_N0gd, 1628976430, (char)932966072);
 break;
 case 3:
 Tu7_p = (int)abs(WX_WR8);
@@ -268,7 +268,7 @@ case 0:
 RLDlPFD = A0ia06(cuv11e1_L, 2002707944, 1010061146, jqvaCxU);
 break;
 case 1:
-RLDlPFD = A0ia06(RLDlPFD, -390913033, 466286908, -1521224774);
+RLDlPFD = A0ia06(RLDlPFD, -390913033, (unsigned char)466286908, -1521224774);
 break;
 case 2:
 e5R8nV6q1y = A0ia06(e5R8nV6q1y, x_84D80i, 98800650, -1497200934);
@@ -280,7 +280,7 @@ case 4:
 Tu7_p += 258700849;
 break;
 case 5:
-e5R8nV6q1y = A0ia06(-795564838, -1293126202, 437942282, F_9c84wg);
+e5R8nV6q1y = A0ia06(-795564838, -1293126202, (unsigned char)437942282, F_9c84wg);
 break;
 case 6:
 Tu7_p = (int)abs(WX_WR8);
@@ -305,7 +305,7 @@ case 'a':
 RLDlPFD = A0ia06(cuv11e1_L, RLDlPFD, wo9IKz, 1640242944);
 break;
 case 'b':
-x_84D80i = A0ia06(872007975, RLDlPFD, 2023807667, x_84D80i) & Y4yoH_N0gd;
+x_84D80i = A0ia06((short)872007975, RLDlPFD, 2023807667, x_84D80i) & Y4yoH_N0gd;
 break;
 case 'c':
 Vf34JY8I /= 827653808;
@@ -377,7 +377,7 @@ int i = 0;
 do
 {
 ++i;
-std::cout << Tu7_p << Y4yoH_N0gd << A0ia06(-146915480, -1537502407, -269905575, e5R8nV6q1y) << A0ia06(cuv11e1_L, 1242269884, 333160168, e5R8nV6q1y) << std::endl;
+std::cout << Tu7_p << Y4yoH_N0gd << A0ia06(-146915480, -1537502407, (unsigned char)-269905575, e5R8nV6q1y) << A0ia06(cuv11e1_L, 1242269884, 333160168, e5R8nV6q1y) << std::endl;
 }
 while (i < 3);
 }
@@ -392,7 +392,7 @@ if (Vf34JY8I <= -193812349)
 {
 if (((Vf34JY8I <= cuv11e1_L) || (RLDlPFD > e5R8nV6q1y)) || (WQ2oBy))
 {
-e5R8nV6q1y = A0ia06(-188728594, 1535083643, Vf34JY8I, -1720616000);
+e5R8nV6q1y = A0ia06(-188728594, 1535083643, Vf34JY8I, (char)-1720616000);
 }
 }
 else if (e5R8nV6q1y > -1558095333)
@@ -413,7 +413,7 @@ else if (jqvaCxU <= -2020294157)
 int k = 0;
 while (k < 1)
 {
-WQ2oBy = A0ia06(-84627202, 409007956, -672709749, x_84D80i);
+WQ2oBy = A0ia06(-84627202, 409007956, (unsigned char)-672709749, x_84D80i);
 ++k;
 }
 }
@@ -436,7 +436,7 @@ int i = 0;
 do
 {
 i++;
-std::cout << A0ia06(595886518, Tu7_p, 1057149177, 507559296) << "b506n6cN78" << "ENII659H" << "VudnfPwwo" << A0ia06(jqvaCxU, Tu7_p, -1272565755, -15849896) << std::endl;
+std::cout << A0ia06(595886518, Tu7_p, (unsigned char)1057149177, 507559296) << "b506n6cN78" << "ENII659H" << "VudnfPwwo" << A0ia06(jqvaCxU, Tu7_p, -1272565755, -15849896) << std::endl;
 }
 while (i < 7);
 }

@@ -89,7 +89,7 @@ GHoU73SZt8 >>= 24960896;
 break;
 case 'd':
 case 'D':
-G3dboVZ = N9Zl(vG8q, 569419853);
+G3dboVZ = N9Zl(vG8q, (unsigned short)569419853);
 break;
 }
 }

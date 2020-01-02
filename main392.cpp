@@ -378,7 +378,7 @@ short	jIFkWY_(unsigned short int	v1l4XE)	{
 
 char    jFKl39762()
 {
-    return    1241325912;
+    return    (char)1241325912;
 }
 
 int    WUBVf34V(int    MU6yu04am)

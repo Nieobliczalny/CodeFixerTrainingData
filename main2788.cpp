@@ -32,7 +32,7 @@ int main(void)
   unsigned int  J1Uu_d;
   J1Uu_d  =  76941640;
   unsigned char  cajyY;
-  cajyY  =  435448484;
+  cajyY  =  (unsigned char)435448484;
     unsigned long    F8O64L_;
     F8O64L_    =    -1123023433;
   unsigned long long  ySjVh90_0;
@@ -44,7 +44,7 @@ int main(void)
   long double  RAkVk07pr;
   RAkVk07pr  =  186088757;
     short    dfh5tzb07;
-    dfh5tzb07    =    -1228397606;
+    dfh5tzb07    =    (short)-1228397606;
 	long double	aPa4u901I;
 	aPa4u901I	=	-1124970323;
  unsigned long qn__1_l37E;
@@ -58,7 +58,7 @@ int main(void)
 	unsigned int	amj76LC5;
 	amj76LC5	=	-427139978;
  unsigned char bVQymciGlF;
- bVQymciGlF = 1700520997;
+ bVQymciGlF = (unsigned char)1700520997;
   short  v4ry92N;
   v4ry92N  =  -1023568768;
  char to0Ifr;

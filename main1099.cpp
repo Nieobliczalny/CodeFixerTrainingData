@@ -21,7 +21,7 @@ int main() {
  unsigned char wdBdSf_6G7;
  wdBdSf_6G7 = -1281677415;
  unsigned short Vvp1;
- Vvp1 = -1743588028;
+ Vvp1 = (unsigned short)-1743588028;
  short int ymZyfrz;
  ymZyfrz = -322555346;
  char K62gq4v1Y6;
@@ -33,7 +33,7 @@ int main() {
  unsigned long lnH4A_Cu;
  lnH4A_Cu = 794943911;
 	char	gdh2y2Ke;
-	gdh2y2Ke	=	-990110072;
+	gdh2y2Ke	=	(char)-990110072;
     short    Xi37V16l;
     Xi37V16l    =    -1778811180;
  long double Gkq_49FI;
@@ -45,7 +45,7 @@ int main() {
  unsigned char iV0d81;
  iV0d81 = -1784468187;
 	unsigned short	QCKEO;
-	QCKEO	=	-1759675932;
+	QCKEO	=	(unsigned short)-1759675932;
     unsigned long long    uiquLek9;
     uiquLek9    =    -1497522917;
   double  se4EhdQ6c0;
@@ -79,7 +79,7 @@ break;
 }
 }
 ymZyfrz = (short int)(i2e0Q6yVP7);
-std::cout << F0_56y5z << LiGAz << B6KEF3Yb(-792198943, uiquLek9, 882344344, F0_56y5z) << q_8PA(B2Me8v6c, uiquLek9) << uiquLek9 << std::endl;
+std::cout << F0_56y5z << LiGAz << B6KEF3Yb(-792198943, uiquLek9, (unsigned short)882344344, F0_56y5z) << q_8PA(B2Me8v6c, uiquLek9) << uiquLek9 << std::endl;
 {
 int i = 4;
 while (i >= 0)
@@ -245,7 +245,7 @@ int k = 0;
 do
 {
 ++k;
-lnH4A_Cu = B6KEF3Yb(566641567, -248954039, -1161086188, 2001171506);
+lnH4A_Cu = B6KEF3Yb(566641567, -248954039, (unsigned short)-1161086188, 2001171506);
 }
 while (k < 1);
 }
@@ -393,7 +393,7 @@ else if ((se4EhdQ6c0 != -50702806) || ((iV0d81 > 614875870) || (Xi37V16l <= 1238
 {
 if (((i2e0Q6yVP7 >= -909111762) || (i2e0Q6yVP7 != Xi37V16l)) || (gdh2y2Ke))
 {
-std::cout << q_8PA(ymZyfrz, 164189643) << pN_lWCc07(-2033206465, i2e0Q6yVP7) << wdBdSf_6G7 << B6KEF3Yb(1592113731, -559275675, -1090174849, 1307324306) << "hFW1u0" << std::endl;
+std::cout << q_8PA(ymZyfrz, 164189643) << pN_lWCc07(-2033206465, i2e0Q6yVP7) << wdBdSf_6G7 << B6KEF3Yb(1592113731, -559275675, (unsigned short)-1090174849, 1307324306) << "hFW1u0" << std::endl;
 }
 }
 else if (ymZyfrz < 192041332)
@@ -655,7 +655,7 @@ std::cout << B2Me8v6c << pN_lWCc07(-1328261731, gdh2y2Ke) << K62gq4v1Y6 << std::
 std::cout << "Mo2Lrq_ZG" << std::endl;
 if (B2Me8v6c != c9CZX)
 {
-gdh2y2Ke = B6KEF3Yb(-114665905, -965931298, -333610830, -264825863) + F0_56y5z;
+gdh2y2Ke = B6KEF3Yb(-114665905, -965931298, (unsigned short)-333610830, -264825863) + F0_56y5z;
 }
 else
 {

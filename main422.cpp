@@ -310,7 +310,7 @@ fchaDo = Pmo4Iy6LUw(1029302101);
 VFlYL_uLLM = NuQw(fchaDo, i5sGQ) << 1123862597;
 
 z1STQ06 = FU__JP(z1STQ06, 725592745, hzU4, -1474122327, fchaDo);
-g7m_G0f = 1659953451 / NuQw(z1STQ06, 1648868155);
+g7m_G0f = 1659953451 / NuQw(z1STQ06, (short)1648868155);
 fchaDo = (double)(z1STQ06);
 
 z1STQ06 = tXCdYm3wyG(z1STQ06, hzU4);
@@ -417,7 +417,7 @@ return 0;
 }
 
 unsigned short    tXCdYm3wyG(unsigned char    p2skv_77P6,short int    NFRc)    {
-    return    583906820;
+    return    (unsigned short)583906820;
 }
 
 char    NuQw(unsigned int    k579u1W40q,short int    JG__)
@@ -435,6 +435,6 @@ char	TB6j(int	iU3mvy,char	VuTc2)
 }
 
 short  Pmo4Iy6LUw(unsigned long long  r0CmKB0y8)  {
-  return  -976467118;
+  return  (short)-976467118;
 }
 

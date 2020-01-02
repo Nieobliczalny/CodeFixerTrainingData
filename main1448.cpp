@@ -41,7 +41,7 @@ int main(int argc, char** argv)
     double    RwVc9Zlx    =    -154848020;
  unsigned int eNrH5 = 1568139135;
     char    RxGLrgbHa    =    -2128454791;
- unsigned short I64OR5 = -1967100685;
+ unsigned short I64OR5 = (unsigned short)-1967100685;
   unsigned int  quoa__Ew  =  0;
   unsigned short  oRP0  =  -2045406029;
  long double VsHhZ3ac = -1342338039;
@@ -115,7 +115,7 @@ case 6:
 ZqP4w = (int)floor(VsHhZ3ac);
 break;
 case 7:
-quoa__Ew = Jrx701(94897910, quoa__Ew, NsNA);
+quoa__Ew = Jrx701((char)94897910, quoa__Ew, NsNA);
 break;
 case 8:
 RxGLrgbHa >>= 1770934176;
@@ -246,7 +246,7 @@ int k = 4;
 do
 {
 k--;
-RwVc9Zlx = Jrx701(2090522795, -1341243423, q_x8g_2o) / NsNA;
+RwVc9Zlx = Jrx701(2090522795, (char)-1341243423, q_x8g_2o) / NsNA;
 }
 while (k >= 0);
 }
@@ -358,7 +358,7 @@ int k = 0;
 do
 {
 ++k;
-NsNA = eWReOW(1393413738, 647553331, 484566685, Z7gcW);
+NsNA = eWReOW(1393413738, (unsigned char)647553331, 484566685, Z7gcW);
 }
 while (k < 2);
 }
@@ -465,7 +465,7 @@ I64OR5++;
 }
 else if (VsHhZ3ac)
 {
-Z7gcW = eWReOW(494787308, -543194241, -596834963, -694872705);
+Z7gcW = eWReOW(494787308, (unsigned char)-543194241, -596834963, -694872705);
 }
 else
 {
@@ -517,7 +517,7 @@ for (int j = 3; j >= 0; --j)
 switch (RxGLrgbHa)
 {
 case 'a':
-q_x8g_2o = eWReOW(-1002237450, 1366801725, 170405801, RwVc9Zlx);
+q_x8g_2o = eWReOW(-1002237450, (unsigned char)1366801725, 170405801, RwVc9Zlx);
 break;
 case 'b':
 quoa__Ew = Jrx701(quoa__Ew, 1718193376, -1413056942);

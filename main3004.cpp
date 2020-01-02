@@ -27,7 +27,7 @@ int main(int argc, char** argv) {
     long    KD9t4W_4Va    =    0;
   unsigned long  TFosR_Em  =  -777243081,  Y8d9  =  2121451005,  Hns3o  =  1613361479,  e_e2b1v6  =  910243801,  yaxR0s5  =  -1601977262,  YVn85d_  =  1654233464,  B08aq1jd  =  1079944462,  Fw94id  =  515191054,  Ov83  =  -2080054448,  ODml  =  -1836016303,  BN21lGez  =  -1850549457,  X512  =  1343745864,  Jr61O  =  -927991852,  RE__  =  195838785,  RlloT  =  -1844212613,  AnHI_  =  1085977663,  mx9sQgi8X  =  -290159475,  c__bQa  =  1430140672,  nV004pL3nF  =  -1263616957,  GoBP_76  =  1745179188,  mCoS  =  -1701505173,  Lm7_  =  -1033307873,  GrQHFTeW3  =  -1003251104,  r_7I  =  1016260957,  n5Z_L8Cm4N  =  1162648795;
 
-std::cout << tmcexVwvU(TFosR_Em, Y8d9, -149030214, e_e2b1v6) << tmcexVwvU(1678862996, Y8d9, Hns3o, 523239682) << std::endl;
+std::cout << tmcexVwvU(TFosR_Em, Y8d9, -149030214, e_e2b1v6) << tmcexVwvU((char)1678862996, Y8d9, Hns3o, 523239682) << std::endl;
 
 switch (ODml)
 {
@@ -41,7 +41,7 @@ mCoS = gu_8JCTP(59079172, Jr61O, KD9t4W_4Va, -1654551082, X512);
 break;
 case 'c':
 case 'C':
-nV004pL3nF = gu_8JCTP(nV004pL3nF, mCoS, -443232679, -633049102, -1398607670);
+nV004pL3nF = gu_8JCTP(nV004pL3nF, mCoS, -443232679, -633049102, (short)-1398607670);
 break;
 case 'd':
 case 'D':
@@ -69,7 +69,7 @@ int j = 0;
 do
 {
 j++;
-GrQHFTeW3 = gu_8JCTP(1601791390, -299070298, -1297785078, Jr61O, -1281450395);
+GrQHFTeW3 = gu_8JCTP(1601791390, -299070298, -1297785078, Jr61O, (short)-1281450395);
 }
 while (j < 9);
 }
@@ -171,7 +171,7 @@ mCoS &= 1148587520;
 break;
 case 'c':
 case 'C':
-c__bQa = gu_8JCTP(-2060861012, mx9sQgi8X, 1414572910, Lm7_, -527068117);
+c__bQa = gu_8JCTP(-2060861012, mx9sQgi8X, 1414572910, Lm7_, (short)-527068117);
 break;
 case 'd':
 case 'D':
@@ -202,7 +202,7 @@ case 'J':
 GrQHFTeW3 = gu_8JCTP(GrQHFTeW3, 520012190, -835117250, e_e2b1v6, nV004pL3nF);
 break;
 default:
-YVn85d_ = KfA7Nn(-1139625234);
+YVn85d_ = KfA7Nn((unsigned short)-1139625234);
 break;
 }
 }
@@ -228,7 +228,7 @@ yaxR0s5 = gu_8JCTP(yaxR0s5, Y8d9, r_7I, nV004pL3nF, 1904475884);
 break;
 case 'e':
 case 'E':
-X512 = tmcexVwvU(45383070, 2140563531, TFosR_Em, B08aq1jd);
+X512 = tmcexVwvU((char)45383070, 2140563531, TFosR_Em, B08aq1jd);
 break;
 default:
 RlloT -= mx9sQgi8X;
@@ -295,7 +295,7 @@ KD9t4W_4Va = TA8Tfqo9_(r_7I, -1438463313, 1488799916);
 }
 else
 {
-RlloT = gu_8JCTP(-1143976304, -1629010412, -1552470697, -1762291141, -898594355);
+RlloT = gu_8JCTP(-1143976304, -1629010412, -1552470697, -1762291141, (short)-898594355);
 }
 }
 }

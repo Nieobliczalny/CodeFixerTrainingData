@@ -417,7 +417,7 @@ for (int i = 0; i < 4; i++)
 {
 for (int j = 5; j >= 0; j--)
 {
-std::cout << j7__37(-905853161) << Z20758(1962153928) << std::endl;
+std::cout << j7__37(-905853161) << Z20758((unsigned char)1962153928) << std::endl;
 }
 }
 

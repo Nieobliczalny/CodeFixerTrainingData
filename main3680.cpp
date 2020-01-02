@@ -29,7 +29,7 @@ int main()
  short int j11iCtsj;
  j11iCtsj = -831512405;
  unsigned char aeDmz4U19;
- aeDmz4U19 = 485858541;
+ aeDmz4U19 = (unsigned char)485858541;
     unsigned long    lrJB1a7;
     lrJB1a7    =    -559794476;
     short    b0LlZOkefD;

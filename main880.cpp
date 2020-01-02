@@ -210,7 +210,7 @@ D8Tk0EW = YR70 * h2eHS;
 
 if (BJtG87q_(NG9FH, 1985210336) == 0)
 {
-	KBqmU = -127587425 / BJtG87q_(NG9FH, 1985210336);
+	KBqmU = -127587425 / BJtG87q_(NG9FH, (unsigned short)1985210336);
 }
 try
 {

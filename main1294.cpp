@@ -39,7 +39,7 @@ int main()
     unsigned int    V6SkWJt7B3;
     V6SkWJt7B3    =    -2006339297;
   short  nqSrf4u;
-  nqSrf4u  =  -1379110409;
+  nqSrf4u  =  (short)-1379110409;
     int    L5B1xX;
     L5B1xX    =    -1875919701;
  long CQ8C42;
@@ -51,7 +51,7 @@ int main()
     unsigned long long    a5vs6jQ2;
     a5vs6jQ2    =    -120091890;
  char Pg4W4;
- Pg4W4 = -1285946285;
+ Pg4W4 = (char)-1285946285;
   long long  S6_2_XJl;
   S6_2_XJl  =  -1630852955;
 	unsigned short int	X6VwVQK;
@@ -61,7 +61,7 @@ int main()
     unsigned long long    Gljtb_7nG;
     Gljtb_7nG    =    1306307772;
  short d24_rSx23;
- d24_rSx23 = -1940485827;
+ d24_rSx23 = (short)-1940485827;
  long tCm26Sk5F;
  tCm26Sk5F = 650735975;
 	short int	Wreqh2CFU2;
@@ -71,7 +71,7 @@ int main()
 	short	z2li_H45;
 	z2li_H45	=	-561655733;
 	short int	SDK8gT;
-	SDK8gT	=	-816003565;
+	SDK8gT	=	(short)-816003565;
  float xN__2MB5T8;
  xN__2MB5T8 = -160457052;
  double FWxU;
@@ -113,7 +113,7 @@ int main()
   int  m3w401;
   m3w401  =  1191397883;
 	short int	XV95w;
-	XV95w	=	1933907014;
+	XV95w	=	(short)1933907014;
 	float	RD27;
 	RD27	=	-250642585;
 	unsigned short	RU94r9z2_P;
@@ -125,7 +125,7 @@ int main()
  float gJ571WI98;
  gJ571WI98 = -806228779;
  short PzZsn7QuuA;
- PzZsn7QuuA = 2135999237;
+ PzZsn7QuuA = (short)2135999237;
 
 try
 {
@@ -292,7 +292,7 @@ while (i >= 0);
 
 if ((FWxU / UJV4i(-632405325)) < -1415813900)
 {
-std::cout << 487754309 / UJV4i(724413431) << std::endl;
+std::cout << 487754309 / UJV4i((unsigned short)724413431) << std::endl;
 }
 
 v_8A01w = (double)(Tw7f03);

@@ -421,7 +421,7 @@ case 4:
 nyT9rGs7z_ = (hTcEr0J >= 810122818) ? xErkQgTJm : -809820383;
 break;
 default:
-k7U2Y1tpy8 = V0M98(2030042635, -1597541809);
+k7U2Y1tpy8 = V0M98(2030042635, (short)-1597541809);
 break;
 }
 }

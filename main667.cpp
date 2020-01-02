@@ -115,7 +115,7 @@ ZC_Zh6Ldh = PwWJ_9T3(-1230713665);
 break;
 case 'b':
 case 'B':
-l2df94 = PwWJ_9T3(-522834655);
+l2df94 = PwWJ_9T3((char)-522834655);
 break;
 case 'c':
 case 'C':
@@ -137,7 +137,7 @@ break;
 aa86Hz9_4c = (long double)(TQ595KM6w2);
 FV8k = (int)abs(e_w4aeo);
 
-cout << PwWJ_9T3(CI94X3) << PwWJ_9T3(80756213) << "vzHm" << PwWJ_9T3(CI94X3) << "Q9H6Q" << endl;
+cout << PwWJ_9T3(CI94X3) << PwWJ_9T3((char)80756213) << "vzHm" << PwWJ_9T3(CI94X3) << "Q9H6Q" << endl;
 d_uL8 = (long double)(WsC03r);
 
 if (QgREug == -1085546257)

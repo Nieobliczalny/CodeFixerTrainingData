@@ -18,7 +18,7 @@ int main(void)
   int  BU2pEK8RJ8;
   BU2pEK8RJ8  =  -1337780140;
   unsigned char  UDw2n99g;
-  UDw2n99g  =  1317401965;
+  UDw2n99g  =  (unsigned char)1317401965;
   double  oZ29W5ZEN;
   oZ29W5ZEN  =  -345269605;
  unsigned long q04_s;
@@ -28,7 +28,7 @@ int main(void)
   char  H_0_h;
   H_0_h  =  1106211586;
   short int  I279;
-  I279  =  825959692;
+  I279  =  (short)825959692;
 	float	JmKfZ;
 	JmKfZ	=	-2114644716;
   long double  Uv_8b;
@@ -62,7 +62,7 @@ int main(void)
     long double    r7YIW;
     r7YIW    =    -2008548026;
   unsigned short  eb6ira;
-  eb6ira  =  1977116949;
+  eb6ira  =  (unsigned short)1977116949;
  long gBAV;
  gBAV = 1019808629;
  float XoJ_4Wx;

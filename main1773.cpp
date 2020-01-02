@@ -18,7 +18,7 @@ int main()
   int  gqntkhD39g  =  -373331661;
  unsigned long long z8k2yXI = -22277529;
  unsigned long WtQo2N4_R2 = 0;
-  short  u8J24  =  438805030;
+  short  u8J24  =  (short)438805030;
   char  Lrudxr00H  =  0;
 
 {

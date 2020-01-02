@@ -170,7 +170,7 @@ if (a9sVym8x9_ <= wg97N)
 if48Eav = (unsigned long)(zCs3V0r + (-928070603));
 }
 
-t75lo05 = SxyIK_q046(424665837, o9klTK2);
+t75lo05 = SxyIK_q046((char)424665837, o9klTK2);
 RsSRJ59Z3 = SxyIK_q046(1684233152, 1126470579);
 {
 int i = 2;
@@ -232,7 +232,7 @@ else
 {
 if (tfu_i3M > c_glH8hk9)
 {
-std::cout << "luqd7ra" << GenHiH5F7 << TeKV8d_EbW(o9klTK2, t4Mu_, -447516162, -318537854, 377577217) << SxyIK_q046(1431017704, t4Mu_) << std::endl;
+std::cout << "luqd7ra" << GenHiH5F7 << TeKV8d_EbW(o9klTK2, t4Mu_, -447516162, -318537854, 377577217) << SxyIK_q046((char)1431017704, t4Mu_) << std::endl;
 }
 else if (IbGR >= Hfm_70ljS)
 {
@@ -283,7 +283,7 @@ break;
 }
 else if (t2kMr >= -1413993015)
 {
-a9sVym8x9_ = BjJ30X9(NAT6, R45uau7Gc, 266434251);
+a9sVym8x9_ = BjJ30X9(NAT6, R45uau7Gc, (short)266434251);
 }
 else if (((I438hw3fJ & AJth5FC_q) || (w9_8DPRzSw != c_glH8hk9)) || ((q3C3k7CShT) && (oZweLA <= uo8RoTefY)))
 {
@@ -298,7 +298,7 @@ do
 --j;
 if (q8o_Rn == wg97N)
 {
-a9sVym8x9_ = BjJ30X9(-738715127, IW1RIgX, 491324203);
+a9sVym8x9_ = BjJ30X9(-738715127, IW1RIgX, (short)491324203);
 }
 else if (Xr3958l < -634616916)
 {
@@ -339,7 +339,7 @@ case 3:
 a9sVym8x9_ = (int)abs(t2kMr);
 break;
 case 4:
-a9sVym8x9_ = BjJ30X9(-1115408680, a9sVym8x9_, 965708312);
+a9sVym8x9_ = BjJ30X9(-1115408680, a9sVym8x9_, (short)965708312);
 break;
 case 5:
 w9_8DPRzSw = IyQu * Xr3958l;
@@ -449,7 +449,7 @@ case 2:
 YP5dxMH2 = EmS2PW - 2022972400;
 break;
 case 3:
-VYo3lY_4sF = TeKV8d_EbW(1954650349, WuKoeNjb72, -1235187889, -1158208710, -1276073712);
+VYo3lY_4sF = TeKV8d_EbW(1954650349, WuKoeNjb72, (unsigned char)-1235187889, -1158208710, -1276073712);
 break;
 case 4:
 saM8lEqUTH ^= UOpJ8VA4;
@@ -500,7 +500,7 @@ case 'i':
 mCzN = (int)abs(t2kMr);
 break;
 case 'j':
-a9sVym8x9_ = BjJ30X9(NAT6, mXW6PB9, 813068887);
+a9sVym8x9_ = BjJ30X9(NAT6, mXW6PB9, (short)813068887);
 break;
 }
 ++i;
@@ -535,7 +535,7 @@ case 'e':
 EU1PV9i5 = TeKV8d_EbW(mCzN, -1808824389, -116585966, uho80Yr_8x, q8o_Rn);
 break;
 case 'f':
-i_03ozEy8Y = TeKV8d_EbW(1522059912, uo8RoTefY, -384898795, 606766023, faLL1k);
+i_03ozEy8Y = TeKV8d_EbW((unsigned short)1522059912, uo8RoTefY, -384898795, 606766023, faLL1k);
 break;
 case 'g':
 mu_E8 = SxyIK_q046(-670893448, -2012654151);
@@ -571,7 +571,7 @@ case 'f':
 YP5dxMH2--;
 break;
 case 'g':
-t2kMr = BjJ30X9(YP5dxMH2, 1513630593, 90999906);
+t2kMr = BjJ30X9(YP5dxMH2, 1513630593, (short)90999906);
 break;
 case 'h':
 w_kMOx = b0O3(w_kMOx, 103397864);

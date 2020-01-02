@@ -55,7 +55,7 @@ case 2:
 AP0rbyk = prlyl0_(AP0rbyk, 1755011823);
 break;
 case 3:
-rV62TaFq = P22t9Uh(Eo91IYvk0, 1769705227, 1046106971, 649846155);
+rV62TaFq = P22t9Uh(Eo91IYvk0, (unsigned char)1769705227, 1046106971, 649846155);
 break;
 case 4:
 rV62TaFq = P22t9Uh(-1071055308, u2M83, m5md, rmZO_7c_);
@@ -70,7 +70,7 @@ break;
 }
 else if (KoriuSf6 > C8_N31JLri)
 {
-std::cout << Qn32_ << Qn32_ << P22t9Uh(1234939429, -1729110509, 1271838339, -83432879) << u2M83 << std::endl;
+std::cout << Qn32_ << Qn32_ << P22t9Uh((char)1234939429, -1729110509, 1271838339, -83432879) << u2M83 << std::endl;
 }
 else if (x153)
 {
@@ -111,7 +111,7 @@ case 5:
 KoriuSf6 = hwuhg7k9v - W01TJz;
 break;
 case 6:
-rV62TaFq = P22t9Uh(528815921, c79Gqj, hwuhg7k9v, -861010773);
+rV62TaFq = P22t9Uh(528815921, c79Gqj, hwuhg7k9v, (unsigned short)-861010773);
 break;
 case 7:
 PR4s42sMQ %= B92M9E;
@@ -159,7 +159,7 @@ KoriuSf6 = (int)abs(rmZO_7c_);
 break;
 case 'h':
 case 'H':
-KoriuSf6 = prlyl0_(-153687335, t_i4_3mJ);
+KoriuSf6 = prlyl0_((char)-153687335, t_i4_3mJ);
 break;
 case 'i':
 case 'I':
@@ -197,7 +197,7 @@ case 2:
 B92M9E = prlyl0_(-276102391, KoriuSf6);
 break;
 case 3:
-u2M83 = prlyl0_(-438187058, 445508664);
+u2M83 = prlyl0_((char)-438187058, 445508664);
 break;
 case 4:
 AP0rbyk = rV62TaFq % rWnzD;
@@ -228,7 +228,7 @@ x015h8 *= u2M83;
 }
 else if (m5md < 1712036921)
 {
-rV62TaFq = P22t9Uh(M2vBhFB, 1628170545, -1332669570, 426365134);
+rV62TaFq = P22t9Uh(M2vBhFB, 1628170545, -1332669570, (unsigned short)426365134);
 }
 else
 {
@@ -259,7 +259,7 @@ M2vBhFB = (long)(c79Gqj);
 rmZO_7c_ = i42vZ850j(-2085383932, -1311316842);
 
 B92M9E = rV62TaFq ^ oclLy0;
-if ((hwuhg7k9v / P22t9Uh(-343300778, -80826876, 893167662, 1618799898)) != -501663483)
+if ((hwuhg7k9v / P22t9Uh((char)-343300778, -80826876, 893167662, 1618799898)) != -501663483)
 {
 for (int i = 0; i < 177; i++)
 {
@@ -271,7 +271,7 @@ uQR1f_Zf = (long)(x015h8);
 }
 else if (((hwuhg7k9v == PR4s42sMQ) && (M2vBhFB >= 269413217)) && ((x153 & B92M9E) && (c79Gqj)))
 {
-rV62TaFq = P22t9Uh(-629834023, -419064203, rmZO_7c_, Eo91IYvk0);
+rV62TaFq = P22t9Uh(-629834023, (unsigned char)-419064203, rmZO_7c_, Eo91IYvk0);
 }
 else if (x153)
 {

@@ -76,7 +76,7 @@ else
 {
 for (int k = 0; k < 5; k++)
 {
-VKVM = crwPa41UZ(-1206662051, Om8h_X_s, -2077383281, eCT9Yc0x, nuDeMZ_qD);
+VKVM = crwPa41UZ(-1206662051, Om8h_X_s, (char)-2077383281, eCT9Yc0x, nuDeMZ_qD);
 }
 }
 i++;

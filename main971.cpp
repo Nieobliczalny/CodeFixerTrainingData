@@ -24,7 +24,7 @@ int main(int argc, char** argv)
   unsigned int  bl4964BfX;
   bl4964BfX  =  304962211;
  unsigned short OM_3f;
- OM_3f = 398238058;
+ OM_3f = (unsigned short)398238058;
     unsigned char    sqgtqrvJ;
     sqgtqrvJ    =    0;
   int  BlGNL64;
@@ -50,7 +50,7 @@ int main(int argc, char** argv)
 	unsigned int	qNV7MS;
 	qNV7MS	=	0;
  unsigned char kAca1;
- kAca1 = -83218561;
+ kAca1 = (unsigned char)-83218561;
   short int  mufT2;
   mufT2  =  -628085690;
  unsigned char ZXN9_jKw;
@@ -80,7 +80,7 @@ int main(int argc, char** argv)
  double FUy6;
  FUy6 = 590313219;
 	unsigned short int	nfYeV5Cg;
-	nfYeV5Cg	=	2019926295;
+	nfYeV5Cg	=	(unsigned short)2019926295;
  unsigned short int CAfHW676;
  CAfHW676 = -1492588178;
   unsigned char  B4qI;
@@ -94,7 +94,7 @@ int main(int argc, char** argv)
     short    Se6YK4fJ76;
     Se6YK4fJ76    =    -1682401181;
  short int GJ6kga;
- GJ6kga = 352184402;
+ GJ6kga = (short)352184402;
   unsigned short  VM4tQ;
   VM4tQ  =  -1113069403;
 	short int	Rz2f;

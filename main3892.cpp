@@ -167,7 +167,7 @@ case 'a':
 L85nT1k5p3 = r690a(-1449654287);
 break;
 default:
-L85nT1k5p3 = r690a(2067776335);
+L85nT1k5p3 = r690a((short)2067776335);
 break;
 }
 }
@@ -225,7 +225,7 @@ break;
 
 if (Lcp3cPV9p >= 1290425337)
 {
-L85nT1k5p3 = r690a(2127122090);
+L85nT1k5p3 = r690a((short)2127122090);
 }
 
 if (GLmNd45f & 1370453760)
@@ -286,7 +286,7 @@ L85nT1k5p3 = r690a(-1103320694);
 
 if (Lcp3cPV9p >= 763763119)
 {
-std::cout << r690a(m_ci62) << "Z8_21ET" << p8fHV27F << r690a(1332247230) << std::endl;
+std::cout << r690a(m_ci62) << "Z8_21ET" << p8fHV27F << r690a((short)1332247230) << std::endl;
 }
 else
 {

@@ -28,6 +28,7 @@ char	R_SXK0(unsigned long	jXRwDH9_j,unsigned char	ksKXEctFv,unsigned short	s1bR)
 int main(int argc, char** argv)
 {
   unsigned short int  TYxEY3U  =  0;
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
   unsigned short  O_K2Ka  =  -1095023622,  S31wYE3cF0  =  -818960783,  yjRmg69sTb  =  -286864065,  dDOA_PVH7  =  -1506059039,  I7tC  =  -1181477001,  Ykm0r  =  -481955736,  a623_Oi  =  667900475,  SLc149rYh8  =  -886910972,  B98P1_9p  =  -1305201591,  DqTu24M  =  -1051770798,  lox6hTxk0  =  1786075495,  T1qtRg3YRN  =  -600653944,  BqN3K6Aw0R  =  1739963714,  zr5ykg  =  -1037905077,  u14q1sB0Tk  =  -1840257458,  E84cMV  =  305200869,  yPH8M95_  =  -21964920,  Kk07vqJ_8T  =  -764220921,  Vt212  =  99126288,  Lp5L_Imkn  =  467807054,  aX2d  =  -125041577,  tam6xdO  =  591868036,  grVYKdh7u_  =  -1716088173,  nJ_wMhc5_0  =  1081840835,  QK2Dmx2J5  =  -141198262,  Yr1Ifu  =  810965484,  cNMMAxp3  =  2124813836,  NU33  =  -2016131722,  olbExm92M3  =  210794673,  ajK3sb  =  1989276766,  Cjz33  =  -707234755;
 
 if (B98P1_9p <= rk0_HiH)
@@ -77,7 +78,7 @@ BqN3K6Aw0R = RuNKizK1(BqN3K6Aw0R);
 }
 else if ((yPH8M95_ <= Vt212) && (ajK3sb))
 {
-TYxEY3U = D2L82iNYo(I7tC, -362976092, -1088151883);
+TYxEY3U = D2L82iNYo(I7tC, -362976092, (short)-1088151883);
 }
 else
 {
@@ -126,7 +127,7 @@ TYxEY3U = D2L82iNYo(QK2Dmx2J5, -1871669603, tam6xdO);
 }
 else if (zr5ykg == -12738551)
 {
-tam6xdO = R_SXK0(tam6xdO, -1026035299, ajK3sb);
+tam6xdO = R_SXK0(tam6xdO, (unsigned char)-1026035299, ajK3sb);
 }
 else if (NU33 < tam6xdO)
 {
@@ -250,7 +251,7 @@ else if (cNMMAxp3 & E84cMV)
 {
 try
 {
-std::cout << D2L82iNYo(2040671285, -914062758, 1125040285) << R_SXK0(Cjz33, B98P1_9p, nJ_wMhc5_0) << RuNKizK1(-299627586) << std::endl;
+std::cout << D2L82iNYo(2040671285, (short)-914062758, 1125040285) << R_SXK0(Cjz33, B98P1_9p, nJ_wMhc5_0) << RuNKizK1(-299627586) << std::endl;
 }
 catch (int& errorCode)
 {
@@ -284,7 +285,7 @@ else
 {
 if (dDOA_PVH7 == 987099893)
 {
-std::cout << "m9AM" << D2L82iNYo(1817147767, E84cMV, QK2Dmx2J5) << R_SXK0(1238704375, 1815557797, -1267092592) << "vEu7_" << std::endl;
+std::cout << "m9AM" << D2L82iNYo(1817147767, E84cMV, QK2Dmx2J5) << R_SXK0(1238704375, (unsigned char)1815557797, -1267092592) << "vEu7_" << std::endl;
 }
 else
 {
@@ -294,7 +295,7 @@ Ykm0r = R_SXK0(1359533328, -464806514, lox6hTxk0);
 }
 else
 {
-TYxEY3U = D2L82iNYo(2097732085, -1811269989, 1407865725);
+TYxEY3U = D2L82iNYo(2097732085, (short)-1811269989, 1407865725);
 }
 }
 }

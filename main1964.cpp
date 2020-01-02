@@ -36,7 +36,7 @@ unsigned char  e9VDEx_c(char  lmM_ND5n)  {
 }
 
 int main(void) {
- short s6PIA6Uaa_ = -851795436;
+ short s6PIA6Uaa_ = (short)-851795436;
     double    avPI_    =    -381100277;
   double  iAED  =  1922377960;
     unsigned long    NL_x    =    -1413698197;
@@ -46,7 +46,7 @@ int main(void) {
 	long	jO6GxI3A	=	-1972351014;
     short    jxmiAzg    =    1056175990;
   long double  n5LJhjf  =  -1481649581;
-    short int    b5843Ja466    =    -1346909286;
+    short int    b5843Ja466    =    (short)-1346909286;
 	short int	n5_30A	=	-1283848509;
 	unsigned short int	ED_X	=	1339217940;
  unsigned char W42daH = 1064139142;
@@ -62,7 +62,7 @@ int main(void) {
     long    pC9Rox7d    =    2060444154;
   long long  k87Omd_5lX  =  1290164956;
   unsigned int  f1_3i3Cg  =  1511327808;
-    short    le592q8R    =    1930848170;
+    short    le592q8R    =    (short)1930848170;
  long l5Uu0 = 0;
 	short	Yhb0	=	1246055181;
     unsigned char    iZer0    =    -980126780;
@@ -73,7 +73,7 @@ int main(void) {
  unsigned short int h0ISo_WNQW = 1795822162;
 	unsigned short	b4B1VfWL2	=	1316959191;
  double oWu84 = 881289357;
- unsigned short int kP33eJU = -44702347;
+ unsigned short int kP33eJU = (unsigned short)-44702347;
   int  R6q3nS84  =  654238683;
     double    uo7d019t5    =    -1099840438;
 	unsigned int	AV_a1Bt1BW	=	-125516956;
@@ -85,7 +85,7 @@ int main(void) {
 	char	a353	=	1262500068;
     long    iZU5    =    1667203993;
 	long long	JC6A7n4	=	2125370140;
-  unsigned char  d_mdK7kd  =  1003315270;
+  unsigned char  d_mdK7kd  =  (unsigned char)1003315270;
     long    V5pFY    =    -850468333;
   long long  EhJY  =  -1311803788;
 	unsigned short int	j409m6e	=	2076812558;
@@ -96,7 +96,7 @@ int i = 3;
 while (i >= 0)
 {
 i--;
-G3U8 = e9VDEx_c(2077385447);
+G3U8 = e9VDEx_c((char)2077385447);
 }
 }
 {
@@ -131,7 +131,7 @@ case 'b':
 a764h0XCK = ER8tl8eA(a764h0XCK, 35105795, 1996077767);
 break;
 case 'c':
-u0J67 = v3t1p9(-2090109704, 1089429792, TpbR, L4FaP);
+u0J67 = v3t1p9(-2090109704, (unsigned short)1089429792, TpbR, L4FaP);
 break;
 case 'd':
 Fg1X1xY29 = jUO3Q_4ZO_(1356615561, -1123959358);

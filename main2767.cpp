@@ -17,7 +17,7 @@ char	ogSNO8_55N(int	Mxsno6O,unsigned long long	UpTL5,short	tj4fSH7C,long long	S1
 }
 
 short jWL9i11333(int vE6M4Dg7yo,unsigned short int CamoGmP53u,short CtRqSX) {
- return -527499550;
+ return (short)-527499550;
 }
 
 long	SjKWNK16(int	VA_0VGgQ,unsigned int	x0mpMMm_)
@@ -42,7 +42,7 @@ int main()
 
 cout << Q2_44o() << Oero44O67 << "CGy_xo" << "i_9Pc" << endl;
 
-cout << ogSNO8_55N(W5Ehz, RUwj, 969232290, k23M92_hsM) << ogSNO8_55N(W5Ehz, -697481561, hm8t5D, 1324417146) << ogSNO8_55N(393339081, RUwj, 194189086, k23M92_hsM) << yY5S7_71T << "vILn" << endl;
+cout << ogSNO8_55N(W5Ehz, RUwj, 969232290, k23M92_hsM) << ogSNO8_55N(W5Ehz, -697481561, hm8t5D, 1324417146) << ogSNO8_55N(393339081, RUwj, (short)194189086, k23M92_hsM) << yY5S7_71T << "vILn" << endl;
 {
 int i = 1;
 do

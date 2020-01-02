@@ -66,7 +66,7 @@ int main(void)
  short int jM4IMc;
  jM4IMc = 1155216168;
     char    EU4V_;
-    EU4V_    =    1215584092;
+    EU4V_    =    (char)1215584092;
     unsigned char    OL1uqHo;
     OL1uqHo    =    -1949493846;
 	unsigned char	v4iMGzLZ;
@@ -78,7 +78,7 @@ int main(void)
 	int	IOm4zH8;
 	IOm4zH8	=	1789073609;
  char A6f0Lw8;
- A6f0Lw8 = 1618163549;
+ A6f0Lw8 = (char)1618163549;
     double    u8UnD;
     u8UnD    =    1887643847;
     short    L1y03nc;
@@ -88,7 +88,7 @@ int main(void)
   unsigned char  pV4y;
   pV4y  =  -1351884277;
  short MM1sZDTaD;
- MM1sZDTaD = -1321726817;
+ MM1sZDTaD = (short)-1321726817;
 	char	eM5iu7;
 	eM5iu7	=	885683958;
  short u4C82A92;
@@ -106,7 +106,7 @@ int main(void)
 	long long	h2VJwJ;
 	h2VJwJ	=	366541179;
 	short int	pp503H2;
-	pp503H2	=	-578259217;
+	pp503H2	=	(short)-578259217;
  short aFS1S52A2g;
  aFS1S52A2g = 94897959;
     unsigned int    bGkVnt2Qn;
@@ -118,7 +118,7 @@ int main(void)
   long  wMXbtAxe;
   wMXbtAxe  =  -1209160391;
  short THK0cf;
- THK0cf = 1983990321;
+ THK0cf = (short)1983990321;
     float    hRlqIT;
     hRlqIT    =    -1952948262;
   long  ZX_GbhMK;
@@ -128,7 +128,7 @@ int main(void)
   unsigned short int  o1v_sh;
   o1v_sh  =  91563289;
 	unsigned short int	eZA_2_p0Gs;
-	eZA_2_p0Gs	=	254126940;
+	eZA_2_p0Gs	=	(unsigned short)254126940;
   unsigned long long  PWq7WA;
   PWq7WA  =  -362732865;
  unsigned char x57H;
@@ -138,7 +138,7 @@ int main(void)
  short sRD21F;
  sRD21F = -1257004948;
  short int cr_U;
- cr_U = 967783975;
+ cr_U = (short)967783975;
  char gak_7;
  gak_7 = 312885808;
  float yGg0O_7;
@@ -174,7 +174,7 @@ try
 {
 if (((eM5iu7) || (Yavh & vO8fU328qt)) && ((LH0RHRO == -2054442410) || (u8UnD < 903337681)))
 {
-s9Ci = h90zT7ct(-843983195, -1559864960);
+s9Ci = h90zT7ct(-843983195, (unsigned short)-1559864960);
 }
 }
 catch (int& errorCode)
@@ -203,7 +203,7 @@ case 3:
 M6siBSz = (int)ceil(MO5Cc0Ix);
 break;
 case 4:
-hRlqIT = AU3GK5t8(-1432981766, -70600339, -1656899052);
+hRlqIT = AU3GK5t8(-1432981766, -70600339, (unsigned short)-1656899052);
 break;
 case 5:
 Z36VS8kx0y = (int)ceil(u8UnD);
@@ -221,7 +221,7 @@ case 9:
 jM4IMc = s1uOv5(677761870);
 break;
 default:
-Mua319 = AU3GK5t8(1657304238, Ee__k, 1653344466);
+Mua319 = AU3GK5t8(1657304238, Ee__k, (unsigned short)1653344466);
 break;
 }
 }

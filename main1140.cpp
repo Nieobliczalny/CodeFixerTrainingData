@@ -23,7 +23,7 @@ int main() {
     float    WcKS___8;
     WcKS___8    =    1969632168;
   unsigned short  IN99Yx4h;
-  IN99Yx4h  =  601133774;
+  IN99Yx4h  =  (unsigned short)601133774;
   unsigned long  EGIr;
   EGIr  =  -1849111224;
   float  h31P3r_P;
@@ -49,7 +49,7 @@ int main() {
 	short int	N0svu9k5;
 	N0svu9k5	=	292373524;
  unsigned char d74d_U;
- d74d_U = -665044983;
+ d74d_U = (unsigned char)-665044983;
   double  x_P5x;
   x_P5x  =  432056045;
     short int    q9IVoSti27;
@@ -59,7 +59,7 @@ int main() {
     char    OMgd;
     OMgd    =    -1635166151;
 	unsigned char	jf3_xrJeh9;
-	jf3_xrJeh9	=	2057105466;
+	jf3_xrJeh9	=	(unsigned char)2057105466;
   long long  SjVXX6K1c;
   SjVXX6K1c  =  -2096714852;
     float    UQvx;
@@ -95,7 +95,7 @@ int main() {
 	long long	Q0J3pa_;
 	Q0J3pa_	=	-1024664006;
  char NVq_7;
- NVq_7 = 675912504;
+ NVq_7 = (char)675912504;
  char BL5U;
  BL5U = -2036856649;
 	short int	z75pOn;
@@ -115,7 +115,7 @@ int main() {
  unsigned short ac8M24J6;
  ac8M24J6 = 1633964654;
   unsigned char  y0xmbG;
-  y0xmbG  =  1659228411;
+  y0xmbG  =  (unsigned char)1659228411;
     long double    I89Sk22pJq;
     I89Sk22pJq    =    -1396808008;
 	unsigned long long	rO82aF;
@@ -127,7 +127,7 @@ int main() {
     long long    wSiXS1;
     wSiXS1    =    -1664271914;
   unsigned short  y1uE;
-  y1uE  =  1392611633;
+  y1uE  =  (unsigned short)1392611633;
  unsigned short int b13EF6n;
  b13EF6n = -926937611;
   float  bUiLs;
@@ -141,7 +141,7 @@ int main() {
 	int	xFpTN;
 	xFpTN	=	1724481197;
   unsigned char  FTc52;
-  FTc52  =  137685437;
+  FTc52  =  (unsigned char)137685437;
     int    Xknn2M;
     Xknn2M    =    -125050328;
     double    fp2Th;
@@ -155,7 +155,7 @@ int main() {
  long CZH6A;
  CZH6A = 618224421;
 	short	hJ_7I;
-	hJ_7I	=	-515702526;
+	hJ_7I	=	(short)-515702526;
     unsigned short int    VC9_;
     VC9_    =    -1983520307;
  unsigned short R76_9e;
@@ -167,7 +167,7 @@ int main() {
     long    t0116Y;
     t0116Y    =    -1680387025;
     short    Uf1FRf8Q4N;
-    Uf1FRf8Q4N    =    690613958;
+    Uf1FRf8Q4N    =    (short)690613958;
 	unsigned short int	bgP5;
 	bgP5	=	1351160136;
 	long double	gZ85;

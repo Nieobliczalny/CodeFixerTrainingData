@@ -15,7 +15,7 @@ using std::floor;
 int main(void) {
   unsigned short int  rgAD,  ZKeM_k,  Kyt_Cd,  g78Le25Dm,  KqwTAO9IU6,  IhqNiB,  R_WJ,  lW0TE9MQ,  Pje_d8,  bw_euQA26w,  dj04,  t97wW,  eewV,  B_pI,  A5SFL,  K7erMIoiN,  dB57p8Kp,  Xf7TxIoIv,  G_4vh6k,  FrC_5dQ,  uBqBHyGzax,  SSu3Qp72,  i2de,  KJvE,  D_iA00,  sI3G0XoP2,  x33E,  zC0mVS,  S6X9RL8,  R9bMh3vEHt,  QOU6p,  e_dDt,  A1F_34I,  KZ0L82,  FB_G,  jLK0496,  X7DjP1M176,  u0qgp48,  Nk61Hm_L,  KTLT5GbW3V,  w49zzb1QJ,  mmmo5IM7m,  mXXljg2_,  qj4Ji;
   rgAD  =  -1637767882;
-  ZKeM_k  =  -157558162;
+  ZKeM_k  =  (unsigned short)-157558162;
   Kyt_Cd  =  1742453912;
   g78Le25Dm  =  -559468042;
   KqwTAO9IU6  =  -1860272071;
@@ -25,7 +25,7 @@ int main(void) {
   Pje_d8  =  63073129;
   bw_euQA26w  =  1706189312;
   dj04  =  -402658009;
-  t97wW  =  2123396176;
+  t97wW  =  (unsigned short)2123396176;
   eewV  =  -603907631;
   B_pI  =  -1329394994;
   A5SFL  =  -494167204;
@@ -35,7 +35,7 @@ int main(void) {
   G_4vh6k  =  -281590716;
   FrC_5dQ  =  -1646824390;
   uBqBHyGzax  =  -907664500;
-  SSu3Qp72  =  -2008765332;
+  SSu3Qp72  =  (unsigned short)-2008765332;
   i2de  =  -288413939;
   KJvE  =  -293365451;
   D_iA00  =  -1453268149;
@@ -45,7 +45,7 @@ int main(void) {
   S6X9RL8  =  -2052566412;
   R9bMh3vEHt  =  -299110624;
   QOU6p  =  216551678;
-  e_dDt  =  622935618;
+  e_dDt  =  (unsigned short)622935618;
   A1F_34I  =  -445115231;
   KZ0L82  =  -1820314574;
   FB_G  =  1116259683;
@@ -55,7 +55,7 @@ int main(void) {
   Nk61Hm_L  =  -198969783;
   KTLT5GbW3V  =  452487101;
   w49zzb1QJ  =  -1023678255;
-  mmmo5IM7m  =  343206193;
+  mmmo5IM7m  =  (unsigned short)343206193;
   mXXljg2_  =  1523847735;
   qj4Ji  =  -1294512767;
  short int rS0MbYAn, X53zsB, NS2WN6S9, QI60EEh51;

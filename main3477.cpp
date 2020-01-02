@@ -42,7 +42,7 @@ int main(void) {
 	unsigned long	x996aH3nn	=	193193142;
 	short	Mh4S3PQP68	=	0;
   short  e_tyz  =  -1556471728;
-	unsigned char	cFpP	=	237016523;
+	unsigned char	cFpP	=	(unsigned char)237016523;
     double    a1553    =    -673643803;
 	double	EF3ySqdN	=	-25315382;
  unsigned long long IVd9VO7v = 0;

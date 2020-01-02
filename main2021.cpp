@@ -32,7 +32,7 @@ char	qT3P0f7V7(unsigned int	Yr_P,unsigned long	Dj_0WIl2F7,unsigned long	BgY3D)
 }
 
 short  sCTF_UZx_7(int  Kmmbf1Wh,unsigned short int  QY1IW9,int  Xmu64)  {
-  return  1171171019;
+  return  (short)1171171019;
 }
 
 int main(void) {
@@ -157,7 +157,7 @@ case 7:
 tpj6S0W = MQ62V0(tpj6S0W, -1112784615);
 break;
 case 8:
-NV0_DiI = CjcG(tpj6S0W, -1643748971, 20690508, EOSCKIAD);
+NV0_DiI = CjcG(tpj6S0W, -1643748971, (char)20690508, EOSCKIAD);
 break;
 }
 {

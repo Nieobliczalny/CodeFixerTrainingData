@@ -30,7 +30,7 @@ int main() {
 	short int	uSyf3;
 	uSyf3	=	-486445685;
  char bTRt;
- bTRt = -2133400574;
+ bTRt = (char)-2133400574;
   long  ZOFG;
   ZOFG  =  -975782618;
     short int    lLhf;
@@ -46,7 +46,7 @@ int main() {
  double robpfflgH;
  robpfflgH = -1308165897;
     unsigned short    lt1C5_JY;
-    lt1C5_JY    =    -534107984;
+    lt1C5_JY    =    (unsigned short)-534107984;
 	unsigned short	fLk_FV_1A;
 	fLk_FV_1A	=	1636626855;
 	char	f5w5qT8;
@@ -58,7 +58,7 @@ int main() {
 	long	VF9fJay;
 	VF9fJay	=	-719114952;
     unsigned short int    ZvpEEQn;
-    ZvpEEQn    =    1783102590;
+    ZvpEEQn    =    (unsigned short)1783102590;
  unsigned short J24H;
  J24H = -364704821;
     long    jIH1;
@@ -68,7 +68,7 @@ int main() {
 	short int	Vg0xG6_spU;
 	Vg0xG6_spU	=	979097966;
  char j4vz0;
- j4vz0 = 2061054633;
+ j4vz0 = (char)2061054633;
 	unsigned long long	M62DM;
 	M62DM	=	1182575347;
   int  Rc5wd;
@@ -78,7 +78,7 @@ int main() {
  unsigned short ejhJA;
  ejhJA = 2047774187;
 	unsigned char	j7fuP;
-	j7fuP	=	322629557;
+	j7fuP	=	(unsigned char)322629557;
   long double  nN1ksH;
   nN1ksH  =  -1642596527;
   long  SQ93;
@@ -88,7 +88,7 @@ int main() {
     short int    OVH9H0qZ7B;
     OVH9H0qZ7B    =    -2111382754;
     unsigned char    c6wp;
-    c6wp    =    -1953898116;
+    c6wp    =    (unsigned char)-1953898116;
   int  Akftt06x;
   Akftt06x  =  -389016819;
   float  R0VxsJh81i;
@@ -106,7 +106,7 @@ int main() {
   unsigned long long  llmLh;
   llmLh  =  -766911997;
 	unsigned short int	beH31;
-	beH31	=	-170545741;
+	beH31	=	(unsigned short)-170545741;
     float    YPcut8;
     YPcut8    =    -413404311;
 	unsigned char	Hq05khcK;
@@ -122,7 +122,7 @@ int main() {
  short eQ26mw86e1;
  eQ26mw86e1 = 0;
  unsigned char xU5i;
- xU5i = -1113859788;
+ xU5i = (unsigned char)-1113859788;
   long  O3HxhmoKA8;
   O3HxhmoKA8  =  -2084429223;
 	char	UVrE9;
@@ -132,7 +132,7 @@ int main() {
 	short	SSZCd4vNH;
 	SSZCd4vNH	=	-1140194480;
  unsigned short int a92K7x;
- a92K7x = -434332104;
+ a92K7x = (unsigned short)-434332104;
   short int  Y6Eg;
   Y6Eg  =  -881552904;
   short int  CUQGS79_gs;
@@ -164,7 +164,7 @@ int main() {
     unsigned char    umH19XB;
     umH19XB    =    1285116433;
   unsigned short int  O58f;
-  O58f  =  740390395;
+  O58f  =  (unsigned short)740390395;
 
 switch (fHC6w5)
 {

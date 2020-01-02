@@ -158,7 +158,7 @@ sJnf = eo6y_D5W ^ 1182734761;
 }
 else if (sTOa8wb != d90Zfy)
 {
-sTOa8wb = XKO2F(-1089415510, ik0OvN_6a2);
+sTOa8wb = XKO2F((char)-1089415510, ik0OvN_6a2);
 }
 else if (sTOa8wb != wMCy)
 {

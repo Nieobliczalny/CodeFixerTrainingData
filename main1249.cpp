@@ -48,7 +48,7 @@ case 'f':
 wfI_ = R8rDkBEz & B5jon7TbJ;
 break;
 case 'g':
-wfI_ = eYD_O(wfI_, -2041219908);
+wfI_ = eYD_O(wfI_, (unsigned char)-2041219908);
 break;
 case 'h':
 bcoN2 = eYD_O(-1556577815, bcoN2);
@@ -103,7 +103,7 @@ case 2:
 uwM77vp = eYD_O(TXW31cLs2, w7F3i638) + xK67;
 break;
 case 3:
-bcoN2 = eYD_O(-1124163043, -440313800);
+bcoN2 = eYD_O(-1124163043, (unsigned char)-440313800);
 break;
 default:
 wfI_ = (int)abs(TXW31cLs2);
@@ -583,7 +583,7 @@ case 1:
 xK67 = eYD_O(xK67, 214580263);
 break;
 case 2:
-TXW31cLs2 = eYD_O(w7F3i638, -459497034);
+TXW31cLs2 = eYD_O(w7F3i638, (unsigned char)-459497034);
 break;
 case 3:
 uwM77vp /= bcoN2;

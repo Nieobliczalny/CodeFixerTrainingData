@@ -20,7 +20,7 @@ unsigned short int oL16JlEF() {
 }
 
 unsigned char    yG7r(unsigned short int    HJnY,unsigned short    a05vLB5w,short int    ZaZ5uIh3Sc,unsigned short int    am312HtqJf)    {
-    return    676050146;
+    return    (unsigned char)676050146;
 }
 
 int main(int argc, char** argv)
@@ -32,7 +32,7 @@ YIV89saPP = (unsigned short int)(DK6v);
 
 if (Jh_S7PAbO < lg_33J9)
 {
-c7Dl = yG7r(1540555199, x8fmxaT, -869313005, -1645817302);
+c7Dl = yG7r(1540555199, x8fmxaT, (short)-869313005, -1645817302);
 }
 if (o_PRN >= s9sE)
 {
@@ -65,7 +65,7 @@ case 'h':
 GAFHIw = (int)abs(KX8P7aO9D4);
 break;
 default:
-FxtZo = a4O2p91f(o_C97Dnl2P, -710884928, -1822945705, V0w0O, 17946574);
+FxtZo = a4O2p91f(o_C97Dnl2P, -710884928, (short)-1822945705, V0w0O, 17946574);
 break;
 }
 }
@@ -93,7 +93,7 @@ oDKBQcy6r = (rug1h6_4e != 1224748581) ? IJ1L4N4f : DvwIseT0B;
 switch (y10t1d3)
 {
 case 0:
-FxtZo = a4O2p91f(452541655, QTQD, -1496055399, IMypYx6, BzwdZIo);
+FxtZo = a4O2p91f(452541655, QTQD, (short)-1496055399, IMypYx6, BzwdZIo);
 break;
 default:
 S2_hiR0D &= 217631517;
@@ -105,7 +105,7 @@ int i = 0;
 while (i < 4)
 {
 i++;
-std::cout << yG7r(1943470187, QTQD, 773853130, IMypYx6) << "g0oxH2" << std::endl;
+std::cout << yG7r(1943470187, QTQD, (short)773853130, IMypYx6) << "g0oxH2" << std::endl;
 }
 }
 for (int i = 9; i >= 0; i--)
@@ -159,7 +159,7 @@ KX8P7aO9D4 = (int)abs(FxtZo);
 }
 }
 
-wuuDWA5DNp = q8hD / a4O2p91f(-1047489124, h9cER2eg, -2088313333, 1031250245, T7WUB7);
+wuuDWA5DNp = q8hD / a4O2p91f(-1047489124, h9cER2eg, (short)-2088313333, 1031250245, T7WUB7);
 if (QQtFV != 1963243743)
 {
 MTyK7tG_wW = oL16JlEF();
@@ -204,7 +204,7 @@ int k = 0;
 while (k < 10)
 {
 ++k;
-wuuDWA5DNp = yG7r(1819588232, -234812044, C4lg8dJ7, -1169151137);
+wuuDWA5DNp = yG7r(1819588232, (unsigned short)-234812044, C4lg8dJ7, -1169151137);
 }
 }
 }
@@ -219,7 +219,7 @@ GAFHIw = a4O2p91f(GAFHIw, 393228054, C9wT54, Vsm_c, 332509653);
 switch (AvUq)
 {
 case 0:
-Aki_FcNO = yG7r(-1707271035, 1659359325, -465985611, gfU0Y7Yq);
+Aki_FcNO = yG7r((unsigned short)-1707271035, 1659359325, -465985611, gfU0Y7Yq);
 break;
 case 1:
 Dd1L0 = yG7r(-725278809, QQtFV, pa70esc7, c7Dl);
@@ -234,7 +234,7 @@ case 4:
 x8fmxaT = P_Z9A & 1397425365;
 break;
 case 5:
-KX8P7aO9D4 = a4O2p91f(RlmX, PC5JeT_5, 156615987, o_PRN, iJ1H);
+KX8P7aO9D4 = a4O2p91f(RlmX, PC5JeT_5, (short)156615987, o_PRN, iJ1H);
 break;
 case 6:
 FxtZo = a4O2p91f(-2089501550, 6171609, M0h5O90Q4, -1696765345, P_Z9A);
@@ -256,7 +256,7 @@ if (kxAD_)
 {
 if (Aki_FcNO < -317206511)
 {
-DvwIseT0B = yG7r(DvwIseT0B, -1921984113, C9wT54, -332295831);
+DvwIseT0B = yG7r(DvwIseT0B, -1921984113, C9wT54, (unsigned short)-332295831);
 }
 else
 {
@@ -287,7 +287,7 @@ else if (kJyUAq0 < -615004809)
 {
 if ((Nt6A3w > KX8P7aO9D4) || (t_7d < V0w0O))
 {
-CP2y_191_2 = yG7r(-326358650, CP2y_191_2, oDKBQcy6r, -724795678);
+CP2y_191_2 = yG7r(-326358650, CP2y_191_2, oDKBQcy6r, (unsigned short)-724795678);
 }
 }
 else if ((CP2y_191_2 != kxAD_) && ((Ove80X77a) || (o_C97Dnl2P >= 1419241571)))
@@ -329,7 +329,7 @@ case 'f':
 c70u3A = rakBPx ^ BzwdZIo;
 break;
 case 'g':
-wCed14 = yG7r(1966837227, wuuDWA5DNp, 1945416878, 496767441);
+wCed14 = yG7r(1966837227, wuuDWA5DNp, (short)1945416878, 496767441);
 break;
 default:
 b676++;
@@ -345,7 +345,7 @@ int k = 10;
 while (k >= 0)
 {
 --k;
-FxtZo = a4O2p91f(BSunEV, 1754798133, -1477632534, 512080706, rXAYk_4);
+FxtZo = a4O2p91f(BSunEV, 1754798133, (short)-1477632534, 512080706, rXAYk_4);
 }
 }
 }
@@ -387,7 +387,7 @@ KX8P7aO9D4 = a4O2p91f(284597033, i1eKZ, FnOTt46eSs, yg8_i0z7, Wy_4U9);
 }
 else
 {
-std::cout << GblHUFvL8 << naav_2i5R << yG7r(h9cER2eg, 919355251, -228155955, -345695271) << K24osP8W4 << QQtFV << std::endl;
+std::cout << GblHUFvL8 << naav_2i5R << yG7r(h9cER2eg, (unsigned short)919355251, -228155955, -345695271) << K24osP8W4 << QQtFV << std::endl;
 }
 }
 else
@@ -430,7 +430,7 @@ YpQL_1N_A = oL16JlEF();
 }
 }
 
-std::cout << a4O2p91f(YpQL_1N_A, -502828441, 668544098, -566993017, 1456282009) << std::endl;
+std::cout << a4O2p91f(YpQL_1N_A, (short)-502828441, 668544098, -566993017, 1456282009) << std::endl;
 
 return 0;
 }

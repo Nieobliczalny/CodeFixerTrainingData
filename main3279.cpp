@@ -29,7 +29,7 @@ int main()
 	unsigned short int	v2ZH12UH7;
 	v2ZH12UH7	=	847784967;
  unsigned char m5L555U2;
- m5L555U2 = -1862660557;
+ m5L555U2 = (unsigned char)-1862660557;
   unsigned short  AQz6o3;
   AQz6o3  =  -589553264;
   unsigned int  LToFo3lx;

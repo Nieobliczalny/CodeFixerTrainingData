@@ -42,7 +42,7 @@ int main(void)
     unsigned long long    ts8h_;
     ts8h_    =    150844630;
 	short int	f4z3iJ;
-	f4z3iJ	=	-734870056;
+	f4z3iJ	=	(short)-734870056;
   unsigned char  u7D5Si_8LA;
   u7D5Si_8LA  =  -1812319687;
  int vqt0V;
@@ -54,7 +54,7 @@ int main(void)
   short int  zD_sR9l;
   zD_sR9l  =  -1180345993;
 	char	dwv0_vqu1P;
-	dwv0_vqu1P	=	-265777160;
+	dwv0_vqu1P	=	(char)-265777160;
 	unsigned short	D02KZ0;
 	D02KZ0	=	740336716;
   unsigned short int  l20cQ1q0EG;
@@ -148,7 +148,7 @@ case 3:
 xV8A3Dq_ = Sg8kzpz();
 break;
 case 4:
-dwv0_vqu1P = jNi0Hs1YuF(1481654435, -269620256, -169751942);
+dwv0_vqu1P = jNi0Hs1YuF(1481654435, -269620256, (char)-169751942);
 break;
 default:
 frCXX = (int)floor(f69a);

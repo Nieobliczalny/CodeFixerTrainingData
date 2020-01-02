@@ -24,7 +24,7 @@ char  JSsLE5sM3J(unsigned short  QrU43Ivw,unsigned short  RO9vT)
 
 unsigned char rt2Y7qRH4(long long SORwZmUi_Z)
 {
- return -493995532;
+ return (unsigned char)-493995532;
 }
 
 unsigned int    wts366X(int    L_Fes_u893,long long    A4JSb31,char    pP4NPy8VC6,unsigned short    z87S8E4)
@@ -40,7 +40,7 @@ unsigned int  WzAx4O()
 int main(void) {
 	int	PyE0qp	=	-1472787596;
  short int E5Txfc3z = -1964516191;
-	char	PnfZsZ	=	1830272096;
+	char	PnfZsZ	=	(char)1830272096;
  short int X0pEJ = 0;
 	unsigned long	Lot7dmkN	=	2040581813;
  unsigned int Tb7_snLW = 687975690;
@@ -52,7 +52,7 @@ int main(void) {
     short int    KzYJHWa    =    1573580997;
  long long dOcjY = 1109886961;
 	unsigned long	Kd2A2uRmGl	=	-1132281001;
- short S5_c = -937701598;
+ short S5_c = (short)-937701598;
   long  tLb1s  =  -840119011;
 	unsigned short int	lXEnU_N	=	-20115226;
 	unsigned short int	VfoKb	=	-1094517347;
@@ -62,7 +62,7 @@ int main(void) {
   unsigned short  HTm4Vg  =  -646010720;
 	int	K2y_3	=	123930512;
   unsigned long long  qbUS  =  -1529058465;
-	unsigned short int	BRC1PI	=	-979148185;
+	unsigned short int	BRC1PI	=	(unsigned short)-979148185;
 
 if (VfoKb & Lot7dmkN)
 {
@@ -88,7 +88,7 @@ else if (((Kd2A2uRmGl & 98334950) || (HTm4Vg > -1413883800)) || (X0pEJ & 1608873
 {
 if (((X0pEJ != PnfZsZ) && (KzYJHWa != 417502911)) && ((KzYJHWa == -1945965242) || (tLb1s > 1473943839)))
 {
-std::cout << dOcjY << "w8VaA2y" << wts366X(72668716, -2115031124, 1370662904, 1151463875) << S5_c << "c5NF_23m37" << std::endl;
+std::cout << dOcjY << "w8VaA2y" << wts366X(72668716, -2115031124, (char)1370662904, 1151463875) << S5_c << "c5NF_23m37" << std::endl;
 }
 else
 {
@@ -101,7 +101,7 @@ Kd2A2uRmGl = JSsLE5sM3J(Kd2A2uRmGl, X0pEJ);
 }
 else
 {
-X0pEJ = wts366X(S5_c, -1350093095, 706995026, VfoKb);
+X0pEJ = wts366X(S5_c, -1350093095, (char)706995026, VfoKb);
 }
 
 for (int i = 0; i < 8; i++)
@@ -294,7 +294,7 @@ AP363KWF = tLb1s / 1487330267;
 }
 while (i >= 0);
 }
-std::cout << wts366X(cTeOH07jz, -1652586478, sB73N, -854876344) << JSsLE5sM3J(1672527260, sP72KN0_a8) << std::endl;
+std::cout << wts366X(cTeOH07jz, -1652586478, sB73N, -854876344) << JSsLE5sM3J((unsigned short)1672527260, sP72KN0_a8) << std::endl;
 
 E5Txfc3z = BRC1PI & 479508210;
 switch (AP363KWF)

@@ -29,7 +29,7 @@ int main()
 	unsigned char	pqQ9Qti7m;
 	pqQ9Qti7m	=	-720599536;
   short  dCDeH6sj9r;
-  dCDeH6sj9r  =  434511714;
+  dCDeH6sj9r  =  (short)434511714;
     float    RgVcak0;
     RgVcak0    =    314162558;
     unsigned short    nOXJX0q;
@@ -41,7 +41,7 @@ int main()
  unsigned short int wP8e;
  wP8e = -859683183;
   unsigned short int  wrf9V61V6V;
-  wrf9V61V6V  =  -1218043023;
+  wrf9V61V6V  =  (unsigned short)-1218043023;
   short int  e__8k_;
   e__8k_  =  -405332342;
  unsigned short WJDib;
@@ -53,7 +53,7 @@ int main()
     unsigned char    o88y0tc;
     o88y0tc    =    -1723190133;
 	unsigned short	zc7dWuL;
-	zc7dWuL	=	-2129840381;
+	zc7dWuL	=	(unsigned short)-2129840381;
   unsigned short  yF4a;
   yF4a  =  -1165824883;
     long long    jY3cWV2l;
@@ -73,7 +73,7 @@ int main()
 	long long	szQi;
 	szQi	=	-33022856;
 	unsigned short int	yp2V948rY;
-	yp2V948rY	=	-1928659421;
+	yp2V948rY	=	(unsigned short)-1928659421;
   char  HsHI9J;
   HsHI9J  =  1126507079;
     float    XcB8hiXj;
@@ -308,7 +308,7 @@ p0HnqPTML = Dw3F(1197615979, X16g, 771086178, RgVcak0);
 break;
 case 'f':
 case 'F':
-p0HnqPTML = Dw3F(-1141965270, 200834757, 398989714, yp2V948rY);
+p0HnqPTML = Dw3F(-1141965270, 200834757, (short)398989714, yp2V948rY);
 break;
 default:
 I3er5T = (int)floor(RgVcak0);
@@ -491,7 +491,7 @@ case 'g':
 Rl2b = e__8k_ ^ wP8e;
 break;
 case 'h':
-e__8k_ = D4E4HKx2(-101825258, 1936060939);
+e__8k_ = D4E4HKx2((unsigned short)-101825258, 1936060939);
 break;
 default:
 yM_Zh1Y >>= 1024312036;

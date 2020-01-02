@@ -35,7 +35,7 @@ unsigned char	R082GA8J8A()
 }
 
 unsigned short int  QGl4_1(short  wkU_M,unsigned long long  ppHny551j,unsigned short int  qR8T6czs)  {
-  return  596063078;
+  return  (unsigned short)596063078;
 }
 
 int main(void)
@@ -138,7 +138,7 @@ is71VG32P0 = M_Ua_ab9(-533404107);
 }
 for (int i = 1; i >= 0; i--)
 {
-LU_5i5ji = (L_39QQ5 == eM065X) ? QGl4_1(2127875322, -606049791, 931897037) : 1953658927;
+LU_5i5ji = (L_39QQ5 == eM065X) ? QGl4_1(2127875322, -606049791, (unsigned short)931897037) : 1953658927;
 }
 WR4QcC_ = R082GA8J8A();
 try
@@ -226,7 +226,7 @@ for (int j = 0; j < 1; ++j)
 {
 try
 {
-eM065X = QGl4_1(839409243, -1750651970, -358640940);
+eM065X = QGl4_1(839409243, -1750651970, (unsigned short)-358640940);
 }
 catch (int& errorCode)
 {
@@ -279,7 +279,7 @@ case 2:
 T43x__ = is71VG32P0 << 1892052847;
 break;
 case 3:
-TS082jN = QGl4_1(TS082jN, 830224884, 966601198);
+TS082jN = QGl4_1(TS082jN, 830224884, (unsigned short)966601198);
 break;
 case 4:
 VtdVs67wQ = QGl4_1(VtdVs67wQ, Hy294Js0, xVJz73);

@@ -41,7 +41,7 @@ int main()
 
 Klhz_8XM2N -= 2048233596;
 
-uK5fXx5_F = m9ea3By8Y(1271280703, 870172481, -1627311850, -1758142815);
+uK5fXx5_F = m9ea3By8Y(1271280703, 870172481, (unsigned short)-1627311850, -1758142815);
 Xg6D = (long)(E8_39qsMm);
 
 Ev4WN547lX <<= xIC6k;
@@ -68,7 +68,7 @@ case 'f':
 E130 = (int)abs(Klhz_8XM2N);
 break;
 case 'g':
-Ev4WN547lX = m9ea3By8Y(Ev4WN547lX, 1837368263, 1249621344, LdC889B);
+Ev4WN547lX = m9ea3By8Y(Ev4WN547lX, 1837368263, (unsigned short)1249621344, LdC889B);
 break;
 case 'h':
 R7pw89xx = (int)abs(FD_w3n11);

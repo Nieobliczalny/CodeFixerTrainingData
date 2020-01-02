@@ -88,7 +88,7 @@ qadqky = SCq1(U3EN, 1075194191, qadqky, -1254519639, 1510843624);
 break;
 case 'e':
 case 'E':
-oePE1ff1sv = SCq1(1679751154, 532464394, 900848985, qadqky, 596272210);
+oePE1ff1sv = SCq1((short)1679751154, 532464394, 900848985, qadqky, 596272210);
 break;
 case 'f':
 case 'F':
@@ -108,7 +108,7 @@ oePE1ff1sv = yMRSF7 / 961634560;
 break;
 case 'j':
 case 'J':
-qadqky = SCq1(-27087287, JSCQ5, 1867642285, -1645032495, -1993305594);
+qadqky = SCq1(-27087287, JSCQ5, (short)1867642285, -1645032495, -1993305594);
 break;
 }
 }
@@ -121,7 +121,7 @@ else
 {
 for (int j = 3; j >= 0; j--)
 {
-oePE1ff1sv = SCq1(yMRSF7, -663661986, 139426846, -1701445998, JSCQ5);
+oePE1ff1sv = SCq1(yMRSF7, -663661986, (short)139426846, -1701445998, JSCQ5);
 }
 }
 
@@ -175,7 +175,7 @@ oePE1ff1sv /= JSCQ5;
 }
 else
 {
-qadqky = SCq1(qadqky, -67156463, 476712731, yMRSF7, JSCQ5);
+qadqky = SCq1(qadqky, -67156463, (short)476712731, yMRSF7, JSCQ5);
 }
 }
 }
@@ -231,7 +231,7 @@ JSCQ5 = y7QFh(1800047748, 1225251501, 711525352, oePE1ff1sv, yMRSF7);
 }
 else if ((oePE1ff1sv == JSCQ5) && (qadqky != JSCQ5))
 {
-oePE1ff1sv = SCq1(1903365857, U3EN, 1208261402, JSCQ5, qadqky);
+oePE1ff1sv = SCq1(1903365857, U3EN, (short)1208261402, JSCQ5, qadqky);
 }
 else if ((U3EN != yMRSF7) && ((JSCQ5 == -184125426) && (U3EN >= -1998366587)))
 {
@@ -256,7 +256,7 @@ else
 int k = 0;
 do
 {
-oePE1ff1sv = SCq1(645354234, 1050280567, 723037991, JSCQ5, qadqky);
+oePE1ff1sv = SCq1((short)645354234, 1050280567, 723037991, JSCQ5, qadqky);
 k++;
 }
 while (k < 6);
@@ -473,7 +473,7 @@ while (j >= 0)
 j--;
 if (U3EN)
 {
-oePE1ff1sv = SCq1(-1034598761, 1815238825, 377782828, qadqky, yMRSF7);
+oePE1ff1sv = SCq1(-1034598761, (short)1815238825, 377782828, qadqky, yMRSF7);
 }
 else if (qadqky & 520239549)
 {
@@ -499,7 +499,7 @@ catch (int& errorCode)
 U3EN = y7QFh(-696956122, -335221949, U3EN, -930296850, JSCQ5);
 }
 
-oePE1ff1sv = SCq1(oePE1ff1sv, 1855893171, 1555271202, qadqky, -1611835756);
+oePE1ff1sv = SCq1(oePE1ff1sv, 1855893171, (short)1555271202, qadqky, -1611835756);
 {
 int i = 0;
 do
@@ -619,7 +619,7 @@ U3EN = y7QFh(1661323902, yMRSF7, -1758257450, oePE1ff1sv, -74505699);
 break;
 case 'e':
 case 'E':
-JSCQ5 = y7QFh(919444008, 2004818252, -208745202, qadqky, -2014041940);
+JSCQ5 = y7QFh(919444008, 2004818252, -208745202, qadqky, (char)-2014041940);
 break;
 case 'f':
 case 'F':
@@ -631,7 +631,7 @@ qadqky = y7QFh(-2059363423, yMRSF7, 362054583, qadqky, U3EN) << 702035871;
 break;
 case 'h':
 case 'H':
-qadqky = SCq1(783612430, -850585762, 768916986, JSCQ5, yMRSF7);
+qadqky = SCq1(783612430, (short)-850585762, 768916986, JSCQ5, yMRSF7);
 break;
 default:
 JSCQ5 = y7QFh(JSCQ5, 392003056, oePE1ff1sv, qadqky, -855620837);
@@ -649,7 +649,7 @@ qadqky = SCq1(yMRSF7, -949341357, JSCQ5, -738462705, oePE1ff1sv);
 }
 
 oePE1ff1sv = (long)(U3EN + (-1131813333));
-qadqky = SCq1(-446969155, yMRSF7, oePE1ff1sv, U3EN, JSCQ5);
+qadqky = SCq1((short)-446969155, yMRSF7, oePE1ff1sv, U3EN, JSCQ5);
 U3EN = (long long)(JSCQ5);
 std::cout << qadqky << JSCQ5 << y7QFh(qadqky, yMRSF7, oePE1ff1sv, U3EN, -936168062) << std::endl;
 oePE1ff1sv = SCq1(JSCQ5, oePE1ff1sv, 2143165934, yMRSF7, -1118373198);

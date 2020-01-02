@@ -117,7 +117,7 @@ case 0:
 x_2750Z = zhI5UI5qt8 / MIZniXrUmx;
 break;
 case 1:
-aZb60b8 = QUg96(-1249718535, 1223733859, vfZUtq92);
+aZb60b8 = QUg96(-1249718535, (short)1223733859, vfZUtq92);
 break;
 case 2:
 MA04WE42w -= d57sRO6p;
@@ -135,7 +135,7 @@ case 6:
 ZLLfj2w3 = (int)abs(WdPu8W);
 break;
 case 7:
-M_jV = QUg96(1193600532, O9J6AfKf, 1754949143);
+M_jV = QUg96(1193600532, O9J6AfKf, (short)1754949143);
 break;
 }
 }

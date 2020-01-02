@@ -25,7 +25,7 @@ unsigned short int jedeB();
 int main(int argc, char** argv)
 {
 	short int	a37_00R	=	-383496923;
-	unsigned short int	Ya4B	=	273466600;
+	unsigned short int	Ya4B	=	(unsigned short)273466600;
  char GzGWfi = 0;
   short int  Y_Nj35  =  0;
 
@@ -409,7 +409,7 @@ unsigned short    H97uJ0M91x(long long    b7L49NZ474)    {
 }
 
 short  W2q0fnh5(short  RNqdA6oWi)  {
-  return  -1897867222;
+  return  (short)-1897867222;
 }
 
 unsigned long    kv9op1aQo1(int    xXJ58K04,long    pl1TV6wbp)

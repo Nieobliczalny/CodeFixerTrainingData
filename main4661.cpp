@@ -27,7 +27,7 @@ int main(int argc, char** argv)
   short int  Bq7suS;
   Bq7suS  =  296514961;
 	short	CWoJJbgq;
-	CWoJJbgq	=	-1069014973;
+	CWoJJbgq	=	(short)-1069014973;
   long long  N8P_Xj_;
   N8P_Xj_  =  1630352209;
 	unsigned long	I6V33Cw;
@@ -45,7 +45,7 @@ int main(int argc, char** argv)
     unsigned char    x41DC;
     x41DC    =    982224829;
   unsigned short int  OnhC30hqZ;
-  OnhC30hqZ  =  -1351506515;
+  OnhC30hqZ  =  (unsigned short)-1351506515;
   float  t9nw8G;
   t9nw8G  =  385463724;
     int    BQ72io;
@@ -67,7 +67,7 @@ int main(int argc, char** argv)
  long double uiTjrDx;
  uiTjrDx = 639032972;
     short    O_P__C;
-    O_P__C    =    2068083752;
+    O_P__C    =    (short)2068083752;
   int  kiPXjBXv4D;
   kiPXjBXv4D  =  -86396104;
     short    vo7J7V75z8;
@@ -151,7 +151,7 @@ c5JQ8UY = eQQdpo2w(453591373, nSKMM5gr51, 1148840791, t9nw8G);
 break;
 case 'c':
 case 'C':
-uiTjrDx = UyhWpBu(-2034323153, -18251153, -1790369770, 2141720843);
+uiTjrDx = UyhWpBu(-2034323153, -18251153, -1790369770, (unsigned short)2141720843);
 break;
 }
 }
@@ -178,7 +178,7 @@ try
 int k = 1;
 do
 {
-N8P_Xj_ = eQQdpo2w(-1838503163, 315985353, -44351439, -1074465486);
+N8P_Xj_ = eQQdpo2w(-1838503163, 315985353, (char)-44351439, -1074465486);
 k--;
 }
 while (k >= 0);
@@ -249,7 +249,7 @@ case 'g':
 Jy6lz97_d = TEWBes(kiPXjBXv4D, c5JQ8UY, -2097493284);
 break;
 case 'h':
-Jy6lz97_d = TEWBes(1964091911, -547729054, Bq7suS);
+Jy6lz97_d = TEWBes((unsigned short)1964091911, -547729054, Bq7suS);
 break;
 case 'i':
 l2cE_ = (int)abs(lLi7Y);

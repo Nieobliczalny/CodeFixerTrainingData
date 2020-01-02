@@ -125,7 +125,7 @@ case 0:
 dyo9574BNe = diknC3wf(dyo9574BNe, -15215863, 873880983);
 break;
 case 1:
-Ew7cVa7 = diknC3wf(-210132763, -922091544, -1030522517);
+Ew7cVa7 = diknC3wf(-210132763, -922091544, (unsigned short)-1030522517);
 break;
 case 2:
 UBr_95o_n = diknC3wf(2078178631, -1537273214, iJiW) & 1526441092;
@@ -461,7 +461,7 @@ case 4:
 sCg95B = (int)ceil(GM_T337_);
 break;
 case 5:
-KCPUu = diknC3wf(1902942459, -2006320553, 517111856);
+KCPUu = diknC3wf(1902942459, -2006320553, (unsigned short)517111856);
 break;
 case 6:
 SY5KM = hWwKU69W * 1967500536;

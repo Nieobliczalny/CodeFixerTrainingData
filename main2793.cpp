@@ -17,7 +17,7 @@ int main(int argc, char** argv)
 {
     unsigned char    SwRQ73y,    Ih7W3,    U7HE1,    sf_2Q3G,    qu7kD7VC,    idht,    u340W2C,    TvIkGM,    da3WYT,    q3dsa3UU70,    IW0Dc3yj2;
     SwRQ73y    =    -1161484676;
-    Ih7W3    =    -1468664757;
+    Ih7W3    =    (unsigned char)-1468664757;
     U7HE1    =    1973181987;
     sf_2Q3G    =    -715274736;
     qu7kD7VC    =    1562001130;
@@ -79,7 +79,7 @@ case 'e':
 qu7kD7VC = IW0Dc3yj2 >> 720578384;
 break;
 default:
-TvIkGM = y_T944Y(1867157629, 2067145564, -984136292) ^ q3dsa3UU70;
+TvIkGM = y_T944Y(1867157629, 2067145564, (short)-984136292) ^ q3dsa3UU70;
 break;
 }
 i--;
@@ -93,7 +93,7 @@ for (int j = 0; j < 10; ++j)
 {
 if (IW0Dc3yj2 < 542461492)
 {
-JfXKV2hcL_ = y_T944Y(-767833427, 1872405589, -1719590276);
+JfXKV2hcL_ = y_T944Y(-767833427, 1872405589, (short)-1719590276);
 }
 else if (JfXKV2hcL_ < -636327166)
 {
@@ -153,7 +153,7 @@ idht = Nx_V6o(1892300200);
 break;
 case 'b':
 case 'B':
-JfXKV2hcL_ = y_T944Y(-1140411791, 1590725008, 832265699);
+JfXKV2hcL_ = y_T944Y(-1140411791, 1590725008, (short)832265699);
 break;
 case 'c':
 case 'C':
@@ -216,7 +216,7 @@ case 'a':
 JfXKV2hcL_ = y_T944Y(SwRQ73y, TvIkGM, -518932162);
 break;
 case 'b':
-IW0Dc3yj2 = R132fL3RF5(1495036472, TvIkGM, 1115881737) >> 474891940;
+IW0Dc3yj2 = R132fL3RF5(1495036472, TvIkGM, (unsigned short)1115881737) >> 474891940;
 break;
 case 'c':
 sf_2Q3G = R132fL3RF5(sf_2Q3G, idht, IW0Dc3yj2);
@@ -249,7 +249,7 @@ idht = (unsigned char)(TvIkGM);
 }
 else if (JfXKV2hcL_ == -463633559)
 {
-JfXKV2hcL_ = y_T944Y(IW0Dc3yj2, -1604041343, -1145952983);
+JfXKV2hcL_ = y_T944Y(IW0Dc3yj2, -1604041343, (short)-1145952983);
 }
 else if (Ih7W3 > U7HE1)
 {
@@ -490,7 +490,7 @@ break;
 while (i >= 0);
 }
 TvIkGM = (unsigned char)(idht);
-Ih7W3 = Nx_V6o(1533539090) / y_T944Y(SwRQ73y, 1027852509, 848883146);
+Ih7W3 = Nx_V6o(1533539090) / y_T944Y(SwRQ73y, 1027852509, (short)848883146);
 
 idht = R132fL3RF5(idht, da3WYT, Ih7W3);
 
@@ -529,7 +529,7 @@ Ih7W3 = Nx_V6o(1224199033);
 switch (da3WYT)
 {
 case 0:
-JfXKV2hcL_ = y_T944Y(SwRQ73y, U7HE1, 363897707);
+JfXKV2hcL_ = y_T944Y(SwRQ73y, U7HE1, (short)363897707);
 break;
 case 1:
 SwRQ73y *= u340W2C;
@@ -550,7 +550,7 @@ case 6:
 IW0Dc3yj2 = R132fL3RF5(IW0Dc3yj2, -392965634, -1443711655);
 break;
 case 7:
-JfXKV2hcL_ = y_T944Y(796131083, SwRQ73y, 771934500);
+JfXKV2hcL_ = y_T944Y(796131083, SwRQ73y, (short)771934500);
 break;
 }
 sf_2Q3G = (unsigned char)(U7HE1);
@@ -661,7 +661,7 @@ case 2:
 IW0Dc3yj2 >>= 523712864;
 break;
 default:
-JfXKV2hcL_ = y_T944Y(1948524200, 208624782, idht);
+JfXKV2hcL_ = y_T944Y(1948524200, (char)208624782, idht);
 break;
 }
 }
@@ -731,7 +731,7 @@ case 3:
 sf_2Q3G ^= 1189921802;
 break;
 case 4:
-idht = (qu7kD7VC >= JfXKV2hcL_) ? U7HE1 : 355108609;
+idht = (qu7kD7VC >= JfXKV2hcL_) ? U7HE1 : (unsigned char)355108609;
 break;
 case 5:
 SwRQ73y = Nx_V6o(SwRQ73y);
@@ -768,7 +768,7 @@ u340W2C = SwRQ73y + 1134554432;
 break;
 case 'd':
 case 'D':
-JfXKV2hcL_ = y_T944Y(da3WYT, -1959132826, -865253147);
+JfXKV2hcL_ = y_T944Y(da3WYT, -1959132826, (short)-865253147);
 break;
 case 'e':
 case 'E':

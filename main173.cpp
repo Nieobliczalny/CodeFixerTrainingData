@@ -19,6 +19,7 @@ unsigned long long    hOZpeT();
 int main(void)
 {
 	short	QA5u	=	0,	Iht2	=	0,	H4gCCnuZu	=	0;
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
  unsigned short int JaGI = -993527681, c0t3aBL9jJ = -1609728594, p1p8 = 215535744, Hg1Y_3 = 1958939203, z4bO8LRnX = -918043120, sw38__0P2 = 1516066012, bW5uDM3J4 = -745822688, Wv2_JAV = -277553417, F1k7l21 = 1249316858, OOY9iV9u45 = 868132826, d56T = 951632585, F4_v0HQa = -1107150152, nyZkni2_S = -1774274890, vyfG2H1mu = 1952015345, dE4rX = -867886628, w0UmTW = -27686944, v1u7y3598 = 261604928, Cze_SwfCR = -667368873, tF1lCpgLk = 1832586419, nA4Iz0 = -145417407, F0Ro8 = 1433648331, gW_3_ = 1104960818, R8a8BJYYGB = 1602975636, ztW6_H = -465613287, GKB_H55stF = -1522893945, DTLIn = -2047923117, oQ4xRMYj = 1192651418, eFJy = -2004068351, sx76cuevB = -358205476;
 
 if (bW5uDM3J4)
@@ -218,7 +219,7 @@ case 3:
 QA5u = R_0X4MY7(1546880206, -497357097);
 break;
 case 4:
-Iht2 = R_0X4MY7(-685211374, nyZkni2_S);
+Iht2 = R_0X4MY7((unsigned short)-685211374, nyZkni2_S);
 break;
 case 5:
 z4bO8LRnX = hOZpeT();

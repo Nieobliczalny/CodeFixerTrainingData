@@ -31,7 +31,7 @@ unsigned char	VA3u1sUZ5e(int	sA7m6i,unsigned int	cLs18,unsigned short	hgws,long	
 }
 
 short int    W9Lay3(unsigned long long    bPhS,long long    m2O8Zx,unsigned long    Arv9,long    lN5O,unsigned int    iy1VJhc)    {
-    return    1344581751;
+    return    (short)1344581751;
 }
 
 int main(int argc, char** argv) {

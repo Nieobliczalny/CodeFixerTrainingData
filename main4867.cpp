@@ -19,7 +19,7 @@ int main(void)
     unsigned short int    Q_O3G07ZI    =    1443329515;
 	long long	R2aWb94	=	-1171156270;
  unsigned short V_gM9nB = 0;
-	short	mqahtkZ	=	1642793982;
+	short	mqahtkZ	=	(short)1642793982;
     long double    cGYxG_Z3    =    -662989568;
  unsigned char ekaE3xlb = -936505638;
 

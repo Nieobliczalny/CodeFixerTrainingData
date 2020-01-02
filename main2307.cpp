@@ -95,7 +95,7 @@ eH2S_ = CWhHXvlw(1098785500, 915255978);
 }
 else if ((Yy2_84Bat & 1440680116) && ((Lv4lK1D != 1677753426) && (a00VF == -2005874633)))
 {
-Yy2_84Bat = CWhHXvlw(-163932971, -616229393);
+Yy2_84Bat = CWhHXvlw(-163932971, (short)-616229393);
 }
 else if (leqIVEKi == 589571426)
 {
@@ -526,6 +526,6 @@ unsigned char  W44rwd(long  VHZCFX,int  WQe0KGXA_y,long long  j_65G)
 }
 
 short int N6EX7jEa0(long dZc34v,short int cD5b2) {
- return -1832799256;
+ return (short)-1832799256;
 }
 

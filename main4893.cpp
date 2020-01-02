@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
     short    V_eVaq;
     V_eVaq    =    -916068174;
   unsigned short  fbj8ZV6;
-  fbj8ZV6  =  2103153379;
+  fbj8ZV6  =  (unsigned short)2103153379;
     unsigned char    IwBeL;
     IwBeL    =    -1928257351;
     int    WU2UR7;
@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
  unsigned char dSWBSL5s;
  dSWBSL5s = -545811368;
     unsigned short int    i_0IkC7N;
-    i_0IkC7N    =    1933730026;
+    i_0IkC7N    =    (unsigned short)1933730026;
   float  V6ZJ3;
   V6ZJ3  =  440756958;
 	char	vYo2;
@@ -64,7 +64,7 @@ int main(int argc, char** argv) {
     short    m478Z2;
     m478Z2    =    1794569691;
 	unsigned short	IKZ0;
-	IKZ0	=	1105262894;
+	IKZ0	=	(unsigned short)1105262894;
  long Ml__Czku9a;
  Ml__Czku9a = 487875099;
 	unsigned char	M32q_14VM7;
@@ -86,7 +86,7 @@ int main(int argc, char** argv) {
  int c9m2n8yWv;
  c9m2n8yWv = 1737450622;
  unsigned short int HQx6C2UU;
- HQx6C2UU = -276829116;
+ HQx6C2UU = (unsigned short)-276829116;
   unsigned char  U7pWR_n_fi;
   U7pWR_n_fi  =  -432375364;
 	unsigned char	d3PbEndk7J;
@@ -98,7 +98,7 @@ int main(int argc, char** argv) {
     short int    j5R9;
     j5R9    =    0;
     char    t8K74;
-    t8K74    =    -1006452761;
+    t8K74    =    (char)-1006452761;
   unsigned short  B9cC04F;
   B9cC04F  =  346057937;
  long long Cje2OPHr;
@@ -130,7 +130,7 @@ int main(int argc, char** argv) {
   long double  wwe5FpOQ;
   wwe5FpOQ  =  839373606;
 	char	vfE4n4F6FE;
-	vfE4n4F6FE	=	-58281458;
+	vfE4n4F6FE	=	(char)-58281458;
   unsigned short  k8eR_6;
   k8eR_6  =  1595321716;
 
@@ -427,7 +427,7 @@ else
 {
 cout << m478Z2 << "hV_ibO" << eb4q4_X9 << endl;
 }
-cout << hfN79F9pw(i_0IkC7N, -1528207085, 334282140) << "JjU01" << J59PD7(-447614228) << J59PD7(418020215) << hfN79F9pw(-601478178, wwe5FpOQ, 1278704864) << endl;
+cout << hfN79F9pw(i_0IkC7N, -1528207085, 334282140) << "JjU01" << J59PD7(-447614228) << J59PD7((unsigned short)418020215) << hfN79F9pw(-601478178, wwe5FpOQ, 1278704864) << endl;
 
 return 0;
 }

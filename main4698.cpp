@@ -21,7 +21,7 @@ int main() {
     unsigned long    LlZZX9r86w    =    -1727060823;
  long long c8f9Fs = -1598068188;
   unsigned short  AR_0  =  -1592416901;
- unsigned char Qh5TibG = 2078859971;
+ unsigned char Qh5TibG = (unsigned char)2078859971;
     double    GWiWz_EP4    =    -1300716736;
 	short	M29F5bF30	=	-857634367;
     long    T_gRH    =    0;
@@ -31,7 +31,7 @@ int main() {
 	long double	Z2ad9	=	-1277603687;
  short lEjEx665C = 0;
  unsigned short int iP13b7 = 832324968;
-	unsigned short int	i_aGL_z4	=	853909937;
+	unsigned short int	i_aGL_z4	=	(unsigned short)853909937;
  unsigned short int QAhq9x4R = -2137600276;
 
 try
@@ -124,7 +124,7 @@ case 2:
 lEjEx665C = C8le2e8f(1809723669, 398952926, lEjEx665C, -1228400857, Z2ad9);
 break;
 case 3:
-urh3Y06i = C8le2e8f(1287376188, -633629653, 889495683, -398221416, u7622Rh);
+urh3Y06i = C8le2e8f(1287376188, (unsigned char)-633629653, 889495683, -398221416, u7622Rh);
 break;
 case 4:
 bar2 = C8le2e8f(bar2, 1128088583, 690131749, d9bOoG5k, GWiWz_EP4);
@@ -219,7 +219,7 @@ else
 {
 if ((z80mE_O1i < 1135701407) || (M29F5bF30 <= -840780556))
 {
-std::cout << C8le2e8f(272181061, 791397581, M29F5bF30, z80mE_O1i, QAhq9x4R) << C8le2e8f(-1443519758, -1204353649, M29F5bF30, -1312884553, QAhq9x4R) << d56ZBx06 << std::endl;
+std::cout << C8le2e8f(272181061, 791397581, M29F5bF30, z80mE_O1i, QAhq9x4R) << C8le2e8f(-1443519758, (unsigned char)-1204353649, M29F5bF30, -1312884553, QAhq9x4R) << d56ZBx06 << std::endl;
 }
 else
 {
@@ -255,7 +255,7 @@ case 'h':
 d56ZBx06 = C8le2e8f(urh3Y06i, 1192798153, -1017800226, 2102304948, u7622Rh) % d9bOoG5k;
 break;
 case 'i':
-urh3Y06i = C8le2e8f(urh3Y06i, 83346953, 913312867, 952042734, LlZZX9r86w);
+urh3Y06i = C8le2e8f(urh3Y06i, (unsigned char)83346953, 913312867, 952042734, LlZZX9r86w);
 break;
 }
 

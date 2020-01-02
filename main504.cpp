@@ -21,7 +21,7 @@ int main()
     unsigned char    zg1tn332;
     zg1tn332    =    2080013162;
 	short int	Fly_;
-	Fly_	=	-793453322;
+	Fly_	=	(short)-793453322;
     long double    G9444iQs;
     G9444iQs    =    -354999272;
 	int	hiTx;
@@ -39,7 +39,7 @@ int main()
 	long double	cAMHXHYvC;
 	cAMHXHYvC	=	-1189315756;
  short ILZ1Usly3;
- ILZ1Usly3 = 858310703;
+ ILZ1Usly3 = (short)858310703;
   long long  GQH1kK;
   GQH1kK  =  0;
     short int    x_K4;

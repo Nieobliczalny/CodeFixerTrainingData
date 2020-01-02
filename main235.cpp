@@ -27,7 +27,7 @@ int main(void)
   o8fRHmy  =  0;
     short    fK_v763S,    tX0Yq3VXe,    X8pSx8g1n,    PwE_9,    f6yr;
     fK_v763S    =    -318954895;
-    tX0Yq3VXe    =    1947296844;
+    tX0Yq3VXe    =    (short)1947296844;
     X8pSx8g1n    =    -1392246686;
     PwE_9    =    1833175677;
     f6yr    =    1720424514;
@@ -106,7 +106,7 @@ int k = 4;
 do
 {
 --k;
-fK_v763S = k54Mj7A(-561114853, 2067010648, PwE_9, -2053810031);
+fK_v763S = k54Mj7A(-561114853, (short)2067010648, PwE_9, -2053810031);
 }
 while (k >= 0);
 }
@@ -239,7 +239,7 @@ unsigned short APrda(long q1gG,unsigned int BniX4o_,long lL8L3UsYb,unsigned int 
 }
 
 unsigned short  QbQ4MU(unsigned char  R9JAoT4,unsigned long long  U2B18Oe)  {
-  return  -549816596;
+  return  (unsigned short)-549816596;
 }
 
 unsigned long long t_j_U0(unsigned long long UZO7,unsigned long long A1__4,short ZurScipgh,unsigned int bY79Mo,unsigned char X2t2m)

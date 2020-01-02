@@ -19,7 +19,7 @@ int main(void)
  unsigned char DKqMbm;
  DKqMbm = 739111382;
 	unsigned short	bTge;
-	bTge	=	769532536;
+	bTge	=	(unsigned short)769532536;
  short int rOhfb;
  rOhfb = -342531809;
 	long double	OR_WKRbo;
@@ -35,7 +35,7 @@ int main(void)
     int    o4OQ;
     o4OQ    =    0;
     short int    KF9IRn28;
-    KF9IRn28    =    -210885746;
+    KF9IRn28    =    (short)-210885746;
 	float	u6hn3vw;
 	u6hn3vw	=	-17773487;
   long long  IgH3b;
@@ -45,7 +45,7 @@ int main(void)
     short int    D1LP9_A0e8;
     D1LP9_A0e8    =    965791474;
   short  HFKlL19;
-  HFKlL19  =  1989756957;
+  HFKlL19  =  (short)1989756957;
 	char	egNbhw;
 	egNbhw	=	1025699279;
 	short int	Ks62YU5z;
@@ -63,7 +63,7 @@ int main(void)
   unsigned long long  RHR6GfH;
   RHR6GfH  =  -1654198412;
   char  d36Z56K4ss;
-  d36Z56K4ss  =  464739833;
+  d36Z56K4ss  =  (char)464739833;
  double ZCQCA36dz;
  ZCQCA36dz = 409634217;
 

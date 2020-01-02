@@ -61,7 +61,7 @@ nA1P = MLW66S3_pg(1956216343, nA1P, 2070292277);
 }
 else if (pl1a6Tay)
 {
-rE698I9 = XwUmkrFD(rE698I9, -1914527649);
+rE698I9 = XwUmkrFD(rE698I9, (unsigned short)-1914527649);
 }
 else if (Eabs0p != -1586285432)
 {

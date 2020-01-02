@@ -23,7 +23,7 @@ int main()
  unsigned char t23Np1O;
  t23Np1O = 1363740476;
 	short	d_PlP;
-	d_PlP	=	-67732900;
+	d_PlP	=	(short)-67732900;
  long lp48i;
  lp48i = -761509596;
   unsigned short int  QG0K;
@@ -39,7 +39,7 @@ int main()
 	unsigned char	lr1_E3s5;
 	lr1_E3s5	=	1806864799;
   unsigned char  y1tu3;
-  y1tu3  =  459909203;
+  y1tu3  =  (unsigned char)459909203;
 	unsigned char	b18o17uxxE;
 	b18o17uxxE	=	-438333245;
  long U9XCyY;
@@ -57,7 +57,7 @@ int main()
 	long	wJoArHtH;
 	wJoArHtH	=	674256530;
 	short int	Kl36_o8t;
-	Kl36_o8t	=	428143315;
+	Kl36_o8t	=	(short)428143315;
 	unsigned short	e771X4p2;
 	e771X4p2	=	-1332418093;
   unsigned short  vblnzl6;
@@ -73,7 +73,7 @@ int main()
     int    R5wwFUubb;
     R5wwFUubb    =    -71838320;
     unsigned char    hCNcl27;
-    hCNcl27    =    2123665453;
+    hCNcl27    =    (unsigned char)2123665453;
  unsigned short c7GB90XOc;
  c7GB90XOc = -1508460302;
     unsigned short    a_9z_f8nl;
@@ -83,7 +83,7 @@ int main()
   unsigned long long  EbG61FVF8f;
   EbG61FVF8f  =  1865549824;
 	char	OS_twR;
-	OS_twR	=	-1451192311;
+	OS_twR	=	(char)-1451192311;
     unsigned char    oRu4dpPAIF;
     oRu4dpPAIF    =    507987156;
  double jul7yxdY1y;
@@ -99,7 +99,7 @@ int main()
 	int	ZE4_f_4;
 	ZE4_f_4	=	64425303;
 	short int	kmHAr;
-	kmHAr	=	-582163687;
+	kmHAr	=	(short)-582163687;
   short int  nY7LLNU;
   nY7LLNU  =  -901515850;
 	unsigned long	ji3h5h7f24;
@@ -153,7 +153,7 @@ lr1_E3s5++;
 break;
 case 'd':
 case 'D':
-CTa4H5n = udr1177(1949272330, TV715_Ip, -438755525, -1645145416, 484775695);
+CTa4H5n = udr1177(1949272330, TV715_Ip, (char)-438755525, -1645145416, 484775695);
 break;
 case 'e':
 case 'E':
@@ -173,7 +173,7 @@ h42AO9o_0_ = (int)abs(BxxrR_yQ);
 break;
 case 'i':
 case 'I':
-CTa4H5n = udr1177(u7XN8Fm8W, 1680478372, jul7yxdY1y, -34252153, -88301424);
+CTa4H5n = udr1177(u7XN8Fm8W, 1680478372, jul7yxdY1y, -34252153, (short)-88301424);
 break;
 case 'j':
 case 'J':
@@ -231,7 +231,7 @@ else
 {
 try
 {
-B9u3Xbs = udr1177(-1370195934, U9XCyY, CTa4H5n, 395156661, lr1_E3s5) - FxIe7N;
+B9u3Xbs = udr1177(-1370195934, U9XCyY, CTa4H5n, (unsigned char)395156661, lr1_E3s5) - FxIe7N;
 }
 catch (int& errorCode)
 {
@@ -275,7 +275,7 @@ case 'e':
 CTa4H5n = udr1177(726421369, Pf_x, u_9Y, O2pExdBZ_, e771X4p2);
 break;
 default:
-Pf_x = zKMI(1225714001, 725367117);
+Pf_x = zKMI((unsigned short)1225714001, 725367117);
 break;
 }
 B1A7 = 1562946878 / udr1177(Pf_x, IFQjT__hy, EbG61FVF8f, 869034435, -1211884756);

@@ -27,7 +27,7 @@ int main(int argc, char** argv)
 	char	EY29;
 	EY29	=	0;
   unsigned char  BQt19DY91K;
-  BQt19DY91K  =  346069258;
+  BQt19DY91K  =  (unsigned char)346069258;
  long lZ6g_;
  lZ6g_ = -760425023;
  float pD5Mv1kE;
@@ -45,7 +45,7 @@ int main(int argc, char** argv)
  long wyPb_6;
  wyPb_6 = 1083409721;
     short int    kg0_h7;
-    kg0_h7    =    1239112692;
+    kg0_h7    =    (short)1239112692;
 	long double	VYu4_;
 	VYu4_	=	-878950787;
  float vrU49wx;
@@ -57,7 +57,7 @@ int main(int argc, char** argv)
     long    yaERuVg;
     yaERuVg    =    -176367016;
   short  dF6_Fz3l7K;
-  dF6_Fz3l7K  =  -509775624;
+  dF6_Fz3l7K  =  (short)-509775624;
   double  v4_zyNZ;
   v4_zyNZ  =  -1525746432;
  short int mt87Q9G;
@@ -85,7 +85,7 @@ int main(int argc, char** argv)
   unsigned short  eSdJNw9Y7X;
   eSdJNw9Y7X  =  1648974609;
  short r2C0zW6;
- r2C0zW6 = -360051984;
+ r2C0zW6 = (short)-360051984;
  short Pf5_u0i9;
  Pf5_u0i9 = 777664437;
 	long double	UD_u_4E_;
@@ -143,7 +143,7 @@ int main(int argc, char** argv)
     char    Zy20PQea;
     Zy20PQea    =    997163414;
     unsigned short    iZLM;
-    iZLM    =    -1431370702;
+    iZLM    =    (unsigned short)-1431370702;
 	unsigned short int	XPK4A;
 	XPK4A	=	176024022;
  double v7jB_;
@@ -159,7 +159,7 @@ int main(int argc, char** argv)
     double    ffMR4bwm9Y;
     ffMR4bwm9Y    =    -765439462;
  short int k3QSgx4P;
- k3QSgx4P = -1583087157;
+ k3QSgx4P = (short)-1583087157;
 	unsigned short	hA9r_n3hHE;
 	hA9r_n3hHE	=	1501668776;
     unsigned short int    VSa62eN;
@@ -169,7 +169,7 @@ int main(int argc, char** argv)
 	unsigned short	C0nsh8y_4;
 	C0nsh8y_4	=	329716356;
  unsigned short Uf296l3A;
- Uf296l3A = 1907271548;
+ Uf296l3A = (unsigned short)1907271548;
 	long	FhQB_99;
 	FhQB_99	=	605797454;
   int  Lr01;
@@ -515,7 +515,7 @@ unsigned short int    zXMWO()    {
 
 unsigned char WCG2z(unsigned short n83k)
 {
- return 2069404641;
+ return (unsigned char)2069404641;
 }
 
 char  PsV1(unsigned long  oga_Y,unsigned long  YIw_4SPt,unsigned long long  mGq7xI47__,short int  WxA4v)

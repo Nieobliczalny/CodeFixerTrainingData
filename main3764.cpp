@@ -18,7 +18,7 @@ int main()
   ozY57  =  0;
  unsigned char MQ1evzlz6, OAI5ZD13q6, Pjdv0EY61n, ZF1eV4k, xfuZ57vBK, Rpr600C0Y, FUgiCVI, b7iLa0dj, guT10;
  MQ1evzlz6 = -1214609595;
- OAI5ZD13q6 = 1565813487;
+ OAI5ZD13q6 = (unsigned char)1565813487;
  Pjdv0EY61n = 1202311769;
  ZF1eV4k = 21420501;
  xfuZ57vBK = -531311778;

@@ -17,7 +17,7 @@ unsigned short int  o2I11F01uZ()
 }
 
 short int u66_B(long Kjh_,int k93a) {
- return -470345942;
+ return (short)-470345942;
 }
 
 int sYtQZd5(unsigned long long pYrs_qfD_4,unsigned short ddMVxhsN7)

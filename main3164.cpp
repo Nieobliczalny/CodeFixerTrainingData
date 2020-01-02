@@ -32,7 +32,7 @@ int main(void) {
 	double	Sx5nv132E0	=	-899984538;
     long long    P_5F4fA    =    895884037;
   double  tI__3F3x  =  -747515974;
-    char    p5_Jr    =    515388669;
+    char    p5_Jr    =    (char)515388669;
 	int	Swp3W	=	0;
  long long KK7Go6mI = -540945242;
     int    MbadLY1TM    =    268514642;
@@ -44,7 +44,7 @@ int main(void) {
     short int    ue_b1u_k    =    -2106111869;
 	long	JV59a	=	1030684498;
     long double    HmUEd    =    -1828410397;
-    unsigned char    oe2QQ    =    1448627720;
+    unsigned char    oe2QQ    =    (unsigned char)1448627720;
  char qCO9wX = 0;
 	long	nIry3T	=	228901513;
  unsigned short int zTmE0zjTu = -589467366;
@@ -111,7 +111,7 @@ case 'd':
 HmUEd = (int)ceil(tI__3F3x);
 break;
 case 'e':
-IHKEKjU_h = K2hTCzsve7(534736816);
+IHKEKjU_h = K2hTCzsve7((unsigned short)534736816);
 break;
 case 'f':
 Sx5nv132E0 = (int)floor(VWyFy75I_);
@@ -126,7 +126,7 @@ else if ((A_YJqw & y6Bzy) && (HmUEd >= -988504531))
 {
 if (y6Bzy & 937791062)
 {
-JV59a = Fyf5xv6AxU(-2139811873, -664704388);
+JV59a = Fyf5xv6AxU(-2139811873, (short)-664704388);
 }
 }
 else if (ue_b1u_k != -1041858828)
@@ -211,7 +211,7 @@ else if (oe2QQ != Um1j)
 {
 if (BS2jF > -68949340)
 {
-cout << "PddonNtj75" << "ahC78T" << Fyf5xv6AxU(804654984, nIry3T) << Fyf5xv6AxU(p5_Jr, 976852053) << ue_b1u_k << endl;
+cout << "PddonNtj75" << "ahC78T" << Fyf5xv6AxU(804654984, nIry3T) << Fyf5xv6AxU(p5_Jr, (short)976852053) << ue_b1u_k << endl;
 }
 else if ((zTmE0zjTu) && (nIry3T & A_YJqw))
 {

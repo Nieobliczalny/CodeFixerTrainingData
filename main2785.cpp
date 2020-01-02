@@ -21,7 +21,7 @@ int main(void) {
   double  I6bN;
   I6bN  =  1329494165;
   unsigned char  qv9x;
-  qv9x  =  1743983979;
+  qv9x  =  (unsigned char)1743983979;
     unsigned int    Lr08d4w2;
     Lr08d4w2    =    -2086377759;
 	long	yY8mnLfO1B;
@@ -33,7 +33,7 @@ int main(void) {
   short int  T7MObMzrCH;
   T7MObMzrCH  =  -625508799;
  short int AQ1DQ;
- AQ1DQ = 1367696009;
+ AQ1DQ = (short)1367696009;
 	short int	jDbwbheCCg;
 	jDbwbheCCg	=	-40022153;
     unsigned short    l5D4;
@@ -47,7 +47,7 @@ int main(void) {
   unsigned int  tt9sL7g;
   tt9sL7g  =  -1610669481;
  short int vBDz_;
- vBDz_ = -1946597616;
+ vBDz_ = (short)-1946597616;
 	unsigned int	lHAC;
 	lHAC	=	367156470;
   short  razu;
@@ -59,7 +59,7 @@ int main(void) {
 	unsigned char	Sr_T23yO;
 	Sr_T23yO	=	0;
     short    Cdr9;
-    Cdr9    =    2099083126;
+    Cdr9    =    (short)2099083126;
  char ifZ529;
  ifZ529 = -862797545;
     unsigned long long    yEZw;

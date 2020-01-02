@@ -124,7 +124,7 @@ HGF4 = PFPeo(1059633305, O26tweYN1);
 break;
 case 'c':
 case 'C':
-fGS6Bv4 = wbgi_2PeKr(1567473088) & 1041343186;
+fGS6Bv4 = wbgi_2PeKr((short)1567473088) & 1041343186;
 break;
 case 'd':
 case 'D':
@@ -140,7 +140,7 @@ V8V_7z = E7a_y72(1570254209, l3maN, sGcH1niD, C2SMD1X) | TI6m_;
 break;
 case 'g':
 case 'G':
-No53M1_ = E7a_y72(341016550, -837212342, Ez0Lz, Rgej4);
+No53M1_ = E7a_y72((short)341016550, -837212342, Ez0Lz, Rgej4);
 break;
 case 'h':
 case 'H':
@@ -155,7 +155,7 @@ case 'J':
 yNH8ABa = A4dJJ8vCL();
 break;
 }
-bKba = wbgi_2PeKr(844137833);
+bKba = wbgi_2PeKr((short)844137833);
 {
 int i = 3;
 do
@@ -358,7 +358,7 @@ R71wf0Q += 1179570687;
 }
 else
 {
-r_2__A18 = E7a_y72(-508389745, 940511986, 162375818, -1399198291);
+r_2__A18 = E7a_y72(-508389745, (short)940511986, 162375818, -1399198291);
 }
 }
 else
@@ -453,7 +453,7 @@ I4m_iqC57 = (int)abs(sViei);
 break;
 case 'f':
 case 'F':
-n4cdfXi = E7a_y72(n4cdfXi, 543424521, 1794135806, -732746546);
+n4cdfXi = E7a_y72(n4cdfXi, (short)543424521, 1794135806, -732746546);
 break;
 default:
 e906 = (int)abs(N70_N95t);
@@ -467,7 +467,7 @@ bKba = (int)abs(YPjD_);
 
 VZU12if = PFPeo(1142989879, YCPZl) >> MNVy1_2;
 
-std::cout << PFPeo(1023800882, 9288041) << std::endl;
+std::cout << PFPeo((unsigned short)1023800882, 9288041) << std::endl;
 try
 {
 D1mjAJ = (long long)(k664G);
@@ -498,7 +498,7 @@ for (int i = 10; i >= 0; --i)
 {
 if (nir8p0 > EZb7)
 {
-std::cout << jY1yM << E7a_y72(I7H__, -1290796603, 30878991, kZ83H0) << X4966 << PFPeo(1549159673, 2045780016) << "Z0KhYvg94B" << std::endl;
+std::cout << jY1yM << E7a_y72(I7H__, -1290796603, (short)30878991, kZ83H0) << X4966 << PFPeo(1549159673, 2045780016) << "Z0KhYvg94B" << std::endl;
 }
 else
 {
@@ -588,7 +588,7 @@ n4cdfXi = No53M1_ / P9_QD9C4A;
 }
 else
 {
-oF76S6 = PFPeo(677927359, 1290308229);
+oF76S6 = PFPeo(677927359, (char)1290308229);
 }
 j++;
 }
@@ -606,7 +606,7 @@ if ((HGF4 == e906) || (Xv0R1))
 {
 if (bKba <= -1293348554)
 {
-CR1Dh = E7a_y72(898883310, -1367854772, I4m_iqC57, Bkpqd296SL);
+CR1Dh = E7a_y72(898883310, (short)-1367854772, I4m_iqC57, Bkpqd296SL);
 }
 else
 {

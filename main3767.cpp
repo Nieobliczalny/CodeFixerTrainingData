@@ -13,6 +13,7 @@ char  u_7k5Qdn0(long  w00J,unsigned int  q4HFw_,unsigned int  PJ4pV,long long  R
 unsigned short    I_nI7tF4y5(short int    TGgskUsr,int    A21EBM,unsigned long long    oSTljfM,long    wYFIKmvV,unsigned int    g0I4nK8Uwt);
 
 int main() {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
 	short int	b2y0D5	=	269078728,	SGba	=	545283970,	RGhw	=	-1355065309,	G6Ei	=	-1901767169,	C5SBH25	=	-1639213974,	oepJ	=	1142451497,	YIte2izaB	=	1391625545,	hb_Ja	=	225891833,	R50_mCD8	=	-385684034,	R1Wx08	=	1222689781,	ex3705	=	-590461568,	BKozp	=	-114460854,	bCO005gPf	=	313149056,	GwPo0s63	=	1116622006,	vjh5OK9j1	=	303932683,	bak22u8c	=	1136254339,	zf1r	=	-302159815,	k7M5_	=	-329497820,	WrKJr38I6a	=	-1347073655,	IyvlF509	=	902465486,	X172bD_y	=	569378646,	Iivds	=	-2785022,	KrqCK8v4	=	-969340606,	lASK96	=	2071697582,	qyl69kuY	=	1689778810,	C217d4G9_	=	1636756861,	Yivug	=	300627297,	M2dRWV9E	=	1205495722,	Om31zrDd	=	-804476084,	yO8_1	=	168850898,	Y7eb3F63K	=	1393746717,	pR9ie	=	1402576575,	Vpsm5	=	1654736370,	m2bA	=	610590690,	KabVTw	=	2018988098,	G2F98Kj	=	467289597,	hjsK44	=	1878670629,	n8d9_2j	=	2079056566,	k0kT	=	339483940,	NU_z4q05r	=	-1287405723,	AWL338	=	-1955954350,	gl6g	=	1942561169,	AjCxdjbKK	=	-1935530967,	dFzVaQbmpZ	=	1937433590;
 	unsigned char	vFP1W	=	0,	RN7_gP_	=	0;
 
@@ -110,7 +111,7 @@ case 2:
 vFP1W = I_nI7tF4y5(80462042, qyl69kuY, -1957467736, 841409080, vFP1W);
 break;
 case 3:
-vFP1W = I_nI7tF4y5(1685495082, -1414495459, 641189594, GwPo0s63, -921174445);
+vFP1W = I_nI7tF4y5((short)1685495082, -1414495459, 641189594, GwPo0s63, -921174445);
 break;
 case 4:
 AWL338 = GwPo0s63 >> 392333925;

@@ -19,7 +19,7 @@ short int pF6RG8ajo2() {
 int main(int argc, char** argv) {
   unsigned short int  TUmiUf,  xibs93,  CGR2Kbk8y0,  nn2os2o;
   TUmiUf  =  -1387224031;
-  xibs93  =  377409260;
+  xibs93  =  (unsigned short)377409260;
   CGR2Kbk8y0  =  -1143512385;
   nn2os2o  =  -938362479;
 	unsigned short	VUhO77495G,	fji3LL54_I;

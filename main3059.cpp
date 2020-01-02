@@ -152,7 +152,7 @@ Cgye6CJ = Eysx(Cgye6CJ, MJ627Nhd, 938910949);
 break;
 case 'c':
 case 'C':
-qU3UDH044T = Eysx(qU3UDH044T, 323703792, RyA_t);
+qU3UDH044T = Eysx(qU3UDH044T, (short)323703792, RyA_t);
 break;
 case 'd':
 case 'D':
@@ -183,7 +183,7 @@ QT8Sl02qkr = Eysx(1930084435, d6zHK9MH2, -227732595);
 }
 else
 {
-std::cout << PY7Iuy0 << Eysx(-1636352213, d6zHK9MH2, 1224982054) << C0c89() << std::endl;
+std::cout << PY7Iuy0 << Eysx(-1636352213, d6zHK9MH2, (char)1224982054) << C0c89() << std::endl;
 }
 }
 else
@@ -220,7 +220,7 @@ else
 int k = 0;
 while (k < 3)
 {
-KwBN2XhTS = Eysx(KwBN2XhTS, -1952992751, -2038708877);
+KwBN2XhTS = Eysx(KwBN2XhTS, -1952992751, (char)-2038708877);
 k++;
 }
 }
@@ -258,7 +258,7 @@ case 2:
 J0o_oV48AC |= t_B12;
 break;
 case 3:
-KPBZr = Eysx(-1523379537, 2006264356, 893773781);
+KPBZr = Eysx(-1523379537, (short)2006264356, 893773781);
 break;
 case 4:
 Cgye6CJ = Eysx(Cgye6CJ, -913111675, 453040027);
@@ -270,7 +270,7 @@ case 6:
 Up85SQZ4p = Eysx(Up85SQZ4p, 435252639, KwBN2XhTS);
 break;
 case 7:
-J0o_oV48AC = Eysx(Up85SQZ4p, 480014144, KwBN2XhTS) ^ 793501985;
+J0o_oV48AC = Eysx(Up85SQZ4p, (short)480014144, KwBN2XhTS) ^ 793501985;
 break;
 case 8:
 MJ627Nhd = HIdk >> Cgye6CJ;
@@ -284,7 +284,7 @@ for (int i = 0; i < 10; i++)
 {
 if ((d6zHK9MH2) || ((J0o_oV48AC >= h00s4W) && (t_B12 < -1177429938)))
 {
-KPBZr = Eysx(314611611, 1464064263, -1933718095);
+KPBZr = Eysx(314611611, 1464064263, (char)-1933718095);
 }
 else
 {

@@ -21,7 +21,7 @@ long    TD7nzZough(short int    XtMiA7jN,int    hVDy,short int    U0tHAw_uwk,uns
 }
 
 unsigned char  GTzq(int  Gf1KqFin_F)  {
-  return  -233934021;
+  return  (unsigned char)-233934021;
 }
 
 char  gqk9E()  {
@@ -228,7 +228,7 @@ else
 {
 try
 {
-G5jI99c2 = TD7nzZough(-972715176, 831941447, 729379544, 910747986);
+G5jI99c2 = TD7nzZough(-972715176, 831941447, (short)729379544, 910747986);
 }
 catch (int& errorCode)
 {

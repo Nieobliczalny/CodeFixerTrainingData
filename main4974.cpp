@@ -107,7 +107,7 @@ std::cout << io89 << IVr6ji_KF() << IVr6ji_KF() << d5_oucE3 << std::endl;
 
 for (int i = 7; i >= 0; --i)
 {
-std::cout << KNf78(1287654550, 1737756006) << "t_iw5N7t" << qhAX << std::endl;
+std::cout << KNf78(1287654550, (char)1737756006) << "t_iw5N7t" << qhAX << std::endl;
 }
 
 if (EGt_BE_0X < uMhIIHeY)
@@ -144,7 +144,7 @@ int i = 10;
 while (i >= 0)
 {
 i--;
-std::cout << tID97RF << KNf78(1097590492, -264951997) << "rspSh" << "IA0f" << std::endl;
+std::cout << tID97RF << KNf78(1097590492, (char)-264951997) << "rspSh" << "IA0f" << std::endl;
 }
 }
 
@@ -157,7 +157,7 @@ case 1:
 EGt_BE_0X = KNf78(-212420611, EGt_BE_0X);
 break;
 case 2:
-DRYw1C = KNf78(1321287609, 146269308);
+DRYw1C = KNf78((char)1321287609, 146269308);
 break;
 case 3:
 mQnNCJeja3 = IVr6ji_KF() | DgXv1n5PZY;
@@ -222,7 +222,7 @@ case 1:
 Sxjz_C &= 1246374904;
 break;
 case 2:
-UxNe83kY_a = p5LH_x7X59(-1729116066, 591632962, 354709055, 649338079);
+UxNe83kY_a = p5LH_x7X59(-1729116066, (short)591632962, 354709055, 649338079);
 break;
 case 3:
 tID97RF <<= HC38ZEx3g;
@@ -275,7 +275,7 @@ case 0:
 wMZ0 = KNf78(492798431, wMZ0);
 break;
 case 1:
-uMhIIHeY = p5LH_x7X59(uMhIIHeY, 242369097, wMZ0, -83625846);
+uMhIIHeY = p5LH_x7X59(uMhIIHeY, (short)242369097, wMZ0, -83625846);
 break;
 case 2:
 mQnNCJeja3 = (int)abs(tID97RF);
@@ -339,7 +339,7 @@ while (j >= 0);
 }
 else if (crvFSWYO3 == DRYw1C)
 {
-std::cout << KNf78(2097788992, -1504166528) << "K834OgwT" << IVr6ji_KF() << Sxjz_C << std::endl;
+std::cout << KNf78((char)2097788992, -1504166528) << "K834OgwT" << IVr6ji_KF() << Sxjz_C << std::endl;
 }
 else if (((tID97RF >= 417053276) || (Sxjz_C)) && (mQnNCJeja3 < EGt_BE_0X))
 {
@@ -485,7 +485,7 @@ d5_oucE3 = IVr6ji_KF();
 }
 else if ((EGt_BE_0X >= N8CEOLf) && (UxNe83kY_a < N8CEOLf))
 {
-GYQ4pR = KNf78(1860086685, AX6vRc);
+GYQ4pR = KNf78((char)1860086685, AX6vRc);
 }
 else if (((qhAX < N8CEOLf) || (DgXv1n5PZY)) || ((crvFSWYO3 > DgXv1n5PZY) && (HC38ZEx3g != 407056660)))
 {
@@ -518,7 +518,7 @@ std::cout << HC38ZEx3g << "Vp_E6pcB1u" << "e6nya_dohn" << "D773" << DgXv1n5PZY <
 }
 }
 
-sF1QwC6Da4 = KNf78(1885495222, -2108550991);
+sF1QwC6Da4 = KNf78(1885495222, (char)-2108550991);
 
 WTJcM = KNf78(1895122127, wMZ0);
 

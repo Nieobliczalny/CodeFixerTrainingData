@@ -17,7 +17,7 @@ unsigned long	h5r2E13vq(unsigned int	KpJGC,char	zN3tz2,long long	JQ_4p40fq);
 int main(int argc, char** argv) {
  int A_89WyVq = -1678681122;
   char  D3RiK7  =  -852443568;
- short int x6_hKN_D = 248811169;
+ short int x6_hKN_D = (short)248811169;
     long long    ne_m2p1vW    =    2024258871;
  unsigned short int D1b97jfmqR = 1625522374;
  int N4zzsPx = 1435836089;
@@ -31,7 +31,7 @@ int main(int argc, char** argv) {
  unsigned short int aNpi2eusc = 1211698826;
     unsigned int    C74ljQwE3u    =    2061579156;
     double    G8djfaC    =    -1313325525;
-  char  N98g4Gd  =  126424884;
+  char  N98g4Gd  =  (char)126424884;
     float    xPDY2g    =    -1863521151;
 	unsigned long	RVp4	=	-1289914826;
   unsigned long long  Z3b38kK  =  2060463615;
@@ -43,7 +43,7 @@ int main(int argc, char** argv) {
  int dKvB = 1300563915;
   long  pxTMF1C7  =  -1346659852;
   unsigned char  oJHq5tGmh  =  -605783635;
-  short int  e3s33zM0o  =  -1460984090;
+  short int  e3s33zM0o  =  (short)-1460984090;
     int    v770    =    1833464523;
 	long double	Zx27u4A3F	=	-523345273;
     long    l8d_    =    -1767096107;
@@ -61,7 +61,7 @@ int main(int argc, char** argv) {
     long double    gj1kgU5U    =    -859206416;
     double    qStmQ    =    -192008540;
  double XtCC = 1003527848;
-  unsigned char  z6rp9PC1Jb  =  -339898672;
+  unsigned char  z6rp9PC1Jb  =  (unsigned char)-339898672;
     short    HUT67nQHG1    =    1315499452;
   unsigned long long  Izo28  =  -1338882976;
 	int	z9E9D9	=	-1933344878;
@@ -337,7 +337,7 @@ int j = 10;
 while (j >= 0)
 {
 j--;
-std::cout << h5r2E13vq(2137589669, 1517489123, aNpi2eusc) << "KU4_" << std::endl;
+std::cout << h5r2E13vq(2137589669, (char)1517489123, aNpi2eusc) << "KU4_" << std::endl;
 }
 }
 }

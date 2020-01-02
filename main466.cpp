@@ -22,7 +22,7 @@ unsigned long long    DBaXg7()    {
 
 unsigned short    YEDlS1bK(short int    Mi0JSTiMb6,int    jwyx5_,unsigned long    czcx1i3n0,char    DLWLq)
 {
-    return    1592459081;
+    return    (unsigned short)1592459081;
 }
 
 unsigned int Ih_zAa_7ZY(int BCD12,char GOW5JpFo) {
@@ -34,7 +34,7 @@ int main(int argc, char** argv) {
 	float	D5_ncjn5	=	-1285853616;
     char    C8WUCFf    =    -1980530811;
     long double    D9k7_8LbI    =    962418234;
-  unsigned short int  E3e_Eak32  =  1955845361;
+  unsigned short int  E3e_Eak32  =  (unsigned short)1955845361;
  unsigned long long rEQmu = -566427392;
   long long  iCR3  =  1219637948;
 	short	UsVtq2tPi1	=	1707091691;
@@ -44,7 +44,7 @@ int main(int argc, char** argv) {
     float    XqKXfUw    =    -1581015940;
     short    LX2u    =    -630210481;
   unsigned short int  R299uH7  =  1708937513;
-  short  N_i8yDMCR0  =  -368757599;
+  short  N_i8yDMCR0  =  (short)-368757599;
  unsigned short lvI_ = 1196984323;
  unsigned char Oc02_D = -1056621130;
   unsigned long long  oH4j  =  -1591782160;

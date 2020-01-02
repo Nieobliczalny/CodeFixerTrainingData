@@ -43,7 +43,7 @@ w3JR = (int)ceil(rhB8B9nZ);
 break;
 case 'd':
 case 'D':
-rhB8B9nZ = J70_9(-1830456000, 1146867797, -1488164676, 88223132, -1940003987) * 756739814;
+rhB8B9nZ = J70_9(-1830456000, (short)1146867797, -1488164676, 88223132, -1940003987) * 756739814;
 break;
 case 'e':
 case 'E':
@@ -104,7 +104,7 @@ else if (HORvasf1 <= 398561220)
 switch (VzVjIE_82I)
 {
 case 'a':
-VzVjIE_82I = J70_9(-1155052811, VzVjIE_82I, w3JR, HORvasf1, 610214975);
+VzVjIE_82I = J70_9((char)-1155052811, VzVjIE_82I, w3JR, HORvasf1, 610214975);
 break;
 case 'b':
 rhB8B9nZ = (int)floor(w3JR);
@@ -147,7 +147,7 @@ break;
 }
 else
 {
-cout << J70_9(1232012052, VzVjIE_82I, w3JR, 1577110203, -999167883) << J70_9(rhB8B9nZ, -654404932, 1180655503, HORvasf1, -1040722144) << "R3ch" << VzVjIE_82I << endl;
+cout << J70_9(1232012052, VzVjIE_82I, w3JR, 1577110203, -999167883) << J70_9(rhB8B9nZ, (short)-654404932, 1180655503, HORvasf1, -1040722144) << "R3ch" << VzVjIE_82I << endl;
 }
 }
 else if (HORvasf1 & VzVjIE_82I)
@@ -191,7 +191,7 @@ cout << J70_9(HORvasf1, VzVjIE_82I, rhB8B9nZ, w3JR, 1573003817) << "roJjE_" << "
 }
 else if (VzVjIE_82I != 148857362)
 {
-cout << "eHa1fJsD5b" << "u_Qml413_" << rhB8B9nZ << J70_9(-1301690079, 1482054554, 853485257, w3JR, 865422778) << J70_9(HORvasf1, -1925912593, 1756705336, 1891257665, 1983220302) << endl;
+cout << "eHa1fJsD5b" << "u_Qml413_" << rhB8B9nZ << J70_9(-1301690079, (short)1482054554, 853485257, w3JR, 865422778) << J70_9(HORvasf1, -1925912593, 1756705336, 1891257665, 1983220302) << endl;
 }
 else if (HORvasf1)
 {
@@ -215,7 +215,7 @@ do
 {
 if ((VzVjIE_82I & HORvasf1) || (rhB8B9nZ > -1087069753))
 {
-VzVjIE_82I = J70_9(499251016, 2007958671, -33011577, 619240909, -1982650040);
+VzVjIE_82I = J70_9(499251016, (short)2007958671, -33011577, 619240909, -1982650040);
 }
 else
 {
@@ -264,7 +264,7 @@ i++;
 }
 while (i < 4);
 }
-cout << 1776419834 / J70_9(-1579999816, 457639477, HORvasf1, 289079521, 336370901) << endl;
+cout << 1776419834 / J70_9(-1579999816, (short)457639477, HORvasf1, 289079521, 336370901) << endl;
 
 try
 {
@@ -300,7 +300,7 @@ case 'a':
 rhB8B9nZ *= rhB8B9nZ;
 break;
 case 'b':
-VzVjIE_82I = J70_9(-416159181, -452256307, -1918504894, HORvasf1, 16786889);
+VzVjIE_82I = J70_9(-416159181, (short)-452256307, -1918504894, HORvasf1, 16786889);
 break;
 case 'c':
 w3JR = (int)abs(rhB8B9nZ);
@@ -312,7 +312,7 @@ case 'e':
 w3JR = (int)ceil(rhB8B9nZ);
 break;
 case 'f':
-VzVjIE_82I = J70_9(-585506195, -1974198829, 1427933918, -1390663193, 2032565599);
+VzVjIE_82I = J70_9(-585506195, (short)-1974198829, 1427933918, -1390663193, 2032565599);
 break;
 }
 
@@ -322,7 +322,7 @@ case 'a':
 w3JR = rhB8B9nZ * 648402381;
 break;
 case 'b':
-VzVjIE_82I = J70_9(1050287978, -2131689376, w3JR, rhB8B9nZ, -1399207181);
+VzVjIE_82I = J70_9(1050287978, (short)-2131689376, w3JR, rhB8B9nZ, -1399207181);
 break;
 case 'c':
 w3JR = (int)abs(rhB8B9nZ);

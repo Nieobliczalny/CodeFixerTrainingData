@@ -117,7 +117,7 @@ case 'e':
 rjG96Th = H9_w();
 break;
 case 'f':
-aHi__ = v_j_fD4(-1537632133, LoQhn3S);
+aHi__ = v_j_fD4((short)-1537632133, LoQhn3S);
 break;
 case 'g':
 rjG96Th = (int)abs(ig54uPhvgc);
@@ -173,6 +173,6 @@ unsigned short GTmvQ(int ctlUg876,unsigned long vP198,long long ba03x6u777,char 
 
 unsigned short int	v_j_fD4(short int	qegnWmxEJ,long long	eI_6fy8eIp)
 {
-	return	-524269689;
+	return	(unsigned short)-524269689;
 }
 

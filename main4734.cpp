@@ -251,7 +251,7 @@ case 3:
 ZQS4X8mZ2 /= 1093725913;
 break;
 case 4:
-TKjYtK = QMSy4yoG09(1843219642, 914677984);
+TKjYtK = QMSy4yoG09((short)1843219642, 914677984);
 break;
 case 5:
 nBls = (int)abs(Mei8);
@@ -588,7 +588,7 @@ case 5:
 t2Tx = (int)abs(TKjYtK);
 break;
 case 6:
-qCI4w68 = (UV60eBzp) ? 359987377 : QMSy4yoG09(-1337859240, ftcT);
+qCI4w68 = (UV60eBzp) ? 359987377 : QMSy4yoG09((short)-1337859240, ftcT);
 break;
 case 7:
 c94bCpuG = XuYT4kga();

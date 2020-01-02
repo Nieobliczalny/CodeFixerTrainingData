@@ -24,7 +24,7 @@ int main(int argc, char** argv) {
 	short	E3B3aSj02u;
 	E3B3aSj02u	=	-1546917231;
     unsigned short    PF0Mcx01yK;
-    PF0Mcx01yK    =    -231934141;
+    PF0Mcx01yK    =    (unsigned short)-231934141;
     unsigned long    XomPAgL79f;
     XomPAgL79f    =    373523040;
  double bhk9nO7w;
@@ -48,7 +48,7 @@ int main(int argc, char** argv) {
   unsigned long  vJ3uOy;
   vJ3uOy  =  -1556993254;
  unsigned char y70_c3yW_;
- y70_c3yW_ = 2136097249;
+ y70_c3yW_ = (unsigned char)2136097249;
 	long	KX75;
 	KX75	=	1992222415;
   double  lna6EtV;
@@ -66,7 +66,7 @@ int main(int argc, char** argv) {
   unsigned short int  wvFsGsm;
   wvFsGsm  =  -1665589017;
 	short int	FmwrL_e;
-	FmwrL_e	=	-1219899420;
+	FmwrL_e	=	(short)-1219899420;
  long long fb8D;
  fb8D = 2103293009;
  long long mWdQ;
@@ -82,7 +82,7 @@ int main(int argc, char** argv) {
   unsigned int  we1l9rN_;
   we1l9rN_  =  -1899840003;
  unsigned char qoHw8fuz;
- qoHw8fuz = -1625413534;
+ qoHw8fuz = (unsigned char)-1625413534;
  unsigned short z7_glC6H;
  z7_glC6H = -58450138;
   unsigned int  YGtKD;
@@ -92,7 +92,7 @@ int main(int argc, char** argv) {
     long double    fr4RE65R3z;
     fr4RE65R3z    =    -1518887764;
  unsigned short bO3gig;
- bO3gig = 321329841;
+ bO3gig = (unsigned short)321329841;
   long long  CU_l;
   CU_l  =  -1024733914;
  char Cv993Kmx8;
@@ -102,7 +102,7 @@ int main(int argc, char** argv) {
   float  FbP_wN15Jv;
   FbP_wN15Jv  =  -1671060311;
 	unsigned char	ZZR8;
-	ZZR8	=	-1261881455;
+	ZZR8	=	(unsigned char)-1261881455;
   unsigned long  j17aR69;
   j17aR69  =  -1723547262;
   float  H_kYFEy;
@@ -118,7 +118,7 @@ int main(int argc, char** argv) {
     double    E2DA3D;
     E2DA3D    =    -260480245;
 	char	z6yk9;
-	z6yk9	=	-1557468808;
+	z6yk9	=	(char)-1557468808;
   long long  VBziFnq0;
   VBziFnq0  =  -688761114;
     long long    p8p6g;
@@ -130,7 +130,7 @@ int main(int argc, char** argv) {
  long KPzoN1s_;
  KPzoN1s_ = -2058384456;
 	short	Z2ah;
-	Z2ah	=	-625976292;
+	Z2ah	=	(short)-625976292;
     short int    ldcx25Va;
     ldcx25Va    =    -1757192268;
   short int  STz5;
@@ -231,7 +231,7 @@ while (i >= 0);
 }
 
 GG7SdV_6 = -983669658 / o7E5GT6We();
-std::cout << Q8b4g1d(-615282423) << Q8b4g1d(1639942387) << coOr << std::endl;
+std::cout << Q8b4g1d(-615282423) << Q8b4g1d((unsigned char)1639942387) << coOr << std::endl;
 
 switch (c8w3P)
 {

@@ -30,7 +30,7 @@ int main(int argc, char** argv)
 	P695KGtY6o	=	0;
  short mo66, Zw4gluz8W, sN4M_uk8, M2p7, h0vb7s, Mg0L, p8KS33lx2A, w36b78, b_461p, EepJPb1_9, fhuHCHZ1, o_5tyi9, C_8SfT, CG_Wl08448, sz9x, O02s, qMzen3, i5TTlC, ecua, sdRw5, wERcrIR8, U_5QE, Y3bD_s8, Xx2nR, B829n8V66, T1ido, dE5Kt4g, F3rsiITU, K8K86JT, Y6MNidF9T3, iSg8T_V, kr_nj37, xM0hyU, elg_7, VSwQ, w88Vv3yj, H8PgPxV0q, g8_j, wvDDO, nlWYF0Cl, Ann_ir, WuM44Ds, A8DO8_2EUh, dUb3iVxjjf, IUN29, O54cnLiCb, BRc_z917, sP9_26Zxw1, o088XL, M_uY3, S7TuNY80O, k_140B5, qSFF61Os0, X0d30, aC13ug4Hg7, raFp9, Wsvja56rB2, BypXpF_, hkWy8cZCTI, u7W8x8GH, AZmV_1, P0EwF7sUF, p0_Wy0, eTm9zn, s96d8TD, Kv09q, mRXoI6_9MD, u8S24_, t269m, t6iB, DhKw, Rmle6gb, Um_Spj3, Ya1ufpyhX, Ry_6, RiA1r, Ed9dh6, xQB1, fi9NNZR9iO, XTz1, p5Y0i6_, NtTW39gJu, mW2HX1, jA7J, eCb0Sg, Szbp2pu;
  mo66 = -563820142;
- Zw4gluz8W = 12122996;
+ Zw4gluz8W = (short)12122996;
  sN4M_uk8 = 929112573;
  M2p7 = -2020074045;
  h0vb7s = -560781005;
@@ -40,7 +40,7 @@ int main(int argc, char** argv)
  b_461p = -845798612;
  EepJPb1_9 = 751443820;
  fhuHCHZ1 = -513578277;
- o_5tyi9 = 1237102872;
+ o_5tyi9 = (short)1237102872;
  C_8SfT = 552837442;
  CG_Wl08448 = 319078120;
  sz9x = -650783023;
@@ -50,7 +50,7 @@ int main(int argc, char** argv)
  ecua = -720023281;
  sdRw5 = -1353881183;
  wERcrIR8 = -495454818;
- U_5QE = -616701926;
+ U_5QE = (short)-616701926;
  Y3bD_s8 = -1068603329;
  Xx2nR = -1110252336;
  B829n8V66 = 1958460584;
@@ -60,7 +60,7 @@ int main(int argc, char** argv)
  K8K86JT = 688851066;
  Y6MNidF9T3 = 1658569312;
  iSg8T_V = 274243008;
- kr_nj37 = -2038015067;
+ kr_nj37 = (short)-2038015067;
  xM0hyU = -1450275346;
  elg_7 = 1635337292;
  VSwQ = 1814725105;
@@ -70,7 +70,7 @@ int main(int argc, char** argv)
  wvDDO = 733869071;
  nlWYF0Cl = 87808760;
  Ann_ir = 233201993;
- WuM44Ds = 1814491452;
+ WuM44Ds = (short)1814491452;
  A8DO8_2EUh = 1560311986;
  dUb3iVxjjf = -1510546865;
  IUN29 = -2126623949;
@@ -80,7 +80,7 @@ int main(int argc, char** argv)
  o088XL = 1786380494;
  M_uY3 = -1544703042;
  S7TuNY80O = -1373094717;
- k_140B5 = 1255040447;
+ k_140B5 = (short)1255040447;
  qSFF61Os0 = -1995563121;
  X0d30 = 879715541;
  aC13ug4Hg7 = -966780911;
@@ -90,7 +90,7 @@ int main(int argc, char** argv)
  hkWy8cZCTI = -1229967180;
  u7W8x8GH = -1941513703;
  AZmV_1 = -1623603398;
- P0EwF7sUF = -1194435001;
+ P0EwF7sUF = (short)-1194435001;
  p0_Wy0 = -900264691;
  eTm9zn = 1556054001;
  s96d8TD = 703347203;
@@ -100,7 +100,7 @@ int main(int argc, char** argv)
  t269m = 1537376808;
  t6iB = -1064674426;
  DhKw = 1889417109;
- Rmle6gb = -33933337;
+ Rmle6gb = (short)-33933337;
  Um_Spj3 = 843164224;
  Ya1ufpyhX = -1170656428;
  Ry_6 = -910653776;
@@ -110,7 +110,7 @@ int main(int argc, char** argv)
  fi9NNZR9iO = 273101212;
  XTz1 = -645506764;
  p5Y0i6_ = 1454716980;
- NtTW39gJu = 1565098218;
+ NtTW39gJu = (short)1565098218;
  mW2HX1 = 50813238;
  jA7J = -1794946054;
  eCb0Sg = 72891637;
@@ -256,7 +256,7 @@ case 6:
 fm8M = a4_6FIrSLC(1168733415, fm8M, XTz1, VSwQ);
 break;
 case 7:
-qSFF61Os0 = kIIU2(qSFF61Os0, 39031097, -334576505);
+qSFF61Os0 = kIIU2(qSFF61Os0, 39031097, (short)-334576505);
 break;
 case 8:
 T1ido = (int)abs(DhKw);
@@ -277,7 +277,7 @@ case 'a':
 t_Z6X_7pcE = a4_6FIrSLC(qMzen3, 574455992, sdRw5, -1896586626);
 break;
 case 'b':
-S7TuNY80O = kIIU2(1689852887, 577750139, -1337340721);
+S7TuNY80O = kIIU2(1689852887, 577750139, (short)-1337340721);
 break;
 case 'c':
 EepJPb1_9 = kIIU2(-2120908851, CG_Wl08448, sP9_26Zxw1);
@@ -304,7 +304,7 @@ t_Z6X_7pcE = a4_6FIrSLC(436244147, sP9_26Zxw1, 792168553, B829n8V66);
 break;
 case 'b':
 case 'B':
-RiA1r = kIIU2(1150486889, eCb0Sg, 426482304);
+RiA1r = kIIU2(1150486889, eCb0Sg, (short)426482304);
 break;
 case 'c':
 case 'C':
@@ -423,7 +423,7 @@ w36b78 = (int)abs(EepJPb1_9);
 }
 else if ((Wsvja56rB2 != pynJ) && ((p5Y0i6_ >= -1703877564) && (BRc_z917 >= p1hJKikr)))
 {
-BypXpF_ = kIIU2(-1385767127, p8KS33lx2A, -697908983);
+BypXpF_ = kIIU2(-1385767127, p8KS33lx2A, (short)-697908983);
 }
 else if (((mW2HX1 > RiA1r) && (Mg0L & Gz1nH6_)) || ((Ya1ufpyhX > Zw4gluz8W) && (RiA1r != Gz1nH6_)))
 {

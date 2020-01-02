@@ -19,7 +19,7 @@ char	U2Vpmk84T(unsigned int	r7p93Vjs,unsigned char	D8Ya5Yd,short	iwlU,char	w_kGw
 
 unsigned char	g_J8o542T()
 {
-	return	-519687565;
+	return	(unsigned char)-519687565;
 }
 
 long long CqG8(long long Gv9N_,unsigned char DTvx2v5,unsigned short int J8T41,long long N20Z) {
@@ -46,7 +46,7 @@ case 1:
 KMaP_mfOCo = CqG8(KMaP_mfOCo, hpV_4g, 968173854, ybHS7vEA);
 break;
 case 2:
-IKmgZ = zkMERCy_02(e_VY3sb9, IKmgZ, 1410741220, -513185784);
+IKmgZ = zkMERCy_02(e_VY3sb9, IKmgZ, (unsigned short)1410741220, -513185784);
 break;
 case 3:
 UL_007Z03_ = MYxy_21S1(783682118, d7enu62s5, 1484889902);

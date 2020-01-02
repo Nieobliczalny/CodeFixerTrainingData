@@ -65,7 +65,7 @@ a2Cu03Dn = (int)floor(KT83M1v0);
 }
 else if (((wOf4hj89 & -902800371) && (On5ebgH == -1229180496)) && (a4P1ju > 1416723136))
 {
-cout << j9CN1Vu_wB(1343293056, KT83M1v0, pHRC, vyLHJYu9Du, -1121338651) << "yZm610aM" << FZ9x_en << j9CN1Vu_wB(1359352143, KT83M1v0, 1737740764, 528016698, a4P1ju) << j9CN1Vu_wB(Axx5UC_, KT83M1v0, pHRC, vyLHJYu9Du, -476486429) << endl;
+cout << j9CN1Vu_wB(1343293056, KT83M1v0, pHRC, vyLHJYu9Du, -1121338651) << "yZm610aM" << FZ9x_en << j9CN1Vu_wB(1359352143, KT83M1v0, 1737740764, 528016698, a4P1ju) << j9CN1Vu_wB(Axx5UC_, KT83M1v0, pHRC, vyLHJYu9Du, (unsigned short)-476486429) << endl;
 }
 else if (pHRC != -223751967)
 {
@@ -184,7 +184,7 @@ for (int i = 0; i < 5; i++)
 switch (FZ9x_en)
 {
 case 0:
-FZ9x_en = j9CN1Vu_wB(pHRC, -468410212, FZ9x_en, a2Cu03Dn, 1618318240);
+FZ9x_en = j9CN1Vu_wB(pHRC, -468410212, FZ9x_en, a2Cu03Dn, (unsigned short)1618318240);
 break;
 case 1:
 KT83M1v0 = (int)ceil(a2Cu03Dn);

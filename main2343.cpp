@@ -21,7 +21,7 @@ int main()
   long long  wg0D5m;
   wg0D5m  =  1326644777;
   unsigned char  N8WCA;
-  N8WCA  =  -2015979127;
+  N8WCA  =  (unsigned char)-2015979127;
 	unsigned long long	iGqB4;
 	iGqB4	=	-757013147;
     long    NnE6;
@@ -43,7 +43,7 @@ int main()
  unsigned char l7JGS;
  l7JGS = 2098340219;
  unsigned char OlAVD9W;
- OlAVD9W = -1051677475;
+ OlAVD9W = (unsigned char)-1051677475;
   double  diMwj;
   diMwj  =  -1175839219;
   unsigned char  n5AvwNIR;
@@ -53,7 +53,7 @@ int main()
     unsigned short    hE55nw9Y0d;
     hE55nw9Y0d    =    424395576;
   short int  DlUf66U_Ag;
-  DlUf66U_Ag  =  -1563159408;
+  DlUf66U_Ag  =  (short)-1563159408;
   unsigned long  CvhmpBWoL;
   CvhmpBWoL  =  -169619671;
   long long  ujC_h7FD;
@@ -79,7 +79,7 @@ int main()
 	unsigned char	lODanve0Zh;
 	lODanve0Zh	=	0;
  unsigned short int z8hLs8Mz;
- z8hLs8Mz = -646806609;
+ z8hLs8Mz = (unsigned short)-646806609;
 	unsigned long	tP1i4;
 	tP1i4	=	1865667987;
   float  pSIm;
@@ -89,7 +89,7 @@ int main()
   unsigned char  hf_SzPqO;
   hf_SzPqO  =  -910730886;
   short  cXkrs;
-  cXkrs  =  -582365656;
+  cXkrs  =  (short)-582365656;
  unsigned short WLh9a947Yw;
  WLh9a947Yw = -202013373;
 	long long	deO_YtQjAB;
@@ -103,7 +103,7 @@ int main()
   long long  q7H9z2fkoM;
   q7H9z2fkoM  =  322491113;
  unsigned short KPkt_;
- KPkt_ = 1704667853;
+ KPkt_ = (unsigned short)1704667853;
 	short int	Y6bz;
 	Y6bz	=	-1550730421;
 	long long	tuDs_NWhp2;
@@ -113,7 +113,7 @@ int main()
 	double	Mu3s7dw;
 	Mu3s7dw	=	1749844258;
     char    a0er6Tl6;
-    a0er6Tl6    =    1200825969;
+    a0er6Tl6    =    (char)1200825969;
   short  rCh8aZWt89;
   rCh8aZWt89  =  962743464;
  float Kqajt;
@@ -129,7 +129,7 @@ int main()
  int A1dmh;
  A1dmh = -641870699;
   short int  ur84a;
-  ur84a  =  -1531651221;
+  ur84a  =  (short)-1531651221;
 	long long	XVpBhV0GF;
 	XVpBhV0GF	=	990185450;
     int    aq6G;
@@ -147,7 +147,7 @@ int main()
 	unsigned char	YqG4M;
 	YqG4M	=	1910963656;
   short int  DehCF;
-  DehCF  =  -1560232788;
+  DehCF  =  (short)-1560232788;
 
 {
 int i = 1;

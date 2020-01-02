@@ -15,7 +15,7 @@ int main(void)
     float    lg2r8_4    =    501116212;
     long double    XR2f_8JPsS    =    -1975834155;
 	short int	KpV2p6Yo	=	-372082302;
-	unsigned char	A9sjs9YP	=	1641816710;
+	unsigned char	A9sjs9YP	=	(unsigned char)1641816710;
   double  HosF  =  1213838651;
   long long  gGa765x1  =  -682463372;
     unsigned int    VMCj8N    =    1311227107;
@@ -26,7 +26,7 @@ int main(void)
     unsigned long long    J8c0R5R    =    -379246506;
 	unsigned short	AM_45Q7r1	=	0;
   short int  ntz33  =  99648682;
- short int rXtqa5XD = 1270978810;
+ short int rXtqa5XD = (short)1270978810;
     double    qvCw5    =    1805812582;
     unsigned int    h5VnvhOI_    =    -664060731;
  short int dwIkd3gth = 1695902460;
@@ -38,7 +38,7 @@ int main(void)
  unsigned short int s9HX_36u = 1037066168;
     unsigned long long    OkT_    =    302793245;
     unsigned long long    mmkf3pT    =    291274967;
- char D59OWzGpE = -1883698503;
+ char D59OWzGpE = (char)-1883698503;
  long Ih8PsirROy = -486759882;
     char    myH2p    =    1545612182;
 	int	p9vx9	=	1801678040;
@@ -50,7 +50,7 @@ int main(void)
   unsigned char  K7dj6  =  275879643;
  float jQm6U = 2007072340;
 	unsigned long long	y_BgLOnbY	=	1085027662;
-	unsigned short int	tO90P8	=	1181496450;
+	unsigned short int	tO90P8	=	(unsigned short)1181496450;
 	float	H2a4mC8uL	=	-6500474;
 	long long	N2z_B	=	-1549364597;
  long GrHl1 = 0;
@@ -62,7 +62,7 @@ int main(void)
 	long long	HmTjd	=	1651498373;
     float    qcmuWo9    =    1653810530;
     unsigned long    LgXV3    =    1738996323;
-    unsigned char    WGI8KWr25    =    2055821453;
+    unsigned char    WGI8KWr25    =    (unsigned char)2055821453;
 	unsigned long long	Ccoezp5_	=	0;
  unsigned short Si8AW = -959840989;
 	unsigned int	J3J_	=	2000885845;
@@ -73,7 +73,7 @@ int main(void)
   unsigned long  hRF7NAddi  =  0;
 	unsigned short int	ZMHKg	=	-1320078571;
   double  JU7i8I  =  1702641642;
-	short int	C61Hu4XVm	=	-1007705835;
+	short int	C61Hu4XVm	=	(short)-1007705835;
 	unsigned short int	pLQ1	=	402016939;
   unsigned short  lIjVb6mnah  =  128881603;
     short    rw6qYWO65    =    1038793942;

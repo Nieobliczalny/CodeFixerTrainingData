@@ -21,6 +21,7 @@ short int  OlC_fj(unsigned long  XB1_r,int  V7_1,char  bgdT97,int  fER311T0A,lon
 
 int main()
 {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
  unsigned short H170 = 133865360, bjc59y61 = 1478786606, NV1f3 = -1929313888, j27CpddGBk = -1058516277, pY6_S4f070 = 333513574, DiKYY = 1022118605, lWdXy = 289081709, uYT833 = 1735443307, Ut6q47W22s = 334563407, QI5EAY = 769584174, yqbA = -440626357, a_HG = 1709161842, wwu764z2 = 485043442, K6__ = -2038175064, c4yKS = 2054107031, e25vfde1PX = -1556051616, i8K8ro_e = -846828577, RknO = 657951294, rg0AEE = -1404181051, r_w4 = 356375353, A96sk7B = 1305272861, kBzrITeW = 851440738, qc21lPb6xd = 880019857;
     short int    h16wJ    =    0,    S7_jOa1M    =    0,    Dy42ti    =    0,    IJ_1o_    =    0,    Qq00IW    =    0;
 
@@ -135,7 +136,7 @@ A96sk7B = OlC_fj(170412683, 1725388132, uYT833, Dy42ti, -661573396) + c4yKS;
 
 NV1f3 = (unsigned short)(Qq00IW + (KM30n5Y));
 
-cout << h4m_j1(345158, -861583345) << "g2CevBD6" << OlC_fj(wwu764z2, yqbA, -332810386, 1492553974, -2038213093) << a_HG << endl;
+cout << h4m_j1(345158, -861583345) << "g2CevBD6" << OlC_fj(wwu764z2, yqbA, (char)-332810386, 1492553974, -2038213093) << a_HG << endl;
 lWdXy = OlC_fj(832427614, -6606943, 1304113407, e25vfde1PX, j27CpddGBk);
 
 cout << a_HG << OlC_fj(-753798610, yqbA, 2006184747, e25vfde1PX, j27CpddGBk) << j27CpddGBk << OlC_fj(1205754280, -309732010, H170, -1599266294, 2084410050) << endl;
@@ -168,7 +169,7 @@ else
 {
 if (h16wJ == 370130588)
 {
-S7_jOa1M = h4m_j1(bjc59y61, -710070723);
+S7_jOa1M = h4m_j1(bjc59y61, (short)-710070723);
 }
 }
 }

@@ -18,7 +18,7 @@ int main() {
   long  V_tiaW  =  530289329;
   unsigned short int  D4pg6O  =  -1012463829;
   long double  TDNgSv  =  883610372;
- unsigned short M9UW52_B_9 = -301735512;
+ unsigned short M9UW52_B_9 = (unsigned short)-301735512;
   double  Gyb0  =  1260089237;
     unsigned char    wBbK0_41l    =    -1201047452;
   unsigned char  I1e_5H5  =  0;
@@ -28,7 +28,7 @@ int main() {
 	char	yeAKh	=	-1792853603;
  long ViSIGnno = 930434424;
     short int    dl67o78u2    =    429997259;
-    char    M7__OJ    =    -611897628;
+    char    M7__OJ    =    (char)-611897628;
  long double PMA8HER16H = 268263622;
 	char	JFD5_bprP	=	307182711;
   unsigned long long  rQc_L_o7  =  -1084864532;
@@ -39,7 +39,7 @@ int main() {
  int U6ITzn = 1121441577;
   unsigned short int  FQ_pL3_T  =  -1490628663;
     unsigned long long    Z3myMCEuf    =    -1926151951;
-	char	bXWPgYgGAs	=	-504412992;
+	char	bXWPgYgGAs	=	(char)-504412992;
 	double	HL2R	=	721241532;
 	long long	x_3OU	=	1221536897;
 	unsigned long long	wxT09m	=	0;
@@ -54,7 +54,7 @@ int main() {
 	long double	NKjVOvWk9M	=	199824490;
  double gYqpQu = -401829039;
 	unsigned int	X1027g7df	=	-794558339;
- unsigned char D0ZHl = -1917581233;
+ unsigned char D0ZHl = (unsigned char)-1917581233;
 	unsigned long	c08Bj	=	-1144619968;
     short    v07A2vh1VS    =    1100075317;
 	float	b2ob	=	181438872;
@@ -64,7 +64,7 @@ int main() {
  float MxHfVS3w = 258225110;
 	long	UU2EJ9	=	1164735380;
     unsigned short int    qwSa9_O2N    =    -591399863;
-  short int  xp4xGVo  =  365799041;
+  short int  xp4xGVo  =  (short)365799041;
   unsigned int  Jx3i5Z9Vq0  =  -1003028548;
 	float	vYe__vYAa	=	487997420;
 	long double	f2ma6	=	-1563939754;
@@ -75,7 +75,7 @@ int main() {
     long    B0V0I2D3    =    -307912125;
 	long	r4EMug	=	1827747699;
 	int	k484svcD	=	204310864;
- unsigned short u_Xodpwlx = 288519508;
+ unsigned short u_Xodpwlx = (unsigned short)288519508;
 	short int	u_7Vc	=	-2075761928;
     unsigned short int    bp3M0xw_8    =    914235541;
  char ItG9 = 1931730819;
@@ -187,7 +187,7 @@ do
 j--;
 if ((ItG9 == -1881183022) || (UU2EJ9 == 1316374750))
 {
-LbL_HiVPZ = (FQ_pL3_T < 1906247216) ? 763981065 : -29083905;
+LbL_HiVPZ = (FQ_pL3_T < 1906247216) ? 763981065 : (unsigned short)-29083905;
 }
 }
 while (j >= 0);

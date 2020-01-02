@@ -106,7 +106,7 @@ case 0:
 G1h48rJ9A = CTsxm_jem8 ^ 1128641064;
 break;
 case 1:
-CTsxm_jem8 = YT6wi6_o8(Z_BQyZe_U, 1314926032, -1687570018, 1750690330);
+CTsxm_jem8 = YT6wi6_o8(Z_BQyZe_U, 1314926032, (unsigned short)-1687570018, 1750690330);
 break;
 case 2:
 NfF_mgl3i = YT6wi6_o8(1443875157, At6_8sHB, -787707145, 555248087);
@@ -118,7 +118,7 @@ case 4:
 y46j2S *= 1575938980;
 break;
 case 5:
-Ukv973F0Z = Hwij_qEI(728158039, Ukv973F0Z, At6_8sHB, -1743084812, -803383172);
+Ukv973F0Z = Hwij_qEI(728158039, Ukv973F0Z, At6_8sHB, (unsigned short)-1743084812, -803383172);
 break;
 case 6:
 XNYpXQZbY = YT6wi6_o8(XNYpXQZbY, At6_8sHB, -2012422406, -253199634);

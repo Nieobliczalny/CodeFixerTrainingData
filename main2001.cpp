@@ -19,7 +19,7 @@ short int ocS6HU() {
 }
 
 unsigned char  bdko0rVl0_(int  CJ76Fn840,unsigned short  QtqoW7f87U)  {
-  return  715197707;
+  return  (unsigned char)715197707;
 }
 
 unsigned int CO_zu1eP(unsigned short int d0qD5,char Y0k_Es03)
@@ -29,6 +29,7 @@ unsigned int CO_zu1eP(unsigned short int d0qD5,char Y0k_Es03)
 
 int main(int argc, char** argv) {
  int HukqweQg4s = 0;
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
     unsigned short    Ya7c    =    -2022588758,    vq_r_8ciTK    =    645887139,    NDG8W4    =    561596930,    W271e24Sbd    =    -495912304,    ARfJjoI9l    =    1028217446,    mq2su8R    =    2011222665,    u97GCJ1    =    1692816957;
 
 try
@@ -42,7 +43,7 @@ mq2su8R = W271e24Sbd * 1621306232;
 }
 else
 {
-NDG8W4 = (ARfJjoI9l > PzMl) ? 1081591497 : CO_zu1eP(1312088600, -998797215);
+NDG8W4 = (ARfJjoI9l > PzMl) ? 1081591497 : CO_zu1eP((unsigned short)1312088600, -998797215);
 }
 }
 catch (int& errorCode)

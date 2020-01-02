@@ -18,6 +18,7 @@ char	gX66LX9R7(unsigned int	p4y6);
 
 int main()
 {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
   unsigned char  HPo63eM  =  -1207576687,  y_g9  =  193314946,  ShRB9  =  465939938,  W3emag_Fh3  =  30373659,  uohp4  =  -948128692,  POG4v3  =  -34447046,  yiZgKEGy  =  -534876444,  NTBO_2  =  -656574556;
     char    I510LaN    =    0,    xx7IvJ5    =    0,    Epm3_5h    =    0,    t55k26P1cy    =    0,    dhFT    =    0;
 
@@ -58,7 +59,7 @@ while (j >= 0);
 }
 else
 {
-std::cout << xn_j(2018310425, -216647506) << wAj0uPiiD(1933376266) << "u0ym4Ir" << "Bmmfe3Um21" << "VX_e_8vnV" << std::endl;
+std::cout << xn_j((short)2018310425, -216647506) << wAj0uPiiD(1933376266) << "u0ym4Ir" << "Bmmfe3Um21" << "VX_e_8vnV" << std::endl;
 }
 if ((xx7IvJ5 >= 743066911) && (xx7IvJ5 & uohp4))
 {
@@ -232,7 +233,7 @@ else
 {
 if (HPo63eM != fs9zDv)
 {
-dhFT = xn_j(13673052, -1577328942);
+dhFT = xn_j((short)13673052, -1577328942);
 }
 }
 std::cout << I510LaN << uohp4 << "INpt4L4" << "LosK5Aws" << gX66LX9R7(527982150) << std::endl;

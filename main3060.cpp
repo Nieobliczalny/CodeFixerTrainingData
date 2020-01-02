@@ -21,7 +21,7 @@ int main() {
     double    q_3V_5;
     q_3V_5    =    -1920265825;
  short HOnoc8s622;
- HOnoc8s622 = 1439488364;
+ HOnoc8s622 = (short)1439488364;
     short int    ODcWo6z;
     ODcWo6z    =    -1211873344;
   short  W29RtQc_;
@@ -33,7 +33,7 @@ int main() {
 	unsigned int	zfiN7V;
 	zfiN7V	=	0;
     short int    G4rd6;
-    G4rd6    =    240865808;
+    G4rd6    =    (short)240865808;
 	unsigned long	ZFl4hI4g;
 	ZFl4hI4g	=	0;
     unsigned char    x5aE7_8Y;
@@ -59,7 +59,7 @@ int main() {
   double  OdqE2;
   OdqE2  =  -249405971;
   char  A2p89RE;
-  A2p89RE  =  2001086890;
+  A2p89RE  =  (char)2001086890;
  double Ef43xwM8P;
  Ef43xwM8P = -2063973674;
  unsigned long long t5NS;
@@ -85,7 +85,7 @@ int main() {
     unsigned char    fRne;
     fRne    =    -1679009129;
 	unsigned short int	X0EWn4A76A;
-	X0EWn4A76A	=	816233907;
+	X0EWn4A76A	=	(unsigned short)816233907;
   short  p_EwRhU1S9;
   p_EwRhU1S9  =  -527593662;
 	char	iRWQ5K8;
@@ -127,7 +127,7 @@ int main() {
  unsigned char pZend;
  pZend = 61590057;
  char FqYA00;
- FqYA00 = 1879077040;
+ FqYA00 = (char)1879077040;
 	unsigned short int	g27CRSsO;
 	g27CRSsO	=	-1838743092;
     unsigned char    QIh2;
@@ -150,7 +150,7 @@ std::cout << jmcCGmk2 << "XM9L" << C25xXF2R0U(-1960846260) << NX6A << std::endl;
 }
 else if ((J_ibS2 <= bLjYL7g_) || (iRWQ5K8 > HyOf3_5T))
 {
-rrtf = C25xXF2R0U(519326403);
+rrtf = C25xXF2R0U((short)519326403);
 }
 else if (v8oYg == -1828189460)
 {
@@ -178,7 +178,7 @@ ZFl4hI4g = C25xXF2R0U(-702606297);
 }
 }
 
-ZFl4hI4g = C25xXF2R0U(-64785767);
+ZFl4hI4g = C25xXF2R0U((short)-64785767);
 
 tAFfx = (int)floor(Ef43xwM8P);
 
@@ -214,7 +214,7 @@ zfiN7V = C25xXF2R0U(753329774);
 }
 }
 
-std::cout << C25xXF2R0U(2094092121) << C25xXF2R0U(p0ze585) << C25xXF2R0U(-1576410117) << C25xXF2R0U(-1808797208) << std::endl;
+std::cout << C25xXF2R0U((short)2094092121) << C25xXF2R0U(p0ze585) << C25xXF2R0U(-1576410117) << C25xXF2R0U(-1808797208) << std::endl;
 
 {
 int i = 5;
@@ -225,7 +225,7 @@ h5H_7 = C25xXF2R0U(-949619626);
 }
 while (i >= 0);
 }
-std::cout << QA6Nfz << "C1SZNk2" << C25xXF2R0U(-1226479788) << std::endl;
+std::cout << QA6Nfz << "C1SZNk2" << C25xXF2R0U((short)-1226479788) << std::endl;
 return 0;
 }
 

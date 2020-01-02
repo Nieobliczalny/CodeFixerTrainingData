@@ -18,7 +18,7 @@ unsigned short int  gH6pW50nO(unsigned long  Wci5X01F)  {
 
 char nSb5()
 {
- return -2145339178;
+ return (char)-2145339178;
 }
 
 char m79uSV06(unsigned short mQ_fTT3iI,unsigned int dYN30hCu2g,unsigned char kT2809g12z,int eUCix3S) {
@@ -34,7 +34,7 @@ int main()
  short l_zxyvj01j;
  l_zxyvj01j = 1763786259;
   unsigned char  wy68h_sJ_;
-  wy68h_sJ_  =  -1782056486;
+  wy68h_sJ_  =  (unsigned char)-1782056486;
  float AQ4Jz7TB3;
  AQ4Jz7TB3 = -2072762697;
 	long long	IHkhL;
@@ -50,7 +50,7 @@ int main()
   char  b1EyRuV1E;
   b1EyRuV1E  =  459909465;
     unsigned short    uH06G;
-    uH06G    =    2067022309;
+    uH06G    =    (unsigned short)2067022309;
 	char	KK_u7d4k;
 	KK_u7d4k	=	-1536792712;
 	unsigned long long	vRhZ;
@@ -68,7 +68,7 @@ int main()
  unsigned short l4e5T;
  l4e5T = 430830349;
 	unsigned short	lhn9;
-	lhn9	=	1824191505;
+	lhn9	=	(unsigned short)1824191505;
     unsigned short    j40q6K8;
     j40q6K8    =    -1369319812;
  short qezPqQ24v3;
@@ -84,7 +84,7 @@ int main()
   unsigned long  qCz7P4a_0c;
   qCz7P4a_0c  =  -284588225;
     unsigned short    S998v;
-    S998v    =    -1008094637;
+    S998v    =    (unsigned short)-1008094637;
 	unsigned char	SJKvoC52g;
 	SJKvoC52g	=	0;
  char KqX45Z;
@@ -156,7 +156,7 @@ case 0:
 UT8s = (int)ceil(crD7ydk_G);
 break;
 case 1:
-Xt6PCkXX8U = m79uSV06(-703010991, 1541174704, -604543378, f5880Gl5b);
+Xt6PCkXX8U = m79uSV06(-703010991, 1541174704, (unsigned char)-604543378, f5880Gl5b);
 break;
 case 2:
 l4e5T = wuT_Q_ << 147732330;
@@ -337,7 +337,7 @@ if (wuT_Q_ > F10e)
 {
 if (pLH3mt <= F10e)
 {
-uUwK3De = m79uSV06(-29474499, -347740584, -382548097, ZZzKENR);
+uUwK3De = m79uSV06(-29474499, -347740584, (unsigned char)-382548097, ZZzKENR);
 }
 else
 {
@@ -493,7 +493,7 @@ if (S998v >= tN483)
 {
 if (IHkhL <= CBvi2u)
 {
-std::cout << m79uSV06(-1853119379, 2082829739, -1666556004, d8DW) << gH6pW50nO(-2004589388) << l_zxyvj01j << "kRJ62NiB" << S998v << std::endl;
+std::cout << m79uSV06(-1853119379, 2082829739, (unsigned char)-1666556004, d8DW) << gH6pW50nO(-2004589388) << l_zxyvj01j << "kRJ62NiB" << S998v << std::endl;
 }
 else
 {
@@ -517,7 +517,7 @@ case 'd':
 b1EyRuV1E = (int)abs(f5880Gl5b);
 break;
 case 'e':
-SJKvoC52g = m79uSV06(-2025462546, 1408692921, 123601922, -1955638684);
+SJKvoC52g = m79uSV06(-2025462546, 1408692921, (unsigned char)123601922, -1955638684);
 break;
 case 'f':
 crD7ydk_G = (int)floor(f5880Gl5b);

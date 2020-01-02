@@ -247,7 +247,7 @@ case 4:
 kYZh2Zy = Vu_BtLlH - 1687557787;
 break;
 case 5:
-bGDtR = O234P7z4(1575391834);
+bGDtR = O234P7z4((unsigned short)1575391834);
 break;
 case 6:
 M81Y3kI = bGDtR * 1286140675;
@@ -259,7 +259,7 @@ case 8:
 fKvV30Zh5 = O234P7z4(fKvV30Zh5);
 break;
 default:
-rI_2eBmC = O234P7z4(-1738593439);
+rI_2eBmC = O234P7z4((unsigned short)-1738593439);
 break;
 }
 switch (Vt2Na_3JN0)

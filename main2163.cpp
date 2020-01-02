@@ -14,7 +14,7 @@ using std::floor;
 
 int main()
 {
-	unsigned char	hcF19B0m	=	-1763935775,	qD1oP79	=	2001686278,	ENPq	=	1963777231,	LKX_r	=	1954808756;
+	unsigned char	hcF19B0m	=	-1763935775,	qD1oP79	=	(unsigned char)2001686278,	ENPq	=	1963777231,	LKX_r	=	1954808756;
  int Y0_L = 0, vaSWQsQtE8 = 0, kKG79S = 0, qGi5YW = 0, HUbEVXGHx8 = 0;
 
 if (kKG79S >= Y0_L)
@@ -34,7 +34,7 @@ i++;
 switch (HUbEVXGHx8)
 {
 case 0:
-qD1oP79 = (qGi5YW & HUbEVXGHx8) ? 429028427 : 853072053;
+qD1oP79 = (qGi5YW & HUbEVXGHx8) ? 429028427 : (unsigned char)853072053;
 break;
 case 1:
 ENPq = ENPq >> hcF19B0m;

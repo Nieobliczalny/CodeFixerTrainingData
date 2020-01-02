@@ -18,7 +18,7 @@ short int	p10s7d(char	O2xwI4daE_)	{
 
 short ENpEs7v5()
 {
- return 1377958675;
+ return (short)1377958675;
 }
 
 unsigned long gEHXY5Cfr(unsigned int Opa4,unsigned short KUCde3g5)
@@ -32,7 +32,7 @@ int main() {
 	unsigned long long	ye1E;
 	ye1E	=	74366651;
 	short int	EcxSOB;
-	EcxSOB	=	792087753;
+	EcxSOB	=	(short)792087753;
  unsigned char w_u8p0Ht7x;
  w_u8p0Ht7x = -1687575223;
  unsigned short Sb17pPwE8;
@@ -44,7 +44,7 @@ int main() {
     char    gT990r;
     gT990r    =    0;
     short int    M5UJ_zSv;
-    M5UJ_zSv    =    1318685661;
+    M5UJ_zSv    =    (short)1318685661;
   float  fq9H7;
   fq9H7  =  -932481019;
   short int  S9AFj_4ZK5;
@@ -72,7 +72,7 @@ int main() {
 
 j91BnRj = ENpEs7v5();
 
-std::cout << "g66G" << M5UJ_zSv << s77Gfgi(-337911812, 749045726, 1813964883, -184926268) << DWUc7zt5 << std::endl;
+std::cout << "g66G" << M5UJ_zSv << s77Gfgi(-337911812, (short)749045726, 1813964883, -184926268) << DWUc7zt5 << std::endl;
 
 if (S9AFj_4ZK5 <= DWUc7zt5)
 {
@@ -103,7 +103,7 @@ while (j < 10);
 }
 else if (cuquMYp4 == -1468707294)
 {
-std::cout << De5pjiEZ5 << s77Gfgi(C6Y_u, 453801506, Sb17pPwE8, 586272696) << std::endl;
+std::cout << De5pjiEZ5 << s77Gfgi(C6Y_u, 453801506, Sb17pPwE8, (short)586272696) << std::endl;
 }
 else
 {
@@ -115,7 +115,7 @@ j++;
 switch (w_u8p0Ht7x)
 {
 case 0:
-j91BnRj = (gT990r <= 1382712776) ? s77Gfgi(-1590781042, -34090165, 616943829, 1388912866) : mM1_;
+j91BnRj = (gT990r <= 1382712776) ? s77Gfgi(-1590781042, -34090165, (unsigned short)616943829, 1388912866) : mM1_;
 break;
 case 1:
 gT990r = (int)abs(M5UJ_zSv) * 0;
@@ -192,7 +192,7 @@ gT990r = s77Gfgi(-285535608, EcxSOB, -550629927, R73n4);
 break;
 case 'b':
 case 'B':
-Sb17pPwE8 = p10s7d(-202432315);
+Sb17pPwE8 = p10s7d((char)-202432315);
 break;
 }
 rCoIvKdB = (unsigned long long)(M5UJ_zSv);

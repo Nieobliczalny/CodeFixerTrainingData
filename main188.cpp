@@ -19,7 +19,7 @@ unsigned short TExHD2q(unsigned short int OI3ejd_4p,unsigned long long cVoPs,lon
 int main(void)
 {
     char    ln73R;
-    ln73R    =    91713677;
+    ln73R    =    (char)91713677;
 	long long	p35C_3R2R;
 	p35C_3R2R	=	1249230075;
     unsigned char    Q9HlanYJb_;
@@ -29,7 +29,7 @@ int main(void)
   short int  TCK498117;
   TCK498117  =  -981896127;
 	unsigned short int	aAc0;
-	aAc0	=	1302821622;
+	aAc0	=	(unsigned short)1302821622;
 	unsigned short int	r4i6flarw;
 	r4i6flarw	=	-283602121;
 	unsigned long long	gVtB;
@@ -43,7 +43,7 @@ int main(void)
  float sV_7;
  sV_7 = -1235701159;
 	unsigned char	W7Fk8Rb;
-	W7Fk8Rb	=	-340865591;
+	W7Fk8Rb	=	(unsigned char)-340865591;
 
 {
 int i = 2;
@@ -59,7 +59,7 @@ Cunys4C = TExHD2q(157603658, fXDb, gVtB);
 break;
 case 'b':
 case 'B':
-TCK498117 = TExHD2q(-276653302, fXDb, sV_7);
+TCK498117 = TExHD2q((unsigned short)-276653302, fXDb, sV_7);
 break;
 }
 }
@@ -108,7 +108,7 @@ case 'a':
 qCKO0L_h = RTzYD(p35C_3R2R, W7Fk8Rb);
 break;
 case 'b':
-qCKO0L_h = RTzYD(aAc0, -159098059);
+qCKO0L_h = RTzYD(aAc0, (unsigned char)-159098059);
 break;
 }
 if (W7Fk8Rb)
@@ -172,7 +172,7 @@ case 5:
 gVtB = TExHD2q(gVtB, 713419271, T696M);
 break;
 case 6:
-sV_7 = RTzYD(364361290, 1903104252) << Cunys4C;
+sV_7 = RTzYD(364361290, (unsigned char)1903104252) << Cunys4C;
 break;
 case 7:
 T696M = (int)abs(TCK498117);
@@ -261,7 +261,7 @@ aAc0 = TExHD2q(1997946377, -59463262, -1099140984);
 }
 else
 {
-std::cout << "A9eT58Rc" << RTzYD(aAc0, 1457533810) << "x_ON1" << std::endl;
+std::cout << "A9eT58Rc" << RTzYD(aAc0, (unsigned char)1457533810) << "x_ON1" << std::endl;
 }
 r4i6flarw = qCKO0L_h / qCKO0L_h;
 p35C_3R2R = TExHD2q(p35C_3R2R, qCKO0L_h, W7Fk8Rb);

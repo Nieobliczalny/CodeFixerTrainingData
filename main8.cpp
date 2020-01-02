@@ -126,7 +126,7 @@ else if (CjJuZj <= Uh3C07m)
 {
 for (int k = 0; k < 2; ++k)
 {
-WQ4h = HU1onaQ(-1999091278);
+WQ4h = HU1onaQ((short)-1999091278);
 }
 }
 else if (zPuW9GKK8 <= S6Pnmc)
@@ -143,7 +143,7 @@ case 'c':
 Ii0tAHmY = HU1onaQ(-1622142648);
 break;
 default:
-M1Tw5J = HU1onaQ(-1113891828);
+M1Tw5J = HU1onaQ((short)-1113891828);
 break;
 }
 }
@@ -626,7 +626,7 @@ char  qzro75j_()  {
 }
 
 unsigned short HU1onaQ(short iuXhzC_Bg) {
- return 781494254;
+ return (unsigned short)781494254;
 }
 
 unsigned long long	izp2K77(unsigned long	F5Ko,int	vNYL04Tb,int	oWAL3Mc___,long long	R504Coh,long long	RWBJY)	{

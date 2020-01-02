@@ -23,7 +23,7 @@ int main(int argc, char** argv)
   unsigned int  SH0kL  =  0;
   float  iaDX  =  -14898805;
     unsigned long    r_X8    =    -1719921142;
-	short int	fDgygua	=	1408824811;
+	short int	fDgygua	=	(short)1408824811;
  unsigned char zBsSQ1 = 20668948;
     long    fIEi_W    =    -430789598;
     float    p1CI8_v    =    1716007190;
@@ -38,7 +38,7 @@ int main(int argc, char** argv)
   int  YJy4xyF  =  865670557;
  long g0v9y = 1720569739;
 	long double	D4G4_G_1	=	-1866195011;
-    unsigned short int    hu4w88ncY9    =    -1563802973;
+    unsigned short int    hu4w88ncY9    =    (unsigned short)-1563802973;
   double  y9p4TGb  =  2106233649;
  char RIJ5 = -1278849493;
 	unsigned long	r8ZE5fG	=	-1576821296;
@@ -49,7 +49,7 @@ int main(int argc, char** argv)
 	unsigned short int	t2ORHk	=	1334740945;
  short k3Qo = -763983802;
   unsigned long long  xw6Xb  =  -1245168532;
-  char  pvtywt1Y  =  -1201939691;
+  char  pvtywt1Y  =  (char)-1201939691;
   unsigned long long  KPWxY2dlb  =  -235941435;
 
 {
@@ -189,7 +189,7 @@ case 'b':
 Fqciz0__6 = LCpbXd7(970525992, -1682021430);
 break;
 case 'c':
-Ir8Z = LCpbXd7(2120367443, 673030522);
+Ir8Z = LCpbXd7(2120367443, (char)673030522);
 break;
 case 'd':
 Ir8Z = LCpbXd7(KPWxY2dlb, 348503261);
@@ -207,7 +207,7 @@ case 'h':
 oGEm = b06Rn / Ir8Z;
 break;
 default:
-Ir8Z = LCpbXd7(fIEi_W, -1233358532);
+Ir8Z = LCpbXd7(fIEi_W, (char)-1233358532);
 break;
 }
 }
@@ -431,7 +431,7 @@ std::cout << "eZMyr0P" << SH0kL << LCpbXd7(KPWxY2dlb, -2019441221) << LCpbXd7(KP
 }
 else
 {
-SH0kL = LCpbXd7(-161135637, -1632181381);
+SH0kL = LCpbXd7(-161135637, (char)-1632181381);
 }
 for (int i = 4; i >= 0; --i)
 {
@@ -510,7 +510,7 @@ catch (int& errorCode)
 d088K = LCpbXd7(k3Qo, d088K);
 }
 ph52E0fPC = LCpbXd7(xw6Xb, r8ZE5fG);
-std::cout << LCpbXd7(-936277195, -872621343) << LCpbXd7(xw6Xb, r8ZE5fG) << LCpbXd7(xw6Xb, 1563607827) << std::endl;
+std::cout << LCpbXd7(-936277195, -872621343) << LCpbXd7(xw6Xb, r8ZE5fG) << LCpbXd7(xw6Xb, (char)1563607827) << std::endl;
 
 {
 int i = 1;

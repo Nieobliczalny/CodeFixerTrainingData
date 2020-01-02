@@ -107,7 +107,7 @@ g2pB1P = Kzc3CxwL();
 
 cN027Kp4QE = Ow4PJOS / T8GHBq;
 
-std::cout << jPvs66h << s34aa7r5(g2pB1P, y4fT__5, 1173217581) << Y4kG0p_8jk << "Jx2tju14" << std::endl;
+std::cout << jPvs66h << s34aa7r5(g2pB1P, y4fT__5, (unsigned char)1173217581) << Y4kG0p_8jk << "Jx2tju14" << std::endl;
 for (int i = 8; i >= 0; --i)
 {
 zKv2 = (unsigned long)(D5Th);

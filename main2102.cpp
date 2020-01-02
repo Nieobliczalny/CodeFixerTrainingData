@@ -33,7 +33,7 @@ int main() {
     short    iQ2w4;
     iQ2w4    =    -1652464687;
  unsigned char WZ_573JrW5;
- WZ_573JrW5 = -715719324;
+ WZ_573JrW5 = (unsigned char)-715719324;
     unsigned short int    t9az4y7T;
     t9az4y7T    =    -195877051;
  short H5611_2TXA;
@@ -51,7 +51,7 @@ int main() {
 	short	D7z3;
 	D7z3	=	517715322;
  unsigned short R8ie4ww;
- R8ie4ww = -900284306;
+ R8ie4ww = (unsigned short)-900284306;
 
 try
 {

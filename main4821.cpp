@@ -9,6 +9,7 @@
 
 int main(int argc, char** argv) {
  unsigned char qkJJFDwY = 0, wxM3 = 0;
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
   short int  D0759  =  -468641150,  X9V23aXq  =  -156368589,  pNvv5eHqv  =  -1074030063,  R8w3  =  -993744406,  AxfQgQy  =  956643102,  T4ZWZ5B7_n  =  -1974275689,  U1q06RMW  =  618020871,  nsk3FG3vvh  =  -1313641789,  ks03Kmen  =  -2133251366,  W8GW7  =  641981863,  VpQS  =  -1508805548,  vJvO  =  -7208705,  T0R59a2  =  -172612580,  los9  =  -454138428,  d298a4b7c  =  1683531269,  w27BL_  =  -1657268692,  V93A3MK5D  =  979179526,  r8tv07_  =  -1213401651,  sg6a_eX  =  1847757440,  qLM4  =  1875284064,  Ny2u6O8Ml  =  -1724424659,  deVf049  =  -1144104196,  D1wa6  =  -843313566,  YpUjQGV071  =  1832739861,  K5cBKb  =  -1155794148,  Ln305epl  =  -1139992975,  q186B  =  -1396965327,  K1k0  =  -2028484759,  UPhwkCMtm  =  -475095655;
 
 try

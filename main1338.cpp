@@ -198,7 +198,7 @@ case 'd':
 YlVO9i8 = R50g_sIs0v(942646281, YlVO9i8);
 break;
 case 'e':
-Psy_G6gP = R50g_sIs0v(Psy_G6gP, 318969214);
+Psy_G6gP = R50g_sIs0v(Psy_G6gP, (unsigned char)318969214);
 break;
 case 'f':
 D980 = R50g_sIs0v(D980, Ep3sC3vx);
@@ -313,7 +313,7 @@ case 3:
 YlVO9i8 = R50g_sIs0v(D1rJ, Z8rSP9_C);
 break;
 case 4:
-Psy_G6gP = R50g_sIs0v(1098383363, 2138993531);
+Psy_G6gP = R50g_sIs0v(1098383363, (unsigned char)2138993531);
 break;
 case 5:
 Z8rSP9_C ^= D1rJ;
@@ -435,7 +435,7 @@ case 'b':
 D980 = R50g_sIs0v(q1e___n8, -1502332857);
 break;
 case 'c':
-Ep3sC3vx = R50g_sIs0v(Ep3sC3vx, -1207737779);
+Ep3sC3vx = R50g_sIs0v(Ep3sC3vx, (unsigned char)-1207737779);
 break;
 case 'd':
 q1e___n8 = Psy_G6gP + q1e___n8;

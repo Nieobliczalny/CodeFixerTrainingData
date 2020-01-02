@@ -26,7 +26,7 @@ long long  dq6ep31()  {
 }
 
 unsigned short fJL444(unsigned int eyefHEL5oq,int e9e6,unsigned short int LeVW_) {
- return 207964850;
+ return (unsigned short)207964850;
 }
 
 int main() {
@@ -138,7 +138,7 @@ case 'G':
 qbca3WW8Nq = dq6ep31();
 break;
 default:
-v01Bc_5 = nKB2fp(ECZ_RqOA, WDQY84wkv, 1001476685) + zOYZ_QE6;
+v01Bc_5 = nKB2fp(ECZ_RqOA, WDQY84wkv, (short)1001476685) + zOYZ_QE6;
 break;
 }
 if (VUGH < -1180139356)

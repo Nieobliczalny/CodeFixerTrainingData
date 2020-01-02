@@ -88,7 +88,7 @@ char	h23RigA_(long	qs9mL4579)
 }
 
 unsigned short    cud8Nbc9(unsigned short int    jvBpX5,int    aRIK,long    ia22ZKZ)    {
-    return    1850099193;
+    return    (unsigned short)1850099193;
 }
 
 char GFn_2t()

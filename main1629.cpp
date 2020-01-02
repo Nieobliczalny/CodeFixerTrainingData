@@ -21,7 +21,7 @@ int main(int argc, char** argv)
  short Ey6X9n;
  Ey6X9n = 694892231;
  short int r40c5b;
- r40c5b = -334990808;
+ r40c5b = (short)-334990808;
  float XkxMN;
  XkxMN = -1915315140;
   float  KNoe;
@@ -47,7 +47,7 @@ int main(int argc, char** argv)
     long long    MyL5fiorL;
     MyL5fiorL    =    -1200067001;
     unsigned char    Ab0AXxT;
-    Ab0AXxT    =    1542841716;
+    Ab0AXxT    =    (unsigned char)1542841716;
     double    K73RP7;
     K73RP7    =    2115958682;
     long double    ZI6I6;
@@ -63,7 +63,7 @@ int main(int argc, char** argv)
     long    XiEL;
     XiEL    =    1655790323;
 	short	AR11fr;
-	AR11fr	=	1202904936;
+	AR11fr	=	(short)1202904936;
  long long x0Te;
  x0Te = 1087048570;
  int xZbx30Uxq8;

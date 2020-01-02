@@ -28,7 +28,7 @@ unsigned long long    Fz12X()    {
 
 char hER_hr2kk(unsigned int lO6e6S471_,unsigned short int CV9W,unsigned short int Az5hQ8,int qvNls37,long E2X720xIUP)
 {
- return 319955902;
+ return (char)319955902;
 }
 
 int main()
@@ -41,7 +41,7 @@ int main()
 	long	GKVbMwCU3Q	=	-369177910;
   short int  w03PqI  =  0;
 	unsigned int	Y562gv	=	-294581457;
- unsigned short Ow46Wn5 = 1919427436;
+ unsigned short Ow46Wn5 = (unsigned short)1919427436;
  short nUV28rzO_0 = 1635941386;
   unsigned long long  B_u21  =  -1246355862;
     double    N85F4L_it    =    1355975740;
@@ -51,7 +51,7 @@ int main()
     float    F34XN_8uAu    =    828940512;
 	unsigned short int	M2w4	=	-1677561291;
  unsigned short int RahQ9W2SW = 1618445426;
-    unsigned char    KWo947    =    181874927;
+    unsigned char    KWo947    =    (unsigned char)181874927;
     long long    WVC_Dq    =    262387859;
  unsigned long long ABlg0w = -1335816666;
   unsigned long long  Kc2l  =  -1231988537;
@@ -62,7 +62,7 @@ int main()
  unsigned int FM9J = -772665809;
   unsigned long long  QvRtam  =  -1960779092;
     unsigned long long    tnrO5    =    -1529108403;
-    unsigned short    ul1QX    =    620900866;
+    unsigned short    ul1QX    =    (unsigned short)620900866;
  long long ONJj = 86946951;
     short int    MenD9_Fb    =    -1424834667;
   float  h9eOx0  =  125321782;
@@ -138,7 +138,7 @@ case 0:
 F34XN_8uAu = (int)floor(N85F4L_it);
 break;
 case 1:
-ul1QX = wTJ754_P9(1105592034, -2022246016, tnrO5, -42428680, w03PqI) % 382957902;
+ul1QX = wTJ754_P9(1105592034, -2022246016, tnrO5, (unsigned short)-42428680, w03PqI) % 382957902;
 break;
 case 2:
 F34XN_8uAu = (int)abs(S7o2);
@@ -430,7 +430,7 @@ h9eOx0 = (int)abs(B01t_33F_6);
 KeT9shy = (unsigned short int)(XR91b + (-1816946415));
 
 B01t_33F_6 = Y562gv / F_8u8x5(-169071342, -766226833, ONJj);
-KWo947 = hER_hr2kk(336469338, F34XN_8uAu, -1794586099, a9016, 525131422);
+KWo947 = hER_hr2kk(336469338, F34XN_8uAu, (unsigned short)-1794586099, a9016, 525131422);
 
 if ((Y562gv > -44995609) && ((w03PqI & XR91b) || (B_u21 != -1091034609)))
 {

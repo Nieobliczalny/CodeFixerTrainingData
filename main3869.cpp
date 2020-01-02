@@ -17,6 +17,7 @@ unsigned short int  P2_y98lE8(short int  H4zx5K06kh);
 short	Lc4GJu_l(short int	e6WZC11Nr);
 
 int main(int argc, char** argv) {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
     unsigned char    knlzG    =    735383104,    A68c    =    374660050,    m4zX8YSk5D    =    -1289630462,    a5Zg    =    -8702848,    ZKn9H9Rj    =    1057287939,    Kh4o7cET4    =    170450042,    a3S40_mwd    =    -876193053,    xVOv_7ek    =    1405352403,    fn3_Mr1791    =    -1055190287,    Q5Kc_trbb8    =    641334767,    q6WW3_0Tw5    =    94910366,    JeZlwR8    =    19594092,    x_97Iw    =    542637904,    e45g    =    -1775469189,    kMQF3qxG    =    -164171112,    eQYF4    =    1243100098,    WaRF_    =    -421558171,    xIaV11QKy    =    -1214718990,    gTn2VnB    =    -1988931087,    epR4om_    =    962426942,    sXH8sFhQ9D    =    -1728401808,    vTqd7dW    =    -1761064779,    qXC_N    =    -143536201,    FTuHGxP    =    -700117801,    M5aDIX_72    =    1404442515,    VXxm1SJO04    =    1395672362,    J_u7    =    903911246,    i8KTQ    =    -961402470,    R7_p    =    1192748076,    p6NU9y61    =    516100527,    lBk3    =    229378495,    K8Jfx_    =    1567390531,    If_G9slq    =    -1867884705,    uyEK__F    =    -602181114;
   unsigned short  sDsP  =  0;
 
@@ -80,7 +81,7 @@ j++;
 }
 if (((m4zX8YSk5D <= 1108939847) || (e45g & -876712345)) || ((Q5Kc_trbb8) || (ZKn9H9Rj & 98342299)))
 {
-VXxm1SJO04 = Je_DUI(-2071627762, 20670456);
+VXxm1SJO04 = Je_DUI(-2071627762, (short)20670456);
 }
 {
 int i = 9;
@@ -379,7 +380,7 @@ case 0:
 knlzG = Je_DUI(-1301333941, -1314403501);
 break;
 case 1:
-sDsP = Dl350(-627716773);
+sDsP = Dl350((unsigned short)-627716773);
 break;
 case 2:
 a5Zg = Lc4GJu_l(a5Zg);
@@ -403,7 +404,7 @@ case 8:
 A68c /= 1663686765;
 break;
 case 9:
-FTuHGxP = Lc4GJu_l(1140995379);
+FTuHGxP = Lc4GJu_l((short)1140995379);
 break;
 }
 }
@@ -446,7 +447,7 @@ std::cout << VXxm1SJO04 << Je_DUI(-1968524598, -1675946402) << "p03N73" << std::
 gTn2VnB = i8KTQ >> WaRF_;
 JeZlwR8 = (unsigned char)(gTn2VnB);
 
-if ((1991082521 / Dl350(-105504078)) != 2037160040)
+if ((1991082521 / Dl350((unsigned short)-105504078)) != 2037160040)
 {
 JeZlwR8 = Je_DUI(q6WW3_0Tw5, -257530859) / Dl350(940130439);
 }
@@ -570,6 +571,6 @@ unsigned short int  P2_y98lE8(short int  H4zx5K06kh)  {
 }
 
 short	Lc4GJu_l(short int	e6WZC11Nr)	{
-	return	711752461;
+	return	(short)711752461;
 }
 

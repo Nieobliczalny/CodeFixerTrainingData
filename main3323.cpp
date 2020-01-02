@@ -16,7 +16,7 @@ int main(int argc, char** argv) {
  unsigned long d8bD_hGdSL = 1119772812;
 	long long	X3wzPI	=	-1210063481;
  unsigned long long y4Y3_ZS = 0;
- unsigned short wy8FT = 128851171;
+ unsigned short wy8FT = (unsigned short)128851171;
   float  elKEAf  =  -1697166522;
  unsigned long long uC8kyw = -1706530537;
     double    goeF1IG    =    -917132525;
@@ -29,7 +29,7 @@ int main(int argc, char** argv) {
 	unsigned long long	Z_C9	=	1365747534;
 	long long	T_Li	=	1825128757;
  char CX0n1 = 468533209;
-  short  kG4XdFN  =  -319343146;
+  short  kG4XdFN  =  (short)-319343146;
 	short int	Y4Od4H10A1	=	-541337427;
  int LV35 = 49252619;
 	short int	E3q6	=	0;
@@ -43,7 +43,7 @@ int main(int argc, char** argv) {
  unsigned long xRj1EjX7 = -727758423;
  unsigned long E1_e99 = -124535898;
   unsigned long long  xuUC8Ep  =  -498057953;
- unsigned short int YDq403RymW = -1470701947;
+ unsigned short int YDq403RymW = (unsigned short)-1470701947;
  float YH450v6 = -1570419254;
 	int	I3lVa1	=	1066880039;
  long x_qWt = 117961794;
@@ -53,7 +53,7 @@ int main(int argc, char** argv) {
   char  xoHt_J2fs  =  1448208045;
 	char	jr029DpN_	=	-135639301;
     long double    QdM2    =    -1748240180;
-	short	Fv5unRX	=	2123874726;
+	short	Fv5unRX	=	(short)2123874726;
 	unsigned char	o209sb	=	1871156822;
 	short int	V11v4	=	-906512238;
     unsigned short    TPk5k_N    =    -297082913;
@@ -68,7 +68,7 @@ int main(int argc, char** argv) {
 
 if (p8VaG9 == 0)
 {
-	o51i24FAjy = Ab8NND9(1669629147, -1595068162, CN7D0oi, 138624144, LV35) / p8VaG9;
+	o51i24FAjy = Ab8NND9((unsigned short)1669629147, -1595068162, CN7D0oi, 138624144, LV35) / p8VaG9;
 }
 YH450v6 = (float)(vn_8lI);
 if (((vy01) && (Z_C9 < -384671518)) && (S5tSKd < CX0n1))
@@ -83,7 +83,7 @@ M66ehs = (int)ceil(vy01);
 }
 else
 {
-std::cout << "gSyP" << Ab8NND9(1086450634, 1126971108, CN7D0oi, CX0n1, -912893561) << std::endl;
+std::cout << "gSyP" << Ab8NND9(1086450634, (unsigned short)1126971108, CN7D0oi, CX0n1, -912893561) << std::endl;
 }
 std::cout << X3wzPI << "Hq5b82" << std::endl;
 if (bb414WF >= -109821809)
@@ -104,7 +104,7 @@ if (D6QK82W != I3lVa1)
 {
 for (int j = 6; j >= 0; --j)
 {
-p8VaG9 = Ab8NND9(2122131911, 1017437235, 381617418, 2143856602, D6QK82W);
+p8VaG9 = Ab8NND9((unsigned short)2122131911, 1017437235, 381617418, 2143856602, D6QK82W);
 }
 }
 else if (vn_8lI)

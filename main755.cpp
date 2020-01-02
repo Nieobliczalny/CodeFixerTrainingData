@@ -35,7 +35,7 @@ else
 {
 try
 {
-jCkTQsC30 = zMol3JBD(-939135330, 565887086, 1170819384);
+jCkTQsC30 = zMol3JBD(-939135330, (unsigned short)565887086, 1170819384);
 }
 catch (int& errorCode)
 {
@@ -93,7 +93,7 @@ else if ((kgPCpw5) || ((o8qrZ2Bm >= -393920624) && (VuUl3dkJ <= t95zHU3b)))
 switch (vQb4WumNLm)
 {
 case 0:
-tN99D_ = o13e6(tN99D_, 1629383196, -525304056);
+tN99D_ = o13e6(tN99D_, 1629383196, (unsigned char)-525304056);
 break;
 }
 }
@@ -129,7 +129,7 @@ else
 {
 try
 {
-oA9o0C = zMol3JBD(t8kkZYf2D, -340799786, 1034696418) * wNATGt0;
+oA9o0C = zMol3JBD(t8kkZYf2D, -340799786, (char)1034696418) * wNATGt0;
 }
 catch (int& errorCode)
 {
@@ -140,7 +140,7 @@ tB3Yj4Z = zMol3JBD(tB3Yj4Z, Vx4f, -2108848312);
 
 Jd3TUK85 = (unsigned short int)(B2NCZ8Z_8);
 
-hsX6t87vR = o13e6(-1660523005, 341613596, 1763215082);
+hsX6t87vR = o13e6(-1660523005, 341613596, (unsigned char)1763215082);
 kgPCpw5 = (unsigned short int)(hsX6t87vR);
 
 i026 = yOcz / Ib1J;
@@ -200,7 +200,7 @@ char  IevDGj1(short int  iW3PRD8A,short  X4D22XG2j,unsigned short  C16e,unsigned
 }
 
 short E2xKRmG() {
- return 1035862022;
+ return (short)1035862022;
 }
 
 long    zMol3JBD(char    KdSkC77,unsigned short    yTL2m076,char    Tma4N49O_)

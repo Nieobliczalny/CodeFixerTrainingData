@@ -15,7 +15,7 @@ int main()
     long    TGUYQ_d34g    =    2121760941;
   unsigned int  y40fHu2h_w  =  659791061;
  unsigned short int DbjttX5 = 1090798042;
- unsigned short int ac1e = 1544254751;
+ unsigned short int ac1e = (unsigned short)1544254751;
 	float	uMrE02Z	=	-11101282;
 	short int	uVfV2	=	-621844689;
     unsigned short    sOd8Qc    =    1075558834;
@@ -41,7 +41,7 @@ switch (uVfV2)
 {
 case 'a':
 case 'A':
-Ygr82 = LbDlT7(1976128932, 1378464435, -681519833);
+Ygr82 = LbDlT7(1976128932, 1378464435, (char)-681519833);
 break;
 case 'b':
 case 'B':
@@ -52,7 +52,7 @@ case 'C':
 Ygr82 = LbDlT7(r63zt7tPx, -1748228492, u1G702WwA);
 break;
 default:
-Ygr82 = LbDlT7(527709091, u1G702WwA, 121362581);
+Ygr82 = LbDlT7(527709091, u1G702WwA, (char)121362581);
 break;
 }
 }
@@ -63,7 +63,7 @@ ujYoOl = (int)floor(r63zt7tPx);
 }
 if ((ujYoOl < 300185900) || (Ygr82 != 844229001))
 {
-Ygr82 = LbDlT7(-359717550, 1740482422, -1070298676);
+Ygr82 = LbDlT7(-359717550, 1740482422, (char)-1070298676);
 }
 else if ((DbjttX5 <= 129655027) && (r63zt7tPx <= -233203247))
 {
@@ -98,7 +98,7 @@ case 1:
 r63zt7tPx = WRRh - 2006504504;
 break;
 case 2:
-ujYoOl = (uVfV2 & u1G702WwA) ? WRRh : LbDlT7(-1381510652, tmuhYHe2, 1565999849);
+ujYoOl = (uVfV2 & u1G702WwA) ? WRRh : LbDlT7(-1381510652, tmuhYHe2, (char)1565999849);
 break;
 case 3:
 r63zt7tPx = (int)floor(uMrE02Z);
@@ -172,7 +172,7 @@ case 'a':
 r63zt7tPx = (int)ceil(ujYoOl);
 break;
 case 'b':
-Ygr82 = LbDlT7(-1850138816, uMrE02Z, -907241801);
+Ygr82 = LbDlT7(-1850138816, uMrE02Z, (char)-907241801);
 break;
 case 'c':
 Jim3_Yd = (int)floor(r63zt7tPx);
@@ -241,7 +241,7 @@ case 4:
 Jim3_Yd = (int)floor(r63zt7tPx);
 break;
 case 5:
-Ygr82 = LbDlT7(-134591777, DbjttX5, 1949311668);
+Ygr82 = LbDlT7((unsigned short)-134591777, DbjttX5, 1949311668);
 break;
 case 6:
 uMrE02Z = (int)abs(uVfV2);
@@ -292,7 +292,7 @@ case 5:
 Jim3_Yd = (int)floor(uMrE02Z);
 break;
 case 6:
-u1G702WwA = LbDlT7(-1534285529, 317339905, 861272607) % 1238079598;
+u1G702WwA = LbDlT7((unsigned short)-1534285529, 317339905, 861272607) % 1238079598;
 break;
 case 7:
 Ygr82 = LbDlT7(1567787602, ujYoOl, -76080444);
@@ -361,7 +361,7 @@ int k = 0;
 do
 {
 ++k;
-Ygr82 = LbDlT7(-2138157005, 818630847, -276171492);
+Ygr82 = LbDlT7(-2138157005, 818630847, (char)-276171492);
 }
 while (k < 7);
 }
@@ -416,7 +416,7 @@ while (k >= 0);
 while (j < 3);
 }
 }
-Ygr82 = LbDlT7(-916834634, FxZ9, 1870550912);
+Ygr82 = LbDlT7(-916834634, FxZ9, (char)1870550912);
 
 return 0;
 }

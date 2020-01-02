@@ -21,6 +21,7 @@ unsigned long long DH_vXPr0(long UF22,unsigned int swkh8VMh0_,char P3C96_,unsign
 int main()
 {
  unsigned long long yXhn2nb1mk = 0, NWmp = 0, R6184cs = 0;
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
     unsigned short    iTcDlGcc    =    -340474895,    Pp26cg1    =    311948112,    ZTaO56k    =    1164375436,    eVEtX    =    -436635639,    R40q    =    -458762140,    TZzV1njg    =    -961927231,    qZPka44IA    =    1339449239,    GaZMtx    =    -263848602,    wjyE7p1    =    -2106422222,    Gf8D    =    2082806990,    laWmYFkp    =    1829074901,    G3fpB2uh    =    1250513319,    QGgEJIjsg9    =    711635109,    wsrEEfR2    =    -679222056,    I_eIqaJy    =    -596938581,    k4Zhwo    =    -705448171,    f0oEMs7B    =    1706252942,    k4u_7q    =    -562392917,    G7h51    =    -328261858,    DMZK_3J    =    -1301112057,    kF7djf    =    1792563105,    y0AQ6FUG6    =    -1055967882,    A0MLJ    =    -613066387,    wOZn_e    =    -237253908,    ffMxB09    =    929049960,    tLp9    =    1934062120,    b_Qlw10N    =    -909359794,    OPeeS    =    1324476460,    g6yY74s    =    -911808674,    i82Nb1    =    1031289843,    KIe8su2Vsj    =    -1969497210,    c5UV    =    518119871;
 
 NWmp = HaYu(Gf8D);
@@ -97,7 +98,7 @@ try
 {
 for (int j = 9; j >= 0; --j)
 {
-std::cout << HaYu(23782565) << LOS382(1592153901, f0oEMs7B, ZTaO56k) << laWmYFkp << std::endl;
+std::cout << HaYu(23782565) << LOS382((unsigned short)1592153901, f0oEMs7B, ZTaO56k) << laWmYFkp << std::endl;
 }
 }
 catch (int& errorCode)
@@ -140,7 +141,7 @@ b_Qlw10N = DH_vXPr0(b_Qlw10N, -354671182, 221159146, 1368366083);
 break;
 case 'd':
 case 'D':
-NWmp = HaYu(1554839061);
+NWmp = HaYu((short)1554839061);
 break;
 case 'e':
 case 'E':
@@ -175,7 +176,7 @@ NWmp = HaYu(ffMxB09);
 
 if (DMZK_3J > -2045581184)
 {
-g6yY74s = LOS382(-49654425, -1498226925, ffMxB09);
+g6yY74s = LOS382(-49654425, (char)-1498226925, ffMxB09);
 }
 try
 {
@@ -328,7 +329,7 @@ GaZMtx = DH_vXPr0(494144888, -1323791703, 1056296198, 1731989054) & wOZn_e;
 }
 std::cout << "QdoA7" << "f3f_HnI" << "Y4K07YP2e" << f0oEMs7B << std::endl;
 
-std::cout << LOS382(-298183276, -818855627, g6yY74s) << wjyE7p1 << "iUMd" << Gf8D << std::endl;
+std::cout << LOS382((unsigned short)-298183276, -818855627, g6yY74s) << wjyE7p1 << "iUMd" << Gf8D << std::endl;
 if (R40q <= -308628623)
 {
 switch (NWmp)
@@ -340,7 +341,7 @@ case 1:
 laWmYFkp = DH_vXPr0(laWmYFkp, KIe8su2Vsj, 1200140401, g6yY74s);
 break;
 case 2:
-f0oEMs7B = DH_vXPr0(f0oEMs7B, 1355726331, 1408394511, 1436358332);
+f0oEMs7B = DH_vXPr0(f0oEMs7B, 1355726331, (char)1408394511, 1436358332);
 break;
 case 3:
 g6yY74s = DH_vXPr0(1244355465, G7h51, -843271107, iTcDlGcc);
@@ -352,7 +353,7 @@ case 5:
 f0oEMs7B = DH_vXPr0(-1250546921, -855516430, -1581057047, A0MLJ);
 break;
 case 6:
-Pp26cg1 = LOS382(Pp26cg1, 3267446, i82Nb1);
+Pp26cg1 = LOS382(Pp26cg1, (char)3267446, i82Nb1);
 break;
 case 7:
 ffMxB09 = DH_vXPr0(ffMxB09, TZzV1njg, 1750809864, -480901903);
@@ -372,7 +373,7 @@ ZTaO56k = (unsigned short)(tLp9);
 }
 else if ((iTcDlGcc & G7h51) && (wOZn_e == -2044790097))
 {
-Pp26cg1 = LOS382(-645259754, -896410310, Gf8D);
+Pp26cg1 = LOS382(-645259754, (char)-896410310, Gf8D);
 }
 else
 {

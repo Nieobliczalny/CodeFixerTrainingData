@@ -123,7 +123,7 @@ try
 {
 if (L24Yq & 893986461)
 {
-o_142n7p = C_d56(-1094127888, 1676324815, 124534524);
+o_142n7p = C_d56(-1094127888, (unsigned short)1676324815, 124534524);
 }
 }
 catch (int& errorCode)
@@ -186,7 +186,7 @@ case 3:
 FZq8SJX_ = (int)abs(L24Yq) * 0;
 break;
 case 4:
-L24Yq = C_d56(445317427, -1814932458, o_142n7p);
+L24Yq = C_d56(445317427, (unsigned short)-1814932458, o_142n7p);
 break;
 case 5:
 L24Yq = C_d56(L24Yq, -1743327543, 1466178045);
@@ -278,7 +278,7 @@ case 3:
 FZq8SJX_ = QF99Tg93V(1606292629, FZq8SJX_, L24Yq);
 break;
 case 4:
-L24Yq = C_d56(FZq8SJX_, 1424513934, 866382902);
+L24Yq = C_d56(FZq8SJX_, (unsigned short)1424513934, 866382902);
 break;
 case 5:
 L24Yq -= 1261152852;

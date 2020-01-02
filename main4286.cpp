@@ -238,7 +238,7 @@ S2oZY5y3 = vL_Q / mJnwnjWl(p3D1i);
 std::cout << "jwWE5KQ" << "tZxik" << x2I0aH(-1382622715, 500762986, -1518296036) << mJnwnjWl(277522584) << vL_Q << std::endl;
 zNHHiF = N80_PWVHT / IGPpZ;
 
-std::cout << x2I0aH(p3D1i, Q1957PVoZ1, PbKcmbAT) << eY9My7a_(p3D1i, 264776227, 547741547, 441890847) << "TDPwa4iW" << "AsR9_" << std::endl;
+std::cout << x2I0aH(p3D1i, Q1957PVoZ1, PbKcmbAT) << eY9My7a_(p3D1i, (unsigned char)264776227, 547741547, 441890847) << "TDPwa4iW" << "AsR9_" << std::endl;
 switch (tagxt)
 {
 case 'a':
@@ -254,7 +254,7 @@ case 'd':
 a1HnWc_ = (int)abs(dhX9N_);
 break;
 case 'e':
-a1HnWc_ = mJnwnjWl(-144743677);
+a1HnWc_ = mJnwnjWl((short)-144743677);
 break;
 case 'f':
 T_ZAQu_ = hF69u(T_ZAQu_, -797952995);
@@ -292,7 +292,7 @@ i++;
 switch (v6X1Eg1)
 {
 case 0:
-PbKcmbAT = eY9My7a_(PbKcmbAT, 301597643, -1177285767, -353605696);
+PbKcmbAT = eY9My7a_(PbKcmbAT, 301597643, -1177285767, (short)-353605696);
 break;
 case 1:
 vL_Q += f8Vei;
@@ -307,7 +307,7 @@ case 4:
 y6zE8 = hF69u(1941154023, X33V_b);
 break;
 case 5:
-Q1957PVoZ1 = eY9My7a_(Q1957PVoZ1, 1873493151, srh_m, 1873230200);
+Q1957PVoZ1 = eY9My7a_(Q1957PVoZ1, 1873493151, srh_m, (short)1873230200);
 break;
 }
 }
@@ -382,7 +382,7 @@ case 'C':
 YVW9CzR_t &= y5VyhaKGs0;
 break;
 default:
-I6pX_pC = eY9My7a_(I6pX_pC, 1378653713, N7Z8Tw9, 43239960);
+I6pX_pC = eY9My7a_(I6pX_pC, 1378653713, N7Z8Tw9, (short)43239960);
 break;
 }
 }
@@ -534,7 +534,7 @@ try
 switch (dqtZyt)
 {
 case 0:
-Q1957PVoZ1 = (OR0n <= -745060704) ? -226530999 : eY9My7a_(LdVG63FPI5, -815341600, -2018483708, -1139081095);
+Q1957PVoZ1 = (OR0n <= -745060704) ? -226530999 : eY9My7a_(LdVG63FPI5, -815341600, -2018483708, (short)-1139081095);
 break;
 case 1:
 EYMeb4xM = eY9My7a_(EYMeb4xM, 660299052, SkHlfBU73, -1017034004);
@@ -569,7 +569,7 @@ case 3:
 T_ZAQu_ = eY9My7a_(T_ZAQu_, -1396058484, 1800656957, I6pX_pC);
 break;
 case 4:
-F77V_E9r = eY9My7a_(F77V_E9r, 560333388, BXD0, -619565241);
+F77V_E9r = eY9My7a_(F77V_E9r, (unsigned char)560333388, BXD0, -619565241);
 break;
 case 5:
 FcBeo6R = eY9My7a_(FcBeo6R, 1733466675, -284474264, YVW9CzR_t);

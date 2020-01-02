@@ -101,7 +101,7 @@ case 'b':
 Ky6iqJv0G = TokOy2pZ80 | iw9AR1As;
 break;
 case 'c':
-QKs1N3_ = jrqxWj1D(216955659, 424509377);
+QKs1N3_ = jrqxWj1D(216955659, (unsigned short)424509377);
 break;
 case 'd':
 h5RK--;
@@ -117,7 +117,7 @@ if (N8qznG1i_ <= Gis_N8)
 switch (U6QR1gR3UY)
 {
 case 'a':
-aaN5hI = jrqxWj1D(-1484409379, 1373316512) % Iyedr;
+aaN5hI = jrqxWj1D(-1484409379, (unsigned short)1373316512) % Iyedr;
 break;
 case 'b':
 StQA = sZ0_r(1781900680, OcD_81U, p0_dBCV, -928414889);
@@ -154,6 +154,6 @@ short	jrqxWj1D(short int	GRj8_,unsigned short	s4RrSf9)
 
 unsigned short	sZ0_r(short int	JVK9077_N,unsigned long	Le_h7,char	af_aWk19e,long long	aR2nk441)
 {
-	return	1296568033;
+	return	(unsigned short)1296568033;
 }
 

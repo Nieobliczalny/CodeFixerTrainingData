@@ -46,7 +46,7 @@ long long	emjSmyQ68s(unsigned int	Wnf6bKBEl)	{
 }
 
 unsigned short Bz_h(short int CxB5,unsigned short aedjQnF5jj,short GdHWOOe,short YOv06) {
- return -1569949737;
+ return (unsigned short)-1569949737;
 }
 
 char X_f14N(unsigned short int a6W372VQ,short int qlK7nHCI) {

@@ -20,7 +20,7 @@ short int  c7z164(unsigned char  VRkO)
 
 unsigned short  Qu784(unsigned long  P2Vp0CR2U,unsigned char  t8x96UY5M,char  z446i1mEg,unsigned int  fpU4S,int  R__I)
 {
-  return  -1413953364;
+  return  (unsigned short)-1413953364;
 }
 
 long    Z2A5E12R2B()
@@ -51,7 +51,7 @@ int main(void)
     float    kW6X8;
     kW6X8    =    -169334868;
   char  Wo182;
-  Wo182  =  1109711444;
+  Wo182  =  (char)1109711444;
 
 if (((Ptx9b6Z != 2081252155) && (AKJlVj > 997916656)) || (j3_w7C4 > Z03g))
 {
@@ -364,7 +364,7 @@ case 4:
 F8EX = (int)abs(Lz38dO_9) * 0;
 break;
 case 5:
-Wo182 = Qu784(Wo182, 1583058275, 1686128462, 276376708, 574772720);
+Wo182 = Qu784(Wo182, 1583058275, (char)1686128462, 276376708, 574772720);
 break;
 default:
 AKJlVj &= 1407769095;
@@ -401,7 +401,7 @@ u29mJ6 = (int)ceil(kW6X8);
 Lz38dO_9 = Z2A5E12R2B();
 if (j3_w7C4 <= ZnCbKl)
 {
-Q_16tIg8I = L8G0tWE0Kg(-1547978934, 1875949661, 1820363292, -1302989539, -1039398121);
+Q_16tIg8I = L8G0tWE0Kg(-1547978934, 1875949661, 1820363292, (short)-1302989539, -1039398121);
 }
 else if (Z03g)
 {

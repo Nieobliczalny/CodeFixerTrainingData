@@ -24,7 +24,7 @@ int i = 4;
 while (i >= 0)
 {
 i--;
-std::cout << i3U9_70n(Qt6f, 428600936, -900076660, HI38) << i3U9_70n(Qt6f, 929568117, W2oFy12wD, -176610024) << IoE4_l4B << Zdv0nW4(Qt6f, 1682568886, -1876390900, HI38) << "StM992" << std::endl;
+std::cout << i3U9_70n(Qt6f, 428600936, (short)-900076660, HI38) << i3U9_70n(Qt6f, 929568117, W2oFy12wD, -176610024) << IoE4_l4B << Zdv0nW4(Qt6f, 1682568886, -1876390900, HI38) << "StM992" << std::endl;
 }
 }
 
@@ -38,7 +38,7 @@ lWRZhstws = (unsigned short int)(nLY5vz_Q1);
 while (i < 6);
 }
 
-Y00Ra = Qc9iSe(530001780, nLY5vz_Q1, 865803293, cd1GF5f_r, V289wXDkl);
+Y00Ra = Qc9iSe(530001780, nLY5vz_Q1, (char)865803293, cd1GF5f_r, V289wXDkl);
 
 h5o_W = -1238779791 / vLfF0j3;
 
@@ -86,7 +86,7 @@ else
 {
 if ((jNY2pl <= Jl4rkYr) && (w36Ei <= lV3_))
 {
-N3ZAVQ0qVA = Qc9iSe(-1198225087, -336196091, V289wXDkl, Jl4rkYr, -1183031768);
+N3ZAVQ0qVA = Qc9iSe(-1198225087, (short)-336196091, V289wXDkl, Jl4rkYr, -1183031768);
 }
 }
 }
@@ -125,7 +125,7 @@ else
 W2oFy12wD = h5o_W & Qt6f;
 }
 
-std::cout << i3U9_70n(jgKEG2, -1243008080, 1855908600, -1258275533) << n6YB << Zdv0nW4(1444601043, cd1GF5f_r, 167542668, -195861210) << "OqLDUWW1" << "G4XJ" << std::endl;
+std::cout << i3U9_70n(jgKEG2, -1243008080, 1855908600, -1258275533) << n6YB << Zdv0nW4(1444601043, cd1GF5f_r, 167542668, (short)-195861210) << "OqLDUWW1" << "G4XJ" << std::endl;
 
 v33XJyue0p = (unsigned short int)(N3ZAVQ0qVA + (-294735403));
 
@@ -146,7 +146,7 @@ case 'b':
 cd1GF5f_r = i3U9_70n(-1382521105, N3ZAVQ0qVA, v33XJyue0p, -207215262);
 break;
 case 'c':
-W2oFy12wD = Zdv0nW4(660166832, W2oFy12wD, jNY2pl, 1736235268);
+W2oFy12wD = Zdv0nW4(660166832, W2oFy12wD, jNY2pl, (short)1736235268);
 break;
 default:
 h5o_W = (os6L_XGwOo <= 159351424) ? -1443168576 : N3ZAVQ0qVA;
@@ -184,7 +184,7 @@ unsigned short i3U9_70n(unsigned short int a_55,unsigned int fPq171,short int i9
 }
 
 short    Zdv0nW4(unsigned int    M0wq,unsigned long    v9kmf,long long    hyBc2_xtlX,short int    J_1xKLz5X)    {
-    return    631822758;
+    return    (short)631822758;
 }
 
 long long  Qc9iSe(short  jBuR0AcV0_,short int  OJ8T4DvB,char  Cc12,unsigned int  ix2td4ir,long long  m2K687HeV)  {

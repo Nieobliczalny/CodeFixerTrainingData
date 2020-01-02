@@ -22,7 +22,7 @@ unsigned char    A0lDD(short    MEXt960El,unsigned short    O9YnZJUs7O,unsigned 
 
 unsigned char    z8FAJQ1w(unsigned char    XjfU3zUv,short    kfk60kkg8w,int    I67h)
 {
-    return    934286252;
+    return    (unsigned char)934286252;
 }
 
 long long  XCpss(long long  ZY6S,unsigned long long  CFoyANwpt,unsigned char  onIerSN2,unsigned char  fips,unsigned short int  s3s0ch47)  {
@@ -93,7 +93,7 @@ int main(void) {
 	oq5g3Y	=	443819663;
 
 eFU94Yzb97 = Rcvk6(h7uH8v, BEmom4PSY1, m164tZ6, 180396755);
-Xbrt = (I1Z2) ? D80KT3_hn(536525178) : jmZBEaV8p;
+Xbrt = (I1Z2) ? D80KT3_hn((short)536525178) : jmZBEaV8p;
 for (int i = 4; i >= 0; i--)
 {
 try
@@ -132,7 +132,7 @@ case 1:
 L1JZy17 = (u9xb0) ? 942088495 : K272IY;
 break;
 case 2:
-Xe24c5_e4w = XCpss(Xe24c5_e4w, cRv_P7Rj6Y, -1239722946, -749299908, 1505538239);
+Xe24c5_e4w = XCpss(Xe24c5_e4w, cRv_P7Rj6Y, -1239722946, (unsigned char)-749299908, 1505538239);
 break;
 case 3:
 nT1J_3i = (int)abs(a7m9_uGc);
@@ -153,7 +153,7 @@ case 8:
 a7m9_uGc = (int)abs(QZmcH88F);
 break;
 case 9:
-jvK25_g6 = XCpss(jvK25_g6, -559380805, eFU94Yzb97, WPvpu3, 317053577);
+jvK25_g6 = XCpss(jvK25_g6, -559380805, eFU94Yzb97, WPvpu3, (unsigned short)317053577);
 break;
 }
 
@@ -212,7 +212,7 @@ cout << o7yl13D9y2 << endl;
 }
 for (int i = 0; i < 1; i++)
 {
-xH7_MDhk09 = XCpss(-925482357, 1693488173, 188974625, 1493180520, ubTJlThEY);
+xH7_MDhk09 = XCpss(-925482357, 1693488173, 188974625, (unsigned char)1493180520, ubTJlThEY);
 }
 
 return 0;

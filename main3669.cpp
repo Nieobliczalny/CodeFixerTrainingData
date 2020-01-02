@@ -15,7 +15,7 @@ int main()
 	double	RLI_p58HRx	=	185349961;
 	long double	QPXD1S	=	-676058446;
     unsigned char    i_Au    =    0;
-    short int    IsV3cFD    =    -856477839;
+    short int    IsV3cFD    =    (short)-856477839;
  short int Ii4Y_FOm5 = 1769594531;
     float    PlX8yN    =    -1080683398;
 	unsigned long long	z3VtS	=	-1134672196;
@@ -25,7 +25,7 @@ int main()
  unsigned long mQY1 = 182722387;
  short L4wS636 = 676302105;
   unsigned short  W_t3qDy0w7  =  556945407;
-  unsigned short int  W6Z1_f_lz  =  -1047885530;
+  unsigned short int  W6Z1_f_lz  =  (unsigned short)-1047885530;
     short    V0UC7m3    =    780712599;
     float    UTxnpEvy_L    =    599753338;
   long double  AJ3xWv4B  =  346455251;
@@ -36,7 +36,7 @@ int main()
  long long oQCC3cXRP = -1320993842;
  double mmY30s_bf = -1560203043;
  char QF_u4Hs = -2104713757;
- short Qa97e = 489606414;
+ short Qa97e = (short)489606414;
     unsigned char    s_T_T72Jbg    =    1930303834;
   short int  jxny7z7  =  762682115;
     float    W9n8N    =    -1941434679;
@@ -48,7 +48,7 @@ int main()
     unsigned int    vlefsK3    =    2023366113;
   unsigned char  N4gUPHwC  =  -933790909;
  int m5eu0W = -1050437477;
-    unsigned char    fICT5    =    -466602805;
+    unsigned char    fICT5    =    (unsigned char)-466602805;
     long double    Hn_ONT2    =    -2057777;
     char    Jg958    =    1419245105;
 	unsigned char	W__cH9	=	-95618506;
@@ -62,7 +62,7 @@ int main()
 	unsigned long	f_b35_4_v	=	-1285242178;
 	long	pvUV	=	-1453254823;
   double  C823QT  =  2114521697;
-    short int    AY0xg_    =    -1027883436;
+    short int    AY0xg_    =    (short)-1027883436;
     unsigned long long    M7uAiOmGv_    =    2002140788;
     unsigned char    oWQJ    =    -1636733983;
 	unsigned short int	b888_D9Ai	=	-1062660056;
@@ -72,7 +72,7 @@ int main()
  short u2Xfm70m2K = -523260506;
     short int    r__fTJ    =    0;
     char    j4gTYhJ    =    1341660735;
- short int Jv1HUz51H = 1279262458;
+ short int Jv1HUz51H = (short)1279262458;
 	unsigned long	JB8Aoo	=	0;
   short int  KmjSkF8  =  2140913668;
     char    EI0KnvnfI    =    856922780;

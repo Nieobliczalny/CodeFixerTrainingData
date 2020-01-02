@@ -43,7 +43,7 @@ int main(void) {
 	double	Qaw_t;
 	Qaw_t	=	1863379120;
 	unsigned short int	f54KL;
-	f54KL	=	-1652648948;
+	f54KL	=	(unsigned short)-1652648948;
 	short int	n59A6;
 	n59A6	=	150722851;
 	unsigned short int	MWV0ftoT;
@@ -59,7 +59,7 @@ int main(void) {
   unsigned long long  zsNWQ9zaF5;
   zsNWQ9zaF5  =  -228659121;
  short tp6mW2;
- tp6mW2 = -2068662283;
+ tp6mW2 = (short)-2068662283;
     long double    aH1C7AsF4;
     aH1C7AsF4    =    -376273450;
  unsigned char O2HR_c_;
@@ -71,7 +71,7 @@ int main(void) {
 	unsigned int	tF_OneX_;
 	tF_OneX_	=	155619495;
  short int jxw2b6;
- jxw2b6 = -540960966;
+ jxw2b6 = (short)-540960966;
   unsigned char  f1v495Hjm;
   f1v495Hjm  =  -831046929;
   int  jG5f4w_;
@@ -99,7 +99,7 @@ int main(void) {
 	unsigned long long	q43H;
 	q43H	=	-478328014;
     unsigned short    K1W9u;
-    K1W9u    =    -23925553;
+    K1W9u    =    (unsigned short)-23925553;
  int pg8fRFqZC;
  pg8fRFqZC = -2079773413;
 	unsigned long	Oo26gtG3_;
@@ -113,7 +113,7 @@ int main(void) {
   double  p4lXTP;
   p4lXTP  =  14359477;
   short int  tP32_vZ;
-  tP32_vZ  =  -916815767;
+  tP32_vZ  =  (short)-916815767;
 	unsigned char	re92OnDkj;
 	re92OnDkj	=	-2013365963;
  short ZGMH5eeSof;
@@ -139,7 +139,7 @@ int main(void) {
 	unsigned short	T3j93q7;
 	T3j93q7	=	1067710921;
     short    iVukdK2XRb;
-    iVukdK2XRb    =    813654500;
+    iVukdK2XRb    =    (short)813654500;
 	float	nx6mpZ;
 	nx6mpZ	=	1869492774;
 	unsigned short int	MJw_DF9643;
@@ -153,7 +153,7 @@ int main(void) {
 	float	YmBE22;
 	YmBE22	=	-935222602;
 	unsigned short	kx_wdbB;
-	kx_wdbB	=	851285869;
+	kx_wdbB	=	(unsigned short)851285869;
  float UM4YuPatn;
  UM4YuPatn = -1428948605;
  long long Ff_0p;
@@ -226,7 +226,7 @@ std::cout << "xHk1" << h6_ZT7Mij5(yr87l0R) << "t9KWAz80" << xY5b4QJe1 << std::en
 }
 else
 {
-tp6mW2 = eC22FGbj(1155153547, -1434696323, 1779065894) & iVukdK2XRb;
+tp6mW2 = eC22FGbj(1155153547, -1434696323, (char)1779065894) & iVukdK2XRb;
 }
 }
 else
@@ -238,7 +238,7 @@ do
 j++;
 if (jG5f4w_ >= -2117468222)
 {
-hfnBS6 = eC22FGbj(1744205509, X9zWmo, -732948202);
+hfnBS6 = eC22FGbj(1744205509, X9zWmo, (char)-732948202);
 }
 else if (((SNw6CGd0WA & pg8fRFqZC) && (F6X6fvMxF6 == Q62Pvq)) || (Ff_0p <= M8NYwG1gRM))
 {

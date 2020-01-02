@@ -20,7 +20,7 @@ int main(int argc, char** argv)
 {
     long long    dSle4fuVj_    =    -14941503;
 	char	WHHn52vl	=	-1592448257;
-	unsigned char	yR_y7E5	=	-1213533408;
+	unsigned char	yR_y7E5	=	(unsigned char)-1213533408;
 	double	zwEiz_inP	=	1632062025;
  unsigned long z1B4 = 1971567163;
     long double    HRTr    =    1574304524;
@@ -31,7 +31,7 @@ int main(int argc, char** argv)
   long double  cQXb  =  519534329;
 	short int	tF75J06V	=	0;
  unsigned char OCIU4JWZl = -495864993;
-    unsigned short int    l36h0JugiP    =    -1011503302;
+    unsigned short int    l36h0JugiP    =    (unsigned short)-1011503302;
 	long long	ZfWTic13	=	1858699642;
  float lJuf356_ = -1858299250;
  unsigned long long Dd31B3V1 = -916470575;
@@ -198,7 +198,7 @@ case 4:
 aCnT9bf3_N = WoO57x(1001370518, aCnT9bf3_N, -101622979, OCIU4JWZl);
 break;
 case 5:
-l55IR = WoO57x(77990089, ZfWTic13, -1826281195, -2142317404);
+l55IR = WoO57x(77990089, ZfWTic13, -1826281195, (char)-2142317404);
 break;
 case 6:
 WHHn52vl = l36h0JugiP / l55IR;

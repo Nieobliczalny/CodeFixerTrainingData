@@ -188,7 +188,7 @@ NwQJ2 = (int)abs(sXU_wfG_0);
 }
 }
 
-cout << "xw4Ac_" << Wt_m(-623453583) << "V_78OtV" << Wt_m(NwQJ2) << v9cle1X << endl;
+cout << "xw4Ac_" << Wt_m((char)-623453583) << "V_78OtV" << Wt_m(NwQJ2) << v9cle1X << endl;
 
 if (lvz2QF60JZ & 1881964883)
 {
@@ -234,7 +234,7 @@ short int Wt_m(char ceiRdYBQ)
 
 unsigned short    NBjW78(unsigned long    Ao2NAs,unsigned char    M9em,unsigned long long    m4Nu17d0L,unsigned short int    VuDM5MUD3)
 {
-    return    -213796255;
+    return    (unsigned short)-213796255;
 }
 
 short int wumt6C() {

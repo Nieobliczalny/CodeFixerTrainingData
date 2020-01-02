@@ -56,7 +56,7 @@ case 2:
 G8t5py = Z0FhnDSKA_(-1415745855, 1577788000, UOMGZ, UWvQLK, 2011404370);
 break;
 case 3:
-CIn30 = xu9q(787949694, MRc9G2ZO, G8t5py, 703750621, UOMGZ);
+CIn30 = xu9q((unsigned char)787949694, MRc9G2ZO, G8t5py, 703750621, UOMGZ);
 break;
 case 4:
 G8t5py -= 1815319472;
@@ -90,7 +90,7 @@ UWvQLK = slt6xQTs(UWvQLK, CIn30, oVz1_WY_WU, MRc9G2ZO);
 break;
 case 'b':
 case 'B':
-G8t5py = slt6xQTs(G8t5py, -1376551159, 318494541, 1586594176);
+G8t5py = slt6xQTs(G8t5py, -1376551159, 318494541, (short)1586594176);
 break;
 case 'c':
 case 'C':
@@ -140,7 +140,7 @@ oVz1_WY_WU %= 69526557;
 }
 else if (CIn30)
 {
-G8t5py = slt6xQTs(-175470136, -2097099000, -1621809851, -590274756);
+G8t5py = slt6xQTs(-175470136, -2097099000, -1621809851, (short)-590274756);
 }
 else
 {
@@ -193,7 +193,7 @@ case 5:
 G8t5py <<= UOMGZ;
 break;
 case 6:
-UWvQLK = YnTuQz4h00(175022240);
+UWvQLK = YnTuQz4h00((unsigned short)175022240);
 break;
 case 7:
 MRc9G2ZO = DZ2AX9C9Y(537307283);
@@ -247,7 +247,7 @@ for (int j = 5; j >= 0; j--)
 int k = 5;
 while (k >= 0)
 {
-MRc9G2ZO = Z0FhnDSKA_(1735698683, -1634022570, oVz1_WY_WU, -755975565, -1803039867);
+MRc9G2ZO = Z0FhnDSKA_(1735698683, -1634022570, oVz1_WY_WU, (short)-755975565, -1803039867);
 k--;
 }
 }

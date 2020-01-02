@@ -29,7 +29,7 @@ int main(int argc, char** argv)
   c_vQ2  =  0;
  char DG45M, p8_IH_;
  DG45M = -2046348349;
- p8_IH_ = 1747487191;
+ p8_IH_ = (char)1747487191;
 
 if (c_vQ2 & wG3eTw8)
 {
@@ -82,7 +82,7 @@ k++;
 }
 else if (c_vQ2 < -516624779)
 {
-cout << A9J72Z9() << Lf6JhUW(1497040278, -317177827, wG3eTw8, -1964786895) << rXceeg(-1318669621, c_vQ2) << A9J72Z9() << p8_IH_ << endl;
+cout << A9J72Z9() << Lf6JhUW(1497040278, -317177827, wG3eTw8, (char)-1964786895) << rXceeg(-1318669621, c_vQ2) << A9J72Z9() << p8_IH_ << endl;
 }
 else if (c_vQ2 == IIz_S_T4M)
 {
@@ -122,7 +122,7 @@ while (k >= 0);
 }
 else
 {
-DG45M = (c_vQ2 & 1161877971) ? wG3eTw8 : -611355596;
+DG45M = (c_vQ2 & 1161877971) ? wG3eTw8 : (char)-611355596;
 }
 
 cout << rXceeg(DG45M, -1985356702) << "S85_WU" << rXceeg(1940484834, -1688649611) << Lf6JhUW(DG45M, c_vQ2, wG3eTw8, IIz_S_T4M) << "A4KDu8GrKU" << endl;
@@ -346,7 +346,7 @@ p8_IH_ = (int)abs(DG45M);
 }
 else if (c_vQ2 < 1659800162)
 {
-p8_IH_ = Lf6JhUW(DG45M, IIz_S_T4M, 1262578859, 665771308) / DG45M;
+p8_IH_ = Lf6JhUW(DG45M, IIz_S_T4M, 1262578859, (char)665771308) / DG45M;
 }
 else
 {
@@ -392,7 +392,7 @@ cout << "B_70PeO" << A9J72Z9() << DG45M << c_vQ2 << Lf6JhUW(p8_IH_, 1631979200, 
 }
 if (IIz_S_T4M > -64091101)
 {
-DG45M = Lf6JhUW(500099553, wG3eTw8, IIz_S_T4M, -559673913);
+DG45M = Lf6JhUW((unsigned char)500099553, wG3eTw8, IIz_S_T4M, -559673913);
 }
 p8_IH_ = (char)(DG45M);
 if (IIz_S_T4M != 633298738)
@@ -411,7 +411,7 @@ wG3eTw8 = A9J72Z9();
 }
 else if (IIz_S_T4M == 114090467)
 {
-cout << "eLT4IC" << Lf6JhUW(-849595304, -498395906, DG45M, -1558048177) << DG45M << endl;
+cout << "eLT4IC" << Lf6JhUW(-849595304, -498395906, DG45M, (char)-1558048177) << DG45M << endl;
 }
 else
 {
@@ -598,7 +598,7 @@ try
 {
 if ((p8_IH_ & DG45M) || ((c_vQ2 == -1516647212) || (c_vQ2 == 428342663)))
 {
-cout << "Ms3_ZM1T74" << Lf6JhUW(2139354472, 939493731, IIz_S_T4M, c_vQ2) << Lf6JhUW(-1645822477, p8_IH_, IIz_S_T4M, c_vQ2) << "GM3AXYN3H" << endl;
+cout << "Ms3_ZM1T74" << Lf6JhUW(2139354472, 939493731, IIz_S_T4M, c_vQ2) << Lf6JhUW((unsigned char)-1645822477, p8_IH_, IIz_S_T4M, c_vQ2) << "GM3AXYN3H" << endl;
 }
 else
 {
@@ -683,7 +683,7 @@ case 3:
 p8_IH_ = c_vQ2 - p8_IH_;
 break;
 case 4:
-DG45M = (wG3eTw8 < DG45M) ? 1399080269 : -197988168;
+DG45M = (wG3eTw8 < DG45M) ? 1399080269 : (char)-197988168;
 break;
 case 5:
 p8_IH_ >>= 1926193459;

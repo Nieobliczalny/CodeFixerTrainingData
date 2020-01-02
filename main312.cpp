@@ -31,7 +31,7 @@ int main()
   long long  nz3m9cD9o;
   nz3m9cD9o  =  1737072977;
   char  CvCs;
-  CvCs  =  1645672744;
+  CvCs  =  (char)1645672744;
  float Nq2Bt1;
  Nq2Bt1 = 1315680883;
  int V1C027Bb0q;
@@ -47,7 +47,7 @@ int main()
     long long    jLQau;
     jLQau    =    -235184982;
     unsigned short int    dnfkdq7p;
-    dnfkdq7p    =    -968939805;
+    dnfkdq7p    =    (unsigned short)-968939805;
 	unsigned short	wXgLDl2E;
 	wXgLDl2E	=	-1853534018;
     int    pbRZ2;
@@ -61,7 +61,7 @@ int main()
 	unsigned long long	SS_u;
 	SS_u	=	1308081508;
     char    ax2Vh;
-    ax2Vh    =    1079328682;
+    ax2Vh    =    (char)1079328682;
  int Mlca2;
  Mlca2 = -2034421832;
     unsigned long long    wzLTC43B;
@@ -73,7 +73,7 @@ switch (nz3m9cD9o)
 {
 case 'a':
 case 'A':
-VaZBkck7R = kvPcMU1R(2014858695, -580251835, VaZBkck7R, -2144026066, -16968272);
+VaZBkck7R = kvPcMU1R(2014858695, -580251835, VaZBkck7R, (char)-2144026066, -16968272);
 break;
 case 'b':
 case 'B':
@@ -104,7 +104,7 @@ CvCs = (char)(VaZBkck7R + (-1885247396));
 int i = 4;
 do
 {
-Z4_i9 = kvPcMU1R(wXgLDl2E, -1862937341, jLQau, -383814225, 1368642881);
+Z4_i9 = kvPcMU1R(wXgLDl2E, -1862937341, jLQau, (char)-383814225, 1368642881);
 i--;
 }
 while (i >= 0);
@@ -158,7 +158,7 @@ else if (pbRZ2 > Fr69v_O)
 {
 try
 {
-CvCs = (Uc0LMz48z > wXgLDl2E) ? -1065592362 : -62764611;
+CvCs = (Uc0LMz48z > wXgLDl2E) ? -1065592362 : (char)-62764611;
 }
 catch (int& errorCode)
 {
@@ -201,7 +201,7 @@ Mc7Kts6kX = (long long)(tPLL0L + (YO9rC5t));
 }
 else if (((ukZj20t9 & SS_u) && (Mc7Kts6kX)) || ((ukZj20t9 < Mc7Kts6kX) && (Mc7Kts6kX > V1C027Bb0q)))
 {
-std::cout << kvPcMU1R(wXgLDl2E, AIKo3fS, jLQau, -2020218262, -848512030) << kvPcMU1R(wXgLDl2E, AIKo3fS, 358357622, 694347979, -2106071581) << u450z7hpo(wXgLDl2E) << VaZBkck7R << "X0PG3_dEC" << std::endl;
+std::cout << kvPcMU1R(wXgLDl2E, AIKo3fS, jLQau, -2020218262, (char)-848512030) << kvPcMU1R(wXgLDl2E, AIKo3fS, 358357622, 694347979, -2106071581) << u450z7hpo(wXgLDl2E) << VaZBkck7R << "X0PG3_dEC" << std::endl;
 }
 else if (V1C027Bb0q != Fr69v_O)
 {
@@ -260,7 +260,7 @@ else
 int k = 0;
 do
 {
-Z4_i9 = kvPcMU1R(jLQau, 1084906694, dnfkdq7p, 1841377571, CvCs);
+Z4_i9 = kvPcMU1R(jLQau, 1084906694, dnfkdq7p, (char)1841377571, CvCs);
 k++;
 }
 while (k < 8);
@@ -302,7 +302,7 @@ GpHE = (int)abs(T60F);
 GpHE = (int)ceil(Nq2Bt1);
 if ((dnfkdq7p >= 584575824) || (T60F <= v75ma))
 {
-std::cout << Mlca2 << kvPcMU1R(jLQau, NBaG_16wf, dnfkdq7p, 1421832224, 289443281) << u450z7hpo(-642973151) << "vB1vf1" << u450z7hpo(-254403512) << std::endl;
+std::cout << Mlca2 << kvPcMU1R(jLQau, NBaG_16wf, dnfkdq7p, 1421832224, (char)289443281) << u450z7hpo(-642973151) << "vB1vf1" << u450z7hpo(-254403512) << std::endl;
 }
 
 if (ax2Vh < v75ma)
@@ -322,7 +322,7 @@ for (int j = 9; j >= 0; --j)
 {
 if ((jLQau != -1019532585) && ((pbRZ2 > AIKo3fS) && (NBaG_16wf > YO9rC5t)))
 {
-Z4_i9 = kvPcMU1R(ukZj20t9, 1645078447, -93970967, -682620819, Mc7Kts6kX);
+Z4_i9 = kvPcMU1R(ukZj20t9, 1645078447, (unsigned short)-93970967, -682620819, Mc7Kts6kX);
 }
 else if (wzLTC43B != VaZBkck7R)
 {

@@ -49,7 +49,7 @@ oL4jBZ32 <<= rHp438NnT;
 break;
 case 'e':
 case 'E':
-rHp438NnT = nA6IqJi5t(rHp438NnT, -68601061, 1383413728, 1687323209, -1525656455);
+rHp438NnT = nA6IqJi5t(rHp438NnT, -68601061, 1383413728, (unsigned char)1687323209, -1525656455);
 break;
 default:
 rHp438NnT = (int)abs(O4_u3) + (-1203031513);
@@ -81,7 +81,7 @@ case 0:
 rHp438NnT = wSUI2(2107408970);
 break;
 case 1:
-j4u3NMPqt = nA6IqJi5t(j4u3NMPqt, O4_u3, -379887857, 1022962486, -412779885);
+j4u3NMPqt = nA6IqJi5t(j4u3NMPqt, O4_u3, -379887857, (unsigned char)1022962486, -412779885);
 break;
 default:
 Rj9p0 = nA6IqJi5t(-2070682876, iLxn5ZdHLn, DYjlw, O4_u3, -1348370050);
@@ -113,6 +113,6 @@ short int  wSUI2(unsigned short  Z5G64ua0L)  {
 }
 
 char nA6IqJi5t(unsigned char q24O9,long long kQ0_W18,unsigned long long hNBoU,unsigned char kb3QHR_fD8,unsigned char l398_m6oI9) {
- return 444142858;
+ return (char)444142858;
 }
 

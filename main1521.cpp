@@ -108,7 +108,7 @@ case 3:
 pC0FZ02 = VtH02f(pC0FZ02, -1858561232);
 break;
 case 4:
-lF8k27v9 = YWkzy(-507696259, lF8k27v9, -2146415131);
+lF8k27v9 = YWkzy(-507696259, lF8k27v9, (short)-2146415131);
 break;
 case 5:
 rovvkuoG9 = VtH02f(rovvkuoG9, fI0WDt);
@@ -212,7 +212,7 @@ case 'e':
 h_x82T = YL1MK5by2();
 break;
 case 'f':
-I1_YdJ = YWkzy(802405020, -1204133978, IhCcK);
+I1_YdJ = YWkzy(802405020, (short)-1204133978, IhCcK);
 break;
 case 'g':
 IhCcK = rlB5g(IhCcK, 941334171, V2YI8NX, 1428357822, -1096695470);
@@ -369,7 +369,7 @@ catch (int& errorCode)
 {
 ZU_zQ = YL1MK5by2();
 }
-c1x_ = Wu8iL / YWkzy(142834, -450510603, 518674036);
+c1x_ = Wu8iL / YWkzy(142834, (short)-450510603, 518674036);
 
 std::cout << "SE6Wo" << std::endl;
 
@@ -431,7 +431,7 @@ case 0:
 Wu8iL = TsI_I8m | f78x11cu_;
 break;
 case 1:
-I1_YdJ = YWkzy(-910025720, -807060937, 336575754);
+I1_YdJ = YWkzy(-910025720, (short)-807060937, 336575754);
 break;
 }
 
@@ -444,7 +444,7 @@ for (int j = 0; j < 4; j++)
 int k = 0;
 do
 {
-Gk26gN5S = rlB5g(-622531630, -419151251, -1279231395, lF8k27v9, -1351062502);
+Gk26gN5S = rlB5g(-622531630, -419151251, (short)-1279231395, lF8k27v9, -1351062502);
 ++k;
 }
 while (k < 4);
@@ -457,7 +457,7 @@ switch (p4SGNZP1)
 {
 case 'a':
 case 'A':
-Ff8QG_h = YWkzy(-354904782, 1961452039, -491179190);
+Ff8QG_h = YWkzy(-354904782, (short)1961452039, -491179190);
 break;
 case 'b':
 case 'B':
@@ -516,7 +516,7 @@ if (UX8WK)
 {
 if (V2YI8NX < -863730010)
 {
-std::cout << "A_zaFLq" << "pB5AG" << "aYDod" << o7ZWd << YWkzy(193712175, h_x82T, -149580896) << std::endl;
+std::cout << "A_zaFLq" << "pB5AG" << "aYDod" << o7ZWd << YWkzy(193712175, h_x82T, (short)-149580896) << std::endl;
 }
 else if ((o7ZWd > -726976435) || (IhCcK > EJDq4L75JH))
 {
@@ -710,7 +710,7 @@ else
 {
 if ((w39T70ba < -506669497) || (Q7WaR < 568313779))
 {
-S417Jrzo7 = YWkzy(-1794823425, iGtD3, -1835905760) + 1010668330;
+S417Jrzo7 = YWkzy(-1794823425, iGtD3, (short)-1835905760) + 1010668330;
 }
 }
 }
@@ -730,7 +730,7 @@ unsigned char    rlB5g(unsigned char    RxO3gQ7,unsigned long long    FZyp2,shor
 
 short int    M10Xe()
 {
-    return    834918715;
+    return    (short)834918715;
 }
 
 unsigned long    YL1MK5by2()    {

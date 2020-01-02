@@ -21,7 +21,7 @@ unsigned int	IL5rq8oxp0(short	DQaLhdP);
 int main() {
   short  CcdNjDK,  r_joC,  L_24,  pX7Eo27KU,  lHxkJlrPs,  Qh4j,  XX0Db6iWa,  I7wertX,  hM66_Ps425;
   CcdNjDK  =  -566066282;
-  r_joC  =  -1661423059;
+  r_joC  =  (short)-1661423059;
   L_24  =  -1795372670;
   pX7Eo27KU  =  1743397719;
   lHxkJlrPs  =  1647233647;
@@ -96,7 +96,7 @@ if (lHxkJlrPs <= -1761790064)
 {
 if (pX7Eo27KU < -1950606222)
 {
-r_joC = Fhu2(1113103657);
+r_joC = Fhu2((short)1113103657);
 }
 }
 else if (L_24 == 1841756479)
@@ -234,7 +234,7 @@ Qh4j = Fhu2(1819790996);
 }
 else if (Qh4j < 830856975)
 {
-Iqk6HF = ccnd_C(1269785283, -1696188802);
+Iqk6HF = ccnd_C(1269785283, (char)-1696188802);
 }
 else if (Qh4j & 1991464332)
 {
@@ -270,7 +270,7 @@ case 5:
 JYD_ = ccnd_C(-1749045058, -937659612);
 break;
 case 6:
-Iqk6HF = ccnd_C(XX0Db6iWa, -8837261);
+Iqk6HF = ccnd_C(XX0Db6iWa, (char)-8837261);
 break;
 case 7:
 r_joC = Fhu2(r_joC);
@@ -466,7 +466,7 @@ case 2:
 L_24 = IL5rq8oxp0(-1686246834);
 break;
 case 3:
-r_joC = Fhu2(-904407206);
+r_joC = Fhu2((short)-904407206);
 break;
 case 4:
 L_24 = IL5rq8oxp0(-1698059692);
@@ -507,7 +507,7 @@ while (i >= 0);
 }
 
 cout << IL5rq8oxp0(-868351912) << IL5rq8oxp0(XX0Db6iWa) << ccnd_C(XX0Db6iWa, I7wertX) << "Z386LxO_" << endl;
-cout << "BAr5k6Gn" << Fhu2(89022294) << Iqk6HF << IL5rq8oxp0(638591297) << ccnd_C(XX0Db6iWa, -576941677) << endl;
+cout << "BAr5k6Gn" << Fhu2((short)89022294) << Iqk6HF << IL5rq8oxp0(638591297) << ccnd_C(XX0Db6iWa, -576941677) << endl;
 {
 int i = 0;
 while (i < 7)

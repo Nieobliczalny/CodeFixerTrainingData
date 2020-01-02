@@ -95,7 +95,7 @@ else
 {
 NjEx9y1 = UMaaUq5A(ez67E, -1678333786);
 }
-NjEx9y1 = UMaaUq5A(1198995880, 280437356);
+NjEx9y1 = UMaaUq5A((unsigned char)1198995880, 280437356);
 if (Durhm != 1109575503)
 {
 {
@@ -158,7 +158,7 @@ case 2:
 ez67E = ZPC52037 + 1315372891;
 break;
 case 3:
-Durhm = UMaaUq5A(-195877311, GE4w3s4C);
+Durhm = UMaaUq5A((unsigned char)-195877311, GE4w3s4C);
 break;
 case 4:
 ez67E = (int)ceil(SWW8A5);

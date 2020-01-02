@@ -20,7 +20,7 @@ int y4ORYOo()
 int main(int argc, char** argv) {
 	short int	Y94x,	eO2sTxnF1Z,	M9NJ9bcuU,	NfpANdJsMP,	n53sgoB1ba,	Wh31EA7K_4,	kB_t_,	g08W,	KQD3T39y4,	xxQz,	qjC40CuV7P,	dD7Y_4S3,	d5aP,	Y3AmX,	Vp1XX2170g;
 	Y94x	=	1116080942;
-	eO2sTxnF1Z	=	-600958635;
+	eO2sTxnF1Z	=	(short)-600958635;
 	M9NJ9bcuU	=	-741138301;
 	NfpANdJsMP	=	1277052517;
 	n53sgoB1ba	=	1319157448;
@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
 	KQD3T39y4	=	-863370174;
 	xxQz	=	-1248002659;
 	qjC40CuV7P	=	-2077824410;
-	dD7Y_4S3	=	128483975;
+	dD7Y_4S3	=	(short)128483975;
 	d5aP	=	-1711347843;
 	Y3AmX	=	1296636076;
 	Vp1XX2170g	=	-1601142598;

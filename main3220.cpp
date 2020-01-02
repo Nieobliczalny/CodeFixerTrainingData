@@ -20,7 +20,7 @@ int main(int argc, char** argv) {
   int  jsW6AqHN  =  1686677053;
 	unsigned int	ogG86	=	380266797;
   unsigned short int  pD1F  =  -1103346927;
-  short int  aU69Z8pl  =  -875051309;
+  short int  aU69Z8pl  =  (short)-875051309;
  unsigned short pJ_w6l0v = -1504931871;
   unsigned short int  w69ksYd  =  1376546531;
   unsigned short int  yDZr6_R6  =  815208622;
@@ -33,7 +33,7 @@ int main(int argc, char** argv) {
  long double By0y4f = -797484247;
   unsigned int  j_u3h47  =  -1385673430;
 	char	A8Fd	=	1661650600;
-    unsigned short int    AeZoK_    =    -1656929475;
+    unsigned short int    AeZoK_    =    (unsigned short)-1656929475;
     long double    ayc62j_QUp    =    386540628;
   long  Eg0F5  =  231433449;
   short  TgX7oh  =  0;
@@ -50,7 +50,7 @@ int main(int argc, char** argv) {
   unsigned long  RWksiViDz  =  -1489283222;
   unsigned int  pR2W_  =  -1233923311;
   unsigned long  WRAUD5  =  938689067;
- unsigned short int hEm_2J58_ = -875658016;
+ unsigned short int hEm_2J58_ = (unsigned short)-875658016;
   unsigned long  l9gp  =  -502577471;
     double    Gx09EY3vf7    =    1715514046;
  unsigned int bj9e61 = 1699952922;
@@ -62,7 +62,7 @@ int main(int argc, char** argv) {
     long double    Yk__Kb    =    -633227282;
 	long double	U4x499E	=	-1106777674;
 	char	yNq_Oie	=	379190950;
- unsigned short int lP1r4OMNC = -630109738;
+ unsigned short int lP1r4OMNC = (unsigned short)-630109738;
 	short	C2GL9Dz	=	-1231435054;
   short int  RWk0DZXc1  =  -229022712;
  float wX7hjItG5 = 2008130397;
@@ -74,7 +74,7 @@ int main(int argc, char** argv) {
     short    j_9f5KYX_    =    1971725661;
 	float	Y2Cx3vd1l	=	1893281978;
     unsigned short int    Rgyp    =    0;
- short int UQY83Dx = 885194519;
+ short int UQY83Dx = (short)885194519;
     short int    UD1sA_p0r    =    -563960534;
  unsigned short int wOntT2V = -940896890;
   long double  tY__3412  =  -1219072221;
@@ -111,7 +111,7 @@ switch (hEm_2J58_)
 {
 case 'a':
 case 'A':
-A8Fd = C1A8(A8Fd, 1600183404, -665589407);
+A8Fd = C1A8(A8Fd, 1600183404, (short)-665589407);
 break;
 case 'b':
 case 'B':
@@ -246,7 +246,7 @@ pD1F = V9m3M();
 }
 else if (AeZoK_ >= cCWvCN)
 {
-aGuf9S_n = C1A8(202910685, -136599485, -80866993);
+aGuf9S_n = C1A8(202910685, -136599485, (short)-80866993);
 }
 else
 {
@@ -321,7 +321,7 @@ s39R2o919 >>= wOntT2V;
 break;
 case 'b':
 case 'B':
-wOntT2V = C1A8(1336892969, -753894413, 1521370059);
+wOntT2V = C1A8(1336892969, -753894413, (short)1521370059);
 break;
 default:
 A8Fd = (int)abs(gT1m5fai8_);

@@ -29,7 +29,7 @@ int main(int argc, char** argv)
 	short int	DCAr0ad;
 	DCAr0ad	=	2083541956;
   unsigned short int  Z27Ol81;
-  Z27Ol81  =  2123722767;
+  Z27Ol81  =  (unsigned short)2123722767;
     long    F4oKZC64ZJ;
     F4oKZC64ZJ    =    -533161229;
     unsigned long long    PI_l05sbzQ;
@@ -51,7 +51,7 @@ int main(int argc, char** argv)
 	short	Q76q5_L;
 	Q76q5_L	=	1548973597;
 	unsigned char	wo_2Kw;
-	wo_2Kw	=	332067477;
+	wo_2Kw	=	(unsigned char)332067477;
     double    xnZBk2U3Ee;
     xnZBk2U3Ee    =    -1839089510;
   float  ddMU6W6HNA;
@@ -89,7 +89,7 @@ if (OWIw85TTM & -257425423)
 switch (biFla)
 {
 case 0:
-ddMU6W6HNA = U7V4UR(-117617869, -51843289, NMhhB);
+ddMU6W6HNA = U7V4UR(-117617869, (short)-51843289, NMhhB);
 break;
 case 1:
 F4oKZC64ZJ = XKJiZic9 << 1460354632;
@@ -141,7 +141,7 @@ xnZBk2U3Ee = (int)floor(j6yF);
 break;
 case 'j':
 case 'J':
-OWIw85TTM = Gw9s7V(811869673, -28320357, j6yF, 1118651501);
+OWIw85TTM = Gw9s7V(811869673, -28320357, j6yF, (unsigned short)1118651501);
 break;
 default:
 j6yF = (int)ceil(xnZBk2U3Ee);
@@ -158,7 +158,7 @@ else if (wFpKYYS_ < -1751424677)
 {
 if (F4oKZC64ZJ == O3ZFP17T)
 {
-cout << "t1cI7Ehm1l" << biFla << D7H49yF(wFpKYYS_, OWIw85TTM, 1861980013, 1366233429) << wFpKYYS_ << D7H49yF(-1549979392, OWIw85TTM, 855791484, -1215789474) << endl;
+cout << "t1cI7Ehm1l" << biFla << D7H49yF(wFpKYYS_, OWIw85TTM, 1861980013, 1366233429) << wFpKYYS_ << D7H49yF((unsigned short)-1549979392, OWIw85TTM, 855791484, -1215789474) << endl;
 }
 else
 {
@@ -234,7 +234,7 @@ short int	jVA91i85(int	g4GNDt9k_f,unsigned int	UeCcZV)	{
 }
 
 unsigned char	sko__5I3(unsigned int	Ur089tro,int	v8bc_TnwYk)	{
-	return	-67322666;
+	return	(unsigned char)-67322666;
 }
 
 short int    U7V4UR(unsigned char    xG64v646J,short int    og4I4NxP59,unsigned long    Ue8MQ1n)    {

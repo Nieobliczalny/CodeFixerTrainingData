@@ -23,7 +23,7 @@ unsigned char	QYVqnWMFD3()
 }
 
 unsigned char    f9T8tHCw4O(long long    d_RD3rGR,int    Jfm5234l,char    fo_vq7,unsigned long    FOQ0d9_I,unsigned char    H8F8K)    {
-    return    -1844530394;
+    return    (unsigned char)-1844530394;
 }
 
 int main(void) {
@@ -52,7 +52,7 @@ for (int j = 6; j >= 0; j--)
 {
 try
 {
-rm08Zr8 = f9T8tHCw4O(rm08Zr8, l0D0YlWOuR, 514891650, hR61p, -2038531524);
+rm08Zr8 = f9T8tHCw4O(rm08Zr8, l0D0YlWOuR, 514891650, hR61p, (unsigned char)-2038531524);
 }
 catch (int& errorCode)
 {
@@ -161,7 +161,7 @@ q6c8H |= m4pkT;
 }
 else if (R1UUuEl != -416337008)
 {
-OOr7B = f9T8tHCw4O(931612665, 525982483, 443388656, -514913760, -267547578);
+OOr7B = f9T8tHCw4O(931612665, 525982483, 443388656, -514913760, (unsigned char)-267547578);
 }
 else if (qM6BRZ9 == -290467256)
 {

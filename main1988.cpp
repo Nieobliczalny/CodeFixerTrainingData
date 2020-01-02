@@ -20,7 +20,7 @@ int main()
   unsigned long long  lR0EhZ8  =  1689618422;
   int  VVh_04t0X  =  2049671971;
  long UZPgNY = 1642959601;
-    char    BRm_JpL    =    -867113835;
+    char    BRm_JpL    =    (char)-867113835;
   unsigned long long  odkJ  =  151433685;
     unsigned short    zTI4    =    1118075535;
     unsigned long long    VamV_8O3y    =    -5449041;
@@ -33,7 +33,7 @@ int main()
     unsigned short    L88_w4    =    -2028291966;
   int  mgN_eBj  =  1076617435;
 	long long	Ud_6_y_	=	1942682377;
-    unsigned short    Zo7y7_a7g9    =    1862504003;
+    unsigned short    Zo7y7_a7g9    =    (unsigned short)1862504003;
  unsigned int q6Rlu49D = 0;
     long double    d2_01X    =    -1727794913;
 	unsigned char	JorrZJE9	=	152085133;
@@ -45,7 +45,7 @@ int main()
     long    n1ND    =    -1840624023;
     int    u2VkbITVC    =    1441658719;
   short  he4V5Bi3Z  =  1050311030;
-	unsigned char	CLtL	=	-1021552317;
+	unsigned char	CLtL	=	(unsigned char)-1021552317;
 	unsigned long long	u_ywa5meO	=	-426977584;
     long long    RNoR0_jr    =    -222066803;
 	short	xuK5xB	=	1624660992;
@@ -58,7 +58,7 @@ int main()
   int  qkh0  =  -1731780506;
   unsigned char  K2DRba5N3C  =  1461621355;
   float  Sr6f  =  -423856755;
-  short int  G8ATq4Q  =  -216717985;
+  short int  G8ATq4Q  =  (short)-216717985;
 	short int	h82HQf_D3x	=	1379610073;
   double  Ka83  =  492527251;
 	long long	vbE3H23	=	1891782158;
@@ -131,7 +131,7 @@ case 4:
 q6Rlu49D = y3YJ(1410796974);
 break;
 case 5:
-q6Rlu49D = y3YJ(-340911070);
+q6Rlu49D = y3YJ((char)-340911070);
 break;
 case 6:
 Ka83 = (int)ceil(d2_01X);

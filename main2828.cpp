@@ -18,7 +18,7 @@ char  F0Gi(char  Z_46yK)
 
 unsigned short int    G4l_C5t(short    XaMO)
 {
-    return    433088837;
+    return    (unsigned short)433088837;
 }
 
 char  FVNi5RTr(short int  J0BwjOk24,unsigned short  G1Zw,unsigned char  TGtIDKhb,unsigned long  w52A2X,long  aZvZ99ilu)
@@ -143,7 +143,7 @@ case 'g':
 FMv_cV = G4l_C5t(1274538935);
 break;
 case 'h':
-kr95521 = F0Gi(1398623602);
+kr95521 = F0Gi((char)1398623602);
 break;
 case 'i':
 yXozsjL4mu = tXQ1(-617876597, XLor, -235822262);
@@ -233,7 +233,7 @@ iDw3A0W = FVNi5RTr(1649010823, yXozsjL4mu, D6Sh, kr95521, Sw97s);
 }
 else if (R8yp <= i9e165o)
 {
-oNil1at = FVNi5RTr(394090166, kr95521, -714313157, -1756553397, bUO__hu);
+oNil1at = FVNi5RTr((short)394090166, kr95521, -714313157, -1756553397, bUO__hu);
 }
 else if ((Ia703p >= 1856205173) || (ZHhCf3 > 2128570019))
 {
@@ -245,7 +245,7 @@ FMv_cV = F0Gi(XH97lN3) | XR729Tf;
 }
 else
 {
-oNil1at = FVNi5RTr(-1927812279, 1660058622, 511886542, 271875280, i8_89zI6);
+oNil1at = FVNi5RTr(-1927812279, (unsigned short)1660058622, 511886542, 271875280, i8_89zI6);
 }
 }
 else
@@ -256,7 +256,7 @@ NwYx76 = tXQ1(135808683, -854303281, 1968247513);
 }
 else if (((EPPJ < B245P5O1gx) || (QumA == fB875J)) || (Ia703p >= lmKIKSitKh))
 {
-ZHhCf3 = FVNi5RTr(-2087246463, XLor, -1948643451, -1653064643, rCy27s);
+ZHhCf3 = FVNi5RTr(-2087246463, XLor, (unsigned char)-1948643451, -1653064643, rCy27s);
 }
 else if (((EPPJ < FMv_cV) && (XH97lN3 >= B245P5O1gx)) && ((HP375ZXk_ <= -1323394365) && (xDV_cG2t3 != fB875J)))
 {
@@ -408,7 +408,7 @@ catch (int& errorCode)
 Bc5Lz9 = FVNi5RTr(-1249157600, 1094174162, 6433483, -910924971, -1064841897) / D6Sh;
 }
 }
-yXozsjL4mu = -359160401 / FVNi5RTr(i9e165o, -356284261, -165286117, -100500304, 586422467);
+yXozsjL4mu = -359160401 / FVNi5RTr(i9e165o, -356284261, (unsigned char)-165286117, -100500304, 586422467);
 
 if (iDw3A0W != Bc5Lz9)
 {
@@ -484,7 +484,7 @@ j--;
 }
 }
 }
-std::cout << "drH4oA22rj" << FVNi5RTr(ZHhCf3, 989743819, AY6upvDa, -1119259057, 473011563) << std::endl;
+std::cout << "drH4oA22rj" << FVNi5RTr(ZHhCf3, (unsigned short)989743819, AY6upvDa, -1119259057, 473011563) << std::endl;
 
 if (r3PHWr <= 994303480)
 {
@@ -580,7 +580,7 @@ if (XLor > B245P5O1gx)
 {
 if (PaM46 > Bc5Lz9)
 {
-oNil1at = FVNi5RTr(PaM46, -236516267, 354602962, I4F2, 1716723385);
+oNil1at = FVNi5RTr(PaM46, (unsigned short)-236516267, 354602962, I4F2, 1716723385);
 }
 else if (HP375ZXk_ > -566148699)
 {

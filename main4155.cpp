@@ -35,7 +35,7 @@ int main(void)
 	long long	PvUQ;
 	PvUQ	=	1513551416;
 	unsigned short	z5pD163f4y;
-	z5pD163f4y	=	1991813420;
+	z5pD163f4y	=	(unsigned short)1991813420;
   long long  g6510ao;
   g6510ao  =  -953298307;
  float M86V2N4b;
@@ -47,7 +47,7 @@ int main(void)
     short    Mc962hLrtU;
     Mc962hLrtU    =    1307689606;
 	char	AzWZ2Ijj;
-	AzWZ2Ijj	=	1804118545;
+	AzWZ2Ijj	=	(char)1804118545;
     long    OqeaMr;
     OqeaMr    =    -1981893301;
     unsigned char    ZxrS4E45oB;
@@ -59,7 +59,7 @@ int main(void)
 	short int	AgJ4Gl;
 	AgJ4Gl	=	1860910549;
  unsigned short d_1i2;
- d_1i2 = 3199923;
+ d_1i2 = (unsigned short)3199923;
   unsigned int  y_8b3sZ;
   y_8b3sZ  =  -2092624410;
     float    ikv7g7GC1B;
@@ -83,7 +83,7 @@ int main(void)
  short p550;
  p550 = -674356726;
 	short	f5GydW17;
-	f5GydW17	=	895097826;
+	f5GydW17	=	(short)895097826;
 	float	tQ729ly;
 	tQ729ly	=	1439222113;
     unsigned short    oegztf_Y5;
@@ -93,7 +93,7 @@ int main(void)
  char gaj9X7Ou6;
  gaj9X7Ou6 = 1279471494;
     unsigned short int    iJ6Fjc9g;
-    iJ6Fjc9g    =    160679196;
+    iJ6Fjc9g    =    (unsigned short)160679196;
     unsigned short int    N9rbx3;
     N9rbx3    =    0;
  char N3Au2HHD;
@@ -103,7 +103,7 @@ int main(void)
   unsigned short int  Wr34D5lQjt;
   Wr34D5lQjt  =  1560347746;
 	char	QylRNk90O;
-	QylRNk90O	=	-991657375;
+	QylRNk90O	=	(char)-991657375;
  float chpbBh9;
  chpbBh9 = -1385342500;
     unsigned short    eb7_Yk3;
@@ -137,7 +137,7 @@ int main(void)
   unsigned long  pr9AV9G;
   pr9AV9G  =  1453483565;
     unsigned short int    y51w_2lW4q;
-    y51w_2lW4q    =    822477251;
+    y51w_2lW4q    =    (unsigned short)822477251;
   unsigned short  tz7eRq;
   tz7eRq  =  1527851484;
  int cx2xYI_12V;
@@ -147,7 +147,7 @@ int main(void)
 	unsigned int	QXwNuDPl;
 	QXwNuDPl	=	1959740266;
   unsigned short int  auj9w89Tny;
-  auj9w89Tny  =  1583814731;
+  auj9w89Tny  =  (unsigned short)1583814731;
     long long    Ab9j;
     Ab9j    =    -45683834;
     short    CKqhjjaIk;
@@ -163,7 +163,7 @@ int main(void)
 	unsigned short	D_FQ2K;
 	D_FQ2K	=	-406775406;
     short    k5H1;
-    k5H1    =    1573525490;
+    k5H1    =    (short)1573525490;
  short EF522;
  EF522 = -3035078;
   short int  XE9Tf;

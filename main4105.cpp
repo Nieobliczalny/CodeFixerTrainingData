@@ -21,7 +21,7 @@ int main(int argc, char** argv) {
  float U7a_znH86 = -2038878467;
   unsigned int  tHyN05537s  =  1567705963;
   unsigned short  A4_HW_ht  =  1362102503;
-    short int    UnYlw2    =    -1014055464;
+    short int    UnYlw2    =    (short)-1014055464;
  unsigned long long GcaFm1U5c2 = 996045767;
   double  mKS07CR02  =  855308290;
   unsigned short  i6D_  =  -1762683523;
@@ -498,7 +498,7 @@ case 7:
 vr6FoE4 = (int)abs(lhSS844r);
 break;
 case 8:
-a2EZM = (B42qBXx3 != t7o0f) ? -801867899 : 484541540;
+a2EZM = (B42qBXx3 != t7o0f) ? -801867899 : (unsigned short)484541540;
 break;
 case 9:
 lhSS844r++;

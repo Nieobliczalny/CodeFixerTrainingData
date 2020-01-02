@@ -14,7 +14,7 @@ int main() {
  long double Ak2DC3UlLn;
  Ak2DC3UlLn = 209332496;
 	short	x6lU9VmO;
-	x6lU9VmO	=	618502808;
+	x6lU9VmO	=	(short)618502808;
     short    Y28Ftx061;
     Y28Ftx061    =    1287577519;
 	unsigned char	OFEug8J;

@@ -89,7 +89,7 @@ V6BN1w = d_NXTP_(-335333108, 1165650474) + 286279179;
 }
 else if ((o3RIcT1 < E_6XdU) && (lHj7r7_N04 & PV1C9p4))
 {
-pW23gxo = xFcukE(312193689) ^ Z9wC87E;
+pW23gxo = xFcukE((unsigned char)312193689) ^ Z9wC87E;
 }
 else
 {
@@ -270,7 +270,7 @@ else
 Aquv8f = d_NXTP_(-1437354750, -286958612);
 }
 
-std::cout << d_NXTP_(-1182683047, lHj7r7_N04) << yO2E92b << "M80Jp" << "W2NIPAD" << "VMuRp" << std::endl;
+std::cout << d_NXTP_((unsigned short)-1182683047, lHj7r7_N04) << yO2E92b << "M80Jp" << "W2NIPAD" << "VMuRp" << std::endl;
 {
 int i = 0;
 while (i < 5)

@@ -13,7 +13,7 @@ int main(int argc, char** argv)
  x2byg = 0;
  unsigned short int U8fUZ, H4pk050, fFXea_L2_R, W309f, TPe4S29_, kU3KuorY, T8zuixI2m3, AmQFbh_, Sp79__, ShgIia_25, j55_0, G5_GQ_, x9uHzQ63lg, Kc67qeyA, wIAFLcE;
  U8fUZ = -2085045387;
- H4pk050 = -92800375;
+ H4pk050 = (unsigned short)-92800375;
  fFXea_L2_R = 1872955498;
  W309f = -1880075164;
  TPe4S29_ = 187610861;
@@ -23,7 +23,7 @@ int main(int argc, char** argv)
  Sp79__ = -501364774;
  ShgIia_25 = 1637666313;
  j55_0 = -749913619;
- G5_GQ_ = -1820182469;
+ G5_GQ_ = (unsigned short)-1820182469;
  x9uHzQ63lg = 1832351398;
  Kc67qeyA = -1997220395;
  wIAFLcE = 2090555025;

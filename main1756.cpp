@@ -185,7 +185,7 @@ PdP90Y6tj = bUpyfi - fwB_H6a4V;
 break;
 }
 
-cpr8o94F8f = Ui_1_Vh_IG(998764004, -1145470079, v7vXQU14MW);
+cpr8o94F8f = Ui_1_Vh_IG(998764004, (short)-1145470079, v7vXQU14MW);
 
 VmXE3Cl6j = (int)abs(KTPQAX7MYx);
 

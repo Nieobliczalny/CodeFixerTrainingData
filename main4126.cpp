@@ -20,7 +20,7 @@ int main() {
 	unsigned char	no7_m__;
 	no7_m__	=	0;
  unsigned short L3xx6;
- L3xx6 = 290342266;
+ L3xx6 = (unsigned short)290342266;
  long long lqQJmnyZ;
  lqQJmnyZ = 727122673;
   short  D_1nc;
@@ -89,7 +89,7 @@ case 1:
 thHQ *= GPK86a9__;
 break;
 case 2:
-jff_P3SE = a_73qt_Nw(-2113879052, 97679311, -1025476796);
+jff_P3SE = a_73qt_Nw(-2113879052, 97679311, (unsigned char)-1025476796);
 break;
 case 3:
 TjLh44m = Dg3s7Sh01(TjLh44m, q0O79bC0T, c1czhBJ6, m8729b0);
@@ -108,7 +108,7 @@ JT2XxS5p = (int)ceil(E_Qy);
 }
 std::cout << "J8IRyn" << lqQJmnyZ << "WH9e71" << std::endl;
 
-lqQJmnyZ = Dg3s7Sh01(lqQJmnyZ, -842979598, m8729b0, 1245558317);
+lqQJmnyZ = Dg3s7Sh01(lqQJmnyZ, -842979598, m8729b0, (char)1245558317);
 no7_m__ = a_73qt_Nw(L3xx6, -345619483, -857987867);
 
 {
@@ -124,7 +124,7 @@ case 1:
 Xcnf1KGqC = a_73qt_Nw(1878752600, n55yd, -760436680);
 break;
 case 2:
-JT2XxS5p = Dg3s7Sh01(2018529031, -657265142, -1225165324, -401933670);
+JT2XxS5p = Dg3s7Sh01(2018529031, (short)-657265142, -1225165324, -401933670);
 break;
 case 3:
 m8729b0 = Dg3s7Sh01(387770089, -647242146, 358867805, thHQ);
@@ -166,7 +166,7 @@ case 'g':
 lqQJmnyZ = jn_K4m << 1725698173;
 break;
 case 'h':
-JZexmR_2 = Dg3s7Sh01(-1872303890, 1963598343, 556386879, TjLh44m);
+JZexmR_2 = Dg3s7Sh01(-1872303890, (short)1963598343, 556386879, TjLh44m);
 break;
 case 'i':
 JT2XxS5p = (int)ceil(E_Qy);
@@ -186,7 +186,7 @@ switch (c1czhBJ6)
 {
 case 'a':
 case 'A':
-no7_m__ = a_73qt_Nw(984414096, -1741575108, -429614292);
+no7_m__ = a_73qt_Nw(984414096, -1741575108, (unsigned char)-429614292);
 break;
 case 'b':
 case 'B':
@@ -204,7 +204,7 @@ std::cout << q0O79bC0T << Dg3s7Sh01(ruuAwDA, -1477556163, 154740821, Xcnf1KGqC) 
 
 JZexmR_2 = (unsigned long long)(D_1nc);
 
-lqQJmnyZ = QKb8A7_P / a_73qt_Nw(518498103, QKb8A7_P, -852726721);
+lqQJmnyZ = QKb8A7_P / a_73qt_Nw(518498103, QKb8A7_P, (unsigned char)-852726721);
 {
 int i = 0;
 while (i < 6)
@@ -225,7 +225,7 @@ m8729b0 = NnFhEZ0Ql - thHQ;
 
 O6H5 = (unsigned int)(jn_K4m);
 
-no7_m__ = a_73qt_Nw(1902673037, -557822899, -1974322132);
+no7_m__ = a_73qt_Nw(1902673037, -557822899, (unsigned char)-1974322132);
 
 m8729b0 = (int)(jn_K4m);
 Xcnf1KGqC = a_73qt_Nw(2091129973, JZexmR_2, L3xx6);

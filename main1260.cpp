@@ -22,7 +22,7 @@ unsigned short int N8BtO0_S()
 }
 
 short int w5RlR() {
- return -2090661488;
+ return (short)-2090661488;
 }
 
 long x4cjXUxglc() {
@@ -39,7 +39,7 @@ int main() {
  char RdY9ax7h2;
  RdY9ax7h2 = 366856989;
  unsigned short int A4bJA;
- A4bJA = -1910530486;
+ A4bJA = (unsigned short)-1910530486;
 	unsigned long	t8o5tD;
 	t8o5tD	=	2061591509;
     double    G5F9D8;
@@ -57,7 +57,7 @@ int main() {
  int BFFFO2gZ5Y;
  BFFFO2gZ5Y = 177383452;
   unsigned char  ylhGqs;
-  ylhGqs  =  -2073484287;
+  ylhGqs  =  (unsigned char)-2073484287;
   int  X9hr_Son5;
   X9hr_Son5  =  -1069929243;
     unsigned short    sePM;
@@ -81,7 +81,7 @@ int main() {
     unsigned short    kpv3CaY;
     kpv3CaY    =    1978001723;
 	char	zj2k;
-	zj2k	=	-471679565;
+	zj2k	=	(char)-471679565;
  unsigned char y8p2wb;
  y8p2wb = -1480713596;
   short  qkgFpU_zKM;
@@ -111,7 +111,7 @@ int main() {
     unsigned long long    pcukq818;
     pcukq818    =    -1540696956;
 
-std::cout << VxFHt(-35019147, -1088063863, s3y_Sxi2) << kpv3CaY << N8BtO0_S() << std::endl;
+std::cout << VxFHt((short)-35019147, -1088063863, s3y_Sxi2) << kpv3CaY << N8BtO0_S() << std::endl;
 s3y_Sxi2 = (int)abs(RdY9ax7h2);
 try
 {
@@ -207,7 +207,7 @@ yZv38l /= qkgFpU_zKM;
 }
 ylhGqs = x4J0 + y8p2wb;
 std::cout << VxFHt(I6qi6N62e, ylhGqs, 1518378538) << w5RlR() << x4cjXUxglc() << VxFHt(1879596372, ylhGqs, yZv38l) << std::endl;
-GZPEVOZ5yJ = -1809187360 / VxFHt(1304967393, -1050400618, yZv38l);
+GZPEVOZ5yJ = -1809187360 / VxFHt((short)1304967393, -1050400618, yZv38l);
 {
 int i = 1;
 while (i >= 0)

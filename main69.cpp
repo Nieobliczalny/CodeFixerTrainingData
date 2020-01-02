@@ -47,7 +47,7 @@ int main(void)
  float aQOoie = 92948633;
 	unsigned char	efvtS9lPz2	=	1918133149;
     double    Ne9gEa    =    740811944;
- unsigned short int tXOKC = 140428303;
+ unsigned short int tXOKC = (unsigned short)140428303;
  char k_3GAsorL = -642631512;
  long double TX7sC = 2080562250;
 	unsigned short int	EVs9L	=	1137477231;
@@ -58,7 +58,7 @@ int main(void)
  unsigned char eeb75MAb = -653724576;
     unsigned short    sX_3i_4v_    =    -1199733187;
 	long double	e_QGZF2wQD	=	-1587682036;
-  short  HF8aL  =  602035519;
+  short  HF8aL  =  (short)602035519;
   long double  A73ZCpd  =  1760532833;
 	unsigned long long	vuwo3gRi5j	=	1813213827;
  unsigned int h30aOb3EmR = -2106538815;
@@ -89,7 +89,7 @@ if (eeb75MAb <= 1568322613)
 {
 TX7sC = (int)ceil(XG50Z);
 }
-dCbUv59__t = A4eCA3(1604592507, iNt9Pe5lH, 2102910041);
+dCbUv59__t = A4eCA3(1604592507, iNt9Pe5lH, (short)2102910041);
 try
 {
 A73ZCpd = (long double)(WHnR0KB);
@@ -393,7 +393,7 @@ case 1:
 W6Jh65p0 = QYUbC_I(240252264, 1088315804, -1006265623, efvtS9lPz2);
 break;
 case 2:
-EyS8V8J = zE2C_74(174439796);
+EyS8V8J = zE2C_74((short)174439796);
 break;
 case 3:
 A73ZCpd = vuwo3gRi5j + 1084975931;
@@ -414,7 +414,7 @@ case 8:
 XG50Z = (int)ceil(EyS8V8J);
 break;
 default:
-EyS8V8J = A4eCA3(657392634, 794837748, 1820691545);
+EyS8V8J = A4eCA3(657392634, (unsigned short)794837748, 1820691545);
 break;
 }
 
@@ -561,7 +561,7 @@ while (i >= 0);
 }
 HuoPxy67xZ = Y0T_2(NiXkZ);
 HuoPxy67xZ = Y0T_2(-2060477346);
-cout << "E5mvp" << Y0T_2(-2043794815) << EVs9L << endl;
+cout << "E5mvp" << Y0T_2((unsigned short)-2043794815) << EVs9L << endl;
 
 tXOKC = A4eCA3(tXOKC, EVs9L, iNt9Pe5lH);
 

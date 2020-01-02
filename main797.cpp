@@ -23,7 +23,7 @@ long long    TECl4_b(unsigned int    B03e_mV_S,unsigned short    zoI1vp8,long lo
 
 unsigned short  Z0DiQQ(char  tzvI5,unsigned long  Ef_wxOi7d,long  j_5Z9K)
 {
-  return  -239514079;
+  return  (unsigned short)-239514079;
 }
 
 int main() {
@@ -134,7 +134,7 @@ default:
 AQh5UAKq1 = TECl4_b(AQh5UAKq1, m8zZoU5_e, AM21D);
 break;
 }
-std::cout << "eg_E" << Sy1c5a7cVT(1001620104, -1689148121) << "G7975eQ9C2" << TECl4_b(1117367217, m8zZoU5_e, AM21D) << std::endl;
+std::cout << "eg_E" << Sy1c5a7cVT(1001620104, (short)-1689148121) << "G7975eQ9C2" << TECl4_b(1117367217, m8zZoU5_e, AM21D) << std::endl;
 
 FWmmL8 = (float)(bA_1);
 
@@ -256,7 +256,7 @@ js1k6jFc = (int)floor(ylaBr_zeKa);
 }
 else if (D696EjV > -445897135)
 {
-y3gp_Orl8 = Sy1c5a7cVT(-1632816450, bA_1);
+y3gp_Orl8 = Sy1c5a7cVT((char)-1632816450, bA_1);
 }
 else
 {
@@ -271,7 +271,7 @@ int j = 4;
 while (j >= 0)
 {
 --j;
-XBRO7 = rDvdh5oe51(-1746061050, -1781601942, B31kQt, -1258387560, FT8OM);
+XBRO7 = rDvdh5oe51(-1746061050, (unsigned char)-1781601942, B31kQt, -1258387560, FT8OM);
 }
 }
 }
@@ -305,7 +305,7 @@ Iq13O *= f0gf;
 int i = 2;
 while (i >= 0)
 {
-std::cout << rDvdh5oe51(-1460495801, Vu624, 2115917752, -902799536, FT8OM) << xF7mnq0 << vf69y3Jl << std::endl;
+std::cout << rDvdh5oe51(-1460495801, Vu624, (unsigned short)2115917752, -902799536, FT8OM) << xF7mnq0 << vf69y3Jl << std::endl;
 --i;
 }
 }
@@ -322,7 +322,7 @@ B24PLxD89Z = (float)(a6_G);
 }
 else if ((ghyq_JH2 >= -1099437468) || (FWmmL8 == 941063178))
 {
-std::cout << "P9o2eO" << "M7V621" << m_Qhi << rDvdh5oe51(2095291591, Vu624, -1979752955, bA_1, 872886335) << "hz7f5CA" << std::endl;
+std::cout << "P9o2eO" << "M7V621" << m_Qhi << rDvdh5oe51(2095291591, Vu624, (unsigned short)-1979752955, bA_1, 872886335) << "hz7f5CA" << std::endl;
 }
 else
 {
@@ -351,7 +351,7 @@ case 3:
 aZpAV_f9 = m4vwHN * C5q1f_;
 break;
 case 4:
-MYDgTyd_i = rDvdh5oe51(728882564, js1k6jFc, sCXW, m_Qhi, n3I2W4OO7);
+MYDgTyd_i = rDvdh5oe51((short)728882564, js1k6jFc, sCXW, m_Qhi, n3I2W4OO7);
 break;
 case 5:
 xF7mnq0 = (O3eX > W0JdvL3) ? 984191960 : -1004058249;

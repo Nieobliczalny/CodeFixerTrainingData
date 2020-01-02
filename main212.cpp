@@ -67,7 +67,7 @@ case 'i':
 yz5_T = XC11LNz379(1839732212);
 break;
 case 'j':
-x883_3Vuj = XC11LNz379(794306084);
+x883_3Vuj = XC11LNz379((short)794306084);
 break;
 }
 }
@@ -185,7 +185,7 @@ yz5_T = XC11LNz379(-350762673);
 break;
 }
 
-if ((XC11LNz379(-1574677647) / s9s855) >= -2092455371)
+if ((XC11LNz379((short)-1574677647) / s9s855) >= -2092455371)
 {
 std::cout << m0W1aloEK / dONgaO0 << std::endl;
 }

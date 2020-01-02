@@ -44,7 +44,7 @@ int main(void) {
   unsigned long  tmse_ETBI;
   tmse_ETBI  =  1618151841;
   unsigned short int  UXm3U;
-  UXm3U  =  1080486339;
+  UXm3U  =  (unsigned short)1080486339;
 
 UXm3U = Dl5HAZyC(WxN5QB) | 1873952671;
 
@@ -71,7 +71,7 @@ y8G36u = Dl5HAZyC(-1221003638);
 break;
 case 'b':
 case 'B':
-plmza = Fn5_57I0BK(pnfOnle4k9, -994060752, plmza, 231881414, 905225717);
+plmza = Fn5_57I0BK(pnfOnle4k9, -994060752, plmza, (unsigned char)231881414, 905225717);
 break;
 case 'c':
 case 'C':
@@ -185,7 +185,7 @@ UXm3U = Dl5HAZyC(UXm3U);
 break;
 case 'f':
 case 'F':
-V26LvC0xso = Fn5_57I0BK(-812008131, Z5Yp, 1781527459, 1354204511, -2097569881);
+V26LvC0xso = Fn5_57I0BK(-812008131, Z5Yp, 1781527459, (unsigned char)1354204511, -2097569881);
 break;
 case 'g':
 case 'G':
@@ -258,7 +258,7 @@ case 7:
 cIi86 = (int)abs(XDt8L_o3) + (-119941915);
 break;
 case 8:
-qYRo43MOp = Fn5_57I0BK(1974968090, UXm3U, 730974292, 1039519643, Z5Yp);
+qYRo43MOp = Fn5_57I0BK(1974968090, UXm3U, (char)730974292, 1039519643, Z5Yp);
 break;
 }
 }
@@ -304,7 +304,7 @@ case 2:
 tmse_ETBI = gZ4G();
 break;
 case 3:
-XDt8L_o3 = Fn5_57I0BK(-822604635, 111370403, -959258508, -587543907, -1424073882);
+XDt8L_o3 = Fn5_57I0BK(-822604635, 111370403, (char)-959258508, -587543907, -1424073882);
 break;
 case 4:
 V26LvC0xso = Fn5_57I0BK(155540864, 1359955580, 563631385, XDt8L_o3, WxN5QB);
@@ -327,7 +327,7 @@ else
 std::cout << plmza << std::endl;
 }
 
-XDt8L_o3 = Fn5_57I0BK(y8G36u, -1843907259, -1550640989, XDt8L_o3, 295114874);
+XDt8L_o3 = Fn5_57I0BK(y8G36u, -1843907259, (char)-1550640989, XDt8L_o3, 295114874);
 
 for (int i = 0; i < 1; i++)
 {
@@ -361,7 +361,7 @@ j--;
 }
 }
 }
-V26LvC0xso = Fn5_57I0BK(Z5Yp, 658719598, 1912370421, -1082709626, plmza);
+V26LvC0xso = Fn5_57I0BK(Z5Yp, 658719598, (char)1912370421, -1082709626, plmza);
 try
 {
 if (tmse_ETBI != 1562598184)
@@ -396,7 +396,7 @@ unsigned short int PA07IYrgW(long long ZRQ8_ox,unsigned int XiRh_4_ou9,unsigned 
 
 unsigned char    gZ4G()
 {
-    return    1478699437;
+    return    (unsigned char)1478699437;
 }
 
 unsigned int Dl5HAZyC(long EApEsDF)

@@ -12,7 +12,7 @@ int main(void)
 {
   long  VufcANCJkY  =  604881713;
 	char	z9v55LS	=	1656417720;
-  unsigned char  z5eQk  =  1284261520;
+  unsigned char  z5eQk  =  (unsigned char)1284261520;
   long double  tEJP2WCp  =  1285526460;
   int  T63P  =  1845870988;
  unsigned char asG0m1qW = 1053552764;
@@ -23,7 +23,7 @@ int main(void)
 	long	E0g6xN4lux	=	-319714107;
     unsigned long long    TyNB4_    =    -1997997512;
 	short int	q90u5I	=	-388700539;
-  short  B1jm3FJ  =  1230038230;
+  short  B1jm3FJ  =  (short)1230038230;
  long long c3He_Q = 1212484263;
     unsigned short    VNhxq5    =    0;
     unsigned char    BQqMW8    =    0;

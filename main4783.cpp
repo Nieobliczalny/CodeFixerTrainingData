@@ -107,7 +107,7 @@ q2isX = s_CfBE84Xx(-715981938, MC10, 1798721972);
 break;
 case 'd':
 case 'D':
-h1FU1R = s_CfBE84Xx(q2isX, MC10, -422418195) - 1069477260;
+h1FU1R = s_CfBE84Xx(q2isX, MC10, (unsigned char)-422418195) - 1069477260;
 break;
 case 'e':
 case 'E':

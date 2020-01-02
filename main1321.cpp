@@ -36,7 +36,7 @@ case 0:
 b5rI617E = (int)floor(scQ5B);
 break;
 case 1:
-LX170 = t8D_9i7(LX170, -1893951281, -2132661839);
+LX170 = t8D_9i7(LX170, -1893951281, (char)-2132661839);
 break;
 case 2:
 CCTz_gH5_ = N_3esu4N86();
@@ -133,7 +133,7 @@ catch (int& errorCode)
 {
 xcQ8_j2s3 = BaxW_0z / 1264128017;
 }
-std::cout << sGVQ_n7Qu(-102533012, 601328601, O8j24J) << sGVQ_n7Qu(-454287378, -882134432, 1104396524) << std::endl;
+std::cout << sGVQ_n7Qu(-102533012, (unsigned char)601328601, O8j24J) << sGVQ_n7Qu(-454287378, -882134432, 1104396524) << std::endl;
 try
 {
 {
@@ -213,7 +213,7 @@ while (i < 3);
 }
 for (int i = 1; i >= 0; i--)
 {
-xk25s0y2b = sGVQ_n7Qu(2044588453, -924034214, Zb0h2m);
+xk25s0y2b = sGVQ_n7Qu(2044588453, (unsigned char)-924034214, Zb0h2m);
 }
 
 wV0_ = (long double)(FM_Blz6UK6 + (B4cWl1U));
@@ -305,7 +305,7 @@ unsigned char  t8D_9i7(unsigned long long  IOu6YA_v,short  PR0d2e2rrP,char  NMF1
 
 unsigned short  yL4o(short int  S35g8,unsigned short int  ks6izx)
 {
-  return  -1225380;
+  return  (unsigned short)-1225380;
 }
 
 unsigned short N_3esu4N86()

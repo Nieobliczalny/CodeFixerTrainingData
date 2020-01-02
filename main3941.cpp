@@ -57,7 +57,7 @@ case 5:
 pUp5pMZnFS = R8Yn8k9iDM / 517308460;
 break;
 case 6:
-J2KR9naw = J_YqA5fs(-340892363, Ph7DBAO_27, -1105267226);
+J2KR9naw = J_YqA5fs((short)-340892363, Ph7DBAO_27, -1105267226);
 break;
 case 7:
 X255FSjco = J_YqA5fs(X255FSjco, T23Z3x24ak, oCAh5Z);

@@ -23,7 +23,7 @@ x5wZBXsHb = (int)(MJq0);
 
 HF53_ = (int)(bbF_c);
 
-k_kiFwA = jp7cUu / Rp9A4(1056398322, pn6y2E, 85741713, -1748137456);
+k_kiFwA = jp7cUu / Rp9A4(1056398322, pn6y2E, 85741713, (short)-1748137456);
 
 if (((ar3r & -1225145927) && (Df828hs >= -1738058157)) && ((GhYI06_7 == HF53_) && (Df828hs > V02ZdBa_S)))
 {
@@ -264,7 +264,7 @@ unsigned char	e33hOu(long	od0OeZT5,long long	saNh1uO2d,unsigned long long	T_Ex7c
 }
 
 short    iLrldzZQS()    {
-    return    998349351;
+    return    (short)998349351;
 }
 
 unsigned long	Rp9A4(unsigned int	F1fdY,int	bJS8ci,char	t_BnWTfDu,short int	IkFWche)

@@ -20,7 +20,7 @@ int main(int argc, char** argv)
  float D4r7 = 131304688;
     char    tiVBJ8j_i4    =    -1294936902;
  unsigned long long Rwpp = -1384093228;
-  unsigned short  I_2_  =  1859733439;
+  unsigned short  I_2_  =  (unsigned short)1859733439;
   short int  vN15  =  -480450821;
 	unsigned long	j_eDN1P	=	564458504;
  unsigned char B6RnVrp = -2020910826;
@@ -31,7 +31,7 @@ int main(int argc, char** argv)
   unsigned long  NR38  =  176349608;
 	char	S5A2Du	=	-1449116657;
   long double  vnFyJAe0  =  958959227;
-    char    P4n3S9o1    =    -1170028863;
+    char    P4n3S9o1    =    (char)-1170028863;
 	double	u7pSs5	=	-1757144433;
  float Cz57Vd1Ov_ = 314583297;
 	long long	gNn8dK5dMe	=	-101685047;
@@ -42,7 +42,7 @@ int main(int argc, char** argv)
     unsigned short int    OagZw03F8    =    1113043548;
  float V0E4 = 1425670533;
  unsigned long long wSl5_b12 = -1470637919;
-    short int    T2tM6h3rg    =    -1508533733;
+    short int    T2tM6h3rg    =    (short)-1508533733;
     unsigned long    R__6ad6fw    =    0;
   unsigned long  Y_Zp_g7U  =  595968200;
   unsigned long long  Hwr2S0  =  -263061604;
@@ -76,7 +76,7 @@ case 'b':
 U_n7FEd6z9 = rAHQS29B7(-649717096, Y_Zp_g7U);
 break;
 case 'c':
-Lm8hxH = rAHQS29B7(-565386277, 1605840337);
+Lm8hxH = rAHQS29B7(-565386277, (unsigned short)1605840337);
 break;
 case 'd':
 D4r7 = (int)abs(P4n3S9o1);
@@ -97,7 +97,7 @@ I_2_ = Hwr2S0 ^ vN15;
 }
 else
 {
-std::cout << B6RnVrp << rAHQS29B7(760644125, T2tM6h3rg) << rAHQS29B7(1390761974, 1435872797) << "c7zJ_oy7iO" << rAHQS29B7(-1531041891, -863166806) << std::endl;
+std::cout << B6RnVrp << rAHQS29B7(760644125, T2tM6h3rg) << rAHQS29B7(1390761974, 1435872797) << "c7zJ_oy7iO" << rAHQS29B7(-1531041891, (unsigned short)-863166806) << std::endl;
 }
 }
 }

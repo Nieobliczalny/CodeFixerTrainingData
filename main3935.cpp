@@ -42,7 +42,7 @@ int main(int argc, char** argv)
 	l63ANX4A1	=	0;
 	short	SldX1D02,	HyfLsn,	fnmtWut,	t0kq_51x,	LnI_t_2_Z2,	UuuSya9Dt,	p2pox,	QgK4U,	eJBu63Uez,	CI0f59o,	dD__S8XvK,	p6o7lc,	iV5xu6VrG,	qh43i,	A9o7VK,	YLPWOIGdhf,	q2ZIQ,	LZ5D,	V7tt_DJ1Z,	NQOl,	mO41_,	o4bS,	sxtqt,	W5h_k1,	htWVhv,	IirSE4s,	n2jZ6,	RypT,	ol9Ra2t_7,	FZG_4,	FZwh6vwDeq,	P895q_0LV_,	NmL09,	r_sYnv9y,	G5_Fw,	F_3M5Y,	k1_V1a,	DZWLrOQx,	n_iW,	S8vWCh,	TPc8Wg5sO,	NaHW6P,	iY_G,	ElIG,	cKCbwD,	U96s1L_B,	ah_q1V3D,	TR4KgEo3,	kcxVbk2t,	Vmxz_cNTk0,	L9q9O05,	V4Ni2mD1I6,	XrZY,	waeyq9,	cssg5V,	RQnCfvB;
 	SldX1D02	=	-1554179075;
-	HyfLsn	=	1068903692;
+	HyfLsn	=	(short)1068903692;
 	fnmtWut	=	-155763347;
 	t0kq_51x	=	-1406906618;
 	LnI_t_2_Z2	=	-1991120275;
@@ -52,7 +52,7 @@ int main(int argc, char** argv)
 	eJBu63Uez	=	497030081;
 	CI0f59o	=	938146160;
 	dD__S8XvK	=	-1101072763;
-	p6o7lc	=	1870686679;
+	p6o7lc	=	(short)1870686679;
 	iV5xu6VrG	=	163190784;
 	qh43i	=	-574063531;
 	A9o7VK	=	-1957525282;
@@ -62,7 +62,7 @@ int main(int argc, char** argv)
 	V7tt_DJ1Z	=	1571572558;
 	NQOl	=	574007250;
 	mO41_	=	-689799858;
-	o4bS	=	-1191214649;
+	o4bS	=	(short)-1191214649;
 	sxtqt	=	2111439667;
 	W5h_k1	=	-357835315;
 	htWVhv	=	500050103;
@@ -72,7 +72,7 @@ int main(int argc, char** argv)
 	ol9Ra2t_7	=	391114000;
 	FZG_4	=	-1818952820;
 	FZwh6vwDeq	=	1266062180;
-	P895q_0LV_	=	560278143;
+	P895q_0LV_	=	(short)560278143;
 	NmL09	=	396210247;
 	r_sYnv9y	=	174352562;
 	G5_Fw	=	12397710;
@@ -82,7 +82,7 @@ int main(int argc, char** argv)
 	n_iW	=	-1070917888;
 	S8vWCh	=	824471922;
 	TPc8Wg5sO	=	-157465931;
-	NaHW6P	=	1054164971;
+	NaHW6P	=	(short)1054164971;
 	iY_G	=	-1722064389;
 	ElIG	=	2128512073;
 	cKCbwD	=	-206627164;
@@ -92,7 +92,7 @@ int main(int argc, char** argv)
 	kcxVbk2t	=	1513362482;
 	Vmxz_cNTk0	=	299976529;
 	L9q9O05	=	-1782329465;
-	V4Ni2mD1I6	=	112747189;
+	V4Ni2mD1I6	=	(short)112747189;
 	XrZY	=	848951304;
 	waeyq9	=	-933248075;
 	cssg5V	=	457819260;
@@ -112,7 +112,7 @@ case 'c':
 Vmxz_cNTk0 = ZvTq8lQ6X(319644164, 1009066193);
 break;
 case 'd':
-uWeeMkM = aAY_6_3L5(114024068, 319902351);
+uWeeMkM = aAY_6_3L5(114024068, (unsigned short)319902351);
 break;
 case 'e':
 ah_q1V3D = db2phj(-1669285296, FZwh6vwDeq, SldX1D02, DZWLrOQx, q2ZIQ);
@@ -133,7 +133,7 @@ case 'j':
 FZwh6vwDeq = ElIG / 1048820481;
 break;
 default:
-iY_G = z9qpeS01XB(1110278122, 1256601250, -2105328156, 55638051, r_sYnv9y);
+iY_G = z9qpeS01XB(1110278122, 1256601250, (unsigned short)-2105328156, 55638051, r_sYnv9y);
 break;
 }
 }
@@ -146,7 +146,7 @@ for (int i = 6; i >= 0; i--)
 {
 mO41_ = (int)abs(eJBu63Uez);
 }
-cout << z9qpeS01XB(-2108896020, 52578932, 524494958, 317252188, o4bS) << iV5xu6VrG << HyfLsn << SldX1D02 << endl;
+cout << z9qpeS01XB(-2108896020, 52578932, (unsigned short)524494958, 317252188, o4bS) << iV5xu6VrG << HyfLsn << SldX1D02 << endl;
 CI0f59o |= XrZY;
 n_iW = (short)(SldX1D02);
 {
@@ -215,7 +215,7 @@ case 0:
 NmL09 = ZvTq8lQ6X(NmL09, 1002527013);
 break;
 case 1:
-fnmtWut = (iY_G > 917338215) ? aAY_6_3L5(-1870351666, -2146613436) : z9qpeS01XB(NmL09, 463148121, q2ZIQ, UuuSya9Dt, 1773629444);
+fnmtWut = (iY_G > 917338215) ? aAY_6_3L5(-1870351666, (unsigned short)-2146613436) : z9qpeS01XB(NmL09, 463148121, q2ZIQ, UuuSya9Dt, 1773629444);
 break;
 case 2:
 r_sYnv9y = z9qpeS01XB(1790121217, F_3M5Y, -564721590, k1_V1a, CI0f59o);
@@ -263,7 +263,7 @@ case 'b':
 fnmtWut = r_sYnv9y + q2ZIQ;
 break;
 case 'c':
-V4Ni2mD1I6 = db2phj(-771061868, -49583459, 1816259022, W5h_k1, 1421530161);
+V4Ni2mD1I6 = db2phj(-771061868, (unsigned char)-49583459, 1816259022, W5h_k1, 1421530161);
 break;
 default:
 fnmtWut = ZvTq8lQ6X(2053958463, RQnCfvB);
@@ -360,7 +360,7 @@ while (j >= 0);
 }
 try
 {
-cout << htWVhv << ZvTq8lQ6X(l63ANX4A1, 1693966387) << "WB6os5lJ" << z9qpeS01XB(l63ANX4A1, -191034553, 534951671, dD__S8XvK, -1648652150) << db2phj(l63ANX4A1, -1373611229, sxtqt, -1991418855, -534746423) << endl;
+cout << htWVhv << ZvTq8lQ6X(l63ANX4A1, 1693966387) << "WB6os5lJ" << z9qpeS01XB(l63ANX4A1, (unsigned char)-191034553, 534951671, dD__S8XvK, -1648652150) << db2phj(l63ANX4A1, -1373611229, sxtqt, -1991418855, -534746423) << endl;
 }
 catch (int& errorCode)
 {

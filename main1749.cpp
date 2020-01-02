@@ -15,7 +15,7 @@ int main(int argc, char** argv) {
  unsigned long long li4bbTmy = 587736226;
     char    n_dttK    =    144396011;
     char    I18z    =    0;
- char o8_40M1av = -57817402;
+ char o8_40M1av = (char)-57817402;
     short int    TdBx_4    =    399632375;
 	unsigned long	m3Kosl	=	804650723;
   short  m3Hr0S_  =  -698720572;
@@ -29,7 +29,7 @@ int main(int argc, char** argv) {
  int Sj2E_1 = -985686612;
     unsigned int    aSzp2HRs    =    -535061079;
  unsigned short int G3M6dS936 = 946951319;
-	char	YmK5tVn2	=	-1361504508;
+	char	YmK5tVn2	=	(char)-1361504508;
 	unsigned short	ekWB82j1	=	-2130214407;
 	long	K5k4595	=	882492642;
  short int DmUXKzmReD = 1657456672;
@@ -85,7 +85,7 @@ if (YmK5tVn2 < -439243406)
 {
 if ((FpuBoy != 1600092451) || ((TdBx_4) && (FpuBoy > 142581752)))
 {
-K5k4595 = K7i98(906275009, zv2ojy, 2143244186, P7o5, i9J3MwUXaL);
+K5k4595 = K7i98(906275009, zv2ojy, (short)2143244186, P7o5, i9J3MwUXaL);
 }
 else if ((ekWB82j1 & i9J3MwUXaL) && (DmUXKzmReD >= 285786356))
 {
@@ -124,7 +124,7 @@ aSzp2HRs++;
 }
 else if (G3M6dS936)
 {
-G3M6dS936 = K7i98(1689965612, 91834841, 606659426, 919603524, zv2ojy);
+G3M6dS936 = K7i98(1689965612, 91834841, (short)606659426, 919603524, zv2ojy);
 }
 else if (li4bbTmy > 1530783371)
 {
@@ -142,7 +142,7 @@ DmUXKzmReD = K7i98(531396572, ekWB82j1, m3Kosl, li4bbTmy, n_dttK);
 }
 }
 std::cout << FpuBoy / x9773xylU() << std::endl;
-m3Hr0S_ = K7i98(-1079143697, -1195441805, oRH7z6AZJ0, -333763871, Rr1b2Ar4pb);
+m3Hr0S_ = K7i98((unsigned short)-1079143697, -1195441805, oRH7z6AZJ0, -333763871, Rr1b2Ar4pb);
 if ((l54EN36AFu <= -1867961563) && (l54EN36AFu != -48875))
 {
 JUvoVvL = (int)floor(cwqB);

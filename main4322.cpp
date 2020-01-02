@@ -165,7 +165,7 @@ case 4:
 vvF4 = (int)abs(Maew4Fn21);
 break;
 case 5:
-J2o0NFTu = Yy8XYSD_6(450169778, BA2V5kpV, -770191267);
+J2o0NFTu = Yy8XYSD_6(450169778, BA2V5kpV, (short)-770191267);
 break;
 default:
 H5LaU0V_1z += YGZLi4G;
@@ -180,7 +180,7 @@ else
 {
 try
 {
-J2o0NFTu = Yy8XYSD_6(-1839596673, 444739438, HBSg);
+J2o0NFTu = Yy8XYSD_6(-1839596673, (unsigned char)444739438, HBSg);
 }
 catch (int& errorCode)
 {
@@ -223,7 +223,7 @@ switch (Y2umNi4e)
 {
 case 'a':
 case 'A':
-J2o0NFTu = Yy8XYSD_6(-1535672202, krek6IX, fB49iq);
+J2o0NFTu = Yy8XYSD_6((short)-1535672202, krek6IX, fB49iq);
 break;
 case 'b':
 case 'B':
@@ -239,7 +239,7 @@ E_Siup_tz = (int)abs(TpT3HfA5);
 break;
 case 'e':
 case 'E':
-J2o0NFTu = Yy8XYSD_6(L2GNVp_W, vvF4, 503500043);
+J2o0NFTu = Yy8XYSD_6(L2GNVp_W, vvF4, (short)503500043);
 break;
 case 'f':
 case 'F':
@@ -300,7 +300,7 @@ do
 int j = 8;
 while (j >= 0)
 {
-std::cout << W5Bg28 << "N35U" << BA2V5kpV << Yy8XYSD_6(-1347596926, -959847417, Q4S0E) << Yy8XYSD_6(uQNo, 1396747709, Q4S0E) << std::endl;
+std::cout << W5Bg28 << "N35U" << BA2V5kpV << Yy8XYSD_6(-1347596926, (unsigned char)-959847417, Q4S0E) << Yy8XYSD_6(uQNo, 1396747709, Q4S0E) << std::endl;
 j--;
 }
 }
@@ -331,7 +331,7 @@ case 6:
 JG7Xq0d7_ %= vvF4;
 break;
 case 7:
-rU56EaZC7 = Yy8XYSD_6(NTjbWO_wIC, H5LaU0V_1z, 584498666) + VkiL_7JnM;
+rU56EaZC7 = Yy8XYSD_6(NTjbWO_wIC, H5LaU0V_1z, (short)584498666) + VkiL_7JnM;
 break;
 case 8:
 J2o0NFTu = Yy8XYSD_6(-50444503, 743743445, 64879571);
@@ -369,7 +369,7 @@ else
 std::cout << "N08k3r" << Yy8XYSD_6(-972967346, RfNS8a38p_, rU56EaZC7) << std::endl;
 }
 std::cout << "XY75j1OS" << PyMj1D << "yiCO1FEs" << "D_K066vZ9" << std::endl;
-J2o0NFTu = Yy8XYSD_6(ELAikX, gC3q, -1559920009);
+J2o0NFTu = Yy8XYSD_6(ELAikX, gC3q, (short)-1559920009);
 
 return 0;
 }

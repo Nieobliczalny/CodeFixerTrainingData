@@ -144,7 +144,7 @@ else if (U64FPe09T != 1359533520)
 {
 try
 {
-DfU2zA = MDO4(-702487963, dwgU, S72pDd496, DfU2zA, 328890862);
+DfU2zA = MDO4((short)-702487963, dwgU, S72pDd496, DfU2zA, 328890862);
 }
 catch (int& errorCode)
 {
@@ -224,7 +224,7 @@ U7KD4wbyj = qchvyzyF(U7KD4wbyj, 638869908, cWkA_j29I, DfU2zA, yamB6K);
 }
 else if (R_5OR0gb2 < 317937836)
 {
-G4tslNE0 = qchvyzyF(-2020754606, yXFqpFR9Fv, 1394142033, -988667099, TPcj4n9);
+G4tslNE0 = qchvyzyF(-2020754606, yXFqpFR9Fv, (unsigned short)1394142033, -988667099, TPcj4n9);
 }
 else if (U7KD4wbyj > 1706642884)
 {
@@ -245,7 +245,7 @@ yObVZ7u4K -= 1514277193;
 }
 else
 {
-ZJ_9hs04 = qchvyzyF(ZJ_9hs04, TsU8398p3I, -1580801042, ZTUyO_u4d, -1461450108);
+ZJ_9hs04 = qchvyzyF(ZJ_9hs04, TsU8398p3I, (unsigned short)-1580801042, ZTUyO_u4d, -1461450108);
 }
 }
 switch (O4f1)
@@ -290,7 +290,7 @@ zmcDINu3e = (long long)(TPcj4n9);
 
 if (DfU2zA == 0)
 {
-	ITU1NQ = qchvyzyF(r4n2977bu, -448009268, 577224502, m2c6HI7Nr, a964dAfV) / DfU2zA;
+	ITU1NQ = qchvyzyF(r4n2977bu, -448009268, (unsigned short)577224502, m2c6HI7Nr, a964dAfV) / DfU2zA;
 }
 
 if ((mAp3tT9_Iy != 1343107581) && (Szc2851m_ < vYS0dL))
@@ -341,7 +341,7 @@ R_5OR0gb2 = (int)abs(Auf59);
 }
 else if ((D2FLx >= -1816085805) || ((Z0P_B2i_0 & -634335855) && (chQWgeU0 & 1842985062)))
 {
-iY867VqA8m = MDO4(ITU1NQ, 2074061164, 925187113, -1655401162, 1194725845) * LnjgGI;
+iY867VqA8m = MDO4(ITU1NQ, 2074061164, (unsigned char)925187113, -1655401162, 1194725845) * LnjgGI;
 }
 else if (OzrF0vjy > -1990302352)
 {
@@ -468,7 +468,7 @@ case 'b':
 Dz7O43y77P = OsBRy >> 33398772;
 break;
 case 'c':
-DfU2zA = MDO4(Q519_WV5Do, -485286232, 1963900119, -1388288969, 1391565663);
+DfU2zA = MDO4(Q519_WV5Do, -485286232, (unsigned char)1963900119, -1388288969, 1391565663);
 break;
 case 'd':
 zmcDINu3e = yXFqpFR9Fv + qd7paZhumx;
@@ -514,7 +514,7 @@ else
 {
 for (int j = 10; j >= 0; j--)
 {
-G4tslNE0 = qchvyzyF(G4tslNE0, 687760983, 171965163, gxCjvd6, 2088859883);
+G4tslNE0 = qchvyzyF(G4tslNE0, 687760983, (unsigned short)171965163, gxCjvd6, 2088859883);
 }
 }
 

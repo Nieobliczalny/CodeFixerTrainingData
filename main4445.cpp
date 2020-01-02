@@ -23,6 +23,7 @@ short int XH1zsMDrS5(char GcYv2qvY7,unsigned short int CYjJ,int x3JB);
 unsigned long	v5f72HayG();
 
 int main(void) {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
 	unsigned char	wWe1r033f	=	-840966738,	o2lZKEAp	=	-880852948,	kki5miMuh	=	-2091920773,	E4r_aUTvq	=	-1763205639,	QIX1e_Ce1	=	-823224499,	jNZF8t67	=	2127697645,	mdyJ	=	2145223077,	s2vDB	=	476371424,	a00Om	=	-2032515657,	YdHC9	=	-650367584,	OJ_5nkeq0	=	-443386201,	hB2AIE	=	105721625,	SG_Vp4oyg	=	-172721350,	S59iW	=	1577458774,	N0Ht	=	-517347534,	cb5YeqXm3	=	691982222,	dpBbo3mY	=	2012597979,	sZR6Z_r_Z	=	1104092312,	q8U19Jj	=	-1484856817;
 	int	cL_V3j9	=	0,	KQKEfd9	=	0,	Ze7868y	=	0;
 
@@ -104,7 +105,7 @@ break;
 }
 try
 {
-o2lZKEAp = Dw4hgHt(o2lZKEAp, 1686479267, OJ_5nkeq0);
+o2lZKEAp = Dw4hgHt(o2lZKEAp, (short)1686479267, OJ_5nkeq0);
 }
 catch (int& errorCode)
 {
@@ -135,7 +136,7 @@ kki5miMuh *= hB2AIE;
 }
 }
 
-std::cout << Dw4hgHt(1188885403, -770077555, S59iW) << Dw4hgHt(516093066, 990802419, 1528171051) << XH1zsMDrS5(E4r_aUTvq, -1133532496, -237561811) << "KM0m6AHL" << N0Ht << std::endl;
+std::cout << Dw4hgHt(1188885403, -770077555, S59iW) << Dw4hgHt(516093066, (short)990802419, 1528171051) << XH1zsMDrS5(E4r_aUTvq, -1133532496, -237561811) << "KM0m6AHL" << N0Ht << std::endl;
 if (sZR6Z_r_Z <= gPvtTkx)
 {
 for (int j = 0; j < 1; ++j)
@@ -283,7 +284,7 @@ try
 switch (SG_Vp4oyg)
 {
 case 0:
-mdyJ = XH1zsMDrS5(-2015313165, cL_V3j9, 521424175);
+mdyJ = XH1zsMDrS5((char)-2015313165, cL_V3j9, 521424175);
 break;
 case 1:
 KQKEfd9 = (int)abs(Ze7868y);
@@ -331,7 +332,7 @@ case 'd':
 N0Ht = OJ_5nkeq0 / 726881818;
 break;
 default:
-kki5miMuh = XH1zsMDrS5(-1333137426, -1898271774, mdyJ);
+kki5miMuh = XH1zsMDrS5(-1333137426, (unsigned short)-1898271774, mdyJ);
 break;
 }
 N0Ht *= cb5YeqXm3;

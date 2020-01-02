@@ -225,7 +225,7 @@ if (M_4S == JysHN_9f0n)
 {
 try
 {
-LK7n7 = (EshF2dQTTK >= JysHN_9f0n) ? -2103678269 : v2Ah(-516706063, 1165791621, -1585831246, B56v74pAsb, 800404274);
+LK7n7 = (EshF2dQTTK >= JysHN_9f0n) ? -2103678269 : v2Ah(-516706063, 1165791621, -1585831246, B56v74pAsb, (char)800404274);
 }
 catch (int& errorCode)
 {
@@ -258,7 +258,7 @@ else if ((ChU5 & 2141565473) || (EshF2dQTTK))
 {
 for (int k = 0; k < 4; k++)
 {
-Mh_5ZZZt = v2Ah(ChU5, -72155546, Zv3B47IGSO, -459577470, 901826097);
+Mh_5ZZZt = v2Ah(ChU5, -72155546, Zv3B47IGSO, -459577470, (char)901826097);
 }
 }
 else if (LK7n7 <= -1126372664)

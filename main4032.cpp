@@ -28,7 +28,7 @@ long	QwM8N2(unsigned long long	XyB0tKB_,unsigned int	BkUr9av)	{
 
 char    U3yo8x7Q()
 {
-    return    -1907715868;
+    return    (char)-1907715868;
 }
 
 int main(void) {
@@ -160,7 +160,7 @@ v0Ma = nQ1wK0();
 }
 hX9zz8qZ0K = shhUiX(110480370, ZbY2jZLg, j_528, yo5nRod3r, T2P3Eb1);
 
-std::cout << KEYg1k << fUD4j6 << shhUiX(hX9zz8qZ0K, ZbY2jZLg, 954642160, 1883978339, 829200943) << "pTkTIg6" << "Ogsgie" << std::endl;
+std::cout << KEYg1k << fUD4j6 << shhUiX(hX9zz8qZ0K, ZbY2jZLg, 954642160, (unsigned char)1883978339, 829200943) << "pTkTIg6" << "Ogsgie" << std::endl;
 
 std::cout << U3yo8x7Q() << "oMt5" << qRuRrk0 << "A_e5" << std::endl;
 {
@@ -171,7 +171,7 @@ if ((fUD4j6 > -1488978993) && (j_528 <= -662377393))
 {
 for (int k = 7; k >= 0; --k)
 {
-W1X9y = shhUiX(-318752197, -1089947288, 334462421, -1360925341, hQf2E);
+W1X9y = shhUiX(-318752197, -1089947288, 334462421, (unsigned char)-1360925341, hQf2E);
 }
 }
 i++;

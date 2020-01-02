@@ -227,7 +227,7 @@ case 'e':
 W0jIef43 = ao4W7vz0aS >> OSx3K67D6d;
 break;
 case 'f':
-lWhp8Q = V1M959F5(lWhp8Q, Fat4O, YII1, 1059770484, 1952094870);
+lWhp8Q = V1M959F5(lWhp8Q, Fat4O, YII1, 1059770484, (short)1952094870);
 break;
 case 'g':
 NAy0VVUE = D5U2 / 1524631606;
@@ -423,7 +423,7 @@ case 0:
 NiL_K = V1M959F5(NiL_K, Fat4O, d1M62, 991661535, -782655031);
 break;
 case 1:
-E6N5ygJVM = V1M959F5(-1115687526, 1934839151, -1097421686, -1112268923, -850079933) << l6xS;
+E6N5ygJVM = V1M959F5(-1115687526, 1934839151, -1097421686, -1112268923, (short)-850079933) << l6xS;
 break;
 case 2:
 rxBQ = x93kdM61(rxBQ);
@@ -523,6 +523,6 @@ short SF60Ta() {
 
 unsigned short	V1M959F5(unsigned long	j42A1e6,unsigned int	tjTg224,unsigned int	Ynwy229,unsigned long	IXp792,short int	k49i7TEDw)
 {
-	return	-1838246176;
+	return	(unsigned short)-1838246176;
 }
 

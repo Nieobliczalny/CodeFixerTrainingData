@@ -27,7 +27,7 @@ int main(void) {
  unsigned short int jtf_30F5XJ = 868905605;
     double    Dcy3    =    -1041187880;
  short W9lC = 0;
- short JkGd = -132733085;
+ short JkGd = (short)-132733085;
 	unsigned short	sIY_hmMAs	=	0;
  unsigned long zYoE31z = 598820157;
 	short	IaQVN	=	-221044419;
@@ -37,7 +37,7 @@ int main(void) {
  long double z9sXSp7 = 1528609391;
     long long    Ny6kB4    =    0;
  unsigned char Q7_0sx9 = 1179349244;
-	unsigned char	AQ6YzKCbQm	=	220896724;
+	unsigned char	AQ6YzKCbQm	=	(unsigned char)220896724;
 	unsigned short int	itTwOt9_2	=	704729011;
   short int  sC999p6  =  1260106444;
 	long double	p5EQ__Q899	=	-221747204;
@@ -47,7 +47,7 @@ int main(void) {
 	unsigned short int	Kq7u_70P7	=	-1615556073;
   unsigned long long  RKNZ_BF  =  0;
  unsigned short int m1bNiK5 = 231808904;
-    short    LkiPA2957t    =    952605087;
+    short    LkiPA2957t    =    (short)952605087;
 	long	fKjc	=	-1376990974;
     unsigned long long    Tq66R8iC    =    -315112000;
 
@@ -65,7 +65,7 @@ case 0:
 n98tD5__ = Q7_0sx9 * m1bNiK5;
 break;
 case 1:
-Eo8vW = BF90_99E4(-702291760, 1647178396, -1296137193);
+Eo8vW = BF90_99E4(-702291760, (short)1647178396, -1296137193);
 break;
 case 2:
 W9lC = rZqIjB5(W9lC, AQ6YzKCbQm, -1400396424);
@@ -115,7 +115,7 @@ std::cout << "X5jEqpI5zO" << yn9DUF() << std::endl;
 while (i >= 0);
 }
 
-if (rZqIjB5(75419349, 1835658476, zYoE31z) == 0)
+if (rZqIjB5(75419349, (unsigned char)1835658476, zYoE31z) == 0)
 {
 	fKjc = -1534654910 / rZqIjB5(75419349, 1835658476, zYoE31z);
 }
@@ -147,7 +147,7 @@ case 4:
 Dcy3 = (int)ceil(z9sXSp7);
 break;
 case 5:
-LkiPA2957t = rZqIjB5(-1273848012, V73wf1, jtf_30F5XJ) / JkGd;
+LkiPA2957t = rZqIjB5((char)-1273848012, V73wf1, jtf_30F5XJ) / JkGd;
 break;
 case 6:
 zYoE31z = yn9DUF();
@@ -384,7 +384,7 @@ i++;
 while (i < 8);
 }
 sC999p6 = (short int)(n98tD5__);
-std::cout << "t8wEcs" << "BOg9" << rZqIjB5(118113125, -1232881758, 1040524577) << std::endl;
+std::cout << "t8wEcs" << "BOg9" << rZqIjB5(118113125, (unsigned char)-1232881758, 1040524577) << std::endl;
 if (m1bNiK5 == 1322948864)
 {
 LXo3F7X = fKjc | m1bNiK5;

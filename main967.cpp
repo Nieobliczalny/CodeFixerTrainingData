@@ -20,7 +20,7 @@ int main() {
   double  n6NGsIp6;
   n6NGsIp6  =  1823398463;
  unsigned short G_W2F97X5i;
- G_W2F97X5i = 295571560;
+ G_W2F97X5i = (unsigned short)295571560;
   short int  m8bo;
   m8bo  =  1132303765;
   unsigned short int  nrbJg43e;
@@ -34,7 +34,7 @@ int main() {
     long long    GwJD9_zyE;
     GwJD9_zyE    =    -240766939;
     unsigned short    Mmqjn11Z;
-    Mmqjn11Z    =    387113953;
+    Mmqjn11Z    =    (unsigned short)387113953;
  unsigned long FuysL_F7_;
  FuysL_F7_ = -1159975800;
  unsigned long kOBau9_L;
@@ -48,7 +48,7 @@ int main() {
 	unsigned char	eqX_Uix9G8;
 	eqX_Uix9G8	=	-1661418902;
 	unsigned char	V4520N6q9;
-	V4520N6q9	=	-250969684;
+	V4520N6q9	=	(unsigned char)-250969684;
   unsigned short int  Ma1_N7;
   Ma1_N7  =  786722383;
  double NYQp02H;
@@ -60,7 +60,7 @@ int main() {
  short oJM5_fG;
  oJM5_fG = 786452425;
 	char	l5f7L;
-	l5f7L	=	-1724635424;
+	l5f7L	=	(char)-1724635424;
 	double	OG2v;
 	OG2v	=	1660199681;
 	unsigned char	S2Y016;
@@ -72,7 +72,7 @@ int main() {
  unsigned int dsPMd;
  dsPMd = -90566095;
   unsigned short  RuvU4D;
-  RuvU4D  =  1033989508;
+  RuvU4D  =  (unsigned short)1033989508;
     long long    lcML49E;
     lcML49E    =    2034056407;
     unsigned short int    I9GTOb_;
@@ -124,7 +124,7 @@ int main() {
   short  u_vJ7F5;
   u_vJ7F5  =  1673793894;
     unsigned short int    AnR4uQHX;
-    AnR4uQHX    =    -445103150;
+    AnR4uQHX    =    (unsigned short)-445103150;
  unsigned short S74QUVFE;
  S74QUVFE = -231352021;
 
@@ -200,7 +200,7 @@ V4TLh = a1B_KJ(m84O16LK2, oJM5_fG, yusnPMO, 1442128838);
 }
 else
 {
-V4TLh = a1B_KJ(-654162786, 1892499297, -390612524, 1385644943);
+V4TLh = a1B_KJ((short)-654162786, 1892499297, -390612524, 1385644943);
 }
 }
 }
@@ -296,7 +296,7 @@ case 0:
 V4TLh = a1B_KJ(-1602928032, sqG37sO, 1819765454, 1900831741);
 break;
 case 1:
-V4TLh = a1B_KJ(2077957139, oJM5_fG, Ke1tL8X4HT, UDbvMpj);
+V4TLh = a1B_KJ((short)2077957139, oJM5_fG, Ke1tL8X4HT, UDbvMpj);
 break;
 case 2:
 Ma1_N7 = n6NGsIp6 / V4TLh;
@@ -368,7 +368,7 @@ case 'd':
 jF9iT2i5l = (int)abs(x7Fj30);
 break;
 case 'e':
-S2Y016 = a1B_KJ(-1805926072, KN1_K2FU, YVrTt_9_9q, AnR4uQHX) - vJD8;
+S2Y016 = a1B_KJ((short)-1805926072, KN1_K2FU, YVrTt_9_9q, AnR4uQHX) - vJD8;
 break;
 case 'f':
 V4TLh = a1B_KJ(RuvU4D, 2107148756, 1827630046, -765415424);
@@ -380,7 +380,7 @@ case 'h':
 V4TLh = a1B_KJ(689422820, -717644517, -857941177, OG2v);
 break;
 case 'i':
-V4TLh = a1B_KJ(-1128087718, -790592713, 1521026688, 1057845142);
+V4TLh = a1B_KJ((short)-1128087718, -790592713, 1521026688, 1057845142);
 break;
 default:
 uMjgMj = (int)floor(ltG5w);

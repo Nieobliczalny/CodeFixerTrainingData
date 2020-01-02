@@ -14,6 +14,7 @@
 using namespace std;
 
 int main() {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
     unsigned short int    y346l    =    -954557361,    mf9Ip    =    1172443731,    AL0MPVXJH    =    -672513953,    C2vwZa3B    =    -899579079,    rC0_A    =    2019538880,    t3YnL    =    -1957724281,    N3dN    =    1833266063,    EQEaZJl5    =    -1408125033,    u76g_agUjK    =    601473199,    J1wiG0A    =    1811314301,    Egd4H    =    720870220,    P54S    =    1239871706,    pdB0x_T    =    -949346083,    xDOX    =    61756347,    C6_W    =    -1621853623,    ee6uG_y7T    =    1206754021,    qm_r    =    -670395552,    bamtpp498    =    -507112407,    i5F94    =    307178317,    ZF57ZED48L    =    458612591,    Kf4_    =    854834721,    i_95Mm3t8    =    1401005005,    NUO8xqFK    =    610954289,    zxmk_E8g    =    -1953803977,    OZOoZ8    =    55663638,    Fgmn    =    -816083434,    QJtTr_TOe    =    1212088639;
   unsigned short  yWzO22E  =  0,  iNwV4B4_8  =  0,  v_L0j0  =  0,  c_2hKQx5l  =  0,  oOpI0  =  0;
 
@@ -291,7 +292,7 @@ case 'a':
 P54S = u76g_agUjK / bamtpp498;
 break;
 case 'b':
-C6_W = (OZOoZ8 >= 787335446) ? -775288148 : 1787119962;
+C6_W = (OZOoZ8 >= 787335446) ? -775288148 : (unsigned short)1787119962;
 break;
 case 'c':
 Fgmn = NUO8xqFK % 1999158;

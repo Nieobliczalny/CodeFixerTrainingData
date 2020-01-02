@@ -30,7 +30,7 @@ int main(int argc, char** argv)
 	short int	Vdqn;
 	Vdqn	=	0;
 	short	HW_Lh;
-	HW_Lh	=	-706066904;
+	HW_Lh	=	(short)-706066904;
     unsigned short int    cu6Tiz54y6;
     cu6Tiz54y6    =    0;
 
@@ -41,7 +41,7 @@ while (i < 8)
 i++;
 try
 {
-cu6Tiz54y6 = v2IhR39(-706726575, sILthxY, 1807566534, 713163151);
+cu6Tiz54y6 = v2IhR39(-706726575, sILthxY, (short)1807566534, 713163151);
 }
 catch (int& errorCode)
 {
@@ -114,7 +114,7 @@ while (j < 2);
 }
 }
 
-std::cout << i4CtyprY9(440457702) << v2IhR39(1753134329, 40304654, -976510392, 306086002) << std::endl;
+std::cout << i4CtyprY9(440457702) << v2IhR39(1753134329, 40304654, (short)-976510392, 306086002) << std::endl;
 
 MRC3QwR_Dy = sILthxY * 417743035;
 for (int i = 9; i >= 0; --i)

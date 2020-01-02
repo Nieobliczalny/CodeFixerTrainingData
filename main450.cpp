@@ -15,7 +15,7 @@ unsigned long long	FYg7YE9s(unsigned long	f027,long long	VWd5,short	LQ_a,long lo
 int main() {
  unsigned short int x80EkRui, P3LrRv, OfzU, UItYPo9jH, yh6vDrq64I, h883, OwIoT1, l2PFDQ, o2xKNZ, B5KEH1h07k, zkwM;
  x80EkRui = -1833955745;
- P3LrRv = -1478556812;
+ P3LrRv = (unsigned short)-1478556812;
  OfzU = -1303097544;
  UItYPo9jH = 2085721000;
  yh6vDrq64I = -1101151541;
@@ -38,7 +38,7 @@ int k = 1;
 while (k >= 0)
 {
 --k;
-AM78S5L = FYg7YE9s(-1411482708, h883, 1780042046, 1500373394, -625145590);
+AM78S5L = FYg7YE9s(-1411482708, h883, 1780042046, 1500373394, (short)-625145590);
 }
 }
 }
@@ -60,7 +60,7 @@ else
 {
 if (l2PFDQ & 50495895)
 {
-iWe4stjM = FYg7YE9s(l2PFDQ, -1545172088, 1549404056, OwIoT1, -1707707591);
+iWe4stjM = FYg7YE9s(l2PFDQ, -1545172088, 1549404056, OwIoT1, (short)-1707707591);
 }
 else
 {
@@ -121,7 +121,7 @@ if (iWe4stjM == 0)
 {
 	h883 = zkwM / iWe4stjM;
 }
-std::cout << OfzU << FYg7YE9s(P3LrRv, 1043339243, OwIoT1, -923313225, 1981489814) << FYg7YE9s(P3LrRv, AM78S5L, OwIoT1, B5KEH1h07k, x80EkRui) << std::endl;
+std::cout << OfzU << FYg7YE9s(P3LrRv, 1043339243, OwIoT1, -923313225, (short)1981489814) << FYg7YE9s(P3LrRv, AM78S5L, OwIoT1, B5KEH1h07k, x80EkRui) << std::endl;
 if (P3LrRv != UItYPo9jH)
 {
 AM78S5L = FYg7YE9s(591894669, x80EkRui, P3LrRv, l2PFDQ, 2137656320);
@@ -131,7 +131,7 @@ if (h883 == -1804029183)
 switch (x80EkRui)
 {
 case 0:
-o2xKNZ = (h883 != -1756123196) ? -77550984 : 1520188523;
+o2xKNZ = (h883 != -1756123196) ? (unsigned short)-77550984 : 1520188523;
 break;
 }
 }
@@ -143,7 +143,7 @@ if (B5KEH1h07k <= iWe4stjM)
 {
 if (OfzU != -708963584)
 {
-AM78S5L = FYg7YE9s(P3LrRv, -513822414, -1185215982, 1910600500, o2xKNZ);
+AM78S5L = FYg7YE9s(P3LrRv, -513822414, (short)-1185215982, 1910600500, o2xKNZ);
 }
 else
 {
@@ -173,7 +173,7 @@ AM78S5L = FYg7YE9s(OwIoT1, -870481680, 966945105, o2xKNZ, h883);
 }
 else if (B5KEH1h07k <= h883)
 {
-yh6vDrq64I = FYg7YE9s(OwIoT1, B5KEH1h07k, -1367823137, o2xKNZ, -753493685) ^ o2xKNZ;
+yh6vDrq64I = FYg7YE9s(OwIoT1, B5KEH1h07k, (short)-1367823137, o2xKNZ, -753493685) ^ o2xKNZ;
 }
 else
 {
@@ -208,7 +208,7 @@ AM78S5L = (unsigned int)(yh6vDrq64I * AM78S5L);
 
 if (P3LrRv != 607009747)
 {
-std::cout << FYg7YE9s(zkwM, OwIoT1, 1703086589, x80EkRui, -1820887908) << OfzU << std::endl;
+std::cout << FYg7YE9s(zkwM, OwIoT1, 1703086589, x80EkRui, (short)-1820887908) << OfzU << std::endl;
 }
 
 return 0;

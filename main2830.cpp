@@ -31,7 +31,7 @@ int main()
   Ei_i  =  0;
 
 zeM8M_yL3 = (int)abs(Nd9V);
-bUkb_M = O94G6ixP4S(bUkb_M, -805429402, -1912439320, Q_a_Tzvv);
+bUkb_M = O94G6ixP4S(bUkb_M, -805429402, (unsigned short)-1912439320, Q_a_Tzvv);
 
 for (int i = 10; i >= 0; i--)
 {
@@ -43,7 +43,7 @@ i8UjNu = y7ePc / 1960317104;
 std::cout << y7ePc << d9437 << std::endl;
 std::cout << "h620U" << O94G6ixP4S(844051953, K79At4jHz, MVsac, Q_a_Tzvv) << W1gh_5(bUkb_M, K79At4jHz) << d9437 << "s_4P" << std::endl;
 
-c40sj4 = W1gh_5(-1369903354, K79At4jHz) / yTy1yT;
+c40sj4 = W1gh_5((short)-1369903354, K79At4jHz) / yTy1yT;
 for (int i = 2; i >= 0; i--)
 {
 K79At4jHz = (int)abs(bUkb_M);
@@ -77,7 +77,7 @@ switch (MVsac)
 {
 case 'a':
 case 'A':
-Nd9V = O94G6ixP4S(-2027322869, 808490058, 2090763184, -542071275);
+Nd9V = O94G6ixP4S((char)-2027322869, 808490058, 2090763184, -542071275);
 break;
 }
 
@@ -109,7 +109,7 @@ else if (K79At4jHz & Vy7p9u)
 switch (bUkb_M)
 {
 case 0:
-zeM8M_yL3 = O94G6ixP4S(-1538898773, 194671198, -264380130, 185017731);
+zeM8M_yL3 = O94G6ixP4S(-1538898773, (short)194671198, -264380130, 185017731);
 break;
 case 1:
 Nd9V = (int)abs(y7ePc);
@@ -175,7 +175,7 @@ if (zeM8M_yL3)
 {
 if (K79At4jHz == Vy7p9u)
 {
-Nd9V = O94G6ixP4S(-186093263, 498700672, 1010527649, -1336429992);
+Nd9V = O94G6ixP4S(-186093263, (short)498700672, 1010527649, -1336429992);
 }
 }
 else if ((K79At4jHz < Ei_i) || (Q_a_Tzvv & Vy7p9u))
@@ -204,7 +204,7 @@ Nd9V -= 647624360;
 }
 else if (c40sj4 < 1504869654)
 {
-yTy1yT = W1gh_5(-586897988, bUkb_M);
+yTy1yT = W1gh_5((short)-586897988, bUkb_M);
 }
 else
 {
@@ -231,7 +231,7 @@ case 2:
 Ei_i = W1gh_5(-948280600, Ei_i);
 break;
 case 3:
-i8UjNu = O94G6ixP4S(1043059696, i8UjNu, K79At4jHz, bUkb_M);
+i8UjNu = O94G6ixP4S((char)1043059696, i8UjNu, K79At4jHz, bUkb_M);
 break;
 case 4:
 Nd9V = (int)abs(bUkb_M);
@@ -285,7 +285,7 @@ Nd9V = (long)(Ei_i + (-1413357140));
 while (i >= 0);
 }
 
-y7ePc = O94G6ixP4S(532291802, 166986499, zeM8M_yL3, 1015224440);
+y7ePc = O94G6ixP4S(532291802, (short)166986499, zeM8M_yL3, 1015224440);
 y7ePc++;
 
 std::cout << "q1B77urH" << "bNcQU0" << std::endl;
@@ -306,7 +306,7 @@ catch (int& errorCode)
 {
 zeM8M_yL3 = MVsac ^ K79At4jHz;
 }
-Q_a_Tzvv = W1gh_5(1926319449, 203307294);
+Q_a_Tzvv = W1gh_5(1926319449, (unsigned short)203307294);
 return 0;
 }
 

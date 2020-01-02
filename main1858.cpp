@@ -44,7 +44,7 @@ int main() {
   long long  z313;
   z313  =  1580462295;
   unsigned short  SIHk73UC3;
-  SIHk73UC3  =  1626114301;
+  SIHk73UC3  =  (unsigned short)1626114301;
     double    RR__fxN;
     RR__fxN    =    -2033650802;
     short    sF4w;
@@ -56,7 +56,7 @@ int main() {
     short    p4h24A;
     p4h24A    =    -168419979;
   char  UwXTB1r;
-  UwXTB1r  =  -1198620005;
+  UwXTB1r  =  (char)-1198620005;
  unsigned short int V5FtyO;
  V5FtyO = 1555988405;
  long double JdAS6r7;
@@ -72,7 +72,7 @@ int main() {
 	char	CaK__7S94;
 	CaK__7S94	=	2020673558;
  short int Z69qN;
- Z69qN = 535914153;
+ Z69qN = (short)535914153;
   unsigned long long  N_6eoWqIn;
   N_6eoWqIn  =  -207589314;
  double zN6_3;
@@ -98,7 +98,7 @@ int main() {
     unsigned long long    Mi1T7pjZEK;
     Mi1T7pjZEK    =    -2143680360;
 	char	ES3kN8D;
-	ES3kN8D	=	-1291522295;
+	ES3kN8D	=	(char)-1291522295;
 	long long	jz8D9HA;
 	jz8D9HA	=	725396321;
   float  a47X1;
@@ -124,7 +124,7 @@ int main() {
   char  f_664l_LNm;
   f_664l_LNm  =  1984443034;
 	unsigned short	uPN4HcD;
-	uPN4HcD	=	539800862;
+	uPN4HcD	=	(unsigned short)539800862;
 	long long	dXvLY;
 	dXvLY	=	333474925;
 	unsigned short int	K4T0E;
@@ -142,7 +142,7 @@ int main() {
 	short	TP5fS2;
 	TP5fS2	=	0;
 	short	t71JTFE0J6;
-	t71JTFE0J6	=	-816591870;
+	t71JTFE0J6	=	(short)-816591870;
  unsigned short int b76j3g2;
  b76j3g2 = -895726961;
  float Av8226U8Y;
@@ -168,7 +168,7 @@ int main() {
 	char	D1_NRH;
 	D1_NRH	=	461432659;
 	unsigned char	WOWkJV;
-	WOWkJV	=	544522373;
+	WOWkJV	=	(unsigned char)544522373;
   unsigned int  x2tY7ELA;
   x2tY7ELA  =  584550701;
  long long pP6uq7Z3;
@@ -180,7 +180,7 @@ int main() {
     short    oC369x0xF;
     oC369x0xF    =    -322145380;
  unsigned short int cPXcC;
- cPXcC = 1197183254;
+ cPXcC = (unsigned short)1197183254;
     float    QemQ;
     QemQ    =    -1353940657;
  unsigned short rjc2IpjW6;
@@ -196,7 +196,7 @@ int main() {
  long pV33;
  pV33 = -345948760;
   short int  LjDcTI139k;
-  LjDcTI139k  =  -1451999314;
+  LjDcTI139k  =  (short)-1451999314;
  double m6vfRU1L;
  m6vfRU1L = 984483882;
     unsigned char    A7i_212i9_;
@@ -208,7 +208,7 @@ int main() {
  unsigned long peH4;
  peH4 = 1299804907;
     short int    mzk4Vu3;
-    mzk4Vu3    =    1681134730;
+    mzk4Vu3    =    (short)1681134730;
 	unsigned char	H_HZr8PQ;
 	H_HZr8PQ	=	-350719783;
  float x2xaeyZZ8;
@@ -263,7 +263,7 @@ x2tY7ELA = MsriwV1_Qi(x2tY7ELA, mzk4Vu3, CsOT1, -1512545779);
 }
 else
 {
-H_HZr8PQ = wwpBuS(H_HZr8PQ, 67324693, 1885701850, -376749119);
+H_HZr8PQ = wwpBuS(H_HZr8PQ, 67324693, (unsigned short)1885701850, -376749119);
 }
 
 if (x2tY7ELA >= -703600703)
@@ -274,7 +274,7 @@ do
 {
 try
 {
-fa0_2Y = MsriwV1_Qi(-2052297008, -1946543990, sF4w, -1394349602);
+fa0_2Y = MsriwV1_Qi(-2052297008, (short)-1946543990, sF4w, -1394349602);
 }
 catch (int& errorCode)
 {
@@ -484,7 +484,7 @@ break;
 int i = 0;
 do
 {
-y9pZ = MsriwV1_Qi(-113802653, 495299439, -811313900, -1107184413);
+y9pZ = MsriwV1_Qi(-113802653, (short)495299439, -811313900, -1107184413);
 ++i;
 }
 while (i < 8);
@@ -526,7 +526,7 @@ while (j < 10);
 }
 else
 {
-std::cout << yRKWry(-519584886, ZioUl, 1286158204) << MsriwV1_Qi(-1840279561, 503305686, -1300003289, EKQW1) << "aCzD6Qo1g" << Utk3Xu0tP << std::endl;
+std::cout << yRKWry(-519584886, ZioUl, (unsigned char)1286158204) << MsriwV1_Qi(-1840279561, 503305686, -1300003289, EKQW1) << "aCzD6Qo1g" << Utk3Xu0tP << std::endl;
 }
 EKQW1 = k7VKjGfA20 % HO8_PN;
 
@@ -666,7 +666,7 @@ while (k < 2);
 
 if ((JdAS6r7 == bg_8) && (ES3kN8D & rjc2IpjW6))
 {
-CaK__7S94 = wwpBuS(352777392, 375303170, 677424570, 372971119);
+CaK__7S94 = wwpBuS(352777392, (short)375303170, 677424570, 372971119);
 }
 else if ((V5FtyO >= -915179753) || (fUmJ))
 {
@@ -797,7 +797,7 @@ f_664l_LNm = MsriwV1_Qi(f_664l_LNm, -255941714, -1956444047, x2tY7ELA);
 switch (rjc2IpjW6)
 {
 case 0:
-dXvLY = MsriwV1_Qi(1934005316, -627648547, 1260191155, -59858293);
+dXvLY = MsriwV1_Qi((unsigned char)1934005316, -627648547, 1260191155, -59858293);
 break;
 case 1:
 q5IDXCB7 = wwpBuS(dXvLY, 1989937903, -235366897, x2tY7ELA) ^ XcFdXBRY;
@@ -809,7 +809,7 @@ case 3:
 RR__fxN = WX369FZo & f_664l_LNm;
 break;
 case 4:
-Rf2f3pE95 = yRKWry(Rf2f3pE95, zN6_3, -809723142);
+Rf2f3pE95 = yRKWry(Rf2f3pE95, zN6_3, (unsigned char)-809723142);
 break;
 case 5:
 K2FL37I8E <<= 1611552960;

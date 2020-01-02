@@ -241,7 +241,7 @@ FM2DqW = mS5Y3q(-1905181417);
 break;
 case 'f':
 case 'F':
-FM2DqW = mS5Y3q(-1558783271);
+FM2DqW = mS5Y3q((unsigned short)-1558783271);
 break;
 case 'g':
 case 'G':
@@ -438,7 +438,7 @@ aTYZ9FC = s6ak7VH(389086314);
 }
 if (mS5Y3q(1947338562) == 0)
 {
-	ykvD = 51242911 / mS5Y3q(1947338562);
+	ykvD = 51242911 / mS5Y3q((unsigned short)1947338562);
 }
 
 pFAXHSH70Y = ry6q(pFAXHSH70Y);
@@ -451,7 +451,7 @@ short	WnDH596_K_(unsigned long long	o0_Ks)	{
 
 unsigned char ry6q(long long I6_ZADL)
 {
- return 52706160;
+ return (unsigned char)52706160;
 }
 
 long long s6ak7VH(unsigned long O_Xr53) {

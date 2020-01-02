@@ -13,7 +13,7 @@ using namespace std;
 int main()
 {
 	short	l61P	=	1239010872;
-    unsigned short int    Xe7QhP3q    =    -1529339547;
+    unsigned short int    Xe7QhP3q    =    (unsigned short)-1529339547;
  double SFbm8f5Gi = -726120157;
 	long long	uCvnVV	=	-374170968;
   double  xSECa_m  =  -1686536461;
@@ -25,7 +25,7 @@ int main()
     unsigned char    KONf    =    -1531059792;
  long double Fkw76aQ = -817918835;
 	unsigned long long	TnRYYw0LS_	=	8162889;
-  unsigned short int  DaJ47477  =  1349730715;
+  unsigned short int  DaJ47477  =  (unsigned short)1349730715;
   long long  BT1yf  =  -59425929;
     int    CmUw    =    280944628;
   unsigned short int  OS3OZ  =  1839778339;
@@ -35,7 +35,7 @@ int main()
  unsigned short int rDd1b79g = -1961981267;
 	short	a26eo2snc	=	-519501111;
 	char	Q3n32S	=	-1880014225;
- short Qp4RiJf = 610898140;
+ short Qp4RiJf = (short)610898140;
     long double    J8E2eHr    =    1295669040;
 	unsigned char	iuu9Gb	=	-1109449699;
  short int Suy2 = -109532675;
@@ -47,7 +47,7 @@ int main()
  int c2L7e2hY_d = -1808296884;
   char  dqAoY  =  -786626650;
  int y9VP84l = -1316995479;
-  unsigned char  I4Mbx8MdU  =  -936513617;
+  unsigned char  I4Mbx8MdU  =  (unsigned char)-936513617;
     unsigned char    x2ZF    =    -458125224;
 	long double	W2IA	=	868420684;
 	long long	n8Z8	=	0;
@@ -58,7 +58,7 @@ int main()
     unsigned long    Q4y4w04r    =    0;
   unsigned short  WL2Gd  =  2012864369;
   unsigned int  N1PhQG83  =  332662825;
-  unsigned short int  wEz_7uRn  =  -431798794;
+  unsigned short int  wEz_7uRn  =  (unsigned short)-431798794;
   double  w5_IhVy  =  2114613293;
  long long X1dLa = -51036089;
     unsigned long long    Z_N83    =    -538240976;
@@ -69,7 +69,7 @@ int main()
   char  Y_dP25JWBU  =  -11473021;
 	unsigned short int	lsVbuzA_t	=	577056798;
     int    rY042_j_    =    -56483740;
- short int AMRuy8 = 917232690;
+ short int AMRuy8 = (short)917232690;
  long double Zi3iCRyZ5v = 1549479026;
   double  w_I_kn0_  =  2046295559;
     long    gRcOU7R3l    =    -642561935;
@@ -80,7 +80,7 @@ int main()
  long long bc1ZJ69_0x = 889003155;
     short int    b0s801    =    1673393273;
   long long  E11j1Vog  =  615740898;
-	short	qWE74DPL0	=	1549424344;
+	short	qWE74DPL0	=	(short)1549424344;
     long double    lUkFO    =    116021572;
  double fl7_G = 38234714;
 

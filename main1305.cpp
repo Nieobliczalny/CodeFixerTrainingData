@@ -149,7 +149,7 @@ case 'E':
 r4WLt = UrFE8R_7(r4WLt);
 break;
 default:
-KTZy1 = x9bd__l(-1589732696, c2BQ, -1748867670);
+KTZy1 = x9bd__l(-1589732696, c2BQ, (unsigned char)-1748867670);
 break;
 }
 

@@ -19,7 +19,7 @@ short int uHn9R4ik(unsigned char htgi34R_d,unsigned int r9hs3_gF,unsigned short 
 }
 
 short    N9g8(unsigned long long    S60mAft,unsigned long    Apwzd3_r19,long long    CDKGp82a,short    o6cWl6L)    {
-    return    -944469528;
+    return    (short)-944469528;
 }
 
 int main(void) {
@@ -31,7 +31,7 @@ int main(void) {
 	char	d1YFJqp	=	-806789529;
   long double  g8XOs8ZnhG  =  1428373447;
     float    Kp16H    =    437664394;
-  short  Q5qW  =  52069237;
+  short  Q5qW  =  (short)52069237;
     short int    z4kr    =    1061088334;
  long long eLwrL81 = 663027338;
   long long  k_T2xQb5  =  -681807252;
@@ -41,7 +41,7 @@ int main(void) {
  unsigned char Im_nn93kV = -1468667991;
  unsigned int e_69 = -1192046206;
 	unsigned long	C7_8_	=	377455842;
- unsigned char yY6pK6 = 815811385;
+ unsigned char yY6pK6 = (unsigned char)815811385;
   unsigned int  f1qPx7r  =  230374930;
  short A2xek1D521 = 0;
  short int kG0I3 = -809772351;
@@ -51,7 +51,7 @@ int main(void) {
     long double    PFg2CWxd6    =    1654077915;
  unsigned short wE11Vl = -2082214600;
   char  J2rP8  =  736687497;
-    unsigned short int    jcT7j5    =    -1244256312;
+    unsigned short int    jcT7j5    =    (unsigned short)-1244256312;
 
 k_T2xQb5 = uHn9R4ik(eEy10305, e_69, C7_8_, -96591491) / Y8kK(eEy10305, -1389134032, 516697274);
 A2xek1D521 = Y8kK(eLwrL81, -144852483, wE11Vl);
@@ -167,7 +167,7 @@ try
 {
 for (int k = 0; k < 3; ++k)
 {
-Q5qW = uHn9R4ik(323404086, eEy10305, wE11Vl, -1263394330) / 1736503041;
+Q5qW = uHn9R4ik(323404086, eEy10305, wE11Vl, (char)-1263394330) / 1736503041;
 }
 }
 catch (int& errorCode)
@@ -209,7 +209,7 @@ eLwrL81 >>= 1248734226;
 }
 else if (Y_00YbEFxQ <= 1380855593)
 {
-pdUl58R0 = uHn9R4ik(pdUl58R0, 537260595, 453189591, k_T2xQb5);
+pdUl58R0 = uHn9R4ik(pdUl58R0, 537260595, (unsigned short)453189591, k_T2xQb5);
 }
 else if ((g8XOs8ZnhG == -2084393777) && ((P0AZMQ9 == e_69) && (eEy10305 != 341009473)))
 {
@@ -246,7 +246,7 @@ else
 int j = 0;
 while (j < 7)
 {
-cout << "m37__9c_Kh" << Y8kK(-1478528831, 433546122, 349250656) << "YgJ51Lx1es" << uHn9R4ik(P0AZMQ9, J2rP8, 478680384, -914375428) << endl;
+cout << "m37__9c_Kh" << Y8kK(-1478528831, 433546122, 349250656) << "YgJ51Lx1es" << uHn9R4ik(P0AZMQ9, J2rP8, (unsigned short)478680384, -914375428) << endl;
 j++;
 }
 }

@@ -233,7 +233,7 @@ case 'h':
 RPNri = CFP2p();
 break;
 case 'i':
-V6jwV = (vmy11_Z & RPNri) ? 856136700 : -1537576976;
+V6jwV = (vmy11_Z & RPNri) ? 856136700 : (unsigned char)-1537576976;
 break;
 case 'j':
 V6jwV = gq22(1938001418);
@@ -374,7 +374,7 @@ case 4:
 V6jwV = gq22(-1904840087);
 break;
 case 5:
-V6jwV = gq22(1288167252);
+V6jwV = gq22((unsigned short)1288167252);
 break;
 case 6:
 V6jwV |= 891419324;
@@ -386,7 +386,7 @@ case 8:
 V6jwV = gq22(-793890498) >> 1466005871;
 break;
 case 9:
-V6jwV = gq22(-25076237);
+V6jwV = gq22((unsigned short)-25076237);
 break;
 }
 {
@@ -519,7 +519,7 @@ std::cout << "LuBh2" << "j4lnme" << std::endl;
 }
 
 vmy11_Z = (short int)(V6jwV * vmy11_Z);
-V6jwV = gq22(506632819);
+V6jwV = gq22((unsigned short)506632819);
 
 return 0;
 }

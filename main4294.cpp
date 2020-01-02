@@ -139,7 +139,7 @@ case 1:
 IFwoWK = ViMU07BHd7(1352003684);
 break;
 case 2:
-c_blx = dFfl(-404278166);
+c_blx = dFfl((short)-404278166);
 break;
 }
 for (int i = 0; i < 9; ++i)
@@ -283,7 +283,7 @@ Zl284pAV55 = dFfl(-1089567762);
 }
 else if (i_2gPEy >= -205082812)
 {
-mBLO716 = ViMU07BHd7(1341519454);
+mBLO716 = ViMU07BHd7((unsigned short)1341519454);
 }
 else
 {

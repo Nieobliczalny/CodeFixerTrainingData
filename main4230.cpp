@@ -13,6 +13,7 @@
 using namespace std;
 
 int main() {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
   short int  m6U27U0bj2  =  1883126103,  InpqcLTP  =  -826101804,  s1d2  =  -1639328094,  HqVj  =  1640102907,  ylH7Rm  =  648934663,  YY63Z6Zko  =  -249190038,  vpu2w72aui  =  -1635151815,  Pay0  =  963670809;
 	short int	Ofrazi	=	0,	hKSOd	=	0,	a561_8r	=	0,	TZrI	=	0;
 
@@ -92,7 +93,7 @@ int k = 5;
 while (k >= 0)
 {
 --k;
-m6U27U0bj2 = (hKSOd >= B1vwwz054) ? -1402403909 : -299704320;
+m6U27U0bj2 = (hKSOd >= B1vwwz054) ? -1402403909 : (short)-299704320;
 }
 }
 }

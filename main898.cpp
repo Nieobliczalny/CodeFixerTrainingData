@@ -598,7 +598,7 @@ break;
 }
 else
 {
-zN3n_z3 = ECteaKBSV(-1170903661);
+zN3n_z3 = ECteaKBSV((unsigned char)-1170903661);
 }
 }
 }
@@ -680,6 +680,6 @@ short int	Dxe_a0sj()	{
 
 unsigned char	ECteaKBSV(unsigned char	w_i0SgWh)
 {
-	return	-401283513;
+	return	(unsigned char)-401283513;
 }
 

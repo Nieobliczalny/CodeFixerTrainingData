@@ -37,7 +37,7 @@ int main(int argc, char** argv)
     long double    gPdZ_Vu    =    1526955596;
     long    M7tce2    =    470165313;
   short  Mzus  =  -1411390088;
-    unsigned short int    gSn3    =    2035327620;
+    unsigned short int    gSn3    =    (unsigned short)2035327620;
   unsigned int  Q7OioxBbj  =  0;
   unsigned char  Ex_KW9kQ  =  -1543399977;
 	unsigned short	Iq1SB61	=	650351632;
@@ -62,7 +62,7 @@ Sa52 = (int)(Ex_KW9kQ);
 A035T = G34c3I % 1550032361;
 if ((G34c3I < 678826127) && (FN81g1gb1s != -1067950594))
 {
-cout << ApWTyq(Z4_kT6u7c, -1768006657, 722671386) << RR8l0(2053579656, -918125780, 198560087, -697473617, -2009922039) << "Bft8RT" << endl;
+cout << ApWTyq(Z4_kT6u7c, -1768006657, 722671386) << RR8l0((short)2053579656, -918125780, 198560087, -697473617, -2009922039) << "Bft8RT" << endl;
 }
 else if (Mzus <= Ex_KW9kQ)
 {
@@ -123,7 +123,7 @@ AIx4C = ApWTyq(M7tce2, Iq1SB61, -1266156597) & 2096360757;
 break;
 case 'e':
 case 'E':
-x7cA4n6 = RR8l0(-1043885067, 85598437, AIx4C, 1469560524, ZjwM);
+x7cA4n6 = RR8l0((short)-1043885067, 85598437, AIx4C, 1469560524, ZjwM);
 break;
 case 'f':
 case 'F':
@@ -157,7 +157,7 @@ if (((Mzus != Iq1SB61) || (FN81g1gb1s >= gSn3)) || (T2N2 <= -1134676860))
 switch (M7tce2)
 {
 case 'a':
-FN81g1gb1s = (s286TTg != 232044302) ? YdV2afqI7(Mzus, -1185534143, AIx4C) : YdV2afqI7(-2063643905, -1061004891, 819923058);
+FN81g1gb1s = (s286TTg != 232044302) ? YdV2afqI7(Mzus, -1185534143, AIx4C) : YdV2afqI7(-2063643905, (short)-1061004891, 819923058);
 break;
 }
 }
@@ -168,7 +168,7 @@ int k = 0;
 while (k < 1)
 {
 k++;
-A035T = RR8l0(395435830, T2N2, RzY0TY, gSn3, 1552801164);
+A035T = RR8l0(395435830, T2N2, RzY0TY, gSn3, (unsigned short)1552801164);
 }
 }
 }
@@ -324,7 +324,7 @@ try
 {
 for (int k = 2; k >= 0; --k)
 {
-x7cA4n6 = RR8l0(-111218038, 889398488, y11wQ, -433950187, Sa52);
+x7cA4n6 = RR8l0(-111218038, (char)889398488, y11wQ, -433950187, Sa52);
 }
 }
 catch (int& errorCode)
@@ -341,7 +341,7 @@ Mzus = ApWTyq(93831939, -746517828, gPdZ_Vu);
 switch (T2N2)
 {
 case 'a':
-A035T = RR8l0(Q7OioxBbj, -2043904133, 2085940823, -2144568172, k3AU);
+A035T = RR8l0(Q7OioxBbj, -2043904133, (short)2085940823, -2144568172, k3AU);
 break;
 case 'b':
 k3AU ^= 610612351;

@@ -20,6 +20,7 @@ short    B_bXI(long    lQ_GJFmA,short    fsdq1GN8n);
 
 int main(int argc, char** argv)
 {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
     char    XSv0    =    -1614342458,    IUXbj2nUw1    =    1845312707,    DcoZzoo67_    =    1153193068,    Q7u21H    =    718438074,    t3WQ2_    =    -1256917110,    yjW_du    =    683826911,    YTqykNb    =    119073074,    koWc    =    -184274502,    BS_Mj0rL    =    -1444475570,    D3xse    =    441692264,    lxxjn    =    -1370080603,    OhU5m5Id_R    =    1924796816,    ekZR1H40    =    353175581,    wqKX2j8    =    -1348128676,    x__M_3    =    -2016158551,    Kq6O    =    -1963639706,    cFY6g6PC    =    -432613548,    tHo34lXV    =    1934140059,    tqBeCT    =    958354027,    Qcg95M9q6    =    649520969,    oD3Acm    =    -53332702,    cetN2    =    -1631570544,    A9QXS8    =    -260112839,    zgItfE3g_N    =    337182897,    c1_GeppF5    =    -90576444,    sV6V7jaSzr    =    1953311585,    YNc2VmLzM    =    1866321302,    sb8lrB    =    922255330,    XZGTgFtT_    =    178860865,    AvTn_1b    =    -618596368,    ePk73_L3Zg    =    2053553606,    nd5kw2    =    -426407379,    R8rLf2FaY_    =    -419916283,    pVf0__    =    927057415;
  int zUgx7m = 0, dsHNDgo0X = 0, r0968 = 0, Na9ud6Lz = 0, K5Ef0j54 = 0;
 
@@ -38,7 +39,7 @@ Q7u21H = ePk73_L3Zg & D3xse;
 std::cout << sb8lrB << cFY6g6PC << OhU5m5Id_R << "n90cn5H2LW" << iRHq(K5Ef0j54) << std::endl;
 K5Ef0j54 = B_bXI(-1058459950, -385186040);
 
-R8rLf2FaY_ = K60c6(R8rLf2FaY_, 2017214932, 544031618, tqBeCT, koWc);
+R8rLf2FaY_ = K60c6(R8rLf2FaY_, (unsigned short)2017214932, 544031618, tqBeCT, koWc);
 
 if (IUXbj2nUw1 > -1009765297)
 {
@@ -142,7 +143,7 @@ case 'b':
 YNc2VmLzM = (int)abs(IUXbj2nUw1);
 break;
 case 'c':
-Na9ud6Lz = B_bXI(-468014006, 319970041);
+Na9ud6Lz = B_bXI(-468014006, (short)319970041);
 break;
 case 'd':
 XSv0 = (int)abs(Q7u21H);
@@ -267,7 +268,7 @@ sb8lrB = (int)abs(sV6V7jaSzr);
 }
 }
 
-std::cout << A1x7HeuRji(XZGTgFtT_, 504892510, pVf0__) << K60c6(1269805644, BS_Mj0rL, 501968770, 109852618, -1475975304) << B_bXI(775847790, BS_Mj0rL) << "YypGn" << "DklK" << std::endl;
+std::cout << A1x7HeuRji(XZGTgFtT_, 504892510, pVf0__) << K60c6(1269805644, BS_Mj0rL, (unsigned short)501968770, 109852618, -1475975304) << B_bXI(775847790, BS_Mj0rL) << "YypGn" << "DklK" << std::endl;
 lxxjn = (int)abs(A9QXS8);
 pVf0__ &= YTqykNb;
 switch (IUXbj2nUw1)
@@ -299,7 +300,7 @@ while (j >= 0);
 }
 else if (((ePk73_L3Zg > 2109016290) || (A9QXS8 != 2080415089)) || ((c1_GeppF5 >= lxxjn) || (IUXbj2nUw1 > 73041464)))
 {
-zUgx7m = B_bXI(-1686644696, -2087818636);
+zUgx7m = B_bXI(-1686644696, (short)-2087818636);
 }
 else if ((nd5kw2) && ((sb8lrB < oD3Acm) && (sb8lrB <= zgItfE3g_N)))
 {
@@ -337,7 +338,7 @@ try
 {
 if (x__M_3)
 {
-BS_Mj0rL = K60c6(BS_Mj0rL, 224304772, -1088341070, nd5kw2, wqKX2j8);
+BS_Mj0rL = K60c6(BS_Mj0rL, 224304772, (unsigned short)-1088341070, nd5kw2, wqKX2j8);
 }
 else
 {
@@ -368,7 +369,7 @@ unsigned int A1x7HeuRji(unsigned char QWC4gc,unsigned long long B5sBv2R0,unsigne
 }
 
 short int    GEJU9f(unsigned short int    Je7LKfq_)    {
-    return    1745832968;
+    return    (short)1745832968;
 }
 
 short int  iRHq(unsigned char  M0kx)  {

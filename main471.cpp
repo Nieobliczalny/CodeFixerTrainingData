@@ -14,7 +14,7 @@ unsigned char Oke31BD(char stM3M99_lU,long a08Y8UK1,long long Pu2hOz4,unsigned c
 }
 
 unsigned short  GpVEo(short  h69z7g6X,int  T9eD54s,unsigned int  nx_kA36TW,char  GCFXkbb6,unsigned int  gVuj110KDY)  {
-  return  732893993;
+  return  (unsigned short)732893993;
 }
 
 unsigned char vsARo6c_YT() {
@@ -139,7 +139,7 @@ while (j < 5)
 int k = 0;
 do
 {
-CPDI1 = Oke31BD(CPDI1, WxLflcf, 35092788, 1142728343, -458572163);
+CPDI1 = Oke31BD(CPDI1, WxLflcf, 35092788, 1142728343, (unsigned short)-458572163);
 ++k;
 }
 while (k < 8);
@@ -171,7 +171,7 @@ else
 {
 cout << "M_1x" << x13D() << endl;
 }
-Dr0c8S90C = Oke31BD(-1902180166, CUsP, -842450429, 636057845, wHh0J7I);
+Dr0c8S90C = Oke31BD(-1902180166, CUsP, -842450429, (unsigned char)636057845, wHh0J7I);
 
 switch (FuD1bdN3J)
 {

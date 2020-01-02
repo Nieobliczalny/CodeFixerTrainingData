@@ -38,7 +38,7 @@ int main(void)
   char  N81zg_BddO;
   N81zg_BddO  =  1771515154;
  short int Y8UH8f;
- Y8UH8f = -2146683561;
+ Y8UH8f = (short)-2146683561;
   unsigned long long  Kvt6uyw7;
   Kvt6uyw7  =  -1474834094;
     long    J2CP7;
@@ -64,7 +64,7 @@ int main(void)
     float    u7SaPWq0;
     u7SaPWq0    =    1068986004;
  short int TP5GJhfTe;
- TP5GJhfTe = 1770044960;
+ TP5GJhfTe = (short)1770044960;
     unsigned char    G86M_lt3;
     G86M_lt3    =    -1458586455;
  unsigned int xnxm;
@@ -80,7 +80,7 @@ int main(void)
  unsigned long Aq_fF;
  Aq_fF = 1003891660;
  short int PvPpt;
- PvPpt = 1358057802;
+ PvPpt = (short)1358057802;
  unsigned long V2bh;
  V2bh = 1746958119;
  long double ore_F7qwc;
@@ -92,7 +92,7 @@ int main(void)
 	unsigned short	Si8qEy6CH;
 	Si8qEy6CH	=	-1889048244;
     unsigned short int    F2R8;
-    F2R8    =    -443638006;
+    F2R8    =    (unsigned short)-443638006;
 	short	y89Kt;
 	y89Kt	=	-460433347;
  long long kb_3CRoH;

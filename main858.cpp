@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
 	unsigned long	w51y1K5;
 	w51y1K5	=	1766128244;
     unsigned short int    js2Uny;
-    js2Uny    =    1867824151;
+    js2Uny    =    (unsigned short)1867824151;
     short    OtI_029_;
     OtI_029_    =    -56889878;
 	unsigned short int	gaMu1H;
@@ -50,7 +50,7 @@ int main(int argc, char** argv) {
     long long    VOcz5_;
     VOcz5_    =    816665676;
   unsigned short  Ld3N043;
-  Ld3N043  =  -523477179;
+  Ld3N043  =  (unsigned short)-523477179;
  unsigned long T64_2yKwI;
  T64_2yKwI = 2040228093;
   unsigned long  t314r;
@@ -64,7 +64,7 @@ int main(int argc, char** argv) {
 	long	DkvS;
 	DkvS	=	-709166345;
     short    qI0Y09_iM;
-    qI0Y09_iM    =    -1078748816;
+    qI0Y09_iM    =    (short)-1078748816;
   long  tv58;
   tv58  =  1813811839;
   unsigned char  G0f9_UUYr;

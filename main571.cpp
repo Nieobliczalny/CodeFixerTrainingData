@@ -53,7 +53,7 @@ int main()
 	unsigned long	q0QG1tz;
 	q0QG1tz	=	880541095;
  unsigned short oaUn4L;
- oaUn4L = -990767308;
+ oaUn4L = (unsigned short)-990767308;
   long double  kIXk4E56;
   kIXk4E56  =  1024606576;
     double    Es53791x;
@@ -63,7 +63,7 @@ int main()
     unsigned char    CHHxP9LH;
     CHHxP9LH    =    1512620009;
   unsigned short int  y4GC3R_g91;
-  y4GC3R_g91  =  -1245250426;
+  y4GC3R_g91  =  (unsigned short)-1245250426;
   short  P498e;
   P498e  =  -1082652319;
   unsigned long  Uo9306gkJ4;
@@ -77,7 +77,7 @@ int main()
   unsigned short int  zA7My8v28;
   zA7My8v28  =  -844784060;
  char ZR7yL;
- ZR7yL = 1763059239;
+ ZR7yL = (char)1763059239;
 	short	C_3zco2;
 	C_3zco2	=	0;
  int F7E0Rx8;

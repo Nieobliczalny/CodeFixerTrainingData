@@ -144,7 +144,7 @@ while (i >= 0)
 i--;
 if (l_9_rmj & -1687575513)
 {
-std::cout << WF4Ot << "Fxj9" << Q48JPK << jqDE4(-141742224, jE2Z_tg, 434731769) << C7KhO4n3Q << std::endl;
+std::cout << WF4Ot << "Fxj9" << Q48JPK << jqDE4(-141742224, jE2Z_tg, (char)434731769) << C7KhO4n3Q << std::endl;
 }
 else if (V25_aTb_ & l_9_rmj)
 {

@@ -135,7 +135,7 @@ yY0c_2y3uQ = W3YO6RM_(898136138, Z7y9I, Bns0Psp);
 }
 else if ((Z7y9I) && (LE1H8qehI < 553712074))
 {
-std::cout << W3YO6RM_(662575428, -2090476239, -1549689774) << yY0c_2y3uQ << Z7y9I << "JZNJ" << W3YO6RM_(yY0c_2y3uQ, 876897186, -296156013) << std::endl;
+std::cout << W3YO6RM_(662575428, -2090476239, (short)-1549689774) << yY0c_2y3uQ << Z7y9I << "JZNJ" << W3YO6RM_(yY0c_2y3uQ, 876897186, -296156013) << std::endl;
 }
 else if (R24H__ < 1609223504)
 {
@@ -223,7 +223,7 @@ else if (LE1H8qehI <= Bns0Psp)
 {
 if (LE1H8qehI < lw87rDTOa)
 {
-std::cout << Bns0Psp << W3YO6RM_(Z7y9I, LE1H8qehI, -1503109668) << "pww270FIc" << W3YO6RM_(-1157648231, LE1H8qehI, 1296182107) << std::endl;
+std::cout << Bns0Psp << W3YO6RM_(Z7y9I, LE1H8qehI, -1503109668) << "pww270FIc" << W3YO6RM_(-1157648231, LE1H8qehI, (short)1296182107) << std::endl;
 }
 else
 {

@@ -31,7 +31,7 @@ int main(int argc, char** argv)
   short  JvfLx1jLr  =  0;
 	unsigned long	Tp4G200B	=	126740564;
  unsigned int w0o1Py7B = -1197746078;
-	short int	M54Z1	=	379601822;
+	short int	M54Z1	=	(short)379601822;
     short int    R2Twr5og7    =    -1686852343;
   long long  sobS2  =  -1150688795;
  float k5HcXg_ = 368952659;
@@ -42,7 +42,7 @@ int main(int argc, char** argv)
     unsigned char    iYn2Erb    =    -309181840;
  long double BZV9_1Wi = 1503604002;
   int  OE_MG  =  2020091161;
-	short int	Qp4r	=	-1297597361;
+	short int	Qp4r	=	(short)-1297597361;
 	char	V7SfwE_020	=	0;
   unsigned int  m_za854Ty6  =  1533811127;
 	unsigned long long	P1OMMt02M	=	-1372076265;
@@ -52,7 +52,7 @@ int main(int argc, char** argv)
     short int    w_HD    =    1493135450;
     unsigned int    MQ1B8L    =    923529856;
 	unsigned short int	u7hm0veqTl	=	-959584295;
-	unsigned short int	L7Y1	=	-1965951623;
+	unsigned short int	L7Y1	=	(unsigned short)-1965951623;
   short  bNSICH  =  1880054351;
   unsigned char  YAe6  =  1097250441;
   long long  mR920_  =  -719986833;
@@ -62,7 +62,7 @@ int main(int argc, char** argv)
     unsigned short int    k36Ny0S    =    1335577042;
  long double rRZDx1APQb = -1895397422;
   unsigned char  iu2d0fG2  =  1677360365;
-    unsigned char    PR_7Mor84    =    231225730;
+    unsigned char    PR_7Mor84    =    (unsigned char)231225730;
     unsigned char    pn5ESoEmX7    =    1875834056;
   unsigned int  MB_eW  =  -1781645733;
  short eVUu34S0 = -994363179;
@@ -79,7 +79,7 @@ int main(int argc, char** argv)
 
 BZV9_1Wi = (int)ceil(mRoCyR1qzq);
 
-V7SfwE_020 = N_lDDR6W(sobS2, 947729352, -1929563019, 162724277);
+V7SfwE_020 = N_lDDR6W(sobS2, 947729352, (char)-1929563019, 162724277);
 try
 {
 sobS2 |= w_HD;
@@ -129,7 +129,7 @@ JvfLx1jLr = (int)abs(OE_MG) * 0;
 break;
 case 'e':
 case 'E':
-nRK5Yi = N_lDDR6W(PR_7Mor84, -566389718, -336209185, 221451327);
+nRK5Yi = N_lDDR6W(PR_7Mor84, -566389718, (char)-336209185, 221451327);
 break;
 case 'f':
 case 'F':
@@ -237,7 +237,7 @@ case 2:
 mRoCyR1qzq = (int)abs(OE_MG);
 break;
 case 3:
-V7SfwE_020 = N_lDDR6W(1818921628, -469749342, klAsSESi, 71772381);
+V7SfwE_020 = N_lDDR6W((char)1818921628, -469749342, klAsSESi, 71772381);
 break;
 default:
 HmEzDr = t0DYVr();
@@ -292,7 +292,7 @@ bSjK = lwNkug09u_(-655801169, 645120344);
 }
 else
 {
-nRK5Yi = N_lDDR6W(mkmih, -1153231335, 1144439469, h_A8HU8k56);
+nRK5Yi = N_lDDR6W(mkmih, -1153231335, (char)1144439469, h_A8HU8k56);
 }
 }
 else
@@ -334,7 +334,7 @@ h1maj = (int)floor(mRoCyR1qzq);
 }
 else
 {
-nRK5Yi = N_lDDR6W(bNSICH, 2002475029, 1704243046, MQ1B8L);
+nRK5Yi = N_lDDR6W(bNSICH, 2002475029, (char)1704243046, MQ1B8L);
 }
 }
 }
@@ -363,7 +363,7 @@ case 0:
 k5HcXg_ = (int)ceil(h1maj);
 break;
 case 1:
-y5gs5 = N_lDDR6W(-1401719369, 2096238650, -956802579, 804102138);
+y5gs5 = N_lDDR6W(-1401719369, 2096238650, (char)-956802579, 804102138);
 break;
 case 2:
 V7SfwE_020 = N_lDDR6W(bSjK, 1333531167, -925693819, h_A8HU8k56);
@@ -396,7 +396,7 @@ rRZDx1APQb = (int)floor(h1maj);
 
 NeamjIZO6 = (long long)(iYn2Erb);
 
-std::cout << N_lDDR6W(494523975, -1104364777, 1346937096, u7hm0veqTl) << std::endl;
+std::cout << N_lDDR6W(494523975, -1104364777, (char)1346937096, u7hm0veqTl) << std::endl;
 M54Z1 = 1266818821 / JvfLx1jLr;
 return 0;
 }

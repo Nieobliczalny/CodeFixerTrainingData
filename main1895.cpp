@@ -72,7 +72,7 @@ int j = 6;
 do
 {
 j--;
-cout << "eFA9" << "Q_ZA_62" << Sn5F1(MRAxT76O9, g0hb2rLx9r, 1327947798) << endl;
+cout << "eFA9" << "Q_ZA_62" << Sn5F1(MRAxT76O9, g0hb2rLx9r, (unsigned short)1327947798) << endl;
 }
 while (j >= 0);
 }
@@ -124,7 +124,7 @@ Dnbs = Sn5F1(l4KGH_, -1182764926, VRf6lL7vD);
 }
 while (i >= 0);
 }
-cout << Sn5F1(l4KGH_, V6U_e5I2, 216974242) << "zT_5" << N45tOUi << B68n5i76() << "op679p2G" << endl;
+cout << Sn5F1(l4KGH_, V6U_e5I2, (unsigned short)216974242) << "zT_5" << N45tOUi << B68n5i76() << "op679p2G" << endl;
 try
 {
 try
@@ -175,7 +175,7 @@ case 0:
 V6U_e5I2 = bHpj - 817101000;
 break;
 default:
-Dnbs = Sn5F1(-682660767, 1737847342, Dnbs);
+Dnbs = Sn5F1(-682660767, (char)1737847342, Dnbs);
 break;
 }
 {
@@ -230,7 +230,7 @@ V6U_e5I2 = wsajm356 - wsajm356;
 break;
 case 'h':
 case 'H':
-Dnbs = Sn5F1(-1056655765, -1410758601, Dnbs);
+Dnbs = Sn5F1(-1056655765, (char)-1410758601, Dnbs);
 break;
 case 'i':
 case 'I':
@@ -393,7 +393,7 @@ case 5:
 JBcv809M = (int)abs(gjRC1a);
 break;
 default:
-Dnbs = Sn5F1(-1900830357, 591268543, 1541543194);
+Dnbs = Sn5F1(-1900830357, 591268543, (unsigned short)1541543194);
 break;
 }
 }
@@ -438,7 +438,7 @@ else
 {
 if (v8_3Z != 352833961)
 {
-Dnbs = Sn5F1(W320mRBl, 3364626, 1620941766);
+Dnbs = Sn5F1(W320mRBl, (char)3364626, 1620941766);
 }
 }
 }
@@ -523,7 +523,7 @@ else if (g0hb2rLx9r)
 switch (v8_3Z)
 {
 case 'a':
-Wx3t1N29_3 = Sn5F1(325789415, 544277682, 931592891);
+Wx3t1N29_3 = Sn5F1(325789415, 544277682, (unsigned short)931592891);
 break;
 case 'b':
 gjRC1a = B68n5i76();
@@ -662,7 +662,7 @@ case 7:
 Dnbs = Sn5F1(FE0g9, bHC0z, -120122341);
 break;
 case 8:
-Dnbs = Sn5F1(-830096633, chMMe, -734591934);
+Dnbs = Sn5F1(-830096633, chMMe, (unsigned short)-734591934);
 break;
 default:
 v8_3Z = (int)abs(FE0g9);
@@ -780,7 +780,7 @@ gjRC1a = B68n5i76() % vbhe_J851;
 }
 else if (gjRC1a != 1309464407)
 {
-Dnbs = Sn5F1(664630529, 1872324206, 717073368);
+Dnbs = Sn5F1(664630529, 1872324206, (unsigned short)717073368);
 }
 else if ((gb5xR7i != 252315204) && ((o04_LB8j <= v8_3Z) && (bHpj & tr991Q_)))
 {
@@ -818,7 +818,7 @@ else if (JBcv809M != -1862058773)
 {
 if (xJbeCuI6z == -1279510849)
 {
-Wx3t1N29_3 = Sn5F1(-1896671618, 638148928, 375383003);
+Wx3t1N29_3 = Sn5F1(-1896671618, 638148928, (unsigned short)375383003);
 }
 else
 {
@@ -850,7 +850,7 @@ while (k >= 0);
 }
 else
 {
-Dnbs = Sn5F1(f5n0nf, 720670562, -1229205341);
+Dnbs = Sn5F1(f5n0nf, 720670562, (unsigned short)-1229205341);
 }
 }
 else

@@ -23,7 +23,7 @@ int main(void)
 	unsigned short int	ums0;
 	ums0	=	1083578808;
  char nYzr6kXPCx;
- nYzr6kXPCx = -1251769426;
+ nYzr6kXPCx = (char)-1251769426;
     short int    EsuAru;
     EsuAru    =    0;
     unsigned char    fmMVd_;
@@ -37,7 +37,7 @@ int main(void)
     unsigned int    ge3_R5sLy;
     ge3_R5sLy    =    132034483;
     char    LN6Kv29z;
-    LN6Kv29z    =    1779021615;
+    LN6Kv29z    =    (char)1779021615;
     double    V5tofJ_w;
     V5tofJ_w    =    -1264551935;
  unsigned long i4_RlGGd;
@@ -47,7 +47,7 @@ int main(void)
     short    DC9P5T;
     DC9P5T    =    2145927193;
   short  EoBT4a0;
-  EoBT4a0  =  321465959;
+  EoBT4a0  =  (short)321465959;
   unsigned short  sf3tST8Lj;
   sf3tST8Lj  =  -1659856791;
  unsigned long long ei6S0Lz76O;

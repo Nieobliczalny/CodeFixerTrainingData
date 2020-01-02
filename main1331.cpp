@@ -20,7 +20,7 @@ long long IaRXS(int rKm1vvc,short C3HL26)
 int main(void) {
 	short int	c_4QA8owvA	=	2013674425;
   short  NNc7c3r  =  0;
-	short int	y08rB0S190	=	31281032;
+	short int	y08rB0S190	=	(short)31281032;
   unsigned long  qo3s5h6054  =  1806183393;
 	char	FtkA5lC3	=	0;
  short MB_cqMdJ5 = 1380581547;
@@ -35,7 +35,7 @@ int main(void) {
     long long    KFS_L3wuqs    =    1643194653;
     unsigned long long    XZ3ih9_    =    1119927982;
  long long em6z_ = -514502281;
-    short int    CZ4K9Y34ol    =    1694003843;
+    short int    CZ4K9Y34ol    =    (short)1694003843;
 	unsigned long	qK64DD	=	-1896118405;
   char  mTEv_ah19S  =  -1473746206;
 	short int	Xta7ycy	=	357276673;
@@ -47,7 +47,7 @@ int main(void) {
 FRoRi0k_Zu = FRoRi0k_Zu * FtkA5lC3;
 
 FRoRi0k_Zu = (int)ceil(UD07KE);
-hnUf = IaRXS(hnUf, 615525472);
+hnUf = IaRXS(hnUf, (short)615525472);
 
 UD07KE = (float)(nz7GSAZ);
 {
@@ -259,7 +259,7 @@ catch (int& errorCode)
 {
 hnUf = (int)abs(nz7GSAZ);
 }
-cout << "v2xjT" << IaRXS(hnUf, -2012193036) << IaRXS(-1585148509, 573504677) << "Oqm0G4" << hnUf << endl;
+cout << "v2xjT" << IaRXS(hnUf, -2012193036) << IaRXS(-1585148509, (short)573504677) << "Oqm0G4" << hnUf << endl;
 
 FRoRi0k_Zu = (int)ceil(Ssc5);
 

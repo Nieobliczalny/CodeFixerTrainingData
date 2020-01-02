@@ -16,7 +16,7 @@ unsigned char  mq5s(char  k69c8LJQFr,unsigned char  w8q5,unsigned short int  w9_
 
 int main() {
   short int  xp55S28Z  =  -537640398;
-	char	X1e_R6pO28	=	962568487;
+	char	X1e_R6pO28	=	(char)962568487;
   short  LI70  =  -594990605;
   char  SC77HV00  =  -416954969;
   unsigned short  BoRYj3yal  =  -795073218;
@@ -27,7 +27,7 @@ int main() {
  char c0_I23zC = 1439786622;
  unsigned long dasV5T = 1658950770;
  short int c8DN1ec = -1191646917;
-	unsigned short int	DU3c7	=	1453391681;
+	unsigned short int	DU3c7	=	(unsigned short)1453391681;
  double VAwYnFuZ5_ = 1202758862;
   char  S6uSkdU  =  0;
 	int	Jf0Eoe63	=	361010013;
@@ -41,7 +41,7 @@ int main() {
     double    F94AtZ03s    =    2038911991;
   long  JXF94Wh  =  -1358263172;
  short int vGJci5 = 2048518336;
-	unsigned char	K05ivS	=	-1197933400;
+	unsigned char	K05ivS	=	(unsigned char)-1197933400;
  unsigned short V8hk2G_1W8 = 847475961;
  char Z_L30o_3DJ = -693786099;
 	double	Mu21vBp8R	=	-1311403181;
@@ -54,7 +54,7 @@ int main() {
  short int bSa0 = 1044276179;
     short    g6Knp8m    =    0;
 	unsigned int	Nu5B61	=	-1787944307;
-  unsigned char  DsXdz  =  300915919;
+  unsigned char  DsXdz  =  (unsigned char)300915919;
  unsigned int Ispy = -677583611;
     float    H8s14    =    168515672;
 	unsigned long	WVNi0plzj	=	957986384;
@@ -119,7 +119,7 @@ int k = 7;
 do
 {
 --k;
-g6Knp8m = mq5s(-2090125951, 283031892, iU_yz11F);
+g6Knp8m = mq5s(-2090125951, (unsigned char)283031892, iU_yz11F);
 }
 while (k >= 0);
 }
@@ -158,7 +158,7 @@ case 7:
 MvhqfM -= gQW8Ip354_;
 break;
 case 8:
-S6uSkdU = mq5s(654872172, Ispy, 771399933);
+S6uSkdU = mq5s(654872172, Ispy, (unsigned short)771399933);
 break;
 case 9:
 F94AtZ03s = q_Br6u4g(F94AtZ03s, D6gM, LHLpbRQ);
@@ -185,7 +185,7 @@ else
 {
 if (MvhqfM)
 {
-S6uSkdU = mq5s(390761703, -487042665, -1752783236);
+S6uSkdU = mq5s(390761703, (unsigned char)-487042665, -1752783236);
 }
 }
 i++;
@@ -269,7 +269,7 @@ VoniX = fRxw95 >> K05ivS;
 }
 else
 {
-S6uSkdU = mq5s(374104367, -1062588608, fI7920CXC0);
+S6uSkdU = mq5s(374104367, (unsigned char)-1062588608, fI7920CXC0);
 }
 }
 else if (gQW8Ip354_ != -1612939035)
@@ -446,7 +446,7 @@ unsigned short int	q_Br6u4g(short int	MflN,long long	h4PR,long long	Pzw397qnt6)	
 }
 
 unsigned short xVyA_Y() {
- return -2036084665;
+ return (unsigned short)-2036084665;
 }
 
 unsigned char  mq5s(char  k69c8LJQFr,unsigned char  w8q5,unsigned short int  w9_K)

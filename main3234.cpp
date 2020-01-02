@@ -229,7 +229,7 @@ case 'e':
 k3Sq = uuCJiqll(-45126358, SL2c5);
 break;
 case 'f':
-G91I = sTuE16Ud5_(850341885);
+G91I = sTuE16Ud5_((char)850341885);
 break;
 case 'g':
 ybT0 = G91I / 424053878;
@@ -364,7 +364,7 @@ while (k >= 0);
 }
 Pd1K3 = sTuE16Ud5_(1202340142);
 
-cout << sTuE16Ud5_(1545792893) << uuCJiqll(Pd1K3, i6R0V) << sTuE16Ud5_(Pd1K3) << endl;
+cout << sTuE16Ud5_((char)1545792893) << uuCJiqll(Pd1K3, i6R0V) << sTuE16Ud5_(Pd1K3) << endl;
 return 0;
 }
 

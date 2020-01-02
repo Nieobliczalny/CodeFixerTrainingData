@@ -15,6 +15,7 @@ char    TIV1D2w(unsigned short    w6CDC52,int    Sy_7y_,char    QmBQ21);
 
 int main(void)
 {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
   char  mhLR_Nk4l  =  -945868076,  wQa3z  =  -1304329613,  lW0FU67a  =  -1469152026,  lX0RnDS5  =  -1133530893,  weH2zC8  =  775930403,  S4fMq3Y  =  -1797074317,  KD5iMB_Z  =  1868847634,  hJ3Y  =  403213470,  R1TRtU  =  -870578417,  YJ48  =  1155121670,  W28Mo  =  -1985124202,  KAIaxVzb  =  2046337653,  cPECIYbYI  =  -2101864521,  hcN9RZuJ  =  834021249,  vLbglupz8  =  1396500017,  TsUP  =  -1583239290,  m1QLSvHd  =  -972011504;
 	unsigned char	j3zF	=	0;
 
@@ -40,7 +41,7 @@ if (hcN9RZuJ >= -922665954)
 {
 if (KD5iMB_Z >= wQa3z)
 {
-TsUP = TIV1D2w(1881132207, -511714123, 1159359425) & 1403857462;
+TsUP = TIV1D2w(1881132207, -511714123, (char)1159359425) & 1403857462;
 }
 }
 else
@@ -140,7 +141,7 @@ case 8:
 weH2zC8 = TIV1D2w(-1126188515, mhLR_Nk4l, wQa3z);
 break;
 default:
-hJ3Y = (TsUP & -1698561411) ? 423382774 : 1202883907;
+hJ3Y = (TsUP & -1698561411) ? (char)423382774 : 1202883907;
 break;
 }
 }
@@ -319,6 +320,6 @@ short  zqq9()  {
 }
 
 char    TIV1D2w(unsigned short    w6CDC52,int    Sy_7y_,char    QmBQ21)    {
-    return    -256701192;
+    return    (char)-256701192;
 }
 

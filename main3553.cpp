@@ -298,7 +298,7 @@ break;
 }
 }
 
-YkSsRi1_e = G36C2c(YkSsRi1_e, -1065946812);
+YkSsRi1_e = G36C2c(YkSsRi1_e, (unsigned short)-1065946812);
 m_Zo = (float)(PPJJjGR);
 
 {

@@ -29,7 +29,7 @@ char g64nHsI(unsigned long long v5UDqF2)
 }
 
 short int y4htsIyy(unsigned int b1e3mKZ,short int O7_7,short poxp5IY9V,short ppl_O3N,unsigned long l7gDUA4P2) {
- return -728904969;
+ return (short)-728904969;
 }
 
 int main(int argc, char** argv)
@@ -118,7 +118,7 @@ zxE63ox = CY678 | 2089528782;
 }
 else
 {
-std::cout << D0HHvUM60_(q2H5ayd52, -2064377236, 132946037, -1123567384, -102091331) << "I647_lU3" << std::endl;
+std::cout << D0HHvUM60_(q2H5ayd52, -2064377236, 132946037, -1123567384, (unsigned short)-102091331) << "I647_lU3" << std::endl;
 }
 }
 else
@@ -141,7 +141,7 @@ case 1:
 I583ts3R = jCdh5r9H5(I583ts3R, 720472743, V4m_T_JRPp);
 break;
 case 2:
-he1gj2V72_ = jCdh5r9H5(he1gj2V72_, 582476947, 802481479);
+he1gj2V72_ = jCdh5r9H5(he1gj2V72_, (short)582476947, 802481479);
 break;
 }
 
@@ -181,7 +181,7 @@ CY678 += ie_6J2s5;
 break;
 case 'b':
 case 'B':
-b_F2q_6_i = y4htsIyy(-1369085806, -597540318, H6MYQ, 310678173, 1940288498);
+b_F2q_6_i = y4htsIyy(-1369085806, -597540318, H6MYQ, (short)310678173, 1940288498);
 break;
 case 'c':
 case 'C':
@@ -208,7 +208,7 @@ std::cout << ie_6J2s5 << std::endl;
 switch (Zw_4T)
 {
 case 'a':
-Rs5386i = y4htsIyy(Rs5386i, -1975099021, ie_6J2s5, -22895448, I583ts3R);
+Rs5386i = y4htsIyy(Rs5386i, (short)-1975099021, ie_6J2s5, -22895448, I583ts3R);
 break;
 case 'b':
 fSyt1AwDE3 = g64nHsI(-1745846721);
@@ -223,7 +223,7 @@ case 'e':
 U5XAgH |= 2134840295;
 break;
 default:
-CY678 = y4htsIyy(CY678, 2115802269, 961679002, 438839250, 2129831000);
+CY678 = y4htsIyy(CY678, 2115802269, (short)961679002, 438839250, 2129831000);
 break;
 }
 
@@ -248,7 +248,7 @@ case 0:
 CY678 = H9fiE - 833348759;
 break;
 case 1:
-zxE63ox = D0HHvUM60_(zxE63ox, -735157179, q2H5ayd52, 282166, -767147044);
+zxE63ox = D0HHvUM60_(zxE63ox, -735157179, q2H5ayd52, 282166, (unsigned short)-767147044);
 break;
 case 2:
 q2H5ayd52 = (int)abs(I583ts3R);

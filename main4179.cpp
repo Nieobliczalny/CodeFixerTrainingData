@@ -29,7 +29,7 @@ int main(void)
 	char	we1Kw;
 	we1Kw	=	0;
 	short int	behL;
-	behL	=	2103809108;
+	behL	=	(short)2103809108;
   unsigned int  R63VN_5gFt;
   R63VN_5gFt  =  1047223987;
     unsigned short    U0ha0AX_;
@@ -41,7 +41,7 @@ int main(void)
     short    rTFb8U2E1;
     rTFb8U2E1    =    0;
   short int  bsytVeUf;
-  bsytVeUf  =  -141223871;
+  bsytVeUf  =  (short)-141223871;
 
 behL = (int)abs(B4Ny9s);
 R63VN_5gFt = l_nvG(R63VN_5gFt, 433130377, IU5vi, -394197510, k_p1);
@@ -54,7 +54,7 @@ case 1:
 bsytVeUf = (int)abs(we1Kw) + (669446519);
 break;
 case 2:
-bsytVeUf = l_nvG(R63VN_5gFt, 125644132, 1319053683, -115227626, k_p1) >> behL;
+bsytVeUf = l_nvG(R63VN_5gFt, 125644132, 1319053683, (unsigned char)-115227626, k_p1) >> behL;
 break;
 case 3:
 rm7T9 = U0ha0AX_ / B4Ny9s;
@@ -77,7 +77,7 @@ while (i < 9)
 ++i;
 for (int j = 4; j >= 0; j--)
 {
-W5bITTtAn = l_nvG(W5bITTtAn, -2087043053, -835614835, 1546744959, -2096976291);
+W5bITTtAn = l_nvG(W5bITTtAn, -2087043053, -835614835, (unsigned char)1546744959, -2096976291);
 }
 }
 }
@@ -125,7 +125,7 @@ for (int i = 9; i >= 0; i--)
 {
 for (int j = 0; j < 10; j++)
 {
-we1Kw = ETwy7j(2147361196, -12915643, 1760001587);
+we1Kw = ETwy7j(2147361196, -12915643, (unsigned short)1760001587);
 }
 }
 I_91m1_QS_ = l_nvG(-988299002, -1254429510, k_p1, we1Kw, -1566502003);
@@ -135,7 +135,7 @@ int i = 0;
 while (i < 10)
 {
 ++i;
-R63VN_5gFt = c5qV(1982645877, R63VN_5gFt, oahx1c, -1829684553);
+R63VN_5gFt = c5qV(1982645877, R63VN_5gFt, oahx1c, (short)-1829684553);
 }
 }
 
@@ -170,7 +170,7 @@ else if (B4Ny9s < 480717209)
 int j = 0;
 do
 {
-std::cout << l_nvG(-1748788132, 373953990, 998745119, U0ha0AX_, -1301962996) << rTFb8U2E1 << std::endl;
+std::cout << l_nvG(-1748788132, 373953990, 998745119, U0ha0AX_, (short)-1301962996) << rTFb8U2E1 << std::endl;
 j++;
 }
 while (j < 7);
@@ -227,7 +227,7 @@ else
 {
 if (U0ha0AX_ == 225657766)
 {
-IU5vi = ETwy7j(1266635542, we1Kw, 829048439);
+IU5vi = ETwy7j(1266635542, we1Kw, (unsigned short)829048439);
 }
 }
 }
@@ -241,7 +241,7 @@ W5bITTtAn = (unsigned long long)(rTFb8U2E1 + (2146362584));
 
 B4Ny9s = W5bITTtAn & R63VN_5gFt;
 
-std::cout << k_p1 << "fl7LMboKg" << ETwy7j(-1044074429, 372428387, rTFb8U2E1) << l_nvG(-1708056362, -1148778889, rTFb8U2E1, I_91m1_QS_, behL) << std::endl;
+std::cout << k_p1 << "fl7LMboKg" << ETwy7j(-1044074429, 372428387, rTFb8U2E1) << l_nvG(-1708056362, (unsigned short)-1148778889, rTFb8U2E1, I_91m1_QS_, behL) << std::endl;
 return 0;
 }
 

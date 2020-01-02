@@ -21,7 +21,7 @@ int main(int argc, char** argv) {
     unsigned long    DPNPzX    =    0;
 	double	k2tlN	=	766264355;
 	double	kaQMbjDkb	=	-15240829;
-  unsigned short int  aU4cTbBp  =  590613108;
+  unsigned short int  aU4cTbBp  =  (unsigned short)590613108;
  long double xV_nf21I = -1350671842;
   unsigned long  B4G7z  =  1946650424;
     int    YH08sMrle    =    1442534670;
@@ -34,7 +34,7 @@ int main(int argc, char** argv) {
  int JjN_x6K6z = 0;
 	unsigned long long	UOw875ciQo	=	39829585;
 	double	SMNG	=	236905139;
-  unsigned short  KY4rb  =  -1677467067;
+  unsigned short  KY4rb  =  (unsigned short)-1677467067;
  unsigned char oqP14KeZk4 = -129621156;
     short int    H06JOg9    =    -2021318657;
 	short int	HKJ7566o	=	-1237330685;
@@ -47,7 +47,7 @@ int main(int argc, char** argv) {
     unsigned long long    PhT81vs6Za    =    -415606271;
   unsigned char  kiki838g85  =  2086044553;
 	long	FPi76kr	=	163610459;
-	unsigned char	kuj_x_2	=	-83366618;
+	unsigned char	kuj_x_2	=	(unsigned char)-83366618;
 	char	r4wC8phg	=	1398162776;
     short int    NST23w    =    1981429950;
   double  WvAy  =  1563761304;
@@ -57,7 +57,7 @@ int main(int argc, char** argv) {
   unsigned long long  N6dGF8A42  =  1669582670;
  unsigned char wnk5kkL7 = 1195958853;
 	long	v6115y	=	-2002674146;
-    unsigned short    HxCJ    =    1800340733;
+    unsigned short    HxCJ    =    (unsigned short)1800340733;
     short    YCY4u_OBd    =    -1687330374;
 	short	N6u9eT	=	-1363436811;
 	unsigned long	QCj98h30T5	=	1926413658;
@@ -67,7 +67,7 @@ int main(int argc, char** argv) {
     long long    Kx3G3L0I1H    =    1286241398;
  unsigned short Or9JB99z = 1342515675;
     double    vf7g6    =    -1919284952;
-	unsigned short	AS0An7	=	-1577994446;
+	unsigned short	AS0An7	=	(unsigned short)-1577994446;
     unsigned short    gsgg_28M    =    464681163;
  short KjOvG_WHS = 1284060739;
 	short int	BsD7	=	698758218;
@@ -81,7 +81,7 @@ int main(int argc, char** argv) {
   float  h9JUS3  =  1564355631;
  long double n6n_Cb = 1506025245;
 	unsigned char	cTLJ70tL	=	-403471992;
-    char    Xi764C3    =    -1460830476;
+    char    Xi764C3    =    (char)-1460830476;
     long long    b6WSs    =    -1842272817;
 	unsigned long long	vZ8K7S0X	=	1837011316;
   unsigned char  Kg6tvNevgk  =  0;
@@ -96,7 +96,7 @@ int main(int argc, char** argv) {
 
 if (r4wC8phg)
 {
-std::cout << BG84(cTLJ70tL, Kx3G3L0I1H, -59102259, -138282462) << BG84(-93249233, Kx3G3L0I1H, Xi764C3, -1232189813) << "N2y0L3p" << "iqo6" << vf7g6 << std::endl;
+std::cout << BG84(cTLJ70tL, Kx3G3L0I1H, (char)-59102259, -138282462) << BG84(-93249233, Kx3G3L0I1H, Xi764C3, -1232189813) << "N2y0L3p" << "iqo6" << vf7g6 << std::endl;
 }
 
 Z4lB = v_K9bR6u / JjN_x6K6z;

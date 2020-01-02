@@ -25,7 +25,7 @@ int main()
 	char	xM80qk;
 	xM80qk	=	-1025597756;
  short int Y8rB34n63h;
- Y8rB34n63h = 282764652;
+ Y8rB34n63h = (short)282764652;
  float JqDVsU;
  JqDVsU = -1899589508;
   double  S_W2;
@@ -35,7 +35,7 @@ int main()
     short    uwq_rys;
     uwq_rys    =    870838106;
 	short	URQ3w;
-	URQ3w	=	1596033971;
+	URQ3w	=	(short)1596033971;
  short g8pYyi55o;
  g8pYyi55o = 0;
     char    SOMKm;
@@ -47,7 +47,7 @@ int main()
  unsigned long ttim1;
  ttim1 = 460469029;
   unsigned short  QBvbH9;
-  QBvbH9  =  -1703790604;
+  QBvbH9  =  (unsigned short)-1703790604;
  int mp8rN;
  mp8rN = -752230492;
 	long double	hHJa3NJ_N;
@@ -65,7 +65,7 @@ int main()
 	long long	PS2aEiD;
 	PS2aEiD	=	1807376884;
   short  oaO31BPgD2;
-  oaO31BPgD2  =  683741733;
+  oaO31BPgD2  =  (short)683741733;
 	long double	xhPz77MHY;
 	xhPz77MHY	=	-801246657;
     unsigned char    kHa23X4wS;
@@ -114,7 +114,7 @@ Zh9Qg = xM80qk + 1005268499;
 }
 else if (ttim1)
 {
-p9v5oi = w8ZLDR85(kHa23X4wS, -915246268, SOMKm, 1750352026);
+p9v5oi = w8ZLDR85(kHa23X4wS, -915246268, SOMKm, (unsigned short)1750352026);
 }
 else if ((ttim1 < 869346702) && ((JK__Q != -1042336649) || (Y8rB34n63h != PS2aEiD)))
 {
@@ -140,7 +140,7 @@ for (int j = 0; j < 1; ++j)
 {
 if (Y8rB34n63h == -1083895912)
 {
-g8pYyi55o = w8ZLDR85(baa_h, -1800315061, 1732791190, -1913517916);
+g8pYyi55o = w8ZLDR85(baa_h, -1800315061, 1732791190, (unsigned short)-1913517916);
 }
 }
 }
@@ -169,7 +169,7 @@ ttim1 *= Y8rB34n63h;
 }
 else if (hHJa3NJ_N != 1226874959)
 {
-p9v5oi = w8ZLDR85(1033524953, 1317608905, -433287637, -1973195132);
+p9v5oi = w8ZLDR85((unsigned short)1033524953, 1317608905, -433287637, -1973195132);
 }
 else if (Zh9Qg & URQ3w)
 {
@@ -185,7 +185,7 @@ w3TC9E &= uwq_rys;
 }
 else
 {
-g8pYyi55o = w8ZLDR85(-1279942243, -1456850935, JK__Q, w3TC9E);
+g8pYyi55o = w8ZLDR85(-1279942243, (unsigned short)-1456850935, JK__Q, w3TC9E);
 }
 }
 }
@@ -242,7 +242,7 @@ xhPz77MHY = (int)ceil(hHJa3NJ_N);
 }
 }
 
-cout << PS2aEiD << "KdRb6mp99" << "B9Zy9G5" << w8ZLDR85(1148911016, l7u5, JqDVsU, -2138968383) << "so4Cw0LF9w" << endl;
+cout << PS2aEiD << "KdRb6mp99" << "B9Zy9G5" << w8ZLDR85(1148911016, l7u5, JqDVsU, (unsigned short)-2138968383) << "so4Cw0LF9w" << endl;
 
 p9v5oi = (int)(baa_h * p9v5oi);
 

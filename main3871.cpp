@@ -89,7 +89,7 @@ case 6:
 p3Aj -= T6Vn;
 break;
 case 7:
-lW_P7 = IfED5g(-1902316353, -698129136, 619715680, cf2ct_9_6S, C4Xo);
+lW_P7 = IfED5g(-1902316353, (short)-698129136, 619715680, cf2ct_9_6S, C4Xo);
 break;
 }
 }
@@ -192,7 +192,7 @@ break;
 }
 }
 
-Y0ii = IfED5g(-826373742, ip7Soa9, mPlF259, -323661948, 700047936);
+Y0ii = IfED5g(-826373742, ip7Soa9, mPlF259, (unsigned short)-323661948, 700047936);
 
 std::cout << e33U << IfED5g(Y0ii, ip7Soa9, 1673694846, 840847097, dw8TZ201) << IfED5g(Y0ii, ip7Soa9, -1770999335, 475926360, 1940554188) << IfED5g(Y0ii, -1996963836, mPlF259, 1527636631, 565470502) << std::endl;
 
@@ -222,7 +222,7 @@ mPlF259 = Y9Aor4_Qh | 974883675;
 }
 else if (Y9Aor4_Qh >= T6Vn)
 {
-Y0ii = IfED5g(1834127284, 705027106, -1253411903, sZCdIGng06, dw8TZ201);
+Y0ii = IfED5g(1834127284, (short)705027106, -1253411903, sZCdIGng06, dw8TZ201);
 }
 else if (cf2ct_9_6S == -1116742656)
 {

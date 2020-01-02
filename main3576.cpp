@@ -23,7 +23,7 @@ int main() {
 	float	n6c8;
 	n6c8	=	-1137341016;
     unsigned short int    H2n8;
-    H2n8    =    1988857294;
+    H2n8    =    (unsigned short)1988857294;
 	unsigned short int	eoxg0ZEJDh;
 	eoxg0ZEJDh	=	-1175624104;
 	char	mhiV8D;
@@ -45,7 +45,7 @@ int main() {
   long  K16gP;
   K16gP  =  190147326;
   short int  bP1YY;
-  bP1YY  =  1801674596;
+  bP1YY  =  (short)1801674596;
  unsigned char OB5H0xEs;
  OB5H0xEs = 1830007350;
   float  xBrcf;

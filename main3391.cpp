@@ -34,7 +34,7 @@ unsigned char  J8iX4h_91(long long  M_laHqN28,unsigned long long  xX6x86i)
 
 int main() {
     char    m7_mc214;
-    m7_mc214    =    239674565;
+    m7_mc214    =    (char)239674565;
   unsigned short int  c2XNo_0;
   c2XNo_0  =  1150388901;
   long long  M33_5;
@@ -44,7 +44,7 @@ int main() {
 	unsigned char	P73qy;
 	P73qy	=	2065695263;
   short int  AYL549h6l;
-  AYL549h6l  =  -1085063102;
+  AYL549h6l  =  (short)-1085063102;
   unsigned long  qRuuv;
   qRuuv  =  -426655811;
   unsigned short  cC3NCP8;
@@ -60,7 +60,7 @@ int main() {
   long double  dAUX;
   dAUX  =  -761909134;
  unsigned short int WPda49y;
- WPda49y = -2026884840;
+ WPda49y = (unsigned short)-2026884840;
   long double  Rrb5FM7Y;
   Rrb5FM7Y  =  1190660424;
     int    Xoo60c1kb;
@@ -74,7 +74,7 @@ int main() {
   short  svqL;
   svqL  =  1128724376;
  char e0mG_;
- e0mG_ = 1582939408;
+ e0mG_ = (char)1582939408;
   unsigned long  WaOIZJ_o0M;
   WaOIZJ_o0M  =  -1112587699;
   char  CV_Lh;
@@ -90,7 +90,7 @@ int main() {
     double    W34gH;
     W34gH    =    397209243;
     short int    xjN08kwW_;
-    xjN08kwW_    =    -1629288761;
+    xjN08kwW_    =    (short)-1629288761;
   unsigned short int  MNK8;
   MNK8  =  -995727202;
 	long long	n3_gRM;
@@ -106,7 +106,7 @@ int main() {
     long double    MiC1;
     MiC1    =    1197492746;
  short eS08Z;
- eS08Z = 321438442;
+ eS08Z = (short)321438442;
 	char	rsmjXnV6UE;
 	rsmjXnV6UE	=	0;
  unsigned int vaMY2;
@@ -120,7 +120,7 @@ int main() {
   short int  E7l18;
   E7l18  =  -1212515272;
   short int  Mu_TAXX8;
-  Mu_TAXX8  =  -413075561;
+  Mu_TAXX8  =  (short)-413075561;
     unsigned long    sShVu09d;
     sShVu09d    =    1659515739;
     unsigned short    kbSNUn;
@@ -132,7 +132,7 @@ int main() {
     unsigned long    N5S1w;
     N5S1w    =    936521354;
 	char	C75iXake;
-	C75iXake	=	778360853;
+	C75iXake	=	(char)778360853;
     unsigned long    O4Z_;
     O4Z_    =    -921285930;
   double  qaAO4;
@@ -142,7 +142,7 @@ int main() {
     char    ujnj1oX3bc;
     ujnj1oX3bc    =    1428443813;
     char    lyOr_;
-    lyOr_    =    19852702;
+    lyOr_    =    (char)19852702;
   float  cMGh3P2_;
   cMGh3P2_  =  316807969;
  long double v3FA;
@@ -152,7 +152,7 @@ int main() {
 	unsigned short	p5K27;
 	p5K27	=	-30881573;
   short int  I91AH8_m6;
-  I91AH8_m6  =  -1015812637;
+  I91AH8_m6  =  (short)-1015812637;
  int uLDmR_Ws7;
  uLDmR_Ws7 = 959992856;
   short int  qFsOr;
@@ -174,7 +174,7 @@ int main() {
 	short int	q6_4wT8;
 	q6_4wT8	=	-1595401280;
     short    HF4_11Bo6;
-    HF4_11Bo6    =    180077189;
+    HF4_11Bo6    =    (short)180077189;
 
 switch (HF4_11Bo6)
 {
@@ -268,7 +268,7 @@ case 1:
 rsmjXnV6UE = (int)abs(n3_gRM) * 0;
 break;
 case 2:
-Mu_TAXX8 = Pcs14(1642761282, WaOIZJ_o0M, i5C3D7c, BbW4HefK7m, 780516020);
+Mu_TAXX8 = Pcs14(1642761282, WaOIZJ_o0M, i5C3D7c, BbW4HefK7m, (short)780516020);
 break;
 case 3:
 Rrb5FM7Y = (int)floor(U0d4I);
@@ -352,7 +352,7 @@ case 2:
 uLDmR_Ws7 = (int)abs(blPF);
 break;
 case 3:
-BKwcUp2L3I = Vi5qlFQq(460196405, BbW4HefK7m, 186942176, -1744793593, N5S1w);
+BKwcUp2L3I = Vi5qlFQq((unsigned short)460196405, BbW4HefK7m, 186942176, -1744793593, N5S1w);
 break;
 case 4:
 xjN08kwW_ = Au_21P & 603587662;
@@ -429,7 +429,7 @@ vaMY2 = (unsigned int)(xjN08kwW_);
 int i = 3;
 do
 {
-SO4jhD = Pcs14(964095270, c2ExJk_7NZ, wx91Io, n3_gRM, -416117055);
+SO4jhD = Pcs14(964095270, c2ExJk_7NZ, wx91Io, n3_gRM, (short)-416117055);
 --i;
 }
 while (i >= 0);
@@ -687,7 +687,7 @@ else
 {
 for (int j = 0; j < 5; ++j)
 {
-cout << "y_3_xe5uC" << "X023A_8Q_B" << Uci96f9e2K(997349945) << V_x122_(402011014) << Pcs14(Rrb5FM7Y, W34gH, -328581507, pXTFQ03vw, C75iXake) << endl;
+cout << "y_3_xe5uC" << "X023A_8Q_B" << Uci96f9e2K(997349945) << V_x122_(402011014) << Pcs14(Rrb5FM7Y, W34gH, (char)-328581507, pXTFQ03vw, C75iXake) << endl;
 }
 }
 if (I91AH8_m6 < -910060736)
@@ -699,7 +699,7 @@ while (j >= 0)
 j--;
 try
 {
-W34gH = Pcs14(W34gH, 712234638, wx91Io, 1151534712, -461295448);
+W34gH = Pcs14(W34gH, 712234638, wx91Io, 1151534712, (short)-461295448);
 }
 catch (int& errorCode)
 {
@@ -736,7 +736,7 @@ case 'd':
 Mjr9_n = Pcs14(1427972667, sShVu09d, MHHh3vVbM9, Au_21P, c2ExJk_7NZ);
 break;
 case 'e':
-AYL549h6l = Pcs14(-1799326796, -1588745489, Mjr9_n, 1346786420, O_cjB);
+AYL549h6l = Pcs14((short)-1799326796, -1588745489, Mjr9_n, 1346786420, O_cjB);
 break;
 case 'f':
 zIAn27 = Vi5qlFQq(1029923060, 261456305, tYue6RH, -134666849, rsmjXnV6UE);

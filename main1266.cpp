@@ -18,7 +18,7 @@ int main(void) {
     char    y8206;
     y8206    =    871377981;
     unsigned short int    dK3n;
-    dK3n    =    -675500112;
+    dK3n    =    (unsigned short)-675500112;
 	long double	RHmv9VMu8i;
 	RHmv9VMu8i	=	1228315864;
   unsigned short  J6MNr2p;
@@ -28,7 +28,7 @@ int main(void) {
     unsigned short    QtGa5o;
     QtGa5o    =    232513462;
   unsigned char  bz99J1X;
-  bz99J1X  =  -516058461;
+  bz99J1X  =  (unsigned char)-516058461;
 	long long	UA_VCO428;
 	UA_VCO428	=	1166753456;
     char    KqF3XY;
@@ -38,7 +38,7 @@ int main(void) {
   short int  LqE0;
   LqE0  =  -1882887532;
     char    MnbT;
-    MnbT    =    289829222;
+    MnbT    =    (char)289829222;
 
 switch (KqF3XY)
 {
@@ -182,7 +182,7 @@ while (j >= 0)
 {
 if (MnbT >= -750468142)
 {
-E0i_h = iL1vTF3AN(-304471917, -643260457, QtGa5o);
+E0i_h = iL1vTF3AN(-304471917, (short)-643260457, QtGa5o);
 }
 else
 {
@@ -241,7 +241,7 @@ j--;
 }
 }
 }
-std::cout << W3ZU6A() << "JVq2_49" << iL1vTF3AN(LqE0, 434011618, RHmv9VMu8i) << W3ZU6A() << iL1vTF3AN(355130199, QtGa5o, RHmv9VMu8i) << std::endl;
+std::cout << W3ZU6A() << "JVq2_49" << iL1vTF3AN(LqE0, 434011618, RHmv9VMu8i) << W3ZU6A() << iL1vTF3AN((short)355130199, QtGa5o, RHmv9VMu8i) << std::endl;
 
 switch (MnbT)
 {
@@ -267,7 +267,7 @@ bz99J1X *= bz99J1X;
 break;
 case 'f':
 case 'F':
-E0i_h = iL1vTF3AN(130111178, -1978496996, -1395360940);
+E0i_h = iL1vTF3AN(130111178, (short)-1978496996, -1395360940);
 break;
 case 'g':
 case 'G':
@@ -285,7 +285,7 @@ do
 --i;
 if ((QtGa5o < -110834019) && (RHmv9VMu8i > -675704915))
 {
-D1C4t = iL1vTF3AN(-1898264411, -1150033380, -1888685887);
+D1C4t = iL1vTF3AN(-1898264411, (short)-1150033380, -1888685887);
 }
 else if (J6MNr2p <= 1801310109)
 {
@@ -342,7 +342,7 @@ if ((QtGa5o >= -470193227) || ((J6MNr2p < D1C4t) || (MnbT != -27981366)))
 {
 for (int j = 3; j >= 0; j--)
 {
-std::cout << "AKvFq1vJ7" << QtGa5o << iL1vTF3AN(D1C4t, 260671792, 292224365) << y8206 << iL1vTF3AN(620114073, 1634763066, -608313927) << std::endl;
+std::cout << "AKvFq1vJ7" << QtGa5o << iL1vTF3AN(D1C4t, 260671792, 292224365) << y8206 << iL1vTF3AN((short)620114073, 1634763066, -608313927) << std::endl;
 }
 }
 else if ((MnbT <= -1380915057) || (QtGa5o < -1705438989))
@@ -523,7 +523,7 @@ j++;
 }
 while (i < 9);
 }
-std::cout << iL1vTF3AN(-146429518, 679521438, -1035953448) << iL1vTF3AN(RHmv9VMu8i, -10492662, -1203566068) << bz99J1X << "GcrXxZb" << std::endl;
+std::cout << iL1vTF3AN(-146429518, (short)679521438, -1035953448) << iL1vTF3AN(RHmv9VMu8i, -10492662, -1203566068) << bz99J1X << "GcrXxZb" << std::endl;
 
 {
 int i = 0;
@@ -613,7 +613,7 @@ if (E0i_h < -547931273)
 {
 for (int j = 0; j < 6; j++)
 {
-RHmv9VMu8i = iL1vTF3AN(-1743358762, -80772646, -1159574740);
+RHmv9VMu8i = iL1vTF3AN(-1743358762, (short)-80772646, -1159574740);
 }
 }
 

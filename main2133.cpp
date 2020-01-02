@@ -31,7 +31,7 @@ int main() {
     short int    HAA14;
     HAA14    =    0;
  unsigned char ILz3N7777;
- ILz3N7777 = 620182228;
+ ILz3N7777 = (unsigned char)620182228;
   long double  DE9xl6KqJ;
   DE9xl6KqJ  =  -1726366991;
   float  iVJu;
@@ -79,7 +79,7 @@ for (int j = 8; j >= 0; --j)
 {
 for (int k = 0; k < 10; k++)
 {
-ILz3N7777 = e_BP89(248517999, -165883535);
+ILz3N7777 = e_BP89(248517999, (short)-165883535);
 }
 }
 }
@@ -141,7 +141,7 @@ break;
 }
 for (int i = 0; i < 4; ++i)
 {
-HAA14 = HIfem4i(ILz3N7777, -1821509343, -1296382139, -1847611598, 1011142563);
+HAA14 = HIfem4i(ILz3N7777, -1821509343, -1296382139, (unsigned short)-1847611598, 1011142563);
 }
 
 for (int i = 0; i < 9; i++)
@@ -164,7 +164,7 @@ case 4:
 iVJu = e_BP89(-1692265812, ILz3N7777);
 break;
 case 5:
-f6RBzlD = e_BP89(f6RBzlD, -1249980283);
+f6RBzlD = e_BP89(f6RBzlD, (short)-1249980283);
 break;
 case 6:
 ILz3N7777 = e_BP89(610458225, Mrh2Qhc8);
@@ -226,7 +226,7 @@ int i = 10;
 do
 {
 --i;
-cout << da_F_wy(1106796910, 371044179, 1831522695, 30035805) << HIfem4i(EtQIz5ye4A, 739889748, HAA14, 1203158886, f6RBzlD) << "EPv6pDI7P" << EtQIz5ye4A << endl;
+cout << da_F_wy(1106796910, 371044179, (short)1831522695, 30035805) << HIfem4i(EtQIz5ye4A, 739889748, HAA14, 1203158886, f6RBzlD) << "EPv6pDI7P" << EtQIz5ye4A << endl;
 }
 while (i >= 0);
 }
@@ -238,7 +238,7 @@ if (f6RBzlD <= 20710409)
 {
 if (DE9xl6KqJ < iVJu)
 {
-ILz3N7777 = e_BP89(1062065528, 1232486095);
+ILz3N7777 = e_BP89(1062065528, (short)1232486095);
 }
 else
 {
@@ -313,7 +313,7 @@ iVJu += iVJu;
 }
 else
 {
-f6RBzlD = e_BP89(-802246260, 888591547) * ILz3N7777;
+f6RBzlD = e_BP89(-802246260, (short)888591547) * ILz3N7777;
 }
 }
 catch (int& errorCode)

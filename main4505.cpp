@@ -32,7 +32,7 @@ int main(int argc, char** argv)
   unsigned int  EBh27bo  =  2008594503;
 	unsigned long long	rLP87Ns3B	=	-1820636822;
   long long  giYzeh  =  -608190583;
-    unsigned char    HZwY7    =    -541972634;
+    unsigned char    HZwY7    =    (unsigned char)-541972634;
     unsigned short int    Iu6ym0MW    =    1302163707;
   long  a2Pu6U  =  575236417;
 	int	IRMVz_9_H8	=	-1519442870;
@@ -44,7 +44,7 @@ int main(int argc, char** argv)
 	long double	cA9Ivz8JL2	=	-1835268253;
   unsigned int  cJ2070vH  =  -56413197;
     double    U66a9PGFa    =    -296598196;
-    char    Ni_nWr    =    -539483955;
+    char    Ni_nWr    =    (char)-539483955;
   unsigned long  ZxAhIsz  =  706080813;
     unsigned char    ZeDvZQ8    =    1219879291;
 

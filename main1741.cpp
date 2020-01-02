@@ -18,7 +18,7 @@ int main(void)
  unsigned long long xK49i = 320049439;
   long double  BVBl9M  =  -471228354;
 	unsigned char	Glkcbm8	=	-821790904;
- unsigned short int dnK20 = -652084018;
+ unsigned short int dnK20 = (unsigned short)-652084018;
     unsigned long long    mbxX8e    =    0;
  long LgV7_Z4I = 1833372011;
  long k6H4O16 = 0;

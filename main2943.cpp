@@ -28,7 +28,7 @@ int main() {
  unsigned short K30n1aZ;
  K30n1aZ = -351946794;
     short    yv23Y;
-    yv23Y    =    -489567406;
+    yv23Y    =    (short)-489567406;
 	unsigned short	IxX6Z1lgOp;
 	IxX6Z1lgOp	=	1887848816;
 	unsigned short	kvh_Q;
@@ -46,7 +46,7 @@ int main() {
   double  I9HP1s4n;
   I9HP1s4n  =  -1356744675;
     unsigned short    V_m6q;
-    V_m6q    =    -597927738;
+    V_m6q    =    (unsigned short)-597927738;
  unsigned int JD66;
  JD66 = -698252062;
     unsigned int    Miu_2gLHc;
@@ -133,7 +133,7 @@ JH6xKx = ayQ2(JH6xKx, -1879899431);
 }
 else if (m89luo2MB != A0Zt_h)
 {
-VdTYiuV0M = H4pf44U(q2vr, 2119082064, hWnB, -391059994, F8jg418CO);
+VdTYiuV0M = H4pf44U(q2vr, 2119082064, hWnB, (unsigned char)-391059994, F8jg418CO);
 }
 else
 {
@@ -263,7 +263,7 @@ case 4:
 GI8F7 = (int)ceil(VnNU4702K);
 break;
 case 5:
-K30n1aZ = B8xI(1184354684, -1920010754, 1501310644, IxX6Z1lgOp);
+K30n1aZ = B8xI(1184354684, (short)-1920010754, 1501310644, IxX6Z1lgOp);
 break;
 case 6:
 VN3x46U36 = (uj_E0Xx_r >= G94J9g) ? UXvl : G94J9g;
@@ -278,7 +278,7 @@ case 9:
 GI8F7 = (int)ceil(I9HP1s4n);
 break;
 default:
-K30n1aZ = (m89luo2MB >= -1639419312) ? MDuh8(FL5mIzX7Y, 1903532941) : -1875592057;
+K30n1aZ = (m89luo2MB >= -1639419312) ? MDuh8(FL5mIzX7Y, (unsigned short)1903532941) : -1875592057;
 break;
 }
 for (int i = 0; i < 1; ++i)
@@ -310,7 +310,7 @@ std::cout << JH6xKx << "SOEAmP_e" << "ib1FQ0tq" << I9HP1s4n << JH6xKx << std::en
 
 if (YdBC > q2vr)
 {
-kvh_Q = p3Kac(kvh_Q, -1066549684, tZ1Q3MG0, -135169264);
+kvh_Q = p3Kac(kvh_Q, -1066549684, tZ1Q3MG0, (short)-135169264);
 }
 else
 {
@@ -322,7 +322,7 @@ q1nOGa >>= JD66;
 }
 else
 {
-yv23Y = ayQ2(-2032345528, 756252442);
+yv23Y = ayQ2(-2032345528, (short)756252442);
 }
 }
 catch (int& errorCode)
@@ -337,7 +337,7 @@ q1nOGa = B8xI(752864771, 766824789, V_m6q, -1089520209);
 q1nOGa = B8xI(937689119, KNd79_U, Miu_2gLHc, YdBC);
 try
 {
-K30n1aZ = B8xI(1592566587, -1365504172, -1532549284, Miu_2gLHc);
+K30n1aZ = B8xI(1592566587, (short)-1365504172, -1532549284, Miu_2gLHc);
 }
 catch (int& errorCode)
 {
@@ -365,7 +365,7 @@ else
 {
 for (int k = 0; k < 6; k++)
 {
-IxX6Z1lgOp = MDuh8(1537841853, 1847383390);
+IxX6Z1lgOp = MDuh8(1537841853, (unsigned short)1847383390);
 }
 }
 }
@@ -383,7 +383,7 @@ char    ayQ2(char    lWY5y5,short int    hIP8)
 }
 
 unsigned char    p3Kac(unsigned long    v43lMROD,unsigned char    sNpG6Qc,long    Voy_XlD6yU,short int    a2_2T)    {
-    return    -1783021315;
+    return    (unsigned char)-1783021315;
 }
 
 unsigned long long    MDuh8(unsigned short int    LPwsR3M6u,unsigned short int    b41K3zy)

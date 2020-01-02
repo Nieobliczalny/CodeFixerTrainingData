@@ -71,7 +71,7 @@ Sdffa8 = OdtyE_U(473124825, -799154930);
 }
 else if (B6M3qs5qf)
 {
-std::cout << OdtyE_U(ud_4gA4_79, -62776891) << VC_q4iJKL << fa1x2(1236947530) << std::endl;
+std::cout << OdtyE_U(ud_4gA4_79, (unsigned char)-62776891) << VC_q4iJKL << fa1x2(1236947530) << std::endl;
 }
 else
 {
@@ -215,7 +215,7 @@ do
 {
 try
 {
-std::cout << OdtyE_U(NWyt, -115316330) << eG63jJB8C << OdtyE_U(48846325, 1209805892) << std::endl;
+std::cout << OdtyE_U(NWyt, -115316330) << eG63jJB8C << OdtyE_U(48846325, (unsigned char)1209805892) << std::endl;
 }
 catch (int& errorCode)
 {
@@ -244,7 +244,7 @@ case 0:
 Sdffa8 = OdtyE_U(KDjFyXj8r, -1611307478);
 break;
 case 1:
-UeGl1Q = OdtyE_U(-599581310, -2012830504);
+UeGl1Q = OdtyE_U(-599581310, (unsigned char)-2012830504);
 break;
 case 2:
 VC_q4iJKL = OdtyE_U(1895632386, ud_4gA4_79);
@@ -378,7 +378,7 @@ case 'd':
 KDjFyXj8r = fa1x2(616927455);
 break;
 case 'e':
-W57GkFL_ = fa1x2(-810041622);
+W57GkFL_ = fa1x2((unsigned short)-810041622);
 break;
 case 'f':
 VOF8auxB = fa1x2(VOF8auxB);
@@ -418,7 +418,7 @@ W6HunP = fa1x2(W6HunP);
 break;
 case 'e':
 case 'E':
-Sdffa8 = OdtyE_U(Sdffa8, 124137943);
+Sdffa8 = OdtyE_U(Sdffa8, (unsigned char)124137943);
 break;
 case 'f':
 case 'F':
@@ -434,7 +434,7 @@ NWyt = fa1x2(-804246102);
 break;
 case 'i':
 case 'I':
-B6M3qs5qf = fa1x2(-1703825532);
+B6M3qs5qf = fa1x2((unsigned short)-1703825532);
 break;
 }
 }
@@ -458,7 +458,7 @@ NWyt = fa1x2(1554625587);
 break;
 case 'b':
 case 'B':
-Sdffa8 = OdtyE_U(-2007228532, 2008640734);
+Sdffa8 = OdtyE_U(-2007228532, (unsigned char)2008640734);
 break;
 }
 }
@@ -481,7 +481,7 @@ case 1:
 VOF8auxB = VOF8auxB ^ ud_4gA4_79;
 break;
 case 2:
-W6HunP = fa1x2(-282897354);
+W6HunP = fa1x2((unsigned short)-282897354);
 break;
 default:
 UeGl1Q = OdtyE_U(GI44Q, W6HunP);
@@ -579,7 +579,7 @@ switch (VC_q4iJKL)
 {
 case 'a':
 case 'A':
-eG63jJB8C = fa1x2(1326986);
+eG63jJB8C = fa1x2((unsigned short)1326986);
 break;
 case 'b':
 case 'B':
@@ -763,7 +763,7 @@ ud_4gA4_79 = fa1x2(-1835545837);
 }
 else if (VC_q4iJKL <= i3Nd4ZIR)
 {
-GI44Q = fa1x2(938967898);
+GI44Q = fa1x2((unsigned short)938967898);
 }
 else if (((eG63jJB8C) && (KDjFyXj8r == -1205448835)) || (W6HunP))
 {

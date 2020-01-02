@@ -37,7 +37,7 @@ int main(int argc, char** argv) {
     long    uVTDEaC;
     uVTDEaC    =    0;
     unsigned char    FBH75;
-    FBH75    =    -152613789;
+    FBH75    =    (unsigned char)-152613789;
 	long	yhuAHkU;
 	yhuAHkU	=	-311277120;
     short int    J8lk;
@@ -47,7 +47,7 @@ int main(int argc, char** argv) {
   unsigned char  Y5FQ1O_2xN;
   Y5FQ1O_2xN  =  -1866048230;
     unsigned short int    dpYKvQG1t3;
-    dpYKvQG1t3    =    -1826817247;
+    dpYKvQG1t3    =    (unsigned short)-1826817247;
   unsigned short  rY_OI;
   rY_OI  =  1051673756;
  unsigned short int Jzn4Y;
@@ -63,7 +63,7 @@ int main(int argc, char** argv) {
  unsigned long long THE4H2_L0;
  THE4H2_L0 = 347424667;
   short  w3ki7U;
-  w3ki7U  =  737495966;
+  w3ki7U  =  (short)737495966;
  unsigned int jUp19OhL;
  jUp19OhL = -1009303554;
     short    ICoR6;
@@ -73,7 +73,7 @@ int main(int argc, char** argv) {
     int    bjuva04;
     bjuva04    =    0;
   unsigned char  cllj;
-  cllj  =  666660078;
+  cllj  =  (unsigned char)666660078;
 	long long	E_jj06K;
 	E_jj06K	=	-1190384298;
  float dUC28;
@@ -83,7 +83,7 @@ int main(int argc, char** argv) {
  short int t_qFU;
  t_qFU = 1860108719;
  unsigned short TR_iGW5;
- TR_iGW5 = 693021679;
+ TR_iGW5 = (unsigned short)693021679;
  unsigned char S7oP0V05F;
  S7oP0V05F = 922702290;
   double  huGP6;
@@ -107,7 +107,7 @@ int main(int argc, char** argv) {
   int  J32XQ1Q65;
   J32XQ1Q65  =  -1817635840;
   short int  Eo5z;
-  Eo5z  =  -1650817186;
+  Eo5z  =  (short)-1650817186;
   unsigned long  Gnpd5;
   Gnpd5  =  -881445006;
  long J3_2c78kb;
@@ -117,7 +117,7 @@ int main(int argc, char** argv) {
     unsigned short    F30T5UV4PO;
     F30T5UV4PO    =    1862635517;
   unsigned short int  w833rI;
-  w833rI  =  -1591303636;
+  w833rI  =  (unsigned short)-1591303636;
  unsigned char H8Hc36c9n;
  H8Hc36c9n = -2000479958;
   unsigned short int  WsPG;
@@ -192,7 +192,7 @@ case 3:
 huGP6 = BpRN3(-103621998, uVTDEaC);
 break;
 case 4:
-bez6_RO6Si = PwGD3dI(802768090, huGP6);
+bez6_RO6Si = PwGD3dI((char)802768090, huGP6);
 break;
 case 5:
 Zr300nAx = KY2gjdc7(-759860359, e_PdGbZ, VWU_RC1N);
@@ -342,7 +342,7 @@ case 3:
 w833rI = TR_iGW5 ^ jUp19OhL;
 break;
 case 4:
-w833rI = KY2gjdc7(w833rI, 1178521974, -901481572);
+w833rI = KY2gjdc7(w833rI, 1178521974, (unsigned short)-901481572);
 break;
 case 5:
 bez6_RO6Si = KY2gjdc7(1894653444, -156607273, CZ053);
@@ -473,7 +473,7 @@ R3uyQ = BpRN3(R3uyQ, UCY0L64Ee);
 
 Zr300nAx = BpRN3(Zr300nAx, bez6_RO6Si);
 
-dUC28 = KY2gjdc7(1981081365, 1730519509, 1435385724);
+dUC28 = KY2gjdc7(1981081365, 1730519509, (unsigned short)1435385724);
 if (WsPG > tZnZm_)
 {
 fcMy8uL4 = FuhVt1 * J32XQ1Q65;
@@ -487,7 +487,7 @@ if (uVTDEaC <= 121572431)
 switch (J3_2c78kb)
 {
 case 0:
-Dhg2D8 = KY2gjdc7(Dhg2D8, -1199341808, -633798975);
+Dhg2D8 = KY2gjdc7(Dhg2D8, -1199341808, (unsigned short)-633798975);
 break;
 case 1:
 WsPG = PwGD3dI(1982835233, 956118215);

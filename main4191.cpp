@@ -38,7 +38,7 @@ int main(int argc, char** argv)
     char    vI49rv;
     vI49rv    =    506659360;
   unsigned char  G9zAt;
-  G9zAt  =  2106699520;
+  G9zAt  =  (unsigned char)2106699520;
  short wMK0zUT;
  wMK0zUT = 0;
 	int	zl1a;
@@ -50,7 +50,7 @@ int main(int argc, char** argv)
   short  sx83CM2ri;
   sx83CM2ri  =  0;
   unsigned short  K3GWP;
-  K3GWP  =  1282762644;
+  K3GWP  =  (unsigned short)1282762644;
 	unsigned short	QJP1Nd;
 	QJP1Nd	=	-1863950553;
   long  FCgt4jXAB3;
@@ -122,7 +122,7 @@ if (jVHMB == Jsr2MNWy)
 {
 try
 {
-i65B = aalBESkIz2(-2141083950, 1368138528, uJ0J0W0_n, 608303075, FCgt4jXAB3);
+i65B = aalBESkIz2(-2141083950, (unsigned char)1368138528, uJ0J0W0_n, 608303075, FCgt4jXAB3);
 }
 catch (int& errorCode)
 {

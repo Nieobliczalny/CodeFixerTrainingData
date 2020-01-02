@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
     long long    lAs1A88;
     lAs1A88    =    342963528;
     unsigned short    N5tn;
-    N5tn    =    -592869648;
+    N5tn    =    (unsigned short)-592869648;
  float oElO39uWj;
  oElO39uWj = -1001087202;
  int smZEc40;
@@ -34,7 +34,7 @@ int main(int argc, char** argv) {
 	unsigned long	bz71kRI;
 	bz71kRI	=	-620251258;
 	unsigned short int	z9vv;
-	z9vv	=	1104198654;
+	z9vv	=	(unsigned short)1104198654;
 	unsigned short int	jp7C;
 	jp7C	=	-1457926883;
     unsigned int    aMq91tcsk;
@@ -46,7 +46,7 @@ int main(int argc, char** argv) {
 	unsigned long	O2ttt_zA0;
 	O2ttt_zA0	=	-669031821;
  unsigned char onWvqP1564;
- onWvqP1564 = 160778065;
+ onWvqP1564 = (unsigned char)160778065;
   double  OO3oypy;
   OO3oypy  =  1371673458;
   short int  Gs___3_;
@@ -62,7 +62,7 @@ int main(int argc, char** argv) {
 	float	Jl3U2f0;
 	Jl3U2f0	=	-349121383;
 	unsigned short int	Z37Ew9;
-	Z37Ew9	=	1459166610;
+	Z37Ew9	=	(unsigned short)1459166610;
     int    n7lM0v;
     n7lM0v    =    -5099226;
   long  vuUPMHr2d;
@@ -72,7 +72,7 @@ int main(int argc, char** argv) {
 	char	VLoq7y0;
 	VLoq7y0	=	822159807;
  char MIm9d;
- MIm9d = 1368787608;
+ MIm9d = (char)1368787608;
  unsigned long long URgq;
  URgq = 1422755136;
     float    u7i5;
@@ -86,7 +86,7 @@ int main(int argc, char** argv) {
   double  VZE8;
   VZE8  =  -1479896584;
     unsigned short    SGwHz_ED;
-    SGwHz_ED    =    489481192;
+    SGwHz_ED    =    (unsigned short)489481192;
   unsigned long long  OZUwIJq1;
   OZUwIJq1  =  298532626;
 	unsigned short	DT25lXFX;
@@ -98,7 +98,7 @@ int main(int argc, char** argv) {
 	unsigned int	kO_7i8;
 	kO_7i8	=	22661503;
   unsigned short int  zrSrv7m2I;
-  zrSrv7m2I  =  -468064580;
+  zrSrv7m2I  =  (unsigned short)-468064580;
 	unsigned int	o8MMD5G1FR;
 	o8MMD5G1FR	=	-1884315179;
     double    U02A;
@@ -122,7 +122,7 @@ int main(int argc, char** argv) {
     double    VymF9v5No;
     VymF9v5No    =    -280693018;
   unsigned char  sN92;
-  sN92  =  1265908910;
+  sN92  =  (unsigned char)1265908910;
 	char	K491iDpA;
 	K491iDpA	=	-290195106;
 	float	U4TQGtN7;
@@ -142,7 +142,7 @@ int main(int argc, char** argv) {
 	unsigned char	gzp97;
 	gzp97	=	919033756;
   char  Q16qhvigU;
-  Q16qhvigU  =  -906026618;
+  Q16qhvigU  =  (char)-906026618;
   float  OR2Th100;
   OR2Th100  =  1575916221;
   double  TU8Q9;

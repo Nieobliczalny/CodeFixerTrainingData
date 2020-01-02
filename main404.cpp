@@ -185,7 +185,7 @@ dCE6pcP9 = s___(-946874514, -1179886909, 69662660);
 }
 else if (jr6vWC3O >= PtTo03jG)
 {
-cout << "uo_25_0T" << CiO2jCMc0 << "D6O_xo" << BicX2Sr8_0 << s___(i9uDa, -1192579805, NoP56) << endl;
+cout << "uo_25_0T" << CiO2jCMc0 << "D6O_xo" << BicX2Sr8_0 << s___(i9uDa, (unsigned char)-1192579805, NoP56) << endl;
 }
 else
 {
@@ -268,7 +268,7 @@ dCE6pcP9 = s___(VsVskM75z, -910899257, oZ5uwkW);
 break;
 case 'c':
 case 'C':
-u0fx = s___(-1031708876, -142661135, -1622713016);
+u0fx = s___(-1031708876, (unsigned char)-142661135, -1622713016);
 break;
 case 'd':
 case 'D':

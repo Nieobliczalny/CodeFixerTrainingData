@@ -54,7 +54,7 @@ int main(int argc, char** argv)
     m5E_5    =    0;
     u6OET    =    0;
 
-cout << A5cJj(ITxfa, -2007885733, TYoy, 807527126) << F1J4 << dL7Wf2BX << A5cJj(-160791489, t3Ef, TYoy, 1684179074) << pfXFl0fnM6(ITxfa, t3Ef, TYoy, W_5l_eQ) << endl;
+cout << A5cJj(ITxfa, -2007885733, TYoy, 807527126) << F1J4 << dL7Wf2BX << A5cJj(-160791489, t3Ef, TYoy, (unsigned char)1684179074) << pfXFl0fnM6(ITxfa, t3Ef, TYoy, W_5l_eQ) << endl;
 switch (dL7Wf2BX)
 {
 case 'a':
@@ -70,7 +70,7 @@ case 'd':
 P2UvJkfR4D = jKHz_VTY(P2UvJkfR4D, 145056505, I27zjj_Yu, -832153468);
 break;
 case 'e':
-NPd28 = pfXFl0fnM6(i8_4dBS, -1816099243, ITxfa, NPd28);
+NPd28 = pfXFl0fnM6(i8_4dBS, (short)-1816099243, ITxfa, NPd28);
 break;
 default:
 TYoy = A5cJj(m5E_5, 1906894205, NPd28, -1441037894);
@@ -82,7 +82,7 @@ if (((ITxfa >= qTGCXHudT8) && (m5E_5 <= -2107110740)) && ((Z_a3 == 1299537391) &
 switch (TYoy)
 {
 case 0:
-P2UvJkfR4D = A5cJj(-851204250, TYoy, 299735622, 568725390) ^ 1494817924;
+P2UvJkfR4D = A5cJj(-851204250, TYoy, 299735622, (unsigned char)568725390) ^ 1494817924;
 break;
 }
 }
@@ -269,7 +269,7 @@ int i = 9;
 while (i >= 0)
 {
 --i;
-cout << SBcu67jz5Y(ITxfa) << I27zjj_Yu << jKHz_VTY(ITxfa, 261380025, 1668465349, 1261434489) << wIePey(158124935, qGwb, I27zjj_Yu, 565497228) << endl;
+cout << SBcu67jz5Y(ITxfa) << I27zjj_Yu << jKHz_VTY(ITxfa, 261380025, 1668465349, (unsigned short)1261434489) << wIePey(158124935, qGwb, I27zjj_Yu, 565497228) << endl;
 }
 }
 F1J4 = (unsigned long)(P2UvJkfR4D);
@@ -315,7 +315,7 @@ case 0:
 t3Ef *= 1796772145;
 break;
 case 1:
-m5E_5 = pfXFl0fnM6(-1100729844, x9n2e, IW2Mwz, t3Ef);
+m5E_5 = pfXFl0fnM6((unsigned short)-1100729844, x9n2e, IW2Mwz, t3Ef);
 break;
 case 2:
 NPd28 = pfXFl0fnM6(Z_a3, -948952171, TYoy, qTGCXHudT8);
@@ -327,7 +327,7 @@ case 4:
 dL7Wf2BX = i8_4dBS % 1328265324;
 break;
 case 5:
-u6OET = pfXFl0fnM6(-1910033678, qGwb, W_5l_eQ, 610136758);
+u6OET = pfXFl0fnM6((unsigned short)-1910033678, qGwb, W_5l_eQ, 610136758);
 break;
 case 6:
 TYoy = jKHz_VTY(-2052104112, -643009194, m5E_5, 1094614836);

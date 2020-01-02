@@ -124,7 +124,7 @@ break;
 }
 else
 {
-std::cout << p33z2qve << vnhI << l0fEQ2R(Q6b84FT, toYplUAw, 1647028900) << G7CmC_kP << tV8iT7fI(-753209570) << std::endl;
+std::cout << p33z2qve << vnhI << l0fEQ2R(Q6b84FT, toYplUAw, (char)1647028900) << G7CmC_kP << tV8iT7fI(-753209570) << std::endl;
 }
 if (N59NV6nQ)
 {
@@ -149,7 +149,7 @@ std::cout << l0fEQ2R(761323927, toYplUAw, bc3laLqTD) << l0fEQ2R(Q6b84FT, toYplUA
 }
 else if (XJB_Cm5Tt > Ztg_6C5g6)
 {
-std::cout << "Lyu4IvPe5" << tV8iT7fI(Q6b84FT) << l0fEQ2R(952440288, -1435112442, 360061325) << "M1KGQQ9" << bc3laLqTD << std::endl;
+std::cout << "Lyu4IvPe5" << tV8iT7fI(Q6b84FT) << l0fEQ2R(952440288, -1435112442, (char)360061325) << "M1KGQQ9" << bc3laLqTD << std::endl;
 }
 else
 {
@@ -340,7 +340,7 @@ if (LXW96TtO_N <= bX80L80)
 {
 try
 {
-WwqKn = l0fEQ2R(-1394142656, 74213184, 1599411957);
+WwqKn = l0fEQ2R(-1394142656, 74213184, (char)1599411957);
 }
 catch (int& errorCode)
 {
@@ -366,7 +366,7 @@ case 2:
 Diz3upZ -= svU5g9mnh;
 break;
 default:
-nprQ835vn7 = l0fEQ2R(1183153757, 453269717, -1861020277);
+nprQ835vn7 = l0fEQ2R(1183153757, (char)453269717, -1861020277);
 break;
 }
 }
@@ -519,7 +519,7 @@ LYC8B5mqB = LU_m + Ex5ad3jO;
 }
 else if (Q6b84FT > h_9rLOJ_1)
 {
-ZUNb_UXx2_ = azt3fLWJ9(p33z2qve, -786137603);
+ZUNb_UXx2_ = azt3fLWJ9(p33z2qve, (short)-786137603);
 }
 else if (WwqKn)
 {
@@ -536,7 +536,7 @@ QZ0bC &= Ex5ad3jO;
 }
 else if (QKe2vNQF >= -2065540963)
 {
-std::cout << tV8iT7fI(-29890646) << "yScc5K" << b71b1Z7 << l0fEQ2R(360472200, -1231464408, 1414730520) << std::endl;
+std::cout << tV8iT7fI(-29890646) << "yScc5K" << b71b1Z7 << l0fEQ2R(360472200, -1231464408, (char)1414730520) << std::endl;
 }
 else if (((dpy5c_ != Ztg_6C5g6) || (N59NV6nQ <= bX80L80)) || (n085il <= 1890952237))
 {
@@ -582,7 +582,7 @@ case 0:
 ZUNb_UXx2_ = azt3fLWJ9(m_Fqz384VN, -1360032579);
 break;
 case 1:
-LYC8B5mqB = l0fEQ2R(1088621622, 1494564588, Al80wIwE2m);
+LYC8B5mqB = l0fEQ2R(1088621622, (char)1494564588, Al80wIwE2m);
 break;
 case 2:
 s25mK9g--;
@@ -594,7 +594,7 @@ case 4:
 NB86_53MRK = azt3fLWJ9(1869204537, -1479572522);
 break;
 case 5:
-LXW96TtO_N = l0fEQ2R(LXW96TtO_N, 276769119, j1ff6SoW8O);
+LXW96TtO_N = l0fEQ2R(LXW96TtO_N, (char)276769119, j1ff6SoW8O);
 break;
 case 6:
 QKe2vNQF = (yBmvn_z <= Ztg_6C5g6) ? l0fEQ2R(-1584687811, 1964735230, j1ff6SoW8O) : -1371587768;

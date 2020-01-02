@@ -26,7 +26,7 @@ int main(int argc, char** argv) {
   unsigned char  H7Aq3s;
   H7Aq3s  =  -221623207;
     short    MUmnX3nND;
-    MUmnX3nND    =    -1107709181;
+    MUmnX3nND    =    (short)-1107709181;
 	char	pFpCl6KRVw;
 	pFpCl6KRVw	=	-451621025;
   long  VMOtsnN;
@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
     unsigned long    Y56h6cf0xt;
     Y56h6cf0xt    =    1794100770;
   unsigned short int  K5h_SzV;
-  K5h_SzV  =  -1995319199;
+  K5h_SzV  =  (unsigned short)-1995319199;
  unsigned short PzlbRQ8;
  PzlbRQ8 = -961396657;
  unsigned short uGQMr1x;
@@ -68,7 +68,7 @@ int main(int argc, char** argv) {
 	char	dVk85KKa9;
 	dVk85KKa9	=	-1681379100;
   char  g6h8XV1;
-  g6h8XV1  =  592262105;
+  g6h8XV1  =  (char)592262105;
 	unsigned short int	QfB7C;
 	QfB7C	=	1807866631;
 	unsigned long long	wIRnPKTo;
@@ -88,7 +88,7 @@ int main(int argc, char** argv) {
 	unsigned long	iTw2;
 	iTw2	=	489624515;
     char    qLqPspp3Mk;
-    qLqPspp3Mk    =    1707792988;
+    qLqPspp3Mk    =    (char)1707792988;
     short    Cu5zX;
     Cu5zX    =    -1545245102;
     int    oHGaf4d26;
@@ -106,7 +106,7 @@ int main(int argc, char** argv) {
   long  rhv8TG5vk;
   rhv8TG5vk  =  0;
 	char	konsRgs9;
-	konsRgs9	=	-1264694346;
+	konsRgs9	=	(char)-1264694346;
   long double  QkfmKXE93c;
   QkfmKXE93c  =  -1347821237;
     int    J700OTh;
@@ -189,7 +189,7 @@ vN0Y = h9I1A(936246279, -1635532609);
 }
 else if (mLvf <= 30281806)
 {
-VMOtsnN = (VhvpFPK <= ks2Yqk) ? QfB7C : XuUF(vN0Y, 1996716816, 31004393, 672842126);
+VMOtsnN = (VhvpFPK <= ks2Yqk) ? QfB7C : XuUF(vN0Y, (short)1996716816, 31004393, 672842126);
 }
 else if (FLqcXB7 >= 1498679194)
 {
@@ -237,7 +237,7 @@ try
 {
 for (int k = 7; k >= 0; --k)
 {
-v116J6k_ = U0VF_t64i(2089481514, g94Gud, -416356275);
+v116J6k_ = U0VF_t64i(2089481514, g94Gud, (char)-416356275);
 }
 }
 catch (int& errorCode)
@@ -308,7 +308,7 @@ int j = 0;
 while (j < 6)
 {
 ++j;
-cout << "pYurY6c8D2" << XuUF(-1788212366, 555321534, -900602803, c8AvL) << U0VF_t64i(27460252, 55673178, MUmnX3nND) << endl;
+cout << "pYurY6c8D2" << XuUF(-1788212366, (short)555321534, -900602803, c8AvL) << U0VF_t64i(27460252, 55673178, MUmnX3nND) << endl;
 }
 }
 }
@@ -449,7 +449,7 @@ do
 {
 if ((u0xhOx5) && (qQVs1N >= -1310396845))
 {
-J700OTh = XuUF(-162082666, vN0Y, -1163356976, FLqcXB7);
+J700OTh = XuUF(-162082666, vN0Y, (char)-1163356976, FLqcXB7);
 }
 else
 {

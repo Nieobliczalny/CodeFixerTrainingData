@@ -199,7 +199,7 @@ catch (int& errorCode)
 {
 Ho7CLE9 -= 214077088;
 }
-std::cout << w4L52k8Kx8(uZz3_, -1495048032) << w4L52k8Kx8(uZz3_, -254429796) << "Et89o1" << oGd_Hy6AYx << p41I4 << std::endl;
+std::cout << w4L52k8Kx8(uZz3_, -1495048032) << w4L52k8Kx8(uZz3_, (unsigned char)-254429796) << "Et89o1" << oGd_Hy6AYx << p41I4 << std::endl;
 try
 {
 switch (aLb2l2lm)
@@ -315,7 +315,7 @@ else if (qZ2k > 785273979)
 {
 try
 {
-std::cout << w4L52k8Kx8(B4niG, -713987557) << w4L52k8Kx8(-2030277808, 1778856051) << MHK7 << Gew_5 << std::endl;
+std::cout << w4L52k8Kx8(B4niG, -713987557) << w4L52k8Kx8(-2030277808, (unsigned char)1778856051) << MHK7 << Gew_5 << std::endl;
 }
 catch (int& errorCode)
 {

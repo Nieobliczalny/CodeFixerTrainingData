@@ -25,7 +25,7 @@ int main(int argc, char** argv) {
 	char	QAsZocpB_9;
 	QAsZocpB_9	=	381979866;
     short    acoZE3ZZ;
-    acoZE3ZZ    =    -1706326932;
+    acoZE3ZZ    =    (short)-1706326932;
     long long    C6N6q4x;
     C6N6q4x    =    0;
     int    uZqe;
@@ -65,7 +65,7 @@ case 4:
 QAsZocpB_9 = (int)abs(C6N6q4x) + (-1152366992);
 break;
 case 5:
-Yt853ihYuv = nPdu2fF_5(-732934816, -7629027, SY2V4, 111969686, 196551686) ^ QAsZocpB_9;
+Yt853ihYuv = nPdu2fF_5(-732934816, -7629027, SY2V4, 111969686, (short)196551686) ^ QAsZocpB_9;
 break;
 default:
 QAsZocpB_9 <<= a09Co;
@@ -117,7 +117,7 @@ case 7:
 SY2V4 = (int)abs(acoZE3ZZ);
 break;
 case 8:
-Yt853ihYuv = nPdu2fF_5(1573205584, 1469539839, a8Xuma, WT_0, -1775095116);
+Yt853ihYuv = nPdu2fF_5(1573205584, 1469539839, a8Xuma, WT_0, (short)-1775095116);
 break;
 case 9:
 acoZE3ZZ = WneoBI(Cy5C62R);
@@ -380,7 +380,7 @@ else
 {
 for (int j = 0; j < 5; ++j)
 {
-std::cout << QAsZocpB_9 << nPdu2fF_5(a8Xuma, 2129581756, -658290554, C6N6q4x, Cy5C62R) << C6N6q4x << WneoBI(a8Xuma) << nPdu2fF_5(-952348302, 2128473802, Yt853ihYuv, C6N6q4x, -725478263) << std::endl;
+std::cout << QAsZocpB_9 << nPdu2fF_5(a8Xuma, 2129581756, -658290554, C6N6q4x, Cy5C62R) << C6N6q4x << WneoBI(a8Xuma) << nPdu2fF_5(-952348302, (unsigned short)2128473802, Yt853ihYuv, C6N6q4x, -725478263) << std::endl;
 }
 }
 acoZE3ZZ = nPdu2fF_5(xX08E5, uZqe, acoZE3ZZ, 1334975512, -166835638);
@@ -456,7 +456,7 @@ else
 {
 if (Cy5C62R & -1921384520)
 {
-a09Co = nPdu2fF_5(795887303, -102866684, -792891379, 330815521, -1929009580);
+a09Co = nPdu2fF_5(795887303, -102866684, -792891379, 330815521, (short)-1929009580);
 }
 }
 if (((WT_0 & C6N6q4x) && (bA8MQT < Cy5C62R)) && (QAsZocpB_9 >= 1769912682))
@@ -468,7 +468,7 @@ try
 switch (xX08E5)
 {
 case 0:
-a8Xuma = nPdu2fF_5(uZqe, -815070333, a8Xuma, QAsZocpB_9, -971517453);
+a8Xuma = nPdu2fF_5(uZqe, -815070333, a8Xuma, QAsZocpB_9, (short)-971517453);
 break;
 case 1:
 SY2V4 = Cy5C62R & 1821780429;

@@ -237,7 +237,7 @@ D93i2_M97 = n9VM__(1581672711);
 break;
 case 'd':
 case 'D':
-um22 = n9VM__(-1479208408);
+um22 = n9VM__((unsigned short)-1479208408);
 break;
 case 'e':
 case 'E':
@@ -295,7 +295,7 @@ YIFi = tyA5gaD(-1535074055, 437019538, 250361354, p6Too7, jIG1U99mKv);
 }
 else
 {
-Oa17IIp = tyA5gaD(-93368266, Uzb3r5ZV, k_jb, 403855161, 1443285105);
+Oa17IIp = tyA5gaD(-93368266, Uzb3r5ZV, k_jb, (unsigned short)403855161, 1443285105);
 }
 
 e66j_qT = (int)floor(Z09N_x2sj);
@@ -314,7 +314,7 @@ j--;
 
 try
 {
-gy76 = tyA5gaD(gy76, -310248975, -1875538336, 863543625, -421001004);
+gy76 = tyA5gaD(gy76, -310248975, -1875538336, (unsigned short)863543625, -421001004);
 }
 catch (int& errorCode)
 {

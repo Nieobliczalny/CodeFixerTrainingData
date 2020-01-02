@@ -91,7 +91,7 @@ case 5:
 UDr_55QV = V_LB(UDr_55QV, X6vG951, c6z5, a5DX6c_);
 break;
 default:
-y_Nwn = Pf9_V(-1399525827, -1967204892, UDr_55QV);
+y_Nwn = Pf9_V(-1399525827, (char)-1967204892, UDr_55QV);
 break;
 }
 }
@@ -113,7 +113,7 @@ else if (yMC8nnH7C > B30dk397v)
 {
 if (G6g4S19v2z == Y7jQ1)
 {
-k5xBRzhdMQ = pNpBS12Rh(b9v2, 691727915, kZ4RCf22B, D9DU, -1315573071);
+k5xBRzhdMQ = pNpBS12Rh(b9v2, 691727915, kZ4RCf22B, D9DU, (short)-1315573071);
 }
 }
 else if (yMC8nnH7C != 539382945)
@@ -138,7 +138,7 @@ Ke2UodE = mGLlsY5 ^ 811510370;
 break;
 case 'd':
 case 'D':
-wdD9 = V_LB(-1593228996, 1710852089, 1244288459, pR_q0Vc);
+wdD9 = V_LB(-1593228996, 1710852089, (char)1244288459, pR_q0Vc);
 break;
 case 'e':
 case 'E':
@@ -161,7 +161,7 @@ case 'I':
 Ypkm21nw2_ %= 390603851;
 break;
 default:
-y_Nwn = Pf9_V(-2012968249, k5xBRzhdMQ, -1452235105);
+y_Nwn = Pf9_V(-2012968249, k5xBRzhdMQ, (unsigned short)-1452235105);
 break;
 }
 }
@@ -211,7 +211,7 @@ G6g4S19v2z -= TI3z9D;
 }
 while (i >= 0);
 }
-X6vG951 = pNpBS12Rh(488989022, 98084833, -1291370370, 1972017453, -1353097063);
+X6vG951 = pNpBS12Rh(488989022, 98084833, (short)-1291370370, 1972017453, -1353097063);
 if (DIC0Q782x8 <= 1305790361)
 {
 for (int j = 0; j < 6; ++j)
@@ -260,7 +260,7 @@ else
 {
 if ((U1fNG < 1614115910) && (sSnTLa1m5 > 2053655162))
 {
-k5xBRzhdMQ = pNpBS12Rh(-1232143083, D9DU, 2056613477, TI3z9D, -984318315);
+k5xBRzhdMQ = pNpBS12Rh(-1232143083, D9DU, 2056613477, TI3z9D, (short)-984318315);
 }
 else
 {
@@ -307,7 +307,7 @@ case 'b':
 k5xBRzhdMQ = pNpBS12Rh(y3J57pB2, kBMA, pR_q0Vc, iyNk, vCk4Rn_LF);
 break;
 case 'c':
-mJ95WPR = V_LB(mJ95WPR, 1746973350, kBMA, 67613361);
+mJ95WPR = V_LB(mJ95WPR, (unsigned short)1746973350, kBMA, 67613361);
 break;
 case 'd':
 wdD9 = pNpBS12Rh(-1187777949, G7cE1Z39K, kBMA, s1dnz32, jam2hZYA) >> 1674597281;
@@ -403,7 +403,7 @@ else if (mGLlsY5 != oyKTif8j6_)
 switch (Ypkm21nw2_)
 {
 case 'a':
-Nv6l44K = V_LB(-454973339, 1689049862, 1115902602, -1244536894);
+Nv6l44K = V_LB(-454973339, 1689049862, (char)1115902602, -1244536894);
 break;
 case 'b':
 k5xBRzhdMQ = pNpBS12Rh(-1781796991, -1723690214, 2100037624, -521963405, k5xBRzhdMQ);

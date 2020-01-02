@@ -125,7 +125,7 @@ int k = 0;
 do
 {
 k++;
-lja80tsj9 = QunJ(681632964, eMyaDhr, r_1M8G, iO9IiAL_, -1390965626);
+lja80tsj9 = QunJ(681632964, eMyaDhr, r_1M8G, iO9IiAL_, (char)-1390965626);
 }
 while (k < 10);
 }
@@ -286,7 +286,7 @@ unsigned char    n7DTt3q(long long    gGNiPxzu0,short    U08_bR,unsigned long   
 }
 
 short int L8G0E(int dxxDg) {
- return -1985775959;
+ return (short)-1985775959;
 }
 
 unsigned char  mS8e9()  {

@@ -16,7 +16,7 @@ short    I71Q74sq(int    zMD_8)    {
 }
 
 char  S636U58()  {
-  return  354204944;
+  return  (char)354204944;
 }
 
 unsigned long NRDyG_E5F()
@@ -34,6 +34,7 @@ long long	S12iZ0(unsigned long	tul55Jl,unsigned short	YDiR3,unsigned short	v_bXp
 
 int main(void)
 {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
  unsigned char QqWmwqi = -1410763960, l_pyxI = -1322413199, iLha = 314751668, N3_WtAR6 = -2147233740, K42h28Z6e = 16798059, I5O36P4gs = -388791152, DIvd9Tl = 103476807, V0T76FvPY = -1467022013, r2Dy = -75423335, W_2L6h7Y1 = -1875629296, Way5a = 946332776, hX5_Ia8uQ1 = 1212011147, Ya8Z__YI = -671845736, D6B_G6F8 = -283176309, S2xJ3Uwwl8 = -1419887008, t9_VbsgeJ = -1191414215, P53hj__ = 403001353, W84C6 = -1826714743, p9e5sK = -1557139539, g31_iw35dU = -1378262713, zDY352 = 253777717, v007eG = 2007587199, Sto75Qg8 = 758524596, rFjcM7b_ = -1217782312, U0n5S3Qx = 790469579, Jkd_N787 = -338344479, bgu4E7l = 1653457122, jhfgfH = -1281408312, Fw4s52 = -677010412, H_FJ = 1089385866, KI1rU48n = -874222317, L4LebHl4Z9 = -1787888337, u42ynK4V = 1384721205, yHt_5AT = -324431, ezUm = -1442848434, T579m63Nj1 = 323904198, nob42UQs5 = 652543111, HqaV8hiD = 1878133, u1c9_G4mf = 380559267, V_N4Ts829 = 425171705, w3BVBIefc = -293949082, VN_b = -1930774551, k_6e = 647996408, y0pX = -192122678, tpAP2__4 = -1130816097, CVQMbXz1R = -1146988866, GJtnk = -1035819621, C7sHD7YRY = 1754605958, XV0W6H = -776677063, V_Fn = 634346736, bs0W5h__C_ = 2094541428, uldl8 = 1771505577, f_uoBr957a = -1768618484, F1O8X = -916935431, BwZnNXJ4tb = 769400073, Az_4rfuAcD = 1580476227, lm_jGL8_ = 323967439, dVga95nyt = 1445374989, jxMz2i = 420953525, ATzSe2w = -67145345, pj7e9h0_ = 1631201033, j47dvN3 = 218863604, A8AMv0 = 1411003399, Zs9t6 = 1131093034;
 	unsigned int	o63125	=	0,	q8b_J3f	=	0,	L6jBNq72	=	0;
 
@@ -159,7 +160,7 @@ w3BVBIefc = (jxMz2i) ? I5O36P4gs : pj7e9h0_;
 }
 else if (t9_VbsgeJ < lm_jGL8_)
 {
-o63125 = S12iZ0(-220720193, 269490329, 481894422, 769410194);
+o63125 = S12iZ0(-220720193, 269490329, (unsigned short)481894422, 769410194);
 }
 else if (bs0W5h__C_)
 {
@@ -195,7 +196,7 @@ else
 std::cout << "aZKus4" << std::endl;
 }
 }
-V_N4Ts829 = IUOr2(141424710);
+V_N4Ts829 = IUOr2((unsigned short)141424710);
 Ya8Z__YI = (unsigned char)(DIvd9Tl);
 
 for (int i = 0; i < 4; i++)
@@ -231,7 +232,7 @@ else if (D6B_G6F8)
 {
 try
 {
-o63125 = S12iZ0(-1723111484, ezUm, 1835539598, -733717502);
+o63125 = S12iZ0(-1723111484, ezUm, 1835539598, (unsigned char)-733717502);
 }
 catch (int& errorCode)
 {

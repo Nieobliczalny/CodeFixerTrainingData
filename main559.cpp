@@ -22,7 +22,7 @@ int main(int argc, char** argv)
     float    rpF3AcI0f    =    311927883;
     unsigned char    HR4e    =    789846944;
     unsigned int    wFX5nVT4B_    =    0;
-  unsigned short int  y1_R3i  =  364622768;
+  unsigned short int  y1_R3i  =  (unsigned short)364622768;
     unsigned long long    tksTGU3ae    =    1619196113;
     long double    N252j    =    225063819;
     unsigned long long    QHcJp29_rs    =    -1904587591;
@@ -35,7 +35,7 @@ int main(int argc, char** argv)
     long    iIUYiVMUP    =    560593082;
     char    Zle4LI9DX5    =    1208336254;
   long  R80laVKr5x  =  -19392134;
-	char	ur6vuIrL	=	-798073033;
+	char	ur6vuIrL	=	(char)-798073033;
   char  g_IzLYNNn  =  0;
 	char	C5e2w9	=	-1365348471;
     unsigned long    h26Q    =    -1336594199;
@@ -72,7 +72,7 @@ case 'd':
 rpF3AcI0f = (int)ceil(p9Fwl_931);
 break;
 case 'e':
-P4R48PbWtP = D3In4sY2(1237158146, 1942597619, -1804902908);
+P4R48PbWtP = D3In4sY2(1237158146, 1942597619, (short)-1804902908);
 break;
 case 'f':
 rpF3AcI0f = (int)ceil(p9Fwl_931);
@@ -108,7 +108,7 @@ do
 switch (sTG6qZX6R)
 {
 case 0:
-wFX5nVT4B_ = D3In4sY2(-200017153, zxN9F6117_, -692578925);
+wFX5nVT4B_ = D3In4sY2(-200017153, zxN9F6117_, (short)-692578925);
 break;
 case 1:
 rpF3AcI0f -= R80laVKr5x;
@@ -184,7 +184,7 @@ return 0;
 
 unsigned short int  U45Dn(unsigned char  BRdUiVD,int  Zk5af,short int  hzKA1W_,unsigned long  uriot3)
 {
-  return  285110218;
+  return  (unsigned short)285110218;
 }
 
 unsigned short int D3In4sY2(unsigned long long bGX9bJ,unsigned int ra_8,short int UEnv)

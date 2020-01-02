@@ -13,7 +13,7 @@ int main(int argc, char** argv)
 {
 	short	vTwLyIe5	=	-1608400784;
  int NY9sE = -2010366640;
-    char    FM9rAzBOY    =    -219856669;
+    char    FM9rAzBOY    =    (char)-219856669;
 	long long	vI1X1VuLDp	=	550681239;
  long long Z2n6_6p4 = 1285924193;
  unsigned short int ERD83 = -1619700486;
@@ -24,7 +24,7 @@ int main(int argc, char** argv)
 	long double	STVYW	=	-1627373769;
     unsigned char    gLdkF    =    -1702248421;
     float    JaVhmM    =    1908132902;
- unsigned char lLk46E64Y = 418885062;
+ unsigned char lLk46E64Y = (unsigned char)418885062;
  long i668JP = -123063015;
  double Hv6k5uL = 1323891152;
 	int	VN__2Fo	=	-127389701;
@@ -37,7 +37,7 @@ int main(int argc, char** argv)
 	int	YLk_	=	0;
   unsigned long long  IIvk6b6_7k  =  1251769460;
 	char	pR7_aEdx	=	331579025;
-	unsigned char	wj1_ew1Gt	=	1649536636;
+	unsigned char	wj1_ew1Gt	=	(unsigned char)1649536636;
     unsigned short    qQfybE7Vd0    =    1263590470;
  int ysD24sFb7 = -1336752601;
 	char	C648nL_3L	=	-906587250;
@@ -56,7 +56,7 @@ int main(int argc, char** argv)
  double h1_w = -34064965;
   double  zP6we  =  -1487081355;
 	float	eKpk4M0_1E	=	-248015447;
-  short  Y6sW8  =  1531824594;
+  short  Y6sW8  =  (short)1531824594;
  long long LV_Z = 953820904;
 	int	Z_I2qb	=	1327025328;
   unsigned short  e67B74G3C  =  -960456321;
@@ -68,7 +68,7 @@ int main(int argc, char** argv)
  unsigned short w748 = 190559499;
 	unsigned int	aeB5kutU	=	1408569065;
   long long  G7qmJt2D_w  =  -50997730;
-    unsigned char    aIW9DR9    =    -1361329340;
+    unsigned char    aIW9DR9    =    (unsigned char)-1361329340;
     int    YAlzq    =    -100512538;
  unsigned char x3QU = 191354756;
 	unsigned long long	VVsvVsXT6r	=	498367173;
@@ -79,7 +79,7 @@ int main(int argc, char** argv)
 	long long	fZkw3	=	-550126872;
     long    Y7KD    =    -1580828632;
   long  UthaS00j  =  -570756784;
-	unsigned short int	H05e2kfK92	=	527168551;
+	unsigned short int	H05e2kfK92	=	(unsigned short)527168551;
   unsigned long long  FfyldU_  =  628558699;
 	int	vjmP5q	=	1576661796;
     unsigned int    qh39_    =    1995919397;

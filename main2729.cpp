@@ -29,7 +29,7 @@ int main(void)
  long double fq7xu_i;
  fq7xu_i = 1974057972;
 	unsigned short	URWukDG;
-	URWukDG	=	-1845809033;
+	URWukDG	=	(unsigned short)-1845809033;
  double wwqvW4j;
  wwqvW4j = -330485497;
   short int  q_pM;

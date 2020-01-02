@@ -47,7 +47,7 @@ int main(void)
  unsigned char ZLH_e6093 = 1876618119;
   float  SndZ_BD  =  456972862;
   long  bqRRnT  =  1277828043;
- unsigned short DjIj = 760858911;
+ unsigned short DjIj = (unsigned short)760858911;
  long long O1j_dPN91s = -139321631;
     long    Kd7Zo54f_    =    1717000158;
 	unsigned int	k1e0D	=	-1565562706;
@@ -68,7 +68,7 @@ int main(void)
 	int	s5x2F80W	=	-1500072289;
 	unsigned long	kef8Dc7e7	=	295882108;
     short int    Pwy8u9    =    -75521760;
-  unsigned char  Bi1SOw  =  408567430;
+  unsigned char  Bi1SOw  =  (unsigned char)408567430;
 	float	PpNcY	=	886830536;
 	long double	A2T0QPl	=	-502583852;
     unsigned short    ZgDs    =    -1895650072;
@@ -80,7 +80,7 @@ int main(void)
     unsigned short    I3vD    =    1334975907;
   double  B2ySynDp90  =  421805506;
  float SNJLl8wY = 805761246;
-    char    UVHkTqx    =    877802080;
+    char    UVHkTqx    =    (char)877802080;
     unsigned int    Gt4bs_fcmm    =    1409764134;
   unsigned long  Wes0kP26  =  851191108;
   long  X_YI7msz  =  -728914076;
@@ -92,7 +92,7 @@ int main(void)
     unsigned short int    mj7kA820    =    0;
  char YM4_2N = 350790524;
  unsigned int rCc7t4bG2 = -1065210257;
-	short	v7dgMg22h	=	-197711792;
+	short	v7dgMg22h	=	(short)-197711792;
 	int	CQJJKoz96	=	-948140292;
  int D3X9S0t7O = 298199923;
   unsigned short int  EbL_n  =  -235955215;
@@ -106,7 +106,7 @@ int main(void)
     long    JtCzU72du4    =    1965957628;
     unsigned char    JeFYYil    =    -127357118;
  long double AD03 = 844517006;
-	unsigned short int	PA865	=	1866210413;
+	unsigned short int	PA865	=	(unsigned short)1866210413;
   unsigned long long  Ca1635yFB  =  -2094462645;
 	short int	u5YLo	=	92363351;
 	char	m__dzWuN	=	1330054581;
@@ -118,7 +118,7 @@ int main(void)
     unsigned int    Ob3QqJM    =    2132369128;
 	unsigned char	S__B5n7jqp	=	-1407863796;
 	unsigned long long	t6Yh06	=	2108823554;
- short int GYLxLcV7g = 97274195;
+ short int GYLxLcV7g = (short)97274195;
     unsigned long long    Ceh5G    =    1530463085;
     unsigned short int    w0lo    =    -781393688;
     char    M9V4    =    -468237641;

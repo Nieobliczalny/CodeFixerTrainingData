@@ -37,7 +37,7 @@ int main() {
   char  DrqRV6E;
   DrqRV6E  =  -789943067;
  char sgdu7ZkZ__;
- sgdu7ZkZ__ = -688694015;
+ sgdu7ZkZ__ = (char)-688694015;
  short z4Mb;
  z4Mb = -386412273;
  unsigned char pUe5_ju2Vd;
@@ -49,7 +49,7 @@ int main() {
  long double HDX61N0F0H;
  HDX61N0F0H = -1879245946;
   char  HMY8X7;
-  HMY8X7  =  524841466;
+  HMY8X7  =  (char)524841466;
     unsigned short    nAy9qGF;
     nAy9qGF    =    -785216295;
  unsigned int SF73705v76;
@@ -69,7 +69,7 @@ int main() {
  short int V7569;
  V7569 = -1506525560;
     unsigned short int    P_QF8v8dl0;
-    P_QF8v8dl0    =    1864367928;
+    P_QF8v8dl0    =    (unsigned short)1864367928;
  unsigned short int Sag7l;
  Sag7l = -1274392535;
     unsigned long    U40iKePoc;
@@ -83,7 +83,7 @@ int main() {
  unsigned char DfbO8T;
  DfbO8T = 0;
 	short int	Z1SOa9qb9;
-	Z1SOa9qb9	=	-696391305;
+	Z1SOa9qb9	=	(short)-696391305;
     unsigned long    QD2w;
     QD2w    =    91789805;
 	unsigned int	gAY664zVwC;
@@ -93,7 +93,7 @@ int main() {
  short qMK0htlW;
  qMK0htlW = -137400773;
   unsigned short int  VLwC9U2IZ;
-  VLwC9U2IZ  =  522298055;
+  VLwC9U2IZ  =  (unsigned short)522298055;
     int    xPy9VOI78;
     xPy9VOI78    =    -114140172;
     short int    s_yJA35v9;
@@ -111,7 +111,7 @@ int main() {
 	short	nmnn;
 	nmnn	=	1069902868;
 	unsigned short	BOIJTqBy;
-	BOIJTqBy	=	1536246148;
+	BOIJTqBy	=	(unsigned short)1536246148;
   char  i8SEb;
   i8SEb  =  -1516995138;
     short    Oyx4;
@@ -125,7 +125,7 @@ int main() {
  unsigned long Yul9qN9w8;
  Yul9qN9w8 = 306019133;
   unsigned char  xpda2;
-  xpda2  =  305390817;
+  xpda2  =  (unsigned char)305390817;
     long long    UdsxRfZ9;
     UdsxRfZ9    =    204727386;
  int JM88r;
@@ -139,7 +139,7 @@ int main() {
  double IhF2a5;
  IhF2a5 = 1591448806;
  short int rRN9Jq3;
- rRN9Jq3 = 1542614897;
+ rRN9Jq3 = (short)1542614897;
  int kT67r6bP2;
  kT67r6bP2 = -605919309;
 	char	nqY_W_7V;
@@ -151,7 +151,7 @@ int main() {
   long double  Dh9bOtGp;
   Dh9bOtGp  =  876032144;
   short  V2MP7f7;
-  V2MP7f7  =  1360841425;
+  V2MP7f7  =  (short)1360841425;
 	unsigned short	w7m4;
 	w7m4	=	1777261257;
     long    x8o_7;
@@ -161,7 +161,7 @@ int main() {
   double  vx7iBFFhcx;
   vx7iBFFhcx  =  -1779318992;
 	unsigned char	AVKQ5fc;
-	AVKQ5fc	=	-2061853858;
+	AVKQ5fc	=	(unsigned char)-2061853858;
  long long Z0g5t;
  Z0g5t = 1449539376;
  unsigned char s7Yb_UwXz;

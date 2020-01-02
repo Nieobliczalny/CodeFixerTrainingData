@@ -19,7 +19,7 @@ int main(int argc, char** argv) {
   unsigned int  x4v8YD031l  =  1221770435;
  long double Q2irsX = -90521557;
  double b7c72l7jop = -1847575933;
- unsigned short int Q5LSv = -2145781588;
+ unsigned short int Q5LSv = (unsigned short)-2145781588;
 	float	xFr__Az	=	1589242206;
   unsigned long long  y4b_VBcQ  =  -221452005;
  float iaS3 = -911248808;
@@ -29,7 +29,7 @@ int main(int argc, char** argv) {
     unsigned short    J15zHuX    =    1301143768;
     long    SrCA    =    -1239408946;
     long double    gDH_    =    -162703397;
-	unsigned short int	mWjIl4Acq	=	-146572411;
+	unsigned short int	mWjIl4Acq	=	(unsigned short)-146572411;
     double    yY3u    =    2135659362;
  double d2iO = 50727093;
     short    DN9ArA_    =    1737505413;
@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
   long  ou_kzXRS  =  -1974478531;
  short o7_b_F9 = 1599833512;
     long long    eVY_    =    617019317;
- unsigned char c41x9x = 1292646255;
+ unsigned char c41x9x = (unsigned char)1292646255;
  short int n71bT3m = 0;
 	char	HKeO	=	331716329;
  unsigned short int tQpr51fqQr = 577936088;
@@ -54,7 +54,7 @@ int main(int argc, char** argv) {
     double    hOBKy3s    =    1079408248;
   float  SuRi2Rp1uh  =  -902843208;
 	unsigned long	B8GXMAsEcC	=	-1498033368;
- unsigned short gp5Njw3N2_ = -1344776538;
+ unsigned short gp5Njw3N2_ = (unsigned short)-1344776538;
 	int	h7bwC364jF	=	-216226236;
  long double a8g6KE_aZ2 = -29180672;
  long IrZL_m = 1018069423;
@@ -64,7 +64,7 @@ int main(int argc, char** argv) {
     unsigned char    bLw_8    =    1117446087;
   long long  ie98Dnmi  =  661944756;
   unsigned char  k2s_  =  1364592459;
-    char    VoC2IF3MW    =    1339444711;
+    char    VoC2IF3MW    =    (char)1339444711;
   float  KzEB_8j84m  =  -1839431245;
  int eyT4ziI9 = 193405635;
   unsigned long  atw6N85fZ  =  -6762942;
@@ -78,7 +78,7 @@ int main(int argc, char** argv) {
     double    dp6LT9102    =    1352829842;
  long long j9h8y = -982044861;
     double    tk2IvnS6Y6    =    1999126919;
- short int onwTAd7Z6 = -908941809;
+ short int onwTAd7Z6 = (short)-908941809;
  long j5l0Qzv = 1638030924;
  unsigned int zjYseB24 = 0;
     long    XNyB2n    =    -2832968;

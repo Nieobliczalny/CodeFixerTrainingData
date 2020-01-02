@@ -26,7 +26,7 @@ int  MeWMF(short int  DY23,unsigned short  F2Z1_,unsigned int  m_5z65_yzo,short 
 }
 
 short int M6EY5(unsigned char rJM_6,short int WWIhzff4,long J8pfE9_4vA,unsigned char a_sP,unsigned short AZfrs65vuI) {
- return 725963020;
+ return (short)725963020;
 }
 
 unsigned short	QPlnvJ104(short int	Haz_TWav,char	L8oz1,short int	mj90WM)	{
@@ -39,7 +39,7 @@ int main()
 	int	BCG_	=	-1381640574;
  unsigned int Yn6l1rY = -2057615219;
 	unsigned short	ncYC5f_S	=	-478353505;
-	char	q4KX11	=	1441396270;
+	char	q4KX11	=	(char)1441396270;
  float A2a8Oci1 = -1333989805;
   unsigned char  wISuf8  =  -1416497398;
   unsigned int  AjAVD58J  =  0;
@@ -49,7 +49,7 @@ int main()
     unsigned char    NYxU    =    1393427715;
     unsigned long long    Jl_YA8_    =    786726808;
     unsigned char    IZ4u    =    1371935140;
-	unsigned char	xbeoulh	=	830796556;
+	unsigned char	xbeoulh	=	(unsigned char)830796556;
   unsigned short  gAWCIP6_I  =  -1129257616;
     long    yG07PEl1    =    -356630266;
     float    uZhups    =    2132158828;
@@ -63,7 +63,7 @@ int main()
  unsigned long Yb_7zEi5 = 1823715724;
   long  ghH3  =  -869940092;
     double    LH8zy    =    1894634518;
-    unsigned short    j3Bk4ls    =    266634152;
+    unsigned short    j3Bk4ls    =    (unsigned short)266634152;
 	float	c9uUj	=	1454122702;
  short int R4X7 = 1410592330;
 	unsigned short int	y54S247	=	1420021908;
@@ -139,7 +139,7 @@ for (int i = 2; i >= 0; --i)
 {
 LH8zy = (int)floor(c9uUj);
 }
-c9uUj = M6EY5(-142183479, -1540470809, -2079858192, R4X7, uZhups);
+c9uUj = M6EY5(-142183479, (short)-1540470809, -2079858192, R4X7, uZhups);
 
 AXK3 = (unsigned int)(xbvBFuL);
 
@@ -152,7 +152,7 @@ int j = 2;
 do
 {
 j--;
-FLYng_F2K0 = (gAWCIP6_I < Dq_ntpY) ? QPlnvJ104(-1839673784, 2023580587, -1955611066) : c9uUj;
+FLYng_F2K0 = (gAWCIP6_I < Dq_ntpY) ? QPlnvJ104(-1839673784, (char)2023580587, -1955611066) : c9uUj;
 }
 while (j >= 0);
 }
@@ -200,7 +200,7 @@ else
 {
 if (R4X7 & AXK3)
 {
-AjAVD58J = QPlnvJ104(AXK3, 944423671, -396800039);
+AjAVD58J = QPlnvJ104(AXK3, 944423671, (short)-396800039);
 }
 else
 {

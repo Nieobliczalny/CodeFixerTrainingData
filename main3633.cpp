@@ -20,7 +20,7 @@ int main(void) {
     unsigned short int    v6Y3B;
     v6Y3B    =    -937186602;
     short    N3npZlhH7x;
-    N3npZlhH7x    =    1754813819;
+    N3npZlhH7x    =    (short)1754813819;
 	unsigned int	P77_c;
 	P77_c	=	2057186116;
   short  zr7f_Zr67;
@@ -34,7 +34,7 @@ int main(void) {
 	unsigned long	b7x2;
 	b7x2	=	1172873244;
  unsigned char PDnbE;
- PDnbE = -182166002;
+ PDnbE = (unsigned char)-182166002;
   long double  jbl00_Kc;
   jbl00_Kc  =  -1773374017;
   unsigned short int  Hw8oL;
@@ -46,7 +46,7 @@ int main(void) {
  unsigned int d2AvQ7Sve6;
  d2AvQ7Sve6 = -257772802;
  short int sq9B;
- sq9B = -333653453;
+ sq9B = (short)-333653453;
     unsigned short    MW9b9t4je;
     MW9b9t4je    =    -1950138539;
 

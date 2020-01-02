@@ -60,7 +60,7 @@ else if ((Y247A == 1677958914) && (X0Iddxy > -944698952))
 {
 for (int k = 9; k >= 0; k--)
 {
-StBe99R = nk9n76kQe(Y5VF6_v, 2100461400, 1376989691, -1153126087);
+StBe99R = nk9n76kQe(Y5VF6_v, (short)2100461400, 1376989691, -1153126087);
 }
 }
 else if (z3p0_8R != L887WJX)
@@ -204,7 +204,7 @@ case 3:
 zW7x %= 1821511735;
 break;
 case 4:
-tmOP7H = MVkL9EyX(1148186197);
+tmOP7H = MVkL9EyX((char)1148186197);
 break;
 case 5:
 P95o3fs = H_3Yn ^ C8HRe_;
@@ -403,7 +403,7 @@ Ai58HEA_ = OHn451 % 628557711;
 break;
 case 'c':
 case 'C':
-t7Ff_n = MVkL9EyX(-860848508);
+t7Ff_n = MVkL9EyX((char)-860848508);
 break;
 case 'd':
 case 'D':

@@ -31,7 +31,7 @@ int main() {
  float bWqH = -545047448;
   char  HGEyvJ  =  0;
 	unsigned short	wd_XEyu	=	-1010932048;
- short int FrHMF = -854777216;
+ short int FrHMF = (short)-854777216;
     long long    lg3H6J4B    =    0;
     long double    r8gEJ0    =    1975948461;
 	unsigned long long	VcL7	=	0;
@@ -89,7 +89,7 @@ case 'b':
 bWqH = (int)ceil(r8gEJ0);
 break;
 case 'c':
-HGEyvJ = r1KpJ(-1019820023, HGEyvJ, -1416910938);
+HGEyvJ = r1KpJ((unsigned short)-1019820023, HGEyvJ, -1416910938);
 break;
 case 'd':
 r8gEJ0 = (int)floor(bWqH);
@@ -115,7 +115,7 @@ break;
 }
 if (((FrHMF < 2056568076) || (bWqH == 1387823536)) && ((lg3H6J4B != r8gEJ0) && (wd_XEyu & VcL7)))
 {
-std::cout << "EaLwbtGPN" << r1KpJ(-1977509014, -561028895, wd_XEyu) << r1KpJ(2007782866, 215669572, 696924074) << "e9EVX9Vt" << "lEc87js" << std::endl;
+std::cout << "EaLwbtGPN" << r1KpJ(-1977509014, (unsigned short)-561028895, wd_XEyu) << r1KpJ(2007782866, 215669572, 696924074) << "e9EVX9Vt" << "lEc87js" << std::endl;
 }
 else
 {
@@ -364,7 +364,7 @@ VcL7 = r1KpJ(r8gEJ0, VcL7, -909634540);
 break;
 case 'f':
 case 'F':
-r8gEJ0 = jrgSG(2130332456, bWqH, VcL7, -1487342961, -2146687540);
+r8gEJ0 = jrgSG((char)2130332456, bWqH, VcL7, -1487342961, -2146687540);
 break;
 case 'g':
 case 'G':
@@ -414,7 +414,7 @@ r8gEJ0 = (int)floor(bWqH);
 }
 else if (wd_XEyu <= 1692411350)
 {
-lg3H6J4B = r1KpJ(bWqH, -1569925689, -1324631518);
+lg3H6J4B = r1KpJ(bWqH, -1569925689, (short)-1324631518);
 }
 else
 {

@@ -20,7 +20,7 @@ int main(void) {
  short int V_I6z2 = 157460143;
 	unsigned short int	J_WpCJ7	=	0;
  float AZ5Wn5kwS = 70796805;
-	unsigned short	p2TVr	=	1405135922;
+	unsigned short	p2TVr	=	(unsigned short)1405135922;
     double    YXd7E3fmM5    =    -182669494;
   unsigned int  Ec_ZQ8i  =  0;
 	long long	yhwXEzU	=	-1421482576;
@@ -31,7 +31,7 @@ int main(void) {
   long  xdX715XGn  =  1067931280;
  short int O5w8h_g = -279080098;
 	long long	h65_7R8	=	-1374277380;
-    char    aKO_7    =    -48287900;
+    char    aKO_7    =    (char)-48287900;
  unsigned int XTTSh = 563286883;
     unsigned long long    p1_T    =    352124902;
 	long long	YM0hnrC_	=	-1936443982;
@@ -41,7 +41,7 @@ int main(void) {
   short  p68kOqj9mt  =  -53601439;
 	float	YMgep5	=	-1547924150;
 	short	J0_C__bJB	=	-341857121;
-	unsigned short int	y7125L9	=	659527575;
+	unsigned short int	y7125L9	=	(unsigned short)659527575;
   unsigned long  Ko264  =  399014857;
  unsigned short amwMi_ = -644966927;
   int  EggBd4_g  =  -225571882;
@@ -54,7 +54,7 @@ int main(void) {
   unsigned int  DMw9Q57bYX  =  -1534140028;
 	unsigned long	c6wtx3Jf	=	1546964716;
     long double    tZ_i    =    1343117237;
-    short int    yaM71QU    =    1368096563;
+    short int    yaM71QU    =    (short)1368096563;
 	short int	uR_1Pq	=	1669274740;
     int    uzO3d3W3n    =    493145152;
     double    Ep7Xme90k5    =    -710156471;
@@ -66,7 +66,7 @@ int main(void) {
 	unsigned short int	r9F_fP1_0	=	1741190010;
   int  ZM_K  =  -1944745163;
 	long	p38u	=	1936408551;
-    short int    YJ40wr4iQ    =    -387464194;
+    short int    YJ40wr4iQ    =    (short)-387464194;
  unsigned long long tClKu1bThM = -1998649069;
 	long long	m7MZ6I	=	-134128934;
     long    OIK0J    =    350252075;
@@ -78,7 +78,7 @@ int main(void) {
 	unsigned long	G6N9Q8xM9	=	-1354143246;
 	double	kDW3zb	=	1687350920;
     int    AIC6_1    =    1134996243;
- unsigned short int eT908 = -127266492;
+ unsigned short int eT908 = (unsigned short)-127266492;
     short    fRf4    =    2025532388;
   long  ab3fr  =  1561689316;
     short int    yYB2pL0oo    =    427616579;

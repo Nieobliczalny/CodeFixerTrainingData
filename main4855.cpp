@@ -15,6 +15,7 @@ using namespace std;
 unsigned long long    ay40i();
 
 int main(void) {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
  unsigned short BEYjStu7 = -261405872, MVoYrs53n_ = 814549478, CDv8J7 = 1376085997, mS3N_1 = 821322078, f893 = 34067652, G3833_ = -643410657, L752j = -765198153, U7l_K6W = -686736776, C3n_Qei42n = 566081628, su9AUbPSRN = 1161734778, d7Cc73HN5p = -59678958, k0a_Ap0 = -762735774, yLRk = 1977256499, RFPmw1Fr0 = -1576025086;
   int  hQ4cwo  =  0;
 
@@ -179,7 +180,7 @@ case 2:
 hQ4cwo = ay40i();
 break;
 case 3:
-k0a_Ap0 = (RFPmw1Fr0 & -172905678) ? 1310400693 : -1775814673;
+k0a_Ap0 = (RFPmw1Fr0 & -172905678) ? 1310400693 : (unsigned short)-1775814673;
 break;
 }
 }

@@ -69,7 +69,7 @@ else
 int k = 0;
 do
 {
-C3jUQ = Jezu(C3jUQ, -1250470108);
+C3jUQ = Jezu(C3jUQ, (char)-1250470108);
 ++k;
 }
 while (k < 9);
@@ -181,7 +181,7 @@ catch (int& errorCode)
 {
 b1Yz74NHIJ = a9x4LVx7Y(197791887);
 }
-std::cout << Jezu(b1Yz74NHIJ, 940693534) << oNL17(b1Yz74NHIJ, 812865359, 1769822450, DUFr8667kl) << Jezu(b1Yz74NHIJ, 1725622777) << std::endl;
+std::cout << Jezu(b1Yz74NHIJ, 940693534) << oNL17(b1Yz74NHIJ, 812865359, 1769822450, DUFr8667kl) << Jezu(b1Yz74NHIJ, (char)1725622777) << std::endl;
 
 try
 {
@@ -248,7 +248,7 @@ iE66om4hQ = aqU87Zy_P + Z__gSBiTc;
 }
 else if (dN3ea9hM6 & -1030489816)
 {
-Fey01v2h_ = C2Wtj(EAy44yZX1, 283121183, -548120612, Bqi_8q, -1196468061);
+Fey01v2h_ = C2Wtj(EAy44yZX1, 283121183, -548120612, Bqi_8q, (unsigned short)-1196468061);
 }
 else if (JBIz_v5YQ > -1624008017)
 {
@@ -307,7 +307,7 @@ n265m2DL = a9x4LVx7Y(-1794018363);
 break;
 case 'b':
 case 'B':
-n_wc = Jezu(-2050929941, -716711384);
+n_wc = Jezu(-2050929941, (char)-716711384);
 break;
 }
 }
@@ -332,6 +332,6 @@ unsigned int	oNL17(short	O5xt,unsigned long long	EywKgAP_c_,long long	d88J,unsig
 }
 
 unsigned char	Jezu(int	NCuyB,char	X_N0j)	{
-	return	197368725;
+	return	(unsigned char)197368725;
 }
 

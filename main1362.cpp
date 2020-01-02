@@ -22,7 +22,7 @@ int main()
   unsigned char  OGzv  =  -1086022904;
 	unsigned int	F67q	=	0;
   int  mLget  =  2073305559;
- unsigned short int HzIk = 359858297;
+ unsigned short int HzIk = (unsigned short)359858297;
 	char	il6m0BAZGO	=	2133472091;
  long tERZ2gd2B = -2122762489;
 	unsigned int	czZS5yOWI	=	1750553160;
@@ -35,7 +35,7 @@ int main()
     long double    kc9f79h    =    -779110941;
   float  u_GsKZhm  =  -1422213467;
     double    mhCl    =    1436343321;
-    short int    Oeqxj73    =    -26880175;
+    short int    Oeqxj73    =    (short)-26880175;
     long long    iraC5m8Iw    =    25722984;
   short int  sb1I2X6  =  496692480;
     unsigned short    K19gb_W1e    =    451152722;
@@ -47,7 +47,7 @@ int main()
  unsigned int vI0nI = -840222890;
   long  sl2OeDT  =  1214223474;
 	unsigned long	Gvl8HtYjZi	=	-1718779073;
-	unsigned short	I_nVu	=	452616639;
+	unsigned short	I_nVu	=	(unsigned short)452616639;
     char    JFvO4    =    -1958445261;
   unsigned long long  rHib  =  1233860199;
   long long  T46RSVo9WV  =  -114893887;
@@ -59,7 +59,7 @@ int main()
  double qgaHG7Zz = -1640794836;
  unsigned int Q6oq_mw80 = -750635235;
     char    dufs8z4_Me    =    985123944;
-  short int  D4zVm25Z_2  =  772773851;
+  short int  D4zVm25Z_2  =  (short)772773851;
     char    nbtTcX    =    1539200555;
     long    v7v1ha46Ai    =    965850972;
     short    zXg_1    =    2064279632;
@@ -80,7 +80,7 @@ int main()
 	unsigned char	cZZjFoi	=	-379747286;
  unsigned long long O7gI_2v = -1331611139;
 
-std::cout << sb1I2X6 << sl2OeDT << lZElkZFoVV(1915826863, sb1I2X6, 2037009645, -1381980685) << OM1n8LlCI6() << lZElkZFoVV(1631155693, 1980440664, 1384432760, gI50Hzbr) << std::endl;
+std::cout << sb1I2X6 << sl2OeDT << lZElkZFoVV(1915826863, sb1I2X6, 2037009645, (short)-1381980685) << OM1n8LlCI6() << lZElkZFoVV(1631155693, 1980440664, 1384432760, gI50Hzbr) << std::endl;
 std::cout << lZElkZFoVV(b7zWStV, sb1I2X6, 646160029, gI50Hzbr) << std::endl;
 if ((iIxCi > JFvO4) || (cZZjFoi & -289689704))
 {
@@ -220,7 +220,7 @@ VJyH2pJy_ = (int)floor(OyKz);
 break;
 case 'c':
 case 'C':
-F67q = lZElkZFoVV(mLget, -40089130, -1163881850, 1726219507);
+F67q = lZElkZFoVV(mLget, -40089130, -1163881850, (short)1726219507);
 break;
 case 'd':
 case 'D':
@@ -240,7 +240,7 @@ OyKz = OM1n8LlCI6();
 break;
 case 'h':
 case 'H':
-F67q = lZElkZFoVV(kc9f79h, 2012269448, -1504098931, -415701936);
+F67q = lZElkZFoVV(kc9f79h, 2012269448, -1504098931, (short)-415701936);
 break;
 default:
 HzIk = JB2xPcf3A & 174524181;
@@ -326,7 +326,7 @@ i--;
 while (i >= 0);
 }
 
-std::cout << -735019991 / lZElkZFoVV(2117355894, 1523743807, u_GsKZhm, 1063718997) << std::endl;
+std::cout << -735019991 / lZElkZFoVV(2117355894, 1523743807, u_GsKZhm, (short)1063718997) << std::endl;
 if ((tw4sA > 1832983997) && (qgaHG7Zz != 1552745691))
 {
 for (int j = 8; j >= 0; --j)

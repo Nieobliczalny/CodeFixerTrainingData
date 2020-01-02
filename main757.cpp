@@ -31,7 +31,7 @@ int main(void)
 	unsigned int	e_AoGSi;
 	e_AoGSi	=	0;
 	unsigned short	QXCt;
-	QXCt	=	2073791289;
+	QXCt	=	(unsigned short)2073791289;
     short    v24i2_;
     v24i2_    =    -1288247520;
  int j_5WRD;
@@ -44,7 +44,7 @@ int main(void)
   v1Fm1  =  1298888423;
 
 h_N6_o6c %= 1150993384;
-QXCt = (vP_kR51d) ? h_N6_o6c : 237203414;
+QXCt = (vP_kR51d) ? h_N6_o6c : (unsigned short)237203414;
 {
 int i = 0;
 while (i < 8)

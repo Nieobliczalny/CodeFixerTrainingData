@@ -30,7 +30,7 @@ int main() {
 switch (Y663n_gP7u)
 {
 case 'a':
-V_9c = yO6q(-559743738, -698818864, nCP1J_);
+V_9c = yO6q((short)-559743738, -698818864, nCP1J_);
 break;
 case 'b':
 h024IW += M_18Sjiw7h;
@@ -42,7 +42,7 @@ case 'd':
 UqoN7 = yO6q(UqoN7, HzA422Lr, -1150734001);
 break;
 case 'e':
-RB_0 = yO6q(RB_0, V_9c, 792563942);
+RB_0 = yO6q(RB_0, V_9c, (unsigned short)792563942);
 break;
 case 'f':
 STjR2 = rcOYn2Aa9 ^ ixMf59Cz0K;
@@ -210,7 +210,7 @@ case 'e':
 bH_Wp2QB = (int)abs(DI1967CBl);
 break;
 case 'f':
-DI1967CBl = w32z0R4(1131799570);
+DI1967CBl = w32z0R4((short)1131799570);
 break;
 case 'g':
 ixMf59Cz0K = G8BeNO91 << 1660436831;
@@ -340,7 +340,7 @@ case 5:
 nCP1J_ = w32z0R4(1014271676);
 break;
 case 6:
-G8BeNO91 = cLgq488(1846037781, WkW83W4A, -999825451, Qw7P);
+G8BeNO91 = cLgq488(1846037781, WkW83W4A, (short)-999825451, Qw7P);
 break;
 case 7:
 bH_Wp2QB = (int)abs(PIz9TE4S1_) + (-1169072306);

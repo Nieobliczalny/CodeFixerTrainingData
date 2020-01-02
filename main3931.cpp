@@ -24,7 +24,7 @@ unsigned char N97kV058(unsigned short int Kf0bZ3,unsigned int oMf0JXqm,long dANx
 
 unsigned short int    j9_I4gM__(short int    Zb31,unsigned short int    faEzov7I,long    T_9uvL_,unsigned short    ItFfI)
 {
-    return    2095404661;
+    return    (unsigned short)2095404661;
 }
 
 unsigned long long	rxd08(char	g3w7S1SY0t,short	o4mjFzWqgI,unsigned long long	ToS66n5,char	zI66VHR)	{
@@ -104,7 +104,7 @@ G4AF5NxmZ = N97kV058(-753573268, -563022357, -1360234637);
 }
 else if (Hd_4I8 > zVnrE)
 {
-std::cout << fGnMu << rl10_X9R7 << "P4bhXwS" << j9_I4gM__(-342049259, -1295435446, Kc98n, YUPN) << "gR_i" << std::endl;
+std::cout << fGnMu << rl10_X9R7 << "P4bhXwS" << j9_I4gM__((short)-342049259, -1295435446, Kc98n, YUPN) << "gR_i" << std::endl;
 }
 else if (G4AF5NxmZ)
 {
@@ -144,7 +144,7 @@ fGnMu &= 2036024279;
 }
 else
 {
-UO4U = (HHI0 >= 1683948987) ? BJD8(-44371996, -358720948, 686862486, fGnMu) : j9_I4gM__(-511571097, -560327399, vsR17VS6u0, fGnMu);
+UO4U = (HHI0 >= 1683948987) ? BJD8(-44371996, -358720948, 686862486, fGnMu) : j9_I4gM__((short)-511571097, -560327399, vsR17VS6u0, fGnMu);
 }
 }
 }
@@ -168,7 +168,7 @@ vgiKo5Z5 += UO4U;
 }
 }
 }
-W5Uxjg_ = rxd08(1586742420, Kc98n, tEW4Od4Sg, 492905082);
+W5Uxjg_ = rxd08(1586742420, Kc98n, tEW4Od4Sg, (char)492905082);
 Hd_4I8 = N97kV058(HHI0, Hd_4I8, -1725250472);
 HHI0 = BJD8(567282019, vsR17VS6u0, HHI0, J_wOwcS);
 
@@ -329,7 +329,7 @@ on17 = BJD8(zITY9qIe, -1782816135, 991063817, WH1Q5_KL3);
 }
 j_Y1NPRX9 = (int)abs(on17);
 
-std::cout << "Z7qO" << j9_I4gM__(79000040, mlEbg, G4AF5NxmZ, 1740625324) << std::endl;
+std::cout << "Z7qO" << j9_I4gM__(79000040, mlEbg, G4AF5NxmZ, (unsigned short)1740625324) << std::endl;
 eXd2_6n >>= 2116082304;
 
 {
@@ -362,7 +362,7 @@ break;
 }
 }
 
-G4AF5NxmZ = j9_I4gM__(-1472118667, 1596495325, Uo1nsS4, 1597313799);
+G4AF5NxmZ = j9_I4gM__(-1472118667, (unsigned short)1596495325, Uo1nsS4, 1597313799);
 
 switch (mlEbg)
 {
@@ -376,7 +376,7 @@ case 2:
 Kc98n >>= m8_35;
 break;
 case 3:
-eXd2_6n = j9_I4gM__(2005049001, zVnrE, 1627171525, 1765413519);
+eXd2_6n = j9_I4gM__(2005049001, zVnrE, 1627171525, (unsigned short)1765413519);
 break;
 case 4:
 Z0r53J2Ly--;
@@ -409,7 +409,7 @@ case 'b':
 Uo1nsS4 = j9_I4gM__(-2115507831, mlEbg, -209559425, m8_35);
 break;
 case 'c':
-W5Uxjg_ = rxd08(Uo1nsS4, 1152176429, vsR17VS6u0, -1679581308) / 1564340711;
+W5Uxjg_ = rxd08(Uo1nsS4, (short)1152176429, vsR17VS6u0, -1679581308) / 1564340711;
 break;
 case 'd':
 on17 = (int)abs(tEW4Od4Sg);

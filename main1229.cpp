@@ -121,7 +121,7 @@ F46enH5 = R321DA_0(F46enH5);
 break;
 case 'c':
 case 'C':
-AhZDG = xmnlo(AhZDG, FlbL03_, 9316173, qskx);
+AhZDG = xmnlo(AhZDG, FlbL03_, (unsigned short)9316173, qskx);
 break;
 case 'd':
 case 'D':
@@ -149,7 +149,7 @@ RkEZPEpi7e = R321DA_0(RkEZPEpi7e);
 break;
 case 'j':
 case 'J':
-l83na = xmnlo(1334226150, Iw_y93, -1226283888, 459125306);
+l83na = xmnlo(1334226150, Iw_y93, (unsigned short)-1226283888, 459125306);
 break;
 default:
 Tx2Dshw9m3 = (int)abs(e99SOU4iY_);
@@ -203,7 +203,7 @@ case 3:
 sEbf42S56 = mIrm0w8ZK7();
 break;
 case 4:
-AhZDG = (lPSC8) ? -781523454 : -1306291532;
+AhZDG = (lPSC8) ? -781523454 : (unsigned short)-1306291532;
 break;
 case 5:
 FlbL03_ >>= Rn86QmQ8U;
@@ -373,7 +373,7 @@ case 3:
 Tx2Dshw9m3 = (int)abs(e99SOU4iY_);
 break;
 case 4:
-PZEeudd15 = xmnlo(PZEeudd15, t0043Lest8, -1149416624, xRjqqyq6wE);
+PZEeudd15 = xmnlo(PZEeudd15, t0043Lest8, (unsigned short)-1149416624, xRjqqyq6wE);
 break;
 case 5:
 TXsN__8n4K -= 1213601025;
@@ -408,7 +408,7 @@ case 4:
 Lfvt = xmnlo(Lfvt, E12Ge2p1, 1361584464, 1457982678);
 break;
 case 5:
-Zra_ = xmnlo(-1129146505, ImGyEz33, NIX4, -638702805);
+Zra_ = xmnlo((short)-1129146505, ImGyEz33, NIX4, -638702805);
 break;
 case 6:
 NPga &= r8Dg5x9Gt6;
@@ -469,7 +469,7 @@ case 'a':
 Tx2Dshw9m3 = (int)abs(sEbf42S56);
 break;
 case 'b':
-dq9fNp = xmnlo(1718606437, OLVi, 1418706245, -1876256193);
+dq9fNp = xmnlo((short)1718606437, OLVi, 1418706245, -1876256193);
 break;
 case 'c':
 tU3C7P = mIrm0w8ZK7();
@@ -499,7 +499,7 @@ break;
 
 for (int i = 5; i >= 0; --i)
 {
-std::cout << xmnlo(2099733905, 1143698129, Jc4Awj, lL2gXNZM) << "WJ31NJa" << xmnlo(-97813211, 173325051, -1232632695, lL2gXNZM) << "N1x5w53" << R321DA_0(soJsyqOT__) << std::endl;
+std::cout << xmnlo(2099733905, 1143698129, Jc4Awj, lL2gXNZM) << "WJ31NJa" << xmnlo((short)-97813211, 173325051, -1232632695, lL2gXNZM) << "N1x5w53" << R321DA_0(soJsyqOT__) << std::endl;
 }
 {
 int i = 0;
@@ -522,7 +522,7 @@ if (l83na < EA9M5)
 lL2gXNZM = (unsigned short int)(EA9M5 + (-844326965));
 }
 
-std::cout << mIrm0w8ZK7() << R321DA_0(-805927568) << Lfvt << xmnlo(-678215911, 845068644, NIX4, NPga) << std::endl;
+std::cout << mIrm0w8ZK7() << R321DA_0(-805927568) << Lfvt << xmnlo((short)-678215911, 845068644, NIX4, NPga) << std::endl;
 K2_z = R321DA_0(K2_z);
 if (n4r_A_2Q & PY9M_)
 {

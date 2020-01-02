@@ -36,6 +36,7 @@ int	U4cG7(long	k3G33CmQxL,long long	Jv_Wo8La6,int	IB6yyy,int	jbcsu_,int	pEK367)	
 }
 
 int main(void) {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
   char  b_9986_  =  -2052868496,  eR08  =  286141750,  CKLB86Z_Fn  =  -1795982748,  nx4A  =  1826093806,  Zxh6i_42e  =  958504745,  NQgfb  =  1524557337,  I086e  =  -803256639,  Fx3e  =  1145143359,  DR7m82weu  =  -1329668017,  srN9  =  -1431267876,  oIa4q  =  1339293080,  TuFjl82n5  =  1878490631,  fP3B3FF59  =  1199882026,  RB_RWS  =  -435026488,  G402Xj  =  -236232202,  nU73Koc  =  -22093627,  utvoO  =  -2020282254,  dnzsk4T8l7  =  -1017931769,  M_AP8o  =  1712127814,  Dk_JsbO  =  -1692486200,  C_ppx  =  18460607,  IeMCXcLip  =  -1329733738,  ZBCg6  =  -821018118,  EBr47  =  -137466822,  YF5B  =  1286972055,  xvm5Ea8  =  -1822970976,  fAcR_h7Q  =  1788949811,  b3i9  =  -2088501310,  gjQyUp1  =  1985269332,  zhvE7_  =  -127361105,  H_hmo  =  -221783146,  Z_W14JmkU  =  262639516,  Sy_4QA38  =  1557744385,  Zl_9E3J  =  252734727,  mS2SF02_8c  =  1217305520,  BS2__0S8rh  =  -254413604,  P9o2PBwYSF  =  2001764582,  d_Rh  =  1900344757,  t6Fv70z  =  -1454493647,  kwO9zU1  =  1116425303,  mGtrG4nuV  =  -1427030735,  Y5JX8zmxbz  =  675004548,  boz6jgSLq  =  1858583464,  PXgsz7HQ  =  1516446251,  qeN6nH  =  1272746091,  ZRBSLfv26  =  -983446956,  Hw5vYC  =  109312466,  t0BLlmTvy  =  672557330,  SXc_6EJ2tz  =  773832507,  FI05R0  =  -853393433;
  unsigned long long Aq41 = 0, vrpl042 = 0;
 
@@ -117,7 +118,7 @@ case 'e':
 oIa4q = WY_vMb(oIa4q);
 break;
 case 'f':
-Hw5vYC = Irnmo99(450737017);
+Hw5vYC = Irnmo99((unsigned char)450737017);
 break;
 default:
 FI05R0 <<= 180254996;
@@ -236,7 +237,7 @@ case 'i':
 nx4A = Irnmo99(961809316);
 break;
 default:
-kwO9zU1 = WY_vMb(542878143);
+kwO9zU1 = WY_vMb((short)542878143);
 break;
 }
 
@@ -358,7 +359,7 @@ case 4:
 eR08 = WY_vMb(eR08);
 break;
 case 5:
-SXc_6EJ2tz = Irnmo99(-2101736535);
+SXc_6EJ2tz = Irnmo99((unsigned char)-2101736535);
 break;
 case 6:
 vrpl042 = jowmo(1217587828, 685859421);

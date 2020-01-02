@@ -105,7 +105,7 @@ else if ((RRbut_O) || (Ea4A > 1474923131))
 {
 try
 {
-AStW_z45 = bL_HM5ecC(1106585053);
+AStW_z45 = bL_HM5ecC((unsigned char)1106585053);
 }
 catch (int& errorCode)
 {
@@ -129,7 +129,7 @@ n97uLMP4 = U1zS(-1142817286);
 }
 else if (u51w2H_ > lv9FC9c8z)
 {
-BVX75Fv = EtSmFt_R(1284327641, -1574239773);
+BVX75Fv = EtSmFt_R((short)1284327641, -1574239773);
 }
 else
 {
@@ -211,7 +211,7 @@ HdM9eDSGDk = (int)abs(n97uLMP4);
 
 Z6G86Q4047 >>= vNK_8hY;
 
-std::cout << "BdZM" << z1OiFS3DQ << bL_HM5ecC(-871202126) << H17QRPsN_ << std::endl;
+std::cout << "BdZM" << z1OiFS3DQ << bL_HM5ecC((unsigned char)-871202126) << H17QRPsN_ << std::endl;
 
 {
 int i = 0;

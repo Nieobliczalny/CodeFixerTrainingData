@@ -20,7 +20,7 @@ int main(int argc, char** argv)
 {
     short    Lh5n,    YcKBD,    pO7P,    vhraXaw8i1,    C99Q2Nuj,    TA83tQB;
     Lh5n    =    -1339196460;
-    YcKBD    =    -1487824289;
+    YcKBD    =    (short)-1487824289;
     pO7P    =    -1089381731;
     vhraXaw8i1    =    1358628860;
     C99Q2Nuj    =    -314234751;
@@ -50,7 +50,7 @@ case 'c':
 Wm5Bq = N8TJLP(YcKBD);
 break;
 case 'd':
-C99Q2Nuj = PhSP(-1108885103, C99Q2Nuj, 132311144, 1275556020);
+C99Q2Nuj = PhSP((unsigned short)-1108885103, C99Q2Nuj, 132311144, 1275556020);
 break;
 case 'e':
 YcKBD = ZpW0 * 814227110;
@@ -65,7 +65,7 @@ case 'h':
 TA83tQB = (int)abs(Lh5n);
 break;
 default:
-XSgqZUq54V = N8TJLP(2138050702);
+XSgqZUq54V = N8TJLP((char)2138050702);
 break;
 }
 }
@@ -77,7 +77,7 @@ case 0:
 Lh5n += XSgqZUq54V;
 break;
 case 1:
-Lh5n = stgxhuhc0(1971310480, -1117794986, ZpW0, 2120102691, 672310060);
+Lh5n = stgxhuhc0(1971310480, -1117794986, ZpW0, 2120102691, (unsigned short)672310060);
 break;
 case 2:
 TA83tQB = RT_bxzx(XSgqZUq54V);
@@ -98,7 +98,7 @@ case 7:
 vhraXaw8i1 = pO7P ^ 1655338282;
 break;
 case 8:
-vhraXaw8i1 = PhSP(72138458, pO7P, -1397526134, vhraXaw8i1) * YcKBD;
+vhraXaw8i1 = PhSP((unsigned short)72138458, pO7P, -1397526134, vhraXaw8i1) * YcKBD;
 break;
 case 9:
 vhraXaw8i1--;
@@ -126,7 +126,7 @@ unsigned char	PhSP(unsigned short int	nyahWkb,unsigned short	K714l,unsigned long
 }
 
 short    stgxhuhc0(long long    AQnK,short    YfLSj,short    wHKx8G7,long long    y5EL4Rlj_X,unsigned short int    ly6nz7r2i)    {
-    return    1918948654;
+    return    (short)1918948654;
 }
 
 unsigned char N8TJLP(char g08Z_F) {

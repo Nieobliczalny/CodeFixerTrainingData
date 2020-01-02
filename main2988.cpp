@@ -392,7 +392,7 @@ cout << Ij8mf9_X(lwcpyH, -674941682, -939403118, tjLAUmdhWV, 1506478189) << "Ut6
 
 if (tjLAUmdhWV < -921411625)
 {
-tjLAUmdhWV = xsrcm(-453741822, -1207108395);
+tjLAUmdhWV = xsrcm(-453741822, (char)-1207108395);
 }
 else
 {

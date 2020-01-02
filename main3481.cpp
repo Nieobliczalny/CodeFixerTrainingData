@@ -15,7 +15,7 @@ unsigned char l6z2w(short int xSV0W270)
 
 unsigned short int	HG3duPyBS(unsigned short int	VF6IfY,long long	HVwXan733,long long	AxIrc,unsigned short int	U_EK_,unsigned short int	Jz5M3B)
 {
-	return	1287036905;
+	return	(unsigned short)1287036905;
 }
 
 unsigned long	AysshDJ(unsigned char	JrQN3h,long	D2dz,unsigned long	Rhp165,unsigned char	Hpny6)
@@ -38,7 +38,7 @@ int main(int argc, char** argv)
 	unsigned char	G1Fp_37c6;
 	G1Fp_37c6	=	0;
  unsigned short tRKGb3RMMi;
- tRKGb3RMMi = 26799714;
+ tRKGb3RMMi = (unsigned short)26799714;
   long  r_L3NF7;
   r_L3NF7  =  -813660846;
     double    IZEH06S;
@@ -110,7 +110,7 @@ k--;
 i--;
 }
 }
-cout << "c4gOaY" << AysshDJ(169693505, tRKGb3RMMi, -344584842, Hw4C) << endl;
+cout << "c4gOaY" << AysshDJ((unsigned char)169693505, tRKGb3RMMi, -344584842, Hw4C) << endl;
 
 {
 int i = 1;
@@ -139,7 +139,7 @@ if (tU36Vj >= -2103780785)
 {
 for (int k = 4; k >= 0; k--)
 {
-WOez = (r_L3NF7 & -2078050474) ? AysshDJ(-1024821695, zWO4s427A, -2147021888, 1995491306) : 1289123863;
+WOez = (r_L3NF7 & -2078050474) ? AysshDJ(-1024821695, zWO4s427A, -2147021888, (unsigned char)1995491306) : 1289123863;
 }
 }
 else if ((G1Fp_37c6 != Hw4C) && (G1Fp_37c6 != 354768875))
@@ -231,7 +231,7 @@ r_L3NF7 = l6z2w(G1Fp_37c6);
 }
 else
 {
-G1Fp_37c6 = AysshDJ(1391849144, 602512251, 1967938643, 112133072);
+G1Fp_37c6 = AysshDJ(1391849144, 602512251, 1967938643, (unsigned char)112133072);
 }
 Rp1_ml = HG3duPyBS(1828874084, -904703827, -1745292030, WOez, Fyn6Rl);
 try

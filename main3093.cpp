@@ -32,7 +32,7 @@ unsigned char P8tTevd(unsigned short DUWC_Cv,char cB8eQn1oQ) {
 
 unsigned char  xkl0J20IE1(unsigned short int  amN_xV,unsigned short  hg6Dip,unsigned int  qYe3RK_,char  l0yZ13kZ)
 {
-  return  -1037288288;
+  return  (unsigned char)-1037288288;
 }
 
 int main(void)
@@ -93,7 +93,7 @@ t04CV = J9v433gi(1138019340, 153775369, -2045901298, SRsT_1u);
 }
 else if (SRsT_1u)
 {
-YXy1pqs0v = P8tTevd(341452886, -1033213092);
+YXy1pqs0v = P8tTevd(341452886, (char)-1033213092);
 }
 else if (xt05Gew != -189638512)
 {
@@ -141,7 +141,7 @@ try
 int k = 0;
 while (k < 2)
 {
-t6h_ = P8tTevd(-818021063, -642981639);
+t6h_ = P8tTevd(-818021063, (char)-642981639);
 ++k;
 }
 }
@@ -161,7 +161,7 @@ case 0:
 cAjpjeq0kg = (int)abs(MzV28);
 break;
 case 1:
-t6h_ = xkl0J20IE1(-1736214368, 770444006, 366282635, 382488343);
+t6h_ = xkl0J20IE1(-1736214368, (unsigned short)770444006, 366282635, 382488343);
 break;
 case 2:
 sI8MTtx3 = J9v433gi(58323227, 2094718693, xt05Gew, 715465032);
@@ -252,7 +252,7 @@ while (j >= 0)
 --j;
 if (((Qv_ZJ6owL8 < -385444116) && (t6h_ != -129577175)) && (Ptk0 > 2048765545))
 {
-p2hb2Q7 = P8tTevd(-164742751, 1472927714);
+p2hb2Q7 = P8tTevd(-164742751, (char)1472927714);
 }
 else if ((k2705q > Yd6Xx89) || (p_pT & 575102348))
 {
@@ -268,7 +268,7 @@ k2705q = xkl0J20IE1(-132910705, rk33U2jh41, 1885090711, Qv_ZJ6owL8);
 }
 else if ((YyNS6P <= -691438051) || ((sI8MTtx3 < 647323302) && (xt05Gew & 1188144471)))
 {
-sI8MTtx3 = P8tTevd(1641894037, -1673675093);
+sI8MTtx3 = P8tTevd((unsigned short)1641894037, -1673675093);
 }
 else
 {
@@ -297,7 +297,7 @@ case 'a':
 sI8MTtx3 *= 196450789;
 break;
 case 'b':
-p2hb2Q7 = xkl0J20IE1(254538523, -2134105703, -934861996, 1870772580);
+p2hb2Q7 = xkl0J20IE1(254538523, (unsigned short)-2134105703, -934861996, 1870772580);
 break;
 case 'c':
 t04CV = OdRGQ();
@@ -338,7 +338,7 @@ while (k < 2);
 Yd6Xx89 ^= sI8MTtx3;
 for (int i = 0; i < 7; i++)
 {
-p2hb2Q7 = J9v433gi(-463728191, 1882537096, -400224011, 1636349791);
+p2hb2Q7 = J9v433gi(-463728191, 1882537096, (char)-400224011, 1636349791);
 }
 
 SRsT_1u = xt05Gew & rk33U2jh41;

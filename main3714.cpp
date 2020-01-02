@@ -184,7 +184,7 @@ break;
 }
 hL8Ok9Q = sneE7(hL8Ok9Q, 2022949105);
 
-cout << o267S2ug(-1108597691, 2110381063, we00, -1158746405) << "z3_4" << endl;
+cout << o267S2ug(-1108597691, (short)2110381063, we00, -1158746405) << "z3_4" << endl;
 if (t70x6ZK4 < 956220379)
 {
 if (K_SQ_8N & 1508337164)
@@ -212,7 +212,7 @@ for (int i = 0; i < 8; ++i)
 {
 kb5k6fk2K = sneE7(kb5k6fk2K, 2068418464);
 }
-MaT3G = aI2DC(1019075191);
+MaT3G = aI2DC((short)1019075191);
 {
 int i = 3;
 while (i >= 0)
@@ -233,7 +233,7 @@ f1gjm_IT = (int)abs(sg0bGvDM2L);
 }
 else
 {
-X5ywEh8 = sneE7(-326403242, -1236800609);
+X5ywEh8 = sneE7(-326403242, (unsigned short)-1236800609);
 }
 }
 else if ((k8OYw & aj3gzX) && (YZb_3m2k < L67k1dua9K))
@@ -262,7 +262,7 @@ case 1:
 K_SQ_8N = rzejSbLP + 65280935;
 break;
 case 2:
-kJa24 = sneE7(294917127, 860451951);
+kJa24 = sneE7(294917127, (unsigned short)860451951);
 break;
 case 3:
 xlp7vWzs6 = aI2DC(-1290065373);
@@ -370,7 +370,7 @@ case 'h':
 rzejSbLP = (int)abs(X5ywEh8);
 break;
 case 'i':
-L67k1dua9K = o267S2ug(1532013174, t70x6ZK4, -672108597, -1442461372);
+L67k1dua9K = o267S2ug(1532013174, t70x6ZK4, -672108597, (short)-1442461372);
 break;
 }
 {
@@ -394,7 +394,7 @@ else if (sg0bGvDM2L != MaT3G)
 int k = 0;
 do
 {
-L67k1dua9K = o267S2ug(L67k1dua9K, 989195148, 1485714016, qQ07);
+L67k1dua9K = o267S2ug(L67k1dua9K, 989195148, (char)1485714016, qQ07);
 ++k;
 }
 while (k < 9);
@@ -412,7 +412,7 @@ cout << "S_U92I" << "m8_36" << f1gjm_IT << "o2im" << endl;
 qQ07 = (long long)(k8OYw);
 try
 {
-cout << o267S2ug(L67k1dua9K, WAPk, 153651388, 335489856) << o267S2ug(L67k1dua9K, WAPk, x4_cTX5w5, qQ07) << "LTl7RZDY" << "gykYxHkQ8c" << "r7GgZ" << endl;
+cout << o267S2ug(L67k1dua9K, WAPk, 153651388, (short)335489856) << o267S2ug(L67k1dua9K, WAPk, x4_cTX5w5, qQ07) << "LTl7RZDY" << "gykYxHkQ8c" << "r7GgZ" << endl;
 }
 catch (int& errorCode)
 {
@@ -430,7 +430,7 @@ we00 = sneE7(L67k1dua9K, WAPk) * 633654012;
 
 try
 {
-cout << sneE7(504800733, 1064245471) << "Y_z1hO189" << endl;
+cout << sneE7(504800733, (unsigned short)1064245471) << "Y_z1hO189" << endl;
 }
 catch (int& errorCode)
 {
@@ -459,6 +459,6 @@ short int sneE7(unsigned short int R_dh0bi2,unsigned short eGltuV)
 }
 
 unsigned short  aI2DC(short int  GRf4Dq__Ub)  {
-  return  -2087745836;
+  return  (unsigned short)-2087745836;
 }
 

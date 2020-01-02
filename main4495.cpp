@@ -24,7 +24,7 @@ int main() {
   unsigned short int  W9k7cT879;
   W9k7cT879  =  1500940194;
     unsigned short int    ZMhaQ2;
-    ZMhaQ2    =    -1402053583;
+    ZMhaQ2    =    (unsigned short)-1402053583;
   unsigned short  q82Oi;
   q82Oi  =  750620336;
  short int Xa_gb1F;
@@ -36,7 +36,7 @@ int main() {
     unsigned short    zfb1FX;
     zfb1FX    =    -199373355;
  char lEYL;
- lEYL = -1439136969;
+ lEYL = (char)-1439136969;
   int  Dw6qlz2;
   Dw6qlz2  =  -299667621;
   unsigned long  TU1Ck;
@@ -60,7 +60,7 @@ lEYL ^= 1915010900;
 }
 else if (ya_90 >= 1454214247)
 {
-zfb1FX = v46xWeT8(204105718);
+zfb1FX = v46xWeT8((unsigned short)204105718);
 }
 else
 {
@@ -211,7 +211,7 @@ Dw6qlz2++;
 }
 else if (Dw6qlz2)
 {
-HJU9 = WHC3m1Q2rt(775338238);
+HJU9 = WHC3m1Q2rt((short)775338238);
 }
 else
 {
@@ -246,7 +246,7 @@ zfb1FX = v46xWeT8(418087638);
 break;
 case 'c':
 case 'C':
-TU1Ck = WHC3m1Q2rt(686088364);
+TU1Ck = WHC3m1Q2rt((short)686088364);
 break;
 case 'd':
 case 'D':
@@ -260,7 +260,7 @@ std::cout << "Llc5" << "oJ8F1" << "bb5_E" << std::endl;
 
 if (WHC3m1Q2rt(-264246698) == 0)
 {
-	Dw6qlz2 = RU09(591784678, -518344656) / WHC3m1Q2rt(-264246698);
+	Dw6qlz2 = RU09(591784678, -518344656) / WHC3m1Q2rt((short)-264246698);
 }
 
 JLmiA_uqGc = RU09(pQ_n, zfb1FX) | 1414984191;

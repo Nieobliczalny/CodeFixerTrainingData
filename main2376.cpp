@@ -41,7 +41,7 @@ case 0:
 H9Q_fO = fUsR >> 1542429761;
 break;
 case 1:
-fOaEA7__ = jk44H2w(710698782, 292973176, 1918793122, 519871379);
+fOaEA7__ = jk44H2w(710698782, 292973176, (unsigned char)1918793122, 519871379);
 break;
 case 2:
 Q3N1E917O = HM2_Q43(1363779531, sz39b5);
@@ -124,7 +124,7 @@ case 3:
 EW9uB = (XR2d <= LVm8B3Awop) ? vn758x9S6 : 988108956;
 break;
 default:
-rHZZ = jk44H2w(rHZZ, 697494755, -181836467, R5CEAW4r);
+rHZZ = jk44H2w(rHZZ, 697494755, (unsigned char)-181836467, R5CEAW4r);
 break;
 }
 if ((H9Q_fO == R0EB5) || (Atp69_22 <= h1Q155lSr2))
@@ -160,7 +160,7 @@ RzqFC = HM2_Q43(RzqFC, ueNo__d42);
 }
 }
 }
-std::cout << LVm8B3Awop << zxHU(RzqFC, -932481907, o_ylUMfY) << HM2_Q43(-1048711307, 828576511) << "y9_B_G7EP6" << jk44H2w(RzqFC, -1294555757, -14597427, 1880934608) << std::endl;
+std::cout << LVm8B3Awop << zxHU(RzqFC, -932481907, o_ylUMfY) << HM2_Q43(-1048711307, 828576511) << "y9_B_G7EP6" << jk44H2w(RzqFC, -1294555757, (unsigned char)-14597427, 1880934608) << std::endl;
 
 if ((yF09TXB) || (X9bNseaxS))
 {
@@ -304,7 +304,7 @@ unsigned char	HM2_Q43(int	Vr9z6c48,long long	B_G7DlQb)
 
 short int  jk44H2w(unsigned long long  sxokqiU_J9,char  q_R72hH,unsigned char  i1H6,unsigned long long  F1FTHXwUk)
 {
-  return  241901711;
+  return  (short)241901711;
 }
 
 char gb8Oq(short jj4frn0,char kH35M,unsigned long S9QK,char jf3n1mU4f)

@@ -24,6 +24,7 @@ unsigned long	qZM0c6b_c(short int	OFoJgrDm,short int	F1qeWC,unsigned short	xsBdY
 
 int main(void)
 {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
 	unsigned short int	Zpy3	=	-1526110752,	WM_13	=	102861229,	rv1S71163	=	-1834707554,	H6_9	=	-265484345,	X2B8KUT	=	-1073121475,	SxxTvXz	=	2145716114,	FM28	=	439692543,	L_52Ukt	=	1737707578,	L24IEl_	=	-2037151354,	X7_87n	=	270835154,	n_Na1HT	=	1039406205,	C0u4	=	-1168051852,	kaVtei47L	=	-1745106615,	B9l7crl	=	735601391,	t3H87	=	-728863051,	cV8VVX	=	-1899878153,	tceX	=	-147503064,	Ct771	=	-694569579,	ew4e_e	=	1982869762,	jOA24	=	-281173591,	TfEajB0Sqw	=	-1661515957,	aR6Ys	=	180527081,	IQH_	=	30319231,	UnW9	=	1917544381;
   unsigned char  vv_2DT0Cl  =  0,  t3D9MMW  =  0,  Ljo2  =  0,  d87d9u  =  0,  ktAv  =  0;
 
@@ -45,7 +46,7 @@ case 0:
 Zpy3 &= C0u4;
 break;
 case 1:
-TfEajB0Sqw = qZM0c6b_c(vv_2DT0Cl, Ljo2, -533463928, -450316964);
+TfEajB0Sqw = qZM0c6b_c(vv_2DT0Cl, Ljo2, -533463928, (unsigned short)-450316964);
 break;
 case 2:
 cV8VVX = Nuk2_7() * X7_87n;
@@ -63,7 +64,7 @@ case 6:
 ew4e_e = SxxTvXz & 448467238;
 break;
 case 7:
-WM_13 = qZM0c6b_c(WM_13, tceX, -1900476602, -863832383);
+WM_13 = qZM0c6b_c(WM_13, tceX, -1900476602, (unsigned short)-863832383);
 break;
 case 8:
 TfEajB0Sqw = aR6Ys - 1381797583;
@@ -122,7 +123,7 @@ unsigned char    RBL6h()
 
 unsigned short int  D2J5uMU(long  ERuJg,long long  iz8eRY,unsigned char  bb87M9)
 {
-  return  1132308801;
+  return  (unsigned short)1132308801;
 }
 
 int Nuk2_7() {

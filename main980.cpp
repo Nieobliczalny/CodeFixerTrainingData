@@ -50,7 +50,7 @@ i--;
 switch (Hmi06Y5)
 {
 case 'a':
-dQjA = uu4D(-612621194, 199391157, Hmi06Y5, -404768662) - VDlbQYB;
+dQjA = uu4D(-612621194, 199391157, Hmi06Y5, (unsigned char)-404768662) - VDlbQYB;
 break;
 case 'b':
 bhHa &= VDlbQYB;
@@ -74,7 +74,7 @@ case 'h':
 dQjA = uu4D(-1933039537, dQjA, 1416766505, 2101332733);
 break;
 case 'i':
-VDlbQYB = b695iE(796581268, Hmi06Y5, VDlbQYB, 1988224791);
+VDlbQYB = b695iE(796581268, Hmi06Y5, VDlbQYB, (short)1988224791);
 break;
 case 'j':
 VDlbQYB = uu4D(1371205637, R_tb, dQjA, bhHa);
@@ -92,7 +92,7 @@ if (bhHa <= 1509958356)
 int j = 6;
 while (j >= 0)
 {
-std::cout << "uU4_3Zb" << PvHHme9() << "w9y5n" << uu4D(VDlbQYB, R_tb, dQjA, -494112444) << dQjA << std::endl;
+std::cout << "uU4_3Zb" << PvHHme9() << "w9y5n" << uu4D(VDlbQYB, R_tb, dQjA, (unsigned char)-494112444) << dQjA << std::endl;
 j--;
 }
 }

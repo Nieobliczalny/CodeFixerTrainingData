@@ -17,7 +17,7 @@ int main(void)
     double    IT9B;
     IT9B    =    -1923141120;
 	unsigned short int	D65vfF;
-	D65vfF	=	523031660;
+	D65vfF	=	(unsigned short)523031660;
     char    sFHLFR0;
     sFHLFR0    =    1673205214;
  double sM19zv;
@@ -47,7 +47,7 @@ int main(void)
   long  qryQ73Or1;
   qryQ73Or1  =  -695558602;
   unsigned short  SL8tPqqJB;
-  SL8tPqqJB  =  1664123508;
+  SL8tPqqJB  =  (unsigned short)1664123508;
     double    OU6gUo4;
     OU6gUo4    =    -930796951;
  long long Rj5h;
@@ -59,7 +59,7 @@ int main(void)
  unsigned char eOE_TOz;
  eOE_TOz = -935804236;
  unsigned short Fv0dC_d9;
- Fv0dC_d9 = -1718293356;
+ Fv0dC_d9 = (unsigned short)-1718293356;
     unsigned int    K8hwrjI;
     K8hwrjI    =    0;
   short  n9gy65;
@@ -69,7 +69,7 @@ int main(void)
   unsigned char  R06vc;
   R06vc  =  2128624338;
   char  g3Pkl_tlM_;
-  g3Pkl_tlM_  =  -345715867;
+  g3Pkl_tlM_  =  (char)-345715867;
 	short int	H_gutEO5S;
 	H_gutEO5S	=	730019929;
  unsigned long hBkqC;
@@ -87,7 +87,7 @@ int main(void)
   unsigned long  LQHq;
   LQHq  =  1472109251;
   unsigned short int  JACU;
-  JACU  =  -595490069;
+  JACU  =  (unsigned short)-595490069;
     unsigned int    C_uY;
     C_uY    =    -520917951;
   short  gpbPQ7;
@@ -99,7 +99,7 @@ int main(void)
  float hJwV_l8;
  hJwV_l8 = 861658092;
 	unsigned short int	Y0o2sm901j;
-	Y0o2sm901j	=	2059800183;
+	Y0o2sm901j	=	(unsigned short)2059800183;
  short TzpD;
  TzpD = 890918864;
   int  M6_7Vej5RK;
@@ -115,7 +115,7 @@ int main(void)
 	char	m49r;
 	m49r	=	-358211102;
 	short	y3emE9dDSD;
-	y3emE9dDSD	=	-2114399040;
+	y3emE9dDSD	=	(short)-2114399040;
  short Fh838iE_;
  Fh838iE_ = 750330233;
 	double	C_Z_mWy7;
@@ -125,7 +125,7 @@ int main(void)
   short int  p7Xs;
   p7Xs  =  1115828226;
     short    T6_Z80;
-    T6_Z80    =    1805595835;
+    T6_Z80    =    (short)1805595835;
     unsigned char    lJb511mRx;
     lJb511mRx    =    -204213814;
     unsigned short int    gT09A4vA;
@@ -147,7 +147,7 @@ int main(void)
 	short	b84B_3;
 	b84B_3	=	286095676;
  short zh2ns798mE;
- zh2ns798mE = -1588098601;
+ zh2ns798mE = (short)-1588098601;
 	char	C8e3p_15;
 	C8e3p_15	=	1703652039;
   long double  Sek8ypOo5v;

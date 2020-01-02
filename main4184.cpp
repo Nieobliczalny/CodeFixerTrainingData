@@ -144,7 +144,7 @@ case 'd':
 S3w9Z96p = cSWhvH(S3w9Z96p, 1941194288, 1994317302);
 break;
 case 'e':
-Oq5zF = F12v(Oq5zF, EvJ9c, ouK5HG, -1634785116);
+Oq5zF = F12v(Oq5zF, EvJ9c, ouK5HG, (unsigned short)-1634785116);
 break;
 case 'f':
 gJUx0e = jL_R1(533338582, 354565810);
@@ -360,7 +360,7 @@ case 'c':
 rT8m = (int)abs(Bw8z);
 break;
 case 'd':
-ouK5HG = cSWhvH(ouK5HG, r_OBMp, 1549727676);
+ouK5HG = cSWhvH(ouK5HG, r_OBMp, (char)1549727676);
 break;
 case 'e':
 kXvX58_B5n = Uz0f8VQ(kXvX58_B5n, -1930247978, U4362y, 1026031279);

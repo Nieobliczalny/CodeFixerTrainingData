@@ -295,7 +295,7 @@ case 'd':
 oS_Bbu = eX0b5m(oS_Bbu, 502101288, fLPuO, -157479427);
 break;
 case 'e':
-J64L = npxew(J64L, -544696096, 2079005086, f5T0x_L9, 2025444239);
+J64L = npxew(J64L, -544696096, (unsigned short)2079005086, f5T0x_L9, 2025444239);
 break;
 }
 }
@@ -325,7 +325,7 @@ O8uFK66dx_ -= T5XuYT6P;
 break;
 case 'f':
 case 'F':
-AQ3Q48__9 = npxew(-731242955, 697554320, 1000289806, Ml78u, 419118910);
+AQ3Q48__9 = npxew(-731242955, 697554320, (unsigned short)1000289806, Ml78u, 419118910);
 break;
 case 'g':
 case 'G':

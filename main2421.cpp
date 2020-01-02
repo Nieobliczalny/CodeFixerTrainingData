@@ -12,6 +12,7 @@
 
 int main()
 {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
   short  jY_9Fa1_nT  =  397046584,  TiqN3U  =  1112148585,  X3jW  =  -387561485,  Xl8f6  =  -746128988,  R3vxf3s  =  -636935062,  BS34NI  =  -97212291,  RUkXpR_B  =  1546981784,  olLwBVe2  =  361797824,  SexCfXsE  =  -686175153,  ORBOk8y  =  939351246,  owuyk3AN79  =  1245032600,  IAHg8W  =  -2008969727,  H8ig5r2  =  2070405759,  T4UDc09u  =  1701941303,  z1L9p6QgDn  =  -1489910596,  Pr5G1  =  998288188,  anvs1it  =  1206853439,  h4g__9  =  1384208071,  wsBS939h  =  798374745,  ojL0  =  640132181,  DHge_1q  =  -722829951,  WVu0  =  682248055,  pfNAOn  =  -2002449162;
 	long	x8_2RASJE	=	0,	KaH5c44Z1w	=	0,	n7Dpwqxx	=	0,	MP3lCrVuxX	=	0;
 
@@ -564,7 +565,7 @@ int k = 0;
 do
 {
 k++;
-R3vxf3s = (ojL0 & 2043752139) ? -839903119 : -164194140;
+R3vxf3s = (ojL0 & 2043752139) ? -839903119 : (short)-164194140;
 }
 while (k < 5);
 }

@@ -138,7 +138,7 @@ jGu_9tj4 = GWX9oj4(835533762, Q4579KT);
 }
 else
 {
-jGu_9tj4 = GWX9oj4(-1500543057, -718951538);
+jGu_9tj4 = GWX9oj4((unsigned char)-1500543057, -718951538);
 }
 --j;
 }
@@ -156,7 +156,7 @@ tiruFe_ = (unsigned long)(Z07cZ + (L3nR5APuAk));
 Q4579KT = i41894NnC(788049567);
 }
 tiruFe_ = (unsigned long)(Z07cZ + (f18Ly));
-jGu_9tj4 = GWX9oj4(-528230290, Q4579KT);
+jGu_9tj4 = GWX9oj4((unsigned char)-528230290, Q4579KT);
 {
 int i = 1;
 while (i >= 0)

@@ -20,7 +20,7 @@ int main(void)
     long long    sr1Y    =    -436673957;
 	unsigned long long	Q5LC4iReb	=	471550147;
 	char	m6S_sl33	=	-1595993142;
-  unsigned char  JuzBfV3GGt  =  -787285525;
+  unsigned char  JuzBfV3GGt  =  (unsigned char)-787285525;
   short int  X8PeiAm0  =  -633875654;
  float SUMU0JX = -204458634;
     unsigned short    GTuaZ    =    -1122010482;
@@ -41,7 +41,7 @@ int main(void)
     unsigned int    MeTPv2a91    =    47061069;
   unsigned int  Jv_f_1ahm  =  -443673292;
   long long  vNj4  =  -1938987626;
- short int ir87 = -1900774126;
+ short int ir87 = (short)-1900774126;
  unsigned char VIO96PsW = 342532606;
  int Cg4Y8TY = 1281264423;
 	unsigned int	Jd5iDzc	=	1208240017;

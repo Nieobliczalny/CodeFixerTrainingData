@@ -19,7 +19,7 @@ unsigned char    br4n4NPUL(short int    hmrAw_VCD)    {
 
 int main(int argc, char** argv) {
  char jTfbYA6, yoK1WlY, SgOEz, uAll4Vnx4W, kl81Ie, p__mm, sn7bzt6F0, Y6wFG, Ks7M6aj, DW1Nz, hu2YHs3V2K, kHWo8Ab_s, KxzVBZIg, a0g73166r, V_O4_09qB9, yH1Y038VC, x224s, zu7XqYS, J3RR9zJ1_, v2tz;
- jTfbYA6 = 1196747635;
+ jTfbYA6 = (char)1196747635;
  yoK1WlY = -296855882;
  SgOEz = 348506861;
  uAll4Vnx4W = 223514379;
@@ -29,7 +29,7 @@ int main(int argc, char** argv) {
  Y6wFG = -458566011;
  Ks7M6aj = 1493190972;
  DW1Nz = -1530317251;
- hu2YHs3V2K = 1272842274;
+ hu2YHs3V2K = (char)1272842274;
  kHWo8Ab_s = -50942686;
  KxzVBZIg = 407539525;
  a0g73166r = 1807179990;
@@ -95,7 +95,7 @@ case 'a':
 Q5e_R0 = br4n4NPUL(1356286915);
 break;
 case 'b':
-u9B2 = br4n4NPUL(-479260105);
+u9B2 = br4n4NPUL((short)-479260105);
 break;
 case 'c':
 X365QXzc25 = br4n4NPUL(a0g73166r);
@@ -561,7 +561,7 @@ case 'a':
 u9B2 = br4n4NPUL(-1239411805);
 break;
 case 'b':
-UM420by = br4n4NPUL(-1331753671);
+UM420by = br4n4NPUL((short)-1331753671);
 break;
 default:
 jTfbYA6 |= Y6wFG;

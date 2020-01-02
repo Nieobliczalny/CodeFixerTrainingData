@@ -72,7 +72,7 @@ case 1:
 U3K51sno4 = c_qK5(Bdwd_R2ij);
 break;
 case 2:
-U3K51sno4 = c_qK5(1346499502);
+U3K51sno4 = c_qK5((short)1346499502);
 break;
 case 3:
 U3K51sno4 = (int)abs(UWo3L730K7);
@@ -114,7 +114,7 @@ case 5:
 UWo3L730K7 = (int)abs(U3K51sno4);
 break;
 case 6:
-qdMvoE = eYjCz(1696583343);
+qdMvoE = eYjCz((short)1696583343);
 break;
 }
 
@@ -135,7 +135,7 @@ break;
 std::cout << HmAc << "JqO5x" << c_qK5(-119386894) << "LS79XXQ" << std::endl;
 for (int i = 8; i >= 0; --i)
 {
-std::cout << "cLkVX77" << c_qK5(qdMvoE) << c_qK5(1236646969) << std::endl;
+std::cout << "cLkVX77" << c_qK5(qdMvoE) << c_qK5((short)1236646969) << std::endl;
 }
 {
 int i = 4;
@@ -177,7 +177,7 @@ case 1:
 U3K51sno4 = c_qK5(-418524018);
 break;
 case 2:
-N_ZJ = c_qK5(-1642346800) >> 379961624;
+N_ZJ = c_qK5((short)-1642346800) >> 379961624;
 break;
 case 3:
 VR__k4++;

@@ -34,7 +34,7 @@ int main(void)
   float  ARrrY1_  =  -1184268389;
  float FW_08 = 1743126623;
     long    qbZA    =    0;
-	unsigned short	j772rGo	=	1783514934;
+	unsigned short	j772rGo	=	(unsigned short)1783514934;
   unsigned short  TS090dDd  =  -1505811274;
 
 for (int i = 0; i < 8; i++)
@@ -134,7 +134,7 @@ FW_08 = (int)floor(TVs0Y2);
 }
 else if (j772rGo)
 {
-std::cout << ZYF9IjGRq6 << j772rGo << IN8xfv10Tl(-61152067, ARrrY1_) << Jkcz7(1986905862) << std::endl;
+std::cout << ZYF9IjGRq6 << j772rGo << IN8xfv10Tl(-61152067, ARrrY1_) << Jkcz7((char)1986905862) << std::endl;
 }
 else
 {
@@ -175,7 +175,7 @@ case 7:
 FW_08 = (int)ceil(ARrrY1_);
 break;
 case 8:
-TS090dDd = HV87L61(-92480045);
+TS090dDd = HV87L61((unsigned short)-92480045);
 break;
 default:
 TVs0Y2 = (int)floor(FW_08);
@@ -257,7 +257,7 @@ j772rGo = FW_08 * uqCLsz72v;
 }
 }
 
-TS090dDd = (ZYF9IjGRq6 & mKGmrx) ? -1379655139 : -2006345919;
+TS090dDd = (ZYF9IjGRq6 & mKGmrx) ? (unsigned short)-1379655139 : -2006345919;
 
 for (int i = 10; i >= 0; --i)
 {

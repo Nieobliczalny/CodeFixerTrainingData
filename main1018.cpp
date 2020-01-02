@@ -161,7 +161,7 @@ switch (x4iD)
 {
 case 'a':
 case 'A':
-Ky8qQel = g90w(1506999248, N2QnIKJ);
+Ky8qQel = g90w((unsigned char)1506999248, N2QnIKJ);
 break;
 case 'b':
 case 'B':
@@ -324,7 +324,7 @@ Ky8qQel = g90w(Zc69, R1VwJ);
 }
 else if (TQLu != Mq6Lv_AE)
 {
-cout << g90w(-1253630405, R1VwJ) << qttqlc << "ImTzP6Q7ma" << g90w(1420637421, R1VwJ) << endl;
+cout << g90w(-1253630405, R1VwJ) << qttqlc << "ImTzP6Q7ma" << g90w((unsigned char)1420637421, R1VwJ) << endl;
 }
 else if (N2QnIKJ != ZYQ9)
 {
@@ -462,7 +462,7 @@ ZC50xJ = g90w(1072077792, Qfj7CB);
 }
 else if ((gy8K_em5S0 >= TQLu) || ((h9QEPXCp != 1477078715) && (wxoS9g)))
 {
-Ky8qQel = g90w(1903931867, 664410917);
+Ky8qQel = g90w((unsigned char)1903931867, 664410917);
 }
 else if (s_rQ6Y >= x4iD)
 {

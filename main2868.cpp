@@ -33,7 +33,7 @@ case 'b':
 JR0m0lqs ^= CEjsd7;
 break;
 case 'c':
-xb_r5Wg86 = OBMp1D977X(-1769797994, xb_r5Wg86, -577845757, 1442790592);
+xb_r5Wg86 = OBMp1D977X(-1769797994, xb_r5Wg86, -577845757, (unsigned short)1442790592);
 break;
 case 'd':
 H_Dm6iy = xou_H1() % 876411627;
@@ -71,7 +71,7 @@ RW_m = WEC814 % 2105152215;
 }
 else if (Pr_6__Yq8)
 {
-oF2S0 = pEi_J(oF2S0, uzXI5A, -1367363011, CEjsd7, -181864590);
+oF2S0 = pEi_J(oF2S0, uzXI5A, (unsigned char)-1367363011, CEjsd7, -181864590);
 }
 else if (CMUFZ4Bl7Z == 662890902)
 {
@@ -107,7 +107,7 @@ case 'd':
 y5s50lOtG9 = p3dDGLrKK(1149848618, 642088651);
 break;
 case 'e':
-b96KaUMW5_ = OBMp1D977X(b96KaUMW5_, 991702360, Pr_6__Yq8, -2061361699);
+b96KaUMW5_ = OBMp1D977X(b96KaUMW5_, 991702360, Pr_6__Yq8, (unsigned short)-2061361699);
 break;
 case 'f':
 CEjsd7 = ZE9p8(CEjsd7, dmm6Z5txg);
@@ -146,7 +146,7 @@ VJvgat9 = p3dDGLrKK(370569122, uzXI5A);
 }
 else
 {
-DAs_72O = p3dDGLrKK(-1989542629, xb_r5Wg86);
+DAs_72O = p3dDGLrKK((short)-1989542629, xb_r5Wg86);
 }
 }
 
@@ -159,7 +159,7 @@ cout << A307O4z << dmm6Z5txg << c1Pd6aQ5X << oF2S0 << endl;
 y5s50lOtG9 = ZE9p8(DAs_72O, -1807448680) / uaa3roH;
 VJvgat9 = (gMC_ <= -378853584) ? uaa3roH : ns4F8O_Z5;
 
-cout << WEC814 << OBMp1D977X(DAs_72O, 1703930211, -1853362414, u047c63) << pEi_J(-621281977, 40715768, NV2h470Vo, 2054195888, -1529472266) << "RRhOZ6_7a" << endl;
+cout << WEC814 << OBMp1D977X(DAs_72O, 1703930211, -1853362414, u047c63) << pEi_J(-621281977, 40715768, NV2h470Vo, (unsigned short)2054195888, -1529472266) << "RRhOZ6_7a" << endl;
 for (int i = 7; i >= 0; --i)
 {
 try
@@ -171,7 +171,7 @@ catch (int& errorCode)
 I6b643J2j4 >>= dmm6Z5txg;
 }
 }
-xb_r5Wg86 = OBMp1D977X(uaa3roH, 1040614798, -1809571130, 819383857);
+xb_r5Wg86 = OBMp1D977X(uaa3roH, 1040614798, -1809571130, (unsigned short)819383857);
 
 try
 {
@@ -238,7 +238,7 @@ for (int i = 0; i < 3; ++i)
 switch (X2Rrb0j92_)
 {
 case 'a':
-GFIf21 = pEi_J(L6f6OF, 1053217671, xb_r5Wg86, 1445933229, F9G19A2l2) * Pr_6__Yq8;
+GFIf21 = pEi_J(L6f6OF, 1053217671, xb_r5Wg86, (unsigned short)1445933229, F9G19A2l2) * Pr_6__Yq8;
 break;
 case 'b':
 knj74 = OBMp1D977X(knj74, JNH8aE, uzXI5A, hCo2cWzd3);

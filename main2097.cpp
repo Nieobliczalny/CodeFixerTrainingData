@@ -26,7 +26,7 @@ int main(void)
   D45ARH0n_  =  0;
 	short	pIBp,	oUa_x,	Uk81,	U53r,	h370N5,	ZAww_,	Ce1f7u,	oP_Oe,	H0gHL0gbA5,	TE0tMsTS5,	jz0xg6P,	envC7,	q53x7BK1,	gduy7NdA3D,	C6dWC7aU,	My8S,	o47P1R3L,	d28uU45,	k96sn,	fsa278ZA,	jUgnS75g,	r_yTSN,	kXAt,	sHScf0T,	eJLml31,	LkyTnu,	Y3u_f,	qv7Xd2,	MJJiK23,	i289zvA,	J0W6a,	N0Mh,	Ec8d_5z95_,	Npdlr,	P1khP_N4G2,	G_ULs,	LmV8C20s39,	W__5z4_,	Yw32E0968C,	T0GJ9M,	P7s7yo,	T9rnm,	jiN3AOJ7mr,	xao1c3oPu7,	cn4Ws4l,	IG7DIx9,	Ls25jsU,	P_25H,	M7_luYz,	C7O1,	W36UY70,	K8TeX2s,	oecTT60V,	lG9aq,	T1xFl3Zp,	WNkSqQR8pD,	yaeT,	B56PcQa,	Xfxj,	VcXRKLcvb,	O8IlQf45,	Ah52765o,	AYUH1h,	xEN7Bu,	erpKu97Q3,	fEz4_2E,	nX_Q3rlz,	n579Zuf7r,	O_g8,	d_3t4Y91,	kAwENCgZD,	kdMkk37W,	eO_V_3h,	vZ1o5CVsF,	CPa68d3,	J1yk_24Kp,	n70I6a,	hAGlo,	feSmR,	fsY4,	oGajkj,	LU90FQm9G6,	pO_UWxJSK8;
 	pIBp	=	1156850183;
-	oUa_x	=	-589269987;
+	oUa_x	=	(short)-589269987;
 	Uk81	=	2123720990;
 	U53r	=	-1548119551;
 	h370N5	=	577682501;
@@ -36,7 +36,7 @@ int main(void)
 	H0gHL0gbA5	=	-668955030;
 	TE0tMsTS5	=	505528774;
 	jz0xg6P	=	679753152;
-	envC7	=	1161250894;
+	envC7	=	(short)1161250894;
 	q53x7BK1	=	400368366;
 	gduy7NdA3D	=	726167711;
 	C6dWC7aU	=	-1863720552;
@@ -46,7 +46,7 @@ int main(void)
 	k96sn	=	-1311049720;
 	fsa278ZA	=	45184074;
 	jUgnS75g	=	236419496;
-	r_yTSN	=	-828319410;
+	r_yTSN	=	(short)-828319410;
 	kXAt	=	998691241;
 	sHScf0T	=	-1240658661;
 	eJLml31	=	-1112785392;
@@ -56,7 +56,7 @@ int main(void)
 	MJJiK23	=	867246901;
 	i289zvA	=	1822752878;
 	J0W6a	=	1967643703;
-	N0Mh	=	-1161953136;
+	N0Mh	=	(short)-1161953136;
 	Ec8d_5z95_	=	-1449431791;
 	Npdlr	=	2124489507;
 	P1khP_N4G2	=	-1371337651;
@@ -66,7 +66,7 @@ int main(void)
 	Yw32E0968C	=	137562909;
 	T0GJ9M	=	-156744640;
 	P7s7yo	=	-162038808;
-	T9rnm	=	249799556;
+	T9rnm	=	(short)249799556;
 	jiN3AOJ7mr	=	-72701312;
 	xao1c3oPu7	=	497949482;
 	cn4Ws4l	=	-369328008;
@@ -76,7 +76,7 @@ int main(void)
 	M7_luYz	=	-2124178243;
 	C7O1	=	253989826;
 	W36UY70	=	1325079928;
-	K8TeX2s	=	647174573;
+	K8TeX2s	=	(short)647174573;
 	oecTT60V	=	-1587836084;
 	lG9aq	=	1671820809;
 	T1xFl3Zp	=	1470058844;
@@ -86,7 +86,7 @@ int main(void)
 	Xfxj	=	1884749229;
 	VcXRKLcvb	=	1389966236;
 	O8IlQf45	=	1223417069;
-	Ah52765o	=	-1435331242;
+	Ah52765o	=	(short)-1435331242;
 	AYUH1h	=	610567307;
 	xEN7Bu	=	-107510235;
 	erpKu97Q3	=	203905825;
@@ -96,7 +96,7 @@ int main(void)
 	O_g8	=	1816124973;
 	d_3t4Y91	=	-1599835326;
 	kAwENCgZD	=	74762584;
-	kdMkk37W	=	-443545359;
+	kdMkk37W	=	(short)-443545359;
 	eO_V_3h	=	596439417;
 	vZ1o5CVsF	=	-1802151685;
 	CPa68d3	=	1770992229;
@@ -106,7 +106,7 @@ int main(void)
 	feSmR	=	-2004024457;
 	fsY4	=	1700924269;
 	oGajkj	=	-1262969716;
-	LU90FQm9G6	=	-941205720;
+	LU90FQm9G6	=	(short)-941205720;
 	pO_UWxJSK8	=	2104499721;
 
 oecTT60V /= Yw32E0968C;
@@ -185,7 +185,7 @@ while (j < 9);
 }
 }
 
-fsa278ZA = FyyK7ap2(fsa278ZA, -578383618, fEz4_2E, jiN3AOJ7mr, -457405594);
+fsa278ZA = FyyK7ap2(fsa278ZA, (unsigned short)-578383618, fEz4_2E, jiN3AOJ7mr, -457405594);
 switch (U53r)
 {
 case 'a':
@@ -225,7 +225,7 @@ case 'I':
 fEz4_2E /= 100740075;
 break;
 default:
-oUa_x = FyyK7ap2(699466925, 1404027979, xEN7Bu, -1002555346, -1683840465);
+oUa_x = FyyK7ap2(699466925, (unsigned short)1404027979, xEN7Bu, -1002555346, -1683840465);
 break;
 }
 if (xao1c3oPu7 & pIBp)
@@ -473,7 +473,7 @@ while (j >= 0)
 --j;
 if (jiN3AOJ7mr <= 1693578624)
 {
-lG9aq = FyyK7ap2(lG9aq, 857669481, LmV8C20s39, -710094227, -383860256);
+lG9aq = FyyK7ap2(lG9aq, 857669481, LmV8C20s39, (char)-710094227, -383860256);
 }
 else if ((erpKu97Q3 <= o47P1R3L) && ((xEN7Bu == -1625573252) || (xEN7Bu & 1038509848)))
 {
@@ -533,7 +533,7 @@ for (int i = 2; i >= 0; --i)
 {
 if (((fsa278ZA == cn4Ws4l) && (vZ1o5CVsF <= 2020430729)) || ((H0gHL0gbA5 != fsa278ZA) || (n579Zuf7r >= J1yk_24Kp)))
 {
-cout << FyyK7ap2(1715929653, fsY4, M7_luYz, -566569899, -681246409) << hh32(Ls25jsU, fsY4, M7_luYz, TE0tMsTS5, 1540350350) << "l5_36" << "aNA4U" << endl;
+cout << FyyK7ap2(1715929653, fsY4, M7_luYz, (char)-566569899, -681246409) << hh32(Ls25jsU, fsY4, M7_luYz, TE0tMsTS5, 1540350350) << "l5_36" << "aNA4U" << endl;
 }
 else
 {

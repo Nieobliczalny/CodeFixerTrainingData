@@ -29,7 +29,7 @@ int main(void) {
   unsigned long long  s9nBlm  =  104524204;
 	unsigned long	acd0I80	=	1168203515;
 	long long	yFtJM	=	1876266382;
- char uqm0n51 = 47163889;
+ char uqm0n51 = (char)47163889;
 	char	B89s4f63	=	364993568;
     char    O64RS    =    1499917078;
  float Tok7209z7A = 1440705324;
@@ -42,7 +42,7 @@ int main(void) {
 	double	V0TBYC	=	1145206600;
   unsigned long long  C3_5LG2  =  142033917;
     long long    NhHH2fTZ    =    1122583459;
-    short    gwhAb5    =    -742274755;
+    short    gwhAb5    =    (short)-742274755;
     int    VU_0g    =    -1293469130;
 	unsigned short	aS4X3wuR	=	-582002305;
  long long QJ1k8np9 = 298240769;
@@ -52,7 +52,7 @@ int main(void) {
 	double	QP1KoI	=	625445348;
   double  fO_m  =  -569879684;
   unsigned long long  Tjq12  =  -1274733518;
-    char    ulO1t_9m8    =    958124039;
+    char    ulO1t_9m8    =    (char)958124039;
     long long    ILg2Xf_    =    695198101;
 	char	x7x1E	=	421111171;
   short int  W0MKMOz6hK  =  -1796675170;
@@ -62,7 +62,7 @@ int main(void) {
 	char	bgy9	=	-935339798;
 	short int	sp_f_5B4v7	=	1602840344;
     long double    IH_MGc    =    -455214919;
-    unsigned char    Q_JQZ    =    -1333462572;
+    unsigned char    Q_JQZ    =    (unsigned char)-1333462572;
   short int  MO2q1m_  =  927943729;
 	unsigned short	XOjG2Zs74	=	1996479498;
     char    Wk9w    =    -1742877207;
@@ -72,7 +72,7 @@ int main(void) {
   short int  Zbj78nIC  =  1737650217;
   char  qVra9_WiFL  =  -239265943;
 	unsigned short	OTYmbld90	=	497199557;
- char BOQz9Ko4 = 130627234;
+ char BOQz9Ko4 = (char)130627234;
     short int    zk_OwV25    =    -2035645188;
   unsigned short  r8t4_1KVU  =  -1307045908;
     long double    g1Fzq8    =    -1733605616;
@@ -83,7 +83,7 @@ int main(void) {
 	unsigned char	Unu9I3D	=	624292154;
     long double    bK5rrQLT    =    796199992;
     double    XcLrYb    =    948668566;
-    char    dlqA9bJ    =    -1796010405;
+    char    dlqA9bJ    =    (char)-1796010405;
   unsigned short int  YPJ19nZ8C  =  1121872029;
  long long rM6Vi6W = -1155664967;
 	short int	x88wMh02if	=	0;

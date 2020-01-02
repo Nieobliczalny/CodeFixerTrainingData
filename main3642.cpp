@@ -61,7 +61,7 @@ int main(int argc, char** argv) {
   long  c5Rh13;
   c5Rh13  =  1260889802;
     char    pvyh;
-    pvyh    =    1718687388;
+    pvyh    =    (char)1718687388;
   unsigned long long  OR_aC;
   OR_aC  =  1317554096;
     long double    x8_c1Jxf;
@@ -73,7 +73,7 @@ int main(int argc, char** argv) {
 	float	VG36T92;
 	VG36T92	=	-1943035337;
  unsigned char Sx0p4n;
- Sx0p4n = -1854641278;
+ Sx0p4n = (unsigned char)-1854641278;
     unsigned long long    PgC3ZS;
     PgC3ZS    =    -1735166000;
  unsigned long long vNt7z;
@@ -83,7 +83,7 @@ int main(int argc, char** argv) {
  unsigned short PpegF;
  PpegF = 1313642686;
  unsigned char h9z1_D;
- h9z1_D = -1059371702;
+ h9z1_D = (unsigned char)-1059371702;
   short  z60LGg;
   z60LGg  =  795436156;
 	unsigned char	L0_0Z68_y9;
@@ -101,7 +101,7 @@ int main(int argc, char** argv) {
  long hcrxzd;
  hcrxzd = 1218537762;
   short  lWWbB2n;
-  lWWbB2n  =  1517735150;
+  lWWbB2n  =  (short)1517735150;
   long long  OB1UuQ;
   OB1UuQ  =  -783375326;
   long double  c5n9;
@@ -129,7 +129,7 @@ int main(int argc, char** argv) {
   char  bckc6n_N;
   bckc6n_N  =  174889824;
  short int RhhsWgEQqP;
- RhhsWgEQqP = 815363395;
+ RhhsWgEQqP = (short)815363395;
   short int  WQOP5vG7wI;
   WQOP5vG7wI  =  -320598386;
     unsigned long long    uT6FZ;
@@ -143,7 +143,7 @@ int main(int argc, char** argv) {
 	short	Mu1q_L_;
 	Mu1q_L_	=	1083481380;
  unsigned short int R_940Z55H;
- R_940Z55H = 1195308773;
+ R_940Z55H = (unsigned short)1195308773;
  float UHpe9;
  UHpe9 = -2004230070;
     unsigned long long    Kmz7v;
@@ -159,7 +159,7 @@ int main(int argc, char** argv) {
     char    A2fn_;
     A2fn_    =    828583711;
 	unsigned short int	E87Q57;
-	E87Q57	=	1966841818;
+	E87Q57	=	(unsigned short)1966841818;
     short int    ITdI_;
     ITdI_    =    -56503751;
  long double w3OXmE_;
@@ -169,7 +169,7 @@ int main(int argc, char** argv) {
     unsigned short int    v1H6kWIGo;
     v1H6kWIGo    =    858967828;
  unsigned short Py9w8N;
- Py9w8N = 1692330706;
+ Py9w8N = (unsigned short)1692330706;
  unsigned char U5_771;
  U5_771 = -451877243;
     int    Ijxd_8Kx;
@@ -193,7 +193,7 @@ else
 int j = 0;
 do
 {
-std::cout << dJwRHZQyq(398800722) << FXL42sDlR(-1018832412, 304135445, 1720902168, 343926219) << Dt_I << std::endl;
+std::cout << dJwRHZQyq(398800722) << FXL42sDlR(-1018832412, 304135445, 1720902168, (short)343926219) << Dt_I << std::endl;
 j++;
 }
 while (j < 4);

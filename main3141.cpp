@@ -10,7 +10,7 @@
 int main()
 {
   long  ps5H  =  0,  sE9H00R  =  0,  u5OFPdOE1  =  0,  j9n_Ii  =  0,  ZYK2pz  =  0;
-  short  t466YMc1  =  -1557763767,  wzZ4Q62hk_  =  2134572801;
+  short  t466YMc1  =  -1557763767,  wzZ4Q62hk_  =  (short)2134572801;
 
 if (u5OFPdOE1 & 1561366874)
 {
@@ -80,7 +80,7 @@ case 0:
 ps5H = (int)abs(j9n_Ii);
 break;
 case 1:
-wzZ4Q62hk_ = (sE9H00R) ? 479285728 : 48628290;
+wzZ4Q62hk_ = (sE9H00R) ? 479285728 : (short)48628290;
 break;
 case 2:
 wzZ4Q62hk_ = sE9H00R - 1193868444;
@@ -150,7 +150,7 @@ case 3:
 ps5H = (int)abs(ZYK2pz);
 break;
 case 4:
-t466YMc1 = (wzZ4Q62hk_ < ZYK2pz) ? -1399300037 : 2115853314;
+t466YMc1 = (wzZ4Q62hk_ < ZYK2pz) ? -1399300037 : (short)2115853314;
 break;
 default:
 ZYK2pz = (int)abs(j9n_Ii);

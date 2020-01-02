@@ -20,7 +20,7 @@ int main() {
 	long	zoIr6;
 	zoIr6	=	1799218402;
     char    T9UphL3;
-    T9UphL3    =    -818762735;
+    T9UphL3    =    (char)-818762735;
   unsigned char  m9yG;
   m9yG  =  -95436634;
     short int    Z4qH6Jz390;
@@ -40,7 +40,7 @@ int main() {
 	unsigned char	A543;
 	A543	=	1759547516;
     unsigned char    qNjw;
-    qNjw    =    -871383754;
+    qNjw    =    (unsigned char)-871383754;
     unsigned long long    U2eU4WdMe;
     U2eU4WdMe    =    888761505;
  unsigned int Uv43F5;
@@ -58,7 +58,7 @@ int main() {
     long    Crh_00y;
     Crh_00y    =    1960445019;
 	unsigned short	VdT_;
-	VdT_	=	1842437689;
+	VdT_	=	(unsigned short)1842437689;
     unsigned long    P42HGE087;
     P42HGE087    =    2051028518;
     unsigned short    fXaDl;

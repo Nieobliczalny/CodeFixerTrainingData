@@ -43,7 +43,7 @@ int main()
 	int	GDm8P;
 	GDm8P	=	164695132;
     short    VTt1p3m7N0;
-    VTt1p3m7N0    =    849957343;
+    VTt1p3m7N0    =    (short)849957343;
   unsigned short int  A922WlpjKI;
   A922WlpjKI  =  -1927693587;
   unsigned char  S6dUy22;
@@ -63,7 +63,7 @@ int main()
 	long	vchgT3;
 	vchgT3	=	-1966314195;
  unsigned short crkQuckpy7;
- crkQuckpy7 = -982522713;
+ crkQuckpy7 = (unsigned short)-982522713;
     unsigned int    X8X5;
     X8X5    =    -2133446970;
  long G2x0;
@@ -85,7 +85,7 @@ int main()
 	char	t99wR5Vhi5;
 	t99wR5Vhi5	=	-64343412;
   unsigned short  C5ud64rgj9;
-  C5ud64rgj9  =  -1031899417;
+  C5ud64rgj9  =  (unsigned short)-1031899417;
   unsigned short  uM5d6u0cyx;
   uM5d6u0cyx  =  354928874;
  long double gY9211;
@@ -97,7 +97,7 @@ int main()
   char  U4rI;
   U4rI  =  520631170;
  unsigned short int p2_w6k;
- p2_w6k = 173118547;
+ p2_w6k = (unsigned short)173118547;
 	unsigned long	nW0x;
 	nW0x	=	-1546234571;
  double EXU_Q4;
@@ -113,7 +113,7 @@ int main()
     int    QL6zg5;
     QL6zg5    =    -1772886735;
 	short	bI36Tz;
-	bI36Tz	=	1258722514;
+	bI36Tz	=	(short)1258722514;
   long  qS7X;
   qS7X  =  -1429185629;
  int WXV9Z_FT;
@@ -137,7 +137,7 @@ int main()
   unsigned long long  guM2vuI;
   guM2vuI  =  1859003448;
 	unsigned short int	Ouxr3;
-	Ouxr3	=	-1823122051;
+	Ouxr3	=	(unsigned short)-1823122051;
  double lRUtuz3syx;
  lRUtuz3syx = 802584724;
     unsigned char    DmVPK1;
@@ -159,7 +159,7 @@ int main()
 	short	p7Drq0v3c9;
 	p7Drq0v3c9	=	1015013044;
 
-WMGMa_ = Oy_3FmHq7(-1900188925, DmVPK1, rcWPy4m);
+WMGMa_ = Oy_3FmHq7((unsigned short)-1900188925, DmVPK1, rcWPy4m);
 
 if (((crkQuckpy7 > -827054030) || (CZ7utFJ5W_ & -1950428746)) && (G2x0 & b6x8olBCu))
 {
@@ -176,7 +176,7 @@ case 0:
 wUkbn6F_lh = Oy_3FmHq7(wUkbn6F_lh, -1273287338, DTAJ8kIjh);
 break;
 case 1:
-d1DF = Oy_3FmHq7(d1DF, 921126524, j_dYpWH);
+d1DF = Oy_3FmHq7(d1DF, (unsigned short)921126524, j_dYpWH);
 break;
 case 2:
 p7Drq0v3c9 = (int)abs(RYu9NR);
@@ -199,7 +199,7 @@ d1DF = Oy_3FmHq7(592230124, Ouxr3, JOY37_RH97);
 }
 else
 {
-DTAJ8kIjh = gR90573yb(2093643631, 380960430, DADdvv_, 1231596612, -2134927822);
+DTAJ8kIjh = gR90573yb(2093643631, (short)380960430, DADdvv_, 1231596612, -2134927822);
 }
 {
 int i = 0;

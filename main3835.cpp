@@ -13,7 +13,7 @@ int main(int argc, char** argv) {
 	unsigned long long	h0H8J5;
 	h0H8J5	=	-2010601368;
 	char	bCx19D;
-	bCx19D	=	-1160632458;
+	bCx19D	=	(char)-1160632458;
  long long YKTOi_87o;
  YKTOi_87o = 400972895;
 	char	dR7gS;

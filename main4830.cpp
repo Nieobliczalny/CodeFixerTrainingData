@@ -29,7 +29,7 @@ int main(void)
   long long  OR6y8w4Y_N;
   OR6y8w4Y_N  =  1877916343;
  short int GLnKZ6;
- GLnKZ6 = 431359800;
+ GLnKZ6 = (short)431359800;
   short  ZID30;
   ZID30  =  5016586;
  double ia9R51;
@@ -39,7 +39,7 @@ int main(void)
   unsigned short  sogf7wv1W;
   sogf7wv1W  =  -1314870492;
   char  IfEd3E8U;
-  IfEd3E8U  =  853159835;
+  IfEd3E8U  =  (char)853159835;
  short int OVI6IpTl7;
  OVI6IpTl7 = 308671630;
  int bZd6mf;
@@ -51,7 +51,7 @@ int main(void)
 	unsigned int	g33P;
 	g33P	=	1491607917;
   unsigned short  FhwbS0;
-  FhwbS0  =  -883695565;
+  FhwbS0  =  (unsigned short)-883695565;
   short  Rh8Z;
   Rh8Z  =  -1384681729;
   unsigned int  DGpih;
@@ -61,7 +61,7 @@ int main(void)
   unsigned short int  y480H6vt2a;
   y480H6vt2a  =  -2119504699;
   unsigned short  cI4STft2Pf;
-  cI4STft2Pf  =  1120400171;
+  cI4STft2Pf  =  (unsigned short)1120400171;
  unsigned long sVbPs25dG;
  sVbPs25dG = 142272180;
  double W68ma080;
@@ -79,7 +79,7 @@ int main(void)
     unsigned long long    m56b_7ON;
     m56b_7ON    =    1705341681;
     short    Q88_gPdkk;
-    Q88_gPdkk    =    1826211526;
+    Q88_gPdkk    =    (short)1826211526;
     unsigned char    oN5Fr6h_I;
     oN5Fr6h_I    =    1133813855;
   unsigned long  l2HCaZ1b;
@@ -89,7 +89,7 @@ int main(void)
   unsigned short int  BQ0wPC;
   BQ0wPC  =  -1414559112;
 	char	XV4l_NDF;
-	XV4l_NDF	=	-1884998215;
+	XV4l_NDF	=	(char)-1884998215;
   short int  h_1Go8Aic9;
   h_1Go8Aic9  =  2012853296;
   unsigned int  KGm8y6qUsA;
@@ -105,7 +105,7 @@ int main(void)
 	long	mW0s;
 	mW0s	=	-134285897;
 	short int	U9Dcmt_;
-	U9Dcmt_	=	1418261020;
+	U9Dcmt_	=	(short)1418261020;
     unsigned short    PImNG8;
     PImNG8    =    -1003674466;
   unsigned long long  TDmi4;
@@ -115,7 +115,7 @@ int main(void)
  unsigned char BZ1PTLrz17;
  BZ1PTLrz17 = -702330494;
  unsigned short int Xs9h;
- Xs9h = -2113712018;
+ Xs9h = (unsigned short)-2113712018;
   long double  O_6l;
   O_6l  =  1869460643;
 	short int	KD7wjPFQ;
@@ -139,7 +139,7 @@ try
 switch (C4KM9J201)
 {
 case 0:
-l2HCaZ1b = n9D_OZPI(BZ1PTLrz17, 627783405, OR6y8w4Y_N, 1603375337);
+l2HCaZ1b = n9D_OZPI(BZ1PTLrz17, 627783405, OR6y8w4Y_N, (char)1603375337);
 break;
 case 1:
 GOn5q2 -= O_6l;
@@ -303,7 +303,7 @@ case 'g':
 V4L6aY6e7 = o1s_gqu(1977119206);
 break;
 case 'h':
-l2HCaZ1b = n9D_OZPI(bZd6mf, 1448615042, XV4l_NDF, KD7wjPFQ);
+l2HCaZ1b = n9D_OZPI(bZd6mf, (short)1448615042, XV4l_NDF, KD7wjPFQ);
 break;
 }
 }
@@ -417,7 +417,7 @@ unsigned short	ar4YywaLbn(char	gWSB5vj,long long	G9329822,long long	rq65Q,unsign
 }
 
 unsigned short o1s_gqu(unsigned short int AF78Ri) {
- return -1893850324;
+ return (unsigned short)-1893850324;
 }
 
 short    n9D_OZPI(unsigned int    e65_qB2P,short    SV7ime,char    bSvJl,char    zYzs41)

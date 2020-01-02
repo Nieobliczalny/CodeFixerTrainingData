@@ -20,7 +20,7 @@ int main() {
     Vpd0g4mwl    =    0;
     unsigned short int    oMb409nMH5,    BYmD4,    IW6T,    EWogb04,    Ea1Z,    f_1R,    j9LBT,    Czejnp,    S095a5W,    m3yRS,    DaTkKe,    WZdsyn,    Kdkb3QeI,    l1mz7,    Sn5h,    qMk8SW,    y73S,    VBswZ_A,    l5IFn,    qS2GwD,    z6sX_i_Y,    lR__,    Sm52SBMw,    h6R_s8bGGn,    gBYyO,    rbWi8zX9Wt,    NGDN92nq4,    glWlw9E,    RlD0Bag,    L_Px_V,    C244O,    PT2cu_,    Aj1T204pK,    d7nj_In,    puPBVd__2,    N82p1,    NLCF,    i01qQ5iMyB,    i1mOkga,    zlxI,    ySBtZix34v,    wJTIfuP__U,    z1IZ_6,    TdA57,    kAz5lfJtF,    ez0roH4,    mQ5HPx_iE,    peiK,    pBWg9oP,    Z6UZe3Ao,    P3_RRqy,    yyU79_O4,    jBAB09,    vFT2Pd,    wu56O,    JOqv_0,    O4O88,    s_X7Om0,    ncD_Rm,    fb1Qbj68Zp,    YxJB6i2,    biL3,    xjfl0T6JN,    eM2P7oe8,    uHIlzX3_M,    xLNO,    OM7251LH_,    SShC;
     oMb409nMH5    =    -1175515707;
-    BYmD4    =    -1912637566;
+    BYmD4    =    (unsigned short)-1912637566;
     IW6T    =    1192927962;
     EWogb04    =    1244973222;
     Ea1Z    =    895156233;
@@ -30,7 +30,7 @@ int main() {
     S095a5W    =    1216485651;
     m3yRS    =    -2139077715;
     DaTkKe    =    -495736792;
-    WZdsyn    =    -402046349;
+    WZdsyn    =    (unsigned short)-402046349;
     Kdkb3QeI    =    707573275;
     l1mz7    =    391738858;
     Sn5h    =    -215818463;
@@ -40,7 +40,7 @@ int main() {
     l5IFn    =    -1870966034;
     qS2GwD    =    2028793183;
     z6sX_i_Y    =    -222188095;
-    lR__    =    698891703;
+    lR__    =    (unsigned short)698891703;
     Sm52SBMw    =    -1806398053;
     h6R_s8bGGn    =    1822217883;
     gBYyO    =    -1777824423;
@@ -50,7 +50,7 @@ int main() {
     RlD0Bag    =    489739032;
     L_Px_V    =    207437613;
     C244O    =    -839834003;
-    PT2cu_    =    271876356;
+    PT2cu_    =    (unsigned short)271876356;
     Aj1T204pK    =    371565531;
     d7nj_In    =    2128717974;
     puPBVd__2    =    -800882239;
@@ -60,7 +60,7 @@ int main() {
     i1mOkga    =    -2084037491;
     zlxI    =    179360395;
     ySBtZix34v    =    256072241;
-    wJTIfuP__U    =    -2051210250;
+    wJTIfuP__U    =    (unsigned short)-2051210250;
     z1IZ_6    =    -247926433;
     TdA57    =    954979506;
     kAz5lfJtF    =    -2054413146;
@@ -70,7 +70,7 @@ int main() {
     pBWg9oP    =    -36545840;
     Z6UZe3Ao    =    526314042;
     P3_RRqy    =    -144704337;
-    yyU79_O4    =    425646824;
+    yyU79_O4    =    (unsigned short)425646824;
     jBAB09    =    -2092360113;
     vFT2Pd    =    1770416118;
     wu56O    =    2052636434;
@@ -80,7 +80,7 @@ int main() {
     ncD_Rm    =    2039708856;
     fb1Qbj68Zp    =    -1263586805;
     YxJB6i2    =    1389028043;
-    biL3    =    598527426;
+    biL3    =    (unsigned short)598527426;
     xjfl0T6JN    =    529181289;
     eM2P7oe8    =    1545653123;
     uHIlzX3_M    =    -1642676927;
@@ -112,7 +112,7 @@ else
 {
 for (int j = 0; j < 3; ++j)
 {
-std::cout << JOqv_0 << Z6UZe3Ao << Fr6KvD(-446654898, -927717079) << Fr6KvD(-1546787742, -1904182943) << std::endl;
+std::cout << JOqv_0 << Z6UZe3Ao << Fr6KvD(-446654898, -927717079) << Fr6KvD(-1546787742, (unsigned short)-1904182943) << std::endl;
 }
 }
 kAz5lfJtF = (unsigned short int)(lR__);
@@ -362,7 +362,7 @@ S095a5W = Fr6KvD(1468338162, VBswZ_A) - mQ5HPx_iE;
 }
 }
 i01qQ5iMyB = (YxJB6i2 < puPBVd__2) ? Fr6KvD(wu56O, -1023103684) : MK9_s72;
-std::cout << Fr6KvD(-24420858, 725449612) << L_Px_V << std::endl;
+std::cout << Fr6KvD(-24420858, (unsigned short)725449612) << L_Px_V << std::endl;
 try
 {
 std::cout << N82p1 << Aj1T204pK << z6sX_i_Y << Fr6KvD(-1472815369, 927874407) << zlxI << std::endl;
@@ -452,7 +452,7 @@ Vpd0g4mwl = Fr6KvD(Czejnp, 1075448655);
 }
 else if (ez0roH4 & z1IZ_6)
 {
-MK9_s72 = Fr6KvD(oMb409nMH5, -1063838466);
+MK9_s72 = Fr6KvD(oMb409nMH5, (unsigned short)-1063838466);
 }
 else if (l1mz7 == 2101294025)
 {
@@ -509,7 +509,7 @@ else if (L_Px_V != 889380021)
 {
 if ((pBWg9oP < -49540936) && (rbWi8zX9Wt > -1349882608))
 {
-MK9_s72 = Fr6KvD(-2035637160, -124479966);
+MK9_s72 = Fr6KvD(-2035637160, (unsigned short)-124479966);
 }
 else
 {

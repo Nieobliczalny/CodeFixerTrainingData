@@ -25,7 +25,7 @@ int main(void) {
 	short	cjRn1	=	-1835636835;
  unsigned long G6GbC = -341996010;
     unsigned long long    slCuNT    =    -343972996;
-  unsigned char  LK6I5A  =  -1783003839;
+  unsigned char  LK6I5A  =  (unsigned char)-1783003839;
  unsigned long ltg38p3r_ = 0;
 	double	lQE_9_2	=	-1301772290;
  double PYb5a9 = 1320801448;

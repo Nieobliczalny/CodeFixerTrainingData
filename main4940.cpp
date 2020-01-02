@@ -104,7 +104,7 @@ while (k < 3);
 
 if (Z0ExrAT5F == 0)
 {
-	EQ8AQrP = dXQH5U(980797993, 1908383481, e6S51, -1620464171) / Z0ExrAT5F;
+	EQ8AQrP = dXQH5U(980797993, 1908383481, e6S51, (short)-1620464171) / Z0ExrAT5F;
 }
 
 if (Yw2r12_M30 & e6S51)
@@ -145,7 +145,7 @@ EQ8AQrP = (int)abs(e6S51) + (-9813826);
 break;
 case 'e':
 case 'E':
-EQ8AQrP = J_652R84C(7003432);
+EQ8AQrP = J_652R84C((short)7003432);
 break;
 case 'f':
 case 'F':
@@ -157,7 +157,7 @@ EQ8AQrP = dXQH5U(Z0ExrAT5F, Yw2r12_M30, -1172547104, 265433356);
 break;
 case 'h':
 case 'H':
-e6S51 = o4UmKNg(-2113732275, 574045519, 1862863777, 876347705);
+e6S51 = o4UmKNg(-2113732275, (unsigned char)574045519, 1862863777, 876347705);
 break;
 case 'i':
 case 'I':
@@ -192,6 +192,6 @@ long long    N1W95h0g77(short    x99WG2Qs,unsigned long    KR1A4B68A)
 }
 
 unsigned short  J_652R84C(short int  Nr4FYFdW)  {
-  return  -663133200;
+  return  (unsigned short)-663133200;
 }
 

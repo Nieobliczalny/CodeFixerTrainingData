@@ -22,7 +22,7 @@ int main()
  unsigned short xB7Dd3bkp9 = 0, Sa_06uZ = 0;
   float  Bj7Qi0Te  =  173688239,  y68278EaW  =  -951231237,  N8JTFe2_W  =  1569670234,  ej7tX23Jl  =  624308413,  UjVRva  =  -1637362056,  A3lAjx1_  =  676158243,  mnrM4uW  =  1669450540,  EyuKD  =  1698779093,  scN9  =  -863404042;
 
-UjVRva = tqI46_(337452635, 1324646883);
+UjVRva = tqI46_(337452635, (short)1324646883);
 
 if (EyuKD > -1925126504)
 {

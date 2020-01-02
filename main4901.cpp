@@ -81,7 +81,7 @@ try
 {
 if ((t45x & -913531722) || ((z6mry) && (V26368aph <= -1360850244)))
 {
-X_P_zxeE9 = xr4zzi(-118457444, X_P_zxeE9, 247891747, 230507279, 1666822615);
+X_P_zxeE9 = xr4zzi(-118457444, X_P_zxeE9, 247891747, 230507279, (char)1666822615);
 }
 else
 {
@@ -119,7 +119,7 @@ while (i >= 0);
 
 std::cout << "G8gS68_j" << std::endl;
 V26368aph = -2142194657 / xr4zzi(-1113643360, 578493596, 222054847, 343589382, E8AlW);
-std::cout << t8XGixdye(kL2B, -460916916, b7oa, -357674027) << mJv7892I6 << "o_3_77nd51" << "U1OMn" << std::endl;
+std::cout << t8XGixdye(kL2B, -460916916, b7oa, (char)-357674027) << mJv7892I6 << "o_3_77nd51" << "U1OMn" << std::endl;
 if (vzUO39)
 {
 {
@@ -158,7 +158,7 @@ while (j < 4);
 }
 }
 
-std::cout << "pA8D" << b7oa << k3HiHCA1 << xr4zzi(-1119637987, E9u6, 1690544367, 1941674042, 1435781600) << U_XaeT7M << std::endl;
+std::cout << "pA8D" << b7oa << k3HiHCA1 << xr4zzi(-1119637987, E9u6, 1690544367, 1941674042, (char)1435781600) << U_XaeT7M << std::endl;
 
 if (eKBxG >= kL2B)
 {
@@ -185,7 +185,7 @@ else
 {
 for (int k = 2; k >= 0; --k)
 {
-Xl_v = xr4zzi(1150197004, q0udDOh, -2053728517, -61566163, -1859738958);
+Xl_v = xr4zzi(1150197004, q0udDOh, -2053728517, -61566163, (char)-1859738958);
 }
 }
 }
@@ -213,7 +213,7 @@ case 'a':
 vzUO39 = I6CQ04(-1132334100, kL2B, -1163676881);
 break;
 case 'b':
-mJv7892I6 = (aED_38P < -740550459) ? t8XGixdye(-12463718, kL2B, 162219137, -500857072) : Xl_v;
+mJv7892I6 = (aED_38P < -740550459) ? t8XGixdye(-12463718, kL2B, (unsigned short)162219137, -500857072) : Xl_v;
 break;
 case 'c':
 b7oa = t8XGixdye(b7oa, 1561690943, mJv7892I6, q0udDOh);
@@ -228,7 +228,7 @@ case 'f':
 Xl_v = (int)abs(E8AlW) * 0;
 break;
 case 'g':
-X_P_zxeE9 = xr4zzi(-2130346324, 2112812856, 301745490, -736836324, -812522196);
+X_P_zxeE9 = xr4zzi(-2130346324, 2112812856, 301745490, (unsigned char)-736836324, -812522196);
 break;
 case 'h':
 eKBxG -= q0udDOh;
@@ -246,7 +246,7 @@ break;
 }
 else if (kL2B == -907626926)
 {
-std::cout << t8XGixdye(b7oa, eCxZwPs, 982631732, -1957070157) << std::endl;
+std::cout << t8XGixdye(b7oa, eCxZwPs, 982631732, (char)-1957070157) << std::endl;
 }
 else if (tKU8PN <= 1933039893)
 {

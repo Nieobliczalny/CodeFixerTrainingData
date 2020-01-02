@@ -60,7 +60,7 @@ case 'A':
 LShqeqkiN3 = Wwd7oPnOL(LShqeqkiN3, Cr1820T);
 break;
 default:
-vkBPr7jz = b01J32m33(vkBPr7jz, LShqeqkiN3, 883421321, 354345307);
+vkBPr7jz = b01J32m33(vkBPr7jz, LShqeqkiN3, 883421321, (short)354345307);
 break;
 }
 {
@@ -74,7 +74,7 @@ case 0:
 xUIeb_y6WE++;
 break;
 case 1:
-rZCV5_n = dW6w(177514089, -872138487);
+rZCV5_n = dW6w(177514089, (unsigned short)-872138487);
 break;
 case 2:
 VzEigW = Wwd7oPnOL(922224396, 1097604545);
@@ -132,7 +132,7 @@ case 4:
 B5ie -= 250990166;
 break;
 case 5:
-xUIeb_y6WE = b01J32m33(xUIeb_y6WE, KyZ936I5u, 1580514779, -588392311);
+xUIeb_y6WE = b01J32m33(xUIeb_y6WE, KyZ936I5u, (unsigned char)1580514779, -588392311);
 break;
 default:
 g72C3K069_ = b01J32m33(g72C3K069_, 1425317854, sS621L6, b4Z8WM);
@@ -146,7 +146,7 @@ int k = 8;
 do
 {
 --k;
-rZCV5_n = dW6w(1576328029, 720657130);
+rZCV5_n = dW6w(1576328029, (unsigned short)720657130);
 }
 while (k >= 0);
 }
@@ -204,7 +204,7 @@ case 6:
 e959BKAu = VP1P(654253135, -1650413662, -1547967308, -891971145);
 break;
 case 7:
-rZCV5_n = dW6w(-930684885, -518887240);
+rZCV5_n = dW6w((short)-930684885, -518887240);
 break;
 }
 }
@@ -220,7 +220,7 @@ LShqeqkiN3 <<= N880;
 }
 else if (VzEigW)
 {
-g72C3K069_ = (N880 >= 1539922764) ? TKiima : dW6w(-397405817, -1782260005);
+g72C3K069_ = (N880 >= 1539922764) ? TKiima : dW6w(-397405817, (unsigned short)-1782260005);
 }
 else if (WLcdPS4Y <= -1957738990)
 {
@@ -236,7 +236,7 @@ wH70d2g50 = Wwd7oPnOL(wH70d2g50, 1386883267);
 }
 else
 {
-rZCV5_n = dW6w(cbf5lS7, 1280261350);
+rZCV5_n = dW6w(cbf5lS7, (unsigned short)1280261350);
 }
 }
 else if (NzY6LLL7 != -811500546)
@@ -420,7 +420,7 @@ do
 j++;
 if ((bha391s & 823206773) || (fM46Tj > h5N1lded2))
 {
-B5ie = b01J32m33(-21195899, -124969380, 1564416357, 1691515708) >> VzEigW;
+B5ie = b01J32m33(-21195899, -124969380, (unsigned char)1564416357, 1691515708) >> VzEigW;
 }
 else
 {
@@ -482,7 +482,7 @@ w0uhu7 &= cbf5lS7;
 break;
 case 'd':
 case 'D':
-bha391s = b01J32m33(KyZ936I5u, 529365563, 797067050, msZA93QbI) | 2067432725;
+bha391s = b01J32m33(KyZ936I5u, 529365563, (unsigned char)797067050, msZA93QbI) | 2067432725;
 break;
 }
 }
@@ -613,7 +613,7 @@ else if (cbf5lS7 == h5N1lded2)
 int k = 4;
 while (k >= 0)
 {
-vkBPr7jz = b01J32m33(1317073419, -1771795999, -824202676, xUIeb_y6WE);
+vkBPr7jz = b01J32m33(1317073419, -1771795999, (unsigned char)-824202676, xUIeb_y6WE);
 --k;
 }
 }

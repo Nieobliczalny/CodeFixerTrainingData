@@ -245,7 +245,7 @@ YK489HbAP8 = BYwI(-346594727);
 }
 else
 {
-qh1n7_5v = BYwI(-1135023116);
+qh1n7_5v = BYwI((short)-1135023116);
 }
 }
 else
@@ -390,7 +390,7 @@ case 'f':
 S83Mrq >>= VdNPYDdvN8;
 break;
 case 'g':
-S1z3nM_ = BYwI(1107575269);
+S1z3nM_ = BYwI((short)1107575269);
 break;
 case 'h':
 M25qvSy6_9 = BYwI(M25qvSy6_9);
@@ -447,7 +447,7 @@ return 0;
 }
 
 unsigned short int  yqj3l72HBZ(int  GJwza)  {
-  return  -41044268;
+  return  (unsigned short)-41044268;
 }
 
 short int    mdex1(long long    SU8qP)

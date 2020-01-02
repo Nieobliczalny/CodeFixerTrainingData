@@ -203,7 +203,7 @@ else if (BG_N == -499759974)
 {
 if (M6T74KUQ04)
 {
-iya0 = b8_qU(-295985406);
+iya0 = b8_qU((unsigned short)-295985406);
 }
 }
 else if (c0BmM1j_zi == a0_p)
@@ -483,7 +483,7 @@ unsigned short	Sr48g()	{
 
 char	b8_qU(unsigned short int	p_u9A4SVH)
 {
-	return	-1447982516;
+	return	(char)-1447982516;
 }
 
 unsigned int    X_B8XvzeUM(unsigned short int    wDI5g_lM0r)    {

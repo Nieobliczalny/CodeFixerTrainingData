@@ -94,7 +94,7 @@ cI_jit = R_Ehx(PusoBG);
 int i = 0;
 do
 {
-cout << R_Ehx(PusoBG) << R_Ehx(1227122789) << R_Ehx(2023008771) << "QF_BUqgx" << endl;
+cout << R_Ehx(PusoBG) << R_Ehx(1227122789) << R_Ehx((short)2023008771) << "QF_BUqgx" << endl;
 i++;
 }
 while (i < 2);
@@ -151,7 +151,7 @@ case 'e':
 bz6OR2Bcb3 = oSzLZ17hMj | PusoBG;
 break;
 case 'f':
-cI_jit = R_Ehx(-780657627);
+cI_jit = R_Ehx((short)-780657627);
 break;
 case 'g':
 bz6OR2Bcb3 = tfJ0P6p - 900455535;

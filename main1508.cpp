@@ -39,7 +39,7 @@ int main() {
   long long  F2U3  =  -1927884162;
  long double RFhof9_ = -1861677746;
  unsigned int jIUgF43lCk = 1172490642;
- short ials15 = -623461625;
+ short ials15 = (short)-623461625;
     unsigned long long    YhURYg6    =    -757626049;
  int rkT9D2FDq = 1876052997;
 	unsigned int	my3pG	=	-1001932137;
@@ -49,7 +49,7 @@ int main() {
   unsigned short int  U683  =  0;
     double    v235    =    70852363;
  short int Ma3rr51MeE = 1258706317;
-  unsigned char  fm28VO416  =  -1522526455;
+  unsigned char  fm28VO416  =  (unsigned char)-1522526455;
     double    BGQ7h166    =    -965983574;
     int    HTI7O67pP    =    1935747059;
 	short	J0ZzP	=	-1913325640;
@@ -89,7 +89,7 @@ int j = 0;
 while (j < 9)
 {
 j++;
-HTI7O67pP = abz_(3339328, rkT9D2FDq, -1615962024, v235, -1257055892);
+HTI7O67pP = abz_(3339328, rkT9D2FDq, (unsigned short)-1615962024, v235, -1257055892);
 }
 }
 }
@@ -122,7 +122,7 @@ Ma3rr51MeE = YhURYg6 | p4Um;
 }
 else if (ials15 < my3pG)
 {
-std::cout << LfvQHfq(1695802630, Ma3rr51MeE, 2063934640, -895663819) << LfvQHfq(U683, -147112834, rkT9D2FDq, -1156838315) << "G_5Wh" << w5o33HsM(U683) << std::endl;
+std::cout << LfvQHfq(1695802630, Ma3rr51MeE, 2063934640, (unsigned short)-895663819) << LfvQHfq(U683, -147112834, rkT9D2FDq, -1156838315) << "G_5Wh" << w5o33HsM(U683) << std::endl;
 }
 else
 {
@@ -457,7 +457,7 @@ else
 {
 if ((fX5L >= kMU0Dm_b9) && (fm28VO416 > 854678112))
 {
-HTI7O67pP = j1lTdpj6(610140902, -243978936);
+HTI7O67pP = j1lTdpj6(610140902, (short)-243978936);
 }
 else
 {
@@ -472,7 +472,7 @@ int j = 5;
 do
 {
 j--;
-std::cout << "va96iT0W" << LfvQHfq(-1517553000, K8P2M, v235, 967154117) << j1lTdpj6(1390468081, -2072371467) << std::endl;
+std::cout << "va96iT0W" << LfvQHfq(-1517553000, K8P2M, v235, (unsigned short)967154117) << j1lTdpj6(1390468081, -2072371467) << std::endl;
 }
 while (j >= 0);
 }

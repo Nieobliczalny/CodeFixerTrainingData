@@ -27,7 +27,7 @@ int main(int argc, char** argv)
  unsigned char mL58M7a_X7 = 1570881378;
 	unsigned long long	ERixFi4ODy	=	0;
 	float	f3l_uv	=	1156567236;
-    char    WrsCgTT8W5    =    -316850628;
+    char    WrsCgTT8W5    =    (char)-316850628;
   short int  V7pZ  =  0;
  unsigned short int hY_hdJvyA = 491230407;
  char LtaOCRT1 = 0;
@@ -42,7 +42,7 @@ int main(int argc, char** argv)
 	long double	h5RP3B___p	=	-495394536;
     int    q64P0hM6cE    =    0;
  long Bu9jD = -718890972;
- char H1wc9 = -1391759158;
+ char H1wc9 = (char)-1391759158;
     int    g0hn27    =    2120448431;
 
 {
@@ -82,7 +82,7 @@ case 1:
 h5RP3B___p = (int)abs(t9EBbQQnt);
 break;
 case 2:
-WrsCgTT8W5 = R1EQ(-741024390, -839867864, 1896325737, mL58M7a_X7);
+WrsCgTT8W5 = R1EQ(-741024390, -839867864, (short)1896325737, mL58M7a_X7);
 break;
 case 3:
 mL58M7a_X7 = mMB5t9();
@@ -118,7 +118,7 @@ m_EUA ^= t9EBbQQnt;
 t9EBbQQnt = (int)abs(hy106p83);
 f7pv19_ = (unsigned int)(q64P0hM6cE);
 
-cout << R1EQ(f3l_uv, 708077269, -2019573759, 428666106) << wX7H9P1n5r(2036241580, -954268894, -136929321, H1wc9, -552433725) << Y2ETGBd(-2036505714, m_EUA, -1695541707, H1wc9) << "LcU45_s8__" << endl;
+cout << R1EQ(f3l_uv, 708077269, -2019573759, 428666106) << wX7H9P1n5r((unsigned short)2036241580, -954268894, -136929321, H1wc9, -552433725) << Y2ETGBd(-2036505714, m_EUA, -1695541707, H1wc9) << "LcU45_s8__" << endl;
 switch (mL58M7a_X7)
 {
 case 'a':
@@ -311,7 +311,7 @@ unsigned long long    Y2ETGBd(unsigned long long    DXu98ruk,unsigned short int 
 }
 
 short int  R1EQ(char  uvnv,long long  QpoN,short int  sQulC,long  Rc__d)  {
-  return  -967545526;
+  return  (short)-967545526;
 }
 
 unsigned short int    mMB5t9()    {

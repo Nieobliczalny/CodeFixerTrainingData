@@ -57,7 +57,7 @@ int main(int argc, char** argv)
   unsigned short  x_5Y1A9m;
   x_5Y1A9m  =  -168818346;
  short int U6Wy8WD337;
- U6Wy8WD337 = 1236712789;
+ U6Wy8WD337 = (short)1236712789;
   float  b3bb;
   b3bb  =  -1818400483;
     long    k3J8zh3rSb;
@@ -79,7 +79,7 @@ int main(int argc, char** argv)
  double eHvoC283x1;
  eHvoC283x1 = -760811993;
   unsigned short  MKlN_0_AG5;
-  MKlN_0_AG5  =  -486142632;
+  MKlN_0_AG5  =  (unsigned short)-486142632;
     long double    t62IR;
     t62IR    =    1606357626;
 	long long	Vaqmpjq;
@@ -99,7 +99,7 @@ int main(int argc, char** argv)
     unsigned long    vxd05iEbS;
     vxd05iEbS    =    -2081257413;
  unsigned short int lkC205Vn8;
- lkC205Vn8 = 1206069094;
+ lkC205Vn8 = (unsigned short)1206069094;
  double Giw9R;
  Giw9R = -1691185143;
 	unsigned long long	QgFw55;
@@ -111,7 +111,7 @@ int main(int argc, char** argv)
 	float	r8v2;
 	r8v2	=	1091682617;
   short  k1Gc2q;
-  k1Gc2q  =  -1588256004;
+  k1Gc2q  =  (short)-1588256004;
 	short int	q__ia5C6q;
 	q__ia5C6q	=	-911903923;
 	long	sU_t4B8;
@@ -125,7 +125,7 @@ int main(int argc, char** argv)
  float icpIiM;
  icpIiM = -899750545;
  unsigned short int mTJI;
- mTJI = -1619701816;
+ mTJI = (unsigned short)-1619701816;
   unsigned long  Pgb14_9I;
   Pgb14_9I  =  0;
 
@@ -165,7 +165,7 @@ if ((Pgb14_9I <= x0DCo0442) && ((xIlSL & lC6chNx) && (s12a_pbQd <= n9q_6nqN3l)))
 {
 if (z1j_7X2r >= AwU0)
 {
-Vaqmpjq = m4ry_kW7c(2061591889, -1818779265);
+Vaqmpjq = m4ry_kW7c(2061591889, (unsigned short)-1818779265);
 }
 else if (mTJI == -1858323109)
 {
@@ -258,7 +258,7 @@ case 0:
 icpIiM = (int)ceil(r8v2);
 break;
 case 1:
-EaTb_pOw91 = m4ry_kW7c(-1566746965, -468064835);
+EaTb_pOw91 = m4ry_kW7c((short)-1566746965, -468064835);
 break;
 case 2:
 WVq_ = (int)ceil(Giw9R);
@@ -302,7 +302,7 @@ while (i < 10);
 xhQjkvpkLB = rR0_(1518970094, 2026879139, EaTb_pOw91) / EaTb_pOw91;
 fl9Np90 = (qx2P4h >= AwU0) ? rR0_(M0938, zyrDes7, 1722528753) : m4ry_kW7c(M0938, 1328629112);
 
-std::cout << m4ry_kW7c(-611740512, zyrDes7) << m4ry_kW7c(M0938, zyrDes7) << qZ4w << m4ry_kW7c(1104056296, 1865975891) << "WKrD2FD" << std::endl;
+std::cout << m4ry_kW7c((short)-611740512, zyrDes7) << m4ry_kW7c(M0938, zyrDes7) << qZ4w << m4ry_kW7c(1104056296, 1865975891) << "WKrD2FD" << std::endl;
 
 return 0;
 }

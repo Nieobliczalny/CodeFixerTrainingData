@@ -130,7 +130,7 @@ short int    z2lAvW()
 }
 
 char  C36V__(int  YT1290,short  lL840ZL)  {
-  return  255244884;
+  return  (char)255244884;
 }
 
 long long  Eo_Aibb()

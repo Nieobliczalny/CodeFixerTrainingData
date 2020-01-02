@@ -207,7 +207,7 @@ TOP5y = AsK4(oUfk9E, -1336856995, 1381786143);
 break;
 case 'd':
 case 'D':
-TOP5y = AsK4(IF0x, -519003860, 363441630);
+TOP5y = AsK4(IF0x, -519003860, (unsigned char)363441630);
 break;
 case 'e':
 case 'E':

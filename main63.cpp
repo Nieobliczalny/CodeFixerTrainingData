@@ -39,7 +39,7 @@ int main(void)
  short C7j1a9 = -662780953;
  unsigned long long haqs3 = 0;
   long long  TJkmW4mrt  =  1107846753;
-	short int	xGCwd8	=	-346386732;
+	short int	xGCwd8	=	(short)-346386732;
   unsigned int  o04lofREc  =  -2008917054;
  long lCjH7Ap7Lk = 437533853;
 	float	x573UN	=	-391238308;
@@ -49,7 +49,7 @@ int main(void)
     unsigned long long    V5As13P2    =    1699641142;
 	unsigned short	npK4h6r71	=	-1931330706;
  double Ijw2YY = -235956233;
-  unsigned short  KkKZp54  =  -169043641;
+  unsigned short  KkKZp54  =  (unsigned short)-169043641;
   float  vVl7lDQ_1  =  1710259522;
   short int  jqGZ3Mw9  =  -1761528553;
  unsigned char a7s008yo = 1131413822;
@@ -70,7 +70,7 @@ int main(void)
 
 vVl7lDQ_1 = (float)(D6sT7sA);
 
-haqs3 = ILpD7iB9z(xGCwd8, 317311691, npK4h6r71, Yta7rU, haqs3);
+haqs3 = ILpD7iB9z(xGCwd8, (short)317311691, npK4h6r71, Yta7rU, haqs3);
 
 if (MQ3xz == v331_h3)
 {
@@ -200,7 +200,7 @@ else if (v331_h3 >= -1529777178)
 int j = 8;
 do
 {
-rQoI = DjD49l(203465242, 1617863020, quR8QEh5Db, -293719767);
+rQoI = DjD49l(203465242, 1617863020, quR8QEh5Db, (short)-293719767);
 --j;
 }
 while (j >= 0);

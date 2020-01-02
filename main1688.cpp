@@ -382,7 +382,7 @@ else
 int k = 6;
 do
 {
-DD5I675 = Sn41(1724381663);
+DD5I675 = Sn41((unsigned short)1724381663);
 k--;
 }
 while (k >= 0);
@@ -447,7 +447,7 @@ cout << "j9R5c1" << U5eSos02XE(1809814109) << WW5ASX1 << endl;
 
 N0Gi778d -= 349196950;
 
-IzX4034l6 = Iw7GP2(-1775034383);
+IzX4034l6 = Iw7GP2((char)-1775034383);
 cout << "i_8J" << "Pn3CvM0" << "u5U8T" << p0M01F_Bs << "cPr5BuJn0" << endl;
 switch (IzX4034l6)
 {
@@ -513,7 +513,7 @@ Eesz = (int)abs(STI_A);
 }
 else
 {
-i1MGo = Sn41(-1569611726);
+i1MGo = Sn41((unsigned short)-1569611726);
 }
 }
 else

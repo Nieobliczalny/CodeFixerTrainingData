@@ -64,7 +64,7 @@ case 'd':
 S1M4yD1QI = G2wjFL88(618884380, -1291253777);
 break;
 case 'e':
-qPKM5 = iwQr16j(Oq_0, f4_H11Kfp, -1366057323, f_5HDXq7, 871043684);
+qPKM5 = iwQr16j(Oq_0, f4_H11Kfp, (unsigned char)-1366057323, f_5HDXq7, 871043684);
 break;
 case 'f':
 TC32PC8u_ = (int)abs(f_5HDXq7);
@@ -110,7 +110,7 @@ break;
 }
 if (Y_C_x2OrQW >= 869837491)
 {
-qPKM5 = iwQr16j(754899326, TC32PC8u_, 1038581522, b90HT, bb0rjtGi);
+qPKM5 = iwQr16j(754899326, TC32PC8u_, (unsigned char)1038581522, b90HT, bb0rjtGi);
 }
 for (int i = 1; i >= 0; i--)
 {
@@ -203,7 +203,7 @@ switch (qPKM5)
 {
 case 'a':
 case 'A':
-Bgi7 = x53wULsu(-953153102, -1208521137, -643397938, 1909441810, S1M4yD1QI);
+Bgi7 = x53wULsu(-953153102, (char)-1208521137, -643397938, 1909441810, S1M4yD1QI);
 break;
 case 'b':
 case 'B':
@@ -291,7 +291,7 @@ case 1:
 Y_C_x2OrQW = gNS59(1412003802);
 break;
 case 2:
-Oq_0 = x53wULsu(Oq_0, -1463897693, S1M4yD1QI, -855664434, 364353890);
+Oq_0 = x53wULsu(Oq_0, (char)-1463897693, S1M4yD1QI, -855664434, 364353890);
 break;
 case 3:
 v_I7q1_R = (int)floor(bb0rjtGi);
@@ -361,7 +361,7 @@ break;
 }
 try
 {
-std::cout << Y_C_x2OrQW << "t2g190f" << x53wULsu(qPKM5, 983247681, TC32PC8u_, Oq_0, f4_H11Kfp) << G2wjFL88(1164577739, f_5HDXq7) << ez_B_W668p(qPKM5) << std::endl;
+std::cout << Y_C_x2OrQW << "t2g190f" << x53wULsu(qPKM5, 983247681, TC32PC8u_, Oq_0, f4_H11Kfp) << G2wjFL88((short)1164577739, f_5HDXq7) << ez_B_W668p(qPKM5) << std::endl;
 }
 catch (int& errorCode)
 {
@@ -386,7 +386,7 @@ case 3:
 Eups = (int)floor(Y_C_x2OrQW);
 break;
 case 4:
-qPKM5 = iwQr16j(-1302604154, 1736724493, Y_C_x2OrQW, -1481155582, 1867945581);
+qPKM5 = iwQr16j(-1302604154, (unsigned short)1736724493, Y_C_x2OrQW, -1481155582, 1867945581);
 break;
 case 5:
 Oq_0 = (f4_H11Kfp) ? bb0rjtGi : -574912490;
@@ -417,7 +417,7 @@ int  x53wULsu(unsigned long  KVs3gbB,char  uzS_,long  L937HpH,long long  J0_IBqH
 }
 
 short    gNS59(short int    J_6283Ob0)    {
-    return    -372124802;
+    return    (short)-372124802;
 }
 
 unsigned long  ez_B_W668p(unsigned long  ykiZ)  {

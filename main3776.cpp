@@ -39,7 +39,7 @@ int main() {
 	unsigned short int	Ions_8cc4k;
 	Ions_8cc4k	=	-641071727;
   unsigned char  H3ifNt61WT;
-  H3ifNt61WT  =  1710552398;
+  H3ifNt61WT  =  (unsigned char)1710552398;
   short  c6JlarBZ;
   c6JlarBZ  =  -846542015;
   long double  v62VK7;
@@ -51,7 +51,7 @@ int main() {
  long S_1zfOoyM;
  S_1zfOoyM = -1050026924;
   short int  muZ0xRFdZ2;
-  muZ0xRFdZ2  =  -767482671;
+  muZ0xRFdZ2  =  (short)-767482671;
  char yB3Qf;
  yB3Qf = 315816995;
   unsigned short  UUoqbxO_;
@@ -61,7 +61,7 @@ int main() {
     unsigned char    J9864gM;
     J9864gM    =    -506694433;
   short int  m19uX9w;
-  m19uX9w  =  1975588495;
+  m19uX9w  =  (short)1975588495;
     long    hb_kZ2;
     hb_kZ2    =    -13941196;
  short MU6o158Ng;
@@ -75,7 +75,7 @@ int main() {
 	unsigned int	jJISstQ4O_;
 	jJISstQ4O_	=	-1566629726;
   unsigned short  IEK1WHhheK;
-  IEK1WHhheK  =  -1193957696;
+  IEK1WHhheK  =  (unsigned short)-1193957696;
  unsigned char G0TC90;
  G0TC90 = 366508134;
  long Lo71;
@@ -85,7 +85,7 @@ int main() {
   long  qnUH96;
   qnUH96  =  1507632644;
     short    Mf1_;
-    Mf1_    =    1744951107;
+    Mf1_    =    (short)1744951107;
     unsigned long long    RP_ZY;
     RP_ZY    =    -2120693531;
  int p3Z6kg;
@@ -101,7 +101,7 @@ int main() {
     long long    dH9kEhn;
     dH9kEhn    =    -627009590;
  unsigned short int a997v_T9;
- a997v_T9 = 1722529015;
+ a997v_T9 = (unsigned short)1722529015;
   unsigned int  N1omf595V;
   N1omf595V  =  899399723;
   double  btx6yq;
@@ -115,7 +115,7 @@ int main() {
   float  E27Gwt;
   E27Gwt  =  190972522;
  unsigned short int I7bp_aC;
- I7bp_aC = 520244451;
+ I7bp_aC = (unsigned short)520244451;
   long  U_6E5Av;
   U_6E5Av  =  -2077088179;
   unsigned char  aT7_9oT;
@@ -127,7 +127,7 @@ int main() {
   unsigned int  zUD363iJi;
   zUD363iJi  =  -993493811;
 	char	xypm8kX12y;
-	xypm8kX12y	=	-1621132391;
+	xypm8kX12y	=	(char)-1621132391;
   unsigned short  r8r68Mjjd9;
   r8r68Mjjd9  =  -578031294;
 	long	bTsMt7Gw;
@@ -139,7 +139,7 @@ int main() {
  long long zZYDIE1vh;
  zZYDIE1vh = -1072993863;
  char Kme1j03apJ;
- Kme1j03apJ = -952800522;
+ Kme1j03apJ = (char)-952800522;
 	unsigned short int	Z9AA;
 	Z9AA	=	1809582969;
  char S4Wkn;

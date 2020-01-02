@@ -20,7 +20,7 @@ unsigned char	UC4__(unsigned long	G5fk0_S8,unsigned int	k99Kt4uNzT,unsigned int	
 
 short int    qHXBD(unsigned long    Oly2,unsigned int    qG_an553N)
 {
-    return    1110142528;
+    return    (short)1110142528;
 }
 
 long  N2_Pu159(unsigned short  DnVDi,long  kb5Z,unsigned long  r278m6f,long long  ntH2by2,unsigned short int  Gk8FF3N0h)  {
@@ -55,7 +55,7 @@ Q2Ql4X = N2_Pu159(Q2Ql4X, -1019718623, -2086759847, 1209778723, Gp8w_z5Z);
 break;
 case 'c':
 case 'C':
-A459NIitF = pj8mSpV5z(-1713507472, 196578288);
+A459NIitF = pj8mSpV5z(-1713507472, (char)196578288);
 break;
 case 'd':
 case 'D':
@@ -188,7 +188,7 @@ switch (M9eK)
 {
 case 'a':
 case 'A':
-DCo80y0AQX = pj8mSpV5z(1527107849, MuUn);
+DCo80y0AQX = pj8mSpV5z((short)1527107849, MuUn);
 break;
 case 'b':
 case 'B':

@@ -23,7 +23,7 @@ int main(void)
   int  vT2T49lR;
   vT2T49lR  =  0;
  char CbAslXm;
- CbAslXm = 1027212107;
+ CbAslXm = (char)1027212107;
  float RcOjGF6;
  RcOjGF6 = -1302641087;
   double  EMi4Zlb__;
@@ -37,7 +37,7 @@ int main(void)
     unsigned long    Nc33m4eKD;
     Nc33m4eKD    =    134567968;
     unsigned char    VD2zS;
-    VD2zS    =    -986087502;
+    VD2zS    =    (unsigned char)-986087502;
 	char	m1ry;
 	m1ry	=	-1462896264;
   int  J3Cz8x;
@@ -49,7 +49,7 @@ int main(void)
 	short	TCG7y__;
 	TCG7y__	=	1931292728;
  short ZYT_1W;
- ZYT_1W = 1923368532;
+ ZYT_1W = (short)1923368532;
   short  DH4uCw;
   DH4uCw  =  422796797;
     long long    M5LA8z;
@@ -61,7 +61,7 @@ int main(void)
 	long double	c8cxTQw;
 	c8cxTQw	=	168435158;
 	short int	fZBC1nC;
-	fZBC1nC	=	1996916459;
+	fZBC1nC	=	(short)1996916459;
   double  qcH1a7WBq;
   qcH1a7WBq  =  -517802843;
 	unsigned short	UJkqU1hu9;
@@ -89,7 +89,7 @@ int main(void)
     float    TrW1wS;
     TrW1wS    =    1541979950;
   unsigned char  E_32v_;
-  E_32v_  =  -2086325655;
+  E_32v_  =  (unsigned char)-2086325655;
     int    iN8hcaEe8k;
     iN8hcaEe8k    =    1749066119;
   int  o94X;
@@ -103,7 +103,7 @@ int main(void)
  unsigned int YBx0BP012;
  YBx0BP012 = 1486115088;
  unsigned short U9O61N;
- U9O61N = 126632219;
+ U9O61N = (unsigned short)126632219;
   short int  tZh3ZPP8;
   tZh3ZPP8  =  774644126;
 	long double	NCZ1MVCA__;
@@ -117,7 +117,7 @@ int main(void)
 	char	CS2ZaSEm9;
 	CS2ZaSEm9	=	95985787;
   char  Q9rMbn2;
-  Q9rMbn2  =  -753844331;
+  Q9rMbn2  =  (char)-753844331;
 	double	Z9BQAI;
 	Z9BQAI	=	1942631038;
 	double	KYeSuX;
@@ -131,7 +131,7 @@ int main(void)
  short int cyy88uVq;
  cyy88uVq = -1720648100;
     short int    u3Ing;
-    u3Ing    =    1665819660;
+    u3Ing    =    (short)1665819660;
     double    Ba1V_;
     Ba1V_    =    1890953944;
 	long double	ZWeyA630k9;
@@ -147,7 +147,7 @@ int main(void)
     float    m62ON31_;
     m62ON31_    =    -1630240135;
   short int  i1bOe359;
-  i1bOe359  =  -2033139329;
+  i1bOe359  =  (short)-2033139329;
   unsigned short  nA0jhjgr__;
   nA0jhjgr__  =  706314692;
   char  ANzBFIUG;
@@ -170,7 +170,7 @@ itB3kQ09tR = i1bOe359 & Nc33m4eKD;
 break;
 }
 
-std::cout << uVTrBs76(CbAslXm, KYeSuX) << H8i_l(CbAslXm, 733795837, -121713418, SZA1R46Bz, fmLK5R_56F) << H8i_l(CbAslXm, KYeSuX, 1183798024, SZA1R46Bz, fmLK5R_56F) << std::endl;
+std::cout << uVTrBs76(CbAslXm, KYeSuX) << H8i_l(CbAslXm, 733795837, (unsigned short)-121713418, SZA1R46Bz, fmLK5R_56F) << H8i_l(CbAslXm, KYeSuX, 1183798024, SZA1R46Bz, fmLK5R_56F) << std::endl;
 
 if (copU63fXdh == 636142927)
 {
@@ -371,7 +371,7 @@ case 'd':
 vT2T49lR = uVTrBs76(SvL34W_VXY, 686588977);
 break;
 case 'e':
-QR_97ho_uP = H8i_l(1256993438, o94X, OTZOfN, 562068544, -1869007205);
+QR_97ho_uP = H8i_l(1256993438, o94X, OTZOfN, 562068544, (unsigned char)-1869007205);
 break;
 case 'f':
 J3Cz8x %= M5LA8z;
@@ -441,7 +441,7 @@ else
 {
 if (Bd0X4Ft_5 <= -1829537414)
 {
-std::cout << PMV2h() << H8i_l(-1400447261, TCG7y__, -927142359, 2017057169, 565494299) << "MARn7Z" << "ehETI0NZ4" << "tIN_W" << std::endl;
+std::cout << PMV2h() << H8i_l(-1400447261, TCG7y__, -927142359, (unsigned char)2017057169, 565494299) << "MARn7Z" << "ehETI0NZ4" << "tIN_W" << std::endl;
 }
 else
 {
@@ -629,7 +629,7 @@ Bk6bKq = PMV2h();
 break;
 case 'h':
 case 'H':
-N_3953Pf = H8i_l(686329864, -1182769434, 1016761062, qcH1a7WBq, Bd0X4Ft_5);
+N_3953Pf = H8i_l(686329864, -1182769434, (unsigned short)1016761062, qcH1a7WBq, Bd0X4Ft_5);
 break;
 case 'i':
 case 'I':
@@ -657,7 +657,7 @@ case 2:
 vT2T49lR = uVTrBs76(vT2T49lR, 921686658);
 break;
 case 3:
-CS2ZaSEm9 = H8i_l(CS2ZaSEm9, 2052202106, -1141719232, 1366479134, tZh3ZPP8);
+CS2ZaSEm9 = H8i_l(CS2ZaSEm9, 2052202106, (unsigned short)-1141719232, 1366479134, tZh3ZPP8);
 break;
 case 4:
 Nc33m4eKD = H8i_l(Nc33m4eKD, jmcfn_Fy59, ANzBFIUG, SvL34W_VXY, 810508806);
@@ -769,7 +769,7 @@ while (j >= 0)
 --j;
 try
 {
-Ba1V_ = H8i_l(Ba1V_, -102917703, N_3953Pf, 1412543587, qcH1a7WBq);
+Ba1V_ = H8i_l(Ba1V_, -102917703, N_3953Pf, (unsigned char)1412543587, qcH1a7WBq);
 }
 catch (int& errorCode)
 {

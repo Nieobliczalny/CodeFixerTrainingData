@@ -23,7 +23,7 @@ unsigned char b0CyE25He0()
 }
 
 unsigned char    BWocF(unsigned char    nxh0LH,short    E7a0,short int    uwEQRa3C3A)    {
-    return    -62657543;
+    return    (unsigned char)-62657543;
 }
 
 unsigned long LKnt()
@@ -36,7 +36,7 @@ int main(int argc, char** argv)
 	short int	j605;
 	j605	=	-255251929;
   unsigned short  e42IW_;
-  e42IW_  =  -646325123;
+  e42IW_  =  (unsigned short)-646325123;
  float C2lkA8_6q;
  C2lkA8_6q = 996528194;
 	int	zL786f;
@@ -48,7 +48,7 @@ int main(int argc, char** argv)
     long long    b6854;
     b6854    =    -851296975;
     short    uADTW16N;
-    uADTW16N    =    -784463159;
+    uADTW16N    =    (short)-784463159;
 	short	T36M;
 	T36M	=	-1902974859;
   long double  Q04u0ZWsom;
@@ -58,7 +58,7 @@ int main(int argc, char** argv)
 	unsigned char	Wr44Pb1;
 	Wr44Pb1	=	892279044;
  unsigned short int R1M5I9zln0;
- R1M5I9zln0 = -1535157481;
+ R1M5I9zln0 = (unsigned short)-1535157481;
   unsigned long long  w2G00vJs7O;
   w2G00vJs7O  =  0;
     short    k92k6PCZz;
@@ -68,7 +68,7 @@ int main(int argc, char** argv)
  unsigned char grJYKh6_7Y;
  grJYKh6_7Y = -2021263481;
  char L51ygJ;
- L51ygJ = 325394228;
+ L51ygJ = (char)325394228;
  long t_6Vu_;
  t_6Vu_ = -759978085;
     long    V58Z;
@@ -179,7 +179,7 @@ case 'a':
 t_6Vu_ = (Wr44Pb1 & -1793557274) ? WEjolX : c4V2wtF;
 break;
 case 'b':
-e42IW_ = BWocF(-1850481225, -1451306640, 2063478887);
+e42IW_ = BWocF(-1850481225, (short)-1451306640, 2063478887);
 break;
 case 'c':
 w2G00vJs7O = LKnt();

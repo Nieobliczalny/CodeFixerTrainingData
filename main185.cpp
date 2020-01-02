@@ -111,7 +111,7 @@ p0GbiOeQNR = NvcxY();
 }
 }
 
-PYlU_ = okY_i75e0(qGK59G10, -1305587128, 2124588183, J7f3k7);
+PYlU_ = okY_i75e0(qGK59G10, -1305587128, (unsigned short)2124588183, J7f3k7);
 
 mYb8d = (unsigned long)(t_An7);
 
@@ -284,7 +284,7 @@ while (i >= 0);
 switch (p0GbiOeQNR)
 {
 case 0:
-PYlU_ = okY_i75e0(H0TLp2lWW, -1382884309, 550254517, -1529195697);
+PYlU_ = okY_i75e0(H0TLp2lWW, -1382884309, (unsigned short)550254517, -1529195697);
 break;
 case 1:
 vgIfW3Vg = (int)abs(PYlU_);

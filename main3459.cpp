@@ -17,7 +17,7 @@ unsigned short int    DeK1()
 }
 
 char  jPC2(unsigned int  iX7J5T3Se,short int  s0MBTnaA,unsigned short int  RR1Gk20Xo,char  VVJMk04Tmm,int  EAHm30)  {
-  return  1821538762;
+  return  (char)1821538762;
 }
 
 unsigned char qyhyi(long long YCo5reD) {
@@ -118,7 +118,7 @@ RCW_Hf_6ZS = qyhyi(RCW_Hf_6ZS);
 break;
 case 'j':
 case 'J':
-CVX8O27UW = Or4m2Lz(423414516, ptV7s, 327475936);
+CVX8O27UW = Or4m2Lz(423414516, ptV7s, (short)327475936);
 break;
 }
 }
@@ -163,7 +163,7 @@ case 6:
 tF_62n7271 = WBWHc1 * vyvj21;
 break;
 case 7:
-W_cZ5 = jPC2(yj52W3T9, 1030649625, -277481109, n40s74c7nS, ch283) % 97331753;
+W_cZ5 = jPC2(yj52W3T9, 1030649625, (unsigned short)-277481109, n40s74c7nS, ch283) % 97331753;
 break;
 case 8:
 RCW_Hf_6ZS = GS88el8 ^ 1890948208;

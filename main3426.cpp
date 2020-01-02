@@ -16,7 +16,7 @@ int main() {
     float    RXHr4ac1g    =    -249821329;
   short int  JP52v1KZ6E  =  -1960042079;
   long  l2f3Kth24  =  0;
-  unsigned short  IE725Zcvob  =  308753989;
+  unsigned short  IE725Zcvob  =  (unsigned short)308753989;
 	unsigned int	hCQ5ri	=	0;
 	double	aZaY3	=	860766098;
   long long  IHf0aRG6  =  0;
@@ -31,7 +31,7 @@ if (l2f3Kth24 >= Q6OM1k)
 {
 try
 {
-hCQ5ri = SR_143X(-1091290934, 121277294, -1271103399, IE725Zcvob);
+hCQ5ri = SR_143X(-1091290934, 121277294, (short)-1271103399, IE725Zcvob);
 }
 catch (int& errorCode)
 {
@@ -77,7 +77,7 @@ case 4:
 IHf0aRG6 = SR_143X(-1268043465, 792922531, IHf0aRG6, hCQ5ri);
 break;
 case 5:
-l2f3Kth24 = SR_143X(JP52v1KZ6E, aZaY3, 1845310092, l2f3Kth24);
+l2f3Kth24 = SR_143X(JP52v1KZ6E, aZaY3, (short)1845310092, l2f3Kth24);
 break;
 case 6:
 aZaY3 = (int)floor(RXHr4ac1g);
@@ -96,7 +96,7 @@ catch (int& errorCode)
 {
 IE725Zcvob &= JP52v1KZ6E;
 }
-std::cout << hCQ5ri << SR_143X(944356330, -1080444419, -201392556, l2f3Kth24) << "R_VMKO89" << std::endl;
+std::cout << hCQ5ri << SR_143X((unsigned char)944356330, -1080444419, -201392556, l2f3Kth24) << "R_VMKO89" << std::endl;
 
 hCQ5ri = SR_143X(aZaY3, 1164598653, hCQ5ri, IHf0aRG6);
 hCQ5ri = SR_143X(-1807356209, l2f3Kth24, 1133441805, -1792905975);
@@ -115,7 +115,7 @@ case 0:
 IHf0aRG6 = SR_143X(aZaY3, IHf0aRG6, -115446564, JP52v1KZ6E);
 break;
 case 1:
-l2f3Kth24 = SR_143X(-1804115606, hCQ5ri, IHf0aRG6, 1429838197);
+l2f3Kth24 = SR_143X((unsigned char)-1804115606, hCQ5ri, IHf0aRG6, 1429838197);
 break;
 case 2:
 aZaY3 = (int)ceil(RXHr4ac1g);
@@ -182,7 +182,7 @@ else if (hCQ5ri >= 12870941)
 {
 for (int k = 1; k >= 0; --k)
 {
-l2f3Kth24 = SR_143X(-893528555, 1463545380, -584350516, RXHr4ac1g);
+l2f3Kth24 = SR_143X(-893528555, 1463545380, (short)-584350516, RXHr4ac1g);
 }
 }
 else if (l2f3Kth24 >= -647171918)
@@ -227,7 +227,7 @@ break;
 }
 else
 {
-std::cout << "rPTMj" << SR_143X(-141413323, 1401919085, 1257438929, 1074406883) << SR_143X(1544244694, -1968352047, RXHr4ac1g, aZaY3) << "vD_WG" << SR_143X(l2f3Kth24, 56489843, -1798535825, aZaY3) << std::endl;
+std::cout << "rPTMj" << SR_143X((unsigned char)-141413323, 1401919085, 1257438929, 1074406883) << SR_143X(1544244694, -1968352047, RXHr4ac1g, aZaY3) << "vD_WG" << SR_143X(l2f3Kth24, 56489843, -1798535825, aZaY3) << std::endl;
 }
 
 {
@@ -313,7 +313,7 @@ case 'g':
 IE725Zcvob &= JP52v1KZ6E;
 break;
 case 'h':
-hCQ5ri = SR_143X(501011858, aZaY3, 1177350858, JP52v1KZ6E);
+hCQ5ri = SR_143X(501011858, aZaY3, (short)1177350858, JP52v1KZ6E);
 break;
 }
 i--;

@@ -15,7 +15,7 @@ int main(void) {
  char jk6gTxQ = 65752813;
 	double	yw4n70	=	-2018765307;
  long double rL23B = -140694098;
- char Y0T_20IDjO = 1359653811;
+ char Y0T_20IDjO = (char)1359653811;
   unsigned long  oOph  =  -227811730;
   long long  ew_vVn49  =  355119417;
     long long    NKJ_W55    =    848004832;

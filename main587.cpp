@@ -193,7 +193,7 @@ while (j >= 0)
 {
 for (int k = 7; k >= 0; k--)
 {
-ZpXj3w_ = S7Gekyl_3(DOdvfyG, 1702146570, 1302524693, 1318552627, HoGrC4_AAf);
+ZpXj3w_ = S7Gekyl_3(DOdvfyG, 1702146570, 1302524693, (unsigned short)1318552627, HoGrC4_AAf);
 }
 j--;
 }
@@ -233,7 +233,7 @@ case 2:
 ZpXj3w_ = (int)floor(N7Fo);
 break;
 case 3:
-LFb_KV = S7Gekyl_3(-1232012165, -501643692, O8V842Kdea, 478051817, 590878684) | 681594251;
+LFb_KV = S7Gekyl_3(-1232012165, -501643692, O8V842Kdea, (unsigned short)478051817, 590878684) | 681594251;
 break;
 case 4:
 cX4J27XIF /= ZpXj3w_;
@@ -291,7 +291,7 @@ else if ((huOojw_ > y922b00) || (HoGrC4_AAf <= huOojw_))
 switch (O8V842Kdea)
 {
 case 0:
-N7Fo = S7Gekyl_3(N7Fo, 1880404160, 1824460386, 703315425, 515386944);
+N7Fo = S7Gekyl_3(N7Fo, 1880404160, 1824460386, (unsigned short)703315425, 515386944);
 break;
 case 1:
 huOojw_ = cweY364tg(HoGrC4_AAf, -309215815);
@@ -640,7 +640,7 @@ case 'F':
 y922b00 = (l_Rrmp6P < IDUh30) ? IDUh30 : LFb_KV;
 break;
 default:
-cX4J27XIF = S7Gekyl_3(-1826756285, -2004292875, 560899613, -486910567, -638164719);
+cX4J27XIF = S7Gekyl_3(-1826756285, -2004292875, 560899613, (unsigned short)-486910567, -638164719);
 break;
 }
 }

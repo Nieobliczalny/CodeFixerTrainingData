@@ -17,7 +17,7 @@ int main(int argc, char** argv)
 {
 	unsigned short	rie5J32S,	a4862;
 	rie5J32S	=	2062176684;
-	a4862	=	-1071529723;
+	a4862	=	(unsigned short)-1071529723;
  short int BX418N, WiNaa0P;
  BX418N = 0;
  WiNaa0P = 0;

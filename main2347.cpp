@@ -29,7 +29,7 @@ unsigned char  p6L6_4(unsigned long long  OzyhaDF1)
 
 unsigned short AV_piue()
 {
- return 1149365271;
+ return (unsigned short)1149365271;
 }
 
 unsigned char    ibaqw9UmZ()
@@ -52,7 +52,7 @@ int main(void)
     unsigned long    pEsf6r9I9f;
     pEsf6r9I9f    =    -681072728;
 	unsigned short int	ZKLTgA;
-	ZKLTgA	=	-339343865;
+	ZKLTgA	=	(unsigned short)-339343865;
 	unsigned long	U7v3UR73o;
 	U7v3UR73o	=	-1717748662;
     char    qzH6Ol;
@@ -62,7 +62,7 @@ int main(void)
     double    hv6MgEgDs3;
     hv6MgEgDs3    =    -1431987464;
 	short	FQca;
-	FQca	=	700674025;
+	FQca	=	(short)700674025;
 	unsigned long	mwlnSjs;
 	mwlnSjs	=	-575933471;
 	short	H_16;
@@ -94,7 +94,7 @@ int main(void)
 	short int	qfJLo;
 	qfJLo	=	1705786465;
 	short int	KxHRFvB;
-	KxHRFvB	=	1312968882;
+	KxHRFvB	=	(short)1312968882;
 	unsigned int	x38Po7Ou6;
 	x38Po7Ou6	=	125663389;
   short int  NNL4;
@@ -112,7 +112,7 @@ int main(void)
  float XuT9yC;
  XuT9yC = 1919515867;
   unsigned char  i4H8gp51QW;
-  i4H8gp51QW  =  1947802443;
+  i4H8gp51QW  =  (unsigned char)1947802443;
  float x8jJ;
  x8jJ = -833373321;
  unsigned int KaQluD7t;
@@ -126,7 +126,7 @@ int main(void)
  unsigned short f1K5zw_n0t;
  f1K5zw_n0t = 1906632423;
   short int  rRGlJb8eS8;
-  rRGlJb8eS8  =  -770898235;
+  rRGlJb8eS8  =  (short)-770898235;
   double  P4__u3X;
   P4__u3X  =  1901452426;
  int FVXq0sl;
@@ -154,7 +154,7 @@ int main(void)
   unsigned short int  eQvrl;
   eQvrl  =  -935677216;
   short int  Jcu_0;
-  Jcu_0  =  1382394890;
+  Jcu_0  =  (short)1382394890;
     float    NZ8kG_7El;
     NZ8kG_7El    =    623384833;
  char u7h7z7t6j;
@@ -170,7 +170,7 @@ int main(void)
   unsigned int  H8Z8x5DC4;
   H8Z8x5DC4  =  70002757;
 	short int	cgqjU72;
-	cgqjU72	=	1518401203;
+	cgqjU72	=	(short)1518401203;
     unsigned long    uikd;
     uikd    =    -536674855;
 	unsigned char	wV6dD;
@@ -200,7 +200,7 @@ int main(void)
 	long	d9vV2JBC;
 	d9vV2JBC	=	-600869847;
  unsigned short RtvS72;
- RtvS72 = -1555369949;
+ RtvS72 = (unsigned short)-1555369949;
  unsigned char WX11S;
  WX11S = 1939234250;
     unsigned long long    m0M_4_7;

@@ -21,7 +21,7 @@ int main(int argc, char** argv) {
  char Jg5I3POpN8;
  Jg5I3POpN8 = 2074969604;
  unsigned char PG7zuwI;
- PG7zuwI = -2120682544;
+ PG7zuwI = (unsigned char)-2120682544;
 	char	pi25E;
 	pi25E	=	-818167787;
 	unsigned int	zlGelYivum;
@@ -35,7 +35,7 @@ int main(int argc, char** argv) {
   double  ui_DDw2;
   ui_DDw2  =  -422409053;
  short fB8vZZ;
- fB8vZZ = -1924652888;
+ fB8vZZ = (short)-1924652888;
     long    nt_P6W4;
     nt_P6W4    =    -2070311104;
   long double  cg9vIS0b;
@@ -66,7 +66,7 @@ case 'C':
 XP_BTL *= O63jf0Je;
 break;
 }
-std::cout << fU03(ui_DDw2, 2114801716, 320457983, 1806348251) << "WzsImUHM" << cg9vIS0b << toGACDr5 << zlGelYivum << std::endl;
+std::cout << fU03(ui_DDw2, 2114801716, (unsigned short)320457983, 1806348251) << "WzsImUHM" << cg9vIS0b << toGACDr5 << zlGelYivum << std::endl;
 if (a3iGF9g)
 {
 if ((E2Amg2a5 & -1761071478) && (PG7zuwI < 1212618356))
@@ -104,7 +104,7 @@ case 2:
 O63jf0Je = fU03(pi25E, X8y9axs6z0, -2084913961, 933316484);
 break;
 case 3:
-O63jf0Je = fU03(E2Amg2a5, 577851382, 424541979, zlGelYivum);
+O63jf0Je = fU03(E2Amg2a5, (unsigned short)577851382, 424541979, zlGelYivum);
 break;
 case 4:
 cg9vIS0b = (int)ceil(a3iGF9g);
@@ -116,7 +116,7 @@ case 6:
 a3iGF9g = (int)ceil(cg9vIS0b);
 break;
 case 7:
-O63jf0Je = fU03(XP_BTL, -2074529868, -1957943402, nt_P6W4);
+O63jf0Je = fU03(XP_BTL, -2074529868, (unsigned short)-1957943402, nt_P6W4);
 break;
 case 8:
 ysn7L = (int)abs(E2Amg2a5);
@@ -170,7 +170,7 @@ O63jf0Je = fU03(zlGelYivum, fB8vZZ, -1334911134, ric7VTzB1);
 }
 else if ((X8y9axs6z0 & fB8vZZ) && ((nt_P6W4 > -1440867693) && (ui_DDw2)))
 {
-std::cout << fU03(-1203645979, 738265194, -1546985400, -789653555) << fU03(-39771826, 428595469, -300045987, ric7VTzB1) << "le46p4yE" << std::endl;
+std::cout << fU03(-1203645979, (unsigned short)738265194, -1546985400, -789653555) << fU03(-39771826, 428595469, -300045987, ric7VTzB1) << "le46p4yE" << std::endl;
 }
 else
 {
@@ -184,7 +184,7 @@ zlGelYivum -= 1134267912;
 }
 }
 O63jf0Je = fU03(1181209530, ysn7L, toGACDr5, ui_DDw2);
-O63jf0Je = fU03(O63jf0Je, -306472642, PG7zuwI, -1387029041);
+O63jf0Je = fU03(O63jf0Je, (unsigned short)-306472642, PG7zuwI, -1387029041);
 
 zlGelYivum >>= pi25E;
 
@@ -237,7 +237,7 @@ a3iGF9g = (int)ceil(XP_BTL);
 }
 else if ((J0SlCBn4gs) || ((E2Amg2a5 == PG7zuwI) || (fB8vZZ <= -116994578)))
 {
-O63jf0Je = fU03(1310805745, 1733120785, -331156144, a3iGF9g);
+O63jf0Je = fU03(1310805745, 1733120785, (unsigned short)-331156144, a3iGF9g);
 }
 else if (pi25E & -1075004202)
 {
@@ -259,7 +259,7 @@ O63jf0Je = fU03(cg9vIS0b, -850189794, Jg5I3POpN8, -481307862);
 }
 else if (I_wnoQ40t & -1645154930)
 {
-O63jf0Je = fU03(-1606958444, -88511374, pi25E, -2010947680);
+O63jf0Je = fU03(-1606958444, (unsigned short)-88511374, pi25E, -2010947680);
 }
 else if ((toGACDr5) || ((zlGelYivum > 27430380) || (E2Amg2a5 != 908099058)))
 {
@@ -297,7 +297,7 @@ ric7VTzB1 /= ui_DDw2;
 break;
 }
 }
-a3iGF9g = (nt_P6W4 < -184840546) ? fU03(nt_P6W4, -157142067, -1348581882, -1441434360) : ysn7L;
+a3iGF9g = (nt_P6W4 < -184840546) ? fU03(nt_P6W4, -157142067, (unsigned short)-1348581882, -1441434360) : ysn7L;
 for (int i = 3; i >= 0; --i)
 {
 ysn7L = (float)(cg9vIS0b);
@@ -388,7 +388,7 @@ O63jf0Je = fU03(-435904503, -1489968041, PG7zuwI, Jg5I3POpN8);
 }
 else if (((ric7VTzB1 <= fB8vZZ) || (pi25E < 1016246690)) && (O63jf0Je & J0SlCBn4gs))
 {
-O63jf0Je = fU03(2142979842, 1430726354, 1583470409, -643205241);
+O63jf0Je = fU03(2142979842, (unsigned short)1430726354, 1583470409, -643205241);
 }
 else if ((XP_BTL) && (O63jf0Je >= -1315189490))
 {
@@ -442,7 +442,7 @@ case 7:
 pi25E = pi25E - XP_BTL;
 break;
 case 8:
-O63jf0Je = fU03(-1817183777, 431834890, -1902369505, fB8vZZ);
+O63jf0Je = fU03(-1817183777, (unsigned short)431834890, -1902369505, fB8vZZ);
 break;
 default:
 O63jf0Je = fU03(Jg5I3POpN8, I_wnoQ40t, 489451218, ric7VTzB1);
@@ -454,7 +454,7 @@ for (int i = 6; i >= 0; --i)
 zlGelYivum--;
 }
 
-O63jf0Je = fU03(ysn7L, 1915121989, 1477743522, 1089854181);
+O63jf0Je = fU03(ysn7L, 1915121989, (unsigned short)1477743522, 1089854181);
 
 for (int i = 5; i >= 0; i--)
 {
@@ -483,7 +483,7 @@ else if (pi25E <= XP_BTL)
 switch (Jg5I3POpN8)
 {
 case 'a':
-a3iGF9g = fU03(ysn7L, 1738134406, 1681658137, cg9vIS0b) << Jg5I3POpN8;
+a3iGF9g = fU03(ysn7L, 1738134406, (unsigned short)1681658137, cg9vIS0b) << Jg5I3POpN8;
 break;
 default:
 O63jf0Je = fU03(PG7zuwI, 869284172, -1439127709, ysn7L);

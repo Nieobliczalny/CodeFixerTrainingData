@@ -31,7 +31,7 @@ int main(void)
  short USIgsb7_w = -32175742;
     unsigned int    R8TonPR7rU    =    -68427586;
   long long  UlcQ_7eQM  =  1427480863;
-    unsigned char    ou1m12vA8y    =    498499572;
+    unsigned char    ou1m12vA8y    =    (unsigned char)498499572;
   unsigned short int  t06nM00s5  =  31099403;
     long    wKQAOn    =    1024654553;
 	int	QSk01	=	-73852022;
@@ -81,7 +81,7 @@ int i = 0;
 do
 {
 i++;
-hrysglD = B7co_PT(hrysglD, 414885130, 36500553, -1285235326, ou1m12vA8y);
+hrysglD = B7co_PT(hrysglD, 414885130, (short)36500553, -1285235326, ou1m12vA8y);
 }
 while (i < 2);
 }
@@ -125,7 +125,7 @@ case 3:
 ou1m12vA8y = B7co_PT(1926801962, -576211615, hrysglD, wKQAOn, -1278297571);
 break;
 default:
-USIgsb7_w = Quu7(USIgsb7_w, -970772753, 57717599, QSk01, sE8i7);
+USIgsb7_w = Quu7(USIgsb7_w, (unsigned short)-970772753, 57717599, QSk01, sE8i7);
 break;
 }
 

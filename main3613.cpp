@@ -25,7 +25,7 @@ int main()
   unsigned long long  Iz_6A;
   Iz_6A  =  0;
   unsigned short  z4K7u_tJ;
-  z4K7u_tJ  =  1024177691;
+  z4K7u_tJ  =  (unsigned short)1024177691;
   int  tg1YT_q;
   tg1YT_q  =  -600145881;
     long long    Si0O9MG;
@@ -41,7 +41,7 @@ int main()
   int  v0KTwkE;
   v0KTwkE  =  1412192734;
     short int    WQa3jf8G_4;
-    WQa3jf8G_4    =    1923305945;
+    WQa3jf8G_4    =    (short)1923305945;
     int    dC3Jq;
     dC3Jq    =    918143733;
 	double	cCBAvQ5m;
@@ -69,7 +69,7 @@ int main()
  unsigned char Szpo866;
  Szpo866 = -71782665;
  short wrHz_;
- wrHz_ = 1452940353;
+ wrHz_ = (short)1452940353;
 
 std::cout << "UbzxsMf" << "reg84BT8eZ" << y84fIK << "a__02I" << std::endl;
 wrHz_ = dC3Jq << 1542112906;

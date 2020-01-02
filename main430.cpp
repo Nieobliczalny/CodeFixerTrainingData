@@ -21,7 +21,7 @@ int main(int argc, char** argv)
 	wLQWVSs14	=	0;
  unsigned short c5Zw5t, Lug_pH, JTMHp2F_k, r7I_8, zIeV_A2Y, opMD4Fix_8, NH_ohJ, rL7L_so, CImekh7v;
  c5Zw5t = -1284890777;
- Lug_pH = 942677865;
+ Lug_pH = (unsigned short)942677865;
  JTMHp2F_k = 1751830499;
  r7I_8 = 1736058704;
  zIeV_A2Y = -984193902;
@@ -643,7 +643,7 @@ else
 switch (T7h9IQ9n)
 {
 case 'a':
-rL7L_so = (T7h9IQ9n < f5mc8I_) ? 821077363 : 627445002;
+rL7L_so = (T7h9IQ9n < f5mc8I_) ? 821077363 : (unsigned short)627445002;
 break;
 default:
 r7I_8 = JTMHp2F_k * NH_ohJ;

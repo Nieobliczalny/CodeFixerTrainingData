@@ -28,7 +28,7 @@ short int	IXwx_hW()
 
 char  G19TuNw(unsigned int  Tk7Dl2676g,unsigned long  jbQ2AdbQ)
 {
-  return  777268760;
+  return  (char)777268760;
 }
 
 int main(int argc, char** argv)
@@ -344,7 +344,7 @@ else
 {
 if (QZK4Bt2_ != gsDuY54)
 {
-QZK4Bt2_ = (yCz6 > NTc6s) ? -259036663 : H_885d;
+QZK4Bt2_ = (yCz6 > NTc6s) ? (unsigned short)-259036663 : H_885d;
 }
 else
 {

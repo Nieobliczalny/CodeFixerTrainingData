@@ -21,7 +21,7 @@ int main(void)
     unsigned long long    fN0__8A;
     fN0__8A    =    0;
     unsigned short int    du1XehuJ3c;
-    du1XehuJ3c    =    -437947173;
+    du1XehuJ3c    =    (unsigned short)-437947173;
   float  Y39810;
   Y39810  =  840334974;
   unsigned int  K592jzg7;
@@ -37,7 +37,7 @@ int main(void)
   short int  XUXg435;
   XUXg435  =  1060321761;
   char  n86p5fEK_;
-  n86p5fEK_  =  1899132956;
+  n86p5fEK_  =  (char)1899132956;
  float lATz7J;
  lATz7J = 781636957;
     unsigned long    g0JreJ;
@@ -77,7 +77,7 @@ int main(void)
     float    M4262e0C4n;
     M4262e0C4n    =    1320543145;
   char  oJVHb2oI;
-  oJVHb2oI  =  -1566196306;
+  oJVHb2oI  =  (char)-1566196306;
     long long    lo5_xb_MAj;
     lo5_xb_MAj    =    -769331949;
  short int W28OY7CuAp;
@@ -87,7 +87,7 @@ int main(void)
 	long long	oa6xi0wP;
 	oa6xi0wP	=	1766632316;
   short  GA9I9;
-  GA9I9  =  -1873388796;
+  GA9I9  =  (short)-1873388796;
     short int    LXV9;
     LXV9    =    -881762841;
   unsigned long  low0;
@@ -97,7 +97,7 @@ int main(void)
 	unsigned short int	MYx72_;
 	MYx72_	=	-995301692;
   short  y1HTG807G;
-  y1HTG807G  =  -107917130;
+  y1HTG807G  =  (short)-107917130;
 	unsigned int	S147;
 	S147	=	363782642;
 	unsigned int	JwI4w;
@@ -107,7 +107,7 @@ int main(void)
     unsigned short int    ip0lyY;
     ip0lyY    =    -1527963943;
     char    kT_AHI;
-    kT_AHI    =    -520718015;
+    kT_AHI    =    (char)-520718015;
   char  Ql5p7qF5;
   Ql5p7qF5  =  -602963242;
     unsigned int    f58KEBPt;
@@ -117,7 +117,7 @@ int main(void)
 	unsigned short int	x5LB0i;
 	x5LB0i	=	274568269;
 	char	DGVs48Ynl;
-	DGVs48Ynl	=	-317865168;
+	DGVs48Ynl	=	(char)-317865168;
   long  c83fsX;
   c83fsX  =  -925781808;
  short K987;
@@ -129,7 +129,7 @@ int main(void)
 	unsigned char	wXn7;
 	wXn7	=	1205605069;
   unsigned short int  sr63;
-  sr63  =  -325462022;
+  sr63  =  (unsigned short)-325462022;
     int    hImPP2_5_;
     hImPP2_5_    =    -1091882476;
 	unsigned short int	VxKWoB;
@@ -410,7 +410,7 @@ case 5:
 y1HTG807G /= 1407407682;
 break;
 case 6:
-ScbePhAt = (Cw5LccPZ <= -2060478529) ? -726902976 : -1549019642;
+ScbePhAt = (Cw5LccPZ <= -2060478529) ? -726902976 : (short)-1549019642;
 break;
 case 7:
 F24G = (int)floor(y77RB2o9d_);

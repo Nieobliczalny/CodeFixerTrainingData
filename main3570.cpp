@@ -28,7 +28,7 @@ long	VO0nc(short	QWl_k0,int	Efj8ut7_h,unsigned char	E7lU9S)
 int main(int argc, char** argv) {
 	unsigned short int	j_P35	=	1582003437;
  unsigned int v08XdpsW0 = 0;
-  char  fvPCvvH  =  711909865;
+  char  fvPCvvH  =  (char)711909865;
 	unsigned long long	po_Txaw	=	113098778;
     double    vl3pj    =    677575199;
  long long NhbUCy1 = 0;
@@ -51,7 +51,7 @@ case 1:
 vl3pj = (int)ceil(l8cWtnO5P);
 break;
 case 2:
-pc_vkbYZ3 = NB_5UWXl(-1350340569, -1859044577, 748892050, 1934905151);
+pc_vkbYZ3 = NB_5UWXl(-1350340569, -1859044577, 748892050, (unsigned short)1934905151);
 break;
 case 3:
 l8cWtnO5P = sRJK + NhbUCy1;
@@ -391,7 +391,7 @@ case 1:
 po_Txaw++;
 break;
 case 2:
-vl3pj = NB_5UWXl(826916112, 940225729, po_Txaw, -1005684675);
+vl3pj = NB_5UWXl(826916112, 940225729, po_Txaw, (unsigned short)-1005684675);
 break;
 case 3:
 sRJK = AXGez4();

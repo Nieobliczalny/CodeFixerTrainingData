@@ -15,7 +15,7 @@ using std::floor;
 int main(int argc, char** argv)
 {
  short int a9K35_R_ = -1849079348;
-    unsigned short    bPs30    =    -1856782607;
+    unsigned short    bPs30    =    (unsigned short)-1856782607;
     long    lQQG    =    -2020137157;
 	float	RZ_3gwE_Oi	=	-1168185812;
 	long long	u9T91Iu_a7	=	-1047927093;
@@ -29,7 +29,7 @@ int main(int argc, char** argv)
   long long  EhW5o  =  -706789723;
     short    exC5N4ZO8    =    1044819444;
     unsigned long    zxg9T    =    1848426609;
-  unsigned short int  eI8lSxG  =  -1738360850;
+  unsigned short int  eI8lSxG  =  (unsigned short)-1738360850;
 	unsigned short int	nlD3wQN2_	=	1964630414;
     unsigned long    tV_7P_j    =    -605644083;
 	unsigned long long	Nqe50BtuDz	=	-1223835819;
@@ -40,7 +40,7 @@ int main(int argc, char** argv)
  unsigned int VE65z = -742292711;
   int  OcbXR1yAy  =  -1750924245;
     short int    Y25RNy_0gx    =    -1733279952;
-    unsigned char    f310_e1    =    -1820396326;
+    unsigned char    f310_e1    =    (unsigned char)-1820396326;
 	unsigned short int	zd5z	=	-154580241;
   unsigned short  K7On  =  186749415;
  long long NFeB4oo = -164394189;
@@ -50,7 +50,7 @@ int main(int argc, char** argv)
   int  sejd0Z  =  2064654864;
  unsigned long yLlscLl = -121021386;
   unsigned short  eUsoL  =  37453692;
-    unsigned short int    vj9NU_wb2d    =    -1694881055;
+    unsigned short int    vj9NU_wb2d    =    (unsigned short)-1694881055;
 	unsigned long long	VGp48	=	1646927250;
  unsigned int K0Lknz6Z = -1340509231;
  long s_6_ = 577166188;
@@ -68,7 +68,7 @@ int main(int argc, char** argv)
 	short int	j7Ik89Z8N	=	-615861984;
     unsigned long long    fIxg145Bx    =    248788815;
     float    Yf9Rr9    =    -1570405223;
- unsigned short AISpcyR = -343971767;
+ unsigned short AISpcyR = (unsigned short)-343971767;
     long double    ap9or61    =    195081228;
   float  zbPxnZx2  =  -893003061;
     unsigned long    Ec8k    =    -560185303;
@@ -78,7 +78,7 @@ int main(int argc, char** argv)
 	short int	v2gcXTe	=	-501287989;
   long long  w72i  =  1426066658;
   unsigned short  RWDLL  =  -1438296864;
- unsigned short CK36pv_55 = -1876657526;
+ unsigned short CK36pv_55 = (unsigned short)-1876657526;
 	char	rgWB08	=	395244126;
  float d86C2099 = -129508970;
 	short int	oSMK	=	2128857422;
@@ -90,7 +90,7 @@ int main(int argc, char** argv)
 	long	EOb8P	=	1898835527;
 	long long	djxpKU	=	-1527926782;
     long    v2VeoVv7    =    1844075942;
-  char  durApNK665  =  1453720070;
+  char  durApNK665  =  (char)1453720070;
   float  UlX_zR_eU  =  1897409284;
   unsigned char  V2LR  =  1348702691;
   unsigned short  w8z4m9Kd  =  226132119;

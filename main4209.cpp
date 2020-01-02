@@ -17,7 +17,7 @@ int main()
 	short	ufy3;
 	ufy3	=	-1672272929;
     short    PFk5mX;
-    PFk5mX    =    314551813;
+    PFk5mX    =    (short)314551813;
   double  FSEOW71h;
   FSEOW71h  =  -1481048523;
 	unsigned long long	HHtzJ17N3;
@@ -27,7 +27,7 @@ int main()
  short int rC9zlN0iEp;
  rC9zlN0iEp = 1374101856;
     unsigned short int    oKri69eh3;
-    oKri69eh3    =    68693435;
+    oKri69eh3    =    (unsigned short)68693435;
     unsigned long    jBt42dL;
     jBt42dL    =    -2000020804;
 	unsigned long	rHL15K;
@@ -45,7 +45,7 @@ int main()
 	unsigned int	H0w2qQ;
 	H0w2qQ	=	968486799;
     char    Zbm2ODBj5;
-    Zbm2ODBj5    =    -1960014831;
+    Zbm2ODBj5    =    (char)-1960014831;
     unsigned long    hqpW0A3_JO;
     hqpW0A3_JO    =    2078879750;
   unsigned short  gje3_b5i;
@@ -81,7 +81,7 @@ int main()
   unsigned char  xwdkk;
   xwdkk  =  -1498086876;
   char  Z149_9U2b;
-  Z149_9U2b  =  1234651034;
+  Z149_9U2b  =  (char)1234651034;
     short int    FA11jJ;
     FA11jJ    =    1653787504;
   long  QqW0vk10V;

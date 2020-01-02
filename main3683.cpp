@@ -18,7 +18,7 @@ int    vLTmuNW(unsigned short    gX7z5W,unsigned long long    pazD_sTPw)
 int main(void) {
     char    Beg9,    a6Em,    kv_u6B,    XnEKk5_a,    cT74rw,    Mmjkjgx,    HV6d0aC_ig,    U811k,    W49zilbg81,    H5GJTtH,    Gp1w3emB,    p9xdG12Nq,    t6Uu2,    t5H_k3DDb,    Z6c7wZqL0O,    P0w96W53y2,    tLq6,    Hsf2,    V3i11Byv,    eZ_D_p3,    y2Q0cI,    dQj8hYUcs,    L83SqtP,    GcC3_sZJ,    hW3qJ_,    wF4_ZcvgJ,    RJM7R9,    ghX09J21i;
     Beg9    =    1305611444;
-    a6Em    =    691153661;
+    a6Em    =    (char)691153661;
     kv_u6B    =    -1022467829;
     XnEKk5_a    =    1282054028;
     cT74rw    =    1568322412;
@@ -28,7 +28,7 @@ int main(void) {
     W49zilbg81    =    -1832588129;
     H5GJTtH    =    988835336;
     Gp1w3emB    =    -1065209355;
-    p9xdG12Nq    =    1387724238;
+    p9xdG12Nq    =    (char)1387724238;
     t6Uu2    =    -709166595;
     t5H_k3DDb    =    297124708;
     Z6c7wZqL0O    =    -108866510;
@@ -38,7 +38,7 @@ int main(void) {
     V3i11Byv    =    965932059;
     eZ_D_p3    =    -107268711;
     y2Q0cI    =    1440881193;
-    dQj8hYUcs    =    -245963222;
+    dQj8hYUcs    =    (char)-245963222;
     L83SqtP    =    -1456281161;
     GcC3_sZJ    =    145814558;
     hW3qJ_    =    1252328462;
@@ -181,7 +181,7 @@ aIuh3R = vLTmuNW(aIuh3R, XnEKk5_a);
 }
 else
 {
-cout << vLTmuNW(aIuh3R, -1432786492) << "coG94" << vLTmuNW(-356658348, -41097323) << vLTmuNW(-1186746481, -1168942048) << GcC3_sZJ << endl;
+cout << vLTmuNW(aIuh3R, -1432786492) << "coG94" << vLTmuNW(-356658348, -41097323) << vLTmuNW((unsigned short)-1186746481, -1168942048) << GcC3_sZJ << endl;
 }
 }
 else if (HV6d0aC_ig & -2047081208)
@@ -380,7 +380,7 @@ else
 {
 if (RJM7R9 != 1501414268)
 {
-Mmjkjgx = vLTmuNW(-698954875, 591998248) & 1327538988;
+Mmjkjgx = vLTmuNW((unsigned short)-698954875, 591998248) & 1327538988;
 }
 }
 if ((cT74rw > QL2GXw) && (HV6d0aC_ig))
@@ -519,7 +519,7 @@ L83SqtP = GcC3_sZJ >> 1219930081;
 break;
 case 'e':
 case 'E':
-aIuh3R = vLTmuNW(1191736946, aIuh3R);
+aIuh3R = vLTmuNW((unsigned short)1191736946, aIuh3R);
 break;
 case 'f':
 case 'F':

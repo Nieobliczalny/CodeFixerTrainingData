@@ -156,7 +156,7 @@ case 6:
 SpPU5 -= yPEAI0AA;
 break;
 case 7:
-yPEAI0AA = W4k_MNt(Qq5QIaSrBK, SpJ_, 957930266) & 765925611;
+yPEAI0AA = W4k_MNt(Qq5QIaSrBK, SpJ_, (unsigned short)957930266) & 765925611;
 break;
 case 8:
 yPEAI0AA = (int)abs(Qq5QIaSrBK) + (-1079399576);
@@ -239,7 +239,7 @@ catch (int& errorCode)
 yPEAI0AA = SpPU5 * SpPU5;
 }
 
-gX1kh = W4k_MNt(1942125187, 935918473, yPEAI0AA);
+gX1kh = W4k_MNt(1942125187, (unsigned short)935918473, yPEAI0AA);
 std::cout << WkM9bxy << W4k_MNt(WkM9bxy, -1897662846, yPEAI0AA) << SpPU5 << std::endl;
 switch (SpJ_)
 {
@@ -250,7 +250,7 @@ case 'b':
 SpPU5 = W4k_MNt(WkM9bxy, 262249155, yPEAI0AA) - 137754113;
 break;
 case 'c':
-yPEAI0AA = W4k_MNt(WkM9bxy, 1390228686, yPEAI0AA) ^ 1111877124;
+yPEAI0AA = W4k_MNt(WkM9bxy, (unsigned short)1390228686, yPEAI0AA) ^ 1111877124;
 break;
 case 'd':
 yPEAI0AA = (int)ceil(gX1kh);
@@ -280,7 +280,7 @@ case 4:
 yPEAI0AA /= 15939303;
 break;
 case 5:
-SpPU5 = W4k_MNt(1776630796, 39968116, 1794129159);
+SpPU5 = W4k_MNt(1776630796, 39968116, (unsigned short)1794129159);
 break;
 case 6:
 yPEAI0AA = W4k_MNt(yPEAI0AA, -1737687085, 366074287);
@@ -296,7 +296,7 @@ WkM9bxy = etO22O(SpPU5, -711520081);
 break;
 }
 gX1kh = (int)abs(WkM9bxy) + (-382256771);
-std::cout << W4k_MNt(SpPU5, -1776359168, 729454025) << std::endl;
+std::cout << W4k_MNt(SpPU5, -1776359168, (unsigned short)729454025) << std::endl;
 gX1kh = W4k_MNt(Qq5QIaSrBK, 291670096, -1929968194);
 
 {
@@ -329,7 +329,7 @@ yPEAI0AA = W4k_MNt(Qq5QIaSrBK, yPEAI0AA, WkM9bxy);
 break;
 case 'd':
 case 'D':
-gX1kh = W4k_MNt(1382003497, -200473206, -1888267483);
+gX1kh = W4k_MNt(1382003497, -200473206, (unsigned short)-1888267483);
 break;
 case 'e':
 case 'E':

@@ -95,7 +95,7 @@ case 4:
 iZv_0js4 = iZv_0js4 * l_ieEc9;
 break;
 case 5:
-RcQe9HixnM = pFBhI17(-2133977656, W65F, -155072802, 1661018408);
+RcQe9HixnM = pFBhI17((short)-2133977656, W65F, -155072802, 1661018408);
 break;
 }
 }
@@ -176,7 +176,7 @@ GDSio_E /= tdv248v95;
 }
 else if (sHLfw8K57T)
 {
-CmoSx = pFBhI17(1688414373, 1263287784, Xhun, 202392775);
+CmoSx = pFBhI17((short)1688414373, 1263287784, Xhun, 202392775);
 }
 else
 {

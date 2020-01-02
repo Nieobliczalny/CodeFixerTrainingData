@@ -22,7 +22,7 @@ int main(void) {
 	long	zMD0N1kS75;
 	zMD0N1kS75	=	-1363878391;
 	short	a5bFT;
-	a5bFT	=	796296910;
+	a5bFT	=	(short)796296910;
 	unsigned int	n48qL3;
 	n48qL3	=	-353778925;
  char BQLz3I;
@@ -32,7 +32,7 @@ int main(void) {
  char afg2GF7lRl;
  afg2GF7lRl = -1502756073;
 	short	KIfner62;
-	KIfner62	=	-1399490719;
+	KIfner62	=	(short)-1399490719;
 	float	Ye43Yp;
 	Ye43Yp	=	1787096207;
   short  CAy9;
@@ -48,7 +48,7 @@ int main(void) {
     unsigned long long    Pfk5_;
     Pfk5_    =    41213055;
 	unsigned char	M7a8Af23;
-	M7a8Af23	=	-57092295;
+	M7a8Af23	=	(unsigned char)-57092295;
  unsigned int ca8X__3q7_;
  ca8X__3q7_ = 739234071;
     int    PQ1p3_78e5;
@@ -60,7 +60,7 @@ int main(void) {
     unsigned long    y5ObedkM_E;
     y5ObedkM_E    =    -839912106;
 	short int	X_Ch;
-	X_Ch	=	454532344;
+	X_Ch	=	(short)454532344;
   long  g9f3N2Y;
   g9f3N2Y  =  -1800817022;
  short uKOv8wo;
@@ -72,7 +72,7 @@ int main(void) {
   double  lGu84i;
   lGu84i  =  950273765;
  char X4_WH96ec;
- X4_WH96ec = -304031129;
+ X4_WH96ec = (char)-304031129;
     long    of6o;
     of6o    =    0;
 	float	z61aqSlqyE;
@@ -82,7 +82,7 @@ int main(void) {
   unsigned short int  ij_TdnA_o;
   ij_TdnA_o  =  -896636909;
 	short int	c1Ja2IZv;
-	c1Ja2IZv	=	144791717;
+	c1Ja2IZv	=	(short)144791717;
   long  egik9425;
   egik9425  =  1321067463;
   unsigned short  fAmZ;
@@ -96,7 +96,7 @@ int main(void) {
  double C2_VE;
  C2_VE = -836155539;
  short int Ybor;
- Ybor = -234998524;
+ Ybor = (short)-234998524;
   unsigned char  kOFbtRmLW;
   kOFbtRmLW  =  -979151781;
     float    qbG74;
@@ -106,7 +106,7 @@ int main(void) {
     long    x5Apj;
     x5Apj    =    -289445195;
   unsigned short  EwXE4z;
-  EwXE4z  =  -117369407;
+  EwXE4z  =  (unsigned short)-117369407;
 	long double	X7D52si8;
 	X7D52si8	=	570371440;
  unsigned short M1C_Yc6;
@@ -768,7 +768,7 @@ case 'g':
 z61aqSlqyE -= 1476043494;
 break;
 case 'h':
-c1Ja2IZv = (qbG74 >= 1272781043) ? -1718360652 : -568970024;
+c1Ja2IZv = (qbG74 >= 1272781043) ? -1718360652 : (short)-568970024;
 break;
 default:
 C2_VE = (int)floor(qbG74);

@@ -152,7 +152,7 @@ FZozXx = (int)floor(EXJ0YO56);
 cout << HuxmbA << endl;
 if (iRxbY2e_(-2106376762) == 0)
 {
-	P78YaTE = 343598827 / iRxbY2e_(-2106376762);
+	P78YaTE = 343598827 / iRxbY2e_((unsigned short)-2106376762);
 }
 
 cout << "skS5F8Ry" << weMN_y() << endl;

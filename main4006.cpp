@@ -34,7 +34,7 @@ short  z7Kix04(int  h63sKNqm,unsigned long  yDHNq,unsigned char  hToqRJg_MG,unsi
 
 short int    UtKFt49()
 {
-    return    1752948885;
+    return    (short)1752948885;
 }
 
 int main(int argc, char** argv) {
@@ -178,7 +178,7 @@ case 1:
 xX99B = lZ9hZzPkJz(-279386782, 707279782);
 break;
 case 2:
-La8mU89 = lZ9hZzPkJz(-1046126266, NXOk4wdm);
+La8mU89 = lZ9hZzPkJz((unsigned short)-1046126266, NXOk4wdm);
 break;
 case 3:
 CbQ6e79 = u5fh0hvM_e & IFi9;
@@ -209,7 +209,7 @@ if (h3IL_6C > ggjEx)
 {
 try
 {
-std::cout << lZ9hZzPkJz(-1197220091, aO4O7EG_4) << u5fh0hvM_e << F2Mx9E1 << YJPa6C3Y << z7Kix04(UO8iIb, 2118674635, 1213835840, h3IL_6C, e3UqWNuv6) << std::endl;
+std::cout << lZ9hZzPkJz(-1197220091, aO4O7EG_4) << u5fh0hvM_e << F2Mx9E1 << YJPa6C3Y << z7Kix04(UO8iIb, 2118674635, (unsigned char)1213835840, h3IL_6C, e3UqWNuv6) << std::endl;
 }
 catch (int& errorCode)
 {
@@ -363,7 +363,7 @@ case 1:
 lQUKkR = nR5O3S016H * n950xP;
 break;
 case 2:
-B_Vv00L_ = lZ9hZzPkJz(-1905059681, UaC3FA0S_);
+B_Vv00L_ = lZ9hZzPkJz((unsigned short)-1905059681, UaC3FA0S_);
 break;
 case 3:
 dM81kqb = lZ9hZzPkJz(ms489OfB1, dM81kqb);
@@ -377,7 +377,7 @@ break;
 }
 
 bpZ94aO3 = Uda8 ^ sbKZK5Ck_0;
-if (GQak88D(-1702996879, 256815745, -778834429) == 0)
+if (GQak88D(-1702996879, (unsigned short)256815745, -778834429) == 0)
 {
 	e3UqWNuv6 = 1693980126 / GQak88D(-1702996879, 256815745, -778834429);
 }

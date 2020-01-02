@@ -99,7 +99,7 @@ case 4:
 udt8 *= udt8;
 break;
 case 5:
-udt8 = XXpiU(udt8, -344769141, FID8KkAF8R, -895824148);
+udt8 = XXpiU(udt8, -344769141, FID8KkAF8R, (unsigned short)-895824148);
 break;
 case 6:
 Xl05 = FID8KkAF8R * 2087054414;
@@ -152,7 +152,7 @@ Ldlx = XxFy1(1448105633, udt8);
 break;
 case 'b':
 case 'B':
-udt8 = XXpiU(1799907631, Xl05, -1349406431, FID8KkAF8R);
+udt8 = XXpiU(1799907631, Xl05, (unsigned short)-1349406431, FID8KkAF8R);
 break;
 default:
 R1sv9 = jrvLxG(-172687803, -1589004701);
@@ -195,7 +195,7 @@ R1sv9 = kdbOU(-198201722, FID8KkAF8R, -2043942422, VqUn0A1HhG, k0v4V_BD0);
 break;
 case 'g':
 case 'G':
-Ldlx = XXpiU(Ldlx, -1647232589, Xl05, -1441473403);
+Ldlx = XXpiU(Ldlx, -1647232589, Xl05, (unsigned short)-1441473403);
 break;
 case 'h':
 case 'H':
@@ -291,7 +291,7 @@ R1sv9 *= udt8;
 }
 else if (Xl05 > -528107980)
 {
-R1sv9 = XXpiU(FID8KkAF8R, 1587257359, 217007899, -839351037);
+R1sv9 = XXpiU(FID8KkAF8R, 1587257359, 217007899, (unsigned short)-839351037);
 }
 else if (udt8 & 203542027)
 {
@@ -307,7 +307,7 @@ VqUn0A1HhG = kdbOU(985066999, -373167659, 8557861, k0v4V_BD0, IgMNw8) << 2232521
 }
 else
 {
-VqUn0A1HhG = jrvLxG(436729556, IgMNw8);
+VqUn0A1HhG = jrvLxG((unsigned short)436729556, IgMNw8);
 }
 }
 while (j < 9);
@@ -342,7 +342,7 @@ k0v4V_BD0 = XxFy1(k0v4V_BD0, 1376241744);
 break;
 case 'f':
 case 'F':
-k0v4V_BD0 = kdbOU(k0v4V_BD0, 554912956, 1887932488, 931720960, 455965195);
+k0v4V_BD0 = kdbOU(k0v4V_BD0, 554912956, 1887932488, 931720960, (unsigned short)455965195);
 break;
 case 'g':
 case 'G':
@@ -387,7 +387,7 @@ case 'h':
 Ldlx = kdbOU(-1773314107, FID8KkAF8R, -107552619, VqUn0A1HhG, R1sv9);
 break;
 case 'i':
-udt8 = jrvLxG(711076629, 897295811);
+udt8 = jrvLxG((unsigned short)711076629, 897295811);
 break;
 case 'j':
 VqUn0A1HhG = R1sv9 / R1sv9;
@@ -421,7 +421,7 @@ unsigned short int kdbOU(unsigned long i6nWzl,unsigned int k51n,char n5pXh_,unsi
 
 unsigned short	XXpiU(short int	mEXGxlel_4,long	Bb460,unsigned short	FUy5,unsigned short int	Y4lF68SM_)
 {
-	return	1918159863;
+	return	(unsigned short)1918159863;
 }
 
 unsigned char	w9C_47V_8(unsigned int	FMaayQPyF,unsigned long	LVeVD2x)

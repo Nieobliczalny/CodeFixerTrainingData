@@ -27,7 +27,7 @@ b6F_38C32 -= CcZwl;
 break;
 case 'c':
 case 'C':
-CcZwl = fvF98skzMR(CcZwl, -473478441, Esi0_9vILL, 901238452);
+CcZwl = fvF98skzMR(CcZwl, -473478441, Esi0_9vILL, (short)901238452);
 break;
 default:
 xYF7 = fvF98skzMR(-966923095, L5I_87cD6C, Esi0_9vILL, -543682493) - 1282460332;

@@ -31,7 +31,7 @@ int main(int argc, char** argv)
     dLY1u74    =    0;
  unsigned short HjHXZm4, a2_62wn, cHnDUDB53, zz5cog, xspl8k, v9lWk5ImnD, V37_, HzWoM4KZ, Nqg3n_H, A3STIbwD4, slfUI8, j0ES_U, OsLE, JTI1N, KEN98q5V_R, F2U2, iSJa, DT_F, uRz47y3, dBFHA, kd94ul, egSp_, gPPz6, SaIu, SNEP84xu3, OM6nQgrd, YeByGs, R42rJ_9, dmZY, uyXU278024, D5hcMN6i2a, lktk1Y736M;
  HjHXZm4 = 1363364459;
- a2_62wn = 2089731720;
+ a2_62wn = (unsigned short)2089731720;
  cHnDUDB53 = -1943125055;
  zz5cog = 2053100940;
  xspl8k = 1156497778;
@@ -41,7 +41,7 @@ int main(int argc, char** argv)
  Nqg3n_H = -330140108;
  A3STIbwD4 = 272834472;
  slfUI8 = -1390692878;
- j0ES_U = 1565165358;
+ j0ES_U = (unsigned short)1565165358;
  OsLE = 1805829271;
  JTI1N = -1636186859;
  KEN98q5V_R = -444147521;
@@ -51,7 +51,7 @@ int main(int argc, char** argv)
  uRz47y3 = 2002030632;
  dBFHA = 1461215529;
  kd94ul = 914833718;
- egSp_ = 1507039012;
+ egSp_ = (unsigned short)1507039012;
  gPPz6 = -1983706596;
  SaIu = -1012730374;
  SNEP84xu3 = 1230288096;
@@ -61,7 +61,7 @@ int main(int argc, char** argv)
  dmZY = 280741486;
  uyXU278024 = -2053347391;
  D5hcMN6i2a = -2094664093;
- lktk1Y736M = 156973964;
+ lktk1Y736M = (unsigned short)156973964;
 
 OsLE = (unsigned short)(SNEP84xu3);
 
@@ -198,7 +198,7 @@ M4yg = N45ZdB95(OsLE, 1997167794, R42rJ_9, -1852445650, -1576575217);
 break;
 case 'g':
 case 'G':
-x6n_cOxkQ = N45ZdB95(1386975873, SNEP84xu3, uyXU278024, 651126530, -1117295566);
+x6n_cOxkQ = N45ZdB95(1386975873, SNEP84xu3, uyXU278024, 651126530, (short)-1117295566);
 break;
 case 'h':
 case 'H':
@@ -230,7 +230,7 @@ break;
 switch (xspl8k)
 {
 case 0:
-cHnDUDB53 = zB_AIZwp2(1216559552, cHnDUDB53, -1749211037, -2026014710);
+cHnDUDB53 = zB_AIZwp2((short)1216559552, cHnDUDB53, -1749211037, -2026014710);
 break;
 case 1:
 M4yg = N45ZdB95(2095617476, lktk1Y736M, 1661780487, SaIu, HzWoM4KZ);
@@ -245,7 +245,7 @@ case 4:
 uyXU278024 >>= 581077486;
 break;
 case 5:
-x6n_cOxkQ = N45ZdB95(iSJa, xspl8k, 923174643, F2U2, -114504043);
+x6n_cOxkQ = N45ZdB95(iSJa, xspl8k, 923174643, F2U2, (short)-114504043);
 break;
 case 6:
 gPPz6 -= 1065036029;

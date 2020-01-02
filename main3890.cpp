@@ -26,7 +26,7 @@ int main()
   short  IesJX__X2  =  0;
     short int    bs0Q2    =    1763186091;
     unsigned short int    gjowK    =    0;
-  unsigned short  q3_dj  =  1778760402;
+  unsigned short  q3_dj  =  (unsigned short)1778760402;
 
 if (IesJX__X2 >= 705018027)
 {
@@ -119,7 +119,7 @@ case 'd':
 dAaC3Ky0B = Zhx3 | 119613648;
 break;
 case 'e':
-Zhx3 = mp65(1677547529, VcN3, q3_dj, 373338149, -1217571536);
+Zhx3 = mp65(1677547529, VcN3, q3_dj, 373338149, (unsigned short)-1217571536);
 break;
 default:
 Zhx3 = mp65(-1196340654, 554540085, Zhx3, 1708970894, q3_dj);
@@ -176,7 +176,7 @@ dAaC3Ky0B = mp65(dAaC3Ky0B, Zhx3, -2056405501, VcN3, IesJX__X2);
 }
 else if (IesJX__X2 == 370530464)
 {
-q3_dj = mp65(1403272559, gjowK, -209694077, IesJX__X2, -1463562719);
+q3_dj = mp65(1403272559, gjowK, (short)-209694077, IesJX__X2, -1463562719);
 }
 else
 {
@@ -200,7 +200,7 @@ dAaC3Ky0B = mp65(1205669105, 1743436706, dAaC3Ky0B, pJVhU, -1778780465);
 }
 else if (bs0Q2 != gjowK)
 {
-Zhx3 = mp65(IesJX__X2, Zhx3, -521526663, -171579010, bs0Q2);
+Zhx3 = mp65(IesJX__X2, Zhx3, (short)-521526663, -171579010, bs0Q2);
 }
 else
 {
@@ -312,7 +312,7 @@ dAaC3Ky0B = (int)abs(bs0Q2);
 break;
 case 'd':
 case 'D':
-q3_dj = mp65(pJVhU, 311274488, -1698329627, qwl_, -297060864);
+q3_dj = mp65(pJVhU, 311274488, (short)-1698329627, qwl_, -297060864);
 break;
 case 'e':
 case 'E':
@@ -472,7 +472,7 @@ else
 {
 try
 {
-bs0Q2 = mp65(-1353795344, 1177092889, 1041395295, -492753860, 1959309225);
+bs0Q2 = mp65(-1353795344, 1177092889, 1041395295, -492753860, (unsigned short)1959309225);
 }
 catch (int& errorCode)
 {

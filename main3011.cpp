@@ -248,6 +248,6 @@ unsigned short int  M5S123()
 
 unsigned short WDw6zTQ()
 {
- return 1144872154;
+ return (unsigned short)1144872154;
 }
 

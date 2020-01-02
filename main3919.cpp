@@ -28,7 +28,7 @@ int main() {
   unsigned int  OL8YdL;
   OL8YdL  =  473328139;
   short  Ba87s9U5;
-  Ba87s9U5  =  -330707592;
+  Ba87s9U5  =  (short)-330707592;
 	long	gF0hL;
 	gF0hL	=	923412553;
   long  slNAZfI9;
@@ -46,7 +46,7 @@ int main() {
 	unsigned short	fR18iGh1;
 	fR18iGh1	=	1798532065;
   short  zt189K;
-  zt189K  =  1895958547;
+  zt189K  =  (short)1895958547;
 	unsigned char	wDChf;
 	wDChf	=	-785343435;
   long long  BpiVw;
@@ -80,7 +80,7 @@ int main() {
  short int FtYe6Iv3;
  FtYe6Iv3 = 0;
     char    HUqWws2Wz;
-    HUqWws2Wz    =    -446376267;
+    HUqWws2Wz    =    (char)-446376267;
     double    x65EP5;
     x65EP5    =    -2031129027;
  long long QGlAt;
@@ -334,7 +334,7 @@ if (OL8YdL > -1824452230)
 {
 if ((x65EP5 < 738698066) && (A1zr > -2141896123))
 {
-FtYe6Iv3 = a85nJId5(1143974700, T9H3r8);
+FtYe6Iv3 = a85nJId5((unsigned char)1143974700, T9H3r8);
 }
 else if (Zc8O2 != -744810499)
 {
@@ -376,7 +376,7 @@ UMxtMh0JHJ = a85nJId5(1996801586, 613529325);
 }
 if ((-1018959991 / a85nJId5(OL8YdL, 449219947)) <= -455414338)
 {
-BpiVw = v_t240t / a85nJId5(-1871059498, gF0hL);
+BpiVw = v_t240t / a85nJId5((unsigned char)-1871059498, gF0hL);
 }
 std::cout << z13egoa << XPS0uQ << std::endl;
 
@@ -482,7 +482,7 @@ else
 std::cout << x65EP5 << "B5uR810pP" << wDChf << "jB36Z6jq" << a85nJId5(1420705653, 499730198) << std::endl;
 }
 
-UMxtMh0JHJ = a85nJId5(1540697998, 19970076);
+UMxtMh0JHJ = a85nJId5((unsigned char)1540697998, 19970076);
 return 0;
 }
 

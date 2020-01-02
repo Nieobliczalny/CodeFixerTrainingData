@@ -38,7 +38,7 @@ else
 p3xG6T4 = eKfA13(2079258313, p3xG6T4);
 }
 std::cout << DCly_4 << "SE0zP_N" << std::endl;
-std::cout << K2IHo7q1E << hS5X0Qu << eKfA13(1684665842, p3xG6T4) << "osAKV" << std::endl;
+std::cout << K2IHo7q1E << hS5X0Qu << eKfA13((short)1684665842, p3xG6T4) << "osAKV" << std::endl;
 O7sH06n = (long double)(F8XY2y9Uvo);
 Vyt6eqf8 = F8XY2y9Uvo / JyebY;
 
@@ -80,7 +80,7 @@ pW83 = CzKJ0_(KK2I4rA2);
 break;
 }
 
-std::cout << eKfA13(1602496745, Cym5ASs3CU) << O4iQz0uXW(KK2I4rA2, Cym5ASs3CU, -1784818411, y1K4G0) << yCU7 << "Bp77" << O4iQz0uXW(-1035539407, -1598757284, -23444548, y1K4G0) << std::endl;
+std::cout << eKfA13(1602496745, Cym5ASs3CU) << O4iQz0uXW(KK2I4rA2, Cym5ASs3CU, -1784818411, y1K4G0) << yCU7 << "Bp77" << O4iQz0uXW(-1035539407, (char)-1598757284, -23444548, y1K4G0) << std::endl;
 if (L_7_49 == 1962983836)
 {
 if (L_7_49 > cU00J9hVe)
@@ -105,7 +105,7 @@ else
 {
 try
 {
-FA5wdeMn = K9OAPY(FA5wdeMn, 1064367028, 2006918009, 1453448878, -1909225962);
+FA5wdeMn = K9OAPY(FA5wdeMn, 1064367028, 2006918009, (unsigned short)1453448878, -1909225962);
 }
 catch (int& errorCode)
 {
@@ -333,7 +333,7 @@ X3y5KN = Glcbj(-497899375);
 break;
 case 'd':
 case 'D':
-n8c3A_ = K9OAPY(n8c3A_, -285275684, JD_Wg, -566563291, -1817414847);
+n8c3A_ = K9OAPY(n8c3A_, -285275684, JD_Wg, (unsigned short)-566563291, -1817414847);
 break;
 case 'e':
 case 'E':
@@ -403,7 +403,7 @@ unsigned short int Glcbj(long long wk6oFI)
 
 unsigned short	O4iQz0uXW(long	Ex_X,char	EqNWtGKH,long	Q4y_yY3,long long	v7Sc516Q9)
 {
-	return	-150865906;
+	return	(unsigned short)-150865906;
 }
 
 unsigned long long    K9OAPY(unsigned int    XY7ofQGQ,short    TG7M_chfM,unsigned long long    Yd4L_2U5,unsigned short int    qAoTz,long long    LRY2_)

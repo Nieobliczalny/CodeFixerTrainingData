@@ -25,7 +25,7 @@ int main(int argc, char** argv)
  unsigned short int StC6ag = 0;
  unsigned short int z0a0S34 = 0;
     unsigned long    CeZn7_5    =    1586751904;
-    short int    hD9A_2bfJ    =    -1693082186;
+    short int    hD9A_2bfJ    =    (short)-1693082186;
 
 std::cout << z0a0S34 << CdtEyKf << Yft_cc(705681859, rRDoA) << "fx8TynCN" << "T1Mam6i0O9" << std::endl;
 {

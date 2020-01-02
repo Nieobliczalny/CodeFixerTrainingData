@@ -13,7 +13,7 @@ int main(int argc, char** argv) {
     short    FuS12    =    96456029;
  long long yy_2l6B8b = 0;
 	char	CG1wm51qK	=	0;
-	unsigned short int	I4OC	=	1295781268;
+	unsigned short int	I4OC	=	(unsigned short)1295781268;
  char rb7jSG = -717856076;
 
 for (int i = 0; i < 7; i++)
@@ -580,7 +580,7 @@ else
 cout << yy_2l6B8b << endl;
 }
 
-FuS12 = (FuS12 != CG1wm51qK) ? 1145066807 : -1881720599;
+FuS12 = (FuS12 != CG1wm51qK) ? 1145066807 : (short)-1881720599;
 for (int i = 3; i >= 0; --i)
 {
 FuS12 = yy_2l6B8b / 25764126;

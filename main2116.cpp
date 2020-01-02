@@ -47,7 +47,7 @@ else
 switch (PvGv)
 {
 case 0:
-y1u9w15RP5 = Yy9e0JHfAo(-910980222, 717943324, t6Ev98, PvGv);
+y1u9w15RP5 = Yy9e0JHfAo(-910980222, (short)717943324, t6Ev98, PvGv);
 break;
 case 1:
 K_5Et = Yy9e0JHfAo(CZf0, qFN0L, t6Ev98, K_5Et);
@@ -65,7 +65,7 @@ case 5:
 qFN0L -= fpE1zG_;
 break;
 case 6:
-y1u9w15RP5 = Yy9e0JHfAo(Ak__N_w, 639491215, y1u9w15RP5, mU3Q8Xz);
+y1u9w15RP5 = Yy9e0JHfAo(Ak__N_w, (short)639491215, y1u9w15RP5, mU3Q8Xz);
 break;
 case 7:
 SF_M2OV /= PvGv;
@@ -89,7 +89,7 @@ catch (int& errorCode)
 Ak__N_w -= 1320828283;
 }
 
-PvGv = Yy9e0JHfAo(119409317, 662979730, -469715549, 2107915614);
+PvGv = Yy9e0JHfAo(119409317, 662979730, -469715549, (short)2107915614);
 
 Ak__N_w = (float)(JGz5I9q3aU);
 
@@ -146,7 +146,7 @@ cout << Yy9e0JHfAo(DuF6O, fpE1zG_, -622211699, mU3Q8Xz) << y1u9w15RP5 << Yy9e0JH
 
 Ak__N_w = (float)(bxvn + (239096707));
 
-cout << mU3Q8Xz / Yy9e0JHfAo(DuF6O, -1871324143, qFN0L, -20204036) << endl;
+cout << mU3Q8Xz / Yy9e0JHfAo(DuF6O, (short)-1871324143, qFN0L, -20204036) << endl;
 X7S_HUH_L8 *= y1u9w15RP5;
 DuF6O = (unsigned long long)(wIH8_0h6H_ * (bxvn));
 fpE1zG_ = JGz5I9q3aU * 2138905876;
@@ -207,7 +207,7 @@ SF_M2OV /= 673604146;
 }
 while (i >= 0);
 }
-PvGv = Yy9e0JHfAo(PvGv, qFN0L, mU3Q8Xz, 327449502);
+PvGv = Yy9e0JHfAo(PvGv, qFN0L, mU3Q8Xz, (short)327449502);
 CZf0 += SF_M2OV;
 switch (PvGv)
 {
@@ -221,7 +221,7 @@ break;
 
 cout << Yy9e0JHfAo(PvGv, qFN0L, -117106736, Ak__N_w) << "Y1YbHP07_" << X7S_HUH_L8 << endl;
 t6Ev98 = (float)(qFN0L);
-cout << Yy9e0JHfAo(-1778667780, qFN0L, mU3Q8Xz, 204994528) << Yy9e0JHfAo(-34112714, -285339002, mU3Q8Xz, Ak__N_w) << Yy9e0JHfAo(PvGv, 647613777, 1288583692, Ak__N_w) << Yy9e0JHfAo(PvGv, 443460937, -287061408, 38199904) << "z9WDxSq7e" << endl;
+cout << Yy9e0JHfAo(-1778667780, qFN0L, mU3Q8Xz, 204994528) << Yy9e0JHfAo(-34112714, (short)-285339002, mU3Q8Xz, Ak__N_w) << Yy9e0JHfAo(PvGv, 647613777, 1288583692, Ak__N_w) << Yy9e0JHfAo(PvGv, 443460937, -287061408, 38199904) << "z9WDxSq7e" << endl;
 
 qFN0L = (CZf0 == -1424390698) ? mU3Q8Xz : 448522876;
 return 0;

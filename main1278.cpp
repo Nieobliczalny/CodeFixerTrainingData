@@ -34,7 +34,7 @@ int main() {
 int i = 2;
 while (i >= 0)
 {
-v__dtb0 = xw_3P8Y5L_(-1846251288, -705431321);
+v__dtb0 = xw_3P8Y5L_((unsigned short)-1846251288, -705431321);
 i--;
 }
 }
@@ -44,7 +44,7 @@ if (FB_rd1t != n2a7KIufwm)
 {
 if (ku_Dx1a == HVd8gO0)
 {
-HazKsBZH = xw_3P8Y5L_(-1423819895, 1370562790);
+HazKsBZH = xw_3P8Y5L_(-1423819895, (short)1370562790);
 }
 }
 else
@@ -164,7 +164,7 @@ else if (d209E_vlS != -515822895)
 {
 if (I4OyqUN <= n2a7KIufwm)
 {
-HazKsBZH = xw_3P8Y5L_(-707464462, 1227153800);
+HazKsBZH = xw_3P8Y5L_(-707464462, (short)1227153800);
 }
 }
 else if (EkfwY0 < -1409918421)
@@ -187,7 +187,7 @@ d209E_vlS = xw_3P8Y5L_(xE1lswq6h8, 2145968013);
 }
 else
 {
-d209E_vlS = xw_3P8Y5L_(-1278904460, 309158145);
+d209E_vlS = xw_3P8Y5L_((unsigned short)-1278904460, 309158145);
 }
 }
 else
@@ -274,7 +274,7 @@ GlfQCw = (int)abs(Y_aYSfuji);
 break;
 case 'h':
 case 'H':
-BJpLP1J = (ku_Dx1a <= QDpK0T0kkV) ? v__dtb0 : 1880781446;
+BJpLP1J = (ku_Dx1a <= QDpK0T0kkV) ? v__dtb0 : (char)1880781446;
 break;
 }
 }
@@ -318,7 +318,7 @@ d209E_vlS = xw_3P8Y5L_(-1490185262, y255lgIx5b);
 }
 else if (a8mt >= EQ0c0)
 {
-aYpx = pK4AJ_(241815024);
+aYpx = pK4AJ_((unsigned short)241815024);
 }
 else if (((BafYdc4p <= Fu16n5) && (nLSnfj1v32)) && (d209E_vlS <= n2a7KIufwm))
 {
@@ -406,7 +406,7 @@ d209E_vlS = xw_3P8Y5L_(d209E_vlS, k8k8o);
 }
 else if (A_1Q_zj93N & v__dtb0)
 {
-cout << pK4AJ_(-1144827164) << xw_3P8Y5L_(d209E_vlS, -135576621) << HVd8gO0 << endl;
+cout << pK4AJ_(-1144827164) << xw_3P8Y5L_(d209E_vlS, (short)-135576621) << HVd8gO0 << endl;
 }
 else
 {
@@ -427,7 +427,7 @@ try
 {
 for (int j = 0; j < 7; ++j)
 {
-cout << xw_3P8Y5L_(d209E_vlS, k8k8o) << xw_3P8Y5L_(-1190499508, 2130306621) << endl;
+cout << xw_3P8Y5L_(d209E_vlS, k8k8o) << xw_3P8Y5L_(-1190499508, (short)2130306621) << endl;
 }
 }
 catch (int& errorCode)
@@ -475,7 +475,7 @@ case 3:
 cG5X3u = Mx2yYmdXN * 1185983353;
 break;
 case 4:
-v__dtb0 = xw_3P8Y5L_(tZaHC2, -2137008138);
+v__dtb0 = xw_3P8Y5L_(tZaHC2, (short)-2137008138);
 break;
 case 5:
 Mx2yYmdXN = (int)abs(ci9y4Q7G);

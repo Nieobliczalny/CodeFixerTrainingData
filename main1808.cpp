@@ -24,7 +24,7 @@ unsigned char    ONDJ2(long    U1q_948Bq)
 
 unsigned short int BPWj843(long long u7__xIGl,int clY44f)
 {
- return 2076588676;
+ return (unsigned short)2076588676;
 }
 
 int main()
@@ -36,7 +36,7 @@ int main()
   long long  FIMuIBJXI;
   FIMuIBJXI  =  -1838232661;
     short int    Cf0uZ32;
-    Cf0uZ32    =    1254967235;
+    Cf0uZ32    =    (short)1254967235;
     unsigned int    I745540bDl;
     I745540bDl    =    -1964779932;
     long double    B60cCUb;
@@ -50,7 +50,7 @@ int main()
  long lP0WO9zzx;
  lP0WO9zzx = -1731329776;
     char    HXdm;
-    HXdm    =    -1890198814;
+    HXdm    =    (char)-1890198814;
 	double	uQS693kx;
 	uQS693kx	=	778372625;
 	double	O2jmzqj2N3;
@@ -64,7 +64,7 @@ int main()
  float k96n_y2_4;
  k96n_y2_4 = -193628703;
     char    R1W6;
-    R1W6    =    -1618897880;
+    R1W6    =    (char)-1618897880;
   unsigned short  s0_o9;
   s0_o9  =  1691636807;
  unsigned short int t1LPP1;
@@ -90,7 +90,7 @@ int main()
  unsigned char UG3u;
  UG3u = 1387644484;
 	unsigned short int	kUne;
-	kUne	=	-151910985;
+	kUne	=	(unsigned short)-151910985;
  long long YHqh0m;
  YHqh0m = -1883246809;
 	long long	X8O_x;
@@ -108,7 +108,7 @@ int main()
     long    YPWgHRT;
     YPWgHRT    =    1768633207;
   unsigned char  WjkcH_;
-  WjkcH_  =  -554915842;
+  WjkcH_  =  (unsigned char)-554915842;
   long double  ne0cTu2;
   ne0cTu2  =  -1258483487;
  unsigned long long KPt3H8C1GQ;
@@ -173,7 +173,7 @@ for (int i = 4; i >= 0; i--)
 int j = 2;
 do
 {
-s8vP7Je = jr07Zvr0w7(-1708422034, uQS693kx, -90392292);
+s8vP7Je = jr07Zvr0w7(-1708422034, uQS693kx, (short)-90392292);
 j--;
 }
 while (j >= 0);
@@ -404,7 +404,7 @@ case 4:
 WSdmd = ONDJ2(1920963767);
 break;
 case 5:
-P4eFEVRbr = jr07Zvr0w7(683008815, -795211905, -1961590871);
+P4eFEVRbr = jr07Zvr0w7(683008815, -795211905, (short)-1961590871);
 break;
 case 6:
 ne0cTu2 = UDN1_is0C3 | t6IbGzS7;
@@ -640,7 +640,7 @@ break;
 }
 if (FIMuIBJXI <= 95065674)
 {
-cout << jr07Zvr0w7(Aw6dPh, -1850843353, pPfhv0ty) << jr07Zvr0w7(432726458, -174849823, pPfhv0ty) << "LQaEI" << jr07Zvr0w7(Aw6dPh, -1138603311, 115461149) << FF0vN8y << endl;
+cout << jr07Zvr0w7(Aw6dPh, -1850843353, pPfhv0ty) << jr07Zvr0w7(432726458, -174849823, pPfhv0ty) << "LQaEI" << jr07Zvr0w7(Aw6dPh, -1138603311, (short)115461149) << FF0vN8y << endl;
 }
 else
 {

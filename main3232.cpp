@@ -29,7 +29,7 @@ int main() {
     int    UAE6P    =    0;
  long long HAiL5CX579 = -2068658088;
  unsigned short int qJWwKgSn_U = 0;
-  char  kIsF57  =  2118887040;
+  char  kIsF57  =  (char)2118887040;
 	unsigned short	r3xX587	=	188847420;
     unsigned short int    Bh0WU5M0L    =    1842512304;
     short int    oeW96L_DcI    =    -2118430690;
@@ -42,7 +42,7 @@ int main() {
     short int    pAyUri    =    0;
   unsigned long  MWdV_eGj  =  1010417119;
     unsigned short    M1L5_n_s    =    763378972;
-	unsigned char	J1TNeCccWL	=	-996806097;
+	unsigned char	J1TNeCccWL	=	(unsigned char)-996806097;
     short int    Nvt6do_jL    =    -1768633784;
     char    FnyUIA4_U    =    368225566;
   short  c622v  =  0;
@@ -134,7 +134,7 @@ Po88 = JFpXDHS1b | 1283553394;
 }
 else if (((oeW96L_DcI != PF0pZt) || (z5cR96o8W >= vHEK1)) && (k4NDe <= M1L5_n_s))
 {
-M1L5_n_s = U9pv7tv1(1522759113, 1370012256);
+M1L5_n_s = U9pv7tv1((char)1522759113, 1370012256);
 }
 else
 {
@@ -208,7 +208,7 @@ Po88 = (int)abs(kIsF57);
 
 for (int i = 6; i >= 0; --i)
 {
-cout << "dJ65gm53" << "xAc7ySMJJ" << U9pv7tv1(-18353646, 223317326) << U9pv7tv1(980482168, M1L5_n_s) << endl;
+cout << "dJ65gm53" << "xAc7ySMJJ" << U9pv7tv1(-18353646, 223317326) << U9pv7tv1((char)980482168, M1L5_n_s) << endl;
 }
 WfBp76Jo = (long long)(ww714fkGv);
 
@@ -260,7 +260,7 @@ else if (ww714fkGv)
 {
 if (k4NDe & pAyUri)
 {
-flZ_ = U9pv7tv1(288703871, FnyUIA4_U);
+flZ_ = U9pv7tv1((char)288703871, FnyUIA4_U);
 }
 else
 {
@@ -293,7 +293,7 @@ z5cR96o8W = U9pv7tv1(501595251, z5cR96o8W);
 break;
 case 'f':
 case 'F':
-UAE6P = V750I_20nD(1388726811, UAE6P);
+UAE6P = V750I_20nD((unsigned short)1388726811, UAE6P);
 break;
 }
 }
@@ -442,7 +442,7 @@ J1TNeCccWL = On5I(1972429257, -1734637512, -193059594);
 }
 else if (c622v <= vHEK1)
 {
-r3xX587 = U9pv7tv1(795836438, k4NDe);
+r3xX587 = U9pv7tv1((char)795836438, k4NDe);
 }
 else
 {
@@ -469,7 +469,7 @@ Nvt6do_jL = U9pv7tv1(-1545642779, -1432717587);
 
 if (oeW96L_DcI == flZ_)
 {
-cout << qJWwKgSn_U << U9pv7tv1(-318844515, c622v) << endl;
+cout << qJWwKgSn_U << U9pv7tv1((char)-318844515, c622v) << endl;
 }
 else if (WfBp76Jo != k4NDe)
 {

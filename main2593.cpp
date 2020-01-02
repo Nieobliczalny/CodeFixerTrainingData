@@ -718,7 +718,7 @@ char    cDtL9ByH(unsigned long    NT044pTtWT,unsigned long long    ucj4k,unsigne
 }
 
 unsigned char  DV5FFrm()  {
-  return  -405464117;
+  return  (unsigned char)-405464117;
 }
 
 unsigned short int    hO6AR(unsigned int    jC42_Ts,unsigned int    itd5Z81)

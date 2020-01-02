@@ -27,7 +27,7 @@ int main(int argc, char** argv)
 	unsigned long long	yKS3E8Mj4	=	1600069811;
     char    T8_v    =    0;
 	unsigned short int	Yn3ARUroe	=	-1921150670;
-    short int    aY81_    =    1732514550;
+    short int    aY81_    =    (short)1732514550;
     unsigned long long    Ni3R    =    -701272085;
 	long double	roa3PR	=	-1919837918;
   unsigned long long  F1Gsdpvq  =  -1675934541;
@@ -37,7 +37,7 @@ int main(int argc, char** argv)
 	float	I9io4	=	-1618693465;
   unsigned short int  GFzxowN3  =  -1015004047;
 	unsigned char	r7jI	=	1567591106;
-  char  PCSgr1bYr0  =  -332545422;
+  char  PCSgr1bYr0  =  (char)-332545422;
     int    LXh_L    =    1796065614;
   unsigned long  ZYzj  =  0;
   long double  Ux8ci  =  -474185040;
@@ -49,7 +49,7 @@ int main(int argc, char** argv)
   long double  vSD2j07C  =  -22624119;
   unsigned char  B2p92  =  1779388760;
 	long long	ajJC	=	-1963110650;
-    unsigned short    SFaksn0n5    =    -404428220;
+    unsigned short    SFaksn0n5    =    (unsigned short)-404428220;
 
 ZYzj = (unsigned long)(ZrcDv * ZYzj);
 Ni3R = a4F3Lx85S();
@@ -61,7 +61,7 @@ case 0:
 QZ7GL_W_ = Ky6e_8LY(670180345, -1290176755, 682589653, PCSgr1bYr0, ajJC);
 break;
 default:
-LXh_L = FvIQXQ(LXh_L, 1376676044, 1352496105);
+LXh_L = FvIQXQ(LXh_L, 1376676044, (short)1352496105);
 break;
 }
 }
@@ -93,7 +93,7 @@ case 'd':
 T8_v = Ky6e_8LY(T8_v, F1Gsdpvq, Nw0UBBgl, 130183408, ZrcDv);
 break;
 case 'e':
-ZYzj = Ky6e_8LY(-1719641750, 988551954, -196008711, -1141612004, ZYzj);
+ZYzj = Ky6e_8LY(-1719641750, (unsigned short)988551954, -196008711, -1141612004, ZYzj);
 break;
 case 'f':
 NOqo4HQRh = Ky6e_8LY(B2p92, -890800569, yKS3E8Mj4, 1470253843, ZYzj) / 1751588323;
@@ -119,7 +119,7 @@ case 2:
 elvQjKb6 >>= 1881614753;
 break;
 case 3:
-elvQjKb6 = SB9g9FH(-656950482, -95969011, aY81_, ZrcDv, F1Gsdpvq);
+elvQjKb6 = SB9g9FH(-656950482, (unsigned short)-95969011, aY81_, ZrcDv, F1Gsdpvq);
 break;
 case 4:
 do9sp0 = (int)abs(QZ7GL_W_) + (2131354124);
@@ -301,7 +301,7 @@ vSD2j07C = Ky6e_8LY(1793645689, r7jI, 1729067364, do9sp0, -717745487) ^ 20669502
 switch (T8_v)
 {
 case 'a':
-roa3PR = S_QEq(-1862609749, 1693931050, -1566310206);
+roa3PR = S_QEq((char)-1862609749, 1693931050, -1566310206);
 break;
 case 'b':
 Nw0UBBgl = S_QEq(-274777938, Yn3ARUroe, 1449153615);
@@ -342,7 +342,7 @@ switch (Yn3ARUroe)
 {
 case 'a':
 case 'A':
-f2g5WmK = FvIQXQ(f2g5WmK, -220494958, 1709263512);
+f2g5WmK = FvIQXQ(f2g5WmK, -220494958, (short)1709263512);
 break;
 case 'b':
 case 'B':

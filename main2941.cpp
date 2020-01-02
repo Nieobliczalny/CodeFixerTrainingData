@@ -168,7 +168,7 @@ case 0:
 siIB8p *= 390108484;
 break;
 case 1:
-YTHm5o4DP = d_FshhAqt7(-186689625, -357508833, gZA8dW, qo0TMNlVe1, 900896152);
+YTHm5o4DP = d_FshhAqt7(-186689625, (unsigned char)-357508833, gZA8dW, qo0TMNlVe1, 900896152);
 break;
 case 2:
 dCS6l3kH = U09G92jg(dCS6l3kH, ww1G7Ll);
@@ -231,7 +231,7 @@ for (int i = 0; i < 4; ++i)
 {
 if (Qk104iH6FN != jTHSYoZI)
 {
-cout << Y0nevq5 << "OSSI" << Y0nevq5 << "i2yUzQSu" << d_FshhAqt7(-1880175468, 1283088743, W077qw6Q, -66777694, 957108976) << endl;
+cout << Y0nevq5 << "OSSI" << Y0nevq5 << "i2yUzQSu" << d_FshhAqt7((unsigned char)-1880175468, 1283088743, W077qw6Q, -66777694, 957108976) << endl;
 }
 }
 
@@ -259,7 +259,7 @@ GueDVT7 = U09G92jg(-1822349929, h4irTM0j);
 break;
 case 'f':
 case 'F':
-d_6ojWsBG = U09G92jg(-939763329, u377TzjRfv);
+d_6ojWsBG = U09G92jg((unsigned short)-939763329, u377TzjRfv);
 break;
 case 'g':
 case 'G':
@@ -287,7 +287,7 @@ case 'c':
 fMlz = XnO0E86 % s_6D4sT;
 break;
 case 'd':
-dgSr = U09G92jg(d_6ojWsBG, -2039439357) / 861248121;
+dgSr = U09G92jg(d_6ojWsBG, (char)-2039439357) / 861248121;
 break;
 }
 --i;
@@ -329,7 +329,7 @@ Sq01E = JhDe7CAs0M();
 break;
 case 'f':
 case 'F':
-pbzd8tub2H = d_FshhAqt7(-713563044, -2059467182, -416242574, 1474557188, fz1ZVJYo);
+pbzd8tub2H = d_FshhAqt7((unsigned char)-713563044, -2059467182, -416242574, 1474557188, fz1ZVJYo);
 break;
 case 'g':
 case 'G':
@@ -381,7 +381,7 @@ case 'c':
 GueDVT7 = U09G92jg(GueDVT7, ETld5C1nC);
 break;
 case 'd':
-dgSr = d_FshhAqt7(-926808097, H1ARBY, s_6D4sT, -1913145761, -2038651118);
+dgSr = d_FshhAqt7((unsigned char)-926808097, H1ARBY, s_6D4sT, -1913145761, -2038651118);
 break;
 case 'e':
 pGWcX1_0K -= 78265075;
@@ -423,7 +423,7 @@ case 4:
 DL922 = (int)abs(nS56);
 break;
 case 5:
-C8N1ZNef9a = (SuVrE1e0 <= 2137386543) ? JhDe7CAs0M() : d_FshhAqt7(1723465906, -1833063926, 1869301244, -1006908496, y615w6r);
+C8N1ZNef9a = (SuVrE1e0 <= 2137386543) ? JhDe7CAs0M() : d_FshhAqt7((unsigned char)1723465906, -1833063926, 1869301244, -1006908496, y615w6r);
 break;
 }
 }
@@ -435,7 +435,7 @@ case 0:
 Sq01E = JhDe7CAs0M();
 break;
 case 1:
-b7I61A = d_FshhAqt7(b7I61A, 922962355, U_AT8N, l_NN7B3, 2118155470);
+b7I61A = d_FshhAqt7(b7I61A, 922962355, U_AT8N, l_NN7B3, (unsigned short)2118155470);
 break;
 case 2:
 u377TzjRfv = (int)abs(tjbf2J1);
@@ -477,7 +477,7 @@ catch (int& errorCode)
 xg6cKO += Sq01E;
 }
 }
-cout << d_FshhAqt7(dgSr, -1051000434, PQPDh, jTHSYoZI, -1578508801) << ksf7misK(-799910607, h4irTM0j, PQPDh, jTHSYoZI) << Hc3_qM9OB << endl;
+cout << d_FshhAqt7(dgSr, (unsigned char)-1051000434, PQPDh, jTHSYoZI, -1578508801) << ksf7misK(-799910607, h4irTM0j, PQPDh, jTHSYoZI) << Hc3_qM9OB << endl;
 
 if ((h5BqC13 >= -2052237538) && (B3PEx70R > 66123066))
 {
@@ -511,7 +511,7 @@ break;
 }
 else if (vn30m)
 {
-cout << yk8_QiS << "e6xr252" << d_FshhAqt7(540941224, -1265980648, W5QX8Xoz, -731877709, -2049990912) << endl;
+cout << yk8_QiS << "e6xr252" << d_FshhAqt7(540941224, (unsigned char)-1265980648, W5QX8Xoz, -731877709, -2049990912) << endl;
 }
 else if (C8N1ZNef9a == ZTruEes87)
 {
@@ -601,7 +601,7 @@ for (int i = 0; i < 6; ++i)
 {
 if (h5BqC13 == -1404502520)
 {
-cout << "xJ_D3e9v6Z" << HmRGrDb8Aw << d_FshhAqt7(-208231493, FLJaY5CTBj, 466169186, 34272848, ZTruEes87) << fMlz << U09G92jg(-1618006873, FLJaY5CTBj) << endl;
+cout << "xJ_D3e9v6Z" << HmRGrDb8Aw << d_FshhAqt7(-208231493, FLJaY5CTBj, 466169186, 34272848, ZTruEes87) << fMlz << U09G92jg((unsigned short)-1618006873, FLJaY5CTBj) << endl;
 }
 else if (PQPDh != -1724169666)
 {
@@ -832,7 +832,7 @@ for (int j = 1; j >= 0; --j)
 {
 if (X4kxY >= 142272889)
 {
-xg6cKO = d_FshhAqt7(384518149, 1489868930, 1521203234, vn30m, -1991087338) * 2103128172;
+xg6cKO = d_FshhAqt7(384518149, (unsigned char)1489868930, 1521203234, vn30m, -1991087338) * 2103128172;
 }
 }
 }
@@ -974,6 +974,6 @@ int    ksf7misK(int    T16hjbQW,int    D3URH5NO3,int    t4Q7K,unsigned short    
 
 short int  d_FshhAqt7(unsigned char  EpupiLGK6v,unsigned char  Knm325_,long long  p1d2e9m,int  zG40Arh6YG,unsigned short  VYkHhiW)
 {
-  return  1156285606;
+  return  (short)1156285606;
 }
 

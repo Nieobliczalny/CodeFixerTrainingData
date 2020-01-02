@@ -23,6 +23,7 @@ char Ov1ndN(long long P_F8EPVe,unsigned char z2u0I4) {
 }
 
 int main(void) {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
  unsigned short int U5_fraVQ_ = 723127200, a8l99paM1 = -149551150, gNxC = 1242574980, GwL45J_ = -238396447, hz8c2V_zD = -1630396778, Y3x81JO_f7 = 649270758, JrT3Skp0zX = -1730693937;
 	unsigned short	JrP_P6i1	=	0,	tvp6AxWw	=	0,	MmI18	=	0;
 

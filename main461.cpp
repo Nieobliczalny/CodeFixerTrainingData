@@ -21,7 +21,7 @@ int main(int argc, char** argv)
   unsigned int  Aip9bW_6;
   Aip9bW_6  =  -1664016813;
  unsigned short PG7u6qI;
- PG7u6qI = 1521647353;
+ PG7u6qI = (unsigned short)1521647353;
   long  yQy7J;
   yQy7J  =  930012266;
     long double    Y_9___NEq;
@@ -51,7 +51,7 @@ int main(int argc, char** argv)
 	float	M8rasD_fI_;
 	M8rasD_fI_	=	-2047025316;
     char    U8lY4W;
-    U8lY4W    =    1750255271;
+    U8lY4W    =    (char)1750255271;
   unsigned short  WP2ORo_71;
   WP2ORo_71  =  0;
  long double T6Y52l8_5r;

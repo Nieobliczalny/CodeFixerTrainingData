@@ -16,7 +16,7 @@ char l58ihaz6()
 int main() {
  unsigned short P5LEC, yyEB, D9i1u0Y, aTptQRm, EG3Gx, X75f, aUVgy94r6, Ep1iXh_, UQB08_U, Df8S9I4GUi, Sa3jgHU, QdMV, g0q09, Pk5Q, BVDmDG, rk705_, jc94Dtx0W, Rw5GZD9, UfTm_Je__, eDcaO;
  P5LEC = -390833645;
- yyEB = 769722167;
+ yyEB = (unsigned short)769722167;
  D9i1u0Y = 289987506;
  aTptQRm = -1261563466;
  EG3Gx = -2115399592;
@@ -26,7 +26,7 @@ int main() {
  UQB08_U = -577487152;
  Df8S9I4GUi = 579390640;
  Sa3jgHU = 1423587290;
- QdMV = 2073999242;
+ QdMV = (unsigned short)2073999242;
  g0q09 = -692899245;
  Pk5Q = 1452464971;
  BVDmDG = -1345235122;

@@ -125,7 +125,7 @@ case 2:
 Ko4I1n19J3 = ooU_Av7(1830774337, 1129153011);
 break;
 case 3:
-mrt5o2 = ooU_Av7(mrt5o2, -45723425);
+mrt5o2 = ooU_Av7(mrt5o2, (unsigned char)-45723425);
 break;
 default:
 C7VTW = v1u2As281c();

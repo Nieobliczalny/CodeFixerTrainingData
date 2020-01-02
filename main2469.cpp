@@ -26,7 +26,7 @@ unsigned long zx_8Lul3()
 }
 
 unsigned short  Pdo0qxs(long long  RDoZujfE5)  {
-  return  2071751439;
+  return  (unsigned short)2071751439;
 }
 
 int main() {
@@ -39,7 +39,7 @@ int main() {
 	float	q4mP23EGpf	=	-1530957141;
     unsigned long    zVXpRtS8    =    175846069;
  short int UW62l5Wz6 = -1478016051;
-	char	LVv5	=	1669054483;
+	char	LVv5	=	(char)1669054483;
 	unsigned int	TWhVYqIY	=	-91190379;
 	long double	B35t_O3yza	=	1773022724;
  unsigned short int nZKN1g5i = 1974065968;
@@ -49,7 +49,7 @@ int main() {
     unsigned short int    pPwW    =    0;
   unsigned short int  Vt3ARQ  =  1835245215;
   unsigned short int  IW08S4L  =  493655553;
-  short int  NNu83_P3E  =  1531915945;
+  short int  NNu83_P3E  =  (short)1531915945;
   unsigned long long  Yma512e20_  =  -543113;
  long Q343Q = 0;
 	long double	j62a	=	789801602;
@@ -61,7 +61,7 @@ int main() {
     long    i1jN2Sb    =    -1035960129;
   long  vXw8f  =  -2019641824;
 	char	C42iQYSf	=	-705221766;
-  short int  bxo2K8P__  =  -1316412186;
+  short int  bxo2K8P__  =  (short)-1316412186;
   unsigned long long  jSyELuBcy9  =  -1347140563;
     float    wZIfLbD    =    786845842;
  long long V8wiz = -588578772;
@@ -275,7 +275,7 @@ if (PJ1glVB < r2NJ)
 switch (jq_u_KFFo)
 {
 case 'a':
-wZIfLbD = sr28MGhq62(289708610, -434137034, 1642726503, 101975093);
+wZIfLbD = sr28MGhq62(289708610, -434137034, 1642726503, (short)101975093);
 break;
 }
 }
@@ -334,7 +334,7 @@ case 1:
 C42iQYSf = Pdo0qxs(1159505121);
 break;
 case 2:
-LVv5 = sr28MGhq62(-393414029, 1390369873, PJ1glVB, 1499678812);
+LVv5 = sr28MGhq62(-393414029, 1390369873, PJ1glVB, (short)1499678812);
 break;
 case 3:
 wZIfLbD = (int)ceil(TuBy6H_0);

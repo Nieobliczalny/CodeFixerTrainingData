@@ -37,7 +37,7 @@ int main() {
     unsigned long    edUL_Krv94;
     edUL_Krv94    =    502752592;
 	unsigned char	f_f08Y4N;
-	f_f08Y4N	=	1643353277;
+	f_f08Y4N	=	(unsigned char)1643353277;
   int  IMKw3;
   IMKw3  =  2088036741;
  unsigned int bsBBPr7;
@@ -51,7 +51,7 @@ int main() {
 	unsigned long	zJ30R5A;
 	zJ30R5A	=	294701961;
  char h9608R;
- h9608R = 1067916782;
+ h9608R = (char)1067916782;
   unsigned short int  yc3f;
   yc3f  =  0;
   long long  MGP192D11;
@@ -83,7 +83,7 @@ FXN4j21M = S2keK ^ 1293938424;
 }
 else if (MGP192D11 & edUL_Krv94)
 {
-wXEW9SOQG = dTnq_uk8(-649814756, MGP192D11, 2049434870);
+wXEW9SOQG = dTnq_uk8((unsigned short)-649814756, MGP192D11, 2049434870);
 }
 else if (((tf2Y6 < -245596920) && (M21cRtd & -1299494518)) && ((bsBBPr7 & wXEW9SOQG) || (f_f08Y4N & -1673440500)))
 {
@@ -220,7 +220,7 @@ case 5:
 ctmaa_ = Pz7d_2_XL3(ctmaa_, 558804670, S2keK, 200104177);
 break;
 default:
-qUkJ0 = dTnq_uk8(-1924856027, 1664551638, 259677728);
+qUkJ0 = dTnq_uk8((unsigned short)-1924856027, 1664551638, 259677728);
 break;
 }
 }
@@ -244,7 +244,7 @@ while (j >= 0);
 
 if (M21cRtd > l2yTdKl1bi)
 {
-MGP192D11 = (f_f08Y4N) ? -145741129 : Pz7d_2_XL3(-1018485245, -896597655, 1071336547, zJ30R5A);
+MGP192D11 = (f_f08Y4N) ? -145741129 : Pz7d_2_XL3(-1018485245, (unsigned char)-896597655, 1071336547, zJ30R5A);
 }
 
 switch (yc3f)
@@ -267,7 +267,7 @@ M21cRtd = sxDQ89C58(1721349997, ctmaa_, -1268426872, ui5eVM7, -1334356788);
 break;
 case 'e':
 case 'E':
-l20Z = Pz7d_2_XL3(1700623381, zJ30R5A, 1559201487, 692005592);
+l20Z = Pz7d_2_XL3((unsigned short)1700623381, zJ30R5A, 1559201487, 692005592);
 break;
 case 'f':
 case 'F':
@@ -383,7 +383,7 @@ unsigned short    g4l8IiO(unsigned int    eN1PNL,unsigned long long    vuV6gk,lo
 
 unsigned char sxDQ89C58(unsigned int F99H7Ok97_,unsigned long long e8Tg_Hl6,unsigned long z_sIE,int R0f9pDJM7L,long fn5ET)
 {
- return -2047907918;
+ return (unsigned char)-2047907918;
 }
 
 unsigned long    dTnq_uk8(unsigned short    zREtRM,unsigned short int    bX0vPX1_,unsigned long    u3Q83nVM3S)

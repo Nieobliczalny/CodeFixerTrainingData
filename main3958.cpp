@@ -22,7 +22,7 @@ int main(void)
 	long	m0JNJ	=	0;
     short    nbHf16WrB    =    0;
     unsigned int    aOBGaEN    =    -1061594040;
-  short  nV94JYU  =  -1700807177;
+  short  nV94JYU  =  (short)-1700807177;
  unsigned long long NIr9b4hOz = -653138581;
   short int  b2o6GG  =  330569197;
  long long F44Ql = 0;
@@ -33,7 +33,7 @@ int main(void)
  short int u5m0A5 = -1904989867;
     short int    H2n21u2    =    1939243909;
   long double  Gj80  =  19033473;
-	unsigned short	y95mr	=	907680785;
+	unsigned short	y95mr	=	(unsigned short)907680785;
     long double    YdS9    =    432415443;
 
 std::cout << yS531d() << std::endl;

@@ -46,7 +46,7 @@ int main(int argc, char** argv) {
 	char	LmQsCt7Tg;
 	LmQsCt7Tg	=	1115018347;
  unsigned short eKSCaZ;
- eKSCaZ = -1577746889;
+ eKSCaZ = (unsigned short)-1577746889;
     unsigned int    NnwS;
     NnwS    =    -638196066;
   char  b0AfA1aw;
@@ -56,7 +56,7 @@ int main(int argc, char** argv) {
   short  G73XH8;
   G73XH8  =  -1826239443;
 
-std::cout << "TtdztuVM_" << e8RlgFx47s(B2Yfi4, 46158426, G73XH8) << aJi4(B2Yfi4, NnwS, -269298354, sKz5P) << std::endl;
+std::cout << "TtdztuVM_" << e8RlgFx47s(B2Yfi4, (short)46158426, G73XH8) << aJi4(B2Yfi4, NnwS, -269298354, sKz5P) << std::endl;
 
 b0AfA1aw = M_rAI78T5(b0AfA1aw, sKz5P);
 
@@ -145,7 +145,7 @@ eKSCaZ = B2Yfi4 ^ b0AfA1aw;
 break;
 case 'c':
 case 'C':
-KSOUf_sYy = jk66(143320873, b0AfA1aw, -1940364056);
+KSOUf_sYy = jk66(143320873, b0AfA1aw, (short)-1940364056);
 break;
 case 'd':
 case 'D':
@@ -387,7 +387,7 @@ G73XH8 = (short)(F2Pdz5I + (-1543340155));
 }
 NnwS = aJi4(NnwS, -77198016, -1396929357, -1975037750);
 
-MPPf52m = -291732947 / e8RlgFx47s(NnwS, -1669557136, -671466477);
+MPPf52m = -291732947 / e8RlgFx47s(NnwS, -1669557136, (char)-671466477);
 std::cout << "jlUCB1R0" << KSOUf_sYy << std::endl;
 {
 int i = 8;
@@ -464,7 +464,7 @@ case 0:
 F2Pdz5I = e8RlgFx47s(KSOUf_sYy, dG56e1Tz, -982907139);
 break;
 case 1:
-b0AfA1aw = jk66(400594475, eKSCaZ, 258434177);
+b0AfA1aw = jk66((char)400594475, eKSCaZ, 258434177);
 break;
 case 2:
 B2Yfi4++;

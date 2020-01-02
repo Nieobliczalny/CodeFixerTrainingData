@@ -19,7 +19,7 @@ int main()
   int  M7h7;
   M7h7  =  -174866372;
  short bur8ej4n;
- bur8ej4n = -631489586;
+ bur8ej4n = (short)-631489586;
     short int    HD6_D;
     HD6_D    =    -2045000361;
  short int tLA3G;
@@ -31,7 +31,7 @@ int main()
     short int    qK_36_cw;
     qK_36_cw    =    1156398335;
  unsigned char sNck8GB;
- sNck8GB = 1771444560;
+ sNck8GB = (unsigned char)1771444560;
 	float	rcuQ_Pl_B;
 	rcuQ_Pl_B	=	2019810238;
     char    J423B;
@@ -43,7 +43,7 @@ int main()
  long double rp5HU;
  rp5HU = 200561490;
  unsigned short ABkaEPme4_;
- ABkaEPme4_ = 88065731;
+ ABkaEPme4_ = (unsigned short)88065731;
 	short	y2L6fVmS95;
 	y2L6fVmS95	=	-2040488709;
  long double bf_aeqp;
@@ -55,7 +55,7 @@ int main()
   long double  VND_o7Zz;
   VND_o7Zz  =  629636227;
  char q859ra376Q;
- q859ra376Q = 813289612;
+ q859ra376Q = (char)813289612;
 	unsigned int	piYLDJL_6g;
 	piYLDJL_6g	=	363512876;
  int T_p64J36cz;
@@ -100,7 +100,7 @@ ITxX = M_B8(-411409419, bf_aeqp, -1724439508, piYLDJL_6g);
 }
 else if (((sNck8GB >= -764957456) && (ITxX <= tLA3G)) || (cG_Nh))
 {
-ITxX = M_B8(Uo2JC6iBJ, J423B, bf_aeqp, -1185023951);
+ITxX = M_B8(Uo2JC6iBJ, J423B, bf_aeqp, (unsigned short)-1185023951);
 }
 else if (q859ra376Q)
 {
@@ -184,7 +184,7 @@ int j = 3;
 do
 {
 --j;
-std::cout << qK_36_cw << q6Ich_2_w << M_B8(525678444, 237804361, tQAOWxB, -1127707913) << "oE_IrbI8A" << std::endl;
+std::cout << qK_36_cw << q6Ich_2_w << M_B8(525678444, 237804361, tQAOWxB, (unsigned short)-1127707913) << "oE_IrbI8A" << std::endl;
 }
 while (j >= 0);
 }

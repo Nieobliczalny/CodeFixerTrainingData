@@ -24,7 +24,7 @@ long    WV6Op1n8(unsigned short int    mAv07J,unsigned char    J9zdoMKsT);
 int main(void) {
   char  TJcd72,  jl4ae6aGdJ,  bTGDYd;
   TJcd72  =  1668635455;
-  jl4ae6aGdJ  =  -571292766;
+  jl4ae6aGdJ  =  (char)-571292766;
   bTGDYd  =  103927653;
  int oXl6o7DXP;
  oXl6o7DXP = 0;
@@ -44,7 +44,7 @@ bTGDYd = He725YzN(bTGDYd, 1765187059, jl4ae6aGdJ, -1827542972);
 }
 else if (((oXl6o7DXP == 823425537) || (bTGDYd & b6kyh2)) || (jl4ae6aGdJ & oXl6o7DXP))
 {
-oXl6o7DXP = jy4nh6G6b(-1290656584, oXl6o7DXP, 319136526, 1212338428, -1341937938);
+oXl6o7DXP = jy4nh6G6b(-1290656584, oXl6o7DXP, (unsigned short)319136526, 1212338428, -1341937938);
 }
 else if (TJcd72)
 {
@@ -63,7 +63,7 @@ else
 {
 if (bTGDYd <= b6kyh2)
 {
-oXl6o7DXP = jy4nh6G6b(oXl6o7DXP, -34264958, 1318506305, 1679656377, 227163358);
+oXl6o7DXP = jy4nh6G6b(oXl6o7DXP, -34264958, (unsigned short)1318506305, 1679656377, 227163358);
 }
 else
 {
@@ -77,7 +77,7 @@ switch (TJcd72)
 {
 case 'a':
 case 'A':
-TJcd72 = WV6Op1n8(-1079137030, 1270123078);
+TJcd72 = WV6Op1n8(-1079137030, (unsigned char)1270123078);
 break;
 case 'b':
 case 'B':
@@ -121,7 +121,7 @@ else if (oXl6o7DXP >= b6kyh2)
 switch (oXl6o7DXP)
 {
 case 0:
-jl4ae6aGdJ = He725YzN(jl4ae6aGdJ, 774140469, oXl6o7DXP, 898160585);
+jl4ae6aGdJ = He725YzN(jl4ae6aGdJ, (unsigned short)774140469, oXl6o7DXP, 898160585);
 break;
 case 1:
 bTGDYd += jl4ae6aGdJ;
@@ -172,7 +172,7 @@ TJcd72 = He725YzN(oXl6o7DXP, TJcd72, -359777581, jl4ae6aGdJ);
 }
 else if (jl4ae6aGdJ != bTGDYd)
 {
-TJcd72 = He725YzN(1724260440, TJcd72, bTGDYd, -1218111862);
+TJcd72 = He725YzN((char)1724260440, TJcd72, bTGDYd, -1218111862);
 }
 else
 {
@@ -192,7 +192,7 @@ else if (TJcd72 == 1342861170)
 {
 if (((oXl6o7DXP < jl4ae6aGdJ) && (bTGDYd > TJcd72)) || (jl4ae6aGdJ & 1678623874))
 {
-oXl6o7DXP = jy4nh6G6b(jl4ae6aGdJ, 1812585927, -875230779, TJcd72, -579842844);
+oXl6o7DXP = jy4nh6G6b(jl4ae6aGdJ, 1812585927, (unsigned short)-875230779, TJcd72, -579842844);
 }
 else
 {
@@ -211,7 +211,7 @@ else
 {
 if (jl4ae6aGdJ != oXl6o7DXP)
 {
-TJcd72 = He725YzN(-951261600, -727931199, bTGDYd, 560269955);
+TJcd72 = He725YzN(-951261600, (unsigned short)-727931199, bTGDYd, 560269955);
 }
 }
 }
@@ -225,7 +225,7 @@ else if (TJcd72 & 1279768809)
 {
 if (oXl6o7DXP != bpQ36A)
 {
-TJcd72 = He725YzN(294646405, 652874702, bTGDYd, oXl6o7DXP);
+TJcd72 = He725YzN(294646405, (unsigned short)652874702, bTGDYd, oXl6o7DXP);
 }
 else if (TJcd72 < b6kyh2)
 {
@@ -241,7 +241,7 @@ TJcd72--;
 }
 else
 {
-TJcd72 = He725YzN(1336672220, 1285537659, 1551914896, jl4ae6aGdJ);
+TJcd72 = He725YzN(1336672220, (unsigned short)1285537659, 1551914896, jl4ae6aGdJ);
 }
 }
 else if ((jl4ae6aGdJ < 1224116798) && ((bTGDYd < TJcd72) && (bTGDYd >= -1932697357)))
@@ -294,7 +294,7 @@ else
 {
 TJcd72 = (bTGDYd < 152482655) ? TJcd72 : oXl6o7DXP;
 }
-oXl6o7DXP = jy4nh6G6b(oXl6o7DXP, 2122162849, -1746481305, bTGDYd, 204241109);
+oXl6o7DXP = jy4nh6G6b(oXl6o7DXP, 2122162849, (unsigned short)-1746481305, bTGDYd, 204241109);
 
 oXl6o7DXP = (int)(ugxh52D03 * (bpQ36A));
 
@@ -368,6 +368,7 @@ TJcd72 = He725YzN(TJcd72, bTGDYd, oXl6o7DXP, 1456280866);
 }
 else
 {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
 cout << WV6Op1n8(-1890735945, 1258131449) << jy4nh6G6b(1891645990, bTGDYd, 296487143, -2057926001, -84763545) << WV6Op1n8(-23564967, -417188510) << WV6Op1n8(TJcd72, 917839168) << endl;
 }
 }
@@ -505,7 +506,7 @@ cout << jl4ae6aGdJ << "h9_L1AcksE" << "CQqREN" << endl;
 switch (oXl6o7DXP)
 {
 case 'a':
-jl4ae6aGdJ = He725YzN(-1962027790, bTGDYd, 610689178, 114605374);
+jl4ae6aGdJ = He725YzN(-1962027790, bTGDYd, (unsigned char)610689178, 114605374);
 break;
 case 'b':
 jl4ae6aGdJ = WV6Op1n8(jl4ae6aGdJ, oXl6o7DXP);
@@ -538,7 +539,7 @@ case 0:
 bTGDYd -= bTGDYd;
 break;
 case 1:
-TJcd72 = He725YzN(TJcd72, -487264805, 85104085, jl4ae6aGdJ);
+TJcd72 = He725YzN(TJcd72, -487264805, (unsigned char)85104085, jl4ae6aGdJ);
 break;
 }
 }
@@ -553,7 +554,7 @@ case 1:
 TJcd72 = bTGDYd >> jl4ae6aGdJ;
 break;
 case 2:
-TJcd72 = He725YzN(-399722449, 1944049391, -583182192, 290650302);
+TJcd72 = He725YzN(-399722449, (unsigned short)1944049391, -583182192, 290650302);
 break;
 case 3:
 bTGDYd = (int)abs(oXl6o7DXP) + (-2023998513);
@@ -571,7 +572,7 @@ case 7:
 bTGDYd = (int)abs(jl4ae6aGdJ);
 break;
 case 8:
-bTGDYd = He725YzN(1195381270, -140699204, -871095575, 500897102);
+bTGDYd = He725YzN(1195381270, (unsigned short)-140699204, -871095575, 500897102);
 break;
 }
 for (int i = 0; i < 3; ++i)
@@ -604,7 +605,7 @@ jl4ae6aGdJ++;
 break;
 case 'g':
 case 'G':
-bTGDYd = jy4nh6G6b(-81707362, -1673122540, 776286383, 636834693, -920027734) / 1910162429;
+bTGDYd = jy4nh6G6b(-81707362, -1673122540, (unsigned short)776286383, 636834693, -920027734) / 1910162429;
 break;
 case 'h':
 case 'H':
@@ -625,7 +626,7 @@ if (oXl6o7DXP < 1372491088)
 switch (bTGDYd)
 {
 case 0:
-TJcd72 = He725YzN(TJcd72, 802080209, 1359897348, jl4ae6aGdJ);
+TJcd72 = He725YzN(TJcd72, 802080209, (unsigned char)1359897348, jl4ae6aGdJ);
 break;
 case 1:
 bTGDYd = He725YzN(TJcd72, -662383493, oXl6o7DXP, 975443192) >> jl4ae6aGdJ;
@@ -652,7 +653,7 @@ int j = 5;
 while (j >= 0)
 {
 --j;
-jl4ae6aGdJ = He725YzN(1835361474, -2108580040, bTGDYd, TJcd72);
+jl4ae6aGdJ = He725YzN(1835361474, (unsigned short)-2108580040, bTGDYd, TJcd72);
 }
 }
 }
@@ -673,7 +674,7 @@ for (int j = 4; j >= 0; j--)
 {
 try
 {
-bTGDYd = WV6Op1n8(386854139, 332864764);
+bTGDYd = WV6Op1n8((unsigned short)386854139, 332864764);
 }
 catch (int& errorCode)
 {
@@ -690,7 +691,7 @@ if (jl4ae6aGdJ == 805751897)
 {
 if (oXl6o7DXP >= ugxh52D03)
 {
-oXl6o7DXP = jy4nh6G6b(TJcd72, oXl6o7DXP, 1264815538, 212922420, 529239845);
+oXl6o7DXP = jy4nh6G6b(TJcd72, oXl6o7DXP, 1264815538, (unsigned char)212922420, 529239845);
 }
 else if (bTGDYd > 202247607)
 {
@@ -742,7 +743,7 @@ oXl6o7DXP = (int)abs(bTGDYd) * 0;
 break;
 }
 }
-oXl6o7DXP = jy4nh6G6b(1816734064, 941644883, -2047156969, jl4ae6aGdJ, -384738485);
+oXl6o7DXP = jy4nh6G6b(1816734064, (short)941644883, -2047156969, jl4ae6aGdJ, -384738485);
 
 switch (oXl6o7DXP)
 {
@@ -752,7 +753,7 @@ jl4ae6aGdJ = oXl6o7DXP | TJcd72;
 break;
 case 'b':
 case 'B':
-bTGDYd = (jl4ae6aGdJ & bpQ36A) ? 1817485104 : -1314779458;
+bTGDYd = (jl4ae6aGdJ & bpQ36A) ? 1817485104 : (char)-1314779458;
 break;
 case 'c':
 case 'C':

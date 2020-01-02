@@ -25,7 +25,7 @@ int main(int argc, char** argv)
     short    geMv1_52l6;
     geMv1_52l6    =    -1865913166;
 	short	WL2Ss70;
-	WL2Ss70	=	-663652731;
+	WL2Ss70	=	(short)-663652731;
   float  gLdOG_;
   gLdOG_  =  -975368068;
  short int Ka3K7xyK;
@@ -57,7 +57,7 @@ int main(int argc, char** argv)
 	long	mr7b68CX;
 	mr7b68CX	=	1764054449;
 	short int	mL9xY;
-	mL9xY	=	-2044149334;
+	mL9xY	=	(short)-2044149334;
 	unsigned long	cfth;
 	cfth	=	-586778454;
 	unsigned int	rTm3;
@@ -71,7 +71,7 @@ int main(int argc, char** argv)
   int  i859;
   i859  =  1950481272;
  short S8c366j_0U;
- S8c366j_0U = -1140284619;
+ S8c366j_0U = (short)-1140284619;
   double  BRYNaI_;
   BRYNaI_  =  1137924480;
  short int G1ion268;
@@ -83,7 +83,7 @@ int main(int argc, char** argv)
 	char	QT4_a13;
 	QT4_a13	=	-1823682057;
   short  ti32d1833;
-  ti32d1833  =  2078213819;
+  ti32d1833  =  (short)2078213819;
   short  dQAvLv_n;
   dQAvLv_n  =  1934322100;
   long  XfmT;
@@ -103,7 +103,7 @@ int main(int argc, char** argv)
 	unsigned char	Cxq0;
 	Cxq0	=	1907604210;
 	short	JYu9AW;
-	JYu9AW	=	443368201;
+	JYu9AW	=	(short)443368201;
     long    NJpvaO4;
     NJpvaO4    =    24342583;
  unsigned long long U8m2;
@@ -115,7 +115,7 @@ int main(int argc, char** argv)
 	double	B12_qox8;
 	B12_qox8	=	11065942;
     unsigned char    dEyrnP;
-    dEyrnP    =    -1727731551;
+    dEyrnP    =    (unsigned char)-1727731551;
     short    l_zom6kj;
     l_zom6kj    =    -1815765036;
     unsigned long    Vjn00;
@@ -602,7 +602,7 @@ g67ZvCT0C9 = (int)abs(mr7b68CX);
 break;
 case 'c':
 case 'C':
-gLdOG_ = a6g2(216603877, 62887557);
+gLdOG_ = a6g2((unsigned char)216603877, 62887557);
 break;
 case 'd':
 case 'D':
@@ -697,7 +697,7 @@ std::cout << y5dG_z() << y5dG_z() << std::endl;
 switch (yk6g_9dt_)
 {
 case 0:
-PEvw4B_ = a6g2(-1046637176, -1808779598);
+PEvw4B_ = a6g2((unsigned char)-1046637176, -1808779598);
 break;
 case 1:
 F4tlsX = l1g3X_1a7_(-1884384831);

@@ -17,6 +17,7 @@ long ZbW7xH(unsigned long ltM3g);
 
 int main(int argc, char** argv)
 {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
  short int Z4_cs9B_ = 673097105, Bvie7zJ = -285787233, h79Qr7Ut = -1276770856, vVb4T9wj = 537948920, Tpg7s226P = -1513818872, yZ10qG = 1726423348, b3YD1x = -2130165373, s3U_4vH8G = -1856237504, x92G3 = -1691830818, Kgik = 356517480, Kr50Hq = -138914153, Y806vJ = 1450988419, WkP49JRh = 1645353456, URk5PHFW3 = -2021325882, g6nmxl4_ = 1331251640, n8WO5MvFH8 = -736040866, rY8pVUNg8n = 1951446676, O_y04na6H = -1007389664, gjXYH9 = 1698706031;
 	unsigned long	kCEHa	=	0,	bV_cn24W	=	0,	ckuitIhUV	=	0;
 

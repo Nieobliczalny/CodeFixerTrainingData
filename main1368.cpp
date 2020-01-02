@@ -25,7 +25,7 @@ int main(int argc, char** argv)
 	int	QW3A6kr	=	-80508759;
   unsigned short  OVuN  =  614976984;
 	long long	Yx0CUQEP1q	=	846441771;
-	unsigned char	J4mFhEu02	=	-1746614447;
+	unsigned char	J4mFhEu02	=	(unsigned char)-1746614447;
  char pkWgR = 0;
 	unsigned int	Ajd3Ep	=	2124225689;
   long double  SM1X0DYzj  =  -1252143009;
@@ -50,7 +50,7 @@ J4mFhEu02 = (unsigned char)(YF5L2XTd1);
 }
 else if (PTHnznm != 1564581647)
 {
-pkWgR = Jb2dSy(-886581104, -146222068, J4mFhEu02);
+pkWgR = Jb2dSy(-886581104, (unsigned short)-146222068, J4mFhEu02);
 }
 else if (Yx0CUQEP1q < SGLpVEPhd)
 {
@@ -106,7 +106,7 @@ if ((QW3A6kr < OVuN) || (Ajd3Ep & 1899524613))
 {
 if ((Am2vuS2WL & J4mFhEu02) && ((QW3A6kr <= 402704851) && (QW3A6kr < -1657709134)))
 {
-SM1X0DYzj = Jb2dSy(QW3A6kr, -486270221, -1915417225) ^ 40503262;
+SM1X0DYzj = Jb2dSy(QW3A6kr, -486270221, (char)-1915417225) ^ 40503262;
 }
 else if (QW3A6kr < 1057695592)
 {
@@ -173,7 +173,7 @@ QW3A6kr = QW3A6kr | 481366864;
 }
 else
 {
-sjC8Lan = Jb2dSy(707133972, 1628452768, -791315737);
+sjC8Lan = Jb2dSy((unsigned char)707133972, 1628452768, -791315737);
 }
 }
 else
@@ -191,7 +191,7 @@ QW3A6kr = rvcrrAiH85(-748247316) << 1544746399;
 
 D_bZOLrh = (int)abs(SGLpVEPhd);
 SGLpVEPhd = pkWgR | J4mFhEu02;
-if ((Jb2dSy(982739266, -219108875, QW3A6kr) / Jb2dSy(-1054763515, -319997858, QW3A6kr)) == 1887669605)
+if ((Jb2dSy(982739266, (unsigned short)-219108875, QW3A6kr) / Jb2dSy(-1054763515, -319997858, QW3A6kr)) == 1887669605)
 {
 if (Jb2dSy(-305683377, SM1X0DYzj, QW3A6kr) == 0)
 {
@@ -235,7 +235,7 @@ if (pkWgR == YF5L2XTd1)
 switch (sjC8Lan)
 {
 case 0:
-pkWgR = Jb2dSy(1255606710, J4mFhEu02, -418399273);
+pkWgR = Jb2dSy(1255606710, J4mFhEu02, (char)-418399273);
 break;
 case 1:
 pkWgR = Jb2dSy(SGLpVEPhd, SM1X0DYzj, 1695206656);
@@ -256,7 +256,7 @@ case 6:
 SM1X0DYzj = (int)floor(SGLpVEPhd);
 break;
 case 7:
-D_bZOLrh = Jb2dSy(-1033561951, -533232947, PTHnznm) % 490839802;
+D_bZOLrh = Jb2dSy(-1033561951, (unsigned short)-533232947, PTHnznm) % 490839802;
 break;
 case 8:
 SGLpVEPhd /= pkWgR;

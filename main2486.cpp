@@ -13,7 +13,7 @@ int main(int argc, char** argv)
     unsigned short int    UEggFV;
     UEggFV    =    -1184466401;
 	char	t0NdX;
-	t0NdX	=	-989388273;
+	t0NdX	=	(char)-989388273;
   long  Bs_J44;
   Bs_J44  =  1249273043;
  unsigned short int b_fA;

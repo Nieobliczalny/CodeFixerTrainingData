@@ -33,7 +33,7 @@ int main(void)
     float    j0LCfjw;
     j0LCfjw    =    -521203973;
 	unsigned char	T7vaR5;
-	T7vaR5	=	801054044;
+	T7vaR5	=	(unsigned char)801054044;
     unsigned long long    NsGHFGE;
     NsGHFGE    =    1748731740;
     unsigned short int    fZq2XGgd;
@@ -47,7 +47,7 @@ int main(void)
     long double    wJk5YQA;
     wJk5YQA    =    1911510911;
  short int veo4;
- veo4 = -1081641667;
+ veo4 = (short)-1081641667;
     unsigned long long    P9f0G86Pg9;
     P9f0G86Pg9    =    -898225025;
  float N0Ihn;
@@ -57,7 +57,7 @@ int main(void)
  short JvXw_7;
  JvXw_7 = 0;
     unsigned char    u_8xo0SPi;
-    u_8xo0SPi    =    1875480434;
+    u_8xo0SPi    =    (unsigned char)1875480434;
 	short	a2x6_pK7;
 	a2x6_pK7	=	-595129112;
  unsigned short a4XGY;
@@ -67,7 +67,7 @@ int main(void)
     unsigned short int    DH3g056M;
     DH3g056M    =    -856443528;
     short    V695;
-    V695    =    -1245215949;
+    V695    =    (short)-1245215949;
     int    A8V0b8k5B;
     A8V0b8k5B    =    -119272685;
   unsigned int  Yd_4;
@@ -85,7 +85,7 @@ int main(void)
 	float	glR_VMFuXB;
 	glR_VMFuXB	=	1505458382;
  unsigned short int HDb0uHjJ;
- HDb0uHjJ = 21040525;
+ HDb0uHjJ = (unsigned short)21040525;
   long  T0__wirQO_;
   T0__wirQO_  =  -47503479;
   float  MXu27o_An;
@@ -97,7 +97,7 @@ int main(void)
 	char	p2HU2TsbF_;
 	p2HU2TsbF_	=	1071520648;
     short int    zmO_N0;
-    zmO_N0    =    -619731446;
+    zmO_N0    =    (short)-619731446;
   long long  G1d8O;
   G1d8O  =  -1589667142;
 	long double	BnLpE;
@@ -113,7 +113,7 @@ int main(void)
   unsigned long long  whBT3;
   whBT3  =  -2044925335;
     unsigned short int    jz7_PMegg;
-    jz7_PMegg    =    -118950508;
+    jz7_PMegg    =    (unsigned short)-118950508;
 	unsigned int	JuB99;
 	JuB99	=	938774659;
 	short	yAkjkO;
@@ -125,7 +125,7 @@ int main(void)
   int  DfG0_woT;
   DfG0_woT  =  -1309087339;
 	short	xA06Y;
-	xA06Y	=	2055422490;
+	xA06Y	=	(short)2055422490;
     unsigned char    Nw2S03Ks;
     Nw2S03Ks    =    -1052822434;
   float  R_8iwQ_;
@@ -137,7 +137,7 @@ int main(void)
  short i__i5d63S;
  i__i5d63S = 1912623490;
     short int    co_v1OP2f;
-    co_v1OP2f    =    1735344012;
+    co_v1OP2f    =    (short)1735344012;
     unsigned long    Ja8z;
     Ja8z    =    2144117613;
 	unsigned long long	WRTzL;

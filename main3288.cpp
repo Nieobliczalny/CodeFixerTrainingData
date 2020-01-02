@@ -30,7 +30,7 @@ unsigned short    a853Qw0_f(long long    h3Or6DL,unsigned long long    S7uys,cha
 
 short int m68kR8o(unsigned char cLa10W5)
 {
- return -1859696419;
+ return (short)-1859696419;
 }
 
 unsigned short int	llKcUb5LYG(int	Y_mxdv3_,unsigned int	J6ds2Q1osl,unsigned short	QRymKl66Uj,short	Ed4_K0CV)
@@ -92,7 +92,7 @@ B0bYdMomi += qppqe1K;
 }
 else
 {
-gHDL = m68kR8o(-1179687974);
+gHDL = m68kR8o((unsigned char)-1179687974);
 }
 }
 else if (FF8ZVlNYJ6 < 1990488825)
@@ -281,7 +281,7 @@ case 7:
 JrCL = (int)floor(i4FqlUprfP);
 break;
 case 8:
-h7u64_P02J = llKcUb5LYG(-308010643, faeY, -312681931, lMAQ9O);
+h7u64_P02J = llKcUb5LYG(-308010643, faeY, (unsigned short)-312681931, lMAQ9O);
 break;
 case 9:
 JrCL = llKcUb5LYG(-1381794201, VNPj1, D3J_J6zRNs, lz8NgqH);
@@ -362,7 +362,7 @@ for (int j = 0; j < 6; ++j)
 switch (fP_O502W)
 {
 case 0:
-YzVNx02 = Q5_KRxq(-1077363042, -1183303524, jX2ZXl, -1706413936, K0PSAt0z);
+YzVNx02 = Q5_KRxq(-1077363042, (unsigned char)-1183303524, jX2ZXl, -1706413936, K0PSAt0z);
 break;
 case 1:
 qjtMs_ = (int)abs(VNPj1);
@@ -395,7 +395,7 @@ else if ((dhJAkHf1 != VcC76) && ((GUDfM_l >= 341520847) && (tlu0kzc < 2077403078
 switch (fP_O502W)
 {
 case 0:
-lMAQ9O = Q5_KRxq(988880562, -707260767, sMeZIeWR, lMAQ9O, klPxOuUPU);
+lMAQ9O = Q5_KRxq(988880562, (unsigned char)-707260767, sMeZIeWR, lMAQ9O, klPxOuUPU);
 break;
 }
 }
@@ -444,7 +444,7 @@ while (j < 7)
 {
 for (int k = 6; k >= 0; --k)
 {
-YzVNx02 = Q5_KRxq(-1604900091, p9E2, 1956600511, -239650593, -1775942323);
+YzVNx02 = Q5_KRxq(-1604900091, p9E2, (short)1956600511, -239650593, -1775942323);
 }
 j++;
 }
@@ -530,7 +530,7 @@ n9ezvfM = (int)abs(D3J_J6zRNs);
 }
 else
 {
-fP_O502W = Q5_KRxq(588770644, Ad2aT, 35263981, -741954895, R8O379);
+fP_O502W = Q5_KRxq(588770644, Ad2aT, (short)35263981, -741954895, R8O379);
 }
 bM28 = (float)(tlu0kzc);
 GA6Zdiz__Z = (float)(dhJAkHf1);
@@ -568,7 +568,7 @@ case 'a':
 P0F7saW = (int)floor(bM28);
 break;
 case 'b':
-YzVNx02 = Q5_KRxq(TodA2_j, 1713911834, hE726YENa, -893759169, 448160083);
+YzVNx02 = Q5_KRxq(TodA2_j, 1713911834, hE726YENa, -893759169, (short)448160083);
 break;
 case 'c':
 Z4yP9 = (int)abs(hE726YENa);

@@ -21,7 +21,7 @@ int main()
   long long  NX7p;
   NX7p  =  -1269832698;
 	short	B0vj9J2z9;
-	B0vj9J2z9	=	-182997126;
+	B0vj9J2z9	=	(short)-182997126;
  unsigned short int YEbo7lszW;
  YEbo7lszW = -814029332;
   short  ElG5a;
@@ -33,7 +33,7 @@ int main()
 	unsigned long long	zMEZPo68N3;
 	zMEZPo68N3	=	-354235999;
 	short	kF5wLY;
-	kF5wLY	=	707447745;
+	kF5wLY	=	(short)707447745;
  char iS82_7QVc4;
  iS82_7QVc4 = -735768122;
   short int  eI_3s4vB2;
@@ -61,7 +61,7 @@ int main()
     short    A5cf8_h8_;
     A5cf8_h8_    =    1865079390;
   short int  JSe_a;
-  JSe_a  =  -1574194893;
+  JSe_a  =  (short)-1574194893;
  short eee3V;
  eee3V = 33058970;
  int t3k6i;
@@ -83,7 +83,7 @@ int main()
     short    c7l23Nrnm;
     c7l23Nrnm    =    -825641811;
     unsigned short int    Ruz4YD;
-    Ruz4YD    =    -1096307440;
+    Ruz4YD    =    (unsigned short)-1096307440;
 
 switch (E92x7gw)
 {
@@ -107,7 +107,7 @@ case 3:
 c7l23Nrnm = k4GiY & 504381179;
 break;
 case 4:
-lTWw = dl7Ah(kF5wLY, -1609274902, -139880060);
+lTWw = dl7Ah(kF5wLY, -1609274902, (short)-139880060);
 break;
 case 5:
 NX7p %= 623046510;
@@ -158,7 +158,7 @@ case 1:
 c7l23Nrnm &= 1358970619;
 break;
 case 2:
-a53PJU = dl7Ah(-1884638972, Ou2_, eee3V);
+a53PJU = dl7Ah((unsigned short)-1884638972, Ou2_, eee3V);
 break;
 case 3:
 a53PJU = dl7Ah(-134303112, 622138378, eI_3s4vB2);
@@ -214,7 +214,7 @@ do
 --j;
 try
 {
-a53PJU = dl7Ah(2043597624, -1303795546, kF5wLY);
+a53PJU = dl7Ah(2043597624, (short)-1303795546, kF5wLY);
 }
 catch (int& errorCode)
 {
@@ -265,7 +265,7 @@ break;
 }
 }
 
-SfZA__j = 112596259 / dl7Ah(2107834725, -1795221626, E92x7gw);
+SfZA__j = 112596259 / dl7Ah(2107834725, (short)-1795221626, E92x7gw);
 JSe_a = (int)abs(XX7EQ1);
 return 0;
 }

@@ -13,7 +13,7 @@ short	smG_17oZ_(unsigned char	j1xrM63G8,char	Bynn3)
 }
 
 unsigned char    R6Kk(short int    Q7szQdUwp)    {
-    return    759295328;
+    return    (unsigned char)759295328;
 }
 
 char    mp50692_I(unsigned int    jSa0,unsigned short int    SqSZA1m2fH)    {
@@ -93,7 +93,7 @@ case 'f':
 S_h_ = mp50692_I(135931756, 177331173);
 break;
 case 'g':
-iUTa = smG_17oZ_(1463678786, 898278240);
+iUTa = smG_17oZ_((unsigned char)1463678786, 898278240);
 break;
 case 'h':
 S_h_ = mp50692_I(S_h_, -1789733727);
@@ -199,7 +199,7 @@ if (iUTa <= U6YF)
 int j = 0;
 while (j < 1)
 {
-iUTa = smG_17oZ_(-1708452298, 198030601);
+iUTa = smG_17oZ_(-1708452298, (char)198030601);
 ++j;
 }
 }

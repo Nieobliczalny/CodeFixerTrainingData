@@ -21,7 +21,7 @@ long long	RxG1(int	v4WoP_7l,long	k1Hv0t9fW)	{
 }
 
 char  ym2A__x_b(long long  e_8C5,unsigned short int  e5cn,unsigned long long  Z13Je1C3)  {
-  return  -1142346823;
+  return  (char)-1142346823;
 }
 
 long long	uGz7k(unsigned long long	MhNg4T9_Dy,long long	N7HL584W)

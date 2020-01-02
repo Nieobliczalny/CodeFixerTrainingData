@@ -10,7 +10,7 @@ using namespace std;
 
 int main(void) {
  short int me96o = 158983010;
-	short int	D4N9	=	1361611023;
+	short int	D4N9	=	(short)1361611023;
     unsigned short    Ye5Q    =    830670772;
   unsigned long  y_CVVez1T  =  -1565724848;
   unsigned long long  Yp3n5Wj  =  1309237176;
@@ -22,7 +22,7 @@ int main(void) {
     long    W6DGSS    =    1759745135;
 	unsigned short	OJDe_N	=	-807255596;
   unsigned int  X6qML0  =  1357459307;
-  unsigned short  sy3bXdQU4  =  386610726;
+  unsigned short  sy3bXdQU4  =  (unsigned short)386610726;
     float    s0Id6J    =    -1660445101;
  double X5X1uFdH0I = -420495340;
     int    s_wJj7orV    =    -465830616;

@@ -356,7 +356,7 @@ case 2:
 QJCz8P = wQB3U4r(-660794405);
 break;
 case 3:
-QJCz8P = wQB3U4r(-493469225);
+QJCz8P = wQB3U4r((short)-493469225);
 break;
 default:
 Vg1mo5_s %= 675160230;
@@ -501,7 +501,7 @@ short	v5eB(long long	Fs5w7y,unsigned short int	euRLfFyCO5,int	IKJaFE590U,unsigne
 }
 
 short int  wQB3U4r(short int  k2u9_e2)  {
-  return  762667075;
+  return  (short)762667075;
 }
 
 unsigned short TD_tpw5o(long long UWA2vl,unsigned int pY_htpOHo,unsigned long long vMXqjuB,short NzGj9an6_4)

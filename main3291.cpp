@@ -23,7 +23,7 @@ int main()
 {
  char S6n30E1ky, a_P4o, oJ618AmH, q0kI21b, qdYf, kvbH6, CA8N, sTM4w_I, K6dM, Fi8j9_, fWcFn_, P0bqK87L, iDbTeD_z, KThk8Q, m04K, MbxU10, L122gnU, Hvaj193_5k, apW0Oz, mYQ0z_yv, UG04gvAT8, FaUjz, GOBp0dJl, Q9ZG5lVNRg, c_u5najW, lDfI96o8D, yQhRNOt, BYkKO, Jncc4aaUii, i4Ok39, w60E8oq0d2, RJc7w7r, iENn4sxV, la7BC, W4N7W, jfyL69k1, h67_Kldk, W16c, z6sYDAEx, D_S0, D87Pj8Su, Cp4_B_m5E1, aVZO0X, CWmXFu, pQr4z, eUqB9, CuQPkY, u9Otc6yS, vp94N, wP44nV, Y9Nu9u61zN, x77K, W5TT8, nyWU3TG4;
  S6n30E1ky = 259205130;
- a_P4o = 2096758359;
+ a_P4o = (char)2096758359;
  oJ618AmH = 166845632;
  q0kI21b = 1405042024;
  qdYf = -1271495758;
@@ -33,7 +33,7 @@ int main()
  K6dM = -1854162356;
  Fi8j9_ = -1481887438;
  fWcFn_ = -100462710;
- P0bqK87L = -1927099439;
+ P0bqK87L = (char)-1927099439;
  iDbTeD_z = 55071548;
  KThk8Q = -1088636032;
  m04K = -1560434586;
@@ -43,7 +43,7 @@ int main()
  apW0Oz = 140833160;
  mYQ0z_yv = 56910977;
  UG04gvAT8 = 806371302;
- FaUjz = 172109790;
+ FaUjz = (char)172109790;
  GOBp0dJl = 2003906329;
  Q9ZG5lVNRg = -1346926757;
  c_u5najW = -1814849117;
@@ -53,7 +53,7 @@ int main()
  Jncc4aaUii = -538128776;
  i4Ok39 = 934349489;
  w60E8oq0d2 = -901890437;
- RJc7w7r = 549896620;
+ RJc7w7r = (char)549896620;
  iENn4sxV = -1017950730;
  la7BC = 2090392585;
  W4N7W = 806419095;
@@ -63,7 +63,7 @@ int main()
  z6sYDAEx = 1716814599;
  D_S0 = 1132866815;
  D87Pj8Su = -1485899930;
- Cp4_B_m5E1 = -1031992184;
+ Cp4_B_m5E1 = (char)-1031992184;
  aVZO0X = -1079145144;
  CWmXFu = 717000760;
  pQr4z = 764690355;
@@ -73,7 +73,7 @@ int main()
  vp94N = -1773785574;
  wP44nV = -1055365941;
  Y9Nu9u61zN = 1752022549;
- x77K = 1236632124;
+ x77K = (char)1236632124;
  W5TT8 = -1607541840;
  nyWU3TG4 = 31746455;
     unsigned short int    TAy_L58nr;
@@ -164,7 +164,7 @@ case 'i':
 D87Pj8Su = S282VOn4(D87Pj8Su, z6sYDAEx, 1331850085, mYQ0z_yv, P0bqK87L);
 break;
 case 'j':
-TAy_L58nr = Kk9j25GL3(-29073609, 495851180, KThk8Q);
+TAy_L58nr = Kk9j25GL3((unsigned short)-29073609, 495851180, KThk8Q);
 break;
 }
 j++;
@@ -287,6 +287,6 @@ unsigned short HG_0a(long rLn60E5q9w) {
 }
 
 unsigned char w4oh3sjCy() {
- return 570016446;
+ return (unsigned char)570016446;
 }
 

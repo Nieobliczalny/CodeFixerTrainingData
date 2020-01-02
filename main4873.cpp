@@ -199,7 +199,7 @@ Au7M1 = r6V4mASC(1619699887);
 break;
 case 'e':
 case 'E':
-UF19A1r = sNYS(UF19A1r, sGzbZP9y, -714418448, -1796072643);
+UF19A1r = sNYS(UF19A1r, sGzbZP9y, -714418448, (char)-1796072643);
 break;
 case 'f':
 case 'F':
@@ -258,7 +258,7 @@ if ((VU6B_aLT4 >= hmEICohb7) || ((Sp72 & g7zW2Xt) && (lu1Vh & mQgnW994hu)))
 {
 if (B5bhvciFA < 1515441279)
 {
-std::cout << p58eY97_z7(-374736090, 55980995, m9gpYatWX, -1156501711, 752775597) << KQySj1 << BM1mK57(KQySj1, q5wkKCe, -1194001394) << vMoztxo4c << std::endl;
+std::cout << p58eY97_z7(-374736090, 55980995, m9gpYatWX, -1156501711, 752775597) << KQySj1 << BM1mK57(KQySj1, q5wkKCe, (unsigned short)-1194001394) << vMoztxo4c << std::endl;
 }
 }
 if (lu1Vh & sfVPrd0fIr)

@@ -69,7 +69,7 @@ case 0:
 q6ky1ZMi4l--;
 break;
 case 1:
-LWUbF6bF3 = Q81v(510424410, -1559698302);
+LWUbF6bF3 = Q81v((unsigned short)510424410, -1559698302);
 break;
 }
 
@@ -136,7 +136,7 @@ CWw_82_CR = Q81v(C181rS7KG_, 1548619944);
 }
 
 ifgf0NJ = (unsigned int)(Q4w9EW1m);
-oMcS = COrdP_hwa(347211682, -490476089, -1927166767, 1247254743, N_KAQ);
+oMcS = COrdP_hwa(347211682, (unsigned char)-490476089, -1927166767, 1247254743, N_KAQ);
 return 0;
 }
 

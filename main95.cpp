@@ -126,7 +126,7 @@ if (Eyr4Zw_LPJ > S9Lp)
 {
 if (CC23pg0 > YJbSQFEON)
 {
-F4mrMcS3 = (S9Lp <= Oc60_w7) ? -393877595 : -1271096807;
+F4mrMcS3 = (S9Lp <= Oc60_w7) ? -393877595 : (short)-1271096807;
 }
 else
 {

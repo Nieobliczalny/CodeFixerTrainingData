@@ -211,7 +211,7 @@ try
 {
 if (((bgviK8 != wTfTX) || (chJp0pW & 77721619)) || (vd8F0qd3N >= -1748192808))
 {
-YB1_te94ox = oVj9M5(323852876, 1556143997, 1677986174, vd8F0qd3N, -605265134);
+YB1_te94ox = oVj9M5(323852876, (unsigned char)1556143997, 1677986174, vd8F0qd3N, -605265134);
 }
 }
 catch (int& errorCode)

@@ -171,7 +171,7 @@ break;
 }
 F0Hm_f = Kg1CA66m / 344973644;
 
-std::cout << "czQ142" << gHlQLG(-198512988) << "R_NZRY_rS" << "Z30j69_5" << "EXywOBj0ta" << std::endl;
+std::cout << "czQ142" << gHlQLG((unsigned short)-198512988) << "R_NZRY_rS" << "Z30j69_5" << "EXywOBj0ta" << std::endl;
 
 for (int i = 2; i >= 0; --i)
 {

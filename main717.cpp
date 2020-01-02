@@ -154,7 +154,7 @@ else if (V9tDm >= -389441395)
 int k = 8;
 while (k >= 0)
 {
-V9tDm = rLj_MgV(-1844901737, ToST_CkPF, -1424935063);
+V9tDm = rLj_MgV(-1844901737, ToST_CkPF, (unsigned char)-1424935063);
 k--;
 }
 }
@@ -192,7 +192,7 @@ int k = 0;
 do
 {
 ++k;
-V9tDm = rLj_MgV(-196970265, FsMBT0PF4, 1348565428);
+V9tDm = rLj_MgV(-196970265, FsMBT0PF4, (unsigned char)1348565428);
 }
 while (k < 7);
 }
@@ -206,7 +206,7 @@ V9tDm = (double)(ToST_CkPF + (1680459592));
 }
 else if (Ds8V53P)
 {
-std::cout << rLj_MgV(ToST_CkPF, FsMBT0PF4, mf385r0) << rLj_MgV(-1625671482, -505331178, -697511191) << mf385r0 << std::endl;
+std::cout << rLj_MgV(ToST_CkPF, FsMBT0PF4, mf385r0) << rLj_MgV(-1625671482, -505331178, (unsigned char)-697511191) << mf385r0 << std::endl;
 }
 else if (ToST_CkPF >= 545113390)
 {
@@ -296,7 +296,7 @@ if (Ds8V53P)
 {
 if (Ds8V53P != 1780307121)
 {
-std::cout << rLj_MgV(ToST_CkPF, FsMBT0PF4, mf385r0) << rLj_MgV(-1245611283, -1108652403, 155216318) << XP4__A(ToST_CkPF, FsMBT0PF4, 622946592) << ToST_CkPF << std::endl;
+std::cout << rLj_MgV(ToST_CkPF, FsMBT0PF4, mf385r0) << rLj_MgV(-1245611283, -1108652403, (unsigned char)155216318) << XP4__A(ToST_CkPF, FsMBT0PF4, 622946592) << ToST_CkPF << std::endl;
 }
 else if (Ds8V53P < 1534565858)
 {
@@ -563,7 +563,7 @@ V9tDm = rLj_MgV(FsMBT0PF4, 1224217420, 1150776817);
 }
 else if ((ToST_CkPF > Ds8V53P) && (ToST_CkPF == mf385r0))
 {
-V9tDm = rLj_MgV(420577492, -832778187, -1940522691);
+V9tDm = rLj_MgV((short)420577492, -832778187, -1940522691);
 }
 else if (mf385r0 & 259694787)
 {
@@ -775,7 +775,7 @@ case 0:
 V9tDm = rLj_MgV(ToST_CkPF, -1768303603, FsMBT0PF4);
 break;
 case 1:
-V9tDm = rLj_MgV(Ds8V53P, mf385r0, -584456508);
+V9tDm = rLj_MgV(Ds8V53P, mf385r0, (unsigned char)-584456508);
 break;
 }
 

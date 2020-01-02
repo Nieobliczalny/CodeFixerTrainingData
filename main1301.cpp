@@ -23,7 +23,7 @@ int main(void)
  unsigned int Zlh36iHh6;
  Zlh36iHh6 = 1570436347;
   unsigned char  B86O;
-  B86O  =  -712248779;
+  B86O  =  (unsigned char)-712248779;
   unsigned short  x14_;
   x14_  =  -1962332915;
 	unsigned short int	qkKv4gq9tK;
@@ -35,7 +35,7 @@ int main(void)
  long double sD7Hhx8eY_;
  sD7Hhx8eY_ = -1440448363;
   unsigned short int  U9Ve8Ui8l;
-  U9Ve8Ui8l  =  1725007261;
+  U9Ve8Ui8l  =  (unsigned short)1725007261;
   unsigned long long  l156F;
   l156F  =  155437960;
   double  J3ds60xd;
@@ -49,7 +49,7 @@ int main(void)
   unsigned int  T06fc2Qjl;
   T06fc2Qjl  =  -1911883827;
  short int n_FZ46Lb;
- n_FZ46Lb = -395692925;
+ n_FZ46Lb = (short)-395692925;
     unsigned long long    QHiQJj;
     QHiQJj    =    -900620000;
  char LYs6x;
@@ -59,7 +59,7 @@ int main(void)
  unsigned short int qK30Il_zf;
  qK30Il_zf = 266120550;
     unsigned char    OiFS;
-    OiFS    =    1242343386;
+    OiFS    =    (unsigned char)1242343386;
     unsigned short    QoeSy;
     QoeSy    =    -184654308;
 	long double	VBx1;
@@ -79,7 +79,7 @@ int main(void)
     unsigned short    td4478;
     td4478    =    0;
   unsigned short  Qz03EXXoMr;
-  Qz03EXXoMr  =  -1214945594;
+  Qz03EXXoMr  =  (unsigned short)-1214945594;
 	float	WV__4zmJ;
 	WV__4zmJ	=	-1269674181;
     long    th8aB;
@@ -89,7 +89,7 @@ int main(void)
     unsigned int    IC70nXX0N;
     IC70nXX0N    =    -955135309;
   unsigned short  W9bF3MKv;
-  W9bF3MKv  =  931501986;
+  W9bF3MKv  =  (unsigned short)931501986;
     unsigned short    C1w0B;
     C1w0B    =    1336372802;
  unsigned char wM02qLYu;
@@ -99,7 +99,7 @@ int main(void)
  char PhlwMmd3;
  PhlwMmd3 = -1274859986;
   unsigned char  d0WXSl_;
-  d0WXSl_  =  1352297114;
+  d0WXSl_  =  (unsigned char)1352297114;
 	long long	dx26330;
 	dx26330	=	-484076060;
   long long  HxG4;
@@ -111,7 +111,7 @@ int main(void)
     unsigned long    oN32;
     oN32    =    295838285;
  short int bUcRjPL;
- bUcRjPL = 937853105;
+ bUcRjPL = (short)937853105;
     char    ylHu4i;
     ylHu4i    =    -15870506;
     short int    kuo8;
@@ -121,7 +121,7 @@ int main(void)
     unsigned long    vIC9AlWv;
     vIC9AlWv    =    -1700747895;
 	unsigned short int	A7L0_Acr3;
-	A7L0_Acr3	=	22028487;
+	A7L0_Acr3	=	(unsigned short)22028487;
  unsigned char XB_ao;
  XB_ao = 1767289561;
   long  S15c;
@@ -131,7 +131,7 @@ int main(void)
 	unsigned short int	ay9J21WS8e;
 	ay9J21WS8e	=	506031501;
  short rXcOg116;
- rXcOg116 = -68903976;
+ rXcOg116 = (short)-68903976;
   int  h21_BB7;
   h21_BB7  =  1766030144;
 	long long	xv8_FK;
@@ -141,7 +141,7 @@ int main(void)
   short  co_0Mj5W;
   co_0Mj5W  =  -644932407;
  short int GHqyX;
- GHqyX = 280140361;
+ GHqyX = (short)280140361;
  short q24HWwMW0C;
  q24HWwMW0C = 666347792;
  unsigned long long R4ls1G5MW;
@@ -151,7 +151,7 @@ int main(void)
  unsigned short int YVF44oB7;
  YVF44oB7 = 738676481;
 	short int	udv6r;
-	udv6r	=	-1277894138;
+	udv6r	=	(short)-1277894138;
   short  BD3BMCez;
   BD3BMCez  =  -882547109;
     short    W4B7RM;
@@ -190,7 +190,7 @@ case 6:
 td4478 = YS2E4xg(1110994561, T22NSFai4, oN32);
 break;
 case 7:
-td4478 = YS2E4xg(U9Ve8Ui8l, 637944133, g65_v08);
+td4478 = YS2E4xg(U9Ve8Ui8l, (char)637944133, g65_v08);
 break;
 default:
 td4478 = YS2E4xg(-964167276, -244478550, 140070981);
@@ -218,7 +218,7 @@ td4478 = YS2E4xg(DVge4B, 1116559193, 1321893540);
 }
 else if (qip584 > 631072849)
 {
-td4478 = YS2E4xg(275447546, q24HWwMW0C, -1014167885);
+td4478 = YS2E4xg((unsigned short)275447546, q24HWwMW0C, -1014167885);
 }
 else if (e1Ty > 1830951052)
 {
@@ -230,7 +230,7 @@ td4478 = YS2E4xg(jetr4, -1784470132, wM02qLYu);
 }
 else if (LYs6x != -1369869038)
 {
-td4478 = YS2E4xg(-534193923, n_FZ46Lb, J3ds60xd);
+td4478 = YS2E4xg((unsigned short)-534193923, n_FZ46Lb, J3ds60xd);
 }
 else if (((d0WXSl_ < 217310189) || (bUcRjPL > qkKv4gq9tK)) || (XB_ao & 1576514255))
 {
@@ -320,7 +320,7 @@ for (int j = 0; j < 1; j++)
 {
 try
 {
-td4478 = YS2E4xg(-1950174737, 569119820, 844685258);
+td4478 = YS2E4xg(-1950174737, (char)569119820, 844685258);
 }
 catch (int& errorCode)
 {
@@ -341,7 +341,7 @@ td4478 = YS2E4xg(OiFS, ylHu4i, I3Kg);
 }
 
 B86O = YS2E4xg(2134362143, ylHu4i, I3Kg) / td4478;
-td4478 = YS2E4xg(1443528058, -1428906727, -1740375934);
+td4478 = YS2E4xg((unsigned short)1443528058, -1428906727, -1740375934);
 for (int i = 5; i >= 0; --i)
 {
 for (int j = 2; j >= 0; --j)

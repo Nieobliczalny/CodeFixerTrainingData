@@ -134,7 +134,7 @@ case 0:
 P47qIlZ_ = voHag9siTH(P47qIlZ_, -708706729);
 break;
 case 1:
-y7s6MN6QFb = y9dV(-200393571);
+y7s6MN6QFb = y9dV((char)-200393571);
 break;
 case 2:
 EVK97gi0 -= 1389609985;
@@ -222,7 +222,7 @@ case 0:
 r5_XR = yzwbs_XeZe(1265721803, 930984541, pC80);
 break;
 case 1:
-P6Eli0A4 = yzwbs_XeZe(1837695016, -376680248, r5_XR);
+P6Eli0A4 = yzwbs_XeZe((short)1837695016, -376680248, r5_XR);
 break;
 case 2:
 ympoUmWtL -= 703373546;
@@ -237,7 +237,7 @@ break;
 
 if (y7s6MN6QFb == Vw84k1)
 {
-std::cout << y9dV(-334328989) << EVK97gi0 << yzwbs_XeZe(3101211, -1883237311, r5_XR) << std::endl;
+std::cout << y9dV(-334328989) << EVK97gi0 << yzwbs_XeZe((short)3101211, -1883237311, r5_XR) << std::endl;
 }
 else
 {
@@ -368,7 +368,7 @@ y7s6MN6QFb = y9dV(-558588349);
 
 y7s6MN6QFb = y9dV(TG34dxn);
 TG34dxn = P6Eli0A4 / y9dV(TG34dxn);
-hX1I = voHag9siTH(399495464, -1356208698);
+hX1I = voHag9siTH(399495464, (unsigned char)-1356208698);
 S0M_2ok5BE = (unsigned int)(EAB_7erzm1);
 
 {
@@ -390,7 +390,7 @@ EAB_7erzm1 <<= 2106696694;
 break;
 case 'c':
 case 'C':
-y7s6MN6QFb = y9dV(7337700);
+y7s6MN6QFb = y9dV((char)7337700);
 break;
 case 'd':
 case 'D':

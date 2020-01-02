@@ -20,6 +20,7 @@ int XA735lit5(short int zhf7MHiWq1,unsigned long long B6Cb9p,unsigned int L0oWQu
 
 int main()
 {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
  short R8SU8cNP = 1884817278, L0gSf = -708872485, s_7ohc = 412828298, TUcL3 = 2104448096, xdyn_y15s = -46997636, oA_OiPN3i = -2070879949, kxh0Py = -882762677, FPpic8r3 = -1341058711, KMft95 = -1988342324, PyJFOu = 1830858658, QB9S31c = 1974843319, k1Kw = 1843427290, vBm_ = 1435078752, G8m34tfk = 1096104068, E0fd4_hc = 1808409389, F3e8j76 = -396912203, QZeN8o9_o = 1288476490, c2kn85j_m = -1098853572, eI5JH6VBY = -1602244370, mY0yUqi5_f = 1357358058, BrqNTqkWey = 1508535539, yDImUPN = 207458860, mR5m = 947722915, rC93W5 = 827513389;
   short int  VnrsVwU5  =  0,  sTwqQ87NO  =  0,  k4_K8_M  =  0;
 
@@ -78,7 +79,7 @@ else if (xdyn_y15s > E0fd4_hc)
 switch (F3e8j76)
 {
 case 0:
-k4_K8_M = XA735lit5(2087359430, 841215244, -952720184, KMft95);
+k4_K8_M = XA735lit5((short)2087359430, 841215244, -952720184, KMft95);
 break;
 case 1:
 sTwqQ87NO = XA735lit5(-1721412759, PyJFOu, 1834742698, k4_K8_M);
@@ -355,7 +356,7 @@ vBm_ = (int)abs(oA_OiPN3i);
 int i = 4;
 do
 {
-k4_K8_M = XA735lit5(-1074084557, mR5m, -1465371377, -1934457128);
+k4_K8_M = XA735lit5(-1074084557, mR5m, -1465371377, (char)-1934457128);
 i--;
 }
 while (i >= 0);
@@ -387,7 +388,7 @@ mY0yUqi5_f = (int)abs(G8m34tfk);
 }
 else if ((QB9S31c > -927623454) && ((c2kn85j_m <= KMft95) || (R8SU8cNP >= -1439175464)))
 {
-k4_K8_M = XA735lit5(k4_K8_M, 845790165, QB9S31c, 1278881515);
+k4_K8_M = XA735lit5(k4_K8_M, 845790165, QB9S31c, (char)1278881515);
 }
 else if (E0fd4_hc <= FPpic8r3)
 {
@@ -476,7 +477,7 @@ else if (E0fd4_hc != mY0yUqi5_f)
 {
 if (sTwqQ87NO > -255171180)
 {
-R8SU8cNP = r3RyEN(R8SU8cNP, 1074836418);
+R8SU8cNP = r3RyEN(R8SU8cNP, (unsigned short)1074836418);
 }
 else
 {
@@ -548,7 +549,7 @@ case 'd':
 xdyn_y15s = CH_n_8(xdyn_y15s, -1675898348, oA_OiPN3i, BrqNTqkWey);
 break;
 case 'e':
-PyJFOu = XA735lit5(xdyn_y15s, 2106752087, -529495374, -1272057670) * 1507480371;
+PyJFOu = XA735lit5(xdyn_y15s, 2106752087, -529495374, (char)-1272057670) * 1507480371;
 break;
 case 'f':
 FPpic8r3 = xdyn_y15s + TUcL3;

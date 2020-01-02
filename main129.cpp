@@ -414,7 +414,7 @@ else if (S3Rv9wX6 >= ElEd)
 {
 for (int j = 0; j < 2; ++j)
 {
-std::cout << S47h(719099114) << std::endl;
+std::cout << S47h((short)719099114) << std::endl;
 }
 }
 else if (PqAx_xz)
@@ -539,7 +539,7 @@ case 'a':
 Hgpu04Z = S47h(-114449947);
 break;
 case 'b':
-v_GGb = S47h(278534887);
+v_GGb = S47h((short)278534887);
 break;
 case 'c':
 WTw08zU8Q9 = (int)abs(cnZ9e0d6X);
@@ -561,7 +561,7 @@ else if (Y39F)
 {
 if ((toEL90b0p < 884522318) && ((toEL90b0p > XN3906vc) || (PqAx_xz >= -837644141)))
 {
-std::cout << "TV7e64" << "vXGmz1m1" << S47h(v_GGb) << S47h(-1691822922) << std::endl;
+std::cout << "TV7e64" << "vXGmz1m1" << S47h(v_GGb) << S47h((short)-1691822922) << std::endl;
 }
 else if (JrtBYw4 >= H2w3qn)
 {
@@ -597,7 +597,7 @@ cnZ9e0d6X = S47h(-1479813249);
 }
 else if (ga9880 != dw1_0GN)
 {
-LbDV9t5_6 = S47h(-461560234);
+LbDV9t5_6 = S47h((short)-461560234);
 }
 else
 {
@@ -731,7 +731,7 @@ case 'c':
 eL1o_286VY *= 961476628;
 break;
 case 'd':
-cnZ9e0d6X = S47h(-1654387562);
+cnZ9e0d6X = S47h((short)-1654387562);
 break;
 case 'e':
 ElEd = cnZ9e0d6X / OBVGd42;

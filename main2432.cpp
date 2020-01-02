@@ -15,7 +15,7 @@ unsigned short int	i6X5J8o(short	grKH_7zpz)
 
 short int	ThV45F9r()
 {
-	return	-1091512744;
+	return	(short)-1091512744;
 }
 
 unsigned short  VU02dWADW(unsigned char  aYRO,short int  D9n8jlL5P,unsigned int  V3L_L,unsigned long long  wu_eu9,int  a_13)
@@ -53,7 +53,7 @@ switch (BsZ3)
 {
 case 'a':
 case 'A':
-IOOzm2B60 = VU02dWADW(-1136622680, -520172330, 345036045, 1538295215, BsZ3);
+IOOzm2B60 = VU02dWADW(-1136622680, (short)-520172330, 345036045, 1538295215, BsZ3);
 break;
 case 'b':
 case 'B':
@@ -279,7 +279,7 @@ SU508 = i6X5J8o(-220135870);
 break;
 case 'b':
 case 'B':
-BsZ3 = VU02dWADW(BsZ3, 1553541637, tf8nEcJ8B, o3mU6, -1795969032);
+BsZ3 = VU02dWADW(BsZ3, (short)1553541637, tf8nEcJ8B, o3mU6, -1795969032);
 break;
 case 'c':
 case 'C':
@@ -344,7 +344,7 @@ case 0:
 UHfHOt3kb1 = VU02dWADW(UHfHOt3kb1, 1706639388, BsZ3, o3mU6, iKqTKN5fXm);
 break;
 case 1:
-IOOzm2B60 = VU02dWADW(99957697, o3mU6, W0c0JZ7qWy, -1636226150, SU508);
+IOOzm2B60 = VU02dWADW((unsigned char)99957697, o3mU6, W0c0JZ7qWy, -1636226150, SU508);
 break;
 case 2:
 SU508 = (int)ceil(b9JvqwSn);
@@ -435,7 +435,7 @@ case 'a':
 tf8nEcJ8B = (int)abs(UHfHOt3kb1) + (856453664);
 break;
 case 'b':
-IOOzm2B60 = VU02dWADW(860463785, -990946292, GUOj3NbQ, b9JvqwSn, tf8nEcJ8B);
+IOOzm2B60 = VU02dWADW(860463785, (short)-990946292, GUOj3NbQ, b9JvqwSn, tf8nEcJ8B);
 break;
 case 'c':
 o3mU6 -= UHfHOt3kb1;
@@ -465,7 +465,7 @@ catch (int& errorCode)
 BDA5u3mGQ *= UHfHOt3kb1;
 }
 
-iKqTKN5fXm = (iKqTKN5fXm) ? SU508 : VU02dWADW(-662830973, -1524982580, 983621157, -1742744676, -951848385);
+iKqTKN5fXm = (iKqTKN5fXm) ? SU508 : VU02dWADW(-662830973, (short)-1524982580, 983621157, -1742744676, -951848385);
 {
 int i = 0;
 while (i < 10)

@@ -266,7 +266,7 @@ C26f54 = sUbX9RtYFM(286885);
 }
 else
 {
-C26f54 = sUbX9RtYFM(-345787141);
+C26f54 = sUbX9RtYFM((char)-345787141);
 }
 }
 }

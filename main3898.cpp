@@ -28,7 +28,7 @@ int main() {
   double  pB4V7MwO2Y;
   pB4V7MwO2Y  =  1396261133;
   unsigned short  eI2Y_i6;
-  eI2Y_i6  =  1377841537;
+  eI2Y_i6  =  (unsigned short)1377841537;
  float E3L4pZDLH;
  E3L4pZDLH = -572588053;
 
@@ -56,7 +56,7 @@ if (U1bQdX2(lyXO8w28GQ, 112958988, 1602470831, -3217064) == 0)
 
 cout << tmN1R2ih(196990400, -1544209325, 1214893282, uR3B4zI, -539339552) << JSDI_0NyKw << "oHa_Op77" << endl;
 
-cout << "PVz2q4FizZ" << tmN1R2ih(-1895317229, 1726256359, JSDI_0NyKw, uR3B4zI, -1963623390) << endl;
+cout << "PVz2q4FizZ" << tmN1R2ih((short)-1895317229, 1726256359, JSDI_0NyKw, uR3B4zI, -1963623390) << endl;
 for (int i = 5; i >= 0; i--)
 {
 try

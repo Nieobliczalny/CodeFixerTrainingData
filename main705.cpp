@@ -19,7 +19,7 @@ unsigned short    VCss553hA(unsigned char    c2YaE7,short    Ze6m);
 int main(int argc, char** argv) {
   unsigned int  OL0o  =  -1168961361;
     short int    YX99KQU_V4    =    -483032906;
-	unsigned short	s_eTo8	=	747261587;
+	unsigned short	s_eTo8	=	(unsigned short)747261587;
   short  Oc4Be109vG  =  -1822773748;
 	short int	tD0556_	=	-225842210;
   long long  U6ratrjN3  =  2018205283;
@@ -36,7 +36,7 @@ int main(int argc, char** argv) {
     double    y3OHG4s    =    -2035219171;
 	short int	OP_tpxo2E	=	0;
 	unsigned long long	qT1ZFg	=	-1449757286;
-	char	L7P2h72I2	=	-1548369469;
+	char	L7P2h72I2	=	(char)-1548369469;
     int    ARCS2    =    1869631792;
   short  lP8c4J0  =  -1549355619;
   unsigned short int  v9W_bSf1P  =  -817685358;
@@ -46,7 +46,7 @@ int main(int argc, char** argv) {
     int    ak2Z7UP    =    0;
   short int  yrpUc5gz  =  562268623;
 	short int	Rh2ws	=	-1929124877;
-  unsigned short int  VtPkD3Bv  =  2129248997;
+  unsigned short int  VtPkD3Bv  =  (unsigned short)2129248997;
 	unsigned char	eMlabwoXYt	=	1040745522;
  float qM41kl = -330998786;
 	float	y_FZb0	=	1968862041;
@@ -58,7 +58,7 @@ int main(int argc, char** argv) {
  unsigned long Bn3YD = 0;
  double qiz8k8b0e = 829499328;
     unsigned short int    DDymOow    =    31683283;
-	unsigned char	qu32mXgNs	=	-372332741;
+	unsigned char	qu32mXgNs	=	(unsigned char)-372332741;
     char    F3xuNw0VPq    =    -1468520679;
     int    W2uc76    =    0;
  short Pt10VKx = 1054493949;
@@ -86,7 +86,7 @@ Gs7l3cwj %= U6ratrjN3;
 }
 else
 {
-N_q2 = LE1_C(1341664613, 136962195);
+N_q2 = LE1_C(1341664613, (unsigned char)136962195);
 }
 }
 else if (SF79jf19I > drxs8xF)
@@ -162,7 +162,7 @@ case 5:
 N_q2 >>= tD0556_;
 break;
 case 6:
-Ee_Hb = c9a29(-1779476291, NA717, v9W_bSf1P, -1709893804, 544341328);
+Ee_Hb = c9a29(-1779476291, NA717, v9W_bSf1P, (unsigned char)-1709893804, 544341328);
 break;
 case 7:
 drxs8xF = u4E7OmYNg(Oc4Be109vG, 726552276, b0iN);
@@ -337,6 +337,6 @@ short int    LE1_C(unsigned short int    k26vz_B6,unsigned char    Tx_i8)    {
 
 unsigned short    VCss553hA(unsigned char    c2YaE7,short    Ze6m)
 {
-    return    2006379143;
+    return    (unsigned short)2006379143;
 }
 

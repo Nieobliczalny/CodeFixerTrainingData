@@ -79,6 +79,6 @@ unsigned short  iq4Q1ZH(unsigned long long  Z67epQ,long long  Q377_t,unsigned sh
 
 char NsJ8XLDX9(unsigned long long N7o00gvtZ7,short int x75DR4K,unsigned short int YPZsRmJ570)
 {
- return -647808408;
+ return (char)-647808408;
 }
 

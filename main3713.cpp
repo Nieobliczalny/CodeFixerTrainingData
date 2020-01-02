@@ -19,6 +19,7 @@ long long	C_wHO(unsigned long	f0zbVx,unsigned short	czyet9C1,long long	ljqu1D1Oc
 int main(int argc, char** argv)
 {
 	unsigned short int	frwFHoBc	=	0,	oO0zNFX011	=	0,	lK8Ox	=	0,	W3F6Tt5	=	0;
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
   short int  x8v3r_e7It  =  595178228,  VZ4lg  =  -484220656,  ZQXa029  =  884742646,  P3yXFNLA  =  -1789900373,  P2Yaz9t  =  112461794,  jTJ2oNNSZ  =  -607972015,  NACiloxxt  =  466631617,  B900HjP548  =  1046955723,  hOn6I3fK4n  =  319074695,  x8YT7  =  -496563796,  R67S  =  2005344935,  f6Cpb  =  358098476,  sA39h9AC  =  420933047,  U_2hj  =  215321601,  C_pit0JsDy  =  104388509,  l626031  =  -1979127842,  N7MbrqaTYx  =  -4939719,  SlBS5L0le1  =  2009661576,  STR1GZ_A  =  442707075,  MiHiP  =  1211658384,  YC_j7P3q25  =  -724989164,  yboIX2JN45  =  -1519890714,  Q5t8_7AYl  =  -1294001316,  snx5k2Z8p  =  -364087578,  S51_9k  =  1406592245,  hNG55J  =  2070893661,  OVrLD  =  1911232376,  nJqaV  =  -1677369094,  M4M94WFfS  =  -1000429509,  uGq90p_w  =  -786516160,  I9d11h  =  718534599,  es31wk  =  -550486885,  vH45iyObt  =  -1178878971,  yha19  =  -2062625308,  avkI7_H67  =  201753177,  m0Ywe  =  1064237080,  r_t_GG  =  -1974071093,  fJ2xvR0  =  -357188645,  SrqXB4fO  =  -1136855502,  hD311ths  =  -1411786320,  R9G4hQrkt  =  -1209174420,  z6e0_65N  =  -789905640,  s8TFj7v  =  -657520930,  X8A4yu  =  -626611880,  fEu7X330  =  1534179268,  i_t79v  =  764108915,  O40gJ8lmQV  =  1990820974,  bKDdSo4  =  104656605;
 
 for (int i = 2; i >= 0; --i)
@@ -39,7 +40,7 @@ if (x8YT7 >= 400718506)
 switch (lK8Ox)
 {
 case 'a':
-fEu7X330 = C_wHO(fEu7X330, 2030880653, uGq90p_w, -2025952100, OVrLD);
+fEu7X330 = C_wHO(fEu7X330, 2030880653, uGq90p_w, (unsigned char)-2025952100, OVrLD);
 break;
 case 'b':
 snx5k2Z8p = r_t_GG - 1455912946;
@@ -57,7 +58,7 @@ case 'f':
 vH45iyObt = O40gJ8lmQV & 1884485581;
 break;
 case 'g':
-I9d11h = C_wHO(I9d11h, 726148365, yha19, hOn6I3fK4n, -679758566);
+I9d11h = C_wHO(I9d11h, 726148365, yha19, hOn6I3fK4n, (short)-679758566);
 break;
 case 'h':
 r_t_GG = NACiloxxt | hD311ths;
@@ -101,7 +102,7 @@ case 7:
 M4M94WFfS++;
 break;
 case 8:
-nJqaV = C_wHO(1401395576, x8v3r_e7It, bKDdSo4, -1984173805, -1735546298);
+nJqaV = C_wHO(1401395576, x8v3r_e7It, bKDdSo4, (unsigned char)-1984173805, -1735546298);
 break;
 case 9:
 hNG55J = (int)abs(yboIX2JN45);
@@ -187,7 +188,7 @@ vH45iyObt = X8A4yu ^ 293480531;
 }
 else
 {
-i_t79v = C_wHO(390033573, 1843711241, U_2hj, 561673996, 909247942);
+i_t79v = C_wHO(390033573, 1843711241, U_2hj, (unsigned char)561673996, 909247942);
 }
 for (int i = 0; i < 4; i++)
 {
@@ -221,7 +222,7 @@ j--;
 switch (z6e0_65N)
 {
 case 0:
-x8YT7 = C_wHO(791483617, 1887060190, C_pit0JsDy, z6e0_65N, 1350487312);
+x8YT7 = C_wHO(791483617, 1887060190, C_pit0JsDy, z6e0_65N, (short)1350487312);
 break;
 case 1:
 f6Cpb = C_wHO(f6Cpb, -211984682, W3F6Tt5, -1905203203, avkI7_H67);
@@ -312,7 +313,7 @@ case 1:
 S51_9k = C_wHO(S51_9k, -2024943646, uGq90p_w, x8YT7, yboIX2JN45);
 break;
 case 2:
-snx5k2Z8p = C_wHO(S51_9k, -1417725311, 1210597538, 663661988, 2080600999) - 1092443489;
+snx5k2Z8p = C_wHO(S51_9k, (unsigned short)-1417725311, 1210597538, 663661988, 2080600999) - 1092443489;
 break;
 case 3:
 O40gJ8lmQV = (int)abs(jTJ2oNNSZ);
@@ -322,7 +323,7 @@ frwFHoBc = g_bYtr(sA39h9AC, STR1GZ_A);
 break;
 }
 }
-	R67S = C_wHO(707120169, 786122513, -2084038372, -1691487410, hD311ths) / i;
+	R67S = C_wHO(707120169, 786122513, -2084038372, (unsigned char)-1691487410, hD311ths) / i;
 try
 {
 r_t_GG = hOn6I3fK4n + jTJ2oNNSZ;
@@ -380,7 +381,7 @@ while (j < 7)
 {
 try
 {
-R67S = C_wHO(-1015355397, STR1GZ_A, 1640324288, 1472352123, -311180527) << 1205978222;
+R67S = C_wHO(-1015355397, STR1GZ_A, 1640324288, 1472352123, (short)-311180527) << 1205978222;
 }
 catch (int& errorCode)
 {
@@ -426,7 +427,7 @@ else
 {
 if (O40gJ8lmQV <= fEu7X330)
 {
-yha19 = C_wHO(1482860086, snx5k2Z8p, x8v3r_e7It, 1741736744, W3F6Tt5);
+yha19 = C_wHO(1482860086, snx5k2Z8p, x8v3r_e7It, (unsigned char)1741736744, W3F6Tt5);
 }
 }
 }
@@ -441,7 +442,7 @@ else
 {
 if ((SlBS5L0le1 < -2063334067) || ((x8v3r_e7It) || (YC_j7P3q25 >= r_t_GG)))
 {
-YC_j7P3q25 = C_wHO(-596493472, -1700817434, P3yXFNLA, 1621896207, hD311ths);
+YC_j7P3q25 = C_wHO(-596493472, -1700817434, P3yXFNLA, (unsigned char)1621896207, hD311ths);
 }
 }
 }

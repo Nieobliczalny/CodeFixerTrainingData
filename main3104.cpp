@@ -24,7 +24,7 @@ int main() {
 	short int	FuW0t6yICe;
 	FuW0t6yICe	=	875374540;
  short udEyb28s;
- udEyb28s = -1486290243;
+ udEyb28s = (short)-1486290243;
  long double c7yv_t;
  c7yv_t = -371842021;
 	long	I9JfC;
@@ -34,7 +34,7 @@ int main() {
 	unsigned short	ThLp4;
 	ThLp4	=	810320008;
 	unsigned short	yZ2U;
-	yZ2U	=	-589460362;
+	yZ2U	=	(unsigned short)-589460362;
 	float	cHa07dxY;
 	cHa07dxY	=	-963513399;
  unsigned long nrpZhj9_;
@@ -48,7 +48,7 @@ int main() {
   char  q04v2TmX2;
   q04v2TmX2  =  116222068;
 	short	p7rcm5BoK;
-	p7rcm5BoK	=	2111529452;
+	p7rcm5BoK	=	(short)2111529452;
  float H0wL7c7_Ii;
  H0wL7c7_Ii = -1575027824;
 	unsigned short	kcfl;

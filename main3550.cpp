@@ -64,7 +64,7 @@ int main()
     unsigned short int    hfWO;
     hfWO    =    0;
 
-std::cout << "Owil38" << O0ZX(-1540156368, 915180664, -291546256) << "FkT5fr_H" << std::endl;
+std::cout << "Owil38" << O0ZX(-1540156368, 915180664, (unsigned char)-291546256) << "FkT5fr_H" << std::endl;
 
 u2b_m = (long double)(KMZfSc0);
 
@@ -74,7 +74,7 @@ p3291 = (int)floor(qWVoC2X);
 }
 else if ((B6daj >= -17102407) && ((V12Tm0n38h < -85460030) && (MoWgr6x < -843208584)))
 {
-std::cout << x9IhB5h(245795205, 772689078, 270507818) << ji2sx0 << sC4M9 << Loo06M6jQ << x9IhB5h(-104418179, 934043703, -1701618117) << std::endl;
+std::cout << x9IhB5h(245795205, 772689078, 270507818) << ji2sx0 << sC4M9 << Loo06M6jQ << x9IhB5h((char)-104418179, 934043703, -1701618117) << std::endl;
 }
 else if ((zj7AQ9i7o > 1732909963) && (Df7v66k > sqzn5yDo0))
 {
@@ -295,7 +295,7 @@ u2b_m = (int)abs(o7K1);
 break;
 case 'h':
 case 'H':
-o7K1 = O0ZX(-361168037, -1314195958, 610839207);
+o7K1 = O0ZX(-361168037, -1314195958, (unsigned char)610839207);
 break;
 }
 gohJfg = (long double)(F140U);
@@ -381,7 +381,7 @@ switch (hfWO)
 {
 case 'a':
 case 'A':
-ntRagj = O0ZX(ntRagj, 121485158, -109820883);
+ntRagj = O0ZX(ntRagj, 121485158, (unsigned char)-109820883);
 break;
 case 'b':
 case 'B':
@@ -453,7 +453,7 @@ else if ((hfWO & -622733362) && (hfWO & -46788204))
 {
 if (sC4M9 <= 1123685644)
 {
-ZL2n = O0ZX(1971471225, 2059287846, -2072510370) / Y56B;
+ZL2n = O0ZX(1971471225, 2059287846, (unsigned char)-2072510370) / Y56B;
 }
 else
 {

@@ -29,7 +29,7 @@ unsigned short int	CCIf3n(long long	AI6UHib2,unsigned long	DP_NcV,short int	ejQw
 
 short	WvCJ1TL(long long	cCAf8,char	u8621jSj5)
 {
-	return	980035830;
+	return	(short)980035830;
 }
 
 unsigned long IZj_r() {
@@ -58,7 +58,7 @@ int main(int argc, char** argv) {
  short int tGOm_I8c8U;
  tGOm_I8c8U = -818452475;
   short  oxPq61l;
-  oxPq61l  =  -1221910880;
+  oxPq61l  =  (short)-1221910880;
     double    nOE_7k1rM;
     nOE_7k1rM    =    1112480367;
  unsigned long long u3syClR;
@@ -78,7 +78,7 @@ int main(int argc, char** argv) {
   int  vJn30Ms_0;
   vJn30Ms_0  =  -1966468552;
  short l49DRy_D;
- l49DRy_D = 1774895347;
+ l49DRy_D = (short)1774895347;
 	unsigned char	I1rNs;
 	I1rNs	=	-1849198136;
     unsigned int    eaIyi4_1b;
@@ -88,7 +88,7 @@ int main(int argc, char** argv) {
     float    kag5ebw;
     kag5ebw    =    -1764963872;
     char    k5WH8K4Xi;
-    k5WH8K4Xi    =    -137469875;
+    k5WH8K4Xi    =    (char)-137469875;
   long  MbBx;
   MbBx  =  923553403;
 	unsigned long	MGNSz;
@@ -98,7 +98,7 @@ int main(int argc, char** argv) {
 	char	HC8cnWL20;
 	HC8cnWL20	=	-360392791;
 	unsigned short int	el39BT;
-	el39BT	=	-1932312256;
+	el39BT	=	(unsigned short)-1932312256;
   unsigned short  rlFA8n;
   rlFA8n  =  -955476004;
  unsigned int A0j566L_;
@@ -114,7 +114,7 @@ int main(int argc, char** argv) {
     float    LoSbW7I7Sm;
     LoSbW7I7Sm    =    -2105432231;
     short    bL8YZ;
-    bL8YZ    =    20737034;
+    bL8YZ    =    (short)20737034;
 	long long	V66rtMsZ;
 	V66rtMsZ	=	0;
  unsigned int x3g3;
@@ -130,7 +130,7 @@ int main(int argc, char** argv) {
   unsigned int  RwWlW;
   RwWlW  =  -4456704;
   short  N6dUx63EY;
-  N6dUx63EY  =  -1197449164;
+  N6dUx63EY  =  (short)-1197449164;
 	short	Ds8V66oo;
 	Ds8V66oo	=	589122610;
  float NE0s6eK_2;
@@ -146,7 +146,7 @@ int main(int argc, char** argv) {
     float    qkou65T67L;
     qkou65T67L    =    -547452096;
     short    rGY9BYHJw;
-    rGY9BYHJw    =    1660289936;
+    rGY9BYHJw    =    (short)1660289936;
 	unsigned char	GNGg;
 	GNGg	=	2126641928;
  float fnuF;
@@ -215,7 +215,7 @@ int j = 0;
 do
 {
 j++;
-OH7edW = CCIf3n(OH7edW, -2069287116, 153822113, -714575182, u3syClR);
+OH7edW = CCIf3n(OH7edW, -2069287116, 153822113, (char)-714575182, u3syClR);
 }
 while (j < 4);
 }
@@ -270,7 +270,7 @@ for (int i = 3; i >= 0; --i)
 {
 cout << LoSbW7I7Sm << R4rgL << WvCJ1TL(G0m33vy, A0j566L_) << endl;
 }
-cout << "F_ZbCz" << Wobdz8MCN(628663078, -187484370, EySyqU, 428259827) << WvCJ1TL(2106928193, -1261071901) << VSQu << endl;
+cout << "F_ZbCz" << Wobdz8MCN(628663078, (char)-187484370, EySyqU, 428259827) << WvCJ1TL(2106928193, -1261071901) << VSQu << endl;
 
 cout << "Cciw9" << "F28_50" << IZj_r() << AIdGD_71mb << endl;
 
@@ -324,7 +324,7 @@ case 4:
 nOE_7k1rM = (int)ceil(fnuF);
 break;
 case 5:
-V66rtMsZ = Wobdz8MCN(kag5ebw, 286689842, -1978617188, -1925597780);
+V66rtMsZ = Wobdz8MCN(kag5ebw, (char)286689842, -1978617188, -1925597780);
 break;
 default:
 TFc51R3s = Wobdz8MCN(BfeTv_ge52, -1037377984, sMXJ, 55718595);

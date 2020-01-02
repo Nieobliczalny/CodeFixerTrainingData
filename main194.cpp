@@ -398,7 +398,7 @@ case 'd':
 lcg9qP6R = (I3ppLl473 >= 710162984) ? O4_7106(-803509688, 416759699, -2099645234) : f435g;
 break;
 case 'e':
-qz1_cAi = b7CaZgH81B(656035088, fJOpurCao, -1945718128, TbjGk99K_I);
+qz1_cAi = b7CaZgH81B((short)656035088, fJOpurCao, -1945718128, TbjGk99K_I);
 break;
 }
 
@@ -472,6 +472,6 @@ unsigned int	O4_7106(unsigned long long	FJQ_,short int	Y5mEI,unsigned long	j14s)
 
 short int    rNoxz49(unsigned long    K9m9)
 {
-    return    -2011907063;
+    return    (short)-2011907063;
 }
 

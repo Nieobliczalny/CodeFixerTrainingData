@@ -18,6 +18,7 @@ using std::floor;
 int main()
 {
   short int  mzZ_5Eh640  =  0;
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
     unsigned char    DIH3b6q21    =    2054171039,    NY_pY3    =    1789288308,    RDR0X    =    108542323,    R5V7mzn    =    995417065,    Z33237Y7BI    =    1701450170,    NcJl7    =    671684175,    y1JDe86pFd    =    -2058128828,    ec_D_    =    -72876295,    IMyNhg    =    855392026,    KAjO    =    1959852964,    usZ8    =    -362765015,    A5pP305    =    -1658952495,    CPXdQ    =    1412969271,    mTYS    =    -631155214,    h2q56a    =    -1037415689,    y23k_g2    =    2126300683,    z6Yg    =    -488884682,    LXzb    =    -986936337,    iFI7_Xce9W    =    2112054799,    q0R_6pQs5    =    1450209560,    UBWJde    =    313249963,    v5s83JD5Y7    =    210592024,    AK6d5AIz2    =    1500044312,    c4JR    =    213879130,    q9Nd    =    -1220854642,    adTY1hjjw2    =    -1818667041,    Vi6OWFAL    =    1046184469,    AS1gz    =    -651066321,    KUlB    =    1483806083,    us523Fh    =    -213655434;
 
 {

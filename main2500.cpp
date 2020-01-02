@@ -71,7 +71,7 @@ ajwb74sW1t >>= 1819604522;
 }
 else if ((kf3J9N6PO <= 1620025644) && (XD2v6D4 <= rNSa7x1))
 {
-Fx0bHQCv = zn56OK046s(-1500867375, 1612224233) & wJZg5;
+Fx0bHQCv = zn56OK046s((char)-1500867375, 1612224233) & wJZg5;
 }
 else
 {
@@ -83,7 +83,7 @@ else if ((sfQZzi > T6qj1) || (BhY70g6E_ >= 1846136476))
 switch (P62y)
 {
 case 'a':
-M057 = zn56OK046s(-1180871021, rNSa7x1);
+M057 = zn56OK046s((char)-1180871021, rNSa7x1);
 break;
 case 'b':
 zebzAD = zn56OK046s(154662541, -1207359874);
@@ -161,7 +161,7 @@ else if (b86d3TGpHP >= -2085325993)
 {
 try
 {
-oKSnU52n = zn56OK046s(610064916, rNSa7x1);
+oKSnU52n = zn56OK046s((char)610064916, rNSa7x1);
 }
 catch (int& errorCode)
 {
@@ -190,7 +190,7 @@ else if (fgQm < cS40)
 {
 if (czri1kL3)
 {
-oKSnU52n = zn56OK046s(1351682578, 546307705);
+oKSnU52n = zn56OK046s((char)1351682578, 546307705);
 }
 else if ((gywJ != -34148003) || ((kPWB >= -1333274407) && (rWx4Csy <= sfQZzi)))
 {
@@ -202,7 +202,7 @@ zebzAD = zn56OK046s(zebzAD, -894378567);
 }
 else if (LQS87x9 <= fgQm)
 {
-M057 = zn56OK046s(1882040667, gywJ);
+M057 = zn56OK046s((char)1882040667, gywJ);
 }
 else if (oXP0 & -1599949148)
 {
@@ -273,7 +273,7 @@ M057 = zn56OK046s(1958621244, 1807959494);
 }
 else if ((O468Cno) && (QOlO9H <= O468Cno))
 {
-os8GZsLx = zn56OK046s(-761416095, M057) / S0PyPn446Q;
+os8GZsLx = zn56OK046s((char)-761416095, M057) / S0PyPn446Q;
 }
 else if (x2mlQu1SY & O468Cno)
 {
@@ -647,7 +647,7 @@ M057 = zn56OK046s(-2007714337, 499977738);
 }
 else if (O097L_bbZ_ > -1772480504)
 {
-M057 = zn56OK046s(-510357746, T6qj1);
+M057 = zn56OK046s((char)-510357746, T6qj1);
 }
 else
 {
@@ -727,7 +727,7 @@ case 3:
 sfQZzi++;
 break;
 case 4:
-M057 = zn56OK046s(-1386012070, 1717458488);
+M057 = zn56OK046s((char)-1386012070, 1717458488);
 break;
 case 5:
 zebzAD = zn56OK046s(Q709oa, 236746038);
@@ -827,7 +827,7 @@ else
 {
 if (mv4YbvVt < DX2a0)
 {
-zebzAD = zn56OK046s(1643197169, OLJA_a86);
+zebzAD = zn56OK046s((char)1643197169, OLJA_a86);
 }
 else if (sfQZzi <= xXrYJi)
 {
@@ -897,7 +897,7 @@ case 1:
 M057 = zn56OK046s(1567256873, 225949289);
 break;
 case 2:
-oKSnU52n = zn56OK046s(-1817860396, -1993796886);
+oKSnU52n = zn56OK046s((char)-1817860396, -1993796886);
 break;
 case 3:
 oKSnU52n = zn56OK046s(wJZg5, 16410532);

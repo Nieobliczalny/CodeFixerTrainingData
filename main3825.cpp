@@ -252,7 +252,7 @@ case 'b':
 B8uy = wV_FJQ4OVX(B8uy, -1257340372, 1456982534, YxF_5av3);
 break;
 case 'c':
-cIf0 = (sm0A5 == 1346098663) ? RDw3j_xy(-412531495, 1550353783, Wjbi0ti) : KGU5t_5;
+cIf0 = (sm0A5 == 1346098663) ? RDw3j_xy((short)-412531495, 1550353783, Wjbi0ti) : KGU5t_5;
 break;
 case 'd':
 I2l0379SnN = (int)ceil(Xm8b69YYv);
@@ -390,7 +390,7 @@ b5Vf7Q2 = (int)floor(N5Q8N);
 
 if (X01d6BU >= 1474977121)
 {
-D7P7E = RDw3j_xy(-1707320879, 1443942853, 153302385);
+D7P7E = RDw3j_xy((short)-1707320879, 1443942853, 153302385);
 }
 else
 {

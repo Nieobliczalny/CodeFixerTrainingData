@@ -19,7 +19,7 @@ int main()
     int    rfp3    =    609794229;
 	short int	oNAv8__C	=	1346997965;
     unsigned long    QtQohf    =    0;
-    char    WU7tMcIUJ4    =    35093613;
+    char    WU7tMcIUJ4    =    (char)35093613;
  double Zb_j7C = -431177712;
     unsigned short int    F_Zh9    =    0;
 	short	r7Zh	=	0;
@@ -32,7 +32,7 @@ int main()
 switch (oNAv8__C)
 {
 case 0:
-r7Zh = zay3_(1521180169, WU7tMcIUJ4, Zb_j7C, 71746624, f_00el8_);
+r7Zh = zay3_(1521180169, WU7tMcIUJ4, Zb_j7C, (char)71746624, f_00el8_);
 break;
 case 1:
 oNAv8__C = (int)abs(r7Zh) + (1792943343);
@@ -73,7 +73,7 @@ Zb_j7C = (int)floor(KD_IC92jv);
 }
 else if (Xri058 > 1125289599)
 {
-f_00el8_ = kjb4nb(1022102097, 326980145, Xri058, PM0d89w3Zt, -442719721);
+f_00el8_ = kjb4nb(1022102097, (unsigned short)326980145, Xri058, PM0d89w3Zt, -442719721);
 }
 else
 {

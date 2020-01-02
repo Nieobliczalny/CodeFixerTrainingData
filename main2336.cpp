@@ -220,7 +220,7 @@ case 'b':
 u2Vrrh0lN = (int)abs(RVx0wrI);
 break;
 case 'c':
-Z8qwVWGo = IMVW7AplGr(1188965076, FW5So87_, -1992993191, C54z_BjW, 689008857);
+Z8qwVWGo = IMVW7AplGr(1188965076, FW5So87_, (short)-1992993191, C54z_BjW, 689008857);
 break;
 case 'd':
 ElXJr -= lRz8wq5k7c;

@@ -65,7 +65,7 @@ catch (int& errorCode)
 wIp8 = (int)abs(hg1p5X);
 }
 
-Vo4SQ291JT = Pv9bPv(-235574967, 640794191, 516698176, uNZW2V8, -57383273);
+Vo4SQ291JT = Pv9bPv(-235574967, 640794191, (char)516698176, uNZW2V8, -57383273);
 if (lnxMvEM >= X5Qa2lh9o)
 {
 for (int j = 7; j >= 0; j--)
@@ -87,7 +87,7 @@ case 2:
 dIK06_6dw -= h30gC;
 break;
 case 3:
-W_gojEZt1 = Pv9bPv(699292348, TLAQ0ZtXL, -2117583286, 1122419829, Vo4SQ291JT) * 738638792;
+W_gojEZt1 = Pv9bPv(699292348, TLAQ0ZtXL, -2117583286, (short)1122419829, Vo4SQ291JT) * 738638792;
 break;
 default:
 J6rfRm = (int)floor(Ock110V7);
@@ -124,7 +124,7 @@ DUyE00_6 = (Q8WQ7T92 > 1277972026) ? -357047000 : -1751417525;
 }
 else if ((ZzO7F <= vhjx_OZU) && (crM1o >= -247307367))
 {
-H1ao1T_fV = Pv9bPv(H1ao1T_fV, 1820344379, dE6_I, 1772619015, AQcS7m8);
+H1ao1T_fV = Pv9bPv(H1ao1T_fV, 1820344379, dE6_I, (short)1772619015, AQcS7m8);
 }
 else
 {
@@ -181,7 +181,7 @@ if (zSPYH <= pza66S)
 {
 try
 {
-RaXd1z9Qj = Pv9bPv(1116251616, Vo4SQ291JT, -1873104885, 1989607152, Rp_0);
+RaXd1z9Qj = Pv9bPv(1116251616, Vo4SQ291JT, -1873104885, (short)1989607152, Rp_0);
 }
 catch (int& errorCode)
 {
@@ -199,7 +199,7 @@ if (z75J() == 0)
 {
 	c29n896Y94 = xvI8I2Y4p / z75J();
 }
-vbUs5SRB = Pv9bPv(-504971843, yQQyX_x5R, TJBn, -1426543649, M8_6lPFl86);
+vbUs5SRB = Pv9bPv(-504971843, yQQyX_x5R, TJBn, (short)-1426543649, M8_6lPFl86);
 Be149a3KQ = (int)ceil(uQ780eQ);
 
 Q8WQ7T92 *= crM1o;
@@ -276,7 +276,7 @@ switch (sl42)
 {
 case 'a':
 case 'A':
-ZD7hH = Pv9bPv(ZD7hH, pjvthN, -1735593438, -1507641398, Vo4SQ291JT);
+ZD7hH = Pv9bPv(ZD7hH, pjvthN, -1735593438, (short)-1507641398, Vo4SQ291JT);
 break;
 case 'b':
 case 'B':
@@ -369,7 +369,7 @@ czOn0HArC1 = pza66S - DUyE00_6;
 break;
 }
 
-std::cout << "t2XV1P52" << Pv9bPv(1097180141, Vo4SQ291JT, 979443348, 2030957041, H_9bM1d) << std::endl;
+std::cout << "t2XV1P52" << Pv9bPv(1097180141, Vo4SQ291JT, 979443348, (short)2030957041, H_9bM1d) << std::endl;
 
 TLAQ0ZtXL = (int)abs(H_9bM1d);
 
@@ -465,7 +465,7 @@ g68f90wO0 = Pv9bPv(g68f90wO0, g9FUhZ, tI6p, -569463994, 503607168);
 }
 else
 {
-z_E6T = Pv9bPv(644936386, -1717620826, 1255636373, -574153255, sl42);
+z_E6T = Pv9bPv(644936386, (short)-1717620826, 1255636373, -574153255, sl42);
 }
 }
 else if (Fb6EvQ2CSF == 123045167)

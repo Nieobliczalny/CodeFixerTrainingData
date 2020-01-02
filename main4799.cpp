@@ -30,7 +30,7 @@ int main(void)
     double    tI260krO;
     tI260krO    =    793335837;
   unsigned short  y0b0;
-  y0b0  =  1092567526;
+  y0b0  =  (unsigned short)1092567526;
     long double    gwmS5Q;
     gwmS5Q    =    -2146416830;
     short    i7aDy0JI1;
@@ -42,7 +42,7 @@ int main(void)
     char    cHpbqc_B31;
     cHpbqc_B31    =    -230297766;
     short    AyP0856;
-    AyP0856    =    -18505852;
+    AyP0856    =    (short)-18505852;
   unsigned char  n6tra4;
   n6tra4  =  -140714133;
   unsigned int  r8mu;
@@ -54,7 +54,7 @@ int main(void)
     float    ZI30Y2_75h;
     ZI30Y2_75h    =    -1682447549;
 	short	kz3wDBC;
-	kz3wDBC	=	1322795841;
+	kz3wDBC	=	(short)1322795841;
 	unsigned short int	qH6SBo;
 	qH6SBo	=	281403791;
  unsigned char HksZpu_;
@@ -66,7 +66,7 @@ int main(void)
     short int    wKvNOWq;
     wKvNOWq    =    -459361566;
     short    DABNTCp;
-    DABNTCp    =    -459165917;
+    DABNTCp    =    (short)-459165917;
 	unsigned short int	cSGyx;
 	cSGyx	=	-1442998145;
     char    K1eqi;
@@ -76,7 +76,7 @@ int main(void)
   unsigned short int  ACvv8m;
   ACvv8m  =  -431318149;
   unsigned short  q4lqB45Pn;
-  q4lqB45Pn  =  490811532;
+  q4lqB45Pn  =  (unsigned short)490811532;
 	unsigned short int	r6st0pO6c;
 	r6st0pO6c	=	862830700;
  unsigned char NWaA;
@@ -95,7 +95,7 @@ int main(void)
 switch (wKvNOWq)
 {
 case 0:
-xmBJfxt = GzQK1(-132509070, H9x01Bk, xmBJfxt, 639798137, -991921956);
+xmBJfxt = GzQK1(-132509070, H9x01Bk, xmBJfxt, (unsigned char)639798137, -991921956);
 break;
 case 1:
 HksZpu_ = GzQK1(F2X1vg5Z, tI260krO, ACvv8m, y_99, 202547548);
@@ -107,7 +107,7 @@ case 3:
 HksZpu_ = GzQK1(1493339440, r6st0pO6c, 1332375307, 1997412561, ZI30Y2_75h);
 break;
 case 4:
-i7aDy0JI1 = GzQK1(y_99, kz3wDBC, -1843126673, OEJk4ebtRR, NWaA);
+i7aDy0JI1 = GzQK1(y_99, kz3wDBC, (unsigned short)-1843126673, OEJk4ebtRR, NWaA);
 break;
 default:
 ZI30Y2_75h = (int)floor(K1MSDHZI);
@@ -157,7 +157,7 @@ switch (y_99)
 {
 case 'a':
 case 'A':
-i7aDy0JI1 = GzQK1(407028126, i7aDy0JI1, 1755910996, -966136654, SHiIepwM);
+i7aDy0JI1 = GzQK1(407028126, i7aDy0JI1, 1755910996, (unsigned char)-966136654, SHiIepwM);
 break;
 case 'b':
 case 'B':
@@ -177,7 +177,7 @@ xmBJfxt = GzQK1(DABNTCp, xmBJfxt, ypykS, d_Xpoo, 58904293);
 break;
 case 'f':
 case 'F':
-i7aDy0JI1 = GzQK1(-869170199, i7aDy0JI1, -832522911, 1326593895, kz3wDBC);
+i7aDy0JI1 = GzQK1(-869170199, i7aDy0JI1, -832522911, (unsigned char)1326593895, kz3wDBC);
 break;
 }
 

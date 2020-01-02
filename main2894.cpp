@@ -126,7 +126,7 @@ if ((e4Tg6) || (l08NCc4 < -1971471055))
 switch (iHPG2)
 {
 case 0:
-rb74D0J = DcsSaf2H8v(443442156, 870624360, R9vVc_4ue6, l08NCc4, -976850982);
+rb74D0J = DcsSaf2H8v(443442156, (char)870624360, R9vVc_4ue6, l08NCc4, -976850982);
 break;
 case 1:
 Y1K2f7 = aDR7X9EX90(-1813592545);
@@ -192,7 +192,7 @@ Uwo3Wx6 <<= pJHlEcu7TY;
 break;
 case 'e':
 case 'E':
-horbZ6 = DcsSaf2H8v(1295056605, 1004540435, e4Tg6, -425214669, qNC54ie8);
+horbZ6 = DcsSaf2H8v(1295056605, (char)1004540435, e4Tg6, -425214669, qNC54ie8);
 break;
 case 'f':
 case 'F':
@@ -275,7 +275,7 @@ l1n106_Y1 = TaKVx1T_Y + iHPG2;
 }
 else if ((j91qvHuO < 1565969671) || ((a72T9m31A_ >= e74j) || (F0YKD98g3 != Y7XK_ybP)))
 {
-RyO69X5qp_ = Y16_5b0(2111246637, pJHlEcu7TY, 602314132, LFbCKddQCD);
+RyO69X5qp_ = Y16_5b0(2111246637, pJHlEcu7TY, (unsigned char)602314132, LFbCKddQCD);
 }
 else if (((rb74D0J & LFbCKddQCD) || (Dv7V6j5 >= -1622142137)) && (W3jocC >= -2087249337))
 {
@@ -294,7 +294,7 @@ if (XY70NNK_ < -433613334)
 {
 if (a72T9m31A_ > -1002264899)
 {
-std::cout << Y16_5b0(m3XXe0_5a, -1140486192, -899131573, 75104769) << XuCaluE10 << std::endl;
+std::cout << Y16_5b0(m3XXe0_5a, -1140486192, (unsigned char)-899131573, 75104769) << XuCaluE10 << std::endl;
 }
 else
 {
@@ -387,7 +387,7 @@ else
 {
 try
 {
-Dv7V6j5 = Cb817K(152340029, SHcGR3, F0YKD98g3, -1420862210, XY70NNK_);
+Dv7V6j5 = Cb817K((unsigned char)152340029, SHcGR3, F0YKD98g3, -1420862210, XY70NNK_);
 }
 catch (int& errorCode)
 {

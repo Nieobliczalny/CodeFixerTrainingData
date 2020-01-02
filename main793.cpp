@@ -40,7 +40,7 @@ int main(void)
     short int    uEve0C11;
     uEve0C11    =    1721223193;
     unsigned short    wh7p;
-    wh7p    =    -139419032;
+    wh7p    =    (unsigned short)-139419032;
 	unsigned long	OK6x_QN9pj;
 	OK6x_QN9pj	=	0;
   unsigned short  Iw6by2d6;
@@ -62,7 +62,7 @@ int main(void)
  float jiSY37a90;
  jiSY37a90 = -1279504311;
   short int  cTC5;
-  cTC5  =  1196719684;
+  cTC5  =  (short)1196719684;
  unsigned short int C0q_9;
  C0q_9 = -2095740066;
   long  BqhTJwml1e;
@@ -72,7 +72,7 @@ int main(void)
  int c7_RP;
  c7_RP = -616815535;
   unsigned char  vaYm;
-  vaYm  =  1330635367;
+  vaYm  =  (unsigned char)1330635367;
 	short int	zwM6f022;
 	zwM6f022	=	0;
   short int  BYIma9w58r;
@@ -174,7 +174,7 @@ long long zp6bNS(unsigned short int otU71l8,unsigned long long yZ9qy2TqB,char sh
 }
 
 char	Ug94Z_iOQ(unsigned long	QGCPfR46tF,unsigned char	mh2lGNo8_v)	{
-	return	-171267609;
+	return	(char)-171267609;
 }
 
 short int eUwP2(unsigned int AS_7zHB69j)
@@ -184,6 +184,6 @@ short int eUwP2(unsigned int AS_7zHB69j)
 
 short int	tLrA19fG(unsigned char	nu72b,short	Qvum4_0S96)
 {
-	return	-410760222;
+	return	(short)-410760222;
 }
 

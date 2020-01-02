@@ -40,7 +40,7 @@ int main(int argc, char** argv)
     unsigned short int    w3AtW6fA;
     w3AtW6fA    =    -1091197515;
 	unsigned short int	jv59v_;
-	jv59v_	=	1253778243;
+	jv59v_	=	(unsigned short)1253778243;
     unsigned char    Ps61BQ0yp4;
     Ps61BQ0yp4    =    1257427924;
  double F3_76a_9g;
@@ -58,7 +58,7 @@ int main(int argc, char** argv)
     char    B7Px0;
     B7Px0    =    1998049597;
  unsigned short Uhn_R;
- Uhn_R = -741468398;
+ Uhn_R = (unsigned short)-741468398;
  unsigned int N0QiFL;
  N0QiFL = -734153099;
  short int Vq7N;
@@ -137,7 +137,7 @@ if (ki9UDDj)
 {
 Ps61BQ0yp4 = k5Y65v(Ps61BQ0yp4, Uhn_R, aR5PH3);
 }
-std::cout << "V3hys" << CIiF_3(-1411114135, -767595327, aR5PH3, -1606875172, 1240648388) << k5Y65v(-1128504750, Uhn_R, -189370177) << b35v2_5PU(-1691395765, Uhn_R, 2010880329, TK_02Ote, HhX2) << std::endl;
+std::cout << "V3hys" << CIiF_3(-1411114135, -767595327, aR5PH3, -1606875172, 1240648388) << k5Y65v(-1128504750, Uhn_R, (unsigned short)-189370177) << b35v2_5PU(-1691395765, Uhn_R, 2010880329, TK_02Ote, HhX2) << std::endl;
 
 for (int i = 10; i >= 0; --i)
 {
@@ -197,6 +197,6 @@ char  CIiF_3(long  M3GtXA,unsigned int  uKhaX,short int  BkmPeHSa,long long  a9X
 }
 
 char    b35v2_5PU(unsigned long long    z6CFNj1Tc,long long    f4_2m5y8,long long    ar9_Czy5l5,int    YPoXS,unsigned char    b7_6qVsAZ0)    {
-    return    947261864;
+    return    (char)947261864;
 }
 

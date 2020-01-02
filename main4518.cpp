@@ -26,7 +26,7 @@ unsigned long  Ec1_a(unsigned short int  BRci68,short int  S6W63hLl,unsigned sho
 }
 
 short	p159Mc6et4(unsigned short int	j0n_7Fx4AB,long long	x8nh28t8i,unsigned short	V_8n2Uah9,long	tMtHz)	{
-	return	-1305909062;
+	return	(short)-1305909062;
 }
 
 short JS29hq(unsigned short int b74I,int SZ84d,char dHDZn104_0) {
@@ -49,7 +49,7 @@ while (i < 8);
 
 if ((Jn8d3TY / l2ajz0) != -1146062860)
 {
-J2Z36nA = k_1Tf_1_34 / Ec1_a(QUZ0YT0, pP165qHz, -1435277538, -1269709168);
+J2Z36nA = k_1Tf_1_34 / Ec1_a(QUZ0YT0, pP165qHz, (unsigned short)-1435277538, -1269709168);
 }
 switch (T669g1uF7e)
 {
@@ -169,7 +169,7 @@ O3i0Vz9HM = FK5d89c(O3i0Vz9HM);
 break;
 case 'f':
 case 'F':
-aZ482_OP2 = Ec1_a(559466453, 1777257465, 1884928677, -363032699);
+aZ482_OP2 = Ec1_a(559466453, (short)1777257465, 1884928677, -363032699);
 break;
 case 'g':
 case 'G':
@@ -190,7 +190,7 @@ DDO6 = p159Mc6et4(DDO6, -626370541, -814582086, pP165qHz);
 }
 else if (((QUZ0YT0 > LnWJpkW) || (LnWJpkW > -1839373048)) && (mpEa08ezH9 == 643820802))
 {
-std::cout << "VsfEL88K" << LoCXGV97 << JS29hq(-1631366005, 1686477447, AOi161Z) << Jn8d3TY << std::endl;
+std::cout << "VsfEL88K" << LoCXGV97 << JS29hq((unsigned short)-1631366005, 1686477447, AOi161Z) << Jn8d3TY << std::endl;
 }
 else
 {
@@ -233,7 +233,7 @@ T669g1uF7e = pP165qHz / 1715117460;
 }
 else if (l2ajz0 <= QUZ0YT0)
 {
-l2ajz0 = Ec1_a(VSm3a, -134099456, qXqr1wjB7, -887082564);
+l2ajz0 = Ec1_a(VSm3a, (short)-134099456, qXqr1wjB7, -887082564);
 }
 else
 {
@@ -283,7 +283,7 @@ for (int j = 0; j < 4; j++)
 int k = 0;
 do
 {
-LnWJpkW = JS29hq(1300017058, TFAr0N58f, -512546052);
+LnWJpkW = JS29hq(1300017058, TFAr0N58f, (char)-512546052);
 k++;
 }
 while (k < 4);
@@ -312,7 +312,7 @@ case 'e':
 Jn8d3TY = (int)abs(AOi161Z);
 break;
 case 'f':
-S2W8R = p159Mc6et4(-1058459612, 471163008, -1936464729, LoCXGV97);
+S2W8R = p159Mc6et4(-1058459612, 471163008, (unsigned short)-1936464729, LoCXGV97);
 break;
 case 'g':
 LnWJpkW--;
@@ -400,7 +400,7 @@ VSm3a = (O3i0Vz9HM >= lJPRlB4kDx) ? mpEa08ezH9 : S2W8R;
 }
 }
 O3i0Vz9HM = (long)(IFf8b2B4);
-std::cout << Ec1_a(S2W8R, 577147741, qXqr1wjB7, -2068248572) << "wuKj6DP2Z" << VSm3a << std::endl;
+std::cout << Ec1_a(S2W8R, 577147741, qXqr1wjB7, (unsigned short)-2068248572) << "wuKj6DP2Z" << VSm3a << std::endl;
 mpEa08ezH9 = VQx6c(-1525854587, l2ajz0, LnWJpkW, 1087962528, 1919366672);
 if ((J2Z36nA <= lJPRlB4kDx) || (TFAr0N58f <= S2W8R))
 {

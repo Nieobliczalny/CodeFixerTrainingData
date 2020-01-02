@@ -15,6 +15,7 @@ long  BURo95FK(long  jQ_8rI)  {
 }
 
 int main(int argc, char** argv) {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
     unsigned char    e4iTm    =    -59247808,    JvZu3k    =    -1767067829,    n44sf9    =    -473917678,    tauNPletvj    =    -1568822956,    J_upNePCkq    =    -270765236,    TnifE7YDgh    =    -1863175601,    Z8jD6xDs    =    1878971431,    C8uBHLz    =    -1688882981,    u9fdwrx2sJ    =    -1693611054,    Qhfx    =    554482426,    hNT282    =    1446660726,    IwhQvg    =    704358995,    NprX    =    -790746752,    Ml1zFiB0A    =    -385157182,    Ue9zeK    =    -715798342,    GC4qCsI9Hg    =    -1700292949,    u4Z32E    =    322807175,    j43_n8EK    =    1355485106,    JJ888KeW6    =    941679927,    spgdg3n0b    =    -886190111,    bb3z1C1mvC    =    -1875976668,    L8Sj2_72R    =    -1277292913,    jL6tI_SAfa    =    272997756,    RB68CR    =    -58490358,    FZRw_F1w9    =    1319498791,    wY8wRex4I    =    2141169323,    Uge1jl6Fp9    =    -852740774,    cnbLYLyA    =    -763366482,    YS3font    =    505765585,    hH8xrMAke    =    918043711,    uQZwEDC13z    =    482109412,    S1n1_28LA    =    1017560635,    kWx_y1t    =    -1473116855,    VwKxeWJ7v9    =    1157004670,    d4g3    =    872779403,    ikS99wPE6k    =    1030624532,    BueK1HPj    =    1723936183;
   int  q_OGsg0t  =  0,  N3RV99IgI  =  0,  p66N1I  =  0;
 

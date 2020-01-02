@@ -19,7 +19,7 @@ long long	L_yW9(short	djS2K7,unsigned char	nk79mxI3)
 }
 
 short    f__xzW(long    TzQ57,long long    fxB_,long    P4Az,int    J56p_F)    {
-    return    1756533645;
+    return    (short)1756533645;
 }
 
 short int	nxeXGsZTbJ(unsigned char	t9CwUrKm)	{
@@ -42,7 +42,7 @@ int main(int argc, char** argv) {
 	unsigned long long	at037z75t	=	-1765575339;
  char jzEx6B9 = -1313359727;
   long  k_K13x07E  =  -1700961762;
-  unsigned short int  G9_7zd_2  =  1428962231;
+  unsigned short int  G9_7zd_2  =  (unsigned short)1428962231;
 	unsigned int	bR9NX07	=	-1020078407;
     long long    CK144i    =    -134636714;
     long long    q14I66    =    941508632;
@@ -55,7 +55,7 @@ int main(int argc, char** argv) {
 	char	g3FK	=	-483154125;
   int  x_zws  =  1125667907;
   long  dee671ffV2  =  296573549;
-    unsigned short    Qs8pB0tRB    =    1784649602;
+    unsigned short    Qs8pB0tRB    =    (unsigned short)1784649602;
 
 if ((q14I66 / G9GJp1) == 1224082097)
 {
@@ -107,7 +107,7 @@ case 3:
 G9_7zd_2 = feZ24tWT5 / 217093779;
 break;
 case 4:
-dee671ffV2 = bEUL6(-948263261, 1890027432);
+dee671ffV2 = bEUL6(-948263261, (unsigned char)1890027432);
 break;
 case 5:
 WCakWK935e = f__xzW(WCakWK935e, C7756, -1124910834, at037z75t);

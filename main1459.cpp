@@ -32,7 +32,7 @@ int main(void)
   unsigned long  Fv704A2aj_;
   Fv704A2aj_  =  -434140820;
     char    I5M7w44;
-    I5M7w44    =    -1455632976;
+    I5M7w44    =    (char)-1455632976;
  double dWCK;
  dWCK = 1711758235;
     short    eFP_p_lU42;
@@ -48,7 +48,7 @@ int main(void)
 	float	Zh7RW3;
 	Zh7RW3	=	-1214461426;
 	short	zQP2;
-	zQP2	=	-1191456483;
+	zQP2	=	(short)-1191456483;
   long long  tXFq;
   tXFq  =  -1723057478;
  long double X1tYxCou;

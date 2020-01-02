@@ -302,7 +302,7 @@ eDnfq = ZUD4(iYI_KM, -742227098);
 --i;
 }
 }
-std::cout << ZUD4(iYI_KM, 837112418) << Ygf5pZH(1115399066, z42u7il_2H) << std::endl;
+std::cout << ZUD4(iYI_KM, (unsigned short)837112418) << Ygf5pZH(1115399066, z42u7il_2H) << std::endl;
 
 {
 int i = 3;
@@ -479,7 +479,7 @@ F_MSfNJG = ZUD4(-227076293, -1746555531);
 Tba28hb = Ygf5pZH(od9_, 957250152);
 if ((t5O_f7d == dou47M) && (F_MSfNJG < b55kW))
 {
-cd_30Lhj1G = ZUD4(-1321300315, -2137378670);
+cd_30Lhj1G = ZUD4(-1321300315, (unsigned short)-2137378670);
 }
 else if ((eDnfq > dou47M) || (GCAXiHMP <= dou47M))
 {

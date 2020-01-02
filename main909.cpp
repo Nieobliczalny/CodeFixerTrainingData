@@ -24,7 +24,7 @@ char	fplL79R(unsigned long long	ik96)	{
 int main(int argc, char** argv)
 {
   unsigned char  WpcM7j1D_y  =  0;
- short int njaMinw = -641197152;
+ short int njaMinw = (short)-641197152;
  unsigned long g351t4re7 = 0;
 	short int	cjr6899S	=	0;
 	short	xF1dwF8	=	0;
@@ -293,7 +293,7 @@ case 3:
 njaMinw = fplL79R(cjr6899S);
 break;
 case 4:
-njaMinw = (njaMinw != xbjS0F_t5M) ? -809901630 : -553181107;
+njaMinw = (njaMinw != xbjS0F_t5M) ? (short)-809901630 : -553181107;
 break;
 case 5:
 njaMinw = WpcM7j1D_y % 2040917813;

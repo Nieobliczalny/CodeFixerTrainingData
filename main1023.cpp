@@ -18,7 +18,7 @@ int main() {
 	long double	ujR_fL1	=	420370869;
  unsigned long long bU0DY = 560552427;
     unsigned long long    YrXb3zplr    =    684310984;
-  char  mf1fy  =  881980264;
+  char  mf1fy  =  (char)881980264;
     double    gDYXhjV4    =    -2145070495;
 	short int	r1__	=	1476994746;
  unsigned long x6NVvhA = 590348871;
@@ -28,7 +28,7 @@ int main() {
   char  E34d  =  -716856402;
  unsigned int a945_ = 505159041;
 	unsigned char	CCum	=	-1310138334;
-    short    i012S5    =    853260604;
+    short    i012S5    =    (short)853260604;
 	long long	o611722	=	-515107628;
 	unsigned long long	BfGYZ08	=	217025865;
     short    R4G_9p    =    1664957295;
@@ -42,7 +42,7 @@ int main() {
     long    SxOEsV    =    1119640105;
 	long double	T8Bg	=	1642595761;
  short b2wN6HgP9s = 1682447155;
-    short int    n3PH    =    -242605638;
+    short int    n3PH    =    (short)-242605638;
 	unsigned long long	UC9QsU7	=	-1268622609;
   short  PXm5010W  =  1202632788;
  unsigned short pKYK = -899594742;
@@ -55,7 +55,7 @@ int main() {
     short    P3oz1gkc    =    -666340315;
     unsigned int    bo7XT    =    787526630;
 	long	l987T5	=	-1581681236;
-	unsigned short int	Zs5OsNJE	=	1305900138;
+	unsigned short int	Zs5OsNJE	=	(unsigned short)1305900138;
     long    bXKtrL_    =    205061723;
  long long TE_h8 = 1074234545;
     float    fiESXbnS    =    -1340689070;
@@ -65,7 +65,7 @@ int main() {
 	short int	u7OY_	=	-2078500313;
   short int  vAMxqF  =  0;
   long  LM68kO  =  1286327124;
-    unsigned short int    Oz0OWn    =    -106660893;
+    unsigned short int    Oz0OWn    =    (unsigned short)-106660893;
  unsigned long long NKbG_4xBr = 545557529;
   char  PfY7_  =  1391020227;
     unsigned int    S00CR__    =    1649954966;
@@ -76,7 +76,7 @@ int main() {
     int    jN_trw1o_    =    -426503255;
     double    K6MlO    =    -644790278;
     char    W7C9    =    -1319806790;
-    unsigned short int    gWQ_m_y    =    -1574587107;
+    unsigned short int    gWQ_m_y    =    (unsigned short)-1574587107;
 	short	bsvkM1uc7	=	373509413;
     float    PGAPzBUcH1    =    1170776807;
     long long    KCjDlkEG    =    -1169504036;

@@ -307,7 +307,7 @@ case 4:
 CKl8j = iRM2zhF(CKl8j, -1074808927);
 break;
 case 5:
-i_XYqf6s6 = iRM2zhF(1485511212, U5LYj4);
+i_XYqf6s6 = iRM2zhF((unsigned char)1485511212, U5LYj4);
 break;
 default:
 NEfZ = dQe63jDH56();

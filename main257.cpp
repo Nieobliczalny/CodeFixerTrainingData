@@ -14,7 +14,7 @@ short int	LrnZBd3R6r(short	U89SLDlv)	{
 
 char  C6tGX43S_m(int  oH5YK2gH)
 {
-  return  -1633881597;
+  return  (char)-1633881597;
 }
 
 unsigned long Dp5_Nz8U(long long yIgwR3Qt3,unsigned short f20dpAET) {
@@ -36,7 +36,7 @@ int main(void)
  short int jxR3;
  jxR3 = 0;
  short vVg18;
- vVg18 = -549261112;
+ vVg18 = (short)-549261112;
   short int  T_71ER_5;
   T_71ER_5  =  -590351890;
 	long	ma6L;
@@ -46,7 +46,7 @@ int main(void)
   long double  B5pr;
   B5pr  =  -1704904865;
  unsigned char mkt7_3U1p;
- mkt7_3U1p = 1801574196;
+ mkt7_3U1p = (unsigned char)1801574196;
   short int  XNG_;
   XNG_  =  1487952403;
  char RvQha;
@@ -72,7 +72,7 @@ R9R_kq330_ = oYr8hIiW3Z / jg2n5S_1D;
 
 std::cout << oYr8hIiW3Z << "Ek8ErI" << jxR3 << std::endl;
 
-std::cout << baiu8(XNG_, Z3dJP, -630471653, -1818033908) << B5pr << std::endl;
+std::cout << baiu8(XNG_, Z3dJP, (short)-630471653, -1818033908) << B5pr << std::endl;
 
 KTP3 = (int)floor(B5pr);
 
@@ -123,7 +123,7 @@ case 2:
 KTP3 = R9R_kq330_ | mkt7_3U1p;
 break;
 case 3:
-KTP3 = baiu8(2042165975, -65214954, -920546941, 382370559);
+KTP3 = baiu8((unsigned char)2042165975, -65214954, -920546941, 382370559);
 break;
 case 4:
 Z3dJP |= 121428650;
@@ -155,7 +155,7 @@ else
 {
 for (int k = 0; k < 6; ++k)
 {
-D25Vx_9 = baiu8(-838977410, D25Vx_9, 343551518, vVg18);
+D25Vx_9 = baiu8(-838977410, D25Vx_9, (short)343551518, vVg18);
 }
 }
 }
@@ -354,7 +354,7 @@ case 6:
 h4Z6K9 = mkt7_3U1p ^ HVG143_B;
 break;
 case 7:
-D25Vx_9 = baiu8(-326796825, jg2n5S_1D, -1356721405, -759804395);
+D25Vx_9 = baiu8(-326796825, jg2n5S_1D, (short)-1356721405, -759804395);
 break;
 }
 

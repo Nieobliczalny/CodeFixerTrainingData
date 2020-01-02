@@ -553,7 +553,7 @@ long long va4PTK(unsigned long long T3MC,unsigned int c80IqD53I,unsigned long kw
 }
 
 unsigned short    IQc0kT(unsigned long    Lv3wmCz29,long long    K4U3)    {
-    return    -321275439;
+    return    (unsigned short)-321275439;
 }
 
 short eA4_0Ti65a() {

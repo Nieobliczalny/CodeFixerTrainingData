@@ -83,7 +83,7 @@ std::cout << "lDe5507" << PHGRnD2jUT() << dZkb_s9d5I << HMN3W << std::endl;
 }
 else if (unM_8 != WpA_P5f5N)
 {
-std::cout << A2E5LWn << c5Q4_3(unM_8, -741130975, 284424711, dZkb_s9d5I, WpA_P5f5N) << "T89z1eL855" << std::endl;
+std::cout << A2E5LWn << c5Q4_3(unM_8, (unsigned short)-741130975, 284424711, dZkb_s9d5I, WpA_P5f5N) << "T89z1eL855" << std::endl;
 }
 else if (((unM_8 >= WpA_P5f5N) && (WpA_P5f5N < 1201937076)) || (A2E5LWn != -1876513202))
 {

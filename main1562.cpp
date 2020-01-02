@@ -35,7 +35,7 @@ int main(int argc, char** argv) {
 
 OnEZnDG >>= QEVeZ7E;
 cout << "wS6G" << Mejzdr5n_3 << "wKr38__x" << QeH4Z << endl;
-cout << ISt9(648687210, 1331274704, D9j6w644, -1164762135, K6wH7U57Ib) << O65m_D4m(567572862, WbdS3t2, D9j6w644, X2VGh3N, -901774930) << endl;
+cout << ISt9(648687210, 1331274704, D9j6w644, -1164762135, K6wH7U57Ib) << O65m_D4m(567572862, WbdS3t2, D9j6w644, X2VGh3N, (char)-901774930) << endl;
 
 uZ2RWaxg ^= 811607270;
 Z2359 = YzipqVRpn - c5BZJ4af;
@@ -69,7 +69,7 @@ FW_OaamIz = i6Yl5 - Ja5Su;
 break;
 case 'e':
 case 'E':
-ZQ2gx653u = x4C0o304(ZQ2gx653u, -758249259, t57PP4c, -1094751240, ELoVBb);
+ZQ2gx653u = x4C0o304(ZQ2gx653u, -758249259, t57PP4c, (short)-1094751240, ELoVBb);
 break;
 case 'f':
 case 'F':
@@ -85,7 +85,7 @@ lCk6 %= p1U_u;
 break;
 case 'i':
 case 'I':
-g69n6mW = ISt9(-2119662990, 1043764531, 1751260281, 1603193162, 108216507);
+g69n6mW = ISt9(-2119662990, 1043764531, (unsigned short)1751260281, 1603193162, 108216507);
 break;
 case 'j':
 case 'J':
@@ -178,7 +178,7 @@ else
 {
 if (tlWc7 == 1058165160)
 {
-E73JD = x4C0o304(1204318227, 1530966965, V187, -759768656, qn0HPfi2);
+E73JD = x4C0o304(1204318227, 1530966965, V187, (short)-759768656, qn0HPfi2);
 }
 else
 {
@@ -235,7 +235,7 @@ tlWc7 = (unsigned long)(Hld9_);
 cout << x4C0o304(wdjj0jT4_F, YzipqVRpn, -1774596723, FW_OaamIz, QtDkv1AX8) / ISt9(wdjj0jT4_F, -1772280156, srw6B2, FW_OaamIz, -1209452702) << endl;
 if (qD_1Vg_517 & t3e7oxR27)
 {
-g69n6mW = ISt9(1603142446, g69n6mW, -660316259, -554975416, 1110962641);
+g69n6mW = ISt9(1603142446, g69n6mW, (unsigned short)-660316259, -554975416, 1110962641);
 }
 if ((t3e7oxR27) || (Aywmbw & 640647725))
 {
@@ -273,7 +273,7 @@ case 5:
 Yq9156Z = x3O_Z | E7v1I;
 break;
 case 6:
-iDKbELq = O65m_D4m(1493730409, zZ9XN, -1398242587, WM_2qX, qn0HPfi2);
+iDKbELq = O65m_D4m(1493730409, zZ9XN, (unsigned char)-1398242587, WM_2qX, qn0HPfi2);
 break;
 case 7:
 uZ2RWaxg = x4C0o304(1708453346, -108642266, -1121195210, -923447071, srw6B2);
@@ -298,7 +298,7 @@ try
 switch (g69n6mW)
 {
 case 0:
-K6wH7U57Ib = O65m_D4m(-1426413197, -45667237, 248076875, OnEZnDG, -514760821);
+K6wH7U57Ib = O65m_D4m(-1426413197, -45667237, 248076875, OnEZnDG, (char)-514760821);
 break;
 case 1:
 Mejzdr5n_3 = O65m_D4m(-908282464, 1219100575, zZ9XN, -665944449, cb1Sl65H);
@@ -310,7 +310,7 @@ case 3:
 VX1_hZB = ISt9(qn0HPfi2, -2030743230, -1088896636, FbxQ, YzipqVRpn);
 break;
 default:
-X10yEm = x4C0o304(X10yEm, -973329692, srw6B2, 141296028, PDNI1t);
+X10yEm = x4C0o304(X10yEm, -973329692, srw6B2, (short)141296028, PDNI1t);
 break;
 }
 }
@@ -359,7 +359,7 @@ g69n6mW = ISt9(T1Xr, 222248837, -1749477018, -782828837, 1630485831);
 }
 else if ((Aywmbw <= 985443883) && ((xaOz == -144850158) && (VlzfKY > 540909467)))
 {
-WM_2qX = O65m_D4m(WM_2qX, 907482909, D9j6w644, 2066820837, -1098691427);
+WM_2qX = O65m_D4m(WM_2qX, 907482909, D9j6w644, 2066820837, (char)-1098691427);
 }
 else if (ZQ2gx653u)
 {
@@ -417,7 +417,7 @@ case 'e':
 c5BZJ4af = x4C0o304(149800714, c5BZJ4af, tJ0eRxdUS, b51ZN0, -285649420);
 break;
 case 'f':
-QlsL5e_ = O65m_D4m(-1714291542, c5BZJ4af, ELoVBb, -1091444956, 636044722);
+QlsL5e_ = O65m_D4m(-1714291542, c5BZJ4af, ELoVBb, -1091444956, (char)636044722);
 break;
 default:
 E73JD = r2m1kmX ^ 1003293001;
@@ -459,7 +459,7 @@ case 0:
 Gdfuw5 -= H5AnZ46nH;
 break;
 default:
-FbxQ = x4C0o304(FbxQ, 1962119763, K6wH7U57Ib, -1572435626, QEVeZ7E);
+FbxQ = x4C0o304(FbxQ, 1962119763, K6wH7U57Ib, (short)-1572435626, QEVeZ7E);
 break;
 }
 }
@@ -521,7 +521,7 @@ tlWc7 = Yq9156Z - 1447359931;
 }
 else
 {
-P78x = x4C0o304(278859167, 52868384, -530766554, -2008694006, -1071847794);
+P78x = x4C0o304(278859167, 52868384, -530766554, (short)-2008694006, -1071847794);
 }
 }
 else if (((srw6B2 == K24rlPCw) || (ReD0a_6X < -1520510371)) && ((Y5r9_A0neq != 1341750895) || (Aywmbw < -630856668)))
@@ -536,7 +536,7 @@ QeH4Z %= qn0HPfi2;
 }
 else
 {
-X2VGh3N = O65m_D4m(-1480516074, VlzfKY, -665848211, YzipqVRpn, 1667631217);
+X2VGh3N = O65m_D4m(-1480516074, VlzfKY, -665848211, YzipqVRpn, (char)1667631217);
 }
 }
 else if (WM_2qX <= 1395024846)

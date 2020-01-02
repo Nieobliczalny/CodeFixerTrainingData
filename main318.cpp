@@ -23,7 +23,7 @@ char I_ZZbPl() {
 
 char    vcK_C()
 {
-    return    929231267;
+    return    (char)929231267;
 }
 
 long Y7C_Q64b()
@@ -42,7 +42,7 @@ int main(void)
     unsigned int    XZCWPj8j;
     XZCWPj8j    =    424860263;
 	unsigned char	IpWo_;
-	IpWo_	=	1258516641;
+	IpWo_	=	(unsigned char)1258516641;
  unsigned long Rw46oOdpP;
  Rw46oOdpP = 904376270;
   int  gENo2;
@@ -62,7 +62,7 @@ int main(void)
  unsigned int gy_9M2eXw;
  gy_9M2eXw = -1124951393;
   unsigned short  Kf8tx;
-  Kf8tx  =  1597491378;
+  Kf8tx  =  (unsigned short)1597491378;
  unsigned int pqbqC;
  pqbqC = -1955928403;
  unsigned short dK07d_HE;

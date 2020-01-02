@@ -22,7 +22,7 @@ int main(int argc, char** argv)
   char  w3rfw;
   w3rfw  =  592070255;
 	short int	w243FsM;
-	w243FsM	=	679197212;
+	w243FsM	=	(short)679197212;
 	char	B5w6v1jG;
 	B5w6v1jG	=	0;
     long long    k8yKlO4_r;
@@ -34,7 +34,7 @@ int main(int argc, char** argv)
   short  SokZj;
   SokZj  =  -1896822820;
     short int    AdTF140V;
-    AdTF140V    =    -447726282;
+    AdTF140V    =    (short)-447726282;
 	int	BD4NaXE3Mw;
 	BD4NaXE3Mw	=	710194973;
     long double    nKomE;

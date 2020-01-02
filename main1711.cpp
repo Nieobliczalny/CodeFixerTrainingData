@@ -19,7 +19,7 @@ int  k7C59y(unsigned long  od9VjtL,unsigned int  nWHFjsrtBX,long long  p82cq1P) 
 
 short int  gBu84SWZ(unsigned int  F2v_E5V)
 {
-  return  -440380465;
+  return  (short)-440380465;
 }
 
 short int	gH8eN(unsigned short int	v7P0o,short	DvIz0U4,unsigned short int	oY__t0,short	o8bb4zG2T)
@@ -33,7 +33,7 @@ int  vq892(unsigned int  f8gwfDr4,unsigned short  vzl_fh_,unsigned long  qD_4JCf
 }
 
 int main(void) {
-    unsigned short int    v0WQ48gJ    =    -1750330507;
+    unsigned short int    v0WQ48gJ    =    (unsigned short)-1750330507;
  unsigned long long d5NYi = 2134967448;
     float    eJ5P700H    =    -1835573142;
     unsigned int    U4F1_    =    1106483926;
@@ -44,7 +44,7 @@ int main(void) {
  float nEMx0uEOvj = -967263090;
   double  qN_k8  =  -470083932;
     unsigned long    f_7rr96o    =    619611928;
-    short    gK21_K2wd6    =    -1451032989;
+    short    gK21_K2wd6    =    (short)-1451032989;
   char  T7lHXa__m  =  1477632904;
   unsigned short int  vvFg02  =  -1090780130;
 	float	XbFEl	=	-1922830158;
@@ -56,7 +56,7 @@ int main(void) {
 
 gK21_K2wd6 = (int)abs(A_29rhOh);
 
-g8s9 = -868074639 / vq892(1709308458, 1911544795, f_7rr96o, -1471601294);
+g8s9 = -868074639 / vq892(1709308458, (unsigned short)1911544795, f_7rr96o, -1471601294);
 
 XbFEl = (float)(voEpKQX);
 std::cout << gH8eN(XbFEl, pLQnN6, f_7rr96o, T7lHXa__m) << "aeBLd49Vn" << A_29rhOh << std::endl;
@@ -87,7 +87,7 @@ case 2:
 v0WQ48gJ = v0WQ48gJ ^ 664074086;
 break;
 case 3:
-eJ5P700H = gH8eN(eJ5P700H, XbFEl, -1438824996, pLQnN6);
+eJ5P700H = gH8eN(eJ5P700H, XbFEl, (unsigned short)-1438824996, pLQnN6);
 break;
 case 4:
 gK21_K2wd6 |= My9kF4;
@@ -247,7 +247,7 @@ qN_k8 = p4B73bI76(1755774126, 429368822, -151075013, -119783822, pLQnN6);
 }
 else if (pLQnN6 != 453197039)
 {
-std::cout << "CYU2j__J" << "R_IuL85" << My9kF4 << p4B73bI76(2037664519, 1141311497, 841226790, RXHJFsllr, pLQnN6) << gH8eN(qN_k8, -1548645591, 622018147, RXHJFsllr) << std::endl;
+std::cout << "CYU2j__J" << "R_IuL85" << My9kF4 << p4B73bI76(2037664519, (short)1141311497, 841226790, RXHJFsllr, pLQnN6) << gH8eN(qN_k8, -1548645591, 622018147, RXHJFsllr) << std::endl;
 }
 else if (pLQnN6 <= fiCkJ)
 {
@@ -282,7 +282,7 @@ while (j < 6);
 }
 else
 {
-std::cout << vq892(-880309264, -1457687907, 1741190686, -1187188814) << gH8eN(2104866092, 1168462248, 1114667024, RXHJFsllr) << std::endl;
+std::cout << vq892(-880309264, -1457687907, 1741190686, -1187188814) << gH8eN((unsigned short)2104866092, 1168462248, 1114667024, RXHJFsllr) << std::endl;
 }
 A_29rhOh += v0WQ48gJ;
 std::cout << "V4Bs" << RXHJFsllr << U4F1_ << "dggY99t" << std::endl;
@@ -325,7 +325,7 @@ while (k >= 0);
 }
 }
 
-std::cout << gH8eN(-1497387196, XbFEl, -1455773722, RXHJFsllr) << "Xr9nQW6ez" << gBu84SWZ(1021837392) << voEpKQX << std::endl;
+std::cout << gH8eN(-1497387196, XbFEl, (unsigned short)-1455773722, RXHJFsllr) << "Xr9nQW6ez" << gBu84SWZ(1021837392) << voEpKQX << std::endl;
 
 if ((NpDV != -1844392850) || (voEpKQX > -1308843694))
 {
@@ -350,7 +350,7 @@ else
 switch (NpDV)
 {
 case 0:
-d5NYi = gH8eN(-1031505080, NIhZ2, voEpKQX, -254813933);
+d5NYi = gH8eN(-1031505080, NIhZ2, voEpKQX, (short)-254813933);
 break;
 case 1:
 XbFEl = (int)ceil(qN_k8);

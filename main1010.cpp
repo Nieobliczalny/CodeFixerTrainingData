@@ -17,7 +17,7 @@ short int  fuYG(long long  QKh4SBB1C,char  zq4Eq,unsigned long  nv78_Rzcwd)
 
 unsigned short Zc4x(char o139Qem1,unsigned char G9SXL9_OL)
 {
- return 994065969;
+ return (unsigned short)994065969;
 }
 
 unsigned long  NuNAxETRdf(unsigned long  iv_561,unsigned char  l6994Fya,unsigned long long  b3z2vRAk56)  {
@@ -28,7 +28,7 @@ int main(void)
 {
  unsigned int ZN_bI = -934281677;
  char e96J = 730333280;
-	unsigned char	dRJy8	=	1394118513;
+	unsigned char	dRJy8	=	(unsigned char)1394118513;
  char Vj15 = 1500166637;
   double  rROb6ZCyI  =  -2018852501;
   unsigned long  O3jAQ2  =  414739629;
@@ -41,7 +41,7 @@ int main(void)
     unsigned int    C_O3yf    =    -1416179411;
   int  mlVRq3892  =  -1543892459;
  unsigned long long T0T48yfGk = -211200394;
-    unsigned short int    P8_za    =    2134377307;
+    unsigned short int    P8_za    =    (unsigned short)2134377307;
   int  BvErJA3i  =  193966140;
  short int V6ibLL = 80031958;
  unsigned char O_H8 = -841677732;
@@ -52,7 +52,7 @@ int main(void)
 	char	U4wSWIpRB4	=	0;
   int  C4y8EQm8n5  =  641080992;
  unsigned long Fln3g = -404565328;
-  unsigned short int  M_02PLUx  =  -492223441;
+  unsigned short int  M_02PLUx  =  (unsigned short)-492223441;
  unsigned long Kcc9sgPHc = 1276349011;
   short int  BB3lp1Cb  =  931774338;
  short int qjr_oO = -809174520;
@@ -64,7 +64,7 @@ int main(void)
     unsigned short    q5uRZ9    =    2039089857;
 	long double	r_1J	=	1181252608;
 	unsigned int	p1zA4T	=	2104803089;
-	short	q0g7eG3Xv	=	-9758496;
+	short	q0g7eG3Xv	=	(short)-9758496;
 	int	zQCjnBL4	=	739001626;
  double V0N1Kgi = -1334434965;
  double uoCIY0k = 930583063;
@@ -75,7 +75,7 @@ int main(void)
  unsigned short int iLq7dZ3bL7 = -1430876880;
 	unsigned long	sDao	=	1949884827;
  long long QuHG9CaY = 227040459;
- unsigned char a0N0x = -1379664900;
+ unsigned char a0N0x = (unsigned char)-1379664900;
     long double    QC0Q_o_fNL    =    -1534826660;
     short int    j731Xi2J    =    -856057410;
     long double    jF7t4XSj    =    2120246582;
@@ -86,7 +86,7 @@ int main(void)
   short  sTc4Vlc_47  =  1175714514;
 	int	f6aS3A	=	-77333511;
     unsigned long    saEO41viz    =    -206590284;
-  short  Q0WH9i11AC  =  -164342490;
+  short  Q0WH9i11AC  =  (short)-164342490;
  long double pS9xVaE5 = 1137600839;
     long long    JpRlMN0    =    -248396790;
 	unsigned char	qd0lu3VVM	=	1801068817;
@@ -113,7 +113,7 @@ U4wSWIpRB4 = NuNAxETRdf(258260831, 1303591381, IC5s9W7O0N);
 break;
 case 'c':
 case 'C':
-AKS2TH3_h = fuYG(-253384950, -531454551, 1217352839);
+AKS2TH3_h = fuYG(-253384950, (char)-531454551, 1217352839);
 break;
 case 'd':
 case 'D':
@@ -125,7 +125,7 @@ ky0cG5h = fuYG(372123953, b79Q28EfQk, j731Xi2J);
 break;
 case 'f':
 case 'F':
-Fu9Ve = Zc4x(811297760, -1969633683);
+Fu9Ve = Zc4x(811297760, (unsigned char)-1969633683);
 break;
 case 'g':
 case 'G':
@@ -171,7 +171,7 @@ if (Vj15 < -874096518)
 {
 try
 {
-r_1J = Zc4x(-185427950, QuHG9CaY);
+r_1J = Zc4x((char)-185427950, QuHG9CaY);
 }
 catch (int& errorCode)
 {
@@ -567,7 +567,7 @@ while (i >= 0)
 {
 if ((Fln3g >= C_O3yf) || (joLx_ar2p > -658455629))
 {
-std::cout << Zc4x(1562112132, 1591222622) << NuNAxETRdf(-2107618044, -1402439809, M_02PLUx) << std::endl;
+std::cout << Zc4x(1562112132, (unsigned char)1591222622) << NuNAxETRdf(-2107618044, -1402439809, M_02PLUx) << std::endl;
 }
 --i;
 }
@@ -664,7 +664,7 @@ int k = 7;
 do
 {
 --k;
-sDao = Zc4x(-153878257, -236525478);
+sDao = Zc4x(-153878257, (unsigned char)-236525478);
 }
 while (k >= 0);
 }
@@ -683,7 +683,7 @@ case 2:
 uoCIY0k = (int)abs(BvErJA3i);
 break;
 case 3:
-U4wSWIpRB4 = NuNAxETRdf(509199142, 1731231967, 445132547);
+U4wSWIpRB4 = NuNAxETRdf(509199142, (unsigned char)1731231967, 445132547);
 break;
 case 4:
 S5G4_Y = zQCjnBL4 & 454504934;
@@ -734,7 +734,7 @@ rROb6ZCyI = (int)abs(Q0WH9i11AC);
 
 O3jAQ2 = fuYG(707724848, -630946961, -1896134750);
 
-std::cout << "M094zYC_Qy" << NuNAxETRdf(1493442531, -1319544592, -336222687) << std::endl;
+std::cout << "M094zYC_Qy" << NuNAxETRdf(1493442531, (unsigned char)-1319544592, -336222687) << std::endl;
 
 try
 {

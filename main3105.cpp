@@ -28,7 +28,7 @@ int main(int argc, char** argv) {
   double  cHeSY8Xe1C;
   cHeSY8Xe1C  =  218492343;
   unsigned short int  a5NF;
-  a5NF  =  669063349;
+  a5NF  =  (unsigned short)669063349;
 	char	Fzptt458;
 	Fzptt458	=	-1554757608;
 	short	PV3_5C_;
@@ -50,7 +50,7 @@ int main(int argc, char** argv) {
     unsigned long    yF6N2F;
     yF6N2F    =    -1050913269;
     char    jN9K4;
-    jN9K4    =    659011649;
+    jN9K4    =    (char)659011649;
     int    fs43awXSDg;
     fs43awXSDg    =    -358363590;
     float    NhwD5;
@@ -60,7 +60,7 @@ int main(int argc, char** argv) {
     double    z172I_39;
     z172I_39    =    1228186604;
  unsigned short FxfH;
- FxfH = 683100169;
+ FxfH = (unsigned short)683100169;
     double    tzM7N;
     tzM7N    =    -1637374072;
   double  kYI9CVcCQX;
@@ -86,7 +86,7 @@ int main(int argc, char** argv) {
  long double QQ52FLe67;
  QQ52FLe67 = 1545869449;
   short  gk8w3J87;
-  gk8w3J87  =  1658037215;
+  gk8w3J87  =  (short)1658037215;
   short int  ef799;
   ef799  =  1298289791;
   double  Bpwgd;
@@ -104,7 +104,7 @@ int main(int argc, char** argv) {
 	unsigned short int	bPL8BB;
 	bPL8BB	=	-303920355;
     short int    ebDC5;
-    ebDC5    =    -1077050496;
+    ebDC5    =    (short)-1077050496;
 	int	tzd_6;
 	tzd_6	=	-1516677;
     short    MNs1;
@@ -138,7 +138,7 @@ int main(int argc, char** argv) {
  long long aoU99SV;
  aoU99SV = 980645204;
     short int    dTZR0s;
-    dTZR0s    =    -866277056;
+    dTZR0s    =    (short)-866277056;
     unsigned short int    aoEe;
     aoEe    =    419753125;
 
@@ -198,7 +198,7 @@ case 'c':
 NhwD5 = (int)ceil(cHeSY8Xe1C);
 break;
 case 'd':
-QQ52FLe67 = rr_zX2tw(QQ52FLe67, 96152708, 630147633, hUO_yS);
+QQ52FLe67 = rr_zX2tw(QQ52FLe67, 96152708, (unsigned short)630147633, hUO_yS);
 break;
 case 'e':
 EKx4r_c = (int)ceil(ajmc1GiN);
@@ -260,7 +260,7 @@ Bpwgd = 1427213009 / gAvFG;
 
 std::cout << "S39J8" << XIV350cUX(tzM7N, -809064612, 1543278785) << XaSkg << eWdQEA << "qEor2c5p" << std::endl;
 
-CX79x5AD_ = XIV350cUX(744516342, -1734217483, kYI9CVcCQX);
+CX79x5AD_ = XIV350cUX((char)744516342, -1734217483, kYI9CVcCQX);
 
 switch (CX79x5AD_)
 {
@@ -282,7 +282,7 @@ dp_o_VpV = XIV350cUX(MNs1, -2107871554, 1447695533) % yF6N2F;
 break;
 case 'e':
 case 'E':
-c_is = rr_zX2tw(-1606121434, ef799, 1144244418, CX79x5AD_);
+c_is = rr_zX2tw(-1606121434, ef799, (unsigned short)1144244418, CX79x5AD_);
 break;
 case 'f':
 case 'F':

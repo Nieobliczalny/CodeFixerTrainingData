@@ -72,7 +72,7 @@ case 3:
 b6zbd86g = SaoDid(1570095936, -1992618186);
 break;
 default:
-F0Yz_ = kox3(F0Yz_, 440160142);
+F0Yz_ = kox3(F0Yz_, (unsigned char)440160142);
 break;
 }
 
@@ -106,7 +106,7 @@ default:
 z8p5X5lq2j = mgo5P9(633534688, O2Hpo, -251606633);
 break;
 }
-mIs9sJ49V4 = kox3(700252494, -1053412888) / w8IYVCp_;
+mIs9sJ49V4 = kox3(700252494, (unsigned char)-1053412888) / w8IYVCp_;
 
 Ech197l1AC = kox3(Ech197l1AC, o0J1EFo);
 
@@ -184,7 +184,7 @@ else if (MosD)
 {
 for (int k = 0; k < 2; ++k)
 {
-je_WT = gXi6_brVH9(-998646842, -124672805, piBvo83);
+je_WT = gXi6_brVH9(-998646842, (char)-124672805, piBvo83);
 }
 }
 else if (w8IYVCp_ < -1059030802)

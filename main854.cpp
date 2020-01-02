@@ -13,7 +13,7 @@ unsigned char	zc2CT_ZS(unsigned short int	qnaH6s70,unsigned short	PDcT1ak,unsign
 }
 
 short int  S_Xx(long long  Z4Ui92R1MU,int  XG3G7,unsigned short  G_Z__6sFh,short int  mSkg)  {
-  return  877250796;
+  return  (short)877250796;
 }
 
 unsigned long long    cz4MX5W2(char    QRdOjfCN,short int    cQ2u47,char    Iu0Q,long long    T9JGs20,unsigned long    zg0u8E71L)
@@ -29,6 +29,7 @@ int    flrpZ(unsigned short int    zs6GG)
 int main()
 {
   short  t8UbN_Y7  =  0,  wrkg  =  0;
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
   char  XwONqle0  =  -1300884438,  F6es1tWKn  =  -1156278712,  qZe_  =  1882462644,  k14Q1WlG  =  1181658394,  Q0ZMS57  =  1000938928,  FVl_to  =  1917032761,  aOh3RLb18  =  781923283,  ipm2  =  -282485244,  x34Q_3_Ec  =  4116312,  n2os  =  -707310794,  CrNTPdM_e  =  -7234573,  ov3L  =  -852366928,  fy5EI9S  =  -557082733,  F9A2M9_T2N  =  1135719955,  AXjQrIhkP  =  -2038729702,  h8j99LhK  =  1807376234;
 
 if ((F9A2M9_T2N == Q0ZMS57) && (ov3L & -1775510754))
@@ -50,7 +51,7 @@ h8j99LhK *= Q0ZMS57;
 }
 else if (ipm2)
 {
-t8UbN_Y7 = cz4MX5W2(325993909, -710223045, -1883429091, ipm2, 673063310);
+t8UbN_Y7 = cz4MX5W2((char)325993909, -710223045, -1883429091, ipm2, 673063310);
 }
 else
 {
@@ -88,7 +89,7 @@ t8UbN_Y7 = cz4MX5W2(-1045328641, Q0ZMS57, CrNTPdM_e, F9A2M9_T2N, 1225929927);
 break;
 case 'g':
 case 'G':
-t8UbN_Y7 = cz4MX5W2(XwONqle0, -586191581, fy5EI9S, -1779859982, 1353549985);
+t8UbN_Y7 = cz4MX5W2(XwONqle0, (short)-586191581, fy5EI9S, -1779859982, 1353549985);
 break;
 default:
 n2os = k14Q1WlG + 1894151737;
@@ -168,7 +169,7 @@ ipm2 = XwONqle0 - 44613416;
 break;
 case 'h':
 case 'H':
-ov3L = zc2CT_ZS(1615255881, 1095966206, x34Q_3_Ec);
+ov3L = zc2CT_ZS(1615255881, (unsigned short)1095966206, x34Q_3_Ec);
 break;
 case 'i':
 case 'I':
@@ -248,7 +249,7 @@ k14Q1WlG = S_Xx(425375847, 2059968354, F6es1tWKn, Q0ZMS57);
 }
 else
 {
-std::cout << cz4MX5W2(466276674, qZe_, -214370345, -934050405, 1188175023) << XwONqle0 << "Q0kh" << S_Xx(-2072207935, 698914149, 1853692942, Q0ZMS57) << std::endl;
+std::cout << cz4MX5W2(466276674, qZe_, (char)-214370345, -934050405, 1188175023) << XwONqle0 << "Q0kh" << S_Xx(-2072207935, 698914149, 1853692942, Q0ZMS57) << std::endl;
 }
 }
 catch (int& errorCode)
@@ -270,7 +271,7 @@ qZe_ *= 1254335222;
 }
 else if (n2os < -154324669)
 {
-qZe_ = S_Xx(1164924847, AXjQrIhkP, 1557809255, -1578926140);
+qZe_ = S_Xx(1164924847, AXjQrIhkP, 1557809255, (short)-1578926140);
 }
 else if (h8j99LhK > -1141547880)
 {
@@ -376,7 +377,7 @@ try
 switch (n2os)
 {
 case 'a':
-t8UbN_Y7 = cz4MX5W2(1074459052, -930248449, -1612271278, -1057496024, qZe_);
+t8UbN_Y7 = cz4MX5W2(1074459052, (short)-930248449, -1612271278, -1057496024, qZe_);
 break;
 case 'b':
 F6es1tWKn = cz4MX5W2(-808661999, F9A2M9_T2N, -1060436232, ov3L, qZe_) | 39511670;
@@ -394,7 +395,7 @@ case 'f':
 AXjQrIhkP = zc2CT_ZS(t8UbN_Y7, AXjQrIhkP, x34Q_3_Ec);
 break;
 case 'g':
-k14Q1WlG = S_Xx(t8UbN_Y7, 612351677, k14Q1WlG, 1938177380);
+k14Q1WlG = S_Xx(t8UbN_Y7, 612351677, k14Q1WlG, (short)1938177380);
 break;
 case 'h':
 AXjQrIhkP = S_Xx(AXjQrIhkP, F9A2M9_T2N, 190539463, h8j99LhK);
@@ -406,7 +407,7 @@ case 'j':
 k14Q1WlG = n2os * 763920035;
 break;
 default:
-FVl_to = zc2CT_ZS(531007639, 617237112, -1925081421);
+FVl_to = zc2CT_ZS((unsigned short)531007639, 617237112, -1925081421);
 break;
 }
 }
@@ -425,7 +426,7 @@ qZe_--;
 }
 }
 }
-ov3L = zc2CT_ZS(1751150514, 724086043, -2136925769);
+ov3L = zc2CT_ZS(1751150514, (unsigned short)724086043, -2136925769);
 {
 int i = 7;
 do
@@ -442,7 +443,7 @@ FVl_to = S_Xx(278330866, t8UbN_Y7, 183887420, wrkg);
 while (i >= 0);
 }
 
-k14Q1WlG = zc2CT_ZS(FVl_to, 1163478476, -1596732337) / wrkg;
+k14Q1WlG = zc2CT_ZS(FVl_to, (unsigned short)1163478476, -1596732337) / wrkg;
 
 if (fy5EI9S != 109091817)
 {
@@ -483,7 +484,7 @@ case 0:
 FVl_to = S_Xx(FVl_to, -930407393, -1655747408, CrNTPdM_e);
 break;
 case 1:
-fy5EI9S = flrpZ(1927690109);
+fy5EI9S = flrpZ((unsigned short)1927690109);
 break;
 }
 }
@@ -498,7 +499,7 @@ case 'a':
 h8j99LhK = S_Xx(h8j99LhK, 1911034777, Q0ZMS57, 1500643092);
 break;
 case 'b':
-aOh3RLb18 = zc2CT_ZS(-1499877517, aOh3RLb18, n2os);
+aOh3RLb18 = zc2CT_ZS((unsigned short)-1499877517, aOh3RLb18, n2os);
 break;
 case 'c':
 ov3L = S_Xx(ov3L, F6es1tWKn, qZe_, 1564803045);
@@ -550,7 +551,7 @@ do
 switch (FVl_to)
 {
 case 0:
-ipm2 = zc2CT_ZS(866478455, -1596277550, k14Q1WlG);
+ipm2 = zc2CT_ZS(866478455, (unsigned short)-1596277550, k14Q1WlG);
 break;
 case 1:
 XwONqle0 = zc2CT_ZS(777186893, ov3L, 1145227480);

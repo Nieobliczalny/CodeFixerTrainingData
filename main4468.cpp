@@ -38,7 +38,7 @@ case 'a':
 EbCub9i4 = CDyxIg3r(-927996195, 1713460844, k1_6L5g39w, qa0ymC0hv, -1570088428);
 break;
 case 'b':
-HF95 = UMtd(HF95, -2081676758, e82tLZM, A5gbOYZZb, X81h);
+HF95 = UMtd(HF95, (unsigned short)-2081676758, e82tLZM, A5gbOYZZb, X81h);
 break;
 case 'c':
 LCGv = (int)abs(e82tLZM);
@@ -72,7 +72,7 @@ int k = 4;
 while (k >= 0)
 {
 k--;
-EbCub9i4 = CDyxIg3r(1322520931, 1716249638, EbCub9i4, -1994624042, HF95);
+EbCub9i4 = CDyxIg3r(1322520931, 1716249638, EbCub9i4, (unsigned char)-1994624042, HF95);
 }
 }
 }

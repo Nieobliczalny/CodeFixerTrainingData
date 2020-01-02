@@ -47,7 +47,7 @@ int main(int argc, char** argv)
 	unsigned long	DRn3RT;
 	DRn3RT	=	1906364927;
 	unsigned short int	Wn7e3rCw5;
-	Wn7e3rCw5	=	-1027803680;
+	Wn7e3rCw5	=	(unsigned short)-1027803680;
   short int  lLh9o_U_1Z;
   lLh9o_U_1Z  =  1284944300;
  char mX_Ez;
@@ -130,7 +130,7 @@ int j = 1;
 while (j >= 0)
 {
 --j;
-std::cout << wNkXx(642824648, 1085328243, 1659913940, -2054795901) << "R5Kfke3f" << Nj2n_HIx4_(-1229956272, 2063036663) << "j4cL" << std::endl;
+std::cout << wNkXx(642824648, 1085328243, 1659913940, -2054795901) << "R5Kfke3f" << Nj2n_HIx4_((short)-1229956272, 2063036663) << "j4cL" << std::endl;
 }
 }
 }

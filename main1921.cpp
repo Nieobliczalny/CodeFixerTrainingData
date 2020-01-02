@@ -35,7 +35,7 @@ short int    tSRF3_(unsigned long long    vkBj3sS)
 
 int main() {
   double  r8M0tYq  =  422723341;
-	short int	hOAIkPO	=	476600721;
+	short int	hOAIkPO	=	(short)476600721;
     char    lL1hxX    =    -792777622;
  unsigned long long vblrKI8T9S = 755012166;
   unsigned long long  nTmvz99uJt  =  164460797;
@@ -45,7 +45,7 @@ int main() {
  long double wI88c = -1731504336;
   unsigned long long  bE7b  =  -1368261895;
 	unsigned short int	SdFqp	=	-2101051196;
-  short  IeImt67xvy  =  349059133;
+  short  IeImt67xvy  =  (short)349059133;
     char    EOgsEx    =    1924212003;
   long  ATPwD1  =  2034716561;
  float kWAjtZ_ = -1578839413;
@@ -58,7 +58,7 @@ int main() {
  long gdOS5mVejg = 1941243530;
  double LmHczEC = -989602524;
 	float	TNK8u5Qc9Y	=	-975143752;
-  unsigned char  XX28  =  1192948648;
+  unsigned char  XX28  =  (unsigned char)1192948648;
   unsigned short int  vgDD67XC95  =  -45591881;
   unsigned int  gDL0uHyiq  =  2129132449;
     char    t_llb_F065    =    181821403;
@@ -70,7 +70,7 @@ int main() {
     short int    TLvBP    =    848934876;
  int W_N7 = 1576124295;
     unsigned long long    X85kR22    =    281769555;
- short int awUId500tO = -1474118047;
+ short int awUId500tO = (short)-1474118047;
  char s1w8O01 = 208491160;
 	double	rB1dM	=	346485986;
     unsigned char    uMBV9D1    =    1525124181;
@@ -82,7 +82,7 @@ int main() {
  unsigned char g14eYpPK9 = -600183568;
     long double    A2BPPyuoWU    =    734580701;
 	unsigned long long	A8F62l	=	-1359736488;
-	unsigned short	z4su3u	=	849005620;
+	unsigned short	z4su3u	=	(unsigned short)849005620;
  short W4s4WI4R = -1221524139;
 	unsigned int	qlvjDBg	=	-1662987093;
   short int  RB64BIie  =  637292107;
@@ -94,7 +94,7 @@ int main() {
  char tckqiI = 1604357406;
  long double r8Y2W = 739619247;
     double    BdC025    =    1302623224;
-    short    NDPOII    =    -2008880162;
+    short    NDPOII    =    (short)-2008880162;
   int  Shvf9M5cf  =  -1403426903;
  unsigned long s2XG = 1794009068;
   short int  bXkb4_3lq  =  -1651113397;
@@ -336,7 +336,7 @@ else
 {
 R2TA = z4su3u | W_N7;
 }
-std::cout << hNpJAYYRE3(-254703803, hOAIkPO, 1861239525, -1459482074) << "wM22w1H8" << QCOS << hNpJAYYRE3(b1SPal, -1814572575, -479793807, -1644948486) << "XI_8K" << std::endl;
+std::cout << hNpJAYYRE3(-254703803, hOAIkPO, (short)1861239525, -1459482074) << "wM22w1H8" << QCOS << hNpJAYYRE3(b1SPal, -1814572575, -479793807, -1644948486) << "XI_8K" << std::endl;
 try
 {
 {

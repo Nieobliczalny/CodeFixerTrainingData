@@ -91,7 +91,7 @@ break;
 
 if (IDs3 >= o60p_G)
 {
-x53P5 = Ba7XA321(x53P5, VbLn9Qy3sP, 1241576964);
+x53P5 = Ba7XA321(x53P5, VbLn9Qy3sP, (unsigned char)1241576964);
 }
 else if (CuR_2OFlg)
 {
@@ -129,7 +129,7 @@ case 0:
 S70jd21v0r = Ba7XA321(1449623623, x7U7f1g7u, -1214900810);
 break;
 case 1:
-x53P5 = Ba7XA321(x53P5, W0_gmn, 1620683583);
+x53P5 = Ba7XA321(x53P5, W0_gmn, (unsigned char)1620683583);
 break;
 case 2:
 x53P5 = (int)abs(S70jd21v0r);
@@ -147,7 +147,7 @@ default:
 T8v4 /= 1705125778;
 break;
 }
-std::cout << "vzij26M" << Ba7XA321(1137654715, x7U7f1g7u, -1694988101) << VkhPh(IDs3) << VkhPh(IDs3) << std::endl;
+std::cout << "vzij26M" << Ba7XA321(1137654715, x7U7f1g7u, (unsigned char)-1694988101) << VkhPh(IDs3) << VkhPh(IDs3) << std::endl;
 
 UeONSpTj = (char)(mqQQ03M5 * (o60p_G));
 
@@ -284,7 +284,7 @@ case 2:
 qTsI4pWz = (CuR_2OFlg == IDs3) ? S70jd21v0r : e3F_J;
 break;
 case 3:
-x53P5 = Ba7XA321(-367790850, S70jd21v0r, -348731500);
+x53P5 = Ba7XA321(-367790850, S70jd21v0r, (unsigned char)-348731500);
 break;
 case 4:
 x53P5 = (x7U7f1g7u & 1076976865) ? IDs3 : S70jd21v0r;

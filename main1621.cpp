@@ -28,7 +28,7 @@ case 1:
 WXBX5t6T = (int)abs(O06eM66hn5) * 0;
 break;
 case 2:
-Q_qDGyF9 = P7_zAmlG(-1512307756);
+Q_qDGyF9 = P7_zAmlG((unsigned short)-1512307756);
 break;
 }
 
@@ -93,7 +93,7 @@ sDg9oGSZn = (int)abs(ekcTU);
 }
 else if ((uE37l2zA_d >= 560347535) && (hLj0n21O12 < -428175668))
 {
-std::cout << DTYZ0(1870570159, 871359163, -2116449261) << "Ay4QYg_19B" << DTYZ0(-1177455001, HInBl, U_AGNPYB1) << tjtr5_0 << std::endl;
+std::cout << DTYZ0(1870570159, 871359163, (short)-2116449261) << "Ay4QYg_19B" << DTYZ0(-1177455001, HInBl, U_AGNPYB1) << tjtr5_0 << std::endl;
 }
 else if ((w3_T & Ia_0w6jT) && (K2B40 >= 1565313971))
 {
@@ -145,7 +145,7 @@ TaMnITRyq = DTYZ0(1433473161, -1236100250, -954089081);
 }
 else
 {
-noq19pFq = DTYZ0(1773171067, MlrxGE, 1465257650);
+noq19pFq = DTYZ0(1773171067, MlrxGE, (short)1465257650);
 }
 }
 --i;
@@ -171,7 +171,7 @@ x2_63LFAN = (yi_b >= noq19pFq) ? P7_zAmlG(473697187) : w3_T;
 int i = 4;
 while (i >= 0)
 {
-WXBX5t6T = P7_zAmlG(-1920460298);
+WXBX5t6T = P7_zAmlG((unsigned short)-1920460298);
 --i;
 }
 }
@@ -205,7 +205,7 @@ g6H86 = DTYZ0(g6H86, 711801042, PJL203);
 }
 else if ((uE37l2zA_d > -1156798556) || ((Yk1W & -1189892718) && (w3_T)))
 {
-pHJ6uI52U = DTYZ0(-1329933286, -450554058, -1574288422);
+pHJ6uI52U = DTYZ0(-1329933286, -450554058, (short)-1574288422);
 }
 else if (((XQ3321a8q == -1473379261) || (O06eM66hn5 != -1344495844)) && (gmeB7EP2 == 1199321258))
 {
@@ -291,7 +291,7 @@ case 4:
 nKVs_00 = (int)abs(gmeB7EP2) + (1559819582);
 break;
 case 5:
-hcD3_ = DTYZ0(hcD3_, K2B40, -443468435);
+hcD3_ = DTYZ0(hcD3_, K2B40, (short)-443468435);
 break;
 case 6:
 NH0K6h = QKJu69T4dU - Z4n2;
@@ -364,7 +364,7 @@ case 0:
 g6H86 = DTYZ0(-1312233887, JM4EG4W, 1850087249);
 break;
 case 1:
-WXBX5t6T = P7_zAmlG(-109666201);
+WXBX5t6T = P7_zAmlG((unsigned short)-109666201);
 break;
 case 2:
 TBhhyvXacD = DTYZ0(-1241187229, 956741854, -1858607529);
@@ -379,7 +379,7 @@ case 5:
 Yk1W = DTYZ0(-1413966689, tjtr5_0, -1088731646);
 break;
 case 6:
-s_vICUx8c9 = DTYZ0(-923068997, -417466346, 1859787206);
+s_vICUx8c9 = DTYZ0(-923068997, -417466346, (short)1859787206);
 break;
 case 7:
 FpSGgN_wSa = hcD3_ - hLj0n21O12;

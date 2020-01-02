@@ -139,7 +139,7 @@ else if ((rdbeh & 816471757) || (HCp6Xd_ != n3s8))
 {
 try
 {
-o36U = F2is_(-1570992078, 436931609, EEQda_, 289069376, lnz1vl);
+o36U = F2is_(-1570992078, 436931609, EEQda_, (unsigned short)289069376, lnz1vl);
 }
 catch (int& errorCode)
 {
@@ -189,7 +189,7 @@ case 2:
 PhZ5q = F2is_(-1175558580, -1706442560, C8gly3hY, HCp6Xd_, tS09B);
 break;
 case 3:
-prdu_0 = ZTfl(qs74QV8a0, -1529278810);
+prdu_0 = ZTfl(qs74QV8a0, (short)-1529278810);
 break;
 case 4:
 JmTO |= 611117452;
@@ -341,7 +341,7 @@ do
 {
 if (Z89ls == lnz1vl)
 {
-C7dwck73 = F2is_(C7dwck73, 451298424, ju4nnfH05H, 896252158, -641085908);
+C7dwck73 = F2is_(C7dwck73, 451298424, ju4nnfH05H, 896252158, (unsigned char)-641085908);
 }
 --j;
 }
@@ -374,7 +374,7 @@ EEQda_ &= 1647267270;
 Sl1PZ09U_Z = (unsigned long long)(EgDzYv6Yk);
 qs74QV8a0 &= 549436880;
 
-std::cout << rdbeh << FF5lA1B9I() << F2is_(eykQStmW, 1457719612, yKN0nNLz2, -445902462, L7zySMLw_) << DOML(-1737086526, 1396981449, 242045020, QsCEb595, 130292415) << std::endl;
+std::cout << rdbeh << FF5lA1B9I() << F2is_(eykQStmW, 1457719612, yKN0nNLz2, -445902462, L7zySMLw_) << DOML(-1737086526, (unsigned short)1396981449, 242045020, QsCEb595, 130292415) << std::endl;
 
 std::cout << ySYax6i2 << tS09B << wM50T3D(eykQStmW) << std::endl;
 
@@ -402,7 +402,7 @@ prdu_0 = ZTfl(MCPnA, qs74QV8a0);
 break;
 case 'e':
 case 'E':
-K6pbzpau4 = F2is_(738919854, VL_Fw3cUh, 292571516, 1197327135, -122733421);
+K6pbzpau4 = F2is_(738919854, VL_Fw3cUh, 292571516, (unsigned short)1197327135, -122733421);
 break;
 case 'f':
 case 'F':
@@ -516,7 +516,7 @@ case 'a':
 Yzg7D ^= 857243180;
 break;
 case 'b':
-AGN_D6N = F2is_(1370996813, -2117357453, Mh158T, tS09B, 369818910);
+AGN_D6N = F2is_(1370996813, -2117357453, Mh158T, tS09B, (unsigned char)369818910);
 break;
 case 'c':
 JmTO += 1610593373;
@@ -531,7 +531,7 @@ case 'f':
 K6pbzpau4 &= fGxvY;
 break;
 case 'g':
-yyS_tEC28 = DOML(yyS_tEC28, 1810597208, 386512419, Zbxy, -2030958592);
+yyS_tEC28 = DOML(yyS_tEC28, 1810597208, 386512419, Zbxy, (short)-2030958592);
 break;
 case 'h':
 eykQStmW = DOML(eykQStmW, -118358484, -2099323516, XIX5, gqF0);
@@ -557,7 +557,7 @@ if (((Zbxy & yKN0nNLz2) && (mc019an)) && ((lnz1vl <= -430547720) && (E5mo1Eq == 
 switch (eykQStmW)
 {
 case 'a':
-prdu_0 = ZTfl(1745327953, 1298300377);
+prdu_0 = ZTfl(1745327953, (short)1298300377);
 break;
 case 'b':
 K_kZ = DOML(-685507186, JmTO, 1156949454, 658050359, U4Cl_D1VN);

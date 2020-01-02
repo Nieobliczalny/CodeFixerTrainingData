@@ -42,7 +42,7 @@ int main(void)
     unsigned int    OCJ2IVzC9;
     OCJ2IVzC9    =    31921571;
  short Ml03n25N;
- Ml03n25N = -464535621;
+ Ml03n25N = (short)-464535621;
     long double    m7kYy;
     m7kYy    =    677903329;
 	unsigned long	SejiOiTK_v;
@@ -62,7 +62,7 @@ int main(void)
  unsigned short int WOw5HZID7;
  WOw5HZID7 = -751102515;
  unsigned char NYOZ;
- NYOZ = -47298447;
+ NYOZ = (unsigned char)-47298447;
  unsigned short ehSUb;
  ehSUb = 343933787;
 	unsigned short int	RsdP;
@@ -72,7 +72,7 @@ int main(void)
 	unsigned char	f9u3xoY__;
 	f9u3xoY__	=	-1007541969;
   unsigned short int  OX0HzCKk;
-  OX0HzCKk  =  -2141056074;
+  OX0HzCKk  =  (unsigned short)-2141056074;
 	short int	ag751C;
 	ag751C	=	0;
   float  Ppxl9;
@@ -220,7 +220,7 @@ case 2:
 Bugv1IM = g_yePM(1709572581, Bugv1IM, Ppxl9, RsdP);
 break;
 case 3:
-Ml03n25N = knq9_lT_XJ(-1560545997, Bugv1IM) & 2273650;
+Ml03n25N = knq9_lT_XJ((unsigned char)-1560545997, Bugv1IM) & 2273650;
 break;
 case 4:
 f9u3xoY__ *= Ml03n25N;
@@ -349,7 +349,7 @@ if (Mb235y)
 {
 try
 {
-q3c56ctT = knq9_lT_XJ(2020748236, -214457440);
+q3c56ctT = knq9_lT_XJ((unsigned char)2020748236, -214457440);
 }
 catch (int& errorCode)
 {

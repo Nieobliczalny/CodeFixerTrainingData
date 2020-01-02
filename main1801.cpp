@@ -17,7 +17,7 @@ int main(void) {
 	double	t6UEMI	=	-2036921877;
   long long  ypT42c  =  -1077836762;
     unsigned short    FCHNsR    =    -1994948805;
-	unsigned char	I1eYx	=	1738237063;
+	unsigned char	I1eYx	=	(unsigned char)1738237063;
  unsigned long eBRN9h = 4358237;
   unsigned int  BKsH  =  1841753872;
   short  Jq9KE9w0r  =  676597193;
@@ -28,7 +28,7 @@ int main(void) {
     unsigned int    yk3wT0    =    81248424;
  unsigned char usu_O0e = 867885511;
   double  xhKfIhLGNW  =  1265368287;
-  short  G6A9PP6o  =  1765151970;
+  short  G6A9PP6o  =  (short)1765151970;
   unsigned short  b1Keu  =  1763020201;
   double  WP93C_  =  -1038133179;
   unsigned short  y7Bgg  =  -1442975047;
@@ -42,7 +42,7 @@ int main(void) {
  short int h3Q5WtRVix = 0;
   float  d5r8OhLm  =  -1656276439;
 	short	Oh18	=	1547353842;
-	char	K4sx1_8e	=	866269511;
+	char	K4sx1_8e	=	(char)866269511;
  unsigned short int HN8O8Pd = 1798547632;
  long double hZN3zv8 = 1066011086;
 
@@ -162,7 +162,7 @@ d5r8OhLm = (int)ceil(rdi0291BT);
 }
 else if (N6ET473_ > yk3wT0)
 {
-Oh18 = ZFw37I8Wk(-1886011852, 1211955142) * 43023702;
+Oh18 = ZFw37I8Wk(-1886011852, (unsigned short)1211955142) * 43023702;
 }
 else if (wa1o4L0 <= -645463540)
 {
@@ -205,7 +205,7 @@ else if ((d5r8OhLm == jHT2KkEBZ) && (BKsH > 595654623))
 {
 if (U82Y2E > r45XrGg93)
 {
-std::cout << ZFw37I8Wk(-1093320585, I_ToQ) << std::endl;
+std::cout << ZFw37I8Wk((short)-1093320585, I_ToQ) << std::endl;
 }
 else
 {

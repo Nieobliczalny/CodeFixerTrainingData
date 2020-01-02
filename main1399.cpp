@@ -95,7 +95,7 @@ cJN_2_ = yH76(-82120053, 2103005519, TIanN, -283589098);
 }
 else if ((ThDXg < Zrp0vZ4) || (cJN_2_ == 534486004))
 {
-std::cout << nIP96Hql6Z << "HH1y" << yH76(cJN_2_, -487363861, TIanN, x5r1BV0Sv) << z_FU4G3N << eYQ86XD(cJN_2_, ZRThJAcdq, 234051950, -2118130077, Racjd) << std::endl;
+std::cout << nIP96Hql6Z << "HH1y" << yH76(cJN_2_, -487363861, TIanN, x5r1BV0Sv) << z_FU4G3N << eYQ86XD(cJN_2_, ZRThJAcdq, (unsigned short)234051950, -2118130077, Racjd) << std::endl;
 }
 else if (D4m1WR >= gxoaP50R0)
 {
@@ -110,7 +110,7 @@ else
 int k = 0;
 while (k < 7)
 {
-zuNu7 = eYQ86XD(2112838745, 1636054661, qT__, -1532351253, u5w8YJJI0);
+zuNu7 = eYQ86XD((short)2112838745, 1636054661, qT__, -1532351253, u5w8YJJI0);
 ++k;
 }
 }
@@ -166,7 +166,7 @@ case 0:
 NbsJ0BW = JCe9bj2_y - qT__;
 break;
 case 1:
-zuNu7 = eYQ86XD(Vs3H38, -995425476, -406424989, -866209798, YqU24w_);
+zuNu7 = eYQ86XD(Vs3H38, -995425476, -406424989, (unsigned short)-866209798, YqU24w_);
 break;
 case 2:
 nIP96Hql6Z = (int)floor(d0e803i);
@@ -178,7 +178,7 @@ case 4:
 gxoaP50R0 = (int)ceil(x5r1BV0Sv);
 break;
 case 5:
-xvQ2 = eYQ86XD(Vs3H38, 1244444645, ThDXg, 554203579, 471251457) ^ 1493429771;
+xvQ2 = eYQ86XD(Vs3H38, 1244444645, ThDXg, 554203579, (unsigned short)471251457) ^ 1493429771;
 break;
 case 6:
 gxoaP50R0 = yD16oM45G6(gxoaP50R0);
@@ -192,7 +192,7 @@ break;
 }
 try
 {
-zuNu7 = eYQ86XD(aeZ3, 1683865303, lfCLt7, 6876264, -145621203);
+zuNu7 = eYQ86XD(aeZ3, 1683865303, lfCLt7, 6876264, (unsigned short)-145621203);
 }
 catch (int& errorCode)
 {
@@ -236,7 +236,7 @@ case 'c':
 D4m1WR = (int)floor(d0e803i);
 break;
 case 'd':
-KN_cdAeHx = eYQ86XD(-1074666791, -1461554870, nIP96Hql6Z, K5bl4nc_Wl, d7Dd31_);
+KN_cdAeHx = eYQ86XD((short)-1074666791, -1461554870, nIP96Hql6Z, K5bl4nc_Wl, d7Dd31_);
 break;
 case 'e':
 TIanN -= NbsJ0BW;
@@ -291,7 +291,7 @@ case 'i':
 R9_gD = (cJN_2_ <= -996445692) ? Fq9S6R_13 : R0Impl;
 break;
 case 'j':
-KN_cdAeHx = eYQ86XD(N45e, -610129861, c900wfLs8p, R0Impl, -1384150445);
+KN_cdAeHx = eYQ86XD(N45e, -610129861, c900wfLs8p, R0Impl, (unsigned short)-1384150445);
 break;
 default:
 N45e = yH76(792393999, tT1QjQ_y, -2007194409, -585473822);
@@ -324,7 +324,7 @@ else
 switch (KN_cdAeHx)
 {
 case 0:
-KN_cdAeHx = eYQ86XD(qT__, c900wfLs8p, 183114288, 1996377534, 876027306);
+KN_cdAeHx = eYQ86XD(qT__, c900wfLs8p, 183114288, (unsigned short)1996377534, 876027306);
 break;
 case 1:
 BkEO9a = U6eIt - IOVRw;

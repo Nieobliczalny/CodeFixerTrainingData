@@ -15,6 +15,7 @@ unsigned short int h03jk1yb64(unsigned char P7jEay9_n4,unsigned short int C6cxv0
 
 int main(int argc, char** argv)
 {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
 	unsigned short int	f_3t9tG	=	-890875081,	Xh42Mt633	=	239609371,	I8nWc4v17	=	-196116054,	QwDiMEH_u	=	-1041219697,	zLN3O3_g	=	311308045,	yq81D8x	=	1116325491,	w1S8sJ6g6	=	-1812746234,	dYC293AH_J	=	-739041475,	QpBm4qRXLb	=	194406749,	svvK0_074	=	-1255020682,	lC0wcV_Le	=	1646482576,	UGH2xLU8E_	=	-806610016,	T91jL8	=	1819361142,	RR_8	=	1123559695,	fQDf1_9d	=	-1577126682,	osO2_FA8_	=	-1298425502,	qQ_m	=	-175145537,	SK00g	=	764884413,	Zs6P93V	=	-1767675278,	Mua5ghv306	=	-98862866,	I2zeW	=	264729420,	ix7R_498cp	=	-509580821,	LZhINVG	=	1561480666,	vY7Da3tT_	=	-1239648854,	k9w0gJeKQ0	=	1210561993,	C6di6Wwf	=	-824750283;
  int CMSd7UI = 0, vW6iHS = 0;
 
@@ -34,7 +35,7 @@ else
 int k = 0;
 while (k < 7)
 {
-CMSd7UI = h03jk1yb64(-649725714, 2104760025);
+CMSd7UI = h03jk1yb64(-649725714, (unsigned short)2104760025);
 k++;
 }
 }
@@ -58,7 +59,7 @@ CMSd7UI = (int)abs(vW6iHS);
 }
 else
 {
-CMSd7UI = h03jk1yb64(349418281, -1214464475);
+CMSd7UI = h03jk1yb64(349418281, (unsigned short)-1214464475);
 }
 j++;
 }
@@ -84,7 +85,7 @@ vW6iHS = h03jk1yb64(-1063360401, svvK0_074);
 break;
 case 'd':
 case 'D':
-CMSd7UI = h03jk1yb64(1699613061, CMSd7UI);
+CMSd7UI = h03jk1yb64((unsigned char)1699613061, CMSd7UI);
 break;
 case 'e':
 case 'E':

@@ -94,7 +94,7 @@ case 'a':
 I2Ggc0_255 = RY7_76EzW9();
 break;
 case 'b':
-GrBdNbV_60 = M_2DILsw(GrBdNbV_60, -1152158316, -1107958098);
+GrBdNbV_60 = M_2DILsw(GrBdNbV_60, -1152158316, (unsigned char)-1107958098);
 break;
 case 'c':
 X6zs5tZ = jkmRFP(X6zs5tZ, wo8xk6);

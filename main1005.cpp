@@ -207,7 +207,7 @@ NgS28Y = du26_5_B63(NgS28Y, -1608986590, GWPb8);
 }
 else if (A02Ot & 2042006233)
 {
-E1_jw = LlHoDjr9bA(E1_jw, -1959003199);
+E1_jw = LlHoDjr9bA(E1_jw, (short)-1959003199);
 }
 else
 {

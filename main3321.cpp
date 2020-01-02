@@ -15,6 +15,7 @@ using std::floor;
 int main(int argc, char** argv)
 {
     int    XPa1    =    0,    JdE8Uzm    =    0;
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
 	short int	L_87	=	-1272108163,	Ceb3DB2K	=	214516392,	GQQem_5Bk	=	2080855015,	W653OI3q	=	-1739606197,	aNjUEkw	=	-1285469589,	xS4ed9v3	=	-2027707530,	spDMvk	=	-796939525,	X45bIV7mZ	=	1191718767,	jx0w	=	194621091,	QB04c	=	504721579,	uoLKCNo	=	-2108892420,	CCi8	=	-1826157430,	B4xF13B4W	=	1514509543,	go7aQlub9	=	309353285,	wie7	=	1718345063,	ZrD8XGyt	=	871961882,	Vo3_ZnUk	=	357366737,	co2J	=	-445978973,	n76F9E	=	-859220096,	pVu4SvzKk	=	1426841703,	kBfDDXE9	=	-1730024410,	cpIbi4Zf	=	54025599,	I7F2	=	1020936214,	p4yB6rbRG	=	2085929347,	Uw6r9H2Y1	=	524770406,	AJXSW0r2F6	=	559520672,	qe4I	=	283843778,	JXU_pH	=	922899443,	JM19	=	-1890561889;
 
 std::cout << CCi8 << "d9EB" << "L0O_UT" << std::endl;
@@ -233,7 +234,7 @@ for (int i = 0; i < 5; ++i)
 switch (n76F9E)
 {
 case 0:
-X45bIV7mZ = (QB04c != pVu4SvzKk) ? 1471158369 : 1185982417;
+X45bIV7mZ = (QB04c != pVu4SvzKk) ? 1471158369 : (short)1185982417;
 break;
 case 1:
 ZrD8XGyt ^= uoLKCNo;
@@ -281,7 +282,7 @@ aNjUEkw %= ZrD8XGyt;
 break;
 case 'f':
 case 'F':
-pVu4SvzKk = (X45bIV7mZ & 496699122) ? 859436588 : -467158711;
+pVu4SvzKk = (X45bIV7mZ & 496699122) ? 859436588 : (short)-467158711;
 break;
 case 'g':
 case 'G':
@@ -479,7 +480,7 @@ n76F9E = GQQem_5Bk + n76F9E;
 }
 for (int i = 0; i < 9; i++)
 {
-X45bIV7mZ = (AJXSW0r2F6 > 1557918303) ? -86271524 : -572176226;
+X45bIV7mZ = (AJXSW0r2F6 > 1557918303) ? -86271524 : (short)-572176226;
 }
 n76F9E = cpIbi4Zf / qe4I;
 try

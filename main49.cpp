@@ -18,7 +18,7 @@ unsigned char AFu5O8r0(unsigned int ZCLXUfUML)
 }
 
 unsigned short int    nySnR_jTB(unsigned long    qpMPOfM,unsigned long    B2J3uPc,short    J8__z4,char    bPVZQ4,unsigned int    rcY767ZAV)    {
-    return    -400351372;
+    return    (unsigned short)-400351372;
 }
 
 short int M48vF0s(int NF10,short smdtbrJI0,long long Yg_A,short int mhwJU9M98) {
@@ -40,7 +40,7 @@ case 0:
 kMTZDGa4_B = AFu5O8r0(801613237);
 break;
 case 1:
-k4oz = nySnR_jTB(k4oz, -1486634684, 1405351822, -622725941, smLEt);
+k4oz = nySnR_jTB(k4oz, -1486634684, 1405351822, (char)-622725941, smLEt);
 break;
 case 2:
 vnAA7 = AFu5O8r0(1508192132);

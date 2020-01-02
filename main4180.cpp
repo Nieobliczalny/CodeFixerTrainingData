@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
     short int    x1c9_kV;
     x1c9_kV    =    0;
  unsigned short int KR4BawXzzi;
- KR4BawXzzi = -866071770;
+ KR4BawXzzi = (unsigned short)-866071770;
 	float	oE1ezrc;
 	oE1ezrc	=	152654106;
 	unsigned short	j84kE2o3;

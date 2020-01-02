@@ -29,7 +29,7 @@ int main(void) {
   long double  QQaYGT;
   QQaYGT  =  -1052706486;
   short  ZPe2s;
-  ZPe2s  =  -1160438398;
+  ZPe2s  =  (short)-1160438398;
 	long long	cI_MaXUQ;
 	cI_MaXUQ	=	1694950257;
 	unsigned long long	KXWb4f6l;
@@ -47,7 +47,7 @@ int main(void) {
   long  bs5s_;
   bs5s_  =  298876356;
   short int  OgLZ;
-  OgLZ  =  -32309446;
+  OgLZ  =  (short)-32309446;
  short int Cw9j_epz;
  Cw9j_epz = -980291404;
     unsigned char    rW_24dL;
@@ -67,7 +67,7 @@ int main(void) {
 	long	is5kLt0;
 	is5kLt0	=	1576885595;
  unsigned char j1edd4FUv_;
- j1edd4FUv_ = 1237385515;
+ j1edd4FUv_ = (unsigned char)1237385515;
  float tCgkw1O;
  tCgkw1O = 1816262938;
 
@@ -100,7 +100,7 @@ bmg6 -= 117804305;
 
 if (yD0TMd > -545497993)
 {
-KXWb4f6l = X8ZW__(-1577519003, 815940834);
+KXWb4f6l = X8ZW__(-1577519003, (char)815940834);
 }
 else
 {

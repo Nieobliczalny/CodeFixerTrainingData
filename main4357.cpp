@@ -76,7 +76,7 @@ break;
 for (int i = 0; i < 184; i++)
 {
 std::cout << OZl07Wp / cv5T4X << std::endl;
-	no7M8_7AJ = XY_Vgw1ed4(TI_1do4_yU, 1709021796, -1822848880, -382640304) / i;
+	no7M8_7AJ = XY_Vgw1ed4(TI_1do4_yU, 1709021796, (short)-1822848880, -382640304) / i;
 {
 int i = 8;
 do
@@ -136,7 +136,7 @@ LphgdFn = XY_Vgw1ed4(324538279, TI_1do4_yU, -572058024, c_2T47rWem);
 while (i >= 0);
 }
 
-a_km9 = XY_Vgw1ed4(GO8GlW, 1170103592, -652859967, -935536632);
+a_km9 = XY_Vgw1ed4(GO8GlW, 1170103592, (short)-652859967, -935536632);
 
 std::cout << "JOXv6" << no7M8_7AJ << "Urvx3DW" << "Aus7I" << "l1c58" << std::endl;
 
@@ -195,7 +195,7 @@ case 1:
 Zt_FF89dyU = a_km9 & VNnj;
 break;
 case 2:
-t0smUdkht = XY_Vgw1ed4(tYF8x60_R, aISZL7, 1447274437, S3Nj);
+t0smUdkht = XY_Vgw1ed4(tYF8x60_R, aISZL7, (short)1447274437, S3Nj);
 break;
 case 3:
 cv5T4X = XY_Vgw1ed4(586047063, 1856697575, 154598045, GO8GlW);
@@ -207,7 +207,7 @@ case 5:
 c_2T47rWem = AnX6dI5Vcs();
 break;
 case 6:
-i6JxBn6E = XY_Vgw1ed4(OZl07Wp, 1573193470, -1622046331, 1168702558);
+i6JxBn6E = XY_Vgw1ed4(OZl07Wp, 1573193470, (short)-1622046331, 1168702558);
 break;
 case 7:
 c_2T47rWem |= 698615138;

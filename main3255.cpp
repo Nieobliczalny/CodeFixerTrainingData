@@ -34,7 +34,7 @@ int main(void)
   unsigned short int  lF9SAqh7Y;
   lF9SAqh7Y  =  -1041549907;
 	short	f250yK;
-	f250yK	=	1500905572;
+	f250yK	=	(short)1500905572;
  unsigned char tL7_d_K67;
  tL7_d_K67 = 0;
   long long  f3eODb;
@@ -50,7 +50,7 @@ int main(void)
   long long  McGP7;
   McGP7  =  -1577107837;
  short int A8cn;
- A8cn = 324863112;
+ A8cn = (short)324863112;
   unsigned short  Ml4e;
   Ml4e  =  1935274893;
   unsigned short  c5h_5W;
@@ -62,7 +62,7 @@ int main(void)
  unsigned long T_0mEi5v45;
  T_0mEi5v45 = 0;
   char  v1P06_I;
-  v1P06_I  =  428349560;
+  v1P06_I  =  (char)428349560;
   int  P3_J;
   P3_J  =  0;
     double    am63;
@@ -88,7 +88,7 @@ int main(void)
   long long  hXWMLk1oeV;
   hXWMLk1oeV  =  -339423986;
  char gE_n;
- gE_n = -1326436887;
+ gE_n = (char)-1326436887;
  unsigned long SG95;
  SG95 = 1452730789;
  long aN8NW5;
@@ -100,7 +100,7 @@ int main(void)
 	unsigned int	I0RxWGz3K5;
 	I0RxWGz3K5	=	1400257795;
  unsigned short int zx2v37;
- zx2v37 = 481480792;
+ zx2v37 = (unsigned short)481480792;
  double aqM4;
  aqM4 = -765530544;
   unsigned short  l4v6IB;
@@ -154,7 +154,7 @@ otMnF3_K = GiTl9 / T_0mEi5v45;
 int i = 0;
 while (i < 6)
 {
-std::cout << tCpo(-1878376241, -2024180748, aRH5, 1218182870, -1717739949) << "n248SF0" << SwCf3TdLZ(-1667154037, -1575217588) << "GBZjsQHrt0" << std::endl;
+std::cout << tCpo(-1878376241, -2024180748, aRH5, (short)1218182870, -1717739949) << "n248SF0" << SwCf3TdLZ(-1667154037, -1575217588) << "GBZjsQHrt0" << std::endl;
 i++;
 }
 }

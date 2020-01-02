@@ -18,7 +18,7 @@ unsigned int	VC_1(unsigned char	lh18PzN2C,unsigned long long	qo7ZR4Kyx,unsigned 
 
 int main(void) {
  char UfmW = 60716302;
-  char  W0Ne  =  -1527582695;
+  char  W0Ne  =  (char)-1527582695;
   int  umU5m2W  =  1735819681;
  short bcU_zRQP = 847969735;
     double    WRAjAd    =    -2095726840;
@@ -29,7 +29,7 @@ int main(void) {
  float yoJJk8 = -105861511;
  long X3t7 = 886810669;
     unsigned char    VNWFU_0Y5    =    1348226140;
-    unsigned char    jdR6    =    874062628;
+    unsigned char    jdR6    =    (unsigned char)874062628;
 	unsigned short int	QwhCrov	=	1217570874;
  unsigned short HWJSpV27 = 0;
   char  f4J10x3F77  =  -918788816;
@@ -40,7 +40,7 @@ int main(void) {
   unsigned short  eQQrG62  =  -1653552499;
  unsigned int l0fV = 1275920497;
   short  r68a  =  -1242381609;
-    short int    ex_k    =    -1364890435;
+    short int    ex_k    =    (short)-1364890435;
   float  W3Ro4T3  =  563780715;
  unsigned int aZ1FotF7 = -413463292;
   float  XgG_E_TXnw  =  692294391;
@@ -50,7 +50,7 @@ int main(void) {
     unsigned int    H5_L77    =    -2069262891;
     unsigned char    xk4jhC_6x    =    0;
  unsigned short K4X6zY2XFY = 312663289;
-    char    g1sLvy7B    =    -528365087;
+    char    g1sLvy7B    =    (char)-528365087;
 	unsigned short int	n_57i7_B	=	-1022145119;
  long Ao_wugi9 = -255845513;
  long double zMv7rRe = -526616050;
@@ -60,7 +60,7 @@ int main(void) {
     double    NL69e62O    =    1586251451;
 	long double	h54Hu	=	1797068475;
 	unsigned char	HpcLLp0	=	-633007602;
- unsigned char Hs0P = 665216857;
+ unsigned char Hs0P = (unsigned char)665216857;
     unsigned char    tV33_BDdX8    =    456679275;
  long M5Zoh_ = -235244769;
  unsigned short int hRPcU3AB = 631783226;
@@ -72,7 +72,7 @@ int main(void) {
 	int	vKicvoHB	=	-157155601;
  unsigned char OX4t_6Iuf = 0;
   short int  j6488b_0_I  =  912027731;
-	short int	Z2osGPuCa1	=	-1190144860;
+	short int	Z2osGPuCa1	=	(short)-1190144860;
  unsigned long long qfv_pQ_ = 460803539;
     unsigned short    l3_WF1z1l1    =    -989689037;
  short Sa469s = 0;

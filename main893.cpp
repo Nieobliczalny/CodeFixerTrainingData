@@ -31,7 +31,7 @@ char  a4Pb(unsigned long long  ZDJ3J,unsigned long long  O_SJ_Zv,unsigned short 
 
 unsigned short int G4z9q(long long q55Eq2q,short X1Oyp,unsigned short int YL3GN,long long T3WjY_)
 {
- return 418428399;
+ return (unsigned short)418428399;
 }
 
 int main(int argc, char** argv)
@@ -171,7 +171,7 @@ m0_sMP9e |= 1236305575;
 }
 else
 {
-std::cout << WX28q(-2066412663, C30HcWM, 1637256917) << G4z9q(-1841727306, -1596326226, Y1Bki_3B, Oe3ta24YZ) << "h5qC" << "vl_EeYG" << std::endl;
+std::cout << WX28q(-2066412663, C30HcWM, 1637256917) << G4z9q(-1841727306, (short)-1596326226, Y1Bki_3B, Oe3ta24YZ) << "h5qC" << "vl_EeYG" << std::endl;
 }
 PQfC = (short)(ouIHd0R_ * PQfC);
 if (XO_RRNXl_a < TUmIr6)
@@ -222,7 +222,7 @@ J_b_bJk26_ = WX28q(J_b_bJk26_, REAK5gp5C, 1871252732);
 }
 else
 {
-DKcD1 = a4Pb(-145123687, Bk79zj, -1171603650, 635486658, -568028218);
+DKcD1 = a4Pb(-145123687, Bk79zj, (unsigned short)-1171603650, 635486658, -568028218);
 }
 }
 }
@@ -311,7 +311,7 @@ std::cout << "S0_z1ov5R" << "bnF4i0" << G4z9q(cQ4Qu0, -148233309, REAK5gp5C, yFL
 switch (cQ4Qu0)
 {
 case 'a':
-hSv_ = r3Jz6b7(108538254, W_2Q96OxX);
+hSv_ = r3Jz6b7((unsigned short)108538254, W_2Q96OxX);
 break;
 }
 

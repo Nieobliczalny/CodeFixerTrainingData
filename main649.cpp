@@ -18,7 +18,7 @@ int main(void) {
     unsigned long long    HvghN;
     HvghN    =    -671369690;
 	unsigned short	Ho8cWip0n;
-	Ho8cWip0n	=	-1966660357;
+	Ho8cWip0n	=	(unsigned short)-1966660357;
     long    EKqK_6pwW;
     EKqK_6pwW    =    830131184;
 	char	a5E4g;
@@ -46,7 +46,7 @@ int main(void) {
   char  nQUaSY54;
   nQUaSY54  =  -607401628;
     unsigned short    wD_BufjS;
-    wD_BufjS    =    -470240145;
+    wD_BufjS    =    (unsigned short)-470240145;
  unsigned long r91qQzrI3y;
  r91qQzrI3y = -563980552;
 
@@ -257,7 +257,7 @@ case 1:
 a5E4g = (int)abs(lDWVtB_a) * 0;
 break;
 case 2:
-nQUaSY54 = (jd7sYq3l) ? 913488810 : -860478821;
+nQUaSY54 = (jd7sYq3l) ? 913488810 : (char)-860478821;
 break;
 case 3:
 HWel3 = (int)floor(VGp5g);

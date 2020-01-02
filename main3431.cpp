@@ -30,7 +30,7 @@ std::cout << Kwu36Z24(B6972Rv63_, 1074321165, Q48n1, YK8GNNi) << std::endl;
 switch (YW19)
 {
 case 0:
-D5XPqksyI = Kwu36Z24(377104307, 432351929, 2060532369, -293018164);
+D5XPqksyI = Kwu36Z24((short)377104307, 432351929, 2060532369, -293018164);
 break;
 case 1:
 JF84--;
@@ -42,7 +42,7 @@ case 3:
 z0BYpa = zMHaIJ191(z0BYpa, XK9_6vS_, T9y1EV4Rn);
 break;
 case 4:
-x2Moe = zMHaIJ191(x2Moe, 1419876296, -562753559);
+x2Moe = zMHaIJ191(x2Moe, 1419876296, (unsigned char)-562753559);
 break;
 case 5:
 Xx0B_ = (int)abs(Rw5Ad);
@@ -62,7 +62,7 @@ Bpag0k = zMHaIJ191(-406097566, -751119339, eBMJxYijC);
 }
 else if (x40Ou590 < -2061021938)
 {
-D5P2ArPn = (Ec6hrZ1Twi > -1361253211) ? 137060817 : Kwu36Z24(-1851411570, 1413752910, eBMJxYijC, 258191755);
+D5P2ArPn = (Ec6hrZ1Twi > -1361253211) ? 137060817 : Kwu36Z24((short)-1851411570, 1413752910, eBMJxYijC, 258191755);
 }
 else if (kje8W8)
 {
@@ -130,7 +130,7 @@ p6f2B = Kwu36Z24(p6f2B, Nazu, x2Moe, -651442380);
 }
 else
 {
-Bpag0k = zMHaIJ191(Bpag0k, 746006690, VcsW67H7b4);
+Bpag0k = zMHaIJ191(Bpag0k, (unsigned short)746006690, VcsW67H7b4);
 }
 }
 {
@@ -161,7 +161,7 @@ if (p6f2B >= 1278895244)
 {
 std::cout << zMHaIJ191(Bpag0k, d29RC07, VcsW67H7b4) << DQAdgNY_aK << eBMJxYijC << "efb46" << std::endl;
 }
-std::cout << zMHaIJ191(Bpag0k, 356447745, 874380653) << std::endl;
+std::cout << zMHaIJ191(Bpag0k, 356447745, (unsigned char)874380653) << std::endl;
 uu00pT = zMHaIJ191(uu00pT, -1558998155, BFujHA);
 if (Bpag0k != -1807270979)
 {
@@ -275,7 +275,7 @@ while (i >= 0);
 
 V1T_xhz1 = zMHaIJ191(kW7pY1, Z8vG8rf5F, R0y5) / x_PdfHEBmV;
 
-VYuRx = Kwu36Z24(VYuRx, Xx0B_, p6f2B, 773825606);
+VYuRx = Kwu36Z24(VYuRx, Xx0B_, p6f2B, (short)773825606);
 DQAdgNY_aK = m00Tl32 | kW7pY1;
 
 {
@@ -341,7 +341,7 @@ case 5:
 Z8vG8rf5F = zMHaIJ191(Z8vG8rf5F, o0RS1h_, cEWQ9);
 break;
 case 6:
-MoXYC = zMHaIJ191(MoXYC, 1719964831, 1456615906);
+MoXYC = zMHaIJ191(MoXYC, (unsigned short)1719964831, 1456615906);
 break;
 case 7:
 fn99f4R_m %= v0Y9we_i;
@@ -366,7 +366,7 @@ VcsW67H7b4 = (int)abs(f9PK6O455C);
 }
 sX1AsvP1_ = (long long)(V1T_xhz1);
 
-O609 = zMHaIJ191(O609, 737987747, 973967646);
+O609 = zMHaIJ191(O609, 737987747, (unsigned char)973967646);
 
 return 0;
 }

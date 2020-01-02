@@ -20,7 +20,7 @@ short int  Q0x3sXJD(short  ZFQpnaH,int  z0IppI,unsigned long long  Nt0VSB_ss,sho
 
 unsigned char	jiaH_c(unsigned int	W_TMYKR)
 {
-	return	-736469195;
+	return	(unsigned char)-736469195;
 }
 
 int main(int argc, char** argv)
@@ -36,7 +36,7 @@ try
 {
 if (GIoM == -118179780)
 {
-u9cQ1X = Q0x3sXJD(2108595581, u9cQ1X, -921026023, -1732894222, -1484893094);
+u9cQ1X = Q0x3sXJD(2108595581, u9cQ1X, -921026023, (short)-1732894222, -1484893094);
 }
 else if (j34VE5G5 != 794733076)
 {
@@ -263,7 +263,7 @@ for (int j = 2; j >= 0; --j)
 {
 for (int k = 0; k < 5; ++k)
 {
-lISl8Yx7IL = mlgfEhw(1934547729, -1426125158, gs0lTa940, -1190848443, -2111834461);
+lISl8Yx7IL = mlgfEhw(1934547729, (short)-1426125158, gs0lTa940, -1190848443, -2111834461);
 }
 }
 }
@@ -301,7 +301,7 @@ case 'a':
 xb_4276u = (int)floor(xlZY);
 break;
 case 'b':
-b3e6 = Q0x3sXJD(1453995188, s_WN6Lhr, u9cQ1X, 803788202, LV0ZE6e3d3);
+b3e6 = Q0x3sXJD(1453995188, s_WN6Lhr, u9cQ1X, (short)803788202, LV0ZE6e3d3);
 break;
 case 'c':
 nDQgNg = (Y4oTei1xp & pXj0Ln3zX) ? R6dkI0 : -616260639;
@@ -354,7 +354,7 @@ case 'd':
 w4qt /= f608_38a9q;
 break;
 case 'e':
-lISl8Yx7IL = mlgfEhw(1175498921, gs0lTa940, A96w5, 105133655, 441513870);
+lISl8Yx7IL = mlgfEhw(1175498921, gs0lTa940, A96w5, 105133655, (unsigned short)441513870);
 break;
 case 'f':
 np8241 = Q0x3sXJD(1039899819, plO8_j1, -906999219, b3e6, w4qt);
@@ -420,7 +420,7 @@ while (i < 10)
 {
 if (LV0ZE6e3d3)
 {
-cout << Q0x3sXJD(-47562400, 1943501656, s_WN6Lhr, f608_38a9q, iMv7) << plO8_j1 << jiaH_c(gsX8) << Q0x3sXJD(1711776060, Z0rNyL8a9, s_WN6Lhr, f608_38a9q, iMv7) << Q0x3sXJD(gsX8, Z0rNyL8a9, -781946057, f608_38a9q, iMv7) << endl;
+cout << Q0x3sXJD(-47562400, 1943501656, s_WN6Lhr, f608_38a9q, iMv7) << plO8_j1 << jiaH_c(gsX8) << Q0x3sXJD((short)1711776060, Z0rNyL8a9, s_WN6Lhr, f608_38a9q, iMv7) << Q0x3sXJD(gsX8, Z0rNyL8a9, -781946057, f608_38a9q, iMv7) << endl;
 }
 else
 {
@@ -462,7 +462,7 @@ E34q = (int)ceil(plO8_j1);
 break;
 case 'g':
 case 'G':
-Y4oTei1xp = mlgfEhw(455341461, 1896706165, 1327845194, nDQgNg, 696285598);
+Y4oTei1xp = mlgfEhw(455341461, (short)1896706165, 1327845194, nDQgNg, 696285598);
 break;
 }
 {

@@ -41,7 +41,7 @@ int main(int argc, char** argv) {
     float    M9pT685;
     M9pT685    =    -548167963;
 	short int	D3bn_;
-	D3bn_	=	1252890652;
+	D3bn_	=	(short)1252890652;
   short int  EFFfm;
   EFFfm  =  1075935850;
   unsigned char  Mm983;
@@ -51,7 +51,7 @@ int main(int argc, char** argv) {
 	short	xTd7;
 	xTd7	=	2060579281;
     unsigned char    tDJU;
-    tDJU    =    -1336000342;
+    tDJU    =    (unsigned char)-1336000342;
     long double    A0eUVt12ci;
     A0eUVt12ci    =    -1270383646;
     short int    qe8SenMhZ;

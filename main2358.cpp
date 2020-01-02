@@ -29,7 +29,7 @@ int main(int argc, char** argv) {
  short int J623u_Ok_;
  J623u_Ok_ = -1330278257;
 	unsigned short	P6U2_XK0;
-	P6U2_XK0	=	1561970738;
+	P6U2_XK0	=	(unsigned short)1561970738;
   long double  LqU4RIb_;
   LqU4RIb_  =  1507623940;
  short o4AK1Z6zo;
@@ -59,7 +59,7 @@ int main(int argc, char** argv) {
   unsigned char  aGBo8;
   aGBo8  =  1143134728;
  char DQ8kegjB;
- DQ8kegjB = 1408208769;
+ DQ8kegjB = (char)1408208769;
     char    haO_w7_;
     haO_w7_    =    -745157163;
   short int  h7SMH6L85;
@@ -77,7 +77,7 @@ int main(int argc, char** argv) {
  int C5qM3a0X;
  C5qM3a0X = -225548700;
 	short int	z9t2;
-	z9t2	=	-167772346;
+	z9t2	=	(short)-167772346;
 	char	vwii;
 	vwii	=	-11611082;
  long double X97_Z;
@@ -87,7 +87,7 @@ int main(int argc, char** argv) {
     unsigned short int    R8QVvNFA;
     R8QVvNFA    =    1142146256;
  char Sm7N_O_FM;
- Sm7N_O_FM = 1543826885;
+ Sm7N_O_FM = (char)1543826885;
 
 std::cout << dz1LkT4Aw << "g4dQx96Ee" << std::endl;
 P6U2_XK0 >>= 478481249;

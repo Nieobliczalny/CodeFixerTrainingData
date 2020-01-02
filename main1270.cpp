@@ -202,7 +202,7 @@ case 'b':
 h9Z6i31 -= 1820556069;
 break;
 default:
-e2fZS9cj = iN8s(e2fZS9cj, 245314219);
+e2fZS9cj = iN8s(e2fZS9cj, (unsigned short)245314219);
 break;
 }
 
@@ -215,7 +215,7 @@ i++;
 }
 while (i < 4);
 }
-std::cout << iN8s(1139197541, -946649959) << y3yT(e2fZS9cj, -1060836944, 48504303, 520725430) << "x8CaOqqhgg" << iN8s(617918863, j03l3yle) << iN8s(962484274, j03l3yle) << std::endl;
+std::cout << iN8s(1139197541, -946649959) << y3yT(e2fZS9cj, (unsigned short)-1060836944, 48504303, 520725430) << "x8CaOqqhgg" << iN8s(617918863, j03l3yle) << iN8s(962484274, j03l3yle) << std::endl;
 
 if ((-2066754031 / y3yT(297881195, 71441708, 180839012, -833022389)) > -2063922947)
 {

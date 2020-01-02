@@ -31,7 +31,7 @@ long long  Eu9_71CeDj(long  ovc2O,int  F75n,long long  OzVIo8bJ98,unsigned long 
 
 int main(void) {
 	unsigned char	zD1Z77o	=	-1485154229;
-	short	JDC24AWKq	=	-399126386;
+	short	JDC24AWKq	=	(short)-399126386;
  long I441WW89 = -1605477247;
   unsigned int  dbGa  =  41327738;
     long long    bDOiLH    =    -870363138;
@@ -43,7 +43,7 @@ int main(void) {
 	unsigned short int	w17Y	=	-314122947;
 	float	UTk9559	=	1335807348;
   unsigned int  gHi01X3IF6  =  1595289322;
-    short int    cs6PYmX2    =    611413424;
+    short int    cs6PYmX2    =    (short)611413424;
     short int    KUdaJyT    =    -457940649;
  int FGg6LY = -120592573;
 	short	h0r8Ffn	=	0;
@@ -67,7 +67,7 @@ int main(void) {
     unsigned long    HmL_0Y4    =    190340345;
 	float	Y25361Vw1_	=	-933708829;
     long double    dZ_XH1HC    =    193302254;
-  unsigned short int  gkQ9  =  125353582;
+  unsigned short int  gkQ9  =  (unsigned short)125353582;
   unsigned long long  i_8VYe4  =  -38900586;
 	unsigned int	J0ebORW	=	1473511066;
 	long long	glB7k__RP	=	0;
@@ -79,7 +79,7 @@ int main(void) {
     long long    suzBgPKnf_    =    -104006468;
   float  Ejz6v18_wH  =  -2078036294;
     unsigned int    v3LN5UU_    =    -1803820255;
-  short  MgH98jie0l  =  1894399423;
+  short  MgH98jie0l  =  (short)1894399423;
 	short	iyT6_	=	933795627;
     short    D4po_W7    =    -1257058594;
     int    xyfd361o    =    -1221582012;
@@ -89,7 +89,7 @@ int main(void) {
   unsigned char  YNwm_yn3IV  =  15559525;
     long long    Yg9FAuE6    =    986637502;
 
-F662h9w = m51g156(F662h9w, D4po_W7, 1805420612, MgH98jie0l, uO02);
+F662h9w = m51g156(F662h9w, D4po_W7, (unsigned short)1805420612, MgH98jie0l, uO02);
 if (cs6PYmX2 != -1377526399)
 {
 std::cout << Eu9_71CeDj(1355089354, D4po_W7, hBtTCwz, 2038831276) << MgH98jie0l << std::endl;
@@ -257,7 +257,7 @@ while (k < 4);
 }
 }
 UTk9559 = qEz0KN(-479410553, KUdaJyT, -1082809681);
-S0QWQMiY = m51g156(-446059562, 1629068839, 1651981246, RAEN_, FAEUuwVNb);
+S0QWQMiY = m51g156(-446059562, 1629068839, (unsigned short)1651981246, RAEN_, FAEUuwVNb);
 try
 {
 {
@@ -382,7 +382,7 @@ dZ_XH1HC = (int)floor(Ejz6v18_wH);
 }
 else if (glB7k__RP != -911741189)
 {
-w17Y = m51g156(w17Y, 1006685944, -1352063298, 982361829, 301710912);
+w17Y = m51g156(w17Y, 1006685944, -1352063298, (unsigned char)982361829, 301710912);
 }
 else if (suzBgPKnf_ != JDC24AWKq)
 {

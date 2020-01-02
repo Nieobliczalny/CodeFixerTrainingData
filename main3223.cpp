@@ -93,7 +93,7 @@ case 2:
 jFfX11J = oM18(lS0b37q25, HAeem, 1091078113);
 break;
 case 3:
-jFfX11J = oM18(nMoi, osr8a, -1111629880);
+jFfX11J = oM18(nMoi, osr8a, (unsigned char)-1111629880);
 break;
 case 4:
 rq1zMEy = KmJ1hw / 1899893701;

@@ -40,6 +40,7 @@ int    Pgpf_rWKLW(long    aG6BAp1RZ,char    Z_23H,short    cQ0RNu3,short    SPRY
 
 int main(void)
 {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
   char  W12yB0w7  =  1597032365,  pzfXAf  =  -327817929,  b0hi  =  751231065,  FS16b  =  1394809242,  M157Xhab1  =  -1592167192,  XuH7JzLfc3  =  1892509056,  G05sD  =  -1180417415,  T8t14  =  -1249143818;
 	short	nrbbBw	=	0,	up9h	=	0,	RX9_48	=	0,	MxtV	=	0,	dOx24Z	=	0;
 
@@ -112,7 +113,7 @@ T8t14 = (int)abs(RX9_48) + (-1520700386);
 break;
 case 'd':
 case 'D':
-M157Xhab1 = IlVpE(1695906345, M157Xhab1, 1520715428, 1749402585, FS16b);
+M157Xhab1 = IlVpE(1695906345, M157Xhab1, (short)1520715428, 1749402585, FS16b);
 break;
 case 'e':
 case 'E':
@@ -135,7 +136,7 @@ case 3:
 W12yB0w7 = FS16b ^ G05sD;
 break;
 case 4:
-T8t14 = r_2aE2rDy4(T8t14, -246852955, 667176176);
+T8t14 = r_2aE2rDy4(T8t14, (short)-246852955, 667176176);
 break;
 case 5:
 W12yB0w7 = Pgpf_rWKLW(-1807559653, -373987994, M157Xhab1, -1724911131);

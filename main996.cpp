@@ -36,7 +36,7 @@ int main(int argc, char** argv)
 	unsigned long long	R252GQMz2z;
 	R252GQMz2z	=	0;
     unsigned short int    Gv2w;
-    Gv2w    =    1095657882;
+    Gv2w    =    (unsigned short)1095657882;
 
 for (int i = 0; i < 1; ++i)
 {

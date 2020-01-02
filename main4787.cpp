@@ -28,7 +28,7 @@ int main() {
   unsigned short int  PSxJ  =  0;
     double    J9445_hC    =    80755905;
     short    DPkNWvx3l2    =    -311171154;
-  short int  V_g0X7dl  =  2001053876;
+  short int  V_g0X7dl  =  (short)2001053876;
   float  iQc711  =  -1648080695;
     unsigned short    h_i_    =    1045458808;
 	double	KMltbuG47	=	-750152139;
@@ -42,7 +42,7 @@ int main() {
  unsigned int gIVLNfDE3E = -309204978;
  unsigned long A0D1EzA = 0;
   char  w0tw  =  343187015;
-	unsigned short	ob0d	=	2027649300;
+	unsigned short	ob0d	=	(unsigned short)2027649300;
 	long double	ozqS_9	=	451999710;
  long long yCpc7 = 605685733;
  short int yQ4cfdE = 0;
@@ -53,7 +53,7 @@ int main() {
 switch (V_g0X7dl)
 {
 case 'a':
-yQ4cfdE = qeXHZ5U(1822584838, yQ4cfdE, 1950850594);
+yQ4cfdE = qeXHZ5U(1822584838, yQ4cfdE, (unsigned short)1950850594);
 break;
 case 'b':
 KMltbuG47 = (int)floor(W7_T4CB);

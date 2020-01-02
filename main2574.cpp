@@ -100,7 +100,7 @@ for (int j = 0; j < 6; j++)
 switch (Nqw12)
 {
 case 0:
-ClIAMCnRb = Od63Y3c27G(Nqw12, -2107190966, -648742388, -884910776, zR4NDGx);
+ClIAMCnRb = Od63Y3c27G(Nqw12, -2107190966, -648742388, (char)-884910776, zR4NDGx);
 break;
 case 1:
 Rc1v %= 125367365;
@@ -193,7 +193,7 @@ if ((o_5Xf3lkc == -1702493388) && (j6ZQ_jw >= 336255093))
 {
 for (int k = 4; k >= 0; k--)
 {
-ClIAMCnRb = Od63Y3c27G(-494395731, ClIAMCnRb, 2048931994, KUds, jigfa2N);
+ClIAMCnRb = Od63Y3c27G(-494395731, ClIAMCnRb, (short)2048931994, KUds, jigfa2N);
 }
 }
 }

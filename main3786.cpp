@@ -17,7 +17,7 @@ int main(int argc, char** argv)
 	unsigned short	vGto5ymQ11	=	2109778620;
 	double	rfwYl5XIW	=	1765383404;
  unsigned long Zd2I5vD17O = 691500515;
-    short    H6CIiSa    =    -2073707502;
+    short    H6CIiSa    =    (short)-2073707502;
 	short int	qJ3fY7Ssz9	=	32651269;
     unsigned short int    f97p    =    1641185961;
 	float	gBNJa_	=	-1890932820;
@@ -27,7 +27,7 @@ int main(int argc, char** argv)
  unsigned char gJX7 = -291700902;
     unsigned long long    HHpeM8    =    457121528;
     long long    uKH6AV    =    -970813034;
-  short  BLDycy9Bi  =  -175069494;
+  short  BLDycy9Bi  =  (short)-175069494;
  float vA0HQ = -702252747;
   long double  e1ZMneRJov  =  -2087518571;
   long  Js1Zn9  =  -716114626;
@@ -37,7 +37,7 @@ int main(int argc, char** argv)
  unsigned long QO_2PxaY = -513238483;
   long  yrQUW4  =  -450967347;
  short E9VL8Vt9 = -733712845;
-	short	WEkJs9	=	-1841915126;
+	short	WEkJs9	=	(short)-1841915126;
     float    YgVZ    =    -1095673315;
  unsigned short za8TV = 0;
 	int	U2Z72	=	-383408462;
@@ -50,7 +50,7 @@ int main(int argc, char** argv)
     unsigned short    Tw61Ug    =    1752304231;
 	int	CHVE	=	-276060450;
  float mCd7t_ = 2022413596;
- unsigned short Eq7i2_x37 = 1787087029;
+ unsigned short Eq7i2_x37 = (unsigned short)1787087029;
  unsigned int VdPQ = 860857793;
     unsigned long    xPwqx    =    -741047468;
 	unsigned char	tx78KVpG7h	=	1251641596;
@@ -62,7 +62,7 @@ int main(int argc, char** argv)
 	float	Ypsm6O	=	1011327325;
   long  F0JU9L47gm  =  2096346300;
     long double    s4AH8U9    =    1738597067;
-    unsigned short int    y_5_    =    -2135600858;
+    unsigned short int    y_5_    =    (unsigned short)-2135600858;
     unsigned long    dMM_Ss9M66    =    -1225318140;
     long long    KMSoh    =    -416609677;
   float  aP_w20j8  =  -568188052;

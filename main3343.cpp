@@ -10,7 +10,7 @@ using namespace std;
 
 int main(void) {
   unsigned char  ylsWXsJb_  =  2029772890;
-    short int    whw813    =    -700277617;
+    short int    whw813    =    (short)-700277617;
  short KdOG = -1180059763;
 	char	sSKixprHw4	=	-1535515668;
     short int    Qab99x_    =    1823492119;
@@ -24,7 +24,7 @@ int main(void) {
     long double    CZxo    =    509069484;
   long long  H8orT8f  =  826832451;
  long llz8wBP2 = 1351019773;
- char e0_P = 818790205;
+ char e0_P = (char)818790205;
     long long    LVQ28m    =    1509352882;
   double  iwB9A  =  1794336327;
 	float	L1Sk6	=	1143673341;
@@ -37,7 +37,7 @@ int main(void) {
     long double    nF0a8L    =    475913225;
  float W5l4fS = 1750556622;
  float nvEBGxG = 850094488;
- unsigned short int Ko487NE = -214510940;
+ unsigned short int Ko487NE = (unsigned short)-214510940;
     unsigned short int    hC68    =    -2098969210;
     long long    GtSNNw2    =    386454448;
     short int    bk8HT    =    591058173;
@@ -49,7 +49,7 @@ int main(void) {
   unsigned short  jdouN  =  555207313;
  unsigned long long k253F = -595256690;
     unsigned short int    smvCjF2m51    =    0;
-  short int  zxB9A39h  =  -1554675580;
+  short int  zxB9A39h  =  (short)-1554675580;
 	int	EzyyBEW6	=	1535061;
  short int C929A7 = -409552383;
   unsigned short int  CZ7cI_S  =  1888544721;
@@ -60,7 +60,7 @@ int main(void) {
     short int    X_37zUR    =    1144365816;
 	long	Q7yDo6_PE	=	-1742922546;
     double    slOdOD79    =    -1572427845;
-	unsigned short	nZdp7_2k	=	-329376598;
+	unsigned short	nZdp7_2k	=	(unsigned short)-329376598;
   unsigned long  pQ5JSAy4  =  -897579788;
  long long O904 = 522804473;
     char    J741cjCuz    =    -1018100947;
@@ -70,7 +70,7 @@ int main(void) {
 	unsigned char	Q2_i98O	=	186711129;
   char  bCqa0Ua3  =  -682776936;
     unsigned long    BpVTRt    =    -745872065;
-    unsigned short int    h5pX    =    -2065573678;
+    unsigned short int    h5pX    =    (unsigned short)-2065573678;
   unsigned long long  dlco592  =  -2085358854;
     short int    k6Gk    =    1730063878;
  char WTCRI = 1132421212;
@@ -80,7 +80,7 @@ int main(void) {
 	long double	ZR1MyONL	=	-982014938;
 	long double	XZro26f	=	44637804;
     double    ol57wP9sJ0    =    544792332;
-    char    h9aGwhJi3    =    -1474161863;
+    char    h9aGwhJi3    =    (char)-1474161863;
     unsigned char    A9j_Q    =    1117330963;
  long mo_e5701G = 0;
 	char	Yr1DVTAVM	=	-1080041491;

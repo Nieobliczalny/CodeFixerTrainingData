@@ -18,7 +18,7 @@ int main()
   float  zO3un6S1;
   zO3un6S1  =  558570245;
 	short	GFLLp;
-	GFLLp	=	1618437835;
+	GFLLp	=	(short)1618437835;
   unsigned char  rEKvsE;
   rEKvsE  =  -1663190550;
     unsigned long long    yS7he;
@@ -28,7 +28,7 @@ int main()
  char nAIW0;
  nAIW0 = 710675053;
 	char	H7cNUU2NFx;
-	H7cNUU2NFx	=	-1259858549;
+	H7cNUU2NFx	=	(char)-1259858549;
 	short	X2R2;
 	X2R2	=	626240912;
   double  uWVazVcDk;
@@ -68,7 +68,7 @@ int main()
   unsigned long  l_sWetM;
   l_sWetM  =  -2114274686;
     char    uA07;
-    uA07    =    -523045863;
+    uA07    =    (char)-523045863;
 	unsigned long long	NR_DXey_;
 	NR_DXey_	=	0;
   char  Ox6rT;
@@ -82,7 +82,7 @@ int main()
 	long double	t99L4EL_;
 	t99L4EL_	=	-1086634598;
  unsigned short int TbezTU;
- TbezTU = -1732141409;
+ TbezTU = (unsigned short)-1732141409;
   long long  BiT8Y7;
   BiT8Y7  =  -1185005873;
 	char	UZalU2LV_;
@@ -92,7 +92,7 @@ int main()
 	unsigned char	ZC457amSot;
 	ZC457amSot	=	-394428307;
  short int pL2110;
- pL2110 = -1144745245;
+ pL2110 = (short)-1144745245;
  long mDhzi98;
  mDhzi98 = -1615069007;
   unsigned short  Zu6g48z056;
@@ -102,7 +102,7 @@ int main()
     unsigned short int    dc9Lu9;
     dc9Lu9    =    -1601706666;
   unsigned short  y6A2k;
-  y6A2k  =  -1463190553;
+  y6A2k  =  (unsigned short)-1463190553;
     double    w8Vqmp;
     w8Vqmp    =    -1519791247;
     unsigned long long    w0EdYqF;
@@ -117,7 +117,7 @@ int i = 0;
 do
 {
 ++i;
-cout << We9R9H(T3Oh3TTw, -1681912583, -291407740) << E4Tb << We9R9H(T3Oh3TTw, BiT8Y7, 1606360258) << h30gQG2 << endl;
+cout << We9R9H(T3Oh3TTw, -1681912583, (unsigned short)-291407740) << E4Tb << We9R9H(T3Oh3TTw, BiT8Y7, 1606360258) << h30gQG2 << endl;
 }
 while (i < 1);
 }
@@ -163,7 +163,7 @@ yS7he |= 892796875;
 break;
 case 'i':
 case 'I':
-NR_DXey_ = We9R9H(738524821, ZC457amSot, mDhzi98);
+NR_DXey_ = We9R9H((short)738524821, ZC457amSot, mDhzi98);
 break;
 }
 for (int i = 8; i >= 0; --i)
@@ -176,7 +176,7 @@ switch (Zu6g48z056)
 {
 case 'a':
 case 'A':
-NR_DXey_ = We9R9H(1275610969, 182018473, -2099271513);
+NR_DXey_ = We9R9H(1275610969, 182018473, (unsigned short)-2099271513);
 break;
 case 'b':
 case 'B':
@@ -192,7 +192,7 @@ t99L4EL_ = (int)floor(w0qBWU);
 break;
 case 'e':
 case 'E':
-NR_DXey_ = We9R9H(685123227, iK2sv7WeP, 286280581);
+NR_DXey_ = We9R9H(685123227, iK2sv7WeP, (unsigned short)286280581);
 break;
 case 'f':
 case 'F':

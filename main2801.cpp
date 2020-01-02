@@ -59,7 +59,7 @@ if ((H064yZ >= jTHA) || (S0Ga8rA >= NdCf3_IM))
 {
 for (int k = 4; k >= 0; k--)
 {
-GH0V1W8 = jvk_M5Io(-1217357617, -566623462, 427733281, lhd5_EwWU, 1109967640);
+GH0V1W8 = jvk_M5Io(-1217357617, -566623462, 427733281, lhd5_EwWU, (unsigned short)1109967640);
 }
 }
 else
@@ -100,7 +100,7 @@ if (((S94r <= 1222616968) && (u37YM <= -398637336)) || ((H2M7_8 > h06u7) && (W0R
 {
 try
 {
-j_ij3_ = jvk_M5Io(-2033087074, ejy08D, U9rC, q82263, -897999223);
+j_ij3_ = jvk_M5Io(-2033087074, ejy08D, U9rC, q82263, (unsigned short)-897999223);
 }
 catch (int& errorCode)
 {
@@ -150,7 +150,7 @@ i++;
 }
 while (i < 6);
 }
-NuX470otp = p_36Bj(NuX470otp, 565385799, -1288868085, 1992741870);
+NuX470otp = p_36Bj(NuX470otp, (char)565385799, -1288868085, 1992741870);
 
 Q717J7Ec = (long double)(Z_S9zsL);
 std::cout << p_36Bj(NuX470otp, T7G0i34b, 1492487480, j_ij3_) << "Jko_Xj05" << std::endl;

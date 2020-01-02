@@ -83,7 +83,7 @@ pM85 = YAQ_r8lrf();
 break;
 case 'c':
 case 'C':
-PV5SPT2h1A = K3AFGf(-920018731, -1513106012, Qfzn8837wP);
+PV5SPT2h1A = K3AFGf(-920018731, (unsigned char)-1513106012, Qfzn8837wP);
 break;
 case 'd':
 case 'D':
@@ -170,7 +170,7 @@ pM85++;
 }
 else
 {
-std::cout << BIMF9g << "xB1ci_VUD" << K3AFGf(-901604460, -905078061, j081214S) << std::endl;
+std::cout << BIMF9g << "xB1ci_VUD" << K3AFGf(-901604460, (unsigned char)-905078061, j081214S) << std::endl;
 }
 }
 try
@@ -303,7 +303,7 @@ pM85 = V_aFUiVhb << P7Bv_YET;
 }
 else
 {
-j081214S = K3AFGf(-1970315409, -608915739, -1240085727);
+j081214S = K3AFGf(-1970315409, (unsigned char)-608915739, -1240085727);
 }
 }
 catch (int& errorCode)
@@ -486,6 +486,6 @@ unsigned int	S306(int	r7Q3c,char	xPC6FjO)	{
 
 short int	YAQ_r8lrf()
 {
-	return	479292115;
+	return	(short)479292115;
 }
 

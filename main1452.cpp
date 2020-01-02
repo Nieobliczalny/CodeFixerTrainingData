@@ -102,7 +102,7 @@ for (int j = 0; j < 5; j++)
 {
 try
 {
-gv5aO0 = nQL9_CkjV(-629192731, -190746078, -1689742929);
+gv5aO0 = nQL9_CkjV(-629192731, -190746078, (short)-1689742929);
 }
 catch (int& errorCode)
 {
@@ -133,7 +133,7 @@ case 5:
 gv5aO0 = nQL9_CkjV(-592180692, oSMrX5ZH8o, BgYD5x3);
 break;
 case 6:
-gv5aO0 = nQL9_CkjV(1146451661, NR68mSL4, -2098310864);
+gv5aO0 = nQL9_CkjV((short)1146451661, NR68mSL4, -2098310864);
 break;
 }
 }
@@ -152,7 +152,7 @@ case 2:
 SH7x_OXke = (oSMrX5ZH8o <= m0O1) ? TZUWgO_x : JAJsf;
 break;
 case 3:
-gv5aO0 = nQL9_CkjV(795713734, 1187320714, -897318881);
+gv5aO0 = nQL9_CkjV(795713734, 1187320714, (short)-897318881);
 break;
 case 4:
 SH7x_OXke = (int)ceil(WoKH);
@@ -211,7 +211,7 @@ gv5aO0 = nQL9_CkjV(1015370523, -1046137232, a496i_);
 break;
 }
 
-gv5aO0 = nQL9_CkjV(-537284991, -229316115, NR68mSL4);
+gv5aO0 = nQL9_CkjV((short)-537284991, -229316115, NR68mSL4);
 
 {
 int i = 0;
@@ -271,7 +271,7 @@ case 'g':
 WoKH = (int)ceil(JAJsf);
 break;
 case 'h':
-gv5aO0 = nQL9_CkjV(1070921440, 1858154227, -10343147);
+gv5aO0 = nQL9_CkjV(1070921440, 1858154227, (short)-10343147);
 break;
 case 'i':
 gv5aO0 = nQL9_CkjV(WoKH, TZUWgO_x, m0O1);
@@ -325,7 +325,7 @@ while (i >= 0);
 
 if (TZUWgO_x >= x94F)
 {
-std::cout << "iZ_Bhz1c" << nQL9_CkjV(BgYD5x3, 587426561, -1374809566) << SH7x_OXke << nQL9_CkjV(BgYD5x3, WoKH, -1585349118) << std::endl;
+std::cout << "iZ_Bhz1c" << nQL9_CkjV(BgYD5x3, 587426561, -1374809566) << SH7x_OXke << nQL9_CkjV(BgYD5x3, WoKH, (short)-1585349118) << std::endl;
 }
 else if (NR68mSL4)
 {
@@ -349,7 +349,7 @@ case 'b':
 JAJsf = (int)abs(mwyy_4lGc);
 break;
 case 'c':
-gv5aO0 = nQL9_CkjV(244763747, wW7C, -425667857);
+gv5aO0 = nQL9_CkjV(244763747, wW7C, (short)-425667857);
 break;
 case 'd':
 gv5aO0 = nQL9_CkjV(-1519329277, m0O1, SH7x_OXke);
@@ -370,7 +370,7 @@ break;
 }
 else if (gv5aO0 < 268344344)
 {
-gv5aO0 = nQL9_CkjV(1814918597, 1623042433, m0O1);
+gv5aO0 = nQL9_CkjV((short)1814918597, 1623042433, m0O1);
 }
 else
 {

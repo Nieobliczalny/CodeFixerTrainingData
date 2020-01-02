@@ -33,7 +33,7 @@ int main() {
   unsigned int  G8aB  =  1825621280;
 	unsigned char	cs6mBw	=	0;
 	unsigned int	Raici6y62	=	1606398803;
-	char	Q0_787	=	-627523170;
+	char	Q0_787	=	(char)-627523170;
     unsigned long    SsjRZ    =    993308775;
     unsigned long long    rt6z0n    =    500120731;
 

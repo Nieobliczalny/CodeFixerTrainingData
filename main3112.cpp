@@ -21,7 +21,7 @@ int main(int argc, char** argv)
  int nZTNfs = 0;
  unsigned char jd1keQ2 = -574414967;
 	unsigned long long	L8443iO	=	-1079951375;
- char N6l8jN4_2p = 1327164075;
+ char N6l8jN4_2p = (char)1327164075;
     long long    a52l    =    0;
  double WDq_m = 1938165660;
   unsigned short int  B0_9lTGOk  =  -50994109;
@@ -114,7 +114,7 @@ for (int j = 10; j >= 0; --j)
 {
 if (a52l > B2rESZ3uD)
 {
-L8443iO = t7J4ji51X6(1655437614, 1513557540);
+L8443iO = t7J4ji51X6(1655437614, (short)1513557540);
 }
 else
 {
@@ -145,7 +145,7 @@ std::cout << x8DkJR24DF << t7J4ji51X6(WDq_m, -1428962804) << t7J4ji51X6(WDq_m, B
 }
 else if (L8443iO & O8i74kaCL)
 {
-L8443iO = t7J4ji51X6(L8443iO, -331631766);
+L8443iO = t7J4ji51X6(L8443iO, (short)-331631766);
 }
 else
 {
@@ -175,7 +175,7 @@ L8443iO = t7J4ji51X6(1835905527, -632188659);
 break;
 case 'f':
 case 'F':
-N_3xeb1wW = t7J4ji51X6(N_3xeb1wW, -1058845343);
+N_3xeb1wW = t7J4ji51X6(N_3xeb1wW, (short)-1058845343);
 break;
 case 'g':
 case 'G':
@@ -213,7 +213,7 @@ case 'g':
 nZTNfs = rb0mC2(-1830715879);
 break;
 case 'h':
-a52l = rb0mC2(-2100682749);
+a52l = rb0mC2((unsigned short)-2100682749);
 break;
 case 'i':
 x8DkJR24DF %= jd1keQ2;
@@ -270,7 +270,7 @@ case 4:
 L8443iO = t7J4ji51X6(L8443iO, -1986541500);
 break;
 case 5:
-N_3xeb1wW = t7J4ji51X6(N_3xeb1wW, 408677858);
+N_3xeb1wW = t7J4ji51X6(N_3xeb1wW, (short)408677858);
 break;
 case 6:
 jd1keQ2 = t7J4ji51X6(jd1keQ2, -1024918080);
@@ -288,7 +288,7 @@ break;
 switch (B0_9lTGOk)
 {
 case 'a':
-a52l = rb0mC2(-1307612614);
+a52l = rb0mC2((unsigned short)-1307612614);
 break;
 case 'b':
 x8DkJR24DF++;
@@ -314,7 +314,7 @@ case 0:
 WDq_m = t7J4ji51X6(1706202742, 906913795);
 break;
 case 1:
-WDq_m = t7J4ji51X6(WDq_m, 1241631366);
+WDq_m = t7J4ji51X6(WDq_m, (short)1241631366);
 break;
 case 2:
 jd1keQ2 = t7J4ji51X6(-1530745451, 1225979472);

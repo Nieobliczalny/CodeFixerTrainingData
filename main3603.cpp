@@ -73,7 +73,7 @@ switch (jX9g0YP)
 {
 case 'a':
 case 'A':
-l9DUoITUum = Hb_fOl_gxf(l9DUoITUum, 69321958, 2130526537);
+l9DUoITUum = Hb_fOl_gxf(l9DUoITUum, (unsigned short)69321958, 2130526537);
 break;
 case 'b':
 case 'B':
@@ -94,7 +94,7 @@ if (HzLaw < xJ46_C)
 {
 try
 {
-AYrJF1VEfi = Hb_fOl_gxf(AYrJF1VEfi, -199771509, 1163787110);
+AYrJF1VEfi = Hb_fOl_gxf(AYrJF1VEfi, -199771509, (char)1163787110);
 }
 catch (int& errorCode)
 {
@@ -154,7 +154,7 @@ case 'f':
 u6NFt25 = Wo1e6fMk_K(-1146150111, uHTw65r);
 break;
 case 'g':
-l9DUoITUum = Hb_fOl_gxf(u6NFt25, 528343783, -828603791);
+l9DUoITUum = Hb_fOl_gxf(u6NFt25, 528343783, (char)-828603791);
 break;
 case 'h':
 pYg0lwr = Hb_fOl_gxf(-1332429241, 1682572990, AYrJF1VEfi);
@@ -258,7 +258,7 @@ case 0:
 jX9g0YP = Hb_fOl_gxf(u6NFt25, jX9g0YP, -1873471623);
 break;
 case 1:
-HzLaw = Hb_fOl_gxf(u6NFt25, HzLaw, -752815522);
+HzLaw = Hb_fOl_gxf(u6NFt25, HzLaw, (char)-752815522);
 break;
 case 2:
 u6NFt25 = Wo1e6fMk_K(-203987848, jX9g0YP);

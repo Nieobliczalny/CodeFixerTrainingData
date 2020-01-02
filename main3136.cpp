@@ -241,7 +241,7 @@ case 1:
 XEu1 /= Hj6S5;
 break;
 case 2:
-X0Ko5EX = TK959_(903837326, X0Ko5EX);
+X0Ko5EX = TK959_((short)903837326, X0Ko5EX);
 break;
 case 3:
 C3p604 = Y5xjh / 288405213;
@@ -274,7 +274,7 @@ else if (DgV3u9I9 >= eeFbOk)
 {
 if (XD7713c6TN > Hj6S5)
 {
-X0Ko5EX = TK959_(1281738063, v391cr49N);
+X0Ko5EX = TK959_((short)1281738063, v391cr49N);
 }
 else
 {
@@ -415,7 +415,7 @@ F4v_1kqKZ = TK959_(-2065484913, -910246084);
 }
 else
 {
-nn5lstzB = TK959_(-658527245, S8wTtA8);
+nn5lstzB = TK959_((short)-658527245, S8wTtA8);
 }
 }
 else

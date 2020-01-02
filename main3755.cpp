@@ -29,7 +29,7 @@ int main(int argc, char** argv)
 	long	JHl0s;
 	JHl0s	=	-1512121203;
 	short	nt_Q6_;
-	nt_Q6_	=	-1297986827;
+	nt_Q6_	=	(short)-1297986827;
   unsigned int  b9_N06ko;
   b9_N06ko  =  0;
  short N4E2I028H;
@@ -39,7 +39,7 @@ int main(int argc, char** argv)
 
 cout << SPp3E1No << JW7CZV5z_(-832992880, -980377401, r070t14b, 1368831047) << r070t14b << uIi6QOym09(xGwjMsd9, SPp3E1No) << endl;
 b9_N06ko = SW8iYnl(-1851949605, -879156681, xGwjMsd9, JHl0s, SPp3E1No);
-r070t14b = JHl0s / SW8iYnl(918218578, -68852856, xGwjMsd9, -401702618, 317693492);
+r070t14b = JHl0s / SW8iYnl(918218578, (unsigned short)-68852856, xGwjMsd9, -401702618, 317693492);
 
 JHl0s = SPp3E1No & 1982296106;
 for (int i = 5; i >= 0; --i)
@@ -80,7 +80,7 @@ int k = 0;
 while (k < 9)
 {
 k++;
-xGwjMsd9 = H_P1n(xGwjMsd9, -1030683217, -107417350);
+xGwjMsd9 = H_P1n(xGwjMsd9, -1030683217, (short)-107417350);
 }
 }
 }
@@ -135,7 +135,7 @@ else if ((b9_N06ko != -2099547417) || (r070t14b))
 switch (b9_N06ko)
 {
 case 0:
-JHl0s = uIi6QOym09(1971442060, r070t14b);
+JHl0s = uIi6QOym09((unsigned short)1971442060, r070t14b);
 break;
 case 1:
 xGwjMsd9 %= nt_Q6_;
@@ -154,7 +154,7 @@ switch (SPp3E1No)
 {
 case 'a':
 case 'A':
-b9_N06ko = SW8iYnl(-1812894514, -368594042, xGwjMsd9, 1484272489, 184452627);
+b9_N06ko = SW8iYnl(-1812894514, -368594042, xGwjMsd9, 1484272489, (unsigned short)184452627);
 break;
 case 'b':
 case 'B':
@@ -182,7 +182,7 @@ JHl0s = (int)abs(nt_Q6_);
 break;
 case 'h':
 case 'H':
-r070t14b = H_P1n(1165256479, 1716818501, 1159530298);
+r070t14b = H_P1n(1165256479, 1716818501, (short)1159530298);
 break;
 }
 }
@@ -204,7 +204,7 @@ JHl0s >>= 1950382779;
 }
 else
 {
-cout << H_P1n(SPp3E1No, 1864147760, 1965352743) << "aIXTo4c" << endl;
+cout << H_P1n(SPp3E1No, 1864147760, (short)1965352743) << "aIXTo4c" << endl;
 }
 
 cout << H_P1n(SPp3E1No, b9_N06ko, r070t14b) << SPp3E1No << "O8q1eC_F_" << "T2dR_l3yC" << JW7CZV5z_(500207550, b9_N06ko, r070t14b, JHl0s) << endl;
@@ -300,7 +300,7 @@ case 0:
 r070t14b %= 404007414;
 break;
 case 1:
-N4E2I028H = SW8iYnl(JHl0s, 577893626, -251294171, N4E2I028H, 1043698882);
+N4E2I028H = SW8iYnl(JHl0s, 577893626, -251294171, N4E2I028H, (unsigned short)1043698882);
 break;
 case 2:
 N4E2I028H = SW8iYnl(nt_Q6_, 707741809, xGwjMsd9, r070t14b, N4E2I028H);

@@ -16,7 +16,7 @@ unsigned long  KCIxiau17v(unsigned short int  URe_yy3uX,unsigned short int  eJTw
 
 int main(void) {
   short  VBoS_6CNw  =  705114465;
-	unsigned char	r8GN9QTsep	=	-946824275;
+	unsigned char	r8GN9QTsep	=	(unsigned char)-946824275;
  long long woXN = 0;
 	int	q7_5c	=	539892866;
     unsigned short int    B47_EGI_Y    =    1522442884;
@@ -28,7 +28,7 @@ int main(void) {
  double K5vt0 = 28459948;
  unsigned char U17J9 = 228883572;
   int  k1Wl5gglPc  =  -770838209;
-    char    f_QA7    =    1440001998;
+    char    f_QA7    =    (char)1440001998;
  char MW1qD_4E0 = 1195784112;
     unsigned short    SuUr9xQ3    =    -1769278460;
     unsigned short    hz4k6_JRp    =    -153491922;
@@ -43,7 +43,7 @@ int main(void) {
     long    h2_2rU    =    -216609109;
  long uG7SK = 1311428251;
 
-cout << KCIxiau17v(2114276174, k1Wl5gglPc, S6Z_56s) << "BTc8771" << JU1R86 << e_fF(1886869928, k1Wl5gglPc) << kr8d << endl;
+cout << KCIxiau17v((unsigned short)2114276174, k1Wl5gglPc, S6Z_56s) << "BTc8771" << JU1R86 << e_fF(1886869928, k1Wl5gglPc) << kr8d << endl;
 
 if (JU1R86 == -181158883)
 {
@@ -67,7 +67,7 @@ wiYcfQ3w7 = SuUr9xQ3 | 690366607;
 }
 if (((YNA_N0 <= -351070595) && (WAM_y4L != -272896863)) && ((q7_5c != EaHne) || (U17J9 > 2093215135)))
 {
-cout << e_fF(-1325207040, dx8SKu) << zxL5Qd << B47_EGI_Y << KCIxiau17v(510099537, 1138529334, -645422818) << e_fF(YNA_N0, 1528466683) << endl;
+cout << e_fF(-1325207040, dx8SKu) << zxL5Qd << B47_EGI_Y << KCIxiau17v(510099537, (unsigned short)1138529334, -645422818) << e_fF(YNA_N0, 1528466683) << endl;
 }
 else if ((r8GN9QTsep != MW1qD_4E0) && ((U17J9) || (zxL5Qd >= 316111461)))
 {
@@ -111,7 +111,7 @@ int j = 0;
 while (j < 5)
 {
 j++;
-cout << KCIxiau17v(-2141060337, -247325482, JU1R86) << e_fF(B47_EGI_Y, SuUr9xQ3) << endl;
+cout << KCIxiau17v(-2141060337, (unsigned short)-247325482, JU1R86) << e_fF(B47_EGI_Y, SuUr9xQ3) << endl;
 }
 }
 }
@@ -204,7 +204,7 @@ K5vt0 = (int)ceil(Vg41k5jRe);
 }
 else
 {
-cout << "nB67hVL" << B8i1PlgK << "M0KrE6o" << KCIxiau17v(10063766, 462548721, -151811298) << wiYcfQ3w7 << endl;
+cout << "nB67hVL" << B8i1PlgK << "M0KrE6o" << KCIxiau17v(10063766, (unsigned short)462548721, -151811298) << wiYcfQ3w7 << endl;
 }
 }
 
@@ -277,7 +277,7 @@ case 1:
 q7_5c /= U17J9;
 break;
 case 2:
-r8GN9QTsep = qRhectqb(-691929570, B8i1PlgK);
+r8GN9QTsep = qRhectqb((unsigned char)-691929570, B8i1PlgK);
 break;
 case 3:
 dx8SKu <<= k1Wl5gglPc;

@@ -32,7 +32,7 @@ int main(int argc, char** argv)
     unsigned char    sUhor58A9;
     sUhor58A9    =    -1065398342;
 	unsigned short	lpmzD_;
-	lpmzD_	=	1758190326;
+	lpmzD_	=	(unsigned short)1758190326;
 	int	T7f9HQ;
 	T7f9HQ	=	124779074;
 	unsigned char	xv704U2z4;
@@ -48,7 +48,7 @@ int main(int argc, char** argv)
  unsigned long ZUqGVH2G12;
  ZUqGVH2G12 = -1693130429;
   short int  nBK51772M;
-  nBK51772M  =  -1231659578;
+  nBK51772M  =  (short)-1231659578;
   unsigned short int  B_u7H;
   B_u7H  =  0;
     unsigned char    nlPC0zL;
@@ -126,7 +126,7 @@ r_ACYF7y <<= nlPC0zL;
 }
 UyC13_ &= 1593997745;
 
-std::cout << pW4asS6n(-1159362714, T7f9HQ, xv704U2z4, nlPC0zL) << "Ve7hXT" << CsrD << RC38(952764449, -1435918180, 750349006, 1886410947) << "E9VuH" << std::endl;
+std::cout << pW4asS6n(-1159362714, T7f9HQ, xv704U2z4, nlPC0zL) << "Ve7hXT" << CsrD << RC38(952764449, -1435918180, 750349006, (short)1886410947) << "E9VuH" << std::endl;
 
 std::cout << CsrD << L99KOb(1968131558, 947154866, xv704U2z4, nlPC0zL) << F25o79sHr << std::endl;
 
@@ -196,7 +196,7 @@ case 3:
 XCVyJJ4 /= 1959902528;
 break;
 case 4:
-nlPC0zL = RC38(nlPC0zL, 2120904589, ZUqGVH2G12, -1744530883);
+nlPC0zL = RC38(nlPC0zL, 2120904589, ZUqGVH2G12, (short)-1744530883);
 break;
 case 5:
 F25o79sHr = RC38(-1214800309, F25o79sHr, 1689105277, 1279645775);
@@ -241,7 +241,7 @@ case 'F':
 xv704U2z4 %= T7f9HQ;
 break;
 default:
-nlPC0zL = RC38(1511400546, -248435925, F25o79sHr, 1887187664) * 1662826411;
+nlPC0zL = RC38(1511400546, (unsigned short)-248435925, F25o79sHr, 1887187664) * 1662826411;
 break;
 }
 }
@@ -339,7 +339,7 @@ u1N_N12 = L99KOb(u1N_N12, sUhor58A9, r_ACYF7y, qTku_3o);
 }
 else if (F25o79sHr)
 {
-lpmzD_ = RC38(600920030, -240337285, XCVyJJ4, -1288618875);
+lpmzD_ = RC38(600920030, -240337285, XCVyJJ4, (short)-1288618875);
 }
 else if (AA81 < -1895585541)
 {
@@ -399,7 +399,7 @@ case 4:
 UyC13_ = r_ACYF7y << 2108795150;
 break;
 case 5:
-u1N_N12 = RC38(u1N_N12, -286042427, B_u7H, qTku_3o);
+u1N_N12 = RC38(u1N_N12, (unsigned short)-286042427, B_u7H, qTku_3o);
 break;
 }
 }

@@ -15,7 +15,7 @@ using std::floor;
 int main(void) {
   unsigned short  KP660Zw  =  2005326303;
  unsigned long ozto9 = 1512503960;
- short zq5Q1z = 1035667436;
+ short zq5Q1z = (short)1035667436;
 	long long	AYP3L	=	0;
  unsigned int gU5_6 = 2090213518;
     char    lCyFGDN5F    =    -357602666;
@@ -29,7 +29,7 @@ int main(void) {
     short    fP68P    =    892503129;
  float a6AN = -2133282388;
     long double    owfUYRnmI7    =    359633217;
- unsigned short GLy0q9GiAb = -692491192;
+ unsigned short GLy0q9GiAb = (unsigned short)-692491192;
 	unsigned short int	DOUtkdR	=	188602092;
 
 if ((DOUtkdR < -1966774188) || (fP68P & lCyFGDN5F))
@@ -65,7 +65,7 @@ zq5Q1z <<= 428031053;
 }
 else if (AYP3L & 451685862)
 {
-fP68P = (npEQ < 65106334) ? 856855919 : -564053231;
+fP68P = (npEQ < 65106334) ? 856855919 : (short)-564053231;
 }
 else if (DOUtkdR < GLy0q9GiAb)
 {

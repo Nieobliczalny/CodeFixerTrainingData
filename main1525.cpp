@@ -16,7 +16,7 @@ int main()
 	double	up4F_U05	=	-1554577139;
 	long double	g0d9155d	=	57087486;
 	unsigned char	z3BX2t	=	1395151738;
-    unsigned short int    Ltm1    =    341805020;
+    unsigned short int    Ltm1    =    (unsigned short)341805020;
  float J18hwW = -552460376;
  long R7mO = 1975599868;
 	short	tK3q4P	=	-1233938466;
@@ -27,7 +27,7 @@ int main()
     unsigned long long    b337R2U    =    24152877;
 	float	DldB	=	-748291809;
   short int  A36t2JpFA  =  -2001355712;
-  unsigned short int  fXX42SPe_k  =  -1689039070;
+  unsigned short int  fXX42SPe_k  =  (unsigned short)-1689039070;
   long  z68nH_z_0B  =  -502002380;
     short    h35rvJN8    =    1359716409;
 	short int	SCQO53	=	-540396964;
@@ -40,7 +40,7 @@ int main()
 	unsigned short	i52_R1JC	=	-1527394878;
   double  G0bSw4AwPl  =  802568536;
     long double    kje8PU43HY    =    -45307533;
- unsigned short int NaDe4_7K9 = 1093528988;
+ unsigned short int NaDe4_7K9 = (unsigned short)1093528988;
   long double  rsPS7Cxy41  =  1007070664;
   int  H50L8Zm  =  -1753227662;
 	unsigned long	GSNY__w	=	606711469;
@@ -52,7 +52,7 @@ int main()
     unsigned long    ocp0_a8s    =    -403384548;
  unsigned int eWs6 = -994126014;
     short    DgfSdIbgot    =    -1543120854;
-	short	D2el7c	=	555291522;
+	short	D2el7c	=	(short)555291522;
  unsigned short scFy_E = 0;
  long FdBV_Y80Cr = -1235654392;
 	long	g3w0g3ZG	=	-522373324;
@@ -65,7 +65,7 @@ int main()
     unsigned int    jd8Y    =    0;
   unsigned int  h05_9  =  1696628273;
   short  rpmB2f9rIX  =  1754616228;
-  short  k90X  =  -1472076233;
+  short  k90X  =  (short)-1472076233;
 	unsigned long long	CTI5ecp16	=	1346521154;
     unsigned short int    jXc0    =    155987810;
     unsigned long long    Sf87    =    1866644907;
@@ -99,7 +99,7 @@ case 2:
 Fz67h |= NaDe4_7K9;
 break;
 case 3:
-scFy_E = qnoFhgDky6(-332848505, FdBV_Y80Cr);
+scFy_E = qnoFhgDky6((short)-332848505, FdBV_Y80Cr);
 break;
 }
 try
@@ -111,7 +111,7 @@ catch (int& errorCode)
 fkt65l5U %= i52_R1JC;
 }
 
-scFy_E = qnoFhgDky6(-390426451, -1650093897);
+scFy_E = qnoFhgDky6((short)-390426451, -1650093897);
 
 {
 int i = 0;
@@ -219,7 +219,7 @@ g0d9155d = q8AWT45HN6(g0d9155d, 1691294011, 382749038);
 }
 }
 F88F *= 805212015;
-std::cout << qnoFhgDky6(-520261475, -477963068) << std::endl;
+std::cout << qnoFhgDky6((short)-520261475, -477963068) << std::endl;
 
 CTI5ecp16 = q8AWT45HN6(g0d9155d, eWs6, -702600839) / qnoFhgDky6(-879137037, eWs6);
 DldB = (int)ceil(kNO65f1Y);
@@ -358,7 +358,7 @@ if (C_d137_5 >= 1704221236)
 {
 for (int j = 3; j >= 0; j--)
 {
-D2el7c = q8AWT45HN6(D2el7c, 1993625516, -1830346389);
+D2el7c = q8AWT45HN6(D2el7c, 1993625516, (unsigned char)-1830346389);
 }
 }
 else if (h35rvJN8 <= pzDe)
@@ -391,7 +391,7 @@ fxuJ = (float)(O2f470MQe8);
 }
 else
 {
-std::cout << fxuJ << qnoFhgDky6(-412754411, tK3q4P) << q8AWT45HN6(-982102400, tK3q4P, wa59O) << q8AWT45HN6(1186875432, tK3q4P, 1458053056) << std::endl;
+std::cout << fxuJ << qnoFhgDky6(-412754411, tK3q4P) << q8AWT45HN6(-982102400, tK3q4P, wa59O) << q8AWT45HN6(1186875432, tK3q4P, (unsigned char)1458053056) << std::endl;
 }
 }
 else if ((b74n38 > Fz67h) && (h35rvJN8 == -1355831646))
@@ -477,7 +477,7 @@ case 'b':
 p8b5A = (int)abs(SCQO53);
 break;
 case 'c':
-jd8Y = qnoFhgDky6(-2083345962, A36t2JpFA);
+jd8Y = qnoFhgDky6((short)-2083345962, A36t2JpFA);
 break;
 case 'd':
 g0d9155d += Fz67h;
@@ -534,7 +534,7 @@ else if (((z97rt & 1205260207) && (b74n38 > 1515603556)) || (F88F != -1785730499
 int j = 10;
 do
 {
-std::cout << q8AWT45HN6(kje8PU43HY, aTJUROE7a, 1368337936) << q8AWT45HN6(kje8PU43HY, aTJUROE7a, 356067378) << q8AWT45HN6(-1222710083, aTJUROE7a, 1053051447) << "Ia_vXj022T" << lh9C << std::endl;
+std::cout << q8AWT45HN6(kje8PU43HY, aTJUROE7a, (unsigned char)1368337936) << q8AWT45HN6(kje8PU43HY, aTJUROE7a, 356067378) << q8AWT45HN6(-1222710083, aTJUROE7a, 1053051447) << "Ia_vXj022T" << lh9C << std::endl;
 j--;
 }
 while (j >= 0);
@@ -555,7 +555,7 @@ up4F_U05 = (int)floor(g0d9155d);
 }
 else
 {
-std::cout << "G9y4a0D" << qnoFhgDky6(633042208, aTJUROE7a) << "TUE2ub8" << std::endl;
+std::cout << "G9y4a0D" << qnoFhgDky6((short)633042208, aTJUROE7a) << "TUE2ub8" << std::endl;
 }
 }
 else if ((N6TnHb == 752667459) || (z68nH_z_0B > wa59O))

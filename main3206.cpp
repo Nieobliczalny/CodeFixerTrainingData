@@ -131,7 +131,7 @@ else if ((B_287rE09 != -798899975) && (FuRf44_W < -2052635884))
 int k = 0;
 do
 {
-HyfKKl = Fv8f5LCL(1142799078, -1895337709, Q3tm0aXjPz, w90ee8, XhE8);
+HyfKKl = Fv8f5LCL(1142799078, (unsigned short)-1895337709, Q3tm0aXjPz, w90ee8, XhE8);
 ++k;
 }
 while (k < 6);
@@ -159,7 +159,7 @@ C1w_IPym = Vh0ML12ktj - 224463488;
 }
 else
 {
-XhE8 = Fv8f5LCL(357280595, 21003319, -800812144, -1950170095, B_287rE09) & 65178320;
+XhE8 = Fv8f5LCL(357280595, 21003319, (unsigned char)-800812144, -1950170095, B_287rE09) & 65178320;
 }
 }
 }
@@ -209,7 +209,7 @@ std::cout << Fv8f5LCL(-224631494, DWz4_I, N2S9Q, Y83VL, B_287rE09) << w90ee8 << 
 }
 else
 {
-K8vHho8u = Fv8f5LCL(1618581593, -2010273442, -446933004, 1334338211, 690994462);
+K8vHho8u = Fv8f5LCL(1618581593, -2010273442, (unsigned char)-446933004, 1334338211, 690994462);
 }
 
 B_287rE09 = (long long)(Z3uS15);
@@ -278,7 +278,7 @@ Qa7PC_Cx = (long long)(COWK_eF5);
 
 for (int i = 5; i >= 0; i--)
 {
-std::cout << Fv8f5LCL(-1607624361, 1654989114, -1560494384, -945256933, yT03s1) << B_287rE09 << "czom3Z6" << XhE8 << std::endl;
+std::cout << Fv8f5LCL(-1607624361, 1654989114, (unsigned char)-1560494384, -945256933, yT03s1) << B_287rE09 << "czom3Z6" << XhE8 << std::endl;
 }
 
 switch (w90ee8)

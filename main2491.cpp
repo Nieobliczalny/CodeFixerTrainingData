@@ -228,7 +228,7 @@ case 6:
 iEoLCKK58 = HlG1yk(iEoLCKK58, JXV9wJWdU, 1371642430);
 break;
 default:
-Q6dGk_M = q17a(-440309986, t88z);
+Q6dGk_M = q17a((short)-440309986, t88z);
 break;
 }
 }

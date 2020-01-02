@@ -20,7 +20,7 @@ int main()
 	unsigned short int	J5gAg;
 	J5gAg	=	316165849;
   unsigned char  j5922;
-  j5922  =  922352292;
+  j5922  =  (unsigned char)922352292;
     unsigned int    A3dyR7re;
     A3dyR7re    =    -495022178;
  unsigned short z7nT06Vl0;
@@ -34,7 +34,7 @@ int main()
 	unsigned char	cJ09;
 	cJ09	=	0;
  char pGw5b0o80;
- pGw5b0o80 = -477505065;
+ pGw5b0o80 = (char)-477505065;
   char  Kos6;
   Kos6  =  -307106832;
     long    gi031RO9wn;
@@ -48,7 +48,7 @@ int main()
  long long PyxXiT7kj;
  PyxXiT7kj = 1348045294;
     short int    fNaltI0g;
-    fNaltI0g    =    1849676329;
+    fNaltI0g    =    (short)1849676329;
 	unsigned char	j8K5o9NdG;
 	j8K5o9NdG	=	565632531;
   unsigned short  WoFZ;
@@ -58,7 +58,7 @@ int main()
     long long    ZNYm9;
     ZNYm9    =    -1702375694;
   unsigned short int  iHHB9Ip;
-  iHHB9Ip  =  -850689105;
+  iHHB9Ip  =  (unsigned short)-850689105;
  short l449zl;
  l449zl = -1548468947;
   unsigned short  L_XSf_2;
@@ -68,7 +68,7 @@ int main()
     unsigned int    CqVNYuH;
     CqVNYuH    =    2133045996;
     unsigned short    Ug29;
-    Ug29    =    629900556;
+    Ug29    =    (unsigned short)629900556;
 	unsigned long long	RPdM;
 	RPdM	=	-1060798872;
 
@@ -125,7 +125,7 @@ case 5:
 ytR2UlDg = G9lX_u7nc_(-1561587996, -560846777, -1965146846, 724485378);
 break;
 case 6:
-zQ5DJ = G9lX_u7nc_(zQ5DJ, -1391892736, -993567767, A3dyR7re);
+zQ5DJ = G9lX_u7nc_(zQ5DJ, (short)-1391892736, -993567767, A3dyR7re);
 break;
 case 7:
 cJ09 = E37_3c3(-903620017);
@@ -547,7 +547,7 @@ int k = 0;
 do
 {
 k++;
-A3dyR7re = G9lX_u7nc_(Wb5K2J, -248137052, 1370469818, Y18JL1C) & Wb5K2J;
+A3dyR7re = G9lX_u7nc_(Wb5K2J, (short)-248137052, 1370469818, Y18JL1C) & Wb5K2J;
 }
 while (k < 5);
 }
@@ -616,7 +616,7 @@ else if (((CqVNYuH != gi031RO9wn) || (gi031RO9wn != CqVNYuH)) && (gi031RO9wn > -
 {
 for (int j = 4; j >= 0; --j)
 {
-iHHB9Ip = G9lX_u7nc_(501536759, -1178750033, 1164400351, fNaltI0g);
+iHHB9Ip = G9lX_u7nc_(501536759, (short)-1178750033, 1164400351, fNaltI0g);
 }
 }
 else if (Wb5K2J != nySK)

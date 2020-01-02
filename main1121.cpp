@@ -111,7 +111,7 @@ case 'd':
 xcMCFI = QDOsoZ - 225788061;
 break;
 case 'e':
-QDOsoZ = P4b27025(AXIsp561s, QDOsoZ, ghgMG2z, 886673333, 727203559);
+QDOsoZ = P4b27025(AXIsp561s, QDOsoZ, ghgMG2z, 886673333, (unsigned short)727203559);
 break;
 case 'f':
 QDOsoZ = (int)floor(SsEc7);
@@ -221,7 +221,7 @@ std::cout << LcoAlsy_3(frv099k32, -939615270, 1231417138, 1879941120) << "Zjw6X6
 }
 else
 {
-E_Su1p = Q3Oce8gu(2090582684, -1794219063);
+E_Su1p = Q3Oce8gu(2090582684, (unsigned short)-1794219063);
 }
 
 if (AXIsp561s < BOzDg)

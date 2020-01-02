@@ -25,7 +25,7 @@ int main()
     short    zHY7H12E_;
     zHY7H12E_    =    254917778;
     short int    N32IOzhHv;
-    N32IOzhHv    =    1992682961;
+    N32IOzhHv    =    (short)1992682961;
     short int    xKhEFRHa;
     xKhEFRHa    =    1085060342;
 	long	r2SG;
@@ -37,7 +37,7 @@ int main()
     unsigned long    pWlv;
     pWlv    =    -1575802926;
 	short int	egp1;
-	egp1	=	-1014410695;
+	egp1	=	(short)-1014410695;
 	unsigned short int	Eelu6S;
 	Eelu6S	=	-95318755;
 	long double	Mfy9_jA3l;
@@ -59,7 +59,7 @@ int main()
     unsigned short int    wVfOtMdU;
     wVfOtMdU    =    1237158352;
     unsigned short    PDzs4wm;
-    PDzs4wm    =    -993349541;
+    PDzs4wm    =    (unsigned short)-993349541;
   unsigned long  j0i67qi;
   j0i67qi  =  -1697483995;
 	long double	pQzH062j;
@@ -75,7 +75,7 @@ int main()
     double    Hl8Zfa8m;
     Hl8Zfa8m    =    -1460139333;
 	unsigned short	o17T;
-	o17T	=	901559449;
+	o17T	=	(unsigned short)901559449;
   long  q0W81L6;
   q0W81L6  =  1928176008;
   float  bUvwRi__wi;
@@ -87,7 +87,7 @@ int main()
   short int  b8U13v;
   b8U13v  =  1322694648;
 	unsigned short int	hercOk4s_;
-	hercOk4s_	=	1538102066;
+	hercOk4s_	=	(unsigned short)1538102066;
   unsigned long  fne4k;
   fne4k  =  -941254109;
     float    mat82Xd;
@@ -119,7 +119,7 @@ int main()
   short int  tYjGLiTV0;
   tYjGLiTV0  =  1334954789;
     short    fII3j91y;
-    fII3j91y    =    -1452218531;
+    fII3j91y    =    (short)-1452218531;
     unsigned char    NPWC0zmr;
     NPWC0zmr    =    -2042421647;
   char  O00yW7_;
@@ -133,7 +133,7 @@ int main()
 	unsigned int	qm_Y147iJ;
 	qm_Y147iJ	=	-1817849847;
 	short	UHg_x;
-	UHg_x	=	-183532946;
+	UHg_x	=	(short)-183532946;
   char  B_9z;
   B_9z  =  -31145198;
 	unsigned short int	zTl7z;
@@ -151,7 +151,7 @@ int main()
  unsigned char q1SD2;
  q1SD2 = 1760221186;
  unsigned char M90C;
- M90C = -1923628673;
+ M90C = (unsigned char)-1923628673;
  unsigned long long Lc9Nu8;
  Lc9Nu8 = -570758465;
  short int Q0eb5il9Ma;
@@ -165,7 +165,7 @@ int main()
     double    BL_wfiv;
     BL_wfiv    =    -773678870;
     char    Ek9e;
-    Ek9e    =    -382508025;
+    Ek9e    =    (char)-382508025;
     long double    vsg__9r;
     vsg__9r    =    26096223;
     float    zgoX_LaMj;
@@ -195,7 +195,7 @@ int main()
   unsigned long long  IiZD;
   IiZD  =  983640582;
  unsigned char X9LVX;
- X9LVX = 805161797;
+ X9LVX = (unsigned char)805161797;
     unsigned int    D9X8b4P;
     D9X8b4P    =    0;
   unsigned int  vGDABi839;

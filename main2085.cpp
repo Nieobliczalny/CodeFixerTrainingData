@@ -40,7 +40,7 @@ int main(int argc, char** argv)
     int    Wq1J;
     Wq1J    =    1326654064;
     unsigned char    q1Zz;
-    q1Zz    =    439055694;
+    q1Zz    =    (unsigned char)439055694;
  short GW7Q80dd8;
  GW7Q80dd8 = 60972464;
 	int	qWS_uNT;
@@ -50,7 +50,7 @@ int main(int argc, char** argv)
 	double	z0SZ2In;
 	z0SZ2In	=	-1572341857;
  char E1__E_3_qm;
- E1__E_3_qm = -1142019944;
+ E1__E_3_qm = (char)-1142019944;
 	unsigned long long	V3ND;
 	V3ND	=	487506486;
 	long long	WF8I;
@@ -68,7 +68,7 @@ int main(int argc, char** argv)
  short int A2X5ky3M9C;
  A2X5ky3M9C = 0;
     char    BbKP4r;
-    BbKP4r    =    1097429081;
+    BbKP4r    =    (char)1097429081;
  float YZ_2Sl;
  YZ_2Sl = -1451356511;
  short Q_8BgDvWu;

@@ -144,7 +144,7 @@ case 3:
 s277987j = (uuzNq2 <= bd1D_1B4) ? 551198295 : br76201d;
 break;
 case 4:
-y17hO24fO8 = dfBMiykc29(1151257244, 1345296186, brKwO_T4_, -1566397340);
+y17hO24fO8 = dfBMiykc29(1151257244, (short)1345296186, brKwO_T4_, -1566397340);
 break;
 case 5:
 udoVe = R87F5aL(-1802408808, 1283739902, -185927397, -1085402246);
@@ -182,7 +182,7 @@ else
 {
 try
 {
-ghj2O_5s = dfBMiykc29(-1326088855, 2186310, 2002517052, cJOr1jgrT);
+ghj2O_5s = dfBMiykc29(-1326088855, (short)2186310, 2002517052, cJOr1jgrT);
 }
 catch (int& errorCode)
 {
@@ -255,7 +255,7 @@ switch (s46LP2)
 {
 case 'a':
 case 'A':
-J2323mb0 = j_L2xFzj(-1084080778, ebSyOw0m, 1181363989, 1097372510);
+J2323mb0 = j_L2xFzj(-1084080778, ebSyOw0m, 1181363989, (char)1097372510);
 break;
 case 'b':
 case 'B':
@@ -296,7 +296,7 @@ int j = 2;
 while (j >= 0)
 {
 j--;
-cout << dfBMiykc29(Gn_v6HPd, 616346712, I_FaqVi, MXnYRLc1zT) << "BcF9oY" << BF4H << "bgSrt1x" << o3O58o(Gn_v6HPd, -1524610696) << endl;
+cout << dfBMiykc29(Gn_v6HPd, 616346712, I_FaqVi, MXnYRLc1zT) << "BcF9oY" << BF4H << "bgSrt1x" << o3O58o(Gn_v6HPd, (short)-1524610696) << endl;
 }
 }
 }
@@ -324,7 +324,7 @@ d938 = fAh_uX ^ 1718830546;
 break;
 case 'b':
 case 'B':
-J2323mb0 = j_L2xFzj(Sg6W, VRk30xjXR7, 420520635, 1473108287);
+J2323mb0 = j_L2xFzj(Sg6W, VRk30xjXR7, 420520635, (char)1473108287);
 break;
 case 'c':
 case 'C':
@@ -339,7 +339,7 @@ case 'E':
 O5mQ = R87F5aL(O5mQ, U4rQs, 1128982666, wmlZzU4Q);
 break;
 default:
-wmlZzU4Q = dfBMiykc29(1078518134, -1716529995, ayCnUZG, 1558199964);
+wmlZzU4Q = dfBMiykc29(1078518134, (short)-1716529995, ayCnUZG, 1558199964);
 break;
 }
 hFh7 = qx_VM16 - RnfEEOr;
@@ -350,7 +350,7 @@ J2323mb0 = j_L2xFzj(ii55Sd_1E, HfAZ, uuzNq2, Sg6W);
 int i = 2;
 do
 {
-WP5Ro = j_L2xFzj(1855929679, HfAZ, 821901878, -497594922) - 1690913860;
+WP5Ro = j_L2xFzj(1855929679, HfAZ, 821901878, (char)-497594922) - 1690913860;
 i--;
 }
 while (i >= 0);
@@ -483,7 +483,7 @@ unsigned char  R87F5aL(long  S0ngimPbq,long  sXmRob7,char  Zit8x04lfV,long  p6Mj
 
 unsigned short o3O58o(long x4ZN1,short int D8EpwOA)
 {
- return 547017417;
+ return (unsigned short)547017417;
 }
 
 unsigned short int    dfBMiykc29(unsigned long long    i0m5cG,short    n47nv,long long    i989,long    f5GLF9I2q)

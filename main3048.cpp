@@ -113,7 +113,7 @@ case 0:
 K5zKn0_h7 = F3jvd_Jbt(K5zKn0_h7, l__f_02CZG, 2095639550, M6Ra, 1865145321);
 break;
 case 1:
-e2sO = F3jvd_Jbt(e2sO, M6Ra, 444648131, -2017293732, 1913622706);
+e2sO = F3jvd_Jbt(e2sO, M6Ra, (short)444648131, -2017293732, 1913622706);
 break;
 case 2:
 b6hw1AWoO = ZNnFu >> 464593562;
@@ -160,6 +160,6 @@ unsigned long long    dP4GI2M()    {
 
 unsigned short  F3jvd_Jbt(int  YK4K,long long  VZpxnD,short int  O1_1T,unsigned short int  gTf2u9,unsigned long long  xnEW8uT2wn)
 {
-  return  1228535127;
+  return  (unsigned short)1228535127;
 }
 

@@ -67,7 +67,7 @@ case 0:
 qPSA_74 = hEsf_K(1270224092, 500125755, f7BV11);
 break;
 default:
-wTwC = sSK8c4ghN0(-1611785213, 147140278);
+wTwC = sSK8c4ghN0((short)-1611785213, 147140278);
 break;
 }
 
@@ -132,7 +132,7 @@ KcW_ayxS = (long long)(f170e_S);
 }
 else
 {
-std::cout << hEsf_K(yc5aU3l6BN, -1412918524, -1156006237) << sq6SJw() << N92De << "vVE9Zx8m" << Q1MEM027 << std::endl;
+std::cout << hEsf_K(yc5aU3l6BN, (unsigned short)-1412918524, -1156006237) << sq6SJw() << N92De << "vVE9Zx8m" << Q1MEM027 << std::endl;
 }
 }
 std::cout << 901699280 / NnjkPG5wKV << std::endl;
@@ -156,7 +156,7 @@ else if ((m_56 & f170e_S) && (f7BV11 >= CvS6d))
 switch (A7Pii)
 {
 case 0:
-IKbB = q9jhX1l(-858720994, -829183287);
+IKbB = q9jhX1l(-858720994, (unsigned short)-829183287);
 break;
 case 1:
 N743zWg = hEsf_K(69470760, -1905816329, RWC7No6_);
@@ -229,7 +229,7 @@ case 1:
 faG8bvYb78 ^= I56c8;
 break;
 case 2:
-D453_ = hEsf_K(D453_, 1758924930, -1129041635);
+D453_ = hEsf_K(D453_, (unsigned short)1758924930, -1129041635);
 break;
 case 3:
 DUv8Km2 = gjeFO9Q9 + aPD46X_u;

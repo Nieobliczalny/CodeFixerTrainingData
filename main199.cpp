@@ -26,7 +26,7 @@ int main(void) {
     unsigned long    U5hfo4;
     U5hfo4    =    905732314;
     short int    JItZwIP6;
-    JItZwIP6    =    -856837356;
+    JItZwIP6    =    (short)-856837356;
  float s880z4;
  s880z4 = 278540553;
     int    b4HU_O1;
@@ -40,7 +40,7 @@ int main(void) {
  short KE8_ZBUW;
  KE8_ZBUW = 332526549;
   unsigned short int  q4Hjjy4oz5;
-  q4Hjjy4oz5  =  190894460;
+  q4Hjjy4oz5  =  (unsigned short)190894460;
 	short	Y_FKX1;
 	Y_FKX1	=	0;
   unsigned int  Y_qnsyNT2N;
@@ -54,7 +54,7 @@ int main(void) {
 	unsigned short	fBwk4fBFdt;
 	fBwk4fBFdt	=	-689136204;
     unsigned short    a60RSjQB;
-    a60RSjQB    =    -727769765;
+    a60RSjQB    =    (unsigned short)-727769765;
   long long  XjvW8q;
   XjvW8q  =  735729587;
 	double	F3zdrs539;
@@ -66,7 +66,7 @@ int main(void) {
   char  OW3NTYAaU1;
   OW3NTYAaU1  =  785440868;
     short    gyBC2;
-    gyBC2    =    1214481154;
+    gyBC2    =    (short)1214481154;
     unsigned char    PWl0sf;
     PWl0sf    =    40103468;
 	short	FaSi6u9H;
@@ -88,7 +88,7 @@ int main(void) {
     long long    I4Ka;
     I4Ka    =    1245473083;
   short  u_giVLy71C;
-  u_giVLy71C  =  -1754006150;
+  u_giVLy71C  =  (short)-1754006150;
   unsigned long  Y4NHbt17;
   Y4NHbt17  =  -2045093901;
   unsigned long long  Hm2P;
@@ -102,7 +102,7 @@ int main(void) {
   int  p9h2h;
   p9h2h  =  674493286;
   char  yh_8BHMYX;
-  yh_8BHMYX  =  506977076;
+  yh_8BHMYX  =  (char)506977076;
 	long long	GF4_0ys1Z0;
 	GF4_0ys1Z0	=	-1312504528;
   float  EIuL3eF7D;
@@ -116,7 +116,7 @@ int main(void) {
     long long    BYJ52;
     BYJ52    =    -924015355;
   short  njkrT;
-  njkrT  =  1096736075;
+  njkrT  =  (short)1096736075;
  int DzlXh26Zw;
  DzlXh26Zw = 366967846;
  unsigned long long b5c4_j_;
@@ -126,7 +126,7 @@ int main(void) {
   unsigned short  Twdn;
   Twdn  =  -263663638;
     unsigned char    PXEs;
-    PXEs    =    -1950973649;
+    PXEs    =    (unsigned char)-1950973649;
   long  d884;
   d884  =  -1648613131;
 	long double	Py761N7p;
@@ -140,7 +140,7 @@ int main(void) {
   unsigned long long  OEQG;
   OEQG  =  -1904800489;
     char    MNEz;
-    MNEz    =    227097161;
+    MNEz    =    (char)227097161;
 
 if ((lSfeP_AHvd) || (UxOE30tK_))
 {
@@ -285,7 +285,7 @@ case 5:
 z_r2 = (int)ceil(CnVH_hGeMJ);
 break;
 case 6:
-mvC964H3 = j9lEPI6(39169951, BPR3qRo9);
+mvC964H3 = j9lEPI6((short)39169951, BPR3qRo9);
 break;
 case 7:
 BPR3qRo9 = (int)ceil(CnVH_hGeMJ);

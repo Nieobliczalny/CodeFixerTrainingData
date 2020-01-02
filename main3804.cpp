@@ -18,7 +18,7 @@ short  psNU_GV(unsigned long long  Sgf3O7CS_J)
 }
 
 char  z3p3U2m9(long long  qNaqiYO,unsigned int  pEw2)  {
-  return  2122870424;
+  return  (char)2122870424;
 }
 
 unsigned long  km4eT(unsigned long  oR3HTLs,short  rT88091O)
@@ -38,7 +38,7 @@ short int  Pn_tGtvW(short  ZIk5XGr)
 
 int main() {
  unsigned int jp6lc6 = 985397200;
-  unsigned short  cZ_8  =  1785627968;
+  unsigned short  cZ_8  =  (unsigned short)1785627968;
 	unsigned short	X7Ue	=	206082744;
     long    A11Ee9Z56    =    -1839257077;
  unsigned char xs60cFb6 = 560173344;
@@ -48,7 +48,7 @@ int main() {
   double  j930ckVR78  =  -283247307;
     short    J27PYt    =    -2068508482;
     double    fK5m_4F2w    =    -1564036436;
- char xN1Ae = -1857911844;
+ char xN1Ae = (char)-1857911844;
   long  Q605xx7y  =  0;
 	unsigned short int	P3n_Fs7kH	=	-350513971;
   unsigned int  Z884  =  318235184;
@@ -60,7 +60,7 @@ int main() {
     char    rr4C    =    1322562424;
     unsigned int    Q26bECoE7h    =    -1645341933;
   float  u71Wu_  =  -523761073;
-  char  VU_SxaBs8  =  906150355;
+  char  VU_SxaBs8  =  (char)906150355;
     long    mhQgh__    =    -92391838;
     char    seG9T_    =    -1845750107;
  unsigned short lkjDqB_I20 = 721057397;
@@ -76,7 +76,7 @@ int main() {
   int  Dqva  =  -528175531;
 	int	cOFOQ	=	-1934198994;
     float    Yq6D8wU    =    -2137238984;
-    char    PjzAqOaHL    =    1271899092;
+    char    PjzAqOaHL    =    (char)1271899092;
 	short	M07Z	=	-997384689;
     int    c3Vl11A    =    -2132235010;
   double  L5eU0rYX  =  1489613015;
@@ -86,7 +86,7 @@ int main() {
   unsigned short int  S0kxQ7_  =  316097311;
  unsigned long long Y59LLh = -1648560360;
   long double  M6hN__  =  304313279;
-    short    n2p7SrzI4    =    178938605;
+    short    n2p7SrzI4    =    (short)178938605;
     unsigned int    Y6vT2_    =    -1123730364;
   unsigned long long  X4CtQ0YA  =  1494465694;
 	unsigned char	zioeG	=	2000508970;
@@ -97,7 +97,7 @@ int main() {
  long YdG7_mk = -1077159549;
 	unsigned long long	xFMKUT	=	316457060;
     float    hzFxwf9a    =    884729500;
- unsigned short Mo7IvMGaW = 1945892385;
+ unsigned short Mo7IvMGaW = (unsigned short)1945892385;
 	long	y_rh7UIF_t	=	-1315313324;
  unsigned short C1_9BgRl = 1371239278;
     float    TyPPUr    =    -1897042431;
@@ -258,7 +258,7 @@ std::cout << Pn_tGtvW(-1041181187) << "op1DmeJz" << std::endl;
 int i = 0;
 while (i < 9)
 {
-zioeG = km4eT(zioeG, 1400753079);
+zioeG = km4eT(zioeG, (short)1400753079);
 i++;
 }
 }

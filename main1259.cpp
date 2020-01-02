@@ -14,6 +14,7 @@ using std::floor;
 
 int main()
 {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
  unsigned short N_aM = 342463364, UO_150ZX = -1546108921, zyAQ = 956735939, vPk3xAevrg = -1474031259, IN_B5RC = 710305789, e8p4w = 1347782705, tE4pJ12v_ = -1740017763, O_4UH = -1358101132, a084SXx4VT = -1573671843, uG89 = -2054086018, zMm_26CN_i = 1893810537, I5maO_O_86 = -1425404899, G38kE_C = 1460019300, A4NS02 = -1821774019, zc8Vp = -736237610, cCI_85Bj = -1976086088, vv4S_zZ = 493053143, m3ztpA = 1300210817, krGfHUN1 = 2023638889, O759p2Q328 = -1979330789, ureN0CNN3 = 1394005225, w4UTE79Ao = -1775773497, EoJ0 = -341642515, Unj4Kz3j = -1646090689, KTT5C = -1118978919, TR12 = 13226231, QkCsboL5 = 114163938, zDHi1ng5P5 = -1945012999, HIi1yNqj = -1296135607, VlmZfR2oQU = -1178773108, pbw8 = -1314255732, q933 = -558769808, v2Cwt51__I = 895849711, qGC4M = 1663505205, Ad0Yo0DJo = 1816987142, M3gsjUU3R = 177931501, S66wkHm8 = -1359332170, qo7Z = 863609300, x9AmH8x = 2032045310, e4qSS = 910076034, xNYwBks79d = 1222880264, MW0Z = 551917878, d26Xlp = -907948862, p0mQrrV_0E = 1649645434, tV2x8oIm = 289505145, UslB = -1641522778, cFyZ = -633284042;
   unsigned long  HTgp74  =  0,  xT_cRp  =  0,  OY91  =  0,  strS__v4  =  0;
 
@@ -172,7 +173,7 @@ O_4UH = v2Cwt51__I ^ tV2x8oIm;
 }
 else if (HIi1yNqj <= -839151411)
 {
-Unj4Kz3j = (zyAQ > -240560983) ? -2138500775 : 1707848404;
+Unj4Kz3j = (zyAQ > -240560983) ? -2138500775 : (unsigned short)1707848404;
 }
 else
 {
@@ -436,7 +437,7 @@ int k = 4;
 do
 {
 k--;
-d26Xlp = (x9AmH8x & Ad0Yo0DJo) ? -1045721222 : 1987105746;
+d26Xlp = (x9AmH8x & Ad0Yo0DJo) ? -1045721222 : (unsigned short)1987105746;
 }
 while (k >= 0);
 }
@@ -697,7 +698,7 @@ UO_150ZX &= 1967889908;
 }
 else if (MW0Z <= -1737592545)
 {
-EoJ0 = (HTgp74 == 1336042633) ? -927558156 : -1635916844;
+EoJ0 = (HTgp74 == 1336042633) ? -927558156 : (unsigned short)-1635916844;
 }
 else if (zyAQ != Ad0Yo0DJo)
 {

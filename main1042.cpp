@@ -34,7 +34,7 @@ short int	R4w_e(unsigned char	nfC3sC2n)	{
 
 int main(int argc, char** argv) {
  short co9YH6A2SG;
- co9YH6A2SG = 2025474046;
+ co9YH6A2SG = (short)2025474046;
 	char	ic2q;
 	ic2q	=	1812898314;
     unsigned short    Pq0gd5n;
@@ -71,7 +71,7 @@ liPNFquuE6 = R4w_e(958615704);
 }
 }
 
-liPNFquuE6 = biNuawO64w(liPNFquuE6, J321y, 801929651, 1341599437, -811033064);
+liPNFquuE6 = biNuawO64w(liPNFquuE6, J321y, (unsigned short)801929651, 1341599437, -811033064);
 
 HY_8 <<= 1588912882;
 
@@ -89,7 +89,7 @@ for (int j = 3; j >= 0; j--)
 {
 try
 {
-liPNFquuE6 = biNuawO64w(-465638879, liPNFquuE6, -254854070, -1571743828, -1444323299);
+liPNFquuE6 = biNuawO64w(-465638879, liPNFquuE6, -254854070, (unsigned char)-1571743828, -1444323299);
 }
 catch (int& errorCode)
 {
@@ -233,7 +233,7 @@ dJTL |= 1166752976;
 }
 else
 {
-cout << biNuawO64w(qv8h6IOq3b, -1410955181, 128075987, -407234516, liPNFquuE6) << h4MRihe_76(-100662635, -338945859, 1589477012) << "M52VCIkk" << co9YH6A2SG << endl;
+cout << biNuawO64w(qv8h6IOq3b, -1410955181, 128075987, (unsigned char)-407234516, liPNFquuE6) << h4MRihe_76(-100662635, -338945859, 1589477012) << "M52VCIkk" << co9YH6A2SG << endl;
 }
 }
 catch (int& errorCode)

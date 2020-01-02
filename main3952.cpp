@@ -14,7 +14,7 @@ int main(int argc, char** argv)
 {
 	unsigned short int	uGpG_	=	1884095021;
  unsigned short int SUiaz = 0;
-    unsigned short int    i5_1h4ED    =    103536938;
+    unsigned short int    i5_1h4ED    =    (unsigned short)103536938;
     unsigned long long    Hpuc    =    -938571564;
  short int RXeV24qHWs = -1117310171;
  unsigned long long bAt9c4d = -1348079087;
@@ -26,7 +26,7 @@ int main(int argc, char** argv)
 	unsigned long	BK1z5b39	=	53161387;
  unsigned long cNDr = 2060881240;
  short int OVSATwBz4 = 1297531813;
-    unsigned char    O187k0c    =    -1430418900;
+    unsigned char    O187k0c    =    (unsigned char)-1430418900;
 	long	aK5H	=	1825534650;
   unsigned long long  q_DD1I7  =  -1034476142;
   int  E1Lk4Aj  =  -1595581834;

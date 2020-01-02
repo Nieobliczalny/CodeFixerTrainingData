@@ -20,7 +20,7 @@ short	R9_3IpJ5qb(unsigned short int	LLVa7F)
 
 int main(int argc, char** argv) {
 	unsigned char	qh5SI3,	EMWw2,	FBgHqM,	Jx6c,	iRwZry,	nj_37X,	f57gJfsS8K,	d1HMw,	sBW4WBHp,	tz0_mDNd,	Dxh_eh,	XV4u28,	f3a58ej,	y2g65E49J,	gf1U71;
-		qh5SI3	=	EMWw2	=	FBgHqM	=	Jx6c	=	iRwZry	=	nj_37X	=	f57gJfsS8K	=	d1HMw	=	sBW4WBHp	=	tz0_mDNd	=	Dxh_eh	=	XV4u28	=	f3a58ej	=	y2g65E49J	=	gf1U71	=	319354266;
+		qh5SI3	=	EMWw2	=	FBgHqM	=	Jx6c	=	iRwZry	=	nj_37X	=	f57gJfsS8K	=	d1HMw	=	sBW4WBHp	=	tz0_mDNd	=	Dxh_eh	=	XV4u28	=	f3a58ej	=	y2g65E49J	=	gf1U71	=	(unsigned char)319354266;
  unsigned long R8C_NOb, i7woOg35_F;
   R8C_NOb = i7woOg35_F = 0;
 

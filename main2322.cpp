@@ -36,7 +36,7 @@ sPuRyn = (ujd___ & 1370358994) ? XwgcrE2Bi : -1159403744;
 }
 try
 {
-std::cout << "kXa3FKd2" << Mwl92() << w_1DVG8SHW << "s2_s" << rk4Ccy4Dn(1795995261, -811981059, 916480181) << std::endl;
+std::cout << "kXa3FKd2" << Mwl92() << w_1DVG8SHW << "s2_s" << rk4Ccy4Dn(1795995261, (char)-811981059, 916480181) << std::endl;
 }
 catch (int& errorCode)
 {
@@ -97,7 +97,7 @@ case 1:
 ujd___ = UPul2_F();
 break;
 default:
-w_1DVG8SHW = rk4Ccy4Dn(w_1DVG8SHW, 860434036, -432365792);
+w_1DVG8SHW = rk4Ccy4Dn(w_1DVG8SHW, 860434036, (unsigned short)-432365792);
 break;
 }
 }

@@ -22,7 +22,7 @@ short H878m4y1pJ(char Ow7R0X7ZL) {
 int main(int argc, char** argv)
 {
  unsigned char sS13zVS;
- sS13zVS = -136701889;
+ sS13zVS = (unsigned char)-136701889;
   long  D8qGOH96;
   D8qGOH96  =  1333449947;
   unsigned char  Uucs2G7988;
@@ -34,7 +34,7 @@ int main(int argc, char** argv)
 	unsigned long long	d3_3z;
 	d3_3z	=	1056054284;
  short vLZC8aI3p;
- vLZC8aI3p = 1361257196;
+ vLZC8aI3p = (short)1361257196;
 	unsigned int	w4I4X;
 	w4I4X	=	-810403050;
     int    D0d42;
@@ -44,7 +44,7 @@ int main(int argc, char** argv)
   short  bfIo;
   bfIo  =  -746237142;
  unsigned char FV647YWgv;
- FV647YWgv = 1785136449;
+ FV647YWgv = (unsigned char)1785136449;
     double    WA5b40B;
     WA5b40B    =    1019026093;
   short  AKDM;
@@ -64,7 +64,7 @@ int main(int argc, char** argv)
     double    eIEZk88;
     eIEZk88    =    697984432;
 	short	QHgoFxFh;
-	QHgoFxFh	=	-1494952698;
+	QHgoFxFh	=	(short)-1494952698;
   short int  qvs40f;
   qvs40f  =  -1108155683;
     short    haOyFcDm3;
@@ -92,7 +92,7 @@ int main(int argc, char** argv)
  char Y2xqWU38;
  Y2xqWU38 = 568301245;
  short int xMEYWkro3;
- xMEYWkro3 = 1852056283;
+ xMEYWkro3 = (short)1852056283;
   unsigned long long  y9Z_Ymzv4t;
   y9Z_Ymzv4t  =  374369208;
 	unsigned short	yY0b5b7aI;
@@ -132,7 +132,7 @@ while (i >= 0);
 }
 if (Q3Z6)
 {
-std::cout << H878m4y1pJ(aSweA) << kKklz5(-90244196, -630446526, r8eg5P9_yI) << "F4Etn5" << H878m4y1pJ(580271133) << std::endl;
+std::cout << H878m4y1pJ(aSweA) << kKklz5(-90244196, -630446526, r8eg5P9_yI) << "F4Etn5" << H878m4y1pJ((char)580271133) << std::endl;
 }
 sS13zVS %= 983126850;
 
@@ -162,7 +162,7 @@ case 'b':
 DI9iAIhWD = kKklz5(609854998, -618956757, AiGsnJC);
 break;
 case 'c':
-QHgoFxFh = H878m4y1pJ(378052986);
+QHgoFxFh = H878m4y1pJ((char)378052986);
 break;
 case 'd':
 E2SrLU8 = E2SrLU8 % FV647YWgv;

@@ -17,7 +17,7 @@ int main(void)
  short Z5i19RyiA, B67xn, r7K4185_Z, eJiL, K_Uj4;
   Z5i19RyiA = B67xn = r7K4185_Z = eJiL = K_Uj4 = 0;
 
-TpqNR_RuM = (Wva8a3C5Y != 1218303879) ? 2096494481 : T97780;
+TpqNR_RuM = (Wva8a3C5Y != 1218303879) ? (short)2096494481 : T97780;
 if (H_R2ho < -590269458)
 {
 std::cout << eWWQWd << "bLgFk34iYV" << std::endl;

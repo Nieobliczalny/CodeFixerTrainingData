@@ -163,7 +163,7 @@ dFsg = (J7_m19 <= -688838637) ? s2jGpL(H7qldpW8_, -896313029, XQD_3) : s2jGpL(H7
 }
 else if ((wx2S22Pu & hP075vs) && (r469X13h))
 {
-eqbw_ = s2jGpL(-1138427280, -664531992, kQu61OyO5);
+eqbw_ = s2jGpL((char)-1138427280, -664531992, kQu61OyO5);
 }
 else
 {
@@ -298,7 +298,7 @@ if (a4BMa3 >= s6gFtvgj9)
 {
 try
 {
-eqbw_ = s2jGpL(-215698090, -371962799, -1506806316);
+eqbw_ = s2jGpL(-215698090, (unsigned short)-371962799, -1506806316);
 }
 catch (int& errorCode)
 {
@@ -400,7 +400,7 @@ break;
 
 try
 {
-std::cout << s2jGpL(-1263712514, UQWRf, EuF6lti) << s2jGpL(1915074949, UQWRf, EuF6lti) << "M3E_48O1" << std::endl;
+std::cout << s2jGpL((char)-1263712514, UQWRf, EuF6lti) << s2jGpL(1915074949, UQWRf, EuF6lti) << "M3E_48O1" << std::endl;
 }
 catch (int& errorCode)
 {
@@ -433,7 +433,7 @@ eqbw_ = s2jGpL(1915017719, J7_m19, QzK1H9);
 }
 else if (ekt6Rt9ym == -985736602)
 {
-NTkBGm2N = s2jGpL(Cjqo__, -576193582, QzK1H9) * 2076771293;
+NTkBGm2N = s2jGpL(Cjqo__, (unsigned short)-576193582, QzK1H9) * 2076771293;
 }
 else
 {
@@ -465,7 +465,7 @@ case 'd':
 FUn437 = FUn437 * 116082606;
 break;
 case 'e':
-eqbw_ = s2jGpL(rXeSKw, -882682444, x50K);
+eqbw_ = s2jGpL(rXeSKw, (unsigned short)-882682444, x50K);
 break;
 case 'f':
 hP075vs -= BbND3CTv9i;

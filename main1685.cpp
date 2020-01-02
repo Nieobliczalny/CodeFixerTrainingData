@@ -20,7 +20,7 @@ unsigned long	N1jVu(unsigned short int	r_nzN0h,unsigned short int	Nk84);
 
 int main(int argc, char** argv) {
  char OFa2 = 934660275;
-  unsigned short  XAC2  =  -1910102842;
+  unsigned short  XAC2  =  (unsigned short)-1910102842;
 	long long	v6M5_vN	=	132438281;
  unsigned short i1oe_04 = -1427625955;
  short int CgZDEs8m = -1202412521;
@@ -31,7 +31,7 @@ int main(int argc, char** argv) {
     unsigned long long    t1rLTr8    =    1422324136;
   unsigned char  EEZiJ_  =  0;
   unsigned short int  RIt139RT  =  41372339;
-    short int    r2457    =    1532126437;
+    short int    r2457    =    (short)1532126437;
     float    P51N5IkO    =    -1886891039;
   double  AFd04o57  =  -384863057;
     long double    ue9F    =    1392158290;
@@ -60,7 +60,7 @@ else
 {
 if (((r71x > -669040586) && (J3arjQuDt1 >= 107098878)) || (r2457 >= AFd04o57))
 {
-S0h9YO = kw9hWmG(73176485, -706600888);
+S0h9YO = kw9hWmG(73176485, (short)-706600888);
 }
 }
 }
@@ -86,7 +86,7 @@ break;
 }
 else if (ue9F <= -1458689882)
 {
-cout << "P_bj6m6" << GIV1X8Yd72(282511125, r71x, OFa2, -2137470228) << v6M5_vN << endl;
+cout << "P_bj6m6" << GIV1X8Yd72(282511125, r71x, OFa2, (unsigned short)-2137470228) << v6M5_vN << endl;
 }
 else if (IzIt & 118483376)
 {
@@ -107,7 +107,7 @@ else
 {
 for (int k = 5; k >= 0; --k)
 {
-EEZiJ_ = A2umb(1298909992, J3arjQuDt1);
+EEZiJ_ = A2umb((unsigned short)1298909992, J3arjQuDt1);
 }
 }
 }
@@ -120,7 +120,7 @@ catch (int& errorCode)
 RIUr62j = GIV1X8Yd72(-1008289571, t1rLTr8, 930985702, AFd04o57);
 }
 
-RIUr62j = N1jVu(-659794795, v6M5_vN);
+RIUr62j = N1jVu((unsigned short)-659794795, v6M5_vN);
 
 cout << Jixq(-1726667624, -2086611265, S0h9YO, IzIt, P51N5IkO) << endl;
 

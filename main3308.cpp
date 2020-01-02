@@ -170,7 +170,7 @@ else
 std::cout << YDHFql7q(f_gsBCp_6l) << YEtd7Q << std::endl;
 }
 std::cout << g0yAp821 << uwD1g << iNT3yxtOe1(f_gsBCp_6l, 255686756, aKQw04Y8, X_6n, -808890582) << std::endl;
-Z1360bc = KpGj / YDHFql7q(1797756940);
+Z1360bc = KpGj / YDHFql7q((short)1797756940);
 
 if ((fNW6 > 706169639) && ((elc11v) && (yLfeXu > -543841139)))
 {
@@ -234,7 +234,7 @@ o93_9t = havIWIC >> UjPS;
 }
 else if (MR_yVQ != 1507562820)
 {
-c4XI = iNT3yxtOe1(c4XI, -700631532, 516971536, -246392311, 773138669);
+c4XI = iNT3yxtOe1(c4XI, -700631532, (char)516971536, -246392311, 773138669);
 }
 else
 {
@@ -249,7 +249,7 @@ i++;
 }
 }
 
-std::cout << YDHFql7q(-826242389) << L7Q9kEd2(Fwp__b, -135883827, h38758, -1795807775) << fNW6 << Znf3Vbcf8 << jHaM6azNne << std::endl;
+std::cout << YDHFql7q(-826242389) << L7Q9kEd2(Fwp__b, (unsigned short)-135883827, h38758, -1795807775) << fNW6 << Znf3Vbcf8 << jHaM6azNne << std::endl;
 
 if (io4b5gKO31 >= VXK0YS_2_3)
 {
@@ -302,7 +302,7 @@ Znf3Vbcf8 = L7Q9kEd2(-744060234, HXiO8D4, 709104222, 15329847);
 
 try
 {
-bLp0so = YDHFql7q(-530529184);
+bLp0so = YDHFql7q((short)-530529184);
 }
 catch (int& errorCode)
 {

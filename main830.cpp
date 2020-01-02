@@ -74,7 +74,7 @@ fzROXOZ9 = a9M63fU48_(SEGsl1QJ6j, Pg1vX);
 }
 else
 {
-AULP91 = ZpRjsu0F0(-793478625, -238224008);
+AULP91 = ZpRjsu0F0(-793478625, (char)-238224008);
 }
 }
 catch (int& errorCode)

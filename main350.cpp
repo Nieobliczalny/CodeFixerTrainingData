@@ -23,7 +23,7 @@ short int    jHGT6Y(unsigned long long    GQ9F5eJpQ3)    {
 }
 
 short    InU585(unsigned int    s1WrG7gb,unsigned short    Pe2tR_w10)    {
-    return    -1277284373;
+    return    (short)-1277284373;
 }
 
 int main(int argc, char** argv) {
@@ -263,7 +263,7 @@ case 2:
 kiQj = NCq_Bv3 / 1205115180;
 break;
 case 3:
-B_1f1ZbzH = InU585(B_1f1ZbzH, -465164926);
+B_1f1ZbzH = InU585(B_1f1ZbzH, (unsigned short)-465164926);
 break;
 }
 }

@@ -29,7 +29,7 @@ int main(int argc, char** argv)
   unsigned long long  f5cH  =  -1319603505;
  char H86fy = 0;
  short B9_Eq = 1799430337;
- unsigned char E07_87 = 1410149866;
+ unsigned char E07_87 = (unsigned char)1410149866;
     long long    f6Re92    =    235673291;
  double JN37g = -1439754820;
   unsigned short  TJddrzy4L  =  585992026;
@@ -44,7 +44,7 @@ int main(int argc, char** argv)
   unsigned short int  atnScMOWq2  =  532626578;
 	long	Hpcq68oL_T	=	1251743843;
     int    M4xYN    =    -786970488;
-	unsigned char	xApq	=	-673883406;
+	unsigned char	xApq	=	(unsigned char)-673883406;
  short nPRglq = -625311368;
  int a_SXd1m = -928593903;
 	unsigned long	QW_0DGRe	=	-337483161;
@@ -58,7 +58,7 @@ int main(int argc, char** argv)
 	long double	iGx7cdgVJ	=	46664288;
 	unsigned long long	LIuf0f	=	456119127;
   unsigned long  NP72lcz1so  =  -512221485;
-    short    y2_e9    =    1716446048;
+    short    y2_e9    =    (short)1716446048;
   int  a8q_DYn24  =  -944171246;
  double VRi7IuIJv = 850649986;
     long double    Ow5q    =    -985883765;
@@ -68,7 +68,7 @@ int main(int argc, char** argv)
     unsigned short    c_53VdKdwN    =    -1645386898;
     unsigned int    OaU1    =    850939310;
  unsigned int j4_ES = 922938711;
- char wxjOE = 601334070;
+ char wxjOE = (char)601334070;
     unsigned long long    j67LyB8    =    546500406;
  short int w4uU = 1725868572;
  int ZwAxIVhQ_ = 1272365856;
@@ -236,7 +236,7 @@ else if (f6Re92 >= xApq)
 {
 if ((C8Ycw3y > f6R_) && ((QW_0DGRe > sl__OcFh) || (kEepHN <= sE9bHGy91)))
 {
-C8Ycw3y = X_8971Pn6f(188377854, -526771829, w4uU, -929055555, B9_Eq);
+C8Ycw3y = X_8971Pn6f(188377854, (short)-526771829, w4uU, -929055555, B9_Eq);
 }
 else
 {
@@ -294,7 +294,7 @@ unsigned int  fj54YJ_6(long long  C_oLmwXR_,unsigned short int  OqT4ct0)  {
 }
 
 unsigned char X_8971Pn6f(unsigned int Mx04h8Rkz,short Wt5o9U13X,unsigned long k_uJC_29K,long long aF13LD3JdD,int kk4f) {
- return -762068841;
+ return (unsigned char)-762068841;
 }
 
 unsigned short int	pYk_4(unsigned long long	Vk9k3Nb)

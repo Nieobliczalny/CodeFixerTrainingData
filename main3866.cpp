@@ -668,7 +668,7 @@ int xBqD9X3(long long f_Gqg,unsigned char XKt8o3F_) {
 
 short int	L80H(char	Nkh6n54Tun)
 {
-	return	105052017;
+	return	(short)105052017;
 }
 
 int d49P0(unsigned int yM8jSu,short STA9tim_)

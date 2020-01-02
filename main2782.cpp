@@ -75,7 +75,7 @@ i--;
 }
 }
 
-std::cout << o_FjhU << gKIu_45(745397145, aI3Dc) << "e62UHbcdT" << gKIu_45(-442950738, -1897049464) << std::endl;
+std::cout << o_FjhU << gKIu_45(745397145, aI3Dc) << "e62UHbcdT" << gKIu_45((unsigned short)-442950738, -1897049464) << std::endl;
 for (int i = 0; i < 8; i++)
 {
 {
@@ -125,7 +125,7 @@ a6JJ = gKIu_45(-1952964662, 1346451265);
 }
 else
 {
-pfNx86 = Va480g7WP(-2080450320);
+pfNx86 = Va480g7WP((unsigned short)-2080450320);
 }
 }
 else
@@ -241,7 +241,7 @@ else if ((fq07j >= 875520934) && ((fq07j > OugDIUY) || (Qob29 >= Y6S4682)))
 int j = 7;
 while (j >= 0)
 {
-std::cout << bBRd22IT << "i10l5ZG_" << Va480g7WP(1996590261) << std::endl;
+std::cout << bBRd22IT << "i10l5ZG_" << Va480g7WP((unsigned short)1996590261) << std::endl;
 --j;
 }
 }
@@ -268,7 +268,7 @@ OUs4 = Va480g7WP(-2134391693);
 break;
 case 'd':
 case 'D':
-Qb8Bf = Va480g7WP(-966890587);
+Qb8Bf = Va480g7WP((unsigned short)-966890587);
 break;
 case 'e':
 case 'E':

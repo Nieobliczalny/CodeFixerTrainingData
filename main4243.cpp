@@ -36,7 +36,7 @@ int main(void)
 	short	OUpN65K8g;
 	OUpN65K8g	=	233121832;
 	char	cA58tKYZ3u;
-	cA58tKYZ3u	=	-1674236266;
+	cA58tKYZ3u	=	(char)-1674236266;
     unsigned char    sryb3;
     sryb3    =    -1464412240;
  short int FQg61Y_1Zp;
@@ -56,7 +56,7 @@ int main(void)
  short a7_y_;
  a7_y_ = 1491684415;
 	short	qhh5;
-	qhh5	=	1288161044;
+	qhh5	=	(short)1288161044;
   float  Sk43Tq;
   Sk43Tq  =  995475272;
   int  h3tgg8;
@@ -72,7 +72,7 @@ int main(void)
  double t0G4Bb;
  t0G4Bb = -1370662384;
 	unsigned short int	wfADq;
-	wfADq	=	1686256505;
+	wfADq	=	(unsigned short)1686256505;
  long double mkU_QKp4L2;
  mkU_QKp4L2 = -1954767814;
  unsigned long long aZQ0eOv;
@@ -82,7 +82,7 @@ int main(void)
  long double lx4CsnI;
  lx4CsnI = 1500172354;
   unsigned char  r5ZGkx;
-  r5ZGkx  =  1491361933;
+  r5ZGkx  =  (unsigned char)1491361933;
   long  Kz0InHi21;
   Kz0InHi21  =  -977452653;
   unsigned int  e56Z80;
@@ -100,7 +100,7 @@ int main(void)
  unsigned short int cNXO41;
  cNXO41 = -246851285;
   short int  jZ1qtSNl_;
-  jZ1qtSNl_  =  298572845;
+  jZ1qtSNl_  =  (short)298572845;
   double  YGyo8_;
   YGyo8_  =  -1351207232;
  unsigned char F_Q_84i;
@@ -122,7 +122,7 @@ int main(void)
     short int    eeEmXj;
     eeEmXj    =    896739716;
   char  C5_2rz0I2H;
-  C5_2rz0I2H  =  2071016412;
+  C5_2rz0I2H  =  (char)2071016412;
   char  qtC8;
   qtC8  =  0;
     float    zUTw;
@@ -144,7 +144,7 @@ int main(void)
  float Hv_3dW9;
  Hv_3dW9 = 544686554;
  short JB80Rlabl;
- JB80Rlabl = 1672707087;
+ JB80Rlabl = (short)1672707087;
   int  dVsJWg56zw;
   dVsJWg56zw  =  -1631310356;
 	short	RD3_g_2_c;
@@ -154,7 +154,7 @@ int main(void)
     float    F4s9243AAN;
     F4s9243AAN    =    1047699097;
  char Bj4zA3;
- Bj4zA3 = -1210515950;
+ Bj4zA3 = (char)-1210515950;
  long long B2cl;
  B2cl = -2055968440;
  unsigned long long H9_65n;
@@ -166,7 +166,7 @@ int main(void)
     long long    qxWT_C8vgW;
     qxWT_C8vgW    =    0;
   unsigned short  p0L_9zXL1y;
-  p0L_9zXL1y  =  -369480010;
+  p0L_9zXL1y  =  (unsigned short)-369480010;
 	double	w7_vl6;
 	w7_vl6	=	-1290653498;
   unsigned long long  hHvBA;
@@ -182,7 +182,7 @@ int main(void)
 	unsigned long long	jEkijLr_;
 	jEkijLr_	=	1511921425;
  short Rgr8ZPN;
- Rgr8ZPN = 1135352176;
+ Rgr8ZPN = (short)1135352176;
     long long    OyjBD;
     OyjBD    =    -734881823;
   long double  YGF_Mjb;
@@ -192,7 +192,7 @@ int main(void)
  unsigned short OdL5yv;
  OdL5yv = -866559057;
   unsigned short  rjxGSbO;
-  rjxGSbO  =  440485500;
+  rjxGSbO  =  (unsigned short)440485500;
  float IN1e_6SVv;
  IN1e_6SVv = 412629765;
  double B67166IU;
@@ -246,7 +246,7 @@ qxWT_C8vgW = M0blq4O_(390816131, qxWT_C8vgW, hHvBA, lpup);
 }
 else if (p0L_9zXL1y != -1193581195)
 {
-cout << zE0Q99 << BO29L05Jm(Gqr8y0, qxWT_C8vgW, -920347763, 2126013725) << endl;
+cout << zE0Q99 << BO29L05Jm(Gqr8y0, qxWT_C8vgW, -920347763, (unsigned short)2126013725) << endl;
 }
 else if (Bj4zA3 < 350464938)
 {
@@ -319,7 +319,7 @@ break;
 }
 for (int i = 1; i >= 0; --i)
 {
-qtC8 = M0blq4O_(-1555956031, -1340726425, 572045771, B2cl);
+qtC8 = M0blq4O_(-1555956031, (unsigned short)-1340726425, 572045771, B2cl);
 }
 
 B67166IU = (int)ceil(WI4hP72);
@@ -346,7 +346,7 @@ i++;
 
 IN1e_6SVv = (float)(Ww5r51vMT4);
 
-rlXXb = YGyo8_ / M0blq4O_(OUpN65K8g, 1800910857, 953309805, -1421550208);
+rlXXb = YGyo8_ / M0blq4O_(OUpN65K8g, 1800910857, (short)953309805, -1421550208);
 if ((Kkd69t4n != -135475296) && ((X2Js & -187485054) && (Y_1X_06 >= 1699701304)))
 {
 if (eQkAf78YK & -1713245479)
@@ -363,7 +363,7 @@ case 'c':
 CY0cv5_ = wfADq | h3tgg8;
 break;
 case 'd':
-cNXO41 = (eeEmXj == -1251603994) ? -796859497 : BO29L05Jm(Rgr8ZPN, 1952063447, -1745861867, -1032314398);
+cNXO41 = (eeEmXj == -1251603994) ? -796859497 : BO29L05Jm(Rgr8ZPN, (unsigned short)1952063447, -1745861867, -1032314398);
 break;
 case 'e':
 rlXXb += 639571939;
@@ -441,7 +441,7 @@ catch (int& errorCode)
 F_Q_84i += LM0Oc51Lm;
 }
 B2cl = (int)abs(h3tgg8);
-V15X = M0blq4O_(737879545, 1809331320, 189931155, -1827806081);
+V15X = M0blq4O_(737879545, (unsigned short)1809331320, 189931155, -1827806081);
 
 {
 int i = 0;

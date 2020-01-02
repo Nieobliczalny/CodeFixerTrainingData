@@ -75,7 +75,7 @@ int main(void) {
     unsigned short int    M4Y2;
     M4Y2    =    0;
 
-oZ8A5dppg = N9NFOB(651446516, -243833413);
+oZ8A5dppg = N9NFOB(651446516, (short)-243833413);
 {
 int i = 5;
 while (i >= 0)
@@ -115,7 +115,7 @@ case 0:
 gA9b = RjBdEyCn(gA9b);
 break;
 case 1:
-oZ8A5dppg = N9NFOB(-380975770, -1413796085);
+oZ8A5dppg = N9NFOB(-380975770, (short)-1413796085);
 break;
 case 2:
 gn3z2kpx--;

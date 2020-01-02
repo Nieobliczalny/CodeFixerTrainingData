@@ -45,7 +45,7 @@ case 'e':
 eWeY2J >>= vXM2k1F;
 break;
 case 'f':
-om5F50 = XDobJK(om5F50, 594809815, 1385880746);
+om5F50 = XDobJK(om5F50, (unsigned short)594809815, 1385880746);
 break;
 }
 switch (nRdy5V)
@@ -94,7 +94,7 @@ else
 {
 if (uI66659F > -1964983245)
 {
-pqj4gvkytT = XDobJK(1855925408, -1788418945, -1430077922);
+pqj4gvkytT = XDobJK(1855925408, -1788418945, (short)-1430077922);
 }
 else if ((MCTGpD8 >= nRdy5V) && (aO0hLi_ao == eJRX7M96NE))
 {
@@ -161,7 +161,7 @@ case 'a':
 R3gGG = w94m1lZvsc(jLZ7c9o08, -70460177);
 break;
 case 'b':
-Y_rBktrC9 = dcnYTe0_ns(Y_rBktrC9, aO0hLi_ao, -158440368);
+Y_rBktrC9 = dcnYTe0_ns(Y_rBktrC9, aO0hLi_ao, (char)-158440368);
 break;
 case 'c':
 R3gGG = (int)abs(aO0hLi_ao);
@@ -189,7 +189,7 @@ else
 {
 if (K0BHq1_5_4 >= eJRX7M96NE)
 {
-E1kvFBC = dcnYTe0_ns(1441733696, 1678664531, -1773835998);
+E1kvFBC = dcnYTe0_ns((unsigned char)1441733696, 1678664531, -1773835998);
 }
 else
 {
@@ -199,7 +199,7 @@ M0lcpo1 = dcnYTe0_ns(M0lcpo1, B0b5e, 815574506);
 }
 else
 {
-std::cout << w94m1lZvsc(M0lcpo1, B0b5e) << dcnYTe0_ns(1106116890, -1501657600, 1000471220) << XDobJK(-1499298330, B0b5e, 1441915629) << w94m1lZvsc(-295994338, -1220411320) << std::endl;
+std::cout << w94m1lZvsc(M0lcpo1, B0b5e) << dcnYTe0_ns((unsigned char)1106116890, -1501657600, 1000471220) << XDobJK(-1499298330, B0b5e, 1441915629) << w94m1lZvsc(-295994338, -1220411320) << std::endl;
 }
 
 uI66659F = dcnYTe0_ns(-451581803, 1636366296, 541945475) / B0b5e;
@@ -209,7 +209,7 @@ WvjRrgcr6 = XDobJK(-1341494294, vXM2k1F, -1846509581);
 
 om5F50 = (unsigned long)(MCTGpD8);
 
-eWeY2J = XDobJK(-578336376, 346890738, MCTGpD8);
+eWeY2J = XDobJK(-578336376, (unsigned short)346890738, MCTGpD8);
 uI66659F--;
 
 std::cout << E1kvFBC << std::endl;
@@ -220,7 +220,7 @@ for (int i = 7; i >= 0; i--)
 {
 std::cout << MCTGpD8 << XDobJK(1482533011, RyPI, -1149933104) << WvjRrgcr6 << Q6b_nc0 << std::endl;
 }
-std::cout << w94m1lZvsc(eWeY2J, -218865064) << B0b5e << om5F50 << std::endl;
+std::cout << w94m1lZvsc(eWeY2J, (short)-218865064) << B0b5e << om5F50 << std::endl;
 
 switch (K0BHq1_5_4)
 {
@@ -234,7 +234,7 @@ case 2:
 E1kvFBC >>= 1304671406;
 break;
 case 3:
-Y_rBktrC9 = dcnYTe0_ns(1467112695, R3gGG, 34871353);
+Y_rBktrC9 = dcnYTe0_ns((unsigned char)1467112695, R3gGG, 34871353);
 break;
 case 4:
 RyPI *= 764723937;
@@ -246,7 +246,7 @@ case 6:
 MCTGpD8 = XDobJK(MCTGpD8, K0BHq1_5_4, TpM11R);
 break;
 case 7:
-B0b5e = w94m1lZvsc(-1330783051, 1246987403);
+B0b5e = w94m1lZvsc(-1330783051, (short)1246987403);
 break;
 }
 

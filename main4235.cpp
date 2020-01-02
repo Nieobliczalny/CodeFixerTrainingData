@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
   unsigned short  Thq0w_  =  1071082421;
 	unsigned long	T9EH	=	566262863;
   unsigned long long  vw5_4K_  =  0;
-    unsigned short    agFP47NvtB    =    1864897170;
+    unsigned short    agFP47NvtB    =    (unsigned short)1864897170;
   unsigned char  ZmT_akP721  =  1548230441;
     int    vBkJ57E1X    =    -1516204985;
     long long    Q9t994m0    =    115385368;
@@ -33,7 +33,7 @@ int main(int argc, char** argv) {
  unsigned char Y_0pFeR5 = 1491295627;
   unsigned char  mNZIen_4B  =  1099278710;
 	unsigned long long	PR1151	=	-993573807;
- unsigned short int y1xQy5E4Xh = -811957796;
+ unsigned short int y1xQy5E4Xh = (unsigned short)-811957796;
  short int LmO80RezDx = 1433538366;
  long aBg3 = 1349698991;
  short Jsc3HF6 = 2106185244;
@@ -44,7 +44,7 @@ int main(int argc, char** argv) {
  unsigned short int dRptD13co = 1536467090;
   long double  AK97Vgk_V  =  2040293650;
 	long double	xAq1Ab8L5	=	-388813345;
-  char  vWSG_K  =  -718291150;
+  char  vWSG_K  =  (char)-718291150;
     unsigned char    EE348G    =    -821510707;
 	long	Qy8D3XUt4_	=	-1623480155;
   unsigned char  h340O  =  -944123461;
@@ -55,7 +55,7 @@ int main(int argc, char** argv) {
   short  zYrRWxn  =  1814811302;
     unsigned long    i_H2VvVCm    =    390575651;
 	unsigned long	jhWHK	=	1945397972;
-    unsigned short int    aj5E9    =    -1920124844;
+    unsigned short int    aj5E9    =    (unsigned short)-1920124844;
  char nMz7FpA5_ = -165509046;
     unsigned int    m87H    =    1192083970;
  long long J3Z3 = -2136592031;
@@ -66,7 +66,7 @@ int main(int argc, char** argv) {
  unsigned long jZ4w = 182782009;
   char  VvhR8rK4  =  1595847689;
  float WIvVNk2G = -135326460;
-    char    KNFAza    =    1685456664;
+    char    KNFAza    =    (char)1685456664;
 	unsigned long long	ebIR_D	=	-1375916104;
     long double    I1v9__1IJ    =    -61085487;
 	double	VQ5mF	=	1181659853;

@@ -17,7 +17,7 @@ unsigned short int    PCPL87yEF(short    ohp_kcC,unsigned long long    D_m4,shor
 
 short int	FmC3B_J3D(short int	JfYMcbm,int	MO122M,unsigned int	BD76b)
 {
-	return	1017523759;
+	return	(short)1017523759;
 }
 
 char	cGbx(unsigned long	xOHb6oV6,long long	cjkrb2h_6,unsigned long	t5y0kEB2E,unsigned long long	WR641BZrl,int	L_slSu)
@@ -311,7 +311,7 @@ int k = 0;
 do
 {
 ++k;
-nSEwD = PCPL87yEF(-274207276, 1220668096, -809701634);
+nSEwD = PCPL87yEF(-274207276, 1220668096, (short)-809701634);
 }
 while (k < 5);
 }
@@ -385,7 +385,7 @@ while (i >= 0);
 }
 
 ryvXieD = Ne2V % S3j0rofx;
-std::cout << PCPL87yEF(606883142, -84802723, 1234593017) << GbfuJ77 << m80W4OxX2 << cGbx(-1001589345, -452949783, -208846154, 1770176026, -1616761025) << std::endl;
+std::cout << PCPL87yEF(606883142, -84802723, (short)1234593017) << GbfuJ77 << m80W4OxX2 << cGbx(-1001589345, -452949783, -208846154, 1770176026, -1616761025) << std::endl;
 try
 {
 Z7U2 += m___G;
@@ -429,7 +429,7 @@ K2ESnM = FmC3B_J3D(-23590207, -875619235, Uw_jD3);
 vuQ7S0G = PCPL87yEF(vuQ7S0G, -378748355, 1216553085);
 
 std::cout << S3j0rofx / a88Q2avdY << std::endl;
-std::cout << "IoFQ2vXVD" << XMMUP9QC4P() << JZ_0z(vuQ7S0G, 1901011878, 1369979587) << cGbx(-1869325164, 704059555, 812885644, -849000337, 1389877718) << PCPL87yEF(vuQ7S0G, -729297562, V0205m9) << std::endl;
+std::cout << "IoFQ2vXVD" << XMMUP9QC4P() << JZ_0z(vuQ7S0G, 1901011878, (unsigned short)1369979587) << cGbx(-1869325164, 704059555, 812885644, -849000337, 1389877718) << PCPL87yEF(vuQ7S0G, -729297562, V0205m9) << std::endl;
 {
 int i = 2;
 while (i >= 0)
@@ -479,7 +479,7 @@ KRoVzknbl = h_sLPc * P86W7;
 break;
 case 'd':
 case 'D':
-OKA0_jXL = JZ_0z(-1795101182, 456323821, 996180011);
+OKA0_jXL = JZ_0z(-1795101182, 456323821, (unsigned short)996180011);
 break;
 case 'e':
 case 'E':
@@ -527,7 +527,7 @@ if (rPglM5Hs0c >= -1131281195)
 switch (a8Uxu)
 {
 case 0:
-h_sLPc = JZ_0z(1742306511, 880585910, -1281139068);
+h_sLPc = JZ_0z(1742306511, 880585910, (unsigned short)-1281139068);
 break;
 case 1:
 k03_1oLX6i = XMMUP9QC4P();
@@ -554,7 +554,7 @@ std::cout << Ery8T_xbB << mE2DaBs << "X7ezxS" << std::endl;
 int i = 7;
 while (i >= 0)
 {
-std::cout << kN3ag05G2 << PCPL87yEF(71380459, -1437618373, 652217696) << cGbx(EF738, e7c7O_G7, -219141843, 1699183987, -832086071) << std::endl;
+std::cout << kN3ag05G2 << PCPL87yEF(71380459, -1437618373, (short)652217696) << cGbx(EF738, e7c7O_G7, -219141843, 1699183987, -832086071) << std::endl;
 --i;
 }
 }

@@ -266,7 +266,7 @@ case 'b':
 gr0Z0UT = mBUp3VOY9B(1885899994);
 break;
 case 'c':
-t3g8K0 = mBUp3VOY9B(-1915655801);
+t3g8K0 = mBUp3VOY9B((char)-1915655801);
 break;
 case 'd':
 m62KrLUY = kb8r - 974557636;
@@ -297,7 +297,7 @@ case 'd':
 nczoaJ = (int)ceil(Ew72);
 break;
 default:
-uStGlQ = mBUp3VOY9B(-1568684127);
+uStGlQ = mBUp3VOY9B((char)-1568684127);
 break;
 }
 
@@ -340,7 +340,7 @@ cozpqm = (long double)(Ew72);
 EFJ9G9cV00 = (int)abs(Dqq8v);
 
 m96ZmUfTr = ZwUASyh71M / mBUp3VOY9B(2062500472);
-Jlury2F = (B62Q_GkghK != 1780425359) ? mBUp3VOY9B(-43347485) : Dqq8v;
+Jlury2F = (B62Q_GkghK != 1780425359) ? mBUp3VOY9B((char)-43347485) : Dqq8v;
 z8Ars6 = M1667_Q3H9 / 370858018;
 
 std::cout << mBUp3VOY9B(864862822) << "ypf4H" << std::endl;
@@ -460,7 +460,7 @@ kGp0OK = (int)abs(J7M58cmQ8C);
 
 std::cout << mBUp3VOY9B(-1395786982) << "BCk7149Ud2" << HJcud75 << mBUp3VOY9B(bVTO) << std::endl;
 
-std::cout << Jlury2F << mBUp3VOY9B(-975201306) << mBUp3VOY9B(bVTO) << "Kbei" << gr0Z0UT << std::endl;
+std::cout << Jlury2F << mBUp3VOY9B((char)-975201306) << mBUp3VOY9B(bVTO) << "Kbei" << gr0Z0UT << std::endl;
 {
 int i = 0;
 while (i < 8)
@@ -511,7 +511,7 @@ t3g8K0 = mBUp3VOY9B(-1475539320);
 break;
 case 'd':
 case 'D':
-uStGlQ = mBUp3VOY9B(1741122135);
+uStGlQ = mBUp3VOY9B((char)1741122135);
 break;
 case 'e':
 case 'E':

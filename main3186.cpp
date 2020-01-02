@@ -21,7 +21,7 @@ short int	Tr61_bs();
 int main(int argc, char** argv) {
 	long	Y35_PJ0c	=	1391714181;
   short int  m7Qv0  =  -1027588873;
-    short    VTS4    =    1772623545;
+    short    VTS4    =    (short)1772623545;
  long J1b7bT = 1662618092;
 	char	K_58qVZxU7	=	362695667;
  unsigned char Q04HNU0pb = 254863604;
@@ -33,7 +33,7 @@ int main(int argc, char** argv) {
 	long long	Ln_56fPto	=	-1848101240;
   int  x5X788  =  -24789832;
   short int  jyQXi2  =  -1938105103;
-  char  kzIwbBhZ7b  =  -2087786743;
+  char  kzIwbBhZ7b  =  (char)-2087786743;
   double  DB29_x7  =  1585230833;
 	double	i_3E	=	1624128050;
  unsigned int Hf_j1C_d = 810246186;
@@ -43,7 +43,7 @@ int main(int argc, char** argv) {
  unsigned char s_0_45 = -1942745888;
 	unsigned long	czO94WEN9	=	57886703;
     short int    eHd7n    =    609067529;
-	unsigned short	Hn38	=	-948013377;
+	unsigned short	Hn38	=	(unsigned short)-948013377;
 	long	olZd2v4	=	438668083;
   unsigned short int  C2FtGrK6k  =  -1048180920;
  short YR744B95 = 1795161293;
@@ -75,7 +75,7 @@ if (((olZd2v4 == TLDc) && (m7Qv0 < -2138843747)) && (Y35_PJ0c <= -1440403370))
 {
 if (tE6UYx4 == J1b7bT)
 {
-eHd7n = Y_1yqe_5(-300161381, x5X788, 739355433, i_3E);
+eHd7n = Y_1yqe_5(-300161381, x5X788, (short)739355433, i_3E);
 }
 else if (ITK6tgt & 660447660)
 {
@@ -133,7 +133,7 @@ int i = 9;
 while (i >= 0)
 {
 i--;
-kzIwbBhZ7b = JRVS6(1283131841, 1059089749, -934675859, -481956471);
+kzIwbBhZ7b = JRVS6(1283131841, (unsigned short)1059089749, -934675859, -481956471);
 }
 }
 if ((Hn38 > m7Qv0) && ((w_S5 <= -390724428) || (ITK6tgt <= 2064948674)))
@@ -278,7 +278,7 @@ case 'c':
 v25S_s = (int)ceil(i_3E);
 break;
 case 'd':
-olZd2v4 = Y_1yqe_5(olZd2v4, 995054018, -1942556527, Q04HNU0pb);
+olZd2v4 = Y_1yqe_5(olZd2v4, 995054018, (short)-1942556527, Q04HNU0pb);
 break;
 case 'e':
 BX_v = HQcD5i();
@@ -297,7 +297,7 @@ unsigned short int    Y_1yqe_5(unsigned char    T32WsS89j1,char    IM_Kk2,short 
 }
 
 char  T0W9kIHd(char  oq0ft,unsigned int  e659ZIuD56,long  K3s6TA,unsigned int  tepXx9q2,int  d0lQ9nu)  {
-  return  -1804052829;
+  return  (char)-1804052829;
 }
 
 long long    HQcD5i()

@@ -25,7 +25,7 @@ short int a90e_9S900(long GK6KZe,unsigned long long Z9cY0vX2,unsigned short Q68D
 int main()
 {
  unsigned char EeW4m2MT5 = 975824795;
-	unsigned char	E9KY	=	-440026977;
+	unsigned char	E9KY	=	(unsigned char)-440026977;
   long  o5v_24nK3  =  -632262113;
     long    g_v38    =    2093567153;
  unsigned long long CBG5IM8S = 449294295;
@@ -37,7 +37,7 @@ int main()
  short XtxM = -262386410;
     unsigned int    Lwpg6    =    -2062698663;
  double FKkKfJM = 1286217515;
-    unsigned short int    sP3Sn6    =    2100480567;
+    unsigned short int    sP3Sn6    =    (unsigned short)2100480567;
     unsigned long long    R4Dlv059qo    =    -1455620011;
   unsigned short int  uhA_  =  1322047194;
 	unsigned int	Z28v3	=	233986839;
@@ -47,7 +47,7 @@ int main()
     unsigned long long    f2U7MQH_m_    =    -168195679;
 	float	Qwqj9LY	=	-539223950;
  short int K_848H2So7 = 1461466184;
-  char  J0h7  =  1030956942;
+  char  J0h7  =  (char)1030956942;
 	float	a0PNXZ	=	969451344;
     float    m6Ti_DmUka    =    1449858349;
     char    y34qxoZ8f    =    -1917866880;
@@ -64,7 +64,7 @@ int main()
     long long    eAy7s8s    =    -1338577447;
     unsigned long long    s_gvh    =    962905770;
     long    b93D8vho_    =    121999647;
-	unsigned short	r30ZvVG	=	1542948279;
+	unsigned short	r30ZvVG	=	(unsigned short)1542948279;
   unsigned long long  sIF09  =  2127325410;
   double  HNbsM6A  =  1698770881;
  unsigned short aa_e = -1154128247;
@@ -75,7 +75,7 @@ int main()
     long    ri39    =    1459774044;
  short eYI7mb_2o5 = 479491759;
 	double	VA84_	=	-1269234476;
-	unsigned short	Yb24TQW	=	470594752;
+	unsigned short	Yb24TQW	=	(unsigned short)470594752;
   long long  Az8R5CnNC  =  -1849781645;
   short  SfA6_  =  -1873244352;
  long long y79Rz = 424946863;
@@ -86,7 +86,7 @@ int main()
  char NAPVD = 1635765114;
     unsigned long    T_86951d2    =    1263084319;
     unsigned int    g4811Z02    =    1900808924;
-  short int  Ju5Uu8fY  =  2097851620;
+  short int  Ju5Uu8fY  =  (short)2097851620;
     long double    JS9g9t    =    -1542947613;
   short  lJ6aOgL  =  738393394;
   unsigned short int  cBvFEc  =  -1465216103;
@@ -96,7 +96,7 @@ int main()
  unsigned int l_m6feD88O = 1575659335;
     unsigned short    kYNS_x7avt    =    562770447;
     short    w9It    =    -110650093;
-	unsigned short	BFAH49_	=	-834592371;
+	unsigned short	BFAH49_	=	(unsigned short)-834592371;
   unsigned long long  Ms1MNul2  =  -488951010;
 	unsigned short	u_62ykWhmJ	=	1801274600;
 	long long	r9jm	=	-1984937096;
@@ -149,7 +149,7 @@ case 1:
 a8SO6Etfo = xZ6cH_P(-1646276314, 609848000, m6Ti_DmUka);
 break;
 case 2:
-o359i36A = j824(1602969881);
+o359i36A = j824((unsigned char)1602969881);
 break;
 case 3:
 m6Ti_DmUka = (int)ceil(PikJ);
@@ -187,7 +187,7 @@ break;
 JPW6VQ71i++;
 std::cout << y34qxoZ8f / xZ6cH_P(496740703, cBvFEc, HNbsM6A) << std::endl;
 
-cBvFEc = a90e_9S900(1573083340, -319011481, R3lT9t, 894390835, dG71Fh);
+cBvFEc = a90e_9S900(1573083340, -319011481, R3lT9t, (char)894390835, dG71Fh);
 
 {
 int i = 0;
@@ -229,7 +229,7 @@ w9It = tyaiO1b(w9It, nRy4s_, A7c4Q6q9);
 break;
 }
 std::cout << "XNd62I" << Qfxzcz9(-1619314874) << eYI7mb_2o5 << f2U7MQH_m_ << std::endl;
-std::cout << K_848H2So7 << j824(-152207630) << "F965Po" << "yViM_dg" << xZ6cH_P(-1177173728, nRy4s_, -735307794) << std::endl;
+std::cout << K_848H2So7 << j824(-152207630) << "F965Po" << "yViM_dg" << xZ6cH_P((unsigned char)-1177173728, nRy4s_, -735307794) << std::endl;
 switch (f2U7MQH_m_)
 {
 case 0:
@@ -245,7 +245,7 @@ case 3:
 RFcl6_5SY8 -= 1283096227;
 break;
 case 4:
-Ju5Uu8fY = tyaiO1b(-150277577, g4811Z02, fxt0g5);
+Ju5Uu8fY = tyaiO1b((unsigned short)-150277577, g4811Z02, fxt0g5);
 break;
 case 5:
 rN24 = X_Jq5 % 1150143582;
@@ -282,7 +282,7 @@ unsigned long	xZ6cH_P(unsigned char	yl0Ze7VF,unsigned long long	n9a4iryTd4,unsig
 }
 
 unsigned short int Qfxzcz9(unsigned long long w228v5) {
- return -2026110920;
+ return (unsigned short)-2026110920;
 }
 
 short int a90e_9S900(long GK6KZe,unsigned long long Z9cY0vX2,unsigned short Q68DXJX,char Yw5H06hc,long ZJNb1MX) {

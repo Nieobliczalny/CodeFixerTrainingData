@@ -22,7 +22,7 @@ unsigned short    Kw7mR4Z1(unsigned char    zLs58ki)
 }
 
 short X1s0xGL7e(long uB5cs_,int xp8f5) {
- return 962187184;
+ return (short)962187184;
 }
 
 unsigned short  IV3z0iC4x(long long  OT4247J1,long long  i4Vb_U,short int  Fl3x,unsigned int  Ymt8R6V6)  {
@@ -47,7 +47,7 @@ int main(int argc, char** argv)
   unsigned long  HX1d16_S5a;
   HX1d16_S5a  =  0;
 	unsigned short int	ZTJi95UWXH;
-	ZTJi95UWXH	=	184944936;
+	ZTJi95UWXH	=	(unsigned short)184944936;
     unsigned long    U1E94aChm_;
     U1E94aChm_    =    0;
   unsigned short  QRLh__tM;
@@ -57,7 +57,7 @@ int main(int argc, char** argv)
     short int    iVwdSuaG;
     iVwdSuaG    =    887819567;
  unsigned char J8W7GN8;
- J8W7GN8 = 581487300;
+ J8W7GN8 = (unsigned char)581487300;
 
 if (hhhazi < ZTJi95UWXH)
 {

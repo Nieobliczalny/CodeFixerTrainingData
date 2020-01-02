@@ -14,7 +14,7 @@ unsigned short int  KAP12(unsigned long  fH8AMlT5,short int  HIBQ4NG,unsigned in
 
 char  c86p6(char  nfz3y,unsigned long long  c8Vio1S0W)
 {
-  return  -1012534501;
+  return  (char)-1012534501;
 }
 
 long	dLSUw_U(unsigned short	fy_Dz_cb,unsigned long	a7X4,unsigned int	H26pL,long long	Q12mC,int	oWhw)
@@ -106,7 +106,7 @@ n91q9Wzga = c86p6(735099717, -1404138687);
 }
 else
 {
-xEd6LY4Z8 = KAP12(1724057543, 815429346, 1108494822, -1158010309);
+xEd6LY4Z8 = KAP12(1724057543, (short)815429346, 1108494822, -1158010309);
 }
 
 if (M825_8015l > 812343395)
@@ -224,7 +224,7 @@ case 'b':
 Cs2_a1R9 = dLSUw_U(61624358, -1553893312, -13500822, Tc8Y8oVUk, -1451734343);
 break;
 case 'c':
-UuuS8UXf = (hcv615_Pg6 & kF_CyvsFo3) ? c86p6(JuHWIw3u61, yolL1gF2) : KAP12(JuHWIw3u61, -343446014, -208209550, Tc8Y8oVUk);
+UuuS8UXf = (hcv615_Pg6 & kF_CyvsFo3) ? c86p6(JuHWIw3u61, yolL1gF2) : KAP12(JuHWIw3u61, (short)-343446014, -208209550, Tc8Y8oVUk);
 break;
 case 'd':
 hcv615_Pg6 = dLSUw_U(1804246914, Jb35QL, 1549339921, 230861890, 120884175);
@@ -239,7 +239,7 @@ case 'g':
 FAwnH6ara2 = KAP12(-465831752, 444979856, cg312fk5n, QBVm480);
 break;
 case 'h':
-Cs2_a1R9 = dLSUw_U(-100321149, 552944100, a0ScI, Cs2_a1R9, 1435774965);
+Cs2_a1R9 = dLSUw_U((unsigned short)-100321149, 552944100, a0ScI, Cs2_a1R9, 1435774965);
 break;
 case 'i':
 W_Upb0l4 = (ROAZ3o3 <= 1790305867) ? -1520974633 : -879348992;
@@ -254,7 +254,7 @@ if ((i4O10_ < C79E6H28L) && (Yj52u_30bb < yBu8b47Z8))
 {
 if ((Cs2_a1R9 & 667062254) || (hcv615_Pg6 & kF_CyvsFo3))
 {
-Cs2_a1R9 = dLSUw_U(246635009, -288618337, j0Hp2, yBu8b47Z8, gxNU8);
+Cs2_a1R9 = dLSUw_U((unsigned short)246635009, -288618337, j0Hp2, yBu8b47Z8, gxNU8);
 }
 else
 {
@@ -381,7 +381,7 @@ mAq3uZ5i7 = (int)ceil(HPUon2hNCQ);
 break;
 case 'c':
 case 'C':
-K3d0wqzva = KAP12(K3d0wqzva, 1395021303, nvzmi90, wk8Pxi_2);
+K3d0wqzva = KAP12(K3d0wqzva, (short)1395021303, nvzmi90, wk8Pxi_2);
 break;
 case 'd':
 case 'D':
@@ -422,7 +422,7 @@ case 5:
 MXit_q_vG = KAP12(395535199, 666947829, -1560594918, a448VP);
 break;
 case 6:
-qr6p = KAP12(qr6p, 1995402006, HPUon2hNCQ, -838481799);
+qr6p = KAP12(qr6p, (short)1995402006, HPUon2hNCQ, -838481799);
 break;
 default:
 rq7J_qrb5n = (int)ceil(i4O10_);

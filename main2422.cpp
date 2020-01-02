@@ -21,7 +21,7 @@ int main(void) {
  long double Nvan4G4_5 = 1321005063;
     unsigned long long    t9ATX0    =    -201688385;
   char  HR3LJE6p7  =  -166119323;
-  unsigned short int  O4yST03s  =  1899350729;
+  unsigned short int  O4yST03s  =  (unsigned short)1899350729;
     long double    u_Q_0    =    1100507980;
 	unsigned int	BgnfWt41	=	-798053047;
   unsigned short  i7N_6rH  =  804762159;
@@ -32,7 +32,7 @@ int main(void) {
 	long	Tw9I	=	0;
  unsigned int E8KSZG29i = 62800382;
 	short	HteJ4Xh03W	=	276088675;
-    char    IPZz5    =    885840803;
+    char    IPZz5    =    (char)885840803;
   long long  c6T4518w8  =  -214219530;
  long double Dd61H8Y = -372837626;
  unsigned long long aef60I8n = -1529832209;
@@ -44,7 +44,7 @@ int main(void) {
     char    LTiV2D9    =    531151408;
     long long    pdEMwnj6    =    1314969821;
  long EmThFIX = -1099708172;
-    unsigned short int    gz3vh_u2J    =    -1570160243;
+    unsigned short int    gz3vh_u2J    =    (unsigned short)-1570160243;
   long long  h9f_Q  =  1554834591;
   char  uyp2_sa  =  2022516163;
 	unsigned char	h2sgT8	=	850705421;
@@ -54,7 +54,7 @@ int main(void) {
     unsigned short int    dk__6THY    =    281710450;
  unsigned int ovSi_Uvhep = -1020550424;
   short int  D1OIs  =  1269068015;
- unsigned char Z466umLcU = -1485151618;
+ unsigned char Z466umLcU = (unsigned char)-1485151618;
     double    EvNlP    =    -1958079532;
   char  hA8Yw_Xd  =  -259461229;
 
@@ -133,7 +133,7 @@ else
 {
 c011m_7 = (unsigned long long)(Nvan4G4_5);
 }
-t9ATX0 = N253tbS(t9ATX0, 62616893, 1181921832);
+t9ATX0 = N253tbS(t9ATX0, 62616893, (unsigned short)1181921832);
 Tw9I = W6Od2RQ9_();
 
 GaXMu8W = W6Od2RQ9_();
@@ -185,7 +185,7 @@ int k = 4;
 do
 {
 k--;
-O4yST03s = zJ1KzAK6(1128324085, J86dqSnoxF, c6T4518w8, 1370790413);
+O4yST03s = zJ1KzAK6(1128324085, J86dqSnoxF, c6T4518w8, (short)1370790413);
 }
 while (k >= 0);
 }
@@ -311,7 +311,7 @@ case 'G':
 IPZz5 = (int)abs(HteJ4Xh03W);
 break;
 default:
-xYskvo = N253tbS(xYskvo, 1297082287, -1289822094);
+xYskvo = N253tbS(xYskvo, 1297082287, (unsigned short)-1289822094);
 break;
 }
 }

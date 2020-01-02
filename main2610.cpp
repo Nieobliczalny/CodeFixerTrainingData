@@ -92,7 +92,7 @@ else
 int k = 3;
 do
 {
-nK3nb = VyCW(1609888760, 1050514421);
+nK3nb = VyCW((unsigned char)1609888760, 1050514421);
 --k;
 }
 while (k >= 0);
@@ -223,7 +223,7 @@ case 2:
 dv1gttzQ4 *= 1050959215;
 break;
 case 3:
-nK3nb = VyCW(nK3nb, -1635614029);
+nK3nb = VyCW(nK3nb, (unsigned short)-1635614029);
 break;
 case 4:
 U9ZggjQ /= 1960217303;
@@ -262,7 +262,7 @@ do
 switch (e72u)
 {
 case 0:
-dv1gttzQ4 = VyCW(-478703510, 1526344665) - e72u;
+dv1gttzQ4 = VyCW(-478703510, (unsigned short)1526344665) - e72u;
 break;
 case 1:
 NT9C = U9ZggjQ - nK3nb;
@@ -372,7 +372,7 @@ case 5:
 dv1gttzQ4 = dv1gttzQ4 * 62227954;
 break;
 case 6:
-nK3nb = VyCW(-1119772358, 80036565);
+nK3nb = VyCW(-1119772358, (unsigned short)80036565);
 break;
 default:
 zWfo_z = QLNr1_S(zWfo_z, 1505327653) / 828435782;

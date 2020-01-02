@@ -22,7 +22,7 @@ unsigned short	q1o56(short	xM_3_,unsigned char	Jmi0GaMdT,unsigned int	eiw1fd69T,
 }
 
 short int    tmx6()    {
-    return    43916224;
+    return    (short)43916224;
 }
 
 short    W5QC(unsigned long    wmV2_g,unsigned short    UfLL)
@@ -37,7 +37,7 @@ int main(void) {
 	unsigned long	r1z9t9v	=	1404994479;
   int  Jzq_0p  =  1658069574;
     unsigned long    EzigZqqFG    =    -24427311;
- unsigned short JMBlnh9 = 1414524301;
+ unsigned short JMBlnh9 = (unsigned short)1414524301;
 	unsigned int	u2xL52	=	1831828674;
     float    i_qK    =    -987965009;
  unsigned char WSm10NV0Z = -1673655811;
@@ -55,7 +55,7 @@ int main(void) {
  long long CESot3xC = 1121833718;
   short int  Ba6hc_8  =  -1743850035;
  double H82VY14 = 2132477075;
-  char  Qg33KNAq  =  1270298056;
+  char  Qg33KNAq  =  (char)1270298056;
   short  UBsy711cg  =  -1094663728;
  unsigned short int Ls0L = 1142978809;
  unsigned short ed23eJN_mY = 227593357;
@@ -67,7 +67,7 @@ int main(void) {
 	int	Mrvo32	=	784526341;
  unsigned long bzT4l = -1412577072;
   unsigned long  NCDIzf  =  1539381764;
-	unsigned char	nZ7A	=	-1462216995;
+	unsigned char	nZ7A	=	(unsigned char)-1462216995;
   int  Kr1nVK  =  -1790655854;
  unsigned long long a_Z_ = -1025115288;
 	long double	jZ3HDxCcH	=	-2086530587;
@@ -176,7 +176,7 @@ while (j < 9)
 j++;
 if ((bzT4l < 910044499) || ((JVt_SzU_ >= 767390463) || (NCDIzf >= 994151202)))
 {
-EzigZqqFG = q1o56(-1206997610, -1344399896, 343676526, ri2Z, Sn_vIE);
+EzigZqqFG = q1o56(-1206997610, (unsigned char)-1344399896, 343676526, ri2Z, Sn_vIE);
 }
 else
 {
@@ -326,7 +326,7 @@ case 4:
 nZ7A = hfR1yXS - 751677264;
 break;
 case 5:
-Qg33KNAq = q1o56(214899146, -527958215, 1910728696, 1817742799, -1755565100);
+Qg33KNAq = q1o56((short)214899146, -527958215, 1910728696, 1817742799, -1755565100);
 break;
 case 6:
 i4X9 = tmx6();

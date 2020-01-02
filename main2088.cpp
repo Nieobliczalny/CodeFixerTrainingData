@@ -25,6 +25,7 @@ unsigned short int  LV72Q(unsigned int  aT1Ub08Z,unsigned int  P4MEfM,unsigned s
 
 int main(void) {
   long long  seWCAAS  =  0;
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
     short int    lC85Q877E1    =    -980150183,    o2907_T    =    -2037223690,    z4WAlL2g    =    846133280,    r11j    =    -675890930,    iTK9HR5d    =    1703449211,    Sp3n5s0v    =    1884837747,    zGQah2V6    =    1942626037,    Dm80zai1    =    -600691756,    NzP5W0mfF    =    906961848,    La0lmV_t    =    1466269140,    A_T1sj    =    1245232544,    q06q    =    -1624460643,    Yrn44b    =    441545371,    tWKN6b197    =    -1739455340,    UZ15hLR6    =    -212383858,    W6eZsJgU    =    411803190,    NE0SdvA58y    =    23882523,    TDB332O    =    -636999840,    eo4Mj    =    -2123784298;
 
 {
@@ -74,7 +75,7 @@ case 4:
 NzP5W0mfF = (int)abs(A_T1sj);
 break;
 case 5:
-Sp3n5s0v = (q06q < A_T1sj) ? vN4SZ() : 776345578;
+Sp3n5s0v = (q06q < A_T1sj) ? vN4SZ() : (short)776345578;
 break;
 case 6:
 TDB332O = famB1653(TDB332O, -1506878121, iTK9HR5d, 1015612940);
@@ -97,7 +98,7 @@ catch (int& errorCode)
 Sp3n5s0v = zGQah2V6 + tWKN6b197;
 }
 }
-std::cout << "N6Dd7" << LV72Q(303894507, Dm80zai1, NzP5W0mfF, 1579714612, A_T1sj) << "Z0BrjNW0" << LV72Q(1655816819, Dm80zai1, 841727713, UZ15hLR6, A_T1sj) << TDB332O << std::endl;
+std::cout << "N6Dd7" << LV72Q(303894507, Dm80zai1, NzP5W0mfF, (short)1579714612, A_T1sj) << "Z0BrjNW0" << LV72Q(1655816819, Dm80zai1, 841727713, UZ15hLR6, A_T1sj) << TDB332O << std::endl;
 
 Dm80zai1 -= 2112287835;
 

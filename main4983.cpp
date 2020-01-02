@@ -50,7 +50,7 @@ w0SV5 /= 1766162447;
 break;
 case 'e':
 case 'E':
-BUfee5 = NG1KkM(299595495);
+BUfee5 = NG1KkM((char)299595495);
 break;
 case 'f':
 case 'F':
@@ -66,7 +66,7 @@ BUfee5 = NG1KkM(-1817466930);
 break;
 case 'i':
 case 'I':
-w0SV5 = dsAQm(-1816864575);
+w0SV5 = dsAQm((short)-1816864575);
 break;
 case 'j':
 case 'J':
@@ -165,7 +165,7 @@ while (i < 1);
 Vg78VKoiH = (int)abs(BUfee5);
 J_5zKI = dsAQm(-1029588891);
 Tqeco1l = dsAQm(Tqeco1l);
-std::cout << dsAQm(-1871768334) << dsAQm(Tqeco1l) << std::endl;
+std::cout << dsAQm((short)-1871768334) << dsAQm(Tqeco1l) << std::endl;
 if (Vg78VKoiH >= BUfee5)
 {
 switch (J_5zKI)
@@ -524,7 +524,7 @@ case 'h':
 w0SV5 = dsAQm(BUfee5);
 break;
 case 'i':
-Vg78VKoiH = NG1KkM(-300228509);
+Vg78VKoiH = NG1KkM((char)-300228509);
 break;
 }
 }

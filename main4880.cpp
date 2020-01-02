@@ -42,7 +42,7 @@ int main(void) {
     unsigned short int    gwiu1A801;
     gwiu1A801    =    1250962921;
   unsigned short  Sh_c;
-  Sh_c  =  409505378;
+  Sh_c  =  (unsigned short)409505378;
 	short int	wsId17r3_;
 	wsId17r3_	=	86864436;
     unsigned int    Vi8AA1;
@@ -54,7 +54,7 @@ int main(void) {
   unsigned long  ul6wf;
   ul6wf  =  303696138;
   unsigned char  i8S60_n;
-  i8S60_n  =  1816925836;
+  i8S60_n  =  (unsigned char)1816925836;
  short SW3waqJv;
  SW3waqJv = -10028589;
   unsigned char  no_A;
@@ -66,7 +66,7 @@ int main(void) {
 	unsigned long long	Hjb1kXha7;
 	Hjb1kXha7	=	-227480450;
     short    NWpEj;
-    NWpEj    =    1049077698;
+    NWpEj    =    (short)1049077698;
  long M_934I3;
  M_934I3 = -959417544;
   short  s465H1;
@@ -82,7 +82,7 @@ int main(void) {
     short int    Jq2t;
     Jq2t    =    597376983;
     unsigned char    vc1Z;
-    vc1Z    =    27368871;
+    vc1Z    =    (unsigned char)27368871;
     long double    z48Cl;
     z48Cl    =    -1071838704;
   short int  j_0r3Hy_a;

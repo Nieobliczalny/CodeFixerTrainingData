@@ -20,6 +20,7 @@ unsigned int T9fV3jR_I(unsigned int Ni5d,int F14ins9EsC,long long YnZi);
 
 int main(int argc, char** argv) {
     char    W034RkP047    =    0,    k81HyrQ1qk    =    0,    OQBQSQ    =    0;
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
  unsigned short F_xfG5PV = -371621531, rhrf3t1wxH = 716488146, bv_U09IZ = -2000804195, OKF3_7 = 1934338743, adVKj = -2139399233, w37CZw = -944433043, s614U0N8if = -19388812, bwF6Ti9G = -1258044820, hg9rQ1 = 2060402090, UF6_Ibe47 = 1026519366, Io68qnW = -1468447553, M5_4 = 1784435592;
 
 std::cout << kh4TC3lH7_(F_xfG5PV) << "f_13dc" << UF6_Ibe47 << V_2U() << std::endl;
@@ -122,7 +123,7 @@ case 0:
 s614U0N8if = F_xfG5PV + 607504950;
 break;
 case 1:
-adVKj = W3b8(-1899719964, OQBQSQ, -1924882790);
+adVKj = W3b8(-1899719964, OQBQSQ, (unsigned short)-1924882790);
 break;
 case 2:
 s614U0N8if = W3b8(-1343044580, W034RkP047, 174783001);
@@ -188,7 +189,7 @@ case 'e':
 OQBQSQ = (int)abs(W034RkP047);
 break;
 case 'f':
-OKF3_7 = W3b8(-1507011110, bv_U09IZ, -457410372);
+OKF3_7 = W3b8(-1507011110, bv_U09IZ, (unsigned short)-457410372);
 break;
 case 'g':
 UF6_Ibe47 = V_2U() - 220862414;
@@ -283,7 +284,7 @@ bwF6Ti9G = M464YyL();
 }
 if (M5_4)
 {
-std::cout << W3b8(-713481664, -1637728409, 221159093) << "Dsa5TfNA" << W3b8(bwF6Ti9G, -1096743710, -1053768991) << OQBQSQ << V_2U() << std::endl;
+std::cout << W3b8(-713481664, -1637728409, (unsigned short)221159093) << "Dsa5TfNA" << W3b8(bwF6Ti9G, -1096743710, -1053768991) << OQBQSQ << V_2U() << std::endl;
 }
 OQBQSQ = (char)(adVKj * OQBQSQ);
 std::cout << "Rq74xh" << adVKj << bv_U09IZ << std::endl;
@@ -424,7 +425,7 @@ case 1:
 OKF3_7 |= 1457766563;
 break;
 case 2:
-adVKj = W3b8(-1792328403, F_xfG5PV, -6241550);
+adVKj = W3b8(-1792328403, F_xfG5PV, (unsigned short)-6241550);
 break;
 case 3:
 bwF6Ti9G = V_2U() % M5_4;
@@ -532,7 +533,7 @@ short M464YyL() {
 
 short    kh4TC3lH7_(long long    FuD6LMg)
 {
-    return    359235721;
+    return    (short)359235721;
 }
 
 unsigned int T9fV3jR_I(unsigned int Ni5d,int F14ins9EsC,long long YnZi)

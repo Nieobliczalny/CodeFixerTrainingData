@@ -82,7 +82,7 @@ while (k < 5);
 }
 else if ((JX_d != 562755167) || (tuLED != w2JE_UvDU))
 {
-rRJEhz = Yuf07WhC8i(1302765083);
+rRJEhz = Yuf07WhC8i((char)1302765083);
 }
 else
 {
@@ -148,7 +148,7 @@ EHkN901w_K = Yuf07WhC8i(Tdo90v2);
 break;
 case 'f':
 case 'F':
-EHkN901w_K = Yuf07WhC8i(-1043689949);
+EHkN901w_K = Yuf07WhC8i((char)-1043689949);
 break;
 case 'g':
 case 'G':

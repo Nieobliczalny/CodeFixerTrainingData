@@ -131,7 +131,7 @@ nqy61nRuu = (double)(qZu3Y9);
 std::cout << mg28_k(T9a7, 1590785803, lu81_Wv65w) << std::endl;
 
 Sr_6 -= EhcJ;
-p3L0yn15E = mg28_k(-1667048590, 1386937448, -872357561);
+p3L0yn15E = mg28_k(-1667048590, 1386937448, (char)-872357561);
 
 JQ89YD1M = -1169139792 / mg28_k(aUb4pxOk, 2013123801, N1l1);
 
@@ -233,7 +233,7 @@ break;
 }
 }
 
-std::cout << mg28_k(1787015108, E2i06hg41, u5Dbbw2) << "IR_I1" << qZu3Y9 << mg28_k(-2110711318, 1173959297, 1691195157) << "W9HNvf" << std::endl;
+std::cout << mg28_k(1787015108, E2i06hg41, u5Dbbw2) << "IR_I1" << qZu3Y9 << mg28_k((char)-2110711318, 1173959297, 1691195157) << "W9HNvf" << std::endl;
 try
 {
 for (int j = 3; j >= 0; j--)
@@ -244,7 +244,7 @@ QKLjz1Qw0j = qZu3Y9 - 1114326167;
 }
 else if (RZIml4)
 {
-p3L0yn15E = mg28_k(-207261971, 1833145126, 2127053046);
+p3L0yn15E = mg28_k(-207261971, 1833145126, (char)2127053046);
 }
 else if (((AJs02 >= b2QE) || (ql6kBl6o3 < 1865780935)) || ((T9a7 != J01ynV) && (ql6kBl6o3 <= 550232138)))
 {
@@ -287,7 +287,7 @@ case 1:
 a89wv9Xn6_ = (int)ceil(h1QA40i43c);
 break;
 case 2:
-p3L0yn15E = mg28_k(2011105022, 732749263, LCT92mOS);
+p3L0yn15E = mg28_k((char)2011105022, 732749263, LCT92mOS);
 break;
 }
 }
@@ -306,7 +306,7 @@ p3L0yn15E = mg28_k(P__CDwIz4, -1057562400, -189845121);
 break;
 case 'c':
 case 'C':
-p3L0yn15E = mg28_k(-1804277819, sK0Gx1OK, 359651995);
+p3L0yn15E = mg28_k((char)-1804277819, sK0Gx1OK, 359651995);
 break;
 case 'd':
 case 'D':
@@ -339,7 +339,7 @@ while (j < 7)
 ++j;
 if (BOk_3K < Nv5__3uqc8)
 {
-p3L0yn15E = mg28_k(1678148834, miQk, -471815679);
+p3L0yn15E = mg28_k(1678148834, miQk, (char)-471815679);
 }
 else if (RZIml4 >= w4fipP)
 {
@@ -459,7 +459,7 @@ p3L0yn15E = mg28_k(D843akF, -411494204, -239441825);
 break;
 case 'e':
 case 'E':
-p3L0yn15E = mg28_k(J01ynV, 949191639, 125967879);
+p3L0yn15E = mg28_k(J01ynV, 949191639, (char)125967879);
 break;
 case 'f':
 case 'F':
@@ -489,7 +489,7 @@ ING_PQdm /= BOk_3K;
 }
 else if (p3L0yn15E > 1388009770)
 {
-p3L0yn15E = mg28_k(-59506788, UhKE_3Axr, 1419946816);
+p3L0yn15E = mg28_k(-59506788, UhKE_3Axr, (char)1419946816);
 }
 else
 {

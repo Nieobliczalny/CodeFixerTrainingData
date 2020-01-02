@@ -22,7 +22,7 @@ int main(void) {
   unsigned long  pjBahfA8C  =  835177269;
 	int	uyQQa4vz	=	702334656;
   unsigned int  wc565aYQ  =  -1950128215;
-    unsigned char    v798sN    =    -326034606;
+    unsigned char    v798sN    =    (unsigned char)-326034606;
     short int    ojybXNLz7O    =    -240186092;
  float JrGsMW0 = 1933226079;
  unsigned short int rJ6bG71 = 886795688;
@@ -32,7 +32,7 @@ int main(void) {
     short    iS_4W4_    =    397179066;
 	long long	mEuogT	=	-794249768;
 	unsigned int	CQ12V_4Ix	=	1865042793;
-    unsigned short    jXIFh8H    =    -1327110424;
+    unsigned short    jXIFh8H    =    (unsigned short)-1327110424;
  unsigned char u4g0oXp = 1616788468;
  double Cf_fh6 = 1485760010;
  int PGW3x = -666122931;
@@ -45,7 +45,7 @@ int main(void) {
 	unsigned long long	ONd3_	=	2130589723;
  long double LTNdJa07 = 578260877;
 	long double	UD5sw8Q	=	-2118318794;
- char PCo13Mkf = 632582719;
+ char PCo13Mkf = (char)632582719;
     long double    nq9_7J89    =    281282463;
     long long    MTNN6ePM_    =    0;
   char  TpaUfSA9  =  -629558004;
@@ -61,7 +61,7 @@ int main(void) {
     unsigned char    DeQ9I6lS70    =    -555292052;
  long long Z6CMPN3X0 = 1198487204;
     long    W7_6N5hAGg    =    0;
-  unsigned char  PVg5_  =  -2123640551;
+  unsigned char  PVg5_  =  (unsigned char)-2123640551;
     short    CSAbx7B_    =    -1318343495;
 	double	RN061btPzN	=	-125029762;
   long double  Q_J6S35  =  1239566496;
@@ -73,7 +73,7 @@ int main(void) {
     int    YimTl16v    =    1207764795;
 	long	Bkj3xEP52h	=	-723806733;
     double    zw_9    =    377173795;
-	unsigned char	ru8t6N14Mz	=	-109777523;
+	unsigned char	ru8t6N14Mz	=	(unsigned char)-109777523;
     unsigned short int    pbGBE9    =    -1771979376;
 	unsigned short int	Yzm7EQ6_r	=	-593538901;
   double  ld9VN  =  -1271876236;
@@ -100,7 +100,7 @@ while (i >= 0);
 W7_6N5hAGg = he252U2Y(1144616160, -465646491);
 if ((bmlXN8Us0W <= 67430014) && ((nH17NC >= -433657354) && (bmlXN8Us0W & -867177364)))
 {
-NN62os1 = he252U2Y(-416824066, -2089244883);
+NN62os1 = he252U2Y(-416824066, (unsigned char)-2089244883);
 }
 else
 {
@@ -120,7 +120,7 @@ int i = 4;
 while (i >= 0)
 {
 --i;
-std::cout << HWC4rQF << he252U2Y(HWC4rQF, -408143704) << EKIXg(HWC4rQF, mEuogT) << "wA7BEhcha" << he252U2Y(HWC4rQF, -1776472916) << std::endl;
+std::cout << HWC4rQF << he252U2Y(HWC4rQF, -408143704) << EKIXg(HWC4rQF, mEuogT) << "wA7BEhcha" << he252U2Y(HWC4rQF, (unsigned char)-1776472916) << std::endl;
 }
 }
 try

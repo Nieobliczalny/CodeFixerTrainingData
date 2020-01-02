@@ -28,7 +28,7 @@ unsigned short    nuMG(unsigned int    uG6Osto,unsigned long long    g9wfQBQH,lo
 
 unsigned short	qa55v(unsigned char	q6Zbc)
 {
-	return	-1468449940;
+	return	(unsigned short)-1468449940;
 }
 
 int main(void)
@@ -40,7 +40,7 @@ int main(void)
 	short	Ls_WBd32y	=	-1119486544;
   double  uSTYC0  =  1681347436;
  long long zK1a1 = -1516021220;
- short int nC792 = -132311332;
+ short int nC792 = (short)-132311332;
   unsigned long  pFLpKuQd  =  1752479828;
 	unsigned long long	bW5N	=	-1615416315;
   char  cvH_j1Y9k  =  -421094751;
@@ -50,7 +50,7 @@ int main(void)
     unsigned long long    aG0sX    =    -926695549;
   unsigned long  s006p7t2R  =  264142535;
   short int  F65hS9Uh0  =  676715611;
-    unsigned short    N6987n    =    -1956309108;
+    unsigned short    N6987n    =    (unsigned short)-1956309108;
   unsigned short int  DEh94n96zz  =  510792765;
  unsigned char c2upvNeo4 = 1765490994;
     char    ZHcC_5_23    =    -2130088367;
@@ -62,7 +62,7 @@ int main(void)
     int    VWN81    =    -1035341946;
 	int	x9nm9f	=	-1418305386;
 	char	H9E2B	=	1531557373;
-    unsigned char    neIrjqY    =    1721081094;
+    unsigned char    neIrjqY    =    (unsigned char)1721081094;
  long long sqnTp = -1415158160;
     unsigned int    KanGHw69k    =    1866584431;
     unsigned short    H90a464kxM    =    1465442667;
@@ -79,7 +79,7 @@ int main(void)
   double  Hr11K  =  472824604;
  float p_TO2 = 1572616815;
     char    j80763vY    =    -1396534297;
-	unsigned short	IN9eZNrf	=	958587458;
+	unsigned short	IN9eZNrf	=	(unsigned short)958587458;
     unsigned short int    gtxdy_    =    -288680654;
   double  Ep7H  =  2113329470;
  unsigned short int v5_j = -1568407798;
@@ -90,7 +90,7 @@ int main(void)
  unsigned char th207_7KA = 1971238712;
 	unsigned char	Cqk_w6Mc3W	=	-2113916462;
 	int	CErS64	=	-1768331136;
-  unsigned short int  mhZQRW  =  1095612610;
+  unsigned short int  mhZQRW  =  (unsigned short)1095612610;
     long    eLDW06Z    =    -1333289111;
 	short	uZu66_	=	-989367088;
   long double  t4kR4PcSs  =  -204793700;
@@ -100,7 +100,7 @@ int main(void)
     short int    ILf3_    =    87662714;
 	unsigned short int	p7nQK	=	1844606625;
     long    PY_Xtu    =    -2037531321;
-    char    D8zd7Kh    =    827609403;
+    char    D8zd7Kh    =    (char)827609403;
 	unsigned long	vOlyAJ	=	-829420740;
     long long    gGYu    =    1429071456;
   unsigned long long  Z3gnJ89Uv  =  -1653540160;
@@ -115,7 +115,7 @@ int main(void)
 	long long	au5N9	=	541027796;
  unsigned int jP4F868D_2 = -1149394898;
  int tp_Ly = 1073256513;
-	unsigned char	bW1Z	=	390284375;
+	unsigned char	bW1Z	=	(unsigned char)390284375;
     unsigned char    DuRAYx_    =    -136198681;
     short    egSAtf8V0y    =    -1595792406;
   unsigned char  QVdO  =  804747522;
@@ -129,7 +129,7 @@ switch (ILf3_)
 {
 case 'a':
 case 'A':
-acmOtpa = eQnt(129894493, -1345488930, 554542920, mQRT);
+acmOtpa = eQnt(129894493, (unsigned short)-1345488930, 554542920, mQRT);
 break;
 case 'b':
 case 'B':
@@ -229,7 +229,7 @@ std::cout << LmQ1(zv2xP3, -2127039635) << "y4CAdc" << gtxdy_ << TUBR3_U << std::
 switch (KanGHw69k)
 {
 case 0:
-GNNSif91 = ES5va6(1142356642, -1136303929, -926138606);
+GNNSif91 = ES5va6(1142356642, (unsigned char)-1136303929, -926138606);
 break;
 case 1:
 aG0sX++;
@@ -438,7 +438,7 @@ case 4:
 OOoV75X_Z9 = H90a464kxM << 1543965655;
 break;
 case 5:
-CErS64 = qa55v(1283182879);
+CErS64 = qa55v((unsigned char)1283182879);
 break;
 case 6:
 DjIXFSh2 = qa55v(DjIXFSh2);

@@ -25,7 +25,7 @@ int main(int argc, char** argv)
 	int	zutRo0w_;
 	zutRo0w_	=	-1785647034;
  short jD_L;
- jD_L = 1022008682;
+ jD_L = (short)1022008682;
     short    p0J5W3rms;
     p0J5W3rms    =    1642139561;
 	unsigned long	Fa5rGu;
@@ -51,7 +51,7 @@ int main(int argc, char** argv)
     float    zx9h;
     zx9h    =    -1892344695;
 	short	T2VBxHn6VH;
-	T2VBxHn6VH	=	569687986;
+	T2VBxHn6VH	=	(short)569687986;
 	short int	U9OG0i667W;
 	U9OG0i667W	=	593434904;
 	unsigned char	uj4_kg0;
@@ -61,7 +61,7 @@ int main(int argc, char** argv)
   long double  B0NKk;
   B0NKk  =  -1586482428;
  short int Ecm5;
- Ecm5 = 1637371770;
+ Ecm5 = (short)1637371770;
   unsigned int  vXGY_t;
   vXGY_t  =  0;
  short hKAvEt58i5;
@@ -73,7 +73,7 @@ int main(int argc, char** argv)
   unsigned int  LmG4TY0;
   LmG4TY0  =  -1475198604;
  unsigned short int J1QQS;
- J1QQS = 1112126270;
+ J1QQS = (unsigned short)1112126270;
  unsigned long long F5F35_SAC;
  F5F35_SAC = 1460983054;
 
@@ -132,7 +132,7 @@ std::cout << UAf5PB77 << wt3uegAVux << std::endl;
 
 try
 {
-std::cout << B_OA(63519848, j3PFo5hyt, -1052321363, vXGY_t) << gl8R7rv75S << dT0ionxJ0 << std::endl;
+std::cout << B_OA((unsigned short)63519848, j3PFo5hyt, -1052321363, vXGY_t) << gl8R7rv75S << dT0ionxJ0 << std::endl;
 }
 catch (int& errorCode)
 {
@@ -162,7 +162,7 @@ jD_L %= 393828937;
 }
 else if (((y5tm6vN6 & zutRo0w_) && (uj4_kg0 != DuiW_)) || (ky5_iI >= 845402547))
 {
-std::cout << B_OA(-1791512155, j3PFo5hyt, zutRo0w_, -1875553279) << U63gFMp(-1375439107, j3PFo5hyt) << "U2f1M3" << std::endl;
+std::cout << B_OA(-1791512155, j3PFo5hyt, zutRo0w_, -1875553279) << U63gFMp((unsigned short)-1375439107, j3PFo5hyt) << "U2f1M3" << std::endl;
 }
 else if (ebBRC1o >= -1678483934)
 {
@@ -551,7 +551,7 @@ while (k >= 0);
 }
 }
 
-std::cout << j3PFo5hyt << U9OG0i667W << B_OA(-1433268241, vXGY_t, 1457267012, 859341501) << "lzY3s3B37_" << B_OA(-1934385868, vXGY_t, zV3L47l1, 1605505268) << std::endl;
+std::cout << j3PFo5hyt << U9OG0i667W << B_OA((unsigned short)-1433268241, vXGY_t, 1457267012, 859341501) << "lzY3s3B37_" << B_OA(-1934385868, vXGY_t, zV3L47l1, 1605505268) << std::endl;
 zV3L47l1 = (int)floor(ky5_iI);
 Fa5rGu &= zutRo0w_;
 

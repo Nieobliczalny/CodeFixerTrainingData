@@ -18,7 +18,7 @@ unsigned short	dYGF_T5wr7(long long	X9ufl9p1sn)	{
 
 short gp06888(long TeVxHO8,char xk_n_uhM1A,unsigned short int ry29j,unsigned long cXdKQVz)
 {
- return -1542444606;
+ return (short)-1542444606;
 }
 
 short int  o0byF87H2F(long  tuBVR8)
@@ -32,7 +32,7 @@ unsigned short  f7cij(unsigned long long  z_k9e3j7d8,long  x5FAd166u3,int  jp_xZ
 }
 
 char	ik3Y3L1(unsigned long long	jU3Ccb,long	x3odxm,unsigned long long	Yq534xAB,unsigned short	Q65bM5t0U,unsigned long	ec_w20)	{
-	return	1495911398;
+	return	(char)1495911398;
 }
 
 int main()
@@ -68,7 +68,7 @@ int main()
  unsigned long long SSK0;
  SSK0 = 552767523;
  char j7Gz;
- j7Gz = -1760054079;
+ j7Gz = (char)-1760054079;
 	unsigned long long	iS1_Rr;
 	iS1_Rr	=	0;
  int K64GU;
@@ -80,7 +80,7 @@ int main()
  unsigned long long Ty3p;
  Ty3p = -895207341;
  unsigned short int kD8u6;
- kD8u6 = -1994895582;
+ kD8u6 = (unsigned short)-1994895582;
  long long iZkS;
  iZkS = 2075002804;
   unsigned int  h563VJq9Mg;
@@ -90,7 +90,7 @@ int main()
     short int    H26wiv14q;
     H26wiv14q    =    -1945810946;
 	unsigned char	z0NP6Rmq;
-	z0NP6Rmq	=	-642130387;
+	z0NP6Rmq	=	(unsigned char)-642130387;
     unsigned long    rU8mf81T;
     rU8mf81T    =    1053280510;
 	float	gxH1O3O;
@@ -108,7 +108,7 @@ int main()
     int    LLG87;
     LLG87    =    -419505724;
  char XadZ;
- XadZ = -585040971;
+ XadZ = (char)-585040971;
   unsigned char  wJ612q;
   wJ612q  =  -1273027714;
   long  TIfJ0mHw;
@@ -124,7 +124,7 @@ int main()
     unsigned long long    i6b63X1y0;
     i6b63X1y0    =    471553149;
   unsigned short int  XdzXG;
-  XdzXG  =  1876887792;
+  XdzXG  =  (unsigned short)1876887792;
 	unsigned long long	Z_fg1;
 	Z_fg1	=	-172585244;
  unsigned long U8n0;
@@ -138,7 +138,7 @@ int main()
 	unsigned long long	dx3Yp2dKy;
 	dx3Yp2dKy	=	-1177587263;
  unsigned char fqd1do0L;
- fqd1do0L = -1624846944;
+ fqd1do0L = (unsigned char)-1624846944;
   unsigned short int  w6B8d;
   w6B8d  =  -929841418;
 	unsigned long	g3aWz;
@@ -148,7 +148,7 @@ int main()
     unsigned short int    uEQsC;
     uEQsC    =    298243279;
     char    nkVb1tr_K;
-    nkVb1tr_K    =    1689640000;
+    nkVb1tr_K    =    (char)1689640000;
  unsigned int l0i4;
  l0i4 = -1527036756;
     char    Ww_jAY;

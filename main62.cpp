@@ -25,7 +25,7 @@ int main(void)
 
 try
 {
-cout << kOR03_() << WA5m0(-274312147, 1967236725, -45429884, txk5Z) << "G096" << endl;
+cout << kOR03_() << WA5m0((unsigned short)-274312147, 1967236725, -45429884, txk5Z) << "G096" << endl;
 }
 catch (int& errorCode)
 {

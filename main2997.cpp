@@ -219,7 +219,7 @@ r08B4 = w_EwE717();
 }
 else if (plHmN8R <= Tni370jj9)
 {
-cLra = xy5Ap(cLra, -1672815671, -1270796463);
+cLra = xy5Ap(cLra, -1672815671, (unsigned char)-1270796463);
 }
 else if (bbjS & plHmN8R)
 {
@@ -351,7 +351,7 @@ i++;
 while (i < 7);
 }
 
-std::cout << "H6C_v8_I" << xy5Ap(-1016603647, 739106067, T2j0) << xy5Ap(-1069399110, AI62Li, 219259985) << std::endl;
+std::cout << "H6C_v8_I" << xy5Ap(-1016603647, 739106067, T2j0) << xy5Ap(-1069399110, AI62Li, (unsigned char)219259985) << std::endl;
 if (T2j0 <= AI62Li)
 {
 std::cout << CJ1e98yWn(-784212425) << "Qqo3560B1" << std::endl;

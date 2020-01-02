@@ -26,7 +26,7 @@ int main(int argc, char** argv)
     int    rY9_U    =    0;
  long long yFn7Y874s = 1399733598;
  unsigned short int wHhci = 2119568080;
-	unsigned short int	H02YStS7b	=	863125490;
+	unsigned short int	H02YStS7b	=	(unsigned short)863125490;
 	long long	bt0n7R93_H	=	699214362;
     int    E3kp7f    =    1477389867;
 	int	bHP5o3A1E0	=	-291282072;
@@ -42,7 +42,7 @@ int main(int argc, char** argv)
   long double  V6eAZ  =  -293568233;
 	unsigned long	JsQr0ee6b	=	-533305270;
  float O72nQrMqT = -1351334795;
- unsigned char MZuj95j9zd = -1211355857;
+ unsigned char MZuj95j9zd = (unsigned char)-1211355857;
  unsigned int IdCsI4_wgU = -1811362008;
     short    dOndP    =    1556310816;
   unsigned char  DIOP5  =  470846805;
@@ -56,7 +56,7 @@ int main(int argc, char** argv)
   long  WPp1BBEae  =  -772897913;
     unsigned long    uN5Orr    =    -1589866125;
  unsigned short int Z44G6 = 0;
-    unsigned char    p4ESnxm    =    -1573918533;
+    unsigned char    p4ESnxm    =    (unsigned char)-1573918533;
     int    MC2e    =    862881442;
     unsigned int    Bn57DrAK15    =    349235384;
     unsigned long long    PPmkl    =    645520325;
@@ -67,7 +67,7 @@ int main(int argc, char** argv)
  short int L77_N4yec = -1482249050;
   unsigned short int  v06asLzAf  =  -1534753651;
   double  OASg4X  =  464236902;
-  unsigned char  N33X6_l57  =  -1148298609;
+  unsigned char  N33X6_l57  =  (unsigned char)-1148298609;
  long long JrjJ40_1z = -256876526;
     unsigned char    WI9_uJ    =    826545982;
 	long	Dv1ORvRBS	=	-1816236807;
@@ -220,7 +220,7 @@ qgtkoP1MFF &= 494315628;
 }
 else if ((QByo > V6eAZ) && (WPp1BBEae))
 {
-WPp1BBEae = bBo865np(WPp1BBEae, Dv1ORvRBS, 1617061743, -1308107706, -2113949514);
+WPp1BBEae = bBo865np(WPp1BBEae, Dv1ORvRBS, 1617061743, -1308107706, (char)-2113949514);
 }
 else
 {
@@ -308,7 +308,7 @@ MC2e = bBo865np(MC2e, tYlE, -1150763508, -1340376433, iY24P83);
 JsQr0ee6b = lZME / LhVd47_k2x();
 for (int i = 1; i >= 0; --i)
 {
-QByo = bBo865np(QByo, -2101638355, L77_N4yec, v06asLzAf, -691413081);
+QByo = bBo865np(QByo, -2101638355, L77_N4yec, v06asLzAf, (char)-691413081);
 }
 
 M4MTf = (int)abs(By6q);

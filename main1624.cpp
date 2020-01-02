@@ -41,7 +41,7 @@ int main()
  unsigned short kDkrx_wm;
  kDkrx_wm = 1884686586;
  short int OlEIM;
- OlEIM = 73884091;
+ OlEIM = (short)73884091;
 	short int	sGiOXY16;
 	sGiOXY16	=	651332997;
   unsigned int  eue04U;
@@ -57,7 +57,7 @@ int main()
  float Qx7E9zY8;
  Qx7E9zY8 = 949844632;
  char y94yY;
- y94yY = -247381189;
+ y94yY = (char)-247381189;
 	unsigned short int	JSMeU73Yw;
 	JSMeU73Yw	=	-1783406512;
  short int z37m9Gw;
@@ -71,7 +71,7 @@ int main()
 	short	I696___;
 	I696___	=	898792579;
 	unsigned short int	E3yvTd4l;
-	E3yvTd4l	=	-481277753;
+	E3yvTd4l	=	(unsigned short)-481277753;
   unsigned char  NE6S0M__;
   NE6S0M__  =  253558307;
  double hAsFuVfo58;
@@ -83,7 +83,7 @@ int main()
   short  hdhl22HUdU;
   hdhl22HUdU  =  -1527522046;
   char  Bp_78v_;
-  Bp_78v_  =  320044427;
+  Bp_78v_  =  (char)320044427;
   short int  HOmSVlhyX;
   HOmSVlhyX  =  2074731225;
  long long pTpfv1K5;
@@ -99,7 +99,7 @@ int main()
   unsigned int  WYf0n;
   WYf0n  =  2109275104;
   short  V2cA3cIHZ;
-  V2cA3cIHZ  =  -1980038869;
+  V2cA3cIHZ  =  (short)-1980038869;
     unsigned char    TJSfD5tP;
     TJSfD5tP    =    -470665359;
     unsigned short int    JUCW;
@@ -109,7 +109,7 @@ int main()
  double XwEsPT36;
  XwEsPT36 = 707691391;
 	char	YdX7;
-	YdX7	=	668290441;
+	YdX7	=	(char)668290441;
 	long double	D8y5A5egt;
 	D8y5A5egt	=	-1924955770;
     long    iA2TV0g727;
@@ -119,7 +119,7 @@ int main()
   unsigned short int  mBiTh_;
   mBiTh_  =  -1322878829;
     short    D_ZXi927FG;
-    D_ZXi927FG    =    1009391608;
+    D_ZXi927FG    =    (short)1009391608;
   char  xa5i;
   xa5i  =  -480125292;
     double    PCuMk;
@@ -143,7 +143,7 @@ int main()
 	unsigned short int	b8l3X;
 	b8l3X	=	-574059039;
 	unsigned short int	g_G4;
-	g_G4	=	2025726667;
+	g_G4	=	(unsigned short)2025726667;
 	unsigned long long	DiSU1s;
 	DiSU1s	=	-437980306;
 	long double	ICE_a4_w;
@@ -167,7 +167,7 @@ int main()
   unsigned long  wyd72Im;
   wyd72Im  =  -591761837;
     short int    A8YxsUzv0;
-    A8YxsUzv0    =    -145026522;
+    A8YxsUzv0    =    (short)-145026522;
   double  Sb4009Qje;
   Sb4009Qje  =  1455042160;
  unsigned long p7n1fr;

@@ -25,7 +25,7 @@ int main()
     long long    lA9254uSOo;
     lA9254uSOo    =    -1900857178;
  char qNgz7;
- qNgz7 = 544381277;
+ qNgz7 = (char)544381277;
  unsigned int U07qbLO;
  U07qbLO = 1696986555;
     unsigned long long    d49i0026;
@@ -39,7 +39,7 @@ int main()
     float    L2wSKr2Sn;
     L2wSKr2Sn    =    16003936;
     short    GSl89S_D;
-    GSl89S_D    =    1943272549;
+    GSl89S_D    =    (short)1943272549;
   unsigned short int  V0DZGFI_er;
   V0DZGFI_er  =  1231460315;
  float Lk6iQWFux8;
@@ -51,7 +51,7 @@ int main()
     char    WG3L4SJw;
     WG3L4SJw    =    433812770;
   unsigned short int  DDoW;
-  DDoW  =  -205507349;
+  DDoW  =  (unsigned short)-205507349;
 	short	WIzCjk;
 	WIzCjk	=	1882197746;
   long  z1awDiJ0i;
@@ -77,7 +77,7 @@ int main()
   unsigned short int  B0La_66N2w;
   B0La_66N2w  =  -1598706387;
  short iltjq5btp;
- iltjq5btp = -1565048263;
+ iltjq5btp = (short)-1565048263;
  unsigned short int TGZZD_tn;
  TGZZD_tn = 41127566;
 	long double	vB_0r;
@@ -91,7 +91,7 @@ int main()
 	unsigned char	d_bcpUBBE;
 	d_bcpUBBE	=	1902361112;
     char    GWN2LFSRVj;
-    GWN2LFSRVj    =    -1335229899;
+    GWN2LFSRVj    =    (char)-1335229899;
 	short int	yUu2;
 	yUu2	=	0;
   float  x1j2;
@@ -149,7 +149,7 @@ case 7:
 rn4_nbUsQ = (int)ceil(vB_0r);
 break;
 case 8:
-lExzEpoC = EwAs0lkMo(2145333077);
+lExzEpoC = EwAs0lkMo((short)2145333077);
 break;
 case 9:
 vpOXGw8_e = EwAs0lkMo(WIzCjk);
@@ -247,7 +247,7 @@ case 2:
 UiP1IzUAoS = EwAs0lkMo(2068774818);
 break;
 case 3:
-yUu2 = EwAs0lkMo(-1940834237);
+yUu2 = EwAs0lkMo((short)-1940834237);
 break;
 case 4:
 mpJTA5 = EwAs0lkMo(RfRwt5om);
@@ -438,7 +438,7 @@ case 4:
 Q72F5AY97 = (int)abs(qNgz7);
 break;
 case 5:
-T5ZnsI6 = (mpJTA5 > -375841289) ? 709911405 : -1452458312;
+T5ZnsI6 = (mpJTA5 > -375841289) ? 709911405 : (unsigned char)-1452458312;
 break;
 case 6:
 UiP1IzUAoS = EwAs0lkMo(2060298556);
@@ -503,7 +503,7 @@ case 0:
 UiP1IzUAoS = EwAs0lkMo(-986772356);
 break;
 case 1:
-UiP1IzUAoS = EwAs0lkMo(1856583646);
+UiP1IzUAoS = EwAs0lkMo((short)1856583646);
 break;
 default:
 UiP1IzUAoS = EwAs0lkMo(uT85Bc6835);
@@ -544,7 +544,7 @@ yUu2 = EwAs0lkMo(-765410807);
 }
 else if (z1awDiJ0i > jZ_smH5)
 {
-yUu2 = EwAs0lkMo(-1109389404);
+yUu2 = EwAs0lkMo((short)-1109389404);
 }
 else if (Q72F5AY97 & WIzCjk)
 {

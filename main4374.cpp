@@ -79,7 +79,7 @@ case 3:
 caZnO7fhNr -= 1603961619;
 break;
 case 4:
-cl3W8k0 = Ow_DL80jv(Z81K62Bf, vY1iO_E, -595320809, 579959155);
+cl3W8k0 = Ow_DL80jv(Z81K62Bf, vY1iO_E, -595320809, (char)579959155);
 break;
 case 5:
 kdGA7192 /= 468462468;
@@ -191,7 +191,7 @@ case 'e':
 mR4t = BMd601(mR4t, Hv96lbTySw);
 break;
 case 'f':
-w6CT0P = BMd601(-140106501, Hv96lbTySw) | lB_6n;
+w6CT0P = BMd601((unsigned short)-140106501, Hv96lbTySw) | lB_6n;
 break;
 case 'g':
 iRx8 %= 1636039974;
@@ -228,7 +228,7 @@ break;
 }
 DdO_z1 = (int)(luX1);
 
-S65h = BMd601(582335455, FJN3Lk);
+S65h = BMd601((unsigned short)582335455, FJN3Lk);
 try
 {
 aim4 = E5pY * WgUrf;
@@ -240,7 +240,7 @@ luX1 %= NA37;
 L6LWoy0 = (int)abs(w6CT0P);
 
 K4gRzOa0i -= KWH1JW36K;
-cl3W8k0 = Ow_DL80jv(cxXSY1, -215085232, E78C, 1678798233);
+cl3W8k0 = Ow_DL80jv(cxXSY1, -215085232, E78C, (char)1678798233);
 cout << ol40k2U << K4gRzOa0i << wMmJoaAIT << NA37 << Ow_DL80jv(cxXSY1, -1805997136, E78C, QuI8FoQ) << endl;
 
 if ((L6LWoy0) || (cxXSY1 <= L6LWoy0))
@@ -305,7 +305,7 @@ NA37 = BMd601(1977755523, DoI3R5);
 switch (PJeu86Q_)
 {
 case 0:
-cl3W8k0 = Ow_DL80jv(wMmJoaAIT, 1201427676, cl3W8k0, -1170427563);
+cl3W8k0 = Ow_DL80jv(wMmJoaAIT, 1201427676, cl3W8k0, (char)-1170427563);
 break;
 default:
 hjIY1zqH0 = BMd601(wMmJoaAIT, Vm67s) * 317113597;
@@ -385,7 +385,7 @@ int j = 5;
 while (j >= 0)
 {
 j--;
-cl3W8k0 = Ow_DL80jv(2027333374, 1620406887, anm8, -1043001950);
+cl3W8k0 = Ow_DL80jv(2027333374, (unsigned short)1620406887, anm8, -1043001950);
 }
 }
 }
@@ -409,7 +409,7 @@ while (j < 10)
 j++;
 try
 {
-cl3W8k0 = Ow_DL80jv(F2u85aCx, 1405853107, e10NQ, 2132312464);
+cl3W8k0 = Ow_DL80jv(F2u85aCx, 1405853107, e10NQ, (char)2132312464);
 }
 catch (int& errorCode)
 {

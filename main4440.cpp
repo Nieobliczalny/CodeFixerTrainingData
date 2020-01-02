@@ -24,7 +24,7 @@ int main(void) {
     gPP8aJ    =    0;
 	char	YuLX,	tshLG,	YIxW3,	s4TpZb8h,	oiSDr,	Z1hs_2ViZ,	Td_lri9,	i72Ghx79oA,	X057W5L9r,	E2Ka0T,	P3uaU3Gc,	bg9K9dHOS,	Q31heAg1,	Rfdy4cO3,	o_ut4UN4ji,	yopx_JHV,	ws68,	H6TdQ__G,	zqHTf6Gr,	YQSsaO8,	c6SyXnD,	HRuo7eKh7h,	gxT5RIR,	DT6zh24WF,	Ym91H25CG,	a6L3jtr01,	wO_Wmv,	N1Fr827F,	BgiL0_S01z,	Sj9I,	j28r4,	x87P,	ZyYy3M5,	EU_oF7T;
 	YuLX	=	-1458976358;
-	tshLG	=	676598504;
+	tshLG	=	(char)676598504;
 	YIxW3	=	1420321801;
 	s4TpZb8h	=	101658324;
 	oiSDr	=	-993808185;
@@ -34,7 +34,7 @@ int main(void) {
 	X057W5L9r	=	1191754760;
 	E2Ka0T	=	1441967803;
 	P3uaU3Gc	=	202487895;
-	bg9K9dHOS	=	-1343748820;
+	bg9K9dHOS	=	(char)-1343748820;
 	Q31heAg1	=	778115945;
 	Rfdy4cO3	=	-836425466;
 	o_ut4UN4ji	=	214898146;
@@ -44,7 +44,7 @@ int main(void) {
 	zqHTf6Gr	=	-1708477294;
 	YQSsaO8	=	-615410405;
 	c6SyXnD	=	1880048683;
-	HRuo7eKh7h	=	1750479272;
+	HRuo7eKh7h	=	(char)1750479272;
 	gxT5RIR	=	2124277374;
 	DT6zh24WF	=	892777750;
 	Ym91H25CG	=	1336528845;
@@ -54,7 +54,7 @@ int main(void) {
 	BgiL0_S01z	=	1491149707;
 	Sj9I	=	1800786025;
 	j28r4	=	472827889;
-	x87P	=	-429296625;
+	x87P	=	(char)-429296625;
 	ZyYy3M5	=	735386833;
 	EU_oF7T	=	-757082730;
 
@@ -86,7 +86,7 @@ if ((wO_Wmv != X4UYD) || ((YuLX >= X4UYD) && (Sj9I >= N1Fr827F)))
 {
 try
 {
-gPP8aJ = T0LY3IYP_Z(-510815326, N1Fr827F);
+gPP8aJ = T0LY3IYP_Z((char)-510815326, N1Fr827F);
 }
 catch (int& errorCode)
 {
@@ -118,7 +118,7 @@ int k = 8;
 do
 {
 --k;
-gPP8aJ = T0LY3IYP_Z(-1305242132, 275958544);
+gPP8aJ = T0LY3IYP_Z(-1305242132, (char)275958544);
 }
 while (k >= 0);
 }
@@ -195,7 +195,7 @@ YuLX = (int)abs(DT6zh24WF);
 }
 else
 {
-gPP8aJ = T0LY3IYP_Z(-1317545708, 839229107);
+gPP8aJ = T0LY3IYP_Z(-1317545708, (char)839229107);
 }
 }
 --i;
@@ -277,7 +277,7 @@ N1Fr827F = gxT5RIR >> X057W5L9r;
 }
 else
 {
-std::cout << T0LY3IYP_Z(HRuo7eKh7h, -420696576) << std::endl;
+std::cout << T0LY3IYP_Z(HRuo7eKh7h, (char)-420696576) << std::endl;
 }
 }
 catch (int& errorCode)
@@ -339,7 +339,7 @@ for (int j = 1; j >= 0; j--)
 switch (YuLX)
 {
 case 0:
-gPP8aJ = T0LY3IYP_Z(-485313027, Td_lri9);
+gPP8aJ = T0LY3IYP_Z((char)-485313027, Td_lri9);
 break;
 case 1:
 gPP8aJ = T0LY3IYP_Z(843928032, 424512249);
@@ -366,7 +366,7 @@ case 8:
 N1Fr827F <<= 59126115;
 break;
 case 9:
-eB3vpX = T0LY3IYP_Z(1808335868, -2073868897);
+eB3vpX = T0LY3IYP_Z(1808335868, (char)-2073868897);
 break;
 default:
 eB3vpX = T0LY3IYP_Z(-1954201845, 1598018495);

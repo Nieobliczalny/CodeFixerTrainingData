@@ -109,7 +109,7 @@ aaXxgW = C38Y_FTS(-1446536958);
 break;
 case 'b':
 case 'B':
-Ss0kz2g = CKIIjJF(R4Sg, igHQF3q, 296884012, -1736964888, 1365590477);
+Ss0kz2g = CKIIjJF(R4Sg, igHQF3q, 296884012, (char)-1736964888, 1365590477);
 break;
 case 'c':
 case 'C':
@@ -130,7 +130,7 @@ break;
 
 for (int i = 0; i < 3; i++)
 {
-std::cout << CKIIjJF(KGvpkEVxdC, -1839463043, 1575014907, -1959755208, -1752756434) << std::endl;
+std::cout << CKIIjJF(KGvpkEVxdC, -1839463043, (short)1575014907, -1959755208, -1752756434) << std::endl;
 }
 
 switch (cML4iJ)
@@ -174,7 +174,7 @@ while (k < 7);
 }
 }
 
-Q9_pVg8 = vz82e / CKIIjJF(-1229694568, -1205795244, 568358092, h0LE9siK8h, -2121049081);
+Q9_pVg8 = vz82e / CKIIjJF(-1229694568, -1205795244, (short)568358092, h0LE9siK8h, -2121049081);
 return 0;
 }
 
@@ -189,7 +189,7 @@ unsigned short    Y0tPnA5()    {
 
 unsigned short SS3uQ1ZjdR(long long JfTs,unsigned short int bin9m3K17Y)
 {
- return -706007982;
+ return (unsigned short)-706007982;
 }
 
 unsigned short int    CKIIjJF(unsigned int    mMPBi_50s,char    UEY4_u2z_,short    SM_IXfU2,char    b464beI,short int    eg8z60T)    {

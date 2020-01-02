@@ -258,7 +258,7 @@ kT700A5_ = k_2xQZ + k_2xQZ;
 break;
 case 'f':
 case 'F':
-b1ZEQI7CPe = LZE41u69UO(1670877333, -494673378);
+b1ZEQI7CPe = LZE41u69UO(1670877333, (unsigned short)-494673378);
 break;
 }
 }

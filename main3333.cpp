@@ -22,7 +22,7 @@ int main() {
   long long  IVLi6;
   IVLi6  =  -279551793;
 	unsigned short int	s7Pvf;
-	s7Pvf	=	-1242639965;
+	s7Pvf	=	(unsigned short)-1242639965;
 	unsigned int	SKhyW8;
 	SKhyW8	=	0;
     unsigned short    q53l7kkj;

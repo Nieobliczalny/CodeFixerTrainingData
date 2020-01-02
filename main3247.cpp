@@ -20,7 +20,7 @@ int main(int argc, char** argv)
  unsigned short int m1M9 = -2141640195;
  short int YdLFZSf34 = 0;
   unsigned long  i489  =  0;
-    unsigned short    M1l1n    =    758545505;
+    unsigned short    M1l1n    =    (unsigned short)758545505;
 	unsigned int	nI0NyaE	=	-436554265;
   long  KUR5w29y  =  -1681456358;
     float    BTVZ    =    -1985658001;
@@ -30,7 +30,7 @@ int main(int argc, char** argv)
     short int    qXizf1nHuR    =    -982262119;
 	int	vL43jqU1	=	-514690675;
 	char	dhbjkYxlCL	=	-741494183;
-    unsigned short int    J9v0    =    -903301470;
+    unsigned short int    J9v0    =    (unsigned short)-903301470;
 
 if ((BTVZ > HjflWWr) && (nI0NyaE))
 {

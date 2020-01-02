@@ -30,7 +30,7 @@ int	I7_tt(unsigned int	p9Lc68dqo,unsigned long	YSOR,unsigned short int	VV_8De0)	
 
 unsigned short int R1g7oF0E_(long long qFO3,unsigned short int tQNm0b,unsigned long long xvzXZcYz,long q81P3t,unsigned long long qtj7)
 {
- return 2106995341;
+ return (unsigned short)2106995341;
 }
 
 int main(int argc, char** argv)
@@ -40,7 +40,7 @@ int main(int argc, char** argv)
 	double	fK736PxorE	=	1654569948;
     short int    to5u8b_Ch    =    1716071166;
  long long wX6i21e = -329251545;
-    unsigned short int    FRnFvEg    =    1521690437;
+    unsigned short int    FRnFvEg    =    (unsigned short)1521690437;
   double  cMM9gJ  =  1339535161;
  double l7j1S = -811134735;
  unsigned short int us15v = -1953289160;
@@ -51,7 +51,7 @@ int main(int argc, char** argv)
   long long  A_R6LfL  =  -1177064516;
   unsigned char  j9cMx2  =  1258723347;
   unsigned int  k9O8A  =  -1119304376;
-  short int  QcxVwgx  =  -176006858;
+  short int  QcxVwgx  =  (short)-176006858;
 	float	sdBCFmASKO	=	1218922151;
     unsigned char    sX5N4Ghxq    =    -1901711483;
     short    SyjNKKjgi    =    0;

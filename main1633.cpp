@@ -28,7 +28,7 @@ int main(void) {
  short Wh73 = -883516137;
   long double  LOc4  =  -958929733;
   int  Xpa55S_7_  =  -1724400376;
- char Qe40NPcrVi = -1306350651;
+ char Qe40NPcrVi = (char)-1306350651;
     unsigned short int    NXBZg5s5    =    764701913;
     unsigned short    nq9GJ7    =    -1081589442;
 	short	F1LUmnUUv	=	-1118381644;
@@ -38,7 +38,7 @@ int main(void) {
     char    RJ8_5_    =    382654203;
  unsigned short LS4Kd = -976398488;
   long  AA7hTP9x6  =  1745992843;
- unsigned short W415RWc_ = -230967055;
+ unsigned short W415RWc_ = (unsigned short)-230967055;
 	short int	I4M3L89cPG	=	419487937;
 	unsigned char	pN_WTKmk	=	-870651803;
  unsigned short int moQ5 = -1291023729;
@@ -50,7 +50,7 @@ int main(void) {
     double    ihcE89    =    1417344021;
   long double  NvVEw143IV  =  1913351627;
  unsigned short u9nK0 = -1099253844;
-    unsigned short    ZbET2t5i    =    -74216642;
+    unsigned short    ZbET2t5i    =    (unsigned short)-74216642;
 	unsigned int	p5IonN	=	0;
  unsigned long mb_uXaKy = -971275038;
  long jZWKJ = -108571874;
@@ -61,7 +61,7 @@ int main(void) {
   char  M749bfuibk  =  -103538831;
   double  w478XF9  =  -17704279;
  short pXWUlGdmJ4 = 1968973587;
- unsigned short Tt3RrX3F_ = 1844706250;
+ unsigned short Tt3RrX3F_ = (unsigned short)1844706250;
     unsigned char    EAQyXaUV5K    =    -1853808844;
  unsigned int s_2xB = -2117435250;
     float    V53_hg4z    =    1995235600;
@@ -224,7 +224,7 @@ if (rPIo)
 {
 if ((Tn4O <= ihcE89) || ((ihcE89) && (DbYouE == mb_uXaKy)))
 {
-yo_s = UlPDBY(-350375589, Tt3RrX3F_, -2083873942);
+yo_s = UlPDBY(-350375589, Tt3RrX3F_, (short)-2083873942);
 }
 else
 {
@@ -337,7 +337,7 @@ case 1:
 ew2j0 = XoYptvYl / u9nK0;
 break;
 case 2:
-moQ5 = UlPDBY(-1105314466, -1432730366, -763952199);
+moQ5 = UlPDBY(-1105314466, -1432730366, (short)-763952199);
 break;
 case 3:
 pN_WTKmk >>= CKSIM558;
@@ -670,7 +670,7 @@ case 8:
 fp34 = UlPDBY(fp34, -1560462072, -1969004719);
 break;
 default:
-O1C5lx17 = WT3m414bgr(-1965854357);
+O1C5lx17 = WT3m414bgr((unsigned char)-1965854357);
 break;
 }
 }
@@ -808,7 +808,7 @@ else if (moQ5 < 1169634542)
 int k = 0;
 do
 {
-moQ5 = UlPDBY(-2029954222, 2002658708, 186416821);
+moQ5 = UlPDBY(-2029954222, 2002658708, (short)186416821);
 k++;
 }
 while (k < 1);

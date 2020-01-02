@@ -28,7 +28,7 @@ int main(int argc, char** argv)
   long  OG0b5Q;
   OG0b5Q  =  -1974622568;
  short int evkp8yi5zu;
- evkp8yi5zu = -1060732083;
+ evkp8yi5zu = (short)-1060732083;
  short rk86Lj;
  rk86Lj = 0;
 	unsigned long	Q13YP;
@@ -66,7 +66,7 @@ int main(int argc, char** argv)
   long  E5OgOCwXL;
   E5OgOCwXL  =  620755508;
     unsigned short    u1wdR;
-    u1wdR    =    -73771645;
+    u1wdR    =    (unsigned short)-73771645;
 
 if (YVh8S <= 1642448706)
 {
@@ -112,7 +112,7 @@ evkp8yi5zu = OG0b5Q / 1018641156;
 break;
 case 'h':
 case 'H':
-rG_38p = CWR6(-1232166371, 1823530476, -464087553, tAIz8, 31845651) & E5OgOCwXL;
+rG_38p = CWR6(-1232166371, (char)1823530476, -464087553, tAIz8, 31845651) & E5OgOCwXL;
 break;
 case 'i':
 case 'I':
@@ -164,7 +164,7 @@ tAIz8 = l4B_pg16();
 }
 else if (ArpZx & -224105139)
 {
-std::cout << "x_P8QCvH" << l4B_pg16() << "T4xsO" << CWR6(1353076841, -880465147, -551835215, 1504592624, evkp8yi5zu) << W31JKA(tAIz8, 596225300) << std::endl;
+std::cout << "x_P8QCvH" << l4B_pg16() << "T4xsO" << CWR6(1353076841, (char)-880465147, -551835215, 1504592624, evkp8yi5zu) << W31JKA(tAIz8, 596225300) << std::endl;
 }
 else
 {
@@ -244,7 +244,7 @@ return 0;
 
 unsigned short  CWR6(unsigned char  nK1Gtq1,char  ehQz_1_M,unsigned long long  cvVq08SO,long long  q93_ize,unsigned short  hqr6U)
 {
-  return  -782935195;
+  return  (unsigned short)-782935195;
 }
 
 unsigned int    W31JKA(long    Hx_m,unsigned short    N4gy7wlba)

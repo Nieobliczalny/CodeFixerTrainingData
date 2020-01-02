@@ -21,7 +21,7 @@ int main(void)
  long x7svu4eC;
  x7svu4eC = 710878118;
   unsigned short  xV73NZ1;
-  xV73NZ1  =  -2097849760;
+  xV73NZ1  =  (unsigned short)-2097849760;
  long double umz5AGyE4;
  umz5AGyE4 = -931947508;
   unsigned int  yWQR8;
@@ -33,7 +33,7 @@ int main(void)
 	double	eQyB;
 	eQyB	=	1371146178;
 	unsigned short	TUPNe;
-	TUPNe	=	-1708622479;
+	TUPNe	=	(unsigned short)-1708622479;
  short int ZoJWGH;
  ZoJWGH = 1083668951;
   long  tK__0k77_N;
@@ -49,7 +49,7 @@ int main(void)
   unsigned char  MWwU6nlM50;
   MWwU6nlM50  =  -99249542;
  unsigned char eJ1jp2i4I;
- eJ1jp2i4I = 1860328915;
+ eJ1jp2i4I = (unsigned char)1860328915;
     short int    Atgv9B59n3;
     Atgv9B59n3    =    391233137;
   double  f4v5x76O1;
@@ -77,7 +77,7 @@ int main(void)
  unsigned long long PlwfMyr9;
  PlwfMyr9 = 0;
 	unsigned short	e83xm8;
-	e83xm8	=	1915487034;
+	e83xm8	=	(unsigned short)1915487034;
  unsigned long long F2xNC;
  F2xNC = -44758113;
   double  Ymnr;
@@ -89,7 +89,7 @@ int main(void)
 	long double	s6_Qa2d2;
 	s6_Qa2d2	=	-360172413;
     short    vKP_k;
-    vKP_k    =    1350875169;
+    vKP_k    =    (short)1350875169;
     unsigned short    AAP61_o6n;
     AAP61_o6n    =    -798640316;
   unsigned int  zdh3TP2I;
@@ -101,7 +101,7 @@ int main(void)
  unsigned short int U3VL847U;
  U3VL847U = -1200801865;
  unsigned short int bhey4e6o;
- bhey4e6o = 40319556;
+ bhey4e6o = (unsigned short)40319556;
   unsigned long  L3mWv;
   L3mWv  =  86122936;
   float  gUaZpgJ2n_;
@@ -111,7 +111,7 @@ int main(void)
 	short	LtE1S_;
 	LtE1S_	=	-835439235;
 	unsigned short int	ntp7f;
-	ntp7f	=	-772479645;
+	ntp7f	=	(unsigned short)-772479645;
  char t8xpAv20;
  t8xpAv20 = -462991128;
 	long double	t7av7ru06;
@@ -127,7 +127,7 @@ int main(void)
     long double    c70r;
     c70r    =    594398383;
     char    K2b1bDZF;
-    K2b1bDZF    =    -388693974;
+    K2b1bDZF    =    (char)-388693974;
     long    hOMBEGSsV;
     hOMBEGSsV    =    1812115035;
   long  zJc7PaTP2;
@@ -137,7 +137,7 @@ int main(void)
     double    HayPt6;
     HayPt6    =    423211615;
   char  Vzwgaz9;
-  Vzwgaz9  =  125568471;
+  Vzwgaz9  =  (char)125568471;
  unsigned long long a7fq;
  a7fq = 0;
   unsigned char  C88v9;
@@ -196,7 +196,7 @@ case 2:
 hOMBEGSsV = (int)abs(o5UKb);
 break;
 case 3:
-jX6eV_ = Ykx06(751417988, 734215951);
+jX6eV_ = Ykx06(751417988, (unsigned char)734215951);
 break;
 case 4:
 jX6eV_ = Ykx06(-728677114, V9y0sTy5c);

@@ -21,7 +21,7 @@ int main(int argc, char** argv)
   long double  s5l4L;
   s5l4L  =  1951071376;
   unsigned short  mA9Q;
-  mA9Q  =  1026707373;
+  mA9Q  =  (unsigned short)1026707373;
 	unsigned short	biqmCM;
 	biqmCM	=	1832083954;
   long  E2IDUOy8;
@@ -31,7 +31,7 @@ int main(int argc, char** argv)
  unsigned char YEwnG1cc;
  YEwnG1cc = -804274082;
     unsigned short    A09q;
-    A09q    =    1751022868;
+    A09q    =    (unsigned short)1751022868;
   long  d3b_NCI3;
   d3b_NCI3  =  1725207217;
   unsigned long long  LNzY2_;

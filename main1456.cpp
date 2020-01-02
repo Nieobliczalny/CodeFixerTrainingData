@@ -22,7 +22,7 @@ int main() {
 	unsigned short	udgY9;
 	udgY9	=	-1140004048;
   unsigned char  xFqubA2;
-  xFqubA2  =  1277212923;
+  xFqubA2  =  (unsigned char)1277212923;
 	float	wa2h;
 	wa2h	=	1870838337;
  long srsY;
@@ -32,7 +32,7 @@ int main() {
 	short int	c1xV;
 	c1xV	=	1706120560;
 	unsigned char	ycynD;
-	ycynD	=	418585541;
+	ycynD	=	(unsigned char)418585541;
   long  ojH_44z;
   ojH_44z  =  -2006237890;
 	unsigned long long	Ch_7g1a;
@@ -68,7 +68,7 @@ int main() {
     unsigned int    LkV_Os_;
     LkV_Os_    =    349329177;
  short int wFl0lu5ff;
- wFl0lu5ff = -1527812487;
+ wFl0lu5ff = (short)-1527812487;
 	unsigned short int	M_zou;
 	M_zou	=	1174557992;
 	double	rTlbJ;
@@ -78,7 +78,7 @@ int main() {
     unsigned int    C9GFY;
     C9GFY    =    -75411393;
   unsigned short int  ej5pE;
-  ej5pE  =  -1134310960;
+  ej5pE  =  (unsigned short)-1134310960;
   long long  Oa21M;
   Oa21M  =  -1223371559;
     int    fk3EG_k;
@@ -88,7 +88,7 @@ int main() {
 	float	pf5Yl9j;
 	pf5Yl9j	=	642786917;
   unsigned short int  UTPB;
-  UTPB  =  -1064123962;
+  UTPB  =  (unsigned short)-1064123962;
   unsigned long long  w07TLx;
   w07TLx  =  1137297046;
  unsigned int Zt1jzCF_q;
@@ -98,7 +98,7 @@ int main() {
 	short int	KAXyPtaj4;
 	KAXyPtaj4	=	943926052;
 	short	uyMe79MOOW;
-	uyMe79MOOW	=	-587183403;
+	uyMe79MOOW	=	(short)-587183403;
  int zG87p;
  zG87p = -1886135546;
 
@@ -207,7 +207,7 @@ Chnp1 = ruCRY(-156734939, 549056219, URp6J_C, -364210629, 286149226);
 }
 else
 {
-std::cout << ruCRY(srsY, q0REm8uw8, -1252357875, ByCD6TLv, -1985464593) << "H_cTK9iYo" << rTlbJ << ruCRY(-117766038, -192702672, -1984138178, ByCD6TLv, uyMe79MOOW) << "NS61PL82" << std::endl;
+std::cout << ruCRY(srsY, q0REm8uw8, -1252357875, ByCD6TLv, -1985464593) << "H_cTK9iYo" << rTlbJ << ruCRY(-117766038, -192702672, (unsigned short)-1984138178, ByCD6TLv, uyMe79MOOW) << "NS61PL82" << std::endl;
 }
 
 {

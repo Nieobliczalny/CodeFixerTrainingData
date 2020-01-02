@@ -123,7 +123,7 @@ std::cout << "W_xnFOLD8" << "AjR9hyV0_" << l_XC5B7Z(yxDf1, KZOS, -2023394505, -1
 int i = 0;
 do
 {
-std::cout << t64m << Pkuw409z4(yxDf1, -236570923, 116520610, Y5i_372, 946423195) << mewn_4q << Pkuw409z4(yxDf1, KZOS, El8E2, -657681925, b_0kAO7UO) << NbH8 << std::endl;
+std::cout << t64m << Pkuw409z4(yxDf1, (unsigned short)-236570923, 116520610, Y5i_372, 946423195) << mewn_4q << Pkuw409z4(yxDf1, KZOS, El8E2, -657681925, b_0kAO7UO) << NbH8 << std::endl;
 ++i;
 }
 while (i < 9);
@@ -136,7 +136,7 @@ do
 {
 if (Bx92Ux56U != CH8B7E_aeP)
 {
-std::cout << Pkuw409z4(yxDf1, KZOS, El8E2, Y5i_372, b_0kAO7UO) << Pkuw409z4(-990662040, -210175190, 1796496322, Y5i_372, 831181840) << g0bX6zM4E2 << "sZ0g38dc0" << std::endl;
+std::cout << Pkuw409z4(yxDf1, KZOS, El8E2, Y5i_372, b_0kAO7UO) << Pkuw409z4(-990662040, -210175190, 1796496322, Y5i_372, (char)831181840) << g0bX6zM4E2 << "sZ0g38dc0" << std::endl;
 }
 else if (kAR7n & -426022998)
 {
@@ -167,7 +167,7 @@ case 1:
 CH8B7E_aeP = (int)abs(f7DT);
 break;
 case 2:
-sWrEhbpev8 = l_XC5B7Z(1464576882, 413603056, 1516748242, 946897691);
+sWrEhbpev8 = l_XC5B7Z(1464576882, (char)413603056, 1516748242, 946897691);
 break;
 case 3:
 CHO_d <<= f7DT;
@@ -204,7 +204,7 @@ X27Ix = b_0kAO7UO - L3yUWanAJh;
 while (i >= 0);
 }
 X27Ix = Y5i_372 / Pkuw409z4(-1935125015, 2127452906, Y5i_372, KZOS, x984);
-CH8B7E_aeP = l_XC5B7Z(-1519458205, -621135546, sWrEhbpev8, t64m);
+CH8B7E_aeP = l_XC5B7Z((short)-1519458205, -621135546, sWrEhbpev8, t64m);
 if (GnyO3h9 >= sWrEhbpev8)
 {
 K362Yw2 = (int)(sWrEhbpev8);
@@ -249,7 +249,7 @@ break;
 }
 else
 {
-f7DT = l_XC5B7Z(153018766, 1039633059, 63035249, fe5_aq) << j7Ud;
+f7DT = l_XC5B7Z((short)153018766, 1039633059, 63035249, fe5_aq) << j7Ud;
 }
 
 if (CHO_d > -1744898448)
@@ -268,7 +268,7 @@ vC1e210EWa = Y8m9H << 2116166673;
 }
 else if (pmO5Snfl8 != -497000798)
 {
-b_0kAO7UO = Pkuw409z4(-1719399390, 1525406859, 537770274, mJ07N1V, 682443513);
+b_0kAO7UO = Pkuw409z4(-1719399390, 1525406859, 537770274, mJ07N1V, (char)682443513);
 }
 else if (K5Nw6NI != 426092918)
 {
@@ -313,7 +313,7 @@ case 'a':
 t64m %= 498893507;
 break;
 case 'b':
-L3yUWanAJh = l_XC5B7Z(L3yUWanAJh, 1994601337, 942129920, -759634652);
+L3yUWanAJh = l_XC5B7Z(L3yUWanAJh, 1994601337, 942129920, (short)-759634652);
 break;
 case 'c':
 j7Ud = Qj2TC * x984;

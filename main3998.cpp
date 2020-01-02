@@ -21,7 +21,7 @@ int main()
     unsigned long long    hB_WBo_h;
     hB_WBo_h    =    -1237876498;
  unsigned char Tclf5_;
- Tclf5_ = 1797736588;
+ Tclf5_ = (unsigned char)1797736588;
 	unsigned long	ax6e679U;
 	ax6e679U	=	1534433847;
  unsigned short int P_m_hs;
@@ -37,7 +37,7 @@ int main()
 	unsigned short	B57E;
 	B57E	=	147659205;
  char sP3b5oz;
- sP3b5oz = -865831167;
+ sP3b5oz = (char)-865831167;
 	int	bzc5dZ8kJz;
 	bzc5dZ8kJz	=	641819007;
     unsigned long    usR0nI0rT;
@@ -47,7 +47,7 @@ int main()
     short    q3oXh6_P;
     q3oXh6_P    =    -529522473;
 	unsigned short int	b3Wvy;
-	b3Wvy	=	1434172021;
+	b3Wvy	=	(unsigned short)1434172021;
   char  fzz9FHA;
   fzz9FHA  =  1518148446;
 	unsigned short int	BfbINGG;
@@ -61,7 +61,7 @@ int main()
 	unsigned short int	hJyr5rS503;
 	hJyr5rS503	=	237674970;
 	short	fB3r;
-	fB3r	=	1444906741;
+	fB3r	=	(short)1444906741;
  unsigned long long S79_7k;
  S79_7k = 1998883989;
   unsigned short  VeK7433i;
@@ -81,7 +81,7 @@ int main()
  unsigned short dIUU;
  dIUU = 1372007331;
 	unsigned short int	UxxcJ4M2;
-	UxxcJ4M2	=	1677322651;
+	UxxcJ4M2	=	(unsigned short)1677322651;
     short    SF2ZPxp;
     SF2ZPxp    =    -1765247824;
 	short int	jsA2kx;
@@ -95,7 +95,7 @@ int main()
 	long double	O1kjV;
 	O1kjV	=	1848792566;
  unsigned char mi7T;
- mi7T = -1952937971;
+ mi7T = (unsigned char)-1952937971;
   short  sW18y9;
   sW18y9  =  0;
     long long    aDr72JN1k4;
@@ -123,7 +123,7 @@ case 2:
 SF2ZPxp = jsA2kx & 2116340791;
 break;
 case 3:
-t2Rb33k9_ = Wo6bzzSKVo(-277366871, -399626658, w_TLw, mbSsW296e4);
+t2Rb33k9_ = Wo6bzzSKVo(-277366871, (unsigned short)-399626658, w_TLw, mbSsW296e4);
 break;
 case 4:
 X12vuM = (int)floor(t2Rb33k9_);
@@ -276,7 +276,7 @@ PLrNX_qdh = nPe4PR(PLrNX_qdh);
 }
 else
 {
-std::cout << Ulh5twJlZ << g4i_qu3t9g << hJyr5rS503 << nPe4PR(PLrNX_qdh) << Wo6bzzSKVo(PLrNX_qdh, S79_7k, 736470598, w_TLw) << std::endl;
+std::cout << Ulh5twJlZ << g4i_qu3t9g << hJyr5rS503 << nPe4PR(PLrNX_qdh) << Wo6bzzSKVo(PLrNX_qdh, S79_7k, (unsigned short)736470598, w_TLw) << std::endl;
 }
 BfbINGG = (unsigned short int)(V36eGaI9 + (1307699958));
 

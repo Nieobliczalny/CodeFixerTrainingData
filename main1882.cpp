@@ -158,7 +158,7 @@ int k = 5;
 while (k >= 0)
 {
 --k;
-W6o0M6d = RYG65BcC9D(-832862266, 1538532611, lgsD7l7UW, 1591071622, o1fH63IT1A);
+W6o0M6d = RYG65BcC9D(-832862266, 1538532611, lgsD7l7UW, (char)1591071622, o1fH63IT1A);
 }
 }
 }
@@ -270,7 +270,7 @@ cout << fxMs << "C63UD2R" << "Y08l6S" << endl;
 
 try
 {
-cout << wb6jFv_ie2(Fs45hfSG, lgsD7l7UW, 1868122659, mW5Upg58) << "Dqm17ZxuN" << "V2r7" << RYG65BcC9D(751772221, lgsD7l7UW, 2107747021, mW5Upg58, lfCwN4zYq0) << endl;
+cout << wb6jFv_ie2(Fs45hfSG, lgsD7l7UW, 1868122659, mW5Upg58) << "Dqm17ZxuN" << "V2r7" << RYG65BcC9D((char)751772221, lgsD7l7UW, 2107747021, mW5Upg58, lfCwN4zYq0) << endl;
 }
 catch (int& errorCode)
 {

@@ -17,7 +17,7 @@ short int nNdUaw5u7X(unsigned long long v67O7yF,unsigned long long GCsycLS,unsig
 }
 
 short int KhZtmG() {
- return 473832792;
+ return (short)473832792;
 }
 
 long long k1_3CO67()

@@ -135,7 +135,7 @@ Dqpn98cdnF = d39f0Yy(-1761807817, 1019634051);
 }
 else if (v0MSVo_NZ != 771006225)
 {
-std::cout << vVTM2 << Ajsh << d39f0Yy(474055663, 19948693) << "DlsW25i" << std::endl;
+std::cout << vVTM2 << Ajsh << d39f0Yy(474055663, (unsigned char)19948693) << "DlsW25i" << std::endl;
 }
 else
 {

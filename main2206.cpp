@@ -25,7 +25,7 @@ int main(void)
     unsigned short    zw2h5AJ    =    0;
     long    q22r1uF    =    653534496;
   unsigned short  E9P5S4YBD  =  1856948146;
-    unsigned short int    v5lUxR4P8W    =    -413554568;
+    unsigned short int    v5lUxR4P8W    =    (unsigned short)-413554568;
 	int	E4VH4z87	=	-1599364279;
   unsigned short int  JvA77Jy_U9  =  1242580403;
  long long qZ6q_Hnss = -1413571378;
@@ -43,7 +43,7 @@ int main(void)
 	unsigned char	n6qrOlOv	=	1628320756;
     unsigned long    QbBB    =    -1777212446;
     unsigned long long    Fa8j7s    =    -1570246095;
-  char  JAck5  =  369012789;
+  char  JAck5  =  (char)369012789;
   short  OneE5  =  -1743741178;
     int    ZNMIO    =    1066271190;
 

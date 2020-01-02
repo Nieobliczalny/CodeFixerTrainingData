@@ -26,7 +26,7 @@ int main(void)
     unsigned long    x63iT2    =    -644055172;
  long b9cGm = 219566016;
   long double  OELz  =  673462232;
- unsigned short S9nzf = 316976093;
+ unsigned short S9nzf = (unsigned short)316976093;
  float f4I2I = 756616900;
 	unsigned int	i2tY1T1XHL	=	497808791;
  float M8uAqM7Z = 1552042181;
@@ -37,7 +37,7 @@ int main(void)
 	double	KWP1v56	=	493978857;
   int  b2R9fb3QN5  =  1979025292;
 	int	d0_S2_Wtq_	=	-2001820657;
-    short int    t_iJP    =    877465368;
+    short int    t_iJP    =    (short)877465368;
   unsigned char  G2HG9  =  -2134172867;
  unsigned long Kwv89 = 1988438862;
   long long  t0EIauB9S  =  608536525;
@@ -49,7 +49,7 @@ int main(void)
   unsigned char  k6qnXhv  =  -41084480;
     unsigned long    K_v9F1ndY1    =    1060946972;
     long long    YHi092    =    -337950919;
- short yiPXU7 = -1180478297;
+ short yiPXU7 = (short)-1180478297;
  char uaYOu = 2145817185;
     unsigned long long    VVT_45    =    -359098076;
   unsigned short int  Et3a3  =  0;
@@ -60,7 +60,7 @@ int main(void)
 	unsigned short	z92Aot545	=	-1149467893;
  int NIbCZy = -1180772355;
     unsigned long    E8z9j2eL    =    -1568276342;
-  char  Pm8Tw3JtD  =  -1110354799;
+  char  Pm8Tw3JtD  =  (char)-1110354799;
     int    vsXOTb79VL    =    450062934;
  long OGI0C = 536673901;
 	long long	AOxv8mYg0J	=	0;
@@ -71,7 +71,7 @@ int main(void)
     unsigned long    KM5_t__    =    -1700447903;
 	long	Qr_49	=	-1360069472;
   char  vYt4  =  670689357;
-	short	cJI9	=	-324277665;
+	short	cJI9	=	(short)-324277665;
   unsigned short int  cXHETu_ebU  =  -239075416;
   long  IDxxAqG7  =  -34751972;
 	double	s_ZU_Rnx16	=	-672871201;
@@ -98,7 +98,7 @@ int main(void)
 	unsigned short	Tc1N8	=	1140790232;
   int  BJEuMi  =  -1353353511;
 	long double	UZ_Yg4_sc	=	-197739632;
- unsigned short QKU62 = -171702590;
+ unsigned short QKU62 = (unsigned short)-171702590;
   short int  e_6Wa  =  -715090889;
   unsigned short  b00qEXC16j  =  1778710335;
  unsigned long c5oO2 = 1887260512;
@@ -274,7 +274,7 @@ case 'e':
 Lwmu4a6_ = JA9Rmve % uaYOu;
 break;
 case 'f':
-cXHETu_ebU = (Kwv89 & zbPm_o_8) ? 2025147225 : -1918353452;
+cXHETu_ebU = (Kwv89 & zbPm_o_8) ? 2025147225 : (unsigned short)-1918353452;
 break;
 case 'g':
 n2kZ *= wTJ_5;

@@ -13,7 +13,7 @@ int main()
 	char	D55P09;
 	D55P09	=	-1136172841;
   short  y7PX0TZ;
-  y7PX0TZ  =  -272305281;
+  y7PX0TZ  =  (short)-272305281;
   long long  M_rzCAH;
   M_rzCAH  =  1109344529;
  double lDTL;
@@ -31,7 +31,7 @@ int main()
 	long	I26Js2NQ4r;
 	I26Js2NQ4r	=	1832558270;
 	char	N00H;
-	N00H	=	-701996315;
+	N00H	=	(char)-701996315;
     short int    sl5_3och;
     sl5_3och    =    -1420229456;
     unsigned short int    tG8ngn6ro6;
@@ -41,7 +41,7 @@ int main()
     long    v8xUoN_2;
     v8xUoN_2    =    830951411;
   short int  BVg3G_;
-  BVg3G_  =  1610142250;
+  BVg3G_  =  (short)1610142250;
   float  lM3evK;
   lM3evK  =  -144090351;
  long long hK7v8gJ5;
@@ -51,7 +51,7 @@ int main()
   char  DvW8K9k7;
   DvW8K9k7  =  -557673884;
   short  axv3K5v;
-  axv3K5v  =  -679424914;
+  axv3K5v  =  (short)-679424914;
     char    EPnRL6_O;
     EPnRL6_O    =    145267393;
  short int v8v0;
@@ -65,7 +65,7 @@ int main()
  char rD_5v;
  rD_5v = -811476019;
     short int    dS0_h;
-    dS0_h    =    969599553;
+    dS0_h    =    (short)969599553;
  unsigned short J_59Tt8Fg1;
  J_59Tt8Fg1 = 1020606193;
 	char	rUxRU5;

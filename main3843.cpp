@@ -34,7 +34,7 @@ int main(void)
 	short	X960145;
 	X960145	=	1534973856;
   unsigned short int  dgZyj0q;
-  dgZyj0q  =  1817395292;
+  dgZyj0q  =  (unsigned short)1817395292;
  float k23QOGrAa;
  k23QOGrAa = 1109739302;
   short  u9V9x;
@@ -52,7 +52,7 @@ int main(void)
  long z82_4_U7yr;
  z82_4_U7yr = 1966090371;
  unsigned short int ouZxLR5TDY;
- ouZxLR5TDY = 416136048;
+ ouZxLR5TDY = (unsigned short)416136048;
   long long  LcvwmR1_BJ;
   LcvwmR1_BJ  =  -1079053866;
     unsigned short int    TnFaJ_0p8;
@@ -62,7 +62,7 @@ int main(void)
     long long    Av_Y8UL;
     Av_Y8UL    =    1346114523;
     unsigned short    VSwGmSklr;
-    VSwGmSklr    =    262412258;
+    VSwGmSklr    =    (unsigned short)262412258;
 	float	j8sqVv5t;
 	j8sqVv5t	=	-1585597710;
  unsigned long P6rLipA_di;
@@ -80,7 +80,7 @@ int main(void)
     short    L848;
     L848    =    0;
     short    g0_GG62;
-    g0_GG62    =    -311584260;
+    g0_GG62    =    (short)-311584260;
     long    q_6o_b;
     q_6o_b    =    0;
  unsigned char Fsesd9tj;
@@ -111,7 +111,7 @@ i--;
 FxH_uPRAAu = (float)(t6hfO0R01Y);
 }
 }
-std::cout << VtY7b_y(-1770615344) << n1Jvp20(t6hfO0R01Y, 1824122162) << VtY7b_y(t6hfO0R01Y) << std::endl;
+std::cout << VtY7b_y(-1770615344) << n1Jvp20(t6hfO0R01Y, (short)1824122162) << VtY7b_y(t6hfO0R01Y) << std::endl;
 
 if (L848 == 0)
 {
@@ -252,7 +252,7 @@ while (j < 3)
 ++j;
 if (u9V9x == -1317517616)
 {
-k23QOGrAa = n1Jvp20(-1990795822, 143441239);
+k23QOGrAa = n1Jvp20(-1990795822, (short)143441239);
 }
 }
 }
@@ -313,7 +313,7 @@ k23QOGrAa *= 588997389;
 }
 else if (Q4l6JWjIo == nOZYpOgB)
 {
-std::cout << x3X00j(970703811, -1822349984, 229490169) << "mQ40Y" << JTJ0f0_2(-321817139, TdNv2DZ9r, dgZyj0q) << std::endl;
+std::cout << x3X00j(970703811, -1822349984, (short)229490169) << "mQ40Y" << JTJ0f0_2(-321817139, TdNv2DZ9r, dgZyj0q) << std::endl;
 }
 else if ((ug5l1NF5 == 199803533) && (u9V9x >= nOZYpOgB))
 {
@@ -410,7 +410,7 @@ case 3:
 j8sqVv5t = (int)ceil(Lu_f_2);
 break;
 case 4:
-X960145 = x3X00j(X960145, 1958073663, -719125283);
+X960145 = x3X00j(X960145, 1958073663, (short)-719125283);
 break;
 case 5:
 VSwGmSklr = Ptdf >> t6hfO0R01Y;

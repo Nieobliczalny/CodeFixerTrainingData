@@ -370,7 +370,7 @@ int i = 9;
 do
 {
 --i;
-ff9uv1TqAk = (DipO) ? -1231579830 : 83902224;
+ff9uv1TqAk = (DipO) ? -1231579830 : (short)83902224;
 }
 while (i >= 0);
 }
@@ -544,7 +544,7 @@ case 'C':
 xsHCL *= 1818272424;
 break;
 default:
-A778 = (WJf23Az10N <= IiHR) ? -1652277575 : -1006046287;
+A778 = (WJf23Az10N <= IiHR) ? -1652277575 : (short)-1006046287;
 break;
 }
 switch (H9yWKOo15i)

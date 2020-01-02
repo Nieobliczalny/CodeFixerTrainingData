@@ -21,7 +21,7 @@ int main(int argc, char** argv)
 	char	M2RqeO;
 	M2RqeO	=	-168610066;
     unsigned short int    LGN9n0;
-    LGN9n0    =    -261801132;
+    LGN9n0    =    (unsigned short)-261801132;
 	unsigned short int	APlL_U;
 	APlL_U	=	903235867;
  long long wR0i;
@@ -33,7 +33,7 @@ int main(int argc, char** argv)
 	short	rH6RCs7;
 	rH6RCs7	=	-574289972;
  unsigned short int Z_4rt7utz;
- Z_4rt7utz = -2029732775;
+ Z_4rt7utz = (unsigned short)-2029732775;
  double fH6B7c;
  fH6B7c = 2062412654;
  unsigned short int rSy4N0_6W5;

@@ -37,7 +37,7 @@ case 'd':
 Jub7xt = cnoQZo();
 break;
 case 'e':
-RcCk3 = HaAww(-746219309, -612014845, -1079319395, hefedF6R_x);
+RcCk3 = HaAww(-746219309, -612014845, (unsigned short)-1079319395, hefedF6R_x);
 break;
 case 'f':
 UMKZRXK = (DpOJwI_gc & 1181785333) ? 499651552 : kHJ2w;
@@ -101,7 +101,7 @@ std::cout << "k1Gcc" << std::endl;
 }
 else if (F83_8j > 1720932384)
 {
-RcCk3 = HaAww(1934944112, W9v8jM, 1846907300, -1012065260);
+RcCk3 = HaAww(1934944112, W9v8jM, (unsigned short)1846907300, -1012065260);
 }
 else
 {
@@ -115,7 +115,7 @@ else if ((Wja6_f9O < -668021644) || (s4wy < 562535245))
 int k = 0;
 while (k < 7)
 {
-QL83Mwwn = HaAww(629313138, M4amfZ5Sc, wBG_9m, -679806537);
+QL83Mwwn = HaAww(629313138, M4amfZ5Sc, wBG_9m, (short)-679806537);
 k++;
 }
 }
@@ -196,7 +196,7 @@ s4wy ^= W9v8jM;
 break;
 case 'b':
 case 'B':
-kHJ2w = HaAww(730385616, plBKL, 1454060611, kam22rV);
+kHJ2w = HaAww(730385616, plBKL, (unsigned short)1454060611, kam22rV);
 break;
 case 'c':
 case 'C':
@@ -234,7 +234,7 @@ case 'i':
 wBG_9m = tQLH & 1659022851;
 break;
 case 'j':
-kHJ2w = HaAww(daQO, -1990979147, -1130968037, hefedF6R_x);
+kHJ2w = HaAww(daQO, -1990979147, (unsigned short)-1130968037, hefedF6R_x);
 break;
 }
 
@@ -255,7 +255,7 @@ else
 {
 if ((ddV6 & 2072137140) && ((HT269A55yO == 1631971961) && (ddV6 & -42706554)))
 {
-std::cout << "t7BlGZ" << HaAww(1079272889, 1119599492, 2129157959, KTGZ_CC) << std::endl;
+std::cout << "t7BlGZ" << HaAww(1079272889, 1119599492, (unsigned short)2129157959, KTGZ_CC) << std::endl;
 }
 else
 {
@@ -273,7 +273,7 @@ while (k >= 0);
 
 std::cout << "Q_I1q" << "YO28" << HaAww(hefedF6R_x, TLaPN4GR7P, M4amfZ5Sc, C8Q77HD) << "S_6HYKnuG8" << std::endl;
 
-Jub7xt = QL83Mwwn / HaAww(385611215, 1555529750, 839697885, C8Q77HD);
+Jub7xt = QL83Mwwn / HaAww(385611215, 1555529750, (unsigned short)839697885, C8Q77HD);
 switch (cqoNrRsdIt)
 {
 case 'a':
@@ -290,7 +290,7 @@ v___xxC -= D6w4Gl8j41;
 break;
 case 'd':
 case 'D':
-kHJ2w = HaAww(491310914, x3_jOir, -944972727, bjSC);
+kHJ2w = HaAww(491310914, x3_jOir, (unsigned short)-944972727, bjSC);
 break;
 case 'e':
 case 'E':
@@ -308,7 +308,7 @@ case 1:
 x2lhBB7E += p54ujbN;
 break;
 case 2:
-cqoNrRsdIt = HaAww(IsrrfoPaIa, -167791437, -1369994232, -1187788410);
+cqoNrRsdIt = HaAww(IsrrfoPaIa, -167791437, -1369994232, (short)-1187788410);
 break;
 case 3:
 QL83Mwwn = HaAww(hefedF6R_x, 967217959, -480494334, wBG_9m);
@@ -338,7 +338,7 @@ ugjaML4_jI = (MHM9z2) ? HaAww(bjSC, Bl6S4A9xc9, v___xxC, 21966073) : q1Zo07t_;
 }
 else
 {
-Yxn0KGE = HaAww(b8eC, -1686007287, -947745380, -704814055);
+Yxn0KGE = HaAww(b8eC, -1686007287, (unsigned short)-947745380, -704814055);
 }
 --j;
 }
@@ -359,7 +359,7 @@ Z7hUf4FB7 <<= daQO;
 break;
 case 'c':
 case 'C':
-QL83Mwwn = HaAww(-431334655, 2018170768, -1976595917, 2051299757);
+QL83Mwwn = HaAww(-431334655, 2018170768, (unsigned short)-1976595917, 2051299757);
 break;
 case 'd':
 case 'D':
@@ -435,7 +435,7 @@ Zk4mD = cnoQZo();
 }
 else
 {
-Yxn0KGE = HaAww(-1686050303, D6w4Gl8j41, Y0D_0M81HG, -1555706048);
+Yxn0KGE = HaAww(-1686050303, D6w4Gl8j41, Y0D_0M81HG, (short)-1555706048);
 }
 }
 }
@@ -454,7 +454,7 @@ v___xxC = HaAww(Cl1vwO3, q1Zo07t_, UTK6RO, bjSC) | TLaPN4GR7P;
 }
 }
 }
-std::cout << HaAww(Cl1vwO3, q1Zo07t_, UTK6RO, bjSC) << HaAww(-745586001, q1Zo07t_, 236346851, -1679124626) << HaAww(1341659886, -1484943675, 2036173276, bjSC) << RcCk3 << std::endl;
+std::cout << HaAww(Cl1vwO3, q1Zo07t_, UTK6RO, bjSC) << HaAww(-745586001, q1Zo07t_, (unsigned short)236346851, -1679124626) << HaAww(1341659886, -1484943675, 2036173276, bjSC) << RcCk3 << std::endl;
 
 {
 int i = 0;
@@ -479,7 +479,7 @@ case 'd':
 MHM9z2 = cnoQZo();
 break;
 case 'e':
-QL83Mwwn = HaAww(1105915778, -1470805367, 688565769, C8Q77HD);
+QL83Mwwn = HaAww((short)1105915778, -1470805367, 688565769, C8Q77HD);
 break;
 case 'f':
 M4amfZ5Sc = cnoQZo();
@@ -491,7 +491,7 @@ case 'h':
 QL83Mwwn = HaAww(-1512075401, -1713557031, Bl6S4A9xc9, -1303287540);
 break;
 case 'i':
-cqoNrRsdIt = HaAww(423139810, -710336047, 1880008747, -1515360235);
+cqoNrRsdIt = HaAww((short)423139810, -710336047, 1880008747, -1515360235);
 break;
 case 'j':
 Zk4mD = cnoQZo() & 2025863450;

@@ -13,6 +13,7 @@
 using namespace std;
 
 int main() {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
   char  ri_IH  =  103798018,  pS7jBx__  =  642705581,  F6h0RGln  =  -70185302,  kNaQ6h4  =  -960684010,  kOT9I9  =  -1831580990,  M_jAj9  =  729496466,  aM261  =  1735917279,  K_pl  =  -675896028,  KgkbumeNZ  =  283863624,  p3dZd6  =  1783879326,  ME_O88N  =  -1053142787,  MEDcnD4LDv  =  897764120,  f6n1  =  779909032;
     long long    vnJ8LiJuOZ    =    0,    iCvKzjbz    =    0,    v1z5XyJu    =    0,    qg6j35    =    0;
 
@@ -203,7 +204,7 @@ MEDcnD4LDv = iCvKzjbz * 557648380;
 break;
 case 'f':
 case 'F':
-ri_IH = (KgkbumeNZ) ? -705105515 : -1145044961;
+ri_IH = (KgkbumeNZ) ? -705105515 : (char)-1145044961;
 break;
 default:
 kOT9I9 ^= 1116589886;

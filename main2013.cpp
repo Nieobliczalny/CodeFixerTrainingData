@@ -104,7 +104,7 @@ case 4:
 SsPK0Rd06O = DkCs6LK(SsPK0Rd06O);
 break;
 case 5:
-SsPK0Rd06O = aIsj9Z3(SsPK0Rd06O, -242963074, 191441761, 85485838);
+SsPK0Rd06O = aIsj9Z3(SsPK0Rd06O, -242963074, (char)191441761, 85485838);
 break;
 case 6:
 SsPK0Rd06O = DkCs6LK(SsPK0Rd06O);
@@ -156,7 +156,7 @@ case 8:
 SsPK0Rd06O = DkCs6LK(-260875980);
 break;
 case 9:
-m1fmBuV6Pj = vzBr94(1300086147, -70486337);
+m1fmBuV6Pj = vzBr94(1300086147, (unsigned short)-70486337);
 break;
 default:
 SsPK0Rd06O = DkCs6LK(SsPK0Rd06O);
@@ -516,7 +516,7 @@ case 4:
 SsPK0Rd06O %= oeM5;
 break;
 case 5:
-oeM5 = (SsPK0Rd06O) ? vzBr94(m1fmBuV6Pj, -1074520917) : m1fmBuV6Pj;
+oeM5 = (SsPK0Rd06O) ? vzBr94(m1fmBuV6Pj, (unsigned short)-1074520917) : m1fmBuV6Pj;
 break;
 case 6:
 oeM5--;
@@ -650,7 +650,7 @@ M9kv_Cw = vzBr94(M9kv_Cw, -884959393);
 break;
 }
 cout << "ywZ18" << m1fmBuV6Pj << "D5kt" << endl;
-cout << aIsj9Z3(-725114125, oeM5, -807571568, SsPK0Rd06O) << endl;
+cout << aIsj9Z3(-725114125, oeM5, (char)-807571568, SsPK0Rd06O) << endl;
 if (M9kv_Cw == 1658191355)
 {
 {

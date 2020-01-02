@@ -25,7 +25,7 @@ int main(void)
  unsigned short int FgfUS = 0;
     unsigned int    pN37dVt6E0    =    0;
     short int    v2rf3bleE    =    0;
-  unsigned char  X59B  =  -1035698952;
+  unsigned char  X59B  =  (unsigned char)-1035698952;
     unsigned short    S60sjWS5b    =    1394002161;
   float  WH0F2DUi  =  -1092675064;
   short int  G_jm  =  0;

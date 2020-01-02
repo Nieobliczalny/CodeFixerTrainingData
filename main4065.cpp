@@ -20,7 +20,7 @@ int main(int argc, char** argv) {
  char uWp7_;
  uWp7_ = 0;
     short int    ebZ3;
-    ebZ3    =    2100392277;
+    ebZ3    =    (short)2100392277;
 
 if (uWp7_ > 155217474)
 {
@@ -161,7 +161,7 @@ ebZ3 <<= 1767627848;
 }
 else
 {
-sQzXZg = (D863Ca9uP) ? -693436382 : 82485756;
+sQzXZg = (D863Ca9uP) ? -693436382 : (short)82485756;
 }
 }
 else

@@ -21,7 +21,7 @@ int main(void)
   double  r2C151cE;
   r2C151cE  =  -1076027197;
   short  B4n2_O;
-  B4n2_O  =  -1831331235;
+  B4n2_O  =  (short)-1831331235;
 	double	l2SOA4e;
 	l2SOA4e	=	-1456750994;
 	short int	vrQd787d;
@@ -43,7 +43,7 @@ int main(void)
   long double  RP1rZ0;
   RP1rZ0  =  -474585810;
   short int  xw8RtdcpY2;
-  xw8RtdcpY2  =  -982204430;
+  xw8RtdcpY2  =  (short)-982204430;
  short int AnTkyE3jt;
  AnTkyE3jt = 182351287;
  long adW0O4;
@@ -53,7 +53,7 @@ int main(void)
   char  c58AwZ;
   c58AwZ  =  -28219373;
 	unsigned short	T4p2835;
-	T4p2835	=	-1248528145;
+	T4p2835	=	(unsigned short)-1248528145;
  unsigned int os9Dy;
  os9Dy = 1489935219;
   int  Rv3LfV50;

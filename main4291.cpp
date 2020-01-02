@@ -31,7 +31,7 @@ try
 {
 for (int j = 5; j >= 0; --j)
 {
-lCuc021eMg = AL_k(lCuc021eMg, -1744078058, sHta6R0, -1391731529);
+lCuc021eMg = AL_k(lCuc021eMg, -1744078058, sHta6R0, (short)-1391731529);
 }
 }
 catch (int& errorCode)
@@ -52,7 +52,7 @@ oeMY = wuH77 / 1951464806;
 }
 else
 {
-xQC3PIj_Z = (WDA0P8Di) ? AL_k(1622190916, 2040264550, sHta6R0, ditODV9i) : -1896776283;
+xQC3PIj_Z = (WDA0P8Di) ? AL_k(1622190916, (unsigned short)2040264550, sHta6R0, ditODV9i) : -1896776283;
 }
 }
 else
@@ -91,7 +91,7 @@ case 5:
 b55g_6Q = EW3oE(70516979, nhUMw7pt, 811929673) | 2053675018;
 break;
 default:
-ej51QaWY7 = c2K7HJ3M(-1535782106, DZDLJmMj9, gpA75B94c);
+ej51QaWY7 = c2K7HJ3M((short)-1535782106, DZDLJmMj9, gpA75B94c);
 break;
 }
 }
@@ -196,7 +196,7 @@ WDA0P8Di = (double)(Pm8hr);
 
 try
 {
-S6B248 = AL_k(1485530281, uJXNl_Pd, 370084787, -1692782);
+S6B248 = AL_k(1485530281, uJXNl_Pd, 370084787, (short)-1692782);
 }
 catch (int& errorCode)
 {
@@ -222,7 +222,7 @@ idh04Rq09 = v443o();
 xf2wdnb4F = 401111893 / h_0W;
 if (r4_LZA > 1001469635)
 {
-SS8ep16_m = AL_k(SS8ep16_m, -2032733986, -1129132778, -133336614);
+SS8ep16_m = AL_k(SS8ep16_m, -2032733986, -1129132778, (short)-133336614);
 }
 else
 {
@@ -411,7 +411,7 @@ break;
 switch (idh04Rq09)
 {
 case 0:
-rz7w4 = AL_k(385658148, 36204687, -1654487280, v9wIDx5360);
+rz7w4 = AL_k(385658148, (unsigned short)36204687, -1654487280, v9wIDx5360);
 break;
 case 1:
 a_qv18_w -= g8f99IC;
@@ -460,7 +460,7 @@ int j = 6;
 do
 {
 --j;
-N_cu_ = (u2YN6 != Qu7Q2B8m) ? uJXNl_Pd : AL_k(ETLY8RP, -1338767140, rz7w4, -1697278531);
+N_cu_ = (u2YN6 != Qu7Q2B8m) ? uJXNl_Pd : AL_k(ETLY8RP, -1338767140, rz7w4, (short)-1697278531);
 }
 while (j >= 0);
 }
@@ -508,7 +508,7 @@ case 7:
 TI0q0j0O_ = AL_k(-1096572361, c213PgB, p9gxYFO_d, y3xQrsfX);
 break;
 default:
-i2gOt_Ea9c = c2K7HJ3M(2102488545, us9Q, dgsqkL);
+i2gOt_Ea9c = c2K7HJ3M((short)2102488545, us9Q, dgsqkL);
 break;
 }
 }
@@ -579,7 +579,7 @@ case 1:
 Y54R12YVs = EW3oE(-935853720, 414541156, q0Xh);
 break;
 case 2:
-qS8N2_Y6j = AL_k(637355646, 1338982231, q0Xh, eJ5x) | 799651400;
+qS8N2_Y6j = AL_k((unsigned short)637355646, 1338982231, q0Xh, eJ5x) | 799651400;
 break;
 default:
 O01MkB3 = v443o();

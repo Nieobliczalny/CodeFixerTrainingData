@@ -268,7 +268,7 @@ else
 int j = 0;
 do
 {
-bY_1_xs7Y = hw_E8oa23f(641574736, -654168709, XG5GLCG, s6fj9t, 1343490602);
+bY_1_xs7Y = hw_E8oa23f(641574736, (char)-654168709, XG5GLCG, s6fj9t, 1343490602);
 j++;
 }
 while (j < 3);
@@ -328,7 +328,7 @@ DDeQG47 = (int)abs(K008xVfA);
 }
 for (int i = 0; i < 7; ++i)
 {
-cout << PZ_Z_(-447466794, -1423497556, 544140993) << hw_E8oa23f(996541168, K008xVfA, -306631437, -1768566132, MD9_6XN) << "JRmH" << endl;
+cout << PZ_Z_(-447466794, -1423497556, 544140993) << hw_E8oa23f((unsigned short)996541168, K008xVfA, -306631437, -1768566132, MD9_6XN) << "JRmH" << endl;
 }
 DDeQG47 = (int)abs(y6_Dk7M);
 {
@@ -360,7 +360,7 @@ while (j >= 0);
 }
 }
 
-cout << PZ_Z_(-595042697, -2012319239, 1099676755) << MvfLVTv3R() << MvfLVTv3R() << "y_V95E_s08" << hw_E8oa23f(-561905322, 361122186, pEQfK4lHNa, 955353446, MD9_6XN) << endl;
+cout << PZ_Z_(-595042697, -2012319239, 1099676755) << MvfLVTv3R() << MvfLVTv3R() << "y_V95E_s08" << hw_E8oa23f((unsigned short)-561905322, 361122186, pEQfK4lHNa, 955353446, MD9_6XN) << endl;
 
 {
 int i = 1;

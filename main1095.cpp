@@ -40,7 +40,7 @@ int main()
   unsigned int  BCf_3t5e;
   BCf_3t5e  =  -1525672792;
   unsigned short  z_v2ocHeHR;
-  z_v2ocHeHR  =  -881089132;
+  z_v2ocHeHR  =  (unsigned short)-881089132;
  unsigned long long U4YJ075aE;
  U4YJ075aE = 822745024;
  long long zaD_v;
@@ -60,7 +60,7 @@ int main()
 	float	pq6gSl;
 	pq6gSl	=	566423405;
     char    k81n10f;
-    k81n10f    =    624769811;
+    k81n10f    =    (char)624769811;
  long double K9w1L;
  K9w1L = -1605681902;
   int  nmnvuqG00E;
@@ -74,7 +74,7 @@ int main()
     double    aj_3Qoj13S;
     aj_3Qoj13S    =    145445947;
  char v_jx4h0;
- v_jx4h0 = -882428560;
+ v_jx4h0 = (char)-882428560;
 	unsigned long	l_OuN43bS_;
 	l_OuN43bS_	=	-1596699890;
     double    g9QCH;
@@ -84,7 +84,7 @@ int main()
  unsigned short ELrLAy5;
  ELrLAy5 = 1003904145;
     unsigned short    SJ1aRU;
-    SJ1aRU    =    -1931991692;
+    SJ1aRU    =    (unsigned short)-1931991692;
     char    Y8SJar_05Q;
     Y8SJar_05Q    =    -52198562;
 	int	fki3ts94_;
@@ -102,7 +102,7 @@ int main()
     unsigned int    Simf;
     Simf    =    0;
 	short	m2i3QuxM1I;
-	m2i3QuxM1I	=	452584498;
+	m2i3QuxM1I	=	(short)452584498;
     unsigned int    MRMb5vCa4;
     MRMb5vCa4    =    -311554284;
     char    k7jZyFbO;
@@ -114,7 +114,7 @@ int main()
     float    YEo7;
     YEo7    =    -821182250;
     unsigned char    P9HvKaAD1_;
-    P9HvKaAD1_    =    -1802548539;
+    P9HvKaAD1_    =    (unsigned char)-1802548539;
 	long double	nW6VXjlpa;
 	nW6VXjlpa	=	-1582678328;
  long long A9Ckb;
@@ -274,7 +274,7 @@ case 7:
 K1Ta = (int)abs(P1Pe28h8hV);
 break;
 case 8:
-KrWT17i = NwBm5KBy(1998338443, -497677794);
+KrWT17i = NwBm5KBy((unsigned char)1998338443, -497677794);
 break;
 default:
 S6FJDCX1 = O3Cg5v4472 & 1552033721;
@@ -577,7 +577,7 @@ P9HvKaAD1_ = O_36(825654286, -1540983458, h8pp, aj_3Qoj13S);
 break;
 case 'b':
 case 'B':
-nmnvuqG00E = pQi3NQ(788241271);
+nmnvuqG00E = pQi3NQ((unsigned short)788241271);
 break;
 case 'c':
 case 'C':
@@ -692,7 +692,7 @@ else
 {
 zaD_v = (int)abs(m2i3QuxM1I);
 }
-std::cout << O_36(2066027368, 1262101752, -1985011067, 484876136) << O_36(P1Pe28h8hV, BCf_3t5e, pq6gSl, 772925386) << pQi3NQ(-1064774466) << pQi3NQ(P1Pe28h8hV) << std::endl;
+std::cout << O_36(2066027368, 1262101752, -1985011067, 484876136) << O_36(P1Pe28h8hV, BCf_3t5e, pq6gSl, 772925386) << pQi3NQ((unsigned short)-1064774466) << pQi3NQ(P1Pe28h8hV) << std::endl;
 
 pq6gSl = (float)(PL_T);
 return 0;

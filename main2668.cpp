@@ -16,7 +16,7 @@ short	y944y_5H8u(unsigned int	FU0_d,unsigned short	S1Khl1Jl)	{
 }
 
 unsigned char TFwY3J(unsigned int wWx0T_5GmL) {
- return 964206444;
+ return (unsigned char)964206444;
 }
 
 int	Y102YI4(unsigned long	R9NEVo447)	{
@@ -225,7 +225,7 @@ I8dvrF5XCl = y944y_5H8u(-1537212942, -294705163);
 int i = 0;
 while (i < 6)
 {
-eU2_n5W63 = y944y_5H8u(-1866092474, 1141511392);
+eU2_n5W63 = y944y_5H8u(-1866092474, (unsigned short)1141511392);
 i++;
 }
 }

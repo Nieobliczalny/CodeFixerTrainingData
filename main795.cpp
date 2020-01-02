@@ -75,7 +75,7 @@ else if (Euv1X_P)
 switch (ww35QEB)
 {
 case 0:
-ww35QEB = axJexf(ww35QEB, -503610394, -1800774994, -138975958);
+ww35QEB = axJexf(ww35QEB, -503610394, (unsigned char)-1800774994, -138975958);
 break;
 case 1:
 C8cM = Y6GVuw2(C8cM, -893588499, CjH35lNn);
@@ -100,7 +100,7 @@ else if (Te7N1GB == Euv1X_P)
 {
 if (pqJ7c <= nOfZ1CKz)
 {
-h0_U4K = o4eDXmhl(2044602778);
+h0_U4K = o4eDXmhl((short)2044602778);
 }
 }
 else
@@ -164,7 +164,7 @@ else if (h0_U4K & -1058011073)
 {
 if (ah983wVC >= JUf51q_3)
 {
-pqJ7c = k2ZP(453668556, h0_U4K, 1447718750, n4W809d, -2134404456);
+pqJ7c = k2ZP(453668556, h0_U4K, 1447718750, n4W809d, (short)-2134404456);
 }
 else
 {
@@ -333,7 +333,7 @@ ww35QEB = (unsigned char)(W4C0 + (-649728349));
 }
 
 o0md5WV = (unsigned char)(W4C0 + (2099219683));
-for (int i = k2ZP(-879207857, 1466155733, nOfZ1CKz, X8m1E82Hs9, 543659768); i < 126; i++)
+for (int i = k2ZP(-879207857, 1466155733, nOfZ1CKz, X8m1E82Hs9, (short)543659768); i < 126; i++)
 {
 for (int i = 0; i < 2; i++)
 {
@@ -382,7 +382,7 @@ cout << Euv1X_P << "CJ8HytjtB" << ah983wVC << n4W809d << axJexf(-374537370, -214
 int i = 7;
 while (i >= 0)
 {
-TrKkPD = Y6GVuw2(1469732713, t2w_D0_J, -1439179981);
+TrKkPD = Y6GVuw2(1469732713, t2w_D0_J, (short)-1439179981);
 i--;
 }
 }

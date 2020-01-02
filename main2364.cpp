@@ -21,7 +21,7 @@ int main(void)
  unsigned short A0ZoJ_wn;
  A0ZoJ_wn = -1121943511;
   short  kOhh4_ed;
-  kOhh4_ed  =  1384253608;
+  kOhh4_ed  =  (short)1384253608;
  unsigned long long So918s9p9;
  So918s9p9 = 0;
     short    BuoWe10433;
@@ -38,7 +38,7 @@ int i = 0;
 do
 {
 ++i;
-J6iyk_lN = z0NU9(J6iyk_lN, -1990394750, TKw630kV);
+J6iyk_lN = z0NU9(J6iyk_lN, (unsigned char)-1990394750, TKw630kV);
 }
 while (i < 3);
 }
@@ -290,7 +290,7 @@ try
 {
 if (kOhh4_ed & 1089511342)
 {
-BuoWe10433 = z0NU9(2088436761, 1481604129, gIaaxR49);
+BuoWe10433 = z0NU9(2088436761, (unsigned char)1481604129, gIaaxR49);
 }
 }
 catch (int& errorCode)

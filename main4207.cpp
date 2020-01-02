@@ -35,7 +35,7 @@ int main(int argc, char** argv) {
     short int    JDFb8;
     JDFb8    =    875287515;
   char  A4vQZW1;
-  A4vQZW1  =  -1876261296;
+  A4vQZW1  =  (char)-1876261296;
   char  a_y12Y4;
   a_y12Y4  =  1762229947;
  long nCz6uEky4;
@@ -53,7 +53,7 @@ int main(int argc, char** argv) {
 	short	k9OjX965;
 	k9OjX965	=	2086573883;
 	char	vl0q2b2jC;
-	vl0q2b2jC	=	1570728982;
+	vl0q2b2jC	=	(char)1570728982;
  long long arc10xCab;
  arc10xCab = -1801461388;
   char  INKPCx1A;
@@ -75,7 +75,7 @@ int main(int argc, char** argv) {
     float    ixcRmS_6;
     ixcRmS_6    =    487227220;
 	char	pKac5;
-	pKac5	=	1330144505;
+	pKac5	=	(char)1330144505;
     char    f2M_3v;
     f2M_3v    =    0;
     char    Yn9oES;
@@ -108,7 +108,7 @@ catch (int& errorCode)
 {
 arc10xCab += 126124052;
 }
-f2M_3v = S6IUMZN(ixcRmS_6, -706546049, Ie049, h_nenNT, -102432469);
+f2M_3v = S6IUMZN(ixcRmS_6, -706546049, Ie049, h_nenNT, (unsigned short)-102432469);
 if ((JDFb8 / S6IUMZN(-214749941, nCz6uEky4, Ie049, h_nenNT, 1864887559)) > 1496406260)
 {
 for (int i = 7; i >= 0; --i)
@@ -143,7 +143,7 @@ break;
 int i = 3;
 while (i >= 0)
 {
-std::cout << O83hkgl(1254761406, 1461907395) << S6IUMZN(f2M_3v, INKPCx1A, JDFb8, -574610228, 60704117) << s8Ql9 << S6IUMZN(f2M_3v, INKPCx1A, JDFb8, -1655099880, -46469283) << std::endl;
+std::cout << O83hkgl(1254761406, 1461907395) << S6IUMZN(f2M_3v, INKPCx1A, JDFb8, -574610228, (unsigned short)60704117) << s8Ql9 << S6IUMZN(f2M_3v, INKPCx1A, JDFb8, -1655099880, -46469283) << std::endl;
 --i;
 }
 }
@@ -205,7 +205,7 @@ else
 TO2Q = O83hkgl(1005336120, DBqcDq802);
 }
 k9OjX965 = o_mt0Ps(k9OjX965);
-std::cout << O83hkgl(k9OjX965, 110899690) << nCz6uEky4 << S6IUMZN(652203442, DBqcDq802, -1932214405, Anpq4Pf, f2M_3v) << lJAr_h1(k9OjX965, -1131009185, -1216019103, Anpq4Pf) << "w0rxY5Mq" << std::endl;
+std::cout << O83hkgl(k9OjX965, 110899690) << nCz6uEky4 << S6IUMZN((char)652203442, DBqcDq802, -1932214405, Anpq4Pf, f2M_3v) << lJAr_h1(k9OjX965, -1131009185, -1216019103, Anpq4Pf) << "w0rxY5Mq" << std::endl;
 k9OjX965 = o_mt0Ps(k9OjX965);
 return 0;
 }

@@ -36,7 +36,7 @@ int main(int argc, char** argv)
 	float	RX_X79;
 	RX_X79	=	2116156057;
  unsigned short int o4Hc853;
- o4Hc853 = 1872362727;
+ o4Hc853 = (unsigned short)1872362727;
     char    kW4Og9_;
     kW4Og9_    =    -1514316797;
   unsigned int  P7vMiYkB;
@@ -52,7 +52,7 @@ int main(int argc, char** argv)
   long  F4mKXz403;
   F4mKXz403  =  -95187949;
  unsigned short ieNPSq2drI;
- ieNPSq2drI = 1858297303;
+ ieNPSq2drI = (unsigned short)1858297303;
  unsigned short int ff6nV3_;
  ff6nV3_ = 872143286;
     unsigned int    H0Wm6Jw9v;
@@ -88,7 +88,7 @@ int main(int argc, char** argv)
   int  GNVN_R_Q0m;
   GNVN_R_Q0m  =  956556416;
   short int  v16s8FLIdF;
-  v16s8FLIdF  =  -774037185;
+  v16s8FLIdF  =  (short)-774037185;
     double    Yeok8;
     Yeok8    =    -203510488;
   short int  n3kFqC221g;
@@ -112,7 +112,7 @@ int main(int argc, char** argv)
  long ETC8;
  ETC8 = 1365865302;
     unsigned short int    nAXEkDEweF;
-    nAXEkDEweF    =    1747236160;
+    nAXEkDEweF    =    (unsigned short)1747236160;
   unsigned short  L0t_T;
   L0t_T  =  -789195700;
   unsigned long  SXg_Hj704;
@@ -124,7 +124,7 @@ int main(int argc, char** argv)
 	long	N_Y9Ia6;
 	N_Y9Ia6	=	379251209;
  unsigned short int l3of15h;
- l3of15h = -2129091196;
+ l3of15h = (unsigned short)-2129091196;
  long RQUN1pB;
  RQUN1pB = 1120180347;
  short RdP_2nh0;
@@ -162,7 +162,7 @@ case 0:
 Mi1Yb9cm3K = (int)floor(Yeok8);
 break;
 case 1:
-y9NC_ = SiRYM(613889128, -1686616906, Yeok8, bo1WHjeM);
+y9NC_ = SiRYM(613889128, (short)-1686616906, Yeok8, bo1WHjeM);
 break;
 }
 {
@@ -191,7 +191,7 @@ ig5jrFIA0f >>= nAXEkDEweF;
 }
 else if (((VQFnA5 & 912905391) || (L47BI)) && ((G9lZs0 < 400996992) || (bo1WHjeM == N_Y9Ia6)))
 {
-o4Hc853 = SiRYM(117041890, 1044501314, CP8wC, RdP_2nh0);
+o4Hc853 = SiRYM(117041890, (short)1044501314, CP8wC, RdP_2nh0);
 }
 else if (L47BI >= 2024992636)
 {
@@ -296,7 +296,7 @@ Yeok8 = ahOs4d(Yeok8, 731520202, -687379003, G9lZs0, VQFnA5);
 int i = 0;
 while (i < 2)
 {
-cout << SiRYM(-1265157400, 1291294955, -1383324570, G9lZs0) << endl;
+cout << SiRYM(-1265157400, (short)1291294955, -1383324570, G9lZs0) << endl;
 ++i;
 }
 }
@@ -359,7 +359,7 @@ Mi1Yb9cm3K = (int)floor(y9NC_);
 }
 else if ((P7vMiYkB < 2031184939) && (ig31F >= 771659744))
 {
-Mi1Yb9cm3K = SiRYM(Mi1Yb9cm3K, YcH3, 78102798, 1819673618);
+Mi1Yb9cm3K = SiRYM(Mi1Yb9cm3K, YcH3, 78102798, (unsigned short)1819673618);
 }
 else if (Q_1m8_ < 941164447)
 {

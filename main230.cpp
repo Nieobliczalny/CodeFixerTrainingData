@@ -138,7 +138,7 @@ IS_D += 830062258;
 break;
 case 'd':
 case 'D':
-A_bRtE726 = s_C8niNlJ5(80606028, -256181230, -1501279311, CP4lMMIL, X553m_yH);
+A_bRtE726 = s_C8niNlJ5(80606028, (unsigned char)-256181230, -1501279311, CP4lMMIL, X553m_yH);
 break;
 case 'e':
 case 'E':
@@ -175,7 +175,7 @@ break;
 
 for (int i = 10; i >= 0; i--)
 {
-cout << s_C8niNlJ5(QS_5fFb, -775573425, q5Rxg, 342548802, x438cmbZ0m) << s_C8niNlJ5(811563626, -761664735, q5Rxg, kaNEpq42R, x438cmbZ0m) << C2cJ6ikk0(QS_5fFb, A3wMH) << endl;
+cout << s_C8niNlJ5(QS_5fFb, -775573425, q5Rxg, (short)342548802, x438cmbZ0m) << s_C8niNlJ5(811563626, -761664735, q5Rxg, kaNEpq42R, x438cmbZ0m) << C2cJ6ikk0(QS_5fFb, A3wMH) << endl;
 }
 
 n622gPDH %= Ev3MFg;
@@ -238,7 +238,7 @@ else if ((IzlrHN) || (yr_ZO))
 {
 if (((IDCFv < MWu2E3) && (aKf3_xg6 == xKc9x7R7)) && (JDhOd == -1290711131))
 {
-A_bRtE726 = s_C8niNlJ5(B5K5v4C3_1, -19619998, -1734640152, -479099604, -1187640339);
+A_bRtE726 = s_C8niNlJ5(B5K5v4C3_1, -19619998, -1734640152, (short)-479099604, -1187640339);
 }
 else
 {
@@ -409,7 +409,7 @@ switch (si9MrjLY)
 {
 case 'a':
 case 'A':
-aHLBjga_gf = s_C8niNlJ5(1320739261, A3wMH, -2022976837, Z13X0, FLZIM);
+aHLBjga_gf = s_C8niNlJ5((short)1320739261, A3wMH, -2022976837, Z13X0, FLZIM);
 break;
 case 'b':
 case 'B':
@@ -421,7 +421,7 @@ aHLBjga_gf = s_C8niNlJ5(-773914784, faGTq, 1391287174, FLZIM, 890103314);
 break;
 case 'd':
 case 'D':
-aHLBjga_gf = s_C8niNlJ5(595428354, -385072910, -509918802, LJE77UKg, 557530423);
+aHLBjga_gf = s_C8niNlJ5((short)595428354, -385072910, -509918802, LJE77UKg, 557530423);
 break;
 case 'e':
 case 'E':
@@ -444,7 +444,7 @@ else if (EU07 == -232237437)
 {
 if (B1mD)
 {
-aHLBjga_gf = s_C8niNlJ5(1233587143, Z13X0, X553m_yH, -1940912302, 685051728);
+aHLBjga_gf = s_C8niNlJ5(1233587143, Z13X0, X553m_yH, (short)-1940912302, 685051728);
 }
 else
 {
@@ -601,7 +601,7 @@ if (Vd_j >= -1196507868)
 int k = 0;
 do
 {
-aHLBjga_gf = s_C8niNlJ5(-614202320, si9MrjLY, DrEg, 186722641, 614821862);
+aHLBjga_gf = s_C8niNlJ5(-614202320, si9MrjLY, DrEg, (short)186722641, 614821862);
 ++k;
 }
 while (k < 7);

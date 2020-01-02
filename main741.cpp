@@ -56,7 +56,7 @@ int main()
  unsigned long long K7pEiA;
  K7pEiA = -354675070;
 	unsigned char	fHj_kM;
-	fHj_kM	=	848147132;
+	fHj_kM	=	(unsigned char)848147132;
  unsigned long Am4s;
  Am4s = -944730549;
 	float	WGY11mLYsE;
@@ -171,7 +171,7 @@ case 1:
 V4fGn = bfskwo9();
 break;
 case 2:
-x7wRG = GoZAZ1CP(-1945206821, K7pEiA, 185849148, -274958943);
+x7wRG = GoZAZ1CP(-1945206821, K7pEiA, 185849148, (short)-274958943);
 break;
 case 3:
 fHj_kM = ZL7Uav4 + V4fGn;
@@ -200,7 +200,7 @@ if (dG0in < 1286324459)
 switch (ZL7Uav4)
 {
 case 'a':
-ObkM = S21t5741W(Ex12, JxnE5t74OI, 16733626, ObkM, 1143829218);
+ObkM = S21t5741W(Ex12, JxnE5t74OI, (short)16733626, ObkM, 1143829218);
 break;
 case 'b':
 I4lGmy = (int)ceil(tIM3C8s);
@@ -221,7 +221,7 @@ case 'g':
 WGY11mLYsE = (int)floor(lE1Rb3q_);
 break;
 case 'h':
-WGY11mLYsE = GoZAZ1CP(-435142874, V89ts0, q0H3, -685037807);
+WGY11mLYsE = GoZAZ1CP(-435142874, V89ts0, q0H3, (short)-685037807);
 break;
 case 'i':
 K7pEiA = GoZAZ1CP(WGY11mLYsE, -1278360717, q0H3, Xsu5f54u) >> 1779623498;
@@ -380,7 +380,7 @@ case 3:
 ObkM = S21t5741W(L0PH7b9_G, 902147044, mD029vWq, Am4s, -408134456);
 break;
 case 4:
-V1vB0OFz_p = S21t5741W(1220192844, 837774191, MzUf, 780244955, 474727805);
+V1vB0OFz_p = S21t5741W(1220192844, 837774191, MzUf, 780244955, (char)474727805);
 break;
 case 5:
 Y9up >>= g98e2sNCF8;
@@ -467,7 +467,7 @@ case 6:
 L0PH7b9_G = (int)ceil(nh27);
 break;
 case 7:
-b1gYMR = GoZAZ1CP(126998324, Ex12, Xsu5f54u, 1088546185) & gc3JB;
+b1gYMR = GoZAZ1CP(126998324, Ex12, Xsu5f54u, (short)1088546185) & gc3JB;
 break;
 }
 ZL7Uav4 = (unsigned long)(dG0in);
@@ -517,7 +517,7 @@ std::cout << WgoT3 << bfskwo9() << oI34W6 << S21t5741W(b1gYMR, -69325203, -49100
 int i = 0;
 do
 {
-std::cout << bfskwo9() << S21t5741W(b1gYMR, -534872702, 248168671, V89ts0, -199487792) << S21t5741W(448669269, 1910634261, Xsu5f54u, -1230481247, FUh0_S50g0) << bfskwo9() << "ApjXK_c7" << std::endl;
+std::cout << bfskwo9() << S21t5741W(b1gYMR, -534872702, (short)248168671, V89ts0, -199487792) << S21t5741W(448669269, 1910634261, Xsu5f54u, -1230481247, FUh0_S50g0) << bfskwo9() << "ApjXK_c7" << std::endl;
 i++;
 }
 while (i < 8);

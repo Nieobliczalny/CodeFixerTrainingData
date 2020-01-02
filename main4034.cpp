@@ -25,7 +25,7 @@ int main(int argc, char** argv)
   long  I0Khk9hM;
   I0Khk9hM  =  -10611354;
   char  gqf67v_M9;
-  gqf67v_M9  =  -233085204;
+  gqf67v_M9  =  (char)-233085204;
 	long long	ksTlQ_u;
 	ksTlQ_u	=	-952397643;
   unsigned long long  IRu3_usGc;

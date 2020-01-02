@@ -20,6 +20,7 @@ short int    nEda25pyOU(unsigned char    hx4_8);
 int main(int argc, char** argv)
 {
 	short	fBNH	=	0;
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
     unsigned short int    JXvXM    =    -1727250780,    NckLf_    =    1837299894,    ktT9    =    892245835,    wWkM    =    -204376282,    AGx0_    =    -587046484,    Wm269tE    =    2133920297,    xFXP9    =    1041854875,    n8d9_    =    -1503437084,    b28GA    =    767715087,    o4j1jR_I    =    1029911049,    XrDLCGqSC    =    -1918256626,    M8RW0    =    -2037436767,    t6tu93wie4    =    -980032800,    ZFrv    =    541762879,    p1CG424    =    45149562,    Hxi_3C6u    =    -1346514002,    g6CDxx9    =    -1405003043,    tFB49G_Yo    =    1831050628,    he2r62v7F    =    1599883375,    K_p1_tl7    =    -520477436,    s7c0f    =    1262122252,    S8eZXDz    =    1409835726,    Om1m4Y8f7A    =    276139475,    qEzF    =    2048221364,    z1q6_    =    -85748430,    I2OC4_s    =    -1200275176,    AEiV    =    -2074652718;
 
 for (int i = 0; i < 2; ++i)
@@ -98,7 +99,7 @@ case 'b':
 fBNH = nEda25pyOU(1274657106);
 break;
 case 'c':
-fBNH = nEda25pyOU(-168145581);
+fBNH = nEda25pyOU((unsigned char)-168145581);
 break;
 case 'd':
 fBNH = nEda25pyOU(-442763415);
@@ -113,7 +114,7 @@ case 'g':
 fBNH = nEda25pyOU(1808695463);
 break;
 case 'h':
-fBNH = nEda25pyOU(-2081074829);
+fBNH = nEda25pyOU((unsigned char)-2081074829);
 break;
 case 'i':
 ktT9--;
@@ -137,7 +138,7 @@ case 'c':
 NckLf_ >>= 682264932;
 break;
 default:
-fBNH = nEda25pyOU(770096301);
+fBNH = nEda25pyOU((unsigned char)770096301);
 break;
 }
 for (int i = 2; i >= 0; --i)
@@ -223,7 +224,7 @@ case 2:
 NckLf_ <<= xFXP9;
 break;
 case 3:
-JXvXM = (AGx0_ <= -1798708785) ? -1064812874 : 1965737537;
+JXvXM = (AGx0_ <= -1798708785) ? -1064812874 : (unsigned short)1965737537;
 break;
 case 4:
 ktT9 %= 278783038;
@@ -315,7 +316,7 @@ case 1:
 fBNH = nEda25pyOU(2007892852);
 break;
 case 2:
-fBNH = nEda25pyOU(1178189103);
+fBNH = nEda25pyOU((unsigned char)1178189103);
 break;
 case 3:
 fBNH = nEda25pyOU(-87537381);
@@ -360,7 +361,7 @@ case 2:
 S8eZXDz = qEzF ^ AEiV;
 break;
 case 3:
-fBNH = nEda25pyOU(-90625794);
+fBNH = nEda25pyOU((unsigned char)-90625794);
 break;
 case 4:
 z1q6_ = qEzF % Om1m4Y8f7A;

@@ -28,7 +28,7 @@ int main()
     long long    S_25L;
     S_25L    =    1142449177;
     short    tvD50qQQ;
-    tvD50qQQ    =    1972196293;
+    tvD50qQQ    =    (short)1972196293;
     short int    K4Nv_id83K;
     K4Nv_id83K    =    889341154;
   short  uW2P6cU;
@@ -48,7 +48,7 @@ int main()
  unsigned int s_w6n10E;
  s_w6n10E = -183541566;
     unsigned short    d78E5728_h;
-    d78E5728_h    =    742691767;
+    d78E5728_h    =    (unsigned short)742691767;
  char mT6T3v7;
  mT6T3v7 = 713298354;
     unsigned short int    i6z20YOilw;
@@ -70,7 +70,7 @@ int main()
  long long B6b3GI;
  B6b3GI = 422487004;
   short  w443H;
-  w443H  =  -1363878028;
+  w443H  =  (short)-1363878028;
  unsigned long long LX7OkM93Ap;
  LX7OkM93Ap = 1147067891;
     long double    lF5bW;
@@ -92,7 +92,7 @@ int main()
  int Q3ycWu967;
  Q3ycWu967 = -550858393;
  unsigned short int jD1qQIG1;
- jD1qQIG1 = 412855802;
+ jD1qQIG1 = (unsigned short)412855802;
   unsigned int  JJD_6zJ;
   JJD_6zJ  =  507419903;
     short    hwsP0;
@@ -104,7 +104,7 @@ int main()
   unsigned long long  JsRm;
   JsRm  =  -913088120;
 	char	eR4h;
-	eR4h	=	-400816625;
+	eR4h	=	(char)-400816625;
 	double	Tsll10;
 	Tsll10	=	1680798260;
 
@@ -127,7 +127,7 @@ try
 {
 if ((K4Nv_id83K == TtWe) || (d78E5728_h >= U165N27y))
 {
-c0hARxR7 = Om15wpK(c0hARxR7, B0b8Q3fl1, -752123022, 779915371, QSCNpknC4);
+c0hARxR7 = Om15wpK(c0hARxR7, B0b8Q3fl1, (short)-752123022, 779915371, QSCNpknC4);
 }
 else
 {
@@ -146,7 +146,7 @@ int j = 5;
 do
 {
 j--;
-Q_dW2X1Eqz = ZCILQv(2013539398, gEP94o, -2012174968);
+Q_dW2X1Eqz = ZCILQv(2013539398, gEP94o, (char)-2012174968);
 }
 while (j >= 0);
 }
@@ -264,7 +264,7 @@ i++;
 }
 }
 
-tvD50qQQ = ZCILQv(Uy2bf4, -2088075874, 74751538) / ZCILQv(Uy2bf4, 1175998202, -1634204041);
+tvD50qQQ = ZCILQv(Uy2bf4, -2088075874, (char)74751538) / ZCILQv(Uy2bf4, 1175998202, -1634204041);
 kh8JPdM9Z9 = ZCILQv(Uy2bf4, -746162499, 946605390) / 282300115;
 Q_dW2X1Eqz = ZCILQv(s563dRXv, -562316765, TtWe);
 
@@ -294,7 +294,7 @@ n5MOi55JLQ = (int)abs(U165N27y);
 break;
 case 'f':
 case 'F':
-Q_dW2X1Eqz = ZCILQv(-452788766, R3znOE87CP, -814146702);
+Q_dW2X1Eqz = ZCILQv(-452788766, R3znOE87CP, (char)-814146702);
 break;
 case 'g':
 case 'G':
@@ -332,7 +332,7 @@ U165N27y = (int)abs(hwsP0);
 }
 try
 {
-uW2P6cU = (Q_dW2X1Eqz) ? -2651912 : 1187738626;
+uW2P6cU = (Q_dW2X1Eqz) ? -2651912 : (short)1187738626;
 }
 catch (int& errorCode)
 {

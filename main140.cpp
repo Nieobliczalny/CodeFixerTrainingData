@@ -126,7 +126,7 @@ case 3:
 t6X2 = kO_Ag(qBGGz555, -1189938374, t6X2, 1755854424);
 break;
 case 4:
-t6X2 = Fn12TAHi(-1806978347, -11511332, 445576768, qBGGz555);
+t6X2 = Fn12TAHi(-1806978347, -11511332, (unsigned short)445576768, qBGGz555);
 break;
 case 5:
 t6X2 = V_4B();
@@ -250,7 +250,7 @@ t6X2 += t6X2;
 }
 }
 
-t6X2 = Fn12TAHi(-1150938246, Cus44oXawM, 277552891, s3lt);
+t6X2 = Fn12TAHi(-1150938246, Cus44oXawM, (unsigned short)277552891, s3lt);
 
 try
 {
@@ -376,7 +376,7 @@ case 1:
 t6X2 = V_4B();
 break;
 case 2:
-Cus44oXawM = NZNSeW1o9(-320434372, -1205167593, s3lt, 1407467150);
+Cus44oXawM = NZNSeW1o9(-320434372, -1205167593, s3lt, (unsigned short)1407467150);
 break;
 default:
 t6X2 /= s3lt;
@@ -444,6 +444,6 @@ unsigned int NZNSeW1o9(long long z0YWY5l6_x,char B7Ri0od,short q1To95MU,unsigned
 }
 
 unsigned short int    kO_Ag(unsigned short int    m4e_Qsq,unsigned short    RS_t,unsigned long long    Jrb1,long long    pmibYp622e)    {
-    return    -110030063;
+    return    (unsigned short)-110030063;
 }
 

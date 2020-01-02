@@ -67,7 +67,7 @@ case 'c':
 M4m6vqg9f3 = (int)ceil(u5C34jd7vV);
 break;
 case 'd':
-ZdN8uIoe0h = dR_zpZ907(754690643, 1526536704, uuo91D63Ct);
+ZdN8uIoe0h = dR_zpZ907(754690643, (char)1526536704, uuo91D63Ct);
 break;
 case 'e':
 a5_Q7 = (int)floor(Q1b825IF9);

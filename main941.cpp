@@ -33,6 +33,7 @@ int nMYpZ4w() {
 
 int main(int argc, char** argv)
 {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
 	short	Ut5YH8	=	-430626685,	ICCo	=	1912520812,	uIiei	=	-165861931,	SYK3kWwq1	=	-1016095855,	EwkPa_p7A	=	94013500,	yr89gWy3n	=	-377882854,	u50Nop5N	=	322291073,	x9BZf63	=	-403728234,	Bs07Lc	=	-1887979457,	L4jV1	=	-760995175,	HEzYYAZi	=	1309251249,	lLB_Z4C_	=	859227276,	LLb63_	=	-1971969417,	qkk7q	=	-260062019;
     unsigned short    BNm4_s    =    0;
 
@@ -220,7 +221,7 @@ case 3:
 BNm4_s = e_O5u0w(qkk7q, 478649196, 1884954717, -191856475);
 break;
 case 4:
-BNm4_s = e_O5u0w(x9BZf63, BNm4_s, yr89gWy3n, -1708480909);
+BNm4_s = e_O5u0w(x9BZf63, BNm4_s, yr89gWy3n, (unsigned short)-1708480909);
 break;
 case 5:
 lLB_Z4C_ = igywh();

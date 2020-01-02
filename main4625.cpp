@@ -25,7 +25,7 @@ int main(int argc, char** argv)
  char xOJiQ;
  xOJiQ = 0;
  short int uujpUDr;
- uujpUDr = 1130086336;
+ uujpUDr = (short)1130086336;
 	unsigned short	UV4KS_3f_;
 	UV4KS_3f_	=	-2101219424;
   unsigned int  XjhOuHn;
@@ -43,7 +43,7 @@ int main(int argc, char** argv)
     long double    D15NwOB;
     D15NwOB    =    -547884696;
     char    I109816;
-    I109816    =    1165131243;
+    I109816    =    (char)1165131243;
   long long  ZN3GH_K07w;
   ZN3GH_K07w  =  239341459;
   unsigned long  CwtGGkr;
@@ -55,7 +55,7 @@ int main(int argc, char** argv)
  double ABD8m69mS;
  ABD8m69mS = 371589736;
  unsigned short ZtVe_4KB;
- ZtVe_4KB = 536474380;
+ ZtVe_4KB = (unsigned short)536474380;
   long long  Mel3l_ri_9;
   Mel3l_ri_9  =  1849171074;
 	unsigned char	XDIgI5gm;
@@ -69,7 +69,7 @@ int main(int argc, char** argv)
     int    UT7ErTd_;
     UT7ErTd_    =    937814905;
     unsigned short int    g_wJS;
-    g_wJS    =    -1830139338;
+    g_wJS    =    (unsigned short)-1830139338;
 	long long	Dc1R_F1Lp;
 	Dc1R_F1Lp	=	0;
     double    YD122pZ03z;
@@ -79,7 +79,7 @@ int main(int argc, char** argv)
     unsigned int    nZSb8tu4;
     nZSb8tu4    =    -2069232987;
     unsigned char    lzb9ePX9;
-    lzb9ePX9    =    1583738820;
+    lzb9ePX9    =    (unsigned char)1583738820;
     int    G_LAgzW;
     G_LAgzW    =    -1472030968;
   unsigned int  Z7JUZf2P;
@@ -93,7 +93,7 @@ int main(int argc, char** argv)
  double i_1_1j2s_;
  i_1_1j2s_ = -693503739;
 	short	XF_mL6k8XB;
-	XF_mL6k8XB	=	-1941090228;
+	XF_mL6k8XB	=	(short)-1941090228;
  unsigned char enUuHmwAcd;
  enUuHmwAcd = 0;
   unsigned short int  FB3hugD;
@@ -103,7 +103,7 @@ int main(int argc, char** argv)
   unsigned long long  Je_3K81DxU;
   Je_3K81DxU  =  0;
  unsigned char aom6q;
- aom6q = -1564973475;
+ aom6q = (unsigned char)-1564973475;
  unsigned short t1wmF_SEg;
  t1wmF_SEg = 1035960216;
  unsigned long long h_ywRp9cIg;
@@ -115,7 +115,7 @@ int main(int argc, char** argv)
 	unsigned short int	ga368VyZJ;
 	ga368VyZJ	=	-194932620;
 	short	rHQ74NF3E4;
-	rHQ74NF3E4	=	-1521250848;
+	rHQ74NF3E4	=	(short)-1521250848;
  char Mv2IWFd;
  Mv2IWFd = -483704255;
 	double	h8ryRQ;

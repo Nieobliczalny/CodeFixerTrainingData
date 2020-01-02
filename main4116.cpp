@@ -194,7 +194,7 @@ case 1:
 HvDFRK_n %= F493f1XEou;
 break;
 case 2:
-H_h6 = dlNe3P7(357999070, vt99aT);
+H_h6 = dlNe3P7((unsigned short)357999070, vt99aT);
 break;
 case 3:
 v8uxyfwhr = skLkWyc | 1549315202;
@@ -298,7 +298,7 @@ case 'D':
 l5KxNe = F2_YZbc3(156927192, -275687174, F493f1XEou, SdhAV);
 break;
 default:
-VjrVr = dlNe3P7(-352672942, -346929316);
+VjrVr = dlNe3P7((unsigned short)-352672942, -346929316);
 break;
 }
 }

@@ -126,7 +126,7 @@ j++;
 for (int i = O4yKgG13; i < 198; i++)
 {
 q9zfg = m771V / uB7V(O4yKgG13, 541164900, -447332693);
-	c1d7Gf = uB7V(O4yKgG13, ZX0u2, 945205532) / i;
+	c1d7Gf = uB7V(O4yKgG13, ZX0u2, (unsigned short)945205532) / i;
 try
 {
 {

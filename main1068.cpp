@@ -19,7 +19,7 @@ int main(void) {
   unsigned short  Lm9V  =  1137555444;
     long    SVB6ZxWu    =    350300792;
 	double	TvS5M	=	-2109286517;
-	short int	m89rp	=	-338760489;
+	short int	m89rp	=	(short)-338760489;
 	unsigned long	c_0bUr6	=	-35435020;
 	unsigned long	Bma8a_v3	=	-2065309470;
  unsigned long long nb8T_x = -458713552;
@@ -641,7 +641,7 @@ if (Vs6C <= rDw8_sieZ)
 switch (c_0bUr6)
 {
 case 0:
-o25S4M5GOr = jhYky1dhg2(-514871079, -541049293);
+o25S4M5GOr = jhYky1dhg2((short)-514871079, -541049293);
 break;
 case 1:
 Bma8a_v3 >>= 1287388292;

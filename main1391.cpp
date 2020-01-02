@@ -29,7 +29,7 @@ int main()
 	short int	i3Kvc98	=	-43540108;
   unsigned int  OkR5P40a  =  959962860;
  unsigned long Hw0H93wJ__ = 1989819909;
-	short	XAL2	=	642850346;
+	short	XAL2	=	(short)642850346;
 
 {
 int i = 0;
@@ -57,7 +57,7 @@ try
 {
 if (nbcMiSd <= -633348734)
 {
-XAL2 = Yk_TNR_(Uo_3, 1362077128, -1221979644, 1037719553, -278353303);
+XAL2 = Yk_TNR_(Uo_3, 1362077128, -1221979644, 1037719553, (unsigned short)-278353303);
 }
 else if ((i3Kvc98 == -1915568815) || ((Uo_3 > 363765716) || (XAL2 != Uo_3)))
 {
@@ -118,7 +118,7 @@ dnyQM3Y1 *= 833409307;
 break;
 }
 
-cout << Hw0H93wJ__ << OkR5P40a << T2EIpDXU(OkR5P40a, XAL2) << dQ2p8(-118885023, -237604867, -666147836, Hw0H93wJ__) << endl;
+cout << Hw0H93wJ__ << OkR5P40a << T2EIpDXU(OkR5P40a, XAL2) << dQ2p8(-118885023, -237604867, (char)-666147836, Hw0H93wJ__) << endl;
 OkR5P40a = (unsigned int)(EqEV4);
 OkR5P40a = Yk_TNR_(OkR5P40a, 430802662, 1690060606, EqEV4, -2089850646);
 for (int i = 0; i < 10; ++i)
@@ -142,7 +142,7 @@ for (int j = 5; j >= 0; --j)
 {
 for (int k = 0; k < 5; ++k)
 {
-Hw0H93wJ__ = T2EIpDXU(-823872811, -952992395);
+Hw0H93wJ__ = T2EIpDXU(-823872811, (short)-952992395);
 }
 }
 }
@@ -219,7 +219,7 @@ case 2:
 i3Kvc98 = T2EIpDXU(Uo_3, i3Kvc98);
 break;
 }
-dnyQM3Y1 = Uo_3 / X8Sxx(894066043, i3Kvc98);
+dnyQM3Y1 = Uo_3 / X8Sxx((char)894066043, i3Kvc98);
 
 {
 int i = 0;

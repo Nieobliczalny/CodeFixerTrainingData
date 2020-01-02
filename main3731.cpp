@@ -26,7 +26,7 @@ int main(void) {
     long    f6Bn9mvULK    =    1372946930;
   long long  IJSlfU9_  =  846928732;
 	unsigned long	G8d54	=	-63360461;
- unsigned short FqkCvm = -2095673043;
+ unsigned short FqkCvm = (unsigned short)-2095673043;
     short    x2NrQ    =    -1954498054;
  long C_OU5WR = -633785704;
 	long	GM0hbv7	=	0;
@@ -198,7 +198,7 @@ break;
 
 if (HLm86Q05c(-1441743561, -262216318) == 0)
 {
-	G8d54 = G8d54 / HLm86Q05c(-1441743561, -262216318);
+	G8d54 = G8d54 / HLm86Q05c((short)-1441743561, -262216318);
 }
 
 for (int i = 8; i >= 0; i--)

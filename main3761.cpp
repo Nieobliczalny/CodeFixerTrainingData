@@ -44,7 +44,7 @@ int main()
  unsigned long long G_Jr1yMIdj = -298651195;
   float  Os9l23B  =  353507293;
   long double  q0A334p8  =  140770156;
-	short	HAI9214	=	437184185;
+	short	HAI9214	=	(short)437184185;
 	unsigned char	haa0	=	1846450899;
 	int	Ba05nwZA7	=	-1296188614;
 	long	w380Wqs_	=	0;
@@ -57,7 +57,7 @@ int main()
  unsigned long DpFJ276X = -927617974;
   long double  qleCxxC  =  -233693915;
 	unsigned short	ll647	=	-302917808;
- short int NEINcI8b4 = 1673866856;
+ short int NEINcI8b4 = (short)1673866856;
   unsigned long long  I63_5LVB7_  =  0;
 	unsigned short	g8a94Zm3lw	=	1688387380;
  long m0bO71v = 1232519713;
@@ -68,7 +68,7 @@ int main()
     unsigned int    zl63NkvC    =    -1008629832;
   long long  YyYDGX  =  540146846;
 	short	p90GetG	=	-1512578662;
-  unsigned short int  xxQ6lpTo1  =  -471212452;
+  unsigned short int  xxQ6lpTo1  =  (unsigned short)-471212452;
     short int    OTrvMHqr7S    =    -666106298;
 	unsigned short int	uZi6W5WF7	=	-1422585158;
     long long    li2_ya    =    -523186072;
@@ -83,7 +83,7 @@ int main()
 	unsigned int	A__c	=	33122876;
     unsigned int    sr74l    =    -616207756;
 	double	T9I_6ox	=	-413203590;
-  unsigned short  Xys9370In1  =  -2003299758;
+  unsigned short  Xys9370In1  =  (unsigned short)-2003299758;
  long OMn9 = 0;
   double  OLvr  =  -867424959;
   int  F8ON9i_k6  =  -1700924194;
@@ -94,7 +94,7 @@ int main()
 	unsigned short int	OBJH2	=	-473435011;
   unsigned short int  bZAfR2_61K  =  -1665293095;
   double  daGEH9  =  1703413458;
-	unsigned short int	mGtA3D	=	-1780472295;
+	unsigned short int	mGtA3D	=	(unsigned short)-1780472295;
     long long    zF_HxwY7    =    -114367570;
 	long	StYLW1	=	-1208853686;
 	short	SNa0tJ	=	1189222203;
@@ -112,7 +112,7 @@ int main()
  long double wIYR = 1970962835;
  unsigned int GvY6D5J884 = 1056782803;
 	float	YN6F12C87	=	-21711066;
-    unsigned char    xF_4BfMV2    =    1604071629;
+    unsigned char    xF_4BfMV2    =    (unsigned char)1604071629;
  unsigned int M20m6F4H1s = 1989967390;
 	int	Sx6lj3S	=	747495343;
     int    y1_jMgH    =    -1525291590;

@@ -147,7 +147,7 @@ else if (F2s2Q84B1 != c_56C9)
 {
 if (F246vRlyH > XsRyr)
 {
-c_IwqQx = Bt4_D9(c_IwqQx, 1410436064, vqu0);
+c_IwqQx = Bt4_D9(c_IwqQx, (char)1410436064, vqu0);
 }
 else if (W67JVu_r & 787129388)
 {

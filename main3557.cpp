@@ -136,7 +136,7 @@ int i = 0;
 while (i < 7)
 {
 i++;
-cout << f1bFg38v(1001941638) << "hGGQ2Ijgd1" << "RY8niB9nB0" << "bzVn6_xv49" << X155YOR(-2042557170, -421347447) << endl;
+cout << f1bFg38v(1001941638) << "hGGQ2Ijgd1" << "RY8niB9nB0" << "bzVn6_xv49" << X155YOR((unsigned short)-2042557170, -421347447) << endl;
 }
 }
 U9f_u_ = M2_5N / vnd0m();
@@ -159,7 +159,7 @@ case 'd':
 Ytl_6O /= m0U3Wf8Dr;
 break;
 case 'e':
-N4EdQI = X155YOR(-2135269316, 878554771);
+N4EdQI = X155YOR((unsigned short)-2135269316, 878554771);
 break;
 case 'f':
 n70XHfj4u = (int)floor(oT_td);
@@ -216,7 +216,7 @@ case 8:
 oT_td = f1bFg38v(-2127327328);
 break;
 case 9:
-Dg1B = f1bFg38v(-465843562);
+Dg1B = f1bFg38v((char)-465843562);
 break;
 default:
 AplF4t5 = (int)floor(Fm1906tx9_);
@@ -304,7 +304,7 @@ o2_d7BT0H = f1bFg38v(-27017814);
 
 if (lioc != -1453389688)
 {
-cout << X155YOR(o2_d7BT0H, -1626400062) << f1bFg38v(404801090) << f1bFg38v(1879971656) << "kK6U40f6Vm" << f1bFg38v(o2_d7BT0H) << endl;
+cout << X155YOR(o2_d7BT0H, (char)-1626400062) << f1bFg38v(404801090) << f1bFg38v(1879971656) << "kK6U40f6Vm" << f1bFg38v(o2_d7BT0H) << endl;
 }
 else if (s7VIy >= -698003375)
 {
@@ -359,7 +359,7 @@ BD__T_0x9 = vnd0m();
 break;
 case 'e':
 case 'E':
-Q7zgNP340 = f1bFg38v(400189485);
+Q7zgNP340 = f1bFg38v((char)400189485);
 break;
 default:
 BD__T_0x9 = vnd0m();

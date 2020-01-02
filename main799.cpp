@@ -27,7 +27,7 @@ int main(int argc, char** argv) {
   unsigned int  cAt64utMs  =  -790158330;
     float    HL8VOnmeD7    =    -1158790442;
 	int	k12Qjj_	=	-41631616;
-	short int	QtVMT3WP	=	1557607440;
+	short int	QtVMT3WP	=	(short)1557607440;
 	short int	QkAWig_	=	1543860019;
     short    ug9CH58m    =    -249794294;
     unsigned long    KM2J7_38    =    293695021;
@@ -37,7 +37,7 @@ int main(int argc, char** argv) {
   double  ON8iEI124R  =  662286772;
   int  BgA0  =  0;
  long x64_ = -1945092017;
-  unsigned short  GDKE7_3i  =  1778064783;
+  unsigned short  GDKE7_3i  =  (unsigned short)1778064783;
   long long  gE_zYfZg  =  -1879212317;
     unsigned char    r_JErQU0ny    =    1436738621;
     unsigned long    mSh_Eky2    =    -1150425260;
@@ -47,7 +47,7 @@ int main(int argc, char** argv) {
     unsigned long    uPsH7    =    -2041887062;
  unsigned int Ibdq_S5 = 561471699;
     unsigned short int    WccWJe    =    2001827050;
-    short    nC8Tf4iP8    =    -1560284343;
+    short    nC8Tf4iP8    =    (short)-1560284343;
   char  KhNm_9_tYj  =  -224374479;
 
 switch (mSh_Eky2)
@@ -541,7 +541,7 @@ ug9CH58m = J6pbwapg0(896129539);
 }
 else if (x64_ >= QTjTm)
 {
-BgA0 = eAKz6(F1FQ27A95V, -199797725);
+BgA0 = eAKz6(F1FQ27A95V, (unsigned char)-199797725);
 }
 else if (bm9W <= -34712363)
 {
@@ -671,7 +671,7 @@ case 'F':
 oT33__ = J6pbwapg0(1116071641);
 break;
 default:
-GDKE7_3i = J6pbwapg0(678183893);
+GDKE7_3i = J6pbwapg0((unsigned char)678183893);
 break;
 }
 switch (WccWJe)

@@ -27,7 +27,7 @@ unsigned long	vIWCkS(long long	Acz4NSUp)	{
 }
 
 short gmHk289() {
- return -1960566248;
+ return (short)-1960566248;
 }
 
 unsigned long    m_PGz_z()

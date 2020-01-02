@@ -35,7 +35,7 @@ unsigned long  VaqZhp_2hj(short int  DTBc_Qaux,unsigned int  to0nikMM)
 int main(int argc, char** argv)
 {
   short int  u69G3n3j_  =  -999622465;
-	short	h03si	=	-253876908;
+	short	h03si	=	(short)-253876908;
     unsigned long    Wemr4pa    =    809737652;
     unsigned int    I8e_dXW6Y    =    0;
  long long b5vPnpL_ = 0;
@@ -48,7 +48,7 @@ int main(int argc, char** argv)
 	double	Th4_VLCN_	=	-603669015;
     unsigned long long    Z84w    =    175892299;
   char  OAHGALs2V  =  355174937;
-	short int	PY3tUOp_Xi	=	-1420789643;
+	short int	PY3tUOp_Xi	=	(short)-1420789643;
     unsigned short    JWm17cO    =    1603037706;
   unsigned long long  j20h0  =  -970048322;
 	double	a1VLmrVo	=	1750305481;

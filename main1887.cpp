@@ -190,7 +190,7 @@ QwHGEp = KjPz6M472(tv1yjI, -513592367);
 break;
 case 'c':
 case 'C':
-z1p1i = KjPz6M472(800034227, 1966382398);
+z1p1i = KjPz6M472(800034227, (short)1966382398);
 break;
 case 'd':
 case 'D':
@@ -223,7 +223,7 @@ QwHGEp = KjPz6M472(-762687747, AMMy);
 break;
 case 'e':
 case 'E':
-z1p1i = KjPz6M472(-1442435097, -1435420983);
+z1p1i = KjPz6M472(-1442435097, (short)-1435420983);
 break;
 case 'f':
 case 'F':
@@ -264,7 +264,7 @@ QwHGEp = KjPz6M472(2072724834, 1517933103);
 break;
 case 'e':
 case 'E':
-z1p1i = KjPz6M472(y2vypJT, -708342274);
+z1p1i = KjPz6M472(y2vypJT, (short)-708342274);
 break;
 case 'f':
 case 'F':
@@ -448,7 +448,7 @@ for (int i = 0; i < 9; i++)
 {
 for (int j = 0; j < 5; ++j)
 {
-std::cout << "pYkGg0hq5" << "bPl5iH4" << KjPz6M472(354845628, -1023071796) << std::endl;
+std::cout << "pYkGg0hq5" << "bPl5iH4" << KjPz6M472(354845628, (short)-1023071796) << std::endl;
 }
 }
 {
@@ -572,7 +572,7 @@ b0_s89H = (int)abs(Q3cZM_jR);
 }
 else
 {
-std::cout << KjPz6M472(Df3T, 1164417216) << pq6aA4ZIR5 << "MF04115rb" << KjPz6M472(Df3T, -1547530762) << KjPz6M472(-768973723, -859109712) << std::endl;
+std::cout << KjPz6M472(Df3T, 1164417216) << pq6aA4ZIR5 << "MF04115rb" << KjPz6M472(Df3T, (short)-1547530762) << KjPz6M472(-768973723, -859109712) << std::endl;
 }
 --i;
 }

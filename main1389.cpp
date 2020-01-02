@@ -100,7 +100,7 @@ case 5:
 Ac8NBoOhw++;
 break;
 case 6:
-r2DyLxL = Omkf9vY(505979693);
+r2DyLxL = Omkf9vY((char)505979693);
 break;
 }
 }
@@ -132,7 +132,7 @@ int i = 5;
 while (i >= 0)
 {
 --i;
-std::cout << Omkf9vY(1778686546) << HW7nK << "kUc5OM" << "XrM0_Aw_sL" << Omkf9vY(-1451937967) << std::endl;
+std::cout << Omkf9vY(1778686546) << HW7nK << "kUc5OM" << "XrM0_Aw_sL" << Omkf9vY((char)-1451937967) << std::endl;
 }
 }
 
@@ -196,7 +196,7 @@ case 1:
 r2DyLxL = Omkf9vY(-1455615384);
 break;
 case 2:
-r2DyLxL = Omkf9vY(-1298871807);
+r2DyLxL = Omkf9vY((char)-1298871807);
 break;
 case 3:
 P86w_73Kx = r2DyLxL & I7e64fS;
@@ -299,7 +299,7 @@ case 4:
 c824 -= 832148803;
 break;
 case 5:
-E67m6_cfxy = Omkf9vY(-109388361);
+E67m6_cfxy = Omkf9vY((char)-109388361);
 break;
 case 6:
 E67m6_cfxy = Omkf9vY(-1123149949);
@@ -518,7 +518,7 @@ case 4:
 xI4q874P2i = r3M8Mo_Jg_ >> P86w_73Kx;
 break;
 case 5:
-E67m6_cfxy = Omkf9vY(-1669556501);
+E67m6_cfxy = Omkf9vY((char)-1669556501);
 break;
 case 6:
 ffWR0Q = Omkf9vY(DnB0NpzHcN);
@@ -547,7 +547,7 @@ case 'a':
 ffWR0Q = Omkf9vY(1641916252);
 break;
 case 'b':
-H3v8E76ruB = Omkf9vY(-1008118168);
+H3v8E76ruB = Omkf9vY((char)-1008118168);
 break;
 case 'c':
 a__7kZQnd--;

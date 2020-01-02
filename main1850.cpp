@@ -18,7 +18,7 @@ short	x2czfw(unsigned short int	G6_Z3q7n,unsigned short int	P_5OUITp,unsigned sh
 
 short sKRSH7Kful()
 {
- return 1891073897;
+ return (short)1891073897;
 }
 
 int main()
@@ -120,7 +120,7 @@ SiEvSKjeGI = GRQXp0pD();
 i--;
 }
 }
-std::cout << vI80g << MW8z << x2czfw(SiEvSKjeGI, -790314210, -319822033) << puLrd9m << "xeV04q" << std::endl;
+std::cout << vI80g << MW8z << x2czfw(SiEvSKjeGI, -790314210, (unsigned short)-319822033) << puLrd9m << "xeV04q" << std::endl;
 if ((mu9fFT != 839002870) && (s66Hw_KUUr < -179692572))
 {
 if (puLrd9m)
@@ -215,7 +215,7 @@ else
 switch (JEzX_UQ)
 {
 case 'a':
-czRd = x2czfw(1992174367, FD6vhY23, -2023348515);
+czRd = x2czfw(1992174367, FD6vhY23, (unsigned short)-2023348515);
 break;
 default:
 czRd = SiEvSKjeGI << jlFl54chtK;

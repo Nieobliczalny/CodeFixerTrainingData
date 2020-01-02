@@ -74,7 +74,7 @@ for (int i = 0; i < 6; ++i)
 uJ2USUcpLz |= jdB7AC0_0;
 }
 
-std::cout << "T_yG_i8lD_" << jlysK892Z(eg3B, -2138288509, 14134798, -2012672339, M_23pVW_e9) << fsTPCM1 << G48ZB2Yza() << o36LMG << std::endl;
+std::cout << "T_yG_i8lD_" << jlysK892Z(eg3B, -2138288509, 14134798, (char)-2012672339, M_23pVW_e9) << fsTPCM1 << G48ZB2Yza() << o36LMG << std::endl;
 for (int i = 0; i < 10; ++i)
 {
 if (Ab6yJw_1r)
@@ -118,7 +118,7 @@ z3BPaEdHYD = (int)abs(gPkA1r_l3);
 }
 else if (mQ7A_Tc < M1qGHIhL8q)
 {
-R47a7xs4 = KTjWZ48(-1757981341, 293265781, 1660624346, Hf05eIFMyw);
+R47a7xs4 = KTjWZ48(-1757981341, (short)293265781, 1660624346, Hf05eIFMyw);
 }
 else if ((Ab6yJw_1r != mQ7A_Tc) || ((Ab6yJw_1r < pN9Hdva5_) && (fsTPCM1 == -554307501)))
 {
@@ -138,7 +138,7 @@ else if (eg3B < rX6s8zjRe_)
 {
 try
 {
-std::cout << KTjWZ48(1794538251, uJ2USUcpLz, 1687756450, MR52y4xN) << MR52y4xN << jlysK892Z(1066213243, uJ2USUcpLz, 409103856, MR52y4xN, -1073918750) << "rJxtHYje" << "H5zut" << std::endl;
+std::cout << KTjWZ48(1794538251, uJ2USUcpLz, 1687756450, MR52y4xN) << MR52y4xN << jlysK892Z(1066213243, uJ2USUcpLz, (char)409103856, MR52y4xN, -1073918750) << "rJxtHYje" << "H5zut" << std::endl;
 }
 catch (int& errorCode)
 {
@@ -160,7 +160,7 @@ R47a7xs4 = KTjWZ48(-155638708, JT5Z5, 1368239200, Y4zL1TvSY);
 break;
 case 'b':
 case 'B':
-R47a7xs4 = KTjWZ48(gPkA1r_l3, 1157649598, 674759374, M_23pVW_e9);
+R47a7xs4 = KTjWZ48(gPkA1r_l3, (short)1157649598, 674759374, M_23pVW_e9);
 break;
 case 'c':
 case 'C':

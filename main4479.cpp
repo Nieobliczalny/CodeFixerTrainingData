@@ -23,7 +23,7 @@ int main() {
     long long    tQPCS    =    -892655875;
  int EQYoO0W1 = -1309580189;
   short int  yrbd6K0  =  -1439893288;
-	short int	V3cR	=	2078753187;
+	short int	V3cR	=	(short)2078753187;
 	unsigned long	ZrFIHt58j	=	915850896;
  unsigned long AYG5sj = 370731779;
  unsigned long R43R = 924477967;
@@ -37,7 +37,7 @@ int main() {
 	unsigned short int	BrR5	=	1239537783;
 	long	xcnJ	=	-50064747;
     long long    m__8A1d    =    1616697728;
-  unsigned char  p7571zs  =  -1498164276;
+  unsigned char  p7571zs  =  (unsigned char)-1498164276;
  unsigned short UY_K6 = -1070412645;
 
 D6cS2fz5 = (int)ceil(k80G7I5_);
@@ -111,7 +111,7 @@ V3cR = (short int)(p7571zs);
 
 cout << sP750 << AYG5sj << "iix0Rn8" << endl;
 
-Y90h2k8VpV = shm0RK6t(-1281067700, 104014440);
+Y90h2k8VpV = shm0RK6t(-1281067700, (unsigned char)104014440);
 return 0;
 }
 

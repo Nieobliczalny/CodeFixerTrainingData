@@ -12,7 +12,7 @@
 int main(int argc, char** argv) {
     unsigned short    kp81n6p1,    dcRgcRTT,    q_5Lt8qGo,    Ql3zoZ_r,    du0a6nlQz0,    CpXi,    K8xB_J52pA,    J9wY,    w9U7jov81,    Edc4,    MS5U5r,    y9V84,    XQdx3,    o8a5KTS,    ZhG19wV7;
     kp81n6p1    =    972911212;
-    dcRgcRTT    =    -1363668378;
+    dcRgcRTT    =    (unsigned short)-1363668378;
     q_5Lt8qGo    =    -1631699966;
     Ql3zoZ_r    =    1819448592;
     du0a6nlQz0    =    -1799762045;
@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
     w9U7jov81    =    -1906441278;
     Edc4    =    1979779421;
     MS5U5r    =    -1335124701;
-    y9V84    =    -1415065052;
+    y9V84    =    (unsigned short)-1415065052;
     XQdx3    =    -11176939;
     o8a5KTS    =    -1748259546;
     ZhG19wV7    =    -1902293527;
@@ -41,7 +41,7 @@ case 'b':
 XQdx3 = dcRgcRTT ^ 1332630051;
 break;
 case 'c':
-MS5U5r = (ZhG19wV7 <= 1265875187) ? -412018897 : 265301379;
+MS5U5r = (ZhG19wV7 <= 1265875187) ? -412018897 : (unsigned short)265301379;
 break;
 case 'd':
 CpXi = YrQk9fF * 327343786;

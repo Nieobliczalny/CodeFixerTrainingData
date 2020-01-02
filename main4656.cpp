@@ -13,7 +13,7 @@ int main(int argc, char** argv) {
  short Lxfk7Nyv;
  Lxfk7Nyv = -487614288;
   unsigned short  x58_h98S4X;
-  x58_h98S4X  =  -1917855113;
+  x58_h98S4X  =  (unsigned short)-1917855113;
   short int  dF14I6Q;
   dF14I6Q  =  2038108781;
     unsigned long    tAxh_xIf;
@@ -27,7 +27,7 @@ int main(int argc, char** argv) {
 	long long	PHZjFNR;
 	PHZjFNR	=	-67441654;
 	char	sX6H2rPog;
-	sX6H2rPog	=	-1800102892;
+	sX6H2rPog	=	(char)-1800102892;
 	long long	OimOjKU;
 	OimOjKU	=	1898364921;
   short int  qq_Cy;
@@ -49,7 +49,7 @@ int main(int argc, char** argv) {
     unsigned long    o5pyPg;
     o5pyPg    =    -1096871940;
   short int  ylV4;
-  ylV4  =  -975539605;
+  ylV4  =  (short)-975539605;
   long long  o3_L96;
   o3_L96  =  -348575971;
 	short int	hN3V_1O_;
@@ -59,7 +59,7 @@ int main(int argc, char** argv) {
     unsigned short    gf1yHs5j;
     gf1yHs5j    =    -1918783655;
     unsigned char    Au84;
-    Au84    =    -158516313;
+    Au84    =    (unsigned char)-158516313;
   float  Jr7ByQ84;
   Jr7ByQ84  =  1344599428;
  unsigned short int GCAym8jeZ;
@@ -71,7 +71,7 @@ int main(int argc, char** argv) {
   unsigned int  R5X2;
   R5X2  =  290505842;
 	short int	r2_E9_H;
-	r2_E9_H	=	-1150534838;
+	r2_E9_H	=	(short)-1150534838;
     long double    jZK4oj0M8;
     jZK4oj0M8    =    2006531611;
 	unsigned long long	Tj2Re6R7q;
@@ -101,7 +101,7 @@ int main(int argc, char** argv) {
  long yeJovag_J;
  yeJovag_J = -1591697219;
   unsigned short  AbhZcbb337;
-  AbhZcbb337  =  -1859441720;
+  AbhZcbb337  =  (unsigned short)-1859441720;
 	float	YMdvhdNR;
 	YMdvhdNR	=	923879199;
   unsigned short  nBpJ7GyT3;
@@ -119,7 +119,7 @@ int main(int argc, char** argv) {
   unsigned char  S2Clilgm;
   S2Clilgm  =  -863154805;
  unsigned char gbeG4T;
- gbeG4T = -152506870;
+ gbeG4T = (unsigned char)-152506870;
 	float	g_hb;
 	g_hb	=	1124259941;
   long long  vTfX;
@@ -141,7 +141,7 @@ int main(int argc, char** argv) {
     unsigned short int    cuTj34O;
     cuTj34O    =    285160501;
   unsigned short int  bIAh9R;
-  bIAh9R  =  1145790418;
+  bIAh9R  =  (unsigned short)1145790418;
   unsigned int  U9n3L;
   U9n3L  =  -88681196;
   int  bM4i5;

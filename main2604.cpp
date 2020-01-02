@@ -29,7 +29,7 @@ catch (int& errorCode)
 {
 DC1y = jtrw(730175344, 468041963, -949066746, 2020018575);
 }
-std::cout << Juj_(E7IHXC8C, -847224396) << Juj_(-428657769, DC1y) << "T5ee" << Juj_(E7IHXC8C, DC1y) << sIYqEx6P23 << std::endl;
+std::cout << Juj_(E7IHXC8C, -847224396) << Juj_((short)-428657769, DC1y) << "T5ee" << Juj_(E7IHXC8C, DC1y) << sIYqEx6P23 << std::endl;
 if (fGOZ < -1408929842)
 {
 if ((QI0VkZ_) || ((DC1y) || (IRs63C != -1762500247)))
@@ -55,7 +55,7 @@ j++;
 while (j < 9);
 }
 }
-std::cout << Juj_(lco94_, -1432960412) << dxBAM_l << Juj_(-1761424825, -384254812) << E7IHXC8C << std::endl;
+std::cout << Juj_(lco94_, -1432960412) << dxBAM_l << Juj_((short)-1761424825, -384254812) << E7IHXC8C << std::endl;
 
 qTM4tTo = (int)ceil(kkU9_);
 std::cout << jtrw(-365346322, -1377812336, 36027383, ANeXa) << "xzB282kJ" << "N_6NXAOQQR" << std::endl;
@@ -65,7 +65,7 @@ if (o5jmCphfI & 1497603471)
 {
 try
 {
-fGOZ = jtrw(782165130, 670301406, -1798275548, 1813913529);
+fGOZ = jtrw(782165130, 670301406, (short)-1798275548, 1813913529);
 }
 catch (int& errorCode)
 {
@@ -239,7 +239,7 @@ QI0VkZ_ = Juj_(-455459471, IhOh2wqG0r);
 }
 else if (DC1y != 958950656)
 {
-NwH6n = jtrw(1805466329, 348255477, 1947399488, D9gDa);
+NwH6n = jtrw(1805466329, (unsigned short)348255477, 1947399488, D9gDa);
 }
 else
 {
@@ -268,7 +268,7 @@ Mu5_D8Uc = (qTM4tTo != 2017354870) ? -18918515 : -1071307621;
 }
 else if (sIYqEx6P23 > Ta5no7tZe7)
 {
-std::cout << "Mj_470M0x" << Juj_(-1440649160, -468704374) << std::endl;
+std::cout << "Mj_470M0x" << Juj_(-1440649160, (unsigned char)-468704374) << std::endl;
 }
 else if (ErApfS)
 {
@@ -278,7 +278,7 @@ else
 {
 for (int j = 10; j >= 0; j--)
 {
-ErApfS = jtrw(ErApfS, 257498658, -1970784999, -20981090);
+ErApfS = jtrw(ErApfS, 257498658, (short)-1970784999, -20981090);
 }
 }
 return 0;

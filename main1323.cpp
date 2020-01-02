@@ -32,7 +32,7 @@ int main(int argc, char** argv)
 	long long	d9CHJmF;
 	d9CHJmF	=	-1334994985;
     char    dmQnX1a;
-    dmQnX1a    =    1977328267;
+    dmQnX1a    =    (char)1977328267;
  float AvM_;
  AvM_ = 947444722;
 	short int	n31O698;
@@ -42,7 +42,7 @@ int main(int argc, char** argv)
  double SG6Pqy;
  SG6Pqy = -2042643493;
  unsigned char qTFktOq_A_;
- qTFktOq_A_ = 1652923627;
+ qTFktOq_A_ = (unsigned char)1652923627;
 	float	xX0nu7rG4v;
 	xX0nu7rG4v	=	-484666058;
   unsigned short int  g47F6;
@@ -56,7 +56,7 @@ int main(int argc, char** argv)
   unsigned char  Rab8e1V6c6;
   Rab8e1V6c6  =  -441316529;
 	unsigned char	f9xLw4FS05;
-	f9xLw4FS05	=	958803348;
+	f9xLw4FS05	=	(unsigned char)958803348;
 	unsigned short int	Fu0GJ3Pzg;
 	Fu0GJ3Pzg	=	947666836;
     char    RK205mR;
@@ -70,7 +70,7 @@ int main(int argc, char** argv)
  long QvllCd;
  QvllCd = -2071431430;
   short int  ou7SP57L0q;
-  ou7SP57L0q  =  -901673381;
+  ou7SP57L0q  =  (short)-901673381;
     unsigned short    lXKiP2Q;
     lXKiP2Q    =    1551540050;
     int    j1hv;
@@ -114,7 +114,7 @@ int main(int argc, char** argv)
  long long pKZ9;
  pKZ9 = -1977418194;
     unsigned short int    d75L;
-    d75L    =    1429292211;
+    d75L    =    (unsigned short)1429292211;
     unsigned char    eXu2Lz9k_M;
     eXu2Lz9k_M    =    -1589079446;
     unsigned char    tPtc2CEr0;
@@ -148,7 +148,7 @@ int main(int argc, char** argv)
     int    QsF4z;
     QsF4z    =    769253256;
     unsigned short    tUjj;
-    tUjj    =    -1901401028;
+    tUjj    =    (unsigned short)-1901401028;
     unsigned long long    qwjg;
     qwjg    =    -754632700;
 	unsigned long long	JT541w6d;
@@ -174,7 +174,7 @@ int main(int argc, char** argv)
 	unsigned short int	tuhVz;
 	tuhVz	=	-58880009;
   unsigned char  b0aa4;
-  b0aa4  =  78359971;
+  b0aa4  =  (unsigned char)78359971;
   char  Rn0Li2K;
   Rn0Li2K  =  -1147606892;
 	long double	srsY;
@@ -188,7 +188,7 @@ int main(int argc, char** argv)
  long long Rz4F;
  Rz4F = 448267252;
 	short int	ri33;
-	ri33	=	-1556105433;
+	ri33	=	(short)-1556105433;
  short int zQtMfYt2g1;
  zQtMfYt2g1 = 197986844;
 	unsigned short int	qrhstHflV;
@@ -439,7 +439,7 @@ n9_8Cr = SHbW(-1970024585);
 break;
 case 'c':
 case 'C':
-QsF4z = S_3A(-238907834, Gxo85_, -1221687120, HL6c9tr6ql, JT541w6d) * 1472179242;
+QsF4z = S_3A(-238907834, Gxo85_, (unsigned char)-1221687120, HL6c9tr6ql, JT541w6d) * 1472179242;
 break;
 default:
 QvllCd = SHbW(n9_8Cr) * yC80;

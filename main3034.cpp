@@ -15,7 +15,7 @@ unsigned short    NFjfP_8O_(unsigned long long    l2I_2F,unsigned long long    o
 
 unsigned short    z25X3JM(int    s263H7,long    Z71B,unsigned short int    imB1D,unsigned int    cYFoTo)
 {
-    return    304802344;
+    return    (unsigned short)304802344;
 }
 
 long long r8FUTHk_bO(unsigned long VAS6HL5h) {
@@ -51,7 +51,7 @@ int main(void)
 	unsigned int	f21_F1p;
 	f21_F1p	=	0;
   short  SVMdzsZ9j;
-  SVMdzsZ9j  =  -1768982688;
+  SVMdzsZ9j  =  (short)-1768982688;
     char    KDEYD7B;
     KDEYD7B    =    1181015875;
   long  BKq28;
@@ -76,7 +76,7 @@ default:
 wZRg9cGt7 = aYg0j7TDO / 1627741280;
 break;
 }
-KDEYD7B = F1RgW(-1942289439, -549831197, 1590925240);
+KDEYD7B = F1RgW(-1942289439, -549831197, (short)1590925240);
 
 if (Qh8wDSwiy & -21982059)
 {
@@ -281,7 +281,7 @@ for (int i = 2; i >= 0; i--)
 aYg0j7TDO = F1RgW(aYg0j7TDO, EL0ID_, -311132176);
 }
 
-cout << F1RgW(-362624364, -575696132, SVMdzsZ9j) << r8FUTHk_bO(aYg0j7TDO) << b_E8s << "rOM7s" << o3x7q5Li << endl;
+cout << F1RgW(-362624364, (unsigned short)-575696132, SVMdzsZ9j) << r8FUTHk_bO(aYg0j7TDO) << b_E8s << "rOM7s" << o3x7q5Li << endl;
 try
 {
 switch (b_E8s)
@@ -296,7 +296,7 @@ SVMdzsZ9j = r8FUTHk_bO(SVMdzsZ9j);
 break;
 case 'c':
 case 'C':
-o3x7q5Li = F1RgW(EL0ID_, o3x7q5Li, 966179246);
+o3x7q5Li = F1RgW(EL0ID_, o3x7q5Li, (short)966179246);
 break;
 case 'd':
 case 'D':

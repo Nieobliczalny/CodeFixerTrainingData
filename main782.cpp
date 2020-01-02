@@ -28,7 +28,7 @@ int main() {
 	short	W3a2Mm;
 	W3a2Mm	=	-260582517;
     unsigned short int    LSS58F8;
-    LSS58F8    =    -2003268693;
+    LSS58F8    =    (unsigned short)-2003268693;
     short    KpjnS;
     KpjnS    =    -1107621312;
   short  a8T8;
@@ -50,7 +50,7 @@ int main() {
  unsigned int un0z;
  un0z = 856581473;
 	short	Q087G240;
-	Q087G240	=	994679993;
+	Q087G240	=	(short)994679993;
 	short int	hsbPTc;
 	hsbPTc	=	2031296327;
   unsigned short int  wAzu;
@@ -60,7 +60,7 @@ int main() {
 	long double	I23I;
 	I23I	=	-1289706741;
  unsigned short int qs35_Uf2;
- qs35_Uf2 = 872712306;
+ qs35_Uf2 = (unsigned short)872712306;
     long    D98tB1;
     D98tB1    =    599844059;
  long qgxFqK4;
@@ -102,7 +102,7 @@ int main() {
   long long  a5Ot7;
   a5Ot7  =  1363657205;
  unsigned short NZiu3aPqS7;
- NZiu3aPqS7 = 1081735762;
+ NZiu3aPqS7 = (unsigned short)1081735762;
 	long double	WJ3JAxGhf;
 	WJ3JAxGhf	=	1156134125;
 	long	i1mk77w_a8;
@@ -181,7 +181,7 @@ case 'b':
 k_evLiRNf2 = (int)floor(I23I);
 break;
 case 'c':
-zrhf = (Q087G240 >= 1302375746) ? QQ_sWeqS : jIfjN50kJ(808032195, nx5nu);
+zrhf = (Q087G240 >= 1302375746) ? QQ_sWeqS : jIfjN50kJ((unsigned short)808032195, nx5nu);
 break;
 default:
 cy4f87Xq2 = (int)abs(i1mk77w_a8);
@@ -231,7 +231,7 @@ pG58l = jIfjN50kJ(244613892, KpjnS);
 break;
 case 'b':
 case 'B':
-nx5nu = jIfjN50kJ(-545344662, 1869494637);
+nx5nu = jIfjN50kJ((unsigned short)-545344662, 1869494637);
 break;
 case 'c':
 case 'C':
@@ -397,7 +397,7 @@ std::cout << "z37JLwlq6" << jIfjN50kJ(679871446, vqLmKcG) << std::endl;
 }
 else if ((h8GU_79_ != -398488311) && ((nUMa) || (Q087G240 < JmzphuDdV)))
 {
-UD47E = (KpjnS >= -1725759257) ? R75Y07q_ : jIfjN50kJ(WA2o, 1145074077);
+UD47E = (KpjnS >= -1725759257) ? R75Y07q_ : jIfjN50kJ(WA2o, (short)1145074077);
 }
 else
 {

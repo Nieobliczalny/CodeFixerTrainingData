@@ -27,7 +27,7 @@ unsigned short int  H816kiV()  {
 }
 
 unsigned char  bPG8(unsigned long  b8__V,long  f3z_BR0)  {
-  return  1102391773;
+  return  (unsigned char)1102391773;
 }
 
 int main(void) {

@@ -85,7 +85,7 @@ A__j = kYudbnkd3 * 996485117;
 }
 else if (((w8BDg != -639656698) && (LW3MA_ == -1801042373)) || (GicN10_))
 {
-w2FT10 = (A__j <= pXY2HyNa) ? -968967352 : -413044134;
+w2FT10 = (A__j <= pXY2HyNa) ? -968967352 : (short)-413044134;
 }
 else if (L6O3fZ != Ssc6W0jM0W)
 {

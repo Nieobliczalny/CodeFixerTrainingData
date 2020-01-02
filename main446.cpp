@@ -219,7 +219,7 @@ break;
 LcMzHK3 = (int)ceil(w6b63H3i8);
 if (((CU7UV_) || (iLgC > 461014732)) && ((xseUCuBbc <= 1846421371) && (F8p6j90 < C816_J5Z51)))
 {
-std::cout << mnTNx0xk3t << D5NH(2046026999, 1346673789) << cUtQJA(236426038) << std::endl;
+std::cout << mnTNx0xk3t << D5NH(2046026999, 1346673789) << cUtQJA((short)236426038) << std::endl;
 }
 
 ee9p = E3XV048ah5();
@@ -229,7 +229,7 @@ Tjq_59 = (int)abs(b3sshS93p5);
 }
 CU7UV_ = SOJ6q8KJ7 / JU5qB45faZ;
 
-std::cout << "u21DW_" << D5NH(919638427, C816_J5Z51) << pZU3 << D5NH(ee9p, C816_J5Z51) << ZKB_fG(139485168) << std::endl;
+std::cout << "u21DW_" << D5NH(919638427, C816_J5Z51) << pZU3 << D5NH(ee9p, C816_J5Z51) << ZKB_fG((unsigned short)139485168) << std::endl;
 
 {
 int i = 10;
@@ -269,7 +269,7 @@ unsigned short int  cUtQJA(short int  Hk3ZI)
 
 short int  E3XV048ah5()
 {
-  return  884268254;
+  return  (short)884268254;
 }
 
 short	r_5198W6cI(unsigned long long	mEK27x7Bto,unsigned short int	LBtgR_NY2)	{

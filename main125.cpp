@@ -17,7 +17,7 @@ int    um0g7Ce8n(unsigned long long    FNDizq,unsigned short    E7jmn5V296,int  
 }
 
 char  Z257_(unsigned int  Rp3gJ7IVqR)  {
-  return  -2009556201;
+  return  (char)-2009556201;
 }
 
 int main() {
@@ -103,7 +103,7 @@ t89fH438V--;
 }
 std::cout << "qW0B3EzW5" << Z257_(M81m2k1tg) << Z257_(-694848183) << std::endl;
 
-std::cout << SlOf(-11064060, t89fH438V, s_q40_z0) << SlOf(-1071112329, 180039234, -1072319432) << "ZXc3" << um0g7Ce8n(M81m2k1tg, 846535898, s_q40_z0) << std::endl;
+std::cout << SlOf(-11064060, t89fH438V, s_q40_z0) << SlOf(-1071112329, (unsigned short)180039234, -1072319432) << "ZXc3" << um0g7Ce8n(M81m2k1tg, 846535898, s_q40_z0) << std::endl;
 
 {
 int i = 8;

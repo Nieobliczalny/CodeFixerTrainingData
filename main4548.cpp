@@ -18,7 +18,7 @@ int main()
     char    DrtUZo1S;
     DrtUZo1S    =    1731013621;
 	short	NmWveSqY13;
-	NmWveSqY13	=	665929555;
+	NmWveSqY13	=	(short)665929555;
  unsigned short Mp_05v;
  Mp_05v = -1095986555;
   long double  I9_RU;
@@ -36,7 +36,7 @@ int main()
 	long double	o9lNUrm;
 	o9lNUrm	=	-550661106;
 	short int	TwbRYZsIfF;
-	TwbRYZsIfF	=	-355073789;
+	TwbRYZsIfF	=	(short)-355073789;
   unsigned long  nFwZG;
   nFwZG  =  374904272;
   unsigned long long  L5hJw7;
@@ -56,7 +56,7 @@ int main()
   long double  ptb1h5;
   ptb1h5  =  -1498715453;
     unsigned char    x7Zu5X;
-    x7Zu5X    =    -1595164952;
+    x7Zu5X    =    (unsigned char)-1595164952;
     float    NqnQ3DrSZ;
     NqnQ3DrSZ    =    -916437554;
 	long	c8_oS;
@@ -66,7 +66,7 @@ int main()
     unsigned long    WqtlSI;
     WqtlSI    =    0;
   char  oKTy93;
-  oKTy93  =  257623999;
+  oKTy93  =  (char)257623999;
 	unsigned long long	wmynHYet;
 	wmynHYet	=	2037625899;
   float  hoa1y;

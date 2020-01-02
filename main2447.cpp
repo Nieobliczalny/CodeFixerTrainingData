@@ -26,7 +26,7 @@ int main() {
   unsigned long long  VA7Lv  =  0;
   int  q9LH  =  -1073437801;
     char    W4H3e17rzF    =    890334437;
- char HH1Gz8 = -51905242;
+ char HH1Gz8 = (char)-51905242;
 
 f7t4cyD = (double)(hr6TCQvj);
 if ((1925013880 / h52hIMK1yC) == 931804974)

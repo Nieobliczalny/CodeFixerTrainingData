@@ -17,6 +17,7 @@ int  z_oU2_gu20(short  IH4K3128I);
 int main(int argc, char** argv)
 {
  unsigned short int A2FhMO = 0, hK4bs3 = 0;
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
 	short int	o0IjC2i	=	128100396,	s842Y	=	-1469100053,	xZVhpLV9h	=	971268875,	a7V8djxvR2	=	619553047,	Rd1SSN0Z	=	176382283,	NK2AI_jTkv	=	1604746711,	O43Oy	=	942157256,	xG01	=	2142668191,	xLeo	=	961460574,	aVkzS	=	-1263013342;
 
 for (int i = 7; i >= 0; --i)
@@ -33,7 +34,7 @@ a7V8djxvR2 = rznqw(462670129, -173617572, A2FhMO, -19330199);
 break;
 case 'c':
 case 'C':
-xLeo = rznqw(A2FhMO, xLeo, 1588594355, a7V8djxvR2);
+xLeo = rznqw(A2FhMO, xLeo, (char)1588594355, a7V8djxvR2);
 break;
 case 'd':
 case 'D':
@@ -58,7 +59,7 @@ int i = 5;
 while (i >= 0)
 {
 i--;
-Rd1SSN0Z = rznqw(-2118907895, O43Oy, 1702430094, xZVhpLV9h);
+Rd1SSN0Z = rznqw(-2118907895, O43Oy, (char)1702430094, xZVhpLV9h);
 }
 }
 

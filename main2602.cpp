@@ -31,7 +31,7 @@ int main(int argc, char** argv) {
   short int  fnb_J18j  =  0;
     char    aauY5TZimr    =    0;
   long double  p4bLx56S6a  =  1176266791;
-	short	jQqLKYaQ_	=	-1849334184;
+	short	jQqLKYaQ_	=	(short)-1849334184;
     short    Uw_B    =    1696342841;
 	unsigned short int	ksfcPdoA6v	=	0;
 
@@ -151,7 +151,7 @@ while (j >= 0)
 j--;
 if (x2CCxmtKN <= -1656902712)
 {
-p4bLx56S6a = I2E0Q(1375502984, -125588054, -1269061909, 1798527166);
+p4bLx56S6a = I2E0Q(1375502984, (unsigned short)-125588054, -1269061909, 1798527166);
 }
 else
 {
@@ -169,7 +169,7 @@ switch (Rq316BE576)
 {
 case 'a':
 case 'A':
-p4bLx56S6a = I2E0Q(80749490, -1039641187, Uw_B, 1119138033) + 2129347987;
+p4bLx56S6a = I2E0Q(80749490, (unsigned short)-1039641187, Uw_B, 1119138033) + 2129347987;
 break;
 case 'b':
 case 'B':
@@ -193,7 +193,7 @@ p4bLx56S6a = qY8JUFBb(p4bLx56S6a, -1420651759) - jQqLKYaQ_;
 break;
 case 'g':
 case 'G':
-fnb_J18j = qY8JUFBb(-488885614, 1527466463);
+fnb_J18j = qY8JUFBb(-488885614, (unsigned short)1527466463);
 break;
 default:
 x2CCxmtKN = (int)floor(p4bLx56S6a);
@@ -243,7 +243,7 @@ case 'a':
 Uw_B = I2E0Q(Uw_B, 1077097520, fnb_J18j, 282185891);
 break;
 case 'b':
-j5sd_Q = qY8JUFBb(-1166155441, 1427936635);
+j5sd_Q = qY8JUFBb(-1166155441, (unsigned short)1427936635);
 break;
 case 'c':
 p4bLx56S6a = (int)floor(x2CCxmtKN);

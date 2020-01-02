@@ -16,7 +16,7 @@ int main()
 {
 	long	s8FkZybM	=	1729662150;
 	unsigned short int	jHXNy4	=	1373351589;
-    unsigned char    CjT7A7G    =    -572610330;
+    unsigned char    CjT7A7G    =    (unsigned char)-572610330;
   unsigned short int  YFlO_V_  =  -1113229078;
     unsigned short    GlX1Dd    =    549660892;
     long double    uAM_dc    =    1006152633;
@@ -28,7 +28,7 @@ int main()
   unsigned char  ggqD34G68i  =  438314753;
   double  fSQlRBx1  =  -389050793;
 	long long	yhyNOV1nt	=	404927528;
- unsigned short a1RX8t_x = 1191056196;
+ unsigned short a1RX8t_x = (unsigned short)1191056196;
 	unsigned long	b4VS9	=	690862988;
     unsigned char    o0A68ay6Jc    =    -799442377;
  float aOaxA8 = 1147344051;
@@ -38,7 +38,7 @@ int main()
   double  MqDr9yhe  =  -1724214506;
  unsigned short w64s_6Cr = 1192510118;
 	long long	L1_E14IPLC	=	-114777519;
- char kzb8S_ = 1833971847;
+ char kzb8S_ = (char)1833971847;
  short jtazdis = 1713212551;
 
 fSQlRBx1 = (int)floor(fMxQfN);

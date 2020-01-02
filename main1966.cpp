@@ -13,6 +13,7 @@ unsigned long	Z38m2f2cQ(unsigned int	kLsO,long long	ArP_,unsigned char	f96AEJbG3
 
 int main(void)
 {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
   short  I6gCT  =  612880813,  wfB2_58Z  =  1863813767,  wOCB1  =  -87388845,  zzmfeBPG  =  1439200309,  XsF5c28P  =  610082513,  EYZc_oGwxl  =  792123343,  K2LHL7x  =  1603227563,  KhDQR  =  1951000010,  HHbr  =  -1767125434,  uJki1dSGO  =  -288473735;
 	short	d2eRDI8	=	0,	Yo76M46Z3	=	0,	AyF_v	=	0;
 
@@ -168,7 +169,7 @@ while (i < 9);
 }
 if (AyF_v == -2034824116)
 {
-std::cout << KhDQR << wfB2_58Z << Z38m2f2cQ(634722900, AyF_v, 40048199, d2eRDI8, -35600035) << "HYLf_19" << Z38m2f2cQ(uJki1dSGO, -94638933, -238093428, d2eRDI8, XsF5c28P) << std::endl;
+std::cout << KhDQR << wfB2_58Z << Z38m2f2cQ(634722900, AyF_v, 40048199, d2eRDI8, -35600035) << "HYLf_19" << Z38m2f2cQ(uJki1dSGO, -94638933, (unsigned char)-238093428, d2eRDI8, XsF5c28P) << std::endl;
 }
 for (int i = 4; i >= 0; i--)
 {
@@ -306,7 +307,7 @@ AyF_v = (int)abs(zzmfeBPG) * 0;
 }
 else if (Yo76M46Z3 < d2eRDI8)
 {
-d2eRDI8 = Z38m2f2cQ(KhDQR, 1331715234, 810662615, 1850930051, -966331444);
+d2eRDI8 = Z38m2f2cQ(KhDQR, 1331715234, (unsigned char)810662615, 1850930051, -966331444);
 }
 else if (zzmfeBPG == d2eRDI8)
 {

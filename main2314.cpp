@@ -285,7 +285,7 @@ Ta58K49 = Ht7_Nn(-647059604);
 uD46W3U = (long)(b0iUAi);
 if (yS4_89Gg >= a8Z8VpH)
 {
-eI9g = Ht7_Nn(977523634);
+eI9g = Ht7_Nn((short)977523634);
 }
 else
 {
@@ -305,7 +305,7 @@ z2VSpUzqXk += ciFs;
 }
 else
 {
-p9rp1s = Ht7_Nn(2082590874);
+p9rp1s = Ht7_Nn((short)2082590874);
 }
 }
 }

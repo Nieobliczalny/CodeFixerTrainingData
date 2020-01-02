@@ -24,7 +24,7 @@ int main(void)
  unsigned short int hsg5n = 0;
     unsigned char    AJc5wZ9804    =    -1840874538;
  long y_pW04MN2 = 1235753300;
-	unsigned short	n0nDD	=	-1626979195;
+	unsigned short	n0nDD	=	(unsigned short)-1626979195;
  unsigned short int dWy58_PYT = 1253112845;
  long long lHp8tv1 = 735634299;
 	int	c3o1	=	74330503;
@@ -41,7 +41,7 @@ int main(void)
   unsigned long  YPh4Cp  =  1683930263;
   long long  k34TG_L  =  2098238977;
   unsigned int  I6jZl_W  =  -1393990498;
- unsigned short int Pr7BKv0m8n = 2129111416;
+ unsigned short int Pr7BKv0m8n = (unsigned short)2129111416;
 	unsigned char	kjn0C8_R6d	=	912349505;
   long  HrRvs8  =  -102798085;
     unsigned long long    vPz5n6    =    171846568;
@@ -53,7 +53,7 @@ int main(void)
     double    Zf_y_K290    =    -525196898;
   unsigned short int  aH_lfbb5  =  0;
  unsigned short int n4VNQOZck = 916140306;
-    char    Jumiw7mdXI    =    1656514103;
+    char    Jumiw7mdXI    =    (char)1656514103;
     long    uD_44N76    =    1144545209;
   unsigned long long  MGag  =  606831499;
 	unsigned int	L7P0	=	-1234996900;
@@ -70,7 +70,7 @@ int main(void)
  unsigned short int QsMt8byrA = 1224157147;
   unsigned long long  lqvB  =  0;
 
-yD9145 = tqgXYS(1269988989, yD9145, 131329160, -499382954, Pr7BKv0m8n);
+yD9145 = tqgXYS((unsigned short)1269988989, yD9145, 131329160, -499382954, Pr7BKv0m8n);
 vPz5n6 = H1xh + n0nDD;
 
 if (H1xh <= YCk6SYY)
@@ -111,7 +111,7 @@ wR7L01e <<= 363139153;
 }
 else
 {
-cout << JmTSiLQB_(2026087009, -1659572859, 1660342518, GhUW) << "JFhN" << JmTSiLQB_(1025355136, 670410646, Jumiw7mdXI, 564846692) << n4VNQOZck << endl;
+cout << JmTSiLQB_(2026087009, -1659572859, 1660342518, GhUW) << "JFhN" << JmTSiLQB_(1025355136, (unsigned short)670410646, Jumiw7mdXI, 564846692) << n4VNQOZck << endl;
 }
 if ((lHp8tv1 < 684166576) || ((By5m_0_1q == 233340865) || (LxecJ5m3M < n0nDD)))
 {
@@ -210,7 +210,7 @@ D4Vg = pCXHyK5X9G();
 break;
 case 'i':
 case 'I':
-yHffv5 = tqgXYS(-1570081524, -1078658250, Pr7BKv0m8n, 1569472502, l33Q13);
+yHffv5 = tqgXYS(-1570081524, -1078658250, Pr7BKv0m8n, (unsigned char)1569472502, l33Q13);
 break;
 case 'j':
 case 'J':
@@ -229,7 +229,7 @@ do
 i++;
 if (L7P0 & 567057060)
 {
-n0nDD = FzCq9Cf(-1116090655, 230085402, 1235663519, 1560847797);
+n0nDD = FzCq9Cf(-1116090655, (unsigned char)230085402, 1235663519, 1560847797);
 }
 else if (YCk6SYY >= -1994573556)
 {
@@ -278,7 +278,7 @@ YPh4Cp = FzCq9Cf(-717279997, Jumiw7mdXI, lXKfg, 510985152);
 break;
 case 'b':
 case 'B':
-G4T81y = FzCq9Cf(889485290, 1808924929, Zf_y_K290, a4_j2ee);
+G4T81y = FzCq9Cf((short)889485290, 1808924929, Zf_y_K290, a4_j2ee);
 break;
 case 'c':
 case 'C':
@@ -329,6 +329,6 @@ long long	DnEo(short	hG9da,long long	L1G_3SoB,int	XV5nn)	{
 
 unsigned short pCXHyK5X9G()
 {
- return 1772931327;
+ return (unsigned short)1772931327;
 }
 

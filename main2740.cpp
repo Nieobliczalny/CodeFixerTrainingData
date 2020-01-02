@@ -25,7 +25,7 @@ int main(int argc, char** argv)
   double  DPw4j2uOUt  =  -668089526;
     double    t8F0    =    38742123;
   float  X9UP2nD  =  583907657;
- unsigned char LaEOIOz = 1652288866;
+ unsigned char LaEOIOz = (unsigned char)1652288866;
 	unsigned long	ounN	=	1069221920;
 	unsigned long	SuZlq	=	1198484802;
     long    GesEH2h3    =    -594710816;
@@ -41,7 +41,7 @@ int main(int argc, char** argv)
  short K5PqU5 = 1398906912;
 	int	M7keCg0B9	=	1314365320;
 	int	b0jfQRZIu	=	-1830013049;
-	unsigned char	Vgk45TlDA	=	2011568561;
+	unsigned char	Vgk45TlDA	=	(unsigned char)2011568561;
 	short	rwYT1E	=	-1779367736;
 	unsigned int	Z5phBD6	=	1659396829;
  char h3yjf29 = -27294310;
@@ -159,7 +159,7 @@ case 2:
 DPw4j2uOUt = (int)floor(VPDqgwvmP6);
 break;
 case 3:
-U0Cm = Apu3Fo_3W(-1616541603, -1557904383);
+U0Cm = Apu3Fo_3W((short)-1616541603, -1557904383);
 break;
 case 4:
 i_HQpcX = QWLDc64 + FH5_QP;
@@ -298,7 +298,7 @@ X9UP2nD = (int)abs(K5PqU5);
 t8F0 = (int)ceil(X9UP2nD);
 
 U0Cm = Apu3Fo_3W(-492272311, t8F0);
-std::cout << Apu3Fo_3W(1845512707, 181643015) << Apu3Fo_3W(GesEH2h3, t8F0) << std::endl;
+std::cout << Apu3Fo_3W((short)1845512707, 181643015) << Apu3Fo_3W(GesEH2h3, t8F0) << std::endl;
 for (int i = 0; i < 5; i++)
 {
 try

@@ -24,7 +24,7 @@ int main() {
 int i = 10;
 do
 {
-eQHrd2 = E515Mp1W(-911648229, 45157174);
+eQHrd2 = E515Mp1W(-911648229, (short)45157174);
 --i;
 }
 while (i >= 0);
@@ -233,7 +233,7 @@ k--;
 }
 else
 {
-cout << jUg79ai5E0 << tiSHj2s3(-130078028, 1989692221, lxN9) << tiSHj2s3(-678145636, nEGqBl6c, lxN9) << endl;
+cout << jUg79ai5E0 << tiSHj2s3((unsigned short)-130078028, 1989692221, lxN9) << tiSHj2s3(-678145636, nEGqBl6c, lxN9) << endl;
 }
 }
 else
@@ -426,7 +426,7 @@ case 7:
 c3Ffc110++;
 break;
 case 8:
-chrU = tiSHj2s3(624699360, LQoxHe, NDEn2Al5T);
+chrU = tiSHj2s3((unsigned short)624699360, LQoxHe, NDEn2Al5T);
 break;
 case 9:
 fUPdBAK_ ^= jtsh_Q2xiP;
@@ -491,7 +491,7 @@ jUg79ai5E0 = zBeMX89Gu - 958412009;
 }
 else if (dDkz0DS <= 2047803666)
 {
-Q7ayvQO51 = E515Mp1W(Q7ayvQO51, 1688017135);
+Q7ayvQO51 = E515Mp1W(Q7ayvQO51, (short)1688017135);
 }
 else if (UV7x7HeX >= -324526621)
 {

@@ -173,7 +173,7 @@ case 7:
 SEXNsF = S_W5c23pj();
 break;
 default:
-d2PMnZAy = KZbbu_(1879214675, -412300435, 269846650, -870878381, -1162226954);
+d2PMnZAy = KZbbu_((char)1879214675, -412300435, 269846650, -870878381, -1162226954);
 break;
 }
 
@@ -185,7 +185,7 @@ if (SEXNsF)
 {
 for (int k = 2; k >= 0; --k)
 {
-d2PMnZAy = KZbbu_(-1307785171, 22724123, 1728690857, eGzlg2lR44, 651548218);
+d2PMnZAy = KZbbu_(-1307785171, (unsigned short)22724123, 1728690857, eGzlg2lR44, 651548218);
 }
 }
 else if (eGzlg2lR44 > SEXNsF)
@@ -281,7 +281,7 @@ else
 switch (SEXNsF)
 {
 case 0:
-d2PMnZAy = KZbbu_(-85068017, -1019878072, 1059292842, d2PMnZAy, 1624553666);
+d2PMnZAy = KZbbu_((char)-85068017, -1019878072, 1059292842, d2PMnZAy, 1624553666);
 break;
 case 1:
 d2PMnZAy = KZbbu_(eGzlg2lR44, -1266052302, -1230315229, -1518091642, 402782808) / 1005419001;
@@ -292,7 +292,7 @@ break;
 }
 }
 
-if ((KZbbu_(-1929663035, SEXNsF, o__q0, eGzlg2lR44, -709497535) / SEXNsF) > 9557535)
+if ((KZbbu_((char)-1929663035, SEXNsF, o__q0, eGzlg2lR44, -709497535) / SEXNsF) > 9557535)
 {
 d2PMnZAy = -970786240 / o__q0;
 }

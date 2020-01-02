@@ -23,7 +23,7 @@ short ZTu1d(unsigned char v0TU) {
 }
 
 unsigned short    q3GN_r8N()    {
-    return    2141874763;
+    return    (unsigned short)2141874763;
 }
 
 unsigned int	Rhd90f35w(long	lRt5d5Ay4_,unsigned int	DvTAd)	{
@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
 	unsigned long long	MtUxFaSL0;
 	MtUxFaSL0	=	1196676819;
  short int m5FDF;
- m5FDF = -75870428;
+ m5FDF = (short)-75870428;
     unsigned short    Pcs0W;
     Pcs0W    =    511415929;
   unsigned int  wr5e5Cd;
@@ -50,7 +50,7 @@ int main(int argc, char** argv) {
 	short int	Vrr3pTw84o;
 	Vrr3pTw84o	=	0;
  short oGQB7KSm;
- oGQB7KSm = -1752961514;
+ oGQB7KSm = (short)-1752961514;
 	long double	gWrH;
 	gWrH	=	868875120;
     float    V3i2Z;
@@ -68,7 +68,7 @@ int main(int argc, char** argv) {
 	short	zc9cMtNp;
 	zc9cMtNp	=	1003350585;
 	unsigned char	NpmMZ;
-	NpmMZ	=	1072680464;
+	NpmMZ	=	(unsigned char)1072680464;
  unsigned long CwB6XYD2;
  CwB6XYD2 = 0;
 	long	sWu93;
@@ -86,7 +86,7 @@ int main(int argc, char** argv) {
 	char	f2iF82;
 	f2iF82	=	850334625;
  short int XF_y59;
- XF_y59 = 1152428191;
+ XF_y59 = (short)1152428191;
     unsigned int    XRrXJLm;
     XRrXJLm    =    -935987817;
   float  U906eUq_2;
@@ -98,7 +98,7 @@ int main(int argc, char** argv) {
 	short int	rR4fWHHQrc;
 	rR4fWHHQrc	=	-369672036;
 	unsigned char	RxBFb2;
-	RxBFb2	=	-1081272092;
+	RxBFb2	=	(unsigned char)-1081272092;
 	short int	x_0e2_Usn;
 	x_0e2_Usn	=	-416266469;
 	long long	EUmw_DNRM;
@@ -118,7 +118,7 @@ int main(int argc, char** argv) {
     unsigned long long    nFcK;
     nFcK    =    804302863;
     short    wqt2k7sX;
-    wqt2k7sX    =    -995574347;
+    wqt2k7sX    =    (short)-995574347;
     unsigned long long    x51_g0M8_q;
     x51_g0M8_q    =    1487995906;
     short int    zwl6Qt_NF4;
@@ -128,7 +128,7 @@ int main(int argc, char** argv) {
     unsigned long long    cM_24wn4;
     cM_24wn4    =    941825566;
   unsigned char  fW2_7_4;
-  fW2_7_4  =  1139232555;
+  fW2_7_4  =  (unsigned char)1139232555;
  unsigned long bY3mLy;
  bY3mLy = -2032922575;
   float  lfk1F242x4;
@@ -142,7 +142,7 @@ int main(int argc, char** argv) {
  unsigned short Eqd8;
  Eqd8 = 1923782778;
 	short	lq5SS;
-	lq5SS	=	-437933716;
+	lq5SS	=	(short)-437933716;
  short int Ihll;
  Ihll = -870821625;
 	short int	dr_Wx2pP;
@@ -160,7 +160,7 @@ int main(int argc, char** argv) {
   long long  knjjmtXk5;
   knjjmtXk5  =  1533866670;
  short int se5mv;
- se5mv = 2002816906;
+ se5mv = (short)2002816906;
  unsigned long long bYVN;
  bYVN = -846038977;
 	unsigned int	RL044k;
@@ -188,7 +188,7 @@ int main(int argc, char** argv) {
   long double  FG8i4M_J2;
   FG8i4M_J2  =  -353397256;
   short int  F9Jg8YdI5;
-  F9Jg8YdI5  =  757627825;
+  F9Jg8YdI5  =  (short)757627825;
   float  pVWX4y5;
   pVWX4y5  =  531128992;
   long double  Mf3P4Ws1;
@@ -200,7 +200,7 @@ int main(int argc, char** argv) {
 
 try
 {
-cout << mGBSTLgN(px48, Z8_eYw8, -335887287) << endl;
+cout << mGBSTLgN(px48, Z8_eYw8, (char)-335887287) << endl;
 }
 catch (int& errorCode)
 {
@@ -292,7 +292,7 @@ CwB6XYD2 = mGBSTLgN(246596307, Mf3P4Ws1, x51_g0M8_q);
 }
 else if (qi9wkVYwr == P6pVV28mY)
 {
-g_z90UebPH = (nYH1yeO2 >= -869154185) ? ObD0(f2iF82, 1988257199, 1278363371, qi9wkVYwr, -1999811072) : O2N_o9sZ;
+g_z90UebPH = (nYH1yeO2 >= -869154185) ? ObD0(f2iF82, (unsigned short)1988257199, 1278363371, qi9wkVYwr, -1999811072) : O2N_o9sZ;
 }
 else
 {
@@ -335,7 +335,7 @@ if (NsLM4x < XRrXJLm)
 switch (wr5e5Cd)
 {
 case 0:
-RL044k = ObD0(-238901078, DvP3v, 1280676775, 1057820890, Z5tV8asvi);
+RL044k = ObD0(-238901078, DvP3v, (unsigned short)1280676775, 1057820890, Z5tV8asvi);
 break;
 case 1:
 A5t7Np31 = ObD0(A5t7Np31, Z5tV8asvi, bYVN, RL044k, -174346279);
@@ -376,7 +376,7 @@ P6pVV28mY = (int)ceil(Mf3P4Ws1);
 break;
 case 'd':
 case 'D':
-f2iF82 = ObD0(57736769, 254422329, 416867488, -829038877, knjjmtXk5);
+f2iF82 = ObD0(57736769, (unsigned short)254422329, 416867488, -829038877, knjjmtXk5);
 break;
 default:
 UsSe18G4NP /= 1996058078;
@@ -676,7 +676,7 @@ XF_y59 = phxE6kROb >> 1509245747;
 break;
 case 'c':
 case 'C':
-QpDWCKS1iD = ObD0(-718570548, x51_g0M8_q, px48, U906eUq_2, -1582352337);
+QpDWCKS1iD = ObD0((unsigned char)-718570548, x51_g0M8_q, px48, U906eUq_2, -1582352337);
 break;
 default:
 px48 = phxE6kROb >> XfPzWR;

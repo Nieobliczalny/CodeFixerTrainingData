@@ -22,7 +22,7 @@ int main()
   unsigned short  xl_Uvc6Pm  =  -2006915838;
   unsigned long long  Q6srXeneq8  =  0;
     long    aFPww57W9    =    337537952;
-	unsigned short int	tfNMlpVD9	=	-1132027696;
+	unsigned short int	tfNMlpVD9	=	(unsigned short)-1132027696;
     short int    frWiGeOGTr    =    2043562540;
 	int	c14uQvi	=	-690842049;
  long long kGJ_xE9a9 = -1484603479;
@@ -34,7 +34,7 @@ int main()
 	char	c9dzucn6BB	=	58957208;
     unsigned long    nkt1BDPFDm    =    122246066;
     unsigned long long    Y3YIS5    =    -1490059467;
-	unsigned short int	IqL7	=	-1502986833;
+	unsigned short int	IqL7	=	(unsigned short)-1502986833;
   long  QR00yU  =  -577581884;
   float  YOGFjKSIB  =  1447010577;
 	int	i5r2XL4xh9	=	-1245221578;
@@ -47,7 +47,7 @@ int main()
     double    Gein    =    1355184643;
     long    se9hfZ5    =    151158343;
   unsigned long  yaX8  =  543306608;
-  unsigned short  iar07d  =  -1516192933;
+  unsigned short  iar07d  =  (unsigned short)-1516192933;
   unsigned long long  ZV28acw  =  -1273350021;
 	long	M5o3	=	1998761503;
     unsigned int    qVIYrrA    =    -853562817;
@@ -60,7 +60,7 @@ int main()
 	long long	aNz6Ac990n	=	1239750904;
   long double  h0Myh91b8  =  -115543348;
   long double  KWWcBUg  =  154789552;
-  unsigned char  I66WY54hS  =  2020319876;
+  unsigned char  I66WY54hS  =  (unsigned char)2020319876;
   long  E40o  =  227056171;
   unsigned char  T6RjlkeQF9  =  0;
  int C3a35lP_ = 1713475056;
@@ -71,7 +71,7 @@ int main()
   long  h7BGf  =  1365954977;
  unsigned char JPxboIcUR = 1301494821;
 	long long	iErs	=	616186012;
-	short	SIaA1zgCq2	=	2006947568;
+	short	SIaA1zgCq2	=	(short)2006947568;
 	long double	gNc70hMR	=	982681677;
  long long u0a8p7z = -1966849297;
 	unsigned short	r3y_fg	=	-1845984421;
@@ -243,7 +243,7 @@ q9_kV = w3K8(h0Myh91b8, D4TSe__, JPxboIcUR);
 
 std::cout << ktT5PVO << xl_Uvc6Pm << "jTLq_7" << JPM6387 << kGJ_xE9a9 << std::endl;
 
-aNz6Ac990n = aFPww57W9 / w3K8(h0Myh91b8, 327264489, 1977091739);
+aNz6Ac990n = aFPww57W9 / w3K8(h0Myh91b8, 327264489, (char)1977091739);
 h0Myh91b8 = (int)ceil(WX43n1kYF);
 
 switch (yaX8)
@@ -270,7 +270,7 @@ char  Z_zTBlj(long  J_Zo8Lu_v,short int  c960u4V)
 }
 
 char	xeLbnP2__T()	{
-	return	-646623818;
+	return	(char)-646623818;
 }
 
 long long bG3F4X6(short qLvo73G,long long liEWX1) {

@@ -21,7 +21,7 @@ int main(void)
  short int Z64y0R;
  Z64y0R = -1772820400;
 	char	Pa_19_A4;
-	Pa_19_A4	=	983940763;
+	Pa_19_A4	=	(char)983940763;
     long double    B9VAzgE;
     B9VAzgE    =    -1185952548;
 	double	cpNRt;
@@ -37,7 +37,7 @@ int main(void)
     float    S8Ii6hMy;
     S8Ii6hMy    =    1599146584;
 	char	VH9RY4wnZ;
-	VH9RY4wnZ	=	2031252275;
+	VH9RY4wnZ	=	(char)2031252275;
   double  O_i01gaFS;
   O_i01gaFS  =  -1095768133;
 	char	Optx8wYwmV;
@@ -55,7 +55,7 @@ int main(void)
  float fETSNZksO4;
  fETSNZksO4 = -2047414299;
     unsigned char    BTg_crHf;
-    BTg_crHf    =    -1355406367;
+    BTg_crHf    =    (unsigned char)-1355406367;
   unsigned char  PZU_D;
   PZU_D  =  0;
     unsigned char    i1VLb69;
@@ -79,7 +79,7 @@ for (int j = 0; j < 6; ++j)
 {
 for (int k = 5; k >= 0; --k)
 {
-PZU_D = Pe2n(-563619630, h5Lkx, 660162320, 528597098, 162993440);
+PZU_D = Pe2n(-563619630, h5Lkx, 660162320, 528597098, (short)162993440);
 }
 }
 }
@@ -95,7 +95,7 @@ cout << Pe2n(Z64y0R, h5Lkx, -588198708, 1534453386, JzWtAB) << "P4VWC" << X4482x
 }
 else if (y7SR4Zjx == doG3HurV)
 {
-PZU_D = Pe2n(O_i01gaFS, -127716476, 223985782, 282027514, 1355714662);
+PZU_D = Pe2n(O_i01gaFS, -127716476, 223985782, 282027514, (short)1355714662);
 }
 else
 {
@@ -131,7 +131,7 @@ case 'b':
 cpNRt = (int)floor(s7lJ8E0s);
 break;
 case 'c':
-PZU_D = Pe2n(JzWtAB, 1761500106, 298605209, 1446765788, -914460569);
+PZU_D = Pe2n(JzWtAB, 1761500106, 298605209, 1446765788, (short)-914460569);
 break;
 case 'd':
 PZU_D = Pe2n(-1012805019, 1457287023, B9VAzgE, 563352911, 318637805);
@@ -146,7 +146,7 @@ case 'g':
 X4482x = B9VAzgE / u9066SeB45;
 break;
 case 'h':
-PZU_D = Pe2n(990568163, O_i01gaFS, s7lJ8E0s, -179832861, fETSNZksO4);
+PZU_D = Pe2n((unsigned short)990568163, O_i01gaFS, s7lJ8E0s, -179832861, fETSNZksO4);
 break;
 }
 }
@@ -184,7 +184,7 @@ case 3:
 doG3HurV *= 2041254182;
 break;
 case 4:
-PZU_D = Pe2n(821223159, 320156858, y7SR4Zjx, 842827123, 598942027);
+PZU_D = Pe2n(821223159, 320156858, y7SR4Zjx, 842827123, (short)598942027);
 break;
 default:
 s7lJ8E0s = (int)abs(fETSNZksO4);
@@ -219,7 +219,7 @@ B9VAzgE = Pe2n(-2099306607, B9VAzgE, -278203723, O_i01gaFS, s7lJ8E0s) + 28431487
 }
 h5Lkx = -1600251543 / PZU_D;
 
-PZU_D = Pe2n(-1807704665, y7SR4Zjx, 1674968956, -125990492, paEZh);
+PZU_D = Pe2n((unsigned short)-1807704665, y7SR4Zjx, 1674968956, -125990492, paEZh);
 
 {
 int i = 8;

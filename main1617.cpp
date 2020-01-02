@@ -13,6 +13,7 @@ short int    R6H8DqI9(unsigned char    nw1iq_8W8,unsigned long    y4tE,unsigned 
 int main()
 {
   unsigned short  INI_rD  =  0;
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
   unsigned char  I9_x7EKXt  =  925919166,  AEPM  =  -1305144403,  HI6TZ  =  1009661446,  mo0O_S8  =  -232787806,  q4E9tqw6  =  -785844006,  XbYgi5  =  -1041637065,  o3cFvt5D  =  -677359125,  FJ6g9Jtjlp  =  1995952880,  b152V5  =  -1203747554,  Jms_4w  =  633846456,  M_s3KyL8wd  =  -1018342770,  G1kP6PNYWq  =  831118923,  mGbz5h  =  -123496050,  JvCIQ  =  -472437533,  Hmn9CIV3  =  1942214014,  p8i46q1  =  435273318,  ouYPPodJpI  =  1164291050,  n6b6cF  =  -1342762193,  QH3S_  =  -1208947331,  I79FHqq  =  366933983,  eU52M96P  =  977842497;
 
 switch (HI6TZ)
@@ -30,7 +31,7 @@ case 3:
 INI_rD = R6H8DqI9(725189013, mo0O_S8, ouYPPodJpI, 802080634);
 break;
 case 4:
-INI_rD = R6H8DqI9(-1684020236, INI_rD, -1634871122, -361424564);
+INI_rD = R6H8DqI9((unsigned char)-1684020236, INI_rD, -1634871122, -361424564);
 break;
 case 5:
 b152V5 = mGbz5h ^ 150716535;
@@ -42,7 +43,7 @@ case 7:
 Hmn9CIV3 = (M_s3KyL8wd & p8i46q1) ? Jms_4w : R6H8DqI9(91377020, Hmn9CIV3, p8i46q1, o3cFvt5D);
 break;
 case 8:
-INI_rD = R6H8DqI9(G1kP6PNYWq, 1820758874, 1389449363, FJ6g9Jtjlp);
+INI_rD = R6H8DqI9(G1kP6PNYWq, 1820758874, (unsigned short)1389449363, FJ6g9Jtjlp);
 break;
 case 9:
 q4E9tqw6 = n6b6cF << M_s3KyL8wd;
@@ -62,7 +63,7 @@ case 2:
 QH3S_ = R6H8DqI9(G1kP6PNYWq, n6b6cF, 2084506146, FJ6g9Jtjlp) | 552828655;
 break;
 case 3:
-INI_rD = R6H8DqI9(G1kP6PNYWq, INI_rD, -2144592915, -1761817720);
+INI_rD = R6H8DqI9(G1kP6PNYWq, INI_rD, (unsigned short)-2144592915, -1761817720);
 break;
 case 4:
 o3cFvt5D--;
@@ -82,7 +83,7 @@ int i = 8;
 while (i >= 0)
 {
 --i;
-std::cout << "z7b3" << R6H8DqI9(XbYgi5, -461933212, FJ6g9Jtjlp, I79FHqq) << R6H8DqI9(-773360128, p8i46q1, 540124201, I79FHqq) << Hmn9CIV3 << R6H8DqI9(-1486325448, p8i46q1, FJ6g9Jtjlp, I79FHqq) << std::endl;
+std::cout << "z7b3" << R6H8DqI9(XbYgi5, -461933212, FJ6g9Jtjlp, I79FHqq) << R6H8DqI9(-773360128, p8i46q1, (unsigned short)540124201, I79FHqq) << Hmn9CIV3 << R6H8DqI9(-1486325448, p8i46q1, FJ6g9Jtjlp, I79FHqq) << std::endl;
 }
 }
 if (q4E9tqw6 < -189869580)
@@ -105,7 +106,7 @@ case 'b':
 INI_rD = R6H8DqI9(XbYgi5, 1914099376, -445983013, -647087816);
 break;
 case 'c':
-INI_rD = R6H8DqI9(-1644358089, mGbz5h, n6b6cF, 1400052558);
+INI_rD = R6H8DqI9((unsigned char)-1644358089, mGbz5h, n6b6cF, 1400052558);
 break;
 case 'd':
 eU52M96P += 1379094673;
@@ -174,7 +175,7 @@ else
 INI_rD = R6H8DqI9(M_s3KyL8wd, INI_rD, I79FHqq, eU52M96P);
 }
 }
-std::cout << R6H8DqI9(192770243, -156527931, 368263339, 1624633200) << R6H8DqI9(-212811770, INI_rD, I79FHqq, eU52M96P) << "z6F_" << b152V5 << mGbz5h << std::endl;
+std::cout << R6H8DqI9(192770243, -156527931, (unsigned short)368263339, 1624633200) << R6H8DqI9(-212811770, INI_rD, I79FHqq, eU52M96P) << "z6F_" << b152V5 << mGbz5h << std::endl;
 
 G1kP6PNYWq = (unsigned char)(eU52M96P);
 INI_rD = R6H8DqI9(ouYPPodJpI, 1498061444, JvCIQ, -2089174407);
@@ -188,7 +189,7 @@ case 'b':
 INI_rD = R6H8DqI9(eU52M96P, 1275853375, -1807573203, mGbz5h);
 break;
 case 'c':
-INI_rD = R6H8DqI9(FJ6g9Jtjlp, ouYPPodJpI, -889806346, 754845942);
+INI_rD = R6H8DqI9(FJ6g9Jtjlp, ouYPPodJpI, (unsigned short)-889806346, 754845942);
 break;
 case 'd':
 mGbz5h = R6H8DqI9(520565709, ouYPPodJpI, mGbz5h, -626172822) ^ n6b6cF;
@@ -224,7 +225,7 @@ INI_rD = R6H8DqI9(p8i46q1, HI6TZ, FJ6g9Jtjlp, -1262397540);
 break;
 case 'b':
 case 'B':
-INI_rD = R6H8DqI9(-1637985831, 303093040, 1855036086, b152V5);
+INI_rD = R6H8DqI9(-1637985831, 303093040, (unsigned short)1855036086, b152V5);
 break;
 case 'c':
 case 'C':
@@ -236,7 +237,7 @@ INI_rD = R6H8DqI9(M_s3KyL8wd, -83584265, HI6TZ, Hmn9CIV3);
 break;
 case 'e':
 case 'E':
-INI_rD = R6H8DqI9(339112344, n6b6cF, 243060459, G1kP6PNYWq);
+INI_rD = R6H8DqI9(339112344, n6b6cF, (unsigned short)243060459, G1kP6PNYWq);
 break;
 }
 }
@@ -262,7 +263,7 @@ case 1:
 INI_rD = R6H8DqI9(b152V5, 1622036936, -629225215, INI_rD);
 break;
 case 2:
-INI_rD = R6H8DqI9(o3cFvt5D, I9_x7EKXt, 1017407286, Hmn9CIV3);
+INI_rD = R6H8DqI9(o3cFvt5D, I9_x7EKXt, (unsigned short)1017407286, Hmn9CIV3);
 break;
 default:
 FJ6g9Jtjlp %= 1249170196;
@@ -295,7 +296,7 @@ switch (Hmn9CIV3)
 {
 case 'a':
 case 'A':
-INI_rD = R6H8DqI9(1776138698, mGbz5h, -1444459245, G1kP6PNYWq);
+INI_rD = R6H8DqI9((unsigned char)1776138698, mGbz5h, -1444459245, G1kP6PNYWq);
 break;
 case 'b':
 case 'B':
@@ -352,7 +353,7 @@ QH3S_--;
 
 q4E9tqw6 = (unsigned char)(Hmn9CIV3);
 
-std::cout << p8i46q1 << R6H8DqI9(mGbz5h, Hmn9CIV3, 1482307549, -315589776) << R6H8DqI9(1632147072, -1689228548, -868183096, -1941226632) << INI_rD << std::endl;
+std::cout << p8i46q1 << R6H8DqI9(mGbz5h, Hmn9CIV3, 1482307549, -315589776) << R6H8DqI9((unsigned char)1632147072, -1689228548, -868183096, -1941226632) << INI_rD << std::endl;
 
 QH3S_ = FJ6g9Jtjlp / INI_rD;
 
@@ -413,7 +414,7 @@ for (int j = 0; j < 9; j++)
 {
 if ((mo0O_S8 > 1891589322) || (Jms_4w == 560706888))
 {
-INI_rD = R6H8DqI9(748851482, I9_x7EKXt, 1498951134, QH3S_);
+INI_rD = R6H8DqI9(748851482, I9_x7EKXt, (unsigned short)1498951134, QH3S_);
 }
 else if (mo0O_S8 != -1771715819)
 {
@@ -466,7 +467,7 @@ j--;
 int k = 0;
 do
 {
-INI_rD = R6H8DqI9(-799798887, Hmn9CIV3, -504559654, n6b6cF);
+INI_rD = R6H8DqI9(-799798887, Hmn9CIV3, (unsigned short)-504559654, n6b6cF);
 k++;
 }
 while (k < 8);
@@ -485,7 +486,7 @@ INI_rD = R6H8DqI9(o3cFvt5D, XbYgi5, -1243972022, -1974535885);
 }
 else
 {
-INI_rD = R6H8DqI9(mo0O_S8, -634253314, 1165205900, p8i46q1);
+INI_rD = R6H8DqI9(mo0O_S8, -634253314, (unsigned short)1165205900, p8i46q1);
 }
 }
 catch (int& errorCode)
@@ -553,7 +554,7 @@ INI_rD = R6H8DqI9(Hmn9CIV3, I9_x7EKXt, 238243896, o3cFvt5D);
 break;
 case 'f':
 case 'F':
-INI_rD = R6H8DqI9(-1365712093, 758838504, -434017175, 1035525194);
+INI_rD = R6H8DqI9((unsigned char)-1365712093, 758838504, -434017175, 1035525194);
 break;
 case 'g':
 case 'G':
@@ -576,7 +577,7 @@ p8i46q1 = Jms_4w & mGbz5h;
 break;
 case 'b':
 case 'B':
-INI_rD = R6H8DqI9(-161700240, -264996621, 104378898, M_s3KyL8wd);
+INI_rD = R6H8DqI9(-161700240, -264996621, (unsigned short)104378898, M_s3KyL8wd);
 break;
 case 'c':
 case 'C':
@@ -619,7 +620,7 @@ else
 {
 if (eU52M96P <= 1832346259)
 {
-INI_rD = R6H8DqI9(-255760450, o3cFvt5D, 2111692411, -333829180);
+INI_rD = R6H8DqI9(-255760450, o3cFvt5D, (unsigned short)2111692411, -333829180);
 }
 else
 {
@@ -629,7 +630,7 @@ XbYgi5 |= AEPM;
 }
 else if (o3cFvt5D != -2042436213)
 {
-std::cout << R6H8DqI9(583046241, 2134043842, AEPM, -20290488) << mo0O_S8 << R6H8DqI9(1238296469, o3cFvt5D, 2066219792, 1962250212) << R6H8DqI9(-222766710, -167984272, AEPM, -2043416833) << R6H8DqI9(mGbz5h, -88622337, -1951267785, Hmn9CIV3) << std::endl;
+std::cout << R6H8DqI9(583046241, 2134043842, AEPM, -20290488) << mo0O_S8 << R6H8DqI9((unsigned char)1238296469, o3cFvt5D, 2066219792, 1962250212) << R6H8DqI9(-222766710, -167984272, AEPM, -2043416833) << R6H8DqI9(mGbz5h, -88622337, -1951267785, Hmn9CIV3) << std::endl;
 }
 else if (ouYPPodJpI <= eU52M96P)
 {
@@ -641,7 +642,7 @@ INI_rD = R6H8DqI9(G1kP6PNYWq, -1869381173, AEPM, 1613943222);
 break;
 case 'b':
 case 'B':
-INI_rD = R6H8DqI9(2103310308, mo0O_S8, -1802660420, -1319213142);
+INI_rD = R6H8DqI9(2103310308, mo0O_S8, (unsigned short)-1802660420, -1319213142);
 break;
 case 'c':
 case 'C':
@@ -688,7 +689,7 @@ switch (o3cFvt5D)
 {
 case 'a':
 case 'A':
-INI_rD = R6H8DqI9(-2002211628, INI_rD, -1934850912, -86419714);
+INI_rD = R6H8DqI9(-2002211628, INI_rD, (unsigned short)-1934850912, -86419714);
 break;
 }
 }
@@ -710,7 +711,7 @@ case 2:
 G1kP6PNYWq = R6H8DqI9(INI_rD, 1320858820, I9_x7EKXt, -678696616) ^ 92821451;
 break;
 case 3:
-INI_rD = R6H8DqI9(2091502243, 744120770, INI_rD, 1875090670);
+INI_rD = R6H8DqI9((unsigned char)2091502243, 744120770, INI_rD, 1875090670);
 break;
 case 4:
 o3cFvt5D = mGbz5h - INI_rD;
@@ -733,7 +734,7 @@ break;
 }
 }
 
-INI_rD = R6H8DqI9(-1847482506, 523755441, -1138767686, 124526702);
+INI_rD = R6H8DqI9((unsigned char)-1847482506, 523755441, -1138767686, 124526702);
 if (INI_rD == I9_x7EKXt)
 {
 INI_rD = R6H8DqI9(-1312366274, -833850396, I79FHqq, 523416290);
@@ -773,7 +774,7 @@ case 1:
 INI_rD = R6H8DqI9(o3cFvt5D, HI6TZ, 1508173807, FJ6g9Jtjlp);
 break;
 case 2:
-INI_rD = R6H8DqI9(FJ6g9Jtjlp, -1575791272, -205356482, -858871889);
+INI_rD = R6H8DqI9(FJ6g9Jtjlp, -1575791272, (unsigned short)-205356482, -858871889);
 break;
 case 3:
 n6b6cF %= 1787253066;

@@ -17,7 +17,7 @@ unsigned char    mRr4Xrm00G(unsigned int    NgVe7,char    x6_99_)    {
 }
 
 unsigned short    vu9_(unsigned long long    x9142fV,int    vkatDy7E,unsigned int    v102192sO)    {
-    return    1579398359;
+    return    (unsigned short)1579398359;
 }
 
 unsigned long n_nCZ(char Wy7jMmQX,short int q_1K)
@@ -209,7 +209,7 @@ case 0:
 t9W3 = mRr4Xrm00G(-685632539, -163725506);
 break;
 case 1:
-SDpQPdC = n_nCZ(t9W3, 493103467) | 593965696;
+SDpQPdC = n_nCZ(t9W3, (short)493103467) | 593965696;
 break;
 }
 }
@@ -225,7 +225,7 @@ case 0:
 f346lO /= 1170134434;
 break;
 case 1:
-a8zcbEOrpe = (Gv_mkD9i != -2085698282) ? 1089515733 : n_nCZ(-2022275625, -17121496);
+a8zcbEOrpe = (Gv_mkD9i != -2085698282) ? 1089515733 : n_nCZ(-2022275625, (short)-17121496);
 break;
 case 2:
 QbjdTC2f = zP5gNhM_8d + 1251664375;
@@ -371,7 +371,7 @@ TV5E98d9uq -= 1426828726;
 break;
 case 'h':
 case 'H':
-X9H3 = (iDn9sT7 < -1033080692) ? n_nCZ(1396535261, E7__xe4q) : eUz6I;
+X9H3 = (iDn9sT7 < -1033080692) ? n_nCZ((char)1396535261, E7__xe4q) : eUz6I;
 break;
 case 'i':
 case 'I':

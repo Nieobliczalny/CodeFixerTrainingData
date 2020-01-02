@@ -14,7 +14,7 @@ short int  GODV(long long  T90l8dPCPo,int  aXt7y,int  XOJFuoY)
 }
 
 short xHoNib778_() {
- return 332054134;
+ return (short)332054134;
 }
 
 long long ylbfeB7(unsigned long qql_j94p,unsigned long long aK0k_5,unsigned char czO0LW15w8,int htmI6)
@@ -42,7 +42,7 @@ int main(void) {
 	long long	ps73j;
 	ps73j	=	1664217082;
     unsigned short int    YprQM3R892;
-    YprQM3R892    =    -342462738;
+    YprQM3R892    =    (unsigned short)-342462738;
   unsigned long long  BnO2UP_;
   BnO2UP_  =  1301581777;
 	short int	GaT8;
@@ -58,7 +58,7 @@ int main(void) {
 	unsigned short	QAWv144x;
 	QAWv144x	=	1765287159;
   unsigned short int  Cn42;
-  Cn42  =  -434139104;
+  Cn42  =  (unsigned short)-434139104;
  long long ew1BzBmE;
  ew1BzBmE = -704515761;
     long    S6u7k;
@@ -72,7 +72,7 @@ int main(void) {
     unsigned short    yHx8;
     yHx8    =    461559786;
  short ggUoXaop;
- ggUoXaop = 2094355823;
+ ggUoXaop = (short)2094355823;
     long long    N906L8X;
     N906L8X    =    290447393;
     long double    c0C35P3;
@@ -88,7 +88,7 @@ int main(void) {
  long b980q;
  b980q = 191824287;
 	short	rF_341fzcR;
-	rF_341fzcR	=	1938281558;
+	rF_341fzcR	=	(short)1938281558;
  int xbf0;
  xbf0 = 647652519;
     unsigned long    QK0TsxHTB_;
@@ -102,7 +102,7 @@ int main(void) {
 	int	ICT_upC9W5;
 	ICT_upC9W5	=	-1174723203;
     char    Rupz9u_L;
-    Rupz9u_L    =    -1539438595;
+    Rupz9u_L    =    (char)-1539438595;
     unsigned char    oL2y;
     oL2y    =    -1649283292;
  short gic5RCe;
@@ -112,7 +112,7 @@ int main(void) {
     short    bVKUEgyDsr;
     bVKUEgyDsr    =    -2056260730;
 	short	u0_g0;
-	u0_g0	=	1329639135;
+	u0_g0	=	(short)1329639135;
  unsigned long Pq0x2Bg;
  Pq0x2Bg = 370376907;
   long  mS8Y6oErD;
@@ -124,7 +124,7 @@ int main(void) {
  unsigned short int GlY7305_;
  GlY7305_ = -865082067;
     unsigned char    U9VF;
-    U9VF    =    -1582793856;
+    U9VF    =    (unsigned char)-1582793856;
 	unsigned short int	zHgyRJ;
 	zHgyRJ	=	-1069818613;
   float  Pty24hC3;
@@ -341,7 +341,7 @@ case 2:
 GaT8 = v15Uz369R(GaT8, YprQM3R892, mXvZ7et, 1731595120);
 break;
 case 3:
-QK0TsxHTB_ = v15Uz369R(QK0TsxHTB_, BxFB, 608656354, 475672627);
+QK0TsxHTB_ = v15Uz369R(QK0TsxHTB_, BxFB, 608656354, (short)475672627);
 break;
 case 4:
 b_P48pXE6 = (int)floor(x5OW6p67c);

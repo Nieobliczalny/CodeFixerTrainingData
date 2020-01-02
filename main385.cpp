@@ -100,7 +100,7 @@ tjs01_4n = E_Slg3P0h >> 1968182429;
 }
 if ((RsCUt5G / OV2gp5X(P9xJQ, -649554242, E_Slg3P0h)) >= 1677306825)
 {
-tjs01_4n = RsCUt5G / OV2gp5X(1104092769, -1026160101, E_Slg3P0h);
+tjs01_4n = RsCUt5G / OV2gp5X((short)1104092769, -1026160101, E_Slg3P0h);
 }
 
 {
@@ -124,7 +124,7 @@ else if (P9xJQ > 1820513512)
 int k = 0;
 do
 {
-E_Slg3P0h = OV2gp5X(-1193467639, E_Slg3P0h, -548762337);
+E_Slg3P0h = OV2gp5X(-1193467639, E_Slg3P0h, (unsigned char)-548762337);
 k++;
 }
 while (k < 3);
@@ -235,7 +235,7 @@ short int  C7sPMcJ4(unsigned long  YDzVRx6mA)
 
 unsigned short int    pA8B(unsigned char    W8d9B7,long    XM07)
 {
-    return    -25776210;
+    return    (unsigned short)-25776210;
 }
 
 unsigned short Usmsd()

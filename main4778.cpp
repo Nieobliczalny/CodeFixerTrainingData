@@ -74,7 +74,7 @@ if (wclrE8_tD & gPQ4c_9)
 int j = 0;
 while (j < 8)
 {
-std::cout << "o8Kk01" << "gqvyiD" << N50btIT9h << qM9U_8i(1809146895, cUNxs0477O, 1086759012) << qM9U_8i(-935201979, cUNxs0477O, ZKo9ACCS) << std::endl;
+std::cout << "o8Kk01" << "gqvyiD" << N50btIT9h << qM9U_8i(1809146895, cUNxs0477O, (char)1086759012) << qM9U_8i(-935201979, cUNxs0477O, ZKo9ACCS) << std::endl;
 ++j;
 }
 }
@@ -97,7 +97,7 @@ case 2:
 P4v2z = VPwFHx_(673173533, GQk4m42M7, 1453033731, N50btIT9h);
 break;
 case 3:
-YJ30 = qM9U_8i(1586499367, GQk4m42M7, -888020060) >> 874887736;
+YJ30 = qM9U_8i((unsigned short)1586499367, GQk4m42M7, -888020060) >> 874887736;
 break;
 case 4:
 GQk4m42M7 = qM9U_8i(-910828808, gPQ4c_9, Zh14);
@@ -142,7 +142,7 @@ wclrE8_tD = qM9U_8i(xANxi, D7nx0Ze3Gs, Bq00__H0);
 }
 }
 
-std::cout << VPwFHx_(-2075213809, D7nx0Ze3Gs, -539399709, -20723759) << "V7C1bsnc" << "b8HJ13DZ" << qM9U_8i(xANxi, D7nx0Ze3Gs, -706172168) << QgPjp03j << std::endl;
+std::cout << VPwFHx_(-2075213809, D7nx0Ze3Gs, -539399709, -20723759) << "V7C1bsnc" << "b8HJ13DZ" << qM9U_8i(xANxi, D7nx0Ze3Gs, (char)-706172168) << QgPjp03j << std::endl;
 
 try
 {
@@ -179,7 +179,7 @@ if (gPQ4c_9 > r228Bh3pxe)
 int j = 0;
 do
 {
-std::cout << VPwFHx_(ad5W7Ih43, -165736440, -1516344353, -1555232391) << ad5W7Ih43 << VPwFHx_(ad5W7Ih43, D7nx0Ze3Gs, 1947803595, -965666379) << BRu8h << "ZQn4" << std::endl;
+std::cout << VPwFHx_(ad5W7Ih43, -165736440, -1516344353, -1555232391) << ad5W7Ih43 << VPwFHx_(ad5W7Ih43, D7nx0Ze3Gs, (unsigned char)1947803595, -965666379) << BRu8h << "ZQn4" << std::endl;
 j++;
 }
 while (j < 10);
@@ -196,7 +196,7 @@ case 1:
 Nvr3 = qM9U_8i(Nvr3, gPQ4c_9, GQk4m42M7);
 break;
 case 2:
-G7ontsUom6 = VPwFHx_(628648259, 1518298107, -643100210, -153500450);
+G7ontsUom6 = VPwFHx_(628648259, 1518298107, (unsigned char)-643100210, -153500450);
 break;
 case 3:
 n2qb8--;
@@ -238,7 +238,7 @@ case 2:
 xcTfNk0ic5 ^= 1885510491;
 break;
 case 3:
-uzT7 = VPwFHx_(-1897358772, -1999863742, 509355927, xcTfNk0ic5);
+uzT7 = VPwFHx_(-1897358772, -1999863742, (unsigned char)509355927, xcTfNk0ic5);
 break;
 case 4:
 wclrE8_tD = qM9U_8i(wclrE8_tD, uzT7, ZKo9ACCS);

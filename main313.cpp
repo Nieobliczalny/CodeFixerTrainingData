@@ -128,7 +128,7 @@ while (j >= 0)
 --j;
 for (int k = 0; k < 1; k++)
 {
-TG2e_M = x26DdLG8(-602300759, -2100421878, EOPhrUeJ1V);
+TG2e_M = x26DdLG8(-602300759, (unsigned char)-2100421878, EOPhrUeJ1V);
 }
 }
 }
@@ -173,7 +173,7 @@ case 'b':
 cg_cs <<= aE2rZ;
 break;
 case 'c':
-m78_o7Wnuf = x26DdLG8(954170912, -41549665, f213U3VW);
+m78_o7Wnuf = x26DdLG8(954170912, (unsigned char)-41549665, f213U3VW);
 break;
 case 'd':
 xSq4_147g6 = W8gL05FTd ^ 717759633;
@@ -213,7 +213,7 @@ case 'd':
 b4IWyKn = (int)abs(W5O2pt);
 break;
 case 'e':
-w7UEBGnLbY = x26DdLG8(-1439489720, -1248447185, QDFXd);
+w7UEBGnLbY = x26DdLG8(-1439489720, (unsigned char)-1248447185, QDFXd);
 break;
 case 'f':
 x714 = fo_c();

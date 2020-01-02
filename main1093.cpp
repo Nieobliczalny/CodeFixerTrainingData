@@ -102,7 +102,7 @@ else if (((Dk6733f8 > A_2SU4) && (TP6FHc_WP)) && ((u5fa49 == -1229901728) || (sx
 switch (QJaMEBom)
 {
 case 0:
-F6CjRu = B9kNu58ty(1894739705, 53922669, 478209442, -1027975719);
+F6CjRu = B9kNu58ty(1894739705, 53922669, 478209442, (unsigned char)-1027975719);
 break;
 case 1:
 KWOMs4SZn = B9kNu58ty(KWOMs4SZn, -353219804, vxmlz, C_f7Z);
@@ -187,7 +187,7 @@ case 'a':
 z7ln8Qq1 = B9kNu58ty(z7ln8Qq1, 1043982435, f7wu0b26oW, 173619423);
 break;
 case 'b':
-f7wu0b26oW = B9kNu58ty(-465869366, Ek9B268O, z7ln8Qq1, -566560511);
+f7wu0b26oW = B9kNu58ty(-465869366, Ek9B268O, z7ln8Qq1, (unsigned char)-566560511);
 break;
 default:
 sxt911q = F6CjRu % QJaMEBom;
@@ -248,7 +248,7 @@ unsigned char    B9kNu58ty(unsigned int    bO5X,unsigned long    eSyJh9,long lon
 
 short d9XU2(unsigned long oDiahH8,char BPXXU__31,long long du_1,unsigned long ldNQULj2KK,unsigned long long srT8qnh3Rr)
 {
- return 631653885;
+ return (short)631653885;
 }
 
 char	DsF4JI9r5(int	TUF4H__dk3,long	iveNjq)

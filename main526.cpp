@@ -19,7 +19,7 @@ char    V96y(unsigned short int    RJcumZG,unsigned char    B_04C_47,unsigned ch
 
 int main() {
   unsigned short int  jrdaScm4_,  o2tCUM,  ii84GEq,  pF843f0,  r_q4,  ziLy5q,  vHQKOGz,  ix2V9m,  S9AA3O0G,  I_SeM,  WR0hCMjYI_,  nIpf,  D79_Y,  cU98C1,  wp0r6ty,  N3vbl_1u2_,  Oht7Eg5WV,  tgg7Tm,  hj2FmA_0,  F4xF,  XRhO,  Kp_Vb,  FI_cp4,  F34Zq,  J2bkvzUd72,  Y0_3n33,  qbl_1u,  K9F06ThB6Z,  Z0fF01ypi1,  ktKxn,  h4n5z3,  O1vK5u,  an1DV_,  Ga7fx9vx,  HF0tU,  B1i4M,  Gz__fEGxG,  IUeItX,  K8Wi9sD_,  D6Zi5Lk7,  TWE1D2,  CfHU6z,  l523YyO,  qJPKm14R,  bH6D_w_,  Gj_GCj,  nfoY0zm6FL,  eT3O9T4c3,  Y5UggBX97,  fiwXpv11,  f_Y_J8Q,  R4IePG_87,  T2n6575,  WVkzn,  G6Hjj1iz0d,  bV55T71,  poqRT,  H9nEyLL0,  k845Q,  POT2IVTd6,  VS3z;
-    jrdaScm4_  =  o2tCUM  =  ii84GEq  =  pF843f0  =  r_q4  =  ziLy5q  =  vHQKOGz  =  ix2V9m  =  S9AA3O0G  =  I_SeM  =  WR0hCMjYI_  =  nIpf  =  D79_Y  =  cU98C1  =  wp0r6ty  =  N3vbl_1u2_  =  Oht7Eg5WV  =  tgg7Tm  =  hj2FmA_0  =  F4xF  =  XRhO  =  Kp_Vb  =  FI_cp4  =  F34Zq  =  J2bkvzUd72  =  Y0_3n33  =  qbl_1u  =  K9F06ThB6Z  =  Z0fF01ypi1  =  ktKxn  =  h4n5z3  =  O1vK5u  =  an1DV_  =  Ga7fx9vx  =  HF0tU  =  B1i4M  =  Gz__fEGxG  =  IUeItX  =  K8Wi9sD_  =  D6Zi5Lk7  =  TWE1D2  =  CfHU6z  =  l523YyO  =  qJPKm14R  =  bH6D_w_  =  Gj_GCj  =  nfoY0zm6FL  =  eT3O9T4c3  =  Y5UggBX97  =  fiwXpv11  =  f_Y_J8Q  =  R4IePG_87  =  T2n6575  =  WVkzn  =  G6Hjj1iz0d  =  bV55T71  =  poqRT  =  H9nEyLL0  =  k845Q  =  POT2IVTd6  =  VS3z  =  3455036;
+    jrdaScm4_  =  o2tCUM  =  ii84GEq  =  pF843f0  =  r_q4  =  ziLy5q  =  vHQKOGz  =  ix2V9m  =  S9AA3O0G  =  I_SeM  =  WR0hCMjYI_  =  nIpf  =  D79_Y  =  cU98C1  =  wp0r6ty  =  N3vbl_1u2_  =  Oht7Eg5WV  =  tgg7Tm  =  hj2FmA_0  =  F4xF  =  XRhO  =  Kp_Vb  =  FI_cp4  =  F34Zq  =  J2bkvzUd72  =  Y0_3n33  =  qbl_1u  =  K9F06ThB6Z  =  Z0fF01ypi1  =  ktKxn  =  h4n5z3  =  O1vK5u  =  an1DV_  =  Ga7fx9vx  =  HF0tU  =  B1i4M  =  Gz__fEGxG  =  IUeItX  =  K8Wi9sD_  =  D6Zi5Lk7  =  TWE1D2  =  CfHU6z  =  l523YyO  =  qJPKm14R  =  bH6D_w_  =  Gj_GCj  =  nfoY0zm6FL  =  eT3O9T4c3  =  Y5UggBX97  =  fiwXpv11  =  f_Y_J8Q  =  R4IePG_87  =  T2n6575  =  WVkzn  =  G6Hjj1iz0d  =  bV55T71  =  poqRT  =  H9nEyLL0  =  k845Q  =  POT2IVTd6  =  VS3z  =  (unsigned short)3455036;
 	long long	a0wou6dbu0,	hePZYti,	d0f06,	U0N4i_A7WM,	oYl2h64;
 		a0wou6dbu0	=	hePZYti	=	d0f06	=	U0N4i_A7WM	=	oYl2h64	=	0;
 
@@ -59,7 +59,7 @@ case 0:
 qbl_1u = uk8671s8(qbl_1u);
 break;
 case 1:
-d0f06 = V96y(-872842853, 112611865, wp0r6ty);
+d0f06 = V96y(-872842853, (unsigned char)112611865, wp0r6ty);
 break;
 case 2:
 hj2FmA_0 = (F4xF > 1874746507) ? uk8671s8(-836765070) : -1985475223;
@@ -71,7 +71,7 @@ case 4:
 U0N4i_A7WM = V96y(981747130, -21303888, 2055766452);
 break;
 case 5:
-hePZYti = V96y(-259774699, bV55T71, 859855620);
+hePZYti = V96y(-259774699, bV55T71, (unsigned char)859855620);
 break;
 case 6:
 D79_Y = nIpf % poqRT;
@@ -131,7 +131,7 @@ switch (Z0fF01ypi1)
 {
 case 'a':
 case 'A':
-D79_Y = V96y(261495015, 1668624378, ktKxn) - 1825667934;
+D79_Y = V96y(261495015, (unsigned char)1668624378, ktKxn) - 1825667934;
 break;
 case 'b':
 case 'B':
@@ -143,7 +143,7 @@ oYl2h64 = V96y(pF843f0, -760654428, 1308996664);
 break;
 case 'd':
 case 'D':
-hePZYti = V96y(-545673677, 1054325371, -1639128331);
+hePZYti = V96y(-545673677, (unsigned char)1054325371, -1639128331);
 break;
 case 'e':
 case 'E':
@@ -189,7 +189,7 @@ catch (int& errorCode)
 {
 ii84GEq = (N3vbl_1u2_ & 397496843) ? uk8671s8(142666968) : Z0fF01ypi1;
 }
-oYl2h64 = V96y(an1DV_, 2141004786, -351012886);
+oYl2h64 = V96y(an1DV_, 2141004786, (unsigned char)-351012886);
 if ((Y0_3n33 >= -1647886892) && ((ziLy5q) || (jrdaScm4_ <= poqRT)))
 {
 F4xF ^= Z0fF01ypi1;
@@ -225,7 +225,7 @@ int i = 9;
 do
 {
 i--;
-a0wou6dbu0 = V96y(-125058853, F4xF, 2077913754);
+a0wou6dbu0 = V96y(-125058853, F4xF, (unsigned char)2077913754);
 }
 while (i >= 0);
 }
@@ -241,7 +241,7 @@ case 0:
 U0N4i_A7WM = V96y(-423653435, O1vK5u, vHQKOGz);
 break;
 case 1:
-d0f06 = V96y(CfHU6z, -352724740, S9AA3O0G);
+d0f06 = V96y(CfHU6z, (unsigned char)-352724740, S9AA3O0G);
 break;
 case 2:
 Z0fF01ypi1 = an1DV_ % 304701865;

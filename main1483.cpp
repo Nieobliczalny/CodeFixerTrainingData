@@ -93,7 +93,7 @@ LY1Qsb6xS *= k7C7;
 
 if (tURgp9Vl2(Cr_2h01M, Ip_rozrkZQ, 1542272264, -1994798237) == 0)
 {
-	SSsHYPD = Ip_rozrkZQ / tURgp9Vl2(Cr_2h01M, Ip_rozrkZQ, 1542272264, -1994798237);
+	SSsHYPD = Ip_rozrkZQ / tURgp9Vl2(Cr_2h01M, Ip_rozrkZQ, (unsigned short)1542272264, -1994798237);
 }
 {
 int i = 10;

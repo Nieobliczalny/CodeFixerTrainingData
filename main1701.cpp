@@ -101,7 +101,7 @@ case 4:
 Uam4gN47Rp = Kb_401Z();
 break;
 case 5:
-DC53EV = f6pLe(DC53EV, F57s_4u6S1, cJ52, -1279018865);
+DC53EV = f6pLe(DC53EV, F57s_4u6S1, cJ52, (unsigned short)-1279018865);
 break;
 }
 }
@@ -256,7 +256,7 @@ vln61N = IJB7M_4R2 - 37838752;
 
 if (i_1F & z5j3GDe)
 {
-cJ52 = f6pLe(cJ52, -1234515986, 1948593630, -1203247350);
+cJ52 = f6pLe(cJ52, -1234515986, 1948593630, (unsigned short)-1203247350);
 }
 for (int i = 1; i >= 0; i--)
 {

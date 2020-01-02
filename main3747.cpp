@@ -24,7 +24,7 @@ short int T1zW2bo(unsigned long long MjBRoQ01,unsigned int r30lI,unsigned short 
 
 unsigned short int  ZzS8gAZPbl(long  MLrZa5YGd,short int  tqQjAz7S_u,int  v2zXf_g)
 {
-  return  1805869996;
+  return  (unsigned short)1805869996;
 }
 
 int main(int argc, char** argv) {
@@ -97,7 +97,7 @@ case 1:
 fLWFHF++;
 break;
 case 2:
-J4j_VzF5qL = T1zW2bo(1425794109, -1893345774, -1833602269, -52332302, VxeW_5);
+J4j_VzF5qL = T1zW2bo(1425794109, -1893345774, -1833602269, (unsigned short)-52332302, VxeW_5);
 break;
 case 3:
 fLWFHF %= 613934793;
@@ -138,7 +138,7 @@ mb8mvD = (int)abs(vIv_VMNod);
 break;
 case 'f':
 case 'F':
-OaS0qk = ZzS8gAZPbl(OaS0qk, -1001651775, RCcWm);
+OaS0qk = ZzS8gAZPbl(OaS0qk, (short)-1001651775, RCcWm);
 break;
 case 'g':
 case 'G':

@@ -28,7 +28,7 @@ int main() {
 	unsigned short	rU__8yHAMU;
 	rU__8yHAMU	=	-59231349;
   unsigned short int  fp4WS_;
-  fp4WS_  =  1363749133;
+  fp4WS_  =  (unsigned short)1363749133;
 	unsigned int	Rsku18c6;
 	Rsku18c6	=	0;
  double XNt57_9pI;
@@ -50,7 +50,7 @@ int main() {
  float t0_3Y3_w_F;
  t0_3Y3_w_F = 2108337131;
  short int fXdTuuO;
- fXdTuuO = 474678861;
+ fXdTuuO = (short)474678861;
 	double	R86jH;
 	R86jH	=	1490682549;
 	short int	Bil6zuXFI;
@@ -62,7 +62,7 @@ int main() {
 	unsigned int	Iuse;
 	Iuse	=	1009407964;
   short int  Tl93gy0S;
-  Tl93gy0S  =  1184321103;
+  Tl93gy0S  =  (short)1184321103;
  long long X8cUQ;
  X8cUQ = -7286753;
 	char	tQCw;
@@ -74,7 +74,7 @@ int main() {
 	unsigned int	c0r96;
 	c0r96	=	-176293680;
     unsigned char    OA_IU5_23V;
-    OA_IU5_23V    =    -908966515;
+    OA_IU5_23V    =    (unsigned char)-908966515;
   unsigned short  u062m;
   u062m  =  990697678;
  short j2Nh;
@@ -84,7 +84,7 @@ int main() {
  short int EtPMwpv;
  EtPMwpv = 410731533;
   short  u4Jkr6;
-  u4Jkr6  =  1143347215;
+  u4Jkr6  =  (short)1143347215;
  unsigned long bv3_1k_;
  bv3_1k_ = 1173543588;
   unsigned short int  zErrzz;
@@ -94,7 +94,7 @@ int main() {
  unsigned short int So6N65m6;
  So6N65m6 = 0;
  unsigned short int QH1XsG8RG;
- QH1XsG8RG = -666048193;
+ QH1XsG8RG = (unsigned short)-666048193;
   unsigned char  Duz87h8U04;
   Duz87h8U04  =  -1136511415;
  short Ag_4KV;
@@ -114,7 +114,7 @@ int main() {
     int    d1h3HK;
     d1h3HK    =    338787001;
 	unsigned char	G8uo0;
-	G8uo0	=	-228411702;
+	G8uo0	=	(unsigned char)-228411702;
 	char	p6qT_3w7;
 	p6qT_3w7	=	1956868506;
   unsigned long  D8HI7;
@@ -128,7 +128,7 @@ int main() {
   unsigned long long  Xv0Y5;
   Xv0Y5  =  636746644;
  unsigned short r_6zM2;
- r_6zM2 = -1908221415;
+ r_6zM2 = (unsigned short)-1908221415;
   double  w9HH_1i;
   w9HH_1i  =  1676005150;
  unsigned char C5X3;
@@ -142,7 +142,7 @@ int main() {
     int    Fc31PYuh;
     Fc31PYuh    =    1293939851;
 	short int	O0Um1;
-	O0Um1	=	1609939154;
+	O0Um1	=	(short)1609939154;
  unsigned short svium;
  svium = -286068869;
 	long long	wB9e;
@@ -174,7 +174,7 @@ int main() {
 	long long	u3fL;
 	u3fL	=	741501807;
 	char	c5LRKL0_;
-	c5LRKL0_	=	-1938988231;
+	c5LRKL0_	=	(char)-1938988231;
  short int xXL9O1p;
  xXL9O1p = -413475581;
 	unsigned int	V68_4pbe5I;

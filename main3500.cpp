@@ -20,7 +20,7 @@ short  SHoM(unsigned int  P4fu1RNO6O,short int  r62qO7MJFk)
 }
 
 unsigned short int	hTeYZbJPzj()	{
-	return	-1444841193;
+	return	(unsigned short)-1444841193;
 }
 
 unsigned char  qi6cT1PoT(int  a029D,char  OwBIn4Fd,int  XPDiPcr,unsigned long  ff5NVS,unsigned int  R6Z09pooL)  {
@@ -94,7 +94,7 @@ int k = 8;
 do
 {
 k--;
-l_76ItTa = SHoM(-1395395530, -1091367083);
+l_76ItTa = SHoM(-1395395530, (short)-1091367083);
 }
 while (k >= 0);
 }
@@ -110,7 +110,7 @@ int k = 9;
 while (k >= 0)
 {
 --k;
-t7Wa1374 = SyuV(-183893141, t7Wa1374, FW59QHxjYO, -1081905944, JW9m2RS);
+t7Wa1374 = SyuV((short)-183893141, t7Wa1374, FW59QHxjYO, -1081905944, JW9m2RS);
 }
 }
 }
@@ -128,7 +128,7 @@ case 1:
 Mt26l = hTeYZbJPzj();
 break;
 case 2:
-guE2CtR = SyuV(J76VcM, -39001397, 1942262199, 579630936, -195984492);
+guE2CtR = SyuV(J76VcM, -39001397, 1942262199, 579630936, (unsigned short)-195984492);
 break;
 case 3:
 Rw0Aqc4 = (int)abs(a2dUOICmy);
@@ -144,7 +144,7 @@ tGmErT = (int)abs(HbFg_);
 break;
 }
 }
-Y_Ufe = SyuV(-2134702997, -1065793892, -862308016, 5599212, pesn1Soyt_);
+Y_Ufe = SyuV(-2134702997, -1065793892, -862308016, (short)5599212, pesn1Soyt_);
 
 if (zNePdlAf & dPyO)
 {
@@ -188,7 +188,7 @@ i--;
 while (i >= 0);
 }
 
-std::cout << SyuV(k_Ux_, YjLX41HX0S, Uhz7X, 1306632586, -535326987) << "z5D2u" << "F2t0EN" << hTeYZbJPzj() << std::endl;
+std::cout << SyuV(k_Ux_, YjLX41HX0S, Uhz7X, 1306632586, (unsigned short)-535326987) << "z5D2u" << "F2t0EN" << hTeYZbJPzj() << std::endl;
 FW59QHxjYO = (int)(ACjcPyY);
 if (k_Ux_ & dPyO)
 {
@@ -258,7 +258,7 @@ case 4:
 guE2CtR = (int)abs(pty_Vf47x);
 break;
 case 5:
-LkXvsrX1f = SyuV(481646465, zgc1Hm, 1754348180, 142497415, -656867328) - YycJm1m1;
+LkXvsrX1f = SyuV((short)481646465, zgc1Hm, 1754348180, 142497415, -656867328) - YycJm1m1;
 break;
 case 6:
 c7I_eJ86Mo = Y_Ufe + 1313241791;
@@ -366,7 +366,7 @@ wW818a = (int)(YeWMq);
 }
 else if (JKVqGcJQR <= GrBkZ)
 {
-C9_8 = SyuV(-1044256068, -1923566614, -1958344884, xr_0B4Y8, 905306027);
+C9_8 = SyuV(-1044256068, -1923566614, -1958344884, xr_0B4Y8, (unsigned short)905306027);
 }
 else if (Rw0Aqc4 >= 1453130823)
 {
@@ -569,7 +569,7 @@ JW9m2RS = FW59QHxjYO / J76VcM;
 }
 if (pa72 != 815332910)
 {
-xPq1 = SyuV(1643859376, 24759524, FW59QHxjYO, -985220146, c7I_eJ86Mo);
+xPq1 = SyuV(1643859376, 24759524, FW59QHxjYO, (short)-985220146, c7I_eJ86Mo);
 }
 else if ((m4bCedSBo >= YD5MQG) || (b02ZX6iy < 1649768541))
 {
@@ -641,7 +641,7 @@ do
 {
 if (((RAZ573Pw != ACjcPyY) || (CbBIT == dPyO)) || (e7_u63oj < -1671833766))
 {
-Q6Sy1Bi85U = SyuV(Q6Sy1Bi85U, 1636728583, d2qcM7PC, 1389482509, 499258563);
+Q6Sy1Bi85U = SyuV(Q6Sy1Bi85U, 1636728583, d2qcM7PC, 1389482509, (unsigned short)499258563);
 }
 else if ((rrsP_ < dPyO) && (m_jlA6qlq >= -839298279))
 {
@@ -677,7 +677,7 @@ else if (((ScTt11O_ss != dPyO) || (VX8nHr <= ka759E7r2)) && (C9_8 > 1217139712))
 {
 if (H9cl4rN <= dPyO)
 {
-guE2CtR = SyuV(guE2CtR, fO032EUqMf, -686077684, -834943870, 22464297);
+guE2CtR = SyuV(guE2CtR, fO032EUqMf, -686077684, -834943870, (unsigned short)22464297);
 }
 }
 else if (j2LSav_1l != dPyO)
@@ -734,7 +734,7 @@ break;
 switch (j2LSav_1l)
 {
 case 'a':
-J76VcM = qi6cT1PoT(-22863239, -457797762, -538955324, 1430903220, 144049972);
+J76VcM = qi6cT1PoT(-22863239, (char)-457797762, -538955324, 1430903220, 144049972);
 break;
 case 'b':
 k_Ux_ = qi6cT1PoT(-168849783, d2qcM7PC, fO032EUqMf, m4bCedSBo, jIl1Xr0r1);
@@ -749,7 +749,7 @@ if (wmfVVOUMJN > dPyO)
 int j = 0;
 do
 {
-YD5MQG = SyuV(1317112497, -1876123895, ky5JDDjTIA, 897186372, -1842790976);
+YD5MQG = SyuV(1317112497, -1876123895, ky5JDDjTIA, (short)897186372, -1842790976);
 j++;
 }
 while (j < 6);
@@ -842,7 +842,7 @@ b4gCEIS6 = (int)(hYjJ);
 switch (uIoQi)
 {
 case 0:
-Rfr4eW = SyuV(875453526, o732Rm, z6zFdn6pht, 1020027101, P9515_);
+Rfr4eW = SyuV(875453526, o732Rm, z6zFdn6pht, (short)1020027101, P9515_);
 break;
 case 1:
 m_jlA6qlq <<= d2qcM7PC;
@@ -854,7 +854,7 @@ case 3:
 t7Wa1374 = (int)abs(RAZ573Pw);
 break;
 case 4:
-CbBIT = SyuV(-1117090361, DM3n, HDaZX, pa72, 2110405868);
+CbBIT = SyuV(-1117090361, DM3n, HDaZX, pa72, (unsigned short)2110405868);
 break;
 }
 

@@ -18,7 +18,7 @@ int main() {
   unsigned long  x_HHPwt  =  1622755174;
     short    ntE07D    =    946987760;
  float P7k85 = 1941488512;
-    short int    DK940LV    =    1650507800;
+    short int    DK940LV    =    (short)1650507800;
   unsigned long long  vdt1cuFaM  =  -1874253850;
     long double    UuYE1_80    =    -1510253598;
 	unsigned long	rfTayzq	=	-1396112005;
@@ -28,7 +28,7 @@ int main() {
     long long    Lu9d4    =    -758324883;
     unsigned short int    R_YyNIL    =    -1274318512;
  char yNv_0M17 = -1083469270;
-  unsigned char  A3u7LeJt_  =  -2106264953;
+  unsigned char  A3u7LeJt_  =  (unsigned char)-2106264953;
   float  q8uLTN2Wdy  =  721039564;
   long long  SFlC02_  =  1945032547;
 	unsigned char	Me2Occu	=	2098838124;
@@ -41,7 +41,7 @@ int main() {
     double    Q3p9Ly8O    =    207141198;
   long  wv_S3Nz  =  1897902608;
   double  o0n2n0_  =  163090535;
-  short int  Ov1mw4_  =  -2042936984;
+  short int  Ov1mw4_  =  (short)-2042936984;
 	long double	Wu2PX	=	-1762157568;
  double F6e4YXjd = 1438365993;
 	unsigned long long	UDO_e1	=	-500512675;
@@ -51,7 +51,7 @@ int main() {
   short int  Ls3G  =  2053273195;
 	long double	xzABY5MtA	=	904624203;
     int    f1E51ZA3As    =    777102117;
- char N5c8USf = -2043235282;
+ char N5c8USf = (char)-2043235282;
  unsigned int R1_zv9q4L6 = -1706935918;
   unsigned long long  Pxwf_  =  1978803090;
   char  GqXYZ  =  -1015124929;
@@ -63,7 +63,7 @@ int main() {
  short K7Am = -1200181970;
 	long	wnwWzA	=	684287674;
   int  YrT0NU  =  730422751;
-    short int    z8xjT    =    -363256302;
+    short int    z8xjT    =    (short)-363256302;
  long vLu10 = 0;
     float    Q4s7llPVq    =    -439251475;
 	long double	EBkIEu5	=	872757974;
@@ -78,7 +78,7 @@ int main() {
  unsigned char FN391_Ma = -974134891;
     float    eNR5m    =    1359943741;
     long double    OwUcQj    =    -1866931307;
-  unsigned short  R4tp  =  -1506441542;
+  unsigned short  R4tp  =  (unsigned short)-1506441542;
     int    XPRcvUA1Y    =    1608444579;
  short int qKh4o96G2 = 0;
   unsigned short int  qN_W_7W9E4  =  -1379645865;

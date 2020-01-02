@@ -20,7 +20,7 @@ int main(void) {
 	long	Pua8Qc3n;
 	Pua8Qc3n	=	1073703759;
   unsigned char  Kziptk;
-  Kziptk  =  403839790;
+  Kziptk  =  (unsigned char)403839790;
  long long XKyI2Gxk;
  XKyI2Gxk = 1272772754;
  short int tzOdK;
@@ -62,7 +62,7 @@ int k = 0;
 do
 {
 k++;
-tzOdK = uoXRQkZFn(245161453, -1122218989, bx7DGgZ2XZ, 136651785, -1149633897);
+tzOdK = uoXRQkZFn(245161453, -1122218989, bx7DGgZ2XZ, (char)136651785, -1149633897);
 }
 while (k < 6);
 }
@@ -76,6 +76,7 @@ else
 {
 try
 {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
 cout << uoXRQkZFn(760048635, 1658894981, -670997486, i_x6, Kziptk) << uoXRQkZFn(tzOdK, wHWNi, bx7DGgZ2XZ, i_x6, -840019565) << uoXRQkZFn(2131912493, 665534038, -870056466, 1065157939, Kziptk) << bx7DGgZ2XZ << uoXRQkZFn(tzOdK, -1217205135, 180581594, 1338146910, -344537357) << endl;
 }
 catch (int& errorCode)
@@ -115,7 +116,7 @@ case 8:
 i_x6 |= XKyI2Gxk;
 break;
 default:
-i_x6 = uoXRQkZFn(-683437424, tzOdK, 1070324567, wHWNi, -306374580);
+i_x6 = uoXRQkZFn(-683437424, tzOdK, 1070324567, wHWNi, (short)-306374580);
 break;
 }
 if ((Kziptk == -1596065735) && (Pua8Qc3n >= 1400638980))
@@ -126,7 +127,7 @@ cout << "d3vM" << P_Vd(i_x6) << ec2D << "RU4_" << "B76_K_PNA" << endl;
 switch (VCm2)
 {
 case 0:
-wHWNi = uoXRQkZFn(-1540647799, -1354405400, 307962192, bx7DGgZ2XZ, Pua8Qc3n);
+wHWNi = uoXRQkZFn(-1540647799, -1354405400, (unsigned char)307962192, bx7DGgZ2XZ, Pua8Qc3n);
 break;
 default:
 Kziptk -= VCm2;
@@ -189,7 +190,7 @@ int k = 0;
 while (k < 10)
 {
 ++k;
-Kziptk = uoXRQkZFn(-2014843397, -1277427402, -28850445, -1091192972, wHWNi);
+Kziptk = uoXRQkZFn(-2014843397, -1277427402, (unsigned char)-28850445, -1091192972, wHWNi);
 }
 }
 j--;
@@ -251,7 +252,7 @@ if ((Pua8Qc3n) && (VCm2 < 490111930))
 {
 try
 {
-XKyI2Gxk = uoXRQkZFn(-1223053818, Kziptk, -1378323847, 605317060, -1508761674);
+XKyI2Gxk = uoXRQkZFn(-1223053818, Kziptk, -1378323847, (char)605317060, -1508761674);
 }
 catch (int& errorCode)
 {
@@ -272,7 +273,7 @@ VCm2 = P_Vd(VCm2);
 break;
 case 'c':
 case 'C':
-VCm2 = P_Vd(1983479289);
+VCm2 = P_Vd((short)1983479289);
 break;
 case 'd':
 case 'D':
@@ -288,7 +289,7 @@ Pua8Qc3n++;
 break;
 case 'g':
 case 'G':
-Kziptk = uoXRQkZFn(324203914, -878120827, i_x6, -1213248144, wHWNi);
+Kziptk = uoXRQkZFn(324203914, -878120827, i_x6, (char)-1213248144, wHWNi);
 break;
 case 'h':
 case 'H':
@@ -315,7 +316,7 @@ ec2D = Pua8Qc3n / wHWNi;
 }
 else
 {
-ec2D = uoXRQkZFn(-2008491039, -892781390, wHWNi, 897032167, Pua8Qc3n);
+ec2D = uoXRQkZFn(-2008491039, -892781390, wHWNi, (char)897032167, Pua8Qc3n);
 }
 }
 
@@ -342,7 +343,7 @@ i--;
 }
 while (i >= 0);
 }
-Pua8Qc3n = uoXRQkZFn(1473078405, VCm2, -558032368, -501405278, -321719884) * Pua8Qc3n;
+Pua8Qc3n = uoXRQkZFn(1473078405, VCm2, -558032368, (char)-501405278, -321719884) * Pua8Qc3n;
 
 {
 int i = 3;
@@ -362,7 +363,7 @@ tzOdK *= bx7DGgZ2XZ;
 break;
 case 'c':
 case 'C':
-wHWNi = uoXRQkZFn(wHWNi, Pua8Qc3n, 546367971, 1003774696, -1304737148);
+wHWNi = uoXRQkZFn(wHWNi, Pua8Qc3n, 546367971, (char)1003774696, -1304737148);
 break;
 case 'd':
 case 'D':
@@ -416,7 +417,7 @@ tzOdK = (int)abs(bx7DGgZ2XZ) + (-1583217514);
 }
 else if (ec2D)
 {
-ec2D = uoXRQkZFn(ec2D, 77625543, VCm2, 156904131, 1872269039);
+ec2D = uoXRQkZFn(ec2D, 77625543, VCm2, (char)156904131, 1872269039);
 }
 else if (ec2D != VCm2)
 {
@@ -445,7 +446,7 @@ while (k < 9);
 }
 else if (i_x6 <= -130829830)
 {
-cout << "wL_xh4_t" << "UFoyTjRYj" << uoXRQkZFn(-1534617204, ec2D, -649799031, 423574324, Kziptk) << endl;
+cout << "wL_xh4_t" << "UFoyTjRYj" << uoXRQkZFn(-1534617204, ec2D, -649799031, (char)423574324, Kziptk) << endl;
 }
 else
 {
@@ -489,7 +490,7 @@ catch (int& errorCode)
 ec2D = (int)abs(tzOdK);
 }
 
-cout << uoXRQkZFn(XKyI2Gxk, -1572774159, bx7DGgZ2XZ, -950714131, Kziptk) << endl;
+cout << uoXRQkZFn(XKyI2Gxk, -1572774159, bx7DGgZ2XZ, (char)-950714131, Kziptk) << endl;
 
 if ((XKyI2Gxk <= -20781623) && (i_x6 & 492884893))
 {
@@ -516,7 +517,7 @@ while (k < 1);
 }
 else
 {
-cout << tzOdK << VCm2 << uoXRQkZFn(ec2D, 1412453437, Kziptk, -1594875633, i_x6) << "E78Xlw7ev" << endl;
+cout << tzOdK << VCm2 << uoXRQkZFn(ec2D, (unsigned short)1412453437, Kziptk, -1594875633, i_x6) << "E78Xlw7ev" << endl;
 }
 }
 else

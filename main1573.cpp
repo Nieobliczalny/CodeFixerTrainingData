@@ -80,7 +80,7 @@ catch (int& errorCode)
 Nsn8_KF = aI_6Yzss(-1150530153, p54Y8);
 }
 
-cout << aI_6Yzss(-922256655, p54Y8) << endl;
+cout << aI_6Yzss((char)-922256655, p54Y8) << endl;
 try
 {
 if (zMHq9 == WZUcv)

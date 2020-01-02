@@ -47,7 +47,7 @@ int main(int argc, char** argv) {
     unsigned long long    hdzR6_c    =    0;
 	short int	gfvst50x	=	1313818567;
  long bgRBpsb35 = 0;
- unsigned short int uYR86v_cH = 1573824919;
+ unsigned short int uYR86v_cH = (unsigned short)1573824919;
     short    vbphP    =    1279657768;
 	short int	MyE0G4fB9	=	1052698640;
 	unsigned long	MC5mVEc3	=	-1592842157;
@@ -60,7 +60,7 @@ int main(int argc, char** argv) {
  long GKMcbr2 = 61575525;
     long double    KT9_ul08S4    =    -1390935133;
  double VTGVRu = 1330304604;
-    char    y859H1    =    -603169869;
+    char    y859H1    =    (char)-603169869;
     unsigned long    vM6Ent    =    2051042823;
     short    ZdGw    =    -771611878;
 	char	vO33_	=	521288402;
@@ -98,7 +98,7 @@ case 3:
 f_V_4Rp8 = uj5w2fU(f_V_4Rp8, GKMcbr2, uP11_, gfvst50x);
 break;
 case 4:
-uP11_ = uj5w2fU(-635003967, 1117398392, ZdGw, -876432069);
+uP11_ = uj5w2fU(-635003967, 1117398392, ZdGw, (char)-876432069);
 break;
 default:
 Tw_kH = (int)abs(vbphP);
@@ -276,7 +276,7 @@ Tw_kH = gow1ubE__b(-1541771368, 1373570921);
 }
 }
 }
-cout << p6DS2g33W << bgRBpsb35 << "j6QwA" << KT9_ul08S4 << gow1ubE__b(Tw_kH, -85183224) << endl;
+cout << p6DS2g33W << bgRBpsb35 << "j6QwA" << KT9_ul08S4 << gow1ubE__b(Tw_kH, (unsigned char)-85183224) << endl;
 cout << "fXy9" << "aH8gJ1S" << ikXNy() << endl;
 
 VBfBn5oGq7 = uj5w2fU(Tw_kH, v8ei3, 1325766352, -1678615094) / ikXNy();

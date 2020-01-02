@@ -49,7 +49,7 @@ case 2:
 cJJyaN_d = (int)abs(Oi9G);
 break;
 case 3:
-Vw8Pz2 = y1ru95g(Vw8Pz2, -94970171, b_0i_H, 79172361, yRAY_);
+Vw8Pz2 = y1ru95g(Vw8Pz2, (short)-94970171, b_0i_H, 79172361, yRAY_);
 break;
 case 4:
 p85ov0Cu = (int)floor(SBgzac_k8E);
@@ -95,7 +95,7 @@ std::cout << Le9yN << KklAZ_8d << std::endl;
 
 try
 {
-k3_q5Dfh = MqIcO(b_0i_H, SBgzac_k8E, gmT493t, 2108264141, -1376193743);
+k3_q5Dfh = MqIcO(b_0i_H, SBgzac_k8E, gmT493t, 2108264141, (char)-1376193743);
 }
 catch (int& errorCode)
 {
@@ -177,7 +177,7 @@ int j = 0;
 do
 {
 j++;
-DEJS710B = y1ru95g(uc2i, -799579661, -1262379401, -958017346, -1694455834);
+DEJS710B = y1ru95g(uc2i, -799579661, -1262379401, (char)-958017346, -1694455834);
 }
 while (j < 8);
 }
@@ -192,7 +192,7 @@ iGS4R3P3S8 = X2U__O6(iGS4R3P3S8, cJJyaN_d, uc2i, -1751492312, -369306944);
 }
 else
 {
-uc2i = MqIcO(-733821904, -539026608, -1752881494, E4ti6xV_V3, EdZE86);
+uc2i = MqIcO(-733821904, (short)-539026608, -1752881494, E4ti6xV_V3, EdZE86);
 }
 }
 else if (b_0i_H > 798309521)
@@ -240,7 +240,7 @@ Oi9G = y1ru95g(Oi9G, -1265315586, Ls4QDO, p85ov0Cu, iw6R7e);
 switch (k3_q5Dfh)
 {
 case 'a':
-bi7B = MqIcO(784708590, EtFVtFCyB, -1790747091, p85ov0Cu, 2136854859) ^ 1569676324;
+bi7B = MqIcO((short)784708590, EtFVtFCyB, -1790747091, p85ov0Cu, 2136854859) ^ 1569676324;
 break;
 case 'b':
 gmT493t = y1ru95g(-614425246, b_0i_H, cJJyaN_d, -1038287320, 1315183054);
@@ -267,7 +267,7 @@ case 'i':
 xgu_yv = MNen4s092 * 380616939;
 break;
 case 'j':
-Oi9G = y1ru95g(Oi9G, SBgzac_k8E, BNkhI1m, -916238468, -1789676987);
+Oi9G = y1ru95g(Oi9G, SBgzac_k8E, BNkhI1m, (char)-916238468, -1789676987);
 break;
 }
 
@@ -289,7 +289,7 @@ case 3:
 DEJS710B = (int)ceil(TQ_5Ye);
 break;
 case 4:
-Cn9ptq_1O = y1ru95g(-1223307049, 2038187924, -1420187714, 271135580, bE2LzEP9);
+Cn9ptq_1O = y1ru95g(-1223307049, 2038187924, -1420187714, (char)271135580, bE2LzEP9);
 break;
 }
 }
@@ -303,7 +303,7 @@ do
 i++;
 for (int j = 9; j >= 0; j--)
 {
-std::cout << X2U__O6(-145544648, Oi9G, -1600218912, 1714459321, 1999049485) << bi7B << "BKepXCSG8_" << bE2LzEP9 << MqIcO(-1673324977, 1987735213, -1693891787, -125751292, EtFVtFCyB) << std::endl;
+std::cout << X2U__O6(-145544648, Oi9G, -1600218912, 1714459321, 1999049485) << bi7B << "BKepXCSG8_" << bE2LzEP9 << MqIcO(-1673324977, (short)1987735213, -1693891787, -125751292, EtFVtFCyB) << std::endl;
 }
 }
 while (i < 9);

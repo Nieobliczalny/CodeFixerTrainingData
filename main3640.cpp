@@ -18,6 +18,7 @@ unsigned long long  iZX_(unsigned char  d1oOLQDA,unsigned char  jOLLxU2,unsigned
 }
 
 int main(int argc, char** argv) {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
   short  Q_HniL0  =  -521263019,  KfV_O1  =  -677486446,  CTVPiW5  =  -1179809732,  nt3f8E23  =  -84378566,  idwAeODq  =  -1988214223,  SX6HnD  =  -317443612,  EGPJtBBB  =  -87083825,  rD247  =  1729586187,  RgZy8W4Xjs  =  393739361,  IDtmw1  =  1805330159,  Mf5e43Bi12  =  -299125005,  mF5S_  =  1003316475,  U8V2Im1  =  1969659535,  p7ENQ7d  =  -1613815456,  Ozda  =  -1403229343,  q1__I  =  1399425395,  Liw6  =  -1100147824,  dd090_  =  -395207790,  k9zpuo  =  274785676,  NSVRJ  =  -1000912704;
   long long  bV8aYuG5R6  =  0,  XreLK6  =  0;
 
@@ -33,7 +34,7 @@ case 'c':
 dd090_ = (int)abs(Q_HniL0);
 break;
 case 'd':
-U8V2Im1 = iZX_(1906609936, 1340377067, CTVPiW5) * 376102198;
+U8V2Im1 = iZX_(1906609936, (unsigned char)1340377067, CTVPiW5) * 376102198;
 break;
 case 'e':
 bV8aYuG5R6 = iZX_(-801348341, k9zpuo, -2062623545);
@@ -55,7 +56,7 @@ try
 switch (U8V2Im1)
 {
 case 0:
-XreLK6 = iZX_(1823505600, -1585172074, mF5S_);
+XreLK6 = iZX_(1823505600, (unsigned char)-1585172074, mF5S_);
 break;
 case 1:
 NSVRJ = (int)abs(KfV_O1);
@@ -104,7 +105,7 @@ RgZy8W4Xjs = (int)abs(dd090_);
 }
 else if (IDtmw1)
 {
-XreLK6 = iZX_(-2010843462, CTVPiW5, 219143178);
+XreLK6 = iZX_((unsigned char)-2010843462, CTVPiW5, 219143178);
 }
 else if (SX6HnD < mF5S_)
 {
@@ -132,7 +133,7 @@ XreLK6 = iZX_(RgZy8W4Xjs, -447276393, -46759932);
 break;
 case 'b':
 case 'B':
-XreLK6 = iZX_(381550994, idwAeODq, 958318407);
+XreLK6 = iZX_((unsigned char)381550994, idwAeODq, 958318407);
 break;
 default:
 p7ENQ7d -= 373524002;
@@ -146,7 +147,7 @@ int j = 0;
 while (j < 4)
 {
 ++j;
-bV8aYuG5R6 = iZX_(-1874173269, -368491531, p7ENQ7d);
+bV8aYuG5R6 = iZX_(-1874173269, (unsigned char)-368491531, p7ENQ7d);
 }
 }
 }
@@ -198,7 +199,7 @@ q1__I = (int)abs(nt3f8E23);
 switch (k9zpuo)
 {
 case 0:
-mF5S_ = iZX_(314461451, -1723845539, 845942096) - RgZy8W4Xjs;
+mF5S_ = iZX_(314461451, (unsigned char)-1723845539, 845942096) - RgZy8W4Xjs;
 break;
 case 1:
 IDtmw1 = Q_HniL0 ^ 1294818529;
@@ -248,7 +249,7 @@ case 2:
 Ozda = p7ENQ7d / 1785097940;
 break;
 case 3:
-bV8aYuG5R6 = iZX_(860948549, -1383596206, -810833865);
+bV8aYuG5R6 = iZX_((unsigned char)860948549, -1383596206, -810833865);
 break;
 case 4:
 U8V2Im1 = (int)abs(CTVPiW5);
@@ -396,7 +397,7 @@ case 0:
 bV8aYuG5R6 = iZX_(p7ENQ7d, -237431026, 408700946);
 break;
 case 1:
-Q_HniL0 = iZX_(118646982, RgZy8W4Xjs, EGPJtBBB) & 1052315043;
+Q_HniL0 = iZX_((unsigned char)118646982, RgZy8W4Xjs, EGPJtBBB) & 1052315043;
 break;
 case 2:
 U8V2Im1 = Mf5e43Bi12 - Mf5e43Bi12;
@@ -408,7 +409,7 @@ case 4:
 XreLK6 = iZX_(774794439, -15759190, 566874188);
 break;
 case 5:
-XreLK6 = iZX_(q1__I, -10761427, -2012035404);
+XreLK6 = iZX_(q1__I, (unsigned char)-10761427, -2012035404);
 break;
 }
 }
@@ -421,7 +422,7 @@ if ((Q_HniL0) || (U8V2Im1 > xsroP214))
 int j = 7;
 do
 {
-XreLK6 = iZX_(-668567631, -1412685454, KfV_O1);
+XreLK6 = iZX_(-668567631, (unsigned char)-1412685454, KfV_O1);
 j--;
 }
 while (j >= 0);
@@ -461,7 +462,7 @@ XreLK6 = iZX_(-1075644000, Mf5e43Bi12, -1655916880);
 break;
 case 'b':
 case 'B':
-bV8aYuG5R6 = iZX_(CTVPiW5, -572173284, EGPJtBBB);
+bV8aYuG5R6 = iZX_(CTVPiW5, (unsigned char)-572173284, EGPJtBBB);
 break;
 case 'c':
 case 'C':
@@ -485,7 +486,7 @@ bV8aYuG5R6 = iZX_(Q_HniL0, CTVPiW5, Liw6);
 break;
 case 'h':
 case 'H':
-XreLK6 = iZX_(1957542092, -1706290879, 1423975549);
+XreLK6 = iZX_(1957542092, (unsigned char)-1706290879, 1423975549);
 break;
 default:
 XreLK6 = iZX_(2117421068, Q_HniL0, SX6HnD);
@@ -499,7 +500,7 @@ Ozda = nt3f8E23 & Mf5e43Bi12;
 }
 for (int i = 0; i < 5; ++i)
 {
-std::cout << iZX_(-825999446, Q_HniL0, SX6HnD) << iZX_(-1384454123, -260893041, -1027796476) << "QYUl_M" << iZX_(-1283822809, -684801042, -698179695) << std::endl;
+std::cout << iZX_(-825999446, Q_HniL0, SX6HnD) << iZX_((unsigned char)-1384454123, -260893041, -1027796476) << "QYUl_M" << iZX_(-1283822809, -684801042, -698179695) << std::endl;
 }
 p7ENQ7d++;
 if (k9zpuo)

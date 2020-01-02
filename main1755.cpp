@@ -14,7 +14,7 @@ int main() {
 	unsigned char	K3Ow	=	0;
 	long double	m03Fho	=	13551611;
     unsigned short int    S9jUz    =    1787070664;
-	char	kJO8S	=	1500560075;
+	char	kJO8S	=	(char)1500560075;
 
 kJO8S++;
 

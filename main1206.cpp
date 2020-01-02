@@ -45,7 +45,7 @@ int main(void)
  short int dZor;
  dZor = 1502876192;
     unsigned short    PGaU31u_9;
-    PGaU31u_9    =    -977527532;
+    PGaU31u_9    =    (unsigned short)-977527532;
     long    BJ8044i;
     BJ8044i    =    860003471;
 	double	s_4IqbZ5;
@@ -75,7 +75,7 @@ int main(void)
   int  iT3D3T_C;
   iT3D3T_C  =  295510941;
 	unsigned short	j00d;
-	j00d	=	-1108857532;
+	j00d	=	(unsigned short)-1108857532;
     long long    bVMHTRH_K;
     bVMHTRH_K    =    123973979;
 	short int	jBB97;
@@ -85,7 +85,7 @@ int main(void)
     short    lnBgMP5kh;
     lnBgMP5kh    =    1396837934;
 	unsigned short int	ZC4s9V;
-	ZC4s9V	=	-749582402;
+	ZC4s9V	=	(unsigned short)-749582402;
  long double oD_1SBx7n;
  oD_1SBx7n = 1000521300;
 	long double	xHLk_EI16p;
@@ -95,7 +95,7 @@ int main(void)
   unsigned long long  d3O7B;
   d3O7B  =  -1429767849;
   short  e__o;
-  e__o  =  -284552853;
+  e__o  =  (short)-284552853;
 	char	Y05f2BY4Sh;
 	Y05f2BY4Sh	=	93594965;
     short int    Ruj_Ny;

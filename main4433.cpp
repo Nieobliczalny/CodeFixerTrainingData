@@ -27,7 +27,7 @@ int main(void) {
  unsigned long long c_r7bBuEl;
  c_r7bBuEl = 1569937834;
 	short int	uGB5;
-	uGB5	=	47004869;
+	uGB5	=	(short)47004869;
     short int    L34_1;
     L34_1    =    -1117632182;
   unsigned long long  hQ0n;
@@ -82,7 +82,7 @@ while (j < 1)
 int k = 0;
 while (k < 10)
 {
-p3k265W8 = X32rQed(p3k265W8, -1979223636, 1398166321, o9w04K7xd4, 289747245);
+p3k265W8 = X32rQed(p3k265W8, -1979223636, 1398166321, o9w04K7xd4, (char)289747245);
 k++;
 }
 }
@@ -121,7 +121,7 @@ for (int j = 0; j < 2; ++j)
 {
 try
 {
-uv6V2nu6 = qWE4igce(-307666891, 909253012, -2108478120);
+uv6V2nu6 = qWE4igce(-307666891, (short)909253012, -2108478120);
 }
 catch (int& errorCode)
 {
@@ -265,7 +265,7 @@ case 'f':
 R3X6_AlQ_ %= 1763647683;
 break;
 case 'g':
-B0h8HnQz = Z5Y69GoTY(1890340346, -2018939131, 1154072190, uGB5);
+B0h8HnQz = Z5Y69GoTY(1890340346, (unsigned char)-2018939131, 1154072190, uGB5);
 break;
 case 'h':
 wXBD = (int)abs(BTu38);
@@ -320,7 +320,7 @@ int j = 0;
 do
 {
 ++j;
-std::cout << BLUWq1f3f << X32rQed(-978023855, B0h8HnQz, NX_Cw7_Lnc, uGB5, BLUWq1f3f) << X32rQed(l01ys_z, B0h8HnQz, 46857420, 978939772, -1590348681) << "sg1W_" << std::endl;
+std::cout << BLUWq1f3f << X32rQed(-978023855, B0h8HnQz, NX_Cw7_Lnc, uGB5, BLUWq1f3f) << X32rQed(l01ys_z, B0h8HnQz, 46857420, 978939772, (char)-1590348681) << "sg1W_" << std::endl;
 }
 while (j < 10);
 }
@@ -348,7 +348,7 @@ case 2:
 p3k265W8 = X32rQed(p3k265W8, -81757046, -1468487797, 426600881, BTu38);
 break;
 case 3:
-Lh57L3 = X32rQed(1824646992, l01ys_z, 965774693, -672115714, -1914718516);
+Lh57L3 = X32rQed(1824646992, l01ys_z, (unsigned char)965774693, -672115714, -1914718516);
 break;
 default:
 L34_1 <<= 43826476;
@@ -362,7 +362,7 @@ uGB5 = qWE4igce(uGB5, -17260463, Mchs797);
 }
 
 PDl6 = X32rQed(uGB5, uv6V2nu6, Mchs797, BLUWq1f3f, Lh57L3) / VIqoG_5dW;
-std::cout << Q8H170 << X32rQed(uGB5, -1487981434, -1807780670, BLUWq1f3f, 337743915) << "L65O" << std::endl;
+std::cout << Q8H170 << X32rQed(uGB5, -1487981434, (unsigned char)-1807780670, BLUWq1f3f, 337743915) << "L65O" << std::endl;
 
 L34_1 = (short int)(gdFOd_z6);
 
@@ -380,7 +380,7 @@ case 2:
 BLUWq1f3f = (int)floor(En48UB);
 break;
 case 3:
-EXtkx61jR2 = X32rQed(-637345973, R3X6_AlQ_, uGB5, Y63xbD, 2066933978);
+EXtkx61jR2 = X32rQed(-637345973, R3X6_AlQ_, uGB5, Y63xbD, (char)2066933978);
 break;
 case 4:
 Mchs797 = L34_1 + 1154727831;
@@ -432,7 +432,7 @@ int k = 0;
 while (k < 1)
 {
 k++;
-uGB5 = X32rQed(1655407693, Lh57L3, 1992019605, 1583429274, -148757130);
+uGB5 = X32rQed(1655407693, Lh57L3, 1992019605, 1583429274, (char)-148757130);
 }
 }
 }

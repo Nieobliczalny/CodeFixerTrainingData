@@ -21,7 +21,7 @@ unsigned short int t2c3rXGE(unsigned char i2QO09Kb,int Yf5B3G,long O60bw5vQJ7) {
 
 short	WY23(unsigned char	Q0cXO9t11,unsigned long	mT87z0_3,unsigned int	N8ktrJW)
 {
-	return	-203404448;
+	return	(short)-203404448;
 }
 
 int main(int argc, char** argv)

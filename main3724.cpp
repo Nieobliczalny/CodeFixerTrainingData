@@ -93,7 +93,7 @@ case 'e':
 GgO7e0J = (int)abs(FK8_at3d);
 break;
 case 'f':
-o8DP5FVt9 = VS2jOa_V(-1952204420, Gwf2a9N, -624559312, d_s7R24);
+o8DP5FVt9 = VS2jOa_V(-1952204420, Gwf2a9N, (unsigned short)-624559312, d_s7R24);
 break;
 }
 
@@ -105,7 +105,7 @@ HK41y1E9or = I984P(CFZ6J, t9W6ld72, WO0dW);
 }
 }
 
-std::cout << "H848dyjW" << I984P(1947246766, -192996461, WO0dW) << VS2jOa_V(2054527248, -1126577804, -717835317, 1956931825) << "Ow61Ut" << std::endl;
+std::cout << "H848dyjW" << I984P(1947246766, -192996461, WO0dW) << VS2jOa_V((unsigned short)2054527248, -1126577804, -717835317, 1956931825) << "Ow61Ut" << std::endl;
 
 if (Bycwl <= WO0dW)
 {
@@ -127,7 +127,7 @@ int k = 0;
 while (k < 3)
 {
 ++k;
-uRQYzOM1v = I984P(1641162339, V553VS25NI, -1871943508) << keKYdKS7I;
+uRQYzOM1v = I984P(1641162339, V553VS25NI, (char)-1871943508) << keKYdKS7I;
 }
 }
 }
@@ -145,7 +145,7 @@ else if ((Bycwl != -759868425) || (HK41y1E9or > Ic582a))
 switch (qf3AZl)
 {
 case 0:
-HK41y1E9or = I984P(1769940909, muv2097qXW, 402365220);
+HK41y1E9or = I984P(1769940909, muv2097qXW, (char)402365220);
 break;
 case 1:
 h6ER <<= 862923688;
@@ -160,7 +160,7 @@ case 4:
 HK41y1E9or = I984P(h6ER, 2137861757, ARy2GzX5);
 break;
 case 5:
-ARy2GzX5 = VS2jOa_V(407638064, Gwf2a9N, -1747040897, -450525079);
+ARy2GzX5 = VS2jOa_V(407638064, Gwf2a9N, (unsigned short)-1747040897, -450525079);
 break;
 case 6:
 HK41y1E9or = I984P(1922964033, 1095510981, t5Y48q3WGa);
@@ -230,7 +230,7 @@ case 3:
 KkAT += 486259397;
 break;
 case 4:
-E4xxNRPolN = VS2jOa_V(-503421335, muv2097qXW, 1369978899, RUpLA);
+E4xxNRPolN = VS2jOa_V((unsigned short)-503421335, muv2097qXW, 1369978899, RUpLA);
 break;
 case 5:
 HK41y1E9or = I984P(h6ER, t5Y48q3WGa, 662961897);
@@ -263,7 +263,7 @@ while (i < 1);
 V553VS25NI = (long)(keKYdKS7I);
 if (((RUpLA) || (A4q805c154)) && (P1Hm4Gts >= -1199205271))
 {
-qf3AZl = VS2jOa_V(1329473198, XbI1, -851589503, -1403858967);
+qf3AZl = VS2jOa_V((unsigned short)1329473198, XbI1, -851589503, -1403858967);
 }
 else if (GgO7e0J <= h6ER)
 {
@@ -424,7 +424,7 @@ int k = 0;
 while (k < 8)
 {
 k++;
-HK41y1E9or = I984P(1698544645, 1770993920, -1334762174);
+HK41y1E9or = I984P(1698544645, 1770993920, (char)-1334762174);
 }
 }
 }
@@ -457,7 +457,7 @@ if ((kAEzq_5 <= m5xiO1PK0) || (C8S9tr98 <= ARy2GzX5))
 {
 for (int j = 0; j < 7; j++)
 {
-rqAI_4j = I984P(1644460218, -2138731670, -449748842) | h6ER;
+rqAI_4j = I984P(1644460218, -2138731670, (char)-449748842) | h6ER;
 }
 }
 else

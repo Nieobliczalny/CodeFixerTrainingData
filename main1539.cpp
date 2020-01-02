@@ -34,7 +34,7 @@ int main(int argc, char** argv) {
     long long    Lc5Q;
     Lc5Q    =    -409906059;
   short int  fBqK;
-  fBqK  =  939610225;
+  fBqK  =  (short)939610225;
     short int    OeJ908i;
     OeJ908i    =    1537146291;
   unsigned short  yI_7gITd;
@@ -44,7 +44,7 @@ int main(int argc, char** argv) {
 	unsigned short	LfJpRfV;
 	LfJpRfV	=	-690846673;
 	unsigned short int	c_PoW;
-	c_PoW	=	-1563524076;
+	c_PoW	=	(unsigned short)-1563524076;
  long cZi827;
  cZi827 = -1956076231;
 	long long	aS08t;
@@ -64,7 +64,7 @@ int main(int argc, char** argv) {
   double  Qy1_7h2b3;
   Qy1_7h2b3  =  454501559;
  short int b8BH;
- b8BH = -548481188;
+ b8BH = (short)-548481188;
 	int	tek_rpEOH3;
 	tek_rpEOH3	=	1747455096;
   double  N_WA;
@@ -78,7 +78,7 @@ int main(int argc, char** argv) {
     float    szRTduV;
     szRTduV    =    -1704490346;
 	unsigned short	AO_Vo;
-	AO_Vo	=	-1572077218;
+	AO_Vo	=	(unsigned short)-1572077218;
   int  V04ISS84uS;
   V04ISS84uS  =  599423678;
 	long double	ks08;
@@ -110,7 +110,7 @@ int main(int argc, char** argv) {
  double oet8H_4v;
  oet8H_4v = 1462451983;
     short    hLXeONLHyZ;
-    hLXeONLHyZ    =    -1099992841;
+    hLXeONLHyZ    =    (short)-1099992841;
 
 a_366r5 = a9b6 / JAG1;
 if (HJuZ76Ca < -1952916646)
@@ -305,7 +305,7 @@ DSS__f1U++;
 }
 else if (fBqK & c_PoW)
 {
-Y_e7p = r8g6c(1287505306, -1475166778, -1342957397, JAG1, l0Ct);
+Y_e7p = r8g6c(1287505306, (unsigned char)-1475166778, -1342957397, JAG1, l0Ct);
 }
 else if ((aF_lk <= l0Ct) || (Qy1_7h2b3 <= 1741208420))
 {

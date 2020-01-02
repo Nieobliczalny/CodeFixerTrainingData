@@ -295,7 +295,7 @@ i++;
 switch (EM_q5JsP7M)
 {
 case 0:
-rDwA35M0R = DeZY(-348441030, -1423242001, 2111571655, 1474102775);
+rDwA35M0R = DeZY(-348441030, -1423242001, 2111571655, (short)1474102775);
 break;
 case 1:
 miYO5Vg2WE = sKlp_y();
@@ -316,7 +316,7 @@ case 6:
 AcnV40OP = L7_upgL0 << 1423918154;
 break;
 case 7:
-P2Tn_2flkZ = DeZY(N719F, P2Tn_2flkZ, -630381813, -1876066174);
+P2Tn_2flkZ = DeZY(N719F, P2Tn_2flkZ, -630381813, (short)-1876066174);
 break;
 }
 }

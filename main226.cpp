@@ -37,7 +37,7 @@ int main()
  int CJe4;
  CJe4 = 0;
     unsigned short int    HDOu;
-    HDOu    =    1491596248;
+    HDOu    =    (unsigned short)1491596248;
   long double  j6TF3BJ;
   j6TF3BJ  =  -1053605959;
     long double    UxGmqR2;
@@ -49,7 +49,7 @@ int main()
 	long	LWlab1v_l;
 	LWlab1v_l	=	-1725396153;
     char    xpaL;
-    xpaL    =    -1893483124;
+    xpaL    =    (char)-1893483124;
     unsigned short    w9sWx29q;
     w9sWx29q    =    0;
     float    LiW30;
@@ -59,7 +59,7 @@ int main()
   short  iOgC9;
   iOgC9  =  -193855425;
   unsigned short int  QlM_b;
-  QlM_b  =  -1267631732;
+  QlM_b  =  (unsigned short)-1267631732;
 
 if ((LF_235_52 <= 1130126905) || ((xKNK9 & vJ9800g) || (xpaL != vJ9800g)))
 {
@@ -227,7 +227,7 @@ j6TF3BJ = d9rPSoz8r(LF_235_52, 131311504, 1984317805);
 }
 else if (w9sWx29q >= QlM_b)
 {
-w9sWx29q = NcwkUQB(554371316, -1811352045);
+w9sWx29q = NcwkUQB(554371316, (char)-1811352045);
 }
 else
 {
@@ -267,7 +267,7 @@ switch (QlM_b)
 {
 case 'a':
 case 'A':
-N5T9E7Jt3 = KBdp5(266577332, 1051471938, 4484464, 721863003, ya5j1z);
+N5T9E7Jt3 = KBdp5(266577332, 1051471938, 4484464, (unsigned char)721863003, ya5j1z);
 break;
 default:
 xpaL = d9rPSoz8r(xpaL, iOgC9, N6Toce8);

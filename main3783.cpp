@@ -167,7 +167,7 @@ nS7I >>= rX9lUb9;
 break;
 case 'j':
 case 'J':
-u3n10X = WqeR(-2005457456, D5oDmFH, 318124693, F60x, -683767576);
+u3n10X = WqeR(-2005457456, D5oDmFH, 318124693, F60x, (char)-683767576);
 break;
 default:
 RMUFCk = RYbMkD0sVr(-53240878);
@@ -233,7 +233,7 @@ q5NvK_Z = RYbMkD0sVr(q5NvK_Z);
 }
 else if (g58dF7_w)
 {
-JZvRnj488 = WqeR(1413602521, 506690164, cP45, -1835107074, 2096686205);
+JZvRnj488 = WqeR(1413602521, 506690164, cP45, -1835107074, (char)2096686205);
 }
 else if (n2lc03qVwH > JPmU70)
 {
@@ -347,7 +347,7 @@ for (int i = 0; i < 5; ++i)
 {
 if ((BZcL0POJ6M != -2052681290) || ((Y2Drw <= 1668138515) && (Wfx9_p45K & JPmU70)))
 {
-vXP1V = WqeR(735419021, -1971759076, Ai_5, TFrQXp3, -1796785202);
+vXP1V = WqeR(735419021, -1971759076, Ai_5, TFrQXp3, (char)-1796785202);
 }
 else if (I20e78yw >= -2128524091)
 {
@@ -394,7 +394,7 @@ a22ktRUUG = (int)abs(qZ37);
 }
 else if ((e8myicN_5 >= I20e78yw) && ((S7Vz0299pi != XW661j7rVU) && (czMCM & XW661j7rVU)))
 {
-DE5WE91 = WqeR(-2078152397, -1385606310, -984337070, LTL67, dmavN102);
+DE5WE91 = WqeR(-2078152397, -1385606310, (short)-984337070, LTL67, dmavN102);
 }
 else if (eopjFG4Yc <= I20e78yw)
 {
@@ -520,7 +520,7 @@ default:
 Y2Drw = QsxDr3W_ | V_4rPzRU4P;
 break;
 }
-F60x = WqeR(F60x, 1063803242, oxjGB, WMKzz, -450506813);
+F60x = WqeR(F60x, 1063803242, oxjGB, WMKzz, (char)-450506813);
 if (Qz_D < q7ye8l16)
 {
 switch (v4Uf)
@@ -597,7 +597,7 @@ YqXyK5h = JPmU70 / 1069650583;
 break;
 case 'g':
 case 'G':
-ws5oybmPH = WqeR(-1774269309, qAW4b, 634051897, 1304781269, -877644665);
+ws5oybmPH = WqeR(-1774269309, qAW4b, 634051897, 1304781269, (char)-877644665);
 break;
 default:
 nu31 = RYbMkD0sVr(n3ziCZ);
@@ -611,7 +611,7 @@ switch (YA_O)
 {
 case 'a':
 case 'A':
-gNjuudw7 = WqeR(-573198143, 429943135, D5oDmFH, 200255530, 367733991) % 829724331;
+gNjuudw7 = WqeR(-573198143, 429943135, D5oDmFH, 200255530, (char)367733991) % 829724331;
 break;
 case 'b':
 case 'B':
@@ -658,7 +658,7 @@ break;
 }
 }
 
-std::cout << g58dF7_w << "Q0pyp3_" << oxjGB << RYbMkD0sVr(-844162502) << WqeR(TFrQXp3, DE5WE91, 1431516504, 1500884079, -1787989493) << std::endl;
+std::cout << g58dF7_w << "Q0pyp3_" << oxjGB << RYbMkD0sVr(-844162502) << WqeR(TFrQXp3, DE5WE91, 1431516504, 1500884079, (char)-1787989493) << std::endl;
 Mk33 = (long)(GEK8N5267l);
 
 Y3m_w ^= s1w1R5;

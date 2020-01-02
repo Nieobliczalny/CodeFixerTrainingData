@@ -19,7 +19,7 @@ int main() {
 Sq386NT = OH86UGC(-1768203238, Y1FJ3S9Itb);
 if (Sq386NT & -1443617879)
 {
-std::cout << hR2Qh << OH86UGC(218851519, Y1FJ3S9Itb) << std::endl;
+std::cout << hR2Qh << OH86UGC((unsigned short)218851519, Y1FJ3S9Itb) << std::endl;
 }
 else
 {
@@ -84,7 +84,7 @@ else if ((bT82 <= -1784472329) && (b_3c6 & 1657375502))
 switch (Wmt63N)
 {
 case 0:
-Sq386NT = OH86UGC(-522771295, 890614365);
+Sq386NT = OH86UGC(-522771295, (short)890614365);
 break;
 case 1:
 Wmt63N = OH86UGC(-1301553737, -186318692);
@@ -158,7 +158,7 @@ else
 switch (b_3c6)
 {
 case 0:
-Wmt63N = OH86UGC(1341335835, 1783198128);
+Wmt63N = OH86UGC(1341335835, (short)1783198128);
 break;
 case 1:
 zTxhY3Y -= Sq386NT;
@@ -170,7 +170,7 @@ case 3:
 hR2Qh /= 939438035;
 break;
 case 4:
-Sq386NT = OH86UGC(-1475826611, -1614938376);
+Sq386NT = OH86UGC(-1475826611, (short)-1614938376);
 break;
 case 5:
 si1LvUF1V = OH86UGC(-952244340, p6WcPN1h9);
@@ -215,7 +215,7 @@ Y1FJ3S9Itb = b_3c6 % 885651138;
 break;
 case 'h':
 case 'H':
-si1LvUF1V = OH86UGC(-1427917939, -1689991142);
+si1LvUF1V = OH86UGC(-1427917939, (short)-1689991142);
 break;
 case 'i':
 case 'I':

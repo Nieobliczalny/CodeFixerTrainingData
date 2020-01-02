@@ -20,7 +20,7 @@ int main(void)
   float  o7G30qWSbW;
   o7G30qWSbW  =  -1754185657;
   char  J5w56;
-  J5w56  =  942671830;
+  J5w56  =  (char)942671830;
  int PsLl;
  PsLl = 726456405;
 	long long	Yoy2;
@@ -38,7 +38,7 @@ int main(void)
   unsigned long  c13YST_8n;
   c13YST_8n  =  -2107565876;
   short  SoB7E_;
-  SoB7E_  =  980278993;
+  SoB7E_  =  (short)980278993;
 	long	om3uY7x;
 	om3uY7x	=	520047075;
 	int	gd__itr;
@@ -56,7 +56,7 @@ int main(void)
   double  vNmXDBBno;
   vNmXDBBno  =  -154112864;
 	unsigned short	O5urng;
-	O5urng	=	-293149739;
+	O5urng	=	(unsigned short)-293149739;
  long double r6I3m_i;
  r6I3m_i = -1680331148;
 	unsigned int	dmM1L4;

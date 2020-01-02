@@ -300,7 +300,7 @@ case 5:
 dp3jB2u = IpUrzK9(L1Lu552I);
 break;
 case 6:
-N8r304b2 = IpUrzK9(1355301279);
+N8r304b2 = IpUrzK9((unsigned short)1355301279);
 break;
 default:
 Ai3Sn = IpUrzK9(d5vBr7);
@@ -318,7 +318,7 @@ case 2:
 j_aE = IpUrzK9(j_aE);
 break;
 case 3:
-L1Lu552I = IpUrzK9(-1384880432) & d5vBr7;
+L1Lu552I = IpUrzK9((unsigned short)-1384880432) & d5vBr7;
 break;
 case 4:
 Ai3Sn = IpUrzK9(Ai3Sn);
@@ -359,7 +359,7 @@ std::cout << IpUrzK9(-2009784039) << j_aE << L1Lu552I << N8r304b2 << std::endl;
 switch (N8r304b2)
 {
 case 0:
-dp3jB2u = IpUrzK9(-1631608096);
+dp3jB2u = IpUrzK9((unsigned short)-1631608096);
 break;
 case 1:
 dp3jB2u = IpUrzK9(-697828698);

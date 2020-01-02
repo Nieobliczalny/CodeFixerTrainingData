@@ -27,7 +27,7 @@ int main(int argc, char** argv)
   unsigned char  aGzhe;
   aGzhe  =  -664532992;
  short int bzq5MU;
- bzq5MU = -130955655;
+ bzq5MU = (short)-130955655;
     char    W860eCMeS;
     W860eCMeS    =    -1256583636;
  long long EWfA_lznK;
@@ -64,7 +64,7 @@ ts1TW73S *= IWKqu;
 break;
 case 'd':
 case 'D':
-UhKGFr_91G = z3V85(2005720680, 1941500028, -1336497126);
+UhKGFr_91G = z3V85(2005720680, (char)1941500028, -1336497126);
 break;
 case 'e':
 case 'E':
@@ -147,7 +147,7 @@ ZpS9--;
 break;
 case 'b':
 case 'B':
-aGzhe = qoqD2zsyvc(W860eCMeS, 1124557167, 301826250) >> UhKGFr_91G;
+aGzhe = qoqD2zsyvc(W860eCMeS, 1124557167, (char)301826250) >> UhKGFr_91G;
 break;
 case 'c':
 case 'C':
@@ -280,7 +280,7 @@ IWKqu = m5YiG(IWKqu);
 }
 else if (MXlxf8H4Q >= EWfA_lznK)
 {
-MXlxf8H4Q = axr9GHk1xT(1748136637, -2140496691, 988251207);
+MXlxf8H4Q = axr9GHk1xT(1748136637, -2140496691, (unsigned short)988251207);
 }
 else
 {
@@ -291,7 +291,7 @@ EWfA_lznK = (int)abs(bzq5MU) * 0;
 }
 else if (bzq5MU == UhKGFr_91G)
 {
-std::cout << "w821riIy" << ts1TW73S << "xHr9rHA1Et" << z3V85(MXlxf8H4Q, -1307513581, -1563940711) << "Rh7IOC" << std::endl;
+std::cout << "w821riIy" << ts1TW73S << "xHr9rHA1Et" << z3V85(MXlxf8H4Q, -1307513581, (short)-1563940711) << "Rh7IOC" << std::endl;
 }
 else if (Gv09lMM3v >= -1126534802)
 {
@@ -343,7 +343,7 @@ else
 switch (IWKqu)
 {
 case 'a':
-aGzhe = qoqD2zsyvc(-1693691631, -1016424167, 1499056926);
+aGzhe = qoqD2zsyvc(-1693691631, (short)-1016424167, 1499056926);
 break;
 default:
 aGzhe = axr9GHk1xT(aGzhe, 793376069, -759176638) & 997808182;

@@ -20,7 +20,7 @@ char  b86waG3_4X(unsigned long  G7Nb,unsigned long long  z7iX8x);
 
 int main(void) {
 	unsigned char	QfX_rhpE	=	707761556;
-	char	clRH6xkL	=	-468051914;
+	char	clRH6xkL	=	(char)-468051914;
     long long    U6sLmCXz    =    -1311372029;
   float  wOC1RBF  =  -510987492;
   long double  D4_QR  =  -996972600;
@@ -31,7 +31,7 @@ int main(void) {
     long double    MHt_4    =    -1380182216;
   float  F7yW7kHzNA  =  -365642602;
  short B4AZ6p = -1047230438;
-    char    wdjLiZ3    =    316054570;
+    char    wdjLiZ3    =    (char)316054570;
     short int    GqMWxO93    =    1450760895;
     short    IPhOJFo    =    -2136545124;
  long qvS_6VuD = -1750242840;
@@ -42,7 +42,7 @@ int main(void) {
 	short int	oG_Wt	=	1127616602;
     short    yNUDhs8    =    -1394303336;
 	long double	ybxX3H	=	1563033318;
- short lRtjYNUpqd = -244513160;
+ short lRtjYNUpqd = (short)-244513160;
  unsigned long ghJSE14 = 880056485;
     unsigned short int    o792PGe6A    =    742396664;
  unsigned short int Cyxsgoy9 = -1867464510;
@@ -55,7 +55,7 @@ int main(void) {
 	int	O4b_dGgx9s	=	1949464112;
     short int    i1Ex    =    389298368;
  int nWb1 = -2118675895;
-	char	YW7k0lq5	=	-373740675;
+	char	YW7k0lq5	=	(char)-373740675;
     long double    F620    =    -2104688234;
   short  GYv52UJ  =  -2107990077;
  unsigned long QITGa = -1146964937;
@@ -66,7 +66,7 @@ int main(void) {
     unsigned long long    r3XvBh2P    =    436545339;
     double    m8y_    =    -1611912596;
     unsigned short    iw9IBtT2m_    =    981390845;
-  unsigned short int  S9by  =  1453252383;
+  unsigned short int  S9by  =  (unsigned short)1453252383;
 	double	TaVmWbcfI4	=	42520676;
  float jIDY2 = -929276947;
     float    X_C2z94Xt    =    -1494579095;
@@ -166,7 +166,7 @@ while (i < 8);
 lRtjYNUpqd = NyF8k(-394715193, -837305461, 548938385, x_HB4koM_i);
 
 ghJSE14 = (unsigned long)(bsZYkn);
-AnL061x = w8DRKlC(-720094835, r3XvBh2P, -1145268474, -1891125609);
+AnL061x = w8DRKlC(-720094835, r3XvBh2P, -1145268474, (short)-1891125609);
 
 std::cout << G2w1YQ(-776862985, -1812042611, -1763614107) << w8DRKlC(AnL061x, r3XvBh2P, -60759910, F7yW7kHzNA) << "AI95Ga_H" << b86waG3_4X(AnL061x, 1804663081) << "p44q4z" << std::endl;
 

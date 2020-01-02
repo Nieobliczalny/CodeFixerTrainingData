@@ -23,7 +23,7 @@ unsigned short  vb3oK()
 }
 
 short int	IO48i3P(int	p6kR5o_Pf)	{
-	return	-2064364079;
+	return	(short)-2064364079;
 }
 
 unsigned long  O2I3O(int  r8klav,int  BVs0Q_Cp7,unsigned int  yi5Z1_F,long  C1XtPPB)
@@ -38,7 +38,7 @@ unsigned short  F7FF5C7_(long  vYS_x790_9)  {
 int main() {
  long long n8Llcg_a = -44931111;
     unsigned short int    Dh9B1yAlc    =    -387388385;
-	short int	FfA0	=	554459295;
+	short int	FfA0	=	(short)554459295;
     float    tcoTH    =    -562247434;
     double    Q8M_    =    776036647;
 	unsigned long	b0Es9	=	-1876482719;
@@ -51,7 +51,7 @@ int main() {
     short int    NJs_Pvh    =    0;
  short plrHYp3G9 = 1212370670;
   int  K5qsOK9  =  -1104249817;
- short int Wa1d0YHcDz = 995254991;
+ short int Wa1d0YHcDz = (short)995254991;
 	short int	QYoz1ko_	=	-1704088263;
  long dB44S2_G = 1883050535;
     unsigned long    x9_L1N22    =    288121037;
@@ -61,7 +61,7 @@ int main() {
   double  FF_wi  =  -1128482185;
 	float	x53N	=	-1951303272;
  short int e1460_r9i_ = 1219787072;
-  short int  Bv95PUVlvv  =  1360266144;
+  short int  Bv95PUVlvv  =  (short)1360266144;
 	char	S5f8q4R	=	-1545062813;
     long double    qUmok4F7    =    -612417949;
  char l9Os = -1496330729;
@@ -74,7 +74,7 @@ int main() {
     long double    C0Tg7BN1    =    303127161;
  unsigned int q0B_S = 2012430693;
 	long	SdfFQ6DFu8	=	-103270289;
- unsigned short X0Leb = -784992129;
+ unsigned short X0Leb = (unsigned short)-784992129;
 	float	A4T9G_VuY	=	-974124820;
   unsigned long  N3NmU  =  -230789998;
   float  X8n0x  =  -566751865;
@@ -86,7 +86,7 @@ int main() {
     unsigned char    E0oyOUgow    =    -2045200663;
     long    qB_I3sh6Jn    =    -1792807763;
   long long  mV4V9Qbzkc  =  -49427789;
- short int v_689362 = 404201819;
+ short int v_689362 = (short)404201819;
 	short int	AwtK	=	1363921793;
   float  jvuJ_E_  =  -904303771;
 	int	HDH_d76	=	-396833045;
@@ -99,7 +99,7 @@ int main() {
   unsigned long long  I717_H9D5f  =  -1079523194;
  long long aFxu65_ = -884405937;
     unsigned long    sj70    =    1136018452;
-  short  unNOc  =  -1734739624;
+  short  unNOc  =  (short)-1734739624;
     unsigned short    Hs684X_94    =    -1012808605;
   float  KBP7y  =  552426131;
 

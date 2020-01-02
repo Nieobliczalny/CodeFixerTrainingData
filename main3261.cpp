@@ -28,6 +28,7 @@ unsigned long	K0d6(char	PnXzvJ1,short int	o0ap652)	{
 int main(void)
 {
  short int U8x3tEw = 0;
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
 	unsigned short int	e2fd7I5ax	=	2077714893,	zetrI0	=	-691496669,	c1694	=	479100720,	F9gJGL1a	=	-158047660,	P3zcoL7I5	=	-203139374,	ENzZV3	=	1931426479,	L77B98	=	836555230,	Uwx48M4L	=	186384157,	d8aA	=	1731227006,	RY9r0_Y	=	-1630395475,	HldZ6Lq122	=	-812728112,	Jc20zM6f	=	-1363475018,	b03512	=	-588063266,	j0D_56	=	379451024,	QeYXKjIM	=	1921614052,	j6n5z8	=	1342607707,	zrpUg0_0	=	-1537705680,	a_09Ox2	=	-1559629604,	KM21I0	=	1663022398,	AuuVu5d	=	-1376534359,	jKm0t	=	1204951194,	wCXi23Xaa1	=	888637168,	hSAAK	=	2109329134,	s2UZ6x0	=	-1276505515,	dTjBHJGyAC	=	1310041628,	sXTh	=	-1894225389,	cxae3Jg	=	-1818984981,	x3O47	=	-1476812681,	QzbA	=	1736920050,	r25o	=	1473843670;
 
 switch (j0D_56)
@@ -50,7 +51,7 @@ QeYXKjIM = K0d6(wCXi23Xaa1, 486466922) / 1527887305;
 break;
 case 'e':
 case 'E':
-j6n5z8 = K0d6(-1735499406, 719746982);
+j6n5z8 = K0d6((char)-1735499406, 719746982);
 break;
 }
 
@@ -147,7 +148,7 @@ break;
 int i = 0;
 do
 {
-a_09Ox2 = K0d6(j6n5z8, -1583013510) | c1694;
+a_09Ox2 = K0d6(j6n5z8, (short)-1583013510) | c1694;
 ++i;
 }
 while (i < 4);
@@ -177,7 +178,7 @@ do
 ++j;
 if (HldZ6Lq122 <= 2001735665)
 {
-QzbA = tlX6vSp(-785977585, -64897325, -1590659775);
+QzbA = tlX6vSp(-785977585, (unsigned short)-64897325, -1590659775);
 }
 }
 while (j < 10);
@@ -269,7 +270,7 @@ do
 ++j;
 if (sXTh >= 2031490468)
 {
-L77B98 = tlX6vSp(L77B98, 1976895264, -1861228999);
+L77B98 = tlX6vSp(L77B98, 1976895264, (short)-1861228999);
 }
 else if (r25o > -303109093)
 {
@@ -310,7 +311,7 @@ e2fd7I5ax = c1694 / wCXi23Xaa1;
 break;
 case 'b':
 case 'B':
-a_09Ox2 = tlX6vSp(-487066888, -1142924894, -194827143);
+a_09Ox2 = tlX6vSp(-487066888, (unsigned short)-1142924894, -194827143);
 break;
 case 'c':
 case 'C':
@@ -358,7 +359,7 @@ U8x3tEw = UQKadajBm_();
 }
 else if (QzbA)
 {
-cout << "XXKTMgoIo" << "KnUK2l1r" << "YF_j7g" << tlX6vSp(468686355, x3O47, 1460575590) << endl;
+cout << "XXKTMgoIo" << "KnUK2l1r" << "YF_j7g" << tlX6vSp(468686355, x3O47, (short)1460575590) << endl;
 }
 else if (Uwx48M4L > hSAAK)
 {

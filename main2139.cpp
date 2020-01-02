@@ -98,7 +98,7 @@ for (int i = 0; i < 4; i++)
 std::cout << "U7AQRR_vN" << EFCH_Jq << "yU33fI6Jv" << "Tr_uIiCa" << std::endl;
 }
 
-zrcH_O3v4Q = OYdr_5h(zrcH_O3v4Q, lyKbe, 1811382099, -2127279192);
+zrcH_O3v4Q = OYdr_5h(zrcH_O3v4Q, lyKbe, 1811382099, (short)-2127279192);
 
 rmx8AcxF = Ik2_3(rmx8AcxF, 929999463, -1260695808, KKy2, -632045222);
 

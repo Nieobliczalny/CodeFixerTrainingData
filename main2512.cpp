@@ -15,7 +15,7 @@ unsigned short  i894XcTw3(long  aK1gafsXg,long long  Mn15kDUeN,unsigned short in
 }
 
 unsigned short  f2V_(unsigned long long  iX7pRkL,unsigned char  iU6Gg_09N)  {
-  return  1031512044;
+  return  (unsigned short)1031512044;
 }
 
 char pAh0hujg_1() {
@@ -279,7 +279,7 @@ qJnDYEU23 /= oIHC4HZ_;
 break;
 case 'e':
 case 'E':
-tRXnOpD = i894XcTw3(tRXnOpD, 1203484563, -82594674);
+tRXnOpD = i894XcTw3(tRXnOpD, 1203484563, (unsigned short)-82594674);
 break;
 }
 --j;

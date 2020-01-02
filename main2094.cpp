@@ -246,6 +246,6 @@ int  MCLth()
 }
 
 short    iL_W()    {
-    return    -917298546;
+    return    (short)-917298546;
 }
 

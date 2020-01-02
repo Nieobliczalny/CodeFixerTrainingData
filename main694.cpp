@@ -81,7 +81,7 @@ case 'a':
 L3D8f3Vahh = S5xfSv0_p(YDpQH, X__017Ni, L3D8f3Vahh, -395395466, Br10yW);
 break;
 case 'b':
-dRNAN = S5xfSv0_p(FWufw_, 105358607, 1431174176, Gt_f396, 251981004);
+dRNAN = S5xfSv0_p(FWufw_, 105358607, (char)1431174176, Gt_f396, 251981004);
 break;
 case 'c':
 dRg75u = S5xfSv0_p(Z5P0q8QTl, -493744322, -127079368, FWufw_, O_xxs75By9);
@@ -114,7 +114,7 @@ else
 {
 Gt_f396 = (unsigned long)(vY2u8jXS7);
 }
-YDpQH = YDpQH / S5xfSv0_p(Z5P0q8QTl, vGp6dU, EnrDNBrG, O_xxs75By9, -1801740229);
+YDpQH = YDpQH / S5xfSv0_p(Z5P0q8QTl, vGp6dU, EnrDNBrG, O_xxs75By9, (unsigned char)-1801740229);
 
 return 0;
 }

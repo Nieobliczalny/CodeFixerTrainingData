@@ -31,7 +31,7 @@ int main(int argc, char** argv)
   Hx_2  =  0;
     unsigned short int    y6QN_jl02,    r91rDdt,    AS2HQ5LE8m,    AKa8,    aVcg9gdT87,    I_32StPN,    KFL4CL,    P521,    E7qv_s3,    u4Y1JCna,    jrdJ89W_11,    MucL7p,    DUwF6;
     y6QN_jl02    =    1426569688;
-    r91rDdt    =    274228330;
+    r91rDdt    =    (unsigned short)274228330;
     AS2HQ5LE8m    =    -1081136479;
     AKa8    =    -516809016;
     aVcg9gdT87    =    708558889;
@@ -41,7 +41,7 @@ int main(int argc, char** argv)
     E7qv_s3    =    952082075;
     u4Y1JCna    =    -1373793420;
     jrdJ89W_11    =    -1644260035;
-    MucL7p    =    -767095438;
+    MucL7p    =    (unsigned short)-767095438;
     DUwF6    =    -1493921423;
 
 jUuT_yN = (unsigned char)(Hx_2);
@@ -64,7 +64,7 @@ char nkqmEOFbt1(long long CDd4,unsigned short TQ_gm583M,unsigned int Sm58r,char 
 
 unsigned short  NbltMX72(short int  b_m83X)
 {
-  return  -2109314262;
+  return  (unsigned short)-2109314262;
 }
 
 unsigned short  qBJK0(char  WZx5T)

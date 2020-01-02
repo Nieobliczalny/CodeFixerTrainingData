@@ -29,7 +29,7 @@ int main(int argc, char** argv)
     unsigned short int    l8H8L;
     l8H8L    =    124218668;
     unsigned char    Y06rc;
-    Y06rc    =    1859085934;
+    Y06rc    =    (unsigned char)1859085934;
 	unsigned char	s3RyR;
 	s3RyR	=	809632335;
 	unsigned int	LqzjQS_2;

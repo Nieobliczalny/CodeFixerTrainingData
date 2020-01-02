@@ -110,7 +110,7 @@ case 'c':
 hg69 = XHQf55(695904634, JJ65dA);
 break;
 case 'd':
-C_bz_ = jyZhUbcD9(668355368);
+C_bz_ = jyZhUbcD9((short)668355368);
 break;
 case 'e':
 k_3sQT__7 = (int)abs(vngGytM);
@@ -175,7 +175,7 @@ B4F_a = QyBf9dudJF();
 
 JJ65dA = jyZhUbcD9(470244101);
 
-cout << "bE_VE" << "darEqQ16u" << jyZhUbcD9(-321081544) << WJg1r << K3bqTMCU7(JJ65dA) << endl;
+cout << "bE_VE" << "darEqQ16u" << jyZhUbcD9((short)-321081544) << WJg1r << K3bqTMCU7(JJ65dA) << endl;
 
 {
 int i = 8;

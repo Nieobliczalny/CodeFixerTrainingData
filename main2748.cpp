@@ -24,7 +24,7 @@ int main(int argc, char** argv) {
     short int    EBvH_ZE_    =    -1877361610;
   double  UC5if  =  728468214;
     long    cvp6LBoD    =    -1119574527;
-	unsigned short int	kb7nZp4f4C	=	302023250;
+	unsigned short int	kb7nZp4f4C	=	(unsigned short)302023250;
 	unsigned char	NNyvhxs9	=	-1291228335;
   unsigned short  hxAgyNO4E  =  1461958719;
 	unsigned short int	WX4lR	=	28161974;
@@ -35,7 +35,7 @@ int main(int argc, char** argv) {
   float  Ly09y84vyU  =  -1779586092;
  short int wlyc = 1939892730;
     unsigned short int    By6g20    =    0;
-  unsigned char  yd1d  =  -524730353;
+  unsigned char  yd1d  =  (unsigned char)-524730353;
 	unsigned short int	u_5DQZl	=	1724391147;
  unsigned int BW2L8L_5I = -1795284442;
     long    DjU5EQY783    =    -1226963837;
@@ -45,7 +45,7 @@ int main(int argc, char** argv) {
  unsigned char qW90DzFW__ = 683873964;
   int  JDN42t  =  -975638061;
     int    NMl6Y    =    1451453621;
-  unsigned short int  Wz1390ud_  =  1581085840;
+  unsigned short int  Wz1390ud_  =  (unsigned short)1581085840;
   float  ilY8_OY  =  -154006781;
 	int	mLo5bu	=	-561518882;
     char    klNO13nM    =    -854538834;
@@ -58,7 +58,7 @@ int main(int argc, char** argv) {
     float    aGPE_54F0    =    704659246;
 	short int	a09_Qp	=	-1505755874;
 	unsigned long	A3w6Gp6	=	-493821377;
- unsigned short n8P8m9J = -958410540;
+ unsigned short n8P8m9J = (unsigned short)-958410540;
 	unsigned short	tJPh6UaN9	=	-631768513;
 
 NK6Zy = (int)ceil(Ly09y84vyU);
@@ -84,7 +84,7 @@ Xv9t = (unsigned int)(u_5DQZl);
 }
 else
 {
-NNyvhxs9 = P_143aP(NNyvhxs9, 1677905124, 63110656, -331496339);
+NNyvhxs9 = P_143aP(NNyvhxs9, 1677905124, 63110656, (unsigned short)-331496339);
 }
 
 cout << qdE0H5hj << T6hqAVtfOi() << "Gyira" << endl;
@@ -141,7 +141,7 @@ case 'e':
 UC5if = (int)floor(aGPE_54F0);
 break;
 case 'f':
-By6g20 = uR9Itsju9R(pn_e, 1568384934);
+By6g20 = uR9Itsju9R(pn_e, (short)1568384934);
 break;
 case 'g':
 UC5if = (int)floor(IBCVr);
@@ -369,7 +369,7 @@ q6m2N63S = uR9Itsju9R(334040007, -76831709);
 }
 else if (WX4lR & 84742300)
 {
-kb7nZp4f4C = P_143aP(1017883349, pn_e, NK6Zy, 1074063776);
+kb7nZp4f4C = P_143aP((unsigned short)1017883349, pn_e, NK6Zy, 1074063776);
 }
 else
 {

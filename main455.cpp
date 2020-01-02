@@ -190,7 +190,7 @@ while (i >= 0);
 
 std::cout << i0rV_u0_6 << lT2W_09d(1389175118) << std::endl;
 
-hM38Cd01 = oyN8b(M0JO7, 1419465130, 656482303, lsgJ_VEVX);
+hM38Cd01 = oyN8b(M0JO7, (unsigned short)1419465130, 656482303, lsgJ_VEVX);
 switch (q3hDH)
 {
 case 'a':
@@ -211,7 +211,7 @@ pTWuiE1IE4 = Yu57gPF(-1459347729, 1241655993, -1987425968);
 break;
 case 'e':
 case 'E':
-hM38Cd01 = oyN8b(-2024291166, -1156291934, olsn, 250321986);
+hM38Cd01 = oyN8b(-2024291166, (unsigned short)-1156291934, olsn, 250321986);
 break;
 case 'f':
 case 'F':
@@ -298,7 +298,7 @@ try
 int k = 2;
 do
 {
-hM38Cd01 = oyN8b(-140227576, 820545446, um8r2iaX8, -1317165064);
+hM38Cd01 = oyN8b(-140227576, 820545446, um8r2iaX8, (unsigned short)-1317165064);
 k--;
 }
 while (k >= 0);
@@ -312,7 +312,7 @@ xO2fnLs = MSA_8l7H(809240889, -1064926404);
 
 std::cout << Z5kF8PD0(xO2fnLs, 1525994903) << std::endl;
 
-Y2xXtX4 = Z5kF8PD0(2032962908, -1058211669);
+Y2xXtX4 = Z5kF8PD0((short)2032962908, -1058211669);
 if (((hmeTh_1JP & -576111865) || (olsn)) && (u_CE0T3i <= 1682399497))
 {
 try
@@ -323,7 +323,7 @@ GoVj_J6 += 153608938;
 }
 else if (LCnofD != olsn)
 {
-olsn = Z5kF8PD0(-315014876, 338662456);
+olsn = Z5kF8PD0(-315014876, (unsigned short)338662456);
 }
 else if (PKrx4b6)
 {
@@ -395,7 +395,7 @@ do
 --j;
 if (xO2fnLs >= MfSbpLD6Ze)
 {
-hM38Cd01 = oyN8b(1080820913, 1901884159, rxG9r, -1091803511);
+hM38Cd01 = oyN8b(1080820913, 1901884159, rxG9r, (unsigned short)-1091803511);
 }
 else if (d2GNh475)
 {
@@ -462,7 +462,7 @@ switch (yIvz8m826g)
 {
 case 'a':
 case 'A':
-g4_2 = oyN8b(-1492420014, -945081559, 739551635, 234950402);
+g4_2 = oyN8b(-1492420014, -945081559, 739551635, (unsigned short)234950402);
 break;
 case 'b':
 case 'B':

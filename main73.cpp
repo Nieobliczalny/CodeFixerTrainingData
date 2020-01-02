@@ -21,7 +21,7 @@ int main(int argc, char** argv)
     unsigned short    MTYCJ70_4B    =    -1736334355;
 	unsigned long	fD7yh	=	1475981208;
     float    Ng_A    =    1920191759;
-	char	Ca4pC7	=	-1911534159;
+	char	Ca4pC7	=	(char)-1911534159;
  unsigned short G6B9 = -2009597120;
  short ZpAN9U = 1851367774;
     unsigned long long    H38N2f    =    0;
@@ -31,7 +31,7 @@ int main(int argc, char** argv)
  int pD197_RS83 = -1884062199;
  unsigned short I4L7In82 = 1506711720;
   unsigned char  eu_vS8  =  691971426;
-	short	eLMF	=	897692081;
+	short	eLMF	=	(short)897692081;
   int  kd9R  =  1101955633;
   long double  mFhpdpa  =  -798337779;
     unsigned long    xVPty1    =    1868077046;
@@ -44,7 +44,7 @@ int main(int argc, char** argv)
 	unsigned short int	xE3_Fr	=	321000163;
  unsigned char w75ZL4 = 0;
 
-std::cout << buei4IV2(v8vz, -1694951927, -2078209733, -274375316) << MTYCJ70_4B << xVPty1 << buei4IV2(v8vz, ps9B, -1413452607, Ng_A) << buei4IV2(v8vz, 1237305587, 1487363031, -1658666392) << std::endl;
+std::cout << buei4IV2(v8vz, -1694951927, -2078209733, (short)-274375316) << MTYCJ70_4B << xVPty1 << buei4IV2(v8vz, ps9B, -1413452607, Ng_A) << buei4IV2(v8vz, 1237305587, 1487363031, -1658666392) << std::endl;
 
 G6B9 = (unsigned short)(eLMF);
 
@@ -87,7 +87,7 @@ std::cout << "G5v0L" << buei4IV2(-1704980904, -1335556115, -636401997, -16210633
 }
 else
 {
-std::cout << "x_hH" << "yAk8lOQ8" << buei4IV2(108043089, G5Y4aV9vb, kBPKB, MTYCJ70_4B) << buei4IV2(Ca4pC7, 403110513, kBPKB, -1740288684) << std::endl;
+std::cout << "x_hH" << "yAk8lOQ8" << buei4IV2(108043089, G5Y4aV9vb, kBPKB, MTYCJ70_4B) << buei4IV2(Ca4pC7, 403110513, kBPKB, (short)-1740288684) << std::endl;
 }
 
 if (eLMF)

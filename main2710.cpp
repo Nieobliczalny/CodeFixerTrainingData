@@ -76,7 +76,7 @@ while (j >= 0);
 
 g3VKP = K4jp(r68H, g3VKP, 355161282, Jo_7f2Gj);
 
-DpXYlJt7T = K4jp(389154994, 1328922280, -604897423, -1325394059);
+DpXYlJt7T = K4jp(389154994, 1328922280, (unsigned short)-604897423, -1325394059);
 
 if (n9698r <= Q05022Fo)
 {
@@ -131,7 +131,7 @@ Q05022Fo = s41P59(-1366627002, -417609429, 1860926375, -1677331513);
 SM_AyEt = (long)(V4x1H_ff);
 
 Jo_7f2Gj = (char)(H798 * (M_vZZD1_f));
-std::cout << s41P59(516004963, 1954420041, -204660395, vcN6DCZ8EB) << std::endl;
+std::cout << s41P59(516004963, 1954420041, (char)-204660395, vcN6DCZ8EB) << std::endl;
 try
 {
 vcN6DCZ8EB = K4jp(vcN6DCZ8EB, 95798945, -1733852898, Jo_7f2Gj);
@@ -162,7 +162,7 @@ case 'c':
 Waan5U9s = (int)abs(n9698r);
 break;
 case 'd':
-g3VKP = K4jp(661873274, -770513343, -272305458, 1698418818);
+g3VKP = K4jp(661873274, -770513343, (unsigned short)-272305458, 1698418818);
 break;
 case 'e':
 fRA9 -= 2134093383;
@@ -201,7 +201,7 @@ case 0:
 DpXYlJt7T = K4jp(Waan5U9s, Q05022Fo, -587546605, DB_D5);
 break;
 case 1:
-DpXYlJt7T = K4jp(1264762647, 2046983334, -672596794, -1789805114);
+DpXYlJt7T = K4jp(1264762647, 2046983334, (unsigned short)-672596794, -1789805114);
 break;
 case 2:
 vcN6DCZ8EB = K4jp(773030634, Q05022Fo, -1602705481, -2116626474);
@@ -227,7 +227,7 @@ if (Waan5U9s < Jo_7f2Gj)
 switch (F_67HbXn)
 {
 case 0:
-Jo_7f2Gj = K4jp(F_67HbXn, SM_AyEt, -1687486596, 1889931524);
+Jo_7f2Gj = K4jp(F_67HbXn, SM_AyEt, -1687486596, (unsigned short)1889931524);
 break;
 case 1:
 fRA9 &= 1727155262;
@@ -253,7 +253,7 @@ SM_AyEt = s41P59(-1501109776, 640753848, 1548031612, n9698r) | 522263569;
 F_67HbXn = t8GAjjxZ_w / g3VKP;
 if (fRA9 <= g3VKP)
 {
-Jo_7f2Gj = K4jp(1022332358, r68H, DB_D5, 1959410386);
+Jo_7f2Gj = K4jp(1022332358, r68H, DB_D5, (unsigned short)1959410386);
 }
 
 F_67HbXn = (long)(fRA9);
@@ -296,7 +296,7 @@ for (int j = 0; j < 2; j++)
 {
 if ((Waan5U9s) || (Jo_7f2Gj > g3VKP))
 {
-n9698r = K4jp(vcN6DCZ8EB, 1715442761, -1823510825, -1767305728) * g3VKP;
+n9698r = K4jp(vcN6DCZ8EB, 1715442761, -1823510825, (unsigned short)-1767305728) * g3VKP;
 }
 else
 {

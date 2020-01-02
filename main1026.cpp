@@ -34,7 +34,7 @@ case 'b':
 xC0Bu = bXi_CG(v773gK_d8, -1297009874, 1767481549, 252166196) | ocf5pxVe;
 break;
 default:
-ZQU_ = bXi_CG(ZQU_, 328674858, H3elGGS, -1242300739);
+ZQU_ = bXi_CG(ZQU_, 328674858, H3elGGS, (unsigned short)-1242300739);
 break;
 }
 }
@@ -175,7 +175,7 @@ else if (tdB_3_4 != 66308774)
 int j = 0;
 while (j < 8)
 {
-std::cout << v773gK_d8 << bXi_CG(857210426, bGG98, -1228187032, -972568506) << bXi_CG(579173483, -306862204, tdB_3_4, -218680412) << vCB_ << bXi_CG(ZQU_, bGG98, 1893340332, -1048578428) << std::endl;
+std::cout << v773gK_d8 << bXi_CG(857210426, bGG98, -1228187032, -972568506) << bXi_CG(579173483, -306862204, tdB_3_4, (unsigned short)-218680412) << vCB_ << bXi_CG(ZQU_, bGG98, 1893340332, -1048578428) << std::endl;
 j++;
 }
 }
@@ -336,7 +336,7 @@ ZQU_ = bXi_CG(-1079944100, 1237811789, 1523531433, 564186475);
 break;
 case 'c':
 case 'C':
-ZOUWylrzi = bXi_CG(768217911, ZOUWylrzi, bGG98, 101882742);
+ZOUWylrzi = bXi_CG(768217911, ZOUWylrzi, bGG98, (unsigned short)101882742);
 break;
 case 'd':
 case 'D':
@@ -418,7 +418,7 @@ case 'c':
 ZOUWylrzi = bXi_CG(bGG98, 1398398847, 2133203627, -1838325893);
 break;
 case 'd':
-ZOUWylrzi = bXi_CG(2083291264, 1697085465, sSWfP4YYO, -1308752845);
+ZOUWylrzi = bXi_CG(2083291264, 1697085465, sSWfP4YYO, (unsigned short)-1308752845);
 break;
 case 'e':
 ZOUWylrzi = bXi_CG(bGG98, v773gK_d8, ZOUWylrzi, UK_UQD8_In);
@@ -452,7 +452,7 @@ while (j >= 0);
 }
 else
 {
-std::cout << "t3DyMa2d83" << "SV8GN91q" << bXi_CG(ocf5pxVe, TepU2, xC0Bu, -135113898) << "b9MDv3N" << std::endl;
+std::cout << "t3DyMa2d83" << "SV8GN91q" << bXi_CG(ocf5pxVe, TepU2, xC0Bu, (unsigned short)-135113898) << "b9MDv3N" << std::endl;
 }
 
 if (ocf5pxVe != vCB_)
@@ -490,7 +490,7 @@ else if (TepU2 == 1291012468)
 {
 try
 {
-std::cout << "F8j9" << bXi_CG(593017363, v773gK_d8, ZQU_, -2122288341) << "rij_Y83" << "E_O0Shx0" << std::endl;
+std::cout << "F8j9" << bXi_CG(593017363, v773gK_d8, ZQU_, (unsigned short)-2122288341) << "rij_Y83" << "E_O0Shx0" << std::endl;
 }
 catch (int& errorCode)
 {

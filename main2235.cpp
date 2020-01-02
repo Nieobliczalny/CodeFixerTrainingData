@@ -116,7 +116,7 @@ case 4:
 bQUOOkr *= 1903101679;
 break;
 case 5:
-bQUOOkr = Ji74x ^ 1540184205;
+bQUOOkr = Ji74x ^ (unsigned char)1540184205;
 break;
 case 6:
 bQUOOkr = bQUOOkr << 2057675846;

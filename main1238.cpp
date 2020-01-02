@@ -47,7 +47,7 @@ int main(void)
  unsigned short int qS_G5;
  qS_G5 = 30234017;
 	unsigned char	rkY0vwd;
-	rkY0vwd	=	-242431834;
+	rkY0vwd	=	(unsigned char)-242431834;
  char PSL3;
  PSL3 = 462512810;
  unsigned long long ch1D;
@@ -63,7 +63,7 @@ int main(void)
  unsigned short int Tc09r_85_;
  Tc09r_85_ = 0;
   char  X763hBG7A;
-  X763hBG7A  =  -1333150368;
+  X763hBG7A  =  (char)-1333150368;
   unsigned long  qYVskxr;
   qYVskxr  =  916843208;
 	char	u70M;
@@ -91,7 +91,7 @@ try
 {
 try
 {
-std::cout << pk4iE_gR_ << Zu55tes << dgpr5(-1290198450, MrN0wmzv62, sKv_5n3, -1961908808) << "I27f1Hc_Q" << u70M << std::endl;
+std::cout << pk4iE_gR_ << Zu55tes << dgpr5(-1290198450, MrN0wmzv62, sKv_5n3, (unsigned char)-1961908808) << "I27f1Hc_Q" << u70M << std::endl;
 }
 catch (int& errorCode)
 {
@@ -534,7 +534,7 @@ case 'd':
 S8d_j = (int)floor(E3d338O);
 break;
 case 'e':
-Tc09r_85_ = dgpr5(1555257981, PSL3, -1467108773, 1394797327);
+Tc09r_85_ = dgpr5((short)1555257981, PSL3, -1467108773, 1394797327);
 break;
 case 'f':
 qS_G5 = w3Y731(qS_G5, 1757491513, 786308636, -1624127555, 1577140314);

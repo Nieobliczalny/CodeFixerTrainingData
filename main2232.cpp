@@ -23,7 +23,7 @@ int main(int argc, char** argv)
     unsigned int    i34sBP    =    1069437715;
     long double    s4mr2CN    =    -1918855499;
   short  S2HdGuyd  =  1634424101;
-	short int	f6FG7	=	1722234557;
+	short int	f6FG7	=	(short)1722234557;
  int VCDF79qC = 0;
 	unsigned int	B9KK	=	0;
 

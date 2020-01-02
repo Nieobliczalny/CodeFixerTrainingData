@@ -17,7 +17,7 @@ int main(void)
  double wg5a_J;
  wg5a_J = -1766721363;
     char    B_LG_;
-    B_LG_    =    782755312;
+    B_LG_    =    (char)782755312;
  char BpMQGTv;
  BpMQGTv = 0;
     unsigned long    GcxMSGC;
@@ -31,7 +31,7 @@ int main(void)
   int  BR03F91;
   BR03F91  =  675319924;
 	char	IROz;
-	IROz	=	5301073;
+	IROz	=	(char)5301073;
     short    eH4hCa;
     eH4hCa    =    -890680097;
     int    GRr631uu_;
@@ -45,7 +45,7 @@ int main(void)
   char  v7zsvzi49O;
   v7zsvzi49O  =  44136416;
 	unsigned char	ZKsY0e8;
-	ZKsY0e8	=	-1946602069;
+	ZKsY0e8	=	(unsigned char)-1946602069;
     unsigned char    wGKYtAfS;
     wGKYtAfS    =    440948619;
     double    LljX_c_7oI;
@@ -81,7 +81,7 @@ int main(void)
     short int    uzDd22kNCB;
     uzDd22kNCB    =    883369235;
   unsigned short int  zN3G91;
-  zN3G91  =  314184126;
+  zN3G91  =  (unsigned short)314184126;
     short    xS3EX;
     xS3EX    =    1770299853;
 	char	Aht6fs;
@@ -95,7 +95,7 @@ int main(void)
     unsigned char    N9x2iTJJ;
     N9x2iTJJ    =    -1312512463;
     unsigned char    aiaJw;
-    aiaJw    =    966130332;
+    aiaJw    =    (unsigned char)966130332;
     short int    Mix0LEnb2Z;
     Mix0LEnb2Z    =    -1720539730;
   double  pr_1XEg;
@@ -119,7 +119,7 @@ int main(void)
  unsigned short int AiQIB;
  AiQIB = -89241484;
     unsigned char    y424LN;
-    y424LN    =    -494168227;
+    y424LN    =    (unsigned char)-494168227;
     unsigned int    ckwp;
     ckwp    =    -2067529381;
 	long double	PEE7;
@@ -133,7 +133,7 @@ int main(void)
     float    m8rF85F4X;
     m8rF85F4X    =    -627714947;
     short int    u78oJB8;
-    u78oJB8    =    339577455;
+    u78oJB8    =    (short)339577455;
     double    z6_Ou;
     z6_Ou    =    -1131598273;
   double  t_np_E_;
@@ -147,7 +147,7 @@ int main(void)
   unsigned long  yxGQG21WZ;
   yxGQG21WZ  =  -1038713487;
     unsigned char    hxGoT0d7;
-    hxGoT0d7    =    1792278285;
+    hxGoT0d7    =    (unsigned char)1792278285;
   short int  l6pU_2;
   l6pU_2  =  851514314;
     unsigned long long    HOr9Ely;
@@ -173,7 +173,7 @@ int main(void)
     int    Ax1I4;
     Ax1I4    =    1512116045;
 	char	TS188E;
-	TS188E	=	461800072;
+	TS188E	=	(char)461800072;
  unsigned long ly6c0138;
  ly6c0138 = 1123098214;
     unsigned int    dG3aF2lB_;
@@ -183,7 +183,7 @@ int main(void)
     unsigned int    rTgreEd6;
     rTgreEd6    =    -312814378;
 	short	qR5zCsZ;
-	qR5zCsZ	=	1911043158;
+	qR5zCsZ	=	(short)1911043158;
 
 if (u78oJB8 != xdC4g)
 {

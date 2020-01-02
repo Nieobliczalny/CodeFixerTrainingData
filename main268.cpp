@@ -34,7 +34,7 @@ int main(void)
 {
     short    p_9P,    RD6t1oX3u,    iNApN77Ik,    IPEts1lc2,    YAE8v5k,    c6_x079KV,    II_TZS,    B6bYq4Mx;
     p_9P    =    1910631891;
-    RD6t1oX3u    =    -1749437589;
+    RD6t1oX3u    =    (short)-1749437589;
     iNApN77Ik    =    811804625;
     IPEts1lc2    =    1997120141;
     YAE8v5k    =    1349838385;
@@ -352,7 +352,7 @@ case 1:
 c6_x079KV = o8C5hs45d(c6_x079KV, II_TZS, -1981784820, -136078486);
 break;
 case 2:
-ZuGMU_uhz = m1_9Ah4(c6_x079KV, IPEts1lc2, 2107175483);
+ZuGMU_uhz = m1_9Ah4(c6_x079KV, IPEts1lc2, (unsigned short)2107175483);
 break;
 case 3:
 IPEts1lc2 ^= RD6t1oX3u;
@@ -370,7 +370,7 @@ case 7:
 II_TZS -= 929565353;
 break;
 case 8:
-p_9P = o8C5hs45d(p_9P, IPEts1lc2, 577536291, iNApN77Ik);
+p_9P = o8C5hs45d(p_9P, IPEts1lc2, (char)577536291, iNApN77Ik);
 break;
 case 9:
 IPEts1lc2 &= 1387643177;
@@ -581,7 +581,7 @@ iNApN77Ik ^= c6_x079KV;
 break;
 case 'c':
 case 'C':
-B6bYq4Mx = o8C5hs45d(ZuGMU_uhz, -1073767385, 535319642, YAE8v5k);
+B6bYq4Mx = o8C5hs45d(ZuGMU_uhz, -1073767385, (char)535319642, YAE8v5k);
 break;
 case 'd':
 case 'D':

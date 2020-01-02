@@ -31,7 +31,7 @@ unsigned long    P0V7FP5T(unsigned long    C6_K,int    WKz_S_7N,char    vnjHZb2Z
 
 int main()
 {
-  char  sbIV182i  =  -1987117872,  vyuC9S99_  =  858950918,  k1mxY6  =  1116573188,  hc9y  =  243344083,  m6MKJm73k  =  2046205519,  wNMnAEBm  =  596910591;
+  char  sbIV182i  =  -1987117872,  vyuC9S99_  =  (char)858950918,  k1mxY6  =  1116573188,  hc9y  =  243344083,  m6MKJm73k  =  2046205519,  wNMnAEBm  =  596910591;
  unsigned short int f82KSY = 0, r4Aw = 0, F8fn3Xu = 0;
 
 cout << MNET6W(sbIV182i) << Jk8Ds_W2N(1947003503, 1579009340, -99916469, hc9y, 410909668) << P0V7FP5T(sbIV182i, vyuC9S99_, k1mxY6, hc9y) << "GE4OcBT" << endl;
@@ -60,7 +60,7 @@ case 2:
 k1mxY6 = P0V7FP5T(k1mxY6, sbIV182i, vyuC9S99_, 482336480);
 break;
 case 3:
-hc9y = P0V7FP5T(1088819699, hc9y, r4Aw, -1825257270);
+hc9y = P0V7FP5T(1088819699, hc9y, r4Aw, (unsigned short)-1825257270);
 break;
 case 4:
 sbIV182i = H1_Dg82 & 978068238;
@@ -78,7 +78,7 @@ case 8:
 F8fn3Xu = Jk8Ds_W2N(hc9y, F8fn3Xu, -1645096431, -871607556, 1964697300);
 break;
 default:
-f82KSY = Jk8Ds_W2N(-506203242, -949928451, sbIV182i, -640835090, r4Aw);
+f82KSY = Jk8Ds_W2N(-506203242, (unsigned short)-949928451, sbIV182i, -640835090, r4Aw);
 break;
 }
 }
@@ -94,7 +94,7 @@ case 'a':
 vyuC9S99_ *= 1221895499;
 break;
 case 'b':
-hc9y = P0V7FP5T(498960596, -533083859, -1141766654, -824519633);
+hc9y = P0V7FP5T(498960596, -533083859, -1141766654, (unsigned short)-824519633);
 break;
 case 'c':
 k1mxY6 = hc9y / 2073092150;
@@ -117,7 +117,7 @@ k1mxY6 *= F8fn3Xu;
 }
 else if (hc9y != H1_Dg82)
 {
-hc9y = P0V7FP5T(1700592875, k1mxY6, 6970895, -621013219);
+hc9y = P0V7FP5T(1700592875, k1mxY6, (char)6970895, -621013219);
 }
 else if (((f82KSY) || (hc9y < k1mxY6)) && (f82KSY <= sbIV182i))
 {
@@ -164,7 +164,7 @@ case 'f':
 m6MKJm73k %= 1791181014;
 break;
 default:
-F8fn3Xu = Jk8Ds_W2N(-1144290249, 1620098322, 1834427277, vyuC9S99_, -680218249);
+F8fn3Xu = Jk8Ds_W2N(-1144290249, (unsigned short)1620098322, 1834427277, vyuC9S99_, -680218249);
 break;
 }
 {
@@ -269,7 +269,7 @@ k1mxY6++;
 while (j >= 0);
 }
 }
-hc9y = Jk8Ds_W2N(-776040147, 188038674, -1574047595, -1831155305, wNMnAEBm) ^ wNMnAEBm;
+hc9y = Jk8Ds_W2N(-776040147, 188038674, (short)-1574047595, -1831155305, wNMnAEBm) ^ wNMnAEBm;
 try
 {
 switch (m6MKJm73k)

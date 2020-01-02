@@ -25,7 +25,7 @@ long    L9HZ()    {
 }
 
 unsigned short int  fRp4(int  OdOSa,unsigned short int  y0pXq,unsigned long long  TWLEK2,unsigned long long  svB6_6z4G,unsigned long long  KdogJD)  {
-  return  565888183;
+  return  (unsigned short)565888183;
 }
 
 int main(int argc, char** argv)

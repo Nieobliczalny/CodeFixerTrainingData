@@ -17,7 +17,7 @@ int main(void) {
   long double  kD6RUP  =  1794180761;
     unsigned int    m3n6k973f    =    1601585311;
     unsigned char    rq_NeI87    =    -631195615;
-    short int    pU0_c    =    -271542012;
+    short int    pU0_c    =    (short)-271542012;
  unsigned short m_3YCZ1d_ = 0;
 	int	R_8L	=	490729791;
     char    f18H    =    403857026;
@@ -29,7 +29,7 @@ int main(void) {
   long  Z87T  =  -1683490772;
 	unsigned long long	qvjS	=	-1498604789;
 	short	AUhc8F	=	2144672230;
-    unsigned char    Y651_O4    =    -841643905;
+    unsigned char    Y651_O4    =    (unsigned char)-841643905;
 	unsigned short int	Jy8c	=	-566719692;
 	unsigned int	TQUFo	=	-896204065;
 	short	QIF0dt40	=	-1271588511;
@@ -41,7 +41,7 @@ int main(void) {
 	long	aWhG6Ys	=	0;
     int    xc47h5    =    1518785950;
  short n3t_H = 549282659;
-  unsigned short int  e1j_E  =  -1245815273;
+  unsigned short int  e1j_E  =  (unsigned short)-1245815273;
 
 if (e1j_E >= -1797497924)
 {

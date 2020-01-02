@@ -28,7 +28,7 @@ int main(void) {
     unsigned short int    SY5L;
     SY5L    =    -1486424536;
     unsigned char    u58g;
-    u58g    =    -308886141;
+    u58g    =    (unsigned char)-308886141;
 	short int	rtop2A87V;
 	rtop2A87V	=	-1597445784;
 	int	PYH6;
@@ -44,7 +44,7 @@ int main(void) {
     long double    h08Gcu_;
     h08Gcu_    =    -406486373;
  short int lLon3;
- lLon3 = 1521811194;
+ lLon3 = (short)1521811194;
 	unsigned short int	l8I4ijTW;
 	l8I4ijTW	=	-2078387445;
 	float	vYvZ_9;
@@ -54,7 +54,7 @@ int main(void) {
  short X0I8;
  X0I8 = 1359425286;
  unsigned short k3BaJp7k9;
- k3BaJp7k9 = -1774879894;
+ k3BaJp7k9 = (unsigned short)-1774879894;
  short on7226;
  on7226 = 367480133;
 	long long	mxJgZ9;
@@ -166,7 +166,7 @@ RLfR7GS = V_d0y >> mxJgZ9;
 }
 else if ((PYH6 == -610937919) || ((k3BaJp7k9) || (PYH6 < fncw7b)))
 {
-std::cout << Na0_g0iS << J5wyx0j << Hxl5(-1965224119, -1497687348, rtop2A87V, RLfR7GS, on7226) << Na0_g0iS << "ZdXU" << std::endl;
+std::cout << Na0_g0iS << J5wyx0j << Hxl5(-1965224119, (short)-1497687348, rtop2A87V, RLfR7GS, on7226) << Na0_g0iS << "ZdXU" << std::endl;
 }
 else if (k3BaJp7k9)
 {
@@ -220,7 +220,7 @@ case 0:
 n81n11 = (k3BaJp7k9 >= -186073773) ? mxJgZ9 : 1612503083;
 break;
 case 1:
-k3BaJp7k9 = m3W72j3(-835079972, 444104105);
+k3BaJp7k9 = m3W72j3(-835079972, (char)444104105);
 break;
 case 2:
 qr5Xw2 >>= SY5L;
@@ -316,7 +316,7 @@ while (i >= 0);
 
 if (hInpX(lLon3, 1602423854) == 0)
 {
-	u58g = -619434039 / hInpX(lLon3, 1602423854);
+	u58g = -619434039 / hInpX(lLon3, (unsigned short)1602423854);
 }
 
 {
@@ -392,7 +392,7 @@ unsigned short int  m3W72j3(short int  FiKK,char  vxk19v9)
 
 unsigned short    Hxl5(char    Zaw_SB6,short    rtVd73_,int    Rov8,short    r7TH_,short    fi47K7zj8)
 {
-    return    -1472413385;
+    return    (unsigned short)-1472413385;
 }
 
 long rZzXWx_4cz(unsigned char Pava6_Uw)

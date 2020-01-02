@@ -32,7 +32,7 @@ int main(void) {
     unsigned long    ZiPeKn5ql    =    -1280550545;
 	long long	P5V6BA72_1	=	0;
  int L6ZH5t8 = -1173389225;
-	short int	cRb_iuQ8c	=	779420810;
+	short int	cRb_iuQ8c	=	(short)779420810;
   short int  F762M  =  0;
   long double  bo0o  =  341496166;
 	int	LP66__t_zK	=	849783245;
@@ -169,7 +169,7 @@ case 6:
 cRb_iuQ8c = xH1ttecF_();
 break;
 case 7:
-ZiPeKn5ql = fF1Od2(-20373388) << 1435661131;
+ZiPeKn5ql = fF1Od2((short)-20373388) << 1435661131;
 break;
 case 8:
 bo0o = (int)floor(gS56);
@@ -288,7 +288,7 @@ case 0:
 ZiPeKn5ql = rd_1EkmV(-1401483075, -525656816, L6ZH5t8, gS56) / LP66__t_zK;
 break;
 case 1:
-P5V6BA72_1 = fF1Od2(312716484);
+P5V6BA72_1 = fF1Od2((short)312716484);
 break;
 case 2:
 F762M = fF1Od2(-1635867987);

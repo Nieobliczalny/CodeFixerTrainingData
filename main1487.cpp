@@ -43,7 +43,7 @@ int main() {
  double QKsffM5tQ;
  QKsffM5tQ = 4441586;
  unsigned short XM7wgE_;
- XM7wgE_ = 1968373662;
+ XM7wgE_ = (unsigned short)1968373662;
  unsigned long long klb6jWYkQ;
  klb6jWYkQ = 2112662024;
     char    NS105h6_D;
@@ -55,7 +55,7 @@ int main() {
  char az_41M;
  az_41M = 0;
   char  E9xd6XRu;
-  E9xd6XRu  =  1638321687;
+  E9xd6XRu  =  (char)1638321687;
  short RepBUJ;
  RepBUJ = -312493221;
  short HzEu9S9;
@@ -139,7 +139,7 @@ case 'i':
 NS105h6_D = D7L4_l8(NS105h6_D, 1490873630, HzEu9S9, 1264076908);
 break;
 case 'j':
-MVhe = j81bdh(MVhe, nWY019, -1552015409, 1566422663, klb6jWYkQ);
+MVhe = j81bdh(MVhe, nWY019, -1552015409, (char)1566422663, klb6jWYkQ);
 break;
 default:
 MC09kE0F = (int)floor(QKsffM5tQ);
@@ -202,7 +202,7 @@ E8gW = D7L4_l8(1784590021, 1419754668, -1186413533, -130844778);
 cout << z7lI_ << kir1I(E8gW, ztAE3U) << ztAE3U << "rF51J2" << endl;
 cout << SMM46c << D7L4_l8(E8gW, 554801025, E9xd6XRu, MHX5yCQ) << "g8AbT1h8eY" << HzEu9S9 << D7L4_l8(E8gW, 29056427, -1677152678, MHX5yCQ) << endl;
 
-XM7wgE_ = j81bdh(E8gW, -1055830553, E9xd6XRu, -205377655, RepBUJ) / az_41M;
+XM7wgE_ = j81bdh(E8gW, -1055830553, E9xd6XRu, (char)-205377655, RepBUJ) / az_41M;
 {
 int i = 7;
 while (i >= 0)
@@ -218,7 +218,7 @@ if (((az_41M) || (Giu_ & -569126739)) || ((MHX5yCQ & 1624991169) || (MHX5yCQ > -
 {
 if (ruJ7 >= E9xd6XRu)
 {
-MC09kE0F = j81bdh(lgnO3, -2140928150, -1916680909, -1551214171, ruJ7);
+MC09kE0F = j81bdh(lgnO3, -2140928150, -1916680909, (char)-1551214171, ruJ7);
 }
 else if (z7lI_ & az_41M)
 {
@@ -356,7 +356,7 @@ case 'f':
 XM7wgE_ *= MC09kE0F;
 break;
 case 'g':
-klb6jWYkQ = j81bdh(klb6jWYkQ, t45r11r, yRA33, -1017552862, Giu_);
+klb6jWYkQ = j81bdh(klb6jWYkQ, t45r11r, yRA33, (char)-1017552862, Giu_);
 break;
 }
 }
@@ -488,7 +488,7 @@ HzEu9S9 = kir1I(az_41M, 2000831660) & 658229231;
 break;
 case 'f':
 case 'F':
-MC09kE0F = j81bdh(202716679, -1603515596, s515, 689208129, Giu_);
+MC09kE0F = j81bdh(202716679, -1603515596, s515, (char)689208129, Giu_);
 break;
 case 'g':
 case 'G':

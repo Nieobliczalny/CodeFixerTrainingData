@@ -26,7 +26,7 @@ int main(int argc, char** argv)
   float  dRLXw;
   dRLXw  =  2047738572;
  unsigned short int kPSMX;
- kPSMX = 94292503;
+ kPSMX = (unsigned short)94292503;
     double    Y3YfEQ6Vt;
     Y3YfEQ6Vt    =    -1635513243;
  char zv5Fc3b0;
@@ -38,7 +38,7 @@ int main(int argc, char** argv)
  long long mN94S14;
  mN94S14 = -672423890;
 	unsigned short	m4_xD;
-	m4_xD	=	2024379308;
+	m4_xD	=	(unsigned short)2024379308;
   unsigned short  ckfPPCE5;
   ckfPPCE5  =  -103961774;
  unsigned int Ai1ZE9Sv;
@@ -52,7 +52,7 @@ int main(int argc, char** argv)
  unsigned int tq9w;
  tq9w = 10331424;
 	short int	v_866M1;
-	v_866M1	=	1752685851;
+	v_866M1	=	(short)1752685851;
   long double  c8o48bXA;
   c8o48bXA  =  397071714;
  unsigned long long gPaj_PH_Q;
@@ -66,7 +66,7 @@ int main(int argc, char** argv)
     unsigned long long    u1_8_m8FbT;
     u1_8_m8FbT    =    -216431889;
  unsigned short SP1i;
- SP1i = 1041977160;
+ SP1i = (unsigned short)1041977160;
  unsigned int b6FvZ7B5c;
  b6FvZ7B5c = 1184496342;
   char  KJ_zlp;
@@ -76,7 +76,7 @@ int main(int argc, char** argv)
     long long    e7BG;
     e7BG    =    -554064346;
  short hEbigvF0;
- hEbigvF0 = -28149637;
+ hEbigvF0 = (short)-28149637;
     long double    W98xK6q;
     W98xK6q    =    1718231097;
 	long long	FxD4zX15O1;
@@ -96,7 +96,7 @@ int main(int argc, char** argv)
   long  c3yUWW9982;
   c3yUWW9982  =  -1949116978;
  short int YExnDj;
- YExnDj = 1076170833;
+ YExnDj = (short)1076170833;
 	long long	z7_98;
 	z7_98	=	-1257629906;
  unsigned short z2nXm;
@@ -108,7 +108,7 @@ int main(int argc, char** argv)
   int  j1SGdn;
   j1SGdn  =  0;
  short C20sm;
- C20sm = 1088726221;
+ C20sm = (short)1088726221;
  long GCND_;
  GCND_ = -106400759;
  double wCU730d;
@@ -120,7 +120,7 @@ int main(int argc, char** argv)
  short int WodeK;
  WodeK = -1446098;
   unsigned short  Ot912vjXym;
-  Ot912vjXym  =  1457045837;
+  Ot912vjXym  =  (unsigned short)1457045837;
   short  ou8ve0e;
   ou8ve0e  =  -1186165696;
  unsigned int gy2UYq;
@@ -132,7 +132,7 @@ int main(int argc, char** argv)
 	char	qyeV;
 	qyeV	=	1104931585;
 	char	PgxZk;
-	PgxZk	=	-1326932210;
+	PgxZk	=	(char)-1326932210;
   unsigned int  z79532P;
   z79532P  =  -2031356783;
   float  aKW4;
@@ -152,7 +152,7 @@ int main(int argc, char** argv)
     unsigned short    MK3o;
     MK3o    =    -1851134269;
 	unsigned short int	eKodb7;
-	eKodb7	=	-908558143;
+	eKodb7	=	(unsigned short)-908558143;
   unsigned long long  u48_yvEcb;
   u48_yvEcb  =  -1413262289;
  int jPqNs8ccH;
@@ -162,7 +162,7 @@ int main(int argc, char** argv)
   short  ETJxFFfC1;
   ETJxFFfC1  =  -1154107557;
     short int    AlRh;
-    AlRh    =    2029185672;
+    AlRh    =    (short)2029185672;
  short int TdwgtsHh;
  TdwgtsHh = -1963110742;
 	short int	VOe_KbNLt;
@@ -186,7 +186,7 @@ int main(int argc, char** argv)
   short int  AZgg;
   AZgg  =  1636814480;
   unsigned short  y9lIn;
-  y9lIn  =  1558149893;
+  y9lIn  =  (unsigned short)1558149893;
   unsigned short int  BL1GK1u;
   BL1GK1u  =  2005486928;
 
@@ -207,7 +207,7 @@ while (k >= 0);
 }
 else
 {
-std::cout << VOe_KbNLt << Pmxo(AlRh, ETJxFFfC1, y9lIn, -1271185903, -628990557) << "YFk02a_VM" << "CHX3" << std::endl;
+std::cout << VOe_KbNLt << Pmxo(AlRh, ETJxFFfC1, y9lIn, -1271185903, (unsigned char)-628990557) << "YFk02a_VM" << "CHX3" << std::endl;
 }
 Z0Sv = y3B2(1149846226);
 if (((m4_xD >= 653221983) && (Y3YfEQ6Vt > z79532P)) || ((Real == AhcxS80obQ) && (WodeK != AhcxS80obQ)))

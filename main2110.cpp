@@ -15,6 +15,7 @@ unsigned long long yFNJ(unsigned int WU8mt,unsigned long NCmmsx,short int Wl2577
 
 int main(void)
 {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
 	unsigned short	nVYy10Pbmq	=	74378953,	V5jfYp2k	=	-1680508220,	R7_6cg	=	763419105,	L31lLc	=	2005838369,	AtOPa42KOG	=	-248416666,	bIbanA	=	1866974265,	s7101_8NCq	=	699090031,	PsFKm	=	658453946,	y3Rr	=	-633912164,	V5bAo	=	-928398109,	NYs4T	=	-1344853664;
   long long  G91jWRsW88  =  0,  u5za2n  =  0,  L2Pj  =  0,  Yr8Wb6  =  0,  m0a9dIIW8M  =  0;
 

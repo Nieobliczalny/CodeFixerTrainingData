@@ -57,7 +57,7 @@ case 1:
 mwbQHdZ = ok_2814bm(-1765142212, 1985841872);
 break;
 case 2:
-n8_Qf0 = ok_2814bm(314990617, WNzr);
+n8_Qf0 = ok_2814bm((unsigned char)314990617, WNzr);
 break;
 case 3:
 Bfc1_ = ok_2814bm(-1747112449, -441399541);

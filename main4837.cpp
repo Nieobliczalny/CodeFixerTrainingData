@@ -91,7 +91,7 @@ case 'd':
 u4B1Dd2a = aC86vLHM(737102220, zmL_a_, vtMDK8rf);
 break;
 case 'e':
-mY41s5 = aC86vLHM(-1431889011, m9XsRHKO, -1421641399);
+mY41s5 = aC86vLHM((short)-1431889011, m9XsRHKO, -1421641399);
 break;
 default:
 cFM1o |= hhV0Fv09;

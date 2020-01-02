@@ -20,7 +20,7 @@ int main()
     short    cGp6HY10ge;
     cGp6HY10ge    =    0;
   char  W1o_QJ0;
-  W1o_QJ0  =  1963528891;
+  W1o_QJ0  =  (char)1963528891;
     double    Yd7Qn;
     Yd7Qn    =    -990997714;
     long double    XoY5a228;
@@ -34,7 +34,7 @@ int main()
   long long  T5iU59KW3;
   T5iU59KW3  =  0;
   short  r8s0_;
-  r8s0_  =  421305002;
+  r8s0_  =  (short)421305002;
  double GZWH756;
  GZWH756 = -602251879;
 

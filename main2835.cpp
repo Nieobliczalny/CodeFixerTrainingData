@@ -109,7 +109,7 @@ int k = 8;
 do
 {
 --k;
-Je16T7x61 = iZhW2JiT_(Je16T7x61, 123324392);
+Je16T7x61 = iZhW2JiT_(Je16T7x61, (unsigned short)123324392);
 }
 while (k >= 0);
 }

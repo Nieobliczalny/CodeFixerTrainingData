@@ -31,7 +31,7 @@ int main(void) {
 	double	HCi_F79_;
 	HCi_F79_	=	-1463073557;
  short int HYV__i;
- HYV__i = 1749607841;
+ HYV__i = (short)1749607841;
   unsigned short  i_Cu2_R0;
   i_Cu2_R0  =  -804382763;
  unsigned short Hb_9Yk;
@@ -63,7 +63,7 @@ int main(void) {
   unsigned long long  Mt0_QnA;
   Mt0_QnA  =  -1091670197;
   char  DJXp9L_C2r;
-  DJXp9L_C2r  =  108810245;
+  DJXp9L_C2r  =  (char)108810245;
  float z2WLUT1O;
  z2WLUT1O = 503471790;
   long  SYB12v8l;
@@ -121,7 +121,7 @@ int main(void) {
   short  H6905_yL6;
   H6905_yL6  =  -1713822363;
 	unsigned char	ZZx7F1kt25;
-	ZZx7F1kt25	=	-1593629009;
+	ZZx7F1kt25	=	(unsigned char)-1593629009;
 	int	E92S9q_p4;
 	E92S9q_p4	=	-1693449981;
   double  G_7c;
@@ -137,7 +137,7 @@ int main(void) {
 	float	r1WnZZ;
 	r1WnZZ	=	381842389;
     unsigned char    IbKs;
-    IbKs    =    1478507933;
+    IbKs    =    (unsigned char)1478507933;
  short int l9dFfFgdfH;
  l9dFfFgdfH = 1647466709;
     int    nE2v;
@@ -163,7 +163,7 @@ int main(void) {
 	char	BpzIe0VdNU;
 	BpzIe0VdNU	=	-1258869093;
     unsigned char    R78y;
-    R78y    =    974925518;
+    R78y    =    (unsigned char)974925518;
     short int    G18lXY;
     G18lXY    =    1809676917;
   char  NG4M_3W;
@@ -173,7 +173,7 @@ int main(void) {
   unsigned char  xi9eZ8;
   xi9eZ8  =  356768503;
 	short int	T38qo9H2;
-	T38qo9H2	=	-1230132965;
+	T38qo9H2	=	(short)-1230132965;
 	short	npJVo9NH;
 	npJVo9NH	=	463992910;
   short int  V3Ci;
@@ -183,7 +183,7 @@ int main(void) {
   unsigned short  RbjAyl;
   RbjAyl  =  248376229;
   unsigned char  q09v4M;
-  q09v4M  =  -1997967127;
+  q09v4M  =  (unsigned char)-1997967127;
     int    n3tuqb_;
     n3tuqb_    =    0;
 	unsigned short int	J_Ha06ia1;
@@ -236,7 +236,7 @@ if (b0w0xOZ >= 1910031240)
 {
 for (int k = 0; k < 3; k++)
 {
-H6905_yL6 = PSLWQ(1776411318, 347660607);
+H6905_yL6 = PSLWQ(1776411318, (unsigned char)347660607);
 }
 }
 else if (V3Ci == GnDn6z_6W9)
@@ -544,7 +544,7 @@ short int    W75nD9bK7(long long    B_89Y_Cl,short    O7Xe9GzdL)
 }
 
 unsigned char s7Oct7A9(long long cDGSFgIl) {
- return -711695357;
+ return (unsigned char)-711695357;
 }
 
 unsigned int	y5GH()	{

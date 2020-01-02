@@ -39,7 +39,7 @@ int main(void) {
  long long pugeOTU;
  pugeOTU = 24161353;
     short int    wq06RAz95D;
-    wq06RAz95D    =    -452199302;
+    wq06RAz95D    =    (short)-452199302;
 	long double	v0C_vV00S;
 	v0C_vV00S	=	-97897256;
   unsigned char  xvB_ZA;
@@ -49,7 +49,7 @@ int main(void) {
 	unsigned short int	aVSj;
 	aVSj	=	863566218;
   unsigned short  R3OQp;
-  R3OQp  =  1432880174;
+  R3OQp  =  (unsigned short)1432880174;
   char  A7TDk5Tu;
   A7TDk5Tu  =  747317773;
     int    B2o_n3t8;
@@ -73,7 +73,7 @@ int main(void) {
  unsigned int UUoH;
  UUoH = -949429178;
 	char	mx8iLFe4N4;
-	mx8iLFe4N4	=	1218982703;
+	mx8iLFe4N4	=	(char)1218982703;
     unsigned int    t6z2W;
     t6z2W    =    -1628070484;
     unsigned long long    Ktsmck5r2a;
@@ -103,7 +103,7 @@ int main(void) {
 	long double	IDD924;
 	IDD924	=	-1338458656;
     unsigned short int    O51a;
-    O51a    =    249905353;
+    O51a    =    (unsigned short)249905353;
   char  y6HYrz3;
   y6HYrz3  =  1140775084;
 	short	x1xv;
@@ -113,7 +113,7 @@ int main(void) {
  char kff8RGyDh;
  kff8RGyDh = -322077626;
     unsigned short    HA00Da;
-    HA00Da    =    -494441060;
+    HA00Da    =    (unsigned short)-494441060;
 	unsigned short int	xKGG7;
 	xKGG7	=	-213173669;
     unsigned char    bM2oBGE;
@@ -123,7 +123,7 @@ int main(void) {
     char    z5836UW;
     z5836UW    =    203702889;
  unsigned char ni9m;
- ni9m = -684356736;
+ ni9m = (unsigned char)-684356736;
   short  JQ98;
   JQ98  =  0;
 	int	o13jFOdE;
@@ -137,7 +137,7 @@ int main(void) {
  int L1s6xm;
  L1s6xm = 1067625607;
  char lRwB7haX8H;
- lRwB7haX8H = 761147738;
+ lRwB7haX8H = (char)761147738;
  float F2_s_HT;
  F2_s_HT = -466470724;
  double lFgpn37d7I;
@@ -155,7 +155,7 @@ int main(void) {
  long double xR6Rp;
  xR6Rp = 1521384727;
  unsigned short int PgRp9XCpZ;
- PgRp9XCpZ = -1982914888;
+ PgRp9XCpZ = (unsigned short)-1982914888;
   unsigned short  KZ63a31;
   KZ63a31  =  -2133637438;
 	long long	rA1h534X;
@@ -246,7 +246,7 @@ P00v3z6 ^= hfTRdP;
 }
 while (i < 5);
 }
-tg4eb = (lRwB7haX8H > 1445802126) ? 220802798 : -1070349322;
+tg4eb = (lRwB7haX8H > 1445802126) ? 220802798 : (unsigned short)-1070349322;
 
 if ((-1736537238 / Jk3e09JQ) != 2048848231)
 {

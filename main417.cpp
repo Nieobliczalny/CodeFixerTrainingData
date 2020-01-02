@@ -29,7 +29,7 @@ int main()
 	unsigned long	iO5P4;
 	iO5P4	=	-1621338226;
  char m9cy;
- m9cy = -61985668;
+ m9cy = (char)-61985668;
  int Ysp8Ns;
  Ysp8Ns = 0;
  float c754JhG;
@@ -41,7 +41,7 @@ int main()
     unsigned short    w8JS5i4g8b;
     w8JS5i4g8b    =    0;
   short  lV64yR2;
-  lV64yR2  =  1801736336;
+  lV64yR2  =  (short)1801736336;
  float j6st7wUL;
  j6st7wUL = 1134415433;
     unsigned int    rqv_8n_;
@@ -194,7 +194,7 @@ try
 int k = 7;
 while (k >= 0)
 {
-j6st7wUL = u_6T(-439795587, -577543489, c4WepMBC);
+j6st7wUL = u_6T(-439795587, (short)-577543489, c4WepMBC);
 --k;
 }
 }
@@ -326,7 +326,7 @@ q_5J_ = (int)abs(m9cy) * 0;
 
 A41EzU81Ar = (unsigned int)(c4WepMBC);
 
-AIol9G = u_6T(AIol9G, -310921996, -970079705);
+AIol9G = u_6T(AIol9G, -310921996, (short)-970079705);
 iO5P4 = -590563933 / fmRfn();
 
 std::cout << m9cy << std::endl;
@@ -359,7 +359,7 @@ try
 {
 for (int k = 0; k < 1; k++)
 {
-fp44v = u_6T(1818750866, -572081339, -1568655914);
+fp44v = u_6T(1818750866, (short)-572081339, -1568655914);
 }
 }
 catch (int& errorCode)
@@ -448,7 +448,7 @@ while (j < 5);
 }
 else
 {
-lV64yR2 = u_6T(-620159037, iO5P4, -1215921718);
+lV64yR2 = u_6T(-620159037, iO5P4, (short)-1215921718);
 }
 
 w8JS5i4g8b = (unsigned short)(c4WepMBC * (pCE4tE));
@@ -473,7 +473,7 @@ for (int j = 5; j >= 0; j--)
 {
 for (int k = 3; k >= 0; --k)
 {
-A41EzU81Ar = u_6T(1026040881, -1200360519, iO5P4);
+A41EzU81Ar = u_6T(1026040881, (short)-1200360519, iO5P4);
 }
 }
 --i;

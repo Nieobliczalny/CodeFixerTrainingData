@@ -15,6 +15,7 @@ using std::floor;
 int main(int argc, char** argv)
 {
  long izAd2 = 0, HeaYj = 0, x_615_clx5 = 0, W4ai3H60 = 0;
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
     short int    eie6    =    -1399232457,    vX5Bc    =    508335856,    S32d9Xd    =    825286220,    p2_7j_6jE    =    -853710343,    Izzg    =    111940757,    lS_wqpC03    =    -623552439,    C6266zh30    =    1406531120,    fH67BtmkB    =    -356862961,    ZYaN    =    1346359123,    t97wB_6aC    =    361822558,    OETW    =    -247590035,    PpN0xDrr    =    1700776926,    I3DJO    =    -562916011,    vyxz_ND    =    -128791439,    a4A9lG4    =    -827540724,    mACwQ    =    72944078,    yLO01Cd    =    -386196700,    c57ok    =    388723878,    x6k_o96_M4    =    -1064722939,    hM6i22m    =    -28056284,    FTQy    =    -477243113,    Lv38Bng5Op    =    -590442246,    B686    =    791082516,    bpVR    =    -1011594894,    BOWgdU    =    -927477514,    ZjjWHp74    =    -1462774548,    Z3V84FVnM    =    967069887,    rjPCSLs    =    -1978337035,    vFBU    =    257563348,    U434h9I    =    -2126370260,    mlR1ASMwIP    =    1713017158,    i85bx7w    =    -22463965,    kDpwi    =    -425710622;
 
 std::cout << "SUgd_l8" << ZYaN << fH67BtmkB << std::endl;
@@ -248,7 +249,7 @@ x_615_clx5 = (int)abs(U434h9I) * 0;
 }
 else
 {
-mlR1ASMwIP = (kDpwi != 2097097182) ? 167203153 : -1670704582;
+mlR1ASMwIP = (kDpwi != 2097097182) ? 167203153 : (short)-1670704582;
 }
 }
 else

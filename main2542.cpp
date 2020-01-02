@@ -31,7 +31,7 @@ int main(void) {
 	short int	bSfoCT;
 	bSfoCT	=	817296078;
     unsigned char    wF3fXI3R;
-    wF3fXI3R    =    -1971892734;
+    wF3fXI3R    =    (unsigned char)-1971892734;
   unsigned char  tI45917;
   tI45917  =  -1157951880;
 	short int	uX5y0W;
@@ -47,7 +47,7 @@ int main(void) {
 	unsigned long	WyVJz;
 	WyVJz	=	1137776775;
     unsigned short int    AWBBFfV;
-    AWBBFfV    =    -1407308273;
+    AWBBFfV    =    (unsigned short)-1407308273;
   unsigned short  bBm30uz;
   bBm30uz  =  1153893587;
 	long double	mXPKxv;
@@ -69,7 +69,7 @@ int main(void) {
     long double    T_1u0fhw;
     T_1u0fhw    =    -2078458119;
  unsigned char CxrhKk8;
- CxrhKk8 = -2089186934;
+ CxrhKk8 = (unsigned char)-2089186934;
     short int    O5Srd_55;
     O5Srd_55    =    1376749246;
   unsigned int  rLj_esUg_6;
@@ -85,7 +85,7 @@ int main(void) {
 	float	Th0z;
 	Th0z	=	314408294;
  short int wBZWj9;
- wBZWj9 = -490195231;
+ wBZWj9 = (short)-490195231;
   unsigned long  q438f4yyNr;
   q438f4yyNr  =  0;
     unsigned int    pJ719;
@@ -216,7 +216,7 @@ while (i >= 0);
 yIPcx_cN = (int)floor(Q850w);
 if (Q850w < bSfoCT)
 {
-cout << ZX9U_8z9np() << TV7WY << ZX9U_8z9np() << Y669r(-1917647363, -1702455587, -1897985646, 911517056, 138981480) << endl;
+cout << ZX9U_8z9np() << TV7WY << ZX9U_8z9np() << Y669r(-1917647363, -1702455587, (short)-1897985646, 911517056, 138981480) << endl;
 }
 uX5y0W = (short int)(Q447G + (1441340434));
 Th0z = (int)floor(T_1u0fhw);

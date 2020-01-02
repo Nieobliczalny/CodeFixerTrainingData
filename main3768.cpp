@@ -26,7 +26,7 @@ int Q7_N4e9(short int L9Ky4Z3NH_) {
 }
 
 unsigned char	nvci8I(short int	y6XLx03,unsigned short int	oLIY5,long	J927_FMPg)	{
-	return	1015455653;
+	return	(unsigned char)1015455653;
 }
 
 long  NCE5ZvC()  {
@@ -137,7 +137,7 @@ if (cM5b2d <= -932004625)
 {
 try
 {
-f6tnSZ_423 = nvci8I(1772276091, -83178427, Hx__);
+f6tnSZ_423 = nvci8I(1772276091, (unsigned short)-83178427, Hx__);
 }
 catch (int& errorCode)
 {

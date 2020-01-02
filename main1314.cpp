@@ -15,7 +15,7 @@ char    x7_0n4W(unsigned long long    De6P_V_L,int    C__US40VN,long    I6e_0,lo
 
 int main() {
   unsigned short int  TVQE6uwFQs  =  -1230884543;
-    short int    hA0F    =    1683507966;
+    short int    hA0F    =    (short)1683507966;
     int    T_2f7    =    -1076099245;
  float iWhD = -2016881874;
     unsigned int    UlSaPZJ8_    =    -1208689761;
@@ -100,7 +100,7 @@ else
 {
 if (nuP5wiL >= F62At_p)
 {
-mT6lKN8_ = dmH4D3j(634122929, -1349546127, UlSaPZJ8_, mT6lKN8_);
+mT6lKN8_ = dmH4D3j((unsigned char)634122929, -1349546127, UlSaPZJ8_, mT6lKN8_);
 }
 }
 std::cout << hA0F << UlSaPZJ8_ << "fL9WO72" << BQP5Qg7(-1095442276, -1674845240, UlSaPZJ8_) << std::endl;
@@ -351,6 +351,6 @@ short int	BQP5Qg7(short int	am0n7D9vEl,long	TIfai,unsigned int	JmdpYN)
 
 char    x7_0n4W(unsigned long long    De6P_V_L,int    C__US40VN,long    I6e_0,long long    KgyZI4)
 {
-    return    -705631391;
+    return    (char)-705631391;
 }
 

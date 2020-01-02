@@ -18,7 +18,7 @@ int main(void) {
   float  Yosq;
   Yosq  =  1172913222;
   unsigned short int  s3Vb68;
-  s3Vb68  =  232416342;
+  s3Vb68  =  (unsigned short)232416342;
 	unsigned int	Ucq2Aks9X_;
 	Ucq2Aks9X_	=	180474932;
  unsigned short c2da;
@@ -36,7 +36,7 @@ int main(void) {
  double I__ohSyh1;
  I__ohSyh1 = 1369295872;
   char  ttoCaM;
-  ttoCaM  =  -1565280396;
+  ttoCaM  =  (char)-1565280396;
   long long  w4_Tw;
   w4_Tw  =  1880404885;
     unsigned short    plYo;
@@ -48,7 +48,7 @@ int main(void) {
 	float	uPcwc1Puw;
 	uPcwc1Puw	=	1451619790;
  char q2z48D01;
- q2z48D01 = -931379665;
+ q2z48D01 = (char)-931379665;
 	unsigned int	m7UIiF_;
 	m7UIiF_	=	383757556;
   long long  tbp_NGp4U;
@@ -60,7 +60,7 @@ int main(void) {
  short int L6547HMrZ;
  L6547HMrZ = -51751687;
  unsigned char e12_A;
- e12_A = 615574329;
+ e12_A = (unsigned char)615574329;
 	unsigned int	X_4M6;
 	X_4M6	=	-277370794;
     long double    fOUs2B;
@@ -70,7 +70,7 @@ int main(void) {
     unsigned short    SqGa5P_Y;
     SqGa5P_Y    =    1090887099;
 	unsigned short int	xJLO2d63;
-	xJLO2d63	=	-817039800;
+	xJLO2d63	=	(unsigned short)-817039800;
 	long double	D1X4m8aRh;
 	D1X4m8aRh	=	146016015;
  unsigned long long eW86eCE;
@@ -82,7 +82,7 @@ int main(void) {
  short int D176h;
  D176h = -853408195;
   char  rxMP_Xo__;
-  rxMP_Xo__  =  360666804;
+  rxMP_Xo__  =  (char)360666804;
   char  FiYISW;
   FiYISW  =  -240291927;
     unsigned long long    VQhco_Y5r;
@@ -98,7 +98,7 @@ int main(void) {
     short int    Wtotd_2u;
     Wtotd_2u    =    0;
  unsigned char vh_4__9;
- vh_4__9 = -1467580512;
+ vh_4__9 = (unsigned char)-1467580512;
     short    yW6_vkc7;
     yW6_vkc7    =    118139762;
 	short	yYF17;
@@ -112,7 +112,7 @@ int main(void) {
 	float	CJP6LtJE;
 	CJP6LtJE	=	1019578131;
     unsigned char    dBXCayJM;
-    dBXCayJM    =    -1889408353;
+    dBXCayJM    =    (unsigned char)-1889408353;
 	double	h5q_4qz;
 	h5q_4qz	=	193918326;
 	float	skc5_3;
@@ -126,7 +126,7 @@ int main(void) {
   unsigned long long  uKDvXyCYB7;
   uKDvXyCYB7  =  1907874357;
     unsigned char    YK8_kgzb5;
-    YK8_kgzb5    =    683065548;
+    YK8_kgzb5    =    (unsigned char)683065548;
     unsigned int    x1Wbo2Z1WU;
     x1Wbo2Z1WU    =    590172882;
   double  g5zjJdCHK2;
@@ -144,7 +144,7 @@ int main(void) {
  int x1Eq3KhU;
  x1Eq3KhU = 470792853;
   char  Yvei2YS;
-  Yvei2YS  =  1307143767;
+  Yvei2YS  =  (char)1307143767;
   int  j_D0p_;
   j_D0p_  =  1548002728;
   long  Ajq1QCAO1;
@@ -156,7 +156,7 @@ int main(void) {
   unsigned short int  I4SL9B;
   I4SL9B  =  -1204380718;
 	char	kyFKm;
-	kyFKm	=	350188606;
+	kyFKm	=	(char)350188606;
   unsigned long  Hgm95w;
   Hgm95w  =  -2082744479;
  float mGpHctWm02;

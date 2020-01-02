@@ -35,7 +35,7 @@ case 1:
 nSxq3B <<= 63365970;
 break;
 case 2:
-nSxq3B = Z0elQjJ8(Ezq05HZx_, 1117194863, 1927802456);
+nSxq3B = Z0elQjJ8(Ezq05HZx_, 1117194863, (unsigned char)1927802456);
 break;
 case 3:
 KoSjn = (int)abs(yO5uz88);
@@ -76,7 +76,7 @@ j++;
 }
 try
 {
-nSxq3B = Z0elQjJ8(Ezq05HZx_, 20860088, -87636643);
+nSxq3B = Z0elQjJ8(Ezq05HZx_, 20860088, (unsigned char)-87636643);
 }
 catch (int& errorCode)
 {
@@ -86,7 +86,7 @@ nSxq3B = (Ezq05HZx_ >= nSxq3B) ? Ezq05HZx_ : -823827734;
 switch (yO5uz88)
 {
 case 0:
-nSxq3B = VAey6H7(400916864, EDVjq3i6T5, nSxq3B, 1811191262);
+nSxq3B = VAey6H7(400916864, EDVjq3i6T5, nSxq3B, (unsigned char)1811191262);
 break;
 case 1:
 nSxq3B = Ezq05HZx_ % 404998870;
@@ -104,7 +104,7 @@ case 5:
 nSxq3B = KoSjn << 687114154;
 break;
 case 6:
-nSxq3B = VAey6H7(EDVjq3i6T5, 1301167395, 1216902270, nSxq3B);
+nSxq3B = VAey6H7(EDVjq3i6T5, 1301167395, (unsigned short)1216902270, nSxq3B);
 break;
 case 7:
 yO5uz88 = (int)abs(KoSjn);
@@ -202,7 +202,7 @@ for (int i = 0; i < 5; ++i)
 nSxq3B = (unsigned long)(iM92uGNT6Y + (62159757));
 }
 
-nSxq3B = Z0elQjJ8(-1391064795, 137957550, -1172575672) | 655874251;
+nSxq3B = Z0elQjJ8(-1391064795, 137957550, (unsigned char)-1172575672) | 655874251;
 {
 int i = 2;
 while (i >= 0)
@@ -303,7 +303,7 @@ else if (Ezq05HZx_ > yO5uz88)
 int k = 2;
 while (k >= 0)
 {
-nSxq3B = LJ1V1EF(-1232445949, 1386288280, nSxq3B, -681421211, EDVjq3i6T5);
+nSxq3B = LJ1V1EF(-1232445949, 1386288280, nSxq3B, (unsigned short)-681421211, EDVjq3i6T5);
 --k;
 }
 }
@@ -405,6 +405,6 @@ short	Z0elQjJ8(unsigned long	w_eW0X5,unsigned short int	Tc3iB1o,unsigned char	b8
 }
 
 unsigned short int  l62o(int  vvtt8tY_,unsigned short  L8nw22ubFk,char  F464,unsigned long long  pMcCJF6)  {
-  return  -2114846557;
+  return  (unsigned short)-2114846557;
 }
 

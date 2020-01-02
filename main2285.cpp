@@ -185,7 +185,7 @@ i--;
 }
 cout << H12S9dW << endl;
 
-cout << "nYunET33K" << INJ9Etq60(JO5bt, -963308090) << jgv_a6O << INJ9Etq60(-165629727, 105800838) << "HiN5" << endl;
+cout << "nYunET33K" << INJ9Etq60(JO5bt, -963308090) << jgv_a6O << INJ9Etq60(-165629727, (unsigned short)105800838) << "HiN5" << endl;
 if (XHyMc4lWp < y9TX9k7hNA)
 {
 {

@@ -22,7 +22,7 @@ int main(void) {
 	unsigned int	k2bTGKyu_f;
 	k2bTGKyu_f	=	-36655247;
  char EE6G;
- EE6G = 1461514510;
+ EE6G = (char)1461514510;
   float  MAZ145Br;
   MAZ145Br  =  -171607483;
     short    vzdnn0;
@@ -32,7 +32,7 @@ int main(void) {
     long    iG1Yr_Kj;
     iG1Yr_Kj    =    -1462629331;
   char  LvV99;
-  LvV99  =  -1418215586;
+  LvV99  =  (char)-1418215586;
   short int  z54_rbM58T;
   z54_rbM58T  =  1207895281;
   long  jBADVz6We;
@@ -52,7 +52,7 @@ int main(void) {
   double  exic;
   exic  =  -799820853;
  char R0Gf;
- R0Gf = -1411809636;
+ R0Gf = (char)-1411809636;
   long  zF9Nm8L_w;
   zF9Nm8L_w  =  -1049167658;
   char  OcU2DKBkO;
@@ -78,7 +78,7 @@ int main(void) {
   float  M7U3o;
   M7U3o  =  469974780;
 	short	CQu6o;
-	CQu6o	=	-263559590;
+	CQu6o	=	(short)-263559590;
  unsigned long long kfVQ;
  kfVQ = 1161382301;
     double    E2hDGA10Ud;
@@ -92,7 +92,7 @@ int main(void) {
  long long g3L9eKAp73;
  g3L9eKAp73 = 1850911852;
  short qpYFS_J6;
- qpYFS_J6 = -2042154153;
+ qpYFS_J6 = (short)-2042154153;
  unsigned int gK2cS8H69;
  gK2cS8H69 = -1522084987;
   unsigned long  p9D8s;
@@ -106,7 +106,7 @@ int main(void) {
 	char	IP70DCh;
 	IP70DCh	=	0;
  short int Gq7HV;
- Gq7HV = -226398476;
+ Gq7HV = (short)-226398476;
   unsigned int  HLDD8_0PFN;
   HLDD8_0PFN  =  -1093902848;
  unsigned char tky553;
@@ -116,7 +116,7 @@ int main(void) {
     int    M5BuipL;
     M5BuipL    =    -1706361296;
 	short	ulMVth;
-	ulMVth	=	-613734379;
+	ulMVth	=	(short)-613734379;
     unsigned short int    wP38A_K;
     wP38A_K    =    -1948501116;
  unsigned int bc2v8BndH;
@@ -128,7 +128,7 @@ int main(void) {
     short int    Psr2EZ684;
     Psr2EZ684    =    -1651344500;
 	unsigned short int	vlvV8Y6;
-	vlvV8Y6	=	-1361846253;
+	vlvV8Y6	=	(unsigned short)-1361846253;
     short    I09tiz;
     I09tiz    =    1540297544;
   unsigned short int  I28O58n483;
@@ -140,7 +140,7 @@ int main(void) {
 	int	dq4_II9CP;
 	dq4_II9CP	=	269903472;
     char    T2euFC;
-    T2euFC    =    -2060969388;
+    T2euFC    =    (char)-2060969388;
 	long	yY9S_;
 	yY9S_	=	-1788030055;
     unsigned char    E191;
@@ -154,7 +154,7 @@ int main(void) {
  unsigned short int OkalcsEny;
  OkalcsEny = -543563276;
  unsigned char vRD4zal_U;
- vRD4zal_U = 1654336913;
+ vRD4zal_U = (unsigned char)1654336913;
     double    E6Oq3Xfj4;
     E6Oq3Xfj4    =    974901040;
   short int  E38A;
@@ -171,7 +171,7 @@ if (OkalcsEny != -2077096301)
 {
 try
 {
-std::cout << QQ5KBezCa(-722671780, 492065184, m_vEpL972S, 1419627524) << QQ5KBezCa(bc2v8BndH, -2028012330, m_vEpL972S, l6OjhA38G) << r8ieUQ97a << std::endl;
+std::cout << QQ5KBezCa((unsigned short)-722671780, 492065184, m_vEpL972S, 1419627524) << QQ5KBezCa(bc2v8BndH, -2028012330, m_vEpL972S, l6OjhA38G) << r8ieUQ97a << std::endl;
 }
 catch (int& errorCode)
 {

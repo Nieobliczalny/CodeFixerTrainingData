@@ -34,7 +34,7 @@ int main()
   long long  U8B3lDJMf;
   U8B3lDJMf  =  -1318007155;
   unsigned short  ZKa3N163h;
-  ZKa3N163h  =  1679995583;
+  ZKa3N163h  =  (unsigned short)1679995583;
  unsigned short U0b2fo;
  U0b2fo = -411095820;
  char Q1R1n4YtW;
@@ -44,7 +44,7 @@ int main()
  unsigned long PCV0N2P;
  PCV0N2P = 433157370;
   unsigned char  q1B83_e79;
-  q1B83_e79  =  824627378;
+  q1B83_e79  =  (unsigned char)824627378;
     unsigned long    vC6g5;
     vC6g5    =    -156193660;
     long double    bDBB5P;
@@ -58,7 +58,7 @@ int main()
  unsigned short int X_1q00e_h;
  X_1q00e_h = -1092127331;
  short e8EYVKU7hZ;
- e8EYVKU7hZ = 1956240305;
+ e8EYVKU7hZ = (short)1956240305;
  short l_39z2fyc;
  l_39z2fyc = -424260162;
     unsigned int    xleNg1_8;
@@ -72,7 +72,7 @@ int main()
   unsigned short  r5e2_3;
   r5e2_3  =  -2067164558;
  unsigned short tdrwQl5;
- tdrwQl5 = -86107533;
+ tdrwQl5 = (unsigned short)-86107533;
 	unsigned short int	FLM_AOb;
 	FLM_AOb	=	1947322224;
  unsigned short int q94i3s4__;
@@ -84,7 +84,7 @@ int main()
   float  WF_2L301g_;
   WF_2L301g_  =  1286342148;
  short int je3IZNLAdZ;
- je3IZNLAdZ = 551696532;
+ je3IZNLAdZ = (short)551696532;
  int V1b4OAR;
  V1b4OAR = 0;
     long long    kwVoZmTx9G;
@@ -104,7 +104,7 @@ if (((pK48Oa) || (Rp22Sy3g <= -1139119150)) && (PCV0N2P <= Z2t8Z24))
 {
 std::cout << J9x_(e8EYVKU7hZ) << lU43yVlF(e8EYVKU7hZ) << W1p62j_3(e8EYVKU7hZ, -141041827, FLM_AOb) << std::endl;
 }
-mAKlJV = heU8Kk(mAKlJV, -392633365, -295752368);
+mAKlJV = heU8Kk(mAKlJV, (short)-392633365, -295752368);
 h29tb = xleNg1_8 / n_Kj;
 
 X_1q00e_h = (unsigned short int)(Z2t8Z24 + (531366300));
@@ -295,7 +295,7 @@ case 'b':
 WF_2L301g_ = (int)ceil(bDBB5P);
 break;
 case 'c':
-X_1q00e_h = (A0ztt5U08M >= q94i3s4__) ? -450874729 : 233863409;
+X_1q00e_h = (A0ztt5U08M >= q94i3s4__) ? -450874729 : (unsigned short)233863409;
 break;
 case 'd':
 e8EYVKU7hZ = (int)abs(Q1R1n4YtW);
@@ -335,7 +335,7 @@ bDBB5P = (int)floor(WF_2L301g_);
 
 if (ZKa3N163h == dC__)
 {
-std::cout << W1p62j_3(2102292514, V1b4OAR, 71877201) << lU43yVlF(X_1q00e_h) << heU8Kk(-2081991006, 1147314766, l_39z2fyc) << lU43yVlF(-1759966414) << std::endl;
+std::cout << W1p62j_3(2102292514, V1b4OAR, 71877201) << lU43yVlF(X_1q00e_h) << heU8Kk(-2081991006, 1147314766, l_39z2fyc) << lU43yVlF((short)-1759966414) << std::endl;
 }
 else if (KjGY208lY & h29tb)
 {
@@ -433,7 +433,7 @@ unsigned short	J9x_(int	w9XNk918H)	{
 
 unsigned char	W1p62j_3(unsigned long long	l_uJ5lKa,unsigned short int	winS,unsigned int	VJCCy91)
 {
-	return	1113771760;
+	return	(unsigned char)1113771760;
 }
 
 unsigned int	heU8Kk(int	NjYio,short int	SE6R3,unsigned long	mAOXd2BO)	{

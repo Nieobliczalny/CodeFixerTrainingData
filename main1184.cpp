@@ -24,7 +24,7 @@ int main(void)
  unsigned long long wgP7PCJ2h0 = 217377836;
 	unsigned long	BhMEeA	=	290972821;
   unsigned int  aCFy252fD4  =  -755104885;
-    char    H1_od4    =    1638526245;
+    char    H1_od4    =    (char)1638526245;
  short JIMO5U_0W = 1853182229;
 	short	Dd4KQlS0	=	778302211;
  unsigned int Ou4oETkO = -919310089;
@@ -42,7 +42,7 @@ int main(void)
   int  r89_R5  =  1842864747;
   char  XnYMQgb940  =  -279946449;
     double    d0mEbk7    =    390008883;
-	unsigned char	g08p	=	-727932291;
+	unsigned char	g08p	=	(unsigned char)-727932291;
  long double Ug8Sm9PTo = -1525593138;
  char y3n1 = 0;
 	unsigned int	whVQ	=	311137379;

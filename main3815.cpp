@@ -26,7 +26,7 @@ int main(void)
   unsigned short int  O4Sz09  =  0;
  unsigned char KT0uSYmn2 = 370407910;
   int  q1j_3B  =  1148324907;
-    short    Gf_Q_x    =    -2133218557;
+    short    Gf_Q_x    =    (short)-2133218557;
     unsigned long long    S6uVOlM7j    =    201061812;
  long long l0hHq35W = 627960407;
   short int  S200S  =  -1633502624;

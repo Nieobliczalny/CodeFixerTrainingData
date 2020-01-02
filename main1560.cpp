@@ -19,7 +19,7 @@ int main()
  long long QE0QYs5A3;
  QE0QYs5A3 = -183207895;
     char    zRz8x;
-    zRz8x    =    2004159006;
+    zRz8x    =    (char)2004159006;
  short int j_28h88qH3;
  j_28h88qH3 = 0;
  int bXL36;
@@ -41,7 +41,7 @@ int main()
  float h7iEg;
  h7iEg = -801765633;
     unsigned short int    EEyk0;
-    EEyk0    =    -147751389;
+    EEyk0    =    (unsigned short)-147751389;
   unsigned long long  No0po;
   No0po  =  815377399;
  long long RXCQv;

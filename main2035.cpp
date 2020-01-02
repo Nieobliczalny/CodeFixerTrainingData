@@ -164,7 +164,7 @@ Xf3LpiD2 = bcXu | MVf825N;
 break;
 case 'f':
 case 'F':
-ifigu3 = gY1_(668449417, 1250303525);
+ifigu3 = gY1_(668449417, (unsigned char)1250303525);
 break;
 case 'g':
 case 'G':
@@ -187,7 +187,7 @@ try
 int j = 0;
 do
 {
-std::cout << "fX3iz" << "plP1" << aj6A(-1198800674, -2145919116, Am6e40Mx45) << "ZV6QP78_1A" << std::endl;
+std::cout << "fX3iz" << "plP1" << aj6A(-1198800674, (short)-2145919116, Am6e40Mx45) << "ZV6QP78_1A" << std::endl;
 j++;
 }
 while (j < 9);
@@ -198,7 +198,7 @@ catch (int& errorCode)
 os5nn = gY1_(os5nn, -538132272);
 }
 
-if ((vZXzbC2D / F_HQFry9(os5nn, 1728370100, 1299985912, G49nHFmsaL, RCb_4Nh4)) <= 1796754287)
+if ((vZXzbC2D / F_HQFry9(os5nn, 1728370100, (unsigned short)1299985912, G49nHFmsaL, RCb_4Nh4)) <= 1796754287)
 {
 if ((gY1_(1015474903, -744242847) / F_HQFry9(os5nn, -37351902, p8nGc34, G49nHFmsaL, RCb_4Nh4)) != 1257720530)
 {
@@ -214,7 +214,7 @@ try
 {
 try
 {
-QLw62octA4 = gY1_(606977606, 1815544693);
+QLw62octA4 = gY1_(606977606, (unsigned char)1815544693);
 }
 catch (int& errorCode)
 {
@@ -237,7 +237,7 @@ std::cout << gY1_(GJJ5PEi96, -744648438) << z8q40MbrX << "j8pUjO" << std::endl;
 }
 if (cv07_ != 499988981)
 {
-vZXzbC2D = aj6A(-657366972, -1238462668, fdiH);
+vZXzbC2D = aj6A((unsigned char)-657366972, -1238462668, fdiH);
 }
 else
 {

@@ -21,7 +21,7 @@ int main(int argc, char** argv) {
 	short int	VC7dy;
 	VC7dy	=	-1285787796;
  short int tR0D4;
- tR0D4 = -667995617;
+ tR0D4 = (short)-667995617;
   long double  nJl3eG;
   nJl3eG  =  991396401;
  unsigned char flWdND;

@@ -42,7 +42,7 @@ int main(void) {
   long long  Tp_U;
   Tp_U  =  67100489;
 	unsigned char	q0Pdk;
-	q0Pdk	=	1985824869;
+	q0Pdk	=	(unsigned char)1985824869;
     char    v1yRn;
     v1yRn    =    390245415;
  unsigned int t984420L;
@@ -62,7 +62,7 @@ int main(void) {
     char    t1_a69;
     t1_a69    =    -550522661;
  short IBx7;
- IBx7 = 99603282;
+ IBx7 = (short)99603282;
     unsigned short    S46z;
     S46z    =    189638926;
  int B1_u;
@@ -76,7 +76,7 @@ int main(void) {
 	unsigned long	V_JRXxS44l;
 	V_JRXxS44l	=	1588072551;
     short int    eqNRl;
-    eqNRl    =    2100462532;
+    eqNRl    =    (short)2100462532;
 
 if (((oku44kuUsx > -54655195) && (qX01J == 1266153571)) && ((t984420L < 2065572408) && (qX01J >= -1239529920)))
 {

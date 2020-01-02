@@ -56,7 +56,7 @@ jJrOA = vm2J3Ov(jJrOA, QbL9, -1199285598);
 
 std::cout << "m05Rny6DK" << F6Ai(jJrOA, QbL9, rMZxUE1D6Q, q9_5BNfuf, -951920994) << std::endl;
 nJWtZv0ID = (int)(jJrOA);
-std::cout << vm2J3Ov(-1350358467, -109604588, 961999943) << JGId3dXdt << UZO1CaNRt1 << nJWtZv0ID << vm2J3Ov(jJrOA, QbL9, -331418006) << std::endl;
+std::cout << vm2J3Ov((unsigned short)-1350358467, -109604588, 961999943) << JGId3dXdt << UZO1CaNRt1 << nJWtZv0ID << vm2J3Ov(jJrOA, QbL9, -331418006) << std::endl;
 
 if (I43a >= -1534740524)
 {

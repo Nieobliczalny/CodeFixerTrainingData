@@ -21,7 +21,7 @@ int main() {
  wB1BMj5Hur = 0;
     unsigned short    I1r_,    t63jl,    P_HUwnvq82,    P4D_U,    YO1Fk,    c8y85,    o7cjpOl3,    Ib2zp0x1_,    XJ9Q_E7,    LBb5HxN2m,    DVxw,    bVnkEpBc,    BH188z,    c43qb5am,    ULWWw4L32,    vVUpRoWw,    vO24,    Iv4E,    d1fz91PPG,    LVTwp,    rMpZ80_,    Zs__J,    gFzFj8G,    FpZd3G1,    KKDo99Cr1A,    i932K8b,    Pxa8e93Wp,    LNG9,    sW0JNOJW_4,    jwyT_gRNA,    LA5BZ8EMO,    dINf3Dv,    iKq7ucZZj,    KUb7_AVA,    Q1_0921G1,    I1QUj6,    UUF832gLj5,    C2D01G,    Xgv1s7Y1;
     I1r_    =    -398146861;
-    t63jl    =    -354650416;
+    t63jl    =    (unsigned short)-354650416;
     P_HUwnvq82    =    -156011942;
     P4D_U    =    -423419685;
     YO1Fk    =    956677931;
@@ -31,7 +31,7 @@ int main() {
     XJ9Q_E7    =    2086689657;
     LBb5HxN2m    =    1543825940;
     DVxw    =    1565394960;
-    bVnkEpBc    =    2144207732;
+    bVnkEpBc    =    (unsigned short)2144207732;
     BH188z    =    1662966054;
     c43qb5am    =    731837680;
     ULWWw4L32    =    1139896975;
@@ -41,7 +41,7 @@ int main() {
     d1fz91PPG    =    -1238308672;
     LVTwp    =    1216694855;
     rMpZ80_    =    1329825230;
-    Zs__J    =    -1728811980;
+    Zs__J    =    (unsigned short)-1728811980;
     gFzFj8G    =    926014219;
     FpZd3G1    =    896048741;
     KKDo99Cr1A    =    -1686506188;
@@ -51,7 +51,7 @@ int main() {
     sW0JNOJW_4    =    1133170823;
     jwyT_gRNA    =    1316282221;
     LA5BZ8EMO    =    1450028587;
-    dINf3Dv    =    813744489;
+    dINf3Dv    =    (unsigned short)813744489;
     iKq7ucZZj    =    -891560150;
     KUb7_AVA    =    -1082811443;
     Q1_0921G1    =    -569063620;
@@ -115,7 +115,7 @@ t63jl = s8gxx(t63jl);
 }
 }
 mIL1YhW4 = vZ07v20(t63jl, -327003279);
-std::cout << "dzWB" << vZ07v20(t63jl, -456740441) << YO1Fk << std::endl;
+std::cout << "dzWB" << vZ07v20(t63jl, (short)-456740441) << YO1Fk << std::endl;
 {
 int i = 0;
 do
@@ -216,7 +216,7 @@ std::cout << o7cjpOl3 << Xgv1s7Y1 << jwyT_gRNA << std::endl;
 }
 else
 {
-std::cout << t63jl << YI2k() << s8gxx(-968309816) << std::endl;
+std::cout << t63jl << YI2k() << s8gxx((unsigned short)-968309816) << std::endl;
 }
 }
 else
@@ -484,7 +484,7 @@ jwyT_gRNA = vVUpRoWw * 483122571;
 break;
 case 'h':
 case 'H':
-mIL1YhW4 = vZ07v20(DVxw, -1130028560);
+mIL1YhW4 = vZ07v20(DVxw, (short)-1130028560);
 break;
 default:
 wB1BMj5Hur = vZ07v20(o7cjpOl3, -1101869199);
@@ -579,7 +579,7 @@ case 2:
 Pxa8e93Wp = s8gxx(-1494178551);
 break;
 case 3:
-wB1BMj5Hur = vZ07v20(-2095638529, -787762251);
+wB1BMj5Hur = vZ07v20(-2095638529, (short)-787762251);
 break;
 }
 Q1_0921G1 = (unsigned short)(jwyT_gRNA);

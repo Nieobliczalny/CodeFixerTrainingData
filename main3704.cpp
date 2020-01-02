@@ -22,7 +22,7 @@ unsigned long  dn6pW2(char  lPvx6,char  L5H8c,unsigned int  xv92sWD,short int  n
 }
 
 char	E1kneG_n(char	mSgTGOLGJ,int	V26SCP)	{
-	return	787334893;
+	return	(char)787334893;
 }
 
 int main(void) {
@@ -35,7 +35,7 @@ int main(void) {
     unsigned char    NA9US4;
     NA9US4    =    0;
 	short	RaUzTY48;
-	RaUzTY48	=	-1618300774;
+	RaUzTY48	=	(short)-1618300774;
  char Q908a69;
  Q908a69 = -1370384280;
 	int	Ts9EF8Y;

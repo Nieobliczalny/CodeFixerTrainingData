@@ -19,7 +19,7 @@ int main(void)
   double  Ct6xa9IK_y  =  -1385210718,  U2PGH  =  1524861818,  wi3p4NSXL8  =  941489433;
  unsigned long PEL5 = 0, De6CfFNgC = 0;
 
-std::cout << KXN6G(1598423051, -1139699301, 818015514) << std::endl;
+std::cout << KXN6G(1598423051, -1139699301, (unsigned char)818015514) << std::endl;
 
 {
 int i = 9;
@@ -47,7 +47,7 @@ for (int j = 0; j < 6; j++)
 {
 if (De6CfFNgC <= 164109431)
 {
-De6CfFNgC = KXN6G(-1351586500, -657643442, Ct6xa9IK_y);
+De6CfFNgC = KXN6G((unsigned char)-1351586500, -657643442, Ct6xa9IK_y);
 }
 else
 {
@@ -88,7 +88,7 @@ wi3p4NSXL8 = (double)(U2PGH);
 int i = 10;
 while (i >= 0)
 {
-PEL5 = KXN6G(-269600425, Ct6xa9IK_y, -684119288);
+PEL5 = KXN6G(-269600425, Ct6xa9IK_y, (unsigned char)-684119288);
 --i;
 }
 }
@@ -131,7 +131,7 @@ else if (U2PGH > 1202406294)
 {
 if (U2PGH < -1871553250)
 {
-PEL5 = KXN6G(Ct6xa9IK_y, -764703067, -472565074);
+PEL5 = KXN6G(Ct6xa9IK_y, -764703067, (unsigned char)-472565074);
 }
 }
 else
@@ -187,7 +187,7 @@ case 1:
 Ct6xa9IK_y = KXN6G(1253998647, wi3p4NSXL8, U2PGH) << 1355088660;
 break;
 case 2:
-PEL5 = KXN6G(PEL5, -1146407248, -1138308709);
+PEL5 = KXN6G(PEL5, -1146407248, (unsigned char)-1138308709);
 break;
 case 3:
 wi3p4NSXL8 *= De6CfFNgC;
@@ -205,7 +205,7 @@ int i = 2;
 while (i >= 0)
 {
 --i;
-std::cout << U2PGH << KXN6G(771884141, -1657066273, -1882458582) << std::endl;
+std::cout << U2PGH << KXN6G(771884141, -1657066273, (unsigned char)-1882458582) << std::endl;
 }
 }
 
@@ -234,7 +234,7 @@ De6CfFNgC = KXN6G(De6CfFNgC, U2PGH, PEL5);
 break;
 }
 
-std::cout << KXN6G(De6CfFNgC, 744341141, 1009940538) << U2PGH << KXN6G(-989633995, U2PGH, 1957128922) << std::endl;
+std::cout << KXN6G(De6CfFNgC, 744341141, 1009940538) << U2PGH << KXN6G((unsigned char)-989633995, U2PGH, 1957128922) << std::endl;
 
 try
 {
@@ -267,7 +267,7 @@ PEL5 = KXN6G(1554783292, 1910312732, wi3p4NSXL8);
 break;
 case 'c':
 case 'C':
-PEL5 = KXN6G(-1905331630, PEL5, -2075110781);
+PEL5 = KXN6G((unsigned char)-1905331630, PEL5, -2075110781);
 break;
 case 'd':
 case 'D':
@@ -316,7 +316,7 @@ else if (PEL5 > 2115889319)
 {
 try
 {
-PEL5 = KXN6G(1897056494, 77123397, -930551541);
+PEL5 = KXN6G(1897056494, 77123397, (unsigned char)-930551541);
 }
 catch (int& errorCode)
 {
@@ -370,7 +370,7 @@ else if (wi3p4NSXL8 != 1304825751)
 {
 if (((U2PGH <= wi3p4NSXL8) || (De6CfFNgC & 79347210)) || (Ct6xa9IK_y != 1344437679))
 {
-PEL5 = KXN6G(-2055906015, -2024558345, -926883697);
+PEL5 = KXN6G(-2055906015, -2024558345, (unsigned char)-926883697);
 }
 else
 {

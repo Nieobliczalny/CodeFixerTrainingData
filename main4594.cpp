@@ -24,7 +24,7 @@ int main(void) {
 int i = 0;
 while (i < 6)
 {
-std::cout << TChS0_9(679019519, -1802033592, igB_, -1134540675, confyrc) << bPxSD2l3X9 << Q7Z7oI53r << std::endl;
+std::cout << TChS0_9(679019519, -1802033592, igB_, (unsigned short)-1134540675, confyrc) << bPxSD2l3X9 << Q7Z7oI53r << std::endl;
 i++;
 }
 }
@@ -59,7 +59,7 @@ b5v7 += 1709415835;
 break;
 case 'g':
 case 'G':
-YVTMv3gW_ = TChS0_9(304595589, F2_PPH52n, w63ZeG_q, -17165593, zo5q4Qw3);
+YVTMv3gW_ = TChS0_9(304595589, F2_PPH52n, w63ZeG_q, (unsigned short)-17165593, zo5q4Qw3);
 break;
 case 'h':
 case 'H':
@@ -74,7 +74,7 @@ case 'J':
 VH9B = qqgc9l3(VH9B, -2085221722, 1379029796);
 break;
 default:
-zo5q4Qw3 = qqgc9l3(-1860709133, N134r4j7E, -1008351642);
+zo5q4Qw3 = qqgc9l3(-1860709133, N134r4j7E, (unsigned short)-1008351642);
 break;
 }
 if (e3gc7Qwa4Z < 247148777)
@@ -92,7 +92,7 @@ else
 {
 fQMU8604 = qqgc9l3(-1966586123, 401324116, JZRyvJN6);
 }
-std::cout << qqgc9l3(1916844787, 334672389, 1564851019) << "T8D_N_B5" << TChS0_9(fQMU8604, -624225226, JZRyvJN6, -1574395075, x7oM) << std::endl;
+std::cout << qqgc9l3(1916844787, 334672389, 1564851019) << "T8D_N_B5" << TChS0_9(fQMU8604, (unsigned short)-624225226, JZRyvJN6, -1574395075, x7oM) << std::endl;
 Jr9_a2u2n <<= 998533390;
 
 o6_iATJ4--;

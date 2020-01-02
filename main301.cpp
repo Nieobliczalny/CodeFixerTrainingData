@@ -30,7 +30,7 @@ int main(void)
   long  qAkps;
   qAkps  =  1812526431;
 	short	m9z079;
-	m9z079	=	-748331556;
+	m9z079	=	(short)-748331556;
   long long  Vv894Yl;
   Vv894Yl  =  292432762;
 	unsigned char	CV8TVd3L;
@@ -42,7 +42,7 @@ int main(void)
  unsigned int SMTmGz;
  SMTmGz = 331444445;
 	unsigned short int	i98SxY8mGD;
-	i98SxY8mGD	=	-1186088286;
+	i98SxY8mGD	=	(unsigned short)-1186088286;
  unsigned short ayp10jLuU;
  ayp10jLuU = -897955518;
  unsigned long long lkT7U;
@@ -68,7 +68,7 @@ int main(void)
     unsigned short int    x2_Mzj;
     x2_Mzj    =    0;
  short int p_3J9f_qeI;
- p_3J9f_qeI = -237073858;
+ p_3J9f_qeI = (short)-237073858;
     long long    O7kEXgR;
     O7kEXgR    =    400124345;
   unsigned long long  qhQT;
@@ -80,7 +80,7 @@ int main(void)
  long long qCa95djK2N;
  qCa95djK2N = 0;
   short  ZF7j__;
-  ZF7j__  =  -1462093040;
+  ZF7j__  =  (short)-1462093040;
  unsigned short int r31A0Ba_fJ;
  r31A0Ba_fJ = 1976737708;
 	long double	tC76Q2;
@@ -90,7 +90,7 @@ int main(void)
     unsigned short    g70qRG;
     g70qRG    =    884791662;
     short    DHUBC2l;
-    DHUBC2l    =    1858170178;
+    DHUBC2l    =    (short)1858170178;
 	unsigned int	bi2uu1;
 	bi2uu1	=	823562264;
  unsigned char lW8zv;
@@ -104,7 +104,7 @@ int main(void)
     double    X6Hx49_93F;
     X6Hx49_93F    =    1195019652;
  unsigned char pRHNWp72;
- pRHNWp72 = -482267886;
+ pRHNWp72 = (unsigned char)-482267886;
  unsigned short int wF22D;
  wF22D = 1515300382;
   long long  aGwNZ71R89;
@@ -118,7 +118,7 @@ int main(void)
     short int    J2ADhLul;
     J2ADhLul    =    -102906745;
  short int Ep69o2zw0h;
- Ep69o2zw0h = -716332745;
+ Ep69o2zw0h = (short)-716332745;
 	short int	bODT128fps;
 	bODT128fps	=	-730082035;
  long ZuM80zj3VA;
@@ -140,7 +140,7 @@ int main(void)
   long  D5_Et;
   D5_Et  =  -614535609;
 
-bODT128fps = d414(bODT128fps, -2020994931, 761879318, Ud_9_UM2, 1172676831);
+bODT128fps = d414(bODT128fps, -2020994931, (unsigned char)761879318, Ud_9_UM2, 1172676831);
 S3ne3 = Vv894Yl / qCa95djK2N;
 if ((Hz1Ma40HD < 1731308994) && (qAkps >= Tz2W0))
 {

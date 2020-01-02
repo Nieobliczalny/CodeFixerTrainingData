@@ -38,7 +38,7 @@ int main(int argc, char** argv)
     char    WUb_8C3ykl;
     WUb_8C3ykl    =    -1789964970;
     short int    J898L4cj;
-    J898L4cj    =    -1905606472;
+    J898L4cj    =    (short)-1905606472;
   double  M_y0DGhCy;
   M_y0DGhCy  =  -1492884157;
   unsigned short  QjbIqBhp3R;
@@ -52,7 +52,7 @@ int main(int argc, char** argv)
  unsigned int q__5a_;
  q__5a_ = 727395409;
   short  UJ61s;
-  UJ61s  =  1103303499;
+  UJ61s  =  (short)1103303499;
   unsigned char  KefUaD6je;
   KefUaD6je  =  -492384198;
  long double Dw2Lyp;
@@ -74,7 +74,7 @@ int main(int argc, char** argv)
  long YK956ZdV;
  YK956ZdV = -229394383;
     unsigned char    KI2Ab;
-    KI2Ab    =    -1508640350;
+    KI2Ab    =    (unsigned char)-1508640350;
 
 M_y0DGhCy = KI2Ab | 391304994;
 fjAaF8W_b = (short)(UJ61s);
@@ -127,7 +127,7 @@ cout << M_y0DGhCy << q__5a_ << cZX3M6_UF_(YK956ZdV, 167673323) << endl;
 }
 else
 {
-ElFbvPd = czwS_sV_(282343169, 1260122701, -2132415484);
+ElFbvPd = czwS_sV_(282343169, 1260122701, (unsigned short)-2132415484);
 }
 
 {
@@ -143,7 +143,7 @@ int k = 0;
 while (k < 4)
 {
 k++;
-wXmo = (Wq2AX3) ? 78041847 : oYwa(-631360273, 1386504732);
+wXmo = (Wq2AX3) ? 78041847 : oYwa(-631360273, (unsigned char)1386504732);
 }
 }
 --j;
@@ -225,7 +225,7 @@ case 1:
 Dw2Lyp = (int)floor(rHRkBTsR);
 break;
 case 2:
-M_y0DGhCy = czwS_sV_(1409292874, WUb_8C3ykl, 2063969487) << QjbIqBhp3R;
+M_y0DGhCy = czwS_sV_(1409292874, WUb_8C3ykl, (unsigned short)2063969487) << QjbIqBhp3R;
 break;
 case 3:
 M_y0DGhCy = (int)ceil(VQmBFJ3);
@@ -481,7 +481,7 @@ case 4:
 ElFbvPd = (int)abs(rHRkBTsR);
 break;
 case 5:
-Wq2AX3 = sL3Hpms4Tm(-1574194201);
+Wq2AX3 = sL3Hpms4Tm((unsigned char)-1574194201);
 break;
 default:
 M_y0DGhCy = czwS_sV_(M_y0DGhCy, T3VGa, 1275759869);
@@ -550,7 +550,7 @@ else
 {
 if (Dw2Lyp != -551007034)
 {
-Dw2Lyp = czwS_sV_(-376640618, Dw2Lyp, 480967600);
+Dw2Lyp = czwS_sV_(-376640618, Dw2Lyp, (unsigned short)480967600);
 }
 else if (KI2Ab)
 {

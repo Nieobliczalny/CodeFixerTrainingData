@@ -15,7 +15,7 @@ int main(int argc, char** argv) {
   int  I7X6fw  =  1960907726;
  unsigned int aN4QUiu = 1141234983;
  unsigned short int luPA = -1849237276;
-    unsigned char    weny    =    -2071832918;
+    unsigned char    weny    =    (unsigned char)-2071832918;
  unsigned short int yoWeJnH = 760455459;
 	long	vX0B6	=	-1743175525;
 	long long	u35_	=	1492457410;
@@ -26,7 +26,7 @@ int main(int argc, char** argv) {
   long long  BZ_z_3CL  =  870207820;
     long long    pk4Yb5D0    =    712184370;
   unsigned char  Dqd5H7  =  396135043;
-    unsigned char    A88x22K    =    -900761765;
+    unsigned char    A88x22K    =    (unsigned char)-900761765;
  float Br4gN = 1754520789;
  unsigned int Qm2_dn5g = 1812410187;
 	long	N4a2w5S5r	=	1769668070;
@@ -36,7 +36,7 @@ int main(int argc, char** argv) {
 	unsigned short int	fPZVRG2	=	1686170307;
 	long long	thL9x_	=	-1968211682;
     short    I3AGcIbt    =    115029014;
- short GW_3YL = 27867838;
+ short GW_3YL = (short)27867838;
 	double	w_6Qs	=	-1352719585;
  unsigned char pUz9OUUR9b = -326132404;
 	short int	R4ELZ_N10	=	1848097941;
@@ -49,7 +49,7 @@ int main(int argc, char** argv) {
   int  f7T1M  =  839970627;
 	long long	DPqm	=	901384281;
  unsigned short PyqK_vzP = -1211326400;
-	short	b4iRp7SqA2	=	1545668068;
+	short	b4iRp7SqA2	=	(short)1545668068;
  unsigned short int WVC26KzE3 = -993733289;
     unsigned long    xcrXvQRH79    =    -879098036;
 	int	EJ5X_X	=	743541189;
@@ -62,7 +62,7 @@ int main(int argc, char** argv) {
  unsigned int h5369h_X = 231147485;
  unsigned long long EHfBi = 1139442125;
     unsigned char    dv6hR    =    1785252962;
-	char	d7n5n	=	2003901303;
+	char	d7n5n	=	(char)2003901303;
     short int    JBV_bXW5RM    =    1354606137;
 	short int	F6SkK	=	-850308160;
     unsigned int    rtt1TRydY    =    162934860;
@@ -77,7 +77,7 @@ int main(int argc, char** argv) {
  float VI77FKx_dB = 117060121;
 	long	Klwr9RY	=	-1369560745;
 	long	kLoN	=	858975363;
-    short int    fFGq_zD    =    -574899276;
+    short int    fFGq_zD    =    (short)-574899276;
   unsigned char  vxJHI4  =  -676111653;
 
 for (int i = 0; i < 9; i++)

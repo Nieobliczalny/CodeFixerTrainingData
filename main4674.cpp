@@ -27,7 +27,7 @@ int main(void) {
 	float	T01P4TD	=	1237941770;
   long  AABXv  =  -413074583;
   int  m8pI0V1  =  532828440;
-  unsigned char  aXMkjsv  =  -1352895024;
+  unsigned char  aXMkjsv  =  (unsigned char)-1352895024;
   double  n9m8  =  868497049;
  long long UtdETUL = 1099177683;
  unsigned short int GELO83 = -1466183476;
@@ -40,7 +40,7 @@ int main(void) {
     float    dGS8p    =    -1000632816;
 	long double	cdddadhnd	=	1289592594;
     unsigned int    gYHDh1J    =    -460683284;
-    char    F26b47i00D    =    2134730701;
+    char    F26b47i00D    =    (char)2134730701;
     unsigned long long    UJNvbe2    =    -1717686852;
  float h9m41 = 1437331649;
     short    zO7Ofo09e    =    1434203059;
@@ -51,7 +51,7 @@ int main(void) {
     short    h_AXvrrieP    =    -2122094742;
     double    uR_zHBS    =    -346729681;
 	long	OLF_Kh2a	=	831002425;
-	unsigned short int	Dj_ZAUbjzP	=	1500656674;
+	unsigned short int	Dj_ZAUbjzP	=	(unsigned short)1500656674;
   float  pW8iiJ  =  2091131825;
     unsigned long    svI4M    =    0;
 	long long	G9p88R0Y40	=	-453312820;
@@ -61,7 +61,7 @@ int main(void) {
   float  x_KLVm_  =  -916352971;
     unsigned char    h46qo    =    832813306;
  unsigned long I8vS = -914867807;
-	unsigned short	LY8L	=	1460304316;
+	unsigned short	LY8L	=	(unsigned short)1460304316;
   unsigned char  R_5A_c_0  =  656249404;
  short int slDxE8 = 1908212814;
  unsigned int F6gW6pkPfl = -1334821875;
@@ -74,7 +74,7 @@ int main(void) {
     unsigned long    C8ZlJJ4    =    -1609723267;
  unsigned long long wI6z = 1337319143;
     float    aQ8btWR9e    =    1445814202;
-    unsigned short int    i7ZOf71Mf    =    990133184;
+    unsigned short int    i7ZOf71Mf    =    (unsigned short)990133184;
 
 if (h_AXvrrieP != Xhe8gV)
 {
@@ -114,7 +114,7 @@ I8vS = WnrNogW55U();
 int i = 10;
 do
 {
-std::cout << "CJCWw" << f70Xm(967963907, 228110883, -1378295204) << D8vD4IF3(477365459, -1350756722, IZgS, 194621344, 1663280221) << WnrNogW55U() << WRVf2N7x << std::endl;
+std::cout << "CJCWw" << f70Xm(967963907, (short)228110883, -1378295204) << D8vD4IF3(477365459, -1350756722, IZgS, 194621344, 1663280221) << WnrNogW55U() << WRVf2N7x << std::endl;
 --i;
 }
 while (i >= 0);
@@ -158,7 +158,7 @@ for (int j = 7; j >= 0; j--)
 {
 if (((h9m41 < xIBAQ4B_3) || (UJNvbe2 > -1011744293)) || (uR_zHBS == i7ZOf71Mf))
 {
-UJNvbe2 = f70Xm(UJNvbe2, -1094184792, -810324803);
+UJNvbe2 = f70Xm(UJNvbe2, -1094184792, (char)-810324803);
 }
 else
 {

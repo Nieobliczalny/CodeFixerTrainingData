@@ -491,7 +491,7 @@ unsigned long  D94kJ6(unsigned long long  Md6Ji1xN,short  M_at8i,unsigned long l
 }
 
 char FTyLgPamf() {
- return 910093596;
+ return (char)910093596;
 }
 
 char I9PF_kbR(long long JL5L3,short MVe361Vo25,unsigned int Y1aFiTM,unsigned int iz0FfZChL)

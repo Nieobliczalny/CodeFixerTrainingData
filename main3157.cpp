@@ -11,7 +11,7 @@ using namespace std;
 int main() {
     unsigned long long    R3Ioah7G    =    58469104;
   unsigned short int  Or3La  =  -1481498461;
- unsigned short int Jf0TFuZoc = 288142582;
+ unsigned short int Jf0TFuZoc = (unsigned short)288142582;
  long double oI_4nLno_ = -938472782;
 	double	Oy5cLa9lfW	=	-950877039;
   int  k1oQ  =  0;
@@ -24,7 +24,7 @@ int main() {
     unsigned int    v__gDON    =    551734723;
 	unsigned long	pSOWJ	=	-194877203;
     long double    nQNQ    =    448891624;
- short rH0eADb = 1613909207;
+ short rH0eADb = (short)1613909207;
     unsigned int    Ni9g    =    -648873280;
  int cy83oVs1 = 79383630;
 	unsigned char	cPRv1pGky	=	919031802;
@@ -35,7 +35,7 @@ int main() {
   char  Sn3iTp  =  -1540569667;
   long double  DCGAY2k9N5  =  -943347381;
  unsigned int X7sfPb02h = 0;
- unsigned short int Tsk2uZ0 = 1674788419;
+ unsigned short int Tsk2uZ0 = (unsigned short)1674788419;
 	char	C11z_	=	-1391968223;
 	double	W8LfTY	=	1921431326;
 	unsigned int	lehgdq1Sm	=	781325993;
@@ -47,7 +47,7 @@ int main() {
 	unsigned long	amDbz_Z	=	-1694384674;
 	unsigned int	B4mhp1hY	=	-1758717133;
 	long	Pb8rFN29AY	=	1150033817;
-    char    T6mWiJVa52    =    -1255665888;
+    char    T6mWiJVa52    =    (char)-1255665888;
   int  GN5o8Dd  =  1551698026;
   unsigned char  lk2A  =  -420920247;
 	unsigned long	v_TnB092Kv	=	582729167;
@@ -60,7 +60,7 @@ int main() {
   float  v656J93_  =  1061642405;
   float  uH5f_Cil  =  -568309222;
  unsigned int dHztV = -2110028597;
-  char  iZ2hc4U  =  -410159617;
+  char  iZ2hc4U  =  (char)-410159617;
  unsigned int cE5U760Qt = 1599035969;
 	unsigned short	g6_Lc17w21	=	1228247860;
     unsigned long long    Bukomx    =    419893213;
@@ -74,7 +74,7 @@ int main() {
     unsigned short int    j_LZ1Z_oZq    =    0;
   int  G4sWl2d  =  1780803960;
  long qrZOYcX2 = 1171107238;
-  short int  c63CEQ1G  =  -169255838;
+  short int  c63CEQ1G  =  (short)-169255838;
 	unsigned long long	qMAhE	=	162458111;
 	unsigned long	KCrdEx66	=	-1268583077;
   unsigned long  pKz_886AGa  =  330445132;

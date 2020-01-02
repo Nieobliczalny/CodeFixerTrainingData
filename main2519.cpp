@@ -19,7 +19,7 @@ int main()
     char    I0pi    =    0,    OI8rtKX92j    =    0;
 
 ZA_TFG9r5 = (unsigned int)(nDQ48X);
-US04 = vj4Xv(US04, -2031221820, 1988345605, -1293043955);
+US04 = vj4Xv(US04, -2031221820, (char)1988345605, -1293043955);
 
 std::cout << Wyhjw6U << "hViCne" << AoEX << g5m7_9hq7 << std::endl;
 
@@ -38,7 +38,7 @@ case 'b':
 Led0 = vj4Xv(Led0, Wyhjw6U, sz9mxv2, -1460956997);
 break;
 case 'c':
-yHLHq8TLhn = vj4Xv(yHLHq8TLhn, 1474737310, 33936574, 1169289391);
+yHLHq8TLhn = vj4Xv(yHLHq8TLhn, (char)1474737310, 33936574, 1169289391);
 break;
 case 'd':
 I0pi = (int)abs(OI8rtKX92j);
@@ -104,7 +104,7 @@ for (int j = 2; j >= 0; j--)
 {
 if (QWmtMr <= -1469287127)
 {
-S4Sp3o3WY = vj4Xv(S4Sp3o3WY, -1698000541, WJsqiY8h, Ip5m_bM);
+S4Sp3o3WY = vj4Xv(S4Sp3o3WY, (char)-1698000541, WJsqiY8h, Ip5m_bM);
 }
 }
 }
@@ -174,7 +174,7 @@ case 'g':
 yHLHq8TLhn = d_q3 & Y69Uy;
 break;
 case 'h':
-ROF6qCL03k = XMZQ(-709203150, -1690960462, L913, 656506824) % 435789323;
+ROF6qCL03k = XMZQ((short)-709203150, -1690960462, L913, 656506824) % 435789323;
 break;
 case 'i':
 US04 = VRbE18FM5I(US04, -771499720, -1346399514);
@@ -199,7 +199,7 @@ catch (int& errorCode)
 {
 ppmwh2yIR /= Y69Uy;
 }
-Ia_uUv = vj4Xv(2039899817, 1848289691, 183631864, -2080155749);
+Ia_uUv = vj4Xv(2039899817, 1848289691, (char)183631864, -2080155749);
 
 return 0;
 }

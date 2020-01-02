@@ -13,6 +13,7 @@ using namespace std;
 
 int main()
 {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
     unsigned char    V_InM    =    1303942612,    O8X7    =    1247737104,    YskT0C5    =    -86209854,    L_55    =    -138028697,    DF3W3    =    -1292925815,    hV9Jg_    =    1260632707,    cVFMxb5dA7    =    -1494593876,    GCxesKEF    =    -1084645390,    T8N5f    =    -610168923,    Aus8    =    -1455797586,    JHQtsWl    =    -213060162,    Io4am    =    -1618246812,    YgC5    =    -988196908,    czjel79500    =    -1938143540,    EN7o    =    -689815058,    cUTBZW3c5Y    =    -181092750,    O74ezSs74N    =    549960741,    n0xHNNV    =    1639211953,    OQ8Cgl    =    -632800696,    mQFYP8XL8    =    -433554575,    C3tH8_aG83    =    646809491,    w2BA_J    =    1684656892,    h1YF06pI6    =    300249875,    HQ5gg947b    =    -601200097,    c7iHzs_C3Z    =    1401575623,    Had22V    =    1856892519,    Cs4t_I    =    -900880094,    LyN85    =    -978679677,    KT9NAohYt    =    1926542688,    vH5iN1    =    1803813799,    Wc2m2_    =    -244517795,    th287T    =    1348810078;
     short    g_B4r8    =    0,    E2N4q6H4    =    0,    JkqKf1Hy    =    0;
 

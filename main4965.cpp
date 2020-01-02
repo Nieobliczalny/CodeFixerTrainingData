@@ -32,7 +32,7 @@ int main(int argc, char** argv)
     unsigned short int    jV4OElp;
     jV4OElp    =    1778500899;
     unsigned char    M9rNEQi;
-    M9rNEQi    =    -1756248717;
+    M9rNEQi    =    (unsigned char)-1756248717;
  float t4or92;
  t4or92 = -1287329863;
  short int pbJ6s_;
@@ -46,7 +46,7 @@ int main(int argc, char** argv)
 	unsigned int	qoL4I;
 	qoL4I	=	1029190847;
 	unsigned short	PvE3o;
-	PvE3o	=	-1478807500;
+	PvE3o	=	(unsigned short)-1478807500;
     short int    bzQXoi_N;
     bzQXoi_N    =    0;
     unsigned char    Z8C0A8Zsg;
@@ -92,7 +92,7 @@ case 3:
 jV4OElp = vy__p7s(-684544495, WubZ5vzli5);
 break;
 case 4:
-qoL4I = T___9421h(534162024, tlb9pH263, 1417848802, CDY7x0AN_4, -282102475);
+qoL4I = T___9421h(534162024, tlb9pH263, 1417848802, CDY7x0AN_4, (unsigned short)-282102475);
 break;
 case 5:
 pbJ6s_ = S718b ^ PvE3o;
@@ -171,7 +171,7 @@ bzQXoi_N = (int)abs(t4or92) * 0;
 }
 else if (S718b != D_K_kW5_z5)
 {
-PvE3o = T___9421h(-1295063697, -510629725, qoL4I, -1654719442, ee2Xn3_BY);
+PvE3o = T___9421h(-1295063697, -510629725, qoL4I, (char)-1654719442, ee2Xn3_BY);
 }
 else
 {
@@ -257,7 +257,7 @@ catch (int& errorCode)
 jV4OElp = vy__p7s(-475493961, -2129325330);
 }
 }
-cout << j3tZ66(658960110, ewrVyL7fq1) << Z8C0A8Zsg << j0X21_4Z(jV4OElp, ewrVyL7fq1, -1458197102) << vy__p7s(jV4OElp, 1101366758) << "PY6Ux8x" << endl;
+cout << j3tZ66(658960110, ewrVyL7fq1) << Z8C0A8Zsg << j0X21_4Z(jV4OElp, ewrVyL7fq1, (unsigned char)-1458197102) << vy__p7s(jV4OElp, 1101366758) << "PY6Ux8x" << endl;
 
 if ((tlb9pH263 > F5IOaISd) && (jV4OElp == -1780231996))
 {

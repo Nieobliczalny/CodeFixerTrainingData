@@ -14,7 +14,7 @@ char m0a_3Z5(long long dL65W5,int suAV9) {
 
 unsigned char  hBXjW24al()
 {
-  return  1765962508;
+  return  (unsigned char)1765962508;
 }
 
 unsigned int	J1Ok(unsigned short int	hAs0Qy_Ed)

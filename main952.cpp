@@ -42,7 +42,7 @@ std::cout << T6_S_M__(rPt9o7M, hW138, -2114433) << hW138 << std::endl;
 wv40FsH3 = (unsigned int)(DiQ2);
 if (m3X_U9)
 {
-std::cout << T6_S_M__(rPt9o7M, 422132431, QgWw1Zc1q) << koYecHe << QoCTL() << sHRFFoUR << "RTju4" << std::endl;
+std::cout << T6_S_M__(rPt9o7M, (short)422132431, QgWw1Zc1q) << koYecHe << QoCTL() << sHRFFoUR << "RTju4" << std::endl;
 }
 
 {
@@ -71,7 +71,7 @@ std::cout << T6_S_M__(rPt9o7M, hW138, -1958377617) << QoCTL() << std::endl;
 }
 V7c1YY = WORSbpS4k | 2076199397;
 
-Hx9boHr_tW = g8drCqe6S / T6_S_M__(406416259, -1672244283, QgWw1Zc1q);
+Hx9boHr_tW = g8drCqe6S / T6_S_M__(406416259, (short)-1672244283, QgWw1Zc1q);
 if (jQ_4roVFr <= koYecHe)
 {
 try
@@ -208,7 +208,7 @@ case 7:
 sHRFFoUR &= DiQ2;
 break;
 case 8:
-QgWw1Zc1q = T6_S_M__(vaB6tew, -464000999, -1379074712);
+QgWw1Zc1q = T6_S_M__(vaB6tew, -464000999, (unsigned short)-1379074712);
 break;
 default:
 koYecHe = T6_S_M__(vaB6tew, WA633EY, nNQb8e);
@@ -273,7 +273,7 @@ case 3:
 QgWw1Zc1q = T6_S_M__(1949359876, -1347897023, Hx9boHr_tW);
 break;
 case 4:
-QgWw1Zc1q = T6_S_M__(-1861471114, rPt9o7M, -252176546);
+QgWw1Zc1q = T6_S_M__(-1861471114, rPt9o7M, (unsigned short)-252176546);
 break;
 case 5:
 koYecHe = T6_S_M__(rPt9o7M, -707595367, -385428318);
@@ -340,7 +340,7 @@ luP20xKDz >>= 679269995;
 break;
 case 'e':
 case 'E':
-wv40FsH3 = T6_S_M__(rPt9o7M, 2081870747, 2130498808) % 876644398;
+wv40FsH3 = T6_S_M__(rPt9o7M, 2081870747, (unsigned short)2130498808) % 876644398;
 break;
 case 'f':
 case 'F':
@@ -389,7 +389,7 @@ else if (WORSbpS4k <= g8drCqe6S)
 {
 if (g8drCqe6S <= V7c1YY)
 {
-koYecHe = T6_S_M__(-1971429978, 1438958954, 570916166);
+koYecHe = T6_S_M__(-1971429978, 1438958954, (unsigned short)570916166);
 }
 }
 else if (g8drCqe6S != nNQb8e)
@@ -424,7 +424,7 @@ hW138 = V7c1YY | rPt9o7M;
 }
 }
 
-std::cout << "K7uj1" << T6_S_M__(1443634618, 1212343140, luP20xKDz) << T6_S_M__(Hx9boHr_tW, -895908252, 1706164282) << std::endl;
+std::cout << "K7uj1" << T6_S_M__(1443634618, 1212343140, luP20xKDz) << T6_S_M__(Hx9boHr_tW, (short)-895908252, 1706164282) << std::endl;
 if (((nNQb8e > m3X_U9) || (Hx9boHr_tW == -446426306)) || ((koYecHe >= -958631503) || (wv40FsH3 < tg9MQU1w8g)))
 {
 if (WORSbpS4k <= -1913279183)

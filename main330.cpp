@@ -21,7 +21,7 @@ unsigned char  Jr7F6(short int  kNq8u3B134,long long  YoojTY1T0_)  {
 }
 
 unsigned short int	ojj5Fi(unsigned long	IaJdX1LX7,long	VKpyn1Kyyf,long long	JvHHOF,short int	VD80QamN,short	VM6Q81GG4)	{
-	return	-582853398;
+	return	(unsigned short)-582853398;
 }
 
 int main() {
@@ -58,7 +58,7 @@ XynOHQ = V8zOlCq82 & W3S10;
 break;
 case 'g':
 case 'G':
-xmDf0zq = k5_zFVi(xmDf0zq, Ol0w9mz6, FYtqG6, -1275502804, -1325564768);
+xmDf0zq = k5_zFVi(xmDf0zq, Ol0w9mz6, FYtqG6, (short)-1275502804, -1325564768);
 break;
 case 'h':
 case 'H':
@@ -69,7 +69,7 @@ case 'I':
 QE7Axki8 = Jr7F6(-899594055, -1717339869) | 302814636;
 break;
 default:
-OdkaxRp4Jo = ojj5Fi(OdkaxRp4Jo, a9e4o698c, 765514647, -1632258844, -48331125);
+OdkaxRp4Jo = ojj5Fi(OdkaxRp4Jo, a9e4o698c, 765514647, (short)-1632258844, -48331125);
 break;
 }
 }
@@ -143,7 +143,7 @@ case 1:
 a9e4o698c <<= i_LpCoR;
 break;
 case 2:
-mM56 = Jr7F6(-1177814059, -1182535878);
+mM56 = Jr7F6((short)-1177814059, -1182535878);
 break;
 case 3:
 k20_p5hBx++;
@@ -217,7 +217,7 @@ while (j >= 0)
 int k = 0;
 while (k < 7)
 {
-kuebU22qdT = ojj5Fi(-399468748, 1618398392, -1836067513, -1385284299, 1511844511);
+kuebU22qdT = ojj5Fi(-399468748, 1618398392, -1836067513, -1385284299, (short)1511844511);
 k++;
 }
 }
@@ -248,7 +248,7 @@ case 'a':
 puW7 = kEI_xL(-616588156, -817416801, 531463035, -1300721954);
 break;
 case 'b':
-puW7 = kEI_xL(mG8l2, -723009538, 1890691290, Q4813XpwQ);
+puW7 = kEI_xL(mG8l2, -723009538, (short)1890691290, Q4813XpwQ);
 break;
 case 'c':
 eCUN77 = ojj5Fi(eCUN77, -1872403611, 776764226, 1233590161, -1956978409);
@@ -386,7 +386,7 @@ Q_30 = kEI_xL(D866n90De, -1111826482, Q_30, Q4813XpwQ);
 }
 else if (ylX8AL6q_ <= 1793693113)
 {
-C652O79RY = ojj5Fi(438614966, 646268231, T6yt0Te, -1903451246, 1722564975);
+C652O79RY = ojj5Fi(438614966, 646268231, T6yt0Te, -1903451246, (short)1722564975);
 }
 else if (foCHlv_7 & T6yt0Te)
 {
@@ -467,7 +467,7 @@ std::cout << kEI_xL(1690183375, vMsR__m8_, xmDf0zq, 305512359) << k5_zFVi(534819
 
 for (int i = 2; i >= 0; i--)
 {
-std::cout << V8zOlCq82 << ojj5Fi(-287139577, -563923678, -1092137125, -56466806, cPN94W) << V8zOlCq82 << std::endl;
+std::cout << V8zOlCq82 << ojj5Fi(-287139577, -563923678, -1092137125, (short)-56466806, cPN94W) << V8zOlCq82 << std::endl;
 }
 eCUN77 &= 1686484119;
 

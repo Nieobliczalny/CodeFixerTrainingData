@@ -21,7 +21,7 @@ unsigned short HKi4755(short int JJ83D,unsigned char J17_8,unsigned short FUBf_3
 int main(int argc, char** argv) {
 	unsigned long long	K12p	=	0;
 	short int	Ah7mIn_	=	-889979342;
-	unsigned short	Tcfn_	=	1647559934;
+	unsigned short	Tcfn_	=	(unsigned short)1647559934;
  char Qqh8 = 119325310;
   double  B2dY5A  =  -2144036379;
     unsigned long    bdr_    =    -997812040;
@@ -88,7 +88,7 @@ case 'e':
 bdr_ = uiVT(748550047, 2089048096, Tcfn_, Ah7mIn_);
 break;
 case 'f':
-K12p = HKi4755(35087882, B2dY5A, 1395838283, 1921507981);
+K12p = HKi4755(35087882, B2dY5A, (unsigned short)1395838283, 1921507981);
 break;
 case 'g':
 Ah7mIn_ = (B2dY5A <= 414742175) ? Qqh8 : Qqh8;
@@ -100,7 +100,7 @@ break;
 }
 else
 {
-K12p = HKi4755(-2133793141, 950164743, Tcfn_, 172135568);
+K12p = HKi4755(-2133793141, (unsigned char)950164743, Tcfn_, 172135568);
 }
 }
 try
@@ -143,7 +143,7 @@ else
 cout << "znG_" << Tcfn_ << endl;
 }
 
-K12p = HKi4755(-1661707150, Tcfn_, Ah7mIn_, 1294901552);
+K12p = HKi4755(-1661707150, Tcfn_, Ah7mIn_, (unsigned short)1294901552);
 
 if (((Tcfn_ > bdr_) && (Tcfn_ > Ah7mIn_)) && (K12p != -1627022475))
 {
@@ -192,7 +192,7 @@ case 2:
 Ah7mIn_ -= Tcfn_;
 break;
 case 3:
-B2dY5A = N6F20RI(B2dY5A, Ah7mIn_, K12p, 1307000740);
+B2dY5A = N6F20RI(B2dY5A, Ah7mIn_, K12p, (unsigned short)1307000740);
 break;
 case 4:
 Qqh8 |= 301849753;
@@ -204,7 +204,7 @@ case 6:
 Ah7mIn_ = N6F20RI(Ah7mIn_, 767247456, bdr_, B2dY5A);
 break;
 default:
-Ah7mIn_ = yQ5x(-1966804990, 1758022400, -1724789251, bdr_, -1490569065);
+Ah7mIn_ = yQ5x(-1966804990, 1758022400, (unsigned char)-1724789251, bdr_, -1490569065);
 break;
 }
 if (bdr_ > 1322083511)
@@ -234,7 +234,7 @@ while (i >= 0);
 }
 try
 {
-K12p = HKi4755(B2dY5A, 123996344, 2057140802, -676655306);
+K12p = HKi4755(B2dY5A, 123996344, (unsigned short)2057140802, -676655306);
 }
 catch (int& errorCode)
 {
@@ -265,7 +265,7 @@ char Yy__5ew7() {
 }
 
 unsigned short int	uiVT(unsigned long long	nuw9qeYy7,unsigned long	C1gvym,short int	G5HEM,unsigned int	HnoVMg)	{
-	return	452339389;
+	return	(unsigned short)452339389;
 }
 
 long    N6F20RI(long long    lS_9,long    Aa69S,unsigned long long    PDOz,unsigned short    o5HdCV1K)

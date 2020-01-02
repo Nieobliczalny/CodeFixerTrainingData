@@ -77,7 +77,7 @@ i83aDy4 = rNo3D(1488156620, i83aDy4, -1440542966);
 break;
 case 'j':
 case 'J':
-i83aDy4 = rNo3D(1850366547, Q5dO_821b, 1939903613);
+i83aDy4 = rNo3D((short)1850366547, Q5dO_821b, 1939903613);
 break;
 }
 

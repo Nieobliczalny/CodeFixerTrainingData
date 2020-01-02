@@ -26,7 +26,7 @@ int main(void) {
 	int	Ag2l1G169	=	0;
  short int p4mR13Gb9 = 0;
   unsigned short  z_tFGh6O  =  -462293725;
-    short int    qv9jj    =    1489328782;
+    short int    qv9jj    =    (short)1489328782;
   unsigned long  U3c50h_5  =  -1751732921;
 
 k6FN8 = (int)abs(h0m4dE) * 0;
@@ -248,7 +248,7 @@ case 4:
 Ag2l1G169 = ij00();
 break;
 case 5:
-z_tFGh6O = m6mMU4GMG8(-768470754, ANa1, 407386415, 873393830);
+z_tFGh6O = m6mMU4GMG8(-768470754, ANa1, (unsigned short)407386415, 873393830);
 break;
 case 6:
 z_tFGh6O = p4mR13Gb9 * 1102925464;
@@ -316,7 +316,7 @@ else
 switch (z_tFGh6O)
 {
 case 'a':
-h0m4dE = m6mMU4GMG8(1313105306, 1213308375, U3c50h_5, a_5_3z3wX);
+h0m4dE = m6mMU4GMG8(1313105306, (unsigned short)1213308375, U3c50h_5, a_5_3z3wX);
 break;
 case 'b':
 h0m4dE = (int)abs(k6FN8) + (723071938);
@@ -334,7 +334,7 @@ std::cout << ij00() << m6mMU4GMG8(p4mR13Gb9, -59474786, U3c50h_5, -1434886198) <
 
 if (z_tFGh6O & a_5_3z3wX)
 {
-std::cout << m6mMU4GMG8(-1265832788, h0m4dE, 661108618, -531853161) << "OC19RcEa" << std::endl;
+std::cout << m6mMU4GMG8((unsigned short)-1265832788, h0m4dE, 661108618, -531853161) << "OC19RcEa" << std::endl;
 }
 else
 {
@@ -356,7 +356,7 @@ h0m4dE *= 1185513184;
 }
 else if ((Ag2l1G169 > p4mR13Gb9) || (k6FN8 >= z_tFGh6O))
 {
-std::cout << m6mMU4GMG8(1939298733, z_tFGh6O, -69644646, U3c50h_5) << m6mMU4GMG8(-28105371, z_tFGh6O, Ag2l1G169, U3c50h_5) << "HXNKUqE7c" << "S89u" << std::endl;
+std::cout << m6mMU4GMG8(1939298733, z_tFGh6O, (unsigned short)-69644646, U3c50h_5) << m6mMU4GMG8(-28105371, z_tFGh6O, Ag2l1G169, U3c50h_5) << "HXNKUqE7c" << "S89u" << std::endl;
 }
 else
 {

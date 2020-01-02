@@ -241,7 +241,7 @@ xzMYV6AsI = b__3uI / 825837540;
 int i = 0;
 while (i < 6)
 {
-xvdS6 = EfiHwb1996(1257220302) << 407352248;
+xvdS6 = EfiHwb1996((short)1257220302) << 407352248;
 ++i;
 }
 }
@@ -280,7 +280,7 @@ std::cout << "Q11AoYmV62" << EfiHwb1996(SV0m1Op_y) << wEfQbMv << CYYQD << "I6qTG
 }
 else
 {
-std::cout << EfiHwb1996(2117903602) << SqIa6 << EfiHwb1996(466964615) << wEfQbMv << std::endl;
+std::cout << EfiHwb1996(2117903602) << SqIa6 << EfiHwb1996((short)466964615) << wEfQbMv << std::endl;
 }
 P59M7 = 797783210 / EfiHwb1996(-1317952801);
 P59M7 = (int)abs(v30u_Pb23);
@@ -376,7 +376,7 @@ SqIa6 = (int)abs(kb4P70_SQZ);
 switch (Gf31j)
 {
 case 'a':
-xbQ049_l = lJHcS2(-790671981, q7e719r2s, jmU64, -207922565);
+xbQ049_l = lJHcS2(-790671981, q7e719r2s, jmU64, (unsigned short)-207922565);
 break;
 case 'b':
 kb4P70_SQZ *= gZ00gz48;
@@ -388,7 +388,7 @@ case 'd':
 XiDm2lE = EfiHwb1996(xvdS6);
 break;
 case 'e':
-FijpT = lJHcS2(-1774647942, Y91xMH, iedY3dR, 1169017369);
+FijpT = lJHcS2(-1774647942, Y91xMH, iedY3dR, (unsigned short)1169017369);
 break;
 case 'f':
 yh2Js51_ = lJHcS2(yh2Js51_, MLlYBWhEJ, -671405471, D5R9D2Fsf);
@@ -426,7 +426,7 @@ ZTIPxg /= R7Fji_;
 break;
 case 'f':
 case 'F':
-XiDm2lE = EfiHwb1996(-126867724);
+XiDm2lE = EfiHwb1996((short)-126867724);
 break;
 case 'g':
 case 'G':

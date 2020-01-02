@@ -29,7 +29,7 @@ int main() {
 
 Z0LO9v = X64H(1948724082, 946566577, chJ_dKbxV1);
 
-hvg6oklXw1 = YZZ5t0(-1737947808, -615755748, chJ_dKbxV1);
+hvg6oklXw1 = YZZ5t0(-1737947808, (unsigned short)-615755748, chJ_dKbxV1);
 
 std::cout << YZZ5t0(c5DL_, 592247545, -633415803) << "RRI65" << "S_a200NF" << Z0LO9v << std::endl;
 

@@ -18,7 +18,7 @@ int main(int argc, char** argv) {
   double  k2bE  =  -108263303;
 	long double	Sq3l12fHu	=	-558775517;
  float PmFP = 1307883275;
-	unsigned short	tF37O9329	=	-2075663865;
+	unsigned short	tF37O9329	=	(unsigned short)-2075663865;
     short int    nSo28oW    =    -1594473928;
     unsigned short int    LPD8hSq6u    =    0;
   short int  N6R6EJPyw6  =  1606964944;
@@ -28,7 +28,7 @@ int main(int argc, char** argv) {
 	short int	YG8p	=	-1329726721;
  unsigned short utOj7oKx = 1950314094;
  unsigned short int yoYC64 = 604919898;
-  short int  FuhriX69xM  =  1911627521;
+  short int  FuhriX69xM  =  (short)1911627521;
     short int    rSsMPu    =    435072761;
   double  v7C_t  =  1124159430;
 	unsigned long long	mU_55ZwH	=	-204345095;
@@ -41,7 +41,7 @@ int main(int argc, char** argv) {
     int    YqiG9R5k    =    -1718475668;
     double    I6oV6l2A6    =    866384237;
     long long    Uua33sA3kN    =    180064322;
-	unsigned short	J45dw09yz	=	-542540110;
+	unsigned short	J45dw09yz	=	(unsigned short)-542540110;
     int    k6hTq9ER    =    0;
     char    Iy15b5O0T    =    -820599132;
  char azi41pj3 = -1071957035;
@@ -88,7 +88,7 @@ for (int j = 9; j >= 0; --j)
 {
 for (int k = 8; k >= 0; k--)
 {
-FuhriX69xM = B7TW45q(1515601461, -189061626);
+FuhriX69xM = B7TW45q(1515601461, (short)-189061626);
 }
 }
 }
@@ -108,7 +108,7 @@ case 1:
 tF37O9329 ^= AK1U;
 break;
 case 2:
-n7iadVe40 = B7TW45q(1674307052, -257640867);
+n7iadVe40 = B7TW45q(1674307052, (short)-257640867);
 break;
 case 3:
 JYtvNT39Jc = (int)floor(PmFP);
@@ -136,7 +136,7 @@ i--;
 while (i >= 0);
 }
 
-ljEEg = B7TW45q(WmYC6, 2010548322) / AxC0r2k(533551547, -414854082);
+ljEEg = B7TW45q(WmYC6, (short)2010548322) / AxC0r2k(533551547, -414854082);
 
 if (((YG8p > e8Wsw) && (Ffxq1UP2e > 2074765063)) || ((k2bE >= J45dw09yz) && (WmYC6 > 1323843240)))
 {
@@ -249,7 +249,7 @@ if ((D5uCH_0sI & -617149858) && (PfAm0 & e8Wsw))
 {
 if (k6hTq9ER <= -1423044633)
 {
-rSsMPu = B7TW45q(rSsMPu, 1400419513);
+rSsMPu = B7TW45q(rSsMPu, (short)1400419513);
 }
 else if (LPD8hSq6u == -1493181375)
 {

@@ -32,7 +32,7 @@ char  ibC5Mc5VS(unsigned short int  FfyYL)
 }
 
 unsigned char f9HAR7_(unsigned short int nWm9aD_6U,char iT7KzWxLR) {
- return 966628737;
+ return (unsigned char)966628737;
 }
 
 int main(void) {
@@ -86,7 +86,7 @@ Tf1C4qsbAY = ibC5Mc5VS(1240363855);
 break;
 case 'd':
 case 'D':
-eIVrRkD2 = z_Bz239zm(-1809199786, Z_P072, f49m, -1551072165);
+eIVrRkD2 = z_Bz239zm((short)-1809199786, Z_P072, f49m, -1551072165);
 break;
 case 'e':
 case 'E':
@@ -248,7 +248,7 @@ i++;
 }
 }
 std::cout << z_Bz239zm(1186275526, brNXz, dUI_3, V06n) << "BO4o" << "jtg0Y" << q0al70 << VIs489ne() << std::endl;
-t3YSKc6G = f9HAR7_(326663565, 5348841);
+t3YSKc6G = f9HAR7_((unsigned short)326663565, 5348841);
 
 try
 {
@@ -288,7 +288,7 @@ t3YSKc6G = f9HAR7_(t3YSKc6G, V06n);
 }
 else
 {
-jZ1C8x_ld_ = f9HAR7_(-2019929504, kNPZBQs27);
+jZ1C8x_ld_ = f9HAR7_((unsigned short)-2019929504, kNPZBQs27);
 }
 }
 else if (s22V8fRn <= Gr6I8)
@@ -312,7 +312,7 @@ case 2:
 Vn368A0c = z_Bz239zm(Vn368A0c, -560029692, pCc17G, 1291116912);
 break;
 case 3:
-oe5_vPBcd = dbb9(1215838698, 1857726763, Tf1C4qsbAY);
+oe5_vPBcd = dbb9((unsigned short)1215838698, 1857726763, Tf1C4qsbAY);
 break;
 case 4:
 aRW5d2A2A = f9HAR7_(aRW5d2A2A, -1518790719);
@@ -344,7 +344,7 @@ break;
 }
 }
 }
-std::cout << ep6jA << "AR9525u9JV" << z_Bz239zm(532051170, 1067561566, pCc17G, aAU_) << std::endl;
+std::cout << ep6jA << "AR9525u9JV" << z_Bz239zm((short)532051170, 1067561566, pCc17G, aAU_) << std::endl;
 
 {
 int i = 7;

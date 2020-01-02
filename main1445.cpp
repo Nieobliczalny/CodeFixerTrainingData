@@ -12,7 +12,7 @@ using namespace std;
 
 int main(void)
 {
-	unsigned short	CD441GMN4	=	-925390354,	NqYX_xn4	=	-1372625551,	HuZb8Q2_	=	136659736;
+	unsigned short	CD441GMN4	=	-925390354,	NqYX_xn4	=	(unsigned short)-1372625551,	HuZb8Q2_	=	136659736;
   unsigned int  niuwJbW  =  0;
 
 HuZb8Q2_ = (unsigned short)(Jig7);

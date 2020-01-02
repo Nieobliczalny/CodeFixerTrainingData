@@ -39,7 +39,7 @@ int main(int argc, char** argv)
   unsigned long long  Ryz3  =  340550624;
     long long    TXCM1Ve8    =    0;
     unsigned int    X0SKz_    =    0;
-    unsigned char    CO8XF5    =    379529548;
+    unsigned char    CO8XF5    =    (unsigned char)379529548;
  double tLPKm1ws5 = 1480115832;
     unsigned int    fuUs56M7v    =    0;
 
@@ -295,7 +295,7 @@ Ryz3 = X0SKz_ >> 99071609;
 }
 std::cout << ywlYAI() << fuUs56M7v << qR_tfZR58Z << std::endl;
 
-Ryz3 = P_WX2NfL(274873033, 627743300, TXCM1Ve8);
+Ryz3 = P_WX2NfL(274873033, (short)627743300, TXCM1Ve8);
 
 {
 int i = 3;
@@ -376,7 +376,7 @@ T20c = xJKu(943345978, 1479302673, 1259217258);
 break;
 case 'c':
 case 'C':
-T20c = P_WX2NfL(T20c, 2069987965, Wd_FIUV6);
+T20c = P_WX2NfL(T20c, (short)2069987965, Wd_FIUV6);
 break;
 case 'd':
 case 'D':
@@ -473,7 +473,7 @@ break;
 }
 while (i >= 0);
 }
-T20c = P_WX2NfL(-1158125291, -1136843761, -897564935);
+T20c = P_WX2NfL((short)-1158125291, -1136843761, -897564935);
 if (TXCM1Ve8 != -1251433019)
 {
 Wd_FIUV6 = xJKu(1282196656, -576432343, TXCM1Ve8);

@@ -56,7 +56,7 @@ std::cout << VS6Wqr7lJw << tEoG8 << "Uc25Kj4g" << j4I7E1G8 << ldefcA6() << std::
 int i = 7;
 while (i >= 0)
 {
-std::cout << BGubc4R << q7VC4A1(auhhg, -1885926261, -1742811793, -1107191862, LgYt1t60) << std::endl;
+std::cout << BGubc4R << q7VC4A1(auhhg, -1885926261, (char)-1742811793, -1107191862, LgYt1t60) << std::endl;
 i--;
 }
 }
@@ -66,7 +66,7 @@ case 0:
 Ub0Z_0 = FzLeij492(Ub0Z_0, 1563200293);
 break;
 case 1:
-Si3ty = Rb095y(776370448, -2109267080, UnJEa);
+Si3ty = Rb095y(776370448, (short)-2109267080, UnJEa);
 break;
 case 2:
 Z7_VPM = ldefcA6();
@@ -99,7 +99,7 @@ case 4:
 T1jfWVJ_6F = ldefcA6();
 break;
 case 5:
-Wv8FB = q7VC4A1(K1b_6p, 1471715447, 826465499, UnJEa, -1093416447);
+Wv8FB = q7VC4A1(K1b_6p, 1471715447, (char)826465499, UnJEa, -1093416447);
 break;
 case 6:
 auhhg = FzLeij492(auhhg, -93091056);
@@ -135,7 +135,7 @@ pjQVT--;
 }
 else
 {
-std::cout << q7VC4A1(Mxk4axp8_m, Fj2H, -586625665, -498617742, Si3ty) << R98RsMvb << s4TV1W5 << Fj2H << std::endl;
+std::cout << q7VC4A1(Mxk4axp8_m, Fj2H, -586625665, (char)-498617742, Si3ty) << R98RsMvb << s4TV1W5 << Fj2H << std::endl;
 }
 }
 i1b5L_53 *= QDwy;
@@ -159,7 +159,7 @@ else
 {
 if ((Si3ty == -1395885939) && (q_2DpH < 692221599))
 {
-B1_9h = q7VC4A1(a_k6fb, 1488769414, uh_e6t669q, toVH1Ri, 1369046465);
+B1_9h = q7VC4A1(a_k6fb, (short)1488769414, uh_e6t669q, toVH1Ri, 1369046465);
 }
 }
 }
@@ -241,7 +241,7 @@ case 'a':
 oSto_SE /= 1875985695;
 break;
 case 'b':
-B1_9h = q7VC4A1(tEoG8, -1076222812, kh0xd1I2a0, -1870200830, 1271651130);
+B1_9h = q7VC4A1(tEoG8, -1076222812, kh0xd1I2a0, (char)-1870200830, 1271651130);
 break;
 case 'c':
 Mxk4axp8_m &= 64304200;
@@ -259,7 +259,7 @@ case 'g':
 ippzj_jp_ = (tEoG8 != -1203534175) ? 1542625998 : bNCru1i3;
 break;
 case 'h':
-B1_9h = q7VC4A1(-1215879834, i1b5L_53, -1471377928, -238628269, 964675439);
+B1_9h = q7VC4A1(-1215879834, i1b5L_53, -1471377928, (char)-238628269, 964675439);
 break;
 }
 }
@@ -347,7 +347,7 @@ case 0:
 mwVf51DF = j4I7E1G8 / 2083959146;
 break;
 case 1:
-B1_9h = q7VC4A1(-177038538, -1097724272, -2069944795, 262652137, -2084722777);
+B1_9h = q7VC4A1(-177038538, -1097724272, (char)-2069944795, 262652137, -2084722777);
 break;
 case 2:
 Wv8FB = q7VC4A1(76434401, -609629923, 2001349477, i1b5L_53, -181585582);
@@ -404,7 +404,7 @@ short int    ldefcA6()
 
 char    FzLeij492(unsigned int    A1C0,long long    od10)
 {
-    return    -670537691;
+    return    (char)-670537691;
 }
 
 unsigned short int q7VC4A1(unsigned long PmWyWgmNM,short A3xP69l,char gL_QvLY,char Vz4bCRz,long long w45N8)

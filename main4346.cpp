@@ -92,7 +92,7 @@ if ((I4_e616mh <= m71_Pbw) || (V8_9U >= ilQX8))
 switch (AQNysXB6c)
 {
 case 'a':
-n977oHe = (a6T8N7tk5T > vg_Niob) ? CgSzLJf(-1843073425, 1877367357, -1603685061, -354164830) : CgSzLJf(-1616029148, -1492972336, GSu8i_, -917316102);
+n977oHe = (a6T8N7tk5T > vg_Niob) ? CgSzLJf(-1843073425, 1877367357, -1603685061, (unsigned short)-354164830) : CgSzLJf(-1616029148, -1492972336, GSu8i_, -917316102);
 break;
 case 'b':
 Rx0bvT5 = SerGkTS(1710507299);
@@ -122,7 +122,7 @@ dcu7vjdJVv = (int)floor(WxtM7y);
 }
 else
 {
-AQNysXB6c = LO1t37PVp(1439031342, 1338869496, -585654155, 1326650838, ucWOFh4pJV);
+AQNysXB6c = LO1t37PVp(1439031342, (char)1338869496, -585654155, 1326650838, ucWOFh4pJV);
 }
 }
 }
@@ -161,7 +161,7 @@ do
 switch (AQNysXB6c)
 {
 case 0:
-WJYc3_I1p = (Cuvlp4G4Ik == E6sxQKNMLH) ? SerGkTS(597536844) : LO1t37PVp(1476979800, 1965326669, 1236907533, i_4DnN4, wSz6Y6);
+WJYc3_I1p = (Cuvlp4G4Ik == E6sxQKNMLH) ? SerGkTS(597536844) : LO1t37PVp((short)1476979800, 1965326669, 1236907533, i_4DnN4, wSz6Y6);
 break;
 case 1:
 yf38 = CgSzLJf(1489689662, joWVts1UAW, 1565485522, -1317114246);
@@ -259,7 +259,7 @@ case 4:
 O98GOq8x6m = (int)ceil(wSz6Y6);
 break;
 case 5:
-uZ70xz8H = LO1t37PVp(791158102, D7hp, erQjtI8_jH, -781959355, -840201037);
+uZ70xz8H = LO1t37PVp((short)791158102, D7hp, erQjtI8_jH, -781959355, -840201037);
 break;
 }
 }
@@ -275,7 +275,7 @@ KW7Q_Xzu6 = CgSzLJf(KW7Q_Xzu6, CUxY6psj, xFZuT3b, 284120142);
 break;
 case 'c':
 case 'C':
-wHjc = SerGkTS(953233209);
+wHjc = SerGkTS((char)953233209);
 break;
 case 'd':
 case 'D':
@@ -287,7 +287,7 @@ M4KZfo = (int)abs(X4526);
 break;
 case 'f':
 case 'F':
-hB_6W = (X4526) ? vqINd3p961 : CgSzLJf(-1933246734, 1539244894, -1865840486, 1634915222);
+hB_6W = (X4526) ? vqINd3p961 : CgSzLJf(-1933246734, 1539244894, -1865840486, (unsigned short)1634915222);
 break;
 case 'g':
 case 'G':
@@ -364,7 +364,7 @@ case 2:
 bVqGVt -= 1754189770;
 break;
 case 3:
-rK0y_W2P_0 = CgSzLJf(-458617329, 2116314686, -1737042850, -637508677);
+rK0y_W2P_0 = CgSzLJf(-458617329, 2116314686, -1737042850, (unsigned short)-637508677);
 break;
 case 4:
 KIM0iN_Q /= 279801262;
@@ -506,7 +506,7 @@ case 'c':
 hAqs = SerGkTS(136463959);
 break;
 case 'd':
-rb7w562A = SerGkTS(94889900);
+rb7w562A = SerGkTS((char)94889900);
 break;
 case 'e':
 coOeGPZ = (int)floor(B65g8eu08);

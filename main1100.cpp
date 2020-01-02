@@ -32,7 +32,7 @@ int main(void)
     long    k4m9C455r;
     k4m9C455r    =    1010499959;
   unsigned short  VPGY6BJ3gp;
-  VPGY6BJ3gp  =  -432263914;
+  VPGY6BJ3gp  =  (unsigned short)-432263914;
  double i2XTLp;
  i2XTLp = -1866823259;
  float wyWAwTH;
@@ -88,7 +88,7 @@ int main(void)
 	unsigned short int	rB7414ZEi;
 	rB7414ZEi	=	1455921795;
   unsigned char  ctD4x;
-  ctD4x  =  1180782320;
+  ctD4x  =  (unsigned char)1180782320;
     long    Iq29y2_;
     Iq29y2_    =    -1620711351;
 	unsigned long	P5Z48y4D;
@@ -104,7 +104,7 @@ int main(void)
     long    nkS1B1;
     nkS1B1    =    -2144974286;
   unsigned short  UioB06;
-  UioB06  =  -895016353;
+  UioB06  =  (unsigned short)-895016353;
  float qEo24k_JVq;
  qEo24k_JVq = 1364141776;
   char  VZy_qi5d;
@@ -114,7 +114,7 @@ int main(void)
 	short	T69kQ2Z_;
 	T69kQ2Z_	=	-1497212078;
   short  ldQs6;
-  ldQs6  =  -391475012;
+  ldQs6  =  (short)-391475012;
   unsigned long long  QtQnB8x;
   QtQnB8x  =  -1657097540;
  float Z0c_FcA7ep;
@@ -130,7 +130,7 @@ int main(void)
     unsigned short    vZYT4O9n;
     vZYT4O9n    =    -1702645670;
 	unsigned short int	uB95s_62;
-	uB95s_62	=	-601685498;
+	uB95s_62	=	(unsigned short)-601685498;
   unsigned char  IP4_;
   IP4_  =  -797362491;
   unsigned long long  hxU9L;
@@ -148,7 +148,7 @@ int main(void)
  unsigned long Mdy4A;
  Mdy4A = 1266425917;
   unsigned char  WD3OkEn;
-  WD3OkEn  =  1436934298;
+  WD3OkEn  =  (unsigned char)1436934298;
  long iLU5_B588;
  iLU5_B588 = 920048657;
 	unsigned short int	EV8ua;
@@ -192,7 +192,7 @@ int main(void)
     unsigned long    ZRE2h;
     ZRE2h    =    0;
  unsigned char zIAA_;
- zIAA_ = -288944440;
+ zIAA_ = (unsigned char)-288944440;
 
 for (int i = 2; i >= 0; --i)
 {
@@ -220,7 +220,7 @@ case 0:
 KytiLgh = (int)floor(wyWAwTH);
 break;
 case 1:
-ZRE2h = f0Zut(169504257, 834742539);
+ZRE2h = f0Zut(169504257, (unsigned char)834742539);
 break;
 case 2:
 ZRE2h = f0Zut(zIAA_, -1399881784);
@@ -238,7 +238,7 @@ case 6:
 ZRE2h = f0Zut(472742746, nkS1B1);
 break;
 case 7:
-pY_37 = f0Zut(1532099541, UioB06);
+pY_37 = f0Zut((unsigned short)1532099541, UioB06);
 break;
 case 8:
 t1uD = f0Zut(uMUciq3d, 1076757423);
@@ -267,7 +267,7 @@ HnXTg8aEV = (long double)(cbXF);
 
 if (vhUx == kz35s)
 {
-r_3g7t9PC = f0Zut(2038082210, 2072062000);
+r_3g7t9PC = f0Zut(2038082210, (unsigned char)2072062000);
 }
 else
 {
@@ -307,7 +307,7 @@ QtQnB8x *= 796581934;
 }
 else if (FD1Bk != HC0u_0A58A)
 {
-pY_37 = f0Zut(-1923406252, 81878202);
+pY_37 = f0Zut(-1923406252, (unsigned char)81878202);
 }
 else
 {
@@ -326,7 +326,7 @@ else if ((lfk2b4y0Is <= uB95s_62) && (P5Z48y4D == -488563467))
 {
 for (int j = 5; j >= 0; j--)
 {
-std::cout << f0Zut(uMUciq3d, -784370698) << f0Zut(-660034726, -2068378781) << "R3d9P" << v_86Z << std::endl;
+std::cout << f0Zut(uMUciq3d, -784370698) << f0Zut((unsigned short)-660034726, -2068378781) << "R3d9P" << v_86Z << std::endl;
 }
 }
 else if ((e3_5_ == 988597079) && (uB95s_62 & -1310691434))
@@ -342,7 +342,7 @@ case 1:
 KAJ0zJ111 = ctD4x * FD1Bk;
 break;
 case 2:
-r_3g7t9PC = f0Zut(1958870881, 1405059570);
+r_3g7t9PC = f0Zut(1958870881, (unsigned char)1405059570);
 break;
 case 3:
 r_3g7t9PC = f0Zut(lU6gRrUE, T_60d6d6);
@@ -368,7 +368,7 @@ int k = 10;
 while (k >= 0)
 {
 k--;
-ZRE2h = f0Zut(-1746229124, -53657221);
+ZRE2h = f0Zut(-1746229124, (unsigned char)-53657221);
 }
 }
 }
@@ -399,7 +399,7 @@ c8Eu8Z8 = (int)floor(i4O5X1_);
 }
 else if (i2XTLp < v_86Z)
 {
-r_3g7t9PC = f0Zut(-1967721327, 832804389);
+r_3g7t9PC = f0Zut(-1967721327, (unsigned char)832804389);
 }
 else if (KAJ0zJ111 == iLU5_B588)
 {
@@ -438,7 +438,7 @@ if (W66h8 & 1428380059)
 {
 lV0_37 = mdc1_0_o >> DpX17ofln1;
 }
-SmdNObA9 = 162573858 / f0Zut(1994620231, vZYT4O9n);
+SmdNObA9 = 162573858 / f0Zut((unsigned short)1994620231, vZYT4O9n);
 
 {
 int i = 1;
@@ -453,7 +453,7 @@ VZy_qi5d &= uMUciq3d;
 break;
 case 'b':
 case 'B':
-pY_37 = f0Zut(368866725, -1955002013);
+pY_37 = f0Zut(368866725, (unsigned char)-1955002013);
 break;
 case 'c':
 case 'C':
@@ -496,7 +496,7 @@ case 'a':
 Iq29y2_ = (int)abs(h4v3);
 break;
 case 'b':
-pY_37 = f0Zut(973582858, -403242439);
+pY_37 = f0Zut(973582858, (unsigned char)-403242439);
 break;
 case 'c':
 qybb6Vh_E1 = (int)ceil(HnXTg8aEV);

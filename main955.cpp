@@ -67,7 +67,7 @@ int main(int argc, char** argv) {
  kU2Q83e = 1765006760;
  x_Ri_X2 = 729760863;
 
-igOSxG = MG1r_y9y / vZ11_uOe(1609030549, 355632899);
+igOSxG = MG1r_y9y / vZ11_uOe(1609030549, (char)355632899);
 
 std::cout << "NH2b7" << "pI1Q1rxz" << P22rJ26jJx(XEXY4aK3dl) << "GhnxWUu2t0" << C67jh8P << std::endl;
 std::cout << P22rJ26jJx(XEXY4aK3dl) << "U4Tm" << std::endl;
@@ -113,7 +113,7 @@ case 4:
 PZsv = vZ11_uOe(-361873802, Zdqz);
 break;
 case 5:
-b8cYK = vZ11_uOe(k5qm, 1676949945);
+b8cYK = vZ11_uOe(k5qm, (char)1676949945);
 break;
 case 6:
 kU2Q83e = P22rJ26jJx(kU2Q83e);
@@ -143,7 +143,7 @@ int k = 1;
 do
 {
 k--;
-hXG18 = vZ11_uOe(1753340937, 1088642111);
+hXG18 = vZ11_uOe(1753340937, (char)1088642111);
 }
 while (k >= 0);
 }
@@ -245,7 +245,7 @@ PZsv = vZ11_uOe(y2uT2, 1294639249);
 break;
 case 'c':
 case 'C':
-b8cYK = vZ11_uOe(-1681313687, -1952008892);
+b8cYK = vZ11_uOe((unsigned char)-1681313687, -1952008892);
 break;
 case 'd':
 case 'D':
@@ -257,7 +257,7 @@ hXG18 = vZ11_uOe(uq32N79, 1341348268);
 break;
 case 'f':
 case 'F':
-XEXY4aK3dl = vZ11_uOe(-1949550057, JJ_EyiyMaK) * 1037297036;
+XEXY4aK3dl = vZ11_uOe((unsigned char)-1949550057, JJ_EyiyMaK) * 1037297036;
 break;
 case 'g':
 case 'G':
@@ -354,7 +354,7 @@ QX_b_ *= y2uT2;
 }
 else if ((ip92S5tN6 & 1562844831) || ((a3s142 != 1525797412) && (zvb434jPl == -1510377265)))
 {
-b8cYK = vZ11_uOe(1255604433, -704833514);
+b8cYK = vZ11_uOe(1255604433, (char)-704833514);
 }
 else if (R7Mo1Sn <= z21_5emq)
 {

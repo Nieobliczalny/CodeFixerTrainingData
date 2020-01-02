@@ -28,7 +28,7 @@ int main(void)
  char jeIHDLfr = 0;
 	long double	X2rCW	=	-161202441;
  unsigned long long aV5Yq = 1929794344;
-    unsigned short int    Kcq8    =    -630610708;
+    unsigned short int    Kcq8    =    (unsigned short)-630610708;
   long  nAWonf49T  =  -820823940;
  int nIj5 = -2014642472;
   unsigned short  h75n  =  -1483796664;
@@ -92,7 +92,7 @@ else
 {
 Vdn2I2jSiS = (unsigned short int)(nAWonf49T * Vdn2I2jSiS);
 }
-EQ3p9IvV_ = KGZVK(-606957720, jeIHDLfr, 831857727, -649567428);
+EQ3p9IvV_ = KGZVK((char)-606957720, jeIHDLfr, 831857727, -649567428);
 
 {
 int i = 1;
@@ -154,7 +154,7 @@ case 'a':
 X2rCW = fWN0u6ka60(Vdn2I2jSiS, X2rCW, h75n, jeIHDLfr);
 break;
 case 'b':
-w21CMb = KGZVK(1381920586, 532942842, 2026886822, -237296076);
+w21CMb = KGZVK(1381920586, (unsigned short)532942842, 2026886822, -237296076);
 break;
 case 'c':
 jeIHDLfr = Ui6wcDkJ_(kRqg0, X2rCW);
@@ -270,7 +270,7 @@ case 'a':
 w21CMb = fWN0u6ka60(w21CMb, 351122126, Y3ov_82CG, A_As55a6wH);
 break;
 case 'b':
-EQ3p9IvV_ = KGZVK(-1735593097, -1484271662, Vdn2I2jSiS, nIj5);
+EQ3p9IvV_ = KGZVK(-1735593097, (unsigned short)-1484271662, Vdn2I2jSiS, nIj5);
 break;
 case 'c':
 kRqg0 >>= I46rvB6qw;
@@ -300,7 +300,7 @@ case 1:
 nIj5 = (int)abs(kRqg0);
 break;
 case 2:
-I46rvB6qw = KGZVK(-1474601513, h75n, -1018306769, 1559652024);
+I46rvB6qw = KGZVK(-1474601513, h75n, (short)-1018306769, 1559652024);
 break;
 case 3:
 X2rCW = fWN0u6ka60(X2rCW, kRqg0, 151347934, aV5Yq);
@@ -363,7 +363,7 @@ nAWonf49T = (int)abs(w21CMb);
 break;
 case 'd':
 case 'D':
-nIj5 = KGZVK(1019127749, jeIHDLfr, 1060932924, Vdn2I2jSiS);
+nIj5 = KGZVK(1019127749, jeIHDLfr, (short)1060932924, Vdn2I2jSiS);
 break;
 case 'e':
 case 'E':
@@ -419,7 +419,7 @@ case 'b':
 w21CMb = Kcq8 + 467449330;
 break;
 default:
-nAWonf49T = KGZVK(nAWonf49T, -1578282245, -865632562, aV5Yq);
+nAWonf49T = KGZVK(nAWonf49T, -1578282245, (short)-865632562, aV5Yq);
 break;
 }
 }
@@ -476,7 +476,7 @@ case 9:
 aV5Yq *= Vdn2I2jSiS;
 break;
 default:
-EQ3p9IvV_ = KGZVK(-53361464, -1206800756, aV5Yq, A_As55a6wH);
+EQ3p9IvV_ = KGZVK(-53361464, (unsigned short)-1206800756, aV5Yq, A_As55a6wH);
 break;
 }
 
@@ -651,6 +651,6 @@ short  P93R9I(long long  F37Y4rVlCK,unsigned int  hxxj)  {
 
 char    fWN0u6ka60(unsigned short    Hpvv,int    up_Ae,long    nK4Ex_I0D,unsigned int    j_c_wJ6_F4)
 {
-    return    -255343890;
+    return    (char)-255343890;
 }
 

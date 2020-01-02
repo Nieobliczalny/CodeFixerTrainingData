@@ -28,7 +28,7 @@ long long    jRxA48hdvN(int    yh2189b0Ru,unsigned char    jegD4,unsigned short 
 
 int main(int argc, char** argv) {
 	short int	y3835LwJj;
-	y3835LwJj	=	-765018139;
+	y3835LwJj	=	(short)-765018139;
 	unsigned short	NxOH;
 	NxOH	=	-282386485;
  unsigned long long N05C;
@@ -38,7 +38,7 @@ int main(int argc, char** argv) {
  short int FyJaOk;
  FyJaOk = 0;
     unsigned short int    Dq06c7tsj;
-    Dq06c7tsj    =    -1668355768;
+    Dq06c7tsj    =    (unsigned short)-1668355768;
   unsigned long long  mesc9;
   mesc9  =  0;
     long long    Y4eRn;
@@ -52,7 +52,7 @@ int main(int argc, char** argv) {
 	double	D8xk810f;
 	D8xk810f	=	2072868990;
  unsigned short int jt9Yi;
- jt9Yi = 144985911;
+ jt9Yi = (unsigned short)144985911;
 	float	rU016;
 	rU016	=	-1549928794;
     unsigned int    w7i2Lol9e5;
@@ -64,7 +64,7 @@ int main(int argc, char** argv) {
     unsigned int    W0Ra;
     W0Ra    =    -608702536;
     unsigned short    I_kvMZU3Id;
-    I_kvMZU3Id    =    -1029836487;
+    I_kvMZU3Id    =    (unsigned short)-1029836487;
  unsigned short int E_wQFAm3W;
  E_wQFAm3W = -1293264478;
  long k3187He;
@@ -74,7 +74,7 @@ int main(int argc, char** argv) {
   unsigned char  E6zTmODR;
   E6zTmODR  =  -967904108;
 	unsigned short	JLUCX;
-	JLUCX	=	-649460523;
+	JLUCX	=	(unsigned short)-649460523;
   unsigned short  Bm5II44;
   Bm5II44  =  806325613;
 	double	nq49ma;
@@ -84,7 +84,7 @@ int main(int argc, char** argv) {
 	char	zdPNCMY;
 	zdPNCMY	=	1761657367;
     unsigned short int    D7G308R1;
-    D7G308R1    =    -1293444830;
+    D7G308R1    =    (unsigned short)-1293444830;
 	long	LAXx;
 	LAXx	=	1833214143;
     double    APac;
@@ -126,7 +126,7 @@ Wr_tIy4 = vN8j(24224077, nq49ma, 1386975934, -1201150295, LAXx);
 }
 u_0ZfbP0 = (int)floor(BC973);
 Y4eRn = APac / mesc9;
-E_wQFAm3W = G6nq(1754035705, 698680691);
+E_wQFAm3W = G6nq(1754035705, (unsigned short)698680691);
 
 {
 int i = 9;
@@ -177,7 +177,7 @@ case 'f':
 k3187He = (int)abs(X2o4);
 break;
 case 'g':
-i6a4_HXM5P = kng1420_f(-1880865300, 150912328);
+i6a4_HXM5P = kng1420_f(-1880865300, (unsigned short)150912328);
 break;
 case 'h':
 i6a4_HXM5P = kng1420_f(i6a4_HXM5P, o_CEY17L4);

@@ -10,6 +10,7 @@ using namespace std;
 
 int main()
 {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
 	unsigned char	mP_hr	=	305746809,	y_8232	=	465779984,	Jfa0BDr	=	1914938698,	N20ogv2KNK	=	-1584913601,	IAP7hUpXTO	=	79902089,	uZilTY_XGM	=	-703337429,	QArV0xuTuu	=	-1630386198,	gd0D7817EW	=	64398516,	AdJNZh0TAi	=	-1098715596,	DDd6	=	952631746,	N_TW4v	=	1636769537,	nyp_2o6qI	=	-1663703749,	Y3t8_qL0OK	=	804948468,	aGW7XSu0WN	=	183039339,	e6A9kwpn6	=	971495356,	H03aXg	=	1223309206,	kFb7bf	=	1581572611,	x35X	=	304002291,	z23hz6t	=	-1123816045,	mFRk1v	=	456926188,	Fngk0GS0	=	840142979,	Oon5w_	=	379474609,	B__h0_6g	=	1669753023,	WLN9	=	2035917578;
 	int	OapN0o22Jf	=	0,	jCbGX	=	0,	Tu0s	=	0,	PAV65YH	=	0;
 
@@ -186,7 +187,7 @@ Fngk0GS0 = (unsigned char)(H03aXg);
 }
 else if (Tu0s == IAP7hUpXTO)
 {
-DDd6 = (N_TW4v < AdJNZh0TAi) ? -1324401456 : -609417115;
+DDd6 = (N_TW4v < AdJNZh0TAi) ? -1324401456 : (unsigned char)-609417115;
 }
 else
 {
@@ -453,7 +454,7 @@ case 'a':
 DDd6 &= Jfa0BDr;
 break;
 case 'b':
-Fngk0GS0 = (N_TW4v >= 1360550191) ? 573065624 : 681959371;
+Fngk0GS0 = (N_TW4v >= 1360550191) ? 573065624 : (unsigned char)681959371;
 break;
 case 'c':
 Oon5w_ >>= Fngk0GS0;
@@ -509,7 +510,7 @@ break;
 
 B__h0_6g = (unsigned char)(mFRk1v);
 
-H03aXg = (WLN9 & mFRk1v) ? -1508781239 : -940327150;
+H03aXg = (WLN9 & mFRk1v) ? -1508781239 : (unsigned char)-940327150;
 
 N_TW4v <<= Fngk0GS0;
 

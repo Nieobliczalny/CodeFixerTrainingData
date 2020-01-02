@@ -132,7 +132,7 @@ break;
 
 UDfp5 = (short)(zX14n);
 
-std::cout << "a4zXRW0bpY" << "H51_c" << MkdOh7(WF2Wwl2fR, -46084404, IcBu, 974372573) << std::endl;
+std::cout << "a4zXRW0bpY" << "H51_c" << MkdOh7(WF2Wwl2fR, (unsigned char)-46084404, IcBu, 974372573) << std::endl;
 BcRBk6tG_u = (int)abs(bLtM);
 if (kK7g1_vZ == -1224654854)
 {
@@ -207,7 +207,7 @@ else
 std::cout << "H9jL9u7eZ" << std::endl;
 }
 
-zFZb = MkdOh7(zFZb, 1044622659, -292597537, Dn9Ao7);
+zFZb = MkdOh7(zFZb, (unsigned char)1044622659, -292597537, Dn9Ao7);
 
 a_491 = (short)(vWqeQ_3);
 std::cout << WrKtMER34() << iY9YKmIOp << fy1bi << Cv3xC << std::endl;
@@ -258,7 +258,7 @@ if (gtS4fDUx == 0)
 	X__Sh = NQhH1(-1594368776) / gtS4fDUx;
 }
 
-std::cout << NQhH1(906717118) << A1QVwPtF0 << std::endl;
+std::cout << NQhH1((unsigned char)906717118) << A1QVwPtF0 << std::endl;
 if (BcRBk6tG_u >= 428005999)
 {
 if (bz1T1 != -189313635)
@@ -391,7 +391,7 @@ else if (zX14n >= -305904783)
 int k = 0;
 do
 {
-PV0Ig0rZ8 = MkdOh7(PV0Ig0rZ8, 1720757262, 942046695, gSfNi1H3St);
+PV0Ig0rZ8 = MkdOh7(PV0Ig0rZ8, 1720757262, (unsigned short)942046695, gSfNi1H3St);
 ++k;
 }
 while (k < 9);
@@ -475,7 +475,7 @@ while (k < 1);
 }
 else if (X5ir < NWw51rx28)
 {
-IcBu = MkdOh7(621566047, -596158680, -1634985325, 1606691826) % 1539913794;
+IcBu = MkdOh7(621566047, (unsigned char)-596158680, -1634985325, 1606691826) % 1539913794;
 }
 else if (gSfNi1H3St > a_491)
 {

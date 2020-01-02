@@ -193,7 +193,7 @@ case 4:
 kPbvW2 = w6N6_B(-1664081616, -1490020355, n2L8c7qI, s87WPIoS4N, WEeg_);
 break;
 case 5:
-WEeg_ = bC_umz3O(-956181417, -1261852907, n2L8c7qI, -1593114315, -761604082);
+WEeg_ = bC_umz3O(-956181417, -1261852907, n2L8c7qI, -1593114315, (unsigned short)-761604082);
 break;
 case 6:
 mMHK_2KC = w6N6_B(mMHK_2KC, CR0bTB9, uq1c_xtJ, o6M29n, A5H5y);
@@ -419,7 +419,7 @@ int k = 2;
 do
 {
 --k;
-hpH9G_D9Ub = bC_umz3O(1082261291, -1678753166, -1908602779, -55535340, 1547557582);
+hpH9G_D9Ub = bC_umz3O(1082261291, -1678753166, -1908602779, -55535340, (unsigned short)1547557582);
 }
 while (k >= 0);
 }
@@ -435,7 +435,7 @@ try
 {
 if (bNrxIYXssD >= y9clAVrz)
 {
-WH1Uo5XV = bC_umz3O(2007717417, 1981750438, -923795449, 214566120, 11268911);
+WH1Uo5XV = bC_umz3O(2007717417, 1981750438, -923795449, 214566120, (unsigned short)11268911);
 }
 else if (K7QOdxqQ4s < l5h3M9W)
 {

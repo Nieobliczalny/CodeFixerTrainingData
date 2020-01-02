@@ -51,7 +51,7 @@ switch (DRzf)
 {
 case 'a':
 case 'A':
-lV03I7 = G6U7nL2(lV03I7, 807081088, 661512900);
+lV03I7 = G6U7nL2(lV03I7, 807081088, (short)661512900);
 break;
 case 'b':
 case 'B':
@@ -104,7 +104,7 @@ else
 {
 for (int k = 0; k < 10; k++)
 {
-ZM95dXcL = G6U7nL2(ZM95dXcL, -203788260, wG3qk5u1);
+ZM95dXcL = G6U7nL2(ZM95dXcL, (short)-203788260, wG3qk5u1);
 }
 }
 }
@@ -132,7 +132,7 @@ case 0:
 SFjcYEq /= qf4msN6;
 break;
 case 1:
-TP3MO2z = Xu68(52693101, -1481138224, -510709867, 936608689, -1283427629);
+TP3MO2z = Xu68(52693101, -1481138224, (short)-510709867, 936608689, -1283427629);
 break;
 case 2:
 kSnhrALImu &= WH1z2;
@@ -153,7 +153,7 @@ case 7:
 wG3qk5u1 = RLz7Pr();
 break;
 case 8:
-VQVhZ0mCP = Xu68(VQVhZ0mCP, -1854791708, 500871042, -1010286449, -492992140);
+VQVhZ0mCP = Xu68(VQVhZ0mCP, -1854791708, (short)500871042, -1010286449, -492992140);
 break;
 default:
 sKtOJOO4 = rIwVxcJ238 << wC8hkhGOP0;
@@ -188,7 +188,7 @@ kSnhrALImu = C4766j(846398150);
 }
 else
 {
-sKtOJOO4 = Xu68(sKtOJOO4, 223248192, 1844603449, -1167607245, DRzf);
+sKtOJOO4 = Xu68(sKtOJOO4, (short)223248192, 1844603449, -1167607245, DRzf);
 }
 j--;
 }
@@ -338,7 +338,7 @@ break;
 }
 else
 {
-std::cout << "xk18HXZ" << IPcJH22 << "PyPMh5IU81" << Xu68(yiAZ_2o, 1409127336, 1610260071, t0cXnb, evqc27T_) << std::endl;
+std::cout << "xk18HXZ" << IPcJH22 << "PyPMh5IU81" << Xu68(yiAZ_2o, 1409127336, (short)1610260071, t0cXnb, evqc27T_) << std::endl;
 }
 std::cout << C4766j(yiAZ_2o) << Xu68(yiAZ_2o, 160720095, -1834171772, -1098476311, 1118254467) << "B9Nr" << Xu68(yiAZ_2o, -1153649965, -1386978633, -1618063849, -1645864529) << std::endl;
 
@@ -383,7 +383,7 @@ ZM95dXcL = Xu68(ZM95dXcL, fXF2g, 1242559602, -2123099838, 261388546);
 }
 else
 {
-Vx0z6T_ = Xu68(ZM95dXcL, 1086766185, uy15, -1530597642, wG3qk5u1) * Td_127b;
+Vx0z6T_ = Xu68(ZM95dXcL, (short)1086766185, uy15, -1530597642, wG3qk5u1) * Td_127b;
 }
 
 {
@@ -657,7 +657,7 @@ F2o5wV = (int)abs(DRzf);
 break;
 case 'e':
 case 'E':
-uy15 = Xu68(-461794237, 1242690810, -328217395, Td_127b, -910038239);
+uy15 = Xu68(-461794237, (short)1242690810, -328217395, Td_127b, -910038239);
 break;
 case 'f':
 case 'F':

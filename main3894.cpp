@@ -23,7 +23,7 @@ long long	cyX6_6eX()	{
 }
 
 int main(int argc, char** argv) {
-    unsigned char    JigjM2d    =    -453770566;
+    unsigned char    JigjM2d    =    (unsigned char)-453770566;
  unsigned long WG9_3JJ = -1544011059;
  unsigned long long ugWVA2 = -1359754200;
   double  p4F4eUn  =  -872815234;
@@ -35,7 +35,7 @@ int main(int argc, char** argv) {
  unsigned short int m9oo2 = 1209271638;
   int  q1E48a1  =  1612419644;
 	float	w842	=	-228064988;
-  short  fjy4d9A7v  =  1835325153;
+  short  fjy4d9A7v  =  (short)1835325153;
   unsigned long  nB16wDsz  =  1552419790;
     char    Fwp_1V_5    =    95727703;
   short  t77q  =  733356920;
@@ -45,7 +45,7 @@ int main(int argc, char** argv) {
   unsigned short  ZWH_  =  -1029252034;
   short  X_6sI5c3o_  =  83958632;
   unsigned long long  P_dqGsO7n  =  471301067;
-	short int	E1l9lXa	=	-1332764302;
+	short int	E1l9lXa	=	(short)-1332764302;
   long long  WDLPY3sy  =  -337486896;
     unsigned char    PKHR7PVz    =    0;
   int  x0NrxeS  =  -229661581;
@@ -55,7 +55,7 @@ int main(int argc, char** argv) {
 	short	Art3	=	-917058947;
  unsigned long n_ovarW2f = 1272408832;
   unsigned long  rX4FKJ18q  =  0;
-	unsigned char	uHQO	=	-1935499170;
+	unsigned char	uHQO	=	(unsigned char)-1935499170;
 	char	U6L_e7iT	=	-733688635;
     float    cDr8_1    =    820276764;
 	short int	HSP3ipJJ	=	-351255103;
@@ -66,7 +66,7 @@ int main(int argc, char** argv) {
 	long double	f9896yl9	=	995275242;
  unsigned long long BJxkJc22P = 0;
 	unsigned long long	Ph26xU2f5W	=	-1526931900;
-  unsigned char  R3bC8E0M  =  1039258411;
+  unsigned char  R3bC8E0M  =  (unsigned char)1039258411;
   unsigned short int  DNhh_R  =  935942484;
   unsigned short int  d8Y_P  =  -1505945110;
     long    ES_97jf06    =    -613389052;
@@ -78,7 +78,7 @@ int main(int argc, char** argv) {
   short int  se_9m164A  =  1510402268;
     unsigned int    vtRWMbWB    =    -781622486;
 	float	dNNb_Mr3sm	=	84839378;
-	unsigned char	RtA6L6B	=	-208424833;
+	unsigned char	RtA6L6B	=	(unsigned char)-208424833;
     unsigned long    d8zC2cL3    =    1458789503;
   unsigned long  CK03zzI  =  0;
     long long    sBn3S7H_    =    -1453205779;

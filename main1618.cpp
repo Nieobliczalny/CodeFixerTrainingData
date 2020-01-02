@@ -9,6 +9,7 @@
 using namespace std;
 
 int main(void) {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
     unsigned char    EaUZ2tH    =    919556621,    B2_5    =    1739795677,    HEZDMxBK    =    841818362,    q1Cq    =    -1932201084,    ft2q    =    1296101769,    BAbO    =    -1221632446,    Yp_8v629N    =    1958393298,    pCGdvc4    =    503321167,    d84KVCh    =    -1838646540,    MiCvGD3    =    -1856613600,    XcX0tb    =    211532035,    gvT74j    =    -1826708276,    pwv52bD    =    1173135267,    OOBy6019    =    -842050826,    wCrG    =    -1523190071,    kp1LwXX    =    243233910,    cXTC    =    327237709,    hRQpILB    =    -1482262526,    HF6L    =    -490749506,    z4ZHZ_E9gU    =    -1505642306,    Ky_d87z5    =    -506260742,    C8DSK9    =    -1435956254,    jkX0K02_    =    -766401966,    H70dqr8CT    =    2080193549,    X1oTT65l7    =    1435908690,    hIawFLU4o2    =    -1648111670,    uYp6259    =    473100778,    y1pi0i4elV    =    991082637,    m9J6oYYX58    =    -178615513,    Fy4u    =    813377708,    y_tb    =    -981302718,    IsxoO0VU    =    -999492456,    tgN0o    =    -904662337,    a44Xr2    =    -1422036026,    z14i    =    -1382679121,    q0g9    =    -865334591,    A_R64XC    =    -608327802,    x9RbwO7b    =    -1025181637,    sA2X    =    1511751168,    CsZ9M5TqOu    =    -1008712232,    Il5P8p0_A    =    -951304097,    A989H    =    1121772798,    g5Fo2l68K    =    -767153554;
 	char	xPz7Gx	=	0,	uf4GG_	=	0,	GgZwU_NR	=	0;
 

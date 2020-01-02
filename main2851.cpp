@@ -42,7 +42,7 @@ int main(int argc, char** argv) {
  unsigned short h_vNzOh;
  h_vNzOh = -1803301064;
     unsigned short    LupsN8dC;
-    LupsN8dC    =    -1819144922;
+    LupsN8dC    =    (unsigned short)-1819144922;
  double CI_m;
  CI_m = 437473236;
 	char	hA08OB22R0;
@@ -64,7 +64,7 @@ int main(int argc, char** argv) {
     unsigned long long    Z4rKI0a0;
     Z4rKI0a0    =    1868897538;
  short c65sPn;
- c65sPn = 1560647589;
+ c65sPn = (short)1560647589;
     long long    f_tZw;
     f_tZw    =    1826733852;
     short int    X7RwF2;
@@ -76,7 +76,7 @@ int main(int argc, char** argv) {
  long iBqq_B;
  iBqq_B = 379198043;
  unsigned char L0J9spVrJq;
- L0J9spVrJq = 1520516469;
+ L0J9spVrJq = (unsigned char)1520516469;
  long double om7ERQ2BwF;
  om7ERQ2BwF = 936244670;
  int FAJZr;

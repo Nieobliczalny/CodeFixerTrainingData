@@ -154,7 +154,7 @@ case 1:
 sCDx = (int)abs(VTUra);
 break;
 case 2:
-b853 = BgEOPir(b853, XktIn0, -1701695280, a6wEf, rNgiMP);
+b853 = BgEOPir(b853, XktIn0, (short)-1701695280, a6wEf, rNgiMP);
 break;
 case 3:
 Zga1Y0Sx5 = BgEOPir(Zga1Y0Sx5, rNgiMP, a6wEf, O6U4HcIP, -1412927155);
@@ -222,7 +222,7 @@ case 1:
 AMx6OAc6 = U8MHnqdK(AMx6OAc6, -2107474365, 208067991, u3mxf4H, 1758845021);
 break;
 case 2:
-CtyeCcekxc = (rNgiMP == n_688) ? Yj0Fg4zU6 : U8MHnqdK(713258833, CtyeCcekxc, 162966530, -1392543705, GLld);
+CtyeCcekxc = (rNgiMP == n_688) ? Yj0Fg4zU6 : U8MHnqdK((unsigned short)713258833, CtyeCcekxc, 162966530, -1392543705, GLld);
 break;
 default:
 XktIn0 = V55iZf8bin & 1933539612;
@@ -278,7 +278,7 @@ case 0:
 fm9h = BgEOPir(-126998516, 1935338472, Q7jYZ, VTUra, 912486270);
 break;
 case 1:
-ztdUx = U8MHnqdK(ztdUx, hFfXwPQq76, -1476425339, hs2Yu, t06B);
+ztdUx = U8MHnqdK(ztdUx, hFfXwPQq76, (short)-1476425339, hs2Yu, t06B);
 break;
 case 2:
 VTUra = sQ2uJV0u4X();
@@ -293,7 +293,7 @@ case 5:
 sCDx = (int)abs(VTUra);
 break;
 case 6:
-hFfXwPQq76 = U8MHnqdK(hFfXwPQq76, f_3m_W, 1642915264, -1850749703, -1404850032);
+hFfXwPQq76 = U8MHnqdK(hFfXwPQq76, f_3m_W, 1642915264, (short)-1850749703, -1404850032);
 break;
 case 7:
 qk8tOJUv0 = U8MHnqdK(qk8tOJUv0, fm9h, 886307336, -1269122035, ztdUx);
@@ -320,7 +320,7 @@ case 'b':
 Yj0Fg4zU6 = PD463PbR + 958275031;
 break;
 case 'c':
-Q7jYZ = U8MHnqdK(Q7jYZ, S2Apys7, 319777405, 1935681790, -93243270);
+Q7jYZ = U8MHnqdK(Q7jYZ, S2Apys7, 319777405, (short)1935681790, -93243270);
 break;
 case 'd':
 mlnMwwd1NN = BgEOPir(VTUra, -522566891, OtMS, uB8mMKD, 665622273);
@@ -464,7 +464,7 @@ case 'b':
 sCDx = sQ2uJV0u4X();
 break;
 case 'c':
-Ya1_ = BgEOPir(1095682674, -1124103438, O6U4HcIP, -384280309, 1862490535);
+Ya1_ = BgEOPir(1095682674, (short)-1124103438, O6U4HcIP, -384280309, 1862490535);
 break;
 case 'd':
 VTUra = (int)abs(sCDx);
@@ -518,7 +518,7 @@ return 0;
 }
 
 unsigned short BgEOPir(unsigned long long Vr_96p,short int fxpwIY55,short GUW0MhxRS,long long kVGfW26L,long RZRhu) {
- return -2092903183;
+ return (unsigned short)-2092903183;
 }
 
 char U8MHnqdK(unsigned short echo_29,long long xf6A9,short U9WHj,short int o1h71O5,long long bG06ZXPy)

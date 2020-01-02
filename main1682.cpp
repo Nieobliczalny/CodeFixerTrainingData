@@ -21,6 +21,7 @@ char	d2_1A8wmE_(unsigned int	T93t8f6zf,unsigned short int	q520wp,short	O9K6v96,u
 
 int main(void) {
     unsigned short int    DS2si1Pl    =    0,    aAyZG3M3V    =    0,    fzn7B4    =    0,    U8__O__1    =    0,    O1nMy3    =    0;
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
  short int pmp7Lt = -1555733141, F_EXy = -1240595015, ea4pb3Z6Dn = -1872477488, w86E8Vr = 1158190080, zRDq6kQ32 = 204482095, R8d4c = -1946738559, FFrw6y = -197527669, e0jMUcEe19 = -129928212, j_L21PN20h = 789911014;
 
 pmp7Lt = (short int)(zRDq6kQ32);
@@ -48,7 +49,7 @@ while (i < 3);
 
 FFrw6y = (short int)(t0_dC1Y + (758027294));
 
-cout << d2_1A8wmE_(pmp7Lt, F_EXy, -859335332, 24006832) << pmp7Lt << endl;
+cout << d2_1A8wmE_(pmp7Lt, F_EXy, -859335332, (unsigned char)24006832) << pmp7Lt << endl;
 {
 int i = 7;
 while (i >= 0)
@@ -73,7 +74,7 @@ case 2:
 FFrw6y = vT7p5txQ_1(55663150);
 break;
 default:
-zRDq6kQ32 = zpVCvYY50A(fzn7B4, 793372707, -1862198415, F_EXy, pmp7Lt);
+zRDq6kQ32 = zpVCvYY50A(fzn7B4, (char)793372707, -1862198415, F_EXy, pmp7Lt);
 break;
 }
 F_EXy = O1nMy3 / DS2si1Pl;
@@ -125,7 +126,7 @@ unsigned short int	vT7p5txQ_1(short	TvmvseD_p)
 
 char zpVCvYY50A(long long uuxgFyO,char H1ECIth,unsigned short FZY325R,int D85Z4M3,long long cXK3)
 {
- return -467077537;
+ return (char)-467077537;
 }
 
 char	d2_1A8wmE_(unsigned int	T93t8f6zf,unsigned short int	q520wp,short	O9K6v96,unsigned char	O1oRv)

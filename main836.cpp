@@ -30,7 +30,7 @@ int main(int argc, char** argv)
 	long double	EEbcwfzPq;
 	EEbcwfzPq	=	1784978943;
  short int xkBLL;
- xkBLL = -1622239168;
+ xkBLL = (short)-1622239168;
  int oT3y3_;
  oT3y3_ = -548224011;
 	unsigned int	O7XkK2d6VY;
@@ -40,7 +40,7 @@ int main(int argc, char** argv)
 	unsigned long	h0sZ4_R;
 	h0sZ4_R	=	-1280698824;
     char    WeaA59HB;
-    WeaA59HB    =    -1885395748;
+    WeaA59HB    =    (char)-1885395748;
     long long    A8ZX8Oj8V6;
     A8ZX8Oj8V6    =    -183443877;
   unsigned int  Ma910;
@@ -50,7 +50,7 @@ int main(int argc, char** argv)
   unsigned short int  gH1p;
   gH1p  =  -529814102;
   unsigned char  XL48e_GVa;
-  XL48e_GVa  =  1047513889;
+  XL48e_GVa  =  (unsigned char)1047513889;
   float  aFtVoow;
   aFtVoow  =  84840645;
   short  YzA7fO2GA;
@@ -66,7 +66,7 @@ int main(int argc, char** argv)
     float    Jk3PD;
     Jk3PD    =    557986051;
   char  YJy0MVX;
-  YJy0MVX  =  1772317272;
+  YJy0MVX  =  (char)1772317272;
 	unsigned short int	x1KzF7hWC0;
 	x1KzF7hWC0	=	-1142145281;
     unsigned long    a7y5N0;
@@ -94,7 +94,7 @@ int main(int argc, char** argv)
   unsigned short int  j6k_;
   j6k_  =  -1086809220;
  char U9CPja_3u;
- U9CPja_3u = 1901322289;
+ U9CPja_3u = (char)1901322289;
   unsigned short  t34o0;
   t34o0  =  602370549;
   unsigned long long  h9VM_7Tn;
@@ -110,7 +110,7 @@ int main(int argc, char** argv)
 	float	z33L;
 	z33L	=	2044920771;
  unsigned char l31f92;
- l31f92 = 723735806;
+ l31f92 = (unsigned char)723735806;
 	long	j8dv6tSAN;
 	j8dv6tSAN	=	0;
     double    P688;
@@ -130,7 +130,7 @@ int main(int argc, char** argv)
     unsigned long long    Xba6_8S9z_;
     Xba6_8S9z_    =    -1551721696;
     unsigned char    qCSAaQ;
-    qCSAaQ    =    -706084392;
+    qCSAaQ    =    (unsigned char)-706084392;
     unsigned long    H_FWvzS;
     H_FWvzS    =    -2145944709;
   unsigned long long  MnRtb1514R;
@@ -140,7 +140,7 @@ int main(int argc, char** argv)
  long Q_1Qqs43b;
  Q_1Qqs43b = 417377995;
   unsigned short  s7g4;
-  s7g4  =  890313011;
+  s7g4  =  (unsigned short)890313011;
     short    Ow6JIBXu7;
     Ow6JIBXu7    =    1986924837;
     float    F9bgCx6;
@@ -154,7 +154,7 @@ int main(int argc, char** argv)
 	unsigned int	F3Q_;
 	F3Q_	=	237985138;
 	unsigned short	pg613b;
-	pg613b	=	-9314303;
+	pg613b	=	(unsigned short)-9314303;
   char  EdbkF0;
   EdbkF0  =  255228990;
 
@@ -203,7 +203,7 @@ YJy0MVX = (char)(B4ICA);
 }
 else
 {
-YzA7fO2GA = f9gA6(j6k_, H_FWvzS, 81048867, -170368166) / 1649436144;
+YzA7fO2GA = f9gA6(j6k_, H_FWvzS, 81048867, (unsigned char)-170368166) / 1649436144;
 }
 
 {
@@ -235,7 +235,7 @@ case 0:
 j8dv6tSAN = f9gA6(-1009176188, 2111779626, zoAy3A5b, l6351GgZR);
 break;
 case 1:
-j8dv6tSAN = f9gA6(Jk3PD, DNcn, goEU_E_, -1341623074);
+j8dv6tSAN = f9gA6(Jk3PD, DNcn, goEU_E_, (unsigned char)-1341623074);
 break;
 case 2:
 tt5R = (int)floor(l65D8Itv0);
@@ -262,7 +262,7 @@ case 9:
 P688 = (int)floor(T55_65UC);
 break;
 default:
-BM05Rm7BA = (n_v_R29 > -1335563028) ? f9gA6(Jk3PD, 666964121, goEU_E_, -468820048) : -189339307;
+BM05Rm7BA = (n_v_R29 > -1335563028) ? f9gA6(Jk3PD, 666964121, goEU_E_, (unsigned char)-468820048) : -189339307;
 break;
 }
 }
@@ -279,7 +279,7 @@ case 2:
 A3Or = (int)floor(l65D8Itv0);
 break;
 case 3:
-j8dv6tSAN = f9gA6(550680874, Sl5k1_, 2089929279, 1173081012);
+j8dv6tSAN = f9gA6(550680874, Sl5k1_, (unsigned short)2089929279, 1173081012);
 break;
 default:
 WeaA59HB = f9gA6(-1563370245, 298069275, 999054323, 1211025144) & 684939657;
@@ -294,7 +294,7 @@ B4ICA = (long double)(Jk3PD);
 }
 }
 
-wV26a = f9gA6(-1498991903, Sl5k1_, -952547278, 1830189286) / j8dv6tSAN;
+wV26a = f9gA6(-1498991903, Sl5k1_, -952547278, (unsigned char)1830189286) / j8dv6tSAN;
 
 for (int i = 0; i < 7; i++)
 {
@@ -344,7 +344,7 @@ B4ICA = IwTX8Dvg0_ - 2027407294;
 break;
 case 'f':
 case 'F':
-j8dv6tSAN = f9gA6(aFtVoow, LVJb4w9jh, 1179141454, -1967139907);
+j8dv6tSAN = f9gA6(aFtVoow, LVJb4w9jh, 1179141454, (unsigned char)-1967139907);
 break;
 case 'g':
 case 'G':
@@ -363,7 +363,7 @@ case 'J':
 wV26a = (int)abs(Jk3PD);
 break;
 default:
-j8dv6tSAN = f9gA6(oT3y3_, -932945913, -566495049, a7y5N0);
+j8dv6tSAN = f9gA6(oT3y3_, (unsigned short)-932945913, -566495049, a7y5N0);
 break;
 }
 }

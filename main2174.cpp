@@ -24,7 +24,7 @@ int main(void) {
 	float	rq3sE;
 	rq3sE	=	1133067314;
     char    cfQlcSGEG;
-    cfQlcSGEG    =    696795781;
+    cfQlcSGEG    =    (char)696795781;
  float t3CDkBoMcF;
  t3CDkBoMcF = 1994926793;
  int m84u;
@@ -54,7 +54,7 @@ int main(void) {
 	unsigned short	q8HO;
 	q8HO	=	0;
     short    gavD2cB4_;
-    gavD2cB4_    =    -1327098241;
+    gavD2cB4_    =    (short)-1327098241;
     unsigned short    NUn2AD;
     NUn2AD    =    0;
   float  MnLA;

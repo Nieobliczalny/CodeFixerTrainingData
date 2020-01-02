@@ -126,7 +126,7 @@ ckZ2z--;
 
 std::cout << E_2B7khi(1729411476) << ckZ2z << m72Qo0u_() << usMgsVw << "IRi4s" << std::endl;
 
-std::cout << c5xzr << "ua9Y" << E_2B7khi(61060851) << std::endl;
+std::cout << c5xzr << "ua9Y" << E_2B7khi((unsigned short)61060851) << std::endl;
 std::cout << Ml317hG0(791940258, 200520223) << Q6jq << std::endl;
 {
 int i = 0;
@@ -285,7 +285,7 @@ case 0:
 EP2DR = Ml317hG0(305775653, 1250283051);
 break;
 case 1:
-l5_nKfVgJ = E_2B7khi(2022093408);
+l5_nKfVgJ = E_2B7khi((unsigned short)2022093408);
 break;
 }
 gH0S5xUEH = JWyshd(gH0S5xUEH);
@@ -405,7 +405,7 @@ short int  E_2B7khi(unsigned short int  y2zwb)  {
 
 char	JWyshd(long	DeWe_)
 {
-	return	577627803;
+	return	(char)577627803;
 }
 
 short int  Ml317hG0(int  v_0sF3,unsigned short int  W39Va70)  {

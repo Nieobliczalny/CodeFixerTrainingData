@@ -36,7 +36,7 @@ int main() {
  short int tg8NUm5Go = 0;
 	short	fK47oL9	=	-1056653251;
  unsigned long long qTq1SfVQ = 536106340;
-    unsigned short    m4inV    =    -1876643359;
+    unsigned short    m4inV    =    (unsigned short)-1876643359;
   unsigned long long  TPWduSg  =  0;
 	short	Rb4V6	=	1186298659;
     short int    HPFQ_    =    -1495441135;
@@ -52,7 +52,7 @@ int main() {
     long    FP9505_0jq    =    -684135628;
   unsigned long  a0_ZtTfq1  =  -600142442;
     float    efPlrx2VL9    =    -2111634901;
- unsigned short Hq00fh7 = -541181554;
+ unsigned short Hq00fh7 = (unsigned short)-541181554;
   long long  G07b1B  =  -518233775;
   unsigned long long  vbN_s  =  -408207733;
     int    d__J7i    =    -1667973473;
@@ -63,7 +63,7 @@ if ((Z1Jdn90kB <= 826266402) && ((Hq00fh7 == GaVIu) && (hSHPN652D)))
 {
 if (E6j_ != qTq1SfVQ)
 {
-m4inV = YdIV0t(m4inV, -583815363, 1249365120, TPWduSg);
+m4inV = YdIV0t(m4inV, (short)-583815363, 1249365120, TPWduSg);
 }
 else if (((a0_ZtTfq1 <= G07b1B) || (d__J7i >= 604203126)) && (d__J7i > 504912401))
 {
@@ -73,7 +73,7 @@ else if (HPFQ_ == -1847638616)
 {
 if (M7cvN)
 {
-HPFQ_ = YdIV0t(HPFQ_, 1745607250, 1519532503, M7cvN);
+HPFQ_ = YdIV0t(HPFQ_, 1745607250, (char)1519532503, M7cvN);
 }
 else
 {
@@ -188,7 +188,7 @@ int k = 5;
 while (k >= 0)
 {
 --k;
-M7cvN = YdIV0t(M7cvN, -341945565, 1706356257, 1487704879);
+M7cvN = YdIV0t(M7cvN, -341945565, (char)1706356257, 1487704879);
 }
 }
 }
@@ -380,7 +380,7 @@ int k = 6;
 do
 {
 k--;
-d__J7i = YdIV0t(284710742, vbN_s, 2122750608, hSHPN652D);
+d__J7i = YdIV0t(284710742, vbN_s, (char)2122750608, hSHPN652D);
 }
 while (k >= 0);
 }
@@ -455,7 +455,7 @@ fv9wo9tEk = G5Lz_xvA(fv9wo9tEk, -759051052, 847911546, d__J7i);
 }
 else if (G07b1B < GaVIu)
 {
-FP9505_0jq = YdIV0t(FP9505_0jq, -837583218, 729319577, fv9wo9tEk);
+FP9505_0jq = YdIV0t(FP9505_0jq, -837583218, (char)729319577, fv9wo9tEk);
 }
 else
 {
@@ -511,7 +511,7 @@ break;
 
 if (YhN4N < TPWduSg)
 {
-d__J7i = YdIV0t(d__J7i, -1374595799, -1278410085, vbN_s);
+d__J7i = YdIV0t(d__J7i, -1374595799, (char)-1278410085, vbN_s);
 }
 for (int i = 5; i >= 0; i--)
 {

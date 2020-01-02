@@ -23,7 +23,7 @@ int main(int argc, char** argv) {
   unsigned long  aCLrDl_z;
   aCLrDl_z  =  -1462202722;
  char p19A;
- p19A = 487243709;
+ p19A = (char)487243709;
  float UH52;
  UH52 = -1258015657;
 	long	KwiUVQWO;
@@ -35,7 +35,7 @@ int main(int argc, char** argv) {
   double  m9ax7PCFvQ;
   m9ax7PCFvQ  =  1529955581;
 	short	Z43e0Iv;
-	Z43e0Iv	=	-598605329;
+	Z43e0Iv	=	(short)-598605329;
  float KtLfoc1q;
  KtLfoc1q = 176490572;
  double QFDBcb;
@@ -47,7 +47,7 @@ int main(int argc, char** argv) {
 	unsigned short int	Z039_;
 	Z039_	=	-1681777817;
   short  p7lD;
-  p7lD  =  1818161349;
+  p7lD  =  (short)1818161349;
 	double	gsztDJ;
 	gsztDJ	=	517732467;
   long double  wHJXA;
@@ -63,7 +63,7 @@ int main(int argc, char** argv) {
   unsigned int  XqOn_;
   XqOn_  =  -743495974;
     unsigned short    WyD0de;
-    WyD0de    =    -596787339;
+    WyD0de    =    (unsigned short)-596787339;
     char    z4i9D;
     z4i9D    =    996745721;
     unsigned long long    QFXA7a;
@@ -83,7 +83,7 @@ int main(int argc, char** argv) {
 	unsigned short int	uihG50k0;
 	uihG50k0	=	-1746382747;
     char    Z5ci8j;
-    Z5ci8j    =    -392187434;
+    Z5ci8j    =    (char)-392187434;
     long double    NGlJwI_64M;
     NGlJwI_64M    =    -585995009;
 
@@ -323,7 +323,7 @@ std::cout << Wvxx90(-171017179) << mA74z113 << std::endl;
 }
 else
 {
-std::cout << "qspR40_8Y" << lqyU224(1017189264) << std::endl;
+std::cout << "qspR40_8Y" << lqyU224((unsigned short)1017189264) << std::endl;
 }
 
 try

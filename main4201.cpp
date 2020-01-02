@@ -119,7 +119,7 @@ case 2:
 k9gVO = cV3AHM(mlbKJ5, a73H3g, MUx0_, 163019602, Y8hyA);
 break;
 case 3:
-k9gVO = cV3AHM(-856987174, xsGG, 64569209, Fm4we0Cr, -1072831110);
+k9gVO = cV3AHM((unsigned short)-856987174, xsGG, 64569209, Fm4we0Cr, -1072831110);
 break;
 case 4:
 QQ7_ = (int)abs(HDge7);
@@ -248,7 +248,7 @@ case 6:
 k9gVO = cV3AHM(2087040319, oKEC65bdcx, 1335798152, D668, 1334659032);
 break;
 case 7:
-k9gVO = cV3AHM(1354625814, 810983048, w6Eh4N, R09B0Lq, MYy9);
+k9gVO = cV3AHM((unsigned short)1354625814, 810983048, w6Eh4N, R09B0Lq, MYy9);
 break;
 default:
 y2zzeD |= yZnc;

@@ -19,7 +19,7 @@ int main(void) {
  unsigned long long A6Axgf = -1040611962;
  long long K6I9vcTi = -1457889325;
   double  MZ9c67Aoy0  =  -802174051;
-	unsigned char	pc25No	=	31549649;
+	unsigned char	pc25No	=	(unsigned char)31549649;
   int  jjJQMKDF2  =  -369977432;
 	int	rbtKGmuM2M	=	-977437718;
     short    hOT5B6f    =    391508951;
@@ -29,7 +29,7 @@ int main(void) {
   short  M_kMN  =  -1522806268;
 	unsigned short	c5hNUL5M	=	-1305201278;
 	unsigned long	hwMZ2	=	0;
-  unsigned char  e5l_  =  1421403307;
+  unsigned char  e5l_  =  (unsigned char)1421403307;
  short int C5svTyC = 853119077;
     unsigned char    X2oovUqNeX    =    -73233545;
     long double    cJ941_m0    =    1277208197;
@@ -39,7 +39,7 @@ int main(void) {
   long double  Mt_lSo  =  1757110334;
 	float	sT2KAsD	=	702575693;
  short auXV08b_2 = 2016005459;
- char i4KZ3_En_ = -1619356686;
+ char i4KZ3_En_ = (char)-1619356686;
 	unsigned short int	H882t3d9bz	=	-1611153555;
 	unsigned short	owbiWc	=	1540586129;
     long    m35V    =    -361114387;
@@ -50,7 +50,7 @@ int main(void) {
  short int FC8d2_p2E1 = -1747300379;
 	unsigned short	LgE3446W57	=	-556188666;
   long long  H8W_N1P  =  -1729503376;
- char s32B = -1557556345;
+ char s32B = (char)-1557556345;
     unsigned long    uk98D4u_B    =    -2105269362;
     double    u306U7PLWI    =    -2112069843;
     short int    rwH5    =    436715896;
@@ -61,7 +61,7 @@ int main(void) {
 	short int	Ir7LNC6g3t	=	2053845925;
 	long	XRx8l__q	=	-121965121;
   int  qE_9sO  =  1019322601;
-	unsigned short	XXhvT1jTo	=	734626584;
+	unsigned short	XXhvT1jTo	=	(unsigned short)734626584;
     int    KN1d    =    285492840;
   long double  z95R04hd9  =  -1267514848;
  long long N_R8lHL = -790119018;
@@ -72,7 +72,7 @@ int main(void) {
   unsigned int  dfL5Iv  =  904425849;
   unsigned short  I1d7T4Ag  =  1915444089;
 	long double	QK0Q3k	=	-1606992251;
-  unsigned short  XCZJz9eh  =  1531853607;
+  unsigned short  XCZJz9eh  =  (unsigned short)1531853607;
  char Eib2a9W_ = -1314572471;
  unsigned short int Q0Fo = 353153725;
   char  f4F8Gadz4  =  800325360;

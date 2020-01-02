@@ -36,7 +36,7 @@ int main(void) {
   long  g3X0j1bn98  =  -96034376;
   short  jSL81  =  -1392938623;
   unsigned char  W5u_lN7Zge  =  0;
-    short    rwjMO28GT    =    1020143749;
+    short    rwjMO28GT    =    (short)1020143749;
     char    UJx__5YL4    =    0;
 	unsigned short int	Nw5pv	=	1399638073;
     int    IaCE3p5p    =    1575221933;
@@ -46,7 +46,7 @@ int main(void) {
 	short	qj1f_b	=	447210148;
 	short int	WV1Q17	=	1448244799;
  long double t99LH7p4o = 1160764433;
- short int oL938TNMm = 621819135;
+ short int oL938TNMm = (short)621819135;
  long long nY1_o24 = -1613578900;
 	long double	Am73_	=	-1523085742;
  unsigned long long J63fy = 958565790;
@@ -60,7 +60,7 @@ int main(void) {
 
 WV1Q17 = a0Q7ZVZ22U(WV1Q17);
 WV1Q17 = qj1f_b >> 1555311494;
-cout << y7J0Sdp2cU(37656255, IaCE3p5p, 403469734, -1077006468, 582553251) << endl;
+cout << y7J0Sdp2cU((unsigned char)37656255, IaCE3p5p, 403469734, -1077006468, 582553251) << endl;
 {
 int i = 0;
 do
@@ -150,7 +150,7 @@ while (i < 5)
 switch (oW1Js_1Jp3)
 {
 case 0:
-W5u_lN7Zge = TRn8DTJX2_(719618320, 1349818563, 1164037717, U22h1bj, -458814450);
+W5u_lN7Zge = TRn8DTJX2_(719618320, 1349818563, 1164037717, U22h1bj, (char)-458814450);
 break;
 case 1:
 g3X0j1bn98 = (int)abs(t99LH7p4o);
@@ -208,7 +208,7 @@ case 'b':
 qj1f_b = G7BrIOe & 1733306760;
 break;
 case 'c':
-g3X0j1bn98 = y7J0Sdp2cU(g3X0j1bn98, oL938TNMm, -1967972350, 2113743766, 1768683863);
+g3X0j1bn98 = y7J0Sdp2cU(g3X0j1bn98, oL938TNMm, (unsigned short)-1967972350, 2113743766, 1768683863);
 break;
 case 'd':
 H3PncXS -= 2044982924;

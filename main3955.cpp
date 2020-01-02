@@ -26,7 +26,7 @@ int main(void)
 	unsigned short int	x9_0yGkC;
 	x9_0yGkC	=	-772030716;
  unsigned short EI0ong6;
- EI0ong6 = 1713809011;
+ EI0ong6 = (unsigned short)1713809011;
     long double    OdG9c_6g7s;
     OdG9c_6g7s    =    -1311836338;
   long double  O5Z_am1;
@@ -148,7 +148,7 @@ case 'c':
 OdG9c_6g7s = KI0GjB6V3 % W2ac8wsu5;
 break;
 case 'd':
-kFuc = QljR(W2ac8wsu5, 1189570935, 1136894949);
+kFuc = QljR(W2ac8wsu5, (unsigned short)1189570935, 1136894949);
 break;
 case 'e':
 W2ac8wsu5 = (int)abs(OdG9c_6g7s);
@@ -248,7 +248,7 @@ case 'e':
 W2ac8wsu5 = Cu_NKa5(-169362398);
 break;
 default:
-EI0ong6 = Cu_NKa5(675238848);
+EI0ong6 = Cu_NKa5((unsigned short)675238848);
 break;
 }
 
@@ -472,7 +472,7 @@ case 'B':
 O5Z_am1 = (int)floor(Gbfmf);
 break;
 default:
-Lc8SxB = Cu_NKa5(-342723930);
+Lc8SxB = Cu_NKa5((unsigned short)-342723930);
 break;
 }
 
@@ -548,7 +548,7 @@ Gbfmf = Cu_NKa5(-1717543327);
 }
 else if (a2zASF5L & -383350672)
 {
-kFuc = QljR(kFuc, 1931713024, 698432489);
+kFuc = QljR(kFuc, (unsigned short)1931713024, 698432489);
 }
 else if (x9_0yGkC > 1332268681)
 {

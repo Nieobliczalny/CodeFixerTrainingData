@@ -95,7 +95,7 @@ fJP7D0MX0U = u66hFli6H >> D5ZNf5Q_Bt;
 }
 else if (f2A_xg < GJ0IYOzr)
 {
-VDBl = (fJWd6Ot) ? -1514656334 : 1640718786;
+VDBl = (fJWd6Ot) ? -1514656334 : (unsigned short)1640718786;
 }
 else if (K11S_e49l2 > p_ni)
 {

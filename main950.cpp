@@ -63,7 +63,7 @@ B_9EJj5 = Xtuf0Q9(eiC1J, 1879921208, A2p79bI, M5llMu7xW);
 }
 try
 {
-cout << "bTjiwx" << Xtuf0Q9(698215664, S5zw, A2p79bI, -935648097) << "nkWyepC4Z" << gVRa << "R_9B6Z" << endl;
+cout << "bTjiwx" << Xtuf0Q9((short)698215664, S5zw, A2p79bI, -935648097) << "nkWyepC4Z" << gVRa << "R_9B6Z" << endl;
 }
 catch (int& errorCode)
 {
@@ -135,7 +135,7 @@ w98QPCU |= 1131867895;
 }
 else
 {
-B_9EJj5 = Xtuf0Q9(17079456, eiC1J, M5llMu7xW, -961042570);
+B_9EJj5 = Xtuf0Q9(17079456, eiC1J, M5llMu7xW, (short)-961042570);
 }
 }
 ++i;

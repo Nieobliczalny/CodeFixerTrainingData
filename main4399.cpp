@@ -22,7 +22,7 @@ unsigned char  PCx73h(unsigned long  jSPu,long long  k0Iqb163)  {
 
 short int jzn8egva(short int gqgjDM,unsigned char gV686,unsigned short q3I4_V32,unsigned short int j0cJ)
 {
- return -955445079;
+ return (short)-955445079;
 }
 
 long  Zk478X(long  C31gJQ9Kt,long long  eB1548060O)  {
@@ -149,7 +149,7 @@ int k = 3;
 while (k >= 0)
 {
 --k;
-CHSkyx = jzn8egva(CHSkyx, Om8_5C, 1194571603, -1843706260);
+CHSkyx = jzn8egva(CHSkyx, Om8_5C, 1194571603, (unsigned short)-1843706260);
 }
 }
 }
@@ -179,7 +179,7 @@ if (Yz5J5iI == VYeEIXi)
 {
 if ((zpgE_hiA & H0i29Y8ZB7) && (WFDFw3IAO9 != -1061200085))
 {
-CHSkyx = jzn8egva(-713058254, 1316184193, 43521074, 883342402);
+CHSkyx = jzn8egva(-713058254, (unsigned char)1316184193, 43521074, 883342402);
 }
 else
 {
@@ -220,7 +220,7 @@ CHSkyx <<= CWfoAsM_8l;
 }
 else
 {
-ey21uaVX6R = jzn8egva(ey21uaVX6R, -105837259, 1218735175, 1077484857);
+ey21uaVX6R = jzn8egva(ey21uaVX6R, -105837259, (unsigned short)1218735175, 1077484857);
 }
 }
 }
@@ -357,7 +357,7 @@ if (I9vyWCD & pFWtnQy5o9)
 {
 for (int k = 0; k < 1; k++)
 {
-T_34SGX6Q = jzn8egva(T_34SGX6Q, -1121503063, lH_mOtkMX, 31273041);
+T_34SGX6Q = jzn8egva(T_34SGX6Q, -1121503063, lH_mOtkMX, (unsigned short)31273041);
 }
 }
 i++;
@@ -454,7 +454,7 @@ for (int i = 2; i >= 0; i--)
 {
 w504V_Fv_4 = (long long)(PQFZ);
 }
-cout << jzn8egva(OvqHP2RW, 881671132, Cu933Grjc, 820999062) << "PihelW4" << u4E8b << lH_mOtkMX << endl;
+cout << jzn8egva(OvqHP2RW, 881671132, Cu933Grjc, (unsigned short)820999062) << "PihelW4" << u4E8b << lH_mOtkMX << endl;
 try
 {
 A139Y8YW = (long long)(HRvyh6_);
@@ -550,7 +550,7 @@ case 1:
 pFWtnQy5o9 = Zk478X(pFWtnQy5o9, yq8ql);
 break;
 case 2:
-WFDFw3IAO9 = jzn8egva(WFDFw3IAO9, -1836332507, utB_, I9vyWCD);
+WFDFw3IAO9 = jzn8egva(WFDFw3IAO9, (unsigned char)-1836332507, utB_, I9vyWCD);
 break;
 case 3:
 wgGj8FE31 /= 2045656937;
@@ -602,7 +602,7 @@ CgU9 = jzn8egva(1987182856, E4VFj_, SD32q7, Q__dJC);
 }
 else
 {
-cout << "WID0149F" << "Pw1e1X19" << n8UFB72QK() << fnRC28JI(1476540338, 2081410597, -1300480684) << endl;
+cout << "WID0149F" << "Pw1e1X19" << n8UFB72QK() << fnRC28JI((short)1476540338, 2081410597, -1300480684) << endl;
 }
 }
 T_34SGX6Q = Zk478X(540457141, -892698535);

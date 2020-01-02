@@ -55,7 +55,7 @@ break;
 
 try
 {
-std::cout << Q38itjsk << rEvEP0(1742430103, KQD7Uxmz, J2_PB, U2FWgi4) << std::endl;
+std::cout << Q38itjsk << rEvEP0((short)1742430103, KQD7Uxmz, J2_PB, U2FWgi4) << std::endl;
 }
 catch (int& errorCode)
 {
@@ -87,7 +87,7 @@ case 6:
 w2C9 = (int)abs(mgMXy_);
 break;
 case 7:
-IGnLX8Oz = rEvEP0(1623112045, -1234752449, 1642558769, 50505886);
+IGnLX8Oz = rEvEP0(1623112045, -1234752449, (unsigned short)1642558769, 50505886);
 break;
 case 8:
 o_coBb9da >>= 1945799308;
@@ -147,7 +147,7 @@ else
 {
 if (q1gC_ & d3ovDV6Aq)
 {
-IGnLX8Oz = rEvEP0(2004773590, o_coBb9da, VAn_, w4a75a);
+IGnLX8Oz = rEvEP0((short)2004773590, o_coBb9da, VAn_, w4a75a);
 }
 else
 {
@@ -238,7 +238,7 @@ break;
 
 b_1Zk20 -= cYdLE3_AN9;
 std::cout << VAn_ << "HtAE_" << "KVv50t5XV8" << rEvEP0(o_coBb9da, -886642070, yDlxsP, IGnLX8Oz) << "d0q_H8" << std::endl;
-Fi99NAT = FUw1i4(41175766, 422294745, J2_PB);
+Fi99NAT = FUw1i4(41175766, (unsigned short)422294745, J2_PB);
 
 if (((b_1Zk20 > 427274392) || (H2bXpalO16 > VAn_)) && ((ISOCU9 & 890173832) || (BX0_pX_N > -1786379961)))
 {
@@ -335,7 +335,7 @@ else
 {
 try
 {
-BX0_pX_N = rEvEP0(953617737, D175pMI7, -269088857, 703454623) - J2_PB;
+BX0_pX_N = rEvEP0(953617737, D175pMI7, (unsigned short)-269088857, 703454623) - J2_PB;
 }
 catch (int& errorCode)
 {
@@ -354,7 +354,7 @@ while (j < 9)
 int k = 0;
 do
 {
-IGnLX8Oz = rEvEP0(145380239, 1590800244, -2052472479, u5Yi);
+IGnLX8Oz = rEvEP0(145380239, 1590800244, (unsigned short)-2052472479, u5Yi);
 k++;
 }
 while (k < 3);

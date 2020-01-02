@@ -15,7 +15,7 @@ short int ciS6AN(short int ZBG5w,short int P8zuwJJ_D,short int JFrP);
 int main(void) {
   short int  g6rL0Jnz,  D9Dd7,  y1rLM9Y83y,  utz38,  P4oj,  C5A_9,  O_M10r_mz7,  FI7d,  Kwe8L9y;
   g6rL0Jnz  =  852560426;
-  D9Dd7  =  -496792145;
+  D9Dd7  =  (short)-496792145;
   y1rLM9Y83y  =  157621277;
   utz38  =  -333238712;
   P4oj  =  1794371320;
@@ -30,7 +30,7 @@ int main(void) {
 
 if ((FI7d <= D9Dd7) && (g6rL0Jnz < X8gJ_8e_kW))
 {
-std::cout << ciS6AN(1630443631, D9Dd7, 2107290923) << FI7d << std::endl;
+std::cout << ciS6AN(1630443631, D9Dd7, (short)2107290923) << FI7d << std::endl;
 }
 else if (Kwe8L9y > 1690107161)
 {
@@ -124,7 +124,7 @@ case 'f':
 Kwe8L9y >>= 1867747934;
 break;
 case 'g':
-Py_QmS4 = ciS6AN(C5A_9, -1223803681, -1717317317);
+Py_QmS4 = ciS6AN(C5A_9, -1223803681, (short)-1717317317);
 break;
 case 'h':
 P4oj = Y4WlhXfGJ(P4oj, RbN2543, 1643797690);
@@ -154,7 +154,7 @@ Kwe8L9y = Y4WlhXfGJ(1897687969, g6rL0Jnz, 631041866);
 }
 else
 {
-std::cout << ciS6AN(Kwe8L9y, -2018558085, 1616097032) << Kwe8L9y << Y4WlhXfGJ(-994275355, g6rL0Jnz, utz38) << std::endl;
+std::cout << ciS6AN(Kwe8L9y, -2018558085, (short)1616097032) << Kwe8L9y << Y4WlhXfGJ(-994275355, g6rL0Jnz, utz38) << std::endl;
 }
 
 for (int i = 1; i >= 0; i--)
@@ -265,7 +265,7 @@ FI7d ^= y1rLM9Y83y;
 }
 else
 {
-RbN2543 = ciS6AN(149732098, -342424133, g6rL0Jnz);
+RbN2543 = ciS6AN(149732098, (short)-342424133, g6rL0Jnz);
 }
 j--;
 }
@@ -303,7 +303,7 @@ RbN2543 = ciS6AN(D9Dd7, 17294673, 1620089531);
 }
 else if (Py_QmS4 < y1rLM9Y83y)
 {
-std::cout << utz38 << "KJsY85688j" << Y4WlhXfGJ(-1876562220, FI7d, O_M10r_mz7) << ciS6AN(D9Dd7, 709701555, 1213266214) << std::endl;
+std::cout << utz38 << "KJsY85688j" << Y4WlhXfGJ(-1876562220, FI7d, O_M10r_mz7) << ciS6AN(D9Dd7, 709701555, (short)1213266214) << std::endl;
 }
 else
 {
@@ -337,7 +337,7 @@ case 0:
 D9Dd7 = Y4WlhXfGJ(D9Dd7, -1827769374, RbN2543);
 break;
 case 1:
-Kwe8L9y = Y4WlhXfGJ(1810488003, -798406447, -1214465426);
+Kwe8L9y = Y4WlhXfGJ(1810488003, (unsigned short)-798406447, -1214465426);
 break;
 default:
 FI7d = D9Dd7 << P4oj;
@@ -354,7 +354,7 @@ i--;
 while (i >= 0);
 }
 RbN2543 = ciS6AN(FI7d, C5A_9, D9Dd7);
-std::cout << Kwe8L9y << "AOl5V" << ciS6AN(1119924456, -334078454, D9Dd7) << std::endl;
+std::cout << Kwe8L9y << "AOl5V" << ciS6AN(1119924456, (short)-334078454, D9Dd7) << std::endl;
 
 std::cout << "YsHtWhux" << P4oj << std::endl;
 
@@ -372,7 +372,7 @@ case 'c':
 Py_QmS4 = (int)abs(RbN2543);
 break;
 case 'd':
-Py_QmS4 = ciS6AN(-1473757452, -1661142270, -773476439);
+Py_QmS4 = ciS6AN(-1473757452, (short)-1661142270, -773476439);
 break;
 case 'e':
 P4oj = Y4WlhXfGJ(-2117644400, D9Dd7, 786234882);
@@ -411,7 +411,7 @@ Kwe8L9y += 1883208866;
 }
 else if (((Kwe8L9y < 2131077021) || (FI7d <= 1043463927)) || (FI7d > P4oj))
 {
-Kwe8L9y = Y4WlhXfGJ(Kwe8L9y, -1066545497, 1143393234) & 1507014219;
+Kwe8L9y = Y4WlhXfGJ(Kwe8L9y, (unsigned short)-1066545497, 1143393234) & 1507014219;
 }
 else if (C5A_9 != RbN2543)
 {
@@ -457,7 +457,7 @@ default:
 utz38 = Y4WlhXfGJ(1308274880, 465143024, Kwe8L9y);
 break;
 }
-std::cout << ciS6AN(utz38, X8gJ_8e_kW, 467368013) << "y080OqaGF" << std::endl;
+std::cout << ciS6AN(utz38, X8gJ_8e_kW, (short)467368013) << "y080OqaGF" << std::endl;
 for (int i = 8; i >= 0; i--)
 {
 P4oj = (short int)(utz38);
@@ -476,7 +476,7 @@ while (j < 1);
 }
 else if (C5A_9 > 529460708)
 {
-Py_QmS4 = ciS6AN(Kwe8L9y, -1153002964, Py_QmS4);
+Py_QmS4 = ciS6AN(Kwe8L9y, (short)-1153002964, Py_QmS4);
 }
 else if (Py_QmS4 > 1771018531)
 {
@@ -503,7 +503,7 @@ try
 {
 for (int k = 0; k < 10; k++)
 {
-X8gJ_8e_kW = ciS6AN(339576627, X8gJ_8e_kW, -150720066);
+X8gJ_8e_kW = ciS6AN(339576627, X8gJ_8e_kW, (short)-150720066);
 }
 }
 catch (int& errorCode)
@@ -561,7 +561,7 @@ k--;
 }
 else if (O_M10r_mz7 > FI7d)
 {
-X8gJ_8e_kW = ciS6AN(-859344337, -1927898481, C5A_9);
+X8gJ_8e_kW = ciS6AN((short)-859344337, -1927898481, C5A_9);
 }
 else
 {
@@ -599,7 +599,7 @@ std::cout << Y4WlhXfGJ(y1rLM9Y83y, P4oj, -420020526) << y1rLM9Y83y << Py_QmS4 <<
 int i = 4;
 while (i >= 0)
 {
-std::cout << ciS6AN(y1rLM9Y83y, -1265270457, -970471139) << "mCi_e" << std::endl;
+std::cout << ciS6AN(y1rLM9Y83y, -1265270457, (short)-970471139) << "mCi_e" << std::endl;
 --i;
 }
 }

@@ -29,7 +29,7 @@ do
 j++;
 if (eNqB_25B_8 >= Wkp_a)
 {
-TCaiInJp = MX06Y1ZR(1763276432, 2037381683, I_bxnh2k5);
+TCaiInJp = MX06Y1ZR(1763276432, (unsigned short)2037381683, I_bxnh2k5);
 }
 }
 while (j < 10);
@@ -152,7 +152,7 @@ break;
 }
 while (i >= 0);
 }
-AFqgB = MX06Y1ZR(2131948949, 445012086, 899336755);
+AFqgB = MX06Y1ZR(2131948949, (unsigned short)445012086, 899336755);
 
 cnQ26sV3H = (short int)(W4__m);
 {

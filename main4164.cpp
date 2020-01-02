@@ -282,7 +282,7 @@ else
 N_sB9 = u5PdcKDsj3(1862464138, -807793711, -1552719338);
 }
 O4zDj_4 /= 2075623684;
-lXq_k5 = t_oQYHob0T / j4jP5(1243978837, J63MOe1CC, 1698972833);
+lXq_k5 = t_oQYHob0T / j4jP5((unsigned char)1243978837, J63MOe1CC, 1698972833);
 
 std::cout << LvCOei4Tt << "PE6HZD8ZO" << u5PdcKDsj3(1980693820, J63MOe1CC, Km8E) << "vS6Q" << std::endl;
 {

@@ -146,7 +146,7 @@ catch (int& errorCode)
 {
 o_sPs = (int)ceil(f6iD2561f);
 }
-cout << "aoi8f" << Ml0UlW(i1XZf_8, 1175305775, aLQy3p7_7J) << IZQS(i1XZf_8, 1468547752, aLQy3p7_7J, rVIA8mVU, 207215079) << y2bYH6y756() << endl;
+cout << "aoi8f" << Ml0UlW(i1XZf_8, 1175305775, aLQy3p7_7J) << IZQS(i1XZf_8, 1468547752, aLQy3p7_7J, rVIA8mVU, (unsigned short)207215079) << y2bYH6y756() << endl;
 {
 int i = 8;
 while (i >= 0)
@@ -174,7 +174,7 @@ switch (Eja00iv)
 {
 case 'a':
 case 'A':
-Fp32kA = IZQS(Fp32kA, azk8l4iP6w, -1504979427, h8Qj0L3Nq, -1425126667);
+Fp32kA = IZQS(Fp32kA, azk8l4iP6w, -1504979427, h8Qj0L3Nq, (unsigned short)-1425126667);
 break;
 case 'b':
 case 'B':
@@ -260,7 +260,7 @@ dNSM_ = w4V0xDH * p8KMWQ7;
 }
 else
 {
-B3930 = IZQS(1764991730, ps2b8_w, -171621617, 490654658, -290676678);
+B3930 = IZQS(1764991730, ps2b8_w, (unsigned char)-171621617, 490654658, -290676678);
 }
 --j;
 }
@@ -314,7 +314,7 @@ char IZQS(char ZZi936W,unsigned short int UYxovs219W,unsigned char I37qG7,long l
 
 unsigned short  y2bYH6y756()
 {
-  return  834562527;
+  return  (unsigned short)834562527;
 }
 
 short int Ml0UlW(unsigned char Vkl_RL,long long ALMGCJpW,unsigned long long D1rej8) {

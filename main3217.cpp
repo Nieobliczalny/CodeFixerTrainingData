@@ -26,7 +26,7 @@ int main(int argc, char** argv)
  unsigned char fWqK;
  fWqK = -626026122;
     short int    NyyqRF;
-    NyyqRF    =    629982921;
+    NyyqRF    =    (short)629982921;
 	unsigned long	UMf6F;
 	UMf6F	=	148552647;
 	unsigned char	lkOH;
@@ -58,7 +58,7 @@ int main(int argc, char** argv)
 	unsigned char	r0Hj6;
 	r0Hj6	=	717517617;
   short  W06b;
-  W06b  =  -792237308;
+  W06b  =  (short)-792237308;
   long  HIDMNtJi;
   HIDMNtJi  =  384941999;
   long double  d1975;
@@ -184,7 +184,7 @@ I28YD1Vt5 = y7532OKv(I28YD1Vt5, -2091468850, lkOH, 961872886, A_3s833);
 }
 if (jGQ7V0476_ <= -373565367)
 {
-std::cout << y7532OKv(I28YD1Vt5, 2142403177, lkOH, 1319157111, 926102616) << W06b << std::endl;
+std::cout << y7532OKv(I28YD1Vt5, 2142403177, lkOH, (short)1319157111, 926102616) << W06b << std::endl;
 }
 else
 {

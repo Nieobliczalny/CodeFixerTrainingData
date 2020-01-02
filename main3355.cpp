@@ -28,7 +28,7 @@ int main() {
     float    MbG8u95ThP;
     MbG8u95ThP    =    -1577733842;
     char    H2X689dt;
-    H2X689dt    =    -480951560;
+    H2X689dt    =    (char)-480951560;
     unsigned long    kr8xcyX1;
     kr8xcyX1    =    -795971196;
  long double rQ8V11x;
@@ -46,7 +46,7 @@ int main() {
   long  Bj1cSLZ6;
   Bj1cSLZ6  =  5102649;
  unsigned short int JFCb_;
- JFCb_ = -1004195449;
+ JFCb_ = (unsigned short)-1004195449;
 	long long	Kk3GS_e8L;
 	Kk3GS_e8L	=	740262119;
 	unsigned long long	yXtw;
@@ -76,7 +76,7 @@ int main() {
     unsigned long    g8h6Ag_W;
     g8h6Ag_W    =    705613265;
   unsigned char  wypZW_EgVK;
-  wypZW_EgVK  =  551970350;
+  wypZW_EgVK  =  (unsigned char)551970350;
     char    w96K9Ze1H7;
     w96K9Ze1H7    =    397957395;
     unsigned short    n2K39nuVi;
@@ -86,7 +86,7 @@ int main() {
     unsigned int    r2731Ns9;
     r2731Ns9    =    686342290;
  char P2_70gly2U;
- P2_70gly2U = 2108385534;
+ P2_70gly2U = (char)2108385534;
 	unsigned short int	Y8H0tUlu;
 	Y8H0tUlu	=	1376397085;
     int    N7Q4CH75t;
@@ -96,7 +96,7 @@ for (int i = 8; i >= 0; i--)
 {
 if (t5SEkL3)
 {
-N7Q4CH75t = g2XDa17(1974334787, a405, -1772199732);
+N7Q4CH75t = g2XDa17((unsigned short)1974334787, a405, -1772199732);
 }
 else if (Uz2a_gj9U8)
 {
@@ -327,7 +327,7 @@ cout << g2XDa17(1890225183, 1072411240, -1646054787) << kr8xcyX1 << c90Vd(-12385
 int i = 0;
 do
 {
-cout << "L0xVuy9d1" << g2XDa17(m21_J, CsZm, kw8n) << g2XDa17(149330596, 1729151105, kw8n) << "qrQHzXoc4" << endl;
+cout << "L0xVuy9d1" << g2XDa17(m21_J, CsZm, kw8n) << g2XDa17((unsigned short)149330596, 1729151105, kw8n) << "qrQHzXoc4" << endl;
 i++;
 }
 while (i < 9);

@@ -23,7 +23,7 @@ unsigned long long	Tg9otO6j(long long	yIg_aCg,short int	znW1gfZga,int	lJ_2U1Dl,l
 int main(void) {
 	long	E4poc	=	-1926209717;
  short int UNWa = -825902215;
-  unsigned char  unyl_zz  =  110764780;
+  unsigned char  unyl_zz  =  (unsigned char)110764780;
  unsigned short mtjO1Ahy9 = -1559612317;
     double    WlN3KHihO    =    1498756672;
   unsigned char  LypC  =  1403460698;
@@ -117,7 +117,7 @@ WlN3KHihO = (int)ceil(k_zX);
 }
 else
 {
-std::cout << Tg9otO6j(-645678770, -782749922, 105392338, unyl_zz, OsbBe) << Tg9otO6j(411551934, -839096984, E4poc, -1405715101, OsbBe) << std::endl;
+std::cout << Tg9otO6j(-645678770, -782749922, 105392338, unyl_zz, OsbBe) << Tg9otO6j(411551934, (short)-839096984, E4poc, -1405715101, OsbBe) << std::endl;
 }
 }
 
@@ -130,7 +130,7 @@ case 'a':
 WlN3KHihO = (int)ceil(k_zX);
 break;
 case 'b':
-LypC = Tg9otO6j(745904790, -1486754365, LypC, -690155100, -798557155);
+LypC = Tg9otO6j(745904790, -1486754365, LypC, -690155100, (unsigned short)-798557155);
 break;
 case 'c':
 mtjO1Ahy9 = Tg9otO6j(-1925073748, 906528592, -781791395, unyl_zz, mK3J90);
@@ -202,7 +202,7 @@ case 1:
 C7dzzxp = ln_Jf3(-2092023388, unyl_zz, 1065360658, k_j24P52, KJ_ijp8);
 break;
 case 2:
-WlN3KHihO = Tg9otO6j(WlN3KHihO, 269197137, Ax1iMh1_Q, -1815136633, LypC);
+WlN3KHihO = Tg9otO6j(WlN3KHihO, (short)269197137, Ax1iMh1_Q, -1815136633, LypC);
 break;
 case 3:
 E4poc = oOS84r0 << 1870404284;
@@ -238,7 +238,7 @@ case 2:
 mtjO1Ahy9 = mK3J90 % unyl_zz;
 break;
 default:
-UNWa = Tg9otO6j(UNWa, 1292939898, WlN3KHihO, 2075779182, 722621275);
+UNWa = Tg9otO6j(UNWa, 1292939898, WlN3KHihO, 2075779182, (unsigned short)722621275);
 break;
 }
 }
@@ -282,7 +282,7 @@ k_j24P52 = E4poc + Ax1iMh1_Q;
 }
 else if (mK3J90 > Gi_GRFS4)
 {
-unyl_zz = Tg9otO6j(761748437, -1056225971, 1883002595, WlN3KHihO, -757506300);
+unyl_zz = Tg9otO6j(761748437, -1056225971, 1883002595, WlN3KHihO, (unsigned short)-757506300);
 }
 else if ((UNWa < -815813167) && (k_zX > 1668770524))
 {
@@ -294,7 +294,7 @@ E4poc = Tg9otO6j(E4poc, k_zX, 524406134, mK3J90, UNWa);
 }
 else if (UNWa < oOS84r0)
 {
-OsbBe = Tg9otO6j(OsbBe, 1894565011, 934420720, Ax1iMh1_Q, 2001727155);
+OsbBe = Tg9otO6j(OsbBe, 1894565011, 934420720, Ax1iMh1_Q, (unsigned short)2001727155);
 }
 else
 {

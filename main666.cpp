@@ -38,7 +38,7 @@ int main(int argc, char** argv)
 	float	phLbt8_N9;
 	phLbt8_N9	=	-542567761;
  short int kTGul;
- kTGul = 1371447456;
+ kTGul = (short)1371447456;
     short int    R0S0c8Qj0t;
     R0S0c8Qj0t    =    1765880884;
   short  Lfl28;
@@ -48,7 +48,7 @@ int main(int argc, char** argv)
   unsigned long long  U5bn05H;
   U5bn05H  =  0;
     short    t3riV;
-    t3riV    =    -1758213536;
+    t3riV    =    (short)-1758213536;
  unsigned long long RX_S798q;
  RX_S798q = -1116423400;
 	unsigned long long	O0RR;
@@ -60,7 +60,7 @@ int main(int argc, char** argv)
     int    s5Flnn;
     s5Flnn    =    -1902408755;
 	char	z1YU7t;
-	z1YU7t	=	418520626;
+	z1YU7t	=	(char)418520626;
     unsigned long long    QCd9;
     QCd9    =    -1830808047;
  double bu0H31S6;
@@ -289,7 +289,7 @@ unsigned char  sH2eY0(short  p_DPBKNUtw,long long  gc1w3pEo)  {
 
 unsigned short int  d6Ke2iJT(unsigned short int  HO2jV_2,short int  nh71U,unsigned short  vZEYIDV2xF,long long  L4vBSEJLLt)
 {
-  return  -1439377973;
+  return  (unsigned short)-1439377973;
 }
 
 unsigned int    M5UPwp1b(unsigned long    m38C6220J3)

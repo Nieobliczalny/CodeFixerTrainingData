@@ -83,7 +83,7 @@ WP3h3Gu = G04EbI84 * RXs8n;
 while (i < 4);
 }
 
-VH9YAhwFi = l662(VH9YAhwFi, 1678692346, -373934944, -1934273473);
+VH9YAhwFi = l662(VH9YAhwFi, 1678692346, -373934944, (short)-1934273473);
 cout << OPIzD1V / ep9stJCI(1381456340) << endl;
 try
 {

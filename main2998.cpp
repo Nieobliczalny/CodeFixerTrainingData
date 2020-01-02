@@ -10,6 +10,7 @@ using namespace std;
 
 int main() {
     unsigned char    mxbVx10J    =    0;
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
     unsigned short    rdBu1_FAV7    =    1568147809,    WxB_0zd    =    -2072910654,    uv6hm7U    =    1520510603,    Lgw53Vj    =    1612040297,    Suc69X15C    =    -214661753,    m6TCR_xo    =    -147445011,    m8Hbvq    =    -1187421539,    PjWKuS    =    -1580695075,    Alj7y    =    1459802500,    p6_CYlSfp    =    -1407959052,    Jo15py    =    -646980219,    ogZM14P1    =    2030861152,    Gb52P    =    -721461314,    k2ks1KHI33    =    -126406417,    Gp0j6yXv    =    1625422350,    flR1rtrV3    =    482920243,    r8X4o5AX8    =    -205460282,    ABA4_BYdZu    =    853390417,    wGuUJ    =    1073348830,    SRNmMimdZ3    =    1969073808,    haRM6_5    =    -1162203704,    GKqv    =    -1915648382,    inV9mWnbx_    =    1166031419,    XJu106n4    =    -1107240822;
 
 m8Hbvq >>= WxB_0zd;

@@ -33,7 +33,7 @@ int main() {
 	long	RM_8_;
 	RM_8_	=	480292879;
     unsigned short    a3Tc8Y;
-    a3Tc8Y    =    -1670698491;
+    a3Tc8Y    =    (unsigned short)-1670698491;
  unsigned long K4dJO;
  K4dJO = 0;
  long double brW4;
@@ -43,7 +43,7 @@ int main() {
     unsigned short int    p_HspIGNNq;
     p_HspIGNNq    =    -700275556;
  unsigned char z19kZ59R;
- z19kZ59R = 1250135752;
+ z19kZ59R = (unsigned char)1250135752;
   unsigned long long  f2VFLW;
   f2VFLW  =  -229756689;
     long    aNkEbld;
@@ -55,7 +55,7 @@ int main() {
  short int I6iE6mr;
  I6iE6mr = -727693199;
  unsigned short nPgbr;
- nPgbr = 1813606956;
+ nPgbr = (unsigned short)1813606956;
 	unsigned char	FW710;
 	FW710	=	1321776677;
     float    l_EO;
@@ -81,7 +81,7 @@ int main() {
  unsigned char l1ma;
  l1ma = 1681710397;
  short itv9P;
- itv9P = 228401722;
+ itv9P = (short)228401722;
  unsigned long long niEn__;
  niEn__ = 0;
     long long    RAATt0A;
@@ -91,7 +91,7 @@ int main() {
     short int    EO8bDm;
     EO8bDm    =    -1560010730;
   char  BYO2z;
-  BYO2z  =  -1958389308;
+  BYO2z  =  (char)-1958389308;
  char Tco1UIOGbo;
  Tco1UIOGbo = 1109952473;
     char    Dn91HkK;
@@ -119,7 +119,7 @@ int main() {
  unsigned long long Gh6_8JDSw;
  Gh6_8JDSw = -1137043053;
   unsigned short  PVvd;
-  PVvd  =  1974923958;
+  PVvd  =  (unsigned short)1974923958;
 	long double	sVT30GLCsA;
 	sVT30GLCsA	=	1137703968;
 	unsigned short int	JfW3tIcat6;
@@ -137,7 +137,7 @@ int main() {
     short int    n9S9A53m;
     n9S9A53m    =    1263679295;
     short int    YrOWe4dwVT;
-    YrOWe4dwVT    =    420038700;
+    YrOWe4dwVT    =    (short)420038700;
  char P5MSvxT;
  P5MSvxT = 255405075;
  long TVC6d9732;
@@ -151,7 +151,7 @@ int main() {
 	short int	zf0UD46;
 	zf0UD46	=	333288476;
     short int    LV55_DCzJq;
-    LV55_DCzJq    =    343159511;
+    LV55_DCzJq    =    (short)343159511;
 	short	yz2hXjRvQ;
 	yz2hXjRvQ	=	-974983239;
 	unsigned long	Gk0x75Y;
@@ -189,7 +189,7 @@ case 1:
 PgPAAz = LYZdkqFQX(1472171133, -1845323655);
 break;
 case 2:
-niEn__ = t4f5aZ42(BYO2z, 1617748873, b40Ns);
+niEn__ = t4f5aZ42(BYO2z, (short)1617748873, b40Ns);
 break;
 case 3:
 JfW3tIcat6 &= Gh6_8JDSw;

@@ -456,7 +456,7 @@ while (j < 2);
 }
 else if ((mpFWC == c9R9s6) || ((c9R9s6 > M_q4vS) && (Qp8r)))
 {
-std::cout << "TM4jg8B" << Ksss31(bQntf3, p2KLS9e39, 1293724721) << HlOgB1Jr5(bQntf3) << DUBbbiwy7 << HlOgB1Jr5(1422882841) << std::endl;
+std::cout << "TM4jg8B" << Ksss31(bQntf3, p2KLS9e39, 1293724721) << HlOgB1Jr5(bQntf3) << DUBbbiwy7 << HlOgB1Jr5((unsigned short)1422882841) << std::endl;
 }
 else
 {
@@ -625,7 +625,7 @@ unsigned short HlOgB1Jr5(unsigned short int IBGn69bf) {
 }
 
 unsigned short    Ksss31(unsigned char    Xrcj,unsigned long    wj81m,unsigned char    GMsv6)    {
-    return    1634949689;
+    return    (unsigned short)1634949689;
 }
 
 short sMcfU2(long long ECJYsN,short Abdh0hZ82,long long S1t3kU) {

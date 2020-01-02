@@ -138,7 +138,7 @@ if (js5U_il9 < 1300022398)
 {
 try
 {
-L183h = I0EIp2G3s(-1454356687, LB6F, 1544696557, 1909884009, 748581721) >> 599068175;
+L183h = I0EIp2G3s(-1454356687, LB6F, (unsigned char)1544696557, 1909884009, 748581721) >> 599068175;
 }
 catch (int& errorCode)
 {
@@ -197,7 +197,7 @@ while (i >= 0);
 
 std::cout << "Dq9u_nj1" << OwEpfiCi << std::endl;
 AaL_ = I0EIp2G3s(-1058445661, e2xu4MMO5o, Wto11, ciMeo3Rm, -623732318);
-std::cout << D_dw62 << l8755() << EYayxXFq(425725409) << SeIs2K40P << std::endl;
+std::cout << D_dw62 << l8755() << EYayxXFq((unsigned short)425725409) << SeIs2K40P << std::endl;
 
 if (Ojr_3 <= kIxqs_GH)
 {
@@ -257,7 +257,7 @@ else if (Nmi9Ho != -1716792033)
 switch (qqV_23IWOW)
 {
 case 0:
-D_dw62 = (m0f7c_K1A6 & qqV_23IWOW) ? A0b8Lm : I0EIp2G3s(-1679910341, -857069056, 698446118, Ok7oVp4, Ojr_3);
+D_dw62 = (m0f7c_K1A6 & qqV_23IWOW) ? A0b8Lm : I0EIp2G3s(-1679910341, -857069056, (unsigned char)698446118, Ok7oVp4, Ojr_3);
 break;
 case 1:
 m0f7c_K1A6 = EYayxXFq(zcoT2eO);
@@ -281,7 +281,7 @@ case 7:
 qqV_23IWOW = EYayxXFq(LB6F);
 break;
 case 8:
-K9xPb = aYL3B1ljP(-414985011, 967978318, 679478456, 1921793067);
+K9xPb = aYL3B1ljP(-414985011, 967978318, (unsigned short)679478456, 1921793067);
 break;
 case 9:
 PQ1h = l8755();
@@ -349,7 +349,7 @@ else
 {
 for (int k = 5; k >= 0; --k)
 {
-DbGuuyqXf = aYL3B1ljP(-827450877, 1669706929, 1598051174, cpRb);
+DbGuuyqXf = aYL3B1ljP(-827450877, 1669706929, (unsigned short)1598051174, cpRb);
 }
 }
 }

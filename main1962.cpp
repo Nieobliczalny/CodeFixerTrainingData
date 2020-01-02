@@ -77,7 +77,7 @@ case 8:
 fZ_U66--;
 break;
 default:
-nadS = sXN01(63617899, 1777963898, 782536983);
+nadS = sXN01(63617899, (short)1777963898, 782536983);
 break;
 }
 try
@@ -110,7 +110,7 @@ EE5Srq4 = (int)abs(nadS);
 }
 else
 {
-nadS = sXN01(wz2wt1Z, 2047331939, -1018157682);
+nadS = sXN01(wz2wt1Z, (short)2047331939, -1018157682);
 }
 }
 catch (int& errorCode)
@@ -144,7 +144,7 @@ try
 {
 if ((dA3XGV5 == 1501268589) && (xK6_4 & -1479287919))
 {
-EE5Srq4 = sXN01(EE5Srq4, 2004023891, J9edjZ5fGc);
+EE5Srq4 = sXN01(EE5Srq4, (short)2004023891, J9edjZ5fGc);
 }
 else if ((fZ_U66 < 1162084918) || (BGN277 <= q_21jJVL))
 {
@@ -264,7 +264,7 @@ else
 {
 u0H9MdaY--;
 }
-cout << EE5Srq4 << sXN01(-1867875888, -1821747612, EE5Srq4) << "ozJ9r4BGiD" << JVXDow216W() << endl;
+cout << EE5Srq4 << sXN01(-1867875888, (short)-1821747612, EE5Srq4) << "ozJ9r4BGiD" << JVXDow216W() << endl;
 
 if (((m_uV01 >= 237876945) && (EE5Srq4 >= nadS)) || (J9edjZ5fGc))
 {
@@ -306,7 +306,7 @@ case 4:
 nadS = sXN01(546272752, wz2wt1Z, Q8d57eJ);
 break;
 case 5:
-CXLH3F8qU0 = sXN01(-1899839769, wz2wt1Z, Q8d57eJ) | 438185099;
+CXLH3F8qU0 = sXN01((unsigned char)-1899839769, wz2wt1Z, Q8d57eJ) | 438185099;
 break;
 }
 }
@@ -386,7 +386,7 @@ case 0:
 nadS = sXN01(-1648811610, m_uV01, dA3XGV5);
 break;
 case 1:
-nadS = sXN01(1493917202, 1079327175, nadS);
+nadS = sXN01((unsigned char)1493917202, 1079327175, nadS);
 break;
 case 2:
 c1T480 = JVXDow216W();
@@ -401,7 +401,7 @@ case 5:
 J9edjZ5fGc = l79Rw6Vcp ^ q_21jJVL;
 break;
 case 6:
-EE5Srq4 = sXN01(l79Rw6Vcp, -2063923105, 948501302);
+EE5Srq4 = sXN01(l79Rw6Vcp, (short)-2063923105, 948501302);
 break;
 case 7:
 q_21jJVL *= CXLH3F8qU0;
@@ -422,7 +422,7 @@ case 2:
 Q8d57eJ *= u0H9MdaY;
 break;
 case 3:
-Q05rvP2U = sXN01(-1342251417, 915754731, 249676228) / q_21jJVL;
+Q05rvP2U = sXN01(-1342251417, (short)915754731, 249676228) / q_21jJVL;
 break;
 case 4:
 nadS = sXN01(996568180, CXLH3F8qU0, dA3XGV5);
@@ -456,7 +456,7 @@ J9edjZ5fGc = xygX4 | 1684678199;
 break;
 case 'b':
 case 'B':
-EE5Srq4 = sXN01(639616501, 1614924060, xygX4);
+EE5Srq4 = sXN01(639616501, (short)1614924060, xygX4);
 break;
 case 'c':
 case 'C':
@@ -509,7 +509,7 @@ case 2:
 nadS = (int)abs(EE5Srq4);
 break;
 case 3:
-nadS = sXN01(2041108918, -1989931946, -1539520303);
+nadS = sXN01((unsigned char)2041108918, -1989931946, -1539520303);
 break;
 case 4:
 q_21jJVL *= nadS;

@@ -29,7 +29,7 @@ unsigned short int	YO71()
 }
 
 char pyvv4(int c4yNt2,int StqUA,unsigned short Ksb1c,unsigned int C1yF,unsigned long QHm82Mcy) {
- return -672462366;
+ return (char)-672462366;
 }
 
 unsigned short int aLYI4642W7() {
@@ -402,7 +402,7 @@ Mqq7CS07o7 = aLYI4642W7();
 
 cout << "AyQ_Y" << EQw2WYS8J8 << endl;
 
-O0_17_ = i5_RJXGud(302226427, -398867999, H7lvXvEcW);
+O0_17_ = i5_RJXGud(302226427, (char)-398867999, H7lvXvEcW);
 cout << Mqq7CS07o7 / H7lvXvEcW << endl;
 if (H7lvXvEcW)
 {
@@ -509,7 +509,7 @@ case 1:
 H7lvXvEcW = aLYI4642W7();
 break;
 case 2:
-l1MnyH4 = pyvv4(1936354926, Mqq7CS07o7, 1594919801, H7lvXvEcW, 823333409);
+l1MnyH4 = pyvv4(1936354926, Mqq7CS07o7, (unsigned short)1594919801, H7lvXvEcW, 823333409);
 break;
 case 3:
 O0_17_ = b5zqx4();

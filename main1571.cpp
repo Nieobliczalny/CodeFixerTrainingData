@@ -35,7 +35,7 @@ int main(void) {
     long    oS0I    =    1296941523;
 	long long	mzZm1p0366	=	-2125847103;
   unsigned short int  gmSu4x0_2  =  -219361666;
-  short int  YE4Y  =  298297041;
+  short int  YE4Y  =  (short)298297041;
 	unsigned long	HnqtN7	=	1958013718;
   unsigned char  zQ7tcEt  =  -863237425;
  short Llf1 = -1023536446;
@@ -46,7 +46,7 @@ int main(void) {
     long long    ie7g8_99K    =    -1321854684;
     unsigned char    tfv20OKR    =    -176653715;
  int K0XMg7dQ3 = 0;
-    short int    ECEVtHt3    =    -427816163;
+    short int    ECEVtHt3    =    (short)-427816163;
 
 std::cout << u0575Pq4k7(tfv20OKR, -1442659240, -250032380) << std::endl;
 
@@ -190,7 +190,7 @@ WTFu = u0575Pq4k7(-709077842, -1400250156, -359809422);
 switch (me9f6pJj)
 {
 case 'a':
-VPPRiw454M = u0575Pq4k7(-694989816, -568495599, 1501460847);
+VPPRiw454M = u0575Pq4k7(-694989816, -568495599, (short)1501460847);
 break;
 case 'b':
 VPPRiw454M = (int)floor(JQ4ZM6);

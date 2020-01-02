@@ -249,7 +249,7 @@ o8iP = DADy_(kc77, Qd4_w4a, pN_I0);
 }
 else
 {
-o8iP = DADy_(tk8Xk8P7Q, -281675853, 1438575902);
+o8iP = DADy_(tk8Xk8P7Q, -281675853, (unsigned char)1438575902);
 }
 }
 while (i < 1);
@@ -274,7 +274,7 @@ case 4:
 Q7o59n9 = (int)abs(h57nQ2_T);
 break;
 case 5:
-yNCX57 = DADy_(xEDQ7, VWN56ptN, 1838689889);
+yNCX57 = DADy_(xEDQ7, VWN56ptN, (unsigned char)1838689889);
 break;
 default:
 GBBHG = (int)ceil(JXwd491uI5);
@@ -338,7 +338,7 @@ while (k < 10);
 }
 else if (v_R_YiQhm)
 {
-o8iP = DADy_(LbxE462H, -229464021, -894183158);
+o8iP = DADy_(LbxE462H, -229464021, (unsigned char)-894183158);
 }
 else if (z9_I)
 {
@@ -416,7 +416,7 @@ for (int i = 0; i < 5; ++i)
 cout << z9_I << s_5ld_y2bK << DADy_(xEDQ7, o8iP, 78412544) << "V190pK0E" << endl;
 }
 
-cout << DADy_(xEDQ7, 471952297, -432160369) << Il13r3YOyg << Bg20J << DADy_(xEDQ7, 868251270, U6H7Z77nKE) << endl;
+cout << DADy_(xEDQ7, 471952297, (unsigned char)-432160369) << Il13r3YOyg << Bg20J << DADy_(xEDQ7, 868251270, U6H7Z77nKE) << endl;
 VWN56ptN = H19Bz342B / 1230985224;
 try
 {
@@ -451,7 +451,7 @@ if (Yg_8N0 < ia8o5oiQC)
 {
 try
 {
-cout << DADy_(-16421775, KpFV0_, a8_qH1v) << DADy_(z9_I, KpFV0_, 1999828822) << RNGrn5 << DADy_(1026086011, KpFV0_, 1647808443) << endl;
+cout << DADy_(-16421775, KpFV0_, a8_qH1v) << DADy_(z9_I, KpFV0_, 1999828822) << RNGrn5 << DADy_(1026086011, KpFV0_, (unsigned char)1647808443) << endl;
 }
 catch (int& errorCode)
 {

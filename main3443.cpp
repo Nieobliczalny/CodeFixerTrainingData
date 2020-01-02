@@ -35,7 +35,7 @@ short na1M(unsigned long long Yl6LPX6,short q_jce,unsigned long long c8wv75wP,in
 
 int main(void) {
  int dah_H6b62 = 690014367;
-	char	VGcwdYG	=	-1025583777;
+	char	VGcwdYG	=	(char)-1025583777;
  char hcP8 = -1004463262;
   short int  UB_b0lxb  =  133642101;
     short int    C5_by    =    885107143;
@@ -45,7 +45,7 @@ int main(void) {
 	int	RQe8Nfs35t	=	1346493752;
   double  ZPBKEid  =  1028243709;
   short  HI9Q  =  97826469;
-	short int	Q39JS	=	1046064179;
+	short int	Q39JS	=	(short)1046064179;
     float    o0q43_uYu    =    -1299751261;
 	short	c_3Qg4HP0e	=	712912306;
     int    wvh3QGTw    =    0;
@@ -56,7 +56,7 @@ int main(void) {
  char haxmfPR = -1409048928;
  short kArBi5X = -1499140091;
  unsigned int jd_Kc = 928902189;
-	short int	iyIU8	=	-904214986;
+	short int	iyIU8	=	(short)-904214986;
   long long  jRLsAUg__  =  -1072095899;
     int    qOQV706L    =    771608424;
   unsigned int  p0wS5tX  =  0;
@@ -68,7 +68,7 @@ int main(void) {
  unsigned short int W1q2r8 = 106353196;
     unsigned long    r7Oif3uFF    =    -1228935979;
   long double  Z28JL9J  =  -1018161617;
-	unsigned char	a_v8M	=	310530001;
+	unsigned char	a_v8M	=	(unsigned char)310530001;
 
 {
 int i = 10;
@@ -127,7 +127,7 @@ for (int j = 0; j < 7; ++j)
 switch (VGcwdYG)
 {
 case 'a':
-nEmY = rnO469M(-363263244, -1554772724, -1847264757);
+nEmY = rnO469M(-363263244, -1554772724, (short)-1847264757);
 break;
 default:
 SjfbM_cSS &= 1202674544;
@@ -198,7 +198,7 @@ HI9Q = hcP8 >> 224644867;
 }
 else
 {
-H6NKVI = rnO469M(-1055203294, 1357840328, -1807148937);
+H6NKVI = rnO469M(-1055203294, (unsigned char)1357840328, -1807148937);
 }
 }
 catch (int& errorCode)
@@ -228,7 +228,7 @@ ZPBKEid = j7PnB(-1661837648);
 }
 else if (c_3Qg4HP0e & C5_by)
 {
-dah_H6b62 = Ggui0Fih3L(-414096535, nEmY, -1005673289, JDK7t, 1229928250);
+dah_H6b62 = Ggui0Fih3L(-414096535, nEmY, (unsigned short)-1005673289, JDK7t, 1229928250);
 }
 else if (jRLsAUg__)
 {
@@ -359,7 +359,7 @@ H6NKVI = rnO469M(H6NKVI, VGcwdYG, Z28JL9J);
 }
 for (int i = 4; i >= 0; i--)
 {
-nEmY = rnO469M(1191190710, -92652779, 24618380);
+nEmY = rnO469M(1191190710, -92652779, (short)24618380);
 }
 
 try
@@ -463,7 +463,7 @@ case 'a':
 jRLsAUg__ = Ggui0Fih3L(jRLsAUg__, -1499693699, -700566291, jd_Kc, 1798855443);
 break;
 case 'b':
-JDK7t = na1M(1450289737, 949432557, haxmfPR, -879367949);
+JDK7t = na1M(1450289737, (short)949432557, haxmfPR, -879367949);
 break;
 case 'c':
 wvh3QGTw = rnO469M(791623848, hcP8, -1874685543);

@@ -61,7 +61,7 @@ case 'b':
 C3ArWN__U = Nr2lsQ();
 break;
 case 'c':
-a8CFNS44 = Fb7CDk(-1973738267, 1252225281, -540696367, 1809160394, f_tYhUOmJ);
+a8CFNS44 = Fb7CDk(-1973738267, (unsigned short)1252225281, -540696367, 1809160394, f_tYhUOmJ);
 break;
 case 'd':
 Z07W8q2 *= GZZe34a;
@@ -164,7 +164,7 @@ else if (C2caoRbTo_ != -208541169)
 switch (f_tYhUOmJ)
 {
 case 0:
-C2caoRbTo_ = Fb7CDk(fEYC, 68911252, -393822087, pctKQ, v3f6rI80vq);
+C2caoRbTo_ = Fb7CDk(fEYC, 68911252, (unsigned char)-393822087, pctKQ, v3f6rI80vq);
 break;
 case 1:
 EZl5o9tI = Z07W8q2 / 1689142035;
@@ -220,7 +220,7 @@ if ((jxVMNoCi3) && (EKSXc9D8 & 568714406))
 int k = 0;
 while (k < 9)
 {
-qX_m = Fb7CDk(-942507593, -656034012, mFP3PHN, WfjJ1f6QJ5, 452659991);
+qX_m = Fb7CDk(-942507593, (unsigned short)-656034012, mFP3PHN, WfjJ1f6QJ5, 452659991);
 ++k;
 }
 }
@@ -277,7 +277,7 @@ r6qW3 = (unsigned long long)(a8CFNS44 + (1422927365));
 v3f6rI80vq *= pctKQ;
 v3f6rI80vq--;
 
-qX_m = Fb7CDk(-317770910, WHWGG40, 458234988, cqP6, 1608130688);
+qX_m = Fb7CDk(-317770910, WHWGG40, (unsigned char)458234988, cqP6, 1608130688);
 
 pctKQ = Fb7CDk(-1984276916, -270142227, pvaaL, -270931248, dEH_Q);
 
@@ -289,7 +289,7 @@ else
 {
 for (int j = 6; j >= 0; j--)
 {
-pctKQ = Fb7CDk(-653140048, v3f6rI80vq, 997147783, 2008730975, E_17Xfv_);
+pctKQ = Fb7CDk(-653140048, v3f6rI80vq, (unsigned char)997147783, 2008730975, E_17Xfv_);
 }
 }
 C3ArWN__U <<= pvaaL;
@@ -310,7 +310,7 @@ pctKQ = Fb7CDk(pctKQ, -1115561849, pLJUo7187, -534264647, -1737407232);
 }
 while (i < 7);
 }
-C2caoRbTo_ = Fb7CDk(GZZe34a, fEYC, -1498586858, 111101180, f_tYhUOmJ);
+C2caoRbTo_ = Fb7CDk(GZZe34a, fEYC, (unsigned char)-1498586858, 111101180, f_tYhUOmJ);
 v3f6rI80vq = Nr2lsQ();
 
 gZkV_qhs5 |= jxVMNoCi3;
@@ -378,7 +378,7 @@ A6Zyeb8D9--;
 break;
 case 'e':
 case 'E':
-C2caoRbTo_ = Fb7CDk(1905811972, 1579301820, ruafsfv7, -554013909, vqTYDg6);
+C2caoRbTo_ = Fb7CDk(1905811972, (unsigned short)1579301820, ruafsfv7, -554013909, vqTYDg6);
 break;
 case 'f':
 case 'F':
@@ -390,7 +390,7 @@ GZZe34a = EZl5o9tI + 202413260;
 break;
 case 'h':
 case 'H':
-a8CFNS44 = Fb7CDk(-1335951199, pLJUo7187, -2089794035, WHWGG40, 612078698);
+a8CFNS44 = Fb7CDk(-1335951199, pLJUo7187, (unsigned char)-2089794035, WHWGG40, 612078698);
 break;
 }
 {
@@ -402,7 +402,7 @@ if (a8CFNS44)
 {
 try
 {
-a8CFNS44 = Fb7CDk(Z07W8q2, 854513915, -526182507, mFP3PHN, -1747785605);
+a8CFNS44 = Fb7CDk(Z07W8q2, 854513915, (unsigned char)-526182507, mFP3PHN, -1747785605);
 }
 catch (int& errorCode)
 {

@@ -18,7 +18,7 @@ char	HOhw(unsigned int	s_ibz6)
 }
 
 unsigned short vC7s7Z2Q() {
- return 640356383;
+ return (unsigned short)640356383;
 }
 
 unsigned short int	SM183Z(short	Pau7)
@@ -29,6 +29,7 @@ unsigned short int	SM183Z(short	Pau7)
 int main()
 {
   unsigned short  buv5zQlQS  =  0,  Z8op  =  0,  CAS9  =  0,  Izkt  =  0,  BoTe  =  0;
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
 	char	z4EN_s9L	=	1935043068,	A3V085j7	=	1164924638,	LkJRR8v	=	-1842653616,	JHgx1X83L	=	62147375,	FO_9WM73Nd	=	-460871346,	yI6tc3D	=	-315584418,	fDf72sGRav	=	543087349,	X2513G3	=	1274961505,	KW2h_P1	=	-1335457726,	RA9heTv3	=	-1999032289,	i3xEy9V	=	-1772027825,	uIV4DTq	=	-911776400,	wFT76YL8	=	-1068855617,	N9OF8	=	-1140503883,	Q3A4f_	=	-1854913020,	E_9DQ62	=	600635084,	o2diI9	=	-462109157,	JhtU	=	-1397078871,	n1KH9c5	=	422772470,	AqPn	=	-261625725,	a81kQA	=	-1321975811,	l_aHc3Q6	=	-111501365,	II_h7	=	497183573,	NAWS0_M6Y	=	910213666,	hm6tKt	=	1898162111,	QwfEw8_o	=	1977690299,	miiY7zy34	=	-1543901868,	qXx_7gL_	=	1302156172,	x8A3wF_I4	=	168805304,	H9m4	=	-820115839,	NsmV	=	366198039,	AlSV88D5o	=	1217493996,	HtTF	=	-938021945,	ws0S_m7dL0	=	-209936947,	JWW5	=	-1118438581,	JrBSf9Um12	=	2114462259,	Bn7SCj_B	=	-92599843,	P7L_WI659	=	1669304056,	C0AJ76_o70	=	-388770234,	bD13	=	508340179,	S1o2vmKe	=	1211280040,	P_T08SSDE2	=	1897422132,	h6VwL	=	-800127520,	clO4	=	-718930974,	RoKHmmC	=	-1351061392,	yA5L	=	980160760,	i7k42p7	=	-551399887,	B2ofDc3	=	-2133130994,	wBGF7Pg	=	-1100514380,	enaWch1fs	=	169832858,	T0Y5	=	-524118395,	x6fCD	=	1577781134,	ERc9Yl	=	1315993394,	N8SJfiWx	=	16246005;
 
 if ((-888443426 / Izkt) == -1000745968)
@@ -85,7 +86,7 @@ while (j >= 0)
 {
 try
 {
-buv5zQlQS = trCoojEv1J(n1KH9c5, 572544080, bD13, -448483834);
+buv5zQlQS = trCoojEv1J(n1KH9c5, 572544080, bD13, (char)-448483834);
 }
 catch (int& errorCode)
 {
@@ -218,7 +219,7 @@ JhtU = HOhw(653900250);
 }
 if (LkJRR8v >= -791644701)
 {
-std::cout << "QfeHt1Z" << trCoojEv1J(JhtU, -919184676, miiY7zy34, -883048696) << "C_qRvoYP" << P_T08SSDE2 << SM183Z(JhtU) << std::endl;
+std::cout << "QfeHt1Z" << trCoojEv1J(JhtU, -919184676, miiY7zy34, (char)-883048696) << "C_qRvoYP" << P_T08SSDE2 << SM183Z(JhtU) << std::endl;
 }
 else
 {

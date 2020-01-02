@@ -20,7 +20,7 @@ long    Mg68_WQ(unsigned short    oQryIx);
 int main(int argc, char** argv) {
  char uqNbep6_S = 0;
     short int    o7lXvm    =    267687991;
-    char    Yi8aEv    =    -553116802;
+    char    Yi8aEv    =    (char)-553116802;
     unsigned long long    IP48__L    =    2076873376;
   float  Fol4s8y0P  =  937780782;
   long long  PLw_O  =  0;
@@ -37,7 +37,7 @@ int main(int argc, char** argv) {
     unsigned long long    z66_6TWD7    =    -1211985166;
   char  HpbE  =  -759098622;
     unsigned long long    B117S    =    358855466;
-	short int	uaW876u_lo	=	-1981800649;
+	short int	uaW876u_lo	=	(short)-1981800649;
 	short	DyaXyCo	=	1651186821;
 	unsigned short int	F5A52hV1D	=	631827434;
   char  NwJp7jU  =  1300935808;
@@ -210,7 +210,7 @@ j--;
 }
 else
 {
-FZx_02CBgV = Mg68_WQ(276294607);
+FZx_02CBgV = Mg68_WQ((unsigned short)276294607);
 }
 
 Z3hh = Mg68_WQ(178381658);
@@ -339,7 +339,7 @@ case 5:
 OjF2Y /= 1239235571;
 break;
 default:
-F5A52hV1D = Mg68_WQ(1164838732);
+F5A52hV1D = Mg68_WQ((unsigned short)1164838732);
 break;
 }
 

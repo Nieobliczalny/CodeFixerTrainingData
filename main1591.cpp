@@ -18,6 +18,7 @@ short int i8U7I0AVr();
 
 int main() {
 	char	hTgu_	=	0,	ZBU1__Q2H	=	0,	RnROe5esvm	=	0,	DNS3c	=	0;
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
   short  iGeW0_5  =  1426811058,  rgo0_5  =  256470201,  o2jcY9y  =  466167158,  Xf0UZ  =  -305816199,  W5PL  =  -930390480,  g9oI54  =  1235002522,  M1i_5H  =  -428249128,  u38N3  =  -817700144,  umBH6ZE7gr  =  -432871144,  Cy_yK5riK3  =  725476141,  jkZwmNCb06  =  894554081,  P8QRbCp7b  =  -299586496,  MF084  =  792326224,  Q1D5  =  918640190,  tIDD5uiYa  =  1339542600,  U_Q5Q4  =  435183386,  z36Tb  =  -695320044,  dTG8Z1  =  -788616673,  G2lxT  =  1611078124,  BQZ2Qu  =  1206984958,  ccW7W1Q  =  -1762792089,  oh3Tr1  =  -1017148347,  X66T1W  =  1838314515,  uMyGw_9850  =  651999977,  c70hEeO4  =  -1756910717,  dfQXM97hu  =  -1889215853;
 
 for (int i = 3; i >= 0; --i)
@@ -194,7 +195,7 @@ case 'h':
 dfQXM97hu &= umBH6ZE7gr;
 break;
 case 'i':
-DNS3c = y4msCL(1278086838, G2lxT, 450696586);
+DNS3c = y4msCL((short)1278086838, G2lxT, 450696586);
 break;
 case 'j':
 dTG8Z1 = i8U7I0AVr();
@@ -209,7 +210,7 @@ break;
 int i = 4;
 while (i >= 0)
 {
-ZBU1__Q2H = y4msCL(u38N3, ZBU1__Q2H, -472195454);
+ZBU1__Q2H = y4msCL(u38N3, ZBU1__Q2H, (short)-472195454);
 --i;
 }
 }

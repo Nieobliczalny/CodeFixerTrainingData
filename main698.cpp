@@ -32,7 +32,7 @@ int r9IO4V(unsigned long long OxnYy9i9S5) {
 int main()
 {
 	unsigned short	DPE2VBI_	=	-97021581;
-    short    Z53R_BCiN    =    768143631;
+    short    Z53R_BCiN    =    (short)768143631;
     unsigned int    Y1wTD_Do3e    =    247899780;
     unsigned short int    J3NMEK    =    170147715;
 	short	Ij22p5h08	=	393606587;
@@ -49,7 +49,7 @@ int main()
     long long    xHh_3tow5i    =    1803943112;
   unsigned long long  O8rgJFk  =  -945905890;
     unsigned long    r9_Acu    =    -2016990873;
- short XW6933e1za = 833186376;
+ short XW6933e1za = (short)833186376;
   float  rW_70LDD  =  -728207357;
   short int  dT8u4  =  1307540564;
     int    MJ1_A_E1l_    =    1764498595;
@@ -68,7 +68,7 @@ int main()
  unsigned long long MEhA5L12g = -430836496;
 	float	WY7iO_34	=	1936348294;
 	unsigned int	Mw3I57jA7	=	-585604597;
- short int h5k283ak = 905463333;
+ short int h5k283ak = (short)905463333;
   float  n2s7K0ZOV  =  -318719458;
 
 for (int i = 0; i < 7; ++i)
@@ -444,7 +444,7 @@ fm09M9R = xab9v9e(-13638710);
 switch (fm09M9R)
 {
 case 'a':
-m2Bv13 = jAIrtV9qz(-166630680, 2121044604, -904303815) << Y1wTD_Do3e;
+m2Bv13 = jAIrtV9qz(-166630680, (short)2121044604, -904303815) << Y1wTD_Do3e;
 break;
 case 'b':
 josi85le = O8rgJFk << 767910497;

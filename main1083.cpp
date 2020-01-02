@@ -18,7 +18,7 @@ int main() {
 
 i2R0za = F_QT(616245284, -1444944714);
 
-cout << KvUK(i2R0za, -277087941) << endl;
+cout << KvUK(i2R0za, (unsigned short)-277087941) << endl;
 {
 int i = 2;
 do
@@ -45,7 +45,7 @@ case 0:
 v42R9 = F_QT(1493996961, -865374135);
 break;
 case 1:
-FVA_8Ud8n = KvUK(155338948, -803939265);
+FVA_8Ud8n = KvUK((unsigned short)155338948, -803939265);
 break;
 case 2:
 FGmO78l = h3Pd31y4av - y7ayA6;
@@ -89,7 +89,7 @@ catch (int& errorCode)
 {
 v42R9 = GBGuc_S / 509793971;
 }
-X6o0F4I = F_QT(872712119, -627932844);
+X6o0F4I = F_QT((unsigned short)872712119, -627932844);
 
 GBGuc_S /= O5ujKMsi53;
 cout << F_QT(X6o0F4I, 1412757793) << KvUK(X6o0F4I, -1571643307) << endl;
@@ -142,7 +142,7 @@ KS50Uo_n2 -= Q87Z277;
 }
 else if (jIeBP1Ae != qdQJfs)
 {
-s1aXYF801 = KvUK(-1840972718, -1035552209);
+s1aXYF801 = KvUK(-1840972718, (unsigned short)-1035552209);
 }
 else
 {
@@ -205,7 +205,7 @@ I6iHbxRb = (int)ceil(O5ujKMsi53);
 }
 
 cout << a3y4Xv7rI << irgcS3I0D << F_QT(s1aXYF801, N_1_uf2) << F_QT(823941134, N_1_uf2) << "Knn_XER" << endl;
-eeyaS3j = KvUK(jqySUS86, 1498288698);
+eeyaS3j = KvUK(jqySUS86, (unsigned short)1498288698);
 if (KSV999 >= -768144830)
 {
 try
@@ -269,7 +269,7 @@ if (X6o0F4I <= nxbN2R3b)
 {
 if ((WlE9BG0a > i3fbK) || (e6_2j4 < 1374561874))
 {
-cout << ibi4i932 << KvUK(1556384256, -197079139) << endl;
+cout << ibi4i932 << KvUK(1556384256, (unsigned short)-197079139) << endl;
 }
 else
 {
@@ -292,7 +292,7 @@ else
 cout << "gRQ1u" << KSV999 << "JWxQka5G28" << KvUK(ibi4i932, -1120575777) << twE6iBZB53 << endl;
 }
 
-ubX2rt = yvB14l / KvUK(ibi4i932, -1125726278);
+ubX2rt = yvB14l / KvUK(ibi4i932, (unsigned short)-1125726278);
 
 eeyaS3j = KvUK(v42R9, q77H);
 

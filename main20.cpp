@@ -45,7 +45,7 @@ for (int i = 0; i < 5; ++i)
 {
 if (p4hxBJHyM != -864756415)
 {
-std::cout << "vkpvRk8x" << y7777 << lFWEWkp9(p4hxBJHyM, y7777, 241264590, -365068885, 1939025459) << std::endl;
+std::cout << "vkpvRk8x" << y7777 << lFWEWkp9(p4hxBJHyM, y7777, 241264590, -365068885, (unsigned short)1939025459) << std::endl;
 }
 else
 {
@@ -67,7 +67,7 @@ case 0:
 p4hxBJHyM = (int)abs(L7dwrA_q_I) + (-295016149);
 break;
 case 1:
-p4hxBJHyM = lFWEWkp9(1299483298, 1668677837, -511945027, y7777, -1923776546);
+p4hxBJHyM = lFWEWkp9(1299483298, 1668677837, -511945027, y7777, (unsigned short)-1923776546);
 break;
 case 2:
 p4hxBJHyM = p4hxBJHyM & 1471867034;
@@ -94,7 +94,7 @@ break;
 }
 else
 {
-std::cout << "yo0C8m" << ui3CODor << lFWEWkp9(WZW12SF, L7dwrA_q_I, -271380818, O5hw, -229135063) << "Rvr5O5" << std::endl;
+std::cout << "yo0C8m" << ui3CODor << lFWEWkp9(WZW12SF, L7dwrA_q_I, (char)-271380818, O5hw, -229135063) << "Rvr5O5" << std::endl;
 }
 p4hxBJHyM |= 580622862;
 
@@ -228,7 +228,7 @@ default:
 p4hxBJHyM++;
 break;
 }
-p4hxBJHyM = lFWEWkp9(O5hw, WZW12SF, y7777, -1878332021, -129257884);
+p4hxBJHyM = lFWEWkp9(O5hw, WZW12SF, y7777, -1878332021, (unsigned short)-129257884);
 for (int i = 0; i < 10; i++)
 {
 std::cout << lFWEWkp9(O5hw, 1359439198, 668295933, L7dwrA_q_I, 1469091673) << ui3CODor << std::endl;
@@ -373,7 +373,7 @@ y7777 = axASsvH_4(1878901660, -82693372);
 
 for (int i = 0; i < 8; ++i)
 {
-p4hxBJHyM = lFWEWkp9(90355038, -1675772637, -1828764184, L7dwrA_q_I, 1693271752);
+p4hxBJHyM = lFWEWkp9(90355038, -1675772637, -1828764184, L7dwrA_q_I, (unsigned short)1693271752);
 }
 
 switch (L7dwrA_q_I)
@@ -417,7 +417,7 @@ L7dwrA_q_I = (long long)(Z44qDbdzI);
 int i = 0;
 while (i < 2)
 {
-std::cout << lFWEWkp9(WZW12SF, -1626292231, -927480741, L7dwrA_q_I, -1843985650) << "HoU44" << std::endl;
+std::cout << lFWEWkp9(WZW12SF, -1626292231, -927480741, L7dwrA_q_I, (unsigned short)-1843985650) << "HoU44" << std::endl;
 ++i;
 }
 }

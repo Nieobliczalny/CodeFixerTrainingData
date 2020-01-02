@@ -12,6 +12,7 @@ short int	q4GpJP(short	YZhH_k,short int	Tl_nPS4,unsigned int	RSgDC,short int	luj
 
 int main(int argc, char** argv)
 {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
  short int fr75Cm06 = -1138185525, zI1240Y4hM = 928716584, lK_z0 = -1171621754, Eqk8_0W5 = 1734817424, qa2_5A = -1684690567, LJgX4 = -1167294724, n59pUHX1 = -209647348, gUC4 = 652135288, KhxY686U = 1994288781, N7_5Nto38U = 1542325128, aLrMD4y6E = -1420140648, J9rg7kIc = 9566398, dZIF6zNt = 1038105736, ZZ7208H6 = 790180783, bKNmX7w = -629972754, d5thxfXR = -786455759, Xbreb5YV9 = 866224629, rV62yNT4 = 885241691, jWgbMXiL = -731649600, OI6xS6Ylqd = 1997113465, yQ_h4reAG = 1771675334, h1xC1R = 1730576313, x7l6FI = 915587110, g5E9Sp = 602986779, Ri0Au = -627047315, l5E3ag = -1037063481, XxcaP6N = -848061194, iOr8 = -342438463, cK3VR709 = 508208018, no8u5 = 351686219, dcvD03 = -622403225, Rh_8Edqity = -1490757770, Vc409ZjWP = -1743541818, m6xE3 = 804650989, M50e = 511564856, q1G51 = -1599134971, q6lXuq = -1060989919, M0kI = 1712862882, Sz9A8i2 = -2143235978, usSvjA9a7o = 1519402645, Xv32Lw = -1078051313, y5F3gv3N3 = -370366585, r73InmYi58 = -1942175438, DF5b_teAo0 = -1731173625, A32gEr3 = -2045069689, mWkZ = -1015135064, j_ZF59o6K = -777998346, b73_4tS = -1633186139, WKTl81mG8 = -1461606606, jrQkew2p = -1643780398, mrOE = 1163660510;
     unsigned long long    gfzk3f84    =    0,    e_v1T539qp    =    0,    Kh69FX89u    =    0,    qFi_TXTip    =    0,    Rd_Ec_u3_i    =    0;
 
@@ -42,7 +43,7 @@ if ((g5E9Sp != apq0) && (aLrMD4y6E & apq0))
 {
 if (iOr8 <= Xv32Lw)
 {
-Rd_Ec_u3_i = q4GpJP(-894317117, 1341751422, rV62yNT4, n59pUHX1);
+Rd_Ec_u3_i = q4GpJP(-894317117, (short)1341751422, rV62yNT4, n59pUHX1);
 }
 else if ((mWkZ & 1772372219) || (jrQkew2p >= -1000878138))
 {
@@ -66,7 +67,7 @@ N7_5Nto38U = l5E3ag % 239953651;
 }
 else
 {
-Kh69FX89u = q4GpJP(usSvjA9a7o, 801678527, Rh_8Edqity, 646702699);
+Kh69FX89u = q4GpJP(usSvjA9a7o, 801678527, Rh_8Edqity, (short)646702699);
 }
 }
 }
@@ -80,7 +81,7 @@ do
 int k = 0;
 do
 {
-qFi_TXTip = q4GpJP(1031903178, -873052702, 1365618592, -325247340);
+qFi_TXTip = q4GpJP(1031903178, (short)-873052702, 1365618592, -325247340);
 k++;
 }
 while (k < 7);
@@ -195,7 +196,7 @@ do
 i++;
 for (int j = 5; j >= 0; --j)
 {
-Rd_Ec_u3_i = q4GpJP(1904656804, -1016395881, m6xE3, rV62yNT4);
+Rd_Ec_u3_i = q4GpJP(1904656804, (short)-1016395881, m6xE3, rV62yNT4);
 }
 }
 while (i < 10);
@@ -215,7 +216,7 @@ case 0:
 e_v1T539qp = q4GpJP(KhxY686U, 1344457669, 1236059445, r73InmYi58);
 break;
 case 1:
-Rd_Ec_u3_i = q4GpJP(y5F3gv3N3, fr75Cm06, mrOE, -821950145);
+Rd_Ec_u3_i = q4GpJP(y5F3gv3N3, fr75Cm06, mrOE, (short)-821950145);
 break;
 case 2:
 Vc409ZjWP >>= 61298094;
@@ -227,7 +228,7 @@ case 4:
 yQ_h4reAG = r73InmYi58 / Xbreb5YV9;
 break;
 default:
-Rd_Ec_u3_i = q4GpJP(mWkZ, 1396339290, ZZ7208H6, -1044086537);
+Rd_Ec_u3_i = q4GpJP(mWkZ, 1396339290, ZZ7208H6, (short)-1044086537);
 break;
 }
 i--;
@@ -238,7 +239,7 @@ Rd_Ec_u3_i = q4GpJP(-713900068, h1xC1R, M50e, g5E9Sp);
 
 try
 {
-qFi_TXTip = q4GpJP(-1238986601, qFi_TXTip, rV62yNT4, 820166604);
+qFi_TXTip = q4GpJP(-1238986601, qFi_TXTip, rV62yNT4, (short)820166604);
 }
 catch (int& errorCode)
 {

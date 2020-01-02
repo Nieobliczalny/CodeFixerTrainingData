@@ -31,7 +31,7 @@ case 'b':
 dMQ8j_2 *= aNcO2;
 break;
 case 'c':
-cSzt5z = Mj67(-408323609, 1207880820, 557440543, 1799380139);
+cSzt5z = Mj67(-408323609, (short)1207880820, 557440543, 1799380139);
 break;
 case 'd':
 QsJ4CXOv = (int)ceil(VyZ2q);
@@ -313,7 +313,7 @@ wv03QW6x9 = (int)abs(VyZ2q);
 break;
 case 'e':
 case 'E':
-t_8RP_G5g7 = Mj67(1576456236, 457596296, l0h8x7iWNb, -1776017051);
+t_8RP_G5g7 = Mj67(1576456236, (short)457596296, l0h8x7iWNb, -1776017051);
 break;
 case 'f':
 case 'F':

@@ -13,7 +13,7 @@ unsigned short int v0s17BAa2(short yiK8Ps_) {
 }
 
 char  exVIT7()  {
-  return  1483455795;
+  return  (char)1483455795;
 }
 
 char    QBB457(unsigned int    RAI348y55)
@@ -34,7 +34,7 @@ short int	rANb(unsigned long long	Nq41mY,short	kKQww_gzM)
 int main(int argc, char** argv)
 {
   unsigned char  xJ_4VYB9;
-  xJ_4VYB9  =  802541272;
+  xJ_4VYB9  =  (unsigned char)802541272;
 	int	Da__2RB;
 	Da__2RB	=	-2116766450;
     int    ZPxhV_t5L;
@@ -44,7 +44,7 @@ int main(int argc, char** argv)
  unsigned long long ms22;
  ms22 = -142217084;
   unsigned short  cU5K2oD;
-  cU5K2oD  =  -895572690;
+  cU5K2oD  =  (unsigned short)-895572690;
 	long long	Bb7eB;
 	Bb7eB	=	1709197315;
 	unsigned short int	lX3U5;
@@ -76,7 +76,7 @@ int main(int argc, char** argv)
  unsigned short IIp0J6isc;
  IIp0J6isc = -1417739003;
   short int  t9_9E753;
-  t9_9E753  =  105358277;
+  t9_9E753  =  (short)105358277;
   unsigned char  az52C;
   az52C  =  1841833186;
 	short	xgo9S3O;
@@ -98,7 +98,7 @@ int main(int argc, char** argv)
     unsigned int    VtT4lzpZ3;
     VtT4lzpZ3    =    37674523;
  unsigned char B302IhxY;
- B302IhxY = -1285894742;
+ B302IhxY = (unsigned char)-1285894742;
     short    xCMh;
     xCMh    =    414285949;
 	int	lb17mzSN6c;
@@ -116,7 +116,7 @@ int main(int argc, char** argv)
     long    I5Tg;
     I5Tg    =    -868421062;
     unsigned short int    f0rr6JUIyC;
-    f0rr6JUIyC    =    918886245;
+    f0rr6JUIyC    =    (unsigned short)918886245;
   long  yqstk;
   yqstk  =  1724638363;
   double  jO5C_864u;
@@ -297,7 +297,7 @@ ZxxZyLq__ /= ZxxZyLq__;
 break;
 case 'e':
 case 'E':
-b8LV2Tl = Kv56on9R9(-2007415534, -1886810128, HfPjlBG2w8, 926673884);
+b8LV2Tl = Kv56on9R9(-2007415534, (char)-1886810128, HfPjlBG2w8, 926673884);
 break;
 case 'f':
 case 'F':
@@ -326,7 +326,7 @@ for (int i = 0; i < 1; ++i)
 {
 cout << f0rr6JUIyC << rANb(-763520845, 2128488805) << endl;
 }
-if (Kv56on9R9(I5Tg, -1880043111, gi1B3, c9M52g) == 0)
+if (Kv56on9R9(I5Tg, (char)-1880043111, gi1B3, c9M52g) == 0)
 {
 	gi1B3 = Kv56on9R9(I5Tg, kogC98, gi1B3, 2017842300) / Kv56on9R9(I5Tg, -1880043111, gi1B3, c9M52g);
 }

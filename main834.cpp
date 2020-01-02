@@ -25,7 +25,7 @@ int main(void) {
 	short int	O383X;
 	O383X	=	-1422528478;
   short  FohD387M0;
-  FohD387M0  =  627761760;
+  FohD387M0  =  (short)627761760;
   long double  kFUNs5M;
   kFUNs5M  =  1268495949;
  int SDCV8;
@@ -40,7 +40,7 @@ if (SDCV8 == -1652420405)
 switch (SDCV8)
 {
 case 0:
-SDCV8 = i870k6C43g(-1618687475, qu9J8, 60327711, 438501005);
+SDCV8 = i870k6C43g(-1618687475, qu9J8, 60327711, (unsigned char)438501005);
 break;
 case 1:
 O383X = v13i - kFUNs5M;
@@ -52,7 +52,7 @@ case 3:
 p935J0--;
 break;
 case 4:
-SDCV8 = i870k6C43g(-301820934, -588097802, 1444082137, 2048631701) ^ O383X;
+SDCV8 = i870k6C43g(-301820934, -588097802, 1444082137, (unsigned char)2048631701) ^ O383X;
 break;
 case 5:
 kFUNs5M = (int)abs(O383X);
@@ -154,7 +154,7 @@ case 2:
 p935J0 = (int)abs(O383X);
 break;
 case 3:
-O383X = i870k6C43g(-565013158, SDCV8, 265471804, FohD387M0);
+O383X = i870k6C43g(-565013158, SDCV8, (unsigned char)265471804, FohD387M0);
 break;
 case 4:
 O383X = C6bsTQx3 | 2040703413;
@@ -166,7 +166,7 @@ break;
 FohD387M0 = (FohD387M0) ? p935J0 : O383X;
 
 std::cout << qu9J8 << fNM2xa8i(528592077, 409988630, 568574165, E1OBgWu8dS) << kFUNs5M << std::endl;
-O383X = i870k6C43g(O383X, 1222876565, 819827379, 166640073) & C6bsTQx3;
+O383X = i870k6C43g(O383X, 1222876565, (unsigned char)819827379, 166640073) & C6bsTQx3;
 
 kFUNs5M -= 327118377;
 
@@ -197,7 +197,7 @@ p935J0 = C6bsTQx3 - v13i;
 }
 SDCV8 = i870k6C43g(-1977493236, -1899208450, -1313076369, v13i);
 SDCV8 = FohD387M0 % E1OBgWu8dS;
-std::cout << fNM2xa8i(710030114, -1904635332, -1166896744, v13i) << "J1XQ8sTH3" << FohD387M0 << std::endl;
+std::cout << fNM2xa8i(710030114, (unsigned short)-1904635332, -1166896744, v13i) << "J1XQ8sTH3" << FohD387M0 << std::endl;
 
 std::cout << SDCV8 << i870k6C43g(SDCV8, -791046597, kFUNs5M, -11244763) << "ZDBiZ8i" << "lvC_wbT" << "aO_1r" << std::endl;
 for (int i = 0; i < 8; ++i)
@@ -231,7 +231,7 @@ else if ((p935J0 >= 1701122501) && (kFUNs5M != kC9f1))
 {
 if (((O383X >= kFUNs5M) && (qu9J8 != K5Hkv)) && (C6bsTQx3))
 {
-p935J0 = i870k6C43g(p935J0, 196604939, 915109242, kFUNs5M);
+p935J0 = i870k6C43g(p935J0, 196604939, (unsigned char)915109242, kFUNs5M);
 }
 else if ((v13i != 1241454032) || (kFUNs5M >= K5Hkv))
 {
@@ -248,7 +248,7 @@ qu9J8 = fNM2xa8i(v13i, qu9J8, p935J0, C6bsTQx3) % 832127156;
 }
 else if (O383X > -802501360)
 {
-std::cout << C6bsTQx3 << i870k6C43g(-1506869523, 1109140514, p935J0, -1062609952) << std::endl;
+std::cout << C6bsTQx3 << i870k6C43g(-1506869523, 1109140514, p935J0, (unsigned char)-1062609952) << std::endl;
 }
 else
 {
@@ -263,7 +263,7 @@ if ((p935J0 > 557645402) || ((E1OBgWu8dS < kC9f1) && (C6bsTQx3 != K5Hkv)))
 switch (p935J0)
 {
 case 'a':
-qu9J8 = i870k6C43g(qu9J8, FohD387M0, 453039905, -1432369706);
+qu9J8 = i870k6C43g(qu9J8, FohD387M0, 453039905, (unsigned char)-1432369706);
 break;
 case 'b':
 v13i = (int)abs(kFUNs5M) * 0;
@@ -307,7 +307,7 @@ C6bsTQx3 = qu9J8 >> 1925974876;
 break;
 case 'd':
 case 'D':
-kFUNs5M = i870k6C43g(1941064926, SDCV8, -738894354, -1542114604);
+kFUNs5M = i870k6C43g(1941064926, SDCV8, -738894354, (unsigned char)-1542114604);
 break;
 case 'e':
 case 'E':
@@ -326,7 +326,7 @@ case 'H':
 SDCV8 = E1OBgWu8dS >> C6bsTQx3;
 break;
 default:
-FohD387M0 = i870k6C43g(FohD387M0, -178202107, 134122318, 1245555337);
+FohD387M0 = i870k6C43g(FohD387M0, -178202107, 134122318, (unsigned char)1245555337);
 break;
 }
 
@@ -408,7 +408,7 @@ case 1:
 SDCV8 = qu9J8 >> 1329633996;
 break;
 case 2:
-SDCV8 = i870k6C43g(-345557819, FohD387M0, 454098738, O383X);
+SDCV8 = i870k6C43g(-345557819, FohD387M0, (unsigned char)454098738, O383X);
 break;
 case 3:
 v13i = fNM2xa8i(1469485339, 1659593123, E1OBgWu8dS, O383X);

@@ -75,7 +75,7 @@ Vj7y = (unsigned short)(wj10Z);
 }
 else
 {
-Ov8aW0 = ohWbum(53726543, w4J3N8, 1395867333, -2021430109);
+Ov8aW0 = ohWbum(53726543, w4J3N8, 1395867333, (unsigned char)-2021430109);
 }
 }
 std::cout << Aj35qMy / ohWbum(-2031322597, 561460467, tV8ZH2, 1186920458) << std::endl;
@@ -96,7 +96,7 @@ case 3:
 yb7i1 = ohWbum(1156553523, fsmjJ, Dtjb_us7, -1203841094);
 break;
 case 4:
-goiEVMS2v = ts_0th(1834130182, 986328883, s2575, -1737665235);
+goiEVMS2v = ts_0th((char)1834130182, 986328883, s2575, -1737665235);
 break;
 case 5:
 goiEVMS2v = ts_0th(273718484, jq2XT, mA37Ce, G83A);
@@ -149,7 +149,7 @@ W_F7D_ = nX6w(89438733, -36005450, QbDk6x5, KZo0XK81);
 break;
 case 'b':
 case 'B':
-Ov8aW0 = ohWbum(Ew0e5Q_M, Aj35qMy, 1090623352, Ov8aW0);
+Ov8aW0 = ohWbum(Ew0e5Q_M, Aj35qMy, (unsigned char)1090623352, Ov8aW0);
 break;
 case 'c':
 case 'C':
@@ -191,7 +191,7 @@ switch (p04nX)
 {
 case 'a':
 case 'A':
-WFv3oMQa = (WDx9v != -1565246532) ? -1013489458 : 1503703359;
+WFv3oMQa = (WDx9v != -1565246532) ? -1013489458 : (unsigned short)1503703359;
 break;
 case 'b':
 case 'B':
@@ -406,7 +406,7 @@ SBJWcB0 = r9OD7p(-1509486486, -933630063, tV8ZH2, 1583836533);
 }
 else
 {
-z9HIEcr8B = ts_0th(1483834296, x0z_64mx, 75879596, W8_hI);
+z9HIEcr8B = ts_0th((char)1483834296, x0z_64mx, 75879596, W8_hI);
 }
 }
 }
@@ -416,7 +416,7 @@ s_97_Crhy = nX6w(s_97_Crhy, -813970160, TT5U_uzR, eezB13);
 switch (o72CUw7U8w)
 {
 case 0:
-jq2XT = r9OD7p(jq2XT, -95293897, -1967046395, Vj7y);
+jq2XT = r9OD7p(jq2XT, -95293897, (short)-1967046395, Vj7y);
 break;
 case 1:
 J7T0h8k8 = WFv3oMQa >> RsN2_;
@@ -431,7 +431,7 @@ case 4:
 J_3W9 = nX6w(-1030764333, p04nX, wdJg8_jpR, mA37Ce) * z9HIEcr8B;
 break;
 case 5:
-TT5U_uzR = ts_0th(1311342246, Ju4_1p, RsN2_, J_3W9);
+TT5U_uzR = ts_0th((char)1311342246, Ju4_1p, RsN2_, J_3W9);
 break;
 case 6:
 mA37Ce = ohWbum(mA37Ce, -457884607, -722771928, bHQjGd_Bj);
@@ -452,7 +452,7 @@ unsigned char  nX6w(short int  W5eN7D,int  VFtnvEci4,int  HSPN00,long  q_z6)  {
 
 unsigned short  r9OD7p(unsigned long long  V59OF4,unsigned short  ctEe_P50uB,short  bcmZkv,int  Y9U6k6qw)
 {
-  return  1502240821;
+  return  (unsigned short)1502240821;
 }
 
 unsigned long long	ohWbum(unsigned long	lu9b3vl6Th,unsigned long	V0dZMKK0,unsigned char	iycAzEXD6v,unsigned char	jS4sd8X)	{

@@ -27,7 +27,7 @@ short int  yrt683E8yO(unsigned int  wcN9)
 
 unsigned char    W3915(long long    SyFkzR88,unsigned int    uidG)
 {
-    return    -2015082384;
+    return    (unsigned char)-2015082384;
 }
 
 unsigned int	skag(unsigned char	TsUs4K,unsigned int	i0DArED,char	RyjolcWNG9)	{
@@ -49,7 +49,7 @@ int main() {
     short    XKZexezB    =    297287223;
   int  T2wnT0C  =  1773215694;
   long  n6CW5GjDJa  =  -1131105586;
-	short	L7Rr9ANz55	=	1891760887;
+	short	L7Rr9ANz55	=	(short)1891760887;
  int F8K0pItui = -697837477;
 	unsigned long	oU3wOTZg	=	2075929767;
  double fWO1K = -1458353920;
@@ -62,7 +62,7 @@ int main() {
   double  dYOUfxg80  =  -817785395;
 	double	ffgm6A	=	-2105360903;
     long long    b998ZjX0    =    -373083084;
-    short int    Z3OFmdX    =    -881593307;
+    short int    Z3OFmdX    =    (short)-881593307;
   short int  VTVj9Wqfd2  =  -1753723080;
   float  Jj2v  =  167612936;
  double H4uZh87 = 1469126966;
@@ -73,7 +73,7 @@ int main() {
   unsigned short  OzcJ8W4  =  1129099351;
   unsigned long long  At_435Y1Cv  =  1962100885;
 	int	C6QG4mJ	=	1536773141;
-  char  SAl6HKj5W_  =  -70320297;
+  char  SAl6HKj5W_  =  (char)-70320297;
     unsigned long long    m280c    =    1371491386;
  char TB60 = 518264546;
   short  t68m  =  -334374184;
@@ -83,7 +83,7 @@ int main() {
     unsigned int    C_vVxzDn    =    -2055923081;
  unsigned short KP4Lnid_EA = -445896617;
   unsigned int  dnPm  =  -1039731997;
- unsigned short wTpJ9Ci = 1536808799;
+ unsigned short wTpJ9Ci = (unsigned short)1536808799;
  unsigned char RQ2o_938 = 2016812411;
 	short int	SgV_7u	=	-1318348481;
     unsigned long long    OF4I    =    -207593766;
@@ -99,7 +99,7 @@ int main() {
 	unsigned char	EvdWNh	=	0;
 	unsigned int	qHD3U0	=	-906583051;
     double    cwGc6CaCar    =    1395269081;
-  unsigned short  f843d_S  =  908859044;
+  unsigned short  f843d_S  =  (unsigned short)908859044;
 	long	VPO_9Eb2	=	-237889077;
   int  AT_P1IP  =  573015096;
 
@@ -492,7 +492,7 @@ break;
 }
 else
 {
-std::cout << U9Y7F(-1540131809) << "w8tyC" << skag(658174870, 35648076, SgV_7u) << "rAyl" << skag(LnhnfKq, lxQWl_j, 1133116985) << std::endl;
+std::cout << U9Y7F(-1540131809) << "w8tyC" << skag((unsigned char)658174870, 35648076, SgV_7u) << "rAyl" << skag(LnhnfKq, lxQWl_j, 1133116985) << std::endl;
 }
 }
 

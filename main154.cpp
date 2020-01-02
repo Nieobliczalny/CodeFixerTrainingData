@@ -30,7 +30,7 @@ do
 {
 try
 {
-cout << oC4q7b(-1950619627, -1848738907, 1090217233, okhC87N) << qkz9Db << "LLcfM" << v_Uk4_w20_(RPgx1U, -1781718035, -341454850, okhC87N, qA_6_cr) << vKWu << endl;
+cout << oC4q7b(-1950619627, -1848738907, 1090217233, okhC87N) << qkz9Db << "LLcfM" << v_Uk4_w20_(RPgx1U, (unsigned char)-1781718035, -341454850, okhC87N, qA_6_cr) << vKWu << endl;
 }
 catch (int& errorCode)
 {
@@ -54,7 +54,7 @@ case 'a':
 w9z2 /= JqrYPg0X;
 break;
 case 'b':
-RPgx1U = v_Uk4_w20_(RPgx1U, 360947561, 190343182, -1355644950, w9z2);
+RPgx1U = v_Uk4_w20_(RPgx1U, 360947561, (unsigned short)190343182, -1355644950, w9z2);
 break;
 case 'c':
 Ihjn = (int)abs(w9z2);
@@ -158,7 +158,7 @@ CIIuA2 = DLT3d7q_3W << 1767578215;
 break;
 case 'i':
 case 'I':
-Yc4602zZoq = v_Uk4_w20_(Yc4602zZoq, T0MrB7u3_, 1756241396, CIIuA2, R6_n8);
+Yc4602zZoq = v_Uk4_w20_(Yc4602zZoq, T0MrB7u3_, (unsigned short)1756241396, CIIuA2, R6_n8);
 break;
 case 'j':
 case 'J':
@@ -169,7 +169,7 @@ break;
 switch (F79nK0)
 {
 case 0:
-LRVsH362 = v_Uk4_w20_(-1676326323, -2107967892, 1944239344, 437634557, -1280992048);
+LRVsH362 = v_Uk4_w20_((unsigned char)-1676326323, -2107967892, 1944239344, 437634557, -1280992048);
 break;
 case 1:
 X_a3f55CQ = (int)abs(D23616xjd);

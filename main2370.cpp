@@ -15,7 +15,7 @@ using std::floor;
 int main(void) {
 	short	a5Pf2,	Vz4BNXe,	ZuDl,	le6A,	vn_j3,	Z3xVBk1NJT,	aBTJ,	n19_I_,	egIr570,	D0e0,	Aqm6clLa9y,	o13bwA,	rTYd9U0l,	h749H,	U8b1Rg,	kU4yl3RR,	VIOHM6ynIU;
 	a5Pf2	=	1705384419;
-	Vz4BNXe	=	-1875645501;
+	Vz4BNXe	=	(short)-1875645501;
 	ZuDl	=	347981756;
 	le6A	=	1234969757;
 	vn_j3	=	-1700133891;
@@ -25,7 +25,7 @@ int main(void) {
 	egIr570	=	1027863813;
 	D0e0	=	1037269947;
 	Aqm6clLa9y	=	-1356838056;
-	o13bwA	=	1059406436;
+	o13bwA	=	(short)1059406436;
 	rTYd9U0l	=	1453179681;
 	h749H	=	-1426854847;
 	U8b1Rg	=	-1874938957;

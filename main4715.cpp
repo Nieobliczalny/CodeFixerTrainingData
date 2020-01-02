@@ -32,7 +32,7 @@ int main()
   P8rZ  =  0;
  short int hpLeFsgaui, TU99hl3OK, vZ3jjZ41_3, O37DGJFm, i07iCq5U0m, OM4h9V, u64Xp, hsi3Xx, J66Ro6, UvxS12, Ra_b27, grn806, QHg8kOqN;
  hpLeFsgaui = 969223633;
- TU99hl3OK = -3992829;
+ TU99hl3OK = (short)-3992829;
  vZ3jjZ41_3 = -1743738003;
  O37DGJFm = 1380826981;
  i07iCq5U0m = -204783106;
@@ -42,7 +42,7 @@ int main()
  J66Ro6 = 1782151789;
  UvxS12 = 479738535;
  Ra_b27 = 1666909325;
- grn806 = 1548702327;
+ grn806 = (short)1548702327;
  QHg8kOqN = -1746397526;
 
 if (TU99hl3OK & PHLo)
@@ -88,7 +88,7 @@ for (int j = 10; j >= 0; --j)
 hpLeFsgaui = frSQ();
 }
 }
-std::cout << "e2o9" << "N_A8_a" << p5JPr9(990188586, -1328618013, 693410704, OM4h9V) << "gppr1D85" << "O_qxCa0" << std::endl;
+std::cout << "e2o9" << "N_A8_a" << p5JPr9(990188586, -1328618013, (short)693410704, OM4h9V) << "gppr1D85" << "O_qxCa0" << std::endl;
 
 std::cout << "Mr7xT1Qc" << "f4120M" << frSQ() << std::endl;
 vZ3jjZ41_3 = OM4h9V / Xhqg9;
@@ -228,7 +228,7 @@ std::cout << tFLY8(794781420, 1076407831, hu5wK0u19) << std::endl;
 }
 else
 {
-P8rZ = p5JPr9(-911470441, UvxS12, 733912597, -856367722);
+P8rZ = p5JPr9(-911470441, UvxS12, (short)733912597, -856367722);
 }
 u64Xp = (short int)(UvxS12);
 hu5wK0u19 = p5JPr9(-409973950, 330780135, vZ3jjZ41_3, O37DGJFm);
@@ -256,7 +256,7 @@ case 5:
 O37DGJFm |= OM4h9V;
 break;
 case 6:
-hu5wK0u19 = p5JPr9(-609763185, 1845024720, hpLeFsgaui, OM4h9V);
+hu5wK0u19 = p5JPr9(-609763185, (short)1845024720, hpLeFsgaui, OM4h9V);
 break;
 case 7:
 TU99hl3OK = PHLo + 1547254607;
@@ -315,7 +315,7 @@ case 'B':
 J66Ro6 = rg5Nx5sO(-1456414676, J66Ro6);
 break;
 default:
-MxKK9 = p5JPr9(1296959266, -2032751970, MxKK9, 1057412706);
+MxKK9 = p5JPr9(1296959266, (short)-2032751970, MxKK9, 1057412706);
 break;
 }
 }
@@ -336,7 +336,7 @@ char    tFLY8(unsigned long    M0kqHH_1M,unsigned short int    ARhE6,short int  
 
 unsigned char  Tej3y5_121(char  Bo4_0)
 {
-  return  -361941249;
+  return  (unsigned char)-361941249;
 }
 
 unsigned char    p5JPr9(unsigned long    BGwQUH,short int    t6st3P,short    h4uJ0lZ0tr,unsigned long    H0ED10yCJS)

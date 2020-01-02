@@ -23,7 +23,7 @@ unsigned int	VlQ8(int	A0SO6,short int	j_3nL8,unsigned int	UHndXjr582,long long	w
 }
 
 short    RiBP(unsigned long    VQL7_3_,char    w45m761,int    pxXrFPJZ6j,unsigned short int    v2Z1,int    v8YG6)    {
-    return    -1473626689;
+    return    (short)-1473626689;
 }
 
 unsigned char    YNTm46Bcn(int    G104_5zq_,unsigned short int    t7codo)    {
@@ -35,7 +35,7 @@ int main()
     unsigned char    IEq5mmM    =    -215703850;
   float  uW57LU9v8  =  -2089009605;
  long G8_Zq = 1897828440;
-  unsigned char  Ne24  =  1061049958;
+  unsigned char  Ne24  =  (unsigned char)1061049958;
   unsigned long  cI3C63J6D  =  653688721;
 	char	m55FPhQ_	=	0;
     long    Ky8yUnok0    =    -921405297;
@@ -47,7 +47,7 @@ int main()
   unsigned int  AAwCJ  =  1904151623;
  double bLsZJmq = 443516074;
  char fFUddP = 1551066382;
-	unsigned char	N3a6IdPDT	=	-219270924;
+	unsigned char	N3a6IdPDT	=	(unsigned char)-219270924;
 	unsigned short int	az_7	=	-1008484455;
  unsigned long long pnFazgw = -435573578;
     unsigned long    eVZCjE    =    -2086554238;
@@ -58,7 +58,7 @@ int main()
  double fT3_Z = 948752667;
 	long	J53Mxia35h	=	-758458481;
     unsigned short int    WzJF9    =    -313463149;
-    short    d4RJKrf6s    =    192799312;
+    short    d4RJKrf6s    =    (short)192799312;
     unsigned long long    MQNNdVY    =    573321376;
 	short int	n_i1	=	-707497345;
 
@@ -146,7 +146,7 @@ TvW9OWz5X = (unsigned long long)(Ky8yUnok0);
 }
 }
 
-std::cout << VJ02v_6m(xQJr_9uq, fT3_Z, 1124777150, d4RJKrf6s, M8tx) << VlQ8(xQJr_9uq, -936981200, n_i1, d4RJKrf6s, M8tx) << YNTm46Bcn(xQJr_9uq, 713696992) << RiBP(257949134, fT3_Z, -832905822, -1549421733, M8tx) << std::endl;
+std::cout << VJ02v_6m(xQJr_9uq, fT3_Z, 1124777150, d4RJKrf6s, M8tx) << VlQ8(xQJr_9uq, (short)-936981200, n_i1, d4RJKrf6s, M8tx) << YNTm46Bcn(xQJr_9uq, 713696992) << RiBP(257949134, fT3_Z, -832905822, -1549421733, M8tx) << std::endl;
 
 Fy9E_yHk++;
 

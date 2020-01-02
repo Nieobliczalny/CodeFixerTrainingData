@@ -19,7 +19,7 @@ short    Eu7he(short int    cKEv_jfeq4,long long    Uc02)    {
 
 unsigned char	Aly4xC6whZ(unsigned long long	g5ps)
 {
-	return	-555727220;
+	return	(unsigned char)-555727220;
 }
 
 unsigned char sx7_lqL() {

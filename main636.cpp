@@ -36,7 +36,7 @@ z_1XPzt0 = c5iA2k(z_1XPzt0, -640343633, QnI_6, -240281485, cEwEbhn9);
 break;
 case 'c':
 case 'C':
-z_1XPzt0 = fOi6aU7u(cEwEbhn9, 1624846733);
+z_1XPzt0 = fOi6aU7u(cEwEbhn9, (unsigned char)1624846733);
 break;
 case 'd':
 case 'D':
@@ -76,7 +76,7 @@ try
 switch (cEwEbhn9)
 {
 case 0:
-z_1XPzt0 = c5iA2k(-351016300, 784859065, ElJCmng, 797428431, -54286801);
+z_1XPzt0 = c5iA2k(-351016300, (short)784859065, ElJCmng, 797428431, -54286801);
 break;
 case 1:
 z_1XPzt0 *= V23H_P;
@@ -91,7 +91,7 @@ catch (int& errorCode)
 z_1XPzt0 = fOi6aU7u(cEwEbhn9, -333732312);
 }
 
-z_1XPzt0 = fOi6aU7u(1489941746, 261094131);
+z_1XPzt0 = fOi6aU7u(1489941746, (unsigned char)261094131);
 for (int i = 9; i >= 0; --i)
 {
 for (int j = 0; j < 9; ++j)
@@ -157,7 +157,7 @@ z_1XPzt0 = ElJCmng >> 1223143579;
 int i = 2;
 do
 {
-cout << fOi6aU7u(-1591053067, -2018093104) << kEi38(-815249047) << V23H_P << "q1vIlmZ1" << c5iA2k(cEwEbhn9, -1014936479, V23H_P, QnI_6, -1952453630) << endl;
+cout << fOi6aU7u(-1591053067, (unsigned char)-2018093104) << kEi38(-815249047) << V23H_P << "q1vIlmZ1" << c5iA2k(cEwEbhn9, -1014936479, V23H_P, QnI_6, -1952453630) << endl;
 i--;
 }
 while (i >= 0);
@@ -170,7 +170,7 @@ do
 {
 try
 {
-z_1XPzt0 = c5iA2k(87852920, cEwEbhn9, ElJCmng, 328457062, 1196533463);
+z_1XPzt0 = c5iA2k(87852920, cEwEbhn9, ElJCmng, 328457062, (unsigned short)1196533463);
 }
 catch (int& errorCode)
 {
@@ -189,7 +189,7 @@ if (cEwEbhn9 != QnI_6)
 {
 for (int k = 0; k < 6; ++k)
 {
-z_1XPzt0 = c5iA2k(QnI_6, -492904264, ElJCmng, -1375170430, -945693607);
+z_1XPzt0 = c5iA2k(QnI_6, -492904264, ElJCmng, -1375170430, (unsigned short)-945693607);
 }
 }
 else if (z_1XPzt0)
@@ -232,7 +232,7 @@ z_1XPzt0 = ElJCmng | 1919806622;
 }
 else if (((V23H_P < -1476841821) || (z_1XPzt0 >= QnI_6)) && (cEwEbhn9 >= -663906711))
 {
-z_1XPzt0 = c5iA2k(-937571282, ElJCmng, 956539243, cEwEbhn9, V23H_P);
+z_1XPzt0 = c5iA2k(-937571282, ElJCmng, (short)956539243, cEwEbhn9, V23H_P);
 }
 else if (z_1XPzt0 == -986248894)
 {
@@ -259,7 +259,7 @@ try
 {
 if (V23H_P)
 {
-z_1XPzt0 = c5iA2k(cEwEbhn9, -605353996, 1215207743, QnI_6, ElJCmng);
+z_1XPzt0 = c5iA2k(cEwEbhn9, -605353996, (short)1215207743, QnI_6, ElJCmng);
 }
 }
 catch (int& errorCode)
@@ -283,6 +283,6 @@ unsigned char c5iA2k(unsigned short int DV1_8ipi8e,short E_L1ls62,short mJG24,lo
 
 unsigned short  fOi6aU7u(short  yPMrqFI,unsigned char  N61lJ8n)
 {
-  return  593087135;
+  return  (unsigned short)593087135;
 }
 

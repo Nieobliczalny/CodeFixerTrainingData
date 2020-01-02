@@ -22,7 +22,7 @@ unsigned short int	UP6_9GgWHs(long	BhLFh_12)	{
 }
 
 unsigned short int  gR_0Y(short  RT9s,long  HEk7_nGa)  {
-  return  913718554;
+  return  (unsigned short)913718554;
 }
 
 unsigned int    UzNB(short int    je47CL,unsigned long    lnFf,char    EAvGM5,unsigned short    RN2Dx084y,long    P8VEPf9Ov)
@@ -60,7 +60,7 @@ case 0:
 eLNjXn /= 425110785;
 break;
 case 1:
-eLNjXn = UzNB(TNNyI, qNlEtz, -1130335910, -566436124, -1492381406);
+eLNjXn = UzNB(TNNyI, qNlEtz, -1130335910, (unsigned short)-566436124, -1492381406);
 break;
 case 2:
 eLNjXn = UzNB(eLNjXn, ACeT, -1967888977, -366550227, TNNyI);
@@ -156,7 +156,7 @@ ACeT = (long)(eLNjXn * ACeT);
 switch (TNNyI)
 {
 case 0:
-eLNjXn = UzNB(eLNjXn, 1847759721, -941138104, -680962607, 1192990831);
+eLNjXn = UzNB(eLNjXn, 1847759721, -941138104, (unsigned short)-680962607, 1192990831);
 break;
 case 1:
 eLNjXn ^= 429127008;
@@ -254,7 +254,7 @@ else
 {
 for (int k = 3; k >= 0; --k)
 {
-eLNjXn = UzNB(-400039727, 1914033296, VO15UEvy, -1910108693, -1575061855);
+eLNjXn = UzNB(-400039727, 1914033296, VO15UEvy, (unsigned short)-1910108693, -1575061855);
 }
 }
 }
@@ -306,7 +306,7 @@ eLNjXn = gR_0Y(1719334550, VO15UEvy);
 }
 else if (TNNyI >= P22918nk)
 {
-eLNjXn = UzNB(VO15UEvy, ACeT, -1705324885, TNNyI, 1214577760);
+eLNjXn = UzNB(VO15UEvy, ACeT, (char)-1705324885, TNNyI, 1214577760);
 }
 else if (VO15UEvy <= P22918nk)
 {
@@ -348,7 +348,7 @@ VO15UEvy = UP6_9GgWHs(VO15UEvy);
 }
 }
 eLNjXn %= 1304427878;
-eLNjXn = UzNB(TNNyI, -507980538, -279492037, -185624334, -47895518);
+eLNjXn = UzNB(TNNyI, -507980538, -279492037, (unsigned short)-185624334, -47895518);
 
 if (TNNyI)
 {
@@ -374,7 +374,7 @@ for (int i = 0; i < 8; ++i)
 VO15UEvy = (unsigned long long)(P22918nk * VO15UEvy);
 }
 
-std::cout << qNlEtz << "ZaD1k2888" << uxVK7JrI(-272605423, 256240237, -2098572353, ACeT, -1412500726) << "tx3og" << "e67M2t1Z3" << std::endl;
+std::cout << qNlEtz << "ZaD1k2888" << uxVK7JrI(-272605423, 256240237, -2098572353, ACeT, (unsigned short)-1412500726) << "tx3og" << "e67M2t1Z3" << std::endl;
 
 return 0;
 }

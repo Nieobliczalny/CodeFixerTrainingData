@@ -20,7 +20,7 @@ int main(void) {
   long long  yc53  =  -1677056785;
   short  J_q8v  =  -1872136314;
  double Z868mu = 1790739138;
-  unsigned short int  OF72  =  1241512560;
+  unsigned short int  OF72  =  (unsigned short)1241512560;
   unsigned long long  MtmWT1zz  =  0;
 	unsigned short	u7ol6D	=	0;
 	short	F3P3iifX	=	905916420;
@@ -314,7 +314,7 @@ OF72 >>= yc53;
 }
 else
 {
-OF72 = (S_LcUEW0EU < N_4V9S9) ? 460682001 : -1237501403;
+OF72 = (S_LcUEW0EU < N_4V9S9) ? 460682001 : (unsigned short)-1237501403;
 }
 }
 else if (yc53 != Xt5Q)

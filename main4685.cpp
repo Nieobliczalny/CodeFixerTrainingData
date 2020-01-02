@@ -186,7 +186,7 @@ unsigned char  La72H2(unsigned short  fCVW1n5,int  iLcmzqvxV,unsigned char  y8j8
 }
 
 unsigned char    S_D4y9()    {
-    return    -42695036;
+    return    (unsigned char)-42695036;
 }
 
 long long  Vh8D4c9()

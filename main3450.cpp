@@ -91,7 +91,7 @@ case 5:
 bIpLH = T8Fy0(Tibd, bIpLH, -608871886, 817482007, z5RshQORv);
 break;
 case 6:
-PDgPksXx = oZ6Ga4uZ(802985610, -2095901584, 1153113294);
+PDgPksXx = oZ6Ga4uZ((unsigned short)802985610, -2095901584, 1153113294);
 break;
 case 7:
 O3sihXkGgj = (int)floor(VeoXwT4u);
@@ -138,7 +138,7 @@ PDgPksXx = oZ6Ga4uZ(2041223992, i8pN3VMyT, B9rndZ);
 break;
 case 'g':
 case 'G':
-jB5a065_ = oZ6Ga4uZ(460884658, jB5a065_, -1470210966);
+jB5a065_ = oZ6Ga4uZ((unsigned short)460884658, jB5a065_, -1470210966);
 break;
 }
 }

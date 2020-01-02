@@ -17,6 +17,7 @@ int  S2G3zmt(unsigned short int  ALal52JI,long long  qb4pTO93)
 }
 
 int main(void) {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
 	short	v_B0vP22p	=	2106148394,	zz_z4m	=	1910806922,	M4lFGK_1	=	906431502,	KGY3	=	-51538614,	ydCYZ	=	-1971733926,	e2_RQ001f0	=	1984936495,	SR0Y	=	545729023,	p562	=	815433174,	Mt0H1EOjH5	=	1247865688,	Wydct1s	=	-221778926,	w361S2	=	1926327728,	g9OAev	=	-415855175,	QZ_JuaN0	=	1570221891,	D9E6321	=	-2115951038,	Cuz4	=	2129752231,	EuUtRw8xw	=	-936199309;
 	unsigned int	fw7954	=	0,	URdz9R_8	=	0,	gN5079K_0	=	0,	WkgEeMdSx	=	0;
 
@@ -147,7 +148,7 @@ zz_z4m = Wydct1s << 239492033;
 
 if ((ydCYZ > g9OAev) || (EuUtRw8xw == 122901252))
 {
-Wydct1s = S2G3zmt(1738553631, WkgEeMdSx);
+Wydct1s = S2G3zmt((unsigned short)1738553631, WkgEeMdSx);
 }
 else if (EuUtRw8xw)
 {
@@ -167,7 +168,7 @@ v_B0vP22p = S2G3zmt(798549393, v_B0vP22p);
 }
 else if (QZ_JuaN0 > 1060439940)
 {
-QZ_JuaN0 = S2G3zmt(1458661527, -751630422);
+QZ_JuaN0 = S2G3zmt((unsigned short)1458661527, -751630422);
 }
 else if (fw7954)
 {

@@ -87,7 +87,7 @@ else if (j2c344El0)
 {
 if (Xe2e8bN)
 {
-Thp_I8z = Z26A7(1414257886, Q4i870, -578860703, 1831643646, MN4w3Om48u);
+Thp_I8z = Z26A7(1414257886, Q4i870, (short)-578860703, 1831643646, MN4w3Om48u);
 }
 else if (((Q4i870 & -1413242396) || (JMO_E2sG1_ >= 1883618720)) || (aoBuBQ3Kx < Thp_I8z))
 {
@@ -101,7 +101,7 @@ iflJ = uf9LP1R(1543419814, HbPS9uw1hx);
 }
 else if (wll8Fgdz3)
 {
-DexXOt = SX_V(313620393, ql3b3UzX2, k5h7, 2122942962, 899638094);
+DexXOt = SX_V(313620393, ql3b3UzX2, k5h7, 2122942962, (unsigned char)899638094);
 }
 else if (wll8Fgdz3 > -1334790865)
 {
@@ -190,7 +190,7 @@ case 'd':
 l4dI = JMO_E2sG1_ >> 156264715;
 break;
 case 'e':
-F1ek = Uh62x_s(1255149612, -431943618, 266838535);
+F1ek = Uh62x_s((unsigned short)1255149612, -431943618, 266838535);
 break;
 case 'f':
 Y79R = Uh62x_s(936157157, -1525079464, aoBuBQ3Kx) / F1ek;
@@ -285,7 +285,7 @@ catch (int& errorCode)
 TW4_ = Uh62x_s(-1741201062, wll8Fgdz3, D9F2);
 }
 
-EylKR0_Bh = -993516179 / SX_V(-475010054, -282305612, 1906841174, JMO_E2sG1_, -1667026035);
+EylKR0_Bh = -993516179 / SX_V(-475010054, -282305612, 1906841174, JMO_E2sG1_, (unsigned char)-1667026035);
 for (int i = 0; i < 10; ++i)
 {
 switch (Hb4R1O)
@@ -304,7 +304,7 @@ D9F2 = j2c344El0 | aoBuBQ3Kx;
 break;
 case 'd':
 case 'D':
-FKylU2x0 = Z26A7(FKylU2x0, -1150378102, -1663014334, DexXOt, -810708022);
+FKylU2x0 = Z26A7(FKylU2x0, -1150378102, (short)-1663014334, DexXOt, -810708022);
 break;
 case 'e':
 case 'E':
@@ -316,7 +316,7 @@ ql3b3UzX2 = uf9LP1R(1341009070, -458375159);
 break;
 case 'g':
 case 'G':
-aoBuBQ3Kx = Z26A7(-380486607, -312499366, wll8Fgdz3, 1838962224, 1512632960);
+aoBuBQ3Kx = Z26A7(-380486607, -312499366, wll8Fgdz3, (unsigned char)1838962224, 1512632960);
 break;
 case 'h':
 case 'H':
@@ -341,7 +341,7 @@ ql3b3UzX2 = (long)(k5h7);
 
 std::cout << "Sc74Td" << h35D87bBI6 << uf9LP1R(h35D87bBI6, l4dI) << j2c344El0 << JMO_E2sG1_ << std::endl;
 
-std::cout << SX_V(194967767, 883862405, -73228630, 887054836, 1022253425) << "t_Ef" << Uh62x_s(h35D87bBI6, l4dI, -1712542616) << Uh62x_s(h35D87bBI6, -1891719546, 1729730791) << Z26A7(h35D87bBI6, l4dI, -901632999, wll8Fgdz3, n4UuM) << std::endl;
+std::cout << SX_V(194967767, 883862405, -73228630, (unsigned char)887054836, 1022253425) << "t_Ef" << Uh62x_s(h35D87bBI6, l4dI, -1712542616) << Uh62x_s(h35D87bBI6, -1891719546, 1729730791) << Z26A7(h35D87bBI6, l4dI, -901632999, wll8Fgdz3, n4UuM) << std::endl;
 
 {
 int i = 0;
@@ -362,7 +362,7 @@ DexXOt = SX_V(2031046606, L6_2_W, -1368961728, k5h7, MN4w3Om48u);
 }
 else
 {
-MN4w3Om48u = Uh62x_s(-1173910240, -1980249867, 1581669021) >> 1118248287;
+MN4w3Om48u = Uh62x_s(-1173910240, (unsigned short)-1980249867, 1581669021) >> 1118248287;
 }
 }
 while (j >= 0);
@@ -556,7 +556,7 @@ unsigned short int	Z26A7(long	b_Aa,unsigned long long	OgVJ5gDP6,short	a5iovIjGX,
 }
 
 unsigned char	uf9LP1R(long long	SO0GFyTd,unsigned short	PJh7A50)	{
-	return	-998378257;
+	return	(unsigned char)-998378257;
 }
 
 unsigned long	SX_V(unsigned long	gj0gsg,short int	lnSY_1r,long	qGXq3,unsigned char	x2_Tm,unsigned char	rYm_aT)	{

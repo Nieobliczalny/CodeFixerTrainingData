@@ -64,7 +64,7 @@ int main() {
     short    pAK0i;
     pAK0i    =    -1627811635;
  short int s7k1;
- s7k1 = 2130419657;
+ s7k1 = (short)2130419657;
     double    JY_D924Pj;
     JY_D924Pj    =    -1426228813;
     short    ASvCHGs;

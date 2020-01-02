@@ -28,7 +28,7 @@ int main(void)
     unsigned short    UTzxr;
     UTzxr    =    -1796017954;
   unsigned short int  JPJPhyC;
-  JPJPhyC  =  853991401;
+  JPJPhyC  =  (unsigned short)853991401;
 	short	XLY9j;
 	XLY9j	=	-568494487;
  int O4nSC3s;
@@ -40,7 +40,7 @@ int main(void)
  unsigned long long u18dt_9A;
  u18dt_9A = 1044671007;
 	unsigned short int	XV_48VL8p;
-	XV_48VL8p	=	1802353107;
+	XV_48VL8p	=	(unsigned short)1802353107;
   unsigned short  xDz4ye_3;
   xDz4ye_3  =  -1177870428;
   unsigned short  Da4wr;
@@ -60,7 +60,7 @@ int main(void)
 	long	Lifq_;
 	Lifq_	=	-797336423;
     unsigned short    i_qS1g2Ls;
-    i_qS1g2Ls    =    -1851249323;
+    i_qS1g2Ls    =    (unsigned short)-1851249323;
     float    kd37ER_8;
     kd37ER_8    =    -1173998221;
  double jfldT3;
@@ -80,7 +80,7 @@ int main(void)
     char    bX405eDm;
     bX405eDm    =    -579214739;
  unsigned short D5Za1M;
- D5Za1M = 276181362;
+ D5Za1M = (unsigned short)276181362;
   int  pLW57;
   pLW57  =  131552346;
   int  mfq6;
@@ -94,7 +94,7 @@ int main(void)
 	unsigned char	cbP696N;
 	cbP696N	=	-831727271;
 	char	j_Fhsb90Zp;
-	j_Fhsb90Zp	=	-908102257;
+	j_Fhsb90Zp	=	(char)-908102257;
 	int	LR6_y19;
 	LR6_y19	=	1289972380;
 	char	ihidNGkt;
@@ -104,7 +104,7 @@ int main(void)
   char  smULfL57q;
   smULfL57q  =  -1412372585;
  short BdDR4a;
- BdDR4a = 846579279;
+ BdDR4a = (short)846579279;
     long long    vM706gjlI;
     vM706gjlI    =    -662440549;
 	short int	asCh8_Mo;
@@ -118,7 +118,7 @@ int main(void)
  char TwVL_O92;
  TwVL_O92 = -1654809623;
  unsigned short doWk7Ab;
- doWk7Ab = 1565550237;
+ doWk7Ab = (unsigned short)1565550237;
   long  JtWw5Btcu6;
   JtWw5Btcu6  =  -456925082;
 	int	gqsqu9xQ;
@@ -142,7 +142,7 @@ int main(void)
 	double	n88cD;
 	n88cD	=	840222891;
     unsigned short    bBv721;
-    bBv721    =    1391917554;
+    bBv721    =    (unsigned short)1391917554;
   double  ylIA3y;
   ylIA3y  =  -1633221473;
  long double xDq8;
@@ -359,7 +359,7 @@ if (C8U1q8 <= ZA1339d)
 {
 try
 {
-kd37ER_8 = W5mCbN78x(kd37ER_8, -928738988, 520114704);
+kd37ER_8 = W5mCbN78x(kd37ER_8, -928738988, (unsigned short)520114704);
 }
 catch (int& errorCode)
 {
@@ -548,7 +548,7 @@ while (k >= 0);
 }
 else if (IX4k)
 {
-std::cout << XgKA4tht66 << W5mCbN78x(LGh_21S, -1058207443, 413889249) << std::endl;
+std::cout << XgKA4tht66 << W5mCbN78x(LGh_21S, -1058207443, (unsigned short)413889249) << std::endl;
 }
 else if (IX4k <= nz0oOwU)
 {

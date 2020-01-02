@@ -342,7 +342,7 @@ case 4:
 cFfE80Ro *= I37dIK;
 break;
 case 5:
-rxz1 = uhsy2(rxz1, 1856876992, 675206683, -239061447, 199169080);
+rxz1 = uhsy2(rxz1, 1856876992, 675206683, (unsigned short)-239061447, 199169080);
 break;
 case 6:
 x8_3t55H4 = N238E | 84438468;
@@ -492,7 +492,7 @@ hO28 = uhsy2(wtQzAT2Z, b5_9, h6Ns8, 820681963, I_2yAx) << 1013592039;
 break;
 }
 
-N238E = uhsy2(N238E, -60348058, 828384514, -541196606, Twbsic);
+N238E = uhsy2(N238E, -60348058, 828384514, (unsigned short)-541196606, Twbsic);
 
 {
 int i = 0;

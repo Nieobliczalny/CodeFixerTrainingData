@@ -14,6 +14,7 @@ unsigned short    N87_vfV(unsigned short    gZzw2P0,long long    C3386);
 
 int main(int argc, char** argv)
 {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
     unsigned short int    sZ_T8    =    -743765540,    AJgI0mf5T    =    727691941,    B00MAZF5RF    =    -132396453,    h7O2tMRWr    =    -184754279,    R21f25z    =    619060919,    TUQo    =    623253342,    F49_7z2aKc    =    1640998601,    e4fK9LRJ70    =    1838674970,    X0H6u7l1    =    1282487107,    iN_M    =    -233095572,    R803e7_PuC    =    -1850614669;
   int  DVjsp9v  =  0,  MSeZcXgf  =  0,  J99SsZ55  =  0;
 
@@ -54,7 +55,7 @@ while (j < 1)
 int k = 0;
 while (k < 2)
 {
-e4fK9LRJ70 = ZLtZ2dK(-1317264938, -143684914, F49_7z2aKc);
+e4fK9LRJ70 = ZLtZ2dK(-1317264938, (char)-143684914, F49_7z2aKc);
 k++;
 }
 }
@@ -156,7 +157,7 @@ std::cout << "JGmh" << std::endl;
 }
 else if (((F49_7z2aKc & 2017096627) || (X0H6u7l1 & B00MAZF5RF)) && (MSeZcXgf < -309653738))
 {
-sZ_T8 = ZLtZ2dK(155019916, -1182468642, -1088608002);
+sZ_T8 = ZLtZ2dK((short)155019916, -1182468642, -1088608002);
 }
 else if (R21f25z <= -744202007)
 {
@@ -193,7 +194,7 @@ switch (DVjsp9v)
 {
 case 'a':
 case 'A':
-J99SsZ55 = N87_vfV(-301158098, -239457142);
+J99SsZ55 = N87_vfV((unsigned short)-301158098, -239457142);
 break;
 case 'b':
 case 'B':
@@ -213,7 +214,7 @@ sZ_T8 = F49_7z2aKc - R803e7_PuC;
 iN_M = R803e7_PuC - iN_M;
 if (R803e7_PuC <= TUQo)
 {
-std::cout << "EddE2_xB0Q" << N87_vfV(-312502962, -439724958) << ZLtZ2dK(-571566329, F49_7z2aKc, 604347976) << "y12cCw" << sZ_T8 << std::endl;
+std::cout << "EddE2_xB0Q" << N87_vfV(-312502962, -439724958) << ZLtZ2dK((short)-571566329, F49_7z2aKc, 604347976) << "y12cCw" << sZ_T8 << std::endl;
 }
 
 DVjsp9v = N87_vfV(TUQo, e4fK9LRJ70);
@@ -224,7 +225,7 @@ if (((J99SsZ55 == 830123186) || (J99SsZ55 <= 2001203985)) || (F49_7z2aKc < AJgI0
 {
 if (e4fK9LRJ70 < 264773662)
 {
-R21f25z = ZLtZ2dK(1626156223, -90584704, MSeZcXgf);
+R21f25z = ZLtZ2dK(1626156223, (char)-90584704, MSeZcXgf);
 }
 }
 else if (F49_7z2aKc)
@@ -235,7 +236,7 @@ else if (e4fK9LRJ70 < iN_M)
 {
 try
 {
-AJgI0mf5T = ZLtZ2dK(-670226668, -2114583839, R803e7_PuC);
+AJgI0mf5T = ZLtZ2dK(-670226668, (char)-2114583839, R803e7_PuC);
 }
 catch (int& errorCode)
 {
@@ -272,7 +273,7 @@ else
 {
 try
 {
-std::cout << ZLtZ2dK(-1838323858, -1576672629, X0H6u7l1) << "P1v23" << std::endl;
+std::cout << ZLtZ2dK(-1838323858, (char)-1576672629, X0H6u7l1) << "P1v23" << std::endl;
 }
 catch (int& errorCode)
 {

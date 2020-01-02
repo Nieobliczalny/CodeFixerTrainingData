@@ -14,7 +14,7 @@ unsigned short int    i1nkev(long long    kQQ6)    {
 
 unsigned short	ovj__Knb(int	iKUs1Qm)
 {
-	return	-618835399;
+	return	(unsigned short)-618835399;
 }
 
 char TDBC2(int xtNO,unsigned long X0MLTr1D,short int tqD26_,unsigned short int KCR5Or,short int F377fv1XO) {
@@ -38,7 +38,7 @@ int main() {
 	short	Tm_Y;
 	Tm_Y	=	610596216;
  unsigned short wFyz3HIzm;
- wFyz3HIzm = -1233496399;
+ wFyz3HIzm = (unsigned short)-1233496399;
  unsigned long VVrtueMqB;
  VVrtueMqB = 0;
 	char	mO6VI;
@@ -56,7 +56,7 @@ int main() {
  int axaW83sW;
  axaW83sW = 1353265082;
     short    h0H6;
-    h0H6    =    -1515648607;
+    h0H6    =    (short)-1515648607;
     unsigned short int    D_YhPwj8c;
     D_YhPwj8c    =    -1310868868;
   double  Zi_ON_;
@@ -70,7 +70,7 @@ int main() {
 	unsigned long long	SoY1;
 	SoY1	=	-1941547231;
 	char	deKI_5;
-	deKI_5	=	-1075288555;
+	deKI_5	=	(char)-1075288555;
  unsigned short djNr9bLz;
  djNr9bLz = -1479365096;
  int X9pGUYz;
@@ -96,7 +96,7 @@ int main() {
 
 mWUA138 = t6IyM0() + Tm_Y;
 
-F6I_0 = tDIm(839016278, 1039838915, -455268229);
+F6I_0 = tDIm(839016278, 1039838915, (short)-455268229);
 
 if (pt0w4 < 1023041466)
 {
@@ -171,7 +171,7 @@ case 4:
 X9pGUYz &= ELY4yLd5;
 break;
 case 5:
-pt0w4 = TDBC2(pt0w4, -274029510, 1950377664, 1188711111, aWsoTK4);
+pt0w4 = TDBC2(pt0w4, -274029510, (short)1950377664, 1188711111, aWsoTK4);
 break;
 default:
 Kog5j = (int)floor(ylAI179_b);
@@ -433,7 +433,7 @@ int k = 0;
 while (k < 4)
 {
 ++k;
-g_8h2oP = tDIm(420781703, D_YhPwj8c, -1331945109);
+g_8h2oP = tDIm(420781703, D_YhPwj8c, (short)-1331945109);
 }
 }
 }

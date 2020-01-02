@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
   unsigned short int  UJe5  =  0;
 	short	EG_se	=	1209109048;
     unsigned short    TYU9_1Oe    =    0;
-	short	EpD_W6s	=	-1111581880;
+	short	EpD_W6s	=	(short)-1111581880;
 	long	R19_t1D	=	0;
   int  bB03  =  823704831;
   unsigned char  g_qip40  =  -591665801;
@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
 	float	E2ckBTc1	=	1337477480;
   unsigned short  rShiS9Biqi  =  -245130307;
  unsigned short int BY7HDccW = -1830596419;
-	unsigned short int	Um2HNZ5vP	=	-828841243;
+	unsigned short int	Um2HNZ5vP	=	(unsigned short)-828841243;
 	unsigned long long	p_79Y	=	1069621408;
 
 OCBd72fKz >>= p_79Y;
@@ -91,7 +91,7 @@ g_qip40 = Ple7cBP(2132636226, EG_se, BY7HDccW, E2ckBTc1);
 }
 p_79Y = oEN9Fc(1746323261, p_79Y, -650236474, 484064444, E2ckBTc1);
 
-EG_se = (OCBd72fKz > BY7HDccW) ? Ple7cBP(153716510, p_79Y, Um2HNZ5vP, Cb2_45) : p_79Y;
+EG_se = (OCBd72fKz > BY7HDccW) ? Ple7cBP((char)153716510, p_79Y, Um2HNZ5vP, Cb2_45) : p_79Y;
 
 EpD_W6s = Ple7cBP(EpD_W6s, bB03, -688175781, rShiS9Biqi);
 if (EpD_W6s == -1070247790)
@@ -135,7 +135,7 @@ case 3:
 bB03 <<= EG_se;
 break;
 case 4:
-BY7HDccW = Ple7cBP(-328668344, BY7HDccW, rShiS9Biqi, 287999898);
+BY7HDccW = Ple7cBP(-328668344, BY7HDccW, rShiS9Biqi, (unsigned char)287999898);
 break;
 case 5:
 TYU9_1Oe = oadRR();
@@ -206,7 +206,7 @@ BY7HDccW = oEN9Fc(315612306, 1113689444, Cb2_45, -943482908, E2ckBTc1);
 break;
 case 'd':
 case 'D':
-Cb2_45 = oEN9Fc(Cb2_45, 1046114174, -1108989005, 717945345, EpD_W6s);
+Cb2_45 = oEN9Fc(Cb2_45, 1046114174, -1108989005, (short)717945345, EpD_W6s);
 break;
 case 'e':
 case 'E':
@@ -267,7 +267,7 @@ case 'H':
 E2ckBTc1 = Ple7cBP(E2ckBTc1, UJe5, 2072105709, R19_t1D);
 break;
 default:
-E2ckBTc1 = Ple7cBP(1623746748, Um2HNZ5vP, 1363517357, 530977221);
+E2ckBTc1 = Ple7cBP((char)1623746748, Um2HNZ5vP, 1363517357, 530977221);
 break;
 }
 

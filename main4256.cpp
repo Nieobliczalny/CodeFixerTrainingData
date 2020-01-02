@@ -15,7 +15,7 @@ char B0a7A3S(unsigned long W7SBr4P11j,short int u15NdYS,int s44_6I7g4,int X9OJdC
 
 short int    m718k()
 {
-    return    202033563;
+    return    (short)202033563;
 }
 
 unsigned int l378QT8gp(long long IskqF854,unsigned int IB1MOX822c,long Fsfr7ddJ4)
@@ -35,7 +35,7 @@ int main(int argc, char** argv) {
  unsigned long E73_M = 236744934;
  long double Ccwa_W8 = -800572194;
     char    L771    =    915270743;
-    unsigned short int    W93HH227HA    =    985492133;
+    unsigned short int    W93HH227HA    =    (unsigned short)985492133;
  char r9rc84p8yX = -361516921;
 	float	QAMJOf	=	-1715989162;
 	long long	disb1	=	541157732;
@@ -49,7 +49,7 @@ int main(int argc, char** argv) {
 	char	tnv0	=	275225275;
     unsigned int    Il3lq    =    1000133760;
  float ZmS7 = -1119118748;
-  unsigned short int  VpkAeI  =  377369474;
+  unsigned short int  VpkAeI  =  (unsigned short)377369474;
  unsigned long long d89Rt6xu_U = 628059491;
 	long double	BKIW_h	=	1385671821;
  short int seWIG7Q8 = -114974144;
@@ -61,7 +61,7 @@ int main(int argc, char** argv) {
     unsigned int    Y1noBwnq    =    -213828856;
  long double Gds_3O = 703585300;
     float    wvd5    =    982172256;
-    unsigned char    ux6ldGg    =    -2105827171;
+    unsigned char    ux6ldGg    =    (unsigned char)-2105827171;
  unsigned char MXhL = 0;
  unsigned long p9gQQDq = -1018841935;
 	long long	sOw88Hu0	=	-904017321;
@@ -72,7 +72,7 @@ int main(int argc, char** argv) {
 	float	m40YvY	=	-2081085807;
     long long    asdw13    =    -1659321415;
 	unsigned int	a1rYz	=	204665777;
-    short int    gPvD    =    1993968999;
+    short int    gPvD    =    (short)1993968999;
   long double  Uvu1a7AD  =  1969153350;
   unsigned long long  th8_5lP609  =  -668982147;
 	long double	zcpP	=	944078300;
@@ -83,7 +83,7 @@ int main(int argc, char** argv) {
 	int	P65qyc	=	1110475292;
 	unsigned short int	t9p5	=	-1547060158;
 	int	PLOda	=	703628434;
-    short    KPvv0bj    =    -586233931;
+    short    KPvv0bj    =    (short)-586233931;
 	short int	JwKKTAb48	=	1945285899;
  int dTD89Z = 300530204;
   long double  tOnW  =  958820928;
@@ -95,7 +95,7 @@ int main(int argc, char** argv) {
 	double	qCbT	=	625476433;
  int RIj694 = -1612740379;
   long  ju86N  =  475471582;
-	short int	qQft3en	=	-489624302;
+	short int	qQft3en	=	(short)-489624302;
   int  eS6O8d1  =  -1562403647;
  long long lzOT9rEjS = -708341565;
   float  bxhb  =  263743510;
@@ -105,7 +105,7 @@ int main(int argc, char** argv) {
  short int T50f9 = -1309558560;
 	unsigned long	SsJv	=	-663372486;
   long double  sA8Swa  =  223539902;
- short p0YwbD9 = -722814202;
+ short p0YwbD9 = (short)-722814202;
   char  ajt2w7lu3Q  =  90215216;
 	long long	gS7696_0	=	1141360600;
   float  ho4dxyISc  =  -868514456;
@@ -116,7 +116,7 @@ int main(int argc, char** argv) {
   short int  kOB1t  =  1002716034;
     short int    X3pR955796    =    -222923501;
   long double  IvP52bqlD7  =  -51634086;
-    unsigned short    p2FF    =    902018589;
+    unsigned short    p2FF    =    (unsigned short)902018589;
 	unsigned short int	GvKKk6e4m	=	0;
 
 if (oL5a_zd < Y1noBwnq)
@@ -296,7 +296,7 @@ Y1noBwnq *= jiO8W;
 
 QAMJOf = (int)ceil(z_RPrL195);
 Il3lq = gm_XZul(1550246688, PA2_3, tnv0, -839760943);
-std::cout << gm_XZul(-59478333, PA2_3, tnv0, lzOT9rEjS) << gm_XZul(Il3lq, PA2_3, tnv0, 2144202135) << "sH02ttv13" << gm_XZul(465366171, PA2_3, tnv0, lzOT9rEjS) << std::endl;
+std::cout << gm_XZul(-59478333, PA2_3, tnv0, lzOT9rEjS) << gm_XZul(Il3lq, PA2_3, tnv0, (unsigned char)2144202135) << "sH02ttv13" << gm_XZul(465366171, PA2_3, tnv0, lzOT9rEjS) << std::endl;
 SIW3 /= 361996253;
 
 JwKKTAb48 = QCqK8R / l4El7M15_1;
@@ -323,7 +323,7 @@ else if (T50f9 == 1567944864)
 {
 if (z_RPrL195 > DiH5FtH8)
 {
-p0YwbD9 = gm_XZul(p0YwbD9, -720770796, 1636512940, Il3lq);
+p0YwbD9 = gm_XZul(p0YwbD9, -720770796, (short)1636512940, Il3lq);
 }
 else
 {
@@ -350,7 +350,7 @@ MXhL = l378QT8gp(f7N4YG, 1304293204, d89Rt6xu_U);
 break;
 case 'b':
 case 'B':
-UOrSix0 = gm_XZul(7273002, b66N8jAL, 1126416504, 874538108);
+UOrSix0 = gm_XZul(7273002, b66N8jAL, 1126416504, (unsigned char)874538108);
 break;
 case 'c':
 case 'C':

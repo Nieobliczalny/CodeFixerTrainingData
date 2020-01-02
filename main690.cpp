@@ -17,7 +17,7 @@ unsigned int  J_D5p92K(unsigned int  bCMQi93)  {
 }
 
 short	y_epy8D_YX(unsigned char	T_ORo2D,unsigned long long	Ap9C)	{
-	return	-729987202;
+	return	(short)-729987202;
 }
 
 unsigned short  G05g()
@@ -31,6 +31,7 @@ short int SbaSHnD3V(int hKg1,long long OLZUT,short int VSA8,unsigned char HN70,u
 
 int main()
 {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
   short int  Uq4b__  =  105134105,  aH97O12B0  =  31288681,  e9Av9_8pjX  =  -1479866999,  T32Y  =  1902910279,  a8S2Id5M  =  800752053,  mVZAl  =  -1841189791,  lH2X  =  -209472239,  J2HBQq  =  833467025,  PTY7L1tc2m  =  -1714231318,  RF0Y3n_7ch  =  596663410,  jhHb813npm  =  867112749,  frnJLY6  =  1384080461,  zJDPJg  =  -639421899;
   unsigned long  mwAvf  =  0;
 
@@ -53,7 +54,7 @@ case 0:
 mVZAl = J_D5p92K(mVZAl);
 break;
 case 1:
-mwAvf = SbaSHnD3V(-1051078600, Uq4b__, 169830584, 1322102113, zJDPJg);
+mwAvf = SbaSHnD3V(-1051078600, Uq4b__, 169830584, (unsigned char)1322102113, zJDPJg);
 break;
 case 2:
 J2HBQq ^= RF0Y3n_7ch;
@@ -276,7 +277,7 @@ PTY7L1tc2m = e9Av9_8pjX << Uq4b__;
 break;
 case 'b':
 case 'B':
-mwAvf = SbaSHnD3V(1350659552, 194705326, -569647406, -490962056, -2007854773);
+mwAvf = SbaSHnD3V(1350659552, 194705326, -569647406, (unsigned char)-490962056, -2007854773);
 break;
 case 'c':
 case 'C':
@@ -316,7 +317,7 @@ break;
 }
 }
 
-std::cout << y_epy8D_YX(mwAvf, jhHb813npm) << G05g() << frnJLY6 << SbaSHnD3V(334519073, jhHb813npm, J2HBQq, Uq4b__, 1998257878) << std::endl;
+std::cout << y_epy8D_YX(mwAvf, jhHb813npm) << G05g() << frnJLY6 << SbaSHnD3V(334519073, jhHb813npm, J2HBQq, Uq4b__, (unsigned short)1998257878) << std::endl;
 T32Y = Lr3k1Jm1np(-744434878);
 
 std::cout << Uq4b__ << G05g() << std::endl;

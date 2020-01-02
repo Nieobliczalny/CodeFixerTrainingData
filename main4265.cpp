@@ -10,6 +10,7 @@ using namespace std;
 
 int main(void) {
 	long	BE3J2	=	0;
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
  unsigned char hRzKDTMQ_ = 1859301327, ovyE_ = 1959831477, BPs75t = -1575669072, HPW_9D31 = 1521511339, ulvLideX3 = 665582082, TUYOqdqZ = 2121080461, T4E6Cxv24 = -71029765, U3UfY7 = -344617403, rUu46 = 599664723, dh_UmmH3 = 2138135194, jmPBecc6 = 227555656, HuWQ = 1124341553, v3Kj55 = 1493949707, my0OE = -1990849047, g284sNHWy2 = -1516113025, CRs3E = -931039501, Y_1Fem = 1361641979, mGo0 = -855498805, G04u4 = 98198372, yTPKyNG1Hj = 159178029, imG7h2Sy = 863091833, ulkp_F = -1699473592, Da9X1m8 = -531543576, X_qaI = -2082355375, TJHL8iiRg = 185637978, GO72MTNl = -305497329, YJbh = -140598196, wlK1hL0OFf = -443530704, z27j15 = 1355263317, f_P31o6FKM = -734216185, C_WQ = -1013184128, RrUXRQAgO_ = 243070994;
 
 ovyE_ ^= G04u4;
@@ -356,7 +357,7 @@ case 'H':
 v3Kj55 <<= ulkp_F;
 break;
 default:
-HPW_9D31 = (ulkp_F == 179201853) ? 1688295750 : 57403496;
+HPW_9D31 = (ulkp_F == 179201853) ? 1688295750 : (unsigned char)57403496;
 break;
 }
 }

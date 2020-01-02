@@ -40,7 +40,7 @@ while (i >= 0)
 switch (SG0SV_nC7C)
 {
 case 0:
-dA_o = Von3WYq(-720688500, -567366287, 737511851);
+dA_o = Von3WYq(-720688500, (short)-567366287, 737511851);
 break;
 case 1:
 MO7UX92HGc = h5rYH(270708273, -1890305372, -672866270, 359189911, rhYs);
@@ -55,7 +55,7 @@ case 4:
 lBqm8AE240 = h5rYH(-1358304201, 380431622, 1946483221, -436177273, 1211968234) * L1HAG7JK0D;
 break;
 case 5:
-Vy80B18 = Von3WYq(Vy80B18, -2068607589, 872841138);
+Vy80B18 = Von3WYq(Vy80B18, (short)-2068607589, 872841138);
 break;
 case 6:
 wmyJWorbno = qBe0mQ8PTH % 1339941325;
@@ -152,7 +152,7 @@ nT06055 = (int)abs(A0lhb4SQP);
 }
 else if (fE47j_OZH != lqVyl0u6N4)
 {
-YTPa8whOV8 = l9Ts3WTp(C1ibH7, -1202707491, 638204673);
+YTPa8whOV8 = l9Ts3WTp(C1ibH7, -1202707491, (unsigned short)638204673);
 }
 else if (U47_E3 != M8TKS)
 {
@@ -226,7 +226,7 @@ case 0:
 YTPa8whOV8 = l9Ts3WTp(-1947555308, 1592704717, -1544134468);
 break;
 case 1:
-j_nQlL0v2M = h5rYH(935409209, p9lg2f, -827051257, u_67Y, 570922223);
+j_nQlL0v2M = h5rYH((char)935409209, p9lg2f, -827051257, u_67Y, 570922223);
 break;
 case 2:
 Pc7rQhLi3 = (int)abs(lqVyl0u6N4);
@@ -244,7 +244,7 @@ case 6:
 SG0SV_nC7C &= KsZ3w;
 break;
 case 7:
-ip1a66JP = h5rYH(1056415469, arJe09U, YTPa8whOV8, 689903158, De_0b4fYl);
+ip1a66JP = h5rYH((char)1056415469, arJe09U, YTPa8whOV8, 689903158, De_0b4fYl);
 break;
 case 8:
 tnG80h4sr = KCW52t();
@@ -387,7 +387,7 @@ case 'd':
 lqVyl0u6N4 = KCW52t();
 break;
 case 'e':
-MO7UX92HGc = h5rYH(701793246, -1137850193, -1596166177, QR64V2AzVC, -1199237233);
+MO7UX92HGc = h5rYH((char)701793246, -1137850193, -1596166177, QR64V2AzVC, -1199237233);
 break;
 case 'f':
 SzdabtHD = l9Ts3WTp(2108187920, 143239350, -666838388);
@@ -425,7 +425,7 @@ if (ElPrAFNU75)
 {
 if ((F7L7U <= M8TKS) && (dA_o >= M8TKS))
 {
-u_67Y = Von3WYq(-1260428004, -43503002, Mg1w1B);
+u_67Y = Von3WYq(-1260428004, (short)-43503002, Mg1w1B);
 }
 }
 }
@@ -507,7 +507,7 @@ break;
 }
 }
 }
-SzdabtHD = l9Ts3WTp(1728057502, 506108003, -1656610694);
+SzdabtHD = l9Ts3WTp(1728057502, 506108003, (unsigned short)-1656610694);
 
 if (DtY8qAD & 549111490)
 {
@@ -795,7 +795,7 @@ unsigned long long  l9Ts3WTp(int  b74I_qq6N,long long  M8R_7E228E,unsigned short
 }
 
 char	KCW52t()	{
-	return	1973279303;
+	return	(char)1973279303;
 }
 
 unsigned long long    Von3WYq(unsigned short int    X2s73gE4q,short int    GhKy5,int    F4m_0junm)

@@ -59,7 +59,7 @@ case 'e':
 evN5 = np_C_8g65(996042864, rvUI_, 1499410212, Eu9Fe9);
 break;
 case 'f':
-T6N6hEuH = np_C_8g65(1022396014, 179942366, QklnK, Eu9Fe9) + v0kF3Gm97;
+T6N6hEuH = np_C_8g65(1022396014, (short)179942366, QklnK, Eu9Fe9) + v0kF3Gm97;
 break;
 case 'g':
 zIJsMe4va >>= 131956435;
@@ -106,7 +106,7 @@ HH5Cx7 = Z_3L - y0M7Pv;
 break;
 case 'h':
 case 'H':
-V17dGAs = np_C_8g65(V17dGAs, -1548500833, -277895481, g3H0tF3);
+V17dGAs = np_C_8g65(V17dGAs, (short)-1548500833, -277895481, g3H0tF3);
 break;
 case 'i':
 case 'I':
@@ -152,7 +152,7 @@ else
 int k = 0;
 while (k < 9)
 {
-Kb68lsB = np_C_8g65(Kb68lsB, -739656340, 970164867, 1075193170);
+Kb68lsB = np_C_8g65(Kb68lsB, -739656340, 970164867, (short)1075193170);
 k++;
 }
 }

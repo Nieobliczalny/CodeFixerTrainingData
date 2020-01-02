@@ -23,7 +23,7 @@ int main()
  unsigned short gT8JqIO9q = 0;
   short  L109A6l  =  -2147311127;
   double  uqYWHWUo7  =  -440836886;
-    unsigned short int    GJz_VT6    =    108585213;
+    unsigned short int    GJz_VT6    =    (unsigned short)108585213;
  double VvTYop3jG = -2110868377;
  long double DQKD8cRV = -490370975;
     unsigned char    ATwj    =    1197421342;
@@ -34,7 +34,7 @@ int main()
     short int    k6LW07    =    1973613984;
  unsigned char w_f_km = 1207832452;
     int    Wd1_J    =    -1377134404;
-  short int  mG4z0eF  =  -2058331419;
+  short int  mG4z0eF  =  (short)-2058331419;
   float  Kux7MC  =  -1121357629;
     short    N_B3l    =    -1511001415;
     unsigned char    VMU9    =    -345704799;
@@ -48,7 +48,7 @@ int main()
 	long double	ovs4D2	=	2100042606;
  unsigned long long P8jPl3r4 = 905370170;
     unsigned char    O4O8    =    -132167680;
-    short int    j9K17G    =    957596768;
+    short int    j9K17G    =    (short)957596768;
     unsigned int    Y3iEz6Hk_    =    -767788860;
     short int    L_TkU    =    -1461826163;
 	int	qLjn6g7	=	1406176032;
@@ -192,7 +192,7 @@ j--;
 }
 if ((VMU9 != ry24GE0_t_) || ((VoQsElK) && (W4v09 < 792306186)))
 {
-std::cout << BIE21337(VvTYop3jG, 1876705124, 916972655, n9rO, -1140716796) << LtM_() << "beOqM214" << "eIBNmOnSvH" << "tZRwjyg0" << std::endl;
+std::cout << BIE21337(VvTYop3jG, 1876705124, (unsigned char)916972655, n9rO, -1140716796) << LtM_() << "beOqM214" << "eIBNmOnSvH" << "tZRwjyg0" << std::endl;
 }
 else
 {
@@ -248,7 +248,7 @@ f7MT7m8 = MGtbIrO(VvTYop3jG, -1468231995, L109A6l, 791398739, -1780721619) >> t_
 
 S7r_1 %= j9K17G;
 
-std::cout << "BY68fFG" << MGtbIrO(-64181873, t_UA, L109A6l, Kux7MC, gT8JqIO9q) << "SocV0Q" << BIE21337(VvTYop3jG, t_UA, 2088773965, -2011443334, gT8JqIO9q) << std::endl;
+std::cout << "BY68fFG" << MGtbIrO(-64181873, t_UA, L109A6l, Kux7MC, gT8JqIO9q) << "SocV0Q" << BIE21337(VvTYop3jG, t_UA, (unsigned char)2088773965, -2011443334, gT8JqIO9q) << std::endl;
 return 0;
 }
 
@@ -269,6 +269,6 @@ char  LtM_()
 
 short int	MGtbIrO(unsigned int	NkJ8_l9,long long	atT8nJT,long	YZXktn,unsigned char	LKL2dACFl,unsigned long long	Y3TQ07L)
 {
-	return	-1014176737;
+	return	(short)-1014176737;
 }
 

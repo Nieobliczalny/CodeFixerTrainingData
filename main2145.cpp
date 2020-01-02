@@ -157,7 +157,7 @@ e9qD = (unsigned long)(gY6zNk);
 
 if (Ti6QV35_(gY6zNk, 1248706509) == 0)
 {
-	k7z0_6 = Nan29Pdd / Ti6QV35_(gY6zNk, 1248706509);
+	k7z0_6 = Nan29Pdd / Ti6QV35_(gY6zNk, (char)1248706509);
 }
 if ((gY6zNk >= Nan29Pdd) || (Nan29Pdd))
 {
@@ -177,7 +177,7 @@ k7z0_6 = j70_ml(Nan29Pdd);
 break;
 case 'd':
 case 'D':
-aYGIVvG = Ti6QV35_(808664714, 1963117126);
+aYGIVvG = Ti6QV35_(808664714, (char)1963117126);
 break;
 case 'e':
 case 'E':

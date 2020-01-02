@@ -26,7 +26,7 @@ int main() {
     short int    U_n7;
     U_n7    =    -520696811;
 	short int	VOmx44;
-	VOmx44	=	-1313540288;
+	VOmx44	=	(short)-1313540288;
   unsigned int  XDo7hT;
   XDo7hT  =  -1159442966;
 	unsigned short int	yNum1h7_;
@@ -62,7 +62,7 @@ kHyI8_Q7++;
 }
 else
 {
-U_n7 = I53l42XA9(-959066935, XDo7hT, r4ZV, -476789798);
+U_n7 = I53l42XA9(-959066935, XDo7hT, r4ZV, (short)-476789798);
 }
 }
 else if (U_n7 != gO75)
@@ -96,7 +96,7 @@ else if (e20lMBaeA != 1552856038)
 switch (r4ZV)
 {
 case 0:
-yNum1h7_ = I53l42XA9(-318665300, -161637058, -1688363171, -1706737756);
+yNum1h7_ = I53l42XA9(-318665300, -161637058, -1688363171, (short)-1706737756);
 break;
 case 1:
 r4ZV &= kHyI8_Q7;
@@ -146,7 +146,7 @@ VOmx44 = I53l42XA9(w1T4Cm, -835494121, e20lMBaeA, 1365053060);
 switch (yNum1h7_)
 {
 case 0:
-gO75 = S0w0FT6HP4(445662258, 119707762, BG31n4GA, U_n7, VOmx44);
+gO75 = S0w0FT6HP4(445662258, (short)119707762, BG31n4GA, U_n7, VOmx44);
 break;
 case 1:
 XDo7hT = I53l42XA9(XDo7hT, -1460021712, U_n7, yNum1h7_);
@@ -198,7 +198,7 @@ case 'c':
 BG31n4GA = l135yF915K ^ 111861485;
 break;
 case 'd':
-yNum1h7_ = I53l42XA9(-621435586, kHyI8_Q7, w1T4Cm, 267189006);
+yNum1h7_ = I53l42XA9(-621435586, kHyI8_Q7, w1T4Cm, (short)267189006);
 break;
 }
 std::cout << I53l42XA9(-348570804, -1416349290, 139193168, BG31n4GA) << K9aP6s3bp() << l135yF915K << e20lMBaeA << std::endl;
@@ -256,6 +256,6 @@ unsigned short int K9aP6s3bp() {
 
 unsigned short int S0w0FT6HP4(int zsOvB_,short int cvlf1ZL3GH,char F3g3,unsigned char DI3049,int C3BEGJ8Sx)
 {
- return -925799470;
+ return (unsigned short)-925799470;
 }
 

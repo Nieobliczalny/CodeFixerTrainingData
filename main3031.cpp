@@ -112,7 +112,7 @@ else
 {
 if (tzZ8i9_y == Fgx0D0wIg)
 {
-oJl887bI32 = Ob5ZL(-1564629922, GeA2c4Da0, c6e9, tt91O, -1423243440);
+oJl887bI32 = Ob5ZL((short)-1564629922, GeA2c4Da0, c6e9, tt91O, -1423243440);
 }
 else
 {
@@ -192,7 +192,7 @@ else
 {
 for (int k = 0; k < 2; ++k)
 {
-Mr8i8q1 = J0p_yo(-80231475, -1994570268, -1924785082, Zqe6oc03_);
+Mr8i8q1 = J0p_yo(-80231475, -1994570268, (unsigned char)-1924785082, Zqe6oc03_);
 }
 }
 }
@@ -277,7 +277,7 @@ oJl887bI32 = Ob5ZL(1224089356, Abb5, -1663651320, N3nV, Ukm6R4);
 }
 else if ((LCu9j7q == Fgx0D0wIg) && (I53GL <= 771003778))
 {
-xYBdEjn = J0p_yo(982147120, Zqe6oc03_, 450974285, Ukm6R4);
+xYBdEjn = J0p_yo(982147120, Zqe6oc03_, (unsigned char)450974285, Ukm6R4);
 }
 else if (bDS08 < JPF6j)
 {
@@ -334,7 +334,7 @@ Xe8n = B8_cV_dz * Abb5;
 }
 else
 {
-bAoxBg4H = J0p_yo(bAoxBg4H, 1264788281, -246580089, bSEvkBzQe);
+bAoxBg4H = J0p_yo(bAoxBg4H, 1264788281, (unsigned char)-246580089, bSEvkBzQe);
 }
 }
 catch (int& errorCode)
@@ -366,7 +366,7 @@ bSEvkBzQe = JEypQ6z(bSEvkBzQe, Abb5, -148978247, 146248466);
 }
 else if (bSEvkBzQe > de2I)
 {
-std::cout << J0p_yo(1233645086, Abb5, xYBdEjn, -1282714556) << y_J8V8cRo << J0p_yo(65317331, -503649208, -655535320, tt91O) << "gcZds3H_" << std::endl;
+std::cout << J0p_yo(1233645086, Abb5, xYBdEjn, -1282714556) << y_J8V8cRo << J0p_yo(65317331, -503649208, (unsigned char)-655535320, tt91O) << "gcZds3H_" << std::endl;
 }
 else
 {
@@ -385,7 +385,7 @@ std::cout << LCu9j7q << Ob5ZL(bSEvkBzQe, Abb5, -1975385384, tt91O, -1383222554) 
 int i = 0;
 while (i < 4)
 {
-std::cout << "e0xx7" << tzZ8i9_y << J0p_yo(1796521741, -1449871498, xYBdEjn, 1561562309) << hwk90kyV(bSEvkBzQe, Abb5) << std::endl;
+std::cout << "e0xx7" << tzZ8i9_y << J0p_yo(1796521741, (unsigned char)-1449871498, xYBdEjn, 1561562309) << hwk90kyV(bSEvkBzQe, Abb5) << std::endl;
 ++i;
 }
 }
@@ -551,7 +551,7 @@ LCu9j7q = L42Dn8U - tt91O;
 }
 else if (((de2I == -166963158) || (N3nV < 260727874)) && ((S_Smt0qeOI > JPF6j) || (xYBdEjn != -37425137)))
 {
-y_J8V8cRo = hwk90kyV(y_J8V8cRo, 2031838762);
+y_J8V8cRo = hwk90kyV(y_J8V8cRo, (unsigned short)2031838762);
 }
 else if (de2I == 1411084244)
 {

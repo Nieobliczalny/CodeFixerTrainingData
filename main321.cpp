@@ -15,7 +15,7 @@ int main(int argc, char** argv)
 	QRrlzy1	=	0;
  char P2x_X7, L62r, HfGq2, xmQ42Wpm1d, V_Id82x, z7SF7Cya36, T1dL4g2, PQ54c6, OPyJdyb3_, T9rK9f9, HJZNp0, P8ULL, Jo6r9, eB5VHyG6xe, oZS7nB, R3Ag, XJ67QEVZ, aI64usYX4c, L5O8, mtE_NN, RyoEkiOD, w1q0a, Hjc_u571h0, lvWg92, lL1z, sPAM058bh, uC5H3, v5ayVV, mKsGtT, Vtn3_7Uz, k127_gb, NwjfD4_pI, C1HLIkh, TNwDzZ, kCYn, Rya0Hjsy, yF73, vZ_bi4x_8, QlNLTxT, HVG8, dOGLEb1, V2Tf_2_0, A6cdh7lG, wEPQXRs, U0v_qcb0, b1BQ5UJey7, iFRQ0GXs, h4Ly3aTCQ6, L1_8s, lhHLF, eLpi, Hq6A, J0_E, JE4n, PRU5, Xi6i0M46, J7FK, fp0WCe_83, LGRVbiUpn, NKg84e, POTRm, H458WMP7xP, rQE7XwQQ, x4o3b594t, Yn85, sdE9, S69u94fcj, yEy0EP2c2, f9rpoX_, MwhMC7B;
  P2x_X7 = 345087741;
- L62r = -952517945;
+ L62r = (char)-952517945;
  HfGq2 = -296910987;
  xmQ42Wpm1d = 714984666;
  V_Id82x = -1194022406;
@@ -25,7 +25,7 @@ int main(int argc, char** argv)
  OPyJdyb3_ = 1244164195;
  T9rK9f9 = 1211614985;
  HJZNp0 = -1262653560;
- P8ULL = -431074035;
+ P8ULL = (char)-431074035;
  Jo6r9 = -869942550;
  eB5VHyG6xe = -1946148601;
  oZS7nB = -1902954726;
@@ -35,7 +35,7 @@ int main(int argc, char** argv)
  L5O8 = -1935434430;
  mtE_NN = 1200608816;
  RyoEkiOD = 1639573419;
- w1q0a = -1980999806;
+ w1q0a = (char)-1980999806;
  Hjc_u571h0 = -884208751;
  lvWg92 = 825099148;
  lL1z = -7032159;
@@ -45,7 +45,7 @@ int main(int argc, char** argv)
  mKsGtT = 300833837;
  Vtn3_7Uz = -230887893;
  k127_gb = -1203876799;
- NwjfD4_pI = 952267482;
+ NwjfD4_pI = (char)952267482;
  C1HLIkh = -893973381;
  TNwDzZ = 1198847862;
  kCYn = 1330296342;
@@ -55,7 +55,7 @@ int main(int argc, char** argv)
  QlNLTxT = -74161563;
  HVG8 = -1485285425;
  dOGLEb1 = 481928758;
- V2Tf_2_0 = 1690074365;
+ V2Tf_2_0 = (char)1690074365;
  A6cdh7lG = -2091814743;
  wEPQXRs = -1703484205;
  U0v_qcb0 = 127322646;
@@ -65,7 +65,7 @@ int main(int argc, char** argv)
  L1_8s = -1973702008;
  lhHLF = 1857591041;
  eLpi = -335078885;
- Hq6A = 1472509720;
+ Hq6A = (char)1472509720;
  J0_E = 2069067012;
  JE4n = 1054079165;
  PRU5 = -641385333;
@@ -75,7 +75,7 @@ int main(int argc, char** argv)
  LGRVbiUpn = 436570662;
  NKg84e = -350174209;
  POTRm = 714492990;
- H458WMP7xP = -506568955;
+ H458WMP7xP = (char)-506568955;
  rQE7XwQQ = 1081844746;
  x4o3b594t = -1417824286;
  Yn85 = 1302392611;

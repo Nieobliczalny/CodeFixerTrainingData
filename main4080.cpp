@@ -23,7 +23,7 @@ int main(void)
     short    T48hXR4    =    0;
   unsigned long long  Udu_xU  =  500991353;
  float yOs86CK5 = -1665938401;
-  char  ukGkt_H7  =  -732262372;
+  char  ukGkt_H7  =  (char)-732262372;
     double    K69lZfY    =    509745043;
     unsigned short int    AgSV    =    894671769;
   float  fI_0  =  769677662;
@@ -34,7 +34,7 @@ int main(void)
   unsigned short int  YEyiXFEcdD  =  -1197973890;
     unsigned long    c5Ji2h1    =    -694182396;
   unsigned long  CK5bCQ  =  -38434348;
-	short int	gG9p173	=	2072718649;
+	short int	gG9p173	=	(short)2072718649;
     short    MQ7K0D05Bd    =    0;
 
 switch (W_E_8D1kLl)

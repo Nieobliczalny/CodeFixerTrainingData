@@ -389,6 +389,6 @@ unsigned short int    K5jk2eU6Sz(long    Ia6Iu2g_33)    {
 
 char	v27dIZI6W(unsigned long	Hyq2soXqcC)
 {
-	return	-1176571464;
+	return	(char)-1176571464;
 }
 

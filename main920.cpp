@@ -39,7 +39,7 @@ for (int j = 0; j < 7; ++j)
 {
 if (C1wnHeWoA != dR_PCYp)
 {
-bGjm = D8IF6(1012536301);
+bGjm = D8IF6((char)1012536301);
 }
 }
 }
@@ -212,7 +212,7 @@ while (j >= 0);
 
 for (int i = 10; i >= 0; i--)
 {
-std::cout << "HDG6zoMt3n" << b6MUl0(1618314736, oVF6H3aH, tJGp1X_9t, bGjm, -857680703) << D8IF6(579929403) << D8IF6(CIU3P_) << CDon_0Svu << std::endl;
+std::cout << "HDG6zoMt3n" << b6MUl0(1618314736, oVF6H3aH, tJGp1X_9t, bGjm, -857680703) << D8IF6((char)579929403) << D8IF6(CIU3P_) << CDon_0Svu << std::endl;
 }
 
 oVF6H3aH = d9eX / d9eX;
@@ -236,7 +236,7 @@ bGjm = D8IF6(C1wnHeWoA);
 break;
 case 'e':
 case 'E':
-CDon_0Svu = b6MUl0(tJGp1X_9t, 1694818326, CDon_0Svu, -1766154654, -1485331067);
+CDon_0Svu = b6MUl0(tJGp1X_9t, 1694818326, CDon_0Svu, (short)-1766154654, -1485331067);
 break;
 }
 {
@@ -267,7 +267,7 @@ C1wnHeWoA = Eqr0ytwK2c(C1wnHeWoA);
 switch (tJGp1X_9t)
 {
 case 0:
-CDon_0Svu = b6MUl0(1076922203, -1609042276, -1110598058, bGjm, oVF6H3aH);
+CDon_0Svu = b6MUl0(1076922203, -1609042276, (short)-1110598058, bGjm, oVF6H3aH);
 break;
 case 1:
 C1wnHeWoA = (int)abs(CIU3P_);

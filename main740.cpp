@@ -54,7 +54,7 @@ ktynM3J37 = (int)abs(v6GLL_);
 break;
 case 'c':
 case 'C':
-oom0SIcDt5 = (bq6bYcsH != -2027048256) ? 550019871 : -819022992;
+oom0SIcDt5 = (bq6bYcsH != -2027048256) ? 550019871 : (char)-819022992;
 break;
 case 'd':
 case 'D':
@@ -74,7 +74,7 @@ V_URP3E92 >>= rc9p5kWj6;
 break;
 case 'h':
 case 'H':
-I_t7I04 = RA3bd266Gj(1987619685, v6GLL_, -1635209218, Ew69xH, 149483183);
+I_t7I04 = RA3bd266Gj(1987619685, v6GLL_, (short)-1635209218, Ew69xH, 149483183);
 break;
 default:
 v6GLL_ %= HEI937hyrZ;
@@ -129,7 +129,7 @@ case 1:
 j0tLk6++;
 break;
 case 2:
-V_URP3E92 = RA3bd266Gj(-1180166675, -136603740, rc9p5kWj6, 1216683730, -898513169);
+V_URP3E92 = RA3bd266Gj(-1180166675, (unsigned short)-136603740, rc9p5kWj6, 1216683730, -898513169);
 break;
 case 3:
 oom0SIcDt5 = kV3S7(V_URP3E92) ^ v_OK;
@@ -141,7 +141,7 @@ case 5:
 dddzY34 = HrRb8KaRQ(dddzY34);
 break;
 default:
-V_URP3E92 = RA3bd266Gj(V_URP3E92, TUqWz9A, 1908824031, 771687145, l50N7);
+V_URP3E92 = RA3bd266Gj(V_URP3E92, TUqWz9A, 1908824031, (short)771687145, l50N7);
 break;
 }
 }
@@ -217,7 +217,7 @@ catch (int& errorCode)
 oom0SIcDt5 = v_OK + 1187252994;
 }
 }
-cout << RA3bd266Gj(-1977335192, rc9p5kWj6, dddzY34, gP9rWNi6, j0tLk6) / TUqWz9A << endl;
+cout << RA3bd266Gj((unsigned short)-1977335192, rc9p5kWj6, dddzY34, gP9rWNi6, j0tLk6) / TUqWz9A << endl;
 
 if ((HEI937hyrZ == 1190023627) || (AO3LS >= GbrzX822F))
 {
@@ -278,7 +278,7 @@ while (k >= 0);
 
 try
 {
-C4I9g61c1Z = RA3bd266Gj(1122020196, 960419972, -427638418, 636526878, oom0SIcDt5);
+C4I9g61c1Z = RA3bd266Gj(1122020196, (unsigned short)960419972, -427638418, 636526878, oom0SIcDt5);
 }
 catch (int& errorCode)
 {
@@ -300,7 +300,7 @@ int i = 10;
 do
 {
 --i;
-V_URP3E92 = RA3bd266Gj(-1655670408, 1842207655, l50N7, I_t7I04, 70347512);
+V_URP3E92 = RA3bd266Gj(-1655670408, (unsigned short)1842207655, l50N7, I_t7I04, 70347512);
 }
 while (i >= 0);
 }
@@ -335,7 +335,7 @@ j0tLk6 = HEI937hyrZ << 1468982214;
 }
 else
 {
-Ew69xH = RA3bd266Gj(Ew69xH, v6GLL_, -313683684, 652232795, 1880795517);
+Ew69xH = RA3bd266Gj(Ew69xH, v6GLL_, -313683684, (short)652232795, 1880795517);
 }
 }
 else

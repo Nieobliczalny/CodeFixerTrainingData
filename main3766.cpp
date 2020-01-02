@@ -22,7 +22,7 @@ int main(int argc, char** argv)
  short OJGZgsd_ = 0;
  long double hOWF3_ = -1896954697;
     short    hW4G82fj    =    1086566764;
-    unsigned short    MkB65s_I    =    -1361663653;
+    unsigned short    MkB65s_I    =    (unsigned short)-1361663653;
  float OZbFd = 1873510409;
     double    eiU9Z7E12    =    -1786581428;
  char ZR_b = -689115992;
@@ -173,7 +173,7 @@ case 1:
 OJGZgsd_ = (int)abs(m2Aq1_);
 break;
 case 2:
-Eu4g = B_Th7_6(-659859756, -462096669, ApDG6, k4svx);
+Eu4g = B_Th7_6(-659859756, (unsigned char)-462096669, ApDG6, k4svx);
 break;
 case 3:
 y1AnU7a = (int)abs(xy1SSn71);
@@ -190,7 +190,7 @@ int k = 0;
 do
 {
 k++;
-J21Ui = B_Th7_6(ApDG6, 1377012208, 1893000549, aWg3ON);
+J21Ui = B_Th7_6(ApDG6, 1377012208, (unsigned short)1893000549, aWg3ON);
 }
 while (k < 10);
 }

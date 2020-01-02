@@ -127,7 +127,7 @@ case 'c':
 eO9sSC2O02 = (int)floor(oYqzfDk);
 break;
 case 'd':
-oYqzfDk = Bk6d28n_1_(-741100522, oYqzfDk, -1285720182, RY3NZn8ad4, -561413569);
+oYqzfDk = Bk6d28n_1_(-741100522, oYqzfDk, -1285720182, RY3NZn8ad4, (char)-561413569);
 break;
 case 'e':
 RY3NZn8ad4 = (int)floor(eO9sSC2O02);
@@ -208,7 +208,7 @@ oYqzfDk /= oYqzfDk;
 }
 else if (oYqzfDk)
 {
-RY3NZn8ad4 = Bk6d28n_1_(RY3NZn8ad4, 431091241, 1963624579, -457565712, -241008116);
+RY3NZn8ad4 = Bk6d28n_1_(RY3NZn8ad4, 431091241, 1963624579, (short)-457565712, -241008116);
 }
 else if ((Mlg_btVS4j == -1800386692) && (RY3NZn8ad4 < oYqzfDk))
 {
@@ -272,7 +272,7 @@ oYqzfDk = Mlg_btVS4j % 469380243;
 break;
 case 'g':
 case 'G':
-eO9sSC2O02 = Bk6d28n_1_(1154982034, Mlg_btVS4j, oYqzfDk, -1899154143, -1774106666);
+eO9sSC2O02 = Bk6d28n_1_(1154982034, Mlg_btVS4j, oYqzfDk, -1899154143, (char)-1774106666);
 break;
 case 'h':
 case 'H':
@@ -310,7 +310,7 @@ case 'f':
 RY3NZn8ad4 = sLbb2Iq8(RY3NZn8ad4);
 break;
 case 'g':
-RY3NZn8ad4 = Bk6d28n_1_(-497520218, -35320149, eO9sSC2O02, -93794374, -328736218);
+RY3NZn8ad4 = Bk6d28n_1_(-497520218, -35320149, eO9sSC2O02, (short)-93794374, -328736218);
 break;
 case 'h':
 eO9sSC2O02 = (int)floor(RY3NZn8ad4);
@@ -581,7 +581,7 @@ while (k >= 0);
 }
 }
 }
-oYqzfDk = Bk6d28n_1_(-629520964, -1404163031, -919083419, eO9sSC2O02, 289156286);
+oYqzfDk = Bk6d28n_1_(-629520964, -1404163031, -919083419, eO9sSC2O02, (char)289156286);
 if (Mlg_btVS4j != T297QU)
 {
 switch (Mlg_btVS4j)
@@ -600,7 +600,7 @@ RY3NZn8ad4 = sLbb2Iq8(1375724977);
 break;
 case 'd':
 case 'D':
-oYqzfDk = X_2NhA6(-976415787);
+oYqzfDk = X_2NhA6((short)-976415787);
 break;
 case 'e':
 case 'E':
@@ -637,7 +637,7 @@ cout << Mlg_btVS4j << endl;
 }
 else
 {
-cout << eO9sSC2O02 << Bk6d28n_1_(2016489536, -835938921, eO9sSC2O02, 1950385941, -1556785938) << Izb69(941345321, oYqzfDk, -1855759300, -390843261) << eO9sSC2O02 << RY3NZn8ad4 << endl;
+cout << eO9sSC2O02 << Bk6d28n_1_(2016489536, -835938921, eO9sSC2O02, (short)1950385941, -1556785938) << Izb69(941345321, oYqzfDk, -1855759300, -390843261) << eO9sSC2O02 << RY3NZn8ad4 << endl;
 }
 if (((Mlg_btVS4j & h_eUqwvgzU) && (Mlg_btVS4j & 1624184879)) && (oYqzfDk <= T297QU))
 {
@@ -741,7 +741,7 @@ unsigned char    X_2NhA6(short int    u26E3M19)
 
 unsigned char	Izb69(unsigned int	WBta,long	T_h0ZT82Dd,unsigned long long	r303sn2Nk,unsigned short	C00U)
 {
-	return	872250205;
+	return	(unsigned char)872250205;
 }
 
 char sLbb2Iq8(unsigned char ajew87mT)

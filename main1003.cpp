@@ -23,7 +23,7 @@ long long  Gyt4jES675(unsigned char  skvVrhn5gC,char  h0506i3y,short int  xe8Q2S
 
 short    Vtli_(char    WKjdq,unsigned char    JbLu5,long long    TMvAGp6_P,unsigned int    eNkX)
 {
-    return    219242417;
+    return    (short)219242417;
 }
 
 int EKGo(long vx4wR,long JKyoO0ek27,unsigned long O78gC3GUra,unsigned char jzByW2,unsigned long Snsvbnz33D) {
@@ -79,7 +79,7 @@ cout << b1ZJ() << "Fh72ekp" << k8I8SDw36B(334959265, -1176980882, cypR3) << endl
 }
 else if (e_tYfBNoH != -2062723516)
 {
-e_tYfBNoH = Gyt4jES675(e_tYfBNoH, -1017667822, -1097954360, z3yLJF8o);
+e_tYfBNoH = Gyt4jES675(e_tYfBNoH, (char)-1017667822, -1097954360, z3yLJF8o);
 }
 else
 {
@@ -114,7 +114,7 @@ if ((Slr1cm19 <= 1800465333) || (utrA3HzH > Qh1Ei))
 {
 NE4T3F = Vtli_(NE4T3F, 1081051609, -1378072812, MdCBDI6297);
 }
-cout << czRguz << Vtli_(1546079924, Kv9Oen8TgU, 585874611, MdCBDI6297) << Vtli_(-992827969, Kv9Oen8TgU, sBH8, MdCBDI6297) << endl;
+cout << czRguz << Vtli_((char)1546079924, Kv9Oen8TgU, 585874611, MdCBDI6297) << Vtli_(-992827969, Kv9Oen8TgU, sBH8, MdCBDI6297) << endl;
 
 try
 {
@@ -146,7 +146,7 @@ g7w8yP454++;
 break;
 case 'g':
 case 'G':
-REqCOrzW = Vtli_(-1333952399, l_2DQ_, -1094765266, -178994769);
+REqCOrzW = Vtli_((char)-1333952399, l_2DQ_, -1094765266, -178994769);
 break;
 case 'h':
 case 'H':
@@ -177,7 +177,7 @@ Au_YRqMo29 += YNvkB_;
 break;
 case 'd':
 case 'D':
-o3OzLKI = Gyt4jES675(o3OzLKI, 525040930, tQ9Ywm2f, l_2DQ_);
+o3OzLKI = Gyt4jES675(o3OzLKI, (char)525040930, tQ9Ywm2f, l_2DQ_);
 break;
 case 'e':
 case 'E':
@@ -189,7 +189,7 @@ MkZ6d5c = EKGo(-1417961506, 388556266, lh1SB0G8, -1260832427, 1505873013);
 break;
 case 'g':
 case 'G':
-utrA3HzH = Vtli_(-187033980, i3aA279To, -211248856, -2094552563);
+utrA3HzH = Vtli_((char)-187033980, i3aA279To, -211248856, -2094552563);
 break;
 case 'h':
 case 'H':
@@ -215,7 +215,7 @@ Au_YRqMo29 = EKGo(-1949839923, 1734847175, YoLiXD, 921059809, -730422659);
 
 if (sBH8 < -1811919338)
 {
-cout << Vtli_(-70569091, oqV2X1v, 859655416, -1617019416) << b1ZJ() << "BZnZ5Cjvv" << endl;
+cout << Vtli_((char)-70569091, oqV2X1v, 859655416, -1617019416) << b1ZJ() << "BZnZ5Cjvv" << endl;
 }
 try
 {

@@ -19,7 +19,7 @@ int  PPwxL(short int  d2FtkEw);
 
 int main() {
  short krhji = -1646986002;
-    unsigned short int    xA9Rd    =    1023856186;
+    unsigned short int    xA9Rd    =    (unsigned short)1023856186;
  unsigned char zT3E3 = 0;
 	long	JSE_n	=	0;
 	long long	eFdm15L0xY	=	-754534216;
@@ -30,7 +30,7 @@ int main() {
     unsigned long long    Yk3Vh0O    =    467640941;
  short vKO0 = 0;
  unsigned short int b_pJMu9z4 = -1294028186;
-  char  CkM6w74C  =  461826421;
+  char  CkM6w74C  =  (char)461826421;
  short int QL0f0M1 = 1404146530;
  unsigned int f9lmw03QBL = -1686964857;
   float  b_FM7Pd  =  1653573116;
@@ -83,7 +83,7 @@ int k = 2;
 while (k >= 0)
 {
 --k;
-m1SJgu4 = PPwxL(-403763451);
+m1SJgu4 = PPwxL((short)-403763451);
 }
 }
 }
@@ -189,7 +189,7 @@ if ((h07t0UjL) || (krhji <= RzlPAJgm))
 {
 if (m1SJgu4 <= 823684223)
 {
-m1SJgu4 = J7Es7gtW7(-775934531, 1895586788);
+m1SJgu4 = J7Es7gtW7(-775934531, (unsigned char)1895586788);
 }
 }
 else if (U1W8f5_0e < 153343700)
@@ -236,7 +236,7 @@ H4Y_UjUZ = (int)abs(krhji);
 }
 else if (((b_pJMu9z4 != RzlPAJgm) || (H4Y_UjUZ > Pefi)) || (hJC14 <= zT3E3))
 {
-std::cout << f9lmw03QBL << PPwxL(1366939057) << GP91lbX07(1488342198, H4Y_UjUZ, 702265537, 1589359839) << CkM6w74C << J7Es7gtW7(JACB, -1328982983) << std::endl;
+std::cout << f9lmw03QBL << PPwxL(1366939057) << GP91lbX07(1488342198, H4Y_UjUZ, 702265537, 1589359839) << CkM6w74C << J7Es7gtW7(JACB, (unsigned char)-1328982983) << std::endl;
 }
 else if (I5Hc == hJC14)
 {

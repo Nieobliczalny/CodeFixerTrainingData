@@ -21,7 +21,7 @@ unsigned long  vN_Ms4e9(short int  HXVyNPy0,int  FGkqG6U8uQ,unsigned short  eztg
 int main(int argc, char** argv)
 {
     unsigned short int    fV_wOu3jH6    =    1339766301;
-  short  u7iatU8aT  =  -1373003052;
+  short  u7iatU8aT  =  (short)-1373003052;
  short int gDlH2HTKOa = -2090306451;
     unsigned int    TCMQpu    =    -472542993;
   long long  U7jRdW82u  =  912173197;
@@ -123,7 +123,7 @@ else
 switch (RF7L)
 {
 case 0:
-m664PJ = vN_Ms4e9(921396325, avCw8, 646369893);
+m664PJ = vN_Ms4e9((short)921396325, avCw8, 646369893);
 break;
 case 1:
 TCMQpu = oH8w(TCMQpu, u7iatU8aT, -770978627, -1917963227, 12184861);
@@ -135,7 +135,7 @@ case 3:
 Wjs6_G_Ka = oH8w(2073672389, U7jRdW82u, RF7L, E6K2, fV_wOu3jH6);
 break;
 case 4:
-fV_wOu3jH6 = oH8w(-525164138, m664PJ, 894766123, -1847908854, E6K2);
+fV_wOu3jH6 = oH8w((char)-525164138, m664PJ, 894766123, -1847908854, E6K2);
 break;
 case 5:
 byw9 = (int)abs(w_PnbmNo) + (-809180344);
@@ -216,7 +216,7 @@ case 'a':
 b5MBe4C = (int)floor(byw9);
 break;
 case 'b':
-m664PJ = vN_Ms4e9(-473462889, b5MBe4C, -525818620);
+m664PJ = vN_Ms4e9(-473462889, b5MBe4C, (unsigned short)-525818620);
 break;
 case 'c':
 r1rr5y56Y = (int)abs(byw9) * 0;
@@ -228,7 +228,7 @@ case 'e':
 U7jRdW82u <<= gDlH2HTKOa;
 break;
 case 'f':
-w_PnbmNo = vN_Ms4e9(1483616676, avCw8, -427621577);
+w_PnbmNo = vN_Ms4e9(1483616676, avCw8, (unsigned short)-427621577);
 break;
 }
 switch (gDlH2HTKOa)
@@ -265,7 +265,7 @@ for (int i = 7; i >= 0; i--)
 cout << "Y9lk9" << byw9 << oH8w(r1rr5y56Y, lku0h_8n1, u7iatU8aT, -470454836, -270061603) << endl;
 }
 
-khz10o7_ = vN_Ms4e9(920696640, 43066531, 1306912162);
+khz10o7_ = vN_Ms4e9((short)920696640, 43066531, 1306912162);
 
 E6K2 = (int)abs(u7iatU8aT);
 U7jRdW82u -= 1048482053;
@@ -313,7 +313,7 @@ for (int i = 0; i < 10; ++i)
 {
 try
 {
-r1rr5y56Y = vN_Ms4e9(-1206320106, 1967106404, -1733663797);
+r1rr5y56Y = vN_Ms4e9((short)-1206320106, 1967106404, -1733663797);
 }
 catch (int& errorCode)
 {
@@ -344,7 +344,7 @@ try
 {
 if (avCw8 & 28862539)
 {
-w_PnbmNo = vN_Ms4e9(1196857429, lku0h_8n1, -497483041);
+w_PnbmNo = vN_Ms4e9(1196857429, lku0h_8n1, (unsigned short)-497483041);
 }
 else if (f_6ELRX0XR > avCw8)
 {

@@ -71,7 +71,7 @@ catch (int& errorCode)
 iZbHM = iUGH(-610288483, -1639460342);
 }
 
-std::cout << iZbHM << n82e7BODaD << t5bD58q4_ << "F02G9_NV" << c1l_(iZbHM, 1125796753, 1198780418, 1888849021, 1269829744) << std::endl;
+std::cout << iZbHM << n82e7BODaD << t5bD58q4_ << "F02G9_NV" << c1l_(iZbHM, 1125796753, 1198780418, 1888849021, (short)1269829744) << std::endl;
 
 {
 int i = 0;
@@ -89,7 +89,7 @@ i++;
 }
 while (i < 10);
 }
-std::cout << iUGH(d_i6, 1886496830) << I5vG(d_i6, OOeE3) << n8DY_(-320216642) << std::endl;
+std::cout << iUGH(d_i6, 1886496830) << I5vG(d_i6, OOeE3) << n8DY_((unsigned short)-320216642) << std::endl;
 
 if (((P4BkrCyIY >= 1844583765) || (TgX4L6h0_)) && (PcpmY > MJV33))
 {
@@ -135,7 +135,7 @@ case 5:
 iAg_E = I5vG(iAg_E, 1825153320);
 break;
 case 6:
-MJzO5 = c1l_(x4ge2Btij, S9i35E, Dxh7JCZLTa, hAJbltgfT, -721106462);
+MJzO5 = c1l_(x4ge2Btij, S9i35E, Dxh7JCZLTa, hAJbltgfT, (short)-721106462);
 break;
 case 7:
 W79_X = I5vG(W79_X, 763592546);
@@ -256,7 +256,7 @@ catch (int& errorCode)
 {
 Fok8BVJNPE ^= cqxXdtpygd;
 }
-iAg_E = n8DY_(-841299953);
+iAg_E = n8DY_((unsigned short)-841299953);
 
 {
 int i = 1;

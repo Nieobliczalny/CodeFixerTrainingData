@@ -35,7 +35,7 @@ int    K4yFkU()    {
 }
 
 int main(int argc, char** argv) {
- short l7_3OD = -1296241185;
+ short l7_3OD = (short)-1296241185;
     short int    cxuPKL14    =    770849500;
  short int Nm86 = 1775013695;
 	unsigned long long	pDsRh	=	410585760;
@@ -46,7 +46,7 @@ int main(int argc, char** argv) {
  short uj_r63 = -1796749467;
 	long	qvAMv	=	0;
   float  Bo0xJ083  =  -904514806;
-	unsigned short int	ZaCxoUg76o	=	-1434717252;
+	unsigned short int	ZaCxoUg76o	=	(unsigned short)-1434717252;
   unsigned long  FsP25yTcX7  =  1118529745;
  unsigned int y3p_2eYyV = 0;
  int M24n53P = -608313554;
@@ -57,7 +57,7 @@ int main(int argc, char** argv) {
  long double Jb75 = -1510746778;
   unsigned short int  W0qBhk  =  1952925434;
  unsigned int Tj65J = -1820136577;
- unsigned char Ha731 = -122266940;
+ unsigned char Ha731 = (unsigned char)-122266940;
  char L4pL6rw5t = -1731069058;
  short int Rf_Uz1 = 0;
   short  F48Xj  =  -2043666345;
@@ -254,7 +254,7 @@ case 2:
 j7t1V = VgE7S5O_(611608119);
 break;
 default:
-g5E586 = LxbOuPjb4g(2085787245, -1902714610, -44308239, 201932185, -1781831321);
+g5E586 = LxbOuPjb4g((unsigned char)2085787245, -1902714610, -44308239, 201932185, -1781831321);
 break;
 }
 }

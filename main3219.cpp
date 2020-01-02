@@ -18,7 +18,7 @@ int main(int argc, char** argv) {
  short RYOx_a8C;
  RYOx_a8C = -1113411118;
  unsigned short int mc7Z;
- mc7Z = 642680598;
+ mc7Z = (unsigned short)642680598;
   short  aWKr;
   aWKr  =  0;
 	long double	Z_1qx;
@@ -42,7 +42,7 @@ int main(int argc, char** argv) {
  unsigned char NcUx31RB;
  NcUx31RB = 1169324550;
   short int  RVZ4r2kM0;
-  RVZ4r2kM0  =  -540997423;
+  RVZ4r2kM0  =  (short)-540997423;
 	long long	S_57i_0Sc;
 	S_57i_0Sc	=	-579096202;
   char  PLrG_GGi;
@@ -60,7 +60,7 @@ int main(int argc, char** argv) {
     unsigned char    N80C;
     N80C    =    -152017154;
 	unsigned char	BPXCF1uB2;
-	BPXCF1uB2	=	796683146;
+	BPXCF1uB2	=	(unsigned char)796683146;
  short o0xaMd;
  o0xaMd = 0;
  unsigned long long bD_Us75Lr;

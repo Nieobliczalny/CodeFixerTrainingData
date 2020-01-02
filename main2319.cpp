@@ -45,7 +45,7 @@ int main(int argc, char** argv) {
  long double S25xu;
  S25xu = -1682755318;
     char    n1ypO;
-    n1ypO    =    -1914209302;
+    n1ypO    =    (char)-1914209302;
  unsigned int dMFzl7F;
  dMFzl7F = -581668856;
  long long eT3de;
@@ -55,7 +55,7 @@ int main(int argc, char** argv) {
     double    o1en;
     o1en    =    1172712447;
  char C07YT2i;
- C07YT2i = 1137361175;
+ C07YT2i = (char)1137361175;
  unsigned short int aUxyt5_E;
  aUxyt5_E = 365845180;
   unsigned char  t_9bgcw;
@@ -310,7 +310,7 @@ MA_7DnUR = tCbE3(-957503193, S25xu, HBlIDvx9mt, 193176806);
 }
 else
 {
-cout << LO_7EEK << C07YT2i << z5Ke8_y_C(1186172754) << "vQkm2t5" << endl;
+cout << LO_7EEK << C07YT2i << z5Ke8_y_C((unsigned short)1186172754) << "vQkm2t5" << endl;
 }
 }
 catch (int& errorCode)
@@ -428,7 +428,7 @@ case 3:
 P1F7007P = Xn2U ^ 854412363;
 break;
 case 4:
-cBRE = tCbE3(cBRE, o1en, -2040401834, 1485405927);
+cBRE = tCbE3(cBRE, o1en, -2040401834, (char)1485405927);
 break;
 case 5:
 FTBNk = d161 % 322008807;
@@ -658,7 +658,7 @@ o1en = (int)ceil(P1F7007P);
 
 cout << n1ypO << tCbE3(1421604305, o1en, -1473141150, MA_7DnUR) << S25xu << z5Ke8_y_C(-618200909) << endl;
 
-GSDk4wG7 = z5Ke8_y_C(1600619986) | 1973636334;
+GSDk4wG7 = z5Ke8_y_C((unsigned short)1600619986) | 1973636334;
 
 if ((bUvlL0VF3o >= aUxyt5_E) && (dMFzl7F))
 {

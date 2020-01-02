@@ -118,7 +118,7 @@ else if (xB7E_2x7r & -1314618440)
 {
 if ((m0RT1pyI > d3_Aze84M3) || (Ek1w2OO >= K9Hbf))
 {
-J9ShCV = qk1CrXWR(-1635016227, 143910036, 1660483579, VGSYm);
+J9ShCV = qk1CrXWR(-1635016227, 143910036, (unsigned char)1660483579, VGSYm);
 }
 else
 {

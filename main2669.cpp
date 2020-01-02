@@ -29,7 +29,7 @@ int main(void)
     unsigned int    NF3h1CsRtU    =    -1508518990;
 	unsigned int	W4NK118kJR	=	779985234;
     long double    LZ_BA    =    1273655462;
- char c142 = -968161076;
+ char c142 = (char)-968161076;
  unsigned short int hR7Uc = 0;
   unsigned long long  b72ObQ  =  -511517675;
   unsigned int  wN1ad0I  =  229496441;
@@ -40,7 +40,7 @@ int main(void)
  short oEu_69 = 362227010;
     unsigned long    QP6I3RgM    =    -294279404;
  int uUz1zcbe5_ = -1262742983;
-    unsigned char    r_ZCO4    =    2123869098;
+    unsigned char    r_ZCO4    =    (unsigned char)2123869098;
  unsigned short int U9EQ = 1316913916;
   long long  qL6xp118b  =  1049845265;
  short IeS5E = 1338303583;
@@ -57,7 +57,7 @@ int main(void)
  float PsI0BEx = -384634963;
  long long Pv5nxjV5i8 = -1414188867;
  unsigned long long jj0MFQ = -2123889016;
- unsigned short int QOUVK = 1799842856;
+ unsigned short int QOUVK = (unsigned short)1799842856;
   long  x51Yh  =  1426922033;
 	short int	v6P475kmb	=	-1900836528;
 
@@ -512,7 +512,7 @@ short int  gaD50OM(long long  bM21eD1_9)  {
 }
 
 unsigned char    LR__K_nm_(long long    yN1L_Z,unsigned long    IvzQ0)    {
-    return    1462352730;
+    return    (unsigned char)1462352730;
 }
 
 unsigned long	NdF1_JA6()	{

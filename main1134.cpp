@@ -105,7 +105,7 @@ DsB9++;
 }
 else if (u07h06Q1 != 171903040)
 {
-DsB9 = tyIpXYO52_(-286681823, -1454791570);
+DsB9 = tyIpXYO52_(-286681823, (unsigned short)-1454791570);
 }
 else
 {
@@ -160,7 +160,7 @@ else
 {
 if (iGWt & j1t_8qb0_)
 {
-m3W1 = dH7vQ(1639349272, 2101247970);
+m3W1 = dH7vQ(1639349272, (unsigned char)2101247970);
 }
 else
 {
@@ -179,7 +179,7 @@ sgA7I19_1I = (short int)(ZTfGSW * (j1t_8qb0_));
 }
 else
 {
-m3W1 = dH7vQ(997296117, -229091971);
+m3W1 = dH7vQ(997296117, (unsigned char)-229091971);
 }
 }
 else
@@ -291,7 +291,7 @@ catch (int& errorCode)
 u07h06Q1 = dH7vQ(-82063630, 41966765);
 }
 
-std::cout << m3W1 << u07h06Q1 << dH7vQ(-1153583826, -2017621554) << "H1_vY4" << "NXhQ1_K" << std::endl;
+std::cout << m3W1 << u07h06Q1 << dH7vQ(-1153583826, (unsigned char)-2017621554) << "H1_vY4" << "NXhQ1_K" << std::endl;
 for (int i = 0; i < 3; ++i)
 {
 std::cout << u07h06Q1 << std::endl;
@@ -323,7 +323,7 @@ case 0:
 sgA7I19_1I = (int)abs(DsB9) * 0;
 break;
 case 1:
-sgA7I19_1I = dH7vQ(-568757123, 248332798);
+sgA7I19_1I = dH7vQ(-568757123, (unsigned char)248332798);
 break;
 case 2:
 iGWt = dH7vQ(iGWt, u07h06Q1);
@@ -380,7 +380,7 @@ int i = 5;
 while (i >= 0)
 {
 i--;
-KjlC9MjBA = tyIpXYO52_(-213159437, 859339255) % DsB9;
+KjlC9MjBA = tyIpXYO52_(-213159437, (unsigned short)859339255) % DsB9;
 }
 }
 if (((m3W1 <= iGWt) && (m3W1 <= ZTfGSW)) || (DsB9 < u07h06Q1))
@@ -407,7 +407,7 @@ KjlC9MjBA = umY0x21vw(2092224672, KjlC9MjBA, iGWt, sgA7I19_1I);
 int i = 0;
 do
 {
-std::cout << tyIpXYO52_(-1324235989, -2044071356) << tyIpXYO52_(u07h06Q1, KjlC9MjBA) << dH7vQ(-388576010, 1583232852) << std::endl;
+std::cout << tyIpXYO52_(-1324235989, (unsigned short)-2044071356) << tyIpXYO52_(u07h06Q1, KjlC9MjBA) << dH7vQ(-388576010, 1583232852) << std::endl;
 ++i;
 }
 while (i < 6);

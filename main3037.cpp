@@ -236,7 +236,7 @@ i--;
 }
 if (hb8aRb <= 264603199)
 {
-std::cout << "aG1gw1" << uoX1Wep3(-1102006444, 2057365953, -1297469821) << uoX1Wep3(rWytJJl, HiXtgkW, Hc0BhN9f7) << ss9X << uoX1Wep3(-830849804, HiXtgkW, 1261169066) << std::endl;
+std::cout << "aG1gw1" << uoX1Wep3(-1102006444, 2057365953, -1297469821) << uoX1Wep3(rWytJJl, HiXtgkW, Hc0BhN9f7) << ss9X << uoX1Wep3((short)-830849804, HiXtgkW, 1261169066) << std::endl;
 }
 else
 {

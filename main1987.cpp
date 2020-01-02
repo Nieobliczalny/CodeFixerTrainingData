@@ -30,7 +30,7 @@ short int i4jXa55KHs(unsigned short d11HG,long sK0un9o,unsigned int gaJ3s7gX)
 }
 
 unsigned short int n0wpGjl(unsigned long G3sT7,short int xmWs,unsigned int hmx2e1,short QwUH2,unsigned long k2C8glKd1o) {
- return -1178274164;
+ return (unsigned short)-1178274164;
 }
 
 int main(int argc, char** argv)
@@ -41,7 +41,7 @@ int main(int argc, char** argv)
   unsigned char  y5Ge  =  -1007915427;
 	char	bm1pv_c1e	=	0;
 	long long	zZT7	=	550498328;
- unsigned char gh84920CO = 396383477;
+ unsigned char gh84920CO = (unsigned char)396383477;
     short    FotoDPa    =    -76721262;
  long c6b47S_xM1 = 0;
  long double pvMWt0 = 692310659;
@@ -196,7 +196,7 @@ YhE2_9 = o2o8W();
 break;
 case 'c':
 case 'C':
-YhE2_9 = Kyt4FNdEAr(-1421125752, -584054418, -1921787315, -201193395, gh84920CO);
+YhE2_9 = Kyt4FNdEAr(-1421125752, -584054418, (unsigned char)-1921787315, -201193395, gh84920CO);
 break;
 case 'd':
 case 'D':
@@ -272,7 +272,7 @@ for (int i = 0; i < 1; ++i)
 switch (NsJilPG8sN)
 {
 case 0:
-FotoDPa = Kyt4FNdEAr(c6b47S_xM1, -1047438666, FotoDPa, 2050824352, ZIxHfWU);
+FotoDPa = Kyt4FNdEAr(c6b47S_xM1, (unsigned short)-1047438666, FotoDPa, 2050824352, ZIxHfWU);
 break;
 case 1:
 S9ie = o2o8W();

@@ -22,7 +22,7 @@ int main(void) {
  short int giRo24LGO = 546718990;
     long long    nFtY0zeAt8    =    860649792;
     long double    LTynH9    =    462968262;
-  short  G5acC3_  =  -1278878882;
+  short  G5acC3_  =  (short)-1278878882;
     long    kTdx    =    1123523504;
  unsigned short int nN0jo = 69470553;
     unsigned char    SmXF4    =    -1422351918;
@@ -34,7 +34,7 @@ int main(void) {
     unsigned short int    ZY7ADtg    =    1769363203;
 	long	Jdsr0KU	=	2001523676;
     long double    ozlVM8171T    =    210557502;
- unsigned short R8HKrFX8z = -1461802434;
+ unsigned short R8HKrFX8z = (unsigned short)-1461802434;
   unsigned short int  o3PjQ  =  1123975519;
  short int z_RDSEc = 1381948384;
     unsigned char    fV1JW_aJPe    =    116291757;
@@ -50,7 +50,7 @@ int main(void) {
   unsigned int  Y9wr3Lwx4  =  597316373;
   long long  nWt3E3bk  =  806941338;
  short int V1jIHQOv = 0;
-    unsigned char    BCP1lU    =    -1766503401;
+    unsigned char    BCP1lU    =    (unsigned char)-1766503401;
 	unsigned long	xOi42PZU_	=	91402201;
  long B1uUtC7t = -344241130;
   unsigned long long  e7FM4Q10  =  -1220737984;
@@ -60,7 +60,7 @@ int main(void) {
 	short	GfY3H	=	-1914480517;
   short  Aou12  =  2098534592;
  long double w5BEtuTyLQ = -1240236639;
-    unsigned char    o1O4Oz9    =    -1446337957;
+    unsigned char    o1O4Oz9    =    (unsigned char)-1446337957;
   unsigned short int  e30w0v6a_1  =  -1902971280;
  short int m4wuxP5wuz = -893198482;
  long long ztj8t_ = -874473480;
@@ -70,7 +70,7 @@ int main(void) {
  unsigned long long GtumPFGk7 = 1910983660;
     long long    s80tG33En    =    1915819689;
 	unsigned short	b67EAY	=	50595067;
- unsigned short OM2B1th9 = 1063711691;
+ unsigned short OM2B1th9 = (unsigned short)1063711691;
 	int	o8pew3oB	=	-1071855519;
   float  HHd6MA_6G  =  -1377741241;
 	double	sva_auR5G_	=	-1121751859;
@@ -86,7 +86,7 @@ int main(void) {
  unsigned long yav8 = -1081857193;
 	long long	y3K7Vb8T	=	-1395817915;
     unsigned short int    z_zWKm    =    -526040498;
-  short int  l6xnzCQ  =  -1166829715;
+  short int  l6xnzCQ  =  (short)-1166829715;
 	short int	soPs	=	-1347907318;
     double    rWNw    =    -1303090964;
 	long double	Bk99Ps72	=	1274779080;

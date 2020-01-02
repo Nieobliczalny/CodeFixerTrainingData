@@ -19,7 +19,7 @@ unsigned char    q64A(unsigned short int    o3rr_,long long    s4Vh9sDe6C,long l
 
 unsigned char  f3_A3208uN(unsigned char  UbtzS2CW07,unsigned long  jGm44DU,unsigned long  FmhJ2a3h)
 {
-  return  704586617;
+  return  (unsigned char)704586617;
 }
 
 int	SOz4WF(unsigned long long	vPFr8vg0R3,unsigned long	C9u4)
@@ -212,7 +212,7 @@ else
 {
 if (UxEwHG_ >= -792771827)
 {
-v7_4 = q64A(-1511784811, wl86O, OGh8fX);
+v7_4 = q64A((unsigned short)-1511784811, wl86O, OGh8fX);
 }
 else
 {
@@ -302,7 +302,7 @@ break;
 }
 else if (yp76qi < fCV9)
 {
-cout << qYwP << "FWLKu1ASu" << "PUePLCS862" << q64A(455908905, R_eIb, ypjP8S) << B3p7e9GWJ3 << endl;
+cout << qYwP << "FWLKu1ASu" << "PUePLCS862" << q64A((unsigned short)455908905, R_eIb, ypjP8S) << B3p7e9GWJ3 << endl;
 }
 else
 {

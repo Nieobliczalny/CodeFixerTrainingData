@@ -48,7 +48,7 @@ gIE0G7 = UcwBTxUhB5(1515850077, WmzQy_fy7g, gIE0G7);
 }
 else
 {
-cout << "ep5_k" << UcwBTxUhB5(V960mXSdn1, -458727053, 80704704) << "nG5S5" << UcwBTxUhB5(V960mXSdn1, -653609657, gIE0G7) << UcwBTxUhB5(V960mXSdn1, WmzQy_fy7g, gIE0G7) << endl;
+cout << "ep5_k" << UcwBTxUhB5(V960mXSdn1, -458727053, (unsigned short)80704704) << "nG5S5" << UcwBTxUhB5(V960mXSdn1, -653609657, gIE0G7) << UcwBTxUhB5(V960mXSdn1, WmzQy_fy7g, gIE0G7) << endl;
 }
 }
 fpbVDawue = (int)ceil(WmzQy_fy7g);
@@ -101,7 +101,7 @@ fpbVDawue = (int)abs(WmzQy_fy7g);
 }
 else
 {
-VSgDqP7 = UcwBTxUhB5(812998017, -2138295436, 2090111104);
+VSgDqP7 = UcwBTxUhB5(812998017, -2138295436, (unsigned short)2090111104);
 }
 }
 }
@@ -112,7 +112,7 @@ try
 switch (VSgDqP7)
 {
 case 'a':
-VSgDqP7 = UcwBTxUhB5(888428881, -662478016, -1759495098);
+VSgDqP7 = UcwBTxUhB5(888428881, -662478016, (unsigned short)-1759495098);
 break;
 case 'b':
 V960mXSdn1 *= gIE0G7;
@@ -153,7 +153,7 @@ case 1:
 gIE0G7 = UcwBTxUhB5(1677201845, gIE0G7, V960mXSdn1);
 break;
 case 2:
-VSgDqP7 = UcwBTxUhB5(1808811553, VSgDqP7, -1086975007);
+VSgDqP7 = UcwBTxUhB5((short)1808811553, VSgDqP7, -1086975007);
 break;
 case 3:
 V960mXSdn1 = UcwBTxUhB5(1720770333, VSgDqP7, V960mXSdn1) / ejmNI50;
@@ -168,7 +168,7 @@ case 6:
 V960mXSdn1 = (int)abs(WmzQy_fy7g);
 break;
 case 7:
-WmzQy_fy7g = UcwBTxUhB5(-1395071814, 2079134844, ejmNI50) & 203271412;
+WmzQy_fy7g = UcwBTxUhB5((short)-1395071814, 2079134844, ejmNI50) & 203271412;
 break;
 }
 {
@@ -201,7 +201,7 @@ else if ((fpbVDawue < 1456911312) && ((ejmNI50 > -889652537) && (V960mXSdn1)))
 int j = 0;
 while (j < 5)
 {
-gIE0G7 = UcwBTxUhB5(-1641680505, V960mXSdn1, -455829273);
+gIE0G7 = UcwBTxUhB5(-1641680505, V960mXSdn1, (unsigned short)-455829273);
 j++;
 }
 }
@@ -221,7 +221,7 @@ fpbVDawue = (int)abs(gIE0G7) + (1845966378);
 }
 }
 
-gIE0G7 = UcwBTxUhB5(-1270658106, 1104757602, -1624121542);
+gIE0G7 = UcwBTxUhB5(-1270658106, 1104757602, (unsigned short)-1624121542);
 
 switch (gIE0G7)
 {
@@ -247,7 +247,7 @@ case 'a':
 gIE0G7 = UcwBTxUhB5(ejmNI50, 1941409494, gIE0G7);
 break;
 case 'b':
-gIE0G7 = UcwBTxUhB5(-734614870, fpbVDawue, 1795127268);
+gIE0G7 = UcwBTxUhB5(-734614870, fpbVDawue, (unsigned short)1795127268);
 break;
 case 'c':
 WmzQy_fy7g = (int)floor(ejmNI50);

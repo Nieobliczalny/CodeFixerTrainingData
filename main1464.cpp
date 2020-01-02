@@ -502,7 +502,7 @@ case 'a':
 H5DZRb9Fk = Gt0e(H5DZRb9Fk, Q_sxr6x, 809389880, -847234223);
 break;
 case 'b':
-PHWE = Gt0e(65856143, -52606795, 216497252, wp8w3n);
+PHWE = Gt0e(65856143, (short)-52606795, 216497252, wp8w3n);
 break;
 case 'c':
 VG2h58D0m = ND_se(-300877980, 1096974862, 151232308);

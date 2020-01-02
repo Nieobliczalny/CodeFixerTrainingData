@@ -37,7 +37,7 @@ int main(void)
 	unsigned short int	Z2iy8Vrm;
 	Z2iy8Vrm	=	1238615111;
   short int  H5p6hf;
-  H5p6hf  =  1116138256;
+  H5p6hf  =  (short)1116138256;
   unsigned int  i1h4Ft7y;
   i1h4Ft7y  =  -900054205;
 	long	vwW33aiZ0d;
@@ -51,7 +51,7 @@ int main(void)
  long ohu0;
  ohu0 = 0;
     short    Htcfo;
-    Htcfo    =    -515836857;
+    Htcfo    =    (short)-515836857;
  unsigned short int Y6v__;
  Y6v__ = 179016500;
 	unsigned short	Ey5G;
@@ -61,7 +61,7 @@ int main(void)
   char  YqMBuoG;
   YqMBuoG  =  0;
   char  J0hIPFL2Yc;
-  J0hIPFL2Yc  =  315129345;
+  J0hIPFL2Yc  =  (char)315129345;
   long double  JTbI6jbJ;
   JTbI6jbJ  =  945753049;
   long long  bH1p0;
@@ -75,7 +75,7 @@ int main(void)
     char    oTlhPdNR;
     oTlhPdNR    =    -1033835022;
  unsigned short H8p_671q;
- H8p_671q = 1425963924;
+ H8p_671q = (unsigned short)1425963924;
   unsigned short  ES80VY8B;
   ES80VY8B  =  100013554;
  double M_E8yU4kIv;
@@ -89,7 +89,7 @@ int main(void)
     int    QId5;
     QId5    =    -519990415;
 	short int	L4kRlWbh3;
-	L4kRlWbh3	=	864425859;
+	L4kRlWbh3	=	(short)864425859;
  long long Y_v9jkj6;
  Y_v9jkj6 = -200912856;
  char EYg75o7;
@@ -109,7 +109,7 @@ int main(void)
 	long long	T15KE6niD;
 	T15KE6niD	=	1144991117;
     short    n_ESHOr;
-    n_ESHOr    =    1248152548;
+    n_ESHOr    =    (short)1248152548;
     float    R0ncJ528;
     R0ncJ528    =    -1523686158;
 	long double	wsbZi_0k;
@@ -123,7 +123,7 @@ int main(void)
 int i = 3;
 while (i >= 0)
 {
-cout << J0hIPFL2Yc << EFxS1xl_Z(1707504040, 1250183927, -488073419, Htcfo) << "TSbx83OcNt" << wb_5uj(JTbI6jbJ, 388346495, 572102546) << "UHxeeNc" << endl;
+cout << J0hIPFL2Yc << EFxS1xl_Z(1707504040, (char)1250183927, -488073419, Htcfo) << "TSbx83OcNt" << wb_5uj(JTbI6jbJ, 388346495, 572102546) << "UHxeeNc" << endl;
 --i;
 }
 }
@@ -171,7 +171,7 @@ case 2:
 Y1XsDF6G = EFxS1xl_Z(Z3gXhZz, bH1p0, Y1XsDF6G, Rc0SlT5Y) << Z2iy8Vrm;
 break;
 case 3:
-J0hIPFL2Yc = EFxS1xl_Z(-579303945, 1464311504, Y1XsDF6G, Rc0SlT5Y) ^ vwW33aiZ0d;
+J0hIPFL2Yc = EFxS1xl_Z(-579303945, (char)1464311504, Y1XsDF6G, Rc0SlT5Y) ^ vwW33aiZ0d;
 break;
 default:
 cEjTZKM <<= v0c2c_eaL8;
@@ -230,7 +230,7 @@ if (yA97tN < 1526326759)
 {
 try
 {
-i1h4Ft7y = EFxS1xl_Z(i1h4Ft7y, 1410911595, Y_v9jkj6, -420700367);
+i1h4Ft7y = EFxS1xl_Z(i1h4Ft7y, 1410911595, Y_v9jkj6, (unsigned char)-420700367);
 }
 catch (int& errorCode)
 {
@@ -244,7 +244,7 @@ wsbZi_0k = (int)ceil(Ml_x3_JB);
 switch (Y_v9jkj6)
 {
 case 0:
-H5p6hf = EFxS1xl_Z(2128870574, Ouc_Sx1_0, i1h4Ft7y, -1877241878);
+H5p6hf = EFxS1xl_Z(2128870574, Ouc_Sx1_0, i1h4Ft7y, (unsigned char)-1877241878);
 break;
 case 1:
 Z56r >>= Y6v__;
@@ -268,7 +268,7 @@ case 7:
 mdTOg = (int)ceil(ayjrA);
 break;
 case 8:
-i1h4Ft7y = EFxS1xl_Z(i1h4Ft7y, 410471320, rT3SY, -1136896221);
+i1h4Ft7y = EFxS1xl_Z(i1h4Ft7y, 410471320, rT3SY, (unsigned char)-1136896221);
 break;
 case 9:
 ayjrA = fumVE1vjO << 902510505;
@@ -399,7 +399,7 @@ case 'a':
 ijEDL6EcMy = (int)ceil(mdTOg);
 break;
 case 'b':
-I6eJBe0G = EFxS1xl_Z(-517739111, TofkqO, Z3gXhZz, 852105328);
+I6eJBe0G = EFxS1xl_Z(-517739111, TofkqO, Z3gXhZz, (unsigned char)852105328);
 break;
 case 'c':
 Ouc_Sx1_0 <<= 947478794;
@@ -417,7 +417,7 @@ case 'g':
 I6eJBe0G = wb_5uj(-372353229, Rc0SlT5Y, -176199049) / 1266759510;
 break;
 case 'h':
-H6pv3fHU9y = EFxS1xl_Z(H6pv3fHU9y, 938523557, 922536678, 1758546650);
+H6pv3fHU9y = EFxS1xl_Z(H6pv3fHU9y, 938523557, 922536678, (unsigned char)1758546650);
 break;
 }
 }
@@ -451,7 +451,7 @@ int j = 5;
 do
 {
 j--;
-cout << wb_5uj(yA97tN, -476439390, 752613862) << wb_5uj(-561742185, ayjrA, Ouc_Sx1_0) << EFxS1xl_Z(yA97tN, -1941927205, 710218730, -228177920) << "m1s6" << YqMBuoG << endl;
+cout << wb_5uj(yA97tN, -476439390, 752613862) << wb_5uj(-561742185, ayjrA, Ouc_Sx1_0) << EFxS1xl_Z(yA97tN, -1941927205, 710218730, (unsigned char)-228177920) << "m1s6" << YqMBuoG << endl;
 }
 while (j >= 0);
 }
@@ -521,7 +521,7 @@ break;
 
 oTlhPdNR = (char)(K0_Q + (-2089515527));
 i_oke2O = (int)abs(VfRdJS770Y);
-QId5 = EFxS1xl_Z(QId5, i1h4Ft7y, zy0Qtt_v, -511829053);
+QId5 = EFxS1xl_Z(QId5, i1h4Ft7y, zy0Qtt_v, (unsigned char)-511829053);
 i_oke2O = QId5 - oTlhPdNR;
 
 if (bH1p0 == 1270601768)

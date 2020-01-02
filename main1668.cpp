@@ -25,7 +25,7 @@ int main(int argc, char** argv)
 	unsigned short	Keng8994;
 	Keng8994	=	826830585;
 	unsigned short	R__1c;
-	R__1c	=	965914538;
+	R__1c	=	(unsigned short)965914538;
 	long long	MsoY28HgY6;
 	MsoY28HgY6	=	194613731;
   char  nRkLl;
@@ -35,7 +35,7 @@ int main(int argc, char** argv)
  unsigned char L_Q7tt3;
  L_Q7tt3 = -776080145;
 	short	f2i9KPj2;
-	f2i9KPj2	=	158142777;
+	f2i9KPj2	=	(short)158142777;
  unsigned short int c4_9K_l6J;
  c4_9K_l6J = -146787457;
 
@@ -177,7 +177,7 @@ try
 {
 if (c4_9K_l6J == z9pcGH1)
 {
-Keng8994 = (IM7ZN6 >= f2i9KPj2) ? 1848547901 : -356228257;
+Keng8994 = (IM7ZN6 >= f2i9KPj2) ? 1848547901 : (unsigned short)-356228257;
 }
 else
 {

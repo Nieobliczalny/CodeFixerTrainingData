@@ -27,7 +27,7 @@ int main(int argc, char** argv)
 	float	Uqts6RX;
 	Uqts6RX	=	-617559593;
 	short int	F_52O;
-	F_52O	=	1219767419;
+	F_52O	=	(short)1219767419;
   unsigned char  IAjo_;
   IAjo_  =  -1189144903;
  char e7I3l9;
@@ -45,7 +45,7 @@ B5BS8t7Ura = (long)(Uqts6RX * B5BS8t7Ura);
 
 if ((ps__4Ue5o == 662622108) || (F_52O > c3_h1))
 {
-C2ddS4_ = e5_ZM_(1172769481, -2116996803, -1571474673);
+C2ddS4_ = e5_ZM_(1172769481, (unsigned short)-2116996803, -1571474673);
 }
 else if ((e7I3l9) && (ps__4Ue5o == -1576952825))
 {
@@ -90,7 +90,7 @@ cout << c3_h1 << C2ddS4_ << a4be7FB0() << vMCAv(1437838506, C2ddS4_) << ps__4Ue5
 
 B5BS8t7Ura = I7__(B5BS8t7Ura, 12715568, 1598448537, -1895907039);
 
-Uqts6RX = e5_ZM_(-228684400, 338208483, 315823275);
+Uqts6RX = e5_ZM_((unsigned char)-228684400, 338208483, 315823275);
 
 C2ddS4_ = a4be7FB0();
 for (int i = 0; i < 1; i++)
@@ -105,7 +105,7 @@ cout << e6gM(-334329896) << "func7" << I7__(-1466011414, c3_h1, -2108810543, e7I
 
 cout << a4be7FB0() << a4be7FB0() << "P0Zb" << endl;
 nWfF = ps__4Ue5o / e7I3l9;
-nWfF = e5_ZM_(nWfF, 1675378137, -1111771373);
+nWfF = e5_ZM_(nWfF, (unsigned short)1675378137, -1111771373);
 {
 int i = 0;
 do
@@ -115,7 +115,7 @@ for (int j = 5; j >= 0; j--)
 {
 if (c3_h1 < 261521221)
 {
-ps__4Ue5o = e5_ZM_(2130455393, -1007609115, 1562410143);
+ps__4Ue5o = e5_ZM_(2130455393, (unsigned short)-1007609115, 1562410143);
 }
 else
 {
@@ -147,6 +147,6 @@ int e5_ZM_(unsigned char c5LN3D,unsigned short Wm5_OYosFh,unsigned long L9zsa) {
 }
 
 char    a4be7FB0()    {
-    return    1158721886;
+    return    (char)1158721886;
 }
 

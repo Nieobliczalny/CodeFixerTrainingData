@@ -28,7 +28,7 @@ int main(int argc, char** argv)
     long    W8VmbXfR    =    0;
     long long    a3mBE5d    =    431985074;
     unsigned char    aGc2QnHC1E    =    0;
- char WAw_9_QNi = -1557137583;
+ char WAw_9_QNi = (char)-1557137583;
 	unsigned int	sE191dh2Kr	=	2072327453;
     long double    XXYgU    =    -1236443992;
 	double	AB9zE2	=	2123257132;
@@ -41,7 +41,7 @@ fISn2_O62 = F5Qr1mQ0();
 std::cout << F5Qr1mQ0() << "awi5d" << std::endl;
 
 qTID17UoK = XXYgU * fISn2_O62;
-std::cout << zrXc26E << F5Qr1mQ0() << F5Qr1mQ0() << UHc98Fl6JZ(fISn2_O62, W4NooCcwI, -46927128) << std::endl;
+std::cout << zrXc26E << F5Qr1mQ0() << F5Qr1mQ0() << UHc98Fl6JZ(fISn2_O62, W4NooCcwI, (char)-46927128) << std::endl;
 if (sE191dh2Kr == -252068233)
 {
 {
@@ -271,7 +271,7 @@ while (j < 7);
 int i = 0;
 do
 {
-Rl_gT21sB = UHc98Fl6JZ(2133527548, EdTI_, -1144970236);
+Rl_gT21sB = UHc98Fl6JZ(2133527548, EdTI_, (char)-1144970236);
 i++;
 }
 while (i < 8);
@@ -366,7 +366,7 @@ case 'g':
 JV559Og653 = UHc98Fl6JZ(JV559Og653, -160708563, -952276661);
 break;
 case 'h':
-fISn2_O62 = UHc98Fl6JZ(JV559Og653, e07w60Z, 1665145669) + 2090153950;
+fISn2_O62 = UHc98Fl6JZ(JV559Og653, e07w60Z, (char)1665145669) + 2090153950;
 break;
 case 'i':
 NVKeT4a7 = F5Qr1mQ0();
@@ -439,7 +439,7 @@ AB9zE2 = (int)floor(XXYgU);
 }
 else if (JV559Og653 != WAw_9_QNi)
 {
-W8VmbXfR = UHc98Fl6JZ(334653470, WAw_9_QNi, -1363776914);
+W8VmbXfR = UHc98Fl6JZ(334653470, WAw_9_QNi, (char)-1363776914);
 }
 else if (aGc2QnHC1E != -1415549970)
 {
@@ -597,7 +597,7 @@ W4NooCcwI = (unsigned int)(Rl_gT21sB + (-676673387));
 ++i;
 }
 }
-JV559Og653 = UHc98Fl6JZ(-805927411, -1704785071, -339996577);
+JV559Og653 = UHc98Fl6JZ(-805927411, -1704785071, (char)-339996577);
 switch (e07w60Z)
 {
 case 0:
@@ -613,7 +613,7 @@ case 3:
 NUDeCkfG22 = (WAw_9_QNi) ? UHc98Fl6JZ(W4NooCcwI, Rl_gT21sB, qTID17UoK) : a3mBE5d;
 break;
 case 4:
-W8VmbXfR = UHc98Fl6JZ(864109696, -584703082, -868650290);
+W8VmbXfR = UHc98Fl6JZ(864109696, -584703082, (char)-868650290);
 break;
 case 5:
 NUDeCkfG22 = F5Qr1mQ0();

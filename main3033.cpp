@@ -26,7 +26,7 @@ int main(int argc, char** argv) {
  unsigned short int n7Q49;
  n7Q49 = -397892016;
     short    tamfdw;
-    tamfdw    =    368836293;
+    tamfdw    =    (short)368836293;
   unsigned long  RK8W0d2g_;
   RK8W0d2g_  =  1078220005;
 	float	M64256On;
@@ -36,7 +36,7 @@ int main(int argc, char** argv) {
 	unsigned char	P5Ss4_p;
 	P5Ss4_p	=	-67035389;
 	short	QLLZor;
-	QLLZor	=	-966037916;
+	QLLZor	=	(short)-966037916;
 	unsigned short int	bU41O;
 	bU41O	=	962658924;
 	char	deC3I3TH;
@@ -74,7 +74,7 @@ int main(int argc, char** argv) {
     unsigned int    E8Hp8V;
     E8Hp8V    =    -664486013;
 	short	Cc5_E2yNy;
-	Cc5_E2yNy	=	1873171968;
+	Cc5_E2yNy	=	(short)1873171968;
     char    a1jR483Q4;
     a1jR483Q4    =    239141982;
  char Mi6KbXyv08;
@@ -86,7 +86,7 @@ int main(int argc, char** argv) {
  unsigned long j58cp;
  j58cp = -1773350853;
  short s5BS4x27D;
- s5BS4x27D = 1714287452;
+ s5BS4x27D = (short)1714287452;
 	float	w_rpx_;
 	w_rpx_	=	-2136044712;
   unsigned int  T56BtNl2;
@@ -98,7 +98,7 @@ int main(int argc, char** argv) {
  short int Gc4yQzcRr;
  Gc4yQzcRr = -1372760867;
 	unsigned short	z10r9pe;
-	z10r9pe	=	640042914;
+	z10r9pe	=	(unsigned short)640042914;
     unsigned int    K42p;
     K42p    =    1496046088;
     unsigned short    HV8z;
@@ -124,7 +124,7 @@ int main(int argc, char** argv) {
   unsigned long  ELvXNn;
   ELvXNn  =  -582287561;
 	char	y6eoL6t;
-	y6eoL6t	=	1949924627;
+	y6eoL6t	=	(char)1949924627;
   unsigned short  FJIMi;
   FJIMi  =  123751120;
   unsigned int  O33eI6ZE0;
@@ -134,7 +134,7 @@ int main(int argc, char** argv) {
 	unsigned short int	dYciin;
 	dYciin	=	1348203452;
 	char	S0aAzi;
-	S0aAzi	=	426240888;
+	S0aAzi	=	(char)426240888;
 	long	X17V60_;
 	X17V60_	=	868501049;
   unsigned long long  a0Lw44j;
@@ -158,7 +158,7 @@ int main(int argc, char** argv) {
  unsigned char m87a;
  m87a = -2135998771;
 	unsigned short int	lt8v7A;
-	lt8v7A	=	332706267;
+	lt8v7A	=	(unsigned short)332706267;
     unsigned int    eG7oAS;
     eG7oAS    =    506608974;
  long long cUIxz;

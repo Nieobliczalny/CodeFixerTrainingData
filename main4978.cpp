@@ -16,7 +16,7 @@ int main(void)
     unsigned long    oOnuHl    =    -1103514703;
   short  C6H25C1  =  292700554;
     long long    Og8Fg5    =    573069940;
-    unsigned char    NaT7ru    =    -919993513;
+    unsigned char    NaT7ru    =    (unsigned char)-919993513;
   long  U47q_jg8tU  =  -1330717114;
 	long double	hzQ3g	=	1213095677;
     unsigned char    NSCYb    =    -649368009;

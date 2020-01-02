@@ -16,7 +16,7 @@ char	B0Om7n_NWg()	{
 }
 
 unsigned short int    Q0ggTt(short    dfkZKwnZ,unsigned long long    c88Fg66CV,short int    sbya7)    {
-    return    1600470394;
+    return    (unsigned short)1600470394;
 }
 
 int main(int argc, char** argv) {
@@ -73,7 +73,7 @@ Tjo1o = p8PX ^ MqXdXE_54;
 }
 else if (dxpSPlS8Ac & 732690805)
 {
-std::cout << "qllgKo" << YG6H22GZCt << Q0ggTt(-1348694045, MqXdXE_54, 2039613586) << std::endl;
+std::cout << "qllgKo" << YG6H22GZCt << Q0ggTt(-1348694045, MqXdXE_54, (short)2039613586) << std::endl;
 }
 else if (MqXdXE_54 >= se8A2E6Ckl)
 {

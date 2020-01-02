@@ -23,7 +23,7 @@ int main(int argc, char** argv)
 	long double	YcsZ75U	=	-1009760324;
  unsigned long rG_cP = -968370494;
 	unsigned long long	Hfk1k8_im	=	1524550042;
-  unsigned char  f68c_Bs4I1  =  -1941143870;
+  unsigned char  f68c_Bs4I1  =  (unsigned char)-1941143870;
  char Y8KZYkW8p_ = -854287464;
     unsigned short int    e789A435c4    =    -1623676360;
   long  Zv3o  =  1097566320;
@@ -37,7 +37,7 @@ int main(int argc, char** argv)
     float    GBFsT4    =    -715919913;
  short int H83m8bx = -796890520;
   double  d02F84R  =  667666449;
- char p0YG = -1310539837;
+ char p0YG = (char)-1310539837;
  long b3S6 = -920738582;
  short z51r0EO = 438290728;
  long double SaG2P = 2111896085;
@@ -55,7 +55,7 @@ int main(int argc, char** argv)
  double o_Qjgus = -28846228;
  unsigned long U_PrqB = 421833054;
 	unsigned int	l43bkn9_j2	=	2062200697;
-	unsigned short	S_iZqb	=	1706360913;
+	unsigned short	S_iZqb	=	(unsigned short)1706360913;
  long double nnHI3TUvI1 = 174431463;
   unsigned long  drtp8tvJC  =  -138373649;
  float H0eu = -2047423660;
@@ -65,7 +65,7 @@ int main(int argc, char** argv)
     float    WmkdS    =    1793481607;
     short    DWeobEO08u    =    -1965179499;
   double  YY9g6m_y  =  -627399328;
-  short  Dzqgi  =  1913555487;
+  short  Dzqgi  =  (short)1913555487;
   unsigned int  dhI__23uAz  =  -758866361;
 	long	F48c_47	=	-310737893;
 	unsigned short int	xtT74fP9	=	-859355233;
@@ -75,7 +75,7 @@ int main(int argc, char** argv)
     int    AE23dl    =    -2051831952;
  short yxq5s6yId = 2040664690;
     short    w_EZn6AtZg    =    -1237683449;
-  short int  U5o6YE  =  834387208;
+  short int  U5o6YE  =  (short)834387208;
  long ewquC1KeSZ = -1714449104;
   float  EgrX5x5Mta  =  2053048636;
   long  ke48  =  -1045384175;
@@ -85,7 +85,7 @@ int main(int argc, char** argv)
     char    e6_5    =    1045876648;
 	short	Zc5Ako_Z4D	=	1899573410;
  float Yr1FytnK5 = -1907538876;
- short int z0iN8S98 = 1088680203;
+ short int z0iN8S98 = (short)1088680203;
 	long	ZLG9Dw8K	=	-1864293688;
     short int    cA7hHymN    =    2061212792;
 

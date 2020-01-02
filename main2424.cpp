@@ -24,7 +24,7 @@ unsigned short    tg88C08(long    Q_HH8,unsigned char    Oi3R9lB)
 
 short qtm65yaj5p(unsigned char a60S7wqB,short int n97x1NO0,short A89_RMSADn,short int c2O9990,long T5u8cXt)
 {
- return -1680971195;
+ return (short)-1680971195;
 }
 
 long long  mbUu22Rew(unsigned int  qTUS,short  uS22e,short int  l_2lJk)
@@ -54,7 +54,7 @@ do
 j++;
 try
 {
-ZnJHmxAK4 = qtm65yaj5p(-1950643445, 1457229260, G9fi, f41n, nR_4ou9);
+ZnJHmxAK4 = qtm65yaj5p(-1950643445, (short)1457229260, G9fi, f41n, nR_4ou9);
 }
 catch (int& errorCode)
 {
@@ -71,7 +71,7 @@ for (int i = 0; i < 2; i++)
 switch (in942n2)
 {
 case 0:
-in942n2 = vzA1l_u6r(-993156500, -659737290, -1847744208, nl_63i, -1866780452);
+in942n2 = vzA1l_u6r(-993156500, (unsigned short)-659737290, -1847744208, nl_63i, -1866780452);
 break;
 case 1:
 ojkN *= 137063323;
@@ -95,7 +95,7 @@ case 7:
 jis81 = G4LjSl1h * 1387127277;
 break;
 case 8:
-Z0I5J = qtm65yaj5p(f41n, -1548431451, -1804667731, H6X3J, -1670598943) / 1995418372;
+Z0I5J = qtm65yaj5p(f41n, (short)-1548431451, -1804667731, H6X3J, -1670598943) / 1995418372;
 break;
 case 9:
 EQ2iH *= Az41XIac;
@@ -134,7 +134,7 @@ int i = 0;
 while (i < 2)
 {
 i++;
-std::cout << "WAU8yZT8BH" << mbUu22Rew(438706399, 1321332227, qoaz4a31GV) << std::endl;
+std::cout << "WAU8yZT8BH" << mbUu22Rew(438706399, (short)1321332227, qoaz4a31GV) << std::endl;
 }
 }
 
@@ -171,7 +171,7 @@ if (Y_2bVOU8 != 1984505495)
 switch (in942n2)
 {
 case 'a':
-x_0B0_r = mbUu22Rew(-1653788262, -1441833604, -162731928) | 1345302586;
+x_0B0_r = mbUu22Rew(-1653788262, -1441833604, (short)-162731928) | 1345302586;
 break;
 }
 }
@@ -235,7 +235,7 @@ u281iAe7T9 = mbUu22Rew(u281iAe7T9, nl_63i, 690853601);
 }
 cqoU = Lw01pi7 * w03TbL4gS4;
 
-std::cout << vzA1l_u6r(1472362232, nl_63i, tDH6KM8reM, -518450432, -483884757) << qtm65yaj5p(182609268, nl_63i, tDH6KM8reM, HCfL7, Lw01pi7) << vzA1l_u6r(-964817015, -1271266640, tDH6KM8reM, -421838669, 1469819424) << std::endl;
+std::cout << vzA1l_u6r(1472362232, nl_63i, tDH6KM8reM, (unsigned short)-518450432, -483884757) << qtm65yaj5p(182609268, nl_63i, tDH6KM8reM, HCfL7, Lw01pi7) << vzA1l_u6r(-964817015, -1271266640, tDH6KM8reM, -421838669, 1469819424) << std::endl;
 Hrg_KgrM7 = nR_4ou9 * 186618696;
 
 ojkN = (long double)(H__3);
@@ -270,7 +270,7 @@ case 'G':
 l3QsTUa = (TIM65 > -1053070850) ? ojkN : YIVM1sT;
 break;
 }
-Hrg_KgrM7 = lZxO1Eex4x / vzA1l_u6r(XGORf, -69899145, -1039577793, 1064229856, lB350n_eoX);
+Hrg_KgrM7 = lZxO1Eex4x / vzA1l_u6r(XGORf, -69899145, -1039577793, (unsigned short)1064229856, lB350n_eoX);
 for (int i = 0; i < 9; ++i)
 {
 {
@@ -297,7 +297,7 @@ while (i >= 0);
 }
 
 uA9_aFGU /= 1664676051;
-std::cout << vzA1l_u6r(XGORf, j27_, arp16luBNx, -473649168, lB350n_eoX) << "anVe__ZUN6" << lB350n_eoX << "Qx_ua1Lfmz" << vzA1l_u6r(2106774215, j27_, arp16luBNx, -513468997, lB350n_eoX) << std::endl;
+std::cout << vzA1l_u6r(XGORf, j27_, arp16luBNx, -473649168, lB350n_eoX) << "anVe__ZUN6" << lB350n_eoX << "Qx_ua1Lfmz" << vzA1l_u6r((unsigned short)2106774215, j27_, arp16luBNx, -513468997, lB350n_eoX) << std::endl;
 
 ZY_w77hyA = qtm65yaj5p(ZY_w77hyA, f41n, -233357093, w_M_, 77919154);
 

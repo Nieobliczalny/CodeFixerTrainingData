@@ -219,7 +219,7 @@ xDKU = (int)ceil(CytCL84b);
 
 SlLRPq = (int)floor(l9Pr_VR8T);
 
-C32_s = AdXoBL(664345226, 503530980);
+C32_s = AdXoBL((unsigned short)664345226, 503530980);
 
 CytCL84b *= q2449;
 if (q2449 >= l9Pr_VR8T)
@@ -260,7 +260,7 @@ xDKU = AdXoBL(1256815975, -255320558);
 }
 else if ((JOM1 < q2449) && (Prc23z9 <= -970203445))
 {
-std::cout << q2449 << FDqlD5Z5t_(-659470530, 1596750193, l9Pr_VR8T, -452004101, J_mk3zqcji) << "I92F1q" << std::endl;
+std::cout << q2449 << FDqlD5Z5t_(-659470530, (char)1596750193, l9Pr_VR8T, -452004101, J_mk3zqcji) << "I92F1q" << std::endl;
 }
 else if (xDKU >= -20061735)
 {

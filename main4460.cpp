@@ -62,7 +62,7 @@ hx5zQ9z2 = (int)ceil(bVR_3);
 break;
 }
 
-NZa1GYm7KA = wZ1umy(-1648097662, UM6qBU1Xec, -493273676, Sb8EZiwD9w, gRJAv);
+NZa1GYm7KA = wZ1umy((char)-1648097662, UM6qBU1Xec, -493273676, Sb8EZiwD9w, gRJAv);
 
 try
 {
@@ -76,7 +76,7 @@ PdnFVOY = (int)abs(ec9M5qPiLr);
 switch (fJ8fA)
 {
 case 'a':
-T07s = wZ1umy(-492004666, -2070184007, 521532194, -805477826, NZa1GYm7KA);
+T07s = wZ1umy(-492004666, -2070184007, (char)521532194, -805477826, NZa1GYm7KA);
 break;
 case 'b':
 b2UxTbe9VO = fJ8fA / S3Ej;
@@ -111,7 +111,7 @@ case 2:
 NZa1GYm7KA = (int)abs(Sb8EZiwD9w);
 break;
 case 3:
-gRJAv = fO6971xV_N(r9ly14, -108201301);
+gRJAv = fO6971xV_N(r9ly14, (unsigned char)-108201301);
 break;
 case 4:
 IhJ4 = G27B3j_5(1232201566, fJ8fA, -1395517367, ec9M5qPiLr, -910136521);
@@ -162,7 +162,7 @@ while (i < 3);
 hx5zQ9z2 = (int)ceil(ec9M5qPiLr);
 cout << s77I7Vuv << "w8P_Pmd_f" << endl;
 
-cout << fO6971xV_N(S3Ej, -2131324916) << G27B3j_5(1367108264, bVR_3, -1642878018, -1028697973, Edi2HmlId3) << nmvQ32j << fO6971xV_N(S3Ej, bVR_3) << endl;
+cout << fO6971xV_N(S3Ej, -2131324916) << G27B3j_5((unsigned short)1367108264, bVR_3, -1642878018, -1028697973, Edi2HmlId3) << nmvQ32j << fO6971xV_N(S3Ej, bVR_3) << endl;
 if (((fJ8fA & k22l_02) && (b2UxTbe9VO)) && (NZa1GYm7KA > 18975858))
 {
 try

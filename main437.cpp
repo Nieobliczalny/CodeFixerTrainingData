@@ -30,7 +30,7 @@ int main() {
 	long long	sLX5MbyH;
 	sLX5MbyH	=	0;
  unsigned short int X6160Y;
- X6160Y = -114186593;
+ X6160Y = (unsigned short)-114186593;
     long long    x40cW0JP8;
     x40cW0JP8    =    1990098509;
  int b49iYA3rs;
@@ -40,7 +40,7 @@ int main() {
     short    bPQoU6;
     bPQoU6    =    -1931490202;
   char  uy_jZ9;
-  uy_jZ9  =  -1257881993;
+  uy_jZ9  =  (char)-1257881993;
  long HSoQD_iv;
  HSoQD_iv = -1191593397;
     long long    Sy7OO;
@@ -56,7 +56,7 @@ int main() {
  unsigned long omRq8jIPZ;
  omRq8jIPZ = 725534429;
 	short	Ca6t2dl;
-	Ca6t2dl	=	1057979799;
+	Ca6t2dl	=	(short)1057979799;
   float  T4U_;
   T4U_  =  524186964;
   unsigned int  q_j7K4T_;
@@ -70,7 +70,7 @@ int main() {
   unsigned int  m1021;
   m1021  =  -1581815366;
   short int  PCGyJz9D6l;
-  PCGyJz9D6l  =  -233697464;
+  PCGyJz9D6l  =  (short)-233697464;
  long eFoss_v;
  eFoss_v = -9830613;
   unsigned short int  M75KGX96b;
@@ -80,7 +80,7 @@ int main() {
 	unsigned long	E0ar2e;
 	E0ar2e	=	-623442806;
  short FFa_;
- FFa_ = 382729569;
+ FFa_ = (short)382729569;
 	unsigned short	v1yUBg56;
 	v1yUBg56	=	531504313;
     float    QI1KjTXci;
@@ -98,7 +98,7 @@ int main() {
     long long    xp_nN0_6od;
     xp_nN0_6od    =    771420280;
     unsigned short    KFQe;
-    KFQe    =    103260652;
+    KFQe    =    (unsigned short)103260652;
 	long long	KCUW6;
 	KCUW6	=	-240675482;
 	unsigned short int	F1_IvZX;
@@ -108,7 +108,7 @@ int main() {
     unsigned long long    hI4sn6pg44;
     hI4sn6pg44    =    -822574339;
 	short int	E_JrY;
-	E_JrY	=	716794886;
+	E_JrY	=	(short)716794886;
 	long	W4IsWJJ0e;
 	W4IsWJJ0e	=	-136730610;
     unsigned short int    T6p6I7;
@@ -118,7 +118,7 @@ int main() {
 	unsigned short int	nQw02xpw;
 	nQw02xpw	=	1177549732;
  short qusz6hg2ss;
- qusz6hg2ss = 85712615;
+ qusz6hg2ss = (short)85712615;
   short int  SQ_NZ0s;
   SQ_NZ0s  =  1515071002;
     double    Zo6m;
@@ -146,7 +146,7 @@ int main() {
   unsigned int  d95dLM1p;
   d95dLM1p  =  1047110709;
  unsigned short int a_JrI5uaR;
- a_JrI5uaR = 341652748;
+ a_JrI5uaR = (unsigned short)341652748;
 
 FFa_ = (short)(HSoQD_iv);
 

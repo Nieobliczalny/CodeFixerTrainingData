@@ -20,7 +20,7 @@ int main(void)
  unsigned short P_9c4c2WD1 = 2135315144;
 	unsigned long	s_46540	=	-1870268269;
   float  qB20  =  -452097098;
-  unsigned short  Djs5v  =  -2082207072;
+  unsigned short  Djs5v  =  (unsigned short)-2082207072;
   short int  O9Yg  =  623512186;
     char    Sd7z9v    =    -974629050;
  unsigned short zIjK07d = 0;
@@ -32,7 +32,7 @@ int main(void)
 	short	A280N1Vt	=	-1463720683;
  short pzNJI = 0;
     float    zvtL3gN    =    -2092393534;
-    short int    v6Z2N9d9S    =    1556342484;
+    short int    v6Z2N9d9S    =    (short)1556342484;
 	unsigned char	GG8O56W	=	2078889809;
 
 try
@@ -52,7 +52,7 @@ case 3:
 Tj30C4m9I = FbA79(TOmB);
 break;
 case 4:
-Tj30C4m9I = FbA79(-494362317);
+Tj30C4m9I = FbA79((unsigned short)-494362317);
 break;
 default:
 s_46540 <<= 1590009910;
@@ -96,7 +96,7 @@ qB20 = (int)abs(Tj30C4m9I) + (1939098044);
 }
 }
 }
-Tj30C4m9I = FbA79(-1441867827);
+Tj30C4m9I = FbA79((unsigned short)-1441867827);
 GG8O56W = FbA79(O9Yg) / Tj30C4m9I;
 {
 int i = 0;
@@ -107,7 +107,7 @@ Tj30C4m9I = FbA79(-1846377112);
 }
 }
 
-t5hCdZ1 = FbA79(-153080650);
+t5hCdZ1 = FbA79((unsigned short)-153080650);
 v6Z2N9d9S += T49R868H;
 for (int i = 0; i < 8; i++)
 {
@@ -238,7 +238,7 @@ std::cout << GG8O56W << FbA79(t5hCdZ1) << FbA79(786926852) << "SeUt" << std::end
 }
 else if (Q4_C39G7k == qJP0yuvT_U)
 {
-Djs5v = (Tj30C4m9I == xW095Ik6) ? Tj30C4m9I : 149485151;
+Djs5v = (Tj30C4m9I == xW095Ik6) ? Tj30C4m9I : (unsigned short)149485151;
 }
 else if (I6YN0 < 318618816)
 {
@@ -288,7 +288,7 @@ case 2:
 Djs5v = TOmB * Ijc_89p;
 break;
 default:
-zIjK07d = FbA79(-102340797);
+zIjK07d = FbA79((unsigned short)-102340797);
 break;
 }
 }

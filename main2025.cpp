@@ -24,7 +24,7 @@ int main(void) {
   unsigned long  y8S52;
   y8S52  =  -1168287443;
   unsigned short  pH9N;
-  pH9N  =  89949402;
+  pH9N  =  (unsigned short)89949402;
  float E2GC0rz;
  E2GC0rz = 758184972;
  unsigned long T464nC4a;
@@ -44,7 +44,7 @@ int main(void) {
  unsigned char gnsM;
  gnsM = -1350996315;
   short int  rm3_l;
-  rm3_l  =  1862441408;
+  rm3_l  =  (short)1862441408;
  unsigned short int asT2h;
  asT2h = 1242759310;
  unsigned long long F0jYNYE6;

@@ -27,6 +27,7 @@ unsigned long long  j1KqJqDVUt(unsigned long long  iq7cE_k,long  Xy1aC)
 
 int main(int argc, char** argv)
 {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
   unsigned short int  KWWUCJCs4d  =  -1386887770,  d1hlS  =  272648713,  Dhz2ob2h  =  -291852823,  UAO7F49qH  =  -894697575,  h1jq9bR  =  -1476490745,  H9j_6s4w  =  -992782903,  jCB6  =  -579974230,  MpJTn363  =  1669784969,  sASB  =  -810443817,  It6io5e49_  =  -1248448887,  QeoF3gr3mU  =  -327604734,  qC92  =  815983168,  Nyt9SlN56  =  -1465423034,  zpSf  =  483210562,  ov_nC  =  -1420257860,  L4UgKo_  =  -260517760,  B6lOCDqV  =  376058098,  Ti4Mw8  =  -925481606,  Joi3  =  360570170,  vDbmqx  =  1013352232,  vZ_ahQ3  =  -804098170,  P518B  =  845162093,  TUd4iC1v6_  =  -1115246236,  XX56oIL5jD  =  -1054423996,  X3_E  =  772130630,  q8Hrw_bbH  =  -1460647603;
 	long	h_GX3h	=	0;
 

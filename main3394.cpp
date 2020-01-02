@@ -50,7 +50,7 @@ int main() {
  unsigned char Z7pu_;
  Z7pu_ = 0;
     unsigned char    Vl1_;
-    Vl1_    =    480593296;
+    Vl1_    =    (unsigned char)480593296;
   short int  u7DZDmPmnD;
   u7DZDmPmnD  =  2005344155;
  int q8_v803qa;
@@ -68,7 +68,7 @@ int main() {
   unsigned long  k61_21;
   k61_21  =  1409220762;
     short int    o0NOIY;
-    o0NOIY    =    -11092512;
+    o0NOIY    =    (short)-11092512;
 	unsigned short int	d1BB;
 	d1BB	=	-1855989466;
 
@@ -433,7 +433,7 @@ while (k >= 0);
 }
 else if (fh8y >= 636232031)
 {
-std::cout << QaRo_afZ20(-1970958395, 666636438) << Vl1_ << E_ZC607(XPX2nGA0g, 733134062, -1209522448, 1940455801) << "pDi1Sl1R" << "A_j7" << std::endl;
+std::cout << QaRo_afZ20(-1970958395, 666636438) << Vl1_ << E_ZC607(XPX2nGA0g, 733134062, -1209522448, (unsigned short)1940455801) << "pDi1Sl1R" << "A_j7" << std::endl;
 }
 else
 {

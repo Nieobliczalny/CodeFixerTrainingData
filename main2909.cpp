@@ -13,7 +13,7 @@ short int  Lz87oks2I2(unsigned short int  p4DsVIgyd,long  Jy0_86_)  {
 
 short j6Ji4(unsigned long bo98JVF_Ye,char Z6zj6C)
 {
- return 534565117;
+ return (short)534565117;
 }
 
 unsigned long long YPhGd3q(unsigned char Ht1Rv)
@@ -23,7 +23,7 @@ unsigned long long YPhGd3q(unsigned char Ht1Rv)
 
 int main(void)
 {
- unsigned short int sru5lABcj = -415570201, Kqyk1Ht = -42719419, SvBpPsa = -458148046, F_FN55uCS = -1055524547;
+ unsigned short int sru5lABcj = -415570201, Kqyk1Ht = (unsigned short)-42719419, SvBpPsa = -458148046, F_FN55uCS = -1055524547;
  unsigned int LuD7 = 0, J5nc3lf3b_ = 0, RbMV = 0, L1X8s3 = 0;
 
 {
@@ -50,7 +50,7 @@ else if ((J5nc3lf3b_ <= 1660184617) && (F_FN55uCS & L1X8s3))
 int k = 0;
 while (k < 7)
 {
-Kqyk1Ht = Lz87oks2I2(625167284, Kqyk1Ht);
+Kqyk1Ht = Lz87oks2I2((unsigned short)625167284, Kqyk1Ht);
 ++k;
 }
 }
@@ -78,7 +78,7 @@ case 5:
 J5nc3lf3b_ = YPhGd3q(J5nc3lf3b_);
 break;
 case 6:
-F_FN55uCS = (L1X8s3 > 741216716) ? j6Ji4(1068997306, -599938982) : sru5lABcj;
+F_FN55uCS = (L1X8s3 > 741216716) ? j6Ji4(1068997306, (char)-599938982) : sru5lABcj;
 break;
 case 7:
 SvBpPsa = F_FN55uCS - 634566163;
@@ -109,7 +109,7 @@ F_FN55uCS = Lz87oks2I2(1018412118, 157909688);
 }
 }
 F_FN55uCS -= L1X8s3;
-LuD7 = YPhGd3q(380529969);
+LuD7 = YPhGd3q((unsigned char)380529969);
 
 switch (sru5lABcj)
 {
@@ -224,7 +224,7 @@ F_FN55uCS = j6Ji4(-544058494, 612785144);
 
 sru5lABcj -= 1089266181;
 
-std::cout << "C9Nk" << YPhGd3q(-1834390170) << YPhGd3q(-783047276) << SvBpPsa << std::endl;
+std::cout << "C9Nk" << YPhGd3q((unsigned char)-1834390170) << YPhGd3q(-783047276) << SvBpPsa << std::endl;
 if (((F_FN55uCS > 1477764747) && (F_FN55uCS < 270060197)) || ((SvBpPsa == 1306593380) || (Kqyk1Ht >= -1978236449)))
 {
 if (J5nc3lf3b_ != RbMV)
@@ -272,7 +272,7 @@ if ((L1X8s3) && (RbMV <= 320328428))
 {
 std::cout << RbMV << j6Ji4(LuD7, RbMV) << L1X8s3 << j6Ji4(LuD7, 2014572275) << std::endl;
 }
-std::cout << j6Ji4(LuD7, 1714804663) << J5nc3lf3b_ << "tH_u" << std::endl;
+std::cout << j6Ji4(LuD7, (char)1714804663) << J5nc3lf3b_ << "tH_u" << std::endl;
 
 F_FN55uCS = (unsigned short int)(SvBpPsa);
 F_FN55uCS = L1X8s3 / J5nc3lf3b_;
@@ -311,7 +311,7 @@ break;
 
 if ((SvBpPsa >= RbMV) || ((LuD7) || (L1X8s3 > -250973096)))
 {
-std::cout << L1X8s3 << j6Ji4(SvBpPsa, 364015276) << Lz87oks2I2(-1327820769, 592607649) << L1X8s3 << std::endl;
+std::cout << L1X8s3 << j6Ji4(SvBpPsa, 364015276) << Lz87oks2I2((unsigned short)-1327820769, 592607649) << L1X8s3 << std::endl;
 }
 else
 {
@@ -463,7 +463,7 @@ case 'i':
 Kqyk1Ht = j6Ji4(Kqyk1Ht, L1X8s3);
 break;
 default:
-sru5lABcj = j6Ji4(sru5lABcj, -1401918195);
+sru5lABcj = j6Ji4(sru5lABcj, (char)-1401918195);
 break;
 }
 

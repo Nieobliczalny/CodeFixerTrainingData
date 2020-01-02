@@ -288,7 +288,7 @@ case 'g':
 ckzO1V2_7 = w1iUg8XV % oihH8;
 break;
 case 'h':
-oihH8 = tkzMY81u(-476044799, w1iUg8XV, -1653309248, QLRu, i58l);
+oihH8 = tkzMY81u(-476044799, w1iUg8XV, (unsigned char)-1653309248, QLRu, i58l);
 break;
 }
 switch (i58l)
@@ -386,7 +386,7 @@ short    DLh_7B(char    w2wi3,unsigned long    VIe2N2sN,unsigned short    jkmsP5
 
 short	tkzMY81u(unsigned short int	W5J0Z_,unsigned int	m1z4li,unsigned char	bxH5DHg56C,unsigned long long	RGcqntfNj,unsigned int	ksxfM)
 {
-	return	1844883883;
+	return	(short)1844883883;
 }
 
 unsigned short int  MTQ7Cs1L(char  fk14440K,unsigned short  WkJJjMr12,unsigned long long  YP6wmCNn)

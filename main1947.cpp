@@ -23,7 +23,7 @@ int main(int argc, char** argv)
     short    QG92a4i_l4;
         QG92a4i_l4    =    0;
 	unsigned char	C4WCjd07T9,	c_OpT0E4_o,	ByY5Cc2nWT,	setqlsIAS,	e7AI14r,	fWOc5_R,	ER9t,	ESdnSoAo,	f3WkqGuI,	I0vvb;
-		C4WCjd07T9	=	c_OpT0E4_o	=	ByY5Cc2nWT	=	setqlsIAS	=	e7AI14r	=	fWOc5_R	=	ER9t	=	ESdnSoAo	=	f3WkqGuI	=	I0vvb	=	-880904251;
+		C4WCjd07T9	=	c_OpT0E4_o	=	ByY5Cc2nWT	=	setqlsIAS	=	e7AI14r	=	fWOc5_R	=	ER9t	=	ESdnSoAo	=	f3WkqGuI	=	I0vvb	=	(unsigned char)-880904251;
 
 {
 int i = 4;

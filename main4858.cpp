@@ -235,7 +235,7 @@ break;
 }
 else
 {
-std::cout << xPddL_oF8m(e3HtI, 1565258541, 875325108, v0OR2pD_J, b8ts7v49p8) << n4p_ << std::endl;
+std::cout << xPddL_oF8m(e3HtI, 1565258541, (unsigned short)875325108, v0OR2pD_J, b8ts7v49p8) << n4p_ << std::endl;
 }
 if (Z3P5Qbjg9I(-1234997549, -752747067) == 0)
 {
@@ -312,7 +312,7 @@ std::cout << v79d1O5C << "yL1E" << JPx_p(-821322649, -1187034132) << xJlL_Ot << 
 
 try
 {
-Rj9K = YeTmU(-1354898687, -1005242931);
+Rj9K = YeTmU((char)-1354898687, -1005242931);
 }
 catch (int& errorCode)
 {
@@ -355,7 +355,7 @@ case 2:
 z_h1JZL = en6xVQq & 452335274;
 break;
 case 3:
-WWA_qiuS8k = YeTmU(-178690671, 1752285049);
+WWA_qiuS8k = YeTmU(-178690671, (char)1752285049);
 break;
 case 4:
 S3_2 = (int)floor(Yr4E);
@@ -399,7 +399,7 @@ else
 {
 if (DvGQ & -1984741191)
 {
-zYpt57bF = tiNy3(1231284952, -1565535340, 1537537789);
+zYpt57bF = tiNy3(1231284952, -1565535340, (unsigned char)1537537789);
 }
 else
 {
@@ -464,7 +464,7 @@ int j = 0;
 do
 {
 j++;
-n4p_ = YeTmU(-1872650250, -595029408);
+n4p_ = YeTmU(-1872650250, (char)-595029408);
 }
 while (j < 5);
 }

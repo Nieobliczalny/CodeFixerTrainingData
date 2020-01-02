@@ -66,7 +66,7 @@ case 'c':
 m4O7wh = I7g6zal3(m4O7wh, QI62h2OEOu);
 break;
 case 'd':
-KIWW = EXgkDZ_e(599120256, t6gKd_7T_, -727039763, 1416768317);
+KIWW = EXgkDZ_e((unsigned char)599120256, t6gKd_7T_, -727039763, 1416768317);
 break;
 case 'e':
 hqfo_76G2 = I7g6zal3(hqfo_76G2, t3eNJ44g);
@@ -127,7 +127,7 @@ U2t4 = I7g6zal3(KUTJ3YMVN5, U2t4);
 break;
 case 'd':
 case 'D':
-rz2D8K782e = EXgkDZ_e(s_b1, 35158603, gc0_0RoDC7, 1998765091);
+rz2D8K782e = EXgkDZ_e(s_b1, (unsigned short)35158603, gc0_0RoDC7, 1998765091);
 break;
 case 'e':
 case 'E':
@@ -145,7 +145,7 @@ break;
 }
 else
 {
-KUTJ3YMVN5 = EXgkDZ_e(-410970150, -227253181, 1530430058, -40897372);
+KUTJ3YMVN5 = EXgkDZ_e(-410970150, (unsigned short)-227253181, 1530430058, -40897372);
 }
 }
 else
@@ -192,7 +192,7 @@ case 'd':
 rz2D8K782e = EXgkDZ_e(O9nHw4, 1854659658, pJPf5JF, T4rmlW_T1);
 break;
 case 'e':
-s_b1 = I7g6zal3(447797562, o957J);
+s_b1 = I7g6zal3((unsigned short)447797562, o957J);
 break;
 }
 MRntUb54x = (unsigned long long)(p8M6xLJ9Y);
@@ -209,7 +209,7 @@ Z6x_s6cLDU = VdK5e5P4 + 698438252;
 break;
 case 'c':
 case 'C':
-p8M6xLJ9Y = I7g6zal3(1237289939, 499092065);
+p8M6xLJ9Y = I7g6zal3((unsigned short)1237289939, 499092065);
 break;
 }
 Z6x_s6cLDU = E9Bz4G6 / EXgkDZ_e(KIWW, 97607514, 1732330957, 51181989);
@@ -222,7 +222,7 @@ case 'b':
 KIWW = (int)abs(rz2D8K782e);
 break;
 case 'c':
-KUTJ3YMVN5 = EXgkDZ_e(988977781, -394484765, t3eNJ44g, 482452215);
+KUTJ3YMVN5 = EXgkDZ_e(988977781, (unsigned short)-394484765, t3eNJ44g, 482452215);
 break;
 case 'd':
 pJPf5JF ^= 1405180009;
@@ -332,7 +332,7 @@ else if (TV7D2bkM > -745979398)
 {
 if (hqeowos)
 {
-KIWW = EXgkDZ_e(638139708, E64e_MFwO, U2t4, 2109438908);
+KIWW = EXgkDZ_e(638139708, E64e_MFwO, U2t4, (unsigned short)2109438908);
 }
 }
 else if (t6gKd_7T_ > -1505750850)
@@ -434,7 +434,7 @@ else
 switch (QI62h2OEOu)
 {
 case 'a':
-KIWW = EXgkDZ_e(-802839447, s_b1, Ho2JSu, 835598837);
+KIWW = EXgkDZ_e(-802839447, s_b1, Ho2JSu, (unsigned short)835598837);
 break;
 case 'b':
 m4O7wh = p8M6xLJ9Y >> 1149486016;

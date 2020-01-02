@@ -17,7 +17,7 @@ int main(int argc, char** argv)
   unsigned int  KO24Ovc6E  =  0;
  float P4EC3lRr = -1145141617;
     short    Tzj4o8TW_g    =    -595585854;
-  char  Ezw_K  =  791984895;
+  char  Ezw_K  =  (char)791984895;
 	unsigned long long	uODgM	=	0;
   unsigned long  aAh3I4g  =  1894170754;
  char UzQn9WDl = -1676286468;
@@ -36,7 +36,7 @@ Ezw_K--;
 }
 else if (khAFHCvx == 118059389)
 {
-uODgM = sp1wm(-2027933470, CeHf5, 1716807384, -999624244);
+uODgM = sp1wm(-2027933470, CeHf5, (short)1716807384, -999624244);
 }
 else if (MFxb6dk & 2124882559)
 {
@@ -69,7 +69,7 @@ std::cout << WEKFwG_9(Swim5b, P896L0W4g, Tzj4o8TW_g, -11478729, bJ61nuO) << sp1w
 }
 else if ((bJ61nuO <= 1789784788) || (CeHf5 != aAh3I4g))
 {
-std::cout << WEKFwG_9(Swim5b, 1527341493, 527359973, -1353569883, -1867855063) << Swim5b << JmSR3Xw << P896L0W4g << "l9Vurx3nN" << std::endl;
+std::cout << WEKFwG_9(Swim5b, (short)1527341493, 527359973, -1353569883, -1867855063) << Swim5b << JmSR3Xw << P896L0W4g << "l9Vurx3nN" << std::endl;
 }
 else
 {
@@ -79,7 +79,7 @@ std::cout << "AQf_VxD" << "ibEddZ27" << "GH8l4bK0" << std::endl;
 JmSR3Xw = sp1wm(JmSR3Xw, -1283661511, UzQn9WDl, 1288906701);
 for (int i = 6; i >= 0; i--)
 {
-std::cout << sp1wm(JmSR3Xw, -1487271296, -1596575897, MFxb6dk) << std::endl;
+std::cout << sp1wm(JmSR3Xw, (char)-1487271296, -1596575897, MFxb6dk) << std::endl;
 }
 switch (Ezw_K)
 {
@@ -102,7 +102,7 @@ case 5:
 uODgM = sp1wm(-1781291441, aAh3I4g, Tzj4o8TW_g, -2082062765);
 break;
 default:
-aIguz9dr = WEKFwG_9(1030371182, 1125551983, Tzj4o8TW_g, bJ61nuO, 625504117) & khAFHCvx;
+aIguz9dr = WEKFwG_9(1030371182, (short)1125551983, Tzj4o8TW_g, bJ61nuO, 625504117) & khAFHCvx;
 break;
 }
 Swim5b = WEKFwG_9(UzQn9WDl, aAh3I4g, Tzj4o8TW_g, bJ61nuO, Ezw_K) / KO24Ovc6E;

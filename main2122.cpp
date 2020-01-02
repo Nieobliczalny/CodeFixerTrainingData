@@ -61,7 +61,7 @@ break;
 
 if (aJK2)
 {
-std::cout << c8QrOx34 << ph42(c8QrOx34, 822835051, 1089308778, -1025126543, j2vYR72M9) << c8QrOx34 << std::endl;
+std::cout << c8QrOx34 << ph42(c8QrOx34, 822835051, (char)1089308778, -1025126543, j2vYR72M9) << c8QrOx34 << std::endl;
 }
 
 try
@@ -116,7 +116,7 @@ c8QrOx34 = (long)(ct4BQ1v5 + (sKd8pOQvVz));
 }
 c8QrOx34 = ph42(1840520265, wlF24lZuHY, j2vYR72M9, vxpWuK, -1799604259);
 c8QrOx34 = 1205556404 / vxpWuK;
-aJK2 = Y5NZ2(aJK2, j2vYR72M9, -1800568699, wlF24lZuHY);
+aJK2 = Y5NZ2(aJK2, j2vYR72M9, (unsigned short)-1800568699, wlF24lZuHY);
 try
 {
 {
@@ -200,7 +200,7 @@ int i = 0;
 while (i < 10)
 {
 ++i;
-c8QrOx34 = ph42(-2548043, j2vYR72M9, -1809675844, -186288992, c8QrOx34);
+c8QrOx34 = ph42(-2548043, j2vYR72M9, (char)-1809675844, -186288992, c8QrOx34);
 }
 }
 
@@ -229,7 +229,7 @@ c8QrOx34 <<= 2031975708;
 }
 else if (vxpWuK > sKd8pOQvVz)
 {
-c8QrOx34 = ph42(-838288618, 1280588242, j2vYR72M9, -936464086, -1641221113);
+c8QrOx34 = ph42((unsigned short)-838288618, 1280588242, j2vYR72M9, -936464086, -1641221113);
 }
 else if (((aJK2 & 393188693) || (vxpWuK <= -683305208)) && (j2vYR72M9))
 {
@@ -250,7 +250,7 @@ switch (wlF24lZuHY)
 {
 case 'a':
 case 'A':
-c8QrOx34 = ph42(-1558254893, -380084420, j2vYR72M9, 2109525794, -1011887584);
+c8QrOx34 = ph42((unsigned short)-1558254893, -380084420, j2vYR72M9, 2109525794, -1011887584);
 break;
 case 'b':
 case 'B':

@@ -71,7 +71,7 @@ case 'A':
 fYrIQfUhv5 = qDvdVaL2(-1487173408, fYrIQfUhv5, 516756045);
 break;
 default:
-WISl2h0 = Od0f0(WISl2h0, 1070826519, ACDv76I);
+WISl2h0 = Od0f0(WISl2h0, (unsigned char)1070826519, ACDv76I);
 break;
 }
 
@@ -130,7 +130,7 @@ std::cout << "NCFtCm_Js0" << "GYY4ZN_9J" << std::endl;
 WISl2h0 = Od0f0(-914796814, -485493700, 1854481263);
 
 std::cout << "cHuDH8a56t" << std::endl;
-fZMTv4m = H11vr3(fZMTv4m, 1079863447, 1536973516, 1706337577);
+fZMTv4m = H11vr3(fZMTv4m, 1079863447, (unsigned char)1536973516, 1706337577);
 
 fYrIQfUhv5 = qDvdVaL2(WISl2h0, -1684373698, ACDv76I);
 if (((WISl2h0 == fYrIQfUhv5) || (ACDv76I < -841277746)) && ((fZMTv4m != Y583M4_qA4) && (fYrIQfUhv5 == 1080103024)))
@@ -372,7 +372,7 @@ fYrIQfUhv5 = LNCH_();
 }
 
 fYrIQfUhv5 = (unsigned short int)(Y583M4_qA4 + (-21571957));
-std::cout << qDvdVaL2(782956008, fYrIQfUhv5, 866425823) << "j1570Yw6_" << "Ah71PTy" << WISl2h0 << H11vr3(npOukM5, 1804806665, -1731703113, WISl2h0) << std::endl;
+std::cout << qDvdVaL2(782956008, fYrIQfUhv5, 866425823) << "j1570Yw6_" << "Ah71PTy" << WISl2h0 << H11vr3(npOukM5, 1804806665, (unsigned char)-1731703113, WISl2h0) << std::endl;
 {
 int i = 10;
 do

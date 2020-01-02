@@ -23,7 +23,7 @@ int main()
   unsigned char  n29x;
   n29x  =  777914826;
 	short int	YiIuI5yn0r;
-	YiIuI5yn0r	=	-1748457571;
+	YiIuI5yn0r	=	(short)-1748457571;
     unsigned long    F1y59F9;
     F1y59F9    =    525628130;
     long    N3HA;
@@ -41,7 +41,7 @@ int main()
   unsigned int  dPkV;
   dPkV  =  -237111809;
     short int    D8L3;
-    D8L3    =    659995533;
+    D8L3    =    (short)659995533;
 	unsigned long long	ywFLP9;
 	ywFLP9	=	1162782213;
   long  W409Nk128n;
@@ -55,7 +55,7 @@ int main()
  long double s8Rd4JNK15;
  s8Rd4JNK15 = -1793035780;
  unsigned char yfqB1y3y5;
- yfqB1y3y5 = 1325299506;
+ yfqB1y3y5 = (unsigned char)1325299506;
 
 D8L3 = (int)abs(N3HA);
 
@@ -311,7 +311,7 @@ case 'c':
 onFO6sKd = QjRsBTw1vU(wJYw3nd, 788980649);
 break;
 case 'd':
-onFO6sKd = QjRsBTw1vU(s8Rd4JNK15, 1444564300);
+onFO6sKd = QjRsBTw1vU(s8Rd4JNK15, (unsigned short)1444564300);
 break;
 }
 }

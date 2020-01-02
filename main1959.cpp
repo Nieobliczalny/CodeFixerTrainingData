@@ -29,7 +29,7 @@ int main(int argc, char** argv)
     x_J6    =    0;
  unsigned short int gj9t1VrRPN, W7HMyhn, I8tE, hQCHiV_g, ayDa3G_y9, xULuq5ge9U, A2Hf, KQgOsU, cfde0_uNm, e52s_Jp7B5, E5A_9J, Rf__i, z9lSod, EYf54Ih9Q, Qsk74S, hf3HS, L9Q4835c8C, iNuC6U84u, V4fiOM27S, ekmON, fVz8A3U1, Gmn0BO9;
  gj9t1VrRPN = -424722393;
- W7HMyhn = 706610501;
+ W7HMyhn = (unsigned short)706610501;
  I8tE = 1924652159;
  hQCHiV_g = -884929374;
  ayDa3G_y9 = -1048045930;
@@ -39,7 +39,7 @@ int main(int argc, char** argv)
  cfde0_uNm = 576956071;
  e52s_Jp7B5 = 129897435;
  E5A_9J = -1145732339;
- Rf__i = -1062484972;
+ Rf__i = (unsigned short)-1062484972;
  z9lSod = -227827100;
  EYf54Ih9Q = -889866363;
  Qsk74S = 951658811;
@@ -49,7 +49,7 @@ int main(int argc, char** argv)
  V4fiOM27S = 243002818;
  ekmON = 2004391434;
  fVz8A3U1 = -1270066151;
- Gmn0BO9 = -941244389;
+ Gmn0BO9 = (unsigned short)-941244389;
 
 iNuC6U84u = kfoh8O(1330743584, xULuq5ge9U, 683363531);
 
@@ -145,7 +145,7 @@ e52s_Jp7B5 = (unsigned short int)(V4fiOM27S);
 
 if (Gmn0BO9 > Qsk74S)
 {
-std::cout << H7u5nTL(fVz8A3U1) << Gmn0BO9 << "WAP7D3NL" << kfoh8O(822833050, -411145520, -212856816) << "GZRr2Hv" << std::endl;
+std::cout << H7u5nTL(fVz8A3U1) << Gmn0BO9 << "WAP7D3NL" << kfoh8O(822833050, (unsigned short)-411145520, -212856816) << "GZRr2Hv" << std::endl;
 }
 else
 {

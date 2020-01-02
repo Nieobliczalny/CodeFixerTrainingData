@@ -22,7 +22,7 @@ int main()
  long PWPB06;
  PWPB06 = 426099365;
 	unsigned short int	vd8S0OC72j;
-	vd8S0OC72j	=	1677787767;
+	vd8S0OC72j	=	(unsigned short)1677787767;
 	short int	j79dH;
 	j79dH	=	1095115569;
   unsigned int  cwKVD;
@@ -36,7 +36,7 @@ int main()
   int  yol48029LO;
   yol48029LO  =  -91403286;
     short    i102;
-    i102    =    459451349;
+    i102    =    (short)459451349;
   unsigned char  wi81Y4;
   wi81Y4  =  1259999612;
     unsigned long    kSk14hy6;
@@ -46,7 +46,7 @@ int main()
     unsigned short    BoRaf13V;
     BoRaf13V    =    1885337;
   unsigned char  x92k;
-  x92k  =  412912282;
+  x92k  =  (unsigned char)412912282;
     int    C2im0;
     C2im0    =    -766232311;
     short    AF242B;
@@ -60,7 +60,7 @@ int main()
  long double kl_tvQ7Y8;
  kl_tvQ7Y8 = 1476992248;
     unsigned char    Pl0QA4L3L1;
-    Pl0QA4L3L1    =    -1553553518;
+    Pl0QA4L3L1    =    (unsigned char)-1553553518;
   int  yfH7A6;
   yfH7A6  =  -1572407413;
  short ziMAAN183l;
@@ -74,7 +74,7 @@ int main()
 	long long	CTRS;
 	CTRS	=	-1192556425;
 	char	Q7uXZI;
-	Q7uXZI	=	-1246250189;
+	Q7uXZI	=	(char)-1246250189;
  short int pLcLT7Sb;
  pLcLT7Sb = 898916607;
   unsigned short  A0rC_HJT;
@@ -88,7 +88,7 @@ int main()
 	unsigned long	L_QE9Lu9;
 	L_QE9Lu9	=	-1993443729;
 	short int	HB9vMo_stx;
-	HB9vMo_stx	=	-347914415;
+	HB9vMo_stx	=	(short)-347914415;
     short    C93J8r;
     C93J8r    =    281670122;
     unsigned char    e34z;
@@ -104,7 +104,7 @@ int main()
  int l4m5b75;
  l4m5b75 = 1804822956;
     short    P2_8_9AIf;
-    P2_8_9AIf    =    117702160;
+    P2_8_9AIf    =    (short)117702160;
  float Ino0270WP_;
  Ino0270WP_ = 963422130;
     short    EC4hlq;
@@ -118,7 +118,7 @@ int main()
  unsigned short int LT7tV2;
  LT7tV2 = 397966822;
   short int  j70cclj6;
-  j70cclj6  =  1451857134;
+  j70cclj6  =  (short)1451857134;
  long long agX_wS;
  agX_wS = 1704180369;
   unsigned short int  b7E9i;
@@ -138,7 +138,7 @@ int main()
 	char	sDmN_o;
 	sDmN_o	=	-514131822;
   unsigned short  Srl5;
-  Srl5  =  -1280867029;
+  Srl5  =  (unsigned short)-1280867029;
   unsigned long long  KNj45P_mF;
   KNj45P_mF  =  91259899;
  char Ut_u8U7;
@@ -168,7 +168,7 @@ e34z = -86775916 / dyq_i;
 }
 for (int i = 1; i >= 0; --i)
 {
-vd8S0OC72j = p10S(826417058, 1446227199);
+vd8S0OC72j = p10S(826417058, (short)1446227199);
 }
 try
 {
@@ -203,7 +203,7 @@ do
 int k = 10;
 do
 {
-dyq_i = xUgw8k6DYf(-2022865390, -340478329, 772441823, xAvBTsjHN7);
+dyq_i = xUgw8k6DYf(-2022865390, (unsigned short)-340478329, 772441823, xAvBTsjHN7);
 --k;
 }
 while (k >= 0);
@@ -228,7 +228,7 @@ else if (CTRS != 1870745755)
 int k = 0;
 while (k < 7)
 {
-ON22s34 = p10S(384180216, -560121794);
+ON22s34 = p10S(384180216, (short)-560121794);
 k++;
 }
 }
@@ -255,7 +255,7 @@ kl_tvQ7Y8 = (int)floor(Brx88nCT6);
 break;
 case 'd':
 case 'D':
-dyq_i = xUgw8k6DYf(e34z, 1811963715, 1885717085, yol48029LO);
+dyq_i = xUgw8k6DYf(e34z, 1811963715, (short)1885717085, yol48029LO);
 break;
 case 'e':
 case 'E':
@@ -286,7 +286,7 @@ break;
 }
 else if (dyq_i < JG0W)
 {
-std::cout << p10S(Brx88nCT6, 491408836) << wi81Y4 << xUgw8k6DYf(-1139207446, LzTPjE5k, Wh625S_n, btEFBscZ4) << std::endl;
+std::cout << p10S(Brx88nCT6, 491408836) << wi81Y4 << xUgw8k6DYf((char)-1139207446, LzTPjE5k, Wh625S_n, btEFBscZ4) << std::endl;
 }
 else if ((kSk14hy6 >= b7E9i) || (sDmN_o <= L_QE9Lu9))
 {
@@ -305,7 +305,7 @@ case 'b':
 v4L9o2l6Kr = CTRS ^ kPtnw;
 break;
 case 'c':
-P2_8_9AIf = p10S(-1448072171, 1290868499);
+P2_8_9AIf = p10S(-1448072171, (short)1290868499);
 break;
 case 'd':
 dyq_i = xUgw8k6DYf(kPtnw, LT7tV2, VkIsrgP9, 1584857082);
@@ -354,7 +354,7 @@ else
 {
 if (nDf_qrz7 > wi81Y4)
 {
-std::cout << pLcLT7Sb << "glZg48Nb2" << "M1_J5Rl" << xUgw8k6DYf(-1598307173, 174814514, Y0hzK8y, -2068483341) << P_Nou << std::endl;
+std::cout << pLcLT7Sb << "glZg48Nb2" << "M1_J5Rl" << xUgw8k6DYf(-1598307173, (unsigned short)174814514, Y0hzK8y, -2068483341) << P_Nou << std::endl;
 }
 }
 if ((agX_wS < kl_tvQ7Y8) || ((cwKVD >= C2im0) && (Q_61N5V2Q <= -1191364262)))
@@ -393,7 +393,7 @@ j79dH = btEFBscZ4 << Q_61N5V2Q;
 }
 if (yfH7A6 >= j79dH)
 {
-std::cout << xUgw8k6DYf(pLcLT7Sb, 557116782, uclW_95, yfH7A6) << p10S(-1853857676, -1669185003) << xUgw8k6DYf(-956748092, Q7uXZI, 1408239556, yfH7A6) << "n5nnpx" << std::endl;
+std::cout << xUgw8k6DYf(pLcLT7Sb, 557116782, uclW_95, yfH7A6) << p10S((unsigned short)-1853857676, -1669185003) << xUgw8k6DYf(-956748092, Q7uXZI, 1408239556, yfH7A6) << "n5nnpx" << std::endl;
 }
 
 if (((Ino0270WP_ != pl9_E) && (opBaD >= 1940387301)) || (k3mO5 < kPtnw))
@@ -407,7 +407,7 @@ int k = 6;
 do
 {
 k--;
-dyq_i = xUgw8k6DYf(CTRS, 1533922733, -420913604, -1915711071);
+dyq_i = xUgw8k6DYf(CTRS, 1533922733, (short)-420913604, -1915711071);
 }
 while (k >= 0);
 }
@@ -419,7 +419,7 @@ else
 {
 try
 {
-std::cout << sDmN_o << p10S(CTRS, 237669601) << Q_61N5V2Q << p10S(CTRS, -1248586143) << std::endl;
+std::cout << sDmN_o << p10S(CTRS, 237669601) << Q_61N5V2Q << p10S(CTRS, (short)-1248586143) << std::endl;
 }
 catch (int& errorCode)
 {
@@ -433,7 +433,7 @@ while (i < 2)
 {
 if ((j79dH < 1776822373) || ((qxxw1 >= Tu6L) || (j70cclj6 >= Brx88nCT6)))
 {
-dyq_i = xUgw8k6DYf(1709185614, 407848505, VkIsrgP9, BoRaf13V);
+dyq_i = xUgw8k6DYf(1709185614, (unsigned short)407848505, VkIsrgP9, BoRaf13V);
 }
 else if ((x92k == j92Azxj8s) && (P2_8_9AIf >= JG0W))
 {
@@ -446,7 +446,7 @@ case 1:
 P_Nou = (int)floor(VkIsrgP9);
 break;
 case 2:
-Ino0270WP_ = p10S(176465411, -359844672);
+Ino0270WP_ = p10S(176465411, (short)-359844672);
 break;
 case 3:
 L_QE9Lu9 >>= y4YTEHO0gJ;
@@ -467,7 +467,7 @@ case 'a':
 Q7uXZI = p10S(P2_8_9AIf, -511166848) * cwKVD;
 break;
 case 'b':
-dyq_i = xUgw8k6DYf(Nehp97, N2mz, -498172187, -1204224742);
+dyq_i = xUgw8k6DYf(Nehp97, N2mz, (short)-498172187, -1204224742);
 break;
 case 'c':
 AF242B = (int)abs(Q7uXZI);
@@ -532,7 +532,7 @@ j79dH &= 561373576;
 
 for (int i = 0; i < 2; i++)
 {
-std::cout << xUgw8k6DYf(-1438540874, 1852997861, kSk14hy6, sDmN_o) << std::endl;
+std::cout << xUgw8k6DYf(-1438540874, (unsigned short)1852997861, kSk14hy6, sDmN_o) << std::endl;
 }
 
 {
@@ -567,7 +567,7 @@ int j = 0;
 do
 {
 j++;
-std::cout << p10S(711661655, dyq_i) << FUy0TT9G_T << p10S(x92k, 147558551) << kl_tvQ7Y8 << std::endl;
+std::cout << p10S(711661655, dyq_i) << FUy0TT9G_T << p10S(x92k, (short)147558551) << kl_tvQ7Y8 << std::endl;
 }
 while (j < 8);
 }

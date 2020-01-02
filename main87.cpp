@@ -30,7 +30,7 @@ int main(int argc, char** argv)
 	long	GRO8;
 	GRO8	=	884388107;
   unsigned char  pMzba4f7j;
-  pMzba4f7j  =  287648692;
+  pMzba4f7j  =  (unsigned char)287648692;
   long double  QZ2fZ9_;
   QZ2fZ9_  =  -230660472;
   long  u2G0Lo2W5;
@@ -50,7 +50,7 @@ int main(int argc, char** argv)
  float I9LZ;
  I9LZ = -1329461882;
     unsigned short int    YW8Q_;
-    YW8Q_    =    -1225675664;
+    YW8Q_    =    (unsigned short)-1225675664;
   unsigned short  l2j7;
   l2j7  =  -1873488240;
     long    qkJGS;
@@ -62,7 +62,7 @@ int main(int argc, char** argv)
 	unsigned int	ZRdwQA;
 	ZRdwQA	=	0;
  unsigned char scW6GTYwT;
- scW6GTYwT = 164342747;
+ scW6GTYwT = (unsigned char)164342747;
 	char	BJoyI;
 	BJoyI	=	-1090560278;
   char  vHqe;
@@ -74,7 +74,7 @@ int main(int argc, char** argv)
   unsigned int  ONAG2Lf;
   ONAG2Lf  =  -1584237409;
  short tFBm6O;
- tFBm6O = -1555755600;
+ tFBm6O = (short)-1555755600;
   unsigned long long  eI0_;
   eI0_  =  758610518;
  short int V5KkKd;
@@ -110,7 +110,7 @@ int main(int argc, char** argv)
   short int  nd8AY2;
   nd8AY2  =  -866748244;
     unsigned short int    kKGSe;
-    kKGSe    =    -617967507;
+    kKGSe    =    (unsigned short)-617967507;
     long    MeC4g;
     MeC4g    =    80880529;
 	float	BL9B2z6;
@@ -120,7 +120,7 @@ int main(int argc, char** argv)
 	unsigned char	pC130_72ch;
 	pC130_72ch	=	1296402762;
  short int evE_e;
- evE_e = -1943669077;
+ evE_e = (short)-1943669077;
     double    wOy8O0F;
     wOy8O0F    =    1898181209;
  short int ea5m6NWNPu;
@@ -319,7 +319,7 @@ ZRdwQA = gY396(869362616, -506572065);
 }
 else if ((ONAG2Lf == o_6967A) && ((q6sGpfap > 2028692051) && (q2e_xhhYE != -490800710)))
 {
-cout << Zfg4m_2 << "Eg5j" << gY396(scW6GTYwT, 471227312) << gY396(-1137669601, -1450181474) << gY396(-1195353260, l2j7) << endl;
+cout << Zfg4m_2 << "Eg5j" << gY396(scW6GTYwT, 471227312) << gY396((unsigned short)-1137669601, -1450181474) << gY396(-1195353260, l2j7) << endl;
 }
 else if (((Fab74_V != o_6967A) || (pMzba4f7j != -531079131)) && (x15zvH3 & 1174841656))
 {
@@ -349,7 +349,7 @@ case 1:
 zN1M = gY396(-1131373126, -127378533);
 break;
 case 2:
-dbB2 = gY396(96621682, C_sUVh);
+dbB2 = gY396((unsigned short)96621682, C_sUVh);
 break;
 case 3:
 u2G0Lo2W5 = (int)abs(BL9B2z6);

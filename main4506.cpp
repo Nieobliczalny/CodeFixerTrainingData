@@ -30,7 +30,7 @@ unsigned short int	UGwMzh()
 int main(void)
 {
     int    bFW_4pzz0    =    0;
-	short	r005zyp3T	=	751883364;
+	short	r005zyp3T	=	(short)751883364;
 	long long	P70T	=	0;
  char sV6Io09 = -820562817;
 	unsigned int	Sv5r	=	1015311922;

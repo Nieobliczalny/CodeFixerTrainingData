@@ -85,7 +85,7 @@ int main(int argc, char** argv) {
 int i = 0;
 while (i < 2)
 {
-UIxxdK7 = PHcJ1(-341484688, -1331632409, MQe1D1B71, 306383504, zknwvJv1a);
+UIxxdK7 = PHcJ1(-341484688, -1331632409, MQe1D1B71, (unsigned short)306383504, zknwvJv1a);
 i++;
 }
 }
@@ -194,7 +194,7 @@ while (i >= 0);
 switch (JBRB8nV5n)
 {
 case 'a':
-fd3N = PHcJ1(-1377970189, 899704049, 74497882, Lk24h4ziJ, 1149561779);
+fd3N = PHcJ1(-1377970189, 899704049, (char)74497882, Lk24h4ziJ, 1149561779);
 break;
 case 'b':
 ea8v = UIxxdK7 - 1393718239;
@@ -247,7 +247,7 @@ unsigned long long i75dH(long lre9kj,unsigned short int Bf0u4K)
 }
 
 unsigned short int	o_6w0Eti(unsigned char	DMzqIUv4rn)	{
-	return	-2093536335;
+	return	(unsigned short)-2093536335;
 }
 
 long long  GVcKAY(int  i8KA5z0,int  X148,unsigned long  QsIz2eKmN7,char  WAgl1_xS1)

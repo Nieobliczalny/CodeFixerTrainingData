@@ -226,7 +226,7 @@ W5d_4W3 = e9ky(W5d_4W3, RPUN9fR80O, 341091395);
 }
 else
 {
-std::cout << e_d84Qr() << oWsY << e9ky(394127328, 1731150733, t8N1tT) << "rAxXpswOA" << e9ky(W5d_4W3, RPUN9fR80O, 1706313437) << std::endl;
+std::cout << e_d84Qr() << oWsY << e9ky((short)394127328, 1731150733, t8N1tT) << "rAxXpswOA" << e9ky(W5d_4W3, RPUN9fR80O, 1706313437) << std::endl;
 }
 }
 else if (e5Cyyg7 < cFeZ)
@@ -247,7 +247,7 @@ N41ht8c = (int)abs(t8N1tT);
 }
 else if (iHCL5A > BK_sQD)
 {
-gAYEH5F_ = e9ky(1475360569, ag62HtZ, 782328004);
+gAYEH5F_ = e9ky(1475360569, ag62HtZ, (short)782328004);
 }
 else
 {
@@ -276,7 +276,7 @@ else
 {
 if ((PVAj == 432402877) && ((rX9M) || (e5Cyyg7 < 801268836)))
 {
-el3zwf2gy = e9ky(el3zwf2gy, -192659984, -1261171567);
+el3zwf2gy = e9ky(el3zwf2gy, -192659984, (short)-1261171567);
 }
 else if (el3zwf2gy > -1081780721)
 {
@@ -308,7 +308,7 @@ else
 {
 if (p66f5 & 1938136418)
 {
-std::cout << e9ky(W5d_4W3, -1232507479, -1316390476) << std::endl;
+std::cout << e9ky(W5d_4W3, -1232507479, (short)-1316390476) << std::endl;
 }
 else
 {
@@ -330,7 +330,7 @@ if (((H04n >= 861639476) && (RPUN9fR80O)) || ((H04n <= e5Cyyg7) || (H04n)))
 {
 if (cFeZ > AZgS)
 {
-O22_P00 = e9ky(O22_P00, 1184666142, 423539240);
+O22_P00 = e9ky(O22_P00, 1184666142, (short)423539240);
 }
 }
 else
@@ -441,7 +441,7 @@ else if ((PVAj < -43707226) && (el3zwf2gy != t8N1tT))
 int k = 1;
 do
 {
-p66f5 = e9ky(1216842775, 864770979, 1911260584);
+p66f5 = e9ky(1216842775, (unsigned short)864770979, 1911260584);
 --k;
 }
 while (k >= 0);
@@ -482,7 +482,7 @@ case 'b':
 iHCL5A = N9n1T10_(W5d_4W3, 98949743);
 break;
 case 'c':
-FxWyiI = N9n1T10_(AJcPv_VldL, 1829587747);
+FxWyiI = N9n1T10_(AJcPv_VldL, (unsigned char)1829587747);
 break;
 case 'd':
 BK_sQD = e_d84Qr();
@@ -615,7 +615,7 @@ case 5:
 PVAj = (int)abs(gw13) * 0;
 break;
 case 6:
-RPUN9fR80O = e9ky(-1894511133, 634999202, 1175527945);
+RPUN9fR80O = e9ky(-1894511133, (unsigned short)634999202, 1175527945);
 break;
 case 7:
 oWsY = e9ky(oWsY, -1547253975, el3zwf2gy);
@@ -646,7 +646,7 @@ FxWyiI = (int)abs(oWsY) * 0;
 }
 else
 {
-std::cout << e9ky(oWsY, -1434004700, 1027887142) << e_d84Qr() << std::endl;
+std::cout << e9ky(oWsY, -1434004700, (short)1027887142) << e_d84Qr() << std::endl;
 }
 }
 while (i >= 0);
@@ -663,7 +663,7 @@ do
 {
 for (int k = 6; k >= 0; --k)
 {
-ag62HtZ = e9ky(-489423774, 1908034972, -1611191794);
+ag62HtZ = e9ky(-489423774, (unsigned short)1908034972, -1611191794);
 }
 j--;
 }

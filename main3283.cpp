@@ -26,7 +26,7 @@ int main()
  char Owhg = 0;
 	short	eYf9rY	=	0;
     unsigned int    G03Z6p0    =    -76415375;
-  short  w67_  =  174872707;
+  short  w67_  =  (short)174872707;
 	long long	XA6PEflm	=	1340971498;
  short v_gM_4 = 825103903;
 

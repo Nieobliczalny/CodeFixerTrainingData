@@ -28,7 +28,7 @@ int main()
   short int  X4V53v  =  0;
   unsigned long long  CS0tNZ  =  0;
 	int	KH7W6T4_e6	=	-654902569;
-    unsigned short    KCk2v0    =    1487589365;
+    unsigned short    KCk2v0    =    (unsigned short)1487589365;
     short    V39OZ    =    0;
   char  zsJSly3  =  1955530256;
 	double	qqVR	=	1144514424;
@@ -144,7 +144,7 @@ w9iB /= v72OS84M5j;
 Fou68TN_Z /= zsJSly3;
 if (U_iNc8(434516438, v72OS84M5j) == 0)
 {
-	H6HyV = U_iNc8(V39OZ, v72OS84M5j) / U_iNc8(434516438, v72OS84M5j);
+	H6HyV = U_iNc8(V39OZ, v72OS84M5j) / U_iNc8((char)434516438, v72OS84M5j);
 }
 {
 int i = 1;

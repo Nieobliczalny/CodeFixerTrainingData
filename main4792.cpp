@@ -27,7 +27,7 @@ int main() {
   unsigned short  uh68UY  =  2069183638;
  unsigned int Eguh = -385072586;
   float  OzBKxec  =  2041584267;
- char Y31b9 = -1195897351;
+ char Y31b9 = (char)-1195897351;
     unsigned int    DC_Q5FO_I    =    1844884767;
 	double	VLJW	=	-1818095075;
  unsigned short int v4l4Dv = 822009541;
@@ -39,7 +39,7 @@ int main() {
 	long	t5KuokY_	=	-1703942696;
   double  M4QU  =  1979387001;
     double    CnORPV    =    2096125164;
-    unsigned char    rYkFaEk    =    -1379629700;
+    unsigned char    rYkFaEk    =    (unsigned char)-1379629700;
     unsigned int    Zot4    =    -199605242;
 	long	VkZp2S	=	414256516;
     long long    z9D4    =    186973548;
@@ -50,7 +50,7 @@ int main() {
  unsigned char dRcFHB8 = 1043999924;
 	double	RZELsut2P3	=	32226914;
     long double    GvR1k5v    =    -317486999;
-	short int	m4OUP	=	1114031772;
+	short int	m4OUP	=	(short)1114031772;
   int  IDDeZVZ0  =  -436710309;
  float NncQPon20w = -266397309;
  long long Fi9q3iD = 132380146;
@@ -68,7 +68,7 @@ int main() {
     float    e29Q7    =    -563965995;
     long long    a7u_1Yu    =    -1274151839;
 	unsigned short	UykI	=	752542354;
-  short  F07c9C__  =  738284479;
+  short  F07c9C__  =  (short)738284479;
 	unsigned char	DHJnM3TXt	=	2015300888;
  unsigned long DoBU = 742499151;
     short int    XRu2uTUQ2    =    -996463847;
@@ -85,7 +85,7 @@ int main() {
 	long	XOjlY	=	-1594691006;
   long long  NoYS4xe  =  1568551757;
  short int WMd2O_N = -229941953;
-  short  XaImJ_r  =  -2082377705;
+  short  XaImJ_r  =  (short)-2082377705;
     unsigned int    niXc2w54    =    1671130688;
 
 if (EM8oeQy & 500481678)
@@ -143,7 +143,7 @@ case 5:
 DHJnM3TXt ^= 1235539319;
 break;
 case 6:
-b2z3Ffdr = V6Wbu(b2z3Ffdr, -1757487383);
+b2z3Ffdr = V6Wbu(b2z3Ffdr, (unsigned char)-1757487383);
 break;
 case 7:
 M4QU = V6Wbu(M4QU, rYkFaEk);
@@ -278,7 +278,7 @@ case 5:
 jcBW06 *= 1533856034;
 break;
 case 6:
-BsnEm6__2 = U8B6m0(-1694359947, 883474691);
+BsnEm6__2 = U8B6m0((unsigned short)-1694359947, 883474691);
 break;
 case 7:
 e29Q7 = (int)abs(VBQ7);
@@ -352,7 +352,7 @@ z9D4 = (int)abs(OzBKxec);
 }
 }
 VLJW = (int)ceil(N7O0gRUK3);
-cout << V6Wbu(2062783967, -1808916545) << V6Wbu(V1s_443r, -1750263414) << V6Wbu(-1646888230, XOjlY) << endl;
+cout << V6Wbu(2062783967, (unsigned char)-1808916545) << V6Wbu(V1s_443r, -1750263414) << V6Wbu(-1646888230, XOjlY) << endl;
 
 cout << "M__vWKj" << "yUD3_u_I" << endl;
 

@@ -19,7 +19,7 @@ unsigned short int  Ih5qtx18m1(unsigned long long  bWnvQh,unsigned long long  L_
 
 unsigned short v058vM(short int OSy__2,unsigned short AXmmsZ,unsigned long AEpz8O,unsigned int p_B_n0eb5K,long Yh9D2a0J_)
 {
- return -208235269;
+ return (unsigned short)-208235269;
 }
 
 int main(void)
@@ -158,7 +158,7 @@ case 2:
 Pdu6lp_c30 %= gnocfe_93;
 break;
 case 3:
-O6vKz6 = VAz090mhs(-1097224415, -367019117, SS_j8_SH3, P8FPjy);
+O6vKz6 = VAz090mhs((unsigned short)-1097224415, -367019117, SS_j8_SH3, P8FPjy);
 break;
 case 4:
 unfkJQPr4 = VAz090mhs(1609358077, THu9t_AJ0M, -1562382018, k7hbQ);

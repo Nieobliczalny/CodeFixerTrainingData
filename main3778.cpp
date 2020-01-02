@@ -18,7 +18,7 @@ short int HPao0gNxF(unsigned long vMy48n_,long Tf1E1LVE,unsigned int CB9ncZV4,un
 
 char	HUQ4pjY8V(int	xUA9,long	P29_A0T,unsigned int	NSvh,int	lgjHE)
 {
-	return	195015733;
+	return	(char)195015733;
 }
 
 unsigned int    iVl5c(unsigned char    mM0GlY,int    D6KXuF)    {
@@ -46,7 +46,7 @@ int main()
     short    CLQK;
     CLQK    =    -1036581415;
  unsigned short l1zA5bEa5S;
- l1zA5bEa5S = -1780623345;
+ l1zA5bEa5S = (unsigned short)-1780623345;
     unsigned int    HWLU4;
     HWLU4    =    351111954;
  short int jp_sgVK;
@@ -278,7 +278,7 @@ else
 {
 jp_sgVK = EvC2s2Cx | CLQK;
 }
-jp_sgVK = hMxU5SXcW7 / jW8d(-878204431, -1702757521, rsyyCqK9);
+jp_sgVK = hMxU5SXcW7 / jW8d(-878204431, (unsigned short)-1702757521, rsyyCqK9);
 
 {
 int i = 1;

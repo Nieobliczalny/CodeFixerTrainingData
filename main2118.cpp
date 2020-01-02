@@ -263,7 +263,7 @@ case 1:
 tLQ_cJp8k = kGWlc(-19321127, -131082057);
 break;
 case 2:
-A4NvNOGgE = kGWlc(1084313956, 944172032);
+A4NvNOGgE = kGWlc((unsigned char)1084313956, 944172032);
 break;
 case 3:
 EVH7 = (int)ceil(r7A8W);
@@ -403,7 +403,7 @@ while (j < 3);
 ouU5im -= 2022022809;
 
 tLQ_cJp8k = kGWlc(747097123, BGN24h20);
-cout << kGWlc(ZY30, 174853329) << kGWlc(421299540, BGN24h20) << ouU5im << endl;
+cout << kGWlc(ZY30, 174853329) << kGWlc((unsigned char)421299540, BGN24h20) << ouU5im << endl;
 Tyc82JBYQ = (int)floor(TFlKsup);
 switch (tLQ_cJp8k)
 {
@@ -444,7 +444,7 @@ case 'c':
 iJIrN355H = (int)ceil(RG9y);
 break;
 case 'd':
-A4NvNOGgE = kGWlc(902272755, BK29Ham3F);
+A4NvNOGgE = kGWlc((unsigned char)902272755, BK29Ham3F);
 break;
 default:
 DB2XZ5P_xd = (int)floor(A7EXP9);
@@ -602,7 +602,7 @@ A4NvNOGgE = kGWlc(-345738235, 96762207);
 break;
 case 'e':
 case 'E':
-tLQ_cJp8k = kGWlc(1467962860, qxchkqv_Hl);
+tLQ_cJp8k = kGWlc((unsigned char)1467962860, qxchkqv_Hl);
 break;
 case 'f':
 case 'F':

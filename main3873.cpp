@@ -22,7 +22,7 @@ int main()
     int    f9b43R;
     f9b43R    =    1730796184;
   short  DRx_98o7;
-  DRx_98o7  =  -347885583;
+  DRx_98o7  =  (short)-347885583;
  short cDSkij8DoP;
  cDSkij8DoP = 1617987339;
  long double lC75;
@@ -34,7 +34,7 @@ int main()
 	short	XCB6Bm;
 	XCB6Bm	=	-1085682325;
   char  SRq_5_pb7;
-  SRq_5_pb7  =  -673582446;
+  SRq_5_pb7  =  (char)-673582446;
 	unsigned int	q67mRvPd;
 	q67mRvPd	=	478650305;
   short  nKh0kU1h6;
@@ -48,7 +48,7 @@ int main()
  long long iCnl_P6G;
  iCnl_P6G = 739659879;
  char PCl0bbN_cO;
- PCl0bbN_cO = 878589232;
+ PCl0bbN_cO = (char)878589232;
 	short int	U45r;
 	U45r	=	1638461886;
  unsigned short Zn7DCatWd;
@@ -76,7 +76,7 @@ int main()
  unsigned char w0hUW;
  w0hUW = -1491274263;
 	unsigned short	V5JcVu2M;
-	V5JcVu2M	=	-943693229;
+	V5JcVu2M	=	(unsigned short)-943693229;
  long d00QewWYg9;
  d00QewWYg9 = 2106156715;
 	unsigned short	FC3Jwfp4Rf;
@@ -108,7 +108,7 @@ int main()
 	unsigned short	rY693O;
 	rY693O	=	222049289;
   short  z9AMym2;
-  z9AMym2  =  -1664766733;
+  z9AMym2  =  (short)-1664766733;
 	short int	f32Fw2PV8x;
 	f32Fw2PV8x	=	1762362376;
   char  MB78k;
@@ -122,7 +122,7 @@ int main()
  long long I61nnFyk;
  I61nnFyk = -2014409783;
 	char	o2mO;
-	o2mO	=	-411127049;
+	o2mO	=	(char)-411127049;
 	unsigned long long	eu0n;
 	eu0n	=	1034783845;
 	char	dno4;
@@ -140,7 +140,7 @@ int main()
 	int	qLqML;
 	qLqML	=	-1298314028;
  unsigned char EYvKT;
- EYvKT = 278141184;
+ EYvKT = (unsigned char)278141184;
   unsigned int  i2yF;
   i2yF  =  -1158866109;
   unsigned short  Z36Z;
@@ -150,7 +150,7 @@ int main()
  long double FYN0gLB5m;
  FYN0gLB5m = 1891666100;
   unsigned short int  yW794P;
-  yW794P  =  387147138;
+  yW794P  =  (unsigned short)387147138;
 	short int	C1q_O_k432;
 	C1q_O_k432	=	-581390980;
   unsigned short  B50PZ;
@@ -234,7 +234,7 @@ LGCYc = (int)abs(Cv2g2g4);
 
 if (z0zMI57y_ > 1603434831)
 {
-std::cout << f9b43R << d0vAp(-254335801, ebIP) << d0vAp(-797008275, ebIP) << std::endl;
+std::cout << f9b43R << d0vAp(-254335801, ebIP) << d0vAp((short)-797008275, ebIP) << std::endl;
 }
 else if ((q67mRvPd > -74068057) || ((f9b43R < t7Li2Z6) && (DRx_98o7 >= 1958826734)))
 {

@@ -24,7 +24,7 @@ int main(void) {
     y2SU    =    0;
   short  pGMnUt,  Soj5BDb621,  b21e70szs,  DeE4J55,  C0fwqb6X0m,  L2gd_,  FkWd05i6,  C_Bhfx,  VV2w,  boeGBxF,  HMoafM,  viyw3,  qcEwke54e,  f8E5whC,  cv52D,  Q7Y36wXAw6,  f7a2z7CX,  P514JzcJ2,  WJ9GLB,  mh__aZ_rX5,  bCrM,  aHY6U;
   pGMnUt  =  1290472684;
-  Soj5BDb621  =  -665682839;
+  Soj5BDb621  =  (short)-665682839;
   b21e70szs  =  1367820626;
   DeE4J55  =  -782271723;
   C0fwqb6X0m  =  -1545799000;
@@ -34,7 +34,7 @@ int main(void) {
   VV2w  =  360092152;
   boeGBxF  =  -928799473;
   HMoafM  =  6138874;
-  viyw3  =  -1225067874;
+  viyw3  =  (short)-1225067874;
   qcEwke54e  =  -389187591;
   f8E5whC  =  -1522645641;
   cv52D  =  99185646;
@@ -44,7 +44,7 @@ int main(void) {
   WJ9GLB  =  1732222131;
   mh__aZ_rX5  =  851625617;
   bCrM  =  681051682;
-  aHY6U  =  153240855;
+  aHY6U  =  (short)153240855;
 
 for (int i = 10; i >= 0; --i)
 {
@@ -151,7 +151,7 @@ while (j < 7);
 }
 while (i < 9);
 }
-pGMnUt = hh1C(pGMnUt, 1994363763);
+pGMnUt = hh1C(pGMnUt, (short)1994363763);
 
 try
 {

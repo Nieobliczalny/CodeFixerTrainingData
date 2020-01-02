@@ -76,7 +76,7 @@ std::cout << HVy8335X6(910438766, Mxe5CA, OER4a) << Xk5F << Ur5pw(631564193, Mxe
 
 try
 {
-Xk5F = Ur5pw(Xk5F, 1141130089, len4E, 1497789942, ic4MD97);
+Xk5F = Ur5pw(Xk5F, 1141130089, len4E, (short)1497789942, ic4MD97);
 }
 catch (int& errorCode)
 {
@@ -155,7 +155,7 @@ else if (Y14_50rfL7)
 {
 for (int k = 9; k >= 0; k--)
 {
-HX48P4qKK = HVy8335X6(-524782129, -112374103, -727848342);
+HX48P4qKK = HVy8335X6(-524782129, -112374103, (short)-727848342);
 }
 }
 else
@@ -266,7 +266,7 @@ case 1:
 ic4MD97 = Ur5pw(-1041094048, 540545888, -1675522120, q4_zPM6Zk, 1851051656);
 break;
 case 2:
-HX48P4qKK = HVy8335X6(-1045896965, 724878974, -1426972769);
+HX48P4qKK = HVy8335X6(-1045896965, 724878974, (short)-1426972769);
 break;
 case 3:
 RH_p6mr1 = HVy8335X6(LYdeK0_i, -1806772902, f08akv);
@@ -281,7 +281,7 @@ case 6:
 sXDCe1a_ = Ur5pw(sXDCe1a_, -643392345, O3hH5w, K388QH1pa, 1592938256);
 break;
 case 7:
-Xv9Wk8 = HVy8335X6(ic4MD97, 2020872189, -1134532104);
+Xv9Wk8 = HVy8335X6(ic4MD97, 2020872189, (short)-1134532104);
 break;
 case 8:
 sXDCe1a_ = (int)abs(Y14_50rfL7);
@@ -350,7 +350,7 @@ Xk5F = (int)abs(ArFl1y002);
 }
 else if ((O3hH5w > LYdeK0_i) || (F8b_NY))
 {
-f4tj40_ = Ur5pw(f4tj40_, Y14_50rfL7, 1945040949, -762493179, -2139433230);
+f4tj40_ = Ur5pw(f4tj40_, Y14_50rfL7, 1945040949, -762493179, (unsigned short)-2139433230);
 }
 else if (yR32RqbzZ2 == RH_p6mr1)
 {

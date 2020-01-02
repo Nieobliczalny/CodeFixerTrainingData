@@ -24,7 +24,7 @@ int main() {
   unsigned short  xISDgJe;
   xISDgJe  =  -784545692;
     unsigned short int    b1vC;
-    b1vC    =    -296075958;
+    b1vC    =    (unsigned short)-296075958;
  long long HFm_cunzx;
  HFm_cunzx = 1752324612;
   float  Hh63WI43x;
@@ -40,7 +40,7 @@ int main() {
     short    I6D2G;
     I6D2G    =    0;
     char    UiFnL;
-    UiFnL    =    -1859289146;
+    UiFnL    =    (char)-1859289146;
     long    OXX9_;
     OXX9_    =    110831979;
  long double lupo760KvD;
@@ -50,7 +50,7 @@ int main() {
     unsigned long    Us4_4z77_;
     Us4_4z77_    =    -36925634;
  char nQt2Fx_;
- nQt2Fx_ = -238841364;
+ nQt2Fx_ = (char)-238841364;
 	unsigned long	f8l2Rwg;
 	f8l2Rwg	=	-1626611884;
  unsigned long mmK6Dv;
@@ -60,7 +60,7 @@ int main() {
     long long    fZl75lZL_Z;
     fZl75lZL_Z    =    -2071390527;
  char zOTbko;
- zOTbko = 1777807482;
+ zOTbko = (char)1777807482;
  unsigned long long wueLZ01;
  wueLZ01 = -1364697498;
     unsigned short int    ZGB5;
@@ -72,7 +72,7 @@ int main() {
  long double K9dL7_e2Q3;
  K9dL7_e2Q3 = -941055464;
 	unsigned char	EZKFHh;
-	EZKFHh	=	-1029777107;
+	EZKFHh	=	(unsigned char)-1029777107;
     unsigned long long    xjJpbRS1z;
     xjJpbRS1z    =    659895386;
   unsigned long long  wS2F;
@@ -84,7 +84,7 @@ int main() {
   long  bdW3AOpnrA;
   bdW3AOpnrA  =  -929392324;
  unsigned short int LBQO6x;
- LBQO6x = 1829955053;
+ LBQO6x = (unsigned short)1829955053;
 	long double	P5X1;
 	P5X1	=	1994148298;
 	unsigned short int	H2IL_;
@@ -94,7 +94,7 @@ int main() {
  unsigned short int eyE_I7;
  eyE_I7 = -226606598;
 	unsigned char	nluE6ET;
-	nluE6ET	=	242265506;
+	nluE6ET	=	(unsigned char)242265506;
 	unsigned short int	hs2aG;
 	hs2aG	=	1699297995;
  unsigned long szN8_75;
@@ -112,7 +112,7 @@ int main() {
     int    tbgXs_M;
     tbgXs_M    =    -1437650818;
     char    GhO2h_r;
-    GhO2h_r    =    -1723134264;
+    GhO2h_r    =    (char)-1723134264;
 	short	cfA_ablD6;
 	cfA_ablD6	=	1017101923;
   double  JC6P9IQsKb;
@@ -132,7 +132,7 @@ int main() {
   short  o669e;
   o669e  =  -771891249;
     short int    Y2PbCN;
-    Y2PbCN    =    -743473693;
+    Y2PbCN    =    (short)-743473693;
  short c9LbK;
  c9LbK = -491826540;
     long double    q8BG;
@@ -170,7 +170,7 @@ int main() {
 	double	d5BD1HD9;
 	d5BD1HD9	=	1863060836;
   char  yMAXry5SJ;
-  yMAXry5SJ  =  -2082984823;
+  yMAXry5SJ  =  (char)-2082984823;
 	unsigned short	oAi4MnzR;
 	oAi4MnzR	=	-1560993746;
 	long double	lP6CHr3DUF;
@@ -192,7 +192,7 @@ int main() {
  unsigned char IkiWH7d_T;
  IkiWH7d_T = -1062266347;
   short  JsXN_2J;
-  JsXN_2J  =  -2016862482;
+  JsXN_2J  =  (short)-2016862482;
 	unsigned char	h2gqE91A7Z;
 	h2gqE91A7Z	=	-7644672;
     short    Pv0Wwt;
@@ -202,7 +202,7 @@ int main() {
 	unsigned short int	q25q813Ku_;
 	q25q813Ku_	=	-249019043;
     short int    i_CXyEM1U;
-    i_CXyEM1U    =    595846127;
+    i_CXyEM1U    =    (short)595846127;
   char  BGCQw_32;
   BGCQw_32  =  822749845;
 	float	S7DHnool;
@@ -214,7 +214,7 @@ int main() {
 	double	GuWzK70G;
 	GuWzK70G	=	-1729814204;
 	short int	s7ZE5BYABX;
-	s7ZE5BYABX	=	-657455998;
+	s7ZE5BYABX	=	(short)-657455998;
 
 switch (xjJpbRS1z)
 {
@@ -225,7 +225,7 @@ case 'b':
 I6D2G = oHViG(-1957384761, -779715360, -1148831788);
 break;
 case 'c':
-yc_n0m6s = oHViG(EZKFHh, 62268385, cMnhq);
+yc_n0m6s = oHViG(EZKFHh, (unsigned char)62268385, cMnhq);
 break;
 case 'd':
 zViQ = FjUR8t - 71990113;
@@ -323,7 +323,7 @@ case 0:
 yc_n0m6s = oHViG(953451896, YioJQ7yBRM, -1512452393);
 break;
 case 1:
-yc_n0m6s = oHViG(GhO2h_r, -35429488, nluE6ET);
+yc_n0m6s = oHViG(GhO2h_r, (unsigned char)-35429488, nluE6ET);
 break;
 }
 AA7_dP = (double)(jwAo);
@@ -443,7 +443,7 @@ else if (S7DHnool < 1043120941)
 switch (H2IL_)
 {
 case 0:
-e75p3P5c = (F2YMdQKe < jwAo) ? -1397667892 : 1299976124;
+e75p3P5c = (F2YMdQKe < jwAo) ? -1397667892 : (char)1299976124;
 break;
 case 1:
 I6D2G = oHViG(478186494, 1088613050, 1134028318);
@@ -519,7 +519,7 @@ case 1:
 EJ6cKf02 = oHViG(LBQO6x, 1704980120, nluE6ET);
 break;
 case 2:
-EJ6cKf02 = oHViG(1169809491, 1562300474, lP6CHr3DUF);
+EJ6cKf02 = oHViG(1169809491, (unsigned char)1562300474, lP6CHr3DUF);
 break;
 case 3:
 y_s_OL = oHViG(-945702944, -56944200, Xj6Te5);

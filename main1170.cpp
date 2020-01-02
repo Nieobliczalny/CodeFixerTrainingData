@@ -24,7 +24,7 @@ int main(void) {
     char    j0jiTjG    =    -794988732;
 	unsigned int	JuFOTsz_	=	1833453207;
   long long  g9CFT  =  1757315603;
-	char	enS_	=	-435549809;
+	char	enS_	=	(char)-435549809;
   short int  W3es91d  =  -1796906327;
     float    Q7A5o    =    -2109482812;
     unsigned char    pvd8fVur    =    2011980927;
@@ -36,7 +36,7 @@ int main(void) {
  double HmrFsHt = 1197113978;
 	double	oA5f1aw5s3	=	-1157398563;
  short int wzyTVP96 = 716730056;
- char JkVEl = 1851612791;
+ char JkVEl = (char)1851612791;
  unsigned int iX1Hfdhm = 602708241;
     short int    HG5vlc5deN    =    -1351295543;
   char  T0_Z5  =  -1070679930;
@@ -50,7 +50,7 @@ int main(void) {
   long double  KSK9K  =  -1806572562;
     long    g4Pa2ALP    =    -1034264644;
     int    H3rQX3FRM3    =    495098310;
-    short int    idZeFqY0Z7    =    -1162211399;
+    short int    idZeFqY0Z7    =    (short)-1162211399;
  long long r7Zk8n6t = -810150317;
   int  kVMCjMT  =  1958858806;
   int  JT0F88  =  -857304145;
@@ -62,7 +62,7 @@ int main(void) {
   double  Oo1kx_  =  1559270427;
     double    NhtIV    =    -496204925;
 	unsigned int	UD4Ws	=	-1878157021;
-	unsigned short int	UeOV	=	-1264595371;
+	unsigned short int	UeOV	=	(unsigned short)-1264595371;
 	char	xnR7	=	-1701625392;
  short k9fBcmf = 899173625;
     unsigned char    NRoVG76N_    =    -1398985494;
@@ -74,7 +74,7 @@ int main(void) {
   short  I96U  =  -1625071743;
  long long tw33 = -1398052137;
     int    i2RzVzT    =    -1578619046;
-    char    BgQ8    =    125879491;
+    char    BgQ8    =    (char)125879491;
  unsigned short int GKg_Lv = -611254792;
     unsigned short    ri7qjA    =    -774695910;
 	long long	c96DbU6	=	1883251607;
@@ -86,7 +86,7 @@ int main(void) {
 	long double	NA9kM6053	=	1849772133;
   long double  PP5r73bK  =  736344282;
     short    iaRYOqowBY    =    -1314484025;
-	unsigned short int	V3z6Xt9ZV	=	425345271;
+	unsigned short int	V3z6Xt9ZV	=	(unsigned short)425345271;
   unsigned char  ONFh0g97C  =  -223196722;
  short JKvgysD6 = -662992381;
 	short int	et9_Yxq	=	0;

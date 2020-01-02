@@ -24,7 +24,7 @@ int main() {
     short    ln3X5b;
     ln3X5b    =    -1149307303;
  unsigned short DU2fWU;
- DU2fWU = 1753037437;
+ DU2fWU = (unsigned short)1753037437;
  short int cbp8lH;
  cbp8lH = 0;
   long long  I0uU_oj;
@@ -34,7 +34,7 @@ int main() {
   unsigned char  WUc7M;
   WUc7M  =  667654874;
     short    a947;
-    a947    =    1959156339;
+    a947    =    (short)1959156339;
 	short	KsHX65Wd;
 	KsHX65Wd	=	-964561159;
   unsigned long long  A6iB;

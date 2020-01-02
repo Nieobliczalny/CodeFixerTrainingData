@@ -55,7 +55,7 @@ LDdSE = (int)floor(Q3D5lTit_3);
 
 for (int i = 5; i >= 0; i--)
 {
-std::cout << e1W7d(1272601423, 1671304398) << e40GLj5h29(71180482, -1778044526, -1808056011) << e40GLj5h29(-1236333176, 1287894205, -407989906) << std::endl;
+std::cout << e1W7d(1272601423, (unsigned short)1671304398) << e40GLj5h29(71180482, -1778044526, -1808056011) << e40GLj5h29(-1236333176, 1287894205, -407989906) << std::endl;
 }
 
 {
@@ -178,7 +178,7 @@ short    D9kFk690Zo(unsigned long long    jP3Z57,unsigned short    D8BpwX3_V,uns
 }
 
 unsigned char    e40GLj5h29(long    w85a8kh,int    fYV2Av,unsigned char    z62U4a)    {
-    return    -1763372123;
+    return    (unsigned char)-1763372123;
 }
 
 char    e1W7d(unsigned short int    ubK__3040w,unsigned short int    n2KRzDm___)

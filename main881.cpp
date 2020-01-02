@@ -38,7 +38,7 @@ break;
 }
 try
 {
-LOSDTbQ4 = jh_4jdwK(-2094731354, LOSDTbQ4);
+LOSDTbQ4 = jh_4jdwK((short)-2094731354, LOSDTbQ4);
 }
 catch (int& errorCode)
 {

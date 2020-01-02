@@ -28,7 +28,7 @@ switch (x9Cx)
 {
 case 'a':
 case 'A':
-rfOBs = Hb8b9R(-1050853927, 1856569725, 110331894, lWO2LV, -625704314);
+rfOBs = Hb8b9R(-1050853927, 1856569725, 110331894, lWO2LV, (unsigned short)-625704314);
 break;
 case 'b':
 case 'B':
@@ -186,7 +186,7 @@ U0VK7_S9f = OHo5_purCX / 1256640717;
 
 try
 {
-omxduyqL6 = Ci2eA15L(192164855, -1738201268, 455884749, hYDZ, 836629078);
+omxduyqL6 = Ci2eA15L(192164855, -1738201268, 455884749, hYDZ, (char)836629078);
 }
 catch (int& errorCode)
 {
@@ -202,7 +202,7 @@ rfOBs = (x9Cx & -1217514828) ? -1536778929 : u1nhN37p;
 while (i < 9);
 }
 
-std::cout << "s8xm00" << "kjx8H" << Ci2eA15L(-1748323511, 653898168, -1596810046, 1471977460, 1608293322) << "f0oRQaE" << J3y3_() << std::endl;
+std::cout << "s8xm00" << "kjx8H" << Ci2eA15L(-1748323511, 653898168, -1596810046, 1471977460, (char)1608293322) << "f0oRQaE" << J3y3_() << std::endl;
 
 for (int i = 10; i >= 0; --i)
 {
@@ -257,7 +257,7 @@ char	J3y3_()	{
 
 short	Hb8b9R(short int	ui70_x8lK,unsigned long long	ziyV6H,int	Q7P1OjG,long long	GB2OiF3y,unsigned short	Wy_6oZ)
 {
-	return	2095007572;
+	return	(short)2095007572;
 }
 
 unsigned long long    O4lvbBJ(unsigned char    j57EpY,unsigned long long    mwWp1T36,unsigned long    wlAUsSu,int    cT1W1uBz,short int    t15Fk880)

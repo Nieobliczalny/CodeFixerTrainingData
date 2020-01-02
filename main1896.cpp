@@ -118,7 +118,7 @@ case 'G':
 Ei50 = WKx76(-1176257576);
 break;
 }
-Ei50 = D1496ITO(Ji72, Ei50, -647076584, 593739633) / TH0hwh;
+Ei50 = D1496ITO(Ji72, Ei50, (unsigned char)-647076584, 593739633) / TH0hwh;
 OlwlIAz = (long long)(Ji72 + (-1756373863));
 ZllbqlXi = (long long)(z3xjq2EJ);
 std::cout << WKx76(1797188145) << WKx76(Ji72) << WKx76(1711924720) << std::endl;
@@ -278,7 +278,7 @@ case 5:
 UTWP_ = (int)abs(dSpJF6r21A);
 break;
 case 6:
-UTWP_ = MNfamy1iK(800564707, z3xjq2EJ, Gl3mtT78a);
+UTWP_ = MNfamy1iK((unsigned short)800564707, z3xjq2EJ, Gl3mtT78a);
 break;
 }
 
@@ -305,7 +305,7 @@ R66QyOKk = (long long)(ZllbqlXi);
 i--;
 }
 }
-std::cout << R66QyOKk << D1496ITO(1324069991, 1779167834, 775698796, dSpJF6r21A) << D1496ITO(ZllbqlXi, 1431246650, QOM6, 724296959) << std::endl;
+std::cout << R66QyOKk << D1496ITO(1324069991, 1779167834, 775698796, dSpJF6r21A) << D1496ITO(ZllbqlXi, 1431246650, QOM6, (unsigned short)724296959) << std::endl;
 
 if ((z3xjq2EJ > -1506271976) && (R66QyOKk & 468974711))
 {

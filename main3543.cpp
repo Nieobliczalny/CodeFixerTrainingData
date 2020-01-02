@@ -26,7 +26,7 @@ int main(int argc, char** argv) {
   int  ymLD4D4_;
   ymLD4D4_  =  -649194059;
     unsigned short int    uNC7N96o;
-    uNC7N96o    =    -403912096;
+    uNC7N96o    =    (unsigned short)-403912096;
 
 switch (zC1iQG6)
 {

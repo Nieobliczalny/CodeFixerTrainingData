@@ -328,7 +328,7 @@ case 0:
 Bd7G20646 = nLRf7591m(b57_, WI6w8Jj6k, i87Z79I);
 break;
 case 1:
-Bd7G20646 = nLRf7591m(N4Zl_t1dk, -146685547, -1796238719);
+Bd7G20646 = nLRf7591m(N4Zl_t1dk, (char)-146685547, -1796238719);
 break;
 case 2:
 wj_WxR_Tx = nLRf7591m(N4Zl_t1dk, 1342746802, Bd7G20646) | 841196817;
@@ -349,7 +349,7 @@ case 7:
 yIu5tNu4 = nLRf7591m(r5zNE8, 2004122244, -2044992354);
 break;
 case 8:
-yIu5tNu4 = nLRf7591m(a21Y64wDP, -110777371, -373713822);
+yIu5tNu4 = nLRf7591m(a21Y64wDP, (char)-110777371, -373713822);
 break;
 }
 yIu5tNu4 = nLRf7591m(-1874349409, m3Xk, yIu5tNu4);
@@ -378,7 +378,7 @@ while (i < 7);
 int i = 7;
 do
 {
-std::cout << nLRf7591m(m3Xk, 1943526477, K95sUBpyYs) << gE_ba << "jwr5RZ0T0" << Qhv6 << nLRf7591m(m3Xk, 787579587, -1788691937) << std::endl;
+std::cout << nLRf7591m(m3Xk, 1943526477, K95sUBpyYs) << gE_ba << "jwr5RZ0T0" << Qhv6 << nLRf7591m(m3Xk, (char)787579587, -1788691937) << std::endl;
 --i;
 }
 while (i >= 0);
@@ -486,7 +486,7 @@ p5T28S8 = (long double)(eWGsJme2);
 t_3L = cix92hW / 992254736;
 for (int i = 0; i < 10; i++)
 {
-yIu5tNu4 = nLRf7591m(xfps355JYo, -1809672190, 402128437);
+yIu5tNu4 = nLRf7591m(xfps355JYo, (char)-1809672190, 402128437);
 }
 
 eEbF4g = (int)floor(S26J);

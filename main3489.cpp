@@ -35,7 +35,7 @@ case 'a':
 SxwJ = xFjG_IBl(r_JADWAF8, -1870247169, -1366553265, GM1USmZ3) << t6E680;
 break;
 case 'b':
-V1Ult_rJR6 = Cjqc_32lb(V1Ult_rJR6, 2093628973, kV3kW, 548973041);
+V1Ult_rJR6 = Cjqc_32lb(V1Ult_rJR6, (unsigned short)2093628973, kV3kW, 548973041);
 break;
 case 'c':
 iySNzE4sB = Elib(137642394, 326843681, a_4o, 965437509, 1758627155);
@@ -99,7 +99,7 @@ case 1:
 YB6Z_2M >>= ZWv9v91D;
 break;
 case 2:
-k8Do8Oi0_ = xFjG_IBl(k8Do8Oi0_, 220250777, 1671969008, 912716637);
+k8Do8Oi0_ = xFjG_IBl(k8Do8Oi0_, 220250777, 1671969008, (short)912716637);
 break;
 case 3:
 n__Fpj = Elib(1425707436, 1281686262, -1156210271, 1791878915, a21FU_8_);
@@ -125,7 +125,7 @@ else if (iySNzE4sB != SD20)
 {
 try
 {
-FFLBv6A = eNT_OfuKf2(323283131, r_JADWAF8, -763764112, s7_gPK9J, 989175274);
+FFLBv6A = eNT_OfuKf2(323283131, r_JADWAF8, (unsigned short)-763764112, s7_gPK9J, 989175274);
 }
 catch (int& errorCode)
 {
@@ -219,7 +219,7 @@ std::cout << Elib(-1971531816, NiSzZA, 2107054903, nMw0hZJ, -709967597) << std::
 Fq731_ = xFjG_IBl(vR6xjvgcE_, NiSzZA, -1260716607, 1663426650) % jKB54L;
 RN8yjI = KWXsP / FFLBv6A;
 
-vR6xjvgcE_ = Cjqc_32lb(-753256256, ATxME5t, -483144883, -1771228104);
+vR6xjvgcE_ = Cjqc_32lb(-753256256, ATxME5t, -483144883, (short)-1771228104);
 {
 int i = 5;
 while (i >= 0)

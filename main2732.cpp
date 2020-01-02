@@ -24,7 +24,7 @@ int main(int argc, char** argv) {
 	unsigned int	Y_4r5cVjvQ;
 	Y_4r5cVjvQ	=	892810779;
  short int As3t4ehT1;
- As3t4ehT1 = 630898958;
+ As3t4ehT1 = (short)630898958;
  short TD41f0I;
  TD41f0I = -604277180;
 	long	V4gCom__v3;

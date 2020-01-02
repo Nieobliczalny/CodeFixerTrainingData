@@ -18,7 +18,7 @@ unsigned short  IR73yz3VK(int  fW8Ov3w9)
 }
 
 short	RVP_aw(unsigned long long	wAG_LcZOb)	{
-	return	870841248;
+	return	(short)870841248;
 }
 
 int main(int argc, char** argv)

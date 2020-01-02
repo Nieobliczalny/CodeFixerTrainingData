@@ -20,7 +20,7 @@ unsigned long long  Ri0l943k5E(unsigned long  dczE3,unsigned long  jlxI0Go0,int 
 int main(int argc, char** argv) {
  short int Fc8L4WB, h2t775N7, d0BSKB, nt5e2, GfHp, b685;
  Fc8L4WB = -614992798;
- h2t775N7 = 50768399;
+ h2t775N7 = (short)50768399;
  d0BSKB = -1166152535;
  nt5e2 = 1822711738;
  GfHp = -1751417218;
@@ -83,7 +83,7 @@ b685 = yW26QZ(b685, I7kRxwl, 1047837111);
 }
 else if (h2t775N7 < 865644452)
 {
-GfHp = yW26QZ(-147328897, GfHp, -1458649390);
+GfHp = yW26QZ((unsigned short)-147328897, GfHp, -1458649390);
 }
 else if (((Fc8L4WB) || (d0BSKB < -705524297)) || (Fc8L4WB >= -60362503))
 {
@@ -152,7 +152,7 @@ nt5e2 -= GfHp;
 break;
 case 'f':
 case 'F':
-GfHp = yW26QZ(2021804516, -1521056083, 2003746773);
+GfHp = yW26QZ(2021804516, (char)-1521056083, 2003746773);
 break;
 case 'g':
 case 'G':
@@ -261,7 +261,7 @@ case 'd':
 nt5e2 = (int)abs(Fc8L4WB);
 break;
 case 'e':
-GfHp = (lJdZjkv7Fx != -1718292921) ? -166980830 : 1600043932;
+GfHp = (lJdZjkv7Fx != -1718292921) ? (short)-166980830 : 1600043932;
 break;
 default:
 h2t775N7 = yW26QZ(h2t775N7, -1172887753, d0BSKB);
@@ -288,7 +288,7 @@ i++;
 }
 while (i < 4);
 }
-nt5e2 = I_dJ_(nt5e2, 1359600462, d0BSKB, 2105232311);
+nt5e2 = I_dJ_(nt5e2, 1359600462, d0BSKB, (short)2105232311);
 if (b685 >= nt5e2)
 {
 d0BSKB = I_dJ_(d0BSKB, -964512081, h2t775N7, -1620819447);
@@ -356,7 +356,7 @@ h2t775N7 = (int)abs(nt5e2);
 }
 else if (nt5e2 <= -714194853)
 {
-nt5e2 = (Fc8L4WB <= -1907502605) ? 957876987 : 300427396;
+nt5e2 = (Fc8L4WB <= -1907502605) ? 957876987 : (short)300427396;
 }
 else if (nt5e2 == 151939201)
 {
@@ -615,7 +615,7 @@ case 1:
 h2t775N7 = lJdZjkv7Fx << GfHp;
 break;
 case 2:
-Fc8L4WB = I_dJ_(1824122475, -953489499, b685, -1139688673);
+Fc8L4WB = I_dJ_(1824122475, -953489499, b685, (short)-1139688673);
 break;
 case 3:
 h2t775N7 = n1mOl();
@@ -656,7 +656,7 @@ short int	SV901re()	{
 
 unsigned char    yW26QZ(unsigned short    t3D92I6,char    M50_j_,char    r8F_Mx)
 {
-    return    1438498083;
+    return    (unsigned char)1438498083;
 }
 
 char    n1mOl()

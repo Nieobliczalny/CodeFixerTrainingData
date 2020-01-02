@@ -13,7 +13,7 @@ using namespace std;
 int main() {
 	long	cAGHfE	=	-753570830;
   short  M5n9764dHr  =  -455547406;
-    short int    am3tkE4    =    -392766172;
+    short int    am3tkE4    =    (short)-392766172;
  unsigned short U3Xw = -558570030;
     unsigned short    hCc5N83xVX    =    1219934915;
 	unsigned char	ufk1S	=	1602058288;
@@ -25,7 +25,7 @@ int main() {
   unsigned short  OIuRS2  =  1826530036;
   long long  lif9TM  =  646375437;
   long long  M7w6vUYa19  =  0;
-    unsigned short    P4c86    =    137854871;
+    unsigned short    P4c86    =    (unsigned short)137854871;
     long long    yZ6y35r    =    1617639954;
  unsigned int L_4J3hen = 1644631510;
  long double pJvRh91EK = -858612634;
@@ -35,7 +35,7 @@ int main() {
   unsigned short int  h4Nt  =  -1115614308;
   unsigned short int  ner1nQoQzX  =  1073890155;
   unsigned short  QaT4va39Tv  =  -1285013684;
-  unsigned short int  PX85iVH  =  -1689107500;
+  unsigned short int  PX85iVH  =  (unsigned short)-1689107500;
  short int Mz1HlK = 810760372;
     short    OM5leicYp_    =    1409046071;
     float    NhKc7    =    188933526;
@@ -46,7 +46,7 @@ int main() {
   short int  p76a4L7_  =  161676692;
   short  uTZNClJTmb  =  -1821573264;
     unsigned int    dIM4    =    28926071;
- unsigned char RcF6QeGj = 803355941;
+ unsigned char RcF6QeGj = (unsigned char)803355941;
   unsigned short  e6xr_0  =  1553505118;
 	short int	zNbCO	=	-1268560389;
 	short int	iY1K	=	1542588004;
@@ -60,7 +60,7 @@ int main() {
     unsigned long long    vgL6AU    =    -190047569;
 	float	g66kS4	=	1159298457;
     int    VIg_SXsf94    =    0;
- short int jRID4fBcMZ = -1791599656;
+ short int jRID4fBcMZ = (short)-1791599656;
  long long Q2yw7J6wk5 = -1445560575;
 
 switch (h4Nt)

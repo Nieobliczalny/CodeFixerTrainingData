@@ -110,7 +110,7 @@ case 'f':
 NFq8 = t_px();
 break;
 case 'g':
-EznGXl0 = U55q(-569834832, -1473218340, baB8_);
+EznGXl0 = U55q(-569834832, (short)-1473218340, baB8_);
 break;
 case 'h':
 vZ08bI = anN1EA1 + 1972576132;
@@ -199,7 +199,7 @@ catch (int& errorCode)
 {
 fmhJQJxo = t_px();
 }
-Dgq_1V = U55q(Dgq_1V, -796340653, -1671155747);
+Dgq_1V = U55q(Dgq_1V, (short)-796340653, -1671155747);
 for (int i = 9; i >= 0; i--)
 {
 {
@@ -215,7 +215,7 @@ tCucX |= 447146643;
 while (j < 5);
 }
 }
-cout << IO6Zr4BC << dO9AJ8(-668488, Pn0nA4zbU8, -157437688, 2135878671, mFRJK) << "PClC4K" << "F_oT7999w" << endl;
+cout << IO6Zr4BC << dO9AJ8(-668488, Pn0nA4zbU8, -157437688, (short)2135878671, mFRJK) << "PClC4K" << "F_oT7999w" << endl;
 {
 int i = 0;
 do
@@ -246,7 +246,7 @@ else
 {
 if (iEK_6eBFg & X7xiW12eT)
 {
-iEK_6eBFg = Sk2_(-1682396164, 616170839, 1538052182);
+iEK_6eBFg = Sk2_(-1682396164, (short)616170839, 1538052182);
 }
 }
 }
@@ -263,7 +263,7 @@ uaQA0++;
 }
 else if (((lp5Kx3O4AN == g2IR_) && (aOb10D == -2009624474)) && (i0B2Zkd38u >= j168f_z9S))
 {
-Dgq_1V = (d2pINliX50 <= y1EDCZ) ? 736380705 : Sk2_(Yh8D0p_T74, -1893320613, ZRaS4_);
+Dgq_1V = (d2pINliX50 <= y1EDCZ) ? 736380705 : Sk2_(Yh8D0p_T74, (short)-1893320613, ZRaS4_);
 }
 else if ((E1ei == y1EDCZ) && (IPYvq3ZFL < 1881058349))
 {
@@ -286,7 +286,7 @@ SovETt = U55q(-2030073110, 1212168177, 1566579967);
 QeQ863R_s = BNs7b3 / iEK_6eBFg;
 if (IPYvq3ZFL)
 {
-iEK_6eBFg = Sk2_(490718356, QR10w2CT9, -1583087950);
+iEK_6eBFg = Sk2_(490718356, QR10w2CT9, (unsigned char)-1583087950);
 }
 JD1PxxVF8i = dzVTf5H | 204751216;
 
@@ -406,7 +406,7 @@ x1j_3 = dO9AJ8(Xx8z, QR10w2CT9, jqmA5loZgm, 730760194, d7IjuN) % x58e_E__;
 }
 else
 {
-YuP6B9E09 = nK_6y(YuP6B9E09, Zq88ad487, -131954497, 1087485360);
+YuP6B9E09 = nK_6y(YuP6B9E09, Zq88ad487, -131954497, (unsigned char)1087485360);
 }
 
 return 0;
@@ -427,7 +427,7 @@ short int	t_px()
 
 short  U55q(short  WN10PmyMs,short int  ZrO7250,long  X65amwIN)
 {
-  return  2083219411;
+  return  (short)2083219411;
 }
 
 char nK_6y(long long F4dG,unsigned long R4s5g4vV,unsigned long L6Jbq,unsigned char LJ028qD)

@@ -26,7 +26,7 @@ int main(void) {
 	unsigned int	MoV8S;
 	MoV8S	=	1928320641;
     short int    axu8we5_86;
-    axu8we5_86    =    -491326750;
+    axu8we5_86    =    (short)-491326750;
 	long double	OKd8d79L2J;
 	OKd8d79L2J	=	1338702632;
     double    zye0E23S0;
@@ -38,7 +38,7 @@ int main(void) {
     long long    ObS7E;
     ObS7E    =    -1869670337;
  char kJijr3ec;
- kJijr3ec = -1156172402;
+ kJijr3ec = (char)-1156172402;
   long  spMC628x;
   spMC628x  =  -1482694708;
     unsigned long long    BL87;
@@ -50,7 +50,7 @@ int main(void) {
   long  U06A7J3;
   U06A7J3  =  1564835539;
  unsigned short int wZwh;
- wZwh = 1853190434;
+ wZwh = (unsigned short)1853190434;
     unsigned char    Wpm_8;
     Wpm_8    =    1895999929;
   float  zSFd6;
@@ -60,7 +60,7 @@ int main(void) {
   unsigned short int  gM4Q0;
   gM4Q0  =  -1600122856;
  short U1x1;
- U1x1 = 1401866498;
+ U1x1 = (short)1401866498;
  long double JDvnyb;
  JDvnyb = -1888807500;
  short ml_IUlnf;
@@ -74,7 +74,7 @@ int main(void) {
     int    phRXAq;
     phRXAq    =    1273938984;
   short  u6ugKsAp4;
-  u6ugKsAp4  =  -1463595005;
+  u6ugKsAp4  =  (short)-1463595005;
 	short	TCTo09khD4;
 	TCTo09khD4	=	0;
     int    Qc6tcs1X;
@@ -86,7 +86,7 @@ int main(void) {
   long double  lu5g8Si;
   lu5g8Si  =  549499668;
 	short int	qDaF4l_uk0;
-	qDaF4l_uk0	=	1317507289;
+	qDaF4l_uk0	=	(short)1317507289;
  double TG_xxd4f_;
  TG_xxd4f_ = 1927201132;
 	short int	sWc_w0Y;
@@ -98,7 +98,7 @@ int main(void) {
   long long  I053n;
   I053n  =  160369489;
  char ynq1Z79YS;
- ynq1Z79YS = 1720095193;
+ ynq1Z79YS = (char)1720095193;
   short  Wq22hsh;
   Wq22hsh  =  -617216191;
  unsigned short int Eq05B;
@@ -108,7 +108,7 @@ int main(void) {
   short int  mK8Ry;
   mK8Ry  =  -1460983168;
     unsigned char    JFxCjO7;
-    JFxCjO7    =    -871732818;
+    JFxCjO7    =    (unsigned char)-871732818;
  float B8AK;
  B8AK = -991128065;
 	short	O7KbW_;
@@ -142,7 +142,7 @@ int main(void) {
 	unsigned long	ni_ghBy0d_;
 	ni_ghBy0d_	=	-1198410617;
   short int  W3H4Yeu;
-  W3H4Yeu  =  -1094611090;
+  W3H4Yeu  =  (short)-1094611090;
     long    GU38kI;
     GU38kI    =    1570989938;
 	float	b1B9iU716;

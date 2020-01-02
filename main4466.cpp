@@ -51,7 +51,7 @@ aiQ9XF = (long double)(eGB2v5g);
 }
 }
 
-D4qk2 = q2s9e(-441857924, 1641374305, 753143211, qt96Tu2oM, D4qk2);
+D4qk2 = q2s9e(-441857924, 1641374305, (short)753143211, qt96Tu2oM, D4qk2);
 
 j3wCP = (int)floor(aSGUaoAcp);
 
@@ -82,7 +82,7 @@ while (i < 3);
 int i = 0;
 do
 {
-T_Tp9 = q2s9e(1830207989, 799861144, 1974388255, 1980968871, 1953206102);
+T_Tp9 = q2s9e(1830207989, (unsigned short)799861144, 1974388255, 1980968871, 1953206102);
 ++i;
 }
 while (i < 5);
@@ -97,7 +97,7 @@ h1dLw /= eGB2v5g;
 }
 while (i < 8);
 }
-c09buCt = cf8r(c09buCt, 984632363, -370888798, 1539715881, gMW7);
+c09buCt = cf8r(c09buCt, 984632363, (short)-370888798, 1539715881, gMW7);
 {
 int i = 0;
 while (i < 4)
@@ -110,7 +110,7 @@ DsBk *= 180478852;
 int i = 0;
 do
 {
-aSGUaoAcp = cf8r(1518148438, -1755966404, 1535635404, gvv251MG, 2076751022);
+aSGUaoAcp = cf8r(1518148438, (short)-1755966404, 1535635404, gvv251MG, 2076751022);
 ++i;
 }
 while (i < 2);
@@ -127,7 +127,7 @@ int k = 3;
 while (k >= 0)
 {
 k--;
-H1an = q2s9e(1298526433, -2055649363, -1020167760, c09buCt, 458985818);
+H1an = q2s9e(1298526433, -2055649363, (short)-1020167760, c09buCt, 458985818);
 }
 }
 j--;
@@ -150,7 +150,7 @@ try
 {
 if (h1dLw <= S7q3E77HT3)
 {
-qt96Tu2oM = cf8r(601174523, -857943983, 1151683786, P6DJ5ai6_v, -1049457202);
+qt96Tu2oM = cf8r(601174523, (short)-857943983, 1151683786, P6DJ5ai6_v, -1049457202);
 }
 }
 catch (int& errorCode)
@@ -211,7 +211,7 @@ case 0:
 H1an = q2s9e(971946491, eGB2v5g, aSGUaoAcp, H1an, c09buCt);
 break;
 case 1:
-HbW3hQl = q2s9e(DsBk, 211631835, -1757386953, P6DJ5ai6_v, gvv251MG);
+HbW3hQl = q2s9e(DsBk, 211631835, (short)-1757386953, P6DJ5ai6_v, gvv251MG);
 break;
 case 2:
 XW72081pi = T_Tp9 ^ 1288735599;
@@ -339,7 +339,7 @@ case 4:
 D4qk2 = (int)abs(H1an);
 break;
 case 5:
-w98SV = cf8r(w98SV, W_gYt, 115562784, 1916688392, H1an);
+w98SV = cf8r(w98SV, W_gYt, 115562784, (unsigned short)1916688392, H1an);
 break;
 case 6:
 gvv251MG = cf8r(H1an, 1724396288, h1dLw, 1838946082, G457bqfR);
@@ -383,7 +383,7 @@ while (k >= 0);
 }
 }
 }
-std::cout << cf8r(fE7cfv, -1779537409, 2825262, T_Tp9, G457bqfR) << std::endl;
+std::cout << cf8r(fE7cfv, -1779537409, (short)2825262, T_Tp9, G457bqfR) << std::endl;
 P6DJ5ai6_v = (int)abs(w98SV);
 
 HbW3hQl = q2s9e(-739048634, h1dLw, 1251170501, 1507341145, 1037000820);

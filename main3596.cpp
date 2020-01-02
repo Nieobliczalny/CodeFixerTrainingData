@@ -12,7 +12,7 @@ int main(void)
 {
  unsigned short int V__Ny0n = 290568992;
 	unsigned long	vVYc9	=	455208362;
-  short  YGK1A9y_Jh  =  -637782421;
+  short  YGK1A9y_Jh  =  (short)-637782421;
  long HxPla = 20692331;
  short int vQEAEwu7G1 = -1084642598;
     short int    L86208lh    =    -492984028;
@@ -26,7 +26,7 @@ int main(void)
  double WBHC6OE = 1218083351;
   double  aSnceUD8Rv  =  -1180767853;
 	long double	QNtS	=	-1672763755;
-	unsigned short int	mdfLnyHD5	=	2144447479;
+	unsigned short int	mdfLnyHD5	=	(unsigned short)2144447479;
     char    QMQDLs6S    =    -463608977;
     unsigned short    rlR9F    =    -1458245036;
     long long    RrqE    =    1756251163;
@@ -44,7 +44,7 @@ int main(void)
   int  wZ3C4559b  =  -1555839319;
  unsigned long xGv5y = 1052183817;
   long long  oEX_Q  =  744880752;
-	short int	ohl__h	=	-1093530549;
+	short int	ohl__h	=	(short)-1093530549;
  double OTC2zjNY3y = -218074985;
 	unsigned short	bpqW	=	206968864;
 	unsigned int	E6In61Z10	=	0;
@@ -55,7 +55,7 @@ int main(void)
   float  s4VP7Tt  =  -1217617675;
 	double	rFVtc44q	=	-1125228225;
  unsigned long Rvgq15a7i = -2050123386;
-  unsigned char  nN45RuO_ZB  =  822680061;
+  unsigned char  nN45RuO_ZB  =  (unsigned char)822680061;
   short  Q9pWm54ul  =  -1567908171;
   short  H_3bj  =  -1356783118;
     double    xQ_TOZh74    =    -1438554188;
@@ -72,7 +72,7 @@ int main(void)
  long long q0wh34aR3 = 687206454;
  int UB7q4C_pJ = -116991071;
 	short	wKYisk3aU	=	-1986513556;
-    short int    qH_j    =    -1392741225;
+    short int    qH_j    =    (short)-1392741225;
 
 std::cout << wnP5qzd << std::endl;
 

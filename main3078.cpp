@@ -28,7 +28,7 @@ int main() {
     unsigned int    g0_f;
     g0_f    =    0;
 	unsigned short int	Uc0n;
-	Uc0n	=	-2018750113;
+	Uc0n	=	(unsigned short)-2018750113;
   double  FNFgDPuIN;
   FNFgDPuIN  =  -1316513485;
 	long long	qw80445g;
@@ -38,7 +38,7 @@ int main() {
  unsigned char r6026_q1B1;
  r6026_q1B1 = 688794643;
 	char	pFg3Ljl;
-	pFg3Ljl	=	2113849006;
+	pFg3Ljl	=	(char)2113849006;
   short int  o719mHKs0;
   o719mHKs0  =  1821915502;
 	int	R_0l25Y;
@@ -58,7 +58,7 @@ int main() {
     char    r9j__QA2y;
     r9j__QA2y    =    -592965165;
  char O_r5Zyp061;
- O_r5Zyp061 = 1216994378;
+ O_r5Zyp061 = (char)1216994378;
 	short int	Cwk5A14m2F;
 	Cwk5A14m2F	=	-2116632693;
 

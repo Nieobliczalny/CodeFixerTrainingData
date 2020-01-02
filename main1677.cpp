@@ -18,7 +18,7 @@ unsigned int    vLLOEE(int    kLx8,short    x1EWx,short    x50AVp67,unsigned lon
 }
 
 short int	E3Fh2Sa(long long	c6UXa1)	{
-	return	1892742358;
+	return	(short)1892742358;
 }
 
 int main(void)

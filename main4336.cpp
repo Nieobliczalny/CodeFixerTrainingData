@@ -20,6 +20,7 @@ short int  SX790(unsigned long  O84CKCTt4,long long  t1Xw9h7i);
 
 int main(int argc, char** argv)
 {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
  unsigned short BuCq_mm8_ = -1437095632, uufR = 861714557, TdL873569 = -1833556096, V27bf = -416146499, Zber0 = 426557135, OTaO9 = 1159438338, vjz31oy2k_ = -1450205506, RBG6m = -1147836625, mZixQYf31 = 1750712834, ibpFk = 953212576, z7UX9U = 1151341467, q0v0o0 = -856865733, H4LMINXz = 207244052, zPu8 = -587748769, Gx1gO3L7Z9 = 1820647382, f7Xw7s1g = 1847665686, gecu_yBSSz = 2126352473, F82aB6 = 1452057388, t2_p_07 = -2071269792, Dr7pO5 = -390443999, JS0Sx = 23466852, u4M0rMAIul = 1167531147, kQKu = 137227492, Ulj51 = 307987186, gkoUmBV99 = 755411421, g4U3Jk = 1150991838, s_16_14pE = -1499768286, U4A_w26M = 891011305, JFIYzJN12 = 1784493141, a2E170Z = -465810437, K8Pv75 = -1581325101, V68E = -1760940124, P7D22K = -1876030491, d705139 = -1366100676, G3XYA = -560452227;
 	long long	w0vXj3VO	=	0,	wtIKC	=	0,	CTd34tGS	=	0,	FF9yOb3	=	0;
 
@@ -100,7 +101,7 @@ V27bf = f7Xw7s1g - Ulj51;
 
 std::cout << vjz31oy2k_ << xD6l33(OTaO9, s_16_14pE) << B07_tM4(OTaO9, s_16_14pE, -1384248536) << P7D22K << std::endl;
 a2E170Z = (unsigned short)(OTaO9);
-gecu_yBSSz = (K8Pv75 >= 698775116) ? uKU2 : 391024468;
+gecu_yBSSz = (K8Pv75 >= 698775116) ? uKU2 : (unsigned short)391024468;
 
 try
 {
@@ -133,7 +134,7 @@ if (s_16_14pE > 20499776)
 {
 if (Zber0 >= gecu_yBSSz)
 {
-u4M0rMAIul = B07_tM4(1589195671, 1616642077, U4A_w26M) & 2076979495;
+u4M0rMAIul = B07_tM4(1589195671, (unsigned char)1616642077, U4A_w26M) & 2076979495;
 }
 else
 {
@@ -229,7 +230,7 @@ case 1:
 u4M0rMAIul = B07_tM4(u4M0rMAIul, -1104966329, ibpFk);
 break;
 default:
-u4M0rMAIul = s747aBAG(1727570842, -1925209744, w0vXj3VO, 470167303);
+u4M0rMAIul = s747aBAG((unsigned short)1727570842, -1925209744, w0vXj3VO, 470167303);
 break;
 }
 }
@@ -272,7 +273,7 @@ else if (wtIKC >= U4A_w26M)
 {
 if (mZixQYf31 < -608125008)
 {
-g4U3Jk = s747aBAG(g4U3Jk, OTaO9, 1712821057, -368973664);
+g4U3Jk = s747aBAG(g4U3Jk, OTaO9, 1712821057, (short)-368973664);
 }
 else
 {
@@ -287,7 +288,7 @@ wtIKC = (int)abs(FF9yOb3);
 }
 else
 {
-gkoUmBV99 = s747aBAG(-1888625981, -1699416819, U4A_w26M, -198808090);
+gkoUmBV99 = s747aBAG(-1888625981, -1699416819, U4A_w26M, (short)-198808090);
 }
 }
 else
@@ -308,7 +309,7 @@ int i = 8;
 while (i >= 0)
 {
 i--;
-std::cout << K8Pv75 << "zJ58Bsde" << f5sU_0(vjz31oy2k_, 1813334750, JS0Sx, zPu8, -298950497) << SX790(782296978, U4A_w26M) << B07_tM4(vjz31oy2k_, 1734745232, JS0Sx) << std::endl;
+std::cout << K8Pv75 << "zJ58Bsde" << f5sU_0(vjz31oy2k_, 1813334750, JS0Sx, zPu8, -298950497) << SX790(782296978, U4A_w26M) << B07_tM4(vjz31oy2k_, (unsigned char)1734745232, JS0Sx) << std::endl;
 }
 }
 TdL873569 = (unsigned short)(uKU2 + (1086030737));
@@ -318,7 +319,7 @@ case 0:
 BuCq_mm8_ <<= 1585602428;
 break;
 case 1:
-U4A_w26M = s747aBAG(794360974, -1501326666, -1975122198, -74089937);
+U4A_w26M = s747aBAG(794360974, -1501326666, (short)-1975122198, -74089937);
 break;
 case 2:
 V68E = f5sU_0(V68E, -777007569, kQKu, uufR, JS0Sx);
@@ -334,7 +335,7 @@ break;
 int i = 0;
 do
 {
-std::cout << B07_tM4(2075324716, 842906091, kQKu) << "SYyRl8" << std::endl;
+std::cout << B07_tM4(2075324716, (unsigned char)842906091, kQKu) << "SYyRl8" << std::endl;
 i++;
 }
 while (i < 10);
@@ -360,7 +361,7 @@ catch (int& errorCode)
 K8Pv75 = B07_tM4(K8Pv75, -1037934775, w0vXj3VO);
 }
 
-std::cout << s747aBAG(881950230, 1315726666, w0vXj3VO, 2020771999) << "ozJfYqPY" << "r78Crgz" << "bsve5Fx4" << Dr7pO5 << std::endl;
+std::cout << s747aBAG((unsigned short)881950230, 1315726666, w0vXj3VO, 2020771999) << "ozJfYqPY" << "r78Crgz" << "bsve5Fx4" << Dr7pO5 << std::endl;
 
 return 0;
 }
@@ -370,7 +371,7 @@ short int  B07_tM4(unsigned short  I__FG,unsigned char  hz5og,char  CEsVu21q)  {
 }
 
 short    s747aBAG(unsigned short int    i06G6g6pA,unsigned long    p7Vw5t,short    Kz_N,short int    SWi9zy170S)    {
-    return    -1084674624;
+    return    (short)-1084674624;
 }
 
 unsigned short  xD6l33(long  N7H2c,unsigned int  db77Q0BdtJ)  {

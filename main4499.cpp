@@ -35,7 +35,7 @@ switch (li5D)
 {
 case 'a':
 case 'A':
-P_OGXsh85E = X9rOhl(724897613, whQpRFmB, -1807379912, v2d88790v);
+P_OGXsh85E = X9rOhl(724897613, whQpRFmB, (char)-1807379912, v2d88790v);
 break;
 case 'b':
 case 'B':
@@ -47,7 +47,7 @@ cKDj2Oq2IM = u4Zl362C3_ / u39yyB;
 break;
 case 'd':
 case 'D':
-LT2584 = X9rOhl(299348414, QSRjqb, At1Ui27R3, -2085640337);
+LT2584 = X9rOhl(299348414, QSRjqb, At1Ui27R3, (unsigned short)-2085640337);
 break;
 }
 }
@@ -82,7 +82,7 @@ YTh8 = X9rOhl(1104291461, -493578617, ts8Q3K, b6UvLt85x);
 }
 else if ((MN6DV3GB != Xl52) || (A_d1L_a39 > aBMz52at))
 {
-P_OGXsh85E = X9rOhl(epGk_f7, x1xB2hI2, B_spGq5, 426448935);
+P_OGXsh85E = X9rOhl(epGk_f7, x1xB2hI2, B_spGq5, (unsigned short)426448935);
 }
 else if ((f6_WKv7Qo > CMqxbbK3Oh) || (B_spGq5 >= -427750182))
 {
@@ -110,7 +110,7 @@ else if (v2d88790v <= -1157132624)
 {
 if ((h0LFy0 >= ViT74mbRI) || (li5D > aBMz52at))
 {
-P_OGXsh85E = X9rOhl(-463159980, 392996527, -1606235391, IS7v7no);
+P_OGXsh85E = X9rOhl(-463159980, 392996527, (char)-1606235391, IS7v7no);
 }
 else
 {
@@ -135,7 +135,7 @@ i--;
 
 epGk_f7 = (unsigned short int)(uISHa + (j6m5P9v3fh));
 
-std::cout << "Gzh434" << X9rOhl(jgY8vw, -367228407, -1794393369, -992634878) << "wHgl" << std::endl;
+std::cout << "Gzh434" << X9rOhl(jgY8vw, -367228407, -1794393369, (unsigned short)-992634878) << "wHgl" << std::endl;
 if (u4Zl362C3_)
 {
 switch (jgY8vw)
@@ -165,7 +165,7 @@ case 'h':
 LT2584 = X9rOhl(LT2584, -1001039366, bKR2B3zIH, B_spGq5);
 break;
 default:
-YTh8 = X9rOhl(1468051983, li5D, R5Fc5_, -2038736301);
+YTh8 = X9rOhl((char)1468051983, li5D, R5Fc5_, -2038736301);
 break;
 }
 }
@@ -175,7 +175,7 @@ for (int j = 6; j >= 0; j--)
 {
 if (aUTV66i8 <= j6m5P9v3fh)
 {
-Wq60ny_n = X9rOhl(-313807057, -1183318474, aUTV66i8, -2021199474);
+Wq60ny_n = X9rOhl(-313807057, -1183318474, aUTV66i8, (unsigned short)-2021199474);
 }
 }
 }
@@ -200,7 +200,7 @@ P_OGXsh85E = X9rOhl(b6UvLt85x, -748969866, -448688174, e3cwus39y);
 }
 else if (((EFUHlh != 1186926894) && (li5D < CMqxbbK3Oh)) || (wnNrvEaqa))
 {
-Xl52 = X9rOhl(n7056Q, -1538707390, X0Gh4y43, 2139629278);
+Xl52 = X9rOhl(n7056Q, -1538707390, X0Gh4y43, (unsigned short)2139629278);
 }
 else if (e3cwus39y != Jc_Ma3O716)
 {
@@ -217,7 +217,7 @@ else if (R5Fc5_ < Jc_Ma3O716)
 int k = 0;
 do
 {
-YTh8 = X9rOhl(Q1_lsiw4O, Vc89k3_6Y, -254077746, 1443422522);
+YTh8 = X9rOhl(Q1_lsiw4O, Vc89k3_6Y, (char)-254077746, 1443422522);
 k++;
 }
 while (k < 8);
@@ -267,7 +267,7 @@ YTh8 = X9rOhl(epGk_f7, -2071077483, -214005995, wnNrvEaqa);
 }
 else if (P_OGXsh85E != PBBw_h)
 {
-P_OGXsh85E = X9rOhl(Kd2Vd19, 1363385858, md19yYq8S, -859216266);
+P_OGXsh85E = X9rOhl(Kd2Vd19, 1363385858, md19yYq8S, (unsigned short)-859216266);
 }
 else if (cKDj2Oq2IM == 421616225)
 {
@@ -343,7 +343,7 @@ int k = 0;
 do
 {
 k++;
-P_OGXsh85E = X9rOhl(1742896148, C4fWHjI5XD, -46135657, ZW37);
+P_OGXsh85E = X9rOhl(1742896148, C4fWHjI5XD, (char)-46135657, ZW37);
 }
 while (k < 6);
 }
@@ -357,7 +357,7 @@ if (X9rOhl(md19yYq8S, -1065589938, li5D, ZW37) == 0)
 }
 try
 {
-YTh8 = X9rOhl(1540138836, -591570712, -258279081, -471438075);
+YTh8 = X9rOhl(1540138836, -591570712, (char)-258279081, -471438075);
 }
 catch (int& errorCode)
 {
@@ -378,7 +378,7 @@ case 1:
 P_OGXsh85E = (int)abs(YTh8);
 break;
 case 2:
-Xl52 = X9rOhl(whQpRFmB, R5Fc5_, 1864593328, 1565318077);
+Xl52 = X9rOhl(whQpRFmB, R5Fc5_, 1864593328, (unsigned short)1565318077);
 break;
 case 3:
 Wq60ny_n = X9rOhl(-775400079, A_d1L_a39, WiLU, 1749704490);
@@ -512,7 +512,7 @@ case 'b':
 DSSjSZ *= 1422774527;
 break;
 case 'c':
-Wq60ny_n = X9rOhl(1665545613, b6UvLt85x, -132295126, QSRjqb);
+Wq60ny_n = X9rOhl((char)1665545613, b6UvLt85x, -132295126, QSRjqb);
 break;
 case 'd':
 e3cwus39y >>= n7056Q;
@@ -552,7 +552,7 @@ whQpRFmB = (unsigned short int)(aBMz52at);
 }
 else
 {
-std::cout << "HIhg0655g" << X9rOhl(1117337619, b6UvLt85x, 1489703969, QSRjqb) << "aZ12c38c" << "DRy1X6B1Qa" << "SXW72" << std::endl;
+std::cout << "HIhg0655g" << X9rOhl(1117337619, b6UvLt85x, (char)1489703969, QSRjqb) << "aZ12c38c" << "DRy1X6B1Qa" << "SXW72" << std::endl;
 }
 
 YTh8 = X9rOhl(-375004581, lA00Mk5, bKR2B3zIH, 470710783);

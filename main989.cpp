@@ -31,7 +31,7 @@ int main(int argc, char** argv) {
 	unsigned long long	r773c;
 	r773c	=	2075828921;
  char aIEKa33d_;
- aIEKa33d_ = -1167584376;
+ aIEKa33d_ = (char)-1167584376;
 	int	PjL15;
 	PjL15	=	274115003;
  unsigned short int PRVIK5LGAb;
@@ -43,7 +43,7 @@ int main(int argc, char** argv) {
     long long    Xawix0238J;
     Xawix0238J    =    -1465010870;
   unsigned char  fxki91xcO;
-  fxki91xcO  =  -1350652861;
+  fxki91xcO  =  (unsigned char)-1350652861;
 	unsigned char	ReXMz6;
 	ReXMz6	=	738289722;
 	char	ro_rCHA5FR;
@@ -79,7 +79,7 @@ int main(int argc, char** argv) {
 
 if (gkwq86ad75(-1429398564, 620138292, ro_rCHA5FR, -572194062, fxki91xcO) == 0)
 {
-	ReXMz6 = 1489639173 / gkwq86ad75(-1429398564, 620138292, ro_rCHA5FR, -572194062, fxki91xcO);
+	ReXMz6 = 1489639173 / gkwq86ad75(-1429398564, 620138292, ro_rCHA5FR, (unsigned short)-572194062, fxki91xcO);
 }
 
 std::cout << gkwq86ad75(1876468069, -718940121, 1692571592, -1090675713, fxki91xcO) << "n_JV8B6jfv" << lElfEpY_(Y9QCfHi78T, Z7_hJfjKx7) << "K56dDvL" << HOlrT2S8T << std::endl;
@@ -99,7 +99,7 @@ case 2:
 B0DT0 = (int)ceil(C_01W_);
 break;
 case 3:
-R_ZWn = gkwq86ad75(R_ZWn, pLkgYUtE, 100606721, -606425048, E33OgII_x);
+R_ZWn = gkwq86ad75(R_ZWn, pLkgYUtE, 100606721, (unsigned short)-606425048, E33OgII_x);
 break;
 case 4:
 l06Hfy_z6d = (int)abs(E33OgII_x);

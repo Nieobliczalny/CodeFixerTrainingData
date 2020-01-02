@@ -69,7 +69,7 @@ U6q7ytR8 = f09EwVw(1188790351);
 }
 else
 {
-AHC029Vd = f09EwVw(-501572546);
+AHC029Vd = f09EwVw((short)-501572546);
 }
 }
 else
@@ -150,7 +150,7 @@ case 0:
 sXVz = rKA42t1q(-1064214964, VJ2r0);
 break;
 case 1:
-U41E = rKA42t1q(-1566090023, 862956281) / j1mVT6_Mj;
+U41E = rKA42t1q((unsigned short)-1566090023, 862956281) / j1mVT6_Mj;
 break;
 case 2:
 Su95PrP = rKA42t1q(1003415525, 1829121698);

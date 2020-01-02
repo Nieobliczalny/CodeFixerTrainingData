@@ -58,7 +58,7 @@ std::cout << "QW9w2_Y" << y3wB8b7fwM(-2105901775, 925082269) << "P9loege2n" << s
 }
 }
 
-std::cout << I_o6I9 << N20R41J45 << y3wB8b7fwM(ylXhCmCt0, 2112676127) << eXun << "NfK8" << std::endl;
+std::cout << I_o6I9 << N20R41J45 << y3wB8b7fwM(ylXhCmCt0, (short)2112676127) << eXun << "NfK8" << std::endl;
 
 try
 {

@@ -21,7 +21,7 @@ int main(void)
     unsigned long    FQ6G    =    0;
     int    SJCR    =    0;
   short  nrPh  =  -1609457827;
-	unsigned short int	Z_c46v	=	676404168;
+	unsigned short int	Z_c46v	=	(unsigned short)676404168;
  short bcA96II = 0;
 	unsigned long long	NcmaQih5h	=	533027620;
   short int  CIL21  =  0;
@@ -86,7 +86,7 @@ CIL21 = Qr_m5G(Z_c46v);
 break;
 case 'e':
 case 'E':
-QwrA = Qr_m5G(185963615) << Z_c46v;
+QwrA = Qr_m5G((unsigned short)185963615) << Z_c46v;
 break;
 case 'f':
 case 'F':
@@ -168,7 +168,7 @@ case 0:
 QwrA = Qr_m5G(1426504020) ^ Z_c46v;
 break;
 case 1:
-nrPh = xSRp(-1345131533, -977577656, 1460849776, mOYO);
+nrPh = xSRp(-1345131533, -977577656, (unsigned short)1460849776, mOYO);
 break;
 case 2:
 nrPh = (int)abs(SJCR) + (-2111069385);
@@ -270,7 +270,7 @@ break;
 }
 else if (nrPh > SJCR)
 {
-std::cout << Qr_m5G(1208322665) << Qr_m5G(bRX9Qn) << "HuNE0AN" << xaEwR944_K(977592550, NcmaQih5h) << FQ6G << std::endl;
+std::cout << Qr_m5G(1208322665) << Qr_m5G(bRX9Qn) << "HuNE0AN" << xaEwR944_K((unsigned short)977592550, NcmaQih5h) << FQ6G << std::endl;
 }
 else
 {

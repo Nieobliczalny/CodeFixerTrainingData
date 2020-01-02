@@ -17,7 +17,7 @@ unsigned char    g_0R(unsigned short    cbsRCqf_A,long long    ko8o98qAU,char   
 }
 
 unsigned short pQ_r_(short GJoQT,unsigned int jvJl7g,long q00_n4k,unsigned int aNLX72) {
- return -2102744797;
+ return (unsigned short)-2102744797;
 }
 
 unsigned long long dr__912v(short int lai0cs24,short qy_9)
@@ -49,7 +49,7 @@ int main() {
   int  C3c2_3_y5o;
   C3c2_3_y5o  =  471384207;
  unsigned short O_61;
- O_61 = 1886085962;
+ O_61 = (unsigned short)1886085962;
     float    LM591G;
     LM591G    =    513492514;
   unsigned char  UGDc;
@@ -77,7 +77,7 @@ else
 {
 if ((MrZp90 & I8_0nq71) && (LM591G))
 {
-O_61 = pQ_r_(-1580581785, 147277233, 725097962, -350034883);
+O_61 = pQ_r_((short)-1580581785, 147277233, 725097962, -350034883);
 }
 else
 {
@@ -172,7 +172,7 @@ if (TYj8Q7d3V == 0)
 {
 	qlA_3y = Ffrs4 / TYj8Q7d3V;
 }
-qlA_3y = dr__912v(-1323876399, 1129114627);
+qlA_3y = dr__912v(-1323876399, (short)1129114627);
 
 {
 int i = 0;
@@ -256,7 +256,7 @@ case 1:
 C3c2_3_y5o = (int)abs(cJf0);
 break;
 case 2:
-UGDc = k2YWDBP(360630398, 1675122488, -174317803, TYj8Q7d3V, K9L10Zi577);
+UGDc = k2YWDBP((unsigned char)360630398, 1675122488, -174317803, TYj8Q7d3V, K9L10Zi577);
 break;
 case 3:
 qlA_3y = k2YWDBP(1754822494, 1920517749, -274164951, -368003754, 1166752951);
@@ -277,7 +277,7 @@ case 8:
 w9AnA = (int)abs(C3c2_3_y5o);
 break;
 case 9:
-C3c2_3_y5o = k2YWDBP(-1408893516, qlA_3y, -1998735821, LM591G, 1086576366);
+C3c2_3_y5o = k2YWDBP(-1408893516, qlA_3y, -1998735821, LM591G, (short)1086576366);
 break;
 }
 {
@@ -301,7 +301,7 @@ else if (w9AnA > 607581589)
 int k = 7;
 while (k >= 0)
 {
-C3c2_3_y5o = k2YWDBP(1045805333, qlA_3y, -1039058454, -1076999748, MrZp90);
+C3c2_3_y5o = k2YWDBP(1045805333, qlA_3y, -1039058454, (short)-1076999748, MrZp90);
 k--;
 }
 }
@@ -319,7 +319,7 @@ else if (TYj8Q7d3V < 1843512138)
 switch (MrZp90)
 {
 case 'a':
-cJf0 = k2YWDBP(cJf0, C3c2_3_y5o, -1618011342, -276028677, 248799886);
+cJf0 = k2YWDBP(cJf0, C3c2_3_y5o, -1618011342, -276028677, (short)248799886);
 break;
 case 'b':
 K9L10Zi577 >>= cJf0;

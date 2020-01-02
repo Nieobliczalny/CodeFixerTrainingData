@@ -20,7 +20,7 @@ int main() {
 	unsigned int	kc1Hd30C;
 	kc1Hd30C	=	1304058143;
 	short	xjW1F437qa;
-	xjW1F437qa	=	-570056482;
+	xjW1F437qa	=	(short)-570056482;
     char    C8e6WbweS4;
     C8e6WbweS4    =    -495615803;
  char ydz3vbi;
@@ -40,7 +40,7 @@ int main() {
     unsigned short    ZN_0;
     ZN_0    =    -1220292511;
 	unsigned short int	YkkjCpBU9;
-	YkkjCpBU9	=	-1308811898;
+	YkkjCpBU9	=	(unsigned short)-1308811898;
     double    HJO0_A85GF;
     HJO0_A85GF    =    1970230816;
  int FUhrb;
@@ -56,7 +56,7 @@ int main() {
   long  My4b808;
   My4b808  =  161186917;
     unsigned char    GL30zJtF;
-    GL30zJtF    =    -2105084791;
+    GL30zJtF    =    (unsigned char)-2105084791;
  unsigned int IZGUvuv;
  IZGUvuv = 104602999;
     short int    X6p3s3c3Q;
@@ -66,7 +66,7 @@ int main() {
 	unsigned int	O0Sk5;
 	O0Sk5	=	-837805829;
 	unsigned char	g8uDcPNZ9H;
-	g8uDcPNZ9H	=	852012015;
+	g8uDcPNZ9H	=	(unsigned char)852012015;
   double  DN_X_;
   DN_X_  =  -1229372567;
   long  Bh_39n;
@@ -92,7 +92,7 @@ int main() {
   int  QT7u3;
   QT7u3  =  -72882176;
     unsigned short    w3uI7248wr;
-    w3uI7248wr    =    -994171896;
+    w3uI7248wr    =    (unsigned short)-994171896;
 	unsigned int	EWUkiwLK;
 	EWUkiwLK	=	258536526;
   long double  avW3zffOG6;
@@ -104,7 +104,7 @@ int main() {
     int    vg86;
     vg86    =    -1560233640;
     unsigned short int    n53WNZ5N;
-    n53WNZ5N    =    -952820895;
+    n53WNZ5N    =    (unsigned short)-952820895;
  long double orU4573v;
  orU4573v = 1277148243;
   unsigned long long  Cf1S;
@@ -120,7 +120,7 @@ int main() {
  long TSurhS5;
  TSurhS5 = -2008557396;
   unsigned short int  TfnsK3C_;
-  TfnsK3C_  =  -1159214332;
+  TfnsK3C_  =  (unsigned short)-1159214332;
     double    A0Or615s;
     A0Or615s    =    2087827290;
 	unsigned short	R98XZV2D;
@@ -134,7 +134,7 @@ int main() {
     unsigned long long    J5C_;
     J5C_    =    -1759000680;
  short int TsGk4i330;
- TsGk4i330 = 1742779623;
+ TsGk4i330 = (short)1742779623;
     short int    M_tb1p;
     M_tb1p    =    -1767686868;
 	unsigned long long	ol_A;
@@ -150,7 +150,7 @@ int main() {
  short t3_9w;
  t3_9w = 152246345;
   unsigned short int  Bl23b;
-  Bl23b  =  767555321;
+  Bl23b  =  (unsigned short)767555321;
 	unsigned long	L3YZndn01;
 	L3YZndn01	=	136990371;
   long  ez_78;

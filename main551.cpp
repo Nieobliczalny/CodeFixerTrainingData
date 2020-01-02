@@ -39,7 +39,7 @@ int main() {
 	unsigned short int	JEeG;
 	JEeG	=	336910385;
     short int    hb_0qy;
-    hb_0qy    =    673309098;
+    hb_0qy    =    (short)673309098;
 	unsigned char	VNeykM;
 	VNeykM	=	-988392569;
   long long  eAmvbUd55_;
@@ -59,7 +59,7 @@ int main() {
   unsigned long  Bh2ciH41y7;
   Bh2ciH41y7  =  -1142337158;
  unsigned short int DNGdlJp2;
- DNGdlJp2 = -1008070067;
+ DNGdlJp2 = (unsigned short)-1008070067;
 
 try
 {

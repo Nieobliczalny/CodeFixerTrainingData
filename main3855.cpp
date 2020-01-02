@@ -23,7 +23,7 @@ int main(void)
     int    MMREi2;
     MMREi2    =    524949937;
   char  K_YJGqL0u;
-  K_YJGqL0u  =  872647455;
+  K_YJGqL0u  =  (char)872647455;
   char  B4n90ki;
   B4n90ki  =  434545640;
  unsigned long IK8e_Rts51;
@@ -41,7 +41,7 @@ int main(void)
     long long    IM_N;
     IM_N    =    -425361666;
  unsigned short WZkCg71o;
- WZkCg71o = 69782767;
+ WZkCg71o = (unsigned short)69782767;
  char fxn8k01JHN;
  fxn8k01JHN = 1304309447;
 	short	Jv1sIn;
@@ -57,7 +57,7 @@ int main(void)
   short  l6Bp_Vp85;
   l6Bp_Vp85  =  743710831;
   short int  c19eYRCq26;
-  c19eYRCq26  =  214536891;
+  c19eYRCq26  =  (short)214536891;
  short x9u8;
  x9u8 = -5793567;
 	long	vwYA3Kwr;
@@ -67,7 +67,7 @@ int main(void)
   short int  SWR0;
   SWR0  =  -1495963512;
     char    U9981z0pY;
-    U9981z0pY    =    259988298;
+    U9981z0pY    =    (char)259988298;
  long OEDIH4GY;
  OEDIH4GY = -1542227965;
 	double	cY6P;
@@ -100,7 +100,7 @@ else
 {
 for (int k = 0; k < 7; k++)
 {
-DPz0n_9 = ZAd0z(vwYA3Kwr, 387788175, 2066176171);
+DPz0n_9 = ZAd0z(vwYA3Kwr, 387788175, (short)2066176171);
 }
 }
 }
@@ -128,7 +128,7 @@ case 'b':
 YOUbG34ZXs = K_YJGqL0u ^ tPsd_w;
 break;
 case 'c':
-UNYX1O = I8GhgNmh(139271167, 631941878, 1119806527);
+UNYX1O = I8GhgNmh(139271167, (short)631941878, 1119806527);
 break;
 case 'd':
 tPsd_w &= B4n90ki;
@@ -160,7 +160,7 @@ c19eYRCq26 = l6Bp_Vp85 ^ 822602233;
 MMREi2 = (int)abs(B4n90ki);
 try
 {
-std::cout << I8GhgNmh(1851869562, -504137566, IK8e_Rts51) << "SOM5D6y" << "O_yk" << ZAd0z(1746592016, -1847246043, IK8e_Rts51) << I8GhgNmh(-2089005871, fxn8k01JHN, 1147888722) << std::endl;
+std::cout << I8GhgNmh(1851869562, (short)-504137566, IK8e_Rts51) << "SOM5D6y" << "O_yk" << ZAd0z(1746592016, -1847246043, IK8e_Rts51) << I8GhgNmh(-2089005871, fxn8k01JHN, 1147888722) << std::endl;
 }
 catch (int& errorCode)
 {
@@ -196,7 +196,7 @@ case 6:
 IM_N /= 881354803;
 break;
 case 7:
-DPz0n_9 = ZAd0z(OEDIH4GY, 68910097, 1497157130);
+DPz0n_9 = ZAd0z(OEDIH4GY, 68910097, (short)1497157130);
 break;
 case 8:
 qn89ygh5 = (int)floor(ErO7i9);

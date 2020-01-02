@@ -134,7 +134,7 @@ else
 std::cout << As7j(xbZ92g_N) << "waa5qcLSD" << "TEI7J2Qg" << "cqNbFr7Wf3" << std::endl;
 }
 
-i13U0_N = eCiw8hSl(-838429797, -1864730741, -2114963190);
+i13U0_N = eCiw8hSl(-838429797, (char)-1864730741, -2114963190);
 for (int i = 7; i >= 0; i--)
 {
 {
@@ -238,7 +238,7 @@ case 'a':
 gy11z28 = As7j(-486095353);
 break;
 case 'b':
-eHd8M0ZW = eCiw8hSl(225685986, 1589167755, DpBu3);
+eHd8M0ZW = eCiw8hSl(225685986, (char)1589167755, DpBu3);
 break;
 case 'c':
 xjz06_ghO++;

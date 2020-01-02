@@ -144,7 +144,7 @@ c9fZREfZN = F__WK >> MLWTzBZbJ2;
 
 for (int i = 1; i >= 0; --i)
 {
-std::cout << k9Twr(-585454218) << k9Twr(474140994) << std::endl;
+std::cout << k9Twr(-585454218) << k9Twr((unsigned short)474140994) << std::endl;
 }
 
 F__WK /= 1426012526;
@@ -195,7 +195,7 @@ VOfN5A = k9Twr(1168790473);
 }
 else if (l_hyo != -1750363367)
 {
-fonZ7L101 = k9Twr(883914967);
+fonZ7L101 = k9Twr((unsigned short)883914967);
 }
 else if (((EmIfX <= 1267952923) || (gcp5 > 2082760748)) || (npjkG0wa & F__WK))
 {

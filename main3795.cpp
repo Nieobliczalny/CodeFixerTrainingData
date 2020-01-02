@@ -25,7 +25,7 @@ int main(int argc, char** argv)
 	unsigned char	cnpOqc;
 	cnpOqc	=	2026670420;
     unsigned short    QhAi;
-    QhAi    =    -1531760540;
+    QhAi    =    (unsigned short)-1531760540;
  unsigned long long NgXv_O6;
  NgXv_O6 = 1821987683;
  unsigned long x8_VmPW0;
@@ -67,7 +67,7 @@ int main(int argc, char** argv)
   short  RwrFQ8;
   RwrFQ8  =  380881286;
 	short	J4fed4c;
-	J4fed4c	=	-760740942;
+	J4fed4c	=	(short)-760740942;
 	unsigned long	kf4Y4IBeVH;
 	kf4Y4IBeVH	=	-1590191201;
   char  S36QGymvl;
@@ -87,7 +87,7 @@ int main(int argc, char** argv)
     float    Q24688T13f;
     Q24688T13f    =    -1314317861;
 	char	e9aE;
-	e9aE	=	1426923122;
+	e9aE	=	(char)1426923122;
     char    v0fmJ_kUAb;
     v0fmJ_kUAb    =    615402058;
   long long  IpqV8w9;
@@ -121,7 +121,7 @@ int main(int argc, char** argv)
  long Ag874MM;
  Ag874MM = 1753498771;
   unsigned short int  BLG2RAw;
-  BLG2RAw  =  -291715637;
+  BLG2RAw  =  (unsigned short)-291715637;
   short  c6862;
   c6862  =  0;
     long    vMnw1;
@@ -149,7 +149,7 @@ int i = 0;
 do
 {
 i++;
-QhAi = PmIyto(2091154445, 2094137813);
+QhAi = PmIyto(2091154445, (unsigned short)2094137813);
 }
 while (i < 10);
 }
@@ -192,7 +192,7 @@ catch (int& errorCode)
 r5E4S5Hm = (int)abs(Ag874MM);
 }
 
-cout << nG5y8B4(l7zyHDI1r, 1884012218, -1942273361, I29vKtXb1U, X0CL_8l263) << l7zyHDI1r << aQ2Pm << PmIyto(-46034147, -1527302626) << endl;
+cout << nG5y8B4(l7zyHDI1r, 1884012218, -1942273361, I29vKtXb1U, X0CL_8l263) << l7zyHDI1r << aQ2Pm << PmIyto((short)-46034147, -1527302626) << endl;
 
 IpqV8w9 = b7iKu3_L(IpqV8w9);
 e3KZsh8s5g = (long)(v0fmJ_kUAb);
@@ -215,7 +215,7 @@ for (int j = 4; j >= 0; j--)
 {
 try
 {
-LVFd9LbjwV = PmIyto(-2037902245, -876353314);
+LVFd9LbjwV = PmIyto(-2037902245, (unsigned short)-876353314);
 }
 catch (int& errorCode)
 {
@@ -296,7 +296,7 @@ return 0;
 
 unsigned char	PmIyto(short	RN907F,unsigned short	XEUT4L9OB)
 {
-	return	-1664714290;
+	return	(unsigned char)-1664714290;
 }
 
 unsigned long long	nG5y8B4(unsigned long	Y0ZE45Ag,unsigned char	Ef6Z2,long	y9DYZr_9_,unsigned int	DBLp37_18,short	O212W)	{

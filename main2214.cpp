@@ -292,7 +292,7 @@ rgJol769p = (int)abs(baRuS5t2Gy) + (568715971);
 }
 else if (oO6U_8QMO0 > MFp52790)
 {
-std::cout << gOOkWkTTh(496734870, rgJol769p, MFp52790) << gOOkWkTTh(-1119104770, 629725219, 119831722) << gOOkWkTTh(eWuu543P, 954619518, MFp52790) << std::endl;
+std::cout << gOOkWkTTh(496734870, rgJol769p, MFp52790) << gOOkWkTTh((char)-1119104770, 629725219, 119831722) << gOOkWkTTh(eWuu543P, 954619518, MFp52790) << std::endl;
 }
 else if (oO6U_8QMO0 >= 1176758139)
 {

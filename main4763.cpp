@@ -97,7 +97,7 @@ try
 switch (Ia6Gnh_)
 {
 case 0:
-Ia6Gnh_ = smR55Mw7(-351546651, -1815090699, T87ry2x4, -1657179541, F84gJh);
+Ia6Gnh_ = smR55Mw7(-351546651, -1815090699, T87ry2x4, (unsigned short)-1657179541, F84gJh);
 break;
 case 1:
 d9st = wmgdvUe9(yLa77lQ);
@@ -144,7 +144,7 @@ T87ry2x4 = (short)(s1pzpW7 * T87ry2x4);
 }
 else if (F84gJh < s1pzpW7)
 {
-std::cout << wmgdvUe9(2058547563) << wmgdvUe9(441549518) << std::endl;
+std::cout << wmgdvUe9(2058547563) << wmgdvUe9((char)441549518) << std::endl;
 }
 else if (d9st)
 {

@@ -62,7 +62,7 @@ int main()
   unsigned long  rNBH2M_4NA;
   rNBH2M_4NA  =  -469291269;
     short    C49CoKw2_;
-    C49CoKw2_    =    -1666393697;
+    C49CoKw2_    =    (short)-1666393697;
     long long    Gp4F2;
     Gp4F2    =    1525286885;
     short    A27K_4mAB;
@@ -72,7 +72,7 @@ int main()
   short  i464eBg1lT;
   i464eBg1lT  =  129169404;
  unsigned short int zvNX;
- zvNX = -44129043;
+ zvNX = (unsigned short)-44129043;
 	long	ux0_M2h22;
 	ux0_M2h22	=	-513480656;
 	char	jfd4jA;
@@ -82,7 +82,7 @@ int main()
   unsigned short  MzER1;
   MzER1  =  1419095893;
 	short int	s106VzgE;
-	s106VzgE	=	151371246;
+	s106VzgE	=	(short)151371246;
     long double    Q9dB5v;
     Q9dB5v    =    2115285136;
   long  QL39Bk8P;
@@ -104,7 +104,7 @@ int main()
 	unsigned short	cj4sFF;
 	cj4sFF	=	198894664;
  unsigned char zaMb;
- zaMb = 1443552635;
+ zaMb = (unsigned char)1443552635;
  unsigned char u0F_Y_pB1;
  u0F_Y_pB1 = 116122571;
     short int    MMSJQcnin_;
@@ -260,7 +260,7 @@ case 2:
 TRh4ECG = kIalT_B(335919168);
 break;
 case 3:
-u0F_Y_pB1 = xbwRh9gKk(-266938092);
+u0F_Y_pB1 = xbwRh9gKk((short)-266938092);
 break;
 case 4:
 MtWlJO = (int)floor(hWoJI_);

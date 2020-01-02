@@ -37,6 +37,7 @@ short int	p3UGH(long	lC_pP,unsigned char	YAYrnndZ1)
 int main()
 {
     long    T4xH    =    0,    c46zAUEy    =    0;
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
     unsigned short    f3r0r6kl4    =    -1137922961,    xg8xVw64f    =    753348295,    fo8B72F    =    740816209,    s3CPxciZf    =    1253809572,    u58y5_HB    =    187351967,    x_xE5    =    -541882674,    yS1t    =    800695711,    Fj_D    =    -1568972887,    NyZQtv5    =    1483809345,    d9S10h4c    =    -1761614149,    ZwdAEc29D4    =    1778865634,    o_1g    =    1177087653,    W54z5    =    -906635092,    BeD3ipY_Fh    =    -1816257672,    akv07Uj    =    -1554212554,    WThOLsxz    =    -162611439,    JHEt9TMRPm    =    -1885207693,    sy0Lj    =    1882418394,    oJ8Yjwu5m2    =    1269222808,    jF32bMq0    =    -128693241,    K__1269    =    -565140054,    Lxn876Cf    =    49628410,    n66kFd3bG4    =    -1929965327,    LBlOa0S    =    -42435128,    NlFdUatYq    =    -397934305,    D8sr21    =    156776673,    jury4sf8    =    -231777778,    uwhZapm5    =    778872331,    D41U    =    1546999813,    wU9nn4655    =    87260415,    c244hZ    =    -1363498260,    ZQof0r9Xd5    =    -1602493946,    O_850r52Xw    =    2072000429,    j8_p5quHk    =    -672105226,    f6L0    =    -1608481,    A4__t04Uq    =    -248998462,    hgzO    =    854710756;
 
 K__1269 = (unsigned short)(u58y5_HB);

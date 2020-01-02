@@ -40,7 +40,7 @@ std::cout << "tP31" << bN_3V << pV1_(c6L5) << w46ANB << std::endl;
 std::cout << I7_M_534n_ << "o_3k2gj_wg" << std::endl;
 
 mr53iN_02 = (char)(pwVIec * mr53iN_02);
-std::cout << "iuS3" << GO_e94TC(c6L5, kE9T_TlR, pwVIec, -1337484694) << GO_e94TC(-1856725604, 1462081272, -875751248, -1028708694) << US9DwvdN() << std::endl;
+std::cout << "iuS3" << GO_e94TC(c6L5, kE9T_TlR, pwVIec, -1337484694) << GO_e94TC((short)-1856725604, 1462081272, -875751248, -1028708694) << US9DwvdN() << std::endl;
 pwVIec = (unsigned int)(bN_3V);
 
 c6L5 %= 746680521;
@@ -146,7 +146,7 @@ bN_3V %= pwVIec;
 break;
 case 'e':
 case 'E':
-bN_3V = pV1_(343718167);
+bN_3V = pV1_((unsigned short)343718167);
 break;
 case 'f':
 case 'F':
@@ -378,7 +378,7 @@ case 'I':
 pwVIec *= mr53iN_02;
 break;
 default:
-c6L5 = (pwVIec & mr53iN_02) ? GO_e94TC(c6L5, -2053086420, I7_M_534n_, -136896148) : GO_e94TC(1898137800, kE9T_TlR, 1198306350, -43407205);
+c6L5 = (pwVIec & mr53iN_02) ? GO_e94TC(c6L5, -2053086420, I7_M_534n_, -136896148) : GO_e94TC((short)1898137800, kE9T_TlR, 1198306350, -43407205);
 break;
 }
 }
@@ -406,7 +406,7 @@ while (j >= 0);
 switch (I7_M_534n_)
 {
 case 0:
-pwVIec = GO_e94TC(-1322690100, 549114760, 2066495111, -246194286);
+pwVIec = GO_e94TC(-1322690100, 549114760, 2066495111, (short)-246194286);
 break;
 case 1:
 bN_3V <<= 1221225087;
@@ -522,7 +522,7 @@ case 'b':
 mr53iN_02 = (int)abs(w46ANB);
 break;
 case 'c':
-pwVIec = GO_e94TC(150653207, pwVIec, -1668318493, mr53iN_02);
+pwVIec = GO_e94TC((short)150653207, pwVIec, -1668318493, mr53iN_02);
 break;
 case 'd':
 c6L5 = pV1_(-487434607);
@@ -537,7 +537,7 @@ case 'g':
 T_1VAUf3a9 = (int)abs(I7_M_534n_);
 break;
 case 'h':
-kE9T_TlR = GO_e94TC(I7_M_534n_, mr53iN_02, kE9T_TlR, 159928596);
+kE9T_TlR = GO_e94TC(I7_M_534n_, mr53iN_02, kE9T_TlR, (short)159928596);
 break;
 case 'i':
 bN_3V = pV1_(-628598544);
@@ -653,7 +653,7 @@ bN_3V = GO_e94TC(bN_3V, w46ANB, pwVIec, 2020809250);
 }
 else if (c6L5 != w46ANB)
 {
-bN_3V = pV1_(-92482756);
+bN_3V = pV1_((unsigned short)-92482756);
 }
 else if ((I7_M_534n_) && (mr53iN_02 > kE9T_TlR))
 {

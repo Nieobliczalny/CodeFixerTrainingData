@@ -10,7 +10,7 @@
 int main(int argc, char** argv) {
  char mGVj_8u7V, Y1JuA, y9zsJ, X3x4DwEI0i, Yfyl, nEld8;
  mGVj_8u7V = -958599960;
- Y1JuA = 1468788818;
+ Y1JuA = (char)1468788818;
  y9zsJ = -1384319892;
  X3x4DwEI0i = -2130313513;
  Yfyl = 1706165227;
@@ -163,7 +163,7 @@ case 1:
 Y1JuA = cYg9A & 1228239178;
 break;
 case 2:
-Yfyl = (mGVj_8u7V != 888742516) ? 698143859 : 1676026091;
+Yfyl = (mGVj_8u7V != 888742516) ? 698143859 : (char)1676026091;
 break;
 case 3:
 y9zsJ = Y1JuA << 1631835316;

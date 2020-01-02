@@ -110,7 +110,7 @@ o3zfF6kZ2E = eLEKHZ + z_l7r;
 }
 
 std::cout << s0gMEd9x8G << d1973D6NJ_(1142022322, myhtGAI5_Q, -1570064192) << P9k04Hq << std::endl;
-XgyD_HAu = ODzV4jTtd_(Mj0lC, UAU58r, -1197268101, Q63Q, -1580545696);
+XgyD_HAu = ODzV4jTtd_(Mj0lC, UAU58r, (unsigned char)-1197268101, Q63Q, -1580545696);
 
 hES2gHhi = (float)(ZJ1C6t);
 

@@ -17,7 +17,7 @@ int main(void)
     unsigned int    Pihn5;
     Pihn5    =    -1675961029;
  short int vja7_Mz;
- vja7_Mz = 1252636019;
+ vja7_Mz = (short)1252636019;
 	unsigned long	d3Gh6R42o;
 	d3Gh6R42o	=	-1257544676;
  int JZHmgXk8I5;
@@ -31,7 +31,7 @@ int main(void)
   int  pUBr82H__;
   pUBr82H__  =  970041605;
     char    FM40kzDh;
-    FM40kzDh    =    78231427;
+    FM40kzDh    =    (char)78231427;
 	unsigned int	mY7Sw;
 	mY7Sw	=	-4983765;
 	char	Wn4F6lQ6H;
@@ -93,7 +93,7 @@ int main(void)
 	double	QmE4W5QV;
 	QmE4W5QV	=	186826473;
     unsigned short    c9r160;
-    c9r160    =    -436214600;
+    c9r160    =    (unsigned short)-436214600;
 	long	b764d6dogw;
 	b764d6dogw	=	-943149792;
     unsigned int    j1u2yjZ;
@@ -111,7 +111,7 @@ int main(void)
   double  a05cCFGIeY;
   a05cCFGIeY  =  1255100495;
   short  Seni5;
-  Seni5  =  90227551;
+  Seni5  =  (short)90227551;
 	double	szowrzMIM;
 	szowrzMIM	=	-1528631448;
     double    bCUHg_oM18;
@@ -121,7 +121,7 @@ int main(void)
 	long long	n3hk1wqyp;
 	n3hk1wqyp	=	-1588780223;
  unsigned short int ecNRDV80;
- ecNRDV80 = 972773343;
+ ecNRDV80 = (unsigned short)972773343;
  double rzLcu;
  rzLcu = 460244032;
 	long double	jp8X;
@@ -133,7 +133,7 @@ int main(void)
 	long double	cPP8916;
 	cPP8916	=	-1841758440;
     unsigned short int    q8Iuuu56;
-    q8Iuuu56    =    -494101096;
+    q8Iuuu56    =    (unsigned short)-494101096;
   short  Jk8Im0_hp;
   Jk8Im0_hp  =  1690204012;
   double  DqBL6Vp;
@@ -145,7 +145,7 @@ int main(void)
  int MsM6H;
  MsM6H = -399544582;
 	char	dQ4t;
-	dQ4t	=	-1340050510;
+	dQ4t	=	(char)-1340050510;
 	int	L_YJU;
 	L_YJU	=	2027534447;
  unsigned char qy173853_E;
@@ -155,7 +155,7 @@ int main(void)
  short int d69X;
  d69X = -682414266;
  unsigned short Q3_f;
- Q3_f = 720090886;
+ Q3_f = (unsigned short)720090886;
  long long MiNd;
  MiNd = 309233404;
 	long	VtW89a_;
@@ -173,7 +173,7 @@ int main(void)
  long double z1v99;
  z1v99 = 973990066;
   char  RnB3W6U1;
-  RnB3W6U1  =  -1316083985;
+  RnB3W6U1  =  (char)-1316083985;
  unsigned char ISQKj5_9hE;
  ISQKj5_9hE = 1785690475;
 	char	o836bGFO2;
@@ -207,7 +207,7 @@ int main(void)
 	char	x8mC_;
 	x8mC_	=	1287189867;
 	short	PVxVyj50i;
-	PVxVyj50i	=	-426489152;
+	PVxVyj50i	=	(short)-426489152;
   float  Ct4Tb0;
   Ct4Tb0  =  1041855328;
 

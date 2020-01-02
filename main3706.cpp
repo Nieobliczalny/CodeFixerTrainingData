@@ -329,7 +329,7 @@ short int MLSpvz_FYX()
 }
 
 char h_0oxZ(unsigned long r3RzfE) {
- return 1661649151;
+ return (char)1661649151;
 }
 
 int PX17I3ZZl(short int Ps7VZK,unsigned long long O90LIjUQHY,unsigned char a7e9OK9o,long long XOc9zh) {

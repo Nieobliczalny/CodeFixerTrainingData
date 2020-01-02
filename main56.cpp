@@ -32,7 +32,7 @@ int main(void)
 	char	hmfYE;
 	hmfYE	=	-1394357014;
     unsigned char    J_E5__A5;
-    J_E5__A5    =    -1417403870;
+    J_E5__A5    =    (unsigned char)-1417403870;
  short int bOSYVO8jX;
  bOSYVO8jX = -656874624;
 	unsigned short int	S5Y8D3Lg8_;
@@ -42,7 +42,7 @@ int main(void)
  short fVpklPUU4;
  fVpklPUU4 = -830134994;
  short iKa86S;
- iKa86S = -133534453;
+ iKa86S = (short)-133534453;
  double AdL_;
  AdL_ = -1085489177;
 	int	H2UMaxKxp;
@@ -56,7 +56,7 @@ int main(void)
 	long long	ed2m;
 	ed2m	=	-1117007935;
     unsigned short int    E8qOndygZ5;
-    E8qOndygZ5    =    -257510054;
+    E8qOndygZ5    =    (unsigned short)-257510054;
 	float	FH6YHZ;
 	FH6YHZ	=	1389413472;
   short int  xE52;
@@ -68,7 +68,7 @@ int main(void)
     long    xbK8Tt3;
     xbK8Tt3    =    -1726355374;
   short  kg980;
-  kg980  =  1636708549;
+  kg980  =  (short)1636708549;
 	unsigned long long	Ly9yM;
 	Ly9yM	=	-16306279;
  unsigned short L0s4cfx;
@@ -82,7 +82,7 @@ int main(void)
  long long d3265_L1;
  d3265_L1 = -851499942;
 	unsigned short	YBh8fS6TU7;
-	YBh8fS6TU7	=	-1624956528;
+	YBh8fS6TU7	=	(unsigned short)-1624956528;
  unsigned long b8Fg67wB;
  b8Fg67wB = -1299591316;
 	unsigned long long	AD6l5n48X;
@@ -92,7 +92,7 @@ int main(void)
   long long  RegVF;
   RegVF  =  1314164855;
 	short int	Bzv3r5i;
-	Bzv3r5i	=	-1087597277;
+	Bzv3r5i	=	(short)-1087597277;
 	char	evvq28q8lT;
 	evvq28q8lT	=	-1471859936;
     unsigned short    CkRL8;
@@ -112,7 +112,7 @@ int main(void)
     short    C70y;
     C70y    =    -492051208;
  unsigned char Ry6_M2L;
- Ry6_M2L = 1789872711;
+ Ry6_M2L = (unsigned char)1789872711;
 	unsigned short int	tP_rUK;
 	tP_rUK	=	-754255998;
   float  e8LbBTS2r;
@@ -122,7 +122,7 @@ int main(void)
 	char	gLbQ1IF;
 	gLbQ1IF	=	-877662302;
 	short int	jkRtpqY2Sf;
-	jkRtpqY2Sf	=	781169989;
+	jkRtpqY2Sf	=	(short)781169989;
  long double K9iF;
  K9iF = -589711074;
     unsigned short    f5TO;
@@ -142,7 +142,7 @@ int main(void)
     char    Ptd7lsd;
     Ptd7lsd    =    -153303003;
  char BWrigVR;
- BWrigVR = -1665485182;
+ BWrigVR = (char)-1665485182;
   unsigned short  MOU7pc6A2;
   MOU7pc6A2  =  -2115777000;
   short  wZsA;

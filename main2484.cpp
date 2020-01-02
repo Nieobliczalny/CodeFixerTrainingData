@@ -96,7 +96,7 @@ case 'e':
 mFLSlh30q = PW0MLOumB(j1wm, 2013782508);
 break;
 case 'f':
-zk5CPT3 = F516bocO4(102321759, E_9n) & 1229848146;
+zk5CPT3 = F516bocO4((char)102321759, E_9n) & 1229848146;
 break;
 case 'g':
 zk5CPT3 &= vH6Y5;
@@ -140,7 +140,7 @@ u9_ca__ = Ml_Mzq0Sd5(u9_ca__, lQ466V, S5b1MjA, EwuzCz, 1580639301);
 fw4g4 = (int)(Fe9j_G3E);
 std::cout << PW0MLOumB(u9_ca__, lQ466V) << j1wm << std::endl;
 
-yerSIGQcb = Ml_Mzq0Sd5(-1220133304, Fe9j_G3E, vH6Y5, uvXfIg, f9F3y8g53b);
+yerSIGQcb = Ml_Mzq0Sd5((unsigned char)-1220133304, Fe9j_G3E, vH6Y5, uvXfIg, f9F3y8g53b);
 for (int i = 0; i < 6; ++i)
 {
 for (int j = 0; j < 1; j++)
@@ -217,7 +217,7 @@ mFLSlh30q = PW0MLOumB(-1979861, D8Y_HE_9);
 switch (I5577E3)
 {
 case 0:
-Fe9j_G3E = F516bocO4(1591616330, 1581307767);
+Fe9j_G3E = F516bocO4((char)1591616330, 1581307767);
 break;
 case 1:
 L0Ck1532 = (int)abs(j1wm);
@@ -232,7 +232,7 @@ case 4:
 w4ypTM = E_9n >> 1023069808;
 break;
 case 5:
-f9F3y8g53b = PW0MLOumB(1011363468, yerSIGQcb) + 1608066110;
+f9F3y8g53b = PW0MLOumB((short)1011363468, yerSIGQcb) + 1608066110;
 break;
 case 6:
 lQ466V <<= 1685938701;

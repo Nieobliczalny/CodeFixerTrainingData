@@ -29,7 +29,7 @@ I41MKiFP3 &= NhI9Dhc;
 }
 else
 {
-cout << Q_G6za4(-83576309, h7kI, 1719668616) << Q_G6za4(-2048926334, -432652407, x_e_slCGq) << endl;
+cout << Q_G6za4(-83576309, h7kI, 1719668616) << Q_G6za4((char)-2048926334, -432652407, x_e_slCGq) << endl;
 }
 switch (lY2lZ1IT)
 {
@@ -113,7 +113,7 @@ case 1:
 s20iJv4 = Q_G6za4(-262454544, -1065129718, BfC_C);
 break;
 case 2:
-rUK9yiP = Q_G6za4(-1241697411, Kd83S5ra, BfC_C) % MnQia0_0cp;
+rUK9yiP = Q_G6za4((char)-1241697411, Kd83S5ra, BfC_C) % MnQia0_0cp;
 break;
 case 3:
 O19MZdW3 = c0725 >> 1363553982;

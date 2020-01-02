@@ -127,7 +127,7 @@ case 'e':
 eUlPC >>= ziic4;
 break;
 case 'f':
-SZibq = n5U3fx(1493259935, T0rC_, -1811619355, -760372389);
+SZibq = n5U3fx((unsigned short)1493259935, T0rC_, -1811619355, -760372389);
 break;
 default:
 sE1gfyH0B |= 237932701;
@@ -173,7 +173,7 @@ case 6:
 x5N9 = Ym227X(1506357715);
 break;
 case 7:
-qMm9dj11 = (YW_GJhq5V != 1869019333) ? -554225841 : n5U3fx(755058209, 1281521880, -155825842, -1257108209);
+qMm9dj11 = (YW_GJhq5V != 1869019333) ? -554225841 : n5U3fx((unsigned short)755058209, 1281521880, -155825842, -1257108209);
 break;
 case 8:
 B8C4Gx8H = x0YD % 1749341037;
@@ -200,7 +200,7 @@ case 'd':
 ziic4 = U1Co7m4 * 805798598;
 break;
 case 'e':
-SZibq = n5U3fx(mXgx, -269226528, 1626546548, -2096624406);
+SZibq = n5U3fx(mXgx, -269226528, 1626546548, (short)-2096624406);
 break;
 case 'f':
 mn68 = it6Pm(mn68, -103560833);
@@ -270,7 +270,7 @@ do
 {
 for (int k = 0; k < 3; k++)
 {
-aNRYb_HRV6 = a8RlmQ9fcJ(1932636071, iz9930PMJ, fssZlw4u6o, -1060047472);
+aNRYb_HRV6 = a8RlmQ9fcJ(1932636071, iz9930PMJ, fssZlw4u6o, (unsigned short)-1060047472);
 }
 j++;
 }
@@ -365,7 +365,7 @@ gEnHH_u = OYfRwd / Y3_28_5;
 }
 else
 {
-p_G_Feg0 = n5U3fx(-1110769489, wS_RdH, y0y6iKL_b, 1197278396) % 1591828598;
+p_G_Feg0 = n5U3fx(-1110769489, wS_RdH, y0y6iKL_b, (short)1197278396) % 1591828598;
 }
 }
 else if (((C42P > -2036160153) || (C42P > -1032820167)) && (TqZO & w9Qz101))
@@ -383,7 +383,7 @@ else
 switch (wS_RdH)
 {
 case 0:
-A04f = n5U3fx(-95793265, 1092564886, 2081676016, 296798281);
+A04f = n5U3fx((unsigned short)-95793265, 1092564886, 2081676016, 296798281);
 break;
 case 1:
 dQZxoF2aPm = kEU6m() / 1643128019;
@@ -514,7 +514,7 @@ case 3:
 aNRYb_HRV6 = Ym227X(-1685663273);
 break;
 case 4:
-A04f = n5U3fx(bpR5KOqC, -1227242043, 1897983919, -713574007);
+A04f = n5U3fx(bpR5KOqC, -1227242043, 1897983919, (short)-713574007);
 break;
 }
 
@@ -571,7 +571,7 @@ case 1:
 x0YD = (ygM71Us) ? -1710060156 : xzh4y;
 break;
 case 2:
-x0YD = Ym227X(1903875695);
+x0YD = Ym227X((unsigned short)1903875695);
 break;
 case 3:
 B1gBEd_iAS = kEU6m() << 2110450265;
@@ -581,7 +581,7 @@ k3Qe2K0 >>= TPbA;
 break;
 }
 TqZO = n5U3fx(1184119370, x0YD, -1255236241, 277401335) / 2002846;
-std::cout << kEU6m() << "R9Tf1148_" << a8RlmQ9fcJ(674347710, 1421270753, A04f, T0rC_) << std::endl;
+std::cout << kEU6m() << "R9Tf1148_" << a8RlmQ9fcJ((unsigned char)674347710, 1421270753, A04f, T0rC_) << std::endl;
 
 for (int i = 2; i >= 0; i--)
 {

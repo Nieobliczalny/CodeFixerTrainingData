@@ -45,7 +45,7 @@ int main(int argc, char** argv)
  long Au8CK9V8S;
  Au8CK9V8S = -340656294;
   char  UWjZ1x;
-  UWjZ1x  =  1339688343;
+  UWjZ1x  =  (char)1339688343;
     unsigned long    G5f5n;
     G5f5n    =    888073525;
  int aSYe3e8Ud;
@@ -63,7 +63,7 @@ int main(int argc, char** argv)
   long double  e_0V3;
   e_0V3  =  -928408875;
 	short int	NobXUM;
-	NobXUM	=	311414345;
+	NobXUM	=	(short)311414345;
 	unsigned char	tBi_FtR4g;
 	tBi_FtR4g	=	-1573180647;
  double QzbnynRrH;
@@ -77,7 +77,7 @@ int main(int argc, char** argv)
   unsigned long long  yhkR_tfc3r;
   yhkR_tfc3r  =  -1032029350;
     short int    FHiZeBIVz;
-    FHiZeBIVz    =    1341503057;
+    FHiZeBIVz    =    (short)1341503057;
  unsigned long v_2sKh;
  v_2sKh = -1830493879;
  unsigned char r0uT5M9N;
@@ -87,7 +87,7 @@ int main(int argc, char** argv)
  short int t7EVw5Bu69;
  t7EVw5Bu69 = -1236005275;
 	short	yY49y3;
-	yY49y3	=	-951270503;
+	yY49y3	=	(short)-951270503;
 	unsigned long long	C5nNnZwYLy;
 	C5nNnZwYLy	=	1439337989;
     short    f3ScTB;
@@ -99,7 +99,7 @@ int main(int argc, char** argv)
  double ZJefzi;
  ZJefzi = 2027315725;
     unsigned char    Dx42GBrOB;
-    Dx42GBrOB    =    -1220383124;
+    Dx42GBrOB    =    (unsigned char)-1220383124;
 	short int	C4U4a82R_;
 	C4U4a82R_	=	-1578004653;
     long double    cC36IT3;
@@ -115,7 +115,7 @@ int main(int argc, char** argv)
 	long long	Sd0Yc6;
 	Sd0Yc6	=	324704376;
  unsigned short int C71xpFQIDV;
- C71xpFQIDV = -1444130324;
+ C71xpFQIDV = (unsigned short)-1444130324;
 	unsigned short int	PYe7;
 	PYe7	=	0;
     unsigned short    N4u3Ac;
@@ -129,7 +129,7 @@ if (Slos2xEMl <= -196840092)
 {
 if (((FhvW) && (yhkR_tfc3r >= G5f5n)) && (NobXUM != N4u3Ac))
 {
-Slos2xEMl = F2PRU_(Slos2xEMl, cC36IT3, 362772116, U0QAz5);
+Slos2xEMl = F2PRU_(Slos2xEMl, cC36IT3, (short)362772116, U0QAz5);
 }
 else if (NobXUM != BgYM)
 {
@@ -209,7 +209,7 @@ QzbnynRrH = (int)abs(ZJefzi);
 break;
 case 'e':
 case 'E':
-nXAlDs99R = KZ8P52ix0N(1657985642, -875138732, yhkR_tfc3r, 1992174442);
+nXAlDs99R = KZ8P52ix0N(1657985642, (char)-875138732, yhkR_tfc3r, 1992174442);
 break;
 case 'f':
 case 'F':

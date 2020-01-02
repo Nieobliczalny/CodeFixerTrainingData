@@ -22,7 +22,7 @@ int main()
  long long QfKVF2L = 831468433;
   unsigned long  USuN2Gnk_3  =  0;
     short int    k3CWbB    =    0;
-    char    Vyvvc1fI3N    =    538132818;
+    char    Vyvvc1fI3N    =    (char)538132818;
   int  dOY5w  =  0;
 
 if (vCK2k & 361773716)

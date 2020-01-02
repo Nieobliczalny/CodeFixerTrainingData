@@ -12,7 +12,7 @@ unsigned short int	XFn0N()	{
 }
 
 unsigned short int  oC_M46z(unsigned short  z4klTGCmg,unsigned short int  eFamZM,char  r38UdOq,long long  Wq7ZcQ1j11,short  sDl_Ww)  {
-  return  1998754090;
+  return  (unsigned short)1998754090;
 }
 
 int MkiY7LNNOa(long long yKv7,unsigned long long ge5_GU,short p0_L,int cegGs) {
@@ -78,7 +78,7 @@ int main(int argc, char** argv) {
   float  R9FU;
   R9FU  =  -1986065989;
     unsigned short int    n6e8vf0f;
-    n6e8vf0f    =    -514639587;
+    n6e8vf0f    =    (unsigned short)-514639587;
  unsigned char jUi_D_l;
  jUi_D_l = 1057602184;
  unsigned long long wEjoL;
@@ -88,7 +88,7 @@ int main(int argc, char** argv) {
  unsigned short sZ3g5oFH;
  sZ3g5oFH = 1731521825;
  short v5pC;
- v5pC = -8563736;
+ v5pC = (short)-8563736;
  char LW9Jk;
  LW9Jk = -898087143;
  unsigned long long fFu1jPffI;
@@ -102,7 +102,7 @@ int main(int argc, char** argv) {
   unsigned char  IMr_1N7;
   IMr_1N7  =  29817374;
   unsigned short  TR3KWFeF;
-  TR3KWFeF  =  1147201522;
+  TR3KWFeF  =  (unsigned short)1147201522;
     long double    cnL6pxJWf;
     cnL6pxJWf    =    -929486253;
 	unsigned short int	Y7yCEGx;
@@ -122,7 +122,7 @@ int main(int argc, char** argv) {
   long long  Ma__fKc;
   Ma__fKc  =  0;
 	short int	hrCSk;
-	hrCSk	=	-232292756;
+	hrCSk	=	(short)-232292756;
 	unsigned char	cCaVU9d;
 	cCaVU9d	=	1038184293;
     long double    y76iM;
@@ -134,7 +134,7 @@ int main(int argc, char** argv) {
 
 PBnAxvO |= cCaVU9d;
 
-H04lD_6 = oC_M46z(2023631703, Ol0M, K74B0Ph, 916294371, 871697532);
+H04lD_6 = oC_M46z((unsigned short)2023631703, Ol0M, K74B0Ph, 916294371, 871697532);
 {
 int i = 5;
 do
@@ -152,7 +152,7 @@ try
 switch (hrCSk)
 {
 case 0:
-Hv4m162 = oC_M46z(Hv4m162, -172187432, -1816998783, 1185540938, 1254750722);
+Hv4m162 = oC_M46z(Hv4m162, -172187432, (char)-1816998783, 1185540938, 1254750722);
 break;
 case 1:
 n6e8vf0f--;
@@ -170,7 +170,7 @@ case 5:
 H04lD_6 = XFn0N();
 break;
 case 6:
-R9FU = oC_M46z(1066198190, 18655226, t0W2, jUi_D_l, -834726852);
+R9FU = oC_M46z(1066198190, (unsigned short)18655226, t0W2, jUi_D_l, -834726852);
 break;
 case 7:
 g3M0Vg90_H = (int)abs(n_9n2Y_6_p);
@@ -244,7 +244,7 @@ case 4:
 Xk6WM1d = (int)ceil(JKy14Ro5);
 break;
 case 5:
-R5Q7mfZz3k = oC_M46z(228647622, H04lD_6, jI8Mr4y9KY, xp9qND_, 723977366);
+R5Q7mfZz3k = oC_M46z(228647622, H04lD_6, jI8Mr4y9KY, xp9qND_, (short)723977366);
 break;
 case 6:
 LW9Jk = oC_M46z(442977956, -1923485986, XOG_5PS5x3, H04lD_6, cnL6pxJWf);

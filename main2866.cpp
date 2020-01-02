@@ -17,7 +17,7 @@ int main(void) {
   int  ukYPU  =  0;
 	char	n9y9NuN	=	1194322514;
  unsigned short IF1_ = 0;
- unsigned char rc_5lg = -136490288;
+ unsigned char rc_5lg = (unsigned char)-136490288;
   unsigned long long  KU7h9se2  =  0;
   unsigned long long  Io16  =  975309673;
     float    hael67z74D    =    529961088;

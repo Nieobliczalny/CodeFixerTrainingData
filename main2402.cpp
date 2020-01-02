@@ -18,7 +18,7 @@ int main(int argc, char** argv)
 	unsigned char	vJ9Z;
 	vJ9Z	=	-1812569890;
  short int zvpKFr;
- zvpKFr = -169232564;
+ zvpKFr = (short)-169232564;
   long long  Zz9_;
   Zz9_  =  -1481141609;
   short int  CJhwjrL0I;
@@ -40,7 +40,7 @@ int main(int argc, char** argv)
   float  L3Uxw35x32;
   L3Uxw35x32  =  849887855;
 	short	v93R4TN;
-	v93R4TN	=	459898322;
+	v93R4TN	=	(short)459898322;
   long  D5APb27L;
   D5APb27L  =  -1839550344;
  unsigned short Lu0xCIOS;
@@ -52,7 +52,7 @@ int main(int argc, char** argv)
  int TEd_;
  TEd_ = -1716639777;
   unsigned char  FFUs8i;
-  FFUs8i  =  737704340;
+  FFUs8i  =  (unsigned char)737704340;
     long    sByn;
     sByn    =    1141206512;
  double m2ma0DcE;
@@ -74,7 +74,7 @@ int main(int argc, char** argv)
 	unsigned int	gT48w;
 	gT48w	=	1354284856;
  unsigned short BOnZ5Le2G5;
- BOnZ5Le2G5 = -853572564;
+ BOnZ5Le2G5 = (unsigned short)-853572564;
 	unsigned short int	piHmUb777;
 	piHmUb777	=	-241096758;
     long long    LFM0HN1aKb;
@@ -84,7 +84,7 @@ int main(int argc, char** argv)
   unsigned short  VDqt;
   VDqt  =  -1211338971;
   char  FRzeXbtf6;
-  FRzeXbtf6  =  1707015952;
+  FRzeXbtf6  =  (char)1707015952;
   unsigned short  siFRF;
   siFRF  =  -353748881;
 	long double	vXu8g;
@@ -102,7 +102,7 @@ int main(int argc, char** argv)
 	long long	LqBJD_;
 	LqBJD_	=	0;
 	char	c7_5p7avk;
-	c7_5p7avk	=	1042764792;
+	c7_5p7avk	=	(char)1042764792;
     unsigned short int    GrH4;
     GrH4    =    -856763633;
  unsigned short ICfY9VtO8;
@@ -112,7 +112,7 @@ int main(int argc, char** argv)
 	unsigned long long	n0HJ;
 	n0HJ	=	263813546;
  unsigned char sj_MqP8092;
- sj_MqP8092 = 1190865486;
+ sj_MqP8092 = (unsigned char)1190865486;
 	long long	z5xqwrz_;
 	z5xqwrz_	=	-1545620600;
     unsigned char    dCIQL4;
@@ -128,7 +128,7 @@ int main(int argc, char** argv)
 	char	Ql2gc6X;
 	Ql2gc6X	=	-424276364;
     unsigned short int    Fx737;
-    Fx737    =    -2122765607;
+    Fx737    =    (unsigned short)-2122765607;
     short    z6r77e;
     z6r77e    =    749816360;
 	double	E_3PDi;
@@ -323,7 +323,7 @@ if (P6184 == -708216106)
 {
 if (HWV39732 >= FRzeXbtf6)
 {
-std::cout << RpSCRrvJMZ(1680599110, 1088125293) << z5xqwrz_ << p6bp() << "df891GI_a" << std::endl;
+std::cout << RpSCRrvJMZ(1680599110, (short)1088125293) << z5xqwrz_ << p6bp() << "df891GI_a" << std::endl;
 }
 else
 {

@@ -18,7 +18,7 @@ short  D_Zv9l()  {
 }
 
 unsigned short int W5088L(long long b4Fq,unsigned short Gh_9K4,unsigned short e_VT5,short int y44781_48t) {
- return -11425766;
+ return (unsigned short)-11425766;
 }
 
 int main(int argc, char** argv)
@@ -94,7 +94,7 @@ Ia91N90E1t = (int)abs(ZPufkJsb);
 --i;
 }
 }
-cout << K0g6zU5 << W5088L(RvMxFke, fWVN3Cm, 1476947794, -1568613662) << K0g6zU5 << D_Zv9l() << endl;
+cout << K0g6zU5 << W5088L(RvMxFke, fWVN3Cm, 1476947794, (short)-1568613662) << K0g6zU5 << D_Zv9l() << endl;
 
 RvMxFke = (int)abs(fWVN3Cm);
 if (i99_wv8 <= -370993398)
@@ -144,7 +144,7 @@ uK7774_Fcx = Huovi(-2031711519);
 cout << uK7774_Fcx << "hztL" << endl;
 if (ZPufkJsb < -1923235558)
 {
-K0g6zU5 = (RvMxFke <= fWVN3Cm) ? 1070136170 : Huovi(1893606294);
+K0g6zU5 = (RvMxFke <= fWVN3Cm) ? (unsigned short)1070136170 : Huovi(1893606294);
 }
 else if (RvMxFke & -117903929)
 {
@@ -181,7 +181,7 @@ while (j < 10);
 }
 else if (RvMxFke != K0g6zU5)
 {
-K0g6zU5 = Huovi(149061597);
+K0g6zU5 = Huovi((unsigned short)149061597);
 }
 else if ((uK7774_Fcx) || (ZPufkJsb < 1070092608))
 {
@@ -284,7 +284,7 @@ uK7774_Fcx = ZPufkJsb - RvMxFke;
 break;
 case 'c':
 case 'C':
-uK7774_Fcx = Huovi(-1310702980);
+uK7774_Fcx = Huovi((unsigned short)-1310702980);
 break;
 case 'd':
 case 'D':
@@ -296,7 +296,7 @@ i99_wv8 = D_Zv9l() << 1079878511;
 break;
 case 'f':
 case 'F':
-i99_wv8 = W5088L(1161582071, RvMxFke, 1430160433, i99_wv8);
+i99_wv8 = W5088L(1161582071, RvMxFke, (unsigned short)1430160433, i99_wv8);
 break;
 case 'g':
 case 'G':
@@ -328,7 +328,7 @@ case 1:
 i99_wv8 *= fWVN3Cm;
 break;
 case 2:
-uK7774_Fcx = W5088L(1514294476, 554545459, 557980090, -1014565650);
+uK7774_Fcx = W5088L(1514294476, (unsigned short)554545459, 557980090, -1014565650);
 break;
 case 3:
 i99_wv8 = Huovi(fWVN3Cm);

@@ -12,6 +12,7 @@ unsigned char    jWdOxLw01();
 unsigned short int    R4b9();
 
 int main(void) {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
 	short int	zt52_iM5lQ	=	-1055495066,	j2hXmIc3G	=	513824977,	j2jx66lt	=	-1764982982,	Z7b7f63Qo	=	-2092840041,	OprL	=	-1615170899,	N5YrHe5	=	-2012576570,	Ygzcm9u	=	-75019686,	g7A7vcL	=	-1510610732,	EPCU9I0	=	1180303524,	E5No6	=	344159711,	w3nf_OE	=	879394022,	S08f9_0oG7	=	2146258270,	J33n	=	1075713478,	EIuD	=	-1301659409,	FD96QGKmy	=	238466905,	J4xPbNF	=	-1057426667,	YC6Jjb	=	1646521532,	sS5pAz1W	=	1928987862,	EbZS5vzL_	=	-1961156630,	NVE4HVx	=	1408160202,	acK3pO	=	59270919,	p_V_M	=	489167903,	wjV8R4Ep4	=	-1077300050,	CC6w5I	=	1007745023,	w991GnAt2A	=	950602258,	qoJW2f8c	=	183870673,	E3d_	=	-639876123,	y9vz78uClr	=	1076614871,	wt59jgx43	=	-1132551826,	emGquv2	=	1473841240,	X_xtw9e3	=	-483195442,	Rl1Gp	=	2066147737;
     unsigned long long    lC0AmRE    =    0,    jaA69Y9Vn1    =    0;
 

@@ -16,7 +16,7 @@ unsigned char FcN0B() {
 }
 
 unsigned char  Yjz4PF9Zi(char  APEcZp4b,unsigned char  ma_Mn,unsigned long  dnmiD,unsigned short  Ekwim)  {
-  return  732929920;
+  return  (unsigned char)732929920;
 }
 
 unsigned short v55DcF(long nue7s88718,unsigned long sn5yR,unsigned long rSR_r448,short K1t3s)
@@ -172,7 +172,7 @@ case 2:
 FFZT = v55DcF(-118433506, 681503666, lz78C, QXjzXeN0bH);
 break;
 case 3:
-ETk9v5Nzl = XaB39(ETk9v5Nzl, 689906638, 1065855336);
+ETk9v5Nzl = XaB39(ETk9v5Nzl, (short)689906638, 1065855336);
 break;
 case 4:
 rzL0c8_Qp = do13_xK - 1195856108;
@@ -234,7 +234,7 @@ bHD_ = Yjz4PF9Zi(bHD_, uQd1JJNy, hkI8v, pP93cpi);
 int i = 0;
 while (i < 2)
 {
-soFr5n = Yjz4PF9Zi(-1604485968, PX8FTL03, 1336229201, -645824864);
+soFr5n = Yjz4PF9Zi(-1604485968, PX8FTL03, 1336229201, (unsigned short)-645824864);
 ++i;
 }
 }

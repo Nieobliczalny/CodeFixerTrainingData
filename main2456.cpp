@@ -56,7 +56,7 @@ QN_6SC5Jx <<= 1671597392;
 break;
 case 'd':
 case 'D':
-Vdeh2t_bo = iYX17Z(-1495592703);
+Vdeh2t_bo = iYX17Z((short)-1495592703);
 break;
 case 'e':
 case 'E':
@@ -91,7 +91,7 @@ Vdeh2t_bo = iYX17Z(-358611757);
 }
 if (Cu5pwX != -1693966467)
 {
-std::cout << "AK8VG" << "a85JfnY034" << iYX17Z(133441299) << "XS25CYYc" << iYX17Z(-1482380405) << std::endl;
+std::cout << "AK8VG" << "a85JfnY034" << iYX17Z((short)133441299) << "XS25CYYc" << iYX17Z(-1482380405) << std::endl;
 }
 else
 {
@@ -259,7 +259,7 @@ case 4:
 VQ9_4rF /= 1033783019;
 break;
 case 5:
-r9m03B08E = iYX17Z(-1318422861);
+r9m03B08E = iYX17Z((short)-1318422861);
 break;
 }
 ++j;
@@ -279,7 +279,7 @@ case 1:
 SG43 = iYX17Z(-850974624);
 break;
 case 2:
-SG43 = iYX17Z(-271484039);
+SG43 = iYX17Z((short)-271484039);
 break;
 case 3:
 Vdeh2t_bo = iYX17Z(TZot);
@@ -297,7 +297,7 @@ case 7:
 Vdeh2t_bo = iYX17Z(-1774543738);
 break;
 case 8:
-SG43 = iYX17Z(-1624194182);
+SG43 = iYX17Z((short)-1624194182);
 break;
 default:
 F9_x18IyUg = df9I8MM >> xn4f7G6;

@@ -58,7 +58,7 @@ break;
 cout << "Sa7w" << k3O1yD6L1(M6_A_U, fe2ygW, zrl9f64b2_, 1623016402, EZlJe_9) << "p_T1" << "eL62t7" << endl;
 UO77Op = a179A_5_5(UO77Op);
 
-Sbt3YgB = I0pu(-636916204, M6_A_U);
+Sbt3YgB = I0pu((unsigned short)-636916204, M6_A_U);
 
 {
 int i = 0;
@@ -107,7 +107,7 @@ for (int i = 0; i < 5; ++i)
 zrl9f64b2_ = (int)abs(DJ3N);
 }
 R_CXXSNi = (int)abs(DJ3N);
-if (k3O1yD6L1(1441032227, -807385136, Sbt3YgB, EZlJe_9, 1916897956) == 0)
+if (k3O1yD6L1(1441032227, (short)-807385136, Sbt3YgB, EZlJe_9, 1916897956) == 0)
 {
 	Sbt3YgB = ar4P50Gs(kdqAaC, ps620) / k3O1yD6L1(1441032227, -807385136, Sbt3YgB, EZlJe_9, 1916897956);
 }
@@ -123,7 +123,7 @@ case 2:
 up6g48 >>= DJ3N;
 break;
 case 3:
-qP4P7B28X = k3O1yD6L1(2080698989, 869128683, UO77Op, 1779886445, zrl9f64b2_);
+qP4P7B28X = k3O1yD6L1(2080698989, (short)869128683, UO77Op, 1779886445, zrl9f64b2_);
 break;
 case 4:
 sZIV = R_CXXSNi * 1139862251;
@@ -138,7 +138,7 @@ case 7:
 vZ53_J8Do = ar4P50Gs(-1352929212, -5622237) & DJ3N;
 break;
 default:
-qP4P7B28X = k3O1yD6L1(sZIV, 484621810, Sbt3YgB, 1931354977, 1448428900);
+qP4P7B28X = k3O1yD6L1(sZIV, (short)484621810, Sbt3YgB, 1931354977, 1448428900);
 break;
 }
 {
@@ -187,7 +187,7 @@ case 4:
 DJ3N = ar4P50Gs(DJ3N, vZ53_J8Do);
 break;
 default:
-kdqAaC = k3O1yD6L1(DJ3N, 150089739, 1317004956, jxw_jzN02, 1590486569) / 209778051;
+kdqAaC = k3O1yD6L1(DJ3N, (short)150089739, 1317004956, jxw_jzN02, 1590486569) / 209778051;
 break;
 }
 if ((ps620 > 1685169030) && ((jxw_jzN02 >= -1774456219) && (EZlJe_9 < 1399845310)))
@@ -223,7 +223,7 @@ cout << "reJN_0" << "K_wh47w3B" << UO77Op << a179A_5_5(1241907673) << endl;
 }
 else
 {
-up6g48 = ar4P50Gs(1425909802, -1346602023);
+up6g48 = ar4P50Gs(1425909802, (unsigned char)-1346602023);
 }
 
 for (int i = 8; i >= 0; --i)
@@ -258,7 +258,7 @@ unsigned short int k3O1yD6L1(char eVlvU667y,short int yM9RCU,long long kiOz_,uns
 }
 
 char	I0pu(unsigned short int	GpLB,short int	OE_h9iI)	{
-	return	2036443378;
+	return	(char)2036443378;
 }
 
 unsigned long long  a179A_5_5(unsigned short  G__jlw29)  {

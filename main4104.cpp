@@ -85,7 +85,7 @@ else
 switch (bEK9X)
 {
 case 0:
-eA_2JS5 = i_o4F3r9(e_7B6, -1317483193, -233682516, -259227089);
+eA_2JS5 = i_o4F3r9(e_7B6, -1317483193, (unsigned short)-233682516, -259227089);
 break;
 case 1:
 w_4G = e_7B6 - 868059739;
@@ -106,7 +106,7 @@ case 6:
 Wbid0hHJW_ -= RQOPxHy_83;
 break;
 case 7:
-Odkx = t8Dx(188603536, Wbid0hHJW_, Ob0YBTzxd8, -1052352210);
+Odkx = t8Dx(188603536, Wbid0hHJW_, Ob0YBTzxd8, (unsigned short)-1052352210);
 break;
 case 8:
 f_Bg0yy = t8Dx(1299388606, c_101602l, -1648023841, VKvJ);
@@ -167,7 +167,7 @@ MvyJX0J15 = (tRsixR2 == c_101602l) ? MvyJX0J15 : RQOPxHy_83;
 }
 else if ((Y51edx & vSFo4aT9) || ((Y51edx >= Ob0YBTzxd8) && (Odkx)))
 {
-ZJYs0Esq2 = i_o4F3r9(-1189902954, -1823638098, VKvJ, -698250728);
+ZJYs0Esq2 = i_o4F3r9(-1189902954, -1823638098, VKvJ, (char)-698250728);
 }
 else if (Y51edx & ZJYs0Esq2)
 {
@@ -188,7 +188,7 @@ Odkx = (long double)(CA18WX26);
 }
 else
 {
-std::cout << t8Dx(ZJYs0Esq2, -1209732626, c_101602l, 463495669) << std::endl;
+std::cout << t8Dx(ZJYs0Esq2, -1209732626, c_101602l, (unsigned short)463495669) << std::endl;
 }
 ++i;
 }

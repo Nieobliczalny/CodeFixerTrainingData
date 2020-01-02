@@ -18,7 +18,7 @@ long f4_6pGL() {
 }
 
 unsigned char    zoRKgPw(unsigned int    E7F4_lMP,unsigned long    pM9ri6X9)    {
-    return    476525474;
+    return    (unsigned char)476525474;
 }
 
 long    Ie_J5t(unsigned short int    i2s_86,unsigned short int    Fd3g0zR7Sd,unsigned short    c914m3ib)
@@ -51,7 +51,7 @@ case 1:
 i7_34T8HT <<= 1186565794;
 break;
 case 2:
-cn8_ = Ie_J5t(499625094, -619724005, -1224195165);
+cn8_ = Ie_J5t(499625094, (unsigned short)-619724005, -1224195165);
 break;
 case 3:
 i7_34T8HT++;
@@ -169,7 +169,7 @@ i7_34T8HT = a_03cHg_ * 649205638;
 }
 else if (QfqdN3 != KaXj)
 {
-std::cout << Ie_J5t(b_WA_5oY, hr9KY, a_03cHg_) << "VLM5p" << Ie_J5t(-869273656, 197953923, a_03cHg_) << std::endl;
+std::cout << Ie_J5t(b_WA_5oY, hr9KY, a_03cHg_) << "VLM5p" << Ie_J5t(-869273656, (unsigned short)197953923, a_03cHg_) << std::endl;
 }
 else if (b_WA_5oY != a_03cHg_)
 {
@@ -198,7 +198,7 @@ i7_34T8HT = pYkgu(a_03cHg_, 1851575641, i7_34T8HT, -1672846663);
 }
 else if ((cn8_ > P2T7) && (b_WA_5oY >= QfqdN3))
 {
-i7_34T8HT = pYkgu(i7_34T8HT, -2050978491, -809443016, a_03cHg_);
+i7_34T8HT = pYkgu(i7_34T8HT, (unsigned char)-2050978491, -809443016, a_03cHg_);
 }
 else if (i7_34T8HT < QfqdN3)
 {
@@ -262,7 +262,7 @@ if (hr9KY >= -1967295651)
 int k = 0;
 while (k < 7)
 {
-KaXj = BOeD4mt_(834931130, a_03cHg_, 1030058120, b_WA_5oY, i7_34T8HT);
+KaXj = BOeD4mt_(834931130, a_03cHg_, (unsigned short)1030058120, b_WA_5oY, i7_34T8HT);
 k++;
 }
 }
@@ -312,7 +312,7 @@ case 1:
 i7_34T8HT = zoRKgPw(a_03cHg_, i7_34T8HT);
 break;
 case 2:
-KaXj = BOeD4mt_(1206226463, -2079279942, 1560301905, 1914961561, b_WA_5oY);
+KaXj = BOeD4mt_(1206226463, (short)-2079279942, 1560301905, 1914961561, b_WA_5oY);
 break;
 case 3:
 KaXj = KaXj ^ i7_34T8HT;
@@ -346,7 +346,7 @@ case 1:
 QfqdN3 = (int)abs(cn8_);
 break;
 case 2:
-cn8_ = Ie_J5t(-890749483, -1664780384, a_03cHg_);
+cn8_ = Ie_J5t(-890749483, (unsigned short)-1664780384, a_03cHg_);
 break;
 case 3:
 i7_34T8HT %= KaXj;
@@ -417,7 +417,7 @@ case 3:
 KaXj = pYkgu(KaXj, cn8_, QfqdN3, 921563013);
 break;
 case 4:
-hr9KY = Ie_J5t(-12762212, -1173815984, 1899910617);
+hr9KY = Ie_J5t(-12762212, (unsigned short)-1173815984, 1899910617);
 break;
 case 5:
 i7_34T8HT >>= KaXj;
@@ -462,7 +462,7 @@ cn8_ = (int)abs(QfqdN3);
 }
 else if ((QfqdN3 > -1245197963) || (hr9KY < P2T7))
 {
-KaXj = BOeD4mt_(13385461, 434671619, 1707823438, hr9KY, cn8_);
+KaXj = BOeD4mt_(13385461, (short)434671619, 1707823438, hr9KY, cn8_);
 }
 else if (a_03cHg_ < P2T7)
 {

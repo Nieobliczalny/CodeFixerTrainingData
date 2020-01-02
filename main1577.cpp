@@ -13,6 +13,7 @@ using std::ceil;
 using std::floor;
 
 int main() {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
   unsigned short  sgy7062  =  1273472814,  bFUzn  =  -1724720882,  o6Y9___3OI  =  434654799,  uL73Bf_  =  -1729152308,  um4wmKlzT  =  -1195043322,  NOPj7zNG5  =  1469962798,  uR95q19  =  428829373,  kd0k13OJm  =  1443004867,  NIeT1  =  1629256615,  erFLc  =  -2141176610,  WzZR8kcR6  =  -52137585,  jw144dzrqc  =  -1021625194,  ImXs  =  1672926749,  HziUPl  =  -1698030349,  N3C5kDr3  =  -2089128317,  qv81bDD20  =  -1871263638,  try4Lj  =  -525834474,  T_2Re6  =  657353981,  XHoW_F  =  1313509931,  Ps1QRj  =  -1630556473;
  unsigned short e8029 = 0, l_4_ = 0, GwJ7zv = 0;
 

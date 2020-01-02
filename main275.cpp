@@ -17,7 +17,7 @@ int main(void)
  double tbC5M4xm = -1972132888, F19o4nXb01 = 2112544906, fH3li = -1174711096, oVQoj5ql = 1503152690, It68vAoTG = -113452147;
  unsigned char zjpwBvWK = 0, d_zcz3U = 0, tuBe_Rp6P = 0;
 
-std::cout << i2k5RH(-276108318, F19o4nXb01, fH3li, oVQoj5ql, It68vAoTG) << i2k5RH(-1651452451, 2011790733, fH3li, 1744929864, -799345998) << oVQoj5ql << zjpwBvWK << d_zcz3U << std::endl;
+std::cout << i2k5RH(-276108318, F19o4nXb01, fH3li, oVQoj5ql, It68vAoTG) << i2k5RH((short)-1651452451, 2011790733, fH3li, 1744929864, -799345998) << oVQoj5ql << zjpwBvWK << d_zcz3U << std::endl;
 switch (zjpwBvWK)
 {
 case 0:
@@ -51,7 +51,7 @@ break;
 }
 oVQoj5ql = (int)abs(fH3li);
 
-tuBe_Rp6P = i2k5RH(-1921061047, 765876589, 695672262, -269928675, -1427073464);
+tuBe_Rp6P = i2k5RH(-1921061047, (char)765876589, 695672262, -269928675, -1427073464);
 std::cout << F19o4nXb01 << i2k5RH(432915582, -1910742119, -535441743, 830502052, 62365628) << "g_04lj" << "h5uCJ" << std::endl;
 fH3li = 2120279402 / zjpwBvWK;
 switch (d_zcz3U)
@@ -89,7 +89,7 @@ It68vAoTG = (int)floor(oVQoj5ql);
 }
 else if ((tbC5M4xm == tuBe_Rp6P) || (It68vAoTG == F19o4nXb01))
 {
-zjpwBvWK = i2k5RH(234894440, zjpwBvWK, -304033567, -548073993, -1858995693);
+zjpwBvWK = i2k5RH(234894440, zjpwBvWK, (unsigned char)-304033567, -548073993, -1858995693);
 }
 else if (zjpwBvWK != 1032580698)
 {
@@ -101,7 +101,7 @@ tbC5M4xm = (int)ceil(It68vAoTG);
 }
 else
 {
-tuBe_Rp6P = i2k5RH(tuBe_Rp6P, 670349036, 696265415, tbC5M4xm, zjpwBvWK);
+tuBe_Rp6P = i2k5RH(tuBe_Rp6P, 670349036, (unsigned char)696265415, tbC5M4xm, zjpwBvWK);
 }
 }
 else if ((It68vAoTG) && (fH3li >= tbC5M4xm))
@@ -122,7 +122,7 @@ int k = 5;
 do
 {
 --k;
-tuBe_Rp6P = i2k5RH(1500415597, -757844746, tbC5M4xm, oVQoj5ql, tuBe_Rp6P);
+tuBe_Rp6P = i2k5RH(1500415597, (char)-757844746, tbC5M4xm, oVQoj5ql, tuBe_Rp6P);
 }
 while (k >= 0);
 }
@@ -166,7 +166,7 @@ oVQoj5ql = tuBe_Rp6P | 659095578;
 }
 else if ((zjpwBvWK < -1002441504) && (It68vAoTG != 2043656894))
 {
-std::cout << It68vAoTG << fH3li << i2k5RH(fH3li, 1165992251, 1886545533, -786336967, tbC5M4xm) << i2k5RH(-154811056, It68vAoTG, -1433759955, d_zcz3U, -2121780990) << i2k5RH(fH3li, It68vAoTG, 540909956, d_zcz3U, -138390921) << std::endl;
+std::cout << It68vAoTG << fH3li << i2k5RH(fH3li, 1165992251, (unsigned char)1886545533, -786336967, tbC5M4xm) << i2k5RH(-154811056, It68vAoTG, -1433759955, d_zcz3U, -2121780990) << i2k5RH(fH3li, It68vAoTG, 540909956, d_zcz3U, -138390921) << std::endl;
 }
 else if (zjpwBvWK < 234689563)
 {
@@ -180,7 +180,7 @@ case 0:
 tbC5M4xm -= tuBe_Rp6P;
 break;
 case 1:
-tuBe_Rp6P = i2k5RH(-188117254, 2036937169, -1577075396, It68vAoTG, 1437885460);
+tuBe_Rp6P = i2k5RH(-188117254, (char)2036937169, -1577075396, It68vAoTG, 1437885460);
 break;
 case 2:
 fH3li -= 1522978249;
@@ -224,7 +224,7 @@ do
 {
 if (tuBe_Rp6P <= 1078261783)
 {
-zjpwBvWK = i2k5RH(-1321223770, -1509705254, -1638520721, 712616670, 2094676456);
+zjpwBvWK = i2k5RH((short)-1321223770, -1509705254, -1638520721, 712616670, 2094676456);
 }
 j--;
 }
@@ -262,7 +262,7 @@ case 0:
 It68vAoTG = (int)abs(tbC5M4xm);
 break;
 case 1:
-tuBe_Rp6P = i2k5RH(tuBe_Rp6P, -290459875, 1033002127, 531601290, 1368230176);
+tuBe_Rp6P = i2k5RH(tuBe_Rp6P, -290459875, (unsigned char)1033002127, 531601290, 1368230176);
 break;
 case 2:
 F19o4nXb01 = (int)abs(oVQoj5ql);

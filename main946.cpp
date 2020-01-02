@@ -34,6 +34,7 @@ char  Jh49s8M(char  sxNX,unsigned long  wnrrox7,unsigned int  Dc87Apo6_U)  {
 int main(int argc, char** argv)
 {
     short    D79j    =    0,    WjW9    =    0,    tTj491k3    =    0,    tDwui    =    0;
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
     short int    D1Fai5ktai    =    -2106134149,    J5_th4    =    -793397088,    K1GU    =    1211588966,    w2vu1G    =    -452061187,    QyHO3ZmP8    =    -991014797,    OA46M36A    =    1836892197,    Yj6owC7    =    630131410,    Twn23R    =    354336359,    lOXWzB3m_    =    376957610,    y7h3    =    -913826105,    k0655laxq4    =    -2108534026,    gFSjocgQb    =    806908592,    tx0_ta    =    -372288607,    qVEz    =    664280293,    OOT7hym0    =    1235574431,    yD4VUnj    =    1981374968,    mw1h0    =    -517553269,    osa95_Mv9r    =    -1744116115,    Va92Ez7    =    -251534332,    txeDi59    =    134587243,    PdU4UW    =    -807031790,    n6U7CDCV0F    =    -1489044674,    Ou9LF_94Vl    =    -1724864354,    HIPj    =    -957751299,    k55Smum    =    2093313550,    YrR0Xh_nF    =    -240803845,    l6M5w7KMF    =    -788901802,    b48ugWGx    =    579558150,    CNleiEvGm    =    804167815,    oT95Fo15    =    -1043641531,    aNtdv_wr    =    -927985607,    SljC5    =    1576380290,    q8xc    =    1846972237,    RHj81Ib2    =    -1734588627,    u4ht4yKfz    =    1683877831,    o6B2gWx23_    =    1076465804,    d_QnCd4Wf    =    1239349755,    X6jNr4z1    =    -1645357077,    HQ31tXi1j    =    19713727,    ZapMSW9T5    =    1081035824,    o29K40    =    -670280149,    YGxHD5    =    -339248099,    cGKzC_PZ43    =    596304854,    eEz3    =    1737035416,    NmC4cw4w94    =    -1655810077,    dO_W8mnV3d    =    -849806853,    F67dwi8    =    492177621,    TIh7QZ9    =    -1220135306,    vyl6cn    =    -673301615,    FQzN    =    -176523602,    PkaA    =    -1794144328,    hmUh1yJmi    =    953996050,    J2F4W50MuB    =    980859679,    hnEM2yI2    =    777967978,    yyqjo    =    1178372344,    Pb96h4R    =    2026872447,    jlPUfV_N    =    -2097656090,    PL7fTgD    =    345180982,    s7r7C29    =    -807501699,    isrW7fOo9    =    -781019880,    GdT3D0w2    =    -2057636644,    ri1hW1Q5    =    -397459618,    H0_z3G0mta    =    1658976599,    d9Rx4    =    787960777,    T5Y4    =    -1755851193,    UP6F8zFo    =    1218921893,    O868UEORPN    =    1605858914,    VYKj    =    863123191,    d7MWkz    =    1110004093;
 
 for (int i = 1; i >= 0; i--)
@@ -47,7 +48,7 @@ if (osa95_Mv9r & 287921700)
 switch (q8xc)
 {
 case 0:
-SljC5 = ESMQRso2s(-1412659442, D79j, -1962174232, 508512204, 2068446291);
+SljC5 = ESMQRso2s(-1412659442, D79j, -1962174232, 508512204, (unsigned char)2068446291);
 break;
 }
 }
@@ -118,7 +119,7 @@ case 4:
 jlPUfV_N = (y7h3 != 1767586983) ? OA46M36A : -263475023;
 break;
 case 5:
-RHj81Ib2 = ESMQRso2s(RHj81Ib2, -763842447, y7h3, Ou9LF_94Vl, Twn23R);
+RHj81Ib2 = ESMQRso2s(RHj81Ib2, (char)-763842447, y7h3, Ou9LF_94Vl, Twn23R);
 break;
 case 6:
 HIPj = Jh49s8M(HIPj, 1558129297, -1697598880);
@@ -168,7 +169,7 @@ case 3:
 VYKj = Jh49s8M(VYKj, tTj491k3, PdU4UW);
 break;
 case 4:
-hnEM2yI2 = ESMQRso2s(625288973, 1550639913, u4ht4yKfz, 1901768530, 1456531818);
+hnEM2yI2 = ESMQRso2s(625288973, 1550639913, u4ht4yKfz, 1901768530, (unsigned char)1456531818);
 break;
 case 5:
 s7r7C29 = ESMQRso2s(527652836, -1170619706, q8xc, 598209550, hnEM2yI2);
@@ -281,7 +282,7 @@ case 1:
 yD4VUnj = GrkpE();
 break;
 case 2:
-n6U7CDCV0F = (OOT7hym0 < d9Rx4) ? -2127789786 : -1932019227;
+n6U7CDCV0F = (OOT7hym0 < d9Rx4) ? -2127789786 : (short)-1932019227;
 break;
 case 3:
 RHj81Ib2 >>= 1907427664;
@@ -296,7 +297,7 @@ case 6:
 yD4VUnj = Twn23R - 1012619308;
 break;
 case 7:
-vyl6cn = (yyqjo == 956056204) ? 1288065083 : -1975757355;
+vyl6cn = (yyqjo == 956056204) ? 1288065083 : (short)-1975757355;
 break;
 case 8:
 F67dwi8 = (int)abs(tx0_ta);
@@ -332,7 +333,7 @@ try
 {
 if (d_QnCd4Wf <= 1513566652)
 {
-Pb96h4R = ESMQRso2s(Pb96h4R, 1689215111, -105011967, u4ht4yKfz, 321378216);
+Pb96h4R = ESMQRso2s(Pb96h4R, 1689215111, (unsigned char)-105011967, u4ht4yKfz, 321378216);
 }
 else
 {

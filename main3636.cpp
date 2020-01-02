@@ -27,7 +27,7 @@ int main(int argc, char** argv) {
     long long    ONSb    =    -1079952005;
  long double y95GCm8 = 1767149985;
   unsigned short int  jAHY_  =  0;
-    char    B8ETbF    =    1004422830;
+    char    B8ETbF    =    (char)1004422830;
     unsigned int    wSLvp    =    461059873;
 	short	eWZX14XK	=	-1201505185;
   unsigned char  fm4L  =  0;
@@ -366,7 +366,7 @@ short  p3vaLHBD(short  c8_yJ,long  R2aH8T09x)  {
 }
 
 unsigned short AEcTO6(char vjC4,unsigned int Bs8qwZDR,long long t8Z3Y,unsigned long yff5nNCGx,long long YnrT6) {
- return -987865727;
+ return (unsigned short)-987865727;
 }
 
 unsigned short int ceEN0jtx0(char fB0dd9f)

@@ -325,7 +325,7 @@ I4G91S_J = cnxW(-1449987599, 1170861372, -1957580186);
 break;
 case 'h':
 case 'H':
-pEgOsBnb = cnxW(pEgOsBnb, AtlBU6p, -1430115926);
+pEgOsBnb = cnxW(pEgOsBnb, AtlBU6p, (short)-1430115926);
 break;
 }
 }

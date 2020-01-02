@@ -24,7 +24,7 @@ int main(int argc, char** argv) {
     short int    fF7v4c_f6;
     fF7v4c_f6    =    0;
 	unsigned char	W_8J9h;
-	W_8J9h	=	-169197303;
+	W_8J9h	=	(unsigned char)-169197303;
 	float	VVR8Z23Vt;
 	VVR8Z23Vt	=	1114474036;
  unsigned long gpAP3L;
@@ -34,7 +34,7 @@ int main(int argc, char** argv) {
  int ibcu_Ouy;
  ibcu_Ouy = -397907234;
  unsigned char NrKaY362Z;
- NrKaY362Z = 1816225001;
+ NrKaY362Z = (unsigned char)1816225001;
 
 switch (W_8J9h)
 {

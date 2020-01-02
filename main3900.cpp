@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
   float  T5YEeJm;
   T5YEeJm  =  -1787097972;
   short  h3OkhhuSo;
-  h3OkhhuSo  =  1604137057;
+  h3OkhhuSo  =  (short)1604137057;
 	double	EyT17;
 	EyT17	=	-1062405455;
 	unsigned short	KFrM;
@@ -46,7 +46,7 @@ int main(int argc, char** argv) {
  int lkpGf_8;
  lkpGf_8 = 1836829150;
     short    VMg1_1k;
-    VMg1_1k    =    -527200255;
+    VMg1_1k    =    (short)-527200255;
 	char	M791;
 	M791	=	-1632876606;
   unsigned long  W1Nq8f1B5;
@@ -93,7 +93,7 @@ VMg1_1k = PTSP0LaT_t(lkpGf_8, W1Nq8f1B5, -1638303769, 949131665, -1631686951) * 
 }
 else
 {
-W1Nq8f1B5 = NLzu(-928729279, Le45BOqP, d_sSA);
+W1Nq8f1B5 = NLzu((short)-928729279, Le45BOqP, d_sSA);
 }
 }
 else if (T5YEeJm >= W1Nq8f1B5)
@@ -186,7 +186,7 @@ case 'c':
 Le45BOqP = (int)abs(VMg1_1k);
 break;
 case 'd':
-gvxCoH = NLzu(-913283718, 982038763, KFrM);
+gvxCoH = NLzu((short)-913283718, 982038763, KFrM);
 break;
 case 'e':
 T5YEeJm = (int)ceil(EyT17);
@@ -285,6 +285,6 @@ long    jM_YGf4ND(short    A9J05,unsigned short    fsIO6,unsigned char    zFJ7pO
 }
 
 unsigned char PsmraHq72(unsigned short O397U6l,int NJQH15,unsigned long DQt80I_,unsigned short int s4XU4p0qu,short i8glR8Jw3) {
- return -823679455;
+ return (unsigned char)-823679455;
 }
 

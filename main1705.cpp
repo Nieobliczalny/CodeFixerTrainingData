@@ -20,6 +20,7 @@ short int	J7Aqm();
 int main()
 {
     char    jX_WaQ    =    0,    Fh9mtSb    =    0,    xA6tj    =    0,    V6MWAsYRd    =    0;
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
 	unsigned char	Y10xUt	=	-1935134897,	FyVt	=	-889943214,	A21HYNYtc	=	-2128138632,	O8zC31vk	=	502066887,	dQI_d	=	-2111013577,	dqq8Iy9	=	185642254,	l03Y6RHd3A	=	46811656;
 
 try
@@ -48,7 +49,7 @@ do
 {
 if (O8zC31vk >= Y10xUt)
 {
-A21HYNYtc = x5scy9H(-496493833, l03Y6RHd3A, -1500027745, 1457239562);
+A21HYNYtc = x5scy9H(-496493833, l03Y6RHd3A, (unsigned short)-1500027745, 1457239562);
 }
 else
 {
@@ -123,7 +124,7 @@ dqq8Iy9 <<= dQI_d;
 }
 else
 {
-dqq8Iy9 = x5scy9H(1161842186, -254783441, -754559339, V6MWAsYRd);
+dqq8Iy9 = x5scy9H(1161842186, -254783441, (unsigned short)-754559339, V6MWAsYRd);
 }
 }
 else
@@ -173,7 +174,7 @@ O8zC31vk = xA6tj >> FyVt;
 }
 else if ((O8zC31vk != V6MWAsYRd) || (V6MWAsYRd > xA6tj))
 {
-dqq8Iy9 = x5scy9H(1718226277, 203958796, -563576459, Fh9mtSb);
+dqq8Iy9 = x5scy9H(1718226277, 203958796, (unsigned short)-563576459, Fh9mtSb);
 }
 else
 {
@@ -214,7 +215,7 @@ case 'g':
 jX_WaQ = (int)abs(Fh9mtSb);
 break;
 default:
-dQI_d = x5scy9H(-150315400, 2077909138, 1527145467, -1379558092);
+dQI_d = x5scy9H((short)-150315400, 2077909138, 1527145467, -1379558092);
 break;
 }
 }
@@ -267,7 +268,7 @@ try
 {
 if (jX_WaQ >= C_JlL)
 {
-FyVt = x5scy9H(364942109, -1466788837, 229678034, 1449522320);
+FyVt = x5scy9H((short)364942109, -1466788837, 229678034, 1449522320);
 }
 else
 {
@@ -280,7 +281,7 @@ dQI_d = x5scy9H(dQI_d, 547494060, 217649751, l03Y6RHd3A);
 }
 }
 
-l03Y6RHd3A = x5scy9H(724973896, -2116698948, -1726750983, 688763325) / Fh9mtSb;
+l03Y6RHd3A = x5scy9H((short)724973896, -2116698948, -1726750983, 688763325) / Fh9mtSb;
 
 try
 {
@@ -335,7 +336,7 @@ if (l03Y6RHd3A != C_JlL)
 {
 for (int j = 8; j >= 0; j--)
 {
-std::cout << x5scy9H(-718865845, -1585896760, -598325531, Y10xUt) << "HQZCyzY2B" << V6MWAsYRd << "Sn9YgKEivd" << "q89bnO1qo" << std::endl;
+std::cout << x5scy9H(-718865845, -1585896760, (unsigned short)-598325531, Y10xUt) << "HQZCyzY2B" << V6MWAsYRd << "Sn9YgKEivd" << "q89bnO1qo" << std::endl;
 }
 }
 {
@@ -359,7 +360,7 @@ std::cout << "v_1r" << "BwPzM9CE" << J7Aqm() << J7Aqm() << std::endl;
 int i = 0;
 do
 {
-std::cout << x5scy9H(dqq8Iy9, 992272743, 1543434434, -2097771768) << std::endl;
+std::cout << x5scy9H(dqq8Iy9, 992272743, 1543434434, (unsigned short)-2097771768) << std::endl;
 ++i;
 }
 while (i < 5);
@@ -459,7 +460,7 @@ case 2:
 O8zC31vk = J7Aqm();
 break;
 case 3:
-O8zC31vk = x5scy9H(-1294078010, 1048073851, O8zC31vk, xA6tj);
+O8zC31vk = x5scy9H((short)-1294078010, 1048073851, O8zC31vk, xA6tj);
 break;
 default:
 V6MWAsYRd = (int)abs(jX_WaQ);

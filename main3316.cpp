@@ -105,7 +105,7 @@ int main() {
 
 if ((L2ykZ(b_ft2EEsuA, Zy9dROJoV, -1518170492, 708335407, -1463010679) / L2ykZ(b_ft2EEsuA, Zy9dROJoV, crHHyzTt, -532934336, rGSxk)) <= -864427149)
 {
-qnsr = L2ykZ(yT9a42jz, -748173285, HwN3, 1309554660, -995928309);
+qnsr = L2ykZ(yT9a42jz, (short)-748173285, HwN3, 1309554660, -995928309);
 }
 QTggT8R = L2ykZ(c3ZgH956k, rf062, pKqB, -437901469, b_ft2EEsuA);
 for (int i = 3; i >= 0; --i)

@@ -32,7 +32,7 @@ if (BA6QN)
 switch (HGU3H)
 {
 case 0:
-p19sH2cM6 = l7280Wv_Om(2127399531, 1951531498, -1966097370, t4M319f, N1rI);
+p19sH2cM6 = l7280Wv_Om(2127399531, (short)1951531498, -1966097370, t4M319f, N1rI);
 break;
 case 1:
 UKS52 = iR_dp16W0(-1136579482, -529067709, -409909402, -1164593494, tkIQ);
@@ -47,7 +47,7 @@ case 4:
 N35s = iR_dp16W0(N35s, 529223171, t4M319f, RpcMnP, KHQB6hE);
 break;
 default:
-aXN0_oKsN = l7280Wv_Om(-1494298183, PcR8, Xf8HL2MYxi, LizLVVN, 1090847960);
+aXN0_oKsN = l7280Wv_Om(-1494298183, PcR8, Xf8HL2MYxi, LizLVVN, (unsigned short)1090847960);
 break;
 }
 }
@@ -62,7 +62,7 @@ if (eqDi0gMtU > 1998036635)
 {
 if ((Z1an_) && ((HGU3H & lpKGZFwQu) || (HGU3H & Ol_pF6w)))
 {
-snbk1 = l7280Wv_Om(-2000630767, z8R0VmkBy, -1825269295, -1892190172, sAYZ0nZ6l);
+snbk1 = l7280Wv_Om(-2000630767, z8R0VmkBy, -1825269295, (unsigned char)-1892190172, sAYZ0nZ6l);
 }
 }
 }
@@ -118,7 +118,7 @@ case 1:
 b9L_F = (HGU3H == -1353342387) ? CH_0rd0Eb : HGU3H;
 break;
 case 2:
-x_L3 = l7280Wv_Om(x_L3, t4M319f, 865462492, 1042702685, -1509803521);
+x_L3 = l7280Wv_Om(x_L3, t4M319f, 865462492, 1042702685, (unsigned short)-1509803521);
 break;
 case 3:
 Ol_pF6w = xJZ0(908370965);
@@ -178,7 +178,7 @@ while (j < 3);
 }
 
 Mwr8si3Oc8 = HT_RW - 1271011545;
-R_lh9Kn2oM = l7280Wv_Om(R_lh9Kn2oM, -645390917, jgbr, 570654000, Z0w_9xD);
+R_lh9Kn2oM = l7280Wv_Om(R_lh9Kn2oM, (short)-645390917, jgbr, 570654000, Z0w_9xD);
 
 EZ6jaUuN = (double)(lpKGZFwQu);
 if ((672991009 / xJZ0(R_lh9Kn2oM)) == -1733083497)
@@ -261,7 +261,7 @@ if (Mwr8si3Oc8 != lpKGZFwQu)
 {
 for (int k = 4; k >= 0; k--)
 {
-ZfuX1zQj1 = l7280Wv_Om(1867696119, -1841653647, UKS52, db568y9, OE91a1ZO2);
+ZfuX1zQj1 = l7280Wv_Om(1867696119, (short)-1841653647, UKS52, db568y9, OE91a1ZO2);
 }
 }
 else
@@ -278,7 +278,7 @@ KHQB6hE *= kT8u_vV;
 }
 for (int i = 2; i >= 0; i--)
 {
-R_lh9Kn2oM = l7280Wv_Om(-1965605311, RpcMnP, -797807940, 108072624, CxpimzG_1);
+R_lh9Kn2oM = l7280Wv_Om(-1965605311, RpcMnP, -797807940, (unsigned char)108072624, CxpimzG_1);
 }
 
 if (SHdgj128Z == aXN0_oKsN)
@@ -293,7 +293,7 @@ if (jX_o1 >= N35s)
 {
 if (b9L_F > cZy8_Ue8f_)
 {
-cout << ZSPS8 << l7280Wv_Om(R_lh9Kn2oM, 1438173575, euzWH4ebn, -1184455419, CxpimzG_1) << VqUGBU3S << endl;
+cout << ZSPS8 << l7280Wv_Om(R_lh9Kn2oM, 1438173575, euzWH4ebn, (unsigned char)-1184455419, CxpimzG_1) << VqUGBU3S << endl;
 }
 else
 {

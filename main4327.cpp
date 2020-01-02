@@ -98,7 +98,7 @@ cSr_ftHd = (int)floor(spgB81qN26);
 while (i >= 0);
 }
 
-std::cout << PVOPL << "C_5L64C_6M" << B5_SJJQy7 << IVWbu << H8W9VXzI9d(-1485791375, 966579474) << std::endl;
+std::cout << PVOPL << "C_5L64C_6M" << B5_SJJQy7 << IVWbu << H8W9VXzI9d(-1485791375, (unsigned short)966579474) << std::endl;
 for (int i = 3; i >= 0; i--)
 {
 std::cout << i_NAH_(u8VD73) << U0VBT << std::endl;

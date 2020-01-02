@@ -186,7 +186,7 @@ case 1:
 C0D23pr *= 701374947;
 break;
 case 2:
-E2vOV4 = g2O2Gt(1530316043);
+E2vOV4 = g2O2Gt((unsigned short)1530316043);
 break;
 case 3:
 w4oW1mk_ = kZLHd2CcL6(Y4KIb8_5cA);
@@ -231,7 +231,7 @@ case 'b':
 M_3lu6mR0H = (int)abs(z8gvs);
 break;
 case 'c':
-BJLgNxZ = g2O2Gt(79498071);
+BJLgNxZ = g2O2Gt((unsigned short)79498071);
 break;
 case 'd':
 PTLQd6q5 = JIcx9(PTLQd6q5, 1730504631);
@@ -246,7 +246,7 @@ case 'g':
 HcfU = JIcx9(323681806, -1896102375);
 break;
 default:
-k686 = kZLHd2CcL6(244816681);
+k686 = kZLHd2CcL6((char)244816681);
 break;
 }
 }
@@ -381,7 +381,7 @@ X_E7 = JIcx9(-289312296, c3KFrv);
 }
 else if (o_38O7n47 < 1765785094)
 {
-vF2a = JIcx9(-1614387612, 1022185862);
+vF2a = JIcx9((short)-1614387612, 1022185862);
 }
 else if (zn57d != 2029150117)
 {
@@ -548,7 +548,7 @@ else
 std::cout << W8IBQ << std::endl;
 }
 
-std::cout << kZLHd2CcL6(55726351) / dGd3Rycz << std::endl;
+std::cout << kZLHd2CcL6((char)55726351) / dGd3Rycz << std::endl;
 if (bfy_o1326 >= y86RO9P)
 {
 if (C0D23pr > zn57d)

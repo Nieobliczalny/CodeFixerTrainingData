@@ -430,7 +430,7 @@ zj1g = r8w_JqB - 832059338;
 }
 else
 {
-a6e43TZ_NL = (Ava265s > Di4w_3o4) ? -1557255942 : -114805207;
+a6e43TZ_NL = (Ava265s > Di4w_3o4) ? -1557255942 : (unsigned short)-114805207;
 }
 }
 --i;

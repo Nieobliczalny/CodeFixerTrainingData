@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
   unsigned int  yM80e5uZAE  =  -308680126;
  unsigned long iOKZx79j70 = 1505825335;
   short  cgX0l5mTzQ  =  -501302209;
-    unsigned char    Vz179    =    -1386062762;
+    unsigned char    Vz179    =    (unsigned char)-1386062762;
     double    e8Id055    =    1825797125;
 	short int	xz8x	=	0;
 	unsigned char	cL5_f0s0	=	1250241815;
@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
   short  cg0A0y2ww  =  0;
 	unsigned long long	Yuhk9	=	28803939;
   unsigned long long  d7535  =  -259115461;
-    short    Uff7i7DQ    =    489447959;
+    short    Uff7i7DQ    =    (short)489447959;
  long long cd79Q_ = -445238438;
   long  Zd_1_4T9DQ  =  166814163;
   unsigned char  v3hNfxPZ  =  729536303;
@@ -52,7 +52,7 @@ int main(int argc, char** argv) {
     unsigned short    VneppC    =    -1862045954;
 	long double	U12qoPBt	=	1164825929;
 	float	H6LOXqp	=	-1766300251;
-  unsigned short  XD9Jot12V9  =  1097152163;
+  unsigned short  XD9Jot12V9  =  (unsigned short)1097152163;
     short int    id0i_UD    =    0;
 	float	rub2L8Q	=	-1715183744;
   long long  U5MX1  =  741033439;
@@ -64,7 +64,7 @@ int main(int argc, char** argv) {
   unsigned int  Wo5EGr  =  482877427;
   float  r3W_QhR475  =  1086738227;
 	int	STyB	=	-852769442;
-	unsigned char	SVs_8Gn	=	-645343309;
+	unsigned char	SVs_8Gn	=	(unsigned char)-645343309;
 	int	IFHiWofT	=	-1812787480;
  float cw_mc73 = 1913442258;
  float mMIjY__V = 556696956;
@@ -107,7 +107,7 @@ case 3:
 cg0A0y2ww = Ku_V4XO(-911555739, Zd_1_4T9DQ, 468360663);
 break;
 case 4:
-MbGZC_0C_0 = Ku_V4XO(-1081399237, mMIjY__V, 1844101757);
+MbGZC_0C_0 = Ku_V4XO(-1081399237, mMIjY__V, (char)1844101757);
 break;
 default:
 Q1ne = (int)ceil(cw_mc73);
@@ -123,7 +123,7 @@ catch (int& errorCode)
 alrR8a = (int)abs(cd79Q_);
 }
 
-std::cout << "pV7TMi" << JWaQQWP0D << G5HPHoe << Q3P_Ze_ << Ku_V4XO(-1086760295, 1703479182, 405268842) << std::endl;
+std::cout << "pV7TMi" << JWaQQWP0D << G5HPHoe << Q3P_Ze_ << Ku_V4XO(-1086760295, 1703479182, (char)405268842) << std::endl;
 std::cout << "DyU9" << "hG1DM" << i4_H1(rub2L8Q, mMIjY__V, -627410884, U5MX1) << std::endl;
 
 if (XD9Jot12V9 >= 1908343823)
@@ -137,7 +137,7 @@ case 1:
 H6LOXqp = i4_H1(H6LOXqp, 1939476309, v3hNfxPZ, U9dhYz);
 break;
 case 2:
-cL5_f0s0 = i4_H1(cL5_f0s0, 550071059, 752936008, -1283786382);
+cL5_f0s0 = i4_H1(cL5_f0s0, (unsigned short)550071059, 752936008, -1283786382);
 break;
 case 3:
 U12qoPBt = (int)abs(BjD6xPMn);
@@ -166,7 +166,7 @@ alrR8a = BjD6xPMn << yM80e5uZAE;
 
 for (int i = 0; i < 10; i++)
 {
-std::cout << i4_H1(JQ3Uhx2, -1755750550, 1193533124, 1822210555) << vWkuK << Ku_V4XO(969898567, -1245318311, -389250707) << std::endl;
+std::cout << i4_H1(JQ3Uhx2, -1755750550, 1193533124, 1822210555) << vWkuK << Ku_V4XO(969898567, (unsigned short)-1245318311, -389250707) << std::endl;
 }
 BjD6xPMn = (int)abs(Q1ne);
 
@@ -325,7 +325,7 @@ else if ((F8i_CT4MT0 <= BsbPd) || ((alrR8a == F8i_CT4MT0) && (id0i_UD == 1236432
 int j = 10;
 do
 {
-cg0A0y2ww = Ku_V4XO(156059006, 1641909134, 88812439);
+cg0A0y2ww = Ku_V4XO(156059006, 1641909134, (char)88812439);
 --j;
 }
 while (j >= 0);

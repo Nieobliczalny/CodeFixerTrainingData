@@ -24,7 +24,7 @@ int main() {
 	unsigned int	wo9yYbA	=	1486876189;
 	unsigned long	NU_6OW_6zr	=	207055844;
     long long    R0x_    =    -377855023;
- char RXSbyDW9Lj = 914337444;
+ char RXSbyDW9Lj = (char)914337444;
  unsigned char y2055 = 1877681698;
     unsigned short int    UKOr3    =    1986902464;
     int    qCol69i8E    =    -1186616513;
@@ -39,7 +39,7 @@ int main() {
 	unsigned long	bnZASJs5q	=	-1058446683;
 	long double	Lp998tn_	=	1253377447;
 	unsigned char	j8_8mCz	=	1490680739;
-	short	M7Euf3p	=	274969280;
+	short	M7Euf3p	=	(short)274969280;
  float q8Sc3 = -1557103724;
   double  gOysnc  =  -697846094;
   double  o624NpvnPX  =  1123391438;
@@ -50,7 +50,7 @@ int main() {
   unsigned int  R8NK  =  -1053538452;
   unsigned short int  J86G  =  -2049857109;
  long double P1v7GC1 = -1638065919;
-	short	WEY0nA18	=	-857543986;
+	short	WEY0nA18	=	(short)-857543986;
 	int	Vt5_fuzk6	=	1753866521;
 	unsigned char	VMZ5gQ9p	=	-854954076;
 	unsigned long long	OBh9b	=	-1643518408;
@@ -62,7 +62,7 @@ int main() {
   unsigned char  N53s_bBSX_  =  0;
  double Y50BDp = -172365179;
   unsigned short int  qNaa0vn6  =  420693739;
-    unsigned short    NgAb3a8u3    =    1181749203;
+    unsigned short    NgAb3a8u3    =    (unsigned short)1181749203;
 
 F4C_4v = 912201589 / K5BLd4F(1828142245, 1974942393, 1738384970, qNaa0vn6);
 
@@ -136,7 +136,7 @@ while (i >= 0);
 }
 for (int i = 0; i < 10; i++)
 {
-std::cout << M596QfkQx() << M596QfkQx() << K5BLd4F(-391558034, -150334187, -1084956630, -1196313887) << "S75LCrY" << std::endl;
+std::cout << M596QfkQx() << M596QfkQx() << K5BLd4F(-391558034, -150334187, (unsigned short)-1084956630, -1196313887) << "S75LCrY" << std::endl;
 }
 q8Sc3 = M596QfkQx();
 
@@ -149,7 +149,7 @@ catch (int& errorCode)
 Y50BDp = (int)floor(qxTWL);
 }
 
-hFb54 = K5BLd4F(Iu_z64_Bc, 37958799, -1376557245, -1980596122);
+hFb54 = K5BLd4F(Iu_z64_Bc, 37958799, (unsigned short)-1376557245, -1980596122);
 q8Sc3 = (int)abs(IV0b6kgU);
 std::cout << P1v7GC1 << mD1GM(Iu_z64_Bc, 1228511061, F4C_4v, pftP, gqp9Og_5) << mD1GM(1372579978, j8_8mCz, -1681234191, -468171057, gqp9Og_5) << c_8e9 << std::endl;
 
@@ -175,7 +175,7 @@ else
 {
 NgAb3a8u3 = mD1GM(QN0I8, R1m5a, NgAb3a8u3, qCol69i8E, 516218250);
 }
-N53s_bBSX_ = K5BLd4F(gqp9Og_5, -1421335021, -1050548071, -605081626);
+N53s_bBSX_ = K5BLd4F(gqp9Og_5, (unsigned short)-1421335021, -1050548071, -605081626);
 Uz789_5 = M596QfkQx();
 {
 int i = 2;

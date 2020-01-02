@@ -334,7 +334,7 @@ x_8wx4e = uG7u(1998524596, u_t4WFp9, atUX6);
 bHHlLAM6 = rS6VRy2og6(bHHlLAM6, 657925528, 1499514180, gd2Y, 1080093491);
 if ((d9Z7M765Ke / uG7u(253947706, lb3Vo8cXe, -986250374)) <= -1518924261)
 {
-std::cout << Bfkt917BH / uG7u(840682641, lb3Vo8cXe, 658687526) << std::endl;
+std::cout << Bfkt917BH / uG7u(840682641, lb3Vo8cXe, (unsigned short)658687526) << std::endl;
 }
 
 if (Ba0gRi4imz <= -1175134269)
@@ -491,7 +491,7 @@ case 'G':
 w6W__ = t05Ke - 1793690499;
 break;
 default:
-qh091D = VEl_3pn_(750402383, fVqoa9s8, 510880464);
+qh091D = VEl_3pn_((char)750402383, fVqoa9s8, 510880464);
 break;
 }
 }

@@ -27,7 +27,7 @@ for (int i = 10; i >= 0; i--)
 AuGB1gid = (int)abs(f8pcs) * 0;
 }
 
-hm83Gdy = BlTwqZ(-755199986);
+hm83Gdy = BlTwqZ((short)-755199986);
 if ((yqWGcldT6 == -499944030) || (f1bXI1 == -674671282))
 {
 qY92F7t6B7 = (int)abs(O6wpJm);
@@ -263,7 +263,7 @@ case 5:
 fi8T2k |= z25WA9_QC;
 break;
 case 6:
-IO26 = BlTwqZ(1534439467);
+IO26 = BlTwqZ((short)1534439467);
 break;
 case 7:
 rT6l_w606 = BlTwqZ(rT6l_w606);

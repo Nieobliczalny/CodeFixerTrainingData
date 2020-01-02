@@ -124,7 +124,7 @@ case 'f':
 zgrkc = WKB9vndm_(zgrkc, -938310593, -1734683448);
 break;
 case 'g':
-zgrkc = WKB9vndm_(zgrkc, -1608890417, -1214133591);
+zgrkc = WKB9vndm_(zgrkc, (short)-1608890417, -1214133591);
 break;
 case 'h':
 r_l7m1kDU = Me5r4C << e2lqz3;
@@ -140,7 +140,7 @@ zgrkc = zgrkc & 1679180496;
 
 if (((mG5K5n > 1603125562) || (zgrkc != sZr2p)) && (Me5r4C > sZr2p))
 {
-e2lqz3 = WKB9vndm_(-369367126, 746451873, -1945046840);
+e2lqz3 = WKB9vndm_(-369367126, (short)746451873, -1945046840);
 }
 else if (S28kZ9GL1)
 {
@@ -365,7 +365,7 @@ else
 {
 std::cout << "k4e3t" << WKB9vndm_(557164200, c4NA9, 1248343982) << r_l7m1kDU << WKB9vndm_(vsPF1, 604798223, uU1N6O) << e2lqz3 << std::endl;
 }
-vsPF1 = (Me5r4C != -820271427) ? -1894425565 : mG5K5n;
+vsPF1 = (Me5r4C != -820271427) ? (unsigned short)-1894425565 : mG5K5n;
 {
 int i = 1;
 while (i >= 0)

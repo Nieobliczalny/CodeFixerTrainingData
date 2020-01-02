@@ -16,7 +16,7 @@ int main(int argc, char** argv) {
 	short int	d3_x	=	598395940;
     float    oVRE    =    749435648;
   unsigned short  I9Rt  =  0;
- short int PX__GfU4l = -296191488;
+ short int PX__GfU4l = (short)-296191488;
   unsigned short  CFAPwbIfm6  =  -1804356837;
 	unsigned char	zfm6pB5YQx	=	-384278620;
 	short int	VJCb	=	0;
@@ -75,7 +75,7 @@ kDwtiO %= PX__GfU4l;
 break;
 case 'c':
 case 'C':
-K_vs = w_U1l_Ao7p(d3_x, 1600734115, yxev_6r9KV, oVRE);
+K_vs = w_U1l_Ao7p(d3_x, (unsigned short)1600734115, yxev_6r9KV, oVRE);
 break;
 case 'd':
 case 'D':
@@ -117,7 +117,7 @@ VJCb = (short int)(IJ7KR3);
 }
 }
 
-K_vs = w_U1l_Ao7p(zfm6pB5YQx, -26504467, -1759988417, K_vs);
+K_vs = w_U1l_Ao7p(zfm6pB5YQx, -26504467, (short)-1759988417, K_vs);
 {
 int i = 2;
 do
@@ -146,7 +146,7 @@ K_vs = w_U1l_Ao7p(d3_x, q4qQ, -1496901586, kDwtiO);
 while (i >= 0);
 }
 
-VJCb = w_U1l_Ao7p(q4qQ, 1492268021, o321g3K, -424754249);
+VJCb = w_U1l_Ao7p(q4qQ, (unsigned short)1492268021, o321g3K, -424754249);
 if (yxev_6r9KV == -1917774927)
 {
 d3_x |= q4qQ;
@@ -157,7 +157,7 @@ for (int j = 0; j < 6; ++j)
 {
 if ((yxev_6r9KV < o321g3K) || ((VJCb < 953797559) || (PX__GfU4l >= CFAPwbIfm6)))
 {
-IJ7KR3 = w_U1l_Ao7p(-862141269, d3_x, 1317395114, -1692116904);
+IJ7KR3 = w_U1l_Ao7p(-862141269, d3_x, (short)1317395114, -1692116904);
 }
 }
 }
@@ -173,7 +173,7 @@ VJCb = (short int)(PX__GfU4l * VJCb);
 int i = 0;
 while (i < 9)
 {
-I9Rt = w_U1l_Ao7p(-1958020281, -1959018460, -2138738239, CFAPwbIfm6);
+I9Rt = w_U1l_Ao7p(-1958020281, (unsigned short)-1959018460, -2138738239, CFAPwbIfm6);
 i++;
 }
 }

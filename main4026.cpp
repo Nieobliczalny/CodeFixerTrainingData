@@ -78,7 +78,7 @@ RXPe10Z = Gq3h5qk69U * tDmq;
 }
 else
 {
-RvYAc = fG11(-1520314087, -1025812472, RvYAc, x574);
+RvYAc = fG11(-1520314087, (short)-1025812472, RvYAc, x574);
 }
 }
 else if (us62kf)
@@ -99,7 +99,7 @@ aSmobM = (int)floor(C8uN);
 break;
 case 'd':
 case 'D':
-x574 = fG11(N51im, g0l_1q, -1659624760, S6bSue);
+x574 = fG11(N51im, g0l_1q, (unsigned char)-1659624760, S6bSue);
 break;
 case 'e':
 case 'E':
@@ -122,7 +122,7 @@ else
 RvYAc = (char)(M32v4_ * (K_4ngfi));
 }
 }
-u0G6Dnj4 = Iqefa_(u0G6Dnj4, UFU6i94, 1491307215, uEhM9792);
+u0G6Dnj4 = Iqefa_(u0G6Dnj4, UFU6i94, (short)1491307215, uEhM9792);
 
 if (cxax9 != hJs7M97)
 {
@@ -179,7 +179,7 @@ fz8U40 = wi3vKt(-979106630, -574452635, TLW2GKj4, N51im, x574);
 break;
 case 'e':
 case 'E':
-y80f26 = wi3vKt(y80f26, -522307639, -132259037, u0G6Dnj4, -1904283101);
+y80f26 = wi3vKt(y80f26, -522307639, (short)-132259037, u0G6Dnj4, -1904283101);
 break;
 case 'f':
 case 'F':
@@ -224,7 +224,7 @@ case 'a':
 dvRrtM = (int)ceil(GH_1t4O);
 break;
 default:
-O0yB9Wct7_ = Iqefa_(201133536, 1682610267, e7Vv, 676057879) + M32v4_;
+O0yB9Wct7_ = Iqefa_(201133536, (unsigned short)1682610267, e7Vv, 676057879) + M32v4_;
 break;
 }
 }
@@ -239,7 +239,7 @@ do
 ++j;
 for (int k = 7; k >= 0; k--)
 {
-hJ08_0QWp6 = fG11(-1023641809, 1616555993, D_Sb8GFbu9, rAGak55w_);
+hJ08_0QWp6 = fG11(-1023641809, (short)1616555993, D_Sb8GFbu9, rAGak55w_);
 }
 }
 while (j < 6);
@@ -275,7 +275,7 @@ case 'd':
 t_6j5W5 *= Iz0DnR2E;
 break;
 case 'e':
-zcde9T31 = wi3vKt(833336740, RXPe10Z, Gq3h5qk69U, 1888682778, oOmZ2gt7Pw);
+zcde9T31 = wi3vKt((unsigned short)833336740, RXPe10Z, Gq3h5qk69U, 1888682778, oOmZ2gt7Pw);
 break;
 default:
 WKH9Ot9 += Q82fMuI2;
@@ -311,7 +311,7 @@ else if (kI3v != 844781914)
 int k = 0;
 while (k < 5)
 {
-Gq3h5qk69U = wi3vKt(229889599, -591193979, -1484662432, -1840393156, -1468366139);
+Gq3h5qk69U = wi3vKt(229889599, -591193979, (short)-1484662432, -1840393156, -1468366139);
 ++k;
 }
 }
@@ -337,7 +337,7 @@ BMXOcEHP = (int)floor(GH_1t4O);
 }
 for (int i = 4; i >= 0; i--)
 {
-JCg2U = wi3vKt(-576142202, -1074638670, -1412633337, fSGZdw4, 1834870297);
+JCg2U = wi3vKt(-576142202, -1074638670, (short)-1412633337, fSGZdw4, 1834870297);
 }
 try
 {
@@ -384,7 +384,7 @@ i--;
 while (i >= 0);
 }
 
-std::cout << fG11(563565574, -1942293413, -893979459, Yh8BAQw) << std::endl;
+std::cout << fG11(563565574, (short)-1942293413, -893979459, Yh8BAQw) << std::endl;
 
 if (JCg2U)
 {

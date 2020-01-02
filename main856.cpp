@@ -21,7 +21,7 @@ unsigned short int  v3z14VfJz(long long  oKOY22mk9,long long  XP1FrqI,char  m9B9
 int main(void)
 {
   char  OEkyu51Tw,  vfh0,  nTwQo9i,  jV0Xj5,  uRAOkN6aL,  tpy92q,  UxiHyWPz,  EmHWgx,  L11oLf,  Ua21ab0d9,  J_T65,  yB5M2CN,  FJQe6V78d,  hRoWs,  b_NO,  UC286,  UyUc97,  r9N0,  D17NF89Mn,  fmhx5gZuc,  Z4_O46n,  vnQ43lEAT,  Dta2Q1dp,  R87X,  L_P7Vt,  YdD9_AAtd,  QL_3AI;
-    OEkyu51Tw  =  vfh0  =  nTwQo9i  =  jV0Xj5  =  uRAOkN6aL  =  tpy92q  =  UxiHyWPz  =  EmHWgx  =  L11oLf  =  Ua21ab0d9  =  J_T65  =  yB5M2CN  =  FJQe6V78d  =  hRoWs  =  b_NO  =  UC286  =  UyUc97  =  r9N0  =  D17NF89Mn  =  fmhx5gZuc  =  Z4_O46n  =  vnQ43lEAT  =  Dta2Q1dp  =  R87X  =  L_P7Vt  =  YdD9_AAtd  =  QL_3AI  =  1486797056;
+    OEkyu51Tw  =  vfh0  =  nTwQo9i  =  jV0Xj5  =  uRAOkN6aL  =  tpy92q  =  UxiHyWPz  =  EmHWgx  =  L11oLf  =  Ua21ab0d9  =  J_T65  =  yB5M2CN  =  FJQe6V78d  =  hRoWs  =  b_NO  =  UC286  =  UyUc97  =  r9N0  =  D17NF89Mn  =  fmhx5gZuc  =  Z4_O46n  =  vnQ43lEAT  =  Dta2Q1dp  =  R87X  =  L_P7Vt  =  YdD9_AAtd  =  QL_3AI  =  (char)1486797056;
 	long long	kgiB,	A6AtvzXu5,	jDax6x49,	JpzAc6_b,	Npm2d27;
 		kgiB	=	A6AtvzXu5	=	jDax6x49	=	JpzAc6_b	=	Npm2d27	=	0;
 

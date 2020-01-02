@@ -32,7 +32,7 @@ unsigned long long  h129723(unsigned char  DMHbyaS)  {
 int main(void) {
     long long    zOd_    =    -219508628;
 	char	BK4y99wwc	=	892440208;
-  char  rOa1j2  =  -312885152;
+  char  rOa1j2  =  (char)-312885152;
  unsigned short int E3L0aJfupU = 1800616668;
 	long	RIY2Lat	=	-1763668972;
  short int xf0I = 771245637;
@@ -45,7 +45,7 @@ int main(void) {
   int  Y2_7Km8  =  -1375433799;
     short int    oY8a1mbBU    =    0;
   short int  asi6f3Nc_  =  237084628;
-	unsigned short int	W36f97	=	-1175900171;
+	unsigned short int	W36f97	=	(unsigned short)-1175900171;
   long double  Kb1_7n  =  -739409006;
  char rc6J6r = 98067129;
 	long	yyOx4bJ_	=	1101370099;
@@ -230,7 +230,7 @@ case 0:
 Kb1_7n = (int)floor(Y482_m0);
 break;
 case 1:
-E3L0aJfupU = Amr3O(-315954400, 694185613, Y482_m0, -1106743350);
+E3L0aJfupU = Amr3O(-315954400, 694185613, Y482_m0, (unsigned char)-1106743350);
 break;
 case 2:
 oY8a1mbBU = nxebY3(560173634, 1928246556);
@@ -260,7 +260,7 @@ case 'd':
 BK4y99wwc = Hp2N6iU74();
 break;
 case 'e':
-W36f97 = h129723(-404116710);
+W36f97 = h129723((unsigned char)-404116710);
 break;
 case 'f':
 rc6J6r = Amr3O(1118418621, -1460360330, oY8a1mbBU, -1670410180) >> Mx9wg8l9Pf;

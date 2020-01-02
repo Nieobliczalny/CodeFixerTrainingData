@@ -28,7 +28,7 @@ int main(int argc, char** argv)
   unsigned int  oAhYC;
   oAhYC  =  -1560438341;
     unsigned short int    Y8wl;
-    Y8wl    =    -507707839;
+    Y8wl    =    (unsigned short)-507707839;
 	unsigned int	Co9sp;
 	Co9sp	=	1257488345;
  int vlT5Vj;
@@ -50,7 +50,7 @@ for (int i = 6; i >= 0; i--)
 {
 oAhYC |= 905245816;
 }
-Qmqxxo = IibIC5 / z6iR_qcpt(-2006234841, Ujjl9A3xs, 1537644070);
+Qmqxxo = IibIC5 / z6iR_qcpt(-2006234841, Ujjl9A3xs, (unsigned short)1537644070);
 try
 {
 HjHd = (unsigned short)(jkoX6O2i1 * HjHd);
@@ -65,7 +65,7 @@ int i = 0;
 do
 {
 i++;
-cout << z6iR_qcpt(1759698991, Ujjl9A3xs, 812701160) << z6iR_qcpt(kBI20aN, 769615421, IibIC5) << Co9sp << endl;
+cout << z6iR_qcpt(1759698991, Ujjl9A3xs, (unsigned short)812701160) << z6iR_qcpt(kBI20aN, 769615421, IibIC5) << Co9sp << endl;
 }
 while (i < 6);
 }
@@ -101,7 +101,7 @@ TgTvRqumU = eT2c(HjHd);
 }
 
 IibIC5 = (char)(bz0jE_Ox);
-cout << eT2c(431696452) << Y8wl << kBI20aN << eT2c(1784372960) << vlT5Vj << endl;
+cout << eT2c(431696452) << Y8wl << kBI20aN << eT2c((short)1784372960) << vlT5Vj << endl;
 {
 int i = 0;
 while (i < 8)
@@ -157,7 +157,7 @@ case 'a':
 HjHd = z6iR_qcpt(HjHd, Qmqxxo, IibIC5);
 break;
 case 'b':
-HjHd = z6iR_qcpt(-720197043, 720851028, 1699489937);
+HjHd = z6iR_qcpt(-720197043, (short)720851028, 1699489937);
 break;
 default:
 Co9sp += 1357464409;
@@ -205,7 +205,7 @@ else
 {
 try
 {
-cout << z6iR_qcpt(465660182, 1329777599, 1097904138) << Y4vq5n_() << Co9sp << "hA4gn0FnI" << Y8wl << endl;
+cout << z6iR_qcpt(465660182, (short)1329777599, 1097904138) << Y4vq5n_() << Co9sp << "hA4gn0FnI" << Y8wl << endl;
 }
 catch (int& errorCode)
 {
@@ -469,7 +469,7 @@ kBI20aN = Y4vq5n_();
 break;
 case 'h':
 case 'H':
-IibIC5 = z6iR_qcpt(Qmqxxo, 1486382812, 382417508);
+IibIC5 = z6iR_qcpt(Qmqxxo, 1486382812, (unsigned short)382417508);
 break;
 }
 }

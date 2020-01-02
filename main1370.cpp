@@ -103,7 +103,7 @@ try
 int j = 0;
 while (j < 8)
 {
-Ntya_0KS = bv97_Q4(529283641, 2118835672) * 1863917062;
+Ntya_0KS = bv97_Q4(529283641, (char)2118835672) * 1863917062;
 j++;
 }
 }
@@ -141,7 +141,7 @@ VZtC79V7 = (unsigned int)(w4wh4AyYT);
 }
 else if (aQhCbk)
 {
-cout << bv97_Q4(1965657361, ziJnOA5F1p) << bv97_Q4(535506849, -1294918891) << BnSY_ << endl;
+cout << bv97_Q4(1965657361, ziJnOA5F1p) << bv97_Q4((unsigned short)535506849, -1294918891) << BnSY_ << endl;
 }
 else if (VGI56y8 != 1228204404)
 {
@@ -353,7 +353,7 @@ nldz17D = qK_9vf();
 
 try
 {
-esH4iBUI = bv97_Q4(LpLX51, 283776231);
+esH4iBUI = bv97_Q4(LpLX51, (char)283776231);
 }
 catch (int& errorCode)
 {

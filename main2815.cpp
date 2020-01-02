@@ -36,7 +36,7 @@ int main(void) {
  long w988;
  w988 = -642907873;
     char    bI369q4;
-    bI369q4    =    -191294126;
+    bI369q4    =    (char)-191294126;
   long double  RtZD;
   RtZD  =  -1185950037;
 	double	Qz_Z7;
@@ -46,7 +46,7 @@ int main(void) {
 	unsigned int	t4Ph3Aj5N;
 	t4Ph3Aj5N	=	-292944409;
   short int  gUJn3J2z;
-  gUJn3J2z  =  1073119008;
+  gUJn3J2z  =  (short)1073119008;
 	unsigned long	X7Q4WtbO;
 	X7Q4WtbO	=	598915751;
     long long    Tuyom7_L1;
@@ -62,7 +62,7 @@ int main(void) {
     long double    S0Gk_vp6pQ;
     S0Gk_vp6pQ    =    491008370;
 	short	hGkIK5_R9;
-	hGkIK5_R9	=	-1595640681;
+	hGkIK5_R9	=	(short)-1595640681;
 	unsigned long	XJIKN;
 	XJIKN	=	0;
  unsigned long long KLhU7z;
@@ -72,7 +72,7 @@ int main(void) {
     short    dDk8va;
     dDk8va    =    -1343853731;
     short int    WUWhf;
-    WUWhf    =    -1282617513;
+    WUWhf    =    (short)-1282617513;
 	float	cx_IOK;
 	cx_IOK	=	-1742401389;
 	long long	haEm;
@@ -105,7 +105,7 @@ RtZD = (int)floor(cx_IOK);
 }
 if (pv8G9 <= -1897756590)
 {
-WUWhf = vt4_FB48F(1667886859, -1539790880);
+WUWhf = vt4_FB48F(1667886859, (unsigned short)-1539790880);
 }
 else
 {
@@ -422,7 +422,7 @@ case 1:
 X7Q4WtbO = Bh2U_lKI(X7Q4WtbO, Bdzo6X006, Tuyom7_L1);
 break;
 case 2:
-n1y5RwFs0w = Bh2U_lKI(n1y5RwFs0w, dDk8va, -784586487);
+n1y5RwFs0w = Bh2U_lKI(n1y5RwFs0w, dDk8va, (unsigned char)-784586487);
 break;
 case 3:
 Qz_Z7 = (int)ceil(p8v34vhzcd);
@@ -476,7 +476,7 @@ X7Q4WtbO = n1y5RwFs0w * c26r2tye0;
 break;
 case 'd':
 case 'D':
-pv8G9 = JL088H_9(pv8G9, Qz_Z7, -2099200940, 1182144839, -1939773278);
+pv8G9 = JL088H_9(pv8G9, Qz_Z7, -2099200940, 1182144839, (unsigned char)-1939773278);
 break;
 case 'e':
 case 'E':
@@ -602,7 +602,7 @@ short	JL088H_9(int	qhUsPwFGjG,long long	FRx7,unsigned long	sFqEGnfky,unsigned in
 
 unsigned short int  Bh2U_lKI(unsigned long  A_G0,int  ubld_MN4I,unsigned char  u0WgF96_)
 {
-  return  -2133752524;
+  return  (unsigned short)-2133752524;
 }
 
 long long vt4_FB48F(unsigned char p7j1bJ,unsigned short A4kKWeFR1w) {

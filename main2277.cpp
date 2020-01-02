@@ -61,7 +61,7 @@ case 2:
 bpQHbp5Ir5 = u0Vd_uHir / 1808750357;
 break;
 case 3:
-Hw8_9 = Vrm85UX(1829643876, -95015712, tvjNV_5, 1082904604, -1459637463);
+Hw8_9 = Vrm85UX(1829643876, -95015712, tvjNV_5, (unsigned short)1082904604, -1459637463);
 break;
 case 4:
 tvjNV_5 = Hw8_9 ^ WOJi_MC5N;
@@ -109,7 +109,7 @@ F1rYx77Gi1 = Vrm85UX(-780295481, 324955786, n0Ig7n, heM_, XurPB);
 }
 else
 {
-cfdwU38Lc = wohoo(-1397690751, 2016184605, -992022302, 1710903846);
+cfdwU38Lc = wohoo(-1397690751, 2016184605, (short)-992022302, 1710903846);
 }
 }
 catch (int& errorCode)
@@ -155,7 +155,7 @@ cfdwU38Lc = wohoo(eEcVQE9_, -1094579133, F1rYx77Gi1, -235532872);
 break;
 case 'c':
 case 'C':
-WOJi_MC5N = (Zt6px >= XurPB) ? tvjNV_5 : wohoo(eEcVQE9_, -1682842470, 1751826714, -1878703679);
+WOJi_MC5N = (Zt6px >= XurPB) ? tvjNV_5 : wohoo(eEcVQE9_, -1682842470, (short)1751826714, -1878703679);
 break;
 }
 if ((wr7u7 < 2053006603) || (heM_ < rLeMv))
@@ -200,7 +200,7 @@ for (int i = 0; i < 1; i++)
 heM_ = Vrm85UX(heM_, 1467508525, OQkX6K, ojM54, Zt6px);
 }
 
-std::cout << wohoo(heM_, j3A_4, OQkX6K, ojM54) << "a6RW" << cfdwU38Lc << "IaL1YE" << Vrm85UX(heM_, j3A_4, -603130455, 1265032316, Zt6px) << std::endl;
+std::cout << wohoo(heM_, j3A_4, OQkX6K, ojM54) << "a6RW" << cfdwU38Lc << "IaL1YE" << Vrm85UX(heM_, j3A_4, -603130455, (unsigned short)1265032316, Zt6px) << std::endl;
 
 {
 int i = 3;

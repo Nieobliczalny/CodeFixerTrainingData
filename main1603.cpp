@@ -108,7 +108,7 @@ std::cout << "zX_r_69F" << E3a61Do80r(-1783683796) << E3a61Do80r(1884769863) << 
 
 if ((DO_952wM_ > -2053013745) && ((saJ1 < -319501935) || (HBpt3VGZ < PTh0)))
 {
-a7IcJY = x0sRpd56w(L_H9Jf, -1657460424);
+a7IcJY = x0sRpd56w(L_H9Jf, (unsigned short)-1657460424);
 }
 
 {
@@ -364,7 +364,7 @@ Bz5q = PTh0 ^ 1712937260;
 
 if ((djp41aR / x0sRpd56w(i0KY0Rmy, -55578101)) == -1398648770)
 {
-Dzl2akC6be = wLYF2b_(i0KY0Rmy, J0q8, i46TX68) / x0sRpd56w(i0KY0Rmy, 2076088768);
+Dzl2akC6be = wLYF2b_(i0KY0Rmy, J0q8, i46TX68) / x0sRpd56w(i0KY0Rmy, (unsigned short)2076088768);
 }
 
 B3LF7 = x0sRpd56w(UN3yrbne95, 335761609);
@@ -406,7 +406,7 @@ case 1:
 nX55 = x0sRpd56w(N1_Bf, 1816783329);
 break;
 case 2:
-m08Vs7bn7f = y__d(m08Vs7bn7f, -225162742, 1068253028);
+m08Vs7bn7f = y__d(m08Vs7bn7f, (unsigned short)-225162742, 1068253028);
 break;
 case 3:
 AD8mVoNY = y__d(-1714741828, lfN7, 1138759433);
@@ -418,7 +418,7 @@ case 5:
 PTh0 = (int)abs(r_1m85rU);
 break;
 case 6:
-Ku7h87y = wLYF2b_(358023575, EKWK, -655996441);
+Ku7h87y = wLYF2b_(358023575, EKWK, (char)-655996441);
 break;
 case 7:
 z4_7_ = E3a61Do80r(1426010113);
@@ -476,7 +476,7 @@ case 3:
 D7UP_7LW = (int)abs(STj4R8Mb);
 break;
 case 4:
-RqJ5OKGGM_ = y__d(VwHE0, -617444754, 272291058);
+RqJ5OKGGM_ = y__d(VwHE0, (unsigned short)-617444754, 272291058);
 break;
 case 5:
 C86pG73j2 = E3a61Do80r(C86pG73j2);
@@ -495,7 +495,7 @@ break;
 int i = 0;
 do
 {
-std::cout << "D8anU1Ib" << x0sRpd56w(Ku7h87y, -1303842495) << B7yo4Bm0k(139490893, 722027367) << B7yo4Bm0k(Ku7h87y, 1222555408) << std::endl;
+std::cout << "D8anU1Ib" << x0sRpd56w(Ku7h87y, -1303842495) << B7yo4Bm0k((char)139490893, 722027367) << B7yo4Bm0k(Ku7h87y, 1222555408) << std::endl;
 ++i;
 }
 while (i < 4);

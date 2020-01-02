@@ -99,7 +99,7 @@ xpEH = (unsigned long long)(YMcpNFG6);
 }
 else if (tt4j8 > YMcpNFG6)
 {
-cout << Cz2ww0nHd1(141932101, -1246678624) << SsDVwG06Y(1163712092, tt4j8, -2073095949) << cM0lAL(-1331579554) << "tw_F9ku" << endl;
+cout << Cz2ww0nHd1(141932101, -1246678624) << SsDVwG06Y(1163712092, tt4j8, -2073095949) << cM0lAL((char)-1331579554) << "tw_F9ku" << endl;
 }
 else
 {

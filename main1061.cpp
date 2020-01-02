@@ -20,7 +20,7 @@ int main() {
  sKl3j74zH = 0;
   short int  oPtx_5,  C0lvc,  n8823XcJ,  xf_K6KF,  j1WT5kx,  W4o9s1D4I,  x5o6F94e,  p0QZ_zHoL;
   oPtx_5  =  2143975002;
-  C0lvc  =  1322450647;
+  C0lvc  =  (short)1322450647;
   n8823XcJ  =  -199364158;
   xf_K6KF  =  -852934572;
   j1WT5kx  =  -1160939227;
@@ -236,7 +236,7 @@ case 'd':
 xf_K6KF = xf_K6KF << 1020292991;
 break;
 default:
-sKl3j74zH = IWt54_Vt(-548522236, 278776603);
+sKl3j74zH = IWt54_Vt(-548522236, (unsigned short)278776603);
 break;
 }
 }
@@ -253,7 +253,7 @@ try
 {
 if (x5o6F94e & 1312302579)
 {
-sKl3j74zH = IWt54_Vt(p0QZ_zHoL, -814380431);
+sKl3j74zH = IWt54_Vt(p0QZ_zHoL, (unsigned short)-814380431);
 }
 }
 catch (int& errorCode)
@@ -390,7 +390,7 @@ else
 {
 try
 {
-sKl3j74zH = IWt54_Vt(j1WT5kx, 1201563625);
+sKl3j74zH = IWt54_Vt(j1WT5kx, (unsigned short)1201563625);
 }
 catch (int& errorCode)
 {

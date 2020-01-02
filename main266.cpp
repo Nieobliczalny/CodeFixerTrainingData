@@ -56,7 +56,7 @@ case 1:
 ImCc = (int)abs(KvU4);
 break;
 case 2:
-GAF1brKa = Wi79H3efU(1725205656, a4vfp3H84, W0jz, 734175803);
+GAF1brKa = Wi79H3efU((unsigned short)1725205656, a4vfp3H84, W0jz, 734175803);
 break;
 case 3:
 Vix1kY = m89E11KPjH % 1920415999;

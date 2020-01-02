@@ -69,7 +69,7 @@ std::cout << rfC8_QCwQ7 << D4Y4MfmU5k << S6Z6 << std::endl;
 std::cout << o1S0QUATv8(RIFb9Y_, Or0itTt, iy6PNN, 1947798648) << "yMr_Z" << o1S0QUATv8(RIFb9Y_, 374605571, iy6PNN, JNa9UUrU) << "gJ_9SmY" << std::endl;
 
 std::cout << IYn0K_ << zX8YI(RIFb9Y_) << zX8YI(1903464155) << zX8YI(RIFb9Y_) << std::endl;
-std::cout << J7lj << y6s_lM5 << "Ki78XTv8x" << o1S0QUATv8(RIFb9Y_, Or0itTt, iy6PNN, JNa9UUrU) << zX8YI(1702962501) << std::endl;
+std::cout << J7lj << y6s_lM5 << "Ki78XTv8x" << o1S0QUATv8(RIFb9Y_, Or0itTt, iy6PNN, JNa9UUrU) << zX8YI((char)1702962501) << std::endl;
 
 switch (J7lj)
 {
@@ -141,7 +141,7 @@ case 2:
 G3jnkN5iB /= 2035275543;
 break;
 case 3:
-H5ru8fI4 = zX8YI(-1076277125);
+H5ru8fI4 = zX8YI((char)-1076277125);
 break;
 case 4:
 wr_0ec9 = zX8YI(wr_0ec9);

@@ -207,7 +207,7 @@ else
 {
 for (int j = 0; j < 1; j++)
 {
-std::cout << wH02aYR(Dv7m_v, Q6blY289, aTzPVgtEJT, rE14SZ__) << oKX03hpKjU(Dv7m_v) << MTCb7878l(-1534776193, -1234099984, aTzPVgtEJT, rE14SZ__) << wH02aYR(Dv7m_v, 747612238, aTzPVgtEJT, rE14SZ__) << aTzPVgtEJT << std::endl;
+std::cout << wH02aYR(Dv7m_v, Q6blY289, aTzPVgtEJT, rE14SZ__) << oKX03hpKjU(Dv7m_v) << MTCb7878l(-1534776193, -1234099984, aTzPVgtEJT, rE14SZ__) << wH02aYR(Dv7m_v, (unsigned short)747612238, aTzPVgtEJT, rE14SZ__) << aTzPVgtEJT << std::endl;
 }
 }
 
@@ -354,7 +354,7 @@ aTzPVgtEJT = MTCb7878l(J9FRH_7sf5, -1294443079, Nkl4cS54, 798662594);
 }
 else
 {
-ESjw_d = wH02aYR(ESjw_d, -1252558851, -1575075162, -1941956782);
+ESjw_d = wH02aYR(ESjw_d, (unsigned short)-1252558851, -1575075162, -1941956782);
 }
 }
 else

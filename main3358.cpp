@@ -34,6 +34,7 @@ unsigned short    Gz2fDf(long    Vu8g5Cxx)
 
 int main()
 {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
   char  Zgwsvu5yi  =  980146921,  gq9wX_Ub  =  -1759026415,  Jsts_  =  -1155916052,  Q8fdF  =  -908939265,  R23RdMQFF6  =  1330855607,  aSZvfk  =  1500545056,  i_Ws  =  -1867564591,  A8NSD14iMs  =  2118989172,  kENVa59fJY  =  -2091898386,  KS5pP_PMW  =  1343213237,  TYs3d  =  1735966021,  Ag3qujum_Y  =  -460287605,  yM8Kv  =  468081868,  f0NZ2  =  -1917549446,  X13gg4Eg  =  -2143579894,  YrlQQ7B3b  =  1458292864,  B2CAF96R  =  -1440135352,  mZV70u1S  =  -2094901536,  GVDBMV  =  -1400724747,  b18192  =  1838249127,  PDkWq6  =  -855930058,  PE5Z  =  359373754,  mF6qABqUF  =  -884867042,  Qsc660  =  383331658,  H194y  =  -1329690042;
   char  jJ1ZE9  =  0;
 
@@ -178,7 +179,7 @@ case 5:
 gq9wX_Ub /= 510434871;
 break;
 case 6:
-mF6qABqUF = ty04Y(356319227, -701454817);
+mF6qABqUF = ty04Y((short)356319227, -701454817);
 break;
 case 7:
 jJ1ZE9 = Gz2fDf(1004771223);
@@ -276,7 +277,7 @@ case 3:
 H194y -= 1375962543;
 break;
 default:
-KS5pP_PMW = hHZ8f11(KS5pP_PMW, -1215938142);
+KS5pP_PMW = hHZ8f11(KS5pP_PMW, (unsigned short)-1215938142);
 break;
 }
 }
@@ -416,7 +417,7 @@ break;
 
 H194y = (char)(jJ1ZE9 + (MHjbE5xQ8));
 
-std::cout << hHZ8f11(-2105441730, -1760043517) << jJ1ZE9 << hHZ8f11(-1399857901, -198661895) << H194y << std::endl;
+std::cout << hHZ8f11(-2105441730, -1760043517) << jJ1ZE9 << hHZ8f11(-1399857901, (unsigned short)-198661895) << H194y << std::endl;
 try
 {
 try
@@ -504,7 +505,7 @@ if (X13gg4Eg & mF6qABqUF)
 {
 for (int k = 0; k < 3; k++)
 {
-i_Ws = ty04Y(1606209765, 427660827);
+i_Ws = ty04Y((short)1606209765, 427660827);
 }
 }
 }
@@ -587,7 +588,7 @@ A8NSD14iMs = Snygk(A8NSD14iMs, -1453368911, -1322750897);
 }
 if (H194y != R23RdMQFF6)
 {
-std::cout << ty04Y(637688114, 2108442357) << "OvJLkI1n_" << Ag3qujum_Y << ty04Y(2121076725, Zgwsvu5yi) << std::endl;
+std::cout << ty04Y(637688114, 2108442357) << "OvJLkI1n_" << Ag3qujum_Y << ty04Y((short)2121076725, Zgwsvu5yi) << std::endl;
 }
 else
 {

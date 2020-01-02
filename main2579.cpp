@@ -26,7 +26,7 @@ int i = 10;
 do
 {
 --i;
-A8_Lfz = BIt3qeuI(uh7_a4_YaN, 1818486311, cPPr, 592644829, Iu2Vy0K);
+A8_Lfz = BIt3qeuI(uh7_a4_YaN, (unsigned short)1818486311, cPPr, 592644829, Iu2Vy0K);
 }
 while (i >= 0);
 }
@@ -56,7 +56,7 @@ case 1:
 Jj7z_5 -= 2061292186;
 break;
 case 2:
-xjyXh19 = BIt3qeuI(ZHD_YtJ07s, -1590689937, Lu5Nw0u0, E9tju, -2049008223) | YO_U;
+xjyXh19 = BIt3qeuI(ZHD_YtJ07s, (unsigned short)-1590689937, Lu5Nw0u0, E9tju, -2049008223) | YO_U;
 break;
 case 3:
 A8_Lfz = BIt3qeuI(I59w_, isbtGW78t, EdBBQ505, Jpn2, xjyXh19);
@@ -84,7 +84,7 @@ if ((E9tju < 402573896) && (DJ42v6L4l <= jqGlb87kc))
 {
 if (((Y_d9IHI != 623237556) || (a1mhUS & q6L02LPhL)) && ((moh_c9Dw) || (Lu5Nw0u0)))
 {
-x9_80 = BIt3qeuI(1798136418, -1421673424, q6L02LPhL, 1994554964, 1810966192);
+x9_80 = BIt3qeuI(1798136418, -1421673424, q6L02LPhL, (short)1994554964, 1810966192);
 }
 }
 }
@@ -125,7 +125,7 @@ case 3:
 I59w_ %= 2002169469;
 break;
 case 4:
-a1mhUS = yr9mEReR_(a1mhUS, A97R, 503238430, LwAMn2q, -809558427);
+a1mhUS = yr9mEReR_(a1mhUS, A97R, 503238430, LwAMn2q, (unsigned short)-809558427);
 break;
 case 5:
 x9_80 = BIt3qeuI(x9_80, Jpn2, DJ42v6L4l, TU6tkpW, f9eeUd9Bym);
@@ -165,7 +165,7 @@ while (j >= 0);
 }
 }
 xjyXh19 = (unsigned short int)(E6f_XH2h + (OAzMn23_));
-y9h5o = yr9mEReR_(315047107, 1054093603, -1939130976, 2035181218, aHBAz);
+y9h5o = yr9mEReR_(315047107, 1054093603, -1939130976, (short)2035181218, aHBAz);
 cout << Y_d9IHI << "dFE3mO" << Jj7z_5 << yr9mEReR_(y9h5o, E9tju, EdBBQ505, 1112666715, -2015199647) << endl;
 H_82BB3 = -1507258198 / Z5h_dd9p0l;
 for (int i = 0; i < 7; i++)
@@ -183,7 +183,7 @@ while (j < 3);
 switch (N81W0px)
 {
 case 'a':
-Jj7z_5 = yr9mEReR_(568452365, -2077992779, 544170008, -492156671, 76957693);
+Jj7z_5 = yr9mEReR_(568452365, -2077992779, 544170008, (short)-492156671, 76957693);
 break;
 case 'b':
 TU6tkpW = UQSm_ - 1388009731;
@@ -227,7 +227,7 @@ case 0:
 l6_2P94d = w_7xN - 271974870;
 break;
 default:
-Z5h_dd9p0l = BIt3qeuI(852711108, 1909987392, -1452894658, -491995931, l6_2P94d);
+Z5h_dd9p0l = BIt3qeuI(852711108, 1909987392, -1452894658, (short)-491995931, l6_2P94d);
 break;
 }
 

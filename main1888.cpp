@@ -34,7 +34,7 @@ long long  QCf9K(unsigned short int  Ta_ALN,unsigned int  mXhjY,long long  xv8_p
 int main() {
   unsigned short int  pech5_i  =  497283046;
   int  k1_Zv__qY  =  1076082190;
-  unsigned char  xD01Lnp01  =  696873049;
+  unsigned char  xD01Lnp01  =  (unsigned char)696873049;
 	unsigned long long	B6_l	=	0;
  unsigned char zN_p2CD = 0;
   unsigned int  SY2DnHu158  =  -1594606488;
@@ -52,7 +52,7 @@ case 0:
 xD01Lnp01 ^= 1450621631;
 break;
 case 1:
-k1_Zv__qY = aX_28u_(-1433096311, -1402782794, -1259095189);
+k1_Zv__qY = aX_28u_(-1433096311, -1402782794, (char)-1259095189);
 break;
 case 2:
 SY2DnHu158 = F03H(SY2DnHu158, k1_Zv__qY, B6_l, -1917627220);
@@ -83,7 +83,7 @@ i--;
 switch (xD01Lnp01)
 {
 case 0:
-pech5_i = QCf9K(-1347256499, 899099887, 1480993996, SY2DnHu158, -858190305);
+pech5_i = QCf9K(-1347256499, 899099887, 1480993996, SY2DnHu158, (char)-858190305);
 break;
 case 1:
 SY2DnHu158 = aX_28u_(-1476795292, -167607051, 1479719973);
@@ -95,7 +95,7 @@ case 3:
 SY2DnHu158 /= 1517662402;
 break;
 case 4:
-pech5_i = QCf9K(zN_p2CD, pech5_i, 788803316, -1251428617, 350201870);
+pech5_i = QCf9K(zN_p2CD, pech5_i, 788803316, -1251428617, (char)350201870);
 break;
 case 5:
 B6_l = pQSgB88();
@@ -204,7 +204,7 @@ while (i >= 0);
 }
 try
 {
-pech5_i = QCf9K(yrc12, 1573522229, pech5_i, -784361841, -1925787447);
+pech5_i = QCf9K(yrc12, 1573522229, pech5_i, -784361841, (char)-1925787447);
 }
 catch (int& errorCode)
 {
@@ -231,7 +231,7 @@ case 4:
 xD01Lnp01 ^= pech5_i;
 break;
 case 5:
-SY2DnHu158 = aX_28u_(SY2DnHu158, -2028828852, -746119251);
+SY2DnHu158 = aX_28u_(SY2DnHu158, (short)-2028828852, -746119251);
 break;
 default:
 k1_Zv__qY |= SY2DnHu158;
@@ -269,7 +269,7 @@ case 7:
 k1_Zv__qY = (zN_p2CD <= SY2DnHu158) ? CbM3__4 : 2143568139;
 break;
 case 8:
-SY2DnHu158 = F03H(zN_p2CD, yrc12, 39879669, 468121167);
+SY2DnHu158 = F03H(zN_p2CD, yrc12, 39879669, (unsigned char)468121167);
 break;
 case 9:
 SY2DnHu158 *= 1136514775;

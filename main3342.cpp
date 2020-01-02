@@ -37,7 +37,7 @@ case 'c':
 iPAm0K62q = za_ylu - vTEV1;
 break;
 case 'd':
-OiDXF20PH = c7ihm(-1443167441, -542494351, h5eTG, uK5LOptbh, Am6L_);
+OiDXF20PH = c7ihm(-1443167441, (unsigned char)-542494351, h5eTG, uK5LOptbh, Am6L_);
 break;
 case 'e':
 n_Js04 = (int)abs(za_ylu) * 0;
@@ -175,7 +175,7 @@ else
 {
 if (X4ITGupAK)
 {
-A3aQ = c7ihm(cI8J_T, X4ITGupAK, S_8n2HP, 458995989, 1644934928);
+A3aQ = c7ihm(cI8J_T, X4ITGupAK, S_8n2HP, 458995989, (char)1644934928);
 }
 }
 }

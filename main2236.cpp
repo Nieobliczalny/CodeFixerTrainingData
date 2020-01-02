@@ -27,7 +27,7 @@ long    gyh5g3(short    vw4Y6d3W3,int    R8glH4,short    dc4fQ7S634,unsigned cha
 }
 
 unsigned short int    OW76(int    W_4K189,unsigned short int    d9xuyw)    {
-    return    -704659555;
+    return    (unsigned short)-704659555;
 }
 
 unsigned char MmxAp(unsigned short A2q_,long long HVUz0,unsigned int yHM0R6E)
@@ -37,7 +37,7 @@ unsigned char MmxAp(unsigned short A2q_,long long HVUz0,unsigned int yHM0R6E)
 
 int main(int argc, char** argv) {
 	unsigned short int	Jb_D	=	0;
-  short  Vh6Tq0  =  1684549594;
+  short  Vh6Tq0  =  (short)1684549594;
     unsigned short int    N52N    =    -56916517;
   int  kbP6GmqfWX  =  -1292744462;
 	long	zl4pE0Q1R	=	945910774;
@@ -47,7 +47,7 @@ int main(int argc, char** argv) {
 	float	D72TF7BE4	=	-616649111;
 	unsigned short int	eIKpJCF	=	-348596361;
 	double	Ey97RhYQ	=	-851549185;
-  unsigned short  p1NKoGBH  =  1976375549;
+  unsigned short  p1NKoGBH  =  (unsigned short)1976375549;
   unsigned long long  llja  =  594421009;
  unsigned short int I3A_hO = -1034075648;
  unsigned char Rrn0_96aX2 = -1928621397;
@@ -61,7 +61,7 @@ int main(int argc, char** argv) {
     unsigned long    p6m632VH    =    -717823215;
  long double Bf1bNSIV = 901659994;
 	unsigned long long	zRxUY	=	-1382010231;
-	short int	sjV6E_2s	=	1639902325;
+	short int	sjV6E_2s	=	(short)1639902325;
  int UqpCEW = 474655183;
 	unsigned char	vQ4a188RB	=	-1982573729;
   short  Ot32M804af  =  414949874;
@@ -335,7 +335,7 @@ GQ6TOazZET = gyh5g3(-1607548352, p1NKoGBH, o30VsWKvM, XTR5z2F, zRxUY);
 }
 else
 {
-tGB4EDD = OW76(-736054088, 261487230);
+tGB4EDD = OW76(-736054088, (unsigned short)261487230);
 }
 }
 }
@@ -454,7 +454,7 @@ case 6:
 GQ6TOazZET = gyh5g3(681854264, -1638447376, kbP6GmqfWX, sjV6E_2s, nqPoVnXt_);
 break;
 case 7:
-D18tHdosbx = MmxAp(618669002, -1426433440, X4uN0mY9);
+D18tHdosbx = MmxAp((unsigned short)618669002, -1426433440, X4uN0mY9);
 break;
 case 8:
 Bf1bNSIV = (int)floor(tGB4EDD);
@@ -478,7 +478,7 @@ case 'b':
 tGB4EDD = (int)floor(Ey97RhYQ);
 break;
 case 'c':
-Vh6Tq0 = gyh5g3(-1585141820, 73546549, 1647998282, CRpr, bUgM);
+Vh6Tq0 = gyh5g3(-1585141820, 73546549, (short)1647998282, CRpr, bUgM);
 break;
 case 'd':
 s82x8rTf = gyh5g3(kdaZ, s82x8rTf, -1351940271, -467070036, 1117502329);

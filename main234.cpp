@@ -15,7 +15,7 @@ int main(void) {
  unsigned short q05A9;
  q05A9 = -348353624;
     unsigned char    Yrm4CGXPPP;
-    Yrm4CGXPPP    =    -1563268847;
+    Yrm4CGXPPP    =    (unsigned char)-1563268847;
  short c9o1;
  c9o1 = 181707858;
   long  iMl48g;
@@ -29,7 +29,7 @@ int main(void) {
     long long    l40G2Zshb;
     l40G2Zshb    =    -1767898808;
   unsigned short  yu7Ml;
-  yu7Ml  =  1839876824;
+  yu7Ml  =  (unsigned short)1839876824;
     unsigned char    z36wn0Qj;
     z36wn0Qj    =    1165396444;
   long  Z47fGUIv_;
@@ -45,7 +45,7 @@ int main(void) {
  short vrUP7S;
  vrUP7S = -1615038222;
 	short	CDRI01v1v;
-	CDRI01v1v	=	93419276;
+	CDRI01v1v	=	(short)93419276;
 	unsigned long	LOt6YRyh99;
 	LOt6YRyh99	=	-290687077;
     unsigned long    oTxLaFY;
@@ -59,7 +59,7 @@ int main(void) {
  unsigned long it856E;
  it856E = 743884603;
 	char	YjtwCz7JwQ;
-	YjtwCz7JwQ	=	567411473;
+	YjtwCz7JwQ	=	(char)567411473;
 	unsigned short int	RV42iW21;
 	RV42iW21	=	-973656232;
   unsigned long  f9AZty;
@@ -77,7 +77,7 @@ int main(void) {
   float  ElPye6w1X6;
   ElPye6w1X6  =  -1608419313;
     unsigned short int    cgDM;
-    cgDM    =    -1230160559;
+    cgDM    =    (unsigned short)-1230160559;
 	double	rOc6Zc;
 	rOc6Zc	=	-1797804489;
 	unsigned short int	LaqHSgC68e;
@@ -87,7 +87,7 @@ int main(void) {
   long double  DucMm4pfFB;
   DucMm4pfFB  =  295707555;
   short int  ibT6;
-  ibT6  =  -1623545858;
+  ibT6  =  (short)-1623545858;
 	unsigned int	BQlknG4;
 	BQlknG4	=	1644148424;
 	unsigned short int	fa3h;
@@ -101,7 +101,7 @@ int main(void) {
 	long	B7Ux257I;
 	B7Ux257I	=	-1484637142;
 	char	Fro64;
-	Fro64	=	-1003203019;
+	Fro64	=	(char)-1003203019;
     unsigned long    h__e0i;
     h__e0i    =    -620952123;
     float    MlIMeRzPSM;
@@ -129,7 +129,7 @@ int main(void) {
 	long double	f77u3_1j;
 	f77u3_1j	=	-178815866;
     unsigned short int    m9hD9ogu2;
-    m9hD9ogu2    =    -758313924;
+    m9hD9ogu2    =    (unsigned short)-758313924;
  unsigned long YE7z3;
  YE7z3 = -1716651675;
  double Jo5k;
@@ -141,7 +141,7 @@ int main(void) {
  double Zvjbq0j1;
  Zvjbq0j1 = 1721280788;
  short I0Bcl;
- I0Bcl = 144253924;
+ I0Bcl = (short)144253924;
     unsigned char    oL_3cL;
     oL_3cL    =    -1689423261;
  long long x_79_G6v;

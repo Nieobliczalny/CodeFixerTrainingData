@@ -80,7 +80,7 @@ iPRVhcQ = usn7lkO ^ WgI5uWP7I;
 break;
 case 'g':
 case 'G':
-vZG5 = (s29wYIXo0R > 1782518757) ? -1254192787 : 676909281;
+vZG5 = (s29wYIXo0R > 1782518757) ? -1254192787 : (unsigned short)676909281;
 break;
 default:
 lc_OKEK5 <<= y6eCYMwbLQ;

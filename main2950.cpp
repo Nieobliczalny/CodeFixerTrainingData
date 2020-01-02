@@ -20,7 +20,7 @@ unsigned char	m2ulQw(unsigned short int	rZ5jyqv3v)
 
 short int d_1A_92()
 {
- return -295364385;
+ return (short)-295364385;
 }
 
 unsigned short  pWyuB06(unsigned long  se_4)
@@ -173,7 +173,7 @@ UN3IH9j35r = m2ulQw(1651641246);
 break;
 case 'c':
 case 'C':
-okv_6 = y10_4a1x(1974383925);
+okv_6 = y10_4a1x((short)1974383925);
 break;
 case 'd':
 case 'D':

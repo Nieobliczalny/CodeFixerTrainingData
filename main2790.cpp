@@ -19,7 +19,7 @@ int main(void)
     unsigned int    Zh0o    =    0;
  int gfqtPR8Fg = 1260437019;
   unsigned long long  O_QnV13X06  =  -1562565304;
-    char    O14WUL    =    -2083275163;
+    char    O14WUL    =    (char)-2083275163;
   long  m8KjM184j5  =  -57050221;
     unsigned int    CC4_gVl    =    -470471360;
     unsigned char    x41c4    =    -360554330;
@@ -30,7 +30,7 @@ int main(void)
  long double lwTl5T39 = 500480640;
  unsigned long long xOVHf8zB = 1923800759;
 	short	H2Ob7VCO6t	=	-1253086833;
- short SXIKXZe = 2142138920;
+ short SXIKXZe = (short)2142138920;
  float r7ICvqF = -451252047;
  unsigned char MOJeemYF = 1370128898;
   long long  lqaFjf_wF  =  -830343503;
@@ -41,7 +41,7 @@ int main(void)
   unsigned short  h6rA36q  =  0;
   unsigned short  lslnbJaObD  =  -1836660712;
   unsigned long  sDkYxi3xK  =  234160135;
-  short int  SKl478Vi  =  -1337993265;
+  short int  SKl478Vi  =  (short)-1337993265;
 	unsigned long long	p3uW2k	=	1259091047;
   unsigned char  Wu4J1f5R  =  92650376;
  unsigned char Fh9hq = 1514020847;
@@ -57,7 +57,7 @@ int main(void)
 	long double	q18Hf5G	=	1963552685;
  unsigned int BHrqk = -1441150429;
 	int	VU49_VSILS	=	-1451444950;
-  short  jilid  =  -170327116;
+  short  jilid  =  (short)-170327116;
     long long    Anv8    =    -631784312;
   short  hw0P8r9Z  =  1918880635;
     unsigned char    opa_    =    -495613078;
@@ -68,7 +68,7 @@ int main(void)
  unsigned short int mn2zuXruD_ = 1124106320;
     unsigned short int    p3J9    =    1522016647;
     long long    KGsmx9w    =    -871140983;
-  unsigned char  KFk0m5Y7HC  =  -1599808817;
+  unsigned char  KFk0m5Y7HC  =  (unsigned char)-1599808817;
 	char	G_aDl1d	=	-241235418;
     unsigned long    i2ZtYof55    =    -777896420;
  unsigned int AtQ7G_iG = 876930148;
@@ -84,7 +84,7 @@ int main(void)
 	int	Bsbj0b_HE	=	654028441;
  unsigned short int RC9XIX = 1507374653;
 	long long	w_9VgJ	=	-1973725173;
-  unsigned char  O46U7u  =  644205389;
+  unsigned char  O46U7u  =  (unsigned char)644205389;
     short    gCYeD1    =    -1058885018;
 	int	x61EYd5xVr	=	-1174635046;
  unsigned short int a_NhW = -657824213;
@@ -489,7 +489,7 @@ else if ((lqaFjf_wF & -437798367) && (T1x6v4_5 > uKDhLJm_))
 {
 for (int j = 3; j >= 0; j--)
 {
-SXIKXZe = FMQuD(366372487, -202915931, -1021248485, 60919979, -1467647777);
+SXIKXZe = FMQuD(366372487, (char)-202915931, -1021248485, 60919979, -1467647777);
 }
 }
 else if (Anv8 & -10392731)

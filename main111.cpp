@@ -114,7 +114,7 @@ BuKH = (int)floor(L034Iz8);
 break;
 }
 
-std::cout << mHrVsXXYD / SWYF1pMr(-420399225) << std::endl;
+std::cout << mHrVsXXYD / SWYF1pMr((short)-420399225) << std::endl;
 z49XeI = (int)ceil(i414U5ox6Z);
 
 XkUB = (int)abs(mFwP_8x);
@@ -154,7 +154,7 @@ else if (d_pp != mHrVsXXYD)
 {
 try
 {
-f0m_oX45 = ssH_IGnu(-1559573678);
+f0m_oX45 = ssH_IGnu((unsigned short)-1559573678);
 }
 catch (int& errorCode)
 {

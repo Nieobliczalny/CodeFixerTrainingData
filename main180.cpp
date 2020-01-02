@@ -38,7 +38,7 @@ int main(void)
  float Zy0an = -327756465;
   long  xtVqX  =  793092787;
  int uhld2t616 = 1987152131;
-	short int	zG27NB	=	-1368419741;
+	short int	zG27NB	=	(short)-1368419741;
   double  Z6T3  =  881393999;
 	char	H5LOy20K_1	=	1156449771;
   float  dHJX4  =  -1008950182;
@@ -48,7 +48,7 @@ int main(void)
 	short int	NMQ8	=	889971418;
   unsigned long long  b09fZ  =  -1681343114;
  unsigned char qQdrV = -742430150;
- unsigned short J5q785 = 1357497439;
+ unsigned short J5q785 = (unsigned short)1357497439;
     long    O4w9rlkFGm    =    946217008;
   unsigned short  MMdur2yE  =  -260004687;
 	unsigned long long	Iu9PRP0_	=	-1584752045;
@@ -59,7 +59,7 @@ int main(void)
   float  KgK87  =  -755828836;
 	long double	z_4wfW8PZ	=	1348895762;
   unsigned int  Hlidz4vK  =  459010318;
-    short int    gx3Afh    =    557009904;
+    short int    gx3Afh    =    (short)557009904;
 	unsigned char	y4VFun	=	485414109;
   unsigned long  C6j5HFHum  =  1157719932;
   short  p6NbTPDeR  =  2027872967;
@@ -69,7 +69,7 @@ int main(void)
  int ku1O291 = 2032527104;
 	unsigned short int	S4ruIW_	=	436208069;
   unsigned char  b2Nyj9  =  -747713204;
- short zNSZZb7 = 1524267651;
+ short zNSZZb7 = (short)1524267651;
   short int  zkLJq  =  1614489242;
 	short int	CE8O___a	=	310606899;
   unsigned short  GTxq1g  =  -529116647;
@@ -83,7 +83,7 @@ int main(void)
  long dC_2_qaz_i = 2110162690;
     int    b_TnMX    =    2056118846;
   unsigned long  H0033_Ub3d  =  -1131845344;
-  unsigned char  SgN1ZB4  =  25258688;
+  unsigned char  SgN1ZB4  =  (unsigned char)25258688;
     int    tt03Y3Q    =    1086957821;
  unsigned char wn1xyrrrC = 1799084630;
     unsigned char    yl8062    =    -565056799;
@@ -94,7 +94,7 @@ int main(void)
     unsigned short int    AVNS    =    1039531516;
   unsigned char  iZ3C0  =  1626100073;
     unsigned long long    Xl4ee    =    -1037629201;
- unsigned char V_4zUov_5 = -1025116583;
+ unsigned char V_4zUov_5 = (unsigned char)-1025116583;
 	float	ic6OXV4057	=	1747490918;
  short int YS7x_5oFt = -1550775037;
   unsigned char  M426dU  =  1529316845;
@@ -107,7 +107,7 @@ int main(void)
     float    UmrD6S    =    1914132046;
 	unsigned int	KJ_88ydPb	=	1153989659;
 
-uhld2t616 = Nciz(-511972163, NMQ8, -2091319601, CE8O___a, -679646650);
+uhld2t616 = Nciz((short)-511972163, NMQ8, -2091319601, CE8O___a, -679646650);
 {
 int i = 0;
 do

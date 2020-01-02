@@ -15,7 +15,7 @@ unsigned short	eQAV24Dcu5()
 
 char	AchTp06()
 {
-	return	1693498668;
+	return	(char)1693498668;
 }
 
 unsigned long  IdjbBgx(unsigned long long  USF9VvIh)

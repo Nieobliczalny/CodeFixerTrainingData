@@ -26,7 +26,7 @@ int main(int argc, char** argv) {
  long double i00h1 = 415446984;
 	unsigned short int	wwCcMe_A	=	0;
   unsigned short int  U3F8CDhOS  =  0;
-  short  PjX4  =  -124316868;
+  short  PjX4  =  (short)-124316868;
 
 if (N57I2sFMu0 <= wwCcMe_A)
 {
@@ -107,7 +107,7 @@ N57I2sFMu0 = (int)abs(i00h1);
 N57I2sFMu0 = SMdB9rHU(1528903486, U3F8CDhOS, -381757483);
 
 ve954n = i00h1 / U3F8CDhOS;
-N57I2sFMu0 = l9fWd(-2021892154, 25079069, ve954n, 69017862, -725137994);
+N57I2sFMu0 = l9fWd((unsigned short)-2021892154, 25079069, ve954n, 69017862, -725137994);
 
 std::cout << "j8ja" << PjX4 << "vwhdL17" << "BX4VYYhMK" << std::endl;
 if (i00h1 != c2k_u07_Kz)
@@ -214,7 +214,7 @@ int l9fWd(unsigned short int dyMg1bkIRj,short W8Ut8WS33d,long SH9Ksmh330,long Iy
 }
 
 short int    CHEtdyh(short    ZjVqZ0,unsigned int    ac6grz604A,short int    m8_9TPI2Sr)    {
-    return    -1415219040;
+    return    (short)-1415219040;
 }
 
 int	yEq3q(unsigned short int	nxw98JR)

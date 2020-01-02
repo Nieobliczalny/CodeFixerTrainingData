@@ -14,7 +14,7 @@ using std::floor;
 
 int main(int argc, char** argv) {
   unsigned short int  d697pL_YWY  =  -255598222;
-  unsigned short int  aIuXU_4p  =  -1341816424;
+  unsigned short int  aIuXU_4p  =  (unsigned short)-1341816424;
 	long long	Y233	=	524520609;
  long double e7w23M = -1453882652;
   float  xMF9v80m  =  -708951;
@@ -25,7 +25,7 @@ int main(int argc, char** argv) {
   unsigned char  txXaJUKAw7  =  2033163382;
     unsigned short int    L0m8H35MUr    =    470575572;
     long    p01n4N    =    1737737647;
-  short  LxLS5  =  -1560482449;
+  short  LxLS5  =  (short)-1560482449;
 	short	kF7Kqo	=	-1212637647;
 	unsigned short	aQ3X0	=	0;
 	short	YdBN5N8	=	-1853696099;

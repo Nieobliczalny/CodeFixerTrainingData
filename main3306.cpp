@@ -25,7 +25,7 @@ int main(void)
  double YPdq;
  YPdq = -796544458;
     short    M7C33K_;
-    M7C33K_    =    1172403764;
+    M7C33K_    =    (short)1172403764;
  long double tU6HlVCf;
  tU6HlVCf = -943254065;
  double hH1o9;
@@ -37,7 +37,7 @@ int main(void)
 	unsigned char	u6s6;
 	u6s6	=	412210380;
   char  Q__p2_c_;
-  Q__p2_c_  =  -1897218407;
+  Q__p2_c_  =  (char)-1897218407;
  long a8M0zRgHqD;
  a8M0zRgHqD = 0;
  long long o7PCkT17D3;
@@ -99,7 +99,7 @@ int i = 7;
 do
 {
 i--;
-n9ejpbv9 = G37B8We_(n9ejpbv9, YPdq, -1549357940, -550149712);
+n9ejpbv9 = G37B8We_(n9ejpbv9, YPdq, -1549357940, (unsigned short)-550149712);
 }
 while (i >= 0);
 }
@@ -287,7 +287,7 @@ tU6HlVCf = (int)ceil(hH1o9);
 }
 else if ((L77ixepU28) && (BUop <= -824341161))
 {
-fO46b3 = G37B8We_(-584244612, -255052289, u6s6, 1598627092);
+fO46b3 = G37B8We_(-584244612, -255052289, u6s6, (unsigned short)1598627092);
 }
 else if ((u6s6 >= M7C33K_) || (M7C33K_ < hH1o9))
 {
@@ -385,7 +385,7 @@ case 'e':
 YPdq = y0F4m006k(YPdq, -1923958885);
 break;
 case 'f':
-fO46b3 = G37B8We_(fO46b3, 1949992607, -46508008, -1548127545);
+fO46b3 = G37B8We_(fO46b3, (unsigned char)1949992607, -46508008, -1548127545);
 break;
 case 'g':
 YPdq = (int)floor(hH1o9);

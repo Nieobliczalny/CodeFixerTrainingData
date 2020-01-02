@@ -15,7 +15,7 @@ int main()
 {
     char    o_FbGXC    =    -1620432535;
  long double c9h260 = -2123789237;
-	unsigned char	Uom56	=	732856918;
+	unsigned char	Uom56	=	(unsigned char)732856918;
  unsigned int sr_JaL = -1070958154;
  float N0p127w = 295107040;
   unsigned int  JO1ht0Y6_2  =  0;
@@ -27,7 +27,7 @@ int main()
 	unsigned int	fXO_Xh96	=	1193120305;
 	long long	P1S0ic_	=	-597133513;
 	long	Rhy2K6V6Ke	=	282573875;
- unsigned char if5DI9sKjN = 2034639210;
+ unsigned char if5DI9sKjN = (unsigned char)2034639210;
  unsigned short int jqDj8_H = -15502206;
  float MFYp7Y = 912326333;
 	unsigned short int	j30HBM6V	=	1073922605;
@@ -40,7 +40,7 @@ int main()
     unsigned long    RCG5Uv9z    =    0;
     unsigned long    hks00    =    334980905;
  long double w09uNsP7C = 911683391;
-    unsigned short    TvN_    =    -1097906592;
+    unsigned short    TvN_    =    (unsigned short)-1097906592;
 	unsigned char	ZblpKrX	=	1866583823;
  long FfQF1 = -1829855802;
     long    A_4R_    =    -394410013;
@@ -58,7 +58,7 @@ int main()
     unsigned long long    T33m36d    =    1625313889;
  long double JJNIl = -868969640;
   char  eYp_fXh  =  950989505;
-    unsigned char    prVpfdPo    =    -1818530220;
+    unsigned char    prVpfdPo    =    (unsigned char)-1818530220;
 	int	ETt3OF	=	0;
  unsigned long long Ho1t_o = 69990006;
   long double  NBGFM0N_0  =  -1078741786;
@@ -72,7 +72,7 @@ int main()
  unsigned long long Z_M_Gm6mM = 1176866196;
   long  wz_6f0D  =  -1740236029;
     float    gB104NmFxV    =    1519667670;
-	unsigned short int	To474c6Hg	=	-1960036425;
+	unsigned short int	To474c6Hg	=	(unsigned short)-1960036425;
 
 Rhy2K6V6Ke = (int)abs(NBGFM0N_0);
 
@@ -119,7 +119,7 @@ int j = 0;
 do
 {
 j++;
-z83OBh = ye28hb(-806235308, 453103553, T0nQ_, 1606744297, 1923322041);
+z83OBh = ye28hb(-806235308, (short)453103553, T0nQ_, 1606744297, 1923322041);
 }
 while (j < 6);
 }

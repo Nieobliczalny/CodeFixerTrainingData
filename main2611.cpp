@@ -113,7 +113,7 @@ XW6z6_t0l = K37S(XW6z6_t0l, 1479920537);
 }
 else
 {
-dxX9 = keB2rH(R83rr, 509235022, 280374576);
+dxX9 = keB2rH(R83rr, (short)509235022, 280374576);
 }
 }
 }
@@ -128,7 +128,7 @@ short int	keB2rH(unsigned int	a4ty,short	FpAsvFI_e,unsigned short	C980npDZ)	{
 
 short int	l_5r99506H(short int	xvI57R,char	BmPpN4B57,unsigned long	YKF357tF80,char	O2n9Q,long	DY75_N)
 {
-	return	373145717;
+	return	(short)373145717;
 }
 
 unsigned int  DLN0L0t5_()

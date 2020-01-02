@@ -39,7 +39,7 @@ for (int i = 4; i >= 0; i--)
 {
 if ((Gp8x == 484613053) && (I54Rg3 != -1828579999))
 {
-std::cout << mnhqge(-1444221141, k6Zc0a5RvY, 1921621603) << GQPF5qs10z(1424474949, k6Zc0a5RvY) << uUf8(-1039528672, 2017388877, -704670972) << "XeebB7u" << std::endl;
+std::cout << mnhqge(-1444221141, k6Zc0a5RvY, 1921621603) << GQPF5qs10z(1424474949, k6Zc0a5RvY) << uUf8(-1039528672, 2017388877, (unsigned short)-704670972) << "XeebB7u" << std::endl;
 }
 else
 {
@@ -131,7 +131,7 @@ std::cout << I54Rg3 << p81O_S << "j15c" << I54Rg3 << std::endl;
 }
 }
 
-std::cout << uUf8(I54Rg3, -98767317, k6Zc0a5RvY) << uUf8(I54Rg3, -1953540477, k6Zc0a5RvY) << "IVO5" << Gp8x << std::endl;
+std::cout << uUf8(I54Rg3, -98767317, k6Zc0a5RvY) << uUf8(I54Rg3, (unsigned char)-1953540477, k6Zc0a5RvY) << "IVO5" << Gp8x << std::endl;
 mCVMbu = (char)(Gp8x * mCVMbu);
 
 k6Zc0a5RvY = myUq2Xq / No14Q6Cgd2(I54Rg3, -1832870364);
@@ -170,7 +170,7 @@ if (I54Rg3 != 1636513875)
 {
 if (((Oj7B00d == 897188963) && (Oj7B00d <= -1372997015)) && (Oj7B00d >= 1386120692))
 {
-Gp8x = uUf8(Gp8x, -1275650950, Oj7B00d);
+Gp8x = uUf8(Gp8x, (unsigned char)-1275650950, Oj7B00d);
 }
 else if (Oj7B00d != 783591081)
 {
@@ -233,7 +233,7 @@ case 'a':
 Gp8x = mnhqge(-906004323, -1140451565, -173645982);
 break;
 case 'b':
-I54Rg3 = l7B2Kno5(-727866724, 1259414544, -569135698, 166627911);
+I54Rg3 = l7B2Kno5(-727866724, 1259414544, (short)-569135698, 166627911);
 break;
 case 'c':
 p81O_S = (int)abs(mCVMbu);

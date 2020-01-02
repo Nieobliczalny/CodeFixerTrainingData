@@ -35,7 +35,7 @@ int main(void)
     unsigned int    NsE7;
     NsE7    =    -668988124;
 	char	noO4Ucw;
-	noO4Ucw	=	-617067905;
+	noO4Ucw	=	(char)-617067905;
     short    UtrA;
     UtrA    =    -963834380;
     short    D2N6Ez;
@@ -47,7 +47,7 @@ int main(void)
   float  O_kd_H9WVL;
   O_kd_H9WVL  =  -290750369;
     short int    bz16;
-    bz16    =    1955750604;
+    bz16    =    (short)1955750604;
  float gSzC7;
  gSzC7 = -1363612678;
   short  g0sQo5Yg;
@@ -65,7 +65,7 @@ int main(void)
   short int  wBE0R_beA;
   wBE0R_beA  =  447774928;
  unsigned short MJ1frTB8L0;
- MJ1frTB8L0 = -1666999826;
+ MJ1frTB8L0 = (unsigned short)-1666999826;
   unsigned short int  ClG8K;
   ClG8K  =  -1805912317;
  unsigned long B046SKO1;
@@ -79,7 +79,7 @@ int main(void)
 	short int	DLZ28;
 	DLZ28	=	-2044160291;
   unsigned short  VqdFYZU;
-  VqdFYZU  =  -873935470;
+  VqdFYZU  =  (unsigned short)-873935470;
  char v90Ofw;
  v90Ofw = 84387325;
 	char	twvAbrwzO3;
@@ -101,7 +101,7 @@ int main(void)
 	int	Dc8956_8fF;
 	Dc8956_8fF	=	1056039225;
   char  Mc51w;
-  Mc51w  =  1896275249;
+  Mc51w  =  (char)1896275249;
 	long long	s6V9N;
 	s6V9N	=	1969393365;
   unsigned char  as99VB4IPE;
@@ -117,7 +117,7 @@ int main(void)
 	unsigned long	AE_dioN3x;
 	AE_dioN3x	=	-499238165;
 	short	kN03Hz;
-	kN03Hz	=	-763622356;
+	kN03Hz	=	(short)-763622356;
   unsigned short int  ZH_zs7Nh;
   ZH_zs7Nh  =  -1577726952;
  char rc2574b72;
@@ -127,7 +127,7 @@ int main(void)
   int  tr2Ky2;
   tr2Ky2  =  836444988;
 	short int	y0IEbs;
-	y0IEbs	=	215902032;
+	y0IEbs	=	(short)215902032;
   unsigned int  AL7gA;
   AL7gA  =  0;
  unsigned int HdTk;
@@ -139,7 +139,7 @@ int main(void)
 	float	e5Ha;
 	e5Ha	=	-726087334;
   char  yEq1K_epBf;
-  yEq1K_epBf  =  1674091538;
+  yEq1K_epBf  =  (char)1674091538;
     char    bvXJO5C3;
     bvXJO5C3    =    1304790823;
     unsigned long    G_8KVj43;
@@ -151,7 +151,7 @@ int main(void)
     long double    lgAyDB;
     lgAyDB    =    -830540710;
     short    X6mPTi;
-    X6mPTi    =    -942703592;
+    X6mPTi    =    (short)-942703592;
 	short int	K7b_52B;
 	K7b_52B	=	-708786418;
     unsigned short    XRKD;
@@ -175,7 +175,7 @@ int main(void)
     char    nz_bTAV;
     nz_bTAV    =    1645684911;
     unsigned short    I9q_;
-    I9q_    =    2100917550;
+    I9q_    =    (unsigned short)2100917550;
 
 DLZ28 = (short int)(v90Ofw);
 ClG8K = (MJ1frTB8L0 < 890140087) ? m9sJi(-2014042186, oDy52R, HvDjjp3, -1980495454) : HdTk;

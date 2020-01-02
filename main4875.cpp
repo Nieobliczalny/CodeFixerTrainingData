@@ -71,7 +71,7 @@ break;
 
 aTREFPMy = O2q88gT6aT(Eo1_27T8, 697769308);
 
-me3k_o = O2q88gT6aT(163469552, 1151362407) ^ W7dP;
+me3k_o = O2q88gT6aT((short)163469552, 1151362407) ^ W7dP;
 {
 int i = 0;
 while (i < 9)
@@ -159,7 +159,7 @@ while (j >= 0);
 switch (zSGn)
 {
 case 0:
-RAjg = O2q88gT6aT(1487790048, 1190675253);
+RAjg = O2q88gT6aT((short)1487790048, 1190675253);
 break;
 case 1:
 RAjg = O2q88gT6aT(Pl6ADm, rkLWpJ);

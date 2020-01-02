@@ -24,6 +24,7 @@ unsigned short Ng921a(unsigned long long h2Lo,short yE50nKk1hw,long long Rare7_)
 
 int main(int argc, char** argv)
 {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
     short int    KGZc4T    =    -1402858636,    A0FC    =    307523631,    bOZK    =    -1991508959,    aGTyVLJz    =    -880837838,    M4Baa    =    -1712867773,    Pw_2W8q_X    =    -1171777302,    N3s1    =    1377876269,    e_9Y8q5N    =    -1146487168,    EXg_3    =    1235774884,    u03v43Z6M    =    521541636,    AIwxq0B_    =    363287444,    i15U1Po    =    -1729131277,    y_6_    =    -976803482,    bt34Ax    =    94094864,    w_c5ORx    =    2142433863,    CfZRT8y121    =    -995076002,    Rp1Y    =    751903307,    c_Tk0W55    =    -288775546,    mFuoQ3V1_    =    1704148827,    w0032ho    =    -703278523,    u4X8i    =    1807522592,    PG8zGFkdu9    =    -454622111,    i2Y0xM4f    =    681345369,    b9L_1    =    648991246,    CP_EUH    =    846427536,    r4o2FG6    =    854179033,    klT19fj    =    -1360154558,    J7Jj    =    -1018057645,    k04GE539    =    1636263600,    AA9zop2    =    1510990907,    jJq7NHw    =    166642783,    iHCj    =    -1505789479,    VNF1    =    18451801,    LcuSBfv_H2    =    -953047563,    X7WKj_    =    -258096886,    O3I1    =    -622943580,    kuQM6_h    =    -1966891237,    v95Suj_    =    -1073112294,    bqb1xsFO7r    =    -342232661,    JRFPA    =    -1197701749,    Hz1mLQel6    =    -1414128372,    DUhn    =    209388657,    n0GA4g3e    =    -1597657339,    jZ70ua    =    -40329633,    DLWn    =    598117531,    HNXA6m61    =    48908072,    HOdL8Ju8    =    -1936358640,    D_j9    =    -220315550,    Vd1TdHxi    =    -1746180310,    mYO_61J_74    =    587611020,    MG4V    =    -962579803,    VXTE6E    =    1590614297,    MxN2F    =    -830518183,    d9P1fJu_R    =    53266350,    MWX5    =    477488245,    WtgmvEQ    =    1620399090,    Y9rs2s2    =    -1617785674,    rMiDVqU    =    -960165484,    AjFKLlcz6e    =    -669514306,    Zs8prm    =    885663771,    gbpLkp__R    =    -986184352,    X9UL    =    -824901771,    Vlt70    =    -637494078,    sBtK    =    -1652476425,    Z06oV6W_n    =    1182735059,    HCmZQ35u3    =    -1113564087,    ZP3G8E    =    1469950884,    p_I4    =    -892359047,    LBqn3u    =    -231462404,    tG6HM4W    =    -1715649699,    m6070Eh9    =    1565164820,    u5vqLn    =    -365228676,    mZyrcPY    =    550117131,    dm4s1L    =    1637647337,    Bo0WS    =    -1663963032,    l5Wy97qC6    =    1499181583,    CCn6    =    -877051643,    KwbU    =    -1552289781,    NNymD_Qj3    =    1149013585,    o3v5    =    1009267510,    G54m6    =    2093730585,    YQq2f    =    1059719688,    Dj7W    =    611563173,    jJ3s7CJ6    =    1071692482,    Ur_2    =    576274344,    qzJqp    =    -29190355,    RL09Zp3    =    1134143263,    elIJ9u47Bv    =    -237638868,    F7T5ti    =    266417591;
  long long qONO_CZRC1 = 0;
 
@@ -193,7 +194,7 @@ case 0:
 tG6HM4W = gY7F(-1231619672);
 break;
 case 1:
-qONO_CZRC1 = oQtin_Ev(208501820, 309009172);
+qONO_CZRC1 = oQtin_Ev(208501820, (unsigned char)309009172);
 break;
 case 2:
 mFuoQ3V1_ *= CfZRT8y121;
@@ -307,7 +308,7 @@ d9P1fJu_R = MWX5 / oQtin_Ev(732069274, NNymD_Qj3);
 
 if ((HCmZQ35u3 < -1310599652) && (YQq2f >= klT19fj))
 {
-aGTyVLJz = (b9L_1 & mFuoQ3V1_) ? oQtin_Ev(Z06oV6W_n, 308363009) : -1041390860;
+aGTyVLJz = (b9L_1 & mFuoQ3V1_) ? oQtin_Ev(Z06oV6W_n, 308363009) : (short)-1041390860;
 }
 
 for (int i = 0; i < 6; ++i)
@@ -346,7 +347,7 @@ case 1:
 qONO_CZRC1 = oQtin_Ev(-159179949, 149593554);
 break;
 case 2:
-qONO_CZRC1 = oQtin_Ev(-1406146544, -148019910);
+qONO_CZRC1 = oQtin_Ev(-1406146544, (unsigned char)-148019910);
 break;
 case 3:
 bqb1xsFO7r >>= 1767254732;
@@ -443,7 +444,7 @@ i15U1Po = (short int)(Vlt70);
 int i = 2;
 do
 {
-std::cout << gY7F(-458288982) << c_Tk0W55 << gY7F(1629436209) << YQq2f << std::endl;
+std::cout << gY7F(-458288982) << c_Tk0W55 << gY7F((unsigned char)1629436209) << YQq2f << std::endl;
 --i;
 }
 while (i >= 0);
@@ -576,7 +577,7 @@ case 'a':
 Z06oV6W_n = gY7F(-969599685);
 break;
 case 'b':
-F7T5ti = Ng921a(F7T5ti, -1368992977, -362920613);
+F7T5ti = Ng921a(F7T5ti, (short)-1368992977, -362920613);
 break;
 }
 }
@@ -664,6 +665,6 @@ unsigned char	jJxZJE85G_()	{
 
 unsigned short Ng921a(unsigned long long h2Lo,short yE50nKk1hw,long long Rare7_)
 {
- return 1046538753;
+ return (unsigned short)1046538753;
 }
 
