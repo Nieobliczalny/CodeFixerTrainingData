@@ -78,7 +78,7 @@ int main(void)
   short int  qmqfX  =  (short)-469599890;
     unsigned long long    MmHHv    =    15401780;
   char  tE10ae  =  (char)1650858003;
-    char    Y9m23iaN1    =    544110611;
+    char    Y9m23iaN1    =    (char)544110611;
     unsigned long    Z9g41_7p8    =    -2033701162;
   unsigned int  CdZ6K0Iv  =  0;
  long double gw4hm = 1028348448;
@@ -325,7 +325,7 @@ VTcu = XUgzX - p_8dSG_B_;
 }
 else
 {
-sTfm = onVTj6_25L((short)896846649, K5i6, (unsigned char)615914755, 279085281);
+sTfm = onVTj6_25L((short)896846649, K5i6, (unsigned char)615914755, (unsigned short)279085281);
 }
 }
 catch (int& errorCode)

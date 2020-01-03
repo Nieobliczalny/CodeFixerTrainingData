@@ -126,7 +126,7 @@ int main(int argc, char** argv)
  unsigned char ZZsZ0Qm5_k = (unsigned char)1795122925;
   unsigned short  YSD7QCO0k  =  (unsigned short)-1785005383;
 	char	L1Ak_5QO	=	(char)1595803666;
- unsigned short mLc0 = 47711153;
+ unsigned short mLc0 = (unsigned short)47711153;
     short int    vDt3    =    (short)1640466693;
 	unsigned int	yjGVT1d	=	258585612;
 	unsigned long long	n01B0DNr	=	91638801;

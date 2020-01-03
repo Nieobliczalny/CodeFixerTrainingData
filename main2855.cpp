@@ -26,7 +26,7 @@ int main(void) {
  H1xddg4 = (unsigned short)-1535746482;
  VruYa129 = (unsigned short)-1448654470;
  C1_grjV = (unsigned short)1409371088;
- nhssdF75Q = 1085860335;
+ nhssdF75Q = (unsigned short)1085860335;
  c3OS9oir = 1119618302;
  SEvrt = -1895393450;
  Nhlp = -673131228;
@@ -36,7 +36,7 @@ int main(void) {
  h8Oh = (unsigned short)-1243346859;
  UFUTlMgmT = (unsigned short)-1700959475;
  I63p_ph_ = (unsigned short)1643751921;
- xUN0 = -1978297969;
+ xUN0 = (unsigned short)-1978297969;
  JGHfp82H = 1565470252;
  y3hYx = 2006772926;
  vtP3ujp = 674682124;
@@ -46,7 +46,7 @@ int main(void) {
  SJg6b9 = (unsigned short)1103883500;
  r0i82y = (unsigned short)-198724688;
  Zr7dxV5n = (unsigned short)297841376;
- iwC8ZVDWRE = 1967685823;
+ iwC8ZVDWRE = (unsigned short)1967685823;
  Ury_W2 = 289958302;
  USW8H6sX5l = 1058800631;
  XhHt = 291960530;
@@ -56,7 +56,7 @@ int main(void) {
  Y7P6um2P = (unsigned short)-1669882352;
  x6tg2 = (unsigned short)1140503098;
  UGKtk6Lf = (unsigned short)-2037553774;
- GJD1f = 1113847928;
+ GJD1f = (unsigned short)1113847928;
  J5Ld = 1131807639;
  IASXk = -2114894397;
  fw5xk51T = 1714897024;
@@ -66,7 +66,7 @@ int main(void) {
  vTGVIY = (unsigned short)325113038;
  g6M_23Go7Q = (unsigned short)-544072942;
  W98R6C9X3 = (unsigned short)-1696286817;
- w268SVh = 351055304;
+ w268SVh = (unsigned short)351055304;
  q0Dy2Eek = -1206063696;
  Ez09m = 595505509;
  IYkDL = 404757593;
@@ -76,7 +76,7 @@ int main(void) {
  v0rAuAx94 = (unsigned short)1017713024;
  SyBs = (unsigned short)-309410471;
  No1gq178pq = (unsigned short)-2910015;
- em0C90bMcq = -1545888939;
+ em0C90bMcq = (unsigned short)-1545888939;
  C2UDJ = 8130135;
  MlpBL_33B8 = 1669699895;
  l5_R39yD = -632793907;
@@ -154,7 +154,7 @@ case 'g':
 xf38 = KIyr8Qkp((unsigned char)-140526369, -1273668518, MlpBL_33B8, (char)1860271366);
 break;
 case 'h':
-k6Bs5f = ia849lh((unsigned char)-1887265002, (unsigned short)1033389330, x6tg2, -551294512);
+k6Bs5f = ia849lh((unsigned char)-1887265002, (unsigned short)1033389330, x6tg2, (unsigned short)-551294512);
 break;
 case 'i':
 LcHmC <<= 1794909561;

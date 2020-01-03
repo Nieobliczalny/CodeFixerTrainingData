@@ -43,7 +43,7 @@ int main(void)
   unsigned short  Z2Zv45O  =  (unsigned short)-305247689;
  char lBPxvp_ = (char)1120719914;
 	unsigned char	n_A_EQ6nh	=	(unsigned char)282522451;
-  unsigned short  y5PrLccR08  =  1129074616;
+  unsigned short  y5PrLccR08  =  (unsigned short)1129074616;
  unsigned short at72pcg8 = (unsigned short)-2115555709;
  long long uI78axF = 1359485616;
     long long    FHf_    =    293154234;

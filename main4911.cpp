@@ -76,7 +76,7 @@ int main(int argc, char** argv)
  char Q2X_ = (char)-1044180073;
 	short int	RzRz4W	=	(short)1923729193;
  short int P8czaYzT = (short)1472299709;
-    unsigned short int    vRsRT    =    -31875245;
+    unsigned short int    vRsRT    =    (unsigned short)-31875245;
   long long  nPU80R1  =  602865827;
 	short int	gO3HEIQgTZ	=	(short)-316994697;
   long long  sHneP  =  845412989;

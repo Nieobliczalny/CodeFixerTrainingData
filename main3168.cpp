@@ -46,7 +46,7 @@ int main(int argc, char** argv)
   unsigned short int  gzlb1_  =  (unsigned short)1336705707;
   short  L__tep  =  (short)-400614897;
 	char	VXAi6m5	=	(char)202472218;
-	unsigned short int	Zi9rv	=	1719798773;
+	unsigned short int	Zi9rv	=	(unsigned short)1719798773;
   short  fmYe28jwd9  =  0;
   unsigned short int  t_W0ygVC  =  (unsigned short)-1486376642;
   unsigned char  uQfyFQ1  =  (unsigned char)-1771830468;

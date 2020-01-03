@@ -113,7 +113,7 @@ int main()
   unsigned char  k3i5i9L4  =  (unsigned char)2114467755;
     unsigned short int    tack    =    (unsigned short)-1246471969;
     short int    k17I7s    =    (short)1347846546;
- unsigned short lCCdP2 = 114752738;
+ unsigned short lCCdP2 = (unsigned short)114752738;
  float MX8Jwb6dv = -346804244;
  unsigned long long Vyffe48A1 = 430262990;
     unsigned short    Bo81o_    =    (unsigned short)-1308108692;
@@ -125,7 +125,7 @@ int main()
 	unsigned short	HxtZ99SM	=	0;
   short int  U_KHnmQe  =  (short)-2143982227;
     unsigned short int    wkfzD0    =    (unsigned short)-1131934874;
-    unsigned short    toHbsH5eOM    =    1337971501;
+    unsigned short    toHbsH5eOM    =    (unsigned short)1337971501;
   unsigned int  Eb2ZnGEF  =  1863673512;
 	long	Pl187	=	1030194770;
  short int cHNt5EC = (short)-1348161324;

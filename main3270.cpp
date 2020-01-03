@@ -91,7 +91,7 @@ int main(int argc, char** argv)
   unsigned int  a5dPf  =  534605705;
     short    CKB_9RG71c    =    (short)602781930;
 	short int	Kh_eo	=	(short)-1533303189;
-    unsigned short int    u5maJN_Ahp    =    -1170511790;
+    unsigned short int    u5maJN_Ahp    =    (unsigned short)-1170511790;
   double  C0y25n  =  838356357;
 	long long	c5WY277GV2	=	-1857485266;
     short int    b3PE4_j    =    (short)1081479156;

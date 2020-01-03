@@ -61,7 +61,7 @@ case 'h':
 y8mh0 = m9iR((unsigned char)-348354855, U_9DYf, SbX8XCcnh, (short)-751789089, zjt7) ^ WK0aQN7j1;
 break;
 case 'i':
-Zr_G_ms = m9iR((unsigned char)2140035379, Zx7PsqX, 636959682, -629427407, 2064089586);
+Zr_G_ms = m9iR((unsigned char)2140035379, Zx7PsqX, 636959682, (short)-629427407, 2064089586);
 break;
 case 'j':
 NzE6 *= T8e5UsBL;
@@ -430,7 +430,7 @@ break;
 
 cout << m9iR((unsigned char)-1495242902, 1506756073, 1673557895, (short)-683830544, (unsigned char)214657537) << "nLUfxqn" << Fj0zaa_tN << endl;
 
-cout << m9iR(WK0aQN7j1, G5yXvp9bn, Fj0zaa_tN, iWuZL_eZ, (unsigned char)1850010573) << m9iR(WK0aQN7j1, G5yXvp9bn, Fj0zaa_tN, (short)-260394610, 1804086140) << U_9DYf << m9iR(WK0aQN7j1, 753935970, 1147891997, 1761533956, ntocYh) << "MPQgc" << endl;
+cout << m9iR(WK0aQN7j1, G5yXvp9bn, Fj0zaa_tN, iWuZL_eZ, (unsigned char)1850010573) << m9iR(WK0aQN7j1, G5yXvp9bn, Fj0zaa_tN, (short)-260394610, (unsigned char)1804086140) << U_9DYf << m9iR(WK0aQN7j1, 753935970, 1147891997, 1761533956, ntocYh) << "MPQgc" << endl;
 return 0;
 }
 

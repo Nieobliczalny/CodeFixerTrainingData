@@ -38,7 +38,7 @@ int main() {
 	long double	b_ht	=	1373244375;
  unsigned short int k7xlSrDp75 = (unsigned short)1859373537;
 	char	v84Y99	=	(char)-1026423972;
- short V53AJ44BC = 413981028;
+ short V53AJ44BC = (short)413981028;
  long long evxf6 = -1962819571;
     unsigned int    k_OS    =    -1717770083;
     unsigned int    zRMW    =    -1158782318;

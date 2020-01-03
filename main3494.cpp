@@ -20,7 +20,7 @@ int main(void) {
     hT__Vy    =    (short)-1434472045;
     JJV9x5    =    (short)1730919316;
     jK8l    =    (short)1551214132;
-    z4R_    =    297142946;
+    z4R_    =    (short)297142946;
   long long  aUuZq,  yasX3TnI7w,  nIp1;
   aUuZq  =  0;
   yasX3TnI7w  =  0;

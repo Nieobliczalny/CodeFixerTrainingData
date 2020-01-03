@@ -37,7 +37,7 @@ int main(int argc, char** argv) {
  unsigned short CR0ZS5_p8_ = (unsigned short)1468438434;
     short int    AL79    =    (short)1464206214;
     long double    rV1dNJA7    =    -236102967;
-    unsigned short    e4iZ60    =    92748013;
+    unsigned short    e4iZ60    =    (unsigned short)92748013;
 	unsigned char	jL1vd	=	(unsigned char)-1692496122;
   unsigned short  EZP5  =  (unsigned short)-2100322408;
     unsigned short    N3GL    =    -827465612;

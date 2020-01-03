@@ -61,7 +61,7 @@ Q0jVdsqv7q = U8_m0(P_9ZdSD_5, sNfeGQE4ZV);
 
 Z0TVo = (unsigned short)(nNMz);
 WhUz2 = C72Z1(WhUz2, (unsigned short)1885074821, sNfeGQE4ZV, 236615667, (short)-1920414795);
-cout << "qatGX0U_" << "UYNit7" << "UmR3LQI6_" << C72Z1(WhUz2, Rg19yn62, 373364283, sVFkFTFL, Z0TVo) << EsH2_2k69x << endl;
+cout << "qatGX0U_" << "UYNit7" << "UmR3LQI6_" << C72Z1(WhUz2, Rg19yn62, (unsigned short)373364283, sVFkFTFL, Z0TVo) << EsH2_2k69x << endl;
 
 try
 {
@@ -351,7 +351,7 @@ case 1:
 UQdX = C72Z1(FMoy_1Sp, (unsigned short)905319930, (unsigned short)-1861066561, -408700720, (short)-1157523676) << 992242070;
 break;
 case 2:
-yK32UZS_8a = C72Z1((unsigned short)520413801, -77639326, -1332714414, EsH2_2k69x, ML799jz);
+yK32UZS_8a = C72Z1((unsigned short)520413801, (unsigned short)-77639326, -1332714414, EsH2_2k69x, ML799jz);
 break;
 case 3:
 UQdX = (int)abs(FMoy_1Sp);

@@ -29,7 +29,7 @@ int main(int argc, char** argv)
  xy42 = (char)-1142786037;
  LB69rPBX = (char)-4177435;
  Q7F_3x3WkB = (char)72586966;
- Cl6E_MxAR = -1809526588;
+ Cl6E_MxAR = (char)-1809526588;
  cz_H = -799652667;
  rw8S = 1444258370;
  u109dI_059 = 218320960;
@@ -39,7 +39,7 @@ int main(int argc, char** argv)
  J11s = (char)-1906635905;
  YZwPt3 = (char)1766614716;
  Aj09 = (char)-1861132224;
- I_6G = 1688557773;
+ I_6G = (char)1688557773;
  RSFVWfy = 1833168776;
  OqnOf5 = -997248800;
  H30uxM65 = -1844778369;
@@ -49,7 +49,7 @@ int main(int argc, char** argv)
  GW_vvJ = (char)1683435850;
  he2Y2_mJ = (char)1406005751;
  B7A8 = (char)82904907;
- WPQ4y11_L = 2064231327;
+ WPQ4y11_L = (char)2064231327;
  lNT7n = 68327598;
  fRAN7H = -186775592;
  za9Bmka8W = -433336229;
@@ -59,7 +59,7 @@ int main(int argc, char** argv)
  aT3_8kd8V5 = (char)281031308;
  t4Oe6zK = (char)-1216584435;
  Guf_gBSYO = (char)-1836644617;
- dN58 = 1372593402;
+ dN58 = (char)1372593402;
  cVs7 = -1126121472;
  Z3vkK3PT1q = 452301068;
  w1ng = 1586503035;
@@ -69,7 +69,7 @@ int main(int argc, char** argv)
  wjn7 = (char)2086448748;
  b1LHPh3 = (char)-2125169811;
  whn3 = (char)106412764;
- J_1osdp = -86292525;
+ J_1osdp = (char)-86292525;
  Rl15f652Z = -614077347;
  Vc3jh4K5L_ = -878565033;
  jm9U70 = -330037376;
@@ -79,7 +79,7 @@ int main(int argc, char** argv)
  h6kot__8 = (char)-1070638107;
  WJpt6 = (char)-1863681597;
  Ja811M = (char)-1547681950;
- A9ZLN2 = 936364749;
+ A9ZLN2 = (char)936364749;
  kFZ8cKtx7 = -1186944152;
  isz_amk5 = 817692790;
  kfclPeIN = -1845085749;
@@ -89,7 +89,7 @@ int main(int argc, char** argv)
  tH1f8rtg = (char)-914041011;
  BN2Se2 = (char)-724771490;
  bXaq8JVB = (char)1381524742;
- n77o = -1841118811;
+ n77o = (char)-1841118811;
  ZLVf_ = 1318543668;
  Lrb0_ = 1304725250;
  V0ib32rN = 1508263344;
@@ -99,7 +99,7 @@ int main(int argc, char** argv)
  H3t2S = (char)961541286;
  i2rhotp = (char)961432667;
  I1qluvO1 = (char)662784282;
- P1XCj1Pn = 749197901;
+ P1XCj1Pn = (char)749197901;
  dgzfl = 1859172279;
  tgMIxPTX = -1287987744;
  eVfh = 2097905039;
@@ -109,7 +109,7 @@ int main(int argc, char** argv)
  DgNBllX = (char)-1732161858;
  OG7MHwK5 = (char)-310873032;
  gA5fK6G = (char)42361879;
- Ajer_RL = 1266526809;
+ Ajer_RL = (char)1266526809;
  ezF1CklXI1 = 2025240242;
  nmUH6ZnUVX = -522627691;
  Zz2M4o = -946952194;

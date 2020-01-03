@@ -80,7 +80,7 @@ int main(void)
 	float	Kr7mXu	=	-393688444;
 	long long	gFM9	=	1599553992;
     short    jSsodyJ2    =    (short)1414109995;
-    unsigned short int    M36nZ3pC    =    -332395273;
+    unsigned short int    M36nZ3pC    =    (unsigned short)-332395273;
 
 if ((rhsxp0j >= dn7q) && (OkT_ & dn7q))
 {

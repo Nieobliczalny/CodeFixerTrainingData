@@ -34,7 +34,7 @@ int main() {
  u0X9zG_ = (short)387550236;
  Gv42c1 = (short)1816881915;
  nnPhr = (short)-331422951;
- yIcfrD = 1889396305;
+ yIcfrD = (short)1889396305;
  I050 = -1430502584;
  bTIKpmS1Q = -624178730;
  E1w9qV_E58 = 1903917381;
@@ -44,7 +44,7 @@ int main() {
  L86cOV2YP = (short)2008883426;
  g4dvk00 = (short)1415274989;
  AFfq1F = (short)1930457664;
- a8RLU = -870031138;
+ a8RLU = (short)-870031138;
  G2An = -560467518;
  E6_A9179 = -501626062;
  xIUReAdT = 319593950;
@@ -54,7 +54,7 @@ int main() {
  klkgYh9sBt = (short)-1521629974;
  es61KiVQ1N = (short)-1327904753;
  b24R3CK = (short)350247981;
- pO02eu9a44 = 1421060024;
+ pO02eu9a44 = (short)1421060024;
  W513_wc = -987579613;
  VSsWyB5A9 = -814197120;
  Cbm8e2086 = -1051801728;
@@ -64,7 +64,7 @@ int main() {
  R9O5j = (short)-701128282;
  P5339 = (short)1430671142;
  P4t68L6IXN = (short)-737725794;
- ycWkXH = 565518433;
+ ycWkXH = (short)565518433;
  FeUPIBG = 450803022;
  L_B_Y517T = 858634871;
  dZbHUyV9 = -1627244140;
@@ -74,7 +74,7 @@ int main() {
  g390bqdy = (short)-1847213074;
  i6CwX7w9 = (short)1522621973;
  W23S9 = (short)1393420448;
- vGarCg2 = 1047663072;
+ vGarCg2 = (short)1047663072;
  WseZjIi = 452715268;
  l2_060pC09 = -913658366;
  r119 = 487271976;
@@ -84,7 +84,7 @@ int main() {
  qn39gTJ0R = (short)-387107563;
  QkIM = (short)-468161275;
  I9heDJ1 = (short)-1970601490;
- toy1Pj_K = -1573921277;
+ toy1Pj_K = (short)-1573921277;
  k644Pcm8 = -354866793;
  J_yW3 = 2129776826;
  SJGV = 1313079735;
@@ -94,7 +94,7 @@ int main() {
  a2K21bo2C0 = (short)71828675;
  s7xPS9 = (short)-139434621;
  bSjy = (short)-125975361;
- ydL5 = -484805139;
+ ydL5 = (short)-484805139;
  s4RovG = -190975023;
  jjX_U4 = 749384205;
  wZ20ULJ0 = -550369833;
@@ -104,7 +104,7 @@ int main() {
  h_i81 = (short)1320261483;
  W7X6dW = (short)1711554220;
  k61A_39tl = (short)1717900049;
- U5Pt8 = 903810294;
+ U5Pt8 = (short)903810294;
  lZ_PMH8G = 432242111;
  C3tj9tZh_ = 1571944737;
  R207v = 1974026305;
@@ -114,7 +114,7 @@ int main() {
  B_8_qD4wZ = (short)903306795;
  s8AiXD = (short)378731905;
  L832J9g = (short)1614951635;
- uR_Y = 1739906990;
+ uR_Y = (short)1739906990;
  Sn4H17AFJq = 768758372;
  u4H494 = -985225885;
  X238O = -673876658;

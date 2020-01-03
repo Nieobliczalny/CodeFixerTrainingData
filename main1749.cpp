@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
     long    BpYMQNHMP    =    -1968489225;
   unsigned short int  FpuBoy  =  (unsigned short)44639827;
  unsigned short EjhWV0k_ = (unsigned short)-1749962121;
-    char    r3hv    =    1783487411;
+    char    r3hv    =    (char)1783487411;
 	int	zv2ojy	=	0;
     short int    P4O4FLpK1    =    0;
   unsigned long  oRH7z6AZJ0  =  0;

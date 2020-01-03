@@ -84,7 +84,7 @@ int main(void) {
     short    cZUoU0    =    (short)1244721509;
     unsigned short int    WB9Z    =    (unsigned short)1263237307;
  unsigned long Om6v = -1153579522;
- unsigned short A62jMs_0 = -48959916;
+ unsigned short A62jMs_0 = (unsigned short)-48959916;
 	long	Y50cFS6	=	782249563;
   long double  rr1r0_U  =  137870781;
  unsigned long long rVR92_ = 1897205517;

@@ -56,7 +56,7 @@ int main(void)
   double  t8hNMC0y  =  -1253178045;
 	unsigned short int	gJbU4	=	(unsigned short)459621921;
  unsigned char eeb75MAb = (unsigned char)-653724576;
-    unsigned short    sX_3i_4v_    =    -1199733187;
+    unsigned short    sX_3i_4v_    =    (unsigned short)-1199733187;
 	long double	e_QGZF2wQD	=	-1587682036;
   short  HF8aL  =  (short)602035519;
   long double  A73ZCpd  =  1760532833;

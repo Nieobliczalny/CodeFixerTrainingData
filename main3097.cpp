@@ -24,7 +24,7 @@ int main(void)
   long long  q_9e1  =  0;
 	short int	G0OG7jZr_l	=	(short)-585542167;
     char    Hw5rN21P_    =    (char)1779154420;
-  unsigned short int  D7NqG  =  -647333909;
+  unsigned short int  D7NqG  =  (unsigned short)-647333909;
   float  kVxIr  =  -713610527;
     short    U_xV8    =    (short)-1841953207;
 	unsigned long long	wwm6ut	=	-285350007;

@@ -63,7 +63,7 @@ int main(int argc, char** argv) {
 	short	xoi8zCJG	=	(short)-1389033974;
  unsigned short n_3l5w = (unsigned short)-1731368595;
  unsigned short CYEAeG2v = (unsigned short)-234997205;
-  char  L1KOYYQf3  =  500490365;
+  char  L1KOYYQf3  =  (char)500490365;
   double  tQ7V  =  -1896701760;
     unsigned int    C7TtzCY8    =    -879360845;
  unsigned short n__s = (unsigned short)-158084388;

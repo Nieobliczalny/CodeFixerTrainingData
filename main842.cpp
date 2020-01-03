@@ -42,7 +42,7 @@ int main() {
     short int    uzm_    =    (short)1170980419;
  float bN5r5r2N1_ = -436496130;
 	unsigned short int	N8iOwn7	=	(unsigned short)1783843717;
-    unsigned short    e072GH4o    =    -1897993142;
+    unsigned short    e072GH4o    =    (unsigned short)-1897993142;
   long double  gB_o754  =  142369106;
  long Mc3gpvE1 = 583536007;
 	double	Sp4r1_w7s	=	1848822238;

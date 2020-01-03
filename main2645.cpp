@@ -441,7 +441,7 @@ case 3:
 mintD = KN368E0((unsigned short)-1037972643, (unsigned short)1644051049);
 break;
 case 4:
-mintD = KN368E0(PdY_SV, -426325402);
+mintD = KN368E0(PdY_SV, (unsigned short)-426325402);
 break;
 case 5:
 rUU_oH >>= 2071573495;

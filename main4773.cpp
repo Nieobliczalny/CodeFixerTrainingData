@@ -36,7 +36,7 @@ int main(int argc, char** argv)
 	yuiDXm2	=	(short)-723279926;
 	qcrU	=	(short)-1181821079;
 	tri5	=	(short)-180437669;
-	FdM8sfM	=	-658748854;
+	FdM8sfM	=	(short)-658748854;
 	W_5kD1c7po	=	1097919722;
 	uoeOt3	=	759702351;
 	X7ze	=	1505198369;
@@ -46,7 +46,7 @@ int main(int argc, char** argv)
 	TDY98zq	=	(short)-938531555;
 	vS9AFVl41P	=	(short)-171511242;
 	JtzPXvQ4	=	(short)-1843547596;
-	TYF2BX3J49	=	1031524559;
+	TYF2BX3J49	=	(short)1031524559;
 	m1Qc7I	=	-1028974133;
 	b7_Df	=	1081034178;
 	t5_54V8	=	-860287794;
@@ -56,7 +56,7 @@ int main(int argc, char** argv)
 	Fr_oJ6cIm	=	(short)1092215014;
 	QVv9CMl4	=	(short)1492497904;
 	LpqzxYFe_D	=	(short)-1603083629;
-	sN877P5tR6	=	-827188281;
+	sN877P5tR6	=	(short)-827188281;
 	UaBd1fNW6	=	1891782006;
 	bZOeRiVO	=	-1154805488;
 	K0wul_cOap	=	-706146263;
@@ -66,7 +66,7 @@ int main(int argc, char** argv)
 	bQC5Hk5	=	(short)1179508705;
 	uad84	=	(short)361581954;
 	a4NorF4Xy	=	(short)1783798072;
-	amSF7	=	-1580668771;
+	amSF7	=	(short)-1580668771;
 	Rv8W5HHHU	=	-571641737;
 	OPYD_J	=	972269204;
 	zZU78gS	=	348094268;
@@ -76,7 +76,7 @@ int main(int argc, char** argv)
 	FS603OM9	=	(short)-1150521585;
 	Y_NbFuyZ	=	(short)1994186538;
 	Q9Y07K0OAt	=	(short)-1892060814;
-	tR_4lf	=	-1399019982;
+	tR_4lf	=	(short)-1399019982;
 	qZTxV	=	-1362036449;
 	T13KVMWd43	=	-1034962754;
 	b_928l	=	2008619956;
@@ -86,7 +86,7 @@ int main(int argc, char** argv)
 	G_JLrK_GrZ	=	(short)-1202952881;
 	dBGg_6	=	(short)168480615;
 	gPu1DGKkXf	=	(short)-1206428762;
-	ek5gQn_Bo	=	-152044296;
+	ek5gQn_Bo	=	(short)-152044296;
 	y_Tc2AP	=	-1392724379;
 	ED9z1My9	=	-2072270159;
 	DdWGD	=	1819153244;
@@ -96,7 +96,7 @@ int main(int argc, char** argv)
 	owb5x	=	(short)1715038629;
 	jSRBk9lwV	=	(short)797977646;
 	lr7W	=	(short)-1371845760;
-	EQH3OnAW9Z	=	549732454;
+	EQH3OnAW9Z	=	(short)549732454;
 	pissUMuT	=	588597456;
 	sv5If2sa3f	=	-2070792009;
 	W0yPU50mde	=	1313007808;
@@ -106,7 +106,7 @@ int main(int argc, char** argv)
 	M_C8181	=	(short)333245239;
 	tYpTpi5SBr	=	(short)-1089801629;
 	L35B4n6yA	=	(short)1418973461;
-	eyFe	=	1149937664;
+	eyFe	=	(short)1149937664;
 	MYL2oI0C	=	-1185665421;
 	oFkD5lL_	=	2096475431;
 	Kmjo0LfTa	=	1653283504;

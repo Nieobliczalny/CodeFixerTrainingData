@@ -36,7 +36,7 @@ int main(void)
  short Uw1n = (short)-367837907;
   long  u189vv  =  0;
     char    eHZXXN    =    (char)1713114170;
- short int eP_7hq0_2 = 180614274;
+ short int eP_7hq0_2 = (short)180614274;
  float Q3s86C4u2l = 1840068478;
     unsigned long long    Bj94_2ql    =    -366138772;
 	float	q2LI150ILF	=	306630610;

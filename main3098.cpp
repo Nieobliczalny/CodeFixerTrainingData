@@ -63,7 +63,7 @@ int main(int argc, char** argv)
   unsigned short int  vTTiA7  =  (unsigned short)524711094;
     unsigned short int    fbW7t    =    (unsigned short)-1404377818;
   unsigned char  TcU0_  =  (unsigned char)-945356043;
-  unsigned short  ugR02SzP0  =  441044750;
+  unsigned short  ugR02SzP0  =  (unsigned short)441044750;
   short int  prxaVDS  =  (short)-1203515650;
     float    A8S2aD8E    =    -1278364894;
 

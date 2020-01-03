@@ -344,7 +344,7 @@ case 3:
 JDoUT0j = H40jPnL((unsigned short)-2003935303, (short)1599401394, (short)1409064739);
 break;
 case 4:
-fQC01v = H40jPnL((unsigned short)-725122093, (short)-2051707374, -515325549);
+fQC01v = H40jPnL((unsigned short)-725122093, (short)-2051707374, (short)-515325549);
 break;
 case 5:
 OFDG132++;

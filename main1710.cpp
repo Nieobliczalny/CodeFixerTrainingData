@@ -59,7 +59,7 @@ int main()
 	long	va72H	=	-1115656344;
   char  Xk502Q  =  (char)1584879524;
 	char	T25wu	=	(char)1266758790;
-  char  ZtjDukH  =  375420504;
+  char  ZtjDukH  =  (char)375420504;
   unsigned char  HETS1s_CO_  =  (unsigned char)456547747;
     char    s1w8uI    =    1882748976;
  unsigned short int m_X8i = (unsigned short)-2100261892;
@@ -115,7 +115,7 @@ int main()
  char fdJ56c3rQf = (char)-1051332124;
 	short int	MU7M	=	(short)-1003401257;
 	char	UCur0de7	=	(char)582658360;
-	unsigned char	k523m7D4e	=	1200345727;
+	unsigned char	k523m7D4e	=	(unsigned char)1200345727;
  long J9n96 = -1566247364;
 	char	XaYQ_V	=	(char)-2116168029;
 

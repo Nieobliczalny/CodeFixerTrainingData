@@ -119,7 +119,7 @@ int main()
   double  e18Q  =  1107276959;
   long double  eq4uj  =  -1845684926;
     short int    P548R6RZ3Y    =    (short)1601362012;
-    short int    i_6chzdF1    =    1632995444;
+    short int    i_6chzdF1    =    (short)1632995444;
   double  E5_9o  =  1707164732;
  double h7_96 = 1972265653;
 	unsigned long long	Fwq728_	=	-825340169;

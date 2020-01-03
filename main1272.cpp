@@ -17,7 +17,7 @@ int main(void)
   BcJUkQ6  =  (unsigned short)518262547;
   hMf09jvWd  =  (unsigned short)-1031473975;
   wf1t0  =  (unsigned short)-1732500570;
-  i_eNz7x5  =  697105745;
+  i_eNz7x5  =  (unsigned short)697105745;
   SGhd8  =  -1618673455;
   t3Tt7oRI  =  -173309976;
   wJltWRv9  =  1763814254;
@@ -27,7 +27,7 @@ int main(void)
   Oe42  =  (unsigned short)-461731441;
   N_Tf_VL  =  (unsigned short)1232176817;
   M3nx108n  =  (unsigned short)-2036609460;
-  yrZ7_61qn  =  1730642946;
+  yrZ7_61qn  =  (unsigned short)1730642946;
   o5rz5  =  -1509266927;
   QwL188G  =  1768992034;
   ey_baM3IN  =  -608020909;
@@ -37,7 +37,7 @@ int main(void)
   B7rU6YbGQR  =  (unsigned short)-1100261076;
   pGCtAu  =  (unsigned short)-1331851811;
   X03Ke77_7o  =  (unsigned short)-1842505747;
-  U2qPkxGm  =  750499710;
+  U2qPkxGm  =  (unsigned short)750499710;
   IlAomHpS6  =  332800692;
   w3Q9  =  1876790865;
   t0K8  =  -395458903;
@@ -47,7 +47,7 @@ int main(void)
   Y85jvunY4  =  (unsigned short)-1278286950;
   S8yeVa  =  (unsigned short)-1363965371;
   UW337ZC  =  (unsigned short)662992237;
-  TiJ53bOJ  =  1424678358;
+  TiJ53bOJ  =  (unsigned short)1424678358;
   W8Yt7  =  -1436183210;
   la8S  =  -767961866;
   K1h6z1B  =  667329724;
@@ -57,7 +57,7 @@ int main(void)
   O5U5T5L  =  (unsigned short)1657843535;
   r7d1x  =  (unsigned short)-440556394;
   o4fGPFWey  =  (unsigned short)-516509231;
-  c7Jbs3  =  -1054124278;
+  c7Jbs3  =  (unsigned short)-1054124278;
   MmGLy6  =  -1320086511;
   J4zq31  =  271559457;
   K6whDF  =  1041797360;
@@ -67,7 +67,7 @@ int main(void)
   H7fV2u  =  (unsigned short)-1532453253;
   IP9067C  =  (unsigned short)-2018033339;
   oC_13n5  =  (unsigned short)126811040;
-  bX7921bZ7P  =  694756268;
+  bX7921bZ7P  =  (unsigned short)694756268;
   FV2ou18H5s  =  -1222853129;
   ID44vv  =  -1293684190;
   Khgn  =  943470323;
@@ -77,7 +77,7 @@ int main(void)
   y2707_1  =  (unsigned short)-901050912;
   Hekr  =  (unsigned short)-1076399814;
   i23iBf2  =  (unsigned short)1380327942;
-  X26IxrqtY  =  -2115999305;
+  X26IxrqtY  =  (unsigned short)-2115999305;
   JLDylib_  =  1987102698;
   TvCq9Vit_Y  =  406107933;
   h_g6  =  965408305;

@@ -81,7 +81,7 @@ int main(void) {
     unsigned short int    Pl9nXm    =    (unsigned short)-1429743340;
 	unsigned short int	uCZ_BH9a	=	(unsigned short)-134962897;
  unsigned short int N_t1KLzc9 = (unsigned short)213654928;
-    unsigned char    U_gwiW    =    -1609216957;
+    unsigned char    U_gwiW    =    (unsigned char)-1609216957;
 
 if (U_gwiW <= d2Pt86_Ooa)
 {

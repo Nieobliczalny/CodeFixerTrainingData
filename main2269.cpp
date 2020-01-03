@@ -30,7 +30,7 @@ int main() {
   long  ABO0_59o  =  0;
   short  ayGp1W5z  =  (short)1432776263;
     short int    Qx5XQNXUoa    =    (short)1298546116;
-  char  cM34mE  =  2080264449;
+  char  cM34mE  =  (char)2080264449;
  unsigned short Z90pV = (unsigned short)820072786;
  unsigned int ms4_AyzaEn = -875395217;
 	char	zuYFJZu	=	(char)-1024173087;

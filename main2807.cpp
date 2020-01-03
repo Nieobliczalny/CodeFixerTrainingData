@@ -45,7 +45,7 @@ int main(void)
  long long Ks7oA = -581463374;
 	unsigned short int	cN4YWCeC	=	(unsigned short)1959226866;
     short int    e0had    =    (short)1375116201;
-	short	bNS94s_b	=	-1068891837;
+	short	bNS94s_b	=	(short)-1068891837;
     int    d8O8zq64    =    2146753811;
  long cEO1 = -834457183;
  short int I40t08pw = (short)1042171411;
@@ -92,7 +92,7 @@ int main(void)
     unsigned char    Cii_lcS    =    (unsigned char)572176660;
  char V2caoPfq1 = (char)-686293247;
     unsigned short    W3eYdt387    =    (unsigned short)593790164;
-	short int	V7TQoY2A	=	-1707851759;
+	short int	V7TQoY2A	=	(short)-1707851759;
 
 oRja0Mm = (unsigned short int)(cEO1);
 if (LU18RhnW != 341175973)

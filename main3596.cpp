@@ -18,7 +18,7 @@ int main(void)
     short int    L86208lh    =    (short)-492984028;
     unsigned short    B0eZ2v    =    (unsigned short)658120014;
     unsigned char    KiO4Ql6I4r    =    (unsigned char)-1272575658;
- short int kp_IVv43 = 1235070265;
+ short int kp_IVv43 = (short)1235070265;
  unsigned int Jidvd2R_b = 100489955;
  double Q2vh = 1830202847;
  unsigned long Nyft24 = -1184496195;

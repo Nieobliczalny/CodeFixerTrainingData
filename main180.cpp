@@ -71,7 +71,7 @@ int main(void)
   unsigned char  b2Nyj9  =  (unsigned char)-747713204;
  short zNSZZb7 = (short)1524267651;
   short int  zkLJq  =  (short)1614489242;
-	short int	CE8O___a	=	310606899;
+	short int	CE8O___a	=	(short)310606899;
   unsigned short  GTxq1g  =  (unsigned short)-529116647;
   long long  Ow4V0m  =  -1710342347;
  short vezs = (short)-1486854296;
@@ -92,7 +92,7 @@ int main(void)
   short int  U9C2wZ  =  (short)46806907;
 	long	fHCR1JWeu6	=	1267252509;
     unsigned short int    AVNS    =    (unsigned short)1039531516;
-  unsigned char  iZ3C0  =  1626100073;
+  unsigned char  iZ3C0  =  (unsigned char)1626100073;
     unsigned long long    Xl4ee    =    -1037629201;
  unsigned char V_4zUov_5 = (unsigned char)-1025116583;
 	float	ic6OXV4057	=	1747490918;

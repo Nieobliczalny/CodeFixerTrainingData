@@ -26,7 +26,7 @@ int main(void) {
     XR_Gqrb    =    (unsigned short)-492448326;
     s4Bz    =    (unsigned short)-2054271385;
     Oz5sev    =    (unsigned short)-1600557910;
-    aVX8eCW    =    -1411634027;
+    aVX8eCW    =    (unsigned short)-1411634027;
     WWO25y    =    -741298095;
     tuX5tH    =    -1694481716;
     d37RIW3Slj    =    -1911342531;

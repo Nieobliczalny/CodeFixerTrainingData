@@ -57,7 +57,7 @@ int main(int argc, char** argv)
     double    c9Ca7G5    =    -346300091;
     unsigned short int    TYG34Tj7    =    (unsigned short)410525368;
     long long    MyGrjW    =    451428879;
-    unsigned short    E3M0KKK6    =    400048175;
+    unsigned short    E3M0KKK6    =    (unsigned short)400048175;
   unsigned long  hrH51D4  =  -1109301698;
     long long    lbbC9Q8F0    =    1062696373;
     unsigned short int    yk0J    =    (unsigned short)-216330803;

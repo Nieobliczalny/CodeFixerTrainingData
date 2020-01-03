@@ -64,7 +64,7 @@ int main() {
   short int  Bv95PUVlvv  =  (short)1360266144;
 	char	S5f8q4R	=	(char)-1545062813;
     long double    qUmok4F7    =    -612417949;
- char l9Os = -1496330729;
+ char l9Os = (char)-1496330729;
     int    j35jm    =    1408478700;
 	int	VT3G	=	0;
  unsigned long long aE1P6J = 1226664061;

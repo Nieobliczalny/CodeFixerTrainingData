@@ -346,7 +346,7 @@ W5sr_myN = (int)abs(VJf_CzVi2);
 
 if (q4D5pQA_ <= bso2DO9)
 {
-std::cout << "OfS1M" << BzWgWZHMK8 << BzWgWZHMK8 << hiwxQ9L3c((unsigned short)-1338901437, ms08L, (char)1235324421, (unsigned char)401295523, -708220899) << "WGxOE" << std::endl;
+std::cout << "OfS1M" << BzWgWZHMK8 << BzWgWZHMK8 << hiwxQ9L3c((unsigned short)-1338901437, ms08L, (char)1235324421, (unsigned char)401295523, (unsigned short)-708220899) << "WGxOE" << std::endl;
 }
 else if (wbmD34o < PhVlV)
 {

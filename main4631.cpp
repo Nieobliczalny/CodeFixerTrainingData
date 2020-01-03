@@ -56,7 +56,7 @@ int main()
     short int    cf988    =    (short)1540704336;
 	unsigned short	baDG9a	=	(unsigned short)-187237654;
  unsigned long long n_q7ARA = -1533870876;
-    short    qDbqdb1    =    -804824318;
+    short    qDbqdb1    =    (short)-804824318;
 	unsigned long	ZRwDL11b	=	711486884;
 
 d02un4j %= 1882918184;

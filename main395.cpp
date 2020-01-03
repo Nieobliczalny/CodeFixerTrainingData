@@ -199,7 +199,7 @@ P5Vht = dbRC8c & yr6S23;
 switch (qM3PyJ4On)
 {
 case 0:
-x_jIXx = e36pkTbCx((char)1375488624, q6s6_3nP, 1171316475, yr6S23, mSu7U2xn);
+x_jIXx = e36pkTbCx((char)1375488624, q6s6_3nP, (short)1171316475, yr6S23, mSu7U2xn);
 break;
 case 1:
 M7D0n_LIP = (int)abs(yc657R29);

@@ -41,7 +41,7 @@ int main() {
  unsigned short jvBAS5E_yl = (unsigned short)308373812;
     short int    oGWpBRF1    =    (short)1773544489;
 	short	k9l3	=	(short)-1877959505;
-  short  TW_wi3  =  100082204;
+  short  TW_wi3  =  (short)100082204;
 	unsigned int	Xea0	=	1672811097;
  char X3zT = (char)265212619;
     long    Lu2S5    =    -1112142535;

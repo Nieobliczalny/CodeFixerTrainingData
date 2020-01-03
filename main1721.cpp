@@ -177,7 +177,7 @@ for (int i = 7; i >= 0; i--)
 nx_K = (unsigned long)(Yp9WJyTHIT * (BGKNmx5PM));
 }
 
-PMTV = kK26j((char)-1785366721, -1288396428, 851753295, zoXK, V0qJkngS);
+PMTV = kK26j((char)-1785366721, (short)-1288396428, 851753295, zoXK, V0qJkngS);
 d4AWYOZ5wA = (int)ceil(c_Dm);
 {
 int i = 0;

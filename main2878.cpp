@@ -612,7 +612,7 @@ case 7:
 X55Q9 = BOPP(X55Q9, s2X_am3q8);
 break;
 case 8:
-H18g = IaxGvY2(H18g, (unsigned short)439637662, 1959365628, HG3BfF7z8, 1688312643);
+H18g = IaxGvY2(H18g, (unsigned short)439637662, (short)1959365628, HG3BfF7z8, 1688312643);
 break;
 default:
 Rlg6E2 = (int)abs(X185G32) * 0;

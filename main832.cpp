@@ -72,7 +72,7 @@ int main(int argc, char** argv) {
  float VZqWRu = 437701223;
     char    O_rL4kUw    =    (char)322551651;
 	unsigned char	v7F06q	=	(unsigned char)-1956944577;
-    short    o28l    =    916353177;
+    short    o28l    =    (short)916353177;
     long    W4_814it    =    -1755201468;
     unsigned short    Ce3NP7YZr    =    (unsigned short)-130497933;
 	unsigned char	Kdk5VL7Ys3	=	(unsigned char)-2028133682;

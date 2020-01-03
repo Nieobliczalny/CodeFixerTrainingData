@@ -170,7 +170,7 @@ case 2:
 rb7w562A = KkMZ0iOC - 1448353587;
 break;
 case 3:
-R8awhRp = CgSzLJf(1727028062, -216199025, (short)-333618886, 290136012);
+R8awhRp = CgSzLJf(1727028062, -216199025, (short)-333618886, (unsigned short)290136012);
 break;
 case 4:
 ucWOFh4pJV = Rx0bvT5 * 1757936783;

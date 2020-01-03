@@ -46,7 +46,7 @@ int main() {
   char  I87Wqz  =  (char)-1306978462;
  unsigned short Te1o41v__5 = (unsigned short)-1696424731;
   long double  B88gc  =  -675915243;
- short int kV_l3g_ = -207228959;
+ short int kV_l3g_ = (short)-207228959;
  long double je5g = -2037886451;
     unsigned long long    Usf5qm    =    1451609984;
   char  Px238PX1z_  =  (char)-1044668295;
@@ -74,7 +74,7 @@ std::cout << O6gdK5OXR((unsigned char)-780700840, sWXuu6, u15rKK, (char)97537762
 
 GY7sK_ = X6u77RQR(562215546, (unsigned short)1660622788, zakJm3q, 928570470);
 
-I87Wqz = O6gdK5OXR((unsigned char)-1374465267, 775208510, r8GWGcYB, -1434471494);
+I87Wqz = O6gdK5OXR((unsigned char)-1374465267, (unsigned char)775208510, r8GWGcYB, -1434471494);
 W741n0G_AK = 119298676 / GY7sK_;
 
 switch (H_qL1)

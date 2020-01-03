@@ -45,7 +45,7 @@ int main() {
   unsigned char  Yf54w2Pw  =  (unsigned char)487766641;
 	unsigned short int	JVf8RgD__l	=	(unsigned short)-859811851;
   short  dp56A  =  (short)1599842480;
-	short	v4bZN	=	1531344388;
+	short	v4bZN	=	(short)1531344388;
     unsigned long long    G1vDLh    =    -1698817468;
  short k2DJEZ = (short)1836571869;
     double    twLlxci4E    =    231152950;

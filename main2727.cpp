@@ -87,7 +87,7 @@ int main() {
  char a7_3 = (char)449185847;
  long A6Qy61Uk0q = 587741531;
  short yDZ7iL1 = (short)-1716458192;
- unsigned short aQ9__ = -336087817;
+ unsigned short aQ9__ = (unsigned short)-336087817;
   long double  YZaH  =  2097345686;
 	short	SwF1	=	(short)-1981017509;
   long double  iYJgjVx5  =  -236950784;

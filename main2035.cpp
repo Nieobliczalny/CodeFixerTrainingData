@@ -206,7 +206,7 @@ ec72z7JE %= 756290609;
 }
 }
 
-TrK3F6R = aj6A((unsigned char)-1461443946, 808857178, XZiBXO68);
+TrK3F6R = aj6A((unsigned char)-1461443946, (short)808857178, XZiBXO68);
 
 for (int i = 6; i >= 0; --i)
 {

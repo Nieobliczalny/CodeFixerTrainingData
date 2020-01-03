@@ -80,7 +80,7 @@ int main(void)
 	unsigned long long	hDcLMvr13	=	-1992203153;
     unsigned short    CPfWSFdrc    =    (unsigned short)1953566068;
   unsigned int  t27Q7  =  972778654;
-	unsigned short int	D_TOztml7T	=	-1161061056;
+	unsigned short int	D_TOztml7T	=	(unsigned short)-1161061056;
  short DpBHbXU189 = (short)-1355457010;
     long long    OClEnv339V    =    -614021528;
     float    ctn75QB    =    -1528172027;

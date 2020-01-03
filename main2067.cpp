@@ -60,7 +60,7 @@ int main() {
     unsigned short    s7zWF14Pf_    =    (unsigned short)2042766426;
 	double	dI23	=	-1754143844;
     short    k4xYtZoIT0    =    (short)51100425;
- short K7Am = -1200181970;
+ short K7Am = (short)-1200181970;
 	long	wnwWzA	=	684287674;
   int  YrT0NU  =  730422751;
     short int    z8xjT    =    (short)-363256302;

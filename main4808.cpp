@@ -104,7 +104,7 @@ int main(void) {
 	unsigned long long	RF45	=	-818906030;
   short int  Ig6E20  =  (short)1058264328;
 	double	C3IxcpaCH	=	-865416829;
-	char	md6S5	=	748818437;
+	char	md6S5	=	(char)748818437;
   long long  NJnoS  =  793125750;
     short    o46y9y24C    =    (short)1019991799;
  unsigned short ktaJeu0 = (unsigned short)-65726041;

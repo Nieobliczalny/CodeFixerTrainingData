@@ -81,7 +81,7 @@ int main(void)
     unsigned short    Qp9u_u    =    (unsigned short)-35856733;
  short EdDhk5H8vA = (short)1831896412;
  unsigned short int oTtqI = (unsigned short)-792499296;
-  unsigned short int  G42yQkzgH  =  -572411204;
+  unsigned short int  G42yQkzgH  =  (unsigned short)-572411204;
   unsigned long long  ItC18R76  =  343479625;
  short V_82c9 = (short)505048350;
  unsigned short int LRs9j = (unsigned short)-2107508151;

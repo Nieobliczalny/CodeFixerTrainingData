@@ -96,7 +96,7 @@ oePE1ff1sv = SCq1((short)-1129771707, JSCQ5, (short)-1428031073, qadqky, 7642972
 break;
 case 'g':
 case 'G':
-qadqky = SCq1(yMRSF7, (short)54164309, -2093249074, U3EN, oePE1ff1sv);
+qadqky = SCq1(yMRSF7, (short)54164309, (short)-2093249074, U3EN, oePE1ff1sv);
 break;
 case 'h':
 case 'H':

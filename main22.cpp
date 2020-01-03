@@ -182,7 +182,7 @@ k42b1ziW = tu42v6(BKlFFV, WEzV3vnMa, (unsigned char)874893192, (short)-132404390
 break;
 case 'c':
 case 'C':
-k42b1ziW = tu42v6(p1OdP_9S_O, MFvIx, (unsigned char)-1240860291, (short)358337828, 1854972477);
+k42b1ziW = tu42v6(p1OdP_9S_O, MFvIx, (unsigned char)-1240860291, (short)358337828, (char)1854972477);
 break;
 case 'd':
 case 'D':

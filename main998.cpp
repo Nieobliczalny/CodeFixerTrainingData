@@ -35,7 +35,7 @@ int main(void) {
     NOGp8WvGK    =    (unsigned short)-1951047292;
     YIY2v4i_q_    =    (unsigned short)1335467215;
     q6mb5Q2    =    (unsigned short)801638471;
-    MeYU4jxDv_    =    -1539894127;
+    MeYU4jxDv_    =    (unsigned short)-1539894127;
     p3DvA    =    -1553024028;
     KQyY57DDkp    =    -2018475168;
 

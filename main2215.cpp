@@ -314,7 +314,7 @@ epbzHO0 = Sqbwz2A((short)1742279639, 496653104, T5lTh59, (short)-828980428, 9888
 break;
 }
 F2uCW = Sqbwz2A(ud0x0X5, 1685101114, (char)-927565767, a7ce6PG, -645695887);
-epbzHO0 = Sqbwz2A((short)1895636940, XH8gfk7R5, 803456902, -1030811434, oS45SzTv);
+epbzHO0 = Sqbwz2A((short)1895636940, XH8gfk7R5, (char)803456902, -1030811434, oS45SzTv);
 
 switch (wI_U734)
 {

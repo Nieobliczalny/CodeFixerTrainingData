@@ -73,7 +73,7 @@ int main(void)
     unsigned short int    tMi9R39    =    (unsigned short)1084901618;
   unsigned short  JYdx  =  (unsigned short)-2013733267;
     unsigned short    vdcast3P    =    (unsigned short)914782143;
-  short int  xFAfG0  =  901937330;
+  short int  xFAfG0  =  (short)901937330;
  char utNYsi = (char)-1117542781;
   short  JcO638p664  =  -1787108921;
 	unsigned short int	H2178a	=	(unsigned short)595289192;

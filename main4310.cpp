@@ -27,7 +27,7 @@ int main(void)
  unsigned long JTa6lo_ = -1312761213;
   short  d42G59BvY  =  (short)-776837279;
     unsigned short    qtXSD02    =    0;
-	unsigned char	B6r75xS	=	-208728258;
+	unsigned char	B6r75xS	=	(unsigned char)-208728258;
     unsigned short    oQR8bH    =    (unsigned short)1428112660;
   char  RI171W  =  736409958;
  long long x4zGr5_m9 = -580778543;

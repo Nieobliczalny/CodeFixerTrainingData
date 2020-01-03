@@ -37,7 +37,7 @@ int main(int argc, char** argv) {
   char  rp_56Z8M  =  (char)-1925242629;
   short  ezKdr9x  =  (short)4575937;
 	float	NV_bwE1W_	=	1364674511;
-	unsigned char	XbCq7H_H7e	=	-1309446840;
+	unsigned char	XbCq7H_H7e	=	(unsigned char)-1309446840;
     long    WTfyi63    =    -1732441329;
   unsigned short  jCL1OfcG53  =  (unsigned short)1080147209;
 	int	Uo2lz7Fs3d	=	-253282253;

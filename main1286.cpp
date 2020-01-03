@@ -40,7 +40,7 @@ int main()
     jOeQY8S    =    (unsigned short)1627882234;
     gvRXe5qan6    =    (unsigned short)304974981;
     yDDQ1W98z    =    (unsigned short)597620996;
-    FNjoF2UG51    =    253838120;
+    FNjoF2UG51    =    (unsigned short)253838120;
     gfAF20FV5    =    -1609938488;
     OANn2    =    -794866610;
     d3_V    =    -1875520507;
@@ -236,7 +236,7 @@ case 'b':
 AN6GlU2xbM = O_18b2nR((short)1621186280, -680703209);
 break;
 case 'c':
-yDDQ1W98z = Zt3U(AN6GlU2xbM, 1834603013, 685281552) + DA8WIM;
+yDDQ1W98z = Zt3U(AN6GlU2xbM, (short)1834603013, 685281552) + DA8WIM;
 break;
 case 'd':
 OANn2 *= 1634990619;

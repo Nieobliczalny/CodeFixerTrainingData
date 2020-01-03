@@ -51,7 +51,7 @@ int main(int argc, char** argv) {
   unsigned short  S87NatGez  =  (unsigned short)-133881078;
     char    cS1eDt    =    (char)1995369935;
 	long double	Sd20	=	1719009942;
- unsigned short int J3nMu0ED5 = -786418728;
+ unsigned short int J3nMu0ED5 = (unsigned short)-786418728;
 	unsigned short int	KgYx2C	=	(unsigned short)700453071;
     unsigned short int    y_r770_    =    0;
 	long double	c57K	=	-348371054;

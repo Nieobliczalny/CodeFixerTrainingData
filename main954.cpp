@@ -51,7 +51,7 @@ int main(int argc, char** argv)
 	unsigned short int	va8Taov6	=	(unsigned short)751432417;
  unsigned char ODHs = (unsigned char)1564459462;
  char qY8ucOMQ61 = (char)-2022167394;
-    char    R8TE    =    -1228475636;
+    char    R8TE    =    (char)-1228475636;
     short int    j7CbqQVG    =    (short)-1228256097;
   short int  r0_CE  =  (short)1190490264;
     int    xDp36AI9    =    1249747248;

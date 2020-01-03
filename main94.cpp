@@ -35,7 +35,7 @@ int main(void) {
     short    xu0D    =    (short)48286482;
 	float	VpuL	=	-464501688;
     char    ernbC892_E    =    (char)412214190;
-	short int	b9BB0s0JA	=	-304184073;
+	short int	b9BB0s0JA	=	(short)-304184073;
   unsigned short int  mmoFY  =  (unsigned short)-964555254;
     long long    u0IFSvWw_F    =    -690728457;
 	short int	cy_w_Mc	=	(short)107043062;

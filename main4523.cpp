@@ -87,7 +87,7 @@ int main() {
     short int    l8z50Ea7S    =    (short)583454803;
  unsigned short int LjX0sj = (unsigned short)-1668183938;
   double  z79_FA  =  -1673791629;
-    short    Aa37p    =    1461090466;
+    short    Aa37p    =    (short)1461090466;
   unsigned int  T6773_D  =  -1105347064;
  unsigned char N49Y = (unsigned char)1214606643;
  float M_qoxW = -923046966;

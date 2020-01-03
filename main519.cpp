@@ -40,7 +40,7 @@ int main(void) {
 	unsigned short	z5TcrJ8	=	(unsigned short)-457343267;
   unsigned char  Umq5_J3_CB  =  (unsigned char)-230721856;
  unsigned short int Qgvpz5_WV1 = (unsigned short)-954623131;
-	short int	x90PG46aAo	=	434724252;
+	short int	x90PG46aAo	=	(short)434724252;
   unsigned char  LK7xR  =  -35728206;
   int  nPnJ  =  1636662716;
     unsigned long long    js21JGIIT    =    -2016247708;

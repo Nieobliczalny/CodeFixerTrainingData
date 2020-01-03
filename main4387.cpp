@@ -45,7 +45,7 @@ int main(int argc, char** argv) {
  long long jL9_ = -116670120;
   unsigned long long  r9S5hbMTb  =  1457567534;
 	short	E7553	=	(short)236146479;
- unsigned char X3jiCk6gm8 = 921750198;
+ unsigned char X3jiCk6gm8 = (unsigned char)921750198;
     short int    vX_91uP6Z    =    (short)-364347964;
 	unsigned char	ao2T	=	(unsigned char)65793288;
   unsigned int  gj8W94l7n  =  -936899824;

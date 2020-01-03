@@ -47,7 +47,7 @@ int main(void) {
  short ppyN = (short)1124638192;
   long  MaGSe  =  -2096624805;
 	unsigned short int	h_XBF23XP	=	(unsigned short)733287366;
- unsigned short CLZJ = 1078330187;
+ unsigned short CLZJ = (unsigned short)1078330187;
  int Zj28 = -162635187;
  long long pU26 = 2107264261;
     unsigned long    a_zbHZQOk    =    -1869834599;

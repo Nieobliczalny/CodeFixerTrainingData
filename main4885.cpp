@@ -42,7 +42,7 @@ int main()
 	W6YNmLN34s	=	(short)-66105312;
 	p_NrXD2AB	=	(short)229768695;
 	I11ECM_YF	=	(short)-724630500;
-	d8Aw_G	=	-338746315;
+	d8Aw_G	=	(short)-338746315;
 	QQlfLsFO4	=	-1980868499;
 	iD_NV1	=	-1262933764;
 	qca660q	=	-772641085;
@@ -52,7 +52,7 @@ int main()
 	XObSs	=	(short)-486284089;
 	yO7B7s72	=	(short)1382574727;
 	xhAl3	=	(short)1545047149;
-	hYaw_j70	=	1524287563;
+	hYaw_j70	=	(short)1524287563;
 	ngk_tn47M	=	-1523919986;
 	sm5t3	=	1898537446;
 	ovYV	=	-407426596;
@@ -62,7 +62,7 @@ int main()
 	n8qP85S	=	(short)-849359178;
 	B_zbjUt	=	(short)-1196033980;
 	R7252n	=	(short)1693675971;
-	hTa8yw_	=	695899846;
+	hTa8yw_	=	(short)695899846;
 	U00W	=	-665846773;
 	IGx9y	=	462005757;
 	du5SyCI3m	=	452343980;
@@ -72,7 +72,7 @@ int main()
 	H_sJ_uDo_i	=	(short)-921467920;
 	oOmV77_s6	=	(short)1898584571;
 	j8h10ZLf	=	(short)-1946894464;
-	Lprq	=	44594011;
+	Lprq	=	(short)44594011;
 	D4J21g	=	-470551529;
 	BUk8bsPu	=	833885115;
 	pof3Ai	=	427550606;
@@ -82,7 +82,7 @@ int main()
 	fr84IZv	=	(short)2027352495;
 	jSqnBTYM40	=	(short)1971353972;
 	HlDYn_lr	=	(short)-1082694913;
-	B06OE	=	1476549802;
+	B06OE	=	(short)1476549802;
 	D9xH	=	-1820033413;
 	q86T9iic_	=	-1652581098;
 	QXfrLZZy3	=	578483383;
@@ -92,7 +92,7 @@ int main()
 	fc_6gsiA	=	(short)-982625463;
 	B_fw	=	(short)-1319918159;
 	CO4qh	=	(short)1298303713;
-	gE_uJ5	=	-350056208;
+	gE_uJ5	=	(short)-350056208;
 	OP68OsQ	=	-632511193;
 	Oy60Hj88	=	438753234;
 	Doncwm3j5	=	-1098179179;
@@ -102,7 +102,7 @@ int main()
 	KUfboio	=	(short)-736220710;
 	dp_m2Vcy0j	=	(short)1236239706;
 	up6LL	=	(short)-1624822231;
-	dCw6X77o6Z	=	835190833;
+	dCw6X77o6Z	=	(short)835190833;
 	x8aC4X	=	-1551794103;
 	LcIl6MuylB	=	1161883753;
 	ESA23s	=	-525743070;
@@ -112,7 +112,7 @@ int main()
 	OypZ_	=	(short)-1375183451;
 	DpF_	=	(short)-1968091255;
 	q3FK_Wv8	=	(short)1167383533;
-	xT7au	=	-1669205156;
+	xT7au	=	(short)-1669205156;
 	dwChwTLF	=	-101667673;
 	S_pV	=	-1285430078;
 	O95_	=	-955447306;
@@ -122,7 +122,7 @@ int main()
 	Um_Fk	=	(short)-209041316;
 	txK_3U	=	(short)-697463263;
 	DxC4D	=	(short)186428719;
-	qHKi6IU3	=	1318141397;
+	qHKi6IU3	=	(short)1318141397;
 	zz91	=	1683510007;
 	CSwC5Q	=	1370030344;
 	tpr59C	=	-381684795;

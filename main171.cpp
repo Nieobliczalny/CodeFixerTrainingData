@@ -702,7 +702,7 @@ case 4:
 z96n0 = my3Hqp((short)696312820, (short)-329695884, (unsigned short)1552144880);
 break;
 case 5:
-KIPW9 = eFRs(KIPW9, (short)1652544961, -1067086154, 764106220, -91847632);
+KIPW9 = eFRs(KIPW9, (short)1652544961, (short)-1067086154, 764106220, -91847632);
 break;
 case 6:
 I3Waa9_18 = Gs2G2C4T1 << 922568086;

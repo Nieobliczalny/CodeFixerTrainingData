@@ -57,7 +57,7 @@ int main(int argc, char** argv)
   unsigned char  U4DVCPse  =  (unsigned char)440681008;
 	short	a2jaRV13	=	(short)1001286680;
 	short int	v916yHZ_ZX	=	(short)-1551503295;
-  short  xJw5AF  =  -412375277;
+  short  xJw5AF  =  (short)-412375277;
     long long    zrH166    =    1619760933;
     char    HTo_je62Sk    =    (char)909996573;
     unsigned long    zUuNr5a27R    =    2034074635;

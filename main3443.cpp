@@ -44,7 +44,7 @@ int main(void) {
   unsigned short int  UjJoFR_24x  =  (unsigned short)918728600;
 	int	RQe8Nfs35t	=	1346493752;
   double  ZPBKEid  =  1028243709;
-  short  HI9Q  =  97826469;
+  short  HI9Q  =  (short)97826469;
 	short int	Q39JS	=	(short)1046064179;
     float    o0q43_uYu    =    -1299751261;
 	short	c_3Qg4HP0e	=	(short)712912306;

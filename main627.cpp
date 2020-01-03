@@ -53,7 +53,7 @@ int main() {
  short int dXBkKzqt2N = (short)-1690621503;
 	short int	DO94Q_ds	=	(short)2044846247;
   float  yT4q  =  -1794835225;
-	unsigned short int	pZAN7d52M	=	439179917;
+	unsigned short int	pZAN7d52M	=	(unsigned short)439179917;
     unsigned short int    M2lf    =    (unsigned short)1460736943;
 	int	Q5Dqm50f	=	1679028567;
 	char	Gv46	=	0;

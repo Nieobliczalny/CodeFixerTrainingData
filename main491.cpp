@@ -16,7 +16,7 @@ int main()
 	hTXB0r	=	(unsigned char)1266855855;
 	TMx7o0	=	(unsigned char)-1865710141;
 	enTx1R	=	(unsigned char)1235402892;
-	Q_6tKu7Fl	=	215972398;
+	Q_6tKu7Fl	=	(unsigned char)215972398;
 	gX7wQKxk	=	1396343861;
 	itAu847	=	-1744161011;
 	short int	BK0p,	dId6E6,	Ot8518mGzB;

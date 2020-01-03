@@ -465,7 +465,7 @@ break;
 
 cout << "wqW0f_7u" << "NCo4U" << Rgi7w((char)-638697392, -1905179156) << NoaXj_ << "xT12b" << endl;
 
-p7GlpqveG2 = BWRE8((short)1203160963, (unsigned short)-1409967325, (unsigned short)-825856674, (short)-1710516258, 966551907);
+p7GlpqveG2 = BWRE8((short)1203160963, (unsigned short)-1409967325, (unsigned short)-825856674, (short)-1710516258, (unsigned short)966551907);
 cout << e9x_UOc << "wx4wxp" << B7Z02_Zq << Rgi7w(634132849, -64565250) << endl;
 
 switch (NoaXj_)

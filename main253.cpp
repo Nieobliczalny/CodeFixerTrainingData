@@ -69,7 +69,7 @@ int main(int argc, char** argv)
  unsigned short aHUt4d = (unsigned short)-912160842;
 	long	I8GDCye1u	=	7989975;
     unsigned short    LX9zcn    =    (unsigned short)-402092362;
-    short int    mbj9a2z9_Q    =    -1742031425;
+    short int    mbj9a2z9_Q    =    (short)-1742031425;
 	float	Rg9gy	=	-1034955956;
 	unsigned char	lteN7j_2	=	(unsigned char)-1265895492;
  float YSln1281 = -65927540;

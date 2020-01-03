@@ -301,7 +301,7 @@ case 2:
 Rpg3B_ = ffV5Se4(448947300, (char)-1859456319, IV6OQwhCu5, (char)-149810528, (char)299477266);
 break;
 case 3:
-Gsu7S118c = omwei2(grk9TF_G, (short)-1863572212, rym4, -917762826);
+Gsu7S118c = omwei2(grk9TF_G, (short)-1863572212, rym4, (short)-917762826);
 break;
 case 4:
 Rpg3B_ >>= 1973773776;

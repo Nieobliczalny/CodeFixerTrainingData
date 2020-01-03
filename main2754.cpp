@@ -45,7 +45,7 @@ int main(int argc, char** argv)
 	s4X6wN0	=	(unsigned char)-349889571;
 	q0R5	=	(unsigned char)-1482126127;
 	LK214xQg1	=	(unsigned char)-206372629;
-	RbMgt51SB	=	-752364672;
+	RbMgt51SB	=	(unsigned char)-752364672;
 	G100	=	-921132569;
 	IB9v95bK	=	-1876620176;
 	oIbm2W	=	-152533009;
@@ -118,7 +118,7 @@ case 'c':
 oIbm2W = TxCc((unsigned short)-1578614639, (short)665516735, (unsigned short)-893217944, (short)367707194);
 break;
 case 'd':
-O3qDx7f5 = TxCc(sDvpQy27, (short)-2124557829, G100, -1812564795);
+O3qDx7f5 = TxCc(sDvpQy27, (short)-2124557829, G100, (short)-1812564795);
 break;
 case 'e':
 cB939E18YJ = G100 << e85Q;

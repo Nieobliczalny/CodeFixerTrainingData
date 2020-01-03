@@ -412,7 +412,7 @@ case 4:
 Br8k8Mrj57 = WIgh(-143052146, (short)-1405741932, pu4sZ8dY_R, (char)1753854751, (short)-174091591);
 break;
 case 5:
-KMd569g1 = WIgh(1965403621, (short)1121716311, I9NVX5o8s, 986137099, pu4sZ8dY_R);
+KMd569g1 = WIgh(1965403621, (short)1121716311, I9NVX5o8s, (char)986137099, pu4sZ8dY_R);
 break;
 case 6:
 bKXFesKaw ^= 2062067527;

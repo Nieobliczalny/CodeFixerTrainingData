@@ -28,7 +28,7 @@ int main(void)
  unsigned char g5W9ky3 = 0;
 	unsigned long long	VyOQHxG	=	854786720;
     unsigned char    l5__zse1    =    (unsigned char)-132670826;
-    short    zXE_    =    -909138656;
+    short    zXE_    =    (short)-909138656;
 	long long	bz1__t	=	1786407524;
  unsigned int LEtIr99 = 313392790;
  double wSszvuwxd = -391189424;

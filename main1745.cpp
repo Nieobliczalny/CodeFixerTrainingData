@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
 	Eeb5	=	(char)814441104;
 	JN0E45ub	=	(char)-2070002029;
 	WlWNN2j	=	(char)-69050168;
-	VWXN	=	1974116811;
+	VWXN	=	(char)1974116811;
 	skOBb	=	-934287136;
 	z3F8zflm	=	19521227;
 	hJH22w	=	-2061285703;
@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
 	kT9QN79I	=	(char)-1071863905;
 	b_e9f	=	(char)-1749688757;
 	flFJT	=	(char)-435842216;
-	D977x50Hqu	=	1847820774;
+	D977x50Hqu	=	(char)1847820774;
 	G7Q3	=	-184782423;
 	Qa9S_B4	=	939128672;
 	dm3Shgp	=	-489333908;
@@ -50,7 +50,7 @@ int main(int argc, char** argv) {
 	yiPc	=	(char)1244811046;
 	Y09UAwqK5	=	(char)-392528352;
 	Zh2it3	=	(char)-2124627905;
-	U4jInD_8W	=	432013739;
+	U4jInD_8W	=	(char)432013739;
 	sP1CK_bf2	=	765867097;
 	BU8a	=	345303502;
 	jXWF	=	1052701370;

@@ -223,7 +223,7 @@ case 5:
 K95_nubcD = j0bR5r((unsigned short)-769088330, -187142586, 1940673398, (unsigned short)-687122200, (unsigned short)-1391181212);
 break;
 case 6:
-HfH2 = j0bR5r(-1635645464, qp7S_, -1903436042, 1544687954, S6LY1O5x);
+HfH2 = j0bR5r((unsigned short)-1635645464, qp7S_, -1903436042, 1544687954, S6LY1O5x);
 break;
 case 7:
 jarb = (int)floor(NdXdO5JkQM);

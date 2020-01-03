@@ -34,7 +34,7 @@ int main(void) {
     short    j6U4L6    =    (short)-15710029;
  short int x7QE2kR = (short)1180478965;
 	short	cWP541l90	=	(short)-191754298;
-	short int	wOj497Vn	=	-1597068805;
+	short int	wOj497Vn	=	(short)-1597068805;
   double  a200i40  =  -365680469;
  double w_qG92C = -2129344324;
     short int    ISUqFBzw    =    (short)1034384571;
@@ -52,7 +52,7 @@ int main(void) {
 	char	J_T96RCYgM	=	(char)-339863994;
 	double	dyw29	=	-1834551141;
 
-L191wYDC = k5_hZQ((unsigned short)-1986085977, (unsigned short)1334820390, bbip_8V, wOj497Vn, -2080664778);
+L191wYDC = k5_hZQ((unsigned short)-1986085977, (unsigned short)1334820390, bbip_8V, wOj497Vn, (char)-2080664778);
 
 ISUqFBzw = G9veNUmgw8((unsigned char)2043404878, dyw29, -1888927783, 198817548, ISUqFBzw) & J_T96RCYgM;
 if (DdJyd4C != -1772883479)

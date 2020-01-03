@@ -70,7 +70,7 @@ int main(void)
 	float	GdLH826BB	=	-1741196341;
     float    f8MM    =    782561943;
  short o4KBm7zGw = (short)704856979;
-    short int    Rz47uLb    =    -1283621385;
+    short int    Rz47uLb    =    (short)-1283621385;
 	short	P09SDBVZ	=	(short)859939817;
   short int  J9f_B  =  -707705912;
 	unsigned int	obWzx	=	-1506007898;

@@ -47,7 +47,7 @@ int main(void)
     short    F5GZv91u    =    (short)-2116189619;
 	unsigned long long	sQP8r918	=	1312153761;
 	unsigned int	l9gLB9lssu	=	-1524848219;
-  unsigned short  dus9XcWlA  =  810379361;
+  unsigned short  dus9XcWlA  =  (unsigned short)810379361;
     double    d1ycjW23b    =    224100332;
     unsigned char    gU_K    =    (unsigned char)-869810760;
  char oMnZZNEj7Q = (char)-4395801;

@@ -123,7 +123,7 @@ int main(void)
   char  lNKNqCq5  =  (char)816836091;
   unsigned short int  rv1h  =  (unsigned short)2005800956;
     double    J2FdFcy    =    -1200635345;
-    unsigned char    NdhQKmoJ    =    -1195944512;
+    unsigned char    NdhQKmoJ    =    (unsigned char)-1195944512;
  unsigned short JZB7 = 1624142869;
 
 P_68TpQ88e = oe65kTX2 ^ 1538969365;

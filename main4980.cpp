@@ -39,7 +39,7 @@ int main() {
   unsigned short  WuBL_  =  (unsigned short)-1913668450;
  int B7u0_Hn = -1389319084;
   int  jFLSoaR_r  =  1368917521;
- unsigned short int o4i6 = -979451910;
+ unsigned short int o4i6 = (unsigned short)-979451910;
 	char	S_O9JO63P	=	(char)936866045;
  char z2csh64H7g = 0;
   long  cI_FN  =  582365918;

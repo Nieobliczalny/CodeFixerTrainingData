@@ -61,7 +61,7 @@ int main()
  unsigned char ohj1e = (unsigned char)551926148;
   int  y2alY717j_  =  -152499313;
     unsigned short    c2W8Hlf    =    (unsigned short)1516375233;
-    short    nUl5    =    225564822;
+    short    nUl5    =    (short)225564822;
     long double    Bh2u20    =    1792888285;
 	float	gvVKC	=	-1033790018;
  char sv_Vl61 = (char)-110607808;

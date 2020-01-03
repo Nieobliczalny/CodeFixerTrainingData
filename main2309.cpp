@@ -185,7 +185,7 @@ HaQ_v8S = O_K7(VKkJA_glK, -281191389, 439510414) & NclJ3;
 HaQ_v8S = O_K7((unsigned short)1976118062, v2_LlG, (short)131635298) - v2_LlG;
 
 v2_LlG = O_K7((unsigned short)1791448401, (char)802758821, (short)1299641410);
-q1v4n1w6j = O_K7((unsigned short)1989047151, y4l1EpE, -1385890924);
+q1v4n1w6j = O_K7((unsigned short)1989047151, y4l1EpE, (short)-1385890924);
 
 y4l1EpE = (unsigned char)(HaQ_v8S);
 

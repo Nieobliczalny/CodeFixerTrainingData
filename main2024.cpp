@@ -38,7 +38,7 @@ int main() {
     unsigned short    fECcy55P    =    (unsigned short)-760196721;
   short int  D7r7yA3  =  (short)-1542347613;
 	int	z3waUFvI	=	-1288868197;
-	char	axj43h8mV	=	1422925974;
+	char	axj43h8mV	=	(char)1422925974;
 	unsigned int	zji3fr3	=	1060374327;
 	char	kmXN7Oj0f	=	(char)-1644247538;
 	int	Gn74a	=	1380171415;

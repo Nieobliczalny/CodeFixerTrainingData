@@ -33,7 +33,7 @@ int main(void) {
     unsigned int    LI3wxzw4W    =    -785597332;
 	char	oM0CUzvVdY	=	(char)-946097349;
   float  zOW3Ev  =  -1262604069;
- unsigned short int h_07P = 1632804978;
+ unsigned short int h_07P = (unsigned short)1632804978;
     short    n_di7    =    (short)-2130866772;
  char SFKG = (char)-1736910479;
   long double  P0gUc_y  =  -1382750621;
@@ -63,7 +63,7 @@ int main(void) {
 	float	yF_JEM1niU	=	664203388;
   char  n53M_wpO  =  (char)-51346788;
   short int  iEi1Bsq9c  =  (short)690809280;
- short int p98q7s3DS = 768336503;
+ short int p98q7s3DS = (short)768336503;
  unsigned long cW1u6C = 292380393;
     long double    J7NMV5_    =    1008704666;
 	long long	rcS73c	=	402357973;

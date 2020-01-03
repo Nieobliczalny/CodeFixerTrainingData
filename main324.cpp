@@ -30,7 +30,7 @@ int main()
   unsigned char  RGe92T  =  (unsigned char)-1246316607;
     unsigned int    JhDCmLzw4    =    -1725149156;
 	float	Retz9	=	2078477035;
-    unsigned char    I78t8Cj8    =    638305776;
+    unsigned char    I78t8Cj8    =    (unsigned char)638305776;
 	unsigned char	r_85r	=	1864740678;
  char xnb8dT = (char)357626519;
   unsigned int  ej6dqFWxe  =  1378883777;
@@ -69,7 +69,7 @@ int main()
   float  r_nja  =  1207318799;
     unsigned short int    CR6L59e    =    (unsigned short)-1962118178;
 	unsigned char	y4EoJhh	=	(unsigned char)-1680963688;
-	unsigned char	yW743eu1Je	=	674137901;
+	unsigned char	yW743eu1Je	=	(unsigned char)674137901;
 	double	KqrjB13	=	-1595442074;
 	float	T072oh2	=	-1613941939;
     long    Jm7P0    =    770208341;

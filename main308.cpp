@@ -69,7 +69,7 @@ int main(void) {
 	unsigned short	U88TP7	=	(unsigned short)720209268;
   unsigned int  y12cMO_  =  -507329699;
   unsigned short int  IF9_rHU  =  (unsigned short)-148501987;
- short A1R6x = -1125675414;
+ short A1R6x = (short)-1125675414;
     unsigned short int    x8BfK6x    =    935418270;
 	unsigned short int	RG6MgG	=	(unsigned short)498157895;
  unsigned long MICV7 = 954486752;

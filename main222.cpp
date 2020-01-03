@@ -72,7 +72,7 @@ int main(void)
 	unsigned short	AOAFsom5Oe	=	(unsigned short)-2109092160;
  unsigned int Ia6acgZNI = 1648999148;
  unsigned short xz34U9N7Jp = (unsigned short)-1890646010;
-	unsigned char	NX_6u088	=	278354999;
+	unsigned char	NX_6u088	=	(unsigned char)278354999;
   unsigned char  gI8wM7jG  =  1084127222;
 	unsigned char	EgDZDg4tK5	=	730224442;
  long long V790y223 = 663903468;

@@ -34,7 +34,7 @@ int main(int argc, char** argv)
 	unsigned short	aXr6Zh4pB	=	(unsigned short)-1444144045;
 	short int	D_YvmK	=	(short)-66601153;
   unsigned short int  flnB7z37  =  (unsigned short)-1457025809;
-	unsigned short int	OsZOC	=	413707962;
+	unsigned short int	OsZOC	=	(unsigned short)413707962;
     unsigned long    S16Hx9Yc_    =    -1548535010;
     unsigned long long    HgV0L7_zZ    =    -891654369;
 	char	IRluHl5l77	=	(char)-1055946206;

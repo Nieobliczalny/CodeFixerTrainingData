@@ -69,7 +69,7 @@ int main(void)
     short    x588H8V5o    =    (short)831327868;
  char JF6pr0bX = (char)-1180429596;
 	unsigned long	QZtq8Q2m_7	=	-1509835804;
- short ODPPY = 41489046;
+ short ODPPY = (short)41489046;
     unsigned char    H_v6    =    (unsigned char)-1954231029;
  unsigned long long YWWGQRXw2k = 1791761096;
   long long  F8_Pp3XPDb  =  -597739779;

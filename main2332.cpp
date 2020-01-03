@@ -120,7 +120,7 @@ int main(void) {
   short  JH_i  =  (short)-1485991147;
   unsigned short int  i_DW  =  (unsigned short)-2016209915;
   unsigned char  VbGepOoQQz  =  (unsigned char)1418340344;
- unsigned short dfd7rM = 1592061622;
+ unsigned short dfd7rM = (unsigned short)1592061622;
     char    DxVT28    =    (char)608917780;
   unsigned short  re7MK0l  =  276709915;
 	long	jw9ZoJ7	=	-236530765;

@@ -36,7 +36,7 @@ int main(void) {
   char  fp0R  =  (char)2085869516;
 	unsigned int	Zfwhzsl	=	1610538589;
 	short	iXMs	=	(short)-192245443;
-	unsigned char	Ypoq9	=	-1138469123;
+	unsigned char	Ypoq9	=	(unsigned char)-1138469123;
   unsigned short  eQQrG62  =  -1653552499;
  unsigned int l0fV = 1275920497;
   short  r68a  =  (short)-1242381609;

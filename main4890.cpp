@@ -122,7 +122,7 @@ g8pYyi55o = w8ZLDR85((unsigned short)-1160243340, (unsigned short)1202639536, JK
 }
 else
 {
-baa_h = w8ZLDR85((unsigned short)-1659732092, (unsigned short)-1430484753, JK__Q, -295920341) * 1037967150;
+baa_h = w8ZLDR85((unsigned short)-1659732092, (unsigned short)-1430484753, JK__Q, (unsigned short)-295920341) * 1037967150;
 }
 }
 }

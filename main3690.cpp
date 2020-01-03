@@ -71,7 +71,7 @@ int main()
   unsigned short  u7BNa  =  (unsigned short)1383615111;
   char  taLgL7E  =  (char)-1288046345;
 	unsigned int	z906_8iB7	=	-871008860;
- short int cd54x877 = 1269800826;
+ short int cd54x877 = (short)1269800826;
 	double	W7cn	=	-1883434331;
 	int	SX391bZRQ	=	0;
     int    q0qX6ZqK8    =    -951808809;

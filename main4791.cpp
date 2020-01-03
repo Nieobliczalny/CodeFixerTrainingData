@@ -114,7 +114,7 @@ int main(int argc, char** argv)
 	unsigned char	fKx_nhglh	=	(unsigned char)-1878209910;
     short    p0_Q    =    (short)-1155383255;
  char D38xz = (char)737085070;
-    short int    V4AOPMUf    =    1222813807;
+    short int    V4AOPMUf    =    (short)1222813807;
     unsigned short int    HSVgIL3    =    1476796401;
 	int	BUY0gE	=	1084399530;
     short int    HJKl7O    =    (short)-501449130;

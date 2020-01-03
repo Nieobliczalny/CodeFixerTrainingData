@@ -443,7 +443,7 @@ case 'i':
 w_4494iUz1 = m456857D(w_4494iUz1, 726930270, (short)-1332204406);
 break;
 case 'j':
-IxM5hjk_8a = Uvo52(2064274817, (unsigned short)-1003601891, q1Ow7sLYc, (unsigned short)1883255354, 1949005136);
+IxM5hjk_8a = Uvo52(2064274817, (unsigned short)-1003601891, q1Ow7sLYc, (unsigned short)1883255354, (short)1949005136);
 break;
 }
 

@@ -43,7 +43,7 @@ int main(int argc, char** argv)
 	unsigned short int	oa38n	=	(unsigned short)1339037141;
 	unsigned short int	oUPqCFD	=	(unsigned short)-1202518504;
  long long yZe487X3 = -1274002898;
- unsigned short int l0neC85W = -1501534996;
+ unsigned short int l0neC85W = (unsigned short)-1501534996;
     short int    JWXax6    =    (short)-354569579;
  double t69T0PfI3 = 46796146;
 	long long	wCU7Sg	=	1832276458;

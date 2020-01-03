@@ -33,7 +33,7 @@ int main()
 	unsigned char	mvV7593kPR	=	(unsigned char)-982544454;
   short int  VfxpOVC  =  (short)1682572028;
   unsigned short  dfOw  =  (unsigned short)-1715365866;
- unsigned short oUWgF = 585821039;
+ unsigned short oUWgF = (unsigned short)585821039;
  unsigned int RMo8a29DVb = -866676091;
  long gkeY = 719949332;
   short int  K25Jn9rol2  =  (short)-427012535;

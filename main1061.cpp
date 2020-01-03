@@ -25,7 +25,7 @@ int main() {
   xf_K6KF  =  (short)-852934572;
   j1WT5kx  =  (short)-1160939227;
   W4o9s1D4I  =  (short)320467652;
-  x5o6F94e  =  1236322931;
+  x5o6F94e  =  (short)1236322931;
   p0QZ_zHoL  =  -986007249;
 
 sKl3j74zH = IWt54_Vt(C0lvc, -781596244);

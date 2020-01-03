@@ -75,7 +75,7 @@ int main(int argc, char** argv)
 	short	q4kt	=	(short)-458428268;
     short int    qoN9PxD6    =    0;
   long long  H4a4  =  -1032697789;
-    char    D5wO    =    1181826918;
+    char    D5wO    =    (char)1181826918;
   unsigned char  kPse0ZEnH  =  (unsigned char)-1111733027;
 	float	fv3f3QvE1	=	-1956974270;
     long double    snl878q2    =    -1804827199;

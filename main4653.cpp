@@ -42,7 +42,7 @@ int main()
   X9mt78  =  (unsigned short)306926496;
   KGkW8iDK2C  =  (unsigned short)1383870104;
   DomA3B6jWU  =  (unsigned short)-1618106828;
-  Q34Put_  =  507393249;
+  Q34Put_  =  (unsigned short)507393249;
   ebE3xgd  =  76347436;
   GUT2  =  -1624642428;
   XBVr3_MSeY  =  -1770322848;
@@ -52,7 +52,7 @@ int main()
   x22sZ8XYd  =  (unsigned short)-1929586533;
   RI4KMx_T4Y  =  (unsigned short)1626186339;
   q_gQ8ZTASR  =  (unsigned short)1629328930;
-  xDH_Z3335_  =  1217952371;
+  xDH_Z3335_  =  (unsigned short)1217952371;
   I965h6  =  -2039139022;
   K145Nt2  =  742029766;
   j8Gx86k  =  -1046714823;
@@ -62,7 +62,7 @@ int main()
   EI7wd82Wbz  =  (unsigned short)-346709476;
   VS_F7pDs_G  =  (unsigned short)130870397;
   UbgD36  =  (unsigned short)-152775074;
-  p_8o5ki7e  =  320489742;
+  p_8o5ki7e  =  (unsigned short)320489742;
   F2OI5_IRY  =  -1206040068;
   SS_E  =  -1793310542;
   ysNsCti  =  2012048489;
@@ -72,7 +72,7 @@ int main()
   p6h_V_Bcv  =  (unsigned short)538352205;
   ExkmNSX3U  =  (unsigned short)-563849974;
   RNj24716  =  (unsigned short)2066343160;
-  VKA2bL3  =  940730540;
+  VKA2bL3  =  (unsigned short)940730540;
   WhI3V32u  =  -356052114;
   aLA7Y  =  -499665553;
   qS4_  =  1919605644;
@@ -82,7 +82,7 @@ int main()
   D4000P_Q  =  (unsigned short)117908233;
   x_0JY  =  (unsigned short)-631918189;
   FjhWc15  =  (unsigned short)-1179183575;
-  L7emnX23  =  1666048490;
+  L7emnX23  =  (unsigned short)1666048490;
   g121Q7  =  -1809547255;
   d2VB  =  751120439;
   IySEszGuf  =  1064243254;
@@ -92,7 +92,7 @@ int main()
   N_sN8  =  (unsigned short)1765852691;
   gT5Mqx  =  (unsigned short)1546850694;
   vh67Ln5030  =  (unsigned short)950776195;
-  AuILc  =  1889272534;
+  AuILc  =  (unsigned short)1889272534;
   Bw6s  =  1583058842;
   WxOX2n84  =  -955658550;
   q60oHG8  =  215245171;
@@ -102,7 +102,7 @@ int main()
   T3xGuM8d  =  (unsigned short)-1851179992;
   ddAE  =  (unsigned short)-605490218;
   H2iMnsZ  =  (unsigned short)-1348560851;
-  DSo00c67  =  1943541297;
+  DSo00c67  =  (unsigned short)1943541297;
   Iv4aaSL  =  -678116582;
   E_o7v667  =  -2036154883;
 	short int	rkTeh_6s;

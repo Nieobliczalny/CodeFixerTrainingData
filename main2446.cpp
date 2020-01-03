@@ -261,7 +261,7 @@ t8qAndE_v = (long long)(QcP1J1);
 }
 else if (rk5a != X50Rv0P7q)
 {
-cout << Ro3E(1767964610) << "ly8log_" << zBgF9C((char)2119981376, (unsigned short)336741354, 844921651, 311095587) << KyjBiP1MIK << endl;
+cout << Ro3E(1767964610) << "ly8log_" << zBgF9C((char)2119981376, (unsigned short)336741354, (short)844921651, 311095587) << KyjBiP1MIK << endl;
 }
 else if ((sULZ0srL & W_XtvY28t) && (X50Rv0P7q >= aP_k120OH))
 {

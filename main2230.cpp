@@ -76,7 +76,7 @@ int main(void)
   float  bwTDJ3tR  =  -1624170587;
 	unsigned short int	Z7m1R12	=	(unsigned short)-1096165232;
   short  g_3R6mm3a  =  (short)1407984669;
-	short	Pq_h4T9	=	-754475691;
+	short	Pq_h4T9	=	(short)-754475691;
   unsigned int  k2QLDI7R  =  1935668264;
 	char	F2ZbH	=	(char)1099780668;
  long rvP7O_oT3R = -1984367125;

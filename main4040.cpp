@@ -25,7 +25,7 @@ int main(int argc, char** argv)
 	char	n9xaUmE0xC	=	(char)1216814707;
  short u2um9w1p = (short)-1521902466;
  short int uS0HS = (short)1560961839;
-  short int  Sfg6tjf  =  -233172407;
+  short int  Sfg6tjf  =  (short)-233172407;
     short int    Dtl_AhYff    =    (short)1987070352;
     char    N6tQoQO    =    (char)-1946326185;
   char  W7e12X  =  808567790;

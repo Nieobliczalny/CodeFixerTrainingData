@@ -26,7 +26,7 @@ int main(void)
  unsigned int kJ4p_3mF = -700720426;
     unsigned short int    Fmd4R    =    (unsigned short)-1213525483;
  unsigned char fMUv5 = (unsigned char)-397693505;
-	unsigned short int	glW9U_	=	495987711;
+	unsigned short int	glW9U_	=	(unsigned short)495987711;
 	unsigned long	GD37	=	-1839842137;
   unsigned long long  CIFD8p6  =  536124196;
  unsigned short jXdZ = (unsigned short)-16480489;

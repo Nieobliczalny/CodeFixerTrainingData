@@ -60,7 +60,7 @@ int main(void)
  short int d3Y7 = (short)2052759760;
   unsigned short int  IngnV15  =  (unsigned short)1022679458;
  short int r6ioo54w = (short)1814798175;
- short H6j6nU = -1042154465;
+ short H6j6nU = (short)-1042154465;
     unsigned short    q5uRZ9    =    2039089857;
 	long double	r_1J	=	1181252608;
 	unsigned int	p1zA4T	=	2104803089;

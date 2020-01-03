@@ -35,7 +35,7 @@ if (CNn9i != w41u3h36_)
 {
 if (CNn9i > -2123779001)
 {
-w41u3h36_ = (xHJ88U4yH == 1029555127) ? cZ51Ykg6(953562101, Ie6IT_z, 1480963931) : CNn9i;
+w41u3h36_ = (xHJ88U4yH == 1029555127) ? cZ51Ykg6((unsigned short)953562101, Ie6IT_z, 1480963931) : CNn9i;
 }
 }
 else if ((Ah9F_Hv3) && (w41u3h36_))

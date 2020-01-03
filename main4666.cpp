@@ -42,7 +42,7 @@ int main()
     unsigned char    V12Qn0yn    =    (unsigned char)385492338;
 	short int	GN9RE40	=	(short)-546733500;
     int    u4jS3X4    =    -338196459;
-	short	aUIR65Xn4	=	1771644189;
+	short	aUIR65Xn4	=	(short)1771644189;
  unsigned long long WW10W9gsT = -497438003;
 	char	ofgEOvN	=	(char)1331493213;
  long double VK5lD6wwCS = 1906362177;

@@ -37,7 +37,7 @@ int main(void)
  short qzK8mBRdcG = (short)-1934537032;
 	char	A3xH	=	(char)-520869641;
   unsigned char  QqVz5Z0  =  (unsigned char)1177454611;
-    char    W9w2Pb    =    -931802716;
+    char    W9w2Pb    =    (char)-931802716;
 	float	rSP4pzDM5	=	-577714167;
   double  v8CP  =  1711907126;
     unsigned short    Ix_n7    =    (unsigned short)-1398922563;

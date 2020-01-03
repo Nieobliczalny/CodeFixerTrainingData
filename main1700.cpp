@@ -32,7 +32,7 @@ int main() {
     Vo8dC    =    (unsigned short)-1999238665;
     Oc7N9W    =    (unsigned short)-1760132930;
     tcXrZbZ    =    (unsigned short)-1900113369;
-    Wo4j8fxgpm    =    -1271527306;
+    Wo4j8fxgpm    =    (unsigned short)-1271527306;
     MG0649W6e2    =    814972576;
     YfPz    =    -2001720535;
     y_R_Dl_    =    1375870164;
@@ -42,7 +42,7 @@ int main() {
     d2LSJ    =    (unsigned short)-821941953;
     g6Rj3J0w    =    (unsigned short)135538168;
     iXKh3a8    =    (unsigned short)1439375099;
-    rKQ00    =    377607941;
+    rKQ00    =    (unsigned short)377607941;
     V33W    =    -1954398513;
     L5rm    =    982571220;
     v_WwKt    =    -1053295340;
@@ -52,7 +52,7 @@ int main() {
     sEo673F    =    (unsigned short)-1453134311;
     QLs05cjo6    =    (unsigned short)1546183417;
     ux31g709    =    (unsigned short)-1971384350;
-    y4PX6Wq    =    1415019477;
+    y4PX6Wq    =    (unsigned short)1415019477;
     h6rK_S35    =    -428036214;
     K1Lk    =    -67142244;
     OwJbldG_O7    =    1286364296;
@@ -62,7 +62,7 @@ int main() {
     JuPOZGx_9    =    (unsigned short)1937745133;
     XT8CE4    =    (unsigned short)-388934597;
     pn_8an    =    (unsigned short)1272969326;
-    dRXKa    =    1597940160;
+    dRXKa    =    (unsigned short)1597940160;
     D56EK8O    =    367779331;
     lc39eOQ753    =    802000322;
     S37gLX    =    -1496530764;
@@ -72,7 +72,7 @@ int main() {
     sSEyNwRyu    =    (unsigned short)-533099251;
     KPf1s    =    (unsigned short)1298539484;
     PsNAc3    =    (unsigned short)853753772;
-    m6Pi    =    -836255860;
+    m6Pi    =    (unsigned short)-836255860;
     D4FS8d    =    -677923496;
     k53i3C4    =    -2144376112;
     f_7K4_ND    =    -348532095;
@@ -82,7 +82,7 @@ int main() {
     L1j0mQo1C    =    (unsigned short)-20459008;
     o3E27q8    =    (unsigned short)155541275;
     Zdh_3h4y    =    (unsigned short)-627086339;
-    DqDE85l    =    -1950296315;
+    DqDE85l    =    (unsigned short)-1950296315;
     Tz86O9    =    -1164055988;
     Nx9Gu    =    -1319672809;
     uldSYfTSS    =    -1706711192;

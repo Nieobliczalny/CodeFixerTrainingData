@@ -30,7 +30,7 @@ int main(int argc, char** argv)
  char jDZj5c326 = (char)820448806;
     unsigned short int    c_B3pRg7O1    =    (unsigned short)1311147530;
     short int    jQzXy    =    (short)-348266226;
-	unsigned short	ZfHt	=	-2140611859;
+	unsigned short	ZfHt	=	(unsigned short)-2140611859;
 	short	YWh80ib	=	-275344600;
   unsigned char  JRYmo  =  19483656;
     long long    C8OP    =    265952397;

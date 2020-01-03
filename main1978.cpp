@@ -42,7 +42,7 @@ lkzE2n1E = (int)abs(nuikkOQ6UL);
 
 S7uug34 = uKiHqw((char)-276054303, (short)-1281731470, (unsigned char)489940764);
 
-std::cout << "v7Wg9" << OlFUlE4Zt1(S7uug34, (unsigned short)-414377018) << OlFUlE4Zt1((unsigned char)1240595533, 1543140812) << "t3JfgL" << "r7Ybqzyxr" << std::endl;
+std::cout << "v7Wg9" << OlFUlE4Zt1(S7uug34, (unsigned short)-414377018) << OlFUlE4Zt1((unsigned char)1240595533, (unsigned short)1543140812) << "t3JfgL" << "r7Ybqzyxr" << std::endl;
 
 if (Opv9T_ > 105823871)
 {

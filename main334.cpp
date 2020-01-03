@@ -27,7 +27,7 @@ int main(void) {
  short wz6rNmUl = (short)1303679639;
     char    d7_pb046T4    =    (char)1590843186;
  unsigned char zTS2lwBjL = (unsigned char)898555180;
-	short int	g5d_	=	-1651499921;
+	short int	g5d_	=	(short)-1651499921;
   double  Wveq7  =  -1275879861;
 	unsigned short int	ImrkLx4	=	(unsigned short)-1060271918;
  unsigned long f1s0pHAY01 = 1326810422;
@@ -78,7 +78,7 @@ return 0;
 }
 
 unsigned char    i4Y6_ue(unsigned long    Iqh_J,unsigned short int    WWtGbBNza,unsigned short    aU2v5wg0,unsigned long    DBJuz,short int    ATP39bGY)    {
-    return    134313593;
+    return    (unsigned char)134313593;
 }
 
 int n1m_2luA14(short int hPDuH1d71U,short int bb3ALzxs,unsigned short Q_AaQd4,short int eIqT) {

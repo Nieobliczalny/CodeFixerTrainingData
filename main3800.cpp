@@ -30,7 +30,7 @@ int main(int argc, char** argv)
  short int g7fo53GNYk = (short)-368268531;
   short  o_PNxB  =  (short)-1298270149;
   unsigned short  tOtd_E3LeA  =  (unsigned short)-2055581545;
- unsigned short En72Ya = 1194248771;
+ unsigned short En72Ya = (unsigned short)1194248771;
   float  zfgBgK  =  -2089954479;
     unsigned short    FqHEt    =    (unsigned short)-222543282;
     short    zxl_50    =    1040303272;

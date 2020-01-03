@@ -46,7 +46,7 @@ int main()
   Fer7ONl5  =  (unsigned short)1990730865;
   HTIJC  =  (unsigned short)1358535059;
   n5U6c  =  (unsigned short)1690054182;
-  h_pE  =  -1828144817;
+  h_pE  =  (unsigned short)-1828144817;
   ZvMm5n9  =  -1652554348;
   h673  =  1476756821;
   EO3VeOD_M9  =  189167160;
@@ -56,7 +56,7 @@ int main()
   ktFK650  =  (unsigned short)-1500634897;
   O599mins4O  =  (unsigned short)94478510;
   f1VV4a  =  (unsigned short)-1031647935;
-  M13TRC  =  -419794969;
+  M13TRC  =  (unsigned short)-419794969;
   LkXC6B_3BJ  =  313474113;
   oZDmZ  =  1885428719;
   AHdYcA  =  1778587160;
@@ -66,7 +66,7 @@ int main()
   DTgbs5oTRL  =  (unsigned short)385334924;
   D14cPvV  =  (unsigned short)-572483280;
   DgMU_Y4bcT  =  (unsigned short)-1713947675;
-  i9_4FOsswK  =  -172618145;
+  i9_4FOsswK  =  (unsigned short)-172618145;
   NsPOz2  =  1160581997;
   JaYmYT  =  2110836834;
   N_xL58  =  1526088542;
@@ -76,7 +76,7 @@ int main()
   AIYSc  =  (unsigned short)-492352999;
   OzpxOrJi5h  =  (unsigned short)718826934;
   he6oEPnQU  =  (unsigned short)-1539361022;
-  QX397r3S  =  -159831552;
+  QX397r3S  =  (unsigned short)-159831552;
   D3dz  =  -1807008955;
   RH7b  =  6051154;
   FIIH0yXH_  =  1922192111;
@@ -86,7 +86,7 @@ int main()
   Fppe  =  (unsigned short)-1385754545;
   ajq_6e  =  (unsigned short)1919891407;
   oz9bwx1A  =  (unsigned short)1536589578;
-  WAvydKoBI4  =  306864834;
+  WAvydKoBI4  =  (unsigned short)306864834;
   zbZbDWeQk  =  1344695483;
   Uq80K1DEvv  =  -1324043603;
   Q4qz8alCV  =  -802384982;
@@ -96,7 +96,7 @@ int main()
   XJ7Wiekr1g  =  (unsigned short)154706863;
   zTUwG_F3Y7  =  (unsigned short)1336885090;
   LznGZkA7Tl  =  (unsigned short)-1791849571;
-  bqT4  =  864595215;
+  bqT4  =  (unsigned short)864595215;
   QV2Pc57  =  -1304078847;
  long long c3Cfm6s, g545t61bx0, rezVH, tJ1V_R;
  c3Cfm6s = 0;
@@ -948,7 +948,7 @@ if (g545t61bx0 <= IsHqE6)
 {
 if (OzpxOrJi5h != -1484285141)
 {
-N_xL58 = (zbZbDWeQk < rX_95u8) ? (unsigned short)33191631 : 12250917;
+N_xL58 = (zbZbDWeQk < rX_95u8) ? (unsigned short)33191631 : (unsigned short)12250917;
 }
 else
 {

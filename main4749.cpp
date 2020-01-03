@@ -21,7 +21,7 @@ int main(void) {
 	short int	R44l13SJt8	=	(short)1656601715;
 	unsigned short	R760S	=	0;
     unsigned short int    Hqq7Fnr9i2    =    (unsigned short)1236191171;
- unsigned short KQH0Y7f = 1171742290;
+ unsigned short KQH0Y7f = (unsigned short)1171742290;
   double  t7Q3UBR9V8  =  1003839012;
  unsigned long long iDcG = 1295484871;
     unsigned int    pzuf    =    52763277;

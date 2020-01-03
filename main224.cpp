@@ -457,7 +457,7 @@ else if ((fk75Hw != Vlpa4) && (GWk8 >= U7SV))
 {
 try
 {
-ko44w0nQQ = bx8i9lem25((unsigned char)1277958514, 570877471, hO372GW);
+ko44w0nQQ = bx8i9lem25((unsigned char)1277958514, (char)570877471, hO372GW);
 }
 catch (int& errorCode)
 {

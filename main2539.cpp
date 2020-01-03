@@ -46,7 +46,7 @@ int main() {
  unsigned short ZeQl = (unsigned short)-1621335294;
  float a8Ddw05Z7 = -1856508468;
  short int yS15O9A2 = (short)-943215931;
- unsigned short int c06_Bz = 19247171;
+ unsigned short int c06_Bz = (unsigned short)19247171;
     float    u0ddB    =    2091044133;
 
 try

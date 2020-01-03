@@ -82,7 +82,7 @@ int main() {
  unsigned short int L3XQh4 = (unsigned short)-1088319712;
  unsigned long long tld_P = 93054236;
  short U60wX = (short)-611797587;
-  unsigned short int  vYMKV_MHy  =  -62667682;
+  unsigned short int  vYMKV_MHy  =  (unsigned short)-62667682;
 
 OpcFkozU = (int)abs(j_o37Ys);
 if ((U5o_V == xAnbC4) && ((xAnbC4 < -797754215) && (zj8I & RCDGA)))

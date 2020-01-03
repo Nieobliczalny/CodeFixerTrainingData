@@ -40,7 +40,7 @@ int main(void)
  char kuHa70_Vek = (char)211301605;
   int  s657Q0  =  -482401794;
     short    q59_9o369    =    (short)2140450722;
- unsigned char LMe5ke5z = 1394237592;
+ unsigned char LMe5ke5z = (unsigned char)1394237592;
     char    NPkIiQ221_    =    (char)-1387660699;
 	double	O_hKlp	=	-1405582673;
  unsigned int YMwWGhZdDf = 1611333271;
@@ -68,7 +68,7 @@ int main(void)
     long double    Rt7Y5U    =    -1563744811;
   long long  PTChNk  =  -1968794039;
     short    t572GH6a99    =    (short)-737794124;
-	short int	lD2PG	=	-835586138;
+	short int	lD2PG	=	(short)-835586138;
     long long    UQ2ZCEfJ    =    977096289;
  int ab6R0F = 469627473;
  short ie52 = (short)2096055;

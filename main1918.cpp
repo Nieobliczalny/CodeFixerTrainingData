@@ -293,7 +293,7 @@ case 'b':
 i5S7K8n = cACjo4A(-1945548923, (short)1060549769, UZpg_RRdD, (unsigned char)-297843648);
 break;
 case 'c':
-JkTo8EkqK = cACjo4A(211956765, (short)-2067803015, (short)1803661159, 940339421);
+JkTo8EkqK = cACjo4A(211956765, (short)-2067803015, (short)1803661159, (unsigned char)940339421);
 break;
 case 'd':
 T6gvRweScI = (int)abs(YNdIy26m);

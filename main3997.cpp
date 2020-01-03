@@ -27,7 +27,7 @@ int main(int argc, char** argv)
  f63Q68Kfn6 = (char)1454370693;
  C5LK = (char)-935089866;
  kQ4_6H2D = (char)975020145;
- EXszhc = 518889919;
+ EXszhc = (char)518889919;
  Iac9851CAD = -505746876;
  eY_ms9w = -475418877;
  V6a0YNJpB1 = 1435939643;
@@ -37,7 +37,7 @@ int main(int argc, char** argv)
  loI7w = (char)-1931535312;
  u9_ZwgKro = (char)-489439798;
  o5_Gt_4L = (char)-487635503;
- O77A36ds = -31441427;
+ O77A36ds = (char)-31441427;
  JGU74E = -1789052319;
  uXGZjNVdg4 = 109116361;
  YB473 = -1943808700;

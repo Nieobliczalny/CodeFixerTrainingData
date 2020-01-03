@@ -63,7 +63,7 @@ int main()
 	int	VQ1V91	=	1728644150;
 	unsigned long long	n5avnh	=	1006916064;
     int    o99dw3V    =    1106128198;
-  unsigned short int  C90_  =  1094966319;
+  unsigned short int  C90_  =  (unsigned short)1094966319;
 	unsigned long long	xvpdEUcJ	=	569625701;
     short int    dBzi    =    (short)519180378;
  unsigned long long URch_7_2n7 = 319080595;

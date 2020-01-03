@@ -82,7 +82,7 @@ int main() {
  unsigned short int LbL_HiVPZ = (unsigned short)-1981561131;
   unsigned short int  zs5B  =  (unsigned short)167069838;
     float    H1Uu695S    =    1983548412;
-    unsigned short    XlO4PAwML    =    -1239096011;
+    unsigned short    XlO4PAwML    =    (unsigned short)-1239096011;
   unsigned char  voP9_Cyi3  =  1958672684;
 	unsigned long	Bz40	=	1368240838;
  long I_DC = -1358026371;

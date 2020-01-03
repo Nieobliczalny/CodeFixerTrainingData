@@ -58,7 +58,7 @@ switch (d_zcz3U)
 {
 case 'a':
 case 'A':
-zjpwBvWK = i2k5RH(zjpwBvWK, fH3li, -1798130562, 1512544285, tuBe_Rp6P);
+zjpwBvWK = i2k5RH(zjpwBvWK, fH3li, (unsigned char)-1798130562, 1512544285, tuBe_Rp6P);
 break;
 default:
 d_zcz3U = i2k5RH(d_zcz3U, tbC5M4xm, (unsigned char)1161053211, -1698032177, oVQoj5ql);
@@ -170,7 +170,7 @@ std::cout << It68vAoTG << fH3li << i2k5RH(fH3li, (char)1165992251, (unsigned cha
 }
 else if (zjpwBvWK < 234689563)
 {
-d_zcz3U = i2k5RH((short)-215472923, d_zcz3U, 104124495, -1793783940, 1498878614);
+d_zcz3U = i2k5RH((short)-215472923, d_zcz3U, (unsigned char)104124495, -1793783940, 1498878614);
 }
 else if (d_zcz3U & -1842295555)
 {

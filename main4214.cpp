@@ -66,7 +66,7 @@ int main(int argc, char** argv)
     unsigned long long    KD5K    =    1515796411;
     short int    n1hV    =    (short)1430402129;
     int    T606g    =    962711391;
- unsigned char V8T5u2h = -1466681010;
+ unsigned char V8T5u2h = (unsigned char)-1466681010;
  char s9nv65 = (char)1851380814;
 	unsigned short int	YTgCUA	=	(unsigned short)-1950648786;
   unsigned short  g778  =  -1932049354;

@@ -76,7 +76,7 @@ case 'c':
 Ra0rVd = t7Y_6(Ra0rVd, Ww83Zg, (unsigned short)1648256156, cOxml, ofqs97) | 798185408;
 break;
 case 'd':
-WOthLG3dy = t7Y_6((char)-1262478570, -1992272536, u428oOUh, Euf3tj, -340492326);
+WOthLG3dy = t7Y_6((char)-1262478570, (short)-1992272536, u428oOUh, Euf3tj, -340492326);
 break;
 case 'e':
 ofqs97 = ofqs97 + 1102123590;

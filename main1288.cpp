@@ -45,7 +45,7 @@ int main() {
 	char	pwu0u6G2J6	=	(char)1226265965;
   unsigned char  M806RR  =  (unsigned char)-1606738471;
     unsigned short    Dot8    =    (unsigned short)-114812549;
-  short int  Pv1P  =  1392008739;
+  short int  Pv1P  =  (short)1392008739;
   unsigned short  JjSg37rOTE  =  -996204584;
  unsigned short xr1q_ = (unsigned short)-673489280;
   unsigned char  w_i5_ABw4  =  (unsigned char)193509405;

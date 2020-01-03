@@ -29,7 +29,7 @@ int main() {
   unsigned short int  u936  =  (unsigned short)-1918768021;
     unsigned short    i2YLx7Zm    =    0;
  char jSIQ_f8o = (char)-1574127091;
-    unsigned short int    Peld_738Y    =    -700871996;
+    unsigned short int    Peld_738Y    =    (unsigned short)-700871996;
   short  upX2Q7q  =  0;
     long long    kIP6cx6    =    -422375525;
  unsigned short NhqL = (unsigned short)-802393573;

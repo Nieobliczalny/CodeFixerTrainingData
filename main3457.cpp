@@ -80,7 +80,7 @@ int main(void) {
 	unsigned short int	ViMrHHg2z_	=	(unsigned short)1494954836;
     unsigned short int    Bvu8    =    (unsigned short)-1008676786;
  short int viNJef_6 = (short)-367581668;
-	unsigned char	F5ABJ6Rzg2	=	72657313;
+	unsigned char	F5ABJ6Rzg2	=	(unsigned char)72657313;
  unsigned short pWzPOu7pW = (unsigned short)-1894639849;
     unsigned long long    Lp_5J_P4    =    0;
 

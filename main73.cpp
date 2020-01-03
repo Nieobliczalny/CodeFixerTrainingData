@@ -30,7 +30,7 @@ int main(int argc, char** argv)
  unsigned char N2aH = (unsigned char)2085662825;
  int pD197_RS83 = -1884062199;
  unsigned short I4L7In82 = (unsigned short)1506711720;
-  unsigned char  eu_vS8  =  691971426;
+  unsigned char  eu_vS8  =  (unsigned char)691971426;
 	short	eLMF	=	(short)897692081;
   int  kd9R  =  1101955633;
   long double  mFhpdpa  =  -798337779;

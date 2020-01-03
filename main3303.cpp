@@ -35,7 +35,7 @@ for (int j = 5; j >= 0; --j)
 {
 if (OG1z != kaLuz7_6)
 {
-hFSb2 = GP8P142Y_(hFSb2, 1929092376, ohRh5_B, C1mpwB, -801529153);
+hFSb2 = GP8P142Y_(hFSb2, (unsigned short)1929092376, ohRh5_B, C1mpwB, -801529153);
 }
 else if (OG1z <= -1615748972)
 {

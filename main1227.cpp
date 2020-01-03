@@ -102,7 +102,7 @@ int main(int argc, char** argv) {
     unsigned char    KRzLY2_E5    =    (unsigned char)-2138176145;
     unsigned short int    Dkn1D    =    (unsigned short)1515357784;
   int  Sv57D8q  =  639517629;
-    short int    zNq9T21    =    899606950;
+    short int    zNq9T21    =    (short)899606950;
   double  lIj8oX  =  1060087927;
   double  EA99yQcGX  =  -309150375;
     unsigned char    N63iq    =    (unsigned char)-1549415575;

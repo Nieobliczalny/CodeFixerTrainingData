@@ -60,7 +60,7 @@ int main(int argc, char** argv) {
     unsigned short int    wLqvu4d1    =    (unsigned short)1643252720;
  unsigned short int YJU60j = (unsigned short)348144794;
   long double  P41m70aj7  =  -334869235;
-  char  htvZ9ImB  =  -753422051;
+  char  htvZ9ImB  =  (char)-753422051;
   unsigned short int  p5wU  =  0;
 
 if (Uo3qRV8z <= tL8oh__)

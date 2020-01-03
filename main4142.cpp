@@ -94,7 +94,7 @@ int main(void)
 	short	V4i91h0B6L	=	(short)-469996254;
     char    XaiZ    =    (char)35452797;
 	short	KUC7_89V	=	(short)1575065550;
-	unsigned short	LK7Hl8Mn	=	564847134;
+	unsigned short	LK7Hl8Mn	=	(unsigned short)564847134;
  long long E11F = -1957306694;
  long long L2hQb24bl = 1296320082;
  char a2a5X = (char)2028663842;

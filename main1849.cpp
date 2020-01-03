@@ -78,7 +78,7 @@ int main(void) {
   unsigned char  a_blh  =  (unsigned char)5769208;
   char  tcg_  =  (char)2121520595;
 	int	qMe1UXa9	=	-1801727648;
- short int I6818hh = -840086335;
+ short int I6818hh = (short)-840086335;
 	char	Eer32m4IIK	=	0;
   char  uWy92F5_  =  (char)1411832009;
 	unsigned char	sm633ZP7o	=	(unsigned char)89102976;

@@ -54,7 +54,7 @@ int main(int argc, char** argv)
  unsigned short int WdxK8U_91 = (unsigned short)1186675835;
  unsigned short PvB__ = (unsigned short)1196257377;
 	unsigned char	mU7ur	=	(unsigned char)942534539;
-	unsigned short int	B55em0	=	398867549;
+	unsigned short int	B55em0	=	(unsigned short)398867549;
 	char	npBh873	=	-855688420;
  unsigned long FivW = -868645718;
  unsigned char wIEuHe = (unsigned char)-751928596;

@@ -58,7 +58,7 @@ int main() {
  char wp_v4Qo = (char)-2099261083;
     int    mA7n2S    =    -1123096142;
 	unsigned short int	PVP9TD2_	=	(unsigned short)898103604;
-	unsigned short int	oB6w2thgB7	=	1337256182;
+	unsigned short int	oB6w2thgB7	=	(unsigned short)1337256182;
     unsigned long    UU856V4zBe    =    -2064491791;
 	unsigned int	Vw2m	=	-1338959487;
  long long VgcEsLw5i7 = 1359383455;
@@ -69,7 +69,7 @@ int main() {
 
 eBRe_o = (unsigned long)(oB6w2thgB7);
 xfv6u51 = YDqgn((short)461156788, (short)1572038913, 565255213, -1181190072);
-cout << AWGUEPpbK << IId_(-666567397, 1375483999) << nar8K() << "xBud" << endl;
+cout << AWGUEPpbK << IId_((unsigned short)-666567397, 1375483999) << nar8K() << "xBud" << endl;
 
 if (((t84CXMY <= A90Tef7NKe) && (NbRFIH2 != -2092354875)) && ((mA7n2S & h4E7HTw) && (lf7Qp47 != h4E7HTw)))
 {

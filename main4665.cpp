@@ -66,7 +66,7 @@ int main(void)
   unsigned short  h0T45  =  (unsigned short)2074909703;
   unsigned long long  w59ESrlZ  =  -1228769181;
 	unsigned short int	sSZ8l_c3	=	(unsigned short)-32090580;
-    char    RbY9uoVhS    =    1405793079;
+    char    RbY9uoVhS    =    (char)1405793079;
  unsigned long long DXe_C = -888375184;
   float  UIyr  =  476381106;
  unsigned char xsQeulsK = (unsigned char)-499549011;

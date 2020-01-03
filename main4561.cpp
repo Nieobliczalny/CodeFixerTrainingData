@@ -95,7 +95,7 @@ int main(int argc, char** argv)
   char  w_z1  =  (char)-667715096;
  long long yi6pJE_6 = -479439779;
  unsigned short int Z1l9019xi = (unsigned short)-1861544388;
-  unsigned short  jW4DlUF5N  =  1977365288;
+  unsigned short  jW4DlUF5N  =  (unsigned short)1977365288;
   unsigned short  K1b4fiEe  =  (unsigned short)1891352594;
 	long double	MNXnrXw2WA	=	-12055451;
     int    bxbSB6    =    352365109;

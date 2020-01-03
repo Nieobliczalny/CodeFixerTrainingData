@@ -32,7 +32,7 @@ int main()
 	short	qilb4lZ6M	=	(short)40209634;
     unsigned short    l3d9O84    =    (unsigned short)-1764419218;
 	unsigned short int	gUtU5Tn	=	(unsigned short)-1389856283;
-  short int  UQgZ8  =  2030127309;
+  short int  UQgZ8  =  (short)2030127309;
  int v7thw = -1329072534;
 	short	vZ2UO31bE_	=	(short)979374588;
 	long double	ed049B	=	1122870940;
@@ -259,7 +259,7 @@ case 6:
 Sr4eXn_HVV = BE7M_x67 * SC4l8OJ;
 break;
 case 7:
-Bc0paLn_ = t4q_QqG(Bc0paLn_, (short)1097337808, 108317050, -1180424731, 1493203707);
+Bc0paLn_ = t4q_QqG(Bc0paLn_, (short)1097337808, (unsigned short)108317050, -1180424731, 1493203707);
 break;
 }
 }

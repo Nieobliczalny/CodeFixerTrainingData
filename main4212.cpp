@@ -44,7 +44,7 @@ int main() {
   long double  r424  =  -1106299282;
  unsigned char PTj5_0Nt0 = (unsigned char)179151016;
  long BG74cZsdZX = 727296908;
-  unsigned char  l54Mv2N0  =  877885668;
+  unsigned char  l54Mv2N0  =  (unsigned char)877885668;
  int h8TOP = 1083589419;
   short int  miyDN1  =  (short)-1894656265;
     long double    a2b5y9n9_    =    1751381240;

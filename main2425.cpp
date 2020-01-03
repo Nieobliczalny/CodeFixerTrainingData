@@ -114,7 +114,7 @@ int main(void)
     long    NU6v    =    1104691341;
 	double	oL68C7cZC	=	1192441759;
 	short	EljCAt9J	=	(short)1844630167;
- unsigned short QiRF3qs3w = 2003070712;
+ unsigned short QiRF3qs3w = (unsigned short)2003070712;
  long long bcylTdw = 796332847;
   unsigned short  hIi70azk  =  (unsigned short)-947457922;
  unsigned long long H_XD = -1761141005;

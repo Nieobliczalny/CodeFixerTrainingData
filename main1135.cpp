@@ -22,7 +22,7 @@ int main(void)
   DmWg6e_  =  (short)1860111721;
   E50_323J3p  =  (short)-840303260;
   DaCTX17r  =  (short)970311864;
-  M6XvJoln  =  1340003466;
+  M6XvJoln  =  (short)1340003466;
   cKe9ds3h  =  1688513628;
   Ts5uI912C  =  2080079096;
   GuH42MEB  =  742334245;
@@ -32,7 +32,7 @@ int main(void)
   t8d1UW41i  =  (short)2031267845;
   bcV9JW  =  (short)-1250048967;
   hnW1CA  =  (short)-117980695;
-  IKEkjLLtz  =  -561920606;
+  IKEkjLLtz  =  (short)-561920606;
   ONkC  =  81097547;
   LIi1Re2vFe  =  1288599581;
   m_F9Gwx  =  -1012763619;
@@ -42,7 +42,7 @@ int main(void)
   V9e_c  =  (short)-835565318;
   SM1KW_  =  (short)-1036414495;
   u7968zi02  =  (short)31952100;
-  Nn5xam  =  1088426915;
+  Nn5xam  =  (short)1088426915;
   a7ni  =  81916014;
   pJ9Z62yaHJ  =  1338748173;
   bocer4  =  483817355;
@@ -52,7 +52,7 @@ int main(void)
   ILO9  =  (short)1151098689;
   r36Wf8_Bc  =  (short)-1449795726;
   Ip43hu  =  (short)25313957;
-  tDc50  =  43440187;
+  tDc50  =  (short)43440187;
   A9vXmR  =  -599678289;
   PHsCRuUO2  =  -654827627;
   hEes2  =  241199084;
@@ -62,7 +62,7 @@ int main(void)
   h5an093w9_  =  (short)429758849;
   Uz0CNA3N  =  (short)-891587071;
   E4Xy_  =  (short)-566838952;
-  Ti3_  =  608970325;
+  Ti3_  =  (short)608970325;
   mhU7W7  =  1643216997;
   sizjkX3_T  =  -1585413173;
   rll5  =  1744163886;
@@ -72,7 +72,7 @@ int main(void)
   g48s81  =  (short)-1813982098;
   EF6jY5mr78  =  (short)1829924095;
   zLuX5A  =  (short)-997926924;
-  KF7_Vk_  =  1978173266;
+  KF7_Vk_  =  (short)1978173266;
   unsigned short int  pDLi,  zM_Q112r,  i7RZH6e;
   pDLi  =  0;
   zM_Q112r  =  0;
@@ -382,7 +382,7 @@ case 8:
 pDLi = Ue68jWtM9g(cKe9ds3h, (char)1099071204, (unsigned short)678547444, m65OLV13_);
 break;
 default:
-pDLi = Ue68jWtM9g((char)772819317, SM1KW_, m65OLV13_, -1066837555);
+pDLi = Ue68jWtM9g((char)772819317, SM1KW_, m65OLV13_, (unsigned short)-1066837555);
 break;
 }
 }
@@ -413,7 +413,7 @@ else if ((m_F9Gwx) || (KF7_Vk_ != ILO9))
 int k = 8;
 while (k >= 0)
 {
-pDLi = Ue68jWtM9g((char)-320784139, (char)-1281805714, (unsigned short)-1510904745, -1848782935);
+pDLi = Ue68jWtM9g((char)-320784139, (char)-1281805714, (unsigned short)-1510904745, (unsigned short)-1848782935);
 k--;
 }
 }

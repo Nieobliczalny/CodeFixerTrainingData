@@ -26,7 +26,7 @@ int main()
     pv1R1J97K    =    (char)-1155496224;
     X_Qd856G    =    (char)-563110853;
     MJ4rnHh7EB    =    (char)361145217;
-    y9Du    =    1186525835;
+    y9Du    =    (char)1186525835;
     Z15o0    =    -1677190879;
     QqG9DU    =    -1856984161;
  int otg6Z8aC, tY93H, b_F7Sa, iZrPu8OB88;

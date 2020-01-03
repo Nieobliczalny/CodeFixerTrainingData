@@ -21,7 +21,7 @@ int main(int argc, char** argv) {
 	k4yu0nH	=	(unsigned short)-679366089;
 	G2PQNf5	=	(unsigned short)435500941;
 	YNl70	=	(unsigned short)540474472;
-	SAs2Kx0NN_	=	1506409681;
+	SAs2Kx0NN_	=	(unsigned short)1506409681;
 	eSR2Pv2	=	-664845314;
 	pj4q4	=	-1142851120;
 

@@ -239,7 +239,7 @@ try
 {
 if (((MEZ0E8F > B_4X2Bb4s) && (C_bhBK >= kh9Q)) && ((w1hiYe < -110422213) && (hz2K >= 1643721684)))
 {
-wb1n_3Yw = ng4p_S7(-285586478, k7prqa2x, 962671873, C5M6vXt, 1972436575);
+wb1n_3Yw = ng4p_S7((short)-285586478, k7prqa2x, 962671873, C5M6vXt, 1972436575);
 }
 else if (dnHlU830OP != 1283919458)
 {

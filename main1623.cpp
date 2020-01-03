@@ -47,7 +47,7 @@ int main(int argc, char** argv) {
   short  Gl91LLq  =  0;
 	char	ymKCiHGiCt	=	(char)-1556160247;
  short int t33pm = (short)152959681;
-    unsigned char    w22ZPrIrvr    =    -1394662665;
+    unsigned char    w22ZPrIrvr    =    (unsigned char)-1394662665;
   char  vu_9T  =  (char)1751155144;
     unsigned char    JHMSQ    =    (unsigned char)-1169226089;
 	unsigned int	RAM1Hk00_	=	1532916327;

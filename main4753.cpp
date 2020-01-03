@@ -113,7 +113,7 @@ int main(int argc, char** argv) {
     unsigned long long    SVhWGiSKTF    =    -559573391;
  unsigned char BUBG052u = (unsigned char)575510885;
  unsigned short int IdxW3yF7 = (unsigned short)-52584538;
-    unsigned short    IX1OQ68    =    1331652037;
+    unsigned short    IX1OQ68    =    (unsigned short)1331652037;
 
 if (f19K50h > Y_k972_bdv)
 {

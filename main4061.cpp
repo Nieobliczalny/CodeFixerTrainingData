@@ -657,7 +657,7 @@ case 2:
 v36jD = dr0N((char)-1141529292, (unsigned char)-1411427504, sssp5423, (unsigned char)1625457117);
 break;
 case 3:
-Be44 = CD2_v3(Be44, 572786631, -835768372, -1120003433, CIg8);
+Be44 = CD2_v3(Be44, 572786631, (unsigned short)-835768372, -1120003433, CIg8);
 break;
 case 4:
 OjZZo += 499151685;

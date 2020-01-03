@@ -171,7 +171,7 @@ gtsFODTYi6 = ATpU3(-776333580, (unsigned short)655171661, i4T40I, (short)2052541
 int i = 0;
 while (i < 8)
 {
-Vjt5R24 = ATpU3(a53XaS490, (unsigned short)-288430185, -250736605, -796207576);
+Vjt5R24 = ATpU3(a53XaS490, (unsigned short)-288430185, (char)-250736605, -796207576);
 ++i;
 }
 }

@@ -86,7 +86,7 @@ int main(void) {
     unsigned char    A8s3Y0Gp    =    (unsigned char)-10346283;
   unsigned short  wE4yCkAla0  =  (unsigned short)1953259161;
   unsigned short int  rP77ZZc3AC  =  (unsigned short)265117781;
-  unsigned char  YNwm_yn3IV  =  15559525;
+  unsigned char  YNwm_yn3IV  =  (unsigned char)15559525;
     long long    Yg9FAuE6    =    986637502;
 
 F662h9w = m51g156(F662h9w, D4po_W7, (unsigned short)1805420612, MgH98jie0l, uO02);

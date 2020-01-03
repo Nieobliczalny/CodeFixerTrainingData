@@ -44,7 +44,7 @@ int main()
     short    Cqp9    =    (short)-1002826697;
 	unsigned short	HYh4	=	0;
 	unsigned long	TT0Le6_530	=	-2122374018;
-    short    vtQO76Cd76    =    1965578559;
+    short    vtQO76Cd76    =    (short)1965578559;
   char  UizU_Q  =  (char)-943091495;
  long XO74oJ = 1536353251;
  short w_Q6r5jFo = (short)1583911486;
@@ -109,7 +109,7 @@ int main()
 	short	fRm2	=	(short)-25230497;
  float uJE_niY = 279784044;
  unsigned char rq2p54 = (unsigned char)229150152;
-	char	QHR7vRKYX7	=	-1184990162;
+	char	QHR7vRKYX7	=	(char)-1184990162;
 
 zkhff46TE = O11z6W1 * 1334650879;
 switch (q72SVwRFw8)

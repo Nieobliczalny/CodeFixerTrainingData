@@ -194,7 +194,7 @@ case 8:
 tt3IrO = Sm97_sPre((short)-1888926775, (char)-795560442, -1975903633, (char)579520420, (unsigned char)-1021546385);
 break;
 case 9:
-z_5p3Mc_J = Sm97_sPre(z_5p3Mc_J, 832443416, GQfe, JpBaOV1, m_I9_0zC6W);
+z_5p3Mc_J = Sm97_sPre(z_5p3Mc_J, (char)832443416, GQfe, JpBaOV1, m_I9_0zC6W);
 break;
 }
 }

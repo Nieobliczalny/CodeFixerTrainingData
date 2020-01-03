@@ -82,7 +82,7 @@ int main() {
 	short int	t7wP_p1Dq	=	(short)-1577239661;
     long    x6eu    =    -970286941;
 	int	O9RP816dv	=	1096071349;
-  unsigned short int  d6tNZvD1q  =  127004200;
+  unsigned short int  d6tNZvD1q  =  (unsigned short)127004200;
 	unsigned long long	n2lL	=	-265537122;
  unsigned int td8TZ6X = 0;
     unsigned long    ptjS8    =    0;

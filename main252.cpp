@@ -57,7 +57,7 @@ int main() {
   short  JD66D  =  (short)-203072055;
   short  HFv49  =  (short)-1104376720;
     unsigned short    rbmxX9    =    (unsigned short)1952053686;
-    char    k3a9dSvQR    =    -425016315;
+    char    k3a9dSvQR    =    (char)-425016315;
  unsigned short M186_ = (unsigned short)361894449;
  char knaKJk = (char)-1589539279;
   short int  RHP5y  =  -128693969;

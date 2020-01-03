@@ -23,7 +23,7 @@ int main(int argc, char** argv)
  U4zO4_ = (unsigned char)987351564;
  D319Um95 = (unsigned char)-303010415;
  XKg0 = (unsigned char)-202126980;
- OlQ0Frx = -1535595773;
+ OlQ0Frx = (unsigned char)-1535595773;
  jF78xd = 1701584649;
  vpLU = 784234697;
  TpDQMdGbV = -293883860;
@@ -33,7 +33,7 @@ int main(int argc, char** argv)
  o6cc = (unsigned char)-517481569;
  D6f8Z5o = (unsigned char)899322601;
  H98c = (unsigned char)1665965110;
- l211rz = -1353167387;
+ l211rz = (unsigned char)-1353167387;
  Ag22MmrDx = 688745435;
  gRUB7acU = -644612068;
  j63N = -382292589;
@@ -43,7 +43,7 @@ int main(int argc, char** argv)
  z7K_TFC0 = (unsigned char)595177748;
  IsAaAByVz = (unsigned char)137640383;
  GLPiopI92 = (unsigned char)887048861;
- Qoc28TV99 = -725857939;
+ Qoc28TV99 = (unsigned char)-725857939;
  fj2IAv = -1206510308;
  WO3xnLA98 = -645946128;
  z1M6EGP8 = 600415865;
@@ -53,7 +53,7 @@ int main(int argc, char** argv)
  zQoyMnP = (unsigned char)1364714562;
  Cg9ZAca = (unsigned char)-1916880777;
  pO7PT_u39 = (unsigned char)-1799726840;
- Da36shixS = 1368707059;
+ Da36shixS = (unsigned char)1368707059;
  vAWGHY3c = -531451557;
  i5L28UTF = -445637780;
  Zl35I_X = -776228022;
@@ -63,7 +63,7 @@ int main(int argc, char** argv)
  ntWwRD = (unsigned char)851240195;
  a8R7W = (unsigned char)2035698637;
  fLZkgn__7d = (unsigned char)1992353159;
- Fig9 = 1892363907;
+ Fig9 = (unsigned char)1892363907;
  eaT1 = -1621487810;
  pDcS2b = 88676820;
  FuTkiGP0I8 = -1828101497;
@@ -73,7 +73,7 @@ int main(int argc, char** argv)
  NL06N = (unsigned char)-2037712758;
  V1_Qh = (unsigned char)-388793805;
  R682JQz = (unsigned char)1944246678;
- iKSd = -486735333;
+ iKSd = (unsigned char)-486735333;
  N_03 = 365380598;
  rbIm_ = -1579142402;
  VG8ETIkx = -1942922013;
@@ -83,7 +83,7 @@ int main(int argc, char** argv)
  yzdLg413Yi = (unsigned char)-707658949;
  RWhvLU7 = (unsigned char)-365790857;
  XNt__Ea = (unsigned char)-273303217;
- s4__PJSl = 35443978;
+ s4__PJSl = (unsigned char)35443978;
  Hg0KR = 1897363867;
  A4f59o = -1210258294;
  o746 = -1386717591;

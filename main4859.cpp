@@ -69,7 +69,7 @@ int main() {
 	unsigned short int	fvbw_f0	=	(unsigned short)-535572954;
   unsigned char  DHH7  =  (unsigned char)748760962;
  long long e_NP8 = -256463893;
- unsigned char A5yLGIBf = -1891169237;
+ unsigned char A5yLGIBf = (unsigned char)-1891169237;
     long long    Wk2hc4i6    =    0;
     int    FeRBN90_    =    2094402083;
     unsigned long long    sutne    =    -674924357;

@@ -52,7 +52,7 @@ int main(int argc, char** argv)
 	char	pFqcd_	=	(char)-1684154727;
 	unsigned char	VF2r	=	(unsigned char)-1418553168;
 	double	iq67	=	1864201975;
- char tnE_ = -2111750638;
+ char tnE_ = (char)-2111750638;
     long long    kkV_af23lj    =    0;
   float  wwqy15fj5b  =  1924472346;
 	unsigned short int	OV7M4	=	(unsigned short)-1392989319;

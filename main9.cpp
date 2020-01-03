@@ -374,7 +374,7 @@ case 'g':
 Wx58 = CFtir0S(Wx58, OwOvh30D, (unsigned char)1948318517, -1933260000, (unsigned char)-338474808);
 break;
 case 'h':
-I8577_N = ZKB_3_3m((short)1325711920, m8al_f2, (short)1666174228, -736048318);
+I8577_N = ZKB_3_3m((short)1325711920, m8al_f2, (short)1666174228, (unsigned short)-736048318);
 break;
 case 'i':
 F_nvu0s8 = eJ7_d4Sf((short)1825252806, (char)-1029778536, x7Ucxl0);

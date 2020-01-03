@@ -32,7 +32,7 @@ int main(int argc, char** argv)
     unsigned short int    NCtDYa4Vts    =    (unsigned short)20424775;
   unsigned short int  PcqP2_z5  =  (unsigned short)140046938;
  unsigned short Z69UhAKfwS = (unsigned short)-694014107;
-  unsigned char  kL7Hfg  =  -740517302;
+  unsigned char  kL7Hfg  =  (unsigned char)-740517302;
     unsigned int    f9HzaV    =    -422066497;
 	long	bS54l2CW	=	1027217314;
 	float	FIz06Xrs	=	-1465315776;

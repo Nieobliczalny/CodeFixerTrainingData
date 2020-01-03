@@ -20,7 +20,7 @@ int main() {
  UItYPo9jH = (unsigned short)2085721000;
  yh6vDrq64I = (unsigned short)-1101151541;
  h883 = (unsigned short)-516731329;
- OwIoT1 = -2053710205;
+ OwIoT1 = (unsigned short)-2053710205;
  l2PFDQ = -468170449;
  o2xKNZ = 1857288226;
  B5KEH1h07k = -2127404754;

@@ -29,7 +29,7 @@ int main(int argc, char** argv) {
 	b1S9l36	=	(char)-1010594821;
 	jJiu7s2t	=	(char)-789363975;
 	WbdEM	=	(char)-836132371;
-	aUd20_fF61	=	580173794;
+	aUd20_fF61	=	(char)580173794;
 	woQS8UV9c	=	-1824680940;
 	k2M_0	=	-1859118671;
 	em30_1	=	1815374413;
@@ -39,7 +39,7 @@ int main(int argc, char** argv) {
 	YWb0t	=	(char)657705575;
 	fo91V	=	(char)739137519;
 	YYpK	=	(char)-821343144;
-	v79Hbj56	=	-565309398;
+	v79Hbj56	=	(char)-565309398;
 	FG_z2Yamcw	=	-904092834;
 	dp74	=	2062284541;
 	i_5P157	=	1315386773;
@@ -49,7 +49,7 @@ int main(int argc, char** argv) {
 	JAlqEg4	=	(char)-2102240460;
 	sH7s28h02O	=	(char)1321237306;
 	mlFfJ43bb	=	(char)-1738073296;
-	NqlQuAz	=	663811787;
+	NqlQuAz	=	(char)663811787;
 	WvDNv	=	304457784;
 	thIZeZrir	=	-1218969867;
 	t_x4Hu1	=	-1023644125;
@@ -59,7 +59,7 @@ int main(int argc, char** argv) {
 	Q3cwST	=	(char)-1717364078;
 	yL9NXNA	=	(char)-1994893425;
 	bba_3Yq7_	=	(char)-1695424241;
-	idY2il	=	-510419577;
+	idY2il	=	(char)-510419577;
 	V6hxPm8	=	-208667424;
 	K4o0Y2GA	=	-1438138637;
 	KX61	=	2059202969;
@@ -69,7 +69,7 @@ int main(int argc, char** argv) {
 	GEZbt05p52	=	(char)-230507620;
 	snsFHV2X	=	(char)-720076717;
 	i4u27L	=	(char)-627021841;
-	ZcuQ_IXU6	=	-743863058;
+	ZcuQ_IXU6	=	(char)-743863058;
 	bI_2	=	-1667875400;
 	N4hd4	=	-1786449965;
 	hSMU	=	-67785362;
@@ -79,7 +79,7 @@ int main(int argc, char** argv) {
 	EB8c7rsK6o	=	(char)1175692830;
 	xz_ulqXmz	=	(char)81607558;
 	YhX4N4G5P	=	(char)470493522;
-	Ti_1sa41	=	2066674188;
+	Ti_1sa41	=	(char)2066674188;
 	U7WN	=	-656722748;
 	X3591z	=	708246781;
 	U0dW8mz9	=	-354579698;
@@ -89,7 +89,7 @@ int main(int argc, char** argv) {
 	wyHd8	=	(char)-1210322461;
 	aQQ1bV3Qd	=	(char)-501765717;
 	Nmac	=	(char)700636368;
-	aodH7	=	1491052381;
+	aodH7	=	(char)1491052381;
 	jQ46KS_rP	=	216993;
 	uu23SEcU8	=	-981960673;
 	og6M	=	-1174371639;
@@ -99,7 +99,7 @@ int main(int argc, char** argv) {
 	NmuV	=	(char)-1344402132;
 	k8UKc5	=	(char)-1328312195;
 	f64N_2Pz	=	(char)438344090;
-	jsZ5650t	=	-1040474417;
+	jsZ5650t	=	(char)-1040474417;
 
 switch (NqlQuAz)
 {

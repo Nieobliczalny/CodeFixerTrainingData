@@ -56,7 +56,7 @@ int main()
   float  D2B5hm4_  =  -482557877;
   short int  g6ZdmQ7M  =  (short)122479367;
  char byYmu = (char)-411240150;
- unsigned short TWY8sw77c = -553291563;
+ unsigned short TWY8sw77c = (unsigned short)-553291563;
     double    st5wuu1    =    -894330448;
  long c0bc = 105055791;
   float  SE2K  =  -1704792886;

@@ -49,7 +49,7 @@ int main(int argc, char** argv) {
 	char	ny4TnYP	=	(char)1823944606;
   short  uS4CLaD  =  (short)611012272;
  unsigned short int D7dWk = (unsigned short)1487086330;
-    unsigned short int    jac56V    =    202972688;
+    unsigned short int    jac56V    =    (unsigned short)202972688;
   short  AVKvl  =  (short)-785641440;
  double gJ65b2R = 48132623;
     char    MCcR4    =    -1531464711;

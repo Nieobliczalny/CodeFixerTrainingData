@@ -88,7 +88,7 @@ int main(int argc, char** argv) {
 	long long	whQ4V8nFI	=	1612813140;
 	unsigned short	tq2hDW82M	=	(unsigned short)-1754685069;
  unsigned short JqsS0Ki = (unsigned short)1207509953;
-  short  oTzb0O  =  -1978180276;
+  short  oTzb0O  =  (short)-1978180276;
   unsigned short  ohj_lX38Y  =  -2136699289;
     unsigned char    wKSqH    =    0;
   unsigned char  sYv1he  =  (unsigned char)-1186156459;

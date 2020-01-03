@@ -38,7 +38,7 @@ int main(void) {
  unsigned short Ia68_vJ13 = (unsigned short)-19973199;
   int  c5wq7shf  =  1570970498;
   unsigned char  OfmdUi46B  =  (unsigned char)-1771076495;
- short int Fl20QlcJ1 = -241237838;
+ short int Fl20QlcJ1 = (short)-241237838;
   double  Y01ux  =  1946830668;
     unsigned long    LlWWB    =    1014024702;
     int    V43ig4lvy    =    -118600574;

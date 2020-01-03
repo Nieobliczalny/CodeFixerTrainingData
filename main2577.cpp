@@ -32,7 +32,7 @@ int main(void) {
   cMh_3S3X6e  =  (unsigned short)-1964844711;
   F8reF6  =  (unsigned short)-1329408183;
   Kk4LW6vC  =  (unsigned short)-724100177;
-  dkkaT  =  657926116;
+  dkkaT  =  (unsigned short)657926116;
   z084K5  =  -1965270588;
   EEFrFt7V  =  -1969532522;
   s31A9lje6G  =  -1429935000;
@@ -42,7 +42,7 @@ int main(void) {
   k47S  =  (unsigned short)-851620960;
   W9due  =  (unsigned short)1417102517;
   g52AAi08_  =  (unsigned short)-1975547401;
-  W_0l4z  =  1219871362;
+  W_0l4z  =  (unsigned short)1219871362;
   Wa3356  =  1574184636;
   Hzc3  =  -1244669383;
   dO57b  =  -321430050;
@@ -52,7 +52,7 @@ int main(void) {
   K_tyHe825  =  (unsigned short)782694292;
   o0KIA  =  (unsigned short)-391017892;
   DWGq12B  =  (unsigned short)-501789363;
-  oiBz_y  =  1667269849;
+  oiBz_y  =  (unsigned short)1667269849;
   IN9D7  =  986179353;
   W9TZSc6e9e  =  1144807398;
   x49Hi27J  =  2128589223;
@@ -62,7 +62,7 @@ int main(void) {
   ZK_6_Ey  =  (unsigned short)1404445274;
   NEraK  =  (unsigned short)813757345;
   q700_q2  =  (unsigned short)-380771491;
-  PdCTg  =  788646536;
+  PdCTg  =  (unsigned short)788646536;
   UG9eJKl  =  2074716633;
   vda8  =  -2076054014;
   d5x6  =  542897441;
@@ -72,7 +72,7 @@ int main(void) {
   hu359h4a  =  (unsigned short)-1395934978;
   U7d5h6Li  =  (unsigned short)-1343219865;
   N7r3Y9  =  (unsigned short)542728251;
-  nmhzz7a  =  128912280;
+  nmhzz7a  =  (unsigned short)128912280;
   WrM9E3  =  1506099510;
   mC69e  =  1667871785;
   Q5D_  =  -2010822558;
@@ -82,7 +82,7 @@ int main(void) {
   J8n44TSv  =  (unsigned short)-972297759;
   mBPFW3k9o  =  (unsigned short)946835067;
   bX0ZdgA  =  (unsigned short)760351405;
-  Ml_bF3hm8J  =  -1693247236;
+  Ml_bF3hm8J  =  (unsigned short)-1693247236;
   Adc6  =  -1649088420;
   qn33O  =  484828428;
   Ypl4  =  1753390795;
@@ -92,7 +92,7 @@ int main(void) {
   Q8L8eIb  =  (unsigned short)-1020485791;
   SrM1ff4M  =  (unsigned short)-1241738384;
   YoV2S  =  (unsigned short)-352574392;
-  yiq7tGu  =  1141437867;
+  yiq7tGu  =  (unsigned short)1141437867;
   O_c_ZRVQ46  =  1718015197;
   RPsSZW  =  -906328601;
   ew7qVv  =  1639249278;

@@ -83,7 +83,7 @@ int main(int argc, char** argv) {
     short    Odyu    =    (short)327478393;
 	unsigned int	eE24q	=	-1232749490;
  short int qam3xa7P = (short)-873460114;
- short int zf63 = -1104338836;
+ short int zf63 = (short)-1104338836;
   char  rY4f_  =  (char)998401896;
 
 tpzPkP ^= 2015997472;

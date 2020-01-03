@@ -416,7 +416,7 @@ case 2:
 VgIoN2h = kC7Gq9Q157((short)-187186785, (char)245920656, C5p7, (unsigned short)771895917, mqyU61);
 break;
 case 3:
-VgIoN2h = kC7Gq9Q157((short)-342146542, Z8H87, -1769428547, -1689098792, -232811423);
+VgIoN2h = kC7Gq9Q157((short)-342146542, Z8H87, -1769428547, (unsigned short)-1689098792, -232811423);
 break;
 case 4:
 VgIoN2h = kC7Gq9Q157(eu1SU_E9G, aeTHl1_, 2138351352, (unsigned short)1423868458, -1644489295);

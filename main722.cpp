@@ -104,7 +104,7 @@ int main(void) {
 	long	aTVj1eC	=	-1986973578;
 	char	frWKU0	=	(char)-1079415264;
     char    S77eT1ad    =    (char)-1075627168;
-    unsigned short    nUd2    =    1975650600;
+    unsigned short    nUd2    =    (unsigned short)1975650600;
   unsigned long  Z2cWR  =  29494174;
 
 J8Z7 = (double)(D2jZnl83);

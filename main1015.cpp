@@ -145,7 +145,7 @@ case 6:
 M157Xhab1 = up9h % 1992190436;
 break;
 }
-std::cout << Pgpf_rWKLW(W12yB0w7, (char)-1925610491, (short)1008141206, T8t14) << pzfXAf << W12yB0w7 << r_2aE2rDy4(1437472325, RX9_48, M157Xhab1) << std::endl;
+std::cout << Pgpf_rWKLW(W12yB0w7, (char)-1925610491, (short)1008141206, T8t14) << pzfXAf << W12yB0w7 << r_2aE2rDy4((unsigned short)1437472325, RX9_48, M157Xhab1) << std::endl;
 
 return 0;
 }

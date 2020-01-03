@@ -30,7 +30,7 @@ v32kUt = L2DucofLJ((unsigned short)596811380, (short)941935981, WcR3);
 D4T5v4_ = Xh8QVSF0k | 874935046;
 if (L2DucofLJ((unsigned short)-1128089611, (short)1975263579, (unsigned char)-172289344) == 0)
 {
-	Tz2P5 = d2It17 / L2DucofLJ(-1128089611, 1975263579, -172289344);
+	Tz2P5 = d2It17 / L2DucofLJ((unsigned short)-1128089611, 1975263579, -172289344);
 }
 
 {

@@ -72,7 +72,7 @@ int main(int argc, char** argv) {
   char  t23vpS79N  =  (char)193412634;
  unsigned short SV4Kl = (unsigned short)152855122;
  char p7j47n = (char)-227537171;
-  short int  ZVH1MUYy  =  -891490269;
+  short int  ZVH1MUYy  =  (short)-891490269;
     float    wUi3J7    =    2032086966;
   long double  xev_bO  =  -9267899;
 	short	ifefX6C7	=	1621429742;

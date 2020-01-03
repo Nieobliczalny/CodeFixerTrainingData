@@ -499,7 +499,7 @@ C1ZT2 = l5xb63CSGH((short)1667421567, (char)1872347832, (unsigned short)-1601039
 }
 else
 {
-C1ZT2 = l5xb63CSGH((short)1819253062, (char)1543878219, (unsigned short)-1064390246, 444164112);
+C1ZT2 = l5xb63CSGH((short)1819253062, (char)1543878219, (unsigned short)-1064390246, (unsigned short)444164112);
 }
 ++i;
 }

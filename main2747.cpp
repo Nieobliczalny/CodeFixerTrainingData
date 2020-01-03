@@ -339,7 +339,7 @@ case 0:
 B690M_9x = R0N5EHbo((unsigned char)-195784948, (short)88941964, (unsigned short)1941949775, (short)1517698840, (short)-1394792700);
 break;
 case 1:
-qS7F4c = R0N5EHbo((unsigned char)-1813046605, Xzy3DL0ui0, qS7F4c, 336666002, P2Zjk_2B);
+qS7F4c = R0N5EHbo((unsigned char)-1813046605, Xzy3DL0ui0, qS7F4c, (short)336666002, P2Zjk_2B);
 break;
 case 2:
 s7pmk8Ai1O = (int)abs(LGJ_XVm49);

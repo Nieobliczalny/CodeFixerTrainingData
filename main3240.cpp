@@ -49,7 +49,7 @@ int main()
     char    yrEFAFAtE    =    (char)1557073612;
     unsigned char    hdp1kbHpUm    =    (unsigned char)-447174493;
 	unsigned char	wJBIG_5e9	=	(unsigned char)181863926;
-  short  HnARDD3  =  731009968;
+  short  HnARDD3  =  (short)731009968;
     unsigned int    AUz5WDf    =    -549498411;
  unsigned long HA98QIT = 414551240;
   short  EGf1D6dBI  =  (short)1569624439;

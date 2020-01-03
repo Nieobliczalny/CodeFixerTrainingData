@@ -39,7 +39,7 @@ int main(int argc, char** argv) {
   unsigned short int  CK1e  =  (unsigned short)1019441205;
 	long long	G9Cy7iAJ	=	1767785991;
   short  Omw2dh  =  (short)1408919145;
-  unsigned short  LF2uRt9_  =  -1619281596;
+  unsigned short  LF2uRt9_  =  (unsigned short)-1619281596;
     float    PE0u    =    -886219442;
 	unsigned long	F513dc_	=	-2026868195;
  double G0k_ = -581459878;

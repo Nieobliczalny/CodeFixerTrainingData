@@ -56,7 +56,7 @@ int main(void) {
  unsigned char KrEY = (unsigned char)541138347;
     unsigned char    j3jhp    =    (unsigned char)676613130;
   unsigned char  ayS28  =  (unsigned char)2085685439;
-  short  uFD23_65i1  =  228216110;
+  short  uFD23_65i1  =  (short)228216110;
     long long    e3Swtb7oD0    =    -664176031;
     short int    dK1Zlvl    =    (short)-658162458;
 	unsigned short int	r550DJ09C	=	(unsigned short)556550357;

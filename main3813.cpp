@@ -24,7 +24,7 @@ int main()
   long  sX86P23y  =  1209160660;
   unsigned char  rbs1Y0BVUS  =  (unsigned char)1779000272;
 	unsigned char	o9Q6B6V9	=	(unsigned char)850354265;
-	char	kTxp7J3ZE	=	2103148237;
+	char	kTxp7J3ZE	=	(char)2103148237;
  long double bd1TRyux = 1706350170;
  unsigned int p870Y9 = 307279401;
 	short int	PCkg24zd	=	(short)-1948298142;
@@ -66,7 +66,7 @@ int main()
 	long	VT0WZ	=	1971545578;
     unsigned char    HvGj    =    (unsigned char)-437452033;
   unsigned int  BR2hznUU  =  -1003930124;
- short int Gj23vJy9i = 1183448086;
+ short int Gj23vJy9i = (short)1183448086;
   unsigned long  IM9x  =  1266570451;
     long double    IX439Qm0c    =    1695969492;
   char  OiW0NhVpg9  =  (char)2022981372;

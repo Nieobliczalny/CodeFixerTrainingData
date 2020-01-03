@@ -64,7 +64,7 @@ int main()
 	short int	NmS8rxS	=	(short)2083580681;
 	unsigned long	oOyE	=	344409340;
  short RKxbLI6V = (short)1388712946;
- unsigned short kD2eJa6 = -854181861;
+ unsigned short kD2eJa6 = (unsigned short)-854181861;
   short  H3fH  =  (short)-1714813620;
  long EoI8J185H = 966822952;
  unsigned char FPjlNvnSgc = 440091143;

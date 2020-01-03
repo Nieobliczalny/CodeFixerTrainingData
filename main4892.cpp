@@ -60,7 +60,7 @@ int main(void) {
     unsigned long long    Q04Dq3vP    =    2076833316;
  double K9CTm = 529506245;
   short  AK2_5w_0kh  =  (short)-826662158;
- unsigned char AwK4m = -277747234;
+ unsigned char AwK4m = (unsigned char)-277747234;
   unsigned char  dwAI2D  =  (unsigned char)-312899552;
  unsigned long long CLh3 = -2468924;
  short z5_4FX = (short)514769177;

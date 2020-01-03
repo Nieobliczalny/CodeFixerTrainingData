@@ -55,7 +55,7 @@ int main()
   unsigned long long  pJ6ufoQE  =  -1003088943;
  unsigned long D_a1l2_ = -573206874;
   short  eYRZLD7  =  (short)11146043;
-  unsigned char  u8KVpe_L8  =  1880240789;
+  unsigned char  u8KVpe_L8  =  (unsigned char)1880240789;
   unsigned short int  v07q4N  =  (unsigned short)-35571101;
 	unsigned char	wJt2	=	0;
   char  mD_noon  =  (char)-602632752;

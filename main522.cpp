@@ -28,7 +28,7 @@ int main(void)
     long    U3i6t63kz    =    -261343328;
  short NoMRFB5q5 = (short)-1348700896;
     unsigned char    hhe8Z    =    (unsigned char)-84673753;
-    char    l47fwtd8O    =    -2125066870;
+    char    l47fwtd8O    =    (char)-2125066870;
 	char	n8qP3	=	(char)311782790;
   double  i7_A  =  -1242804050;
   short int  VkK1  =  (short)1420066240;
@@ -188,7 +188,7 @@ kcD718P6 = Mz0EzaQ(-400078812, XF20Aj, VkK1, M_1_7ZF0, 1531876163);
 std::cout << G1vSH__LK << Mz0EzaQ(-274150458, 1575180625, (short)769246972, M_1_7ZF0, 1085893134) << A2f2R << Mz0EzaQ(WSF685, -547588595, VkK1, M_1_7ZF0, bj3_) << std::endl;
 kcD718P6 = Mz0EzaQ(YNy769, l47fwtd8O, (short)252785407, (unsigned short)-1281148272, 1456869764);
 
-std::cout << Mz0EzaQ(-1449592184, l47fwtd8O, (short)1847966112, -1304679868, -1135968291) << std::endl;
+std::cout << Mz0EzaQ(-1449592184, l47fwtd8O, (short)1847966112, (unsigned short)-1304679868, -1135968291) << std::endl;
 kcD718P6 = Mz0EzaQ(dvku_, -1064608828, -526044065, VkK1, a5Blu_8);
 
 {

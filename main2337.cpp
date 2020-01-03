@@ -26,7 +26,7 @@ int main(int argc, char** argv)
 	I141H3rO	=	(short)-716227252;
 	Txp6Kox3Z	=	(short)929747949;
 	vijxWo	=	(short)2049411071;
-	jDrik69F_	=	1068554325;
+	jDrik69F_	=	(short)1068554325;
 	Wbvt	=	981814912;
 	M9SJa6_	=	-1134044298;
 	R13QF7NA	=	-1358735145;
@@ -36,7 +36,7 @@ int main(int argc, char** argv)
 	NYg46IZX	=	(short)1383188570;
 	zcXHOS_x	=	(short)1624877356;
 	U5OsAg	=	(short)-2017262283;
-	L_499y	=	-1320042107;
+	L_499y	=	(short)-1320042107;
 	tmm47QvO	=	636581344;
 	Oaa5l	=	-1503310141;
 	Pq1yKnc	=	-738577087;
@@ -46,7 +46,7 @@ int main(int argc, char** argv)
 	xp85VHL	=	(short)408452179;
 	T0O_M5	=	(short)1739730308;
 	XczLl3	=	(short)-1734383771;
-	KnH5S8cju	=	-233605192;
+	KnH5S8cju	=	(short)-233605192;
 	nJW1_7n	=	-1355853681;
 	ZAut3XG	=	1682322141;
 	Zk5gy334FK	=	2081118798;
@@ -56,7 +56,7 @@ int main(int argc, char** argv)
 	if2yHj	=	(short)-2070103147;
 	M2r1My	=	(short)133238275;
 	SBib1D	=	(short)-1682790566;
-	jNv_l_uD	=	-2017814162;
+	jNv_l_uD	=	(short)-2017814162;
 	Q6CFo74	=	49026684;
 	eT1rJrS	=	-247766654;
 	SXH3pa	=	208972274;
@@ -66,7 +66,7 @@ int main(int argc, char** argv)
 	ByXc9	=	(short)-260733229;
 	y0hRVO	=	(short)-752794889;
 	YEnW	=	(short)2014911827;
-	spPgH	=	628120488;
+	spPgH	=	(short)628120488;
 	nQJcI	=	-1166025209;
 	O_8vat	=	-1495479202;
 	c36D0_0Hf	=	-1800792670;
@@ -76,7 +76,7 @@ int main(int argc, char** argv)
 	xZ6DXRR2	=	(short)1269996892;
 	x74m	=	(short)1846117886;
 	sBpdL3hHV	=	(short)-992081586;
-	w8C71H	=	1677536537;
+	w8C71H	=	(short)1677536537;
 	w2Sek	=	2090110490;
 	iW76X1LXh_	=	1463854085;
 	U03NhoN	=	592050244;
@@ -86,7 +86,7 @@ int main(int argc, char** argv)
 	Wb66x548	=	(short)-582245811;
 	Vq03Av	=	(short)-1348668843;
 	APSDyxol	=	(short)-1543971989;
-	b_829cAa3U	=	828388074;
+	b_829cAa3U	=	(short)828388074;
 	iMbinXNb5J	=	-1202826584;
 	zBuLvT	=	-1942458665;
 	OL9jK	=	1803684720;
@@ -96,7 +96,7 @@ int main(int argc, char** argv)
 	BkzAW	=	(short)2085725941;
 	Yd7P	=	(short)-1425973666;
 	oXRqHscOE	=	(short)-1695548817;
-	X4bKx_0gO8	=	-1633212178;
+	X4bKx_0gO8	=	(short)-1633212178;
 	z3ks4	=	446272604;
 	X111	=	-1508913257;
 	Wvk65	=	-794678581;

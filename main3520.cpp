@@ -38,7 +38,7 @@ int main(int argc, char** argv) {
  short hx75CH06JQ = (short)1717495589;
  short int WqH_v_9Lxv = (short)-996715664;
     unsigned char    EMGtM    =    (unsigned char)-2057021020;
- short XS3ARY__I = 2088292401;
+ short XS3ARY__I = (short)2088292401;
     unsigned char    Av44AIQ    =    (unsigned char)1630073462;
 	unsigned short int	x6O0	=	0;
  long double n6_14UR3 = 1117013056;

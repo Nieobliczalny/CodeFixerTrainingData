@@ -43,7 +43,7 @@ int main(void) {
  char L0H_Ly3D_D = (char)890248549;
     short int    YcH8Z    =    (short)1797686703;
     char    kCV11    =    (char)-1610918231;
-	unsigned short	fcd8	=	1112648926;
+	unsigned short	fcd8	=	(unsigned short)1112648926;
     long long    a6yDm4LSIw    =    631256531;
     long long    p7_TtJ3S    =    443199479;
 	long	O4a4n4Lte	=	-1381186194;

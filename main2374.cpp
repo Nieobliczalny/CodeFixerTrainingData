@@ -83,7 +83,7 @@ int main(void) {
 	short	lgc4LV66x_	=	(short)858345149;
     char    agt_jDJF_    =    (char)-1818453726;
     long long    lU_R    =    -1654837614;
-  unsigned short  qO4u_3k  =  1076043320;
+  unsigned short  qO4u_3k  =  (unsigned short)1076043320;
 	long long	Az6TTh_5	=	1431665100;
     unsigned long    Ckkn2    =    424141123;
 	unsigned short int	Hl6Pu8_	=	(unsigned short)328178626;

@@ -45,7 +45,7 @@ int main() {
 	unsigned int	c0X98tEwaL	=	-695807684;
 	unsigned short	Fio0Z	=	(unsigned short)-41923474;
     unsigned long long    LPpQrq9Q    =    671578914;
-	unsigned short int	uSB_QpiJED	=	1231073249;
+	unsigned short int	uSB_QpiJED	=	(unsigned short)1231073249;
   long  VmrL2X  =  563138630;
     short    fhgG_nKUha    =    (short)-1291580980;
   unsigned char  WdmyoNWT8  =  (unsigned char)-309637177;

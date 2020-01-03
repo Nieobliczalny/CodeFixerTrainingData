@@ -52,7 +52,7 @@ int main(void) {
 	unsigned long long	n4Z1PKUOa8	=	426861111;
 	unsigned char	X028X2_V	=	(unsigned char)-361025780;
  unsigned short int CubT5E2_ = (unsigned short)1535344857;
-  unsigned short int  kC9k  =  -85315861;
+  unsigned short int  kC9k  =  (unsigned short)-85315861;
 	unsigned int	Z85fQN6cht	=	632027762;
 	int	YDKADI	=	-971904313;
   short int  m7rlaA2u  =  (short)-1022699009;

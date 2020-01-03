@@ -97,7 +97,7 @@ int main() {
   short  xOi1b6Tj_g  =  (short)630448821;
   long  T3_KwOa_  =  249959349;
 
-if ((1913651437 / ag5m((char)809185025, (unsigned char)1060006661, V4tZQq6hsG, w5YN3e, -804431014)) != 1593477398)
+if ((1913651437 / ag5m((char)809185025, (unsigned char)1060006661, V4tZQq6hsG, w5YN3e, (short)-804431014)) != 1593477398)
 {
 if ((693655861 / c8kQ5139I) < 808720411)
 {

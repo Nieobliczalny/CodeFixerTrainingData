@@ -48,7 +48,7 @@ int main(void)
     unsigned short int    itqa    =    (unsigned short)259254635;
   unsigned char  uliML026  =  (unsigned char)478491504;
  long double bbdlD = -879631551;
-    char    HmD_P0C6    =    1709169122;
+    char    HmD_P0C6    =    (char)1709169122;
  char xn2I7_OB = (char)1676048662;
   long  CmyH  =  -1586402355;
     unsigned short    h_YSsgun    =    (unsigned short)725581911;

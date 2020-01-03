@@ -81,7 +81,7 @@ int main(void)
 	unsigned int	dC_8lg__Ia	=	-535677350;
     short int    GOm08    =    (short)187702187;
     unsigned short int    vJDXPJ0ZdS    =    (unsigned short)-1136525791;
-  unsigned char  xI72nb  =  -1457435471;
+  unsigned char  xI72nb  =  (unsigned char)-1457435471;
   long long  maR_F  =  1710961728;
   short int  Aik6e7A9v  =  (short)153826228;
     float    h56ORkDF    =    1885808863;

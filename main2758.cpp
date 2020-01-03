@@ -46,7 +46,7 @@ int main(void)
   short  NTb59U_IJ  =  (short)-58856190;
  int iYlUR1o = 674719884;
 	unsigned int	m3kjz	=	-483584920;
-  char  uGGj  =  685682675;
+  char  uGGj  =  (char)685682675;
     short    Ct7O6_fOn    =    0;
 	double	AZ1kkG_	=	-928020757;
 	unsigned short	Dqh4N4qs	=	(unsigned short)-1038930694;

@@ -42,7 +42,7 @@ int main(int argc, char** argv) {
     short int    r2CNZYygj    =    (short)-1587513250;
     unsigned char    t2_b    =    (unsigned char)411159977;
     char    lCFu_W    =    (char)2075273104;
-    short    f4s7i2L15    =    -1247662175;
+    short    f4s7i2L15    =    (short)-1247662175;
     long double    wj_kvjy2uI    =    -1489160136;
     unsigned short int    WFzRwT5O    =    0;
 	short	w8242j	=	0;

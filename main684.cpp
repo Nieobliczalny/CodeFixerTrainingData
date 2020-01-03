@@ -88,7 +88,7 @@ E9yA6 = TAh7_q7((short)-117302744, E9yA6, (char)-654372262, -1094417808, (short)
 }
 else
 {
-LvIUA0 = cG6Y887rA((unsigned short)-679904590, mgG2, 1127614561, AX6yA);
+LvIUA0 = cG6Y887rA((unsigned short)-679904590, mgG2, (unsigned short)1127614561, AX6yA);
 }
 }
 }
@@ -131,7 +131,7 @@ std::cout << zrhW76Ula << std::endl;
 
 PZk_ = TAh7_q7((short)-1101475132, 463154678, (char)1280254420, 1243612067, H175h3T4);
 
-std::cout << "heO3" << cG6Y887rA((unsigned short)-302708264, r0IaU9Ss, 866881478, dPsS44) << rA3t9M94 << std::endl;
+std::cout << "heO3" << cG6Y887rA((unsigned short)-302708264, r0IaU9Ss, (unsigned short)866881478, dPsS44) << rA3t9M94 << std::endl;
 switch (oL6uE7Sp)
 {
 case 0:

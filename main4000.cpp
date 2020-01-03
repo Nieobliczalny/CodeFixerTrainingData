@@ -98,7 +98,7 @@ int main(int argc, char** argv)
     short int    R0Hjvq49    =    (short)2012399878;
   short  q9v33o1xv  =  (short)-774502262;
  short int pb0N = (short)888608256;
-    char    D8AJa    =    -1167285722;
+    char    D8AJa    =    (char)-1167285722;
 	unsigned short int	eW37I	=	109595757;
     double    r5VlFz7    =    1698947054;
     unsigned long    aDkva7Ha9    =    -889924219;

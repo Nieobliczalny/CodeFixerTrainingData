@@ -29,7 +29,7 @@ int main() {
   Ysnay2D5E  =  (char)1273832294;
   hNijW_52r0  =  (char)-1190520381;
   P_Dk9rec  =  (char)-594386915;
-  nt1C8  =  -1486898036;
+  nt1C8  =  (char)-1486898036;
   IJuaR7  =  -601683545;
   N0ZSJQlt  =  1629091600;
   zghN  =  1953783190;
@@ -39,7 +39,7 @@ int main() {
   Go_dD1  =  (char)1061417565;
   N4UvDG  =  (char)-1491567260;
   j7MO5  =  (char)-2009750628;
-  ZJC9_Rv5N1  =  1675109697;
+  ZJC9_Rv5N1  =  (char)1675109697;
   n6__8X  =  1292111114;
   d5_OH  =  2065957821;
   FCB_7  =  948117694;
@@ -49,7 +49,7 @@ int main() {
   cr2vxou4Pj  =  (char)-905471117;
   s5oZio  =  (char)518013380;
   Q_Bt13QIf  =  (char)-313111506;
-  Qr0WbUdC0  =  -1049421673;
+  Qr0WbUdC0  =  (char)-1049421673;
   IYhqaXg  =  -1582634844;
   C9v7V3jL7y  =  -1929037878;
   D50a66A  =  -685491212;
@@ -59,7 +59,7 @@ int main() {
   CAD9x  =  (char)-1728726652;
   FPRW  =  (char)434443174;
   Cs7g05  =  (char)-1809126864;
-  AAnzV4y2q4  =  -1575320939;
+  AAnzV4y2q4  =  (char)-1575320939;
   AEznsP  =  -392847661;
   lww1  =  -719555028;
   F2_74yE  =  -779416140;
@@ -69,7 +69,7 @@ int main() {
   CR3J  =  (char)1261535069;
   pgwo33wKQ8  =  (char)346546535;
   nJlLP_Q  =  (char)2093961352;
-  O2E1kv  =  -1809547621;
+  O2E1kv  =  (char)-1809547621;
   bgkM4L7  =  -1171567719;
   zRd8  =  -2048082141;
   H83ard  =  -1643570485;
@@ -79,7 +79,7 @@ int main() {
   jO01htlzr  =  (char)1579351703;
   E0HJ  =  (char)-2120204881;
   qKkLx  =  (char)306479347;
-  L4VZF3F2K4  =  1880969824;
+  L4VZF3F2K4  =  (char)1880969824;
   ZvCUO  =  -1115499219;
   D0rzuT  =  1945695382;
   wbr2dED1  =  -1402037779;
@@ -89,7 +89,7 @@ int main() {
   eo11G  =  (char)423173396;
   e42s  =  (char)1273044979;
   U092  =  (char)-960482706;
-  Opj1V  =  1171689740;
+  Opj1V  =  (char)1171689740;
   e87mv_83G  =  107049935;
   khYygt1  =  1938594610;
   W7R3qm  =  1813763113;
@@ -99,7 +99,7 @@ int main() {
   o_48oi6IA  =  (char)-2062643745;
   Z_jsV3wK  =  (char)-1944633118;
   rs9uk4D_t8  =  (char)-2004350577;
-  W0Iiq  =  -1994205980;
+  W0Iiq  =  (char)-1994205980;
   CfUbNcN  =  1550279286;
   lRL_h  =  -1539656163;
 

@@ -52,7 +52,7 @@ int main() {
     long    Vgck    =    378525813;
     char    Eh1_    =    (char)151209236;
     float    NfGu    =    -1031857771;
-  unsigned char  O1IEPB  =  -912027022;
+  unsigned char  O1IEPB  =  (unsigned char)-912027022;
   long double  cae38GQHq  =  -2128992555;
   unsigned int  M5BFU  =  -1923085182;
 

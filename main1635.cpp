@@ -118,7 +118,7 @@ else if (OTxlQ02z3 <= ww0A438k7)
 switch (mdZZ2qiiW3)
 {
 case 'a':
-ww0A438k7 = D7hyiF(ww0A438k7, -709753821, mdZZ2qiiW3, -471819071);
+ww0A438k7 = D7hyiF(ww0A438k7, -709753821, mdZZ2qiiW3, (unsigned char)-471819071);
 break;
 case 'b':
 ww0A438k7 = D7hyiF(ww0A438k7, mdZZ2qiiW3, (unsigned char)1096944551, (unsigned char)825616354);
@@ -374,7 +374,7 @@ case 'g':
 ww0A438k7 = D7hyiF(OTxlQ02z3, 323351239, (unsigned char)-1499643777, (unsigned char)1219853383);
 break;
 case 'h':
-ww0A438k7 = D7hyiF((char)450090940, mdZZ2qiiW3, (unsigned char)-1200829912, 1105306042);
+ww0A438k7 = D7hyiF((char)450090940, mdZZ2qiiW3, (unsigned char)-1200829912, (unsigned char)1105306042);
 break;
 case 'i':
 OTxlQ02z3 = OTxlQ02z3 << 70082660;
@@ -515,7 +515,7 @@ case 4:
 ww0A438k7 = D7hyiF(mdZZ2qiiW3, -848995670, OTxlQ02z3, (unsigned char)2002818674);
 break;
 }
-std::cout << mdZZ2qiiW3 << D7hyiF(mdZZ2qiiW3, ww0A438k7, OTxlQ02z3, (unsigned char)-438766297) << D7hyiF(mdZZ2qiiW3, 1835178188, OTxlQ02z3, (unsigned char)1369579698) << D7hyiF(mdZZ2qiiW3, 937756977, OTxlQ02z3, -2088443817) << std::endl;
+std::cout << mdZZ2qiiW3 << D7hyiF(mdZZ2qiiW3, ww0A438k7, OTxlQ02z3, (unsigned char)-438766297) << D7hyiF(mdZZ2qiiW3, 1835178188, OTxlQ02z3, (unsigned char)1369579698) << D7hyiF(mdZZ2qiiW3, 937756977, OTxlQ02z3, (unsigned char)-2088443817) << std::endl;
 
 OTxlQ02z3 = (unsigned short int)(mdZZ2qiiW3);
 mdZZ2qiiW3 = D7hyiF(mdZZ2qiiW3, ww0A438k7, OTxlQ02z3, (unsigned char)885801155) * 2094316386;
@@ -531,7 +531,7 @@ case 2:
 ww0A438k7 = D7hyiF((char)987297325, OTxlQ02z3, (unsigned char)1393970884, (unsigned char)-1758918806);
 break;
 case 3:
-ww0A438k7 = D7hyiF(-545057074, mdZZ2qiiW3, -673226829, -346998779);
+ww0A438k7 = D7hyiF((char)-545057074, mdZZ2qiiW3, -673226829, -346998779);
 break;
 case 4:
 ww0A438k7 = D7hyiF(mdZZ2qiiW3, 807444547, (unsigned char)452987219, (unsigned char)849497963);

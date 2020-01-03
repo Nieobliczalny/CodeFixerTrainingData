@@ -23,7 +23,7 @@ int main(void)
 	J_Txoh_SIC	=	(unsigned short)-1748531538;
 	Eba30	=	(unsigned short)334987645;
 	Iy94	=	(unsigned short)1531120538;
-	cLY_05QFX	=	1567481685;
+	cLY_05QFX	=	(unsigned short)1567481685;
 	T2p3	=	-289137777;
 	g9hke	=	-957947809;
 	xfn03_p	=	1561549926;

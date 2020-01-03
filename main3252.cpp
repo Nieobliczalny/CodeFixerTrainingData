@@ -73,7 +73,7 @@ int main(int argc, char** argv)
     unsigned char    Z6U3    =    (unsigned char)1614078454;
   unsigned short int  x328iC  =  (unsigned short)133610579;
     unsigned char    tRDckAA7D3    =    (unsigned char)-1756412207;
-  unsigned short int  Q43dwqdXK  =  172174727;
+  unsigned short int  Q43dwqdXK  =  (unsigned short)172174727;
   unsigned long  Cq05  =  0;
   unsigned int  GB5pF_  =  0;
 	unsigned long	D_hu9	=	-2129823490;

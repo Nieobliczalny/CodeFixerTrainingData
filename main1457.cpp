@@ -61,7 +61,7 @@ int main()
  unsigned char DX54x16Oo = (unsigned char)-1503564602;
  unsigned short int qDBtGHiR = (unsigned short)-1795761332;
 	short	KSXOI	=	(short)-1885054355;
-  unsigned short int  ZM8492WC1  =  1374240819;
+  unsigned short int  ZM8492WC1  =  (unsigned short)1374240819;
  short int d0nV_6ZrD = 1735490098;
     unsigned long    e91QAq    =    -85639693;
 	short	GeVWd72A	=	(short)-841057169;
@@ -111,7 +111,7 @@ int main()
 	long long	LtYn_	=	515476695;
 	unsigned short int	ZWS2hZ1r4	=	(unsigned short)1440058191;
 
-cout << B8_iza04Y_(Rkq1_PKv, -610941203, -715217169, Z2AUa_, 1045378620) << endl;
+cout << B8_iza04Y_(Rkq1_PKv, -610941203, (char)-715217169, Z2AUa_, 1045378620) << endl;
 
 {
 int i = 0;

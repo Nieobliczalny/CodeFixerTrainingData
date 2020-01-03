@@ -60,7 +60,7 @@ while (i < 4);
 }
 cout << wxi42ZvXer((unsigned short)1349667109, (unsigned short)-2046216817, 287178939, h982DXZhx) << wxi42ZvXer((unsigned short)-171283294, (unsigned short)-2032371385, 1435318833, (char)210169798) << endl;
 
-cout << f6uBw779J << wxi42ZvXer((unsigned short)1942751940, -1537212499, -347702896, h982DXZhx) << endl;
+cout << f6uBw779J << wxi42ZvXer((unsigned short)1942751940, (unsigned short)-1537212499, -347702896, h982DXZhx) << endl;
 
 {
 int i = 8;

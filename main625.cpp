@@ -315,7 +315,7 @@ else
 {
 try
 {
-SEM82ExMq = wF8XCal((unsigned short)572217957, (short)1698636240, 1378144948, t94pu_lS, CP5x);
+SEM82ExMq = wF8XCal((unsigned short)572217957, (short)1698636240, (unsigned char)1378144948, t94pu_lS, CP5x);
 }
 catch (int& errorCode)
 {

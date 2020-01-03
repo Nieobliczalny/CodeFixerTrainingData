@@ -52,7 +52,7 @@ int main(int argc, char** argv) {
  unsigned short int I3A_hO = (unsigned short)-1034075648;
  unsigned char Rrn0_96aX2 = (unsigned char)-1928621397;
   short int  X4uN0mY9  =  (short)-1666503686;
- unsigned char T8xNvww = -1771893022;
+ unsigned char T8xNvww = (unsigned char)-1771893022;
   unsigned int  XTR5z2F  =  1986990128;
   unsigned int  UuVnccH  =  34074975;
 	long	kdaZ	=	0;

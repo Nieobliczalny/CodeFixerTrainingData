@@ -58,7 +58,7 @@ else
 std::cout << "Gh2uFKl6r1" << "ci9_f962" << "cGn0nPY5" << S_Xx(k14Q1WlG, 142539646, n2os, ipm2) << S_Xx(-454456830, 759575369, n2os, (short)1316977213) << std::endl;
 }
 }
-std::cout << "N2yM" << "OYc38A" << S_Xx(1040275216, qZe_, n2os, ipm2) << zc2CT_ZS((unsigned short)1067907873, (unsigned short)2099224120, -24282926) << std::endl;
+std::cout << "N2yM" << "OYc38A" << S_Xx(1040275216, qZe_, n2os, ipm2) << zc2CT_ZS((unsigned short)1067907873, (unsigned short)2099224120, (unsigned short)-24282926) << std::endl;
 if (ipm2 > aOh3RLb18)
 {
 switch (qZe_)
@@ -386,7 +386,7 @@ case 'c':
 fy5EI9S = h8j99LhK + 1329396051;
 break;
 case 'd':
-h8j99LhK = zc2CT_ZS((unsigned short)1773461124, -149058183, aOh3RLb18);
+h8j99LhK = zc2CT_ZS((unsigned short)1773461124, (unsigned short)-149058183, aOh3RLb18);
 break;
 case 'e':
 CrNTPdM_e = S_Xx(-376792632, ipm2, n2os, (short)1612671778);

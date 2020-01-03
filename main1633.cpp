@@ -36,7 +36,7 @@ int main(void) {
   short  K217_Lv  =  (short)-211754991;
  float ew2j0 = -1803748684;
     char    RJ8_5_    =    (char)382654203;
- unsigned short LS4Kd = -976398488;
+ unsigned short LS4Kd = (unsigned short)-976398488;
   long  AA7hTP9x6  =  1745992843;
  unsigned short W415RWc_ = (unsigned short)-230967055;
 	short int	I4M3L89cPG	=	(short)419487937;

@@ -187,7 +187,7 @@ case 4:
 Nwy4gUV = bx2_(Nwy4gUV, (unsigned char)1278038669, (unsigned short)465491066, 650104458, 150455709);
 break;
 case 5:
-Nwy4gUV = bx2_(EgTD70GZ, (unsigned char)-1775099304, 929614655, aRGieNe, 1807322248);
+Nwy4gUV = bx2_(EgTD70GZ, (unsigned char)-1775099304, (unsigned short)929614655, aRGieNe, 1807322248);
 break;
 default:
 BV2_145g = fa6d2rz18 << 765931473;
@@ -232,7 +232,7 @@ Nwy4gUV = bx2_(hnM5, LeH_bB2_, (unsigned short)-891309622, 563064924, jp_T6J);
 
 std::cout << bx2_((unsigned short)-1282712192, LeH_bB2_, C56K2zGNx, -1494685105, 1084741752) << bx2_(hnM5, (unsigned char)-797689737, (unsigned short)469972454, iV71_, jp_T6J) << "z94yYc_" << std::endl;
 
-if (bx2_((unsigned short)1399458750, (unsigned char)1284654287, 1546814768, iV71_, 1235647773) == 0)
+if (bx2_((unsigned short)1399458750, (unsigned char)1284654287, (unsigned short)1546814768, iV71_, 1235647773) == 0)
 {
 	Q601_3h8 = daJ6u / bx2_(1399458750, 1284654287, 1546814768, iV71_, 1235647773);
 }
@@ -282,7 +282,7 @@ break;
 }
 
 Nwy4gUV = bx2_(gLV_PcU_6H, (unsigned char)25946728, (unsigned short)-807718525, O68KS7, 1372384913);
-Nwy4gUV = bx2_(1007717322, -1736185445, IEtNPP, o7s6v1x, 1331069259);
+Nwy4gUV = bx2_((unsigned short)1007717322, -1736185445, IEtNPP, o7s6v1x, 1331069259);
 
 rW8ZXh %= Gk08AB;
 

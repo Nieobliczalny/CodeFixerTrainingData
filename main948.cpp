@@ -26,7 +26,7 @@ int main(int argc, char** argv)
   unsigned char  CJc_Bll  =  (unsigned char)-2122609001;
  unsigned short int TP44sw = (unsigned short)1842388367;
 	unsigned short	reu90n26	=	(unsigned short)2025869593;
-  short int  uZ9ACYZNU5  =  -2027821134;
+  short int  uZ9ACYZNU5  =  (short)-2027821134;
 	short int	yz2v_3Z	=	(short)-885840854;
   short int  bOZ_rVpx  =  (short)-311262595;
 	unsigned long	q_6OsHE4	=	0;

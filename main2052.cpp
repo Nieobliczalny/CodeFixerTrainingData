@@ -90,7 +90,7 @@ int main()
  int Yex48G1 = 0;
 	char	T8dgKn9u	=	(char)-964479548;
   char  hiTTD  =  (char)99929399;
- unsigned char jsdG2DUMk = 1182717760;
+ unsigned char jsdG2DUMk = (unsigned char)1182717760;
     short int    Pf4r0    =    (short)-2071115806;
 	char	U95BB	=	-1031649987;
  long double IY7vBj5H1X = 1161298466;

@@ -107,7 +107,7 @@ int main(int argc, char** argv)
   unsigned char  g_Q8NSakUy  =  (unsigned char)1330594233;
  long long eu4ku10etl = -1199806481;
   unsigned char  L5L40P20V  =  (unsigned char)-2145234663;
-	short	m7Q3mqv	=	-1264690793;
+	short	m7Q3mqv	=	(short)-1264690793;
   unsigned char  U32Rl_b7  =  -1633330135;
   unsigned long  Ie7RN453  =  -2029007341;
  double lK9v1x = 595608303;

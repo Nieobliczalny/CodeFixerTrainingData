@@ -638,7 +638,7 @@ case 2:
 ZCHyVIz0N++;
 break;
 case 3:
-vB41e5YYBo = DEoVKT8((short)2143304138, (unsigned short)132888283, -490993356);
+vB41e5YYBo = DEoVKT8((short)2143304138, (unsigned short)132888283, (unsigned short)-490993356);
 break;
 case 4:
 jg5L_54l %= fPk7g;

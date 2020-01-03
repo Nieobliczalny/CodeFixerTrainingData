@@ -65,7 +65,7 @@ dt5diVS2 = ATj3UQZGeG((char)-365888738, (unsigned short)-1525866571, (char)99896
 }
 else
 {
-dt5diVS2 = ATj3UQZGeG((char)-444040024, (unsigned short)-1948781062, -769578831, 168238465, -1138821376);
+dt5diVS2 = ATj3UQZGeG((char)-444040024, (unsigned short)-1948781062, (char)-769578831, 168238465, -1138821376);
 }
 }
 else

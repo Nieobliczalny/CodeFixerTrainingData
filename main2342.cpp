@@ -87,7 +87,7 @@ int main(int argc, char** argv)
     unsigned char    N4fW5x23o    =    (unsigned char)-1581628061;
 	char	eBJF	=	(char)-1998081306;
  char IJ9Q3Ep_Wa = (char)-189926452;
-	short int	jJptxBHg4	=	1686155232;
+	short int	jJptxBHg4	=	(short)1686155232;
  unsigned char jle3Or93 = (unsigned char)-1987530304;
     float    NvMu4F459N    =    -91511328;
  long long b8W_ = 359834053;

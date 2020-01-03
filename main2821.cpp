@@ -87,7 +87,7 @@ case 'b':
 p_R0MDA1 = bMFoncco(Ts6D5YhQu, ADAEM00zY, (unsigned short)1570275857, (short)1375187646, (unsigned short)862656868);
 break;
 case 'c':
-a9pLJwyT = bMFoncco(-1580004788, 1835008714, a9pLJwyT, IbKbBp1H, Z9gP1a4Oe);
+a9pLJwyT = bMFoncco(-1580004788, (unsigned char)1835008714, a9pLJwyT, IbKbBp1H, Z9gP1a4Oe);
 break;
 case 'd':
 A1_5dHtB49 = (int)floor(m7KsO2g);

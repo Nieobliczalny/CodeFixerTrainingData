@@ -73,7 +73,7 @@ int main()
 	double	GRmqNp	=	-1959350335;
  unsigned short CCJQ_ww = (unsigned short)1768246473;
  char f21H5ebF1Y = (char)-1166531899;
-	unsigned short int	D6Mj	=	692188150;
+	unsigned short int	D6Mj	=	(unsigned short)692188150;
 	unsigned short	W_6ae6l3eH	=	(unsigned short)-1361048098;
     long double    RL32MyF    =    605762906;
  unsigned long DtQjQfO52D = 1788319691;

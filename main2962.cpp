@@ -36,7 +36,7 @@ int main(int argc, char** argv)
     unsigned char    ChD5R    =    (unsigned char)-538135602;
 	unsigned short int	qVxJaXw4l	=	(unsigned short)-1034952644;
 	long long	A2dJS	=	-463493439;
-	short int	uWN7kn	=	1975694423;
+	short int	uWN7kn	=	(short)1975694423;
 	long double	v8wjzT	=	102345938;
   long long  bMtUQ_b  =  -418917196;
     unsigned long    n02yw    =    1454301913;

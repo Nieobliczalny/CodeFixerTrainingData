@@ -24,7 +24,7 @@ int main() {
     long long    l9N7    =    43199458;
   float  T0z4h3  =  -474561877;
 	unsigned long long	iA9Y	=	-1905298390;
- char c0_I23zC = 1439786622;
+ char c0_I23zC = (char)1439786622;
  unsigned long dasV5T = 1658950770;
  short int c8DN1ec = (short)-1191646917;
 	unsigned short int	DU3c7	=	(unsigned short)1453391681;
@@ -48,7 +48,7 @@ int main() {
   char  kHxbum_q  =  (char)-1126108007;
  unsigned short int p_ZYTh2o3l = (unsigned short)1793487208;
  double f_BVF = 1658224735;
- unsigned short int D6gM = -1855844839;
+ unsigned short int D6gM = (unsigned short)-1855844839;
   char  Qh3dA  =  754935798;
 	unsigned int	fI7920CXC0	=	2026693297;
  short int bSa0 = (short)1044276179;

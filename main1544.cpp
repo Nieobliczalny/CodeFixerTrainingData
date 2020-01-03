@@ -84,7 +84,7 @@ int main(void)
     unsigned short    t9EL    =    (unsigned short)-509071048;
   unsigned long long  Z6iy  =  0;
 	unsigned char	ollsII_Tz_	=	(unsigned char)-69108215;
- short A2l1Jdw1 = 274904372;
+ short A2l1Jdw1 = (short)274904372;
  unsigned short int F18gqIA = (unsigned short)600121319;
   double  aD_ESw_q  =  783761034;
 	long double	aSH7Sa	=	2103881282;

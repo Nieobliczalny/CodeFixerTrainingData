@@ -107,7 +107,7 @@ case 8:
 y8b152_ = VWj19R((unsigned short)-2029787472, alJ184_r, IYbgNRd);
 break;
 case 9:
-y8b152_ = VWj19R((unsigned short)-1955945696, (unsigned char)1477361886, -792499586);
+y8b152_ = VWj19R((unsigned short)-1955945696, (unsigned char)1477361886, (unsigned char)-792499586);
 break;
 }
 

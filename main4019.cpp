@@ -39,7 +39,7 @@ int main(int argc, char** argv)
     unsigned int    Jm_07ZfD    =    -115508813;
 	char	gfjvWiiyzT	=	(char)-369548610;
  unsigned short KD9u33l4 = (unsigned short)-621080791;
- unsigned short int klp0i = -1375405318;
+ unsigned short int klp0i = (unsigned short)-1375405318;
     int    iq0mrJk8q    =    548402583;
  long double ueiQJ5A = -1675248318;
  unsigned short x7zzXC7xI = (unsigned short)1048468286;
@@ -79,7 +79,7 @@ int main(int argc, char** argv)
     short int    zj3kXjQ    =    (short)-463795738;
  unsigned char nh5R = (unsigned char)232529629;
     short    sei51u    =    (short)-1282253017;
- unsigned short int OCJlqL_ = 1175053140;
+ unsigned short int OCJlqL_ = (unsigned short)1175053140;
  int JGnbSS = 119649968;
     unsigned long long    P40bY7    =    1817061225;
 

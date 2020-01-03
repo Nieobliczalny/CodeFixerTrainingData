@@ -626,7 +626,7 @@ case 2:
 ItcOkoHwSk = F00bu4((unsigned char)1122269, 1176123439, (unsigned short)1293731735, lmDB1sR, YKz104Abeu);
 break;
 case 3:
-Z_WLtK0 = F00bu4((unsigned char)544883460, uO2ll532, 365666116, -1561247806, cfo62);
+Z_WLtK0 = F00bu4((unsigned char)544883460, uO2ll532, (unsigned short)365666116, -1561247806, cfo62);
 break;
 case 4:
 ICjksO_Eo6 = lmDB1sR - 332414139;

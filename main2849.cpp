@@ -31,7 +31,7 @@ int main(void)
   anV8  =  (short)-1966623813;
   o1Xf  =  (short)1803408395;
   II7JDPaU3S  =  (short)580688833;
-  Xx6n  =  -1030457220;
+  Xx6n  =  (short)-1030457220;
   hoCFFj7Xt  =  1878109421;
   SWc30Y  =  676622101;
   dQ3LS9Gt_u  =  -624800579;
@@ -41,7 +41,7 @@ int main(void)
   Rb3p  =  (short)1877890596;
   yqp2iP86I  =  (short)-1092585468;
   SJkWL15MO  =  (short)1715986964;
-  iZ58f5  =  1744605608;
+  iZ58f5  =  (short)1744605608;
   sp8V0X  =  1950354952;
   kvccf  =  -759665758;
   AdiX  =  1979319634;
@@ -51,7 +51,7 @@ int main(void)
   Wm_5  =  (short)2143467332;
   g2e5OibmlG  =  (short)-579487894;
   X_Y0UkH  =  (short)1739622921;
-  P8qPAdW6M4  =  1889870553;
+  P8qPAdW6M4  =  (short)1889870553;
   X4D9j03mL6  =  -695461072;
   P8i6ubs  =  1369341295;
   AIYQVf6x  =  -1020182814;
@@ -61,7 +61,7 @@ int main(void)
   Le1DF  =  (short)336071105;
   wf178mw  =  (short)-198981054;
   PRBzd_  =  (short)328062254;
-  ea8_  =  -380443168;
+  ea8_  =  (short)-380443168;
   hmDC__k  =  271817997;
   ieI_L  =  1871286275;
   EjuEybV2ch  =  875498871;
@@ -71,7 +71,7 @@ int main(void)
   l8Lr_16Z  =  (short)-464714786;
   US2162EKA1  =  (short)974225907;
   u8u_  =  (short)183326008;
-  N0SQ3GmZd  =  -12977904;
+  N0SQ3GmZd  =  (short)-12977904;
   CP_4lq4j  =  90925817;
   Pjhg06  =  -1218664380;
   yqGg1xnqg6  =  1398610607;
@@ -81,7 +81,7 @@ int main(void)
   r136jV_  =  (short)-2141614199;
   t0rjOi  =  (short)-2078429843;
   EOdPF33JEN  =  (short)873490883;
-  WU1Vg73y  =  1713923118;
+  WU1Vg73y  =  (short)1713923118;
   LqEOW  =  -1317114990;
   jGuJHKDo6H  =  -1021852033;
   z2hiCZ  =  1319773443;
@@ -91,7 +91,7 @@ int main(void)
   T11Um2  =  (short)2105420326;
   cqrE_T  =  (short)-1577174067;
   z0uVW  =  (short)-950028634;
-  P3X2Ha3  =  -836340185;
+  P3X2Ha3  =  (short)-836340185;
   qz8b  =  -91917298;
   f79XQ  =  1354352666;
   yRGHZ2a4o  =  1590503508;
@@ -101,7 +101,7 @@ int main(void)
   uw3n  =  (short)650225098;
   I_j04_  =  (short)36073340;
   hiCn7v  =  (short)-517229344;
-  O6BHi5q  =  2008460983;
+  O6BHi5q  =  (short)2008460983;
 	unsigned long	G0ct,	FN1x_;
 	G0ct	=	0;
 	FN1x_	=	0;

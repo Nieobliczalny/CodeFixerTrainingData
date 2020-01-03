@@ -56,7 +56,7 @@ int main(int argc, char** argv) {
   int  stP6  =  -575220192;
 	short	YSte	=	0;
   unsigned short  BS_Y046hY  =  (unsigned short)1117553344;
-	char	dT9mUa5k0	=	263104110;
+	char	dT9mUa5k0	=	(char)263104110;
   int  DkNIiF4m4  =  1050552265;
   unsigned long long  oXL8h0  =  -661803695;
   int  twapql  =  0;

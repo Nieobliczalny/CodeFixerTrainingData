@@ -60,7 +60,7 @@ int main()
 	unsigned short int	k33RmK3	=	(unsigned short)1275502966;
     char    Cb8i1kE    =    (char)1523386958;
 	unsigned char	Dtet	=	(unsigned char)1780315891;
- unsigned short ebIIw0_7tB = -595734751;
+ unsigned short ebIIw0_7tB = (unsigned short)-595734751;
  char pB499 = -848166419;
  long long oSUV73oLl = 1517140762;
 	long long	tc8_	=	-1793128746;

@@ -28,7 +28,7 @@ int main(void)
     unsigned int    bXH_7cW0S    =    -331670081;
   short int  U9Aq_L3p_  =  (short)-1663099142;
     unsigned char    cuFWI174    =    (unsigned char)-1029267947;
-    unsigned short int    BLEtjp    =    1638310980;
+    unsigned short int    BLEtjp    =    (unsigned short)1638310980;
     unsigned long    pdnKB763Y    =    -1137670693;
   int  w1sXJY  =  278550320;
   long long  x746k1vEQ  =  -1827611395;

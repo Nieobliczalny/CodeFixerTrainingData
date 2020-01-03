@@ -19,7 +19,7 @@ int main(void)
     unsigned short    hfV4bsD0    =    (unsigned short)-287912083;
  unsigned char T2Zx13 = (unsigned char)1589722575;
 	unsigned long	P6xK	=	-1005151423;
-  unsigned char  ujHqGzndU3  =  719137941;
+  unsigned char  ujHqGzndU3  =  (unsigned char)719137941;
 	double	d9ii	=	1446259345;
 	long long	xWOVfjb	=	-1243799145;
  short mC1450_Om = (short)271527723;

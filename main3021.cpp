@@ -37,7 +37,7 @@ int main(void) {
  unsigned short R8HKrFX8z = (unsigned short)-1461802434;
   unsigned short int  o3PjQ  =  (unsigned short)1123975519;
  short int z_RDSEc = (short)1381948384;
-    unsigned char    fV1JW_aJPe    =    116291757;
+    unsigned char    fV1JW_aJPe    =    (unsigned char)116291757;
 	short int	Y3g1H_3	=	(short)1520733753;
  long double fsvPlC = -965884432;
 	float	nWUfXO37	=	-1184219965;

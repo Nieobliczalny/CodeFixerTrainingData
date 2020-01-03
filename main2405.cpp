@@ -59,7 +59,7 @@ int main(void) {
     unsigned short    oIK_bmw    =    (unsigned short)862139227;
 	unsigned short int	T7o80_C3n	=	(unsigned short)319168996;
 	unsigned short	wo_cIU9	=	(unsigned short)562637240;
-    short    ji7k8j    =    -1148614274;
+    short    ji7k8j    =    (short)-1148614274;
   short int  RQi4ma0T85  =  -858918711;
  unsigned char di0_nMy = (unsigned char)-494424867;
   long  HTg_071S  =  710248990;

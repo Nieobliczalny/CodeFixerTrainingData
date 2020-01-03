@@ -23,7 +23,7 @@ int main(int argc, char** argv) {
   hFt3  =  (short)1586577785;
   L_149SacM  =  (short)239799415;
   f27c  =  (short)-1951386198;
-  ed1_  =  -1532781055;
+  ed1_  =  (short)-1532781055;
   yUqyWA_  =  1988681081;
   mVkr9Bq  =  -900402977;
   CnVL8i  =  123864710;

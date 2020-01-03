@@ -30,7 +30,7 @@ int main() {
   short  s0O3ggZG8  =  (short)1856262473;
 	short	jg3c1d_	=	0;
   short  rCVaX  =  (short)-311038668;
-	short int	AKVS4do63	=	-1214530141;
+	short int	AKVS4do63	=	(short)-1214530141;
 	unsigned long	hV30p_n1sX	=	-14952159;
     unsigned char    dROJo78w7Y    =    (unsigned char)1383324347;
     short    rmmQ    =    -651141591;

@@ -48,7 +48,7 @@ int main(int argc, char** argv) {
     char    K3eUBWZo    =    (char)672493783;
   unsigned short  mFt8g  =  (unsigned short)1369431781;
 	unsigned char	XsWki9q4	=	(unsigned char)-2106079398;
-    short    Bq9j    =    240940894;
+    short    Bq9j    =    (short)240940894;
 	float	cQGZ1Re4	=	-27995069;
  unsigned int xv0Az = 973140868;
     short    A52zpY2w8    =    (short)-1469711769;

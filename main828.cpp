@@ -22,7 +22,7 @@ int main(void) {
   sXC0_5tWQ  =  (unsigned char)-1878135662;
   S4zSc38  =  (unsigned char)-1374868202;
   j73yy_OMo  =  (unsigned char)1156175654;
-  KS5vY0U  =  -1432058541;
+  KS5vY0U  =  (unsigned char)-1432058541;
   lImKoT  =  1127714272;
   C661K0Q  =  -1931524500;
   Tf1_yk57r  =  -1199544989;
@@ -32,7 +32,7 @@ int main(void) {
   cBdY5ANVR  =  (unsigned char)1282497321;
   H_5X1  =  (unsigned char)-1351980612;
   NCQ5vy51sU  =  (unsigned char)1895813812;
-  v2O5pNPP  =  -124260093;
+  v2O5pNPP  =  (unsigned char)-124260093;
   He_E  =  1895922617;
   b6_ze0Q  =  -1621096944;
   xk3XP  =  -700502089;
@@ -42,7 +42,7 @@ int main(void) {
   dIeH  =  (unsigned char)1490237190;
   Sk1tRHi6A5  =  (unsigned char)-1386152940;
   t_I9mE1ow4  =  (unsigned char)-70175079;
-  bNLCizC  =  840418634;
+  bNLCizC  =  (unsigned char)840418634;
   dMNR  =  1667183103;
   p1iXA2ml  =  -276664350;
   En68  =  -1278512416;
@@ -52,7 +52,7 @@ int main(void) {
   OB_hQVTA  =  (unsigned char)794256873;
   Q7p8lk3qs  =  (unsigned char)1820427692;
   NZGGre_Y9  =  (unsigned char)-1444819423;
-  CWE27H_5  =  1952743609;
+  CWE27H_5  =  (unsigned char)1952743609;
   yuN0  =  -831524388;
   EEz1Wpq8JF  =  -1625455718;
   nTKywp1Su9  =  2012209095;
@@ -62,7 +62,7 @@ int main(void) {
   trhi_MMIk5  =  (unsigned char)-678368289;
   Q6k063  =  (unsigned char)884740566;
   nTm_q_BT6  =  (unsigned char)1348146958;
-  kvfp  =  939056073;
+  kvfp  =  (unsigned char)939056073;
   ba0L33  =  847863720;
   kcdvkA  =  796577630;
   F80981A8  =  -1723428349;
@@ -72,7 +72,7 @@ int main(void) {
   Sv9xkNxig  =  (unsigned char)-775282952;
   d796u  =  (unsigned char)892893382;
   tdmqNwjTw4  =  (unsigned char)-307762326;
-  ia7J4I3w  =  -264628729;
+  ia7J4I3w  =  (unsigned char)-264628729;
   fyO0nRO  =  -1844619844;
   lQnzfk  =  515151104;
   Z_8KO1sAs  =  -1092006814;
@@ -82,7 +82,7 @@ int main(void) {
   bMp_Hm5  =  (unsigned char)558240930;
   hBLLvWz  =  (unsigned char)-1657179959;
   r_bd56S  =  (unsigned char)-334322074;
-  uT9o  =  912431766;
+  uT9o  =  (unsigned char)912431766;
 	unsigned int	YeOT9rFr,	Euq_t317bm;
 	YeOT9rFr	=	0;
 	Euq_t317bm	=	0;

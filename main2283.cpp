@@ -70,7 +70,7 @@ int main(void) {
  float F_1czb5kO2 = -1241517891;
  float BVabZ65h = 1778242038;
 	short int	KXmC	=	(short)-1922234382;
-  char  dKBfV6rkY  =  1347776870;
+  char  dKBfV6rkY  =  (char)1347776870;
  short int E3P8C4o = (short)1527345650;
   unsigned short int  vb_73eKFrE  =  (unsigned short)1176166368;
 	char	X64Ay0	=	(char)-981899195;
@@ -467,7 +467,7 @@ break;
 }
 
 EvH4Iw5F = cpFu0_Jtr(EvH4Iw5F, -1450032947, KXmC, n9tEM9ke6p, Rjeh0);
-std::cout << cpFu0_Jtr(EvH4Iw5F, 286255270, (unsigned char)-1900884929, (unsigned short)-371055317, Rjeh0) << cmkYe45DTf << IrX77Qf << cpFu0_Jtr(EvH4Iw5F, yE9KrE, (unsigned char)944284592, n9tEM9ke6p, -33057975) << std::endl;
+std::cout << cpFu0_Jtr(EvH4Iw5F, 286255270, (unsigned char)-1900884929, (unsigned short)-371055317, Rjeh0) << cmkYe45DTf << IrX77Qf << cpFu0_Jtr(EvH4Iw5F, yE9KrE, (unsigned char)944284592, n9tEM9ke6p, (unsigned short)-33057975) << std::endl;
 NW1g_PJP = LAvQ - 595874930;
 
 return 0;

@@ -144,7 +144,7 @@ std::cout << mfWH75m << GdPP(a_IN_5M38, sFUnl, -1233886530, tzSDMVF4) << sFUnl <
 
 if (((a_IN_5M38 < -855993891) && (Vajw >= oHzU)) || (njdTrRM & 853461471))
 {
-XF078l = l2QM1L((unsigned short)-591601678, 2006001850, lQdv9VU, XF078l);
+XF078l = l2QM1L((unsigned short)-591601678, (unsigned char)2006001850, lQdv9VU, XF078l);
 }
 
 {

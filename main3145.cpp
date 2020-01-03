@@ -43,7 +43,7 @@ int main(void)
   unsigned short  eu509  =  (unsigned short)1333439769;
 	char	sXcYG	=	(char)819916325;
     short int    l5OT_tI    =    (short)-1483349281;
-  unsigned short  lVS_Z3tq52  =  -1105435664;
+  unsigned short  lVS_Z3tq52  =  (unsigned short)-1105435664;
     long double    RRQ5z    =    -1820755340;
 	long long	RXz6	=	-1751421808;
 	short int	hO7KO_	=	0;

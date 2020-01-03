@@ -191,7 +191,7 @@ std::cout << d9_oG((char)813517551, -1392313660, (short)1248158489, (unsigned ch
 }
 else
 {
-voaXH = d9_oG((char)298214048, l32P9df, -2133155820, tfJt8n1A);
+voaXH = d9_oG((char)298214048, l32P9df, (short)-2133155820, tfJt8n1A);
 }
 
 for (int i = 0; i < 9; i++)

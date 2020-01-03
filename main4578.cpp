@@ -248,7 +248,7 @@ rY1XIQ = HZeMWl3P7((unsigned short)-1209943183, kt26M1fR, (unsigned char)-621636
 
 s4Jddoq = C9wUw789i / hYKwn2(-833233053, kt26M1fR, JVB_8G11yE);
 V0j9fWJxa = HZeMWl3P7(V0j9fWJxa, -1685739830, Ha2paq2jZp, (char)-820137950, -1980615686);
-iAa7 = HZeMWl3P7((unsigned short)880827695, NHoj8WL9, 632500365, woY8vBT, T5hzWP);
+iAa7 = HZeMWl3P7((unsigned short)880827695, NHoj8WL9, (unsigned char)632500365, woY8vBT, T5hzWP);
 
 e69MUMO = (C8T5T <= 1549134963) ? e69MUMO : V0j9fWJxa;
 C5gSF = hYKwn2(1781796295, PaNLd6mXW, W2F6PW_30);

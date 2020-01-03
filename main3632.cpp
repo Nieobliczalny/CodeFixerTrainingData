@@ -25,7 +25,7 @@ int main(void) {
 	pAHAGAh	=	(unsigned char)-518139480;
 	v4j50	=	(unsigned char)-1833673944;
 	haM1k4	=	(unsigned char)-1711361178;
-	Sk14_	=	1152811677;
+	Sk14_	=	(unsigned char)1152811677;
 	jt7V	=	-646147842;
 	GFVemNk9p	=	-807274038;
 	KaooQA7	=	-632686371;
@@ -35,7 +35,7 @@ int main(void) {
 	w5aCWZ4A2h	=	(unsigned char)-1852404675;
 	ES5iG9_ng	=	(unsigned char)-1646102581;
 	CmXbni	=	(unsigned char)-639834831;
-	u09_ea	=	-190035801;
+	u09_ea	=	(unsigned char)-190035801;
 	AgPp0_n_s	=	-262743094;
 	Q_p2778MXu	=	786927599;
 	pm7m	=	-1399698839;
@@ -45,7 +45,7 @@ int main(void) {
 	t7n5a	=	(unsigned char)1150309197;
 	V6kRw1GZ	=	(unsigned char)1757838798;
 	ndNj	=	(unsigned char)-1745852509;
-	VCx8L3J	=	-1029274651;
+	VCx8L3J	=	(unsigned char)-1029274651;
 	r_RoaQ_	=	1045269165;
 	kwyh	=	-2014919124;
 	iF56x	=	-353650381;
@@ -55,7 +55,7 @@ int main(void) {
 	egG68775B	=	(unsigned char)2047471244;
 	tFP7azr_P7	=	(unsigned char)-2104640350;
 	oh81z3s8	=	(unsigned char)-300821614;
-	M_0yaIX442	=	199545805;
+	M_0yaIX442	=	(unsigned char)199545805;
 	RlCly3	=	344152742;
 	Pbtuo0	=	-1725143055;
 	SK74s	=	-1566271196;
@@ -65,7 +65,7 @@ int main(void) {
 	m_4H_01Eu	=	(unsigned char)-779356338;
 	Sokn1o	=	(unsigned char)1867296816;
 	P7DuOG	=	(unsigned char)202800723;
-	B64j	=	-454106653;
+	B64j	=	(unsigned char)-454106653;
 	jBQ4VyiP	=	904972142;
 	Y2p3UHp4	=	-182269921;
 	e0RiJIw48	=	-2136859408;
@@ -75,7 +75,7 @@ int main(void) {
 	hchV1109Y	=	(unsigned char)498684479;
 	Dhu5BEwdp	=	(unsigned char)2132635078;
 	Xu_vR1O	=	(unsigned char)261348336;
-	t0ac0SN7m	=	1679010594;
+	t0ac0SN7m	=	(unsigned char)1679010594;
 	S8usVOL8S	=	1073612535;
 	a8jD4qiR3	=	-296448837;
 	s_tW0Oef	=	-1729098409;
@@ -85,7 +85,7 @@ int main(void) {
 	GOZ_pJb6s4	=	(unsigned char)1096014772;
 	m0g9D25CW	=	(unsigned char)1563613711;
 	uCLkTK80	=	(unsigned char)-1116210394;
-	KA28	=	1675818106;
+	KA28	=	(unsigned char)1675818106;
 	ukt9He_C77	=	588768775;
 	A1J2P	=	-1883384877;
     unsigned long long    S50aiyr5,    Wn8GNu9wb,    QA6q5mJ9,    PmX4,    D4f1;

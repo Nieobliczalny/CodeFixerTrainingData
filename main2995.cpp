@@ -46,7 +46,7 @@ int main(int argc, char** argv)
 	short	u81cC86	=	(short)-121130281;
   unsigned long  o7Fc9  =  -1307097941;
     short int    Mbr2f    =    (short)-977138317;
-	unsigned char	Eo4Lyl25Cx	=	-1775731016;
+	unsigned char	Eo4Lyl25Cx	=	(unsigned char)-1775731016;
     long long    AIAuJBd_5y    =    -3139757;
  int OU62EL2SE = -763449890;
  unsigned short int nEX4 = (unsigned short)525038750;

@@ -48,7 +48,7 @@ int main(void) {
 	short int	nh3_lt5	=	(short)-1871128554;
  unsigned short AnER = (unsigned short)-1869751393;
 	char	IZgS	=	(char)-245030488;
-    short    h_AXvrrieP    =    -2122094742;
+    short    h_AXvrrieP    =    (short)-2122094742;
     double    uR_zHBS    =    -346729681;
 	long	OLF_Kh2a	=	831002425;
 	unsigned short int	Dj_ZAUbjzP	=	(unsigned short)1500656674;
@@ -68,7 +68,7 @@ int main(void) {
 	unsigned int	CP33M3wV	=	-1700923930;
     short int    j8Jj1_Kv    =    (short)270303802;
  unsigned char O38pCF = (unsigned char)-1172835326;
-	short	dX8a5	=	-1098361383;
+	short	dX8a5	=	(short)-1098361383;
 	unsigned long	T_lS5O	=	0;
  unsigned char sRc7J = (unsigned char)-1584807990;
     unsigned long    C8ZlJJ4    =    -1609723267;

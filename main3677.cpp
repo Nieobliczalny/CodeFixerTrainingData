@@ -66,7 +66,7 @@ int main(void) {
     char    a26mb7f5Q    =    (char)-1928498207;
 	long long	sSa3	=	1815781268;
 	unsigned short int	B8_IxY	=	(unsigned short)-1699639597;
-	char	EhocxCqY	=	-1206724413;
+	char	EhocxCqY	=	(char)-1206724413;
  unsigned long long xSuK03v = -2029939432;
     long double    R3ta8BQ    =    704884854;
  int KN6c13W = 465571462;

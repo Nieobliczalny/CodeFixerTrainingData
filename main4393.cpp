@@ -31,7 +31,7 @@ int main(int argc, char** argv)
 	char	vSnJhS	=	(char)-1515013260;
   long  vF7T8A  =  951963139;
     long long    ezaQ4    =    1362552705;
-  short  U1qShS  =  1057383874;
+  short  U1qShS  =  (short)1057383874;
 	unsigned char	kxTDAC	=	(unsigned char)1389107380;
  unsigned short Tk9tZ76m73 = (unsigned short)-1857470938;
   unsigned long long  OXv7vBi  =  435842573;

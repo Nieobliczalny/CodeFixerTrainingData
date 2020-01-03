@@ -75,7 +75,7 @@ int main(int argc, char** argv) {
 	unsigned short	ICD_n	=	(unsigned short)301846421;
 	double	FDpB_p_MH	=	-953017208;
 	unsigned char	jlX3y1N	=	(unsigned char)-913715192;
-  unsigned char  u_72kJ  =  1139461706;
+  unsigned char  u_72kJ  =  (unsigned char)1139461706;
   unsigned char  vyXd9V  =  (unsigned char)-571087276;
   unsigned char  YUX2VG5  =  (unsigned char)-1830530885;
     unsigned long    RjLpb63Q4s    =    0;

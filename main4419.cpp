@@ -50,7 +50,7 @@ int main()
  short JfZ7 = (short)-466389428;
     unsigned int    MvdD__QZ    =    -721411813;
  char ycA4LkvWP9 = (char)1631794736;
-  unsigned short  y2GBE  =  1728533479;
+  unsigned short  y2GBE  =  (unsigned short)1728533479;
   unsigned int  t57QD3oUG1  =  0;
  unsigned long long qo_yJ = -170979028;
  float VKs8n = -65960818;

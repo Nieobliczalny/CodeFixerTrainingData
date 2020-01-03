@@ -66,7 +66,7 @@ do
 switch (c0Ai6__7w)
 {
 case 'a':
-qxTv = DpkN9m227Z(qxTv, (short)-1846247692, (char)219846628, -1838414445, VGhI);
+qxTv = DpkN9m227Z(qxTv, (short)-1846247692, (char)219846628, (unsigned char)-1838414445, VGhI);
 break;
 case 'b':
 w7Pp7++;
@@ -606,7 +606,7 @@ D1_Fs = DpkN9m227Z(HpbeaD, WR0a_Fr, (char)2013955748, (unsigned char)-242047979,
 }
 else if (Fl1OwQg >= xjem)
 {
-jdmp0k = DpkN9m227Z(-1634562830, 724353342, j9eXRRr, 1380488844, VAMvcvRj2);
+jdmp0k = DpkN9m227Z((short)-1634562830, 724353342, j9eXRRr, 1380488844, VAMvcvRj2);
 }
 else
 {

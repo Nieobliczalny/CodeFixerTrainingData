@@ -26,7 +26,7 @@ int main(void) {
     bm_84    =    (unsigned short)1351140846;
     QBrVP1_09_    =    (unsigned short)-1064433205;
     d1gCy    =    (unsigned short)1305485042;
-    V5Fk_olZ    =    -1579930232;
+    V5Fk_olZ    =    (unsigned short)-1579930232;
     lqgL    =    863171399;
     ISh2eU6z    =    1694756720;
     HYJY2xv    =    -211829431;
@@ -36,7 +36,7 @@ int main(void) {
     uDGFeGt86    =    (unsigned short)1767264046;
     Ep__7cqfpA    =    (unsigned short)-1105888075;
     rZl3F0G_T    =    (unsigned short)1389564680;
-    U_CGh0XjI    =    -775460051;
+    U_CGh0XjI    =    (unsigned short)-775460051;
     nuuFk    =    -546455851;
     b1R01    =    -1968027119;
     xnh_1Aa    =    2143888772;
@@ -46,7 +46,7 @@ int main(void) {
     q9na56oe_    =    (unsigned short)-101708972;
     gBYJZv    =    (unsigned short)-1521858048;
     SY288m    =    (unsigned short)1745648826;
-    TwmU1j3    =    -1962719928;
+    TwmU1j3    =    (unsigned short)-1962719928;
     I1WR79p    =    -33022518;
     r1j_s526N5    =    -1473314223;
     QYo4Q    =    1200495253;
@@ -56,7 +56,7 @@ int main(void) {
     c11c    =    (unsigned short)-1889287330;
     MXdm2c    =    (unsigned short)-1588998045;
     GHhHPr    =    (unsigned short)2068416740;
-    EV8aSDuElX    =    -1044297409;
+    EV8aSDuElX    =    (unsigned short)-1044297409;
     gZH794pK    =    -775340163;
     etLLtY9bkM    =    1020442641;
     zgu97J    =    -236655708;
@@ -66,7 +66,7 @@ int main(void) {
     JD3_dK    =    (unsigned short)45904598;
     a7ku5pbf1K    =    (unsigned short)1187275149;
     Ao14_U8    =    (unsigned short)-179864278;
-    GRrdD    =    1470252004;
+    GRrdD    =    (unsigned short)1470252004;
     Gz0_    =    903125870;
     R5Cx3u    =    572530854;
     FYC9UD4NWz    =    1147109653;
@@ -76,7 +76,7 @@ int main(void) {
     u9y9    =    (unsigned short)-9760388;
     txe61YK9fA    =    (unsigned short)1104675735;
     xB_3    =    (unsigned short)2087215794;
-    X7vV27    =    1417632350;
+    X7vV27    =    (unsigned short)1417632350;
     unsigned short int    q6UFj;
     q6UFj    =    0;
 

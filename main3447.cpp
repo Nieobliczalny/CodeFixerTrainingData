@@ -89,7 +89,7 @@ int main() {
     unsigned long    tuD40U    =    1313931145;
  short xQXNpZtlu8 = (short)-1784426609;
   unsigned char  aDPl0G8iCM  =  (unsigned char)-1501639501;
-	unsigned char	EbOR3	=	-227099089;
+	unsigned char	EbOR3	=	(unsigned char)-227099089;
   unsigned char  RleocZb  =  (unsigned char)480897999;
  short B0_3 = (short)-1039025770;
   long long  h8Yk50WuC  =  0;

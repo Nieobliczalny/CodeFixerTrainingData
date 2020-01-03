@@ -64,7 +64,7 @@ int main(void)
  unsigned long D7WqU8 = -1893970526;
   short int  e5_F77fm  =  (short)-14064232;
 	float	Hh9qsbva	=	-1679057078;
-    short int    F_N2_41    =    -922536516;
+    short int    F_N2_41    =    (short)-922536516;
  long double eU_3pVtss = -1328696865;
   long long  C2fK17BV  =  0;
     unsigned long long    TJKkxVgp3R    =    -983889961;

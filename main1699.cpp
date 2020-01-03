@@ -19,7 +19,7 @@ int main()
  dn_l8_l_ = (short)-1954539712;
  lRSU_YK7lR = (short)-1826284822;
  Vg76N0DU = (short)-822206277;
- g7f5TkKEo = -1988307485;
+ g7f5TkKEo = (short)-1988307485;
  A_wq = -2058126696;
  WPGsBtP8cJ = 1883922274;
  cC3f2aa6 = -1549866866;
@@ -29,7 +29,7 @@ int main()
  BJ6al_ = (short)694847456;
  t782o685d = (short)-297110770;
  jtg4J7tdQ = (short)1030336046;
- SWD_YX0i4s = 356449421;
+ SWD_YX0i4s = (short)356449421;
  b4vy = 2071279178;
  S01_b3l = -69693934;
  PBStSZ = 776032840;
@@ -39,7 +39,7 @@ int main()
  b6e9_sk0 = (short)1765328260;
  mfRP86 = (short)1074374997;
  f2H9A_q = (short)1341196234;
- Jw11xGpOhq = -1463858961;
+ Jw11xGpOhq = (short)-1463858961;
  lku_3gQqW = -780143417;
  wYDUG = 1067699607;
  Lb1zNZE = 522729738;
@@ -49,7 +49,7 @@ int main()
  g00d9_a7 = (short)-646881095;
  nd7xixn7Q = (short)1077350733;
  qnFp7 = (short)-1708963240;
- uOMqnSG01B = -1809521396;
+ uOMqnSG01B = (short)-1809521396;
  jk9N9Hrk_ = -1590116686;
  M8JyaJ9jFo = -1532806649;
  nfFmg89 = 1973300630;
@@ -59,7 +59,7 @@ int main()
  C2T4z = (short)1591515418;
  EuSrZmjlNA = (short)438158785;
  rb8ZZHUW4N = (short)1913417243;
- XUy_ = 686233259;
+ XUy_ = (short)686233259;
  bbg0 = 644522874;
  q4VFcnF = -1476594472;
  ty7caUtj = -213630968;
@@ -69,7 +69,7 @@ int main()
  BPEe8 = (short)-657963272;
  iHg047 = (short)-854034009;
  w257h = (short)1106676007;
- HDh5_E3aq = -144109445;
+ HDh5_E3aq = (short)-144109445;
  m2x5V1q = 603212597;
  MBCM5o = 96809205;
  OwgVud0 = -2069118591;
@@ -79,7 +79,7 @@ int main()
  InK363 = (short)-937229382;
  QnYl1k2N3 = (short)195667447;
  hi77rb = (short)-689240097;
- gVK2_k = 1266743985;
+ gVK2_k = (short)1266743985;
  e5v5 = -275510653;
  l9P174 = 405201687;
  Th3a_eErX7 = -548122620;
@@ -89,7 +89,7 @@ int main()
  s3CsbA = (short)2032058887;
  aZ6RkH33g = (short)1977876721;
  jw6g = (short)-2083196883;
- kwmhHBDra0 = 48001006;
+ kwmhHBDra0 = (short)48001006;
  mC_1WmsW = -953292890;
  ucdMoUZ = 339750287;
  T64T_ = -615364468;
@@ -99,7 +99,7 @@ int main()
  H3w_ = (short)572360860;
  p9H25KZl = (short)761963785;
  Le3M3B8M = (short)-1121130168;
- U4qN_io = -257010881;
+ U4qN_io = (short)-257010881;
  kq_mbR6I = -960798110;
  S9h6SY = 1829796521;
  oaD356 = 879985046;

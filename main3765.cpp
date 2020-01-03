@@ -56,7 +56,7 @@ int main(int argc, char** argv) {
 	double	Q_HV8uF4	=	1353208049;
 	double	iCGgNnS7Z	=	-306165132;
 	unsigned char	B_9t6mmOO	=	(unsigned char)-1331480741;
-  char  BBh0  =  -452001274;
+  char  BBh0  =  (char)-452001274;
 	unsigned short	X3344RGO4	=	(unsigned short)700743028;
 	unsigned long long	OnKsON0Qh	=	-1743525327;
     unsigned int    Nvq8lwJQE    =    1823845859;

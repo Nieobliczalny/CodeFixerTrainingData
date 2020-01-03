@@ -122,7 +122,7 @@ case 'e':
 rISYgiuK9q = TBEJ(rISYgiuK9q, (char)-1899854768, (short)2084909086);
 break;
 case 'f':
-E72sT6 = TBEJ((short)-1700970031, (char)2011258862, 1670116658);
+E72sT6 = TBEJ((short)-1700970031, (char)2011258862, (short)1670116658);
 break;
 case 'g':
 hoeU1fB = UC753 / 1243098200;

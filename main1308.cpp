@@ -23,7 +23,7 @@ int main(void) {
   char  I0j1  =  (char)776969684;
  unsigned short int w8yAS = (unsigned short)929890122;
     char    e3v_R26    =    0;
-    unsigned char    R0323cw    =    -1042245585;
+    unsigned char    R0323cw    =    (unsigned char)-1042245585;
     int    A4C3    =    1371388596;
   double  bK3yZs6  =  1547958250;
  short int yy_615N_2q = (short)141934855;

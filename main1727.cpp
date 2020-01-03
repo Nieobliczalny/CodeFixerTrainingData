@@ -23,7 +23,7 @@ if (JO_qU_kD((char)-365573702, (short)91922364, mM3eIra) == 0)
 }
 if (YLYnnoA2u >= 736915104)
 {
-sps3z = JO_qU_kD((char)1881523491, -1452570072, -714482191);
+sps3z = JO_qU_kD((char)1881523491, (short)-1452570072, -714482191);
 }
 else
 {

@@ -138,7 +138,7 @@ mKys5O7 = G5fuy3YHo((unsigned short)1651529255, (short)1915387565, -915539329, (
 break;
 case 'e':
 case 'E':
-mKys5O7 = fMbDmo(2050252110, (unsigned char)-1922718388, -207953958, U9j2Jv254, -1877779023);
+mKys5O7 = fMbDmo(2050252110, (unsigned char)-1922718388, (unsigned char)-207953958, U9j2Jv254, -1877779023);
 break;
 case 'f':
 case 'F':

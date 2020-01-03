@@ -103,7 +103,7 @@ int main(int argc, char** argv)
 	int	R9u9b	=	-1531058489;
   unsigned long  ZFZebK  =  -1865844980;
     unsigned char    t2wjc282Y    =    (unsigned char)710526989;
-  unsigned short  ffodr3i_  =  1377358841;
+  unsigned short  ffodr3i_  =  (unsigned short)1377358841;
   long long  KlL1cu  =  302718354;
  unsigned long xoEApb = -111269134;
 

@@ -380,7 +380,7 @@ case 2:
 I8WzX6p2RH++;
 break;
 case 3:
-Xi7TD5Y4 = GsoBvV((short)-1107113624, (short)914791914, 1620937366, w5g9, hJOI5);
+Xi7TD5Y4 = GsoBvV((short)-1107113624, (short)914791914, (char)1620937366, w5g9, hJOI5);
 break;
 case 4:
 hYR_E_lY = (int)ceil(Rv_w73);

@@ -103,7 +103,7 @@ case 'c':
 Wi4J4J4wr = V44bj();
 break;
 case 'd':
-X454i42OV8 = T_y293v6((unsigned short)-1778468508, B_9tZ7Jq, (char)-2099175431, 2069292713, -1687552933);
+X454i42OV8 = T_y293v6((unsigned short)-1778468508, B_9tZ7Jq, (char)-2099175431, (unsigned short)2069292713, -1687552933);
 break;
 case 'e':
 s5ccliI9 = Y0GIOn5a4d | 1532562396;
@@ -475,7 +475,7 @@ case 5:
 sYPH4QsWR = (int)floor(fs527n);
 break;
 case 6:
-Y0GIOn5a4d = T_y293v6((unsigned short)-880512389, (char)-2076271788, hqFZkv, -651199932, 565960365);
+Y0GIOn5a4d = T_y293v6((unsigned short)-880512389, (char)-2076271788, hqFZkv, (unsigned short)-651199932, 565960365);
 break;
 case 7:
 fs527n = (int)floor(sYPH4QsWR);

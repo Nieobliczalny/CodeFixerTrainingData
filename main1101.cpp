@@ -39,7 +39,7 @@ int main(int argc, char** argv) {
  short int zrWa = (short)327778199;
     unsigned short    wxsx    =    (unsigned short)-54430409;
 	short	lfuWs	=	(short)1873642050;
-    unsigned char    R9DO_UC    =    -2094852847;
+    unsigned char    R9DO_UC    =    (unsigned char)-2094852847;
     unsigned short    NC8f8    =    1439897035;
   long double  NmDGz  =  -1449463618;
 	unsigned short	r3_k	=	(unsigned short)172995136;
@@ -62,7 +62,7 @@ int main(int argc, char** argv) {
     char    X1_25    =    (char)-796035303;
   short int  ef_VW  =  (short)-74286716;
  long double m48w8k3a6 = 1083193565;
-  unsigned short  D2W5Gx7gF1  =  -1105327767;
+  unsigned short  D2W5Gx7gF1  =  (unsigned short)-1105327767;
  long mkbs1U = 67532677;
   long long  rJc4mcr2u9  =  885544262;
   unsigned long  DE385H  =  484307069;

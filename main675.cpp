@@ -78,7 +78,7 @@ int main(void) {
 	short int	K8fY51	=	(short)-707687972;
     short int    MpQX    =    (short)-1961414862;
   char  UXN2  =  (char)1780068576;
-  short int  i7UbktQ4  =  194136240;
+  short int  i7UbktQ4  =  (short)194136240;
   int  KGQX8  =  -1846468549;
 	unsigned short int	RAQd	=	(unsigned short)62967425;
 	unsigned int	CZT85	=	779630496;

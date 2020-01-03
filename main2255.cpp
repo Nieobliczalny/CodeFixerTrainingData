@@ -56,7 +56,7 @@ int main(int argc, char** argv) {
   short int  ByrVPmKmd  =  (short)1348885219;
     unsigned char    M3NzFG1e_    =    (unsigned char)1063150821;
     unsigned char    h7WJ    =    (unsigned char)1493342703;
-    short    Iymx6N    =    1032602859;
+    short    Iymx6N    =    (short)1032602859;
 	short int	XkE1S	=	(short)-1375562016;
  long double OTjC = -649268231;
  double fTz4WfSv8N = 1725945550;
@@ -85,7 +85,7 @@ int main(int argc, char** argv) {
  unsigned char N5Z0dpD3YW = (unsigned char)-1730410378;
     unsigned long long    S14ej92J0x    =    -56447388;
 	unsigned char	Vh_m76M	=	(unsigned char)-1013128776;
- unsigned char Xyv3RT4_ = -2021857805;
+ unsigned char Xyv3RT4_ = (unsigned char)-2021857805;
 
 for (int i = 5; i >= 0; i--)
 {

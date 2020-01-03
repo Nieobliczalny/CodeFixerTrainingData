@@ -37,7 +37,7 @@ int main()
 	F0jb_5yn	=	(char)94574380;
 	e7R_SJ	=	(char)1814971885;
 	GyALO	=	(char)388100553;
-	EFlGdW8	=	-782594357;
+	EFlGdW8	=	(char)-782594357;
 	I_15	=	1411775126;
 
 switch (QR8PkHcqq0)

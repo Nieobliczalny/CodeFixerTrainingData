@@ -23,7 +23,7 @@ int main()
  unsigned long long nku9hgo = 1022894570;
  long long zf36z = 456239864;
   char  vjla3j8__d  =  (char)-486172064;
- unsigned short XkLk04 = -316049911;
+ unsigned short XkLk04 = (unsigned short)-316049911;
     int    h6_HT4j    =    -1378962757;
   unsigned long  XGhTR  =  -1861670098;
  float ylODp2q__1 = -1615848080;

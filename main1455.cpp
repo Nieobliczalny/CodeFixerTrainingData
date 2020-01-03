@@ -21,7 +21,7 @@ int main(void)
 
 try
 {
-cout << "YjS0HUw" << w2Sj8Ob3(-323288170, 1248536868) << "cHOC_" << endl;
+cout << "YjS0HUw" << w2Sj8Ob3((short)-323288170, 1248536868) << "cHOC_" << endl;
 }
 catch (int& errorCode)
 {

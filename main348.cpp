@@ -370,7 +370,7 @@ Q4DdwV7_ns = KDJ7pU8fXN((unsigned char)-939213859, (unsigned char)-89093295, AsO
 }
 else if (q2tb2MT)
 {
-MTTX = KDJ7pU8fXN((unsigned char)-1488057381, (unsigned char)-431796611, (unsigned char)992953869, 1576841802);
+MTTX = KDJ7pU8fXN((unsigned char)-1488057381, (unsigned char)-431796611, (unsigned char)992953869, (unsigned char)1576841802);
 }
 else if (JfJJ8vv < Mj2F)
 {
@@ -588,7 +588,7 @@ case 2:
 MTTX = KDJ7pU8fXN(ff_6T, Y_F540j, q2tb2MT, (unsigned char)1323748564);
 break;
 case 3:
-E_TwTrpk = KDJ7pU8fXN(-100815349, -1133228, -111864556, -771321341);
+E_TwTrpk = KDJ7pU8fXN((unsigned char)-100815349, -1133228, -111864556, -771321341);
 break;
 case 4:
 pF_X50Qlp3 = (GV7SBsmc >= 2100485622) ? -127106845 : Q4DdwV7_ns;

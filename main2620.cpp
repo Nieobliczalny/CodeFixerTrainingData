@@ -33,7 +33,7 @@ int main(int argc, char** argv) {
   unsigned char  eUaF3  =  (unsigned char)643623859;
 	short int	gSy1z0	=	(short)349488923;
   long long  GZ0T0_7q  =  300152731;
-  char  t_pu3  =  -414498390;
+  char  t_pu3  =  (char)-414498390;
   double  w11q  =  1562621624;
 	unsigned long	m_mMW44n	=	-331586895;
 	int	MU75W_1lHO	=	1811999325;

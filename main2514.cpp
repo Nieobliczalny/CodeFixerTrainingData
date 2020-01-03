@@ -391,7 +391,7 @@ while (i < 5);
 }
 if (m8P97W(e7TF09W2, (short)829733886, (unsigned short)153104683, oeqbaQHJ2, (unsigned short)-1248061414) == 0)
 {
-	sU1gEXMu0_ = e7TF09W2 / m8P97W(e7TF09W2, (short)829733886, 153104683, oeqbaQHJ2, -1248061414);
+	sU1gEXMu0_ = e7TF09W2 / m8P97W(e7TF09W2, (short)829733886, (unsigned short)153104683, oeqbaQHJ2, -1248061414);
 }
 
 switch (e7TF09W2)

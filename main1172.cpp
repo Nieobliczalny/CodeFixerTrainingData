@@ -38,7 +38,7 @@ int main(void) {
     long long    Ny6kB4    =    0;
  unsigned char Q7_0sx9 = (unsigned char)1179349244;
 	unsigned char	AQ6YzKCbQm	=	(unsigned char)220896724;
-	unsigned short int	itTwOt9_2	=	704729011;
+	unsigned short int	itTwOt9_2	=	(unsigned short)704729011;
   short int  sC999p6  =  1260106444;
 	long double	p5EQ__Q899	=	-221747204;
   long long  ZSv6  =  1570111449;

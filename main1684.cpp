@@ -461,7 +461,7 @@ case 6:
 PNW0o3lf = V1V_ba3Z(hNQ6l, 558571177, dSl32EPE, (char)-411181106);
 break;
 case 7:
-m4lUyc = V1V_ba3Z(-610188447, zCmQA, (short)1747813129, -435553495);
+m4lUyc = V1V_ba3Z(-610188447, zCmQA, (short)1747813129, (char)-435553495);
 break;
 case 8:
 vh1_3Dc <<= z1npD;

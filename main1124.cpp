@@ -29,7 +29,7 @@ int main(void)
 	mPIlOzc11u	=	(char)-1346330011;
 	n__809QPm	=	(char)-666488407;
 	UwRP	=	(char)1659902680;
-	ze18_	=	-2121589859;
+	ze18_	=	(char)-2121589859;
 	WOw0	=	487167794;
 	G17L6	=	-84721512;
 	d34x	=	-1265718143;
@@ -39,7 +39,7 @@ int main(void)
 	ju27lb	=	(char)-921249198;
 	LzVXH6	=	(char)-918944132;
 	PAda3	=	(char)2087774847;
-	y8APzf	=	1037172143;
+	y8APzf	=	(char)1037172143;
 	i6o0Y0OWG	=	130266002;
 	ely_2	=	420259310;
 	abH_IZ2	=	1439884464;
@@ -49,7 +49,7 @@ int main(void)
 	I4qC	=	(char)1045865443;
 	w4v7Sb4	=	(char)149731869;
 	SV88a	=	(char)91135942;
-	BU6hk3tx	=	-1532975741;
+	BU6hk3tx	=	(char)-1532975741;
 	h53Z_	=	273220280;
 	r04EW8	=	1400507554;
 	F3PTD6Hn8y	=	-642155731;
@@ -59,7 +59,7 @@ int main(void)
 	yOKnWlV3V5	=	(char)1073044680;
 	w4u09ZE	=	(char)988949039;
 	se11nwre3z	=	(char)-737718914;
-	yx1C	=	-407982144;
+	yx1C	=	(char)-407982144;
 	bXyc	=	-790387739;
 	XMvi8	=	202375918;
 	SU9kH	=	1569776298;
@@ -69,7 +69,7 @@ int main(void)
 	tSx2im4	=	(char)-565262988;
 	YFcgu0x	=	(char)1798687891;
 	JN8uW	=	(char)-630362495;
-	t9mwcpI6zI	=	-528613706;
+	t9mwcpI6zI	=	(char)-528613706;
 	P8ngR2XW54	=	-1237764622;
 	Q1Ml3o	=	1831542646;
 	z5pEU	=	-698892520;
@@ -79,7 +79,7 @@ int main(void)
 	sgm3iBjy	=	(char)882718114;
 	z9LKP650	=	(char)-1397585024;
 	Q1CL	=	(char)352426964;
-	cg9_uhTdd	=	1523058860;
+	cg9_uhTdd	=	(char)1523058860;
 	bmj5	=	-773890029;
 	xveNM2Cwd0	=	415133800;
 	x5p3s8SX	=	76080048;
@@ -89,7 +89,7 @@ int main(void)
 	l0Ue6sF	=	(char)-1436288268;
 	uHnpPYp_	=	(char)1675599247;
 	mMM8KnMj8	=	(char)442449031;
-	U0bHl	=	-947842696;
+	U0bHl	=	(char)-947842696;
 	s2I9PG5	=	-468224110;
 	VRx7BWd2yB	=	-980470692;
 	PjP04BDx	=	860651408;
@@ -101,7 +101,7 @@ int main(void)
 	tJMWzzim	=	(char)-814583690;
 
 eWZX = k4n_zs(eWZX, 1125213083, ely_2, 313172197);
-z9LKP650 = k4n_zs(-1791568314, xveNM2Cwd0, 1178170467, ob3EX4_J) / No6d1qLb2N;
+z9LKP650 = k4n_zs((unsigned char)-1791568314, xveNM2Cwd0, 1178170467, ob3EX4_J) / No6d1qLb2N;
 
 BU6hk3tx--;
 cout << u0O5z7(1308133064, xveNM2Cwd0, 844649787, -1902769472) << ie14x << W0226f9A4Z << u0O5z7(eWZX, 975686238, ely_2, ob3EX4_J) << endl;

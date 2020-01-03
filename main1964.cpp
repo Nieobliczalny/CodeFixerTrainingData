@@ -55,7 +55,7 @@ int main(void) {
   double  OX5bYj9bB9  =  -478173484;
 	unsigned long long	Q0Gin	=	0;
  short L4FaP = (short)-1452914876;
-    unsigned short int    bh7rYOV    =    -1376234537;
+    unsigned short int    bh7rYOV    =    (unsigned short)-1376234537;
     unsigned long long    D8D05    =    1104878169;
 	long double	SIATk	=	781712762;
 	long double	X1OG3	=	-327882299;

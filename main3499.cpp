@@ -68,7 +68,7 @@ int main(int argc, char** argv) {
   unsigned char  B3F0  =  (unsigned char)1058827708;
 	unsigned long	D6GA1	=	458630216;
 	unsigned long	Y91_u6q9_o	=	-431079060;
-	unsigned short	BW_87BJw	=	-144000506;
+	unsigned short	BW_87BJw	=	(unsigned short)-144000506;
 	char	fria0u	=	(char)-1242174017;
  unsigned int oULX9kG = -1922304528;
     char    N1UBzE    =    (char)-1952555546;

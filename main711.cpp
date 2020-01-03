@@ -56,7 +56,7 @@ int main(void) {
     short int    oC7nKiu    =    (short)-1280633597;
   unsigned short  D464  =  (unsigned short)-162378571;
   unsigned short int  Kh1Vi  =  (unsigned short)-2102475827;
- unsigned short eqLD = 1423377992;
+ unsigned short eqLD = (unsigned short)1423377992;
   short int  S7DMr5DSR  =  (short)1757217671;
   unsigned short  n5r7H4ur__  =  0;
     long long    rqeM5H0K    =    457725185;

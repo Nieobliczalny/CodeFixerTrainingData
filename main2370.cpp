@@ -20,7 +20,7 @@ int main(void) {
 	le6A	=	(short)1234969757;
 	vn_j3	=	(short)-1700133891;
 	Z3xVBk1NJT	=	(short)-1126346231;
-	aBTJ	=	1661661469;
+	aBTJ	=	(short)1661661469;
 	n19_I_	=	-881017919;
 	egIr570	=	1027863813;
 	D0e0	=	1037269947;
@@ -30,7 +30,7 @@ int main(void) {
 	h749H	=	(short)-1426854847;
 	U8b1Rg	=	(short)-1874938957;
 	kU4yl3RR	=	(short)-273735976;
-	VIOHM6ynIU	=	743835380;
+	VIOHM6ynIU	=	(short)743835380;
 	int	NKK9RM;
 	NKK9RM	=	0;
 

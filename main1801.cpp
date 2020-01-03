@@ -29,7 +29,7 @@ int main(void) {
  unsigned char usu_O0e = (unsigned char)867885511;
   double  xhKfIhLGNW  =  1265368287;
   short  G6A9PP6o  =  (short)1765151970;
-  unsigned short  b1Keu  =  1763020201;
+  unsigned short  b1Keu  =  (unsigned short)1763020201;
   double  WP93C_  =  -1038133179;
   unsigned short  y7Bgg  =  (unsigned short)-1442975047;
     unsigned short    I59NJg    =    (unsigned short)-2102505211;

@@ -28,7 +28,7 @@ int main(void)
 	short int	Ijc_89p	=	(short)-827376084;
     short    Tj30C4m9I    =    0;
   short  T49R868H  =  (short)2131056636;
-  unsigned char  I6YN0  =  -170217429;
+  unsigned char  I6YN0  =  (unsigned char)-170217429;
 	short	A280N1Vt	=	-1463720683;
  short pzNJI = 0;
     float    zvtL3gN    =    -2092393534;

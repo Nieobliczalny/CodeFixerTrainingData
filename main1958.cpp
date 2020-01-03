@@ -23,7 +23,7 @@ int main() {
 	mMt8c8tq7_	=	(short)-1064082244;
 	h26BOVi	=	(short)1662794592;
 	o13ZhYI	=	(short)-2131931516;
-	F3HYaj	=	-1269997443;
+	F3HYaj	=	(short)-1269997443;
 	Pj57	=	2055231903;
 	qQ39N	=	54002760;
 	px4A_tO3HJ	=	78969442;
@@ -33,7 +33,7 @@ int main() {
 	nsCe02	=	(short)-1965190580;
 	rc_Xc	=	(short)-162738487;
 	P4li0d	=	(short)-2033557166;
-	V8p_uzrbu	=	-620261466;
+	V8p_uzrbu	=	(short)-620261466;
 	iG435t6oV	=	-1151076146;
 	RMTMxA_vIC	=	-889074066;
 	qTRZUsJ8sJ	=	-634383809;
@@ -43,7 +43,7 @@ int main() {
 	XU_LW_6	=	(short)259913253;
 	o5r7sD7yDR	=	(short)1783773627;
 	ZZDX40203J	=	(short)-1185181255;
-	uaQmmy0_m	=	-1001029920;
+	uaQmmy0_m	=	(short)-1001029920;
 	pj_nLb4CRc	=	2040018229;
 	NU8_86	=	-1624483807;
 	N24a	=	626105267;
@@ -53,7 +53,7 @@ int main() {
 	H6fo2FR6BY	=	(short)-206421827;
 	x30BU	=	(short)-1313415750;
 	yDB9QDWY5	=	(short)1599686360;
-	OYhU0V84	=	-352919104;
+	OYhU0V84	=	(short)-352919104;
 	xyYL60	=	909926526;
 	UuP06	=	1542379689;
 	dGNrX	=	-666350393;
@@ -63,7 +63,7 @@ int main() {
 	is6U	=	(short)-1513760202;
 	EYvBv3	=	(short)297045639;
 	T6D6793I	=	(short)-38493920;
-	X00DH1A3gi	=	964867260;
+	X00DH1A3gi	=	(short)964867260;
 	W54724	=	-451105591;
 	M5YT28x	=	1206986287;
 	clS8k	=	-797157328;
@@ -73,7 +73,7 @@ int main() {
 	kIHyM	=	(short)-31258368;
 	p83PZ	=	(short)-402935619;
 	db3kT	=	(short)-188547335;
-	x6NR3_b	=	751851213;
+	x6NR3_b	=	(short)751851213;
 	MD_aTM5g92	=	-280462122;
 	Q8qQAx9e8u	=	1746053932;
 	K7sC9nqE	=	-626789931;
@@ -83,7 +83,7 @@ int main() {
 	Qp8x90w57_	=	(short)707462057;
 	y5n8	=	(short)812788664;
 	Bz0Vb0tylR	=	(short)165580271;
-	Xk_Ph_g03	=	-1617891119;
+	Xk_Ph_g03	=	(short)-1617891119;
 	WY27eD	=	929532849;
 	W420492U_1	=	-975222740;
 	MAQYnIX	=	150577439;
@@ -93,7 +93,7 @@ int main() {
 	Lqu2kid	=	(short)1858848473;
 	HCzU3R	=	(short)711746007;
 	w7m6aQ1l	=	(short)1655834949;
-	ASe8	=	561874083;
+	ASe8	=	(short)561874083;
 	XpHN	=	-109180098;
 	yrWVsz	=	-875082355;
 	Ke_f	=	-1883243234;
@@ -103,7 +103,7 @@ int main() {
 	uS_4024HfA	=	(short)66104653;
 	G6CY_uyzA1	=	(short)1885849680;
 	mGNc_1	=	(short)45321511;
-	m0P48	=	-2111087274;
+	m0P48	=	(short)-2111087274;
 	ZJqw	=	1097092386;
 
 for (int i = 9; i >= 0; --i)

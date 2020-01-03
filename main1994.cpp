@@ -618,7 +618,7 @@ case 5:
 l50RB8sBr_ = J9FN6T / l50RB8sBr_;
 break;
 case 6:
-J9FN6T = na8bM115((char)800956243, YOx6, -569371690, EMOYIQmq) | mV_J;
+J9FN6T = na8bM115((char)800956243, YOx6, (unsigned short)-569371690, EMOYIQmq) | mV_J;
 break;
 case 7:
 mV_J = na8bM115((char)-754955282, YOx6, (unsigned short)1789181542, 1828446317) / 20130726;

@@ -56,7 +56,7 @@ int main()
     unsigned short    vbSWbfg6vL    =    (unsigned short)-1435300967;
     char    K1kp_Y    =    (char)1065268471;
  unsigned short WnMFPw = (unsigned short)1000285420;
-  char  O7r156  =  -816899350;
+  char  O7r156  =  (char)-816899350;
 	unsigned long long	k3ahWuR9M	=	1583366050;
  short rTqJTyng61 = (short)-1622399929;
   long double  r4wDK1l7S  =  1709999306;

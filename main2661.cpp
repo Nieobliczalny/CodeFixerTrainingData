@@ -102,7 +102,7 @@ int main() {
  unsigned short int ovVMsCS_jw = (unsigned short)939190436;
   char  M8Ww91qLF  =  (char)-2143867456;
     char    yQ_9a4Jy    =    (char)1152752721;
-  unsigned short int  ed7K5q8LAM  =  -1810410001;
+  unsigned short int  ed7K5q8LAM  =  (unsigned short)-1810410001;
 	long double	p2Nr4o74k	=	1153131705;
  int l49udA = -1416832630;
  char v_vM = (char)-587696777;

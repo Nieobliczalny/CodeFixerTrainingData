@@ -199,7 +199,7 @@ cout << Z_ocm(805590481, (unsigned short)742271516, (unsigned short)706001426, (
 
 cout << DizennO0U() << Z_ocm(1429841648, (unsigned short)-1449001219, (unsigned short)558432937, El16_) << "rPDI" << WP49_ << DizennO0U() << endl;
 
-cout << sGhSL(1965948005, I3Gpu) << g_uXLsDYe7 << endl;
+cout << sGhSL((unsigned short)1965948005, I3Gpu) << g_uXLsDYe7 << endl;
 
 if (((xNgP2GO8p2 < -2082819193) && (Pjm2L < K_liWK)) || ((dXc14 == 474234420) && (vG3J >= -764186352)))
 {

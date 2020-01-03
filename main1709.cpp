@@ -98,7 +98,7 @@ int main(void)
 	unsigned short	E5hlRUIi_K	=	(unsigned short)-1776955775;
     short int    UNmUxd    =    (short)-1294885127;
   unsigned short  LavZ_KTb  =  (unsigned short)-654340599;
-    short    Hn_xA1Bg8W    =    -734384487;
+    short    Hn_xA1Bg8W    =    (short)-734384487;
 	unsigned short int	Mv09OC8	=	(unsigned short)-833730352;
  long double qt9dvdyl1 = -430405577;
   long  xiaz0  =  -1348421108;

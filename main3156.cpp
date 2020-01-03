@@ -46,7 +46,7 @@ int main()
 	short	Ph5I620	=	(short)2001850424;
  short xbvBFuL = (short)-2014463906;
 	unsigned short	gSZM9_Q4	=	(unsigned short)1392490993;
-    unsigned char    NYxU    =    1393427715;
+    unsigned char    NYxU    =    (unsigned char)1393427715;
     unsigned long long    Jl_YA8_    =    786726808;
     unsigned char    IZ4u    =    (unsigned char)1371935140;
 	unsigned char	xbeoulh	=	(unsigned char)830796556;

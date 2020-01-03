@@ -38,7 +38,7 @@ int main() {
     char    gIL5_6    =    (char)-881208516;
 	short	L20T	=	(short)571364076;
  unsigned short int xm7yXeU9 = (unsigned short)1023723665;
-	unsigned short int	OlkZ	=	-1629238434;
+	unsigned short int	OlkZ	=	(unsigned short)-1629238434;
 	short	vE7ArC1o2S	=	(short)-17150201;
 	unsigned long long	z6oC	=	-2034511339;
 	unsigned short	iwdjXG0	=	(unsigned short)891810226;

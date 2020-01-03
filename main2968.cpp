@@ -243,7 +243,7 @@ V17i = tp_KQe90_(CK1p_o, (unsigned short)-1502903741, (char)1196712523, S4l_e7J_
 }
 else
 {
-cout << tp_KQe90_((short)1282976244, (unsigned short)895854689, hhcCXV7m, -1555491359, oyWgr) << tp_KQe90_((short)1998256413, (unsigned short)566006280, 1332146749, 754935329, -1724119162) << endl;
+cout << tp_KQe90_((short)1282976244, (unsigned short)895854689, hhcCXV7m, -1555491359, oyWgr) << tp_KQe90_((short)1998256413, (unsigned short)566006280, (char)1332146749, 754935329, -1724119162) << endl;
 }
 i++;
 }

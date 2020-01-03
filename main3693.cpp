@@ -40,7 +40,7 @@ int main(int argc, char** argv)
   float  H90Mo56p  =  -44462308;
   long long  f_a_x  =  654786850;
   unsigned char  GRD_zI  =  (unsigned char)1100365347;
-    char    wgCz641y    =    -473701334;
+    char    wgCz641y    =    (char)-473701334;
  float Tu_C1uG = 470100577;
     unsigned long    wfFuf0gzwU    =    1576838272;
 

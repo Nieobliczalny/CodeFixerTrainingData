@@ -52,7 +52,7 @@ int main() {
   YpII  =  (short)-780228147;
   UIFwmNW  =  (short)-1150610978;
   Ypg0K8  =  (short)-1196549030;
-  l0Zq4I  =  -892150521;
+  l0Zq4I  =  (short)-892150521;
   L3p0oHbR0  =  -820328667;
   qt17636L  =  610511812;
 

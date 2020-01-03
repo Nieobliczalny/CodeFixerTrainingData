@@ -115,7 +115,7 @@ int main(void)
   unsigned int  QJ2o1IVO  =  1023636085;
   char  S6q5  =  (char)-1578304165;
 	short int	F3OeDm	=	(short)-1589158945;
-  short  g7R0y  =  -747401998;
+  short  g7R0y  =  (short)-747401998;
 	short int	BIA0EW0r	=	(short)-1518766262;
 	unsigned short int	r3d6P	=	-1610322867;
     long double    q1MST47Gg    =    -1446646733;

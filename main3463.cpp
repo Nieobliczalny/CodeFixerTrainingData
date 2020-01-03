@@ -98,7 +98,7 @@ int main(void) {
 Izo12 = (int)floor(Dm82e7);
 b6_OI = -74070801 / BKdc1aEf(-350287792, (char)-1313793882, (unsigned short)-494158960);
 
-std::cout << JZGh9(Sfja8L0, B5Q7Iq5OP_, (unsigned char)1414266975, -403421102) << F90b1 << y1m7G << JZGh9(Sfja8L0, -886799339, V288UM3523, c_Xgajy) << BKdc1aEf(Sfja8L0, 1140166993, V288UM3523) << std::endl;
+std::cout << JZGh9(Sfja8L0, B5Q7Iq5OP_, (unsigned char)1414266975, (short)-403421102) << F90b1 << y1m7G << JZGh9(Sfja8L0, -886799339, V288UM3523, c_Xgajy) << BKdc1aEf(Sfja8L0, 1140166993, V288UM3523) << std::endl;
 {
 int i = 0;
 do

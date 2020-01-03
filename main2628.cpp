@@ -122,7 +122,7 @@ case 0:
 xRh8DWTP = q6u1nO7_ + 17485713;
 break;
 case 1:
-XG90SHf6_3 = J86BWIWO((unsigned char)-1056410654, 270403942, -947203483, Pqmv09v, vza1JY3UgJ);
+XG90SHf6_3 = J86BWIWO((unsigned char)-1056410654, (short)270403942, -947203483, Pqmv09v, vza1JY3UgJ);
 break;
 case 2:
 bgj8jZFiP <<= JWBaVH1tY;

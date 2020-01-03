@@ -211,7 +211,7 @@ std::cout << T1ETp2(bCVM77M9dS, (char)239141492, (unsigned short)2140679624) << 
 }
 }
 
-TuT02 = T1ETp2((unsigned char)144463124, (char)1926897191, 435305914);
+TuT02 = T1ETp2((unsigned char)144463124, (char)1926897191, (unsigned short)435305914);
 switch (MdBBOr)
 {
 case 0:

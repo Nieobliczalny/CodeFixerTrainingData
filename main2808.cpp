@@ -184,7 +184,7 @@ case 6:
 SkVUJJ2 = OvqbAAw((short)399742382, (short)1636284979);
 break;
 case 7:
-Q3Wa7nnj = cK626qK5j(Q3Wa7nnj, (unsigned short)-503294332, x3eg, MLwU, -1577018388);
+Q3Wa7nnj = cK626qK5j(Q3Wa7nnj, (unsigned short)-503294332, x3eg, MLwU, (char)-1577018388);
 break;
 case 8:
 AaObf = cK626qK5j(1329929204, (unsigned short)1854558799, 543577793, n1yA1FWV, ai911Ds32m);

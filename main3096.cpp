@@ -50,7 +50,7 @@ int main(void)
   short  hjm6ewW9  =  (short)857665353;
  long long Qj7_9xL2x = -1592558863;
  short int H6UOn635 = (short)1594323329;
- char ZUYaM5 = -1147915459;
+ char ZUYaM5 = (char)-1147915459;
     unsigned short int    rzRaN5_v    =    (unsigned short)1968516595;
   long  HSU5H4WpS3  =  345492766;
   char  ZQ_UX2P2  =  -148500747;

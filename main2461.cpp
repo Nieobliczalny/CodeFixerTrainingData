@@ -67,7 +67,7 @@ int main()
   char  N53U8y2xM  =  (char)258508842;
     short int    Ow_nP9_2U    =    (short)-892265490;
     unsigned short int    a_8q07    =    (unsigned short)-1792125040;
- char yKY481D2 = 1226330448;
+ char yKY481D2 = (char)1226330448;
   unsigned long long  nkW5Yw_rC  =  275965595;
  float nWIPFSi = -1360331144;
     char    l__exP25vR    =    (char)-1486334322;

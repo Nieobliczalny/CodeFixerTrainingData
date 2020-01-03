@@ -157,7 +157,7 @@ EQ8AQrP = dXQH5U(Z0ExrAT5F, Yw2r12_M30, -1172547104, (short)265433356);
 break;
 case 'h':
 case 'H':
-e6S51 = o4UmKNg(-2113732275, (unsigned char)574045519, (unsigned short)1862863777, 876347705);
+e6S51 = o4UmKNg(-2113732275, (unsigned char)574045519, (unsigned short)1862863777, (unsigned short)876347705);
 break;
 case 'i':
 case 'I':

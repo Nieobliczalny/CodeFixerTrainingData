@@ -44,7 +44,7 @@ int main(int argc, char** argv) {
 	short int	tocDY7BQ5h	=	(short)-1024189271;
     long long    gbG140t34    =    1305687634;
  char CcL_ = (char)-336467012;
- unsigned short int HhhZKl = 1863240350;
+ unsigned short int HhhZKl = (unsigned short)1863240350;
     short int    XOo25l    =    -224424236;
   unsigned short int  S5tZ91xz  =  -14014905;
     int    i4eMF    =    -491281357;
@@ -245,7 +245,7 @@ cout << wNf0I946((short)1541977464, (char)2077813426, QD9qO, kO0G3, Hm41J) << G_
 }
 else
 {
-h807R = vmfq9n3V8N(-539565313, rsGed, Q5vojnQIzm, sMIvY);
+h807R = vmfq9n3V8N((unsigned char)-539565313, rsGed, Q5vojnQIzm, sMIvY);
 }
 
 if ((Mog9AMfF >= Lo4TNc6_G) && (XD66_5n & -1465783723))

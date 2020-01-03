@@ -24,7 +24,7 @@ int main(void)
 	unsigned long long	u9tf	=	16770878;
     unsigned long long    PtapchMy    =    -2037061376;
   double  l237DL  =  1776792255;
-	unsigned short int	Z4_K7g6a9	=	-620764461;
+	unsigned short int	Z4_K7g6a9	=	(unsigned short)-620764461;
  char QCwyv7c6 = (char)411405237;
   int  la1EZoYH  =  -1689071840;
     double    C7_Ol70g    =    1021975201;

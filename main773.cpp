@@ -56,7 +56,7 @@ int main(int argc, char** argv) {
     unsigned short    DV1Km    =    (unsigned short)838144283;
   double  Lj6_o39Oj  =  312816349;
 	unsigned char	X649n_5	=	(unsigned char)530806027;
- short Os41k = -189723673;
+ short Os41k = (short)-189723673;
 	char	Q_3JR	=	(char)-1484212757;
  long double II_hO = 1859521266;
 	char	iKP57	=	(char)-338058936;
@@ -77,7 +77,7 @@ int main(int argc, char** argv) {
  short e7nBHhjs8 = (short)1694586294;
 	unsigned char	h5OR0a96wN	=	(unsigned char)1216900431;
   long  K15_41V  =  -2103826890;
- char IC7t = 213627842;
+ char IC7t = (char)213627842;
 	long	lhqf3	=	2113497880;
 	unsigned short int	IChzh1SgtA	=	(unsigned short)685184014;
     long double    MW17Zs    =    -1371809365;
@@ -92,7 +92,7 @@ int main(int argc, char** argv) {
     double    Qv0E5r7oH    =    -458381843;
     unsigned char    I352cSe5    =    (unsigned char)-820687795;
 	unsigned short int	s3QIfU	=	(unsigned short)-715327587;
-    unsigned short int    pulJ    =    -161867962;
+    unsigned short int    pulJ    =    (unsigned short)-161867962;
  short h79m = (short)-1877831916;
 
 if (pLjK75_650 != KF_NRA)

@@ -58,7 +58,7 @@ int main(int argc, char** argv)
     unsigned char    m6el979y4    =    (unsigned char)952435386;
   unsigned char  tQB4IJ_8jC  =  (unsigned char)-1364236321;
     unsigned short int    cmCfKo6    =    (unsigned short)-1864946944;
-  short  yV7qeAh57J  =  1450501132;
+  short  yV7qeAh57J  =  (short)1450501132;
     float    x7JI75yw37    =    -664376108;
  short o8fF_4L0Fc = 0;
 

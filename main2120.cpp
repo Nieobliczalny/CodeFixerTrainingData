@@ -49,7 +49,7 @@ int main() {
 	short int	MtbB	=	(short)738541517;
   unsigned short int  r80Uud8v3  =  (unsigned short)163271561;
  unsigned short UEeYVw7O39 = (unsigned short)2121945282;
- unsigned char m8LDB83d57 = 1485504529;
+ unsigned char m8LDB83d57 = (unsigned char)1485504529;
  short yxpu = (short)-1350626273;
  long long d_18Ac = 1806017031;
   unsigned long long  brbRVdy4  =  -2127309360;
@@ -92,7 +92,7 @@ int main() {
  int vYRUfB8q2 = -513631693;
 	short int	eCrOu2	=	(short)1824524610;
  unsigned char NB12hNE1H4 = (unsigned char)211507547;
-  unsigned char  z2aw5D  =  359511688;
+  unsigned char  z2aw5D  =  (unsigned char)359511688;
     char    Hm8Z5_    =    1226483767;
 
 if (xYK6g == 1114482475)

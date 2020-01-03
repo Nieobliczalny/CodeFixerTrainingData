@@ -264,7 +264,7 @@ case 3:
 Mn73_7IW6 = W_5NM9QS6m((unsigned short)1675777453, AsFBcl3g, t6C3177T, 594542645, 192223106);
 break;
 case 4:
-Ve01bL45_6 = dMYk((unsigned short)-1830636673, trGFNJQ, -1618718950, 2047077496, -675949665);
+Ve01bL45_6 = dMYk((unsigned short)-1830636673, trGFNJQ, (short)-1618718950, 2047077496, -675949665);
 break;
 case 5:
 HpC4w0x = (int)abs(vee4WJ);

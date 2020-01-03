@@ -508,7 +508,7 @@ gvDCJb = gesm8QO();
 }
 else if (gjIYr57u > 51049716)
 {
-SCOT688I = (T62C4o6rru & bCl5) ? JuUQY8(gvDCJb, dM033ynYQ, uu1h5Qr, Zv0T) : p4S8wRD5Ux((unsigned short)-201206270, (unsigned short)811363175, 408788430, 987197196);
+SCOT688I = (T62C4o6rru & bCl5) ? JuUQY8(gvDCJb, dM033ynYQ, uu1h5Qr, Zv0T) : p4S8wRD5Ux((unsigned short)-201206270, (unsigned short)811363175, (char)408788430, 987197196);
 }
 else if (gvDCJb == bCl5)
 {

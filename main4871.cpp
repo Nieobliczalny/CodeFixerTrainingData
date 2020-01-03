@@ -71,7 +71,7 @@ int main(int argc, char** argv) {
   short int  CBLy4aDn8X  =  (short)1205541906;
   unsigned short  mfpLNX0_9  =  (unsigned short)-794567793;
   unsigned int  R7D6Lgk  =  1549560085;
- unsigned short iGV8o = -686315884;
+ unsigned short iGV8o = (unsigned short)-686315884;
   unsigned short  z9k5AniW  =  0;
 	unsigned int	KW2xlvz94Q	=	-2089703206;
     unsigned short int    B_5wx    =    (unsigned short)1110926729;

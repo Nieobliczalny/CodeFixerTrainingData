@@ -316,7 +316,7 @@ std::cout << "Arc8" << QqFi1a(S34p, (unsigned short)1475785967, b_54m2z, (unsign
 }
 else if (((cIv4n8G26N & 606701497) || (a_1wzO69 >= cIv4n8G26N)) && (cIv4n8G26N != -1081570000))
 {
-std::cout << QqFi1a((unsigned char)1222160746, (unsigned short)-1124950353, -1658047804, 372147414) << std::endl;
+std::cout << QqFi1a((unsigned char)1222160746, (unsigned short)-1124950353, -1658047804, (unsigned short)372147414) << std::endl;
 }
 else if (((cIv4n8G26N <= 1559564136) || (b_54m2z != -286433647)) && (cLF1WVXJ >= -473162885))
 {

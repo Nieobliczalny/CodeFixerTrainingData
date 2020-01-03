@@ -42,7 +42,7 @@ int main() {
     unsigned short    mMTG2xj    =    (unsigned short)465376331;
     unsigned short int    y91foA0r8s    =    (unsigned short)2147108947;
   short  Dif89xVnJ  =  (short)247440361;
-  char  NJ6WD5Ong4  =  1284355217;
+  char  NJ6WD5Ong4  =  (char)1284355217;
  unsigned long T3hcu = -1090128825;
   float  KR5hhwQ  =  586494164;
     unsigned char    G4dj    =    (unsigned char)945179648;

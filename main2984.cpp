@@ -27,7 +27,7 @@ int main(void) {
     int    V18zF9N    =    1088793811;
   long long  d3IsN02  =  1271993566;
 	short int	iCLaS	=	(short)-1563228228;
- unsigned short C9_y_ = -122050123;
+ unsigned short C9_y_ = (unsigned short)-122050123;
 	unsigned long	uH3YtXMG	=	-1248197506;
     long    VmzcNt4pK    =    41819291;
  unsigned short dic47iDY = (unsigned short)1107946529;

@@ -29,7 +29,7 @@ int main(void)
     char    V6el_E1bZW    =    (char)-835744065;
 	int	hb5P0l05	=	748388941;
  unsigned short int RBcgVT = (unsigned short)2080198798;
-	char	RYZG_8o	=	-1505650024;
+	char	RYZG_8o	=	(char)-1505650024;
 	short	Grs1Ad4L	=	(short)1405358444;
  short int eQzdW3oD0i = 1537132890;
 	short	WJ3_AmtA7	=	(short)-1258706609;

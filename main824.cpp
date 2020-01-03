@@ -26,7 +26,7 @@ int main() {
   pX7Eo27KU  =  (short)1743397719;
   lHxkJlrPs  =  (short)1647233647;
   Qh4j  =  (short)-1300691086;
-  XX0Db6iWa  =  117475177;
+  XX0Db6iWa  =  (short)117475177;
   I7wertX  =  -410396286;
   hM66_Ps425  =  -999533217;
   unsigned short  t1ue5FS6,  JYD_,  Iqk6HF;

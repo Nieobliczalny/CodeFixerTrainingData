@@ -33,7 +33,7 @@ int main(void)
     PhNvvV77g9    =    (unsigned short)-2041590673;
     k456d_    =    (unsigned short)1355491209;
     mkm8p    =    (unsigned short)781821219;
-    VhW4l_    =    -1221390798;
+    VhW4l_    =    (unsigned short)-1221390798;
     ZyxA6HU893    =    235239937;
     xHkE7m    =    2051678834;
     eQ7R5_K    =    -1559935596;
@@ -43,7 +43,7 @@ int main(void)
     yrajUhLLMy    =    (unsigned short)458605880;
     fUAGDcSkS    =    (unsigned short)-173149311;
     yHhyvh_I4p    =    (unsigned short)-1003783826;
-    Bv1QBqH    =    1833982325;
+    Bv1QBqH    =    (unsigned short)1833982325;
     oxX_L_6_B    =    -1247255143;
     E6772    =    -1579933761;
     aw8c186    =    -1098386133;
@@ -53,7 +53,7 @@ int main(void)
     K2_cHb1    =    (unsigned short)-1274125102;
     GW0DM    =    (unsigned short)236687969;
     Om40    =    (unsigned short)-160046691;
-    o6qZbBKlEw    =    633515784;
+    o6qZbBKlEw    =    (unsigned short)633515784;
     bT141    =    -1414420341;
     VzZgz    =    1364591736;
     Kfn046    =    -763010330;
@@ -63,7 +63,7 @@ int main(void)
     J716DI_3    =    (unsigned short)-1162491868;
     Boz73wOl    =    (unsigned short)-470197661;
     Nmnj    =    (unsigned short)-406855866;
-    c4RC    =    429655042;
+    c4RC    =    (unsigned short)429655042;
     PGVL3Z    =    1951988778;
     zE40N    =    -50123546;
     qHJ1    =    1425718786;
@@ -73,7 +73,7 @@ int main(void)
     Jt4U07H_X8    =    (unsigned short)668978544;
     Qscs2G5G    =    (unsigned short)520884786;
     pjII4    =    (unsigned short)-978597654;
-    pOL_U    =    1421510488;
+    pOL_U    =    (unsigned short)1421510488;
     L_ycl    =    1875429043;
     WN3o    =    1353029967;
     g54_JE20fl    =    -779319103;
@@ -83,7 +83,7 @@ int main(void)
     CK3Y1DH1ge    =    (unsigned short)1547512399;
     Y663162k    =    (unsigned short)1831566892;
     TFu8FdG94    =    (unsigned short)149881831;
-    Se0_6Ue2    =    1946417488;
+    Se0_6Ue2    =    (unsigned short)1946417488;
     O8x95Hzh    =    1602076345;
     cB6WS6_x    =    -1516964467;
     s490    =    -1574856666;
@@ -93,7 +93,7 @@ int main(void)
     vH0PI48_    =    (unsigned short)1126649110;
     pXqkuSQ_h    =    (unsigned short)911593530;
     boG1W6hQc    =    (unsigned short)1456188440;
-    K900N    =    -762465113;
+    K900N    =    (unsigned short)-762465113;
 
 pOL_U &= s490;
 pjII4 = (unsigned short)(pXqkuSQ_h);

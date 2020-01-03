@@ -380,7 +380,7 @@ case 7:
 v21__64th = Q2E_22DXvJ((unsigned char)-28492339, (unsigned char)-1485223545, (unsigned char)-465352068, Rz_2S, 1277694901);
 break;
 default:
-ew67v54F = U0KR_zZ(-62977000, kq0W5LL, (unsigned short)-1261554374, -1247540606, 1863031244);
+ew67v54F = U0KR_zZ(-62977000, kq0W5LL, (unsigned short)-1261554374, (char)-1247540606, 1863031244);
 break;
 }
 if (thnzL85DV >= Z4Kh9Nt_xg)

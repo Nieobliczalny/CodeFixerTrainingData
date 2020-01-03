@@ -80,7 +80,7 @@ int main() {
     unsigned char    j9a_    =    (unsigned char)-1676615549;
     short int    RjSL    =    (short)631052207;
   float  g5oM  =  796373998;
-  unsigned short int  OQgF  =  854107350;
+  unsigned short int  OQgF  =  (unsigned short)854107350;
   long long  PXxx648  =  1035536120;
 	short int	g6L9	=	(short)366313029;
     short    xt99    =    1218229884;
@@ -112,7 +112,7 @@ int main() {
     float    Qi35Wnf    =    1093900760;
   unsigned short  P8z_6  =  (unsigned short)1457361231;
   short int  y94g  =  (short)455358454;
-	unsigned short int	hh5_	=	919375737;
+	unsigned short int	hh5_	=	(unsigned short)919375737;
  unsigned long tuB64P5_FU = 1553060223;
     int    Sd9SBLe2    =    -1726419082;
 

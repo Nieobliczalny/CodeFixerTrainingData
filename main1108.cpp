@@ -48,7 +48,7 @@ int main(void) {
  float I9G5Q = 1202054079;
   short  NxLVHnOMvy  =  (short)1646840091;
   unsigned short  qhfJIov  =  (unsigned short)-1480252994;
- short R2ud = 1307748678;
+ short R2ud = (short)1307748678;
 	short	FWZb	=	-666791717;
     double    CoVHTl604    =    -266417627;
  unsigned char fXXRYvG = (unsigned char)567571863;

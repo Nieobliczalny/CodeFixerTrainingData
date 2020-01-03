@@ -26,7 +26,7 @@ int main(int argc, char** argv)
   K402FW75om  =  (short)2036666964;
   k6del  =  (short)-1221835279;
   NSxY  =  (short)-1639669728;
-  lu6s8  =  -475818872;
+  lu6s8  =  (short)-475818872;
   o201zCy  =  516346677;
   tus_Bj0  =  -1802129118;
   TIAA_  =  -119610315;
@@ -36,7 +36,7 @@ int main(int argc, char** argv)
   rwn7J2UM9  =  (short)-224746208;
   E5rC_i05  =  (short)-1879070821;
   Efs1a  =  (short)533272902;
-  DivTw  =  1628088430;
+  DivTw  =  (short)1628088430;
   B_Lq  =  -764273543;
   xjBL702W  =  -303675426;
   rIfrcifu  =  1802528883;
@@ -46,7 +46,7 @@ int main(int argc, char** argv)
   iw2zkQq4l1  =  (short)-438417567;
   tc2_P_9  =  (short)-1785042763;
   e2iwFgK  =  (short)1316567333;
-  xoK4U7  =  -243958247;
+  xoK4U7  =  (short)-243958247;
   YxlbI8  =  -147767533;
   p5mf6l  =  -674609608;
   m2ct  =  1882684822;
@@ -56,7 +56,7 @@ int main(int argc, char** argv)
   x9aT  =  (short)-1772313269;
   LEGQ7hBUHm  =  (short)1429848909;
   sF15_  =  (short)-1313827330;
-  BXF9uPb1Z  =  -546256420;
+  BXF9uPb1Z  =  (short)-546256420;
   S1o60m96TJ  =  -518235456;
   gIwQ_4u6  =  -320752942;
   YMPX34R_1  =  89504391;
@@ -66,7 +66,7 @@ int main(int argc, char** argv)
   v9tD  =  (short)-885563301;
   R5Sx  =  (short)1486473250;
   H9J9w7  =  (short)-694772736;
-  Fd90Sw7  =  -1424978622;
+  Fd90Sw7  =  (short)-1424978622;
   WVgSH0332X  =  -1150813034;
   L714m40  =  2127651454;
   j4_sJ_lgjs  =  834215895;
@@ -76,7 +76,7 @@ int main(int argc, char** argv)
   zWs3GJFG5m  =  (short)354007675;
   FrG86l  =  (short)-1689765538;
   ubKXB4wE3A  =  (short)1581430912;
-  loC1RYSW4  =  182682209;
+  loC1RYSW4  =  (short)182682209;
   sKF_L_1  =  -131938979;
   c1ui3G  =  -1488069767;
   PkEkJn_  =  1491723342;
@@ -86,7 +86,7 @@ int main(int argc, char** argv)
   Ls2xgD  =  (short)-1526670716;
   HI8ysDcHx  =  (short)-703573757;
   NLPRTIf9__  =  (short)-866060317;
-  myJ0  =  602589464;
+  myJ0  =  (short)602589464;
   JqRT88i8b  =  2044165807;
   H5iOa0i  =  -1089604576;
   ty3BB  =  -1097391121;

@@ -29,7 +29,7 @@ int main(void)
   unsigned int  Qd73  =  -278600635;
     short int    do81w    =    (short)1150384282;
     long double    mCu3    =    2044113113;
- char bXDBShMo = -1999502183;
+ char bXDBShMo = (char)-1999502183;
     long double    Nx1ay2    =    1826081380;
  long long KUQCCQn = -1600317858;
     unsigned long    hOonH_    =    476801203;

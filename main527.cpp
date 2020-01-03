@@ -95,7 +95,7 @@ int main()
     char    C6IY4_40    =    (char)246576237;
  unsigned int l_m6feD88O = 1575659335;
     unsigned short    kYNS_x7avt    =    (unsigned short)562770447;
-    short    w9It    =    -110650093;
+    short    w9It    =    (short)-110650093;
 	unsigned short	BFAH49_	=	(unsigned short)-834592371;
   unsigned long long  Ms1MNul2  =  -488951010;
 	unsigned short	u_62ykWhmJ	=	(unsigned short)1801274600;

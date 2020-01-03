@@ -90,7 +90,7 @@ int main(int argc, char** argv) {
  short int lPjwXErq = 0;
     char    Ey1L_TUIlw    =    (char)2070887923;
   char  O_J72  =  (char)-665464053;
- unsigned short e_1E1809 = 190791679;
+ unsigned short e_1E1809 = (unsigned short)190791679;
     long long    wvEe1X    =    -1970586283;
     unsigned long    HzCq1B    =    -1557403354;
     short    HHv0    =    (short)1405425528;
@@ -105,7 +105,7 @@ int main(int argc, char** argv) {
  unsigned short int i8AKMv9B = (unsigned short)1732533243;
  char Uzai1 = (char)1170063434;
   short  zNWA  =  (short)-1688067380;
- unsigned short int SEG4GD = -66759414;
+ unsigned short int SEG4GD = (unsigned short)-66759414;
   long  fHHQ0elD  =  397429748;
 
 std::cout << oduKfY_ << "hWR2P2oj" << eZDf(-627911801, (short)2114887422) << eZDf(627802164, Ccy0Zivck) << std::endl;

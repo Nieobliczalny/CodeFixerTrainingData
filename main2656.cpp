@@ -74,7 +74,7 @@ int main()
 	short int	PIk87j	=	(short)-174719962;
 	short	dR_f	=	(short)256308431;
     unsigned char    KM_64nIVW8    =    (unsigned char)1458506910;
-  short int  TSw90  =  -14474440;
+  short int  TSw90  =  (short)-14474440;
  double f09sDPfGk = -684579177;
   int  UTjg  =  1670899938;
  unsigned short int eHQ6 = (unsigned short)-547273696;

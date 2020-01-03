@@ -55,7 +55,7 @@ int main(void)
  unsigned char wXx94pbObH = (unsigned char)995248689;
   unsigned char  as9yuxCb71  =  (unsigned char)-427289372;
   unsigned short int  YQf4Y_8  =  (unsigned short)-39330458;
-  unsigned char  p683_5  =  -1551858245;
+  unsigned char  p683_5  =  (unsigned char)-1551858245;
 	long long	s115V	=	-58187555;
     unsigned long    UMeAuEx    =    1612051609;
   double  b56qR_YVv  =  320671730;

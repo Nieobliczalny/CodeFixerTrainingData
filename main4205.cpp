@@ -60,7 +60,7 @@ int main(void)
  unsigned short int NvmNH8 = 0;
  char zxM54__Bi = (char)805407179;
   short int  kie7TV2  =  (short)1014460509;
- short int QB5JMF = -798036283;
+ short int QB5JMF = (short)-798036283;
  unsigned long M40m = -1097812430;
 	short	Oa2_J9	=	(short)967835490;
  float sm3pG84jJF = -2066532135;

@@ -35,7 +35,7 @@ int main(int argc, char** argv)
  wOg9JH = (char)801085147;
  v_9L = (char)-833081116;
  N2s32_ = (char)-1376621910;
- FIK8 = -792561965;
+ FIK8 = (char)-792561965;
  X1s6R5W = 186989214;
  P5g16r1 = 807338870;
  fdPYtL = -1316055236;
@@ -45,7 +45,7 @@ int main(int argc, char** argv)
  NDdRppYXI4 = (char)-585684778;
  nTm9L26YIy = (char)533676625;
  HvRwgxbej = (char)-810850969;
- nsdj25 = 452141501;
+ nsdj25 = (char)452141501;
  Gec5gSr = -1543223457;
  g9shBj54Ej = -462642195;
  vv71xSK = 1387690340;
@@ -55,7 +55,7 @@ int main(int argc, char** argv)
  NKho8 = (char)-843161935;
  r__8582cJ = (char)1613671092;
  cMP_ = (char)-334457814;
- cCvNvw5E = 229655283;
+ cCvNvw5E = (char)229655283;
  k78a = -1235901151;
  yx9Q = 2048214127;
  tWqwJph4v = -599099377;
@@ -65,7 +65,7 @@ int main(int argc, char** argv)
  F6y5 = (char)-1034627301;
  ubpl2 = (char)1035860550;
  woG_ = (char)-1601486722;
- M0a5r2 = 1060556475;
+ M0a5r2 = (char)1060556475;
  Rvmx9 = 1439978743;
  xa6kf10I = 2094920303;
  tXHlI98 = -598251888;
@@ -75,7 +75,7 @@ int main(int argc, char** argv)
  uS_TtUxqS = (char)-1215285589;
  yCbyX_ = (char)-128926537;
  DBQeEHF = (char)-1455987603;
- v7ZoyX1urr = 1922442506;
+ v7ZoyX1urr = (char)1922442506;
  v8y9rz = -857277373;
  x34paMT = 377208705;
  rghEn7_IU = -32651713;
@@ -85,7 +85,7 @@ int main(int argc, char** argv)
  czX0 = (char)1473721678;
  wsFy10l = (char)518401404;
  BETaa6j6Y = (char)-1532071067;
- D9DbGL = -1564940230;
+ D9DbGL = (char)-1564940230;
  RrOFV = -1299689216;
  a63vh_ = -532141804;
  p9_w7KnN0 = -832861322;
@@ -95,7 +95,7 @@ int main(int argc, char** argv)
  sLgr6rY0C = (char)1703887510;
  r0qS8TD15Z = (char)-1793016552;
  olAL9 = (char)431910080;
- iacFglfg9 = 951659852;
+ iacFglfg9 = (char)951659852;
   short int  g3nh0,  N1T5o47L;
   g3nh0  =  0;
   N1T5o47L  =  0;
@@ -411,7 +411,7 @@ n_Dg5n4 *= 1141170807;
 vv71xSK = (char)(D428c);
 if (((nsdj25 <= 807406998) || (PRA3z26k <= 494698381)) && (gzrh6h == 1667160674))
 {
-std::cout << Qn86xt8JPM(517546997, k78a, cxIv18, -800082776) << B3e_UL4Ep(-802048570, (unsigned char)1012424980, (unsigned char)-817433425, r0qS8TD15Z) << B3e_UL4Ep(2029974352, (unsigned char)425857966, cxIv18, 682546241) << "f670v8" << "x4Q40" << std::endl;
+std::cout << Qn86xt8JPM(517546997, k78a, cxIv18, -800082776) << B3e_UL4Ep(-802048570, (unsigned char)1012424980, (unsigned char)-817433425, r0qS8TD15Z) << B3e_UL4Ep(2029974352, (unsigned char)425857966, cxIv18, (unsigned short)682546241) << "f670v8" << "x4Q40" << std::endl;
 }
 else
 {

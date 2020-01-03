@@ -68,7 +68,7 @@ int main(int argc, char** argv)
  char Vtl1Z0KB_ = (char)-1598030708;
 	unsigned short int	rZx54edf	=	(unsigned short)498657591;
  unsigned short int coF36_7PB = (unsigned short)-1419840608;
-    unsigned short int    TqguK7CC6d    =    1285112048;
+    unsigned short int    TqguK7CC6d    =    (unsigned short)1285112048;
   short  Z8jx47S2  =  (short)-877502270;
   double  aQYTr  =  1651973570;
     unsigned long long    JqIIcA    =    2043005464;

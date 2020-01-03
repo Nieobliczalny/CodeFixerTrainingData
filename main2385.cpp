@@ -49,7 +49,7 @@ int main()
     double    P12_1    =    350983663;
 	short	Zhc_y7_	=	(short)-1217995294;
   short  QQOGlQA2  =  (short)-11419178;
-    unsigned char    Lu1pR    =    -222721381;
+    unsigned char    Lu1pR    =    (unsigned char)-222721381;
 	unsigned int	GL5uq	=	2037100931;
 	float	W8bcIeed	=	-225644389;
 	unsigned short	i8_x	=	(unsigned short)-814950068;
@@ -75,7 +75,7 @@ int main()
  char i3II2Y = (char)434949124;
   unsigned short  B1mhV6z1Mh  =  (unsigned short)-504115952;
 	short	l29zA	=	(short)605746065;
- unsigned short int vfbf86tB5 = -468014626;
+ unsigned short int vfbf86tB5 = (unsigned short)-468014626;
     char    t7wk7933m    =    2035779501;
     unsigned long    tP92R    =    420759319;
  short q08U3 = (short)-278576320;

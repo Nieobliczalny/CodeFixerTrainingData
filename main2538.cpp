@@ -92,7 +92,7 @@ int main(void) {
     long long    k698a7_HR    =    -1631564092;
  unsigned short qygcA_v8g4 = (unsigned short)-955893942;
   short  GwQbbK  =  (short)521836123;
- short sw6A5b = 246387982;
+ short sw6A5b = (short)246387982;
  unsigned long long oe6F = -32907182;
  float E_32msE926 = 1301381302;
 	char	e5C00Krg	=	(char)290990244;

@@ -21,7 +21,7 @@ int main() {
 	unsigned short int	sSQ_wQH_C5	=	(unsigned short)18565631;
  unsigned long t5WP03 = 0;
     unsigned char    E2kbM8JA    =    (unsigned char)191811609;
-	unsigned char	TkFjs9jEF5	=	-1782102571;
+	unsigned char	TkFjs9jEF5	=	(unsigned char)-1782102571;
   long long  k34hXYb8O  =  -1933574508;
 	unsigned int	Cdu1K_0	=	205208230;
   unsigned char  s8P9  =  (unsigned char)2124571788;

@@ -31,7 +31,7 @@ L7cWCz = U7R1f7gO((short)1413143128, P35o854m, (unsigned short)1726279853, (unsi
 // codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
 std::cout << U7R1f7gO(UN_H7, -1506464385, aq2Fye, 369202113, 948254209) << P35o854m << U7R1f7gO(-1121761386, P35o854m, -641803570, 1120420148, 790382032) << XkeiGp << U7R1f7gO(UN_H7, -995532268, 518690690, ZVwB_, 1380915482) << std::endl;
 
-std::cout << U7R1f7gO(UN_H7, P35o854m, aq2Fye, ZVwB_, (unsigned short)-1955681844) << "iQO3bG_2gp" << U7R1f7gO((short)-155856083, P35o854m, aq2Fye, 1443797613, 1261303178) << fgJa_CICSZ << std::endl;
+std::cout << U7R1f7gO(UN_H7, P35o854m, aq2Fye, ZVwB_, (unsigned short)-1955681844) << "iQO3bG_2gp" << U7R1f7gO((short)-155856083, P35o854m, aq2Fye, (unsigned short)1443797613, 1261303178) << fgJa_CICSZ << std::endl;
 {
 int i = 0;
 do
@@ -77,7 +77,7 @@ case 6:
 b3x5EoW = U7R1f7gO((short)-838039598, fgJa_CICSZ, (unsigned short)521617815, (unsigned short)-842416099, aq2Fye);
 break;
 case 7:
-L7cWCz = U7R1f7gO((short)1318583170, ZVwB_, -175325506, 2069334195, 805358510);
+L7cWCz = U7R1f7gO((short)1318583170, ZVwB_, (unsigned short)-175325506, 2069334195, 805358510);
 break;
 case 8:
 cVmKM_vDrj += P35o854m;
@@ -278,7 +278,7 @@ case 'a':
 aq2Fye = U7R1f7gO((short)-1110611447, -588347781, (unsigned short)1024412319, cDL68I7fs1, (unsigned short)-1419083008) - 1295483438;
 break;
 case 'b':
-XkeiGp = U7R1f7gO(ZVwB_, -1915758402, -476331647, 1471553306, 874958519);
+XkeiGp = U7R1f7gO(ZVwB_, -1915758402, (unsigned short)-476331647, 1471553306, 874958519);
 break;
 case 'c':
 XkeiGp = U7R1f7gO(UN_H7, 804821517, fgJa_CICSZ, XkeiGp, (unsigned short)-523184091);
@@ -536,7 +536,7 @@ case 1:
 b3x5EoW = U7R1f7gO((short)-1742250271, aq2Fye, cVmKM_vDrj, (unsigned short)-1686668426, XkeiGp);
 break;
 case 2:
-L7cWCz = U7R1f7gO(ZVwB_, JLY5j8s09, (unsigned short)-1292446582, cVmKM_vDrj, 373126963);
+L7cWCz = U7R1f7gO(ZVwB_, JLY5j8s09, (unsigned short)-1292446582, cVmKM_vDrj, (unsigned short)373126963);
 break;
 case 3:
 cVmKM_vDrj |= UN_H7;

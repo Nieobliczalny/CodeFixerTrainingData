@@ -62,7 +62,7 @@ int main(int argc, char** argv) {
  short int Rf_Uz1 = 0;
   short  F48Xj  =  (short)-2043666345;
   short  AAu4__hc2e  =  (short)1206984893;
- unsigned short g5E586 = 1270802843;
+ unsigned short g5E586 = (unsigned short)1270802843;
 
 std::cout << "BCjYu" << EaDK << cx_j << y3p_2eYyV << std::endl;
 

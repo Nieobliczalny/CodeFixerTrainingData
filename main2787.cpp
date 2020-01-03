@@ -107,7 +107,7 @@ int main()
     unsigned long long    i3F3Ci8    =    -1206400064;
 	unsigned short	uzszpI	=	(unsigned short)18056410;
     unsigned long    pmVBhW5K    =    1678856563;
-  unsigned short  nUVxs2  =  375688221;
+  unsigned short  nUVxs2  =  (unsigned short)375688221;
   short int  P4fT7b49  =  1109094126;
     short    VpK_6917    =    (short)-155343490;
     short    d47HO    =    (short)220460896;

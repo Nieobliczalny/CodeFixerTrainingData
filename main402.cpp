@@ -40,7 +40,7 @@ int main(void) {
     short    T8bh    =    (short)202313103;
 	short int	VfQgVr_4	=	(short)175967941;
  long double sydsYSL_ = -208530846;
-  short int  eKxYzNd  =  -260699634;
+  short int  eKxYzNd  =  (short)-260699634;
     short    AQ7iC    =    1046684253;
  short int wISJ8lly = (short)851024560;
 	short int	p5fx	=	-1955541186;

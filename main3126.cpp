@@ -227,7 +227,7 @@ case 'c':
 cSIVLFPqgZ = FkFx_E(JCeVYdtSMU, (short)1403542198, -579518561, (short)1465971812, IAr5510tC);
 break;
 case 'd':
-sKLYv = J14Y(82198689, -489780792);
+sKLYv = J14Y((unsigned short)82198689, -489780792);
 break;
 case 'e':
 ZpvSE3O1 = b5_57Nt(ZpvSE3O1, (unsigned char)-963085056, (short)195183807, cSIVLFPqgZ, CqVT7H6);

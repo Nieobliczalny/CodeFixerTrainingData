@@ -26,7 +26,7 @@ int main(void)
   unsigned long  C9o1v  =  212517552;
  short BH3R4_2Nc = (short)1143305624;
     char    xx135Mk    =    (char)-1203678085;
-    unsigned short    p4QG    =    -957159852;
+    unsigned short    p4QG    =    (unsigned short)-957159852;
     unsigned long    a00NJf    =    -211605259;
     double    E5OL5dS    =    -367013;
  unsigned int v1_th4_ = -1070565238;

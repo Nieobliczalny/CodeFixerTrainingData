@@ -59,7 +59,7 @@ int main(void)
  unsigned short int s7R7HX1 = (unsigned short)-1585090636;
     char    F0Tf    =    (char)-1249515858;
     unsigned long    xZz2yg_F    =    -1680592095;
-    unsigned short    XCqMIg    =    -1257797278;
+    unsigned short    XCqMIg    =    (unsigned short)-1257797278;
     long    y_3389l6k    =    -919657617;
   unsigned long  f1pJl0  =  1281942994;
     short int    C28L3sM2h    =    (short)1357851113;

@@ -77,7 +77,7 @@ int main(void) {
   char  xaz85zR  =  (char)1647864066;
 	long double	R1F6h6K3Z_	=	1031162837;
   short int  e2E2  =  (short)1826139815;
-  short  Gk039  =  1935543035;
+  short  Gk039  =  (short)1935543035;
   unsigned long  C41_XPh  =  -935772979;
   unsigned long long  d20M59IUD  =  -701884344;
 	unsigned long long	pv1xLfGca0	=	1375245083;

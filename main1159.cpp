@@ -36,7 +36,7 @@ int main()
  unsigned char grz8 = (unsigned char)-220210783;
 	char	bOBkX	=	(char)1566108000;
 	unsigned short int	h_KQEWuO	=	(unsigned short)34609547;
-  short int  YBe8o  =  -1309479195;
+  short int  YBe8o  =  (short)-1309479195;
  unsigned char qdayk = 894469887;
 	float	AJ4Ccf	=	-893306757;
 	unsigned int	goaV	=	-1170208697;

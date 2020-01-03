@@ -69,7 +69,7 @@ int main()
  unsigned long Q0k7agK = 1664734443;
 	unsigned short	tK0ifKLcU	=	(unsigned short)-901683899;
 	unsigned short int	c0Tw7w2	=	(unsigned short)1814210730;
- unsigned short wM03 = -1118098024;
+ unsigned short wM03 = (unsigned short)-1118098024;
     long long    ghGZ9    =    1014690781;
     long    lBB8vvk_o8    =    1434253870;
 	float	ha15P6	=	645372757;

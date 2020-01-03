@@ -68,7 +68,7 @@ int main(void)
     float    x2Yrma4NI    =    -874897490;
  char UdSsp4m = (char)-838502847;
     unsigned short    hkd_    =    (unsigned short)347084716;
-    unsigned short    Qq181pSM87    =    -1777332437;
+    unsigned short    Qq181pSM87    =    (unsigned short)-1777332437;
  unsigned long jzhGMUM9i6 = -556884195;
  float YIfi2 = -889450437;
 	unsigned long long	qc3J	=	1126818907;
@@ -79,7 +79,7 @@ int main(void)
  short int w7gL6 = (short)781345370;
  unsigned short int wzx2 = (unsigned short)1283980961;
   short int  dlhT349  =  (short)952450857;
-	unsigned char	XQR5	=	2060291030;
+	unsigned char	XQR5	=	(unsigned char)2060291030;
 
 switch (IF48L2q2P8)
 {

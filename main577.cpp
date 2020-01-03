@@ -20,7 +20,7 @@ int main(void) {
   utz38  =  (short)-333238712;
   P4oj  =  (short)1794371320;
   C5A_9  =  (short)-172868076;
-  O_M10r_mz7  =  1733344297;
+  O_M10r_mz7  =  (short)1733344297;
   FI7d  =  -1139765209;
   Kwe8L9y  =  -489796058;
 	int	Py_QmS4,	RbN2543,	X8gJ_8e_kW;

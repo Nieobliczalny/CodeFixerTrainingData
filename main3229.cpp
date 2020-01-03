@@ -27,7 +27,7 @@ int main(void)
 	unsigned short int	KQWvo61Ne7	=	(unsigned short)877832854;
   short  o_65  =  0;
 	unsigned long	y88N4	=	1220513082;
-    unsigned short int    raqcs    =    1073089929;
+    unsigned short int    raqcs    =    (unsigned short)1073089929;
     unsigned int    e26Q04w293    =    -84010339;
  int MLrI = -68092674;
   unsigned int  LP_3j  =  -1968046793;
@@ -40,7 +40,7 @@ int main(void)
   unsigned int  JTKO90  =  1328079287;
   short int  yIz_  =  (short)1714036552;
   int  w5z_t7QtQ6  =  1795860764;
-  unsigned char  S6N_I3XPJ  =  355089588;
+  unsigned char  S6N_I3XPJ  =  (unsigned char)355089588;
     float    gE7w2    =    -269587641;
 	short	kY1XwIZQ	=	(short)34931370;
   float  dJ0eYK7  =  1024146537;

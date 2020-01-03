@@ -31,7 +31,7 @@ int main(void) {
  unsigned short WFep = (unsigned short)-125620470;
  int bR3W4_VOR = 582587202;
     unsigned short    ga65j    =    (unsigned short)-134569730;
-  unsigned short  c53SAeP  =  1229439337;
+  unsigned short  c53SAeP  =  (unsigned short)1229439337;
  double SSCwV3i4 = 1734006843;
     unsigned short int    dmSpSwq    =    (unsigned short)309309240;
  short Mf3gh_l3Mc = 1808264759;

@@ -417,7 +417,7 @@ case 6:
 P_7A720hk = bSmE6zf(P_7A720hk, S2M6);
 break;
 default:
-X5bEeh = v7YQB(P_7A720hk, 1243294154, (unsigned short)-300486058, (unsigned short)-260578320, 733350237) & 1423895879;
+X5bEeh = v7YQB(P_7A720hk, 1243294154, (unsigned short)-300486058, (unsigned short)-260578320, (short)733350237) & 1423895879;
 break;
 }
 

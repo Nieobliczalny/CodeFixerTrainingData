@@ -34,7 +34,7 @@ int main() {
  t_V68_b = (unsigned char)1951839487;
  Y_3F = (unsigned char)1113878340;
  T5MUkeEFm5 = (unsigned char)-1312936211;
- zNc9 = 976711128;
+ zNc9 = (unsigned char)976711128;
  P2z1 = 425999195;
  TT660OikA6 = -583523284;
  Eut9b1 = -1228182268;
@@ -44,7 +44,7 @@ int main() {
  v7w73EmBLo = (unsigned char)679279200;
  DBkG_y7 = (unsigned char)999576373;
  k0Em9YNw0Y = (unsigned char)1326727189;
- CVWC = 1874556463;
+ CVWC = (unsigned char)1874556463;
  q_gOISg = 552019888;
  ntc1 = 1350299548;
  xO91 = -2054473172;
@@ -54,7 +54,7 @@ int main() {
  uV8A_H0s = (unsigned char)1189916798;
  agQSz967 = (unsigned char)555461330;
  U24UiNP0j = (unsigned char)293348892;
- fNK2e = -866002603;
+ fNK2e = (unsigned char)-866002603;
  uLvWuLHQj = -2047058804;
  MmeCK = 1869709562;
  r2vY2g = 936912867;
@@ -64,7 +64,7 @@ int main() {
  we1q_Sxf = (unsigned char)-2045562524;
  E3zjR5Q = (unsigned char)-1856929779;
  y80nHMwY3G = (unsigned char)196527280;
- rCcQ008P = 1157004467;
+ rCcQ008P = (unsigned char)1157004467;
  qoKs = -1534003656;
  JyEeo3qy = 1286293641;
  A8Pl = -1000572952;
@@ -74,7 +74,7 @@ int main() {
  sn6K78g = (unsigned char)1713495888;
  q93C1 = (unsigned char)-1574990619;
  Uew3 = (unsigned char)1871499868;
- d9xvDOON = 75651291;
+ d9xvDOON = (unsigned char)75651291;
  H8ZCFS = -479925348;
  a3hOnGT = 613952914;
  CLvuRsR__ = -1120211701;
@@ -84,7 +84,7 @@ int main() {
  M4cVl8weX = (unsigned char)1410325972;
  Q_ZrQf = (unsigned char)-1645090977;
  Ep2Ok5U = (unsigned char)-1520327672;
- RnOuTd_N = 249902035;
+ RnOuTd_N = (unsigned char)249902035;
  hTq6bMHn = -418966902;
  m51p = 1612084297;
  x0obqHKn = -1275918105;
@@ -94,7 +94,7 @@ int main() {
  Svm82 = (unsigned char)813532610;
  h4dh6YO3 = (unsigned char)-2016451375;
  HS9_sx = (unsigned char)-342868167;
- R3yv2zEj = -29603760;
+ R3yv2zEj = (unsigned char)-29603760;
  I_axAEFV = -669038606;
  yH_1Bw8X = -1942387295;
  myDRfzx1r = 1136766016;
@@ -104,7 +104,7 @@ int main() {
  Pif0o586 = (unsigned char)1304238928;
  Jz_Bi = (unsigned char)324508930;
  j54UZX57 = (unsigned char)-1839924240;
- iWuU = 1385566449;
+ iWuU = (unsigned char)1385566449;
 
 switch (JyEeo3qy)
 {

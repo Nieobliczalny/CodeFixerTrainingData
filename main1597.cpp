@@ -88,7 +88,7 @@ int main()
   int  V0iY6o  =  1176377707;
  char he4awPQs = (char)879231868;
     unsigned char    Ow3wiDMs    =    (unsigned char)-1463890354;
-    unsigned short int    mKjuu_c    =    -1752160251;
+    unsigned short int    mKjuu_c    =    (unsigned short)-1752160251;
     short    po2gKT    =    (short)-1699212572;
   unsigned int  X7kVb1J7U  =  1577668784;
  unsigned long ETmx6zqv6v = -1765547506;

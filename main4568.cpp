@@ -318,7 +318,7 @@ case 'f':
 w71Rz = FJr3bjQ54(-702886398, (char)1695493840, (char)1165616507, lMiN, hJgE744W);
 break;
 case 'g':
-w71Rz = FJr3bjQ54(wtM3, (char)1254702586, -1789583178, YiPon6e93, f1iyqkrm);
+w71Rz = FJr3bjQ54(wtM3, (char)1254702586, (char)-1789583178, YiPon6e93, f1iyqkrm);
 break;
 case 'h':
 w71Rz = FJr3bjQ54(596190273, (char)-1507737598, j_n13a8, M9y7, -2052794286);

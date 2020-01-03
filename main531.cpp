@@ -418,7 +418,7 @@ case 7:
 KgThr84P = gL5dRu_((short)972045016, La15);
 break;
 default:
-YA2LLYvM3C = J6yI((char)179112882, (unsigned short)-1979098587, 295927677);
+YA2LLYvM3C = J6yI((char)179112882, (unsigned short)-1979098587, (short)295927677);
 break;
 }
 j++;

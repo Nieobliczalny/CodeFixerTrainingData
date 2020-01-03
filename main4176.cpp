@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
  Tinfws = (short)-1985834231;
  u_55VDNo = (short)-843055611;
  fLr8i_8pT = (short)-1961562245;
- Pxm4sC29a9 = -641095979;
+ Pxm4sC29a9 = (short)-641095979;
  ghq4 = 578428700;
  xR4Mpg5Q = -1805248376;
  RXWN = 1746219937;
@@ -42,7 +42,7 @@ int main(int argc, char** argv) {
  j291 = (short)-1677225847;
  bNV3C = (short)-274517586;
  LtIs = (short)1134336289;
- WDZj = -1776903628;
+ WDZj = (short)-1776903628;
  jpQ6URa2M3 = 1685274074;
  Kg40H87f = -942477029;
  Vq8f = 1373010993;
@@ -52,7 +52,7 @@ int main(int argc, char** argv) {
  ujh_O6LdX = (short)2081994366;
  vX85 = (short)1273050198;
  x99Cz3e = (short)629511800;
- iz4u2F9_J = 1598044600;
+ iz4u2F9_J = (short)1598044600;
  H3216dzcCI = -1405534971;
  qrNvAO92Ep = -2049265573;
  jF7j03vs = 334583462;
@@ -62,7 +62,7 @@ int main(int argc, char** argv) {
  k4cFph9062 = (short)-440895945;
  xD8_CLZ1 = (short)-1944633054;
  C2pkjYB3 = (short)1587058749;
- tBpi4ud = -1122843582;
+ tBpi4ud = (short)-1122843582;
  X_sf5iB = 382731979;
  GKpTp = -565120959;
  iIi_ = -235359324;
@@ -72,7 +72,7 @@ int main(int argc, char** argv) {
  RPX_e0 = (short)1690534102;
  YE3MNP5g = (short)-1858154779;
  Gf21OEa33 = (short)-280597669;
- YODTc41V = 291697408;
+ YODTc41V = (short)291697408;
  pR4Z4b1B = -450880557;
  ZOgRw5U_P6 = 1388645434;
  f8NqEWMKC = 1784264527;
@@ -82,7 +82,7 @@ int main(int argc, char** argv) {
  HiMmn5Du = (short)1965939315;
  bf50V9 = (short)2046053282;
  l41mPg4 = (short)1688214689;
- pp__B_h = -2382831;
+ pp__B_h = (short)-2382831;
  wUj6P9 = 2114181858;
  OY6vO8F5 = 1943759412;
  lMf4TW3 = -1939955301;
@@ -92,7 +92,7 @@ int main(int argc, char** argv) {
  SW_215aPr = (short)-2018102384;
  J47lP3h7j = (short)-78098603;
  e4PmjlvEuK = (short)-199352172;
- h8apS536 = 1422911493;
+ h8apS536 = (short)1422911493;
  uK_5m = -865861821;
  w_l84521 = -34016895;
  Rg3DaD = 914537604;
@@ -102,7 +102,7 @@ int main(int argc, char** argv) {
  KXA6y4rOf2 = (short)2056565555;
  TVRYKB = (short)2145003955;
  FPBB = (short)114426383;
- s65Tyl3O = 1727677689;
+ s65Tyl3O = (short)1727677689;
  O1_D_ = 884591972;
  BfqYg = -2075636444;
  j800bah9 = 87800211;

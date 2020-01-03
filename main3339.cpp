@@ -480,7 +480,7 @@ case 'e':
 fjwEDO53l8 = HbSg(fjwEDO53l8, RkW1Tg_, (unsigned short)-1158474931, FbTX);
 break;
 case 'f':
-xE1oa0G = O9xB7O657((unsigned char)-1100419096, (short)-1248144409, 1477914049, -334576923, tF7Os_3d);
+xE1oa0G = O9xB7O657((unsigned char)-1100419096, (short)-1248144409, (unsigned char)1477914049, -334576923, tF7Os_3d);
 break;
 }
 if (xAC1Xla5 == ViI_kiy)

@@ -507,7 +507,7 @@ case 'c':
 Ib29PN %= j_Dc;
 break;
 case 'd':
-RwQ583Z = VH5j((char)-180059669, -752879928, 1367869702, U2JQ, YnERZ8rm7);
+RwQ583Z = VH5j((char)-180059669, (short)-752879928, 1367869702, U2JQ, YnERZ8rm7);
 break;
 case 'e':
 wann = (int)abs(Ib29PN);

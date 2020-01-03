@@ -23,7 +23,7 @@ int main(int argc, char** argv)
     unsigned short    IUZA6s6a    =    (unsigned short)2127188926;
   long double  hVzO1NP6it  =  1519823684;
  long B80CI = 0;
-	char	Et01CU	=	1319468980;
+	char	Et01CU	=	(char)1319468980;
     unsigned int    L7Tu4D    =    376931417;
     long    senF    =    910567452;
  unsigned long DLkZW = 523031713;

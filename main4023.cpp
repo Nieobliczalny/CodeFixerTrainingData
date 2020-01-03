@@ -67,7 +67,7 @@ int main() {
  long long xMvnP_oDcI = 36202062;
   int  diNazX69  =  -194348078;
     short int    n64udFy3    =    (short)-330732650;
-  unsigned short int  Ddsd  =  889215249;
+  unsigned short int  Ddsd  =  (unsigned short)889215249;
 	unsigned short int	Q9WRxy	=	(unsigned short)-853889896;
   int  Ulu5  =  -1360979456;
  unsigned long C1W73_ = 677472138;

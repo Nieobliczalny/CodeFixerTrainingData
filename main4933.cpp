@@ -29,7 +29,7 @@ int main(int argc, char** argv)
  char kGxm6d0B = (char)1733680406;
   unsigned char  BWb9r96dd  =  (unsigned char)-590748438;
     unsigned short int    qC3rA8L6Sy    =    (unsigned short)-2046927607;
-	short int	bQUsQ_G63x	=	418170472;
+	short int	bQUsQ_G63x	=	(short)418170472;
 	unsigned short	t7l_eZ42	=	(unsigned short)1624271177;
 	int	NCsb4ni_23	=	-1128251312;
   double  iP5rt  =  640108223;

@@ -40,7 +40,7 @@ int main() {
  int c6nNLU = -615213496;
  unsigned int lCqg7LHQ0 = -922990741;
 	char	vr4E	=	(char)1258685210;
-    char    Db54GRE9    =    -234757291;
+    char    Db54GRE9    =    (char)-234757291;
 	long long	N50Z5s1Q	=	-1113833625;
 	unsigned long	Biorx	=	824443698;
   int  oZMRtf  =  -572949257;
@@ -99,7 +99,7 @@ int main() {
   unsigned char  G_89rkk4  =  (unsigned char)-1375537859;
  unsigned char qun4K = (unsigned char)1566283119;
   unsigned char  U2wQ_l0P3  =  (unsigned char)71926862;
-    unsigned short    EVv_PI1LV    =    383393042;
+    unsigned short    EVv_PI1LV    =    (unsigned short)383393042;
 	long double	UPfd1vQ_	=	1505245164;
  unsigned char C4xCaPo_Bq = (unsigned char)1610279971;
  long ZE7K7bdY = -443251260;

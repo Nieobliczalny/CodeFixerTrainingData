@@ -32,7 +32,7 @@ int main() {
   unsigned short  A7H000I  =  (unsigned short)-1423608241;
  long oX3o4ZlE = 1817387109;
   long double  K452z  =  944046248;
-	unsigned short int	lboVop	=	1557685892;
+	unsigned short int	lboVop	=	(unsigned short)1557685892;
     char    y_iILI    =    (char)-511621767;
   unsigned int  SgsmkNN3  =  -1837252786;
 	long	D33_lix546	=	1092855793;

@@ -61,7 +61,7 @@ int main()
   short  hp6H62y  =  (short)-1668325953;
 	unsigned short	o73juhhY	=	(unsigned short)-564971274;
  char A8F247JXp = (char)1201992277;
- short O35sH8 = 2048991047;
+ short O35sH8 = (short)2048991047;
     unsigned short int    Cku1ea5Ip_    =    -708547318;
  short int kJ5X = 123462699;
     float    kN4U    =    -1858920019;

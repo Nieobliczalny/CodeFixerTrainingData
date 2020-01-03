@@ -75,7 +75,7 @@ int main(int argc, char** argv)
 	short int	PlTCMopY	=	(short)-1115757549;
 	char	F0870x	=	(char)1397340471;
 	unsigned short	o966t54	=	(unsigned short)-414920608;
-  unsigned short int  c06c1Dl  =  2062068316;
+  unsigned short int  c06c1Dl  =  (unsigned short)2062068316;
 
 T_6TKwfK = (int)ceil(f7Z87GzNj4);
 if ((Gdu0caW7 & x142Fo3QxS) && ((f9DIw15D <= 1895120126) && (fxZi7GDy < U_E4v7ed)))

@@ -215,7 +215,7 @@ case 4:
 kMI2 = x0ILqRJ53(U_mo9, staq, WRa2, n0gNC);
 break;
 case 5:
-cfBg1X6mm5 = x0ILqRJ53(-337053182, (short)221420043, 1031374062, -69043205);
+cfBg1X6mm5 = x0ILqRJ53(-337053182, (short)221420043, (unsigned short)1031374062, -69043205);
 break;
 default:
 kMI2 = x0ILqRJ53(-1320802643, (short)-1255187235, D4Fb5a, (short)1704285125);

@@ -83,7 +83,7 @@ int main(void)
 	unsigned short	N0T0uKLG6V	=	(unsigned short)628173994;
     unsigned long long    Ona1_3    =    -2097586433;
 	char	e__yovtf	=	(char)-2127662962;
- unsigned short int N_037xbt_ = 2045535999;
+ unsigned short int N_037xbt_ = (unsigned short)2045535999;
     long    oV2QR0Z2y    =    0;
  unsigned long JcEBnu804v = -579626054;
 	short	SQ9V8O132	=	(short)-2127683627;

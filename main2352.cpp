@@ -52,7 +52,7 @@ int main(void)
     unsigned char    dLqz    =    (unsigned char)-485076660;
     unsigned long    TC0w    =    1496773102;
 	long	ciTeSa_ku	=	1287398516;
- short int Z8RHEr2k0c = -1994493161;
+ short int Z8RHEr2k0c = (short)-1994493161;
     long long    aLh40TB    =    -1291640721;
 	long double	VocULP0RZ	=	-1279191209;
     unsigned long    Ya0G    =    158889496;

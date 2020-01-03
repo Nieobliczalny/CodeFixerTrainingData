@@ -33,7 +33,7 @@ int main() {
     long    R1m5a    =    0;
 	unsigned long	I5M_9	=	-1637450823;
  short IV0b6kgU = (short)-1604472313;
-	unsigned short int	Uz789_5	=	974941385;
+	unsigned short int	Uz789_5	=	(unsigned short)974941385;
     double    qxTWL    =    -30639464;
  short yoQm = 0;
 	unsigned long	bnZASJs5q	=	-1058446683;

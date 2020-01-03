@@ -444,7 +444,7 @@ case 6:
 Rp5lEpyt5S = A9aZK79QT((unsigned char)-235581345, ZHac_l, Se1Amv_b, (short)-1815817368);
 break;
 case 7:
-Rp5lEpyt5S = A9aZK79QT(u7hv, (short)-1593602762, -1775149461, Rp5lEpyt5S);
+Rp5lEpyt5S = A9aZK79QT(u7hv, (short)-1593602762, (unsigned short)-1775149461, Rp5lEpyt5S);
 break;
 case 8:
 iphf2e37Mv = iphf2e37Mv >> 251574021;
@@ -462,7 +462,7 @@ if ((sVd93K_T0 / S4894) < -600191743)
 {
 H96oT67 = gy7ri / S4894;
 }
-std::cout << V_1YA0U << A9aZK79QT((unsigned char)-448776294, E50i8R, kmO8F, (short)-954050325) << choi3IR3g8 << A9aZK79QT(u7hv, E50i8R, kmO8F, (short)765866633) << A9aZK79QT(2064797419, E50i8R, 1083911747, Rp5lEpyt5S) << std::endl;
+std::cout << V_1YA0U << A9aZK79QT((unsigned char)-448776294, E50i8R, kmO8F, (short)-954050325) << choi3IR3g8 << A9aZK79QT(u7hv, E50i8R, kmO8F, (short)765866633) << A9aZK79QT((unsigned char)2064797419, E50i8R, 1083911747, Rp5lEpyt5S) << std::endl;
 {
 int i = 6;
 do

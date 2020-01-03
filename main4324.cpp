@@ -131,7 +131,7 @@ case 4:
 J23VZ8n6C = gId0uW_vyD((short)966720292, K4vT2172, -799863160);
 break;
 case 5:
-X_0M33nY6 = M2pxr5X4it(X_0M33nY6, 1186872531, 1437231680, (unsigned char)-732923197, -1998087575);
+X_0M33nY6 = M2pxr5X4it(X_0M33nY6, 1186872531, 1437231680, (unsigned char)-732923197, (char)-1998087575);
 break;
 case 6:
 jKdp++;

@@ -114,7 +114,7 @@ int main(int argc, char** argv) {
 	int	l4El7M15_1	=	0;
 	unsigned short	u93yWMeIf	=	(unsigned short)1247173156;
   short int  kOB1t  =  (short)1002716034;
-    short int    X3pR955796    =    -222923501;
+    short int    X3pR955796    =    (short)-222923501;
   long double  IvP52bqlD7  =  -51634086;
     unsigned short    p2FF    =    (unsigned short)902018589;
 	unsigned short int	GvKKk6e4m	=	0;

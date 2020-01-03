@@ -68,7 +68,7 @@ int main(void) {
     unsigned int    Zwax2X52W    =    -1768856924;
 	unsigned short int	b4ht9d5E	=	(unsigned short)602241205;
   long long  F6E_Og_8  =  75797523;
-	unsigned char	Ah_2Hqqlm	=	-110920246;
+	unsigned char	Ah_2Hqqlm	=	(unsigned char)-110920246;
     short    Onr5yE0    =    (short)1470386389;
  char W1_j1T0 = -756212845;
 	int	E8J_W6u_d	=	338723870;

@@ -260,7 +260,7 @@ case 'c':
 J99hWQ = qvl6p(-622002749, (unsigned short)1357968905, -1173133759, (short)-1930703624);
 break;
 case 'd':
-xNnDG = M4AXlfL(IfE0V7xj, 447833990, 436265339, ObRi78f, -886510656);
+xNnDG = M4AXlfL(IfE0V7xj, (short)447833990, 436265339, ObRi78f, -886510656);
 break;
 case 'e':
 mT35WY_Fe = Y7OctZXh0(mT35WY_Fe, RHxFPksv, usHT5r0, (unsigned char)1842408500);
@@ -335,7 +335,7 @@ if (IfE0V7xj & 1875701233)
 CrMQ15_oG = qvl6p(CrMQ15_oG, (unsigned short)372599256, 1204187457, (short)1590390899);
 }
 
-I2SgY = M4AXlfL((unsigned char)400965138, 612311954, 1514067940, 448822540, t6aI9M_);
+I2SgY = M4AXlfL((unsigned char)400965138, (short)612311954, 1514067940, 448822540, t6aI9M_);
 
 WA85 = (int)abs(RHxFPksv);
 {

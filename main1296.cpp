@@ -86,7 +86,7 @@ int main(void)
 	unsigned short int	s8ng8xE6	=	(unsigned short)706092612;
   short int  CIU810N_H  =  (short)-560648283;
 	short	F0m22	=	(short)1162969874;
-    char    d22kQR1J    =    -1572860405;
+    char    d22kQR1J    =    (char)-1572860405;
 	unsigned char	L9pRAeY	=	(unsigned char)497033858;
   unsigned int  go9fSZ0L8T  =  798840054;
     short int    YfF2    =    (short)1105443990;

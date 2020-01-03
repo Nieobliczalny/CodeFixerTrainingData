@@ -43,7 +43,7 @@ int main(int argc, char** argv) {
  unsigned long gw79413 = -1744927303;
  unsigned char J2m_r = (unsigned char)2034966219;
 	unsigned short	XIwd	=	(unsigned short)-2096161581;
- short int f__qx31 = -1969096740;
+ short int f__qx31 = (short)-1969096740;
  unsigned int hk_H = 984756176;
     long    jWxV0    =    1085049435;
   unsigned int  SBy45S6  =  -2039443418;

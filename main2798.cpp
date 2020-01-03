@@ -52,7 +52,7 @@ int main(void)
 	int	AwPcF2ZQLj	=	781095523;
  unsigned char xSyR = (unsigned char)-462060542;
 	unsigned char	h1R8rr8e	=	(unsigned char)1284937797;
-  unsigned short  i31_88  =  2025707899;
+  unsigned short  i31_88  =  (unsigned short)2025707899;
 	short	Bg7Go69M7D	=	-1641876302;
   short int  Jrd5A62  =  (short)-1702886577;
 	long long	jW612	=	-930934837;
@@ -124,7 +124,7 @@ int main(void)
   unsigned short  el5S  =  0;
     unsigned short    pE1GM_OJ    =    (unsigned short)-1637611557;
  unsigned short S7GwI290B = (unsigned short)99483084;
- short int Sc0F = -219375485;
+ short int Sc0F = (short)-219375485;
 
 cout << V5F9__Fk << mjF2v30B(281584180, (unsigned short)162536478, C3Kg, 70802472) << HW_r << S7GwI290B << AwPcF2ZQLj << endl;
 

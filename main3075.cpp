@@ -309,7 +309,7 @@ case 4:
 nIj5 = KGZVK((char)-902811429, Vdn2I2jSiS, (short)302654740, (unsigned char)-969225432);
 break;
 default:
-aV5Yq = KGZVK(-1884099417, -2060177544, EQ3p9IvV_, -997292888);
+aV5Yq = KGZVK((char)-1884099417, -2060177544, EQ3p9IvV_, -997292888);
 break;
 }
 kRqg0 = fWN0u6ka60(jeIHDLfr, 1677675054, kRqg0, -2103624821);

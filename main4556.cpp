@@ -26,7 +26,7 @@ int main()
     unsigned short    mfYRnb    =    (unsigned short)-820688532;
  char R2zQC = (char)-1963196798;
 	char	XJnA3k	=	(char)1008816387;
-  unsigned short  Gs1p  =  1558874401;
+  unsigned short  Gs1p  =  (unsigned short)1558874401;
     long    sq8g_m154t    =    276073956;
  int DOUSFNoyS = 0;
 	short int	xDfSKG1	=	0;

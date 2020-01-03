@@ -61,7 +61,7 @@ int main() {
     unsigned char    CxO1cto4R    =    (unsigned char)1344695234;
 	unsigned short int	zd7R2vIPlK	=	(unsigned short)-1818249575;
   unsigned char  szW32E5QA  =  (unsigned char)273209991;
-    unsigned char    eFw8Ru0G    =    -1740900439;
+    unsigned char    eFw8Ru0G    =    (unsigned char)-1740900439;
  unsigned short int uEEi2yeFw = 0;
 	unsigned long long	d36HUT	=	-1112596631;
     short int    D9hF1ZG0XB    =    707045194;

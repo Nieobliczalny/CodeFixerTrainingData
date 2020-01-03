@@ -61,7 +61,7 @@ int main() {
   short  UJTYpsQ  =  (short)340288753;
 	char	aabGa45A	=	(char)-838093590;
 	unsigned short int	iLe7tcE0N6	=	(unsigned short)-1636741490;
-    char    XvH39uw    =    860991502;
+    char    XvH39uw    =    (char)860991502;
     short int    pnXSqs    =    (short)903682226;
 
 C7_9s68 = (short int)(aabGa45A);

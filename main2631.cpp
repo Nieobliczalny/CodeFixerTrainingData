@@ -43,7 +43,7 @@ int main(int argc, char** argv)
  long aQF7M = 802268227;
  short int ERM8f = (short)1820379020;
  unsigned char B6Sf9D = (unsigned char)2115584490;
-    char    zpiM70Jc    =    -1173938068;
+    char    zpiM70Jc    =    (char)-1173938068;
 	unsigned long	fhz_1RI0t5	=	0;
 	unsigned short int	yBGG	=	(unsigned short)-1642045024;
   long long  p3M4o  =  -188220697;

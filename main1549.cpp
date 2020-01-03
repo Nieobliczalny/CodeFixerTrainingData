@@ -43,7 +43,7 @@ int main()
 	short int	VMSN2	=	(short)-902829832;
   unsigned long long  bBq3m9R  =  -282841542;
 	char	mA93	=	(char)-1497466709;
-	char	S31dvB1u	=	815226493;
+	char	S31dvB1u	=	(char)815226493;
   short int  w2_cL  =  (short)583266113;
     unsigned short int    WrzO5q0    =    (unsigned short)1299854886;
 	long long	jU10	=	-1379710791;

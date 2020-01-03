@@ -29,7 +29,7 @@ int main() {
  long double oQrN = -574727906;
  char XoZxd9WLh = (char)702029334;
   short  MvS_88  =  (short)-381466528;
- short iOowZ = -1956252280;
+ short iOowZ = (short)-1956252280;
   unsigned long  JuahZ8  =  1620603708;
 	unsigned int	v8RHvgJSg	=	-751175801;
  unsigned short int xvTOf = (unsigned short)-707846154;

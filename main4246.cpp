@@ -45,7 +45,7 @@ int main(void)
   unsigned int  eO7QM  =  958180405;
 	char	qXFm1kP_a8	=	(char)-1816763108;
 	unsigned char	e9ku4WcPy9	=	(unsigned char)1699353117;
-    char    gX_pBBU1_Y    =    -1555940185;
+    char    gX_pBBU1_Y    =    (char)-1555940185;
  unsigned long long HRlPK = 972824098;
 	double	obE89c	=	-604301692;
  unsigned short int Y71e_S55A = (unsigned short)426534668;

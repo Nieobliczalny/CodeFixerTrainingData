@@ -20,7 +20,7 @@ int main()
 	eEJlhV_	=	(unsigned short)812779169;
 	YloOfs	=	(unsigned short)67304014;
 	FCS1xK83T5	=	(unsigned short)2053771885;
-	t_a5CoPWI	=	159555126;
+	t_a5CoPWI	=	(unsigned short)159555126;
 	ITMA1	=	-147602130;
 	XDZ363	=	1665167253;
 	fA3L7m93	=	1347201071;

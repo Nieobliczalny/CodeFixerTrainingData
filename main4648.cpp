@@ -100,7 +100,7 @@ int main() {
   short  Gt3_6t93  =  (short)-1250097952;
     char    EACY1r7OX    =    (char)-982217257;
 	unsigned char	v_6q	=	(unsigned char)-1140914238;
-  short  VMEWrC  =  -1828416088;
+  short  VMEWrC  =  (short)-1828416088;
  short fdx73jb = 31870586;
  unsigned short int Unlw39a = (unsigned short)1548159644;
  int U360Q1tc5 = -375884699;

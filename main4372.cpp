@@ -62,7 +62,7 @@ TY_8 = MYz5hFhc / MYz5hFhc;
 TY_8 = (unsigned short)(F3r8f3 + (1126764473));
 TY_8 = L7i1((unsigned short)1902623974, TY_8, MYz5hFhc);
 
-F3r8f3 = b2ypCc0hmL((unsigned short)2099270268, (char)-211862855, -1278303315, -1408033326, -623304700);
+F3r8f3 = b2ypCc0hmL((unsigned short)2099270268, (char)-211862855, (unsigned char)-1278303315, -1408033326, -623304700);
 
 {
 int i = 2;
