@@ -36,7 +36,7 @@ int main(int argc, char** argv) {
 	Va_K	=	(short)-281629712;
 	kRhyQ	=	(short)277514191;
 	Tw5h	=	(short)-642027582;
-	TuRQ1qI	=	1173656296;
+	TuRQ1qI	=	(short)1173656296;
 	Jp_k_5k	=	-1873031319;
 	epX22Tju	=	-791071896;
 	Kn5MxHv	=	(short)-498112837;
@@ -46,7 +46,7 @@ int main(int argc, char** argv) {
 	VJ1Vcr	=	(short)1100985973;
 	DZ281	=	(short)-493820300;
 	J8i320Wo5	=	(short)-887517252;
-	wOmPBPSE1	=	-2007079762;
+	wOmPBPSE1	=	(short)-2007079762;
 	TxLb8	=	-37624493;
 	w9KEtj4k	=	-540673786;
 	IX_ATuKSxs	=	(short)-1701730371;
@@ -56,7 +56,7 @@ int main(int argc, char** argv) {
 	Y3u02	=	(short)984132099;
 	z0em1D	=	(short)-1816271827;
 	Uz9S_	=	(short)1697794945;
-	gsKpr	=	1897268188;
+	gsKpr	=	(short)1897268188;
 	Wjdz9	=	-1556092609;
 	E91v5D	=	1094523354;
 	gB5K7	=	(short)-1444291434;
@@ -66,7 +66,7 @@ int main(int argc, char** argv) {
 	ObOciKM5	=	(short)911982631;
 	QiH04Dxh	=	(short)-1215666983;
 	HurSIw_1e_	=	(short)1831123931;
-	VGp3q_h	=	41967906;
+	VGp3q_h	=	(short)41967906;
 	NoH7u0Br	=	-699709689;
 	Vb64_mwUs	=	1721976522;
 	cL43PG	=	(short)1149709272;
@@ -76,7 +76,7 @@ int main(int argc, char** argv) {
 	V2P_2CO	=	(short)703062732;
 	a5DeDxRW04	=	(short)1674150293;
 	I0u2v	=	(short)-467204611;
-	tx1tR	=	719396640;
+	tx1tR	=	(short)719396640;
 	uK1V1x	=	1238267151;
 	yMl6_9	=	1734884095;
 	f1M41137Yp	=	(short)1087087917;
@@ -86,7 +86,7 @@ int main(int argc, char** argv) {
 	RrsHY	=	(short)2131480161;
 	kN0_	=	(short)-1209065106;
 	Vmrj	=	(short)-744579708;
-	CR6GmjJD_	=	1031410022;
+	CR6GmjJD_	=	(short)1031410022;
 	xJz3Fm3	=	-135306876;
 	F5R4X	=	-1651015767;
 	LgLz0	=	(short)873395823;
@@ -96,7 +96,7 @@ int main(int argc, char** argv) {
 	kvIIOzx6	=	(short)-1532888670;
 	os2es_13	=	(short)1133977243;
 	TyGw	=	(short)-1943309567;
-	jzWeie6bl	=	-1909901565;
+	jzWeie6bl	=	(short)-1909901565;
 	NaxMv5Rn	=	-2073946229;
 	hkS3l1	=	2125478704;
 	KCkFtz6U	=	(short)844690672;
@@ -106,7 +106,7 @@ int main(int argc, char** argv) {
 	ZRYIpJuA	=	(short)182805315;
 	cm_y2ERg	=	(short)1140353300;
 	KY8Cejx	=	(short)-1572880493;
-	fgitU	=	-949043990;
+	fgitU	=	(short)-949043990;
 	p09_go	=	-253207264;
 	C96lC	=	2127097133;
 	p1k66B15	=	(short)-879560712;

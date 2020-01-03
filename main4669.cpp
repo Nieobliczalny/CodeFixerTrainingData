@@ -24,7 +24,7 @@ int main(int argc, char** argv) {
   unsigned long long  RB90  =  -174371476;
     short    Ch5_j    =    (short)1175222063;
  unsigned char J19IF0w90c = (unsigned char)1063321571;
-    short int    WOIKD6G    =    -734711517;
+    short int    WOIKD6G    =    (short)-734711517;
     long long    bDlN4d    =    -1392048585;
     unsigned char    Py3x9W_    =    (unsigned char)1300607286;
  unsigned char h6S05 = (unsigned char)300037444;

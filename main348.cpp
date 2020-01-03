@@ -588,7 +588,7 @@ case 2:
 MTTX = KDJ7pU8fXN(ff_6T, Y_F540j, q2tb2MT, (unsigned char)1323748564);
 break;
 case 3:
-E_TwTrpk = KDJ7pU8fXN((unsigned char)-100815349, -1133228, -111864556, -771321341);
+E_TwTrpk = KDJ7pU8fXN((unsigned char)-100815349, (unsigned char)-1133228, -111864556, -771321341);
 break;
 case 4:
 pF_X50Qlp3 = (GV7SBsmc >= 2100485622) ? -127106845 : Q4DdwV7_ns;

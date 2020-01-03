@@ -117,7 +117,7 @@ int main(void)
 	short int	F3OeDm	=	(short)-1589158945;
   short  g7R0y  =  (short)-747401998;
 	short int	BIA0EW0r	=	(short)-1518766262;
-	unsigned short int	r3d6P	=	-1610322867;
+	unsigned short int	r3d6P	=	(unsigned short)-1610322867;
     long double    q1MST47Gg    =    -1446646733;
 
 if ((RTK9xlC == ImgZGM0) && (S6q5))

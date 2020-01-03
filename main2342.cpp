@@ -93,7 +93,7 @@ int main(int argc, char** argv)
  long long b8W_ = 359834053;
  short int Z_t0q = (short)98231185;
   short  oC7bLs_P44  =  (short)1473253044;
-	unsigned char	R63ilJ	=	-672275607;
+	unsigned char	R63ilJ	=	(unsigned char)-672275607;
   unsigned short  CV46  =  (unsigned short)1268400496;
 	unsigned short	onf46	=	(unsigned short)-487828152;
 	unsigned short int	q_gil9	=	(unsigned short)-360147786;

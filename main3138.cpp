@@ -603,7 +603,7 @@ case 'f':
 LjdGn = tMFN6MC6_d((unsigned char)747556948, (unsigned char)421386622, Uxz2fc3, (unsigned char)-126700321, xzV7dpN);
 break;
 case 'g':
-uj6FWx1R = (M06fnzcx >= pTo4yh) ? HzsRd(LjdGn, BeyZC_y, -1567675567, wZ1q30i, -1140069015) : -1652740831;
+uj6FWx1R = (M06fnzcx >= pTo4yh) ? HzsRd(LjdGn, BeyZC_y, -1567675567, wZ1q30i, (char)-1140069015) : -1652740831;
 break;
 case 'h':
 uMAnsY = (int)abs(M06fnzcx);

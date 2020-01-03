@@ -31,7 +31,7 @@ int main(void)
  unsigned short int RBcgVT = (unsigned short)2080198798;
 	char	RYZG_8o	=	(char)-1505650024;
 	short	Grs1Ad4L	=	(short)1405358444;
- short int eQzdW3oD0i = 1537132890;
+ short int eQzdW3oD0i = (short)1537132890;
 	short	WJ3_AmtA7	=	(short)-1258706609;
     float    Op_30n    =    980188658;
   short  C1Zo8n  =  (short)18359307;

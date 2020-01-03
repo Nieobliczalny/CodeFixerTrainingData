@@ -31,7 +31,7 @@ int main(int argc, char** argv) {
  C6YmlnShaq = (unsigned short)1816782469;
  GM12kBcf = (unsigned short)-982953148;
  iZG_K5B = (unsigned short)1591657185;
- hKu_c2 = -1271385774;
+ hKu_c2 = (unsigned short)-1271385774;
  aGpHTA = -951654698;
  U2hZJ2pWI = -269545143;
  e2FRNG = (unsigned short)-636995397;
@@ -41,7 +41,7 @@ int main(int argc, char** argv) {
  y4s3_8AP8B = (unsigned short)-1301105755;
  G4yv_Bui9 = (unsigned short)-1774285688;
  jvEdFht9 = (unsigned short)-1429607050;
- DnTCeJvR2 = 724716989;
+ DnTCeJvR2 = (unsigned short)724716989;
  yD76197f6 = 568968237;
  kHKS2d = -1980716089;
  N58ruaN = (unsigned short)2052329963;

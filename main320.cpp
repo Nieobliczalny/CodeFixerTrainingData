@@ -53,7 +53,7 @@ int main(void) {
   char  J2rP8  =  (char)736687497;
     unsigned short int    jcT7j5    =    (unsigned short)-1244256312;
 
-k_T2xQb5 = uHn9R4ik(eEy10305, e_69, C7_8_, (char)-96591491) / Y8kK(eEy10305, -1389134032, 516697274);
+k_T2xQb5 = uHn9R4ik(eEy10305, e_69, C7_8_, (char)-96591491) / Y8kK(eEy10305, -1389134032, (short)516697274);
 A2xek1D521 = Y8kK(eLwrL81, -144852483, wE11Vl);
 
 P0AZMQ9 = uHn9R4ik(P0AZMQ9, Y_lWK, A2xek1D521, (char)-1936395539);

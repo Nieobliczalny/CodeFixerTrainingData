@@ -41,7 +41,7 @@ int main(void)
   char  fvG7GN90W  =  (char)1865258086;
   char  hrm54B6y3  =  (char)-793663491;
 	char	jxRCC_M	=	(char)2071909610;
-    unsigned char    lRk_10    =    -1230336434;
+    unsigned char    lRk_10    =    (unsigned char)-1230336434;
     short    g2E82lfO    =    (short)-875780845;
   float  A0FKmn9g  =  2046949018;
  unsigned long long oI_W5 = 1520326395;

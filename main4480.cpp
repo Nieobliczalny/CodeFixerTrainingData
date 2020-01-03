@@ -96,7 +96,7 @@ int main(int argc, char** argv)
     unsigned short int    d3R4q7W6Q    =    (unsigned short)1470640855;
  char sw7p8x6oW = (char)1921075008;
   unsigned short  gzfg  =  (unsigned short)380389292;
-    unsigned short    ZMq0p484c2    =    -52731656;
+    unsigned short    ZMq0p484c2    =    (unsigned short)-52731656;
 	double	oJ0A2y	=	-1931137761;
 	char	K1H35URP7	=	(char)1986861523;
 	short	iV_RMVu	=	(short)-1803357139;

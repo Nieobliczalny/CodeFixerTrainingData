@@ -29,7 +29,7 @@ switch (oQnd)
 {
 case 'a':
 case 'A':
-oQnd = GQGSr(722762034, VEc2X0, (short)426739024, (char)-607911319, -85081230);
+oQnd = GQGSr(722762034, VEc2X0, (short)426739024, (char)-607911319, (char)-85081230);
 break;
 }
 
@@ -67,7 +67,7 @@ case 1:
 oQnd = GQGSr(jH05U5v6, (short)-284155103, oQnd, (char)-165400222, (char)-639606825) % VEc2X0;
 break;
 case 2:
-oQnd = GQGSr(oQnd, VEc2X0, (short)1063830998, (char)545659044, -927207300);
+oQnd = GQGSr(oQnd, VEc2X0, (short)1063830998, (char)545659044, (char)-927207300);
 break;
 case 3:
 oQnd %= VEc2X0;

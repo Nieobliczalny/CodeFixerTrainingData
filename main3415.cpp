@@ -30,7 +30,7 @@ int main(void) {
   C0fwqb6X0m  =  (short)-1545799000;
   L2gd_  =  (short)-1097435624;
   FkWd05i6  =  (short)1088470813;
-  C_Bhfx  =  -1026661229;
+  C_Bhfx  =  (short)-1026661229;
   VV2w  =  360092152;
   boeGBxF  =  -928799473;
   HMoafM  =  (short)6138874;
@@ -40,7 +40,7 @@ int main(void) {
   cv52D  =  (short)99185646;
   Q7Y36wXAw6  =  (short)-494911575;
   f7a2z7CX  =  (short)686425127;
-  P514JzcJ2  =  -601258740;
+  P514JzcJ2  =  (short)-601258740;
   WJ9GLB  =  1732222131;
   mh__aZ_rX5  =  851625617;
   bCrM  =  (short)681051682;

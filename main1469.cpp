@@ -34,7 +34,7 @@ int main()
     unsigned char    rE4U0Fi    =    (unsigned char)-2128331019;
  unsigned short int rDd1b79g = (unsigned short)-1961981267;
 	short	a26eo2snc	=	(short)-519501111;
-	char	Q3n32S	=	-1880014225;
+	char	Q3n32S	=	(char)-1880014225;
  short Qp4RiJf = (short)610898140;
     long double    J8E2eHr    =    1295669040;
 	unsigned char	iuu9Gb	=	-1109449699;

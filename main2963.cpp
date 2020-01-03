@@ -67,7 +67,7 @@ int main()
  unsigned short kD2eJa6 = (unsigned short)-854181861;
   short  H3fH  =  (short)-1714813620;
  long EoI8J185H = 966822952;
- unsigned char FPjlNvnSgc = 440091143;
+ unsigned char FPjlNvnSgc = (unsigned char)440091143;
  int zA1TW = -1148126589;
     short    N5r8VE18    =    (short)1538560955;
  unsigned long long mY1_JGz621 = 579990986;

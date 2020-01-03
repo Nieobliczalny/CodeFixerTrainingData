@@ -31,7 +31,7 @@ int main(int argc, char** argv)
     unsigned long    jgAZ2vkmY2    =    925754025;
     double    EQQeV9_Tl    =    -768792500;
     unsigned char    cFTp3s1    =    (unsigned char)-829390281;
-    unsigned short int    ZU05ip2c    =    2016139540;
+    unsigned short int    ZU05ip2c    =    (unsigned short)2016139540;
   int  xO411W  =  1496076849;
   short int  PPigo7Gkpu  =  (short)-413497311;
  long Kqfbqge = -1212621049;

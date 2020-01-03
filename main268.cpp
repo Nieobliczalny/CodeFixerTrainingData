@@ -40,7 +40,7 @@ int main(void)
     YAE8v5k    =    (short)1349838385;
     c6_x079KV    =    (short)-391386396;
     II_TZS    =    (short)1667137061;
-    B6bYq4Mx    =    -2109925085;
+    B6bYq4Mx    =    (short)-2109925085;
   long long  ZuGMU_uhz,  tPYpuq;
   ZuGMU_uhz  =  0;
   tPYpuq  =  0;

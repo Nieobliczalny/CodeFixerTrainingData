@@ -53,7 +53,7 @@ int main(int argc, char** argv) {
  unsigned int xv0Az = 973140868;
     short    A52zpY2w8    =    (short)-1469711769;
     short int    x5ux7JqN    =    (short)1053252733;
- unsigned short wU17BoZ = -960474482;
+ unsigned short wU17BoZ = (unsigned short)-960474482;
  short wOk3YOUdLO = (short)-879371594;
   unsigned char  E2ls8q6  =  (unsigned char)222924048;
   long double  K3_2  =  1994229476;

@@ -34,7 +34,7 @@ int main(void)
     k456d_    =    (unsigned short)1355491209;
     mkm8p    =    (unsigned short)781821219;
     VhW4l_    =    (unsigned short)-1221390798;
-    ZyxA6HU893    =    235239937;
+    ZyxA6HU893    =    (unsigned short)235239937;
     xHkE7m    =    2051678834;
     eQ7R5_K    =    -1559935596;
     PUr0qm3Ef3    =    (unsigned short)1005096197;
@@ -44,7 +44,7 @@ int main(void)
     fUAGDcSkS    =    (unsigned short)-173149311;
     yHhyvh_I4p    =    (unsigned short)-1003783826;
     Bv1QBqH    =    (unsigned short)1833982325;
-    oxX_L_6_B    =    -1247255143;
+    oxX_L_6_B    =    (unsigned short)-1247255143;
     E6772    =    -1579933761;
     aw8c186    =    -1098386133;
     Z3_i    =    (unsigned short)2070462566;
@@ -54,7 +54,7 @@ int main(void)
     GW0DM    =    (unsigned short)236687969;
     Om40    =    (unsigned short)-160046691;
     o6qZbBKlEw    =    (unsigned short)633515784;
-    bT141    =    -1414420341;
+    bT141    =    (unsigned short)-1414420341;
     VzZgz    =    1364591736;
     Kfn046    =    -763010330;
     HkM5MlZ    =    (unsigned short)1226455000;
@@ -64,7 +64,7 @@ int main(void)
     Boz73wOl    =    (unsigned short)-470197661;
     Nmnj    =    (unsigned short)-406855866;
     c4RC    =    (unsigned short)429655042;
-    PGVL3Z    =    1951988778;
+    PGVL3Z    =    (unsigned short)1951988778;
     zE40N    =    -50123546;
     qHJ1    =    1425718786;
     kZ85df6EW    =    (unsigned short)-1836295031;
@@ -74,7 +74,7 @@ int main(void)
     Qscs2G5G    =    (unsigned short)520884786;
     pjII4    =    (unsigned short)-978597654;
     pOL_U    =    (unsigned short)1421510488;
-    L_ycl    =    1875429043;
+    L_ycl    =    (unsigned short)1875429043;
     WN3o    =    1353029967;
     g54_JE20fl    =    -779319103;
     CqPDM4B1    =    (unsigned short)-773762526;
@@ -84,7 +84,7 @@ int main(void)
     Y663162k    =    (unsigned short)1831566892;
     TFu8FdG94    =    (unsigned short)149881831;
     Se0_6Ue2    =    (unsigned short)1946417488;
-    O8x95Hzh    =    1602076345;
+    O8x95Hzh    =    (unsigned short)1602076345;
     cB6WS6_x    =    -1516964467;
     s490    =    -1574856666;
     y7lX0_    =    (unsigned short)-2121975386;

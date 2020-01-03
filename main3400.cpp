@@ -34,7 +34,7 @@ int main(void) {
   unsigned short  c53SAeP  =  (unsigned short)1229439337;
  double SSCwV3i4 = 1734006843;
     unsigned short int    dmSpSwq    =    (unsigned short)309309240;
- short Mf3gh_l3Mc = 1808264759;
+ short Mf3gh_l3Mc = (short)1808264759;
     char    nI1jtW0    =    (char)-1284862378;
     unsigned char    e52Dlc6    =    0;
     long double    up9p14iJR    =    948429610;

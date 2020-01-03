@@ -33,7 +33,7 @@ int main(int argc, char** argv)
     long double    Dx8mHQqg    =    720366975;
   unsigned short int  DM31597f8  =  (unsigned short)316173933;
 	unsigned short	Tqsipd	=	(unsigned short)-1149402362;
-  unsigned short  pLxpYdqz4U  =  -1027951315;
+  unsigned short  pLxpYdqz4U  =  (unsigned short)-1027951315;
     unsigned short    f4E8    =    (unsigned short)-1838630676;
     long long    qBOv3v7    =    -1149273232;
 	short	scOwZSSVFZ	=	(short)1032941753;
@@ -54,7 +54,7 @@ int main(int argc, char** argv)
     unsigned short    oO6BfLQre3    =    (unsigned short)966642099;
  unsigned short Dzg_ = (unsigned short)-501819947;
  unsigned long agZh1 = 183417166;
- short int m0mV_8DLe = -794673552;
+ short int m0mV_8DLe = (short)-794673552;
     unsigned short int    ohc1Js78l    =    (unsigned short)1086269390;
   float  vS5ZAg350  =  -1671679995;
   unsigned int  U3VvreuC  =  1798688392;

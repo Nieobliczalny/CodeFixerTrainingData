@@ -43,7 +43,7 @@ int main()
     t5q1wY    =    (unsigned short)-681017179;
     MJ_Bs4x    =    (unsigned short)-345958063;
     OUYl32F1N5    =    (unsigned short)-772716089;
-    XZ_G7    =    -1437217507;
+    XZ_G7    =    (unsigned short)-1437217507;
     QZ9Nte    =    -1608341654;
     f_8xoV99D    =    -1322885506;
     LRBHADR1    =    (unsigned short)1341327075;
@@ -53,7 +53,7 @@ int main()
     x2zfP55bOk    =    (unsigned short)1450630029;
     GL8yt86nr    =    (unsigned short)70790601;
     Zp_TPE    =    (unsigned short)380936478;
-    FD3DO805U_    =    1430136347;
+    FD3DO805U_    =    (unsigned short)1430136347;
     JHbTv2he74    =    -403452576;
     urRmEqsOHl    =    2078467641;
     jioE3V6KG    =    (unsigned short)-1005215919;
@@ -63,7 +63,7 @@ int main()
     p4sns_R    =    (unsigned short)-346479698;
     VtH4WF_Z    =    (unsigned short)-725308458;
     B9n32    =    (unsigned short)1849799700;
-    N_b98O    =    -1711986409;
+    N_b98O    =    (unsigned short)-1711986409;
     w2KJtx    =    -697999505;
     V5q_91wT8    =    1016234823;
     g_76N    =    (unsigned short)1048829282;
@@ -73,7 +73,7 @@ int main()
     k2ohoaL9Q    =    (unsigned short)-608572741;
     j89_E56S    =    (unsigned short)-1305056798;
     h8qX786    =    (unsigned short)-1776425029;
-    KpvvZ    =    -1853323916;
+    KpvvZ    =    (unsigned short)-1853323916;
     QTlh7F_4    =    -818253053;
     WL8E    =    144362879;
     IU60GJcs    =    (unsigned short)-2077252983;
@@ -83,7 +83,7 @@ int main()
     rXDA6w    =    (unsigned short)-307772039;
     yc0L    =    (unsigned short)-338048637;
     QC_BSf    =    (unsigned short)-191143273;
-    Dkl5    =    1437228203;
+    Dkl5    =    (unsigned short)1437228203;
     tZiDF    =    -828996042;
     MU_P57elAr    =    1623411498;
     LSS9J4H_9M    =    (unsigned short)504779342;
@@ -93,7 +93,7 @@ int main()
     D8Yp9q    =    (unsigned short)-507550336;
     U765Mel    =    (unsigned short)-1265389411;
     R_t0    =    (unsigned short)155935752;
-    RbpK1nDg    =    -630661372;
+    RbpK1nDg    =    (unsigned short)-630661372;
     UMKX    =    -756214394;
     x96zFdd    =    1959178497;
     e8yX    =    (unsigned short)-2066582731;

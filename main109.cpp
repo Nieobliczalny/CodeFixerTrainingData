@@ -47,7 +47,7 @@ int main(int argc, char** argv)
  unsigned short M8eSX = (unsigned short)-1936251837;
   unsigned short  GFVSm  =  (unsigned short)-1292160729;
  unsigned short pk86A8nW01 = (unsigned short)225128014;
-    short    h9Kw24Y_8    =    -1906537413;
+    short    h9Kw24Y_8    =    (short)-1906537413;
  double hdi8Tt_X6 = -2012444452;
     unsigned int    CRD3Da    =    1285734015;
  short xqFnUIAT = (short)-667455334;

@@ -43,7 +43,7 @@ int main(int argc, char** argv) {
   unsigned short int  VsvXCk  =  (unsigned short)662561295;
  unsigned short int T83VvP = (unsigned short)1741718844;
     char    Q9MId    =    (char)435894942;
-    char    jXOJrL2    =    -76100294;
+    char    jXOJrL2    =    (char)-76100294;
 	unsigned int	utT2a1ks5	=	-1951354168;
     float    i170Wn    =    -916538985;
   unsigned short  YzJ2  =  (unsigned short)346613050;

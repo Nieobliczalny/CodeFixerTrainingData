@@ -140,7 +140,7 @@ cout << "j8t2AH7au" << Hc8XVL << Pfb3(q65VX20YPx, Vxa5, (short)371476204) << pk6
 
 cout << Ej6N3W03Da << rS78KzdnR(q65VX20YPx, Vxa5, (char)279186312, 2068870774, bape_fL77) << endl;
 
-w_0sv6EhF_ = sCIh0DWcDv((short)-1399391245, (char)-570501299, (char)2054071966, (unsigned char)-13171497, 292118416);
+w_0sv6EhF_ = sCIh0DWcDv((short)-1399391245, (char)-570501299, (char)2054071966, (unsigned char)-13171497, (char)292118416);
 
 {
 int i = 0;
@@ -347,7 +347,7 @@ N0CP = sCIh0DWcDv(N0CP, (char)1619217085, (char)1570811425, Hz2sPSn3, (char)6626
 }
 else if ((bape_fL77) || ((fX5_33y != -2020158238) && (dR3f0aAU >= v4XLh)))
 {
-cout << "Za4Z4l71" << Pfb3((char)1446296915, v1NO7NuQ, 451664769) << VaLIG_3_Gr << endl;
+cout << "Za4Z4l71" << Pfb3((char)1446296915, v1NO7NuQ, (short)451664769) << VaLIG_3_Gr << endl;
 }
 else if (g7Fp7R4TU & -1419425968)
 {

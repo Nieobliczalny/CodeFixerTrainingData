@@ -281,7 +281,7 @@ tkj7 = rj8LM(-1396529164, -434658978, (char)-841366500, 1964153979, (unsigned sh
 
 if ((pJfBkl <= -763262238) || (vSk2ceE & 123509531))
 {
-cout << "mUztT" << KFms529Fl << "uVne0r1" << rj8LM(sw9914, 895068975, -1156131078, UN5jh, 59529777) << endl;
+cout << "mUztT" << KFms529Fl << "uVne0r1" << rj8LM(sw9914, 895068975, (char)-1156131078, UN5jh, 59529777) << endl;
 }
 else if (((K2zFpAS5 >= VyzOCf) && (O_2AfO > N_PPk0aY94)) && (X32D9COt2P > 366264876))
 {

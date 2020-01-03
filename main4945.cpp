@@ -314,7 +314,7 @@ case 2:
 vANrWsi = q81WeK((unsigned short)-1919488300, EEx5qWB0Kg, (char)2020814911, (short)-703397388);
 break;
 case 3:
-u8pYJ1m = q81WeK(IPyZs, (unsigned short)-1111799243, RF6VS9Nvt2, -868184041) % 243539488;
+u8pYJ1m = q81WeK(IPyZs, (unsigned short)-1111799243, RF6VS9Nvt2, (short)-868184041) % 243539488;
 break;
 case 4:
 vANrWsi = q81WeK(Tw1vh_uDZm, rYu8L8, -2111041607, p9dCEGP);
@@ -473,7 +473,7 @@ break;
 }
 for (int i = 8; i >= 0; i--)
 {
-vANrWsi = q81WeK((unsigned short)-38131053, (unsigned short)1185895527, sV1zEs, -1393153677);
+vANrWsi = q81WeK((unsigned short)-38131053, (unsigned short)1185895527, sV1zEs, (short)-1393153677);
 }
 
 for (int i = 0; i < 10; i++)

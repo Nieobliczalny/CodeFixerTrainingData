@@ -48,7 +48,7 @@ int main(int argc, char** argv) {
   char  iPAwFz2rlv  =  (char)-1599851017;
  long double YIMDQe = 64543553;
   unsigned short  eGt3FQyNR  =  (unsigned short)1183421719;
- char Upcl = 578798971;
+ char Upcl = (char)578798971;
 	double	axFe5Gq4	=	1660459270;
   double  Jh0Mq8_I0  =  -875030702;
   long  B3j4xh__9  =  900264929;

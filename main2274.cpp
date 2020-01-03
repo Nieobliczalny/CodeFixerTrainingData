@@ -72,7 +72,7 @@ int main() {
     unsigned short    vSwi_vVX7F    =    (unsigned short)1325460891;
     unsigned char    Lv8esgGoz    =    (unsigned char)1728063245;
   char  h8UJ  =  (char)130333606;
-  short int  OaevFBp7  =  1339737377;
+  short int  OaevFBp7  =  (short)1339737377;
   int  S92_xxj  =  1228941213;
  unsigned int DBO84RAL_9 = -745789068;
     unsigned long long    j83p3C    =    862793943;

@@ -26,7 +26,7 @@ int main(int argc, char** argv)
 	rBUgO	=	(unsigned char)-1066959322;
 	Y8z_P74_YP	=	(unsigned char)226097171;
 	n4C6396j	=	(unsigned char)1230284153;
-	VeuhmuAf	=	-2124413889;
+	VeuhmuAf	=	(unsigned char)-2124413889;
 	b0bc	=	790901439;
 	FGPz	=	1183942111;
 	nEO98Y	=	(unsigned char)-1668225831;
@@ -36,7 +36,7 @@ int main(int argc, char** argv)
 	HSbSdMo0	=	(unsigned char)1294626563;
 	EiOpvQY4r	=	(unsigned char)1328495348;
 	iE4h	=	(unsigned char)-1248433270;
-	z4Yj___m3	=	1647352369;
+	z4Yj___m3	=	(unsigned char)1647352369;
 	yyOQl389B	=	-123349126;
 	q0p_569U	=	-1358237824;
 	d44dOj_V	=	(unsigned char)-1035065324;
@@ -46,7 +46,7 @@ int main(int argc, char** argv)
 	J7HbX32	=	(unsigned char)-275664701;
 	SCA7pe1dN3	=	(unsigned char)-331752455;
 	O31cJCeTrP	=	(unsigned char)-491508156;
-	S2vPkolXXS	=	-281721134;
+	S2vPkolXXS	=	(unsigned char)-281721134;
 	r_xlukA	=	-602055555;
 	KrC9_3	=	893029947;
 	G_iHcD_D	=	(unsigned char)-1701184931;
@@ -56,7 +56,7 @@ int main(int argc, char** argv)
 	Fzix3	=	(unsigned char)-976725970;
 	qzwa__m0PJ	=	(unsigned char)-1230918841;
 	b0F6	=	(unsigned char)-1597978099;
-	c9c4	=	161673355;
+	c9c4	=	(unsigned char)161673355;
 	npM27	=	1723804303;
 	c0Dwrls8U_	=	-1389958873;
 	b57GkaSpd	=	(unsigned char)912810744;
@@ -66,7 +66,7 @@ int main(int argc, char** argv)
 	M0A4BvO1	=	(unsigned char)-454610372;
 	Lq9a90UX4P	=	(unsigned char)1737432629;
 	ryTukoZ6	=	(unsigned char)-1296850674;
-	zu301_R	=	-1249387838;
+	zu301_R	=	(unsigned char)-1249387838;
 	Met9b	=	-1363862676;
 	D5JhSX94T	=	702181793;
 	HBnIVX1q	=	(unsigned char)-1892443873;
@@ -76,7 +76,7 @@ int main(int argc, char** argv)
 	Br609L96	=	(unsigned char)211501231;
 	bVD1qE	=	(unsigned char)1501913426;
 	sWuk3z	=	(unsigned char)1698507684;
-	zbHz	=	1602133549;
+	zbHz	=	(unsigned char)1602133549;
 	f129MrQ5P	=	-697897614;
 	VRA8Cxfd_7	=	960471483;
 	oT4e0	=	(unsigned char)-1926682996;
@@ -86,7 +86,7 @@ int main(int argc, char** argv)
 	mog9d51xAl	=	(unsigned char)-427197779;
 	DnPO99ioVB	=	(unsigned char)-1270743002;
 	rq9xYlEE	=	(unsigned char)-1527839658;
-	soan	=	2107448214;
+	soan	=	(unsigned char)2107448214;
 	B78z	=	-1578352812;
 	v9_6Q8	=	501838638;
 	V_jTva	=	(unsigned char)892369344;

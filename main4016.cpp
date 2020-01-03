@@ -26,7 +26,7 @@ int main() {
 	urw3izDaw	=	(unsigned char)-2134602458;
 	PUC26H1	=	(unsigned char)-336201428;
 	F75U	=	(unsigned char)-877975715;
-	L3rmNkU67	=	-639660679;
+	L3rmNkU67	=	(unsigned char)-639660679;
 	PUKW3R	=	-1350890319;
 	MIt1	=	-874583595;
 	Yy3_	=	(unsigned char)1547922039;

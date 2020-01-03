@@ -62,7 +62,7 @@ int main(void) {
  short St658Z = (short)1738398476;
   short  mZmI1_qH  =  (short)-610300056;
 	char	GlQN9k1P	=	(char)-1972875751;
- unsigned char F3Dg9 = 979590492;
+ unsigned char F3Dg9 = (unsigned char)979590492;
  unsigned int bu_2ve1YqB = -213311339;
  long long uc0Hm = 14698424;
 	double	tTC20v9sR	=	-1572147020;

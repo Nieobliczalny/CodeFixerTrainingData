@@ -93,7 +93,7 @@ int main()
  long z6n3IBE7 = 2102515061;
     unsigned short    Qb5YBxV03    =    (unsigned short)-1648052232;
     short int    A2_2q35u_    =    (short)-1754381959;
- unsigned short NBd66 = 352456576;
+ unsigned short NBd66 = (unsigned short)352456576;
 	long long	FW66euRU7u	=	424527478;
  long veV8oo = 1758656732;
  long tGft = 2054966699;

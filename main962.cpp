@@ -23,7 +23,7 @@ int main(void) {
 	unsigned char	O5BEx	=	(unsigned char)973269558;
 	unsigned short	m45UHfSN_0	=	(unsigned short)607018328;
   unsigned short  av7g9_I9F_  =  (unsigned short)1127267928;
- unsigned short QFF16sc = 2071780092;
+ unsigned short QFF16sc = (unsigned short)2071780092;
     unsigned long long    O6594JijXJ    =    -2106149220;
  double Q1iVwZtW0 = 993009182;
     unsigned long long    KMbJ6d    =    0;

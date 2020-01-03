@@ -92,7 +92,7 @@ int main()
   char  hiTTD  =  (char)99929399;
  unsigned char jsdG2DUMk = (unsigned char)1182717760;
     short int    Pf4r0    =    (short)-2071115806;
-	char	U95BB	=	-1031649987;
+	char	U95BB	=	(char)-1031649987;
  long double IY7vBj5H1X = 1161298466;
     short int    gTsMj4psH    =    (short)-1940209254;
     char    mX2RHQ98L    =    (char)-732958088;

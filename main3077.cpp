@@ -25,7 +25,7 @@ int main(void)
 	m807TP	=	(char)693294404;
 	R07_1LI3sd	=	(char)2040671341;
 	lD9S	=	(char)-686297738;
-	qq_r1EH7L	=	-339059539;
+	qq_r1EH7L	=	(char)-339059539;
 	w4a9sn8Z	=	2048215822;
 	QWf8	=	-1395487969;
 	kbgZ211	=	(char)1569581768;
@@ -35,7 +35,7 @@ int main(void)
 	S11E8vs6k	=	(char)255399357;
 	vq_o5	=	(char)-549741772;
 	B5v0b3	=	(char)-9808571;
-	nE2W3Nm0V	=	1616457234;
+	nE2W3Nm0V	=	(char)1616457234;
 	N6oUe4c	=	-1428114998;
 	UoPHR7g	=	2064344907;
 	rPuTB1	=	(char)486702656;
@@ -45,7 +45,7 @@ int main(void)
 	s93z	=	(char)856941664;
 	q706	=	(char)231593570;
 	Shy5h30I	=	(char)-1474461870;
-	Wh8EhKe2	=	-1758155195;
+	Wh8EhKe2	=	(char)-1758155195;
 	DRC925WA6	=	1536488913;
 	GjqeKxc69	=	-688225974;
 	VY071	=	(char)242723479;
@@ -55,7 +55,7 @@ int main(void)
 	O_7xKaC	=	(char)-481792753;
 	AJ35JAKtI6	=	(char)953519289;
 	dYo4W_VJN8	=	(char)-1461476324;
-	xz61b	=	-969581554;
+	xz61b	=	(char)-969581554;
 	l5WC316gna	=	719682761;
 	L904z	=	-140276074;
 	OddFfx	=	(char)1057673707;
@@ -65,7 +65,7 @@ int main(void)
 	vG5orEs1	=	(char)-1926738923;
 	YyXU4Bk	=	(char)1396604232;
 	D1vT2hg	=	(char)782076310;
-	lcw8	=	680112084;
+	lcw8	=	(char)680112084;
 	R0I_0	=	1723688194;
 	lOAgF44C9	=	622218063;
 	sA4Vd	=	(char)596826157;
@@ -75,7 +75,7 @@ int main(void)
 	Zc4E	=	(char)89230461;
 	P__q8	=	(char)-1917265965;
 	BsAl3	=	(char)1350261533;
-	XqL9u	=	1873402484;
+	XqL9u	=	(char)1873402484;
 	i1BCcuMY9	=	-746258028;
 	LG6W_u2g	=	-1562421097;
 	B2wk0	=	(char)-1333432831;
@@ -85,7 +85,7 @@ int main(void)
 	nhfc03i_	=	(char)1037872231;
 	cC_RHN9	=	(char)-1006264694;
 	IPE2Xn_	=	(char)1906445323;
-	zEyV_j	=	1768968877;
+	zEyV_j	=	(char)1768968877;
 	k09w380	=	1093353596;
 	EDZrT_PSyT	=	-1693198744;
 	CYU_A4OkUj	=	(char)-1832429006;
@@ -95,7 +95,7 @@ int main(void)
 	y17H1qG	=	(char)-374640199;
 	dRP7S4	=	(char)-780809699;
 	AT9no8	=	(char)1524487320;
-	EFstHHk7_F	=	76603322;
+	EFstHHk7_F	=	(char)76603322;
 	q3swBSh	=	-234367195;
 	WM700R83xT	=	-1956219162;
 	q4hcKB42	=	(char)1872074518;
@@ -105,7 +105,7 @@ int main(void)
 	kU8e9C0x7	=	(char)721732080;
 	ZwS48	=	(char)998839912;
 	GCjB56D1d_	=	(char)1971317728;
-	vOgt	=	1576541175;
+	vOgt	=	(char)1576541175;
 	QW_7dqd911	=	-942083767;
 	H5Z4T	=	2012700336;
 	kSi_	=	(char)1890224920;

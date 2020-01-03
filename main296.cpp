@@ -113,7 +113,7 @@ ajzdwZR8_ = uqMYY((char)1495400317, (short)1117645779, (unsigned short)-12766287
 break;
 case 'c':
 case 'C':
-noU9w29C_f = uqMYY((char)-617989938, (short)1144156657, 87646797);
+noU9w29C_f = uqMYY((char)-617989938, (short)1144156657, (unsigned short)87646797);
 break;
 case 'd':
 case 'D':

@@ -42,7 +42,7 @@ int main(void) {
 	unsigned short	k0M1	=	(unsigned short)1761968365;
 	unsigned short int	TkRv2o	=	(unsigned short)-1838618560;
 	unsigned short int	Io47cP	=	(unsigned short)1913472486;
- short ejB2 = 33729274;
+ short ejB2 = (short)33729274;
 	unsigned long	H36UW	=	-1726980433;
   float  X660UIwb  =  -1792920366;
  char dR_2 = (char)-316758011;

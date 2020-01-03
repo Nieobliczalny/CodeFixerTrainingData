@@ -31,7 +31,7 @@ int main(int argc, char** argv) {
 	P_aW	=	(unsigned short)-700234240;
 	G1Vjx7	=	(unsigned short)1840247628;
 	Xr_W4w	=	(unsigned short)-479002271;
-	KJ3vh3c	=	-1067081081;
+	KJ3vh3c	=	(unsigned short)-1067081081;
 
 switch (U3a30O)
 {

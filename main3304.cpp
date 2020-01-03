@@ -384,7 +384,7 @@ while (i < 3);
 
 if (A0ia06((short)1619729519, -370239642, (unsigned char)466519451, e5R8nV6q1y) == 0)
 {
-	WX_WR8 = A0ia06(cuv11e1_L, WX_WR8, (unsigned char)272226003, (char)-352587593) / A0ia06(1619729519, -370239642, 466519451, e5R8nV6q1y);
+	WX_WR8 = A0ia06(cuv11e1_L, WX_WR8, (unsigned char)272226003, (char)-352587593) / A0ia06((short)1619729519, -370239642, 466519451, e5R8nV6q1y);
 }
 for (int i = 9; i >= 0; i--)
 {

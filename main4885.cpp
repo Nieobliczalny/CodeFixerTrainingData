@@ -43,7 +43,7 @@ int main()
 	p_NrXD2AB	=	(short)229768695;
 	I11ECM_YF	=	(short)-724630500;
 	d8Aw_G	=	(short)-338746315;
-	QQlfLsFO4	=	-1980868499;
+	QQlfLsFO4	=	(short)-1980868499;
 	iD_NV1	=	-1262933764;
 	qca660q	=	-772641085;
 	W64FMoRmi3	=	(short)45109195;
@@ -53,7 +53,7 @@ int main()
 	yO7B7s72	=	(short)1382574727;
 	xhAl3	=	(short)1545047149;
 	hYaw_j70	=	(short)1524287563;
-	ngk_tn47M	=	-1523919986;
+	ngk_tn47M	=	(short)-1523919986;
 	sm5t3	=	1898537446;
 	ovYV	=	-407426596;
 	Lg6vOPAU	=	(short)1438136768;
@@ -63,7 +63,7 @@ int main()
 	B_zbjUt	=	(short)-1196033980;
 	R7252n	=	(short)1693675971;
 	hTa8yw_	=	(short)695899846;
-	U00W	=	-665846773;
+	U00W	=	(short)-665846773;
 	IGx9y	=	462005757;
 	du5SyCI3m	=	452343980;
 	e901uxNo	=	(short)-1498078239;
@@ -73,7 +73,7 @@ int main()
 	oOmV77_s6	=	(short)1898584571;
 	j8h10ZLf	=	(short)-1946894464;
 	Lprq	=	(short)44594011;
-	D4J21g	=	-470551529;
+	D4J21g	=	(short)-470551529;
 	BUk8bsPu	=	833885115;
 	pof3Ai	=	427550606;
 	c5S99g0	=	(short)-403801198;
@@ -83,7 +83,7 @@ int main()
 	jSqnBTYM40	=	(short)1971353972;
 	HlDYn_lr	=	(short)-1082694913;
 	B06OE	=	(short)1476549802;
-	D9xH	=	-1820033413;
+	D9xH	=	(short)-1820033413;
 	q86T9iic_	=	-1652581098;
 	QXfrLZZy3	=	578483383;
 	qa5_NW5U7y	=	(short)1497317189;
@@ -93,7 +93,7 @@ int main()
 	B_fw	=	(short)-1319918159;
 	CO4qh	=	(short)1298303713;
 	gE_uJ5	=	(short)-350056208;
-	OP68OsQ	=	-632511193;
+	OP68OsQ	=	(short)-632511193;
 	Oy60Hj88	=	438753234;
 	Doncwm3j5	=	-1098179179;
 	f_7O_3_	=	(short)330843666;
@@ -103,7 +103,7 @@ int main()
 	dp_m2Vcy0j	=	(short)1236239706;
 	up6LL	=	(short)-1624822231;
 	dCw6X77o6Z	=	(short)835190833;
-	x8aC4X	=	-1551794103;
+	x8aC4X	=	(short)-1551794103;
 	LcIl6MuylB	=	1161883753;
 	ESA23s	=	-525743070;
 	N06dUI	=	(short)-527062784;
@@ -113,7 +113,7 @@ int main()
 	DpF_	=	(short)-1968091255;
 	q3FK_Wv8	=	(short)1167383533;
 	xT7au	=	(short)-1669205156;
-	dwChwTLF	=	-101667673;
+	dwChwTLF	=	(short)-101667673;
 	S_pV	=	-1285430078;
 	O95_	=	-955447306;
 	Gzj71	=	(short)1617023737;
@@ -123,7 +123,7 @@ int main()
 	txK_3U	=	(short)-697463263;
 	DxC4D	=	(short)186428719;
 	qHKi6IU3	=	(short)1318141397;
-	zz91	=	1683510007;
+	zz91	=	(short)1683510007;
 	CSwC5Q	=	1370030344;
 	tpr59C	=	-381684795;
 	F1Sc5eW_fv	=	(short)-1025242934;

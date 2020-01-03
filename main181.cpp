@@ -109,7 +109,7 @@ int main(int argc, char** argv)
     short int    Gf117    =    (short)-1150233139;
   short int  zFljfWZx0  =  (short)1435202624;
 	unsigned char	uDAOfu	=	(unsigned char)-456981604;
-	char	x3BmuzG17	=	125398137;
+	char	x3BmuzG17	=	(char)125398137;
     long double    BWo6W    =    1981556220;
 
 {

@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
     unsigned short    wxsx    =    (unsigned short)-54430409;
 	short	lfuWs	=	(short)1873642050;
     unsigned char    R9DO_UC    =    (unsigned char)-2094852847;
-    unsigned short    NC8f8    =    1439897035;
+    unsigned short    NC8f8    =    (unsigned short)1439897035;
   long double  NmDGz  =  -1449463618;
 	unsigned short	r3_k	=	(unsigned short)172995136;
 	short int	Eixpke1HqF	=	(short)558616152;

@@ -249,7 +249,7 @@ case 4:
 FljYCMT6r2 = UTUx0((unsigned short)-1596899938, YKC8FQBs, ix0dnas1p, (unsigned short)-2041092498, (unsigned short)722689956);
 break;
 case 5:
-N4vsnU_m = UTUx0(N4vsnU_m, (unsigned short)681104868, -1535683514, (unsigned short)1523608725, 1337129864);
+N4vsnU_m = UTUx0(N4vsnU_m, (unsigned short)681104868, -1535683514, (unsigned short)1523608725, (unsigned short)1337129864);
 break;
 }
 
@@ -650,7 +650,7 @@ case 'd':
 Ajn0F *= 1138685474;
 break;
 case 'e':
-cZZpt4 = YKI488RAa3(cZZpt4, BjSEZ, (short)2040727001, -523594860, xFKLS4);
+cZZpt4 = YKI488RAa3(cZZpt4, BjSEZ, (short)2040727001, (char)-523594860, xFKLS4);
 break;
 case 'f':
 TEk0A38T *= 43279532;

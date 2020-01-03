@@ -21,7 +21,7 @@ int main(void) {
     ygzg9_    =    (char)477191950;
     F4iwhD    =    (char)1465372908;
     ok0rWIS    =    (char)-1551684817;
-    ft_kdl    =    680989234;
+    ft_kdl    =    (char)680989234;
     u2A7Du5T    =    1281973920;
     yyu_74R    =    1779120037;
     NvEkne5_To    =    (char)-842985441;
@@ -31,7 +31,7 @@ int main(void) {
     Nujk_    =    (char)695786508;
     ixG3VBh    =    (char)116398980;
     ij7FH    =    (char)524975527;
-    iTVbVFeu    =    -1218089954;
+    iTVbVFeu    =    (char)-1218089954;
     B0u93pmnOR    =    1523727583;
     bzLec4F5Ef    =    1672016728;
     sJ4wv5    =    (char)-1660729421;
@@ -41,7 +41,7 @@ int main(void) {
     DzwCFtG    =    (char)532683740;
     yzruR1OE    =    (char)-468428860;
     t64BX    =    (char)-1380833989;
-    Na18    =    859929463;
+    Na18    =    (char)859929463;
     w_13dsqh    =    -513737957;
     y6gR9    =    -1687560342;
     o9b7eTkn    =    (char)1252374866;
@@ -51,7 +51,7 @@ int main(void) {
     y510cBHK06    =    (char)555620032;
     O0n75u    =    (char)-2104127995;
     t11M235    =    (char)1576173793;
-    vG6cjHeNub    =    1062497561;
+    vG6cjHeNub    =    (char)1062497561;
     rcs3R2n    =    615759657;
     X6JE3pf2    =    1956560817;
     p_TJS85    =    (char)1656010792;
@@ -61,7 +61,7 @@ int main(void) {
     I4F0A    =    (char)-701350549;
     OT_FVb4    =    (char)286121245;
     vldy    =    (char)1169700744;
-    kwLQ_Q    =    -373855097;
+    kwLQ_Q    =    (char)-373855097;
     oGTX_    =    -752611339;
     R5tg6Y6Ij8    =    -415963030;
     c5U32    =    (char)-345548179;
@@ -71,7 +71,7 @@ int main(void) {
     B_XrH3Z9y9    =    (char)690433302;
     qied3    =    (char)561046506;
     XEaEp    =    (char)-90428661;
-    oDP3z8d    =    -914739211;
+    oDP3z8d    =    (char)-914739211;
     WSN6eboM    =    1752893147;
     V4Js94BD8    =    506932006;
     L98VEq85E    =    (char)576442142;
@@ -81,7 +81,7 @@ int main(void) {
     lY092C3rjv    =    (char)-677676731;
     o3X9    =    (char)-1944062375;
     yve_n7H9    =    (char)1151224135;
-    fWGI265a1    =    699393068;
+    fWGI265a1    =    (char)699393068;
     long    k78m0Sq,    QL8PpN_,    sL54d836,    bGsB3W;
     k78m0Sq    =    0;
     QL8PpN_    =    0;

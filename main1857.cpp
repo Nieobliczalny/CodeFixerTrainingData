@@ -63,7 +63,7 @@ int main(void) {
 	short int	sp_f_5B4v7	=	(short)1602840344;
     long double    IH_MGc    =    -455214919;
     unsigned char    Q_JQZ    =    (unsigned char)-1333462572;
-  short int  MO2q1m_  =  927943729;
+  short int  MO2q1m_  =  (short)927943729;
 	unsigned short	XOjG2Zs74	=	(unsigned short)1996479498;
     char    Wk9w    =    (char)-1742877207;
 	unsigned long long	saQ3	=	-450831562;
@@ -78,7 +78,7 @@ int main(void) {
     long double    g1Fzq8    =    -1733605616;
     char    K7S0H36Qf    =    (char)-484959123;
   unsigned long  PjqCqgH  =  -10051982;
-	char	MaUn6j	=	1605437482;
+	char	MaUn6j	=	(char)1605437482;
  int Dvag2iOZ = 742935810;
 	unsigned char	Unu9I3D	=	(unsigned char)624292154;
     long double    bK5rrQLT    =    796199992;

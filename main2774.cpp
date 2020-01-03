@@ -434,7 +434,7 @@ case 3:
 QFOC3hy4 = U30gPi((unsigned char)452985156, PDxw, qP4Fpp, eHIUo6VIk, c2ZRWwupMf);
 break;
 case 4:
-ILQd = d8tNH4(ILQd, (short)1454155577, c2ZRWwupMf, cq_zkS1zC6, 1398518635);
+ILQd = d8tNH4(ILQd, (short)1454155577, c2ZRWwupMf, cq_zkS1zC6, (char)1398518635);
 break;
 case 5:
 g80H72o = (B67R > pFg_f61P3) ? kkB2G642 : G6I3TR;

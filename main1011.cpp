@@ -28,7 +28,7 @@ int main(void)
 	short int	fso_3R	=	(short)334144204;
 	unsigned char	W9ttd	=	(unsigned char)350303794;
  double O_MI7Q7Me = -533620105;
- unsigned char y48kh5q = 1664489344;
+ unsigned char y48kh5q = (unsigned char)1664489344;
     unsigned short int    Xb_Jy20b    =    (unsigned short)-1539076378;
   unsigned long  v7en3iY0XG  =  -375674146;
  unsigned long Qx0p1o = -140020447;

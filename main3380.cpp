@@ -351,7 +351,7 @@ case 1:
 UQdX = C72Z1(FMoy_1Sp, (unsigned short)905319930, (unsigned short)-1861066561, -408700720, (short)-1157523676) << 992242070;
 break;
 case 2:
-yK32UZS_8a = C72Z1((unsigned short)520413801, (unsigned short)-77639326, -1332714414, EsH2_2k69x, ML799jz);
+yK32UZS_8a = C72Z1((unsigned short)520413801, (unsigned short)-77639326, (unsigned short)-1332714414, EsH2_2k69x, ML799jz);
 break;
 case 3:
 UQdX = (int)abs(FMoy_1Sp);

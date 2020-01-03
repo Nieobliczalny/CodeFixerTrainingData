@@ -25,7 +25,7 @@ int main(void) {
  Ta1om4Dl = (unsigned char)-897887933;
  Wr4D85W__ = (unsigned char)-1256306086;
  JoZw5y2Pb = (unsigned char)-1855072029;
- OV4OP9 = 85662986;
+ OV4OP9 = (unsigned char)85662986;
  oML8juGW = -1493130567;
  v310BA221 = 2137860104;
  aI_8pJi = (unsigned char)896625912;

@@ -19,7 +19,7 @@ int main(void)
     s6T56iWE    =    (short)1203437973;
     j5mHsE    =    (short)-2026603576;
     H06p007KTF    =    (short)-1025584140;
-    zp15ZS    =    -1148025956;
+    zp15ZS    =    (short)-1148025956;
     YsUz5IGWT    =    -1017736213;
     vFCx4Z9    =    -951516906;
     c_nqw1Qr    =    (short)1565765066;
@@ -29,7 +29,7 @@ int main(void)
     GmzWKXr    =    (short)-2017481438;
     itLf7q    =    (short)804245724;
     R0GvA72Y    =    (short)1569388604;
-    lPC__T    =    15635161;
+    lPC__T    =    (short)15635161;
     V9oM78MU    =    701354803;
     Rm5K9P19    =    -1905163465;
     DWqltV5    =    (short)160120171;

@@ -90,7 +90,7 @@ int main(int argc, char** argv)
 	unsigned char	tg8s	=	(unsigned char)1570042897;
  unsigned short Qw1eu8Uc6U = (unsigned short)1679514436;
   unsigned char  BfZ_4QQ3  =  (unsigned char)741956904;
- short tYD9b = 887500128;
+ short tYD9b = (short)887500128;
   float  K2ZB75_Ht7  =  1727001519;
 	short int	SRP0	=	(short)86661827;
   long  ZGtvTI  =  -2104629738;

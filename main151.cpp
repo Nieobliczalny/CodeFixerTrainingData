@@ -102,7 +102,7 @@ int main() {
     unsigned short int    nosKjFg7    =    (unsigned short)-1177700729;
   short  nXtH  =  (short)320988432;
 	unsigned short	njGW	=	0;
- unsigned char uX5854TO0 = 1995500727;
+ unsigned char uX5854TO0 = (unsigned char)1995500727;
 	int	p6H1js	=	-1976874294;
   unsigned long long  T3Xg2T0q_  =  0;
 	short int	RUt6j03	=	(short)1822915430;

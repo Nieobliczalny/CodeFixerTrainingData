@@ -50,7 +50,7 @@ int main()
     unsigned long long    Jl_YA8_    =    786726808;
     unsigned char    IZ4u    =    (unsigned char)1371935140;
 	unsigned char	xbeoulh	=	(unsigned char)830796556;
-  unsigned short  gAWCIP6_I  =  -1129257616;
+  unsigned short  gAWCIP6_I  =  (unsigned short)-1129257616;
     long    yG07PEl1    =    -356630266;
     float    uZhups    =    2132158828;
     short    lbYk    =    (short)-481215846;

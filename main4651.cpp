@@ -50,7 +50,7 @@ int main(int argc, char** argv) {
   short  D6NIK  =  (short)-1937779513;
     long long    W6Db_GwR    =    0;
   unsigned char  QAIbHy0D  =  (unsigned char)1867987505;
-	char	UIKZu	=	-2115052574;
+	char	UIKZu	=	(char)-2115052574;
  long double f2oASR5 = 1222612617;
 	unsigned short	HEXQX03r	=	(unsigned short)838502631;
   double  bVPE_I7Rg5  =  522385872;

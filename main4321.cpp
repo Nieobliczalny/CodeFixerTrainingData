@@ -300,7 +300,7 @@ break;
 }
 else if ((qsD4ED) || ((EI17RH) && (xs5fuk8 != -2087020788)))
 {
-okV_SO = f0_CEFVwu((short)1066968348, 792588848, ANNMF);
+okV_SO = f0_CEFVwu((short)1066968348, (char)792588848, ANNMF);
 }
 else if (EPGSZ33x <= 1289510492)
 {

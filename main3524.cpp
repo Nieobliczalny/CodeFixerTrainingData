@@ -83,7 +83,7 @@ int main() {
   unsigned short int  OQgF  =  (unsigned short)854107350;
   long long  PXxx648  =  1035536120;
 	short int	g6L9	=	(short)366313029;
-    short    xt99    =    1218229884;
+    short    xt99    =    (short)1218229884;
  unsigned short neTA47E = (unsigned short)-1386723583;
  unsigned short int AJnc6SF3D_ = (unsigned short)333702820;
 	double	PUEw092	=	146855991;

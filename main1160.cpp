@@ -234,7 +234,7 @@ std::cout << bx2_((unsigned short)-1282712192, LeH_bB2_, C56K2zGNx, -1494685105,
 
 if (bx2_((unsigned short)1399458750, (unsigned char)1284654287, (unsigned short)1546814768, iV71_, 1235647773) == 0)
 {
-	Q601_3h8 = daJ6u / bx2_(1399458750, 1284654287, 1546814768, iV71_, 1235647773);
+	Q601_3h8 = daJ6u / bx2_((unsigned short)1399458750, 1284654287, 1546814768, iV71_, 1235647773);
 }
 
 o7s6v1x = (int)(zOw0Uc);
@@ -282,7 +282,7 @@ break;
 }
 
 Nwy4gUV = bx2_(gLV_PcU_6H, (unsigned char)25946728, (unsigned short)-807718525, O68KS7, 1372384913);
-Nwy4gUV = bx2_((unsigned short)1007717322, -1736185445, IEtNPP, o7s6v1x, 1331069259);
+Nwy4gUV = bx2_((unsigned short)1007717322, (unsigned char)-1736185445, IEtNPP, o7s6v1x, 1331069259);
 
 rW8ZXh %= Gk08AB;
 

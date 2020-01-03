@@ -56,7 +56,7 @@ int main(int argc, char** argv) {
 	short	Fv5unRX	=	(short)2123874726;
 	unsigned char	o209sb	=	(unsigned char)1871156822;
 	short int	V11v4	=	(short)-906512238;
-    unsigned short    TPk5k_N    =    -297082913;
+    unsigned short    TPk5k_N    =    (unsigned short)-297082913;
     unsigned short    gUy4_01G    =    (unsigned short)-1076091911;
     long    b7LBuz    =    1999125390;
 	unsigned char	S5tSKd	=	(unsigned char)2100839172;

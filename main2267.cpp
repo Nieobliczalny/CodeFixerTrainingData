@@ -350,7 +350,7 @@ case 5:
 OFDG132++;
 break;
 case 6:
-c4rDM164_c = H40jPnL((unsigned short)1333451152, JDoUT0j, -650776107);
+c4rDM164_c = H40jPnL((unsigned short)1333451152, JDoUT0j, (short)-650776107);
 break;
 case 7:
 OFDG132 = c4rDM164_c & 1736017790;

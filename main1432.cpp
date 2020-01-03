@@ -388,7 +388,7 @@ case 5:
 lgLyfLP3hH = h_s3rR6((short)-1053387151, (short)-1746832978, -143192935);
 break;
 case 6:
-vJC5g = hsPz66zmle(vJC5g, -558066528, TLb643, 2006769008, E4qu_5yf);
+vJC5g = hsPz66zmle(vJC5g, (short)-558066528, TLb643, 2006769008, E4qu_5yf);
 break;
 case 7:
 t7IF0Gw_12 = h_s3rR6((short)1000139355, (short)350711347, TLb643) + 368693595;

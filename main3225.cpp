@@ -613,7 +613,7 @@ oXl6o7DXP = jy4nh6G6b(-918052407, (short)107241624, (unsigned short)-1978699734,
 break;
 case 'i':
 case 'I':
-oXl6o7DXP = jy4nh6G6b(997265543, oXl6o7DXP, (unsigned short)-1654223700, 1911257168, 1574285965);
+oXl6o7DXP = jy4nh6G6b(997265543, oXl6o7DXP, (unsigned short)-1654223700, (unsigned char)1911257168, 1574285965);
 break;
 default:
 jl4ae6aGdJ = WV6Op1n8((unsigned short)412324724, jl4ae6aGdJ);
@@ -761,7 +761,7 @@ jl4ae6aGdJ = He725YzN((char)-1884301898, (unsigned short)-527215312, (unsigned c
 break;
 case 'd':
 case 'D':
-oXl6o7DXP = jy4nh6G6b(-1474951963, (short)493186062, (unsigned short)935496648, 1232904123, -1608751178);
+oXl6o7DXP = jy4nh6G6b(-1474951963, (short)493186062, (unsigned short)935496648, (unsigned char)1232904123, -1608751178);
 break;
 default:
 jl4ae6aGdJ = jl4ae6aGdJ * 893670309;

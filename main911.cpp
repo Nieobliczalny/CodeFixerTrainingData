@@ -99,7 +99,7 @@ int main() {
 	unsigned short int	x6Z89j	=	(unsigned short)373619760;
 	char	hlhYk0q	=	(char)2082836394;
 	char	YTPo3E1o	=	(char)-1067998008;
-  short int  Wx0x  =  1180135077;
+  short int  Wx0x  =  (short)1180135077;
     unsigned long long    ppCqV    =    1845350415;
  float UXU_i6S8 = -609095288;
  long long no2b = -1566422647;

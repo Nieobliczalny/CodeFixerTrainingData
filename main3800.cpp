@@ -33,7 +33,7 @@ int main(int argc, char** argv)
  unsigned short En72Ya = (unsigned short)1194248771;
   float  zfgBgK  =  -2089954479;
     unsigned short    FqHEt    =    (unsigned short)-222543282;
-    short    zxl_50    =    1040303272;
+    short    zxl_50    =    (short)1040303272;
  unsigned short int GoIzRy = 1633559303;
   unsigned int  dG6R_F7  =  -1744476553;
     short int    K92aA_gS    =    (short)-1286494409;

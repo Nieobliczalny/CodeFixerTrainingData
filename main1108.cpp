@@ -49,7 +49,7 @@ int main(void) {
   short  NxLVHnOMvy  =  (short)1646840091;
   unsigned short  qhfJIov  =  (unsigned short)-1480252994;
  short R2ud = (short)1307748678;
-	short	FWZb	=	-666791717;
+	short	FWZb	=	(short)-666791717;
     double    CoVHTl604    =    -266417627;
  unsigned char fXXRYvG = (unsigned char)567571863;
   char  pb07855  =  (char)-461930879;

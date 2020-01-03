@@ -32,7 +32,7 @@ int main() {
     GWt9y    =    (char)-1151819032;
     hfC_    =    (char)-690800273;
     c24ru5cx    =    (char)1605856808;
-    H92bt4S61    =    594926847;
+    H92bt4S61    =    (char)594926847;
     vJP2Y_A_    =    1564601495;
     qHIQ    =    1998427278;
     Cs68    =    (char)78451643;
@@ -42,7 +42,7 @@ int main() {
     vYLMu    =    (char)1268129391;
     zUJcj    =    (char)623240287;
     V0l3Lhs0    =    (char)375817148;
-    Sjne4DOmVS    =    -2005355324;
+    Sjne4DOmVS    =    (char)-2005355324;
     zyuK4bMAj8    =    -755484036;
     Tk43U2    =    1713453424;
     L697g    =    (char)-1899095063;
@@ -52,7 +52,7 @@ int main() {
     I9Tg5U9    =    (char)1192465814;
     l75SV    =    (char)1676465481;
     DgOuPnZ    =    (char)118928624;
-    jG5jOUc    =    -458836042;
+    jG5jOUc    =    (char)-458836042;
     dTnqP    =    692693760;
     hq0Fr_30    =    1784829090;
     VDu29S6R0f    =    (char)-1165068187;
@@ -62,7 +62,7 @@ int main() {
     hIPN_    =    (char)-1361776218;
     cGZH    =    (char)1700353457;
     Nr92jUe2    =    (char)357322341;
-    phIO0    =    -1477982847;
+    phIO0    =    (char)-1477982847;
     Xrk9llxR6    =    -579944627;
     zxJ6    =    -1640471640;
     zM4M_u    =    (char)41517559;
@@ -72,7 +72,7 @@ int main() {
     mOq9k294    =    (char)298992596;
     CDc8uf97v    =    (char)-46299146;
     r2kB7h64n    =    (char)-564689061;
-    U49j8    =    -314486086;
+    U49j8    =    (char)-314486086;
     JTCH7v5    =    532582812;
     G9_K9TNA    =    -1587035770;
     C9gPR    =    (char)2105802192;
@@ -82,7 +82,7 @@ int main() {
     TBcQp6    =    (char)-963220271;
     G_YQK    =    (char)1643540352;
     k_50    =    (char)1320200562;
-    PfcU59    =    391087809;
+    PfcU59    =    (char)391087809;
     UFQgFl    =    -910843730;
     qwYZH8    =    1894276946;
     w8LK14    =    (char)-729702207;
@@ -92,7 +92,7 @@ int main() {
     jW32MRil    =    (char)-1226682592;
     RfJ7BC    =    (char)-920802406;
     slJRb11S    =    (char)-826594823;
-    y6_n    =    -557984851;
+    y6_n    =    (char)-557984851;
 
 Xrk9llxR6 = yNl4CGK9(-935307883, 226821662, -343374660);
 

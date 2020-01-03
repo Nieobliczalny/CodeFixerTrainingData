@@ -188,7 +188,7 @@ B2zU_w3U4 = (int)floor(jX8v);
 }
 else if ((wvn72 <= -1629765539) || ((jaY7 == 1415427476) || (d0_0q8pi80 <= Vt_RJi7n)))
 {
-IVzKrJix = wt4FN((short)1453873039, (short)-704738925, jlTh_de48y, (unsigned char)820898117, 1527695348);
+IVzKrJix = wt4FN((short)1453873039, (short)-704738925, jlTh_de48y, (unsigned char)820898117, (unsigned short)1527695348);
 }
 else
 {

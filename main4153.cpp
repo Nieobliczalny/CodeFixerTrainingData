@@ -57,7 +57,7 @@ int main(void) {
 	short	Eu6_FM	=	(short)714516531;
  short int Rq8_gRxiR = (short)-1426533942;
 	unsigned short	caQV1Uj3	=	(unsigned short)1287141664;
-    short    noS43uUl95    =    74169993;
+    short    noS43uUl95    =    (short)74169993;
  unsigned char tX97as1 = -1302552664;
 	long double	x9FZ1eR_7	=	-89403234;
 	unsigned char	pORgjS03Dq	=	(unsigned char)-1184482147;

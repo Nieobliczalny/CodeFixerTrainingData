@@ -79,7 +79,7 @@ int main()
  int pE5QuDW7 = -1622919066;
  short DTnh8xIQ = (short)-1571810606;
  char q3h9yLjt = (char)-798343011;
-  unsigned short int  CvrN  =  -1762403742;
+  unsigned short int  CvrN  =  (unsigned short)-1762403742;
 	unsigned int	x0PS6_zZ	=	1987803850;
  unsigned short int CW4wzbO = (unsigned short)-1210349294;
 	long long	ty0m	=	845530776;

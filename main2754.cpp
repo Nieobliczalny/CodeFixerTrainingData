@@ -46,7 +46,7 @@ int main(int argc, char** argv)
 	q0R5	=	(unsigned char)-1482126127;
 	LK214xQg1	=	(unsigned char)-206372629;
 	RbMgt51SB	=	(unsigned char)-752364672;
-	G100	=	-921132569;
+	G100	=	(unsigned char)-921132569;
 	IB9v95bK	=	-1876620176;
 	oIbm2W	=	-152533009;
 	e85Q	=	(unsigned char)1505248717;

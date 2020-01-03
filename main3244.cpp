@@ -72,7 +72,7 @@ int main(void)
  short o4KBm7zGw = (short)704856979;
     short int    Rz47uLb    =    (short)-1283621385;
 	short	P09SDBVZ	=	(short)859939817;
-  short int  J9f_B  =  -707705912;
+  short int  J9f_B  =  (short)-707705912;
 	unsigned int	obWzx	=	-1506007898;
     double    DO6_    =    -1081209856;
  long double EvyiL5RYzl = -1673661553;

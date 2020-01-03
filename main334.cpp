@@ -33,7 +33,7 @@ int main(void) {
  unsigned long f1s0pHAY01 = 1326810422;
  char Tfg4LyUhY7 = (char)1925763786;
   unsigned char  evTWa6T77  =  (unsigned char)187050161;
-    char    I0ro    =    985639709;
+    char    I0ro    =    (char)985639709;
  int RfR627CVlJ = 2130121290;
 
 switch (zTS2lwBjL)

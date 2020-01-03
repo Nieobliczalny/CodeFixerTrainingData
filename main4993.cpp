@@ -63,7 +63,7 @@ int main(void)
     short int    Swdb    =    (short)1228545057;
  unsigned short l6N6JamE = (unsigned short)28057079;
  unsigned char L449YqnV = (unsigned char)-163534422;
-	unsigned short	tiKsjLwC2x	=	765945840;
+	unsigned short	tiKsjLwC2x	=	(unsigned short)765945840;
 	unsigned long	kW6MI	=	759443607;
     unsigned int    k2GbwKa0XB    =    -1665000665;
  short int P058p = (short)-1697798176;

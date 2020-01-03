@@ -47,7 +47,7 @@ int main()
  unsigned short R18VmfM = (unsigned short)-1647064075;
   unsigned short  RToOd  =  (unsigned short)-2004428168;
 	unsigned short	fPyP_Fd1	=	(unsigned short)-1015053294;
- unsigned short int ti4mkVm = -62282350;
+ unsigned short int ti4mkVm = (unsigned short)-62282350;
  unsigned char mFsQ = (unsigned char)-1240104930;
 	long long	DIow	=	1661274922;
 	unsigned char	SNlKLB8	=	(unsigned char)-1715025021;

@@ -53,7 +53,7 @@ int main(void)
  char ZUYaM5 = (char)-1147915459;
     unsigned short int    rzRaN5_v    =    (unsigned short)1968516595;
   long  HSU5H4WpS3  =  345492766;
-  char  ZQ_UX2P2  =  -148500747;
+  char  ZQ_UX2P2  =  (char)-148500747;
     short int    utlJlGTTf    =    (short)-1414277231;
   double  LgU91o6  =  -1448505689;
   unsigned long  EyghuSR0  =  1112569621;

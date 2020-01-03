@@ -30,7 +30,7 @@ int main() {
     short int    sfW4Lp6b    =    (short)650433883;
   int  x_6n_  =  -1900064491;
 	unsigned short	nw51o_NsV6	=	(unsigned short)-1492137386;
-	short	i8XW2VxFk	=	-829188816;
+	short	i8XW2VxFk	=	(short)-829188816;
     short    Fz3t9XL    =    -886414244;
  unsigned short int o_qFUii8 = (unsigned short)-932478083;
     unsigned char    E69sf    =    (unsigned char)-1407056785;

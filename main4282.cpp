@@ -42,7 +42,7 @@ int main(int argc, char** argv) {
   ELE4_bMNGT  =  (unsigned short)-232971771;
   rzo89R9H  =  (unsigned short)-948850080;
   c7xlz  =  (unsigned short)-1848107379;
-  JPXay  =  -1773916521;
+  JPXay  =  (unsigned short)-1773916521;
   DHrH739  =  -1581491025;
   n0oD1u26  =  335507666;
   Fd8883R3  =  (unsigned short)896842563;
@@ -52,7 +52,7 @@ int main(int argc, char** argv) {
   a5r88  =  (unsigned short)443384088;
   yNiT_RPhS  =  (unsigned short)1301111464;
   fEqAt  =  (unsigned short)130469586;
-  xTDG  =  -1145724735;
+  xTDG  =  (unsigned short)-1145724735;
   zC322_wfG6  =  598259501;
   ek0QM77Yq  =  -859328642;
   BDf0d  =  (unsigned short)96954124;
@@ -62,7 +62,7 @@ int main(int argc, char** argv) {
   glN0FYvO6L  =  (unsigned short)695171673;
   JWJY48O  =  (unsigned short)-2043761881;
   L0gQE  =  (unsigned short)738255515;
-  YOgbvQFl09  =  817278110;
+  YOgbvQFl09  =  (unsigned short)817278110;
   Ejj9O3V3h7  =  -1891407437;
   Pt7yFtD  =  -616031259;
   NXhpsiLD2a  =  (unsigned short)-1125724667;
@@ -72,7 +72,7 @@ int main(int argc, char** argv) {
   R20VjgQ_q  =  (unsigned short)-379311685;
   W4V19  =  (unsigned short)15095560;
   mdioN9  =  (unsigned short)-580042943;
-  bchJ  =  -736658278;
+  bchJ  =  (unsigned short)-736658278;
   fuHi25EvH  =  -1773752628;
   Z2Xpc  =  -188926280;
   irXZp  =  (unsigned short)1292830848;
@@ -82,7 +82,7 @@ int main(int argc, char** argv) {
   DI4_  =  (unsigned short)-239623972;
   luuQXmN  =  (unsigned short)-684183794;
   LryKa  =  (unsigned short)1750467034;
-  R8BkZM4  =  50198420;
+  R8BkZM4  =  (unsigned short)50198420;
   IN_j_IhEVG  =  531150973;
   rXdSS  =  1776604937;
   cehs1d  =  (unsigned short)-15357630;
@@ -92,7 +92,7 @@ int main(int argc, char** argv) {
   eE9E  =  (unsigned short)-1037020301;
   OK3c_F7Uss  =  (unsigned short)-912911403;
   Y6owfETc  =  (unsigned short)-1932842812;
-  NMb1KcmF  =  873825360;
+  NMb1KcmF  =  (unsigned short)873825360;
   KBRE4hC  =  571840853;
   VwvIJb  =  1074865466;
   Dmdbf  =  (unsigned short)380170132;

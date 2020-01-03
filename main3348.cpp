@@ -96,7 +96,7 @@ int main(void)
  short int Pc33OO = (short)-1074885766;
  short tCjD = (short)1299730232;
   float  l1HXKTg1q  =  1137768435;
-  short int  rQBUv9FX  =  1795092940;
+  short int  rQBUv9FX  =  (short)1795092940;
   unsigned short  v049Rj1r  =  (unsigned short)929635193;
   long long  jjVx  =  -1418866162;
   unsigned long  DCp_41br  =  1592382923;

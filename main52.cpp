@@ -23,7 +23,7 @@ int main(int argc, char** argv)
   m7_9_  =  (short)2027679035;
   v7k2aY  =  (short)-287184431;
   RFRvP3N  =  (short)-1851711881;
-  Qi3W  =  1242214404;
+  Qi3W  =  (short)1242214404;
   XiKEfc  =  1557969422;
   zXc5noYz  =  -1249559933;
   Dd5m  =  (short)881025858;
@@ -33,7 +33,7 @@ int main(int argc, char** argv)
   R_hTadXdF  =  (short)1219296005;
   VuTCgSZd08  =  (short)527526360;
   p_7O  =  (short)569809053;
-  a7N8  =  -494479287;
+  a7N8  =  (short)-494479287;
   oBOQP8  =  -597361741;
   K3Jz6K84Z  =  306887947;
   hZ_75G3G4  =  (short)-419736621;
@@ -43,7 +43,7 @@ int main(int argc, char** argv)
   nv2AcLX  =  (short)283043577;
   bvl7_  =  (short)-1643010083;
   dip6rjZgP5  =  (short)-925116946;
-  ii1_R2V01  =  171169492;
+  ii1_R2V01  =  (short)171169492;
   br1y  =  124682326;
   H56Fy0il49  =  462881506;
   ddlTyoJ  =  (short)-628740731;
@@ -53,7 +53,7 @@ int main(int argc, char** argv)
   Ke0d5lw3TT  =  (short)-1240009479;
   HhtQhTtul  =  (short)-1893831960;
   d0cez  =  (short)-19724418;
-  Sw3FWM1g  =  -1438596895;
+  Sw3FWM1g  =  (short)-1438596895;
   y9oyo  =  -414108617;
   sCi5wvq21  =  11902681;
   x2DtL78bn  =  (short)1702737333;
@@ -63,7 +63,7 @@ int main(int argc, char** argv)
   F974ay3  =  (short)-1059240841;
   Y7Qz  =  (short)-2042948401;
   gJ0CV1f9  =  (short)1456056559;
-  OXCPD35  =  1032687194;
+  OXCPD35  =  (short)1032687194;
   F_1X  =  -223150737;
   sSqXq5  =  -372337400;
   z79_GP  =  (short)805192447;
@@ -73,7 +73,7 @@ int main(int argc, char** argv)
   Fd8wPIlwe  =  (short)-2009333339;
   a7O61YSju5  =  (short)2069021440;
   rM6Y  =  (short)1612823946;
-  H_8qoK  =  -2121019966;
+  H_8qoK  =  (short)-2121019966;
   GN_o9UQ  =  -1796915889;
   Xrv2wtcB  =  -1608813100;
   a_3P_C  =  (short)-631984855;
@@ -83,7 +83,7 @@ int main(int argc, char** argv)
   ZM9S93  =  (short)-1194092569;
   YNg7_y2  =  (short)-62432537;
   o9FR3BBkke  =  (short)-547225827;
-  Y00_  =  2094784893;
+  Y00_  =  (short)2094784893;
   uclkY  =  -1958352526;
   bAmwMk  =  -2142005393;
 

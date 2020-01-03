@@ -36,7 +36,7 @@ int main(void) {
     YIY2v4i_q_    =    (unsigned short)1335467215;
     q6mb5Q2    =    (unsigned short)801638471;
     MeYU4jxDv_    =    (unsigned short)-1539894127;
-    p3DvA    =    -1553024028;
+    p3DvA    =    (unsigned short)-1553024028;
     KQyY57DDkp    =    -2018475168;
 
 for (int i = 6; i >= 0; i--)

@@ -106,7 +106,7 @@ Fv0Y9KkQst = A1BeBvPW((unsigned short)1905790449, (unsigned char)2038043664, b4v
 }
 else if (tYpzT15N)
 {
-cout << A1BeBvPW((unsigned short)-1108454316, Fv0Y9KkQst, b4vJ9gnK, Uv2493tM) << tYpzT15N << A1BeBvPW(q01a6eP, (unsigned char)-477653635, (char)1778979504, (short)-2076290330) << "Fcz9i" << A1BeBvPW(q01a6eP, Fv0Y9KkQst, b4vJ9gnK, 1616906029) << endl;
+cout << A1BeBvPW((unsigned short)-1108454316, Fv0Y9KkQst, b4vJ9gnK, Uv2493tM) << tYpzT15N << A1BeBvPW(q01a6eP, (unsigned char)-477653635, (char)1778979504, (short)-2076290330) << "Fcz9i" << A1BeBvPW(q01a6eP, Fv0Y9KkQst, b4vJ9gnK, (short)1616906029) << endl;
 }
 else if (Xa6kxXG & Erxy83)
 {
@@ -394,7 +394,7 @@ S5ro93242o = A1BeBvPW((unsigned short)-1178506559, (unsigned char)206056688, (ch
 }
 }
 
-Fv0Y9KkQst = A1BeBvPW((unsigned short)987588716, (unsigned char)-237912204, (char)-331331333, -79224707);
+Fv0Y9KkQst = A1BeBvPW((unsigned short)987588716, (unsigned char)-237912204, (char)-331331333, (short)-79224707);
 
 for (int i = 0; i < 7; i++)
 {

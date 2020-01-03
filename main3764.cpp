@@ -24,7 +24,7 @@ int main()
  xfuZ57vBK = (unsigned char)-531311778;
  Rpr600C0Y = (unsigned char)455073156;
  FUgiCVI = (unsigned char)2139529209;
- b7iLa0dj = 1693057374;
+ b7iLa0dj = (unsigned char)1693057374;
  guT10 = 1595772124;
 
 if (ozY57 <= 1520632636)

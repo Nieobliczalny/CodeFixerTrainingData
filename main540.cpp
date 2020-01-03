@@ -49,7 +49,7 @@ int main()
  float lxn7 = 28364225;
     unsigned short int    s_WF    =    (unsigned short)-1181278535;
   short  dp2yCR  =  (short)291646876;
-    short int    T64i8    =    297290695;
+    short int    T64i8    =    (short)297290695;
  char gMfMx24kT = (char)-485446104;
  float H0EK = -1584228521;
  long long Z9Ha12Z7 = -747920113;

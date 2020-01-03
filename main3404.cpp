@@ -259,7 +259,7 @@ case 6:
 Sr4eXn_HVV = BE7M_x67 * SC4l8OJ;
 break;
 case 7:
-Bc0paLn_ = t4q_QqG(Bc0paLn_, (short)1097337808, (unsigned short)108317050, -1180424731, 1493203707);
+Bc0paLn_ = t4q_QqG(Bc0paLn_, (short)1097337808, (unsigned short)108317050, (unsigned short)-1180424731, 1493203707);
 break;
 }
 }

@@ -345,7 +345,7 @@ case 6:
 gvv251MG = cf8r(H1an, (short)1724396288, h1dLw, (unsigned short)1838946082, G457bqfR);
 break;
 case 7:
-aiQ9XF = cf8r((unsigned short)623021039, DsBk, (short)-780034826, (unsigned short)-1326074842, -576928394);
+aiQ9XF = cf8r((unsigned short)623021039, DsBk, (short)-780034826, (unsigned short)-1326074842, (unsigned char)-576928394);
 break;
 case 8:
 fE7cfv = cf8r(-1833468732, h1dLw, aiQ9XF, 1417617509, G457bqfR);

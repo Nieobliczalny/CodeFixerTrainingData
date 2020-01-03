@@ -26,7 +26,7 @@ int main() {
 	unsigned char	crzCsfR0	=	(unsigned char)1825351797;
 	unsigned short int	AR2X8	=	(unsigned short)-1076598371;
  char mrDw_ = (char)827177658;
-	short int	hJ6MfZ5D	=	-396612271;
+	short int	hJ6MfZ5D	=	(short)-396612271;
     short int    xk1Uu    =    (short)608421031;
   unsigned short int  j6JlY4_  =  (unsigned short)791479887;
  unsigned int dTMe = 355833663;

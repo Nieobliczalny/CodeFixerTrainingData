@@ -33,7 +33,7 @@ int main(void) {
  xkiI5U = (unsigned char)-485603506;
  E5_3Wv = (unsigned char)863218258;
  cj0Yd = (unsigned char)603116543;
- zq1828 = 1126873139;
+ zq1828 = (unsigned char)1126873139;
  oG89702 = -65744477;
  UVlHmp809A = 168886847;
  FOL0W4e26W = (unsigned char)-1076317938;
@@ -43,7 +43,7 @@ int main(void) {
  Yf361TVuRo = (unsigned char)-1425915634;
  x0WwV01PI = (unsigned char)-1397518505;
  x6Ne0DBJX = (unsigned char)-1172971320;
- t_Y2 = 1627107199;
+ t_Y2 = (unsigned char)1627107199;
  aR_C = -911886361;
  wjcCKkpQTB = -840342230;
  uF_nNORS1 = (unsigned char)-1810141448;
@@ -53,7 +53,7 @@ int main(void) {
  cv5BWTJ = (unsigned char)-1718635502;
  w4nm15PT = (unsigned char)289448247;
  BmG7AxC344 = (unsigned char)-1819818059;
- a1L80FKr94 = 1583761280;
+ a1L80FKr94 = (unsigned char)1583761280;
  UqT_ = -1198956177;
  Vc7oKh = -440606120;
  l6D54V = (unsigned char)1726293348;
@@ -63,7 +63,7 @@ int main(void) {
  dyZFf1XL0F = (unsigned char)1868802483;
  j_fao3b = (unsigned char)-1651928424;
  zj_GLm = (unsigned char)706526630;
- STzbHLCq = 1925575850;
+ STzbHLCq = (unsigned char)1925575850;
  Q7o_ = -1678897957;
  rKexkKA = 1572026161;
  zHoELWQ1l = (unsigned char)-1012492804;
@@ -73,7 +73,7 @@ int main(void) {
  nQoMQs = (unsigned char)632424037;
  u8P_W1qK1 = (unsigned char)-1692780627;
  shDh4P9k9 = (unsigned char)471304785;
- Gjk96 = 298592606;
+ Gjk96 = (unsigned char)298592606;
  VBK_617du = 1519041138;
  DrPcElj2eR = 1701654182;
  EbSRqv = (unsigned char)153326330;
@@ -83,7 +83,7 @@ int main(void) {
  M_xv03UuM0 = (unsigned char)1149678984;
  KeQLVQcDRF = (unsigned char)306577653;
  QZ41qov_ = (unsigned char)-127562246;
- MiYpdgu56 = -1951199234;
+ MiYpdgu56 = (unsigned char)-1951199234;
  VV4lM = -722190414;
  b9M_ = 135151447;
  V7TtN6cq = (unsigned char)933136138;
@@ -93,7 +93,7 @@ int main(void) {
  LN882 = (unsigned char)2077237940;
  v0_SHgJ = (unsigned char)955900781;
  BCDz6xXB = (unsigned char)2125123672;
- Vr5yH = -1400070245;
+ Vr5yH = (unsigned char)-1400070245;
  kMy5jkUg = 1919103016;
  u5_4ekJ = -812255115;
  oDe4Dy_MSW = (unsigned char)-1000116811;

@@ -374,7 +374,7 @@ case 8:
 h8qi2A = sc_w((short)1210274636, (unsigned char)1761606370, e0v5W7BN74, (unsigned short)1348132659, -1062166029);
 break;
 default:
-h8qi2A = sc_w(h8qi2A, (unsigned char)-1262111364, 1087250845, 146354674, j2GHsb);
+h8qi2A = sc_w(h8qi2A, (unsigned char)-1262111364, (unsigned short)1087250845, 146354674, j2GHsb);
 break;
 }
 }
@@ -512,7 +512,7 @@ case 3:
 Qd6_k = sc_w((short)-1366759209, Tn02i4tn, (unsigned short)-131153855, (unsigned short)-224471018, -574898572);
 break;
 case 4:
-Qd6_k = sc_w((short)415582439, L33ih_u, (unsigned short)1674399988, 1875358933, 828902242);
+Qd6_k = sc_w((short)415582439, L33ih_u, (unsigned short)1674399988, (unsigned short)1875358933, 828902242);
 break;
 case 5:
 L33ih_u |= 879278821;

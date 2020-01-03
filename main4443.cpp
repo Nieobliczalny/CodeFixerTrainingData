@@ -304,7 +304,7 @@ case 3:
 qx9Rbu = Y2GT5VY(38521450, qx9Rbu, (short)581436994, xGlW8o_);
 break;
 default:
-Ow1I = K_sJ73r92c((char)-1403594930, 2112526587, s_63);
+Ow1I = K_sJ73r92c((char)-1403594930, (short)2112526587, s_63);
 break;
 }
 }

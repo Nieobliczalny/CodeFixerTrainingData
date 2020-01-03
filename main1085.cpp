@@ -35,7 +35,7 @@ int main() {
  Gv42c1 = (short)1816881915;
  nnPhr = (short)-331422951;
  yIcfrD = (short)1889396305;
- I050 = -1430502584;
+ I050 = (short)-1430502584;
  bTIKpmS1Q = -624178730;
  E1w9qV_E58 = 1903917381;
  ch8G = (short)-799769814;
@@ -45,7 +45,7 @@ int main() {
  g4dvk00 = (short)1415274989;
  AFfq1F = (short)1930457664;
  a8RLU = (short)-870031138;
- G2An = -560467518;
+ G2An = (short)-560467518;
  E6_A9179 = -501626062;
  xIUReAdT = 319593950;
  oGBa = (short)2059118102;
@@ -55,7 +55,7 @@ int main() {
  es61KiVQ1N = (short)-1327904753;
  b24R3CK = (short)350247981;
  pO02eu9a44 = (short)1421060024;
- W513_wc = -987579613;
+ W513_wc = (short)-987579613;
  VSsWyB5A9 = -814197120;
  Cbm8e2086 = -1051801728;
  s5kTC1 = (short)1195396167;
@@ -65,7 +65,7 @@ int main() {
  P5339 = (short)1430671142;
  P4t68L6IXN = (short)-737725794;
  ycWkXH = (short)565518433;
- FeUPIBG = 450803022;
+ FeUPIBG = (short)450803022;
  L_B_Y517T = 858634871;
  dZbHUyV9 = -1627244140;
  qCVpcYBXs = (short)1352807790;
@@ -75,7 +75,7 @@ int main() {
  i6CwX7w9 = (short)1522621973;
  W23S9 = (short)1393420448;
  vGarCg2 = (short)1047663072;
- WseZjIi = 452715268;
+ WseZjIi = (short)452715268;
  l2_060pC09 = -913658366;
  r119 = 487271976;
  WI25iy_ = (short)2095884592;
@@ -85,7 +85,7 @@ int main() {
  QkIM = (short)-468161275;
  I9heDJ1 = (short)-1970601490;
  toy1Pj_K = (short)-1573921277;
- k644Pcm8 = -354866793;
+ k644Pcm8 = (short)-354866793;
  J_yW3 = 2129776826;
  SJGV = 1313079735;
  VvYDpnmb = (short)-1696971703;
@@ -95,7 +95,7 @@ int main() {
  s7xPS9 = (short)-139434621;
  bSjy = (short)-125975361;
  ydL5 = (short)-484805139;
- s4RovG = -190975023;
+ s4RovG = (short)-190975023;
  jjX_U4 = 749384205;
  wZ20ULJ0 = -550369833;
  IEymUq9pOs = (short)-322588422;
@@ -105,7 +105,7 @@ int main() {
  W7X6dW = (short)1711554220;
  k61A_39tl = (short)1717900049;
  U5Pt8 = (short)903810294;
- lZ_PMH8G = 432242111;
+ lZ_PMH8G = (short)432242111;
  C3tj9tZh_ = 1571944737;
  R207v = 1974026305;
  VJlP = (short)562350642;
@@ -115,7 +115,7 @@ int main() {
  s8AiXD = (short)378731905;
  L832J9g = (short)1614951635;
  uR_Y = (short)1739906990;
- Sn4H17AFJq = 768758372;
+ Sn4H17AFJq = (short)768758372;
  u4H494 = -985225885;
  X238O = -673876658;
  unsigned short TuAIT, lcNf, p_E2lW, w3eRo, YpOu9C;

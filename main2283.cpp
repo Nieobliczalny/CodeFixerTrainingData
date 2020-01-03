@@ -78,7 +78,7 @@ int main(void) {
   char  T754BB  =  (char)-1237445277;
  long long aEZ_A = -1767109335;
   short int  aE6aI8CNU  =  (short)1604643608;
-    char    EvH4Iw5F    =    -997796090;
+    char    EvH4Iw5F    =    (char)-997796090;
   unsigned int  e8D20B  =  -1108471216;
  long n9tEM9ke6p = 352932940;
     short    TFSFiA_    =    (short)1010853423;

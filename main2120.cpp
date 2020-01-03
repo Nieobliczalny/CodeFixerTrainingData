@@ -93,7 +93,7 @@ int main() {
 	short int	eCrOu2	=	(short)1824524610;
  unsigned char NB12hNE1H4 = (unsigned char)211507547;
   unsigned char  z2aw5D  =  (unsigned char)359511688;
-    char    Hm8Z5_    =    1226483767;
+    char    Hm8Z5_    =    (char)1226483767;
 
 if (xYK6g == 1114482475)
 {

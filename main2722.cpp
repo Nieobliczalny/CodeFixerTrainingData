@@ -94,7 +94,7 @@ int main(int argc, char** argv) {
     short    cnUjBPyzDk    =    (short)1810792912;
 	short	ajbd3	=	(short)2112297120;
  short int aF9_K = (short)1529609591;
-  short int  sLAaL  =  845098614;
+  short int  sLAaL  =  (short)845098614;
     long long    vkSQJ    =    -1465919595;
     long    IOCm6_    =    -1186869785;
   char  bQ9Cy  =  (char)-207552636;

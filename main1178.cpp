@@ -152,7 +152,7 @@ else
 int j = 0;
 while (j < 3)
 {
-cout << Yzf7d7O0Jr(B10X3PPX, O_l_UVSA, (char)538332626, (unsigned short)-2128565130, btyTJK) << Yzf7d7O0Jr(2040467129, (short)-951984834, NGS9xet, cjcMXFMi37, -390598058) << endl;
+cout << Yzf7d7O0Jr(B10X3PPX, O_l_UVSA, (char)538332626, (unsigned short)-2128565130, btyTJK) << Yzf7d7O0Jr(2040467129, (short)-951984834, NGS9xet, cjcMXFMi37, (unsigned char)-390598058) << endl;
 ++j;
 }
 }

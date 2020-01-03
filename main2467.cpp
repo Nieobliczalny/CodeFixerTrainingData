@@ -28,7 +28,7 @@ int main(int argc, char** argv) {
   k4gD0  =  (unsigned short)-657314505;
   CK7agKYKL1  =  (unsigned short)-1368603041;
   qpaS_Z  =  (unsigned short)-75943596;
-  PPH16S  =  1857938510;
+  PPH16S  =  (unsigned short)1857938510;
   c_ESX0  =  -1899619562;
   GG0Ko3Z5  =  1766398776;
   T54fJ  =  (unsigned short)-1089554240;
@@ -38,7 +38,7 @@ int main(int argc, char** argv) {
   azi2zo8ikX  =  (unsigned short)791713298;
   Y3qbPcJiP2  =  (unsigned short)-1866107126;
   kTH3rHT8  =  (unsigned short)1031231868;
-  ucxud  =  828612681;
+  ucxud  =  (unsigned short)828612681;
   Ur3C45cw  =  -1318492122;
   Bxe4p  =  -1233141186;
   kWkq  =  (unsigned short)1537938073;
@@ -48,7 +48,7 @@ int main(int argc, char** argv) {
   jhXgH63S57  =  (unsigned short)185086712;
   KnX7q8Z383  =  (unsigned short)357739182;
   CIf_HGP  =  (unsigned short)-2000949365;
-  xMqPkYDmEZ  =  -466931667;
+  xMqPkYDmEZ  =  (unsigned short)-466931667;
 
 sz_c0 = qpaS_Z / qHK1(-952813388, -190718009, -372893562, 704779289, k4gD0);
 std::cout << qHK1(6251973, HynqoAIA9, (unsigned short)-1316878129, CXX3ZJQ884, k4gD0) << erRgz4z8(-815549232, HynqoAIA9, Uk4Yev, CXX3ZJQ884) << "id6v0676U" << qpaS_Z << "sIH1YU" << std::endl;

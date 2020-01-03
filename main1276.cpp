@@ -151,7 +151,7 @@ if ((1359905405 / ZW7I((short)429816153, Z2U3, (unsigned short)2065356090, (char
 {
 if (ZW7I(O1bpw0w2, Z2U3, (unsigned short)832358543, (char)808233310, A26XE) == 0)
 {
-	rPeCyLU6Vs = -1903207751 / ZW7I(O1bpw0w2, Z2U3, (unsigned short)832358543, 808233310, A26XE);
+	rPeCyLU6Vs = -1903207751 / ZW7I(O1bpw0w2, Z2U3, (unsigned short)832358543, (char)808233310, A26XE);
 }
 }
 try
@@ -330,7 +330,7 @@ case 'c':
 Uu4Yhg = ZW7I((short)-1812563790, (char)-1534668973, (unsigned short)498997315, f3570j, (unsigned char)-1569247282);
 break;
 case 'd':
-h7L0 = ZW7I((short)-760562545, (char)-1319141853, (unsigned short)573696062, h3kZ, -192149735);
+h7L0 = ZW7I((short)-760562545, (char)-1319141853, (unsigned short)573696062, h3kZ, (unsigned char)-192149735);
 break;
 case 'e':
 JeP3Ph *= FXBv;

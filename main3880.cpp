@@ -52,7 +52,7 @@ int main(int argc, char** argv) {
     unsigned short int    jac56V    =    (unsigned short)202972688;
   short  AVKvl  =  (short)-785641440;
  double gJ65b2R = 48132623;
-    char    MCcR4    =    -1531464711;
+    char    MCcR4    =    (char)-1531464711;
   unsigned long long  cZhZ  =  -152284638;
  long TOB8 = 2038983901;
  short dpiPJwv = (short)1753429692;

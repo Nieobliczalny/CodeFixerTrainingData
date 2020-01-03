@@ -73,7 +73,7 @@ int main()
   char  t1g9MMu54  =  (char)905621823;
   unsigned short  v98p7qOzU  =  (unsigned short)-677831384;
     short    I23QW    =    (short)-891664695;
-  short int  Af6aD  =  -1223053852;
+  short int  Af6aD  =  (short)-1223053852;
  short int t3su89 = (short)903975220;
     unsigned long    QTjamH7_y    =    -1210411143;
   float  EgDVf3  =  -426543252;

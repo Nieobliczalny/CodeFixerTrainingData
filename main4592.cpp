@@ -211,7 +211,7 @@ case 7:
 NP3k9L2 = UD9Qd850((unsigned short)849811844);
 break;
 case 8:
-tPnWAyw5Ae = aXg_8HmFF((char)1811271392, (char)940334302, vbr4F, Kw6F, -420638845);
+tPnWAyw5Ae = aXg_8HmFF((char)1811271392, (char)940334302, vbr4F, Kw6F, (short)-420638845);
 break;
 default:
 FDh8_zk = (int)ceil(QkFinR7);

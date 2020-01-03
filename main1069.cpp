@@ -132,7 +132,7 @@ i--;
 }
 }
 
-XSo3E = ldYR48G5(FqcM, (short)1688773204, -1886241220, 538948847);
+XSo3E = ldYR48G5(FqcM, (short)1688773204, (unsigned short)-1886241220, 538948847);
 
 r2Mh7qF++;
 

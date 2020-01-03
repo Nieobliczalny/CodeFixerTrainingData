@@ -21,7 +21,7 @@ int main(int argc, char** argv) {
  L1O1S3_U5c = (short)1593038995;
  HCr7F = (short)-844168709;
  IC2gJ = (short)-1833528295;
- g17u = -239787647;
+ g17u = (short)-239787647;
  k802X6s = 597105749;
  B0Z8V = -190449471;
  Dgkqoa0UD = (short)-523604475;
@@ -31,7 +31,7 @@ int main(int argc, char** argv) {
  hg5YQG = (short)1759544416;
  sqX5bDa = (short)1270270587;
  t8j2Elx_ = (short)-358973978;
- gAjRN = -1212514153;
+ gAjRN = (short)-1212514153;
  svO_4_58 = -524979727;
  O6wvM15C = 1087400859;
  A8P_Ny1on = (short)1583002630;
@@ -41,7 +41,7 @@ int main(int argc, char** argv) {
  qK3ynQq = (short)-453137195;
  Uzw_QD_9 = (short)1340077296;
  Dlbh = (short)1595753853;
- E5VD6e3A = -196158665;
+ E5VD6e3A = (short)-196158665;
  kQV49G3 = -773625456;
  CqXZy = -2063415877;
  Ny_zY790 = (short)1644584266;
@@ -51,7 +51,7 @@ int main(int argc, char** argv) {
  su0p = (short)-388090257;
  rJbMVQQ = (short)396310565;
  O9dw9VTHx = (short)1943433173;
- px_hv = -254582611;
+ px_hv = (short)-254582611;
  e3ND = 724468333;
  L23YQxn = 1841874322;
  NBH5 = (short)-1526728292;
@@ -61,7 +61,7 @@ int main(int argc, char** argv) {
  JakxOL9kC4 = (short)1968248780;
  hB7F8 = (short)-1382330917;
  ALyUBSpae = (short)181829155;
- Q_A8j = -2010366389;
+ Q_A8j = (short)-2010366389;
  QPWx = -793470359;
  WFM_03HI1m = -2000823039;
  c8EcEW = (short)-463023161;
@@ -71,7 +71,7 @@ int main(int argc, char** argv) {
  Fl6w9qn = (short)-2104090485;
  stL9 = (short)-766424859;
  qOg6rpQ_W = (short)-1579877488;
- sCPos9W = -1216650275;
+ sCPos9W = (short)-1216650275;
  t80XErqSx = 734512452;
  i3t9 = -444710117;
  q5_IO_ = (short)-627192838;
@@ -81,7 +81,7 @@ int main(int argc, char** argv) {
  rMJ9SSw = (short)957560502;
  QL_iH = (short)-1654604088;
  VAlJUMBbU = (short)-848782449;
- f634 = -1534766309;
+ f634 = (short)-1534766309;
 
 std::cout << b8EwfiH27Y << "h182k_Xjw" << sqX5bDa << Ny_zY790 << std::endl;
 try

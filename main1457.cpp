@@ -62,7 +62,7 @@ int main()
  unsigned short int qDBtGHiR = (unsigned short)-1795761332;
 	short	KSXOI	=	(short)-1885054355;
   unsigned short int  ZM8492WC1  =  (unsigned short)1374240819;
- short int d0nV_6ZrD = 1735490098;
+ short int d0nV_6ZrD = (short)1735490098;
     unsigned long    e91QAq    =    -85639693;
 	short	GeVWd72A	=	(short)-841057169;
 	short	GAHf6Z0MGM	=	(short)-1413205796;

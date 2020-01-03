@@ -53,7 +53,7 @@ int main(void)
  unsigned char xSyR = (unsigned char)-462060542;
 	unsigned char	h1R8rr8e	=	(unsigned char)1284937797;
   unsigned short  i31_88  =  (unsigned short)2025707899;
-	short	Bg7Go69M7D	=	-1641876302;
+	short	Bg7Go69M7D	=	(short)-1641876302;
   short int  Jrd5A62  =  (short)-1702886577;
 	long long	jW612	=	-930934837;
 	short int	dI8t_8YL	=	(short)-2051353036;

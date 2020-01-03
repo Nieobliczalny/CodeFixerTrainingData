@@ -81,7 +81,7 @@ int main(void) {
   short  ezE93_K9  =  (short)-1485369034;
     short    Fp_3Lb    =    (short)-380890306;
 	char	Cku73	=	(char)-1063693148;
-    short    uWxk9C2O3k    =    -1779986184;
+    short    uWxk9C2O3k    =    (short)-1779986184;
 	long	bmlXN8Us0W	=	-1187397049;
   int  knPjK  =  984991725;
  long double qRtqSXL7 = 452604657;

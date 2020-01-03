@@ -22,7 +22,7 @@ int main()
   yA5xzKD  =  (char)-1669199101;
   L1Z2h2YpCz  =  (char)898896652;
   Ps4Sd9  =  (char)-666653640;
-  g0BZUd  =  700598805;
+  g0BZUd  =  (char)700598805;
   cA_5H  =  -996437740;
   cFbkKy03_5  =  -1699694359;
   YuI6yLAMC  =  (char)-1398352140;
@@ -32,7 +32,7 @@ int main()
   qhoyq17  =  (char)1533640007;
   AW4Xs4qRet  =  (char)-600450360;
   qtkv  =  (char)-299880660;
-  L80bfA7x  =  -1895454061;
+  L80bfA7x  =  (char)-1895454061;
   iCsjIcBL7  =  -1248882942;
   pohdpQ6  =  382835544;
   LtqdnR  =  (char)-2012835150;
@@ -42,7 +42,7 @@ int main()
   LS7mvp2Mr  =  (char)-1433254978;
   Te234rPF  =  (char)-2046868943;
   JepccR1  =  (char)150754960;
-  Zg0T3k_70p  =  1281013443;
+  Zg0T3k_70p  =  (char)1281013443;
   c_AnyP  =  615494768;
   DS4413M  =  -1925348750;
   JngUBXd0  =  (char)234759747;
@@ -52,7 +52,7 @@ int main()
   DY_tC_34r  =  (char)1450490495;
   E66_C  =  (char)-1574398502;
   Bb440W_  =  (char)231958316;
-  tybrrg  =  -1917668929;
+  tybrrg  =  (char)-1917668929;
   BVxht8k6M  =  764059677;
   NF9dD  =  -963399356;
   GGIA_  =  (char)1571862568;
@@ -62,7 +62,7 @@ int main()
   ZVBeNzQkP  =  (char)-1904415008;
   H7OU6oI  =  (char)-1749591845;
   DJ3Aqg8  =  (char)-828055910;
-  gbW9jXu  =  -387788281;
+  gbW9jXu  =  (char)-387788281;
   mN9q  =  -1388440333;
   o6KX6C4qq  =  -1524575954;
   DF661  =  (char)-1840257053;
@@ -72,7 +72,7 @@ int main()
   W3_yO5o  =  (char)539755188;
   bJB645o8  =  (char)1462304794;
   euYar  =  (char)-2110421707;
-  h_Vo8kt  =  -3392583;
+  h_Vo8kt  =  (char)-3392583;
   xSv94zJl0  =  -1016510745;
   C6929b66  =  -1444800794;
   g3f_6t  =  (char)-1829980220;
@@ -82,7 +82,7 @@ int main()
   XixnhroT  =  (char)-220437221;
   rb0_o7g4  =  (char)2027196080;
   T674E26  =  (char)713079934;
-  PD3lo9Ss  =  -787162790;
+  PD3lo9Ss  =  (char)-787162790;
   aP3GGp  =  587999969;
   oRqNY34o1h  =  1756163239;
   ma_Pm  =  (char)209444082;
@@ -92,7 +92,7 @@ int main()
   nqG4_5C0  =  (char)-1548586873;
   SKW9jMxG  =  (char)1126101980;
   gZoI76r  =  (char)-1089312254;
-  ucYvRY9j  =  -1212452581;
+  ucYvRY9j  =  (char)-1212452581;
   wJLNz1T  =  1273557659;
   RI8i  =  838591009;
   Gqv0  =  (char)832141321;

@@ -45,7 +45,7 @@ Zjw5B_Vp69 *= 825424586;
 }
 }
 E8rHl5m5 = LKXLnr_Cy((unsigned short)-613295126, (short)-1220507695, (short)-389722144, ZIY67_iI0x, 1625816020);
-std::cout << LKXLnr_Cy(O2PWK19jb, (short)1104156071, (short)260593904, ZIY67_iI0x, 860054602) << LKXLnr_Cy((unsigned short)903955383, yB6718, (short)-104746957, 1725487588, 169031203) << "a87mt0M_" << "R9uX" << std::endl;
+std::cout << LKXLnr_Cy(O2PWK19jb, (short)1104156071, (short)260593904, ZIY67_iI0x, 860054602) << LKXLnr_Cy((unsigned short)903955383, yB6718, (short)-104746957, (char)1725487588, 169031203) << "a87mt0M_" << "R9uX" << std::endl;
 
 try
 {

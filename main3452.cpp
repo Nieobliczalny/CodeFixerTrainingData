@@ -45,7 +45,7 @@ int main(void)
     unsigned char    T9C4    =    (unsigned char)56572455;
     short    P6I523    =    (short)112386171;
   unsigned short  ezCD_  =  (unsigned short)1663137643;
-    char    HA7mi    =    1079576396;
+    char    HA7mi    =    (char)1079576396;
  long double GnvQElo9TN = 703044134;
   int  J530cUO  =  778851419;
  double rm_d9U = 338332076;

@@ -75,7 +75,7 @@ int main(void)
   unsigned short  GTxq1g  =  (unsigned short)-529116647;
   long long  Ow4V0m  =  -1710342347;
  short vezs = (short)-1486854296;
-    unsigned short int    hus1    =    1766143081;
+    unsigned short int    hus1    =    (unsigned short)1766143081;
 	float	IxSl	=	288246718;
  double y3c98BMAU = 980483076;
     unsigned int    pFh6    =    -1065669537;

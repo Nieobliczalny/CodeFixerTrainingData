@@ -303,7 +303,7 @@ std::cout << "VRjS" << Wx94NQ((char)-1190692811, (char)1947915793) << j16cf(F703
 
 for (int i = 4; i >= 0; --i)
 {
-SF_5 = j16cf(-1340949242, jT6_7sjD, 372208677, VrCoZ72Qm);
+SF_5 = j16cf((unsigned short)-1340949242, jT6_7sjD, 372208677, VrCoZ72Qm);
 }
 YvI7A64Yx = Eri84(554968666, -1783832649, -868071321, bD7q);
 

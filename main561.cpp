@@ -89,7 +89,7 @@ case 'g':
 Idv05 = idx7(-1010571138, (unsigned short)-1944790498, (char)1478693623, (char)486696498, Pl1xU9l_);
 break;
 case 'h':
-b25g8Xlz = y4W62(-263212844, 1299738411, -1374978247);
+b25g8Xlz = y4W62(-263212844, (unsigned char)1299738411, -1374978247);
 break;
 case 'i':
 NaH5 ^= 228756926;

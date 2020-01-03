@@ -23,7 +23,7 @@ int main(int argc, char** argv) {
   WiMi65Ggm  =  (unsigned short)-345184035;
   SLRI  =  (unsigned short)-1543849140;
   gflt  =  (unsigned short)-227790671;
-  w323  =  -1445136979;
+  w323  =  (unsigned short)-1445136979;
   P0MOO8  =  599964285;
   aFd_VyU  =  1566844104;
   um4kb460B  =  (unsigned short)-1639934219;

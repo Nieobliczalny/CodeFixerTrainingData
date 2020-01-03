@@ -307,7 +307,7 @@ ZOe_0cqb = j10xG((unsigned char)1723311548, (char)-876475284, (short)1163199276,
 }
 else if ((Iq_36OH == 1132376026) || (l0p4VDc7BY & wOnnlFBr7))
 {
-zBAYlG6l = qu8bEq(zBAYlG6l, (unsigned short)-1316736466, 1915710391, -314938340);
+zBAYlG6l = qu8bEq(zBAYlG6l, (unsigned short)-1316736466, 1915710391, (short)-314938340);
 }
 else
 {

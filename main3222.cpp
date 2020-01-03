@@ -42,7 +42,7 @@ int main(int argc, char** argv) {
  long bHLe94Cr1Z = 801149054;
   unsigned short int  krzhts  =  (unsigned short)-879997468;
  short int aw41_ = (short)-961570578;
-	unsigned short int	oL07syaQs	=	1753549674;
+	unsigned short int	oL07syaQs	=	(unsigned short)1753549674;
 	int	b759_Ra3	=	-1129100611;
     unsigned long long    DC4j    =    1795396728;
   float  WK5Dffs30  =  -957262431;

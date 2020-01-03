@@ -104,7 +104,7 @@ int main() {
 	long long	xGMF3upFL	=	632069652;
     unsigned short int    S3uitP    =    (unsigned short)2134050630;
     short    OE59t9xg    =    (short)549129792;
-  short int  I4wN_p  =  1128681507;
+  short int  I4wN_p  =  (short)1128681507;
   int  mq45l6t  =  1356862605;
 	short int	cYic	=	(short)-77275910;
 	long double	u_I20e3vD	=	-1726107398;

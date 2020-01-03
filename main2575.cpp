@@ -72,7 +72,7 @@ int main(int argc, char** argv)
   short  Z8jx47S2  =  (short)-877502270;
   double  aQYTr  =  1651973570;
     unsigned long long    JqIIcA    =    2043005464;
- char p5SL1gE0 = -1678326321;
+ char p5SL1gE0 = (char)-1678326321;
     unsigned short    JOa7r3r    =    (unsigned short)-410835010;
  unsigned short int vNpb4P = (unsigned short)929048297;
  unsigned long long JhNVG7V2 = -292376219;

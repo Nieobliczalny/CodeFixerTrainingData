@@ -49,7 +49,7 @@ int main() {
  unsigned short int p_ZYTh2o3l = (unsigned short)1793487208;
  double f_BVF = 1658224735;
  unsigned short int D6gM = (unsigned short)-1855844839;
-  char  Qh3dA  =  754935798;
+  char  Qh3dA  =  (char)754935798;
 	unsigned int	fI7920CXC0	=	2026693297;
  short int bSa0 = (short)1044276179;
     short    g6Knp8m    =    0;

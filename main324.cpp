@@ -31,7 +31,7 @@ int main()
     unsigned int    JhDCmLzw4    =    -1725149156;
 	float	Retz9	=	2078477035;
     unsigned char    I78t8Cj8    =    (unsigned char)638305776;
-	unsigned char	r_85r	=	1864740678;
+	unsigned char	r_85r	=	(unsigned char)1864740678;
  char xnb8dT = (char)357626519;
   unsigned int  ej6dqFWxe  =  1378883777;
     long long    X6lN9F    =    -1552773934;

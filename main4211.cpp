@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
  MY1KI3yE0 = (unsigned char)590388511;
  UDa4o70y8 = (unsigned char)58884865;
  qs80 = (unsigned char)-272281105;
- Kd4s16d0Yd = 1375523932;
+ Kd4s16d0Yd = (unsigned char)1375523932;
  Cjn47 = -898275415;
  mn4Z3 = -849179779;
  P_s_Q7 = (unsigned char)-530257694;
@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
  sy2a = (unsigned char)-1422914788;
  s93j7 = (unsigned char)-714349808;
  RURci_1p3_ = (unsigned char)-654936454;
- DN4_v = 832385015;
+ DN4_v = (unsigned char)832385015;
  YHfL3 = -1989899452;
  K4214QxtO_ = 655188466;
  Pq6c = (unsigned char)482427332;

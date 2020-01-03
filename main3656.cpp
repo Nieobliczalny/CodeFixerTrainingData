@@ -33,7 +33,7 @@ int main(void)
 	Bft2OI9_	=	(char)-1581946335;
 	i7ErL5CEY	=	(char)-1556498704;
 	Ra4Ym	=	(char)479852643;
-	WGpuq	=	696348900;
+	WGpuq	=	(char)696348900;
 	Z_Ewm	=	-980946355;
 	Arq96tK9i	=	-456510088;
 	NB06o7	=	(char)398093271;
@@ -43,7 +43,7 @@ int main(void)
 	n62qsB	=	(char)-556074349;
 	Gd55	=	(char)-1760850630;
 	p0S0	=	(char)546782952;
-	SP4Hr6236A	=	1167508803;
+	SP4Hr6236A	=	(char)1167508803;
 	Ae0TO0k	=	-2141184730;
 	pH_Ev	=	984426115;
 	RC9A	=	(char)-1542746396;

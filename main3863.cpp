@@ -29,7 +29,7 @@ int main(int argc, char** argv) {
     d_2KJujc    =    (unsigned char)327034026;
     q6w74clZ87    =    (unsigned char)296065803;
     DET16AR9R    =    (unsigned char)-1270617404;
-    safv9    =    1899649194;
+    safv9    =    (unsigned char)1899649194;
     m10S2Qt9R    =    -232570940;
     BV06    =    -1447295083;
     CIbC8Y    =    (unsigned char)881841693;
@@ -39,7 +39,7 @@ int main(int argc, char** argv) {
     rJGp6FwGD3    =    (unsigned char)962473217;
     xvObR    =    (unsigned char)1592756777;
     etVWx7    =    (unsigned char)60350891;
-    G7P9o    =    -815278513;
+    G7P9o    =    (unsigned char)-815278513;
     v_us7b8    =    -2086326008;
     p5KF3eU3s    =    -127704198;
     etZ4OuOhx    =    (unsigned char)-831734615;

@@ -38,7 +38,7 @@ int main(void) {
   double  a200i40  =  -365680469;
  double w_qG92C = -2129344324;
     short int    ISUqFBzw    =    (short)1034384571;
-  unsigned char  A2bR  =  1270511428;
+  unsigned char  A2bR  =  (unsigned char)1270511428;
 	unsigned short	P71i2780Z	=	(unsigned short)6622707;
  unsigned char L191wYDC = 0;
   float  v6I_2059f  =  2053504811;

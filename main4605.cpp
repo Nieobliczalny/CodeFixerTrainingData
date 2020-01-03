@@ -37,7 +37,7 @@ int main(int argc, char** argv)
     aVcg9gdT87    =    (unsigned short)708558889;
     I_32StPN    =    (unsigned short)-798214184;
     KFL4CL    =    (unsigned short)184686489;
-    P521    =    -5372190;
+    P521    =    (unsigned short)-5372190;
     E7qv_s3    =    952082075;
     u4Y1JCna    =    -1373793420;
     jrdJ89W_11    =    (unsigned short)-1644260035;

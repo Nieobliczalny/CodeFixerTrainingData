@@ -30,7 +30,7 @@ int main()
  tD_A = (short)27124356;
  lL_0Do2i = (short)-1047375872;
  mFMqgj8 = (short)-368129254;
- f66hp = -1908172742;
+ f66hp = (short)-1908172742;
  g8RdKQ_5_U = 1529506187;
  z07SEPp = 2052390381;
  nE078F = (short)-723136938;
@@ -40,7 +40,7 @@ int main()
  G5yl = (short)-194616167;
  WOhC8E1A = (short)-1051477390;
  oqLyW = (short)2042363366;
- x5xuGLU = 1911037974;
+ x5xuGLU = (short)1911037974;
  Kgh7_R = -1981949152;
  Go1S = 930915610;
  BhFR9t89 = (short)876637556;
@@ -50,7 +50,7 @@ int main()
  G6KczU9F = (short)-79138076;
  vKA7 = (short)-319218578;
  R3pGabFU = (short)626944971;
- w3qbd8u6j = -1396016607;
+ w3qbd8u6j = (short)-1396016607;
  vktGG2 = -1811055919;
  Z181 = -153056345;
  ygd0H34biU = (short)533463432;
@@ -60,7 +60,7 @@ int main()
  Q8WMx8 = (short)-1748590516;
  XFpj6 = (short)747145364;
  ypJnLVbUJ = (short)1262285769;
- YxsJrKrY8 = 308578942;
+ YxsJrKrY8 = (short)308578942;
  inD1Rt_0qb = 593815356;
  Dd281U = -411690342;
  U6hse9BW = (short)-603230960;
@@ -70,7 +70,7 @@ int main()
  e535h = (short)-1128514853;
  ip7l = (short)1366000588;
  Gkfwv01Uk = (short)-1257497343;
- KPr1Pt = -729575761;
+ KPr1Pt = (short)-729575761;
  p8g5kQ3 = -308702605;
  FvO8 = 896312338;
  vgR_T = (short)-241777879;
@@ -80,7 +80,7 @@ int main()
  f896z = (short)790707879;
  J9bmI1gEX = (short)-2138860699;
  Nce4_zzQB_ = (short)-1766655144;
- ntGcau7Bk2 = -1818064694;
+ ntGcau7Bk2 = (short)-1818064694;
  XW1t = 1048618125;
  Z4_98_kjya = -428064113;
  va6__ = (short)-1183950803;
@@ -90,7 +90,7 @@ int main()
  x5V642u = (short)-1520775857;
  XE__ = (short)1748788308;
  pRLm7n9 = (short)1006298089;
- pW62zhlj5 = -1246299127;
+ pW62zhlj5 = (short)-1246299127;
  IIl2f5 = 1096719539;
  m_Y3ZPc0 = -2019125594;
  CV4KjA_3 = (short)1410055609;
@@ -100,7 +100,7 @@ int main()
  Y_Zq8J = (short)-689102359;
  f02TR8 = (short)-1944001994;
  XqYd7Duw = (short)-1671022427;
- Br4TUo9wA = -182756050;
+ Br4TUo9wA = (short)-182756050;
  kTo1g4FOH = 538785896;
  EQtTfC63K8 = 793232408;
  WnO0vV8 = (short)745350467;

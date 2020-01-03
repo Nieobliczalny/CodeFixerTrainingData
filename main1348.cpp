@@ -28,7 +28,7 @@ int main(int argc, char** argv)
 	PS9kuN	=	(short)-589187793;
 	yuk7	=	(short)15256774;
 	zCi8	=	(short)1072377306;
-	ZmxSg	=	1772175276;
+	ZmxSg	=	(short)1772175276;
 	WpKZ2H	=	795723078;
 	paZqhYl_I	=	939773674;
 	MT08OQwypP	=	(short)-178280502;
@@ -38,7 +38,7 @@ int main(int argc, char** argv)
 	wP11_e4JZW	=	(short)-1166994712;
 	k06CZEf	=	(short)-203985896;
 	euj7w3Ys3	=	(short)1284875682;
-	Bnw_	=	1858043388;
+	Bnw_	=	(short)1858043388;
 	Yfk2	=	-1164915570;
 	SV5l9C	=	1701249277;
 	oCLP_wC4_	=	(short)-1157074130;
@@ -48,7 +48,7 @@ int main(int argc, char** argv)
 	j35X1	=	(short)-590930120;
 	Q2E20VL	=	(short)322614657;
 	FZZlK	=	(short)-633415529;
-	gLO_F	=	-1381072674;
+	gLO_F	=	(short)-1381072674;
 	DXwm506Zq	=	-314169550;
 	BURUyj	=	277177123;
 	OnoZR_	=	(short)1817215748;

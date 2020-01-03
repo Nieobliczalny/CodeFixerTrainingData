@@ -87,7 +87,7 @@ int main(int argc, char** argv) {
 	unsigned short	fbR4	=	(unsigned short)1918337048;
  unsigned char aJ3PmGi8_ = (unsigned char)-713231182;
     short int    cY1_B    =    (short)1336130842;
-  char  D5L6G9GK67  =  1053867084;
+  char  D5L6G9GK67  =  (char)1053867084;
     char    Jgf5Q5va_    =    (char)-1771035502;
 	short int	peT5q	=	493710964;
 	float	xIsskvg	=	1014661420;
@@ -108,7 +108,7 @@ int main(int argc, char** argv) {
     unsigned char    Oupq98    =    (unsigned char)1906267343;
   unsigned char  kp0_  =  (unsigned char)-544393031;
  long kNxCK1SEPm = 1714853194;
-    char    ood8O086    =    1624912127;
+    char    ood8O086    =    (char)1624912127;
   unsigned long long  DYVLscqJ  =  383311713;
 
 EO_nTzFy1d = (int)floor(QG3Nt);

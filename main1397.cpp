@@ -24,7 +24,7 @@ int main(void)
 	Eba30	=	(unsigned short)334987645;
 	Iy94	=	(unsigned short)1531120538;
 	cLY_05QFX	=	(unsigned short)1567481685;
-	T2p3	=	-289137777;
+	T2p3	=	(unsigned short)-289137777;
 	g9hke	=	-957947809;
 	xfn03_p	=	1561549926;
 	Bfc5	=	(unsigned short)-425208992;

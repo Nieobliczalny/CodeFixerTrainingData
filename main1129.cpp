@@ -19,7 +19,7 @@ int main(void) {
     Oi6sDe9x    =    (short)1432181015;
     gLNlp    =    (short)1434747066;
     pfVDzc8    =    (short)1591850993;
-    n_Y6IKRZ    =    2136730805;
+    n_Y6IKRZ    =    (short)2136730805;
     nBwqk2v_Wb    =    984904086;
     qwz_lr5D_B    =    1551054115;
     DnHb8    =    (short)-1203102630;

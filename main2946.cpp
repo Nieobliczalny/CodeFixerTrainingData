@@ -88,7 +88,7 @@ int main(void) {
  double N0aomY = -619224148;
     short    cSODT_2AD    =    (short)-823655156;
   char  AgRv3L99o2  =  (char)1387706772;
-    unsigned short int    pq_Id_    =    1315070856;
+    unsigned short int    pq_Id_    =    (unsigned short)1315070856;
  long long A5sH8P = 551780222;
   long  HHRG9G8n  =  420226675;
  char jMo_Q = (char)1809293491;

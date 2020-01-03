@@ -192,7 +192,7 @@ case 'd':
 ke030 = ldNVQ(fzKJm_, (unsigned char)-1284324044, (unsigned short)-957802443, (unsigned short)689945917, HI5JN);
 break;
 case 'e':
-ke030 = ldNVQ(-1091056426, -253308612, cp476Mf, gEYFFH459, tLBcSDz);
+ke030 = ldNVQ((unsigned char)-1091056426, -253308612, cp476Mf, gEYFFH459, tLBcSDz);
 break;
 case 'f':
 oz4Qu &= 45096000;
@@ -489,7 +489,7 @@ if (dvoY6qr)
 switch (PSk71)
 {
 case 'a':
-ym9YKblT_m = ldNVQ((unsigned char)373602598, (unsigned char)-242860619, (unsigned short)1484801015, -679771252, 449989429);
+ym9YKblT_m = ldNVQ((unsigned char)373602598, (unsigned char)-242860619, (unsigned short)1484801015, (unsigned short)-679771252, 449989429);
 break;
 case 'b':
 ke030 = ldNVQ((unsigned char)1773658444, (unsigned char)-1054207956, dvoY6qr, E192_T, -1418129822);

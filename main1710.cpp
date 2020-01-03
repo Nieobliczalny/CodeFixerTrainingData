@@ -61,7 +61,7 @@ int main()
 	char	T25wu	=	(char)1266758790;
   char  ZtjDukH  =  (char)375420504;
   unsigned char  HETS1s_CO_  =  (unsigned char)456547747;
-    char    s1w8uI    =    1882748976;
+    char    s1w8uI    =    (char)1882748976;
  unsigned short int m_X8i = (unsigned short)-2100261892;
  unsigned char Nr42r46_16 = 1228525063;
   short int  r2Pt  =  (short)-991361887;

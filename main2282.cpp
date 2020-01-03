@@ -96,7 +96,7 @@ int main() {
   unsigned short  q1pKK5  =  (unsigned short)1392989532;
   char  j5fT4e5  =  (char)641373797;
     char    oTi647aaj    =    (char)1145124731;
-  unsigned short  U2hqum  =  -1033105324;
+  unsigned short  U2hqum  =  (unsigned short)-1033105324;
   float  o_1Jx  =  549730084;
     unsigned char    iabWu    =    (unsigned char)958538232;
     unsigned int    dB14    =    899520675;

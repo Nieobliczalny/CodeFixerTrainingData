@@ -67,7 +67,7 @@ int main(int argc, char** argv)
   unsigned int  MB_eW  =  -1781645733;
  short eVUu34S0 = (short)-994363179;
     unsigned short int    Bs_we    =    (unsigned short)-136267957;
-  short int  KlY8K  =  -221833013;
+  short int  KlY8K  =  (short)-221833013;
 	unsigned int	k5X3nn9	=	-248494902;
   int  mkmih  =  1708587633;
 	long double	h1maj	=	-1559073431;

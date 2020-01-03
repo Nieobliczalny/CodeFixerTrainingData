@@ -110,7 +110,7 @@ std::cout << fUzP67Q(DqXy, URV_8842F, (short)-206836830, BZ0EIQk, M4232l) << "Ro
 while (i >= 0);
 }
 
-std::cout << "EqA0U4" << "AE5oZ" << fUzP67Q(DqXy, URV_8842F, (short)-1042204945, (short)-1631646082, -365017063) << F2JKQ6P_n_ << nS800OS_(960331471, 773071586, -419237691, BZ0EIQk) << std::endl;
+std::cout << "EqA0U4" << "AE5oZ" << fUzP67Q(DqXy, URV_8842F, (short)-1042204945, (short)-1631646082, (unsigned char)-365017063) << F2JKQ6P_n_ << nS800OS_(960331471, 773071586, -419237691, BZ0EIQk) << std::endl;
 {
 int i = 0;
 do

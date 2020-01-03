@@ -70,7 +70,7 @@ int main(void) {
   long long  F6E_Og_8  =  75797523;
 	unsigned char	Ah_2Hqqlm	=	(unsigned char)-110920246;
     short    Onr5yE0    =    (short)1470386389;
- char W1_j1T0 = -756212845;
+ char W1_j1T0 = (char)-756212845;
 	int	E8J_W6u_d	=	338723870;
     long    uw95    =    -500100914;
  double Psw0xh = -40875628;

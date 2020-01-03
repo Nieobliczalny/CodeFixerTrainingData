@@ -28,7 +28,7 @@ int main(void) {
 	G37lVOh8AT	=	(short)-1525054984;
 	vfca4G6G	=	(short)-774284178;
 	Sy34S9	=	(short)1695260463;
-	IBnB07Wb42	=	-272374219;
+	IBnB07Wb42	=	(short)-272374219;
 	M9n2989	=	1220634375;
 	rFXb3Sa	=	62142822;
 	Mv8j4_j	=	(short)1969253628;
@@ -38,7 +38,7 @@ int main(void) {
 	yCZT0	=	(short)1190375059;
 	Oe7ujYs	=	(short)552540502;
 	Z6LI_	=	(short)2114887515;
-	e_32c	=	-845396065;
+	e_32c	=	(short)-845396065;
 	Y3Zzd4j38N	=	359322780;
 	Vn77HSFOO	=	-2037293177;
 	pzo2yR_6zy	=	(short)394096916;
@@ -48,7 +48,7 @@ int main(void) {
 	MU3z	=	(short)1638597337;
 	SD06rj	=	(short)1739919602;
 	R92u16	=	(short)-1353717987;
-	jv3Wxa5704	=	466302872;
+	jv3Wxa5704	=	(short)466302872;
 	u_58BQ0W9	=	-755769270;
 	Uthe3S7_	=	-2142427794;
 	tO5085bokp	=	(short)91767474;
@@ -58,7 +58,7 @@ int main(void) {
 	zVvv36_i	=	(short)792461277;
 	DdE9	=	(short)-1865421101;
 	R03P5	=	(short)-146623587;
-	FX3A3	=	-377320348;
+	FX3A3	=	(short)-377320348;
 	f_O5xHDV	=	-651500366;
 	Y3qe7m	=	293087685;
 	ZjhQW	=	(short)2006291761;
@@ -68,7 +68,7 @@ int main(void) {
 	E8zZb8T	=	(short)385930872;
 	LCJOV	=	(short)979939875;
 	S0gGK	=	(short)-992886815;
-	S28V8KZm9	=	1646943532;
+	S28V8KZm9	=	(short)1646943532;
 	lU6_7M1RqO	=	-1828016433;
 	vVuJ0l	=	-996849080;
 	Y7j885	=	(short)471289924;
@@ -78,7 +78,7 @@ int main(void) {
 	U520	=	(short)-1193424698;
 	U0Z8l	=	(short)1845427857;
 	jiR_57_	=	(short)-466820995;
-	pf85_4w	=	442762086;
+	pf85_4w	=	(short)442762086;
 	HG_nz7C5	=	575320591;
 	Ct960	=	-1464230580;
 	zQ34	=	(short)165130366;
@@ -88,7 +88,7 @@ int main(void) {
 	v5Su5TS7gP	=	(short)918622044;
 	lePGJjir	=	(short)1487431758;
 	M9j3uJl58	=	(short)574646874;
-	fQ7B11	=	-1397723341;
+	fQ7B11	=	(short)-1397723341;
 	tIpfV99	=	-2010715206;
 	j02UFE7	=	5357558;
 	M94zJ	=	(short)883846688;
@@ -98,7 +98,7 @@ int main(void) {
 	w3pwnbq1b	=	(short)2001120317;
 	E_Ks5Ui	=	(short)-690826707;
 	vzR30o9	=	(short)552100607;
-	ZWrxgS	=	-1264753096;
+	ZWrxgS	=	(short)-1264753096;
 	yCQ4vK	=	2123080700;
 	fesmQw	=	1724682008;
 	kQXt	=	(short)1170892103;

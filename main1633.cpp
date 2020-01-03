@@ -44,7 +44,7 @@ int main(void) {
  unsigned short int moQ5 = (unsigned short)-1291023729;
     unsigned long long    OtWUzOEI5a    =    898640880;
     char    C861_gF49    =    (char)386012819;
- short fp34 = 1725927850;
+ short fp34 = (short)1725927850;
 	unsigned int	xXMzFnqN	=	-1717913578;
   float  CIlY_D3X9Y  =  243874412;
     double    ihcE89    =    1417344021;

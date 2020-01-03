@@ -100,7 +100,7 @@ int main(int argc, char** argv)
  int WA9Rt_hm3 = -1159434685;
     short    XM7mv    =    (short)84273922;
     short    dN_xX    =    (short)1076873921;
-    unsigned short    F0B5    =    -1702222678;
+    unsigned short    F0B5    =    (unsigned short)-1702222678;
  double w7zp = 716432629;
     short int    z8425Cy85W    =    0;
  int WnDP4ic7tG = -2008884062;

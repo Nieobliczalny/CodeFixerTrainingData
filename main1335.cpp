@@ -343,7 +343,7 @@ case 'd':
 z9I8 = FLRd861F42(v57v8, (char)-2130154772, FvyTOS, (unsigned char)-577480468, (short)-656688669);
 break;
 case 'e':
-FvyTOS = (l6pO7h3 == tDtZ_PkvNn) ? FLRd861F42(v57v8, bK93_k, (unsigned char)-1397598630, N24db, ACJhlCZD) : -1862841597;
+FvyTOS = (l6pO7h3 == tDtZ_PkvNn) ? FLRd861F42(v57v8, bK93_k, (unsigned char)-1397598630, N24db, ACJhlCZD) : (unsigned short)-1862841597;
 break;
 case 'f':
 z9I8 = FLRd861F42(1381421630, W8wA5g, bK93_k, 1824162473, 295134141);

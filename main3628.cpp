@@ -315,7 +315,7 @@ case 'e':
 GsK1au = gvUx7(YVdM5, (short)1875504606, Mz3m_cM, 1914581118, (unsigned char)-1861591440);
 break;
 case 'f':
-Z8c2d = gvUx7(eFcxTjQT, (short)1949072578, B1i2fG1, Sn0r2, 1871529426);
+Z8c2d = gvUx7(eFcxTjQT, (short)1949072578, B1i2fG1, Sn0r2, (unsigned char)1871529426);
 break;
 case 'g':
 Z8c2d = (int)abs(GsK1au);

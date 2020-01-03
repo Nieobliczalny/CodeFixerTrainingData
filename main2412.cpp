@@ -39,7 +39,7 @@ int main(int argc, char** argv) {
     X38_a8Lf    =    (unsigned char)-784549183;
     L47QJxuw    =    (unsigned char)-1258191878;
     j2D7f6jQ    =    (unsigned char)-282559690;
-    J4srV_e    =    -718318752;
+    J4srV_e    =    (unsigned char)-718318752;
     xPblU    =    1506730563;
     EU9Cu    =    886568494;
     M_ZQrH79_    =    (unsigned char)-1422033799;
@@ -49,7 +49,7 @@ int main(int argc, char** argv) {
     G1_A    =    (unsigned char)-1839522306;
     C3_27JCH    =    (unsigned char)647497451;
     GvD35    =    (unsigned char)108217812;
-    DLoCk6qkF    =    278816449;
+    DLoCk6qkF    =    (unsigned char)278816449;
     iBj2_mn    =    -1203103404;
     GDC6I    =    169007909;
     m5sD2Sc9U4    =    (unsigned char)603190994;
@@ -59,7 +59,7 @@ int main(int argc, char** argv) {
     kYD4M9_R    =    (unsigned char)-1519989960;
     az3S8b3ek_    =    (unsigned char)-2049746853;
     zSB6zJI    =    (unsigned char)-1839879830;
-    I_VExf    =    391715678;
+    I_VExf    =    (unsigned char)391715678;
     Nvd__    =    412948802;
     lE15jWoC0    =    -826949627;
     iYOs9N63    =    (unsigned char)1804157;
@@ -69,7 +69,7 @@ int main(int argc, char** argv) {
     g87xdu905    =    (unsigned char)1794913687;
     WGZYLqY    =    (unsigned char)-974371665;
     lyxN    =    (unsigned char)859918207;
-    D8RqmLZt    =    717972489;
+    D8RqmLZt    =    (unsigned char)717972489;
     I_t7ocP    =    -580387829;
     tgN2AsV    =    449419576;
     ojUt2    =    (unsigned char)-1918261711;
@@ -79,7 +79,7 @@ int main(int argc, char** argv) {
     F1S0L    =    (unsigned char)2138809857;
     Ds0Fi    =    (unsigned char)2105809070;
     D3w0cU    =    (unsigned char)1314144796;
-    T_7o3    =    984793241;
+    T_7o3    =    (unsigned char)984793241;
     B39n    =    2033688664;
     Qh39X2xO    =    1529566047;
     b2XwFC8jLE    =    (unsigned char)-1357772842;
@@ -89,7 +89,7 @@ int main(int argc, char** argv) {
     PBmFo6    =    (unsigned char)118930096;
     Dm6zQr1I    =    (unsigned char)591024524;
     RU4602X0    =    (unsigned char)-932642837;
-    Q_Y0w    =    -1744419404;
+    Q_Y0w    =    (unsigned char)-1744419404;
     YgE9AJvI    =    -1571605732;
     qmuMfmwZ    =    -1505169711;
     GRw9Fa_K    =    (unsigned char)367574982;

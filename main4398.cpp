@@ -75,7 +75,7 @@ int main(void)
     unsigned short    vdcast3P    =    (unsigned short)914782143;
   short int  xFAfG0  =  (short)901937330;
  char utNYsi = (char)-1117542781;
-  short  JcO638p664  =  -1787108921;
+  short  JcO638p664  =  (short)-1787108921;
 	unsigned short int	H2178a	=	(unsigned short)595289192;
   unsigned short int  VpJO  =  -1912051168;
 

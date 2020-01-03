@@ -28,7 +28,7 @@ int main(int argc, char** argv)
     C4E14E72    =    (unsigned short)907220743;
     EWkdtIjFd    =    (unsigned short)-1954341398;
     Xsp28    =    (unsigned short)-990132645;
-    f7CfKR3    =    -1792671690;
+    f7CfKR3    =    (unsigned short)-1792671690;
     lhlip14    =    1904490021;
     r7Bs65LS    =    1135850195;
     MJTT    =    (unsigned short)-1731656612;
@@ -38,7 +38,7 @@ int main(int argc, char** argv)
     YJsPt5    =    (unsigned short)1704591508;
     f8j2lfG4a    =    (unsigned short)1085193017;
     Sb_JC_    =    (unsigned short)566318798;
-    EsO6Q3iw    =    1457367607;
+    EsO6Q3iw    =    (unsigned short)1457367607;
     VwOx    =    -612171047;
 
 if (EWkdtIjFd & 438406051)

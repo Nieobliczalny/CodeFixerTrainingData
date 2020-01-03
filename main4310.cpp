@@ -29,7 +29,7 @@ int main(void)
     unsigned short    qtXSD02    =    0;
 	unsigned char	B6r75xS	=	(unsigned char)-208728258;
     unsigned short    oQR8bH    =    (unsigned short)1428112660;
-  char  RI171W  =  736409958;
+  char  RI171W  =  (char)736409958;
  long long x4zGr5_m9 = -580778543;
     short int    ECw3nt7BH    =    (short)977941370;
 	unsigned long	G__F	=	0;

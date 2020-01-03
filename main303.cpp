@@ -36,7 +36,7 @@ int main()
  unsigned short int JG8xXPW87D = (unsigned short)684888880;
  unsigned short int g9280e = (unsigned short)1636448099;
     short int    c_9YJ    =    (short)1458053569;
- unsigned short int PR66oC5S = -1517827825;
+ unsigned short int PR66oC5S = (unsigned short)-1517827825;
     short int    ivMltZfu    =    (short)-592892125;
   int  xzA305  =  -1514581931;
   long long  IAqPzs99P  =  -1770198684;

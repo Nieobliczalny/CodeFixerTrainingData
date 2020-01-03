@@ -78,7 +78,7 @@ int main(void)
     unsigned short    S3x7a    =    (unsigned short)1310841115;
 	char	GUFg58w4	=	(char)435454215;
     short    L9T_jX    =    (short)2085134383;
- unsigned char I9qBzlP8_ = 1603396495;
+ unsigned char I9qBzlP8_ = (unsigned char)1603396495;
  long long Iuo2 = 1661029240;
 	long	O38He_0i_	=	-116838006;
  long long EgIU4 = -1674935641;

@@ -47,7 +47,7 @@ int main(void)
  unsigned short at72pcg8 = (unsigned short)-2115555709;
  long long uI78axF = 1359485616;
     long long    FHf_    =    293154234;
- char t9Rd3IR8 = -1605949794;
+ char t9Rd3IR8 = (char)-1605949794;
 	long	J2Twm6SC	=	342300607;
   char  MBg0QQ6_w  =  (char)-485871378;
     unsigned long long    MnPUOx86eC    =    -768055781;

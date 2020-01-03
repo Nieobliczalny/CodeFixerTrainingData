@@ -42,7 +42,7 @@ int main(int argc, char** argv) {
     h95k9d    =    (unsigned short)-1571641294;
     PQ3J    =    (unsigned short)-1987156772;
     obpANRJW    =    (unsigned short)1250689059;
-    E_dH    =    -435336477;
+    E_dH    =    (unsigned short)-435336477;
     nljU60B040    =    -129393900;
     ASb7wrLsp    =    1554530836;
     Z2z0Z3fTu9    =    (unsigned short)-192256150;
@@ -52,7 +52,7 @@ int main(int argc, char** argv) {
     C0v6O0d    =    (unsigned short)497102138;
     H55gTRWz4    =    (unsigned short)1877543819;
     Otcg    =    (unsigned short)526289555;
-    dWJUWCYp4    =    -1484398464;
+    dWJUWCYp4    =    (unsigned short)-1484398464;
     eR9d4v    =    -1235936295;
     W8vlV    =    -980648348;
     HYj__9j3    =    (unsigned short)-1988384461;

@@ -53,7 +53,7 @@ int main() {
   UIFwmNW  =  (short)-1150610978;
   Ypg0K8  =  (short)-1196549030;
   l0Zq4I  =  (short)-892150521;
-  L3p0oHbR0  =  -820328667;
+  L3p0oHbR0  =  (short)-820328667;
   qt17636L  =  610511812;
 
 if (P4yU & -1592449169)

@@ -31,7 +31,7 @@ int main(int argc, char** argv)
     unsigned short int    c_B3pRg7O1    =    (unsigned short)1311147530;
     short int    jQzXy    =    (short)-348266226;
 	unsigned short	ZfHt	=	(unsigned short)-2140611859;
-	short	YWh80ib	=	-275344600;
+	short	YWh80ib	=	(short)-275344600;
   unsigned char  JRYmo  =  19483656;
     long long    C8OP    =    265952397;
     float    GBFsT4    =    -715919913;

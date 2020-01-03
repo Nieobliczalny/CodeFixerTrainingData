@@ -34,7 +34,7 @@ int main()
   char  sbIV182i  =  (char)-1987117872,  vyuC9S99_  =  (char)858950918,  k1mxY6  =  (char)1116573188,  hc9y  =  (char)243344083,  m6MKJm73k  =  (char)2046205519,  wNMnAEBm  =  (char)596910591;
  unsigned short int f82KSY = 0, r4Aw = 0, F8fn3Xu = 0;
 
-cout << MNET6W(sbIV182i) << Jk8Ds_W2N(1947003503, (unsigned short)1579009340, -99916469, hc9y, 410909668) << P0V7FP5T(sbIV182i, vyuC9S99_, k1mxY6, hc9y) << "GE4OcBT" << endl;
+cout << MNET6W(sbIV182i) << Jk8Ds_W2N(1947003503, (unsigned short)1579009340, (short)-99916469, hc9y, 410909668) << P0V7FP5T(sbIV182i, vyuC9S99_, k1mxY6, hc9y) << "GE4OcBT" << endl;
 
 try
 {

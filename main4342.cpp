@@ -65,7 +65,7 @@ int main(void) {
 	unsigned char	PmOz3	=	(unsigned char)724230769;
   short int  DXlS47LOjg  =  (short)473358354;
     short int    H_k428P_    =    (short)-1358840851;
-    unsigned short int    v135_1XO    =    -1266543323;
+    unsigned short int    v135_1XO    =    (unsigned short)-1266543323;
   unsigned short int  P33M9tZu8U  =  (unsigned short)1016328173;
   long  E8_7jqkjW  =  -1906080901;
   unsigned int  WvBlRz23  =  400146071;

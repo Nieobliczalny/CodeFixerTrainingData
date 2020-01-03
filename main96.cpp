@@ -39,7 +39,7 @@ int main(void) {
   A0ASl  =  (unsigned short)1437784169;
   W_GG  =  (unsigned short)569186686;
   O23qcz1  =  (unsigned short)-1567454271;
-  Dlb5V8  =  1245699823;
+  Dlb5V8  =  (unsigned short)1245699823;
   dmS8P2omM  =  36793402;
   p272X2AMvp  =  1207409700;
   So186  =  (unsigned short)-1787902442;
@@ -49,7 +49,7 @@ int main(void) {
   j89cC7o9  =  (unsigned short)-791402748;
   XVU4Nq  =  (unsigned short)1820967487;
   Y0P85N8RI  =  (unsigned short)1871517469;
-  E7oqS2  =  838947882;
+  E7oqS2  =  (unsigned short)838947882;
   ZiC1WAU_01  =  1934064857;
   su_h  =  -1051475978;
   lF_69g_2  =  (unsigned short)1634892103;

@@ -21,7 +21,7 @@ int main() {
 	QVLww	=	(unsigned char)846344491;
 	Wx3sm_6	=	(unsigned char)-158399633;
 	f09R9ck	=	(unsigned char)-1519987995;
-	dHmK_W64_q	=	-2007654332;
+	dHmK_W64_q	=	(unsigned char)-2007654332;
 	en_Fg1C	=	-1432598064;
 	lmj5fS	=	-1027416434;
 	tc4AKsP	=	(unsigned char)-1571236508;

@@ -390,7 +390,7 @@ case 6:
 jAbL8VXzy = UyqzD6Eo((unsigned short)604090887, (unsigned short)-272515789, (short)1781176729, (unsigned short)199248649, T5T1w);
 break;
 case 7:
-u7d23gt3Nx = UyqzD6Eo(-242550570, -1878731628, QOLOr29R, LeRGWk0yL7, -149394655);
+u7d23gt3Nx = UyqzD6Eo((unsigned short)-242550570, -1878731628, QOLOr29R, LeRGWk0yL7, -149394655);
 break;
 case 8:
 FVbzc4xdF = (int)abs(PTMX07_);

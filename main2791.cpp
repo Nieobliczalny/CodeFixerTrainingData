@@ -40,7 +40,7 @@ int main()
  unsigned char pM3D_Q9FG0 = (unsigned char)-848745874;
 	unsigned int	D8n6W95l6	=	1708046844;
  short SX740w8jq7 = (short)-1031610691;
-  char  OZN56  =  1636205486;
+  char  OZN56  =  (char)1636205486;
   long  V7Ou_q59  =  2103182653;
     char    C96_3p36N    =    (char)-1740469566;
     unsigned short    q3HBOOI7    =    (unsigned short)-630334342;

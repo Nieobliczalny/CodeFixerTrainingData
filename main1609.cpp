@@ -74,7 +74,7 @@ std::cout << O6gdK5OXR((unsigned char)-780700840, sWXuu6, u15rKK, (char)97537762
 
 GY7sK_ = X6u77RQR(562215546, (unsigned short)1660622788, zakJm3q, 928570470);
 
-I87Wqz = O6gdK5OXR((unsigned char)-1374465267, (unsigned char)775208510, r8GWGcYB, -1434471494);
+I87Wqz = O6gdK5OXR((unsigned char)-1374465267, (unsigned char)775208510, r8GWGcYB, (char)-1434471494);
 W741n0G_AK = 119298676 / GY7sK_;
 
 switch (H_qL1)

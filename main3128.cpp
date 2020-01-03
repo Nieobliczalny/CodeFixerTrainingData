@@ -54,7 +54,7 @@ int main(void)
  short JgF_ = (short)-2059858578;
  short Sw8z = (short)-301046303;
 	unsigned short	X__H	=	(unsigned short)1427711802;
-    short int    iMG4fZ    =    942397095;
+    short int    iMG4fZ    =    (short)942397095;
 	unsigned long long	MQ73U	=	1966656877;
 	short	gGlFJ5	=	1357515654;
  char bc1rTP6H6 = (char)-815719464;
@@ -83,7 +83,7 @@ int main(void)
   unsigned short int  O57a  =  (unsigned short)1245200268;
   char  P0Ncn4l  =  (char)-2004005076;
  short int ttBK_f = (short)1451441638;
-    unsigned char    Y67WVj    =    -959427786;
+    unsigned char    Y67WVj    =    (unsigned char)-959427786;
 	unsigned long	o9vh5g_nzW	=	-303721212;
  double Yy9Q0Xtc = 1722457634;
     double    fgePYsBr    =    1222760693;

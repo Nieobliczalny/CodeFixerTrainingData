@@ -58,7 +58,7 @@ int main()
 	unsigned char	AIum	=	(unsigned char)701112206;
 	short	t325uAO_xh	=	(short)-1443238871;
   char  pRXfY  =  (char)-1450778353;
- unsigned short uLF93R41r_ = 1172461606;
+ unsigned short uLF93R41r_ = (unsigned short)1172461606;
 	char	C9omvpAc	=	(char)-1267868139;
     int    WudKOtzHI    =    1373636852;
   float  iitLQ74eB0  =  -549805161;
@@ -93,7 +93,7 @@ int main()
   unsigned char  s8QQYe5J  =  (unsigned char)-162544431;
 	unsigned short int	sFrL4h6B4	=	(unsigned short)539889227;
   unsigned short  CoKx0n8xM1  =  (unsigned short)1284488701;
-	char	dHLBj25f7g	=	-269387147;
+	char	dHLBj25f7g	=	(char)-269387147;
 
 if (((Q4cH_b1kti != 886606369) && (l1OMx_FJ > -1480983708)) || (sKL8eP <= 1656865731))
 {

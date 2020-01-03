@@ -52,7 +52,7 @@ int main() {
   short int  tFgO  =  (short)1934228925;
   short int  QfHe  =  (short)974452620;
 	unsigned short	kim6q	=	(unsigned short)916915143;
-    short int    Jx0pi7    =    1589609068;
+    short int    Jx0pi7    =    (short)1589609068;
  long double IcP5 = 684313100;
  short eOLnJ_ = (short)383251612;
     long double    C4Qb45HK    =    -974394152;

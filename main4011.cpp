@@ -25,7 +25,7 @@ int main(void) {
 	aNu8ftz	=	(short)1801819564;
 	b7XRC	=	(short)-1211899524;
 	d24E	=	(short)126910780;
-	JCp39HMi	=	244638949;
+	JCp39HMi	=	(short)244638949;
 	xGfOC97	=	-1011473715;
 	OhyrpS3ov_	=	-332663875;
 	YX59pF3J	=	(short)995079265;

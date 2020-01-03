@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
 	EeM5L_7	=	(unsigned short)1444349615;
 	N7Jh9kdmEL	=	(unsigned short)-1452212819;
 	UVj3LvHF	=	(unsigned short)-1211748521;
-	hyvl39z	=	-996601417;
+	hyvl39z	=	(unsigned short)-996601417;
 	HeNVb9z6Q	=	-1737829720;
 	gfPGzz0	=	-390678203;
 	I77eK	=	(unsigned short)72314734;
@@ -50,7 +50,7 @@ int main(int argc, char** argv) {
 	lc166	=	(unsigned short)-1285927176;
 	C_iQIrK	=	(unsigned short)666858814;
 	FG696O87Sf	=	(unsigned short)640794928;
-	aQzulE	=	743890201;
+	aQzulE	=	(unsigned short)743890201;
 	HVfQ_	=	-2134805312;
 	oUDPwkZdr	=	1601255660;
 	N_wpBQ4	=	(unsigned short)1183177609;
@@ -60,7 +60,7 @@ int main(int argc, char** argv) {
 	GVrKxv0	=	(unsigned short)2131984999;
 	tI43	=	(unsigned short)-1503455895;
 	sG1QiwUp	=	(unsigned short)-1604648017;
-	kPe6	=	-1704788723;
+	kPe6	=	(unsigned short)-1704788723;
 	hlE5nCiA	=	1065227877;
 	K27UG2	=	-2120311257;
 	w53QPaiP3	=	(unsigned short)-1844582545;
@@ -70,7 +70,7 @@ int main(int argc, char** argv) {
 	yOaEOleP_6	=	(unsigned short)-342246842;
 	nj4YrAnx9	=	(unsigned short)-1598784080;
 	UCsk16L	=	(unsigned short)227649867;
-	tbIzA53	=	1227482992;
+	tbIzA53	=	(unsigned short)1227482992;
 	GY5g_1	=	-289947632;
 	MPAl	=	-1774923657;
 	O_3wr8x	=	(unsigned short)347890352;
@@ -80,7 +80,7 @@ int main(int argc, char** argv) {
 	pr1fM	=	(unsigned short)-1057986448;
 	NxOG	=	(unsigned short)-75706368;
 	n_R9	=	(unsigned short)1382729270;
-	ulfI4	=	262710831;
+	ulfI4	=	(unsigned short)262710831;
 	I47_6I	=	1380131897;
 	jk_uFJ1	=	1028484714;
 	usN0ITvQ3G	=	(unsigned short)1208964828;
@@ -90,7 +90,7 @@ int main(int argc, char** argv) {
 	tL7_5d4	=	(unsigned short)317926968;
 	yLVg2vjnK	=	(unsigned short)818424760;
 	xoKlW3N2	=	(unsigned short)-2069617607;
-	LZhheq	=	-544437600;
+	LZhheq	=	(unsigned short)-544437600;
 	Dr358QE_F	=	691516632;
 	PY4b2P	=	-630832605;
 	eK6Xv	=	(unsigned short)543204630;
@@ -100,7 +100,7 @@ int main(int argc, char** argv) {
 	f8a9L3	=	(unsigned short)1696963517;
 	PY6Wpf	=	(unsigned short)-1616919647;
 	mT7s	=	(unsigned short)394976342;
-	rkVa54	=	-1770949767;
+	rkVa54	=	(unsigned short)-1770949767;
 	whE43NW	=	1398664740;
 	iGW3NUr	=	-54546454;
 	NdIHcd2jM	=	(unsigned short)-741865312;

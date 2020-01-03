@@ -27,7 +27,7 @@ int main(int argc, char** argv)
  zIeV_A2Y = (unsigned short)-984193902;
  opMD4Fix_8 = (unsigned short)1245239745;
  NH_ohJ = (unsigned short)-2135339161;
- rL7L_so = 214506153;
+ rL7L_so = (unsigned short)214506153;
  CImekh7v = -948672939;
 
 rL7L_so += rL7L_so;

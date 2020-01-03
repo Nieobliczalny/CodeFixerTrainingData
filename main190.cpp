@@ -40,7 +40,7 @@ int main(void)
 std::cout << uUTd4y6VPz((char)239916514, AfT7t4jql, -1792199056, Y1Zr, j83ClB0n84) << qYzE3 << "JWN0xMZ_" << Rsu8Fa6IB((unsigned short)-1863659890, (short)1493714648, (unsigned char)-1960356845, -146760145, j83ClB0n84) << std::endl;
 for (int i = 3; i >= 0; --i)
 {
-OIt9Nt = Rsu8Fa6IB((unsigned short)1790984070, (short)1566611855, -586158259, u01P4, -713181894);
+OIt9Nt = Rsu8Fa6IB((unsigned short)1790984070, (short)1566611855, (unsigned char)-586158259, u01P4, -713181894);
 }
 if ((e8XtJvk_) && (o8XTpS6q_x < H9F92OVZ))
 {

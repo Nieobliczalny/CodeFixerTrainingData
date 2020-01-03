@@ -64,7 +64,7 @@ int main(int argc, char** argv) {
     unsigned long    XU24Y19N    =    1066422082;
  unsigned short int Na9f0_Uk = (unsigned short)-1454610787;
     short    II0wo9E    =    (short)-35795940;
- unsigned short ogpen = 94739750;
+ unsigned short ogpen = (unsigned short)94739750;
   long long  OWIRpkaj1m  =  -1858709147;
   long double  pNFW_Z  =  509848439;
 	short int	bgRJx	=	(short)397515664;

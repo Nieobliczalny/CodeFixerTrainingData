@@ -300,7 +300,7 @@ case 4:
 y48yKi0J = t5j_t(vYadZlm7, D4W1C3, 1011158145, (unsigned char)-2108918121, (unsigned char)-1705108677);
 break;
 case 5:
-Ix35wKk = t5j_t((unsigned short)-1054919247, (unsigned char)-534191762, y48yKi0J, (unsigned char)-1349572394, -496537065);
+Ix35wKk = t5j_t((unsigned short)-1054919247, (unsigned char)-534191762, y48yKi0J, (unsigned char)-1349572394, (unsigned char)-496537065);
 break;
 case 6:
 Ix35wKk = t5j_t(1357250173, -863037833, 269979572, -603289191, J5y0);

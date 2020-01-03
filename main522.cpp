@@ -34,7 +34,7 @@ int main(void)
   short int  VkK1  =  (short)1420066240;
 	unsigned short int	xdhu7C	=	(unsigned short)-1967563762;
   char  r001jUl  =  (char)89534687;
-    unsigned char    Y957tHjt    =    1462141704;
+    unsigned char    Y957tHjt    =    (unsigned char)1462141704;
 	unsigned long	y3q14	=	-919904018;
     unsigned int    WSF685    =    -772079298;
   int  EGD1V6_7D  =  1827380017;
@@ -189,7 +189,7 @@ std::cout << G1vSH__LK << Mz0EzaQ(-274150458, 1575180625, (short)769246972, M_1_
 kcD718P6 = Mz0EzaQ(YNy769, l47fwtd8O, (short)252785407, (unsigned short)-1281148272, 1456869764);
 
 std::cout << Mz0EzaQ(-1449592184, l47fwtd8O, (short)1847966112, (unsigned short)-1304679868, -1135968291) << std::endl;
-kcD718P6 = Mz0EzaQ(dvku_, -1064608828, -526044065, VkK1, a5Blu_8);
+kcD718P6 = Mz0EzaQ(dvku_, -1064608828, (short)-526044065, VkK1, a5Blu_8);
 
 {
 int i = 2;

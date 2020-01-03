@@ -24,7 +24,7 @@ int main() {
  TPMz = (short)-1808210838;
  loa2RDzl5 = (short)410705269;
  pH_Hjs = (short)1221756477;
- ca4re81 = 1501371192;
+ ca4re81 = (short)1501371192;
  gNTc531IFf = 1485752693;
  YEFxllu = 656970551;
  r1c2b8ca2 = (short)-902831108;
@@ -34,7 +34,7 @@ int main() {
  qYYTRr5V6_ = (short)1403325734;
  oorj = (short)-241217925;
  s7dwRdbr = (short)-1057963705;
- K1XQ = -1872913133;
+ K1XQ = (short)-1872913133;
  ZFaP8ZUkgV = -501502530;
  cQfKh_6 = 309049874;
  zlTZ0x5 = (short)-210196810;
@@ -44,7 +44,7 @@ int main() {
  YKsA_R68 = (short)-1912578815;
  qB1k93J = (short)-792803405;
  Zh6F = (short)-487919091;
- oTyg0YL05 = 170751345;
+ oTyg0YL05 = (short)170751345;
  NZYb_7J = -939819887;
  R_2sg31gji = -2088251910;
  zM84un5y7P = (short)-1899878952;
@@ -54,7 +54,7 @@ int main() {
  MjjHO = (short)-380972610;
  C3j6_jv = (short)-1712605297;
  g4Jh9 = (short)-1393033759;
- dhd9S = -1494061529;
+ dhd9S = (short)-1494061529;
  z69x78Z4R = 2121989242;
  S3Y5SU5 = 761360234;
  e3j3X0_ = (short)-542558535;
@@ -64,7 +64,7 @@ int main() {
  y3Y702I = (short)-2129003586;
  CwjY12G = (short)-1478274987;
  XtW60lr = (short)-786228223;
- B7ocb243 = 496887402;
+ B7ocb243 = (short)496887402;
  sH_b0 = 1755815611;
  A7_QfJb51 = -1936464703;
  I_Z1h97 = (short)-1585763837;
@@ -74,7 +74,7 @@ int main() {
  n1T6_4 = (short)-1811493083;
  TZjva = (short)-1954593375;
  WoWm7x = (short)-1269349278;
- S6FzYTQU = 810845426;
+ S6FzYTQU = (short)810845426;
  fYZ0LPRpks = 1012787249;
  FF55J2D1_ = 1475657799;
  cfIx1 = (short)1771286890;
@@ -84,7 +84,7 @@ int main() {
  OGOrNJ = (short)2059388769;
  ADZPD = (short)-491466822;
  i3S4zPm2 = (short)-2089498367;
- X80DC878 = -81646545;
+ X80DC878 = (short)-81646545;
  Uj54lPe = 439887456;
  pqym_ShFY_ = -2109785579;
  vd0sn27 = (short)-164997660;
@@ -94,7 +94,7 @@ int main() {
  SZAyFG = (short)-510787563;
  Ayu10Z = (short)-1104866508;
  Wcpugqnah4 = (short)-545614878;
- e7565 = 1409418010;
+ e7565 = (short)1409418010;
  m_C372 = 1320785134;
  UsfLKw = -2026123476;
  SSR6iQOW_S = (short)1480615693;
@@ -104,7 +104,7 @@ int main() {
  Y0_4S = (short)-731967678;
  x69FfS = (short)-72093497;
  Lk3eljh = (short)45311561;
- aALp96R = -1438042243;
+ aALp96R = (short)-1438042243;
 
 if (rVGM1_P2lP == 1340124950)
 {

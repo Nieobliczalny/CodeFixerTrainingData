@@ -36,7 +36,7 @@ int main(int argc, char** argv)
   unsigned long long  gTvaYCwb  =  -2121202085;
   unsigned char  rXN1606O9r  =  (unsigned char)312205385;
  unsigned short eMdm_ = (unsigned short)-1166410393;
-	short	RNA8vG_G	=	-985741066;
+	short	RNA8vG_G	=	(short)-985741066;
   short int  c_d1B  =  (short)626310732;
     short    d6JvqY9c    =    0;
   int  j3_Mz8_  =  1888524675;

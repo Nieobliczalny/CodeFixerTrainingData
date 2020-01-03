@@ -26,7 +26,7 @@ int main(int argc, char** argv) {
  kl81Ie = (char)142880741;
  p__mm = (char)-585081074;
  sn7bzt6F0 = (char)2077930429;
- Y6wFG = -458566011;
+ Y6wFG = (char)-458566011;
  Ks7M6aj = 1493190972;
  DW1Nz = -1530317251;
  hu2YHs3V2K = (char)1272842274;
@@ -36,7 +36,7 @@ int main(int argc, char** argv) {
  V_O4_09qB9 = (char)1775060100;
  yH1Y038VC = (char)-1356031549;
  x224s = (char)1237490282;
- zu7XqYS = -1956575737;
+ zu7XqYS = (char)-1956575737;
  J3RR9zJ1_ = 1959388997;
  v2tz = -1623393445;
 	unsigned short int	UM420by,	u9B2,	Q5e_R0,	X365QXzc25;

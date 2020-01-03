@@ -33,7 +33,7 @@ int main() {
 	short int	AKVS4do63	=	(short)-1214530141;
 	unsigned long	hV30p_n1sX	=	-14952159;
     unsigned char    dROJo78w7Y    =    (unsigned char)1383324347;
-    short    rmmQ    =    -651141591;
+    short    rmmQ    =    (short)-651141591;
  char UFyH = (char)-1129216731;
     long    Y4d8bE6q4    =    -104138687;
 	char	KKC7H7NV_5	=	(char)1258123961;

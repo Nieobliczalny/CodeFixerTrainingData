@@ -82,7 +82,7 @@ int main(void) {
     short int    jSfn3CYU9H    =    (short)-369411169;
   char  OSP49c  =  (char)137953033;
  unsigned short int WOJr_HI84W = (unsigned short)762918226;
-  unsigned short int  cKa1cdC3v  =  558902506;
+  unsigned short int  cKa1cdC3v  =  (unsigned short)558902506;
  short M429ov = (short)-1838196427;
     unsigned long    ZI9pn    =    1305119226;
  int L8u523G4 = -569457754;

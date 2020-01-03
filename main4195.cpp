@@ -19,7 +19,7 @@ int main(int argc, char** argv)
  TPe4S29_ = (unsigned short)187610861;
  kU3KuorY = (unsigned short)403187245;
  T8zuixI2m3 = (unsigned short)620997853;
- AmQFbh_ = 189146153;
+ AmQFbh_ = (unsigned short)189146153;
  Sp79__ = -501364774;
  ShgIia_25 = 1637666313;
  j55_0 = (unsigned short)-749913619;

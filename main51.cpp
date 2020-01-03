@@ -52,7 +52,7 @@ int main(void)
   short int  F65hS9Uh0  =  (short)676715611;
     unsigned short    N6987n    =    (unsigned short)-1956309108;
   unsigned short int  DEh94n96zz  =  (unsigned short)510792765;
- unsigned char c2upvNeo4 = 1765490994;
+ unsigned char c2upvNeo4 = (unsigned char)1765490994;
     char    ZHcC_5_23    =    (char)-2130088367;
 	char	AG4q6	=	(char)-420904057;
 	long double	xAP6rz3	=	606620673;

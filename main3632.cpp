@@ -26,7 +26,7 @@ int main(void) {
 	v4j50	=	(unsigned char)-1833673944;
 	haM1k4	=	(unsigned char)-1711361178;
 	Sk14_	=	(unsigned char)1152811677;
-	jt7V	=	-646147842;
+	jt7V	=	(unsigned char)-646147842;
 	GFVemNk9p	=	-807274038;
 	KaooQA7	=	-632686371;
 	k2iU	=	(unsigned char)2140511181;
@@ -36,7 +36,7 @@ int main(void) {
 	ES5iG9_ng	=	(unsigned char)-1646102581;
 	CmXbni	=	(unsigned char)-639834831;
 	u09_ea	=	(unsigned char)-190035801;
-	AgPp0_n_s	=	-262743094;
+	AgPp0_n_s	=	(unsigned char)-262743094;
 	Q_p2778MXu	=	786927599;
 	pm7m	=	-1399698839;
 	mT5_vI89H	=	(unsigned char)-1024049968;
@@ -46,7 +46,7 @@ int main(void) {
 	V6kRw1GZ	=	(unsigned char)1757838798;
 	ndNj	=	(unsigned char)-1745852509;
 	VCx8L3J	=	(unsigned char)-1029274651;
-	r_RoaQ_	=	1045269165;
+	r_RoaQ_	=	(unsigned char)1045269165;
 	kwyh	=	-2014919124;
 	iF56x	=	-353650381;
 	L2VV0	=	(unsigned char)-1550429616;
@@ -56,7 +56,7 @@ int main(void) {
 	tFP7azr_P7	=	(unsigned char)-2104640350;
 	oh81z3s8	=	(unsigned char)-300821614;
 	M_0yaIX442	=	(unsigned char)199545805;
-	RlCly3	=	344152742;
+	RlCly3	=	(unsigned char)344152742;
 	Pbtuo0	=	-1725143055;
 	SK74s	=	-1566271196;
 	LcZ6_k	=	(unsigned char)1456379763;
@@ -66,7 +66,7 @@ int main(void) {
 	Sokn1o	=	(unsigned char)1867296816;
 	P7DuOG	=	(unsigned char)202800723;
 	B64j	=	(unsigned char)-454106653;
-	jBQ4VyiP	=	904972142;
+	jBQ4VyiP	=	(unsigned char)904972142;
 	Y2p3UHp4	=	-182269921;
 	e0RiJIw48	=	-2136859408;
 	X1H255	=	(unsigned char)1211702306;
@@ -76,7 +76,7 @@ int main(void) {
 	Dhu5BEwdp	=	(unsigned char)2132635078;
 	Xu_vR1O	=	(unsigned char)261348336;
 	t0ac0SN7m	=	(unsigned char)1679010594;
-	S8usVOL8S	=	1073612535;
+	S8usVOL8S	=	(unsigned char)1073612535;
 	a8jD4qiR3	=	-296448837;
 	s_tW0Oef	=	-1729098409;
 	qlS_g1	=	(unsigned char)-111671619;
@@ -86,7 +86,7 @@ int main(void) {
 	m0g9D25CW	=	(unsigned char)1563613711;
 	uCLkTK80	=	(unsigned char)-1116210394;
 	KA28	=	(unsigned char)1675818106;
-	ukt9He_C77	=	588768775;
+	ukt9He_C77	=	(unsigned char)588768775;
 	A1J2P	=	-1883384877;
     unsigned long long    S50aiyr5,    Wn8GNu9wb,    QA6q5mJ9,    PmX4,    D4f1;
     S50aiyr5    =    0;

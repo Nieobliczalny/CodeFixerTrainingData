@@ -187,7 +187,7 @@ case 7:
 Q3Wa7nnj = cK626qK5j(Q3Wa7nnj, (unsigned short)-503294332, x3eg, MLwU, (char)-1577018388);
 break;
 case 8:
-AaObf = cK626qK5j(1329929204, (unsigned short)1854558799, 543577793, n1yA1FWV, ai911Ds32m);
+AaObf = cK626qK5j(1329929204, (unsigned short)1854558799, (unsigned char)543577793, n1yA1FWV, ai911Ds32m);
 break;
 case 9:
 kaD7 = (int)abs(MLwU);

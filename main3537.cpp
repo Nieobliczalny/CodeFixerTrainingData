@@ -104,7 +104,7 @@ int main() {
  unsigned char C4xCaPo_Bq = (unsigned char)1610279971;
  long ZE7K7bdY = -443251260;
     short int    FXOK_hy    =    (short)1609727143;
-  short int  G50h  =  -667328650;
+  short int  G50h  =  (short)-667328650;
 	int	eUl_	=	1142298697;
 	short int	PGCFxG6chD	=	(short)-950806427;
     float    HC777o_    =    946726148;

@@ -21,7 +21,7 @@ int main(void) {
 	vn_j3	=	(short)-1700133891;
 	Z3xVBk1NJT	=	(short)-1126346231;
 	aBTJ	=	(short)1661661469;
-	n19_I_	=	-881017919;
+	n19_I_	=	(short)-881017919;
 	egIr570	=	1027863813;
 	D0e0	=	1037269947;
 	Aqm6clLa9y	=	(short)-1356838056;

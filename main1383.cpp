@@ -50,7 +50,7 @@ int main(void) {
 	mxhj6C	=	(char)2074228329;
 	xGDez7LS	=	(char)1355675002;
 	cC_2a	=	(char)-1484372518;
-	GKDF92W5_6	=	1235584447;
+	GKDF92W5_6	=	(char)1235584447;
 	GwkTe	=	-80192763;
 	jZ97672	=	-523267060;
 	sw313A	=	(char)-313160715;

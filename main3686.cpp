@@ -45,7 +45,7 @@ int main()
 	short int	J0qx65gRaM	=	(short)-1049968924;
  double L5tB1k = -304955733;
  char xN76C = (char)1998805515;
- unsigned char Q9MED = -1418743866;
+ unsigned char Q9MED = (unsigned char)-1418743866;
  float W3Lyq659 = 1065494400;
  unsigned int qR2d4 = 925987961;
   unsigned long long  u7o8Iz2T7  =  1648953900;

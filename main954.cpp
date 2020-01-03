@@ -57,7 +57,7 @@ int main(int argc, char** argv)
     int    xDp36AI9    =    1249747248;
 	double	MJOP6	=	-1801896869;
   short  NAv1hvr3  =  (short)1492450883;
-    short    fUypK    =    -571122022;
+    short    fUypK    =    (short)-571122022;
 	float	GQhd6l	=	-1746420811;
 	unsigned short	B_09t	=	(unsigned short)536504995;
   double  yt07NL9EX  =  1235040707;

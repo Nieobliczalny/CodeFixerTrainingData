@@ -41,7 +41,7 @@ int main(int argc, char** argv)
     short int    TW4n6    =    (short)-1109842011;
 	unsigned char	n0R3B5Z2t	=	(unsigned char)254447729;
  unsigned short g4A1ITis = (unsigned short)321142647;
-    char    iv_oV79    =    -2017267386;
+    char    iv_oV79    =    (char)-2017267386;
  unsigned char Fo1_EPe = (unsigned char)1886600738;
 	long	Fmq5_	=	0;
     char    Oqf2QM30    =    (char)-1794445576;

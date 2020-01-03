@@ -58,7 +58,7 @@ int main(int argc, char** argv)
     long long    eQAnsz8Q    =    -2085214580;
  short ylYE8_Q = (short)716004730;
     short int    m8I4F8fB    =    (short)775238209;
-	unsigned char	R7XB2W9	=	60719947;
+	unsigned char	R7XB2W9	=	(unsigned char)60719947;
   unsigned long  p7zq4ZhRV8  =  1413298686;
 	float	SOkN9Q61	=	-454341852;
   long long  O51hITF0X  =  -1836741605;

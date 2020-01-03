@@ -18,7 +18,7 @@ int main(int argc, char** argv) {
     du0a6nlQz0    =    (unsigned short)-1799762045;
     CpXi    =    (unsigned short)1827354453;
     K8xB_J52pA    =    (unsigned short)987088401;
-    J9wY    =    1678101638;
+    J9wY    =    (unsigned short)1678101638;
     w9U7jov81    =    -1906441278;
     Edc4    =    1979779421;
     MS5U5r    =    (unsigned short)-1335124701;

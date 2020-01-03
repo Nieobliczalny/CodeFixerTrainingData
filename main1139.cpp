@@ -29,7 +29,7 @@ int main() {
 	JD058e2	=	(unsigned short)-1146721985;
 	qOn3hb	=	(unsigned short)-572551953;
 	Tec84Bfcw	=	(unsigned short)882317617;
-	qM4d	=	1630010055;
+	qM4d	=	(unsigned short)1630010055;
 	d9y7	=	875895319;
 	aVMZeK	=	484132526;
 	O4OI0chR	=	(unsigned short)766904359;
@@ -39,7 +39,7 @@ int main() {
 	v0jbiRiTi	=	(unsigned short)-9811487;
 	y6MNC5uY2	=	(unsigned short)-520829028;
 	e_DSS	=	(unsigned short)687839690;
-	rb198R04	=	-1209714125;
+	rb198R04	=	(unsigned short)-1209714125;
 	ulWF72HS	=	98379649;
 	fa3f9	=	-1610517255;
 	visf	=	(unsigned short)1436247342;
@@ -49,7 +49,7 @@ int main() {
 	RB_5	=	(unsigned short)-111721498;
 	a9A095fDiD	=	(unsigned short)49658445;
 	NkZw4mgp	=	(unsigned short)1822202263;
-	V_0877	=	-379864093;
+	V_0877	=	(unsigned short)-379864093;
 	aPuGS_np2	=	-11475788;
 	PhY_	=	792060143;
 	CA2rr	=	(unsigned short)-1207355752;
@@ -59,7 +59,7 @@ int main() {
 	UBQkK	=	(unsigned short)-559014399;
 	rTSQMG9jc	=	(unsigned short)-123987900;
 	HisuZ1Tn	=	(unsigned short)761447537;
-	lgH7FK	=	-2026957172;
+	lgH7FK	=	(unsigned short)-2026957172;
 	wii9C2	=	-692476027;
 	HVr10	=	-726995359;
 	mx5HNoB2T1	=	(unsigned short)1094950940;
@@ -69,7 +69,7 @@ int main() {
 	eri4N7ko	=	(unsigned short)-1186899969;
 	SQI2g0lS8	=	(unsigned short)-1734199649;
 	Z76k_A2J_	=	(unsigned short)346730950;
-	T0gzp7bnl	=	-2006039250;
+	T0gzp7bnl	=	(unsigned short)-2006039250;
 	BaX13	=	-335425650;
 	i6_lHRZk	=	895445722;
 	f8E7	=	(unsigned short)-578874526;
@@ -79,7 +79,7 @@ int main() {
 	NCO9Rz7RDb	=	(unsigned short)-647662377;
 	jBFx	=	(unsigned short)-1839163037;
 	JrIvSreY	=	(unsigned short)-754685068;
-	ZshXX_	=	-760534980;
+	ZshXX_	=	(unsigned short)-760534980;
 	lrz__YjT	=	-1896342821;
 	oGTC20JjV	=	-2116380059;
 	YQ6qaqPLb	=	(unsigned short)1695349413;
@@ -89,7 +89,7 @@ int main() {
 	eJE63_b	=	(unsigned short)326305653;
 	VCuM3g	=	(unsigned short)2033577319;
 	g4b7l3E3	=	(unsigned short)-1918695512;
-	cdpA3vDt9	=	859574619;
+	cdpA3vDt9	=	(unsigned short)859574619;
 	kkVAuL4Y	=	1961959767;
 	OgAk_4v	=	-968854958;
 	agtxChg83	=	(unsigned short)-1129902430;

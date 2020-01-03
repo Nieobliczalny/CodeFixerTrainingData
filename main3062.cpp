@@ -44,7 +44,7 @@ int main(void) {
     unsigned char    Ue30fPaUL    =    (unsigned char)585274918;
     unsigned short    V3LRK5J    =    (unsigned short)1965505730;
  unsigned short int MMA2 = (unsigned short)-1775037242;
-    short int    UyFh    =    380855792;
+    short int    UyFh    =    (short)380855792;
  float RgBSQs5T_V = 1718051973;
     unsigned short int    PJUR_gmId    =    (unsigned short)-127329817;
  short NDSC46sWc = (short)-800597441;

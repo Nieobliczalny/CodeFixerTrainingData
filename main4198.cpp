@@ -60,7 +60,7 @@ int main(int argc, char** argv) {
  unsigned short LX85Uwr = (unsigned short)1701578891;
     unsigned char    d48ZI2    =    (unsigned char)680291460;
 	unsigned long long	Q9h32adyb2	=	385244099;
-	short	D7C2iE8l	=	1292694938;
+	short	D7C2iE8l	=	(short)1292694938;
 	unsigned long long	pKP7upStKo	=	8106582;
 	float	vr_0t	=	-1885799401;
     short int    K7gDO    =    (short)754902030;

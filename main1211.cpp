@@ -30,7 +30,7 @@ int main(void)
     UKp4c59J1    =    (unsigned short)-988036844;
     V0__0    =    (unsigned short)-2100560104;
     NeNvY_m    =    (unsigned short)-288495275;
-    JSCYheMS8g    =    1806716740;
+    JSCYheMS8g    =    (unsigned short)1806716740;
     K3lvc    =    -1997927630;
     b96_    =    -637009869;
     D2jB6    =    (unsigned short)883323310;
@@ -40,7 +40,7 @@ int main(void)
     qmAQn    =    (unsigned short)1734972151;
     fnF420L    =    (unsigned short)658910326;
     q_YS7J    =    (unsigned short)-1572242552;
-    Gp0v5K9sHp    =    -637533257;
+    Gp0v5K9sHp    =    (unsigned short)-637533257;
     Pd34iOe    =    582501205;
     lz8ZHy33v    =    -610798418;
     SULeXr    =    (unsigned short)-1168486775;
@@ -50,7 +50,7 @@ int main(void)
     ZDz3z22    =    (unsigned short)-1487007554;
     Fx8L1Y    =    (unsigned short)-2133491783;
     OEl0    =    (unsigned short)2072895625;
-    xz8z59V8    =    1530028794;
+    xz8z59V8    =    (unsigned short)1530028794;
     j6gAVJu    =    -824295934;
     tUVhoJ    =    879157865;
     QUw6_U    =    (unsigned short)-723803590;
@@ -60,7 +60,7 @@ int main(void)
     gz7UISg    =    (unsigned short)-292114421;
     K73Zjwl    =    (unsigned short)-669653736;
     Lx99qfjdH    =    (unsigned short)1602547356;
-    n9_2z90G5B    =    1138418942;
+    n9_2z90G5B    =    (unsigned short)1138418942;
     U55yD_dVX    =    2146889871;
     ft3eMMB0GB    =    380368913;
     KeUpjd_Q0    =    (unsigned short)-1183618253;
@@ -70,7 +70,7 @@ int main(void)
     v78ums5Mo    =    (unsigned short)-1620790504;
     WhKL7LkMO    =    (unsigned short)246195497;
     S8g1R9uS    =    (unsigned short)-1974540517;
-    B97c    =    409184923;
+    B97c    =    (unsigned short)409184923;
     l05C_    =    822745289;
     o_WahGy    =    359460494;
     R_6yPG    =    (unsigned short)655625847;
@@ -80,7 +80,7 @@ int main(void)
     F4ZM36Qm9X    =    (unsigned short)1786954395;
     Jug2i    =    (unsigned short)-1285620910;
     SN9U8h    =    (unsigned short)1998683512;
-    ApeCi3NH0    =    123469077;
+    ApeCi3NH0    =    (unsigned short)123469077;
 
 if (((R_6yPG >= U55yD_dVX) || (gz7UISg > -758442866)) && (aSiA94 <= SN9U8h))
 {

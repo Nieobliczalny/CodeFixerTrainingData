@@ -93,7 +93,7 @@ int main() {
   unsigned char  RleocZb  =  (unsigned char)480897999;
  short B0_3 = (short)-1039025770;
   long long  h8Yk50WuC  =  0;
-    unsigned short    e5SY2KcJ9n    =    -1817718044;
+    unsigned short    e5SY2KcJ9n    =    (unsigned short)-1817718044;
 	unsigned short	nYmz	=	(unsigned short)1306962459;
     long long    V6wm51fnU    =    352020243;
     int    HYl2OJez7    =    -1449566242;

@@ -246,7 +246,7 @@ case 3:
 DO13 = (int)abs(yFyh7a);
 break;
 case 4:
-xBbW2 = E3Syl((short)-766372540, 1936823850, xBbW2, -2030085354, -1807764637);
+xBbW2 = E3Syl((short)-766372540, 1936823850, xBbW2, (unsigned short)-2030085354, -1807764637);
 break;
 case 5:
 oSPBd /= 1905755686;

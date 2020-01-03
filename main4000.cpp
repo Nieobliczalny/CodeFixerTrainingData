@@ -99,7 +99,7 @@ int main(int argc, char** argv)
   short  q9v33o1xv  =  (short)-774502262;
  short int pb0N = (short)888608256;
     char    D8AJa    =    (char)-1167285722;
-	unsigned short int	eW37I	=	109595757;
+	unsigned short int	eW37I	=	(unsigned short)109595757;
     double    r5VlFz7    =    1698947054;
     unsigned long    aDkva7Ha9    =    -889924219;
 	unsigned long long	HMHUO	=	846619997;

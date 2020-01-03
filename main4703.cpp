@@ -21,7 +21,7 @@ int main()
   py3XN52  =  (short)1650826181;
   Ter8f  =  (short)1333974638;
   W7YJ17  =  (short)-1473119494;
-  MiFkGo63pr  =  398630425;
+  MiFkGo63pr  =  (short)398630425;
   gZLa  =  -939757625;
   BO_T  =  1654745449;
   Qa9oMMB_6a  =  (short)986738488;
@@ -31,7 +31,7 @@ int main()
   U361X44aRr  =  (short)520246358;
   aPI6K5qX  =  (short)-288498361;
   q8uN_w4M3  =  (short)-206700369;
-  t9Jhj9yM0  =  224269679;
+  t9Jhj9yM0  =  (short)224269679;
   WVGk52  =  426333675;
   x548Fk  =  1753689638;
   bmI5TI  =  (short)-1098157083;
@@ -41,7 +41,7 @@ int main()
   z655kU7w3  =  (short)573130193;
   lydeG  =  (short)-136715400;
   dO2g_Wb  =  (short)712928752;
-  ZybP  =  1706248475;
+  ZybP  =  (short)1706248475;
   L_Mi_8  =  832566122;
   rX26xH0  =  -2014235774;
   Xii0  =  (short)-941035198;
@@ -51,7 +51,7 @@ int main()
   Sb21CJRYUn  =  (short)394415652;
   eclBYaG  =  (short)143648946;
   H1y4  =  (short)1446649613;
-  VOY_p33m_0  =  1547117662;
+  VOY_p33m_0  =  (short)1547117662;
   ghbQRP  =  357019640;
   eAzg  =  -760136546;
   piPjoLnF  =  (short)-686939444;

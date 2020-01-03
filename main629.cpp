@@ -49,7 +49,7 @@ int main()
  unsigned short int HCsSZ4v = (unsigned short)-713635863;
  unsigned char zzK1BSd = (unsigned char)-1008885740;
   unsigned short int  Um3TYWd6r  =  (unsigned short)35674625;
-    short    U7D__1Bp    =    1709422351;
+    short    U7D__1Bp    =    (short)1709422351;
 	unsigned short int	o62d	=	(unsigned short)-744323705;
   float  a8XW5  =  230209900;
 	unsigned char	iph2	=	(unsigned char)-91429472;

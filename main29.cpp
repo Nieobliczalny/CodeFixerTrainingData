@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
     unsigned short    e4iZ60    =    (unsigned short)92748013;
 	unsigned char	jL1vd	=	(unsigned char)-1692496122;
   unsigned short  EZP5  =  (unsigned short)-2100322408;
-    unsigned short    N3GL    =    -827465612;
+    unsigned short    N3GL    =    (unsigned short)-827465612;
 	long long	ILSOE3lq	=	-349953987;
 	char	TUMIb	=	(char)-1743417830;
 	unsigned long long	sf3p	=	-975199481;

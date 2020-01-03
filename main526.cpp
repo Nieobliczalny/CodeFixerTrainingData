@@ -143,7 +143,7 @@ oYl2h64 = V96y(pF843f0, (unsigned char)-760654428, (unsigned char)1308996664);
 break;
 case 'd':
 case 'D':
-hePZYti = V96y((unsigned short)-545673677, (unsigned char)1054325371, -1639128331);
+hePZYti = V96y((unsigned short)-545673677, (unsigned char)1054325371, (unsigned char)-1639128331);
 break;
 case 'e':
 case 'E':

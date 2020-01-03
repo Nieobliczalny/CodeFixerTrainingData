@@ -75,7 +75,7 @@ int main(int argc, char** argv) {
   short int  ZVH1MUYy  =  (short)-891490269;
     float    wUi3J7    =    2032086966;
   long double  xev_bO  =  -9267899;
-	short	ifefX6C7	=	1621429742;
+	short	ifefX6C7	=	(short)1621429742;
   short  n13ruq7Sy6  =  (short)-535174726;
 	char	D0Ujso_	=	(char)1450812980;
   unsigned long long  QN510TFO7d  =  1450196894;

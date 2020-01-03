@@ -41,7 +41,7 @@ int main() {
   unsigned char  E5JPWe2  =  (unsigned char)-629934063;
     unsigned char    WBxNw8C    =    (unsigned char)1301556044;
   short  Z3a8r5  =  (short)-795477690;
-    char    O4D5H9_f    =    1715298819;
+    char    O4D5H9_f    =    (char)1715298819;
  int xWlZ = 543097607;
     unsigned int    gvSGxH    =    1809358545;
  float VUrzIb = -1863688310;

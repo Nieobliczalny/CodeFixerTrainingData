@@ -122,7 +122,7 @@ int main(void) {
   unsigned char  VbGepOoQQz  =  (unsigned char)1418340344;
  unsigned short dfd7rM = (unsigned short)1592061622;
     char    DxVT28    =    (char)608917780;
-  unsigned short  re7MK0l  =  276709915;
+  unsigned short  re7MK0l  =  (unsigned short)276709915;
 	long	jw9ZoJ7	=	-236530765;
 	float	X3SkEpR	=	491399947;
 	long long	znGI	=	-1474686741;

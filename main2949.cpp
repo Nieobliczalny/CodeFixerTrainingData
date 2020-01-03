@@ -29,7 +29,7 @@ int main(void) {
   int  tjITb8nhY  =  -985963634;
  unsigned char tiM780_Bhp = (unsigned char)-687474314;
 	unsigned short int	t9dW_nqPJ	=	(unsigned short)-194880318;
- unsigned char u18o_8o1 = -1101161648;
+ unsigned char u18o_8o1 = (unsigned char)-1101161648;
     long long    JgIBG1ja5q    =    -1643805067;
  long long h0_1 = -622138725;
 	double	V7bsnFhpRm	=	472407693;

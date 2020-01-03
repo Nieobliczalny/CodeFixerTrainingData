@@ -23,7 +23,7 @@ int main() {
   float  UKfo_mw  =  -688525314;
   double  XoHewNmf3k  =  1665116566;
 	char	hy9mX	=	(char)-980875511;
-  unsigned short int  nZr9  =  -1228625929;
+  unsigned short int  nZr9  =  (unsigned short)-1228625929;
   unsigned int  oeZ_JB  =  1779157087;
 	char	QKx0	=	0;
     unsigned long long    X97L2    =    -748069940;

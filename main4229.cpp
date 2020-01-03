@@ -19,7 +19,7 @@ int main()
 	umpGU	=	(unsigned short)275429900;
 	E5_mL3z_	=	(unsigned short)-1764118074;
 	f5oBftYSOS	=	(unsigned short)956398844;
-	u7754iS5	=	654533250;
+	u7754iS5	=	(unsigned short)654533250;
 	uvo3W	=	789335591;
 	K9mK	=	1598234583;
 	vw2j_PY0N1	=	(unsigned short)-1375840905;
@@ -29,7 +29,7 @@ int main()
 	G7Ogm15	=	(unsigned short)-1585927262;
 	iBQ98	=	(unsigned short)-1359185072;
 	M53x	=	(unsigned short)-873399596;
-	W6D66EapP	=	-371806330;
+	W6D66EapP	=	(unsigned short)-371806330;
 	UQ9Y1Cd	=	-1945747239;
 	igHn5t9b	=	-1311438677;
 	l9s4Tb7Vs	=	(unsigned short)-561353496;
@@ -39,7 +39,7 @@ int main()
 	hue3	=	(unsigned short)-1843007882;
 	SfS_o	=	(unsigned short)-890238132;
 	Z7F6	=	(unsigned short)-853624888;
-	oU1T7zEJcQ	=	-76236750;
+	oU1T7zEJcQ	=	(unsigned short)-76236750;
 	Uam18n4	=	-1612852527;
 	L4kXl61z	=	2068983837;
 	bueZx	=	(unsigned short)-635495571;
@@ -49,7 +49,7 @@ int main()
 	f5W6O6p9	=	(unsigned short)-133062298;
 	If__85073s	=	(unsigned short)1830653951;
 	oK5UipNZla	=	(unsigned short)994522459;
-	rA_a	=	-639743954;
+	rA_a	=	(unsigned short)-639743954;
 	h82h_0U	=	-940820274;
 	cLa5u9	=	881452002;
 	t94PO	=	(unsigned short)-2039488951;
@@ -59,7 +59,7 @@ int main()
 	ykc4	=	(unsigned short)816008635;
 	x1P69	=	(unsigned short)1604062144;
 	xx00Wz47V	=	(unsigned short)-1087810865;
-	ijoDqyZ	=	-432519625;
+	ijoDqyZ	=	(unsigned short)-432519625;
 	we9Lq	=	452895789;
 	uO9M8a	=	-1500461191;
 	Dl2683yUHT	=	(unsigned short)2049193229;
@@ -69,7 +69,7 @@ int main()
 	S2SmE	=	(unsigned short)-1795404871;
 	Mymju_J0b	=	(unsigned short)-1373243769;
 	u2lkC5C0L7	=	(unsigned short)-1457035078;
-	I4T0i5o	=	-1678458107;
+	I4T0i5o	=	(unsigned short)-1678458107;
 	CpbE9	=	563592989;
 	y47R	=	28837383;
 	F6_osN1Zi	=	(unsigned short)-556231531;
@@ -79,7 +79,7 @@ int main()
 	BRDQPOFfg	=	(unsigned short)1386248864;
 	r6dY_10	=	(unsigned short)-1078049986;
 	f73U	=	(unsigned short)-2012942062;
-	Yv55vYK0An	=	263602993;
+	Yv55vYK0An	=	(unsigned short)263602993;
 	Ca9o	=	840735630;
 	zOZF8	=	-1258793002;
 	Z54S7Xt	=	(unsigned short)-1091022270;

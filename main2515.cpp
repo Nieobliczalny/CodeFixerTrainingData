@@ -19,7 +19,7 @@ int main(void)
 	unsigned char	IhJF9bK9U	=	(unsigned char)-293673074;
     unsigned short    r5D5Q    =    (unsigned short)1699613166;
 	unsigned short	w04TBa9Z2k	=	(unsigned short)-818776919;
- unsigned short sR1uobK = 360914285;
+ unsigned short sR1uobK = (unsigned short)360914285;
 	unsigned long	bJIQoAjs9	=	1535670256;
 	unsigned long long	r_MpZy0E3Y	=	-1011302365;
   unsigned long  vJoIoQi1u  =  -1267461196;

@@ -38,7 +38,7 @@ int main(int argc, char** argv) {
 	short int	yWAxpT4335	=	(short)-1453615554;
   long  Y_L356MsB  =  1473656714;
   short int  sYTuDe7  =  (short)249954566;
-  unsigned char  p8Ltt60i  =  1591383074;
+  unsigned char  p8Ltt60i  =  (unsigned char)1591383074;
 	unsigned long	wca4E8h7eV	=	-1430745279;
     double    s3Jcq    =    877576405;
   int  ZDwS8_  =  2121336166;

@@ -43,7 +43,7 @@ int main(void)
     Vp0y    =    (short)-44960567;
     M61389P    =    (short)-582677059;
     e0Kb1    =    (short)1131529123;
-    E489w    =    -458422401;
+    E489w    =    (short)-458422401;
     h1x20QBh8    =    -1249046073;
     Y5tmf    =    -621345037;
     lxxIz8h3L    =    (short)-1957160455;

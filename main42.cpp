@@ -313,7 +313,7 @@ case 9:
 rR__ *= 887806727;
 break;
 default:
-KhIY = C4wNma952((short)1944713425, (unsigned short)354408425, (short)681212461, I82BdZ73w, -357051302);
+KhIY = C4wNma952((short)1944713425, (unsigned short)354408425, (short)681212461, I82BdZ73w, (unsigned short)-357051302);
 break;
 }
 }

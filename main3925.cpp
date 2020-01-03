@@ -34,7 +34,7 @@ int main()
 	l1Le4zkL	=	(char)-494356918;
 	ai1e_X	=	(char)1739501814;
 	L_5_U	=	(char)-1268699610;
-	d_aiOF1	=	1439778999;
+	d_aiOF1	=	(char)1439778999;
 	Kr5hF6616w	=	-1799442503;
 	Zjl8kgID5	=	-447354735;
 	U7MfLqna	=	(char)-1966531165;
@@ -44,7 +44,7 @@ int main()
 	OO8JBj3	=	(char)-269128348;
 	TMQl2h56	=	(char)-371679465;
 	C_uaQF_	=	(char)-2126199409;
-	i57s6oXw	=	640648526;
+	i57s6oXw	=	(char)640648526;
 	Q57wwH	=	-50268327;
 	cMQU61x6K	=	564245713;
 	yD4S7g_	=	(char)1107984285;
@@ -54,7 +54,7 @@ int main()
 	pS_S	=	(char)-1307631905;
 	H6QaPd1v6J	=	(char)-27069783;
 	o0Mm4	=	(char)39143826;
-	PkY8p_GAC	=	-177390603;
+	PkY8p_GAC	=	(char)-177390603;
 	Z4ne2H	=	-32489139;
 	j93X_lU	=	1529173227;
 	v594Y	=	(char)900382540;
@@ -64,7 +64,7 @@ int main()
 	RIsE	=	(char)1669332832;
 	Ul805I	=	(char)-263301114;
 	w68c22fN	=	(char)-880278878;
-	AmE3	=	-2011993114;
+	AmE3	=	(char)-2011993114;
 	XTnsQ9j5T	=	-1401542645;
 	XH4pk99jGH	=	456237201;
 	GNAVmYvvuv	=	(char)496625120;
@@ -74,7 +74,7 @@ int main()
 	q5_x9	=	(char)1626046714;
 	XCaDQHNe	=	(char)635578259;
 	XrZE5	=	(char)-799282175;
-	sT9L3E2Ma6	=	781050670;
+	sT9L3E2Ma6	=	(char)781050670;
 	dXAB290698	=	89554479;
 	ty9BGfLnKJ	=	-1231373099;
 	DSRxyms	=	(char)-523891333;
@@ -84,7 +84,7 @@ int main()
 	fPB0d_	=	(char)1396188591;
 	A7snfR	=	(char)605873316;
 	xule	=	(char)83556332;
-	NotpSr	=	-1893140276;
+	NotpSr	=	(char)-1893140276;
 	XypIgd	=	-1410351014;
 	U0xr15	=	-28696194;
 	bfTe	=	(char)176562695;
@@ -94,7 +94,7 @@ int main()
 	qyAduAABD	=	(char)515482945;
 	lRO2ceiOr_	=	(char)-1065001588;
 	Ny0kw3S8mE	=	(char)-1685699451;
-	M1nFy3h_i	=	2147309246;
+	M1nFy3h_i	=	(char)2147309246;
 	Q6_Gy378	=	1516386700;
 	T7jxq5sV7	=	-974243552;
 	WK8D2H7N	=	(char)1757485878;
@@ -104,7 +104,7 @@ int main()
 	Uo3zA	=	(char)1947661005;
 	eG8gtg	=	(char)1114177812;
 	e111t	=	(char)204812213;
-	RC6Pos	=	915096840;
+	RC6Pos	=	(char)915096840;
 	n0R1hN	=	1297695003;
 	M1zydJ2	=	-286269419;
 	s8N2QrfKbE	=	(char)1170019447;
@@ -114,7 +114,7 @@ int main()
 	jiPd	=	(char)-2068664655;
 	cDzw	=	(char)-1903755011;
 	Jf5_R	=	(char)-440166316;
-	egAw73K1x3	=	-255003578;
+	egAw73K1x3	=	(char)-255003578;
 	a6Uv	=	-1222457374;
 	oV6aT__f	=	-368124919;
 	Nq6P_l7BB	=	(char)-772594336;

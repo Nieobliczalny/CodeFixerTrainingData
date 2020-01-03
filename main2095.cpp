@@ -25,7 +25,7 @@ int main(int argc, char** argv) {
     unsigned char    ge_FYntaH8    =    (unsigned char)-1024748550;
 	unsigned char	w_20x_dEb	=	(unsigned char)412841921;
   unsigned char  WcoeqTas  =  (unsigned char)972085540;
-  char  U98Z  =  -23529350;
+  char  U98Z  =  (char)-23529350;
   char  akotM_  =  (char)73519310;
 	long double	u22_	=	-567335485;
   long  Av317M2c  =  1270975722;

@@ -60,7 +60,7 @@ int main() {
     char    k3a9dSvQR    =    (char)-425016315;
  unsigned short M186_ = (unsigned short)361894449;
  char knaKJk = (char)-1589539279;
-  short int  RHP5y  =  -128693969;
+  short int  RHP5y  =  (short)-128693969;
     int    D10e3_2__    =    57435255;
   unsigned int  uK_e  =  1567554407;
     char    F7KIL0    =    (char)-61655436;
