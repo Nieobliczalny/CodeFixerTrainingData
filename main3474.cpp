@@ -58,7 +58,7 @@ case 2:
 atIH = T_A2Im5OE((short)-753442115, (short)156233038, otug8Nv7, (short)1151477905, P843140j) + 1139594554;
 break;
 case 3:
-Ua_R5A3e_6 = T_A2Im5OE((short)-230067612, -761150777, -415679862, 235958438, i146wop);
+Ua_R5A3e_6 = T_A2Im5OE((short)-230067612, (short)-761150777, -415679862, 235958438, i146wop);
 break;
 case 4:
 yfF7xi1f--;

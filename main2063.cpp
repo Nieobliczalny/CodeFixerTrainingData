@@ -250,7 +250,7 @@ while (i >= 0);
 E3ceM3N3cb = (int)floor(ngYSfNugeH);
 
 X24X6I = (unsigned short)(yW_xF);
-sccp82 = Zu1M5k9 / OtR27rYLAK((short)1929927600, (short)-1785573807, -1930265409, I8jkX5, Q9e_70LfRz);
+sccp82 = Zu1M5k9 / OtR27rYLAK((short)1929927600, (short)-1785573807, (unsigned char)-1930265409, I8jkX5, Q9e_70LfRz);
 IM_0 = (int)abs(vXd5L5wS) + (-186513124);
 try
 {

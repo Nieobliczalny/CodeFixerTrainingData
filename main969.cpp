@@ -36,7 +36,7 @@ int main(void)
  long long i4T40I = -413935291;
   unsigned char  KNzX_6K  =  (unsigned char)-362237632;
  char g3HX84A9z0 = (char)1574711687;
-	unsigned short	q_5ADc4M	=	1816760260;
+	unsigned short	q_5ADc4M	=	(unsigned short)1816760260;
     int    tUt09_5d    =    1479898559;
     unsigned char    sCpQ7bTc    =    -418940800;
   unsigned int  r7929F  =  -1802415930;
@@ -148,7 +148,7 @@ case 5:
 o59gqA = ATpU3(q_5ADc4M, o59gqA, (char)-368960404, (short)-224197991);
 break;
 case 6:
-Vjt5R24 = ATpU3(dd5ZqDK242, Vjt5R24, -1627541591, o59gqA);
+Vjt5R24 = ATpU3(dd5ZqDK242, Vjt5R24, (char)-1627541591, o59gqA);
 break;
 case 7:
 VY_gf6_ <<= sCpQ7bTc;
@@ -164,7 +164,7 @@ tUt09_5d = (int)abs(d_ZR7);
 
 if ((q_5ADc4M / ATpU3(dd5ZqDK242, (unsigned short)-558410608, i4T40I, (short)1976357946)) <= -1309834480)
 {
-gtsFODTYi6 = ATpU3(-776333580, (unsigned short)655171661, i4T40I, (short)2052541200) / ATpU3(568925213, Vjt5R24, 255190717, o59gqA);
+gtsFODTYi6 = ATpU3(-776333580, (unsigned short)655171661, i4T40I, (short)2052541200) / ATpU3(568925213, Vjt5R24, (char)255190717, o59gqA);
 }
 
 {

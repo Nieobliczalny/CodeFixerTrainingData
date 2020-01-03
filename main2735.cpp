@@ -25,7 +25,7 @@ int main(void) {
 	WJWd1	=	(short)2085796945;
 	JWif83c	=	(short)-1073783744;
 	yNmz99Od	=	(short)393750358;
-	G37lVOh8AT	=	-1525054984;
+	G37lVOh8AT	=	(short)-1525054984;
 	vfca4G6G	=	-774284178;
 	Sy34S9	=	1695260463;
 	IBnB07Wb42	=	-272374219;
@@ -35,7 +35,7 @@ int main(void) {
 	Hy7__L3LSQ	=	(short)-1982443295;
 	EI2U0cfs8K	=	(short)910974830;
 	Qj458mrR	=	(short)-1634746820;
-	yCZT0	=	1190375059;
+	yCZT0	=	(short)1190375059;
 	Oe7ujYs	=	552540502;
 	Z6LI_	=	2114887515;
 	e_32c	=	-845396065;
@@ -45,7 +45,7 @@ int main(void) {
 	xkcUtom8DY	=	(short)-1749031998;
 	CZ429ay_Z	=	(short)-1366873250;
 	LO1vz0c1_8	=	(short)-1956583259;
-	MU3z	=	1638597337;
+	MU3z	=	(short)1638597337;
 	SD06rj	=	1739919602;
 	R92u16	=	-1353717987;
 	jv3Wxa5704	=	466302872;
@@ -55,7 +55,7 @@ int main(void) {
 	MJ7l8cg13	=	(short)-1546718827;
 	SwVU29	=	(short)985944444;
 	h4yQLR1Zv	=	(short)-1737033613;
-	zVvv36_i	=	792461277;
+	zVvv36_i	=	(short)792461277;
 	DdE9	=	-1865421101;
 	R03P5	=	-146623587;
 	FX3A3	=	-377320348;
@@ -65,7 +65,7 @@ int main(void) {
 	sB1ChT4ZPG	=	(short)-1327770542;
 	sQR490Og	=	(short)546980161;
 	kRUOqV_	=	(short)-98905491;
-	E8zZb8T	=	385930872;
+	E8zZb8T	=	(short)385930872;
 	LCJOV	=	979939875;
 	S0gGK	=	-992886815;
 	S28V8KZm9	=	1646943532;
@@ -75,7 +75,7 @@ int main(void) {
 	c8nHW6uUbz	=	(short)-1641802177;
 	Z_OP0A	=	(short)-299153490;
 	tidqhY84K4	=	(short)1077797579;
-	U520	=	-1193424698;
+	U520	=	(short)-1193424698;
 	U0Z8l	=	1845427857;
 	jiR_57_	=	-466820995;
 	pf85_4w	=	442762086;
@@ -85,7 +85,7 @@ int main(void) {
 	rKmqd	=	(short)-801348790;
 	VYuzbVd0J	=	(short)1106395137;
 	K4FW3PP8	=	(short)1820088854;
-	v5Su5TS7gP	=	918622044;
+	v5Su5TS7gP	=	(short)918622044;
 	lePGJjir	=	1487431758;
 	M9j3uJl58	=	574646874;
 	fQ7B11	=	-1397723341;
@@ -95,7 +95,7 @@ int main(void) {
 	A53fPl3ufM	=	(short)862913381;
 	Bx0eI	=	(short)-523895179;
 	YtXFp5Kh	=	(short)855285118;
-	w3pwnbq1b	=	2001120317;
+	w3pwnbq1b	=	(short)2001120317;
 	E_Ks5Ui	=	-690826707;
 	vzR30o9	=	552100607;
 	ZWrxgS	=	-1264753096;
@@ -155,7 +155,7 @@ case 4:
 M9n2989 = Ss1a9PZf_J((short)-1367266842, (unsigned char)-37788885, (unsigned short)-534372378) * S28V8KZm9;
 break;
 case 5:
-jv3Wxa5704 = NLaYxve_((unsigned short)-1015913692, -1637391833, vzR30o9, 360532946);
+jv3Wxa5704 = NLaYxve_((unsigned short)-1015913692, (unsigned short)-1637391833, vzR30o9, 360532946);
 break;
 case 6:
 yCQ4vK = tIpfV99 - xkcUtom8DY;

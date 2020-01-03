@@ -244,7 +244,7 @@ case 'a':
 fp2B %= Mn0iBf;
 break;
 case 'b':
-Mn0iBf = HkTI(-940980195, Gs6yUn6);
+Mn0iBf = HkTI((unsigned char)-940980195, Gs6yUn6);
 break;
 case 'c':
 V_o2id4gQs = (int)abs(VM2_SX);

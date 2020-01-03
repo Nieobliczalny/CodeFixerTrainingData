@@ -47,7 +47,7 @@ int main() {
     unsigned short int    w0ZMj08u;
     w0ZMj08u    =    (unsigned short)-1043506013;
 	unsigned short int	RLF6Y;
-	RLF6Y	=	1685237508;
+	RLF6Y	=	(unsigned short)1685237508;
     unsigned short    KK4GZ13j9_;
     KK4GZ13j9_    =    (unsigned short)-1445916265;
     unsigned char    CnuCFf98;

@@ -55,7 +55,7 @@ int main()
 	unsigned short	Am5N	=	(unsigned short)-1994965488;
 	unsigned char	I3_dW	=	(unsigned char)-1542963241;
  long long OC10vJrP = -142727266;
-	unsigned short	WUm5bn2wG	=	1194023690;
+	unsigned short	WUm5bn2wG	=	(unsigned short)1194023690;
  unsigned long LoQCn14H = 0;
 	long long	g8O20cZ	=	-880991042;
 	long double	KE6k	=	927582518;
@@ -68,7 +68,7 @@ int main()
   unsigned int  l5VDX8gO  =  -219782014;
   short int  ZXMSn0Ug  =  (short)-137631138;
 	unsigned char	PxM2MH	=	(unsigned char)-828969182;
-  unsigned short int  cl52u8  =  -26037945;
+  unsigned short int  cl52u8  =  (unsigned short)-26037945;
  unsigned short int T61B6p3 = (unsigned short)-1821876452;
 	float	R7P_jRU	=	-1680296287;
   unsigned long  V_A1Vh  =  -1296202818;

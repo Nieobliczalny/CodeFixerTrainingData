@@ -211,7 +211,7 @@ case 4:
 G8Hmv_25sB = pAqeb + 1448443830;
 break;
 case 5:
-Vr8B = y0a_((unsigned short)1267144525, (unsigned short)1352036573, 778489262);
+Vr8B = y0a_((unsigned short)1267144525, (unsigned short)1352036573, (char)778489262);
 break;
 }
 if (RPfP_Ty1hi == -931871781)

@@ -39,7 +39,7 @@ int main()
 	unsigned char	JorrZJE9	=	(unsigned char)152085133;
     short int    MGyK    =    (short)269317967;
     unsigned int    ee3Qx_    =    -1508174057;
-	short	nA4vGC3o	=	-2128272384;
+	short	nA4vGC3o	=	(short)-2128272384;
   long long  m2O31Sox8  =  29445408;
 	long double	t3Q3DH	=	1188881946;
     long    n1ND    =    -1840624023;
@@ -50,7 +50,7 @@ int main()
     long long    RNoR0_jr    =    -222066803;
 	short	xuK5xB	=	(short)1624660992;
 	char	IOHUcj043b	=	(char)-1617713958;
-	char	XS540f7	=	-1406727438;
+	char	XS540f7	=	(char)-1406727438;
     unsigned long long    pGQU    =    629642524;
   unsigned int  T730  =  -2047582016;
     long double    QD4O4Pv5_    =    1107048532;
@@ -65,7 +65,7 @@ int main()
     double    GeG1l5T83    =    571669455;
  unsigned long hW7Vdmnx = 1070963327;
  char srA4dzZW = (char)241715419;
- unsigned short mEnj = -1016477157;
+ unsigned short mEnj = (unsigned short)-1016477157;
 
 Gwh7xqy5D = (int)floor(d2_01X);
 for (int i = 2; i >= 0; i--)

@@ -19,7 +19,7 @@ int main(int argc, char** argv) {
     short    Ga1Q    =    (short)-2100229007;
 	long	i016XyKs	=	1187971794;
     unsigned long    r0gk    =    1200260982;
-  char  hdq9Slix  =  -1408826807;
+  char  hdq9Slix  =  (char)-1408826807;
   long double  X_4d9D12  =  1745241379;
     long    U4v4F46i3    =    -692283056;
     char    W9C2M4t    =    (char)1645200734;
@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
 	short	qUVu7	=	(short)-1002365099;
 	char	THk4_7	=	-543081864;
 	unsigned int	JBD6X	=	1030087289;
-	unsigned short int	j_C3G	=	1403989997;
+	unsigned short int	j_C3G	=	(unsigned short)1403989997;
 	double	I97N11jKB	=	2001063264;
 	unsigned int	B1TI90d	=	-777650032;
  short l32P9df = 0;
@@ -187,7 +187,7 @@ COnF5ki8B5 /= 1376454148;
 N8cX |= emN9WN;
 if ((eU67Q) || (peffj0fE > Ron5))
 {
-std::cout << d9_oG((char)813517551, -1392313660, (short)1248158489, (unsigned char)504194475) << "Qme_wnaMH" << EWpG() << hinU0Y << d9_oG((char)1860446738, p78Yyw5R2Y, to8UG, 815510407) << std::endl;
+std::cout << d9_oG((char)813517551, -1392313660, (short)1248158489, (unsigned char)504194475) << "Qme_wnaMH" << EWpG() << hinU0Y << d9_oG((char)1860446738, p78Yyw5R2Y, to8UG, (unsigned char)815510407) << std::endl;
 }
 else
 {

@@ -23,7 +23,7 @@ int main(int argc, char** argv) {
 	short	xwRW5X3_M	=	(short)-1278858942;
  unsigned short MxCbc1l3S = (unsigned short)1959043648;
  char csFw8B1nb = (char)1645580843;
-  short  Lhaos0  =  -255501008;
+  short  Lhaos0  =  (short)-255501008;
   short int  NZ7tI  =  -103074129;
     double    KnX2Q_o    =    -1320926476;
     char    g5LlkOYy    =    114404668;
@@ -38,7 +38,7 @@ int main(int argc, char** argv) {
  double vJtV = -326026941;
 	unsigned char	GyBf	=	(unsigned char)-1137829992;
   short int  bZBGmN1ue_  =  (short)-1406852900;
-	unsigned char	m4rRr	=	1579333604;
+	unsigned char	m4rRr	=	(unsigned char)1579333604;
     long    LyG1roM    =    -1161405454;
  long long XvwYbO3nc = 52348471;
   short int  U4KP  =  (short)411406131;
@@ -78,7 +78,7 @@ int main(int argc, char** argv) {
     unsigned short int    S25O9q    =    (unsigned short)1956156790;
 	unsigned short	mo0uI	=	(unsigned short)574951931;
   unsigned short  fNX0s4  =  (unsigned short)-2054881106;
-	unsigned short	NH8eEMl1	=	789166584;
+	unsigned short	NH8eEMl1	=	(unsigned short)789166584;
 	unsigned char	jcP0jso	=	1448629310;
   unsigned long  h2b4E4vL7  =  770622371;
  float qbkia3h = -1888909390;
@@ -92,7 +92,7 @@ int main(int argc, char** argv) {
     unsigned long    pO6Wb    =    1135685387;
   long  rY02q5c8Qf  =  1039556174;
 	double	Ng68xO4o	=	-1866436461;
-    char    IrOQ_5    =    1480908559;
+    char    IrOQ_5    =    (char)1480908559;
 	long long	HQzbEEg4	=	357950632;
 	int	k05a38D0	=	841399626;
   long double  ZW9B_  =  -2003504402;
@@ -105,7 +105,7 @@ int main(int argc, char** argv) {
   char  Ir44  =  (char)-1534689896;
     unsigned char    L_w9t7T    =    (unsigned char)-606865521;
     unsigned short int    f_4JWxg6    =    (unsigned short)1658745841;
- unsigned char ykn8g6 = -819617301;
+ unsigned char ykn8g6 = (unsigned char)-819617301;
   long double  XtFsDf  =  1540296353;
 	unsigned long long	BM1I5_	=	-907022688;
     long    FoTow    =    116900036;
@@ -118,7 +118,7 @@ int main(int argc, char** argv) {
     char    Lh3gZ6Lk4w    =    (char)184235189;
  unsigned int EM3Z = 1493417305;
  float XkY_ = -1034085612;
-    short int    I63AXo    =    -1684793529;
+    short int    I63AXo    =    (short)-1684793529;
 
 if ((E_2bFGM3 <= fNX0s4) && ((m4rRr >= ElVX_9B) && (Hy0I <= 2090834423)))
 {

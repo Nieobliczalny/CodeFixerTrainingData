@@ -247,7 +247,7 @@ while (i < 9);
 rY1XIQ = HZeMWl3P7((unsigned short)-1209943183, kt26M1fR, (unsigned char)-621636343, CP1hyYl_Fg, P_pKlpr);
 
 s4Jddoq = C9wUw789i / hYKwn2(-833233053, kt26M1fR, JVB_8G11yE);
-V0j9fWJxa = HZeMWl3P7(V0j9fWJxa, -1685739830, Ha2paq2jZp, -820137950, -1980615686);
+V0j9fWJxa = HZeMWl3P7(V0j9fWJxa, -1685739830, Ha2paq2jZp, (char)-820137950, -1980615686);
 iAa7 = HZeMWl3P7(880827695, NHoj8WL9, 632500365, woY8vBT, T5hzWP);
 
 e69MUMO = (C8T5T <= 1549134963) ? e69MUMO : V0j9fWJxa;
@@ -316,7 +316,7 @@ case 4:
 CP1hyYl_Fg = hYKwn2(C9wUw789i, 1490466647, woY8vBT);
 break;
 case 5:
-N_gbVMH0v = HZeMWl3P7((unsigned short)1483718529, e69MUMO, (unsigned char)-986674043, 1718214083, 1982518060);
+N_gbVMH0v = HZeMWl3P7((unsigned short)1483718529, e69MUMO, (unsigned char)-986674043, (char)1718214083, 1982518060);
 break;
 case 6:
 M2855 = e69MUMO - CP1hyYl_Fg;

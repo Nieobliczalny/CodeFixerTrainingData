@@ -186,7 +186,7 @@ case 3:
 X517fkT = HZ45((unsigned char)466113354, (unsigned char)-480960988, X517fkT);
 break;
 case 4:
-q5qSK = HZ45(m_WOS4S, -103918, 502597835);
+q5qSK = HZ45(m_WOS4S, (unsigned char)-103918, 502597835);
 break;
 case 5:
 vd89p_K0 %= 1265237292;

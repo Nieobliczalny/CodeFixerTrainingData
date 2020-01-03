@@ -159,7 +159,7 @@ iW0BAO5S4 = N258((char)1004615529, (unsigned short)25243356, vBuaC, (unsigned sh
 }
 
 FSNoR7 = l92RMWo(Eov0M6aC83);
-L44Q88b3 = N258((char)-1167687918, L44Q88b3, 1285830803, -696407641, 1998982456);
+L44Q88b3 = N258((char)-1167687918, L44Q88b3, (unsigned char)1285830803, -696407641, 1998982456);
 
 try
 {
@@ -220,7 +220,7 @@ SR7WL = N258(SR7WL, (unsigned short)441176870, (unsigned char)1606578698, z0eAg4
 break;
 }
 }
-std::cout << N258((char)-1377813762, D4gcl_5H, vBuaC, 1214062148, 758162951) << std::endl;
+std::cout << N258((char)-1377813762, D4gcl_5H, vBuaC, (unsigned short)1214062148, 758162951) << std::endl;
 
 jxAo0w8 -= 1976049306;
 for (int i = 0; i < 2; i++)

@@ -161,7 +161,7 @@ sJeb7_06Pn = rUv6x_iYY((short)21537522, (unsigned short)-1469385924, (char)16734
 break;
 case 'f':
 case 'F':
-sJeb7_06Pn = BEhO((unsigned char)1901299303, ULAY60, 536097103);
+sJeb7_06Pn = BEhO((unsigned char)1901299303, ULAY60, (short)536097103);
 break;
 case 'g':
 case 'G':

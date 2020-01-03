@@ -28,7 +28,7 @@ int main(void)
   unsigned char  Unuo86se  =  (unsigned char)-534852954;
  unsigned short thR2etw = 0;
     unsigned int    f_K1e4_La3    =    1964422742;
-    short    UwvAe5M    =    -1446007419;
+    short    UwvAe5M    =    (short)-1446007419;
 	unsigned short	u3f1	=	753028905;
     unsigned long    aQJ07D0    =    1382653057;
  long long o1s4ae = 1346532608;
@@ -53,7 +53,7 @@ int main(void)
 	short	v6o147514	=	(short)623767330;
     long double    GifDdUv6    =    -200790688;
 	unsigned char	sevRAwOo	=	(unsigned char)2030895344;
-  unsigned short int  k2C73ntr  =  -1695480217;
+  unsigned short int  k2C73ntr  =  (unsigned short)-1695480217;
   long  r2a5  =  618008391;
     long long    c4zxhA91YS    =    -1660105551;
 	unsigned int	vpV4J	=	-1270665259;
@@ -73,7 +73,7 @@ int main(void)
 	unsigned short	sKLYG	=	(unsigned short)-391269002;
  short int H5rfi = (short)1887536356;
   unsigned int  zAOb80  =  -2101420807;
-    unsigned short int    JF7II    =    1768755595;
+    unsigned short int    JF7II    =    (unsigned short)1768755595;
 	long	SuXIv2	=	-1737375335;
   short int  qmqfX  =  -469599890;
     unsigned long long    MmHHv    =    15401780;
@@ -325,7 +325,7 @@ VTcu = XUgzX - p_8dSG_B_;
 }
 else
 {
-sTfm = onVTj6_25L(896846649, K5i6, 615914755, 279085281);
+sTfm = onVTj6_25L((short)896846649, K5i6, 615914755, 279085281);
 }
 }
 catch (int& errorCode)

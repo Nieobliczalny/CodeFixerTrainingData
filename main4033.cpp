@@ -26,7 +26,7 @@ int main()
  unsigned short int NX1jrjFgk;
  NX1jrjFgk = (unsigned short)-571384903;
   char  YgIQx7GX;
-  YgIQx7GX  =  -247392340;
+  YgIQx7GX  =  (char)-247392340;
  unsigned short int GlaJi5;
  GlaJi5 = (unsigned short)-1483726933;
  float d2BJlTJt;
@@ -130,7 +130,7 @@ int main()
  unsigned char vPQfK6Xy_;
  vPQfK6Xy_ = (unsigned char)-581987510;
   short  RrWj56u2ej;
-  RrWj56u2ej  =  -2104758784;
+  RrWj56u2ej  =  (short)-2104758784;
     long    U28K;
     U28K    =    0;
     float    LJtK1HW;

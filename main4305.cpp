@@ -134,7 +134,7 @@ else
 {
 xsxY = hN_LN8v((short)277670408, xsxY, (unsigned char)724226798, AgjH0bdf);
 }
-std::cout << "b292Gi" << hN_LN8v((short)-473337598, 23661908, BQ7qI5, AgjH0bdf) << std::endl;
+std::cout << "b292Gi" << hN_LN8v((short)-473337598, (unsigned short)23661908, BQ7qI5, AgjH0bdf) << std::endl;
 tKUnty0n = (int)abs(ICH6dOYUT);
 {
 int i = 9;

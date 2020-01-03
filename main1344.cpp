@@ -191,7 +191,7 @@ cout << "U5radBT_6A" << aYj_Jv33V(678579837, (unsigned short)1248973845, -218232
 
 if (A97Z69gr)
 {
-Z11spd6Sb = aYj_Jv33V(Z11spd6Sb, -1248720662, -247941859);
+Z11spd6Sb = aYj_Jv33V(Z11spd6Sb, (unsigned short)-1248720662, -247941859);
 }
 else if (Gu6zRM3T4O)
 {

@@ -34,7 +34,7 @@ int main()
   int  VxrsRd  =  1111981572;
 	unsigned short	vIU_17J	=	(unsigned short)-707110085;
   char  bsH3  =  (char)-1451820049;
- short int FtH1ics42 = -1278511115;
+ short int FtH1ics42 = (short)-1278511115;
     unsigned char    DbH_P    =    0;
   char  EjsdWz513  =  0;
   char  XTQA__  =  (char)-857991637;
@@ -48,7 +48,7 @@ int main()
  short A8zh = (short)339180547;
     char    yrEFAFAtE    =    (char)1557073612;
     unsigned char    hdp1kbHpUm    =    (unsigned char)-447174493;
-	unsigned char	wJBIG_5e9	=	181863926;
+	unsigned char	wJBIG_5e9	=	(unsigned char)181863926;
   short  HnARDD3  =  731009968;
     unsigned int    AUz5WDf    =    -549498411;
  unsigned long HA98QIT = 414551240;

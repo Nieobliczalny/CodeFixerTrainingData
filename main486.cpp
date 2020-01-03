@@ -24,7 +24,7 @@ int main()
     D0F38Wsxq    =    (char)-1823967927;
     Nfxm__    =    (char)-444975378;
     pv1R1J97K    =    (char)-1155496224;
-    X_Qd856G    =    -563110853;
+    X_Qd856G    =    (char)-563110853;
     MJ4rnHh7EB    =    361145217;
     y9Du    =    1186525835;
     Z15o0    =    -1677190879;
@@ -171,7 +171,7 @@ case 5:
 Nfxm__ = otg6Z8aC ^ QqG9DU;
 break;
 case 6:
-iZrPu8OB88 = zm0Ck(32031608, 1760588501);
+iZrPu8OB88 = zm0Ck((char)32031608, 1760588501);
 break;
 case 7:
 Z15o0++;
@@ -687,7 +687,7 @@ case 'e':
 otg6Z8aC = zm0Ck(otg6Z8aC, (short)822396299);
 break;
 }
-otg6Z8aC = zm0Ck((char)-562925177, -168210879);
+otg6Z8aC = zm0Ck((char)-562925177, (short)-168210879);
 if (y9Du & -8083136)
 {
 {

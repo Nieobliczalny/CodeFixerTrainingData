@@ -35,7 +35,7 @@ int main(int argc, char** argv)
   long double  K2jEe  =  120669480;
   long long  tkh5N  =  -260397591;
  double fgpgX2l_K = 1546957140;
-    char    wU_96NJ13    =    366110147;
+    char    wU_96NJ13    =    (char)366110147;
     unsigned long    z95_T    =    1776743158;
 	long double	jEso_	=	19391289;
  double L4qxW647X = -975673136;
@@ -45,7 +45,7 @@ int main(int argc, char** argv)
  unsigned short int pF0Wp = (unsigned short)754954655;
   unsigned short int  Ddl8burCZ  =  (unsigned short)1613232309;
     unsigned char    Gd_oJW0    =    (unsigned char)-304811864;
-    short    jNsmxU5    =    842996330;
+    short    jNsmxU5    =    (short)842996330;
   unsigned char  HUxefSa  =  -1016675691;
  unsigned char f12rJ = 532310242;
 	double	Vc03kiogl	=	-981015154;
@@ -58,7 +58,7 @@ int main(int argc, char** argv)
 	unsigned short	bD871	=	(unsigned short)-826520520;
     unsigned short int    NN3au_2G9a    =    (unsigned short)111837068;
     unsigned long long    b1S5Rvt3    =    -616674;
-	char	eAK1R	=	-74793308;
+	char	eAK1R	=	(char)-74793308;
   unsigned int  wWZrB5S14d  =  -823876764;
 	unsigned long long	eDX0eYKx	=	-818817691;
     double    f1ghq5    =    -743586143;
@@ -134,7 +134,7 @@ if ((jNsmxU5 >= -1017904361) || (fgpgX2l_K > Gd_oJW0))
 {
 try
 {
-Hr924X1p = bdF27QfpdJ(-1132947953, (unsigned char)245900519, 1423324787, 1805685626, KfZ4zb0C);
+Hr924X1p = bdF27QfpdJ(-1132947953, (unsigned char)245900519, 1423324787, (unsigned char)1805685626, KfZ4zb0C);
 }
 catch (int& errorCode)
 {

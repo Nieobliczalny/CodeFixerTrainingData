@@ -117,7 +117,7 @@ int main(void)
  short r39i5_7;
  r39i5_7 = (short)1728245179;
  short int J71j9X;
- J71j9X = -76179489;
+ J71j9X = (short)-76179489;
     short    E5Lv6g1;
     E5Lv6g1    =    (short)-2056173489;
   float  Q39TKgQ3s;

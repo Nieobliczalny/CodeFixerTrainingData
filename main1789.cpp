@@ -62,7 +62,7 @@ int main()
  unsigned char wFpgC = (unsigned char)1406685;
 	long	hW709p85zf	=	1077283535;
 	short	VO860vF6	=	(short)1354006283;
-  short  Mays9GPy  =  1106242306;
+  short  Mays9GPy  =  (short)1106242306;
   double  qqBSPIy5  =  -1931572987;
     unsigned char    wY7J    =    0;
 

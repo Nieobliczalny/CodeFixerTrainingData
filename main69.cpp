@@ -51,7 +51,7 @@ int main(void)
  char k_3GAsorL = (char)-642631512;
  long double TX7sC = 2080562250;
 	unsigned short int	EVs9L	=	(unsigned short)1137477231;
-	short	W6Jh65p0	=	-545197572;
+	short	W6Jh65p0	=	(short)-545197572;
     long long    z5xj    =    1387611769;
   double  t8hNMC0y  =  -1253178045;
 	unsigned short int	gJbU4	=	459621921;

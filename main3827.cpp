@@ -30,7 +30,7 @@ int main(int argc, char** argv)
  unsigned char eRY8eZ6ql0 = (unsigned char)-488995800;
   long  Z0dPia3ht_  =  496972046;
 	unsigned short	cH01RV	=	(unsigned short)-1674974961;
-    unsigned short    KjxO    =    -723313781;
+    unsigned short    KjxO    =    (unsigned short)-723313781;
 	unsigned long long	xCw5	=	1868740985;
     unsigned int    dkcH056AtR    =    -916713608;
     long double    GdWmop    =    1349342382;

@@ -44,7 +44,7 @@ int main()
     unsigned short    D0tq_;
     D0tq_    =    (unsigned short)103348424;
  unsigned char hcE_;
- hcE_ = 2129025576;
+ hcE_ = (unsigned char)2129025576;
     unsigned short int    WScI1Ln4ts;
     WScI1Ln4ts    =    (unsigned short)-1471860744;
  long p1_M8ZkVu;
@@ -210,7 +210,7 @@ int main()
     char    bdbg6vD45Y;
     bdbg6vD45Y    =    (char)1152503110;
   unsigned short int  tK9XGpro_3;
-  tK9XGpro_3  =  1435366777;
+  tK9XGpro_3  =  (unsigned short)1435366777;
     short    OL90;
     OL90    =    (short)-1149325873;
   unsigned char  S8n4v;

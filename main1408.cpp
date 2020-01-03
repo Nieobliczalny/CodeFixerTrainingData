@@ -36,7 +36,7 @@ case 0:
 Q_ZtJF5 = uys3PtNKMk(ig1L7bS1_, (unsigned short)-218848510, -1354189468);
 break;
 case 1:
-Q_ZtJF5 = uys3PtNKMk(227124631, (unsigned short)166919498, 84806381);
+Q_ZtJF5 = uys3PtNKMk((unsigned char)227124631, (unsigned short)166919498, 84806381);
 break;
 case 2:
 O1dqxPyOt = t596gK7q6d((unsigned char)810328704, wLk5);

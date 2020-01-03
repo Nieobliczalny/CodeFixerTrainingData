@@ -44,7 +44,7 @@ int main()
   AF5V4aFk__  =  (unsigned short)-1778907864;
   Uj3HMN_b  =  (unsigned short)1163281005;
   Fer7ONl5  =  (unsigned short)1990730865;
-  HTIJC  =  1358535059;
+  HTIJC  =  (unsigned short)1358535059;
   n5U6c  =  1690054182;
   h_pE  =  -1828144817;
   ZvMm5n9  =  -1652554348;
@@ -54,7 +54,7 @@ int main()
   Y_KQF41j  =  (unsigned short)97897151;
   zUT6  =  (unsigned short)2081744943;
   ktFK650  =  (unsigned short)-1500634897;
-  O599mins4O  =  94478510;
+  O599mins4O  =  (unsigned short)94478510;
   f1VV4a  =  -1031647935;
   M13TRC  =  -419794969;
   LkXC6B_3BJ  =  313474113;
@@ -64,7 +64,7 @@ int main()
   D6Dz6  =  (unsigned short)221670345;
   ioUarDB  =  (unsigned short)1487612750;
   DTgbs5oTRL  =  (unsigned short)385334924;
-  D14cPvV  =  -572483280;
+  D14cPvV  =  (unsigned short)-572483280;
   DgMU_Y4bcT  =  -1713947675;
   i9_4FOsswK  =  -172618145;
   NsPOz2  =  1160581997;
@@ -74,7 +74,7 @@ int main()
   K9gy59o8T  =  (unsigned short)-1291359430;
   VSDu_pu47  =  (unsigned short)-127580100;
   AIYSc  =  (unsigned short)-492352999;
-  OzpxOrJi5h  =  718826934;
+  OzpxOrJi5h  =  (unsigned short)718826934;
   he6oEPnQU  =  -1539361022;
   QX397r3S  =  -159831552;
   D3dz  =  -1807008955;
@@ -84,7 +84,7 @@ int main()
   ygl67kH4M  =  (unsigned short)-1943848172;
   L1PE6K2sW  =  (unsigned short)1244271745;
   Fppe  =  (unsigned short)-1385754545;
-  ajq_6e  =  1919891407;
+  ajq_6e  =  (unsigned short)1919891407;
   oz9bwx1A  =  1536589578;
   WAvydKoBI4  =  306864834;
   zbZbDWeQk  =  1344695483;
@@ -94,7 +94,7 @@ int main()
   nm5DsR10  =  (unsigned short)1473875104;
   Ke4h6P  =  (unsigned short)-1699733385;
   XJ7Wiekr1g  =  (unsigned short)154706863;
-  zTUwG_F3Y7  =  1336885090;
+  zTUwG_F3Y7  =  (unsigned short)1336885090;
   LznGZkA7Tl  =  -1791849571;
   bqT4  =  864595215;
   QV2Pc57  =  -1304078847;
@@ -939,7 +939,7 @@ else
 AHdYcA = (unsigned short)(ex1OP);
 }
 
-std::cout << nRX1vjM6l(zbZbDWeQk, (char)981655856, (unsigned short)1472500838, AIYSc, zTUwG_F3Y7) << QV2Pc57 << nRX1vjM6l((unsigned char)-1101368236, (char)-1963611642, 1942181815, AIYSc, zTUwG_F3Y7) << "K8J8Vbm8" << std::endl;
+std::cout << nRX1vjM6l(zbZbDWeQk, (char)981655856, (unsigned short)1472500838, AIYSc, zTUwG_F3Y7) << QV2Pc57 << nRX1vjM6l((unsigned char)-1101368236, (char)-1963611642, (unsigned short)1942181815, AIYSc, zTUwG_F3Y7) << "K8J8Vbm8" << std::endl;
 {
 int i = 0;
 do

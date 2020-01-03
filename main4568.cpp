@@ -70,7 +70,7 @@ switch (R1Tf)
 {
 case 'a':
 case 'A':
-w71Rz = FJr3bjQ54(CX8z4, -1642882507, 681637615, -1249884035, ww25p___if);
+w71Rz = FJr3bjQ54(CX8z4, (char)-1642882507, 681637615, -1249884035, ww25p___if);
 break;
 case 'b':
 case 'B':
@@ -315,7 +315,7 @@ case 'e':
 w71Rz = FJr3bjQ54(-222035458, (char)-97865798, (char)-317359252, 1040930852, A1h4zkwBSQ);
 break;
 case 'f':
-w71Rz = FJr3bjQ54(-702886398, (char)1695493840, 1165616507, lMiN, hJgE744W);
+w71Rz = FJr3bjQ54(-702886398, (char)1695493840, (char)1165616507, lMiN, hJgE744W);
 break;
 case 'g':
 w71Rz = FJr3bjQ54(wtM3, 1254702586, -1789583178, YiPon6e93, f1iyqkrm);

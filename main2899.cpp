@@ -57,7 +57,7 @@ int main()
  short int v8v0;
  v8v0 = (short)-1655394610;
  unsigned short bM4_O;
- bM4_O = 513522520;
+ bM4_O = (unsigned short)513522520;
   float  CN5dH;
   CN5dH  =  1722451791;
     long double    Z_2bM6_;

@@ -26,7 +26,7 @@ int main() {
  unsigned short int D_snAOw = (unsigned short)-140562422;
  unsigned long long P3L42 = 1044698043;
 
-std::cout << HC9x4z2 / q0Ag58Z(-1467386957, -748737677, cl45, 919062537, 2050110947) << std::endl;
+std::cout << HC9x4z2 / q0Ag58Z((short)-1467386957, -748737677, cl45, 919062537, 2050110947) << std::endl;
 
 {
 int i = 3;

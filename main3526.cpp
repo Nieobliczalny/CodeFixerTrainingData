@@ -54,7 +54,7 @@ int main(void) {
   char  RZOxQXXn;
   RZOxQXXn  =  (char)1435228113;
  unsigned short I19r5js;
- I19r5js = 1298097155;
+ I19r5js = (unsigned short)1298097155;
   unsigned int  ixFMsb;
   ixFMsb  =  -1216420714;
 	double	ZG_u7;

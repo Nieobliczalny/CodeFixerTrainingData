@@ -48,7 +48,7 @@ case 'f':
 Xe2G89 = q_h0kF5I((short)178394214, -1260708988);
 break;
 case 'g':
-N1o8 = kra1_961(-902505393, V3MB0up_l, e6jBV_3);
+N1o8 = kra1_961((short)-902505393, V3MB0up_l, e6jBV_3);
 break;
 case 'h':
 Xe2G89 = q_h0kF5I((short)-1712106012, -1758778625);

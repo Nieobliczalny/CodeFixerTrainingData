@@ -50,7 +50,7 @@ int main()
 	unsigned int	q0ZoETW9C0	=	1313106183;
  char p1Lg1h = (char)744111494;
   unsigned short  veAx2x9  =  (unsigned short)831889219;
-    char    eQZocS    =    -988693864;
+    char    eQZocS    =    (char)-988693864;
     unsigned long    Nqr26JCTd    =    1515776218;
     unsigned long long    IdyW0S    =    2131541047;
 	unsigned char	JhHST33	=	(unsigned char)57265047;
@@ -73,7 +73,7 @@ int main()
 	unsigned short	julgR1_cw	=	(unsigned short)692748613;
 	long	q3x48exTk7	=	1124301047;
  unsigned char hSZhwI4Du = (unsigned char)-736296019;
- short Tm18E0 = -1661386301;
+ short Tm18E0 = (short)-1661386301;
     short int    Seacojj358    =    1201744583;
   long  j0QR7E1W  =  -666677018;
 
@@ -121,7 +121,7 @@ std::cout << "e1LI83J" << "F6gMT17R" << qLz5B_d((short)-1782916355, HVevBzK) << 
 }
 else if ((Nqr26JCTd >= p1Lg1h) || ((IdyW0S) || (f4SKl2P != lsCdDu2)))
 {
-ktBR9 = qLz5B_d(ktBR9, 161358571);
+ktBR9 = qLz5B_d(ktBR9, (unsigned short)161358571);
 }
 else if (Seacojj358 > N_0mO)
 {
@@ -201,7 +201,7 @@ N_0mO = (int)floor(t3634);
 std::cout << "Vo69L9d" << A_OqpI((short)-736725394, (unsigned char)-13451567) << j8Cj3kBbJC << e7t8w3 << F21SM073((short)-922716295, -1451531909, (char)-1510613212, 197569094) << std::endl;
 Nqr26JCTd = AN46 % 900930788;
 
-oTApWeC_B = qLz5B_d(oTApWeC_B, -1678162778);
+oTApWeC_B = qLz5B_d(oTApWeC_B, (unsigned short)-1678162778);
 if (j8Cj3kBbJC & nYavVI02)
 {
 try

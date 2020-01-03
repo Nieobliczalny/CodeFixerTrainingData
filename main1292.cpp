@@ -133,7 +133,7 @@ int main(void)
  unsigned short p6b_;
  p6b_ = (unsigned short)1501135820;
   char  CbzWap;
-  CbzWap  =  1601170056;
+  CbzWap  =  (char)1601170056;
     short    re6Pi90915;
     re6Pi90915    =    (short)-615005096;
   unsigned short int  ETX7B7_;
@@ -143,7 +143,7 @@ int main(void)
 	short int	qiBcT;
 	qiBcT	=	(short)197663879;
  unsigned short int w2xGom1;
- w2xGom1 = -563572785;
+ w2xGom1 = (unsigned short)-563572785;
     unsigned long    NuL7;
     NuL7    =    757302804;
 	float	n_ZVO;

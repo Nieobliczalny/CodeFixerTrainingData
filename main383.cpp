@@ -29,7 +29,7 @@ int main() {
 	long long	M6kH1A1	=	1045082722;
     short    FZIicT0vw3    =    (short)-1605068925;
  float HQa3505_r = 1885945996;
-    unsigned short int    O6Gd_YLnU    =    1444555693;
+    unsigned short int    O6Gd_YLnU    =    (unsigned short)1444555693;
  int ijit8 = 153975759;
 	double	XCYa4T7	=	888357207;
  long double crRn1F1 = 1294513852;

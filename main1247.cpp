@@ -34,7 +34,7 @@ int main(void) {
     float    K46YPq75    =    394071210;
 	unsigned long	xO4mpKjp	=	-951478406;
  unsigned short int o_EF86ol = (unsigned short)1975597354;
-  unsigned char  SuR7  =  1368815192;
+  unsigned char  SuR7  =  (unsigned char)1368815192;
     unsigned char    lZIV_U    =    -831241253;
     long double    af_V6057_M    =    759001188;
  float AE7kL = 781518798;
@@ -164,7 +164,7 @@ QLbMlwd += 1036525619;
 
 WA3TD527n = 1681134220 / L48E((unsigned short)-1082935512, (char)-1220641599);
 
-std::cout << L48E(443687640, -719451364) << std::endl;
+std::cout << L48E((unsigned short)443687640, -719451364) << std::endl;
 
 return 0;
 }

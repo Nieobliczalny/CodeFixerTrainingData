@@ -29,7 +29,7 @@ int main(void) {
     float    kWKsN    =    -380091658;
     float    gI08q303    =    -1163028609;
  unsigned short h3PO4f2 = (unsigned short)-1104869416;
-  unsigned char  w14K7JcIj  =  -201919500;
+  unsigned char  w14K7JcIj  =  (unsigned char)-201919500;
  short int VbQBrs_6g = 168876121;
 	int	G_ai	=	1415159666;
 	unsigned short int	hHipK7s1_	=	-771322772;
@@ -41,7 +41,7 @@ int main(void) {
   short int  qcYA8G5hZk  =  (short)1003127793;
     double    QiO4    =    1515543387;
   unsigned char  rYgJ  =  (unsigned char)1528083752;
- unsigned short sX0p40OFZV = 343356150;
+ unsigned short sX0p40OFZV = (unsigned short)343356150;
   char  WaKNvZP23n  =  1160045489;
   double  LZP5V  =  -996906435;
   unsigned short  JYTF3  =  (unsigned short)-779092724;
@@ -84,7 +84,7 @@ int main(void) {
 	unsigned int	D1_2	=	1914934205;
     unsigned short    JV7sAfcsJ7    =    (unsigned short)-405361117;
 	int	M_FD	=	-449927138;
-    char    O_9p    =    1625433380;
+    char    O_9p    =    (char)1625433380;
     int    RmqzT1r    =    1546266233;
     long double    Oyk5E5    =    -978893588;
 
@@ -466,7 +466,7 @@ d2Q3h = gHP5w(vTg_Td_j, (char)628056582);
 int i = 6;
 do
 {
-cout << gHP5w((unsigned short)-1990839243, (char)-1812577509) << gHP5w((unsigned short)-276044015, 1647683376) << "maygB" << endl;
+cout << gHP5w((unsigned short)-1990839243, (char)-1812577509) << gHP5w((unsigned short)-276044015, (char)1647683376) << "maygB" << endl;
 --i;
 }
 while (i >= 0);

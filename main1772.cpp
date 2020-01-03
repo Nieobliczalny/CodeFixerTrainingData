@@ -70,7 +70,7 @@ int main() {
 	short int	qnWCW__8;
 	qnWCW__8	=	(short)877685703;
  short int Sist;
- Sist = -631128269;
+ Sist = (short)-631128269;
   char  t39xD;
   t39xD  =  (char)534466859;
  long long pT5_rH;

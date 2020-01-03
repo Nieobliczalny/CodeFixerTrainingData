@@ -558,7 +558,7 @@ break;
 }
 if ((c7XvC0Y0RE & VQku7) && ((c7XvC0Y0RE) || (VQku7 > 1188466275)))
 {
-cout << YqI3fGZ((short)-641728184, 247564839, 1883744517, -318054367) << "J9zTZ8oPF" << "bixVf1e" << lbA26NKJ9q(VQku7, c7XvC0Y0RE) << endl;
+cout << YqI3fGZ((short)-641728184, 247564839, 1883744517, (unsigned char)-318054367) << "J9zTZ8oPF" << "bixVf1e" << lbA26NKJ9q(VQku7, c7XvC0Y0RE) << endl;
 }
 else
 {

@@ -39,7 +39,7 @@ int main() {
     long    wDHr2Af6    =    0;
 	unsigned short int	fnEWi	=	(unsigned short)190014971;
 	unsigned short int	Eq6sv	=	(unsigned short)1076872749;
-	unsigned char	hM70dAUmOI	=	-1120782320;
+	unsigned char	hM70dAUmOI	=	(unsigned char)-1120782320;
 	unsigned long long	L5wWK	=	553666744;
   unsigned long long  RDDLC60sG  =  -1114600837;
     char    z419    =    (char)160752318;
@@ -50,7 +50,7 @@ int main() {
     unsigned int    T2lT    =    0;
     unsigned short    x_nT0    =    (unsigned short)1266285419;
  short NYXYD7bI = (short)-467423626;
- unsigned short int wDZB6cR3Dd = 476947126;
+ unsigned short int wDZB6cR3Dd = (unsigned short)476947126;
 
 std::cout << ygQ6(933455990, -123966951, -695758570, -2023768000, (short)1639989216) << "PBznbP" << std::endl;
 {

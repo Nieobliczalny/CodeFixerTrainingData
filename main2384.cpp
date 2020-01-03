@@ -43,7 +43,7 @@ int main(void)
   char  qN9MvdI66K  =  (char)-1024343259;
 	unsigned long long	ussM9Vf	=	0;
 	long long	n9PF9G7J	=	0;
- unsigned short yFkL = -854271349;
+ unsigned short yFkL = (unsigned short)-854271349;
  float Y598Ho_8 = 1750733227;
  double yLMg = -1203768335;
  int pE6s = 951704960;

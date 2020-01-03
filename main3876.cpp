@@ -76,7 +76,7 @@ case 'B':
 CsgL = B9K4tX((short)224592172, -164198476, (short)-1600949929);
 break;
 default:
-CsgL = B9K4tX(-1228583845, pJ0_06, 1017740915);
+CsgL = B9K4tX((short)-1228583845, pJ0_06, 1017740915);
 break;
 }
 }
@@ -131,7 +131,7 @@ break;
 }
 else
 {
-cout << "gx1_lUcGe" << B9K4tX(CsgL, pJ0_06, (short)-933160249) << B9K4tX((short)-373299175, pJ0_06, (short)-741895208) << B9K4tX(CsgL, 1678095528, (short)1656138113) << B9K4tX(-699604557, -1742419491, 1548545073) << endl;
+cout << "gx1_lUcGe" << B9K4tX(CsgL, pJ0_06, (short)-933160249) << B9K4tX((short)-373299175, pJ0_06, (short)-741895208) << B9K4tX(CsgL, 1678095528, (short)1656138113) << B9K4tX((short)-699604557, -1742419491, 1548545073) << endl;
 }
 if (pJ0_06 <= 1025223156)
 {
@@ -220,7 +220,7 @@ case 6:
 CsgL = B9K4tX(CsgL, pJ0_06, (short)1524881836);
 break;
 case 7:
-CsgL = B9K4tX(CsgL, 1073478508, 1799631252);
+CsgL = B9K4tX(CsgL, 1073478508, (short)1799631252);
 break;
 default:
 CsgL = B9K4tX(CsgL, 226062807, (short)-1115732758);
@@ -237,7 +237,7 @@ while (i >= 0)
 {
 try
 {
-CsgL = B9K4tX((short)-1384079584, CsgL, 1541939549);
+CsgL = B9K4tX((short)-1384079584, CsgL, (short)1541939549);
 }
 catch (int& errorCode)
 {
@@ -295,7 +295,7 @@ case 'a':
 CsgL = B9K4tX(CsgL, pJ0_06, (short)-157700720);
 break;
 case 'b':
-pJ0_06 = B9K4tX((short)-2050760876, -622462595, -1498934281) >> 586917057;
+pJ0_06 = B9K4tX((short)-2050760876, -622462595, (short)-1498934281) >> 586917057;
 break;
 case 'c':
 CsgL = B9K4tX(pJ0_06, -1685172717, (short)1916168377);
@@ -658,7 +658,7 @@ case 5:
 CsgL = B9K4tX((short)906804377, 900983485, (short)-428046277);
 break;
 case 6:
-CsgL = B9K4tX((short)734803295, -1803847395, -1189179665);
+CsgL = B9K4tX((short)734803295, -1803847395, (short)-1189179665);
 break;
 case 7:
 CsgL = B9K4tX(CsgL, -132065317, -1795279278);
@@ -795,7 +795,7 @@ case 2:
 CsgL = B9K4tX(pJ0_06, CsgL, (short)-1851850122);
 break;
 case 3:
-CsgL = B9K4tX((short)-1907406554, pJ0_06, 1828313403);
+CsgL = B9K4tX((short)-1907406554, pJ0_06, (short)1828313403);
 break;
 default:
 CsgL = B9K4tX((short)215223481, 1268659704, (short)-857672447);
@@ -806,7 +806,7 @@ pJ0_06 = CsgL / 1418442982;
 cout << "KD7cZ8L_y" << B9K4tX(CsgL, -2046796218, (short)409613878) << B9K4tX(CsgL, 833533960, 1195767114) << B9K4tX(161703548, 1756039486, 1950401558) << endl;
 
 CsgL = (unsigned char)(pJ0_06 * CsgL);
-CsgL = B9K4tX((short)-783226006, CsgL, -1288034502);
+CsgL = B9K4tX((short)-783226006, CsgL, (short)-1288034502);
 
 if (pJ0_06 >= -1284395711)
 {
@@ -867,7 +867,7 @@ CsgL = B9K4tX((short)703255137, -199302237, (short)-137036122);
 break;
 case 'e':
 case 'E':
-CsgL = B9K4tX((short)-426276754, CsgL, -1773259482);
+CsgL = B9K4tX((short)-426276754, CsgL, (short)-1773259482);
 break;
 case 'f':
 case 'F':

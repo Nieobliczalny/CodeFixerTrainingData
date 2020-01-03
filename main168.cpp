@@ -28,7 +28,7 @@ if (((Hl2ykJ <= 1586147462) || (yqlfK_ == -1068363009)) && (om_9cA0i6E != -43602
 {
 if (tIuDO != l414_)
 {
-Fy1m = Vq1yu8y0(2068061163, 149449526, -2067778032, mrw9);
+Fy1m = Vq1yu8y0((short)2068061163, 149449526, -2067778032, mrw9);
 }
 else
 {
@@ -88,7 +88,7 @@ while (j >= 0);
 }
 }
 
-Hl2ykJ = lZLu1Vc5A(Hl2ykJ, (unsigned short)182583155, -655504187, K01zb22P, -1055642882);
+Hl2ykJ = lZLu1Vc5A(Hl2ykJ, (unsigned short)182583155, (unsigned short)-655504187, K01zb22P, -1055642882);
 
 std::cout << lZLu1Vc5A(Hl2ykJ, (unsigned short)719752670, yqlfK_, 1939692080, (unsigned char)-1849494515) << std::endl;
 
@@ -219,7 +219,7 @@ case 'a':
 G6g1 = lZLu1Vc5A((unsigned char)-2130177172, XSueyP_043, uAY642OK_n, -1658050796, (unsigned char)-1786170601);
 break;
 case 'b':
-tIuDO = lZLu1Vc5A((unsigned char)-105050573, Fy1m, (unsigned short)-973850877, -286952474, 211200516);
+tIuDO = lZLu1Vc5A((unsigned char)-105050573, Fy1m, (unsigned short)-973850877, -286952474, (unsigned char)211200516);
 break;
 case 'c':
 f7xorxu2z8 -= 1386738965;
@@ -239,7 +239,7 @@ else
 {
 G6g1 = lZLu1Vc5A((unsigned char)805975708, (unsigned short)600112491, TP2X34H, tIuDO, Hl2ykJ);
 }
-Fy1m = Vq1yu8y0((short)852966012, 1891962807, r0r3s6CIC, 563262792);
+Fy1m = Vq1yu8y0((short)852966012, 1891962807, r0r3s6CIC, (short)563262792);
 
 dW84b = (short int)(r0r3s6CIC);
 

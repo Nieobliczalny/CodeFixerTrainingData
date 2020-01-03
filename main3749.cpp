@@ -21,7 +21,7 @@ int main() {
 	CDK3	=	(unsigned short)809164202;
 	qh605YZO1V	=	(unsigned short)-207251911;
 	HeoV	=	(unsigned short)-423030550;
-	L54Mw4PLRd	=	-1699965425;
+	L54Mw4PLRd	=	(unsigned short)-1699965425;
 	n5612z_i	=	-423701513;
 	khS53	=	-676859366;
 	sQA7K	=	-952234860;
@@ -31,7 +31,7 @@ int main() {
 	n0_Ze5_7Y	=	(unsigned short)1099477900;
 	G9iIwM1NC	=	(unsigned short)1328829747;
 	j91bZ7AzXO	=	(unsigned short)881001002;
-	y3fap8N7_E	=	-116395627;
+	y3fap8N7_E	=	(unsigned short)-116395627;
 	Zy3nM	=	-2122194911;
 	mo7c6	=	-771748673;
 	BamqP_fsR	=	-1142236573;
@@ -41,7 +41,7 @@ int main() {
 	kv605U	=	(unsigned short)-1641556525;
 	t6Ij	=	(unsigned short)-991465635;
 	S6p79ltJxC	=	(unsigned short)522753943;
-	v1UZ1s	=	509180226;
+	v1UZ1s	=	(unsigned short)509180226;
 	ZH0b	=	-960740017;
 	gf3d4	=	1252679074;
 	DwRmYM	=	2132096694;
@@ -51,7 +51,7 @@ int main() {
 	x0wpMWkygN	=	(unsigned short)296911789;
 	YhT_lVb4_q	=	(unsigned short)-837600126;
 	lwfhZ_Lk	=	(unsigned short)-1296717040;
-	El5R7bUxJ6	=	636048867;
+	El5R7bUxJ6	=	(unsigned short)636048867;
 	XAMsZr9	=	1763696078;
 	W79PRs6e	=	-1298753887;
 	UImOpb_Uut	=	758910363;
@@ -61,7 +61,7 @@ int main() {
 	eu0RY7	=	(unsigned short)-396286760;
 	yl1p35XnB	=	(unsigned short)1788006606;
 	RA48GAY	=	(unsigned short)-522305316;
-	uv442p9W	=	-829561348;
+	uv442p9W	=	(unsigned short)-829561348;
 	fUBn	=	1428349731;
 	vZXs9i12_2	=	919419460;
 	PM4BTbs06i	=	-2028223688;
@@ -71,7 +71,7 @@ int main() {
 	ofcNo8P7p	=	(unsigned short)2101654673;
 	Ei0jLv	=	(unsigned short)-1835855544;
 	wx147DEM	=	(unsigned short)102706749;
-	gsrpN32r_	=	-1613298373;
+	gsrpN32r_	=	(unsigned short)-1613298373;
 	qmI3dG5	=	-1849101875;
 	xXd7K0	=	-493779356;
 	JU51AW8q_	=	194910003;
@@ -81,7 +81,7 @@ int main() {
 	U41v7w	=	(unsigned short)-1538571974;
 	Nzuq	=	(unsigned short)-943226424;
 	Wn7I7906q	=	(unsigned short)947211971;
-	pG1hI3CQG	=	-1568799018;
+	pG1hI3CQG	=	(unsigned short)-1568799018;
 	IzV5bo7Ya	=	232235153;
 	TsXL	=	1682761137;
 	j7L58_5t7	=	602479287;
@@ -91,7 +91,7 @@ int main() {
 	bDHhn9I2	=	(unsigned short)1507719143;
 	Iy5E_J	=	(unsigned short)1903037318;
 	liSC4	=	(unsigned short)-1102974109;
-	Gn8D9	=	1882810389;
+	Gn8D9	=	(unsigned short)1882810389;
 	KXO0_	=	985214741;
 	HV69	=	-2042540643;
 	Z7KFg38iw	=	2077138123;

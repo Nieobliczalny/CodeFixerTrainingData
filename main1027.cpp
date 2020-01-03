@@ -27,7 +27,7 @@ int main() {
   cf977MU  =  (char)-230456336;
   mQ5KTD  =  (char)-1518983358;
   Ysnay2D5E  =  (char)1273832294;
-  hNijW_52r0  =  -1190520381;
+  hNijW_52r0  =  (char)-1190520381;
   P_Dk9rec  =  -594386915;
   nt1C8  =  -1486898036;
   IJuaR7  =  -601683545;
@@ -37,7 +37,7 @@ int main() {
   t5u1YmTT_  =  (char)2099334804;
   YP_h0u  =  (char)-492237786;
   Go_dD1  =  (char)1061417565;
-  N4UvDG  =  -1491567260;
+  N4UvDG  =  (char)-1491567260;
   j7MO5  =  -2009750628;
   ZJC9_Rv5N1  =  1675109697;
   n6__8X  =  1292111114;
@@ -47,7 +47,7 @@ int main() {
   kQDJNwDhH  =  (char)1360059170;
   K43D4OFAD1  =  (char)483063629;
   cr2vxou4Pj  =  (char)-905471117;
-  s5oZio  =  518013380;
+  s5oZio  =  (char)518013380;
   Q_Bt13QIf  =  -313111506;
   Qr0WbUdC0  =  -1049421673;
   IYhqaXg  =  -1582634844;
@@ -57,7 +57,7 @@ int main() {
   m9pbr329bl  =  (char)-2119556938;
   kP3rvn  =  (char)-1190979306;
   CAD9x  =  (char)-1728726652;
-  FPRW  =  434443174;
+  FPRW  =  (char)434443174;
   Cs7g05  =  -1809126864;
   AAnzV4y2q4  =  -1575320939;
   AEznsP  =  -392847661;
@@ -67,7 +67,7 @@ int main() {
   Ka4W  =  (char)1811498591;
   nO4HVjh17  =  (char)1398535250;
   CR3J  =  (char)1261535069;
-  pgwo33wKQ8  =  346546535;
+  pgwo33wKQ8  =  (char)346546535;
   nJlLP_Q  =  2093961352;
   O2E1kv  =  -1809547621;
   bgkM4L7  =  -1171567719;
@@ -77,7 +77,7 @@ int main() {
   Kyms_1  =  (char)1620628005;
   DVAi  =  (char)-359330073;
   jO01htlzr  =  (char)1579351703;
-  E0HJ  =  -2120204881;
+  E0HJ  =  (char)-2120204881;
   qKkLx  =  306479347;
   L4VZF3F2K4  =  1880969824;
   ZvCUO  =  -1115499219;
@@ -87,7 +87,7 @@ int main() {
   Wq7p  =  (char)274515084;
   jx719WE4IF  =  (char)-207014660;
   eo11G  =  (char)423173396;
-  e42s  =  1273044979;
+  e42s  =  (char)1273044979;
   U092  =  -960482706;
   Opj1V  =  1171689740;
   e87mv_83G  =  107049935;
@@ -97,7 +97,7 @@ int main() {
   RrJO8VvR  =  (char)-2098388737;
   DC8EgX4I  =  (char)1413942426;
   o_48oi6IA  =  (char)-2062643745;
-  Z_jsV3wK  =  -1944633118;
+  Z_jsV3wK  =  (char)-1944633118;
   rs9uk4D_t8  =  -2004350577;
   W0Iiq  =  -1994205980;
   CfUbNcN  =  1550279286;

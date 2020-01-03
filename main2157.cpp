@@ -469,7 +469,7 @@ case 'h':
 O0Y0fD = WIr7r(O0Y0fD, (unsigned short)-847615985, (unsigned short)-133088067, -2076871246, (unsigned short)1638164299);
 break;
 default:
-k6TGaaiU3 = WIr7r((unsigned short)1913773951, CitaFhC_1, VB92P, YMjqprh, 1395481618);
+k6TGaaiU3 = WIr7r((unsigned short)1913773951, CitaFhC_1, VB92P, YMjqprh, (unsigned short)1395481618);
 break;
 }
 for (int i = 3; i >= 0; --i)

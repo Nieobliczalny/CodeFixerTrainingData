@@ -31,7 +31,7 @@ int main(void) {
   long double  nPPKTK  =  1691335038;
 	unsigned long	TX51wa_	=	425924769;
   short  FX76V0A  =  (short)1283385728;
-  unsigned char  U2t9tyD  =  366016051;
+  unsigned char  U2t9tyD  =  (unsigned char)366016051;
     unsigned short int    p0dTTkFX    =    (unsigned short)629839474;
   short int  Xindyb71b  =  1400542593;
   float  SZDD2n3g  =  1590222502;
@@ -46,7 +46,7 @@ int main(void) {
 	unsigned long long	l5S18	=	-943115632;
     unsigned short    hFa33WG1Y    =    (unsigned short)-784082088;
 	short int	Svl8W4h8zD	=	(short)1903866444;
-	unsigned char	BPXE	=	-2116116634;
+	unsigned char	BPXE	=	(unsigned char)-2116116634;
  char HcQ2 = (char)2075101058;
   long long  cI61QyNyhc  =  0;
 

@@ -106,7 +106,7 @@ int main(void) {
     short    dBaV;
     dBaV    =    (short)1568490107;
  unsigned short int H571_;
- H571_ = 1459396616;
+ H571_ = (unsigned short)1459396616;
     float    Va39Zc4_;
     Va39Zc4_    =    -1579207732;
 	float	CJP6LtJE;

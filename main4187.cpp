@@ -35,7 +35,7 @@ int main()
  long long mfByv = -93198888;
 	short int	AI8zD	=	(short)-136178176;
  short u1dH87 = (short)-1118853228;
-	short	DySubh	=	-103706109;
+	short	DySubh	=	(short)-103706109;
   float  f6J8p6  =  716869393;
  long double bCVM77M9dS = -1415670739;
   unsigned long long  F29qZ2  =  735373993;
@@ -59,7 +59,7 @@ int main()
   unsigned long long  Sge6Ny5  =  755643501;
 	long long	l756R0kl5_	=	-1414432815;
     unsigned short int    YL37P    =    (unsigned short)-1790468698;
-    short    KEIVqSwC_    =    384955038;
+    short    KEIVqSwC_    =    (short)384955038;
   double  bsQj  =  -911062455;
  long double Hd7X = -1938443547;
   short  vkcoq611p  =  (short)1993168004;
@@ -149,7 +149,7 @@ Sge6Ny5 = r43gLn(576151800, 2014764912, (unsigned char)1178362531, (char)-545291
 
 try
 {
-TuT02 = T1ETp2((unsigned char)1474633424, (char)1773321456, -1825038125);
+TuT02 = T1ETp2((unsigned char)1474633424, (char)1773321456, (unsigned short)-1825038125);
 }
 catch (int& errorCode)
 {
@@ -211,7 +211,7 @@ std::cout << T1ETp2(bCVM77M9dS, (char)239141492, (unsigned short)2140679624) << 
 }
 }
 
-TuT02 = T1ETp2(144463124, 1926897191, 435305914);
+TuT02 = T1ETp2((unsigned char)144463124, 1926897191, 435305914);
 switch (MdBBOr)
 {
 case 0:

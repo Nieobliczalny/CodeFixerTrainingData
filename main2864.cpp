@@ -45,7 +45,7 @@ while (j >= 0);
 }
 
 cout << v_WR << FVMe4t79 << F0L3ts(tXlzZRLuGI, Rb7b47, (unsigned char)1104034391, (short)1905712323) << endl;
-n8Iu = MpJnQJ(n8Iu, 1526449230);
+n8Iu = MpJnQJ(n8Iu, (char)1526449230);
 if (((XbEw7Oc <= KgK2u_M) && (LsP8HzfY_ < -895710012)) && (Mi61 == Q7Pwzmx10))
 {
 {

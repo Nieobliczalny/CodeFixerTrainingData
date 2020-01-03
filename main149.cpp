@@ -26,7 +26,7 @@ int main(void)
  long double jT3saPaWsj = 593891967;
 	short	U94QbKf	=	(short)-1159365943;
     unsigned int    bXH_7cW0S    =    -331670081;
-  short int  U9Aq_L3p_  =  -1663099142;
+  short int  U9Aq_L3p_  =  (short)-1663099142;
     unsigned char    cuFWI174    =    -1029267947;
     unsigned short int    BLEtjp    =    1638310980;
     unsigned long    pdnKB763Y    =    -1137670693;

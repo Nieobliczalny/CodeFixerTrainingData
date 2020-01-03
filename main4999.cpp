@@ -66,7 +66,7 @@ int main(int argc, char** argv)
 	unsigned short	Vf0vwlze_4;
 	Vf0vwlze_4	=	(unsigned short)-172223248;
     short int    LK6LUf3U0;
-    LK6LUf3U0    =    -2053154519;
+    LK6LUf3U0    =    (short)-2053154519;
  short x0lUw0SBO;
  x0lUw0SBO = (short)294149070;
 	long	MBS096W2a;

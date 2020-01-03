@@ -45,7 +45,7 @@ int main(int argc, char** argv)
 	short	rwYT1E	=	(short)-1779367736;
 	unsigned int	Z5phBD6	=	1659396829;
  char h3yjf29 = (char)-27294310;
- short i_HQpcX = 1889880420;
+ short i_HQpcX = (short)1889880420;
   long double  r__FbK  =  1308861563;
   long long  e0mBgp12  =  1470399243;
  unsigned short v_ias0jk = (unsigned short)-1967739345;

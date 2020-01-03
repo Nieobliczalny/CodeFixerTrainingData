@@ -26,7 +26,7 @@ int main(void)
 
 X50zSv = g0O36hUvV((short)-1581660274, B74x14, (short)1052947759);
 
-cout << ETMjRrc << g0O36hUvV((short)-1081630241, (unsigned char)-814471152, 1668354389) << endl;
+cout << ETMjRrc << g0O36hUvV((short)-1081630241, (unsigned char)-814471152, (short)1668354389) << endl;
 for (int i = 2; i >= 0; --i)
 {
 cout << vorK1T() << endl;

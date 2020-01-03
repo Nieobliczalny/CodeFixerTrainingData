@@ -30,7 +30,7 @@ cout << "mhY_8" << d0kU9N7((unsigned short)-626224862, (short)1465366443, (unsig
 
 if (Alfa & -226185698)
 {
-mB7ei2 = d0kU9N7(G_6gh7, (short)-1692259898, -111688457);
+mB7ei2 = d0kU9N7(G_6gh7, (short)-1692259898, (unsigned short)-111688457);
 }
 else
 {
@@ -59,7 +59,7 @@ case 'e':
 JPZ6 = tPbZ(JPZ6, g1x40c0e7, G42eJ, (short)-993941668, -240564142);
 break;
 case 'f':
-tx9X = tPbZ(-586672264, (unsigned short)2023562113, E13bYoZ, 475095110, sV0mj6c);
+tx9X = tPbZ(-586672264, (unsigned short)2023562113, E13bYoZ, (short)475095110, sV0mj6c);
 break;
 case 'g':
 n4_S3p6U6 = wVzL98_5J >> NqJ5V;
@@ -179,7 +179,7 @@ case 2:
 mB7ei2 = d0kU9N7((unsigned short)63624392, N2HL8xV, (unsigned short)-2123304524);
 break;
 case 3:
-mB7ei2 = d0kU9N7((unsigned short)1790210264, 857021007, EPswCE10Fs);
+mB7ei2 = d0kU9N7((unsigned short)1790210264, (short)857021007, EPswCE10Fs);
 break;
 case 4:
 u0W8BeZVs |= 2029801327;
@@ -210,7 +210,7 @@ do
 {
 for (int j = 7; j >= 0; --j)
 {
-cout << "Uc9D" << P9710X43 << d0kU9N7((unsigned short)-1526191637, (short)198672249, (unsigned short)-1488476300) << d0kU9N7(X4E_H6DK, (short)-832378641, 991831403) << endl;
+cout << "Uc9D" << P9710X43 << d0kU9N7((unsigned short)-1526191637, (short)198672249, (unsigned short)-1488476300) << d0kU9N7(X4E_H6DK, (short)-832378641, (unsigned short)991831403) << endl;
 }
 ++i;
 }
@@ -343,7 +343,7 @@ case 1:
 mB7ei2 = d0kU9N7(g1x40c0e7, wEEZ, i1N0p);
 break;
 case 2:
-mB7ei2 = d0kU9N7((unsigned short)-1465213617, x5_8W1AhI, 2124270593);
+mB7ei2 = d0kU9N7((unsigned short)-1465213617, x5_8W1AhI, (unsigned short)2124270593);
 break;
 case 3:
 mB7ei2 = (int)abs(R_Sz_U) * 0;

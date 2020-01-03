@@ -886,7 +886,7 @@ case 'b':
 DFMggw = (int)floor(t3T053gq1);
 break;
 case 'c':
-EtM0v3E65 = ae8h(EtM0v3E65, oR1O, (unsigned short)-1844019094, (unsigned short)1685509451, 753875460);
+EtM0v3E65 = ae8h(EtM0v3E65, oR1O, (unsigned short)-1844019094, (unsigned short)1685509451, (short)753875460);
 break;
 case 'd':
 So2nn6RxVX = (int)abs(G9L1);

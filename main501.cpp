@@ -49,7 +49,7 @@ int main(int argc, char** argv) {
   short int  lAjt09B0N;
   lAjt09B0N  =  (short)-1433009734;
 	short	xTd7;
-	xTd7	=	2060579281;
+	xTd7	=	(short)2060579281;
     unsigned char    tDJU;
     tDJU    =    (unsigned char)-1336000342;
     long double    A0eUVt12ci;

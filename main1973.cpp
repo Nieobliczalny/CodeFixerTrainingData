@@ -152,7 +152,7 @@ int main(int argc, char** argv)
 	unsigned short int	xM6RN2nY_;
 	xM6RN2nY_	=	(unsigned short)673443879;
  unsigned char BVK_Gj;
- BVK_Gj = 1358692490;
+ BVK_Gj = (unsigned char)1358692490;
   unsigned char  Owu3EVVb_9;
   Owu3EVVb_9  =  (unsigned char)1162359983;
     unsigned short int    IjfJ9;
@@ -540,7 +540,7 @@ else
 {
 L8Vu95 = K1_ET + 1924348918;
 }
-std::cout << yzwkUto((unsigned short)2049804292) << FVtFO78(pvN18R8ejE) << FVtFO78(-1046317582) << std::endl;
+std::cout << yzwkUto((unsigned short)2049804292) << FVtFO78(pvN18R8ejE) << FVtFO78((short)-1046317582) << std::endl;
 
 return 0;
 }

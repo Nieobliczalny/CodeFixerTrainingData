@@ -193,7 +193,7 @@ D_bZOLrh = (int)abs(SGLpVEPhd);
 SGLpVEPhd = pkWgR | J4mFhEu02;
 if ((Jb2dSy((unsigned char)982739266, (unsigned short)-219108875, QW3A6kr) / Jb2dSy((unsigned char)-1054763515, (unsigned short)-319997858, QW3A6kr)) == 1887669605)
 {
-if (Jb2dSy(-305683377, SM1X0DYzj, QW3A6kr) == 0)
+if (Jb2dSy((unsigned char)-305683377, SM1X0DYzj, QW3A6kr) == 0)
 {
 	QW3A6kr = rvcrrAiH85(OVuN) / Jb2dSy(-305683377, SM1X0DYzj, QW3A6kr);
 }

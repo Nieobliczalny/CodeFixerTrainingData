@@ -26,7 +26,7 @@ int main(int argc, char** argv) {
   unsigned short  VvGQlL_I6  =  (unsigned short)1711796775;
     char    ushb934nuM    =    (char)1891871152;
     unsigned char    ZSEe693m    =    (unsigned char)1530615977;
-	unsigned short	WfML_DL6a	=	-323873104;
+	unsigned short	WfML_DL6a	=	(unsigned short)-323873104;
   unsigned int  r89FgT1f  =  63655971;
 	short int	xxGxJOK	=	(short)-550751301;
 	long double	xVcDL5c_10	=	-932497312;
@@ -52,7 +52,7 @@ int main(int argc, char** argv) {
  unsigned int pt5lA = 663785907;
  unsigned short int Fn2ycCbhh1 = (unsigned short)-102215606;
  long long a_93Dri = 1926625410;
-	short int	A8IwA9Bis5	=	-102374054;
+	short int	A8IwA9Bis5	=	(short)-102374054;
  int GoGUg78 = -113887654;
     unsigned int    JsY_2KtKE    =    -791796450;
  char OBP9696 = 933477850;
@@ -63,7 +63,7 @@ int main(int argc, char** argv) {
 	unsigned short int	Z_b7p4k4Q	=	(unsigned short)-726054133;
   unsigned short int  Jmf7Lc  =  (unsigned short)412785688;
 	short	V_9qH	=	(short)-650676091;
-  unsigned short  r8TvT  =  -1505185032;
+  unsigned short  r8TvT  =  (unsigned short)-1505185032;
 	unsigned short	g2aBAGBJe	=	-901426725;
  unsigned long long lQhj2zYt = 1238105167;
  unsigned short HVQ2 = 1078331851;
@@ -85,7 +85,7 @@ int main(int argc, char** argv) {
 	unsigned short	EnNib_7	=	(unsigned short)-1177819591;
     short    c3_aZYB    =    (short)1446888489;
  unsigned short int upo1LCQu = (unsigned short)-1510877231;
-	unsigned short int	s9JcP2SVmo	=	-5698426;
+	unsigned short int	s9JcP2SVmo	=	(unsigned short)-5698426;
   long long  hbsrnW  =  -1052475126;
     short int    Qml2D5C_2    =    -1721669671;
     long    XH6p2106Bi    =    0;
@@ -106,7 +106,7 @@ int main(int argc, char** argv) {
     unsigned short int    GO6U3_    =    (unsigned short)468002225;
  unsigned long long SNV96 = 1269708963;
 	unsigned short	eH669K2Q4U	=	(unsigned short)-1175569145;
-	unsigned char	v06ixvZ9O	=	324857595;
+	unsigned char	v06ixvZ9O	=	(unsigned char)324857595;
 	unsigned short int	Gd2vHl15	=	-993743336;
     unsigned long    cvdkVRd2a    =    -29742304;
  short jo52ckK_Y = (short)478347178;

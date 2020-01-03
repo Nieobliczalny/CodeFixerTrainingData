@@ -226,7 +226,7 @@ case 3:
 lC0k3Mwk = E793((char)-809008001, oIJNWe1, n5JJyF, ag42B98x7u);
 break;
 case 4:
-qjGOPe4A = c5Rkf(-1353060166, Wq_x27yRt9, oIJNWe1, (unsigned short)-694503299, -1681521639);
+qjGOPe4A = c5Rkf(-1353060166, Wq_x27yRt9, oIJNWe1, (unsigned short)-694503299, (short)-1681521639);
 break;
 case 5:
 BdMar2 = E793(BdMar2, Xneu5_wl8, -454711016, (short)1700781408);
@@ -548,7 +548,7 @@ u7Cl5 = c5Rkf(-820178553, -1857076069, (unsigned short)-1725748874, (unsigned sh
 break;
 case 'b':
 case 'B':
-Ct956nd0 = E793((char)1060044177, -878065310, -1219597050, -379574813);
+Ct956nd0 = E793((char)1060044177, -878065310, -1219597050, (short)-379574813);
 break;
 default:
 P9KwE_g_Y_ = yHVTa();

@@ -189,7 +189,7 @@ case 'c':
 IfvbKN = W_5NM9QS6m((unsigned short)-1206037508, (short)-1063554501, (short)218849939, 765620084, -1483639118);
 break;
 default:
-dPAB = dMYk((unsigned short)-1637937359, c6Ap5ueBw, -32404831, zc6P8w05w2, Vfd9);
+dPAB = dMYk((unsigned short)-1637937359, c6Ap5ueBw, (short)-32404831, zc6P8w05w2, Vfd9);
 break;
 }
 
@@ -261,7 +261,7 @@ case 2:
 WolCh = W_5NM9QS6m((unsigned short)-953242728, (short)-998361804, pLiT85nr4, vtR96, 1501294749) + zc6P8w05w2;
 break;
 case 3:
-Mn73_7IW6 = W_5NM9QS6m(1675777453, AsFBcl3g, t6C3177T, 594542645, 192223106);
+Mn73_7IW6 = W_5NM9QS6m((unsigned short)1675777453, AsFBcl3g, t6C3177T, 594542645, 192223106);
 break;
 case 4:
 Ve01bL45_6 = dMYk(-1830636673, trGFNJQ, -1618718950, 2047077496, -675949665);

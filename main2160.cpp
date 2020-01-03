@@ -54,7 +54,7 @@ int main(int argc, char** argv)
   char  u_0xeq4jc_;
   u_0xeq4jc_  =  (char)1924233558;
   char  F16D74QxNr;
-  F16D74QxNr  =  1562972803;
+  F16D74QxNr  =  (char)1562972803;
 	short	qrbz4YjT;
 	qrbz4YjT	=	(short)-1911567279;
   unsigned long  JJnWGK0;

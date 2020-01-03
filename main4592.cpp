@@ -39,7 +39,7 @@ int main(int argc, char** argv) {
 	char	AsA41;
 	AsA41	=	(char)587899463;
 	short int	npw4;
-	npw4	=	820083558;
+	npw4	=	(short)820083558;
     unsigned short int    v8O3WT57J6;
     v8O3WT57J6    =    (unsigned short)1155110356;
 	unsigned int	d236zLH08l;
@@ -119,7 +119,7 @@ int main(int argc, char** argv) {
   unsigned short  NP3k9L2;
   NP3k9L2  =  (unsigned short)1472746866;
 	unsigned short int	ntQG80AZD;
-	ntQG80AZD	=	1935892672;
+	ntQG80AZD	=	(unsigned short)1935892672;
     long double    c7XRRx06R1;
     c7XRRx06R1    =    1389578107;
   unsigned long  QI60a0;
@@ -208,7 +208,7 @@ case 6:
 tPnWAyw5Ae = aXg_8HmFF(V3Z50Dl, (char)-1304171781, (short)-581821854, (short)-212021426, (short)-772504724);
 break;
 case 7:
-NP3k9L2 = UD9Qd850(849811844);
+NP3k9L2 = UD9Qd850((unsigned short)849811844);
 break;
 case 8:
 tPnWAyw5Ae = aXg_8HmFF(1811271392, 940334302, vbr4F, Kw6F, -420638845);
@@ -284,7 +284,7 @@ else if (((v8O3WT57J6 < ATKP3Fz5C) && (Kw6F != ATKP3Fz5C)) || (hB6CrxW != Wn_pf)
 {
 if (((TzhN_66rA <= Ve9147iNeF) && (cB5_5Y > ATKP3Fz5C)) || (zZj775xz <= -55655332))
 {
-CZr9bP = mcH98Eu56((short)-646776244, OWMe0m, (char)-962090973, -1271367178, EVzw6W43);
+CZr9bP = mcH98Eu56((short)-646776244, OWMe0m, (char)-962090973, (unsigned short)-1271367178, EVzw6W43);
 }
 else
 {

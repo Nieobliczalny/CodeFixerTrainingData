@@ -43,7 +43,7 @@ int main(void) {
   short  j40VdWWg30  =  (short)-972298476;
   float  U22h1bj  =  -1781833895;
     unsigned int    oW1Js_1Jp3    =    -18638616;
-	short	qj1f_b	=	447210148;
+	short	qj1f_b	=	(short)447210148;
 	short int	WV1Q17	=	(short)1448244799;
  long double t99LH7p4o = 1160764433;
  short int oL938TNMm = (short)621819135;
@@ -60,7 +60,7 @@ int main(void) {
 
 WV1Q17 = a0Q7ZVZ22U(WV1Q17);
 WV1Q17 = qj1f_b >> 1555311494;
-cout << y7J0Sdp2cU((unsigned char)37656255, IaCE3p5p, (unsigned short)403469734, -1077006468, 582553251) << endl;
+cout << y7J0Sdp2cU((unsigned char)37656255, IaCE3p5p, (unsigned short)403469734, (unsigned short)-1077006468, 582553251) << endl;
 {
 int i = 0;
 do

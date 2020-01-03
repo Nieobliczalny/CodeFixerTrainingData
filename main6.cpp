@@ -502,7 +502,7 @@ std::cout << FB_qOyoTj((unsigned short)1240876430, mxbo, Nd92e_tU, (unsigned sho
 }
 else if (P8_N0)
 {
-Q6cW = t9TX7U(Q6cW, 1696686053);
+Q6cW = t9TX7U(Q6cW, (unsigned short)1696686053);
 }
 else if (hhrOZWpJ & yUfg3J)
 {

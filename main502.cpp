@@ -19,7 +19,7 @@ int main(int argc, char** argv) {
 	sAgC8h	=	(unsigned short)1459652297;
 	yF1_	=	(unsigned short)-824850071;
 	k4yu0nH	=	(unsigned short)-679366089;
-	G2PQNf5	=	435500941;
+	G2PQNf5	=	(unsigned short)435500941;
 	YNl70	=	540474472;
 	SAs2Kx0NN_	=	1506409681;
 	eSR2Pv2	=	-664845314;

@@ -193,7 +193,7 @@ case 'e':
 F1ek = Uh62x_s((unsigned short)1255149612, (unsigned short)-431943618, 266838535);
 break;
 case 'f':
-Y79R = Uh62x_s((unsigned short)936157157, -1525079464, aoBuBQ3Kx) / F1ek;
+Y79R = Uh62x_s((unsigned short)936157157, (unsigned short)-1525079464, aoBuBQ3Kx) / F1ek;
 break;
 default:
 HbPS9uw1hx &= k5h7;
@@ -341,7 +341,7 @@ ql3b3UzX2 = (long)(k5h7);
 
 std::cout << "Sc74Td" << h35D87bBI6 << uf9LP1R(h35D87bBI6, l4dI) << j2c344El0 << JMO_E2sG1_ << std::endl;
 
-std::cout << SX_V(194967767, (short)883862405, -73228630, (unsigned char)887054836, (unsigned char)1022253425) << "t_Ef" << Uh62x_s(h35D87bBI6, l4dI, -1712542616) << Uh62x_s(h35D87bBI6, (unsigned short)-1891719546, 1729730791) << Z26A7(h35D87bBI6, l4dI, -901632999, wll8Fgdz3, n4UuM) << std::endl;
+std::cout << SX_V(194967767, (short)883862405, -73228630, (unsigned char)887054836, (unsigned char)1022253425) << "t_Ef" << Uh62x_s(h35D87bBI6, l4dI, -1712542616) << Uh62x_s(h35D87bBI6, (unsigned short)-1891719546, 1729730791) << Z26A7(h35D87bBI6, l4dI, (short)-901632999, wll8Fgdz3, n4UuM) << std::endl;
 
 {
 int i = 0;

@@ -90,7 +90,7 @@ int main(int argc, char** argv)
 	double	bG_AweXI9	=	-1953374137;
     long    LG4WU4fO    =    -1038514973;
     unsigned short int    G7bpA1059_    =    (unsigned short)-1932436238;
-  short int  RWn4  =  1101392028;
+  short int  RWn4  =  (short)1101392028;
 	long	auYf	=	-103083902;
 	unsigned char	TGS1a8HD04	=	(unsigned char)2097022604;
 	unsigned short	bG2Vv5_	=	-1716031761;

@@ -48,7 +48,7 @@ int main(void) {
 	unsigned long long	w_AB5SH0hS	=	776164956;
  long double FDCBT7HS = -1873536130;
   char  XG82N  =  (char)-646354461;
- unsigned short int YG_VE2qLhP = 1538748286;
+ unsigned short int YG_VE2qLhP = (unsigned short)1538748286;
  unsigned char sM3_U3 = (unsigned char)-758101297;
  short XFvb8p = 0;
     short    F83SkhSAO    =    (short)385272680;
@@ -337,7 +337,7 @@ case 'c':
 D4ULZ ^= sM3_U3;
 break;
 case 'd':
-v3707jHb5 = DJL_bCOGy(-1605440844);
+v3707jHb5 = DJL_bCOGy((unsigned char)-1605440844);
 break;
 case 'e':
 v3707jHb5 = DJL_bCOGy(w_AB5SH0hS);

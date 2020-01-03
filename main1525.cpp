@@ -59,7 +59,7 @@ int main()
     long double    pzDe    =    858246533;
 	short	o_GZ4	=	(short)-880511575;
   short int  byY2_5  =  (short)1108376631;
-    char    vbg1k_    =    1812583721;
+    char    vbg1k_    =    (char)1812583721;
 	unsigned long	z97rt	=	-1867030274;
 	long long	kxT09NuTm	=	1044031972;
     unsigned int    jd8Y    =    0;
@@ -221,7 +221,7 @@ g0d9155d = q8AWT45HN6(g0d9155d, 1691294011, (unsigned char)382749038);
 F88F *= 805212015;
 std::cout << qnoFhgDky6((short)-520261475, (unsigned short)-477963068) << std::endl;
 
-CTI5ecp16 = q8AWT45HN6(g0d9155d, eWs6, (unsigned char)-702600839) / qnoFhgDky6(-879137037, eWs6);
+CTI5ecp16 = q8AWT45HN6(g0d9155d, eWs6, (unsigned char)-702600839) / qnoFhgDky6((short)-879137037, eWs6);
 DldB = (int)ceil(kNO65f1Y);
 
 {

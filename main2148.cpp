@@ -62,7 +62,7 @@ int main() {
  short Qu407;
  Qu407 = (short)2013047111;
   short  KT6Ilr5;
-  KT6Ilr5  =  -596400930;
+  KT6Ilr5  =  (short)-596400930;
   unsigned char  tPlEj;
   tPlEj  =  (unsigned char)1199804898;
 	unsigned short	X20fWFx84;
@@ -108,7 +108,7 @@ int main() {
  unsigned short int ao3evX5Kwk;
  ao3evX5Kwk = (unsigned short)1681381983;
     unsigned short    AItk1ZpC;
-    AItk1ZpC    =    -1900403892;
+    AItk1ZpC    =    (unsigned short)-1900403892;
  int jV5lpJu;
  jV5lpJu = 1183982000;
 	long	g8QR8W4;
@@ -419,7 +419,7 @@ aXD13M8891 = -184992481 / FYQSb54;
 int i = 0;
 while (i < 6)
 {
-laFI92R2AH = P4kTB8((unsigned char)1550306841, (short)-1176163524, -273694640, -1035233148, zF6_T3FXZ9);
+laFI92R2AH = P4kTB8((unsigned char)1550306841, (short)-1176163524, (unsigned short)-273694640, -1035233148, zF6_T3FXZ9);
 ++i;
 }
 }
@@ -455,7 +455,7 @@ case 3:
 laFI92R2AH = P4kTB8((unsigned char)-114069971, g8QR8W4, I71HDtZC, 1363580805, -1729922500);
 break;
 case 4:
-yzHeod8_ = P4kTB8((unsigned char)318970312, Cv8Lw422Gp, -749030601, 635221339, 1835861421);
+yzHeod8_ = P4kTB8((unsigned char)318970312, Cv8Lw422Gp, (unsigned short)-749030601, 635221339, 1835861421);
 break;
 case 5:
 p426QUvy7 = (int)ceil(Y_HP);
@@ -517,7 +517,7 @@ break;
 int i = 3;
 while (i >= 0)
 {
-laFI92R2AH = P4kTB8((unsigned char)1655636799, (short)1812495879, 1998895730, 1785639991, k9XG);
+laFI92R2AH = P4kTB8((unsigned char)1655636799, (short)1812495879, (unsigned short)1998895730, 1785639991, k9XG);
 --i;
 }
 }
@@ -572,7 +572,7 @@ FYQSb54 = P4kTB8(PE4qlED8ia, (short)-1128218937, Cv8Lw422Gp, d_wfu7Mud4, BLjEW);
 switch (cMcL2g)
 {
 case 0:
-yzHeod8_ = P4kTB8((unsigned char)522842290, (short)1644606308, -925675347, kOU9, x8rQ);
+yzHeod8_ = P4kTB8((unsigned char)522842290, (short)1644606308, (unsigned short)-925675347, kOU9, x8rQ);
 break;
 case 1:
 vE_R0A_a6 = (int)ceil(Smhh0Ou3y);
@@ -681,7 +681,7 @@ BLjEW = (int)abs(UTab7Mv_hi);
 }
 else if (AYlM99 > 373980104)
 {
-yzHeod8_ = P4kTB8((unsigned char)670890240, J2fX4208wj, -2024618011, Smhh0Ou3y, 788001408);
+yzHeod8_ = P4kTB8((unsigned char)670890240, J2fX4208wj, (unsigned short)-2024618011, Smhh0Ou3y, 788001408);
 }
 else if (j7Lndhz1)
 {

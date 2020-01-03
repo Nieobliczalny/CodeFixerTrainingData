@@ -211,7 +211,7 @@ case 3:
 ymy4WZ5Gi = (int)abs(JkrRX6_8i);
 break;
 case 4:
-Cs7r = xrQI9((unsigned short)1345052214, (unsigned short)1150447752, 916456017, mN66K6) + 410534822;
+Cs7r = xrQI9((unsigned short)1345052214, (unsigned short)1150447752, (unsigned char)916456017, mN66K6) + 410534822;
 break;
 case 5:
 JkrRX6_8i = D4ohlXqT(ckHL6a, b16rRS, Jrz4s6sO4c);
@@ -240,7 +240,7 @@ oDt535Cwq = bP6J56(oDt535Cwq, (short)480143646, 1504939923, -2028680569, 1166752
 break;
 case 'e':
 case 'E':
-hg3GU0UTAV = r60rd((char)1005870221, -1744285717);
+hg3GU0UTAV = r60rd((char)1005870221, (short)-1744285717);
 break;
 case 'f':
 case 'F':
@@ -298,7 +298,7 @@ case 2:
 DTL2_QX <<= 1774045963;
 break;
 case 3:
-QVjl68H6x0 = r60rd(673685535, 2109018146);
+QVjl68H6x0 = r60rd((char)673685535, 2109018146);
 break;
 case 4:
 h69qdQspU = r60rd(h69qdQspU, lmESERP);

@@ -140,7 +140,7 @@ k5w91l = zGfzT989s((unsigned short)-1945832651, 723716371, (short)1317920794, k5
 }
 else
 {
-std::cout << Bw20e << "CS533" << y_bsc_B << D_6sYU(-1278050787, -1371676155, Azw_W6Kt, k5w91l, MJx7_) << std::endl;
+std::cout << Bw20e << "CS533" << y_bsc_B << D_6sYU((unsigned short)-1278050787, -1371676155, Azw_W6Kt, k5w91l, MJx7_) << std::endl;
 }
 --i;
 }

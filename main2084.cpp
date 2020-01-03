@@ -34,7 +34,7 @@ int main()
     double    Xx71O    =    753518558;
 	unsigned short int	lhaTaqd	=	(unsigned short)-1451288786;
  short UD37CF5 = (short)-697257837;
-  short  mu7EoB53M  =  109328727;
+  short  mu7EoB53M  =  (short)109328727;
     unsigned short int    ysHG0CO    =    0;
     int    h7odgfLl8    =    -1190293029;
   long double  JkiRcjYGX  =  -817174512;

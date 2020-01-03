@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
 	short int	uaW876u_lo	=	(short)-1981800649;
 	short	DyaXyCo	=	(short)1651186821;
 	unsigned short int	F5A52hV1D	=	(unsigned short)631827434;
-  char  NwJp7jU  =  1300935808;
+  char  NwJp7jU  =  (char)1300935808;
     long long    hnGmO__0W    =    1006158603;
 	double	Z3hh	=	422907163;
     unsigned long    iGGm0XmO    =    135441862;

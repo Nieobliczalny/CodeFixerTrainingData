@@ -92,7 +92,7 @@ cE92y = zUY24h_B / xWL4MA7D((unsigned short)1322042957, g2JIH, p_v_9gSn, (char)2
 
 J7RlB18QK = xWL4MA7D(eW7D, g2JIH, (unsigned short)1114055740, (char)-1536103518, -777203956) | DzFM;
 
-DzFM = AAO615JBQ(DzFM, 42047168);
+DzFM = AAO615JBQ(DzFM, (unsigned short)42047168);
 
 zYD_feLjP = (unsigned short)(W1TM);
 zYD_feLjP |= 784951137;

@@ -45,7 +45,7 @@ int main(void) {
 	unsigned long long	cqzK35iA	=	-178000828;
  unsigned short int dt_kLYQPwL = (unsigned short)1084941100;
  unsigned short int VEcl0_dji = (unsigned short)614177335;
- char LK_1nB = 178535930;
+ char LK_1nB = (char)178535930;
   short  dtUli  =  595356223;
  unsigned long long o2StI0C3 = -2037760592;
   unsigned char  kPxNY7Fi  =  (unsigned char)1035838445;
@@ -60,7 +60,7 @@ int main(void) {
     long long    zZ6J84MP7    =    -52374285;
   unsigned short int  ORMGAo3rA  =  (unsigned short)-94098760;
 	unsigned short int	IjWW	=	(unsigned short)-2026823527;
-    unsigned short    I7lmT17    =    -1452719320;
+    unsigned short    I7lmT17    =    (unsigned short)-1452719320;
   long  Kd8t  =  -244113079;
     unsigned short int    HQCI_7K3y    =    0;
  double vUu2_ = 2130533258;
@@ -72,7 +72,7 @@ int main(void) {
  unsigned short int hmC9 = (unsigned short)-1218584439;
   unsigned long long  IuM0OV7  =  -948404591;
     unsigned long    Py_J5ysDSl    =    2006392643;
-    char    jnk85    =    -1488964570;
+    char    jnk85    =    (char)-1488964570;
     unsigned long    V2YwwO0y    =    1406742811;
 
 s8mSZi4 >>= RcD6a1_i;
@@ -141,7 +141,7 @@ IjWW = nGx696g_7p((unsigned char)-1322263606, (unsigned short)-302295464, kPxNY7
 }
 else if (cqzK35iA <= s8mSZi4)
 {
-H8r9Z = nGx696g_7p((unsigned char)-2014363979, 386375511, -1436060485, 194227160) - u821x4;
+H8r9Z = nGx696g_7p((unsigned char)-2014363979, (unsigned short)386375511, -1436060485, 194227160) - u821x4;
 }
 else
 {

@@ -23,7 +23,7 @@ int main(void) {
  b5Z5 = (short)-1143320378;
  KleAWvrp = (short)-550701767;
  BPe416W8 = (short)994524158;
- KVn_v41V = 1860137517;
+ KVn_v41V = (short)1860137517;
  F_FBy1h6 = -363357405;
  sj1Dk41 = -1182402393;
  gb_4Q = 722806325;
@@ -33,7 +33,7 @@ int main(void) {
  d4N0bcTD7 = (short)-347418554;
  P5_4CoCz = (short)303920770;
  H23s3 = (short)1001112907;
- G4c1 = 1536697544;
+ G4c1 = (short)1536697544;
  X2DV5 = -244927915;
  bIi7VNHG = -815526620;
 	char	BM8Pc,	Y_8eL19H,	SMbdIl,	zguNIKj;
@@ -56,7 +56,7 @@ else
 {
 for (int j = 0; j < 8; ++j)
 {
-cout << "l1Dl0" << "k7mk_s" << RK1442O9((unsigned char)-968513407, (unsigned short)1704131915, Y_8eL19H) << RK1442O9(X2DV5, K0une25, 1212290067) << "NR7J" << endl;
+cout << "l1Dl0" << "k7mk_s" << RK1442O9((unsigned char)-968513407, (unsigned short)1704131915, Y_8eL19H) << RK1442O9(X2DV5, K0une25, (short)1212290067) << "NR7J" << endl;
 }
 }
 if (X2DV5 != KVn_v41V)
@@ -176,7 +176,7 @@ case 'd':
 BM8Pc = RK1442O9((unsigned char)291953246, (unsigned short)-1640681826, (short)-1047269177);
 break;
 case 'e':
-SMbdIl = RK1442O9((unsigned char)879798891, KVn_v41V, 1513572673);
+SMbdIl = RK1442O9((unsigned char)879798891, KVn_v41V, (short)1513572673);
 break;
 case 'f':
 BM8Pc = RK1442O9(-1093085208, -2033531469, b5Z5);

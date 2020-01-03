@@ -30,7 +30,7 @@ catch (int& errorCode)
 QJlp = e08__Dz(QJlp, Ei536_xE7, 1093713475, L4cx2);
 }
 
-Mx_HWd3XDP = 742317894 / fhyv89_A(1686205310, (short)58802327, Q906OV3A3K, -257771109, z1nSPVfso);
+Mx_HWd3XDP = 742317894 / fhyv89_A(1686205310, (short)58802327, Q906OV3A3K, (short)-257771109, z1nSPVfso);
 {
 int i = 1;
 while (i >= 0)

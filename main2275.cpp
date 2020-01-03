@@ -33,7 +33,7 @@ int main(int argc, char** argv) {
     int    xt2I    =    0;
  long double MsWXKO58X = -1350578936;
   unsigned short int  DJP88ZWqjK  =  (unsigned short)-1679216731;
-  unsigned short  oMUN6R  =  122365925;
+  unsigned short  oMUN6R  =  (unsigned short)122365925;
  unsigned long long K15V_9d = 349745028;
 
 KEP26Vj2v = (int)floor(w2SP);

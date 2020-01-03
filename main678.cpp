@@ -79,7 +79,7 @@ case 2:
 AG2y = Pp9u2_83L6(AG2y, (char)974133990);
 break;
 case 3:
-sthU89K78F = sq6P1(y07tJ_6, HD7_, 107245155, kWc3, 1175463291);
+sthU89K78F = sq6P1(y07tJ_6, HD7_, (char)107245155, kWc3, 1175463291);
 break;
 case 4:
 z4E0ps42 = Pp9u2_83L6(-2099114023, (char)1161143222);

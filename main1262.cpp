@@ -147,7 +147,7 @@ int main(void) {
     char    t10s;
     t10s    =    (char)-33573232;
   short int  y0ZT;
-  y0ZT  =  332097215;
+  y0ZT  =  (short)332097215;
 	unsigned char	y8hG;
 	y8hG	=	(unsigned char)-1040788305;
  long double uO39xT;

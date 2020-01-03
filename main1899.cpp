@@ -173,7 +173,7 @@ case 5:
 dqo1T = GoU9b2d3V(dqo1T, 1990364255, (short)1494957609, n_l0);
 break;
 case 6:
-FayRoYc = GoU9b2d3V(-1583225692, rx59, o6s9MH, 719824027);
+FayRoYc = GoU9b2d3V((unsigned short)-1583225692, rx59, o6s9MH, 719824027);
 break;
 default:
 L3Fjjg = OJc0kyL(L3Fjjg, (unsigned short)1663741788, (char)-1808300477, unLQDOB4bv, n_l0);

@@ -26,7 +26,7 @@ int main(int argc, char** argv)
 	unsigned int	gl1I162	=	-1237307807;
     unsigned char    KV_RuV9    =    (unsigned char)-648661077;
     unsigned char    LbmvgoHv    =    (unsigned char)-646445428;
-	unsigned short int	eY20	=	1969739594;
+	unsigned short int	eY20	=	(unsigned short)1969739594;
  float tPCM = 453194645;
   long long  n9_Y1uUP5  =  2019065409;
 	long long	LcDCsfS5U	=	459021191;
@@ -68,7 +68,7 @@ int main(int argc, char** argv)
 	short	z_5p3Mc_J	=	(short)-1354871933;
   int  nhG__s  =  1023156908;
 	short	F0_3d5	=	(short)-1857624388;
-    unsigned char    FkrfO3u9_3    =    -948345604;
+    unsigned char    FkrfO3u9_3    =    (unsigned char)-948345604;
  double GQfe = 1733742964;
     long    tTu61    =    -1145632456;
  unsigned int yUZ45 = -888722285;
@@ -191,7 +191,7 @@ case 7:
 tesoL2wc7Y = Sm97_sPre((short)-1952933673, (char)1967701840, GQfe, pKW841CY, JpBaOV1);
 break;
 case 8:
-tt3IrO = Sm97_sPre((short)-1888926775, (char)-795560442, -1975903633, 579520420, -1021546385);
+tt3IrO = Sm97_sPre((short)-1888926775, (char)-795560442, -1975903633, (char)579520420, -1021546385);
 break;
 case 9:
 z_5p3Mc_J = Sm97_sPre(z_5p3Mc_J, 832443416, GQfe, JpBaOV1, m_I9_0zC6W);

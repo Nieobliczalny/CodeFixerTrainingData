@@ -259,7 +259,7 @@ case 2:
 UGDc = k2YWDBP((unsigned char)360630398, 1675122488, -174317803, TYj8Q7d3V, K9L10Zi577);
 break;
 case 3:
-qlA_3y = k2YWDBP((unsigned char)1754822494, 1920517749, -274164951, (short)-368003754, 1166752951);
+qlA_3y = k2YWDBP((unsigned char)1754822494, 1920517749, -274164951, (short)-368003754, (short)1166752951);
 break;
 case 4:
 qlA_3y = (int)floor(LM591G);

@@ -61,7 +61,7 @@ int main(void) {
     char    IJ8kGRa;
     IJ8kGRa    =    (char)1449339135;
     short int    UkGHbi;
-    UkGHbi    =    536875681;
+    UkGHbi    =    (short)536875681;
 	unsigned long long	x27kfV;
 	x27kfV	=	-1384353891;
     unsigned long    x3ubc68Xy;

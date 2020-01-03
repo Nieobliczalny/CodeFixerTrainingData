@@ -68,7 +68,7 @@ int main(void) {
     unsigned char    Of_x;
     Of_x    =    (unsigned char)-863080471;
  short i_B59u;
- i_B59u = 1079267422;
+ i_B59u = (short)1079267422;
   long double  U2544;
   U2544  =  609962314;
   long long  O8gPoT;

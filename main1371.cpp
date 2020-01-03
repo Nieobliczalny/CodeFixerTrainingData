@@ -519,7 +519,7 @@ ufo5MUc = o3IcD19_F3((unsigned char)-1261695265, (unsigned char)1154723005);
 }
 else
 {
-Ov17rr = defF(1751068012, 1804507973, Ov17rr, 1307801903);
+Ov17rr = defF((unsigned short)1751068012, 1804507973, Ov17rr, 1307801903);
 }
 }
 }
@@ -573,7 +573,7 @@ Zdr4 = defF((unsigned short)1156253971, (unsigned short)197446188, wCF14FAR_4, (
 }
 else
 {
-QVI2 = o3IcD19_F3((unsigned char)-1613587632, 1344555445);
+QVI2 = o3IcD19_F3((unsigned char)-1613587632, (unsigned char)1344555445);
 }
 }
 while (i < 5);

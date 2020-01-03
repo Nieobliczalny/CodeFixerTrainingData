@@ -20,7 +20,7 @@ int main(int argc, char** argv)
   ejqhDO4v2  =  (short)-625827498;
   R81NmOZ5_  =  (short)289131992;
   qYK0ea__2  =  (short)-908173746;
-  m7_9_  =  2027679035;
+  m7_9_  =  (short)2027679035;
   v7k2aY  =  -287184431;
   RFRvP3N  =  -1851711881;
   Qi3W  =  1242214404;
@@ -30,7 +30,7 @@ int main(int argc, char** argv)
   r5Ii7oA5  =  (short)-1807361951;
   nM0jK  =  (short)283967833;
   WikUIyivl  =  (short)-608814049;
-  R_hTadXdF  =  1219296005;
+  R_hTadXdF  =  (short)1219296005;
   VuTCgSZd08  =  527526360;
   p_7O  =  569809053;
   a7N8  =  -494479287;
@@ -40,7 +40,7 @@ int main(int argc, char** argv)
   TBcor  =  (short)-1409976364;
   IsC0aL  =  (short)1271005526;
   J774n_  =  (short)349804621;
-  nv2AcLX  =  283043577;
+  nv2AcLX  =  (short)283043577;
   bvl7_  =  -1643010083;
   dip6rjZgP5  =  -925116946;
   ii1_R2V01  =  171169492;
@@ -50,7 +50,7 @@ int main(int argc, char** argv)
   rzTr5gGE  =  (short)830873074;
   pgpZ  =  (short)159462444;
   jM7k_9K0  =  (short)779929120;
-  Ke0d5lw3TT  =  -1240009479;
+  Ke0d5lw3TT  =  (short)-1240009479;
   HhtQhTtul  =  -1893831960;
   d0cez  =  -19724418;
   Sw3FWM1g  =  -1438596895;
@@ -60,7 +60,7 @@ int main(int argc, char** argv)
   N_n31h6  =  (short)-64487514;
   eg4_IKhP  =  (short)1656349752;
   Sxw6suZ60W  =  (short)-1725455149;
-  F974ay3  =  -1059240841;
+  F974ay3  =  (short)-1059240841;
   Y7Qz  =  -2042948401;
   gJ0CV1f9  =  1456056559;
   OXCPD35  =  1032687194;
@@ -70,7 +70,7 @@ int main(int argc, char** argv)
   gFo3A  =  (short)-1758142569;
   oVm5GLC7cW  =  (short)241801424;
   v42qb8H2cG  =  (short)-2122497944;
-  Fd8wPIlwe  =  -2009333339;
+  Fd8wPIlwe  =  (short)-2009333339;
   a7O61YSju5  =  2069021440;
   rM6Y  =  1612823946;
   H_8qoK  =  -2121019966;
@@ -80,7 +80,7 @@ int main(int argc, char** argv)
   C_j8  =  (short)-1636106325;
   IFwU452bem  =  (short)1638881189;
   t6L148j  =  (short)872711636;
-  ZM9S93  =  -1194092569;
+  ZM9S93  =  (short)-1194092569;
   YNg7_y2  =  -62432537;
   o9FR3BBkke  =  -547225827;
   Y00_  =  2094784893;

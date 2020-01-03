@@ -37,7 +37,7 @@ int main() {
 	unsigned char	mQn2_EQy2;
 	mQn2_EQy2	=	(unsigned char)185834703;
  unsigned short bdCT;
- bdCT = 2134873704;
+ bdCT = (unsigned short)2134873704;
 	double	i5I_;
 	i5I_	=	-1817943633;
  float Q6z3_xe;
@@ -55,7 +55,7 @@ int main() {
 	char	xD_Vc;
 	xD_Vc	=	(char)1515928547;
   unsigned short  O4W8Y5;
-  O4W8Y5  =  -1958478745;
+  O4W8Y5  =  (unsigned short)-1958478745;
  double t53W9;
  t53W9 = 549142447;
   unsigned short int  at8i61;

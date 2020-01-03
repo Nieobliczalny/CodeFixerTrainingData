@@ -243,7 +243,7 @@ Z60_q33 = n83yWG6oL(Z60_q33, s562t2wJd);
 }
 try
 {
-std::cout << epM7((char)-845562490) << "w4cT6VkV7_" << Z60_q33 << j364m3R_0(Z60_q33, (short)1207810830, -773303300, -559565160) << n83yWG6oL(Z60_q33, s562t2wJd) << std::endl;
+std::cout << epM7((char)-845562490) << "w4cT6VkV7_" << Z60_q33 << j364m3R_0(Z60_q33, (short)1207810830, -773303300, (unsigned char)-559565160) << n83yWG6oL(Z60_q33, s562t2wJd) << std::endl;
 }
 catch (int& errorCode)
 {

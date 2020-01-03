@@ -18,7 +18,7 @@ int main(int argc, char** argv)
   SE8s5  =  (char)-1079188505;
   bs_CS  =  (char)1283339877;
   g4JK_e2U  =  (char)-1279554374;
-  t8Mn1j_G_  =  2059986945;
+  t8Mn1j_G_  =  (char)2059986945;
   fF5hRBM  =  -1012531851;
   Bw645au  =  -2038948037;
   Z_3KVU9BzP  =  -465873283;
@@ -28,7 +28,7 @@ int main(int argc, char** argv)
   X6J_d_M  =  (char)1824723784;
   CA0oRyh47v  =  (char)-1158216185;
   xywTMrP  =  (char)964607023;
-  ekrzG3QOl  =  -214103560;
+  ekrzG3QOl  =  (char)-214103560;
   Q944CZw  =  389494121;
   lO64  =  1511132680;
   Up_dG  =  1282841359;
@@ -38,7 +38,7 @@ int main(int argc, char** argv)
   c4kc  =  (char)1702323805;
   bnJ7  =  (char)-1227336951;
   rav5I5  =  (char)1321365954;
-  e4_xrcJ3  =  1668284703;
+  e4_xrcJ3  =  (char)1668284703;
   F5UsU3  =  -2008456349;
   iw_1  =  -1870888980;
   qgmz  =  -1883868520;
@@ -48,7 +48,7 @@ int main(int argc, char** argv)
   Cj70_  =  (char)1532534598;
   lRS2qF5F  =  (char)-527419947;
   A1JhY  =  (char)-1616288568;
-  r435A6  =  -2006206685;
+  r435A6  =  (char)-2006206685;
   cE2M  =  1861371594;
   EeA99uNK  =  1663038670;
   U7kUbec0  =  651319301;
@@ -58,7 +58,7 @@ int main(int argc, char** argv)
   g9qe  =  (char)839769914;
   T9A3oNJ  =  (char)1839794707;
   Z59CMvl  =  (char)-414086314;
-  INg1_f  =  -368892386;
+  INg1_f  =  (char)-368892386;
   dyS7qAmG  =  986514870;
   H6c28  =  -128508173;
   fROTtrsO  =  4279407;
@@ -68,7 +68,7 @@ int main(int argc, char** argv)
   t4MM_CP_L  =  (char)2002792940;
   gQO71_72  =  (char)1503828894;
   J2OKBJ2N1  =  (char)1665890367;
-  N7_3rH4fd  =  -693903487;
+  N7_3rH4fd  =  (char)-693903487;
   B13a222q0  =  -1001547151;
   w_S045mT20  =  1538218321;
   i2NMLR79  =  -565696695;
@@ -78,7 +78,7 @@ int main(int argc, char** argv)
   P8KV4gTT_J  =  (char)-666829535;
   EZR8E1b0  =  (char)1793719467;
   ZOIBXp  =  (char)-2080242312;
-  lx_1F0CL7e  =  -1169659673;
+  lx_1F0CL7e  =  (char)-1169659673;
   gJv88sFRi_  =  -1788349148;
   njZPO4  =  -1581231778;
   h56_P85c_  =  -723542873;
@@ -88,7 +88,7 @@ int main(int argc, char** argv)
   hsro2  =  (char)660907477;
   xbuI  =  (char)-600581807;
   Xpn3J  =  (char)-1877262571;
-  V888X  =  -119610832;
+  V888X  =  (char)-119610832;
   T4s_W  =  1688592618;
   Pbo3n  =  1122940851;
   Hup20  =  360012755;

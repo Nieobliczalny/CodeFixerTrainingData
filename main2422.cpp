@@ -47,7 +47,7 @@ int main(void) {
     unsigned short int    gz3vh_u2J    =    (unsigned short)-1570160243;
   long long  h9f_Q  =  1554834591;
   char  uyp2_sa  =  (char)2022516163;
-	unsigned char	h2sgT8	=	850705421;
+	unsigned char	h2sgT8	=	(unsigned char)850705421;
  unsigned long long TOX29fB1 = 1364404669;
   unsigned long long  c011m_7  =  -1547337222;
     long long    lnBJxm9    =    -624380318;

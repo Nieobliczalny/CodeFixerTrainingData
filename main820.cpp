@@ -91,7 +91,7 @@ Q_8eNYFsG = H2c0((unsigned short)-837735040, (char)-1321039728, -1293827379, -18
 
 if (Y_O37i1_(Q_8eNYFsG, WW4X3_, Xqa5l6, (short)1578945805, (short)-109202459) == 0)
 {
-	SRgtAR = -372042746 / Y_O37i1_(Q_8eNYFsG, WW4X3_, Xqa5l6, 1578945805, -109202459);
+	SRgtAR = -372042746 / Y_O37i1_(Q_8eNYFsG, WW4X3_, Xqa5l6, (short)1578945805, -109202459);
 }
 {
 int i = 6;
@@ -322,7 +322,7 @@ case 'e':
 i5sfJS1_1 = BzE3 >> 1520581369;
 break;
 default:
-tlQ9_KAU = H2c0((unsigned short)1226231547, 990759730, 1757922729, -308081231);
+tlQ9_KAU = H2c0((unsigned short)1226231547, (char)990759730, 1757922729, -308081231);
 break;
 }
 }

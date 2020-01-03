@@ -44,7 +44,7 @@ int main(int argc, char** argv) {
 	double	B300V3m	=	1415445695;
   short  nmRpzd  =  (short)499226329;
   unsigned short int  qskaPS  =  (unsigned short)1084602740;
- short Elf3xiu9nW = -332818959;
+ short Elf3xiu9nW = (short)-332818959;
   unsigned short  GsVH  =  -837137287;
  long long bm91yR = 1865935251;
 
@@ -318,7 +318,7 @@ nAlL0Y /= 1360649760;
 }
 SMJJp = ws7T_Y7F((short)1269166114, F_zUnw, (char)1074214159, Elf3xiu9nW, (unsigned char)153213712);
 
-r0UUex3X4 = ws7T_Y7F((short)1832511873, qskaPS, SMJJp, -405022814, -1766754606);
+r0UUex3X4 = ws7T_Y7F((short)1832511873, qskaPS, SMJJp, -405022814, (unsigned char)-1766754606);
 
 switch (bm91yR)
 {

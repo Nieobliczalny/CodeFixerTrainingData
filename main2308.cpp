@@ -24,7 +24,7 @@ int main(int argc, char** argv) {
  unsigned char YW2yh2f;
  YW2yh2f = (unsigned char)-1264083047;
  unsigned char bdmQV26yzS;
- bdmQV26yzS = 568632657;
+ bdmQV26yzS = (unsigned char)568632657;
     short    f3Bftgn6s;
     f3Bftgn6s    =    (short)-1120230636;
     long    pccZ57;
@@ -58,7 +58,7 @@ int main(int argc, char** argv) {
     short int    Pb84l;
     Pb84l    =    (short)-511861838;
     short    D9k6_ooz;
-    D9k6_ooz    =    -1872618233;
+    D9k6_ooz    =    (short)-1872618233;
     char    VyT1;
     VyT1    =    (char)697925246;
 	unsigned short	PakY5oze;
@@ -414,7 +414,7 @@ case 2:
 eoEq7qWW = (int)abs(F6G_lCR9);
 break;
 case 3:
-YW2yh2f = ust96d((unsigned short)848724954, Pb84l, -1892777339, -2004113987, 120235770);
+YW2yh2f = ust96d((unsigned short)848724954, Pb84l, -1892777339, (unsigned short)-2004113987, 120235770);
 break;
 case 4:
 F6G_lCR9 = (int)abs(M95ZlcfyX2);

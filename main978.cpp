@@ -93,7 +93,7 @@ int main()
 	unsigned short	goq1qztlwN;
 	goq1qztlwN	=	(unsigned short)-1884383038;
     unsigned short    p_785Si;
-    p_785Si    =    -1333982693;
+    p_785Si    =    (unsigned short)-1333982693;
 	short	w9XS;
 	w9XS	=	(short)-294594718;
 	long double	n9Ln5C5Nv;
@@ -202,7 +202,7 @@ int k = 0;
 do
 {
 ++k;
-EKMUNa97dL = KbN1s3(-251724025, 952102548);
+EKMUNa97dL = KbN1s3(-251724025, (char)952102548);
 }
 while (k < 2);
 }

@@ -31,7 +31,7 @@ int main()
 	unsigned char	P_Q47A7BTV;
 	P_Q47A7BTV	=	(unsigned char)-1257902366;
 	short int	mCi3306k;
-	mCi3306k	=	1102740936;
+	mCi3306k	=	(short)1102740936;
  unsigned short int OFHHong;
  OFHHong = (unsigned short)2100078764;
   unsigned short int  aA0V4ej8n;
@@ -63,7 +63,7 @@ int main()
 	short int	Oey_S;
 	Oey_S	=	(short)-1874932700;
 	unsigned short	pHZm_;
-	pHZm_	=	-1971222999;
+	pHZm_	=	(unsigned short)-1971222999;
     char    qqZ10Hor;
     qqZ10Hor    =    (char)-1557644375;
  unsigned short int mq0343N5i9;

@@ -25,7 +25,7 @@ int main() {
 	lO_P8x58	=	(short)-1036302247;
 	iO37	=	(short)-1723686829;
 	k4PlA1n	=	(short)-95171376;
-	GmF9L	=	901008265;
+	GmF9L	=	(short)901008265;
 	v_IO2R	=	-453428526;
 	sg4IM	=	(short)-582200202;
 	l12r_43	=	-660450971;
@@ -35,7 +35,7 @@ int main() {
 	T3Qxn7	=	(short)-473536076;
 	cVy0L	=	(short)-1434437625;
 	Z6V0w	=	(short)-1374405372;
-	vBNVr	=	-278849777;
+	vBNVr	=	(short)-278849777;
 	Ih_Iv9	=	-1198408278;
 	Xv1jo_5dk	=	(short)-788150522;
 	y_l0BPLZ2	=	-1685567091;
@@ -45,7 +45,7 @@ int main() {
 	E3y07F	=	(short)2121584600;
 	EyQiS483m	=	(short)2037320064;
 	G7wvUWebA	=	(short)-1996241760;
-	e7C086V	=	451134086;
+	e7C086V	=	(short)451134086;
 	o2I_BT6xp4	=	-2137958985;
 	kxD1QbQ1x5	=	(short)1642025164;
 	fPdfz7	=	-1280593356;
@@ -55,7 +55,7 @@ int main() {
 	fyp72rS8	=	(short)1643711781;
 	hmJ7hI7TGH	=	(short)-1118868452;
 	j4mEl	=	(short)211355037;
-	n_9oT2a6	=	1442825627;
+	n_9oT2a6	=	(short)1442825627;
 	aTETYw_	=	1968419994;
 	tR0hs	=	(short)510182231;
 	YslPwN	=	1799893210;
@@ -65,7 +65,7 @@ int main() {
 	YAgwwe	=	(short)-1230936910;
 	i11g	=	(short)1593224966;
 	u2G8	=	(short)1632654630;
-	Fa_Pz	=	1373638873;
+	Fa_Pz	=	(short)1373638873;
 	V5lU	=	379599579;
 	ro0AR	=	(short)-660533258;
 	q_86aL5T	=	1103415279;
@@ -120,7 +120,7 @@ YslPwN = (short)(Xv1jo_5dk);
 wprv6q = 1975011795 / P3a29_;
 if (P3a29_ != 63089144)
 {
-std::cout << Xm59013b((unsigned char)1923563495, 2019194768, (char)-478118027, (unsigned char)715628957) << yCQ2787u(j4mEl, -1949611205, -1391225659, y_l0BPLZ2, -297830183) << Xm59013b(j4mEl, 1307475228, Z6V0w, -633291422) << std::endl;
+std::cout << Xm59013b((unsigned char)1923563495, 2019194768, (char)-478118027, (unsigned char)715628957) << yCQ2787u(j4mEl, -1949611205, (unsigned short)-1391225659, y_l0BPLZ2, -297830183) << Xm59013b(j4mEl, 1307475228, Z6V0w, -633291422) << std::endl;
 }
 else
 {
@@ -188,7 +188,7 @@ case 'c':
 OmQ83zaI = yCQ2787u(-1420220600, 109782774, (unsigned short)1516907063, 465788590, -2097309758);
 break;
 case 'd':
-OmQ83zaI = yCQ2787u(-1121917710, o2I_BT6xp4, -1605458059, 1692006561, 1776446317);
+OmQ83zaI = yCQ2787u(-1121917710, o2I_BT6xp4, (unsigned short)-1605458059, 1692006561, 1776446317);
 break;
 case 'e':
 P3a29_ = yCQ2787u(-466326559, 1004696250, Fa_Pz, vBNVr, 246612009);

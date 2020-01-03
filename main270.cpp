@@ -299,7 +299,7 @@ case 7:
 qk8tOJUv0 = U8MHnqdK(qk8tOJUv0, fm9h, (short)886307336, (short)-1269122035, ztdUx);
 break;
 case 8:
-OtMS = U8MHnqdK(OtMS, CtyeCcekxc, -717265202, yC__mVP, Ddzg);
+OtMS = U8MHnqdK(OtMS, CtyeCcekxc, (short)-717265202, yC__mVP, Ddzg);
 break;
 }
 cout << AgOJwM1Y1r / VTUra << endl;

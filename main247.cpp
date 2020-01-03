@@ -47,7 +47,7 @@ int main(void)
  unsigned short CKBM;
  CKBM = (unsigned short)-689388290;
 	char	Y3pLr2;
-	Y3pLr2	=	844282915;
+	Y3pLr2	=	(char)844282915;
     int    n_y8Z9;
     n_y8Z9    =    -2019384894;
     short    f1iUGS_41;

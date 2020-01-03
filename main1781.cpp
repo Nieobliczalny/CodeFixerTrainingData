@@ -51,7 +51,7 @@ int main(int argc, char** argv) {
   unsigned long  q601g4c3  =  236814803;
     long    f9yt8C9Yn    =    128176172;
     unsigned short int    F46g3uN4Xd    =    (unsigned short)-731873326;
- unsigned short OrdZ = -2114804811;
+ unsigned short OrdZ = (unsigned short)-2114804811;
  char s3pkX = (char)787593386;
   unsigned short  Kt64K  =  0;
     unsigned long long    ADb_3C8    =    -1340518302;
@@ -97,7 +97,7 @@ int main(int argc, char** argv) {
  long aiV2FCih = 552408627;
   unsigned long long  n5FV6775x2  =  -687148054;
  short int VqA8XAQ = (short)-824442752;
-    unsigned short int    RqqP9Ag1    =    -2034532026;
+    unsigned short int    RqqP9Ag1    =    (unsigned short)-2034532026;
 	unsigned long	s1IH89	=	1552162826;
 	short int	M7473AnFX	=	(short)1587458511;
     unsigned short int    v2z57    =    (unsigned short)602312958;
@@ -117,7 +117,7 @@ int main(int argc, char** argv) {
     long    wp6AAGUv9    =    -1936660638;
  unsigned long Zn0y2v = -198821026;
 
-cout << "q3n4zv" << RqqP9Ag1 << rfPvl((unsigned short)1847914445, -280069628, EhWOV, ip5ya_kpL, klrznlR) << "Y_x93f834k" << endl;
+cout << "q3n4zv" << RqqP9Ag1 << rfPvl((unsigned short)1847914445, (unsigned short)-280069628, EhWOV, ip5ya_kpL, klrznlR) << "Y_x93f834k" << endl;
 cout << "rlKdfiq" << "gxk_rd" << "Brm26" << "q0Tk45_z" << "GiYol" << endl;
 
 try
@@ -389,7 +389,7 @@ x2P_69lps = (int)floor(AcuuSw4z7);
 break;
 case 'h':
 case 'H':
-ED09 = rfPvl((unsigned short)-667946509, (unsigned short)-894956865, -1331381175, 2023727730, J7M2BDxM);
+ED09 = rfPvl((unsigned short)-667946509, (unsigned short)-894956865, (short)-1331381175, 2023727730, J7M2BDxM);
 break;
 case 'i':
 case 'I':
@@ -713,7 +713,7 @@ l4K3yGe7A0 = F3_ukq33U2((short)210158413, (char)-2004522501, S2_p, (short)194101
 break;
 case 'c':
 case 'C':
-v2z57 = rfPvl(v2z57, (unsigned short)-1377480127, -759377131, v436qQ6f, 613827599);
+v2z57 = rfPvl(v2z57, (unsigned short)-1377480127, (short)-759377131, v436qQ6f, 613827599);
 break;
 case 'd':
 case 'D':

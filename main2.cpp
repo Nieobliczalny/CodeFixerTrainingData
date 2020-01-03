@@ -63,7 +63,7 @@ case 2:
 Ea8U <<= 520095813;
 break;
 case 3:
-hLSvNI8jT_ = G_s6941_w(785282980);
+hLSvNI8jT_ = G_s6941_w((short)785282980);
 break;
 default:
 Ea8U |= 345712071;

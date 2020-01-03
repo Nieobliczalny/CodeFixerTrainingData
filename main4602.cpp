@@ -128,7 +128,7 @@ int main(void) {
     long double    A122;
     A122    =    1903313398;
 
-syV6y7nV78 = h9E8F((unsigned short)-1492184221, E2vH, (unsigned short)-216735737, 1390805469);
+syV6y7nV78 = h9E8F((unsigned short)-1492184221, E2vH, (unsigned short)-216735737, (unsigned short)1390805469);
 switch (Tk6ea)
 {
 case 0:
@@ -260,7 +260,7 @@ case 'f':
 D_U2r = h9E8F((unsigned short)635355634, (short)1338689133, (unsigned short)-310964770, (unsigned short)1003228515);
 break;
 case 'g':
-Ju25_ = h9E8F(Ju25_, s_6k, -1414687775, -291590118);
+Ju25_ = h9E8F(Ju25_, s_6k, (unsigned short)-1414687775, -291590118);
 break;
 case 'h':
 xRUKnwcq_ = (int)ceil(A122);

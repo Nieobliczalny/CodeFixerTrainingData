@@ -103,7 +103,7 @@ case 4:
 GQk4m42M7 = qM9U_8i((unsigned short)-910828808, gPQ4c_9, Zh14);
 break;
 case 5:
-aBA6i1 = VPwFHx_(aBA6i1, xcTfNk0ic5, 1571583405, 1478721387);
+aBA6i1 = VPwFHx_(aBA6i1, xcTfNk0ic5, (unsigned char)1571583405, 1478721387);
 break;
 case 6:
 N50btIT9h = VPwFHx_(1610197911, -925245674, P4v2z, i5S_u_KbzD);

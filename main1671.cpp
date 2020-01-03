@@ -121,7 +121,7 @@ int main(void) {
     short int    y7j2SwX;
     y7j2SwX    =    (short)1981960718;
   unsigned short  vFLY706i;
-  vFLY706i  =  -502702909;
+  vFLY706i  =  (unsigned short)-502702909;
  long long usqlEJ5UUr;
  usqlEJ5UUr = 271788787;
 	unsigned char	Ac6T1Av_;
@@ -907,7 +907,7 @@ cout << "Oi1_9496j" << "wU90B8q55" << AvG9j0(fv6i, (short)-1305295519, (unsigned
 }
 else if (w_GP_3_ == -413323290)
 {
-GSZpKiH = AvG9j0(-590732300, (short)39670499, -297485664);
+GSZpKiH = AvG9j0(-590732300, (short)39670499, (unsigned short)-297485664);
 }
 else if (CVvS <= Avoug_A_)
 {

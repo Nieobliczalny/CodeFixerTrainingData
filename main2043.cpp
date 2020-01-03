@@ -43,7 +43,7 @@ int main()
   short int  D8kAw1;
   D8kAw1  =  (short)1059328647;
  short nLWDANL;
- nLWDANL = -1372875787;
+ nLWDANL = (short)-1372875787;
     unsigned int    PY_9FahZ48;
     PY_9FahZ48    =    -897955899;
   long  xx__fc9;

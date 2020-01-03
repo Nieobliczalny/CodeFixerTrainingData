@@ -58,7 +58,7 @@ int main(int argc, char** argv)
  unsigned long long BU3bI_1e = 354589105;
   short int  td50  =  (short)-1712373492;
 
-std::cout << LN64I5mJ(Sia9us2S, (unsigned short)-162242837, hr_rkN8j3, 144478605, 649987752) << std::endl;
+std::cout << LN64I5mJ(Sia9us2S, (unsigned short)-162242837, hr_rkN8j3, 144478605, (char)649987752) << std::endl;
 
 {
 int i = 2;

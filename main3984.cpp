@@ -85,7 +85,7 @@ int main()
     unsigned short int    qFQY;
     qFQY    =    (unsigned short)1432579325;
   unsigned short int  o8XTsQb5;
-  o8XTsQb5  =  -349733183;
+  o8XTsQb5  =  (unsigned short)-349733183;
     long long    H1v00xmrx;
     H1v00xmrx    =    -1958110499;
   short  T81yC;

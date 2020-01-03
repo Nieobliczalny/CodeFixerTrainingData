@@ -23,7 +23,7 @@ int main(int argc, char** argv)
 	unsigned long	a8r1	=	0;
 	double	O244	=	1546471925;
  char Z07aYzL = (char)-966300767;
- unsigned char i3Tuv = -2070503705;
+ unsigned char i3Tuv = (unsigned char)-2070503705;
     int    IVn1CnCk    =    -1923779774;
  long double sm_G = -2004835868;
 	float	ifwCu0L0	=	531420768;
@@ -40,7 +40,7 @@ int main(int argc, char** argv)
 	double	Jsg9zQ	=	-1731730105;
     long long    kl7JrUBcn    =    0;
  unsigned long rLwcZK_A = 0;
- short n7Zd1 = 397380008;
+ short n7Zd1 = (short)397380008;
 	int	inf_Wn	=	804386911;
     long double    wkRi2g8aFo    =    1967973663;
     double    p5X_xhU6L8    =    1900199757;

@@ -217,7 +217,7 @@ case 'c':
 Ou2_ = v_xoj13(Ou2_, (unsigned short)-1945033463, (short)-1551680013, (char)344685276);
 break;
 case 'd':
-r461_0i8W = v_xoj13(-1656378244, -1213333920, 1418447564, 1766811955);
+r461_0i8W = v_xoj13(-1656378244, (unsigned short)-1213333920, 1418447564, 1766811955);
 break;
 case 'e':
 eCn0l = (int)floor(X_UvahciCD);

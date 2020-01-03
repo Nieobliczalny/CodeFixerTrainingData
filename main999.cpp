@@ -88,7 +88,7 @@ int main(int argc, char** argv) {
 	short int	wA8RGxU4s;
 	wA8RGxU4s	=	(short)-1884438075;
   unsigned char  ou6g2_E6D;
-  ou6g2_E6D  =  68237118;
+  ou6g2_E6D  =  (unsigned char)68237118;
   unsigned char  y5f20h8f8M;
   y5f20h8f8M  =  (unsigned char)-294497412;
     unsigned short    Xs6_sV0;

@@ -27,7 +27,7 @@ int main()
 	int	c14uQvi	=	-690842049;
  long long kGJ_xE9a9 = -1484603479;
     short int    aYiqE5_Mi0    =    (short)-616990757;
-  short int  bPeR  =  1692905651;
+  short int  bPeR  =  (short)1692905651;
   unsigned int  uHsc2b  =  -1966442657;
 	double	aY4U_3O7	=	-1798268357;
   long double  WX43n1kYF  =  466183396;

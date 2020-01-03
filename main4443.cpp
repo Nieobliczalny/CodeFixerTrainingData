@@ -298,7 +298,7 @@ case 1:
 zGvKR = K_sJ73r92c((char)1594020942, (short)-997344502, (short)-2031288382);
 break;
 case 2:
-Ue_6bvh3m = K_sJ73r92c((char)-1321543471, w_LC, 1860165239);
+Ue_6bvh3m = K_sJ73r92c((char)-1321543471, w_LC, (short)1860165239);
 break;
 case 3:
 qx9Rbu = Y2GT5VY(38521450, qx9Rbu, 581436994, xGlW8o_);

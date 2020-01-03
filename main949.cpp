@@ -32,7 +32,7 @@ int main(void)
     short    B61u    =    (short)-1816598276;
 	float	gw6H65	=	2065999348;
   short  W8_Lu  =  (short)-182901169;
- unsigned short TqO11_U = -1217690075;
+ unsigned short TqO11_U = (unsigned short)-1217690075;
   char  q7DVi  =  -341181406;
     long    zx7TF9lqdr    =    0;
   int  b91E1  =  -300619615;
@@ -165,7 +165,7 @@ B61u = zN0n6TVjM0(-880886636, (unsigned short)-1894724507, (unsigned char)-16323
 }
 else if ((q7DVi & Ydf8KB) || ((IQqMJ5Tk <= q7DVi) && (K9isE5GGu > 1004850855)))
 {
-h7UhQmGi = zN0n6TVjM0(-2099460893, (unsigned short)-2105274052, (unsigned char)-1611089768, -153969596) % 409548744;
+h7UhQmGi = zN0n6TVjM0(-2099460893, (unsigned short)-2105274052, (unsigned char)-1611089768, (short)-153969596) % 409548744;
 }
 else if (b91E1 < B61u)
 {

@@ -61,7 +61,7 @@ int main(int argc, char** argv)
 	unsigned long long	g2g1K5Iuz	=	-2110794109;
     float    NwDqn215    =    -1772126133;
  char wx_8 = (char)-64423829;
-	unsigned short	ZFrt	=	-2045113100;
+	unsigned short	ZFrt	=	(unsigned short)-2045113100;
  long f8l7 = 500050787;
 	int	Zk77qoBqn	=	-689740936;
 	long double	dF3FtY4M3	=	1075882300;

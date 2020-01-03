@@ -454,7 +454,7 @@ v___xxC = HaAww(Cl1vwO3, q1Zo07t_, UTK6RO, bjSC) | TLaPN4GR7P;
 }
 }
 }
-std::cout << HaAww(Cl1vwO3, q1Zo07t_, UTK6RO, bjSC) << HaAww((short)-745586001, q1Zo07t_, (unsigned short)236346851, (short)-1679124626) << HaAww((short)1341659886, -1484943675, 2036173276, bjSC) << RcCk3 << std::endl;
+std::cout << HaAww(Cl1vwO3, q1Zo07t_, UTK6RO, bjSC) << HaAww((short)-745586001, q1Zo07t_, (unsigned short)236346851, (short)-1679124626) << HaAww((short)1341659886, -1484943675, (unsigned short)2036173276, bjSC) << RcCk3 << std::endl;
 
 {
 int i = 0;
@@ -491,7 +491,7 @@ case 'h':
 QL83Mwwn = HaAww((short)-1512075401, -1713557031, Bl6S4A9xc9, (short)-1303287540);
 break;
 case 'i':
-cqoNrRsdIt = HaAww((short)423139810, -710336047, (unsigned short)1880008747, -1515360235);
+cqoNrRsdIt = HaAww((short)423139810, -710336047, (unsigned short)1880008747, (short)-1515360235);
 break;
 case 'j':
 Zk4mD = cnoQZo() & 2025863450;

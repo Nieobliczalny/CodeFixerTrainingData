@@ -44,7 +44,7 @@ int main(void) {
 	char	yaD3J	=	(char)-1925830230;
   unsigned long long  tTm0p5D6  =  -334677286;
  unsigned short int Nh6wGo2Vv = (unsigned short)136844165;
- unsigned short int J7Jm5 = -1392296363;
+ unsigned short int J7Jm5 = (unsigned short)-1392296363;
  long pfh9k0 = -421203546;
   short int  FZ6r3  =  (short)-856828195;
  unsigned long M5lj = 1330437027;

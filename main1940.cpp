@@ -50,7 +50,7 @@ int main()
   unsigned char  cA2T3d  =  (unsigned char)-1138275265;
   unsigned int  IY99550A3  =  -70360666;
 	unsigned short int	q3ZTZG	=	(unsigned short)-178655578;
-	short int	KkpoQs	=	60521416;
+	short int	KkpoQs	=	(short)60521416;
  unsigned short dci86o5TEz = 1135804393;
   unsigned long long  pJ6ufoQE  =  -1003088943;
  unsigned long D_a1l2_ = -573206874;

@@ -34,7 +34,7 @@ int main(int argc, char** argv)
  double JN37g = -1439754820;
   unsigned short  TJddrzy4L  =  (unsigned short)585992026;
 	char	eqkB2mF4Df	=	(char)1187890140;
- char n8i21 = -2115998106;
+ char n8i21 = (char)-2115998106;
  unsigned int dA1Qf7Jx = 633833053;
   short  j_IfLvv  =  -1052990921;
   long  vCNU62  =  -959913756;

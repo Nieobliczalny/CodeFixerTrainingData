@@ -112,7 +112,7 @@ int main(int argc, char** argv) {
   unsigned short int  K4fuv1p;
   K4fuv1p  =  (unsigned short)1411979530;
   short  Kz677;
-  Kz677  =  -452327893;
+  Kz677  =  (short)-452327893;
     double    kclJ7;
     kclJ7    =    -82816384;
   unsigned short  S8ATwu9;

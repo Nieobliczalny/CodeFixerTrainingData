@@ -233,7 +233,7 @@ MMVmQ = QOpFr((short)538112347, -2082585621, (unsigned char)-1039196119, (short)
 break;
 case 'e':
 case 'E':
-pT2z = QOpFr(pT2z, 1245773582, (unsigned char)1318551486, -426990201);
+pT2z = QOpFr(pT2z, 1245773582, (unsigned char)1318551486, (short)-426990201);
 break;
 case 'f':
 case 'F':

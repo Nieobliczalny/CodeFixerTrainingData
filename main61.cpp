@@ -272,7 +272,7 @@ Py4iF19r = (unsigned int)(kOrh34v1);
 }
 if (PPvCqm)
 {
-bV9_zKx8 = UEvW(319034778, (unsigned char)-72942307, 1868246198);
+bV9_zKx8 = UEvW(319034778, (unsigned char)-72942307, (unsigned short)1868246198);
 }
 else if (ol1fDq)
 {

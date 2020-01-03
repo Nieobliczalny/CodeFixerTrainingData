@@ -48,7 +48,7 @@ int main(void)
 	unsigned short	m0lQ14721B;
 	m0lQ14721B	=	(unsigned short)-491216456;
   short int  zJ2jD633z;
-  zJ2jD633z  =  527488958;
+  zJ2jD633z  =  (short)527488958;
  unsigned long EwK22Q1brl;
  EwK22Q1brl = -2116179658;
     float    MS9UVW;

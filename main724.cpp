@@ -154,7 +154,7 @@ int main() {
     short    J88_K5;
     J88_K5    =    (short)-1908528010;
     unsigned short int    gri4bRvF;
-    gri4bRvF    =    687133590;
+    gri4bRvF    =    (unsigned short)687133590;
   long long  gu96;
   gu96  =  225202477;
     short    xhpFL;
@@ -306,7 +306,7 @@ break;
 }
 else if (pc0xa3_ <= OREEb)
 {
-cout << "hZFsLl" << o5n8v4tx((unsigned short)-302980320, OREEb, (unsigned short)-60224088, -1632066570, 94552589) << "s8bCXY5u" << msos0F01pw(SKkOhqSZs7, OREEb, Ed3Uyi, -1662050320) << endl;
+cout << "hZFsLl" << o5n8v4tx((unsigned short)-302980320, OREEb, (unsigned short)-60224088, (unsigned short)-1632066570, 94552589) << "s8bCXY5u" << msos0F01pw(SKkOhqSZs7, OREEb, Ed3Uyi, -1662050320) << endl;
 }
 else if (a34iU5UN <= gKS7c75w)
 {

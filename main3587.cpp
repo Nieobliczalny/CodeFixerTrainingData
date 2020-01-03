@@ -201,7 +201,7 @@ int main(void) {
 	short	zbpgSvVQ;
 	zbpgSvVQ	=	(short)473497531;
  unsigned char R_w_E;
- R_w_E = 1592787805;
+ R_w_E = (unsigned char)1592787805;
 	unsigned int	Oy33JS3;
 	Oy33JS3	=	0;
  unsigned short V6Sv9v_HX;
@@ -213,7 +213,7 @@ int main(void) {
 	short int	jRE8F;
 	jRE8F	=	(short)30842367;
  short s37nV5L;
- s37nV5L = -581649808;
+ s37nV5L = (short)-581649808;
 	float	cT5J_x7;
 	cT5J_x7	=	955312289;
     unsigned long    IDBhG1;
@@ -595,7 +595,7 @@ Q8___A = P7T0w((short)-1210045677, (unsigned short)1280995593, (char)119767439);
 break;
 case 'f':
 case 'F':
-gPWq03FP8 = P7T0w((short)768697071, 1484317751, 2145119261);
+gPWq03FP8 = P7T0w((short)768697071, (unsigned short)1484317751, 2145119261);
 break;
 default:
 q39D11N0 = (int)abs(U1W526dW2);

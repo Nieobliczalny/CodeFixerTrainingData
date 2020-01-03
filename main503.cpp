@@ -125,7 +125,7 @@ int main(int argc, char** argv) {
     char    FcAV85bJX_;
     FcAV85bJX_    =    (char)-1668453429;
     unsigned char    YgTjEtq19;
-    YgTjEtq19    =    -983904320;
+    YgTjEtq19    =    (unsigned char)-983904320;
   int  voe3;
   voe3  =  1255274721;
 	unsigned char	RR2KTu08;

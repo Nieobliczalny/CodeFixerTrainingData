@@ -309,7 +309,7 @@ return 0;
 
 unsigned short	rR0_(unsigned long	y86eWYo,unsigned long long	R9Q67OZawA,unsigned long	R_Jh4rN)
 {
-	return	-1218170017;
+	return	(unsigned short)-1218170017;
 }
 
 unsigned short int  m4ry_kW7c(short int  t5Aa,unsigned short int  uRLVfLn)

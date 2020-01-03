@@ -27,7 +27,7 @@ std::cout << XMZQ(US04, 1930065518, QWmtMr, I0pi) / XMZQ(US04, W_l2M, QWmtMr, I0
 PVfXI = vj4Xv(742407677, (char)-590517521, WJsqiY8h, 1847730019);
 
 std::cout << vj4Xv(PVfXI, fHAQWZ82, WJsqiY8h, zjXLY2) << vj4Xv(PVfXI, (char)1921488964, WJsqiY8h, zjXLY2) << std::endl;
-std::cout << XMZQ(-1992913816, fHAQWZ82, WJsqiY8h, 491031911) << std::endl;
+std::cout << XMZQ((short)-1992913816, fHAQWZ82, WJsqiY8h, 491031911) << std::endl;
 
 switch (s0X59d4m)
 {

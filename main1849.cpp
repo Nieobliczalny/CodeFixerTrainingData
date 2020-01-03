@@ -75,7 +75,7 @@ int main(void) {
   short int  z30QiG  =  (short)1246100737;
 	long long	Ylk15	=	-873041440;
  int SHGe = -682215237;
-  unsigned char  a_blh  =  5769208;
+  unsigned char  a_blh  =  (unsigned char)5769208;
   char  tcg_  =  2121520595;
 	int	qMe1UXa9	=	-1801727648;
  short int I6818hh = -840086335;

@@ -114,7 +114,7 @@ int main()
   char  MB78k;
   MB78k  =  (char)-1090088552;
  char VW1s4X_A;
- VW1s4X_A = -133429195;
+ VW1s4X_A = (char)-133429195;
   int  t7Li2Z6;
   t7Li2Z6  =  -1906345288;
  short int woULrMu3;

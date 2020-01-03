@@ -42,7 +42,7 @@ int main(int argc, char** argv) {
  unsigned short IGgai;
  IGgai = (unsigned short)1501522213;
 	unsigned short	LfJpRfV;
-	LfJpRfV	=	-690846673;
+	LfJpRfV	=	(unsigned short)-690846673;
 	unsigned short int	c_PoW;
 	c_PoW	=	(unsigned short)-1563524076;
  long cZi827;

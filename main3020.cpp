@@ -27,7 +27,7 @@ int main() {
  unsigned short int xn3aPV = (unsigned short)-1474847767;
   unsigned short  V66G  =  (unsigned short)449126215;
   long  wGN663  =  1350203054;
- unsigned short int FREgi6y = -861186556;
+ unsigned short int FREgi6y = (unsigned short)-861186556;
  unsigned long long mws2s = -1967453733;
  unsigned char Xio8_OYy8 = 2015852529;
 	short int	F7_GeBW4aE	=	0;
@@ -38,7 +38,7 @@ int main() {
     unsigned char    P9hqKvZ3Oy    =    (unsigned char)-1502793442;
 	unsigned long long	JhZ4VC3t	=	-1024001744;
  short int znjWR34D = (short)1811115219;
-  unsigned char  E5JPWe2  =  -629934063;
+  unsigned char  E5JPWe2  =  (unsigned char)-629934063;
     unsigned char    WBxNw8C    =    1301556044;
   short  Z3a8r5  =  -795477690;
     char    O4D5H9_f    =    1715298819;
@@ -68,7 +68,7 @@ int main() {
 	unsigned short	p87wSRiZB	=	(unsigned short)-489420342;
   unsigned int  G3iiXm  =  -861991636;
     short    k_fZ762N4    =    (short)-1422185718;
-	char	EJok7Q	=	-1343283980;
+	char	EJok7Q	=	(char)-1343283980;
   unsigned char  XZZ_g  =  696501688;
   unsigned short int  BwH5  =  140402926;
   unsigned long long  q7D2  =  1119838727;
@@ -432,7 +432,7 @@ yv5dWJ = (int)abs(EJok7Q) * 0;
 
 try
 {
-cout << EJg9 << M7MNDa0z6 << UllF1nS0F6(-917774960) << TDUo << r8ztyCxSO((char)1900233124, -1719710629) << endl;
+cout << EJg9 << M7MNDa0z6 << UllF1nS0F6(-917774960) << TDUo << r8ztyCxSO((char)1900233124, (short)-1719710629) << endl;
 }
 catch (int& errorCode)
 {

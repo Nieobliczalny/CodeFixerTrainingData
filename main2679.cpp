@@ -994,7 +994,7 @@ sX92V17b = Rm2UyU_4cx((unsigned short)4049648, wn7ciR, -1988187465, (unsigned sh
 }
 }
 
-cout << "WTijUF" << "Jc2c" << "JeP30" << h93Q((char)-2033889414, 1407982770, 1852408684, 357281186) << endl;
+cout << "WTijUF" << "Jc2c" << "JeP30" << h93Q((char)-2033889414, 1407982770, (unsigned short)1852408684, 357281186) << endl;
 if (sX92V17b <= d72_Z6Iw5D)
 {
 sX92V17b = h93Q(YTi3JLngK, wn7ciR, 2083722715, sX92V17b);

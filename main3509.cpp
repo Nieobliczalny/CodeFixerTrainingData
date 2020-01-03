@@ -21,7 +21,7 @@ int main()
   unsigned short  mC69D8Et;
   mC69D8Et  =  (unsigned short)-102640588;
     char    b60N5;
-    b60N5    =    -1090416225;
+    b60N5    =    (char)-1090416225;
     unsigned short int    Ns274Hs54;
     Ns274Hs54    =    (unsigned short)1495282452;
   unsigned short  jx2aMg0;

@@ -16,7 +16,7 @@ int main(void)
  unsigned short AsY2_gpmr3 = (unsigned short)1537769126;
     unsigned int    mG59_4J    =    -349661426;
     unsigned int    HE0o0    =    1469693383;
-    unsigned short    hfV4bsD0    =    -287912083;
+    unsigned short    hfV4bsD0    =    (unsigned short)-287912083;
  unsigned char T2Zx13 = 1589722575;
 	unsigned long	P6xK	=	-1005151423;
   unsigned char  ujHqGzndU3  =  719137941;
@@ -31,7 +31,7 @@ int main(void)
   unsigned long  HRCU  =  136163501;
     long double    A5Is8ap_f    =    1293831653;
 	unsigned short	K1O8P54	=	(unsigned short)1474545783;
-	unsigned short int	cE34y9	=	-1618605626;
+	unsigned short int	cE34y9	=	(unsigned short)-1618605626;
   unsigned long  Et_ke9  =  1114796625;
  long eUYp0JC = 1216404390;
   long  Hm3Z3v9  =  -1603492315;

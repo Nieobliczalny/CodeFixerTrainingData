@@ -112,7 +112,7 @@ FlWwo = Z8rk5_(FlWwo, (unsigned short)-313189271, -2131685245, (short)-836741667
 break;
 case 'c':
 case 'C':
-FIi7s = A62u9TFldR(h4bBJy7, 406909774, 1668491114, p3ks7aX, -1969189242);
+FIi7s = A62u9TFldR(h4bBJy7, 406909774, 1668491114, p3ks7aX, (unsigned short)-1969189242);
 break;
 case 'd':
 case 'D':

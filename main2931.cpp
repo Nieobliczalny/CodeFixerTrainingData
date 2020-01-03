@@ -32,7 +32,7 @@ int main(void) {
  unsigned short int UgKYa99Y39;
  UgKYa99Y39 = (unsigned short)195565588;
     short    Ctu05MJ_;
-    Ctu05MJ_    =    -1152201285;
+    Ctu05MJ_    =    (short)-1152201285;
   short int  iDd544KXT6;
   iDd544KXT6  =  (short)1271809738;
  short XenVN;

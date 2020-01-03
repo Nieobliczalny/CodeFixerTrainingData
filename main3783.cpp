@@ -667,7 +667,7 @@ switch (aG2Qu3B_3)
 {
 case 'a':
 case 'A':
-LRyP = WqeR(LRyP, (unsigned short)183777103, (short)330739821, Cd_0tSHXHl, -774653247);
+LRyP = WqeR(LRyP, (unsigned short)183777103, (short)330739821, Cd_0tSHXHl, (char)-774653247);
 break;
 case 'b':
 case 'B':

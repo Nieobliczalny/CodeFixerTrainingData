@@ -152,7 +152,7 @@ std::cout << T013ght << o0v9HGo << q6WV2((unsigned short)-1509481612, vfnwd, (un
 }
 else if (TdhVzJVs4 > -364500946)
 {
-Y_07TH = (uWn8N0h_ == u_Hd) ? h4HWgv(-1136708212, 219253714, -278697955) : uWn8N0h_;
+Y_07TH = (uWn8N0h_ == u_Hd) ? h4HWgv((short)-1136708212, 219253714, -278697955) : uWn8N0h_;
 }
 else if (JVRQ7)
 {

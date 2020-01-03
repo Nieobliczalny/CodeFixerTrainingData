@@ -231,7 +231,7 @@ case 9:
 x3Gn = a_44(-1169428908, 1136063163, IAX3ajh5q, (short)-167053160, UIVM_tk__);
 break;
 default:
-etzY_752 = NOx8QadC((short)1253574921, (unsigned short)1259173694, 428761947, 887055821);
+etzY_752 = NOx8QadC((short)1253574921, (unsigned short)1259173694, (unsigned short)428761947, 887055821);
 break;
 }
 }
@@ -276,7 +276,7 @@ case 7:
 x3Gn = a_44(-1279750526, Ush6, RyZw_5, (short)378093299, 1964007584);
 break;
 case 8:
-BZgS = NOx8QadC(-59855232, fxK49mgtk, 16982248, cKTfwH);
+BZgS = NOx8QadC((short)-59855232, fxK49mgtk, 16982248, cKTfwH);
 break;
 case 9:
 nw9Qi3Uc = m16_DAJf ^ cKTfwH;

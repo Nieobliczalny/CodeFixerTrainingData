@@ -285,7 +285,7 @@ case 'b':
 FVD_IH7 = j31OA_K4L((short)-551489182, FVD_IH7, (unsigned char)-45289789, MO763vo);
 break;
 case 'c':
-Y2A20602 = pHP_Z((char)763123018, Rp99X, Sl2I61u, 1093175814);
+Y2A20602 = pHP_Z((char)763123018, Rp99X, Sl2I61u, (unsigned short)1093175814);
 break;
 case 'd':
 MpS5 = (int)ceil(Rp99X);

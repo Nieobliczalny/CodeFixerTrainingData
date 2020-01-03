@@ -35,7 +35,7 @@ int main(int argc, char** argv)
     unsigned int    slwdh600    =    -885859987;
     short int    do9sp0    =    (short)801157585;
 	float	I9io4	=	-1618693465;
-  unsigned short int  GFzxowN3  =  -1015004047;
+  unsigned short int  GFzxowN3  =  (unsigned short)-1015004047;
 	unsigned char	r7jI	=	(unsigned char)1567591106;
   char  PCSgr1bYr0  =  (char)-332545422;
     int    LXh_L    =    1796065614;
@@ -96,7 +96,7 @@ case 'e':
 ZYzj = Ky6e_8LY(-1719641750, (unsigned short)988551954, -196008711, (short)-1141612004, ZYzj);
 break;
 case 'f':
-NOqo4HQRh = Ky6e_8LY(B2p92, (unsigned short)-890800569, yKS3E8Mj4, 1470253843, ZYzj) / 1751588323;
+NOqo4HQRh = Ky6e_8LY(B2p92, (unsigned short)-890800569, yKS3E8Mj4, (short)1470253843, ZYzj) / 1751588323;
 break;
 case 'g':
 PCSgr1bYr0++;
@@ -304,7 +304,7 @@ case 'a':
 roa3PR = S_QEq((char)-1862609749, 1693931050, (short)-1566310206);
 break;
 case 'b':
-Nw0UBBgl = S_QEq((char)-274777938, Yn3ARUroe, 1449153615);
+Nw0UBBgl = S_QEq((char)-274777938, Yn3ARUroe, (short)1449153615);
 break;
 case 'c':
 do9sp0 = SB9g9FH(do9sp0, LXh_L, slwdh600, GFzxowN3, (unsigned short)1853139284);

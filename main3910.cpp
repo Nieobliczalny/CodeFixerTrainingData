@@ -515,7 +515,7 @@ case 2:
 fP5gMyB_++;
 break;
 case 3:
-fP5gMyB_ = z43g(W71_xunB, A33x8, -1180916612, l_Pj2q9a);
+fP5gMyB_ = z43g(W71_xunB, A33x8, (char)-1180916612, l_Pj2q9a);
 break;
 case 4:
 ia5cBwP22 >>= U8tie8Doz;

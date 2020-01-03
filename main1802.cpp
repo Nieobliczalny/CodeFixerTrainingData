@@ -97,7 +97,7 @@ int main(void) {
     unsigned short int    NM2Ss8;
     NM2Ss8    =    (unsigned short)1100148438;
 	char	KeFtli;
-	KeFtli	=	1391266533;
+	KeFtli	=	(char)1391266533;
     float    cGqX32e4t;
     cGqX32e4t    =    1847133424;
     short    Vi85C;

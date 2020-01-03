@@ -101,7 +101,7 @@ int main(int argc, char** argv)
  unsigned short z4kxxZ2L1;
  z4kxxZ2L1 = (unsigned short)664324397;
 	short int	HRot4e7V2;
-	HRot4e7V2	=	1502371548;
+	HRot4e7V2	=	(short)1502371548;
  short int dRsuv6;
  dRsuv6 = (short)-1007187554;
  unsigned int EWuSIrj;

@@ -357,7 +357,7 @@ case 2:
 l6g8 = tAP2s3g_7Q(680858634, ytpAy0iyF, (unsigned char)-897341651, (short)-123987975, HcQIuw04k);
 break;
 default:
-o4tX_Vju = (sDk4p3E6hX <= 33811457) ? -250882001 : -2121303943;
+o4tX_Vju = (sDk4p3E6hX <= 33811457) ? (unsigned short)-250882001 : -2121303943;
 break;
 }
 std::cout << tAP2s3g_7Q(l6g8, ytpAy0iyF, BBizZ, tP7962q4Ey, HcQIuw04k) << slE8() << std::endl;

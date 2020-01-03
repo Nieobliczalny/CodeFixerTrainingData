@@ -37,7 +37,7 @@ int main() {
 	unsigned short int	Z6N6	=	(unsigned short)1834047527;
  char be09p6 = (char)147210520;
  short int M7oqD9o = 0;
-    unsigned short int    t_8xzq    =    -712269906;
+    unsigned short int    t_8xzq    =    (unsigned short)-712269906;
     unsigned long long    CvS9K5Da4    =    1436832130;
     unsigned short    z5aV    =    0;
   unsigned long  UD3n  =  -579141627;

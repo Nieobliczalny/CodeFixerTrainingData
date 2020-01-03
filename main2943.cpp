@@ -34,7 +34,7 @@ int main() {
 	unsigned short	kvh_Q;
 	kvh_Q	=	(unsigned short)77327435;
     char    YdBC;
-    YdBC    =    -405512405;
+    YdBC    =    (char)-405512405;
     long    JH6xKx;
     JH6xKx    =    1132460981;
   char  q1nOGa;

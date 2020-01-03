@@ -169,7 +169,7 @@ int main()
 	short int	dK4b;
 	dK4b	=	(short)1501236945;
 	unsigned short int	e0Kg6bp60;
-	e0Kg6bp60	=	2045999555;
+	e0Kg6bp60	=	(unsigned short)2045999555;
  int vDY5_D2U;
  vDY5_D2U = 23436265;
   unsigned long  Y9jkKO;

@@ -89,7 +89,7 @@ int main(int argc, char** argv) {
 	unsigned char	L0_0Z68_y9;
 	L0_0Z68_y9	=	(unsigned char)1662276480;
   short int  k624;
-  k624  =  -1336242205;
+  k624  =  (short)-1336242205;
     long double    IEPg4W;
     IEPg4W    =    -1523441335;
  unsigned int znuP7;

@@ -237,7 +237,7 @@ oNil1at = FVNi5RTr((short)394090166, kr95521, (unsigned char)-714313157, -175655
 }
 else if ((Ia703p >= 1856205173) || (ZHhCf3 > 2128570019))
 {
-ZHhCf3 = FVNi5RTr((short)-20937402, -774997550, i8_89zI6, qXcMoPP, -955415134);
+ZHhCf3 = FVNi5RTr((short)-20937402, (unsigned short)-774997550, i8_89zI6, qXcMoPP, -955415134);
 }
 else if (YgH_ > B245P5O1gx)
 {

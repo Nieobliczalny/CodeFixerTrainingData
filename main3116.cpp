@@ -37,7 +37,7 @@ int main()
   short int  mG4z0eF  =  (short)-2058331419;
   float  Kux7MC  =  -1121357629;
     short    N_B3l    =    (short)-1511001415;
-    unsigned char    VMU9    =    -345704799;
+    unsigned char    VMU9    =    (unsigned char)-345704799;
   unsigned int  S7r_1  =  -1301956964;
 	unsigned long	QV_0lc	=	1108007803;
  unsigned long t_UA = 98955204;

@@ -485,7 +485,7 @@ t6L0Gd_iYN = xkxIh6C(jwkNb, (unsigned short)-951298504, -860764596, (unsigned ch
 }
 else
 {
-aC_4JEd5 = xkxIh6C(vM26H2G9q, -1255877183, hW4_4N, k9J3r5p, QgkP0);
+aC_4JEd5 = xkxIh6C(vM26H2G9q, (unsigned short)-1255877183, hW4_4N, k9J3r5p, QgkP0);
 }
 }
 --i;

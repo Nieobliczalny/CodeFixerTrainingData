@@ -45,7 +45,7 @@ int main(void)
   long long  qL6xp118b  =  1049845265;
  short IeS5E = (short)1338303583;
     unsigned long long    pvLFn8    =    1451127801;
-	unsigned char	iwWDO	=	-32026367;
+	unsigned char	iwWDO	=	(unsigned char)-32026367;
   int  FZYnk  =  -1191589208;
 	long	LqsAHFCE	=	1638871481;
     int    UUWwvccf    =    652770266;

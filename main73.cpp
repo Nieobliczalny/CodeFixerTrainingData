@@ -25,7 +25,7 @@ int main(int argc, char** argv)
  unsigned short G6B9 = (unsigned short)-2009597120;
  short ZpAN9U = (short)1851367774;
     unsigned long long    H38N2f    =    0;
-  short int  kBPKB  =  -199773647;
+  short int  kBPKB  =  (short)-199773647;
   unsigned long  A0Ae  =  1578771803;
  unsigned char N2aH = 2085662825;
  int pD197_RS83 = -1884062199;
@@ -44,7 +44,7 @@ int main(int argc, char** argv)
 	unsigned short int	xE3_Fr	=	(unsigned short)321000163;
  unsigned char w75ZL4 = 0;
 
-std::cout << buei4IV2(v8vz, -1694951927, -2078209733, (short)-274375316) << MTYCJ70_4B << xVPty1 << buei4IV2(v8vz, ps9B, -1413452607, Ng_A) << buei4IV2(v8vz, 1237305587, 1487363031, -1658666392) << std::endl;
+std::cout << buei4IV2(v8vz, -1694951927, -2078209733, (short)-274375316) << MTYCJ70_4B << xVPty1 << buei4IV2(v8vz, ps9B, -1413452607, Ng_A) << buei4IV2(v8vz, 1237305587, 1487363031, (short)-1658666392) << std::endl;
 
 G6B9 = (unsigned short)(eLMF);
 

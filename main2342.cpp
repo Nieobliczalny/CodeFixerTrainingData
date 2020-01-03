@@ -23,7 +23,7 @@ int main(int argc, char** argv)
   short int  i3e9y5  =  (short)-1157984151;
  float nCfQFqH = -803754657;
   int  BhDRH4Q1l  =  -2066022979;
-    unsigned char    KkAL8nZ0vk    =    1339923818;
+    unsigned char    KkAL8nZ0vk    =    (unsigned char)1339923818;
   int  Z5PAak6  =  -813419290;
     unsigned char    QpJ8I1___    =    (unsigned char)358838808;
  short int Ji59 = (short)1847145285;
@@ -34,7 +34,7 @@ int main(int argc, char** argv)
     short int    L6PrKQ    =    (short)-808595469;
  int QDe_9Mwy0 = -1760498099;
 	int	lEJ5jCVi40	=	-1338086976;
-	unsigned short int	Mjh05XK5T	=	-1958924993;
+	unsigned short int	Mjh05XK5T	=	(unsigned short)-1958924993;
     long double    g9Vp    =    -1026901504;
 	unsigned int	xkrE	=	-723969654;
   unsigned int  ku7UIBBNlz  =  654705477;
@@ -44,7 +44,7 @@ int main(int argc, char** argv)
  unsigned short int LSaV8JO = (unsigned short)-1028042994;
   int  Oe4Qf4x7  =  1659086110;
     short int    u20sU0    =    (short)-1496859982;
-    unsigned char    MNk5s25    =    567030927;
+    unsigned char    MNk5s25    =    (unsigned char)567030927;
   unsigned long long  jT64_ro  =  -1702718193;
   short int  M4__5EZZs  =  1356274120;
 	double	QXy8Qe4	=	1719974118;
@@ -62,7 +62,7 @@ int main(int argc, char** argv)
 	char	fSUftxqnV	=	(char)-422274299;
  unsigned int M_r5 = 1003027147;
     short int    JOvLQ9B    =    (short)1293770963;
- short int IKCM0g3xOO = -607240905;
+ short int IKCM0g3xOO = (short)-607240905;
   short  gD0U7DY  =  -410476945;
 	unsigned long	aH_xo2	=	787574536;
     double    z6lkg    =    1358892388;
@@ -85,7 +85,7 @@ int main(int argc, char** argv)
  unsigned long HWI1i_ = 1627166563;
 	unsigned int	RJ58_FM5CE	=	173664212;
     unsigned char    N4fW5x23o    =    (unsigned char)-1581628061;
-	char	eBJF	=	-1998081306;
+	char	eBJF	=	(char)-1998081306;
  char IJ9Q3Ep_Wa = -189926452;
 	short int	jJptxBHg4	=	1686155232;
  unsigned char jle3Or93 = (unsigned char)-1987530304;
@@ -95,7 +95,7 @@ int main(int argc, char** argv)
   short  oC7bLs_P44  =  (short)1473253044;
 	unsigned char	R63ilJ	=	-672275607;
   unsigned short  CV46  =  (unsigned short)1268400496;
-	unsigned short	onf46	=	-487828152;
+	unsigned short	onf46	=	(unsigned short)-487828152;
 	unsigned short int	q_gil9	=	-360147786;
  char LMlPP_SFl = 0;
   short  tvmy7Q57jS  =  (short)-2012028966;

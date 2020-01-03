@@ -252,7 +252,7 @@ case 4:
 joabfr5MX = LU9pvB_3Pc - 1045220669;
 break;
 case 5:
-joabfr5MX = (LU9pvB_3Pc != z3qy9Tnrp0) ? coWx(k_B1fB, (unsigned short)1311253216, 134372603) : LU9pvB_3Pc;
+joabfr5MX = (LU9pvB_3Pc != z3qy9Tnrp0) ? coWx(k_B1fB, (unsigned short)1311253216, (char)134372603) : LU9pvB_3Pc;
 break;
 case 6:
 s72_90g = (int)ceil(L20816QBe);
@@ -294,7 +294,7 @@ case 'c':
 joabfr5MX = (int)ceil(yzTB2s8_EA);
 break;
 case 'd':
-L20816QBe = BLMFD_QC(335768395, (unsigned char)571409339, (unsigned short)-1193404750, (unsigned short)1438295316, -29347477);
+L20816QBe = BLMFD_QC(335768395, (unsigned char)571409339, (unsigned short)-1193404750, (unsigned short)1438295316, (short)-29347477);
 break;
 default:
 LU9pvB_3Pc = s72_90g / 1217226746;
@@ -353,7 +353,7 @@ case 2:
 k_B1fB = z3qy9Tnrp0 >> 1519889016;
 break;
 case 3:
-L20816QBe = coWx((char)1411772465, z3qy9Tnrp0, 1961091386);
+L20816QBe = coWx((char)1411772465, z3qy9Tnrp0, (char)1961091386);
 break;
 case 4:
 g6cdECn = (int)abs(L20816QBe);
@@ -524,7 +524,7 @@ case 3:
 yzTB2s8_EA = (int)abs(k_B1fB);
 break;
 default:
-s72_90g = coWx(s72_90g, (unsigned short)-1499995539, -2043010519);
+s72_90g = coWx(s72_90g, (unsigned short)-1499995539, (char)-2043010519);
 break;
 }
 

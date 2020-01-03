@@ -52,7 +52,7 @@ case 3:
 UL_007Z03_ = MYxy_21S1(783682118, d7enu62s5, (short)1484889902);
 break;
 case 4:
-e_VY3sb9 = U2Vpmk84T(n3i2Thq9tV, -1782180797, OL5oZQ, d7enu62s5);
+e_VY3sb9 = U2Vpmk84T(n3i2Thq9tV, (unsigned char)-1782180797, OL5oZQ, d7enu62s5);
 break;
 case 5:
 e_VY3sb9 = U2Vpmk84T(fI1e, (unsigned char)-200262362, lqa014q937, kCLwP_F);

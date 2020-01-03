@@ -34,7 +34,7 @@ int main()
 	short int	S5e6O2g	=	(short)-2082645176;
 	unsigned short	SUuU40	=	(unsigned short)1299693284;
   long long  BOZmH11fM  =  1940771031;
- unsigned short int fc5x8 = 860920242;
+ unsigned short int fc5x8 = (unsigned short)860920242;
     long    G1rr    =    478410261;
  unsigned int Z69yg249a = 1644097905;
   long  MsPS  =  875211583;

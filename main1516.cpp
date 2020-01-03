@@ -58,7 +58,7 @@ int main() {
   char  Ff22Hk5L7  =  (char)366304675;
   unsigned short int  U1_E8P  =  (unsigned short)2142255130;
   short  HlH4A6B  =  (short)1577495654;
-    unsigned char    CxO1cto4R    =    1344695234;
+    unsigned char    CxO1cto4R    =    (unsigned char)1344695234;
 	unsigned short int	zd7R2vIPlK	=	-1818249575;
   unsigned char  szW32E5QA  =  (unsigned char)273209991;
     unsigned char    eFw8Ru0G    =    -1740900439;

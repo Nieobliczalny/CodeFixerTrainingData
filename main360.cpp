@@ -764,7 +764,7 @@ case 4:
 Tl0Q4u_Zj = pyMx(-595410279, -1462244873, (short)-2120110579, C1S4xgMX);
 break;
 case 5:
-xWoUYGCx2D = pyMx(834764788, D1_jd, -829559010, 1086665509);
+xWoUYGCx2D = pyMx(834764788, D1_jd, (short)-829559010, 1086665509);
 break;
 case 6:
 QSV1Qc = h9t6v >> 657289617;

@@ -44,7 +44,7 @@ int main(void)
 	unsigned short int	OF16gs;
 	OF16gs	=	(unsigned short)56117886;
  short int r_9c5I80x;
- r_9c5I80x = -846702619;
+ r_9c5I80x = (short)-846702619;
  short int ujC7W1N_;
  ujC7W1N_ = (short)-1364867347;
  short tMlhcp8p;
@@ -68,7 +68,7 @@ int main(void)
   unsigned short  zrHl62W;
   zrHl62W  =  (unsigned short)-634349394;
     unsigned short    hebG8f905;
-    hebG8f905    =    1193037201;
+    hebG8f905    =    (unsigned short)1193037201;
  unsigned short V68Trf9;
  V68Trf9 = (unsigned short)-439618258;
   char  rLsMcJsz;

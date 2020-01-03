@@ -85,7 +85,7 @@ case 0:
 NWJkRHnNX1 = S6k747727l((unsigned short)-294781279, Z1iY, (short)793590929, FXS_01E84K);
 break;
 case 1:
-BRwkE = S6k747727l(BRwkE, (short)-328113219, (short)1994591619, -742450735);
+BRwkE = S6k747727l(BRwkE, (short)-328113219, (short)1994591619, (unsigned short)-742450735);
 break;
 case 2:
 dL8xlz = S6k747727l(-888475839, 1223993128, 801771600, 2033845389);
@@ -431,7 +431,7 @@ while (i >= 0);
 int i = 10;
 while (i >= 0)
 {
-std::cout << vZWm4M(-1490738418, qp_8_U, tmhL9, 540309678, -1192434469) << xeQ1jwehm9 << S6k747727l((unsigned short)1998119163, (short)424776291, (short)-1787633933, (unsigned short)152120931) << UQRvQE_wXp(1696097417, qp_8_U, -1411422414) << "N2b__1U6_O" << std::endl;
+std::cout << vZWm4M(-1490738418, qp_8_U, tmhL9, 540309678, -1192434469) << xeQ1jwehm9 << S6k747727l((unsigned short)1998119163, (short)424776291, (short)-1787633933, (unsigned short)152120931) << UQRvQE_wXp(1696097417, qp_8_U, (short)-1411422414) << "N2b__1U6_O" << std::endl;
 --i;
 }
 }

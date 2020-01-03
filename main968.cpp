@@ -50,7 +50,7 @@ int main(void)
  unsigned short int lK_7O78ae9;
  lK_7O78ae9 = (unsigned short)-2093403917;
  short int cb6q;
- cb6q = 373801358;
+ cb6q = (short)373801358;
 	unsigned long	obt50m9;
 	obt50m9	=	779190517;
  unsigned short int u01rkgq;
@@ -96,7 +96,7 @@ int main(void)
 	char	f2dlz;
 	f2dlz	=	(char)-519810079;
     short int    Yq7ue;
-    Yq7ue    =    -1629879970;
+    Yq7ue    =    (short)-1629879970;
  unsigned short R984wZ2gud;
  R984wZ2gud = (unsigned short)-1793248981;
 	unsigned short	z_IL39rXQ;
@@ -106,7 +106,7 @@ int main(void)
  short kMjg6Z7;
  kMjg6Z7 = (short)-928831769;
     char    iys87;
-    iys87    =    232388475;
+    iys87    =    (char)232388475;
   unsigned short  jrye_X01;
   jrye_X01  =  (unsigned short)851041980;
  unsigned long long YW2GA_g;

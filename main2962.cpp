@@ -32,7 +32,7 @@ int main(int argc, char** argv)
   unsigned int  tl2t_  =  -39829562;
   short int  mdF_  =  (short)-1396206541;
 	long long	Tcc0Mx3	=	1191014218;
-    short    f_75    =    -896560742;
+    short    f_75    =    (short)-896560742;
     unsigned char    ChD5R    =    (unsigned char)-538135602;
 	unsigned short int	qVxJaXw4l	=	-1034952644;
 	long long	A2dJS	=	-463493439;
@@ -64,7 +64,7 @@ int main(int argc, char** argv)
 	unsigned short int	Ac4zeg	=	(unsigned short)-655603555;
     double    gtdYe    =    -1923036899;
 	long double	B3Qz3ev	=	-962913662;
-    short int    KH_9u21    =    -640433574;
+    short int    KH_9u21    =    (short)-640433574;
  unsigned char I0J2NLAO = 917408635;
  long mlJO65Y = 305609511;
 

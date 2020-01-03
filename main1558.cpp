@@ -95,7 +95,7 @@ int main()
     unsigned char    d0q5;
     d0q5    =    (unsigned char)440547130;
  short int mSxzu57;
- mSxzu57 = 690014006;
+ mSxzu57 = (short)690014006;
  unsigned long long E1ARQ4Ksy1;
  E1ARQ4Ksy1 = -1082189581;
   long double  Q0RZ1HQ;

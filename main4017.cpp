@@ -42,7 +42,7 @@ int main(int argc, char** argv) {
     long long    i5SDbTIR2    =    1828714544;
   unsigned short int  P3jb0cM5V  =  (unsigned short)1610908140;
     double    cpurt3    =    229395946;
- unsigned short int PcX_nPYN1U = -613150931;
+ unsigned short int PcX_nPYN1U = (unsigned short)-613150931;
  char wgXr5uebG = 59996891;
   float  a3eH  =  1167308780;
   unsigned short int  m5C9  =  (unsigned short)1454367896;

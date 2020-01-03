@@ -103,7 +103,7 @@ int main(void)
   char  doZ6f;
   doZ6f  =  (char)1316583831;
   char  n90V4;
-  n90V4  =  526577735;
+  n90V4  =  (char)526577735;
     unsigned long long    tMAk2P;
     tMAk2P    =    -744140550;
   short  T6TA;
@@ -230,7 +230,7 @@ doZ6f = (char)(QN21W1UFz + (517801832));
 m_8LT = qkws7xaUn1((char)-419607185, 439049788);
 D_1y = tMAk2P >> 1817124473;
 
-std::cout << w2Ris(-423206795) << F93_jDN0((unsigned short)1182402216, CDT95Fdc96, (char)-1531480640, 1222074812) << std::endl;
+std::cout << w2Ris(-423206795) << F93_jDN0((unsigned short)1182402216, CDT95Fdc96, (char)-1531480640, (unsigned short)1222074812) << std::endl;
 
 zu80DOvaJ_ = w2Ris(O54Q2);
 

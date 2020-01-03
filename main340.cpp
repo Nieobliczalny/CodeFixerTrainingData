@@ -238,7 +238,7 @@ FO46M04 = LXmfwE((unsigned short)-135304355, FO46M04, SwzZ, 1370327440);
 break;
 case 'd':
 case 'D':
-D8OP = dMD4BX(FO46M04, (short)-1584656312, 1128666895, 453526886, 1763351846);
+D8OP = dMD4BX(FO46M04, (short)-1584656312, 1128666895, (unsigned short)453526886, 1763351846);
 break;
 case 'e':
 case 'E':
@@ -349,7 +349,7 @@ D8OP = dMD4BX(-1779339133, (short)599405574, D8OP, (unsigned short)621950581, (c
 break;
 case 'd':
 case 'D':
-D8OP = dMD4BX(726569109, SwzZ, D8OP, (unsigned short)564418930, -10683414);
+D8OP = dMD4BX(726569109, SwzZ, D8OP, (unsigned short)564418930, (char)-10683414);
 break;
 case 'e':
 case 'E':

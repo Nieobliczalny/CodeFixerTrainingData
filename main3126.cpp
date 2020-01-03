@@ -165,7 +165,7 @@ wa604wk = FkFx_E(wa604wk, (short)406770687, JCeVYdtSMU, (short)-2038422317, fcQ8
 break;
 case 'd':
 case 'D':
-wa604wk = b5_57Nt((short)-38283794, (unsigned char)-1357161396, IAr5510tC, -1812610636, -616598373);
+wa604wk = b5_57Nt((short)-38283794, (unsigned char)-1357161396, IAr5510tC, (unsigned char)-1812610636, -616598373);
 break;
 case 'e':
 case 'E':
@@ -224,7 +224,7 @@ case 'b':
 sKLYv = J14Y((unsigned short)1008429231, (unsigned short)-365463651);
 break;
 case 'c':
-cSIVLFPqgZ = FkFx_E(JCeVYdtSMU, 1403542198, -579518561, 1465971812, IAr5510tC);
+cSIVLFPqgZ = FkFx_E(JCeVYdtSMU, (short)1403542198, -579518561, 1465971812, IAr5510tC);
 break;
 case 'd':
 sKLYv = J14Y(82198689, -489780792);

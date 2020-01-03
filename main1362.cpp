@@ -63,7 +63,7 @@ int main()
     char    nbtTcX    =    (char)1539200555;
     long    v7v1ha46Ai    =    965850972;
     short    zXg_1    =    (short)2064279632;
-	unsigned short	Luy37PenC	=	-1490164093;
+	unsigned short	Luy37PenC	=	(unsigned short)-1490164093;
   unsigned short int  r5kA8  =  0;
  short b7zWStV = -188184494;
   unsigned short int  TZX1  =  -1636879285;

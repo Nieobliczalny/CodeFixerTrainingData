@@ -291,7 +291,7 @@ case 1:
 d81J_2cN = iv1I5qp64(d81J_2cN, d_NO3vCJ, (short)-1123513579, j_2B27, (short)618569722);
 break;
 case 2:
-TjtgfDqw = iv1I5qp64(PEJlJ, 787476270, 1091490543, 744643158, -1574109447);
+TjtgfDqw = iv1I5qp64(PEJlJ, 787476270, (short)1091490543, 744643158, -1574109447);
 break;
 default:
 TjtgfDqw = iv1I5qp64(-455446510, HwHU8J, Ipe6W, 695528545, YjOhC1E);

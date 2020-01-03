@@ -42,7 +42,7 @@ int main(int argc, char** argv) {
  unsigned short int AUf_l_3F1;
  AUf_l_3F1 = (unsigned short)537327330;
 	unsigned short	c_QAar;
-	c_QAar	=	-1712725435;
+	c_QAar	=	(unsigned short)-1712725435;
 	int	gW2m7d5d0;
 	gW2m7d5d0	=	-2090287360;
     double    B96j;

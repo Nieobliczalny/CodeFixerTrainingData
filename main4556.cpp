@@ -24,7 +24,7 @@ int main()
  char gk1aV = (char)-1453705629;
 	unsigned long	Km85GsSyEG	=	0;
     unsigned short    mfYRnb    =    (unsigned short)-820688532;
- char R2zQC = -1963196798;
+ char R2zQC = (char)-1963196798;
 	char	XJnA3k	=	1008816387;
   unsigned short  Gs1p  =  1558874401;
     long    sq8g_m154t    =    276073956;

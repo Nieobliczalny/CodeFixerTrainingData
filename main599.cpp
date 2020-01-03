@@ -36,7 +36,7 @@ int main() {
 	long long	Q_3E	=	0;
  unsigned short int z01g_ = (unsigned short)1978742992;
   unsigned long  dkRQnOAp  =  0;
- unsigned short dF8OS2jB = 436222015;
+ unsigned short dF8OS2jB = (unsigned short)436222015;
   char  Di0vaP5  =  -1347283244;
  unsigned short int Tt3bwY = (unsigned short)1594094705;
     unsigned long long    KRB_    =    -1301004646;
@@ -51,7 +51,7 @@ int main() {
 	unsigned short	hu3A25	=	(unsigned short)822798287;
  unsigned short IUqj = (unsigned short)-1573860311;
  unsigned long long S8mCj = -71931427;
-  unsigned short  w0cTH  =  -783451062;
+  unsigned short  w0cTH  =  (unsigned short)-783451062;
   unsigned long long  f_ChYOmH9  =  1867699173;
 
 {

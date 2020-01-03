@@ -121,7 +121,7 @@ int main()
   short int  bEhr;
   bEhr  =  (short)-2013967699;
  short int Pv0Li;
- Pv0Li = -301987885;
+ Pv0Li = (short)-301987885;
 	unsigned long	NyCtsy;
 	NyCtsy	=	1492708945;
   long long  UzQtHvQ;

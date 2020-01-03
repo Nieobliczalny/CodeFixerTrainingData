@@ -45,7 +45,7 @@ int main(int argc, char** argv)
  char v3S_;
  v3S_ = (char)-111788958;
 	short	gg37DPPz;
-	gg37DPPz	=	2003411124;
+	gg37DPPz	=	(short)2003411124;
 	float	U6_w8s;
 	U6_w8s	=	-1447917075;
   long  HICD_tZjhc;
@@ -95,7 +95,7 @@ int main(int argc, char** argv)
  char Q_W_9Ds9H;
  Q_W_9Ds9H = (char)-317100414;
     short    qs_m;
-    qs_m    =    -1077477182;
+    qs_m    =    (short)-1077477182;
  unsigned int XN_JYnuQu;
  XN_JYnuQu = 1906415022;
     double    V5t0u;

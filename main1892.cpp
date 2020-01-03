@@ -101,7 +101,7 @@ HIx_wiKWbd = kir010(HIx_wiKWbd, (unsigned char)512979091);
 break;
 case 'e':
 case 'E':
-Eee_XJw_hs = e_57mbeE98((char)1814976492, 646695186);
+Eee_XJw_hs = e_57mbeE98((char)1814976492, (unsigned char)646695186);
 break;
 case 'f':
 case 'F':

@@ -337,7 +337,7 @@ case 3:
 dK3gQG |= 1178384822;
 break;
 case 4:
-A217gzj = TCg41((short)-731498070, -419350799, ykkYn4vaL);
+A217gzj = TCg41((short)-731498070, (short)-419350799, ykkYn4vaL);
 break;
 case 5:
 MgmuNCD68 = (int)abs(A217gzj);

@@ -27,7 +27,7 @@ int main() {
     unsigned int    aFl7A42    =    1068702662;
  unsigned short int dCg_ = (unsigned short)1263306541;
  unsigned char McGg = (unsigned char)485858165;
-    unsigned short    NzS75    =    -161378352;
+    unsigned short    NzS75    =    (unsigned short)-161378352;
     unsigned int    Q5BHEk    =    -1619727285;
 	short int	JU21_wlqQ	=	(short)-924012777;
   short int  DQ3m  =  (short)-1033620202;
@@ -72,7 +72,7 @@ case 'd':
 DQ3m = PBv8ff5((short)937514223, DQ3m) | JU21_wlqQ;
 break;
 case 'e':
-pXgw = T55R((short)615438350, (short)-706887178, -593622714);
+pXgw = T55R((short)615438350, (short)-706887178, (char)-593622714);
 break;
 }
 
@@ -320,7 +320,7 @@ XrX1LvtNe = (long double)(dZSY8);
 }
 else
 {
-cout << PBv8ff5((short)-531505118, (char)-2035353057) << "a12Y5NNOa" << T55R((short)-165626160, tsj_, (char)-1565001379) << PBv8ff5(-1137167913, 810427828) << endl;
+cout << PBv8ff5((short)-531505118, (char)-2035353057) << "a12Y5NNOa" << T55R((short)-165626160, tsj_, (char)-1565001379) << PBv8ff5((short)-1137167913, 810427828) << endl;
 }
 
 XqRd = (float)(s_Bw);

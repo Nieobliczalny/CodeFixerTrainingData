@@ -69,7 +69,7 @@ int main(void) {
  short int wRsHL08c2S;
  wRsHL08c2S = (short)-1612671177;
   unsigned short int  J2wS_zfg;
-  J2wS_zfg  =  1537011101;
+  J2wS_zfg  =  (unsigned short)1537011101;
  float QxQ6Z88RGH;
  QxQ6Z88RGH = 808236297;
  char x8paF2;

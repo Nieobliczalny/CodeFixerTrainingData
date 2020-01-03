@@ -66,7 +66,7 @@ case 2:
 qdLHK4_lK ^= BUuc;
 break;
 case 3:
-qdLHK4_lK = Z3s0E49Kw4(qdLHK4_lK, 1779348494, -1617707588, X_y0Z04420, 742789816);
+qdLHK4_lK = Z3s0E49Kw4(qdLHK4_lK, 1779348494, (unsigned short)-1617707588, X_y0Z04420, 742789816);
 break;
 case 4:
 Bit_UetM = a7k6tB() * X_y0Z04420;
@@ -189,7 +189,7 @@ Bit_UetM = vb17HT((unsigned char)2035640458, (unsigned short)1461238463, -143801
 break;
 case 'e':
 case 'E':
-QVd9 = jF6v(aSYda20S, -229845095, -203229741);
+QVd9 = jF6v(aSYda20S, (unsigned char)-229845095, -203229741);
 break;
 case 'f':
 case 'F':
@@ -254,7 +254,7 @@ E2z20Y = Z3s0E49Kw4(E2z20Y, ta12s7sF, (unsigned short)-1928838711, 1837914927, -
 break;
 case 'f':
 case 'F':
-HXrp3f491 = vb17HT((unsigned char)1399648017, 1128587948, -954603994, F_UrNDj_v, 1641691539);
+HXrp3f491 = vb17HT((unsigned char)1399648017, (unsigned short)1128587948, -954603994, F_UrNDj_v, 1641691539);
 break;
 case 'g':
 case 'G':
@@ -311,7 +311,7 @@ case 6:
 u_jPXnGWz = (int)abs(zCnor4ZNg4);
 break;
 default:
-Sf96T3Xm = sX_96((unsigned short)-1274031127, u_jPXnGWz, 2007251465, -1171629374, II4H);
+Sf96T3Xm = sX_96((unsigned short)-1274031127, u_jPXnGWz, 2007251465, (short)-1171629374, II4H);
 break;
 }
 }

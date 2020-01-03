@@ -367,7 +367,7 @@ wHWNi = uoXRQkZFn(wHWNi, Pua8Qc3n, (unsigned char)546367971, (char)1003774696, (
 break;
 case 'd':
 case 'D':
-wHWNi = uoXRQkZFn(-1269413119, Pua8Qc3n, (unsigned char)520425709, -1143192306, ec2D) % 934602281;
+wHWNi = uoXRQkZFn(-1269413119, Pua8Qc3n, (unsigned char)520425709, (char)-1143192306, ec2D) % 934602281;
 break;
 case 'e':
 case 'E':

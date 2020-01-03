@@ -55,7 +55,7 @@ int main(int argc, char** argv) {
  unsigned char hQGS = (unsigned char)1785092399;
  unsigned short fFXp = (unsigned short)-1865121819;
   short int  fW_m  =  (short)-541776394;
-    unsigned char    zZ271f4F    =    945126344;
+    unsigned char    zZ271f4F    =    (unsigned char)945126344;
 	short int	s1xi5q	=	-1650384601;
  char L1j2651xe = (char)2011157645;
  long A0RIusAH = -707048061;

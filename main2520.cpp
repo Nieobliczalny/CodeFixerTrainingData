@@ -35,7 +35,7 @@ int main()
   int  NIi299I_o  =  -1893374737;
 	unsigned short	Al6yr	=	(unsigned short)1618509092;
     long long    AdcnbvuMyI    =    -1207410114;
- short a3g4FvYpj = -662662794;
+ short a3g4FvYpj = (short)-662662794;
     float    ehQRn4y    =    1881584623;
     long long    qHve46FxA    =    70282778;
  short int YH3ls = (short)-243737491;
@@ -58,7 +58,7 @@ int main()
  char EAt4 = (char)716003612;
   int  dk2JO8NGq  =  -472268183;
   short  nqLgGad69  =  (short)-867099488;
-	unsigned short int	sDEam5	=	-1775443397;
+	unsigned short int	sDEam5	=	(unsigned short)-1775443397;
     double    K6Gp6Y9    =    -1552933707;
     double    nB8s6LAmE    =    -1251524208;
  short int AdAPQDQvyZ = (short)811893072;

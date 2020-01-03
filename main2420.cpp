@@ -43,7 +43,7 @@ int main() {
  unsigned short int I3_U = (unsigned short)364457912;
 	short int	nq03	=	(short)-2039214825;
  char lKrF3 = (char)-1303540982;
-    unsigned short    QmIdCmA    =    -176226135;
+    unsigned short    QmIdCmA    =    (unsigned short)-176226135;
   unsigned long long  wSfybOF2  =  680091294;
     long long    mkyq3F_tkB    =    0;
 	long double	MsMYgn60	=	1119303192;

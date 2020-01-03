@@ -269,7 +269,7 @@ int i = 0;
 do
 {
 ++i;
-std::cout << sDo8Wx0 << Z615U(TlrJ5IXP1I, (unsigned short)-1176840331) << PuCd5L1KIh(TlrJ5IXP1I, rA6R5I, AR71, 230922940) << PuCd5L1KIh((short)688510886, (unsigned short)114647338, AR71, l0I6CJ5F_) << c68JbP((char)1500392496, 1306240639, -257844713) << std::endl;
+std::cout << sDo8Wx0 << Z615U(TlrJ5IXP1I, (unsigned short)-1176840331) << PuCd5L1KIh(TlrJ5IXP1I, rA6R5I, AR71, 230922940) << PuCd5L1KIh((short)688510886, (unsigned short)114647338, AR71, l0I6CJ5F_) << c68JbP((char)1500392496, (unsigned short)1306240639, -257844713) << std::endl;
 }
 while (i < 10);
 }
@@ -452,7 +452,7 @@ x4Bg2q84 = PuCd5L1KIh(l0I6CJ5F_, (unsigned short)1139624087, (short)137099233, x
 break;
 case 'c':
 case 'C':
-AR71 = Z615U(-1842511893, AR71);
+AR71 = Z615U((short)-1842511893, AR71);
 break;
 case 'd':
 case 'D':

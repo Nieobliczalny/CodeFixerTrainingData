@@ -103,7 +103,7 @@ int main() {
  unsigned short int NiEpUhuB;
  NiEpUhuB = (unsigned short)909157786;
 	unsigned char	x8jT3Qi;
-	x8jT3Qi	=	1445689937;
+	x8jT3Qi	=	(unsigned char)1445689937;
  unsigned long long Fg0w;
  Fg0w = 1199298166;
   int  EB0zqT6;

@@ -56,7 +56,7 @@ int main(int argc, char** argv)
     unsigned short int    y7XvDHa;
     y7XvDHa    =    (unsigned short)665125989;
   short  exWh;
-  exWh  =  2094855878;
+  exWh  =  (short)2094855878;
     double    USCA;
     USCA    =    -465676180;
   long  t1kHaroF_;

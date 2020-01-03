@@ -600,7 +600,7 @@ case 'e':
 r27px9U0zI = tMFN6MC6_d(r27px9U0zI, (unsigned char)-1226141609, (unsigned short)-1732585279, (unsigned char)-1086057918, YzuIeUhu_);
 break;
 case 'f':
-LjdGn = tMFN6MC6_d(747556948, 421386622, Uxz2fc3, -126700321, xzV7dpN);
+LjdGn = tMFN6MC6_d((unsigned char)747556948, 421386622, Uxz2fc3, -126700321, xzV7dpN);
 break;
 case 'g':
 uj6FWx1R = (M06fnzcx >= pTo4yh) ? HzsRd(LjdGn, BeyZC_y, -1567675567, wZ1q30i, -1140069015) : -1652740831;

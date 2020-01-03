@@ -24,7 +24,7 @@ case 0:
 fH3li -= tuBe_Rp6P;
 break;
 case 1:
-zjpwBvWK = i2k5RH((short)1928853440, fH3li, 1489393275, zjpwBvWK, -80740486);
+zjpwBvWK = i2k5RH((short)1928853440, fH3li, (unsigned char)1489393275, zjpwBvWK, -80740486);
 break;
 case 2:
 tbC5M4xm = tbC5M4xm * 1919923315;
@@ -52,7 +52,7 @@ break;
 oVQoj5ql = (int)abs(fH3li);
 
 tuBe_Rp6P = i2k5RH((short)-1921061047, (char)765876589, (unsigned char)695672262, -269928675, -1427073464);
-std::cout << F19o4nXb01 << i2k5RH((short)432915582, -1910742119, -535441743, 830502052, 62365628) << "g_04lj" << "h5uCJ" << std::endl;
+std::cout << F19o4nXb01 << i2k5RH((short)432915582, (char)-1910742119, -535441743, 830502052, 62365628) << "g_04lj" << "h5uCJ" << std::endl;
 fH3li = 2120279402 / zjpwBvWK;
 switch (d_zcz3U)
 {
@@ -166,7 +166,7 @@ oVQoj5ql = tuBe_Rp6P | 659095578;
 }
 else if ((zjpwBvWK < -1002441504) && (It68vAoTG != 2043656894))
 {
-std::cout << It68vAoTG << fH3li << i2k5RH(fH3li, (char)1165992251, (unsigned char)1886545533, -786336967, tbC5M4xm) << i2k5RH((short)-154811056, It68vAoTG, (unsigned char)-1433759955, d_zcz3U, -2121780990) << i2k5RH(fH3li, It68vAoTG, 540909956, d_zcz3U, -138390921) << std::endl;
+std::cout << It68vAoTG << fH3li << i2k5RH(fH3li, (char)1165992251, (unsigned char)1886545533, -786336967, tbC5M4xm) << i2k5RH((short)-154811056, It68vAoTG, (unsigned char)-1433759955, d_zcz3U, -2121780990) << i2k5RH(fH3li, It68vAoTG, (unsigned char)540909956, d_zcz3U, -138390921) << std::endl;
 }
 else if (zjpwBvWK < 234689563)
 {

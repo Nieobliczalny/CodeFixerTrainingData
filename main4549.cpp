@@ -139,7 +139,7 @@ std::cout << k0Mpv55ayO(-595723675, x676j6xZC7, (short)-1529609236, (short)14698
 
 if ((SP6YuaT0 & 685271928) || (SP6YuaT0 & 398513824))
 {
-jcuW_6LaH = k0Mpv55ayO(1552663015, x676j6xZC7, hEKa91Qi, 336216968, IFzYMs1X0u) << 1093125360;
+jcuW_6LaH = k0Mpv55ayO(1552663015, x676j6xZC7, hEKa91Qi, (short)336216968, IFzYMs1X0u) << 1093125360;
 }
 else
 {
@@ -174,7 +174,7 @@ LI6tSt37O = O_457_sSY4((char)-1017506617, q3018, (char)1560124095, jcuW_6LaH, QW
 }
 else
 {
-CYU620 = O_457_sSY4((char)-989314243, q3018, (char)-1990653501, jcuW_6LaH, 1678160760) | 1669116241;
+CYU620 = O_457_sSY4((char)-989314243, q3018, (char)-1990653501, jcuW_6LaH, (short)1678160760) | 1669116241;
 }
 }
 catch (int& errorCode)

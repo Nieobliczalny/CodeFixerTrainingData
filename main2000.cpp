@@ -507,7 +507,7 @@ case 3:
 oMMG1JEbF_ = hzB0tggx(U3SIV6OmYs, (char)-1947438973, -720691124, N08Z6440p, L_96) << xA3W;
 break;
 case 4:
-eG2GjJ1 = eFnlm((unsigned char)-1574294561, gQbE6h, dUMBdp316, 889986048);
+eG2GjJ1 = eFnlm((unsigned char)-1574294561, gQbE6h, dUMBdp316, (unsigned short)889986048);
 break;
 case 5:
 YYeO_w = (int)ceil(Qnk895A8);
@@ -679,7 +679,7 @@ break;
 }
 else if (b5QeX0n1 > -1319429268)
 {
-n6k5 = hzB0tggx((short)-690905470, (char)1144714995, 2035232043, -947427184, f7zI);
+n6k5 = hzB0tggx((short)-690905470, (char)1144714995, 2035232043, (unsigned char)-947427184, f7zI);
 }
 else
 {

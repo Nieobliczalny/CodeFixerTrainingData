@@ -48,7 +48,7 @@ int main(void) {
  unsigned long long odMnY_8 = 122172649;
 	unsigned long long	jyRhf	=	-1173037317;
 	unsigned short int	ZD30ob6wn	=	(unsigned short)363206866;
-  short int  tti2P_M  =  -1115667780;
+  short int  tti2P_M  =  (short)-1115667780;
  long double IanICctA87 = -1420638796;
 	unsigned int	nFXe3_2O	=	-1103456414;
 	unsigned int	dV92hf	=	-801354394;
@@ -78,7 +78,7 @@ int main(void) {
   double  ezppX40W  =  1462697311;
  unsigned char Li7Zts = (unsigned char)2047192976;
   short  N1OTfJh  =  (short)731158568;
-    unsigned char    g214y1    =    835393222;
+    unsigned char    g214y1    =    (unsigned char)835393222;
  unsigned int cz04mPZ = -65072334;
     short int    L_SG26    =    (short)1567273864;
 	long double	aztRC	=	-1199803557;

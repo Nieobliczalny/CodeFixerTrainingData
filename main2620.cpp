@@ -29,7 +29,7 @@ int main(int argc, char** argv) {
  unsigned int oOq7k63 = -1431008556;
  unsigned int E90T2 = -265259588;
     short    TRIFpQMq01    =    (short)-1934246165;
-    unsigned short int    a8iLI    =    1197536282;
+    unsigned short int    a8iLI    =    (unsigned short)1197536282;
   unsigned char  eUaF3  =  643623859;
 	short int	gSy1z0	=	(short)349488923;
   long long  GZ0T0_7q  =  300152731;
@@ -45,7 +45,7 @@ int main(int argc, char** argv) {
  unsigned long Qab1dc = 0;
   unsigned short int  n05aV  =  (unsigned short)856172249;
     float    fIgU_9e    =    1984664088;
-  short int  jx9B  =  -662641684;
+  short int  jx9B  =  (short)-662641684;
 
 if ((F_78Z == fTc13s7j) && (eUaF3 == -2023996704))
 {

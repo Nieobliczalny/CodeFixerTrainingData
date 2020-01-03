@@ -165,7 +165,7 @@ T7APpaC8M = glP598OQY((short)1609642719, (unsigned short)-1243566714, A4U6DHCbF,
 K313W = (int)abs(WQJx_s);
 if (M3W51cVC <= 1732166903)
 {
-std::cout << glP598OQY(d14glk, (unsigned short)394257440, A4U6DHCbF, -746095072, -1843424415) << "q7Ax1f" << "a_a8z" << "Cl713HC" << "m6PuTIM9" << std::endl;
+std::cout << glP598OQY(d14glk, (unsigned short)394257440, A4U6DHCbF, (unsigned short)-746095072, -1843424415) << "q7Ax1f" << "a_a8z" << "Cl713HC" << "m6PuTIM9" << std::endl;
 }
 else if (dzjPYH)
 {
@@ -540,7 +540,7 @@ case 0:
 sX7IUZZ_ = glP598OQY((short)1640196879, (unsigned short)-15422091, d14glk, (unsigned short)1301496923, -868629831);
 break;
 case 1:
-T7APpaC8M = glP598OQY((short)-670024202, 1240074554, 219401316, BrGG, -62541250);
+T7APpaC8M = glP598OQY((short)-670024202, (unsigned short)1240074554, 219401316, BrGG, -62541250);
 break;
 case 2:
 pJC0i_F = (int)abs(xHhge);

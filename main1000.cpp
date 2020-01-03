@@ -64,7 +64,7 @@ int main(int argc, char** argv)
  int cx_3h = -1916137882;
  short XnPx = (short)-1015058367;
     double    z1ZaamOz    =    -779558245;
-    short    r_c0oIoHs    =    -210674926;
+    short    r_c0oIoHs    =    (short)-210674926;
 	unsigned char	YlH_NZZ_	=	(unsigned char)1029953952;
  int XY077AII = 743865917;
   unsigned int  Gh6_41_yts  =  662055534;

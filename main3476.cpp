@@ -31,7 +31,7 @@ int main(int argc, char** argv)
  U442k2dq48 = (unsigned short)1168917141;
  PEs3yPHm = (unsigned short)1473615072;
  nHEQsqgPBY = (unsigned short)-1488521136;
- QmZ5Kjk5 = -1672361723;
+ QmZ5Kjk5 = (unsigned short)-1672361723;
  h706qVc = 314763492;
  CbuFOxg8 = 1452240958;
  f2fpxsbDZ0 = 998787697;
@@ -41,7 +41,7 @@ int main(int argc, char** argv)
  H_8J6tW = (unsigned short)-1550273903;
  RheeHD_71 = (unsigned short)-2565483;
  k_W4BKw6J = (unsigned short)145628326;
- u8Vjct5I = -1395617044;
+ u8Vjct5I = (unsigned short)-1395617044;
  U0iHhnB = -880927104;
  ntf_Y_cxN = 25159424;
  zn87_Yh = 1828663788;
@@ -548,7 +548,7 @@ case 7:
 XDMn1 = OXWq6(-195610189);
 break;
 case 8:
-PEs3yPHm = P_oLNy(1422291525, -1817333429, (unsigned short)1542974651, -255607850, 1244692282);
+PEs3yPHm = P_oLNy(1422291525, -1817333429, (unsigned short)1542974651, -255607850, (unsigned short)1244692282);
 break;
 default:
 SRfuFjAK5 = OXWq6(-2084220279);

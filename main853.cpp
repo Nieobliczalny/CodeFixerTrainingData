@@ -27,7 +27,7 @@ int main()
   dXLF402  =  (short)-2138760167;
   RBjGz7_K9f  =  (short)-1518053021;
   NeiHUZP  =  (short)-610752436;
-  BnRb2K  =  1134694990;
+  BnRb2K  =  (short)1134694990;
   g6e34  =  -727754222;
   kP817s  =  381933600;
   rpeBG  =  -1118500895;
@@ -37,7 +37,7 @@ int main()
   oQKqf0hNd  =  (short)-1377724310;
   Z96rlo_Z  =  (short)-983016991;
   aDkxDq  =  (short)-1989969292;
-  z8HVUvIg9  =  -726928011;
+  z8HVUvIg9  =  (short)-726928011;
   IuKOmawNKY  =  579106616;
   r6Ju  =  -1578028128;
   xWXxq9  =  -685242535;
@@ -47,7 +47,7 @@ int main()
   Mu4QSh2  =  (short)236471704;
   vEFEOo  =  (short)2119775442;
   xJCQ  =  (short)982259558;
-  Yf85  =  -2095127383;
+  Yf85  =  (short)-2095127383;
   bg_3L9peH  =  161888448;
   wu2khQf5D  =  -575111492;
   uwx0  =  1450040535;
@@ -57,7 +57,7 @@ int main()
   A1uB  =  (short)1153392044;
   NQDxwPb8  =  (short)510394843;
   d5k09H6  =  (short)958466343;
-  Y6jF  =  309512146;
+  Y6jF  =  (short)309512146;
   Q2vCzoYR  =  -2066180352;
   lkqB42t9  =  -363906507;
   j6R2  =  -292498533;
@@ -67,7 +67,7 @@ int main()
   PHI9EVK2e6  =  (short)671432528;
   Kle8s_wr1  =  (short)-1750238415;
   V1FynO5  =  (short)-2048765481;
-  VIx4s  =  822520757;
+  VIx4s  =  (short)822520757;
   Zh2Wyg  =  645240406;
   BixaRY3Q5  =  -1082640701;
   vMA7gFWTK  =  -1827758520;
@@ -77,7 +77,7 @@ int main()
   s9kzA  =  (short)-572804191;
   bqjg_  =  (short)-1574659611;
   w8pU7LJ0b2  =  (short)1267939268;
-  d7T6V  =  849532575;
+  d7T6V  =  (short)849532575;
   vNBhk1b5  =  1470969870;
   G9cxW391  =  -355517042;
   KGgK  =  -340578572;
@@ -87,7 +87,7 @@ int main()
   HwxpWnbd6  =  (short)527123559;
   aE_DpYT  =  (short)1068496964;
   gazDnY  =  (short)-521164118;
-  BDKFx  =  -587361043;
+  BDKFx  =  (short)-587361043;
   YJT2C  =  1744392255;
   a7YLWbQQ21  =  -1406155270;
   AVv_V6dK  =  -19785624;
@@ -149,7 +149,7 @@ case 8:
 A1uB = (vMA7gFWTK > 593382201) ? Mw_wOT : (short)462142756;
 break;
 default:
-Mu4QSh2 = YH_Zd(Mu4QSh2, (unsigned short)-384805489, 1804353997, -1130108319);
+Mu4QSh2 = YH_Zd(Mu4QSh2, (unsigned short)-384805489, 1804353997, (short)-1130108319);
 break;
 }
 }

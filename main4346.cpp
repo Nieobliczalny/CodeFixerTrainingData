@@ -164,7 +164,7 @@ case 0:
 WJYc3_I1p = (Cuvlp4G4Ik == E6sxQKNMLH) ? SerGkTS((char)597536844) : LO1t37PVp((short)1476979800, (char)1965326669, 1236907533, i_4DnN4, wSz6Y6);
 break;
 case 1:
-yf38 = CgSzLJf(1489689662, joWVts1UAW, (short)1565485522, -1317114246);
+yf38 = CgSzLJf(1489689662, joWVts1UAW, (short)1565485522, (unsigned short)-1317114246);
 break;
 case 2:
 rb7w562A = KkMZ0iOC - 1448353587;

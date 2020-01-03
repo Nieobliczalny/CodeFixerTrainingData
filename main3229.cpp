@@ -23,7 +23,7 @@ int main(void)
   short int  JEO_8za  =  (short)-1139131986;
   short  R7aL117  =  (short)2034588528;
 	short	ScD_23jRD9	=	(short)-1251204985;
-	short int	JyrpC_XNZ	=	475383357;
+	short int	JyrpC_XNZ	=	(short)475383357;
 	unsigned short int	KQWvo61Ne7	=	877832854;
   short  o_65  =  0;
 	unsigned long	y88N4	=	1220513082;
@@ -35,7 +35,7 @@ int main(void)
 	unsigned char	Z90OIXp	=	(unsigned char)2054926090;
  short fK4T = (short)-1752822288;
     unsigned short    k06d    =    (unsigned short)-574949067;
-    unsigned char    awG3N0    =    -642791595;
+    unsigned char    awG3N0    =    (unsigned char)-642791595;
  unsigned long long p0UeAZ = -1584352501;
   unsigned int  JTKO90  =  1328079287;
   short int  yIz_  =  1714036552;

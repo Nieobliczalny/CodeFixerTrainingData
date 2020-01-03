@@ -44,7 +44,7 @@ int main(void) {
     long double    d8dK3U    =    -1540422299;
     unsigned char    jR_g    =    (unsigned char)653014635;
     short    g9n3_    =    (short)1883647920;
-    unsigned char    B0J49L    =    -1624391204;
+    unsigned char    B0J49L    =    (unsigned char)-1624391204;
   float  sad05QKq  =  775366056;
 	char	Ab85KB	=	0;
   unsigned int  pFgoq  =  349076121;
@@ -59,7 +59,7 @@ int main(void) {
     float    S5UX_86    =    -2049433975;
   short  t6UhoQ  =  (short)-625972311;
   long double  nPFMY_jTBD  =  -605622745;
-	short int	gQV_zjr	=	-2096887050;
+	short int	gQV_zjr	=	(short)-2096887050;
 	unsigned long	dD27k	=	870662202;
     unsigned short int    CjGmW    =    (unsigned short)-1454421538;
  unsigned long long B5bfw3 = 25966751;
@@ -94,7 +94,7 @@ int main(void) {
  unsigned short yk90O6 = (unsigned short)-520349342;
 	int	WlK8_f2E	=	-742243163;
     unsigned short int    TxvTzVS2    =    (unsigned short)-698579873;
-  char  B13h  =  2073339552;
+  char  B13h  =  (char)2073339552;
  unsigned short int C2fs23VR = 1610509031;
   int  KrE4B  =  -820934030;
  int l13GGX_G_U = 544141814;
@@ -135,7 +135,7 @@ case 'g':
 qSe_2 = M_0i(qSe_2, (unsigned short)-1032055626, nsC_, (short)383080685, (short)-956497488);
 break;
 default:
-B0J49L = P387cH6x(B0J49L, -992784310, 92143554);
+B0J49L = P387cH6x(B0J49L, (unsigned char)-992784310, 92143554);
 break;
 }
 }
@@ -365,7 +365,7 @@ case 'd':
 R744_T = (v6bvVd84t) ? m0pHa6F4p : 1721148999;
 break;
 case 'e':
-WlK8_f2E = M_0i((char)-915165416, (unsigned short)263418259, 201232138, -614324474, Ye9Jc665);
+WlK8_f2E = M_0i((char)-915165416, (unsigned short)263418259, 201232138, (short)-614324474, Ye9Jc665);
 break;
 case 'f':
 Do7p_j /= WlK8_f2E;
@@ -531,7 +531,7 @@ std::cout << mNj0 << DGIZc91((char)-658689305, -1923967186, -1776390877, Q9jxz0M
 
 if (((gQV_zjr <= tq5_M6) && (mNj0 != Zw6_Os6)) && (PD4Jt > 101236055))
 {
-d8dK3U = M_0i(d8dK3U, (unsigned short)761241547, EeIb8749, -1809020865, S5UX_86);
+d8dK3U = M_0i(d8dK3U, (unsigned short)761241547, EeIb8749, (short)-1809020865, S5UX_86);
 }
 if (((gQV_zjr == Ab85KB) || (axKVvv2kQ_)) || ((f35XAon80m) || (Ab85KB <= 961176950)))
 {

@@ -19,7 +19,7 @@ int main(int argc, char** argv) {
 	VUe2	=	(unsigned char)-1736302619;
 	Lgen	=	(unsigned char)1951421127;
 	DuYkGf	=	(unsigned char)1358435942;
-	Qt8BB6tgPD	=	379439394;
+	Qt8BB6tgPD	=	(unsigned char)379439394;
 	v9kv3_7	=	-1603226493;
 	Ksz71	=	932883122;
 	F4o905	=	-708613427;
@@ -29,7 +29,7 @@ int main(int argc, char** argv) {
 	i3hc_TmV	=	(unsigned char)-445744353;
 	S83813i	=	(unsigned char)519923160;
 	SEBV8tkWM	=	(unsigned char)547726763;
-	VvEBx9	=	1189163716;
+	VvEBx9	=	(unsigned char)1189163716;
 	Zg5BPSho	=	40139673;
 	I7CUL	=	-866997691;
 	oV72q_p	=	1932836006;
@@ -39,7 +39,7 @@ int main(int argc, char** argv) {
 	bV4O3	=	(unsigned char)-1864606799;
 	V2O3cy8A	=	(unsigned char)-1516049074;
 	OhT2	=	(unsigned char)-883229039;
-	PWfrGTG	=	1907927564;
+	PWfrGTG	=	(unsigned char)1907927564;
 	ceo6ph	=	1423394692;
 	hurS	=	-1046116220;
 	H2qu1J1	=	-1601410992;
@@ -49,7 +49,7 @@ int main(int argc, char** argv) {
 	L4r7hL_I_a	=	(unsigned char)731230269;
 	W_5q0	=	(unsigned char)-899186388;
 	I9SRVb	=	(unsigned char)920329749;
-	Xz_jgOm	=	642012849;
+	Xz_jgOm	=	(unsigned char)642012849;
 	ZmlO	=	1680477669;
 	Mcws4VmG	=	-1572590013;
 	lcIrsXm5	=	1523350720;
@@ -59,7 +59,7 @@ int main(int argc, char** argv) {
 	Mb4k8EXE2	=	(unsigned char)877172456;
 	QQ22	=	(unsigned char)-1054098860;
 	iO7av	=	(unsigned char)-913662619;
-	hoCk	=	-1760660595;
+	hoCk	=	(unsigned char)-1760660595;
 	y7CV3	=	1856881252;
 	uIojBFJlTT	=	-418378408;
 	TN4pRrk	=	-767236160;
@@ -69,7 +69,7 @@ int main(int argc, char** argv) {
 	Mxa6puv	=	(unsigned char)-846496585;
 	Q58c3_in1d	=	(unsigned char)11315684;
 	V82wM8fBgV	=	(unsigned char)1565561838;
-	q8j7	=	-699855556;
+	q8j7	=	(unsigned char)-699855556;
 	qT5xbQQ	=	815158561;
 	M74OY4	=	-875104395;
 	so03Kyl	=	2112334531;
@@ -79,7 +79,7 @@ int main(int argc, char** argv) {
 	g68F	=	(unsigned char)-303785726;
 	B9D1	=	(unsigned char)1841870205;
 	yET4U	=	(unsigned char)964435011;
-	hBd5	=	-1321488379;
+	hBd5	=	(unsigned char)-1321488379;
 	h2P_p	=	-1382537725;
 	R_o4Bf91	=	-1289693735;
 	eXSKp4T	=	-1287713316;
@@ -131,7 +131,7 @@ case 'c':
 i_QC = O585u((char)2036909753);
 break;
 default:
-i_QC = O585u(-1295602538);
+i_QC = O585u((char)-1295602538);
 break;
 }
 {

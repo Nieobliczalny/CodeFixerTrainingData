@@ -53,7 +53,7 @@ int main() {
   short int  ehWK0h9;
   ehWK0h9  =  (short)469961575;
     unsigned short    EQ_GfGd;
-    EQ_GfGd    =    -1662366507;
+    EQ_GfGd    =    (unsigned short)-1662366507;
   unsigned char  W8d5h;
   W8d5h  =  (unsigned char)345920194;
 	long	ZDExF60;

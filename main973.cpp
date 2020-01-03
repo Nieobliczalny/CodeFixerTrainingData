@@ -33,7 +33,7 @@ int main(int argc, char** argv)
  Zw4gluz8W = (short)12122996;
  sN4M_uk8 = (short)929112573;
  M2p7 = (short)-2020074045;
- h0vb7s = -560781005;
+ h0vb7s = (short)-560781005;
  Mg0L = 2015496354;
  p8KS33lx2A = 1640025170;
  w36b78 = -740286533;
@@ -43,7 +43,7 @@ int main(int argc, char** argv)
  o_5tyi9 = (short)1237102872;
  C_8SfT = (short)552837442;
  CG_Wl08448 = (short)319078120;
- sz9x = -650783023;
+ sz9x = (short)-650783023;
  O02s = 539589062;
  qMzen3 = 915090131;
  i5TTlC = 536376107;
@@ -53,7 +53,7 @@ int main(int argc, char** argv)
  U_5QE = (short)-616701926;
  Y3bD_s8 = (short)-1068603329;
  Xx2nR = (short)-1110252336;
- B829n8V66 = 1958460584;
+ B829n8V66 = (short)1958460584;
  T1ido = -651657249;
  dE5Kt4g = 1992358426;
  F3rsiITU = -1442449596;
@@ -63,7 +63,7 @@ int main(int argc, char** argv)
  kr_nj37 = (short)-2038015067;
  xM0hyU = (short)-1450275346;
  elg_7 = (short)1635337292;
- VSwQ = 1814725105;
+ VSwQ = (short)1814725105;
  w88Vv3yj = -162700925;
  H8PgPxV0q = 1988294558;
  g8_j = -1550046548;
@@ -73,7 +73,7 @@ int main(int argc, char** argv)
  WuM44Ds = (short)1814491452;
  A8DO8_2EUh = (short)1560311986;
  dUb3iVxjjf = (short)-1510546865;
- IUN29 = -2126623949;
+ IUN29 = (short)-2126623949;
  O54cnLiCb = 558501578;
  BRc_z917 = 1330814859;
  sP9_26Zxw1 = 2120377706;
@@ -83,7 +83,7 @@ int main(int argc, char** argv)
  k_140B5 = (short)1255040447;
  qSFF61Os0 = (short)-1995563121;
  X0d30 = (short)879715541;
- aC13ug4Hg7 = -966780911;
+ aC13ug4Hg7 = (short)-966780911;
  raFp9 = 1194237212;
  Wsvja56rB2 = -21609076;
  BypXpF_ = 1584203405;
@@ -93,7 +93,7 @@ int main(int argc, char** argv)
  P0EwF7sUF = (short)-1194435001;
  p0_Wy0 = (short)-900264691;
  eTm9zn = (short)1556054001;
- s96d8TD = 703347203;
+ s96d8TD = (short)703347203;
  Kv09q = 713516500;
  mRXoI6_9MD = 1202684398;
  u8S24_ = 582769931;
@@ -103,7 +103,7 @@ int main(int argc, char** argv)
  Rmle6gb = (short)-33933337;
  Um_Spj3 = (short)843164224;
  Ya1ufpyhX = (short)-1170656428;
- Ry_6 = -910653776;
+ Ry_6 = (short)-910653776;
  RiA1r = 1383077545;
  Ed9dh6 = -562002021;
  xQB1 = 1737384307;
@@ -113,7 +113,7 @@ int main(int argc, char** argv)
  NtTW39gJu = (short)1565098218;
  mW2HX1 = (short)50813238;
  jA7J = (short)-1794946054;
- eCb0Sg = 72891637;
+ eCb0Sg = (short)72891637;
  Szbp2pu = -1592906076;
 
 for (int i = 0; i < 6; ++i)

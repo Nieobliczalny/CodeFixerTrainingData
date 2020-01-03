@@ -39,7 +39,7 @@ int main(int argc, char** argv) {
 	unsigned short	eGq35	=	(unsigned short)1758745294;
     unsigned int    rL7b435Mg    =    -1481729558;
 	short int	h_5dqv	=	(short)1766052958;
-  unsigned char  WN50Y8bph  =  720395457;
+  unsigned char  WN50Y8bph  =  (unsigned char)720395457;
     unsigned short    EXo9_9I    =    0;
 	unsigned short	XlQ13v1j	=	(unsigned short)-379484115;
     double    C_39rCz_    =    1833063239;
@@ -256,7 +256,7 @@ case 3:
 WN50Y8bph = Hx6XSB((short)933159588, h_5dqv, (short)-728647472, 292979533);
 break;
 case 4:
-fdsqOi7_4 = S0pnr(-274715089, (char)-621318562, eGq35, 722114991, 490208591);
+fdsqOi7_4 = S0pnr(-274715089, (char)-621318562, eGq35, (short)722114991, 490208591);
 break;
 case 5:
 tiuwtl = CK2_ % 431808188;
@@ -428,7 +428,7 @@ R3b4N28TzN = Y00eZ6(R3b4N28TzN, (unsigned char)2141293020) & 713625673;
 
 if (qw_T1Fncm2 > 687224622)
 {
-cout << S0pnr(R3b4N28TzN, (char)-1004720644, eGq35, (short)1108734532, CK2_) << NBQv3GxK << Y00eZ6(R3b4N28TzN, h_5dqv) << Y00eZ6((unsigned char)318935891, 850338503) << endl;
+cout << S0pnr(R3b4N28TzN, (char)-1004720644, eGq35, (short)1108734532, CK2_) << NBQv3GxK << Y00eZ6(R3b4N28TzN, h_5dqv) << Y00eZ6((unsigned char)318935891, (unsigned char)850338503) << endl;
 }
 else if (fdsqOi7_4 < -1745920263)
 {
@@ -472,7 +472,7 @@ j++;
 }
 }
 
-RFX4 = S0pnr(JvO2k4TO, dD1pQ65HZ9, bvaStM2, (short)-1236302244, (short)1724387488) / S0pnr(1625206612, dD1pQ65HZ9, bvaStM2, 875665193, pR6Z1b);
+RFX4 = S0pnr(JvO2k4TO, dD1pQ65HZ9, bvaStM2, (short)-1236302244, (short)1724387488) / S0pnr(1625206612, dD1pQ65HZ9, bvaStM2, (short)875665193, pR6Z1b);
 
 if (EXo9_9I == qw_T1Fncm2)
 {
@@ -586,7 +586,7 @@ eGq35 = JvO2k4TO << dD1pQ65HZ9;
 switch (qw_T1Fncm2)
 {
 case 0:
-L7cql = fy5444Z9_8(-335514786, WN50Y8bph);
+L7cql = fy5444Z9_8((char)-335514786, WN50Y8bph);
 break;
 case 1:
 fdsqOi7_4 = S0pnr(eGq35, (char)-1867267643, -255105290, spwDRu16yM, RFX4);

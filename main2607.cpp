@@ -20,7 +20,7 @@ int main(void) {
 
 std::cout << oT232_emr / cs_0j7g92(-9026634, -1781404455, 1823079395, (unsigned short)-1110080479, L_V4nu_2CW) << std::endl;
 
-std::cout << cs_0j7g92(-1375189076, NNts, XTK7ZcA3Wf, (unsigned short)-1354509229, L_V4nu_2CW) << SC9kV7_IJ(o606R_L, (short)91296853, XTK7ZcA3Wf) << SC9kV7_IJ(-318552996, -1263208657, XTK7ZcA3Wf) << SC9kV7_IJ(994482673, NNts, XTK7ZcA3Wf) << std::endl;
+std::cout << cs_0j7g92(-1375189076, NNts, XTK7ZcA3Wf, (unsigned short)-1354509229, L_V4nu_2CW) << SC9kV7_IJ(o606R_L, (short)91296853, XTK7ZcA3Wf) << SC9kV7_IJ(-318552996, (short)-1263208657, XTK7ZcA3Wf) << SC9kV7_IJ(994482673, NNts, XTK7ZcA3Wf) << std::endl;
 
 try
 {

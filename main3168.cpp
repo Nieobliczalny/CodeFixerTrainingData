@@ -44,7 +44,7 @@ int main(int argc, char** argv)
   float  l8_7  =  -94311687;
   unsigned char  w1U2Lgi6  =  (unsigned char)879993724;
   unsigned short int  gzlb1_  =  (unsigned short)1336705707;
-  short  L__tep  =  -400614897;
+  short  L__tep  =  (short)-400614897;
 	char	VXAi6m5	=	202472218;
 	unsigned short int	Zi9rv	=	1719798773;
   short  fmYe28jwd9  =  0;
@@ -57,7 +57,7 @@ int main(int argc, char** argv)
     unsigned char    z79xU082_L    =    (unsigned char)-1535075051;
     unsigned long    P30Qg5c    =    -1784396647;
     unsigned long long    ug18s    =    -1442335340;
-	unsigned char	k0F_	=	1595100427;
+	unsigned char	k0F_	=	(unsigned char)1595100427;
   long long  fFHg5444t  =  -1078859473;
     long double    wQ_I3TIf    =    1619756372;
 	unsigned char	c2NsFrr79I	=	0;

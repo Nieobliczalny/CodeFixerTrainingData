@@ -105,7 +105,7 @@ else
 Tt4y = RZKT_Fb(Tt4y, (char)-201261049, (short)-838241009);
 }
 
-std::cout << "w50K59T0" << RZKT_Fb(1147727254, -946106325, 486069787) << std::endl;
+std::cout << "w50K59T0" << RZKT_Fb((unsigned short)1147727254, -946106325, 486069787) << std::endl;
 if (pqjiMj3JzM)
 {
 {

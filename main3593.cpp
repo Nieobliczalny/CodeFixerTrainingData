@@ -35,7 +35,7 @@ int main(void) {
     short int    vIr525Tf7    =    (short)-456248089;
 	unsigned short	v4tqIDy__	=	(unsigned short)-844552528;
  short enU6F = (short)1858746923;
-  short int  woy27b97  =  -664013483;
+  short int  woy27b97  =  (short)-664013483;
   char  Af0_GWO  =  730708026;
   short int  B9kB8  =  -453061245;
   short  V37D  =  1287288150;

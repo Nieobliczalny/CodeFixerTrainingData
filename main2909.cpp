@@ -31,7 +31,7 @@ int i = 0;
 while (i < 8)
 {
 i++;
-sru5lABcj = Lz87oks2I2(2028414061, L1X8s3);
+sru5lABcj = Lz87oks2I2((unsigned short)2028414061, L1X8s3);
 }
 }
 

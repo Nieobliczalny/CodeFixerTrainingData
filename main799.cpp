@@ -48,7 +48,7 @@ int main(int argc, char** argv) {
  unsigned int Ibdq_S5 = 561471699;
     unsigned short int    WccWJe    =    (unsigned short)2001827050;
     short    nC8Tf4iP8    =    (short)-1560284343;
-  char  KhNm_9_tYj  =  -224374479;
+  char  KhNm_9_tYj  =  (char)-224374479;
 
 switch (mSh_Eky2)
 {

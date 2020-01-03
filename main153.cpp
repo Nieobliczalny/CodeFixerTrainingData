@@ -18,7 +18,7 @@ long KU39LsUq(long D4u72BWX_C,short int KawCqV_);
 int main(void)
 {
 	char	a05zss5V	=	0,	miz56ctJ	=	0,	nK9i	=	0,	NqtzbT	=	0;
-	unsigned short	FquSWm_2	=	(unsigned short)316307439,	X1URri9K6z	=	(unsigned short)-1115686406,	df88aMvy5	=	(unsigned short)820855456,	Ld74L	=	(unsigned short)-1471870222,	yz_nczn	=	611885139,	M9b6Pp_10	=	704368326;
+	unsigned short	FquSWm_2	=	(unsigned short)316307439,	X1URri9K6z	=	(unsigned short)-1115686406,	df88aMvy5	=	(unsigned short)820855456,	Ld74L	=	(unsigned short)-1471870222,	yz_nczn	=	(unsigned short)611885139,	M9b6Pp_10	=	704368326;
 
 for (int i = 0; i < 7; ++i)
 {

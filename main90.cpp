@@ -479,7 +479,7 @@ try
 {
 for (int k = 0; k < 9; k++)
 {
-CPMn4H = gTj_((unsigned short)1470361549, -582839555, 2114836513, (short)-145706118, 1404773335);
+CPMn4H = gTj_((unsigned short)1470361549, -582839555, 2114836513, (short)-145706118, (short)1404773335);
 }
 }
 catch (int& errorCode)

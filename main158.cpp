@@ -294,7 +294,7 @@ case 'e':
 d17KUU = gLg9rn(D37JkN, (unsigned char)-1722536192, (unsigned short)-466252510, gO_YYw85, (unsigned char)-1175687748);
 break;
 case 'f':
-uUYs0 = gLg9rn(186647538, -343663387, -1746170043, -2138912999, -829781468);
+uUYs0 = gLg9rn(186647538, (unsigned char)-343663387, -1746170043, -2138912999, -829781468);
 break;
 case 'g':
 wvD6De1DU6 = (int)abs(BbSp1I0R5);
@@ -468,7 +468,7 @@ case 2:
 s491 %= 1803238401;
 break;
 case 3:
-uUYs0 = gLg9rn(-67311490, ZyzI6oGl, (unsigned short)-2051514222, -854305766, 1598567691);
+uUYs0 = gLg9rn(-67311490, ZyzI6oGl, (unsigned short)-2051514222, -854305766, (unsigned char)1598567691);
 break;
 default:
 w0bS = (int)floor(iuy4);
@@ -493,7 +493,7 @@ case 4:
 d17KUU = gLg9rn(Q9QvW, wvD6De1DU6, (unsigned short)-352511433, VP_8r4__, Bove58QR6);
 break;
 case 5:
-i_60FjJ60 = TNSZr((unsigned short)-1792601524, Q9QvW, -972198971, -617993252, 380820809);
+i_60FjJ60 = TNSZr((unsigned short)-1792601524, Q9QvW, (short)-972198971, -617993252, 380820809);
 break;
 default:
 NK8Yhu %= wSWG5;

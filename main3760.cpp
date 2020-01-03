@@ -46,7 +46,7 @@ case 'f':
 dX08 = oGv9jK8(UX2_376, (char)555502020, Eiq4);
 break;
 case 'g':
-SyY7dV48 = BN5hS5NX7((short)1444435967, -698646808) * wUyA8b8c6g;
+SyY7dV48 = BN5hS5NX7((short)1444435967, (char)-698646808) * wUyA8b8c6g;
 break;
 case 'h':
 Eiq4 = (int)abs(UX2_376);
@@ -243,7 +243,7 @@ wUyA8b8c6g = (l92ZIB >= -277177062) ? BN5hS5NX7((short)-1939433627, Eiq4) : (sho
 }
 else if (Z1Dm2 == 457124478)
 {
-Y_03S = BN5hS5NX7((short)2038621458, -239965905);
+Y_03S = BN5hS5NX7((short)2038621458, (char)-239965905);
 }
 else if (dX08 > -1972624423)
 {
@@ -445,7 +445,7 @@ else
 {
 cout << "HfRL" << h00Athd(Y_03S, -182464196, -1351161762) << endl;
 }
-cout << qcZR << oGv9jK8(Y_03S, Wij3y, (char)1514368275) << oGv9jK8(Y_03S, Wij3y, 1142321688) << h00Athd(-1544052014, -755617011, 1171155472) << endl;
+cout << qcZR << oGv9jK8(Y_03S, Wij3y, (char)1514368275) << oGv9jK8(Y_03S, Wij3y, (char)1142321688) << h00Athd(-1544052014, -755617011, 1171155472) << endl;
 
 {
 int i = 1;
@@ -714,7 +714,7 @@ Y_03S = BN5hS5NX7((short)-714082588, (char)-1847726883);
 }
 else if ((Z1Dm2 < qcZR) && ((UX2_376 >= -1675137620) && (l92ZIB > 2052158787)))
 {
-cout << BN5hS5NX7((short)447666371, (char)1164025562) << oGv9jK8(Y_03S, Eiq4, NlZfY_) << "d6a02yeP" << BN5hS5NX7(Y_03S, -401373338) << endl;
+cout << BN5hS5NX7((short)447666371, (char)1164025562) << oGv9jK8(Y_03S, Eiq4, NlZfY_) << "d6a02yeP" << BN5hS5NX7(Y_03S, (char)-401373338) << endl;
 }
 else
 {

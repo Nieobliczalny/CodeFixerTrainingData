@@ -61,7 +61,7 @@ case 4:
 rV62TaFq = P22t9Uh((char)-1071055308, u2M83, m5md, rmZO_7c_);
 break;
 case 5:
-rV62TaFq = P22t9Uh((char)828601096, m5md, -828237579, -556270136);
+rV62TaFq = P22t9Uh((char)828601096, m5md, -828237579, (unsigned short)-556270136);
 break;
 default:
 Qn32_ = (int)abs(m5md);
@@ -120,7 +120,7 @@ case 8:
 c79Gqj = P22t9Uh((char)-1612547413, c79Gqj, -916681533, (unsigned short)1834797017) - rV62TaFq;
 break;
 case 9:
-M2vBhFB = oLV_WSpN3(-614157436);
+M2vBhFB = oLV_WSpN3((char)-614157436);
 break;
 }
 }
@@ -264,7 +264,7 @@ if ((hwuhg7k9v / P22t9Uh((char)-343300778, (unsigned char)-80826876, 893167662, 
 for (int i = 0; i < 177; i++)
 {
 std::cout << prlyl0_(rmZO_7c_, 714212816) << KoriuSf6 << i42vZ850j(rmZO_7c_, -898913417) << std::endl;
-	uQR1f_Zf = oLV_WSpN3(-591569579) / i;
+	uQR1f_Zf = oLV_WSpN3((char)-591569579) / i;
 if (c79Gqj > 1424054938)
 {
 uQR1f_Zf = (long)(x015h8);

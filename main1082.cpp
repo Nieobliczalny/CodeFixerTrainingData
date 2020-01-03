@@ -21,7 +21,7 @@ int main(void) {
     short int    Vxf6    =    (short)193277575;
   unsigned short int  J19v  =  (unsigned short)960066943;
   unsigned char  jlfvQg  =  (unsigned char)607214976;
-	char	To67qrK	=	-2042877724;
+	char	To67qrK	=	(char)-2042877724;
  long r2F7H = -397578979;
     short int    W2VHriN7    =    1281277916;
     int    S_Yb68H    =    578735164;
@@ -48,7 +48,7 @@ int main(void) {
     long long    J2k83spcjC    =    0;
     unsigned short    bfO4qK    =    (unsigned short)1281482830;
  long osSZ70T2 = -908924974;
-    unsigned short int    ZL3VI93v_6    =    1429015304;
+    unsigned short int    ZL3VI93v_6    =    (unsigned short)1429015304;
   unsigned short int  Zrt7q8  =  (unsigned short)1800547499;
 	char	sUrpPoNS	=	-73595550;
     char    nh_0s530U9    =    (char)-1005016744;
@@ -65,7 +65,7 @@ int main(void) {
  long long WSbMtYzBE = -823580065;
     unsigned short int    E59qsJH    =    (unsigned short)1034650736;
  long long Y_gwroBPc = 380995119;
-    char    q983yOMTQ    =    1773093884;
+    char    q983yOMTQ    =    (char)1773093884;
     unsigned short int    JV369a7DJ    =    (unsigned short)1654746537;
 	unsigned short int	V4Ui1zg7	=	-1853216090;
     unsigned long    ZwbZ6X    =    37008885;
@@ -81,7 +81,7 @@ int main(void) {
   unsigned short int  hfCI79c  =  (unsigned short)-347330359;
 	double	M017k	=	-1656838580;
 	unsigned short	WA8_iJAIv	=	(unsigned short)-1410235313;
- char ebuzu = 433542253;
+ char ebuzu = (char)433542253;
 	char	X2OY41cr	=	-677806886;
   unsigned int  dWDcleqZO  =  1043396917;
 	short int	Pj16Dzt9J0	=	-1514983132;
@@ -274,7 +274,7 @@ S_Yb68H--;
 }
 else if (XYD2 < at4WAj)
 {
-hUA54tY0 = gW5l0hV((unsigned short)-833780358, sUrpPoNS, (char)1056601144, 1333647665, -2057162077);
+hUA54tY0 = gW5l0hV((unsigned short)-833780358, sUrpPoNS, (char)1056601144, 1333647665, (short)-2057162077);
 }
 else if (Ug81w < g7KPw)
 {
@@ -393,7 +393,7 @@ case 2:
 LQJ5U = e7Hh31_PJ(-350330568, To67qrK, -1779672490, P8T2g, (unsigned short)-151402704);
 break;
 case 3:
-o03jh = q3qy17f3_((unsigned short)-817217169, 1065017749, QXoZXA, 1691777369);
+o03jh = q3qy17f3_((unsigned short)-817217169, (short)1065017749, QXoZXA, 1691777369);
 break;
 case 4:
 M017k = (int)abs(sUrpPoNS);
@@ -727,7 +727,7 @@ std::cout << exb9zJ(PX_dp) << gW5l0hV(PX_dp, (short)-1888992889, hfCI79c, -62167
 
 if (((pKw_ & -2082704799) || (LQJ5U != 1733505330)) || (GwaChy6 >= 1547965215))
 {
-std::cout << jlfvQg << q3qy17f3_((unsigned short)-101278481, -2007948329, hfCI79c, Z763KRP) << std::endl;
+std::cout << jlfvQg << q3qy17f3_((unsigned short)-101278481, (short)-2007948329, hfCI79c, Z763KRP) << std::endl;
 }
 else
 {

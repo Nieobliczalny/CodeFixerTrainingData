@@ -351,7 +351,7 @@ case 4:
 pY_37 = f0Zut((unsigned short)-1239526982, (unsigned char)2146284810);
 break;
 case 5:
-r_3g7t9PC = f0Zut(1117971453, -1116138170);
+r_3g7t9PC = f0Zut((unsigned short)1117971453, -1116138170);
 break;
 default:
 pY_37 = f0Zut((unsigned short)-525875611, T69kQ2Z_);

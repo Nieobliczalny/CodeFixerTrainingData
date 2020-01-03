@@ -24,7 +24,7 @@ int main(void) {
     n7mb3    =    (unsigned short)1115872125;
     ymZ2    =    (unsigned short)1297124597;
     bm_84    =    (unsigned short)1351140846;
-    QBrVP1_09_    =    -1064433205;
+    QBrVP1_09_    =    (unsigned short)-1064433205;
     d1gCy    =    1305485042;
     V5Fk_olZ    =    -1579930232;
     lqgL    =    863171399;
@@ -34,7 +34,7 @@ int main(void) {
     A6s7Fq81N    =    (unsigned short)-980012701;
     MT9_210    =    (unsigned short)-198677377;
     uDGFeGt86    =    (unsigned short)1767264046;
-    Ep__7cqfpA    =    -1105888075;
+    Ep__7cqfpA    =    (unsigned short)-1105888075;
     rZl3F0G_T    =    1389564680;
     U_CGh0XjI    =    -775460051;
     nuuFk    =    -546455851;
@@ -44,7 +44,7 @@ int main(void) {
     kz3yBoPg_    =    (unsigned short)-409320968;
     I70YMfsf    =    (unsigned short)1526366382;
     q9na56oe_    =    (unsigned short)-101708972;
-    gBYJZv    =    -1521858048;
+    gBYJZv    =    (unsigned short)-1521858048;
     SY288m    =    1745648826;
     TwmU1j3    =    -1962719928;
     I1WR79p    =    -33022518;
@@ -54,7 +54,7 @@ int main(void) {
     r_m8c    =    (unsigned short)1180606396;
     hsJt29P5b    =    (unsigned short)1493053401;
     c11c    =    (unsigned short)-1889287330;
-    MXdm2c    =    -1588998045;
+    MXdm2c    =    (unsigned short)-1588998045;
     GHhHPr    =    2068416740;
     EV8aSDuElX    =    -1044297409;
     gZH794pK    =    -775340163;
@@ -64,7 +64,7 @@ int main(void) {
     g2xr6N7W    =    (unsigned short)1622759089;
     q41MkG    =    (unsigned short)-849652997;
     JD3_dK    =    (unsigned short)45904598;
-    a7ku5pbf1K    =    1187275149;
+    a7ku5pbf1K    =    (unsigned short)1187275149;
     Ao14_U8    =    -179864278;
     GRrdD    =    1470252004;
     Gz0_    =    903125870;
@@ -74,7 +74,7 @@ int main(void) {
     A_m6    =    (unsigned short)-1566630946;
     dm3o    =    (unsigned short)2076020003;
     u9y9    =    (unsigned short)-9760388;
-    txe61YK9fA    =    1104675735;
+    txe61YK9fA    =    (unsigned short)1104675735;
     xB_3    =    2087215794;
     X7vV27    =    1417632350;
     unsigned short int    q6UFj;

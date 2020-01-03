@@ -37,7 +37,7 @@ int main(void) {
  long double eumMR0Z = 1030073622;
   unsigned short int  jKgA9643  =  (unsigned short)292964828;
   float  uk9X6  =  -1971038492;
-  short int  jIKQZP3Ta  =  -1414176664;
+  short int  jIKQZP3Ta  =  (short)-1414176664;
   unsigned long  LVrF_1C1  =  521929334;
   float  d6_6  =  -836141586;
     unsigned char    mREp_kS    =    (unsigned char)1198607739;
@@ -49,7 +49,7 @@ int main(void) {
     float    c20oEKu    =    -715449264;
     short int    ZIsNux4W75    =    (short)-1605209530;
     double    Ur_I    =    945726785;
-	unsigned short	f5EwsIq7mh	=	68465139;
+	unsigned short	f5EwsIq7mh	=	(unsigned short)68465139;
 	unsigned char	jmDn2G94	=	(unsigned char)1771243527;
  unsigned char x4D91jx = (unsigned char)766500231;
   unsigned short  Rt8yV40L  =  662667834;
@@ -63,7 +63,7 @@ int main(void) {
  unsigned short int mfwo_2_ = (unsigned short)849719355;
   unsigned int  rDWUcA  =  -1312316568;
     unsigned short    MrO7QS    =    (unsigned short)-938153585;
- char CE18 = 1025684682;
+ char CE18 = (char)1025684682;
  unsigned short int aA9WsZEc = 1451249865;
 	unsigned long long	e5E7Z40B	=	-1159215855;
     char    LnvyJ_09    =    (char)1420914401;
@@ -85,7 +85,7 @@ int main(void) {
  int r3MF5 = -2021976547;
   unsigned short int  ZI8i  =  (unsigned short)-1501850358;
  unsigned short N89seGme = (unsigned short)1283299677;
-    unsigned short    s4p4C    =    -1920572705;
+    unsigned short    s4p4C    =    (unsigned short)-1920572705;
 	char	roTOR63T	=	-2122777550;
 	unsigned long long	UZL2BO6	=	5790017;
 	int	c4kc7ra	=	-1478895236;
@@ -110,7 +110,7 @@ int main(void) {
   unsigned long long  H3I6  =  1979113243;
  char arteDMk382 = (char)266310053;
  long WpP_578d = -1487177467;
- unsigned short LzxbU0q7_ = -1725041454;
+ unsigned short LzxbU0q7_ = (unsigned short)-1725041454;
   float  Pca5_Rnf0  =  925155553;
  unsigned long long Nae26 = 891333141;
  unsigned char t8CLP15Q0 = (unsigned char)33542269;
@@ -124,7 +124,7 @@ int main(void) {
     short int    q5J_tc74    =    (short)-535674934;
     int    cca9OmT3    =    776660005;
   short  aTNOD80  =  (short)-1265513954;
-	char	fJ_d9ZBoGm	=	-105461663;
+	char	fJ_d9ZBoGm	=	(char)-105461663;
 
 switch (VO0SBMR2o)
 {

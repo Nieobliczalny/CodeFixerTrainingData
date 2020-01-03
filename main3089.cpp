@@ -21,7 +21,7 @@ int main(int argc, char** argv)
 	long	f71J_Cep	=	462744793;
  unsigned short int eVe75e = (unsigned short)182395333;
   char  H8L0_  =  (char)-2116798664;
-  unsigned char  lzhqTxH  =  907311007;
+  unsigned char  lzhqTxH  =  (unsigned char)907311007;
   long long  ZTvb9In1k  =  749841373;
 	unsigned short int	uFzp41_a1	=	-167884971;
 	short int	YMGpz2Y8fg	=	1789529325;
@@ -39,7 +39,7 @@ int main(int argc, char** argv)
     double    O2fnEu0p    =    1808148607;
   unsigned int  eOs7A  =  834622578;
   char  RUYw_3KKr6  =  (char)86764676;
-  short int  RjvB1cBG__  =  449173418;
+  short int  RjvB1cBG__  =  (short)449173418;
   unsigned long long  X_ND_7  =  36413789;
   unsigned int  eJp0  =  1226641727;
     long long    WuUM    =    19727026;
@@ -51,7 +51,7 @@ int main(int argc, char** argv)
     unsigned short int    jy4D    =    (unsigned short)1182921070;
     unsigned short int    AkHlE    =    (unsigned short)-995087741;
  unsigned short M_Epi = 0;
-	unsigned short	w_80	=	-1970371465;
+	unsigned short	w_80	=	(unsigned short)-1970371465;
 
 std::cout << DzhI_B(w_80, Vq_pJA42Tx) << wHPj3_1R << K0Q4 << DzhI_B(w_80, Vq_pJA42Tx) << DzhI_B((short)-1113337990, -1195381516) << std::endl;
 

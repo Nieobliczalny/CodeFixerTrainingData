@@ -223,7 +223,7 @@ case 1:
 J_5_T7D = f1E02M5l(-1801389475, V_an, -163261923, (unsigned short)239390178, (unsigned short)-1151111644);
 break;
 case 2:
-Z246PvR1 = RSN1_((short)511495143, (unsigned char)1612610942, 841432177, ehh_wHS8q, f6l306j);
+Z246PvR1 = RSN1_((short)511495143, (unsigned char)1612610942, (short)841432177, ehh_wHS8q, f6l306j);
 break;
 case 3:
 Wq7ZSH36 = f1E02M5l(Wq7ZSH36, -1404239669, O6s8LSo1, 397608809, V86qt7xF1);

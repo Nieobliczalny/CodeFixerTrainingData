@@ -19,7 +19,7 @@ int main() {
     char    CUj9932S2n    =    (char)753263952;
     unsigned long long    ssUm2Llo5T    =    -1859596892;
     int    aI7ZeVP    =    -484650380;
-	unsigned short int	NM9P_UkW	=	1962930596;
+	unsigned short int	NM9P_UkW	=	(unsigned short)1962930596;
 	unsigned long	FSw7oX_PB	=	-443705223;
 	long	PGK_OuqW_	=	1345304233;
     float    g11c6    =    -387633973;

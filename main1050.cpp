@@ -26,7 +26,7 @@ int main(int argc, char** argv) {
     unsigned short    Nq4y    =    (unsigned short)-259841541;
   unsigned short int  JQ4i2ZTt  =  (unsigned short)1468806233;
 	float	AOXY_Q	=	110541793;
-	unsigned short	PY0F9F	=	987808377;
+	unsigned short	PY0F9F	=	(unsigned short)987808377;
 	char	X1fX6GPr	=	(char)-1707668854;
     unsigned short int    XSQ640L    =    -1886855327;
     int    AJCg8_xdIZ    =    1285758403;

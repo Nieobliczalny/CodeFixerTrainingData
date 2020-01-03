@@ -96,7 +96,7 @@ pkjf3d1e = stukK6V9Ki ^ 2110067624;
 kT2YcFi = d6Mu((unsigned char)-45761237, vOwAF);
 
 EVu7W7 = -260187810 / d6Mu((unsigned char)2007263138, (short)-2042370298);
-Iuprw38 = d6Mu((unsigned char)1742457057, 1050794009);
+Iuprw38 = d6Mu((unsigned char)1742457057, (short)1050794009);
 
 try
 {

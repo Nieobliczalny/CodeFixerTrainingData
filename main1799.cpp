@@ -479,7 +479,7 @@ case 'c':
 z_Bjn91 = ECDG1r_h(z_Bjn91, M02Zr, (unsigned short)127722159, GF49u, DE7DzGtfp);
 break;
 case 'd':
-rJKO3R = aa6C((char)670752211, -1180748210, jn4b5gAK_9);
+rJKO3R = aa6C((char)670752211, (unsigned short)-1180748210, jn4b5gAK_9);
 break;
 default:
 kMDjHK = W1Gt5(kMDjHK, tID6fj, AL5nLV, 453826505);

@@ -43,7 +43,7 @@ int main() {
     long    PliQO0S0    =    0;
 	unsigned int	E6j_	=	1415604665;
   long  Z1Jdn90kB  =  -947691820;
-  unsigned short int  FC__WcsW  =  92894732;
+  unsigned short int  FC__WcsW  =  (unsigned short)92894732;
  long fv9wo9tEk = -1247180551;
     unsigned long    YhN4N    =    734520531;
 	unsigned short int	hSHPN652D	=	(unsigned short)645504457;

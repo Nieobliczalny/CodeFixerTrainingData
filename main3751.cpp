@@ -31,7 +31,7 @@ int main(void) {
 	long long	LQtHtu8	=	-296247214;
   short int  S1v2a0A  =  (short)998646598;
     unsigned long long    Uj682v    =    577973127;
-    char    RdLMf_    =    -1459732555;
+    char    RdLMf_    =    (char)-1459732555;
 	unsigned char	OG2C7LR_92	=	316840413;
 	long long	XTm0MK6o84	=	1414696549;
 	unsigned int	H2__N2U	=	-1307512965;
@@ -100,7 +100,7 @@ case 5:
 XTm0MK6o84 = Ksv_aqlr49();
 break;
 case 6:
-HP7Y8x = CCF6WQ(XTm0MK6o84, -329150293, HP7Y8x, 298414956);
+HP7Y8x = CCF6WQ(XTm0MK6o84, -329150293, HP7Y8x, (char)298414956);
 break;
 case 7:
 eeWHS = OG2C7LR_92 + 126606989;

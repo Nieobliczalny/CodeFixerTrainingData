@@ -121,7 +121,7 @@ break;
 Ei50 = D1496ITO(Ji72, Ei50, (unsigned char)-647076584, (unsigned short)593739633) / TH0hwh;
 OlwlIAz = (long long)(Ji72 + (-1756373863));
 ZllbqlXi = (long long)(z3xjq2EJ);
-std::cout << WKx76((unsigned short)1797188145) << WKx76(Ji72) << WKx76(1711924720) << std::endl;
+std::cout << WKx76((unsigned short)1797188145) << WKx76(Ji72) << WKx76((unsigned short)1711924720) << std::endl;
 
 if (OlwlIAz)
 {

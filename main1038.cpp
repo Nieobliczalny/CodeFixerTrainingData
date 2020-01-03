@@ -75,7 +75,7 @@ int main(int argc, char** argv) {
 	long long	uRk64307	=	1443282732;
 	unsigned long	Nzd0oNda	=	107185162;
 	unsigned short int	pCsy8N0Po	=	(unsigned short)-632086152;
- char ClurPFs = -290469920;
+ char ClurPFs = (char)-290469920;
 	unsigned long long	RP_s6k9	=	-1357746514;
 
 for (int i = 0; i < 1; i++)

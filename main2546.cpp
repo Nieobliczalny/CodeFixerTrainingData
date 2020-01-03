@@ -142,7 +142,7 @@ int main(int argc, char** argv)
     unsigned char    Jtl0m4EK79;
     Jtl0m4EK79    =    (unsigned char)307291724;
     unsigned short int    jyC_py;
-    jyC_py    =    -171463212;
+    jyC_py    =    (unsigned short)-171463212;
  double V77f;
  V77f = 379192986;
 	long long	aCo417oiQ;

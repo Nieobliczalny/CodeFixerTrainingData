@@ -132,7 +132,7 @@ int main(int argc, char** argv)
  unsigned char H9233R;
  H9233R = (unsigned char)-1166197012;
   short  wo3y399B;
-  wo3y399B  =  -89659446;
+  wo3y399B  =  (short)-89659446;
   unsigned char  kwGpxc;
   kwGpxc  =  (unsigned char)1615461739;
  long TnkZ2D;
@@ -208,7 +208,7 @@ case 1:
 QC69S8821J = W4U2pN4X((short)1464071165, Bt3FTy_1, JK_68kqH9J, Bg4yyW95j, (unsigned char)326057162);
 break;
 case 2:
-PDG5l = W4U2pN4X(466828882, -940382197, 1796911184, TnkZ2D, oiU7h_0hnJ);
+PDG5l = W4U2pN4X((short)466828882, -940382197, 1796911184, TnkZ2D, oiU7h_0hnJ);
 break;
 case 3:
 ss5i78 = (int)abs(CStm);
@@ -402,7 +402,7 @@ PDG5l = W4U2pN4X((short)-84237919, (short)-474221861, U7pzf6, (short)904181040, 
 
 YeVa_tk7P = yK11NMw / iIxc6b9i7;
 
-iIxc6b9i7 = W4U2pN4X((short)2105871423, HNFVZ, 33515027, -1866059329, 158620152);
+iIxc6b9i7 = W4U2pN4X((short)2105871423, HNFVZ, 33515027, (short)-1866059329, 158620152);
 {
 int i = 0;
 do

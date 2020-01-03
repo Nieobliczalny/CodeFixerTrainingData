@@ -167,7 +167,7 @@ case 4:
 Ka1wO24 = I4gv2WXOzZ << 1121407840;
 break;
 case 5:
-a53PJU = dl7Ah((unsigned short)2093502637, eI_3s4vB2, -1710251533);
+a53PJU = dl7Ah((unsigned short)2093502637, eI_3s4vB2, (short)-1710251533);
 break;
 case 6:
 YO74 = (int)floor(Ka1wO24);

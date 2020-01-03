@@ -43,7 +43,7 @@ int main(void) {
 	long double	e2L9a_05I	=	532946211;
 	int	UuW6eR	=	-1800774200;
 	short	NCwon9TH	=	(short)-1299327201;
-  unsigned short  riaNvJ1IX  =  -840632456;
+  unsigned short  riaNvJ1IX  =  (unsigned short)-840632456;
  long long U02B732_4 = -1196862422;
  long double T8Df = -1332725277;
     unsigned short    sR6I2    =    (unsigned short)-516585639;

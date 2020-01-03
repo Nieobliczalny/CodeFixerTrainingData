@@ -341,7 +341,7 @@ case 6:
 WuSmzc >>= 1549675806;
 break;
 case 7:
-rUez7G2 = dY844zp(rUez7G2, -2088312904, -1600242297);
+rUez7G2 = dY844zp(rUez7G2, (short)-2088312904, -1600242297);
 break;
 case 8:
 YpHb8g8 |= WmPf9zZ43;
@@ -499,7 +499,7 @@ v43gU54cA8 = Nu1vJA7(v43gU54cA8, (unsigned short)759397360, (unsigned char)-6244
 }
 }
 
-std::cout << dY844zp((unsigned char)-1055022661, o43Hx5l, (unsigned short)634515521) << rUv9y_7w7(v43gU54cA8) << dY844zp(v43gU54cA8, 1305077771, -1742624129) << zo5_B_Vb << "C9hx_A8S" << std::endl;
+std::cout << dY844zp((unsigned char)-1055022661, o43Hx5l, (unsigned short)634515521) << rUv9y_7w7(v43gU54cA8) << dY844zp(v43gU54cA8, (short)1305077771, -1742624129) << zo5_B_Vb << "C9hx_A8S" << std::endl;
 return 0;
 }
 

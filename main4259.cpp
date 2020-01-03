@@ -23,7 +23,7 @@ int main(void) {
   unsigned short int  F9xouOuQ7;
   F9xouOuQ7  =  (unsigned short)965223288;
 	short	uXYT_p;
-	uXYT_p	=	-1009023835;
+	uXYT_p	=	(short)-1009023835;
     unsigned int    Es7VLY1e0S;
     Es7VLY1e0S    =    -1817534549;
     unsigned short    AoP16m3l;
@@ -61,7 +61,7 @@ int main(void) {
     short int    iYMrit866;
     iYMrit866    =    (short)590025606;
     unsigned short    iW6_n6;
-    iW6_n6    =    2028452517;
+    iW6_n6    =    (unsigned short)2028452517;
  int Ke1g4i;
  Ke1g4i = 1077547157;
  int jzxOB4p4;

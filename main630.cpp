@@ -108,7 +108,7 @@ int main()
     unsigned short    UFwB2vF2x0;
     UFwB2vF2x0    =    (unsigned short)2065997;
  short GaafD;
- GaafD = -2038917872;
+ GaafD = (short)-2038917872;
 	unsigned long	qs9m_T;
 	qs9m_T	=	-410350757;
  double C7P63RTlI0;

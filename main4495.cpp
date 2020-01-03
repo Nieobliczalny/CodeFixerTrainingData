@@ -30,7 +30,7 @@ int main() {
  short int Xa_gb1F;
  Xa_gb1F = (short)1192638379;
     short int    oU44;
-    oU44    =    1002659432;
+    oU44    =    (short)1002659432;
 	long double	pQ_n;
 	pQ_n	=	-1638664703;
     unsigned short    zfb1FX;

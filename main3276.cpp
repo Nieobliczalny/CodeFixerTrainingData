@@ -51,7 +51,7 @@ int main()
 	Lf316k	=	(unsigned short)648015156;
 	g3z_blp4Od	=	(unsigned short)-669400889;
 	e4Cr	=	(unsigned short)-2014221454;
-	u10K	=	-1060070190;
+	u10K	=	(unsigned short)-1060070190;
 	BJZM__9Hr	=	-1112168868;
 	GnH0NnJ01w	=	-2042837309;
 	z557f	=	314129721;
@@ -61,7 +61,7 @@ int main()
 	ur1X4B	=	(unsigned short)-1443005164;
 	XW0a0	=	(unsigned short)1125354098;
 	lCL16U5	=	(unsigned short)-1114651330;
-	Py_XW57U	=	1816168465;
+	Py_XW57U	=	(unsigned short)1816168465;
 	gIxgB0rr	=	-1635943840;
 	c8z46oj	=	1533111691;
 	PTzR	=	-541723520;
@@ -71,7 +71,7 @@ int main()
 	Pqs7heqhr	=	(unsigned short)960641943;
 	oC4hG1bD	=	(unsigned short)-809909409;
 	AR78e6Y2TQ	=	(unsigned short)2016397822;
-	m4Sv	=	922984029;
+	m4Sv	=	(unsigned short)922984029;
 	VEXAAjo1N	=	567095767;
 	B5by7	=	714452009;
 	Tfmd	=	-162516335;
@@ -81,7 +81,7 @@ int main()
 	veS6BZRZ78	=	(unsigned short)396000853;
 	dYOrKf7	=	(unsigned short)1907721962;
 	eeSEIT55T	=	(unsigned short)933986611;
-	BX3uI_cp	=	-346164609;
+	BX3uI_cp	=	(unsigned short)-346164609;
 	ZSWVVlGuNr	=	2086508822;
 	EFHS0Y	=	2119486923;
 	W2vMHGH	=	-1101574953;
@@ -91,7 +91,7 @@ int main()
 	MDo6_	=	(unsigned short)-2123921511;
 	qKCU1C91	=	(unsigned short)-273281682;
 	Jujm10P3_	=	(unsigned short)477097248;
-	DhXd_q	=	1608500477;
+	DhXd_q	=	(unsigned short)1608500477;
 	gu_E	=	-708981828;
 	zKiiq13	=	-1254480403;
 	bW6w9nsY	=	-1152657538;
@@ -101,7 +101,7 @@ int main()
 	c4MrP	=	(unsigned short)-679443436;
 	g7_Itp	=	(unsigned short)939435243;
 	SzmQr5gs	=	(unsigned short)1643237001;
-	BYbr31SH4j	=	-561420596;
+	BYbr31SH4j	=	(unsigned short)-561420596;
 	UXw65	=	1470298278;
 	pwlxp9S2	=	1439294187;
 	m7l7Vn	=	-635642475;
@@ -174,7 +174,7 @@ case 2:
 cKwiO4PE = Fd2Vmg((char)-288185952, (short)1956555507, -2136635614, -1463414900, 756725323);
 break;
 case 3:
-BJZM__9Hr = Fd2Vmg(-1372302820, 81151001, ODQ2P, JTUTW3, -1452423834) ^ 1572136580;
+BJZM__9Hr = Fd2Vmg((char)-1372302820, 81151001, ODQ2P, JTUTW3, -1452423834) ^ 1572136580;
 break;
 case 4:
 u10K += 2047003938;
@@ -649,7 +649,7 @@ cKwiO4PE = Fd2Vmg((char)403286974, (short)1817028849, 193960661, MDo6_, -2077649
 break;
 case 'd':
 case 'D':
-veS6BZRZ78 = ZJ_r262k((short)-1913955229, -159058389, 65574165, 988210974, fxhn31G) + c8z46oj;
+veS6BZRZ78 = ZJ_r262k((short)-1913955229, -159058389, 65574165, (unsigned short)988210974, fxhn31G) + c8z46oj;
 break;
 default:
 ODQ2P--;

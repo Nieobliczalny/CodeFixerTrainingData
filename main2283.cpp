@@ -63,7 +63,7 @@ int main(void) {
   unsigned long  z0w6  =  -953066296;
 	unsigned short int	N054	=	(unsigned short)1171024501;
     unsigned char    q_LI    =    (unsigned char)1397956910;
-  short  BCJKfzOKu0  =  -627348759;
+  short  BCJKfzOKu0  =  (short)-627348759;
     long double    LmWPhJIGwT    =    -1121115912;
 	char	UD89_8Bnr	=	-1368540002;
   short int  iO0__Ar08  =  (short)1041140411;
@@ -73,7 +73,7 @@ int main(void) {
   char  dKBfV6rkY  =  1347776870;
  short int E3P8C4o = (short)1527345650;
   unsigned short int  vb_73eKFrE  =  (unsigned short)1176166368;
-	char	X64Ay0	=	-981899195;
+	char	X64Ay0	=	(char)-981899195;
     long double    Tfvtm_HB    =    969226839;
   char  T754BB  =  -1237445277;
  long long aEZ_A = -1767109335;
@@ -105,7 +105,7 @@ int main(void) {
   unsigned int  mB3Qz03v9  =  961513220;
 	unsigned char	GKEprO	=	(unsigned char)1268533895;
 	unsigned char	C6u866_ZV6	=	(unsigned char)-701781150;
-  short int  hFS3C_c5  =  2136713263;
+  short int  hFS3C_c5  =  (short)2136713263;
     unsigned char    mo1_X    =    -565471085;
  short i9yhN = (short)-740462684;
   unsigned long  g6lI9pR_C1  =  833292623;
@@ -287,7 +287,7 @@ std::cout << TV5NA7i((unsigned short)-1433800948, OPrXS) << "JJ_Ds_" << std::end
 F_1czb5kO2 = (int)ceil(yE9KrE);
 if ((Ba2s <= -599869591) || (Tfvtm_HB <= -35762299))
 {
-u5Ej1QTZfA = cpFu0_Jtr((unsigned short)84021496, S__5dk, (unsigned char)-850760387, (unsigned short)-1200734433, -1338606566);
+u5Ej1QTZfA = cpFu0_Jtr((unsigned short)84021496, S__5dk, (unsigned char)-850760387, (unsigned short)-1200734433, (unsigned short)-1338606566);
 }
 else
 {
@@ -301,7 +301,7 @@ j--;
 while (j >= 0);
 }
 }
-std::cout << cpFu0_Jtr(u5Ej1QTZfA, 1065405692, (unsigned char)1409105894, (unsigned short)-1565648317, (unsigned short)-1346264561) << "WQrd_MeWF" << TV5NA7i((unsigned short)606428216, 248292277) << Y1Xp_2v9I << std::endl;
+std::cout << cpFu0_Jtr(u5Ej1QTZfA, 1065405692, (unsigned char)1409105894, (unsigned short)-1565648317, (unsigned short)-1346264561) << "WQrd_MeWF" << TV5NA7i((unsigned short)606428216, (char)248292277) << Y1Xp_2v9I << std::endl;
 
 if (t58J9x9_ & -892636469)
 {
@@ -391,7 +391,7 @@ for (int i = 0; i < 8; ++i)
 {
 if (F6860nsAR > 1551264686)
 {
-std::cout << TV5NA7i((unsigned short)-537252356, e8D20B) << TV5NA7i((unsigned short)1780723222, 1202227850) << u5Ej1QTZfA << TV5NA7i(-1706958007, e8D20B) << std::endl;
+std::cout << TV5NA7i((unsigned short)-537252356, e8D20B) << TV5NA7i((unsigned short)1780723222, (char)1202227850) << u5Ej1QTZfA << TV5NA7i(-1706958007, e8D20B) << std::endl;
 }
 else
 {
@@ -458,7 +458,7 @@ case 8:
 hkyVLhaUW = cpFu0_Jtr(hkyVLhaUW, -38094140, Cx31XhF2LX, X64Ay0, N054);
 break;
 case 9:
-B2RJon = cpFu0_Jtr((unsigned short)1909053696, 1779210872, (unsigned char)-266638036, c6_nuDvj3E, -2098424005);
+B2RJon = cpFu0_Jtr((unsigned short)1909053696, 1779210872, (unsigned char)-266638036, c6_nuDvj3E, (unsigned short)-2098424005);
 break;
 default:
 qz3pd = (int)abs(olDv);

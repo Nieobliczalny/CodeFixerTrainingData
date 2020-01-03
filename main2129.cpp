@@ -187,7 +187,7 @@ case 'c':
 Upr008NJ = At_a00(T6lDw8tT, fKxso_, (short)1218155926, F_kT1);
 break;
 default:
-T6lDw8tT = jU95(b96W41mdUP, 484041830, LpmsEwp);
+T6lDw8tT = jU95(b96W41mdUP, (unsigned short)484041830, LpmsEwp);
 break;
 }
 }
@@ -442,7 +442,7 @@ case 2:
 fKxso_ <<= VKOL;
 break;
 case 3:
-fKxso_ = jU95((short)288094074, (unsigned short)-1902586146, 379817602) >> VKOL;
+fKxso_ = jU95((short)288094074, (unsigned short)-1902586146, (short)379817602) >> VKOL;
 break;
 }
 }
@@ -467,7 +467,7 @@ std::cout << At_a00((char)-681449868, 346382458, (short)2027562654, (unsigned sh
 }
 if (fKxso_ >= -2059657179)
 {
-Bn2Ws_we = jU95(Bn2Ws_we, (unsigned short)1813696312, 857623411);
+Bn2Ws_we = jU95(Bn2Ws_we, (unsigned short)1813696312, (short)857623411);
 }
 std::cout << ybG_9PO() << "F3yJsX6d" << std::endl;
 T6lDw8tT = (int)(VKOL);

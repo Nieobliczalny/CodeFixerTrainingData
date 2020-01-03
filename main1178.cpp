@@ -74,7 +74,7 @@ else if ((B_BdS2f0 <= Ou2MJ) || (M62_V61a5K != D1m1_M))
 {
 if (((HU8k9S > -85185601) && (B10X3PPX > D1m1_M)) || (B10X3PPX <= NGS9xet))
 {
-cout << Yzf7d7O0Jr(tlAQBD2, SJ4M7q16x, -2128681763, O_l_UVSA, J2h2r10) << "yWv___6" << endl;
+cout << Yzf7d7O0Jr(tlAQBD2, SJ4M7q16x, (char)-2128681763, O_l_UVSA, J2h2r10) << "yWv___6" << endl;
 }
 else if (Iu_z_oo_G >= rFLa26)
 {
@@ -152,7 +152,7 @@ else
 int j = 0;
 while (j < 3)
 {
-cout << Yzf7d7O0Jr(B10X3PPX, O_l_UVSA, 538332626, -2128565130, btyTJK) << Yzf7d7O0Jr(2040467129, -951984834, NGS9xet, cjcMXFMi37, -390598058) << endl;
+cout << Yzf7d7O0Jr(B10X3PPX, O_l_UVSA, (char)538332626, -2128565130, btyTJK) << Yzf7d7O0Jr(2040467129, -951984834, NGS9xet, cjcMXFMi37, -390598058) << endl;
 ++j;
 }
 }
@@ -164,7 +164,7 @@ ieH0t = Yzf7d7O0Jr(B10X3PPX, -386607370, NGS9xet, cjcMXFMi37, -1616698841) / Yzf
 
 try
 {
-Pq6UDll = Yzf7d7O0Jr(SJ4M7q16x, 4280940, -1356851992, ovok, J2h2r10);
+Pq6UDll = Yzf7d7O0Jr(SJ4M7q16x, (short)4280940, -1356851992, ovok, J2h2r10);
 }
 catch (int& errorCode)
 {
@@ -231,7 +231,7 @@ else
 switch (B_BdS2f0)
 {
 case 0:
-cjcMXFMi37 = Yzf7d7O0Jr(1353190165, (short)909833927, Iu_z_oo_G, -625364322, 2089429717);
+cjcMXFMi37 = Yzf7d7O0Jr(1353190165, (short)909833927, Iu_z_oo_G, (unsigned short)-625364322, 2089429717);
 break;
 case 1:
 B10X3PPX ^= 1298084248;
@@ -243,7 +243,7 @@ case 3:
 cjcMXFMi37 = Yzf7d7O0Jr(519912665, (short)2057602345, B10X3PPX, (unsigned short)-1212351224, (unsigned char)679616592);
 break;
 case 4:
-Pq6UDll = Yzf7d7O0Jr(Pq6UDll, (short)-769076753, -2063893005, btyTJK, -1019697375);
+Pq6UDll = Yzf7d7O0Jr(Pq6UDll, (short)-769076753, (char)-2063893005, btyTJK, -1019697375);
 break;
 case 5:
 libg7b = (int)abs(Pq6UDll);

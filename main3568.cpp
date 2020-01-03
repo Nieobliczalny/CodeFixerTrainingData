@@ -84,7 +84,7 @@ int main(int argc, char** argv) {
   long long  Ddl_pgKW  =  -1342409606;
     unsigned short    LP_P_    =    (unsigned short)1739413308;
  short zQXLIE71W = (short)591937705;
- unsigned short int uXC__8 = -1412320086;
+ unsigned short int uXC__8 = (unsigned short)-1412320086;
 	long long	whQ4V8nFI	=	1612813140;
 	unsigned short	tq2hDW82M	=	-1754685069;
  unsigned short JqsS0Ki = (unsigned short)1207509953;
@@ -95,7 +95,7 @@ int main(int argc, char** argv) {
     unsigned char    km_c81q    =    (unsigned char)955071505;
  unsigned short r1045SYRoC = (unsigned short)1116198832;
     float    aReq6R    =    -445731559;
-    char    CrAGYW    =    1089272672;
+    char    CrAGYW    =    (char)1089272672;
     long long    ZTyHMw    =    1835328756;
 	short	q_jGZG97Yk	=	(short)-1339119684;
   unsigned int  lM00hZP63  =  -172826045;

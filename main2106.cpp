@@ -28,7 +28,7 @@ int main(int argc, char** argv) {
 	ShL6rts	=	(unsigned short)1968268761;
 	Ggu6a89y	=	(unsigned short)-1040261593;
 	lYeZ9d5L	=	(unsigned short)972462265;
-	P_aW	=	-700234240;
+	P_aW	=	(unsigned short)-700234240;
 	G1Vjx7	=	1840247628;
 	Xr_W4w	=	-479002271;
 	KJ3vh3c	=	-1067081081;

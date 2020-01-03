@@ -37,7 +37,7 @@ int main(int argc, char** argv) {
  long double VD0OwkdlBv = 951296751;
  short int D65Gj_F1V = 0;
   short int  kQC9  =  (short)-551995589;
-    unsigned short int    K089D    =    -841828706;
+    unsigned short int    K089D    =    (unsigned short)-841828706;
 	unsigned short	f_dg7	=	643907139;
     float    T9lS5Gu_1    =    -1857355443;
  float ycikp5 = 1987986967;

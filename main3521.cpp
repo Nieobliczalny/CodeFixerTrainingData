@@ -129,7 +129,7 @@ std::cout << GUq64wH(MI7M5BM91d, vkVvAl5, G_H32C_x1, 2049790428, (unsigned short
 tM5l = Um10Zek(tM5l, GA5ey, 1202072225, vkVvAl5, (short)821929412);
 try
 {
-std::cout << VKNbq9aIG5(tM5l, (unsigned short)-1917251209, G_H32C_x1, (short)465874548) << aIX_ << "MPWG4_DG" << G3JgEm(-1379312752, -164217721) << std::endl;
+std::cout << VKNbq9aIG5(tM5l, (unsigned short)-1917251209, G_H32C_x1, (short)465874548) << aIX_ << "MPWG4_DG" << G3JgEm((unsigned char)-1379312752, -164217721) << std::endl;
 }
 catch (int& errorCode)
 {

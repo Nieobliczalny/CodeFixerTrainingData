@@ -19,7 +19,7 @@ int main(void) {
     long    T6veAX5O    =    829662549;
 	long long	vsohd7J63x	=	501587;
     unsigned short    nbGB2    =    (unsigned short)1177370755;
-	short int	cRgJq2e	=	-1332184751;
+	short int	cRgJq2e	=	(short)-1332184751;
   int  lu_VKv  =  0;
   unsigned short  xs6iuYY  =  (unsigned short)-122987156;
 	unsigned int	yVyy6lH7	=	0;

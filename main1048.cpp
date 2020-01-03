@@ -34,7 +34,7 @@ int main()
  lJhjJOgA9 = (short)-653268767;
  o4bZu = (short)2060521975;
  TjCUH3p = (short)860100670;
- H9BpQEjob = -1555695062;
+ H9BpQEjob = (short)-1555695062;
  Xf1c = -320743561;
  tAc2 = -94334232;
  lU_5 = 634134418;
@@ -44,7 +44,7 @@ int main()
  mnJgBfk_3 = (short)993498213;
  IVi_ = (short)-614032491;
  YeBDHg2d9 = (short)1164033048;
- uXey = -1582884856;
+ uXey = (short)-1582884856;
  E3oqe4Ik = -1099038588;
  l4Fy533Emd = -1288244192;
  uRG5Vf = -1955974764;
@@ -54,7 +54,7 @@ int main()
  PSgs = (short)671593453;
  q699xHC6 = (short)1860852381;
  EoJ5 = (short)743946011;
- D6G7Q6i = 494939924;
+ D6G7Q6i = (short)494939924;
  vn12Kz = -1234771783;
  K_RN_D81P = -575084118;
  V8E1iC__x6 = -1784241334;
@@ -64,7 +64,7 @@ int main()
  t5OT_L = (short)-1861851719;
  pmX38oQR = (short)-228757368;
  FT4D5J_6Zu = (short)-854993412;
- BEE0 = -2091050606;
+ BEE0 = (short)-2091050606;
  zGJR = 1316086969;
  E00aE3 = -782457207;
  a58zGY2S2 = -806523845;
@@ -316,7 +316,7 @@ pe58Mlcv3A = (int)abs(O4ux);
 break;
 case 'd':
 case 'D':
-Xf1c = Kg_ZalCRT((unsigned short)552553692, (unsigned short)1934565274, (char)-1265465011, BEE0, 1509096350);
+Xf1c = Kg_ZalCRT((unsigned short)552553692, (unsigned short)1934565274, (char)-1265465011, BEE0, (short)1509096350);
 break;
 case 'e':
 case 'E':

@@ -312,7 +312,7 @@ else
 T36_Ow8k = T885I(T36_Ow8k, (unsigned char)-770327502, (char)-1266598491, -1648718206);
 }
 
-vrOdKO = rk01n034_(-609731191, 123964979, -1943219854) / w17bD0TE;
+vrOdKO = rk01n034_((unsigned short)-609731191, 123964979, -1943219854) / w17bD0TE;
 if (T36_Ow8k == Bs2sb_a4h)
 {
 sK0Q3 = rk01n034_((unsigned short)154134219, K2j5hVT35n, -1925192867);

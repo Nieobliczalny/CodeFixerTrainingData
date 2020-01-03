@@ -28,7 +28,7 @@ int main(void) {
  unsigned char bpy36 = (unsigned char)271342337;
     unsigned short int    pBGxRw    =    (unsigned short)768784999;
 	unsigned short	Xd9FZEVj9a	=	(unsigned short)-1097676106;
- unsigned short WFep = -125620470;
+ unsigned short WFep = (unsigned short)-125620470;
  int bR3W4_VOR = 582587202;
     unsigned short    ga65j    =    -134569730;
   unsigned short  c53SAeP  =  1229439337;
@@ -53,7 +53,7 @@ int main(void) {
 	int	MLgC8	=	-2092697315;
   double  evmF2N  =  1357718787;
 	short	O8cGeu	=	(short)-112975401;
-	unsigned short int	pohO	=	1532609217;
+	unsigned short int	pohO	=	(unsigned short)1532609217;
     unsigned char    Q_8YMx    =    (unsigned char)-295867779;
  long double D0w52_uZ4 = -23625874;
     long long    x63B1    =    -849754284;

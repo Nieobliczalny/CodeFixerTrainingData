@@ -217,7 +217,7 @@ if (((n4go_NF6) && (c3gfqkN)) || ((zm_IW60) || (FBdzp == fzZ67b6)))
 cout << KY8Kua((unsigned char)-1556907311, (short)1905058878) << KY8Kua(fLsYGV, n4go_NF6) << KY8Kua((unsigned char)-517748550, (short)-869810944) << KY8Kua(fLsYGV, n4go_NF6) << c3gfqkN << endl;
 }
 
-cout << "yprw93sa" << l78VA << "kzT0maf5" << "z7gS1F" << KY8Kua(fLsYGV, 1366272774) << endl;
+cout << "yprw93sa" << l78VA << "kzT0maf5" << "z7gS1F" << KY8Kua(fLsYGV, (short)1366272774) << endl;
 xCufIZ3 = (long long)(qiitsSj);
 
 if (czfeS3 != 849941210)

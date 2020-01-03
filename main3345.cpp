@@ -46,7 +46,7 @@ int main(int argc, char** argv) {
   char  b3qZY8;
   b3qZY8  =  (char)1653623334;
   short  iA3P_mEM;
-  iA3P_mEM  =  -931623747;
+  iA3P_mEM  =  (short)-931623747;
   long  puXNs;
   puXNs  =  -2027562586;
  short wytmfW;

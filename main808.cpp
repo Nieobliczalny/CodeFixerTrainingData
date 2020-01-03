@@ -48,7 +48,7 @@ int main(int argc, char** argv) {
   short  T0V861C05;
   T0V861C05  =  (short)1533880821;
  char dj_t_5;
- dj_t_5 = 1325137212;
+ dj_t_5 = (char)1325137212;
     unsigned long long    g94Gud;
     g94Gud    =    -1978953477;
   unsigned int  c8AvL;
@@ -308,7 +308,7 @@ int j = 0;
 while (j < 6)
 {
 ++j;
-cout << "pYurY6c8D2" << XuUF((unsigned short)-1788212366, (short)555321534, (char)-900602803, c8AvL) << U0VF_t64i((unsigned char)27460252, 55673178, MUmnX3nND) << endl;
+cout << "pYurY6c8D2" << XuUF((unsigned short)-1788212366, (short)555321534, (char)-900602803, c8AvL) << U0VF_t64i((unsigned char)27460252, (short)55673178, MUmnX3nND) << endl;
 }
 }
 }

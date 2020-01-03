@@ -33,7 +33,7 @@ int main(int argc, char** argv)
  Qywuf5B = (char)-242842539;
  L3Iw2R11H = (char)-1327779376;
  wOg9JH = (char)801085147;
- v_9L = -833081116;
+ v_9L = (char)-833081116;
  N2s32_ = -1376621910;
  FIK8 = -792561965;
  X1s6R5W = 186989214;
@@ -43,7 +43,7 @@ int main(int argc, char** argv)
  PRA3z26k = (char)-51095228;
  n_Dg5n4 = (char)222154399;
  NDdRppYXI4 = (char)-585684778;
- nTm9L26YIy = 533676625;
+ nTm9L26YIy = (char)533676625;
  HvRwgxbej = -810850969;
  nsdj25 = 452141501;
  Gec5gSr = -1543223457;
@@ -53,7 +53,7 @@ int main(int argc, char** argv)
  nc0Ud46 = (char)-639846407;
  h1S8K0WZ0 = (char)-485904013;
  NKho8 = (char)-843161935;
- r__8582cJ = 1613671092;
+ r__8582cJ = (char)1613671092;
  cMP_ = -334457814;
  cCvNvw5E = 229655283;
  k78a = -1235901151;
@@ -63,7 +63,7 @@ int main(int argc, char** argv)
  cxIv18 = (char)2068365402;
  b1fy_uqcW = (char)1836375946;
  F6y5 = (char)-1034627301;
- ubpl2 = 1035860550;
+ ubpl2 = (char)1035860550;
  woG_ = -1601486722;
  M0a5r2 = 1060556475;
  Rvmx9 = 1439978743;
@@ -73,7 +73,7 @@ int main(int argc, char** argv)
  uKn51 = (char)1611077638;
  lyl1ltsiNE = (char)-933656476;
  uS_TtUxqS = (char)-1215285589;
- yCbyX_ = -128926537;
+ yCbyX_ = (char)-128926537;
  DBQeEHF = -1455987603;
  v7ZoyX1urr = 1922442506;
  v8y9rz = -857277373;
@@ -83,7 +83,7 @@ int main(int argc, char** argv)
  Ej7_A = (char)-808115692;
  f6RD0yH4 = (char)-1788443740;
  czX0 = (char)1473721678;
- wsFy10l = 518401404;
+ wsFy10l = (char)518401404;
  BETaa6j6Y = -1532071067;
  D9DbGL = -1564940230;
  RrOFV = -1299689216;
@@ -93,7 +93,7 @@ int main(int argc, char** argv)
  F52_CiA = (char)-954982511;
  gzrh6h = (char)-831640742;
  sLgr6rY0C = (char)1703887510;
- r0qS8TD15Z = -1793016552;
+ r0qS8TD15Z = (char)-1793016552;
  olAL9 = 431910080;
  iacFglfg9 = 951659852;
   short int  g3nh0,  N1T5o47L;
@@ -411,7 +411,7 @@ n_Dg5n4 *= 1141170807;
 vv71xSK = (char)(D428c);
 if (((nsdj25 <= 807406998) || (PRA3z26k <= 494698381)) && (gzrh6h == 1667160674))
 {
-std::cout << Qn86xt8JPM(517546997, k78a, cxIv18, -800082776) << B3e_UL4Ep(-802048570, (unsigned char)1012424980, -817433425, r0qS8TD15Z) << B3e_UL4Ep(2029974352, 425857966, cxIv18, 682546241) << "f670v8" << "x4Q40" << std::endl;
+std::cout << Qn86xt8JPM(517546997, k78a, cxIv18, -800082776) << B3e_UL4Ep(-802048570, (unsigned char)1012424980, (unsigned char)-817433425, r0qS8TD15Z) << B3e_UL4Ep(2029974352, 425857966, cxIv18, 682546241) << "f670v8" << "x4Q40" << std::endl;
 }
 else
 {
@@ -583,7 +583,7 @@ v8y9rz = (int)abs(A9_qdy6TOh);
 }
 else
 {
-k78a = B3e_UL4Ep(k78a, (unsigned char)-1514825838, (unsigned char)-2016870541, 1795164949);
+k78a = B3e_UL4Ep(k78a, (unsigned char)-1514825838, (unsigned char)-2016870541, (unsigned short)1795164949);
 }
 j++;
 }

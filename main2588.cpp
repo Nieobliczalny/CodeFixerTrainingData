@@ -40,7 +40,7 @@ int main(void)
     GHiB    =    (short)656956896;
     j8lWn_    =    (short)1076729949;
     j6gJ1    =    (short)1899512664;
-    Vp0y    =    -44960567;
+    Vp0y    =    (short)-44960567;
     M61389P    =    -582677059;
     e0Kb1    =    1131529123;
     E489w    =    -458422401;
@@ -50,7 +50,7 @@ int main(void)
     ZC1kTYg    =    (short)462707228;
     G0ueGCB8    =    (short)-1858177827;
     UA6gDKcCBa    =    (short)-278602739;
-    wBW_y3_    =    1229124528;
+    wBW_y3_    =    (short)1229124528;
     q3ALOIkw    =    -1056117635;
     F_1jm2    =    1154744370;
 

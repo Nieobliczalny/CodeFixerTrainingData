@@ -31,7 +31,7 @@ int main(int argc, char** argv)
     long long    AwHkbzd    =    852703316;
     short int    NxLlAuKf    =    (short)1978962428;
     unsigned int    ZC_yTI7    =    -2141876954;
- char hHA8EG = -2003412763;
+ char hHA8EG = (char)-2003412763;
     unsigned long long    dX6Hgo6l6    =    -1737532434;
   short int  d2nbWiuG  =  (short)1100427141;
  unsigned short int gE1fNv = (unsigned short)1626971560;
@@ -41,7 +41,7 @@ int main(int argc, char** argv)
     long double    cjw7354CQ    =    -254528284;
     unsigned char    QI64nR3    =    (unsigned char)2122586039;
     short int    lw4Ly    =    (short)1068889589;
- short int QO8XU7K1 = 2027107706;
+ short int QO8XU7K1 = (short)2027107706;
  unsigned short iL_OQv = 132545133;
     long    J5Aqb    =    288310231;
  long double GpTA14L = 2137317683;
@@ -123,7 +123,7 @@ case 1:
 QO8XU7K1 = M47vC(QO8XU7K1, (unsigned short)-781254011, J5Aqb, wdnj3Y8, (unsigned short)-837023719);
 break;
 case 2:
-ZC_yTI7 = M47vC(1062393464, 997889195, -829993605, iL_OQv, ItxRpZlj);
+ZC_yTI7 = M47vC(1062393464, (unsigned short)997889195, -829993605, iL_OQv, ItxRpZlj);
 break;
 case 3:
 HxWXaj2 = (int)ceil(W7u3331X1);

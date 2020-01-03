@@ -31,7 +31,7 @@ int main()
     unsigned char    o7A_oR;
     o7A_oR    =    (unsigned char)-11871085;
   char  IqPMB6;
-  IqPMB6  =  144395464;
+  IqPMB6  =  (char)144395464;
   short int  c_dT50x;
   c_dT50x  =  (short)1044341984;
 	unsigned short	HT543;

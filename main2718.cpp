@@ -443,7 +443,7 @@ GiFi59PU6 = n35Ax((short)801858222, 1494774757, Hb8D, KpT25);
 }
 else if (jJhrpGp3 <= -1046417459)
 {
-D6NXE = Bj3725EE30(D6NXE, (short)1097290376, -720991292, 2097309743);
+D6NXE = Bj3725EE30(D6NXE, (short)1097290376, -720991292, (unsigned short)2097309743);
 }
 else
 {
@@ -507,7 +507,7 @@ case 3:
 ZEk7Eb = Bj3725EE30(ZEk7Eb, (short)1463804922, 1736145077, (unsigned short)483634577);
 break;
 case 4:
-Tl94yC5XO = Bj3725EE30(Tl94yC5XO, (short)1289968617, -503828584, -2071679958);
+Tl94yC5XO = Bj3725EE30(Tl94yC5XO, (short)1289968617, -503828584, (unsigned short)-2071679958);
 break;
 case 5:
 UA04DdC9tr = lldC9_poTt - YciRe6Sev;

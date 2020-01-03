@@ -228,7 +228,7 @@ KyZ936I5u -= RE67_oGtt;
 }
 else if (RE67_oGtt >= -4746162)
 {
-w0uhu7 = b01J32m33(1075734686, (short)-1922849511, (unsigned char)1587493592, 2100642649);
+w0uhu7 = b01J32m33(1075734686, (short)-1922849511, (unsigned char)1587493592, (short)2100642649);
 }
 else if (WLcdPS4Y <= -1535020255)
 {

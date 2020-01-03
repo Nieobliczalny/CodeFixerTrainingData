@@ -63,7 +63,7 @@ int main(void)
   double  lAz7J1UpL  =  719677821;
     unsigned short int    nBIB3N    =    (unsigned short)1872762109;
  short aTskP = (short)1592051680;
-  unsigned short int  rQ30d0qn  =  1779239283;
+  unsigned short int  rQ30d0qn  =  (unsigned short)1779239283;
  float f4j3 = 2044084252;
  long long ZjnPFD_ = 66910094;
  int jZNY81 = 1306426513;

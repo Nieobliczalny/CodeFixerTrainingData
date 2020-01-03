@@ -197,7 +197,7 @@ g_uXLsDYe7 = (float)(d2VPN8_);
 m0_b = (float)(yw5pTZZBZ_);
 cout << Z_ocm(805590481, (unsigned short)742271516, (unsigned short)706001426, (unsigned short)-1955937656) << "Mc4R" << "dLjdlHr" << "veVc" << f5Yu9xm7_ << endl;
 
-cout << DizennO0U() << Z_ocm(1429841648, -1449001219, 558432937, El16_) << "rPDI" << WP49_ << DizennO0U() << endl;
+cout << DizennO0U() << Z_ocm(1429841648, (unsigned short)-1449001219, 558432937, El16_) << "rPDI" << WP49_ << DizennO0U() << endl;
 
 cout << sGhSL(1965948005, I3Gpu) << g_uXLsDYe7 << endl;
 
@@ -555,7 +555,7 @@ while (j < 3);
 }
 m0_b = (float)(I3Gpu);
 zdLPEv += 29065722;
-cout << "r6gwM" << sGhSL((unsigned short)126689323, (short)-1637412467) << Z_ocm(qP4460, (unsigned short)-256060169, (unsigned short)275023398, -111449844) << qP4460 << endl;
+cout << "r6gwM" << sGhSL((unsigned short)126689323, (short)-1637412467) << Z_ocm(qP4460, (unsigned short)-256060169, (unsigned short)275023398, (unsigned short)-111449844) << qP4460 << endl;
 
 if ((J77ecQ67RU < 1134339374) || (DlEr9Ko0st != -195449564))
 {

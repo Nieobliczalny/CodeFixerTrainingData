@@ -18,7 +18,7 @@ char    XJ2k1B16(unsigned short int    H97m)
 
 int main(void) {
 	short	vo6y2Y	=	0,	Gi8Hr8	=	0,	UgYtm3_	=	0,	UGu9R179_h	=	0;
-	unsigned char	itxhS	=	(unsigned char)1512721016,	JyXnBJ	=	(unsigned char)1976581710,	ngwaQU6DEH	=	(unsigned char)-279672435,	Q09eO0GKZ4	=	(unsigned char)-887838648,	L13o0202DB	=	-63834329;
+	unsigned char	itxhS	=	(unsigned char)1512721016,	JyXnBJ	=	(unsigned char)1976581710,	ngwaQU6DEH	=	(unsigned char)-279672435,	Q09eO0GKZ4	=	(unsigned char)-887838648,	L13o0202DB	=	(unsigned char)-63834329;
 
 Q09eO0GKZ4 = (unsigned char)(vo6y2Y + (887123672));
 {

@@ -69,7 +69,7 @@ while (k >= 0);
 }
 else if (Zd9dC != -1241722321)
 {
-std::cout << hsNQyt3CGS(Z2m9eN2F, (unsigned char)-811390604, (short)-366076332, 1068020801) << std::endl;
+std::cout << hsNQyt3CGS(Z2m9eN2F, (unsigned char)-811390604, (short)-366076332, (char)1068020801) << std::endl;
 }
 else if (eaz9i > z83UI4Lh7)
 {
@@ -123,7 +123,7 @@ case 4:
 Vve39 = (int)abs(Mu6ns_i5ms);
 break;
 case 5:
-eaz9i = hsNQyt3CGS(1703030630, (unsigned char)-76704001, (short)229382001, -2103410238);
+eaz9i = hsNQyt3CGS(1703030630, (unsigned char)-76704001, (short)229382001, (char)-2103410238);
 break;
 case 6:
 Zd9dC *= Zd9dC;
@@ -182,7 +182,7 @@ else if (Mu6ns_i5ms == 272991626)
 {
 for (int j = 0; j < 1; ++j)
 {
-std::cout << "cdrJvE" << "g0kqw4G5VT" << hsNQyt3CGS(Ix8_Vd3, (unsigned char)1103911144, (short)-2033908597, (char)-2035744125) << hsNQyt3CGS(-1232646104, Zd9dC, (short)-897410735, -1612849223) << std::endl;
+std::cout << "cdrJvE" << "g0kqw4G5VT" << hsNQyt3CGS(Ix8_Vd3, (unsigned char)1103911144, (short)-2033908597, (char)-2035744125) << hsNQyt3CGS(-1232646104, Zd9dC, (short)-897410735, (char)-1612849223) << std::endl;
 }
 }
 else if (Mu6ns_i5ms & Jcf_4_Uy7)
@@ -663,7 +663,7 @@ case 7:
 Mu6ns_i5ms = (int)abs(eaz9i);
 break;
 case 8:
-eaz9i = hsNQyt3CGS(Z2m9eN2F, (unsigned char)1062016880, (short)2038581153, -1722963369);
+eaz9i = hsNQyt3CGS(Z2m9eN2F, (unsigned char)1062016880, (short)2038581153, (char)-1722963369);
 break;
 case 9:
 Vve39 = hsNQyt3CGS(Ix8_Vd3, -1342178556, 1769905451, z83UI4Lh7);

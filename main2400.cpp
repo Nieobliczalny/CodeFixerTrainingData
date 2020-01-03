@@ -27,7 +27,7 @@ int main(int argc, char** argv)
     double    DCl8zFLVw3    =    -593002254;
   double  awSq5449  =  -359404543;
   double  TZQ1  =  1370761045;
-  unsigned char  LQnt  =  -542488136;
+  unsigned char  LQnt  =  (unsigned char)-542488136;
   short  KX1K7hOF  =  (short)-274026744;
     unsigned short    f11apS3rM    =    (unsigned short)-273297756;
     unsigned long    PrlW4    =    -2144725830;

@@ -26,7 +26,7 @@ int main(void) {
  short int JwfiV = (short)-1754115789;
   unsigned long  EM7wQhgh  =  0;
     unsigned char    zwRGBr    =    0;
-    unsigned short    bbZJR064y    =    -1726065786;
+    unsigned short    bbZJR064y    =    (unsigned short)-1726065786;
     long double    EX3w    =    1565895498;
  unsigned long W70JxGbiO = -179178028;
 	float	dFpkDaaklG	=	454754340;

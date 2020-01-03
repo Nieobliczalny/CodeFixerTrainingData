@@ -462,7 +462,7 @@ case 'f':
 xojX = H9V_pHm_E(xojX, (unsigned char)1830178605, (short)-34389360, 461249120);
 break;
 case 'g':
-XYqhW__NtW = h54RKd(-922119045, pp1Db, -770387258);
+XYqhW__NtW = h54RKd(-922119045, pp1Db, (unsigned char)-770387258);
 break;
 case 'h':
 B0urO = iAjrCA06S((char)162522038, oZ03VbVa);

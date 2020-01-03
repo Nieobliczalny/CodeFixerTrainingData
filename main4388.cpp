@@ -342,7 +342,7 @@ CF__y = V6QzR19NBb((char)-562786580, (unsigned char)-157306492);
 }
 else if (((yaV3M75) || (g92kl76 == 1086248770)) || (rB_Hl <= -249815329))
 {
-sHan5O = (TLhTdeOzPi <= yaV3M75) ? V6QzR19NBb(vOgH7Ye0f, (unsigned char)1458833721) : V6QzR19NBb(-340292912, -954344088);
+sHan5O = (TLhTdeOzPi <= yaV3M75) ? V6QzR19NBb(vOgH7Ye0f, (unsigned char)1458833721) : V6QzR19NBb((char)-340292912, -954344088);
 }
 else
 {

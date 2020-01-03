@@ -18,7 +18,7 @@ int main(void)
   long double  Wd5Gq  =  -1580614933;
     short    Bo_n7    =    (short)-1886419787;
     unsigned short    b7uAs_GX0    =    (unsigned short)-1228769522;
-	unsigned short	yw3U06Q	=	434916783;
+	unsigned short	yw3U06Q	=	(unsigned short)434916783;
   unsigned int  T7T30Dj  =  0;
  float QTJ1 = -396704352;
     double    t33g586    =    1249068252;

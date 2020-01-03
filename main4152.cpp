@@ -51,7 +51,7 @@ int main(void)
     unsigned short    g9YgGM;
     g9YgGM    =    (unsigned short)-1604651589;
   char  g90jr5r0l;
-  g90jr5r0l  =  1857796075;
+  g90jr5r0l  =  (char)1857796075;
 	long	Fddl76d;
 	Fddl76d	=	-2107622645;
     short    a_h593sCX;
@@ -63,7 +63,7 @@ int main(void)
 	unsigned short int	m_ywqK0mr_;
 	m_ywqK0mr_	=	(unsigned short)-2032034915;
     unsigned short    c5c1LnJ1Gx;
-    c5c1LnJ1Gx    =    -1370660231;
+    c5c1LnJ1Gx    =    (unsigned short)-1370660231;
     short int    onNX5;
     onNX5    =    (short)876637167;
  unsigned short P7sR7;

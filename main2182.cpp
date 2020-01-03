@@ -40,7 +40,7 @@ int main(void) {
 	short	Tzc8d656	=	(short)1847028634;
  unsigned long N_DQ = -75579091;
  unsigned char dp6j7i40 = (unsigned char)670796747;
-  unsigned short int  dL_6eNp0J9  =  1260922217;
+  unsigned short int  dL_6eNp0J9  =  (unsigned short)1260922217;
   char  H_5QpJJ2P4  =  (char)-501993871;
 	long long	ovVJIqd	=	0;
  unsigned short URV_8842F = 0;
@@ -104,7 +104,7 @@ p3B_7Hau = (unsigned long)(p5_bt7n + (884284949));
 int i = 9;
 do
 {
-std::cout << fUzP67Q(DqXy, URV_8842F, (short)-206836830, BZ0EIQk, M4232l) << "Roj6" << fUzP67Q((unsigned short)2038103163, URV_8842F, (short)-983177189, (short)-1522604903, 2019094278) << or00pmQ() << dp6j7i40 << std::endl;
+std::cout << fUzP67Q(DqXy, URV_8842F, (short)-206836830, BZ0EIQk, M4232l) << "Roj6" << fUzP67Q((unsigned short)2038103163, URV_8842F, (short)-983177189, (short)-1522604903, (unsigned char)2019094278) << or00pmQ() << dp6j7i40 << std::endl;
 --i;
 }
 while (i >= 0);
@@ -177,7 +177,7 @@ ovVJIqd = or00pmQ();
 break;
 case 'j':
 case 'J':
-I79V1r = fUzP67Q(I79V1r, dL_6eNp0J9, BZ0EIQk, (short)-696412701, -185852526);
+I79V1r = fUzP67Q(I79V1r, dL_6eNp0J9, BZ0EIQk, (short)-696412701, (unsigned char)-185852526);
 break;
 }
 
@@ -468,7 +468,7 @@ break;
 }
 else
 {
-I79V1r = nS800OS_(I79V1r, (unsigned short)1861490905, URV_8842F, 435254274);
+I79V1r = nS800OS_(I79V1r, (unsigned short)1861490905, URV_8842F, (short)435254274);
 }
 }
 

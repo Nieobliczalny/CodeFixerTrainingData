@@ -466,7 +466,7 @@ case 5:
 OLFT9_pN = X0_VNe8((short)-1326483899, UC5ngL, (char)-182026619) / nhA8d64g;
 break;
 case 6:
-R9NV61e21S = yYVX((short)-1027544491, 2054204882, -1716961028, -1007738943);
+R9NV61e21S = yYVX((short)-1027544491, (unsigned short)2054204882, -1716961028, -1007738943);
 break;
 case 7:
 Fs44 = ee7tnIJA >> 1896416455;

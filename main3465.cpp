@@ -163,7 +163,7 @@ else if (Z79j == 180908997)
 {
 for (int k = 0; k < 1; ++k)
 {
-f3p_bX = T4xHC(-1767089122, fadyDL, (char)1000713726, 1632919140);
+f3p_bX = T4xHC(-1767089122, fadyDL, (char)1000713726, (unsigned short)1632919140);
 }
 }
 else if (((f3p_bX >= -1487580006) || (G_NI1s & fadyDL)) && (dv5vHJOj < 1313439993))

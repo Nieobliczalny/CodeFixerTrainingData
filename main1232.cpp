@@ -45,7 +45,7 @@ int main(void)
  short int Bq3l8l30Tp;
  Bq3l8l30Tp = (short)-568331927;
  unsigned short ba8n_0nZ;
- ba8n_0nZ = -1412586655;
+ ba8n_0nZ = (unsigned short)-1412586655;
   unsigned int  LQ1XsG;
   LQ1XsG  =  1988917037;
  long long T0xD;

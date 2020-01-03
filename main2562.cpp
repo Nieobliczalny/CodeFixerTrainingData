@@ -377,7 +377,7 @@ case 4:
 V44Q1J80 = RD05k7C((short)1581515964);
 break;
 case 5:
-Fkn64P = E7r_na(-1192729814, 1747261093);
+Fkn64P = E7r_na((unsigned char)-1192729814, 1747261093);
 break;
 case 6:
 V44Q1J80 = (h_h_mt <= X3bL7) ? -1472703910 : WX9Xs86B2;

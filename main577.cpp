@@ -18,7 +18,7 @@ int main(void) {
   D9Dd7  =  (short)-496792145;
   y1rLM9Y83y  =  (short)157621277;
   utz38  =  (short)-333238712;
-  P4oj  =  1794371320;
+  P4oj  =  (short)1794371320;
   C5A_9  =  -172868076;
   O_M10r_mz7  =  1733344297;
   FI7d  =  -1139765209;
@@ -419,7 +419,7 @@ Py_QmS4 = ciS6AN(utz38, (short)516767690, (short)1702173157);
 }
 else if (D9Dd7 < 1481088285)
 {
-RbN2543 = ciS6AN((short)-240124816, -129555374, P4oj);
+RbN2543 = ciS6AN((short)-240124816, (short)-129555374, P4oj);
 }
 else if (C5A_9 <= 393858877)
 {

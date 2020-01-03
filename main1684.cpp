@@ -452,7 +452,7 @@ case 3:
 PNW0o3lf = V1V_ba3Z(H_oWQM_CqM, VK63H, (short)-5668548, MazfwD30C);
 break;
 case 4:
-m4lUyc = V1V_ba3Z(jjgG6xI, -1666150196, (short)-445176573, 743669512);
+m4lUyc = V1V_ba3Z(jjgG6xI, -1666150196, (short)-445176573, (char)743669512);
 break;
 case 5:
 PNW0o3lf = V1V_ba3Z(YR8P5GU, -1899212270, (short)-838179032, -1346292796);
@@ -585,7 +585,7 @@ case 5:
 m4lUyc = V1V_ba3Z(20356879, T09o_260, k09muN, (char)-2051508573);
 break;
 case 6:
-m4lUyc = V1V_ba3Z(rJ6497W, ZsN_8F0N, qtYY5eg, -1007697551);
+m4lUyc = V1V_ba3Z(rJ6497W, ZsN_8F0N, qtYY5eg, (char)-1007697551);
 break;
 case 7:
 u425k81 = (int)abs(YR8P5GU);

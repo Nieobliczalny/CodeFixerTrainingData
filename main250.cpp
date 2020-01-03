@@ -52,7 +52,7 @@ T41q = (int)floor(nzgc6O);
 break;
 case 'c':
 case 'C':
-UVWZ9 = A9O8qbH((unsigned short)-1780149494, P5JWp7f_5Z, xpi88_3, -1772552417, -931918330);
+UVWZ9 = A9O8qbH((unsigned short)-1780149494, P5JWp7f_5Z, xpi88_3, (unsigned char)-1772552417, -931918330);
 break;
 case 'd':
 case 'D':
@@ -109,7 +109,7 @@ mw794J = A9O8qbH((unsigned short)-686268138, 914783505, vefdDR, (unsigned char)8
 }
 else if (UVWZ9 != 739206756)
 {
-std::cout << A9O8qbH((unsigned short)1731040061, xpi88_3, (char)-254908264, 1143742910, -1813313850) << std::endl;
+std::cout << A9O8qbH((unsigned short)1731040061, xpi88_3, (char)-254908264, (unsigned char)1143742910, -1813313850) << std::endl;
 }
 else if (WR_r <= x1pu__z9D)
 {
@@ -220,7 +220,7 @@ nzgc6O = (int)ceil(T41q);
 
 std::cout << A9O8qbH((unsigned short)-1398815133, 519856786, (char)1914329715, (unsigned char)-1956020469, P5JWp7f_5Z) << std::endl;
 
-sEH4wiNw = A9O8qbH((unsigned short)302263424, sEH4wiNw, WR_r, UVWZ9, 1359947683) / A9O8qbH(mw794J, -1311529188, WR_r, 534880024, P5JWp7f_5Z);
+sEH4wiNw = A9O8qbH((unsigned short)302263424, sEH4wiNw, WR_r, UVWZ9, 1359947683) / A9O8qbH(mw794J, -1311529188, WR_r, (unsigned char)534880024, P5JWp7f_5Z);
 {
 int i = 3;
 while (i >= 0)
@@ -250,7 +250,7 @@ UVWZ9 = A9O8qbH((unsigned short)1727990199, -854631821, kTHl5, (unsigned char)13
 }
 else if (mw794J & x1pu__z9D)
 {
-UVWZ9 = A9O8qbH((unsigned short)1719727948, 210412332, WR_r, -1480542446, qmKn_77aPN);
+UVWZ9 = A9O8qbH((unsigned short)1719727948, 210412332, WR_r, (unsigned char)-1480542446, qmKn_77aPN);
 }
 else if (KK5_3CmkV <= x1pu__z9D)
 {
@@ -289,7 +289,7 @@ else
 {
 try
 {
-std::cout << "xRLI5BH" << A9O8qbH((unsigned short)1506698808, P5JWp7f_5Z, (char)1886903545, (unsigned char)2102489917, nXVkXubPc) << "bk2_pqqk_K" << A9O8qbH((unsigned short)-1942276688, P5JWp7f_5Z, -2047139459, -157517755, -572651771) << std::endl;
+std::cout << "xRLI5BH" << A9O8qbH((unsigned short)1506698808, P5JWp7f_5Z, (char)1886903545, (unsigned char)2102489917, nXVkXubPc) << "bk2_pqqk_K" << A9O8qbH((unsigned short)-1942276688, P5JWp7f_5Z, (char)-2047139459, -157517755, -572651771) << std::endl;
 }
 catch (int& errorCode)
 {

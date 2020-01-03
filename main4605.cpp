@@ -34,7 +34,7 @@ int main(int argc, char** argv)
     r91rDdt    =    (unsigned short)274228330;
     AS2HQ5LE8m    =    (unsigned short)-1081136479;
     AKa8    =    (unsigned short)-516809016;
-    aVcg9gdT87    =    708558889;
+    aVcg9gdT87    =    (unsigned short)708558889;
     I_32StPN    =    -798214184;
     KFL4CL    =    184686489;
     P521    =    -5372190;

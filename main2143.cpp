@@ -143,7 +143,7 @@ aoIfV = i_EK_((unsigned short)1298388634, ouOa, (short)-1416923763, 2140983218, 
 break;
 case 'c':
 case 'C':
-UImTK_eMs_ = g01G(UImTK_eMs_, GuAG, H5dT3pq8s, -1633382758, x0oPfg3);
+UImTK_eMs_ = g01G(UImTK_eMs_, GuAG, H5dT3pq8s, (char)-1633382758, x0oPfg3);
 break;
 case 'd':
 case 'D':
@@ -619,7 +619,7 @@ case 'a':
 O73t8 = g01G((unsigned char)-783547214, 1682587417, gk457Dk7, (char)-381538570, (short)713184417);
 break;
 case 'b':
-jEhtB8L7Ey = cc64((unsigned short)618101080, GuAG, W4K3Q51Hg, -1115101333, 1600612259);
+jEhtB8L7Ey = cc64((unsigned short)618101080, GuAG, W4K3Q51Hg, (unsigned short)-1115101333, 1600612259);
 break;
 case 'c':
 m880Rix8E = oR2KO2C6();

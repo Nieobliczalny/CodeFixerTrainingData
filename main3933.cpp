@@ -38,7 +38,7 @@ else
 {
 if (sSmu3Hrhh)
 {
-Hma3iGlsBX = Z0Oa2q(-1045626882, (unsigned char)1741310773, (char)-1021693437, 579877667);
+Hma3iGlsBX = Z0Oa2q(-1045626882, (unsigned char)1741310773, (char)-1021693437, (short)579877667);
 }
 else
 {
@@ -339,7 +339,7 @@ case 5:
 GXqp = o1Th((short)-529195550);
 break;
 case 6:
-GXqp = o1Th(1355784643);
+GXqp = o1Th((short)1355784643);
 break;
 case 7:
 i1_7r1s = q8O_L5hV << tQb6D8k8Nv;
@@ -394,7 +394,7 @@ case 5:
 Y_lqH4bz = Z0Oa2q(391863916, (unsigned char)1650365285, iWI9ga5s, xC7Ni5);
 break;
 case 6:
-j58H = Z0Oa2q(j58H, (unsigned char)769413466, R8287P0, -1398042066);
+j58H = Z0Oa2q(j58H, (unsigned char)769413466, R8287P0, (short)-1398042066);
 break;
 default:
 Y_lqH4bz = g30L3(Y_lqH4bz, -2056445910, 48786240);

@@ -41,7 +41,7 @@ int main() {
  unsigned char A_vl6ale7r = (unsigned char)-1391243420;
     float    Fk3XW    =    -1230632770;
 	unsigned int	lanyMye	=	0;
-	unsigned short int	Va8Y9X8	=	-1526457269;
+	unsigned short int	Va8Y9X8	=	(unsigned short)-1526457269;
 	unsigned short	z760sxs	=	-304427780;
   long double  skFYyz  =  -322263400;
   unsigned long  z40qPN_FLi  =  -264427378;
@@ -52,7 +52,7 @@ int main() {
  char iPxg2m = (char)1416364471;
  unsigned long long g0ZZ = -1409809828;
   long long  BaB01pU  =  -1157600162;
-  unsigned short int  R5wC9wA_6B  =  -1512107580;
+  unsigned short int  R5wC9wA_6B  =  (unsigned short)-1512107580;
 	unsigned int	E2AtGUN	=	-223801151;
     unsigned int    U6jbX    =    -522411127;
     char    X7uD4    =    (char)-65894818;
@@ -77,7 +77,7 @@ int main() {
  unsigned short Q6Pw9 = (unsigned short)-1006513708;
  double uKC81PHr = 2086653625;
     unsigned short int    M_2l6    =    (unsigned short)-313672599;
-	char	FvfI	=	-876455017;
+	char	FvfI	=	(char)-876455017;
 
 cout << "le321lS4" << "FiHf04399" << FE2joHQF(t85rKr1I0V, (char)1527681, BaB01pU, -1962931808, 664225963) << endl;
 
@@ -170,7 +170,7 @@ FsaD = (int)abs(bS5h4);
 }
 
 A3JG = kK26j(A3JG, (short)491451604, (unsigned char)1825358023, -212506607, -1478209798);
-WLtUt9BK = kK26j((char)-406022861, (short)1464561503, -53739120, t85rKr1I0V, c_Dm);
+WLtUt9BK = kK26j((char)-406022861, (short)1464561503, (unsigned char)-53739120, t85rKr1I0V, c_Dm);
 
 for (int i = 7; i >= 0; i--)
 {
@@ -436,7 +436,7 @@ case 'e':
 FvfI = (int)abs(X7uD4);
 break;
 case 'f':
-JvRXM6O = kK26j((char)196036613, (short)157293984, 1867518424, 1799771477, 932935090);
+JvRXM6O = kK26j((char)196036613, (short)157293984, (unsigned char)1867518424, 1799771477, 932935090);
 break;
 case 'g':
 pwUl_Sna -= 609168609;
@@ -515,7 +515,7 @@ case 'a':
 Q6Pw9 = kK26j((char)728680187, G6GlOxK, (unsigned char)-536091852, KUl8m6D75D, A3JG);
 break;
 case 'b':
-R5wC9wA_6B = kK26j(R5wC9wA_6B, (short)293863789, 831902947, -1981903232, iPxg2m);
+R5wC9wA_6B = kK26j(R5wC9wA_6B, (short)293863789, (unsigned char)831902947, -1981903232, iPxg2m);
 break;
 case 'c':
 M_2l6 -= 893354742;

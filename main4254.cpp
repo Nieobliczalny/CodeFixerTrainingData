@@ -126,7 +126,7 @@ FnaVq0QQ = RLSS((short)-424247088, L9v4_Hm8, 1369755259, (char)-639726348, (unsi
 }
 else
 {
-kghFn = RLSS(kghFn, -582374740, vxRJeM, (char)845441227, -189887145);
+kghFn = RLSS(kghFn, -582374740, vxRJeM, (char)845441227, (unsigned short)-189887145);
 }
 }
 }
@@ -413,7 +413,7 @@ case 1:
 wFCZ4j |= 1206640255;
 break;
 case 2:
-gB2B2 = RLSS((short)-1751401592, 641372878, -1697281995, (char)856414217, -875714874);
+gB2B2 = RLSS((short)-1751401592, 641372878, -1697281995, (char)856414217, (unsigned short)-875714874);
 break;
 case 3:
 P72cb = RLSS(b7RXu, Y3JdRoHo6, 749632035, 644365661, ElCjy07bvc);
@@ -590,7 +590,7 @@ cout << "KH96R" << RLSS((short)883923158, 53910802, L9v4_Hm8, (char)-686512613, 
 }
 else if ((wFCZ4j == -646888199) || (OXk5tZ6KT == 1774335373))
 {
-FnaVq0QQ = RLSS(T498c9QQI, FnaVq0QQ, -805985245, 940622306, YZV6g5L);
+FnaVq0QQ = RLSS(T498c9QQI, FnaVq0QQ, -805985245, (char)940622306, YZV6g5L);
 }
 else
 {
@@ -643,7 +643,7 @@ case 3:
 G9GE = RLSS(G9GE, wFCZ4j, vxRJeM, (char)279101692, (unsigned short)1011303986);
 break;
 case 4:
-T498c9QQI = DWn1((char)-459186251, -500105951, -709055251, -1844226138);
+T498c9QQI = DWn1((char)-459186251, -500105951, -709055251, (short)-1844226138);
 break;
 case 5:
 gB2B2 = KR2Y(-552981629, 1052700932, 736211982);
@@ -769,7 +769,7 @@ case 'd':
 G9GE = RLSS(G9GE, PO14nS3i1j, -1046931942, Y3JdRoHo6, YZV6g5L);
 break;
 case 'e':
-c27F = RLSS((short)867401268, 1627345142, Y3JdRoHo6, (char)1374796273, 487204512);
+c27F = RLSS((short)867401268, 1627345142, Y3JdRoHo6, (char)1374796273, (unsigned short)487204512);
 break;
 default:
 gB2B2 = RLSS(1602917540, -36636772, -140363111, FnaVq0QQ, KP3rc4OKR);

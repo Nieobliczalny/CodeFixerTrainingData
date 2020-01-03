@@ -23,7 +23,7 @@ int main(int argc, char** argv) {
  h2t775N7 = (short)50768399;
  d0BSKB = (short)-1166152535;
  nt5e2 = (short)1822711738;
- GfHp = -1751417218;
+ GfHp = (short)-1751417218;
  b685 = 1192278122;
   unsigned short int  lJdZjkv7Fx,  I7kRxwl;
   lJdZjkv7Fx  =  0;

@@ -299,7 +299,7 @@ ly09gX = G6eug((short)-2139672559, (short)1431508511, -1491110929, lwA7Yj16n, Ov
 }
 }
 yYJrL <<= 1194317553;
-ly09gX = G6eug((short)2000793131, (short)2088243870, bWfcT1FMqC, 2008842723, -1659428564);
+ly09gX = G6eug((short)2000793131, (short)2088243870, bWfcT1FMqC, (char)2008842723, -1659428564);
 VsweC = (unsigned short int)(c8w0od);
 {
 int i = 0;
@@ -618,7 +618,7 @@ ly09gX = G6eug((short)71992783, IoSYWo_1zR, f7C7D, soB_9W, -205536411);
 break;
 case 'f':
 case 'F':
-ly09gX = G6eug((short)-1634489112, (short)-1636549312, 1609779132, -511294229, 239105827);
+ly09gX = G6eug((short)-1634489112, (short)-1636549312, 1609779132, (char)-511294229, 239105827);
 break;
 case 'g':
 case 'G':

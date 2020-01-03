@@ -61,7 +61,7 @@ int main(void)
  short int Hig0_j_y;
  Hig0_j_y = (short)-612057603;
  unsigned short int zdqgWv;
- zdqgWv = 422526189;
+ zdqgWv = (unsigned short)422526189;
 	unsigned char	ga86MPqZrA;
 	ga86MPqZrA	=	(unsigned char)-46441345;
     unsigned short    WF4S044;
@@ -236,7 +236,7 @@ case 3:
 W5sr_myN = (int)floor(RmWH8);
 break;
 case 4:
-uQSv8 = bCVQH9iS5G(CX3_K6, -1828727532, (short)24171609, -1843686374);
+uQSv8 = bCVQH9iS5G(CX3_K6, -1828727532, (short)24171609, (short)-1843686374);
 break;
 case 5:
 sy6__C = (int)ceil(yftnjMs);
@@ -346,7 +346,7 @@ W5sr_myN = (int)abs(VJf_CzVi2);
 
 if (q4D5pQA_ <= bso2DO9)
 {
-std::cout << "OfS1M" << BzWgWZHMK8 << BzWgWZHMK8 << hiwxQ9L3c((unsigned short)-1338901437, ms08L, 1235324421, 401295523, -708220899) << "WGxOE" << std::endl;
+std::cout << "OfS1M" << BzWgWZHMK8 << BzWgWZHMK8 << hiwxQ9L3c((unsigned short)-1338901437, ms08L, (char)1235324421, 401295523, -708220899) << "WGxOE" << std::endl;
 }
 else if (wbmD34o < PhVlV)
 {
@@ -448,7 +448,7 @@ q4D5pQA_ -= 949543712;
 
 std::cout << hiwxQ9L3c((unsigned short)-1912617526, vGQ32, (char)270650401, G4lBH71b40, (unsigned short)560519527) << m3f1a << Fo719iSkGy << uQSv8 << std::endl;
 
-W5sr_myN = a9QPRNeV(820095869, -174757126, VJf_CzVi2, -3045107, 1228522059);
+W5sr_myN = a9QPRNeV(820095869, (short)-174757126, VJf_CzVi2, -3045107, 1228522059);
 if (sNgQoO != J1qR)
 {
 switch (G4lBH71b40)

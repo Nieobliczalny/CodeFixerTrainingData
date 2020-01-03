@@ -28,7 +28,7 @@ int	cZ51Ykg6(unsigned short int	d43W,unsigned long long	P9H32W0t,unsigned long	v
 int main(void)
 {
     long    xHJ88U4yH    =    0;
- short int Ah9F_Hv3 = (short)707678527, Ie6IT_z = (short)853036019, CNn9i = (short)734356983, UC22vFrrR = (short)2023483575, w41u3h36_ = 1949160890, wt489g = -707675947;
+ short int Ah9F_Hv3 = (short)707678527, Ie6IT_z = (short)853036019, CNn9i = (short)734356983, UC22vFrrR = (short)2023483575, w41u3h36_ = (short)1949160890, wt489g = -707675947;
 
 std::cout << xHJ88U4yH << std::endl;
 if (CNn9i != w41u3h36_)

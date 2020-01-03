@@ -24,7 +24,7 @@ int main() {
  unsigned short int uaCa09 = (unsigned short)538889404;
 	long double	Rt4CodYO	=	-1905237584;
     float    DeyMoZ    =    -1289883614;
- unsigned char M8Sd1K1S7m = 967432232;
+ unsigned char M8Sd1K1S7m = (unsigned char)967432232;
  float j9_MN = 918569751;
  long double Y49V9 = -1764730607;
   float  D7Tidj4Js  =  1004159513;
@@ -38,7 +38,7 @@ int main() {
  long long QY9_R = -192651331;
  unsigned char V_TH = (unsigned char)644860344;
   unsigned long  t9G_66  =  825790274;
-  unsigned short  sv6H9sMh  =  -681049842;
+  unsigned short  sv6H9sMh  =  (unsigned short)-681049842;
     unsigned short    mMTG2xj    =    465376331;
     unsigned short int    y91foA0r8s    =    (unsigned short)2147108947;
   short  Dif89xVnJ  =  (short)247440361;
@@ -61,7 +61,7 @@ int main() {
     short    ltctSUD    =    (short)344825300;
  float v8Y6f = 1172085395;
 	unsigned char	Xr2_d	=	(unsigned char)683288747;
-  unsigned char  a5kEkm  =  704971347;
+  unsigned char  a5kEkm  =  (unsigned char)704971347;
 	unsigned long long	dtnG_gq	=	-825081371;
 	int	l8t87BY	=	1128572753;
 	unsigned int	Ne_j	=	1518468127;
@@ -84,7 +84,7 @@ int main() {
  unsigned short U80e = (unsigned short)698754524;
     unsigned char    PTT97_34    =    (unsigned char)-145540503;
  unsigned char DNw0r81 = (unsigned char)-1282689530;
-    unsigned char    O_2GEkd5Hc    =    -924761938;
+    unsigned char    O_2GEkd5Hc    =    (unsigned char)-924761938;
 	unsigned short int	S_Vi38	=	-1780668544;
   int  Qrh3EG  =  0;
 	unsigned int	V5P_QuUBMZ	=	1360817134;
@@ -98,7 +98,7 @@ int main() {
 
 for (int i = 2; i >= 0; --i)
 {
-std::cout << EdZ5H((char)-1955133843, -301429923, 268934495) << v8Y6f << "NQHn1V" << std::endl;
+std::cout << EdZ5H((char)-1955133843, -301429923, (unsigned short)268934495) << v8Y6f << "NQHn1V" << std::endl;
 }
 
 switch (y91foA0r8s)

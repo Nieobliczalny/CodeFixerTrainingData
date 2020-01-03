@@ -41,7 +41,7 @@ int main() {
  unsigned short int VOHZ = (unsigned short)-2110006792;
     char    kP7U    =    (char)847459634;
     long    gf2k    =    651847068;
-    unsigned short    UKQIsKj6en    =    1365947407;
+    unsigned short    UKQIsKj6en    =    (unsigned short)1365947407;
  unsigned int PNb8Wd6aO_ = -2005934768;
   unsigned short  m_RC6  =  0;
     char    Hb_7ZfXn    =    (char)-616135420;
@@ -230,7 +230,7 @@ m_RC6 = (unsigned short)(E3P_nZ1G * (f17I66));
 Rg9yf = ibF1();
 E3P_nZ1G = h7Zww(E3P_nZ1G);
 E3P_nZ1G = E3P_nZ1G % Hb_7ZfXn;
-MK0o_47bZI = sBxnd5Q_8(O7lfIcQB29, (unsigned char)-1583947754, PNb8Wd6aO_, 1256233738);
+MK0o_47bZI = sBxnd5Q_8(O7lfIcQB29, (unsigned char)-1583947754, PNb8Wd6aO_, (unsigned short)1256233738);
 if (PNb8Wd6aO_ < UKQIsKj6en)
 {
 MK0o_47bZI = (long)(gf2k * (f17I66));

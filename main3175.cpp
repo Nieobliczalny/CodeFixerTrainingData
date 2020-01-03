@@ -37,7 +37,7 @@ int main() {
  short r_3Bf1x = 0;
  unsigned char Ye96Du99w = (unsigned char)-2115256418;
     unsigned char    fGWp_U0    =    0;
-  unsigned short int  jXc4v  =  739025190;
+  unsigned short int  jXc4v  =  (unsigned short)739025190;
 	unsigned long long	u6R8	=	-1299028635;
  short int IHx7e = 2116922743;
   unsigned long  sWzp0  =  1748699514;

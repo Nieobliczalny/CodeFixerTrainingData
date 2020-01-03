@@ -30,7 +30,7 @@ int main(int argc, char** argv)
     float    xXU3v    =    -1714062642;
   long double  CtUS6I7u  =  -2042527109;
     unsigned long long    si4dXk    =    761209019;
-	unsigned short int	x4BmZQ	=	1306695490;
+	unsigned short int	x4BmZQ	=	(unsigned short)1306695490;
 	unsigned long long	vNR9b7D	=	79772420;
  float O51qtO0 = 2123565588;
     long long    w6qNfE4F    =    -1162079068;
@@ -41,7 +41,7 @@ int main(int argc, char** argv)
  short Kv4hfK = (short)201114699;
   unsigned int  b0L5  =  1303725652;
     unsigned char    xQ7__    =    (unsigned char)-924259979;
-  unsigned short int  p5957  =  -777676027;
+  unsigned short int  p5957  =  (unsigned short)-777676027;
     unsigned int    dqlw5F6Hy    =    1503781408;
     char    v4o745    =    785957506;
     unsigned long    ASF38X2R4    =    -136567593;
@@ -53,7 +53,7 @@ int main(int argc, char** argv)
 	unsigned char	t0Gc	=	(unsigned char)1861018427;
     float    nfxD461Q    =    1910942978;
     unsigned short    Qsy966d    =    (unsigned short)-567015976;
- short Lv62Or = -1583944521;
+ short Lv62Or = (short)-1583944521;
 	unsigned long	qQLXNG8	=	6582372;
   long long  uFLGdq  =  -851451511;
     long double    PALXOJf    =    -1480444420;
@@ -74,7 +74,7 @@ int main(int argc, char** argv)
  unsigned char mW3M7C = (unsigned char)-1953877365;
     float    ZS1_BW    =    -1568462781;
  long double NGWmNefy = 1007307644;
-	unsigned short int	qKaJgY5CE	=	1390371121;
+	unsigned short int	qKaJgY5CE	=	(unsigned short)1390371121;
 	long long	DGw4dPc054	=	-1621670076;
     short int    WD0nM    =    69558036;
     unsigned short int    Ip0MI    =    0;
@@ -101,7 +101,7 @@ int main(int argc, char** argv)
     int    gL3m73v2    =    -1824982866;
  unsigned char x_9j389_vb = (unsigned char)-1100042410;
  unsigned long BWgffh4ftm = -1827290909;
- unsigned short int EM3A1_KpkL = 1445830524;
+ unsigned short int EM3A1_KpkL = (unsigned short)1445830524;
     short    Sni9    =    (short)652088482;
  short int Se_QEn = (short)-737254652;
   unsigned char  g_Q8NSakUy  =  1330594233;

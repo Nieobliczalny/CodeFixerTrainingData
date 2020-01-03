@@ -250,7 +250,7 @@ case 'f':
 p_7y -= 1985837620;
 break;
 case 'g':
-FVf232Y2_ = J42i5(FVf232Y2_, ghedeq2, -343844975, UtD16C, Hi6eq5F);
+FVf232Y2_ = J42i5(FVf232Y2_, ghedeq2, (unsigned short)-343844975, UtD16C, Hi6eq5F);
 break;
 case 'h':
 Z64MjRWd -= 892246864;

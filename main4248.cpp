@@ -540,7 +540,7 @@ Ydrym = NO6HtbD8V(vQSGRf356e, (unsigned short)889075659, (unsigned short)-138396
 }
 std::cout << NO6HtbD8V(vQSGRf356e, EUngqsV5, DzBS1m_W2A, 681401461) << NO6HtbD8V(vQSGRf356e, (unsigned short)-1547575099, (unsigned short)805421031, TI1kfAwp91) << std::endl;
 
-Nr2E1CkSwo = NO6HtbD8V(T4o5_2h, 324171787, 949965128, XaKo);
+Nr2E1CkSwo = NO6HtbD8V(T4o5_2h, (unsigned short)324171787, 949965128, XaKo);
 
 EUngqsV5 = oW4xuZ << 1884972194;
 

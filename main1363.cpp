@@ -36,7 +36,7 @@ case 2:
 YYb5M7 = S99tuDgG((short)-630872112, (unsigned short)806725426) + my3249cl6;
 break;
 case 3:
-d4F9G00 = S99tuDgG((short)-155888586, 1194174888);
+d4F9G00 = S99tuDgG((short)-155888586, (unsigned short)1194174888);
 break;
 case 4:
 d4F9G00 = S99tuDgG(1535216319, -1486344162);
@@ -351,7 +351,7 @@ case 'h':
 d4F9G00 = S99tuDgG((short)1110776290, A_b0);
 break;
 case 'i':
-IE7Z_z6Lj = S99tuDgG(S4DxMG9K, 1098678616) & R_6_ZX;
+IE7Z_z6Lj = S99tuDgG(S4DxMG9K, (unsigned short)1098678616) & R_6_ZX;
 break;
 case 'j':
 d4F9G00 = S99tuDgG(mm6_6_U0ao, (unsigned short)1338464798);

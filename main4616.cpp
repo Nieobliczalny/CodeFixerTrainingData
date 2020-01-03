@@ -306,7 +306,7 @@ pEZQ0 = fEH81m(-1431713096, (unsigned short)1971814014, (unsigned short)11273705
 break;
 case 'h':
 case 'H':
-J9MzguB1 = fEH81m(J9MzguB1, (unsigned short)448386732, -703845496, t8xCG, nM9BO1_);
+J9MzguB1 = fEH81m(J9MzguB1, (unsigned short)448386732, (unsigned short)-703845496, t8xCG, nM9BO1_);
 break;
 case 'i':
 case 'I':

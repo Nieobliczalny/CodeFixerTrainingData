@@ -43,7 +43,7 @@ int main(int argc, char** argv)
  unsigned char pAXe_Spu3X;
  pAXe_Spu3X = (unsigned char)-897728905;
  unsigned char YFj_fz;
- YFj_fz = -1783287138;
+ YFj_fz = (unsigned char)-1783287138;
   unsigned long  znp7S;
   znp7S  =  -1309641655;
 	unsigned int	fRp6I3ffwI;

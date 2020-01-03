@@ -145,7 +145,7 @@ int main(void)
  char wMxt;
  wMxt = (char)-306306016;
     short    kPi5DCxN;
-    kPi5DCxN    =    -1411469447;
+    kPi5DCxN    =    (short)-1411469447;
   float  a7Pxe;
   a7Pxe  =  1650221647;
   long double  H1V6Oz4y;

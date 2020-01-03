@@ -22,7 +22,7 @@ int main(void)
     unsigned char    NSCYb    =    (unsigned char)-649368009;
 	unsigned char	gIKvi	=	(unsigned char)998990784;
 	long long	VB6YP57	=	1869729167;
- char SUAF = 815115478;
+ char SUAF = (char)815115478;
     unsigned long long    i8vM0Q    =    -25188301;
 	unsigned long	Ims_	=	0;
     unsigned long    k2_21R4HcA    =    103498100;

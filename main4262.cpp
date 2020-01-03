@@ -24,7 +24,7 @@ int main()
  nrbx4pH = (unsigned short)-642443485;
  W7G_I = (unsigned short)-870803232;
  eI8_ = (unsigned short)1706363715;
- yYx2MNx08 = -1480664930;
+ yYx2MNx08 = (unsigned short)-1480664930;
  Yaws40Wz = -2064624480;
     char    YmR1c,    buqliKoics,    IKF7s37E4,    Ek0zEpT9,    dGax1Epue;
     YmR1c    =    0;

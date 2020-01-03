@@ -31,7 +31,7 @@ int main(void)
   unsigned long  hszi  =  -1988618956;
     unsigned short    oBBN    =    (unsigned short)791919562;
     unsigned int    GJ6xv    =    -569673894;
-	unsigned char	q2N_	=	1363413415;
+	unsigned char	q2N_	=	(unsigned char)1363413415;
  unsigned long long Uanzw = 1003274676;
  float qt93Mu_ = 952474054;
   int  NQf0iwe699  =  -1602590573;

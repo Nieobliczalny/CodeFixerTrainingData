@@ -183,7 +183,7 @@ int main(void)
 	short int	qn_hsUU16a;
 	qn_hsUU16a	=	(short)1371633184;
   short int  WmYpL2f;
-  WmYpL2f  =  1952487033;
+  WmYpL2f  =  (short)1952487033;
     short    VDyL4KM45;
     VDyL4KM45    =    (short)1372298689;
     unsigned int    tZNQ5yGW1;

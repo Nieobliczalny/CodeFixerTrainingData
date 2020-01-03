@@ -39,7 +39,7 @@ int main(int argc, char** argv) {
   int  LQ407  =  -234582419;
 	short	a3C6EF	=	(short)-1604815826;
   float  DAK81O  =  -1351288693;
-  unsigned char  V_L_  =  -896310151;
+  unsigned char  V_L_  =  (unsigned char)-896310151;
  long double R_3FiMg5 = 412313359;
  double uuhi = 2073506331;
  long double Oa4hTT = 1024939452;
@@ -51,7 +51,7 @@ int main(int argc, char** argv) {
     short    i34n47m    =    (short)445596162;
   int  qJGa0  =  -128204160;
   unsigned int  dx4z  =  -1812422630;
-  short  Sam_  =  516902894;
+  short  Sam_  =  (short)516902894;
   long  C6KJ  =  1708611741;
 	short int	vVg0CeN9QK	=	(short)1346016360;
  long long G8hA = 1803902941;
@@ -92,7 +92,7 @@ SrT4m1 = xNc39IH / Mo4qW7_N((unsigned short)1951149788, TWDTX49);
 
 R_3FiMg5 -= m5OY;
 
-Zmg0z34gNc = jJ4e7DU((unsigned short)-443157090, m5OY, GJTAjD, -1273304336, 246914089);
+Zmg0z34gNc = jJ4e7DU((unsigned short)-443157090, m5OY, GJTAjD, -1273304336, (unsigned char)246914089);
 
 if (Fmm2ZBe8i1 != dJ__Dz0I)
 {

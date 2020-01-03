@@ -246,7 +246,7 @@ case 3:
 ix0dnas1p = YKI488RAa3((char)-1582026367, q1oCOqB3, (short)-1159980380, i9PprP7W, 713449978);
 break;
 case 4:
-FljYCMT6r2 = UTUx0(-1596899938, YKC8FQBs, ix0dnas1p, -2041092498, 722689956);
+FljYCMT6r2 = UTUx0((unsigned short)-1596899938, YKC8FQBs, ix0dnas1p, -2041092498, 722689956);
 break;
 case 5:
 N4vsnU_m = UTUx0(N4vsnU_m, (unsigned short)681104868, -1535683514, (unsigned short)1523608725, 1337129864);
@@ -592,7 +592,7 @@ case 'a':
 ix0dnas1p = UTUx0((unsigned short)1848840225, (unsigned short)-982220503, iy_WybE3, PR0e23Gzm5, (unsigned short)-18501006);
 break;
 case 'b':
-R7O4m0 = UTUx0((unsigned short)-1641899728, u8ri6i, c2qp_IokE5, oikWUT, 845914801);
+R7O4m0 = UTUx0((unsigned short)-1641899728, u8ri6i, c2qp_IokE5, oikWUT, (unsigned short)845914801);
 break;
 case 'c':
 cnaeUH193w = d_Zh % put5;
@@ -644,7 +644,7 @@ case 'b':
 D3ixC2 = UTUx0((unsigned short)-910931211, H87eAJ, 43821712, (unsigned short)1114227514, (unsigned short)543764891);
 break;
 case 'c':
-JkRv1KZ = YKI488RAa3((char)91541715, uEOVozOc4, -317816436, -1769908599, 1472332097);
+JkRv1KZ = YKI488RAa3((char)91541715, uEOVozOc4, (short)-317816436, -1769908599, 1472332097);
 break;
 case 'd':
 Ajn0F *= 1138685474;

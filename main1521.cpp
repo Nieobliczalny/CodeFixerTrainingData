@@ -218,7 +218,7 @@ case 'g':
 IhCcK = rlB5g(IhCcK, 941334171, V2YI8NX, 1428357822, (unsigned short)-1096695470);
 break;
 case 'h':
-o7ZWd = rlB5g(o7ZWd, 1830621735, (short)-77844381, 1739325265, -967752512);
+o7ZWd = rlB5g(o7ZWd, 1830621735, (short)-77844381, 1739325265, (unsigned short)-967752512);
 break;
 default:
 f78x11cu_ = M10Xe();

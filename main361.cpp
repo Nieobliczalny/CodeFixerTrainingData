@@ -134,7 +134,7 @@ int main(void)
  char Ca_N5;
  Ca_N5 = (char)-1835573884;
 	char	Ea56E751C;
-	Ea56E751C	=	-751533239;
+	Ea56E751C	=	(char)-751533239;
   unsigned long long  YkhKv2;
   YkhKv2  =  470519982;
   short  f4b7;
@@ -160,7 +160,7 @@ int main(void)
   unsigned short  El_a6v;
   El_a6v  =  (unsigned short)-294240993;
 	unsigned char	Qv95GIrQ2_;
-	Qv95GIrQ2_	=	-343577771;
+	Qv95GIrQ2_	=	(unsigned char)-343577771;
  long double zmb9;
  zmb9 = -240376716;
     unsigned int    CvcDtsTE;

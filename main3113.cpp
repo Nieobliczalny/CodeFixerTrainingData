@@ -44,7 +44,7 @@ int main() {
     char    vvc2PvS4    =    (char)-125766884;
 	unsigned int	Z74936	=	1241223993;
 	long	NJwR	=	-1054765700;
- char N00dbm_5 = -1339023164;
+ char N00dbm_5 = (char)-1339023164;
  char e3B_1_DR = (char)1721549178;
   double  ho0an6thLB  =  245275729;
 	char	y839L_T	=	(char)-1903295874;

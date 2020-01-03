@@ -44,7 +44,7 @@ int main(void)
     long long    zxns0376e    =    -487172589;
     unsigned short    wCp9    =    0;
 	unsigned short int	Duv3PQfv2	=	(unsigned short)-91357722;
- char JABd7l = 485876340;
+ char JABd7l = (char)485876340;
     float    D9e48C    =    1070409322;
   long long  xP478_1  =  769217159;
     char    rpDaMD    =    (char)-720966048;
@@ -56,7 +56,7 @@ int main(void)
   char  m2Aj36cx7  =  (char)552491439;
   unsigned int  N28CElL  =  -1460731832;
  unsigned int MTizMESi0 = 1425798247;
-    short int    GSJU    =    -788885308;
+    short int    GSJU    =    (short)-788885308;
     double    v43Iz68X7    =    -507861107;
     short int    AGuM2    =    (short)-356708414;
  unsigned long H00_V45V = -2028600788;
@@ -433,7 +433,7 @@ cout << CLft596lyq << zxns0376e << P4wi0oJ(-777909903, (unsigned short)-95624827
 
 try
 {
-g2w0GPA8D = P4wi0oJ(C041e, (unsigned short)-84768277, -820775390, -939271323, -770460734) >> 951942405;
+g2w0GPA8D = P4wi0oJ(C041e, (unsigned short)-84768277, (char)-820775390, -939271323, -770460734) >> 951942405;
 }
 catch (int& errorCode)
 {
@@ -833,7 +833,7 @@ case 2:
 wCp9 = kOFz_90YQ((short)1210654598, h7oI);
 break;
 case 3:
-xjGgT44 = P4wi0oJ(849185142, -653916365, 1184821129, N28CElL, zMrl0h7p58) - Bo__;
+xjGgT44 = P4wi0oJ(849185142, (unsigned short)-653916365, 1184821129, N28CElL, zMrl0h7p58) - Bo__;
 break;
 }
 }

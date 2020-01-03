@@ -115,7 +115,7 @@ case 1:
 Nd9V = (int)abs(y7ePc);
 break;
 case 2:
-mPIR0 = O94G6ixP4S(mPIR0, (short)-1886802189, -254714570, K79At4jHz);
+mPIR0 = O94G6ixP4S(mPIR0, (short)-1886802189, (unsigned short)-254714570, K79At4jHz);
 break;
 default:
 c40sj4 ^= 1685832764;

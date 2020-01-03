@@ -20,7 +20,7 @@ int main(void)
 	double	w5g9	=	1016660224;
   unsigned long long  Q__6Ou7  =  -675169586;
   unsigned short int  ouUd  =  (unsigned short)1375160770;
-  short int  RgH8t0vg7t  =  2004414773;
+  short int  RgH8t0vg7t  =  (short)2004414773;
 	long long	E2ukv_GRl	=	-1046972365;
 	char	dNWH_M_	=	0;
  unsigned short d9oF8_l = (unsigned short)1191785771;
@@ -57,7 +57,7 @@ int main(void)
   unsigned char  YVL6TgG  =  (unsigned char)-789759106;
  unsigned short GUNe = (unsigned short)-1183404663;
   double  exKZ1n_LI  =  1968526770;
- short vXIJf3loDj = -460905213;
+ short vXIJf3loDj = (short)-460905213;
 	long	i8ruw	=	-1541977766;
     short    WdA3zJTx    =    2121247697;
 	long double	Td5G76	=	-2012307357;
@@ -263,7 +263,7 @@ break;
 while (i >= 0);
 }
 
-Xi7TD5Y4 = GsoBvV((short)-1058570496, (short)26617261, 809858183, -849479474, -424341);
+Xi7TD5Y4 = GsoBvV((short)-1058570496, (short)26617261, (char)809858183, -849479474, -424341);
 
 if (((RxKtf <= Kd7_4tVUz) || (Rv_w73)) || (z9hc > S6MlSJcSo))
 {
@@ -380,7 +380,7 @@ case 2:
 I8WzX6p2RH++;
 break;
 case 3:
-Xi7TD5Y4 = GsoBvV(-1107113624, 914791914, 1620937366, w5g9, hJOI5);
+Xi7TD5Y4 = GsoBvV((short)-1107113624, 914791914, 1620937366, w5g9, hJOI5);
 break;
 case 4:
 hYR_E_lY = (int)ceil(Rv_w73);
@@ -467,7 +467,7 @@ case 3:
 Ff73 = (int)abs(WRVsTY3Cg) * 0;
 break;
 case 4:
-dNWH_M_ = GsoBvV((short)1999521377, (short)93172816, 582755184, 39304826, WF7W1RiMa9);
+dNWH_M_ = GsoBvV((short)1999521377, (short)93172816, (char)582755184, 39304826, WF7W1RiMa9);
 break;
 case 5:
 dNWH_M_ = GsoBvV(x4aY6jV, i8ruw, d9oF8_l, -198915724, -1573741932);
@@ -651,7 +651,7 @@ case 4:
 E2ukv_GRl <<= 1010374304;
 break;
 case 5:
-Ff73 = GsoBvV((short)1196784891, GUNe, E2ukv_GRl, ouUd, -1562974115);
+Ff73 = GsoBvV((short)1196784891, GUNe, E2ukv_GRl, ouUd, (unsigned short)-1562974115);
 break;
 }
 }
@@ -846,7 +846,7 @@ case 'd':
 Rv_w73 = (int)ceil(WRVsTY3Cg);
 break;
 case 'e':
-Xi7TD5Y4 = GsoBvV(I8ay7, I8WzX6p2RH, zuqNBj0X70, VF0z, -178380207);
+Xi7TD5Y4 = GsoBvV(I8ay7, I8WzX6p2RH, zuqNBj0X70, VF0z, (unsigned short)-178380207);
 break;
 case 'f':
 w5g9 = (int)ceil(WRVsTY3Cg);

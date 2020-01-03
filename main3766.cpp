@@ -28,7 +28,7 @@ int main(int argc, char** argv)
  char ZR_b = (char)-689115992;
   unsigned long  ApDG6  =  0;
  char OY2vrrzcKY = (char)1464818446;
-	char	J21Ui	=	1927121100;
+	char	J21Ui	=	(char)1927121100;
     float    A02_pXN7N    =    -942414612;
 	unsigned char	Io_5PM7	=	-1897282444;
   long long  y1AnU7a  =  -1884489070;

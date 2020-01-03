@@ -65,7 +65,7 @@ int main(void)
     short int    DJCGK;
     DJCGK    =    (short)1572808472;
 	unsigned char	PgGO_d;
-	PgGO_d	=	1850121544;
+	PgGO_d	=	(unsigned char)1850121544;
   short int  pKn7c9rm61;
   pKn7c9rm61  =  (short)-1556959194;
     short int    T406;

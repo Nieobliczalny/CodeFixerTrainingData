@@ -318,7 +318,7 @@ case 'g':
 Rt1T = A5gE_D3(Rt1T, (unsigned short)-818400672, TmYEH1oTT);
 break;
 default:
-A0_rRHyV5 = A5gE_D3((short)-1946917279, 1033939115, -1912379604);
+A0_rRHyV5 = A5gE_D3((short)-1946917279, (unsigned short)1033939115, -1912379604);
 break;
 }
 }

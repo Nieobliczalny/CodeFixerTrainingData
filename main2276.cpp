@@ -39,7 +39,7 @@ int main(void) {
   char  NtYRhWB  =  (char)-1216549959;
  unsigned int dym6J4p = 462407823;
 	long double	okLA	=	-1031694455;
-	short	tVNc	=	1420956155;
+	short	tVNc	=	(short)1420956155;
   short  S51P  =  (short)1240762553;
  long double D_h_44bl = -802830452;
 	unsigned long long	B5hQ	=	-459251348;
@@ -373,7 +373,7 @@ case 'h':
 P2CJ3E++;
 break;
 case 'i':
-AIS7FI = SJR1((unsigned short)1495043367, (short)-1015176921, RVPi15ZlJ2, -1433503057);
+AIS7FI = SJR1((unsigned short)1495043367, (short)-1015176921, RVPi15ZlJ2, (unsigned short)-1433503057);
 break;
 case 'j':
 ND3GwziDmh = (int)abs(vsr_Bsl7Im);
@@ -783,7 +783,7 @@ case 'f':
 B5hQ = (GC9QZ3S < ND3GwziDmh) ? z8MeU_Cm : 179265065;
 break;
 case 'g':
-AIS7FI = SJR1(clFh4lP21w, (short)-1776429794, MRLZYdXMY, 820323170);
+AIS7FI = SJR1(clFh4lP21w, (short)-1776429794, MRLZYdXMY, (unsigned short)820323170);
 break;
 case 'h':
 S51P >>= 397454939;

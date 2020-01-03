@@ -160,7 +160,7 @@ case 'b':
 W_x05Ms5 = TtjC90((unsigned short)-1492006248);
 break;
 case 'c':
-FTMU494 = L4i2((short)-992271643, fI76G8A8, -710160888, V6VgwDV, sc951kM);
+FTMU494 = L4i2((short)-992271643, fI76G8A8, (unsigned short)-710160888, V6VgwDV, sc951kM);
 break;
 case 'd':
 e28215 -= W_x05Ms5;

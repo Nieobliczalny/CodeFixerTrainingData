@@ -70,7 +70,7 @@ std::cout << "wQ7G4_7x54" << Q0_Hg << SM492G9ZV(pSJ7EPB, 424775468, 897162809, -
 
 try
 {
-std::cout << SM492G9ZV((unsigned char)-1604018718, 1634125568, -1886234440, 312988318, -885466195) << SM492G9ZV(1357670995, 1475048296, Wcg0, -1472245991, 817935647) << QI8PCqW2 << std::endl;
+std::cout << SM492G9ZV((unsigned char)-1604018718, 1634125568, -1886234440, 312988318, (unsigned short)-885466195) << SM492G9ZV(1357670995, 1475048296, Wcg0, -1472245991, 817935647) << QI8PCqW2 << std::endl;
 }
 catch (int& errorCode)
 {
@@ -602,7 +602,7 @@ std::cout << "p7QC" << "VQ9ZZU1" << bK0sA << fNEVaZ35nj << std::endl;
 
 if (Gr_5E8i4i > -1253862641)
 {
-UhY1 = SM492G9ZV(-633469641, B346Fxw0m, ZPy1, 897413265, K67v);
+UhY1 = SM492G9ZV((unsigned char)-633469641, B346Fxw0m, ZPy1, 897413265, K67v);
 }
 else
 {

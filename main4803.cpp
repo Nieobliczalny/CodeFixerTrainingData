@@ -25,7 +25,7 @@ int main() {
  unsigned long long uPO1sycz = -1841950538;
   short  sGjv  =  (short)654478320;
  unsigned char IPVS = (unsigned char)-700574957;
- unsigned short int e4NKToDZee = 393899336;
+ unsigned short int e4NKToDZee = (unsigned short)393899336;
 	float	Y0Pv82yCE	=	-809555364;
   char  Kl15  =  (char)-627357088;
     float    fd43EI9izC    =    -740969177;
@@ -40,7 +40,7 @@ int main() {
  unsigned short int q7_FmP = (unsigned short)396298147;
     unsigned long long    f42s4N    =    1264686545;
  unsigned char PfQ08y = (unsigned char)-140118042;
- unsigned char TmqBCbD = 1414142734;
+ unsigned char TmqBCbD = (unsigned char)1414142734;
 
 cout << "I50Bwv_8RI" << Sq612XC(uPO1sycz, e4NKToDZee, g3OnP1244) << endl;
 

@@ -58,7 +58,7 @@ int main()
     unsigned short    brUEYi3j;
     brUEYi3j    =    (unsigned short)-805671722;
   unsigned short int  VDhw;
-  VDhw  =  1793175100;
+  VDhw  =  (unsigned short)1793175100;
   unsigned short int  H15a;
   H15a  =  (unsigned short)-1818381007;
   short  In_nzdg0Z;

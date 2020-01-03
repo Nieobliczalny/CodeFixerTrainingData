@@ -80,7 +80,7 @@ for (int i = 5; i >= 0; --i)
 switch (qz5o1O)
 {
 case 0:
-OXrpe = K5J8Fe9L31(OXrpe, (short)1593754979, -436007046, 109124418);
+OXrpe = K5J8Fe9L31(OXrpe, (short)1593754979, -436007046, (char)109124418);
 break;
 case 1:
 Er7nD0 = Wh42duq8J9(v5P3M, dwz8RQ5, Er7nD0, ucjH9W5WX6, M0W0AZ);
@@ -245,7 +245,7 @@ case 'b':
 ucjH9W5WX6 = K5J8Fe9L31(1299039595, (short)-897113219, 1061182641, (char)95177503);
 break;
 case 'c':
-v5P3M = K5J8Fe9L31(ucjH9W5WX6, -312445695, zW4l_B9, v5P3M) / dwz8RQ5;
+v5P3M = K5J8Fe9L31(ucjH9W5WX6, (short)-312445695, zW4l_B9, v5P3M) / dwz8RQ5;
 break;
 case 'd':
 OXrpe = viCSZ_Gz();

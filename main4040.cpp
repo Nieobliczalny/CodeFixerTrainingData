@@ -23,7 +23,7 @@ int main(int argc, char** argv)
     unsigned long    Z81c    =    1761110619;
     long long    mMmCqUKAzJ    =    1527072545;
 	char	n9xaUmE0xC	=	(char)1216814707;
- short u2um9w1p = -1521902466;
+ short u2um9w1p = (short)-1521902466;
  short int uS0HS = 1560961839;
   short int  Sfg6tjf  =  -233172407;
     short int    Dtl_AhYff    =    (short)1987070352;

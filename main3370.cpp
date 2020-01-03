@@ -34,7 +34,7 @@ int main(int argc, char** argv)
  char LAg05jUAZ = (char)-2054272587;
   unsigned short  L_E26AU  =  (unsigned short)1601221012;
   long double  I_nMjQ8F  =  1764432214;
-    unsigned short    HGJ568Pax    =    -1798502338;
+    unsigned short    HGJ568Pax    =    (unsigned short)-1798502338;
 	long double	BlSi	=	-687221574;
  unsigned char rHw2eKE = 1418409951;
   short int  WuM6Volw  =  1806509245;
@@ -57,7 +57,7 @@ int main(int argc, char** argv)
   short int  e29_9vK  =  (short)584504234;
  char J9x5nJGm__ = (char)-362495069;
  long long uA8Ks6_5_ = 307108430;
-  unsigned char  zci_FH  =  -972400191;
+  unsigned char  zci_FH  =  (unsigned char)-972400191;
     unsigned long long    rQF1cESSj    =    718843745;
   short int  mGuk92_  =  0;
  float yZ0h3cG = -704078723;
@@ -74,7 +74,7 @@ int main(int argc, char** argv)
 	unsigned short	mFUSLX8g	=	(unsigned short)-1514311205;
     char    WrL0HcLN    =    (char)1122742523;
  short At5LdFb27n = (short)1696580433;
-    short    N8U0Txp0_3    =    -331721631;
+    short    N8U0Txp0_3    =    (short)-331721631;
  unsigned char o6DqLwQ_8 = 391284573;
 	unsigned long	vSM_0A	=	1716474122;
   short  cv3y1Xg3_h  =  1378366405;
@@ -85,7 +85,7 @@ int main(int argc, char** argv)
   short int  x18O8  =  (short)-1622967878;
     long    G1Dt8B_5Z    =    1948557017;
     unsigned short int    AdS_    =    (unsigned short)-1125773148;
-	char	o6IhqcX7_	=	-794124697;
+	char	o6IhqcX7_	=	(char)-794124697;
  unsigned long long q5CXt8cx42 = 1428782249;
 
 if (VGRc == kRh8b0)
@@ -563,7 +563,7 @@ case 'e':
 Owj364k = o6DqLwQ_8 & 1279327806;
 break;
 case 'f':
-N8U0Txp0_3 = L_5s_5hK0(DVxGTf, Si7W, 1862539031, xv_H, mFUSLX8g) | 243498423;
+N8U0Txp0_3 = L_5s_5hK0(DVxGTf, Si7W, (char)1862539031, xv_H, mFUSLX8g) | 243498423;
 break;
 case 'g':
 WuM6Volw = TopzVyK26i((short)1688153998, -1444444878);
@@ -636,7 +636,7 @@ if (WuM6Volw != -641123150)
 {
 try
 {
-UgB_q6PY9 = L_5s_5hK0(-714035911, (unsigned char)-791254057, yZ0h3cG, -385150888, Mn_wAoR);
+UgB_q6PY9 = L_5s_5hK0(-714035911, (unsigned char)-791254057, yZ0h3cG, (short)-385150888, Mn_wAoR);
 }
 catch (int& errorCode)
 {

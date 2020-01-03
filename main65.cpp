@@ -245,7 +245,7 @@ OOMz_o = (short)(c387r + (V_M7B));
 }
 
 U6x6zgb--;
-if ((ZWsw6H7((unsigned char)-1992620301, (short)-148770761, (char)-911259448) / ZWsw6H7((unsigned char)-1091049585, -966696157, -1944562126)) > 1612885371)
+if ((ZWsw6H7((unsigned char)-1992620301, (short)-148770761, (char)-911259448) / ZWsw6H7((unsigned char)-1091049585, (short)-966696157, -1944562126)) > 1612885371)
 {
 jEIII = A7jIU4 / OQ2td5e;
 }

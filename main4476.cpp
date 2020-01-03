@@ -41,7 +41,7 @@ int main(void) {
 	long	j5SXO_Ik	=	-1112416877;
  long XSc898Tx = -1517656060;
   unsigned short int  NVlV63  =  (unsigned short)611581622;
-	short int	V5G6egWyDY	=	-155270551;
+	short int	V5G6egWyDY	=	(short)-155270551;
   unsigned short int  MxO_  =  87431157;
 	long	IrH0nh	=	-215199473;
   unsigned int  XdtLZNft6  =  -1093789538;
@@ -57,7 +57,7 @@ int main(void) {
     long long    eq5fp_P    =    1245357151;
  int oHTgX00 = 1712022383;
  long long mvXnp = -1586242092;
-  unsigned short  mFMXHhet  =  -2067323952;
+  unsigned short  mFMXHhet  =  (unsigned short)-2067323952;
 	unsigned long	JkO9x	=	481276164;
   long long  Olgd0  =  369898813;
 	long long	QG_04d2TLc	=	1137935186;
@@ -68,7 +68,7 @@ int main(void) {
  short int b5TydP = (short)-490789314;
     float    TkB74    =    882687732;
     unsigned long    hxZzAi8m    =    1271967535;
-    unsigned char    jk_tZ    =    958326372;
+    unsigned char    jk_tZ    =    (unsigned char)958326372;
     int    mRnXMk_    =    1224602901;
   char  ytGG60  =  -562477870;
 	unsigned short int	w4Mfg5RL	=	(unsigned short)1645129758;
@@ -82,7 +82,7 @@ int main(void) {
     double    szu028rV6x    =    -1976296008;
   unsigned int  quq3HN  =  -354650186;
  unsigned short n_5s35r = (unsigned short)-2099170686;
-    unsigned short    C681NVuzG    =    -540236677;
+    unsigned short    C681NVuzG    =    (unsigned short)-540236677;
     unsigned char    Sv0wmn1H    =    544902996;
     unsigned char    p741y_sy6    =    -2087247761;
  double u73Wa00 = -1019509924;
@@ -561,7 +561,7 @@ o7as9nrm = (int)abs(j5SXO_Ik);
 }
 else if (((rWp306K0 < y_PjVJ56) && (SVhS)) || (vV1c73n >= jk_tZ))
 {
-WMF96l1SZ = KhU1p_((short)-294808237, (short)-738419982, -1647293359, Xsmk7);
+WMF96l1SZ = KhU1p_((short)-294808237, (short)-738419982, (char)-1647293359, Xsmk7);
 }
 else
 {
@@ -616,7 +616,7 @@ case 'd':
 WMF96l1SZ = KhU1p_((short)-714898849, szu028rV6x, n_5s35r, hxZzAi8m);
 break;
 case 'e':
-WMF96l1SZ = KhU1p_(gjWe0v_w0, CKvbg, -1584841251, 1605605496);
+WMF96l1SZ = KhU1p_(gjWe0v_w0, CKvbg, (char)-1584841251, 1605605496);
 break;
 default:
 mFMXHhet = Olgd0 & 1822896789;

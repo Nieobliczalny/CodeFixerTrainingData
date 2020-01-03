@@ -49,7 +49,7 @@ int main(int argc, char** argv) {
   unsigned long  ON3cCYZ01q  =  -1785729419;
   long  Mdp9MIOW  =  315043544;
     unsigned short int    FUYlE2    =    (unsigned short)-448957617;
-  short int  CyO4NAVEar  =  1486520657;
+  short int  CyO4NAVEar  =  (short)1486520657;
 	int	SX9apE3	=	-83692678;
 	char	hmk1_Cq6z	=	(char)1035156977;
   unsigned long  m72_Z5i  =  1845861624;
@@ -75,7 +75,7 @@ int main(int argc, char** argv) {
   unsigned int  p71mpIQ_cx  =  130162839;
   unsigned long long  R8v_xq11  =  1414960576;
 	short int	tCFmwUh	=	(short)1477699643;
- char L1zlnz = -1685920882;
+ char L1zlnz = (char)-1685920882;
  short yesNLo = -2094877312;
  long Bg8UVNfgSq = -1260820262;
     long    renvbUt1    =    0;

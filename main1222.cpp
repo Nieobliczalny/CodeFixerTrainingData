@@ -26,7 +26,7 @@ int main(void)
   short int  z8U_j6_2  =  (short)728964944;
   unsigned long  x2Im_vA  =  0;
  short b4_66 = (short)-1935802600;
- short int o532mV0_F = 1972450313;
+ short int o532mV0_F = (short)1972450313;
 	long	ZpX66	=	1703759329;
  unsigned char BIo6D76 = (unsigned char)818809705;
   unsigned int  S15Fze_Q  =  -986065370;

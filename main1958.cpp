@@ -21,7 +21,7 @@ int main() {
 	O8sUd	=	(short)-1658741876;
 	j5Hd8yE	=	(short)-253658761;
 	mMt8c8tq7_	=	(short)-1064082244;
-	h26BOVi	=	1662794592;
+	h26BOVi	=	(short)1662794592;
 	o13ZhYI	=	-2131931516;
 	F3HYaj	=	-1269997443;
 	Pj57	=	2055231903;
@@ -31,7 +31,7 @@ int main() {
 	LHj6542R9	=	(short)-1256262166;
 	G1Y3n	=	(short)958215844;
 	nsCe02	=	(short)-1965190580;
-	rc_Xc	=	-162738487;
+	rc_Xc	=	(short)-162738487;
 	P4li0d	=	-2033557166;
 	V8p_uzrbu	=	-620261466;
 	iG435t6oV	=	-1151076146;
@@ -41,7 +41,7 @@ int main() {
 	Q295h0Bc	=	(short)-798162071;
 	AbZzmb	=	(short)-544022356;
 	XU_LW_6	=	(short)259913253;
-	o5r7sD7yDR	=	1783773627;
+	o5r7sD7yDR	=	(short)1783773627;
 	ZZDX40203J	=	-1185181255;
 	uaQmmy0_m	=	-1001029920;
 	pj_nLb4CRc	=	2040018229;
@@ -51,7 +51,7 @@ int main() {
 	n0NP	=	(short)132112335;
 	aDvvumUQ	=	(short)1407320571;
 	H6fo2FR6BY	=	(short)-206421827;
-	x30BU	=	-1313415750;
+	x30BU	=	(short)-1313415750;
 	yDB9QDWY5	=	1599686360;
 	OYhU0V84	=	-352919104;
 	xyYL60	=	909926526;
@@ -61,7 +61,7 @@ int main() {
 	TxwCeCxJG	=	(short)-1925579244;
 	votMhq	=	(short)-55557329;
 	is6U	=	(short)-1513760202;
-	EYvBv3	=	297045639;
+	EYvBv3	=	(short)297045639;
 	T6D6793I	=	-38493920;
 	X00DH1A3gi	=	964867260;
 	W54724	=	-451105591;
@@ -71,7 +71,7 @@ int main() {
 	O4Cz	=	(short)937439711;
 	lXrFnyq86	=	(short)828114973;
 	kIHyM	=	(short)-31258368;
-	p83PZ	=	-402935619;
+	p83PZ	=	(short)-402935619;
 	db3kT	=	-188547335;
 	x6NR3_b	=	751851213;
 	MD_aTM5g92	=	-280462122;
@@ -81,7 +81,7 @@ int main() {
 	GEVM84	=	(short)237697983;
 	leEDu_5S	=	(short)-1064961737;
 	Qp8x90w57_	=	(short)707462057;
-	y5n8	=	812788664;
+	y5n8	=	(short)812788664;
 	Bz0Vb0tylR	=	165580271;
 	Xk_Ph_g03	=	-1617891119;
 	WY27eD	=	929532849;
@@ -91,7 +91,7 @@ int main() {
 	b4Qo	=	(short)1779109860;
 	Fkl6itmRD	=	(short)-18938451;
 	Lqu2kid	=	(short)1858848473;
-	HCzU3R	=	711746007;
+	HCzU3R	=	(short)711746007;
 	w7m6aQ1l	=	1655834949;
 	ASe8	=	561874083;
 	XpHN	=	-109180098;
@@ -101,7 +101,7 @@ int main() {
 	jwOOK48q	=	(short)-1497550307;
 	xRLR	=	(short)-1755933913;
 	uS_4024HfA	=	(short)66104653;
-	G6CY_uyzA1	=	1885849680;
+	G6CY_uyzA1	=	(short)1885849680;
 	mGNc_1	=	45321511;
 	m0P48	=	-2111087274;
 	ZJqw	=	1097092386;

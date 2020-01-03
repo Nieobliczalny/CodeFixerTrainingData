@@ -44,7 +44,7 @@ int main()
   unsigned char  wISuf8  =  (unsigned char)-1416497398;
   unsigned int  AjAVD58J  =  0;
 	short	Ph5I620	=	(short)2001850424;
- short xbvBFuL = -2014463906;
+ short xbvBFuL = (short)-2014463906;
 	unsigned short	gSZM9_Q4	=	1392490993;
     unsigned char    NYxU    =    1393427715;
     unsigned long long    Jl_YA8_    =    786726808;
@@ -69,7 +69,7 @@ int main()
 	unsigned short int	y54S247	=	(unsigned short)1420021908;
 	long	ewmCQ9O	=	-1340086794;
   char  a47MXkQ8  =  (char)861388961;
-    char    vh2R4Gu_    =    1962053726;
+    char    vh2R4Gu_    =    (char)1962053726;
 
 try
 {

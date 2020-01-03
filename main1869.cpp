@@ -247,7 +247,7 @@ case 1:
 dq6r = TF506rB1Lc((unsigned char)904439474, f74x, (char)679693351, Zb3W1AM0ik, (char)-988193675);
 break;
 case 2:
-M60mmYFo = TF506rB1Lc((unsigned char)1946107988, E0G72CX1K, -849915856, 775894507, -1254372759);
+M60mmYFo = TF506rB1Lc((unsigned char)1946107988, E0G72CX1K, (char)-849915856, 775894507, -1254372759);
 break;
 case 3:
 mGL5c = FSXDFBnH9 + Bw3iD4_;

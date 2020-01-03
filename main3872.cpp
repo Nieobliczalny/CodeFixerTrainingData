@@ -40,7 +40,7 @@ int main() {
   unsigned char  y8_G488TXj;
   y8_G488TXj  =  (unsigned char)-1479652011;
   char  w6GhjWD86;
-  w6GhjWD86  =  -1728851723;
+  w6GhjWD86  =  (char)-1728851723;
     unsigned long long    akgib6;
     akgib6    =    -354955679;
   unsigned long long  fxfNf7pS;
@@ -480,7 +480,7 @@ int j = 0;
 do
 {
 j++;
-cout << dx4WHZbZ(U7zS7PA, uY7Qn, (char)-949895054) << dx4WHZbZ(-100557288, (unsigned char)161737084, (char)-1189125415) << "vC_774B0" << dx4WHZbZ(U7zS7PA, (unsigned char)37551860, 82968207) << Fjuo06Wr << endl;
+cout << dx4WHZbZ(U7zS7PA, uY7Qn, (char)-949895054) << dx4WHZbZ(-100557288, (unsigned char)161737084, (char)-1189125415) << "vC_774B0" << dx4WHZbZ(U7zS7PA, (unsigned char)37551860, (char)82968207) << Fjuo06Wr << endl;
 }
 while (j < 9);
 }

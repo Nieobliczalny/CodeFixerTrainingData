@@ -89,7 +89,7 @@ case 4:
 RO5OyCyg5J = Eqla();
 break;
 case 5:
-QcopKa0 = wL8HS2pr(QcopKa0, (char)-1869923769, -167069433);
+QcopKa0 = wL8HS2pr(QcopKa0, (char)-1869923769, (unsigned short)-167069433);
 break;
 }
 {

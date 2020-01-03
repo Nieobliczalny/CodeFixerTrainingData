@@ -36,7 +36,7 @@ int main() {
     long    EdKC3N0Q8    =    -863454563;
     unsigned short int    aotPHH1wK    =    (unsigned short)1580198793;
     long double    Pmhb    =    -1563288109;
-    short    lCNZ    =    1643832806;
+    short    lCNZ    =    (short)1643832806;
 	unsigned long long	UsSFG	=	-147900773;
   char  wA3_T4I  =  (char)-358137752;
 	long	qGsfjiM	=	-2129494853;
@@ -184,7 +184,7 @@ nM574Gx_7 = (int)ceil(Yne36Ky6MK);
 switch (Y6Bxe821QX)
 {
 case 0:
-oNx39nB = KL9Bc(Pmhb, Qd2_1w6IW, (unsigned short)1290575757, 2010225263) + sFuz5;
+oNx39nB = KL9Bc(Pmhb, Qd2_1w6IW, (unsigned short)1290575757, (short)2010225263) + sFuz5;
 break;
 }
 if (((l0rPDF0X_ <= -390690901) && (Qd2_1w6IW != A2ARt59H)) || (T90Zqm9rAy <= -92333663))

@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
  unsigned short vLa2J;
  vLa2J = (unsigned short)2021623702;
  short EFV_nHkQ;
- EFV_nHkQ = -796108580;
+ EFV_nHkQ = (short)-796108580;
  long double fCZG;
  fCZG = -40104703;
  unsigned char ztG3x4;

@@ -188,7 +188,7 @@ case 'd':
 C2lkA8_6q = (int)ceil(Q04u0ZWsom);
 break;
 default:
-c4V2wtF = BWocF((unsigned char)-1998595611, j605, -554445252);
+c4V2wtF = BWocF((unsigned char)-1998595611, j605, (short)-554445252);
 break;
 }
 }

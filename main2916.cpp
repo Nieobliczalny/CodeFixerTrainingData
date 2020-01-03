@@ -92,7 +92,7 @@ int main() {
 	short	pQ1Ma;
 	pQ1Ma	=	(short)1674232676;
   char  BB4f;
-  BB4f  =  -1000211982;
+  BB4f  =  (char)-1000211982;
 	float	oFHb_5y;
 	oFHb_5y	=	-295517859;
   unsigned long  Lm8x_MGw;

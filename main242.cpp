@@ -94,7 +94,7 @@ int main(int argc, char** argv)
  unsigned short Y3Ouh;
  Y3Ouh = (unsigned short)1524534492;
   unsigned short int  QJ8Y;
-  QJ8Y  =  -146243464;
+  QJ8Y  =  (unsigned short)-146243464;
 	unsigned char	X5TX;
 	X5TX	=	(unsigned char)-1716819974;
 	unsigned short	BS87dWqDR;

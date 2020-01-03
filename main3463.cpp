@@ -35,7 +35,7 @@ int main(void) {
 	unsigned long	BpsW8tJ	=	1585618033;
 	short	H9149__18w	=	(short)-1841503269;
 	unsigned short	S_O1VIuM3	=	(unsigned short)2028030394;
-    unsigned short    Vo8r9    =    979068911;
+    unsigned short    Vo8r9    =    (unsigned short)979068911;
   unsigned long long  X_6Kf  =  0;
     double    h_QKdWKT    =    1979632067;
  unsigned short int zbU2C15D5c = (unsigned short)-385096515;
@@ -51,7 +51,7 @@ int main(void) {
 	int	NtGV	=	391970097;
  char G1ie83k = (char)768176145;
     unsigned char    B5Q7Iq5OP_    =    (unsigned char)1815840530;
-    unsigned short    n6mfV1rVk    =    -2048807973;
+    unsigned short    n6mfV1rVk    =    (unsigned short)-2048807973;
     unsigned char    AuJY9Vk    =    955450654;
   long long  CUgVNqQF  =  -106410732;
 	double	e6eR0F	=	190267290;
@@ -71,7 +71,7 @@ int main(void) {
   double  V5Vsi  =  733425977;
 	long double	bfGsq	=	1819201933;
 	short	cnxIiiYv	=	(short)1474776868;
-	unsigned short	b1a07	=	754278150;
+	unsigned short	b1a07	=	(unsigned short)754278150;
  double Dm82e7 = -492818842;
  short int A6Iv86kx9s = -1631063194;
  long long w4srKX = -221605183;
@@ -96,7 +96,7 @@ int main(void) {
  unsigned short pkBs7N5j = (unsigned short)-601317844;
 
 Izo12 = (int)floor(Dm82e7);
-b6_OI = -74070801 / BKdc1aEf(-350287792, -1313793882, -494158960);
+b6_OI = -74070801 / BKdc1aEf(-350287792, (char)-1313793882, -494158960);
 
 std::cout << JZGh9(Sfja8L0, B5Q7Iq5OP_, (unsigned char)1414266975, -403421102) << F90b1 << y1m7G << JZGh9(Sfja8L0, -886799339, V288UM3523, c_Xgajy) << BKdc1aEf(Sfja8L0, 1140166993, V288UM3523) << std::endl;
 {
@@ -290,7 +290,7 @@ catch (int& errorCode)
 H9149__18w = JZGh9(H9149__18w, sYk2hTq51, V5Vsi, -533276728);
 }
 
-nSy0IW7ua = JZGh9(nSy0IW7ua, (unsigned char)731805683, -311383399, uCVd7);
+nSy0IW7ua = JZGh9(nSy0IW7ua, (unsigned char)731805683, (unsigned char)-311383399, uCVd7);
 
 return 0;
 }

@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
 	int	E4oOBfA4	=	2024370198;
 	short	cIh7g	=	(short)1066713275;
   unsigned int  bpDCADV  =  828170664;
-    short int    jDBo7Am55    =    100604279;
+    short int    jDBo7Am55    =    (short)100604279;
  long DzC_G_89 = -1701227112;
  long s14pwM = 849290429;
   unsigned short int  W8hQDcmX5  =  (unsigned short)-1398835424;
@@ -70,7 +70,7 @@ int main(int argc, char** argv) {
   float  vDP0L7u1o0  =  989957554;
     int    BQD820g2V    =    424327002;
  short xfU7njSW7_ = (short)-1944551677;
-    unsigned short int    ox7kYIZ    =    -1930145142;
+    unsigned short int    ox7kYIZ    =    (unsigned short)-1930145142;
  int ec7EQ0 = 1590440856;
   long long  l1MD83zfM  =  310097411;
   double  l6D6R2  =  -493082236;
@@ -173,7 +173,7 @@ U1dt = yzx3_3NXI2((unsigned short)1328882021, Ds1_, -2074353192, (short)-7747638
 }
 while (i < 6);
 }
-s14pwM = s_l4pQBEpI((short)1896453323, (short)-1976768001, RsmH0Ptv_, WNa67v2) / yzx3_3NXI2(Qnn6C, Ds1_, 1355577920, -192418773);
+s14pwM = s_l4pQBEpI((short)1896453323, (short)-1976768001, RsmH0Ptv_, WNa67v2) / yzx3_3NXI2(Qnn6C, Ds1_, 1355577920, (short)-192418773);
 
 Qnn6C = (unsigned char)(m5_Y);
 switch (Fqs8PLX)

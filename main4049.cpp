@@ -50,7 +50,7 @@ int main(int argc, char** argv)
     short    eML3l364_    =    (short)-456145758;
     unsigned short    Jk65zl3    =    (unsigned short)-901308888;
   unsigned long  m8Fz32  =  -1203803190;
-	unsigned short int	arl6Mxp7	=	910667510;
+	unsigned short int	arl6Mxp7	=	(unsigned short)910667510;
     char    rWH4e2    =    -1329816876;
   float  Q1GE_I0Z85  =  2118029102;
  long double apt2Zx = 1802461898;
@@ -69,7 +69,7 @@ int main(int argc, char** argv)
 	char	Rj2O1_2	=	(char)-1070298130;
     long long    YEM76N3    =    -483715053;
     short int    O663O_4    =    (short)-569174908;
-	short int	w9XIn1b	=	-1274757670;
+	short int	w9XIn1b	=	(short)-1274757670;
 
 if (((Jk65zl3 <= 1538764012) || (cKu247pHc >= Q1GE_I0Z85)) && (y2Fn0 >= nP_G_7J))
 {
@@ -475,7 +475,7 @@ for (int j = 0; j < 9; ++j)
 {
 if (mNo0X >= -547870353)
 {
-s27P2_1xMG = Yoe1R5cWWa((short)528508919, 1671657034, 1456407811, 431178706, hL772AqYt);
+s27P2_1xMG = Yoe1R5cWWa((short)528508919, 1671657034, 1456407811, (unsigned short)431178706, hL772AqYt);
 }
 else if (iGuIq > nP_G_7J)
 {

@@ -128,7 +128,7 @@ Poh99K = UG0y((short)88347856, (char)270616);
 }
 else
 {
-std::cout << UG0y((short)232875055, o0j0) << n26pJ << "N3_5zE" << UG0y((short)956629783, -595233041) << std::endl;
+std::cout << UG0y((short)232875055, o0j0) << n26pJ << "N3_5zE" << UG0y((short)956629783, (char)-595233041) << std::endl;
 }
 }
 else
@@ -446,7 +446,7 @@ k_v_fAIgTH = Ese4q(-1948599523, (short)-1695724663, (unsigned short)906222662, (
 
 if (zz955roo)
 {
-u0HmnujgVz = UG0y((short)299580480, 1843739158);
+u0HmnujgVz = UG0y((short)299580480, (char)1843739158);
 }
 else if ((MnGdyhw > RJqZ6xZp8s) && (k_v_fAIgTH == m7uxEkD5))
 {
@@ -585,7 +585,7 @@ Rui1 = (int)(jj1cMjD_);
 
 std::cout << "pzw8anWao" << "Hw11E3oP0" << "jiJ1A" << en6P_5 << N18OswxvX(358814291, k_v_fAIgTH, (unsigned short)2068883754) << std::endl;
 
-std::cout << N18OswxvX(-1136233075, -633737110, (unsigned short)1953243144) << N18OswxvX(u0HmnujgVz, 16928541, (unsigned short)752625494) << Ese4q(-556173960, k_v_fAIgTH, (unsigned short)1603495873, -1465292800) << std::endl;
+std::cout << N18OswxvX(-1136233075, -633737110, (unsigned short)1953243144) << N18OswxvX(u0HmnujgVz, 16928541, (unsigned short)752625494) << Ese4q(-556173960, k_v_fAIgTH, (unsigned short)1603495873, (short)-1465292800) << std::endl;
 qKmdG = (unsigned int)(LN8T2kKtD);
 
 c5coDPF = qKmdG >> 2066428379;

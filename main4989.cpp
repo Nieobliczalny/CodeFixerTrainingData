@@ -22,7 +22,7 @@ int main(void)
     long    xO9kP    =    -1712765780;
  unsigned short int uD57Ou29S = (unsigned short)-1405445482;
 	unsigned short	F0L43s3i7	=	(unsigned short)-218328005;
-	short int	KVpv	=	2064964006;
+	short int	KVpv	=	(short)2064964006;
   unsigned long  C9o1v  =  212517552;
  short BH3R4_2Nc = (short)1143305624;
     char    xx135Mk    =    -1203678085;
@@ -56,7 +56,7 @@ int main(void)
 	long double	UY90	=	-770970487;
     unsigned int    sf1P79    =    -1296197094;
  double h7l9Xz = 1854575692;
-  unsigned char  cRfP  =  -856681184;
+  unsigned char  cRfP  =  (unsigned char)-856681184;
   double  KUqdih  =  -408961261;
   double  B3GS  =  716212158;
     unsigned long long    slcd6Q0Jo    =    306492570;

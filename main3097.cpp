@@ -22,7 +22,7 @@ int main(void)
  unsigned long long wrp7zpPr = 1395048349;
  unsigned char I05FcG = (unsigned char)2026806688;
   long long  q_9e1  =  0;
-	short int	G0OG7jZr_l	=	-585542167;
+	short int	G0OG7jZr_l	=	(short)-585542167;
     char    Hw5rN21P_    =    1779154420;
   unsigned short int  D7NqG  =  -647333909;
   float  kVxIr  =  -713610527;
@@ -43,7 +43,7 @@ int main(void)
 	short int	w2r1lbN	=	(short)318847955;
  unsigned short ap04_RA = (unsigned short)-2029831021;
  long long GzwidkHI4 = -94541932;
-	short int	Af23T4mhr	=	1878404907;
+	short int	Af23T4mhr	=	(short)1878404907;
   unsigned char  sj90ah  =  0;
     long long    u4R4    =    2093666783;
     unsigned short int    Y1W4Qu    =    1055531236;

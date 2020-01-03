@@ -36,7 +36,7 @@ int main(int argc, char** argv)
 	char	kL2F_hTwgm;
 	kL2F_hTwgm	=	(char)-96185322;
  char Kx3t9D;
- Kx3t9D = -1501505294;
+ Kx3t9D = (char)-1501505294;
 	unsigned int	cAgYcw_ivI;
 	cAgYcw_ivI	=	-206252251;
     unsigned short    y710FvQX5;

@@ -41,7 +41,7 @@ int main(int argc, char** argv) {
     unsigned char    A6Kc62KqNG    =    (unsigned char)1131151519;
     short int    q_jhk8uZm1    =    (short)1408944414;
  unsigned short R1hh9FlA = (unsigned short)1498401322;
- char Nv_qx = 1601592018;
+ char Nv_qx = (char)1601592018;
     unsigned int    X55Ov    =    -556869589;
   unsigned short  Hc3SbP6qPL  =  0;
 	unsigned short int	kO2na_26n	=	(unsigned short)1617006296;
@@ -57,7 +57,7 @@ int main(int argc, char** argv) {
  unsigned long Yt13J = 1015896602;
   short int  Azb_WFo  =  (short)1066706703;
 	unsigned long long	Uqsead2	=	-713096695;
-  char  A2Pq06sikI  =  1081913344;
+  char  A2Pq06sikI  =  (char)1081913344;
  float LU_H = 632396642;
  unsigned long WtVpjx = 522847415;
 	unsigned int	dh6Cr42	=	-22604875;
@@ -83,7 +83,7 @@ int main(int argc, char** argv) {
  long double qhjN = -1376089791;
  unsigned short O4bBS8cm = (unsigned short)-849492969;
     unsigned int    i8wIiBSE    =    0;
-    short    k26g    =    -855840814;
+    short    k26g    =    (short)-855840814;
     short int    NGO_    =    -505477228;
  unsigned int ZS447_I2 = -1730404765;
 
@@ -153,7 +153,7 @@ qhjN = th3kV5j36B(1380841158, (char)1698080665, A6Kc62KqNG, (short)-1070050961, 
 switch (O4bBS8cm)
 {
 case 'a':
-ckZVOAgD3 = Y5R4Ro65(91374242, 1087342876, O67wqwS8f);
+ckZVOAgD3 = Y5R4Ro65((unsigned short)91374242, 1087342876, O67wqwS8f);
 break;
 case 'b':
 txss = cw4FNiN * qNS0;

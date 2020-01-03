@@ -80,7 +80,7 @@ int main(void) {
 	double	n_UvlW	=	514625828;
 	char	fZ_wv	=	(char)-1806096541;
 	char	Caexsj48	=	(char)-924603740;
-    unsigned short    ALcC4SEy    =    -1952065315;
+    unsigned short    ALcC4SEy    =    (unsigned short)-1952065315;
   unsigned int  IRAxWS  =  316327186;
     double    qAMDp9ck    =    1537665435;
  unsigned long long X7lg = 0;
@@ -118,7 +118,7 @@ int main(void) {
     unsigned char    Tzr3_X4I6H    =    (unsigned char)1517000734;
     unsigned int    ovdlD1VD    =    821588938;
   short  JH_i  =  (short)-1485991147;
-  unsigned short int  i_DW  =  -2016209915;
+  unsigned short int  i_DW  =  (unsigned short)-2016209915;
   unsigned char  VbGepOoQQz  =  1418340344;
  unsigned short dfd7rM = 1592061622;
     char    DxVT28    =    (char)608917780;
@@ -189,7 +189,7 @@ qpkqgT_ = (short)(jahEU);
 }
 else if (jw9ZoJ7 & 1098080041)
 {
-std::cout << TcI03((short)1930536385, ST5f5w0, O4Ix88Z, (unsigned char)-1067437461, 1395642497) << Gqr4e((unsigned short)1138125141, ST5f5w0, (char)799296864, 148416925, 61137734) << std::endl;
+std::cout << TcI03((short)1930536385, ST5f5w0, O4Ix88Z, (unsigned char)-1067437461, 1395642497) << Gqr4e((unsigned short)1138125141, ST5f5w0, (char)799296864, (unsigned char)148416925, 61137734) << std::endl;
 }
 else if (ye11s_j == -1456531176)
 {
@@ -203,7 +203,7 @@ std::cout << o0ZTm4k << Jq7288((short)-1163177841, ST5f5w0, (char)251249679, pym
 }
 }
 
-IRAxWS = Jq7288(IRAxWS, -591306553, hQyouCS5N, P_xu_c);
+IRAxWS = Jq7288(IRAxWS, (unsigned short)-591306553, hQyouCS5N, P_xu_c);
 switch (z29x1q)
 {
 case 0:
@@ -213,7 +213,7 @@ case 1:
 q2IIzApv = TcI03(q2IIzApv, 1267652675, (unsigned char)541219881, (unsigned char)-1365510825, -759986425);
 break;
 case 2:
-J463b = y4A4R((unsigned short)1834126961, (short)1610588064, A4t5sy3r, 1187700787);
+J463b = y4A4R((unsigned short)1834126961, (short)1610588064, A4t5sy3r, (short)1187700787);
 break;
 case 3:
 fIo9PE7Kg += qAMDp9ck;

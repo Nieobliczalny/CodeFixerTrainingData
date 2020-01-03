@@ -56,7 +56,7 @@ int main(int argc, char** argv) {
     unsigned long    aML43RhI    =    -1182217398;
 	long double	CZpCQ	=	509816390;
 	unsigned short	C7ocDsBwu	=	(unsigned short)1996253891;
-	char	Nsxx6H5JMf	=	-1530441981;
+	char	Nsxx6H5JMf	=	(char)-1530441981;
 	long long	COJVj	=	-1133907295;
     unsigned char    Cg8ED7H    =    (unsigned char)-1844397112;
 	long long	u4N_I0	=	1387183274;
@@ -73,7 +73,7 @@ int main(int argc, char** argv) {
 	unsigned short int	CN1ONA	=	(unsigned short)1181736625;
     unsigned char    Gp8_dLu20    =    (unsigned char)1033730106;
 	short int	zQ44A_WM	=	(short)-1546657271;
-  unsigned char  s2_fsA_w  =  -1172317347;
+  unsigned char  s2_fsA_w  =  (unsigned char)-1172317347;
 	unsigned short	NrN81	=	604187306;
 	double	Ah4VLg0	=	-1840333983;
  long double Vvxq3L1N1p = 620040289;
@@ -92,7 +92,7 @@ int main(int argc, char** argv) {
   long  MVN7  =  839846421;
   double  SS824s  =  1371005562;
 	long	ns5TgU	=	527844022;
-    unsigned short int    Ln30w    =    54260922;
+    unsigned short int    Ln30w    =    (unsigned short)54260922;
 
 if ((Pqi4QKmC53 <= -70284541) && ((tRA9m2MOB4 != g33gbNw4fT) && (N90Vh)))
 {

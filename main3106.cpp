@@ -119,7 +119,7 @@ int main(void) {
     unsigned char    bM2oBGE;
     bM2oBGE    =    (unsigned char)2087442847;
 	unsigned short	tg4eb;
-	tg4eb	=	-8507498;
+	tg4eb	=	(unsigned short)-8507498;
     char    z5836UW;
     z5836UW    =    (char)203702889;
  unsigned char ni9m;

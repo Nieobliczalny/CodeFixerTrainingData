@@ -15,7 +15,7 @@ int main(void) {
     unsigned short    uhBk    =    (unsigned short)-45499801;
     short int    rqPU    =    (short)1252200572;
   unsigned long  n2KVm  =  0;
-    unsigned char    Yx91O5T    =    1184748386;
+    unsigned char    Yx91O5T    =    (unsigned char)1184748386;
   char  M3EPcr  =  0;
  double cyRT6m1c0 = 1459766520;
 	short	M_0d	=	-310027124;

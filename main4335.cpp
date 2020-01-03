@@ -156,7 +156,7 @@ int main(void) {
  char wjJga;
  wjJga = (char)-608235211;
   unsigned short  n5_G;
-  n5_G  =  508796440;
+  n5_G  =  (unsigned short)508796440;
 	double	ecYC_3g0;
 	ecYC_3g0	=	1795863973;
  short int S3zm8v1;

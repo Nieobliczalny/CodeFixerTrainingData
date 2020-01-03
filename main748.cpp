@@ -143,7 +143,7 @@ case 1:
 zGqD >>= 2067267665;
 break;
 case 2:
-jRAI4a2 = ytS9l(jRAI4a2, (unsigned short)206610946, (short)317334124, 804416469);
+jRAI4a2 = ytS9l(jRAI4a2, (unsigned short)206610946, (short)317334124, (unsigned char)804416469);
 break;
 case 3:
 tSU_8 = koeVZP1 & X3Jb;
@@ -558,7 +558,7 @@ B08vgc99Bo = ytS9l(B08vgc99Bo, (unsigned short)-236262586, tSU_8, (unsigned char
 break;
 case 'd':
 case 'D':
-Ua3u076E = (tSU_8 < 773154777) ? (char)909338920 : ytS9l(B08vgc99Bo, (unsigned short)-808234705, 370792269, 1758452329);
+Ua3u076E = (tSU_8 < 773154777) ? (char)909338920 : ytS9l(B08vgc99Bo, (unsigned short)-808234705, (short)370792269, 1758452329);
 break;
 case 'e':
 case 'E':
@@ -578,7 +578,7 @@ ROcj2NC = (int)abs(mRA1bC);
 break;
 case 'i':
 case 'I':
-B08vgc99Bo = ytS9l(-1324601041, (unsigned short)768888327, (short)-326050925, -234815449);
+B08vgc99Bo = ytS9l(-1324601041, (unsigned short)768888327, (short)-326050925, (unsigned char)-234815449);
 break;
 case 'j':
 case 'J':

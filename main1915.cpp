@@ -419,7 +419,7 @@ case 'a':
 S6E87HiyO0 = H180VL0((short)1234996082, hZbi);
 break;
 case 'b':
-Ao1vrt = k07Dz(M4zOJp3pQ, sM5zFj, (unsigned short)-955677821, -971878471);
+Ao1vrt = k07Dz(M4zOJp3pQ, sM5zFj, (unsigned short)-955677821, (unsigned char)-971878471);
 break;
 case 'c':
 PVfxOQT6_ &= 391318856;

@@ -169,7 +169,7 @@ int main(int argc, char** argv)
     unsigned short int    DgYG;
     DgYG    =    (unsigned short)396350454;
     short    EcRhe5Oq;
-    EcRhe5Oq    =    1079772524;
+    EcRhe5Oq    =    (short)1079772524;
     short int    pTf87_;
     pTf87_    =    (short)-999812689;
 	unsigned char	kR2b0;

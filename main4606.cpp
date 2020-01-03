@@ -52,7 +52,7 @@ int main() {
   float  c0Ns  =  -1829969868;
 	short	t84CXMY	=	(short)1895342397;
  unsigned short HpXG7vv9q = (unsigned short)1471179186;
-  unsigned short  gc9T02  =  -1953351071;
+  unsigned short  gc9T02  =  (unsigned short)-1953351071;
     unsigned short    anHDdgUD    =    (unsigned short)-582693153;
     long    d7n_mJ7Vfp    =    -386152745;
  char wp_v4Qo = (char)-2099261083;
@@ -68,7 +68,7 @@ int main() {
  unsigned short P7c4XjN7Bc = (unsigned short)-1548374558;
 
 eBRe_o = (unsigned long)(oB6w2thgB7);
-xfv6u51 = YDqgn(461156788, 1572038913, 565255213, -1181190072);
+xfv6u51 = YDqgn((short)461156788, 1572038913, 565255213, -1181190072);
 cout << AWGUEPpbK << IId_(-666567397, 1375483999) << nar8K() << "xBud" << endl;
 
 if (((t84CXMY <= A90Tef7NKe) && (NbRFIH2 != -2092354875)) && ((mA7n2S & h4E7HTw) && (lf7Qp47 != h4E7HTw)))

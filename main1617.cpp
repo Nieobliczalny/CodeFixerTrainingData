@@ -304,7 +304,7 @@ INI_rD = R6H8DqI9((unsigned char)-61685452, 1816809855, (unsigned short)68445421
 break;
 case 'c':
 case 'C':
-INI_rD = R6H8DqI9(I79FHqq, n6b6cF, -1397321938, -1719654868);
+INI_rD = R6H8DqI9(I79FHqq, n6b6cF, (unsigned short)-1397321938, -1719654868);
 break;
 case 'd':
 case 'D':
@@ -630,7 +630,7 @@ XbYgi5 |= AEPM;
 }
 else if (o3cFvt5D != -2042436213)
 {
-std::cout << R6H8DqI9((unsigned char)583046241, 2134043842, AEPM, -20290488) << mo0O_S8 << R6H8DqI9((unsigned char)1238296469, o3cFvt5D, (unsigned short)2066219792, 1962250212) << R6H8DqI9((unsigned char)-222766710, -167984272, AEPM, -2043416833) << R6H8DqI9(mGbz5h, -88622337, -1951267785, Hmn9CIV3) << std::endl;
+std::cout << R6H8DqI9((unsigned char)583046241, 2134043842, AEPM, -20290488) << mo0O_S8 << R6H8DqI9((unsigned char)1238296469, o3cFvt5D, (unsigned short)2066219792, 1962250212) << R6H8DqI9((unsigned char)-222766710, -167984272, AEPM, -2043416833) << R6H8DqI9(mGbz5h, -88622337, (unsigned short)-1951267785, Hmn9CIV3) << std::endl;
 }
 else if (ouYPPodJpI <= eU52M96P)
 {

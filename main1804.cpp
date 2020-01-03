@@ -308,7 +308,7 @@ S_0KLsswVz = Z_int1WJG1(J0_dv55Gem, jKef_V1yh, (short)-1529364360);
 break;
 case 'd':
 case 'D':
-ID7VsP = Z_int1WJG1((unsigned short)-1334935400, jw47, -1104218774);
+ID7VsP = Z_int1WJG1((unsigned short)-1334935400, jw47, (short)-1104218774);
 break;
 case 'e':
 case 'E':

@@ -116,7 +116,7 @@ int main(void) {
     unsigned char    Jg05;
     Jg05    =    (unsigned char)505418159;
   unsigned short int  di8E7Wq;
-  di8E7Wq  =  805642735;
+  di8E7Wq  =  (unsigned short)805642735;
   float  fX61t;
   fX61t  =  -1937590917;
  long long b1839;
@@ -200,7 +200,7 @@ int main(void) {
 	char	q5S_VIa;
 	q5S_VIa	=	(char)726972235;
  unsigned short mzQUL0S50;
- mzQUL0S50 = 1465285247;
+ mzQUL0S50 = (unsigned short)1465285247;
  long double u6BDl2a7CP;
  u6BDl2a7CP = 807094258;
 	short	Sb8Kn;

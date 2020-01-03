@@ -427,7 +427,7 @@ case 'f':
 SRa90Fia = bv3Ogtn(SRa90Fia, (unsigned short)-953550281, (unsigned short)-1207177163);
 break;
 case 'g':
-e37KoY6 = bv3Ogtn(e37KoY6, 139747997, SRa90Fia);
+e37KoY6 = bv3Ogtn(e37KoY6, (unsigned short)139747997, SRa90Fia);
 break;
 case 'h':
 FVZGPg |= axQ16twEu;

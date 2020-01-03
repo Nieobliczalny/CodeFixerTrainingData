@@ -34,7 +34,7 @@ int main(void) {
  short int i_8M = (short)163704316;
 	char	b6zT8q0w	=	(char)-42429054;
  short ippQ = 0;
- unsigned char XXX1E2g = 1323724324;
+ unsigned char XXX1E2g = (unsigned char)1323724324;
 	unsigned long	DxZ5N0gi	=	0;
   double  hDuoVw7cwj  =  325512970;
     int    KbHN    =    -287788545;

@@ -46,7 +46,7 @@ int main(int argc, char** argv)
     unsigned char    fWNbx;
     fWNbx    =    (unsigned char)357445251;
   unsigned short  Mjk_FgGeB7;
-  Mjk_FgGeB7  =  340931441;
+  Mjk_FgGeB7  =  (unsigned short)340931441;
 	long	n795JmJZ7t;
 	n795JmJZ7t	=	972010105;
     unsigned short    vo9pc;

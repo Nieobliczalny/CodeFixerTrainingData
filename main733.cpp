@@ -23,7 +23,7 @@ int main()
   unsigned char  jH05U5v6  =  0;
 	char	VEc2X0	=	(char)339990522,	oQnd	=	(char)-1277328441;
 
-VEc2X0 = GQGSr(464035625, oQnd, (short)158056302, (char)-1722482956, -2096238978);
+VEc2X0 = GQGSr(464035625, oQnd, (short)158056302, (char)-1722482956, (char)-2096238978);
 
 switch (oQnd)
 {
@@ -61,7 +61,7 @@ while (i < 8);
 switch (oQnd)
 {
 case 0:
-jH05U5v6 = YN_84(587045103, 1314598885, 738987989, 1447142817);
+jH05U5v6 = YN_84(587045103, (unsigned short)1314598885, 738987989, 1447142817);
 break;
 case 1:
 oQnd = GQGSr(jH05U5v6, (short)-284155103, oQnd, (char)-165400222, (char)-639606825) % VEc2X0;

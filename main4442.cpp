@@ -336,7 +336,7 @@ A7wJ77xB = s0e9mc6529((unsigned short)679835797, (char)1056540271, qE27d7, (shor
 }
 else
 {
-std::cout << A7wJ77xB << "YbBgFCIgU" << s0e9mc6529((unsigned short)-1833113179, smQnh, qE27d7, 1198603782, 1905293021) << "VK7o83" << std::endl;
+std::cout << A7wJ77xB << "YbBgFCIgU" << s0e9mc6529((unsigned short)-1833113179, smQnh, qE27d7, (short)1198603782, 1905293021) << "VK7o83" << std::endl;
 }
 
 try
@@ -497,7 +497,7 @@ case 2:
 Y9U4I3JmZ = s0e9mc6529((unsigned short)-1694198332, t_Q3YO6k, Mr3_7Xt, (short)1175286866, LEdV);
 break;
 case 3:
-rm5nH05 = f04pKTv(2083938653, -991125211);
+rm5nH05 = f04pKTv((unsigned char)2083938653, -991125211);
 break;
 case 4:
 cz5X = (int)abs(J5Y_f6pC2);
@@ -596,7 +596,7 @@ aVvgNq4j <<= 2109712291;
 }
 else if (aVvgNq4j == UUSJM)
 {
-Y9U4I3JmZ = s0e9mc6529((unsigned short)-1173601946, (char)-401351287, 288552507, 1178234268, aVvgNq4j);
+Y9U4I3JmZ = s0e9mc6529((unsigned short)-1173601946, (char)-401351287, (short)288552507, 1178234268, aVvgNq4j);
 }
 else if (E21hCDA == Ti0j85KAOj)
 {

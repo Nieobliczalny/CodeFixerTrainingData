@@ -251,7 +251,7 @@ break;
 }
 }
 
-std::cout << BVKa4((char)-2035226371, tAu51d) << BVKa4(1069915667, 1359844581) << std::endl;
+std::cout << BVKa4((char)-2035226371, tAu51d) << BVKa4((char)1069915667, 1359844581) << std::endl;
 uszXm = N8O32KD * 537958020;
 
 {

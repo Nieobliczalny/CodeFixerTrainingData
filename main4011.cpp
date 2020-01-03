@@ -22,7 +22,7 @@ int main(void) {
 	R3Gk09H	=	(short)1981930126;
 	tk7W	=	(short)-748691421;
 	h_hZcGu_sL	=	(short)511301378;
-	aNu8ftz	=	1801819564;
+	aNu8ftz	=	(short)1801819564;
 	b7XRC	=	-1211899524;
 	d24E	=	126910780;
 	JCp39HMi	=	244638949;
@@ -318,7 +318,7 @@ switch (RUz9)
 {
 case 'a':
 case 'A':
-JCp39HMi = E_Xe6Zq((char)-2049808385, 862740029, (char)-1601762680, rDJ_Z9u8j, 322991769);
+JCp39HMi = E_Xe6Zq((char)-2049808385, 862740029, (char)-1601762680, rDJ_Z9u8j, (unsigned short)322991769);
 break;
 case 'b':
 case 'B':

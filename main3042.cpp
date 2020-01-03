@@ -63,7 +63,7 @@ int main()
 	unsigned short int	yX14i65;
 	yX14i65	=	(unsigned short)616092521;
   short  Z9g83U;
-  Z9g83U  =  -438128490;
+  Z9g83U  =  (short)-438128490;
     unsigned short int    p0SWBS;
     p0SWBS    =    (unsigned short)-121462135;
  short int tAvuAk709_;

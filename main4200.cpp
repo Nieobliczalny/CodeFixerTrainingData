@@ -376,7 +376,7 @@ M0uf0bS = Vd83K(Za6MU2fe);
 }
 else if (sbJ0yAi & Va710b)
 {
-Lq_5 = N3rQBwg53(-1349157628, gnG_gafiAE, (unsigned short)-605079900, -113978087, G8Q1);
+Lq_5 = N3rQBwg53(-1349157628, gnG_gafiAE, (unsigned short)-605079900, (unsigned short)-113978087, G8Q1);
 }
 else
 {

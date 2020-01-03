@@ -19,7 +19,7 @@ int main(void) {
  unsigned long rscYSI6 = -1543004692;
 	long double	QOXQlc7	=	885054605;
   short  bIZ081sT3U  =  (short)-1226959723;
-    char    E06Z6    =    -322353640;
+    char    E06Z6    =    (char)-322353640;
  unsigned int zS2m19J3_ = 1759124077;
     short    Lzv05dIx7h    =    228767098;
     unsigned long long    Spa87f    =    -1397836398;

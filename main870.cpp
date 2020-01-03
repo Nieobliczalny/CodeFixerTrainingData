@@ -41,7 +41,7 @@ int main() {
   short  q6Z0dCV41m  =  (short)1133782117;
   long long  h37AeFcp6_  =  -1261483547;
 	long long	t0u5_8CP3q	=	1828078448;
-	unsigned short	qtleDwwPL	=	1005348546;
+	unsigned short	qtleDwwPL	=	(unsigned short)1005348546;
     long    ZD6ze    =    -126956887;
  double kY4QtlsB = -2045769590;
  char VIh4ogrvsr = (char)-1545428115;
@@ -53,7 +53,7 @@ int main() {
     unsigned long long    J_rEnL    =    -957237126;
  unsigned short y1rDF3gVm3 = (unsigned short)-169748795;
   int  uBlhSb7n  =  -1335276637;
-  unsigned short  H7vL_  =  642018478;
+  unsigned short  H7vL_  =  (unsigned short)642018478;
  long lwcIX0xCrb = 2020606408;
 	long double	f8i7R	=	1446876619;
   short int  zHw64  =  (short)1507384439;
@@ -81,7 +81,7 @@ int main() {
   char  hnNd  =  (char)-1976402033;
 	unsigned long long	H_prcT77u3	=	146071966;
 	unsigned short	Y6OY	=	(unsigned short)855125988;
-  unsigned short int  kl2c  =  -1416232985;
+  unsigned short int  kl2c  =  (unsigned short)-1416232985;
   long double  V5NFa0mE  =  200106308;
  short PUdQ = -680381801;
  short GYBBzZI53P = 0;
@@ -94,7 +94,7 @@ int main() {
 	unsigned short	zC_7_2i	=	(unsigned short)-1861813642;
     unsigned long    r2Ld    =    1323121587;
  unsigned long long wFqq6 = -1804038512;
-	unsigned short int	A_9a	=	-1878054950;
+	unsigned short int	A_9a	=	(unsigned short)-1878054950;
   unsigned long long  Y4Q1us08M  =  -1210720924;
 	short	Gq0t6	=	(short)-14636745;
 	unsigned int	tNr8	=	1102586743;
@@ -115,7 +115,7 @@ int main() {
 
 std::cout << GdYhL_(ap7v9v6zP2, 278245882, (unsigned short)786286383) << GdYhL_(31323509, -839392369, (unsigned short)-881185005) << "Wa51" << GdYhL_(-1709584163, Pn9E, H_prcT77u3) << std::endl;
 
-GYBBzZI53P = GdYhL_(1174753467, cjDk, 408578544);
+GYBBzZI53P = GdYhL_(1174753467, cjDk, (unsigned short)408578544);
 std::cout << vN149MGl << std::endl;
 kl2c &= 2079826817;
 {

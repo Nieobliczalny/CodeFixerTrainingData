@@ -300,7 +300,7 @@ case 5:
 jxOO13 &= 1722157031;
 break;
 case 6:
-tr96R64n = M_3CCfgV4h(-885338995, -194104526, N52FR_, 872563700, -401568865);
+tr96R64n = M_3CCfgV4h((unsigned short)-885338995, -194104526, N52FR_, 872563700, -401568865);
 break;
 }
 }
@@ -485,7 +485,7 @@ cout << YZctD9S << "n4qzQ8VY0N" << z47G8w_ << endl;
 cout << x4Md4L << "nv01rG6" << endl;
 
 EWmC6cel_d = EBvv0_k8vX(-866983381, KnTVC3I2lu, (short)-2057291886, (short)-1543943132, (unsigned short)-758841138);
-cout << GWS8DN6w54 << M_3CCfgV4h((unsigned short)-2025638823, 2120309539, mv1_I_, 650471173, HbRyMkWrP) << "A71_C" << "q9Hyh" << endl;
+cout << GWS8DN6w54 << M_3CCfgV4h((unsigned short)-2025638823, 2120309539, mv1_I_, (unsigned char)650471173, HbRyMkWrP) << "A71_C" << "q9Hyh" << endl;
 
 return 0;
 }

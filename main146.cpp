@@ -540,7 +540,7 @@ case 'i':
 n3s8 = wM50T3D(46515982);
 break;
 case 'j':
-prdu_0 = ZTfl((unsigned short)1709605087, 1660869566);
+prdu_0 = ZTfl((unsigned short)1709605087, (short)1660869566);
 break;
 default:
 E5mo1Eq = B03d47 / VEm81;

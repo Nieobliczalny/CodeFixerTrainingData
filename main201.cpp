@@ -124,7 +124,7 @@ int main() {
 	unsigned short int	m1n66b;
 	m1n66b	=	(unsigned short)-1875930854;
   short int  c_P9H6oy;
-  c_P9H6oy  =  671059731;
+  c_P9H6oy  =  (short)671059731;
  int WGbb2tI7L;
  WGbb2tI7L = -1581844604;
     float    hgHcxJmhjz;

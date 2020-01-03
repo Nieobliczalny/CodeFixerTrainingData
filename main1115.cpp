@@ -35,7 +35,7 @@ int main(int argc, char** argv) {
  float KcYSD = -1360703026;
 	short	S60T207	=	(short)-492969138;
 	char	vQyzxdo	=	(char)582239356;
-    short    Bj_R    =    -649334162;
+    short    Bj_R    =    (short)-649334162;
   unsigned short int  CK1e  =  (unsigned short)1019441205;
 	long long	G9Cy7iAJ	=	1767785991;
   short  Omw2dh  =  1408919145;
@@ -47,7 +47,7 @@ int main(int argc, char** argv) {
  short NrXz5q1 = (short)-1588536735;
   char  Fcj_fW3g  =  (char)-1663686259;
   char  jxfw9CdE  =  (char)-1872977219;
-	unsigned short	Uk2gBm_S_	=	654560612;
+	unsigned short	Uk2gBm_S_	=	(unsigned short)654560612;
 	unsigned short	C961	=	-1982947190;
   double  CqCSn75_S  =  -791789695;
  int Qn_5 = 2133761257;
@@ -57,7 +57,7 @@ int main(int argc, char** argv) {
     unsigned short int    AX49dZg30D    =    (unsigned short)875913985;
     short int    IMFNl    =    (short)-1468728028;
   unsigned short  N6d4AIbd  =  (unsigned short)-1678391012;
-    unsigned char    COZxRS    =    809603033;
+    unsigned char    COZxRS    =    (unsigned char)809603033;
 	unsigned short int	TY2X	=	-834386035;
 	long long	AXGPYel	=	-1588791136;
  unsigned int bF5__ = 255473129;
@@ -81,7 +81,7 @@ int main(int argc, char** argv) {
 	unsigned long long	P9y2hVWV6	=	-57641479;
   unsigned short  apyqlx8  =  (unsigned short)109550838;
  int c__0528 = 172908481;
-	unsigned short int	sAC74S30U	=	1347061282;
+	unsigned short int	sAC74S30U	=	(unsigned short)1347061282;
 	long	y2JD	=	-808765485;
 	long double	dolM48	=	468417109;
   short int  l44Pc  =  (short)1308317598;

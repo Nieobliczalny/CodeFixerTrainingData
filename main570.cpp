@@ -49,7 +49,7 @@ int main()
 	short	eVNLc0ZU5;
 	eVNLc0ZU5	=	(short)-306800339;
     unsigned char    xixIRJVr;
-    xixIRJVr    =    1886383581;
+    xixIRJVr    =    (unsigned char)1886383581;
 	int	lSNOgx2;
 	lSNOgx2	=	1568885379;
 	unsigned int	xVpmD8;
@@ -109,7 +109,7 @@ int main()
     unsigned short    iq_4VXZ;
     iq_4VXZ    =    (unsigned short)676268393;
   unsigned short int  mXsiMIib6R;
-  mXsiMIib6R  =  -2056663497;
+  mXsiMIib6R  =  (unsigned short)-2056663497;
   int  E5n0;
   E5n0  =  359551627;
   short int  tLcX4wmH;

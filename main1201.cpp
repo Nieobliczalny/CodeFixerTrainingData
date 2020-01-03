@@ -134,7 +134,7 @@ break;
 
 cout << YdVVzit4N(192162801, (short)-1638543351, YOj4V2B_0f, mOW19L6i2, b6cU) << endl;
 G6Rb = (float)(mOW19L6i2 + (411291606));
-cout << ico6(-2108865604, v_5hEJ1e9) << YdVVzit4N(2147119833, (short)1413034917, YOj4V2B_0f, mOW19L6i2, -612280520) << xQPdh8 << endl;
+cout << ico6(-2108865604, v_5hEJ1e9) << YdVVzit4N(2147119833, (short)1413034917, YOj4V2B_0f, mOW19L6i2, (short)-612280520) << xQPdh8 << endl;
 if (GMN0 >= EJoC91g34)
 {
 cout << ico6(1210787947, 235079312) << ico6(-499358567, 1643263571) << endl;

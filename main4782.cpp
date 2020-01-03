@@ -27,7 +27,7 @@ int main() {
 	unsigned long	il46eU	=	-577999896;
     short    ab3J    =    (short)1356805152;
  float w369 = -978616753;
-	short	Z2jvNz7Ax	=	1126944339;
+	short	Z2jvNz7Ax	=	(short)1126944339;
 	char	cOjMP5G9	=	(char)1147472713;
   unsigned int  CI0F6N  =  1098588579;
  long ogs0jBtco_ = 1285711478;

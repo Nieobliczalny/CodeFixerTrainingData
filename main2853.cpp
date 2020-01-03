@@ -26,7 +26,7 @@ int main(int argc, char** argv)
     short int    KN_X3XMCWD    =    (short)1689080731;
     long long    Pwu17y5    =    -1642320217;
     long long    U0VToj_lp    =    -2078224003;
-  unsigned short  y561ZQ  =  -850813913;
+  unsigned short  y561ZQ  =  (unsigned short)-850813913;
  int xb_22jQ5g = -1893297217;
     int    oF3PhI9v    =    -527528426;
 	long long	TYPUcop3x	=	535265263;
@@ -51,7 +51,7 @@ int main(int argc, char** argv)
   unsigned int  ph8_SP  =  1335110279;
     unsigned char    b4kk4SSf    =    (unsigned char)-761054312;
   char  g7huziQ9  =  (char)1023897718;
- char pm7C_Oe = -48537238;
+ char pm7C_Oe = (char)-48537238;
     long long    wE_WT6    =    1606272104;
 	unsigned long	w7IIQ	=	-1390647303;
     unsigned short int    vweRWw    =    (unsigned short)-1021656587;
@@ -69,7 +69,7 @@ int main(int argc, char** argv)
 	unsigned short int	SkNr20EH2	=	(unsigned short)1129299392;
  long long V6SZ = 519597461;
     char    tdAd    =    (char)-2035534329;
-  char  Y1M6  =  1392365545;
+  char  Y1M6  =  (char)1392365545;
 	unsigned short	JdFS	=	(unsigned short)1869081644;
  unsigned short int mm_w = (unsigned short)-812297797;
 	short	q4kt	=	-458428268;
@@ -354,7 +354,7 @@ i++;
 }
 }
 
-std::cout << M7xw(V6SZ, 1309822723, (unsigned char)-63309154, -1718634366) << riDzgp7(-1162921937, IMJghPb) << RVA3S6l1OO << NjVv3_7P9 << FYGBH2(V6SZ) << std::endl;
+std::cout << M7xw(V6SZ, 1309822723, (unsigned char)-63309154, -1718634366) << riDzgp7((char)-1162921937, IMJghPb) << RVA3S6l1OO << NjVv3_7P9 << FYGBH2(V6SZ) << std::endl;
 for (int i = 2; i >= 0; --i)
 {
 for (int j = 3; j >= 0; --j)

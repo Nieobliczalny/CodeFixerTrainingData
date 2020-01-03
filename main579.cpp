@@ -132,7 +132,7 @@ break;
 switch (WK6Ea)
 {
 case 0:
-hRXQAn40p_ = K0PMWTtm0((char)-2013446564, (char)-1929317791, -2062554177) << 239792966;
+hRXQAn40p_ = K0PMWTtm0((char)-2013446564, (char)-1929317791, (char)-2062554177) << 239792966;
 break;
 case 1:
 qqnH_ = ioVW_c5mx((short)780369705, OLUsT4Z40_, LXz9o1c, LSBq6Xdr7, WofzY);
@@ -373,7 +373,7 @@ qnYFUze1Q = ioVW_c5mx((short)971692668, (char)557549319, -1962029772, G33N__7gT,
 }
 l8_gBTnoM = (unsigned short int)(l7qMXx2Z);
 
-std::cout << h0gyC << ioVW_c5mx(qnYFUze1Q, (char)2029180296, vy8QPBU, G33N__7gT, -1534607198) << M3vhmG << std::endl;
+std::cout << h0gyC << ioVW_c5mx(qnYFUze1Q, (char)2029180296, vy8QPBU, G33N__7gT, (short)-1534607198) << M3vhmG << std::endl;
 
 try
 {

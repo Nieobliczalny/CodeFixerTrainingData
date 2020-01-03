@@ -647,7 +647,7 @@ H6_36Y = K9yn(H6_36Y, nba_m8R_ds, B_Z0r4, (unsigned short)1568457634, -293443867
 }
 else if ((w7R_ < dY3aBswoSe) && (VBU56D <= t1mfF))
 {
-nba_m8R_ds = (r48u == WrMhID6OM) ? D5uJ8(-191419957, 1743806724, B_Z0r4, -2109551362, uvcMijBbEC) : 380389411;
+nba_m8R_ds = (r48u == WrMhID6OM) ? D5uJ8((unsigned short)-191419957, 1743806724, B_Z0r4, -2109551362, uvcMijBbEC) : 380389411;
 }
 else if ((mI5_cPvKA9 < B38u) && (WrMhID6OM & B38u))
 {

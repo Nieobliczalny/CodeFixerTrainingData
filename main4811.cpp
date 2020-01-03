@@ -56,7 +56,7 @@ int main(int argc, char** argv) {
  short int d75J7GL5FZ;
  d75J7GL5FZ = (short)306219967;
     char    p024;
-    p024    =    -1850612471;
+    p024    =    (char)-1850612471;
 	short int	CcZXg8m;
 	CcZXg8m	=	(short)-1577586950;
   long double  GH_8ye9;
@@ -215,7 +215,7 @@ case 4:
 N2OBMU1 = co__iv((short)-1622797531);
 break;
 case 5:
-tBuvV6_ = V54331Hl20((char)-137702634, -772350092, jg6_z, 322537938);
+tBuvV6_ = V54331Hl20((char)-137702634, -772350092, jg6_z, (short)322537938);
 break;
 }
 }
@@ -256,7 +256,7 @@ if (yPvY3IM5m <= -1341905252)
 {
 if ((aDC0 < 295174686) || (X7S2WZb1 == -106883977))
 {
-std::cout << V54331Hl20((char)-1205837083, -1062792537, P0ur_61T4, (short)158000038) << y04W_ << co__iv((short)-626535934) << GFi2yU << V54331Hl20(1226170437, m2pg, -322176007, 510386287) << std::endl;
+std::cout << V54331Hl20((char)-1205837083, -1062792537, P0ur_61T4, (short)158000038) << y04W_ << co__iv((short)-626535934) << GFi2yU << V54331Hl20((char)1226170437, m2pg, -322176007, 510386287) << std::endl;
 }
 else if (W27BkD8F & -331251788)
 {
@@ -360,7 +360,7 @@ jg6_z = co__iv((short)-110018428) - 153758827;
 break;
 case 'h':
 case 'H':
-yPvY3IM5m = V54331Hl20(1391869806, -516315392, -676286992, -673353668);
+yPvY3IM5m = V54331Hl20((char)1391869806, -516315392, -676286992, -673353668);
 break;
 case 'i':
 case 'I':
@@ -610,7 +610,7 @@ case 6:
 XZ_Bf = tBuvV6_ - 1345176259;
 break;
 case 7:
-ds69wAuS = V54331Hl20(352544034, -411653859, evKeW29z3K, d75J7GL5FZ);
+ds69wAuS = V54331Hl20((char)352544034, -411653859, evKeW29z3K, d75J7GL5FZ);
 break;
 case 8:
 Xisi_357J = V54331Hl20((char)892108701, yp6N2pfvb3, tBuvV6_, -635839202);
@@ -797,7 +797,7 @@ break;
 }
 }
 
-y04W_ = V54331Hl20(-1878607500, L1CgO5iBOR, ds69wAuS, -1804175227);
+y04W_ = V54331Hl20((char)-1878607500, L1CgO5iBOR, ds69wAuS, -1804175227);
 
 if (EyRu7t9756 >= -1183329140)
 {

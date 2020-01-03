@@ -44,7 +44,7 @@ int main(int argc, char** argv)
  long long X5bEeh = 1479891684;
     unsigned short    iaTB    =    (unsigned short)-2041038388;
 	int	w2o_o5n71	=	-1456730287;
-	char	Ut18JXO3	=	144300481;
+	char	Ut18JXO3	=	(char)144300481;
  char bqwHY65z = -821847823;
   unsigned int  S2M6  =  0;
  int vU_8I057 = 1316939167;
@@ -411,7 +411,7 @@ case 4:
 Ut18JXO3 = pD_u((unsigned short)-402201268, (unsigned char)-64014973);
 break;
 case 5:
-n420N = imcQ8h((unsigned char)-769496493, 2103635576);
+n420N = imcQ8h((unsigned char)-769496493, (unsigned char)2103635576);
 break;
 case 6:
 P_7A720hk = bSmE6zf(P_7A720hk, S2M6);
@@ -617,7 +617,7 @@ case 2:
 S2M6 = BAQVYBt(o4Msqttn, (unsigned char)-1987571300, (unsigned short)1965489295);
 break;
 case 3:
-S2M6 = BAQVYBt(n420N, (unsigned char)-1591588745, -261015992);
+S2M6 = BAQVYBt(n420N, (unsigned char)-1591588745, (unsigned short)-261015992);
 break;
 default:
 DQePwv = imcQ8h(DQePwv, o4Msqttn);

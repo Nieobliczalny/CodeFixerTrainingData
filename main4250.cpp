@@ -200,7 +200,7 @@ case 1:
 Y163P8p = RVdveuf(Y163P8p, (unsigned char)-1276675405, Q2W4FLw6QU, (short)22831014);
 break;
 case 2:
-k28S = RVdveuf((unsigned short)589408842, Q___WK7Oo, gMv7ivcm, -931913169);
+k28S = RVdveuf((unsigned short)589408842, Q___WK7Oo, gMv7ivcm, (short)-931913169);
 break;
 case 3:
 f0Q2kF0Vmd = Kpa8FO(Q___WK7Oo, k28S);
@@ -357,7 +357,7 @@ gMv7ivcm = Kpa8FO((unsigned char)-1491010008, -34017193);
 break;
 case 'h':
 case 'H':
-Y163P8p = RVdveuf(Y163P8p, (unsigned char)2066144869, -670019496, -567052031);
+Y163P8p = RVdveuf(Y163P8p, (unsigned char)2066144869, -670019496, (short)-567052031);
 break;
 case 'i':
 case 'I':

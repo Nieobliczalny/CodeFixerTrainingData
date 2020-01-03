@@ -63,7 +63,7 @@ int main()
   long long  L5Rbd8  =  -1865106457;
 	unsigned char	RmB1lM6	=	(unsigned char)-910475903;
   int  c2bX7  =  -552659619;
- short int u0vInW734L = 2086977328;
+ short int u0vInW734L = (short)2086977328;
   unsigned long  WdrL95Er8s  =  0;
   unsigned short  G7fE542Hi8  =  2018084350;
  char X6_w = 1719930478;

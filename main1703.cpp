@@ -57,7 +57,7 @@ int main(int argc, char** argv)
  short e73__q32J;
  e73__q32J = (short)1699474875;
 	short int	RIhute_Q25;
-	RIhute_Q25	=	575704026;
+	RIhute_Q25	=	(short)575704026;
 	unsigned long long	JFrghbt;
 	JFrghbt	=	-1848756663;
  unsigned short int mz0j9RD;

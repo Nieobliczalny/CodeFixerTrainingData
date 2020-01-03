@@ -98,7 +98,7 @@ int main(void)
  unsigned short f3w3h0gRKQ;
  f3w3h0gRKQ = (unsigned short)986694936;
   char  bTte;
-  bTte  =  -976389334;
+  bTte  =  (char)-976389334;
   long long  DGN7;
   DGN7  =  1743367302;
     unsigned long long    FFYv;

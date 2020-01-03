@@ -36,7 +36,7 @@ int main(void)
 	POub	=	(unsigned char)-2003769889;
 	Ykw9j	=	(unsigned char)-1452524623;
 	vy_27StX	=	(unsigned char)-1262071898;
-	Uj818UU9y	=	-1263990945;
+	Uj818UU9y	=	(unsigned char)-1263990945;
 	SPK2Xk3PU5	=	(unsigned char)1657104815;
 	xxfT1m44	=	-955967370;
 	VkfUI	=	1174725863;
@@ -46,7 +46,7 @@ int main(void)
 	chG4	=	(unsigned char)-594475690;
 	sY78h95rr	=	(unsigned char)525203951;
 	a777FfYr	=	(unsigned char)399446746;
-	En3t082j	=	1976849205;
+	En3t082j	=	(unsigned char)1976849205;
 	OUz_hl0KS	=	(unsigned char)522656436;
 	yK418d	=	751488232;
 	EArem7C0	=	2132840525;
@@ -56,7 +56,7 @@ int main(void)
 	njysO4_t9e	=	(unsigned char)-705337844;
 	QAD2DR	=	(unsigned char)-98539858;
 	Ypf63678X	=	(unsigned char)624178359;
-	I4TelB_g62	=	-625278737;
+	I4TelB_g62	=	(unsigned char)-625278737;
 	Em367	=	(unsigned char)-1860313754;
 	SbpVf	=	803492133;
 	GPQwPS2_	=	1255006886;
@@ -66,7 +66,7 @@ int main(void)
 	RiZE4YME	=	(unsigned char)-555447404;
 	F4J24P0	=	(unsigned char)993122546;
 	fLwL1ue9a	=	(unsigned char)-2009026268;
-	CxsUs4	=	2144160608;
+	CxsUs4	=	(unsigned char)2144160608;
 	F9T63pwML8	=	(unsigned char)-1939644330;
 	kf3UlXx6Dt	=	-1798431016;
 	PCi71An9	=	1866601227;
@@ -76,7 +76,7 @@ int main(void)
 	AqhaG	=	(unsigned char)-802899475;
 	x7_LDy_Eg9	=	(unsigned char)1868899742;
 	I3x4R	=	(unsigned char)883312612;
-	iGk0U34	=	-122677923;
+	iGk0U34	=	(unsigned char)-122677923;
 	OiJ1Ww1	=	(unsigned char)1982038846;
 	E23zQwU_l	=	1697122737;
 	EY5l549u	=	748766508;
@@ -86,7 +86,7 @@ int main(void)
 	TzEbs5	=	(unsigned char)1974246238;
 	u87300hY	=	(unsigned char)1983927223;
 	t_rFM	=	(unsigned char)1457789524;
-	jYyJsSqQJ	=	358342499;
+	jYyJsSqQJ	=	(unsigned char)358342499;
  char m8I8, D0Fp4VN9, VS6LM1h;
  m8I8 = 0;
  D0Fp4VN9 = 0;
@@ -376,7 +376,7 @@ else
 switch (G_9K)
 {
 case 'a':
-En3t082j = (G_9K >= -478277232) ? K165zYrn73((unsigned short)-1624613640, -1403867027, (unsigned short)-193615734) : -1584025600;
+En3t082j = (G_9K >= -478277232) ? K165zYrn73((unsigned short)-1624613640, -1403867027, (unsigned short)-193615734) : (unsigned char)-1584025600;
 break;
 case 'b':
 m8I8 = g1V5Dp05R(pcDi, 189391308, vy_27StX, 1622140526, CxsUs4);

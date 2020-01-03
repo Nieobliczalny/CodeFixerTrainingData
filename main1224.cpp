@@ -517,7 +517,7 @@ case 2:
 LWD_eF = e_RdpMxl();
 break;
 case 3:
-vnZwt = X8khYkv4_9((unsigned short)-317097471, -1020565801, gkd03, K25e7Oo6);
+vnZwt = X8khYkv4_9((unsigned short)-317097471, (unsigned char)-1020565801, gkd03, K25e7Oo6);
 break;
 case 4:
 G9176m2 = S3Dz / w_Xd914XD;

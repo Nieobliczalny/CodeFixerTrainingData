@@ -312,7 +312,7 @@ case 3:
 CI2md = ktDV(yE47Y0mN, tmRwjq, 924400627, c3cDu);
 break;
 case 4:
-Oi4_m_7 = ktDV(yE47Y0mN, (short)-1654738529, -1457769341, -1272237958) - GUDPYDx;
+Oi4_m_7 = ktDV(yE47Y0mN, (short)-1654738529, -1457769341, (unsigned short)-1272237958) - GUDPYDx;
 break;
 case 5:
 x31z860C8 -= 449900461;
@@ -809,7 +809,7 @@ u_8Zx3d5Y5 = D3FR2r3(1124200476, 195392450, (unsigned short)861750165, (unsigned
 }
 else if (FE62M == znYYVgFb8)
 {
-znYYVgFb8 = ktDV(GUDPYDx, I_NQOI, 566805033, 1693783822);
+znYYVgFb8 = ktDV(GUDPYDx, I_NQOI, 566805033, (unsigned short)1693783822);
 }
 else
 {
@@ -836,7 +836,7 @@ T7Ov59zr = Vv4U1GB(T7Ov59zr, Jl9_q, znYYVgFb8, 1504765701);
 int i = 8;
 while (i >= 0)
 {
-cout << uXsV83dCt << D3FR2r3(489942985, 340833649, (unsigned short)1456279425, (unsigned char)905469984) << D3FR2r3(T7Ov59zr, Jl9_q, znYYVgFb8, (unsigned char)-698862563) << D3FR2r3(T7Ov59zr, 2034654280, (unsigned short)-1398104003, -1035796370) << endl;
+cout << uXsV83dCt << D3FR2r3(489942985, 340833649, (unsigned short)1456279425, (unsigned char)905469984) << D3FR2r3(T7Ov59zr, Jl9_q, znYYVgFb8, (unsigned char)-698862563) << D3FR2r3(T7Ov59zr, 2034654280, (unsigned short)-1398104003, (unsigned char)-1035796370) << endl;
 --i;
 }
 }

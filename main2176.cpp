@@ -47,7 +47,7 @@ int main(int argc, char** argv) {
  unsigned short int mJ3DnTg6g;
  mJ3DnTg6g = (unsigned short)-1980297563;
 	char	wL35;
-	wL35	=	-633129089;
+	wL35	=	(char)-633129089;
   int  X261;
   X261  =  -1547134936;
   short int  vpLq78tg;

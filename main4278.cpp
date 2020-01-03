@@ -29,7 +29,7 @@ int main(int argc, char** argv)
     int    XlgtHV    =    631932399;
   float  x82q  =  1720363857;
  short int K944_T = (short)949123324;
-  unsigned short int  Vqu5fXNtW  =  1908487735;
+  unsigned short int  Vqu5fXNtW  =  (unsigned short)1908487735;
   unsigned int  oCur  =  -1764591268;
   long long  B1O1CVng  =  -903948291;
     unsigned short    El_Cq5AeG    =    (unsigned short)415656881;
@@ -48,7 +48,7 @@ int main(int argc, char** argv)
  long long rYZGt6U2YU = 0;
   unsigned char  F9HPa1  =  (unsigned char)645140771;
     short    Yl2G83782    =    (short)-2117446784;
-    unsigned short int    Iy17du6oUG    =    -460800975;
+    unsigned short int    Iy17du6oUG    =    (unsigned short)-460800975;
   long long  mqQALd5R  =  1602512968;
  double H248wH2mt = -1975380309;
  unsigned short int WdxK8U_91 = (unsigned short)1186675835;

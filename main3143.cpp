@@ -58,7 +58,7 @@ s4l401w7 = RugQq((unsigned short)-2098542030, -1285463372, AdJ370G, -782275078, 
 break;
 case 'b':
 case 'B':
-s4l401w7 = RugQq((unsigned short)-2093587935, -21538021, AdJ370G, -701404941, 373387935);
+s4l401w7 = RugQq((unsigned short)-2093587935, -21538021, AdJ370G, -701404941, (unsigned short)373387935);
 break;
 case 'c':
 case 'C':

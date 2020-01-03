@@ -51,7 +51,7 @@ int main()
  unsigned short as6bPQ73rn = (unsigned short)1603530525;
     unsigned char    CYARt60B    =    (unsigned char)796430188;
  unsigned long long uIsr = -2101133306;
-  unsigned short  DN8L3BE_6  =  -685019528;
+  unsigned short  DN8L3BE_6  =  (unsigned short)-685019528;
  short int EtC9ns53f = 1660613655;
   unsigned short  BUT33Al_V  =  1779553198;
 	unsigned long long	Z65zkIahAv	=	1835698576;
@@ -145,7 +145,7 @@ jUw4 = HFDQGo_p(jUw4, jVb9mcw, 1013413706, (unsigned short)1311510111, (short)14
 int i = 8;
 while (i >= 0)
 {
-std::cout << HFDQGo_p((unsigned short)793949279, jVb9mcw, 319254998, YaZ9rW, d8M2kCCSz) << HFDQGo_p(jUw4, jVb9mcw, 1491009657, (unsigned short)-1713194644, 664379236) << std::endl;
+std::cout << HFDQGo_p((unsigned short)793949279, jVb9mcw, 319254998, YaZ9rW, d8M2kCCSz) << HFDQGo_p(jUw4, jVb9mcw, 1491009657, (unsigned short)-1713194644, (short)664379236) << std::endl;
 i--;
 }
 }

@@ -74,7 +74,7 @@ if ((o53_TS_GJh / o7V0b52uo3((unsigned short)1710712144, (short)1820706591)) == 
 {
 if ((X1P3ikJc(UM0f72165_, T9O3_u37wb, (short)-949044722, (unsigned short)-1248852643) / o53_TS_GJh) > -627429938)
 {
-uP93F1B = 317267553 / o7V0b52uo3(1750805897, T9O3_u37wb);
+uP93F1B = 317267553 / o7V0b52uo3((unsigned short)1750805897, T9O3_u37wb);
 }
 }
 

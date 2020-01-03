@@ -124,7 +124,7 @@ T0PVK_NcL = IM14qVz5FF(T0PVK_NcL, (unsigned char)-805652350, Oc_1f5p3);
 
 std::cout << ZsTsz_lc << MFB55((short)-770816641, 2004479550, (short)1134711433, (char)882905930) << std::endl;
 
-T0PVK_NcL = mc3qC_O(T0PVK_NcL, -2016221399);
+T0PVK_NcL = mc3qC_O(T0PVK_NcL, (unsigned short)-2016221399);
 if (YH_F & 1977448123)
 {
 {
@@ -256,7 +256,7 @@ case 'g':
 W9_MDV = mN2Tw6iCF + 845946024;
 break;
 }
-std::cout << MFB55(e3WZzd5, -847734885, E5oBclx, (char)-475977981) << MFB55((short)-286719003, 1631264200, (short)709934328, 1263087857) << std::endl;
+std::cout << MFB55(e3WZzd5, -847734885, E5oBclx, (char)-475977981) << MFB55((short)-286719003, 1631264200, (short)709934328, (char)1263087857) << std::endl;
 
 try
 {

@@ -254,7 +254,7 @@ case 4:
 svTeCB78f = RfWk((short)-2019145487, (short)1092090352, -750878719, (unsigned char)-1476019849, BAKbf);
 break;
 case 5:
-Ws_273 = PyQg6lbc9M(Ws_273, (unsigned short)-1396254044, 1314477230, XBKyyjK3n);
+Ws_273 = PyQg6lbc9M(Ws_273, (unsigned short)-1396254044, (char)1314477230, XBKyyjK3n);
 break;
 case 6:
 QR8shv1 <<= kRUP96y;

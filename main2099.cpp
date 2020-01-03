@@ -144,7 +144,7 @@ int main(void) {
   short  F84izaD;
   F84izaD  =  (short)-1828718724;
     unsigned char    bbe4Mli;
-    bbe4Mli    =    -1603065975;
+    bbe4Mli    =    (unsigned char)-1603065975;
     float    iI20;
     iI20    =    -1698637379;
     unsigned long long    SM7Cq1;

@@ -231,7 +231,7 @@ case 3:
 d0_2bQiY = N3h9b3 + 383112643;
 break;
 case 4:
-YNRRRkfAv0 = Q994Osn((unsigned short)-14902877, (unsigned char)1445658219, -789255940, -1384243110);
+YNRRRkfAv0 = Q994Osn((unsigned short)-14902877, (unsigned char)1445658219, (unsigned char)-789255940, -1384243110);
 break;
 case 5:
 QKsh = (int)abs(q5J2Bm7ac5);
@@ -333,7 +333,7 @@ case 4:
 QKsh *= nlvHrp0;
 break;
 case 5:
-PsQ3nTCo = sQUi_(PsQ3nTCo, 418314246, TdVEvW3AsP);
+PsQ3nTCo = sQUi_(PsQ3nTCo, (unsigned char)418314246, TdVEvW3AsP);
 break;
 case 6:
 iRF4Qx = Q994Osn((unsigned short)1057679424, (unsigned char)-1173963769, -164456990, -1977990175);

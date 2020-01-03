@@ -103,7 +103,7 @@ while (j >= 0);
 }
 zj96297Q7 = o0NRo5m8(-1141066128, (char)1768824464, (unsigned short)1811258359, (unsigned short)-1995918457, pGd06);
 
-FfrkuV = -1786181217 / o0NRo5m8(290003854, i_Qm8, -777141964, urouk4xA, pGd06);
+FfrkuV = -1786181217 / o0NRo5m8(290003854, i_Qm8, (unsigned short)-777141964, urouk4xA, pGd06);
 
 switch (EA2l3Px_R)
 {

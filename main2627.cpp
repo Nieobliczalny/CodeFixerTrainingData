@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
  char A6y0ZZ06P = (char)1462781195;
 	unsigned char	yNYg4_v	=	(unsigned char)2119624823;
 	short	Bs_TV	=	(short)673569344;
-    unsigned char    flfU541un    =    1242098541;
+    unsigned char    flfU541un    =    (unsigned char)1242098541;
 	long	nHwI77nnM	=	0;
 	long long	j8ifh	=	1639683762;
 	short int	dCRjd5x4m7	=	(short)669919659;

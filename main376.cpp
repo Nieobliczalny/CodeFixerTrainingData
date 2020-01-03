@@ -55,7 +55,7 @@ int main(int argc, char** argv)
 	char	ZJFE6M	=	(char)-1588175388;
  short int aCoR = 0;
   int  A_Lx  =  0;
-	unsigned char	gSgiZ0C8	=	-528141846;
+	unsigned char	gSgiZ0C8	=	(unsigned char)-528141846;
 	unsigned char	HnPu397	=	0;
   long double  xurwp4ITCO  =  1758208261;
 

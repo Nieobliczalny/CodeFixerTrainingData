@@ -240,7 +240,7 @@ std::cout << Gbs_cSQ << TA8i4H32(nY3vr_xBmG, Kd6egp01_, (short)1029231200, 97276
 }
 else
 {
-z_I6 = TA8i4H32(-1907193061, Gbs_cSQ, vyJw, eOM1Y_4z7N, N84n1_fhF1);
+z_I6 = TA8i4H32((short)-1907193061, Gbs_cSQ, vyJw, eOM1Y_4z7N, N84n1_fhF1);
 }
 }
 else if (w_1W87 != -651964422)

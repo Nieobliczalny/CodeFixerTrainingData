@@ -216,7 +216,7 @@ int main() {
   short  xhHI_1p;
   xhHI_1p  =  (short)-1235080795;
  unsigned short TP7X09;
- TP7X09 = -823312335;
+ TP7X09 = (unsigned short)-823312335;
   unsigned char  rx4z8Oi;
   rx4z8Oi  =  (unsigned char)1739717493;
     short int    LjjtdwNB;

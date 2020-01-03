@@ -70,7 +70,7 @@ case 'e':
 s_020jl %= 1074283554;
 break;
 case 'f':
-yssO = K830zvuWs(2081063715, (short)-157276029, 2016791838);
+yssO = K830zvuWs(2081063715, (short)-157276029, (unsigned short)2016791838);
 break;
 case 'g':
 F835Mxl4U = K830zvuWs(F835Mxl4U, J7LkQ_bs_d, (unsigned short)661551565);
@@ -495,7 +495,7 @@ std::cout << f6Lq0Y << "bHRI6lY" << sBX0((unsigned short)-1524385370, jUS3F_t8, 
 int i = 0;
 do
 {
-std::cout << V524W5h8(983899082, (unsigned short)1840513253, -840195704, 1310464116) << sBX0((unsigned short)1658948065, jUS3F_t8, -684977160) << p5lSS7e0 << std::endl;
+std::cout << V524W5h8(983899082, (unsigned short)1840513253, -840195704, 1310464116) << sBX0((unsigned short)1658948065, jUS3F_t8, (unsigned char)-684977160) << p5lSS7e0 << std::endl;
 ++i;
 }
 while (i < 10);

@@ -56,7 +56,7 @@ int main(void) {
  long j08h297c0 = 805390373;
     unsigned char    p95aw    =    (unsigned char)-617848407;
 	short	hf2bAv	=	(short)-1575021586;
-  unsigned short int  Av9by04nR  =  -559847119;
+  unsigned short int  Av9by04nR  =  (unsigned short)-559847119;
 	short	cxlyQ	=	(short)1184139658;
     short    a32r    =    -237377510;
 

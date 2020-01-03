@@ -92,7 +92,7 @@ int main(int argc, char** argv)
 	short	V68A3ao2	=	(short)1562026522;
  float a8771 = -1794258502;
  double vA_jU6HNcZ = -1034779976;
- unsigned short int C1_y_Y4X5 = 427291272;
+ unsigned short int C1_y_Y4X5 = (unsigned short)427291272;
     long    y1my_8xP1L    =    -756191959;
 
 if (Zvki1Ir4F & icve_H38Ih)

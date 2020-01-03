@@ -33,7 +33,7 @@ int main(void)
   long long  C8W_3v8320  =  -123624718;
 	unsigned long	F8BVi	=	-132404379;
   unsigned short int  EfStn7  =  (unsigned short)1709148614;
-	short	iM7TLA	=	-1820381793;
+	short	iM7TLA	=	(short)-1820381793;
 	unsigned short int	iwvS	=	(unsigned short)916379270;
     double    C_wKUR96y    =    853911994;
  long long A9kSI83Q = -1767899131;

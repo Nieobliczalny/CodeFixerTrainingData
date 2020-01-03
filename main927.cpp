@@ -186,7 +186,7 @@ int main(void) {
 	char	s_C_ey9wz3;
 	s_C_ey9wz3	=	(char)-514498890;
   unsigned short int  uf90_sqyPf;
-  uf90_sqyPf  =  -256810001;
+  uf90_sqyPf  =  (unsigned short)-256810001;
 	long long	JD9Dz;
 	JD9Dz	=	1397340608;
   unsigned short int  oK3w7C7qOy;

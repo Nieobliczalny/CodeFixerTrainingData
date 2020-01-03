@@ -32,7 +32,7 @@ cout << CY9rV30q << ZwZDC2MY8J(O_T1oX, (short)-1436795884, Q655ze7e, (short)7403
 int i = 0;
 while (i < 7)
 {
-cout << rKBYb(O_T1oX, blX3LvOd2, Q655ze7e, N3_a864v1) << "aEg2_xxg" << ZwZDC2MY8J(1265650373, 1658263338, 1395525890, N3_a864v1, -351670798) << "LC0d56j" << endl;
+cout << rKBYb(O_T1oX, blX3LvOd2, Q655ze7e, N3_a864v1) << "aEg2_xxg" << ZwZDC2MY8J(1265650373, (short)1658263338, 1395525890, N3_a864v1, -351670798) << "LC0d56j" << endl;
 i++;
 }
 }

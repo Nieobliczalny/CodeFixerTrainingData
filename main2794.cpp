@@ -104,7 +104,7 @@ int main(int argc, char** argv) {
     unsigned char    XI7SBXlo;
     XI7SBXlo    =    (unsigned char)596705227;
     char    d3T1;
-    d3T1    =    1187551863;
+    d3T1    =    (char)1187551863;
   unsigned int  s082B4i;
   s082B4i  =  -358185085;
     char    q_5qIrc_s5;

@@ -27,7 +27,7 @@ int main(void) {
     PYpQ5    =    (short)392291197;
     QS0Xgi    =    (short)-1012817020;
     VUU8kEdZz    =    (short)2110784621;
-    Pl_1C9    =    760374500;
+    Pl_1C9    =    (short)760374500;
     t0R06kM8    =    -1150921103;
     X249nhQ    =    -1470053096;
     OzrY    =    1456959732;
@@ -37,7 +37,7 @@ int main(void) {
     Wq1YRFJhL    =    (short)-1505174265;
     wLgrZ    =    (short)-1665721775;
     j2kzi_t2    =    (short)1970006756;
-    oU5647O5A    =    1132196882;
+    oU5647O5A    =    (short)1132196882;
     D8328Za_    =    413589348;
     FH455    =    270529619;
     A56KCgp3rD    =    -1646367054;
@@ -47,7 +47,7 @@ int main(void) {
     LuVR6F    =    (short)-2071510024;
     vAad5n7N5    =    (short)-353459984;
     Mvl02    =    (short)1694319606;
-    w2YWOj1    =    -186408168;
+    w2YWOj1    =    (short)-186408168;
     DGpkk    =    -259519719;
     q4_A41    =    -404033332;
     WwJ2e    =    888516614;
@@ -57,7 +57,7 @@ int main(void) {
     tNx_KMb    =    (short)1396929782;
     I713R    =    (short)130229741;
     N9_Z7M    =    (short)1522507384;
-    Ip60    =    482611631;
+    Ip60    =    (short)482611631;
     sXO12p    =    1550098417;
     pclEb    =    -75063585;
     s4QgP24z1O    =    -1989538713;
@@ -67,7 +67,7 @@ int main(void) {
     cc7NouW    =    (short)-163841323;
     eM08Txv    =    (short)1049829985;
     jV46b    =    (short)-848392217;
-    AzTF5Y    =    1135332600;
+    AzTF5Y    =    (short)1135332600;
     A_hz    =    -1291331437;
     rFy8h    =    -887000587;
     zI0PD39v    =    -461347975;
@@ -77,7 +77,7 @@ int main(void) {
     B6UeNTPUG    =    (short)-724479105;
     OU3IT    =    (short)-505580779;
     K3yH6M84lb    =    (short)1428473032;
-    q19a_u8    =    210479466;
+    q19a_u8    =    (short)210479466;
     r8Y9XdcG8    =    1572086288;
     ERlM1jUj4G    =    1694983658;
     r7_5    =    1575961788;
@@ -87,7 +87,7 @@ int main(void) {
     H_49wdCF6w    =    (short)1832472978;
     gWrY    =    (short)-179669509;
     jOulnaH    =    (short)956902958;
-    Avd82    =    1753880084;
+    Avd82    =    (short)1753880084;
     Z9Riq3    =    1253504925;
 
 {

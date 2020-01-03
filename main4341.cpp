@@ -111,7 +111,7 @@ int main(int argc, char** argv)
  short gY_aYDhB;
  gY_aYDhB = (short)-359100145;
 	short	IJP3uZp6d;
-	IJP3uZp6d	=	-2121131527;
+	IJP3uZp6d	=	(short)-2121131527;
   unsigned long long  W90a2p;
   W90a2p  =  -170034386;
 	short	j92ga709pE;

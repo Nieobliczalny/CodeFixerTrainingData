@@ -23,7 +23,7 @@ int main()
 	unsigned long long	m64Lgci	=	-140695319;
     short int    t79SQae    =    (short)1608760031;
 	double	GUX62Tl	=	-1668350960;
-  short  zLoKf5My  =  -391103237;
+  short  zLoKf5My  =  (short)-391103237;
 	long double	vQ_AgZF5	=	1313010598;
  unsigned long Or_J5Y_04G = -454363752;
  short int P7G820q_9z = (short)-447459845;
@@ -34,7 +34,7 @@ int main()
 	short	nieJ2KK	=	(short)-523900847;
   long  gxnuVM_5l  =  -2128791256;
  unsigned short int Xh33_pZ34M = (unsigned short)-237540803;
-	unsigned short	LHP6mmd5	=	2142301971;
+	unsigned short	LHP6mmd5	=	(unsigned short)2142301971;
   short  kLcY  =  1091085869;
   double  wz204  =  -658912241;
   float  SVfn6R2G  =  -1277821844;
@@ -72,7 +72,7 @@ int main()
     unsigned char    DKH1    =    (unsigned char)-1125588223;
   long long  i2b5ar0z  =  2088722306;
 	short int	PIk87j	=	(short)-174719962;
-	short	dR_f	=	256308431;
+	short	dR_f	=	(short)256308431;
     unsigned char    KM_64nIVW8    =    1458506910;
   short int  TSw90  =  -14474440;
  double f09sDPfGk = -684579177;
@@ -436,7 +436,7 @@ case 3:
 ABSZHi = JCeFbme((short)-1457759969, (unsigned char)768981132);
 break;
 case 4:
-ABSZHi = JCeFbme(-849987707, VJc8mTI7Z);
+ABSZHi = JCeFbme((short)-849987707, VJc8mTI7Z);
 break;
 case 5:
 ABSZHi = JCeFbme(GUX62Tl, (unsigned char)369498348);
@@ -465,7 +465,7 @@ case 'a':
 ABSZHi = JCeFbme(RJy1vt6_, (unsigned char)-523489568);
 break;
 case 'b':
-PIk87j = (d4Z6u28V >= 305556448) ? JCeFbme((short)1202384644, 2067083325) : KM_64nIVW8;
+PIk87j = (d4Z6u28V >= 305556448) ? JCeFbme((short)1202384644, (unsigned char)2067083325) : KM_64nIVW8;
 break;
 case 'c':
 WQ1nIa = (int)floor(X_RSt5a);

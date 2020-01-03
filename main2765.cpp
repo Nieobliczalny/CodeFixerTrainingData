@@ -61,7 +61,7 @@ int main(int argc, char** argv)
   unsigned short int  J_VX_T55;
   J_VX_T55  =  (unsigned short)-1588407442;
     unsigned short int    lK_8_;
-    lK_8_    =    -2096578210;
+    lK_8_    =    (unsigned short)-2096578210;
  short n0OrGJuRZS;
  n0OrGJuRZS = (short)-1695719582;
  unsigned char Gafd;
@@ -119,7 +119,7 @@ int main(int argc, char** argv)
  unsigned short JgYAnjL;
  JgYAnjL = (unsigned short)-1789758399;
   char  p42x_;
-  p42x_  =  -20154586;
+  p42x_  =  (char)-20154586;
 	short int	JaU8o5Y;
 	JaU8o5Y	=	(short)178084275;
 	unsigned long long	J6Fx;

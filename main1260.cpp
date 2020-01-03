@@ -87,7 +87,7 @@ int main() {
   short  qkgFpU_zKM;
   qkgFpU_zKM  =  (short)669571939;
   short  PJ5HTFVtt;
-  PJ5HTFVtt  =  -2136811391;
+  PJ5HTFVtt  =  (short)-2136811391;
     float    l_b2mQVO6w;
     l_b2mQVO6w    =    -1030355750;
  unsigned long long GZPEVOZ5yJ;

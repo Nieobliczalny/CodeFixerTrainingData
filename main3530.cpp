@@ -130,7 +130,7 @@ int main(int argc, char** argv) {
  unsigned char G17Zi;
  G17Zi = 0;
 
-std::cout << TP6H(-31920257, luXqLd2, bel_8cg, lGvnE6, b0sy4Cl) << FHOuhY(-1450940276, -88416451, (char)525096358, 101246143, 797248683) << "C_3sX" << std::endl;
+std::cout << TP6H(-31920257, luXqLd2, bel_8cg, lGvnE6, b0sy4Cl) << FHOuhY(-1450940276, -88416451, (char)525096358, 101246143, (unsigned short)797248683) << "C_3sX" << std::endl;
 
 switch (irlDB)
 {

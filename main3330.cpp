@@ -76,7 +76,7 @@ std::cout << "g66G" << M5UJ_zSv << s77Gfgi(-337911812, (short)749045726, (unsign
 
 if (S9AFj_4ZK5 <= DWUc7zt5)
 {
-M5UJ_zSv = gEHXY5Cfr(-2062969627, 269967144);
+M5UJ_zSv = gEHXY5Cfr(-2062969627, (unsigned short)269967144);
 }
 else if (gT990r < 379400836)
 {

@@ -183,7 +183,7 @@ VESA = FH9zru_480((unsigned char)1919300409, (char)-687833518, Y1s7oOBKT, (short
 }
 else if (ERW2Y5Rm)
 {
-zt37DYI = FH9zru_480((unsigned char)-1403584427, 1164280815, -2048464293, T3wGT0v);
+zt37DYI = FH9zru_480((unsigned char)-1403584427, (char)1164280815, -2048464293, T3wGT0v);
 }
 else if ((HgH9N >= 1006489881) && (Wm3O4 >= -1470887031))
 {

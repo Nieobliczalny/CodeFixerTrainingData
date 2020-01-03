@@ -39,7 +39,7 @@ int main(void) {
     unsigned char    e80mS    =    (unsigned char)2069637758;
     unsigned long    Iz2Yo    =    1395400227;
     unsigned short int    q_6s    =    (unsigned short)-26693923;
-    short int    j6hQ    =    1735397141;
+    short int    j6hQ    =    (short)1735397141;
   long  RFPoyr4  =  -419595033;
     long    dn49y    =    1257137812;
     long    UTji959I    =    -1520339795;

@@ -19,7 +19,7 @@ int main(void)
  long long fpm2_6 = 0;
     short int    Lqed    =    (short)-804910171;
  unsigned int HR2v = 1304479976;
-    short    hRy1bOUmh    =    -2044100919;
+    short    hRy1bOUmh    =    (short)-2044100919;
 	long	E0g6xN4lux	=	-319714107;
     unsigned long long    TyNB4_    =    -1997997512;
 	short int	q90u5I	=	(short)-388700539;

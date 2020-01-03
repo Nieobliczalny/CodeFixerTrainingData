@@ -45,7 +45,7 @@ int main() {
  long t7p67lo0ky = -1527672557;
 	unsigned short int	UXvvn3	=	(unsigned short)1751657017;
 
-cout << "fWpa5Y2" << "H_p5E" << fMbDmo(UXvvn3, -1095844502, Nj9337S, 1755671452, U9j2Jv254) << endl;
+cout << "fWpa5Y2" << "H_p5E" << fMbDmo(UXvvn3, (unsigned char)-1095844502, Nj9337S, 1755671452, U9j2Jv254) << endl;
 
 for (int i = 0; i < 1; ++i)
 {
@@ -134,7 +134,7 @@ mKys5O7 = fMbDmo(1514533037, (unsigned char)-209160754, (unsigned char)108396872
 break;
 case 'd':
 case 'D':
-mKys5O7 = G5fuy3YHo((unsigned short)1651529255, (short)1915387565, -915539329, 1952342422, Vz58);
+mKys5O7 = G5fuy3YHo((unsigned short)1651529255, (short)1915387565, -915539329, (short)1952342422, Vz58);
 break;
 case 'e':
 case 'E':

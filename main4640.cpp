@@ -139,7 +139,7 @@ int main() {
   short  CK36gk2;
   CK36gk2  =  (short)1721727734;
   unsigned short int  aiN1B6_3;
-  aiN1B6_3  =  1630862722;
+  aiN1B6_3  =  (unsigned short)1630862722;
 	long long	Yh4FUo0oRa;
 	Yh4FUo0oRa	=	-801333546;
 	int	AH4PpHUg;

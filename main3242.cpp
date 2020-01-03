@@ -51,7 +51,7 @@ int main(int argc, char** argv) {
   double  KkCPMKP35P  =  -110846859;
 	unsigned char	M8WNhH5E	=	(unsigned char)-1619089046;
  unsigned short int Y48g15Y0eT = (unsigned short)1405179431;
-    unsigned short    GsABv_z    =    1739368135;
+    unsigned short    GsABv_z    =    (unsigned short)1739368135;
     unsigned long    Sk9W5    =    1257469712;
     unsigned short int    fAt73    =    (unsigned short)-1845540211;
 	int	qe1h	=	-1832193946;

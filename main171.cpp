@@ -699,7 +699,7 @@ case 3:
 CsAMAa_T = (i6TPIh_nb < 704362563) ? I3Waa9_18 : my3Hqp(KcH46, B31_I, IbRpG180_1);
 break;
 case 4:
-z96n0 = my3Hqp((short)696312820, (short)-329695884, 1552144880);
+z96n0 = my3Hqp((short)696312820, (short)-329695884, (unsigned short)1552144880);
 break;
 case 5:
 KIPW9 = eFRs(KIPW9, 1652544961, -1067086154, 764106220, -91847632);

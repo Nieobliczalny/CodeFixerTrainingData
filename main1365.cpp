@@ -176,7 +176,7 @@ int main(void) {
  char O188tx;
  O188tx = (char)1614117110;
     unsigned short    QF0vG686N_;
-    QF0vG686N_    =    1260127277;
+    QF0vG686N_    =    (unsigned short)1260127277;
     unsigned short    s4_Nv4L76G;
     s4_Nv4L76G    =    (unsigned short)184171767;
   unsigned short  EjJ37jO5l8;

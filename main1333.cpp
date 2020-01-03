@@ -40,7 +40,7 @@ int main(void)
 	unsigned char	GnT_780_E;
 	GnT_780_E	=	(unsigned char)1495087657;
  short int GHPv79x6t;
- GHPv79x6t = 837926474;
+ GHPv79x6t = (short)837926474;
   short int  EZqgmCI;
   EZqgmCI  =  (short)1408581499;
   long double  Z56DJ1ye66;
@@ -82,7 +82,7 @@ int main(void)
     unsigned char    Y3554;
     Y3554    =    (unsigned char)2016368793;
 	unsigned char	m356x0;
-	m356x0	=	1744673485;
+	m356x0	=	(unsigned char)1744673485;
 	float	bNK6YHLfg;
 	bNK6YHLfg	=	770866129;
     unsigned long    Rll8Q;

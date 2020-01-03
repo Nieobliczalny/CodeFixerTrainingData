@@ -37,7 +37,7 @@ int main(void)
 	unsigned short int	Vdn2I2jSiS	=	0;
  char A_As55a6wH = 0;
   unsigned char  EQ3p9IvV_  =  (unsigned char)-1197262774;
- short kRqg0 = -880881740;
+ short kRqg0 = (short)-880881740;
 
 if (Y3ov_82CG == 408559797)
 {
@@ -306,7 +306,7 @@ case 3:
 X2rCW = fWN0u6ka60(X2rCW, kRqg0, 151347934, aV5Yq);
 break;
 case 4:
-nIj5 = KGZVK((char)-902811429, Vdn2I2jSiS, 302654740, -969225432);
+nIj5 = KGZVK((char)-902811429, Vdn2I2jSiS, (short)302654740, -969225432);
 break;
 default:
 aV5Yq = KGZVK(-1884099417, -2060177544, EQ3p9IvV_, -997292888);

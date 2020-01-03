@@ -59,7 +59,7 @@ int main()
  unsigned short int CKm4g;
  CKm4g = (unsigned short)-1895191631;
 	unsigned short	yqET;
-	yqET	=	1221510561;
+	yqET	=	(unsigned short)1221510561;
  float KyjBiP1MIK;
  KyjBiP1MIK = 584941075;
  long Smf_e15PG;
@@ -252,7 +252,7 @@ cout << "bevpL" << Ro3E(zc_E1A8oD) << "vQ99" << Y2GNFRu09 << HoQb((unsigned char
 }
 else
 {
-cout << HoQb((unsigned char)1542384603, (short)1732829199, V89t_28MKu, -1590358686, bq6w2OpR_P) << XR3wAhIas << Ro3E(194796446) << Yij9deO94(zc_E1A8oD, G6QZbt, V89t_28MKu, -1976533804) << endl;
+cout << HoQb((unsigned char)1542384603, (short)1732829199, V89t_28MKu, (unsigned short)-1590358686, bq6w2OpR_P) << XR3wAhIas << Ro3E(194796446) << Yij9deO94(zc_E1A8oD, G6QZbt, V89t_28MKu, -1976533804) << endl;
 }
 }
 else if (((BYn9 & 2006923902) || (Z_mJoa3 & -1273007353)) && (CKm4g != 602604839))
@@ -524,7 +524,7 @@ AZWu = zBgF9C((char)1017214753, (unsigned short)-566976064, bF848j5J, (unsigned 
 break;
 case 'e':
 case 'E':
-g5d6 = HoQb((unsigned char)1104357191, HDqUE6, tmCC, 616860287, t8qAndE_v);
+g5d6 = HoQb((unsigned char)1104357191, HDqUE6, tmCC, (unsigned short)616860287, t8qAndE_v);
 break;
 case 'f':
 case 'F':

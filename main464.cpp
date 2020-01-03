@@ -23,7 +23,7 @@ int main(void)
 	unsigned int	DR5_	=	0;
     float    tZ81Id    =    1307671220;
     short int    W24naT58pE    =    (short)1787948040;
-    short int    AHeOIAZAYW    =    621212700;
+    short int    AHeOIAZAYW    =    (short)621212700;
 	unsigned long long	GRkWK1I1	=	-1833985144;
  long long tu0gLzRfEw = 381287577;
  unsigned int H3e8VVBp = 1168779204;
@@ -33,7 +33,7 @@ int main(void)
   long long  WfR092K  =  -128461441;
     unsigned char    fF67    =    (unsigned char)-1370656728;
     unsigned short int    l_9PUUviB    =    (unsigned short)1774942381;
- short Uw1n = -367837907;
+ short Uw1n = (short)-367837907;
   long  u189vv  =  0;
     char    eHZXXN    =    1713114170;
  short int eP_7hq0_2 = 180614274;

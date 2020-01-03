@@ -152,7 +152,7 @@ int main(void) {
  char CA4pF5p;
  CA4pF5p = (char)1943518171;
 	short int	q42FjzKAHM;
-	q42FjzKAHM	=	1482352766;
+	q42FjzKAHM	=	(short)1482352766;
 	short	ovor_2_J;
 	ovor_2_J	=	(short)-1088909671;
     float    OyrGSv7P65;

@@ -102,7 +102,7 @@ F9b9 /= zQ6h8;
 break;
 case 'c':
 case 'C':
-Rp6B923nK = Nr8ZCdX((short)743716331, -783849474, H1Zp);
+Rp6B923nK = Nr8ZCdX((short)743716331, (short)-783849474, H1Zp);
 break;
 case 'd':
 case 'D':
@@ -274,7 +274,7 @@ KRPS6 = Nr8ZCdX((short)-845015761, (short)-237185768, B74_vr6);
 break;
 case 'g':
 case 'G':
-mA8xZ3 = xY_eJfA(68633297, (unsigned char)-1733531190, (short)1839508973, -1679037805);
+mA8xZ3 = xY_eJfA(68633297, (unsigned char)-1733531190, (short)1839508973, (unsigned char)-1679037805);
 break;
 case 'h':
 case 'H':
@@ -468,7 +468,7 @@ case 'd':
 Rp6B923nK += 1964280080;
 break;
 case 'e':
-j6L_5272 = Nr8ZCdX(2094325807, 1214587125, -711320974);
+j6L_5272 = Nr8ZCdX((short)2094325807, 1214587125, -711320974);
 break;
 case 'f':
 sV7a6wRn = Nr8ZCdX((short)-480048541, E4kn9U7fNz, -865316141);

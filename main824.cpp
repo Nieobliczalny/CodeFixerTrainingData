@@ -24,7 +24,7 @@ int main() {
   r_joC  =  (short)-1661423059;
   L_24  =  (short)-1795372670;
   pX7Eo27KU  =  (short)1743397719;
-  lHxkJlrPs  =  1647233647;
+  lHxkJlrPs  =  (short)1647233647;
   Qh4j  =  -1300691086;
   XX0Db6iWa  =  117475177;
   I7wertX  =  -410396286;
@@ -513,7 +513,7 @@ int i = 0;
 while (i < 7)
 {
 i++;
-Iqk6HF = ccnd_C(-898121161, -543334857);
+Iqk6HF = ccnd_C(-898121161, (char)-543334857);
 }
 }
 

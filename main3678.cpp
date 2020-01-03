@@ -35,7 +35,7 @@ int main(int argc, char** argv) {
   nn2VW_8e0  =  (short)266783306;
   Ts3KZVL0I6  =  (short)-1773669265;
   WxZY7qHJxO  =  (short)-2022087166;
-  YDayp4b9eN  =  1963684781;
+  YDayp4b9eN  =  (short)1963684781;
   DkpgaK58V7  =  -1812705493;
 
 switch (IMk9O9L4S)

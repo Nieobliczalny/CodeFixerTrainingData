@@ -27,7 +27,7 @@ int main()
  short f3LJ6G;
  f3LJ6G = (short)1766394618;
   unsigned char  SozX1M72B;
-  SozX1M72B  =  -1240296741;
+  SozX1M72B  =  (unsigned char)-1240296741;
 	unsigned long long	sKgdyb7L0q;
 	sKgdyb7L0q	=	-747889548;
  int na287NL;

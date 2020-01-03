@@ -28,7 +28,7 @@ int main(void)
  unsigned short ydTt = (unsigned short)643970578;
   int  ZoDkYX_K  =  0;
   long long  PF29c  =  1273266211;
-	unsigned short int	V720r4W	=	-1105538352;
+	unsigned short int	V720r4W	=	(unsigned short)-1105538352;
  unsigned long A9qS_Vs = 916921003;
     unsigned short    Y5d2    =    -985657816;
   float  zY90c1TH6A  =  1777914081;
@@ -40,7 +40,7 @@ int main(void)
     char    W9w2Pb    =    -931802716;
 	float	rSP4pzDM5	=	-577714167;
   double  v8CP  =  1711907126;
-    unsigned short    Ix_n7    =    -1398922563;
+    unsigned short    Ix_n7    =    (unsigned short)-1398922563;
   unsigned long  CSMJ8e9vR  =  615668654;
   char  j4QYa8  =  (char)167871430;
 	long long	P3tpj1l	=	-43998090;
@@ -54,7 +54,7 @@ int main(void)
     long long    yULTw    =    1551578471;
   long double  phj7d7ozd  =  -1298574606;
   char  QEa1g  =  (char)2110326134;
- unsigned short int umlU3AC = 1479338294;
+ unsigned short int umlU3AC = (unsigned short)1479338294;
     int    usMjcb    =    829440740;
 	long	i0055o3c96	=	349974918;
   double  LwKc  =  -240049687;
@@ -240,7 +240,7 @@ ZoDkYX_K = F7vtwJ6();
 }
 else if (phj7d7ozd > 109965619)
 {
-cout << "Itke3eJ" << cmdfmV(U5TW2HP, (unsigned short)1169808329, 1581709046, -31601464, 43996163) << Ix_n7 << "vc8A" << "s_ld097JT" << endl;
+cout << "Itke3eJ" << cmdfmV(U5TW2HP, (unsigned short)1169808329, 1581709046, -31601464, (unsigned short)43996163) << Ix_n7 << "vc8A" << "s_ld097JT" << endl;
 }
 else if (qzK8mBRdcG)
 {

@@ -27,7 +27,7 @@ int main()
  Fk3JOUW12 = (short)1078073486;
  qb18LK7v = (short)-1870940576;
  ltbu = (short)-1286879724;
- tD_A = 27124356;
+ tD_A = (short)27124356;
  lL_0Do2i = -1047375872;
  mFMqgj8 = -368129254;
  f66hp = -1908172742;
@@ -37,7 +37,7 @@ int main()
  O8nqP = (short)598629383;
  ig07e = (short)1042615674;
  BO_g8HO = (short)604511408;
- G5yl = -194616167;
+ G5yl = (short)-194616167;
  WOhC8E1A = -1051477390;
  oqLyW = 2042363366;
  x5xuGLU = 1911037974;
@@ -47,7 +47,7 @@ int main()
  n645VUF4i4 = (short)-2001678452;
  dQ1n_5e = (short)849707125;
  FlCu = (short)1999584733;
- G6KczU9F = -79138076;
+ G6KczU9F = (short)-79138076;
  vKA7 = -319218578;
  R3pGabFU = 626944971;
  w3qbd8u6j = -1396016607;
@@ -57,7 +57,7 @@ int main()
  j3r4m7 = (short)1897432320;
  OqA__jQK8 = (short)1111753261;
  M_QuWrrO1 = (short)-1024802279;
- Q8WMx8 = -1748590516;
+ Q8WMx8 = (short)-1748590516;
  XFpj6 = 747145364;
  ypJnLVbUJ = 1262285769;
  YxsJrKrY8 = 308578942;
@@ -67,7 +67,7 @@ int main()
  Urt8C8lD4 = (short)-1258668330;
  cL1F = (short)-325007638;
  Vm6f53178 = (short)-1821181964;
- e535h = -1128514853;
+ e535h = (short)-1128514853;
  ip7l = 1366000588;
  Gkfwv01Uk = -1257497343;
  KPr1Pt = -729575761;
@@ -77,7 +77,7 @@ int main()
  H0462_ = (short)2097703564;
  EcD_Wm5 = (short)-693925345;
  e50Tp_ = (short)2141219300;
- f896z = 790707879;
+ f896z = (short)790707879;
  J9bmI1gEX = -2138860699;
  Nce4_zzQB_ = -1766655144;
  ntGcau7Bk2 = -1818064694;
@@ -87,7 +87,7 @@ int main()
  MDX3qcuet = (short)-1060650192;
  iRE1uT = (short)988248663;
  LWn4i = (short)-741592578;
- x5V642u = -1520775857;
+ x5V642u = (short)-1520775857;
  XE__ = 1748788308;
  pRLm7n9 = 1006298089;
  pW62zhlj5 = -1246299127;
@@ -97,7 +97,7 @@ int main()
  iNxc8czAth = (short)640577477;
  ws6WMfvV3X = (short)-1668644470;
  lVxl8InyO = (short)-1872167292;
- Y_Zq8J = -689102359;
+ Y_Zq8J = (short)-689102359;
  f02TR8 = -1944001994;
  XqYd7Duw = -1671022427;
  Br4TUo9wA = -182756050;
@@ -107,7 +107,7 @@ int main()
  ksSDZ51xx = (short)688723095;
  Q_596Q = (short)1925369253;
  i25n = (short)995752572;
- n_gPjy = -1998069544;
+ n_gPjy = (short)-1998069544;
   unsigned short int  MiZOM5kcJ,  QM5y;
   MiZOM5kcJ  =  0;
   QM5y  =  0;

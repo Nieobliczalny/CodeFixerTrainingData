@@ -29,7 +29,7 @@ int main(void)
   long  GPDb  =  -807288164;
   unsigned short int  Argm3Ygh  =  (unsigned short)10525587;
 	unsigned short int	UdF4r6	=	(unsigned short)-1490003967;
- short Aw0E80x = 718755926;
+ short Aw0E80x = (short)718755926;
 	unsigned int	E_CUl6E	=	1316540168;
     int    Ut3JK    =    642717411;
 	long	r0UMxgK	=	352091319;
@@ -77,7 +77,7 @@ int main(void)
     long    nW2R    =    8691130;
  unsigned long g70Hb = 0;
   short int  wS1A9eR48v  =  (short)2108479690;
- short int c5T05D = 1987668450;
+ short int c5T05D = (short)1987668450;
 	unsigned int	dC_8lg__Ia	=	-535677350;
     short int    GOm08    =    (short)187702187;
     unsigned short int    vJDXPJ0ZdS    =    -1136525791;
@@ -88,7 +88,7 @@ int main(void)
 	long	s85WIO11Mc	=	-317880707;
   short int  Qm3Zs2xS  =  (short)-484617260;
     unsigned short    Y0pYRZd    =    (unsigned short)-1862114125;
-    unsigned short int    pURFE    =    783841619;
+    unsigned short int    pURFE    =    (unsigned short)783841619;
 	unsigned short	EbdCUA	=	(unsigned short)644390887;
   unsigned int  g306meHeW  =  596284748;
  long DQgs9dMNK = 1701775014;

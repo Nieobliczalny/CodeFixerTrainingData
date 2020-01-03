@@ -49,7 +49,7 @@ int main()
     unsigned short int    wqiGKhj9a    =    (unsigned short)-2014114582;
     unsigned char    a9016    =    (unsigned char)-593716952;
     float    F34XN_8uAu    =    828940512;
-	unsigned short int	M2w4	=	-1677561291;
+	unsigned short int	M2w4	=	(unsigned short)-1677561291;
  unsigned short int RahQ9W2SW = 1618445426;
     unsigned char    KWo947    =    (unsigned char)181874927;
     long long    WVC_Dq    =    262387859;

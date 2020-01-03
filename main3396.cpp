@@ -32,7 +32,7 @@ int main(void) {
   gzU777h7V  =  (unsigned char)-1799455889;
   aGi4D  =  (unsigned char)441384061;
   ma1MlfFq  =  (unsigned char)1981435931;
-  W4X_nN  =  965409119;
+  W4X_nN  =  (unsigned char)965409119;
   k7V0d  =  1447195792;
   cp4WgitV  =  -1440832616;
   JuLw  =  -1575971044;
@@ -42,7 +42,7 @@ int main(void) {
   Un5Su  =  (unsigned char)-980613626;
   VMtIX1  =  (unsigned char)-1660514493;
   W1MyXE1  =  (unsigned char)1892009385;
-  aAmB3b23Xw  =  -1010509107;
+  aAmB3b23Xw  =  (unsigned char)-1010509107;
   Q53YM  =  2102058109;
   p4HhEKB7Y  =  -1599270398;
   LXNx21Y  =  1290106084;
@@ -52,7 +52,7 @@ int main(void) {
   lr71  =  (unsigned char)972465182;
   KlbB8XfKi  =  (unsigned char)-1375837790;
   bPY9rS  =  (unsigned char)747682482;
-  dI15  =  -1265997619;
+  dI15  =  (unsigned char)-1265997619;
   H6vi9  =  -452829096;
   G163_Wm  =  1960080181;
   SEj4  =  1579906795;
@@ -62,7 +62,7 @@ int main(void) {
   qkqWj51xn  =  (unsigned char)-1787534701;
   ngTe70L_  =  (unsigned char)2139885286;
   Q9tBbuMc7B  =  (unsigned char)1669997998;
-  G_2d8  =  660467047;
+  G_2d8  =  (unsigned char)660467047;
   V_6N086488  =  1842119373;
   AFZh  =  1007260684;
   FLp05GtFn  =  1861767664;
@@ -72,7 +72,7 @@ int main(void) {
   YYJIk0Oi_i  =  (unsigned char)-455878030;
   e5k_HtTHn_  =  (unsigned char)2129571003;
   FCU83g  =  (unsigned char)-1595830583;
-  H8Y3VcyD76  =  -530551308;
+  H8Y3VcyD76  =  (unsigned char)-530551308;
   oH59072e2  =  302864971;
   OE7KEhxfkm  =  -379242805;
   Jc_JZ  =  2010093401;
@@ -82,7 +82,7 @@ int main(void) {
   Da0Gb2ccY  =  (unsigned char)436267084;
   HcW8xK  =  (unsigned char)-1463897413;
   N4YH  =  (unsigned char)-1240595237;
-  Z52n  =  598811868;
+  Z52n  =  (unsigned char)598811868;
   I5WR3  =  -297009286;
   A5s0B261  =  1864952046;
   DDE8  =  217838833;
@@ -383,7 +383,7 @@ case 5:
 y618l8 = g10g_S_(ma1MlfFq, aAmB3b23Xw, -495066664, (unsigned short)-736721060, Q53YM);
 break;
 case 6:
-y618l8 = g10g_S_(LXNx21Y, -463674731, -2116561156, -1306203101, 2021291906);
+y618l8 = g10g_S_(LXNx21Y, -463674731, -2116561156, (unsigned short)-1306203101, 2021291906);
 break;
 case 7:
 H8Y3VcyD76 = vSr3M_zrAI();

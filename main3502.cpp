@@ -183,7 +183,7 @@ case 5:
 O1_2lKm = lxOoQBpY((unsigned short)-212163518, (unsigned short)2064284462, (short)-1695978687);
 break;
 default:
-O1_2lKm = lxOoQBpY((unsigned short)1906650218, Q5dQIv4yWW, -1908425372);
+O1_2lKm = lxOoQBpY((unsigned short)1906650218, Q5dQIv4yWW, (short)-1908425372);
 break;
 }
 }

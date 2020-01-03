@@ -36,7 +36,7 @@ int main(void) {
  unsigned short int E3L0aJfupU = (unsigned short)1800616668;
 	long	RIY2Lat	=	-1763668972;
  short int xf0I = (short)771245637;
-  unsigned char  OwkUD  =  -1001191126;
+  unsigned char  OwkUD  =  (unsigned char)-1001191126;
     float    Y482_m0    =    -1633887943;
   unsigned int  nrLM_2B  =  1627789964;
 	unsigned short int	Mx9wg8l9Pf	=	-1878798967;

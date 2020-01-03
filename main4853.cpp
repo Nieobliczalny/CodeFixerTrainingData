@@ -209,7 +209,7 @@ int main(int argc, char** argv)
  unsigned short int M_PD14;
  M_PD14 = (unsigned short)-317749148;
 	short int	SBiciJ;
-	SBiciJ	=	-500649621;
+	SBiciJ	=	(short)-500649621;
 
 Tr014U8 = (int)floor(M0J56g3el);
 if ((dRZGqi2d6 < -966234769) || ((Rbhz1 <= y6F492K687) || (D4VP >= h84_KWhZm)))

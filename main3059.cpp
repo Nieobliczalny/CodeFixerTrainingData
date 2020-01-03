@@ -267,7 +267,7 @@ case 5:
 RyA_t = C0c89();
 break;
 case 6:
-Up85SQZ4p = Eysx(Up85SQZ4p, 435252639, KwBN2XhTS);
+Up85SQZ4p = Eysx(Up85SQZ4p, (short)435252639, KwBN2XhTS);
 break;
 case 7:
 J0o_oV48AC = Eysx(Up85SQZ4p, (short)480014144, KwBN2XhTS) ^ 793501985;

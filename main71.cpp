@@ -90,7 +90,7 @@ int main(void)
  short MM1sZDTaD;
  MM1sZDTaD = (short)-1321726817;
 	char	eM5iu7;
-	eM5iu7	=	885683958;
+	eM5iu7	=	(char)885683958;
  short u4C82A92;
  u4C82A92 = (short)-785127243;
   double  M6siBSz;

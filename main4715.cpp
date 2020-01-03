@@ -35,7 +35,7 @@ int main()
  TU99hl3OK = (short)-3992829;
  vZ3jjZ41_3 = (short)-1743738003;
  O37DGJFm = (short)1380826981;
- i07iCq5U0m = -204783106;
+ i07iCq5U0m = (short)-204783106;
  OM4h9V = 1863969389;
  u64Xp = 609747685;
  hsi3Xx = -451598718;

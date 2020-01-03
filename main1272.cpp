@@ -15,7 +15,7 @@ int main(void)
   iJ8_6H15  =  (unsigned short)-1275759905;
   Z4vDOz039  =  (unsigned short)-186285633;
   BcJUkQ6  =  (unsigned short)518262547;
-  hMf09jvWd  =  -1031473975;
+  hMf09jvWd  =  (unsigned short)-1031473975;
   wf1t0  =  -1732500570;
   i_eNz7x5  =  697105745;
   SGhd8  =  -1618673455;
@@ -25,7 +25,7 @@ int main(void)
   pn_B2  =  (unsigned short)1250139755;
   OS6y2iDWrC  =  (unsigned short)1153788014;
   Oe42  =  (unsigned short)-461731441;
-  N_Tf_VL  =  1232176817;
+  N_Tf_VL  =  (unsigned short)1232176817;
   M3nx108n  =  -2036609460;
   yrZ7_61qn  =  1730642946;
   o5rz5  =  -1509266927;
@@ -35,7 +35,7 @@ int main(void)
   fQ9Bx80y  =  (unsigned short)1354137317;
   l4c6RuljO  =  (unsigned short)148639120;
   B7rU6YbGQR  =  (unsigned short)-1100261076;
-  pGCtAu  =  -1331851811;
+  pGCtAu  =  (unsigned short)-1331851811;
   X03Ke77_7o  =  -1842505747;
   U2qPkxGm  =  750499710;
   IlAomHpS6  =  332800692;
@@ -45,7 +45,7 @@ int main(void)
   Wvt6S  =  (unsigned short)-244060868;
   Z3zdq90j  =  (unsigned short)516325312;
   Y85jvunY4  =  (unsigned short)-1278286950;
-  S8yeVa  =  -1363965371;
+  S8yeVa  =  (unsigned short)-1363965371;
   UW337ZC  =  662992237;
   TiJ53bOJ  =  1424678358;
   W8Yt7  =  -1436183210;
@@ -55,7 +55,7 @@ int main(void)
   otFV_V4  =  (unsigned short)-239386191;
   FC0WR4ES  =  (unsigned short)-107054026;
   O5U5T5L  =  (unsigned short)1657843535;
-  r7d1x  =  -440556394;
+  r7d1x  =  (unsigned short)-440556394;
   o4fGPFWey  =  -516509231;
   c7Jbs3  =  -1054124278;
   MmGLy6  =  -1320086511;
@@ -65,7 +65,7 @@ int main(void)
   Pkce5j4  =  (unsigned short)-1060483995;
   TmX9N  =  (unsigned short)-1803225190;
   H7fV2u  =  (unsigned short)-1532453253;
-  IP9067C  =  -2018033339;
+  IP9067C  =  (unsigned short)-2018033339;
   oC_13n5  =  126811040;
   bX7921bZ7P  =  694756268;
   FV2ou18H5s  =  -1222853129;
@@ -75,7 +75,7 @@ int main(void)
   syQ9nO3  =  (unsigned short)-797915924;
   kgCGs  =  (unsigned short)-1250197574;
   y2707_1  =  (unsigned short)-901050912;
-  Hekr  =  -1076399814;
+  Hekr  =  (unsigned short)-1076399814;
   i23iBf2  =  1380327942;
   X26IxrqtY  =  -2115999305;
   JLDylib_  =  1987102698;

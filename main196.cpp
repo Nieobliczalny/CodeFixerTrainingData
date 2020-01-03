@@ -61,7 +61,7 @@ case 'b':
 Q3Cp = NeutTWdU2((unsigned short)-1696278405, (unsigned short)-1326758926, MhAa9OyF2h, cO6LT3F9Dd);
 break;
 case 'c':
-Q3Cp = NeutTWdU2(gkyD, 1226860813, 1305234208, M76Kbh7a);
+Q3Cp = NeutTWdU2(gkyD, (unsigned short)1226860813, 1305234208, M76Kbh7a);
 break;
 case 'd':
 Q3Cp = NeutTWdU2(WTXBzVLxv, cO6LT3F9Dd, 261867200, 218200475);
@@ -193,7 +193,7 @@ break;
 int i = 0;
 do
 {
-Q3Cp = NeutTWdU2((unsigned short)-1999913919, F5eqh, (char)2009045269, -2046031862);
+Q3Cp = NeutTWdU2((unsigned short)-1999913919, F5eqh, (char)2009045269, (unsigned char)-2046031862);
 ++i;
 }
 while (i < 7);
@@ -212,7 +212,7 @@ yT0nxsI7 *= MhAa9OyF2h;
 }
 std::cout << 1691335886 / NeutTWdU2(F5eqh, sM7n1N, (char)-2048344979, (unsigned char)-1541555523) << std::endl;
 
-std::cout << r223Sx37li << sA22EX4 << NeutTWdU2(F5eqh, sM7n1N, d7Xs6bt1lk, -1973177695) << "GC_3J7HJv" << "jYSrL86_K" << std::endl;
+std::cout << r223Sx37li << sA22EX4 << NeutTWdU2(F5eqh, sM7n1N, d7Xs6bt1lk, (unsigned char)-1973177695) << "GC_3J7HJv" << "jYSrL86_K" << std::endl;
 
 switch (yT0nxsI7)
 {
@@ -222,7 +222,7 @@ Q3Cp = NeutTWdU2(nJ82Hc, (unsigned short)-207897500, tpV2jx3S7, (unsigned char)5
 break;
 case 'b':
 case 'B':
-Q3Cp = NeutTWdU2((unsigned short)227221540, (unsigned short)1187723974, -1758612788, m36H_0uW);
+Q3Cp = NeutTWdU2((unsigned short)227221540, (unsigned short)1187723974, (char)-1758612788, m36H_0uW);
 break;
 case 'c':
 case 'C':

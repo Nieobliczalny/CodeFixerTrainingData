@@ -39,7 +39,7 @@ int main() {
  short H5611_2TXA;
  H5611_2TXA = (short)-1015279850;
 	short int	B4wtS;
-	B4wtS	=	-544749188;
+	B4wtS	=	(short)-544749188;
 	long long	xJcQGpW;
 	xJcQGpW	=	-508397739;
   double  f0lQZ;

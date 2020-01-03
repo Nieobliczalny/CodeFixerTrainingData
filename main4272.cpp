@@ -111,7 +111,7 @@ int main(void)
  short PxYxdea;
  PxYxdea = (short)2014919143;
   char  l2c30OMg36;
-  l2c30OMg36  =  -45080650;
+  l2c30OMg36  =  (char)-45080650;
     unsigned short    exct;
     exct    =    (unsigned short)1078739516;
  unsigned short GS4O8xMs2c;
@@ -170,7 +170,7 @@ case 3:
 UI11EQ6x = Antyq(GS4O8xMs2c, (unsigned short)-2120420757, (unsigned short)-1999572649);
 break;
 case 4:
-QFGN8 = Antyq((unsigned short)177371275, -229409201, OOb6_YOtz);
+QFGN8 = Antyq((unsigned short)177371275, (unsigned short)-229409201, OOb6_YOtz);
 break;
 case 5:
 QKzR719Vp = (int)floor(oRNY);
@@ -305,7 +305,7 @@ case 1:
 B_wlhIuY = (int)abs(DIwYy);
 break;
 case 2:
-QFGN8 = Antyq((unsigned short)772753712, (unsigned short)1357380968, 1614717987);
+QFGN8 = Antyq((unsigned short)772753712, (unsigned short)1357380968, (unsigned short)1614717987);
 break;
 case 3:
 w_UT++;

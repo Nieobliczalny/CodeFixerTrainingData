@@ -43,7 +43,7 @@ int main() {
   unsigned long long  p4HFTIQ  =  0;
  unsigned char JPo0KDh8j = (unsigned char)2053338472;
 	unsigned short	H3m8k1U	=	(unsigned short)718462996;
- unsigned short ZeQl = -1621335294;
+ unsigned short ZeQl = (unsigned short)-1621335294;
  float a8Ddw05Z7 = -1856508468;
  short int yS15O9A2 = -943215931;
  unsigned short int c06_Bz = 19247171;

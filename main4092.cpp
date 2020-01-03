@@ -140,7 +140,7 @@ int main() {
 	short	W9PEHCI2j;
 	W9PEHCI2j	=	(short)1833011253;
 	char	ZB34oul0T9;
-	ZB34oul0T9	=	-754621415;
+	ZB34oul0T9	=	(char)-754621415;
   short  Q2e_yYV;
   Q2e_yYV  =  (short)-1633929405;
     char    WnvZ;

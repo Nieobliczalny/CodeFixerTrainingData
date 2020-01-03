@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
     short    U_r7_k    =    (short)942249864;
     unsigned int    WxJYj44_J    =    623482596;
  char S2YG88u86K = (char)-1867937155;
-    unsigned char    ge_FYntaH8    =    -1024748550;
+    unsigned char    ge_FYntaH8    =    (unsigned char)-1024748550;
 	unsigned char	w_20x_dEb	=	412841921;
   unsigned char  WcoeqTas  =  972085540;
   char  U98Z  =  -23529350;
@@ -65,7 +65,7 @@ int main(int argc, char** argv) {
  char q7FG59R0 = (char)-854168725;
 	unsigned short	n929	=	(unsigned short)-1373371860;
     char    zrZxs6e4Ym    =    (char)-1822789943;
-    unsigned short    lbTy0    =    -1468193771;
+    unsigned short    lbTy0    =    (unsigned short)-1468193771;
 	unsigned char	TwRYhQplq	=	-1466577199;
  unsigned long long hZ6TdRAx88 = -1979741906;
  long long q0JRpM = 960588180;
@@ -319,7 +319,7 @@ case 'h':
 DE_UI = (B7x3Q_ < -1733164576) ? (unsigned short)1003267083 : U98Z;
 break;
 case 'i':
-mlI4 = P59k_K81(-1940291653, FGS06K_OB, 1906413038);
+mlI4 = P59k_K81((short)-1940291653, FGS06K_OB, 1906413038);
 break;
 case 'j':
 FGS06K_OB = vHv4hk(FGS06K_OB);

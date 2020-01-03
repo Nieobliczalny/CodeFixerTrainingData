@@ -35,7 +35,7 @@ int main(int argc, char** argv) {
     unsigned long long    U7T5QT    =    458214423;
   char  Sx_1l49  =  (char)-668979961;
 	int	VA3_VE	=	1365813382;
-  short  JNZ7n9i9l  =  883224669;
+  short  JNZ7n9i9l  =  (short)883224669;
  unsigned short h8KYUgWK_M = -1361418875;
 	unsigned int	NQ__Ghp	=	1239553197;
 	char	OSupM	=	(char)-860776569;
@@ -53,7 +53,7 @@ int main(int argc, char** argv) {
   unsigned long  Q1q3rdra  =  -201885248;
 	unsigned short	tCAhMNDGe	=	(unsigned short)1161904344;
 	unsigned short	hvYtr0M	=	(unsigned short)1980298706;
-  char  bIu_T2  =  222058466;
+  char  bIu_T2  =  (char)222058466;
 	unsigned int	e1l3nb	=	1956093407;
 	short	DziHr	=	(short)1053436019;
 	unsigned char	U59pu	=	48996174;
@@ -70,7 +70,7 @@ int main(int argc, char** argv) {
  unsigned long NvEhv = 0;
   unsigned char  Xx705lKRP  =  (unsigned char)-1287947978;
 	long double	Q92s	=	-794047629;
-	unsigned short	N1RW	=	714395964;
+	unsigned short	N1RW	=	(unsigned short)714395964;
  short int r1YJK1_20l = -1827655136;
     long long    Tz5e6    =    754585734;
 	unsigned long long	co_875L	=	0;
@@ -710,7 +710,7 @@ std::cout << "d30FfX" << uQvmB << v29v(866427295) << "klr4Pn6" << v29v(xy0WfGsHT
 }
 if (PDaW0e((unsigned short)1265916519, -1123484015, (char)-1313387519, e1l3nb, -739019926) == 0)
 {
-	e1bK0d6 = D7C2iE8l / PDaW0e((unsigned short)1265916519, -1123484015, -1313387519, e1l3nb, -739019926);
+	e1bK0d6 = D7C2iE8l / PDaW0e((unsigned short)1265916519, -1123484015, (char)-1313387519, e1l3nb, -739019926);
 }
 
 std::cout << IMBfEr << std::endl;

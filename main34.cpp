@@ -67,7 +67,7 @@ int main(void)
 	unsigned int	l3M0	=	866854943;
   unsigned long  BgqVP  =  -1329285881;
     float    k6L7bXt    =    1502425778;
-    unsigned short int    wZsHWIu    =    -1762316510;
+    unsigned short int    wZsHWIu    =    (unsigned short)-1762316510;
  unsigned long long ufi54 = -1784056131;
     float    Y_q6CGCi    =    -895944811;
   long  QYZgRu_Z91  =  -2089795995;

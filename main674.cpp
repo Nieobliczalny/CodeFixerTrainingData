@@ -49,7 +49,7 @@ int main(int argc, char** argv)
  unsigned short int sT8Oeh78J = 0;
  short int Z5E0EZ9j = (short)244102564;
     short    nZuuWMQLs    =    (short)-469394472;
-    unsigned short int    R5vS4U43_r    =    -156265795;
+    unsigned short int    R5vS4U43_r    =    (unsigned short)-156265795;
   unsigned short  IkPYc  =  -2061146832;
  double J93o7vPtxv = 1279998124;
 	unsigned long	UzMIKp	=	-787260655;
@@ -62,7 +62,7 @@ int main(int argc, char** argv)
   unsigned char  m5u5HX5  =  (unsigned char)1181338685;
 	short int	aLa9f9	=	0;
 	unsigned long long	n2QOi3	=	-438429995;
- short int rXKDpo = 1630334744;
+ short int rXKDpo = (short)1630334744;
     unsigned long    TJK2E7612t    =    -1465976629;
   unsigned int  MZ898  =  481234063;
   char  k1X5TO5E  =  (char)2006296328;
@@ -73,7 +73,7 @@ int main(int argc, char** argv)
   unsigned int  cSIgj0f_h4  =  -47304210;
   short int  L24_KRSkxY  =  (short)-868136587;
   int  eN39Yv  =  256832068;
-	unsigned short int	B_r9H	=	1897925077;
+	unsigned short int	B_r9H	=	(unsigned short)1897925077;
  int pJZ1RTEVR4 = 1562211381;
     float    UePe4    =    1968721784;
     short    iw6701eg6k    =    (short)270045434;
@@ -104,7 +104,7 @@ int main(int argc, char** argv)
 	long double	K7_S4x2Vw	=	49660542;
  unsigned long eu8_oADO = -427240972;
     float    Lg40    =    1390354375;
-	unsigned short	iXudh	=	-1630519153;
+	unsigned short	iXudh	=	(unsigned short)-1630519153;
 
 sT8Oeh78J = LY0zgb6H(MMQ2VE, Y_JdIKS);
 
@@ -515,7 +515,7 @@ e88a7I19 = -1595184694 / LY0zgb6H(QgPFo7vxN, (unsigned char)1774995753);
 
 if (o__CLZ4DPr != L24_KRSkxY)
 {
-std::cout << qIi_Sgr(QgPFo7vxN, e88a7I19, (short)1069998958, IkPYc, (short)-1141626615) << qIi_Sgr(353267712, (short)1644867718, -522345947, 1946307859, e6BGFKC132) << LY0zgb6H(QgPFo7vxN, 483128457) << MZ898 << std::endl;
+std::cout << qIi_Sgr(QgPFo7vxN, e88a7I19, (short)1069998958, IkPYc, (short)-1141626615) << qIi_Sgr(353267712, (short)1644867718, (short)-522345947, 1946307859, e6BGFKC132) << LY0zgb6H(QgPFo7vxN, 483128457) << MZ898 << std::endl;
 }
 else
 {

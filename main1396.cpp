@@ -91,7 +91,7 @@ int main(int argc, char** argv) {
     unsigned short    j06N4Zfa;
     j06N4Zfa    =    (unsigned short)-615888934;
     char    Sq7AsTf;
-    Sq7AsTf    =    -353218218;
+    Sq7AsTf    =    (char)-353218218;
   unsigned short  A2A4_7gd2;
   A2A4_7gd2  =  (unsigned short)168727644;
 	unsigned short int	YxpJOxNr0m;
@@ -111,7 +111,7 @@ int main(int argc, char** argv) {
     unsigned short    H3VW;
     H3VW    =    (unsigned short)50666867;
 	unsigned short int	vE_G4K3;
-	vE_G4K3	=	-1066388438;
+	vE_G4K3	=	(unsigned short)-1066388438;
     long long    Bn_Id2ja;
     Bn_Id2ja    =    -1244369556;
     int    q28WMa;

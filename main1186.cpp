@@ -27,7 +27,7 @@ int main(void) {
  unsigned short mtjO1Ahy9 = (unsigned short)-1559612317;
     double    WlN3KHihO    =    1498756672;
   unsigned char  LypC  =  (unsigned char)1403460698;
- char OsbBe = 1778253682;
+ char OsbBe = (char)1778253682;
  char C7dzzxp = 0;
   float  k_zX  =  786740172;
     short int    Ax1iMh1_Q    =    0;
@@ -136,7 +136,7 @@ case 'c':
 mtjO1Ahy9 = Tg9otO6j(-1925073748, (short)906528592, -781791395, unyl_zz, mK3J90);
 break;
 case 'd':
-k_zX = Tg9otO6j(-1570815336, (short)1750644294, mtjO1Ahy9, -578553874, 761191346);
+k_zX = Tg9otO6j(-1570815336, (short)1750644294, mtjO1Ahy9, -578553874, (unsigned short)761191346);
 break;
 case 'e':
 Ax1iMh1_Q = ln_Jf3(1999084867, Ax1iMh1_Q, KJ_ijp8, -995538625, 1579722313);

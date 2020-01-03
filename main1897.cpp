@@ -221,7 +221,7 @@ case 'f':
 XjHYz <<= hyc_32e6;
 break;
 case 'g':
-FzjN_SkKy = w6_f((unsigned short)1218382652, -1049967370, -1540089675, xnX4, 196528772);
+FzjN_SkKy = w6_f((unsigned short)1218382652, -1049967370, (unsigned char)-1540089675, xnX4, 196528772);
 break;
 case 'h':
 xnX4 = w6_f((unsigned short)2012960243, -697028559, 1570068482, -1472761203, -916978212) | 585422376;

@@ -31,7 +31,7 @@ int main(int argc, char** argv) {
  char p3moTFv = 0;
  unsigned char k0oG = (unsigned char)-967111698;
   short int  u8ZRk  =  (short)239437978;
-    short    gDjQN7G3    =    -348797991;
+    short    gDjQN7G3    =    (short)-348797991;
 
 p3moTFv = (char)(J8hr10E_ * p3moTFv);
 GYJw++;

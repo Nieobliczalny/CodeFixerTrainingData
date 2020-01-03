@@ -108,7 +108,7 @@ if ((KmQy) && (VshFBadY > g1tOz2V78Q))
 {
 if (Vfuw4msis > g1tOz2V78Q)
 {
-std::cout << "qDDPI" << BE134g5(U6twxJ, 1417081475, -1807434133, -2129253010, 1758715047) << "Cm6gC" << "l28_VoZc1X" << std::endl;
+std::cout << "qDDPI" << BE134g5(U6twxJ, 1417081475, (unsigned short)-1807434133, -2129253010, 1758715047) << "Cm6gC" << "l28_VoZc1X" << std::endl;
 }
 else if ((q70lh3I0 != 296062226) || (z8yZmv4k <= g1tOz2V78Q))
 {

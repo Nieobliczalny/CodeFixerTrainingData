@@ -309,7 +309,7 @@ case 3:
 SPp3E1No++;
 break;
 case 4:
-xGwjMsd9 = H_P1n(1939049900, (unsigned char)927898089, -410905393);
+xGwjMsd9 = H_P1n(1939049900, (unsigned char)927898089, (short)-410905393);
 break;
 }
 cout << N4E2I028H << SW8iYnl(xGwjMsd9, r070t14b, -1840497307, 347432178, nt_Q6_) << "xG1V" << endl;

@@ -261,7 +261,7 @@ k6r1Dm = e20DpEUbR1(351961435, (unsigned char)-399603109, (unsigned short)133791
 break;
 case 'h':
 case 'H':
-V3h2HVj = e20DpEUbR1(-176737888, (unsigned char)-358209691, Mm_w, 1419284690);
+V3h2HVj = e20DpEUbR1(-176737888, (unsigned char)-358209691, Mm_w, (unsigned short)1419284690);
 break;
 default:
 F4N2lZfy *= A8_k6Ao;

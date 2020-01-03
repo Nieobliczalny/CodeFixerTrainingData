@@ -259,7 +259,7 @@ rVQs0_ = (char)(isgL8wZ);
 
 rVQs0_ = 1347562983 / H6JE(Wn7_iM, vzcM_, (unsigned short)331110316, Jc28cEW4U, (char)1787289806);
 
-cout << DMQl122k8((char)-1880317623) << "cnkz5" << B6cCP((short)326191694, 1196283067) << endl;
+cout << DMQl122k8((char)-1880317623) << "cnkz5" << B6cCP((short)326191694, (short)1196283067) << endl;
 
 NzkgZEe0 = (unsigned long)(Wn7_iM);
 
@@ -453,7 +453,7 @@ try
 {
 if ((Jc28cEW4U <= 2064634259) && (PHRRX_))
 {
-Dp1e = H6JE(pdUVEU, (short)1176976378, (unsigned short)1356831275, 203755757, 1789320395);
+Dp1e = H6JE(pdUVEU, (short)1176976378, (unsigned short)1356831275, 203755757, (char)1789320395);
 }
 }
 catch (int& errorCode)

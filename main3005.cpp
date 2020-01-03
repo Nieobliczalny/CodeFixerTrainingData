@@ -201,7 +201,7 @@ case 3:
 JcyGj = Y2AA13Xe4(2072623528, 2014046314, -843287446, -1134910135);
 break;
 case 4:
-y3RROm = FSkA8I2889(fzF_SEqF, (unsigned char)803781296, (short)-861327575, 486737552, Dq69q7);
+y3RROm = FSkA8I2889(fzF_SEqF, (unsigned char)803781296, (short)-861327575, (short)486737552, Dq69q7);
 break;
 case 5:
 oq8504K6 -= 1364438401;
@@ -271,7 +271,7 @@ break;
 
 if (ZjX2 == 564001353)
 {
-cout << "XGb17" << SAUtqFue << FSkA8I2889((unsigned short)-316872076, (unsigned char)1292550939, X47Qn0Ki4, 4624128, J93_) << g4r3(Z_5MUQoG2b, 1748065056, X47Qn0Ki4, iAumV1EWU1) << endl;
+cout << "XGb17" << SAUtqFue << FSkA8I2889((unsigned short)-316872076, (unsigned char)1292550939, X47Qn0Ki4, (short)4624128, J93_) << g4r3(Z_5MUQoG2b, 1748065056, X47Qn0Ki4, iAumV1EWU1) << endl;
 }
 else if ((CsRO9FEA & -1800574727) && ((dwwi4Ur <= 998989768) || (NF6x9R & 487004241)))
 {
@@ -381,7 +381,7 @@ i--;
 
 if (NF6x9R <= -1795918712)
 {
-eagR80s_4 = FSkA8I2889((unsigned short)892144098, (unsigned char)771626700, (short)-666439811, (short)241713216, -172339911) | 388381314;
+eagR80s_4 = FSkA8I2889((unsigned short)892144098, (unsigned char)771626700, (short)-666439811, (short)241713216, (short)-172339911) | 388381314;
 }
 
 {

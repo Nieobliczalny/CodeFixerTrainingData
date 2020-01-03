@@ -21,7 +21,7 @@ int main(void) {
 	short	H81qsazYw9	=	(short)-2060420952;
   unsigned char  O45f76  =  (unsigned char)-287183024;
     unsigned int    d_o3EfJ12    =    1841370779;
-	unsigned char	OGhztd4O	=	-992579942;
+	unsigned char	OGhztd4O	=	(unsigned char)-992579942;
 	unsigned short	pZPFB1075S	=	0;
     short int    sXXW09m    =    (short)-1190689732;
  short bzLrLdL = 559047211;
@@ -62,7 +62,7 @@ int main(void) {
 	int	iJCKKB6M	=	-1023435943;
   short int  ywH9bap5  =  (short)1787539676;
     unsigned short    VPo_P2    =    (unsigned short)942732078;
-	unsigned char	PmOz3	=	724230769;
+	unsigned char	PmOz3	=	(unsigned char)724230769;
   short int  DXlS47LOjg  =  473358354;
     short int    H_k428P_    =    -1358840851;
     unsigned short int    v135_1XO    =    -1266543323;
@@ -75,7 +75,7 @@ int main(void) {
   double  It91GK7FY  =  660845261;
   float  XJk_y_4673  =  116409359;
 	unsigned short	r85eq8cE4	=	(unsigned short)560012114;
-    char    xBkFpSe    =    1985509306;
+    char    xBkFpSe    =    (char)1985509306;
  int aHK3g7 = 2014384646;
 	long	Lw_3sn	=	273573379;
     unsigned long    d4OH17    =    563965743;
@@ -85,7 +85,7 @@ int main(void) {
   unsigned short int  ZW10atcjB  =  (unsigned short)2117468367;
   unsigned short  Ne_57s  =  1525917481;
 	char	fnq9p	=	(char)-1887437040;
-    unsigned short int    x4ro_2    =    -917143710;
+    unsigned short int    x4ro_2    =    (unsigned short)-917143710;
     double    Z3614    =    1793693023;
  unsigned long gQaGan76Y8 = -977922411;
     long long    p_4S3LkX_1    =    -1863837474;
@@ -130,7 +130,7 @@ int i = 4;
 do
 {
 i--;
-std::cout << zxqgbq((unsigned short)538879018, (unsigned short)-1149431770, -51643925) << zxqgbq((unsigned short)-59580630, gYkIXPr2, AJ2qW) << "M2C34" << zxqgbq(848386205, gYkIXPr2, AJ2qW) << ywH9bap5 << std::endl;
+std::cout << zxqgbq((unsigned short)538879018, (unsigned short)-1149431770, -51643925) << zxqgbq((unsigned short)-59580630, gYkIXPr2, AJ2qW) << "M2C34" << zxqgbq((unsigned short)848386205, gYkIXPr2, AJ2qW) << ywH9bap5 << std::endl;
 }
 while (i >= 0);
 }

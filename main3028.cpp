@@ -87,7 +87,7 @@ int main(int argc, char** argv)
 	short	R0_aw;
 	R0_aw	=	(short)2051930555;
     unsigned short int    puLque;
-    puLque    =    -271181124;
+    puLque    =    (unsigned short)-271181124;
  short hr2ll55;
  hr2ll55 = (short)-644893694;
 	double	x_Y47;
@@ -331,7 +331,7 @@ else
 {
 for (int j = 4; j >= 0; j--)
 {
-std::cout << wGQl_vy2(Iad9, (char)1397430264, 893175820, kY73b) << "o68s8zBvT4" << nBUm(Iad9, 1068868840, hpO0hOB1_l) << "Q0A7HEE159" << std::endl;
+std::cout << wGQl_vy2(Iad9, (char)1397430264, 893175820, kY73b) << "o68s8zBvT4" << nBUm(Iad9, (short)1068868840, hpO0hOB1_l) << "Q0A7HEE159" << std::endl;
 }
 }
 if ((k_6I1Q & 1125516690) && (mpXNp578T & HRgNRpfA))

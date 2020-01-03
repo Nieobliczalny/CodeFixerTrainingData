@@ -19,7 +19,7 @@ int main(void) {
 	unsigned short	Ab3KWO	=	(unsigned short)1771651946;
   long double  V0X_  =  -359219001;
   long long  ar1Sytp  =  1562205590;
-	char	p5m0Gyr	=	1546057936;
+	char	p5m0Gyr	=	(char)1546057936;
     unsigned long    Hd4u4ak    =    1361116417;
     long double    Mgh0U07    =    840860644;
   unsigned short  QwU3J_p  =  (unsigned short)1771064715;
@@ -48,7 +48,7 @@ int main(void) {
 	double	qyA4MoT6Rh	=	130574951;
  unsigned char ENJoSfBh = 0;
 	unsigned long	DK8R	=	16896911;
-    char    Y5SNv9    =    -2016882085;
+    char    Y5SNv9    =    (char)-2016882085;
  unsigned char sPWhad319f = (unsigned char)-1896601691;
     int    K37OH79    =    -448412257;
  short e8dO054d = (short)-1255991096;
@@ -154,7 +154,7 @@ laeqFV4kJ = D0O4m8N((unsigned char)-1302829429, -1391322084, Xdcl66, (char)-1870
 }
 }
 }
-std::cout << D0O4m8N((unsigned char)2057585450, 1811867505, Xdcl66, (char)248198416) << D0O4m8N(qyA4MoT6Rh, -1023404985, -518064964, 1812519411) << D0O4m8N(-1455826025, w3AOFH, -1280104666, 1973537634) << std::endl;
+std::cout << D0O4m8N((unsigned char)2057585450, 1811867505, Xdcl66, (char)248198416) << D0O4m8N(qyA4MoT6Rh, -1023404985, -518064964, (char)1812519411) << D0O4m8N(-1455826025, w3AOFH, -1280104666, 1973537634) << std::endl;
 
 switch (Hd4u4ak)
 {

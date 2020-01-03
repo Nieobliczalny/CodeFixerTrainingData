@@ -41,7 +41,7 @@ int main(int argc, char** argv) {
 	unsigned short	R9zFA	=	(unsigned short)585637455;
  long g9v6kRn2Xc = -790063109;
     char    rNpR6h8qT    =    (char)-1406653378;
- char ctz1FhMclw = 832743726;
+ char ctz1FhMclw = (char)832743726;
  unsigned short int r_5X5XOItr = (unsigned short)-1036303138;
     unsigned int    r_C043z1v7    =    -2032961473;
     long    Z84_6    =    0;
@@ -55,7 +55,7 @@ int main(int argc, char** argv) {
 	short int	JhOyQcUJv	=	(short)1702337821;
     short int    kl6_    =    (short)-707452746;
 	int	CIfx7	=	1375618206;
- short t8P_ = -138842143;
+ short t8P_ = (short)-138842143;
 
 pP5VIXd3T = (int)abs(c3u3rz71);
 try
@@ -310,7 +310,7 @@ rm6m72M = EW1z5((unsigned short)-879018556, (unsigned short)1047269619, ofsU_7R1
 }
 }
 
-Z84_6 = EW1z5((unsigned short)2090449162, 650355414, txX6W, -1953288806, ofsU_7R13);
+Z84_6 = EW1z5((unsigned short)2090449162, (unsigned short)650355414, txX6W, -1953288806, ofsU_7R13);
 switch (kl6_)
 {
 case 'a':
@@ -356,7 +356,7 @@ case 5:
 Z84_6 = EW1z5((unsigned short)510143699, ofsU_7R13, Z84_6, -782815422, r_C043z1v7);
 break;
 case 6:
-Z84_6 = EW1z5((unsigned short)-135242186, R9zFA, 1798254608, JhOyQcUJv, 433154867);
+Z84_6 = EW1z5((unsigned short)-135242186, R9zFA, 1798254608, JhOyQcUJv, (unsigned short)433154867);
 break;
 case 7:
 pRrFg = Pp3Xyvt2(pRrFg, 708972231);

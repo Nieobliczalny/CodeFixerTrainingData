@@ -66,7 +66,7 @@ int main(int argc, char** argv) {
   char  QP31E;
   QP31E  =  (char)820151658;
 	unsigned short	g2zVBtUv;
-	g2zVBtUv	=	513557885;
+	g2zVBtUv	=	(unsigned short)513557885;
 	short	uE30;
 	uE30	=	(short)-299875956;
  unsigned short n5Sd35;

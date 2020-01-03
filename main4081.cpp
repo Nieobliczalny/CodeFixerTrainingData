@@ -245,7 +245,7 @@ s4UeD7N = ps8egvB1_v((unsigned short)1161063385, Sj4Jt8, (char)863464157, -41170
 }
 else if (w4uB)
 {
-bR0wB = XbZZrT4(bR0wB, (short)-1787536832, -66111835);
+bR0wB = XbZZrT4(bR0wB, (short)-1787536832, (char)-66111835);
 }
 else
 {

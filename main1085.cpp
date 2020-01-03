@@ -32,7 +32,7 @@ int main() {
  tSoQfJMc = (short)646846399;
  dpV1L = (short)-1044462076;
  u0X9zG_ = (short)387550236;
- Gv42c1 = 1816881915;
+ Gv42c1 = (short)1816881915;
  nnPhr = -331422951;
  yIcfrD = 1889396305;
  I050 = -1430502584;
@@ -42,7 +42,7 @@ int main() {
  I4I8ou = (short)1886465971;
  sS4k7gI = (short)1541451526;
  L86cOV2YP = (short)2008883426;
- g4dvk00 = 1415274989;
+ g4dvk00 = (short)1415274989;
  AFfq1F = 1930457664;
  a8RLU = -870031138;
  G2An = -560467518;
@@ -52,7 +52,7 @@ int main() {
  d65wN = (short)-739427713;
  ZL7q4ZEa6 = (short)-70063970;
  klkgYh9sBt = (short)-1521629974;
- es61KiVQ1N = -1327904753;
+ es61KiVQ1N = (short)-1327904753;
  b24R3CK = 350247981;
  pO02eu9a44 = 1421060024;
  W513_wc = -987579613;
@@ -62,7 +62,7 @@ int main() {
  TMiGG_k6_ = (short)-858972426;
  s3HVu66Aq = (short)1816316830;
  R9O5j = (short)-701128282;
- P5339 = 1430671142;
+ P5339 = (short)1430671142;
  P4t68L6IXN = -737725794;
  ycWkXH = 565518433;
  FeUPIBG = 450803022;
@@ -72,7 +72,7 @@ int main() {
  UH_2LGU25z = (short)-1116798984;
  COjywZ_F7F = (short)-965716756;
  g390bqdy = (short)-1847213074;
- i6CwX7w9 = 1522621973;
+ i6CwX7w9 = (short)1522621973;
  W23S9 = 1393420448;
  vGarCg2 = 1047663072;
  WseZjIi = 452715268;
@@ -82,7 +82,7 @@ int main() {
  Ly8o8DY = (short)340727191;
  i714_S6X_6 = (short)877018803;
  qn39gTJ0R = (short)-387107563;
- QkIM = -468161275;
+ QkIM = (short)-468161275;
  I9heDJ1 = -1970601490;
  toy1Pj_K = -1573921277;
  k644Pcm8 = -354866793;
@@ -92,7 +92,7 @@ int main() {
  sXCcFs_i = (short)1938225222;
  Hqe9RcV2 = (short)426439464;
  a2K21bo2C0 = (short)71828675;
- s7xPS9 = -139434621;
+ s7xPS9 = (short)-139434621;
  bSjy = -125975361;
  ydL5 = -484805139;
  s4RovG = -190975023;
@@ -102,7 +102,7 @@ int main() {
  gd4lPUM = (short)36188648;
  yhfFSI4_ = (short)-2117678778;
  h_i81 = (short)1320261483;
- W7X6dW = 1711554220;
+ W7X6dW = (short)1711554220;
  k61A_39tl = 1717900049;
  U5Pt8 = 903810294;
  lZ_PMH8G = 432242111;
@@ -112,7 +112,7 @@ int main() {
  aUM22rBU6 = (short)280637288;
  q34Yx8 = (short)-548063351;
  B_8_qD4wZ = (short)903306795;
- s8AiXD = 378731905;
+ s8AiXD = (short)378731905;
  L832J9g = 1614951635;
  uR_Y = 1739906990;
  Sn4H17AFJq = 768758372;

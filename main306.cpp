@@ -45,7 +45,7 @@ int main(void)
     unsigned long long    droG    =    -160418548;
  short int WW0eErmt = (short)-1628874606;
   unsigned short int  AVR15  =  (unsigned short)1780519001;
-  unsigned char  wbFS  =  -770836431;
+  unsigned char  wbFS  =  (unsigned char)-770836431;
   unsigned short int  Tw6x  =  1731220519;
  unsigned short int VJUv8 = 0;
 	int	R_f4aurG	=	-1441055202;

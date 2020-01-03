@@ -232,7 +232,7 @@ A6BiQ3PY = I0D9n((char)-566514195, (unsigned short)-1363169548, jb7l0GvGV2, (sho
 switch (i8qC)
 {
 case 0:
-WP_1 = I0D9n(WP_1, (unsigned short)-104459421, -1141589952, -633922309);
+WP_1 = I0D9n(WP_1, (unsigned short)-104459421, -1141589952, (short)-633922309);
 break;
 case 1:
 C9E_COGI += 735921757;

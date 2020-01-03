@@ -425,7 +425,7 @@ ht07irL0L = LG55(1488910935, rkgVscH6, yh8T0vkS);
 }
 else if (teLUkW_)
 {
-cout << YO2kNz_ << mqhe_5NxTG << "S02l3q6an" << Izomq394((short)-2037622278, rkgVscH6) << Izomq394((short)379304256, -675109647) << endl;
+cout << YO2kNz_ << mqhe_5NxTG << "S02l3q6an" << Izomq394((short)-2037622278, rkgVscH6) << Izomq394((short)379304256, (short)-675109647) << endl;
 }
 else if (yh8T0vkS != rYFk3)
 {

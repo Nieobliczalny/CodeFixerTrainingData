@@ -40,7 +40,7 @@ int main(void)
     unsigned short    c4T9    =    (unsigned short)303196591;
 	int	RrO83	=	-1190068142;
     unsigned short    L3u4_402d    =    (unsigned short)-946938289;
-	unsigned char	lritK9UM0Q	=	872438155;
+	unsigned char	lritK9UM0Q	=	(unsigned char)872438155;
   float  i2KHAWcA  =  -29708884;
     unsigned short    Ul5j9924J    =    2105913438;
  float KpV2prI43 = 273592447;
@@ -297,7 +297,7 @@ std::cout << "UDMMp27" << U3ai(c4T9, (unsigned char)-522731972, V7rgkek3i, -1040
 }
 std::cout << U3ai(c4T9, (unsigned char)1921113489, (unsigned short)-1563385301, -984748698, sM1fPN) << "Wk5_f42vtD" << "u4eZrW" << "S6WABY" << "nXGmQwoR5a" << std::endl;
 
-OqW9S356 = 2035485370 / U3ai(796595579, sy5q, -542686091, 406401514, 1483134275);
+OqW9S356 = 2035485370 / U3ai(796595579, sy5q, (unsigned short)-542686091, 406401514, 1483134275);
 {
 int i = 0;
 while (i < 9)

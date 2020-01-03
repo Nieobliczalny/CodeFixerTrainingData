@@ -39,7 +39,7 @@ int main(void) {
   long double  EUz5  =  849902391;
  short wPX3yp = (short)-399441822;
   unsigned short int  F_UeMo  =  (unsigned short)-1491259574;
-	unsigned char	AY_gKq0wtx	=	-1168410975;
+	unsigned char	AY_gKq0wtx	=	(unsigned char)-1168410975;
   char  gM7ZXL  =  (char)1795408494;
 	unsigned short	HlZ6_Qyv61	=	-1345346280;
 

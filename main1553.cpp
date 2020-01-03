@@ -91,7 +91,7 @@ case 0:
 IxWu16H0 = G606yw2Ly((unsigned short)-1549566569, 1575829438, (unsigned short)827409220, (unsigned short)1936790268);
 break;
 case 1:
-e3Aqne24 = G606yw2Ly(CryYE, CPT8emm_R, (unsigned short)1368850480, 1533304450);
+e3Aqne24 = G606yw2Ly(CryYE, CPT8emm_R, (unsigned short)1368850480, (unsigned short)1533304450);
 break;
 case 2:
 Ig62pMK = (int)floor(m15Q);

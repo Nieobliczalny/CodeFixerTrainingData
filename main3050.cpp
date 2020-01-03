@@ -134,7 +134,7 @@ Afxc3H = U_7x5FWB(K_0zh4, (short)-793015871, (unsigned short)651683211, (unsigne
 }
 else if ((tWW54xk == U3UpVZBud) || (BR3T_ > -1355492210))
 {
-F6T_eI2V = Cx7R2(501683236);
+F6T_eI2V = Cx7R2((unsigned char)501683236);
 }
 else
 {

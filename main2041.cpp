@@ -33,7 +33,7 @@ hvg6oklXw1 = YZZ5t0((char)-1737947808, (unsigned short)-615755748, chJ_dKbxV1);
 
 std::cout << YZZ5t0(c5DL_, (unsigned short)592247545, (unsigned short)-633415803) << "RRI65" << "S_a200NF" << Z0LO9v << std::endl;
 
-o5F6TynM7 = sp9cs7 / YZZ5t0(-361925159, hvg6oklXw1, -1407322290);
+o5F6TynM7 = sp9cs7 / YZZ5t0((char)-361925159, hvg6oklXw1, -1407322290);
 
 for (int i = 2; i >= 0; --i)
 {

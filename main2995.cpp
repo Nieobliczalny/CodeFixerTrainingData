@@ -28,7 +28,7 @@ int main(int argc, char** argv)
 	short int	me5G4M	=	(short)-1451116037;
     int    o0hz_CE_9r    =    121304260;
   unsigned long  BA8H6aFH7Q  =  1774730388;
- unsigned short hDIRBMbW = 2104906227;
+ unsigned short hDIRBMbW = (unsigned short)2104906227;
  unsigned short int ltO7r2U = (unsigned short)964815010;
  long BT3H1Dc4Y = 1177928242;
  int Y46P0 = -2103882222;
@@ -38,7 +38,7 @@ int main(int argc, char** argv)
   unsigned short  y3Hhs  =  (unsigned short)1121511454;
   double  Z_rj  =  1185010746;
 	unsigned char	L9r2PH	=	(unsigned char)1802068373;
-  unsigned char  c4as  =  1417635089;
+  unsigned char  c4as  =  (unsigned char)1417635089;
  short h2hWY3 = (short)1309515882;
 	unsigned long	gD_Dt05	=	-1029682014;
   unsigned short  LDc6X4C7O6  =  1266735382;
@@ -63,7 +63,7 @@ int main(int argc, char** argv)
   unsigned int  XtHZT  =  -1105196845;
 	short	VC88ncz1l_	=	(short)-4694226;
   unsigned int  bY7_9Ds_0q  =  -1414081617;
- short BN80Kn = -563376144;
+ short BN80Kn = (short)-563376144;
     unsigned short    sBp_ib6197    =    329906477;
   long double  X7b6mhK2Si  =  -1930544829;
   unsigned char  bgPI  =  (unsigned char)642296728;
@@ -79,7 +79,7 @@ int main(int argc, char** argv)
     float    z5kLHe    =    -1890067309;
 	char	E46f0J4kE5	=	(char)-1926992427;
  unsigned int oj_B9UgmhQ = 705783819;
- short dHb1Qmr6d = -987369114;
+ short dHb1Qmr6d = (short)-987369114;
 
 D5Q4 = LE15 * BA8H6aFH7Q;
 
@@ -167,7 +167,7 @@ case 'b':
 HT24vy2 = Sfoh5M666((unsigned char)-188359056, V3BwwbhOA, (char)253569322, BN80Kn);
 break;
 case 'c':
-HT24vy2 = Sfoh5M666((unsigned char)-258013390, -852569879, -1921191793, oj_B9UgmhQ);
+HT24vy2 = Sfoh5M666((unsigned char)-258013390, -852569879, (char)-1921191793, oj_B9UgmhQ);
 break;
 case 'd':
 F7HQ = (int)floor(X7b6mhK2Si);
@@ -310,7 +310,7 @@ case 3:
 Eo4Lyl25Cx /= OU62EL2SE;
 break;
 case 4:
-HT24vy2 = Sfoh5M666(PB0zcV6Sk, JdXHOI_, (char)-1869688939, 21998950);
+HT24vy2 = Sfoh5M666(PB0zcV6Sk, JdXHOI_, (char)-1869688939, (short)21998950);
 break;
 case 5:
 VC88ncz1l_ = (int)abs(BT3H1Dc4Y);
@@ -516,7 +516,7 @@ case 'b':
 Iy7SwWzq = LE15 | nEX4;
 break;
 case 'c':
-HT24vy2 = Sfoh5M666(S1VK415p, o7Fc9, (char)-1119817353, 1390549092);
+HT24vy2 = Sfoh5M666(S1VK415p, o7Fc9, (char)-1119817353, (short)1390549092);
 break;
 case 'd':
 ltO7r2U = Mbr2f << 1764097275;

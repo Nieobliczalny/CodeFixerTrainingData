@@ -113,7 +113,7 @@ int main(int argc, char** argv) {
   short  j49J;
   j49J  =  (short)-1971476142;
   unsigned short int  i_h9;
-  i_h9  =  -1330512115;
+  i_h9  =  (unsigned short)-1330512115;
 	char	R_JDCEsFV;
 	R_JDCEsFV	=	0;
  long long qJvct81;

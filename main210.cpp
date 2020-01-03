@@ -22,7 +22,7 @@ int main(int argc, char** argv)
 cout << CsAQlk << "r193" << endl;
 cout << L1Vy3(GpRYW5Qc2W, TNVG6, JDOq50y) << M7NHEeV0(360758770, TNVG6, JDOq50y, (unsigned short)1779230044, 1445483602) << "eDVbt" << V_w4 << dsfjD << endl;
 
-cout << QvTf8fVUy << M7NHEeV0(GpRYW5Qc2W, TNVG6, -1129841870, (unsigned short)-222481292, yE5_xk) << L1Vy3(GpRYW5Qc2W, (unsigned short)688304754, 15161223) << "tUMa" << sTSja0N4_ << endl;
+cout << QvTf8fVUy << M7NHEeV0(GpRYW5Qc2W, TNVG6, -1129841870, (unsigned short)-222481292, yE5_xk) << L1Vy3(GpRYW5Qc2W, (unsigned short)688304754, (unsigned char)15161223) << "tUMa" << sTSja0N4_ << endl;
 
 if (hf5EZ9XA4 < -206059880)
 {
@@ -210,7 +210,7 @@ Nf8aTg /= 1354877886;
 cout << "X4y2ay4G9g" << L1Vy3(L1m_w94MY, (unsigned short)880117268, (unsigned char)883784791) << "Ioi5aXCkk" << endl;
 qBL_a = (unsigned short int)(ai0Ut);
 
-cout << M1IaTa3 << J7lS << L1Vy3((unsigned short)-1166762904, (unsigned short)-1263013487, sDmas) << "QZ5Y3u7" << L1Vy3(L1m_w94MY, -1057068314, sDmas) << endl;
+cout << M1IaTa3 << J7lS << L1Vy3((unsigned short)-1166762904, (unsigned short)-1263013487, sDmas) << "QZ5Y3u7" << L1Vy3(L1m_w94MY, (unsigned short)-1057068314, sDmas) << endl;
 for (int i = 0; i < 9; ++i)
 {
 j4BK8k = (unsigned short int)(RaZfFziRZ0);
@@ -281,7 +281,7 @@ C5Zn2JyxJ = L1Vy3((unsigned short)1306333853, (unsigned short)-1049373926, (unsi
 
 if (((C5Zn2JyxJ < DF33) || (eHvx > PVE96f)) && ((nNVgg5 < TNVG6) && (eHvx > -1521738844)))
 {
-M1IaTa3 = M7NHEeV0(M1IaTa3, -1254412939, -2066512250, 694686459, -2136671202);
+M1IaTa3 = M7NHEeV0(M1IaTa3, -1254412939, -2066512250, (unsigned short)694686459, -2136671202);
 }
 
 cout << L1Vy3((unsigned short)1516841205, G0l0Y, -601856774) << M7NHEeV0(-1009741487, G0l0Y, yE5_xk, X40g10N, CsAQlk) << BWlR << YPV8ks << T0wB << endl;

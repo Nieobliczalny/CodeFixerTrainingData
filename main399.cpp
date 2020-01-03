@@ -71,7 +71,7 @@ int main(int argc, char** argv)
   short  I3j2;
   I3j2  =  (short)-1871637691;
     short    DECWZ_;
-    DECWZ_    =    -630413359;
+    DECWZ_    =    (short)-630413359;
   unsigned int  rcz_ggo;
   rcz_ggo  =  1096050871;
     unsigned int    SP_EgTA;

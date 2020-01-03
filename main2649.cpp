@@ -48,7 +48,7 @@ tA7I582FN = IL2Mj3_c58((unsigned short)-483208840);
 break;
 case 'b':
 case 'B':
-fji18 = DDYN((short)-251632064, (short)-351445290, (unsigned char)-1841206446, YaGVdRJ5_, -11691969);
+fji18 = DDYN((short)-251632064, (short)-351445290, (unsigned char)-1841206446, YaGVdRJ5_, (short)-11691969);
 break;
 case 'c':
 case 'C':

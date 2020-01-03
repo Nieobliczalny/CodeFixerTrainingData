@@ -31,7 +31,7 @@ int main(int argc, char** argv)
   char  fq97Wm  =  (char)1669691581;
 	unsigned char	AM28	=	(unsigned char)71678585;
     short    wZI_3Vt    =    0;
- short int mu2bMFGc7p = -712558544;
+ short int mu2bMFGc7p = (short)-712558544;
 
 try
 {

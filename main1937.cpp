@@ -37,7 +37,7 @@ int main(void) {
 	unsigned short int	CIX5;
 	CIX5	=	(unsigned short)1592694689;
   unsigned char  Z1LG;
-  Z1LG  =  -384273789;
+  Z1LG  =  (unsigned char)-384273789;
  unsigned int BE09p5CZ8o;
  BE09p5CZ8o = 1181798119;
     short int    kXg15x;
@@ -147,7 +147,7 @@ int main(void) {
     unsigned char    GZSR8uS;
     GZSR8uS    =    (unsigned char)-692526345;
 	unsigned char	m_162;
-	m_162	=	-1315869621;
+	m_162	=	(unsigned char)-1315869621;
   char  SO21AfB;
   SO21AfB  =  (char)57282232;
   long  Qq9A17YG2;
@@ -173,7 +173,7 @@ int main(void) {
  short int hnU4e0L2tq;
  hnU4e0L2tq = (short)-430407677;
     short int    vpUk_1LFV_;
-    vpUk_1LFV_    =    1268629792;
+    vpUk_1LFV_    =    (short)1268629792;
 	long double	X_VU2fv7e;
 	X_VU2fv7e	=	255492224;
     long double    PE8y;

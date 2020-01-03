@@ -53,7 +53,7 @@ Gmma6J4 /= F8RVzxIm5;
 }
 
 yl7Tvx8p = (int)ceil(Q0sva);
-cout << VLx1P << o6N7q55((char)-812509625, V_v767avjq) << "X_H2OamVj" << aUQ6h4tX((short)-50732021, (char)1802606906, gxK_9, (unsigned short)-926618598, 1149957396) << endl;
+cout << VLx1P << o6N7q55((char)-812509625, V_v767avjq) << "X_H2OamVj" << aUQ6h4tX((short)-50732021, (char)1802606906, gxK_9, (unsigned short)-926618598, (char)1149957396) << endl;
 
 for (int i = 0; i < 3; ++i)
 {
@@ -81,7 +81,7 @@ DEI4 = aUQ6h4tX(DEI4, (char)-476954709, 391971521, (unsigned short)173442280, V_
 switch (sKb1)
 {
 case 0:
-mxpl1 = aUQ6h4tX((short)-668917175, (char)979886442, F8RVzxIm5, 115054206, V_v767avjq) | 1106756529;
+mxpl1 = aUQ6h4tX((short)-668917175, (char)979886442, F8RVzxIm5, (unsigned short)115054206, V_v767avjq) | 1106756529;
 break;
 case 1:
 sKb1 = b4bXTc32(-1252293638, -1917433915);

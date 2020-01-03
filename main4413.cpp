@@ -333,7 +333,7 @@ wB5P6ND_s = NisA49J604((unsigned char)2124329433, 1108908508, (unsigned char)-88
 }
 else
 {
-wB5P6ND_s = NisA49J604(-307743323, GfE5h, ibvbgMgfB2, ZZVvH9V, NeP2sX);
+wB5P6ND_s = NisA49J604((unsigned char)-307743323, GfE5h, ibvbgMgfB2, ZZVvH9V, NeP2sX);
 }
 j++;
 }

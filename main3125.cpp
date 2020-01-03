@@ -42,7 +42,7 @@ int main()
   unsigned long  RrNmU_ma  =  -16178670;
 	unsigned short	Da1a3p	=	(unsigned short)-402082960;
   unsigned long long  Up71CeVy  =  2078787337;
- char GJXCq64Uk = -1864665982;
+ char GJXCq64Uk = (char)-1864665982;
   unsigned long long  X3_y8m  =  -2126913770;
 	unsigned int	JkkD63HiN	=	0;
  unsigned int tOc4 = 0;

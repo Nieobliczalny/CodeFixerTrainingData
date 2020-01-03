@@ -135,7 +135,7 @@ else if (HzLir >= -28278592)
 {
 try
 {
-HzLir = a2u17_J((unsigned short)1737625495, 99299448, -1399343500);
+HzLir = a2u17_J((unsigned short)1737625495, (short)99299448, -1399343500);
 }
 catch (int& errorCode)
 {
@@ -237,7 +237,7 @@ break;
 
 if (((HzLir & J4ln) || (e1LS5ScqI >= ZY80I)) || (J4ln))
 {
-XkMbG = (zX7hfkj44 > XkMbG) ? R__9FW : r3mC0E((short)436974129, -1630931132, J9g34OKJHy, Qncv5oPY);
+XkMbG = (zX7hfkj44 > XkMbG) ? R__9FW : r3mC0E((short)436974129, (unsigned short)-1630931132, J9g34OKJHy, Qncv5oPY);
 }
 
 wJ2RP = r3mC0E(wJ2RP, vhr3, -1447075710, ey91aw1ae);
@@ -377,7 +377,7 @@ case 5:
 Uo_2w = (int)floor(nvajhx);
 break;
 case 6:
-Le73M = IpU_5((unsigned char)-1193407783, 2078206997, (unsigned short)1002530211, 1811875136, 1304628467);
+Le73M = IpU_5((unsigned char)-1193407783, 2078206997, (unsigned short)1002530211, 1811875136, (short)1304628467);
 break;
 }
 }

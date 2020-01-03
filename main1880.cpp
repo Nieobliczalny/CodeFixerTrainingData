@@ -31,7 +31,7 @@ int main(int argc, char** argv)
  char ch2dlA = (char)-852540136;
  unsigned long long YSJ3t1LA = -722925519;
 	int	Fz_FTFlQ	=	0;
-  char  f95UE  =  -594541996;
+  char  f95UE  =  (char)-594541996;
 	short int	xeNh	=	0;
     char    kCueZ    =    (char)890957513;
   long long  lYvoOYS_W7  =  -678865113;

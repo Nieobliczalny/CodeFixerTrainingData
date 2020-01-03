@@ -45,7 +45,7 @@ int main(void) {
   unsigned long  Ko264  =  399014857;
  unsigned short amwMi_ = (unsigned short)-644966927;
   int  EggBd4_g  =  -225571882;
-	unsigned short int	yF72F1	=	933516678;
+	unsigned short int	yF72F1	=	(unsigned short)933516678;
   char  T9w7u  =  -200370331;
  long long mig3qDp = -2127310535;
  short int pDllHk5I = (short)1608727799;
@@ -85,7 +85,7 @@ int main(void) {
     int    xQtb    =    1034720687;
     float    r0SG9NU3Bl    =    -1912298773;
 	unsigned short int	p3Qd2kH_2_	=	(unsigned short)2003995133;
-  short  qI62u39K  =  1061720337;
+  short  qI62u39K  =  (short)1061720337;
 	int	cu0mw_RL0R	=	-2070512809;
     char    IYz_5u0ZNq    =    -2083774518;
 

@@ -25,7 +25,7 @@ int main(void) {
     t5_Y1N1I    =    (short)1637644456;
     reBJ    =    (short)285398731;
     pBbpG3VY_    =    (short)-897059225;
-    X03M    =    1003059260;
+    X03M    =    (short)1003059260;
 
 A1mGgZ7fn = SvDkgsS2();
 try

@@ -38,7 +38,7 @@ xBbW2 = E3Syl(N68u0H52K7, jV1pZ1, (unsigned short)-1119288191, (unsigned short)2
 switch (i63U)
 {
 case 0:
-MTg_r_V8C = E3Syl((short)-224783403, -648634353, (unsigned short)-766819718, yFyh7a, -1412511185);
+MTg_r_V8C = E3Syl((short)-224783403, -648634353, (unsigned short)-766819718, yFyh7a, (unsigned short)-1412511185);
 break;
 case 1:
 zp4X_u = (int)floor(NGA605);
@@ -237,7 +237,7 @@ case 0:
 LWye = (int)abs(rhCS3);
 break;
 case 1:
-txz_04PQ5 = E3Syl((short)-1154286857, Hr3d, -2022930757, u_N3Czv, 1965988143);
+txz_04PQ5 = E3Syl((short)-1154286857, Hr3d, (unsigned short)-2022930757, u_N3Czv, 1965988143);
 break;
 case 2:
 MTg_r_V8C = E3Syl((short)221383471, -758105773, (unsigned short)-361824484, (unsigned short)1983957971, cm42yhPH);
@@ -258,7 +258,7 @@ case 7:
 MTg_r_V8C = E3Syl(cc2u2iWCmw, -666542493, (unsigned short)1465817015, (unsigned short)-577379246, (unsigned short)-2087762158);
 break;
 case 8:
-txz_04PQ5 = E3Syl((short)1470866625, ykTmojk99, m2ck400G, wuozc_3S7, 696146700);
+txz_04PQ5 = E3Syl((short)1470866625, ykTmojk99, m2ck400G, wuozc_3S7, (unsigned short)696146700);
 break;
 case 9:
 hWkr3 = E3Syl(-1552687224, -691512528, hWkr3, JMuz4, i6lDFFw);
@@ -304,7 +304,7 @@ case 6:
 cB1f2yM9 = (int)abs(N68u0H52K7);
 break;
 case 7:
-xBbW2 = E3Syl(x_h0V03t, yFyh7a, (unsigned short)693486672, -1128999270, YH_7);
+xBbW2 = E3Syl(x_h0V03t, yFyh7a, (unsigned short)693486672, (unsigned short)-1128999270, YH_7);
 break;
 case 8:
 zD7T0i2i6z = (int)ceil(N68u0H52K7);

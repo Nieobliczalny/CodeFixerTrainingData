@@ -21,7 +21,7 @@ int main()
 	yf3_3	=	(unsigned short)-1140472176;
 	vY_U1j	=	(unsigned short)311789796;
 	NSz4	=	(unsigned short)-1852832126;
-	eTCYmUYcb	=	2117183609;
+	eTCYmUYcb	=	(unsigned short)2117183609;
 	cJbFAY891	=	-674866940;
 	pONGjL	=	-2101957088;
 	VQdJ4ie	=	-542115131;
@@ -31,7 +31,7 @@ int main()
 	kFRD7L	=	(unsigned short)-1352805892;
 	FU93_d1	=	(unsigned short)-597714329;
 	FI76uQ_v	=	(unsigned short)1529682592;
-	YX3LR	=	-894720723;
+	YX3LR	=	(unsigned short)-894720723;
 	ICm5HE	=	1936357253;
 	GPCs7	=	1843223159;
 	xX5it1M4	=	-1023457917;
@@ -41,7 +41,7 @@ int main()
 	OU8GV	=	(unsigned short)-557177065;
 	ErYnxJ6dU_	=	(unsigned short)-1621778699;
 	WVISYUpi	=	(unsigned short)907345261;
-	gS7mwaLc1	=	1649309792;
+	gS7mwaLc1	=	(unsigned short)1649309792;
 	Lm9Oi	=	610386239;
 	Ywf1	=	-685894073;
 	aHUe1VyvIK	=	682615012;
@@ -51,7 +51,7 @@ int main()
 	v35i	=	(unsigned short)1675475924;
 	xGCMA	=	(unsigned short)-1749233645;
 	qw8_	=	(unsigned short)807599510;
-	AQ23	=	2064329748;
+	AQ23	=	(unsigned short)2064329748;
 	Es02a9W6	=	41609801;
 	W9nWFV02	=	-2013817969;
 	dFDt_Iw	=	-1505546787;
@@ -61,7 +61,7 @@ int main()
 	UkD5h	=	(unsigned short)1035912850;
 	nrmw	=	(unsigned short)521540318;
 	Z4a1N	=	(unsigned short)1146685845;
-	b0RJh	=	1423908584;
+	b0RJh	=	(unsigned short)1423908584;
 	p9FT7v	=	-706868039;
 	umER	=	705117931;
 	pcSs	=	1958184485;
@@ -71,7 +71,7 @@ int main()
 	CEAtbj895	=	(unsigned short)-1929548187;
 	cl64P	=	(unsigned short)-82803781;
 	J81ON4HpeS	=	(unsigned short)1864702014;
-	o5KevT7986	=	-1786178854;
+	o5KevT7986	=	(unsigned short)-1786178854;
 	FXCs6XB	=	25982427;
 	k3bh45w1z	=	1000584600;
 	I1qszk_	=	496851088;
@@ -81,7 +81,7 @@ int main()
 	FH31JT9LIb	=	(unsigned short)563702979;
 	X07Ss	=	(unsigned short)112682399;
 	TkTnhyQV	=	(unsigned short)-1612616669;
-	qSjmM8U3o	=	495025654;
+	qSjmM8U3o	=	(unsigned short)495025654;
 	A29Rp0	=	829492774;
 	F8X2B3h1j	=	807573260;
 	TxD56E9240	=	-1420422647;
@@ -91,7 +91,7 @@ int main()
 	N823ApYbqx	=	(unsigned short)2025807333;
 	q917Yi	=	(unsigned short)-1742225335;
 	l6_7CD	=	(unsigned short)-787498475;
-	j1svQ9S2e	=	-675052098;
+	j1svQ9S2e	=	(unsigned short)-675052098;
   unsigned long  Wn_VU_dRJf;
   Wn_VU_dRJf  =  0;
 

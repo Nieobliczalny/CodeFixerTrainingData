@@ -34,7 +34,7 @@ int main(int argc, char** argv) {
 	short	E83y6d2	=	0;
  short E3__rnn = (short)-647031090;
 	long	CD788	=	0;
-	unsigned char	f__L3_Ev	=	261733447;
+	unsigned char	f__L3_Ev	=	(unsigned char)261733447;
   int  WCu3oaW4  =  -1784558091;
 	long	HZ6SW	=	-1684373418;
 	float	h9_0U	=	1104603110;
@@ -245,7 +245,7 @@ case 3:
 E_O32k5_ = qnvEclcJ((short)-278932907) | 1976076916;
 break;
 case 4:
-WCu3oaW4 = T49U3R69C((unsigned short)-214095356, (unsigned short)-1218568443, c26iKl_AZF, vso3E3I, -195618813);
+WCu3oaW4 = T49U3R69C((unsigned short)-214095356, (unsigned short)-1218568443, c26iKl_AZF, vso3E3I, (unsigned short)-195618813);
 break;
 case 5:
 x3R44 = T49U3R69C(x3R44, -2124154973, Cac9w7x7b0, 456498116, h9_0U);

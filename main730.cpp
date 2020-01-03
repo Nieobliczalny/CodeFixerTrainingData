@@ -131,7 +131,7 @@ int main(int argc, char** argv) {
 	char	mt9l_5;
 	mt9l_5	=	(char)754519096;
 	short int	Mj450_7m9;
-	Mj450_7m9	=	1171627696;
+	Mj450_7m9	=	(short)1171627696;
   short int  aOxAf66y;
   aOxAf66y  =  (short)874868427;
     int    w65howgml8;

@@ -75,7 +75,7 @@ mpmk_ = Uz0XFuyPo((unsigned short)1274138209, YaVUy, mpmk_, 1199453835);
 }
 else
 {
-mpmk_ = Uz0XFuyPo((unsigned short)2022802715, -50614264, -887831630, cmxXY);
+mpmk_ = Uz0XFuyPo((unsigned short)2022802715, (unsigned char)-50614264, -887831630, cmxXY);
 }
 }
 }
@@ -158,7 +158,7 @@ case 2:
 W2_D_ = Uz0XFuyPo((unsigned short)1220412026, (unsigned char)-757423631, (char)-908908197, Lyo90rgw);
 break;
 case 3:
-R2fB = Uz0XFuyPo(TTW14UW, (unsigned char)-1096360364, -559775067, GwAvp);
+R2fB = Uz0XFuyPo(TTW14UW, (unsigned char)-1096360364, (char)-559775067, GwAvp);
 break;
 }
 {

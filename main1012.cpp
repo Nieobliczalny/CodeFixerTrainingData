@@ -53,7 +53,7 @@ int main(void)
     short    YQJuCbetbB    =    (short)161649117;
  int U_9_Op = 2017415345;
     short    y66HOLDcD3    =    (short)180368167;
-	unsigned char	T10hO	=	-349531986;
+	unsigned char	T10hO	=	(unsigned char)-349531986;
   long long  s_B_  =  -232404869;
   long double  m3XkFa1y  =  -1104659922;
     float    bwb4Z9    =    747859995;

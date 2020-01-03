@@ -24,7 +24,7 @@ int main(void)
  M0ZfoH4dF = (unsigned short)-1759377067;
  n8vPQe28xE = (unsigned short)-1633988896;
  fe4LX4Gol = (unsigned short)-110333635;
- AgJNV8KkM7 = 10160183;
+ AgJNV8KkM7 = (unsigned short)10160183;
  H_oRF51X = 503744314;
  O5P9 = 2120262738;
  tVnfsg3kO5 = 135089906;
@@ -34,7 +34,7 @@ int main(void)
  T9pp7 = (unsigned short)324847792;
  Gd2T38 = (unsigned short)935403966;
  VbOkF01i = (unsigned short)434439362;
- ZGGod = -1530917203;
+ ZGGod = (unsigned short)-1530917203;
  iu19Q = 1714970222;
  z5M_ZOM_mj = 481377390;
  DdLVcWT1 = -825235015;
@@ -44,7 +44,7 @@ int main(void)
  azqOIBp = (unsigned short)1994411880;
  j04METJ_ = (unsigned short)757918076;
  KkEKM_5 = (unsigned short)353873251;
- PSy2 = 907958877;
+ PSy2 = (unsigned short)907958877;
  wNiT_buq = 1134750659;
  yYsbW_ = 1739645003;
  afKOToVps = -1182249355;
@@ -54,7 +54,7 @@ int main(void)
  EoQi4c0__ = (unsigned short)-448695507;
  uzd47xJgxn = (unsigned short)1507373387;
  ltELB = (unsigned short)1232048404;
- bEpf91Yd5 = 590373348;
+ bEpf91Yd5 = (unsigned short)590373348;
  qbphTx7Z2 = -496672066;
  S6wJ1Drv = -259405868;
  CVj9e8b = 707702603;
@@ -64,7 +64,7 @@ int main(void)
  a4a_k9 = (unsigned short)-781747583;
  AO3u = (unsigned short)196549004;
  NBK_I = (unsigned short)-874341067;
- Q05DZ_7 = -939484707;
+ Q05DZ_7 = (unsigned short)-939484707;
  DckS5D = 109700989;
  MMLkp = -2085636853;
  m3m015Uq = 1002636091;
@@ -74,7 +74,7 @@ int main(void)
  vB3K_OvBew = (unsigned short)-1134423347;
  u_Qy = (unsigned short)-1965093822;
  VUQ3U = (unsigned short)-363637057;
- jIUP = 156298544;
+ jIUP = (unsigned short)156298544;
  BEK_f = 690834158;
  O305E5j1TT = 2067940621;
  f1s0qsgl_I = 1649365727;
@@ -84,7 +84,7 @@ int main(void)
  g_PT5Q = (unsigned short)1292208151;
  QqkNjV8lfJ = (unsigned short)1716519410;
  hqe9Be44b = (unsigned short)-183968034;
- HsS1c51 = -1730342550;
+ HsS1c51 = (unsigned short)-1730342550;
  h7W06G = 1232996611;
  Ti2GLJ2 = -508081464;
  Xlt89 = 1784063331;
@@ -94,7 +94,7 @@ int main(void)
  m1xbPtK = (unsigned short)1523387562;
  r5J07Q8 = (unsigned short)108282012;
  Nk6_79C6q = (unsigned short)2101051412;
- me95C30Yj = -1759098102;
+ me95C30Yj = (unsigned short)-1759098102;
  nrym_79wue = -727731789;
 
 if (S6wJ1Drv < XC_u71C3D6)

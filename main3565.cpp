@@ -334,7 +334,7 @@ case 2:
 LWgfb4h9 = D9qX5h((unsigned short)289920190, (short)1908558389);
 break;
 case 3:
-LWgfb4h9 = D9qX5h(-514766278, -165401703);
+LWgfb4h9 = D9qX5h((unsigned short)-514766278, -165401703);
 break;
 case 4:
 LWgfb4h9 = D9qX5h((unsigned short)891338514, R6vz);

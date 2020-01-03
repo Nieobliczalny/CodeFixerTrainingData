@@ -539,7 +539,7 @@ int i = 0;
 do
 {
 ++i;
-std::cout << D4K387HfG8 << vSkr4rG((short)-2114451606, LjY3x, (unsigned short)-338965042, (short)-108744489) << vSkr4rG(jNdT1p7D, LjY3x, (unsigned short)1453822180, D4K387HfG8) << VDP3Cyq << vSkr4rG(-1598707554, 120357340, 720982948, D4K387HfG8) << std::endl;
+std::cout << D4K387HfG8 << vSkr4rG((short)-2114451606, LjY3x, (unsigned short)-338965042, (short)-108744489) << vSkr4rG(jNdT1p7D, LjY3x, (unsigned short)1453822180, D4K387HfG8) << VDP3Cyq << vSkr4rG((short)-1598707554, 120357340, 720982948, D4K387HfG8) << std::endl;
 }
 while (i < 6);
 }
@@ -574,7 +574,7 @@ case 5:
 LjY3x = vSkr4rG((short)-1970534439, jNdT1p7D, VDP3Cyq, (short)1577658226);
 break;
 case 6:
-LjY3x = vSkr4rG((short)1369194077, -1085906106, (unsigned short)1428953142, -725885308);
+LjY3x = vSkr4rG((short)1369194077, -1085906106, (unsigned short)1428953142, (short)-725885308);
 break;
 }
 jNdT1p7D += VDP3Cyq;

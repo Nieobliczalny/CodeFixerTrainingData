@@ -314,7 +314,7 @@ case 2:
 E50i8R = (int)floor(bDxvhuS);
 break;
 case 3:
-Rp5lEpyt5S = A9aZK79QT(940555194, Ajw4, n_1H5uH_k, SvcCFJn);
+Rp5lEpyt5S = A9aZK79QT((unsigned char)940555194, Ajw4, n_1H5uH_k, SvcCFJn);
 break;
 }
 
@@ -409,7 +409,7 @@ Y2Vv5SK5 = (double)(s7H4);
 Za4Ze_0E17 = (s7H4 != nIBjG) ? -1260291922 : CAtg11c(ZHac_l, r43sl9yPl, HS__T4hHV, X110, (char)-153557158);
 if (xplKs3M8r0 & sVd93K_T0)
 {
-std::cout << CAtg11c((char)-1344190798, r43sl9yPl, HS__T4hHV, (unsigned short)-1569824721, (char)-847422098) << A9aZK79QT(ZHac_l, 122363884, HS__T4hHV, 1417211138) << "O2jEnMf" << std::endl;
+std::cout << CAtg11c((char)-1344190798, r43sl9yPl, HS__T4hHV, (unsigned short)-1569824721, (char)-847422098) << A9aZK79QT(ZHac_l, (short)122363884, HS__T4hHV, 1417211138) << "O2jEnMf" << std::endl;
 }
 {
 int i = 5;
@@ -435,7 +435,7 @@ case 3:
 OxOtEui = (int)abs(kzb1);
 break;
 case 4:
-x8Y_05r = CAtg11c((char)-345072007, NKsR7k, -1063978785, Se1Amv_b, -1859222262) >> 1763253948;
+x8Y_05r = CAtg11c((char)-345072007, NKsR7k, (unsigned short)-1063978785, Se1Amv_b, -1859222262) >> 1763253948;
 break;
 case 5:
 xplKs3M8r0 = NKsR7k | d8s_;
@@ -462,7 +462,7 @@ if ((sVd93K_T0 / S4894) < -600191743)
 {
 H96oT67 = gy7ri / S4894;
 }
-std::cout << V_1YA0U << A9aZK79QT((unsigned char)-448776294, E50i8R, kmO8F, -954050325) << choi3IR3g8 << A9aZK79QT(u7hv, E50i8R, kmO8F, 765866633) << A9aZK79QT(2064797419, E50i8R, 1083911747, Rp5lEpyt5S) << std::endl;
+std::cout << V_1YA0U << A9aZK79QT((unsigned char)-448776294, E50i8R, kmO8F, (short)-954050325) << choi3IR3g8 << A9aZK79QT(u7hv, E50i8R, kmO8F, 765866633) << A9aZK79QT(2064797419, E50i8R, 1083911747, Rp5lEpyt5S) << std::endl;
 {
 int i = 6;
 do
@@ -538,7 +538,7 @@ catch (int& errorCode)
 {
 k83B31v6M = iB3pL << u7hv;
 }
-std::cout << V0Zh6nk(-1588630370, -1106382697, 280446606, (char)1032575895) << CAtg11c((char)-1374311230, (short)1606626295, NKsR7k, (unsigned short)1471489443, o33jn44N6d) << "uS3FydbjU" << A9aZK79QT(zJM5, stU9IB4q_, -556143261, ZHac_l) << std::endl;
+std::cout << V0Zh6nk(-1588630370, -1106382697, 280446606, (char)1032575895) << CAtg11c((char)-1374311230, (short)1606626295, NKsR7k, (unsigned short)1471489443, o33jn44N6d) << "uS3FydbjU" << A9aZK79QT(zJM5, stU9IB4q_, (unsigned short)-556143261, ZHac_l) << std::endl;
 
 kmO8F = (short int)(s7H4);
 

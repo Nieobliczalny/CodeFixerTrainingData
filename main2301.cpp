@@ -61,7 +61,7 @@ int main(void)
 	double	gcrCU	=	-75018662;
  long double KMpbcO = -513246179;
     unsigned short    g3o0BDS271    =    (unsigned short)432273086;
-	char	l_4lOSb	=	-1457752977;
+	char	l_4lOSb	=	(char)-1457752977;
     char    Xffio7    =    (char)-983103121;
   unsigned short  vF73  =  0;
   short  P5Maz2cZ  =  -322115733;
@@ -75,7 +75,7 @@ int main(void)
     long long    E8ml    =    -1754594454;
  unsigned short d_miM = (unsigned short)571319946;
  unsigned short B7KD523 = (unsigned short)-955217714;
- short qDR6dw41N = 66090104;
+ short qDR6dw41N = (short)66090104;
  short int w7gL6 = (short)781345370;
  unsigned short int wzx2 = (unsigned short)1283980961;
   short int  dlhT349  =  952450857;
@@ -85,7 +85,7 @@ switch (IF48L2q2P8)
 {
 case 'a':
 case 'A':
-nl1IvS4ew_ = n2QP(I_UiotE0I, (char)1237699860, (unsigned short)-171325127, 433647101, -134104833);
+nl1IvS4ew_ = n2QP(I_UiotE0I, (char)1237699860, (unsigned short)-171325127, (unsigned short)433647101, -134104833);
 break;
 default:
 UdSsp4m = (int)abs(dlhT349);

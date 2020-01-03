@@ -150,7 +150,7 @@ int main(void)
 	char	a9G_EudIA9;
 	a9G_EudIA9	=	(char)-940977458;
     short int    CpUUSbD;
-    CpUUSbD    =    -238543992;
+    CpUUSbD    =    (short)-238543992;
 	unsigned long long	nUVB5JG57;
 	nUVB5JG57	=	-588072003;
     short int    D6MY71S;

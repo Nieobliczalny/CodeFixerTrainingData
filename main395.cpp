@@ -192,7 +192,7 @@ n9CW9 = (int)abs(Xdzsa0066);
 }
 Xdzsa0066 = V5dq82g78 % wxx2FQ_;
 
-cout << e36pkTbCx(UvmiAW21, P5Vht, (short)-414312454, mSu7U2xn, -291629455) << e36pkTbCx((char)1610888867, 1820969149, (short)1691402656, mSu7U2xn, oXs8MMJc) << e36pkTbCx((char)-120352502, P5Vht, 2038849964, mSu7U2xn, -934983710) << endl;
+cout << e36pkTbCx(UvmiAW21, P5Vht, (short)-414312454, mSu7U2xn, -291629455) << e36pkTbCx((char)1610888867, 1820969149, (short)1691402656, mSu7U2xn, oXs8MMJc) << e36pkTbCx((char)-120352502, P5Vht, (short)2038849964, mSu7U2xn, -934983710) << endl;
 g7C0K++;
 P5Vht = dbRC8c & yr6S23;
 
@@ -224,7 +224,7 @@ case 4:
 x_jIXx = e36pkTbCx(wxx2FQ_, 745871148, (short)-1558322037, n9CW9, YyX_a0694n);
 break;
 case 5:
-rHO0_V = e36pkTbCx((char)894225389, YyX_a0694n, P5Vht, 968621640, OXI_7);
+rHO0_V = e36pkTbCx((char)894225389, YyX_a0694n, P5Vht, (unsigned short)968621640, OXI_7);
 break;
 default:
 A4W8G -= 1615424109;
@@ -334,7 +334,7 @@ else if (Xdzsa0066 & -1837745572)
 switch (WQBu)
 {
 case 0:
-rHO0_V = e36pkTbCx((char)-704324111, -1796647492, -1900496914, n9CW9, -2021083889);
+rHO0_V = e36pkTbCx((char)-704324111, -1796647492, (short)-1900496914, n9CW9, -2021083889);
 break;
 case 1:
 qM3PyJ4On = e36pkTbCx(V5dq82g78, 1588448826, (short)1460673143, f7_57, -42450285);
@@ -352,7 +352,7 @@ else if (Xdzsa0066 < -1124527213)
 {
 if ((AAKS > 1359852279) && ((wxx2FQ_ == 1410231828) && (j5HQ6 != 343671363)))
 {
-qM3PyJ4On = e36pkTbCx(RVSM56, 172699431, (short)1391130238, -1529815634, 1220614705);
+qM3PyJ4On = e36pkTbCx(RVSM56, 172699431, (short)1391130238, (unsigned short)-1529815634, 1220614705);
 }
 else
 {
@@ -379,7 +379,7 @@ AAKS = e36pkTbCx((char)-1983075295, V5dq82g78, x7fLv, Xdzsa0066, 1896923789) >> 
 }
 else
 {
-qM3PyJ4On = e36pkTbCx((char)-391317781, 2032246143, -1278417984, 895857918, wxx2FQ_);
+qM3PyJ4On = e36pkTbCx((char)-391317781, 2032246143, (short)-1278417984, 895857918, wxx2FQ_);
 }
 }
 else if (RVSM56 < -921710908)
@@ -409,7 +409,7 @@ case 4:
 j5HQ6 = Kv92BzX07 % 482019892;
 break;
 case 5:
-qM3PyJ4On = e36pkTbCx((char)326090069, q6s6_3nP, -325240997, A39JPp, qM3PyJ4On);
+qM3PyJ4On = e36pkTbCx((char)326090069, q6s6_3nP, (short)-325240997, A39JPp, qM3PyJ4On);
 break;
 case 6:
 j5HQ6 &= Kv92BzX07;

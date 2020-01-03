@@ -32,7 +32,7 @@ int main() {
  bsGMI = (unsigned char)1909210844;
  rE0NQD = (unsigned char)188880600;
  t_V68_b = (unsigned char)1951839487;
- Y_3F = 1113878340;
+ Y_3F = (unsigned char)1113878340;
  T5MUkeEFm5 = -1312936211;
  zNc9 = 976711128;
  P2z1 = 425999195;
@@ -42,7 +42,7 @@ int main() {
  cN4Ftvg2E = (unsigned char)1880312652;
  ZBof = (unsigned char)-1088417982;
  v7w73EmBLo = (unsigned char)679279200;
- DBkG_y7 = 999576373;
+ DBkG_y7 = (unsigned char)999576373;
  k0Em9YNw0Y = 1326727189;
  CVWC = 1874556463;
  q_gOISg = 552019888;
@@ -52,7 +52,7 @@ int main() {
  Lz28 = (unsigned char)-815962831;
  V_5q = (unsigned char)-45687738;
  uV8A_H0s = (unsigned char)1189916798;
- agQSz967 = 555461330;
+ agQSz967 = (unsigned char)555461330;
  U24UiNP0j = 293348892;
  fNK2e = -866002603;
  uLvWuLHQj = -2047058804;
@@ -62,7 +62,7 @@ int main() {
  pt05He = (unsigned char)979874503;
  Hrj8ZXCHu = (unsigned char)-1872826062;
  we1q_Sxf = (unsigned char)-2045562524;
- E3zjR5Q = -1856929779;
+ E3zjR5Q = (unsigned char)-1856929779;
  y80nHMwY3G = 196527280;
  rCcQ008P = 1157004467;
  qoKs = -1534003656;
@@ -72,7 +72,7 @@ int main() {
  Qt2o6ZBHWH = (unsigned char)1804528903;
  xItPMRh = (unsigned char)1835589767;
  sn6K78g = (unsigned char)1713495888;
- q93C1 = -1574990619;
+ q93C1 = (unsigned char)-1574990619;
  Uew3 = 1871499868;
  d9xvDOON = 75651291;
  H8ZCFS = -479925348;
@@ -82,7 +82,7 @@ int main() {
  AoE_Qu9d = (unsigned char)1496403830;
  qnu5 = (unsigned char)1247608064;
  M4cVl8weX = (unsigned char)1410325972;
- Q_ZrQf = -1645090977;
+ Q_ZrQf = (unsigned char)-1645090977;
  Ep2Ok5U = -1520327672;
  RnOuTd_N = 249902035;
  hTq6bMHn = -418966902;
@@ -92,7 +92,7 @@ int main() {
  z7ING = (unsigned char)-931699239;
  P_12 = (unsigned char)-1681942700;
  Svm82 = (unsigned char)813532610;
- h4dh6YO3 = -2016451375;
+ h4dh6YO3 = (unsigned char)-2016451375;
  HS9_sx = -342868167;
  R3yv2zEj = -29603760;
  I_axAEFV = -669038606;
@@ -102,7 +102,7 @@ int main() {
  l01qO7Fo = (unsigned char)89897830;
  Ssh51Ah = (unsigned char)-916826213;
  Pif0o586 = (unsigned char)1304238928;
- Jz_Bi = 324508930;
+ Jz_Bi = (unsigned char)324508930;
  j54UZX57 = -1839924240;
  iWuU = 1385566449;
 
@@ -333,7 +333,7 @@ case 'e':
 aBRo2k = g3n7m((char)-712906494, (char)-830398076, MmeCK);
 break;
 case 'f':
-aBRo2k = g3n7m(EaFU3VuX, 1873718107, Pif0o586);
+aBRo2k = g3n7m(EaFU3VuX, (char)1873718107, Pif0o586);
 break;
 case 'g':
 E3zjR5Q += 2109619850;

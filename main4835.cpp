@@ -51,7 +51,7 @@ int main(int argc, char** argv) {
     short    vbphP    =    (short)1279657768;
 	short int	MyE0G4fB9	=	(short)1052698640;
 	unsigned long	MC5mVEc3	=	-1592842157;
-  unsigned char  s8Br  =  427968410;
+  unsigned char  s8Br  =  (unsigned char)427968410;
 	unsigned long	NXgeRf	=	306669169;
   long  v8ei3  =  1537311139;
  double uP11_ = -1261098291;

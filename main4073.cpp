@@ -50,7 +50,7 @@ int main() {
   tJ67Exm9  =  (short)-945745940;
   p0J906b  =  (short)-637462165;
   YpII  =  (short)-780228147;
-  UIFwmNW  =  -1150610978;
+  UIFwmNW  =  (short)-1150610978;
   Ypg0K8  =  -1196549030;
   l0Zq4I  =  -892150521;
   L3p0oHbR0  =  -820328667;

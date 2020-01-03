@@ -29,7 +29,7 @@ int main(void) {
 	unsigned short	Of4SC6wzVU	=	(unsigned short)-2040282350;
     int    Y5XN    =    478865823;
 	long double	YnTo	=	-1080146939;
- short tzXjbQo = 63804905;
+ short tzXjbQo = (short)63804905;
  unsigned short int W1G6zBMg = -461407870;
   long long  VZ31  =  1927927693;
  float rocF0i = -232371081;
@@ -227,7 +227,7 @@ Of4SC6wzVU = PWyxiVTzK0 / TUAASZ95((short)-87237417, (unsigned short)1918191693,
 switch (PWyxiVTzK0)
 {
 case 'a':
-jQef = hQstS5YbC(jQef, (unsigned short)-469044960, 1573437464, -384051541);
+jQef = hQstS5YbC(jQef, (unsigned short)-469044960, (short)1573437464, -384051541);
 break;
 case 'b':
 YnTo = (int)ceil(bqH7GJ1A);

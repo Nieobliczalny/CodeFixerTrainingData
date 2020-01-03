@@ -497,7 +497,7 @@ UX0_p = IaxGvY2((short)-431173752, (unsigned short)1216749357, (short)-157837808
 }
 else if (WdKr4JKj)
 {
-WbN8 = IaxGvY2(WbN8, H18g, -1354667613, JkI8bS_, x272V4v);
+WbN8 = IaxGvY2(WbN8, H18g, (short)-1354667613, JkI8bS_, x272V4v);
 }
 else
 {
@@ -606,7 +606,7 @@ case 5:
 Rlg6E2 = JO8983kez2(1548593596, (char)1630095956, (unsigned short)423665537, (short)-1489007965, 1149674212);
 break;
 case 6:
-Rlg6E2 = JO8983kez2(zhJe5CTx, -990202090, 886522977, X185G32, 638452797);
+Rlg6E2 = JO8983kez2(zhJe5CTx, (char)-990202090, 886522977, X185G32, 638452797);
 break;
 case 7:
 X55Q9 = BOPP(X55Q9, s2X_am3q8);

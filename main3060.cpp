@@ -29,7 +29,7 @@ int main() {
   char  Y7jC_9h8;
   Y7jC_9h8  =  (char)-967379261;
     char    wJs9h4E;
-    wJs9h4E    =    1260823349;
+    wJs9h4E    =    (char)1260823349;
 	unsigned int	zfiN7V;
 	zfiN7V	=	0;
     short int    G4rd6;

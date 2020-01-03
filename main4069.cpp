@@ -24,7 +24,7 @@ int main(void) {
     short    RSU5f0CU    =    (short)-1484506038;
     short int    Hvzq    =    (short)-1022138765;
   unsigned long  A7_Ov1xYi4  =  -785184549;
-    char    Rsx0    =    997566801;
+    char    Rsx0    =    (char)997566801;
  unsigned long long a86I5 = 573802109;
   unsigned long  n0_i86B  =  2049825855;
     unsigned int    gf1oKPqpz    =    -500998723;

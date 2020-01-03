@@ -22,7 +22,7 @@ int main(int argc, char** argv)
  short int L9ZM = (short)-1253074932;
  short int jbFX = (short)-2072317889;
   unsigned long long  BkA9j  =  636063463;
- unsigned short R_zzoogD = -916727920;
+ unsigned short R_zzoogD = (unsigned short)-916727920;
  long double EvIq = 900184361;
     unsigned int    kBMUDDjC    =    -471719175;
 	double	LL18FKq	=	-1606497644;

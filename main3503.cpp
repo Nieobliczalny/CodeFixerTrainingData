@@ -44,7 +44,7 @@ int main() {
  short HOFK = (short)1962820030;
  unsigned long long wHM3jK = -682556510;
     char    W47w    =    (char)-1540252412;
-	short int	EmDyv2	=	235452874;
+	short int	EmDyv2	=	(short)235452874;
   int  ku51l_  =  -1766930624;
     unsigned short int    fss_P1h    =    -1887644309;
 	unsigned char	a5Rn_	=	(unsigned char)237290412;
@@ -103,7 +103,7 @@ int main() {
  long long Yuhz3hE6 = -962571059;
   unsigned long long  B3d0  =  -162467053;
 
-cout << "O6t6gur" << "GcYWcT" << W1_mODm7(-804218359, (short)1727522323, 1134802891, hPGb2E, -638725135) << "k0J_i" << endl;
+cout << "O6t6gur" << "GcYWcT" << W1_mODm7(-804218359, (short)1727522323, (char)1134802891, hPGb2E, -638725135) << "k0J_i" << endl;
 
 if (Q4XDqQ)
 {

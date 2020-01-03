@@ -139,7 +139,7 @@ int main()
     char    VvZ_OU;
     VvZ_OU    =    (char)159234471;
  short GGU4a;
- GGU4a = -459841808;
+ GGU4a = (short)-459841808;
  unsigned long long z53Mg;
  z53Mg = -1463029956;
     double    WdlR4Fk_;

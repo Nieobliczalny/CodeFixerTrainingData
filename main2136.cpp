@@ -346,7 +346,7 @@ int i = 0;
 while (i < 6)
 {
 ++i;
-cout << d0Y7g1yH << Ra7W8JV3pg(716057954, (unsigned short)-844373905) << LjE1O << ZZ84uK35 << zw_B(VmsL, -1195281084, nItXi3_rqH, X9yk) << endl;
+cout << d0Y7g1yH << Ra7W8JV3pg(716057954, (unsigned short)-844373905) << LjE1O << ZZ84uK35 << zw_B(VmsL, (short)-1195281084, nItXi3_rqH, X9yk) << endl;
 }
 }
 try

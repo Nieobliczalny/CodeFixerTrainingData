@@ -44,7 +44,7 @@ int main(int argc, char** argv)
   unsigned int  Gp715_pS  =  1435427822;
     unsigned char    es2c93D0    =    (unsigned char)-1399158541;
 	unsigned int	f125nvI_KR	=	0;
-    unsigned short int    x4665Q    =    1338431468;
+    unsigned short int    x4665Q    =    (unsigned short)1338431468;
 	long long	c7oK	=	0;
     float    y4yuQS    =    607801766;
  long double DgS5 = 538347160;

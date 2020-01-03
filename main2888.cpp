@@ -36,7 +36,7 @@ int main() {
 	h3_Ot	=	(unsigned short)843020753;
 	AkBDC98	=	(unsigned short)89850333;
 	miC2_	=	(unsigned short)520239463;
-	abooirSb	=	-1858586722;
+	abooirSb	=	(unsigned short)-1858586722;
 	Z72Py8yB	=	-334420502;
 	hrxeUq	=	-1595948903;
 	l301PCC_G	=	-573410126;
@@ -46,7 +46,7 @@ int main() {
 	z7Z5	=	(unsigned short)2064160299;
 	dX63Cueja	=	(unsigned short)373185190;
 	p0j7UA	=	(unsigned short)1481978842;
-	pGR7K436	=	-758795248;
+	pGR7K436	=	(unsigned short)-758795248;
 	S6wMTQ0q	=	-42259104;
 	CuY74Uuw	=	1838293550;
 	v8eF	=	-188151357;

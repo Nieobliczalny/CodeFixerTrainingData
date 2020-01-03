@@ -162,7 +162,7 @@ std::cout << P9pn2((short)1845156206) << rihK << O27uU << "m750cq" << std::endl;
 }
 else
 {
-std::cout << P9pn2((short)1131368856) << se024G6QQj << O27uU << CPo1Fo((char)-271866453, z4L249A8S, (char)-811071813, D1402C8, 1912169277) << "f5Yi" << std::endl;
+std::cout << P9pn2((short)1131368856) << se024G6QQj << O27uU << CPo1Fo((char)-271866453, z4L249A8S, (char)-811071813, D1402C8, (unsigned short)1912169277) << "f5Yi" << std::endl;
 }
 {
 int i = 0;

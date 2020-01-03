@@ -482,7 +482,7 @@ case 3:
 ywX5k_GMh = ty5_b(N8OYxi4, (unsigned short)52695214, (unsigned short)-75252971, (unsigned short)-1084695614, W0Kl5) - OW00fgJ6u1;
 break;
 case 4:
-MLs639v_C4 = ty5_b(MLs639v_C4, (unsigned short)-612605738, -705368415, ondL3u3ziB, L6eO_1qH);
+MLs639v_C4 = ty5_b(MLs639v_C4, (unsigned short)-612605738, (unsigned short)-705368415, ondL3u3ziB, L6eO_1qH);
 break;
 case 5:
 xb75J8R = ty5_b(xb75J8R, jkbsJ_1, -1827863853, 167909984, 1949090611);

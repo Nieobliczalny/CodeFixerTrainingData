@@ -216,7 +216,7 @@ std::cout << qy3Wk << BqHc0q9dM2(fY50, HY62, odwd7Kfn86, (short)-1502887141) << 
 }
 else if (kSh4_CCxzT != Q3xs)
 {
-std::cout << nx1tCq_A() << L9mL2WD59(-568058163, (char)-785568742, 1832273338, -465933680) << std::endl;
+std::cout << nx1tCq_A() << L9mL2WD59(-568058163, (char)-785568742, (short)1832273338, -465933680) << std::endl;
 }
 else if (rElq9J08rB >= -1574920339)
 {
@@ -437,7 +437,7 @@ case 3:
 YMKN = L9mL2WD59(-770744402, (char)-498868651, (short)-107955003, MLt8);
 break;
 case 4:
-HY62 = L9mL2WD59(-500908334, jTF00x, 1807058849, -1845308108);
+HY62 = L9mL2WD59(-500908334, jTF00x, (short)1807058849, -1845308108);
 break;
 case 5:
 PQmp3ZKNu = nx1tCq_A();

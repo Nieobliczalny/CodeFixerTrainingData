@@ -800,7 +800,7 @@ case 0:
 dXvLY = MsriwV1_Qi((unsigned char)1934005316, (short)-627648547, 1260191155, -59858293);
 break;
 case 1:
-q5IDXCB7 = wwpBuS(dXvLY, (short)1989937903, -235366897, x2tY7ELA) ^ XcFdXBRY;
+q5IDXCB7 = wwpBuS(dXvLY, (short)1989937903, (unsigned short)-235366897, x2tY7ELA) ^ XcFdXBRY;
 break;
 case 2:
 xMka0xq4 = yRKWry((unsigned short)487609008, 439333143, uxQrGjt8);

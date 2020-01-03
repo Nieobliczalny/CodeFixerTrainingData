@@ -112,7 +112,7 @@ case 5:
 l4WrIP = NF6778K(l4WrIP, yiq5, (unsigned char)-1947435575, (short)-36160856);
 break;
 case 6:
-TuPH = ryj9iZ4(AJ7DoP683, -551775982, 1600997799, 317876445);
+TuPH = ryj9iZ4(AJ7DoP683, -551775982, (unsigned short)1600997799, 317876445);
 break;
 case 7:
 Y6_498vf = (ioB7a986 == CoH_) ? S7VwQhtK : E8_5Ow5;
@@ -166,7 +166,7 @@ oj98J8w = NF6778K((short)-991376618, yiq5, (unsigned char)481537084, Xo3808Rwi) 
 
 KngHGhW = (double)(AJ7DoP683);
 
-std::cout << oI6_5wtinI((short)764674898, (unsigned char)-654675827) << ryj9iZ4(1823507131, yiq5, 684511252, -40653023) << "f6I800G" << "DFmpT" << std::endl;
+std::cout << oI6_5wtinI((short)764674898, (unsigned char)-654675827) << ryj9iZ4((short)1823507131, yiq5, 684511252, -40653023) << "f6I800G" << "DFmpT" << std::endl;
 std::cout << oI6_5wtinI(311644175, 1666586498) << ZFBpy << bU_2y4 << std::endl;
 
 if ((ZFBpy < n8uFA) || (UIL00oW7))

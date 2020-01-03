@@ -534,7 +534,7 @@ else
 {
 try
 {
-x1PHE1 = Yn5jY_41WU((char)-1396190884, Ju36iNDmps, (unsigned short)1144161920, (char)558929595, -1354497056);
+x1PHE1 = Yn5jY_41WU((char)-1396190884, Ju36iNDmps, (unsigned short)1144161920, (char)558929595, (short)-1354497056);
 }
 catch (int& errorCode)
 {

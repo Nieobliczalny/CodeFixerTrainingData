@@ -19,7 +19,7 @@ int main(void) {
 	long long	ZOC8PT	=	-1673021005;
   long long  r_l3uYGt  =  643472908;
     int    G7512    =    925043171;
-	short	S4J1q	=	-1473932803;
+	short	S4J1q	=	(short)-1473932803;
   char  l0Q9A1d  =  (char)1536685591;
 	long	V2mXEb920	=	1539512684;
 	double	RZjfG9	=	-1392477720;
@@ -36,7 +36,7 @@ int main(void) {
   char  w2mHjG9d7  =  (char)1398470251;
  unsigned long long PJ241e = 1835353549;
   int  vHE01wIr  =  -183695395;
- unsigned char Po3_1__8 = -1298469174;
+ unsigned char Po3_1__8 = (unsigned char)-1298469174;
 	short int	TFbE1PO6	=	(short)948546564;
 	long	ERv_1	=	1183346678;
 	int	ZeQ8SH4q	=	-642321260;

@@ -114,7 +114,7 @@ int main(int argc, char** argv) {
 	short	o4edJ9fOw;
 	o4edJ9fOw	=	(short)-928467194;
   short int  b8UW9zH;
-  b8UW9zH  =  -1972834604;
+  b8UW9zH  =  (short)-1972834604;
   long  s_r3;
   s_r3  =  1681942811;
   unsigned long  D68hEg;
@@ -614,7 +614,7 @@ cout << Z2_J4kM((short)566402782, -1032632310, (short)-165535854, J4lMYm6) << H3
 cout << hWx_6PsWb3 << Z2_J4kM((short)-897046621, D888Iv_K, H32Ll, 312252764) << "ktI0ta" << Lua25_ << FR29oI(IdTQ3ehXh, (short)756467652) << endl;
 if (d9I8 <= k33ls)
 {
-cout << FR29oI(299460750, 1844229618) << Z2_J4kM(1039377064, D888Iv_K, 1952580750, -512137138) << endl;
+cout << FR29oI(299460750, (short)1844229618) << Z2_J4kM(1039377064, D888Iv_K, 1952580750, -512137138) << endl;
 }
 {
 int i = 10;

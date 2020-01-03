@@ -40,7 +40,7 @@ int main()
 	LxFR375g	=	(short)-1484277051;
 	Lru5h2HMn	=	(short)-1727033943;
 	W6YNmLN34s	=	(short)-66105312;
-	p_NrXD2AB	=	229768695;
+	p_NrXD2AB	=	(short)229768695;
 	I11ECM_YF	=	-724630500;
 	d8Aw_G	=	-338746315;
 	QQlfLsFO4	=	-1980868499;
@@ -50,7 +50,7 @@ int main()
 	C5Dj9g	=	(short)-800046348;
 	U70SJtao8K	=	(short)1137850354;
 	XObSs	=	(short)-486284089;
-	yO7B7s72	=	1382574727;
+	yO7B7s72	=	(short)1382574727;
 	xhAl3	=	1545047149;
 	hYaw_j70	=	1524287563;
 	ngk_tn47M	=	-1523919986;
@@ -60,7 +60,7 @@ int main()
 	tj4p95	=	(short)-82953430;
 	sP17mN	=	(short)1152513776;
 	n8qP85S	=	(short)-849359178;
-	B_zbjUt	=	-1196033980;
+	B_zbjUt	=	(short)-1196033980;
 	R7252n	=	1693675971;
 	hTa8yw_	=	695899846;
 	U00W	=	-665846773;
@@ -70,7 +70,7 @@ int main()
 	VrF50UR	=	(short)-528873213;
 	scVXO918G	=	(short)-1089517347;
 	H_sJ_uDo_i	=	(short)-921467920;
-	oOmV77_s6	=	1898584571;
+	oOmV77_s6	=	(short)1898584571;
 	j8h10ZLf	=	-1946894464;
 	Lprq	=	44594011;
 	D4J21g	=	-470551529;
@@ -80,7 +80,7 @@ int main()
 	QkQHT7q	=	(short)1717584279;
 	B0pJG13ToJ	=	(short)-2022269188;
 	fr84IZv	=	(short)2027352495;
-	jSqnBTYM40	=	1971353972;
+	jSqnBTYM40	=	(short)1971353972;
 	HlDYn_lr	=	-1082694913;
 	B06OE	=	1476549802;
 	D9xH	=	-1820033413;
@@ -90,7 +90,7 @@ int main()
 	j6Kz6uw028	=	(short)-835613686;
 	BS0urygBH	=	(short)-1979726695;
 	fc_6gsiA	=	(short)-982625463;
-	B_fw	=	-1319918159;
+	B_fw	=	(short)-1319918159;
 	CO4qh	=	1298303713;
 	gE_uJ5	=	-350056208;
 	OP68OsQ	=	-632511193;
@@ -100,7 +100,7 @@ int main()
 	tFdu3p	=	(short)-848336672;
 	s8_BFg9	=	(short)82052236;
 	KUfboio	=	(short)-736220710;
-	dp_m2Vcy0j	=	1236239706;
+	dp_m2Vcy0j	=	(short)1236239706;
 	up6LL	=	-1624822231;
 	dCw6X77o6Z	=	835190833;
 	x8aC4X	=	-1551794103;
@@ -110,7 +110,7 @@ int main()
 	e9H6c_2o1h	=	(short)540494322;
 	r55Ip7O	=	(short)-690550376;
 	OypZ_	=	(short)-1375183451;
-	DpF_	=	-1968091255;
+	DpF_	=	(short)-1968091255;
 	q3FK_Wv8	=	1167383533;
 	xT7au	=	-1669205156;
 	dwChwTLF	=	-101667673;
@@ -120,7 +120,7 @@ int main()
 	LD74UZCx76	=	(short)-1510886523;
 	r56KM2qQC	=	(short)-1552762793;
 	Um_Fk	=	(short)-209041316;
-	txK_3U	=	-697463263;
+	txK_3U	=	(short)-697463263;
 	DxC4D	=	186428719;
 	qHKi6IU3	=	1318141397;
 	zz91	=	1683510007;

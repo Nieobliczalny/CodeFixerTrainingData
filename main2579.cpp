@@ -192,7 +192,7 @@ case 'c':
 xjyXh19 *= y9h5o;
 break;
 case 'd':
-x9_80 = BIt3qeuI(E9tju, (unsigned short)335393287, TU6tkpW, 1088188081, A9rN);
+x9_80 = BIt3qeuI(E9tju, (unsigned short)335393287, TU6tkpW, (short)1088188081, A9rN);
 break;
 case 'e':
 r3Hc9Z0 = TU6tkpW / 674286871;

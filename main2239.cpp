@@ -24,7 +24,7 @@ int main(int argc, char** argv)
  long long zTauWR1v = 2064348555;
   unsigned long long  orTa1y  =  -1794632022;
 	short	JZ2b9m2HNM	=	(short)1470132756;
-    unsigned short    Bp8_6    =    -1997602556;
+    unsigned short    Bp8_6    =    (unsigned short)-1997602556;
   unsigned long long  Po_08_pQ  =  132424322;
 	float	onaHdk_	=	-1264910621;
 	unsigned short	m9_1b8Y7M7	=	(unsigned short)-1574536679;
@@ -56,7 +56,7 @@ case 0:
 onaHdk_ = (int)ceil(PUugwipli);
 break;
 default:
-iAI___7 = EJ49((short)-931422451, (unsigned short)1921541010, -1702105382, -333138074);
+iAI___7 = EJ49((short)-931422451, (unsigned short)1921541010, (char)-1702105382, -333138074);
 break;
 }
 

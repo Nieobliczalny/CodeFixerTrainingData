@@ -32,7 +32,7 @@ int main(int argc, char** argv)
  char HKNb3jSK = (char)1366332034;
 	long double	qe47j	=	1926544074;
 	short int	C6Mt	=	(short)1514712075;
-    unsigned short int    iFq5QV0    =    -23858362;
+    unsigned short int    iFq5QV0    =    (unsigned short)-23858362;
     long    yIUmG    =    -1181387988;
     long    OR69_WIi_Q    =    -90499575;
   char  znH2N64Wv  =  (char)475734745;
@@ -56,7 +56,7 @@ int main(int argc, char** argv)
   int  rwEXZdL7  =  -1516898160;
     int    wt7sw    =    1070724501;
   short int  ir9i20m802  =  (short)153148051;
-	unsigned short	y8V_GBUd0	=	-628326860;
+	unsigned short	y8V_GBUd0	=	(unsigned short)-628326860;
  unsigned short int x5y5U = (unsigned short)-2143605379;
 	unsigned short	NLvmwdV_30	=	1706324894;
   short int  l2oA  =  (short)873138520;
@@ -89,7 +89,7 @@ int main(int argc, char** argv)
   short  gg6Yl7  =  (short)1116599531;
   short  pqS92I5y7  =  (short)-2129247835;
  long AnksRXC = 1245694746;
-	char	D1skr0U5K	=	-465007096;
+	char	D1skr0U5K	=	(char)-465007096;
 
 std::cout << ugs_472S((unsigned short)69826253) << qe47j << U14q9Q_37F << std::endl;
 

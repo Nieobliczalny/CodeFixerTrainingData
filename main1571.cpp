@@ -40,7 +40,7 @@ int main(void) {
   unsigned char  zQ7tcEt  =  (unsigned char)-863237425;
  short Llf1 = (short)-1023536446;
  float NX8d1BI8G = -447104832;
-    unsigned short int    G9YlQkC    =    544603064;
+    unsigned short int    G9YlQkC    =    (unsigned short)544603064;
   unsigned long  n9rA  =  -1317748017;
 	float	VkMhn	=	582115750;
     long long    ie7g8_99K    =    -1321854684;

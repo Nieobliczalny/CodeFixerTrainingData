@@ -53,7 +53,7 @@ int main()
     unsigned long    eVZCjE    =    -2086554238;
     int    M8tx    =    -105398521;
  unsigned short int i48hD6T = (unsigned short)1053986091;
-  unsigned char  Fy9E_yHk  =  -1510805637;
+  unsigned char  Fy9E_yHk  =  (unsigned char)-1510805637;
 	int	hD_kT66X7	=	1168350314;
  double fT3_Z = 948752667;
 	long	J53Mxia35h	=	-758458481;
@@ -65,7 +65,7 @@ int main()
 WzJF9 = 2005984244 / m55FPhQ_;
 
 Fy9E_yHk = RiBP(i48hD6T, fFUddP, pnFazgw, (unsigned short)-1380367973, 1103689301) | i48hD6T;
-std::cout << RiBP(-1946575463, -1141578001, pnFazgw, IEq5mmM, Ky8yUnok0) << n_i1 << std::endl;
+std::cout << RiBP(-1946575463, (char)-1141578001, pnFazgw, IEq5mmM, Ky8yUnok0) << n_i1 << std::endl;
 {
 int i = 0;
 while (i < 8)

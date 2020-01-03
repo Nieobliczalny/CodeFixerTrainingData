@@ -99,7 +99,7 @@ case 2:
 x60Pk6i *= CkKxH6E;
 break;
 case 3:
-x60Pk6i = KQ46(-119234434, (unsigned short)-797320111, (unsigned char)2049468883, 1584119565, 1629203640);
+x60Pk6i = KQ46(-119234434, (unsigned short)-797320111, (unsigned char)2049468883, (unsigned short)1584119565, 1629203640);
 break;
 case 4:
 x60Pk6i <<= 556188320;

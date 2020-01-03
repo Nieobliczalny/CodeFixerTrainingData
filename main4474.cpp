@@ -29,7 +29,7 @@ int main() {
     UtQ1lsJ1    =    (char)352880569;
     uW2E    =    (char)-1759446730;
     og_Jlj    =    (char)-1489569242;
-    GWt9y    =    -1151819032;
+    GWt9y    =    (char)-1151819032;
     hfC_    =    -690800273;
     c24ru5cx    =    1605856808;
     H92bt4S61    =    594926847;
@@ -39,7 +39,7 @@ int main() {
     n2c4GJ    =    (char)-662970061;
     bMahx59    =    (char)-266156079;
     us407    =    (char)1720935367;
-    vYLMu    =    1268129391;
+    vYLMu    =    (char)1268129391;
     zUJcj    =    623240287;
     V0l3Lhs0    =    375817148;
     Sjne4DOmVS    =    -2005355324;
@@ -49,7 +49,7 @@ int main() {
     e3_vT00u5C    =    (char)2133402521;
     nR0Nw    =    (char)2019905984;
     CR1220    =    (char)-551643253;
-    I9Tg5U9    =    1192465814;
+    I9Tg5U9    =    (char)1192465814;
     l75SV    =    1676465481;
     DgOuPnZ    =    118928624;
     jG5jOUc    =    -458836042;
@@ -59,7 +59,7 @@ int main() {
     mX2_1lf8V    =    (char)-563413045;
     eW2UGDsk    =    (char)-233571177;
     T3Q5r5Ia9T    =    (char)-9290046;
-    hIPN_    =    -1361776218;
+    hIPN_    =    (char)-1361776218;
     cGZH    =    1700353457;
     Nr92jUe2    =    357322341;
     phIO0    =    -1477982847;
@@ -69,7 +69,7 @@ int main() {
     epk6    =    (char)-1200584662;
     VNz2S    =    (char)-1842681688;
     F3Bun_Hzj    =    (char)1786130626;
-    mOq9k294    =    298992596;
+    mOq9k294    =    (char)298992596;
     CDc8uf97v    =    -46299146;
     r2kB7h64n    =    -564689061;
     U49j8    =    -314486086;
@@ -79,7 +79,7 @@ int main() {
     jBts2    =    (char)-887261589;
     fvX4BZYFd0    =    (char)-639800612;
     Wvf5fPM    =    (char)873893488;
-    TBcQp6    =    -963220271;
+    TBcQp6    =    (char)-963220271;
     G_YQK    =    1643540352;
     k_50    =    1320200562;
     PfcU59    =    391087809;
@@ -89,7 +89,7 @@ int main() {
     z8pc5x196l    =    (char)1541898503;
     GdB8X    =    (char)104241859;
     Vi05eAi8_A    =    (char)-1664431076;
-    jW32MRil    =    -1226682592;
+    jW32MRil    =    (char)-1226682592;
     RfJ7BC    =    -920802406;
     slJRb11S    =    -826594823;
     y6_n    =    -557984851;

@@ -35,7 +35,7 @@ int main() {
   short  UKfb_C  =  (short)821293888;
 	long double	QC6uNxy	=	-2141512924;
  char uxWxe7k_w = 0;
-  unsigned short  oKk56g_1  =  1997772684;
+  unsigned short  oKk56g_1  =  (unsigned short)1997772684;
  float vq1P = -1243308855;
  char Gy6Epq2 = -185246271;
 

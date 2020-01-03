@@ -284,7 +284,7 @@ case 6:
 I49846T = zd_1Xh9_q();
 break;
 default:
-ex3k8q8m = nIVpQ53(581775713, (unsigned char)-854008066, srvN_8, -627962918, -1903328728);
+ex3k8q8m = nIVpQ53(581775713, (unsigned char)-854008066, srvN_8, (char)-627962918, -1903328728);
 break;
 }
 }

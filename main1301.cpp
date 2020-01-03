@@ -61,7 +61,7 @@ int main(void)
     unsigned char    OiFS;
     OiFS    =    (unsigned char)1242343386;
     unsigned short    QoeSy;
-    QoeSy    =    -184654308;
+    QoeSy    =    (unsigned short)-184654308;
 	long double	VBx1;
 	VBx1	=	-766859796;
   long double  ab5qcJq2y;
@@ -97,7 +97,7 @@ int main(void)
 	short int	T22NSFai4;
 	T22NSFai4	=	(short)672607926;
  char PhlwMmd3;
- PhlwMmd3 = -1274859986;
+ PhlwMmd3 = (char)-1274859986;
   unsigned char  d0WXSl_;
   d0WXSl_  =  (unsigned char)1352297114;
 	long long	dx26330;

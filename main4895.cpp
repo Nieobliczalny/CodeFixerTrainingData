@@ -18,7 +18,7 @@ int main(void) {
     GT2GU461z7    =    (char)-838587945;
     NfI61V71z    =    (char)-279849335;
     vA_5W85Yv    =    (char)-2009993431;
-    ygzg9_    =    477191950;
+    ygzg9_    =    (char)477191950;
     F4iwhD    =    1465372908;
     ok0rWIS    =    -1551684817;
     ft_kdl    =    680989234;
@@ -28,7 +28,7 @@ int main(void) {
     VPeOS4I    =    (char)-853241571;
     Ma1ahK3    =    (char)1228017381;
     R4fR    =    (char)-1690688046;
-    Nujk_    =    695786508;
+    Nujk_    =    (char)695786508;
     ixG3VBh    =    116398980;
     ij7FH    =    524975527;
     iTVbVFeu    =    -1218089954;
@@ -38,7 +38,7 @@ int main(void) {
     V8AU3b6H9    =    (char)1423731193;
     VV8RBK9    =    (char)-1278126106;
     gL_lOKZnY    =    (char)-735598775;
-    DzwCFtG    =    532683740;
+    DzwCFtG    =    (char)532683740;
     yzruR1OE    =    -468428860;
     t64BX    =    -1380833989;
     Na18    =    859929463;
@@ -48,7 +48,7 @@ int main(void) {
     ieCXf9RW    =    (char)-1997238830;
     n00o_C7Mr    =    (char)346864423;
     y6l_1iXZ    =    (char)-2132846531;
-    y510cBHK06    =    555620032;
+    y510cBHK06    =    (char)555620032;
     O0n75u    =    -2104127995;
     t11M235    =    1576173793;
     vG6cjHeNub    =    1062497561;
@@ -58,7 +58,7 @@ int main(void) {
     z4Gz102    =    (char)1969278547;
     An1t31mv    =    (char)85231571;
     S8zJ    =    (char)-1369910830;
-    I4F0A    =    -701350549;
+    I4F0A    =    (char)-701350549;
     OT_FVb4    =    286121245;
     vldy    =    1169700744;
     kwLQ_Q    =    -373855097;
@@ -68,7 +68,7 @@ int main(void) {
     SeQ80AQ    =    (char)343420068;
     g158c    =    (char)1126395363;
     nMSUufK    =    (char)-1984827998;
-    B_XrH3Z9y9    =    690433302;
+    B_XrH3Z9y9    =    (char)690433302;
     qied3    =    561046506;
     XEaEp    =    -90428661;
     oDP3z8d    =    -914739211;
@@ -78,7 +78,7 @@ int main(void) {
     oA1vrFD    =    (char)467871406;
     iYex6    =    (char)1907868365;
     PV7CU    =    (char)-1286377215;
-    lY092C3rjv    =    -677676731;
+    lY092C3rjv    =    (char)-677676731;
     o3X9    =    -1944062375;
     yve_n7H9    =    1151224135;
     fWGI265a1    =    699393068;

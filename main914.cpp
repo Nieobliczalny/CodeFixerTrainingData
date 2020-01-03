@@ -242,7 +242,7 @@ case 1:
 cX4XQSHn7_ = y22SqE8V_((short)-2033983753, (unsigned short)1619501660, eVoOsl53k, i1r35zLPt, rQS2p3bao);
 break;
 case 2:
-S3f79rg4 = y22SqE8V_(1289145421, M1b1, 1603533988, S3f79rg4, -1625742025);
+S3f79rg4 = y22SqE8V_((short)1289145421, M1b1, 1603533988, S3f79rg4, -1625742025);
 break;
 case 3:
 EdqaS5jWD5 = (int)ceil(rQS2p3bao);

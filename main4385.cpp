@@ -153,7 +153,7 @@ int main(int argc, char** argv)
  short G_ndyM2;
  G_ndyM2 = (short)1476876261;
 	unsigned short	u4oE;
-	u4oE	=	-415087507;
+	u4oE	=	(unsigned short)-415087507;
  unsigned int t05m99E;
  t05m99E = -1874305288;
 	long long	Q5G0lH9;

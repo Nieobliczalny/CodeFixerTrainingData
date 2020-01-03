@@ -160,7 +160,7 @@ case 'f':
 v54EN7 -= kqeBQrF3R;
 break;
 case 'g':
-kqeBQrF3R = S3Ls_Q(-732816640, (char)1942647848, 346684031, 1924631426, -64817762);
+kqeBQrF3R = S3Ls_Q(-732816640, (char)1942647848, 346684031, (short)1924631426, -64817762);
 break;
 case 'h':
 me445_ = S3Ls_Q(-513404129, 715266919, oIOUIVw3w, kqeBQrF3R, XztJV);

@@ -47,7 +47,7 @@ int main(int argc, char** argv) {
   long long  bROo  =  -1900755874;
     unsigned long    fX9yI1Ehm    =    -1346774554;
  long qUQHyy7 = 253511421;
-	short int	Xeke	=	-423643842;
+	short int	Xeke	=	(short)-423643842;
  unsigned int n2fcv5KH5E = 1799597460;
  char Bk7Jk1w_ = (char)642796096;
   unsigned long  T147MOs_  =  56268156;
@@ -57,7 +57,7 @@ int main(int argc, char** argv) {
     double    l105X    =    17554420;
   unsigned long  YL6HS58M  =  157978134;
   unsigned short int  SN0Co  =  907759522;
-    unsigned short int    Tgf0_d_    =    -495903767;
+    unsigned short int    Tgf0_d_    =    (unsigned short)-495903767;
 	short int	Y92o	=	-1123940092;
  unsigned long long AGGy = -733399692;
  long double QLG29_8SW = -2131856129;
@@ -76,7 +76,7 @@ int main(int argc, char** argv) {
  short int JsAt = (short)-598895297;
 	long	l4XR1	=	1144756130;
     short int    JHU2    =    (short)2117912040;
-  unsigned char  XZ_V  =  -1096017038;
+  unsigned char  XZ_V  =  (unsigned char)-1096017038;
 	unsigned long	G1BeJ0	=	0;
 	float	z2_aw0	=	2033379102;
   unsigned short int  VS01WqJi84  =  (unsigned short)-429804587;
@@ -102,7 +102,7 @@ int main(int argc, char** argv) {
   unsigned long long  UZBW804Y  =  1145124773;
  unsigned long long ATK8b = -34112154;
     char    uB44G    =    (char)389486668;
- short int A8_MHJ33yX = 12776266;
+ short int A8_MHJ33yX = (short)12776266;
 	long double	Xqf5rxZ	=	687515836;
     unsigned char    tH652uL7    =    (unsigned char)905801034;
   unsigned short int  NYD1O  =  -1407023243;
@@ -112,7 +112,7 @@ int main(int argc, char** argv) {
   double  P9351FAhH  =  967378653;
   unsigned short int  uVtI5  =  1770716290;
     short    GrNiUj27    =    (short)-1385998347;
-  unsigned short int  e46hg  =  -1717330615;
+  unsigned short int  e46hg  =  (unsigned short)-1717330615;
 	unsigned long	LNJzpKu3n4	=	711320044;
   long  AFldNyXM  =  1320449944;
   char  y37Cu2lF  =  (char)-1054960411;
@@ -296,7 +296,7 @@ case 'e':
 N1WJ05XI = (int)ceil(Xqf5rxZ);
 break;
 case 'f':
-KH17UVacse = ZtGB((char)688202818, (unsigned short)-1064116259, -1686614484, gMjjQW);
+KH17UVacse = ZtGB((char)688202818, (unsigned short)-1064116259, (unsigned short)-1686614484, gMjjQW);
 break;
 case 'g':
 fk_OWs4a2a = (bAxvb > c7L9) ? z_a3 : -1823814592;

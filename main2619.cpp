@@ -79,7 +79,7 @@ int main(int argc, char** argv)
   unsigned int  YjcwFUF7  =  1152207051;
 	long	Kt3E_Tf_kS	=	1246213900;
   char  TPD4Y  =  (char)-2021805226;
- unsigned short int YT69 = -1268594701;
+ unsigned short int YT69 = (unsigned short)-1268594701;
  long COV9w = -1326265198;
   unsigned char  QDmsv0m18F  =  (unsigned char)-1807712071;
   unsigned short int  ALFL  =  (unsigned short)994035260;
@@ -97,7 +97,7 @@ int main(int argc, char** argv)
  long X_peN1eM1r = -544359067;
     unsigned short    c27x9Z    =    (unsigned short)366745735;
     short int    WrTIx    =    (short)-1400738398;
-  unsigned short  Wj_NX4  =  1102813320;
+  unsigned short  Wj_NX4  =  (unsigned short)1102813320;
 	short	T9bXRs	=	150740309;
 	int	KnxOD	=	1894840057;
   unsigned int  kRTj0  =  0;

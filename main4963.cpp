@@ -83,7 +83,7 @@ case 'd':
 C_bA60Zm3_ = eJ9nm1tY((short)-736849789, Y2POF4, viFH3D2ij2, (short)-874971071, -2049338788);
 break;
 case 'e':
-K4sslfBChz = oY9xp(417473342);
+K4sslfBChz = oY9xp((char)417473342);
 break;
 case 'f':
 ladG = oY9xp((char)-931764537);
@@ -381,7 +381,7 @@ case 'h':
 q8Sn3YCY2 = pKlc_Y178(1757936480, r5vLT, (short)687450537, (char)-1716862620);
 break;
 case 'i':
-nT0P92Z13E = eJ9nm1tY((short)-746051195, -2109098777, pwUw2y_, -1516681279, 1521481523) | AP24;
+nT0P92Z13E = eJ9nm1tY((short)-746051195, -2109098777, pwUw2y_, (short)-1516681279, 1521481523) | AP24;
 break;
 case 'j':
 mHt8kjVUz = eJ9nm1tY(mHt8kjVUz, PbFLx40, ttUS, pwUw2y_, -444478439);

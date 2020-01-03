@@ -108,7 +108,7 @@ case 2:
 vtxpBo %= 473253708;
 break;
 case 3:
-kMI2 = x0ILqRJ53(j06aO, (short)749116170, ac0KhwD, -752370479);
+kMI2 = x0ILqRJ53(j06aO, (short)749116170, ac0KhwD, (short)-752370479);
 break;
 case 4:
 Q32m = g41O93B3 ^ 1792301648;
@@ -120,7 +120,7 @@ case 6:
 t4tC1ii2 = aAB2M9Ih - 453898046;
 break;
 case 7:
-kMI2 = x0ILqRJ53(386469341, (short)788861932, -1527658798, 1494127334);
+kMI2 = x0ILqRJ53(386469341, (short)788861932, (unsigned short)-1527658798, 1494127334);
 break;
 case 8:
 n_8_fHZ = l2woK5x | NXDCs_2Csi;
@@ -209,7 +209,7 @@ case 2:
 cfBg1X6mm5 = x0ILqRJ53(-1954424138, (short)1109473642, (unsigned short)-414872559, (short)-30220463);
 break;
 case 3:
-kMI2 = x0ILqRJ53(-1752547089, 1722465982, -2107681475, oh0zfB5);
+kMI2 = x0ILqRJ53(-1752547089, (short)1722465982, -2107681475, oh0zfB5);
 break;
 case 4:
 kMI2 = x0ILqRJ53(U_mo9, staq, WRa2, n0gNC);

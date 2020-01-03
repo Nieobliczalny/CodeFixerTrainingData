@@ -61,7 +61,7 @@ int main()
  short rrFY12_L;
  rrFY12_L = (short)1117991336;
  unsigned char jTvMkrj;
- jTvMkrj = -953207840;
+ jTvMkrj = (unsigned char)-953207840;
  double kl7kqfT71K;
  kl7kqfT71K = -2113528251;
  double Ix4er;
@@ -267,7 +267,7 @@ cout << FQAYDr((char)65672395, -1335867135) << FQAYDr((char)-1926623825, 8352287
 int i = 0;
 do
 {
-cout << FQAYDr(-1465573158, T__Y543) << "WZ7w" << rA5hKX_uK2 << endl;
+cout << FQAYDr((char)-1465573158, T__Y543) << "WZ7w" << rA5hKX_uK2 << endl;
 i++;
 }
 while (i < 8);

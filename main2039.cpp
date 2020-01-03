@@ -209,7 +209,7 @@ wu18A = B2RV_u77(ahs_B_, cTWWI6, (short)998147052, mj6xcr);
 wu18A = B2RV_u77(r8RO, 2030497703, (short)-1646457033, xY1H7iXau3);
 
 cout << nzPME84IB << "Vs3X0" << hJcD24ASpN << "BSOO9IjP6" << endl;
-Y3Fq_8ZPbk = B2RV_u77(r8RO, sY9_L, LpQvqf94wk, -333821138) / UpDTshYA6;
+Y3Fq_8ZPbk = B2RV_u77(r8RO, sY9_L, LpQvqf94wk, (unsigned short)-333821138) / UpDTshYA6;
 for (int i = 1; i >= 0; --i)
 {
 switch (hJcD24ASpN)

@@ -296,7 +296,7 @@ Brna5iO_Z = Z_6i9eDuw << 844655087;
 break;
 case 'h':
 case 'H':
-UMB97d = UyqzD6Eo((unsigned short)-1923070492, (unsigned short)-509466823, n5RUnsw9, 1058557199, -55617945);
+UMB97d = UyqzD6Eo((unsigned short)-1923070492, (unsigned short)-509466823, n5RUnsw9, (unsigned short)1058557199, -55617945);
 break;
 case 'i':
 case 'I':
@@ -381,7 +381,7 @@ case 3:
 LuAVI = rzjyv();
 break;
 case 4:
-Jio3dyPH = UyqzD6Eo((unsigned short)1946293708, lmpd, sZsGEzT, (unsigned short)1682589451, -932005936);
+Jio3dyPH = UyqzD6Eo((unsigned short)1946293708, lmpd, sZsGEzT, (unsigned short)1682589451, (char)-932005936);
 break;
 case 5:
 QFtB8fT = (JuT82 < kGm8e3_3vT) ? U5jd6 : RDyTKzEUQ;
@@ -475,7 +475,7 @@ Et_64cx = UyqzD6Eo(Et_64cx, PTMX07_, mp2g_, U9Pyv4ABo, (char)-301099920);
 }
 }
 
-std::cout << lL6Ltz1D << UMB97d << UyqzD6Eo((unsigned short)-815500183, PTMX07_, mp2g_, U9Pyv4ABo, 204005690) << std::endl;
+std::cout << lL6Ltz1D << UMB97d << UyqzD6Eo((unsigned short)-815500183, PTMX07_, mp2g_, U9Pyv4ABo, (char)204005690) << std::endl;
 {
 int i = 10;
 do
@@ -488,7 +488,7 @@ lE1La5FUMg = UyqzD6Eo(lE1La5FUMg, mls2, pEQ_Px3, (unsigned short)-347233890, (ch
 }
 else
 {
-Y2kA2c = UyqzD6Eo((unsigned short)-864109474, a4r_l7, (short)1970745075, 1923599758, T5S9);
+Y2kA2c = UyqzD6Eo((unsigned short)-864109474, a4r_l7, (short)1970745075, (unsigned short)1923599758, T5S9);
 }
 }
 --i;

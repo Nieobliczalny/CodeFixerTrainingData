@@ -80,7 +80,7 @@ int main(int argc, char** argv) {
 	short int	ne09r_;
 	ne09r_	=	(short)-992842563;
 	unsigned char	fkXFcQQNpu;
-	fkXFcQQNpu	=	10836027;
+	fkXFcQQNpu	=	(unsigned char)10836027;
  unsigned short int d1U917jAG;
  d1U917jAG = (unsigned short)1082399507;
  unsigned char A7LqgQ;
@@ -435,7 +435,7 @@ case 7:
 t7vZIDB = (int)abs(QeFYW);
 break;
 case 8:
-MMN_5FS_ = xBz2((unsigned short)-12873302, -1303217344, pyOj, 823641662);
+MMN_5FS_ = xBz2((unsigned short)-12873302, (char)-1303217344, pyOj, 823641662);
 break;
 default:
 g678hn = (int)floor(wwkb_);
@@ -472,7 +472,7 @@ SkY2f3a = (int)abs(IX68Z);
 }
 else if (((nXaRED0a69 == Tw7_Q) && (AvEEUr0r >= t7vZIDB)) || (ne09r_))
 {
-MMN_5FS_ = xBz2((unsigned short)491276354, (char)-175891453, 299229524, TVWia);
+MMN_5FS_ = xBz2((unsigned short)491276354, (char)-175891453, (char)299229524, TVWia);
 }
 else
 {

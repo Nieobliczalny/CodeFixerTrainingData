@@ -125,7 +125,7 @@ int main(void)
 	short int	N7A869419;
 	N7A869419	=	(short)2118683290;
   unsigned char  A4itPUK_B;
-  A4itPUK_B  =  -1579140880;
+  A4itPUK_B  =  (unsigned char)-1579140880;
   unsigned long long  AZkr6j3;
   AZkr6j3  =  -2059277656;
     int    e2v9f1W7C;

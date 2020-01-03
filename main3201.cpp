@@ -31,7 +31,7 @@ int main(void) {
   unsigned short  d4Yu5Ju  =  (unsigned short)2031199029;
     unsigned short int    Ez79fh7hx8    =    (unsigned short)655807053;
  double w60s3wQVMo = -1168492256;
-	short int	qopl5Tqb	=	837564459;
+	short int	qopl5Tqb	=	(short)837564459;
     float    F4_y4ERV2    =    -2051833239;
   short int  Jc6560  =  (short)1303761829;
  float zl3F_0 = -779419014;

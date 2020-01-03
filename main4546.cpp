@@ -129,7 +129,7 @@ int main()
     short int    wq3r_82_rG;
     wq3r_82_rG    =    (short)1542600371;
     unsigned short int    FE3_7ZrQ;
-    FE3_7ZrQ    =    -415174805;
+    FE3_7ZrQ    =    (unsigned short)-415174805;
   short  pG8nQ0j2f8;
   pG8nQ0j2f8  =  (short)1536865322;
 	short int	UoM1D99Qd;

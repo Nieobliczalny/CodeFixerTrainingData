@@ -324,7 +324,7 @@ c9nfjW = DhKTYhX(927404452, (char)-1846699422, Y9a96H5, (short)-414818354, 42409
 int i = 0;
 do
 {
-std::cout << DhKTYhX(kB5UX2kd, (char)-119279811, (char)-264476536, hcz49tf_W_, 1984488593) << VpOL923mI << DhKTYhX(kB5UX2kd, rjYVd1, -1341093890, hcz49tf_W_, -22461741) << L4s6ZTn_z5 << std::endl;
+std::cout << DhKTYhX(kB5UX2kd, (char)-119279811, (char)-264476536, hcz49tf_W_, 1984488593) << VpOL923mI << DhKTYhX(kB5UX2kd, rjYVd1, (char)-1341093890, hcz49tf_W_, -22461741) << L4s6ZTn_z5 << std::endl;
 i++;
 }
 while (i < 10);
@@ -363,7 +363,7 @@ c9nfjW = DhKTYhX(-1751356544, (char)283565025, wua_YW53, (short)-233092311, 1483
 }
 for (int i = 0; i < 9; ++i)
 {
-std::cout << VpOL923mI << "kgQrhLhjyT" << "wM_Q9" << DhKTYhX(511389147, (char)1047663734, (char)319603077, -712514847, Ac2HlFHat7) << h6v67 << std::endl;
+std::cout << VpOL923mI << "kgQrhLhjyT" << "wM_Q9" << DhKTYhX(511389147, (char)1047663734, (char)319603077, (short)-712514847, Ac2HlFHat7) << h6v67 << std::endl;
 }
 
 p5o3X8fF = DhKTYhX(u95_SHEO, 1938696016, wua_YW53, w8ikY, -1192389005) / DhKTYhX(1383174078, VpOL923mI, wua_YW53, w8ikY, Ac2HlFHat7);
@@ -430,7 +430,7 @@ case 'd':
 Xomo_2ZFSR = DhKTYhX(uSEih, (char)-1911109373, (char)1412178768, (short)-927459523, -1941187426);
 break;
 case 'e':
-zAiqH9j5jh = DhKTYhX(Ac2HlFHat7, (char)-1404269182, 1047439849, -1982434695, -778060010);
+zAiqH9j5jh = DhKTYhX(Ac2HlFHat7, (char)-1404269182, (char)1047439849, -1982434695, -778060010);
 break;
 case 'f':
 Td3CS = DhKTYhX(VpOL923mI, -1414906503, 2072788308, ov52, l_6BP5jolh);

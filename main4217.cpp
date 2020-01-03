@@ -51,7 +51,7 @@ int main(int argc, char** argv)
 	short int	lmztY5iN	=	(short)-1716774433;
 	unsigned short int	pQcQCi__	=	(unsigned short)711921180;
  unsigned short int tVZC = (unsigned short)776940226;
- unsigned char zmz2Y0l = 2028413216;
+ unsigned char zmz2Y0l = (unsigned char)2028413216;
   double  vWY0m7J  =  579903587;
     short    l0OF0MF87    =    (short)1467887592;
     float    H_0XBxTQ    =    494156739;

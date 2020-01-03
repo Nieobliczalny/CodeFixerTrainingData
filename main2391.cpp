@@ -451,7 +451,7 @@ XINA5F = oNI4F((short)896397975);
 }
 else
 {
-igxjT = FOL4Bu(J75zq, fZMJIzA, 32127394, mhw3, 1876493533);
+igxjT = FOL4Bu(J75zq, fZMJIzA, (short)32127394, mhw3, 1876493533);
 }
 }
 }

@@ -55,7 +55,7 @@ int main(void)
     unsigned short    e_6k;
     e_6k    =    (unsigned short)801689578;
     short    itB0lU0;
-    itB0lU0    =    1350186581;
+    itB0lU0    =    (short)1350186581;
   float  b1L7Jai8Fm;
   b1L7Jai8Fm  =  2076768433;
   unsigned long  Y4aVzt;

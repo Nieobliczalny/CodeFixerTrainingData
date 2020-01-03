@@ -402,7 +402,7 @@ break;
 }
 else
 {
-L4d4q = h48F_P(766832386, (unsigned char)1793039242, (unsigned char)1033939235, T_E3jo2, -1133718996);
+L4d4q = h48F_P(766832386, (unsigned char)1793039242, (unsigned char)1033939235, T_E3jo2, (short)-1133718996);
 }
 }
 else

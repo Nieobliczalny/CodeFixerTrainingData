@@ -49,7 +49,7 @@ case 2:
 DvrJ--;
 break;
 case 3:
-RI_4p = A1GLo_L3(pT1j, 730099872, 2038062021, rpOuL);
+RI_4p = A1GLo_L3(pT1j, (unsigned char)730099872, 2038062021, rpOuL);
 break;
 case 4:
 YT7h86g >>= 85405103;
@@ -456,7 +456,7 @@ if (Z2T58dK != Kg_SoYke)
 {
 cout << A1GLo_L3((unsigned char)1354099355, X4FEYSoI, -1923553288, O4wK) << X4FEYSoI << CGt287675G << endl;
 }
-cout << "w1bQ_i32Wq" << TCYv0bK_9k << FiK1 << A1GLo_L3((unsigned char)-771384373, 1584995569, 90471102, -87359451) << LK58UwV << endl;
+cout << "w1bQ_i32Wq" << TCYv0bK_9k << FiK1 << A1GLo_L3((unsigned char)-771384373, (unsigned char)1584995569, 90471102, -87359451) << LK58UwV << endl;
 
 switch (Udi_da217G)
 {

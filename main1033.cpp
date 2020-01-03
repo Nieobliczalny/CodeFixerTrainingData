@@ -18,7 +18,7 @@ int main() {
 	short int	gIiG9	=	(short)-1239327019;
     float    kWyr5    =    -1097125019;
 	char	W6VQ42G46N	=	(char)1126766103;
-	short int	O19hGRh	=	-316307380;
+	short int	O19hGRh	=	(short)-316307380;
  unsigned long GIr2n_UuMX = 2113960951;
  long long eIaMmGq6z = 0;
 	long	lJRYmr8N3	=	-1739905638;

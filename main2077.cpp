@@ -131,7 +131,7 @@ int main(int argc, char** argv) {
 	char	o3HT7CHLg;
 	o3HT7CHLg	=	(char)-1760807448;
 	unsigned char	R6P_X;
-	R6P_X	=	-161565239;
+	R6P_X	=	(unsigned char)-161565239;
   unsigned short int  G9FFk6;
   G9FFk6  =  (unsigned short)-2143942720;
     long long    t79_e;
@@ -267,7 +267,7 @@ vYHc1v *= E1xR1W;
 }
 else
 {
-lW6YSc = MPda4Db9V(lW6YSc, 1084325600, -214426007, -1894880874, JNoD_4hc1w);
+lW6YSc = MPda4Db9V(lW6YSc, 1084325600, (short)-214426007, -1894880874, JNoD_4hc1w);
 }
 
 hM7fd8DVJ = a_vF5o ^ 495000050;

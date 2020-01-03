@@ -37,7 +37,7 @@ for (int i = 6; i >= 0; --i)
 std::cout << HW5V((unsigned short)-1926648370, TM1V_, u8mGeEtYiQ, (short)-56566060, m0FAIU_q) << N4G9Q3ad9V << K6RbH3F((unsigned char)1919689264, TM1V_, 1015307454, -2108751844, 867258191) << "w_KVF" << std::endl;
 }
 
-std::cout << HW5V((unsigned short)20125775, 1947883060, -1833778384, -1779450949, m0FAIU_q) / HW5V(yg217q, 396673675, u8mGeEtYiQ, fFF5X8lz2, 823297453) << std::endl;
+std::cout << HW5V((unsigned short)20125775, (unsigned char)1947883060, -1833778384, -1779450949, m0FAIU_q) / HW5V(yg217q, 396673675, u8mGeEtYiQ, fFF5X8lz2, 823297453) << std::endl;
 
 std::cout << "tLm90g5C_" << "bzLl_rzN6l" << HW5V(928242305, -624543988, u8mGeEtYiQ, fFF5X8lz2, 358039075) << "A7Z5uBR72" << std::endl;
 if (U54sMx97We <= -136926476)
@@ -127,7 +127,7 @@ case 'b':
 Zq_U = HW5V((unsigned short)-1594215311, (unsigned char)829960054, 757553608, Z96SBv, E7D7RD5);
 break;
 case 'c':
-Z96SBv = HW5V(rr2M6a75G, 489056575, 1687399662, m0FAIU_q, TM1V_);
+Z96SBv = HW5V(rr2M6a75G, (unsigned char)489056575, 1687399662, m0FAIU_q, TM1V_);
 break;
 case 'd':
 TM1V_ = K6RbH3F(945368935, -198426165, u8mGeEtYiQ, 675743634, Z96SBv);
@@ -203,7 +203,7 @@ case 4:
 TM1V_ *= U54sMx97We;
 break;
 case 5:
-Zq_U = HW5V(N4G9Q3ad9V, (unsigned char)-699720276, 326352923, (short)-585064963, -441958012);
+Zq_U = HW5V(N4G9Q3ad9V, (unsigned char)-699720276, 326352923, (short)-585064963, (short)-441958012);
 break;
 default:
 Zq_U = HW5V(m0FAIU_q, yg217q, -1937196634, yDX8, (short)1506993367);
@@ -281,7 +281,7 @@ else
 {
 for (int k = 0; k < 7; ++k)
 {
-Zq_U = HW5V((unsigned short)-935538848, (unsigned char)337585390, -1510324647, (short)-295926434, 1730017735);
+Zq_U = HW5V((unsigned short)-935538848, (unsigned char)337585390, -1510324647, (short)-295926434, (short)1730017735);
 }
 }
 }
@@ -343,7 +343,7 @@ case 'd':
 m0FAIU_q = K6RbH3F((unsigned char)1480188182, -2119477363, -1922496332, U54sMx97We, -2085896808);
 break;
 case 'e':
-Z96SBv = HW5V(Z96SBv, Zq_U, zUxxi, -1453110060, E7D7RD5);
+Z96SBv = HW5V(Z96SBv, Zq_U, zUxxi, (short)-1453110060, E7D7RD5);
 break;
 }
 }

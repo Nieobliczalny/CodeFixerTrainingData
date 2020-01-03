@@ -33,7 +33,7 @@ int main(int argc, char** argv)
     long long    K20IGs    =    0;
 	unsigned short	D_nJ	=	(unsigned short)-1346997273;
 	unsigned long long	prKkcRhmp	=	2141863410;
-	short	Za5j	=	-1320610712;
+	short	Za5j	=	(short)-1320610712;
 	long double	gV8Dzp08	=	711397347;
     float    vfjSn053v    =    -1171625595;
 	double	a3z_rj2H	=	-1016150313;

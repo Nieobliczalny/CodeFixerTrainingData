@@ -31,7 +31,7 @@ int main(void) {
  char rszrA = (char)2001909849;
     short    JS3GPQ0m    =    (short)-269839900;
     char    OZp7PASX9c    =    (char)470694068;
-  unsigned char  xMqDr5v  =  88260125;
+  unsigned char  xMqDr5v  =  (unsigned char)88260125;
   unsigned int  p__R  =  408187931;
     short    dvLd    =    -1287999512;
   float  y_u4U5W  =  -1628427761;
@@ -46,7 +46,7 @@ int main(void) {
   char  Su26kwV56  =  (char)160678920;
   unsigned short  y8nB_k  =  (unsigned short)-801313401;
  float jbI_K1A6 = 55688953;
-  unsigned char  YCT6T  =  -751936292;
+  unsigned char  YCT6T  =  (unsigned char)-751936292;
     unsigned char    jfm6c    =    (unsigned char)1589355989;
     unsigned long    s52_B0aN_K    =    -2022272751;
  long long Gy3TnmPz = 0;
@@ -59,7 +59,7 @@ int main(void) {
   unsigned char  GZWF1mtbKT  =  (unsigned char)-1246989045;
 	long	qm59Ic4qq	=	1539963406;
     unsigned short int    ido6u9G    =    (unsigned short)971767328;
-    unsigned char    Bqb6el    =    47508801;
+    unsigned char    Bqb6el    =    (unsigned char)47508801;
     unsigned short int    An1I3f3b5    =    1538555210;
   long  Hqb25lJq  =  -1736363767;
   unsigned int  rj4Kdu9  =  -1131071346;
@@ -89,7 +89,7 @@ int main(void) {
   long  nh0Onb  =  2023622805;
   unsigned short int  c4D9Rvn7b4  =  0;
   long long  oDGq_qH2  =  953058033;
- unsigned char tTok = -1875682050;
+ unsigned char tTok = (unsigned char)-1875682050;
 	unsigned short int	zhNwmI	=	-1955872790;
     unsigned int    M9TpRQ5jQ    =    970142330;
     short int    yNk4R634    =    (short)-294048189;
@@ -99,7 +99,7 @@ int main(void) {
     char    q5JJe8    =    (char)-831706242;
  float xf9r__b = -227497163;
 	short int	jui2	=	(short)988200816;
-  short  T6ur  =  1038981569;
+  short  T6ur  =  (short)1038981569;
 	unsigned short int	kokuE6L3	=	-163978011;
 	long	aTVj1eC	=	-1986973578;
 	char	frWKU0	=	(char)-1079415264;
@@ -284,7 +284,7 @@ case 'd':
 GZWF1mtbKT = Wjgj_vt96((short)-156411082, (unsigned short)1230328375, hXsl, A80y2_, nUd2);
 break;
 case 'e':
-fuJv5R = Wjgj_vt96(fuJv5R, (unsigned short)-714334355, -383301054, p__R, 1602505721);
+fuJv5R = Wjgj_vt96(fuJv5R, (unsigned short)-714334355, -383301054, p__R, (short)1602505721);
 break;
 default:
 Us2d = Wjgj_vt96((short)45123503, hXsl, jfm6c, xMqDr5v, Y655L4_KY);

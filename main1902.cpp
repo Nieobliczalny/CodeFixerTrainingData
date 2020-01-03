@@ -48,7 +48,7 @@ case 1:
 Do8AvF215c = Ys8_4q(Xj21, (short)-195810172, (short)-369079639);
 break;
 case 2:
-pA7LOq = Ys8_4q(-896397536, yCt5S8gh, 457982710);
+pA7LOq = Ys8_4q((short)-896397536, yCt5S8gh, 457982710);
 break;
 default:
 oMPD4A <<= 1128226525;
@@ -135,7 +135,7 @@ Do8AvF215c = Ys8_4q(rGQ2z7, (short)-1634290988, (short)-2108129144);
 break;
 case 'c':
 case 'C':
-pA7LOq = Ys8_4q((short)-2052908143, -1916507658, 918269577);
+pA7LOq = Ys8_4q((short)-2052908143, (short)-1916507658, 918269577);
 break;
 case 'd':
 case 'D':

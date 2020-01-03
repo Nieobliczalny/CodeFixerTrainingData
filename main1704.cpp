@@ -206,7 +206,7 @@ case 'f':
 M41I = (int)floor(ZrlD2c5Mv7);
 break;
 case 'g':
-oS_0f1 = i_my3(oS_0f1, gRC8, 23798300, n2845Z);
+oS_0f1 = i_my3(oS_0f1, gRC8, (short)23798300, n2845Z);
 break;
 case 'h':
 l8_V_ = i_my3(l8_V_, -1234054763, ak3R_8P, R6H87u);
@@ -285,7 +285,7 @@ Y8mqZeGg = (short int)(UBUu5j43z);
 SJS9N = i_my3((char)1239178536, HAc5, KRpBkEvcG, lpd3ue2Du) / Vj71U98;
 
 cout << Y33t0X9_Ss << "truvy66_hR" << SYIti9C((unsigned short)1564784917, HAc5, KRpBkEvcG, lpd3ue2Du, (short)2075872024) << "S9Atpo" << endl;
-nAWt = SYIti9C(nAWt, l8_V_, (unsigned char)-899769462, -197807357, d_di_JcUV);
+nAWt = SYIti9C(nAWt, l8_V_, (unsigned char)-899769462, (char)-197807357, d_di_JcUV);
 {
 int i = 0;
 while (i < 8)
@@ -345,7 +345,7 @@ break;
 int i = 2;
 do
 {
-sB02S0__ui = i_my3((char)120132821, Ir4vg5Eg, 653107685, -1572221562);
+sB02S0__ui = i_my3((char)120132821, Ir4vg5Eg, (short)653107685, -1572221562);
 --i;
 }
 while (i >= 0);
@@ -370,7 +370,7 @@ case 'e':
 E8nasdfiv = b5BnrIDc * pce92Bd4;
 break;
 case 'f':
-HEOL = i_my3(HEOL, -613448199, -938492461, gRC8);
+HEOL = i_my3(HEOL, -613448199, (short)-938492461, gRC8);
 break;
 case 'g':
 UBUu5j43z |= qb9cQSP7y;

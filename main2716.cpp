@@ -92,7 +92,7 @@ int main(void) {
     char    w3Jf62Jw74;
     w3Jf62Jw74    =    (char)-1502216247;
 	short	A3GvdX;
-	A3GvdX	=	85346674;
+	A3GvdX	=	(short)85346674;
 	char	V_01i;
 	V_01i	=	(char)-1190318076;
  double MPbk;

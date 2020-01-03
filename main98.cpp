@@ -47,7 +47,7 @@ int main(int argc, char** argv)
 	unsigned long	fk6U_zn5Bn	=	935563565;
   unsigned short int  AV_B92CmxR  =  (unsigned short)1324243722;
     long    lUwnGJl1    =    -2141431376;
-	char	E1QZ_wz5	=	-733827817;
+	char	E1QZ_wz5	=	(char)-733827817;
 	float	KR04f	=	1137122108;
 	double	OsJ3GDG0DD	=	-1947052947;
   unsigned short int  BF06ZZK  =  -1153007735;
@@ -68,7 +68,7 @@ int main(int argc, char** argv)
 	double	oS70t	=	1609092881;
   long long  MDC_O2j1r  =  -570570040;
     unsigned long long    SkcBXTgSs8    =    120455622;
-  unsigned short  FCq090u_  =  -942684781;
+  unsigned short  FCq090u_  =  (unsigned short)-942684781;
   long long  wY2WJDN  =  114734129;
 	short int	lDJ_XlB	=	(short)688828185;
 	short int	uq47	=	(short)872514887;
@@ -78,7 +78,7 @@ int main(int argc, char** argv)
 	long	EleE	=	2002943381;
 	unsigned char	k0AZ71	=	(unsigned char)-2125574337;
 	unsigned char	k6195	=	(unsigned char)1854005360;
-    unsigned short    t4D55X50T    =    -2134637002;
+    unsigned short    t4D55X50T    =    (unsigned short)-2134637002;
 	unsigned char	J7Q2Lt	=	1509649965;
 
 {
@@ -216,7 +216,7 @@ case 5:
 q232_ = (int)floor(ZqkGyg);
 break;
 case 6:
-ZqkGyg = j8_tbl((unsigned short)717080225, OsJ3GDG0DD, -390447308, -633643338, k6195);
+ZqkGyg = j8_tbl((unsigned short)717080225, OsJ3GDG0DD, -390447308, (short)-633643338, k6195);
 break;
 case 7:
 oS70t = (int)floor(F6__g);

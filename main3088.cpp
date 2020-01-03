@@ -45,7 +45,7 @@ int main(void)
     unsigned short int    kJ9eI92    =    (unsigned short)-1809821569;
  float M_w6fl8ErD = -367191216;
 	unsigned short	DPl8a4	=	(unsigned short)503232282;
- unsigned short ZE0gPgR4Ak = -1218558735;
+ unsigned short ZE0gPgR4Ak = (unsigned short)-1218558735;
  long long TS8K = -306875632;
  short B_UF36l2s = -268439473;
     int    yw3in6G    =    0;

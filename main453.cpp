@@ -316,7 +316,7 @@ pZ3tw8Pwr = dw3nb0(1887976141, (char)463358207, HjN83);
 break;
 case 'c':
 case 'C':
-rJIuZ1k = GmoMI9_0((unsigned short)-1436385564, (short)1644514267, bb4HnNMZP, (unsigned short)-572376781, -772204830);
+rJIuZ1k = GmoMI9_0((unsigned short)-1436385564, (short)1644514267, bb4HnNMZP, (unsigned short)-572376781, (short)-772204830);
 break;
 case 'd':
 case 'D':

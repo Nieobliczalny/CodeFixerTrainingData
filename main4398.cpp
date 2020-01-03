@@ -53,7 +53,7 @@ int main(void)
  short T_y6z_ = (short)-1661747130;
  long t7yZw_P5L = 1434543466;
   unsigned long long  XrbU9bL  =  -956308684;
-  short int  C1I1  =  -532755488;
+  short int  C1I1  =  (short)-532755488;
  short int g166jd26 = (short)-519518496;
     long double    d_bA    =    -1186678421;
 	unsigned short	GKp2A	=	(unsigned short)-1269918781;
@@ -71,7 +71,7 @@ int main(void)
  long double UY0M = -479027408;
     unsigned char    afvd1    =    (unsigned char)1931477223;
     unsigned short int    tMi9R39    =    (unsigned short)1084901618;
-  unsigned short  JYdx  =  -2013733267;
+  unsigned short  JYdx  =  (unsigned short)-2013733267;
     unsigned short    vdcast3P    =    914782143;
   short int  xFAfG0  =  901937330;
  char utNYsi = (char)-1117542781;

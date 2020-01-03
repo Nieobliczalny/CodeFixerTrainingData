@@ -48,7 +48,7 @@ int main(int argc, char** argv) {
 	char	ilDV403pIM;
 	ilDV403pIM	=	(char)1627488674;
 	unsigned char	Vn6UK9iY;
-	Vn6UK9iY	=	344726718;
+	Vn6UK9iY	=	(unsigned char)344726718;
 	unsigned int	JV2W2_;
 	JV2W2_	=	1393770512;
     unsigned long long    H0hdmc;

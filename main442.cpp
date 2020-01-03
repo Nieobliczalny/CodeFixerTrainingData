@@ -384,7 +384,7 @@ cout << lhxMm(Dp_RMI66Wv) << "YQ8Ey875D" << "PI8RqH76x7" << "n9BA5e5GTE" << Xi56
 
 cout << cLaR70((char)-419289216, (unsigned char)844350813) << cLaR70((char)1589020651, (unsigned char)1833324062) << zh7lTm(Dp_RMI66Wv, -2015819173, 514579492) << endl;
 
-e7smcpM = zh7lTm(-159202487, jYJ0V2qXdP, -1363931915);
+e7smcpM = zh7lTm((unsigned short)-159202487, jYJ0V2qXdP, -1363931915);
 if ((yVK2yIWa3 <= uD94oBDQzZ) || (HP6g3fDHN >= ECUB24vDw9))
 {
 if (x5mU_H <= FVUr7B48)

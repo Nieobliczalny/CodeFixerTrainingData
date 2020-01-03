@@ -96,7 +96,7 @@ int main(void) {
 	short int	aH92Ut3S;
 	aH92Ut3S	=	(short)1648009255;
   char  Y0DF;
-  Y0DF  =  1770109580;
+  Y0DF  =  (char)1770109580;
  long double K8i9Sef_U9;
  K8i9Sef_U9 = -557977328;
     unsigned short    w0nHGZo3yk;

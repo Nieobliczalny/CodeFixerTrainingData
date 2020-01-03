@@ -30,7 +30,7 @@ int main(void)
     long double    q8E9JHHDg    =    -938350550;
     unsigned long long    OKqUb    =    -1356732121;
 	unsigned short int	yu28aT4f1	=	(unsigned short)-173216184;
- short kDy9 = 2139064367;
+ short kDy9 = (short)2139064367;
  int Ce49l3 = 1187946729;
     long    Sfe2HTO2    =    1755914049;
  long double Mz8_P625V = 1806648836;

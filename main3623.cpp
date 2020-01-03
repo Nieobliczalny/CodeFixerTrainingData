@@ -19,7 +19,7 @@ using std::floor;
 short	t7Y_6(char	Orf56,short int	hb8MDmon,unsigned short int	FI32e9,long	yl9O3G0,unsigned long long	x7eB6);
 
 int main(int argc, char** argv) {
-    unsigned char    HZGztKZQ    =    (unsigned char)1247866705,    Ra0rVd    =    (unsigned char)549795021,    ofqs97    =    (unsigned char)-1707725135,    u428oOUh    =    (unsigned char)-123295552,    cOxml    =    977465386;
+    unsigned char    HZGztKZQ    =    (unsigned char)1247866705,    Ra0rVd    =    (unsigned char)549795021,    ofqs97    =    (unsigned char)-1707725135,    u428oOUh    =    (unsigned char)-123295552,    cOxml    =    (unsigned char)977465386;
   unsigned short int  fWH65  =  0,  Ww83Zg  =  0,  WOthLG3dy  =  0,  Euf3tj  =  0;
 
 if ((Ra0rVd >= -1991601257) && ((Ra0rVd & Euf3tj) || (Euf3tj < Ww83Zg)))
@@ -73,7 +73,7 @@ case 'b':
 Ww83Zg = t7Y_6((char)-815133125, (short)-1119315735, fWH65, cOxml, ofqs97);
 break;
 case 'c':
-Ra0rVd = t7Y_6(Ra0rVd, Ww83Zg, 1648256156, cOxml, ofqs97) | 798185408;
+Ra0rVd = t7Y_6(Ra0rVd, Ww83Zg, (unsigned short)1648256156, cOxml, ofqs97) | 798185408;
 break;
 case 'd':
 WOthLG3dy = t7Y_6(-1262478570, -1992272536, u428oOUh, Euf3tj, -340492326);
@@ -160,7 +160,7 @@ Euf3tj = t7Y_6((char)-139713864, Ww83Zg, Ra0rVd, -1398904189, -1838673142);
 }
 else
 {
-Ww83Zg = t7Y_6(1514634749, ofqs97, Ww83Zg, HZGztKZQ, fWH65);
+Ww83Zg = t7Y_6((char)1514634749, ofqs97, Ww83Zg, HZGztKZQ, fWH65);
 }
 }
 }
@@ -236,7 +236,7 @@ WOthLG3dy = t7Y_6((char)836639016, (short)873238579, fWH65, Euf3tj, 233034643);
 }
 else if ((Ra0rVd == -501355914) && (cOxml != cJp2N))
 {
-Ww83Zg = t7Y_6((char)900700959, 1853536591, -699526978, -2115582775, ofqs97);
+Ww83Zg = t7Y_6((char)900700959, (short)1853536591, -699526978, -2115582775, ofqs97);
 }
 else
 {
@@ -510,7 +510,7 @@ case 2:
 WOthLG3dy = t7Y_6(HZGztKZQ, (short)956591266, (unsigned short)-753746535, Ra0rVd, u428oOUh);
 break;
 case 3:
-Ww83Zg = t7Y_6(HZGztKZQ, (short)-12433629, -1798965191, -185580513, -1371729225);
+Ww83Zg = t7Y_6(HZGztKZQ, (short)-12433629, (unsigned short)-1798965191, -185580513, -1371729225);
 break;
 case 4:
 HZGztKZQ = I_Ff >> 216383622;
@@ -587,7 +587,7 @@ else if ((ofqs97 > HZGztKZQ) && (ofqs97 <= WOthLG3dy))
 {
 try
 {
-Ra0rVd = t7Y_6((char)-310875288, (short)-1476909937, -1461644589, -2114396073, Ra0rVd) - cOxml;
+Ra0rVd = t7Y_6((char)-310875288, (short)-1476909937, (unsigned short)-1461644589, -2114396073, Ra0rVd) - cOxml;
 }
 catch (int& errorCode)
 {

@@ -166,7 +166,7 @@ int main() {
  unsigned short iih3LHT;
  iih3LHT = (unsigned short)1325618506;
     unsigned char    G_KYjbA;
-    G_KYjbA    =    -1680160892;
+    G_KYjbA    =    (unsigned char)-1680160892;
     short    TN79Rhox;
     TN79Rhox    =    (short)-952196166;
     long long    Y__m57D306;

@@ -98,7 +98,7 @@ int main() {
   unsigned short int  ezwWCtTPa;
   ezwWCtTPa  =  (unsigned short)1096450467;
     short int    nmBV;
-    nmBV    =    1092949113;
+    nmBV    =    (short)1092949113;
  short y47uVvONc;
  y47uVvONc = (short)-1065015442;
     char    hK_E73;
@@ -300,7 +300,7 @@ case 'g':
 ipi22cclC3 = w43gy(shbfSnc, y1su6, 1670801471, (unsigned char)-1233605511);
 break;
 case 'h':
-ipi22cclC3 = w43gy(GBrQ1, HLc75Y, -10207308, 1922026249);
+ipi22cclC3 = w43gy(GBrQ1, HLc75Y, -10207308, (unsigned char)1922026249);
 break;
 case 'i':
 gHX9w = (int)floor(Alj02Umhj);
@@ -433,7 +433,7 @@ else
 {
 for (int j = 0; j < 4; j++)
 {
-cout << w43gy((short)-850661547, (unsigned char)-118957757, 155412125, (unsigned char)-765798063) << kaeOTLL9E << w43gy(e1g_CC, 1212023808, Gu5r8ASf, bwxx7LU19D) << endl;
+cout << w43gy((short)-850661547, (unsigned char)-118957757, 155412125, (unsigned char)-765798063) << kaeOTLL9E << w43gy(e1g_CC, (unsigned char)1212023808, Gu5r8ASf, bwxx7LU19D) << endl;
 }
 }
 if (kaeOTLL9E <= t7mBR4)

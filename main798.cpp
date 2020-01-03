@@ -46,7 +46,7 @@ do
 i--;
 try
 {
-TcnzK = i33rhQ((unsigned short)1463043565, (char)166490335, 1161916651, -2130887252);
+TcnzK = i33rhQ((unsigned short)1463043565, (char)166490335, 1161916651, (unsigned char)-2130887252);
 }
 catch (int& errorCode)
 {

@@ -32,7 +32,7 @@ int main()
   char  MQ33CaCm  =  (char)244254041;
  int xRvYvFsdNj = 1644823842;
 	long double	j5kbmq8	=	474174204;
-	unsigned char	LX00pB1r	=	1831026804;
+	unsigned char	LX00pB1r	=	(unsigned char)1831026804;
  long double A3AN = -1676410347;
  char W30j = (char)2135249030;
   unsigned short int  xm70Yrh4Jr  =  (unsigned short)1848776018;

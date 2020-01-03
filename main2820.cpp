@@ -39,7 +39,7 @@ int main(void) {
 	unsigned long long	dT9OeA5m	=	-2033815060;
   short  W52aI  =  (short)1991884161;
     unsigned short    wrIKj3IiQ    =    (unsigned short)-1280995751;
- char r5QzC = 1071864606;
+ char r5QzC = (char)1071864606;
  long AId54_O = -73829547;
 	long long	Wav8iJW	=	1227752942;
 	unsigned char	m378oBVafF	=	2105332800;

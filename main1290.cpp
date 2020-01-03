@@ -135,7 +135,7 @@ q918V = gQCTixhe4a(q918V, glhZ, 334385551);
 }
 else
 {
-TZ0STkm = Uk_Cj53cpi(791884796, (short)1873875105, -1613545378, (short)-612839468, -1817972757);
+TZ0STkm = Uk_Cj53cpi(791884796, (short)1873875105, -1613545378, (short)-612839468, (unsigned short)-1817972757);
 }
 }
 }

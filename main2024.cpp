@@ -35,7 +35,7 @@ int main() {
   char  cttjJLG070  =  (char)-311757209;
  short int uoQHli_ = (short)-1879059750;
   long  jPlSbxTgk_  =  -1407634448;
-    unsigned short    fECcy55P    =    -760196721;
+    unsigned short    fECcy55P    =    (unsigned short)-760196721;
   short int  D7r7yA3  =  -1542347613;
 	int	z3waUFvI	=	-1288868197;
 	char	axj43h8mV	=	1422925974;

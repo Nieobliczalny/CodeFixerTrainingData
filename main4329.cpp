@@ -136,7 +136,7 @@ int main(void) {
  unsigned short int sgM9;
  sgM9 = (unsigned short)-1129154341;
 	char	f7Ie;
-	f7Ie	=	-1606539354;
+	f7Ie	=	(char)-1606539354;
     long long    h7_zCQ8j1u;
     h7_zCQ8j1u    =    -1901108220;
  unsigned int Hv3I9Z8m0;

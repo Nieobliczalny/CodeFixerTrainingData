@@ -132,7 +132,7 @@ int main()
     short    rZh7;
     rZh7    =    (short)656408988;
 	char	ilW5wC;
-	ilW5wC	=	-905863011;
+	ilW5wC	=	(char)-905863011;
 
 for (int i = 0; i < 2; i++)
 {
@@ -320,7 +320,7 @@ while (i >= 0);
 }
 std::cout << "hW_J3qjc_4" << WMWvE9X4((unsigned char)1464911844, (short)106267062, y7beC200, x3lP_0o34, (unsigned short)2019377658) << "NdHU35S" << WMWvE9X4(T7NUdEl2_3, ly9zvO6c, y7beC200, x3lP_0o34, (unsigned short)-1907469614) << std::endl;
 
-std::cout << WMWvE9X4(T7NUdEl2_3, 264275219, 1450562357, x3lP_0o34, KJDPjcQcsu) << std::endl;
+std::cout << WMWvE9X4(T7NUdEl2_3, (short)264275219, 1450562357, x3lP_0o34, KJDPjcQcsu) << std::endl;
 
 if (yWu1_I_ != 559850188)
 {

@@ -17,7 +17,7 @@ int main(void) {
     unsigned short int    bldzS363C    =    (unsigned short)559048395;
 	double	OH32Il9Gd	=	1940137501;
 	unsigned long long	CP4Fxf	=	10465269;
-  unsigned short  Om2T1_c  =  -1413998810;
+  unsigned short  Om2T1_c  =  (unsigned short)-1413998810;
     short    A_w_vIpb    =    2016730470;
     unsigned short    ZaS9    =    (unsigned short)-1917441802;
  int t26bED8A2 = -14893687;
@@ -31,7 +31,7 @@ int main(void) {
     long double    KSSpb    =    726649098;
  unsigned short int jj77 = (unsigned short)-1639959984;
   unsigned int  lFK9k1L  =  -510257832;
- short int ib4tM = 2034276052;
+ short int ib4tM = (short)2034276052;
  unsigned long long HU_56R = -757396271;
     unsigned char    Ha41CHRD    =    (unsigned char)696514143;
  short int EN0F = -920435457;
@@ -55,7 +55,7 @@ int main(void) {
     long long    tr12_O57X    =    0;
     unsigned short    u9iN4ZDKjW    =    (unsigned short)1243360516;
     char    z9ZK    =    (char)1155795927;
-	unsigned short int	nRlBN8m	=	-103351804;
+	unsigned short int	nRlBN8m	=	(unsigned short)-103351804;
  unsigned int LpCfZxg7Vb = -424977644;
 	unsigned int	KMQa_9iQ	=	664298780;
     unsigned long long    oXU_3    =    -1034612070;
@@ -66,7 +66,7 @@ int main(void) {
     unsigned char    Yf9nK    =    (unsigned char)762068406;
 	unsigned char	gw72xos	=	(unsigned char)-1240109876;
   unsigned char  MA2Jgb  =  (unsigned char)-954007982;
-	unsigned short	U88TP7	=	720209268;
+	unsigned short	U88TP7	=	(unsigned short)720209268;
   unsigned int  y12cMO_  =  -507329699;
   unsigned short int  IF9_rHU  =  -148501987;
  short A1R6x = -1125675414;
@@ -98,7 +98,7 @@ int main(void) {
  long long ghsQmd = -903169004;
 	short int	PnKM5NfZ	=	0;
   char  zC84  =  (char)-1107758912;
-	unsigned short int	yK4p_	=	512184215;
+	unsigned short int	yK4p_	=	(unsigned short)512184215;
     short    IdcORFQrZP    =    1115172336;
     long    X_E_Tezyr    =    1347263723;
  unsigned short FKT8L_rxu = (unsigned short)19016180;
@@ -110,7 +110,7 @@ int main(void) {
   unsigned int  KX0UHdOF8q  =  852072386;
  unsigned long long ahu9M4 = 984958252;
 	unsigned short	F9IuYXzq6y	=	(unsigned short)1549778911;
-    short    dBBjNHgG    =    1594374078;
+    short    dBBjNHgG    =    (short)1594374078;
   short  P4R6N1K9T  =  (short)1873121072;
 
 {

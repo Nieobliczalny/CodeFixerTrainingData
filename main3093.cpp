@@ -164,7 +164,7 @@ case 1:
 t6h_ = xkl0J20IE1((unsigned short)-1736214368, (unsigned short)770444006, 366282635, (char)382488343);
 break;
 case 2:
-sI8MTtx3 = J9v433gi((short)58323227, 2094718693, xt05Gew, 715465032);
+sI8MTtx3 = J9v433gi((short)58323227, 2094718693, xt05Gew, (short)715465032);
 break;
 case 3:
 MzV28 = (int)abs(cAjpjeq0kg);
@@ -268,7 +268,7 @@ k2705q = xkl0J20IE1((unsigned short)-132910705, rk33U2jh41, 1885090711, Qv_ZJ6ow
 }
 else if ((YyNS6P <= -691438051) || ((sI8MTtx3 < 647323302) && (xt05Gew & 1188144471)))
 {
-sI8MTtx3 = P8tTevd((unsigned short)1641894037, -1673675093);
+sI8MTtx3 = P8tTevd((unsigned short)1641894037, (char)-1673675093);
 }
 else
 {

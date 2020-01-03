@@ -285,7 +285,7 @@ V2O0c3Zo1 = y8Ge(pm01_, (short)1451378685, k5BM, O3_5Dr, V2O0c3Zo1) >> 903801856
 }
 else
 {
-XBHHH = y8Ge(XBHHH, (short)-286762995, -1702245407, 1980916867, I8SrPVFZa);
+XBHHH = y8Ge(XBHHH, (short)-286762995, (unsigned char)-1702245407, 1980916867, I8SrPVFZa);
 }
 }
 else if (k5BM == r0NQth58)

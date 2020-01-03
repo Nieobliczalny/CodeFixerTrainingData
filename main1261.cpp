@@ -92,7 +92,7 @@ oePE1ff1sv = SCq1((short)1679751154, (short)532464394, (short)900848985, qadqky,
 break;
 case 'f':
 case 'F':
-oePE1ff1sv = SCq1(-1129771707, JSCQ5, -1428031073, qadqky, 764297282);
+oePE1ff1sv = SCq1((short)-1129771707, JSCQ5, -1428031073, qadqky, 764297282);
 break;
 case 'g':
 case 'G':
@@ -656,7 +656,7 @@ oePE1ff1sv = SCq1(JSCQ5, oePE1ff1sv, (short)2143165934, yMRSF7, -1118373198);
 
 try
 {
-std::cout << yMRSF7 << SCq1(JSCQ5, (short)-333590304, -1905840811, yMRSF7, U3EN) << yMRSF7 << "b_BS51n" << std::endl;
+std::cout << yMRSF7 << SCq1(JSCQ5, (short)-333590304, (short)-1905840811, yMRSF7, U3EN) << yMRSF7 << "b_BS51n" << std::endl;
 }
 catch (int& errorCode)
 {

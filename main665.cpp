@@ -72,7 +72,7 @@ case 0:
 j9N7RK = p4c_X((unsigned char)-1333834310, es2wt, j9N7RK, (short)-2119448267, oFIHQ3IF0C);
 break;
 case 1:
-es2wt = z4MuCOL(787787176, es2wt, 330878497, HVY80qP3D);
+es2wt = z4MuCOL((char)787787176, es2wt, 330878497, HVY80qP3D);
 break;
 default:
 oFIHQ3IF0C = z4MuCOL((char)-1245412557, nL4g09gGI6, T4SN, HVY80qP3D);
@@ -358,7 +358,7 @@ while (i < 4);
 
 for (int i = 0; i < 4; i++)
 {
-cout << p4c_X(T4SN, es2wt, NyCafF, (short)-1137014787, -302973350) << z4MuCOL((char)570418635, 358675683, NyCafF, pElh1J6hIz) << p4c_X((unsigned char)-1835913466, es2wt, (unsigned char)-284491942, 221318867, 1370553094) << endl;
+cout << p4c_X(T4SN, es2wt, NyCafF, (short)-1137014787, -302973350) << z4MuCOL((char)570418635, 358675683, NyCafF, pElh1J6hIz) << p4c_X((unsigned char)-1835913466, es2wt, (unsigned char)-284491942, (short)221318867, 1370553094) << endl;
 }
 switch (HVY80qP3D)
 {

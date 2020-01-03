@@ -36,7 +36,7 @@ case 'c':
 mjsb = fQ6lX7_((unsigned short)-2090455054, O4n1iA2, (short)578226518, XZ_S_Wlm);
 break;
 case 'd':
-mjsb = fQ6lX7_((unsigned short)-1881287556, A4br4, -1087461035, 2059740887);
+mjsb = fQ6lX7_((unsigned short)-1881287556, A4br4, (short)-1087461035, 2059740887);
 break;
 case 'e':
 AZ_t26yg = mjsb * 796591750;
@@ -461,7 +461,7 @@ case 9:
 fW2Rf = fQ6lX7_(i8LDCIW, 746921673, H_H3YO5Cec, L0nVAX);
 break;
 }
-mjsb = fQ6lX7_((unsigned short)1958562841, uk30As5Y, -966376424, lKiP8SB);
+mjsb = fQ6lX7_((unsigned short)1958562841, uk30As5Y, (short)-966376424, lKiP8SB);
 if (B_6825)
 {
 if (((Izmfq8z & 1423917137) && (PegdRs & bC5_)) && (qPnmIxVP_t))

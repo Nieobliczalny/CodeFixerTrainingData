@@ -53,7 +53,7 @@ int main()
     unsigned long    X3hx    =    -872922751;
  long Jmqm6 = 1498249901;
 	long long	gyp71diw	=	64350713;
- short uaPy_ = 773183169;
+ short uaPy_ = (short)773183169;
  unsigned long long U6Y3UDlndh = 1448100748;
  unsigned long Im4DIWHbpy = -1336108034;
  int XwN6Z997m = -1233300449;
@@ -83,7 +83,7 @@ int main()
  long ONc1 = -1578644719;
  unsigned char W9gh3147i9 = (unsigned char)288371687;
 	unsigned char	g_MRDI	=	(unsigned char)1234419469;
-    char    XkA9h    =    386918905;
+    char    XkA9h    =    (char)386918905;
   char  aKfBJ_It5w  =  (char)-610365524;
  unsigned short int w9I1 = -1660762691;
   int  Iu0My5  =  -1182692413;

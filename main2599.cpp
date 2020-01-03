@@ -190,7 +190,7 @@ int main(int argc, char** argv) {
 	char	J3Kg1;
 	J3Kg1	=	(char)-29234446;
   char  Zw28;
-  Zw28  =  1815950983;
+  Zw28  =  (char)1815950983;
     unsigned short int    Hkv9R74F;
     Hkv9R74F    =    (unsigned short)828213418;
 	unsigned int	v8ulI4TvO;
@@ -540,7 +540,7 @@ case 9:
 m847OQAT = D771fKw(352047272);
 break;
 default:
-V75Cc4kF = iibg3_75((short)-845034808, (unsigned char)-676272214, -612179444, 744764551, S96a38);
+V75Cc4kF = iibg3_75((short)-845034808, (unsigned char)-676272214, (short)-612179444, 744764551, S96a38);
 break;
 }
 }

@@ -27,7 +27,7 @@ int main(int argc, char** argv)
   long long  U7jRdW82u  =  912173197;
  long f_6ELRX0XR = -1214746766;
 	unsigned char	lku0h_8n1	=	(unsigned char)231652355;
-	unsigned short	Wjs6_G_Ka	=	1547342407;
+	unsigned short	Wjs6_G_Ka	=	(unsigned short)1547342407;
  char E6K2 = 2099386492;
 	int	RF7L	=	42248311;
 	char	r1rr5y56Y	=	0;

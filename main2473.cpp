@@ -32,7 +32,7 @@ int main() {
     short int    Mti2W_    =    0;
  short E2L96 = (short)1977616875;
   unsigned char  MBO2EE  =  (unsigned char)1070837178;
-    char    T83B7    =    -593350890;
+    char    T83B7    =    (char)-593350890;
 	unsigned short int	zdlfpk	=	-1827774178;
 	long long	SIx9bK	=	-1577486589;
   long long  y9UvOH  =  1675002547;

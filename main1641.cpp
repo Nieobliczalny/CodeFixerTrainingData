@@ -48,7 +48,7 @@ int main(int argc, char** argv) {
  unsigned char z9Q2H20 = (unsigned char)-1997453041;
  unsigned char FaTr = 0;
  short tNTnU_VO = (short)2127410988;
- short Fo_4wtLk = 742206878;
+ short Fo_4wtLk = (short)742206878;
  double I25y4Uvm2j = 737356953;
 	unsigned char	HdraF3eB2	=	0;
  int Ieb56 = -1434608620;

@@ -422,7 +422,7 @@ case 4:
 SJn4yxw *= Sjjou3zH;
 break;
 case 5:
-ufD_8 = YHLIXn(582595174, f5Ou) + 1798723239;
+ufD_8 = YHLIXn((unsigned short)582595174, f5Ou) + 1798723239;
 break;
 case 6:
 JihA = YHLIXn((unsigned short)2112259425, SJn4yxw);
@@ -498,7 +498,7 @@ LJn_tt = S0oro_(LJn_tt, (unsigned short)261537430, Sjjou3zH, (short)35466132);
 }
 else if ((N2WhWmTN < -144102732) && ((CoI51 <= fpM5WtmJ43) && (Jd8_O_5w5_ != dFO2)))
 {
-u4W3 = YHLIXn(473241720, dFO2) >> 2113084068;
+u4W3 = YHLIXn((unsigned short)473241720, dFO2) >> 2113084068;
 }
 else if (uChuGK4ypr >= 2147134578)
 {
@@ -663,7 +663,7 @@ JihA = YHLIXn((unsigned short)1895440073, ufD_8);
 break;
 case 'c':
 case 'C':
-u4W3 = S0oro_((short)-1849107417, (unsigned short)1236758803, 890279553, l_2MQi9z);
+u4W3 = S0oro_((short)-1849107417, (unsigned short)1236758803, (short)890279553, l_2MQi9z);
 break;
 case 'd':
 case 'D':

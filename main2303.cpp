@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
 	short	lUWGkp5R25;
 	lUWGkp5R25	=	(short)1774529143;
   unsigned char  X_j2WOvO8;
-  X_j2WOvO8  =  1223714648;
+  X_j2WOvO8  =  (unsigned char)1223714648;
 	float	s9700vw9s;
 	s9700vw9s	=	-2040995775;
 	short int	FGrde2F;

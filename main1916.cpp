@@ -166,7 +166,7 @@ int main(int argc, char** argv)
  short int TdwgtsHh;
  TdwgtsHh = (short)-1963110742;
 	short int	VOe_KbNLt;
-	VOe_KbNLt	=	-1938191708;
+	VOe_KbNLt	=	(short)-1938191708;
     unsigned long long    q4_3;
     q4_3    =    1946119653;
   int  Z0Sv;

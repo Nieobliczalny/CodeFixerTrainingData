@@ -35,7 +35,7 @@ int main() {
  unsigned int f9lmw03QBL = -1686964857;
   float  b_FM7Pd  =  1653573116;
   unsigned char  U1W8f5_0e  =  (unsigned char)1378349614;
-    unsigned char    hJC14    =    -163034783;
+    unsigned char    hJC14    =    (unsigned char)-163034783;
   int  Ywl8RLFoR  =  1013980872;
   unsigned long long  zSpQl4  =  -362924235;
   long double  H4Y_UjUZ  =  -1708182044;

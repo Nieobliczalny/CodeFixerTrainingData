@@ -78,7 +78,7 @@ int main()
  short int LU5tj87G;
  LU5tj87G = (short)2091183755;
   unsigned short int  VbP5v70;
-  VbP5v70  =  -1054212100;
+  VbP5v70  =  (unsigned short)-1054212100;
  int yhAOCm;
  yhAOCm = -1630381775;
   int  oB3S;

@@ -130,7 +130,7 @@ int main()
     unsigned short int    dTSV819f;
     dTSV819f    =    (unsigned short)-2049301590;
   short  sFShK;
-  sFShK  =  564488338;
+  sFShK  =  (short)564488338;
 	double	z3bonOT;
 	z3bonOT	=	1414315404;
   long long  Yvf2x26;

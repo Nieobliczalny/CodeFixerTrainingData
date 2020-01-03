@@ -52,7 +52,7 @@ int main(void) {
 	unsigned long long	EivEEsWu	=	-1865976185;
 	short	ZtkooT	=	(short)-1682316396;
 	int	oJW5R8w_8M	=	-1682746248;
-    short int    sySm7Mg2w2    =    16089162;
+    short int    sySm7Mg2w2    =    (short)16089162;
 
 if (AIT5l8 >= 771459371)
 {
@@ -477,7 +477,7 @@ tq2YTAMf26 = (unsigned long)(oJW5R8w_8M);
 int i = 0;
 while (i < 4)
 {
-cout << fem3Y(JIO_v, (char)-872583013, 1156622397, sySm7Mg2w2, 885995886) << endl;
+cout << fem3Y(JIO_v, (char)-872583013, (unsigned char)1156622397, sySm7Mg2w2, 885995886) << endl;
 i++;
 }
 }
@@ -518,7 +518,7 @@ s7_M4 = aplrYqK2(nMXE);
 
 for (int i = 3; i >= 0; --i)
 {
-cout << fem3Y(1753689855, Rp_KdP32, (unsigned char)843412853, 826166148, (short)-460517772) << "ird9W0Wcm" << d80SqvgZo((unsigned short)1812635952, -1600361617, (short)335272190, WYgL604, 1824151516) << endl;
+cout << fem3Y(1753689855, Rp_KdP32, (unsigned char)843412853, 826166148, (short)-460517772) << "ird9W0Wcm" << d80SqvgZo((unsigned short)1812635952, -1600361617, (short)335272190, WYgL604, (char)1824151516) << endl;
 }
 aRmlvDKm = (float)(yFbuYQ);
 try

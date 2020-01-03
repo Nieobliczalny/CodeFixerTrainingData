@@ -73,7 +73,7 @@ int main()
  short Aufp1l;
  Aufp1l = (short)-852268140;
   unsigned char  p8_e;
-  p8_e  =  -258827961;
+  p8_e  =  (unsigned char)-258827961;
 	unsigned char	UDWTCp28;
 	UDWTCp28	=	(unsigned char)816284428;
  long GL8542978N;
@@ -177,7 +177,7 @@ int main()
     short    I_cWlaoL;
     I_cWlaoL    =    (short)1212428570;
     short    n5FIb91;
-    n5FIb91    =    546534891;
+    n5FIb91    =    (short)546534891;
   short int  bKOp_FQRZ2;
   bKOp_FQRZ2  =  (short)-548007296;
  short int HGX5o;

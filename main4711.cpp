@@ -172,7 +172,7 @@ case 'e':
 hp6Y8_A4c4 -= 1147099116;
 break;
 case 'f':
-J0d_gv_8 = Sr_H_Rs((unsigned short)1194136949, -393530775, BUh5b, -1369802735, 590721570);
+J0d_gv_8 = Sr_H_Rs((unsigned short)1194136949, -393530775, BUh5b, (unsigned char)-1369802735, 590721570);
 break;
 case 'g':
 K7HIMqTQ28 = (int)abs(XX_Hz1WJ);
@@ -198,7 +198,7 @@ else
 cout << CbyL(VjG1, (unsigned short)1410802325, (short)337366196) << g6i1iv3o16 << YlS1((unsigned short)-1585215923, 266981245, (short)-111256773) << endl;
 }
 
-If983uv8W4 = CbyL(185145535, -911328646, -1209740486);
+If983uv8W4 = CbyL((unsigned char)185145535, -911328646, -1209740486);
 
 h5478Ab = BUh5b - KZ61;
 

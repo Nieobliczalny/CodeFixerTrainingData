@@ -21,7 +21,7 @@ int main()
   short  e_k72_Bz3  =  (short)-1303172979;
 	unsigned short	yDbv6wr39	=	(unsigned short)-1490229108;
  float XwjF = 953017864;
-	unsigned short int	e_u56uuG	=	1781718747;
+	unsigned short int	e_u56uuG	=	(unsigned short)1781718747;
     long    cAI6C_Y    =    -1035919943;
     short    e025qe3    =    (short)-339475117;
   short  y4vN  =  -26309658;

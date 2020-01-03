@@ -317,7 +317,7 @@ case 'c':
 y58O_sg0 = DyB60 - 1135274221;
 break;
 case 'd':
-jwVStgj9xj = B2p597(jwVStgj9xj, (short)-618565241, 2047840686, ejA5smID, 127944995);
+jwVStgj9xj = B2p597(jwVStgj9xj, (short)-618565241, 2047840686, ejA5smID, (unsigned char)127944995);
 break;
 default:
 V7g2I8jo = grlEnD30H % sa4182W;
@@ -378,7 +378,7 @@ case 'C':
 eT949_ = bfVhVi8Q8(1221793808, 2077179973, YEo3Z, 951705458);
 break;
 default:
-Kk6B_04 = B2p597(-1743030505, Xtoozu8, -805742045, -557467974, Sh7nBF);
+Kk6B_04 = B2p597((unsigned short)-1743030505, Xtoozu8, -805742045, -557467974, Sh7nBF);
 break;
 }
 }

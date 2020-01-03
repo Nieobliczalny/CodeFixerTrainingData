@@ -215,7 +215,7 @@ hM38Cd01 = oyN8b(-2024291166, (unsigned short)-1156291934, olsn, (unsigned short
 break;
 case 'f':
 case 'F':
-lJ6QPU = Z5kF8PD0((short)-1958880669, -2014202224);
+lJ6QPU = Z5kF8PD0((short)-1958880669, (unsigned short)-2014202224);
 break;
 case 'g':
 case 'G':

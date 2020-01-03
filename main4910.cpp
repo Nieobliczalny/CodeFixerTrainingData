@@ -661,7 +661,7 @@ vn3w = ps5A67F((short)-579803734, B19gz16_34, (unsigned short)536462436);
 }
 else if ((vn3w < -2080511964) || ((IQWHF8j <= 1668134849) || (JTQYZ_G <= B19gz16_34)))
 {
-qZ_5p = ps5A67F((short)1504173489, (short)1776450738, -324497761);
+qZ_5p = ps5A67F((short)1504173489, (short)1776450738, (unsigned short)-324497761);
 }
 else
 {

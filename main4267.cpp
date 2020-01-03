@@ -289,7 +289,7 @@ Ol3leW7vff /= 453452289;
 }
 else
 {
-std::cout << H7LPs((char)1078607871, (char)503635298) << H7LPs((char)394891745, (char)1869733629) << H7LPs(RlfAg6xH_, -877029561) << "eY65P" << std::endl;
+std::cout << H7LPs((char)1078607871, (char)503635298) << H7LPs((char)394891745, (char)1869733629) << H7LPs(RlfAg6xH_, (char)-877029561) << "eY65P" << std::endl;
 }
 }
 else if (iMP8toT <= uXEbX10C)
@@ -461,7 +461,7 @@ case 'c':
 YSvB9A /= f_6lHm;
 break;
 case 'd':
-VYyy = H7LPs((char)-278374330, -103102230);
+VYyy = H7LPs((char)-278374330, (char)-103102230);
 break;
 case 'e':
 CcKSKw = (int)abs(TKpb);

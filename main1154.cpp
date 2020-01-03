@@ -140,7 +140,7 @@ int main(void) {
   char  ss76SM_4GM;
   ss76SM_4GM  =  (char)-336263301;
 	short	ez_2Ouq;
-	ez_2Ouq	=	-1267300869;
+	ez_2Ouq	=	(short)-1267300869;
 	double	X3l9zR;
 	X3l9zR	=	1948755085;
 	unsigned short	RYOLH9tn8;

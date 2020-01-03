@@ -67,7 +67,7 @@ int main(void) {
   unsigned short  GNofqcV;
   GNofqcV  =  (unsigned short)-769668442;
     short    YMNu;
-    YMNu    =    -1446964565;
+    YMNu    =    (short)-1446964565;
     int    GSKa81;
     GSKa81    =    837315830;
   long long  v2YD;
@@ -350,7 +350,7 @@ xYENo = (int)abs(ePz51P);
 
 if ((uUqCGJg5m) || (nJHQ != PKx9waRR))
 {
-std::cout << QsQY(1352930795, v2YD, (unsigned short)444762966, (char)1637552282) << "XuUV" << bOT_p098 << QsQY(-391440060, v2YD, cE2T9, 380365562) << std::endl;
+std::cout << QsQY(1352930795, v2YD, (unsigned short)444762966, (char)1637552282) << "XuUV" << bOT_p098 << QsQY(-391440060, v2YD, cE2T9, (char)380365562) << std::endl;
 }
 else
 {

@@ -208,7 +208,7 @@ case 3:
 zdMT6D7_6 = Q_Ka(zdMT6D7_6, 1221625574, iQhoY4_M, sr2MkaLO, 1687734086);
 break;
 case 4:
-jLU7nRS = XPfR3((unsigned short)-637530045, EFyBb, (short)813754876, NQ8U, -1708395670);
+jLU7nRS = XPfR3((unsigned short)-637530045, EFyBb, (short)813754876, NQ8U, (unsigned short)-1708395670);
 break;
 case 5:
 Mx48xNfv8V = (int)abs(HaihfG);

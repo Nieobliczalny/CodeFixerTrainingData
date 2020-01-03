@@ -395,7 +395,7 @@ else
 f_C0cTTi = WP2Z9((unsigned short)-1381808736, (unsigned short)1982943573, (unsigned short)-2074436137, 585574318, H68a);
 }
 U8p5oY1 = (unsigned char)(ShpZI9 + (210259888));
-std::cout << WP2Z9((unsigned short)-123110692, 583065004, -413740070, MgC6M6u, -433297841) << "FlV8" << dqRYD5P6N << "k_0vRO12" << ESgU8ZCJ() << std::endl;
+std::cout << WP2Z9((unsigned short)-123110692, (unsigned short)583065004, -413740070, MgC6M6u, -433297841) << "FlV8" << dqRYD5P6N << "k_0vRO12" << ESgU8ZCJ() << std::endl;
 
 {
 int i = 0;
@@ -475,7 +475,7 @@ for (int i = 5; i >= 0; --i)
 {
 std::cout << AA2zy << jC8gN8NC << std::endl;
 }
-e_v_ = WP2Z9((unsigned short)1045052037, gT4aT_, -1289795653, -225862040, -332222067);
+e_v_ = WP2Z9((unsigned short)1045052037, gT4aT_, (unsigned short)-1289795653, -225862040, -332222067);
 
 if (U_jmV != ShpZI9)
 {

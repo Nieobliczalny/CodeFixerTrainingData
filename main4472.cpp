@@ -86,7 +86,7 @@ int main(void)
     unsigned char    lhrC3;
     lhrC3    =    (unsigned char)-834410578;
 
-lhrC3 = srS4(lhrC3, (unsigned short)1434342945, sNwYStm, -1638909386, DV30fk2);
+lhrC3 = srS4(lhrC3, (unsigned short)1434342945, sNwYStm, (unsigned short)-1638909386, DV30fk2);
 
 if (u32ym)
 {
@@ -446,7 +446,7 @@ cout << Z21H((unsigned short)-1384292223, (char)2076269258, Vg261B, RyFU) << Z21
 }
 }
 }
-u_ia_f13y = srS4(-182289376, jqVRq9F, ZKI_z0, l_y7_je, bp06B1TS);
+u_ia_f13y = srS4((unsigned short)-182289376, jqVRq9F, ZKI_z0, l_y7_je, bp06B1TS);
 
 try
 {

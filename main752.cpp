@@ -221,7 +221,7 @@ catch (int& errorCode)
 TjY0F = kG1DoxA(gvB7z0, 112872074, Z_8uG503yk, Ot4_xfhq, 944749715) - 1478758083;
 }
 
-std::cout << e7G1 << MGtJZ__7((short)1696172876, -719347477, Z_8uG503yk, (unsigned char)1673602736, (unsigned short)795340586) << "nl8U" << k9F2HMMr << i_ihk0g((unsigned short)-82386016, B8_9tPXz_, -1431715067, 947065986) << std::endl;
+std::cout << e7G1 << MGtJZ__7((short)1696172876, -719347477, Z_8uG503yk, (unsigned char)1673602736, (unsigned short)795340586) << "nl8U" << k9F2HMMr << i_ihk0g((unsigned short)-82386016, B8_9tPXz_, -1431715067, (unsigned short)947065986) << std::endl;
 if (K9C_7 >= 1248780742)
 {
 qHqU68KDXt = (short)(Iqe9Z_eT);
@@ -320,7 +320,7 @@ Me9jT = kG1DoxA((unsigned char)1242292334, (unsigned short)-717792528, (unsigned
 }
 else
 {
-pv23By9 = kG1DoxA(pv23By9, (unsigned short)318248268, -2024650254, QtG_, p37m8yXfx);
+pv23By9 = kG1DoxA(pv23By9, (unsigned short)318248268, (unsigned char)-2024650254, QtG_, p37m8yXfx);
 }
 }
 }
@@ -346,7 +346,7 @@ else if (e7G1 >= 1856526127)
 {
 if (e7G1)
 {
-std::cout << o58t << "q2ZyQc7tfO" << f02_i_Wbv((unsigned short)1145717850) << kG1DoxA((unsigned char)-1016446235, (unsigned short)1480173537, (unsigned char)171472344, B8_9tPXz_, 1119067686) << std::endl;
+std::cout << o58t << "q2ZyQc7tfO" << f02_i_Wbv((unsigned short)1145717850) << kG1DoxA((unsigned char)-1016446235, (unsigned short)1480173537, (unsigned char)171472344, B8_9tPXz_, (unsigned char)1119067686) << std::endl;
 }
 }
 else
@@ -388,7 +388,7 @@ case 2:
 k_44Le ^= gvB7z0;
 break;
 case 3:
-Iqe9Z_eT = kG1DoxA((unsigned char)975653827, -277456118, wK9hMBH, 519341010, 1944984697) ^ Ot4_xfhq;
+Iqe9Z_eT = kG1DoxA((unsigned char)975653827, (unsigned short)-277456118, wK9hMBH, 519341010, 1944984697) ^ Ot4_xfhq;
 break;
 default:
 k9F2HMMr = (int)abs(kAI2n__);
@@ -408,7 +408,7 @@ k_44Le = MGtJZ__7((short)443210680, jSuX8, 525931004, pv23By9, (unsigned short)-
 }
 else if (k9F2HMMr <= -1335473603)
 {
-std::cout << Z_8uG503yk << "iD19v" << f02_i_Wbv((unsigned short)-1659556831) << i_ihk0g(k_44Le, (short)529621453, -2005275356, -670396453) << e7G1 << std::endl;
+std::cout << Z_8uG503yk << "iD19v" << f02_i_Wbv((unsigned short)-1659556831) << i_ihk0g(k_44Le, (short)529621453, -2005275356, (unsigned short)-670396453) << e7G1 << std::endl;
 }
 else
 {
@@ -480,7 +480,7 @@ QtG_ = kG1DoxA(lO1P0j9e9, (unsigned short)1236497461, (unsigned char)1361113496,
 break;
 case 'd':
 case 'D':
-llZg2fV = JVY0Ghbr1(1676124186, 400329518, 463703788, k9F2HMMr, BKvam);
+llZg2fV = JVY0Ghbr1((unsigned short)1676124186, 400329518, 463703788, k9F2HMMr, BKvam);
 break;
 case 'e':
 case 'E':
@@ -507,7 +507,7 @@ llZg2fV = kG1DoxA((unsigned char)-926112750, (unsigned short)-498841323, (unsign
 }
 else
 {
-Me9jT = kG1DoxA((unsigned char)-1165293107, K9C_7, -639184374, qHqU68KDXt, jSuX8);
+Me9jT = kG1DoxA((unsigned char)-1165293107, K9C_7, (unsigned char)-639184374, qHqU68KDXt, jSuX8);
 }
 }
 }

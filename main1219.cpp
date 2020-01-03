@@ -181,7 +181,7 @@ VyIL = FaJb(VyIL, E6Is, 892654249);
 break;
 case 'f':
 case 'F':
-G76L = FaJb(773133330, E6Is, AE90R1fmh6);
+G76L = FaJb((unsigned short)773133330, E6Is, AE90R1fmh6);
 break;
 case 'g':
 case 'G':
@@ -201,7 +201,7 @@ if (sp4c2M < g_3og1)
 {
 if (((n3B3R < -1113203674) && (sp4c2M > L9oNDvq24t)) || ((jqXj & E6Is) || (weXa9_vQ >= xjV59D4t)))
 {
-L9oNDvq24t = t9S88K(Xe1FViWA84, (char)-1936912397, 185529173, jqXj, sp4c2M);
+L9oNDvq24t = t9S88K(Xe1FViWA84, (char)-1936912397, (char)185529173, jqXj, sp4c2M);
 }
 else
 {

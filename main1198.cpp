@@ -454,7 +454,7 @@ if (gcxI <= Hb1V)
 {
 if ((Vtci721xD <= I6_xpBBSL) && (uQc0_le == Z7Wh))
 {
-uQc0_le = EenuU(Z7Wh, (short)-625333283, -1874259885, -2119285951) * 1856285522;
+uQc0_le = EenuU(Z7Wh, (short)-625333283, (char)-1874259885, -2119285951) * 1856285522;
 }
 else
 {

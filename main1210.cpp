@@ -388,7 +388,7 @@ case 'b':
 pR5V_ = F_K3S | 339399801;
 break;
 case 'c':
-t1RG = KwPE6AkTjh(1161435556, (unsigned short)1464338607, (short)1948930563, 466377036, R4N8Yo);
+t1RG = KwPE6AkTjh(1161435556, (unsigned short)1464338607, (short)1948930563, (unsigned char)466377036, R4N8Yo);
 break;
 case 'd':
 t1RG = (int)abs(Z4WFu1X);

@@ -46,7 +46,7 @@ int main(void) {
     unsigned long    f_7rr96o    =    619611928;
     short    gK21_K2wd6    =    (short)-1451032989;
   char  T7lHXa__m  =  (char)1477632904;
-  unsigned short int  vvFg02  =  -1090780130;
+  unsigned short int  vvFg02  =  (unsigned short)-1090780130;
 	float	XbFEl	=	-1922830158;
   unsigned long  fiCkJ  =  624265945;
 	unsigned char	NpDV	=	(unsigned char)-205434058;

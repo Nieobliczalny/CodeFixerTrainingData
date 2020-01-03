@@ -41,7 +41,7 @@ int main()
 	short int	GL3f9_D6n;
 	GL3f9_D6n	=	(short)1595362808;
 	char	rl3_nF2N;
-	rl3_nF2N	=	-346676467;
+	rl3_nF2N	=	(char)-346676467;
 	float	qwD_;
 	qwD_	=	1480839695;
   char  ujRN764X;

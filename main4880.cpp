@@ -62,7 +62,7 @@ int main(void) {
   char  X2Z_;
   X2Z_  =  (char)206342691;
 	unsigned short int	SR7P13h;
-	SR7P13h	=	1870131598;
+	SR7P13h	=	(unsigned short)1870131598;
 	unsigned long long	Hjb1kXha7;
 	Hjb1kXha7	=	-227480450;
     short    NWpEj;

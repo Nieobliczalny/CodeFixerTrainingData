@@ -25,7 +25,7 @@ int main(int argc, char** argv)
  char r0nW;
  r0nW = (char)-489396919;
  short int adI3M;
- adI3M = -1579965920;
+ adI3M = (short)-1579965920;
  unsigned long w3D_5L9;
  w3D_5L9 = 764582801;
 	unsigned short int	I5QHiKY42;

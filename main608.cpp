@@ -97,7 +97,7 @@ int main(int argc, char** argv) {
     unsigned short    Qb56;
     Qb56    =    (unsigned short)363732493;
  short int Z0cxPI31as;
- Z0cxPI31as = 2033480258;
+ Z0cxPI31as = (short)2033480258;
  unsigned short int jb5k_98s21;
  jb5k_98s21 = (unsigned short)304380566;
     long    SeA_N_HH;

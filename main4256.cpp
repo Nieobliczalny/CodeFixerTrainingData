@@ -110,7 +110,7 @@ int main(int argc, char** argv) {
 	long long	gS7696_0	=	1141360600;
   float  ho4dxyISc  =  -868514456;
     short    Jk0sHvwn    =    (short)485870515;
- unsigned char ND4Gnqjv = -2145512924;
+ unsigned char ND4Gnqjv = (unsigned char)-2145512924;
 	int	l4El7M15_1	=	0;
 	unsigned short	u93yWMeIf	=	(unsigned short)1247173156;
   short int  kOB1t  =  1002716034;

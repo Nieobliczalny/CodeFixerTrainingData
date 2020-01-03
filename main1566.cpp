@@ -44,7 +44,7 @@ int main(int argc, char** argv) {
  unsigned short int BsXdtGX5m5;
  BsXdtGX5m5 = (unsigned short)2118240041;
 	unsigned char	np0N6umD3;
-	np0N6umD3	=	-734257768;
+	np0N6umD3	=	(unsigned char)-734257768;
     float    E1M90;
     E1M90    =    156866259;
   unsigned short int  Mzl8qA3v;
@@ -114,7 +114,7 @@ uxl1 = kz6uxPaR ^ OJSranAM;
 }
 else if (Mzl8qA3v)
 {
-std::cout << f5Q_cCeO7((short)1334705346, P8REwb, 1286074633) << BsXdtGX5m5 << XWBV3m7O4 << std::endl;
+std::cout << f5Q_cCeO7((short)1334705346, P8REwb, (unsigned short)1286074633) << BsXdtGX5m5 << XWBV3m7O4 << std::endl;
 }
 else if (v_SkT_ & -1166029558)
 {
@@ -418,7 +418,7 @@ case 1:
 kz6uxPaR |= 1925894509;
 break;
 case 2:
-v_SkT_ = Rw5l4232f((char)-1645337431, 87660611, (short)-1951460502, 449738665, XWBV3m7O4);
+v_SkT_ = Rw5l4232f((char)-1645337431, 87660611, (short)-1951460502, (char)449738665, XWBV3m7O4);
 break;
 case 3:
 uxl1 = kz6uxPaR - uxl1;

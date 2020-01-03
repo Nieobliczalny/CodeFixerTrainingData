@@ -55,7 +55,7 @@ int main(void) {
  short S5_c = (short)-937701598;
   long  tLb1s  =  -840119011;
 	unsigned short int	lXEnU_N	=	(unsigned short)-20115226;
-	unsigned short int	VfoKb	=	-1094517347;
+	unsigned short int	VfoKb	=	(unsigned short)-1094517347;
 	long double	sB73N	=	354552830;
 	long	Pe02J201b	=	-1647551209;
     short    npIojZ0    =    (short)-158340433;

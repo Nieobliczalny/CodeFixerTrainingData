@@ -197,7 +197,7 @@ case 'G':
 c76ncruCZ = E_HvFMk((char)155018200, ywMI, 2144771784, (unsigned short)-109841246);
 break;
 default:
-lt_aJH1N = E_HvFMk((char)1675077407, -1648654651, mVM7dBq0, 395575617);
+lt_aJH1N = E_HvFMk((char)1675077407, -1648654651, mVM7dBq0, (unsigned short)395575617);
 break;
 }
 }

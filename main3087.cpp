@@ -557,7 +557,7 @@ case 'e':
 iprpFx = u06B6t6uX_((unsigned short)-219088509, Cy_0nO6jr9, (unsigned short)1397066793, (unsigned short)1854642963);
 break;
 case 'f':
-TO6gtf1g6 = IGaCgA_97X(1797851991);
+TO6gtf1g6 = IGaCgA_97X((short)1797851991);
 break;
 case 'g':
 fBl4K_l %= 1265470771;

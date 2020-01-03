@@ -173,7 +173,7 @@ case 3:
 loQU8A = (int)abs(OEsL4);
 break;
 case 4:
-T9KgHNUvn_ = OETevzk((unsigned short)-2138639680, 1735681515, (unsigned short)413009071, H6KK, 1965649012);
+T9KgHNUvn_ = OETevzk((unsigned short)-2138639680, 1735681515, (unsigned short)413009071, H6KK, (char)1965649012);
 break;
 case 5:
 KqyY0T -= r21515U4;

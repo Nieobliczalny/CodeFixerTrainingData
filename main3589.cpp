@@ -174,7 +174,7 @@ int main(int argc, char** argv) {
     short int    o4hk07;
     o4hk07    =    (short)-2111446960;
   short  qN911Sj;
-  qN911Sj  =  -395480535;
+  qN911Sj  =  (short)-395480535;
   unsigned char  s2Z3;
   s2Z3  =  (unsigned char)747823841;
 	unsigned long long	Ic9Uz6;

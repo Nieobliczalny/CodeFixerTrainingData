@@ -372,7 +372,7 @@ case 'f':
 e56Z80 += zUTw;
 break;
 case 'g':
-FQg61Y_1Zp = M0blq4O_(WI4hP72, (unsigned short)259480265, -274772857, -96699404);
+FQg61Y_1Zp = M0blq4O_(WI4hP72, (unsigned short)259480265, (short)-274772857, -96699404);
 break;
 }
 }

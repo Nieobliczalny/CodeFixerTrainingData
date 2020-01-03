@@ -28,7 +28,7 @@ int main(int argc, char** argv)
  A7oG093X = (unsigned short)-1660746184;
  A9Zs_b_Se = (unsigned short)-619528392;
  wxHf6Nv7vK = (unsigned short)1837952462;
- A053xQgG = 1287047996;
+ A053xQgG = (unsigned short)1287047996;
  oyo96 = 1847770546;
  ekP1B = -630432571;
  zX08Gld58 = -684543752;
@@ -38,7 +38,7 @@ int main(int argc, char** argv)
  RWu_TkS8 = (unsigned short)1646911123;
  O8ib = (unsigned short)-876895461;
  xNh5cs0gPg = (unsigned short)831061739;
- LXYd = -1976551376;
+ LXYd = (unsigned short)-1976551376;
  jn87W14 = 1682905289;
  CL1Tz = -1166543673;
  R_RJ75 = 641849531;
@@ -48,7 +48,7 @@ int main(int argc, char** argv)
  nJ1GmY = (unsigned short)-2145372221;
  bMl_ = (unsigned short)-782009528;
  R1P74z7Bu = (unsigned short)1423909458;
- Sdt362N_6 = -1753737782;
+ Sdt362N_6 = (unsigned short)-1753737782;
  T8HB = -2028897190;
  Xaau = -451407220;
  QPL07 = -1321146532;
@@ -58,7 +58,7 @@ int main(int argc, char** argv)
  UY387Y40FO = (unsigned short)-1943086304;
  WTF7N = (unsigned short)75118878;
  f7N0qW = (unsigned short)1835978048;
- WgfiHG = 202754069;
+ WgfiHG = (unsigned short)202754069;
  Kp_ez1 = 1553103222;
  swO7I4O = -45572097;
  iB50 = -2062387134;
@@ -68,7 +68,7 @@ int main(int argc, char** argv)
  cp7795N = (unsigned short)-800810855;
  I6kSl63 = (unsigned short)-1379939672;
  Esc82 = (unsigned short)1322736376;
- HHN93_UlY = -2015808050;
+ HHN93_UlY = (unsigned short)-2015808050;
  aL9b9Qlg = -307749296;
  m6Wb12 = 892144945;
  o78SDIMy = -1145598557;
@@ -78,7 +78,7 @@ int main(int argc, char** argv)
  ASI1oC311U = (unsigned short)-1953813531;
  j3_pgA3Pd = (unsigned short)954683855;
  E_5ETnJR = (unsigned short)174015916;
- xR46 = 259284560;
+ xR46 = (unsigned short)259284560;
  K091B = -251848891;
  wV1Qo = -1876063866;
  ZmdM = 507218464;
@@ -88,7 +88,7 @@ int main(int argc, char** argv)
  DN_Kc5 = (unsigned short)1569566277;
  s0KASZ = (unsigned short)-183858767;
  vv7EsY = (unsigned short)-332236678;
- HM4V0zv = 1362316714;
+ HM4V0zv = (unsigned short)1362316714;
  AeY3YW3 = 2039897158;
  xt0lEJ_K = -1869437319;
  kAqu2i_3B = -1627274950;

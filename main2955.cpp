@@ -257,7 +257,7 @@ case 4:
 rCcJ40a0 = oM98(Cxhg, rCcJ40a0, zTG83, (short)-1735427994);
 break;
 case 5:
-dd_22Lix_P = rK_UNdZi(rCcJ40a0, -1779353415, 1135788666, b583n__h_9);
+dd_22Lix_P = rK_UNdZi(rCcJ40a0, (unsigned short)-1779353415, 1135788666, b583n__h_9);
 break;
 case 6:
 CH_M0_59g3 = rK_UNdZi(1191991180, -515079833, F3mZlT, zTG83);

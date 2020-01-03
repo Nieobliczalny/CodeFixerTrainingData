@@ -27,7 +27,7 @@ int main(void) {
 	tshLG	=	(char)676598504;
 	YIxW3	=	(char)1420321801;
 	s4TpZb8h	=	(char)101658324;
-	oiSDr	=	-993808185;
+	oiSDr	=	(char)-993808185;
 	Z1hs_2ViZ	=	-1652271696;
 	Td_lri9	=	-154874160;
 	i72Ghx79oA	=	-1100223253;
@@ -37,7 +37,7 @@ int main(void) {
 	bg9K9dHOS	=	(char)-1343748820;
 	Q31heAg1	=	(char)778115945;
 	Rfdy4cO3	=	(char)-836425466;
-	o_ut4UN4ji	=	214898146;
+	o_ut4UN4ji	=	(char)214898146;
 	yopx_JHV	=	1837404543;
 	ws68	=	768183711;
 	H6TdQ__G	=	-1026336244;
@@ -47,7 +47,7 @@ int main(void) {
 	HRuo7eKh7h	=	(char)1750479272;
 	gxT5RIR	=	(char)2124277374;
 	DT6zh24WF	=	(char)892777750;
-	Ym91H25CG	=	1336528845;
+	Ym91H25CG	=	(char)1336528845;
 	a6L3jtr01	=	-1566079191;
 	wO_Wmv	=	-1992726458;
 	N1Fr827F	=	-1107572287;
@@ -58,7 +58,7 @@ int main(void) {
 	ZyYy3M5	=	(char)735386833;
 	EU_oF7T	=	(char)-757082730;
 
-eB3vpX = T0LY3IYP_Z(Td_lri9, 1346045318);
+eB3vpX = T0LY3IYP_Z(Td_lri9, (char)1346045318);
 std::cout << T0LY3IYP_Z(-1728744931, YQSsaO8) / gPP8aJ << std::endl;
 {
 int i = 0;

@@ -141,7 +141,7 @@ int i = 0;
 do
 {
 ++i;
-cout << U0xG70q(Bj71, d6SEs0t6, (unsigned short)1473664367) << N73z56(Bj71, d6SEs0t6, -1965858185, bIjW6AAss) << endl;
+cout << U0xG70q(Bj71, d6SEs0t6, (unsigned short)1473664367) << N73z56(Bj71, d6SEs0t6, (char)-1965858185, bIjW6AAss) << endl;
 }
 while (i < 2);
 }

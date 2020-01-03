@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
  short S8494p = 0;
     short    ImKoW    =    (short)-1228181726;
     short    ejg8_Vbp3j    =    (short)1064815626;
-  short int  Tk1P  =  166477209;
+  short int  Tk1P  =  (short)166477209;
  long p03YyU = 0;
   unsigned short  t032_og  =  (unsigned short)259291031;
     unsigned long long    C3FN3lADd    =    -290247012;

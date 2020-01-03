@@ -91,7 +91,7 @@ case 'a':
 aHli5FYOfN = kYP4_J((unsigned char)1965540195, (unsigned char)780553611, 1144151925, z4U5D50, rG2Sl);
 break;
 case 'b':
-l2__ = kYP4_J((unsigned char)-28367761, (unsigned char)-1598229283, -1554107701, -1096525199, -1629062764);
+l2__ = kYP4_J((unsigned char)-28367761, (unsigned char)-1598229283, -1554107701, -1096525199, (unsigned short)-1629062764);
 break;
 case 'c':
 Nt1L3SF94 &= A2Krmy68Tp;
@@ -423,7 +423,7 @@ case 'c':
 l2__ = kYP4_J((unsigned char)-841913468, dUIq, lBh1886fd_, x_pg_W, (unsigned short)1692554586);
 break;
 case 'd':
-l2__ = kYP4_J((unsigned char)-917996271, (unsigned char)537526063, 63448098, -996683122, -171730731);
+l2__ = kYP4_J((unsigned char)-917996271, (unsigned char)537526063, 63448098, -996683122, (unsigned short)-171730731);
 break;
 case 'e':
 xBmqJ69_v = clim(-267104568);

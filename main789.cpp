@@ -83,7 +83,7 @@ case 6:
 SnT_WUri5 = ZMTd_x_(SnT_WUri5, (short)37071006, (char)1075043511);
 break;
 case 7:
-das1Q = ZMTd_x_(Txcy0EA, n5Fs2_F9F, 923196314);
+das1Q = ZMTd_x_(Txcy0EA, n5Fs2_F9F, (char)923196314);
 break;
 case 8:
 zMvl = (Txcy0EA <= 1274520186) ? PxMUJ7G0M : DBA2D;

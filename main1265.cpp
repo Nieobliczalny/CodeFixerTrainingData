@@ -38,7 +38,7 @@ int main(void)
   char  nvLg  =  0;
  short EYanNS6 = (short)-524578963;
 	short int	KlHM	=	(short)-215910958;
-  char  tb_PH5  =  -108899756;
+  char  tb_PH5  =  (char)-108899756;
  long long U_DI1 = 0;
 
 D38dD85JR = Z952N(D38dD85JR, tbY_);

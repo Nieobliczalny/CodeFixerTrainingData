@@ -814,7 +814,7 @@ case 'e':
 SN9jw15 = JfF_KFUqi(LOsB5rqYb_, (char)-1733962285, IWuqjE_5M, 1494673591, (char)987525295);
 break;
 case 'f':
-kY5Wwx0 = JfF_KFUqi(727789359, -1945496148, M4dIb1, SN9jw15, MbCynoG64);
+kY5Wwx0 = JfF_KFUqi(727789359, (char)-1945496148, M4dIb1, SN9jw15, MbCynoG64);
 break;
 case 'g':
 SN9jw15 -= p4j2tuq;

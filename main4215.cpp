@@ -65,7 +65,7 @@ int main(int argc, char** argv) {
  unsigned short int rD0Tb;
  rD0Tb = (unsigned short)1025730974;
 	char	L1aZj64;
-	L1aZj64	=	26754069;
+	L1aZj64	=	(char)26754069;
  char euc6448Tq3;
  euc6448Tq3 = (char)1333762732;
   char  ZqcW_OHHD;
@@ -492,7 +492,7 @@ else
 {
 if (ON5qh != -1414972185)
 {
-H___4dayM = Hc6L2_i_(rD0Tb, 1623477783, n95BiWd0, -1181041156, O1QvC);
+H___4dayM = Hc6L2_i_(rD0Tb, 1623477783, n95BiWd0, (unsigned char)-1181041156, O1QvC);
 }
 }
 }

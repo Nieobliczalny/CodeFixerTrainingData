@@ -269,7 +269,7 @@ if (E5718PH3)
 cout << YZ5p << pk00c7So(y_2hTC9K, -1754331800, (short)-139917958) << u0W5D86fT5(y_2hTC9K, -1774866740, B260DBYw8, (unsigned char)1161074420, 2116971588) << endl;
 }
 
-E5718PH3 = pk00c7So(-40847312, h3447Gp, 2132262596) ^ UV82awaWqz;
+E5718PH3 = pk00c7So(-40847312, h3447Gp, (short)2132262596) ^ UV82awaWqz;
 {
 int i = 2;
 while (i >= 0)

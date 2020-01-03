@@ -29,7 +29,7 @@ int main(void)
 	double	Gk77CgaM2	=	642376040;
  char uU5W2FxzV = (char)-1577120806;
  unsigned int A57Kz = -1981519735;
- unsigned char CcN7I_Qtn9 = -1937826139;
+ unsigned char CcN7I_Qtn9 = (unsigned char)-1937826139;
     short int    MKAhw    =    920353406;
  unsigned long L3NyHNUbYb = 879266485;
   long double  W593b3Cf3  =  1312112092;
@@ -42,7 +42,7 @@ int main(void)
 	unsigned long	yL922	=	578792393;
 	int	nh0ny	=	-499290604;
     long    SgsT    =    -617555516;
- unsigned short csyf_Ms6KY = -1508541449;
+ unsigned short csyf_Ms6KY = (unsigned short)-1508541449;
   short  f9Q_RxLWe  =  (short)-34003263;
  double Ly8r283H4 = -257020097;
   unsigned int  F0O_  =  24233474;
@@ -55,7 +55,7 @@ int main(void)
  unsigned short Q6ZK_U = (unsigned short)891630161;
 	unsigned short int	QH6wzJjoy	=	(unsigned short)-1564953971;
     long long    Rr18_X03FL    =    -1111172872;
- unsigned short aoAg = -1517070524;
+ unsigned short aoAg = (unsigned short)-1517070524;
     unsigned char    yFee    =    -1884403170;
   double  zr9IpzB3Z3  =  -486338410;
     short    G51K    =    (short)525810482;
@@ -320,7 +320,7 @@ for (int i = 0; i < 4; ++i)
 {
 if (NFo329N62 & -80406193)
 {
-std::cout << ky1n(j4N4J95A, C840, (char)1571998319) << ky1n(j4N4J95A, C840, 1870084704) << yL922 << ky1n(-60536677, 861595735, r_8zVK) << ky1n(451240791, -1284546313, r_8zVK) << std::endl;
+std::cout << ky1n(j4N4J95A, C840, (char)1571998319) << ky1n(j4N4J95A, C840, (char)1870084704) << yL922 << ky1n(-60536677, 861595735, r_8zVK) << ky1n(451240791, -1284546313, r_8zVK) << std::endl;
 }
 }
 

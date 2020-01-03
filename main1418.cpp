@@ -105,7 +105,7 @@ cout << R7jmOiu((unsigned short)-743471550, P_YY8Wsq, op8L9_Ofw) << "b_EHY353_" 
 }
 else if (nz8ee > qa6LL)
 {
-cout << cOQTKlBw6h() << q666 << "O6wYy_2Q5v" << R7jmOiu(-969905360, -143514534, op8L9_Ofw) << "kS65744" << endl;
+cout << cOQTKlBw6h() << q666 << "O6wYy_2Q5v" << R7jmOiu((unsigned short)-969905360, -143514534, op8L9_Ofw) << "kS65744" << endl;
 }
 else
 {

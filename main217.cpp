@@ -195,7 +195,7 @@ case 3:
 bVq33n7_ = (int)ceil(BOP53);
 break;
 case 4:
-xQj_qWX = QnbA1r2d(-1227247442, 1939705666, x3RVm, 1213448945, OD6z5u);
+xQj_qWX = QnbA1r2d(-1227247442, 1939705666, x3RVm, (short)1213448945, OD6z5u);
 break;
 case 5:
 Nk2ZuWma = QnbA1r2d(-1171382819, APjc1, -334585323, (short)1428012248, -1075225589);

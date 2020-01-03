@@ -53,7 +53,7 @@ int main()
 	unsigned short int	BfbINGG;
 	BfbINGG	=	(unsigned short)1205853983;
     unsigned short    RLYjVID48;
-    RLYjVID48    =    -529557040;
+    RLYjVID48    =    (unsigned short)-529557040;
 	unsigned long	T3Q3;
 	T3Q3	=	1706360974;
     unsigned char    zcB1;

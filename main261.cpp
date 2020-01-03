@@ -40,7 +40,7 @@ int main(void) {
     unsigned short    b3NY47    =    (unsigned short)992301372;
   unsigned int  A2_1B_5D97  =  1096754418;
     double    T0MYL    =    -1630089757;
-  unsigned char  ibX27Hf  =  767962185;
+  unsigned char  ibX27Hf  =  (unsigned char)767962185;
   double  V90J  =  1283132424;
   unsigned short int  v0__ACG5I4  =  (unsigned short)149189988;
     short int    C1_2    =    (short)2088417136;

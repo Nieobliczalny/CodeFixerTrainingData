@@ -689,7 +689,7 @@ Qs76y96hn = iNQ_((unsigned short)-1191197492, (unsigned short)1621618137, iDLXQl
 }
 else
 {
-GVL6A3P = iNQ_((unsigned short)1729172704, r0v_e4LfYT, Tr_E, 1299485170);
+GVL6A3P = iNQ_((unsigned short)1729172704, r0v_e4LfYT, Tr_E, (unsigned char)1299485170);
 }
 }
 }

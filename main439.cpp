@@ -490,7 +490,7 @@ sE1d2hM2HT = Mw3_((unsigned char)2028480962, (short)-292282173, jBV5X2Yu4);
 }
 else
 {
-sE1d2hM2HT = Mw3_(-933831505, -278802270, fYtGw9jAJJ);
+sE1d2hM2HT = Mw3_((unsigned char)-933831505, -278802270, fYtGw9jAJJ);
 }
 }
 catch (int& errorCode)

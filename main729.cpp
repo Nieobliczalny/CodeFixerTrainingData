@@ -31,7 +31,7 @@ int main(int argc, char** argv) {
   long  OCBd72fKz  =  2138018575;
 	float	E2ckBTc1	=	1337477480;
   unsigned short  rShiS9Biqi  =  (unsigned short)-245130307;
- unsigned short int BY7HDccW = -1830596419;
+ unsigned short int BY7HDccW = (unsigned short)-1830596419;
 	unsigned short int	Um2HNZ5vP	=	(unsigned short)-828841243;
 	unsigned long long	p_79Y	=	1069621408;
 

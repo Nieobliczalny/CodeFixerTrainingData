@@ -58,7 +58,7 @@ else
 std::cout << "Gh2uFKl6r1" << "ci9_f962" << "cGn0nPY5" << S_Xx(k14Q1WlG, 142539646, n2os, ipm2) << S_Xx(-454456830, 759575369, n2os, (short)1316977213) << std::endl;
 }
 }
-std::cout << "N2yM" << "OYc38A" << S_Xx(1040275216, qZe_, n2os, ipm2) << zc2CT_ZS(1067907873, 2099224120, -24282926) << std::endl;
+std::cout << "N2yM" << "OYc38A" << S_Xx(1040275216, qZe_, n2os, ipm2) << zc2CT_ZS((unsigned short)1067907873, 2099224120, -24282926) << std::endl;
 if (ipm2 > aOh3RLb18)
 {
 switch (qZe_)
@@ -279,7 +279,7 @@ t8UbN_Y7 = cz4MX5W2((char)1216883860, (short)-568153908, CrNTPdM_e, -517626279, 
 }
 else if ((ipm2 >= -781276630) || (wrkg == Q0ZMS57))
 {
-fy5EI9S = zc2CT_ZS(-1906539171, fy5EI9S, -805741354);
+fy5EI9S = zc2CT_ZS((unsigned short)-1906539171, fy5EI9S, -805741354);
 }
 else
 {
@@ -380,7 +380,7 @@ case 'a':
 t8UbN_Y7 = cz4MX5W2((char)1074459052, (short)-930248449, (char)-1612271278, -1057496024, qZe_);
 break;
 case 'b':
-F6es1tWKn = cz4MX5W2((char)-808661999, F9A2M9_T2N, -1060436232, ov3L, qZe_) | 39511670;
+F6es1tWKn = cz4MX5W2((char)-808661999, F9A2M9_T2N, (char)-1060436232, ov3L, qZe_) | 39511670;
 break;
 case 'c':
 fy5EI9S = h8j99LhK + 1329396051;
@@ -407,7 +407,7 @@ case 'j':
 k14Q1WlG = n2os * 763920035;
 break;
 default:
-FVl_to = zc2CT_ZS((unsigned short)531007639, (unsigned short)617237112, -1925081421);
+FVl_to = zc2CT_ZS((unsigned short)531007639, (unsigned short)617237112, (unsigned short)-1925081421);
 break;
 }
 }
@@ -557,7 +557,7 @@ case 1:
 XwONqle0 = zc2CT_ZS((unsigned short)777186893, ov3L, (unsigned short)1145227480);
 break;
 case 2:
-aOh3RLb18 = S_Xx(-1260987897, h8j99LhK, 1051053374, ov3L);
+aOh3RLb18 = S_Xx(-1260987897, h8j99LhK, (unsigned short)1051053374, ov3L);
 break;
 case 3:
 n2os = x34Q_3_Ec >> 1864757735;

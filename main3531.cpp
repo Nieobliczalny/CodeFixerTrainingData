@@ -41,7 +41,7 @@ int main(void) {
     S_9Qaob3    =    (unsigned short)1591930798;
     BNNHm8HT    =    (unsigned short)-796269658;
     JjmELf    =    (unsigned short)-1564386215;
-    xyBt0D    =    1156401138;
+    xyBt0D    =    (unsigned short)1156401138;
     F0G_bleb_    =    1572242597;
 
 if (Ms71Hf0 <= -782573539)

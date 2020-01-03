@@ -37,7 +37,7 @@ int main(void) {
   char  l4AJf5N;
   l4AJf5N  =  (char)1141430081;
   unsigned char  qY44f;
-  qY44f  =  985987028;
+  qY44f  =  (unsigned char)985987028;
   long long  TyKv904P;
   TyKv904P  =  1238594779;
 

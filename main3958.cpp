@@ -31,7 +31,7 @@ int main(void)
  char o3sN = (char)378499246;
     int    yU_44RC    =    -726806975;
  short int u5m0A5 = (short)-1904989867;
-    short int    H2n21u2    =    1939243909;
+    short int    H2n21u2    =    (short)1939243909;
   long double  Gj80  =  19033473;
 	unsigned short	y95mr	=	(unsigned short)907680785;
     long double    YdS9    =    432415443;

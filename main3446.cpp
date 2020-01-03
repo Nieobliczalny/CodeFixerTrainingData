@@ -25,7 +25,7 @@ int main(int argc, char** argv)
     O8pddez_OK    =    (unsigned short)-2105253335;
     rw8PxEzw7    =    (unsigned short)-1822035187;
     zoOq    =    (unsigned short)45453080;
-    C4E14E72    =    907220743;
+    C4E14E72    =    (unsigned short)907220743;
     EWkdtIjFd    =    -1954341398;
     Xsp28    =    -990132645;
     f7CfKR3    =    -1792671690;
@@ -35,7 +35,7 @@ int main(int argc, char** argv)
     Bpch8J    =    (unsigned short)641812341;
     EzVo8Y_JQ    =    (unsigned short)1624421077;
     y9800Q4Es    =    (unsigned short)1873925418;
-    YJsPt5    =    1704591508;
+    YJsPt5    =    (unsigned short)1704591508;
     f8j2lfG4a    =    1085193017;
     Sb_JC_    =    566318798;
     EsO6Q3iw    =    1457367607;
@@ -216,7 +216,7 @@ case 4:
 EWkdtIjFd = zt_gc3cBo(EWkdtIjFd, (unsigned short)1468603447);
 break;
 case 5:
-EzVo8Y_JQ = zt_gc3cBo(-1398520542, VwOx);
+EzVo8Y_JQ = zt_gc3cBo((unsigned short)-1398520542, VwOx);
 break;
 case 6:
 lhlip14 = zt_gc3cBo(f92yckRFVv, (unsigned short)657646112);
@@ -277,7 +277,7 @@ case 1:
 lhlip14 = zt_gc3cBo((unsigned short)592087154, C4E14E72);
 break;
 case 2:
-rw8PxEzw7 = w2ykE19(rw8PxEzw7, r7Bs65LS, (unsigned char)-600845640, -263588033, y9800Q4Es);
+rw8PxEzw7 = w2ykE19(rw8PxEzw7, r7Bs65LS, (unsigned char)-600845640, (short)-263588033, y9800Q4Es);
 break;
 case 3:
 VwOx = lhlip14 >> EzVo8Y_JQ;
@@ -435,7 +435,7 @@ std::cout << D5kyEj2(f7CfKR3, (unsigned short)-1546526968, (unsigned short)14249
 }
 else
 {
-f7CfKR3 = jc8N6ag(-431127195, -776841884) ^ 813689369;
+f7CfKR3 = jc8N6ag(-431127195, (char)-776841884) ^ 813689369;
 }
 }
 f92yckRFVv = jc8N6ag(y9800Q4Es, -3017073);

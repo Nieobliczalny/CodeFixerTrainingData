@@ -42,7 +42,7 @@ int main(int argc, char** argv) {
 	short	xyX9;
 	xyX9	=	(short)522916129;
  unsigned short int d8HhQI;
- d8HhQI = 1007712651;
+ d8HhQI = (unsigned short)1007712651;
   long  h27TFTFd3c;
   h27TFTFd3c  =  0;
  long mgXmzQa_;

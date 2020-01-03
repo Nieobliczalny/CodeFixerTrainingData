@@ -14,7 +14,7 @@ int main()
 	S2KKvb	=	(unsigned char)-895174397;
 	tkBqq	=	(unsigned char)-1891210105;
 	hTXB0r	=	(unsigned char)1266855855;
-	TMx7o0	=	-1865710141;
+	TMx7o0	=	(unsigned char)-1865710141;
 	enTx1R	=	1235402892;
 	Q_6tKu7Fl	=	215972398;
 	gX7wQKxk	=	1396343861;

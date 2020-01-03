@@ -78,7 +78,7 @@ case 3:
 V2N6 = Yf6ON3APc((unsigned short)-1540864843, EPaf4ml, J0pMX3, -1058779158, 1784036437);
 break;
 case 4:
-PsTx = wM2__StH3(PsTx, -661330232, NdXTco059n, -202923400, 1010007867);
+PsTx = wM2__StH3(PsTx, (char)-661330232, NdXTco059n, -202923400, 1010007867);
 break;
 case 5:
 Zsv_4SCv = (int)floor(KbIL0m5H);

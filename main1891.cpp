@@ -325,7 +325,7 @@ case 4:
 qw515_N = JMs8l((short)-1864365304, (unsigned short)-2050202130, V260ZZ);
 break;
 case 5:
-V260ZZ = Xq5_j6n(V260ZZ, -948024247);
+V260ZZ = Xq5_j6n(V260ZZ, (short)-948024247);
 break;
 case 6:
 m3csG9_0U = Xq5_j6n(736712552, 1187886820);
@@ -382,7 +382,7 @@ if (nr257mz7UE)
 {
 if (DDX_uTlo <= o_jct)
 {
-cout << Xq5_j6n((unsigned char)-1323407377, (short)2094645217) << t_9VkCJY8 << JMs8l((short)-524321061, (unsigned short)1578728924, fWD283) << xcgk4O9 << L6oiCh(583418064, m3csG9_0U, fWD283, 136649356) << endl;
+cout << Xq5_j6n((unsigned char)-1323407377, (short)2094645217) << t_9VkCJY8 << JMs8l((short)-524321061, (unsigned short)1578728924, fWD283) << xcgk4O9 << L6oiCh(583418064, m3csG9_0U, fWD283, (unsigned short)136649356) << endl;
 }
 else if (((cd2fI7rq & 1840219110) || (g0R243 >= 740337381)) && (bkTw))
 {
@@ -441,7 +441,7 @@ break;
 }
 }
 cout << Xq5_j6n((unsigned char)-874006948, (short)90576655) << endl;
-cout << aA3PKJd46G << L6oiCh(nr257mz7UE, 1366866948, -417487135, -428934681) << L6oiCh(-856660035, V260ZZ, mZ_Wta, -1085254335) << Xq5_j6n(-235658367, V260ZZ) << endl;
+cout << aA3PKJd46G << L6oiCh(nr257mz7UE, (unsigned short)1366866948, -417487135, -428934681) << L6oiCh(-856660035, V260ZZ, mZ_Wta, -1085254335) << Xq5_j6n(-235658367, V260ZZ) << endl;
 for (int i = 6; i >= 0; i--)
 {
 uaYPbj = (unsigned int)(ekNv);

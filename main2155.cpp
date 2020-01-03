@@ -63,7 +63,7 @@ int main()
  unsigned char Yw75H1G_4 = (unsigned char)-1426672357;
 	short int	sL853srB	=	(short)-215083932;
     float    dCjg4Dc5    =    733923096;
- short u5F_ = 1299061444;
+ short u5F_ = (short)1299061444;
  long double kaXOP8 = 62034601;
     short int    l63k97_    =    (short)-159264061;
  short int j6hhE = 1723263880;
@@ -99,7 +99,7 @@ int main()
     long    DP2BHDJ781    =    1313777330;
   float  l1tdmt68  =  1452815418;
   unsigned char  rNr4hui  =  (unsigned char)-552530513;
- unsigned short N92G7r4ea = 872004324;
+ unsigned short N92G7r4ea = (unsigned short)872004324;
     unsigned short int    J3j1fHnnl    =    -1091302226;
     double    T0J7ZWc    =    -360307247;
     long    uwQ_R0946    =    1417748393;
@@ -136,7 +136,7 @@ int main()
     double    lS1g    =    -503273837;
 
 l63k97_ = (short int)(IvUV5 + (-204134483));
-DP2BHDJ781 = J7A2_tO0((short)-982123730, -89242777, FrKO);
+DP2BHDJ781 = J7A2_tO0((short)-982123730, (unsigned short)-89242777, FrKO);
 if ((J6WjR1trCO) && (F2W5msw2 >= 459574885))
 {
 std::cout << "ozY6" << Q_Sv << "j0tm1" << dDeEVyM3E() << std::endl;

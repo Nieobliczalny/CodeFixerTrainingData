@@ -61,7 +61,7 @@ int main()
     char    S3xzc13nj1    =    (char)1393779122;
   unsigned short int  DS7x  =  (unsigned short)1587703;
     short int    vAWY1j    =    (short)-1652979501;
-    short    zKPY_V_    =    962529785;
+    short    zKPY_V_    =    (short)962529785;
 
 {
 int i = 5;

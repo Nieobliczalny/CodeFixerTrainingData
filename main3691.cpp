@@ -227,7 +227,7 @@ case 'e':
 gX457_ |= 209403851;
 break;
 case 'f':
-xZKC = Iwgt172Vm0((unsigned char)-220970077, 2091289195, 278970053);
+xZKC = Iwgt172Vm0((unsigned char)-220970077, (unsigned short)2091289195, 278970053);
 break;
 case 'g':
 MX55eh1NjT = siy_hU((short)-288037277);

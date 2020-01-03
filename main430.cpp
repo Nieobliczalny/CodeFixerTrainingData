@@ -24,7 +24,7 @@ int main(int argc, char** argv)
  Lug_pH = (unsigned short)942677865;
  JTMHp2F_k = (unsigned short)1751830499;
  r7I_8 = (unsigned short)1736058704;
- zIeV_A2Y = -984193902;
+ zIeV_A2Y = (unsigned short)-984193902;
  opMD4Fix_8 = 1245239745;
  NH_ohJ = -2135339161;
  rL7L_so = 214506153;

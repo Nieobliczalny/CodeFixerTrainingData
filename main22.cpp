@@ -46,6 +46,7 @@ while (k < 2);
 }
 else
 {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
 cout << "XTD02" << tu42v6(MFvIx, 148052563, 980461495, 880362477, QKt_hXDvJ) << "J6ySeH" << tu42v6(-1665901981, Rfh1yiU, -80945975, 1462216468, QKt_hXDvJ) << tu42v6(665763118, 2022364969, -1704702337, -598140169, -640941196) << endl;
 }
 }
@@ -104,7 +105,7 @@ else
 {
 if (za8703GaVK & 1328984472)
 {
-k42b1ziW = tu42v6(r98Bq14K, l3WKr21p, (unsigned char)1091193836, -1978307737, 1706866380);
+k42b1ziW = tu42v6(r98Bq14K, l3WKr21p, (unsigned char)1091193836, (short)-1978307737, 1706866380);
 }
 else if (X83asA2X != -1491019108)
 {
@@ -181,7 +182,7 @@ k42b1ziW = tu42v6(BKlFFV, WEzV3vnMa, (unsigned char)874893192, (short)-132404390
 break;
 case 'c':
 case 'C':
-k42b1ziW = tu42v6(p1OdP_9S_O, MFvIx, -1240860291, 358337828, 1854972477);
+k42b1ziW = tu42v6(p1OdP_9S_O, MFvIx, (unsigned char)-1240860291, 358337828, 1854972477);
 break;
 case 'd':
 case 'D':
@@ -204,7 +205,7 @@ if (((r98Bq14K & 636218145) || (MFvIx < WEzV3vnMa)) && (Rfh1yiU <= UbkdNef))
 switch (BKlFFV)
 {
 case 0:
-r98Bq14K = tu42v6(l3WKr21p, (short)-1798761456, X83asA2X, (short)-414342331, -1537275276) | YB3P4oiKN;
+r98Bq14K = tu42v6(l3WKr21p, (short)-1798761456, X83asA2X, (short)-414342331, (char)-1537275276) | YB3P4oiKN;
 break;
 case 1:
 k42b1ziW = tu42v6(1159877814, LT_PC0n, X83asA2X, (short)1267085905, (char)1267918262);
@@ -261,7 +262,7 @@ WEzV3vnMa |= r98Bq14K;
 break;
 case 'd':
 case 'D':
-k42b1ziW = tu42v6(WEzV3vnMa, (short)-28249330, (unsigned char)-1533571330, f_7w3, -710465316);
+k42b1ziW = tu42v6(WEzV3vnMa, (short)-28249330, (unsigned char)-1533571330, f_7w3, (char)-710465316);
 break;
 case 'e':
 case 'E':
@@ -411,7 +412,7 @@ k42b1ziW = tu42v6(-273844570, (short)-1582828664, YB3P4oiKN, f_7w3, (char)131587
 }
 else if (QU2ThyP > 2047931698)
 {
-k42b1ziW = tu42v6(k42b1ziW, QKt_hXDvJ, (unsigned char)-1540267576, (short)94598411, -237297807);
+k42b1ziW = tu42v6(k42b1ziW, QKt_hXDvJ, (unsigned char)-1540267576, (short)94598411, (char)-237297807);
 }
 else if (YB3P4oiKN)
 {
@@ -469,7 +470,7 @@ while (j < 2);
 }
 }
 
-p1OdP_9S_O = QU2ThyP / tu42v6(536044863, (short)1997551523, 1230802450, -1495693307, r98Bq14K);
+p1OdP_9S_O = QU2ThyP / tu42v6(536044863, (short)1997551523, (unsigned char)1230802450, -1495693307, r98Bq14K);
 return 0;
 }
 

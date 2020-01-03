@@ -98,7 +98,7 @@ int main() {
 
 cout << "I3400Xu" << ldNVQ((unsigned char)1178689553, (unsigned char)-923889304, cMvP27Ti, AeU8Ytxv6U, 2120888459) << "k75n81zn" << R7Oc2t60 << ldNVQ((unsigned char)1994233175, kxsg4, cMvP27Ti, (unsigned short)-286560870, UmTMnAF) << endl;
 
-ke030 = ldNVQ(G1DOi9, O0b36MH13, rNiH2t, -1755181215, -198857302);
+ke030 = ldNVQ(G1DOi9, O0b36MH13, rNiH2t, (unsigned short)-1755181215, -198857302);
 
 if (ut3KpreUg8 != UmTMnAF)
 {
@@ -159,7 +159,7 @@ ke030 = ldNVQ((unsigned char)-95782539, TS6_3V, I8pL2539_g, (unsigned short)-482
 break;
 case 'c':
 case 'C':
-ke030 = ldNVQ(1577834044, -1531107003, DP_d8DZ, Pi8D, 304915360);
+ke030 = ldNVQ((unsigned char)1577834044, -1531107003, DP_d8DZ, Pi8D, 304915360);
 break;
 default:
 cp476Mf = ldNVQ((unsigned char)-1877894285, vj_G6m8wV, DP_d8DZ, (unsigned short)-1948554672, ke030) + Sh_qHk__;
@@ -189,7 +189,7 @@ case 'c':
 ke030 = ldNVQ(C7Dpa8_2n, Lm01, gEYFFH459, (unsigned short)-1469530502, yZ984tPzg);
 break;
 case 'd':
-ke030 = ldNVQ(fzKJm_, -1284324044, -957802443, 689945917, HI5JN);
+ke030 = ldNVQ(fzKJm_, (unsigned char)-1284324044, -957802443, 689945917, HI5JN);
 break;
 case 'e':
 ke030 = ldNVQ(-1091056426, -253308612, cp476Mf, gEYFFH459, tLBcSDz);
@@ -270,7 +270,7 @@ else if (y0N_s1)
 {
 if (E192_T == -1508351862)
 {
-cout << ldNVQ(s16X2m2gR, mhuQy3O, (unsigned short)-659391549, 1661335847, -2140155224) << "SXx4Jwbfn" << ldNVQ(s16X2m2gR, -2031425812, ut3KpreUg8, KJuVza63ai, -2040253979) << Q2zF61 << endl;
+cout << ldNVQ(s16X2m2gR, mhuQy3O, (unsigned short)-659391549, (unsigned short)1661335847, -2140155224) << "SXx4Jwbfn" << ldNVQ(s16X2m2gR, -2031425812, ut3KpreUg8, KJuVza63ai, -2040253979) << Q2zF61 << endl;
 }
 else
 {
@@ -339,7 +339,7 @@ while (k < 3);
 }
 }
 }
-cout << ldNVQ((unsigned char)-1136126746, WcoNP, (unsigned short)-406212580, y0BBQJVd, dM_Y_HT) << ldNVQ((unsigned char)1446660235, (unsigned char)1529750676, goZ5, 660690979, dM_Y_HT) << "gX2P" << endl;
+cout << ldNVQ((unsigned char)-1136126746, WcoNP, (unsigned short)-406212580, y0BBQJVd, dM_Y_HT) << ldNVQ((unsigned char)1446660235, (unsigned char)1529750676, goZ5, (unsigned short)660690979, dM_Y_HT) << "gX2P" << endl;
 
 try
 {
@@ -379,7 +379,7 @@ case 4:
 ke030 = ldNVQ(rZ3K5, Lm01, (unsigned short)2073441362, G1DOi9, 817170048);
 break;
 case 5:
-ke030 = ldNVQ((unsigned char)1674944035, 417492143, -1334887102, 1219244507, 66501701);
+ke030 = ldNVQ((unsigned char)1674944035, (unsigned char)417492143, -1334887102, 1219244507, 66501701);
 break;
 }
 }
@@ -482,7 +482,7 @@ ym9YKblT_m = ldNVQ((unsigned char)-1024738568, (unsigned char)1346927579, x8swpH
 break;
 }
 }
-ke030 = ldNVQ((unsigned char)833588389, 1893806649, 1696209272, 1086942509, 39244300);
+ke030 = ldNVQ((unsigned char)833588389, (unsigned char)1893806649, 1696209272, 1086942509, 39244300);
 mhuQy3O = (unsigned long)(zQ68_);
 if (dvoY6qr)
 {
@@ -492,7 +492,7 @@ case 'a':
 ym9YKblT_m = ldNVQ((unsigned char)373602598, (unsigned char)-242860619, (unsigned short)1484801015, -679771252, 449989429);
 break;
 case 'b':
-ke030 = ldNVQ((unsigned char)1773658444, -1054207956, dvoY6qr, E192_T, -1418129822);
+ke030 = ldNVQ((unsigned char)1773658444, (unsigned char)-1054207956, dvoY6qr, E192_T, -1418129822);
 break;
 }
 }

@@ -54,7 +54,7 @@ int main(int argc, char** argv) {
   unsigned short  hJ2s;
   hJ2s  =  (unsigned short)-451646335;
   unsigned short  NEaP3_G;
-  NEaP3_G  =  1199726775;
+  NEaP3_G  =  (unsigned short)1199726775;
 	unsigned short	h_AW8m2V;
 	h_AW8m2V	=	0;
  double WL8LB_T;

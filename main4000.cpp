@@ -69,7 +69,7 @@ int main(int argc, char** argv)
  float DFk0 = 568788819;
     char    qGCA    =    (char)-1410152803;
  long double Mjre3 = 1514954218;
-	short int	oeZn	=	230870287;
+	short int	oeZn	=	(short)230870287;
  int XlpR2H = -565665996;
     short    ld4gK8    =    (short)687966062;
 	char	u3kGX834O	=	2106253803;
@@ -95,7 +95,7 @@ int main(int argc, char** argv)
     long long    SfoUTLN8    =    -1825431051;
 	unsigned short int	LjbX	=	(unsigned short)-593714137;
     short    ST94a    =    (short)1954328478;
-    short int    R0Hjvq49    =    2012399878;
+    short int    R0Hjvq49    =    (short)2012399878;
   short  q9v33o1xv  =  -774502262;
  short int pb0N = (short)888608256;
     char    D8AJa    =    -1167285722;
@@ -295,7 +295,7 @@ Mjre3 = T39CV_384Z((short)-2145452718, -726249220, (unsigned short)-996628412) +
 switch (a7x43Wgq)
 {
 case 0:
-pNB_Ka0Y = tLGemDnRL((short)-1972882625, (unsigned short)1287470325, -742148090, -1777713553);
+pNB_Ka0Y = tLGemDnRL((short)-1972882625, (unsigned short)1287470325, -742148090, (unsigned short)-1777713553);
 break;
 case 1:
 ld4gK8 = tLGemDnRL(ld4gK8, ORYb_5N0_C, -1438024749, p47c);

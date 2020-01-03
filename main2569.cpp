@@ -294,7 +294,7 @@ o_NOlKc = qPfXK((short)-1922928989, L21C58NlK, (short)197475071, f7R4e539OA);
 }
 else if ((pir72TI >= o_NOlKc) || (XL5nT <= sVniY_))
 {
-bLIg = qPfXK((short)604905330, bLIg, AI1N, 314893573);
+bLIg = qPfXK((short)604905330, bLIg, AI1N, (short)314893573);
 }
 else if ((UYPS & 1208605875) && (AI1N > pir72TI))
 {

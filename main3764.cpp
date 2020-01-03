@@ -21,7 +21,7 @@ int main()
  OAI5ZD13q6 = (unsigned char)1565813487;
  Pjdv0EY61n = (unsigned char)1202311769;
  ZF1eV4k = (unsigned char)21420501;
- xfuZ57vBK = -531311778;
+ xfuZ57vBK = (unsigned char)-531311778;
  Rpr600C0Y = 455073156;
  FUgiCVI = 2139529209;
  b7iLa0dj = 1693057374;

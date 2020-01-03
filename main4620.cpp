@@ -59,7 +59,7 @@ case 'e':
 RUQ77oR = Z6_m5I((unsigned char)905858200, PJ303aCuQ, ORc3RGY, (unsigned short)1074252473);
 break;
 case 'f':
-PJ303aCuQ = sW34OhF_R(yg3xIR, 1870804114, -224163269);
+PJ303aCuQ = sW34OhF_R(yg3xIR, 1870804114, (unsigned short)-224163269);
 break;
 default:
 dsGog3 &= 849138788;

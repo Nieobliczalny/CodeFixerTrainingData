@@ -515,7 +515,7 @@ xB6b84y6m = y1hJ4ys5O((short)1096192246, J_e0W3JKZh, (char)-1123810240, (short)-
 }
 else
 {
-VhKjk = y1hJ4ys5O(k00k9s0hqV, fUIbr_t, (char)-1988504416, 1230814339);
+VhKjk = y1hJ4ys5O(k00k9s0hqV, fUIbr_t, (char)-1988504416, (short)1230814339);
 }
 }
 }
@@ -1131,7 +1131,7 @@ case 1:
 xLB3un_cU = SCehy2(xLB3un_cU, (char)-1350600196);
 break;
 case 2:
-xB6b84y6m = y1hJ4ys5O((short)589861173, 39157906, (char)-1925012772, -2002222157);
+xB6b84y6m = y1hJ4ys5O((short)589861173, 39157906, (char)-1925012772, (short)-2002222157);
 break;
 }
 }

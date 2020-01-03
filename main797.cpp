@@ -309,7 +309,7 @@ std::cout << rDvdh5oe51((short)-1460495801, Vu624, (unsigned short)2115917752, (
 --i;
 }
 }
-std::cout << O3eX << Fy3epzMCI << O0rA7Ow95v << Sy1c5a7cVT(XBRO7, (short)548150947) << rDvdh5oe51(XBRO7, -1834023308, B31kQt, -86157267, FT8OM) << std::endl;
+std::cout << O3eX << Fy3epzMCI << O0rA7Ow95v << Sy1c5a7cVT(XBRO7, (short)548150947) << rDvdh5oe51(XBRO7, (unsigned char)-1834023308, B31kQt, -86157267, FT8OM) << std::endl;
 
 {
 int i = 0;

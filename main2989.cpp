@@ -41,7 +41,7 @@ int main(int argc, char** argv) {
     unsigned char    Y9X3    =    (unsigned char)1064949200;
 	unsigned short	kO0G3	=	(unsigned short)2112958819;
  unsigned short int Q5vojnQIzm = (unsigned short)1834278002;
-	short int	tocDY7BQ5h	=	-1024189271;
+	short int	tocDY7BQ5h	=	(short)-1024189271;
     long long    gbG140t34    =    1305687634;
  char CcL_ = -336467012;
  unsigned short int HhhZKl = 1863240350;
@@ -57,7 +57,7 @@ int main(int argc, char** argv) {
   unsigned short int  I3YCz99jMH  =  (unsigned short)-2132974539;
   unsigned short int  t0dyD  =  (unsigned short)386325930;
     double    FmMKvp    =    1588961579;
-  short  k33ZQ  =  443531856;
+  short  k33ZQ  =  (short)443531856;
   double  jV2_oI0Et  =  662914842;
     long long    s8m71b    =    1560316687;
  unsigned long long r31u0bk7gd = 920013300;
@@ -67,7 +67,7 @@ int main(int argc, char** argv) {
 	unsigned char	sMIvY	=	(unsigned char)143978851;
     double    XCFj    =    -414537566;
 	unsigned char	Br9NA83RR	=	(unsigned char)1894620230;
-	unsigned short	iZs8	=	-364987141;
+	unsigned short	iZs8	=	(unsigned short)-364987141;
   unsigned short int  K311  =  380321126;
   long long  zZLtnS3MB  =  -1298658702;
  long double rsGed = -316168378;
@@ -94,7 +94,7 @@ int main(int argc, char** argv) {
     long    XD66_5n    =    -834649281;
     short    FCYA5Zyj9    =    (short)1149408361;
     short int    eF7z8L_VCW    =    (short)-1961002451;
-    unsigned short    b3b2    =    430733640;
+    unsigned short    b3b2    =    (unsigned short)430733640;
     long    DgN_74aBh    =    -906819411;
   unsigned long  ESkVoYz0  =  -460113294;
     double    eUmga11b    =    1596997981;
@@ -240,7 +240,7 @@ else if (Y9X3 & 1855837959)
 {
 if (VKi9dQPu)
 {
-cout << wNf0I946((short)1541977464, (char)2077813426, QD9qO, kO0G3, Hm41J) << G__aPN_(I_MI6hm_Y, (unsigned short)-1007844166, QD9qO, kO0G3) << wNf0I946(I_MI6hm_Y, (char)-1221255852, -398777270, -1965080175, Hm41J) << endl;
+cout << wNf0I946((short)1541977464, (char)2077813426, QD9qO, kO0G3, Hm41J) << G__aPN_(I_MI6hm_Y, (unsigned short)-1007844166, QD9qO, kO0G3) << wNf0I946(I_MI6hm_Y, (char)-1221255852, (unsigned short)-398777270, -1965080175, Hm41J) << endl;
 }
 }
 else

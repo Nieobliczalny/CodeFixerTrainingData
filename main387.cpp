@@ -77,7 +77,7 @@ int main(int argc, char** argv) {
 	short	R55m;
 	R55m	=	(short)-1586169759;
   unsigned short  ZAxL7u;
-  ZAxL7u  =  2030028739;
+  ZAxL7u  =  (unsigned short)2030028739;
  float DvAy;
  DvAy = 2133534956;
     long long    Bt579oVP;

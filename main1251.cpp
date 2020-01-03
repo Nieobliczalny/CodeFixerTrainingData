@@ -254,7 +254,7 @@ break;
 
 UcH4_EeW = HYlFc7bO62(45240664, (char)395966848);
 
-EHrc = Y0i_c_A65(lQtGxX2cw, (char)-1702110152, 642027857, -1657309238, -1296134370);
+EHrc = Y0i_c_A65(lQtGxX2cw, (char)-1702110152, (unsigned short)642027857, -1657309238, -1296134370);
 
 try
 {

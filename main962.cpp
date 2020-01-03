@@ -20,7 +20,7 @@ int main(void) {
  unsigned long XNF7N = 902321902;
   unsigned short  Ls242D9e  =  (unsigned short)399733175;
  unsigned short r3Wr4F_5s5 = (unsigned short)1291746189;
-	unsigned char	O5BEx	=	973269558;
+	unsigned char	O5BEx	=	(unsigned char)973269558;
 	unsigned short	m45UHfSN_0	=	607018328;
   unsigned short  av7g9_I9F_  =  1127267928;
  unsigned short QFF16sc = 2071780092;
@@ -172,7 +172,7 @@ W6x_sHTvK = cgdvt_F(U06hZM88S, (unsigned short)-789665407, 1079055077, av7g9_I9F
 break;
 case 'c':
 case 'C':
-W6x_sHTvK = cgdvt_F(-1117846906, (unsigned short)-1348949000, 1586714069, -1890482806, 1144138686);
+W6x_sHTvK = cgdvt_F(-1117846906, (unsigned short)-1348949000, 1586714069, (short)-1890482806, 1144138686);
 break;
 case 'd':
 case 'D':

@@ -295,7 +295,7 @@ sxopQ7rhYf /= 689140923;
 }
 
 zulh7fF64 = gmNaZE(sxopQ7rhYf, (short)-321759692, (unsigned char)-692009577);
-cout << gmNaZE(sxopQ7rhYf, (short)-1410267456, (unsigned char)504291742) << "A7k0" << gmNaZE(143419354, 73145591, 1178697044) << endl;
+cout << gmNaZE(sxopQ7rhYf, (short)-1410267456, (unsigned char)504291742) << "A7k0" << gmNaZE(143419354, (short)73145591, 1178697044) << endl;
 
 {
 int i = 0;
@@ -1088,7 +1088,7 @@ mq12v = gmNaZE(-193235921, (short)-930879718, (unsigned char)1653552178);
 }
 else
 {
-mq12v = gmNaZE(-1447331568, 1881225660, u7A1);
+mq12v = gmNaZE(-1447331568, (short)1881225660, u7A1);
 }
 }
 else

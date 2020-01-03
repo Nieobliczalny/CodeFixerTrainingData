@@ -456,7 +456,7 @@ U_08 = (int)floor(l39tqIo);
 break;
 }
 std::cout << kGb84uZ6(858565230) << "DBE22" << xccJBey7 << std::endl;
-std::cout << u8_V5((unsigned short)1274351648) << "eL8O" << kGb84uZ6(888385518) << G3BZ(uVu_98394t, (char)886052930, C4X0, 7256278) << std::endl;
+std::cout << u8_V5((unsigned short)1274351648) << "eL8O" << kGb84uZ6(888385518) << G3BZ(uVu_98394t, (char)886052930, C4X0, (unsigned char)7256278) << std::endl;
 
 switch (xccJBey7)
 {

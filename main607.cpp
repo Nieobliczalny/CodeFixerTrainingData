@@ -549,7 +549,7 @@ case 5:
 nd3eiObR = Vkz_3sWD((short)-1522203986, -1629244208, IuqQ, (unsigned short)860866544, (unsigned char)-1892225028);
 break;
 case 6:
-qMpk0 = c0n3p(h9TArZ4r, qMpk0, -1076774919);
+qMpk0 = c0n3p(h9TArZ4r, qMpk0, (short)-1076774919);
 break;
 case 7:
 F6i1t4ytk5 += 653025159;

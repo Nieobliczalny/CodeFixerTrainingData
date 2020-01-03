@@ -33,7 +33,7 @@ int main(int argc, char** argv) {
 	unsigned short	a01m	=	(unsigned short)-862897893;
 	unsigned long long	G1nDjL5	=	1003575682;
   short int  g57G4oRX2  =  (short)1402805789;
-  short  e3bWLGy5  =  -598991979;
+  short  e3bWLGy5  =  (short)-598991979;
  short HDMJLO = 663893537;
   long double  jh6_PJRBa  =  1029843895;
     long    h_HDX63_qu    =    1353782076;

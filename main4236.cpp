@@ -94,7 +94,7 @@ int main(int argc, char** argv) {
  unsigned short int ktS85Q7;
  ktS85Q7 = (unsigned short)-1532998836;
  short C1E37C;
- C1E37C = 67184259;
+ C1E37C = (short)67184259;
  unsigned long long S48OkZEH1;
  S48OkZEH1 = 897133621;
   double  m154W3;

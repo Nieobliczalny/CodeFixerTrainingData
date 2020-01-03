@@ -282,7 +282,7 @@ case 3:
 j8dv6tSAN = f9gA6(550680874, Sl5k1_, (unsigned short)2089929279, (unsigned char)1173081012);
 break;
 default:
-WeaA59HB = f9gA6(-1563370245, (unsigned short)298069275, 999054323, 1211025144) & 684939657;
+WeaA59HB = f9gA6(-1563370245, (unsigned short)298069275, (unsigned short)999054323, 1211025144) & 684939657;
 break;
 }
 {

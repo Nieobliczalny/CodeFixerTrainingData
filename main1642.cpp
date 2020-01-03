@@ -231,7 +231,7 @@ j++;
 std::cout << "S4gsXo6L2" << "NgErP9Kx4" << std::endl;
 if (QTA4qaR3Wk)
 {
-std::cout << "rNb6UQ_0" << "b5lhU_tap_" << woL39o4qs0((unsigned char)-1001238192, ZMZ5O4Y6, LW_J_HWc9, (char)42441564, (unsigned short)1217230494) << QPWjNLtb2((short)-878556967, 1241535347, LW_J_HWc9, juI_g, JReOC8i2zC) << std::endl;
+std::cout << "rNb6UQ_0" << "b5lhU_tap_" << woL39o4qs0((unsigned char)-1001238192, ZMZ5O4Y6, LW_J_HWc9, (char)42441564, (unsigned short)1217230494) << QPWjNLtb2((short)-878556967, (unsigned char)1241535347, LW_J_HWc9, juI_g, JReOC8i2zC) << std::endl;
 }
 P5u01gjeBR = QPWjNLtb2(-1613367912, -1598161637, DJ02G7, f97Mh, FLj__z);
 if (mIh0)
@@ -507,7 +507,7 @@ break;
 }
 else if (g2z9 == P5u01gjeBR)
 {
-H6vSw = QPWjNLtb2(H6vSw, c5xN, -1036250254, -641466402, 1951878507);
+H6vSw = QPWjNLtb2(H6vSw, c5xN, (short)-1036250254, -641466402, 1951878507);
 }
 else
 {

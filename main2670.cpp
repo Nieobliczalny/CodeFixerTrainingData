@@ -69,7 +69,7 @@ int main(void) {
 	short int	rq0_b	=	(short)256671461;
   double  qi7Odm  =  -192619980;
  unsigned long b373IYv = -659743657;
- unsigned char I41TQK6 = 391947984;
+ unsigned char I41TQK6 = (unsigned char)391947984;
     unsigned short    g0J2K    =    0;
     unsigned char    NBEQnM    =    (unsigned char)-221146586;
 

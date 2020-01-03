@@ -31,7 +31,7 @@ int main(void)
  long long l0hHq35W = 627960407;
   short int  S200S  =  (short)-1633502624;
   unsigned short  Z9cc2we  =  (unsigned short)-1252883782;
-  unsigned short  oFbFLO1rK0  =  1247657953;
+  unsigned short  oFbFLO1rK0  =  (unsigned short)1247657953;
 	long long	O_rr	=	1789801749;
 	long	GRCK9D	=	1581154358;
 	double	k371BC	=	-99606005;

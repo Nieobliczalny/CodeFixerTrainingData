@@ -36,7 +36,7 @@ int main(int argc, char** argv) {
   long long  JHBP25_Z  =  1664954752;
  unsigned short U5j3E7z = (unsigned short)-704887460;
   double  T6Ka  =  -481565249;
- char j7K2 = 2017716604;
+ char j7K2 = (char)2017716604;
 	char	B1ibj2G7C5	=	(char)-116884740;
  long U65f = -1251239537;
     short    N84_49n_    =    (short)-1981366923;
@@ -56,7 +56,7 @@ int main(int argc, char** argv) {
     char    sE9vL2    =    (char)-1413905314;
  long long p8O52j2ts = 188326222;
 	long double	X9JA	=	-1972406780;
-	unsigned short	EfR325	=	1272157460;
+	unsigned short	EfR325	=	(unsigned short)1272157460;
  short int Kopb = -2142920882;
  unsigned short int gcB9Gj14T = 0;
     long long    O723hGg    =    -1796167081;
@@ -82,7 +82,7 @@ int main(int argc, char** argv) {
  long long R5MR59Yngm = -263864441;
 	unsigned short int	VgG9_X	=	(unsigned short)-1838838766;
  short uyI5 = 0;
-  short int  ci8aqfuMip  =  -1188333237;
+  short int  ci8aqfuMip  =  (short)-1188333237;
     char    wAx3    =    (char)-1350339448;
 	double	vc0_Kai_	=	-610724339;
 	long double	e3SGy8h9to	=	893196505;
@@ -114,7 +114,7 @@ while (j >= 0);
 }
 }
 uyI5 = V4_l70BaB_((char)-1082963890, (unsigned short)399861184, (short)-1280763124, -2055669796, (short)-2066539028);
-std::cout << "HqvlF" << ZgtKo << V4_l70BaB_(1606808675, 1555410021, -1584845925, 968785342, BHTXnA) << "uvM071" << O9h6CvMRE << std::endl;
+std::cout << "HqvlF" << ZgtKo << V4_l70BaB_((char)1606808675, 1555410021, -1584845925, 968785342, BHTXnA) << "uvM071" << O9h6CvMRE << std::endl;
 if (uyI5 <= T6Ka)
 {
 try
@@ -133,7 +133,7 @@ std::cout << "Sp1sB9v" << "Iv9fLvI59x" << V4_l70BaB_(ZgtKo, (unsigned short)-175
 switch (GI5cZql)
 {
 case 0:
-uyI5 = V4_l70BaB_((char)-1128884579, (unsigned short)-1413627256, -873332680, U5j3E7z, -1279029432);
+uyI5 = V4_l70BaB_((char)-1128884579, (unsigned short)-1413627256, (short)-873332680, U5j3E7z, -1279029432);
 break;
 case 1:
 uyI5 = V4_l70BaB_(626891854, -1273161475, 1716126450, U5j3E7z, -1892299474);

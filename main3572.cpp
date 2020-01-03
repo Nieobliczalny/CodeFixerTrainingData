@@ -17,7 +17,7 @@ int main(void)
     EhtqiL9    =    (char)440271477;
     cDK0    =    (char)1988470906;
     Qx1b_8    =    (char)1390198536;
-    Y4KnHHf    =    1236788505;
+    Y4KnHHf    =    (char)1236788505;
     BqY4bAw1    =    -852694206;
     srFB4lw    =    -2046739200;
     A4o8z4f    =    -752435224;
@@ -27,7 +27,7 @@ int main(void)
     LA8lgY    =    (char)1908124924;
     n6v0    =    (char)1408402930;
     q60122_VE    =    (char)698612764;
-    E70s    =    -75934452;
+    E70s    =    (char)-75934452;
     rqYqk    =    1610822881;
     c5HpEQk3B    =    542358757;
     L9Z9tFJ59    =    1736113173;
@@ -37,7 +37,7 @@ int main(void)
     wnQp_z    =    (char)1079957225;
     k8KY    =    (char)-1545888043;
     sFUGiBiQP1    =    (char)-613101987;
-    S3mS2Axwv7    =    1538206305;
+    S3mS2Axwv7    =    (char)1538206305;
     Rf0zGAI    =    768404731;
     Q5_2Lw    =    608352536;
     es8X    =    -1816677975;
@@ -47,7 +47,7 @@ int main(void)
     Az4_    =    (char)794751118;
     pZWfZZG4t2    =    (char)2046103262;
     otDR    =    (char)602457949;
-    Y55sz    =    -592772512;
+    Y55sz    =    (char)-592772512;
     T820ExKxN    =    469781817;
     qVN3a    =    -474961995;
     k_8__cj    =    1444388888;
@@ -57,7 +57,7 @@ int main(void)
     rOO7    =    (char)-21211992;
     OoHV5q5R    =    (char)1228194579;
     clzkra25    =    (char)-2098957271;
-    N9BN    =    -284418719;
+    N9BN    =    (char)-284418719;
     qFu575W09    =    1724966598;
     GHYKo5    =    2117393830;
     pO3E3J9AY_    =    -600135017;
@@ -67,7 +67,7 @@ int main(void)
     GyJ_2X    =    (char)910024517;
     rm3_    =    (char)694727073;
     rFv9x7P8r    =    (char)962804679;
-    qf_iO8B7    =    951010788;
+    qf_iO8B7    =    (char)951010788;
     qjs73cysv8    =    1333126910;
     Y_8bLOY32m    =    -1223099524;
     aUK_Vhl    =    -934829064;
@@ -77,7 +77,7 @@ int main(void)
     CrFrNN38    =    (char)-26880387;
     oFa51_    =    (char)-851424351;
     pi7db5Mi    =    (char)1284491200;
-    NX4Vdtx    =    -475560155;
+    NX4Vdtx    =    (char)-475560155;
     char    a6pqeha,    Sl_A7,    d5UgOm5cIG,    ezE5B_Ks,    r9Zm_WCt;
     a6pqeha    =    0;
     Sl_A7    =    0;

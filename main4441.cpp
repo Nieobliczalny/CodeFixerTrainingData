@@ -63,7 +63,7 @@ case 4:
 woh5n_ = xxBE_Rk_ep(qMeQT, (char)1368046911, (unsigned short)1701227980, (unsigned char)794222953, O454s8);
 break;
 case 5:
-woh5n_ = xxBE_Rk_ep(-111017659, -1220445599, 722114044, B5wp_OkRaL, -401221270);
+woh5n_ = xxBE_Rk_ep((unsigned short)-111017659, -1220445599, 722114044, B5wp_OkRaL, -401221270);
 break;
 case 6:
 qphD = (int)abs(woh5n_);
@@ -96,7 +96,7 @@ break;
 B5wp_OkRaL = (unsigned long long)(v9v_4708);
 SKQFDf_iL = (unsigned long long)(KBdKH);
 std::cout << SKQFDf_iL / xxBE_Rk_ep((unsigned short)-1454075061, h4aVxw95e, PqfurK420, (unsigned char)29993167, j6aar2aEr) << std::endl;
-woh5n_ = xxBE_Rk_ep(KBdKH, woh5n_, -1770020297, eHEe5, 1126529008);
+woh5n_ = xxBE_Rk_ep(KBdKH, woh5n_, (unsigned short)-1770020297, eHEe5, 1126529008);
 
 JwZZX = (unsigned long long)(Yc4Jh + (2001033236));
 if (G3N4vSj3 <= 240971583)

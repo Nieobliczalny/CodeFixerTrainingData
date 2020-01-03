@@ -44,7 +44,7 @@ int main() {
     unsigned short int    jb_o01rV7    =    (unsigned short)1490967940;
 	unsigned char	JfqrCp711	=	(unsigned char)1990177819;
  long long vCHefNU6 = -343298525;
- short int D1F7Goh = -1608228685;
+ short int D1F7Goh = (short)-1608228685;
 	unsigned long	f59YZh6BT	=	834566541;
 	unsigned char	Eufz379br	=	(unsigned char)-130905408;
 	long double	C0W2G	=	1188653394;
@@ -70,7 +70,7 @@ int main() {
     unsigned short int    wA_QQw8r    =    (unsigned short)1132522711;
 	long long	prbDuN5u	=	2104441951;
  unsigned char ucq50 = (unsigned char)1944891082;
-    unsigned short    dx02GvBu7d    =    1832718824;
+    unsigned short    dx02GvBu7d    =    (unsigned short)1832718824;
     double    o25veA_pg    =    1546630724;
 
 for (int i = 0; i < 7; i++)

@@ -245,7 +245,7 @@ case 2:
 iATp3p8 += U_Ex0y;
 break;
 case 3:
-L17ke = TqqZ((short)1235516605, Q0BlWHl8, K017, (unsigned short)-582269538, -1416358864);
+L17ke = TqqZ((short)1235516605, Q0BlWHl8, K017, (unsigned short)-582269538, (unsigned char)-1416358864);
 break;
 case 4:
 bgCOF8o = qhm1gI5();

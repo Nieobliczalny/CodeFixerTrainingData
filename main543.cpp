@@ -104,7 +104,7 @@ T8eg = d14sh((char)-280578941, h4oaR2, r0U9, (short)-1727469962);
 break;
 case 'c':
 case 'C':
-T8eg = d14sh(505959900, dkSxM2_, I6P6, d084v8Fq);
+T8eg = d14sh((char)505959900, dkSxM2_, I6P6, d084v8Fq);
 break;
 case 'd':
 case 'D':

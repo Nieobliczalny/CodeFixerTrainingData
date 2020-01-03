@@ -36,7 +36,7 @@ int main(void) {
 	int	irxT1vd	=	1804220529;
 	char	j_9kJVSJ	=	(char)-1341969661;
 
-std::cout << irxT1vd << GomTW << RtKyFU9Q(793418906, (unsigned short)-172308449, -195365500, 234645250) << "Rxfp6AJ9" << std::endl;
+std::cout << irxT1vd << GomTW << RtKyFU9Q(793418906, (unsigned short)-172308449, (unsigned char)-195365500, 234645250) << "Rxfp6AJ9" << std::endl;
 for (int i = 0; i < 3; ++i)
 {
 if (t_Rc09uk <= wLvnX7H57M)

@@ -57,7 +57,7 @@ ypMRK = (long)(Xi6I);
 while (i >= 0);
 }
 
-cout << p3N7m << DGQgA_eu((unsigned char)-1302810769, QUW_wrRd, (short)-1015794246, (unsigned char)-906550480) << v6YXcsj((unsigned short)255724374, -1406452208, -242941487, 1221183903, 381001646) << endl;
+cout << p3N7m << DGQgA_eu((unsigned char)-1302810769, QUW_wrRd, (short)-1015794246, (unsigned char)-906550480) << v6YXcsj((unsigned short)255724374, (short)-1406452208, -242941487, 1221183903, 381001646) << endl;
 cout << "R83_r1" << vIKI5a << K6_0(1205203655, 818351627) << endl;
 if ((nq51) && (K5lUcrj & Dj2O_))
 {
@@ -252,7 +252,7 @@ case 2:
 p3N7m = v6YXcsj((unsigned short)86714043, (short)972973738, 1249535130, 1132421562, (unsigned short)1772973001);
 break;
 case 3:
-p3N7m = v6YXcsj(WhRx, VoOrL6A, 1098876305, -1028189587, -198257441);
+p3N7m = v6YXcsj(WhRx, VoOrL6A, 1098876305, -1028189587, (unsigned short)-198257441);
 break;
 }
 }
@@ -275,7 +275,7 @@ vIKI5a = DGQgA_eu((unsigned char)758150874, n0aaT6Y5, (short)984949163, QUW_wrRd
 
 if (v6YXcsj(vIKI5a, (short)-2051109305, ypMRK, -781894911, (unsigned short)1117119140) == 0)
 {
-	WYz_8_F4CP = vIKI5a / v6YXcsj(vIKI5a, -2051109305, ypMRK, -781894911, 1117119140);
+	WYz_8_F4CP = vIKI5a / v6YXcsj(vIKI5a, (short)-2051109305, ypMRK, -781894911, 1117119140);
 }
 
 O38Swt = VI4yX75V();

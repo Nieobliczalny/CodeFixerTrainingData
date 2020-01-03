@@ -26,7 +26,7 @@ int main(void) {
     unsigned short int    CbIc64A    =    (unsigned short)-844567358;
 	char	XYTMh	=	(char)-1115864105;
  short int Dz5q_ = (short)-1154103922;
-    char    u6V5_d6    =    1181354679;
+    char    u6V5_d6    =    (char)1181354679;
     unsigned long long    jILP7    =    2113624152;
   long double  nfGaP3qs  =  682108017;
 	double	a6q63Q	=	-1538648483;
@@ -67,7 +67,7 @@ int main(void) {
 	unsigned long	CMBbD6A_0K	=	-296006635;
     unsigned short    M_pc_1I1    =    (unsigned short)-1905655855;
     unsigned char    wXOgwjh7pl    =    (unsigned char)-1086886572;
-  short  M333W7x  =  1137657484;
+  short  M333W7x  =  (short)1137657484;
   unsigned char  tX2_V1p  =  -1273805657;
 	unsigned short	sIMPTeT96	=	(unsigned short)-274316932;
 	short int	wwav5L	=	-481626887;

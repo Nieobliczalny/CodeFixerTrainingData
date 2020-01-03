@@ -26,7 +26,7 @@ int main(int argc, char** argv)
     unsigned char    iTNu33lUWR    =    (unsigned char)759942603;
  float EOL6D_4J = 228323449;
   float  n78_KM5MP  =  -1073434518;
-	unsigned short int	AyWK8Z5EO1	=	-229151169;
+	unsigned short int	AyWK8Z5EO1	=	(unsigned short)-229151169;
 	double	kS5TmtzX9	=	-830360571;
   unsigned short  Wv97H7b1M  =  -373025525;
     unsigned int    MRV6s_    =    937045474;
@@ -66,7 +66,7 @@ int main(int argc, char** argv)
  char e19KD2SR_g = (char)968666665;
  unsigned short wXpy = (unsigned short)1595158247;
  char Vtl1Z0KB_ = (char)-1598030708;
-	unsigned short int	rZx54edf	=	498657591;
+	unsigned short int	rZx54edf	=	(unsigned short)498657591;
  unsigned short int coF36_7PB = -1419840608;
     unsigned short int    TqguK7CC6d    =    1285112048;
   short  Z8jx47S2  =  (short)-877502270;
@@ -89,7 +89,7 @@ int main(int argc, char** argv)
  char aRF4TLp = (char)-1809099881;
 	unsigned short	V4yqpSM	=	(unsigned short)-1847122272;
   unsigned long long  R2i3Qwwtqr  =  -801557943;
-  unsigned short int  m43CM  =  -1199344001;
+  unsigned short int  m43CM  =  (unsigned short)-1199344001;
 	unsigned long	CpY7gSgk4	=	-1649255566;
   short int  JnMQ  =  0;
   float  d_6__55Y  =  699383499;
@@ -135,7 +135,7 @@ case 'b':
 AyWK8Z5EO1 = cU9ymLx - 1692018147;
 break;
 case 'c':
-rZx54edf = hG70Tya((unsigned short)-431126761, -1662037641, TqguK7CC6d, (unsigned short)830789764, 1981973700);
+rZx54edf = hG70Tya((unsigned short)-431126761, -1662037641, TqguK7CC6d, (unsigned short)830789764, (unsigned short)1981973700);
 break;
 case 'd':
 I0h5 = (int)floor(irqQIg_V_a);
@@ -153,7 +153,7 @@ case 'h':
 q7m0uV11 = (int)floor(q26U3U9);
 break;
 case 'i':
-Jtm1N = hG70Tya((unsigned short)-1626442894, OhsuftP6, 1657673976, 1251273943, EOL6D_4J);
+Jtm1N = hG70Tya((unsigned short)-1626442894, OhsuftP6, (short)1657673976, 1251273943, EOL6D_4J);
 break;
 case 'j':
 ew86N04B |= 929943901;
@@ -333,7 +333,7 @@ Jtm1N = Y3TaUv0Hb * 1180687113;
 }
 }
 std::cout << "EjR_" << ZAc9Q2s9(LgKM68f, V0Ylyck, (short)335540466, (unsigned short)-1319393024) << U424J << std::endl;
-re8d = ZAc9Q2s9((unsigned short)-748789894, re8d, (short)1920161835, 660966844);
+re8d = ZAc9Q2s9((unsigned short)-748789894, re8d, (short)1920161835, (unsigned short)660966844);
 EOL6D_4J = (float)(CpY7gSgk4);
 
 Fw2rAp447 = ZAc9Q2s9(jChRc7_48E, KIDM9Z0ZX, 2089219647, Eb_WHtT00);
@@ -354,7 +354,7 @@ case 0:
 r61jPaTV97 = ZAc9Q2s9((unsigned short)898386276, Un2mJmL, (short)-188737277, (unsigned short)1605855273) ^ 1889958384;
 break;
 case 1:
-re8d = ZAc9Q2s9(877898307, Oo53GP, W32_M7Gu, Jtm1N);
+re8d = ZAc9Q2s9((unsigned short)877898307, Oo53GP, W32_M7Gu, Jtm1N);
 break;
 case 2:
 SL7_xh2 >>= 2139838953;

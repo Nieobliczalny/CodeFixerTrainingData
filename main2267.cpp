@@ -344,7 +344,7 @@ case 3:
 JDoUT0j = H40jPnL((unsigned short)-2003935303, (short)1599401394, (short)1409064739);
 break;
 case 4:
-fQC01v = H40jPnL(-725122093, -2051707374, -515325549);
+fQC01v = H40jPnL((unsigned short)-725122093, -2051707374, -515325549);
 break;
 case 5:
 OFDG132++;
@@ -400,7 +400,7 @@ case 'a':
 c4rDM164_c = H40jPnL((unsigned short)-102606645, (short)-1310427535, (short)1757128005);
 break;
 case 'b':
-fQC01v = H40jPnL(fQC01v, (short)-1616530976, -572879653);
+fQC01v = H40jPnL(fQC01v, (short)-1616530976, (short)-572879653);
 break;
 case 'c':
 A4smU = R7OAFfzKl(fQC01v);

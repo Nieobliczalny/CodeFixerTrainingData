@@ -94,7 +94,7 @@ case 7:
 SrPWfb = Zeda2VAa(1497456575, o9ifaB3J, 1040417885, (unsigned short)1075815673);
 break;
 default:
-q7p4__q_ry = R02mS1_B3((char)-168759752, -1789021633, -2093656717);
+q7p4__q_ry = R02mS1_B3((char)-168759752, (unsigned char)-1789021633, -2093656717);
 break;
 }
 }

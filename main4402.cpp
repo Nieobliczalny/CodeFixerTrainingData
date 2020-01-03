@@ -169,7 +169,7 @@ int main(int argc, char** argv) {
 	unsigned char	gVw43t240;
 	gVw43t240	=	(unsigned char)1286898904;
   unsigned short  An9NTdRRC;
-  An9NTdRRC  =  615818908;
+  An9NTdRRC  =  (unsigned short)615818908;
   long  X732xM23qR;
   X732xM23qR  =  1148005042;
 	long	sfFRdX_HVd;

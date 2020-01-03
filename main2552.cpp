@@ -149,7 +149,7 @@ int main() {
   unsigned short int  my_Uzi;
   my_Uzi  =  (unsigned short)443500962;
 	char	HiqC;
-	HiqC	=	-995729780;
+	HiqC	=	(char)-995729780;
 	long	S23Amk7b;
 	S23Amk7b	=	-1783663335;
     int    R6xt;

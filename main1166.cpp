@@ -175,7 +175,7 @@ int main()
     short    U1uDhtc;
     U1uDhtc    =    (short)-1158258304;
     char    m441;
-    m441    =    -1025440675;
+    m441    =    (char)-1025440675;
  unsigned char cSzE4;
  cSzE4 = (unsigned char)1404291566;
   int  xrGx;

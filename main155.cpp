@@ -266,7 +266,7 @@ else
 {
 try
 {
-a_NUbZ = AsW7o4((short)1268373318, nXP69_Mj4m, 544506764, jl154CHg, a_NUbZ);
+a_NUbZ = AsW7o4((short)1268373318, nXP69_Mj4m, (unsigned char)544506764, jl154CHg, a_NUbZ);
 }
 catch (int& errorCode)
 {

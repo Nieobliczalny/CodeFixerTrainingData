@@ -73,7 +73,7 @@ case 2:
 JK0QevZ2Kb = c6uKvk(g6D_J, (short)-1916508244, pvH50uzr);
 break;
 case 3:
-JK0QevZ2Kb = c6uKvk((unsigned short)976652917, -1966776568, 1997680356);
+JK0QevZ2Kb = c6uKvk((unsigned short)976652917, (short)-1966776568, 1997680356);
 break;
 case 4:
 JL279WR = (v6Co & JK0QevZ2Kb) ? g6D_J : ww684u4BlF;
@@ -234,7 +234,7 @@ else if (JK0QevZ2Kb & v6Co)
 {
 try
 {
-std::cout << c6uKvk(v6Co, JL279WR, g6D_J) << c6uKvk(v6Co, (short)1168468299, g6D_J) << g6D_J << c6uKvk((unsigned short)1830730813, (short)255330841, g6D_J) << c6uKvk((unsigned short)-805292002, 2090657328, g6D_J) << std::endl;
+std::cout << c6uKvk(v6Co, JL279WR, g6D_J) << c6uKvk(v6Co, (short)1168468299, g6D_J) << g6D_J << c6uKvk((unsigned short)1830730813, (short)255330841, g6D_J) << c6uKvk((unsigned short)-805292002, (short)2090657328, g6D_J) << std::endl;
 }
 catch (int& errorCode)
 {

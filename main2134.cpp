@@ -21,7 +21,7 @@ int main() {
   unsigned short  L_23uG  =  (unsigned short)1618907671;
   unsigned int  ES4058  =  35183000;
     int    fg0X0jS89    =    2006069534;
-  short  Am_3a5Rvo  =  17674117;
+  short  Am_3a5Rvo  =  (short)17674117;
     long    O__48    =    1971289360;
  long long UXZRF3 = 0;
  unsigned long long RFA7B = 267239923;

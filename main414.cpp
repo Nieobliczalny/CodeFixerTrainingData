@@ -96,7 +96,7 @@ int main() {
 	unsigned char	nluE6ET;
 	nluE6ET	=	(unsigned char)242265506;
 	unsigned short int	hs2aG;
-	hs2aG	=	1699297995;
+	hs2aG	=	(unsigned short)1699297995;
  unsigned long szN8_75;
  szN8_75 = -495927427;
   long long  L7Sv;

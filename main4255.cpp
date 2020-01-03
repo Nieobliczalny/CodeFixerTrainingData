@@ -97,7 +97,7 @@ int main()
   short int  pGdWK7Pg6;
   pGdWK7Pg6  =  (short)-371787019;
     unsigned short int    aIv0;
-    aIv0    =    -119673103;
+    aIv0    =    (unsigned short)-119673103;
 	char	iwgA67LM;
 	iwgA67LM	=	(char)-187359088;
     unsigned int    PKDNGx2;

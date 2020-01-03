@@ -36,7 +36,7 @@ int main(int argc, char** argv) {
 	char	Oq55_	=	(char)-621428942;
 	unsigned long long	Mve4X	=	0;
     long long    U5865    =    -220607656;
- short int s12x = -930713484;
+ short int s12x = (short)-930713484;
  char j0_Ep_Pn = -2025432195;
 	unsigned int	T9qqn	=	1776561914;
  float U9w66nc3 = 935820720;
@@ -468,7 +468,7 @@ cout << aBAs8W26Nq(s12x, S6PcScN8, (short)1896272041, (unsigned char)1483456667,
 }
 else if (I2_Wm & HAf_)
 {
-s356DgyE6D = (W_l98Vzo > 1489695283) ? 1099661038 : aBAs8W26Nq(s12x, 1579983196, (short)-1124150622, 2092204026, 606580409);
+s356DgyE6D = (W_l98Vzo > 1489695283) ? 1099661038 : aBAs8W26Nq(s12x, 1579983196, (short)-1124150622, (unsigned char)2092204026, 606580409);
 }
 else if (g8ukk7)
 {

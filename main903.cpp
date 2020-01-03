@@ -100,7 +100,7 @@ int main() {
  unsigned short int ao81Nq;
  ao81Nq = (unsigned short)-2003053047;
 	char	saxwxd0hM0;
-	saxwxd0hM0	=	-1099382831;
+	saxwxd0hM0	=	(char)-1099382831;
     long    WeWeB5BdiU;
     WeWeB5BdiU    =    800197983;
     unsigned short int    T57E7R2cIU;

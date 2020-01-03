@@ -436,7 +436,7 @@ case 4:
 Huvs4 = PW_MhwS & oc1D;
 break;
 case 5:
-WfF3M9R0R = zs_Q2pGb(WfF3M9R0R, (unsigned short)994597186, -564645948, VYt6nn5);
+WfF3M9R0R = zs_Q2pGb(WfF3M9R0R, (unsigned short)994597186, (unsigned short)-564645948, VYt6nn5);
 break;
 case 6:
 oemM7e = E_G_o6 - HfL23FJ165;

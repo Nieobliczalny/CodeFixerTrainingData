@@ -51,7 +51,7 @@ int main(void) {
 	unsigned short int	Gfv5n_hZP3	=	(unsigned short)-1131664324;
  unsigned char f5svq5zB = (unsigned char)526605164;
 	unsigned int	FC2W	=	-468077251;
-    char    K3ezpu    =    -1104715157;
+    char    K3ezpu    =    (char)-1104715157;
 	short	Qt3V2fM6	=	159321021;
     long double    KY2KNj    =    527032251;
  short KnUiw = (short)2017128999;

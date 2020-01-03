@@ -122,7 +122,7 @@ case 2:
 v817bRT0q = yHxtNeZ7((short)-1949863541, 1640493181, (unsigned char)-1509578985, fgZW70i5, C1Dr);
 break;
 case 3:
-sO0_ul = yHxtNeZ7(M890w74m_, -364289209, 567904089, lG4K59P, -799583181);
+sO0_ul = yHxtNeZ7(M890w74m_, -364289209, (unsigned char)567904089, lG4K59P, -799583181);
 break;
 case 4:
 fgZW70i5 = yHxtNeZ7(M890w74m_, -869827594, ZELjl, lG4K59P, 2110166650) / 19032300;
@@ -143,7 +143,7 @@ case 9:
 v817bRT0q = yHxtNeZ7(VM7Kw8, Ssza, e755, oIyq16cH, -1848332478);
 break;
 default:
-v817bRT0q = yHxtNeZ7((short)-2124139691, -1166696469, (unsigned char)1479484552, -1443435624, 2108106285);
+v817bRT0q = yHxtNeZ7((short)-2124139691, -1166696469, (unsigned char)1479484552, (unsigned short)-1443435624, 2108106285);
 break;
 }
 }
@@ -163,7 +163,7 @@ H2canRp5vm /= mX_jx37E;
 }
 else if (FQm2MA708 == 1016325067)
 {
-v817bRT0q = yHxtNeZ7((short)1436380896, -1073542131, (unsigned char)-2068218437, 719387572, H2canRp5vm);
+v817bRT0q = yHxtNeZ7((short)1436380896, -1073542131, (unsigned char)-2068218437, (unsigned short)719387572, H2canRp5vm);
 }
 else if (v817bRT0q > -25989660)
 {
@@ -270,7 +270,7 @@ case 1:
 sO0_ul = yHxtNeZ7(CPLJi, sO0_ul, (unsigned char)765798836, (unsigned short)-88629485, Ro922);
 break;
 default:
-sO0_ul = yHxtNeZ7((short)306294724, e755, -750217259, sO0_ul, wh0mwLn0);
+sO0_ul = yHxtNeZ7((short)306294724, e755, (unsigned char)-750217259, sO0_ul, wh0mwLn0);
 break;
 }
 }
@@ -383,7 +383,7 @@ case 'b':
 sO0_ul = yHxtNeZ7(E4Yp7Oy55_, 1024245012, (unsigned char)1549533107, (unsigned short)202031337, -676708671);
 break;
 case 'c':
-v817bRT0q = yHxtNeZ7((short)-632150024, ZELjl, wj7y, 596330981, -277196420);
+v817bRT0q = yHxtNeZ7((short)-632150024, ZELjl, wj7y, (unsigned short)596330981, -277196420);
 break;
 case 'd':
 BH3u_Ez = S4F4Tr / ExwT7r;
@@ -416,7 +416,7 @@ case 1:
 ExwT7r = yHxtNeZ7(wh0mwLn0, Jqz6AEng, (unsigned char)-1592295150, FQm2MA708, Q_NeAM) % wj7y;
 break;
 case 2:
-sO0_ul = yHxtNeZ7((short)1609525448, -703226252, -36521358, e755, -573782708);
+sO0_ul = yHxtNeZ7((short)1609525448, -703226252, (unsigned char)-36521358, e755, -573782708);
 break;
 case 3:
 M890w74m_ |= 1706380208;

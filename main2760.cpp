@@ -217,7 +217,7 @@ case 2:
 AZsLM2 = XyBxeNH((unsigned short)154112578, -615132801, 1279969604, ZnXlTa68D, -1779217243) | kE5uJsk;
 break;
 case 3:
-y46a = m5R_S(y46a, 1373840523, e8qa78);
+y46a = m5R_S(y46a, (unsigned char)1373840523, e8qa78);
 break;
 case 4:
 AZsLM2 = m5R_S((unsigned short)509763205, NVV3tuC6, tQk7Qz2y);
@@ -265,7 +265,7 @@ break;
 }
 
 d9VzFhlmb5 = (long)(uJhkbgHD);
-std::cout << AQ2_asha << m6A1((char)-2104155220, (short)-490210010, -623692070, Gukh, (unsigned char)-1348020397) << B7HT14peZ7(d8C3n6Am, UfIt82x1d9, (unsigned short)-1251707641, 1450755392) << m5R_S(d8C3n6Am, 207042043, AQ2_asha) << "jv8Os1LFM2" << std::endl;
+std::cout << AQ2_asha << m6A1((char)-2104155220, (short)-490210010, -623692070, Gukh, (unsigned char)-1348020397) << B7HT14peZ7(d8C3n6Am, UfIt82x1d9, (unsigned short)-1251707641, (short)1450755392) << m5R_S(d8C3n6Am, 207042043, AQ2_asha) << "jv8Os1LFM2" << std::endl;
 uJhkbgHD = e8qa78 - 1996707139;
 if (Gukh == 0)
 {
@@ -345,7 +345,7 @@ case 7:
 UfIt82x1d9 = AQ2_asha * EOrr9txr3;
 break;
 case 8:
-tQk7Qz2y = B7HT14peZ7((char)489696183, uJhkbgHD, kE5uJsk, 2092695422);
+tQk7Qz2y = B7HT14peZ7((char)489696183, uJhkbgHD, kE5uJsk, (short)2092695422);
 break;
 }
 vRlD98u6 = (unsigned int)(L82w + (-1583449834));

@@ -182,7 +182,7 @@ int main(void) {
     unsigned char    bBNpiW;
     bBNpiW    =    (unsigned char)1559106229;
   char  h4s717nXV;
-  h4s717nXV  =  -1194182961;
+  h4s717nXV  =  (char)-1194182961;
   unsigned short  if2R01P;
   if2R01P  =  (unsigned short)940850557;
   unsigned short  U9H5Xtr;

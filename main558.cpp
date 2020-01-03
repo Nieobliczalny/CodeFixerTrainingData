@@ -35,7 +35,7 @@ int main(void)
     long long    Lrf4hriaE5    =    -1363781705;
   unsigned int  ta6g354J2J  =  151584133;
   int  j_iUQ_  =  1459264759;
-  unsigned short int  CX1X_u  =  -1396040010;
+  unsigned short int  CX1X_u  =  (unsigned short)-1396040010;
     short int    tWfTr9    =    -193235906;
  float CXoDHo7R = -1157680460;
  unsigned short int krYL = (unsigned short)214179334;
@@ -45,7 +45,7 @@ int main(void)
  char eX280bu = (char)-1412417685;
  char pfy_4T = 0;
  unsigned char HurBq_ = (unsigned char)883354401;
-    short    FP3t    =    -642749799;
+    short    FP3t    =    (short)-642749799;
  float HyT414yTJF = 848825839;
   long double  M5OyFew4  =  494564346;
     long long    M_ZPH7    =    294843268;
@@ -59,7 +59,7 @@ int main(void)
     long    Zq9n1gj    =    1156971324;
     double    R7M2zX    =    -1656201315;
   unsigned char  n1yUhk6X  =  (unsigned char)-669991101;
- unsigned short int Fuf6yf = 530391162;
+ unsigned short int Fuf6yf = (unsigned short)530391162;
   float  pajz6NM6L  =  1550370279;
  unsigned long long Mf_JDbD = 844405490;
   int  gWXU  =  1015635312;
@@ -81,7 +81,7 @@ int main(void)
 	short int	xoh88	=	(short)568809153;
     char    RI_5JRSW    =    (char)-687828206;
   unsigned char  H6q_b9_L  =  (unsigned char)77752027;
-    short    GTeZY0_Fn    =    -763215885;
+    short    GTeZY0_Fn    =    (short)-763215885;
 	long	Nzqms8ok	=	0;
  unsigned char P3NRzDCz = (unsigned char)-178818486;
 
@@ -616,7 +616,7 @@ CX1X_u = (krYL == -953341698) ? (unsigned short)970669082 : (unsigned short)5593
 Du7UPS_Z7 = hkd34QZ / zghq7Z468;
 try
 {
-vH20_alS = B_DkQ_55R7((short)2023416845, (short)1983219681, jOy1vA0c, -1946980422, 186474564);
+vH20_alS = B_DkQ_55R7((short)2023416845, (short)1983219681, jOy1vA0c, -1946980422, (short)186474564);
 }
 catch (int& errorCode)
 {
@@ -633,7 +633,7 @@ case 0:
 sCw4_ = B_DkQ_55R7(tWfTr9, (short)-2118673142, (unsigned short)-761612550, -37734899, h8qmi0);
 break;
 case 1:
-Nzqms8ok = B_DkQ_55R7((short)1845382295, (short)438122917, -1309636131, 1000684303, -1534345953);
+Nzqms8ok = B_DkQ_55R7((short)1845382295, (short)438122917, (unsigned short)-1309636131, 1000684303, -1534345953);
 break;
 }
 }

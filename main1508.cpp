@@ -52,7 +52,7 @@ int main() {
   unsigned char  fm28VO416  =  (unsigned char)-1522526455;
     double    BGQ7h166    =    -965983574;
     int    HTI7O67pP    =    1935747059;
-	short	J0ZzP	=	-1913325640;
+	short	J0ZzP	=	(short)-1913325640;
 
 std::cout << w5o33HsM(RFhof9_) << "gyI9" << "c75b" << abz_(RFhof9_, -1645764971, QY69Ini9zj, 1290961809, jIUgF43lCk) << std::endl;
 for (int i = 0; i < 1; ++i)

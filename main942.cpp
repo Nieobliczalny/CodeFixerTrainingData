@@ -40,7 +40,7 @@ int main(int argc, char** argv)
 	char	kvFX0Q7F;
 	kvFX0Q7F	=	(char)1494236333;
 	short	xYMXXE;
-	xYMXXE	=	958120511;
+	xYMXXE	=	(short)958120511;
     long    mwH4Abbo5g;
     mwH4Abbo5g    =    -2139834805;
 	long	b2O_C;

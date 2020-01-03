@@ -43,7 +43,7 @@ int main(int argc, char** argv)
 	short	oiXJpy	=	0;
     unsigned int    po7X    =    -790706918;
 	unsigned long	tkpT8	=	-1689498491;
-    unsigned char    wsHu    =    1146306967;
+    unsigned char    wsHu    =    (unsigned char)1146306967;
     double    W37Vg90    =    -201687975;
   long long  e8R7__lQ_Y  =  1724685211;
   unsigned short  x25jVg2gY  =  (unsigned short)-280851673;
@@ -53,7 +53,7 @@ int main(int argc, char** argv)
     long    Bv6p3    =    1509512458;
 	short	TtHV	=	(short)1074930887;
 	int	gywh0mP	=	-367815086;
-  short int  avK_QF  =  1912710781;
+  short int  avK_QF  =  (short)1912710781;
  double vD5dNQCPE = -675572252;
     short int    Vl__162    =    0;
 

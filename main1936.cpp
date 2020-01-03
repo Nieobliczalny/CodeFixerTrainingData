@@ -20,7 +20,7 @@ int main(void)
   dLU_75d  =  (char)-283456117;
   iXiX6YT1S7  =  (char)-2077934632;
   kH55  =  (char)936664369;
-  miBV3TI  =  -221673863;
+  miBV3TI  =  (char)-221673863;
   wTLGsi4F1g  =  -972746596;
   weeo6y  =  -926447877;
   HPci6fbv  =  1534522059;
@@ -30,7 +30,7 @@ int main(void)
   w6O9  =  (char)-1408954376;
   p4F8MHgB  =  (char)-1250133974;
   L9KD_  =  (char)645538067;
-  BMJj_  =  -527941676;
+  BMJj_  =  (char)-527941676;
   Bpb41vQ  =  621978182;
   LYr1l  =  1501382428;
   T25d_9Q  =  421545040;
@@ -40,7 +40,7 @@ int main(void)
   ZW18pg  =  (char)1586796435;
   v0hHYW7  =  (char)1408205448;
   xYtwq8O_7  =  (char)93609674;
-  Li6UzNcLW  =  -1446152618;
+  Li6UzNcLW  =  (char)-1446152618;
   QFDCUp_c  =  -1584136943;
   KON65Y  =  -221101318;
   fkg_049x  =  -1630397197;
@@ -50,7 +50,7 @@ int main(void)
   y1hn  =  (char)1102635891;
   Wap8X4  =  (char)-1155905763;
   SKd_5tJ  =  (char)1676266247;
-  zB_6  =  927075900;
+  zB_6  =  (char)927075900;
   lRJ_  =  1672935812;
   DIvwKlb  =  416305519;
   fZVu1t4iTv  =  -914747109;
@@ -60,7 +60,7 @@ int main(void)
   h9smH  =  (char)322644405;
   wVEZTQ  =  (char)172816291;
   rgH90KC23  =  (char)687224925;
-  ElTD2  =  986110241;
+  ElTD2  =  (char)986110241;
   jBpST7_dT  =  -1472664422;
   GDf9  =  1334917183;
   W_4C2G6XV7  =  348669039;
@@ -70,7 +70,7 @@ int main(void)
   UGg8fq93A2  =  (char)-1611317142;
   Fi__O5  =  (char)-344385320;
   z5OBQ  =  (char)-1616374792;
-  nhEr  =  1995479636;
+  nhEr  =  (char)1995479636;
   D7st2El  =  -1701405865;
   moa4aGq7A  =  -1593648368;
   b6eYp772  =  -1735686756;
@@ -80,7 +80,7 @@ int main(void)
   vRC2_GeI6e  =  (char)-1053736215;
   snN5  =  (char)1720096492;
   Wv6_6_S4b  =  (char)944255622;
-  hq18  =  -43553898;
+  hq18  =  (char)-43553898;
   Z82S2GLwA  =  2141278146;
   X2yjR33Z3  =  1023938072;
   zxUC  =  -744777841;
@@ -193,7 +193,7 @@ while (j >= 0);
 }
 
 iXiX6YT1S7 = B6_iY((unsigned short)1406857695, (unsigned short)-1776691775);
-std::cout << moa4aGq7A << B6_iY(iXiX6YT1S7, (unsigned short)534532744) << L6WuYE8_H(iXiX6YT1S7, (short)-27564812, -1863190154, 597668904) << GjqLtvies1(-1660108584, kH55, y1hn, -650266676, FePq2vHo) << LYr1l << std::endl;
+std::cout << moa4aGq7A << B6_iY(iXiX6YT1S7, (unsigned short)534532744) << L6WuYE8_H(iXiX6YT1S7, (short)-27564812, -1863190154, (unsigned char)597668904) << GjqLtvies1(-1660108584, kH55, y1hn, -650266676, FePq2vHo) << LYr1l << std::endl;
 
 for (int i = 8; i >= 0; --i)
 {

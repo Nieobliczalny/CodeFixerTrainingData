@@ -37,7 +37,7 @@ int main()
     unsigned short int    J3NMEK    =    (unsigned short)170147715;
 	short	Ij22p5h08	=	(short)393606587;
   long double  bRqF_7  =  24015439;
-  short int  pc6Zpf597P  =  2128962935;
+  short int  pc6Zpf597P  =  (short)2128962935;
  unsigned int VIYe3 = 0;
 	long double	BkTC4	=	-807111619;
  unsigned long VN2ap = -1637800818;

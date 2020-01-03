@@ -61,7 +61,7 @@ int main()
     short    IIIZhbcax;
     IIIZhbcax    =    (short)-491476852;
  short int v1Bj22rj6b;
- v1Bj22rj6b = -1649121866;
+ v1Bj22rj6b = (short)-1649121866;
 	unsigned short int	HgXb4Gj3;
 	HgXb4Gj3	=	(unsigned short)930153054;
   long  c_menlG;

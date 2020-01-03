@@ -210,7 +210,7 @@ case 8:
 Cs9Xz <<= 1806977429;
 break;
 case 9:
-PYjs = Q0AU5c(78663667, lYYHjZnbpK, (unsigned char)1383867139, (short)1498371300, 1190499458);
+PYjs = Q0AU5c(78663667, lYYHjZnbpK, (unsigned char)1383867139, (short)1498371300, (unsigned short)1190499458);
 break;
 default:
 X34t674Cn8 |= 182500517;

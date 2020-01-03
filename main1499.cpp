@@ -220,7 +220,7 @@ case 0:
 i4P0b_ = c38hQu8((char)-1511259868, 371187708, (short)-911901810, (unsigned short)1432519392, (short)36001573);
 break;
 default:
-W3KTw3WXz = Jzv66X_Koi(-1056636640, 171027878);
+W3KTw3WXz = Jzv66X_Koi((char)-1056636640, 171027878);
 break;
 }
 }

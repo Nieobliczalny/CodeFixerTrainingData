@@ -158,7 +158,7 @@ int i = 0;
 while (i < 5)
 {
 ++i;
-std::cout << t2968_dmE(891637618) << cR7LFk2n16(ZassM6GW, -852736183, -1095428373, TLS0GLO, EGv_7G03_s) << std::endl;
+std::cout << t2968_dmE(891637618) << cR7LFk2n16(ZassM6GW, (short)-852736183, -1095428373, TLS0GLO, EGv_7G03_s) << std::endl;
 }
 }
 qBmf = (double)(ygO42p);

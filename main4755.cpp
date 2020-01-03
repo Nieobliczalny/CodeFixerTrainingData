@@ -88,7 +88,7 @@ else
 {
 if (Gz6H5)
 {
-yh_u = (hH58713IYA >= Yaf4c9b) ? (unsigned char)2030702873 : BsyVEJaNaG(gZ7796l, (unsigned short)-1807959944, -962012044, (unsigned char)608755626, 2039177454);
+yh_u = (hH58713IYA >= Yaf4c9b) ? (unsigned char)2030702873 : BsyVEJaNaG(gZ7796l, (unsigned short)-1807959944, -962012044, (unsigned char)608755626, (unsigned short)2039177454);
 }
 else if (MdS3Vww0 >= HIEu)
 {

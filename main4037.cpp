@@ -57,7 +57,7 @@ case 3:
 i7_34T8HT++;
 break;
 case 4:
-i7_34T8HT = (KaXj <= hr9KY) ? hr9KY : Ie_J5t(cn8_, (unsigned short)184601659, -389077692);
+i7_34T8HT = (KaXj <= hr9KY) ? hr9KY : Ie_J5t(cn8_, (unsigned short)184601659, (unsigned short)-389077692);
 break;
 case 5:
 i7_34T8HT |= KaXj;

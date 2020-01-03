@@ -44,7 +44,7 @@ int main(void) {
  unsigned char T_i7rL8hfH = (unsigned char)89196306;
   unsigned short  cj4o39M13C  =  (unsigned short)536336561;
     short    AMtp7W    =    (short)1429944441;
-	unsigned short int	X24vU93	=	-580473162;
+	unsigned short int	X24vU93	=	(unsigned short)-580473162;
     unsigned long long    oJFi4WMVd    =    0;
   short  tpBNAR_9  =  (short)-539895033;
  long long dHvz = -188193489;
@@ -337,7 +337,7 @@ T_i7rL8hfH = q0qNq81((unsigned char)-1782567483, (unsigned short)-2139877295, ei
 
 if (sEr348_ >= 257191077)
 {
-std::cout << "HzUV" << q0qNq81((unsigned char)-412980713, -1749461826, eiMT) << lGgeo_IHps(-1301653613) << Rq20 << "ZRXPXla" << std::endl;
+std::cout << "HzUV" << q0qNq81((unsigned char)-412980713, (unsigned short)-1749461826, eiMT) << lGgeo_IHps(-1301653613) << Rq20 << "ZRXPXla" << std::endl;
 }
 else
 {

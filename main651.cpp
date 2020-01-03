@@ -65,7 +65,7 @@ case 4:
 wBCj += tIKY;
 break;
 case 5:
-ZQ3MZ33 = Q13BM5I(26674348, -85006807, (short)201861972, -1575281705, cuoPCCQ);
+ZQ3MZ33 = Q13BM5I(26674348, -85006807, (short)201861972, (short)-1575281705, cuoPCCQ);
 break;
 case 6:
 fUmFU9VK = (int)abs(xe7klX45);

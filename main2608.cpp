@@ -181,7 +181,7 @@ int main(int argc, char** argv)
   short int  og6i43flJe;
   og6i43flJe  =  (short)1468069102;
 	unsigned char	dpX0Q_;
-	dpX0Q_	=	238476828;
+	dpX0Q_	=	(unsigned char)238476828;
     unsigned int    ukIHPjX;
     ukIHPjX    =    -599726023;
 	unsigned short int	Ii08;

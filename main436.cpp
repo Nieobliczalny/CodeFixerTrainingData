@@ -30,7 +30,7 @@ int main() {
   char  l0Kh8  =  (char)745882197;
     long    GgDAMw    =    0;
   char  ZRbG  =  (char)-792587225;
- short int rJpr4Vi = 1282636936;
+ short int rJpr4Vi = (short)1282636936;
     int    fzw77    =    -604468008;
 	long long	hFr6WpopO	=	990032083;
     short int    BD4Cg1    =    (short)109873855;

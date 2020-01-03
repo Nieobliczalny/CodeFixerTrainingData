@@ -258,7 +258,7 @@ if (o2pl & 1182926259)
 {
 if (((i3mN7Y6A < EGULsobGG) || (o6_9 > 2090844802)) || (r13Uq8))
 {
-o5_7COhV9 = CIzetR__7(T2_3h63_1M, ZNXM_eL238, (short)-1301159491, pu4_o, -2063095078);
+o5_7COhV9 = CIzetR__7(T2_3h63_1M, ZNXM_eL238, (short)-1301159491, pu4_o, (unsigned short)-2063095078);
 }
 else if (Bb_xm5eu54)
 {

@@ -43,7 +43,7 @@ case 'a':
 oG_RuG = Hy35R2NrzQ(EX7L, Y9i5We, phg5Cn1, (char)-1354353986, (char)1203209514) ^ P41e35Y;
 break;
 case 'b':
-PDpRMs = Hy35R2NrzQ((short)-257176116, (char)-1839881434, YB1MC1, -876545461, a4T0a5);
+PDpRMs = Hy35R2NrzQ((short)-257176116, (char)-1839881434, YB1MC1, (char)-876545461, a4T0a5);
 break;
 case 'c':
 vUEdR = Ylb5MjlpE & 785851059;
@@ -313,7 +313,7 @@ Pm6h25eov = EV_8lhu40(Tk_30, (char)242977957, (unsigned short)1657535767, (unsig
 break;
 case 'e':
 case 'E':
-Pm6h25eov = EV_8lhu40(EHrn8, (char)2054695837, -1386779626, z0WDl9);
+Pm6h25eov = EV_8lhu40(EHrn8, (char)2054695837, (unsigned short)-1386779626, z0WDl9);
 break;
 case 'f':
 case 'F':

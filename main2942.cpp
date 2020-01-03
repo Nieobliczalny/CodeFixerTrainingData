@@ -31,7 +31,7 @@ int main()
 	unsigned long long	c8O6	=	540348684;
   unsigned short int  FfdnIGgcgn  =  (unsigned short)1066886933;
 
-YSZ0_ = (oBmlzec2PA) ? -442525794 : DTEJ;
+YSZ0_ = (oBmlzec2PA) ? (unsigned char)-442525794 : DTEJ;
 for (int i = 0; i < 10; i++)
 {
 switch (YSZ0_)

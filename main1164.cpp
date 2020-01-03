@@ -41,7 +41,7 @@ int main(void)
   short  JhyP4EZPfz;
   JhyP4EZPfz  =  (short)422590088;
  unsigned short int bvAb;
- bvAb = 578108409;
+ bvAb = (unsigned short)578108409;
 	unsigned int	z18T4OS;
 	z18T4OS	=	1472509906;
 	unsigned short	FyDU61;
@@ -93,7 +93,7 @@ int main(void)
  unsigned char V0kzaBI;
  V0kzaBI = (unsigned char)202542538;
   short int  S4Y_LN3XVh;
-  S4Y_LN3XVh  =  -1335889031;
+  S4Y_LN3XVh  =  (short)-1335889031;
   float  SQOVQiPF;
   SQOVQiPF  =  -1594521156;
   int  dqYHiU1D47;

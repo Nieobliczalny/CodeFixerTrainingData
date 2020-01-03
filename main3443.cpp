@@ -38,7 +38,7 @@ int main(void) {
 	char	VGcwdYG	=	(char)-1025583777;
  char hcP8 = (char)-1004463262;
   short int  UB_b0lxb  =  (short)133642101;
-    short int    C5_by    =    885107143;
+    short int    C5_by    =    (short)885107143;
     float    ada232    =    1225488629;
     short    Ufq6fFq0x    =    (short)1189191234;
   unsigned short int  UjJoFR_24x  =  918728600;
@@ -54,7 +54,7 @@ int main(void) {
 	unsigned short int	nEmY	=	0;
 	float	ahOaUC_	=	-1814938988;
  char haxmfPR = (char)-1409048928;
- short kArBi5X = -1499140091;
+ short kArBi5X = (short)-1499140091;
  unsigned int jd_Kc = 928902189;
 	short int	iyIU8	=	(short)-904214986;
   long long  jRLsAUg__  =  -1072095899;

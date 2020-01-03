@@ -223,7 +223,7 @@ case 0:
 Aki_FcNO = yG7r((unsigned short)-1707271035, (unsigned short)1659359325, (short)-465985611, gfU0Y7Yq);
 break;
 case 1:
-Dd1L0 = yG7r(-725278809, QQtFV, pa70esc7, c7Dl);
+Dd1L0 = yG7r((unsigned short)-725278809, QQtFV, pa70esc7, c7Dl);
 break;
 case 2:
 nD5Rh5 = yG7r(nD5Rh5, (unsigned short)-1235860243, 480715236, 715683419);
@@ -244,7 +244,7 @@ case 7:
 GAFHIw = a4O2p91f((unsigned short)-1724032014, IMypYx6, BzwdZIo, ZwjHoLxtu, 365469400);
 break;
 case 8:
-WlRnx_32Yi = a4O2p91f(CP2y_191_2, -855472602, BzwdZIo, ZwjHoLxtu, 1332790617) % 534648244;
+WlRnx_32Yi = a4O2p91f(CP2y_191_2, (short)-855472602, BzwdZIo, ZwjHoLxtu, 1332790617) % 534648244;
 break;
 case 9:
 GAFHIw = (int)abs(FxtZo);

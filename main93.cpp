@@ -47,7 +47,7 @@ int main() {
 	short int	Af2SHg6Lu	=	(short)-789111011;
   short  d_u0  =  (short)-1505704945;
 	double	f5978jn	=	-646376119;
-    unsigned char    DWY8    =    -607069347;
+    unsigned char    DWY8    =    (unsigned char)-607069347;
     char    NvQ7X6    =    0;
 	unsigned long	mGPko	=	-674206710;
  unsigned short p9Y2x27_ = (unsigned short)1500572233;

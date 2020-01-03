@@ -26,7 +26,7 @@ int main(void) {
     short int    LWp8    =    (short)1658637714;
   short  z_6A6  =  (short)-253914422;
   double  ZUKa  =  -985496268;
-  short int  gU5__psM  =  -482203504;
+  short int  gU5__psM  =  (short)-482203504;
  short int ZS80PaT595 = -1977565049;
     unsigned short int    R04hG0D3Y4    =    (unsigned short)743543997;
 	char	rSQ_b_wA6	=	(char)-136136898;
@@ -42,7 +42,7 @@ int main(void) {
  unsigned long long VCCn1z77 = -800191913;
   unsigned short  jTzo  =  (unsigned short)517487890;
  unsigned short int hSbk8kq = (unsigned short)1650464196;
- unsigned char b3ObMra = -1563042184;
+ unsigned char b3ObMra = (unsigned char)-1563042184;
  unsigned char Y6G_3qPN = -1658885264;
 	unsigned short int	qurJ2Rz4V	=	(unsigned short)-1711871211;
 	long long	dU9MU5	=	-1936664043;
@@ -58,7 +58,7 @@ int main(void) {
     short    PP_zLi1_    =    (short)-73747316;
 	long double	UoIU1bUOnZ	=	1350544164;
   long double  Om02N4gQ  =  -1303473235;
- char BY60q = 2134375326;
+ char BY60q = (char)2134375326;
 	unsigned char	ZAMPq	=	1551428082;
  double PN16L7AT9Q = 1651594466;
  unsigned int VD6KKQ_ = 833977565;
@@ -69,7 +69,7 @@ int main(void) {
     long long    A2u05s5    =    -1660353630;
   unsigned short int  fv_m0E  =  (unsigned short)32545594;
  char njV12x = (char)-2118635483;
-  unsigned short int  dLZ_SLx0B1  =  -246113287;
+  unsigned short int  dLZ_SLx0B1  =  (unsigned short)-246113287;
     unsigned short int    FqK7HypZ    =    110131260;
   int  xXQk  =  1768681672;
     long long    aN3z8e    =    -1206476507;
@@ -88,7 +88,7 @@ int main(void) {
  short int J52QMw8e = (short)-556949082;
     long long    HCymQhZvb    =    1230642195;
 	short	X0VC699	=	(short)-467418682;
-    short int    Ru7a9u    =    2084942039;
+    short int    Ru7a9u    =    (short)2084942039;
 	double	wPVD	=	-1331921964;
 	unsigned short	C2e_JKmY	=	-919300732;
     unsigned short int    qgeWv_az    =    (unsigned short)1893343551;
@@ -114,7 +114,7 @@ int main(void) {
 
 if (b1UFaNnQg < 1565832039)
 {
-std::cout << b8sEuBoDVr(wyY2M6Q5__, -622276414, -1347334147, VCCn1z77) << "M33IbQ" << b8sEuBoDVr(wyY2M6Q5__, IOjqnA2t2, cUb1, 1426519297) << "j090AIRGh" << b8sEuBoDVr(wyY2M6Q5__, 2113923211, cUb1, 6374298) << std::endl;
+std::cout << b8sEuBoDVr(wyY2M6Q5__, -622276414, -1347334147, VCCn1z77) << "M33IbQ" << b8sEuBoDVr(wyY2M6Q5__, IOjqnA2t2, cUb1, (unsigned short)1426519297) << "j090AIRGh" << b8sEuBoDVr(wyY2M6Q5__, 2113923211, cUb1, 6374298) << std::endl;
 }
 else if ((iTI0pp70W) && (PN16L7AT9Q <= b3ObMra))
 {

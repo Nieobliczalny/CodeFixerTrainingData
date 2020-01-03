@@ -43,7 +43,7 @@ int main()
 	int	HmjZ0hf	=	1107459275;
     unsigned short    b60NU7q8    =    (unsigned short)-1727152811;
  unsigned short Z781g24i = (unsigned short)-155474891;
-	unsigned short int	QZH44	=	78472480;
+	unsigned short int	QZH44	=	(unsigned short)78472480;
     unsigned char    Lv__TT    =    (unsigned char)1530650373;
 	int	SWc_7f	=	-1238411165;
 	unsigned long long	jDNHlvYbXQ	=	817962667;
@@ -69,7 +69,7 @@ int main()
  short int Ztd753nw6D = (short)904172805;
  double JG8Pc57N = 2132116626;
 	unsigned char	T6ZuQN6QN	=	(unsigned char)-1514932157;
-  char  Z6d2608G  =  469968030;
+  char  Z6d2608G  =  (char)469968030;
     long long    g7tjS5_    =    0;
 
 if (VzQ02y >= 745032546)

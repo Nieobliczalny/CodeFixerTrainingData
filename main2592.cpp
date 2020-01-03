@@ -24,7 +24,7 @@ int main(void)
  unsigned short VEgrb7 = (unsigned short)1690460876;
 	unsigned short	ZA3c	=	(unsigned short)-1787196442;
  unsigned int kJ4p_3mF = -700720426;
-    unsigned short int    Fmd4R    =    -1213525483;
+    unsigned short int    Fmd4R    =    (unsigned short)-1213525483;
  unsigned char fMUv5 = -397693505;
 	unsigned short int	glW9U_	=	495987711;
 	unsigned long	GD37	=	-1839842137;
@@ -42,7 +42,7 @@ int main(void)
  unsigned int IA62_1Tk2r = -1319355878;
  short int HBsqEmOP = (short)-1785459205;
 	unsigned long long	Pdh9p_4	=	1542359665;
-	char	TjZc5kA	=	-372385396;
+	char	TjZc5kA	=	(char)-372385396;
  short int Go1S = (short)1404198064;
     char    GFS026F    =    1676864471;
   double  Rz_5_c_gep  =  -1848533985;

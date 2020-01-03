@@ -239,7 +239,7 @@ case 2:
 i2ghBra24 = XvNsyCU(i2ghBra24, -937614670, FauExg, (short)-380484695, I9p565);
 break;
 case 3:
-HpDQ0RiyA2 = XvNsyCU((unsigned short)-2118449387, HpDQ0RiyA2, Z_g_cCMV, 525696258, i2ghBra24);
+HpDQ0RiyA2 = XvNsyCU((unsigned short)-2118449387, HpDQ0RiyA2, Z_g_cCMV, (short)525696258, i2ghBra24);
 break;
 case 4:
 wiYN_1yqj = (int)floor(lMFJS3E_);

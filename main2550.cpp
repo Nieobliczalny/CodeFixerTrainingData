@@ -43,7 +43,7 @@ int main(int argc, char** argv) {
     double    pkA3fOwd    =    1745360301;
  long long qVPcpBX = 0;
   short  fQx1f3D  =  (short)-172214475;
-	unsigned short int	Q5zP_C	=	-1572664046;
+	unsigned short int	Q5zP_C	=	(unsigned short)-1572664046;
   long long  ewbQO25  =  167086674;
   float  D93iUZHl  =  1495034241;
  unsigned short b2Ft0 = (unsigned short)-236292447;

@@ -18,7 +18,7 @@ int main(int argc, char** argv) {
  M54sdFX4 = (unsigned char)-1788166708;
  F_OJC = (unsigned char)1463552433;
  nN12ep9 = (unsigned char)1744284993;
- g4IFwrYd5p = -1823103055;
+ g4IFwrYd5p = (unsigned char)-1823103055;
  IPSo = -1840315600;
  a_xXzZF = 85318026;
  d_1oL6b1 = -1788969541;
@@ -28,7 +28,7 @@ int main(int argc, char** argv) {
  Tue9e40 = (unsigned char)-476065777;
  Wi_r = (unsigned char)-737768380;
  ms771I1_t = (unsigned char)-408302972;
- iky36 = 1161658141;
+ iky36 = (unsigned char)1161658141;
  yO7e = -1946308742;
  ewu0 = 2014291530;
  Eq0Q_Qmde3 = -303823327;
@@ -38,7 +38,7 @@ int main(int argc, char** argv) {
  W2Gi2f7O59 = (unsigned char)-1619829596;
  pVLpr26 = (unsigned char)308173638;
  XYm2p75tS = (unsigned char)-25064803;
- IvFiVA_ = -181410442;
+ IvFiVA_ = (unsigned char)-181410442;
  pj2EIDFp5 = 493521312;
  tSC_tCIP = 314758846;
  Ic6x5 = 849655888;
@@ -93,7 +93,7 @@ case 'd':
 RL6F = Xx01l72(m_o9H0_LN, (char)1111221440);
 break;
 case 'e':
-RL6F = Xx01l72((char)-1155045656, 1652405409);
+RL6F = Xx01l72((char)-1155045656, (char)1652405409);
 break;
 case 'f':
 RL6F = Xx01l72(XYm2p75tS, 1110878393);
@@ -171,7 +171,7 @@ RL6F = Xx01l72(pj2EIDFp5, (char)1997308771);
 }
 else
 {
-a_xXzZF = Xx01l72((char)-1764488636, -1812385973) | IPSo;
+a_xXzZF = Xx01l72((char)-1764488636, (char)-1812385973) | IPSo;
 }
 }
 --i;
@@ -524,7 +524,7 @@ iky36 = pVLpr26 / RL6F;
 switch (ms771I1_t)
 {
 case 'a':
-RL6F = Xx01l72((char)-1831770188, 1535464939);
+RL6F = Xx01l72((char)-1831770188, (char)1535464939);
 break;
 }
 switch (d_1oL6b1)
@@ -539,7 +539,7 @@ case 2:
 RL6F = Xx01l72(W2Gi2f7O59, (char)-560482624);
 break;
 case 3:
-a_xXzZF = Xx01l72(-729797711, -17811640) / iky36;
+a_xXzZF = Xx01l72((char)-729797711, -17811640) / iky36;
 break;
 case 4:
 Ic6x5 = Xx01l72(W2Gi2f7O59, F_OJC) << Wi_r;
@@ -550,7 +550,7 @@ break;
 }
 cout << Xx01l72(g4IFwrYd5p, (char)-635608496) << endl;
 
-cout << Xx01l72(g4IFwrYd5p, (char)-1009909904) << Eq0Q_Qmde3 << Xx01l72((char)1995169416, 2071036753) << efd4T_Ft6s << endl;
+cout << Xx01l72(g4IFwrYd5p, (char)-1009909904) << Eq0Q_Qmde3 << Xx01l72((char)1995169416, (char)2071036753) << efd4T_Ft6s << endl;
 for (int i = 7; i >= 0; i--)
 {
 {

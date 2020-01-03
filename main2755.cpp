@@ -88,7 +88,7 @@ case 'f':
 Y0GUjq6 = nrUp_(825781202, (short)-1530443974, DX2N_G, (short)147454490);
 break;
 case 'g':
-N0866_v = BzqY_Z((char)-1911741289, -1108030181, ZAdbf, 458022748);
+N0866_v = BzqY_Z((char)-1911741289, -1108030181, ZAdbf, (unsigned short)458022748);
 break;
 case 'h':
 H6zU9_5O = Nd87t048Jv >> DX2N_G;
@@ -157,7 +157,7 @@ if (Y0GUjq6 & nJP5uj_6s)
 switch (fhxO)
 {
 case 'a':
-Y0GUjq6 = eh8_DnX4s(Y0GUjq6, 90486882, E9RKVMj, 956345303, ySP_);
+Y0GUjq6 = eh8_DnX4s(Y0GUjq6, (short)90486882, E9RKVMj, 956345303, ySP_);
 break;
 case 'b':
 ySP_ = I7d0q((unsigned short)-1024641664);

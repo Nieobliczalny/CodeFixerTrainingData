@@ -24,7 +24,7 @@ int main(void) {
     long long    mquVHrZ    =    2023500489;
     unsigned long long    XU9c    =    868324238;
 	short	qr_B	=	(short)1026587842;
-	unsigned char	X4mpM96	=	-900283782;
+	unsigned char	X4mpM96	=	(unsigned char)-900283782;
   unsigned char  l4046FOsI  =  334015940;
     unsigned short    Cjrw377v    =    (unsigned short)767610128;
   long  rLIHPH  =  0;
@@ -44,7 +44,7 @@ int main(void) {
   short  LELSJX  =  (short)-1063949823;
 	char	ESD1	=	0;
     unsigned char    F_f3_2_ym    =    (unsigned char)424211645;
-	short	Kqn1	=	893904135;
+	short	Kqn1	=	(short)893904135;
 	unsigned short	B5F8	=	0;
 
 rLIHPH = TMmnJlc(qA5J38wm8Y);

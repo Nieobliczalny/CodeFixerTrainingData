@@ -132,7 +132,7 @@ int main(int argc, char** argv) {
     char    HtW352t;
     HtW352t    =    (char)-1835500339;
  short d9rw4;
- d9rw4 = 319974192;
+ d9rw4 = (short)319974192;
     char    NRo_qcNA4;
     NRo_qcNA4    =    (char)-1665466422;
  float hH_MG_;

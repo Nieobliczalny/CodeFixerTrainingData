@@ -29,7 +29,7 @@ int main(void) {
  double U2c0CF5E7 = 564870633;
  char xfYqwm = (char)-949579498;
  int mQ1L = 0;
-	unsigned short int	RMVjQAxy7h	=	-1557560003;
+	unsigned short int	RMVjQAxy7h	=	(unsigned short)-1557560003;
     double    Aajv0_16Fo    =    1301892073;
 
 if (vwY8m)

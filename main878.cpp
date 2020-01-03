@@ -27,7 +27,7 @@ int main(int argc, char** argv) {
   T07KtE  =  (char)762968818;
   UaFG  =  (char)-1984961635;
   UsXj43_zrk  =  (char)-2022712755;
-  ZdOG7  =  259008988;
+  ZdOG7  =  (char)259008988;
   Ga_rU  =  640773806;
   Xk0fHh  =  946129813;
   yc7_PW1QC  =  -1545770229;
@@ -37,7 +37,7 @@ int main(int argc, char** argv) {
   qt1e  =  (char)-1326005577;
   Rv8N77  =  (char)-1944955330;
   zJI481q19C  =  (char)1483052006;
-  Ifdfq  =  1870659653;
+  Ifdfq  =  (char)1870659653;
   SRTg23tc60  =  -706595792;
   JzL_u6Cr1  =  1349536828;
   MD75UA  =  1597252117;
@@ -47,7 +47,7 @@ int main(int argc, char** argv) {
   R5e4  =  (char)-1782476291;
   p2b_w75_f_  =  (char)451347387;
   e4rci1  =  (char)-89167990;
-  Z1_02fD_e_  =  1319581224;
+  Z1_02fD_e_  =  (char)1319581224;
   gI2ck2  =  1502807598;
   Mv4H  =  1735559513;
   NB3d  =  560280036;
@@ -57,7 +57,7 @@ int main(int argc, char** argv) {
   TprQgRY  =  (char)1030346587;
   feGWx7_  =  (char)-203665796;
   f4Mg  =  (char)396308508;
-  JTh3Tsu0  =  629628333;
+  JTh3Tsu0  =  (char)629628333;
   cF83B  =  1134009702;
   YGDmpQ6Qnp  =  -1164851774;
   y5_Ms3  =  2076365050;
@@ -67,7 +67,7 @@ int main(int argc, char** argv) {
   uv5UR45  =  (char)2135505885;
   H3n4t  =  (char)498980200;
   VHB8Z86  =  (char)-1342593309;
-  N960lO  =  -1923723817;
+  N960lO  =  (char)-1923723817;
   U23E  =  811776381;
   MKgG2C  =  1787743803;
   LWgsP8_t2c  =  -1130180039;
@@ -77,7 +77,7 @@ int main(int argc, char** argv) {
   eM1SCPe  =  (char)758316982;
   J3_iHE50  =  (char)-1652507520;
   l489GH4N  =  (char)1297492140;
-  gMIiTDin  =  -1589778599;
+  gMIiTDin  =  (char)-1589778599;
   vthIK06kaC  =  -355666340;
   Z_1195vBF  =  204221594;
   E35K_  =  109841016;
@@ -167,7 +167,7 @@ case 1:
 JzL_u6Cr1 = pS_Nl6eY(JzL_u6Cr1, (short)-525994285, Ga_rU, Udj0KA_01y, Xk0fHh);
 break;
 case 2:
-LWgsP8_t2c = pS_Nl6eY(dLJnT0oKE9, LWgsP8_t2c, -957826288, (char)1441071342, -211958240);
+LWgsP8_t2c = pS_Nl6eY(dLJnT0oKE9, LWgsP8_t2c, -957826288, (char)1441071342, (unsigned short)-211958240);
 break;
 default:
 f4Mg = MKgG2C ^ z5_4vm25i;
@@ -222,7 +222,7 @@ case 5:
 dLJnT0oKE9 = dDLpUi(Z_1195vBF, (unsigned short)806398249);
 break;
 }
-MD75UA = pS_Nl6eY(MD75UA, (short)33415620, Vzw7j6, (char)-2091159118, 1880712233);
+MD75UA = pS_Nl6eY(MD75UA, (short)33415620, Vzw7j6, (char)-2091159118, (unsigned short)1880712233);
 A2GzgXIl_8++;
 try
 {

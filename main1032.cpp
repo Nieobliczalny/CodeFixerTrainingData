@@ -159,7 +159,7 @@ int main(int argc, char** argv) {
  char zqbAT__WM;
  zqbAT__WM = (char)164118906;
  unsigned short int NnD10lF;
- NnD10lF = -603507034;
+ NnD10lF = (unsigned short)-603507034;
 	float	xY642Hb_xP;
 	xY642Hb_xP	=	-639851878;
     int    OwcK5eH0;
@@ -173,7 +173,7 @@ int main(int argc, char** argv) {
  short mkHd1cM2ba;
  mkHd1cM2ba = (short)1108171018;
   short  vsazGG;
-  vsazGG  =  121784527;
+  vsazGG  =  (short)121784527;
  long double Tm3I0;
  Tm3I0 = 1123216261;
     float    QEbbKv;

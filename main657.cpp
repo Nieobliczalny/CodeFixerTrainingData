@@ -98,7 +98,7 @@ int main() {
 	short int	d1Y1Wm;
 	d1Y1Wm	=	(short)175340059;
   unsigned short  Q5ir9;
-  Q5ir9  =  973726120;
+  Q5ir9  =  (unsigned short)973726120;
   float  HJ02HK;
   HJ02HK  =  -2143837955;
  unsigned int Q375;

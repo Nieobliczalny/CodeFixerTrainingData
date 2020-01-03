@@ -85,7 +85,7 @@ int main(void)
     unsigned short int    mNl4iV4kav;
     mNl4iV4kav    =    (unsigned short)-560195816;
 	unsigned short	j6JN;
-	j6JN	=	1478203809;
+	j6JN	=	(unsigned short)1478203809;
  unsigned int y7kNL4hO;
  y7kNL4hO = 1649468667;
 	short int	D36K7S0i;

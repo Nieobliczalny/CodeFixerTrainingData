@@ -518,7 +518,7 @@ qe1O32y0V = (unsigned short int)(kYu5WTw);
 }
 else if (LDbHM == sa05)
 {
-Lx4uA = d0N8se7K6((short)140265933, (unsigned char)671588922, 789434290) % 1750896921;
+Lx4uA = d0N8se7K6((short)140265933, (unsigned char)671588922, (short)789434290) % 1750896921;
 }
 else if (FlMt)
 {

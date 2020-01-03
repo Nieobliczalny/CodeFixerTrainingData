@@ -280,7 +280,7 @@ vy36Uhu_ = RtRMe(-1807936154, i124OOrU, (unsigned char)-1226795580, (short)-4605
 cout << RtRMe(750499834, i124OOrU, (unsigned char)-1468157180, ji10, L2C674Xf0B) << PTp8 << endl;
 if (RtRMe(EAoH, i124OOrU, (unsigned char)222487857, ji10, -1775272361) == 0)
 {
-	rcDdWg_ = 1079521910 / RtRMe(EAoH, i124OOrU, 222487857, ji10, -1775272361);
+	rcDdWg_ = 1079521910 / RtRMe(EAoH, i124OOrU, (unsigned char)222487857, ji10, -1775272361);
 }
 v_Ns5rgN0 = BXtx * RbF28Q55;
 

@@ -42,7 +42,7 @@ int main(int argc, char** argv) {
  short b38MHa2Hgw = (short)981033714;
 	int	Zw9j	=	1127532434;
 	short	vJ3crw	=	(short)-1881469805;
-    short int    p_Sz    =    886495157;
+    short int    p_Sz    =    (short)886495157;
  unsigned short eMDxM1 = 21454112;
 	long long	b7h79	=	-1557105355;
     unsigned long long    ArhU    =    203388953;
@@ -70,7 +70,7 @@ int main(int argc, char** argv) {
     long    L4d5s7H    =    -1198364270;
 	long long	nVIX3mZ4	=	-1246867038;
  int z5CuI_ = 2106205015;
-  char  lX5FZ8FSP  =  -1903537459;
+  char  lX5FZ8FSP  =  (char)-1903537459;
     long double    vGa2XMMA    =    2116986338;
   double  htQ_Acuvk  =  -790880485;
     char    QH1l02_    =    (char)2138697885;
@@ -82,7 +82,7 @@ int main(int argc, char** argv) {
   short  iFVJ_TX  =  -1341819221;
  unsigned long long nhsqk0nm = -1575830177;
 	unsigned long	c8B9X6_	=	1470832471;
-	char	WfESf7_m	=	-1145815261;
+	char	WfESf7_m	=	(char)-1145815261;
  double nIVKw85oMZ = 1014403394;
   unsigned char  rQ1yl48Y  =  (unsigned char)1353572893;
  short eemo1 = (short)1183145067;
@@ -107,7 +107,7 @@ int main(int argc, char** argv) {
     unsigned long    wypB0c    =    1395087439;
     unsigned short    z5g7B7    =    (unsigned short)-715245030;
   char  JV_4j  =  (char)1848539806;
-    unsigned char    W7Ai_    =    -779391938;
+    unsigned char    W7Ai_    =    (unsigned char)-779391938;
 	unsigned char	qs2LZH	=	-787531001;
   long  WIE01zB  =  -1854513337;
  unsigned short int Mr6FRD = (unsigned short)817258720;
@@ -232,7 +232,7 @@ while (j >= 0);
 }
 else if ((k9451ur2ix < k29u) || ((vGa2XMMA) || (NYi63 < rqWEck_6kE)))
 {
-cout << "m1NC" << e18yl << n9eWPNB(-742860662, (unsigned char)-831296709) << QMDl8xn5X2((unsigned short)1299083296, -221488593, z5CuI_, (unsigned char)1560478942, -1043565198) << QMDl8xn5X2(OLcp8j_6, 1484754838, (unsigned short)-1654117513, -1700082984, L4d5s7H) << endl;
+cout << "m1NC" << e18yl << n9eWPNB(-742860662, (unsigned char)-831296709) << QMDl8xn5X2((unsigned short)1299083296, -221488593, z5CuI_, (unsigned char)1560478942, -1043565198) << QMDl8xn5X2(OLcp8j_6, 1484754838, (unsigned short)-1654117513, (unsigned char)-1700082984, L4d5s7H) << endl;
 }
 else if (((z5CuI_ > 10551051) && (T3D88 == -1455545278)) && ((lX5FZ8FSP <= 220083570) && (F6lh4m_3w > rqWEck_6kE)))
 {

@@ -200,7 +200,7 @@ JvQLPpH >>= 1446607277;
 break;
 case 'g':
 case 'G':
-rb74D0J = DcsSaf2H8v(F0YKD98g3, w8p1, (unsigned short)2005447322, -1803908083, -1608149969);
+rb74D0J = DcsSaf2H8v(F0YKD98g3, w8p1, (unsigned short)2005447322, (short)-1803908083, -1608149969);
 break;
 case 'h':
 case 'H':

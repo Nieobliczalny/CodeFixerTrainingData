@@ -67,7 +67,7 @@ int main() {
     char    pYA1ze4;
     pYA1ze4    =    (char)-439458640;
   unsigned char  Hx0_;
-  Hx0_  =  -1465212452;
+  Hx0_  =  (unsigned char)-1465212452;
  int N4KAg;
  N4KAg = -992116889;
 	int	p4ZIbQvn_A;

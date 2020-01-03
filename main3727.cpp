@@ -357,7 +357,7 @@ for (int i = 0; i < 2; ++i)
 {
 for (int j = 0; j < 1; j++)
 {
-std::cout << "e7x12B" << r6FErdRZ67((unsigned char)1343630678, -669134753) << "yfzy" << "Sa6_TUwp_" << "YmH0H0n3" << std::endl;
+std::cout << "e7x12B" << r6FErdRZ67((unsigned char)1343630678, (unsigned short)-669134753) << "yfzy" << "Sa6_TUwp_" << "YmH0H0n3" << std::endl;
 }
 }
 if (hh6Jt9UO < a3p_)

@@ -79,7 +79,7 @@ int main()
  short B8672Hc5;
  B8672Hc5 = (short)-831436786;
  unsigned short int D40p;
- D40p = -356369058;
+ D40p = (unsigned short)-356369058;
   unsigned short int  b_F2GCEJ80;
   b_F2GCEJ80  =  (unsigned short)1487688365;
 
@@ -115,7 +115,7 @@ H_5Pauw = oebH2zNrC_(P9U83k);
 }
 
 cout << oebH2zNrC_(P9U83k) << hi6tOu((unsigned char)1406766720, H_5Pauw, 401631826, (char)-570380448, (short)1219615429) << hi6tOu(P9U83k, H_5Pauw, t96Vy, (char)-1556220401, RqNix0y) << endl;
-cout << hi6tOu(1076933873, H_5Pauw, 793806403, PcW9, RqNix0y) << "Y7E3d_z4Dd" << "eXK19k24" << endl;
+cout << hi6tOu((unsigned char)1076933873, H_5Pauw, 793806403, PcW9, RqNix0y) << "Y7E3d_z4Dd" << "eXK19k24" << endl;
 X3H2D3 = oebH2zNrC_(zWCt8JpFF);
 
 pzZ9z0kF_A = (unsigned int)(K_Xa3);

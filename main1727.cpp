@@ -19,7 +19,7 @@ int main(int argc, char** argv) {
 
 if (JO_qU_kD((char)-365573702, (short)91922364, mM3eIra) == 0)
 {
-	LXJA = 651645711 / JO_qU_kD((char)-365573702, 91922364, mM3eIra);
+	LXJA = 651645711 / JO_qU_kD((char)-365573702, (short)91922364, mM3eIra);
 }
 if (YLYnnoA2u >= 736915104)
 {

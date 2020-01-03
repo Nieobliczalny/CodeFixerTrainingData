@@ -118,7 +118,7 @@ case 6:
 ogQMGejiM = B_79x(1156959319, Ntp2, Px_fqLlW, (char)2129243927);
 break;
 case 7:
-ogQMGejiM = B_79x(-128541533, 1454855562, (char)-1779306561, -2006515617);
+ogQMGejiM = B_79x(-128541533, 1454855562, (char)-1779306561, (char)-2006515617);
 break;
 default:
 lfKzj4fw25 = l77N << d_jK;

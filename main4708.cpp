@@ -217,7 +217,7 @@ std::cout << d993125n_X << tv4v8F9(Du0Y4, (unsigned char)746069152, 1597025618, 
 }
 else
 {
-std::cout << tv4v8F9(Du0Y4, -689307820, e1l6m9W, oK4jq6W6Z5, BopkNOS) << std::endl;
+std::cout << tv4v8F9(Du0Y4, (unsigned char)-689307820, e1l6m9W, oK4jq6W6Z5, BopkNOS) << std::endl;
 }
 UQ5D2 = esvh92Ay | h6roRRc;
 

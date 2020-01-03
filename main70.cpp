@@ -23,7 +23,7 @@ int main() {
 	s25H27	=	(short)1092439931;
 	UySA	=	(short)1549177947;
 	VqF7	=	(short)-1707519076;
-	p_iI46e64	=	-2049896500;
+	p_iI46e64	=	(short)-2049896500;
 	rTb_	=	1557690345;
 	Kc676rz16S	=	196130331;
 	NWVKo_aR_D	=	-340809673;
@@ -33,7 +33,7 @@ int main() {
 	UKd7K_pVGt	=	(short)-2081321271;
 	tIdx1Ls1IZ	=	(short)1284783576;
 	LBh5J	=	(short)-122242999;
-	Ea4E6N3g	=	1536065290;
+	Ea4E6N3g	=	(short)1536065290;
   short  RNF7x_3yf,  Qm0_,  X09DfH5,  Q5H6_8,  op_6Wy1;
   RNF7x_3yf  =  0;
   Qm0_  =  0;
@@ -167,7 +167,7 @@ break;
 }
 else
 {
-cout << "m020" << sy2VEjJw() << Hg4cN2((char)461547814, op_6Wy1, B7LW11n, (char)960178773) << Hg4cN2((char)211328945, (short)-1771206875, B7LW11n, 1476186252) << endl;
+cout << "m020" << sy2VEjJw() << Hg4cN2((char)461547814, op_6Wy1, B7LW11n, (char)960178773) << Hg4cN2((char)211328945, (short)-1771206875, B7LW11n, (char)1476186252) << endl;
 }
 for (int i = 0; i < 4; ++i)
 {

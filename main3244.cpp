@@ -65,7 +65,7 @@ int main(void)
   double  R4_5  =  -693130451;
     unsigned char    l80FFVD080    =    (unsigned char)-280968253;
   short int  Aa_9  =  (short)-584917275;
-  char  B1_kL5N  =  1864621532;
+  char  B1_kL5N  =  (char)1864621532;
  short int Xu5xY6G = -73567452;
 	float	GdLH826BB	=	-1741196341;
     float    f8MM    =    782561943;
@@ -102,7 +102,7 @@ int main(void)
 	short int	wwqs	=	(short)1574271174;
  double NF16_ = 735532344;
  char alMqA = (char)317470303;
-    short    kERxODVR    =    -2054452866;
+    short    kERxODVR    =    (short)-2054452866;
   unsigned short int  wx70l8  =  -519918759;
     long long    H5ZK    =    1004254725;
   unsigned int  MTxe  =  -1194954329;
@@ -278,7 +278,7 @@ p_0dHx_ = kkLKe4dFTx((unsigned char)-1722861369, WEc0Fc_49, (unsigned char)17669
 }
 }
 }
-cout << kkLKe4dFTx(p_0dHx_, 545725696, (unsigned char)-884038162, NF16_) << Cc67((unsigned short)-1664579932, 1164105701, -1300274664) << LSv1MY7 << Cc67(p_0dHx_, WEc0Fc_49, m_NPA_g) << wwqs << endl;
+cout << kkLKe4dFTx(p_0dHx_, 545725696, (unsigned char)-884038162, NF16_) << Cc67((unsigned short)-1664579932, 1164105701, (short)-1300274664) << LSv1MY7 << Cc67(p_0dHx_, WEc0Fc_49, m_NPA_g) << wwqs << endl;
 for (int i = 6; i >= 0; --i)
 {
 suv2d = (short)(Px0UyI9q);

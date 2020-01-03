@@ -523,7 +523,7 @@ F6qZb = (int)ceil(r21X0W);
 }
 else
 {
-std::cout << uO5DGx2Nl(pu8wvNSFIY, Y2U92DVE7b, 804016011, fJOqDRO9j) << uO5DGx2Nl(pu8wvNSFIY, (unsigned char)-190625222, -1081622023, fJOqDRO9j) << uO5DGx2Nl((unsigned short)-2036109344, (unsigned char)-490889616, -1239877707, fJOqDRO9j) << uO5DGx2Nl((unsigned short)1997515751, -1254308675, FFSUCgR7, fJOqDRO9j) << HbU03 << std::endl;
+std::cout << uO5DGx2Nl(pu8wvNSFIY, Y2U92DVE7b, 804016011, fJOqDRO9j) << uO5DGx2Nl(pu8wvNSFIY, (unsigned char)-190625222, -1081622023, fJOqDRO9j) << uO5DGx2Nl((unsigned short)-2036109344, (unsigned char)-490889616, -1239877707, fJOqDRO9j) << uO5DGx2Nl((unsigned short)1997515751, (unsigned char)-1254308675, FFSUCgR7, fJOqDRO9j) << HbU03 << std::endl;
 }
 }
 
@@ -783,7 +783,7 @@ case 'b':
 Bm2m5fGpe = uO5DGx2Nl(Ni6UU9, (unsigned char)962004137, Bm2m5fGpe, m8_M3B);
 break;
 case 'c':
-Bm2m5fGpe = uO5DGx2Nl(dtV1CVaZ6, (unsigned char)-2141559617, VOzfclx, 960939375);
+Bm2m5fGpe = uO5DGx2Nl(dtV1CVaZ6, (unsigned char)-2141559617, VOzfclx, (short)960939375);
 break;
 default:
 HbU03 = (int)abs(Ci608G8061);

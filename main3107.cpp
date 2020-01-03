@@ -541,7 +541,7 @@ case 'g':
 mu_E8 = SxyIK_q046((char)-670893448, -2012654151);
 break;
 case 'h':
-a9sVym8x9_ = BjJ30X9(-1804901471, I438hw3fJ, mo7InPY);
+a9sVym8x9_ = BjJ30X9((unsigned short)-1804901471, I438hw3fJ, mo7InPY);
 break;
 }
 

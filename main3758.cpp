@@ -39,7 +39,7 @@ int main() {
   short int  X8CHg  =  (short)1835780079;
  long long FbvcKKQE = 0;
     short    n__6539    =    (short)-1499612094;
-  short int  FNKC5u  =  -543067754;
+  short int  FNKC5u  =  (short)-543067754;
  short int Ok2a7O = 0;
     unsigned int    ijJv    =    2138472427;
     unsigned short int    A9p8Y    =    (unsigned short)1700156823;

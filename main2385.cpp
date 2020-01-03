@@ -47,7 +47,7 @@ int main()
 	unsigned short int	EcFY8wy	=	(unsigned short)-1933340817;
     unsigned short int    Yz_2RMzN9p    =    (unsigned short)-1747126620;
     double    P12_1    =    350983663;
-	short	Zhc_y7_	=	-1217995294;
+	short	Zhc_y7_	=	(short)-1217995294;
   short  QQOGlQA2  =  -11419178;
     unsigned char    Lu1pR    =    -222721381;
 	unsigned int	GL5uq	=	2037100931;
@@ -60,7 +60,7 @@ int main()
   char  td3h38  =  (char)-348246867;
 	long double	t781UB_38V	=	-241761372;
  short int ZVssb = (short)228168526;
-    unsigned short    f9N_hn2    =    -270128565;
+    unsigned short    f9N_hn2    =    (unsigned short)-270128565;
   unsigned char  jh4e0_L4  =  -990819346;
 	unsigned int	Z1362A	=	-571316568;
   long long  AwHI1  =  -1195247668;
@@ -73,7 +73,7 @@ int main()
   short int  pPY79L_  =  (short)-610065233;
 	float	huSPo6P_bf	=	914266300;
  char i3II2Y = (char)434949124;
-  unsigned short  B1mhV6z1Mh  =  -504115952;
+  unsigned short  B1mhV6z1Mh  =  (unsigned short)-504115952;
 	short	l29zA	=	605746065;
  unsigned short int vfbf86tB5 = -468014626;
     char    t7wk7933m    =    2035779501;
@@ -85,7 +85,7 @@ int main()
  int dLlYncPU = 606193540;
   char  tgD3  =  (char)-18489989;
     float    ajr5    =    1044667139;
-    unsigned short int    D4Kf5n    =    2068259531;
+    unsigned short int    D4Kf5n    =    (unsigned short)2068259531;
     unsigned short    RuqGFM0Deu    =    328702119;
     unsigned int    KNNMAA    =    1161819985;
     int    TA3FD    =    -1588425645;
@@ -99,7 +99,7 @@ int main()
 	char	voWyMk	=	(char)-672051292;
   unsigned char  w06860  =  (unsigned char)-2059280227;
   short int  j939WF8  =  (short)-2020188854;
-  short int  D2IRE32  =  -1166889607;
+  short int  D2IRE32  =  (short)-1166889607;
     long    QYdTkR    =    2050956773;
  float wY32Wt09b = 399941958;
     unsigned int    gGJ67    =    1879559676;
@@ -111,7 +111,7 @@ int main()
   unsigned short  e31_a6Nb  =  (unsigned short)-862400622;
  long long UVN88kl0 = 0;
  char Z34_57d = 0;
- short int Vq70_37 = 461600401;
+ short int Vq70_37 = (short)461600401;
 	int	g27H2uds	=	1881918466;
 
 switch (Q5_1nQYI)

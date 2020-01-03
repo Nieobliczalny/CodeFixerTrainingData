@@ -55,7 +55,7 @@ int main()
     unsigned short int    A3_Wg2M6pC;
     A3_Wg2M6pC    =    (unsigned short)-1976509243;
   unsigned short int  v_87nH;
-  v_87nH  =  347916186;
+  v_87nH  =  (unsigned short)347916186;
   unsigned short int  n_atEn_Va;
   n_atEn_Va  =  (unsigned short)1255119606;
     double    ldvgibN;

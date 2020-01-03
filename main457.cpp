@@ -49,7 +49,7 @@ int main(int argc, char** argv) {
     unsigned short int    dpYKvQG1t3;
     dpYKvQG1t3    =    (unsigned short)-1826817247;
   unsigned short  rY_OI;
-  rY_OI  =  1051673756;
+  rY_OI  =  (unsigned short)1051673756;
  unsigned short int Jzn4Y;
  Jzn4Y = 0;
  int CZ053;

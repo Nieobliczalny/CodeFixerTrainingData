@@ -137,7 +137,7 @@ int main(void) {
     unsigned short    dHj15y;
     dHj15y    =    (unsigned short)-96563380;
 	unsigned char	cy0_K;
-	cy0_K	=	-182051080;
+	cy0_K	=	(unsigned char)-182051080;
  unsigned long long s2_p;
  s2_p = -1278647112;
   long long  k3Mas;

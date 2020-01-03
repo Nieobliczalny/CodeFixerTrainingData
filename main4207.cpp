@@ -115,7 +115,7 @@ for (int i = 7; i >= 0; --i)
 {
 if (nCz6uEky4 != O110IoQ7_)
 {
-mQzS541 = lJAr_h1(1329328463, nCz6uEky4, 878183507, 676990699);
+mQzS541 = lJAr_h1(1329328463, nCz6uEky4, 878183507, (char)676990699);
 }
 }
 }

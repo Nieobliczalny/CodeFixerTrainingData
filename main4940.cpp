@@ -153,7 +153,7 @@ e6S51 = o4UmKNg(e6S51, (unsigned char)1854324846, (unsigned short)-235765675, (u
 break;
 case 'g':
 case 'G':
-EQ8AQrP = dXQH5U(Z0ExrAT5F, Yw2r12_M30, -1172547104, 265433356);
+EQ8AQrP = dXQH5U(Z0ExrAT5F, Yw2r12_M30, -1172547104, (short)265433356);
 break;
 case 'h':
 case 'H':

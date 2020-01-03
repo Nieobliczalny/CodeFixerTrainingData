@@ -32,7 +32,7 @@ int main() {
   unsigned long long  F357Ydqj2  =  0;
  short int I0hi = (short)-1500155597;
 	unsigned int	pmFWq	=	0;
- short u8wUpH16Pp = 573351230;
+ short u8wUpH16Pp = (short)573351230;
  unsigned long long Sqoc = -1749814046;
 
 if (pmFWq == 0)

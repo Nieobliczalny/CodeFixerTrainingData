@@ -23,7 +23,7 @@ int main()
  char n1H2 = (char)2023939820;
   char  b3y3Oq  =  0;
 
-cout << Ze78_o6O(n1H2, RBHnc1kcCY, (short)-1371249154) << Ze78_o6O(n1H2, RBHnc1kcCY, K3AuDh0N) << Ze78_o6O((short)-955462337, 1141981615, K3AuDh0N) << iTv0fd2 << RBHnc1kcCY << endl;
+cout << Ze78_o6O(n1H2, RBHnc1kcCY, (short)-1371249154) << Ze78_o6O(n1H2, RBHnc1kcCY, K3AuDh0N) << Ze78_o6O((short)-955462337, (short)1141981615, K3AuDh0N) << iTv0fd2 << RBHnc1kcCY << endl;
 
 cout << Ze78_o6O(n1H2, RBHnc1kcCY, K3AuDh0N) << n1H2 << Ze78_o6O(n1H2, RBHnc1kcCY, K3AuDh0N) << iTv0fd2 << "KJmM7jA9Z" << endl;
 try

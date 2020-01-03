@@ -21,7 +21,7 @@ int main(int argc, char** argv) {
   zTGbZ_Uo  =  (short)1706324712;
   HLB9  =  (short)-927033360;
   hFt3  =  (short)1586577785;
-  L_149SacM  =  239799415;
+  L_149SacM  =  (short)239799415;
   f27c  =  -1951386198;
   ed1_  =  -1532781055;
   yUqyWA_  =  1988681081;
@@ -31,7 +31,7 @@ int main(int argc, char** argv) {
   F183830_0P  =  (short)2025401373;
   ii2F  =  (short)759776132;
   Zgx2d5_0Z  =  (short)1898210304;
-  UF4K  =  498400069;
+  UF4K  =  (short)498400069;
   KAZs6YM504  =  60189493;
 
 {

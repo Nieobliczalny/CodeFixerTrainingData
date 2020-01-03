@@ -81,7 +81,7 @@ int main(int argc, char** argv)
  short yZmSZo_waW;
  yZmSZo_waW = (short)1380590683;
  short int Xp039u;
- Xp039u = 1548740096;
+ Xp039u = (short)1548740096;
  unsigned long long lca9_2Ff;
  lca9_2Ff = 1969269562;
 	unsigned int	rzt6Ux3T;

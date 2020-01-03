@@ -48,7 +48,7 @@ int main() {
   unsigned short  uBC5jb;
   uBC5jb  =  (unsigned short)-735688536;
   unsigned char  rg0XkIRA;
-  rg0XkIRA  =  -654954835;
+  rg0XkIRA  =  (unsigned char)-654954835;
   unsigned int  C55F;
   C55F  =  1350543178;
     long long    I6l_0Qlw;

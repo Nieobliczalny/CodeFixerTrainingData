@@ -45,7 +45,7 @@ int main() {
     int    rH89quFtF    =    -1297906769;
   unsigned short int  GqYd__Zw8  =  (unsigned short)-826241241;
   short  TrgBIG8g  =  (short)336789108;
-    unsigned char    a6_FxQ    =    -1408080823;
+    unsigned char    a6_FxQ    =    (unsigned char)-1408080823;
   double  d41v_2L3WL  =  -545612632;
 	unsigned long long	De_5F	=	-1912505238;
  char foeI = (char)558473732;
@@ -57,7 +57,7 @@ int main() {
     float    FOIEq    =    -1504693902;
  short int YC9qcq = (short)-646478959;
   unsigned int  DaJc  =  -331380692;
-  char  Xssp  =  -504933001;
+  char  Xssp  =  (char)-504933001;
  unsigned int eB_9r47yd = 2037724384;
     unsigned int    OO68_    =    597892920;
 

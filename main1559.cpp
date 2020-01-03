@@ -62,7 +62,7 @@ int main(int argc, char** argv) {
  char xHt6 = (char)-2027493891;
 	int	fjM3C	=	1863176194;
   char  eROtk9W6  =  (char)-1056267183;
-    unsigned char    Lp90nCI0zp    =    -1884254797;
+    unsigned char    Lp90nCI0zp    =    (unsigned char)-1884254797;
     long double    BJH50    =    -1256168590;
  unsigned long long dOY7m6 = 152560679;
 	unsigned int	nj6_wWE22_	=	-350931271;
@@ -74,7 +74,7 @@ int main(int argc, char** argv) {
  unsigned short t5n9 = (unsigned short)-1480928805;
  unsigned long long tz6D6qu = 427325390;
   unsigned short  rmrLx59M7p  =  (unsigned short)-819557714;
-  short  wPa3U7VFF  =  -1050008812;
+  short  wPa3U7VFF  =  (short)-1050008812;
 	unsigned short int	PYUi71_b	=	1983075292;
     unsigned long long    W5giP    =    138608107;
  unsigned int rYh_D = 701509163;
@@ -91,7 +91,7 @@ int main(int argc, char** argv) {
 	unsigned char	KVtP4Ei3mh	=	(unsigned char)-666954919;
   long  G8_65_Ed  =  -659919748;
 	char	o3sz6	=	(char)-1102802384;
-  unsigned short  Nf38fgS27g  =  -505617509;
+  unsigned short  Nf38fgS27g  =  (unsigned short)-505617509;
   long long  XE68  =  777404488;
   float  an9c  =  -838753017;
     float    S7Dp1D3    =    -1424236797;
@@ -102,7 +102,7 @@ int main(int argc, char** argv) {
 	float	R0CWaO2_az	=	2036325889;
 	short int	lo1O9tZqXd	=	(short)2105499381;
   unsigned long long  WvhJ5F6Q_m  =  -2049341610;
- unsigned short int w_Vxeb1 = -1274424690;
+ unsigned short int w_Vxeb1 = (unsigned short)-1274424690;
 	unsigned long	rQ3FPDtwB	=	-117594145;
  int s3lt6_ = 136937259;
   float  tSm8c5  =  -1681153281;
@@ -125,7 +125,7 @@ std::cout << "Z2AuP" << "dT64pOf5G" << iBW2((short)-1794324728, tU59, (unsigned 
 
 try
 {
-D_OhZ = nKq7YT8ekI((unsigned char)801220496, (unsigned char)-483000798, Nf38fgS27g, 1766559800);
+D_OhZ = nKq7YT8ekI((unsigned char)801220496, (unsigned char)-483000798, Nf38fgS27g, (unsigned short)1766559800);
 }
 catch (int& errorCode)
 {

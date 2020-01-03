@@ -26,7 +26,7 @@ int main(void) {
 	unsigned short int	m9o136phM	=	(unsigned short)408075851;
 	unsigned int	gH8t2g5	=	0;
  long long JVTa4T = 659645653;
- unsigned char xG0WQ0x = -1508063525;
+ unsigned char xG0WQ0x = (unsigned char)-1508063525;
  int gZO4 = 603449708;
  long double MCb48 = 753172518;
  short NScttS23 = (short)-1742477;
@@ -45,7 +45,7 @@ int main(void) {
   double  iCKmB17  =  -1610763519;
  unsigned char F011B = (unsigned char)1440855650;
   short int  s__1hro  =  (short)-1491949716;
- short b_Azm_P0x4 = 553762545;
+ short b_Azm_P0x4 = (short)553762545;
 	unsigned short	Rv79gK5x	=	1770879105;
   unsigned short  m1oCHK  =  (unsigned short)1818916362;
     int    QiyQyp    =    -1675390866;
@@ -74,7 +74,7 @@ int main(void) {
 	unsigned short	BdGUub_	=	(unsigned short)1021704734;
  int zQQ2p = 870049369;
 	unsigned short int	blsPje_n	=	(unsigned short)-911749093;
-	unsigned short	c32_pqJ	=	-265920694;
+	unsigned short	c32_pqJ	=	(unsigned short)-265920694;
 	unsigned char	gXQc_daE_g	=	-1193617486;
 	int	g7n3D1zc4	=	-1359418304;
 	short int	CFwO109	=	1141656688;
@@ -85,7 +85,7 @@ int main(void) {
   short int  A_1w  =  (short)1361445164;
  unsigned short C9RA = (unsigned short)818980030;
     unsigned short    Zzxi_9    =    (unsigned short)1858695618;
-    char    Cy1R9    =    1736479610;
+    char    Cy1R9    =    (char)1736479610;
     float    pld1DD7RP    =    -271730099;
     unsigned short int    ZG8JIgri    =    -1013371665;
  unsigned char hgXL2 = 795160488;
@@ -106,7 +106,7 @@ int main(void) {
  unsigned long e39eDrGR = -1754799123;
     short    mzH8MI    =    (short)-321652966;
     short    Npij5CC    =    (short)1518853855;
-  short  VCKAKM74  =  291736134;
+  short  VCKAKM74  =  (short)291736134;
 
 O28D2212Fi = (int)floor(qJ38E3d);
 cout << xG0WQ0x << w18wTj7 << "W1umvnbF" << "LpIXaa" << endl;

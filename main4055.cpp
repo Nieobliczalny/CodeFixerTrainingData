@@ -41,7 +41,7 @@ int main(int argc, char** argv) {
 	unsigned short	q98LfFcK	=	(unsigned short)-1707404763;
   char  NhIUp5aL  =  (char)1663591741;
     unsigned long    xll2b5_Y    =    278252396;
-    char    fxDBU5_cn    =    1001628642;
+    char    fxDBU5_cn    =    (char)1001628642;
 	char	joK7	=	1668117500;
   float  f59sNA  =  1518270946;
  unsigned char gxhQAi_u = (unsigned char)784134642;

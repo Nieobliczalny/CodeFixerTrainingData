@@ -31,7 +31,7 @@ int main(int argc, char** argv) {
     unsigned short int    WtI_J8Yr    =    (unsigned short)121852507;
     long long    mfrx7_54pY    =    716236296;
  short int cf6z3H0_Xd = (short)-1550696969;
-	unsigned short	G_q0i_8B	=	1786446946;
+	unsigned short	G_q0i_8B	=	(unsigned short)1786446946;
   short int  ZpZU4  =  (short)-1025924571;
     long long    lTcp    =    262854540;
     unsigned int    LnQCv    =    1263943714;
@@ -57,7 +57,7 @@ int main(int argc, char** argv) {
   float  hyyOkA  =  2101468923;
     short    r_N7m6F    =    (short)-1883507049;
   long double  L90P  =  -1308811065;
-	unsigned short int	aXY_5	=	1780191108;
+	unsigned short int	aXY_5	=	(unsigned short)1780191108;
   unsigned short int  SVqyjEw4_c  =  1017161369;
  unsigned long long h5xu_hS = 1356644996;
     double    t422UwA    =    768505286;
@@ -99,7 +99,7 @@ int main(int argc, char** argv) {
     unsigned int    r67jX2I    =    1691809323;
   short  U_QBWSdv  =  (short)1864579555;
     unsigned long long    ayQ6eK6e    =    2005109695;
- short Q2eBgpr0 = -26588689;
+ short Q2eBgpr0 = (short)-26588689;
     int    pe0tCxm    =    1059204373;
  float F5ktx3_82z = -424691047;
 	unsigned short int	QBXqiN	=	0;
@@ -354,7 +354,7 @@ case 'e':
 QBXqiN = EJ31K8vO((unsigned short)-1102900821, mKo_, (unsigned short)-1862824632, (unsigned short)-49799477, ix5tqt);
 break;
 case 'f':
-B4xa9H1 = EJ31K8vO((unsigned short)1879948432, mKo_, 39798884, WM44LLiQa, 1734512303) | WM44LLiQa;
+B4xa9H1 = EJ31K8vO((unsigned short)1879948432, mKo_, (unsigned short)39798884, WM44LLiQa, 1734512303) | WM44LLiQa;
 break;
 case 'g':
 lCc925 *= r1f_JWz7f;
@@ -589,7 +589,7 @@ t422UwA = (int)ceil(zFH4jDU);
 }
 else if (r64fWx == QK7HIIa6Z)
 {
-k_zE1_s_ = EJ31K8vO((unsigned short)-2102191992, (short)-1370826626, (unsigned short)1822718194, (unsigned short)1829150810, 1847069255);
+k_zE1_s_ = EJ31K8vO((unsigned short)-2102191992, (short)-1370826626, (unsigned short)1822718194, (unsigned short)1829150810, (short)1847069255);
 }
 else
 {

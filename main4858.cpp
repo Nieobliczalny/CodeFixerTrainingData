@@ -364,7 +364,7 @@ case 5:
 TW4QH995 = (JRHAi_fhw <= z_h1JZL) ? -563100469 : -1314317706;
 break;
 case 6:
-Yr4E = xPddL_oF8m((unsigned short)-1741345932, (char)-178019042, 403854441, CVlS, Yrh975d_);
+Yr4E = xPddL_oF8m((unsigned short)-1741345932, (char)-178019042, (unsigned short)403854441, CVlS, Yrh975d_);
 break;
 case 7:
 G41cijUL = tiNy3(G41cijUL, E8qx, IGXf09H);

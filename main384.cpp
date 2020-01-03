@@ -50,7 +50,7 @@ int main(void)
   unsigned short int  R46x  =  (unsigned short)1814604511;
  long fh9_0 = -682596357;
   unsigned long long  lGBSg0  =  1624069536;
-  unsigned short int  x0_r7F_  =  220392739;
+  unsigned short int  x0_r7F_  =  (unsigned short)220392739;
  int YG5K1 = -2133639756;
   unsigned long  LT793Rmy  =  889682627;
 	unsigned short int	hds9EpHT	=	(unsigned short)1383759727;
@@ -71,7 +71,7 @@ int main(void)
  short omAshm3I7x = (short)-1350484781;
     unsigned short    SdnSoW8v    =    (unsigned short)-1756530886;
  unsigned long WlKVJR7 = 76474616;
-  unsigned short int  vLvPF  =  -1062433815;
+  unsigned short int  vLvPF  =  (unsigned short)-1062433815;
  int u3Ow0 = 1043113218;
  long long u4_F_ = 2077840585;
 	unsigned char	l26J7997	=	(unsigned char)-502313366;

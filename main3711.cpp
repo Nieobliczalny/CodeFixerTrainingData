@@ -35,7 +35,7 @@ unsigned int  v429(unsigned short int  aTI27,char  j5Hy9,unsigned long  p_f4Xn14
 
 int main(int argc, char** argv)
 {
-	short	f58vW3	=	(short)1856297143,	Sx7jcrT	=	(short)1483454213,	v83z	=	(short)1977445650,	i056Q_	=	(short)-889347118,	l6f_0_3Zm	=	605886299;
+	short	f58vW3	=	(short)1856297143,	Sx7jcrT	=	(short)1483454213,	v83z	=	(short)1977445650,	i056Q_	=	(short)-889347118,	l6f_0_3Zm	=	(short)605886299;
  unsigned long long x2u58NAr = 0, jrd2lzQ = 0, M1qBiq = 0, k2sNe_ = 0;
 
 if (CB893cpmF() == 0)

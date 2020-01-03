@@ -31,7 +31,7 @@ int main() {
     unsigned short    i55xWB;
     i55xWB    =    (unsigned short)-24745573;
 	unsigned short	RAg8j3;
-	RAg8j3	=	1624543128;
+	RAg8j3	=	(unsigned short)1624543128;
 	unsigned long	l1wwrWw32_;
 	l1wwrWw32_	=	-405265310;
   unsigned long  w7QAGmE;

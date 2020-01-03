@@ -49,7 +49,7 @@ int main()
 	short int	NmT6538Ae;
 	NmT6538Ae	=	(short)-2059808733;
   unsigned short int  G4md2;
-  G4md2  =  806023431;
+  G4md2  =  (unsigned short)806023431;
   long double  fpr3;
   fpr3  =  1836204295;
 	double	cRNIGG8X4;
@@ -305,7 +305,7 @@ if (E2i808e1 == 0)
 KFe5 = (float)(q3jj5x6CH_);
 t8V4_MbT = kC7Gq9Q157((short)1491503817, qL7dtQP, -155112447, KFe5, -192938046) >> 371265663;
 
-E2i808e1 = kC7Gq9Q157((short)-718813046, (char)994957627, 777179060, -363729150, -1088659083);
+E2i808e1 = kC7Gq9Q157((short)-718813046, (char)994957627, 777179060, (unsigned short)-363729150, -1088659083);
 
 E2i808e1 = kC7Gq9Q157(oBv1Q223ym, (char)-1276993923, -93213092, S2W3r_B3, p5kqs7u);
 
@@ -383,7 +383,7 @@ catch (int& errorCode)
 VgIoN2h = kC7Gq9Q157(VoM4jJ6xP, -1004722346, YHJOKpqn63, -1160022599, 721516036);
 }
 
-E2i808e1 = kC7Gq9Q157((short)-1358165493, 1112696315, -758655709, 1583178313, vHLRBG);
+E2i808e1 = kC7Gq9Q157((short)-1358165493, (char)1112696315, -758655709, 1583178313, vHLRBG);
 xA3_m_ = (int)abs(YA2y724);
 
 {
@@ -413,7 +413,7 @@ case 1:
 AgvFpp4 = KA04z85PS ^ NmT6538Ae;
 break;
 case 2:
-VgIoN2h = kC7Gq9Q157((short)-187186785, (char)245920656, C5p7, 771895917, mqyU61);
+VgIoN2h = kC7Gq9Q157((short)-187186785, (char)245920656, C5p7, (unsigned short)771895917, mqyU61);
 break;
 case 3:
 VgIoN2h = kC7Gq9Q157(-342146542, Z8H87, -1769428547, -1689098792, -232811423);

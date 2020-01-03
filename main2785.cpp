@@ -39,7 +39,7 @@ int main(void) {
     unsigned short    l5D4;
     l5D4    =    (unsigned short)-687303281;
   unsigned char  JTVRm1qp2_;
-  JTVRm1qp2_  =  790157999;
+  JTVRm1qp2_  =  (unsigned char)790157999;
     short    iNpkL;
     iNpkL    =    (short)837879864;
   unsigned long long  OFirP6;

@@ -71,7 +71,7 @@ int main(void) {
     short int    SnEj91g    =    (short)-108674226;
  int Ie3JTkz6M6 = -1627843985;
   unsigned short  Wg6k3HcbS  =  0;
- char O1LC14 = -1183940059;
+ char O1LC14 = (char)-1183940059;
  short int bd07stBW = (short)701853757;
  long long CBp5Mt_Lye = 681325787;
     long long    r55ihf6    =    1324143215;

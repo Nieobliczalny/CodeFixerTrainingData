@@ -94,7 +94,7 @@ int main(void)
 	unsigned char	u93Zi367i;
 	u93Zi367i	=	(unsigned char)-219048798;
     unsigned short    y8kD9k469;
-    y8kD9k469    =    1115337034;
+    y8kD9k469    =    (unsigned short)1115337034;
  unsigned long Pz85;
  Pz85 = 842184934;
  unsigned short int i0Ob;
@@ -448,7 +448,7 @@ a98y8 = rPiO((short)-1662329032, yhW3gVQQgn, (unsigned short)1413656372, (unsign
 }
 else if (D3BVp54 <= u_9B)
 {
-JucKyDFs = rPiO(-401598982, S45hgZvg4, r792V, -73316413);
+JucKyDFs = rPiO((short)-401598982, S45hgZvg4, r792V, -73316413);
 }
 else
 {

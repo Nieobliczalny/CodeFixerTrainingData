@@ -161,7 +161,7 @@ case 'a':
 vRi5XH8 = DW2_Y9(vRi5XH8, 316793059, (unsigned char)1289094531);
 break;
 case 'b':
-G7He_6w6 = QZV_IS(B_M4, 1507671265, (short)-235008405, -1976780103);
+G7He_6w6 = QZV_IS(B_M4, 1507671265, (short)-235008405, (unsigned short)-1976780103);
 break;
 case 'c':
 bVOx_DxW = (int)floor(zc19);

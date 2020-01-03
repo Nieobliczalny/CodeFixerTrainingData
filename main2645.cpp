@@ -313,7 +313,7 @@ iCdRP45m0X = cJ1yfUMk5y(iCdRP45m0X, (unsigned char)1041089235, (char)-2090715638
 }
 else if (x3D16 > -1436680931)
 {
-sJ6tXo28n0 = X8nfg(sJ6tXo28n0, kI71kDxpD_, a1fS8erx70, (char)1197790101, -1274413092);
+sJ6tXo28n0 = X8nfg(sJ6tXo28n0, kI71kDxpD_, a1fS8erx70, (char)1197790101, (char)-1274413092);
 }
 else
 {
@@ -438,7 +438,7 @@ case 2:
 uRO6ziisD = ealS(-1792016650, -1237924820, 2007978833);
 break;
 case 3:
-mintD = KN368E0(-1037972643, 1644051049);
+mintD = KN368E0((unsigned short)-1037972643, 1644051049);
 break;
 case 4:
 mintD = KN368E0(PdY_SV, -426325402);

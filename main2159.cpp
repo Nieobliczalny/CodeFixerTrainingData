@@ -158,7 +158,7 @@ int main(void) {
 	short int	dZab_1;
 	dZab_1	=	(short)-810274065;
     short int    H6W3X1b;
-    H6W3X1b    =    -1832036307;
+    H6W3X1b    =    (short)-1832036307;
     unsigned char    Cq7X_k9x;
     Cq7X_k9x    =    (unsigned char)1037386728;
   char  P4500H1n;

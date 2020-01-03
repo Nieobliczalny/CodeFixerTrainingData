@@ -68,7 +68,7 @@ switch (f_16Y22)
 {
 case 'a':
 case 'A':
-fEcCYOf71 = u6o0L622z((short)-1376084997, T518uEv36, (unsigned char)1653389564, (unsigned short)1028308327, 210119164);
+fEcCYOf71 = u6o0L622z((short)-1376084997, T518uEv36, (unsigned char)1653389564, (unsigned short)1028308327, (short)210119164);
 break;
 case 'b':
 case 'B':
@@ -104,7 +104,7 @@ fEcCYOf71 = u6o0L622z((short)-1229522698, M_z6, X9Pfj84_9, (unsigned short)26013
 }
 else
 {
-m3c7mn = u6o0L622z(GXn3vou, M_z6, (unsigned char)1227926677, (unsigned short)43445531, -2090114947) | n58Y5;
+m3c7mn = u6o0L622z(GXn3vou, M_z6, (unsigned char)1227926677, (unsigned short)43445531, (short)-2090114947) | n58Y5;
 }
 }
 else
@@ -133,7 +133,7 @@ fEcCYOf71 = u6o0L622z((short)-272945613, 1265990094, AkQ2b9, PR3wR, (short)-2012
 
 cout << "ac4hF" << Jji45ty << endl;
 
-fEcCYOf71 = u6o0L622z(M_z6, Kf_C6Ej, nopVY, 134733050, jd61);
+fEcCYOf71 = u6o0L622z(M_z6, Kf_C6Ej, nopVY, (unsigned short)134733050, jd61);
 
 return 0;
 }

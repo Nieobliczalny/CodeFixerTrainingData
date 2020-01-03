@@ -302,7 +302,7 @@ case 0:
 LM5W5Bh = Dfx5g5_m(2054496773, -1964299748, (unsigned short)-1812957962, (short)-1851185498, (short)1415413063);
 break;
 case 1:
-wfCBQQ = P8jyQt6C((short)-507660491, -1569616527, -1922305651, ldRYqu7Ogj);
+wfCBQQ = P8jyQt6C((short)-507660491, -1569616527, (unsigned short)-1922305651, ldRYqu7Ogj);
 break;
 }
 }

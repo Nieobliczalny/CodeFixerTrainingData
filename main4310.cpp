@@ -23,7 +23,7 @@ int main(void)
     unsigned char    Et9df6II    =    (unsigned char)-1775853827;
  unsigned char HsCpG3 = (unsigned char)-5429923;
     char    pZ3a33I    =    (char)-611561339;
- unsigned short int KS0A4vE = 1152356308;
+ unsigned short int KS0A4vE = (unsigned short)1152356308;
  unsigned long JTa6lo_ = -1312761213;
   short  d42G59BvY  =  -776837279;
     unsigned short    qtXSD02    =    0;

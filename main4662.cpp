@@ -29,7 +29,7 @@ int main(int argc, char** argv) {
     unsigned long long    J32ci    =    -732567754;
   long  qDP_eW1_  =  -668522582;
   unsigned char  kgZW  =  (unsigned char)-363913659;
-  unsigned short int  mkjH61Y  =  -79165070;
+  unsigned short int  mkjH61Y  =  (unsigned short)-79165070;
 	long	M0cm3	=	-1522580558;
     long    H5LdQmKMy    =    1415166635;
  unsigned short int gHSv0c06 = (unsigned short)-481251086;
@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
     unsigned short    KGfWSs6U8X    =    (unsigned short)621157729;
  unsigned short int p_aPI = (unsigned short)-949718409;
   int  fMqY9  =  -1991731176;
-  unsigned short  N1m01  =  -1065528146;
+  unsigned short  N1m01  =  (unsigned short)-1065528146;
   unsigned char  n1IyS3_K  =  0;
     int    Q17_56B    =    -1217090909;
   long  p54K_7  =  -485408201;
@@ -64,7 +64,7 @@ int main(int argc, char** argv) {
 	unsigned long long	L7JCu99	=	0;
     long double    zQHX6g    =    -9240589;
 	unsigned char	M2Fu	=	(unsigned char)390866105;
-    short int    jkZY3b18Rj    =    -2112811271;
+    short int    jkZY3b18Rj    =    (short)-2112811271;
  char xtx3Q6IgI = -297702120;
 	unsigned short int	u2ClD_b659	=	-1717703978;
   unsigned long  p55e  =  -830975030;
@@ -81,7 +81,7 @@ int main(int argc, char** argv) {
 	float	U_RFn	=	-827104843;
  short g2mu = (short)-464162013;
  unsigned short int Fd0w = (unsigned short)2098230689;
-	short	bU4_uo1_S9	=	-1785769171;
+	short	bU4_uo1_S9	=	(short)-1785769171;
  unsigned int PR7D4 = -161955248;
  unsigned long OpDRv = -928884990;
  unsigned short l3tqo9_X = (unsigned short)-1824031778;
@@ -278,7 +278,7 @@ else if (xtx3Q6IgI >= zGLaVO98)
 {
 for (int j = 0; j < 1; j++)
 {
-std::cout << ChEi((short)714516304, (unsigned short)-1163928364, m2ve) << JWNZ << CXu0g << ChEi((short)-497291152, 1497291084, m2ve) << "gf97g" << std::endl;
+std::cout << ChEi((short)714516304, (unsigned short)-1163928364, m2ve) << JWNZ << CXu0g << ChEi((short)-497291152, (unsigned short)1497291084, m2ve) << "gf97g" << std::endl;
 }
 }
 else
@@ -413,7 +413,7 @@ std::cout << "uAHI6" << ChEi((short)726636239, (unsigned short)-1132034880, (sho
 }
 if (TSj50175Y >= F2bRzUzZ)
 {
-std::cout << ChEi(rU95, K3krech, 1958971425) << bg6v3 << "Jx3r4487" << ChEi(rU95, -1693883991, PR7D4) << "kx1h7zz" << std::endl;
+std::cout << ChEi(rU95, K3krech, (short)1958971425) << bg6v3 << "Jx3r4487" << ChEi(rU95, -1693883991, PR7D4) << "kx1h7zz" << std::endl;
 }
 else if ((RLfIY1LAz4 >= zGLaVO98) && ((bg6v3 & F2bRzUzZ) || (Rbj6IV < 730574845)))
 {

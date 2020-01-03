@@ -45,7 +45,7 @@ int main(void) {
 	short	e7x2;
 	e7x2	=	(short)-1793326132;
  char Py5J1616;
- Py5J1616 = 506464407;
+ Py5J1616 = (char)506464407;
 	long	u539;
 	u539	=	-1720321239;
 	short	C4_73;

@@ -39,7 +39,7 @@ int main(int argc, char** argv) {
 	unsigned short	TNCY_0z	=	(unsigned short)747622601;
   long long  oc0CNg6  =  1724385178;
  char qG7zm = (char)1963839844;
-    unsigned short    eofb9Ks    =    -2083654333;
+    unsigned short    eofb9Ks    =    (unsigned short)-2083654333;
     int    S6rYJYB    =    1080500961;
     unsigned short int    YGDL86    =    (unsigned short)705589712;
 	float	AE0Q6	=	1019338803;
@@ -90,7 +90,7 @@ case 9:
 M7Y6ib7 = nDJgSw(-205438832, (short)74357579);
 break;
 default:
-Zp47m99D = U01yd7B2c(Zp47m99D, oSEMY0h8N, 968517697, x_8NY4yf3, -428300690);
+Zp47m99D = U01yd7B2c(Zp47m99D, oSEMY0h8N, 968517697, x_8NY4yf3, (unsigned char)-428300690);
 break;
 }
 {
@@ -206,7 +206,7 @@ std::cout << "Tw2j0w" << Rf9L4p((short)160035671, c_Q_22Oi7, -425388452, mH41Fgs
 }
 else
 {
-qG7zm = U01yd7B2c((unsigned short)-1650981737, (unsigned char)-39427828, 1258498990, B8yQ783, 466550292);
+qG7zm = U01yd7B2c((unsigned short)-1650981737, (unsigned char)-39427828, 1258498990, B8yQ783, (unsigned char)466550292);
 }
 i++;
 }

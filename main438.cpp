@@ -42,7 +42,7 @@ int main(int argc, char** argv) {
   unsigned long  aIuAdI1a8  =  0;
     float    la9437Dp9    =    548868270;
     unsigned char    pK92G    =    (unsigned char)1722538453;
- short int NYJZZ = -546524241;
+ short int NYJZZ = (short)-546524241;
 
 cout << g4UVGx << endl;
 

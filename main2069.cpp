@@ -183,7 +183,7 @@ break;
 }
 else if (Jnooi9Mv < Zs7s2scDGa)
 {
-cout << AO51O066O((short)1103797394, -1683925992, M67H) << Art5Wz << k5gQKhZpwG << endl;
+cout << AO51O066O((short)1103797394, (short)-1683925992, M67H) << Art5Wz << k5gQKhZpwG << endl;
 }
 else
 {

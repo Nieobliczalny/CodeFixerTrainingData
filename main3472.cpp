@@ -122,7 +122,7 @@ catch (int& errorCode)
 {
 Tfxv07 = PTW0db5 / 1385230341;
 }
-std::cout << L87p << Zwjzss1(j81sv4yA, W50L, (short)-647956964, (short)-1781387088, (unsigned short)796188392) << "w_19_8z" << Zwjzss1((short)-873856151, W50L, XSKA, q0f6g2cO3, 285384121) << std::endl;
+std::cout << L87p << Zwjzss1(j81sv4yA, W50L, (short)-647956964, (short)-1781387088, (unsigned short)796188392) << "w_19_8z" << Zwjzss1((short)-873856151, W50L, XSKA, q0f6g2cO3, (unsigned short)285384121) << std::endl;
 {
 int i = 0;
 while (i < 9)
@@ -194,7 +194,7 @@ kt_H2_B35 = Zwjzss1((short)-153655882, miS0E_lM, (short)-2092079052, mYa8, (unsi
 }
 else if (ADPY7J07 <= 756115392)
 {
-kt_H2_B35 = G_c3c(kt_H2_B35, (char)1116124529, 1198035701, -1148375933, 1100797861);
+kt_H2_B35 = G_c3c(kt_H2_B35, (char)1116124529, 1198035701, (short)-1148375933, 1100797861);
 }
 else
 {

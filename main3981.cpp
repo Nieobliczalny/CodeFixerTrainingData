@@ -19,7 +19,7 @@ int main(int argc, char** argv)
 	unsigned short int	o0vi3irxum;
 	o0vi3irxum	=	(unsigned short)1938131924;
   short int  R6Y7;
-  R6Y7  =  -1972576080;
+  R6Y7  =  (short)-1972576080;
   unsigned char  WVLDA_4o0_;
   WVLDA_4o0_  =  (unsigned char)-1859898221;
     unsigned short    K74l4K230l;

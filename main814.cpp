@@ -127,7 +127,7 @@ case 'J':
 g9_T = h93n((unsigned short)1755662179, g9_T, k81jd62wj7, 1646645892, YeWm404zDx);
 break;
 default:
-tplXV234 = b3DmG3X((short)-956539012, (unsigned short)1283394617, -1069026018);
+tplXV234 = b3DmG3X((short)-956539012, (unsigned short)1283394617, (short)-1069026018);
 break;
 }
 
@@ -190,7 +190,7 @@ if (KUM1w)
 {
 if (svhNCA_ZCi != 372539160)
 {
-k81jd62wj7 = B2lM((unsigned short)1586696343, (unsigned short)792313761, -99417299, di34K9, LT_Pur);
+k81jd62wj7 = B2lM((unsigned short)1586696343, (unsigned short)792313761, (unsigned short)-99417299, di34K9, LT_Pur);
 }
 else if (di34K9 <= -1426223180)
 {
@@ -202,7 +202,7 @@ i9RIeGsR_ >>= 124653811;
 }
 else if ((iUm2i3 != 503393891) || (aYK0L4Go & i9RIeGsR_))
 {
-PqgQOD8oN = h93n((unsigned short)-1784696228, (unsigned short)-864926231, -1382472257, aYt1jZ4, -419940732);
+PqgQOD8oN = h93n((unsigned short)-1784696228, (unsigned short)-864926231, (unsigned char)-1382472257, aYt1jZ4, -419940732);
 }
 else if ((g9_T <= 335493873) || (SU_G6LH))
 {
@@ -229,7 +229,7 @@ PIdLt3M = b3DmG3X(PIdLt3M, aYK0L4Go, (short)-427183760);
 
 if (svhNCA_ZCi & o4V_FLD8p)
 {
-R7_iWchJG = QS9NlOB0(-1353655526, 1770767961, -1627156933, 767610403, 1647396666);
+R7_iWchJG = QS9NlOB0(-1353655526, (unsigned char)1770767961, -1627156933, 767610403, 1647396666);
 }
 else
 {
@@ -247,7 +247,7 @@ while (j >= 0);
 }
 }
 
-k81jd62wj7 = B2lM(w_0HAfq, (unsigned short)1818552658, -1580909768, I_37, v9c__NU8);
+k81jd62wj7 = B2lM(w_0HAfq, (unsigned short)1818552658, (unsigned short)-1580909768, I_37, v9c__NU8);
 {
 int i = 6;
 do
@@ -269,7 +269,7 @@ QI73 = h93n((unsigned short)-1976719924, (unsigned short)376494405, tplXV234, -1
 }
 else if ((Z_dye37) && ((U375Fo == 298955285) && (dr9Dcx883 >= 907909142)))
 {
-k81jd62wj7 = B2lM(a4H6tg2, g9_T, (unsigned short)-2003856238, TLK0bf, 1798003733);
+k81jd62wj7 = B2lM(a4H6tg2, g9_T, (unsigned short)-2003856238, TLK0bf, (char)1798003733);
 }
 else if (hLJ98jRL4k >= -2041166043)
 {
@@ -371,7 +371,7 @@ case 'b':
 k81jd62wj7 = B2lM((unsigned short)-892978027, LT_Pur, KIVGK698M, -109522668, YeWm404zDx);
 break;
 case 'c':
-g9_T = h93n(g9_T, (unsigned short)994905767, i9RIeGsR_, 1477450962, 1983792690);
+g9_T = h93n(g9_T, (unsigned short)994905767, i9RIeGsR_, 1477450962, (unsigned short)1983792690);
 break;
 }
 }

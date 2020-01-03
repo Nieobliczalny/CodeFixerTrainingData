@@ -41,7 +41,7 @@ int main()
 	long double	vN2O8	=	786329113;
 	unsigned short	CDE_dE	=	0;
     unsigned char    SuF5    =    (unsigned char)89917278;
- char N88SA = 1308655398;
+ char N88SA = (char)1308655398;
 
 {
 int i = 9;
@@ -304,7 +304,7 @@ case 1:
 gb_2M5ztJ = rsQ8Z(e_83Ad_LY, (char)415024125, vN2O8, (short)1270836757, I6cIqui);
 break;
 case 2:
-gb_2M5ztJ = rsQ8Z(A5fEHOLg, (char)143419201, (unsigned char)529159416, 841744356, HBQ8N7a4o);
+gb_2M5ztJ = rsQ8Z(A5fEHOLg, (char)143419201, (unsigned char)529159416, (short)841744356, HBQ8N7a4o);
 break;
 case 3:
 c8h8 = I6cIqui + 2073199436;
@@ -349,7 +349,7 @@ p7C49 = rsQ8Z((unsigned short)-1355622983, (char)375461933, Y0836wX, m6W_zV79GE,
 break;
 }
 }
-cout << TM6l1(iWVx2H, -106130092, Y0836wX) << yqcdYx() << rsQ8Z(iWVx2H, (char)-1360978782, -979271216, m6W_zV79GE, vN2O8) << N88SA << "js83h" << endl;
+cout << TM6l1(iWVx2H, -106130092, Y0836wX) << yqcdYx() << rsQ8Z(iWVx2H, (char)-1360978782, (unsigned char)-979271216, m6W_zV79GE, vN2O8) << N88SA << "js83h" << endl;
 
 IOWq2hl5Kt = yqcdYx();
 

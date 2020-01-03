@@ -60,7 +60,7 @@ int main() {
 	char	MqMKE2	=	(char)1143238973;
  long Yloca3 = 0;
     unsigned char    IADET    =    (unsigned char)674591619;
- unsigned short int smExj7ydE = -1227580912;
+ unsigned short int smExj7ydE = (unsigned short)-1227580912;
   long double  S6rYKWHs  =  105436000;
  char KoM5 = 0;
     long    L0HyX_c19    =    -1544344812;
@@ -86,7 +86,7 @@ int main() {
 	unsigned char	nD2koxu9X	=	(unsigned char)-1256965423;
  long long S2l6AiTo = -455193461;
     unsigned char    owOfgk2V    =    (unsigned char)-1771672470;
-    unsigned short int    ny9tvQF    =    813457717;
+    unsigned short int    ny9tvQF    =    (unsigned short)813457717;
   int  w5Tkwh  =  747720298;
   char  jQ_wRUsH  =  (char)61628818;
  long double v2PQLMaV = 1407956039;
@@ -260,7 +260,7 @@ Yloca3 = tK88O((short)-446985892, (unsigned short)-387338422, zOe1Ka4ww);
 
 jQ_wRUsH = -724526093 / tK88O((short)-91517968, QR31yZ5sc, -1532785230);
 
-w5Tkwh = (K2d9o5 > 1132579424) ? jQ_wRUsH : b56pAC2y(Yloca3, (short)1778470869, -88793318);
+w5Tkwh = (K2d9o5 > 1132579424) ? jQ_wRUsH : b56pAC2y(Yloca3, (short)1778470869, (unsigned short)-88793318);
 
 s5oz0fT = (int)ceil(kUigQrgNdB);
 
@@ -435,7 +435,7 @@ S6rYKWHs = b56pAC2y(-772004068, (short)1393453674, (unsigned short)-371274418);
 break;
 case 'e':
 case 'E':
-Z4j9b = b56pAC2y(Z4j9b, (short)1549039505, -1737456235);
+Z4j9b = b56pAC2y(Z4j9b, (short)1549039505, (unsigned short)-1737456235);
 break;
 case 'f':
 case 'F':

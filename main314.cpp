@@ -159,7 +159,7 @@ std::cout << DppQ0Hf28U << u66fQ4uk3 << "P3pZ4b" << u66fQ4uk3 << FQ52YEl(6583736
 }
 else if (SGLR3zSo & 333635793)
 {
-std::cout << Q4hMJ8N_H(dp_GNS, (unsigned short)-1933517254) << cBxqZiBj_P << AadDE0nZjL((short)-865824580, 2095931403, -497844461, -1545019595) << "Jg2yTs" << std::endl;
+std::cout << Q4hMJ8N_H(dp_GNS, (unsigned short)-1933517254) << cBxqZiBj_P << AadDE0nZjL((short)-865824580, 2095931403, (short)-497844461, -1545019595) << "Jg2yTs" << std::endl;
 }
 else if (O1YVW_t5g == aGlA8H3)
 {

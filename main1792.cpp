@@ -625,7 +625,7 @@ case 7:
 M_2Xcz = QEPpm_(M_2Xcz, (unsigned char)1523617675, (unsigned short)1423296506);
 break;
 case 8:
-uYb5y4A4A = QEPpm_(-856142245, (unsigned char)583368613, -1409777977);
+uYb5y4A4A = QEPpm_(-856142245, (unsigned char)583368613, (unsigned short)-1409777977);
 break;
 case 9:
 aAC7Rhu7 = taG3z(aAC7Rhu7);

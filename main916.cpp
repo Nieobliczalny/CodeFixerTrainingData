@@ -39,7 +39,7 @@ int main() {
   unsigned int  TE1BA0  =  447842104;
  unsigned int t82c_SP7sU = -1749335789;
  unsigned short jvBAS5E_yl = (unsigned short)308373812;
-    short int    oGWpBRF1    =    1773544489;
+    short int    oGWpBRF1    =    (short)1773544489;
 	short	k9l3	=	-1877959505;
   short  TW_wi3  =  100082204;
 	unsigned int	Xea0	=	1672811097;
@@ -54,7 +54,7 @@ int main() {
  unsigned long long FUlWU1R = -448187882;
 	double	Mvv6VZ5Kw	=	998067041;
   short  V9Hi  =  (short)-1489682184;
-    short    E_v__    =    566475789;
+    short    E_v__    =    (short)566475789;
     long    gyTP    =    1959399141;
 	unsigned int	C_WV_3k	=	800912358;
   double  KXa0  =  -47273917;
@@ -140,7 +140,7 @@ case 3:
 bMKgkl_3xZ = l8o8_BoN4T(-1070346393, (short)1847454031, a8UqfB);
 break;
 case 4:
-a8UqfB = X6kV6Q((unsigned short)1589565062, 1172993087, -1125914946, XWQ7LXS);
+a8UqfB = X6kV6Q((unsigned short)1589565062, (short)1172993087, -1125914946, XWQ7LXS);
 break;
 case 5:
 bMKgkl_3xZ = l8o8_BoN4T(g6jn, (short)1762447190, (unsigned char)-175819805);

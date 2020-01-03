@@ -97,7 +97,7 @@ int main(int argc, char** argv) {
     unsigned short    QqDNBLp9Mq;
     QqDNBLp9Mq    =    (unsigned short)-63811025;
  unsigned short d479;
- d479 = 1383399838;
+ d479 = (unsigned short)1383399838;
   int  yA_rY73a_5;
   yA_rY73a_5  =  155924180;
   short int  Qc7_;
@@ -171,7 +171,7 @@ int main(int argc, char** argv) {
 
 P0cs_Y = RXndDO2_((unsigned short)547365510, D7_8c_8k1, -1321614370, HvFsR);
 
-Qc7_ = RXndDO2_((unsigned short)-576671894, -1661554083, -1204366573, -1652202320);
+Qc7_ = RXndDO2_((unsigned short)-576671894, (unsigned char)-1661554083, -1204366573, -1652202320);
 
 if (((YOqd81U >= LWi4vqR) && (xWY8531r3 <= -1877934467)) && (u90Zq4wsz & c1864hQ))
 {
@@ -264,7 +264,7 @@ case 0:
 y0s6LPjf2 = (int)floor(hFzi);
 break;
 case 1:
-k6BE = RXndDO2_((unsigned short)263086927, (unsigned char)-2111466066, -1674307273, 1050418386);
+k6BE = RXndDO2_((unsigned short)263086927, (unsigned char)-2111466066, -1674307273, (short)1050418386);
 break;
 case 2:
 KuDmM = (int)ceil(vx108mq4);

@@ -20,7 +20,7 @@ int main(void) {
  unsigned int gU5_6 = 2090213518;
     char    lCyFGDN5F    =    (char)-357602666;
  char g8_5H = (char)1306615617;
-    char    wjVH895CJQ    =    -1496692028;
+    char    wjVH895CJQ    =    (char)-1496692028;
   unsigned short int  SQ08  =  -70519363;
 	char	vq3K2Yv1Aq	=	-237505875;
   unsigned long  haVFg  =  -1242621967;

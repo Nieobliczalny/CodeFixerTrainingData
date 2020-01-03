@@ -71,7 +71,7 @@ int main(void)
   char  g3Pkl_tlM_;
   g3Pkl_tlM_  =  (char)-345715867;
 	short int	H_gutEO5S;
-	H_gutEO5S	=	730019929;
+	H_gutEO5S	=	(short)730019929;
  unsigned long hBkqC;
  hBkqC = 1980668122;
   char  k_4h;
@@ -131,7 +131,7 @@ int main(void)
     unsigned short int    gT09A4vA;
     gT09A4vA    =    (unsigned short)1671213583;
   char  d4_73ULVmX;
-  d4_73ULVmX  =  -1750972260;
+  d4_73ULVmX  =  (char)-1750972260;
 	int	VXYi3;
 	VXYi3	=	0;
   double  RT3_7;

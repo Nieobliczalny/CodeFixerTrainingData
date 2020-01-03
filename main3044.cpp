@@ -19,7 +19,7 @@ int main(void)
  unsigned char a_RQ0 = (unsigned char)1609029857;
     short int    CQ1n7E    =    (short)1811744308;
 	unsigned char	UdscUX2	=	(unsigned char)-207468522;
-  short int  Sh8j2  =  1907009807;
+  short int  Sh8j2  =  (short)1907009807;
   unsigned char  T4iNuc  =  -1011810412;
 	unsigned long long	u9tf	=	16770878;
     unsigned long long    PtapchMy    =    -2037061376;
@@ -47,7 +47,7 @@ int main(void)
   double  QXVksx  =  1723400798;
     long long    AVey6d    =    -1934903234;
 	unsigned short	nW_8_h41_	=	(unsigned short)1603541545;
-  unsigned short int  LP51V6y531  =  -601276548;
+  unsigned short int  LP51V6y531  =  (unsigned short)-601276548;
 	long long	dwgI	=	1151149005;
     unsigned short    D3ubc7s05    =    (unsigned short)563190262;
  char FXGpI2F = 721085892;

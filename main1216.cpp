@@ -277,7 +277,7 @@ else if (((fj74 & 1430790975) || (O95JFA <= 672341212)) && (N33n5RR != 107193571
 {
 for (int k = 0; k < 3; ++k)
 {
-j_p7On9 = fH90GyIh(-868027450, LclU, (unsigned short)-823973336, 853792332, -1231939635);
+j_p7On9 = fH90GyIh(-868027450, LclU, (unsigned short)-823973336, 853792332, (short)-1231939635);
 }
 }
 else

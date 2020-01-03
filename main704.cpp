@@ -29,7 +29,7 @@ int main() {
 	fbOl5	=	(short)1368055650;
 	Smq_	=	(short)377483153;
 	kq01am5	=	(short)-1949687176;
-	rK5yT	=	350114869;
+	rK5yT	=	(short)350114869;
 	s3DebZ	=	-1750969270;
 	hwEMo1	=	358011163;
 

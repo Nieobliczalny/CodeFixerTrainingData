@@ -88,7 +88,7 @@ int main(int argc, char** argv) {
     char    KT9_7dk2V_;
     KT9_7dk2V_    =    (char)-1887017944;
     unsigned char    H9v2;
-    H9v2    =    -1028590615;
+    H9v2    =    (unsigned char)-1028590615;
  unsigned char HVIxn;
  HVIxn = 0;
  unsigned short mq7D;

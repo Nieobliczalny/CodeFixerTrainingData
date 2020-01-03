@@ -142,7 +142,7 @@ case 'd':
 lK3l2mlt2 = QXs_v941P();
 break;
 case 'e':
-olCTYRTG6Z = mthBk_c7iQ(-250277044, I2DQ85lpy3, NzOQ2BFT);
+olCTYRTG6Z = mthBk_c7iQ((unsigned char)-250277044, I2DQ85lpy3, NzOQ2BFT);
 break;
 case 'f':
 EypPd6Mlz4 = t1NW2 & 1507997356;
@@ -300,7 +300,7 @@ case 'b':
 X3_R >>= V5__wz;
 break;
 case 'c':
-OfcQrj2M61 = wDDf1l((short)1499258120, 2044266964);
+OfcQrj2M61 = wDDf1l((short)1499258120, (unsigned char)2044266964);
 break;
 case 'd':
 olCTYRTG6Z = mthBk_c7iQ(fnX39u5Uv, -1819324099, -2076091114);
@@ -441,7 +441,7 @@ else
 {
 cout << wDDf1l(vdV7, (unsigned char)-1235169927) << wDDf1l(vdV7, mnDdJbE) << h_qv1Q74(vdV7) << endl;
 }
-GnTBiYS5C = G7u3(GnTBiYS5C, (short)288158879, (unsigned short)996602512, (unsigned short)1724469410, 1701629767);
+GnTBiYS5C = G7u3(GnTBiYS5C, (short)288158879, (unsigned short)996602512, (unsigned short)1724469410, (char)1701629767);
 
 for (int i = 5; i >= 0; i--)
 {

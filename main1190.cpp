@@ -119,7 +119,7 @@ case 8:
 G2V76s2Ft = jgwPS(G2V76s2Ft, (char)2146855815, (char)-325195071, sFpaa);
 break;
 default:
-cs_U = jgwPS(-1188878168, tEr61X9dX, K1qC, NUnc79w_77);
+cs_U = jgwPS((unsigned char)-1188878168, tEr61X9dX, K1qC, NUnc79w_77);
 break;
 }
 zMJye_47 = G2V76s2Ft ^ 478156355;
@@ -176,7 +176,7 @@ case 2:
 E29V0hcFF8 = TPKtsFul65((short)-427902351, P963tT2, Blfnw3l);
 break;
 case 3:
-hNiS = TPKtsFul65(-1325715798, b_FJ, MA10jOdH8_);
+hNiS = TPKtsFul65((short)-1325715798, b_FJ, MA10jOdH8_);
 break;
 case 4:
 zMJye_47 = KeByM % T7AiL;

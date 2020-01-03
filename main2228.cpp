@@ -442,7 +442,7 @@ Fn4WrRw = (unsigned short)(t0MFVW8oy5);
 switch (CmSUPg8)
 {
 case 0:
-S_mfy0ng7 = Jd7V62(dAMv, S_mfy0ng7, b84ySv12V, -1168722798);
+S_mfy0ng7 = Jd7V62(dAMv, S_mfy0ng7, b84ySv12V, (unsigned char)-1168722798);
 break;
 case 1:
 S_mfy0ng7 = Jd7V62(-1666586555, -2017422988, knDRk, kytE486o0);

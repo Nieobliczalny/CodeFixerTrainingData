@@ -124,7 +124,7 @@ snp_S0L_v = (int)abs(Z82h_Vw);
 }
 else
 {
-snp_S0L_v = mjARYJuox_((unsigned char)1952978829, -749680092, Jvk2CWp, -48046347, y3UX73);
+snp_S0L_v = mjARYJuox_((unsigned char)1952978829, (char)-749680092, Jvk2CWp, -48046347, y3UX73);
 }
 }
 }

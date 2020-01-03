@@ -72,7 +72,7 @@ int main(int argc, char** argv) {
   char  pl42d;
   pl42d  =  (char)-1009950730;
   unsigned short int  mo_h;
-  mo_h  =  1871206717;
+  mo_h  =  (unsigned short)1871206717;
  unsigned short oNO_ud56;
  oNO_ud56 = (unsigned short)954363604;
     short    pUgzxIf;

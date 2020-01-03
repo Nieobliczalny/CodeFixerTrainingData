@@ -182,7 +182,7 @@ sE0M = k1iNq | iY3w;
 }
 if ((IUXhU_C >= 284256270) && (jmpwi4 > sE0M))
 {
-cout << IrJK3nu((unsigned short)-1263418776, (short)-86228296, G1MX37Rqc) << IrJK3nu(-1052136282, F0W1W34, G1MX37Rqc) << endl;
+cout << IrJK3nu((unsigned short)-1263418776, (short)-86228296, G1MX37Rqc) << IrJK3nu((unsigned short)-1052136282, F0W1W34, G1MX37Rqc) << endl;
 }
 else if (uS1W9O4Z0h & VWgryg)
 {
@@ -428,7 +428,7 @@ case 4:
 h3891 = Y2438 / 1711179524;
 break;
 case 5:
-F0W1W34 = IrJK3nu((unsigned short)-149695598, 1330811980, 1392947803);
+F0W1W34 = IrJK3nu((unsigned short)-149695598, (short)1330811980, 1392947803);
 break;
 case 6:
 ONJCCE0uZ = (iY3w & xpSQ) ? (unsigned short)519509812 : nAmZNVOk;

@@ -36,7 +36,7 @@ int main(int argc, char** argv) {
     unsigned long long    Ph1_WZN,    X09bQ_NR,    H4gH6d;
         Ph1_WZN    =    X09bQ_NR    =    H4gH6d    =    0;
 
-std::cout << Ph1_WZN << Kj8w8C_9 << b939_() << T0SXAA((unsigned short)-1517301421, Ze14J9Hz, (short)628106508, -1507442964) << "a95UKK5g" << std::endl;
+std::cout << Ph1_WZN << Kj8w8C_9 << b939_() << T0SXAA((unsigned short)-1517301421, Ze14J9Hz, (short)628106508, (short)-1507442964) << "a95UKK5g" << std::endl;
 
 Ze14J9Hz = Ph1_WZN + Ze14J9Hz;
 

@@ -184,7 +184,7 @@ KMd569g1 = WIgh(Ty9hcn2579, (short)1167561361, 1645997590, C9jb57W9p, (short)130
 }
 else if (ixaWCq60g >= N79RE50)
 {
-tBW3laNghv = WIgh(Publ19, Dy7WXGS, p7DV7ie, (char)394138791, 1365735883);
+tBW3laNghv = WIgh(Publ19, Dy7WXGS, p7DV7ie, (char)394138791, (short)1365735883);
 }
 else if (a3AI > -1028577849)
 {
@@ -409,7 +409,7 @@ case 3:
 bKXFesKaw = Dj2zpd | jxL44mf;
 break;
 case 4:
-Br8k8Mrj57 = WIgh(-143052146, (short)-1405741932, pu4sZ8dY_R, (char)1753854751, -174091591);
+Br8k8Mrj57 = WIgh(-143052146, (short)-1405741932, pu4sZ8dY_R, (char)1753854751, (short)-174091591);
 break;
 case 5:
 KMd569g1 = WIgh(1965403621, 1121716311, I9NVX5o8s, 986137099, pu4sZ8dY_R);
@@ -433,7 +433,7 @@ break;
 }
 }
 std::cout << zNH_sX_7 << q6_l << std::endl;
-std::cout << WIgh(OTlCpZ, (short)2002564670, a3AI, zOC_, (short)-563063974) << "rx4_3" << C_PssC << WIgh(-481564260, (short)-1176169745, a3AI, zOC_, -1038945023) << std::endl;
+std::cout << WIgh(OTlCpZ, (short)2002564670, a3AI, zOC_, (short)-563063974) << "rx4_3" << C_PssC << WIgh(-481564260, (short)-1176169745, a3AI, zOC_, (short)-1038945023) << std::endl;
 
 if ((-267485032 / WIgh(OTlCpZ, IOj2, 648874050, zOC_, -656191493)) > 998376967)
 {

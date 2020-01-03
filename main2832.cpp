@@ -355,7 +355,7 @@ D2ZUIEZ8 = RTDMcYt(D2ZUIEZ8);
 }
 else if (YyfHgG21 >= 1798045562)
 {
-pP_BRK4 = F_J1cA2((unsigned short)644815220, 1333585994, (char)1783433186, -1495532405) & TxYZAV_6N;
+pP_BRK4 = F_J1cA2((unsigned short)644815220, 1333585994, (char)1783433186, (unsigned short)-1495532405) & TxYZAV_6N;
 }
 else
 {

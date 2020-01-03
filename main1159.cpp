@@ -34,7 +34,7 @@ int main()
  unsigned long x2cIV = -101954402;
   short int  yE25P4qu3  =  (short)1552803350;
  unsigned char grz8 = (unsigned char)-220210783;
-	char	bOBkX	=	1566108000;
+	char	bOBkX	=	(char)1566108000;
 	unsigned short int	h_KQEWuO	=	34609547;
   short int  YBe8o  =  -1309479195;
  unsigned char qdayk = 894469887;

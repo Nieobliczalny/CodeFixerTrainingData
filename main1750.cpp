@@ -27,7 +27,7 @@ int main(void)
  unsigned short ICv3kQNTi = (unsigned short)925525079;
   short int  pxc8L5EL2G  =  (short)1739318169;
     short int    BRXXu1hL    =    (short)-1283407607;
- short int dNWlL6yA85 = 1790911791;
+ short int dNWlL6yA85 = (short)1790911791;
  int m_7m = -863698606;
 	long double	Wb5q	=	-376645151;
   unsigned short int  l9vhZb13_  =  0;

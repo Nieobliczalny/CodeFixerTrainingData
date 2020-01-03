@@ -20,7 +20,7 @@ int main(int argc, char** argv) {
   P_Vtlg6  =  (unsigned short)156988291;
   Wu8m6aR8  =  (unsigned short)1482328682;
   mrE4  =  (unsigned short)-1982064225;
-  WiMi65Ggm  =  -345184035;
+  WiMi65Ggm  =  (unsigned short)-345184035;
   SLRI  =  -1543849140;
   gflt  =  -227790671;
   w323  =  -1445136979;
@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
   GpPL7Q4lgt  =  (unsigned short)-1832835541;
   Y5ef1eoR  =  (unsigned short)4745521;
   KMZ5f  =  (unsigned short)2023059445;
-  gD6i  =  -1579523633;
+  gD6i  =  (unsigned short)-1579523633;
   Bfy33VZ  =  446282379;
   U1_tI5  =  338982621;
  int H4c9_6MTx6, khuRx2EEK, CRR7ht7, LW4R_, Ari78fd_0_;
@@ -59,7 +59,7 @@ case 4:
 Wu8m6aR8 = TsKeONYUM2((unsigned char)-1940393353, (char)143798562, (char)839874501, -1047294380, (short)-1363939167);
 break;
 case 5:
-Y5ef1eoR = (CRR7ht7 > Y5ef1eoR) ? um4kb460B : 589004272;
+Y5ef1eoR = (CRR7ht7 > Y5ef1eoR) ? um4kb460B : (unsigned short)589004272;
 break;
 case 6:
 U1_tI5 %= w323;
@@ -208,7 +208,7 @@ Ari78fd_0_ = (int)abs(CRR7ht7);
 
 std::cout << TsKeONYUM2((unsigned char)1749580233, (char)777954462, (char)1021779959, 1132475767, (short)-2060648299) << w323 << std::endl;
 
-P_Vtlg6 = d6tkd_(-27847990, gflt, Bfy33VZ, GpPL7Q4lgt);
+P_Vtlg6 = d6tkd_((unsigned short)-27847990, gflt, Bfy33VZ, GpPL7Q4lgt);
 
 for (int i = 6; i >= 0; i--)
 {
@@ -313,7 +313,7 @@ else
 {
 for (int j = 0; j < 7; j++)
 {
-std::cout << "lI4H5e8HVn" << "vMDc1q9e" << e_25mi2((char)-1234341363, -48391395) << TsKeONYUM2(Y5ef1eoR, Ari78fd_0_, 470851723, Wu8m6aR8, -49795260) << H4c9_6MTx6 << std::endl;
+std::cout << "lI4H5e8HVn" << "vMDc1q9e" << e_25mi2((char)-1234341363, -48391395) << TsKeONYUM2(Y5ef1eoR, Ari78fd_0_, (char)470851723, Wu8m6aR8, -49795260) << H4c9_6MTx6 << std::endl;
 }
 }
 if (GpPL7Q4lgt < -227201945)

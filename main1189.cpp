@@ -39,7 +39,7 @@ int main(int argc, char** argv)
  unsigned char P146dW1_ZX;
  P146dW1_ZX = (unsigned char)1256027100;
   short int  IM92ro;
-  IM92ro  =  69787737;
+  IM92ro  =  (short)69787737;
   unsigned int  hnfM5;
   hnfM5  =  1518854485;
  unsigned short int IYfG5pR3;
@@ -101,7 +101,7 @@ int main(int argc, char** argv)
 	unsigned short int	YlEzSUO;
 	YlEzSUO	=	(unsigned short)-856278439;
   short int  Nir5jn;
-  Nir5jn  =  -1112835455;
+  Nir5jn  =  (short)-1112835455;
   short  RUOS;
   RUOS  =  (short)207379532;
  unsigned long H8OhoPn;

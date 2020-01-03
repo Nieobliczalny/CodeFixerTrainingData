@@ -31,7 +31,7 @@ int main(void)
  unsigned short int NdV80 = 0;
 	double	J480uMh8	=	1731420037;
  unsigned long pS41 = -866879648;
-	unsigned short	AEVKkl	=	-943248737;
+	unsigned short	AEVKkl	=	(unsigned short)-943248737;
     double    Mme9Ldb    =    1230718614;
     unsigned long long    YpB7mImb3    =    444180468;
     int    J17Q6    =    0;
@@ -640,7 +640,7 @@ Q1n6hM = R_o73oPh(doM57_5, (char)-843526643, YpB7mImb3) << 690793081;
 }
 else
 {
-std::cout << NdV80 << YpB7mImb3 << m1W621t1J1((short)894374723, (unsigned short)2010786511) << m1W621t1J1((short)-517067609, -19169066) << "Q0w3" << std::endl;
+std::cout << NdV80 << YpB7mImb3 << m1W621t1J1((short)894374723, (unsigned short)2010786511) << m1W621t1J1((short)-517067609, (unsigned short)-19169066) << "Q0w3" << std::endl;
 }
 }
 catch (int& errorCode)

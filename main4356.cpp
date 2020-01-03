@@ -235,7 +235,7 @@ if (qJVs)
 v5Y_KR95 = ZUFWU((char)413413117, -1317343080, (unsigned char)-2141601051);
 }
 
-rR_d1F = RF9f2C3r(rR_d1F, (unsigned short)2110641491, JuUjx, 538985128);
+rR_d1F = RF9f2C3r(rR_d1F, (unsigned short)2110641491, JuUjx, (char)538985128);
 
 {
 int i = 0;

@@ -159,7 +159,7 @@ case 9:
 zqU58CzA7 = UFY09w4D7((short)322990929, (char)-894989184, jC5ChKX);
 break;
 default:
-rXiLG6Bquy = e5KNi1TSmP(rXiLG6Bquy, zPK2, 796583128, -699074300, kWfmR8yS);
+rXiLG6Bquy = e5KNi1TSmP(rXiLG6Bquy, zPK2, (short)796583128, -699074300, kWfmR8yS);
 break;
 }
 

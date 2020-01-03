@@ -405,7 +405,7 @@ switch (jxBt93R1o)
 {
 case 'a':
 case 'A':
-l0rj92_9 = k27kr2QU((unsigned short)-1044166335, -1742148593, L_hr9JbePT, o92qj4i, xFU3);
+l0rj92_9 = k27kr2QU((unsigned short)-1044166335, (unsigned short)-1742148593, L_hr9JbePT, o92qj4i, xFU3);
 break;
 case 'b':
 case 'B':

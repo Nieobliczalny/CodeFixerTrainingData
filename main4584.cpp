@@ -644,7 +644,7 @@ pj5a9HsVIB = Tonee(ZKs216IWg, (unsigned char)-1166102658, DDT5N, (short)34700224
 }
 else
 {
-XurL = Tonee(ZKs216IWg, (unsigned char)-1759467641, -1954199365, 705983181) % K3A3jB_mF5;
+XurL = Tonee(ZKs216IWg, (unsigned char)-1759467641, -1954199365, (short)705983181) % K3A3jB_mF5;
 }
 --j;
 }

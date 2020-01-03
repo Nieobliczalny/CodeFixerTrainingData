@@ -278,7 +278,7 @@ z87iWQ = PXSuP6(-695410175, 639868007, F_t3D, jga94);
 break;
 case 'e':
 case 'E':
-wvK6Jm = T8Eu41((short)-2117712614, (unsigned char)1300409532, -136545854, bEb1Q, cPpuXEM);
+wvK6Jm = T8Eu41((short)-2117712614, (unsigned char)1300409532, (unsigned char)-136545854, bEb1Q, cPpuXEM);
 break;
 }
 }
@@ -370,7 +370,7 @@ std::cout << T8Eu41((short)-1973133202, kAGQyw, (unsigned char)-1763808259, CbKO
 }
 else
 {
-eH34J = T8Eu41((short)-1377131286, (unsigned char)-2088231843, -905829814, CbKOhCZQ, wvK6Jm) >> KDucTdy;
+eH34J = T8Eu41((short)-1377131286, (unsigned char)-2088231843, (unsigned char)-905829814, CbKOhCZQ, wvK6Jm) >> KDucTdy;
 }
 
 GN_X796Y = lJIUgqAZ / K6C7y1;
@@ -493,7 +493,7 @@ for (int i = 2; i >= 0; --i)
 {
 std::cout << "lMM4LR9n" << "i30nOk" << T8Eu41(reQ4, FKQdz, (unsigned char)1559599254, -310966579, jga94) << SIvR3 << T8Eu41(reQ4, (unsigned char)-694289851, VyqH7JLmCT, -2137141417, jga94) << std::endl;
 }
-std::cout << iYMsfB2mo << T8Eu41(1755357063, FKQdz, VyqH7JLmCT, 991124115, -1781952585) << std::endl;
+std::cout << iYMsfB2mo << T8Eu41((short)1755357063, FKQdz, VyqH7JLmCT, 991124115, -1781952585) << std::endl;
 if (QRvgB15Rl >= WPX_3HTk6_)
 {
 try

@@ -654,7 +654,7 @@ case 1:
 ZpqW9T34_ = CD2_v3(1601579953, 2022136090, (unsigned short)-1148818460, -139326575, (unsigned char)-1287841460);
 break;
 case 2:
-v36jD = dr0N((char)-1141529292, -1411427504, sssp5423, 1625457117);
+v36jD = dr0N((char)-1141529292, (unsigned char)-1411427504, sssp5423, 1625457117);
 break;
 case 3:
 Be44 = CD2_v3(Be44, 572786631, -835768372, -1120003433, CIg8);

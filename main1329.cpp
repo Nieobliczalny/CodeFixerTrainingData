@@ -167,7 +167,7 @@ Iw_48J = z323ngg8M((short)1095973950, Ob0EB, (unsigned short)1843329900, (unsign
 }
 else
 {
-q2yK_tX8 = HJ5el7e9(-1617273775, AVKjl0l);
+q2yK_tX8 = HJ5el7e9((char)-1617273775, AVKjl0l);
 }
 }
 else if (X_tPu9wX != 192491378)
@@ -282,7 +282,7 @@ if (LoQ8i5O == PcF4qcxg)
 {
 if (tADIug1ZW == -1113023135)
 {
-Iw_48J = z323ngg8M(oHav, (unsigned short)-179489034, -971648856, FpeKX, 142289612);
+Iw_48J = z323ngg8M(oHav, (unsigned short)-179489034, (unsigned short)-971648856, FpeKX, 142289612);
 }
 else
 {

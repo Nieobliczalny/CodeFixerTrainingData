@@ -29,7 +29,7 @@ int main(int argc, char** argv)
   short int  cA1_CN450  =  (short)1640050504;
 	unsigned short	zxN9F6117_	=	(unsigned short)-632675953;
  int h28g_MFl = 0;
-	short int	Tk50476D25	=	-1856994309;
+	short int	Tk50476D25	=	(short)-1856994309;
     long double    Nkt_W4Dcz    =    -2096398956;
  long long EqR36F8z = -1965164469;
     long    iIUYiVMUP    =    560593082;

@@ -83,7 +83,7 @@ case 'e':
 Ct7o4vv = (int)abs(NaH5);
 break;
 case 'f':
-mUxFaoQ99 = idx7(1594171981, (unsigned short)-2138314894, (char)290282849, (char)-820397423, -111478125);
+mUxFaoQ99 = idx7(1594171981, (unsigned short)-2138314894, (char)290282849, (char)-820397423, (short)-111478125);
 break;
 case 'g':
 Idv05 = idx7(-1010571138, (unsigned short)-1944790498, 1478693623, 486696498, Pl1xU9l_);
@@ -274,7 +274,7 @@ while (k >= 0);
 }
 if ((y4W62(1118302464, (unsigned char)-854276832, NaH5) / idx7(Pl1xU9l_, (unsigned short)-212414454, (char)1426223444, b25g8Xlz, Idv05)) == -1364961712)
 {
-NaH5 = y4W62(Pl1xU9l_, -921493913, NaH5) / mUxFaoQ99;
+NaH5 = y4W62(Pl1xU9l_, (unsigned char)-921493913, NaH5) / mUxFaoQ99;
 }
 
 {
@@ -304,7 +304,7 @@ case 'e':
 NaH5 = (mUxFaoQ99 == 1590577827) ? Idv05 : Pl1xU9l_;
 break;
 case 'f':
-Idv05 = idx7(1668924310, Ct7o4vv, (char)1056497023, (char)-770682114, 838402132);
+Idv05 = idx7(1668924310, Ct7o4vv, (char)1056497023, (char)-770682114, (short)838402132);
 break;
 case 'g':
 NaH5 -= 1663564391;

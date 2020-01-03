@@ -34,7 +34,7 @@ int main() {
   short  a8T8;
   a8T8  =  (short)-1146515753;
  unsigned char zTfy9e82rw;
- zTfy9e82rw = 390553121;
+ zTfy9e82rw = (unsigned char)390553121;
 	unsigned int	R1xV1G_9;
 	R1xV1G_9	=	-1305294004;
  long long Wv1Wf;

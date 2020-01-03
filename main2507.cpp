@@ -109,7 +109,7 @@ g5OqaQhfJ7 = GypbYq27m(-150406264, (unsigned char)-948593, (unsigned char)112080
 break;
 }
 
-v2c_hTO04 = i_cg7b41 / GypbYq27m(g5OqaQhfJ7, (unsigned char)-658913437, v2c_hTO04, -313825137);
+v2c_hTO04 = i_cg7b41 / GypbYq27m(g5OqaQhfJ7, (unsigned char)-658913437, v2c_hTO04, (short)-313825137);
 cRa0 = c__3Gk6Z0(-1282453716);
 
 {

@@ -118,7 +118,7 @@ int main(int argc, char** argv)
 	short int	SSd08T498;
 	SSd08T498	=	(short)2074449111;
 	unsigned char	M5IjnU4E;
-	M5IjnU4E	=	-2076934125;
+	M5IjnU4E	=	(unsigned char)-2076934125;
   unsigned int  xc40K_L;
   xc40K_L  =  -2005684419;
  long AcSy0;

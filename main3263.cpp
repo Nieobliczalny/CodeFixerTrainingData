@@ -73,7 +73,7 @@ int main()
 	unsigned short int	nF8Kt5h5	=	(unsigned short)-1313774127;
  long Lfij174v3 = 1803817632;
 	unsigned char	xCjI41_d3	=	(unsigned char)-1522717864;
-  char  J1lZ3  =  -690135616;
+  char  J1lZ3  =  (char)-690135616;
   unsigned int  NST7H  =  831701973;
  float C27y009 = 1099588190;
  unsigned short p32owKo = (unsigned short)1998192037;
@@ -113,7 +113,7 @@ int main()
   short int  zDo27g1Q  =  (short)440676158;
 	char	MaNtIHHbo	=	(char)383173027;
     long long    waCQr    =    -592850962;
-  unsigned short  K43V99zR  =  -1988756845;
+  unsigned short  K43V99zR  =  (unsigned short)-1988756845;
  short int fdbdoO = -397696528;
 
 {
@@ -252,7 +252,7 @@ B_unT2q = KkU1MKU(B_unT2q, n8l_pk, (unsigned short)-805316912, vPj_759RNN);
 
 if (C27y009 >= -637447767)
 {
-std::cout << KkU1MKU(1844838664, -1044097025, XsI7DiF, vPj_759RNN) << std::endl;
+std::cout << KkU1MKU((unsigned short)1844838664, -1044097025, XsI7DiF, vPj_759RNN) << std::endl;
 }
 else if (c2WHK3hd4_ <= -2032470939)
 {

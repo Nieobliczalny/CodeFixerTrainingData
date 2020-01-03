@@ -43,7 +43,7 @@ int main(void)
  int nxO9PWcju = 0;
 	unsigned long	L73m	=	-997642173;
     long    I9W2W3o6    =    650309476;
- short Syi8 = -922124995;
+ short Syi8 = (short)-922124995;
   char  niz2tt3  =  (char)-1271094672;
  float qPZ8J = 387542999;
   unsigned long  X_pk6Os1rR  =  1045849815;

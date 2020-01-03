@@ -379,7 +379,7 @@ S88ZU5dq = faSyumR4T(S88ZU5dq, -330903809, HybWxV1G, BH4J);
 int i = 0;
 while (i < 6)
 {
-cout << faSyumR4T(S88ZU5dq, GUr6Z28, (short)1044659000, 700120635) << yYeS18f(-1753011352, -760938909) << "SBTJRkg" << "YZ5MT8EOaS" << endl;
+cout << faSyumR4T(S88ZU5dq, GUr6Z28, (short)1044659000, 700120635) << yYeS18f((char)-1753011352, -760938909) << "SBTJRkg" << "YZ5MT8EOaS" << endl;
 i++;
 }
 }

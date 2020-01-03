@@ -418,7 +418,7 @@ case 'e':
 G4AF5NxmZ += 1455937283;
 break;
 case 'f':
-zVnrE = j9_I4gM__((short)1613565361, (unsigned short)1102021936, UO4U, 1935588819);
+zVnrE = j9_I4gM__((short)1613565361, (unsigned short)1102021936, UO4U, (unsigned short)1935588819);
 break;
 default:
 YUPN = (vsR17VS6u0 > -1679970200) ? 1237719657 : J_wOwcS;

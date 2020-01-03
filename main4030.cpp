@@ -72,7 +72,7 @@ int main(void) {
 	unsigned short int	X7N2;
 	X7N2	=	(unsigned short)-1774938457;
   char  Fpbi;
-  Fpbi  =  -1014609281;
+  Fpbi  =  (char)-1014609281;
   int  VwJ_8mxFH;
   VwJ_8mxFH  =  1823028855;
   long long  UtU1b1wN;

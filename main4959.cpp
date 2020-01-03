@@ -152,7 +152,7 @@ int main(void) {
 	char	GqZ8G6;
 	GqZ8G6	=	(char)-1943228274;
   char  UOCQ7f;
-  UOCQ7f  =  -1392004383;
+  UOCQ7f  =  (char)-1392004383;
     unsigned long    QI_JUzzIw;
     QI_JUzzIw    =    499454878;
  float eg8NR;

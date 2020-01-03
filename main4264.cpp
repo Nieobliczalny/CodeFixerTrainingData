@@ -58,7 +58,7 @@ int main(void) {
 	short int	axh0V;
 	axh0V	=	(short)447225818;
 	short	pI_t;
-	pI_t	=	416971685;
+	pI_t	=	(short)416971685;
   float  XJ_X35;
   XJ_X35  =  615720443;
 	short	Cw6CtXFh;
@@ -82,7 +82,7 @@ case 0:
 B4FCXfGf2H = h_5EV(RoBB3kO, (unsigned char)-1083488986, -1992017750, Uprk7aM, (unsigned short)-1981279770);
 break;
 case 1:
-UTO75GsD0 = h_5EV(aj4wNvOl, 1214454855, ey_3, -516069369, y1SWR);
+UTO75GsD0 = h_5EV(aj4wNvOl, (unsigned char)1214454855, ey_3, -516069369, y1SWR);
 break;
 case 2:
 d81L = IgIm6U24I / B4FCXfGf2H;
@@ -117,7 +117,7 @@ UTO75GsD0 = h_5EV(GLvx2, (unsigned char)-1186654876, -1085149387, 136444213, UTO
 break;
 case 'c':
 case 'C':
-UTO75GsD0 = h_5EV((unsigned char)-718532400, 551360956, -2020928371, -773808200, aj4wNvOl);
+UTO75GsD0 = h_5EV((unsigned char)-718532400, (unsigned char)551360956, -2020928371, -773808200, aj4wNvOl);
 break;
 case 'd':
 case 'D':
@@ -367,7 +367,7 @@ gtk0aTCjfi = (short)(h7SLJEP);
 UTO75GsD0 = h_5EV(p_75H_, (unsigned char)607334347, axh0V, 1798210062, (unsigned short)12000113);
 wid8E7 = (int)floor(h7SLJEP);
 
-cout << h_5EV(p_75H_, -1650563266, axh0V, -7760791, i4x0Y47) << endl;
+cout << h_5EV(p_75H_, (unsigned char)-1650563266, axh0V, -7760791, i4x0Y47) << endl;
 return 0;
 }
 

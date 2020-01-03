@@ -24,7 +24,7 @@ int main(void) {
  char Cvj9va4 = (char)-793200683;
     short    P6fXu_F6    =    (short)383726734;
 	float	RP43	=	-1127342740;
-	unsigned char	FhEMYG	=	-293708659;
+	unsigned char	FhEMYG	=	(unsigned char)-293708659;
     double    k_Rz    =    -2030736148;
     short    w7gg65    =    410542290;
  short L9k9c4XXQ6 = 2019579952;
@@ -38,7 +38,7 @@ int main(void) {
   long double  c_s_y  =  -518204103;
 	unsigned int	MV5m	=	578956015;
  long L_38Vkj = 0;
-	unsigned short	e3LP1cm_8	=	1141359322;
+	unsigned short	e3LP1cm_8	=	(unsigned short)1141359322;
     short int    hif2x    =    -2108572797;
  long d8l21g0OKD = -377208938;
 	unsigned int	eD_t00Z	=	-1904467695;
@@ -51,7 +51,7 @@ int main(void) {
   short int  pkJ3PU28  =  (short)1761777319;
 	unsigned int	yZ5ASk0Pf	=	1609512613;
   unsigned long long  ZAAEN4pNoC  =  120721655;
-    unsigned short    j_0hzpZAl    =    403135129;
+    unsigned short    j_0hzpZAl    =    (unsigned short)403135129;
     long long    HyxdB7cJcu    =    -685444617;
   unsigned short  uFq1  =  264785621;
   unsigned short  Re6I  =  295029990;
@@ -71,7 +71,7 @@ int main(void) {
  long double GfC9_ = 665479908;
 
 t8gVvY = jWRVZOrnZ((unsigned short)-1167936756, (unsigned short)1721421303, (char)-629210836, 1361071111, N7FQL0a);
-std::cout << jWRVZOrnZ(1041855532, -1555717192, d8l21g0OKD, DC4Qyp90, N7FQL0a) << std::endl;
+std::cout << jWRVZOrnZ((unsigned short)1041855532, -1555717192, d8l21g0OKD, DC4Qyp90, N7FQL0a) << std::endl;
 {
 int i = 0;
 while (i < 8)
@@ -144,7 +144,7 @@ break;
 ft79 = (int)floor(i4wZkBOA0);
 qREN4wn = yZ5ASk0Pf * ZAAEN4pNoC;
 
-std::cout << mg_W8r_t5((short)33292496, ZBWDhd1cl, i4wZkBOA0, AUZs) << mg_W8r_t5((short)-671622281, ZBWDhd1cl, (unsigned short)1221512442, AUZs) << mg_W8r_t5(c_s_y, ZBWDhd1cl, 520724887, -1870689307) << std::endl;
+std::cout << mg_W8r_t5((short)33292496, ZBWDhd1cl, i4wZkBOA0, AUZs) << mg_W8r_t5((short)-671622281, ZBWDhd1cl, (unsigned short)1221512442, AUZs) << mg_W8r_t5(c_s_y, ZBWDhd1cl, (unsigned short)520724887, -1870689307) << std::endl;
 
 try
 {

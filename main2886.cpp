@@ -34,7 +34,7 @@ int main() {
   unsigned short  ZNrAv4;
   ZNrAv4  =  (unsigned short)-606226154;
  short int RWL0C_;
- RWL0C_ = -1731860834;
+ RWL0C_ = (short)-1731860834;
   float  C_Lb08EP;
   C_Lb08EP  =  398739378;
   double  tEkf95B;

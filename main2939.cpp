@@ -13,7 +13,7 @@ int main(int argc, char** argv) {
  Y1JuA = (char)1468788818;
  y9zsJ = (char)-1384319892;
  X3x4DwEI0i = (char)-2130313513;
- Yfyl = 1706165227;
+ Yfyl = (char)1706165227;
  nEld8 = -1000907137;
   unsigned long long  cYg9A;
   cYg9A  =  0;

@@ -135,7 +135,7 @@ case 'f':
 e32H9TfLf = gIky9IU2M((short)-1821841661, (unsigned char)-28679882, (short)1454214741, PwL6ODX_);
 break;
 case 'g':
-e32H9TfLf = gIky9IU2M(pgwWm9TF, (unsigned char)84043337, -1866782792, WiH2vE8nZU);
+e32H9TfLf = gIky9IU2M(pgwWm9TF, (unsigned char)84043337, (short)-1866782792, WiH2vE8nZU);
 break;
 case 'h':
 f4yNqgq = (int)ceil(PwL6ODX_);
@@ -254,7 +254,7 @@ case 'g':
 e32H9TfLf = gIky9IU2M(MIY1q2_b2, (unsigned char)-1135306004, (short)980565375, -645103959);
 break;
 case 'h':
-b_7a = gIky9IU2M(PwL6ODX_, -2046681019, -1178888294, 2125117451);
+b_7a = gIky9IU2M(PwL6ODX_, (unsigned char)-2046681019, -1178888294, 2125117451);
 break;
 case 'i':
 PwL6ODX_ = (int)abs(Q99S7d4E_);
@@ -545,7 +545,7 @@ while (i >= 0)
 i--;
 for (int j = 0; j < 5; j++)
 {
-std::cout << gIky9IU2M((short)149634759, ZeV6lY2P, e32H9TfLf, BJmRn1K3) << gIky9IU2M((short)406581799, (unsigned char)1491242932, (short)-1636806118, -69380191) << gIky9IU2M(F5L4, ZeV6lY2P, 888512390, BJmRn1K3) << gIky9IU2M(F5L4, ZeV6lY2P, -1391737520, 122465190) << std::endl;
+std::cout << gIky9IU2M((short)149634759, ZeV6lY2P, e32H9TfLf, BJmRn1K3) << gIky9IU2M((short)406581799, (unsigned char)1491242932, (short)-1636806118, -69380191) << gIky9IU2M(F5L4, ZeV6lY2P, (short)888512390, BJmRn1K3) << gIky9IU2M(F5L4, ZeV6lY2P, -1391737520, 122465190) << std::endl;
 }
 }
 }

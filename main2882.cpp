@@ -100,7 +100,7 @@ int main(int argc, char** argv)
 	unsigned char	ym9ulycn_L;
 	ym9ulycn_L	=	(unsigned char)1590943876;
  unsigned short E4NJ;
- E4NJ = -1610231599;
+ E4NJ = (unsigned short)-1610231599;
     float    cf1f_;
     cf1f_    =    -1552894838;
   long double  kCAB565fTx;

@@ -402,7 +402,7 @@ case 'g':
 r8Rf530i4K = w5fF_mg7s((short)-1000792410, (unsigned char)-218920672);
 break;
 case 'h':
-Gl0hfsi_ = w5fF_mg7s((short)-892702019, -640144102);
+Gl0hfsi_ = w5fF_mg7s((short)-892702019, (unsigned char)-640144102);
 break;
 }
 }

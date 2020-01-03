@@ -45,7 +45,7 @@ int main(int argc, char** argv) {
     short int    bpier8b    =    (short)1634775835;
   long long  qC8qh0cmg  =  -371902368;
     unsigned char    H_UtlTeE4    =    (unsigned char)825634173;
-	short int	BQv_2	=	-1801623396;
+	short int	BQv_2	=	(short)-1801623396;
   long double  MBU8ssw2Y  =  -119447063;
  char uk8l63P = (char)1490303585;
  unsigned int sMAJa_5V = -953347359;
@@ -63,7 +63,7 @@ int main(int argc, char** argv) {
   long  xQF_n  =  351439623;
     unsigned char    mHmKUv    =    (unsigned char)-2077636231;
     long double    QNb_3Dum    =    -1658663972;
-  unsigned short int  K_KFuEl_  =  -416969918;
+  unsigned short int  K_KFuEl_  =  (unsigned short)-416969918;
 	short int	gZQg6YNL	=	(short)1594789855;
 	unsigned int	PIKU	=	2128891262;
     unsigned long    a337    =    389839308;
@@ -382,7 +382,7 @@ rvqJ = DlXS((char)-334770568, C8P846f0l, (unsigned short)-633479117, qC8qh0cmg, 
 break;
 case 'b':
 case 'B':
-cscXjKvxS5 = (cmBg2 < mHmKUv) ? (short)1211731981 : 1813223086;
+cscXjKvxS5 = (cmBg2 < mHmKUv) ? (short)1211731981 : (short)1813223086;
 break;
 case 'c':
 case 'C':

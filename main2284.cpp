@@ -49,7 +49,7 @@ int main(int argc, char** argv) {
 	short	EY4mP46y;
 	EY4mP46y	=	(short)210846305;
   unsigned short  Yu71s1;
-  Yu71s1  =  2077988221;
+  Yu71s1  =  (unsigned short)2077988221;
   double  fxYi;
   fxYi  =  888566621;
     long    f3WZ0oup8;

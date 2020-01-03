@@ -204,7 +204,7 @@ case 1:
 DpXYlJt7T = K4jp(1264762647, 2046983334, (unsigned short)-672596794, (unsigned short)-1789805114);
 break;
 case 2:
-vcN6DCZ8EB = K4jp(773030634, Q05022Fo, (unsigned short)-1602705481, -2116626474);
+vcN6DCZ8EB = K4jp(773030634, Q05022Fo, (unsigned short)-1602705481, (unsigned short)-2116626474);
 break;
 case 3:
 Pa41RIcM8 += 850174935;

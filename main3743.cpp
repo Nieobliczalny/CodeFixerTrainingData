@@ -51,7 +51,7 @@ int main(void)
 	long double	Cy1Zg	=	-1989304786;
     long    f25Sko    =    1783202744;
     long long    gItV    =    -609446127;
-  char  gViJ  =  1227188295;
+  char  gViJ  =  (char)1227188295;
  long long QnAv0lGg = 1763850181;
 	long double	yvMif	=	522675444;
   unsigned short int  bj_IxH  =  0;
@@ -65,7 +65,7 @@ int main(void)
     long long    aIWal    =    -498811855;
 	unsigned short	m80WJ	=	(unsigned short)171120553;
  long long eZ_0Im7 = 1600836123;
-  short int  OPM38Ja  =  2086712728;
+  short int  OPM38Ja  =  (short)2086712728;
     int    Tq19H4_ha    =    -934834998;
 	long long	VJrHPL	=	1156598958;
  unsigned int uT4AKc17 = 112400387;

@@ -166,7 +166,7 @@ YU12Gd3Il = TV6feqz << mluqk;
 }
 
 A3K6b = (unsigned short)(hcaq0 + (f30msd_));
-std::cout << QI024H_S16((short)1214875378, (short)-749431769, b08CEJi, (char)-298961200) << Zca1_Ks2qw((unsigned char)-593292908) << QI024H_S16(PjLg, -145504259, b08CEJi, gB36V5nxMk) << Zca1_Ks2qw(812988618) << std::endl;
+std::cout << QI024H_S16((short)1214875378, (short)-749431769, b08CEJi, (char)-298961200) << Zca1_Ks2qw((unsigned char)-593292908) << QI024H_S16(PjLg, (short)-145504259, b08CEJi, gB36V5nxMk) << Zca1_Ks2qw(812988618) << std::endl;
 
 try
 {
@@ -288,7 +288,7 @@ MD0ZRfk3b = QI024H_S16((short)-669908366, VYMh5pqd8K, (short)-1943505549, (char)
 }
 else if (PjLg < Wy8xqGw0)
 {
-MD0ZRfk3b = QI024H_S16(U73O8, (short)1814847911, gB36V5nxMk, -1381963076);
+MD0ZRfk3b = QI024H_S16(U73O8, (short)1814847911, gB36V5nxMk, (char)-1381963076);
 }
 else if (JWg0NsQj >= -1454146059)
 {
@@ -365,7 +365,7 @@ std::cout << Zca1_Ks2qw(Zq_p3) << Qb220z_ << std::endl;
 }
 PjLg = (short int)(hcaq0 + (-759857545));
 lC38_GK3 = Zca1_Ks2qw(lC38_GK3);
-std::cout << QI024H_S16(lC38_GK3, (short)-94520568, (short)274689482, XAcm) << "jCuRVB" << QI024H_S16((short)-575996194, TMP_, (short)-2069172739, 1734042775) << "JCulI" << std::endl;
+std::cout << QI024H_S16(lC38_GK3, (short)-94520568, (short)274689482, XAcm) << "jCuRVB" << QI024H_S16((short)-575996194, TMP_, (short)-2069172739, (char)1734042775) << "JCulI" << std::endl;
 
 if ((Zca1_Ks2qw(-1232425281) / QI024H_S16(lC38_GK3, 128458396, -838259722, 1787788309)) < -997973425)
 {
@@ -587,7 +587,7 @@ case 3:
 P1fR7xz = U73O8 * QuIE;
 break;
 case 4:
-P1fR7xz = Zca1_Ks2qw(-293862180);
+P1fR7xz = Zca1_Ks2qw((unsigned char)-293862180);
 break;
 case 5:
 Zq_p3 = (int)floor(RW5Y_q);
@@ -641,7 +641,7 @@ for (int i = 0; i < 10; i++)
 switch (pnhq0ABTfj)
 {
 case 0:
-MD0ZRfk3b = QI024H_S16((short)-1369168386, (short)-369501492, U73O8, -104223578);
+MD0ZRfk3b = QI024H_S16((short)-1369168386, (short)-369501492, U73O8, (char)-104223578);
 break;
 case 1:
 WCCs1tUV--;

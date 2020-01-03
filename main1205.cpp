@@ -46,7 +46,7 @@ int main(void)
   double  VcFE4qE  =  -1625302388;
   long  O065tF5Ea  =  -781298771;
 	short int	ZV6w300u	=	(short)-1124359763;
-  short int  TkWquH  =  604969324;
+  short int  TkWquH  =  (short)604969324;
  double ZAZAH_ = 1312359567;
 
 for (int i = 4; i >= 0; --i)

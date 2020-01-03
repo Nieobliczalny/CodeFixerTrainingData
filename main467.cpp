@@ -27,7 +27,7 @@ int main(int argc, char** argv) {
 	nm_KUb4S	=	(unsigned short)1069197322;
 	xp75Sn_	=	(unsigned short)717843199;
 	dn_gNt6	=	(unsigned short)361877932;
-	yWX6qo9	=	1365630386;
+	yWX6qo9	=	(unsigned short)1365630386;
 	TdqV	=	961158328;
 	kN0_G	=	(unsigned short)285166032;
 	QnZ2dzjV9q	=	2036216008;
@@ -37,7 +37,7 @@ int main(int argc, char** argv) {
 	rfmeC_	=	(unsigned short)-122704543;
 	JH_aqwX	=	(unsigned short)1950239604;
 	cP_1p	=	(unsigned short)-2073993192;
-	GO92	=	1206156990;
+	GO92	=	(unsigned short)1206156990;
 	TC7gC_kI	=	-2082896546;
 	T5hdgV	=	(unsigned short)1564398994;
 	x63UtL7	=	-1807112112;
@@ -47,7 +47,7 @@ int main(int argc, char** argv) {
 	HMXqK	=	(unsigned short)-1332242447;
 	Po9Vo	=	(unsigned short)-2106854950;
 	q12M	=	(unsigned short)-630177835;
-	FztQ	=	544626873;
+	FztQ	=	(unsigned short)544626873;
 	Ohf1	=	526151801;
 	n9gy4o96	=	(unsigned short)-130853300;
 	Ec56n8En6	=	-74067727;
@@ -64,7 +64,7 @@ int main(int argc, char** argv) {
 
 try
 {
-GO92 = BQF_8(GO92, FztQ, (short)313035188, (short)1589475573, -973531829);
+GO92 = BQF_8(GO92, FztQ, (short)313035188, (short)1589475573, (unsigned char)-973531829);
 }
 catch (int& errorCode)
 {
@@ -109,7 +109,7 @@ int i = 3;
 while (i >= 0)
 {
 --i;
-H_36h_3 = n48K(H_36h_3, (unsigned char)1403429590, -2047975438);
+H_36h_3 = n48K(H_36h_3, (unsigned char)1403429590, (short)-2047975438);
 }
 }
 for (int i = 7; i >= 0; --i)
@@ -293,7 +293,7 @@ else
 std::cout << qka8xL450N << "i5_qB0" << jdSbT28F6((unsigned short)1711896214, x_hMl92) << GO92 << "FcP1ZN" << std::endl;
 }
 JH_aqwX = n48K((unsigned char)1376128402, FztQ, (short)1758389402);
-x_hMl92 = jdSbT28F6(usaBn4529, 446419806);
+x_hMl92 = jdSbT28F6(usaBn4529, (unsigned short)446419806);
 if (QnZ2dzjV9q)
 {
 for (int j = 0; j < 5; j++)
@@ -307,7 +307,7 @@ JH_aqwX = jdSbT28F6(usaBn4529, Q_07G74TE) | 141346494;
 
 for (int i = 1; i >= 0; i--)
 {
-std::cout << jdSbT28F6(usaBn4529, (unsigned short)2124861407) << BQF_8(usaBn4529, 545905953, Ohf1, (short)393032891, (unsigned char)-1216646021) << "kwMEwa15" << n48K((unsigned char)-44812931, Q_07G74TE, -336105221) << std::endl;
+std::cout << jdSbT28F6(usaBn4529, (unsigned short)2124861407) << BQF_8(usaBn4529, 545905953, Ohf1, (short)393032891, (unsigned char)-1216646021) << "kwMEwa15" << n48K((unsigned char)-44812931, Q_07G74TE, (short)-336105221) << std::endl;
 }
 
 if (((n9gy4o96 != FztQ) || (O4V_B7U == F7a01)) || (xp75Sn_ < zoqG909P))

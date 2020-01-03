@@ -129,7 +129,7 @@ int main(void) {
   unsigned short int  v1j9h;
   v1j9h  =  (unsigned short)1015991766;
  unsigned short LVmZ;
- LVmZ = -631208036;
+ LVmZ = (unsigned short)-631208036;
   double  BP_J3bAR5;
   BP_J3bAR5  =  -805760821;
   long double  U4R0D;

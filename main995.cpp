@@ -231,7 +231,7 @@ g51s1o4 = ZivQ6((unsigned short)-1355784732, YYGV7V3, (short)-608640096);
 break;
 case 'f':
 case 'F':
-mFtQ_ = N0L2(mFtQ_, K5TsIkrSo, (char)732925950, (unsigned char)-1061792106, -1724165721);
+mFtQ_ = N0L2(mFtQ_, K5TsIkrSo, (char)732925950, (unsigned char)-1061792106, (short)-1724165721);
 break;
 case 'g':
 case 'G':
@@ -332,7 +332,7 @@ case 2:
 gWg7R = (int)abs(k8mBO7kPq);
 break;
 case 3:
-KcxH9htwIc = nyF9(-64975588, -1019404209);
+KcxH9htwIc = nyF9((unsigned short)-64975588, -1019404209);
 break;
 case 4:
 gWg7R ^= 565578578;
@@ -630,7 +630,7 @@ else if (sw0_8AF < KcxH9htwIc)
 {
 for (int j = 0; j < 6; ++j)
 {
-std::cout << ZivQ6((unsigned short)903283674, i817, -933159073) << N0L2(298842578, -1165008243, Os_Sep_t, Um5RUUW, kEY4siK) << "EC5AH_" << std::endl;
+std::cout << ZivQ6((unsigned short)903283674, i817, (short)-933159073) << N0L2(298842578, -1165008243, Os_Sep_t, Um5RUUW, kEY4siK) << "EC5AH_" << std::endl;
 }
 }
 else

@@ -150,7 +150,7 @@ int main(int argc, char** argv) {
     char    UFaGoSE;
     UFaGoSE    =    (char)459124982;
 	char	lZ9_;
-	lZ9_	=	-754148390;
+	lZ9_	=	(char)-754148390;
     char    Dos3b;
     Dos3b    =    (char)-1456842148;
 	int	sHVZc9c1tY;

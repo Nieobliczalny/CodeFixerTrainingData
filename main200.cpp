@@ -28,7 +28,7 @@ int main()
  unsigned char j8k4 = (unsigned char)2036213794;
   unsigned long long  bqni20UXy  =  1590812152;
 	short int	N_Sl3G	=	(short)-1715472668;
-    unsigned short    Y51A    =    -420532425;
+    unsigned short    Y51A    =    (unsigned short)-420532425;
  unsigned long z620cy = -1923542123;
   unsigned int  tH216D2Wh  =  1676799497;
   double  L4odE7  =  986255475;

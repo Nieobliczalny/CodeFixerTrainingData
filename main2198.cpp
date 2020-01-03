@@ -23,7 +23,7 @@ int main(int argc, char** argv)
   Tx_zpVWs  =  (short)-1745973024;
   D7I4lLc_f  =  (short)633485851;
   b_SsN  =  (short)-1885804329;
-  K402FW75om  =  2036666964;
+  K402FW75om  =  (short)2036666964;
   k6del  =  (short)-1221835279;
   NSxY  =  -1639669728;
   lu6s8  =  -475818872;
@@ -33,7 +33,7 @@ int main(int argc, char** argv)
   r_43sQIpG  =  (short)-1114740432;
   Vx0d_4YJ  =  (short)-1313001293;
   x7Dx2  =  (short)1894210148;
-  rwn7J2UM9  =  -224746208;
+  rwn7J2UM9  =  (short)-224746208;
   E5rC_i05  =  (short)-1879070821;
   Efs1a  =  533272902;
   DivTw  =  1628088430;
@@ -43,7 +43,7 @@ int main(int argc, char** argv)
   R7pZX7  =  (short)-292685350;
   u5MrIa6uEd  =  (short)-1687820440;
   n51QHDYX  =  (short)-2067920280;
-  iw2zkQq4l1  =  -438417567;
+  iw2zkQq4l1  =  (short)-438417567;
   tc2_P_9  =  (short)-1785042763;
   e2iwFgK  =  1316567333;
   xoK4U7  =  -243958247;
@@ -53,7 +53,7 @@ int main(int argc, char** argv)
   G73D  =  (short)277852091;
   b6Ft9n  =  (short)250546012;
   wLym7RK59  =  (short)1647984362;
-  x9aT  =  -1772313269;
+  x9aT  =  (short)-1772313269;
   LEGQ7hBUHm  =  (short)1429848909;
   sF15_  =  -1313827330;
   BXF9uPb1Z  =  -546256420;
@@ -63,7 +63,7 @@ int main(int argc, char** argv)
   I86kBM  =  (short)-328405152;
   I246YH_  =  (short)1414702900;
   E3V2pTW0_w  =  (short)-1401804312;
-  v9tD  =  -885563301;
+  v9tD  =  (short)-885563301;
   R5Sx  =  (short)1486473250;
   H9J9w7  =  -694772736;
   Fd90Sw7  =  -1424978622;
@@ -73,7 +73,7 @@ int main(int argc, char** argv)
   J87Ba1  =  (short)-1511632889;
   N3Ii_ts_C  =  (short)1605472345;
   Ime7s2290t  =  (short)-281631367;
-  zWs3GJFG5m  =  354007675;
+  zWs3GJFG5m  =  (short)354007675;
   FrG86l  =  (short)-1689765538;
   ubKXB4wE3A  =  1581430912;
   loC1RYSW4  =  182682209;
@@ -83,7 +83,7 @@ int main(int argc, char** argv)
   yyMm_I4_  =  (short)-298028693;
   mxZTd2  =  (short)-829062714;
   c5Txfex  =  (short)1096427945;
-  Ls2xgD  =  -1526670716;
+  Ls2xgD  =  (short)-1526670716;
   HI8ysDcHx  =  (short)-703573757;
   NLPRTIf9__  =  -866060317;
   myJ0  =  602589464;

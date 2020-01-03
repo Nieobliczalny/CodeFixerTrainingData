@@ -141,7 +141,7 @@ w1i_O7_H = lgWNWt_6__(O_7o, (unsigned char)-1399683448, 270467383, (unsigned sho
 break;
 case 'b':
 case 'B':
-EJrNuK = lgWNWt_6__((unsigned char)28096210, (unsigned char)1520735069, w1i_O7_H, 1115433488);
+EJrNuK = lgWNWt_6__((unsigned char)28096210, (unsigned char)1520735069, w1i_O7_H, (unsigned short)1115433488);
 break;
 case 'c':
 case 'C':

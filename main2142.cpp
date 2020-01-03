@@ -26,7 +26,7 @@ int main(void) {
  int G3pc = -732008535;
     float    HOAS21J19    =    1573223713;
   short int  dmTADj5et  =  (short)757904028;
-    char    nv18tDl_si    =    1322467743;
+    char    nv18tDl_si    =    (char)1322467743;
  long double Eo86U = 1743952796;
     float    a9m_5    =    -274921476;
 	unsigned char	Y4xmR7Y	=	(unsigned char)617657536;
@@ -70,7 +70,7 @@ int main(void) {
   short  sD56rc  =  (short)-1801012799;
 	float	yEZ49gMj	=	171027096;
 	unsigned long	WVui8j79C	=	-480935148;
- short l_B7I5aNRb = 701988638;
+ short l_B7I5aNRb = (short)701988638;
     unsigned long    y6yKWb    =    0;
  float l6SRX55Y = -1017872124;
  unsigned long FmDFm46Tq = 620942037;
@@ -326,7 +326,7 @@ case 7:
 y6yKWb = Zj9q7DY_s1(N2315lM4, (short)-2090998539);
 break;
 case 8:
-y6yKWb = Zj9q7DY_s1((short)1929467305, 1017753334);
+y6yKWb = Zj9q7DY_s1((short)1929467305, (short)1017753334);
 break;
 case 9:
 yEZ49gMj = (int)ceil(FN36sIos4G);

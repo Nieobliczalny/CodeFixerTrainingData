@@ -106,7 +106,7 @@ case 5:
 GBoEB = uX1_(yYgbweQ9, AuEZ, qq_Skme2J, F1wI1E, VZ_Fp_TLCx);
 break;
 default:
-jmh_ = uX1_(Cw3O0iZR, (unsigned short)934878767, 2124132006, gH0cQr45a8, Xh57Zh42I);
+jmh_ = uX1_(Cw3O0iZR, (unsigned short)934878767, (unsigned char)2124132006, gH0cQr45a8, Xh57Zh42I);
 break;
 }
 rM27d4JOj = uX1_(Y8o4y3O, dLSHBgS1, JCqAbU_3, rM27d4JOj, Nzt_);

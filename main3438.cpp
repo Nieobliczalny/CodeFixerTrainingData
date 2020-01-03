@@ -120,7 +120,7 @@ int i = 1;
 do
 {
 --i;
-cout << p0a9qLS((unsigned char)857651950, (unsigned short)594984692, sYIjc1, (char)-1115118256, zZ2kK4sq_D) << p0a9qLS(f7s98, (unsigned short)-1286066380, sYIjc1, -1615894078, 1548950910) << "BSWMuD" << endl;
+cout << p0a9qLS((unsigned char)857651950, (unsigned short)594984692, sYIjc1, (char)-1115118256, zZ2kK4sq_D) << p0a9qLS(f7s98, (unsigned short)-1286066380, sYIjc1, (char)-1615894078, 1548950910) << "BSWMuD" << endl;
 }
 while (i >= 0);
 }

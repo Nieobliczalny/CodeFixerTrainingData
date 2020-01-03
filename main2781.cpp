@@ -37,7 +37,7 @@ int main(int argc, char** argv) {
 	short int	Cuvq92chWE	=	(short)238066180;
     long long    Np907_    =    1787046157;
  char hegTGA61 = (char)-995207850;
-  short  xhn4  =  1824587701;
+  short  xhn4  =  (short)1824587701;
 	double	S0An92YEjh	=	-601685839;
     char    K5l3ypWfo6    =    (char)-125029528;
   int  e1Ujz  =  -1624440269;

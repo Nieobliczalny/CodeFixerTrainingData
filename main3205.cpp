@@ -34,7 +34,7 @@ int main(void)
   PSh9sI5  =  (short)-1804309371;
   Xw904  =  (short)20049214;
   KY3_f8g8M0  =  (short)827893599;
-  fr2QM6B6w7  =  -1442654970;
+  fr2QM6B6w7  =  (short)-1442654970;
   QJTT  =  1715266527;
   n5Aq03  =  -1826653784;
   Bg2N871xq  =  -848870153;
@@ -44,7 +44,7 @@ int main(void)
   R9w0GDf  =  (short)-1051884243;
   x81bCU_p  =  (short)-625780474;
   x65O0zL  =  (short)746290547;
-  Jf2T7  =  -21560051;
+  Jf2T7  =  (short)-21560051;
   vHb5Y  =  294975399;
   E4L_  =  1390124052;
   b19n55z9CR  =  1888242276;
@@ -54,7 +54,7 @@ int main(void)
   F_g5abh  =  (short)-1291603124;
   ynF2v  =  (short)480592726;
   Bnjz91  =  (short)1409297980;
-  aQ2updx  =  276645312;
+  aQ2updx  =  (short)276645312;
   G6_lz8R083  =  -327316975;
   Wo60zZ3N  =  251195407;
   A4KP0Jay  =  374666193;
@@ -64,7 +64,7 @@ int main(void)
   Pg7_4sA5L6  =  (short)-773262713;
   W13QvQi  =  (short)-211749200;
   ieTccTK  =  (short)-692289451;
-  O43nXnBs  =  1115009873;
+  O43nXnBs  =  (short)1115009873;
   vnF6emzT  =  -294779684;
   f_OBr5LP  =  1640544001;
   FN_4b1  =  -1785250989;
@@ -74,7 +74,7 @@ int main(void)
   ZLhe1K9MQ  =  (short)1595986382;
   HlbU3M  =  (short)-2088293609;
   D6pD  =  (short)-390153967;
-  ZPBnn_O8  =  -1766807993;
+  ZPBnn_O8  =  (short)-1766807993;
   LM_51_E_  =  -566303338;
   fus_l88  =  -1471014151;
   CgxBzz_  =  530146097;
@@ -84,7 +84,7 @@ int main(void)
   a__U0E4A  =  (short)1413400795;
   cQI8vE1S  =  (short)-1129982751;
   l2Ba78_vu  =  (short)-569761196;
-  gb5F_jGt58  =  -965562767;
+  gb5F_jGt58  =  (short)-965562767;
   L1p5nh9m  =  2011036582;
   GNz4g  =  1731243324;
   m5FlC  =  -1403361129;
@@ -94,7 +94,7 @@ int main(void)
   LdwqeN7ZOY  =  (short)-944145371;
   n_WSOPe  =  (short)585390522;
   O5_8a31  =  (short)816952647;
-  fg383v8x  =  -971119969;
+  fg383v8x  =  (short)-971119969;
   gL6a_  =  1539346964;
   Ui43  =  -1434544280;
   GqpIGAa9m  =  -218642993;
@@ -204,7 +204,7 @@ VZCNDi48 = L0J_t5p(2070872708, (unsigned short)1033023983, a__U0E4A, f_OBr5LP, b
 }
 else
 {
-E4L_ = (KCj5PH > S5P4_0fBQ) ? (short)471432376 : 1594664281;
+E4L_ = (KCj5PH > S5P4_0fBQ) ? (short)471432376 : (short)1594664281;
 }
 
 if (Jf2T7 < S5P4_0fBQ)

@@ -28,7 +28,7 @@ oXRUT27NV = (int)abs(E0u3) * 0;
 
 std::cout << "q8_3905U" << eXWD << "V6SFVKj" << Mzx1W6f(xnsn640ZKm, wUsYrB8M_, (short)-191184912, r0zt4, (char)830355357) << EWvP << std::endl;
 std::cout << nFmXWJB << std::endl;
-rornXnkLbG = Mzx1W6f(S8_lJsa, (char)680891402, -1015637167, qu29, -611092827);
+rornXnkLbG = Mzx1W6f(S8_lJsa, (char)680891402, (short)-1015637167, qu29, -611092827);
 std::cout << hhQqC9CT << std::endl;
 for (int i = 4; i >= 0; i--)
 {

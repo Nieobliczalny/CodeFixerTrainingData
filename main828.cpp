@@ -20,7 +20,7 @@ int main(void) {
   M6_9qpY  =  (unsigned char)1532977022;
   v2G0o00  =  (unsigned char)188223869;
   sXC0_5tWQ  =  (unsigned char)-1878135662;
-  S4zSc38  =  -1374868202;
+  S4zSc38  =  (unsigned char)-1374868202;
   j73yy_OMo  =  1156175654;
   KS5vY0U  =  -1432058541;
   lImKoT  =  1127714272;
@@ -30,7 +30,7 @@ int main(void) {
   znmlvg  =  (unsigned char)-947290089;
   QhAETL  =  (unsigned char)1489515589;
   cBdY5ANVR  =  (unsigned char)1282497321;
-  H_5X1  =  -1351980612;
+  H_5X1  =  (unsigned char)-1351980612;
   NCQ5vy51sU  =  1895813812;
   v2O5pNPP  =  -124260093;
   He_E  =  1895922617;
@@ -40,7 +40,7 @@ int main(void) {
   cg9d  =  (unsigned char)-1140754761;
   mOfyXk_  =  (unsigned char)579912805;
   dIeH  =  (unsigned char)1490237190;
-  Sk1tRHi6A5  =  -1386152940;
+  Sk1tRHi6A5  =  (unsigned char)-1386152940;
   t_I9mE1ow4  =  -70175079;
   bNLCizC  =  840418634;
   dMNR  =  1667183103;
@@ -50,7 +50,7 @@ int main(void) {
   gesx6ch3  =  (unsigned char)-1485110480;
   YppI0  =  (unsigned char)-2050089524;
   OB_hQVTA  =  (unsigned char)794256873;
-  Q7p8lk3qs  =  1820427692;
+  Q7p8lk3qs  =  (unsigned char)1820427692;
   NZGGre_Y9  =  -1444819423;
   CWE27H_5  =  1952743609;
   yuN0  =  -831524388;
@@ -60,7 +60,7 @@ int main(void) {
   KP4N6  =  (unsigned char)797752776;
   nFsWR3v30s  =  (unsigned char)-2112959867;
   trhi_MMIk5  =  (unsigned char)-678368289;
-  Q6k063  =  884740566;
+  Q6k063  =  (unsigned char)884740566;
   nTm_q_BT6  =  1348146958;
   kvfp  =  939056073;
   ba0L33  =  847863720;
@@ -70,7 +70,7 @@ int main(void) {
   bbA__Q1Iuj  =  (unsigned char)-331495243;
   Ylb3  =  (unsigned char)-1434132283;
   Sv9xkNxig  =  (unsigned char)-775282952;
-  d796u  =  892893382;
+  d796u  =  (unsigned char)892893382;
   tdmqNwjTw4  =  -307762326;
   ia7J4I3w  =  -264628729;
   fyO0nRO  =  -1844619844;
@@ -80,7 +80,7 @@ int main(void) {
   HPDr84ZjW  =  (unsigned char)253525311;
   hy2HdNCvHc  =  (unsigned char)417563302;
   bMp_Hm5  =  (unsigned char)558240930;
-  hBLLvWz  =  -1657179959;
+  hBLLvWz  =  (unsigned char)-1657179959;
   r_bd56S  =  -334322074;
   uT9o  =  912431766;
 	unsigned int	YeOT9rFr,	Euq_t317bm;

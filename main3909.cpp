@@ -120,7 +120,7 @@ if ((h0H4oNru / idG7) >= 1437883607)
 J3dV = 1568402094 / idG7;
 }
 std::cout << ABijh3k1(-470187446, -632748723, (unsigned short)-505382190, (short)462735138, (unsigned short)-1305564886) << ABijh3k1(fSI6_, 60306392, x7l_7fB95, m0_cWJ106, A121Zaa4) << A121Zaa4 << nV0C6K << vbfxpeAIY << std::endl;
-X3uUi8GXh_ = ABijh3k1(-115488650, -579158961, qnsK, (short)-1329717435, 864615823);
+X3uUi8GXh_ = ABijh3k1(-115488650, -579158961, qnsK, (short)-1329717435, (unsigned short)864615823);
 x7l_7fB95 = (int)floor(fSI6_);
 if (X3uUi8GXh_ == QCW4)
 {
@@ -254,7 +254,7 @@ X3uUi8GXh_ = ABijh3k1(t8km_94, -121843699, S7cY7AQ, (short)1720943710, qnsK);
 }
 else if (x7l_7fB95 != Z_00CS)
 {
-idG7 = ABijh3k1(ZI17rh, Z_00CS, (unsigned short)1930934270, x7l_7fB95, 465086493);
+idG7 = ABijh3k1(ZI17rh, Z_00CS, (unsigned short)1930934270, x7l_7fB95, (unsigned short)465086493);
 }
 else if ((fSI6_ >= 11117351) && (Z_fI_pcZ))
 {

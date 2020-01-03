@@ -151,7 +151,7 @@ case 'G':
 VNQcE = (int)abs(XXVTi1v_3N);
 break;
 }
-std::cout << J6yI((char)-945197275, k8R2, uziF) << b5686_AGDy((short)250689989, k8R2, 1691468161, 341420421) << std::endl;
+std::cout << J6yI((char)-945197275, k8R2, uziF) << b5686_AGDy((short)250689989, k8R2, (short)1691468161, 341420421) << std::endl;
 cB4zvTTO = O0d5O60(cB4zvTTO, vk08rcE_, -1480902711, M0L68, D5344aJh);
 if (bFhGx3P > 182864045)
 {
@@ -329,7 +329,7 @@ a80_ii5Nt7 = (long double)(x_S27UZ);
 
 try
 {
-std::cout << O0d5O60(a80_ii5Nt7, (short)-495173671, 376047698, (unsigned short)627617442, 1700185333) << gL5dRu_(a80_ii5Nt7, BZzUDFF) << std::endl;
+std::cout << O0d5O60(a80_ii5Nt7, (short)-495173671, 376047698, (unsigned short)627617442, (unsigned short)1700185333) << gL5dRu_(a80_ii5Nt7, BZzUDFF) << std::endl;
 }
 catch (int& errorCode)
 {
@@ -341,7 +341,7 @@ rYJzmc = (int)floor(tVRFLQC0Y);
 std::cout << QuILRq7mB((short)1221595685, (unsigned char)-1373673175, 1270014041, 886923565, o5D26) << gL5dRu_(a80_ii5Nt7, BZzUDFF) << std::endl;
 for (int i = 9; i >= 0; i--)
 {
-V_zWM = QuILRq7mB(V_zWM, (unsigned char)1651334511, (unsigned char)-1039428377, -546722227, 2064783469);
+V_zWM = QuILRq7mB(V_zWM, (unsigned char)1651334511, (unsigned char)-1039428377, -546722227, (char)2064783469);
 }
 if (ly4_ != x0tDM3)
 {
@@ -409,7 +409,7 @@ case 4:
 KgThr84P = uziF * 1453950718;
 break;
 case 5:
-D5344aJh = QuILRq7mB(D5344aJh, (unsigned char)903912346, (unsigned char)-207368337, 1979420708, 1578946734);
+D5344aJh = QuILRq7mB(D5344aJh, (unsigned char)903912346, (unsigned char)-207368337, 1979420708, (char)1578946734);
 break;
 case 6:
 kKeUxr65 = (int)abs(Pgn3L0G87F);

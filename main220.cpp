@@ -204,7 +204,7 @@ case 2:
 eOtR29M = (int)floor(h8_5P86);
 break;
 case 3:
-iw5SwC07 = M_YX((short)579252509, -1944959594, tsq6, -1978899306, JKPh2_);
+iw5SwC07 = M_YX((short)579252509, (unsigned short)-1944959594, tsq6, -1978899306, JKPh2_);
 break;
 case 4:
 K7Q06LS_1A = (ASSCcs == Z76PeFf) ? (char)1396201493 : iw5SwC07;

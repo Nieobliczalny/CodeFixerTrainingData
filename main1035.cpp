@@ -33,7 +33,7 @@ int main() {
 	float	dQ6e02K	=	-1723197119;
     unsigned long    e3Z1q01    =    0;
  short int NX6hU463G2 = (short)819215244;
-  unsigned short int  lwuCx52  =  1098887895;
+  unsigned short int  lwuCx52  =  (unsigned short)1098887895;
  int V3y_Hv = -563179427;
  float BP__5M0aY = 1156088517;
     unsigned char    WK9nUG    =    (unsigned char)188990516;
@@ -86,7 +86,7 @@ case 'c':
 bClVPJV = DnB465((short)-465894471, -82126803, HEBlfjvUM, Dnb_fmrW_M, (short)2012330614);
 break;
 case 'd':
-yev_2 = c3_c9((unsigned short)1398224461, -1044767717, dQ6e02K, yev_2, -1397780117);
+yev_2 = c3_c9((unsigned short)1398224461, -1044767717, dQ6e02K, yev_2, (short)-1397780117);
 break;
 case 'e':
 dQ6e02K = (int)ceil(BP__5M0aY);
@@ -236,7 +236,7 @@ case 'd':
 NX6hU463G2 = DnB465(NX6hU463G2, t16js9, BP__5M0aY, Dnb_fmrW_M, usg_Oij);
 break;
 case 'e':
-c_H7 = c3_c9((unsigned short)673274646, -407947280, (unsigned short)-1559367128, 419638840, -939166035);
+c_H7 = c3_c9((unsigned short)673274646, -407947280, (unsigned short)-1559367128, 419638840, (short)-939166035);
 break;
 case 'f':
 EC29DA9D_a = (int)floor(w7sd4);

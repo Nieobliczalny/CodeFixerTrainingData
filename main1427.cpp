@@ -121,7 +121,7 @@ int main(int argc, char** argv) {
  unsigned short DDA4;
  DDA4 = (unsigned short)1984179795;
  char KZlh14V;
- KZlh14V = 1960870826;
+ KZlh14V = (char)1960870826;
  unsigned short VmSI;
  VmSI = (unsigned short)-416811493;
     float    Dy5W9GK0;

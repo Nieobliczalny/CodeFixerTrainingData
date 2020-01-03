@@ -332,7 +332,7 @@ case 'D':
 u_q7ulw4uZ = (int)abs(OXl8spcWiZ);
 break;
 default:
-VXHF72 = NR6B((short)736770690, (unsigned char)969175713, -1949749151, VS3Z);
+VXHF72 = NR6B((short)736770690, (unsigned char)969175713, (short)-1949749151, VS3Z);
 break;
 }
 if (VS3Z)

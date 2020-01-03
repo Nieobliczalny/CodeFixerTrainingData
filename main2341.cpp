@@ -127,7 +127,7 @@ case 4:
 CxpimzG_1 = iR_dp16W0(9924341, C5dNCrwaS, 1174870332, 558164529, VqUGBU3S);
 break;
 case 5:
-rFr3j = l7280Wv_Om(rFr3j, (short)1349445010, CH_0rd0Eb, GKe0e33, 1967467385);
+rFr3j = l7280Wv_Om(rFr3j, (short)1349445010, CH_0rd0Eb, GKe0e33, (unsigned short)1967467385);
 break;
 case 6:
 x_L3 = (int)ceil(Mwr8si3Oc8);

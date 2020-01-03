@@ -68,7 +68,7 @@ int main(int argc, char** argv)
 	double	WMHwH	=	-1904026870;
 	unsigned char	CVoFrXWa4Z	=	(unsigned char)-1920517590;
     unsigned int    lCLx    =    1316559788;
-  unsigned short  VvhBqYN  =  1294438198;
+  unsigned short  VvhBqYN  =  (unsigned short)1294438198;
   short int  tHo9G  =  (short)829013167;
 	long long	g162y9UNwI	=	1616591976;
 	short int	P39jH	=	(short)1015809509;
@@ -87,7 +87,7 @@ int main(int argc, char** argv)
  unsigned long long N283p0wPH = 654513202;
   unsigned char  A_55_ZUh  =  0;
 	char	aZ4M	=	(char)1745631439;
- short rrF4109c = 701484709;
+ short rrF4109c = (short)701484709;
   unsigned int  a5dPf  =  534605705;
     short    CKB_9RG71c    =    (short)602781930;
 	short int	Kh_eo	=	-1533303189;
@@ -324,7 +324,7 @@ break;
 }
 else
 {
-std::cout << BqSMWo1BD((char)-304563348, f83Mx0wkw, (unsigned short)2140833215, 1608757432, -377200051) << aM0177q << "yPS9H00Oa" << BqSMWo1BD((char)1117583067, (short)-1277962449, -482305006, E_8R5aDR, L60B8_wOd) << std::endl;
+std::cout << BqSMWo1BD((char)-304563348, f83Mx0wkw, (unsigned short)2140833215, 1608757432, -377200051) << aM0177q << "yPS9H00Oa" << BqSMWo1BD((char)1117583067, (short)-1277962449, (unsigned short)-482305006, E_8R5aDR, L60B8_wOd) << std::endl;
 }
 
 if ((ejkpy6wdko <= g7j_5oD) || (aM0177q >= vB12TalXeN))

@@ -31,7 +31,7 @@ int main() {
     unsigned char    s73yC7    =    (unsigned char)2096663303;
   char  BAOl9  =  (char)1380860366;
  int m22a1I = -1284601482;
-	short int	JFcZ	=	1348259485;
+	short int	JFcZ	=	(short)1348259485;
   long double  APky3i  =  -2144171265;
  char y3J6 = (char)1877481005;
 	float	WX32NEmm_6	=	-1953564036;

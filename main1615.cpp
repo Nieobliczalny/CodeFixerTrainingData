@@ -63,7 +63,7 @@ int main(void)
 	unsigned char	N648rE9;
 	N648rE9	=	(unsigned char)-1596840408;
 	short	J7rK;
-	J7rK	=	1100508679;
+	J7rK	=	(short)1100508679;
  long long p4f8Q28p92;
  p4f8Q28p92 = 373222831;
  short yYYOG;

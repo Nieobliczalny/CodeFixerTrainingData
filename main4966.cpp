@@ -35,7 +35,7 @@ int main(int argc, char** argv)
   long  hy106p83  =  -2021283089;
   float  djElNO  =  1323080148;
   char  t9EBbQQnt  =  (char)-86304142;
- unsigned short m_EUA = -890331450;
+ unsigned short m_EUA = (unsigned short)-890331450;
  float U9m3g = 1614731712;
 	unsigned int	f7pv19_	=	0;
     long long    Gf_D_1vXk    =    -1048933531;

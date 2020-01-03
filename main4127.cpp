@@ -265,7 +265,7 @@ case 2:
 wlg8Qs8 = W0qAz_(wlg8Qs8, AXb28V2UB, (short)375854829, (unsigned short)-325102940);
 break;
 case 3:
-XfQJ = W0qAz_(1309473684, (unsigned short)-1749202379, 779573389, 1050423953);
+XfQJ = W0qAz_(1309473684, (unsigned short)-1749202379, (short)779573389, 1050423953);
 break;
 case 4:
 bVdDi1k--;

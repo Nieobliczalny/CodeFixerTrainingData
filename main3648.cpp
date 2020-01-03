@@ -83,7 +83,7 @@ int main()
 	unsigned char	K8y8;
 	K8y8	=	(unsigned char)1579459809;
  unsigned short tN_Y_KoN;
- tN_Y_KoN = 1474621457;
+ tN_Y_KoN = (unsigned short)1474621457;
   long  PC3sibQVS;
   PC3sibQVS  =  -1214844508;
 	long double	Y4_rZ_Fd;

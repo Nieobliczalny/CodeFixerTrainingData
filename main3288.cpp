@@ -574,7 +574,7 @@ case 'c':
 Z4yP9 = (int)abs(hE726YENa);
 break;
 case 'd':
-P_Sx4g494 = Q5_KRxq((unsigned char)2753690, (unsigned char)921619807, -1150037461, -28780506, -120511460) | 129335516;
+P_Sx4g494 = Q5_KRxq((unsigned char)2753690, (unsigned char)921619807, (short)-1150037461, -28780506, -120511460) | 129335516;
 break;
 case 'e':
 POcnminy = Xa7Rb / 858971600;

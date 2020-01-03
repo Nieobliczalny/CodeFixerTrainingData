@@ -310,7 +310,7 @@ case 'c':
 cYV_e59o++;
 break;
 case 'd':
-fj3yvWOnlX = LFt1B_LD5e((unsigned short)695575920, (unsigned short)-1715591744, (short)864853044, (short)-1933715232, -1384892548);
+fj3yvWOnlX = LFt1B_LD5e((unsigned short)695575920, (unsigned short)-1715591744, (short)864853044, (short)-1933715232, (unsigned short)-1384892548);
 break;
 case 'e':
 cYV_e59o = (int)abs(bZHWP) + (-1853703637);

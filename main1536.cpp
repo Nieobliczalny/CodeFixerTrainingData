@@ -247,7 +247,7 @@ case 'b':
 u0wa11y_4 = qn83(YtoHBbBF, y775J_Ey, (unsigned char)-1378612262, pZLA_53Ab);
 break;
 case 'c':
-u0wa11y_4 = qn83(iy9p7CN, (unsigned short)-1428568735, 1816076167, -1138697075);
+u0wa11y_4 = qn83(iy9p7CN, (unsigned short)-1428568735, (unsigned char)1816076167, -1138697075);
 break;
 }
 }

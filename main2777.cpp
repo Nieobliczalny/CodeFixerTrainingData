@@ -29,7 +29,7 @@ int main()
     char    Weh88    =    0;
   unsigned char  t_Lz  =  (unsigned char)-1260118347;
     unsigned short    hohsp1NR6    =    (unsigned short)-773889674;
- unsigned char A59WaTi = 841625079;
+ unsigned char A59WaTi = (unsigned char)841625079;
     long long    aF2876p    =    95080266;
     unsigned short int    aW1x5M    =    -2036666506;
   unsigned long  Ts5U73eF4  =  0;
@@ -55,7 +55,7 @@ int main()
 	int	A9W2kKOB	=	1931023288;
 	unsigned short	A7_F	=	(unsigned short)2000099541;
  long double H2OZs9oRT3 = 1885232227;
- unsigned char vzIb = 323553240;
+ unsigned char vzIb = (unsigned char)323553240;
     long    cCRamv1    =    609017454;
   long  EE_v3n  =  -1588958798;
 

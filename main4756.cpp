@@ -170,7 +170,7 @@ case 8:
 nsK45 = yXG_2z(1568469952, (short)-236464777, (char)196077058, b83Qi6v, e7Tvwt);
 break;
 case 9:
-JTrI97x = T5z3(-365271536, Nbd5QIv5jH, 355178971, eN00bQ_48S);
+JTrI97x = T5z3((short)-365271536, Nbd5QIv5jH, 355178971, eN00bQ_48S);
 break;
 default:
 aK2ZWOexiu = BaO9AW / 2139617644;
@@ -209,7 +209,7 @@ a87kuo9K += k5__FXu;
 }
 else if (oZ90 != unU7Ej)
 {
-e7Tvwt = yXG_2z(-724406200, (short)311546957, (char)1810534769, (short)1735935293, -2103246206);
+e7Tvwt = yXG_2z(-724406200, (short)311546957, (char)1810534769, (short)1735935293, (unsigned short)-2103246206);
 }
 else if (zG__r5W > U12167)
 {

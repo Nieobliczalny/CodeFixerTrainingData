@@ -45,7 +45,7 @@ int main(int argc, char** argv)
 	HyfLsn	=	(short)1068903692;
 	fnmtWut	=	(short)-155763347;
 	t0kq_51x	=	(short)-1406906618;
-	LnI_t_2_Z2	=	-1991120275;
+	LnI_t_2_Z2	=	(short)-1991120275;
 	UuuSya9Dt	=	-40628486;
 	p2pox	=	1307622317;
 	QgK4U	=	-683503855;
@@ -55,7 +55,7 @@ int main(int argc, char** argv)
 	p6o7lc	=	(short)1870686679;
 	iV5xu6VrG	=	(short)163190784;
 	qh43i	=	(short)-574063531;
-	A9o7VK	=	-1957525282;
+	A9o7VK	=	(short)-1957525282;
 	YLPWOIGdhf	=	-483064391;
 	q2ZIQ	=	1728181566;
 	LZ5D	=	61402938;
@@ -65,7 +65,7 @@ int main(int argc, char** argv)
 	o4bS	=	(short)-1191214649;
 	sxtqt	=	(short)2111439667;
 	W5h_k1	=	(short)-357835315;
-	htWVhv	=	500050103;
+	htWVhv	=	(short)500050103;
 	IirSE4s	=	-567609419;
 	n2jZ6	=	47971595;
 	RypT	=	2681711;
@@ -75,7 +75,7 @@ int main(int argc, char** argv)
 	P895q_0LV_	=	(short)560278143;
 	NmL09	=	(short)396210247;
 	r_sYnv9y	=	(short)174352562;
-	G5_Fw	=	12397710;
+	G5_Fw	=	(short)12397710;
 	F_3M5Y	=	-1566439364;
 	k1_V1a	=	1376344761;
 	DZWLrOQx	=	142850327;
@@ -85,7 +85,7 @@ int main(int argc, char** argv)
 	NaHW6P	=	(short)1054164971;
 	iY_G	=	(short)-1722064389;
 	ElIG	=	(short)2128512073;
-	cKCbwD	=	-206627164;
+	cKCbwD	=	(short)-206627164;
 	U96s1L_B	=	1023016391;
 	ah_q1V3D	=	877821838;
 	TR4KgEo3	=	2002664700;
@@ -95,7 +95,7 @@ int main(int argc, char** argv)
 	V4Ni2mD1I6	=	(short)112747189;
 	XrZY	=	(short)848951304;
 	waeyq9	=	(short)-933248075;
-	cssg5V	=	457819260;
+	cssg5V	=	(short)457819260;
 	RQnCfvB	=	-125115721;
 
 for (int i = 7; i >= 0; i--)
@@ -140,7 +140,7 @@ break;
 
 for (int i = 7; i >= 0; i--)
 {
-l63ANX4A1 = aAY_6_3L5((char)1365583745, 1515088620);
+l63ANX4A1 = aAY_6_3L5((char)1365583745, (unsigned short)1515088620);
 }
 for (int i = 6; i >= 0; i--)
 {
@@ -221,7 +221,7 @@ case 2:
 r_sYnv9y = z9qpeS01XB(1790121217, F_3M5Y, (unsigned short)-564721590, k1_V1a, CI0f59o);
 break;
 default:
-q2ZIQ = db2phj(-1742222274, -558941508, A9o7VK, -839796880, TR4KgEo3);
+q2ZIQ = db2phj(-1742222274, (unsigned char)-558941508, A9o7VK, -839796880, TR4KgEo3);
 break;
 }
 }

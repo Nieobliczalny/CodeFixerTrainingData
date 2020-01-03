@@ -28,7 +28,7 @@ int main(int argc, char** argv)
 	short int	CFxBj3_QCX	=	(short)913408585;
  short zy6g = (short)-1694627050;
 	unsigned int	Aic0_0oR	=	-1818361608;
- unsigned short iUyYE = -901991522;
+ unsigned short iUyYE = (unsigned short)-901991522;
  long wPJVG_E1 = -1405639873;
 	unsigned long	kpNaC7L06C	=	673291897;
   double  Tp136QZ  =  -2053672862;
@@ -38,7 +38,7 @@ int main(int argc, char** argv)
 	unsigned char	SaV9tjE_J	=	(unsigned char)365702572;
   double  KhX4319EL  =  1349377360;
 	unsigned short	AJXUHzXTGM	=	(unsigned short)-861879333;
-    short int    TW4n6    =    -1109842011;
+    short int    TW4n6    =    (short)-1109842011;
 	unsigned char	n0R3B5Z2t	=	254447729;
  unsigned short g4A1ITis = 321142647;
     char    iv_oV79    =    -2017267386;

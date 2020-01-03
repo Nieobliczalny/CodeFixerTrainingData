@@ -29,7 +29,7 @@ int main() {
     unsigned short int    UKOr3    =    (unsigned short)1986902464;
     int    qCol69i8E    =    -1186616513;
     unsigned short int    gqp9Og_5    =    (unsigned short)944278099;
-  unsigned char  pftP  =  455652589;
+  unsigned char  pftP  =  (unsigned char)455652589;
     long    R1m5a    =    0;
 	unsigned long	I5M_9	=	-1637450823;
  short IV0b6kgU = -1604472313;
@@ -46,7 +46,7 @@ int main() {
  unsigned char q9kxa6iQ = (unsigned char)-1903163638;
     short int    Iu_z64_Bc    =    (short)-608957536;
     double    F4C_4v    =    -1303635223;
-	char	i57Io	=	-1387275065;
+	char	i57Io	=	(char)-1387275065;
   unsigned int  R8NK  =  -1053538452;
   unsigned short int  J86G  =  (unsigned short)-2049857109;
  long double P1v7GC1 = -1638065919;
@@ -64,7 +64,7 @@ int main() {
   unsigned short int  qNaa0vn6  =  (unsigned short)420693739;
     unsigned short    NgAb3a8u3    =    (unsigned short)1181749203;
 
-F4C_4v = 912201589 / K5BLd4F(1828142245, (unsigned short)1974942393, 1738384970, qNaa0vn6);
+F4C_4v = 912201589 / K5BLd4F(1828142245, (unsigned short)1974942393, (unsigned short)1738384970, qNaa0vn6);
 
 for (int i = 4; i >= 0; --i)
 {

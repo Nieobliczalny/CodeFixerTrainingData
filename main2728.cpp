@@ -108,7 +108,7 @@ int main(void) {
  short int taanV6;
  taanV6 = (short)474560396;
     char    cscxfN06F;
-    cscxfN06F    =    -1218509388;
+    cscxfN06F    =    (char)-1218509388;
   int  s84b_0JUyw;
   s84b_0JUyw  =  503872169;
     long    wuL4r10;
@@ -492,7 +492,7 @@ for (int i = 10; i >= 0; --i)
 {
 if (P96_)
 {
-cout << UJ5DK(GVs2) << Qzw0UYjrEN(-969305961) << UJ5DK(1496882665) << DTOZqt5H6(-1136993488, qp14684, -1916076919, u_j3, -2059783799) << endl;
+cout << UJ5DK(GVs2) << Qzw0UYjrEN(-969305961) << UJ5DK(1496882665) << DTOZqt5H6(-1136993488, qp14684, (short)-1916076919, u_j3, -2059783799) << endl;
 }
 else
 {
@@ -676,7 +676,7 @@ for (int i = 0; i < 8; ++i)
 {
 if (caP36h7393 > 1432507254)
 {
-V9Yv2pm = J1rLXV3Xuh((short)-1459657582, TZ_sKaa, -414590780, -1107197358, mno8);
+V9Yv2pm = J1rLXV3Xuh((short)-1459657582, TZ_sKaa, (short)-414590780, -1107197358, mno8);
 }
 }
 return 0;

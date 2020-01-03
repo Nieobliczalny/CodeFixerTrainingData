@@ -29,7 +29,7 @@ int main(void)
  long long lHp8tv1 = 735634299;
 	int	c3o1	=	74330503;
     unsigned short int    wR7L01e    =    (unsigned short)55976832;
-  short  lXKfg  =  -317349293;
+  short  lXKfg  =  (short)-317349293;
 	int	H1xh	=	-753286003;
   long  yHffv5  =  -1720296303;
     char    LxecJ5m3M    =    (char)384282782;

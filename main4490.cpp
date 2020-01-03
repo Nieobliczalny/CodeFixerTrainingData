@@ -19,7 +19,7 @@ int main(int argc, char** argv)
 	unsigned short	n1175jo	=	(unsigned short)2118719492;
  long u_6F2 = 0;
   unsigned short  JfNbMf5W  =  (unsigned short)128771451;
- short EUTd = 249270116;
+ short EUTd = (short)249270116;
     unsigned short    IUZA6s6a    =    2127188926;
   long double  hVzO1NP6it  =  1519823684;
  long B80CI = 0;
@@ -44,7 +44,7 @@ int main(int argc, char** argv)
     long long    O3jVOY    =    -986163535;
   short int  pvv4A36Y4  =  (short)1235876126;
 
-std::cout << yYso9FCq << DH_uwyo((unsigned short)-467056879, 1249986734, -319128773) << "urDxC53" << Bzvys9S(1224490554, -390656005, oXHw8_I7rA, K3Y7g) << std::endl;
+std::cout << yYso9FCq << DH_uwyo((unsigned short)-467056879, (char)1249986734, -319128773) << "urDxC53" << Bzvys9S(1224490554, -390656005, oXHw8_I7rA, K3Y7g) << std::endl;
 
 try
 {

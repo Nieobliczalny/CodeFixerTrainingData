@@ -35,7 +35,7 @@ int main() {
  unsigned short int tyM_Mdk72 = (unsigned short)350013516;
     float    D1BI5    =    1640931711;
     unsigned int    F11znQ3flC    =    -1141672126;
-  unsigned char  Ai_ZJnP  =  284148219;
+  unsigned char  Ai_ZJnP  =  (unsigned char)284148219;
  long EMK2Khg = 1175902276;
 	unsigned int	N7Wf	=	6921940;
 	double	kk7kg	=	-1998998406;

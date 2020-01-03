@@ -162,7 +162,7 @@ case 2:
 z_oQc6f = (int)ceil(yWhJm3SY);
 break;
 case 3:
-ATEsUe1 = E3oFQr7A(-1258244981, (short)-1010007449, 570683679);
+ATEsUe1 = E3oFQr7A(-1258244981, (short)-1010007449, (unsigned short)570683679);
 break;
 }
 }

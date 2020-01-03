@@ -72,7 +72,7 @@ int main()
  short ebL6;
  ebL6 = (short)1549229651;
  short int Aw6dPh;
- Aw6dPh = 1016035391;
+ Aw6dPh = (short)1016035391;
   long double  wA_9Rk;
   wA_9Rk  =  -1845700935;
 	short int	s8vP7Je;

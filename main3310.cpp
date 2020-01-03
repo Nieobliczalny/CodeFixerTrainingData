@@ -32,7 +32,7 @@ int main(void) {
     unsigned char    Y651_O4    =    (unsigned char)-841643905;
 	unsigned short int	Jy8c	=	(unsigned short)-566719692;
 	unsigned int	TQUFo	=	-896204065;
-	short	QIF0dt40	=	-1271588511;
+	short	QIF0dt40	=	(short)-1271588511;
  long long XQW_R = -721032374;
  unsigned long long taxo45Z33 = 1870422510;
   short int  PUfvhnG  =  (short)1853004528;

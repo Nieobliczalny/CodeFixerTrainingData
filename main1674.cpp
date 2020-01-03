@@ -261,7 +261,7 @@ case 'f':
 a5R6HTdM71 = Kw4cas__F_(KPjLhF3, (short)383812028) | BYIUN_;
 break;
 case 'g':
-u1fBxUZ = Kw4cas__F_((unsigned short)-946772514, -961919401);
+u1fBxUZ = Kw4cas__F_((unsigned short)-946772514, (short)-961919401);
 break;
 default:
 wArx = v79oNa4G ^ 1707571564;

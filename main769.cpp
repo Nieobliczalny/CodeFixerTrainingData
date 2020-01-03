@@ -23,7 +23,7 @@ int main(int argc, char** argv) {
  unsigned char d3Bdl13 = 0;
     char    I52Of2Crzo    =    (char)1720104773;
 	unsigned char	r87R	=	0;
-    unsigned short    w2gv    =    379048972;
+    unsigned short    w2gv    =    (unsigned short)379048972;
   unsigned int  JxRANgN  =  1189178986;
 	unsigned long	J0_2xNrA5	=	0;
   unsigned long  a3cfI0  =  -500116777;

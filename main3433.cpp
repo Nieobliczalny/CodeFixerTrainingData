@@ -199,7 +199,7 @@ for (int i = 0; i < 5; ++i)
 {
 s9T48dOv1E = i2M3vqa((unsigned short)-1454977863);
 }
-std::cout << uZLlC((short)4148735, (unsigned short)-60873301, YkKl39, P5Fn) << f2pjDF((short)-733787248, s9T48dOv1E, 2101347492, -1036383549) << K3Yj3w << std::endl;
+std::cout << uZLlC((short)4148735, (unsigned short)-60873301, YkKl39, P5Fn) << f2pjDF((short)-733787248, s9T48dOv1E, 2101347492, (short)-1036383549) << K3Yj3w << std::endl;
 {
 int i = 0;
 do

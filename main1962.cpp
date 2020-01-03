@@ -431,7 +431,7 @@ case 5:
 EE5Srq4 = (int)abs(nadS);
 break;
 default:
-nadS = sXN01((unsigned char)-547440493, 433237535, u0H9MdaY);
+nadS = sXN01((unsigned char)-547440493, (short)433237535, u0H9MdaY);
 break;
 }
 }

@@ -30,7 +30,7 @@ int main(void)
     tX0Yq3VXe    =    (short)1947296844;
     X8pSx8g1n    =    (short)-1392246686;
     PwE_9    =    (short)1833175677;
-    f6yr    =    1720424514;
+    f6yr    =    (short)1720424514;
 
 std::cout << "EUT3pY" << "S8qOf" << PwE_9 << "gWbPRv6EX" << std::endl;
 

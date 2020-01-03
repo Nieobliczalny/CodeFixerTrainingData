@@ -225,7 +225,7 @@ m_x98c = Lnnclk9((unsigned short)-33945758, XBOB_, UfZpjq, -311883633, (unsigned
 }
 else
 {
-std::cout << M6buE_XFV << "X9ZI" << Lnnclk9(I_pseO, XBOB_, UfZpjq, -1671623403, -864746828) << "ct1XyC8V5Q" << std::endl;
+std::cout << M6buE_XFV << "X9ZI" << Lnnclk9(I_pseO, XBOB_, UfZpjq, -1671623403, (unsigned char)-864746828) << "ct1XyC8V5Q" << std::endl;
 }
 }
 else
@@ -443,7 +443,7 @@ case 5:
 m_x98c = Lnnclk9((unsigned short)2030214510, -2077323959, (unsigned char)800538653, wPRm3, (unsigned char)1839703492);
 break;
 case 6:
-m_x98c = Lnnclk9(pxYWxH7, -636642994, -1283357711, -2077500442, xswEEYuD6y);
+m_x98c = Lnnclk9(pxYWxH7, -636642994, (unsigned char)-1283357711, -2077500442, xswEEYuD6y);
 break;
 case 7:
 M6buE_XFV = DOW88 - 718468333;

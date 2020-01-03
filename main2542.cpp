@@ -37,7 +37,7 @@ int main(void) {
 	short int	uX5y0W;
 	uX5y0W	=	(short)-1989797324;
  unsigned char izz55qX12O;
- izz55qX12O = 2048651126;
+ izz55qX12O = (unsigned char)2048651126;
   unsigned short int  LHknG_b7;
   LHknG_b7  =  (unsigned short)-2022658772;
 	long double	Gdl6M;

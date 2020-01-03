@@ -131,7 +131,7 @@ case 3:
 MvcCSUp0K = Eeaa0Q((char)1116647569, yK1m7Pl);
 break;
 default:
-X0jaR5SbKj = Eeaa0Q((char)311541735, 720222850);
+X0jaR5SbKj = Eeaa0Q((char)311541735, (unsigned short)720222850);
 break;
 }
 }

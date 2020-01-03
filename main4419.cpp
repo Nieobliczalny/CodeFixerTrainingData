@@ -26,7 +26,7 @@ int main()
 	unsigned short int	Cxp1	=	(unsigned short)437547207;
  float utv69__ = 1494415534;
   double  uQq8  =  -697974447;
- unsigned char C_a72v = 870907852;
+ unsigned char C_a72v = (unsigned char)870907852;
     short    Gu550SKXJa    =    (short)1066711608;
 	short int	gTttX	=	-1837197079;
  short vAcmcpla = 0;
@@ -46,7 +46,7 @@ int main()
 	unsigned char	w7_5Tv	=	(unsigned char)-933753427;
   unsigned int  l__5m8uk7b  =  -775002401;
     unsigned short int    LPJ9fgVAb9    =    (unsigned short)-1059512762;
-	unsigned short int	V050qH	=	202052631;
+	unsigned short int	V050qH	=	(unsigned short)202052631;
  short JfZ7 = -466389428;
     unsigned int    MvdD__QZ    =    -721411813;
  char ycA4LkvWP9 = (char)1631794736;
@@ -74,7 +74,7 @@ int main()
     unsigned long    cd0S1E    =    -165457371;
     unsigned long    Be5D    =    1270386329;
  unsigned char j05O9SX962 = (unsigned char)-755831164;
- unsigned char c_mz3W8 = -958837954;
+ unsigned char c_mz3W8 = (unsigned char)-958837954;
  unsigned long EGdq4B9w = 1733252704;
  unsigned int LEYLZkiw = 0;
   unsigned short int  JGUl_35X_  =  (unsigned short)701423739;
@@ -171,7 +171,7 @@ Q3icwwqh63 = (unsigned short)(wYk17);
 }
 
 std::cout << q4eo8 << "J_e5qF5" << J5dA49cP << XCNWT(xxctKAk0s_, (short)-156986625, (unsigned char)652125949, (unsigned short)1273339280) << std::endl;
-std::cout << "m04qTUs_W1" << ZrqrYq_X((unsigned short)-689063560) << w7_5Tv << ZrqrYq_X(-559494192) << std::endl;
+std::cout << "m04qTUs_W1" << ZrqrYq_X((unsigned short)-689063560) << w7_5Tv << ZrqrYq_X((unsigned short)-559494192) << std::endl;
 
 {
 int i = 0;

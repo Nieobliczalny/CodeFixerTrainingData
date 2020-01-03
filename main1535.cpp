@@ -18,7 +18,7 @@ int main(void)
  short int wN9u = (short)1724324822;
   long double  G1zNMu  =  -1635756152;
  char mG3H = (char)741652004;
-    unsigned short int    T5G_cW    =    -798448908;
+    unsigned short int    T5G_cW    =    (unsigned short)-798448908;
     short    FbNf1BjRRL    =    0;
  unsigned char Decf754Q01 = -751819255;
     unsigned short int    orgM    =    0;

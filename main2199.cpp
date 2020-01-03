@@ -20,7 +20,7 @@ int main(int argc, char** argv) {
   unsigned short int  zg5upI_s  =  (unsigned short)739571827;
 	unsigned char	hZ__t38o_5	=	(unsigned char)-1373746241;
     unsigned long    sR7pH123    =    617676381;
-	unsigned short	W90Mxc86H0	=	1978411979;
+	unsigned short	W90Mxc86H0	=	(unsigned short)1978411979;
     short int    XSNt    =    (short)-1962614;
 	unsigned short	Q9Bp5F3T6	=	0;
     char    zQ4f    =    (char)-1210549280;

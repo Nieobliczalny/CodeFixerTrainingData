@@ -198,7 +198,7 @@ case 2:
 t0smUdkht = XY_Vgw1ed4(tYF8x60_R, aISZL7, (short)1447274437, S3Nj);
 break;
 case 3:
-cv5T4X = XY_Vgw1ed4((unsigned char)586047063, (unsigned char)1856697575, 154598045, GO8GlW);
+cv5T4X = XY_Vgw1ed4((unsigned char)586047063, (unsigned char)1856697575, (short)154598045, GO8GlW);
 break;
 case 4:
 GO8GlW = AnX6dI5Vcs();

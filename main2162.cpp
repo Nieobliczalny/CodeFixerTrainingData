@@ -62,7 +62,7 @@ int main(void) {
  unsigned int Z56Uu2PR_1 = -663249939;
 	unsigned long long	FodBUrci9	=	1306524439;
     short    X354G17    =    (short)1105642937;
-    unsigned char    P2n8    =    591183666;
+    unsigned char    P2n8    =    (unsigned char)591183666;
     short    bQvF9s74Xm    =    (short)34115770;
  long long AH_hU = -1282264891;
  unsigned int OgLBr = -962097822;

@@ -33,7 +33,7 @@ int main(void)
     short    Yj82    =    (short)-147144514;
 	unsigned short int	SyS553	=	(unsigned short)788163421;
   unsigned long long  m71mW6_  =  -830401631;
-	short	S5flS4_	=	-923985752;
+	short	S5flS4_	=	(short)-923985752;
   unsigned char  IAxLo  =  598562397;
  int v_9BuKo = -733298513;
     unsigned char    k_N2VIH9d    =    (unsigned char)-1732846002;
@@ -47,7 +47,7 @@ int main(void)
   unsigned char  w9So_JDY  =  (unsigned char)1973903029;
   double  s45oP_72h  =  1403225847;
   short int  k7M50  =  (short)1366363222;
-    char    R7ZNkupv0n    =    283203981;
+    char    R7ZNkupv0n    =    (char)283203981;
     long    DRy2O    =    823138467;
     unsigned short int    x30_hFF    =    (unsigned short)-441572273;
 	char	n45N_e2ajS	=	1148146136;

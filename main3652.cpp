@@ -150,7 +150,7 @@ n7Z_SlPI = (int)abs(xuPvB5S2R8);
 break;
 case 'c':
 case 'C':
-n7Z_SlPI = Jy_v6((unsigned short)728183943, (char)1120770281, v571_, 990918662, -16704252);
+n7Z_SlPI = Jy_v6((unsigned short)728183943, (char)1120770281, v571_, 990918662, (unsigned char)-16704252);
 break;
 case 'd':
 case 'D':
@@ -233,7 +233,7 @@ for (int i = 0; i < 5; ++i)
 int j = 0;
 while (j < 4)
 {
-std::cout << aHIJc << Jy_v6((unsigned short)871932320, 1303146053, X_AA6d, WdOLnrW0Na, zc2ESA) << std::endl;
+std::cout << aHIJc << Jy_v6((unsigned short)871932320, (char)1303146053, X_AA6d, WdOLnrW0Na, zc2ESA) << std::endl;
 ++j;
 }
 }
