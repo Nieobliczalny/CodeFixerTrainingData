@@ -43,7 +43,7 @@ int main()
     long    Z114    =    -718284757;
     long long    Zn78Sw    =    1721554996;
  unsigned short int AGDC = (unsigned short)-1235329464;
-  unsigned short  zN9PoSB  =  1983424570;
+  unsigned short  zN9PoSB  =  (unsigned short)1983424570;
  unsigned short R18VmfM = -1647064075;
   unsigned short  RToOd  =  (unsigned short)-2004428168;
 	unsigned short	fPyP_Fd1	=	(unsigned short)-1015053294;

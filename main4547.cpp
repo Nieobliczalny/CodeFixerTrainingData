@@ -44,7 +44,7 @@ int main()
  int HGP3559 = 77410003;
   unsigned char  ShR21v_H  =  (unsigned char)1177981506;
 	short int	pN07t	=	(short)-1296562069;
-	short int	G4_gyX	=	466288803;
+	short int	G4_gyX	=	(short)466288803;
 	short	dm1tHqtvZ5	=	-1960952855;
  long Gbs0E05_r = 341145533;
  unsigned long long AddK = -1125359063;

@@ -28,7 +28,7 @@ int main(int argc, char** argv) {
  short int Lj_0 = 0;
     short int    Mu04CkUd4m    =    (short)-532796995;
 	short	qUVu7	=	(short)-1002365099;
-	char	THk4_7	=	-543081864;
+	char	THk4_7	=	(char)-543081864;
 	unsigned int	JBD6X	=	1030087289;
 	unsigned short int	j_C3G	=	(unsigned short)1403989997;
 	double	I97N11jKB	=	2001063264;
@@ -191,7 +191,7 @@ std::cout << d9_oG((char)813517551, -1392313660, (short)1248158489, (unsigned ch
 }
 else
 {
-voaXH = d9_oG(298214048, l32P9df, -2133155820, tfJt8n1A);
+voaXH = d9_oG((char)298214048, l32P9df, -2133155820, tfJt8n1A);
 }
 
 for (int i = 0; i < 9; i++)

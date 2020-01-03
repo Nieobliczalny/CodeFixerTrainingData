@@ -79,7 +79,7 @@ int main() {
 	unsigned long	Eif766IR	=	-952048961;
  unsigned short AvWK = (unsigned short)-1892062589;
  unsigned short int D772ed2 = (unsigned short)-426079406;
- unsigned short t0EsKE = -350816837;
+ unsigned short t0EsKE = (unsigned short)-350816837;
     unsigned int    APp7    =    -804405308;
   unsigned int  r5v2n4BriI  =  -758373846;
     unsigned long long    v1E6A    =    -438775776;

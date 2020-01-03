@@ -17,7 +17,7 @@ int main()
 	oJ9bk9e_H	=	(unsigned short)-1437888655;
 	KZd_37	=	(unsigned short)1327960983;
 	umpGU	=	(unsigned short)275429900;
-	E5_mL3z_	=	-1764118074;
+	E5_mL3z_	=	(unsigned short)-1764118074;
 	f5oBftYSOS	=	956398844;
 	u7754iS5	=	654533250;
 	uvo3W	=	789335591;
@@ -27,7 +27,7 @@ int main()
 	wROQe	=	(unsigned short)432476116;
 	MUNES_Om	=	(unsigned short)-91678958;
 	G7Ogm15	=	(unsigned short)-1585927262;
-	iBQ98	=	-1359185072;
+	iBQ98	=	(unsigned short)-1359185072;
 	M53x	=	-873399596;
 	W6D66EapP	=	-371806330;
 	UQ9Y1Cd	=	-1945747239;
@@ -37,7 +37,7 @@ int main()
 	h9nUo5lt8R	=	(unsigned short)2057485138;
 	OINhvPRfG	=	(unsigned short)-1122162700;
 	hue3	=	(unsigned short)-1843007882;
-	SfS_o	=	-890238132;
+	SfS_o	=	(unsigned short)-890238132;
 	Z7F6	=	-853624888;
 	oU1T7zEJcQ	=	-76236750;
 	Uam18n4	=	-1612852527;
@@ -47,7 +47,7 @@ int main()
 	RY6_GVnH_4	=	(unsigned short)-1029676327;
 	I3wdGY3a	=	(unsigned short)1742488935;
 	f5W6O6p9	=	(unsigned short)-133062298;
-	If__85073s	=	1830653951;
+	If__85073s	=	(unsigned short)1830653951;
 	oK5UipNZla	=	994522459;
 	rA_a	=	-639743954;
 	h82h_0U	=	-940820274;
@@ -57,7 +57,7 @@ int main()
 	b49Q	=	(unsigned short)858335978;
 	I1jxRk5	=	(unsigned short)1007275740;
 	ykc4	=	(unsigned short)816008635;
-	x1P69	=	1604062144;
+	x1P69	=	(unsigned short)1604062144;
 	xx00Wz47V	=	-1087810865;
 	ijoDqyZ	=	-432519625;
 	we9Lq	=	452895789;
@@ -67,7 +67,7 @@ int main()
 	j_ckI_el8	=	(unsigned short)1438686071;
 	E8ujKXUZ8	=	(unsigned short)-634316869;
 	S2SmE	=	(unsigned short)-1795404871;
-	Mymju_J0b	=	-1373243769;
+	Mymju_J0b	=	(unsigned short)-1373243769;
 	u2lkC5C0L7	=	-1457035078;
 	I4T0i5o	=	-1678458107;
 	CpbE9	=	563592989;
@@ -77,7 +77,7 @@ int main()
 	wn9_	=	(unsigned short)1347545233;
 	yD1mzy4xTY	=	(unsigned short)533647413;
 	BRDQPOFfg	=	(unsigned short)1386248864;
-	r6dY_10	=	-1078049986;
+	r6dY_10	=	(unsigned short)-1078049986;
 	f73U	=	-2012942062;
 	Yv55vYK0An	=	263602993;
 	Ca9o	=	840735630;
@@ -87,7 +87,7 @@ int main()
 	g9RS	=	(unsigned short)959185371;
 	EAZ6	=	(unsigned short)-1923384502;
 	FlxmS6rZ	=	(unsigned short)-739421090;
-	F4E1_N6PN	=	-1412443188;
+	F4E1_N6PN	=	(unsigned short)-1412443188;
   unsigned long long  u9jV_,  rlm3EwLG,  KaCQ;
   u9jV_  =  0;
   rlm3EwLG  =  0;

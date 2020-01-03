@@ -22,7 +22,7 @@ int main(int argc, char** argv)
  Z0_9HSyy98 = (unsigned char)763127424;
  U4zO4_ = (unsigned char)987351564;
  D319Um95 = (unsigned char)-303010415;
- XKg0 = -202126980;
+ XKg0 = (unsigned char)-202126980;
  OlQ0Frx = -1535595773;
  jF78xd = 1701584649;
  vpLU = 784234697;
@@ -32,7 +32,7 @@ int main(int argc, char** argv)
  gRXNm4G0K = (unsigned char)1209206203;
  o6cc = (unsigned char)-517481569;
  D6f8Z5o = (unsigned char)899322601;
- H98c = 1665965110;
+ H98c = (unsigned char)1665965110;
  l211rz = -1353167387;
  Ag22MmrDx = 688745435;
  gRUB7acU = -644612068;
@@ -42,7 +42,7 @@ int main(int argc, char** argv)
  X2R9W = (unsigned char)612189926;
  z7K_TFC0 = (unsigned char)595177748;
  IsAaAByVz = (unsigned char)137640383;
- GLPiopI92 = 887048861;
+ GLPiopI92 = (unsigned char)887048861;
  Qoc28TV99 = -725857939;
  fj2IAv = -1206510308;
  WO3xnLA98 = -645946128;
@@ -52,7 +52,7 @@ int main(int argc, char** argv)
  Uz3B = (unsigned char)-2008381067;
  zQoyMnP = (unsigned char)1364714562;
  Cg9ZAca = (unsigned char)-1916880777;
- pO7PT_u39 = -1799726840;
+ pO7PT_u39 = (unsigned char)-1799726840;
  Da36shixS = 1368707059;
  vAWGHY3c = -531451557;
  i5L28UTF = -445637780;
@@ -62,7 +62,7 @@ int main(int argc, char** argv)
  j506ZbR = (unsigned char)-754087686;
  ntWwRD = (unsigned char)851240195;
  a8R7W = (unsigned char)2035698637;
- fLZkgn__7d = 1992353159;
+ fLZkgn__7d = (unsigned char)1992353159;
  Fig9 = 1892363907;
  eaT1 = -1621487810;
  pDcS2b = 88676820;
@@ -72,7 +72,7 @@ int main(int argc, char** argv)
  N6ALG1 = (unsigned char)1099798411;
  NL06N = (unsigned char)-2037712758;
  V1_Qh = (unsigned char)-388793805;
- R682JQz = 1944246678;
+ R682JQz = (unsigned char)1944246678;
  iKSd = -486735333;
  N_03 = 365380598;
  rbIm_ = -1579142402;
@@ -82,7 +82,7 @@ int main(int argc, char** argv)
  a_h2IoaG = (unsigned char)2143900819;
  yzdLg413Yi = (unsigned char)-707658949;
  RWhvLU7 = (unsigned char)-365790857;
- XNt__Ea = -273303217;
+ XNt__Ea = (unsigned char)-273303217;
  s4__PJSl = 35443978;
  Hg0KR = 1897363867;
  A4f59o = -1210258294;

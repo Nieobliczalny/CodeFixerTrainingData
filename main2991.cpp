@@ -464,7 +464,7 @@ case 2:
 JqwX7__4g0 = JbFxr((unsigned short)120533555, (char)20111924, 754062924, uqJD, 1107824788);
 break;
 case 3:
-yKBPzpueT = JbFxr(aw7rj8gD, P77hz2dh, d_gXo, -646328608, 2009322287);
+yKBPzpueT = JbFxr(aw7rj8gD, P77hz2dh, d_gXo, (char)-646328608, 2009322287);
 break;
 }
 }

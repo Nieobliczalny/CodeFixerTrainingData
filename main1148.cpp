@@ -25,7 +25,7 @@ int main(void)
     char    Sd7z9v    =    (char)-974629050;
  unsigned short zIjK07d = 0;
   unsigned char  TOmB  =  (unsigned char)-1959262969;
-	short int	Ijc_89p	=	-827376084;
+	short int	Ijc_89p	=	(short)-827376084;
     short    Tj30C4m9I    =    0;
   short  T49R868H  =  (short)2131056636;
   unsigned char  I6YN0  =  -170217429;

@@ -56,7 +56,7 @@ int main(int argc, char** argv) {
   short int  tltffcTo  =  (short)233168037;
     double    l105X    =    17554420;
   unsigned long  YL6HS58M  =  157978134;
-  unsigned short int  SN0Co  =  907759522;
+  unsigned short int  SN0Co  =  (unsigned short)907759522;
     unsigned short int    Tgf0_d_    =    (unsigned short)-495903767;
 	short int	Y92o	=	-1123940092;
  unsigned long long AGGy = -733399692;
@@ -81,7 +81,7 @@ int main(int argc, char** argv) {
 	float	z2_aw0	=	2033379102;
   unsigned short int  VS01WqJi84  =  (unsigned short)-429804587;
  short int g05_ = (short)2022260611;
-    short int    c7L9    =    884332451;
+    short int    c7L9    =    (short)884332451;
   char  C2qf  =  2024523545;
 	char	K_fM	=	(char)-1682732797;
   unsigned long long  XWeg1E  =  711623843;
@@ -105,7 +105,7 @@ int main(int argc, char** argv) {
  short int A8_MHJ33yX = (short)12776266;
 	long double	Xqf5rxZ	=	687515836;
     unsigned char    tH652uL7    =    (unsigned char)905801034;
-  unsigned short int  NYD1O  =  -1407023243;
+  unsigned short int  NYD1O  =  (unsigned short)-1407023243;
 	unsigned short int	pl0Wi32	=	(unsigned short)-406493325;
  unsigned int vk4PTN5N = 1532817363;
  unsigned short M2PYC5FJ4g = (unsigned short)-868010936;
@@ -299,7 +299,7 @@ case 'f':
 KH17UVacse = ZtGB((char)688202818, (unsigned short)-1064116259, (unsigned short)-1686614484, gMjjQW);
 break;
 case 'g':
-fk_OWs4a2a = (bAxvb > c7L9) ? z_a3 : -1823814592;
+fk_OWs4a2a = (bAxvb > c7L9) ? z_a3 : (unsigned char)-1823814592;
 break;
 case 'h':
 lw389 = ZtGB(lw389, spGD9RX8HV, slWo44oa1I, pl0Wi32);

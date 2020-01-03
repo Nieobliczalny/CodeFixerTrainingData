@@ -41,7 +41,7 @@ int main(int argc, char** argv)
 	long long	NFZ8WW0lM	=	0;
 	short	C6_uX2091q	=	(short)1975259471;
   unsigned short int  Qs3RMNR7  =  (unsigned short)1660537447;
-    char    pUxO    =    -941385040;
+    char    pUxO    =    (char)-941385040;
     double    p63tS    =    -1304169855;
  char wIWx = (char)-493019569;
  float gI8va1K = 1731297336;

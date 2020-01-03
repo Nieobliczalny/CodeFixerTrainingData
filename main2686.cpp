@@ -84,7 +84,7 @@ int main()
  char wHIWb = (char)1376746842;
     short    vk2S7    =    (short)-255089643;
     long    CH7q    =    -1445980205;
-	short int	uDUbu3	=	790234248;
+	short int	uDUbu3	=	(short)790234248;
     double    I4ylEW    =    -534865588;
   long long  T1FZ8PaP  =  1331951865;
     unsigned long    jvLwe    =    1382560818;
@@ -99,7 +99,7 @@ int main()
   unsigned long long  MgKK4  =  1949715318;
  short mwJ1 = (short)-323861441;
   unsigned short int  G5pqjRj3  =  (unsigned short)2043317754;
-  short  RZrvcR2  =  -1860621040;
+  short  RZrvcR2  =  (short)-1860621040;
 
 std::cout << X9GI4Vvjs((short)-649919573, EcTVf0na, MgKK4, -693888688) << "Bz3MW8l" << "v_rs2" << JVcBJ << std::endl;
 

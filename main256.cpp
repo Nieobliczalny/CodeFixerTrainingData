@@ -81,7 +81,7 @@ int main(void) {
 	short int	Jgxh4jf	=	(short)243203037;
 	char	s9Gf	=	(char)573568926;
 	unsigned char	q56U08	=	(unsigned char)-1945084111;
-	unsigned char	OnoT	=	1891085222;
+	unsigned char	OnoT	=	(unsigned char)1891085222;
   long  w3WoJY5  =  -1698662434;
 	int	h_SslU	=	1503649822;
     long    ZP_y7e_f    =    1160117939;

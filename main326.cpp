@@ -447,7 +447,7 @@ case 4:
 VdQG = K86C(384748850, (unsigned short)1033624354, (unsigned short)1082231487, (unsigned short)1003291500);
 break;
 case 5:
-Hl1C = K86C(-83080544, Ou5QDx0, tFG2, 1886926383);
+Hl1C = K86C(-83080544, Ou5QDx0, tFG2, (unsigned short)1886926383);
 break;
 case 6:
 h00c5 = (int)abs(Q__450n) + (1930663065);

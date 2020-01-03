@@ -28,7 +28,7 @@ int main(int argc, char** argv)
   float  n78_KM5MP  =  -1073434518;
 	unsigned short int	AyWK8Z5EO1	=	(unsigned short)-229151169;
 	double	kS5TmtzX9	=	-830360571;
-  unsigned short  Wv97H7b1M  =  -373025525;
+  unsigned short  Wv97H7b1M  =  (unsigned short)-373025525;
     unsigned int    MRV6s_    =    937045474;
 	short	T3om	=	(short)2499722;
   float  Ph8q  =  -1752420582;
@@ -67,7 +67,7 @@ int main(int argc, char** argv)
  unsigned short wXpy = (unsigned short)1595158247;
  char Vtl1Z0KB_ = (char)-1598030708;
 	unsigned short int	rZx54edf	=	(unsigned short)498657591;
- unsigned short int coF36_7PB = -1419840608;
+ unsigned short int coF36_7PB = (unsigned short)-1419840608;
     unsigned short int    TqguK7CC6d    =    1285112048;
   short  Z8jx47S2  =  (short)-877502270;
   double  aQYTr  =  1651973570;
@@ -153,7 +153,7 @@ case 'h':
 q7m0uV11 = (int)floor(q26U3U9);
 break;
 case 'i':
-Jtm1N = hG70Tya((unsigned short)-1626442894, OhsuftP6, (short)1657673976, 1251273943, EOL6D_4J);
+Jtm1N = hG70Tya((unsigned short)-1626442894, OhsuftP6, (short)1657673976, (unsigned short)1251273943, EOL6D_4J);
 break;
 case 'j':
 ew86N04B |= 929943901;
@@ -336,7 +336,7 @@ std::cout << "EjR_" << ZAc9Q2s9(LgKM68f, V0Ylyck, (short)335540466, (unsigned sh
 re8d = ZAc9Q2s9((unsigned short)-748789894, re8d, (short)1920161835, (unsigned short)660966844);
 EOL6D_4J = (float)(CpY7gSgk4);
 
-Fw2rAp447 = ZAc9Q2s9(jChRc7_48E, KIDM9Z0ZX, 2089219647, Eb_WHtT00);
+Fw2rAp447 = ZAc9Q2s9(jChRc7_48E, KIDM9Z0ZX, (short)2089219647, Eb_WHtT00);
 K0_1 = (int)ceil(DqRV0Zb0Oy);
 
 sbXnu2ZI = (long)(R2i3Qwwtqr);

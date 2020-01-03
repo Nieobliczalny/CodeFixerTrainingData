@@ -45,7 +45,7 @@ int main() {
 	long	R0nUoC_1O	=	-516712643;
 	unsigned short int	RCLH1	=	(unsigned short)-1074324667;
 	unsigned char	U_43_Enfa	=	(unsigned char)-469100748;
-    unsigned short    e_ky8r    =    -736146246;
+    unsigned short    e_ky8r    =    (unsigned short)-736146246;
  long long V3KDNgy1o = -1344598010;
 
 try
@@ -113,7 +113,7 @@ ajzdwZR8_ = uqMYY((char)1495400317, (short)1117645779, (unsigned short)-12766287
 break;
 case 'c':
 case 'C':
-noU9w29C_f = uqMYY(-617989938, 1144156657, 87646797);
+noU9w29C_f = uqMYY((char)-617989938, 1144156657, 87646797);
 break;
 case 'd':
 case 'D':

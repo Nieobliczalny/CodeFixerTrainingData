@@ -51,7 +51,7 @@ int main(int argc, char** argv)
     unsigned short    Jk65zl3    =    (unsigned short)-901308888;
   unsigned long  m8Fz32  =  -1203803190;
 	unsigned short int	arl6Mxp7	=	(unsigned short)910667510;
-    char    rWH4e2    =    -1329816876;
+    char    rWH4e2    =    (char)-1329816876;
   float  Q1GE_I0Z85  =  2118029102;
  long double apt2Zx = 1802461898;
  int nbvKSmK = 2139436020;

@@ -34,7 +34,7 @@ int main(void) {
     IB4Atik    =    (unsigned short)-974030508;
     NOGp8WvGK    =    (unsigned short)-1951047292;
     YIY2v4i_q_    =    (unsigned short)1335467215;
-    q6mb5Q2    =    801638471;
+    q6mb5Q2    =    (unsigned short)801638471;
     MeYU4jxDv_    =    -1539894127;
     p3DvA    =    -1553024028;
     KQyY57DDkp    =    -2018475168;
@@ -246,7 +246,7 @@ case 4:
 p3DvA = XzS7541z9f(-241330752, (short)-16021661, (unsigned char)-760504288);
 break;
 case 5:
-TJAhpF_k0 = ONPxH8ZA(dEBeC92x2, YIY2v4i_q_, 1221174451, NOGp8WvGK, -1746411858);
+TJAhpF_k0 = ONPxH8ZA(dEBeC92x2, YIY2v4i_q_, (short)1221174451, NOGp8WvGK, -1746411858);
 break;
 case 6:
 YIY2v4i_q_ = XzS7541z9f(YIY2v4i_q_, jFFPVVy, (unsigned char)906988566);

@@ -226,7 +226,7 @@ case 2:
 Z246PvR1 = RSN1_((short)511495143, (unsigned char)1612610942, (short)841432177, ehh_wHS8q, f6l306j);
 break;
 case 3:
-Wq7ZSH36 = f1E02M5l(Wq7ZSH36, -1404239669, O6s8LSo1, 397608809, V86qt7xF1);
+Wq7ZSH36 = f1E02M5l(Wq7ZSH36, -1404239669, O6s8LSo1, (unsigned short)397608809, V86qt7xF1);
 break;
 case 4:
 H9h7d = (int)abs(c6mPbYxfD);

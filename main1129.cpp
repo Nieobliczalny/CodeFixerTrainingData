@@ -17,7 +17,7 @@ int main(void) {
     tK_v89    =    (short)421339480;
     vM0DqmJH    =    (short)-138108378;
     Oi6sDe9x    =    (short)1432181015;
-    gLNlp    =    1434747066;
+    gLNlp    =    (short)1434747066;
     pfVDzc8    =    1591850993;
     n_Y6IKRZ    =    2136730805;
     nBwqk2v_Wb    =    984904086;

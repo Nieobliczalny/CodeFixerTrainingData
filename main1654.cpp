@@ -303,7 +303,7 @@ if ((v78h1I9kx / jq4cOav_qX) >= -704301125)
 {
 cout << "XDg_PEMI2e" << "JASA05_j" << UjP2l_7((unsigned short)-1990552884, 768702453, (short)1577349899, Zh_g3YFT) << "jwU37" << w_t2Eyq((unsigned short)-1119347236, -347909419, 631590424, Zh_g3YFT, (short)-2046310539) << endl;
 }
-cout << "L7Poi1E" << w_t2Eyq((unsigned short)-920851745, ZX3bF8, -1505038091, Zh_g3YFT, -670845656) << eo96AC3 << "uOQ3v" << ekbAfkZiF << endl;
+cout << "L7Poi1E" << w_t2Eyq((unsigned short)-920851745, ZX3bF8, -1505038091, Zh_g3YFT, (short)-670845656) << eo96AC3 << "uOQ3v" << ekbAfkZiF << endl;
 {
 int i = 5;
 do
@@ -314,7 +314,7 @@ case 0:
 Y_6YLhe = w_t2Eyq((unsigned short)906197095, 1696430015, -2113558623, (short)-501463248, (short)-833922540);
 break;
 case 1:
-ekbAfkZiF = w_t2Eyq((unsigned short)-223380313, Y3Qa, Zh_g3YFT, (short)668164117, -2037022600);
+ekbAfkZiF = w_t2Eyq((unsigned short)-223380313, Y3Qa, Zh_g3YFT, (short)668164117, (short)-2037022600);
 break;
 case 2:
 xcbB9b8of = hrOKw10 - 1170523263;
@@ -342,7 +342,7 @@ break;
 }
 while (i >= 0);
 }
-cout << GfO42St2((short)-317899310, (short)-1384446913, (short)-512449399, 1005288814, 1864985460) << "Fo512cF" << DbrFl(Zh_g3YFT, zLKP2El_, (unsigned short)-872233908) << UjP2l_7((unsigned short)1176634222, 711874884, gE904Q_r, -346583450) << endl;
+cout << GfO42St2((short)-317899310, (short)-1384446913, (short)-512449399, 1005288814, 1864985460) << "Fo512cF" << DbrFl(Zh_g3YFT, zLKP2El_, (unsigned short)-872233908) << UjP2l_7((unsigned short)1176634222, 711874884, gE904Q_r, (unsigned char)-346583450) << endl;
 
 try
 {
@@ -385,7 +385,7 @@ lx5613zs1 = GfO42St2((short)1356331648, zLKP2El_, (short)1966984986, -856825973,
 break;
 case 'g':
 case 'G':
-eo96AC3 = GfO42St2(cg2V8CtN, (short)1484435078, -2032358450, 423114051, -452879327);
+eo96AC3 = GfO42St2(cg2V8CtN, (short)1484435078, (short)-2032358450, 423114051, -452879327);
 break;
 case 'h':
 case 'H':
@@ -553,7 +553,7 @@ if (z2b9eJ)
 {
 try
 {
-ZX3bF8 = GfO42St2((short)-78628650, (short)393307274, 1848889425, zLKP2El_, -1764933430);
+ZX3bF8 = GfO42St2((short)-78628650, (short)393307274, (short)1848889425, zLKP2El_, -1764933430);
 }
 catch (int& errorCode)
 {

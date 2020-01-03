@@ -27,7 +27,7 @@ int main()
   unsigned short int  eqZ4H  =  0,  yf_gh  =  0,  Ji1a  =  0,  yg1blp  =  0,  sDk2c  =  0;
 	unsigned short	VV61Y5w	=	(unsigned short)611576082,	JJ88	=	(unsigned short)-2012706753,	VqIbzr	=	(unsigned short)-1004954211,	JX5Qm5L	=	(unsigned short)-469115243,	deY72Tz	=	(unsigned short)-1624018047;
 
-VqIbzr = w8g0Z(1131959914, Ji1a, -1579611514);
+VqIbzr = w8g0Z((unsigned short)1131959914, Ji1a, -1579611514);
 
 {
 int i = 7;

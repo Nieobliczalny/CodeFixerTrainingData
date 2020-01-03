@@ -47,7 +47,7 @@ int main(int argc, char** argv) {
   unsigned char  M4gA7U  =  (unsigned char)-110671860;
  char Blz7uUdpzu = (char)1563930725;
   unsigned short int  ar_Wd  =  (unsigned short)-57052455;
-  unsigned short int  m2wvgI  =  309821411;
+  unsigned short int  m2wvgI  =  (unsigned short)309821411;
  long Ipr18 = -357092544;
  int mFQFp = -403624188;
   unsigned long  PXYU  =  -304793495;

@@ -33,7 +33,7 @@ int main(void) {
 	short	IaQVN	=	(short)-221044419;
     short int    tLHlSk    =    (short)2027537805;
   char  QjKWX  =  (char)-1157185106;
-    short    LXo3F7X    =    1861269852;
+    short    LXo3F7X    =    (short)1861269852;
  long double z9sXSp7 = 1528609391;
     long long    Ny6kB4    =    0;
  unsigned char Q7_0sx9 = (unsigned char)1179349244;

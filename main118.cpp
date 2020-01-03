@@ -24,7 +24,7 @@ int main(void)
     unsigned long    u1_7z13    =    1661639842;
   unsigned short  H_KMt6J3l  =  (unsigned short)-1734801769;
   unsigned char  dey9BT1d4  =  (unsigned char)1562006094;
-  char  DVpoBI7  =  1518362855;
+  char  DVpoBI7  =  (char)1518362855;
  double J1Ze = 417961120;
     long double    nkB0HST0L    =    1787035331;
 	char	A_7Q22S	=	0;

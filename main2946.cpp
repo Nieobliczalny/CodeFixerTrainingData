@@ -48,7 +48,7 @@ int main(void) {
   unsigned int  g9004V  =  -763714065;
   unsigned long long  BnTG555c  =  1711786227;
  unsigned short nmL4q = (unsigned short)-705243004;
- short vj9a6w = -767336090;
+ short vj9a6w = (short)-767336090;
 	unsigned short	zvHAfVs	=	(unsigned short)953295893;
   char  JxthA  =  (char)1962389469;
     unsigned short int    J8B2P3M3    =    605009545;
@@ -84,7 +84,7 @@ int main(void) {
 	unsigned char	pA2K	=	(unsigned char)-1107177184;
  unsigned short wSN04Q = (unsigned short)103071973;
   unsigned short int  NSt4k  =  (unsigned short)-1525952309;
-	unsigned short	G9a43vLo1	=	-309735321;
+	unsigned short	G9a43vLo1	=	(unsigned short)-309735321;
  double N0aomY = -619224148;
     short    cSODT_2AD    =    (short)-823655156;
   char  AgRv3L99o2  =  1387706772;

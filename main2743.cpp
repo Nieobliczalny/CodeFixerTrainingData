@@ -241,7 +241,7 @@ case 'a':
 T4iRrK0VD ^= sQR_lcOaQh;
 break;
 case 'b':
-Q443b3X = c2h2P3QNgO((unsigned char)235023762, -1814037439, -1001835203);
+Q443b3X = c2h2P3QNgO((unsigned char)235023762, -1814037439, (unsigned short)-1001835203);
 break;
 case 'c':
 P4k7U0 = (int)abs(Q443b3X);
@@ -344,7 +344,7 @@ cout << c2h2P3QNgO(z4_Sg8h, RYx99I_, (unsigned short)-52833754) << Da_M4ge << c2
 
 try
 {
-Q443b3X = c2h2P3QNgO(-1335750973, -1407593851, 1420618281);
+Q443b3X = c2h2P3QNgO((unsigned char)-1335750973, -1407593851, 1420618281);
 }
 catch (int& errorCode)
 {

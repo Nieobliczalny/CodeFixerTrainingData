@@ -84,7 +84,7 @@ case 0:
 mxpl1 = aUQ6h4tX((short)-668917175, (char)979886442, F8RVzxIm5, (unsigned short)115054206, V_v767avjq) | 1106756529;
 break;
 case 1:
-sKb1 = b4bXTc32(-1252293638, -1917433915);
+sKb1 = b4bXTc32((short)-1252293638, -1917433915);
 break;
 case 2:
 Tos2_BD = (int)abs(yl7Tvx8p);

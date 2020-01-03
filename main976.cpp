@@ -54,7 +54,7 @@ int main(void)
  short int eTOx = (short)-672178398;
  unsigned char wXx94pbObH = (unsigned char)995248689;
   unsigned char  as9yuxCb71  =  (unsigned char)-427289372;
-  unsigned short int  YQf4Y_8  =  -39330458;
+  unsigned short int  YQf4Y_8  =  (unsigned short)-39330458;
   unsigned char  p683_5  =  -1551858245;
 	long long	s115V	=	-58187555;
     unsigned long    UMeAuEx    =    1612051609;
@@ -102,7 +102,7 @@ int main(void)
   char  xoPK9k  =  (char)449773765;
 	unsigned long long	O801kbQF8	=	-1838986226;
 	char	zFIxS1_eH_	=	(char)-1515299540;
-  char  jOE_R_  =  -1225704672;
+  char  jOE_R_  =  (char)-1225704672;
 	int	g0L9T1fUw	=	-1094883193;
 	char	D141	=	(char)198508201;
     double    v9V6L    =    -1435002282;

@@ -36,7 +36,7 @@ int main()
 	vnsq6tY8	=	(char)-300809314;
 	F0jb_5yn	=	(char)94574380;
 	e7R_SJ	=	(char)1814971885;
-	GyALO	=	388100553;
+	GyALO	=	(char)388100553;
 	EFlGdW8	=	-782594357;
 	I_15	=	1411775126;
 

@@ -76,7 +76,7 @@ case 'c':
 Ra0rVd = t7Y_6(Ra0rVd, Ww83Zg, (unsigned short)1648256156, cOxml, ofqs97) | 798185408;
 break;
 case 'd':
-WOthLG3dy = t7Y_6(-1262478570, -1992272536, u428oOUh, Euf3tj, -340492326);
+WOthLG3dy = t7Y_6((char)-1262478570, -1992272536, u428oOUh, Euf3tj, -340492326);
 break;
 case 'e':
 ofqs97 = ofqs97 + 1102123590;
@@ -236,7 +236,7 @@ WOthLG3dy = t7Y_6((char)836639016, (short)873238579, fWH65, Euf3tj, 233034643);
 }
 else if ((Ra0rVd == -501355914) && (cOxml != cJp2N))
 {
-Ww83Zg = t7Y_6((char)900700959, (short)1853536591, -699526978, -2115582775, ofqs97);
+Ww83Zg = t7Y_6((char)900700959, (short)1853536591, (unsigned short)-699526978, -2115582775, ofqs97);
 }
 else
 {

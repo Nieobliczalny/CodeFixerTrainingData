@@ -32,7 +32,7 @@ int main(void) {
   short int  S1v2a0A  =  (short)998646598;
     unsigned long long    Uj682v    =    577973127;
     char    RdLMf_    =    (char)-1459732555;
-	unsigned char	OG2C7LR_92	=	316840413;
+	unsigned char	OG2C7LR_92	=	(unsigned char)316840413;
 	long long	XTm0MK6o84	=	1414696549;
 	unsigned int	H2__N2U	=	-1307512965;
  long HP7Y8x = 0;

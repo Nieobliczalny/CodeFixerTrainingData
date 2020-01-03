@@ -290,7 +290,7 @@ std::cout << p10S(Brx88nCT6, (short)491408836) << wi81Y4 << xUgw8k6DYf((char)-11
 }
 else if ((kSk14hy6 >= b7E9i) || (sDmN_o <= L_QE9Lu9))
 {
-std::cout << dyq_i << xUgw8k6DYf((char)-1213510924, (unsigned short)1875441802, (short)2075131996, 1898980144) << std::endl;
+std::cout << dyq_i << xUgw8k6DYf((char)-1213510924, (unsigned short)1875441802, (short)2075131996, (short)1898980144) << std::endl;
 }
 else if ((Srl5 > 1758171541) || (KNj45P_mF >= -1287323792))
 {
@@ -455,7 +455,7 @@ case 4:
 P_Nou = p10S((unsigned short)-436994888, (short)688640295);
 break;
 default:
-dyq_i = xUgw8k6DYf((char)-1901828153, j79dH, 1046950774, pl9_E);
+dyq_i = xUgw8k6DYf((char)-1901828153, j79dH, (short)1046950774, pl9_E);
 break;
 }
 }

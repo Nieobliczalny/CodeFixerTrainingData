@@ -155,7 +155,7 @@ case 'b':
 AjvOXCoo3 = Vjdx((unsigned char)1157378189, (unsigned char)1977242889, tC83tPVF);
 break;
 case 'c':
-I2rkNlR7 = Vjdx(I2rkNlR7, 628836272, -1352624610);
+I2rkNlR7 = Vjdx(I2rkNlR7, (unsigned char)628836272, -1352624610);
 break;
 }
 }

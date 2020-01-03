@@ -65,7 +65,7 @@ int main(void) {
     unsigned char    q_LI    =    (unsigned char)1397956910;
   short  BCJKfzOKu0  =  (short)-627348759;
     long double    LmWPhJIGwT    =    -1121115912;
-	char	UD89_8Bnr	=	-1368540002;
+	char	UD89_8Bnr	=	(char)-1368540002;
   short int  iO0__Ar08  =  (short)1041140411;
  float F_1czb5kO2 = -1241517891;
  float BVabZ65h = 1778242038;
@@ -75,7 +75,7 @@ int main(void) {
   unsigned short int  vb_73eKFrE  =  (unsigned short)1176166368;
 	char	X64Ay0	=	(char)-981899195;
     long double    Tfvtm_HB    =    969226839;
-  char  T754BB  =  -1237445277;
+  char  T754BB  =  (char)-1237445277;
  long long aEZ_A = -1767109335;
   short int  aE6aI8CNU  =  (short)1604643608;
     char    EvH4Iw5F    =    -997796090;
@@ -106,7 +106,7 @@ int main(void) {
 	unsigned char	GKEprO	=	(unsigned char)1268533895;
 	unsigned char	C6u866_ZV6	=	(unsigned char)-701781150;
   short int  hFS3C_c5  =  (short)2136713263;
-    unsigned char    mo1_X    =    -565471085;
+    unsigned char    mo1_X    =    (unsigned char)-565471085;
  short i9yhN = (short)-740462684;
   unsigned long  g6lI9pR_C1  =  833292623;
  char Kq4x = (char)-2056113552;
@@ -391,7 +391,7 @@ for (int i = 0; i < 8; ++i)
 {
 if (F6860nsAR > 1551264686)
 {
-std::cout << TV5NA7i((unsigned short)-537252356, e8D20B) << TV5NA7i((unsigned short)1780723222, (char)1202227850) << u5Ej1QTZfA << TV5NA7i(-1706958007, e8D20B) << std::endl;
+std::cout << TV5NA7i((unsigned short)-537252356, e8D20B) << TV5NA7i((unsigned short)1780723222, (char)1202227850) << u5Ej1QTZfA << TV5NA7i((unsigned short)-1706958007, e8D20B) << std::endl;
 }
 else
 {
@@ -467,7 +467,7 @@ break;
 }
 
 EvH4Iw5F = cpFu0_Jtr(EvH4Iw5F, -1450032947, KXmC, n9tEM9ke6p, Rjeh0);
-std::cout << cpFu0_Jtr(EvH4Iw5F, 286255270, (unsigned char)-1900884929, (unsigned short)-371055317, Rjeh0) << cmkYe45DTf << IrX77Qf << cpFu0_Jtr(EvH4Iw5F, yE9KrE, 944284592, n9tEM9ke6p, -33057975) << std::endl;
+std::cout << cpFu0_Jtr(EvH4Iw5F, 286255270, (unsigned char)-1900884929, (unsigned short)-371055317, Rjeh0) << cmkYe45DTf << IrX77Qf << cpFu0_Jtr(EvH4Iw5F, yE9KrE, (unsigned char)944284592, n9tEM9ke6p, -33057975) << std::endl;
 NW1g_PJP = LAvQ - 595874930;
 
 return 0;

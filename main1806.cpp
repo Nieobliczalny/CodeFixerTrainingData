@@ -78,7 +78,7 @@ int main(void)
  unsigned short int zIWU = (unsigned short)1135796180;
   short int  tOPM_9JK  =  (short)-725870712;
 	unsigned long long	hDcLMvr13	=	-1992203153;
-    unsigned short    CPfWSFdrc    =    1953566068;
+    unsigned short    CPfWSFdrc    =    (unsigned short)1953566068;
   unsigned int  t27Q7  =  972778654;
 	unsigned short int	D_TOztml7T	=	-1161061056;
  short DpBHbXU189 = (short)-1355457010;

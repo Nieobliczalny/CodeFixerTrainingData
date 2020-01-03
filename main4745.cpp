@@ -50,7 +50,7 @@ int main(void) {
   unsigned char  T1WI8SW  =  (unsigned char)-1366857290;
  long double J2PTBO = -999457383;
     short    x84BOwigMG    =    (short)1980383981;
- short SE_mT = -883593676;
+ short SE_mT = (short)-883593676;
 	int	hum9	=	-1084596679;
   short int  n2l3j3V_4X  =  (short)196355059;
     long    KCKyNbgC0j    =    699675990;

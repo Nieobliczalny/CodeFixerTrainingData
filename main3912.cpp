@@ -59,7 +59,7 @@ int main()
  unsigned short mLNjf = (unsigned short)-723711873;
 	char	XLm6NFeAL	=	(char)-1370456091;
   short  hp6H62y  =  (short)-1668325953;
-	unsigned short	o73juhhY	=	-564971274;
+	unsigned short	o73juhhY	=	(unsigned short)-564971274;
  char A8F247JXp = (char)1201992277;
  short O35sH8 = 2048991047;
     unsigned short int    Cku1ea5Ip_    =    -708547318;
@@ -105,7 +105,7 @@ int main()
 	float	R8Z6ESX	=	695453617;
   unsigned char  waMF2C  =  (unsigned char)-618372968;
 	short	S__2kvfS	=	(short)1166062047;
-    unsigned char    U6v466r    =    285014058;
+    unsigned char    U6v466r    =    (unsigned char)285014058;
 
 {
 int i = 3;
@@ -146,7 +146,7 @@ Tir7 = f1tF3jo_((char)850924569, zNkci1a, (unsigned short)-938246885, 370519071,
 break;
 case 'd':
 case 'D':
-s_l0En = f1tF3jo_(1552587894, AXLEPQO, hvlzbC1, 355885650, hY1L8);
+s_l0En = f1tF3jo_((char)1552587894, AXLEPQO, hvlzbC1, 355885650, hY1L8);
 break;
 case 'e':
 case 'E':

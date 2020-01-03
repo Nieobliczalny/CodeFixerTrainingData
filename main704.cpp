@@ -30,7 +30,7 @@ int main() {
 	Smq_	=	(short)377483153;
 	kq01am5	=	(short)-1949687176;
 	rK5yT	=	(short)350114869;
-	s3DebZ	=	-1750969270;
+	s3DebZ	=	(short)-1750969270;
 	hwEMo1	=	358011163;
 
 if (fbOl5 & 1104448927)

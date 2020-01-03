@@ -45,7 +45,7 @@ int main(int argc, char** argv) {
 	slIGv	=	(unsigned short)-1778346638;
 	br78242D9	=	(unsigned short)-1148478235;
 	r1KbgPdL	=	(unsigned short)1896046293;
-	cdI_7x_KRm	=	599237650;
+	cdI_7x_KRm	=	(unsigned short)599237650;
 	dKPR8	=	867998909;
 	isN4d	=	219654487;
 	S1051dto7M	=	-173737798;
@@ -55,7 +55,7 @@ int main(int argc, char** argv) {
 	jMYp1O	=	(unsigned short)1922148203;
 	qJf4TIj4	=	(unsigned short)2118822168;
 	e4rCV6	=	(unsigned short)1335887532;
-	erX8MPnb_	=	1111153140;
+	erX8MPnb_	=	(unsigned short)1111153140;
 	LLdKK6Qqie	=	-306609043;
 	cwj9y0	=	150557429;
 	v5cNTt	=	269637227;
@@ -65,7 +65,7 @@ int main(int argc, char** argv) {
 	vMOoR537	=	(unsigned short)1845929142;
 	xtZp0_n4Rt	=	(unsigned short)573522689;
 	Mvo9Mjj5	=	(unsigned short)-950283007;
-	T3cz0h	=	-1656947352;
+	T3cz0h	=	(unsigned short)-1656947352;
 	OM_y31Gj_X	=	1080267312;
 	NsCM	=	1571282025;
 	y90jVI	=	-1228051313;
@@ -75,7 +75,7 @@ int main(int argc, char** argv) {
 	Tw52Oq1O	=	(unsigned short)1405354880;
 	LG1Q9	=	(unsigned short)1905460444;
 	vx85M4J2	=	(unsigned short)255616579;
-	dn9_Uo95	=	-1320474357;
+	dn9_Uo95	=	(unsigned short)-1320474357;
 	Lj3ZRm	=	-2131910099;
 	A11b19HA_	=	1282726289;
 	AieReRz	=	371824857;
@@ -85,7 +85,7 @@ int main(int argc, char** argv) {
 	o9b1i	=	(unsigned short)-432494187;
 	YM7O	=	(unsigned short)-1794079378;
 	y048zNh3EC	=	(unsigned short)-1462340262;
-	VRY8	=	64179318;
+	VRY8	=	(unsigned short)64179318;
 	M1_15A2	=	-295792255;
 	W087	=	-828230459;
 	GeGuv81g5	=	1953760060;
@@ -95,7 +95,7 @@ int main(int argc, char** argv) {
 	yQG4QI83	=	(unsigned short)-120132641;
 	m0yp4JJXwp	=	(unsigned short)1863493664;
 	h290E_mlGb	=	(unsigned short)1953732240;
-	d6msvq57	=	168250821;
+	d6msvq57	=	(unsigned short)168250821;
 	FyFi9R0	=	193916071;
 	tGmoWy4uZ	=	748272220;
 	wcqHSGQ04	=	1915428587;
@@ -105,7 +105,7 @@ int main(int argc, char** argv) {
 	fdi3H	=	(unsigned short)2092486984;
 	I1Mf9__i	=	(unsigned short)-692389039;
 	Y6_83byG5	=	(unsigned short)169807778;
-	L_Kq4cf	=	-253625515;
+	L_Kq4cf	=	(unsigned short)-253625515;
 
 T3cz0h = XY_a3_A9(-1139886310, rg1_XYb0, wcqHSGQ04, A11b19HA_, -1696743756);
 

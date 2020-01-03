@@ -65,7 +65,7 @@ int main() {
     unsigned short    d2IW    =    (unsigned short)-1485223514;
  char DD26KLS = (char)1124076027;
   unsigned short  p_Y7GZDaB  =  (unsigned short)365922003;
-	short	O8_AZQUE3	=	-620963443;
+	short	O8_AZQUE3	=	(short)-620963443;
 	long double	gFC8p2Kg5	=	1061102657;
 	unsigned long long	n3F6AfL9nR	=	-97443328;
 	float	mV3s	=	263759621;

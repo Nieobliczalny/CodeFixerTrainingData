@@ -75,7 +75,7 @@ int main(int argc, char** argv)
     unsigned int    PlY4RT    =    189562777;
  unsigned char TN2mutq = (unsigned char)839248229;
     long    nix6k9c    =    1220722543;
-	short int	yk4RmC8V	=	1149532154;
+	short int	yk4RmC8V	=	(short)1149532154;
 	unsigned long	X4a4E7	=	-1070741654;
  long lI05AOEm5x = 260872588;
 	char	INCVn	=	(char)1473774501;
@@ -90,7 +90,7 @@ int main(int argc, char** argv)
  short rrF4109c = (short)701484709;
   unsigned int  a5dPf  =  534605705;
     short    CKB_9RG71c    =    (short)602781930;
-	short int	Kh_eo	=	-1533303189;
+	short int	Kh_eo	=	(short)-1533303189;
     unsigned short int    u5maJN_Ahp    =    -1170511790;
   double  C0y25n  =  838356357;
 	long long	c5WY277GV2	=	-1857485266;

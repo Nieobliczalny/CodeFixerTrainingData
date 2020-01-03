@@ -29,7 +29,7 @@ int main(void)
  unsigned short thR2etw = 0;
     unsigned int    f_K1e4_La3    =    1964422742;
     short    UwvAe5M    =    (short)-1446007419;
-	unsigned short	u3f1	=	753028905;
+	unsigned short	u3f1	=	(unsigned short)753028905;
     unsigned long    aQJ07D0    =    1382653057;
  long long o1s4ae = 1346532608;
 	long	VTcu	=	1140368289;
@@ -75,7 +75,7 @@ int main(void)
   unsigned int  zAOb80  =  -2101420807;
     unsigned short int    JF7II    =    (unsigned short)1768755595;
 	long	SuXIv2	=	-1737375335;
-  short int  qmqfX  =  -469599890;
+  short int  qmqfX  =  (short)-469599890;
     unsigned long long    MmHHv    =    15401780;
   char  tE10ae  =  (char)1650858003;
     char    Y9m23iaN1    =    544110611;
@@ -325,7 +325,7 @@ VTcu = XUgzX - p_8dSG_B_;
 }
 else
 {
-sTfm = onVTj6_25L((short)896846649, K5i6, 615914755, 279085281);
+sTfm = onVTj6_25L((short)896846649, K5i6, (unsigned char)615914755, 279085281);
 }
 }
 catch (int& errorCode)

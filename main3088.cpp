@@ -47,7 +47,7 @@ int main(void)
 	unsigned short	DPl8a4	=	(unsigned short)503232282;
  unsigned short ZE0gPgR4Ak = (unsigned short)-1218558735;
  long long TS8K = -306875632;
- short B_UF36l2s = -268439473;
+ short B_UF36l2s = (short)-268439473;
     int    yw3in6G    =    0;
  short DemKf = (short)-1167936022;
     short    djh_6AKy    =    (short)827130078;

@@ -29,7 +29,7 @@ switch (oQnd)
 {
 case 'a':
 case 'A':
-oQnd = GQGSr(722762034, VEc2X0, 426739024, -607911319, -85081230);
+oQnd = GQGSr(722762034, VEc2X0, (short)426739024, -607911319, -85081230);
 break;
 }
 
@@ -61,7 +61,7 @@ while (i < 8);
 switch (oQnd)
 {
 case 0:
-jH05U5v6 = YN_84(587045103, (unsigned short)1314598885, 738987989, 1447142817);
+jH05U5v6 = YN_84(587045103, (unsigned short)1314598885, 738987989, (unsigned char)1447142817);
 break;
 case 1:
 oQnd = GQGSr(jH05U5v6, (short)-284155103, oQnd, (char)-165400222, (char)-639606825) % VEc2X0;

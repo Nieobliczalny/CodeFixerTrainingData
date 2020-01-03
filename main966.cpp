@@ -28,7 +28,7 @@ int main() {
 	short int	PsTg3J	=	(short)-1067725054;
   unsigned short int  u936  =  (unsigned short)-1918768021;
     unsigned short    i2YLx7Zm    =    0;
- char jSIQ_f8o = -1574127091;
+ char jSIQ_f8o = (char)-1574127091;
     unsigned short int    Peld_738Y    =    -700871996;
   short  upX2Q7q  =  0;
     long long    kIP6cx6    =    -422375525;
@@ -46,7 +46,7 @@ int main() {
   long  TRYasu  =  -1060902479;
  unsigned long g1460E3 = 399950689;
 
-PsTg3J = Qrs0yHN39Z((short)1452525783, (unsigned short)973451721, 1564160280);
+PsTg3J = Qrs0yHN39Z((short)1452525783, (unsigned short)973451721, (unsigned char)1564160280);
 
 {
 int i = 0;
@@ -110,7 +110,7 @@ cout << "X7p5V" << Qrs0yHN39Z((short)-1807249228, WRd32, kIP6cx6) << aLdmpwM((un
 }
 for (int i = 0; i < 8; ++i)
 {
-i2YLx7Zm = aLdmpwM(n7l2wODMEJ, (char)1815346931, -373730280, 1678752664);
+i2YLx7Zm = aLdmpwM(n7l2wODMEJ, (char)1815346931, (short)-373730280, 1678752664);
 }
 {
 int i = 0;

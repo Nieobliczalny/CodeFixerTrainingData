@@ -62,7 +62,7 @@ int main() {
  long double IUV4cJA5 = -1973735505;
  char M9Do6kGJ = (char)183999653;
   unsigned short  K9a8HtEzZ  =  (unsigned short)-85332481;
- unsigned short int tS7BxuGUw_ = -1130142552;
+ unsigned short int tS7BxuGUw_ = (unsigned short)-1130142552;
   unsigned int  IHs1_  =  -296157776;
     float    vM_v0Tk_11    =    -779719261;
     unsigned long    M_2T9R    =    -1319836873;
@@ -83,7 +83,7 @@ int main() {
 	unsigned short	Y6OY	=	(unsigned short)855125988;
   unsigned short int  kl2c  =  (unsigned short)-1416232985;
   long double  V5NFa0mE  =  200106308;
- short PUdQ = -680381801;
+ short PUdQ = (short)-680381801;
  short GYBBzZI53P = 0;
 	float	o22_Kdvn	=	-2050404451;
     unsigned short int    vPX1eY7    =    (unsigned short)1620541909;
@@ -98,7 +98,7 @@ int main() {
   unsigned long long  Y4Q1us08M  =  -1210720924;
 	short	Gq0t6	=	(short)-14636745;
 	unsigned int	tNr8	=	1102586743;
-  short  v448lm6667  =  -1780668232;
+  short  v448lm6667  =  (short)-1780668232;
   unsigned short int  Za047hkO4  =  (unsigned short)-1365207804;
 	double	aX00O79nT	=	-1034008295;
     short    vhjR    =    (short)-1261359147;

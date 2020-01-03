@@ -72,7 +72,7 @@ int main(int argc, char** argv)
 	short int	oeZn	=	(short)230870287;
  int XlpR2H = -565665996;
     short    ld4gK8    =    (short)687966062;
-	char	u3kGX834O	=	2106253803;
+	char	u3kGX834O	=	(char)2106253803;
   unsigned short int  m0ud3n43  =  (unsigned short)-189906035;
  unsigned int OCm1Y_Dc = -1448636949;
  unsigned short int MBMi = (unsigned short)1889831564;
@@ -96,7 +96,7 @@ int main(int argc, char** argv)
 	unsigned short int	LjbX	=	(unsigned short)-593714137;
     short    ST94a    =    (short)1954328478;
     short int    R0Hjvq49    =    (short)2012399878;
-  short  q9v33o1xv  =  -774502262;
+  short  q9v33o1xv  =  (short)-774502262;
  short int pb0N = (short)888608256;
     char    D8AJa    =    -1167285722;
 	unsigned short int	eW37I	=	109595757;

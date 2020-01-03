@@ -104,7 +104,7 @@ int main(void)
  unsigned long c5oO2 = 1887260512;
   short int  kTzSWs  =  (short)-97011576;
     unsigned int    JPaBd    =    1089157144;
-	unsigned short	e9_sK3_om	=	97322401;
+	unsigned short	e9_sK3_om	=	(unsigned short)97322401;
   unsigned short  oL109HH  =  (unsigned short)-1248098450;
 
 if ((f4I2I / Et3a3) <= 86833212)

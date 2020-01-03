@@ -24,7 +24,7 @@ int main() {
   n8823XcJ  =  (short)-199364158;
   xf_K6KF  =  (short)-852934572;
   j1WT5kx  =  (short)-1160939227;
-  W4o9s1D4I  =  320467652;
+  W4o9s1D4I  =  (short)320467652;
   x5o6F94e  =  1236322931;
   p0QZ_zHoL  =  -986007249;
 

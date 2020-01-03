@@ -30,7 +30,7 @@ int main(void)
   long long  PF29c  =  1273266211;
 	unsigned short int	V720r4W	=	(unsigned short)-1105538352;
  unsigned long A9qS_Vs = 916921003;
-    unsigned short    Y5d2    =    -985657816;
+    unsigned short    Y5d2    =    (unsigned short)-985657816;
   float  zY90c1TH6A  =  1777914081;
     unsigned short int    mnhK    =    (unsigned short)-1266060213;
 	unsigned char	C34_82	=	0;

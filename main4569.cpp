@@ -198,7 +198,7 @@ std::cout << "sye82oBR7" << nz0GFw(G_wu2V2zrc, (char)-491564928, -754861223) << 
 }
 else
 {
-std::cout << nz0GFw(1204239015, LyZ5p, 299389013) << std::endl;
+std::cout << nz0GFw((short)1204239015, LyZ5p, 299389013) << std::endl;
 }
 }
 else if (BtgFhOMN_x < LyZ5p)

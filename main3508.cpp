@@ -88,7 +88,7 @@ int main(int argc, char** argv) {
     short int    i01j    =    0;
  short int riC5 = (short)1448060755;
 	unsigned short int	vEjOni4_9r	=	(unsigned short)333112482;
- unsigned short X_31X = -1597104992;
+ unsigned short X_31X = (unsigned short)-1597104992;
     unsigned long    SAMv    =    -2013956838;
   double  UEK_33K  =  530759979;
  long long cC_5_ = 199284311;

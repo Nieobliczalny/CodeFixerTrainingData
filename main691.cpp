@@ -25,7 +25,7 @@ int main(int argc, char** argv) {
  kQR0pd = (short)363317664;
  LCI8 = (short)1631666206;
  A05Dn = (short)1376372613;
- E8jm5 = -434725149;
+ E8jm5 = (short)-434725149;
  HF5SIGkAJ_ = -1916484834;
  vDHA = 910492622;
  iDUL5zz = 2035790227;
@@ -35,7 +35,7 @@ int main(int argc, char** argv) {
  eYmzejx9 = (short)215140086;
  olmJ6Ig = (short)-1506608138;
  D7iR9 = (short)1540356345;
- yoQ7 = -374529241;
+ yoQ7 = (short)-374529241;
  Za96lWQdK = -1449951404;
  wx0ZA702ks = 953177556;
  J40T_umjOY = -1486491790;
@@ -45,7 +45,7 @@ int main(int argc, char** argv) {
  E3Ao8AW = (short)-430963439;
  x_XuIqyC = (short)1641125043;
  Cb9k1 = (short)-638272852;
- Hn_2B97YD = 1658963460;
+ Hn_2B97YD = (short)1658963460;
  VJ6Lpq4k = 163345866;
  Lul9Tb4 = -170544334;
  SFj401c458 = -897093095;
@@ -55,7 +55,7 @@ int main(int argc, char** argv) {
  yeoYp4_h = (short)1079802582;
  Gna2eNF = (short)2086071416;
  B6HMfPMJ = (short)-171104570;
- t7j6Hi0p = -1397549777;
+ t7j6Hi0p = (short)-1397549777;
  i_WX89 = -1651519006;
  TdE67C48X = 654877881;
  Cy97oB = 372474855;
@@ -65,7 +65,7 @@ int main(int argc, char** argv) {
  Pe0nQ15 = (short)40173297;
  fu9nL3L_Ij = (short)-182472639;
  V02QS5w71M = (short)-857069330;
- Pu6A = 1543788424;
+ Pu6A = (short)1543788424;
  BdD5TWJB = 1352861002;
  j_PN = -542369699;
  Ar45Vz = -1721464864;
@@ -75,7 +75,7 @@ int main(int argc, char** argv) {
  zCA2xe_P = (short)-632028955;
  me1FdIQaNE = (short)269781919;
  L5oEBq = (short)2061657605;
- Bnajc = 1982505063;
+ Bnajc = (short)1982505063;
  nG9I7A27mb = -1541480704;
  wI2_i9_M = 2127152440;
  Dy55dPYz = -2040781461;
@@ -85,7 +85,7 @@ int main(int argc, char** argv) {
  KvXQ3z = (short)234375037;
  A6M0Z96_1 = (short)-1770278219;
  pUTZFz_ = (short)532569968;
- X0P2Z = 284204937;
+ X0P2Z = (short)284204937;
  vIi81e = -900012785;
  Ykgn9B2 = 1042615146;
  GLwpYnk = -1123957860;
@@ -95,7 +95,7 @@ int main(int argc, char** argv) {
  L740 = (short)-1810600415;
  m6imO2FzCb = (short)-966446629;
  YE268kYk8 = (short)-1376487660;
- Nm43OD = -455894972;
+ Nm43OD = (short)-455894972;
 
 if ((646442715 / G8XiaGfY9) == 227780325)
 {

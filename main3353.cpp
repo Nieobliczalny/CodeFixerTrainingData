@@ -70,7 +70,7 @@ int main(int argc, char** argv) {
 	unsigned char	PgG92Im8S	=	(unsigned char)93191016;
   unsigned short int  jVpQMiQ8  =  (unsigned short)949760794;
   unsigned long long  r5ZFO_  =  0;
- unsigned char ef83T7 = -1320942328;
+ unsigned char ef83T7 = (unsigned char)-1320942328;
  unsigned char U_7dje = 357154853;
 	char	Zv5ngJ2	=	1045260882;
 	long	Udt7Is	=	1251950797;

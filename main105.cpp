@@ -39,7 +39,7 @@ int main(int argc, char** argv) {
  int E72sT6 = -1445468002;
 	unsigned short	DAvSN0	=	(unsigned short)1057998570;
     unsigned short    P5fJ    =    (unsigned short)-1777871793;
-  char  TkUNqy  =  969270188;
+  char  TkUNqy  =  (char)969270188;
  long long r6hS6 = -1168689067;
 	unsigned short	Hxa6	=	0;
     short    g81wl3DYw3    =    (short)132166254;
@@ -122,7 +122,7 @@ case 'e':
 rISYgiuK9q = TBEJ(rISYgiuK9q, (char)-1899854768, (short)2084909086);
 break;
 case 'f':
-E72sT6 = TBEJ((short)-1700970031, 2011258862, 1670116658);
+E72sT6 = TBEJ((short)-1700970031, (char)2011258862, 1670116658);
 break;
 case 'g':
 hoeU1fB = UC753 / 1243098200;
@@ -463,7 +463,7 @@ case 5:
 Hxa6 = R1afa((short)-2132526132, (short)-92255904, H94S8L, (unsigned char)-102184591, 635250319);
 break;
 case 6:
-gOE_j6Na9 = (Sgl7 & U_w0gj) ? TBEJ((short)-1024276759, (char)-1362033355, 1662479059) : 288861495;
+gOE_j6Na9 = (Sgl7 & U_w0gj) ? TBEJ((short)-1024276759, (char)-1362033355, (short)1662479059) : 288861495;
 break;
 case 7:
 gOE_j6Na9 |= 942876002;

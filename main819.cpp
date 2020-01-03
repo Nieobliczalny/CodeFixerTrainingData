@@ -28,7 +28,7 @@ int main(void)
   short int  zBjmd  =  (short)816684418;
     char    V6el_E1bZW    =    (char)-835744065;
 	int	hb5P0l05	=	748388941;
- unsigned short int RBcgVT = 2080198798;
+ unsigned short int RBcgVT = (unsigned short)2080198798;
 	char	RYZG_8o	=	-1505650024;
 	short	Grs1Ad4L	=	(short)1405358444;
  short int eQzdW3oD0i = 1537132890;

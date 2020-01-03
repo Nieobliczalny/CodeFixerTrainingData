@@ -157,7 +157,7 @@ mclt1 = (int)abs(C2rbcN0);
 }
 }
 YU1F = yTa847G6(DahF, (char)1904285695, (short)-1492825802, (unsigned short)-209417469, C52651);
-UQi4ps9l4 = yTa847G6((unsigned short)907992711, (char)375973751, -437739624, UQi4ps9l4, C2rbcN0);
+UQi4ps9l4 = yTa847G6((unsigned short)907992711, (char)375973751, (short)-437739624, UQi4ps9l4, C2rbcN0);
 
 P6jgVtF6 = 1328996688 / RBWx5;
 

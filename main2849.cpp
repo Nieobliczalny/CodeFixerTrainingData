@@ -30,7 +30,7 @@ int main(void)
   UM5KK03  =  (short)225152356;
   anV8  =  (short)-1966623813;
   o1Xf  =  (short)1803408395;
-  II7JDPaU3S  =  580688833;
+  II7JDPaU3S  =  (short)580688833;
   Xx6n  =  -1030457220;
   hoCFFj7Xt  =  1878109421;
   SWc30Y  =  676622101;
@@ -40,7 +40,7 @@ int main(void)
   pJ50V005d7  =  (short)-2045019385;
   Rb3p  =  (short)1877890596;
   yqp2iP86I  =  (short)-1092585468;
-  SJkWL15MO  =  1715986964;
+  SJkWL15MO  =  (short)1715986964;
   iZ58f5  =  1744605608;
   sp8V0X  =  1950354952;
   kvccf  =  -759665758;
@@ -50,7 +50,7 @@ int main(void)
   Wz0A1L3M  =  (short)-1180235836;
   Wm_5  =  (short)2143467332;
   g2e5OibmlG  =  (short)-579487894;
-  X_Y0UkH  =  1739622921;
+  X_Y0UkH  =  (short)1739622921;
   P8qPAdW6M4  =  1889870553;
   X4D9j03mL6  =  -695461072;
   P8i6ubs  =  1369341295;
@@ -60,7 +60,7 @@ int main(void)
   cXXd4V  =  (short)280765708;
   Le1DF  =  (short)336071105;
   wf178mw  =  (short)-198981054;
-  PRBzd_  =  328062254;
+  PRBzd_  =  (short)328062254;
   ea8_  =  -380443168;
   hmDC__k  =  271817997;
   ieI_L  =  1871286275;
@@ -70,7 +70,7 @@ int main(void)
   pxiSQ  =  (short)-188509281;
   l8Lr_16Z  =  (short)-464714786;
   US2162EKA1  =  (short)974225907;
-  u8u_  =  183326008;
+  u8u_  =  (short)183326008;
   N0SQ3GmZd  =  -12977904;
   CP_4lq4j  =  90925817;
   Pjhg06  =  -1218664380;
@@ -80,7 +80,7 @@ int main(void)
   Kn7E_  =  (short)-95935953;
   r136jV_  =  (short)-2141614199;
   t0rjOi  =  (short)-2078429843;
-  EOdPF33JEN  =  873490883;
+  EOdPF33JEN  =  (short)873490883;
   WU1Vg73y  =  1713923118;
   LqEOW  =  -1317114990;
   jGuJHKDo6H  =  -1021852033;
@@ -90,7 +90,7 @@ int main(void)
   H2zeH_lyP  =  (short)-677168278;
   T11Um2  =  (short)2105420326;
   cqrE_T  =  (short)-1577174067;
-  z0uVW  =  -950028634;
+  z0uVW  =  (short)-950028634;
   P3X2Ha3  =  -836340185;
   qz8b  =  -91917298;
   f79XQ  =  1354352666;
@@ -100,7 +100,7 @@ int main(void)
   ZqDq  =  (short)1172002139;
   uw3n  =  (short)650225098;
   I_j04_  =  (short)36073340;
-  hiCn7v  =  -517229344;
+  hiCn7v  =  (short)-517229344;
   O6BHi5q  =  2008460983;
 	unsigned long	G0ct,	FN1x_;
 	G0ct	=	0;

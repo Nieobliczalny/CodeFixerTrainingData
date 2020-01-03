@@ -355,7 +355,7 @@ TM2hbp2 = SF85cS8qbY((unsigned char)1489441995, (short)1627684535, T0p5ut2, (sho
 }
 else if (KxZ8FBS7R < 924528158)
 {
-I57qRCy36_ = fEL0y(I57qRCy36_, -336779354, v3V4QVat_);
+I57qRCy36_ = fEL0y(I57qRCy36_, (short)-336779354, v3V4QVat_);
 }
 else if (((IgEkmk8_ue == L_24_pCn) || (T0p5ut2 < dlI8)) || (ufc2PI >= rj1M2))
 {

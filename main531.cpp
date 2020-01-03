@@ -157,7 +157,7 @@ if (bFhGx3P > 182864045)
 {
 for (int j = 7; j >= 0; j--)
 {
-vk08rcE_ = QuILRq7mB((short)1619202818, F3XLAxs0l, (unsigned char)1845753922, uziF, -160071455);
+vk08rcE_ = QuILRq7mB((short)1619202818, F3XLAxs0l, (unsigned char)1845753922, uziF, (char)-160071455);
 }
 }
 else
@@ -338,7 +338,7 @@ Iu9N *= 1238851218;
 
 cB4zvTTO *= 836182236;
 rYJzmc = (int)floor(tVRFLQC0Y);
-std::cout << QuILRq7mB((short)1221595685, (unsigned char)-1373673175, 1270014041, 886923565, o5D26) << gL5dRu_(a80_ii5Nt7, BZzUDFF) << std::endl;
+std::cout << QuILRq7mB((short)1221595685, (unsigned char)-1373673175, (unsigned char)1270014041, 886923565, o5D26) << gL5dRu_(a80_ii5Nt7, BZzUDFF) << std::endl;
 for (int i = 9; i >= 0; i--)
 {
 V_zWM = QuILRq7mB(V_zWM, (unsigned char)1651334511, (unsigned char)-1039428377, -546722227, (char)2064783469);
@@ -418,7 +418,7 @@ case 7:
 KgThr84P = gL5dRu_((short)972045016, La15);
 break;
 default:
-YA2LLYvM3C = J6yI((char)179112882, -1979098587, 295927677);
+YA2LLYvM3C = J6yI((char)179112882, (unsigned short)-1979098587, 295927677);
 break;
 }
 j++;

@@ -79,7 +79,7 @@ else
 {
 cout << kjb4nb((unsigned char)1704239490, KD_IC92jv, Xri058, 1506563441, 1034593766) << "AI4EET6gq" << QtQohf << "PABB2aG1" << endl;
 }
-F_Zh9 = zay3_((unsigned char)-1959042162, (short)-1299865208, f_00el8_, 196368707, -1470107419);
+F_Zh9 = zay3_((unsigned char)-1959042162, (short)-1299865208, f_00el8_, (char)196368707, -1470107419);
 
 return 0;
 }

@@ -63,7 +63,7 @@ int main(int argc, char** argv) {
   short int  iEf2H9  =  (short)-2041904852;
     unsigned short    lRW1jPHkJu    =    (unsigned short)792663156;
  short int SU8Gg_ = (short)1487258321;
-  unsigned short  WTO0_7ex8F  =  214031299;
+  unsigned short  WTO0_7ex8F  =  (unsigned short)214031299;
 
 SU8Gg_ /= 1615156583;
 if (U9I_0xnD >= kjeE)

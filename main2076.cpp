@@ -67,7 +67,7 @@ int main(void) {
     short    imtkAr    =    (short)1042529950;
   unsigned char  JvwX  =  (unsigned char)-1069405470;
   unsigned long long  v53__J4AS  =  869742245;
- unsigned short mO2BGL = -2120526714;
+ unsigned short mO2BGL = (unsigned short)-2120526714;
 	long double	RqxqcY7r0W	=	-886390605;
 	char	GSZ_Vc686C	=	(char)1488465183;
  int SF91S = 249855956;

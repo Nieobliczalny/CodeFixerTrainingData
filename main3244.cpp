@@ -66,7 +66,7 @@ int main(void)
     unsigned char    l80FFVD080    =    (unsigned char)-280968253;
   short int  Aa_9  =  (short)-584917275;
   char  B1_kL5N  =  (char)1864621532;
- short int Xu5xY6G = -73567452;
+ short int Xu5xY6G = (short)-73567452;
 	float	GdLH826BB	=	-1741196341;
     float    f8MM    =    782561943;
  short o4KBm7zGw = (short)704856979;
@@ -103,7 +103,7 @@ int main(void)
  double NF16_ = 735532344;
  char alMqA = (char)317470303;
     short    kERxODVR    =    (short)-2054452866;
-  unsigned short int  wx70l8  =  -519918759;
+  unsigned short int  wx70l8  =  (unsigned short)-519918759;
     long long    H5ZK    =    1004254725;
   unsigned int  MTxe  =  -1194954329;
 	double	z2C_It1ij5	=	1854423172;

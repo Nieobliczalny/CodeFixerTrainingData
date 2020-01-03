@@ -19,7 +19,7 @@ int main(int argc, char** argv) {
  F_OJC = (unsigned char)1463552433;
  nN12ep9 = (unsigned char)1744284993;
  g4IFwrYd5p = (unsigned char)-1823103055;
- IPSo = -1840315600;
+ IPSo = (unsigned char)-1840315600;
  a_xXzZF = 85318026;
  d_1oL6b1 = -1788969541;
  wf_b = 509952162;
@@ -29,7 +29,7 @@ int main(int argc, char** argv) {
  Wi_r = (unsigned char)-737768380;
  ms771I1_t = (unsigned char)-408302972;
  iky36 = (unsigned char)1161658141;
- yO7e = -1946308742;
+ yO7e = (unsigned char)-1946308742;
  ewu0 = 2014291530;
  Eq0Q_Qmde3 = -303823327;
  m_o9H0_LN = -2125961734;
@@ -39,7 +39,7 @@ int main(int argc, char** argv) {
  pVLpr26 = (unsigned char)308173638;
  XYm2p75tS = (unsigned char)-25064803;
  IvFiVA_ = (unsigned char)-181410442;
- pj2EIDFp5 = 493521312;
+ pj2EIDFp5 = (unsigned char)493521312;
  tSC_tCIP = 314758846;
  Ic6x5 = 849655888;
  pbXDr76 = -2081306790;
@@ -96,7 +96,7 @@ case 'e':
 RL6F = Xx01l72((char)-1155045656, (char)1652405409);
 break;
 case 'f':
-RL6F = Xx01l72(XYm2p75tS, 1110878393);
+RL6F = Xx01l72(XYm2p75tS, (char)1110878393);
 break;
 case 'g':
 RL6F = Xx01l72(hQ8FpW, (char)-2062881105);
@@ -539,7 +539,7 @@ case 2:
 RL6F = Xx01l72(W2Gi2f7O59, (char)-560482624);
 break;
 case 3:
-a_xXzZF = Xx01l72((char)-729797711, -17811640) / iky36;
+a_xXzZF = Xx01l72((char)-729797711, (char)-17811640) / iky36;
 break;
 case 4:
 Ic6x5 = Xx01l72(W2Gi2f7O59, F_OJC) << Wi_r;

@@ -34,7 +34,7 @@ int main(void)
 
 std::cout << "EUT3pY" << "S8qOf" << PwE_9 << "gWbPRv6EX" << std::endl;
 
-tX0Yq3VXe = k54Mj7A(1378425120, X8pSx8g1n, J3q0N5PDXR, 1784316656);
+tX0Yq3VXe = k54Mj7A((unsigned short)1378425120, X8pSx8g1n, J3q0N5PDXR, 1784316656);
 if (o8fRHmy == 0)
 {
 	f6yr = 568577181 / o8fRHmy;

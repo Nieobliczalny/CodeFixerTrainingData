@@ -181,7 +181,7 @@ case 2:
 Nwy4gUV = bx2_((unsigned short)-536627077, hnM5, l_auYQS, 1601637837, -1739029298);
 break;
 case 3:
-Nwy4gUV = bx2_((unsigned short)1049612453, 211272659, aRGieNe, EwF7, eoAPWFlc4U);
+Nwy4gUV = bx2_((unsigned short)1049612453, (unsigned char)211272659, aRGieNe, EwF7, eoAPWFlc4U);
 break;
 case 4:
 Nwy4gUV = bx2_(Nwy4gUV, (unsigned char)1278038669, (unsigned short)465491066, 650104458, 150455709);
@@ -232,7 +232,7 @@ Nwy4gUV = bx2_(hnM5, LeH_bB2_, (unsigned short)-891309622, 563064924, jp_T6J);
 
 std::cout << bx2_((unsigned short)-1282712192, LeH_bB2_, C56K2zGNx, -1494685105, 1084741752) << bx2_(hnM5, (unsigned char)-797689737, (unsigned short)469972454, iV71_, jp_T6J) << "z94yYc_" << std::endl;
 
-if (bx2_((unsigned short)1399458750, 1284654287, 1546814768, iV71_, 1235647773) == 0)
+if (bx2_((unsigned short)1399458750, (unsigned char)1284654287, 1546814768, iV71_, 1235647773) == 0)
 {
 	Q601_3h8 = daJ6u / bx2_(1399458750, 1284654287, 1546814768, iV71_, 1235647773);
 }
@@ -277,7 +277,7 @@ case 'D':
 Nwy4gUV = bx2_((unsigned short)1621103474, V6l6r9bX4T, (unsigned short)-861601783, -1977752778, Ep43T9Z0O);
 break;
 default:
-Nwy4gUV = bx2_((unsigned short)422092598, BiDL53, -1546907310, aZQ7, jp_T6J);
+Nwy4gUV = bx2_((unsigned short)422092598, BiDL53, (unsigned short)-1546907310, aZQ7, jp_T6J);
 break;
 }
 
@@ -316,7 +316,7 @@ switch (dpCMi)
 {
 case 'a':
 case 'A':
-Nwy4gUV = bx2_((unsigned short)-808427749, -667676807, x_ji4j, zo06y28V, sg__);
+Nwy4gUV = bx2_((unsigned short)-808427749, (unsigned char)-667676807, x_ji4j, zo06y28V, sg__);
 break;
 case 'b':
 case 'B':

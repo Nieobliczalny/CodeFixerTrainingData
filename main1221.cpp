@@ -44,7 +44,7 @@ int main(void) {
  long double Qy4dn = 1131689448;
 	short int	xJ2Pdkt	=	(short)344412628;
     unsigned short int    P2qJ8As    =    (unsigned short)-1726819513;
- short ppyN = 1124638192;
+ short ppyN = (short)1124638192;
   long  MaGSe  =  -2096624805;
 	unsigned short int	h_XBF23XP	=	(unsigned short)733287366;
  unsigned short CLZJ = 1078330187;

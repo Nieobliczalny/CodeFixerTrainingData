@@ -32,7 +32,7 @@ int main() {
   unsigned char  pftP  =  (unsigned char)455652589;
     long    R1m5a    =    0;
 	unsigned long	I5M_9	=	-1637450823;
- short IV0b6kgU = -1604472313;
+ short IV0b6kgU = (short)-1604472313;
 	unsigned short int	Uz789_5	=	974941385;
     double    qxTWL    =    -30639464;
  short yoQm = 0;
@@ -52,7 +52,7 @@ int main() {
  long double P1v7GC1 = -1638065919;
 	short	WEY0nA18	=	(short)-857543986;
 	int	Vt5_fuzk6	=	1753866521;
-	unsigned char	VMZ5gQ9p	=	-854954076;
+	unsigned char	VMZ5gQ9p	=	(unsigned char)-854954076;
 	unsigned long long	OBh9b	=	-1643518408;
   short  t32b9T_g  =  (short)2071533472;
  unsigned short int QN0I8 = 0;

@@ -40,7 +40,7 @@ int main() {
     short    ps0vl_9    =    (short)1419830564;
   unsigned char  tFKZ3  =  (unsigned char)2120112139;
 	unsigned char	P1p_	=	(unsigned char)139016096;
- char uXGl7t5b5 = -1272898058;
+ char uXGl7t5b5 = (char)-1272898058;
   long double  r424  =  -1106299282;
  unsigned char PTj5_0Nt0 = (unsigned char)179151016;
  long BG74cZsdZX = 727296908;

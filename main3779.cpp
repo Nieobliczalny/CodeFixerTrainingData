@@ -59,7 +59,7 @@ case 'c':
 txIB7l9K2 = m_rV2Y(txIB7l9K2, (unsigned short)715806743, (unsigned char)-1127149799, wO2A8_H1, (unsigned short)-1452168350);
 break;
 case 'd':
-IJWY1n6m = m_rV2Y(-127347614, JIg05, -1053049342, 1987119026, 447849248);
+IJWY1n6m = m_rV2Y((short)-127347614, JIg05, -1053049342, 1987119026, 447849248);
 break;
 case 'e':
 ppN9kbr ^= Bg3y25_W;
@@ -221,7 +221,7 @@ LO47UNNwo7 = jbcW8WE - XZY_iT9l;
 }
 
 dN7jLrxI = m_rV2Y((short)1498770715, (unsigned short)-18317092, IJWY1n6m, (short)315447294, (unsigned short)-2123576815) / jbcW8WE;
-std::cout << s5fY((char)179818829, 619193513, IJWY1n6m, -642345209, v39H9ue) << h2U6(gZfD, -1360726461) << std::endl;
+std::cout << s5fY((char)179818829, 619193513, IJWY1n6m, -642345209, v39H9ue) << h2U6(gZfD, (unsigned char)-1360726461) << std::endl;
 {
 int i = 0;
 while (i < 3)
@@ -240,7 +240,7 @@ case 2:
 V21H8 = h2U6((char)245483407, (unsigned char)175405056);
 break;
 case 3:
-jbcW8WE = h2U6(-671026365, z_7EP);
+jbcW8WE = h2U6((char)-671026365, z_7EP);
 break;
 case 4:
 V21H8 = h2U6((char)1778908773, (unsigned char)662478689);
@@ -309,7 +309,7 @@ break;
 }
 std::cout << "YwFA9" << "e2LwLRX" << Uzzjux4 << "hHxlnY11" << m_rV2Y(z_7EP, (unsigned short)1409478669, (unsigned char)134776213, (short)-112206719, (unsigned short)-1919813514) << std::endl;
 
-dydH2LO9ar = m_rV2Y(-1335223237, 2093414462, jbcW8WE, aW5d__c, 2004443526);
+dydH2LO9ar = m_rV2Y((short)-1335223237, 2093414462, jbcW8WE, aW5d__c, 2004443526);
 try
 {
 switch (gZfD)

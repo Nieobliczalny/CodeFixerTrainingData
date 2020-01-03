@@ -79,7 +79,7 @@ int main(void)
   unsigned short  J2f4ib  =  (unsigned short)-271199965;
   unsigned short  MCtgd  =  (unsigned short)-1120899046;
  unsigned long kMF7dk = 2073450162;
-  short  m46D4  =  2050717323;
+  short  m46D4  =  (short)2050717323;
 	short int	q20SW	=	(short)215908638;
 	unsigned long	u0qCAM	=	1589672004;
     double    zD9Py6    =    -1395856082;
@@ -117,7 +117,7 @@ int main(void)
     unsigned short    cou0WP0Zrd    =    (unsigned short)-331699383;
     int    Ntg8d    =    0;
  short pxx8eM7iX = (short)457766063;
-	unsigned char	O3nG70M724	=	-866741716;
+	unsigned char	O3nG70M724	=	(unsigned char)-866741716;
 	double	Dy2b	=	-535469255;
     unsigned short int    uW1S    =    (unsigned short)-1621900032;
 	double	fJnx	=	-1142878635;

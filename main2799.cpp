@@ -25,7 +25,7 @@ int main(void)
  n8vPQe28xE = (unsigned short)-1633988896;
  fe4LX4Gol = (unsigned short)-110333635;
  AgJNV8KkM7 = (unsigned short)10160183;
- H_oRF51X = 503744314;
+ H_oRF51X = (unsigned short)503744314;
  O5P9 = 2120262738;
  tVnfsg3kO5 = 135089906;
  iw8Ky = 1224891877;
@@ -35,7 +35,7 @@ int main(void)
  Gd2T38 = (unsigned short)935403966;
  VbOkF01i = (unsigned short)434439362;
  ZGGod = (unsigned short)-1530917203;
- iu19Q = 1714970222;
+ iu19Q = (unsigned short)1714970222;
  z5M_ZOM_mj = 481377390;
  DdLVcWT1 = -825235015;
  M4d7ST8i = -668102191;
@@ -45,7 +45,7 @@ int main(void)
  j04METJ_ = (unsigned short)757918076;
  KkEKM_5 = (unsigned short)353873251;
  PSy2 = (unsigned short)907958877;
- wNiT_buq = 1134750659;
+ wNiT_buq = (unsigned short)1134750659;
  yYsbW_ = 1739645003;
  afKOToVps = -1182249355;
  Qqkz = 334318273;
@@ -55,7 +55,7 @@ int main(void)
  uzd47xJgxn = (unsigned short)1507373387;
  ltELB = (unsigned short)1232048404;
  bEpf91Yd5 = (unsigned short)590373348;
- qbphTx7Z2 = -496672066;
+ qbphTx7Z2 = (unsigned short)-496672066;
  S6wJ1Drv = -259405868;
  CVj9e8b = 707702603;
  mEy2kdv7PZ = 2087379437;
@@ -65,7 +65,7 @@ int main(void)
  AO3u = (unsigned short)196549004;
  NBK_I = (unsigned short)-874341067;
  Q05DZ_7 = (unsigned short)-939484707;
- DckS5D = 109700989;
+ DckS5D = (unsigned short)109700989;
  MMLkp = -2085636853;
  m3m015Uq = 1002636091;
  s8T5 = -637452969;
@@ -75,7 +75,7 @@ int main(void)
  u_Qy = (unsigned short)-1965093822;
  VUQ3U = (unsigned short)-363637057;
  jIUP = (unsigned short)156298544;
- BEK_f = 690834158;
+ BEK_f = (unsigned short)690834158;
  O305E5j1TT = 2067940621;
  f1s0qsgl_I = 1649365727;
  W2_kh = -1303171542;
@@ -85,7 +85,7 @@ int main(void)
  QqkNjV8lfJ = (unsigned short)1716519410;
  hqe9Be44b = (unsigned short)-183968034;
  HsS1c51 = (unsigned short)-1730342550;
- h7W06G = 1232996611;
+ h7W06G = (unsigned short)1232996611;
  Ti2GLJ2 = -508081464;
  Xlt89 = 1784063331;
  MH9W = 1981547937;
@@ -95,7 +95,7 @@ int main(void)
  r5J07Q8 = (unsigned short)108282012;
  Nk6_79C6q = (unsigned short)2101051412;
  me95C30Yj = (unsigned short)-1759098102;
- nrym_79wue = -727731789;
+ nrym_79wue = (unsigned short)-727731789;
 
 if (S6wJ1Drv < XC_u71C3D6)
 {

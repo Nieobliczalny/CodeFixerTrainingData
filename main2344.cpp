@@ -33,7 +33,7 @@ int main(void)
 	int	H1xh	=	-753286003;
   long  yHffv5  =  -1720296303;
     char    LxecJ5m3M    =    (char)384282782;
-	unsigned char	mbTbO40bU	=	-772695367;
+	unsigned char	mbTbO40bU	=	(unsigned char)-772695367;
  float qi21Be = -1570166913;
 	unsigned int	yD9145	=	-765479821;
  unsigned long Bn9R2_ = 907380735;

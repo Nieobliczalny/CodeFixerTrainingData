@@ -183,7 +183,7 @@ case 'a':
 er02CXW_4q = (int)abs(X6rJ);
 break;
 case 'b':
-W821W9JbY_ = UerS2AUp(W821W9JbY_, (short)1683393039, (unsigned char)-471934382, Tzr0, 1061783424);
+W821W9JbY_ = UerS2AUp(W821W9JbY_, (short)1683393039, (unsigned char)-471934382, Tzr0, (unsigned short)1061783424);
 break;
 case 'c':
 er02CXW_4q = C9X_u3(p62PJ);

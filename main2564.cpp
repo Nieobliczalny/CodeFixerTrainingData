@@ -42,7 +42,7 @@ int main(int argc, char** argv)
     unsigned char    QI64nR3    =    (unsigned char)2122586039;
     short int    lw4Ly    =    (short)1068889589;
  short int QO8XU7K1 = (short)2027107706;
- unsigned short iL_OQv = 132545133;
+ unsigned short iL_OQv = (unsigned short)132545133;
     long    J5Aqb    =    288310231;
  long double GpTA14L = 2137317683;
  long long ItxRpZlj = -1937015081;

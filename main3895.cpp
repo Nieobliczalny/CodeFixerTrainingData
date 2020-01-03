@@ -25,7 +25,7 @@ int main() {
   long  T4PhbNQ  =  -1054286869;
     char    j2oYhtjsB    =    (char)-60478296;
 	int	H5q5yQO	=	1112643710;
-    unsigned short    ZW30JDt5Y    =    -1774131608;
+    unsigned short    ZW30JDt5Y    =    (unsigned short)-1774131608;
 	long	mL122i	=	377344003;
  unsigned long long ZGxaS = 268243344;
   short  w27V  =  (short)1800400274;
@@ -442,7 +442,7 @@ nJNR7_Q %= ubj1p;
 }
 else if ((T4PhbNQ <= -1711839757) || (O5d7O4 <= 1895989275))
 {
-std::cout << FE4kjW2_qt(J6_Tifune, -844825693, -400321976, (unsigned short)607522588, (unsigned char)1222901287) << "c8m2_d2n2" << "h0VN_9r" << FE4kjW2_qt(1680897261, H5q5yQO, 1007905472, (unsigned short)-333490580, njaGazrDF) << FE4kjW2_qt(1211961989, 1744181656, L_s52d, -966482749, njaGazrDF) << std::endl;
+std::cout << FE4kjW2_qt(J6_Tifune, -844825693, -400321976, (unsigned short)607522588, (unsigned char)1222901287) << "c8m2_d2n2" << "h0VN_9r" << FE4kjW2_qt(1680897261, H5q5yQO, 1007905472, (unsigned short)-333490580, njaGazrDF) << FE4kjW2_qt(1211961989, 1744181656, L_s52d, (unsigned short)-966482749, njaGazrDF) << std::endl;
 }
 else
 {

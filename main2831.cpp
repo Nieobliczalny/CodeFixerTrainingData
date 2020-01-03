@@ -38,7 +38,7 @@ int main(int argc, char** argv) {
     long    HsrhK0V    =    848415162;
 	unsigned char	QY8N0ANY	=	(unsigned char)1008321667;
     unsigned long    A6i176t2    =    1934896444;
-    short int    wHj1g    =    151922744;
+    short int    wHj1g    =    (short)151922744;
 	unsigned long long	s_ur	=	-1385668299;
   int  z_z0FU7k  =  -1355105934;
  long xd1alk6 = -211313203;
@@ -53,7 +53,7 @@ int main(int argc, char** argv) {
 	long long	k6RWT	=	0;
 	unsigned char	q75_x	=	(unsigned char)587706323;
   short  AeOt_0  =  (short)1288186519;
-    unsigned char    s607    =    -289850670;
+    unsigned char    s607    =    (unsigned char)-289850670;
  unsigned short int y5eFm = -1417617029;
  unsigned int F923iR7c9 = -1317295404;
     unsigned short    V4kfOj9    =    (unsigned short)-166153790;
@@ -65,7 +65,7 @@ int main(int argc, char** argv) {
     long double    JFrT8_5om    =    780820126;
  unsigned short P6PJEnyC = (unsigned short)1170848909;
 	unsigned short int	P4m42_A	=	(unsigned short)1565946091;
-	char	StxE9o__P	=	-1771678963;
+	char	StxE9o__P	=	(char)-1771678963;
  float oX5y1F4 = 39035078;
 	unsigned long long	iYRVB1p2Ut	=	1937882468;
 	int	DNZfDxRl	=	-825938928;

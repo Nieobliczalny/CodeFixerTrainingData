@@ -96,7 +96,7 @@ case 6:
 QLa5rD = f0_CEFVwu(ki2_DKZy, (char)-544049277, z_0gW8_zSQ);
 break;
 case 7:
-okV_SO = f0_CEFVwu((short)960598899, mBAAG_A, -456676955);
+okV_SO = f0_CEFVwu((short)960598899, mBAAG_A, (unsigned char)-456676955);
 break;
 default:
 okV_SO = f0_CEFVwu((short)-410094359, (char)1825811517, vp__V);
@@ -294,7 +294,7 @@ case 0:
 okV_SO = f0_CEFVwu((short)307178515, (char)-890412223, (unsigned char)-1312281682);
 break;
 case 1:
-l2ufSloxix = f0_CEFVwu((short)1187036463, (char)1333807618, 1633889093);
+l2ufSloxix = f0_CEFVwu((short)1187036463, (char)1333807618, (unsigned char)1633889093);
 break;
 }
 }

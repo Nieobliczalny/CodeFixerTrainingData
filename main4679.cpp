@@ -34,7 +34,7 @@ int main() {
   short int  tG4C  =  (short)-909787717;
   long  nE_7  =  1110339755;
   short int  H2KI  =  (short)1302066806;
-	char	axcUIYg6	=	-812981053;
+	char	axcUIYg6	=	(char)-812981053;
 	float	BkK92	=	497769999;
     long long    L4Z_u_4    =    63463067;
     long    Oue2z    =    999731399;

@@ -157,7 +157,7 @@ CTa4H5n = udr1177((unsigned char)1949272330, TV715_Ip, (char)-438755525, (unsign
 break;
 case 'e':
 case 'E':
-CTa4H5n = udr1177((unsigned char)-924169398, -455706050, 602582626, 1300375696, -798822325);
+CTa4H5n = udr1177((unsigned char)-924169398, -455706050, (char)602582626, 1300375696, -798822325);
 break;
 case 'f':
 case 'F':

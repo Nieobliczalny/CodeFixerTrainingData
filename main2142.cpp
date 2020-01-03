@@ -30,7 +30,7 @@ int main(void) {
  long double Eo86U = 1743952796;
     float    a9m_5    =    -274921476;
 	unsigned char	Y4xmR7Y	=	(unsigned char)617657536;
- char gngj8 = 1322180046;
+ char gngj8 = (char)1322180046;
 	unsigned long	P7sTO_Q	=	-1795801856;
  float ZoBoXLO3ez = -535415776;
  unsigned long long pP_gaFyg = -251822383;

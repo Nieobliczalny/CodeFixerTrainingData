@@ -38,7 +38,7 @@ int main(void)
  char g3HX84A9z0 = (char)1574711687;
 	unsigned short	q_5ADc4M	=	(unsigned short)1816760260;
     int    tUt09_5d    =    1479898559;
-    unsigned char    sCpQ7bTc    =    -418940800;
+    unsigned char    sCpQ7bTc    =    (unsigned char)-418940800;
   unsigned int  r7929F  =  -1802415930;
   unsigned int  wd4P55f  =  0;
  unsigned long D6gT6 = -796044412;
@@ -171,7 +171,7 @@ gtsFODTYi6 = ATpU3(-776333580, (unsigned short)655171661, i4T40I, (short)2052541
 int i = 0;
 while (i < 8)
 {
-Vjt5R24 = ATpU3(a53XaS490, -288430185, -250736605, -796207576);
+Vjt5R24 = ATpU3(a53XaS490, (unsigned short)-288430185, -250736605, -796207576);
 ++i;
 }
 }

@@ -28,7 +28,7 @@ int main() {
  unsigned long Ue3X = 1851580996;
     short int    Uanl7Tp9    =    (short)1467521926;
  short int lG6E = (short)2050688508;
-    unsigned short    hzls    =    387013655;
+    unsigned short    hzls    =    (unsigned short)387013655;
 	long double	LSu8IWDfc	=	-528361531;
  long double c5LRGF = -837793702;
   long  r9nwl2  =  -1047439490;

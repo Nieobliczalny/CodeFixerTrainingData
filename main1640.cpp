@@ -25,7 +25,7 @@ int main(int argc, char** argv) {
   int  IJ7KR3  =  0;
 	short int	kDwtiO	=	(short)-1308770435;
 
-kDwtiO = w_U1l_Ao7p(650434884, PX__GfU4l, 570371048, q4qQ) / w_U1l_Ao7p(14918234, 1880219351, 1550748389, q4qQ);
+kDwtiO = w_U1l_Ao7p((short)650434884, PX__GfU4l, 570371048, q4qQ) / w_U1l_Ao7p(14918234, 1880219351, 1550748389, q4qQ);
 
 try
 {

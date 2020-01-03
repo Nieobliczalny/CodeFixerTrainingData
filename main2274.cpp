@@ -70,7 +70,7 @@ int main() {
   unsigned char  On4_11ve  =  (unsigned char)1293459810;
     unsigned short    sj_WD0B    =    (unsigned short)-910510107;
     unsigned short    vSwi_vVX7F    =    (unsigned short)1325460891;
-    unsigned char    Lv8esgGoz    =    1728063245;
+    unsigned char    Lv8esgGoz    =    (unsigned char)1728063245;
   char  h8UJ  =  130333606;
   short int  OaevFBp7  =  1339737377;
   int  S92_xxj  =  1228941213;

@@ -50,7 +50,7 @@ int main(void) {
  unsigned short int ALOsf2W7 = (unsigned short)-558242854;
     long double    PFg2CWxd6    =    1654077915;
  unsigned short wE11Vl = (unsigned short)-2082214600;
-  char  J2rP8  =  736687497;
+  char  J2rP8  =  (char)736687497;
     unsigned short int    jcT7j5    =    (unsigned short)-1244256312;
 
 k_T2xQb5 = uHn9R4ik(eEy10305, e_69, C7_8_, -96591491) / Y8kK(eEy10305, -1389134032, 516697274);

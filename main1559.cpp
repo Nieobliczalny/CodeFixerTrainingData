@@ -75,7 +75,7 @@ int main(int argc, char** argv) {
  unsigned long long tz6D6qu = 427325390;
   unsigned short  rmrLx59M7p  =  (unsigned short)-819557714;
   short  wPa3U7VFF  =  (short)-1050008812;
-	unsigned short int	PYUi71_b	=	1983075292;
+	unsigned short int	PYUi71_b	=	(unsigned short)1983075292;
     unsigned long long    W5giP    =    138608107;
  unsigned int rYh_D = 701509163;
   unsigned short  u08xo7_m  =  (unsigned short)-1016432355;
@@ -95,7 +95,7 @@ int main(int argc, char** argv) {
   long long  XE68  =  777404488;
   float  an9c  =  -838753017;
     float    S7Dp1D3    =    -1424236797;
- unsigned short Y892i = -12660079;
+ unsigned short Y892i = (unsigned short)-12660079;
  short int KxDn60wP02 = (short)1544865665;
     unsigned short    vE7QD2q1tt    =    (unsigned short)48452788;
 	unsigned char	T98c0grckb	=	(unsigned char)-1457979761;

@@ -72,7 +72,7 @@ int main()
 	char	psG_lE	=	(char)-2133580526;
     long    Uo82K0T1A_    =    -91304727;
   short int  Gm1pL  =  (short)-414434965;
-    short    CO67k    =    -764395767;
+    short    CO67k    =    (short)-764395767;
     long    byAL    =    -779012773;
   unsigned long long  pbl4lt85O  =  -257035858;
     char    sbKe    =    (char)1864628739;

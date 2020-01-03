@@ -332,7 +332,7 @@ case 2:
 gWg7R = (int)abs(k8mBO7kPq);
 break;
 case 3:
-KcxH9htwIc = nyF9((unsigned short)-64975588, -1019404209);
+KcxH9htwIc = nyF9((unsigned short)-64975588, (short)-1019404209);
 break;
 case 4:
 gWg7R ^= 565578578;
@@ -630,7 +630,7 @@ else if (sw0_8AF < KcxH9htwIc)
 {
 for (int j = 0; j < 6; ++j)
 {
-std::cout << ZivQ6((unsigned short)903283674, i817, (short)-933159073) << N0L2(298842578, -1165008243, Os_Sep_t, Um5RUUW, kEY4siK) << "EC5AH_" << std::endl;
+std::cout << ZivQ6((unsigned short)903283674, i817, (short)-933159073) << N0L2(298842578, (unsigned char)-1165008243, Os_Sep_t, Um5RUUW, kEY4siK) << "EC5AH_" << std::endl;
 }
 }
 else

@@ -17,7 +17,7 @@ int main(void)
     unsigned int    mG59_4J    =    -349661426;
     unsigned int    HE0o0    =    1469693383;
     unsigned short    hfV4bsD0    =    (unsigned short)-287912083;
- unsigned char T2Zx13 = 1589722575;
+ unsigned char T2Zx13 = (unsigned char)1589722575;
 	unsigned long	P6xK	=	-1005151423;
   unsigned char  ujHqGzndU3  =  719137941;
 	double	d9ii	=	1446259345;

@@ -97,7 +97,7 @@ int main() {
     double    pt780    =    -1877446141;
  short i5Fs = (short)895019678;
     short    vfP3Zh444    =    (short)-1268587360;
-    short int    pSZLK9HAL    =    66618139;
+    short int    pSZLK9HAL    =    (short)66618139;
  int Qxjf11p = 807208027;
   unsigned char  Get6Q  =  (unsigned char)-774218488;
 	unsigned short int	qsIqqC_g8	=	(unsigned short)-9596300;

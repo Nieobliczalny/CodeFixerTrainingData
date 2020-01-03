@@ -37,7 +37,7 @@ int main(void)
     float    A7VL    =    -1502784172;
     unsigned short    t9YCC7    =    (unsigned short)90527886;
 	unsigned long	q1Cp4z43	=	-668040689;
- char kuHa70_Vek = 211301605;
+ char kuHa70_Vek = (char)211301605;
   int  s657Q0  =  -482401794;
     short    q59_9o369    =    (short)2140450722;
  unsigned char LMe5ke5z = 1394237592;
@@ -64,7 +64,7 @@ int main(void)
  short Ro73k95i1 = (short)2096787088;
     short int    fJv97    =    (short)204188824;
 	char	TbJRs_f1	=	(char)1624278397;
-  short  g1jrO  =  -2048146471;
+  short  g1jrO  =  (short)-2048146471;
     long double    Rt7Y5U    =    -1563744811;
   long long  PTChNk  =  -1968794039;
     short    t572GH6a99    =    (short)-737794124;

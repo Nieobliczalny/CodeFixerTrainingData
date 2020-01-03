@@ -296,7 +296,7 @@ Brna5iO_Z = Z_6i9eDuw << 844655087;
 break;
 case 'h':
 case 'H':
-UMB97d = UyqzD6Eo((unsigned short)-1923070492, (unsigned short)-509466823, n5RUnsw9, (unsigned short)1058557199, -55617945);
+UMB97d = UyqzD6Eo((unsigned short)-1923070492, (unsigned short)-509466823, n5RUnsw9, (unsigned short)1058557199, (char)-55617945);
 break;
 case 'i':
 case 'I':
@@ -387,7 +387,7 @@ case 5:
 QFtB8fT = (JuT82 < kGm8e3_3vT) ? U5jd6 : RDyTKzEUQ;
 break;
 case 6:
-jAbL8VXzy = UyqzD6Eo((unsigned short)604090887, (unsigned short)-272515789, 1781176729, 199248649, T5T1w);
+jAbL8VXzy = UyqzD6Eo((unsigned short)604090887, (unsigned short)-272515789, (short)1781176729, 199248649, T5T1w);
 break;
 case 7:
 u7d23gt3Nx = UyqzD6Eo(-242550570, -1878731628, QOLOr29R, LeRGWk0yL7, -149394655);

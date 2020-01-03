@@ -214,7 +214,7 @@ int main()
  pk78Rf7 = 423774156;
 
 Kc768iAo = (int)ceil(imiV8LD);
-std::cout << "aENh8q_n" << X6gdc_3I(yfd54Q9, (unsigned short)1600377147, HMey15, (unsigned short)1079454492, 1216272845) << X6gdc_3I(yfd54Q9, lJ8WPl, HMey15, -336761511, 864668492) << std::endl;
+std::cout << "aENh8q_n" << X6gdc_3I(yfd54Q9, (unsigned short)1600377147, HMey15, (unsigned short)1079454492, (short)1216272845) << X6gdc_3I(yfd54Q9, lJ8WPl, HMey15, -336761511, 864668492) << std::endl;
 
 YIVnt >>= JTiR8;
 
@@ -553,7 +553,7 @@ QvArZ = Y2go(YIVnt, (char)-527290985, pi51s07YO, X_9Yl7ycAQ);
 }
 else if (l1FtJ < -1896133781)
 {
-r7ws = Y2go(-137388064, 1517842762, 312765991, f9mwD5i70);
+r7ws = Y2go(-137388064, (char)1517842762, 312765991, f9mwD5i70);
 }
 else if ((v70lp386_f <= 615042629) && ((A8Tep6x != 1478875802) && (e65077mM < al_n2)))
 {

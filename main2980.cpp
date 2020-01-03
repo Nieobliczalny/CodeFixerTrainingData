@@ -34,7 +34,7 @@ int main(int argc, char** argv) {
   char  joG6z05e  =  (char)1180715441;
 	unsigned short int	tYzY4MaoT7	=	(unsigned short)-128335200;
 	unsigned char	pR0huD1	=	(unsigned char)-1919557973;
-	short int	i2kAIOWm	=	-715685623;
+	short int	i2kAIOWm	=	(short)-715685623;
 	short int	yWAxpT4335	=	-1453615554;
   long  Y_L356MsB  =  1473656714;
   short int  sYTuDe7  =  (short)249954566;
@@ -50,7 +50,7 @@ int main(int argc, char** argv) {
  unsigned short e2sy2Vt = (unsigned short)685407970;
  unsigned short ULMJU1 = (unsigned short)-133815844;
 	unsigned short int	l4__F7941	=	(unsigned short)-1041328985;
-    char    bVFnC    =    -562526064;
+    char    bVFnC    =    (char)-562526064;
     double    tm0QH6D_    =    -1728180770;
     unsigned int    JJhC    =    -504675391;
     unsigned short int    Ac8m6wvb    =    (unsigned short)360949362;

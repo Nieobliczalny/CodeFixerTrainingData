@@ -30,7 +30,7 @@ int main(void) {
     int    Y5XN    =    478865823;
 	long double	YnTo	=	-1080146939;
  short tzXjbQo = (short)63804905;
- unsigned short int W1G6zBMg = -461407870;
+ unsigned short int W1G6zBMg = (unsigned short)-461407870;
   long long  VZ31  =  1927927693;
  float rocF0i = -232371081;
   unsigned long  jQef  =  801252249;

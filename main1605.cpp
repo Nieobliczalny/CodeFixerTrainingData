@@ -28,7 +28,7 @@ int main()
     LD_jBuLVqL    =    (unsigned short)-210978416;
     gV_zD    =    (unsigned short)248242188;
     ypfk3I8    =    (unsigned short)1616415381;
-    z2Po    =    -858917353;
+    z2Po    =    (unsigned short)-858917353;
     i_5xK    =    87462289;
     gtD4SbaZ    =    -599555612;
     Cpa5nw    =    233381621;
@@ -38,7 +38,7 @@ int main()
     s4g3    =    (unsigned short)-2071607793;
     UT7tUfPIV    =    (unsigned short)2097364273;
     KZCRfL8    =    (unsigned short)-560339925;
-    iITmF_s    =    -494573482;
+    iITmF_s    =    (unsigned short)-494573482;
     cp9CV6k    =    450427344;
     xR13vbgD    =    1749592918;
     Jgjt7hT_c    =    1481873501;
@@ -48,7 +48,7 @@ int main()
     NFo1di1    =    (unsigned short)485485892;
     b686t    =    (unsigned short)-846980661;
     L_H4yW3C0V    =    (unsigned short)-1186028790;
-    d644    =    1423211874;
+    d644    =    (unsigned short)1423211874;
     o0_501r6    =    1777127663;
     Qc_fKw5oy3    =    -1992355104;
     T_4Q9j4j0    =    -409589122;
@@ -58,7 +58,7 @@ int main()
     Vc2gl    =    (unsigned short)1224086313;
     hB7WK    =    (unsigned short)-510080540;
     IkadTH    =    (unsigned short)-732009679;
-    K65B_dX    =    1692834930;
+    K65B_dX    =    (unsigned short)1692834930;
     gq6It8L1T    =    -208689906;
     bmflX5n    =    332770076;
     DY77    =    -1636716454;
@@ -68,7 +68,7 @@ int main()
     R97046    =    (unsigned short)-1929564535;
     wfBDD0I0Jz    =    (unsigned short)-208272320;
     a_C_8    =    (unsigned short)1038201953;
-    wm9G16fWhz    =    -1398456028;
+    wm9G16fWhz    =    (unsigned short)-1398456028;
     Wr_20r    =    876525740;
     ehoZC__zM    =    -1658625730;
     OoaB72W7Kq    =    -1644816562;
@@ -78,7 +78,7 @@ int main()
     K65vyV4W    =    (unsigned short)-1695756015;
     U17K5zgv1H    =    (unsigned short)-2030763999;
     VD1h_a    =    (unsigned short)1384963730;
-    FQ3wsz0j2e    =    939885519;
+    FQ3wsz0j2e    =    (unsigned short)939885519;
     Ho2i9    =    -376038791;
     OXgEu7Y8z5    =    -1746400101;
     D1PJc7lcIY    =    -1521487368;

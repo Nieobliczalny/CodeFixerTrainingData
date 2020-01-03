@@ -336,7 +336,7 @@ case 5:
 PsQ3nTCo = sQUi_(PsQ3nTCo, (unsigned char)418314246, TdVEvW3AsP);
 break;
 case 6:
-iRF4Qx = Q994Osn((unsigned short)1057679424, (unsigned char)-1173963769, -164456990, -1977990175);
+iRF4Qx = Q994Osn((unsigned short)1057679424, (unsigned char)-1173963769, (unsigned char)-164456990, -1977990175);
 break;
 case 7:
 RoJ_4g |= 1257347568;

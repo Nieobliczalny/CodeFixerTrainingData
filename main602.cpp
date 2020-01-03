@@ -300,7 +300,7 @@ case 5:
 jxOO13 &= 1722157031;
 break;
 case 6:
-tr96R64n = M_3CCfgV4h((unsigned short)-885338995, -194104526, N52FR_, 872563700, -401568865);
+tr96R64n = M_3CCfgV4h((unsigned short)-885338995, -194104526, N52FR_, (unsigned char)872563700, -401568865);
 break;
 }
 }

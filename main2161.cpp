@@ -19,7 +19,7 @@ int main() {
 	U6yj5h25	=	(unsigned char)1456066464;
 	p2Jl	=	(unsigned char)-1244583096;
 	QVLww	=	(unsigned char)846344491;
-	Wx3sm_6	=	-158399633;
+	Wx3sm_6	=	(unsigned char)-158399633;
 	f09R9ck	=	-1519987995;
 	dHmK_W64_q	=	-2007654332;
 	en_Fg1C	=	-1432598064;

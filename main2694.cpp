@@ -28,7 +28,7 @@ int main(int argc, char** argv)
 	c5HW2x08	=	(short)381362414;
 	J3If9h7rDD	=	(short)-1107955350;
 	U_b83	=	(short)119727438;
-	TOVG	=	-1864241120;
+	TOVG	=	(short)-1864241120;
 	S831c	=	-260063011;
 	rc_1HdBIy3	=	-1059959365;
 	bs8Fz	=	1847811339;
@@ -38,7 +38,7 @@ int main(int argc, char** argv)
 	Vf7_WJlB	=	(short)-1641513464;
 	hu7t	=	(short)-1019438735;
 	JVy0Q	=	(short)-594696860;
-	Ly_oWpkYo	=	-1922419705;
+	Ly_oWpkYo	=	(short)-1922419705;
 	YSANqxL1	=	-1140856593;
 	iz3J7a	=	-1808794975;
 	nc7186e	=	-2147053134;
@@ -71,7 +71,7 @@ if (JIrx5w <= YSANqxL1)
 {
 if (S831c < 35958850)
 {
-LaB1Y7yj = PKlam35((char)372830882, (short)-301723650, 1282830026, -2006956701);
+LaB1Y7yj = PKlam35((char)372830882, (short)-301723650, 1282830026, (unsigned char)-2006956701);
 }
 else if (C2ZNjirEO > 1789060083)
 {

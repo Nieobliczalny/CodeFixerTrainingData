@@ -138,7 +138,7 @@ F6T_eI2V = Cx7R2((unsigned char)501683236);
 }
 else
 {
-VhdvB66 = U_7x5FWB(VhdvB66, -1838434771, -1925060548, F6T_eI2V, Jm45HGQmx);
+VhdvB66 = U_7x5FWB(VhdvB66, (short)-1838434771, -1925060548, F6T_eI2V, Jm45HGQmx);
 }
 }
 }

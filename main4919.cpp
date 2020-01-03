@@ -69,7 +69,7 @@ int main(void)
   unsigned long long  l4_gM  =  1743723476;
 	long double	UcyTb4RnC	=	-419529228;
 	short int	I7p6P	=	(short)-676920457;
-    char    FW06Q48q    =    1948664417;
+    char    FW06Q48q    =    (char)1948664417;
     long double    c8X7    =    -854445536;
  unsigned int tI0o3hT0 = 0;
  long long uyyjuh6__ = -1177147804;

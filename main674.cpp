@@ -50,7 +50,7 @@ int main(int argc, char** argv)
  short int Z5E0EZ9j = (short)244102564;
     short    nZuuWMQLs    =    (short)-469394472;
     unsigned short int    R5vS4U43_r    =    (unsigned short)-156265795;
-  unsigned short  IkPYc  =  -2061146832;
+  unsigned short  IkPYc  =  (unsigned short)-2061146832;
  double J93o7vPtxv = 1279998124;
 	unsigned long	UzMIKp	=	-787260655;
  int y_95S2 = -1799226996;
@@ -68,7 +68,7 @@ int main(int argc, char** argv)
   char  k1X5TO5E  =  (char)2006296328;
     unsigned short    tMtO    =    (unsigned short)-704282867;
   short int  xj9H  =  (short)-1083471462;
-  unsigned short int  UV6_4oqC1  =  -2126505184;
+  unsigned short int  UV6_4oqC1  =  (unsigned short)-2126505184;
 	long long	QgPFo7vxN	=	1248687777;
   unsigned int  cSIgj0f_h4  =  -47304210;
   short int  L24_KRSkxY  =  (short)-868136587;
@@ -515,7 +515,7 @@ e88a7I19 = -1595184694 / LY0zgb6H(QgPFo7vxN, (unsigned char)1774995753);
 
 if (o__CLZ4DPr != L24_KRSkxY)
 {
-std::cout << qIi_Sgr(QgPFo7vxN, e88a7I19, (short)1069998958, IkPYc, (short)-1141626615) << qIi_Sgr(353267712, (short)1644867718, (short)-522345947, 1946307859, e6BGFKC132) << LY0zgb6H(QgPFo7vxN, 483128457) << MZ898 << std::endl;
+std::cout << qIi_Sgr(QgPFo7vxN, e88a7I19, (short)1069998958, IkPYc, (short)-1141626615) << qIi_Sgr(353267712, (short)1644867718, (short)-522345947, 1946307859, e6BGFKC132) << LY0zgb6H(QgPFo7vxN, (unsigned char)483128457) << MZ898 << std::endl;
 }
 else
 {

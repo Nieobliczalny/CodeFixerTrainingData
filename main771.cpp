@@ -47,7 +47,7 @@ int main()
  short Y3qdB_o = (short)-809120234;
  float tRk4kn = 531019435;
     char    SPNd    =    (char)1550648121;
-  unsigned short int  OxNa_tEZ  =  -1661950845;
+  unsigned short int  OxNa_tEZ  =  (unsigned short)-1661950845;
   char  yl_vjL  =  (char)859378579;
  long V1yt = 1869205055;
   unsigned long long  rEr5u58UA  =  -1485007428;
@@ -75,7 +75,7 @@ int main()
 	unsigned char	G07_3_	=	(unsigned char)-1984383800;
  unsigned short GbT3ov1Rg = (unsigned short)-1260000681;
  float TA_6shrH2 = 1003586448;
-    unsigned short    sv9jPV1eOa    =    2115495620;
+    unsigned short    sv9jPV1eOa    =    (unsigned short)2115495620;
     double    aX1uStv6w    =    1485787001;
   double  T5mijJ  =  1442179899;
 

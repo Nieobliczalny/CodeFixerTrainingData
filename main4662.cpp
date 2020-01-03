@@ -65,7 +65,7 @@ int main(int argc, char** argv) {
     long double    zQHX6g    =    -9240589;
 	unsigned char	M2Fu	=	(unsigned char)390866105;
     short int    jkZY3b18Rj    =    (short)-2112811271;
- char xtx3Q6IgI = -297702120;
+ char xtx3Q6IgI = (char)-297702120;
 	unsigned short int	u2ClD_b659	=	-1717703978;
   unsigned long  p55e  =  -830975030;
     long    rTy1k8V    =    1035040814;
@@ -413,7 +413,7 @@ std::cout << "uAHI6" << ChEi((short)726636239, (unsigned short)-1132034880, (sho
 }
 if (TSj50175Y >= F2bRzUzZ)
 {
-std::cout << ChEi(rU95, K3krech, (short)1958971425) << bg6v3 << "Jx3r4487" << ChEi(rU95, -1693883991, PR7D4) << "kx1h7zz" << std::endl;
+std::cout << ChEi(rU95, K3krech, (short)1958971425) << bg6v3 << "Jx3r4487" << ChEi(rU95, (unsigned short)-1693883991, PR7D4) << "kx1h7zz" << std::endl;
 }
 else if ((RLfIY1LAz4 >= zGLaVO98) && ((bg6v3 & F2bRzUzZ) || (Rbj6IV < 730574845)))
 {

@@ -26,7 +26,7 @@ int main() {
     unsigned long    Dnoe    =    -1233243035;
  short int jYsXen3C = (short)-215611511;
 	short	cIzcSN	=	(short)259048441;
-	short	UXqX608m43	=	-1218339784;
+	short	UXqX608m43	=	(short)-1218339784;
  int gT1BuoV = -811336965;
   unsigned int  m_Gr248  =  -1423445989;
   long double  Uw8g  =  596165146;

@@ -85,7 +85,7 @@ int main()
 	unsigned char	g_MRDI	=	(unsigned char)1234419469;
     char    XkA9h    =    (char)386918905;
   char  aKfBJ_It5w  =  (char)-610365524;
- unsigned short int w9I1 = -1660762691;
+ unsigned short int w9I1 = (unsigned short)-1660762691;
   int  Iu0My5  =  -1182692413;
     unsigned int    qg38    =    46499413;
 	double	d3iRJ_	=	-1258514389;

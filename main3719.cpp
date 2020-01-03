@@ -76,7 +76,7 @@ int main() {
     unsigned short int    IwgW2Ad3    =    (unsigned short)1983851058;
     short    A65Z    =    (short)-137139148;
  long double KoxvBf = -2032464846;
-  short int  rk_e590ew  =  -1949653515;
+  short int  rk_e590ew  =  (short)-1949653515;
 	short int	DT5289	=	(short)-277553022;
   unsigned int  CYYflIvCU  =  1513369424;
     char    JGgfT5    =    (char)-421414921;

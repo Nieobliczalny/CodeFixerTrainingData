@@ -34,7 +34,7 @@ int main()
  unsigned char Y4sbVq6 = (unsigned char)1500342228;
  unsigned long BN66 = 630969315;
   unsigned int  Q4l9D  =  2127955624;
-	unsigned short	A_Bv_z1	=	-688193008;
+	unsigned short	A_Bv_z1	=	(unsigned short)-688193008;
   double  jGq7aj  =  -759375595;
   short  TkAqOW8O8  =  (short)2022632273;
   unsigned char  m5hm20s4V  =  0;
@@ -59,7 +59,7 @@ int main()
 	int	RGjfv	=	1257325172;
     unsigned short int    B76_D1    =    (unsigned short)-2074524341;
   unsigned short int  op9qH  =  (unsigned short)233453788;
-  unsigned short int  Xy3o  =  1020540207;
+  unsigned short int  Xy3o  =  (unsigned short)1020540207;
 
 zG6bJM3 = n8aMGlhoK();
 if ((g744 > rZFL6_K) && (BN66 & op9qH))

@@ -211,7 +211,7 @@ case 7:
 NP3k9L2 = UD9Qd850((unsigned short)849811844);
 break;
 case 8:
-tPnWAyw5Ae = aXg_8HmFF(1811271392, 940334302, vbr4F, Kw6F, -420638845);
+tPnWAyw5Ae = aXg_8HmFF((char)1811271392, 940334302, vbr4F, Kw6F, -420638845);
 break;
 default:
 FDh8_zk = (int)ceil(QkFinR7);
@@ -288,7 +288,7 @@ CZr9bP = mcH98Eu56((short)-646776244, OWMe0m, (char)-962090973, (unsigned short)
 }
 else
 {
-OWMe0m = mcH98Eu56(OWMe0m, (short)675668475, (char)-900172084, YpeXO3, -238382012);
+OWMe0m = mcH98Eu56(OWMe0m, (short)675668475, (char)-900172084, YpeXO3, (unsigned short)-238382012);
 }
 }
 else if (T4VhZM != ATKP3Fz5C)

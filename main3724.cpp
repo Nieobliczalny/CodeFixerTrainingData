@@ -239,7 +239,7 @@ case 6:
 HK41y1E9or = I984P((short)-1501334286, o7GXI62CA_, ygr8V);
 break;
 case 7:
-HK41y1E9or = I984P((short)-1534111744, 1551766653, -2123788168);
+HK41y1E9or = I984P((short)-1534111744, 1551766653, (char)-2123788168);
 break;
 default:
 PAu3K_C |= ARy2GzX5;

@@ -33,7 +33,7 @@ int main(void)
 	float	gw6H65	=	2065999348;
   short  W8_Lu  =  (short)-182901169;
  unsigned short TqO11_U = (unsigned short)-1217690075;
-  char  q7DVi  =  -341181406;
+  char  q7DVi  =  (char)-341181406;
     long    zx7TF9lqdr    =    0;
   int  b91E1  =  -300619615;
  unsigned char K9isE5GGu = (unsigned char)-1702847428;
@@ -169,7 +169,7 @@ h7UhQmGi = zN0n6TVjM0(-2099460893, (unsigned short)-2105274052, (unsigned char)-
 }
 else if (b91E1 < B61u)
 {
-zx7TF9lqdr = zN0n6TVjM0(nlDEJy20, -1775586208, TqO11_U, B61u);
+zx7TF9lqdr = zN0n6TVjM0(nlDEJy20, (unsigned short)-1775586208, TqO11_U, B61u);
 }
 else
 {

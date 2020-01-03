@@ -42,7 +42,7 @@ int main()
 	short	JER1	=	(short)1120947995;
 	long double	M3m36	=	1497491305;
     char    oFdNb_a    =    (char)-281520324;
-    unsigned char    A2CW8    =    786099201;
+    unsigned char    A2CW8    =    (unsigned char)786099201;
 	unsigned short	OBu7VQoF6	=	(unsigned short)364236121;
  long AT1X = 424941069;
 	char	qKMmH	=	(char)-1632102272;

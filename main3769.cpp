@@ -93,7 +93,7 @@ int main(int argc, char** argv)
   short int  RWn4  =  (short)1101392028;
 	long	auYf	=	-103083902;
 	unsigned char	TGS1a8HD04	=	(unsigned char)2097022604;
-	unsigned short	bG2Vv5_	=	-1716031761;
+	unsigned short	bG2Vv5_	=	(unsigned short)-1716031761;
 	unsigned long	N_556_	=	1742679051;
 
 try

@@ -24,7 +24,7 @@ int main() {
 	UySA	=	(short)1549177947;
 	VqF7	=	(short)-1707519076;
 	p_iI46e64	=	(short)-2049896500;
-	rTb_	=	1557690345;
+	rTb_	=	(short)1557690345;
 	Kc676rz16S	=	196130331;
 	NWVKo_aR_D	=	-340809673;
 	xKsC	=	-1089490473;

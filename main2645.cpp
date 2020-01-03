@@ -438,7 +438,7 @@ case 2:
 uRO6ziisD = ealS(-1792016650, -1237924820, 2007978833);
 break;
 case 3:
-mintD = KN368E0((unsigned short)-1037972643, 1644051049);
+mintD = KN368E0((unsigned short)-1037972643, (unsigned short)1644051049);
 break;
 case 4:
 mintD = KN368E0(PdY_SV, -426325402);

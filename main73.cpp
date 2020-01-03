@@ -27,7 +27,7 @@ int main(int argc, char** argv)
     unsigned long long    H38N2f    =    0;
   short int  kBPKB  =  (short)-199773647;
   unsigned long  A0Ae  =  1578771803;
- unsigned char N2aH = 2085662825;
+ unsigned char N2aH = (unsigned char)2085662825;
  int pD197_RS83 = -1884062199;
  unsigned short I4L7In82 = (unsigned short)1506711720;
   unsigned char  eu_vS8  =  691971426;

@@ -65,7 +65,7 @@ int main()
     short    zXg_1    =    (short)2064279632;
 	unsigned short	Luy37PenC	=	(unsigned short)-1490164093;
   unsigned short int  r5kA8  =  0;
- short b7zWStV = -188184494;
+ short b7zWStV = (short)-188184494;
   unsigned short int  TZX1  =  -1636879285;
  unsigned short RTnXc = 1861314117;
 	int	JB2xPcf3A	=	0;

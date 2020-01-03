@@ -46,7 +46,7 @@ int main() {
     char    W47w    =    (char)-1540252412;
 	short int	EmDyv2	=	(short)235452874;
   int  ku51l_  =  -1766930624;
-    unsigned short int    fss_P1h    =    -1887644309;
+    unsigned short int    fss_P1h    =    (unsigned short)-1887644309;
 	unsigned char	a5Rn_	=	(unsigned char)237290412;
 	unsigned long	M3xQ6x3X	=	1664497446;
     long double    p3yVxCj0XA    =    -1747678955;

@@ -57,7 +57,7 @@ int main(void)
     int    JKztFW    =    0;
  short hx8X = (short)-1718888109;
 	long	ur229LBcit	=	1206921522;
- char fjgL4UWcj1 = -438912101;
+ char fjgL4UWcj1 = (char)-438912101;
 	unsigned long long	f3_rYZT2	=	-1524710051;
     unsigned long long    CYnIZLw    =    -1031370087;
     long long    ET56wLd7    =    764519160;

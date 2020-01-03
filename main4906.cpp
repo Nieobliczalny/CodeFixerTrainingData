@@ -159,7 +159,7 @@ case 3:
 V960mXSdn1 = UcwBTxUhB5((short)1720770333, VSgDqP7, V960mXSdn1) / ejmNI50;
 break;
 case 4:
-gIE0G7 = UcwBTxUhB5((short)1861910156, gIE0G7, 300769299);
+gIE0G7 = UcwBTxUhB5((short)1861910156, gIE0G7, (unsigned short)300769299);
 break;
 case 5:
 VSgDqP7 = UcwBTxUhB5((short)1422831404, 1916097466, ejmNI50);

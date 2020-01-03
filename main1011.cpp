@@ -25,7 +25,7 @@ int main(void)
 	unsigned short	cqSwZU	=	(unsigned short)1215878383;
     double    L_8zbiI    =    -1821707741;
     short    v_YsS4P8v6    =    (short)-1117022370;
-	short int	fso_3R	=	334144204;
+	short int	fso_3R	=	(short)334144204;
 	unsigned char	W9ttd	=	350303794;
  double O_MI7Q7Me = -533620105;
  unsigned char y48kh5q = 1664489344;
@@ -53,7 +53,7 @@ int main(void)
  unsigned char ZTxgp = (unsigned char)-642128254;
  short int SZ6K4UgA8 = (short)-1088153935;
 	double	O707	=	-989639097;
-    char    Mbt3_8D6    =    -1023977997;
+    char    Mbt3_8D6    =    (char)-1023977997;
   double  rtsRFq4D37  =  -1032243553;
   short  cRr9  =  (short)-628774598;
  unsigned char MUdN1z339 = -628732029;

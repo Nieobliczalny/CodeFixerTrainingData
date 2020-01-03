@@ -36,7 +36,7 @@ int main(void)
     unsigned short int    O2uVZ    =    0;
     unsigned char    uEnCp    =    (unsigned char)-869619247;
     unsigned char    PMghFx66GM    =    (unsigned char)-1206094065;
-  unsigned short  d69Nb  =  824165245;
+  unsigned short  d69Nb  =  (unsigned short)824165245;
 	unsigned long	zgbs2KK	=	-1717254568;
 	long double	t_7XOTN	=	259855059;
     unsigned char    z0g0l    =    (unsigned char)-623607825;

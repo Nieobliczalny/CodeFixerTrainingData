@@ -54,7 +54,7 @@ int main(int argc, char** argv)
 	double	b_qVoVG	=	1533635401;
     char    hguO9Z56    =    (char)1802742795;
 	short	t135	=	(short)1160534601;
-  char  t10E6  =  1795706867;
+  char  t10E6  =  (char)1795706867;
  int e0i3 = -1624712353;
 
 oLxO6 = tp97UdNL(xt83, oLxO6);

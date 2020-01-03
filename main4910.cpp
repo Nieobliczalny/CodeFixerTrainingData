@@ -665,7 +665,7 @@ qZ_5p = ps5A67F((short)1504173489, (short)1776450738, (unsigned short)-324497761
 }
 else
 {
-F5_WZUC = LBIfO(-1487794105);
+F5_WZUC = LBIfO((short)-1487794105);
 }
 }
 else if ((DF7BL5 != IQWHF8j) || ((e87aKtbY > -1948688963) || (JCBZi932b & -1275400314)))

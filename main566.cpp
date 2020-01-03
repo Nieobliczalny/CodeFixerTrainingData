@@ -83,7 +83,7 @@ int main(void) {
     long double    x6lq4K2W    =    1689255588;
   long  rZNc  =  2097702473;
  float W0Ikg1zx = -1879718209;
-  unsigned char  S0mA  =  -2035621520;
+  unsigned char  S0mA  =  (unsigned char)-2035621520;
     short int    BI45DL4_CD    =    (short)-1825529796;
   unsigned int  J1OQX69  =  0;
 	unsigned long long	C2EmmF_17	=	-1087499232;

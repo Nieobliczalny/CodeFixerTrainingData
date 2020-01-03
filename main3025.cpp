@@ -48,7 +48,7 @@ int main(void)
 	long long	lvUD1	=	-1564783450;
  char ybkMAYv3jW = (char)1432835051;
   long  U70u6M  =  -1856466792;
-  unsigned char  PQdKiX3_7  =  -1863190036;
+  unsigned char  PQdKiX3_7  =  (unsigned char)-1863190036;
 	unsigned long long	o9V8y_8	=	-707457932;
   char  Y8jTub  =  (char)599815217;
 	long double	aBxZ9__WO	=	-359914884;
@@ -110,7 +110,7 @@ int main(void)
   short  oZoD1D8  =  (short)1401489767;
  int WBE_0GwY = -1474392867;
 	unsigned short int	TI3KSD	=	(unsigned short)424386401;
-  short  ONlm  =  -604666393;
+  short  ONlm  =  (short)-604666393;
 	long long	BiC5	=	1487115735;
 
 if (IrRCco > LgNQ)

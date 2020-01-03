@@ -303,7 +303,7 @@ case 'c':
 OfcQrj2M61 = wDDf1l((short)1499258120, (unsigned char)2044266964);
 break;
 case 'd':
-olCTYRTG6Z = mthBk_c7iQ(fnX39u5Uv, -1819324099, -2076091114);
+olCTYRTG6Z = mthBk_c7iQ(fnX39u5Uv, -1819324099, (unsigned char)-2076091114);
 break;
 case 'e':
 NrVA5p6pWC = OfcQrj2M61 % mnDdJbE;

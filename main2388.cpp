@@ -473,7 +473,7 @@ i--;
 }
 }
 je_V *= 807099373;
-std::cout << Sfu82uZbM(qD7Ecxw6Q, (unsigned short)-302953487) << "Rca4f6" << Sfu82uZbM(1113476995, (unsigned short)-295165097) << gWl6S8((short)-1111364930, -2065706903, 410829481, k1y2A1_Tq8, APQXWH6_) << zUXTQ9p8D << std::endl;
+std::cout << Sfu82uZbM(qD7Ecxw6Q, (unsigned short)-302953487) << "Rca4f6" << Sfu82uZbM(1113476995, (unsigned short)-295165097) << gWl6S8((short)-1111364930, -2065706903, (char)410829481, k1y2A1_Tq8, APQXWH6_) << zUXTQ9p8D << std::endl;
 
 C8PKJXM = 1699941613 / KgBWIsbsB;
 for (int i = 0; i < 3; i++)

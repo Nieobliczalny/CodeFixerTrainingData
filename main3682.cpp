@@ -479,7 +479,7 @@ IcBu = MkdOh7((unsigned char)621566047, (unsigned char)-596158680, (unsigned sho
 }
 else if (gSfNi1H3St > a_491)
 {
-rH9sn6TSn = MkdOh7((unsigned char)-1221062759, (unsigned char)-1237806506, 1694132500, -139967341);
+rH9sn6TSn = MkdOh7((unsigned char)-1221062759, (unsigned char)-1237806506, (unsigned short)1694132500, -139967341);
 }
 else
 {

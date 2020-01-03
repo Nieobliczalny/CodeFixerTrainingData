@@ -17,7 +17,7 @@ int main(int argc, char** argv)
  fFXea_L2_R = (unsigned short)1872955498;
  W309f = (unsigned short)-1880075164;
  TPe4S29_ = (unsigned short)187610861;
- kU3KuorY = 403187245;
+ kU3KuorY = (unsigned short)403187245;
  T8zuixI2m3 = 620997853;
  AmQFbh_ = 189146153;
  Sp79__ = -501364774;

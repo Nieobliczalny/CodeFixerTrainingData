@@ -148,7 +148,7 @@ K789X0kKvH = d09AG((unsigned short)31973485, (unsigned short)756216244, KXqdNH6b
 }
 else if (tJ_7w)
 {
-v_f_ = xL9Xu3(-1615618372, -1316367277, mvrWMG, 610329999, 707348331);
+v_f_ = xL9Xu3(-1615618372, (short)-1316367277, mvrWMG, 610329999, 707348331);
 }
 else
 {

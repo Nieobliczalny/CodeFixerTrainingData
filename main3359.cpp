@@ -29,7 +29,7 @@ int main(int argc, char** argv)
     unsigned short int    Si5j9Xz52E    =    (unsigned short)-673678665;
   short int  ts1uI2F  =  (short)735515722;
 	short	pLZG97WY5	=	(short)-1352644742;
- unsigned char j1t4_r = -2103008177;
+ unsigned char j1t4_r = (unsigned char)-2103008177;
 	unsigned short int	zE55_	=	0;
 	unsigned int	zw_zoN	=	1665654007;
     unsigned long    s8U2e    =    0;

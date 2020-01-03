@@ -28,7 +28,7 @@ int main(int argc, char** argv)
  short int DUgZ45Vt = (short)348622771;
   short  sK9gj  =  (short)470638204;
     short    vBlfK5o    =    0;
-	char	vSnJhS	=	-1515013260;
+	char	vSnJhS	=	(char)-1515013260;
   long  vF7T8A  =  951963139;
     long long    ezaQ4    =    1362552705;
   short  U1qShS  =  1057383874;

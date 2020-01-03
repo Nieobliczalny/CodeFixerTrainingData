@@ -171,7 +171,7 @@ int main(int argc, char** argv) {
 
 P0cs_Y = RXndDO2_((unsigned short)547365510, D7_8c_8k1, -1321614370, HvFsR);
 
-Qc7_ = RXndDO2_((unsigned short)-576671894, (unsigned char)-1661554083, -1204366573, -1652202320);
+Qc7_ = RXndDO2_((unsigned short)-576671894, (unsigned char)-1661554083, -1204366573, (short)-1652202320);
 
 if (((YOqd81U >= LWi4vqR) && (xWY8531r3 <= -1877934467)) && (u90Zq4wsz & c1864hQ))
 {

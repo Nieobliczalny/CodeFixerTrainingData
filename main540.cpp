@@ -44,7 +44,7 @@ int main()
  long double dPy0VOT9 = 1666631152;
     unsigned short    VIM27m    =    (unsigned short)498705949;
 	short int	e78tBt6	=	(short)-878885442;
-    unsigned short    C_aVWzGM    =    1398404980;
+    unsigned short    C_aVWzGM    =    (unsigned short)1398404980;
 	char	nh7x8Tx16j	=	(char)877317567;
  float lxn7 = 28364225;
     unsigned short int    s_WF    =    (unsigned short)-1181278535;
@@ -64,7 +64,7 @@ int main()
  long double EcPild0I = 560806860;
   unsigned short  j6p8TJlZ  =  (unsigned short)-1726369051;
   short  eg75BJPe6  =  (short)802988458;
-  unsigned char  AvmlGLp6G2  =  1755711078;
+  unsigned char  AvmlGLp6G2  =  (unsigned char)1755711078;
     long double    Xi3fgAGh0    =    -1617404399;
  long double NwjnF4 = 847883778;
     long    ETR75I    =    200013090;
@@ -77,7 +77,7 @@ int main()
  long j1eS21BI = 845387476;
   short int  OHyY6zohFm  =  (short)-1722846549;
     double    s2AnQ719J2    =    -217273327;
-	unsigned char	Zp92RH4d	=	1862589806;
+	unsigned char	Zp92RH4d	=	(unsigned char)1862589806;
 	int	ci_ulD2g	=	214340309;
     long long    EQbSn_cn0    =    0;
     unsigned long long    yo6Mvf71    =    -639954464;
@@ -91,7 +91,7 @@ int main()
  unsigned int C4w5en = 1215067100;
   unsigned char  M8I2d30X  =  (unsigned char)-2036634402;
 	short	f01TC48br	=	(short)-2104031976;
-  short  p7D1G9  =  1614209575;
+  short  p7D1G9  =  (short)1614209575;
 	unsigned int	j8CP04a	=	0;
   char  N3Q2hFU7Q7  =  -1667844099;
 	short int	N334i6	=	(short)2043778165;
@@ -111,7 +111,7 @@ int main()
  unsigned int WmD8SBcS_ = -594817171;
  char o5atqR = (char)432829935;
   char  dTzpm8J0  =  (char)-1938309362;
- short oR53Hw24 = -835446319;
+ short oR53Hw24 = (short)-835446319;
     unsigned long long    Y55AI    =    732411317;
   long  qlGWB  =  -6803855;
     long    PUoNQ    =    -1305953640;
@@ -124,7 +124,7 @@ int main()
   short int  c8K527qt  =  (short)-1240742854;
 	unsigned char	cN8Ll	=	(unsigned char)-155473654;
 
-cout << "QvWmH3ODe4" << "Ey46RK6iw" << O10y(509837703, yo6Mvf71) << endl;
+cout << "QvWmH3ODe4" << "Ey46RK6iw" << O10y((char)509837703, yo6Mvf71) << endl;
 
 Ua0cekU_5 = (int)abs(UG_2Ei7P);
 {

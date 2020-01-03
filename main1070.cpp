@@ -112,7 +112,7 @@ int main(void)
 	char	m__dzWuN	=	(char)1330054581;
  float cuP86ts = -1011475453;
 	short	Hw0TdZ_yrc	=	(short)1840361704;
-    unsigned short int    U53A_    =    228002397;
+    unsigned short int    U53A_    =    (unsigned short)228002397;
 	unsigned long	UsCYi8	=	929682245;
     long double    U5HF7    =    1679691873;
     unsigned int    Ob3QqJM    =    2132369128;

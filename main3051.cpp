@@ -49,7 +49,7 @@ int main() {
 	float	b_G99S	=	1568772652;
   unsigned long  m0gU7__kO7  =  547288009;
   char  a_4OHdD  =  (char)-2117049650;
-	unsigned char	k4vVbCRU_K	=	173118738;
+	unsigned char	k4vVbCRU_K	=	(unsigned char)173118738;
     unsigned char    sU_6s    =    (unsigned char)-1126800424;
   char  OpcFkozU  =  (char)-1640097501;
  unsigned int GST2D12 = 1917117581;
@@ -81,7 +81,7 @@ int main() {
     short int    i7Iv518o    =    (short)-701367111;
  unsigned short int L3XQh4 = (unsigned short)-1088319712;
  unsigned long long tld_P = 93054236;
- short U60wX = -611797587;
+ short U60wX = (short)-611797587;
   unsigned short int  vYMKV_MHy  =  -62667682;
 
 OpcFkozU = (int)abs(j_o37Ys);

@@ -477,7 +477,7 @@ tq2YTAMf26 = (unsigned long)(oJW5R8w_8M);
 int i = 0;
 while (i < 4)
 {
-cout << fem3Y(JIO_v, (char)-872583013, (unsigned char)1156622397, sySm7Mg2w2, 885995886) << endl;
+cout << fem3Y(JIO_v, (char)-872583013, (unsigned char)1156622397, sySm7Mg2w2, (short)885995886) << endl;
 i++;
 }
 }

@@ -80,7 +80,7 @@ int main(void)
  short int c5T05D = (short)1987668450;
 	unsigned int	dC_8lg__Ia	=	-535677350;
     short int    GOm08    =    (short)187702187;
-    unsigned short int    vJDXPJ0ZdS    =    -1136525791;
+    unsigned short int    vJDXPJ0ZdS    =    (unsigned short)-1136525791;
   unsigned char  xI72nb  =  -1457435471;
   long long  maR_F  =  1710961728;
   short int  Aik6e7A9v  =  (short)153826228;
@@ -92,7 +92,7 @@ int main(void)
 	unsigned short	EbdCUA	=	(unsigned short)644390887;
   unsigned int  g306meHeW  =  596284748;
  long DQgs9dMNK = 1701775014;
-    unsigned short    Uv7NqO    =    132813030;
+    unsigned short    Uv7NqO    =    (unsigned short)132813030;
 	int	C0vjr1Aafe	=	1792497564;
   int  ko_w  =  1395801108;
  short int D9G_b_5J2 = (short)558601649;

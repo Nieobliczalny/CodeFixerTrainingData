@@ -39,7 +39,7 @@ int main(void)
   long  V_iK9X0Tm  =  -566945561;
 	short int	V2n92nxZr	=	(short)-1208213481;
   char  fvG7GN90W  =  (char)1865258086;
-  char  hrm54B6y3  =  -793663491;
+  char  hrm54B6y3  =  (char)-793663491;
 	char	jxRCC_M	=	2071909610;
     unsigned char    lRk_10    =    -1230336434;
     short    g2E82lfO    =    (short)-875780845;
@@ -60,7 +60,7 @@ int main(void)
     long double    uemicXiG1d    =    890649187;
   unsigned long long  mKU4I0BN  =  848699868;
  char D7Rj9UsVZX = (char)-1592419390;
- short int CKjH8_ = 1266347793;
+ short int CKjH8_ = (short)1266347793;
     unsigned long long    y0G1    =    1443140422;
 	unsigned long	hHUSDoI	=	0;
  double FD1_kZ = 154033894;
@@ -82,7 +82,7 @@ int main(void)
   unsigned int  Pi3A8e27j  =  0;
 	unsigned short	Y6VR24L	=	(unsigned short)-1041749825;
 	char	f1n1e	=	(char)156447759;
- short int PY3N5 = -252038367;
+ short int PY3N5 = (short)-252038367;
     unsigned char    VD1s    =    685604247;
 	long long	UN_F	=	738722090;
  unsigned short int i50S4YyP = (unsigned short)-28355060;

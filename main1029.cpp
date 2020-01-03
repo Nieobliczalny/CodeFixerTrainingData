@@ -53,7 +53,7 @@ int main() {
   short int  zHTn3  =  (short)307435882;
     short    K336    =    (short)-1131598150;
  unsigned short WzHg1TR = (unsigned short)-2129731101;
-	char	AJKZT9U	=	420965849;
+	char	AJKZT9U	=	(char)420965849;
     long double    B3pIjG62    =    -231357937;
 	unsigned long	da6_	=	1599257246;
 	long double	Nlbm2v	=	-1629281672;
@@ -100,7 +100,7 @@ int main() {
 	unsigned short int	G7f46790w3	=	(unsigned short)1737696256;
 	long	Z6T4722rh	=	-912907442;
     double    z1w8IhgN55    =    -250337568;
-	short	V8R9_Jo6DY	=	1983092174;
+	short	V8R9_Jo6DY	=	(short)1983092174;
  unsigned long j31x0AU8w = -1802445951;
   unsigned char  i4tTbk8  =  (unsigned char)2077264728;
   unsigned long  nnyxlZ  =  -350078711;
@@ -129,7 +129,7 @@ int main() {
   short  f9YdHr  =  (short)1322682958;
 	char	xHBGX8uF	=	(char)1798109829;
 
-std::cout << "E2_dFwB289" << FFd8Mtnp0 << pfX_oF << iWRnb0U0X4(1858510134, 418705693, w80Ia8) << std::endl;
+std::cout << "E2_dFwB289" << FFd8Mtnp0 << pfX_oF << iWRnb0U0X4(1858510134, (unsigned short)418705693, w80Ia8) << std::endl;
 if (M0b_ == 0)
 {
 	FikvM9 = 1940296302 / M0b_;

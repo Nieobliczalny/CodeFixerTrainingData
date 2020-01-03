@@ -339,7 +339,7 @@ case 3:
 tM_Ji += 749989090;
 break;
 case 4:
-lBXs = KMH20w26((short)-131274068, 1321751310, oXGn, -457470413);
+lBXs = KMH20w26((short)-131274068, (unsigned short)1321751310, oXGn, -457470413);
 break;
 default:
 Sv58490A3j += l_9_;

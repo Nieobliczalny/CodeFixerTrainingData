@@ -28,7 +28,7 @@ int main()
   double  uQq8  =  -697974447;
  unsigned char C_a72v = (unsigned char)870907852;
     short    Gu550SKXJa    =    (short)1066711608;
-	short int	gTttX	=	-1837197079;
+	short int	gTttX	=	(short)-1837197079;
  short vAcmcpla = 0;
     short int    wYk17    =    (short)-1194468775;
   unsigned long  u3w2Hb  =  -2088534641;
@@ -47,7 +47,7 @@ int main()
   unsigned int  l__5m8uk7b  =  -775002401;
     unsigned short int    LPJ9fgVAb9    =    (unsigned short)-1059512762;
 	unsigned short int	V050qH	=	(unsigned short)202052631;
- short JfZ7 = -466389428;
+ short JfZ7 = (short)-466389428;
     unsigned int    MvdD__QZ    =    -721411813;
  char ycA4LkvWP9 = (char)1631794736;
   unsigned short  y2GBE  =  1728533479;

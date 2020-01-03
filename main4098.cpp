@@ -66,7 +66,7 @@ int main(void) {
     float    f35XAon80m    =    1567583627;
   char  oBa3dkB  =  (char)906486652;
  short int Q_BHIH1u5 = (short)895954759;
-    short int    vAzM3Hq    =    1872113122;
+    short int    vAzM3Hq    =    (short)1872113122;
     char    A_s49    =    0;
     long    bM0nY69VWc    =    1959746505;
 	long	q1Xh6J	=	1952323951;
@@ -95,7 +95,7 @@ int main(void) {
 	int	WlK8_f2E	=	-742243163;
     unsigned short int    TxvTzVS2    =    (unsigned short)-698579873;
   char  B13h  =  (char)2073339552;
- unsigned short int C2fs23VR = 1610509031;
+ unsigned short int C2fs23VR = (unsigned short)1610509031;
   int  KrE4B  =  -820934030;
  int l13GGX_G_U = 544141814;
 	unsigned long	IXfqQ6At	=	-783542521;
@@ -135,7 +135,7 @@ case 'g':
 qSe_2 = M_0i(qSe_2, (unsigned short)-1032055626, nsC_, (short)383080685, (short)-956497488);
 break;
 default:
-B0J49L = P387cH6x(B0J49L, (unsigned char)-992784310, 92143554);
+B0J49L = P387cH6x(B0J49L, (unsigned char)-992784310, (unsigned short)92143554);
 break;
 }
 }

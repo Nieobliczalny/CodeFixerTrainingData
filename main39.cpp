@@ -23,7 +23,7 @@ int main(void)
 	double	Hd2mb3dG	=	1852895496;
     char    Pi82_P    =    (char)1978358771;
  unsigned char ci2tpY = (unsigned char)-1021431419;
- short ss18 = 979115195;
+ short ss18 = (short)979115195;
     float    tYIT88K    =    366191516;
  float Svx5XO = 1148692067;
 	char	m1_maNC7l	=	(char)-1638624036;

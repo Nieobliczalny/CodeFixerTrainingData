@@ -606,7 +606,7 @@ case 5:
 Rlg6E2 = JO8983kez2(1548593596, (char)1630095956, (unsigned short)423665537, (short)-1489007965, 1149674212);
 break;
 case 6:
-Rlg6E2 = JO8983kez2(zhJe5CTx, (char)-990202090, 886522977, X185G32, 638452797);
+Rlg6E2 = JO8983kez2(zhJe5CTx, (char)-990202090, (unsigned short)886522977, X185G32, 638452797);
 break;
 case 7:
 X55Q9 = BOPP(X55Q9, s2X_am3q8);

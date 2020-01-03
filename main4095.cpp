@@ -41,7 +41,7 @@ int main() {
     unsigned short int    klAG    =    (unsigned short)1349863287;
   short  G_gNQ0x9NV  =  (short)-969263191;
 	long double	O657c700e	=	666473362;
-	unsigned short int	CNFC0lVF3M	=	-962434821;
+	unsigned short int	CNFC0lVF3M	=	(unsigned short)-962434821;
   unsigned char  jyj3w23d  =  (unsigned char)-1997865135;
   double  yu__z  =  2019260942;
 	float	W5_9mPD	=	1540785904;

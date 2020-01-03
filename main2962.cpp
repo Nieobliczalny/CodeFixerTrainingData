@@ -34,7 +34,7 @@ int main(int argc, char** argv)
 	long long	Tcc0Mx3	=	1191014218;
     short    f_75    =    (short)-896560742;
     unsigned char    ChD5R    =    (unsigned char)-538135602;
-	unsigned short int	qVxJaXw4l	=	-1034952644;
+	unsigned short int	qVxJaXw4l	=	(unsigned short)-1034952644;
 	long long	A2dJS	=	-463493439;
 	short int	uWN7kn	=	1975694423;
 	long double	v8wjzT	=	102345938;
@@ -65,7 +65,7 @@ int main(int argc, char** argv)
     double    gtdYe    =    -1923036899;
 	long double	B3Qz3ev	=	-962913662;
     short int    KH_9u21    =    (short)-640433574;
- unsigned char I0J2NLAO = 917408635;
+ unsigned char I0J2NLAO = (unsigned char)917408635;
  long mlJO65Y = 305609511;
 
 cout << "pkQ0Ffw" << bMtUQ_b << ga_H((unsigned short)292682130, KH_9u21) << endl;

@@ -539,7 +539,7 @@ case 1:
 d4n80b256 = (int)ceil(g71C9dSeor);
 break;
 case 2:
-hwDfy6_0k = nd33((unsigned char)1501511846, (unsigned short)-133357645, (unsigned short)325062346, 12646713, 1822558963);
+hwDfy6_0k = nd33((unsigned char)1501511846, (unsigned short)-133357645, (unsigned short)325062346, (char)12646713, 1822558963);
 break;
 case 3:
 ka4Wh = C9_WxNxcT9(ka4Wh, -653556007, 779591571, hSDoB3kw6S, tNF2_UpL7);

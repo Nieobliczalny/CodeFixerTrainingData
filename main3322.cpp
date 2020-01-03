@@ -45,7 +45,7 @@ int main(void)
   unsigned short  wCA0K_x_GR  =  (unsigned short)152987827;
     float    uipg_0C1pO    =    1699963920;
     unsigned char    TS8g_Gzq    =    (unsigned char)1322454570;
- unsigned short int D8e6 = 2009408202;
+ unsigned short int D8e6 = (unsigned short)2009408202;
 	unsigned int	E0z5CGk_	=	2100085504;
     short int    f310w9    =    (short)-811928186;
   unsigned long  ZmyYYs4  =  385881926;

@@ -233,7 +233,7 @@ case 1:
 GsK1au = gvUx7((unsigned short)-2082349258, (short)-2131166961, -12218154, -1847489161, x836);
 break;
 case 2:
-Z8c2d = gvUx7(APJS6zz, (short)2115036836, gu_2J8, -43763084, -66637803);
+Z8c2d = gvUx7(APJS6zz, (short)2115036836, gu_2J8, -43763084, (unsigned char)-66637803);
 break;
 case 3:
 LKUL5Z8_KP <<= 1165333468;
@@ -312,7 +312,7 @@ case 'd':
 XEWCHGh <<= Bt5TT_O_yg;
 break;
 case 'e':
-GsK1au = gvUx7(YVdM5, (short)1875504606, Mz3m_cM, 1914581118, -1861591440);
+GsK1au = gvUx7(YVdM5, (short)1875504606, Mz3m_cM, 1914581118, (unsigned char)-1861591440);
 break;
 case 'f':
 Z8c2d = gvUx7(eFcxTjQT, 1949072578, B1i2fG1, Sn0r2, 1871529426);

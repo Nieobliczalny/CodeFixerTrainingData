@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
   HLB9  =  (short)-927033360;
   hFt3  =  (short)1586577785;
   L_149SacM  =  (short)239799415;
-  f27c  =  -1951386198;
+  f27c  =  (short)-1951386198;
   ed1_  =  -1532781055;
   yUqyWA_  =  1988681081;
   mVkr9Bq  =  -900402977;
@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
   ii2F  =  (short)759776132;
   Zgx2d5_0Z  =  (short)1898210304;
   UF4K  =  (short)498400069;
-  KAZs6YM504  =  60189493;
+  KAZs6YM504  =  (short)60189493;
 
 {
 int i = 3;

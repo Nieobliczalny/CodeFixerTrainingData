@@ -47,7 +47,7 @@ int main()
     float    k20tB1    =    -623631506;
 	unsigned short int	wib40nRBG	=	0;
  unsigned char os7or = (unsigned char)1245103141;
-	short int	Nioth1PHmZ	=	1955292508;
+	short int	Nioth1PHmZ	=	(short)1955292508;
  unsigned char d475851 = (unsigned char)-1596548608;
   long double  B_6t  =  -632689790;
     int    My7Caf    =    -1147766603;
@@ -381,7 +381,7 @@ SO3yzrP0 = R_m1fw460 << DZs5yQL;
 }
 else if (GfwfmAi != -1794569147)
 {
-SO3yzrP0 = irLrb(SO3yzrP0, (unsigned char)484438239, (unsigned char)1397486970, 1659418902, -1622702537);
+SO3yzrP0 = irLrb(SO3yzrP0, (unsigned char)484438239, (unsigned char)1397486970, 1659418902, (char)-1622702537);
 }
 else
 {

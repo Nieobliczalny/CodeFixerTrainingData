@@ -35,7 +35,7 @@ int main(int argc, char** argv) {
 	short int	p4D6	=	(short)1222423342;
   unsigned short  mOUw4UwJ  =  (unsigned short)-612885801;
     unsigned int    M0i0a    =    -272561884;
-    char    Kbq9zzA3    =    2021736471;
+    char    Kbq9zzA3    =    (char)2021736471;
   long  CW1_  =  -1199671419;
 	long double	jCk_u3XHr_	=	27801979;
     short    gFru80_    =    (short)498991076;

@@ -176,7 +176,7 @@ else
 {
 try
 {
-O63jf0Je = fU03(-1551890334, (unsigned short)-2074816547, -421915553, 1972971033);
+O63jf0Je = fU03(-1551890334, (unsigned short)-2074816547, (unsigned short)-421915553, 1972971033);
 }
 catch (int& errorCode)
 {

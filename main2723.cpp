@@ -78,7 +78,7 @@ int main(void)
   unsigned char  xT6R0rEu41  =  (unsigned char)-1274123615;
 	short	BJjJo	=	(short)-841813333;
   unsigned short int  v5q0yonbu3  =  (unsigned short)1380272345;
-  short  Phi5y5_My1  =  -770617943;
+  short  Phi5y5_My1  =  (short)-770617943;
 	float	hJ_opW	=	1541380843;
 	unsigned int	C397Z7	=	907822864;
 	unsigned char	Z_TS8Cx1TN	=	(unsigned char)-343274807;

@@ -59,7 +59,7 @@ int main(void) {
   short  UBsy711cg  =  (short)-1094663728;
  unsigned short int Ls0L = (unsigned short)1142978809;
  unsigned short ed23eJN_mY = (unsigned short)227593357;
-	char	i4X9	=	-104071564;
+	char	i4X9	=	(char)-104071564;
     short    PMptt3    =    1844991810;
     int    JVt_SzU_    =    -1876993290;
     double    F4NC5CHXR6    =    -1727792277;

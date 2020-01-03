@@ -39,7 +39,7 @@ int main(void) {
   unsigned char  OwkUD  =  (unsigned char)-1001191126;
     float    Y482_m0    =    -1633887943;
   unsigned int  nrLM_2B  =  1627789964;
-	unsigned short int	Mx9wg8l9Pf	=	-1878798967;
+	unsigned short int	Mx9wg8l9Pf	=	(unsigned short)-1878798967;
     long double    r3iM    =    -752345915;
   long  WPEufIcQ6  =  1788372806;
   int  Y2_7Km8  =  -1375433799;

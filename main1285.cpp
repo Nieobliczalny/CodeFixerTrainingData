@@ -202,7 +202,7 @@ else
 std::cout << w94m1lZvsc(M0lcpo1, B0b5e) << dcnYTe0_ns((unsigned char)1106116890, -1501657600, (char)1000471220) << XDobJK(-1499298330, B0b5e, (short)1441915629) << w94m1lZvsc(-295994338, (short)-1220411320) << std::endl;
 }
 
-uI66659F = dcnYTe0_ns(-451581803, 1636366296, 541945475) / B0b5e;
+uI66659F = dcnYTe0_ns((unsigned char)-451581803, 1636366296, 541945475) / B0b5e;
 
 vXM2k1F = (unsigned long)(Y_rBktrC9);
 WvjRrgcr6 = XDobJK(-1341494294, vXM2k1F, (short)-1846509581);

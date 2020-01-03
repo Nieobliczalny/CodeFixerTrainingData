@@ -28,7 +28,7 @@ int main(void)
   long long  Ma_g9uNt  =  -196478129;
     char    gQZR67    =    (char)1243537397;
 	unsigned char	lKDvAB	=	(unsigned char)1432527735;
- unsigned short int nGt_ = -1517361035;
+ unsigned short int nGt_ = (unsigned short)-1517361035;
  float jOc96eYyt = 280774100;
     short int    fppq_fPrXr    =    (short)260762456;
 	short	chIKAY	=	(short)-1367351561;
@@ -53,7 +53,7 @@ int main(void)
   long double  Fku2D90  =  -378925315;
  short int MayY = (short)-498895025;
  int VY357k607 = -922689488;
-    short    Ju46    =    -2106990080;
+    short    Ju46    =    (short)-2106990080;
  float P7w8N3a = 1735005370;
  long long F_oe = 242674222;
 	unsigned short	V40A2My5	=	(unsigned short)-567451652;

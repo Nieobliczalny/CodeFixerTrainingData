@@ -69,7 +69,7 @@ int main(int argc, char** argv) {
   short int  M75RjvVH  =  (short)1425029942;
  float d87DE = 2025671663;
   short int  CBLy4aDn8X  =  (short)1205541906;
-  unsigned short  mfpLNX0_9  =  -794567793;
+  unsigned short  mfpLNX0_9  =  (unsigned short)-794567793;
   unsigned int  R7D6Lgk  =  1549560085;
  unsigned short iGV8o = -686315884;
   unsigned short  z9k5AniW  =  0;

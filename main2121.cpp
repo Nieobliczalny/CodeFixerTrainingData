@@ -41,7 +41,7 @@ int main(void)
     short    p4Pj_1V    =    (short)-2131666854;
     long    Tzo399T8I    =    -1270531166;
  short r5Z_A0F = (short)-1494423944;
-  short int  UW6aB  =  1250271945;
+  short int  UW6aB  =  (short)1250271945;
  float C5N55CgvSl = -1051442454;
   long double  g3r1W77  =  2060164129;
     double    I9_T13    =    -1770104248;

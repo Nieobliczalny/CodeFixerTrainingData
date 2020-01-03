@@ -263,7 +263,7 @@ case 2:
 VJ2Ec15Q8C = xQi46((unsigned short)1084590885, C0oq4x, (short)-1605676254, i5IW0y, (short)-1761235472);
 break;
 case 3:
-EO4azv = kNoFKBjt(-2086180096, 133220896);
+EO4azv = kNoFKBjt((unsigned short)-2086180096, 133220896);
 break;
 case 4:
 UBFq6xxO7 = (int)abs(AZmx);

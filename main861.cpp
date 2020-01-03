@@ -44,7 +44,7 @@ int main(int argc, char** argv) {
     long long    cCTV5m5m    =    -1099918052;
     unsigned int    YuvAsR    =    1677386667;
     short int    P5RG    =    (short)-5602414;
-	short int	sjwcP	=	-730888194;
+	short int	sjwcP	=	(short)-730888194;
   unsigned short  vQgu4selL  =  (unsigned short)360522789;
     int    Vva_XD_    =    -1901366272;
 	float	x24gk	=	305714291;

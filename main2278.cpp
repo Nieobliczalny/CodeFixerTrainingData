@@ -243,7 +243,7 @@ JL279WR = (g6D_J >= v6Co) ? ww684u4BlF : 1377029146;
 }
 else if (JK0QevZ2Kb == -957621229)
 {
-v6Co = c6uKvk(pvH50uzr, -432603015, -2121270992);
+v6Co = c6uKvk(pvH50uzr, (short)-432603015, -2121270992);
 }
 else if (JK0QevZ2Kb > JL279WR)
 {

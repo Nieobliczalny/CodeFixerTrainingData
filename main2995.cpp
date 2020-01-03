@@ -41,7 +41,7 @@ int main(int argc, char** argv)
   unsigned char  c4as  =  (unsigned char)1417635089;
  short h2hWY3 = (short)1309515882;
 	unsigned long	gD_Dt05	=	-1029682014;
-  unsigned short  LDc6X4C7O6  =  1266735382;
+  unsigned short  LDc6X4C7O6  =  (unsigned short)1266735382;
     double    yJ1q    =    246927970;
 	short	u81cC86	=	(short)-121130281;
   unsigned long  o7Fc9  =  -1307097941;
@@ -64,7 +64,7 @@ int main(int argc, char** argv)
 	short	VC88ncz1l_	=	(short)-4694226;
   unsigned int  bY7_9Ds_0q  =  -1414081617;
  short BN80Kn = (short)-563376144;
-    unsigned short    sBp_ib6197    =    329906477;
+    unsigned short    sBp_ib6197    =    (unsigned short)329906477;
   long double  X7b6mhK2Si  =  -1930544829;
   unsigned char  bgPI  =  (unsigned char)642296728;
  long hc2238 = 845671548;

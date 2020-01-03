@@ -75,7 +75,7 @@ int main(int argc, char** argv)
     unsigned long    KMcpD    =    -982356582;
 	unsigned char	c61u_FTS	=	(unsigned char)-912775432;
     unsigned long long    QYJ7HA    =    1491966823;
-    unsigned char    wO9__n    =    -923306034;
+    unsigned char    wO9__n    =    (unsigned char)-923306034;
  unsigned long GYZl_H2t5 = -1960995750;
 	unsigned short	YXaQ5T	=	(unsigned short)-1889405926;
   short  Ikkv  =  (short)-619031302;
@@ -120,7 +120,7 @@ int main(int argc, char** argv)
     unsigned short    p8Xn    =    (unsigned short)-5528855;
 	short int	z50y	=	(short)200782835;
  char BZIuP2 = (char)1770367006;
-    unsigned char    uzpSWon    =    -1877859748;
+    unsigned char    uzpSWon    =    (unsigned char)-1877859748;
 	double	jqSop	=	1436236944;
  unsigned char QTiRX9f = (unsigned char)2017251115;
 	unsigned long	d2l_0U2_4P	=	-1960967137;

@@ -61,7 +61,7 @@ vN52I3T2 = V0MRkg4mE(-1832628549, 1284999458, l629x7PG0T, (short)-633610374, -15
 }
 else if (((DQ3qx) || (vN52I3T2 > l629x7PG0T)) && (dt5diVS2 == vN52I3T2))
 {
-dt5diVS2 = ATj3UQZGeG((char)-365888738, (unsigned short)-1525866571, 998964568, vN52I3T2, -447648579);
+dt5diVS2 = ATj3UQZGeG((char)-365888738, (unsigned short)-1525866571, (char)998964568, vN52I3T2, -447648579);
 }
 else
 {

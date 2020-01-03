@@ -157,7 +157,7 @@ if (Y0GUjq6 & nJP5uj_6s)
 switch (fhxO)
 {
 case 'a':
-Y0GUjq6 = eh8_DnX4s(Y0GUjq6, (short)90486882, E9RKVMj, 956345303, ySP_);
+Y0GUjq6 = eh8_DnX4s(Y0GUjq6, (short)90486882, E9RKVMj, (char)956345303, ySP_);
 break;
 case 'b':
 ySP_ = I7d0q((unsigned short)-1024641664);

@@ -56,7 +56,7 @@ int main(int argc, char** argv)
  char SaBu5Po4m1 = (char)753934716;
  unsigned char a19_8PKy = (unsigned char)-1032455153;
   unsigned short int  I1H78gl3cC  =  (unsigned short)-987039676;
-    unsigned short    xN6p1CW    =    -850511423;
+    unsigned short    xN6p1CW    =    (unsigned short)-850511423;
  unsigned long long hNS_ = 927467286;
  short int vMGPd0D = (short)-85300376;
   unsigned long long  R7NjY4  =  519500090;

@@ -54,7 +54,7 @@ int main(void) {
   short  PM1VOgz51  =  (short)1991069811;
  short whg9 = 0;
  unsigned char KrEY = (unsigned char)541138347;
-    unsigned char    j3jhp    =    676613130;
+    unsigned char    j3jhp    =    (unsigned char)676613130;
   unsigned char  ayS28  =  (unsigned char)2085685439;
   short  uFD23_65i1  =  228216110;
     long long    e3Swtb7oD0    =    -664176031;

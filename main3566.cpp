@@ -27,7 +27,7 @@ int main(int argc, char** argv)
 	unsigned int	JsKj	=	-1838526414;
  unsigned short int cJIw = (unsigned short)-1684286545;
 	long long	y06_J	=	752745749;
-  short int  v4_358  =  -1004267424;
+  short int  v4_358  =  (short)-1004267424;
     unsigned short    U9xZsrc    =    1599251783;
     short    PYt45feH    =    (short)1704567065;
     long double    gF3m    =    74237782;

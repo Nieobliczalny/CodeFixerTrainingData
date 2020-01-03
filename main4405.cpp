@@ -368,7 +368,7 @@ case 'c':
 s1U4wc = a_CO((short)892852010, jcd___4, EaWxd, (short)-742552333);
 break;
 case 'd':
-s1U4wc = a_CO((short)1366611882, 1652288871, 1417764982, 860360738);
+s1U4wc = a_CO((short)1366611882, 1652288871, 1417764982, (short)860360738);
 break;
 case 'e':
 s1U4wc = a_CO(X2tU4, t91VQk67, 566503670, WKRS);

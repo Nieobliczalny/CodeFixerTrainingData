@@ -335,7 +335,7 @@ e9Dj = fThZjh1(-14079466, (short)2072475384, (short)-800897759, (unsigned char)4
 }
 else
 {
-std::cout << gG0jrRK << fThZjh1(-1013194417, (short)205969478, (short)-931957714, 1578547816, -759548331) << p4J1 << "iQE1" << std::endl;
+std::cout << gG0jrRK << fThZjh1(-1013194417, (short)205969478, (short)-931957714, (unsigned char)1578547816, -759548331) << p4J1 << "iQE1" << std::endl;
 }
 
 switch (BAO56Rpcc)

@@ -290,7 +290,7 @@ break;
 }
 
 YaQ1ujdlY3 = Pa3E9e((unsigned short)-21940240, (short)-174329340, YaQ1ujdlY3);
-v0zVF___ = Pa3E9e((unsigned short)-191572244, pWiJ, (char)1473751987) / Pa3E9e((unsigned short)-991077943, 694781036, YaQ1ujdlY3);
+v0zVF___ = Pa3E9e((unsigned short)-191572244, pWiJ, (char)1473751987) / Pa3E9e((unsigned short)-991077943, (short)694781036, YaQ1ujdlY3);
 
 j56H7 = (long)(X38CZ08T);
 if (E1GDli4 > m6FWi)

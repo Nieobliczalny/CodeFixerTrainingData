@@ -80,7 +80,7 @@ int main(int argc, char** argv)
     unsigned short    Zvp6351    =    (unsigned short)-1261042493;
  char llG98r = (char)1641167768;
  unsigned long long yLIjw = -1593730801;
-	short	sdKW98	=	299284410;
+	short	sdKW98	=	(short)299284410;
     unsigned int    L68ykh    =    138644469;
     long double    OOXoDcDXw    =    -1607233813;
 	unsigned char	UC0s	=	(unsigned char)695124900;

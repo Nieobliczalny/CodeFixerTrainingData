@@ -122,7 +122,7 @@ break;
 --i;
 }
 }
-cout << QlXDwvG1(TGC_p43Ie6, -2050048125, szM6dF7, (short)-833488994, (unsigned char)2066560676) << QlXDwvG1((unsigned char)1546802043, 1772075859, szM6dF7, fMCk5cJt5e, (unsigned char)1050801106) << h48a(-1771957076, 1838978204, szM6dF7, 669087594, e_2h09) << endl;
+cout << QlXDwvG1(TGC_p43Ie6, -2050048125, szM6dF7, (short)-833488994, (unsigned char)2066560676) << QlXDwvG1((unsigned char)1546802043, 1772075859, szM6dF7, fMCk5cJt5e, (unsigned char)1050801106) << h48a((short)-1771957076, 1838978204, szM6dF7, 669087594, e_2h09) << endl;
 
 zt_HuE = bA7Y(zt_HuE, u6QIS9YiTq, bzTMPil4T, 696592862, -1869594014);
 cout << CD5nmJ << dF6h19__E(zt_HuE, u6QIS9YiTq, -146538911) << "g4hP01_4" << "lKR69_Mt" << endl;
@@ -199,7 +199,7 @@ else if (szM6dF7 != V59ct25)
 {
 try
 {
-V59ct25 = bA7Y(-408448154, (unsigned short)270222703, -487853834, (unsigned short)-2129688755, -1300934985);
+V59ct25 = bA7Y(-408448154, (unsigned short)270222703, -487853834, (unsigned short)-2129688755, (short)-1300934985);
 }
 catch (int& errorCode)
 {

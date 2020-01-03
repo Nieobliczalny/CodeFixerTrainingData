@@ -28,7 +28,7 @@ int main(void)
     m43gCa5o    =    (unsigned short)-254835419;
     U10Ue0000    =    (unsigned short)1761191919;
     UKp4c59J1    =    (unsigned short)-988036844;
-    V0__0    =    -2100560104;
+    V0__0    =    (unsigned short)-2100560104;
     NeNvY_m    =    -288495275;
     JSCYheMS8g    =    1806716740;
     K3lvc    =    -1997927630;
@@ -38,7 +38,7 @@ int main(void)
     cng8sN    =    (unsigned short)992197799;
     iE79W7    =    (unsigned short)602077116;
     qmAQn    =    (unsigned short)1734972151;
-    fnF420L    =    658910326;
+    fnF420L    =    (unsigned short)658910326;
     q_YS7J    =    -1572242552;
     Gp0v5K9sHp    =    -637533257;
     Pd34iOe    =    582501205;
@@ -48,7 +48,7 @@ int main(void)
     p6W2s8jKf    =    (unsigned short)255394561;
     q88K595X    =    (unsigned short)332797679;
     ZDz3z22    =    (unsigned short)-1487007554;
-    Fx8L1Y    =    -2133491783;
+    Fx8L1Y    =    (unsigned short)-2133491783;
     OEl0    =    2072895625;
     xz8z59V8    =    1530028794;
     j6gAVJu    =    -824295934;
@@ -58,7 +58,7 @@ int main(void)
     LZSC_k8    =    (unsigned short)2106931963;
     PjO4AkE8S    =    (unsigned short)-1434579832;
     gz7UISg    =    (unsigned short)-292114421;
-    K73Zjwl    =    -669653736;
+    K73Zjwl    =    (unsigned short)-669653736;
     Lx99qfjdH    =    1602547356;
     n9_2z90G5B    =    1138418942;
     U55yD_dVX    =    2146889871;
@@ -68,7 +68,7 @@ int main(void)
     x3Hda2_    =    (unsigned short)-915249302;
     V14_    =    (unsigned short)-1135783418;
     v78ums5Mo    =    (unsigned short)-1620790504;
-    WhKL7LkMO    =    246195497;
+    WhKL7LkMO    =    (unsigned short)246195497;
     S8g1R9uS    =    -1974540517;
     B97c    =    409184923;
     l05C_    =    822745289;
@@ -78,7 +78,7 @@ int main(void)
     tCC96_    =    (unsigned short)389592261;
     LGe3_61j    =    (unsigned short)1345700854;
     F4ZM36Qm9X    =    (unsigned short)1786954395;
-    Jug2i    =    -1285620910;
+    Jug2i    =    (unsigned short)-1285620910;
     SN9U8h    =    1998683512;
     ApeCi3NH0    =    123469077;
 

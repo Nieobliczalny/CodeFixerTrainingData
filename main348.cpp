@@ -196,7 +196,7 @@ while (i < 2);
 }
 
 wR5OP29J46 = (int)floor(XprCvt6nK);
-cout << KDJ7pU8fXN((unsigned char)1425814291, veGjx, (unsigned char)1232809865, AZWu3c6) << KDJ7pU8fXN((unsigned char)1761375469, veGjx, M9Ac, AZWu3c6) << "I6FsQ62" << KDJ7pU8fXN((unsigned char)73276216, veGjx, (unsigned char)-2015879266, -37487892) << endl;
+cout << KDJ7pU8fXN((unsigned char)1425814291, veGjx, (unsigned char)1232809865, AZWu3c6) << KDJ7pU8fXN((unsigned char)1761375469, veGjx, M9Ac, AZWu3c6) << "I6FsQ62" << KDJ7pU8fXN((unsigned char)73276216, veGjx, (unsigned char)-2015879266, (unsigned char)-37487892) << endl;
 
 X4kUYO = (double)(kl4B3Im02X);
 for (int i = 0; i < 3; i++)
@@ -370,7 +370,7 @@ Q4DdwV7_ns = KDJ7pU8fXN((unsigned char)-939213859, (unsigned char)-89093295, AsO
 }
 else if (q2tb2MT)
 {
-MTTX = KDJ7pU8fXN((unsigned char)-1488057381, (unsigned char)-431796611, 992953869, 1576841802);
+MTTX = KDJ7pU8fXN((unsigned char)-1488057381, (unsigned char)-431796611, (unsigned char)992953869, 1576841802);
 }
 else if (JfJJ8vv < Mj2F)
 {
@@ -410,7 +410,7 @@ try
 {
 for (int k = 1; k >= 0; --k)
 {
-z6G1H8XAM5 = KDJ7pU8fXN((unsigned char)828764131, veGjx, (unsigned char)-1284506601, -970811847);
+z6G1H8XAM5 = KDJ7pU8fXN((unsigned char)828764131, veGjx, (unsigned char)-1284506601, (unsigned char)-970811847);
 }
 }
 catch (int& errorCode)
@@ -552,7 +552,7 @@ E_TwTrpk = KDJ7pU8fXN((unsigned char)1244174009, r5_8_Vtfb, (unsigned char)-6829
 }
 else
 {
-RZ1URx6y = (Y_F540j > -381458378) ? KDJ7pU8fXN(UX8J2md35, (unsigned char)-1411046417, (unsigned char)974210171, 2097669547) : z6G1H8XAM5;
+RZ1URx6y = (Y_F540j > -381458378) ? KDJ7pU8fXN(UX8J2md35, (unsigned char)-1411046417, (unsigned char)974210171, (unsigned char)2097669547) : z6G1H8XAM5;
 }
 }
 catch (int& errorCode)
@@ -585,7 +585,7 @@ case 1:
 MTTX = KDJ7pU8fXN((unsigned char)-1718456826, OuY6N1, (unsigned char)-1067791941, (unsigned char)-1244557572);
 break;
 case 2:
-MTTX = KDJ7pU8fXN(ff_6T, Y_F540j, q2tb2MT, 1323748564);
+MTTX = KDJ7pU8fXN(ff_6T, Y_F540j, q2tb2MT, (unsigned char)1323748564);
 break;
 case 3:
 E_TwTrpk = KDJ7pU8fXN(-100815349, -1133228, -111864556, -771321341);

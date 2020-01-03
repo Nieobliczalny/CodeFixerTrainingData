@@ -46,7 +46,7 @@ int main(int argc, char** argv)
 	char	b9Z35Twk	=	0;
   unsigned short  c304  =  (unsigned short)-1560790822;
  unsigned char T6kuN = (unsigned char)1094754680;
-  short  mXl365  =  -1255169514;
+  short  mXl365  =  (short)-1255169514;
  unsigned int Wc_Tp = -1950594303;
 	char	Hv9n_L	=	(char)2034562974;
     short    T_RnL_lnv    =    136588342;
@@ -59,7 +59,7 @@ int main(int argc, char** argv)
   unsigned short  WiE95  =  (unsigned short)241800719;
     unsigned short int    Y512Se5A_    =    (unsigned short)-129087712;
 	char	yB8_29KOt	=	(char)-1190235580;
-    short    Us14J58hxm    =    -43557962;
+    short    Us14J58hxm    =    (short)-43557962;
   char  Xpv_4Kvb  =  -1889185004;
 	unsigned short int	y80sJE5w5q	=	-933136723;
   unsigned short  ZYbkmO  =  -343356103;

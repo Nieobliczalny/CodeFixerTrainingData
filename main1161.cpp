@@ -26,7 +26,7 @@ int main(void)
     long    mmQ4z    =    -1382773765;
   unsigned short int  crXzSN6J  =  (unsigned short)-492454194;
 	short int	PBnq	=	(short)-972497304;
-	short int	J5HzP30m	=	569292447;
+	short int	J5HzP30m	=	(short)569292447;
 	long	h0M_GuU4	=	180171993;
 	unsigned short int	em47	=	-1245094068;
     unsigned short    LRlX13gMo    =    -1550964817;

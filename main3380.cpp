@@ -60,7 +60,7 @@ cout << Z0TVo << "UE4c" << EsH2_2k69x << C72Z1((unsigned short)-1535963917, Rg19
 Q0jVdsqv7q = U8_m0(P_9ZdSD_5, sNfeGQE4ZV);
 
 Z0TVo = (unsigned short)(nNMz);
-WhUz2 = C72Z1(WhUz2, (unsigned short)1885074821, sNfeGQE4ZV, 236615667, -1920414795);
+WhUz2 = C72Z1(WhUz2, (unsigned short)1885074821, sNfeGQE4ZV, 236615667, (short)-1920414795);
 cout << "qatGX0U_" << "UYNit7" << "UmR3LQI6_" << C72Z1(WhUz2, Rg19yn62, 373364283, sVFkFTFL, Z0TVo) << EsH2_2k69x << endl;
 
 try
@@ -155,7 +155,7 @@ FMoy_1Sp = C72Z1(Q0jVdsqv7q, (unsigned short)927264679, (unsigned short)15371138
 switch (Rg19yn62)
 {
 case 0:
-FMoy_1Sp = C72Z1((unsigned short)-715025320, n589, (unsigned short)-1721268538, Rg19yn62, 382825814);
+FMoy_1Sp = C72Z1((unsigned short)-715025320, n589, (unsigned short)-1721268538, Rg19yn62, (short)382825814);
 break;
 case 1:
 v5j72c3A = U8_m0(1994143301, n589) >> sVFkFTFL;
@@ -351,7 +351,7 @@ case 1:
 UQdX = C72Z1(FMoy_1Sp, (unsigned short)905319930, (unsigned short)-1861066561, -408700720, (short)-1157523676) << 992242070;
 break;
 case 2:
-yK32UZS_8a = C72Z1(520413801, -77639326, -1332714414, EsH2_2k69x, ML799jz);
+yK32UZS_8a = C72Z1((unsigned short)520413801, -77639326, -1332714414, EsH2_2k69x, ML799jz);
 break;
 case 3:
 UQdX = (int)abs(FMoy_1Sp);
@@ -544,7 +544,7 @@ return 0;
 }
 
 unsigned short int PlnX9xpQ9f(short QS_2tlx,unsigned char Q_17Ia4g) {
- return 1485653813;
+ return (unsigned short)1485653813;
 }
 
 char  C72Z1(unsigned short  BN154KM,unsigned short int  ZsC9L4CQo0,unsigned short  e34H6,long  xl6AAS,short int  WFe3krA)  {

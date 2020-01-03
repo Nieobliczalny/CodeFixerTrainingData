@@ -49,7 +49,7 @@ int main(void) {
     short    Y9Bh_q    =    (short)-124016116;
     short    JSxN4R4    =    (short)-1664347147;
  short B__8G = (short)394247172;
- char BXLrk3jkh = -1357304346;
+ char BXLrk3jkh = (char)-1357304346;
   long long  YV2P  =  -118365290;
 	unsigned long long	zzg2FOm88	=	800155231;
 	int	PM9jZ2e25f	=	-76905139;

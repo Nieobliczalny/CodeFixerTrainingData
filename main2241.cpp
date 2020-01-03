@@ -20,7 +20,7 @@ int main()
 	oWJjD	=	(char)12652588;
 	jEiQ	=	(char)-1903946345;
 	Ka_0W1Ptt	=	(char)1681317633;
-	w3MX8	=	-1850046174;
+	w3MX8	=	(char)-1850046174;
 	c_nZaw	=	-551725673;
 
 {

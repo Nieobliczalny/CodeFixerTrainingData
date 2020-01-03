@@ -42,7 +42,7 @@ int main(void) {
  char r5QzC = (char)1071864606;
  long AId54_O = -73829547;
 	long long	Wav8iJW	=	1227752942;
-	unsigned char	m378oBVafF	=	2105332800;
+	unsigned char	m378oBVafF	=	(unsigned char)2105332800;
  double O6O5_s8 = 1713013325;
 	unsigned short	rY0bNJ2sU	=	(unsigned short)1280826189;
  long double w9mrn_ = -1624566941;

@@ -95,7 +95,7 @@ std::cout << M2pxr5X4it((unsigned short)805151632, K4vT2172, c4ShK5_l2, (unsigne
 }
 std::cout << M2pxr5X4it(dKTS06, -497185104, c4ShK5_l2, (unsigned char)-1036933274, (char)312660862) << QdT9() << DHPJn7j << std::endl;
 
-Vj07 = gId0uW_vyD((short)-1562541257, -842145308, 1672233935);
+Vj07 = gId0uW_vyD((short)-1562541257, (unsigned short)-842145308, 1672233935);
 try
 {
 {
@@ -128,7 +128,7 @@ case 3:
 R3hWsmr = M2pxr5X4it((unsigned short)-1900518169, sNuR, En2zR, (unsigned char)1526512196, (char)-314705187);
 break;
 case 4:
-J23VZ8n6C = gId0uW_vyD(966720292, K4vT2172, -799863160);
+J23VZ8n6C = gId0uW_vyD((short)966720292, K4vT2172, -799863160);
 break;
 case 5:
 X_0M33nY6 = M2pxr5X4it(X_0M33nY6, 1186872531, 1437231680, (unsigned char)-732923197, -1998087575);

@@ -221,7 +221,7 @@ y6sP = (long long)(EkLv2N1iI + (1736315748));
 
 std::cout << aCePV((unsigned short)253203924, y6sP, (char)-428919188, mPuQc_) << sr1Ml4C << W8PN << aCePV((unsigned short)-1742028137, 190106998, (char)-1566013574, (unsigned short)1129863325) << x6F3G << std::endl;
 
-std::cout << W8PN << aCePV(e28zg, y6sP, 1083193692, mPuQc_) << aCePV(e28zg, y6sP, -347236754, -1448838164) << mYgJb5QdAz << iP2Zn5x << std::endl;
+std::cout << W8PN << aCePV(e28zg, y6sP, (char)1083193692, mPuQc_) << aCePV(e28zg, y6sP, -347236754, -1448838164) << mYgJb5QdAz << iP2Zn5x << std::endl;
 if ((e28zg & Un6Eg) || ((k_bu8R458B & J5MvG) && (iwmL6 & vru2)))
 {
 if (Q0g9W764MK >= e668O4b)

@@ -25,7 +25,7 @@ int main(int argc, char** argv)
   b_SsN  =  (short)-1885804329;
   K402FW75om  =  (short)2036666964;
   k6del  =  (short)-1221835279;
-  NSxY  =  -1639669728;
+  NSxY  =  (short)-1639669728;
   lu6s8  =  -475818872;
   o201zCy  =  516346677;
   tus_Bj0  =  -1802129118;
@@ -35,7 +35,7 @@ int main(int argc, char** argv)
   x7Dx2  =  (short)1894210148;
   rwn7J2UM9  =  (short)-224746208;
   E5rC_i05  =  (short)-1879070821;
-  Efs1a  =  533272902;
+  Efs1a  =  (short)533272902;
   DivTw  =  1628088430;
   B_Lq  =  -764273543;
   xjBL702W  =  -303675426;
@@ -45,7 +45,7 @@ int main(int argc, char** argv)
   n51QHDYX  =  (short)-2067920280;
   iw2zkQq4l1  =  (short)-438417567;
   tc2_P_9  =  (short)-1785042763;
-  e2iwFgK  =  1316567333;
+  e2iwFgK  =  (short)1316567333;
   xoK4U7  =  -243958247;
   YxlbI8  =  -147767533;
   p5mf6l  =  -674609608;
@@ -55,7 +55,7 @@ int main(int argc, char** argv)
   wLym7RK59  =  (short)1647984362;
   x9aT  =  (short)-1772313269;
   LEGQ7hBUHm  =  (short)1429848909;
-  sF15_  =  -1313827330;
+  sF15_  =  (short)-1313827330;
   BXF9uPb1Z  =  -546256420;
   S1o60m96TJ  =  -518235456;
   gIwQ_4u6  =  -320752942;
@@ -65,7 +65,7 @@ int main(int argc, char** argv)
   E3V2pTW0_w  =  (short)-1401804312;
   v9tD  =  (short)-885563301;
   R5Sx  =  (short)1486473250;
-  H9J9w7  =  -694772736;
+  H9J9w7  =  (short)-694772736;
   Fd90Sw7  =  -1424978622;
   WVgSH0332X  =  -1150813034;
   L714m40  =  2127651454;
@@ -75,7 +75,7 @@ int main(int argc, char** argv)
   Ime7s2290t  =  (short)-281631367;
   zWs3GJFG5m  =  (short)354007675;
   FrG86l  =  (short)-1689765538;
-  ubKXB4wE3A  =  1581430912;
+  ubKXB4wE3A  =  (short)1581430912;
   loC1RYSW4  =  182682209;
   sKF_L_1  =  -131938979;
   c1ui3G  =  -1488069767;
@@ -85,7 +85,7 @@ int main(int argc, char** argv)
   c5Txfex  =  (short)1096427945;
   Ls2xgD  =  (short)-1526670716;
   HI8ysDcHx  =  (short)-703573757;
-  NLPRTIf9__  =  -866060317;
+  NLPRTIf9__  =  (short)-866060317;
   myJ0  =  602589464;
   JqRT88i8b  =  2044165807;
   H5iOa0i  =  -1089604576;

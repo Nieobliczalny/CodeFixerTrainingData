@@ -120,7 +120,7 @@ th95c2 = (int)ceil(xfx5p74);
 }
 else
 {
-std::cout << "BoT052nY60" << SG32mlV((unsigned short)729478276, (unsigned short)-96256969) << SG32mlV(xfx5p74, 1424986508) << "RpY5l_" << "KN8qBFnxx" << std::endl;
+std::cout << "BoT052nY60" << SG32mlV((unsigned short)729478276, (unsigned short)-96256969) << SG32mlV(xfx5p74, (unsigned short)1424986508) << "RpY5l_" << "KN8qBFnxx" << std::endl;
 }
 
 lG3v6zyR = (unsigned int)(mjUq + (2070562487));

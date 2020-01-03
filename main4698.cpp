@@ -32,7 +32,7 @@ int main() {
  short lEjEx665C = 0;
  unsigned short int iP13b7 = (unsigned short)832324968;
 	unsigned short int	i_aGL_z4	=	(unsigned short)853909937;
- unsigned short int QAhq9x4R = -2137600276;
+ unsigned short int QAhq9x4R = (unsigned short)-2137600276;
 
 try
 {

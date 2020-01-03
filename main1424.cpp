@@ -42,7 +42,7 @@ int main(void)
     unsigned short    L3u4_402d    =    (unsigned short)-946938289;
 	unsigned char	lritK9UM0Q	=	(unsigned char)872438155;
   float  i2KHAWcA  =  -29708884;
-    unsigned short    Ul5j9924J    =    2105913438;
+    unsigned short    Ul5j9924J    =    (unsigned short)2105913438;
  float KpV2prI43 = 273592447;
  long F_r9s = 1385206756;
     long    PAZKEo    =    247370753;

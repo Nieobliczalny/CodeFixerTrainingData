@@ -33,7 +33,7 @@ int main(int argc, char** argv) {
   unsigned char  BfH9OXNP7f  =  0;
   short  f1D5XXc  =  (short)1075245726;
   long double  X083dn_vJ  =  1018603482;
-	char	vDxdC3j8	=	-267497317;
+	char	vDxdC3j8	=	(char)-267497317;
  unsigned short CR0ZS5_p8_ = (unsigned short)1468438434;
     short int    AL79    =    (short)1464206214;
     long double    rV1dNJA7    =    -236102967;

@@ -23,7 +23,7 @@ int main(int argc, char** argv)
   char  H8L0_  =  (char)-2116798664;
   unsigned char  lzhqTxH  =  (unsigned char)907311007;
   long long  ZTvb9In1k  =  749841373;
-	unsigned short int	uFzp41_a1	=	-167884971;
+	unsigned short int	uFzp41_a1	=	(unsigned short)-167884971;
 	short int	YMGpz2Y8fg	=	1789529325;
   unsigned char  AIq_eU  =  -717471529;
  long long KWN2Q_qD63 = -358690905;
@@ -53,7 +53,7 @@ int main(int argc, char** argv)
  unsigned short M_Epi = 0;
 	unsigned short	w_80	=	(unsigned short)-1970371465;
 
-std::cout << DzhI_B(w_80, Vq_pJA42Tx) << wHPj3_1R << K0Q4 << DzhI_B(w_80, Vq_pJA42Tx) << DzhI_B((short)-1113337990, -1195381516) << std::endl;
+std::cout << DzhI_B(w_80, Vq_pJA42Tx) << wHPj3_1R << K0Q4 << DzhI_B(w_80, Vq_pJA42Tx) << DzhI_B((short)-1113337990, (short)-1195381516) << std::endl;
 
 if (YMGpz2Y8fg & 99726712)
 {

@@ -29,7 +29,7 @@ int main()
  QK5_U = (char)-1634678328;
  iRQT = (char)1884919272;
  Sv31Z = (char)-862777347;
- TqDq_r = -1197831106;
+ TqDq_r = (char)-1197831106;
  n23282 = 1077571111;
  g18_qH = -1341275923;
  Fj0p = -1672088509;
@@ -39,7 +39,7 @@ int main()
  Vp4OEdRla = (char)890567902;
  pK2X = (char)1647474411;
  Vi8J2maG = (char)-167744074;
- LPN_3 = -1141928920;
+ LPN_3 = (char)-1141928920;
  kz8_iIS = -433383246;
  rMR9xN = 1032399047;
  ZXqjAU = 1846112411;
@@ -49,7 +49,7 @@ int main()
  lovhT = (char)-170684608;
  DI_cK13H32 = (char)937524751;
  v_9so7s6 = (char)1412059767;
- yhjHxdY2 = -2045007434;
+ yhjHxdY2 = (char)-2045007434;
  G9vK6 = 1397531721;
  KlK5Z3JI07 = -1068565027;
  VHP7D = -608588989;
@@ -59,7 +59,7 @@ int main()
  g389l = (char)-1078664164;
  q4Wt = (char)47656662;
  OCC95Z_ = (char)-2049632498;
- MaLwt = 2065586774;
+ MaLwt = (char)2065586774;
  cvAJaPp_w8 = 1404378184;
  QDmMEsVXL0 = 873007949;
  Odw12 = -1745674367;
@@ -69,7 +69,7 @@ int main()
  KSIZui0WBK = (char)-892713582;
  LHHKg1MK7_ = (char)-2130780458;
  RDCe7y = (char)-1364637532;
- isvg9g = 791757290;
+ isvg9g = (char)791757290;
  dz720Zin94 = -1189357304;
  OPF09_f5o = -1667201911;
  v7Yb110 = -1401957836;
@@ -79,7 +79,7 @@ int main()
  syNnp_n = (char)-1331734153;
  rV75 = (char)213400078;
  vOdb = (char)-1853825834;
- N5mtr7b = 669129318;
+ N5mtr7b = (char)669129318;
  MQ0_dY198I = 521612146;
  wDmHfU = 1898415855;
  qOoVwY = -1882389457;
@@ -89,7 +89,7 @@ int main()
  x7I3U = (char)1735735290;
  Jfha = (char)2102669178;
  Yz3y5_f = (char)-1597348527;
- RA7odfE = 865624308;
+ RA7odfE = (char)865624308;
  Xp__eYrC9 = 1622538970;
  s1MRU41EcR = 1572555962;
  o1MT = 559423816;
@@ -99,7 +99,7 @@ int main()
  ECX_ = (char)-48775513;
  ETn3 = (char)244329448;
  TmZ9EL4k = (char)442179697;
- AiU5x = -346066146;
+ AiU5x = (char)-346066146;
  R_8x0gE = -1659686331;
  SLa4 = 1962612604;
  cm2V7Vs7 = 1715820107;
@@ -109,7 +109,7 @@ int main()
  vX53yAgg = (char)1136625267;
  eyUvZfo46 = (char)-676266772;
  V6wYgzi = (char)-219259652;
- l_RvZxRw0T = 1893257414;
+ l_RvZxRw0T = (char)1893257414;
  K7xiVa9 = -1898880190;
  V5Wa3zE9B = -1526599789;
  Geb30 = 1831181722;

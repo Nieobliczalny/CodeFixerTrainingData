@@ -433,7 +433,7 @@ cout << CLft596lyq << zxns0376e << P4wi0oJ(-777909903, (unsigned short)-95624827
 
 try
 {
-g2w0GPA8D = P4wi0oJ(C041e, (unsigned short)-84768277, (char)-820775390, -939271323, -770460734) >> 951942405;
+g2w0GPA8D = P4wi0oJ(C041e, (unsigned short)-84768277, (char)-820775390, (char)-939271323, -770460734) >> 951942405;
 }
 catch (int& errorCode)
 {
@@ -833,7 +833,7 @@ case 2:
 wCp9 = kOFz_90YQ((short)1210654598, h7oI);
 break;
 case 3:
-xjGgT44 = P4wi0oJ(849185142, (unsigned short)-653916365, 1184821129, N28CElL, zMrl0h7p58) - Bo__;
+xjGgT44 = P4wi0oJ(849185142, (unsigned short)-653916365, (char)1184821129, N28CElL, zMrl0h7p58) - Bo__;
 break;
 }
 }

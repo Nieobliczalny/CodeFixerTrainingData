@@ -33,7 +33,7 @@ int main()
   char  Y52g  =  (char)-1229748742;
     long    G2j7IY2_    =    0;
  unsigned char ust_6 = (unsigned char)-1813595027;
-  char  X12X2w8_  =  -1559250741;
+  char  X12X2w8_  =  (char)-1559250741;
   long double  UBlcG4l  =  1391487479;
     unsigned long long    gq_m    =    -1462615517;
 	short int	RD37g	=	(short)757838562;

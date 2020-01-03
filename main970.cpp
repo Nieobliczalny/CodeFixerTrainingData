@@ -371,7 +371,7 @@ case 7:
 h8qi2A = sc_w(h8qi2A, (unsigned char)1945095370, (unsigned short)-22145662, j2GHsb, 1183243603);
 break;
 case 8:
-h8qi2A = sc_w((short)1210274636, (unsigned char)1761606370, e0v5W7BN74, 1348132659, -1062166029);
+h8qi2A = sc_w((short)1210274636, (unsigned char)1761606370, e0v5W7BN74, (unsigned short)1348132659, -1062166029);
 break;
 default:
 h8qi2A = sc_w(h8qi2A, -1262111364, 1087250845, 146354674, j2GHsb);
@@ -509,7 +509,7 @@ case 2:
 h8qi2A = sc_w((short)-871668299, H5P_BW9iJd, (unsigned short)531150308, h8qi2A, 2144426418);
 break;
 case 3:
-Qd6_k = sc_w((short)-1366759209, Tn02i4tn, -131153855, -224471018, -574898572);
+Qd6_k = sc_w((short)-1366759209, Tn02i4tn, (unsigned short)-131153855, -224471018, -574898572);
 break;
 case 4:
 Qd6_k = sc_w((short)415582439, L33ih_u, (unsigned short)1674399988, 1875358933, 828902242);
@@ -570,7 +570,7 @@ case 'd':
 L33ih_u /= 2005240152;
 break;
 case 'e':
-Qd6_k = sc_w((short)1205261685, (unsigned char)561547712, -2079957368, Qd6_k, 523609509);
+Qd6_k = sc_w((short)1205261685, (unsigned char)561547712, (unsigned short)-2079957368, Qd6_k, 523609509);
 break;
 case 'f':
 Tn02i4tn++;
@@ -719,7 +719,7 @@ Qd6_k = sc_w(e0v5W7BN74, (unsigned char)1086225338, (unsigned short)570099365, O
 }
 else if (e0v5W7BN74 <= O7nRx62j6)
 {
-h8qi2A = sc_w(-1751474443, 1315289097, j2GHsb, O7nRx62j6, -2010420564);
+h8qi2A = sc_w((short)-1751474443, 1315289097, j2GHsb, O7nRx62j6, -2010420564);
 }
 else if (H5P_BW9iJd)
 {

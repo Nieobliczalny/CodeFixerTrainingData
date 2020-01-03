@@ -58,7 +58,7 @@ int main(void)
 	unsigned short int	ZzXTO_vnM_	=	(unsigned short)-599590807;
     double    rxC34l69Y1    =    -473144365;
 	unsigned short	SH0o	=	(unsigned short)1592183083;
-  unsigned char  nrAn8U8  =  -797175937;
+  unsigned char  nrAn8U8  =  (unsigned char)-797175937;
     float    ti6a8    =    493977718;
 	unsigned char	AG66g	=	(unsigned char)-1715765938;
 	double	Gds7c	=	1528233997;

@@ -53,7 +53,7 @@ int main()
  unsigned char uO8Ioendl = (unsigned char)1956150855;
  short e0Z6Y7C = (short)202589621;
 	short int	jxc3BB	=	(short)-1697315468;
-    short int    cf988    =    1540704336;
+    short int    cf988    =    (short)1540704336;
 	unsigned short	baDG9a	=	(unsigned short)-187237654;
  unsigned long long n_q7ARA = -1533870876;
     short    qDbqdb1    =    -804824318;

@@ -54,7 +54,7 @@ int main(void)
  short u2rcgFoomB = (short)342241483;
   short int  k56n  =  (short)512859428;
  unsigned long wq5g2dUq = 1797529247;
- char pZK3O2L0 = 1957951929;
+ char pZK3O2L0 = (char)1957951929;
  int YA39Q2e = -839152846;
 
 for (int i = 1; i >= 0; i--)

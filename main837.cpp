@@ -563,7 +563,7 @@ ftJZX9Flw = ylcR5TgZx((unsigned char)931739165, (short)1400179759, 1978824613, (
 
 if (JntbTr0 != C47L7)
 {
-ftJZX9Flw = ylcR5TgZx(kwM4m, (short)778693304, C47L7, -1404618189);
+ftJZX9Flw = ylcR5TgZx(kwM4m, (short)778693304, C47L7, (unsigned char)-1404618189);
 }
 
 return 0;

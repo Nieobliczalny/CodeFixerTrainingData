@@ -31,7 +31,7 @@ int main(void) {
     long long    N2kuQ    =    0;
 	char	Ib29PN	=	(char)-154560963;
   long long  znHM  =  2113647390;
-	unsigned char	BQEBR1	=	1486360073;
+	unsigned char	BQEBR1	=	(unsigned char)1486360073;
     unsigned long long    FIWAYFO6    =    -1464478375;
   long long  bfPhJ4_Mha  =  702599730;
 	unsigned short int	j_Dc	=	(unsigned short)1650341761;
@@ -285,7 +285,7 @@ i++;
 while (i < 5);
 }
 
-Bp_v36C = VH5j(o_6j1PA5Y, (short)140048021, -1536019455, FIWAYFO6, U2JQ) / O7Oo(-79748161, BQEBR1);
+Bp_v36C = VH5j(o_6j1PA5Y, (short)140048021, (short)-1536019455, FIWAYFO6, U2JQ) / O7Oo(-79748161, BQEBR1);
 bfPhJ4_Mha ^= o_6j1PA5Y;
 {
 int i = 0;
@@ -507,7 +507,7 @@ case 'c':
 Ib29PN %= j_Dc;
 break;
 case 'd':
-RwQ583Z = VH5j(-180059669, -752879928, 1367869702, U2JQ, YnERZ8rm7);
+RwQ583Z = VH5j((char)-180059669, -752879928, 1367869702, U2JQ, YnERZ8rm7);
 break;
 case 'e':
 wann = (int)abs(Ib29PN);
@@ -601,7 +601,7 @@ case 3:
 j_Dc = kY5m7 >> Bp_v36C;
 break;
 case 4:
-bfPhJ4_Mha = VH5j((char)-232470537, (short)219814860, COG_2, znHM, -494622018);
+bfPhJ4_Mha = VH5j((char)-232470537, (short)219814860, COG_2, znHM, (char)-494622018);
 break;
 case 5:
 RwQ583Z /= BQEBR1;

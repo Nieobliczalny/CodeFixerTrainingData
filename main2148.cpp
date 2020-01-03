@@ -521,7 +521,7 @@ laFI92R2AH = P4kTB8((unsigned char)1655636799, (short)1812495879, (unsigned shor
 --i;
 }
 }
-std::cout << f4uIBF6hO << YoJnnK1 << P4kTB8(D2Ck, Gqg1I2dn, (unsigned short)427651583, 1236466462, k9XG) << P4kTB8(D2Ck, (short)-1923141419, -385457302, eu02U, k9XG) << std::endl;
+std::cout << f4uIBF6hO << YoJnnK1 << P4kTB8(D2Ck, Gqg1I2dn, (unsigned short)427651583, 1236466462, k9XG) << P4kTB8(D2Ck, (short)-1923141419, (unsigned short)-385457302, eu02U, k9XG) << std::endl;
 
 try
 {
@@ -581,7 +581,7 @@ case 2:
 Gqg1I2dn >>= J2fX4208wj;
 break;
 case 3:
-laFI92R2AH = P4kTB8((unsigned char)-1189920446, (short)-615235761, -127824066, hA2s, -452306895);
+laFI92R2AH = P4kTB8((unsigned char)-1189920446, (short)-615235761, (unsigned short)-127824066, hA2s, -452306895);
 break;
 case 4:
 FYQSb54 = P4kTB8(UTab7Mv_hi, (short)616407186, FzPF59, mmRn76E9Ms, j7Lndhz1);

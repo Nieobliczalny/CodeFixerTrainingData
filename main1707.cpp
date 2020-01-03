@@ -24,7 +24,7 @@ int main(void) {
  KleAWvrp = (short)-550701767;
  BPe416W8 = (short)994524158;
  KVn_v41V = (short)1860137517;
- F_FBy1h6 = -363357405;
+ F_FBy1h6 = (short)-363357405;
  sj1Dk41 = -1182402393;
  gb_4Q = 722806325;
  Lat42b4 = 1389277947;
@@ -34,7 +34,7 @@ int main(void) {
  P5_4CoCz = (short)303920770;
  H23s3 = (short)1001112907;
  G4c1 = (short)1536697544;
- X2DV5 = -244927915;
+ X2DV5 = (short)-244927915;
  bIi7VNHG = -815526620;
 	char	BM8Pc,	Y_8eL19H,	SMbdIl,	zguNIKj;
 	BM8Pc	=	0;
@@ -179,7 +179,7 @@ case 'e':
 SMbdIl = RK1442O9((unsigned char)879798891, KVn_v41V, (short)1513572673);
 break;
 case 'f':
-BM8Pc = RK1442O9(-1093085208, -2033531469, b5Z5);
+BM8Pc = RK1442O9((unsigned char)-1093085208, -2033531469, b5Z5);
 break;
 case 'g':
 zguNIKj = RK1442O9(1665925402, gb_4Q, -1207408090);

@@ -23,7 +23,7 @@ int main(void) {
 	tk7W	=	(short)-748691421;
 	h_hZcGu_sL	=	(short)511301378;
 	aNu8ftz	=	(short)1801819564;
-	b7XRC	=	-1211899524;
+	b7XRC	=	(short)-1211899524;
 	d24E	=	126910780;
 	JCp39HMi	=	244638949;
 	xGfOC97	=	-1011473715;

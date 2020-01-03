@@ -24,7 +24,7 @@ int main(int argc, char** argv) {
  d0BSKB = (short)-1166152535;
  nt5e2 = (short)1822711738;
  GfHp = (short)-1751417218;
- b685 = 1192278122;
+ b685 = (short)1192278122;
   unsigned short int  lJdZjkv7Fx,  I7kRxwl;
   lJdZjkv7Fx  =  0;
   I7kRxwl  =  0;

@@ -21,7 +21,7 @@ int main(int argc, char** argv) {
 	long long	o6048	=	0;
 	long	xf1c_NPK	=	0;
   unsigned short int  k_4ls59  =  (unsigned short)-1372261031;
-  short  VWVDh_5lu2  =  67074334;
+  short  VWVDh_5lu2  =  (short)67074334;
     long    Gj4w7V7    =    598542260;
     unsigned char    A998    =    (unsigned char)-1367291268;
  long long WGixfzDh1d = 1143291424;

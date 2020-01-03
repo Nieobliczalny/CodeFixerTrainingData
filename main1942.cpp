@@ -479,7 +479,7 @@ gNS76Dj3i--;
 
 std::cout << S_lsTZ((unsigned short)1181111356, (unsigned short)-239953249, (unsigned short)-1729772149, (unsigned short)1774808067, (unsigned short)-1123027107) << std::endl;
 
-hVxxq0kl6 = wWS52_Q(-1262234260, CL5_c27, -16850171, 251919929);
+hVxxq0kl6 = wWS52_Q((short)-1262234260, CL5_c27, -16850171, 251919929);
 
 if (CL5_c27 <= f5Yci_C)
 {

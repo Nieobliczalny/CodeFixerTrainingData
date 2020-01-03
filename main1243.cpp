@@ -28,7 +28,7 @@ int main()
   unsigned char  PnD36MN  =  (unsigned char)2002946290;
  unsigned short int Te0155sM = (unsigned short)73330045;
     long double    Dv_W27    =    1171219012;
- unsigned char cxvEPT_v = -621711496;
+ unsigned char cxvEPT_v = (unsigned char)-621711496;
     long    pkUoJ1r    =    -1516752354;
 	double	rLJ9b4PiX	=	691655419;
     short int    jBC__i    =    (short)2048651253;
@@ -62,7 +62,7 @@ int main()
   unsigned char  RWR38z  =  (unsigned char)-1189779081;
   long long  Q8si  =  0;
  unsigned char XJ6_gq_h = (unsigned char)698241024;
-	short	s5wwv	=	2078340134;
+	short	s5wwv	=	(short)2078340134;
  long long Mq4g_ = -1376317209;
  unsigned long an_53 = 457036818;
     unsigned long    XYIP190TML    =    201402667;

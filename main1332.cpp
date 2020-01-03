@@ -45,7 +45,7 @@ int main(int argc, char** argv) {
   short  nmRpzd  =  (short)499226329;
   unsigned short int  qskaPS  =  (unsigned short)1084602740;
  short Elf3xiu9nW = (short)-332818959;
-  unsigned short  GsVH  =  -837137287;
+  unsigned short  GsVH  =  (unsigned short)-837137287;
  long long bm91yR = 1865935251;
 
 switch (bm91yR)

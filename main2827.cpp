@@ -37,7 +37,7 @@ int main(int argc, char** argv) {
 	unsigned long long	Mve4X	=	0;
     long long    U5865    =    -220607656;
  short int s12x = (short)-930713484;
- char j0_Ep_Pn = -2025432195;
+ char j0_Ep_Pn = (char)-2025432195;
 	unsigned int	T9qqn	=	1776561914;
  float U9w66nc3 = 935820720;
     long long    R17qHHp    =    -1207347289;

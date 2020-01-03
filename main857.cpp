@@ -75,7 +75,7 @@ mpmk_ = Uz0XFuyPo((unsigned short)1274138209, YaVUy, mpmk_, 1199453835);
 }
 else
 {
-mpmk_ = Uz0XFuyPo((unsigned short)2022802715, (unsigned char)-50614264, -887831630, cmxXY);
+mpmk_ = Uz0XFuyPo((unsigned short)2022802715, (unsigned char)-50614264, (char)-887831630, cmxXY);
 }
 }
 }

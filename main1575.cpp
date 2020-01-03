@@ -302,7 +302,7 @@ ol16Oc_T6E = qu8bEq((unsigned short)63404228, (unsigned short)1602557684, -97335
 }
 else
 {
-ZOe_0cqb = j10xG((unsigned char)1723311548, (char)-876475284, (short)1163199276, l0p4VDc7BY, -1264497276);
+ZOe_0cqb = j10xG((unsigned char)1723311548, (char)-876475284, (short)1163199276, l0p4VDc7BY, (unsigned char)-1264497276);
 }
 }
 else if ((Iq_36OH == 1132376026) || (l0p4VDc7BY & wOnnlFBr7))

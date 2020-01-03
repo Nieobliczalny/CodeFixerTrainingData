@@ -42,7 +42,7 @@ lkzE2n1E = (int)abs(nuikkOQ6UL);
 
 S7uug34 = uKiHqw((char)-276054303, (short)-1281731470, (unsigned char)489940764);
 
-std::cout << "v7Wg9" << OlFUlE4Zt1(S7uug34, (unsigned short)-414377018) << OlFUlE4Zt1(1240595533, 1543140812) << "t3JfgL" << "r7Ybqzyxr" << std::endl;
+std::cout << "v7Wg9" << OlFUlE4Zt1(S7uug34, (unsigned short)-414377018) << OlFUlE4Zt1((unsigned char)1240595533, 1543140812) << "t3JfgL" << "r7Ybqzyxr" << std::endl;
 
 if (Opv9T_ > 105823871)
 {
@@ -360,7 +360,7 @@ CbuU = Bm5wRw5((char)-730040134, (unsigned short)-59725504, -612282805, cW2rs5B)
 }
 else if (iI8rT >= 2083618209)
 {
-iI8rT = Bm5wRw5(CbuU, vG5_m_n5M, -726580974, 531229075) + 891911793;
+iI8rT = Bm5wRw5(CbuU, vG5_m_n5M, -726580974, (char)531229075) + 891911793;
 }
 else if (((sxG7KYf == fF3Yr) && (ORE9JqF_ != 202888967)) || (nuikkOQ6UL))
 {

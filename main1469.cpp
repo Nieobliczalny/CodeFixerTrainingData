@@ -20,7 +20,7 @@ int main()
   short  prIqVu  =  (short)1010954722;
 	unsigned short	xNqEa8m	=	(unsigned short)-495777523;
   short  X57297Y_  =  (short)11850253;
-	char	jDPG	=	99408148;
+	char	jDPG	=	(char)99408148;
     char    r495W91o8e    =    505953385;
     unsigned char    KONf    =    (unsigned char)-1531059792;
  long double Fkw76aQ = -817918835;
@@ -31,7 +31,7 @@ int main()
   unsigned short int  OS3OZ  =  (unsigned short)1839778339;
   char  R7NJ19I2jm  =  (char)-449649089;
 	char	G43q	=	(char)1497685240;
-    unsigned char    rE4U0Fi    =    -2128331019;
+    unsigned char    rE4U0Fi    =    (unsigned char)-2128331019;
  unsigned short int rDd1b79g = (unsigned short)-1961981267;
 	short	a26eo2snc	=	-519501111;
 	char	Q3n32S	=	-1880014225;

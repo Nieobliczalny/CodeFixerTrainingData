@@ -24,7 +24,7 @@ int main(void) {
  unsigned long R7bM = -1018469123;
  unsigned char dwO0H = (unsigned char)1649519698;
  unsigned char wI_IeOi4nU = (unsigned char)-1034778962;
- unsigned short int mW880_372 = 373528232;
+ unsigned short int mW880_372 = (unsigned short)373528232;
   float  A1_5dHtB49  =  1140371707;
     char    N5dgw0    =    (char)293419393;
   long  f3000  =  0;
@@ -84,7 +84,7 @@ case 'a':
 dh5arn5 = bMFoncco(X1t2l, (unsigned char)930343113, o28s5bTHl, (short)-239742909, (unsigned short)-339763773);
 break;
 case 'b':
-p_R0MDA1 = bMFoncco(Ts6D5YhQu, ADAEM00zY, (unsigned short)1570275857, (short)1375187646, 862656868);
+p_R0MDA1 = bMFoncco(Ts6D5YhQu, ADAEM00zY, (unsigned short)1570275857, (short)1375187646, (unsigned short)862656868);
 break;
 case 'c':
 a9pLJwyT = bMFoncco(-1580004788, 1835008714, a9pLJwyT, IbKbBp1H, Z9gP1a4Oe);
@@ -108,7 +108,7 @@ case 'i':
 wI_IeOi4nU ^= 1180979631;
 break;
 case 'j':
-p_R0MDA1 = bMFoncco(-1089903740, G5ey, (unsigned short)1905889468, (short)784707738, 1718686067);
+p_R0MDA1 = bMFoncco(-1089903740, G5ey, (unsigned short)1905889468, (short)784707738, (unsigned short)1718686067);
 break;
 }
 

@@ -30,7 +30,7 @@ case 1:
 TY5dDEBl = miw5Wrzy7((unsigned short)665773017, I_Ncz96Y, (short)1499620686, TY5dDEBl);
 break;
 case 2:
-TY5dDEBl = miw5Wrzy7(1722312403, vzuk, ktt11p1BjG, y8bTZ);
+TY5dDEBl = miw5Wrzy7((unsigned short)1722312403, vzuk, ktt11p1BjG, y8bTZ);
 break;
 case 3:
 EiK493Vo1 = F9_ut5s7M(-1890799264, lJ4L12S2_3, -914831027, pL926aDez0, 657257560);
@@ -423,7 +423,7 @@ while (j < 1);
 }
 }
 
-ktt11p1BjG = F9_ut5s7M((unsigned short)-368774989, RKGX, ZcRS7LO_, 1376178289, I_Ncz96Y);
+ktt11p1BjG = F9_ut5s7M((unsigned short)-368774989, RKGX, ZcRS7LO_, (unsigned short)1376178289, I_Ncz96Y);
 
 return 0;
 }

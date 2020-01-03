@@ -72,7 +72,7 @@ int main(void) {
  unsigned short int BJ44 = (unsigned short)-235406621;
     unsigned long long    CI__DE7    =    55571816;
 	long double	TSLKtS8rFb	=	189882093;
-    unsigned short    W05fezUQV    =    -1725498009;
+    unsigned short    W05fezUQV    =    (unsigned short)-1725498009;
  long k63F_4MC = 1926424069;
 	short int	d54_K	=	(short)-1622994523;
   unsigned int  Hs_Sj  =  96718824;

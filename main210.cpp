@@ -284,7 +284,7 @@ if (((C5Zn2JyxJ < DF33) || (eHvx > PVE96f)) && ((nNVgg5 < TNVG6) && (eHvx > -152
 M1IaTa3 = M7NHEeV0(M1IaTa3, -1254412939, -2066512250, (unsigned short)694686459, -2136671202);
 }
 
-cout << L1Vy3((unsigned short)1516841205, G0l0Y, -601856774) << M7NHEeV0(-1009741487, G0l0Y, yE5_xk, X40g10N, CsAQlk) << BWlR << YPV8ks << T0wB << endl;
+cout << L1Vy3((unsigned short)1516841205, G0l0Y, (unsigned char)-601856774) << M7NHEeV0(-1009741487, G0l0Y, yE5_xk, X40g10N, CsAQlk) << BWlR << YPV8ks << T0wB << endl;
 {
 int i = 1;
 do

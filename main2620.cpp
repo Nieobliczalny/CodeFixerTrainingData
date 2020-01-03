@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
  unsigned int E90T2 = -265259588;
     short    TRIFpQMq01    =    (short)-1934246165;
     unsigned short int    a8iLI    =    (unsigned short)1197536282;
-  unsigned char  eUaF3  =  643623859;
+  unsigned char  eUaF3  =  (unsigned char)643623859;
 	short int	gSy1z0	=	(short)349488923;
   long long  GZ0T0_7q  =  300152731;
   char  t_pu3  =  -414498390;

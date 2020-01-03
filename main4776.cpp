@@ -30,7 +30,7 @@ if (wTB39Vs0p_ != -1577950801)
 {
 for (int k = 0; k < 10; k++)
 {
-wTB39Vs0p_ = i0_QTe0gtP(666276888, 2109281428);
+wTB39Vs0p_ = i0_QTe0gtP((unsigned short)666276888, 2109281428);
 }
 }
 }

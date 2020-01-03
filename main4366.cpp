@@ -346,7 +346,7 @@ W5sr_myN = (int)abs(VJf_CzVi2);
 
 if (q4D5pQA_ <= bso2DO9)
 {
-std::cout << "OfS1M" << BzWgWZHMK8 << BzWgWZHMK8 << hiwxQ9L3c((unsigned short)-1338901437, ms08L, (char)1235324421, 401295523, -708220899) << "WGxOE" << std::endl;
+std::cout << "OfS1M" << BzWgWZHMK8 << BzWgWZHMK8 << hiwxQ9L3c((unsigned short)-1338901437, ms08L, (char)1235324421, (unsigned char)401295523, -708220899) << "WGxOE" << std::endl;
 }
 else if (wbmD34o < PhVlV)
 {
@@ -454,7 +454,7 @@ if (sNgQoO != J1qR)
 switch (G4lBH71b40)
 {
 case 'a':
-sy6__C = a9QPRNeV(sy6__C, (short)-474083563, 2034258095, -732142857, -1960477123);
+sy6__C = a9QPRNeV(sy6__C, (short)-474083563, (unsigned char)2034258095, -732142857, -1960477123);
 break;
 case 'b':
 Y4_P8AX = a9QPRNeV(1480245985, (short)1888511131, Hj9DA, vks0zEvaxD, 487595383);

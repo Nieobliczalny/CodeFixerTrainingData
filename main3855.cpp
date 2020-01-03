@@ -168,7 +168,7 @@ l6Bp_Vp85 = I8GhgNmh(l6Bp_Vp85, 1363212532, 1406469152);
 }
 MMREi2 = NfvM2Qr * 539888753;
 
-DPz0n_9 = ZAd0z(cY6P, h9HrA_Ms8X, -1260453971);
+DPz0n_9 = ZAd0z(cY6P, h9HrA_Ms8X, (short)-1260453971);
 
 try
 {

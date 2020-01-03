@@ -194,7 +194,7 @@ kt_H2_B35 = Zwjzss1((short)-153655882, miS0E_lM, (short)-2092079052, mYa8, (unsi
 }
 else if (ADPY7J07 <= 756115392)
 {
-kt_H2_B35 = G_c3c(kt_H2_B35, (char)1116124529, 1198035701, (short)-1148375933, 1100797861);
+kt_H2_B35 = G_c3c(kt_H2_B35, (char)1116124529, 1198035701, (short)-1148375933, (unsigned char)1100797861);
 }
 else
 {

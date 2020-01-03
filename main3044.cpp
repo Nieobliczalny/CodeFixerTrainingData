@@ -20,7 +20,7 @@ int main(void)
     short int    CQ1n7E    =    (short)1811744308;
 	unsigned char	UdscUX2	=	(unsigned char)-207468522;
   short int  Sh8j2  =  (short)1907009807;
-  unsigned char  T4iNuc  =  -1011810412;
+  unsigned char  T4iNuc  =  (unsigned char)-1011810412;
 	unsigned long long	u9tf	=	16770878;
     unsigned long long    PtapchMy    =    -2037061376;
   double  l237DL  =  1776792255;
@@ -50,7 +50,7 @@ int main(void)
   unsigned short int  LP51V6y531  =  (unsigned short)-601276548;
 	long long	dwgI	=	1151149005;
     unsigned short    D3ubc7s05    =    (unsigned short)563190262;
- char FXGpI2F = 721085892;
+ char FXGpI2F = (char)721085892;
 	long double	a8H6Hk6mUh	=	-1282200862;
  unsigned int uGH2yNDr_X = 0;
  unsigned int ZZBGI5Y = 0;

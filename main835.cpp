@@ -45,7 +45,7 @@ int main(int argc, char** argv)
     unsigned short    iaTB    =    (unsigned short)-2041038388;
 	int	w2o_o5n71	=	-1456730287;
 	char	Ut18JXO3	=	(char)144300481;
- char bqwHY65z = -821847823;
+ char bqwHY65z = (char)-821847823;
   unsigned int  S2M6  =  0;
  int vU_8I057 = 1316939167;
     short    P_7A720hk    =    (short)-184794693;
@@ -417,7 +417,7 @@ case 6:
 P_7A720hk = bSmE6zf(P_7A720hk, S2M6);
 break;
 default:
-X5bEeh = v7YQB(P_7A720hk, 1243294154, (unsigned short)-300486058, -260578320, 733350237) & 1423895879;
+X5bEeh = v7YQB(P_7A720hk, 1243294154, (unsigned short)-300486058, (unsigned short)-260578320, 733350237) & 1423895879;
 break;
 }
 

@@ -52,7 +52,7 @@ int main(void) {
  char G1ie83k = (char)768176145;
     unsigned char    B5Q7Iq5OP_    =    (unsigned char)1815840530;
     unsigned short    n6mfV1rVk    =    (unsigned short)-2048807973;
-    unsigned char    AuJY9Vk    =    955450654;
+    unsigned char    AuJY9Vk    =    (unsigned char)955450654;
   long long  CUgVNqQF  =  -106410732;
 	double	e6eR0F	=	190267290;
  unsigned long sYk2hTq51 = -360312950;
@@ -73,7 +73,7 @@ int main(void) {
 	short	cnxIiiYv	=	(short)1474776868;
 	unsigned short	b1a07	=	(unsigned short)754278150;
  double Dm82e7 = -492818842;
- short int A6Iv86kx9s = -1631063194;
+ short int A6Iv86kx9s = (short)-1631063194;
  long long w4srKX = -221605183;
 	long long	nSy0IW7ua	=	-1807447464;
   int  yxwwx  =  1818806712;
@@ -96,7 +96,7 @@ int main(void) {
  unsigned short pkBs7N5j = (unsigned short)-601317844;
 
 Izo12 = (int)floor(Dm82e7);
-b6_OI = -74070801 / BKdc1aEf(-350287792, (char)-1313793882, -494158960);
+b6_OI = -74070801 / BKdc1aEf(-350287792, (char)-1313793882, (unsigned short)-494158960);
 
 std::cout << JZGh9(Sfja8L0, B5Q7Iq5OP_, (unsigned char)1414266975, -403421102) << F90b1 << y1m7G << JZGh9(Sfja8L0, -886799339, V288UM3523, c_Xgajy) << BKdc1aEf(Sfja8L0, 1140166993, V288UM3523) << std::endl;
 {

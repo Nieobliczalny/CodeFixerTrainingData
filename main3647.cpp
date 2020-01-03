@@ -172,7 +172,7 @@ case 'g':
 t4MS6I6PPF = (int)abs(kZoPTxE_B6);
 break;
 case 'h':
-Yk0D7YL3Uz = uKHBZ61hxT(-173961045, -176970732, 1965805198, P5sS_aTuI2, WK2itUH);
+Yk0D7YL3Uz = uKHBZ61hxT((unsigned char)-173961045, -176970732, 1965805198, P5sS_aTuI2, WK2itUH);
 break;
 }
 }

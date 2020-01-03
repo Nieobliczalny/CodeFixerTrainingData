@@ -35,7 +35,7 @@ int main() {
 	long long	hFr6WpopO	=	990032083;
     short int    BD4Cg1    =    (short)109873855;
 	long	hpG4AB_	=	0;
-    unsigned short    t007l22855    =    1138331536;
+    unsigned short    t007l22855    =    (unsigned short)1138331536;
  long long HIQY5U = 671398862;
   double  fI_qI_o  =  487298718;
   long double  CJRl65ZT  =  1577193700;

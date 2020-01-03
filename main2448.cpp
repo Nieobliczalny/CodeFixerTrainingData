@@ -44,7 +44,7 @@ int main(int argc, char** argv)
     unsigned short    bBqhLEQY    =    (unsigned short)-1275632407;
     int    A50RHFj0    =    145690111;
     short    Pfnl5Y_0    =    (short)-1165117823;
-  short int  vsM9  =  -1383899417;
+  short int  vsM9  =  (short)-1383899417;
   unsigned int  zD9MmONp  =  -1282909985;
   unsigned char  B4I1a_Lv  =  -332193130;
 	unsigned short int	L19UN	=	(unsigned short)-596057425;
@@ -55,7 +55,7 @@ int main(int argc, char** argv)
   short  zP1d  =  (short)1368308264;
     unsigned short int    Owd0_P6    =    (unsigned short)82984802;
   double  Ik2Up3_MV  =  75441384;
-    unsigned char    HCLrt    =    1837063103;
+    unsigned char    HCLrt    =    (unsigned char)1837063103;
  short g9B6WN = 2072701268;
 	unsigned long	Yc6diGfu	=	745891384;
 	char	RHs8aUn5w	=	(char)-1613064897;
@@ -93,7 +93,7 @@ int main(int argc, char** argv)
   long double  Jj2_B4P4  =  -2109236252;
 	unsigned short int	q9b15	=	(unsigned short)1417192864;
 	char	r7peaw5__f	=	(char)-1524750101;
-	short int	pC58YZM2	=	428284354;
+	short int	pC58YZM2	=	(short)428284354;
   unsigned long long  t3yg09  =  778463330;
  unsigned short int eSzKEs = (unsigned short)-994854774;
     long long    hQ1uILGV7N    =    -1858022835;
@@ -109,7 +109,7 @@ int main(int argc, char** argv)
  unsigned char qA9x54 = (unsigned char)1108515711;
 	unsigned long long	Ip_x3Q2z	=	-878958471;
 	int	Uxm320	=	-2034530446;
-    short    LKO8    =    1209455616;
+    short    LKO8    =    (short)1209455616;
     unsigned long long    l6yfJe4R9U    =    -1460883511;
 	unsigned long	AJK_K	=	128168560;
     unsigned long    bT19N    =    476304598;
@@ -122,7 +122,7 @@ int main(int argc, char** argv)
 	unsigned short int	UKWF991_4	=	(unsigned short)1091250118;
 	unsigned char	eKC1h4Mp	=	(unsigned char)1292210818;
  unsigned int wwWjgn6 = -358122129;
-  short  Kq1dH  =  -1274417363;
+  short  Kq1dH  =  (short)-1274417363;
  unsigned short int fOxJ5 = -931699578;
  short FB_9SsKV = -653705773;
   unsigned long  sQF9Q  =  -1494417182;
@@ -134,7 +134,7 @@ int main(int argc, char** argv)
  char tGA28MB = (char)865543182;
 	unsigned short int	vbC41	=	(unsigned short)283690555;
  char hzloc0 = (char)274220196;
-  short  bHsf  =  1558669065;
+  short  bHsf  =  (short)1558669065;
     long double    lC6PxN_7_1    =    742649868;
     double    I0fW7w1_    =    -1262151013;
 

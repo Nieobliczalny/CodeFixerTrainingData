@@ -58,7 +58,7 @@ int main(int argc, char** argv)
   short int  ir9i20m802  =  (short)153148051;
 	unsigned short	y8V_GBUd0	=	(unsigned short)-628326860;
  unsigned short int x5y5U = (unsigned short)-2143605379;
-	unsigned short	NLvmwdV_30	=	1706324894;
+	unsigned short	NLvmwdV_30	=	(unsigned short)1706324894;
   short int  l2oA  =  (short)873138520;
 	long long	M180SAZyG9	=	-1250556856;
  unsigned char fCG9f7OZu = (unsigned char)183861290;
@@ -93,7 +93,7 @@ int main(int argc, char** argv)
 
 std::cout << ugs_472S((unsigned short)69826253) << qe47j << U14q9Q_37F << std::endl;
 
-std::cout << ugs_472S(491139436) << "fFAo328VmO" << Z_F1B4eW << "ZijGLc" << std::endl;
+std::cout << ugs_472S((unsigned short)491139436) << "fFAo328VmO" << Z_F1B4eW << "ZijGLc" << std::endl;
 if (ZN42nzd > 407415091)
 {
 switch (tzD5zO7)

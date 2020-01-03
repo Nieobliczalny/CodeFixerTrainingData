@@ -43,7 +43,7 @@ int main(int argc, char** argv) {
 	unsigned short int	EaDK	=	(unsigned short)1343370592;
  long Wn7OnoJI = 0;
   char  cx_j  =  (char)616665697;
- short uj_r63 = -1796749467;
+ short uj_r63 = (short)-1796749467;
 	long	qvAMv	=	0;
   float  Bo0xJ083  =  -904514806;
 	unsigned short int	ZaCxoUg76o	=	(unsigned short)-1434717252;
@@ -61,7 +61,7 @@ int main(int argc, char** argv) {
  char L4pL6rw5t = (char)-1731069058;
  short int Rf_Uz1 = 0;
   short  F48Xj  =  (short)-2043666345;
-  short  AAu4__hc2e  =  1206984893;
+  short  AAu4__hc2e  =  (short)1206984893;
  unsigned short g5E586 = 1270802843;
 
 std::cout << "BCjYu" << EaDK << cx_j << y3p_2eYyV << std::endl;

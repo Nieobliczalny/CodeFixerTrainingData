@@ -66,7 +66,7 @@ int main(int argc, char** argv) {
 	unsigned long	ehV1A5r	=	855847519;
 	unsigned char	w4lC657SaS	=	(unsigned char)-2005606871;
 	unsigned short int	szK_3vT3	=	(unsigned short)399687696;
-	short int	ZN8c9hc8	=	17162296;
+	short int	ZN8c9hc8	=	(short)17162296;
 	int	i563sI	=	-172569131;
 	int	wcHQ7Gq	=	-1945650151;
     unsigned long long    uBe79    =    1595106665;

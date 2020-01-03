@@ -32,7 +32,7 @@ int main(void) {
   short  j6h0s  =  (short)1640931462;
 	char	OZKkpQcti2	=	(char)-1139266874;
  unsigned int lG2V_1 = 0;
- unsigned short m7lu9ickZ = 770619755;
+ unsigned short m7lu9ickZ = (unsigned short)770619755;
   unsigned long  HK5D7l9  =  1127521187;
 	long long	ou_Sd7A	=	-1870510509;
  unsigned short int N7nf126 = (unsigned short)-2102830198;
@@ -105,7 +105,7 @@ int main(void) {
     unsigned long long    OZ4FO8Cx    =    1154312552;
     short    O9a9b5Yc    =    (short)128417899;
 	short	Bdu34V5q	=	(short)-861138981;
- unsigned short int B7UkF = -273943825;
+ unsigned short int B7UkF = (unsigned short)-273943825;
 
 zSj5X8Zn7 = (int)ceil(y_Fm8i);
 

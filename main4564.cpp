@@ -85,7 +85,7 @@ int main(void) {
   int  h7m7iG  =  1418530897;
   long long  JTq64SknQ  =  -786517243;
   unsigned short int  J4g5b  =  (unsigned short)-625076328;
-	unsigned short	W_s_7b1	=	-1719094541;
+	unsigned short	W_s_7b1	=	(unsigned short)-1719094541;
 	short int	E85kFTq	=	(short)-1046586566;
     long long    homy88RZ    =    0;
  unsigned long o_KS9M = -1394577975;

@@ -76,7 +76,7 @@ fEcCYOf71 = u6o0L622z(gi8W, -1651186314, VA0JUnJuul, M_z6, (short)1776515670);
 break;
 case 'c':
 case 'C':
-fEcCYOf71 = u6o0L622z(1868033807, 515336358, Ba1z75uM, -312533821, 992503132);
+fEcCYOf71 = u6o0L622z((short)1868033807, 515336358, Ba1z75uM, -312533821, 992503132);
 break;
 case 'd':
 case 'D':

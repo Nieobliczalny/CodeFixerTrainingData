@@ -36,7 +36,7 @@ int main(void)
     unsigned short int    X_vYVL_j    =    (unsigned short)292649302;
   unsigned short  j5GfG  =  (unsigned short)266056001;
  unsigned short int h7L9 = (unsigned short)1157255291;
-	unsigned short int	Y_S1BS_pk	=	58030693;
+	unsigned short int	Y_S1BS_pk	=	(unsigned short)58030693;
  short zgWppLB5B = -1385834246;
   unsigned long  WNVK1te  =  1598185811;
   int  UAN_b5Gt  =  1271685847;

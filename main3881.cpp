@@ -37,7 +37,7 @@ int main() {
     unsigned short int    uNl53_KF    =    (unsigned short)992261644;
  unsigned short Wx8y6g178 = (unsigned short)-973281831;
 	unsigned short	ylM_PD3yE	=	(unsigned short)274965599;
-  short  bU7_6  =  1822957725;
+  short  bU7_6  =  (short)1822957725;
   short int  I74bSr  =  427015915;
   unsigned short  war52q99Aq  =  (unsigned short)1681533649;
     double    g33mnOF    =    -216613179;

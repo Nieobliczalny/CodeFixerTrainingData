@@ -42,7 +42,7 @@ int main(void)
   long double  ToPJ03  =  1273408599;
   unsigned short  J7tl28U5p  =  (unsigned short)-1989480888;
  unsigned short int vd_oEuD = (unsigned short)486855994;
-    unsigned char    T9C4    =    56572455;
+    unsigned char    T9C4    =    (unsigned char)56572455;
     short    P6I523    =    112386171;
   unsigned short  ezCD_  =  (unsigned short)1663137643;
     char    HA7mi    =    1079576396;

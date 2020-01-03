@@ -53,7 +53,7 @@ int main(void)
   long long  msFT6wY  =  2004564116;
   unsigned short int  NQ_9G5  =  (unsigned short)754942800;
   unsigned short  I46AO7V  =  (unsigned short)-1023810834;
- short j7EC = -1216886611;
+ short j7EC = (short)-1216886611;
  unsigned long HfgV80V = -2098783562;
   unsigned short int  GlMH2  =  (unsigned short)210624538;
     double    jjwl    =    -1220555036;

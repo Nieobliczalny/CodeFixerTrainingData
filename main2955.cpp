@@ -260,7 +260,7 @@ case 5:
 dd_22Lix_P = rK_UNdZi(rCcJ40a0, (unsigned short)-1779353415, 1135788666, b583n__h_9);
 break;
 case 6:
-CH_M0_59g3 = rK_UNdZi(1191991180, -515079833, F3mZlT, zTG83);
+CH_M0_59g3 = rK_UNdZi(1191991180, (unsigned short)-515079833, F3mZlT, zTG83);
 break;
 case 7:
 h2B27f4D *= b583n__h_9;

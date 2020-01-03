@@ -45,7 +45,7 @@ int main() {
  unsigned int PNb8Wd6aO_ = -2005934768;
   unsigned short  m_RC6  =  0;
     char    Hb_7ZfXn    =    (char)-616135420;
-    short    O7lfIcQB29    =    22581220;
+    short    O7lfIcQB29    =    (short)22581220;
 	unsigned char	uLSRpB1	=	0;
 
 switch (MK0o_47bZI)

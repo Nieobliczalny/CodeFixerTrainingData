@@ -872,7 +872,7 @@ s63kcn2a6 = g1Zdv3(s63kcn2a6, u1q1jAL8J);
 break;
 case 'd':
 case 'D':
-p2HnT97AAJ = QoTFA7_c((unsigned short)1470272276, (short)1188588505, (unsigned short)-781826164, BwHhc, -1792692998);
+p2HnT97AAJ = QoTFA7_c((unsigned short)1470272276, (short)1188588505, (unsigned short)-781826164, BwHhc, (unsigned char)-1792692998);
 break;
 case 'e':
 case 'E':

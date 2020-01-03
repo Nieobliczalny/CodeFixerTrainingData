@@ -385,7 +385,7 @@ case 1:
 DYom9H4Nu = XPw5HVgcU((unsigned short)2122372632, Sdx0A_2qQU, 1568359311, sHharQ10, (unsigned short)877512515);
 break;
 case 2:
-P80a = XPw5HVgcU((unsigned short)1724756606, (short)-1073404219, FC1_, Sdx0A_2qQU, -1219731112);
+P80a = XPw5HVgcU((unsigned short)1724756606, (short)-1073404219, FC1_, Sdx0A_2qQU, (unsigned short)-1219731112);
 break;
 case 3:
 z9Q_ ^= MAq7;

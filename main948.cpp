@@ -25,7 +25,7 @@ int main(int argc, char** argv)
   int  h_GQahHfl8  =  -1436768135;
   unsigned char  CJc_Bll  =  (unsigned char)-2122609001;
  unsigned short int TP44sw = (unsigned short)1842388367;
-	unsigned short	reu90n26	=	2025869593;
+	unsigned short	reu90n26	=	(unsigned short)2025869593;
   short int  uZ9ACYZNU5  =  -2027821134;
 	short int	yz2v_3Z	=	(short)-885840854;
   short int  bOZ_rVpx  =  (short)-311262595;
@@ -40,7 +40,7 @@ int main(int argc, char** argv)
 	unsigned short	T6EkD8	=	(unsigned short)-1600197080;
 	unsigned long long	RiR4	=	556779069;
  unsigned short ZCrNQarw__ = (unsigned short)-591355749;
-  short  N7I29TSWg  =  -1369706721;
+  short  N7I29TSWg  =  (short)-1369706721;
  char Q3g8OIV = (char)-752231191;
     unsigned long long    A_WTF5g8    =    -295387531;
   char  s_7_xMx  =  (char)-920585270;
@@ -70,7 +70,7 @@ while (k < 7);
 }
 else if (bOZ_rVpx & ljvmZ)
 {
-cout << W0n3Z77((unsigned char)-1888838104, (char)104729467, RiR4, 1802328875) << l8Ied << endl;
+cout << W0n3Z77((unsigned char)-1888838104, (char)104729467, RiR4, (unsigned short)1802328875) << l8Ied << endl;
 }
 else if (uZ9ACYZNU5 < -1780018209)
 {

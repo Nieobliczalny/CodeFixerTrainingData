@@ -340,7 +340,7 @@ case 'c':
 z9I8 = FLRd861F42(oyE21p, (char)1117729083, y8E3, (unsigned char)-519010628, (short)-1730797089);
 break;
 case 'd':
-z9I8 = FLRd861F42(v57v8, (char)-2130154772, FvyTOS, (unsigned char)-577480468, -656688669);
+z9I8 = FLRd861F42(v57v8, (char)-2130154772, FvyTOS, (unsigned char)-577480468, (short)-656688669);
 break;
 case 'e':
 FvyTOS = (l6pO7h3 == tDtZ_PkvNn) ? FLRd861F42(v57v8, bK93_k, -1397598630, N24db, ACJhlCZD) : -1862841597;
@@ -431,7 +431,7 @@ case 4:
 g3lTf = ckC1 | kZfg;
 break;
 default:
-z9I8 = FLRd861F42(g0WubAlse, (char)1309378474, P2vM98b4J0, -1860257240, 251538414);
+z9I8 = FLRd861F42(g0WubAlse, (char)1309378474, P2vM98b4J0, (unsigned char)-1860257240, 251538414);
 break;
 }
 }

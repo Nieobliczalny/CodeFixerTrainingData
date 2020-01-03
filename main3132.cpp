@@ -24,7 +24,7 @@ int main(void) {
  unsigned long long bVJSqxF_6B = 1874961800;
     unsigned short int    G2XO9NpWz    =    (unsigned short)-1432461473;
 	unsigned char	S9IHu22E	=	(unsigned char)1640385509;
-	unsigned short	n7ySe	=	-965454368;
+	unsigned short	n7ySe	=	(unsigned short)-965454368;
 	int	P35M6	=	-443030962;
 	short	R5LF142L	=	(short)-1928219570;
 	int	QMbS0uW	=	1382753560;
@@ -80,7 +80,7 @@ int main(void) {
  unsigned long long wgYPe98a = 1729211068;
     unsigned short int    Pl9nXm    =    (unsigned short)-1429743340;
 	unsigned short int	uCZ_BH9a	=	(unsigned short)-134962897;
- unsigned short int N_t1KLzc9 = 213654928;
+ unsigned short int N_t1KLzc9 = (unsigned short)213654928;
     unsigned char    U_gwiW    =    -1609216957;
 
 if (U_gwiW <= d2Pt86_Ooa)

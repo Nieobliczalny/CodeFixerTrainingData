@@ -24,7 +24,7 @@ int main()
  long long HJl3x = 1309969471;
 	long double	fgeIkHf	=	-1181385070;
     short int    Eb1_    =    (short)1472574197;
-	unsigned short	yh9bpk9_	=	-1580698402;
+	unsigned short	yh9bpk9_	=	(unsigned short)-1580698402;
     unsigned long long    Ii_5u_h3Ho    =    -948085601;
 
 HJl3x |= 1151580078;

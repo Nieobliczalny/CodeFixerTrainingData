@@ -63,7 +63,7 @@ int main(int argc, char** argv)
     unsigned long    rEyDX    =    973617794;
  char A4JIi5We = (char)2065794276;
     unsigned char    Pu83X5B    =    (unsigned char)-1448960541;
-  short int  cn200a  =  289003334;
+  short int  cn200a  =  (short)289003334;
   unsigned int  I8nYlb  =  1749864722;
     unsigned long    GKAs_6    =    285666486;
  long double eYZI4N5 = -1932285870;

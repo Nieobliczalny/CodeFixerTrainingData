@@ -33,7 +33,7 @@ int main(void) {
  unsigned short int ZG_Qd = (unsigned short)489639678;
 	char	nF8cuBE	=	(char)314248586;
   unsigned int  UxZxy8Vk2_  =  -1747129511;
-	char	S_Tzxj7V31	=	1562155758;
+	char	S_Tzxj7V31	=	(char)1562155758;
 	unsigned short	Zg3zk1Gb0y	=	(unsigned short)-1190753274;
 	unsigned short int	U_oEq_	=	-869923908;
 	int	rbcZxG_dln	=	-216020669;

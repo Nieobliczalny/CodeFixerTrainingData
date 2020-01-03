@@ -20,7 +20,7 @@ int main(int argc, char** argv) {
 	Lgen	=	(unsigned char)1951421127;
 	DuYkGf	=	(unsigned char)1358435942;
 	Qt8BB6tgPD	=	(unsigned char)379439394;
-	v9kv3_7	=	-1603226493;
+	v9kv3_7	=	(unsigned char)-1603226493;
 	Ksz71	=	932883122;
 	F4o905	=	-708613427;
 	jW10jv7_	=	1707054740;
@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
 	S83813i	=	(unsigned char)519923160;
 	SEBV8tkWM	=	(unsigned char)547726763;
 	VvEBx9	=	(unsigned char)1189163716;
-	Zg5BPSho	=	40139673;
+	Zg5BPSho	=	(unsigned char)40139673;
 	I7CUL	=	-866997691;
 	oV72q_p	=	1932836006;
 	X6RCyC_N	=	-1209639188;
@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
 	V2O3cy8A	=	(unsigned char)-1516049074;
 	OhT2	=	(unsigned char)-883229039;
 	PWfrGTG	=	(unsigned char)1907927564;
-	ceo6ph	=	1423394692;
+	ceo6ph	=	(unsigned char)1423394692;
 	hurS	=	-1046116220;
 	H2qu1J1	=	-1601410992;
 	se4IQ	=	-533532840;
@@ -50,7 +50,7 @@ int main(int argc, char** argv) {
 	W_5q0	=	(unsigned char)-899186388;
 	I9SRVb	=	(unsigned char)920329749;
 	Xz_jgOm	=	(unsigned char)642012849;
-	ZmlO	=	1680477669;
+	ZmlO	=	(unsigned char)1680477669;
 	Mcws4VmG	=	-1572590013;
 	lcIrsXm5	=	1523350720;
 	tyLAaS2Sd_	=	-52020389;
@@ -60,7 +60,7 @@ int main(int argc, char** argv) {
 	QQ22	=	(unsigned char)-1054098860;
 	iO7av	=	(unsigned char)-913662619;
 	hoCk	=	(unsigned char)-1760660595;
-	y7CV3	=	1856881252;
+	y7CV3	=	(unsigned char)1856881252;
 	uIojBFJlTT	=	-418378408;
 	TN4pRrk	=	-767236160;
 	C792cdKgF2	=	-1618409407;
@@ -70,7 +70,7 @@ int main(int argc, char** argv) {
 	Q58c3_in1d	=	(unsigned char)11315684;
 	V82wM8fBgV	=	(unsigned char)1565561838;
 	q8j7	=	(unsigned char)-699855556;
-	qT5xbQQ	=	815158561;
+	qT5xbQQ	=	(unsigned char)815158561;
 	M74OY4	=	-875104395;
 	so03Kyl	=	2112334531;
 	itK62i_	=	-45926136;
@@ -80,7 +80,7 @@ int main(int argc, char** argv) {
 	B9D1	=	(unsigned char)1841870205;
 	yET4U	=	(unsigned char)964435011;
 	hBd5	=	(unsigned char)-1321488379;
-	h2P_p	=	-1382537725;
+	h2P_p	=	(unsigned char)-1382537725;
 	R_o4Bf91	=	-1289693735;
 	eXSKp4T	=	-1287713316;
 	QGwfs88	=	-1931274609;

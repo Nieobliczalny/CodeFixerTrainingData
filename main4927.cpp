@@ -50,7 +50,7 @@ int main(int argc, char** argv)
     unsigned char    vHMttLl_    =    (unsigned char)-32123029;
  unsigned long long GI7eF = 500208653;
 	char	pFqcd_	=	(char)-1684154727;
-	unsigned char	VF2r	=	-1418553168;
+	unsigned char	VF2r	=	(unsigned char)-1418553168;
 	double	iq67	=	1864201975;
  char tnE_ = -2111750638;
     long long    kkV_af23lj    =    0;

@@ -33,7 +33,7 @@ int main() {
  tk39_V = (char)804309146;
  fDRs = (char)1238334104;
  etK6dZ4f = (char)-1965473232;
- HdssIi5 = 640478955;
+ HdssIi5 = (char)640478955;
  HEw1 = 619578346;
  OI9_d2F = 1270554972;
  oSfTYpU = 380553256;
@@ -43,7 +43,7 @@ int main() {
  e744 = (char)498580728;
  hl1a17cw3 = (char)750302167;
  a33A = (char)761786352;
- WQw6jv9 = 738435140;
+ WQw6jv9 = (char)738435140;
  Jm4jFY = -687911597;
  pVvi = 1102033486;
  gD__3H = 506284116;
@@ -53,7 +53,7 @@ int main() {
  jp5j4 = (char)1264802530;
  NII2 = (char)740772541;
  H2isXt_j = (char)1113586625;
- jgIu29SH = -880454053;
+ jgIu29SH = (char)-880454053;
  gVcwSy9_ = 803084610;
  jP5otTo = -1375442528;
  j8v8N_Fzh = -15707579;
@@ -63,7 +63,7 @@ int main() {
  Ddc8_ZZf4 = (char)-723483127;
  lf8ER3L9 = (char)683419645;
  en1kkTN = (char)472238027;
- q8na_b = -934420136;
+ q8na_b = (char)-934420136;
  cMZic9SH6E = 1922098970;
  jxMTz = 1750126757;
  xJRJ_ = -22947489;
@@ -73,7 +73,7 @@ int main() {
  tAdhL9s8l = (char)1459168876;
  d5T553O_ = (char)1647498911;
  fSiu = (char)-1875539985;
- mHehuj = -1594258416;
+ mHehuj = (char)-1594258416;
  twle9F = -1632751198;
  XrsS = -416159900;
  vrn_h3k0O = -937976326;
@@ -83,7 +83,7 @@ int main() {
  nntY3f = (char)-1770271158;
  de8a0 = (char)-1188502084;
  wu80 = (char)-308242380;
- Onlh8SBbp4 = 155420241;
+ Onlh8SBbp4 = (char)155420241;
  cU0KE44w5 = -2036345833;
  ad5E9O3oyi = 1564050828;
  AxP2C4KHm = -1282654889;
@@ -93,7 +93,7 @@ int main() {
  k80b7X = (char)-1353271975;
  HMMoNL96 = (char)1445576430;
  N725_U8P = (char)2123468527;
- m056Fx7 = 1346265707;
+ m056Fx7 = (char)1346265707;
  K9p7JF_ = 217933019;
  x4wteRMn0r = -1199806115;
  C8Dw90 = -1834579740;
@@ -103,7 +103,7 @@ int main() {
  PGHxl = (char)488166044;
  O_749Tg5YF = (char)875746288;
  YR2lS8b_n = (char)-437369545;
- X5hBNh3 = -1020230464;
+ X5hBNh3 = (char)-1020230464;
  xx51n7Mtj1 = -1911018402;
  t0o7 = 978475791;
  fwZgMwBn = -462695551;
@@ -113,7 +113,7 @@ int main() {
  WjrQ = (char)-1368179196;
  x6Ps0v_ = (char)-1124335324;
  UkxP3 = (char)-1558177635;
- WxBz_R5 = 1123328868;
+ WxBz_R5 = (char)1123328868;
  SdZF91vVW = 84149593;
  ngts4h = -1116515185;
  L0XqsT5E = -380482595;

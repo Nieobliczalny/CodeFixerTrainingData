@@ -46,7 +46,7 @@ int main(int argc, char** argv) {
 	unsigned short	Hn38	=	(unsigned short)-948013377;
 	long	olZd2v4	=	438668083;
   unsigned short int  C2FtGrK6k  =  (unsigned short)-1048180920;
- short YR744B95 = 1795161293;
+ short YR744B95 = (short)1795161293;
     double    TLDc    =    -683531680;
     short    l7zID6l    =    (short)601831040;
 

@@ -795,7 +795,7 @@ case 'i':
 LKLlX2O = (int)abs(h36C_);
 break;
 case 'j':
-YIRs_Wij7M = yz3n1((unsigned char)-1193845714, (unsigned char)-1784358392, -15719474);
+YIRs_Wij7M = yz3n1((unsigned char)-1193845714, (unsigned char)-1784358392, (char)-15719474);
 break;
 default:
 QUS8n = AP7_b_();

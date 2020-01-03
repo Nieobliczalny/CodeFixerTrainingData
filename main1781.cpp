@@ -389,7 +389,7 @@ x2P_69lps = (int)floor(AcuuSw4z7);
 break;
 case 'h':
 case 'H':
-ED09 = rfPvl((unsigned short)-667946509, (unsigned short)-894956865, (short)-1331381175, 2023727730, J7M2BDxM);
+ED09 = rfPvl((unsigned short)-667946509, (unsigned short)-894956865, (short)-1331381175, (short)2023727730, J7M2BDxM);
 break;
 case 'i':
 case 'I':
@@ -713,7 +713,7 @@ l4K3yGe7A0 = F3_ukq33U2((short)210158413, (char)-2004522501, S2_p, (short)194101
 break;
 case 'c':
 case 'C':
-v2z57 = rfPvl(v2z57, (unsigned short)-1377480127, (short)-759377131, v436qQ6f, 613827599);
+v2z57 = rfPvl(v2z57, (unsigned short)-1377480127, (short)-759377131, v436qQ6f, (short)613827599);
 break;
 case 'd':
 case 'D':

@@ -72,7 +72,7 @@ int main(int argc, char** argv) {
   unsigned char  A_jPmd3_y  =  (unsigned char)275187305;
   unsigned short  M6A9n  =  (unsigned short)-764631477;
   unsigned int  d85L_qI3_  =  -1301142557;
-	unsigned short	ICD_n	=	301846421;
+	unsigned short	ICD_n	=	(unsigned short)301846421;
 	double	FDpB_p_MH	=	-953017208;
 	unsigned char	jlX3y1N	=	(unsigned char)-913715192;
   unsigned char  u_72kJ  =  1139461706;
@@ -111,7 +111,7 @@ int main(int argc, char** argv) {
     unsigned char    syEnynEs    =    (unsigned char)2068143466;
   unsigned short  jsbOLu  =  (unsigned short)-950090879;
     int    XU3gw11c_N    =    -1690296085;
-  char  raSnF3eb6e  =  -2053215501;
+  char  raSnF3eb6e  =  (char)-2053215501;
 	unsigned int	we5idWa1n	=	-635978326;
 	long	JX01St4RK7	=	-1901847315;
   unsigned long long  j2NWNzF_Ry  =  -1441076097;

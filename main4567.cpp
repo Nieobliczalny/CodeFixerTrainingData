@@ -39,7 +39,7 @@ int main(int argc, char** argv)
     long long    tWehFf    =    -2054308153;
     unsigned short int    M62Ky7u    =    (unsigned short)1627365865;
  unsigned char AC7etwW1z = (unsigned char)-1027485941;
-    unsigned char    xkM7_52gFi    =    -1787110718;
+    unsigned char    xkM7_52gFi    =    (unsigned char)-1787110718;
 	unsigned long long	X7kC	=	1403785998;
  long double Blb7vxi1 = 534904841;
 	long double	ZJqw0LM	=	1741026884;

@@ -36,7 +36,7 @@ int main(int argc, char** argv)
 	char	eqkB2mF4Df	=	(char)1187890140;
  char n8i21 = (char)-2115998106;
  unsigned int dA1Qf7Jx = 633833053;
-  short  j_IfLvv  =  -1052990921;
+  short  j_IfLvv  =  (short)-1052990921;
   long  vCNU62  =  -959913756;
   long double  bMv2K  =  -106831512;
  double ndpM = -985063770;

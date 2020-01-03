@@ -195,7 +195,7 @@ if ((Jb2dSy((unsigned char)982739266, (unsigned short)-219108875, QW3A6kr) / Jb2
 {
 if (Jb2dSy((unsigned char)-305683377, SM1X0DYzj, QW3A6kr) == 0)
 {
-	QW3A6kr = rvcrrAiH85(OVuN) / Jb2dSy(-305683377, SM1X0DYzj, QW3A6kr);
+	QW3A6kr = rvcrrAiH85(OVuN) / Jb2dSy((unsigned char)-305683377, SM1X0DYzj, QW3A6kr);
 }
 }
 

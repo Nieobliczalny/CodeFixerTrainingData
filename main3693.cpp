@@ -20,7 +20,7 @@ int main(int argc, char** argv)
 	unsigned short int	zf_Ds	=	(unsigned short)2031657820;
 	unsigned long	EZ3ngj	=	-1309183573;
   unsigned char  k4wn  =  (unsigned char)-711265423;
-    short int    sJ4jwr31k    =    153006194;
+    short int    sJ4jwr31k    =    (short)153006194;
  int z87_XvpeVX = -2130164423;
     unsigned long    Vv2Mik    =    -1880699746;
     unsigned long long    lKv102P7    =    -811703326;
@@ -36,7 +36,7 @@ int main(int argc, char** argv)
     short int    VXS6    =    (short)2102176297;
  char uervJH = (char)-1561355550;
  double g41qzpLSpl = -422527622;
-    char    V6yfTscy    =    674707219;
+    char    V6yfTscy    =    (char)674707219;
   float  H90Mo56p  =  -44462308;
   long long  f_a_x  =  654786850;
   unsigned char  GRD_zI  =  (unsigned char)1100365347;

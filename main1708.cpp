@@ -28,7 +28,7 @@ int main(int argc, char** argv) {
 	c1I3mZ_eu3	=	(char)-135939360;
 	b1S9l36	=	(char)-1010594821;
 	jJiu7s2t	=	(char)-789363975;
-	WbdEM	=	-836132371;
+	WbdEM	=	(char)-836132371;
 	aUd20_fF61	=	580173794;
 	woQS8UV9c	=	-1824680940;
 	k2M_0	=	-1859118671;
@@ -38,7 +38,7 @@ int main(int argc, char** argv) {
 	dMAsHco_NZ	=	(char)-1520885333;
 	YWb0t	=	(char)657705575;
 	fo91V	=	(char)739137519;
-	YYpK	=	-821343144;
+	YYpK	=	(char)-821343144;
 	v79Hbj56	=	-565309398;
 	FG_z2Yamcw	=	-904092834;
 	dp74	=	2062284541;
@@ -48,7 +48,7 @@ int main(int argc, char** argv) {
 	jrz4	=	(char)-1185758098;
 	JAlqEg4	=	(char)-2102240460;
 	sH7s28h02O	=	(char)1321237306;
-	mlFfJ43bb	=	-1738073296;
+	mlFfJ43bb	=	(char)-1738073296;
 	NqlQuAz	=	663811787;
 	WvDNv	=	304457784;
 	thIZeZrir	=	-1218969867;
@@ -58,7 +58,7 @@ int main(int argc, char** argv) {
 	on5lA0_	=	(char)860349944;
 	Q3cwST	=	(char)-1717364078;
 	yL9NXNA	=	(char)-1994893425;
-	bba_3Yq7_	=	-1695424241;
+	bba_3Yq7_	=	(char)-1695424241;
 	idY2il	=	-510419577;
 	V6hxPm8	=	-208667424;
 	K4o0Y2GA	=	-1438138637;
@@ -68,7 +68,7 @@ int main(int argc, char** argv) {
 	p1Xb	=	(char)1647615195;
 	GEZbt05p52	=	(char)-230507620;
 	snsFHV2X	=	(char)-720076717;
-	i4u27L	=	-627021841;
+	i4u27L	=	(char)-627021841;
 	ZcuQ_IXU6	=	-743863058;
 	bI_2	=	-1667875400;
 	N4hd4	=	-1786449965;
@@ -78,7 +78,7 @@ int main(int argc, char** argv) {
 	FMt9I7f0X	=	(char)1809125009;
 	EB8c7rsK6o	=	(char)1175692830;
 	xz_ulqXmz	=	(char)81607558;
-	YhX4N4G5P	=	470493522;
+	YhX4N4G5P	=	(char)470493522;
 	Ti_1sa41	=	2066674188;
 	U7WN	=	-656722748;
 	X3591z	=	708246781;
@@ -88,7 +88,7 @@ int main(int argc, char** argv) {
 	oZC98VR	=	(char)1648486244;
 	wyHd8	=	(char)-1210322461;
 	aQQ1bV3Qd	=	(char)-501765717;
-	Nmac	=	700636368;
+	Nmac	=	(char)700636368;
 	aodH7	=	1491052381;
 	jQ46KS_rP	=	216993;
 	uu23SEcU8	=	-981960673;
@@ -98,7 +98,7 @@ int main(int argc, char** argv) {
 	aorl37	=	(char)1454146595;
 	NmuV	=	(char)-1344402132;
 	k8UKc5	=	(char)-1328312195;
-	f64N_2Pz	=	438344090;
+	f64N_2Pz	=	(char)438344090;
 	jsZ5650t	=	-1040474417;
 
 switch (NqlQuAz)
@@ -420,7 +420,7 @@ case 'e':
 bba_3Yq7_ = XL2yajY / JAlqEg4;
 break;
 default:
-n893 = u88P(-1669087258, -1462895708, (unsigned short)1625418449, (unsigned short)788130165, 1981312824);
+n893 = u88P(-1669087258, -1462895708, (unsigned short)1625418449, (unsigned short)788130165, (unsigned char)1981312824);
 break;
 }
 }

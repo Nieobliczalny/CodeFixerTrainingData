@@ -43,7 +43,7 @@ int main(int argc, char** argv) {
 	int	Zw9j	=	1127532434;
 	short	vJ3crw	=	(short)-1881469805;
     short int    p_Sz    =    (short)886495157;
- unsigned short eMDxM1 = 21454112;
+ unsigned short eMDxM1 = (unsigned short)21454112;
 	long long	b7h79	=	-1557105355;
     unsigned long long    ArhU    =    203388953;
 	long long	u5cJk	=	131136813;
@@ -79,7 +79,7 @@ int main(int argc, char** argv) {
 	unsigned int	ELxp9U	=	1924957412;
 	short int	yLdiMh	=	(short)-1449753737;
     unsigned short    P_eF6    =    (unsigned short)-79614948;
-  short  iFVJ_TX  =  -1341819221;
+  short  iFVJ_TX  =  (short)-1341819221;
  unsigned long long nhsqk0nm = -1575830177;
 	unsigned long	c8B9X6_	=	1470832471;
 	char	WfESf7_m	=	(char)-1145815261;
@@ -91,7 +91,7 @@ int main(int argc, char** argv) {
     short    Jf2J    =    (short)-480041819;
   unsigned long  T98E4  =  1510412776;
 	long	xk95uKTW_	=	0;
- char m26_L3 = 1460108651;
+ char m26_L3 = (char)1460108651;
     long long    o9syABj    =    -1590719777;
  long uX9Mp = 0;
  unsigned char n3_3F9C = (unsigned char)1815430176;
@@ -108,7 +108,7 @@ int main(int argc, char** argv) {
     unsigned short    z5g7B7    =    (unsigned short)-715245030;
   char  JV_4j  =  (char)1848539806;
     unsigned char    W7Ai_    =    (unsigned char)-779391938;
-	unsigned char	qs2LZH	=	-787531001;
+	unsigned char	qs2LZH	=	(unsigned char)-787531001;
   long  WIE01zB  =  -1854513337;
  unsigned short int Mr6FRD = (unsigned short)817258720;
 
@@ -236,7 +236,7 @@ cout << "m1NC" << e18yl << n9eWPNB(-742860662, (unsigned char)-831296709) << QMD
 }
 else if (((z5CuI_ > 10551051) && (T3D88 == -1455545278)) && ((lX5FZ8FSP <= 220083570) && (F6lh4m_3w > rqWEck_6kE)))
 {
-cout << q0P006 << n9eWPNB(244078500, 27851444) << endl;
+cout << q0P006 << n9eWPNB(244078500, (unsigned char)27851444) << endl;
 }
 else
 {

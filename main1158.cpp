@@ -31,7 +31,7 @@ for (int i = 2; i >= 0; --i)
 {
 cout << vorK1T() << endl;
 }
-cout << g0O36hUvV(1935209474, B74x14, K_6YshDj8) << NB1IoS5c1 << endl;
+cout << g0O36hUvV((short)1935209474, B74x14, K_6YshDj8) << NB1IoS5c1 << endl;
 for (int i = 5; i >= 0; i--)
 {
 try

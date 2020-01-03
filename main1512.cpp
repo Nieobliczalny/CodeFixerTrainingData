@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
  AIGNJYtI6 = (char)1015981845;
  I_cLYe5zK = (char)-1384673976;
  srHb7o = (char)-356919557;
- HMEY = 785697426;
+ HMEY = (char)785697426;
  iwf1jms1Y9 = -1017752224;
  X0pyYAm2F4 = -961639305;
  I7GQ = 646684386;
@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
  y1dV = (char)-2056529593;
  b02uv = (char)1938592233;
  KF1OpO = (char)664908305;
- X366kg_90 = -774063356;
+ X366kg_90 = (char)-774063356;
  GkoH = 742783951;
  J69hA = -392257316;
  Igc_3EOG = 283491505;
@@ -50,7 +50,7 @@ int main(int argc, char** argv) {
  hJBzBbL = (char)-1450283895;
  oRQ6784 = (char)-1086884526;
  eG3Q = (char)-1969130180;
- uQIldElQ = -1563308407;
+ uQIldElQ = (char)-1563308407;
  Ve4ft5DW = -431488615;
  wn_od = 1295393550;
  kNAac = 1568198305;
@@ -60,7 +60,7 @@ int main(int argc, char** argv) {
  v7KM549 = (char)-628779599;
  CVuN6I_z = (char)2018941038;
  ji35k = (char)351924312;
- AlUi1Y6v8 = 1402097483;
+ AlUi1Y6v8 = (char)1402097483;
  f0UZt_1_b1 = -1696967161;
  c8bR_9ZU = -1152613978;
  dR3E = 2045135320;
@@ -70,7 +70,7 @@ int main(int argc, char** argv) {
  oSCyKq = (char)751634709;
  y0yunX = (char)427154210;
  bHMtF0b9Jr = (char)2107847171;
- mNuq = -1502163062;
+ mNuq = (char)-1502163062;
  aT9oikc = -345060302;
  xqI5T = -206107741;
  CIUz = -1131469819;
@@ -80,7 +80,7 @@ int main(int argc, char** argv) {
  YY4peOZ6 = (char)1379364935;
  VlsM1 = (char)-311691270;
  Le_f4cvBa = (char)-1412782711;
- Mzd7 = -1931453392;
+ Mzd7 = (char)-1931453392;
  CH547L5GY = 417774646;
  GN45i97Gz0 = -2141112728;
  aECC = 213172092;
@@ -90,7 +90,7 @@ int main(int argc, char** argv) {
  W894Gwvxxo = (char)728754811;
  gziw6l_ = (char)1910231792;
  YmTvZEb61 = (char)-1746574755;
- zlc15N5 = 540696760;
+ zlc15N5 = (char)540696760;
  w3ori18 = 461974437;
  OONz0P4o4 = 1418945922;
  O232_PR = 1117930076;
@@ -100,7 +100,7 @@ int main(int argc, char** argv) {
  ewL1MeI8M = (char)-854757812;
  Csw962T65 = (char)-1028814763;
  i2UQj4fH2 = (char)459876147;
- D8D80zhp = 298271668;
+ D8D80zhp = (char)298271668;
  zp8rf = 796733453;
  p06ef53PJ = -1142490935;
  p6Xwn = 623123405;

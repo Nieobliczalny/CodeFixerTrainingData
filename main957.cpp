@@ -21,7 +21,7 @@ int main(void) {
     char    lCyFGDN5F    =    (char)-357602666;
  char g8_5H = (char)1306615617;
     char    wjVH895CJQ    =    (char)-1496692028;
-  unsigned short int  SQ08  =  -70519363;
+  unsigned short int  SQ08  =  (unsigned short)-70519363;
 	char	vq3K2Yv1Aq	=	-237505875;
   unsigned long  haVFg  =  -1242621967;
     long long    npEQ    =    -391439335;

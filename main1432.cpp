@@ -382,7 +382,7 @@ case 3:
 fYumqu = hsPz66zmle(fYumqu, (short)1505052778, (unsigned short)-350752692, (short)-1649933849, Z_0bhIo);
 break;
 case 4:
-oLpFqwU = hsPz66zmle((char)-1689292504, on14iM, -669883027, LzsWuA, TLb643);
+oLpFqwU = hsPz66zmle((char)-1689292504, on14iM, (unsigned short)-669883027, LzsWuA, TLb643);
 break;
 case 5:
 lgLyfLP3hH = h_s3rR6((short)-1053387151, -1746832978, -143192935);

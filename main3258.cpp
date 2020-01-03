@@ -49,7 +49,7 @@ int main() {
 	unsigned long long	VnWYM0H4sN	=	224066839;
     float    OtGpLhJ4    =    401231163;
 	unsigned char	GXd2N	=	(unsigned char)-2012367336;
-  unsigned short int  FDYX41m0ED  =  -1343501847;
+  unsigned short int  FDYX41m0ED  =  (unsigned short)-1343501847;
  short TVSIya2 = (short)-840143501;
   short  y9W_dU4_  =  -1418662315;
   short  c3HOed  =  (short)691182663;

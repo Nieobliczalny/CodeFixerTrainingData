@@ -61,7 +61,7 @@ int main() {
     char    FyCX0la_0    =    (char)-816415744;
 	short int	S9hydB0	=	(short)-1561823971;
 	short int	ir6D	=	(short)-1357712889;
-    unsigned char    RIAvX    =    -108967313;
+    unsigned char    RIAvX    =    (unsigned char)-108967313;
   unsigned long long  au_dtAZ  =  -1917299777;
  unsigned char YsA4AjA_PM = (unsigned char)2038288928;
  long long xMvnP_oDcI = 36202062;

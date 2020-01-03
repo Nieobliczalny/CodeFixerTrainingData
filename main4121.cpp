@@ -52,7 +52,7 @@ int main(void)
     char    K_Srrx    =    (char)-1764744876;
   unsigned short  R4nMD3we  =  (unsigned short)-421350670;
   char  mXa1TC76  =  (char)-1278223027;
-    unsigned short    t_1l2t5    =    1231825444;
+    unsigned short    t_1l2t5    =    (unsigned short)1231825444;
 	unsigned int	Km3QW_Qt	=	-1029705930;
 	char	F2eOw3	=	0;
     short    Q51DF28rH5    =    (short)-1687265717;

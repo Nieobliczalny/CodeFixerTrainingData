@@ -36,7 +36,7 @@ int main(void) {
  long long XQW_R = -721032374;
  unsigned long long taxo45Z33 = 1870422510;
   short int  PUfvhnG  =  (short)1853004528;
-	short	aKRe03	=	404459560;
+	short	aKRe03	=	(short)404459560;
     short    k85pis    =    294583340;
 	long	aWhG6Ys	=	0;
     int    xc47h5    =    1518785950;

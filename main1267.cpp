@@ -28,7 +28,7 @@ int main(void) {
     QS0Xgi    =    (short)-1012817020;
     VUU8kEdZz    =    (short)2110784621;
     Pl_1C9    =    (short)760374500;
-    t0R06kM8    =    -1150921103;
+    t0R06kM8    =    (short)-1150921103;
     X249nhQ    =    -1470053096;
     OzrY    =    1456959732;
     cIFib    =    -1567095839;
@@ -38,7 +38,7 @@ int main(void) {
     wLgrZ    =    (short)-1665721775;
     j2kzi_t2    =    (short)1970006756;
     oU5647O5A    =    (short)1132196882;
-    D8328Za_    =    413589348;
+    D8328Za_    =    (short)413589348;
     FH455    =    270529619;
     A56KCgp3rD    =    -1646367054;
     e9ZsyHiY4W    =    1916146447;
@@ -48,7 +48,7 @@ int main(void) {
     vAad5n7N5    =    (short)-353459984;
     Mvl02    =    (short)1694319606;
     w2YWOj1    =    (short)-186408168;
-    DGpkk    =    -259519719;
+    DGpkk    =    (short)-259519719;
     q4_A41    =    -404033332;
     WwJ2e    =    888516614;
     v27T9H    =    -1386488423;
@@ -58,7 +58,7 @@ int main(void) {
     I713R    =    (short)130229741;
     N9_Z7M    =    (short)1522507384;
     Ip60    =    (short)482611631;
-    sXO12p    =    1550098417;
+    sXO12p    =    (short)1550098417;
     pclEb    =    -75063585;
     s4QgP24z1O    =    -1989538713;
     ltcG    =    -79972495;
@@ -68,7 +68,7 @@ int main(void) {
     eM08Txv    =    (short)1049829985;
     jV46b    =    (short)-848392217;
     AzTF5Y    =    (short)1135332600;
-    A_hz    =    -1291331437;
+    A_hz    =    (short)-1291331437;
     rFy8h    =    -887000587;
     zI0PD39v    =    -461347975;
     v2_85A925    =    -1973403086;
@@ -78,7 +78,7 @@ int main(void) {
     OU3IT    =    (short)-505580779;
     K3yH6M84lb    =    (short)1428473032;
     q19a_u8    =    (short)210479466;
-    r8Y9XdcG8    =    1572086288;
+    r8Y9XdcG8    =    (short)1572086288;
     ERlM1jUj4G    =    1694983658;
     r7_5    =    1575961788;
     F7W1    =    -787394164;
@@ -88,7 +88,7 @@ int main(void) {
     gWrY    =    (short)-179669509;
     jOulnaH    =    (short)956902958;
     Avd82    =    (short)1753880084;
-    Z9Riq3    =    1253504925;
+    Z9Riq3    =    (short)1253504925;
 
 {
 int i = 1;

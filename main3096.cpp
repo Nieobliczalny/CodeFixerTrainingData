@@ -47,7 +47,7 @@ int main(void)
     char    p7oIO8Vb    =    (char)513003538;
 	char	LJK3lY9x	=	(char)-824592591;
 	char	iU6a0	=	(char)-100988364;
-  short  hjm6ewW9  =  857665353;
+  short  hjm6ewW9  =  (short)857665353;
  long long Qj7_9xL2x = -1592558863;
  short int H6UOn635 = (short)1594323329;
  char ZUYaM5 = -1147915459;

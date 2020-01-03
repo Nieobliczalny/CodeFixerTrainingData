@@ -218,7 +218,7 @@ case 5:
 w5vuxaXd = g25bN10d(DKU93Qm, (short)-390686119, (unsigned short)1311334527);
 break;
 case 6:
-w5vuxaXd = g25bN10d(jNqrxL8L, (short)-2141872106, 2093002327);
+w5vuxaXd = g25bN10d(jNqrxL8L, (short)-2141872106, (unsigned short)2093002327);
 break;
 case 7:
 aaZ25Z4im2 = (int)floor(pxSJO);

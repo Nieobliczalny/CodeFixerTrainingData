@@ -80,7 +80,7 @@ int main(void) {
 	long	F4XsTG	=	-1289300533;
     unsigned short int    Z1W0wQjS    =    (unsigned short)-834086496;
  long double R6DK7U3Be = -2635171;
-    unsigned char    Svsbo1v98    =    -1479855587;
+    unsigned char    Svsbo1v98    =    (unsigned char)-1479855587;
 	int	kR8UfvMaSV	=	1494353418;
   int  pvCQs867D9  =  2117410412;
     long double    uuaoH1Vio    =    -1252559169;

@@ -324,7 +324,7 @@ case 2:
 twrcIE9t65 = T9Nf1S5 - 619264843;
 break;
 case 3:
-T9Nf1S5 = Chij((unsigned char)-1417034234, -1237962818, Y7yj4e6qv, Xm2FhcWwK);
+T9Nf1S5 = Chij((unsigned char)-1417034234, (short)-1237962818, Y7yj4e6qv, Xm2FhcWwK);
 break;
 case 4:
 qwE4IzO++;
@@ -371,7 +371,7 @@ MzvU4FocWO = OPjV(1973830638, nKPS_, DM3O, (char)1138695714, (unsigned short)-32
 }
 else
 {
-rSc6b_X = cud6((short)760549480, -999781116, -1001363384, abtYmZnY);
+rSc6b_X = cud6((short)760549480, (short)-999781116, -1001363384, abtYmZnY);
 }
 }
 while (j < 7);

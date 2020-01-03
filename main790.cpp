@@ -237,7 +237,7 @@ pT2z = QOpFr(pT2z, 1245773582, (unsigned char)1318551486, (short)-426990201);
 break;
 case 'f':
 case 'F':
-pT2z = QOpFr(pT2z, uV16TR, O6Bgk, -153862970);
+pT2z = QOpFr(pT2z, uV16TR, O6Bgk, (short)-153862970);
 break;
 case 'g':
 case 'G':

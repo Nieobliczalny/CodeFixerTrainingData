@@ -64,7 +64,7 @@ case 'c':
 ImcR *= 1265228189;
 break;
 case 'd':
-JYjOIM1 = pvIw(2117517199);
+JYjOIM1 = pvIw((char)2117517199);
 break;
 case 'e':
 LxC8V = JYjOIM1 >> w42bYz2uW;

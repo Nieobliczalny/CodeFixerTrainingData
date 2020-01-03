@@ -41,7 +41,7 @@ int main()
   int  WlW55FZOt  =  2013515384;
   double  sC1u7_Qv  =  2091550213;
   unsigned char  iqHlfLd  =  (unsigned char)-1356433704;
-    char    kPSz2G    =    -416117608;
+    char    kPSz2G    =    (char)-416117608;
   double  RpATTD02_  =  -804336523;
  long long G_pfZ = -2137334615;
     unsigned long long    WXNAwmN    =    0;
@@ -53,7 +53,7 @@ int main()
     unsigned int    AUz5WDf    =    -549498411;
  unsigned long HA98QIT = 414551240;
   short  EGf1D6dBI  =  (short)1569624439;
-  unsigned char  Od_pb  =  983978689;
+  unsigned char  Od_pb  =  (unsigned char)983978689;
 	float	Nk4fGJCKQV	=	-1553055413;
     long    L6H241KC    =    -197111446;
 	long	EAS6	=	-607826804;

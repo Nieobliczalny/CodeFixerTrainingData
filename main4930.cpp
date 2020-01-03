@@ -44,7 +44,7 @@ int main(void) {
     unsigned long    pYf4    =    -2077930948;
     float    l2Mh    =    1100671121;
 	unsigned short int	t_e4	=	(unsigned short)280128213;
-  char  vLuCzcqcnm  =  2019287901;
+  char  vLuCzcqcnm  =  (char)2019287901;
 	unsigned int	yON1eaOdk4	=	-1556169797;
 	char	BmGf62M8G	=	0;
  unsigned short pRb1 = (unsigned short)-345807757;

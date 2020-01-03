@@ -24,7 +24,7 @@ int main()
 	unsigned short int	e_u56uuG	=	(unsigned short)1781718747;
     long    cAI6C_Y    =    -1035919943;
     short    e025qe3    =    (short)-339475117;
-  short  y4vN  =  -26309658;
+  short  y4vN  =  (short)-26309658;
     unsigned long    LL9A6JsZ    =    257140444;
     double    m5qE5pRg6    =    307139607;
   unsigned long long  IV8Oa  =  -865778782;

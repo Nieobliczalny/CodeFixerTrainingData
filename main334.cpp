@@ -26,7 +26,7 @@ int main(void) {
   unsigned int  et91lAZ  =  -1244145608;
  short wz6rNmUl = (short)1303679639;
     char    d7_pb046T4    =    (char)1590843186;
- unsigned char zTS2lwBjL = 898555180;
+ unsigned char zTS2lwBjL = (unsigned char)898555180;
 	short int	g5d_	=	-1651499921;
   double  Wveq7  =  -1275879861;
 	unsigned short int	ImrkLx4	=	(unsigned short)-1060271918;
@@ -54,7 +54,7 @@ case 4:
 Wveq7 = (int)abs(Vt8_c);
 break;
 case 5:
-e0_tb3G = n1m_2luA14((short)198415781, zTS2lwBjL, (unsigned short)-377641354, -611098049);
+e0_tb3G = n1m_2luA14((short)198415781, zTS2lwBjL, (unsigned short)-377641354, (short)-611098049);
 break;
 }
 Wveq7 = (double)(Q_3et);
@@ -72,7 +72,7 @@ break;
 }
 
 RKj6q = n1m_2luA14((short)-2086302760, RfR627CVlJ, (unsigned short)49065908, e0_tb3G) / n1m_2luA14(zTS2lwBjL, RfR627CVlJ, (unsigned short)1494195904, (short)-997350140);
-zTS2lwBjL = i4Y6_ue(-2056990829, YcvANWI, (unsigned short)-926721403, RfR627CVlJ, 1830701717);
+zTS2lwBjL = i4Y6_ue(-2056990829, YcvANWI, (unsigned short)-926721403, RfR627CVlJ, (short)1830701717);
 
 return 0;
 }

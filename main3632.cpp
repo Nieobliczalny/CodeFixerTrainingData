@@ -24,7 +24,7 @@ int main(void) {
 	Vl3VmQEHrO	=	(unsigned char)1440962303;
 	pAHAGAh	=	(unsigned char)-518139480;
 	v4j50	=	(unsigned char)-1833673944;
-	haM1k4	=	-1711361178;
+	haM1k4	=	(unsigned char)-1711361178;
 	Sk14_	=	1152811677;
 	jt7V	=	-646147842;
 	GFVemNk9p	=	-807274038;
@@ -34,7 +34,7 @@ int main(void) {
 	qDWa	=	(unsigned char)-187892394;
 	w5aCWZ4A2h	=	(unsigned char)-1852404675;
 	ES5iG9_ng	=	(unsigned char)-1646102581;
-	CmXbni	=	-639834831;
+	CmXbni	=	(unsigned char)-639834831;
 	u09_ea	=	-190035801;
 	AgPp0_n_s	=	-262743094;
 	Q_p2778MXu	=	786927599;
@@ -44,7 +44,7 @@ int main(void) {
 	YTji_k_AE	=	(unsigned char)1209212931;
 	t7n5a	=	(unsigned char)1150309197;
 	V6kRw1GZ	=	(unsigned char)1757838798;
-	ndNj	=	-1745852509;
+	ndNj	=	(unsigned char)-1745852509;
 	VCx8L3J	=	-1029274651;
 	r_RoaQ_	=	1045269165;
 	kwyh	=	-2014919124;
@@ -54,7 +54,7 @@ int main(void) {
 	ZknQi7	=	(unsigned char)-1889312651;
 	egG68775B	=	(unsigned char)2047471244;
 	tFP7azr_P7	=	(unsigned char)-2104640350;
-	oh81z3s8	=	-300821614;
+	oh81z3s8	=	(unsigned char)-300821614;
 	M_0yaIX442	=	199545805;
 	RlCly3	=	344152742;
 	Pbtuo0	=	-1725143055;
@@ -64,7 +64,7 @@ int main(void) {
 	Fe_9nBX12	=	(unsigned char)-1171427695;
 	m_4H_01Eu	=	(unsigned char)-779356338;
 	Sokn1o	=	(unsigned char)1867296816;
-	P7DuOG	=	202800723;
+	P7DuOG	=	(unsigned char)202800723;
 	B64j	=	-454106653;
 	jBQ4VyiP	=	904972142;
 	Y2p3UHp4	=	-182269921;
@@ -74,7 +74,7 @@ int main(void) {
 	V41K71j	=	(unsigned char)2143367036;
 	hchV1109Y	=	(unsigned char)498684479;
 	Dhu5BEwdp	=	(unsigned char)2132635078;
-	Xu_vR1O	=	261348336;
+	Xu_vR1O	=	(unsigned char)261348336;
 	t0ac0SN7m	=	1679010594;
 	S8usVOL8S	=	1073612535;
 	a8jD4qiR3	=	-296448837;
@@ -84,7 +84,7 @@ int main(void) {
 	rB_w05SM65	=	(unsigned char)1194068989;
 	GOZ_pJb6s4	=	(unsigned char)1096014772;
 	m0g9D25CW	=	(unsigned char)1563613711;
-	uCLkTK80	=	-1116210394;
+	uCLkTK80	=	(unsigned char)-1116210394;
 	KA28	=	1675818106;
 	ukt9He_C77	=	588768775;
 	A1J2P	=	-1883384877;
@@ -433,7 +433,7 @@ VCx8L3J = zud5(VCx8L3J, -1503181297, V41K71j, (short)-1989733952, (short)2224519
 }
 else if (egG68775B != -1480993912)
 {
-Dhu5BEwdp = zud5((unsigned short)-505487040, 1489053210, (short)-2113569739, jt7V, -461253644);
+Dhu5BEwdp = zud5((unsigned short)-505487040, 1489053210, (short)-2113569739, jt7V, (short)-461253644);
 }
 else
 {

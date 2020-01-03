@@ -125,7 +125,7 @@ case 0:
 Sjzg = nQ1Jn((unsigned short)1954945959, zQYhd, (char)-1481182230, (char)1898330539);
 break;
 case 1:
-P0G_ = nQ1Jn((unsigned short)253060945, (char)-1429165067, d_ezKl75l, 948575548) / TwPI0_3D6;
+P0G_ = nQ1Jn((unsigned short)253060945, (char)-1429165067, d_ezKl75l, (char)948575548) / TwPI0_3D6;
 break;
 }
 

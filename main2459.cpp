@@ -59,7 +59,7 @@ int main()
 	unsigned short	xU_23511	=	(unsigned short)1213518495;
     short int    BbVGyK    =    (short)689738316;
   short int  shoX  =  (short)2117737687;
-  short  R3C0aG00s  =  -51290856;
+  short  R3C0aG00s  =  (short)-51290856;
 	int	VQ1V91	=	1728644150;
 	unsigned long long	n5avnh	=	1006916064;
     int    o99dw3V    =    1106128198;

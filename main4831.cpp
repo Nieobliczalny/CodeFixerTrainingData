@@ -57,7 +57,7 @@ int main(void) {
  unsigned char h9Mt_6EwNt = (unsigned char)227495891;
     long double    o0Fu_    =    81415591;
   unsigned char  o7G7kM4  =  (unsigned char)2046435999;
-	unsigned short int	bXgWvJbA	=	934473342;
+	unsigned short int	bXgWvJbA	=	(unsigned short)934473342;
 	unsigned short int	ldK99C1nj	=	(unsigned short)797691533;
   unsigned short int  WgU3DAr9  =  (unsigned short)620792164;
 	short int	sxDd9Tc093	=	926606210;

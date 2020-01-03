@@ -359,7 +359,7 @@ case 6:
 Z84_6 = EW1z5((unsigned short)-135242186, R9zFA, 1798254608, JhOyQcUJv, (unsigned short)433154867);
 break;
 case 7:
-pRrFg = Pp3Xyvt2(pRrFg, 708972231);
+pRrFg = Pp3Xyvt2(pRrFg, (short)708972231);
 break;
 case 8:
 y6VK7gS = (int)ceil(txX6W);

@@ -214,7 +214,7 @@ std::cout << "RYfgk5e4mQ" << wi3p4NSXL8 << std::endl;
 
 std::cout << KXN6G((unsigned char)574539677, wi3p4NSXL8, (unsigned char)-1963515324) << std::endl;
 
-if ((KXN6G((unsigned char)-556167038, -1986426695, 40369259) / De6CfFNgC) <= 1477626308)
+if ((KXN6G((unsigned char)-556167038, -1986426695, (unsigned char)40369259) / De6CfFNgC) <= 1477626308)
 {
 wi3p4NSXL8 = -768975892 / De6CfFNgC;
 }

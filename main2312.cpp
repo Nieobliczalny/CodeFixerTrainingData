@@ -142,7 +142,7 @@ case 3:
 YI_241U0t = K1T3eC9(Pe45Ox5, (unsigned short)-1934259030, 381862570, 1176760631);
 break;
 case 4:
-e4Do948 = (dAkTF6z9a == SYPA3FoeN) ? K1T3eC9(Pe45Ox5, (unsigned short)-595397130, GQEi7, pgPa_j) : -1473751502;
+e4Do948 = (dAkTF6z9a == SYPA3FoeN) ? K1T3eC9(Pe45Ox5, (unsigned short)-595397130, GQEi7, pgPa_j) : (char)-1473751502;
 break;
 case 5:
 vjrb3 = K1T3eC9(CuHiiY2I6A, (unsigned short)-277349339, 2117287608, Hi8S_xbJv);

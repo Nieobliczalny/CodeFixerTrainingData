@@ -39,7 +39,7 @@ int main(int argc, char** argv) {
 	int	YSdao3	=	-394131941;
 	unsigned char	zTp0R49c	=	(unsigned char)756903834;
     short    a0Vi    =    (short)778393328;
- char EDE739Am = -1226420370;
+ char EDE739Am = (char)-1226420370;
     unsigned long long    pT5__T    =    -1964365272;
  unsigned int XVvQ4LTk9u = -206602718;
     unsigned long    X2svj30g1    =    0;

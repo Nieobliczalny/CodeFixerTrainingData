@@ -184,7 +184,7 @@ case 6:
 SkVUJJ2 = OvqbAAw((short)399742382, (short)1636284979);
 break;
 case 7:
-Q3Wa7nnj = cK626qK5j(Q3Wa7nnj, -503294332, x3eg, MLwU, -1577018388);
+Q3Wa7nnj = cK626qK5j(Q3Wa7nnj, (unsigned short)-503294332, x3eg, MLwU, -1577018388);
 break;
 case 8:
 AaObf = cK626qK5j(1329929204, (unsigned short)1854558799, 543577793, n1yA1FWV, ai911Ds32m);
@@ -413,7 +413,7 @@ W0kj = v_4i87(217633408, (short)2061289271, (unsigned short)-1650560785, M6_xdtw
 
 if ((ai911Ds32m) || ((t7_C1) && (WpcVm >= I3s4)))
 {
-cout << I3s4 << cK626qK5j(W0kj, (unsigned short)927897492, (unsigned char)-2025610869, M6_xdtwX2, (char)151983005) << v_4i87(-1284932328, I3s4, 1023855481, M6_xdtwX2, w5RU) << endl;
+cout << I3s4 << cK626qK5j(W0kj, (unsigned short)927897492, (unsigned char)-2025610869, M6_xdtwX2, (char)151983005) << v_4i87(-1284932328, I3s4, (unsigned short)1023855481, M6_xdtwX2, w5RU) << endl;
 }
 
 {

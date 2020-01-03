@@ -519,7 +519,7 @@ ufo5MUc = o3IcD19_F3((unsigned char)-1261695265, (unsigned char)1154723005);
 }
 else
 {
-Ov17rr = defF((unsigned short)1751068012, 1804507973, Ov17rr, 1307801903);
+Ov17rr = defF((unsigned short)1751068012, (unsigned short)1804507973, Ov17rr, 1307801903);
 }
 }
 }

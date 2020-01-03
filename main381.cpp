@@ -21,7 +21,7 @@ int main(void) {
   short  bIZ081sT3U  =  (short)-1226959723;
     char    E06Z6    =    (char)-322353640;
  unsigned int zS2m19J3_ = 1759124077;
-    short    Lzv05dIx7h    =    228767098;
+    short    Lzv05dIx7h    =    (short)228767098;
     unsigned long long    Spa87f    =    -1397836398;
 	unsigned short	OO16M9	=	(unsigned short)-2103501984;
 	long double	b2C9	=	771029212;

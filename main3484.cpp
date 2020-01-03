@@ -233,7 +233,7 @@ case 5:
 jerI9l = C5CV5((unsigned short)335521506, -374603046, REU98Ab);
 break;
 case 6:
-G46Ivt4xI = b9S7FkX2(1549890119, ZtuN51e, (unsigned char)-1314155523, (unsigned short)-914523160, 156242873);
+G46Ivt4xI = b9S7FkX2(1549890119, ZtuN51e, (unsigned char)-1314155523, (unsigned short)-914523160, (char)156242873);
 break;
 case 7:
 G46Ivt4xI = b9S7FkX2(-1460724860, R3XM8Lu0, B8q597D78, xW0AsL, N___nfr);
@@ -494,7 +494,7 @@ case 3:
 V2n2AAyf = b9S7FkX2(838408818, X8ce, (unsigned char)9486825, (unsigned short)1595064295, (char)1296830004);
 break;
 case 4:
-zVG0SGu = uRFET(1744914858, R3XM8Lu0);
+zVG0SGu = uRFET((short)1744914858, R3XM8Lu0);
 break;
 default:
 qp7X9Xmi_0 = (int)abs(REU98Ab);

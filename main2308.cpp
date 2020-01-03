@@ -414,7 +414,7 @@ case 2:
 eoEq7qWW = (int)abs(F6G_lCR9);
 break;
 case 3:
-YW2yh2f = ust96d((unsigned short)848724954, Pb84l, -1892777339, (unsigned short)-2004113987, 120235770);
+YW2yh2f = ust96d((unsigned short)848724954, Pb84l, -1892777339, (unsigned short)-2004113987, (short)120235770);
 break;
 case 4:
 F6G_lCR9 = (int)abs(M95ZlcfyX2);

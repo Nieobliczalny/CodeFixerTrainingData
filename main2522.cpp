@@ -279,7 +279,7 @@ case 'd':
 T2ae607 &= 653373698;
 break;
 case 'e':
-Wrvr8bJ5z = viZ231((unsigned short)-1033467451, 1962672936, T2ae607, Wrvr8bJ5z, 278340825);
+Wrvr8bJ5z = viZ231((unsigned short)-1033467451, (unsigned short)1962672936, T2ae607, Wrvr8bJ5z, 278340825);
 break;
 }
 if (Uq_SmL8YQj >= T2ae607)

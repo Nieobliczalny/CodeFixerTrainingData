@@ -233,7 +233,7 @@ case 'g':
 MX55eh1NjT = siy_hU((short)-288037277);
 break;
 case 'h':
-oXxcw = h83qqyt4N((short)-296922831, xZKC, (unsigned short)647727102, 359379148);
+oXxcw = h83qqyt4N((short)-296922831, xZKC, (unsigned short)647727102, (unsigned short)359379148);
 break;
 case 'i':
 LX1Hv_E = DZ436bp48 - 1021691761;

@@ -38,7 +38,7 @@ int main(int argc, char** argv)
  F8Ze2 = (short)1822175982;
  ck6Q = (short)-1953434375;
  xDHLd9I6 = (short)325329483;
- Zjr_V367 = -319396171;
+ Zjr_V367 = (short)-319396171;
  osY5 = -1241110990;
  ia4Vsi919F = -588535935;
  aknJ39 = -593111257;
@@ -48,7 +48,7 @@ int main(int argc, char** argv)
  VM59mg = (short)1866169593;
  Yek0 = (short)1164357670;
  G1dl44rC3M = (short)-1526548025;
- vBhXqa = -8467407;
+ vBhXqa = (short)-8467407;
  iy2e85 = 1807457557;
  aKfs = 1687921038;
  yf666 = -1354149163;
@@ -58,7 +58,7 @@ int main(int argc, char** argv)
  AhiYTjg7qu = (short)-1411598104;
  xwUVad4_A0 = (short)-2026978712;
  w_Lo1 = (short)1277424944;
- nrG4Z = 2119483489;
+ nrG4Z = (short)2119483489;
  soojMkF3L = 1726790368;
  K4U_YK1j_P = -703836601;
  jUYbYn_ = 1141302093;
@@ -68,7 +68,7 @@ int main(int argc, char** argv)
  PgqcHCB = (short)1159744233;
  JrfSEJ6KR2 = (short)519940009;
  QOZ17_PS_ = (short)-1462208149;
- sWlKRln = -1222229845;
+ sWlKRln = (short)-1222229845;
  Bv6S_ = -2065564752;
  Yevv63Bt8 = -449599698;
  TJs00k4 = 1388442088;
@@ -78,7 +78,7 @@ int main(int argc, char** argv)
  Y_5N8Gi = (short)1109211660;
  kvAq = (short)2093614254;
  iD7IQ28lV7 = (short)-602335252;
- tsW2dPehV = 1253662532;
+ tsW2dPehV = (short)1253662532;
  SXN2 = 2037831221;
  VEf818 = -1312501382;
  O5b43F = 756599524;
@@ -88,7 +88,7 @@ int main(int argc, char** argv)
  M___6 = (short)-616196001;
  VcfEf2r = (short)-561838168;
  r1Zr72Y4 = (short)-779739617;
- C3R_6P6e6u = 1309533897;
+ C3R_6P6e6u = (short)1309533897;
  tG6Ua961 = -441725309;
  Vbi7 = -1638991206;
  Rd5vka_5Z = -1329926004;
@@ -98,7 +98,7 @@ int main(int argc, char** argv)
  pfB2 = (short)124739104;
  X_8Vwai = (short)-1427338665;
  k3dh = (short)-999977628;
- e7iWpO = 1847046169;
+ e7iWpO = (short)1847046169;
  Yi6dcUG = 1329850347;
  cC00c = 1974189303;
  ojauOjO_ = 337781605;
@@ -108,7 +108,7 @@ int main(int argc, char** argv)
  xUCFy_j = (short)1946246595;
  RE1itr = (short)637318335;
  WDbQXj = (short)-582861880;
- nfdsb = -1954506142;
+ nfdsb = (short)-1954506142;
 
 if ((aknJ39) || (Yi6dcUG == 1417679359))
 {

@@ -33,7 +33,7 @@ int main(int argc, char** argv) {
 	unsigned long	onR__2Z_O	=	976131273;
   unsigned short int  B04ZR9Q4_2  =  (unsigned short)-2146469752;
     short int    vnvae6JS    =    (short)853759592;
-	short	Bt9_4	=	25598720;
+	short	Bt9_4	=	(short)25598720;
   float  hTCZSx90  =  45746789;
   float  cs9DFB76_1  =  -1430294852;
 	float	hNtPT19q	=	-750947667;

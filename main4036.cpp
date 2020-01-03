@@ -34,7 +34,7 @@ int main()
     unsigned short    rZuZ    =    (unsigned short)-705221571;
 	unsigned char	dFxp_z99w	=	(unsigned char)378350239;
   unsigned long  JMkj2_T  =  1149474095;
-  unsigned short  cZbUOBFW2  =  -1013446455;
+  unsigned short  cZbUOBFW2  =  (unsigned short)-1013446455;
 	unsigned long	bk3113nf34	=	1367609447;
   unsigned int  W_eO  =  -895690025;
   float  bdoVztx2v  =  1495347171;

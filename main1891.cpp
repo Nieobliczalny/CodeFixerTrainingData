@@ -328,7 +328,7 @@ case 5:
 V260ZZ = Xq5_j6n(V260ZZ, (short)-948024247);
 break;
 case 6:
-m3csG9_0U = Xq5_j6n(736712552, 1187886820);
+m3csG9_0U = Xq5_j6n((unsigned char)736712552, 1187886820);
 break;
 }
 ++j;
@@ -441,7 +441,7 @@ break;
 }
 }
 cout << Xq5_j6n((unsigned char)-874006948, (short)90576655) << endl;
-cout << aA3PKJd46G << L6oiCh(nr257mz7UE, (unsigned short)1366866948, -417487135, -428934681) << L6oiCh(-856660035, V260ZZ, mZ_Wta, -1085254335) << Xq5_j6n(-235658367, V260ZZ) << endl;
+cout << aA3PKJd46G << L6oiCh(nr257mz7UE, (unsigned short)1366866948, -417487135, (unsigned short)-428934681) << L6oiCh(-856660035, V260ZZ, mZ_Wta, -1085254335) << Xq5_j6n(-235658367, V260ZZ) << endl;
 for (int i = 6; i >= 0; i--)
 {
 uaYPbj = (unsigned int)(ekNv);

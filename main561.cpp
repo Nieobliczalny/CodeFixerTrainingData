@@ -86,7 +86,7 @@ case 'f':
 mUxFaoQ99 = idx7(1594171981, (unsigned short)-2138314894, (char)290282849, (char)-820397423, (short)-111478125);
 break;
 case 'g':
-Idv05 = idx7(-1010571138, (unsigned short)-1944790498, 1478693623, 486696498, Pl1xU9l_);
+Idv05 = idx7(-1010571138, (unsigned short)-1944790498, (char)1478693623, 486696498, Pl1xU9l_);
 break;
 case 'h':
 b25g8Xlz = y4W62(-263212844, 1299738411, -1374978247);

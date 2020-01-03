@@ -170,7 +170,7 @@ for (int i = 6; i >= 0; --i)
 {
 TZtnFvqT = vpBVn_h1_((unsigned char)-1216251587, kiH3B47, (short)922457821, -1481815358, (short)993446506);
 }
-if ((vpBVn_h1_((unsigned char)-1704434395, kiH3B47, e89sD20CH, P47c1w5, Odzkw) / vpBVn_h1_((unsigned char)1745977181, 740947335, 244984208, P47c1w5, 1955256877)) > 894914919)
+if ((vpBVn_h1_((unsigned char)-1704434395, kiH3B47, e89sD20CH, P47c1w5, Odzkw) / vpBVn_h1_((unsigned char)1745977181, 740947335, (short)244984208, P47c1w5, 1955256877)) > 894914919)
 {
 switch (Ex2plxA)
 {

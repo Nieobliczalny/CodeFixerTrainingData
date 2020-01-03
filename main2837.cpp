@@ -85,7 +85,7 @@ int main() {
 
 for (int i = 0; i < 9; ++i)
 {
-vd635 = fl7GNKJ2O6(-314294563, (unsigned char)408580572, juBJM_H5, -93307962, G0kqXDJ);
+vd635 = fl7GNKJ2O6(-314294563, (unsigned char)408580572, juBJM_H5, (short)-93307962, G0kqXDJ);
 }
 Q8qUk_mUf_ = (unsigned char)(ONq2Bfr4);
 if (m25iT7f & 470228274)

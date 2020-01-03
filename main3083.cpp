@@ -51,7 +51,7 @@ int main(void)
     unsigned char    Wk3t9K7    =    (unsigned char)-1108615415;
   short  P_7_sf0_g  =  (short)710385791;
     double    L2sXTzuho0    =    1315001106;
-  unsigned char  dO72  =  1536659605;
+  unsigned char  dO72  =  (unsigned char)1536659605;
     unsigned int    hdx35HtYSy    =    -204153624;
     char    PL78_Jl    =    (char)-1765831503;
     short int    JBaDl    =    2102136411;

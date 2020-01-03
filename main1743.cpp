@@ -27,7 +27,7 @@ int main(void) {
   unsigned short  xcoX6v0  =  (unsigned short)892927375;
 	char	YYn253D	=	(char)1854459457;
     unsigned char    Fl7u    =    (unsigned char)541955240;
- short int QpDq9qpQ0 = -2129537900;
+ short int QpDq9qpQ0 = (short)-2129537900;
   unsigned short int  Ie_M61u4n  =  1779645190;
 	unsigned char	KEytVMSi	=	(unsigned char)-201250864;
   unsigned char  aVqF3P5t  =  1563723442;

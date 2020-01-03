@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
 	unsigned short int	WX4lR	=	(unsigned short)28161974;
 	unsigned int	TChV87b8	=	-301474711;
  unsigned int pn_e = -1980149544;
-  char  t6hd3  =  -1468802992;
+  char  t6hd3  =  (char)-1468802992;
     short int    YUIe    =    (short)-666538682;
   float  Ly09y84vyU  =  -1779586092;
  short int wlyc = 1939892730;

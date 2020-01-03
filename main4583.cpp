@@ -58,7 +58,7 @@ int main()
     unsigned long long    Y39duF    =    -888062538;
   unsigned short  p_Zrk5R  =  (unsigned short)1219207364;
 	unsigned char	jLJxWq37	=	(unsigned char)-1486586092;
-  unsigned short  ferAwM07  =  -1627569706;
+  unsigned short  ferAwM07  =  (unsigned short)-1627569706;
  unsigned int mwc5 = 969327849;
  double Xfq7E9WB = 833671289;
  short int CtjvM = (short)1214941476;

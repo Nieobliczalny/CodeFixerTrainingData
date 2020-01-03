@@ -39,7 +39,7 @@ int main()
   long double  h6rMOpg3X  =  2098684584;
   short int  sh1c  =  (short)765318315;
   char  H35wx  =  (char)1909780926;
-    unsigned char    V12Qn0yn    =    385492338;
+    unsigned char    V12Qn0yn    =    (unsigned char)385492338;
 	short int	GN9RE40	=	(short)-546733500;
     int    u4jS3X4    =    -338196459;
 	short	aUIR65Xn4	=	1771644189;

@@ -842,7 +842,7 @@ cout << uXsV83dCt << D3FR2r3(489942985, 340833649, (unsigned short)1456279425, (
 }
 try
 {
-cout << Vv4U1GB(T7Ov59zr, Jl9_q, -1789810970, 234147966) << nYfx8 << K4q1s45Ae << D3FR2r3(-2130471950, 198776530, znYYVgFb8, 1477073132) << "k0iI_UoiP" << endl;
+cout << Vv4U1GB(T7Ov59zr, Jl9_q, (char)-1789810970, 234147966) << nYfx8 << K4q1s45Ae << D3FR2r3(-2130471950, 198776530, znYYVgFb8, 1477073132) << "k0iI_UoiP" << endl;
 }
 catch (int& errorCode)
 {

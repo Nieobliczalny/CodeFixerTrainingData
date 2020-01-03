@@ -22,7 +22,7 @@ int main(int argc, char** argv)
 	double	f9KUBIdd	=	1394480482;
  short S6rFRrinr3 = (short)1830721925;
  short int KuDb1yChrH = (short)-183527460;
-	short int	rH2RZ	=	-1835780294;
+	short int	rH2RZ	=	(short)-1835780294;
 	int	fiWx	=	1860980120;
     unsigned long long    mVJQUR    =    1729345632;
     unsigned int    H3hF0i_j1g    =    1004933932;

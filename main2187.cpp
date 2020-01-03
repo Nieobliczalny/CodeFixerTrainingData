@@ -50,7 +50,7 @@ int main(int argc, char** argv) {
  short int yl_DPJGb_d = (short)-1640817386;
     short int    Jdd0_Z0A    =    (short)-291284283;
  unsigned short int aQpVf60_0 = (unsigned short)-2060232641;
-    unsigned short    h1gg5    =    -2038767454;
+    unsigned short    h1gg5    =    (unsigned short)-2038767454;
  unsigned short int kS7KJ = (unsigned short)1915197929;
   short  th0S1qMH7  =  0;
   int  stP6  =  -575220192;

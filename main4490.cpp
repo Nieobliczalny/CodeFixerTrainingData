@@ -20,7 +20,7 @@ int main(int argc, char** argv)
  long u_6F2 = 0;
   unsigned short  JfNbMf5W  =  (unsigned short)128771451;
  short EUTd = (short)249270116;
-    unsigned short    IUZA6s6a    =    2127188926;
+    unsigned short    IUZA6s6a    =    (unsigned short)2127188926;
   long double  hVzO1NP6it  =  1519823684;
  long B80CI = 0;
 	char	Et01CU	=	1319468980;

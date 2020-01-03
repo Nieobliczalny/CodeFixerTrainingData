@@ -224,7 +224,7 @@ z7iFljnf = (int)abs(aGFm0pdu);
 }
 else
 {
-Hfp_YQ = ZTNpCP4nn5((short)-740721132, -613027452, BD3WGL) << 2115583376;
+Hfp_YQ = ZTNpCP4nn5((short)-740721132, (unsigned short)-613027452, BD3WGL) << 2115583376;
 }
 }
 }

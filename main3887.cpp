@@ -23,7 +23,7 @@ int main(void) {
  Yx6_M3 = (unsigned char)740779293;
  YCCE = (unsigned char)-621718397;
  Ta1om4Dl = (unsigned char)-897887933;
- Wr4D85W__ = -1256306086;
+ Wr4D85W__ = (unsigned char)-1256306086;
  JoZw5y2Pb = -1855072029;
  OV4OP9 = 85662986;
  oML8juGW = -1493130567;

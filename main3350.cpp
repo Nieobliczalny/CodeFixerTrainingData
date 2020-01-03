@@ -237,7 +237,7 @@ case 0:
 LWye = (int)abs(rhCS3);
 break;
 case 1:
-txz_04PQ5 = E3Syl((short)-1154286857, Hr3d, (unsigned short)-2022930757, u_N3Czv, 1965988143);
+txz_04PQ5 = E3Syl((short)-1154286857, Hr3d, (unsigned short)-2022930757, u_N3Czv, (unsigned short)1965988143);
 break;
 case 2:
 MTg_r_V8C = E3Syl((short)221383471, -758105773, (unsigned short)-361824484, (unsigned short)1983957971, cm42yhPH);
@@ -261,7 +261,7 @@ case 8:
 txz_04PQ5 = E3Syl((short)1470866625, ykTmojk99, m2ck400G, wuozc_3S7, (unsigned short)696146700);
 break;
 case 9:
-hWkr3 = E3Syl(-1552687224, -691512528, hWkr3, JMuz4, i6lDFFw);
+hWkr3 = E3Syl((short)-1552687224, -691512528, hWkr3, JMuz4, i6lDFFw);
 break;
 }
 JMuz4 = (Hr3d >= -1839182355) ? u_N3Czv : LJWt_OGJ;

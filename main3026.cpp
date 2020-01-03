@@ -35,7 +35,7 @@ int main(int argc, char** argv)
   d78__k  =  (unsigned char)-2033624544;
   Q91psuE3  =  (unsigned char)-311100361;
   Eb66MB34gi  =  (unsigned char)1510930538;
-  L49FXzT  =  1302638206;
+  L49FXzT  =  (unsigned char)1302638206;
   E9wFcoTZp0  =  -612487436;
   BAy3b6Ye  =  207133502;
   FubF6C4  =  1069212736;
@@ -45,7 +45,7 @@ int main(int argc, char** argv)
   sv2E6q_  =  (unsigned char)1193443308;
   gt4Q5Ow  =  (unsigned char)1866207822;
   NxmCNlVMXE  =  (unsigned char)-1082173912;
-  rtXriI  =  1297622435;
+  rtXriI  =  (unsigned char)1297622435;
   tG_JV4k  =  -2084609107;
   G2imHUI85  =  86025448;
   g476IGt_  =  -1168496353;
@@ -55,7 +55,7 @@ int main(int argc, char** argv)
   P1560b15EM  =  (unsigned char)827576996;
   lL5X5  =  (unsigned char)1161604526;
   Oc_EeRABX  =  (unsigned char)-144008916;
-  faBP6XH7U  =  -978463827;
+  faBP6XH7U  =  (unsigned char)-978463827;
   bjzx  =  255003080;
   uZI_  =  1033230872;
   gqY30E6  =  -333991504;
@@ -65,7 +65,7 @@ int main(int argc, char** argv)
   y71zk93_P  =  (unsigned char)1947486409;
   aib_7ErUdz  =  (unsigned char)357467342;
   I8gFz9  =  (unsigned char)296324277;
-  tph560LEl  =  -1626302720;
+  tph560LEl  =  (unsigned char)-1626302720;
   iTrTYA  =  1570153404;
   IzGkIO  =  1951263966;
   nU3S3cd  =  485525065;
@@ -75,7 +75,7 @@ int main(int argc, char** argv)
   Frz6D88K  =  (unsigned char)-2114825847;
   HXKrrDu  =  (unsigned char)1938106124;
   tNQo0n4  =  (unsigned char)569945594;
-  A15H0za6r4  =  783500037;
+  A15H0za6r4  =  (unsigned char)783500037;
   Ud3f9g  =  1565398563;
   qoUu1QIJy  =  -220559567;
   oG2iUf2_L0  =  -1528236707;
@@ -85,7 +85,7 @@ int main(int argc, char** argv)
   uuH59qiD4  =  (unsigned char)-1460915198;
   u_IB88Xy  =  (unsigned char)-1307705454;
   gI2aXXG  =  (unsigned char)-730287624;
-  dgixUNl  =  -324990715;
+  dgixUNl  =  (unsigned char)-324990715;
   n123TA  =  -1889926849;
   n80X047N  =  -1642974089;
   ItVCVoy  =  -1177587415;
@@ -95,7 +95,7 @@ int main(int argc, char** argv)
   cg3x  =  (unsigned char)-1661770985;
   KezK96Lht8  =  (unsigned char)2064111651;
   J0TSZip_4  =  (unsigned char)-640065779;
-  l_7vgNk  =  1073472560;
+  l_7vgNk  =  (unsigned char)1073472560;
   SacM2A5IWR  =  -58871739;
   i7wi  =  -27989580;
   s2B2  =  1589351230;

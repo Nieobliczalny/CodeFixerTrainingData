@@ -284,7 +284,7 @@ break;
 }
 else
 {
-std::cout << T8Eu41(VyqH7JLmCT, (unsigned char)1805560306, (unsigned char)-420226964, -1497639852, -114288332) << cAr72 << T8Eu41(-481737633, f1re0TUE, -1117890462, -1607023543, -583284718) << reQ4 << std::endl;
+std::cout << T8Eu41(VyqH7JLmCT, (unsigned char)1805560306, (unsigned char)-420226964, -1497639852, -114288332) << cAr72 << T8Eu41((short)-481737633, f1re0TUE, -1117890462, -1607023543, -583284718) << reQ4 << std::endl;
 }
 }
 else

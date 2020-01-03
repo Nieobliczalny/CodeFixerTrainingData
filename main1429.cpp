@@ -378,7 +378,7 @@ case 'C':
 eT949_ = bfVhVi8Q8(1221793808, 2077179973, YEo3Z, 951705458);
 break;
 default:
-Kk6B_04 = B2p597((unsigned short)-1743030505, Xtoozu8, -805742045, -557467974, Sh7nBF);
+Kk6B_04 = B2p597((unsigned short)-1743030505, Xtoozu8, -805742045, (unsigned short)-557467974, Sh7nBF);
 break;
 }
 }

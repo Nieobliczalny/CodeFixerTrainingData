@@ -39,7 +39,7 @@ int main(void)
     unsigned char    kUrLbmtnwt    =    (unsigned char)-992763749;
 	double	Nk8I6	=	952098970;
  unsigned char P13_jXCY = (unsigned char)-609153368;
- unsigned char Kw87Jy0e = 904854756;
+ unsigned char Kw87Jy0e = (unsigned char)904854756;
     unsigned short int    F7T9Q    =    0;
  unsigned long n5HXDFjrq8 = 0;
   unsigned char  zY5QZ  =  (unsigned char)878427403;

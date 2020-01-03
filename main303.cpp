@@ -29,7 +29,7 @@ int main()
   unsigned int  h027  =  1567277010;
 	short int	yF399mlF	=	(short)-1931659902;
  short t28X6SM2 = (short)-745399349;
-	unsigned short int	fkKVg0P	=	2108896646;
+	unsigned short int	fkKVg0P	=	(unsigned short)2108896646;
  short int hJtBJ661 = 991782411;
     unsigned long long    YOS2    =    -1979370387;
 	short int	VaeZ13	=	0;

@@ -58,7 +58,7 @@ int main(int argc, char** argv) {
     short    r_N7m6F    =    (short)-1883507049;
   long double  L90P  =  -1308811065;
 	unsigned short int	aXY_5	=	(unsigned short)1780191108;
-  unsigned short int  SVqyjEw4_c  =  1017161369;
+  unsigned short int  SVqyjEw4_c  =  (unsigned short)1017161369;
  unsigned long long h5xu_hS = 1356644996;
     double    t422UwA    =    768505286;
 	unsigned char	WXn5T3k8	=	(unsigned char)-395744146;
@@ -354,7 +354,7 @@ case 'e':
 QBXqiN = EJ31K8vO((unsigned short)-1102900821, mKo_, (unsigned short)-1862824632, (unsigned short)-49799477, ix5tqt);
 break;
 case 'f':
-B4xa9H1 = EJ31K8vO((unsigned short)1879948432, mKo_, (unsigned short)39798884, WM44LLiQa, 1734512303) | WM44LLiQa;
+B4xa9H1 = EJ31K8vO((unsigned short)1879948432, mKo_, (unsigned short)39798884, WM44LLiQa, (short)1734512303) | WM44LLiQa;
 break;
 case 'g':
 lCc925 *= r1f_JWz7f;

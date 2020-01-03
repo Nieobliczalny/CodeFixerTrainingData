@@ -236,7 +236,7 @@ case 'd':
 qPgjKemA8c = (int)floor(pCcf0Xe22t);
 break;
 case 'e':
-pK14 = bOCAFI((unsigned short)-195166091, (short)-1259424927, -1037215800, Gex2vkp2Z, RlzR8_);
+pK14 = bOCAFI((unsigned short)-195166091, (short)-1259424927, (char)-1037215800, Gex2vkp2Z, RlzR8_);
 break;
 default:
 pCcf0Xe22t = (int)ceil(gr0gr2x);
@@ -350,7 +350,7 @@ case 2:
 zaPoi = bOCAFI((unsigned short)2092398658, (short)2120466091, (char)-517397800, sOMDwB4w, -1839740337);
 break;
 case 3:
-AHhLS = bOCAFI(AHhLS, (short)-1449882076, (char)283874332, 517559693, J9UQ);
+AHhLS = bOCAFI(AHhLS, (short)-1449882076, (char)283874332, (short)517559693, J9UQ);
 break;
 case 4:
 pCcf0Xe22t = (int)ceil(o2Nk10);

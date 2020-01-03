@@ -18,7 +18,7 @@ int main(void) {
     unsigned char    Yx91O5T    =    (unsigned char)1184748386;
   char  M3EPcr  =  0;
  double cyRT6m1c0 = 1459766520;
-	short	M_0d	=	-310027124;
+	short	M_0d	=	(short)-310027124;
  long iglq_bb = 1285587233;
   long long  seyMO_f  =  -1019267694;
 	unsigned int	RO1g83M	=	-451919958;

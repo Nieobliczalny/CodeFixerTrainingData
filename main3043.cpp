@@ -52,7 +52,7 @@ int main()
     unsigned char    CYARt60B    =    (unsigned char)796430188;
  unsigned long long uIsr = -2101133306;
   unsigned short  DN8L3BE_6  =  (unsigned short)-685019528;
- short int EtC9ns53f = 1660613655;
+ short int EtC9ns53f = (short)1660613655;
   unsigned short  BUT33Al_V  =  1779553198;
 	unsigned long long	Z65zkIahAv	=	1835698576;
 	unsigned int	DIQg86u63Q	=	1923620042;

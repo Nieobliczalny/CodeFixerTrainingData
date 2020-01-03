@@ -77,7 +77,7 @@ int main()
     unsigned short int    QL03vM    =    (unsigned short)1408073075;
  short int j_5Cs6 = (short)388527462;
  int pE5QuDW7 = -1622919066;
- short DTnh8xIQ = -1571810606;
+ short DTnh8xIQ = (short)-1571810606;
  char q3h9yLjt = -798343011;
   unsigned short int  CvrN  =  -1762403742;
 	unsigned int	x0PS6_zZ	=	1987803850;
@@ -103,7 +103,7 @@ int main()
  long double h7_K = -533142348;
     long    OKI28    =    1041849595;
  unsigned short gkUkx220k = (unsigned short)109224852;
-    char    jDv3    =    807385570;
+    char    jDv3    =    (char)807385570;
     int    nJFyKp    =    1002484679;
  unsigned int B_CI49KSE = -210882760;
   unsigned char  K2Wv  =  (unsigned char)264115905;
@@ -128,7 +128,7 @@ else if (W6zBawt >= 1489979937)
 {
 for (int k = 0; k < 6; ++k)
 {
-SwM5Tk1 = EU6W((char)92721405, M_9_cRP_C, (unsigned char)463168220, 417951415);
+SwM5Tk1 = EU6W((char)92721405, M_9_cRP_C, (unsigned char)463168220, (unsigned char)417951415);
 }
 }
 else if (((im34 & -422924378) || (f90WxNT0R & -1565903782)) || (B_CI49KSE < -1659129415))

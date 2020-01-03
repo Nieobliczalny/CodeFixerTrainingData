@@ -33,7 +33,7 @@ int main(int argc, char** argv)
   iN5gws8  =  (short)109086340;
   Y4Aff1  =  (short)-686491868;
   lzfdH0  =  (short)-634930228;
-  ynv1vJzX_  =  951142480;
+  ynv1vJzX_  =  (short)951142480;
   iF2yle4  =  1889780314;
   GBzP2o  =  805076949;
   DE32QC  =  1023629606;
@@ -43,7 +43,7 @@ int main(int argc, char** argv)
   OYZU8gX1__  =  (short)-2103486427;
   TVX9TV  =  (short)1124323552;
   J2RYR46Z  =  (short)-1196978452;
-  j1fap  =  278074218;
+  j1fap  =  (short)278074218;
   ZFR1E809_  =  843324234;
   T0w8_d  =  1093862447;
   rBesriDr  =  1480267093;
@@ -53,7 +53,7 @@ int main(int argc, char** argv)
   s54n  =  (short)679591090;
   Nq_x  =  (short)-1088288630;
   CCEZNnQn_  =  (short)1778814426;
-  XR6cW0_  =  2051090250;
+  XR6cW0_  =  (short)2051090250;
   x45HfL8  =  -854001799;
   eTYV51  =  2057272610;
   t3Yd1_d  =  -184886212;
@@ -269,7 +269,7 @@ GBzP2o = Tqj6(GBzP2o, (unsigned short)-1240775736, YrYS3, (char)650931120);
 }
 else if ((Y4Aff1 < vn8UJuN) && ((TVX9TV & tXIow_g6J) || (x45HfL8 < -1619404017)))
 {
-cout << Tqj6((short)-1831433288, (unsigned short)-1271608563, (unsigned short)796559298, 823206659) << endl;
+cout << Tqj6((short)-1831433288, (unsigned short)-1271608563, (unsigned short)796559298, (char)823206659) << endl;
 }
 else if ((XR6cW0_ >= tXIow_g6J) && (VPPzh <= f_c7kq2YT8))
 {

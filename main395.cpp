@@ -199,7 +199,7 @@ P5Vht = dbRC8c & yr6S23;
 switch (qM3PyJ4On)
 {
 case 0:
-x_jIXx = e36pkTbCx(1375488624, q6s6_3nP, 1171316475, yr6S23, mSu7U2xn);
+x_jIXx = e36pkTbCx((char)1375488624, q6s6_3nP, 1171316475, yr6S23, mSu7U2xn);
 break;
 case 1:
 M7D0n_LIP = (int)abs(yc657R29);
@@ -379,7 +379,7 @@ AAKS = e36pkTbCx((char)-1983075295, V5dq82g78, x7fLv, Xdzsa0066, 1896923789) >> 
 }
 else
 {
-qM3PyJ4On = e36pkTbCx((char)-391317781, 2032246143, (short)-1278417984, 895857918, wxx2FQ_);
+qM3PyJ4On = e36pkTbCx((char)-391317781, 2032246143, (short)-1278417984, (unsigned short)895857918, wxx2FQ_);
 }
 }
 else if (RVSM56 < -921710908)

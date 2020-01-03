@@ -54,7 +54,7 @@ int main(void) {
 	long long	S9X87t	=	-236261058;
 	unsigned short int	JA3YZ5	=	(unsigned short)1112219131;
  short U065 = (short)375742559;
- unsigned char MvTP = 526204998;
+ unsigned char MvTP = (unsigned char)526204998;
     short int    Q95im    =    1659547164;
 	float	Fm1T6abM	=	-1333766005;
     unsigned long long    lcX17i40JL    =    553574950;

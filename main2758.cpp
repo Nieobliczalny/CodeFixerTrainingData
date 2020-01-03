@@ -43,7 +43,7 @@ int main(void)
  unsigned char m5A2k = (unsigned char)1941754244;
     short    in5A8Cc    =    (short)991443401;
     char    PweFvl2    =    (char)1616760587;
-  short  NTb59U_IJ  =  -58856190;
+  short  NTb59U_IJ  =  (short)-58856190;
  int iYlUR1o = 674719884;
 	unsigned int	m3kjz	=	-483584920;
   char  uGGj  =  685682675;

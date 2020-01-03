@@ -37,7 +37,7 @@ int main()
  char W30j = (char)2135249030;
   unsigned short int  xm70Yrh4Jr  =  (unsigned short)1848776018;
  long long d8Pf0Z2oGS = -84078327;
- short int W4Kx = -1838754826;
+ short int W4Kx = (short)-1838754826;
 	unsigned short int	v_8Z	=	0;
     long    Y93GJ    =    0;
     float    F4Hr    =    1617401583;

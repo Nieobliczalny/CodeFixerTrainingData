@@ -25,7 +25,7 @@ int main()
   long long  IrsQ__  =  297183449;
 	short	x9He2e773n	=	(short)-1091045964;
  unsigned short H97j4Ao = (unsigned short)1318936221;
- short KPin8jo6 = -685109804;
+ short KPin8jo6 = (short)-685109804;
   unsigned long long  DePiQl2jS6  =  1736318844;
  long double k2o_ = -426518309;
     short int    Vb38    =    (short)1550710812;

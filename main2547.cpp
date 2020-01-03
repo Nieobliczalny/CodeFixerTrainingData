@@ -64,7 +64,7 @@ int main(void)
  unsigned short int fK9vg9R8k = (unsigned short)1735488143;
   unsigned char  j3up3k  =  (unsigned char)346734341;
  unsigned char iCEq1_0 = (unsigned char)421707470;
-	unsigned short	C12777	=	1101475341;
+	unsigned short	C12777	=	(unsigned short)1101475341;
 	char	nV_S_M	=	(char)-486756046;
     int    dLleC597    =    -1441971123;
     long long    p37O_y2    =    -1868512519;

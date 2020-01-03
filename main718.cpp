@@ -52,7 +52,7 @@ int main()
     float    vsFY    =    1531110719;
     char    gY2g46Ggv    =    (char)427839359;
  unsigned short f4SulgT = (unsigned short)1897428335;
-    unsigned short int    Q_10WKoOvm    =    -1897445871;
+    unsigned short int    Q_10WKoOvm    =    (unsigned short)-1897445871;
     long    g8w3qtT_    =    -1940213910;
 	unsigned short	L6YB55D	=	(unsigned short)296631687;
 	long double	MCr_	=	513190486;

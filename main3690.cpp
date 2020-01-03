@@ -68,7 +68,7 @@ int main()
   long long  G_mfj  =  -15505334;
 	long long	SKYJ	=	346729590;
 	short	ih4v_Q792	=	(short)-841704815;
-  unsigned short  u7BNa  =  1383615111;
+  unsigned short  u7BNa  =  (unsigned short)1383615111;
   char  taLgL7E  =  (char)-1288046345;
 	unsigned int	z906_8iB7	=	-871008860;
  short int cd54x877 = 1269800826;

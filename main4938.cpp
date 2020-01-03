@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
     unsigned char    E94bP    =    (unsigned char)1824252798;
   unsigned long long  Lje_mBX  =  1008125005;
  char RSX0_x = (char)731301175;
-  unsigned char  txXaJUKAw7  =  2033163382;
+  unsigned char  txXaJUKAw7  =  (unsigned char)2033163382;
     unsigned short int    L0m8H35MUr    =    (unsigned short)470575572;
     long    p01n4N    =    1737737647;
   short  LxLS5  =  (short)-1560482449;

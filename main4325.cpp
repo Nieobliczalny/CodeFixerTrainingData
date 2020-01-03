@@ -43,7 +43,7 @@ i13wN34 = (unsigned short)(ui_9P);
 
 cout << QnLE6_3V(oQLsIFOH7W, (unsigned short)-1702221920, (unsigned short)672634995) << endl;
 
-cout << lLh_0nR9 << j091 << YU2pM8lx0((unsigned short)904165607, (unsigned short)2087847797, (unsigned char)686909583, -275479122) << yNyn8880(-1904641380, s1XI9_h8N, ui_9P, 786287474) << "P9b6uiCk" << endl;
+cout << lLh_0nR9 << j091 << YU2pM8lx0((unsigned short)904165607, (unsigned short)2087847797, (unsigned char)686909583, -275479122) << yNyn8880((short)-1904641380, s1XI9_h8N, ui_9P, 786287474) << "P9b6uiCk" << endl;
 {
 int i = 9;
 do
@@ -208,7 +208,7 @@ case 6:
 T6n4XmMK |= eebbrL;
 break;
 case 7:
-eebbrL = YU2pM8lx0((unsigned short)-740614140, pGN9Rt, 562869662, gL7d);
+eebbrL = YU2pM8lx0((unsigned short)-740614140, pGN9Rt, (unsigned char)562869662, gL7d);
 break;
 case 8:
 cLHO = YU2pM8lx0(eebbrL, pGN9Rt, Lm681SXk, gL7d) * T_w8g83m;

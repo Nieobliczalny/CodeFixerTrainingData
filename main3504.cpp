@@ -74,7 +74,7 @@ int main(int argc, char** argv) {
 	char	Oonxfe0s	=	(char)1921849415;
     unsigned long long    V_kx6F3dP    =    1051148579;
 	short	nb0iqk	=	(short)-350447431;
- char NL_WaFYZ = -714194579;
+ char NL_WaFYZ = (char)-714194579;
   float  ba8p  =  415454435;
 
 if (((SJ__0 <= XQKc1) || (j2g8lj0MEV == 1917726407)) || (YGoh >= 1912108946))

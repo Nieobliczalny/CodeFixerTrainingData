@@ -121,7 +121,7 @@ X3H2D3 = oebH2zNrC_(zWCt8JpFF);
 pzZ9z0kF_A = (unsigned int)(K_Xa3);
 if (A0mk8x != H_5Pauw)
 {
-cout << W0n7ghi9(-1641548040, xf1x, 1229146710, -1954460345) << endl;
+cout << W0n7ghi9(-1641548040, xf1x, (char)1229146710, -1954460345) << endl;
 }
 else
 {

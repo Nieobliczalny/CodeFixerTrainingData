@@ -36,7 +36,7 @@ int main()
 	unsigned char	Kouwa	=	(unsigned char)-929669774;
  long long v4m3LfK2W = -2093471492;
   int  T_ewH_i  =  -1435557306;
-  short  fO733la  =  -1209627151;
+  short  fO733la  =  (short)-1209627151;
     unsigned long    RCG5Uv9z    =    0;
     unsigned long    hks00    =    334980905;
  long double w09uNsP7C = 911683391;

@@ -60,7 +60,7 @@ int main()
  short BMB_RDa6 = (short)2074379561;
  unsigned char ohj1e = (unsigned char)551926148;
   int  y2alY717j_  =  -152499313;
-    unsigned short    c2W8Hlf    =    1516375233;
+    unsigned short    c2W8Hlf    =    (unsigned short)1516375233;
     short    nUl5    =    225564822;
     long double    Bh2u20    =    1792888285;
 	float	gvVKC	=	-1033790018;

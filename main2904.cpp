@@ -298,7 +298,7 @@ case 2:
 DTL2_QX <<= 1774045963;
 break;
 case 3:
-QVjl68H6x0 = r60rd((char)673685535, 2109018146);
+QVjl68H6x0 = r60rd((char)673685535, (short)2109018146);
 break;
 case 4:
 h69qdQspU = r60rd(h69qdQspU, lmESERP);

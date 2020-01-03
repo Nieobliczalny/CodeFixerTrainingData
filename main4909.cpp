@@ -150,7 +150,7 @@ pcCm_5Uu--;
 break;
 case 'd':
 case 'D':
-Et9as = i_p7Xcwd((unsigned char)912369765, (unsigned char)-911211227, -1013253157);
+Et9as = i_p7Xcwd((unsigned char)912369765, (unsigned char)-911211227, (short)-1013253157);
 break;
 case 'e':
 case 'E':

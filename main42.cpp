@@ -36,7 +36,7 @@ int main()
  double liRF = 1808258556;
 	double	IZoc	=	-1829325682;
 	short int	I_v6O	=	(short)897470028;
-	short	c_1QjC5xfQ	=	-962035762;
+	short	c_1QjC5xfQ	=	(short)-962035762;
   float  gdg01  =  73659589;
     float    As93eof_Jz    =    976074100;
  unsigned char KhIY = 0;
@@ -57,7 +57,7 @@ int main()
  char t3zCyBR4M_ = (char)-1803008151;
 	long long	nc94u6BU	=	1221702938;
   unsigned short int  Rd4ozA3327  =  (unsigned short)-1402025000;
-	char	a7I_jF0GLs	=	281529321;
+	char	a7I_jF0GLs	=	(char)281529321;
     int    m48jde7    =    1164498998;
 
 {
@@ -194,7 +194,7 @@ case 7:
 gdg01 = G0L7xdpRZv(gdg01, (unsigned short)-1391748733, (short)-1759320577);
 break;
 case 8:
-i1iAVUwR = G0L7xdpRZv(1071233437, HI8k, -2130979940);
+i1iAVUwR = G0L7xdpRZv((short)1071233437, HI8k, -2130979940);
 break;
 }
 }
@@ -313,7 +313,7 @@ case 9:
 rR__ *= 887806727;
 break;
 default:
-KhIY = C4wNma952((short)1944713425, 354408425, 681212461, I82BdZ73w, -357051302);
+KhIY = C4wNma952((short)1944713425, (unsigned short)354408425, 681212461, I82BdZ73w, -357051302);
 break;
 }
 }
@@ -328,7 +328,7 @@ case 0:
 KhIY = C4wNma952((short)-990762250, (unsigned short)-954566604, jVuk_1, -603817227, (unsigned short)974978065);
 break;
 case 1:
-V2x6W = G0L7xdpRZv((short)-1243759366, (unsigned short)-267085040, 2090742372);
+V2x6W = G0L7xdpRZv((short)-1243759366, (unsigned short)-267085040, (short)2090742372);
 break;
 case 2:
 W18RPX3nx >>= ETrB7sf43;
@@ -375,6 +375,7 @@ std::cout << C4wNma952((short)-627630002, KhIY, (short)-1851317337, V2x6W, won3K
 }
 }
 IZoc = G0L7xdpRZv(IZoc, (unsigned short)-1238666748, KhIY);
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
 std::cout << C4wNma952(-1100228126, 1163427889, -878690977, YI82, 1000497836) << "L_4_" << G0L7xdpRZv(1004399939, -118130991, KhIY) << std::endl;
 switch (nc94u6BU)
 {
@@ -513,7 +514,7 @@ SfkDQm_n = I82BdZ73w * 752499457;
 HI8k = KhIY ^ 1705045731;
 if (c_1QjC5xfQ < W18RPX3nx)
 {
-std::cout << C4wNma952(a7I_jF0GLs, (unsigned short)436805890, (short)-771783662, 1166720481, (unsigned short)-131083963) << "Sv82" << G0L7xdpRZv((short)970974885, (unsigned short)-914189895, 656042678) << std::endl;
+std::cout << C4wNma952(a7I_jF0GLs, (unsigned short)436805890, (short)-771783662, 1166720481, (unsigned short)-131083963) << "Sv82" << G0L7xdpRZv((short)970974885, (unsigned short)-914189895, (short)656042678) << std::endl;
 }
 else if (tdFxTA72 >= a7I_jF0GLs)
 {

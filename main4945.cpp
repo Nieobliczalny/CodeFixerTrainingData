@@ -186,7 +186,7 @@ case 1:
 vANrWsi = q81WeK((unsigned short)256905030, Gse9, (char)286910995, (short)45637279);
 break;
 case 2:
-vANrWsi = q81WeK(1400226901, p9dCEGP, -902449190, A9s97M5o);
+vANrWsi = q81WeK((unsigned short)1400226901, p9dCEGP, -902449190, A9s97M5o);
 break;
 case 3:
 za_upyG = (int)floor(gXH4H);
@@ -311,7 +311,7 @@ case 1:
 vANrWsi = q81WeK((unsigned short)1132204580, (unsigned short)2053815577, cN6J1z_E, (short)1045714553);
 break;
 case 2:
-vANrWsi = q81WeK((unsigned short)-1919488300, EEx5qWB0Kg, (char)2020814911, -703397388);
+vANrWsi = q81WeK((unsigned short)-1919488300, EEx5qWB0Kg, (char)2020814911, (short)-703397388);
 break;
 case 3:
 u8pYJ1m = q81WeK(IPyZs, -1111799243, RF6VS9Nvt2, -868184041) % 243539488;
@@ -465,7 +465,7 @@ case 'h':
 R84qs35s6v = (int)ceil(i3oQs98Z);
 break;
 case 'i':
-vANrWsi = q81WeK(Rfiu, (unsigned short)1834607840, -1206952853, IPyZs);
+vANrWsi = q81WeK(Rfiu, (unsigned short)1834607840, (char)-1206952853, IPyZs);
 break;
 default:
 vANrWsi = q81WeK(MNjFq, (unsigned short)1123942406, (char)-1031409978, 640689136);

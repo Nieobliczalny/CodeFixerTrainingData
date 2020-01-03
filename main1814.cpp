@@ -29,7 +29,7 @@ int main(int argc, char** argv)
  A9Zs_b_Se = (unsigned short)-619528392;
  wxHf6Nv7vK = (unsigned short)1837952462;
  A053xQgG = (unsigned short)1287047996;
- oyo96 = 1847770546;
+ oyo96 = (unsigned short)1847770546;
  ekP1B = -630432571;
  zX08Gld58 = -684543752;
  MTVR00s5_n = -1247130444;
@@ -39,7 +39,7 @@ int main(int argc, char** argv)
  O8ib = (unsigned short)-876895461;
  xNh5cs0gPg = (unsigned short)831061739;
  LXYd = (unsigned short)-1976551376;
- jn87W14 = 1682905289;
+ jn87W14 = (unsigned short)1682905289;
  CL1Tz = -1166543673;
  R_RJ75 = 641849531;
  Bo_m = -2096499316;
@@ -49,7 +49,7 @@ int main(int argc, char** argv)
  bMl_ = (unsigned short)-782009528;
  R1P74z7Bu = (unsigned short)1423909458;
  Sdt362N_6 = (unsigned short)-1753737782;
- T8HB = -2028897190;
+ T8HB = (unsigned short)-2028897190;
  Xaau = -451407220;
  QPL07 = -1321146532;
  Sb8v = -2135785643;
@@ -59,7 +59,7 @@ int main(int argc, char** argv)
  WTF7N = (unsigned short)75118878;
  f7N0qW = (unsigned short)1835978048;
  WgfiHG = (unsigned short)202754069;
- Kp_ez1 = 1553103222;
+ Kp_ez1 = (unsigned short)1553103222;
  swO7I4O = -45572097;
  iB50 = -2062387134;
  Gwt_0N = 620852855;
@@ -69,7 +69,7 @@ int main(int argc, char** argv)
  I6kSl63 = (unsigned short)-1379939672;
  Esc82 = (unsigned short)1322736376;
  HHN93_UlY = (unsigned short)-2015808050;
- aL9b9Qlg = -307749296;
+ aL9b9Qlg = (unsigned short)-307749296;
  m6Wb12 = 892144945;
  o78SDIMy = -1145598557;
  xS6Y5mwS = -823458484;
@@ -79,7 +79,7 @@ int main(int argc, char** argv)
  j3_pgA3Pd = (unsigned short)954683855;
  E_5ETnJR = (unsigned short)174015916;
  xR46 = (unsigned short)259284560;
- K091B = -251848891;
+ K091B = (unsigned short)-251848891;
  wV1Qo = -1876063866;
  ZmdM = 507218464;
  jQ2jXV8C = 391732902;
@@ -89,7 +89,7 @@ int main(int argc, char** argv)
  s0KASZ = (unsigned short)-183858767;
  vv7EsY = (unsigned short)-332236678;
  HM4V0zv = (unsigned short)1362316714;
- AeY3YW3 = 2039897158;
+ AeY3YW3 = (unsigned short)2039897158;
  xt0lEJ_K = -1869437319;
  kAqu2i_3B = -1627274950;
 	unsigned short int	EMN_,	u_W2u90,	KUNB,	jY36z6ltDP,	G906VHLSc;

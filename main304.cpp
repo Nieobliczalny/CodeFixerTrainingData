@@ -24,7 +24,7 @@ int main(int argc, char** argv)
     pO7P    =    (short)-1089381731;
     vhraXaw8i1    =    (short)1358628860;
     C99Q2Nuj    =    (short)-314234751;
-    TA83tQB    =    2114461497;
+    TA83tQB    =    (short)2114461497;
     unsigned short    ZpW0,    z4_0i26,    XSgqZUq54V,    Wm5Bq,    K42Q37;
     ZpW0    =    0;
     z4_0i26    =    0;

@@ -179,7 +179,7 @@ P0Pa9_uB0C = (zSaE946B >= x_meP4G0oc) ? KfJjy : qycXF3NHd9;
 }
 OEc9J = EC4QYe((short)-1620465875, (short)-1528757106, ch_fSl0SjN, Xtqb1xK7, (unsigned char)-1196936549);
 
-zSaE946B = EC4QYe((short)-1797163098, (short)-1777380417, 1488467598, -968567486, 1439900530);
+zSaE946B = EC4QYe((short)-1797163098, (short)-1777380417, 1488467598, -968567486, (unsigned char)1439900530);
 
 switch (OEc9J)
 {
@@ -416,7 +416,7 @@ break;
 }
 }
 }
-std::cout << "tj6AR" << fHGz5() << yTI1y9t(-1815645065, dR__i7, HqxJa, 1985811420, bP97sI23) << yTI1y9t(h776p, dR__i7, -1826630070, 1579389824, 2136061197) << Xtqb1xK7 << std::endl;
+std::cout << "tj6AR" << fHGz5() << yTI1y9t((unsigned short)-1815645065, dR__i7, HqxJa, 1985811420, bP97sI23) << yTI1y9t(h776p, dR__i7, -1826630070, 1579389824, 2136061197) << Xtqb1xK7 << std::endl;
 
 return 0;
 }

@@ -22,7 +22,7 @@ int main(void) {
     unsigned short    rx76jjA98    =    0;
 	short int	j6i0	=	(short)31011900;
  unsigned int y8J6j = 1709260833;
-    short    pJ5y4YR    =    -1361371134;
+    short    pJ5y4YR    =    (short)-1361371134;
   unsigned char  v_Xo9x  =  0;
 	long	vKPj	=	-1087667142;
  long double RGc02J3_ = 1133972194;

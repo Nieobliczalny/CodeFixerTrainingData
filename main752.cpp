@@ -355,7 +355,7 @@ for (int j = 6; j >= 0; --j)
 {
 if (BKvam != JEBZ2)
 {
-Ot4_xfhq = kG1DoxA(Ot4_xfhq, GadiU9, 1924856253, k_44Le, q1yTcxo753);
+Ot4_xfhq = kG1DoxA(Ot4_xfhq, GadiU9, (unsigned char)1924856253, k_44Le, q1yTcxo753);
 }
 }
 }
@@ -388,7 +388,7 @@ case 2:
 k_44Le ^= gvB7z0;
 break;
 case 3:
-Iqe9Z_eT = kG1DoxA((unsigned char)975653827, (unsigned short)-277456118, wK9hMBH, 519341010, 1944984697) ^ Ot4_xfhq;
+Iqe9Z_eT = kG1DoxA((unsigned char)975653827, (unsigned short)-277456118, wK9hMBH, 519341010, (unsigned char)1944984697) ^ Ot4_xfhq;
 break;
 default:
 k9F2HMMr = (int)abs(kAI2n__);
@@ -480,7 +480,7 @@ QtG_ = kG1DoxA(lO1P0j9e9, (unsigned short)1236497461, (unsigned char)1361113496,
 break;
 case 'd':
 case 'D':
-llZg2fV = JVY0Ghbr1((unsigned short)1676124186, 400329518, 463703788, k9F2HMMr, BKvam);
+llZg2fV = JVY0Ghbr1((unsigned short)1676124186, (short)400329518, 463703788, k9F2HMMr, BKvam);
 break;
 case 'e':
 case 'E':

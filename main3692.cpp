@@ -66,7 +66,7 @@ cVJl = C9uO8((unsigned short)699763285, -853446572, (unsigned short)1858229857, 
 break;
 case 'c':
 case 'C':
-WaW6u = C9uO8(WaW6u, Un_lbCg0, (unsigned short)-1230899359, -603615264, xL9_7);
+WaW6u = C9uO8(WaW6u, Un_lbCg0, (unsigned short)-1230899359, (unsigned short)-603615264, xL9_7);
 break;
 case 'd':
 case 'D':
@@ -380,7 +380,7 @@ zy_a8VW = C9uO8((unsigned short)-647610592, 587792945, (unsigned short)213646535
 }
 else if (TQpM_6xqtH <= -1093938277)
 {
-SUS70 = C9uO8((unsigned short)-2129119399, Q_knZ_, HFi0, (unsigned short)952326064, -1545970896);
+SUS70 = C9uO8((unsigned short)-2129119399, Q_knZ_, HFi0, (unsigned short)952326064, (unsigned short)-1545970896);
 }
 else
 {

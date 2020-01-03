@@ -54,7 +54,7 @@ int main(int argc, char** argv) {
 	char	rWxD	=	(char)-1390981761;
     double    O6Fzp_    =    1930021921;
 	unsigned char	f2gYiB90	=	(unsigned char)685893348;
- unsigned char sPIcVC = -2101860390;
+ unsigned char sPIcVC = (unsigned char)-2101860390;
  unsigned short int DI5137 = 1759680518;
 
 switch (eE277_pdI0)

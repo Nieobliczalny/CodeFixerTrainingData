@@ -52,7 +52,7 @@ int main(int argc, char** argv)
  char E0o1 = (char)-1248379927;
 	unsigned long	g1rbdPh5	=	-373361124;
 	char	o42qBT	=	(char)545960430;
-    short int    A82P3LN79Y    =    2107637061;
+    short int    A82P3LN79Y    =    (short)2107637061;
   unsigned short  WkSHR31H0  =  0;
  unsigned long long Vj55O3 = 1126685529;
 	unsigned long	XNgx2U8d	=	-417545621;
@@ -64,7 +64,7 @@ int main(int argc, char** argv)
  short int yk5iekwgkh = (short)-1447990699;
   short int  AhooAA  =  (short)-2051175964;
     unsigned long long    KD5K    =    1515796411;
-    short int    n1hV    =    1430402129;
+    short int    n1hV    =    (short)1430402129;
     int    T606g    =    962711391;
  unsigned char V8T5u2h = -1466681010;
  char s9nv65 = (char)1851380814;

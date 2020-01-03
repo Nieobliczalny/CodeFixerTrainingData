@@ -203,7 +203,7 @@ if (O3HBzN & 1602043654)
 {
 try
 {
-p1kwP4Na = iL725Q5N(p1kwP4Na, -1029253538, 873028963, 1387571144, XCpvAPHQsc);
+p1kwP4Na = iL725Q5N(p1kwP4Na, -1029253538, (short)873028963, 1387571144, XCpvAPHQsc);
 }
 catch (int& errorCode)
 {

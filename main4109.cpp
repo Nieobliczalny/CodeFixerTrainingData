@@ -370,7 +370,7 @@ case 'f':
 Hk442M592h = wHzD2Lu3(ef1YX, (short)-954873722, (short)2068733626);
 break;
 case 'g':
-a6qK7_00 = wHzD2Lu3(FK8_D, (short)-980667403, -1755707424);
+a6qK7_00 = wHzD2Lu3(FK8_D, (short)-980667403, (short)-1755707424);
 break;
 }
 ZHdFwHDbY = Z0948ng - 1934705733;

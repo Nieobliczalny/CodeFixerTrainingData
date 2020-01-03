@@ -91,7 +91,7 @@ int main() {
   char  jQ_wRUsH  =  (char)61628818;
  long double v2PQLMaV = 1407956039;
 	char	Vb1btqi2m	=	(char)864851117;
-    unsigned char    rqc2qr3n    =    1702639740;
+    unsigned char    rqc2qr3n    =    (unsigned char)1702639740;
 	long double	K2d9o5	=	-179351326;
  short int aqrkX1Q = (short)361466913;
 

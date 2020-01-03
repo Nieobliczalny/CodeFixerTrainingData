@@ -552,7 +552,7 @@ case 0:
 Crr9P = J0JNv3v((char)-2014831378, A80N0j7T78, ANglW6T, kgLuorMbP0, -42747249);
 break;
 case 1:
-L2oNsbQB = Yn2WNS(L2oNsbQB, (char)-585130548, TmMfP02B, -1051396420, -1740549398);
+L2oNsbQB = Yn2WNS(L2oNsbQB, (char)-585130548, TmMfP02B, (unsigned short)-1051396420, -1740549398);
 break;
 case 2:
 pEWN_ = Erlda7A6 % 1134652572;

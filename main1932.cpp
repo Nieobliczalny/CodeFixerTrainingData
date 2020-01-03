@@ -21,7 +21,7 @@ int main(int argc, char** argv) {
  unsigned long PXz1T = -1439595012;
  unsigned char v3F52L66E = (unsigned char)-1125367285;
  unsigned char u3LLeCv_V = (unsigned char)439883393;
-    unsigned short int    H5bQ19    =    -65147986;
+    unsigned short int    H5bQ19    =    (unsigned short)-65147986;
     long long    XDIzT92kV    =    290944063;
 	long	B_9V	=	316849932;
     short    uw22D    =    (short)-601395287;
@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
     long long    fbtv_mf2u0    =    -1067188543;
     char    rZUP8i6    =    0;
     short int    Pl4rfolyXp    =    (short)-31767191;
- short vzsbI = 1023006816;
+ short vzsbI = (short)1023006816;
 	double	qkMN4Z_a	=	-2095345957;
  float s9O1C4Q0m = -795696229;
  short gawh52 = (short)-147391525;
@@ -83,7 +83,7 @@ int main(int argc, char** argv) {
   short  sCMEf1  =  (short)-544012616;
     unsigned short    n3JjMyg_cu    =    (unsigned short)-1914136814;
  long double n1B31m = 333908675;
-  unsigned char  oSV6  =  539395141;
+  unsigned char  oSV6  =  (unsigned char)539395141;
 	unsigned short	fbR4	=	1918337048;
  unsigned char aJ3PmGi8_ = (unsigned char)-713231182;
     short int    cY1_B    =    (short)1336130842;
@@ -104,7 +104,7 @@ int main(int argc, char** argv) {
     char    srpk    =    (char)-1255286424;
  long double OjssR8N8A = 720112187;
     unsigned char    E55Ox7er_    =    (unsigned char)-1976962619;
-    char    vwpLv04JXG    =    1255882963;
+    char    vwpLv04JXG    =    (char)1255882963;
     unsigned char    Oupq98    =    (unsigned char)1906267343;
   unsigned char  kp0_  =  -544393031;
  long kNxCK1SEPm = 1714853194;
@@ -202,7 +202,7 @@ D5L6G9GK67 = DbiJeXO5 & G1B_90;
 }
 else if (c26K_gD0 == -714306796)
 {
-std::cout << X4q3Q34Mf((unsigned char)-465178921, L88_B__0j6, E55Ox7er_, 117673199) << std::endl;
+std::cout << X4q3Q34Mf((unsigned char)-465178921, L88_B__0j6, E55Ox7er_, (short)117673199) << std::endl;
 }
 else if (ood8O086 == -1735796115)
 {
@@ -256,7 +256,7 @@ case 4:
 rZUP8i6 = X4q3Q34Mf(FdHe84pu1F, M2Uh09u6, (unsigned short)463469569, (short)179222920);
 break;
 case 5:
-QXpO = X4q3Q34Mf((unsigned char)117997136, aJ3PmGi8_, (unsigned short)-233362340, -954239868);
+QXpO = X4q3Q34Mf((unsigned char)117997136, aJ3PmGi8_, (unsigned short)-233362340, (short)-954239868);
 break;
 case 6:
 bX3tF = d8p838uR & e8tta4;
@@ -334,7 +334,7 @@ case 2:
 L88_B__0j6 |= 1903687207;
 break;
 case 3:
-rZUP8i6 = X4q3Q34Mf((unsigned char)1794472064, (char)-1072635114, -858699911, srpk);
+rZUP8i6 = X4q3Q34Mf((unsigned char)1794472064, (char)-1072635114, (unsigned short)-858699911, srpk);
 break;
 case 4:
 NK7y = (int)abs(fbtv_mf2u0);
@@ -433,7 +433,7 @@ case 5:
 n1B31m = (int)abs(vwpLv04JXG);
 break;
 case 6:
-QXpO = X4q3Q34Mf((unsigned char)-166112160, gawh52, -1279725525, cU323Okz);
+QXpO = X4q3Q34Mf((unsigned char)-166112160, gawh52, (unsigned short)-1279725525, cU323Okz);
 break;
 case 7:
 TvV_2sZP = e8tta4 % B_9V;

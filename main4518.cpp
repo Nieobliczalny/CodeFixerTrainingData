@@ -57,7 +57,7 @@ case 0:
 TFAr0N58f = Ec1_a((unsigned short)-177126777, J2Z36nA, pP165qHz, (unsigned short)1045744354);
 break;
 case 1:
-O3i0Vz9HM = JS29hq((unsigned short)-1466786246, QUZ0YT0, 929014778);
+O3i0Vz9HM = JS29hq((unsigned short)-1466786246, QUZ0YT0, (char)929014778);
 break;
 case 2:
 qXqr1wjB7 = p159Mc6et4(qXqr1wjB7, T669g1uF7e, VSm3a, TFAr0N58f);

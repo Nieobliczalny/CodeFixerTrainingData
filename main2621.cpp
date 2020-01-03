@@ -481,7 +481,7 @@ case 3:
 W8PZc2s = ZKYN2Z((unsigned short)1290234555, (unsigned short)225168398);
 break;
 case 4:
-C1ZT2 = l5xb63CSGH((short)-1543262900, e5E_pr5k5, (unsigned short)1525535269, -671523617);
+C1ZT2 = l5xb63CSGH((short)-1543262900, e5E_pr5k5, (unsigned short)1525535269, (unsigned short)-671523617);
 break;
 default:
 c6U9dB3Q_ = (c6U9dB3Q_ == ZP2DnyYD) ? 1860758994 : R6U_C9;
@@ -499,7 +499,7 @@ C1ZT2 = l5xb63CSGH((short)1667421567, (char)1872347832, (unsigned short)-1601039
 }
 else
 {
-C1ZT2 = l5xb63CSGH((short)1819253062, (char)1543878219, -1064390246, 444164112);
+C1ZT2 = l5xb63CSGH((short)1819253062, (char)1543878219, (unsigned short)-1064390246, 444164112);
 }
 ++i;
 }

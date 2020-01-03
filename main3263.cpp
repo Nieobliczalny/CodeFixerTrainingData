@@ -114,7 +114,7 @@ int main()
 	char	MaNtIHHbo	=	(char)383173027;
     long long    waCQr    =    -592850962;
   unsigned short  K43V99zR  =  (unsigned short)-1988756845;
- short int fdbdoO = -397696528;
+ short int fdbdoO = (short)-397696528;
 
 {
 int i = 0;
@@ -252,7 +252,7 @@ B_unT2q = KkU1MKU(B_unT2q, n8l_pk, (unsigned short)-805316912, vPj_759RNN);
 
 if (C27y009 >= -637447767)
 {
-std::cout << KkU1MKU((unsigned short)1844838664, -1044097025, XsI7DiF, vPj_759RNN) << std::endl;
+std::cout << KkU1MKU((unsigned short)1844838664, (unsigned short)-1044097025, XsI7DiF, vPj_759RNN) << std::endl;
 }
 else if (c2WHK3hd4_ <= -2032470939)
 {

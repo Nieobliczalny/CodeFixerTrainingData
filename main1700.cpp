@@ -31,7 +31,7 @@ int main() {
     V7S363dy    =    (unsigned short)-989775499;
     Vo8dC    =    (unsigned short)-1999238665;
     Oc7N9W    =    (unsigned short)-1760132930;
-    tcXrZbZ    =    -1900113369;
+    tcXrZbZ    =    (unsigned short)-1900113369;
     Wo4j8fxgpm    =    -1271527306;
     MG0649W6e2    =    814972576;
     YfPz    =    -2001720535;
@@ -41,7 +41,7 @@ int main() {
     jqQemo    =    (unsigned short)1679410237;
     d2LSJ    =    (unsigned short)-821941953;
     g6Rj3J0w    =    (unsigned short)135538168;
-    iXKh3a8    =    1439375099;
+    iXKh3a8    =    (unsigned short)1439375099;
     rKQ00    =    377607941;
     V33W    =    -1954398513;
     L5rm    =    982571220;
@@ -51,7 +51,7 @@ int main() {
     Lyd7    =    (unsigned short)-721801956;
     sEo673F    =    (unsigned short)-1453134311;
     QLs05cjo6    =    (unsigned short)1546183417;
-    ux31g709    =    -1971384350;
+    ux31g709    =    (unsigned short)-1971384350;
     y4PX6Wq    =    1415019477;
     h6rK_S35    =    -428036214;
     K1Lk    =    -67142244;
@@ -61,7 +61,7 @@ int main() {
     X15Y6H16    =    (unsigned short)2032255706;
     JuPOZGx_9    =    (unsigned short)1937745133;
     XT8CE4    =    (unsigned short)-388934597;
-    pn_8an    =    1272969326;
+    pn_8an    =    (unsigned short)1272969326;
     dRXKa    =    1597940160;
     D56EK8O    =    367779331;
     lc39eOQ753    =    802000322;
@@ -71,7 +71,7 @@ int main() {
     S4rzt    =    (unsigned short)-2047719240;
     sSEyNwRyu    =    (unsigned short)-533099251;
     KPf1s    =    (unsigned short)1298539484;
-    PsNAc3    =    853753772;
+    PsNAc3    =    (unsigned short)853753772;
     m6Pi    =    -836255860;
     D4FS8d    =    -677923496;
     k53i3C4    =    -2144376112;
@@ -81,7 +81,7 @@ int main() {
     Q2uYWr    =    (unsigned short)947465858;
     L1j0mQo1C    =    (unsigned short)-20459008;
     o3E27q8    =    (unsigned short)155541275;
-    Zdh_3h4y    =    -627086339;
+    Zdh_3h4y    =    (unsigned short)-627086339;
     DqDE85l    =    -1950296315;
     Tz86O9    =    -1164055988;
     Nx9Gu    =    -1319672809;
@@ -92,7 +92,7 @@ int main() {
     DweF    =    (unsigned short)1510874209;
     mdVA_f    =    (unsigned short)-132139339;
 
-ja8B8G = cyjW(ja8B8G, -2076877245, -839246515, L1j0mQo1C);
+ja8B8G = cyjW(ja8B8G, -2076877245, (char)-839246515, L1j0mQo1C);
 
 for (int i = 1; i >= 0; i--)
 {

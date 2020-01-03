@@ -52,7 +52,7 @@ int main(int argc, char** argv)
 	long double	f7Z87GzNj4	=	1774107364;
   short  Fmr3Bl4J6h  =  (short)-1985497377;
   unsigned short int  TDeEsp  =  (unsigned short)1374592664;
- unsigned char P4xw5F1g21 = 2072590950;
+ unsigned char P4xw5F1g21 = (unsigned char)2072590950;
   long  yR7_5qoxO  =  744716865;
  long double ml_jvsJ = 1399769870;
   short int  Q6bUs  =  (short)-207953615;
@@ -74,7 +74,7 @@ int main(int argc, char** argv)
   unsigned short int  rY8y2tSG  =  (unsigned short)1268999370;
 	short int	PlTCMopY	=	(short)-1115757549;
 	char	F0870x	=	(char)1397340471;
-	unsigned short	o966t54	=	-414920608;
+	unsigned short	o966t54	=	(unsigned short)-414920608;
   unsigned short int  c06c1Dl  =  2062068316;
 
 T_6TKwfK = (int)ceil(f7Z87GzNj4);

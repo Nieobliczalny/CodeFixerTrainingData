@@ -73,7 +73,7 @@ int main(int argc, char** argv)
  long double SRkfJibLte = -448625690;
 	short int	Z_3LqL9x	=	(short)293707428;
   unsigned short  Sg63RUYjt  =  (unsigned short)747843768;
-	unsigned char	lz08	=	1692816268;
+	unsigned char	lz08	=	(unsigned char)1692816268;
     short int    SfpM9k    =    (short)1680392073;
   unsigned short int  P711LiJ8  =  -1718297943;
   int  PYej  =  -52817031;
@@ -94,7 +94,7 @@ int main(int argc, char** argv)
  unsigned short S5wZmMQw = (unsigned short)1524129628;
     float    u4gOg49t9O    =    -1625048635;
     short    ebb3Axbp_E    =    (short)1185735053;
-	unsigned short int	L7K4SoHGP	=	-1879278632;
+	unsigned short int	L7K4SoHGP	=	(unsigned short)-1879278632;
 	short	Bey34NA1	=	(short)-1927429176;
  int b8Zzv = 1453912928;
  unsigned int Wp_xiYC48u = 194165752;
@@ -278,7 +278,7 @@ int i = 4;
 while (i >= 0)
 {
 i--;
-cout << f844ye8PB((unsigned short)-1272095184) << "I071xjj6" << "cY0pQt6" << f844ye8PB(2106839840) << endl;
+cout << f844ye8PB((unsigned short)-1272095184) << "I071xjj6" << "cY0pQt6" << f844ye8PB((unsigned short)2106839840) << endl;
 }
 }
 ebb3Axbp_E = (short)(aA2x + (-1520351289));

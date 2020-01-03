@@ -19,7 +19,7 @@ int main(void) {
     KmMtMKA3J    =    (short)1502839636;
     hT__Vy    =    (short)-1434472045;
     JJV9x5    =    (short)1730919316;
-    jK8l    =    1551214132;
+    jK8l    =    (short)1551214132;
     z4R_    =    297142946;
   long long  aUuZq,  yasX3TnI7w,  nIp1;
   aUuZq  =  0;

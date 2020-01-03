@@ -14,7 +14,7 @@ int main(int argc, char** argv) {
  y9zsJ = (char)-1384319892;
  X3x4DwEI0i = (char)-2130313513;
  Yfyl = (char)1706165227;
- nEld8 = -1000907137;
+ nEld8 = (char)-1000907137;
   unsigned long long  cYg9A;
   cYg9A  =  0;
 

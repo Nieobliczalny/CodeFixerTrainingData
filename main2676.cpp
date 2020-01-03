@@ -33,7 +33,7 @@ int main() {
  rE0NQD = (unsigned char)188880600;
  t_V68_b = (unsigned char)1951839487;
  Y_3F = (unsigned char)1113878340;
- T5MUkeEFm5 = -1312936211;
+ T5MUkeEFm5 = (unsigned char)-1312936211;
  zNc9 = 976711128;
  P2z1 = 425999195;
  TT660OikA6 = -583523284;
@@ -43,7 +43,7 @@ int main() {
  ZBof = (unsigned char)-1088417982;
  v7w73EmBLo = (unsigned char)679279200;
  DBkG_y7 = (unsigned char)999576373;
- k0Em9YNw0Y = 1326727189;
+ k0Em9YNw0Y = (unsigned char)1326727189;
  CVWC = 1874556463;
  q_gOISg = 552019888;
  ntc1 = 1350299548;
@@ -53,7 +53,7 @@ int main() {
  V_5q = (unsigned char)-45687738;
  uV8A_H0s = (unsigned char)1189916798;
  agQSz967 = (unsigned char)555461330;
- U24UiNP0j = 293348892;
+ U24UiNP0j = (unsigned char)293348892;
  fNK2e = -866002603;
  uLvWuLHQj = -2047058804;
  MmeCK = 1869709562;
@@ -63,7 +63,7 @@ int main() {
  Hrj8ZXCHu = (unsigned char)-1872826062;
  we1q_Sxf = (unsigned char)-2045562524;
  E3zjR5Q = (unsigned char)-1856929779;
- y80nHMwY3G = 196527280;
+ y80nHMwY3G = (unsigned char)196527280;
  rCcQ008P = 1157004467;
  qoKs = -1534003656;
  JyEeo3qy = 1286293641;
@@ -73,7 +73,7 @@ int main() {
  xItPMRh = (unsigned char)1835589767;
  sn6K78g = (unsigned char)1713495888;
  q93C1 = (unsigned char)-1574990619;
- Uew3 = 1871499868;
+ Uew3 = (unsigned char)1871499868;
  d9xvDOON = 75651291;
  H8ZCFS = -479925348;
  a3hOnGT = 613952914;
@@ -83,7 +83,7 @@ int main() {
  qnu5 = (unsigned char)1247608064;
  M4cVl8weX = (unsigned char)1410325972;
  Q_ZrQf = (unsigned char)-1645090977;
- Ep2Ok5U = -1520327672;
+ Ep2Ok5U = (unsigned char)-1520327672;
  RnOuTd_N = 249902035;
  hTq6bMHn = -418966902;
  m51p = 1612084297;
@@ -93,7 +93,7 @@ int main() {
  P_12 = (unsigned char)-1681942700;
  Svm82 = (unsigned char)813532610;
  h4dh6YO3 = (unsigned char)-2016451375;
- HS9_sx = -342868167;
+ HS9_sx = (unsigned char)-342868167;
  R3yv2zEj = -29603760;
  I_axAEFV = -669038606;
  yH_1Bw8X = -1942387295;
@@ -103,7 +103,7 @@ int main() {
  Ssh51Ah = (unsigned char)-916826213;
  Pif0o586 = (unsigned char)1304238928;
  Jz_Bi = (unsigned char)324508930;
- j54UZX57 = -1839924240;
+ j54UZX57 = (unsigned char)-1839924240;
  iWuU = 1385566449;
 
 switch (JyEeo3qy)

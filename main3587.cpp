@@ -595,7 +595,7 @@ Q8___A = P7T0w((short)-1210045677, (unsigned short)1280995593, (char)119767439);
 break;
 case 'f':
 case 'F':
-gPWq03FP8 = P7T0w((short)768697071, (unsigned short)1484317751, 2145119261);
+gPWq03FP8 = P7T0w((short)768697071, (unsigned short)1484317751, (char)2145119261);
 break;
 default:
 q39D11N0 = (int)abs(U1W526dW2);

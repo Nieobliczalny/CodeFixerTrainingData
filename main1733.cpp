@@ -371,7 +371,7 @@ wHWNi = uoXRQkZFn(-1269413119, Pua8Qc3n, (unsigned char)520425709, (char)-114319
 break;
 case 'e':
 case 'E':
-bx7DGgZ2XZ = P_Vd(34954852);
+bx7DGgZ2XZ = P_Vd((short)34954852);
 break;
 case 'f':
 case 'F':

@@ -70,7 +70,7 @@ case 'c':
 cj7Pkx41S = Wyz_X5FjI(cj7Pkx41S, -221223701, (unsigned short)-1327111915, (short)-1840225775);
 break;
 case 'd':
-ThW7qmJ = vTz0(ThW7qmJ, zSKwiuzwL1, hr04YT8, 1738387980);
+ThW7qmJ = vTz0(ThW7qmJ, zSKwiuzwL1, hr04YT8, (unsigned short)1738387980);
 break;
 case 'e':
 RH8Dln = (int)abs(DstfhpVNF);

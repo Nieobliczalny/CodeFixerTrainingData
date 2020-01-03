@@ -25,7 +25,7 @@ int main(int argc, char** argv) {
 	unsigned short	Q9Bp5F3T6	=	0;
     char    zQ4f    =    (char)-1210549280;
     int    V8_dqZy79k    =    521765743;
-  short  npYQjEx  =  1903717426;
+  short  npYQjEx  =  (short)1903717426;
 
 {
 int i = 0;

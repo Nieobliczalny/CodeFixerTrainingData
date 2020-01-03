@@ -50,7 +50,7 @@ int main(int argc, char** argv)
 	char	E1QZ_wz5	=	(char)-733827817;
 	float	KR04f	=	1137122108;
 	double	OsJ3GDG0DD	=	-1947052947;
-  unsigned short int  BF06ZZK  =  -1153007735;
+  unsigned short int  BF06ZZK  =  (unsigned short)-1153007735;
 	unsigned long	U0XHLBq_I	=	551658226;
   unsigned short  S02MIW  =  (unsigned short)1380223647;
 	double	AOE85	=	-1180933223;
@@ -79,7 +79,7 @@ int main(int argc, char** argv)
 	unsigned char	k0AZ71	=	(unsigned char)-2125574337;
 	unsigned char	k6195	=	(unsigned char)1854005360;
     unsigned short    t4D55X50T    =    (unsigned short)-2134637002;
-	unsigned char	J7Q2Lt	=	1509649965;
+	unsigned char	J7Q2Lt	=	(unsigned char)1509649965;
 
 {
 int i = 0;

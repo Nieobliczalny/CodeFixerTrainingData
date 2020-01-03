@@ -32,7 +32,7 @@ int main()
 	Hw1lmv	=	(char)-2074594624;
 	XTDq	=	(char)226245099;
 	l1Le4zkL	=	(char)-494356918;
-	ai1e_X	=	1739501814;
+	ai1e_X	=	(char)1739501814;
 	L_5_U	=	-1268699610;
 	d_aiOF1	=	1439778999;
 	Kr5hF6616w	=	-1799442503;
@@ -42,7 +42,7 @@ int main()
 	F1CadmaN	=	(char)-645488244;
 	cR0LRGF_6J	=	(char)-860009835;
 	OO8JBj3	=	(char)-269128348;
-	TMQl2h56	=	-371679465;
+	TMQl2h56	=	(char)-371679465;
 	C_uaQF_	=	-2126199409;
 	i57s6oXw	=	640648526;
 	Q57wwH	=	-50268327;
@@ -52,7 +52,7 @@ int main()
 	j4K5414q_	=	(char)-1465675492;
 	sd2k5aF66	=	(char)83672326;
 	pS_S	=	(char)-1307631905;
-	H6QaPd1v6J	=	-27069783;
+	H6QaPd1v6J	=	(char)-27069783;
 	o0Mm4	=	39143826;
 	PkY8p_GAC	=	-177390603;
 	Z4ne2H	=	-32489139;
@@ -62,7 +62,7 @@ int main()
 	e94b7	=	(char)-1449063140;
 	CqJC2l	=	(char)322272685;
 	RIsE	=	(char)1669332832;
-	Ul805I	=	-263301114;
+	Ul805I	=	(char)-263301114;
 	w68c22fN	=	-880278878;
 	AmE3	=	-2011993114;
 	XTnsQ9j5T	=	-1401542645;
@@ -72,7 +72,7 @@ int main()
 	LRjYVj_o	=	(char)877561328;
 	O272f	=	(char)-1967397845;
 	q5_x9	=	(char)1626046714;
-	XCaDQHNe	=	635578259;
+	XCaDQHNe	=	(char)635578259;
 	XrZE5	=	-799282175;
 	sT9L3E2Ma6	=	781050670;
 	dXAB290698	=	89554479;
@@ -82,7 +82,7 @@ int main()
 	OWml4_8T71	=	(char)-1225564269;
 	FPVl8Ikc_	=	(char)-464129236;
 	fPB0d_	=	(char)1396188591;
-	A7snfR	=	605873316;
+	A7snfR	=	(char)605873316;
 	xule	=	83556332;
 	NotpSr	=	-1893140276;
 	XypIgd	=	-1410351014;
@@ -92,7 +92,7 @@ int main()
 	t2_ok	=	(char)89975707;
 	WXDr	=	(char)-1767358523;
 	qyAduAABD	=	(char)515482945;
-	lRO2ceiOr_	=	-1065001588;
+	lRO2ceiOr_	=	(char)-1065001588;
 	Ny0kw3S8mE	=	-1685699451;
 	M1nFy3h_i	=	2147309246;
 	Q6_Gy378	=	1516386700;
@@ -102,7 +102,7 @@ int main()
 	G86m	=	(char)-1768464710;
 	ZrN02	=	(char)-1022320195;
 	Uo3zA	=	(char)1947661005;
-	eG8gtg	=	1114177812;
+	eG8gtg	=	(char)1114177812;
 	e111t	=	204812213;
 	RC6Pos	=	915096840;
 	n0R1hN	=	1297695003;
@@ -112,7 +112,7 @@ int main()
 	cy1P9UhUqi	=	(char)-2045080708;
 	Xebfq	=	(char)-182949654;
 	jiPd	=	(char)-2068664655;
-	cDzw	=	-1903755011;
+	cDzw	=	(char)-1903755011;
 	Jf5_R	=	-440166316;
 	egAw73K1x3	=	-255003578;
 	a6Uv	=	-1222457374;
@@ -122,7 +122,7 @@ int main()
 	sX_vb	=	(char)1666762257;
 	VC_Xby9	=	(char)1489010486;
 	yEEs6SjNs	=	(char)-153638234;
-	fCF3tCd9L	=	-494528913;
+	fCF3tCd9L	=	(char)-494528913;
 	B7dO9fT4	=	-22945386;
 
 if (qyAduAABD)

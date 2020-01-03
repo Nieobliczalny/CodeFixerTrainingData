@@ -55,7 +55,7 @@ int main(void)
  unsigned char a7s008yo = (unsigned char)1131413822;
 	unsigned char	Cldb	=	(unsigned char)-1893185924;
     double    Yta7rU    =    1195795429;
-    unsigned short    jEBdhh2    =    -1818634333;
+    unsigned short    jEBdhh2    =    (unsigned short)-1818634333;
 	float	D6sT7sA	=	1125948327;
   unsigned int  MQ3xz  =  0;
     float    S7_d_    =    -1300991004;

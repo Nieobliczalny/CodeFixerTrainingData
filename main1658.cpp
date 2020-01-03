@@ -86,7 +86,7 @@ int main(int argc, char** argv) {
 	long	NM4nsDyZN	=	-656979238;
     long long    P3qLvKCh3    =    1391601535;
  unsigned char XiaX4BR0i = (unsigned char)988861907;
- unsigned short TYNA_ = -327567104;
+ unsigned short TYNA_ = (unsigned short)-327567104;
   long double  Wr1Ho  =  -1040547055;
  unsigned short J96pbAw = (unsigned short)1997217746;
   short int  Y66_NemV_  =  (short)712909505;

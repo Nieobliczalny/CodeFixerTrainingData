@@ -34,7 +34,7 @@ mB7ei2 = d0kU9N7(G_6gh7, (short)-1692259898, (unsigned short)-111688457);
 }
 else
 {
-zxr5bq = tPbZ(zxr5bq, -518595977, -930295768, N2HL8xV, 301671482);
+zxr5bq = tPbZ(zxr5bq, (unsigned short)-518595977, -930295768, N2HL8xV, 301671482);
 }
 
 if ((E13bYoZ != -394459673) || (icWqV == BKbl8))

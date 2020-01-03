@@ -110,7 +110,7 @@ int main(void)
   unsigned short int  H851  =  (unsigned short)1418439129;
   int  Ls6iqsXp  =  1045938903;
     unsigned short    x10ev    =    (unsigned short)-1211382795;
-	unsigned short int	Hi7urR812_	=	-381142425;
+	unsigned short int	Hi7urR812_	=	(unsigned short)-381142425;
 
 H851 >>= WPH3yDA;
 {

@@ -72,7 +72,7 @@ int main()
   unsigned short int  OhbOk  =  (unsigned short)-1873969227;
     float    osBP37L0V    =    -797015957;
  char KAK187Z = (char)1559259667;
-  short  Jp9m  =  819386741;
+  short  Jp9m  =  (short)819386741;
  unsigned char OgXky = (unsigned char)727469800;
  unsigned long long lB3Ib = 910951172;
     long long    re1RN    =    464257658;

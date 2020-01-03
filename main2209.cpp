@@ -115,7 +115,7 @@ for (int i = 1; i >= 0; i--)
 {
 std::cout << G_CTO62 << sRRXzyyE3((unsigned short)1910647103, 1737562450, qf55he9, egHx5, YLL5xh_) << sRRXzyyE3(F8fNX_, Zl9A6, qf55he9, egHx5, (char)-2024508214) << "gu24g" << sRRXzyyE3(F8fNX_, 686424914, qf55he9, (unsigned short)276747401, (char)-1719679600) << std::endl;
 }
-v12d88y2eJ = sRRXzyyE3((unsigned short)2078131636, HOgCJ, -313817192, qf55he9, v12d88y2eJ);
+v12d88y2eJ = sRRXzyyE3((unsigned short)2078131636, HOgCJ, (short)-313817192, qf55he9, v12d88y2eJ);
 ZH9VJ301 = (int)(ew_C0R * ZH9VJ301);
 
 if (ew_C0R > BTV_nb)

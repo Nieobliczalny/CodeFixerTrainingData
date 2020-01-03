@@ -231,7 +231,7 @@ i++;
 while (i < 1);
 }
 
-std::cout << ng4p_S7(ruJ71, (unsigned short)-1193953261, 1986484631, gREL5d, zIEdWNxT) << ng4p_S7(ruJ71, (unsigned short)-2048505501, -878590403, 1189989290, -1477117552) << ng4p_S7((short)384239208, (unsigned short)213079484, -1849892833, -661110527, zIEdWNxT) << TIYz3 << ng4p_S7((short)-964136778, 472853207, 494538904, gREL5d, 398556640) << std::endl;
+std::cout << ng4p_S7(ruJ71, (unsigned short)-1193953261, 1986484631, gREL5d, zIEdWNxT) << ng4p_S7(ruJ71, (unsigned short)-2048505501, -878590403, 1189989290, -1477117552) << ng4p_S7((short)384239208, (unsigned short)213079484, -1849892833, -661110527, zIEdWNxT) << TIYz3 << ng4p_S7((short)-964136778, (unsigned short)472853207, 494538904, gREL5d, 398556640) << std::endl;
 
 for (int i = 0; i < 6; i++)
 {

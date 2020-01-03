@@ -57,7 +57,7 @@ int main()
  char EVA8o4g8l = (char)183702529;
  unsigned int j8Cj3kBbJC = -251404151;
     long long    cc8NWfWW    =    191923196;
-    unsigned short int    enux    =    1606722065;
+    unsigned short int    enux    =    (unsigned short)1606722065;
  long double CF_G7vGPAV = 763135946;
  int B1o28FK9p = -1993705007;
     unsigned int    bbBziwHn    =    -672589727;
@@ -74,7 +74,7 @@ int main()
 	long	q3x48exTk7	=	1124301047;
  unsigned char hSZhwI4Du = (unsigned char)-736296019;
  short Tm18E0 = (short)-1661386301;
-    short int    Seacojj358    =    1201744583;
+    short int    Seacojj358    =    (short)1201744583;
   long  j0QR7E1W  =  -666677018;
 
 switch (B1o28FK9p)

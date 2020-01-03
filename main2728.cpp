@@ -676,7 +676,7 @@ for (int i = 0; i < 8; ++i)
 {
 if (caP36h7393 > 1432507254)
 {
-V9Yv2pm = J1rLXV3Xuh((short)-1459657582, TZ_sKaa, (short)-414590780, -1107197358, mno8);
+V9Yv2pm = J1rLXV3Xuh((short)-1459657582, TZ_sKaa, (short)-414590780, (unsigned char)-1107197358, mno8);
 }
 }
 return 0;

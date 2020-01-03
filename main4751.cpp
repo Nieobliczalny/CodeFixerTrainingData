@@ -180,7 +180,7 @@ case 3:
 Y2q_ = A5km46bF(Y2q_, z79n_S0, (unsigned short)-39009326, (unsigned char)535667950);
 break;
 case 4:
-gKM_5 = (imk6O74274 == Afu9_0) ? A5km46bF(Y2q_, z79n_S0, w1KXSU2U, -1955157583) : XPK2UQ_;
+gKM_5 = (imk6O74274 == Afu9_0) ? A5km46bF(Y2q_, z79n_S0, w1KXSU2U, (unsigned char)-1955157583) : XPK2UQ_;
 break;
 case 5:
 w1KXSU2U = kKairA6ZN((unsigned short)-697150809);

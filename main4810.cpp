@@ -76,7 +76,7 @@ int main() {
   int  hhe43clbd3  =  1817023292;
   unsigned long long  tva4dZQ  =  -1127001375;
 	char	HEXM	=	(char)160749522;
-    unsigned short int    pIMmDt    =    -1222963315;
+    unsigned short int    pIMmDt    =    (unsigned short)-1222963315;
   char  h4_o21Az  =  0;
     float    CbDx5V    =    -1952165353;
     char    r_NGFND    =    (char)-1422658671;

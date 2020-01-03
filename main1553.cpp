@@ -97,7 +97,7 @@ case 2:
 Ig62pMK = (int)floor(m15Q);
 break;
 case 3:
-Z102uvaWC = G606yw2Ly(Z102uvaWC, -950433142, 186856317, 282011759);
+Z102uvaWC = G606yw2Ly(Z102uvaWC, -950433142, (unsigned short)186856317, 282011759);
 break;
 case 4:
 IQwv7eLh5i = u_zU | 633588726;

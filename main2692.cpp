@@ -31,7 +31,7 @@ int main(int argc, char** argv)
   unsigned long long  mw791o  =  759948105;
  short Y3as0 = (short)-1626559925;
     unsigned char    E1aTN0    =    (unsigned char)2143524205;
- short w5yPHNe1B = -1497382605;
+ short w5yPHNe1B = (short)-1497382605;
 	unsigned int	weJNAN	=	1366009270;
  short int Tr9Oc5Ch = (short)369272659;
   unsigned char  jJ_M3DSx8Y  =  (unsigned char)-1336646167;

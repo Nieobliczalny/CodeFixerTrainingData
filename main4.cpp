@@ -28,7 +28,7 @@ int main()
     unsigned char    n2EuE    =    (unsigned char)549805174;
     short    L2xZw    =    (short)1610058340;
  unsigned short int hiY6 = (unsigned short)546695860;
-	unsigned short	GP0H20Q78E	=	2137005852;
+	unsigned short	GP0H20Q78E	=	(unsigned short)2137005852;
   unsigned long  xj9JYYar1  =  642077110;
 
 H3k3W9 = lc5Kov_cC << EX9r66;

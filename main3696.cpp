@@ -47,7 +47,7 @@ int main() {
   char  Rpea97Lut  =  (char)-1188461285;
   unsigned char  v2VL_2_3y  =  (unsigned char)1021763158;
   long double  L3UCXPq8  =  -1112676886;
-	char	Jp4WrZ	=	45626039;
+	char	Jp4WrZ	=	(char)45626039;
 	unsigned char	srk3kz38q	=	1848724399;
 	unsigned int	qB1gB	=	-690912947;
 	long double	LxaU	=	-1727650304;

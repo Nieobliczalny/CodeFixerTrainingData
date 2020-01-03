@@ -60,7 +60,7 @@ int main() {
 	float	N9Rp8F5	=	-759573785;
   short  UJTYpsQ  =  (short)340288753;
 	char	aabGa45A	=	(char)-838093590;
-	unsigned short int	iLe7tcE0N6	=	-1636741490;
+	unsigned short int	iLe7tcE0N6	=	(unsigned short)-1636741490;
     char    XvH39uw    =    860991502;
     short int    pnXSqs    =    (short)903682226;
 

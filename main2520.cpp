@@ -39,7 +39,7 @@ int main()
     float    ehQRn4y    =    1881584623;
     long long    qHve46FxA    =    70282778;
  short int YH3ls = (short)-243737491;
-  char  f92EVW  =  -1191277584;
+  char  f92EVW  =  (char)-1191277584;
     float    M_y4    =    117149693;
     unsigned long long    l4hBed7Wm    =    -450924063;
  unsigned long FB3n678 = 695166898;

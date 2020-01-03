@@ -39,7 +39,7 @@ case 3:
 d4F9G00 = S99tuDgG((short)-155888586, (unsigned short)1194174888);
 break;
 case 4:
-d4F9G00 = S99tuDgG(1535216319, -1486344162);
+d4F9G00 = S99tuDgG((short)1535216319, -1486344162);
 break;
 case 5:
 xvbU824y ^= 482241031;

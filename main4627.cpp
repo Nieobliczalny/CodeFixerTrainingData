@@ -85,7 +85,7 @@ int main(int argc, char** argv) {
     unsigned char    tz2MBg1_62    =    (unsigned char)274884805;
  unsigned short xYHSTTO = (unsigned short)1864770240;
   unsigned long  s3j2T  =  -101015340;
- short int AZMje_yJp8 = -1013369412;
+ short int AZMje_yJp8 = (short)-1013369412;
 	int	Tbw_773_V	=	1246675124;
   long  gk60LhML  =  641036849;
   unsigned short  ZsgH_fN2  =  (unsigned short)1847653148;

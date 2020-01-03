@@ -245,7 +245,7 @@ case 'e':
 J5y0 = t5j_t(J5y0, (unsigned char)1426181954, 464411594, D4W1C3, (unsigned char)2123261013);
 break;
 case 'f':
-Ix35wKk = t5j_t((unsigned short)-1729055397, (unsigned char)-1178291320, D4W1C3, (unsigned char)-1920121147, -1788758913);
+Ix35wKk = t5j_t((unsigned short)-1729055397, (unsigned char)-1178291320, D4W1C3, (unsigned char)-1920121147, (unsigned char)-1788758913);
 break;
 case 'g':
 y48yKi0J = t5j_t(y48yKi0J, vYadZlm7, 894263602, J5y0, -74424518);
@@ -294,7 +294,7 @@ case 2:
 D4W1C3 = HbUmn_9(376201862, vYadZlm7);
 break;
 case 3:
-J5y0 = t5j_t(J5y0, Ix35wKk, -1866353029, (unsigned char)1093834398, 1552356377);
+J5y0 = t5j_t(J5y0, Ix35wKk, -1866353029, (unsigned char)1093834398, (unsigned char)1552356377);
 break;
 case 4:
 y48yKi0J = t5j_t(vYadZlm7, D4W1C3, 1011158145, (unsigned char)-2108918121, (unsigned char)-1705108677);

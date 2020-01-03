@@ -79,7 +79,7 @@ int main(int argc, char** argv)
  long long s_5O649 = -1900257948;
  short int K23UZkR = (short)-925699495;
     int    s1Nt    =    0;
-	unsigned short	ic59z	=	-1365734850;
+	unsigned short	ic59z	=	(unsigned short)-1365734850;
 	char	dz0g	=	(char)-1297478265;
   int  Q56mq5  =  2097408105;
 	long	rLB3i_tSw	=	-1672985872;
@@ -118,7 +118,7 @@ int main(int argc, char** argv)
     long    Q28jp5_    =    774461157;
  long vp7h9Vx = 960305994;
   float  g_KN99knII  =  -2137078653;
-	char	D_jG4b8WXg	=	-617671505;
+	char	D_jG4b8WXg	=	(char)-617671505;
 
 if (((X98jp39 >= -201270713) && (UCfWI)) || (e41nMs & 1270244976))
 {

@@ -68,7 +68,7 @@ int main(int argc, char** argv)
  short P15xeMDx = (short)-1778390055;
   long long  CmZOi  =  145340882;
     long long    gT6WyY0WNI    =    824207986;
-    char    ZSg6q3    =    1907471280;
+    char    ZSg6q3    =    (char)1907471280;
  long long F3X1_Bvwz = 1228038035;
  float Y9XOqPdB = 1920178767;
   long double  L53XzdH2  =  -235493804;

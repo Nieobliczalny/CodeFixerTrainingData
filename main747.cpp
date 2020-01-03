@@ -32,7 +32,7 @@ int main()
   short int  J6CZ_m6  =  (short)657086117;
  float lLb0_Y9X = 1803438463;
   unsigned long long  m0Jdto  =  -357932903;
-	short int	llW5xW	=	509486714;
+	short int	llW5xW	=	(short)509486714;
 	long	D2eueh0_a	=	-811011696;
     char    O9W7gcW45    =    (char)-550660242;
     unsigned int    She1If7Sy    =    -177698804;

@@ -15,7 +15,7 @@ int main()
 	tkBqq	=	(unsigned char)-1891210105;
 	hTXB0r	=	(unsigned char)1266855855;
 	TMx7o0	=	(unsigned char)-1865710141;
-	enTx1R	=	1235402892;
+	enTx1R	=	(unsigned char)1235402892;
 	Q_6tKu7Fl	=	215972398;
 	gX7wQKxk	=	1396343861;
 	itAu847	=	-1744161011;

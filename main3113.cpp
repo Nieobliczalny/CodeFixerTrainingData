@@ -52,7 +52,7 @@ int main() {
  short int uhfc = (short)1106479901;
     long double    W69HViQ14    =    209862364;
     short int    yWst0    =    (short)-501316954;
-  short int  L90m  =  -1843570290;
+  short int  L90m  =  (short)-1843570290;
   long long  s_fv9u8  =  0;
     unsigned long long    xpJNJ2cjj4    =    -17773733;
 	long long	XaS7L404Kq	=	-1914313840;

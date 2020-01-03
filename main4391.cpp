@@ -30,7 +30,7 @@ int main(void)
  char uU5W2FxzV = (char)-1577120806;
  unsigned int A57Kz = -1981519735;
  unsigned char CcN7I_Qtn9 = (unsigned char)-1937826139;
-    short int    MKAhw    =    920353406;
+    short int    MKAhw    =    (short)920353406;
  unsigned long L3NyHNUbYb = 879266485;
   long double  W593b3Cf3  =  1312112092;
   unsigned char  r_8zVK  =  (unsigned char)-623675710;
@@ -56,7 +56,7 @@ int main(void)
 	unsigned short int	QH6wzJjoy	=	(unsigned short)-1564953971;
     long long    Rr18_X03FL    =    -1111172872;
  unsigned short aoAg = (unsigned short)-1517070524;
-    unsigned char    yFee    =    -1884403170;
+    unsigned char    yFee    =    (unsigned char)-1884403170;
   double  zr9IpzB3Z3  =  -486338410;
     short    G51K    =    (short)525810482;
     unsigned long long    ZKEa610    =    0;

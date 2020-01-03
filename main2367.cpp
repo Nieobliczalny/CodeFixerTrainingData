@@ -28,7 +28,7 @@ int main() {
   unsigned short  BgNSVdga_  =  0;
 	char	q1W2CD01	=	(char)66416873;
   unsigned char  eVmM6Nb_g  =  (unsigned char)-1033118069;
-  unsigned short int  Jl3Dbn  =  1080697837;
+  unsigned short int  Jl3Dbn  =  (unsigned short)1080697837;
   unsigned short  A7H000I  =  (unsigned short)-1423608241;
  long oX3o4ZlE = 1817387109;
   long double  K452z  =  944046248;

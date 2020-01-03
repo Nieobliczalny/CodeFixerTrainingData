@@ -301,7 +301,7 @@ case 2:
 Ue_6bvh3m = K_sJ73r92c((char)-1321543471, w_LC, (short)1860165239);
 break;
 case 3:
-qx9Rbu = Y2GT5VY(38521450, qx9Rbu, 581436994, xGlW8o_);
+qx9Rbu = Y2GT5VY(38521450, qx9Rbu, (short)581436994, xGlW8o_);
 break;
 default:
 Ow1I = K_sJ73r92c(-1403594930, 2112526587, s_63);

@@ -51,7 +51,7 @@ int main(void) {
     unsigned long long    ZaY2_bho    =    -34037250;
  unsigned short OyNcN7 = (unsigned short)1222598772;
  long double y55GJ76e = 138745761;
- char mNYetFS = 1781851752;
+ char mNYetFS = (char)1781851752;
 	unsigned int	mV9uybMo3	=	-1743634921;
     char    w38AFV5J    =    (char)202753376;
  long double K_KM2PxA64 = 1427406184;

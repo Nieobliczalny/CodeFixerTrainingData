@@ -119,7 +119,7 @@ case 3:
 bH4z1jQT = pP02zn_I(bH4z1jQT, (unsigned short)-1352929231, qkVQ);
 break;
 case 4:
-d5S39T4lf_ = pP02zn_I(1778912229, bH4z1jQT, AYQG1JG2);
+d5S39T4lf_ = pP02zn_I((unsigned short)1778912229, bH4z1jQT, AYQG1JG2);
 break;
 default:
 ICz4_ = pP02zn_I(ICz4_, (unsigned short)-1857120468, jXSlbcz8);

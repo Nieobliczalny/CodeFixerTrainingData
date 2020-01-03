@@ -485,7 +485,7 @@ case 4:
 MLs639v_C4 = ty5_b(MLs639v_C4, (unsigned short)-612605738, (unsigned short)-705368415, ondL3u3ziB, L6eO_1qH);
 break;
 case 5:
-xb75J8R = ty5_b(xb75J8R, jkbsJ_1, -1827863853, 167909984, 1949090611);
+xb75J8R = ty5_b(xb75J8R, jkbsJ_1, (unsigned short)-1827863853, 167909984, 1949090611);
 break;
 case 6:
 yfbKK *= G8oEn20_pK;

@@ -22,7 +22,7 @@ int main() {
   short int  j0Hl  =  (short)-1661046893;
  unsigned long RMm_E = 314037407;
   short  csuxvf5jJ0  =  (short)-1244867091;
-    unsigned short int    P56DGm    =    -696752423;
+    unsigned short int    P56DGm    =    (unsigned short)-696752423;
   unsigned long  A0wR10xX  =  -1266773423;
   unsigned short  C2eft  =  (unsigned short)-1341199148;
  float ABY606jU = -794133531;
@@ -33,7 +33,7 @@ int main() {
     short    ge02d    =    (short)-508019774;
     short int    N8h3L3    =    (short)1338048931;
     unsigned short    at26    =    (unsigned short)-926160703;
-	unsigned short	pv6m63_7W	=	1668892385;
+	unsigned short	pv6m63_7W	=	(unsigned short)1668892385;
 	unsigned long	e641yBaO7F	=	-937988787;
 	unsigned short int	Us1_	=	(unsigned short)43242768;
     unsigned char    O4s73L    =    -633892662;

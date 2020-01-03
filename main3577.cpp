@@ -39,7 +39,7 @@ int main() {
  unsigned char V_TH = (unsigned char)644860344;
   unsigned long  t9G_66  =  825790274;
   unsigned short  sv6H9sMh  =  (unsigned short)-681049842;
-    unsigned short    mMTG2xj    =    465376331;
+    unsigned short    mMTG2xj    =    (unsigned short)465376331;
     unsigned short int    y91foA0r8s    =    (unsigned short)2147108947;
   short  Dif89xVnJ  =  (short)247440361;
   char  NJ6WD5Ong4  =  1284355217;
@@ -85,7 +85,7 @@ int main() {
     unsigned char    PTT97_34    =    (unsigned char)-145540503;
  unsigned char DNw0r81 = (unsigned char)-1282689530;
     unsigned char    O_2GEkd5Hc    =    (unsigned char)-924761938;
-	unsigned short int	S_Vi38	=	-1780668544;
+	unsigned short int	S_Vi38	=	(unsigned short)-1780668544;
   int  Qrh3EG  =  0;
 	unsigned int	V5P_QuUBMZ	=	1360817134;
     long long    iAwH55le3    =    515096375;

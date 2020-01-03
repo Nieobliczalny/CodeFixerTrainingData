@@ -666,7 +666,7 @@ case 8:
 eaz9i = hsNQyt3CGS(Z2m9eN2F, (unsigned char)1062016880, (short)2038581153, (char)-1722963369);
 break;
 case 9:
-Vve39 = hsNQyt3CGS(Ix8_Vd3, -1342178556, 1769905451, z83UI4Lh7);
+Vve39 = hsNQyt3CGS(Ix8_Vd3, (unsigned char)-1342178556, 1769905451, z83UI4Lh7);
 break;
 }
 }

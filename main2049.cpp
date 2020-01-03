@@ -60,7 +60,7 @@ int main(void)
   unsigned long long  xg_3F  =  -604823081;
     unsigned short int    L689gs    =    (unsigned short)1563290811;
 	unsigned char	er2Cbi_	=	(unsigned char)-1769080760;
- unsigned short Z654_Sm = -443610962;
+ unsigned short Z654_Sm = (unsigned short)-443610962;
  short OD5Ui9gw = 719022340;
   float  QZsPDeEt7  =  -2015992768;
  int u800 = 892398312;

@@ -84,7 +84,7 @@ try
 {
 if (pp6Vj & 1247272002)
 {
-T574Z = (CZ71c <= a_Y6pe) ? f07purs8VH((unsigned short)1490787110, FfaiTj, a_Y6pe, avEGZ09) : f07purs8VH((unsigned short)820481485, (short)-1976452634, 375080496, -451883281);
+T574Z = (CZ71c <= a_Y6pe) ? f07purs8VH((unsigned short)1490787110, FfaiTj, a_Y6pe, avEGZ09) : f07purs8VH((unsigned short)820481485, (short)-1976452634, (unsigned char)375080496, -451883281);
 }
 }
 catch (int& errorCode)

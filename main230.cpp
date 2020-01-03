@@ -429,7 +429,7 @@ A_bRtE726 = s_C8niNlJ5((short)-858074180, (unsigned char)2136887166, B5K5v4C3_1,
 break;
 case 'f':
 case 'F':
-aHLBjga_gf = s_C8niNlJ5((short)1627404629, 258229075, 258271457, n622gPDH, 1335546674);
+aHLBjga_gf = s_C8niNlJ5((short)1627404629, (unsigned char)258229075, 258271457, n622gPDH, 1335546674);
 break;
 case 'g':
 case 'G':

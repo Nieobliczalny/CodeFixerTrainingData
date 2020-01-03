@@ -58,7 +58,7 @@ int main()
     unsigned short int    Jiv6    =    (unsigned short)-1959354054;
   unsigned short int  S61Adt5  =  (unsigned short)2122578928;
   unsigned short  q6OQt8  =  (unsigned short)1295541774;
-    char    jg9jB7CUH3    =    1531109104;
+    char    jg9jB7CUH3    =    (char)1531109104;
 	int	kpff	=	1885243245;
   double  M0AaL4  =  743580094;
     int    h5Oi_K    =    756358961;
@@ -93,7 +93,7 @@ int main()
     short int    NjQ4q    =    0;
     unsigned short int    k13kDd0D46    =    (unsigned short)-1115512142;
   long long  A0lRAh  =  -30845337;
-  unsigned short  O0UL1I_T  =  -707449340;
+  unsigned short  O0UL1I_T  =  (unsigned short)-707449340;
  int Ifi2tNw = 643526028;
  unsigned long S3PYxn = 9894594;
     short int    xqv0Y    =    (short)-1442240073;

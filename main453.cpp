@@ -323,7 +323,7 @@ case 'D':
 ZM5w %= 1779042696;
 break;
 default:
-HjN83 = GmoMI9_0(HjN83, (short)-1560062457, -1506052201, pZ3tw8Pwr, 769290634);
+HjN83 = GmoMI9_0(HjN83, (short)-1560062457, -1506052201, pZ3tw8Pwr, (short)769290634);
 break;
 }
 

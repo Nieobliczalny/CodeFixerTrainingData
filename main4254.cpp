@@ -416,7 +416,7 @@ case 2:
 gB2B2 = RLSS((short)-1751401592, 641372878, -1697281995, (char)856414217, (unsigned short)-875714874);
 break;
 case 3:
-P72cb = RLSS(b7RXu, Y3JdRoHo6, 749632035, 644365661, ElCjy07bvc);
+P72cb = RLSS(b7RXu, Y3JdRoHo6, 749632035, (char)644365661, ElCjy07bvc);
 break;
 case 4:
 wFCZ4j >>= 146419474;
@@ -646,7 +646,7 @@ case 4:
 T498c9QQI = DWn1((char)-459186251, -500105951, -709055251, (short)-1844226138);
 break;
 case 5:
-gB2B2 = KR2Y(-552981629, 1052700932, 736211982);
+gB2B2 = KR2Y(-552981629, 1052700932, (char)736211982);
 break;
 }
 
@@ -772,7 +772,7 @@ case 'e':
 c27F = RLSS((short)867401268, 1627345142, Y3JdRoHo6, (char)1374796273, (unsigned short)487204512);
 break;
 default:
-gB2B2 = RLSS(1602917540, -36636772, -140363111, FnaVq0QQ, KP3rc4OKR);
+gB2B2 = RLSS((short)1602917540, -36636772, -140363111, FnaVq0QQ, KP3rc4OKR);
 break;
 }
 }

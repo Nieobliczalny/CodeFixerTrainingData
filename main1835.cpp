@@ -276,7 +276,7 @@ case 'h':
 UjJEJ = M3VyXa2((unsigned short)-1664760186, cnQ_);
 break;
 case 'i':
-V7YB_4v8R2 = hUX5v5tsl(q_OmKaJZ, (unsigned short)1609509239, (unsigned char)-1742184014, (short)406341289, -831971419);
+V7YB_4v8R2 = hUX5v5tsl(q_OmKaJZ, (unsigned short)1609509239, (unsigned char)-1742184014, (short)406341289, (unsigned char)-831971419);
 break;
 case 'j':
 I8BBN8a5Iu = (int)ceil(ATSqRvGfX);

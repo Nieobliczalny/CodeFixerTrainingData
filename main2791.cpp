@@ -36,7 +36,7 @@ int main()
  unsigned short int P0fdF = (unsigned short)-1689825063;
 	short	nKU7	=	(short)-1510972830;
     unsigned short    h3_9K_    =    (unsigned short)613069379;
-	unsigned short int	uxmH_xgp	=	275818781;
+	unsigned short int	uxmH_xgp	=	(unsigned short)275818781;
  unsigned char pM3D_Q9FG0 = -848745874;
 	unsigned int	D8n6W95l6	=	1708046844;
  short SX740w8jq7 = (short)-1031610691;

@@ -226,7 +226,7 @@ case 1:
 Dd1L0 = yG7r((unsigned short)-725278809, QQtFV, pa70esc7, c7Dl);
 break;
 case 2:
-nD5Rh5 = yG7r(nD5Rh5, (unsigned short)-1235860243, 480715236, 715683419);
+nD5Rh5 = yG7r(nD5Rh5, (unsigned short)-1235860243, (short)480715236, 715683419);
 break;
 case 3:
 YIV89saPP = oL16JlEF();

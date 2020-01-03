@@ -33,7 +33,7 @@ int main(int argc, char** argv)
     double    J6mK    =    632622258;
 	double	T6ECr0	=	1282284608;
  unsigned short int i9v0153aRG = (unsigned short)855931333;
-	unsigned char	TiTb5h5	=	268063318;
+	unsigned char	TiTb5h5	=	(unsigned char)268063318;
     long    X89tad    =    0;
   unsigned int  u45y5wQN6_  =  418737884;
   unsigned long  j70G0e01i  =  -106313138;

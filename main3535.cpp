@@ -66,7 +66,7 @@ int main() {
   unsigned long  JL747_RL  =  -492036600;
     unsigned short    r_LSqCmcK3    =    (unsigned short)-1223299869;
   unsigned char  K55ts82X  =  (unsigned char)1196477591;
-  unsigned short int  WKH5C  =  1803771966;
+  unsigned short int  WKH5C  =  (unsigned short)1803771966;
  long CnNvFG9Kb = -1011580726;
 	unsigned long long	VNRH57KR	=	1738126252;
 
@@ -443,7 +443,7 @@ case 'i':
 w_4494iUz1 = m456857D(w_4494iUz1, 726930270, (short)-1332204406);
 break;
 case 'j':
-IxM5hjk_8a = Uvo52(2064274817, (unsigned short)-1003601891, q1Ow7sLYc, 1883255354, 1949005136);
+IxM5hjk_8a = Uvo52(2064274817, (unsigned short)-1003601891, q1Ow7sLYc, (unsigned short)1883255354, 1949005136);
 break;
 }
 

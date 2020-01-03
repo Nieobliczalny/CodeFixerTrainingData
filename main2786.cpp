@@ -65,7 +65,7 @@ int main()
  char yhrNSlnNX5 = (char)-1535209509;
   long double  dcol  =  969538166;
  unsigned short int eG_Z4WR7 = (unsigned short)-1918985227;
- unsigned short EQ1_F8 = 1701470081;
+ unsigned short EQ1_F8 = (unsigned short)1701470081;
     int    H_0PAdo0    =    -1760402089;
 	long long	C2Pu7HeT3	=	0;
  short egz8c = (short)-1749729151;

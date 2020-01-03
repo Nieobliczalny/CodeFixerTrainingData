@@ -41,7 +41,7 @@ int main(void) {
   unsigned short int  F_UeMo  =  (unsigned short)-1491259574;
 	unsigned char	AY_gKq0wtx	=	(unsigned char)-1168410975;
   char  gM7ZXL  =  (char)1795408494;
-	unsigned short	HlZ6_Qyv61	=	-1345346280;
+	unsigned short	HlZ6_Qyv61	=	(unsigned short)-1345346280;
 
 {
 int i = 4;

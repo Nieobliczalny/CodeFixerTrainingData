@@ -272,7 +272,7 @@ case 'e':
 I8q5Rd = EM9f1QIZe((char)1483390267, X__vVT, (unsigned short)2052953755, -1366626645, Z5z95);
 break;
 default:
-IuwtD = sMKhKSPjf(IuwtD, 440092294, 188762275, XYn7zGRl8C);
+IuwtD = sMKhKSPjf(IuwtD, 440092294, (unsigned short)188762275, XYn7zGRl8C);
 break;
 }
 }
@@ -383,7 +383,7 @@ case 4:
 QT91C_fm = RlvNAk56 | X__vVT;
 break;
 default:
-b0W1G2 = EM9f1QIZe((char)-1088422739, 891129527, -699758352, b0W1G2, 805600103);
+b0W1G2 = EM9f1QIZe((char)-1088422739, (char)891129527, -699758352, b0W1G2, 805600103);
 break;
 }
 }

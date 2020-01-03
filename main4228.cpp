@@ -45,7 +45,7 @@ int main(void) {
 	long long	bR5Ra	=	-1949120227;
  char Z021wtm = (char)214646374;
  double JPC8keiDQL = -1344482440;
-    unsigned short    u8dR04ine    =    -670755691;
+    unsigned short    u8dR04ine    =    (unsigned short)-670755691;
     double    mOTqV52e    =    400929920;
 	unsigned long long	hhYEw4o	=	-532014751;
 	unsigned int	bdyeEs5wt	=	1993318776;
@@ -81,7 +81,7 @@ int main(void) {
     char    H9GFj    =    0;
  short Sh0H38X = (short)1926702888;
 	unsigned short int	b6o2pS9_5	=	(unsigned short)1295635504;
-	unsigned char	EAg9948_	=	-1997739079;
+	unsigned char	EAg9948_	=	(unsigned char)-1997739079;
 
 switch (e0N21SV)
 {

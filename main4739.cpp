@@ -45,7 +45,7 @@ int main(int argc, char** argv)
  long MuCe2hP = 0;
 	short int	vpXI	=	(short)1942830351;
     short int    BKeZ6xNo__    =    (short)-170874161;
- char nRVu = -538976265;
+ char nRVu = (char)-538976265;
 	float	EpCYf3	=	-1681901979;
     unsigned long long    awZK_fvf9p    =    -2067262820;
 	unsigned short int	I39Mbv	=	(unsigned short)608238733;

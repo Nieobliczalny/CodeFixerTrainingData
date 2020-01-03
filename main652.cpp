@@ -44,7 +44,7 @@ int main(int argc, char** argv)
   unsigned short  k12Lih  =  (unsigned short)-591270805;
 	short	LBf2WO	=	(short)281957818;
  unsigned short int Xs145OXGiw = (unsigned short)-909409645;
- char X31G1ns6 = 404265610;
+ char X31G1ns6 = (char)404265610;
  unsigned int CGUT0e1N4j = -339897243;
 	long	ct5X457E7	=	1084642825;
     int    T4CPKadR    =    -809141271;

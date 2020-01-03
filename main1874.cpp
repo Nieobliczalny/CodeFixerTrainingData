@@ -75,7 +75,7 @@ int main(void)
   double  JU7i8I  =  1702641642;
 	short int	C61Hu4XVm	=	(short)-1007705835;
 	unsigned short int	pLQ1	=	(unsigned short)402016939;
-  unsigned short  lIjVb6mnah  =  128881603;
+  unsigned short  lIjVb6mnah  =  (unsigned short)128881603;
     short    rw6qYWO65    =    (short)1038793942;
 	float	Kr7mXu	=	-393688444;
 	long long	gFM9	=	1599553992;

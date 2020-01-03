@@ -59,7 +59,7 @@ int main(void)
  long long ur8_I8 = 232310841;
  unsigned short int NvmNH8 = 0;
  char zxM54__Bi = (char)805407179;
-  short int  kie7TV2  =  1014460509;
+  short int  kie7TV2  =  (short)1014460509;
  short int QB5JMF = -798036283;
  unsigned long M40m = -1097812430;
 	short	Oa2_J9	=	(short)967835490;
@@ -86,7 +86,7 @@ int main(void)
  char fqRwSfy = (char)-760871428;
     unsigned short int    RTZE6    =    (unsigned short)534956019;
   unsigned char  PZww9  =  (unsigned char)1420659454;
-  unsigned short  FsmS_z3_i  =  -200549092;
+  unsigned short  FsmS_z3_i  =  (unsigned short)-200549092;
   long  fD86_  =  295625640;
   long long  r75OR_l1F  =  928948225;
  short int k817R45 = (short)1275631957;

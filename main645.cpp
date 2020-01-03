@@ -51,7 +51,7 @@ int main() {
   long  o8_f  =  1427657395;
 	unsigned short	p_RUV	=	(unsigned short)1161483407;
     unsigned short    ru0A59z    =    (unsigned short)-449783136;
- short int Cw3s = -1967662135;
+ short int Cw3s = (short)-1967662135;
 	unsigned short	J957s6nE	=	(unsigned short)-1506844760;
  unsigned short Cs0Id = -2024792833;
 	unsigned short	e2tP7a	=	(unsigned short)-1765005416;

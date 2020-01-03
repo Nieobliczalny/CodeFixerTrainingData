@@ -151,7 +151,7 @@ AixRni2 = AiOC((short)-1062749633, (unsigned short)-1127625164, (unsigned short)
 
 z21uz = (GFa6z & -1035051611) ? 2088764330 : rCo2P40;
 
-I0F31H = AiOC((short)1153264911, -920591431, 1264430910, D2SPwk);
+I0F31H = AiOC((short)1153264911, (unsigned short)-920591431, 1264430910, D2SPwk);
 try
 {
 std::cout << lW__Kx(1736089392, I0F31H, AD5QrT0, D2SPwk, -1525036348) << "f__D_" << l0z45CLGzc(-1903693374, I0F31H) << std::endl;
@@ -198,7 +198,7 @@ AixRni2 = AiOC(AixRni2, (unsigned short)-392516714, (unsigned short)1007650092, 
 break;
 case 'e':
 case 'E':
-v4xw0oNds3 = lW__Kx((short)1589348082, 730627531, -45731999, vK_S, GFa6z);
+v4xw0oNds3 = lW__Kx((short)1589348082, (unsigned char)730627531, -45731999, vK_S, GFa6z);
 break;
 case 'f':
 case 'F':

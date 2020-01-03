@@ -22,7 +22,7 @@ int main()
     long long    FxZ9    =    -1457739606;
   unsigned long  u1G702WwA  =  1157456813;
   short  tmuhYHe2  =  (short)1432885217;
-    unsigned char    tYOOm    =    -1261100395;
+    unsigned char    tYOOm    =    (unsigned char)-1261100395;
 	short	w43MZ0AU93	=	1568720465;
   double  ujYoOl  =  620482745;
   float  r63zt7tPx  =  449108625;

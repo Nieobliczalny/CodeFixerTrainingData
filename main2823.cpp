@@ -58,7 +58,7 @@ int main(void) {
 	short	hf2bAv	=	(short)-1575021586;
   unsigned short int  Av9by04nR  =  (unsigned short)-559847119;
 	short	cxlyQ	=	(short)1184139658;
-    short    a32r    =    -237377510;
+    short    a32r    =    (short)-237377510;
 
 ak33jaX5z = a32r / w6Q9_;
 cout << "Z48d8c_3" << YJh24 << endl;

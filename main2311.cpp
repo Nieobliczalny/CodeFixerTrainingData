@@ -19,7 +19,7 @@ int main()
 	Rxd8_	=	(unsigned short)-814799008;
 	eEJlhV_	=	(unsigned short)812779169;
 	YloOfs	=	(unsigned short)67304014;
-	FCS1xK83T5	=	2053771885;
+	FCS1xK83T5	=	(unsigned short)2053771885;
 	t_a5CoPWI	=	159555126;
 	ITMA1	=	-147602130;
 	XDZ363	=	1665167253;
@@ -29,7 +29,7 @@ int main()
 	PRnjoPw6	=	(unsigned short)2112716642;
 	SBxV	=	(unsigned short)2112391214;
 	HuTA4o	=	(unsigned short)-1934999237;
-	gxS9OVQ08G	=	-922746211;
+	gxS9OVQ08G	=	(unsigned short)-922746211;
 
 switch (gxS9OVQ08G)
 {

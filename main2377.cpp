@@ -46,7 +46,7 @@ int main(int argc, char** argv) {
  unsigned short int tQpr51fqQr = (unsigned short)577936088;
  long iSqnfkxkr = -117332;
  short eq0mYdMVO = (short)598414784;
- unsigned char hoxo = 2099025070;
+ unsigned char hoxo = (unsigned char)2099025070;
   short  A4HT  =  -2049025724;
  float Xp1GqL1Npq = -1696177718;
  unsigned short DdNNUMt = (unsigned short)-1059925647;

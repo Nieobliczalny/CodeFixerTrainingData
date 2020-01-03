@@ -197,7 +197,7 @@ case 4:
 UpSX7 = A052(UpSX7, (short)-653889360, (unsigned short)890602710);
 break;
 case 5:
-UpSX7 = A052(UpSX7, gFuZ5kbx_R, -212035321);
+UpSX7 = A052(UpSX7, gFuZ5kbx_R, (unsigned short)-212035321);
 break;
 }
 }

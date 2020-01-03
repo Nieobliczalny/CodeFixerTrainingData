@@ -33,7 +33,7 @@ int main(void) {
     unsigned short    nq9GJ7    =    (unsigned short)-1081589442;
 	short	F1LUmnUUv	=	(short)-1118381644;
   unsigned long long  Tn4O  =  -1168743095;
-  short  K217_Lv  =  -211754991;
+  short  K217_Lv  =  (short)-211754991;
  float ew2j0 = -1803748684;
     char    RJ8_5_    =    (char)382654203;
  unsigned short LS4Kd = -976398488;
@@ -43,7 +43,7 @@ int main(void) {
 	unsigned char	pN_WTKmk	=	(unsigned char)-870651803;
  unsigned short int moQ5 = (unsigned short)-1291023729;
     unsigned long long    OtWUzOEI5a    =    898640880;
-    char    C861_gF49    =    386012819;
+    char    C861_gF49    =    (char)386012819;
  short fp34 = 1725927850;
 	unsigned int	xXMzFnqN	=	-1717913578;
   float  CIlY_D3X9Y  =  243874412;

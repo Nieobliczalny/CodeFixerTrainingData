@@ -26,7 +26,7 @@ int main(void)
     char    yTB07ldnf    =    (char)-1782831215;
 	unsigned long	cfhZ	=	790231903;
  long double OX_bG = 1291439872;
-    unsigned char    grYZ    =    1046602702;
+    unsigned char    grYZ    =    (unsigned char)1046602702;
     unsigned long    ukWM7    =    -394652004;
   char  HME25f0sKN  =  (char)1423037562;
   double  f1aZ  =  454525384;
@@ -67,7 +67,7 @@ int main(void)
  long long Rq5c = -192029674;
 	short int	Z1Z3aSH	=	(short)478474554;
     short    x588H8V5o    =    (short)831327868;
- char JF6pr0bX = -1180429596;
+ char JF6pr0bX = (char)-1180429596;
 	unsigned long	QZtq8Q2m_7	=	-1509835804;
  short ODPPY = 41489046;
     unsigned char    H_v6    =    (unsigned char)-1954231029;

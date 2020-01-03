@@ -46,7 +46,7 @@ int main(int argc, char** argv)
 	unsigned char	a6gPow2c	=	(unsigned char)-1705212821;
  long BIUPDfI1vo = -1329574175;
     unsigned short int    DnIy_    =    (unsigned short)-1597639647;
-  short int  ZT6q2  =  -1885133875;
+  short int  ZT6q2  =  (short)-1885133875;
   unsigned char  F1P1Dx_y  =  0;
     float    n7aM    =    1928240477;
     int    SWo02    =    -604094996;

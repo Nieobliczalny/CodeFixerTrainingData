@@ -445,7 +445,7 @@ else
 {
 cout << "HfRL" << h00Athd(Y_03S, -182464196, -1351161762) << endl;
 }
-cout << qcZR << oGv9jK8(Y_03S, Wij3y, (char)1514368275) << oGv9jK8(Y_03S, Wij3y, (char)1142321688) << h00Athd(-1544052014, -755617011, 1171155472) << endl;
+cout << qcZR << oGv9jK8(Y_03S, Wij3y, (char)1514368275) << oGv9jK8(Y_03S, Wij3y, (char)1142321688) << h00Athd((short)-1544052014, -755617011, 1171155472) << endl;
 
 {
 int i = 1;

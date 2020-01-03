@@ -419,7 +419,7 @@ R5gv3Do1R = xiq4e7Xj(C0_uxc, (char)-662702552, (unsigned short)354613534) + s3PL
 break;
 case 'f':
 case 'F':
-q08_00_ = xiq4e7Xj(1895584357, (char)454440232, -1363761206);
+q08_00_ = xiq4e7Xj(1895584357, (char)454440232, (unsigned short)-1363761206);
 break;
 case 'g':
 case 'G':

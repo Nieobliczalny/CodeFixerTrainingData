@@ -187,7 +187,7 @@ for (int i = 3; i >= 0; i--)
 {
 std::cout << n_5f8((unsigned short)-772992656, (unsigned char)-1535281720, e_Hn4Bp, CetE, 345036478) << "bnH42" << std::endl;
 }
-JVALIqRxqA = J7qXeQU(Acg9K3, nrT8r5G1C, -1776834542, -1217191436, -379518088);
+JVALIqRxqA = J7qXeQU(Acg9K3, nrT8r5G1C, -1776834542, -1217191436, (short)-379518088);
 
 for (int i = 9; i >= 0; --i)
 {
@@ -324,7 +324,7 @@ break;
 }
 else
 {
-std::cout << n_5f8(KZm6, pu6jnf8kC, (unsigned short)413157862, (short)-459571988, -587647989) << n_5f8(-176210810, pu6jnf8kC, -314781553, 701305011, Yk6RPb4M1_) << Yk6RPb4M1_ << Rqgy0_D << std::endl;
+std::cout << n_5f8(KZm6, pu6jnf8kC, (unsigned short)413157862, (short)-459571988, -587647989) << n_5f8((unsigned short)-176210810, pu6jnf8kC, -314781553, 701305011, Yk6RPb4M1_) << Yk6RPb4M1_ << Rqgy0_D << std::endl;
 }
 i--;
 }

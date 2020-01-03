@@ -98,7 +98,7 @@ int main() {
     unsigned long    iTe6    =    -666682683;
   unsigned long long  j3zj70GN5  =  -693568773;
 	unsigned short int	irEzImHYg4	=	(unsigned short)793298279;
-    unsigned char    FZrHi    =    810188827;
+    unsigned char    FZrHi    =    (unsigned char)810188827;
     unsigned int    lP6mxM    =    -817118541;
 	unsigned int	n6c7eWu	=	-953389275;
   int  auxZ  =  -1102374405;

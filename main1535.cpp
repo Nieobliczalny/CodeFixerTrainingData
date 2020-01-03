@@ -20,7 +20,7 @@ int main(void)
  char mG3H = (char)741652004;
     unsigned short int    T5G_cW    =    (unsigned short)-798448908;
     short    FbNf1BjRRL    =    0;
- unsigned char Decf754Q01 = -751819255;
+ unsigned char Decf754Q01 = (unsigned char)-751819255;
     unsigned short int    orgM    =    0;
     unsigned long    rT367qC3    =    -1464486999;
     short    yUKD0H51    =    (short)-262219299;

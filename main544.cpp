@@ -30,7 +30,7 @@ int main(void) {
     float    gI08q303    =    -1163028609;
  unsigned short h3PO4f2 = (unsigned short)-1104869416;
   unsigned char  w14K7JcIj  =  (unsigned char)-201919500;
- short int VbQBrs_6g = 168876121;
+ short int VbQBrs_6g = (short)168876121;
 	int	G_ai	=	1415159666;
 	unsigned short int	hHipK7s1_	=	-771322772;
  long long MeD2PDBwl = -338679020;
@@ -42,7 +42,7 @@ int main(void) {
     double    QiO4    =    1515543387;
   unsigned char  rYgJ  =  (unsigned char)1528083752;
  unsigned short sX0p40OFZV = (unsigned short)343356150;
-  char  WaKNvZP23n  =  1160045489;
+  char  WaKNvZP23n  =  (char)1160045489;
   double  LZP5V  =  -996906435;
   unsigned short  JYTF3  =  (unsigned short)-779092724;
 	unsigned long long	bsVE	=	-333290982;

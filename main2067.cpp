@@ -33,7 +33,7 @@ int main() {
   long long  SFlC02_  =  1945032547;
 	unsigned char	Me2Occu	=	(unsigned char)2098838124;
   double  V422A2Il  =  -1981265367;
-    short int    K94503n    =    -1742389563;
+    short int    K94503n    =    (short)-1742389563;
  long double a9i2b = -28723071;
 	long	hq1YQf	=	0;
   short  hY15  =  0;
@@ -57,7 +57,7 @@ int main() {
   char  GqXYZ  =  (char)-1015124929;
   char  Sx2VVb  =  (char)-1780798990;
     short int    Ovp825    =    (short)-605539721;
-    unsigned short    s7zWF14Pf_    =    2042766426;
+    unsigned short    s7zWF14Pf_    =    (unsigned short)2042766426;
 	double	dI23	=	-1754143844;
     short    k4xYtZoIT0    =    (short)51100425;
  short K7Am = -1200181970;

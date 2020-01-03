@@ -24,7 +24,7 @@ std::cout << cs_0j7g92(-1375189076, NNts, XTK7ZcA3Wf, (unsigned short)-135450922
 
 try
 {
-oT232_emr = SC9kV7_IJ(1999300283, jYgOV, 1174468339);
+oT232_emr = SC9kV7_IJ(1999300283, jYgOV, (unsigned char)1174468339);
 }
 catch (int& errorCode)
 {

@@ -48,7 +48,7 @@ int main(int argc, char** argv)
  short U5o1X = (short)1889447258;
  unsigned int i9o5 = 0;
   unsigned short int  MyCv  =  (unsigned short)1393400137;
-  unsigned short int  SJcajtbB  =  1825418875;
+  unsigned short int  SJcajtbB  =  (unsigned short)1825418875;
     long double    h8QJLVD6    =    1945378234;
  float A2iH_ = -1327242742;
     long long    Ze3PVJrU_    =    1772824739;

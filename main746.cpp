@@ -28,7 +28,7 @@ int main(void)
 	int	fU51SarC	=	-1455065035;
     unsigned short    Yqn3V29    =    (unsigned short)-1026845871;
     char    zT3Fhc    =    (char)776862047;
-    unsigned short    jfJ4r    =    -1513635237;
+    unsigned short    jfJ4r    =    (unsigned short)-1513635237;
   long double  GMoUtd  =  -342163509;
 	unsigned long long	ToQM73	=	1104740839;
 	long	G_404x	=	942028155;
@@ -86,7 +86,7 @@ case 5:
 F4795 = TE69((unsigned char)336778777, (short)1811323844, (unsigned short)1291398537);
 break;
 case 6:
-F4795 = TE69((unsigned char)-279388541, fSY56G6, 1999205461);
+F4795 = TE69((unsigned char)-279388541, fSY56G6, (unsigned short)1999205461);
 break;
 case 7:
 IZpP8fKfA7 = q47_l2n8b(IZpP8fKfA7, GMoUtd);

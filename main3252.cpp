@@ -72,7 +72,7 @@ int main(int argc, char** argv)
  char nsf4T8 = (char)-1414706001;
     unsigned char    Z6U3    =    (unsigned char)1614078454;
   unsigned short int  x328iC  =  (unsigned short)133610579;
-    unsigned char    tRDckAA7D3    =    -1756412207;
+    unsigned char    tRDckAA7D3    =    (unsigned char)-1756412207;
   unsigned short int  Q43dwqdXK  =  172174727;
   unsigned long  Cq05  =  0;
   unsigned int  GB5pF_  =  0;
@@ -108,7 +108,7 @@ int main(int argc, char** argv)
     short    vaW1o69c_    =    (short)-841368178;
     long long    xNgSXNF    =    1009275484;
  short int n133H = (short)1182646369;
-    short int    ttJcxWW6_b    =    -442732510;
+    short int    ttJcxWW6_b    =    (short)-442732510;
     double    sAm94f3    =    -2138433180;
 
 PHK9_1X = -2119744763 / Cq05;

@@ -119,7 +119,7 @@ int main(void) {
     unsigned int    ovdlD1VD    =    821588938;
   short  JH_i  =  (short)-1485991147;
   unsigned short int  i_DW  =  (unsigned short)-2016209915;
-  unsigned char  VbGepOoQQz  =  1418340344;
+  unsigned char  VbGepOoQQz  =  (unsigned char)1418340344;
  unsigned short dfd7rM = 1592061622;
     char    DxVT28    =    (char)608917780;
   unsigned short  re7MK0l  =  276709915;
@@ -207,7 +207,7 @@ IRAxWS = Jq7288(IRAxWS, (unsigned short)-591306553, hQyouCS5N, P_xu_c);
 switch (z29x1q)
 {
 case 0:
-jX_CY0a7o = y4A4R(574939276, O8H8t, i1n2F4, n_UvlW);
+jX_CY0a7o = y4A4R((unsigned short)574939276, O8H8t, i1n2F4, n_UvlW);
 break;
 case 1:
 q2IIzApv = TcI03(q2IIzApv, 1267652675, (unsigned char)541219881, (unsigned char)-1365510825, -759986425);

@@ -135,7 +135,7 @@ else if (HzLir >= -28278592)
 {
 try
 {
-HzLir = a2u17_J((unsigned short)1737625495, (short)99299448, -1399343500);
+HzLir = a2u17_J((unsigned short)1737625495, (short)99299448, (unsigned short)-1399343500);
 }
 catch (int& errorCode)
 {

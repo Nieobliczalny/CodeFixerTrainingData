@@ -276,7 +276,7 @@ case 7:
 x3Gn = a_44(-1279750526, Ush6, RyZw_5, (short)378093299, 1964007584);
 break;
 case 8:
-BZgS = NOx8QadC((short)-59855232, fxK49mgtk, 16982248, cKTfwH);
+BZgS = NOx8QadC((short)-59855232, fxK49mgtk, (unsigned short)16982248, cKTfwH);
 break;
 case 9:
 nw9Qi3Uc = m16_DAJf ^ cKTfwH;

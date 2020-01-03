@@ -112,7 +112,7 @@ int main() {
 	unsigned long long	ia9ZF2i6d	=	-12598374;
     short int    Lv1V6g6920    =    (short)1953402343;
 	short	w14qLQ_8	=	(short)-1223452716;
-    short    nRtNY_If    =    -1464280520;
+    short    nRtNY_If    =    (short)-1464280520;
     float    ch36    =    -241347284;
 	float	KfvV6	=	590539068;
  long long CRse = 1318580099;

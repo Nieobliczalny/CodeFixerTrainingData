@@ -53,7 +53,7 @@ int main(int argc, char** argv)
  double H248wH2mt = -1975380309;
  unsigned short int WdxK8U_91 = (unsigned short)1186675835;
  unsigned short PvB__ = (unsigned short)1196257377;
-	unsigned char	mU7ur	=	942534539;
+	unsigned char	mU7ur	=	(unsigned char)942534539;
 	unsigned short int	B55em0	=	398867549;
 	char	npBh873	=	-855688420;
  unsigned long FivW = -868645718;

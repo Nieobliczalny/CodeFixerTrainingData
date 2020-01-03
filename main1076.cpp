@@ -42,7 +42,7 @@ int main()
   unsigned short  Ip0a  =  (unsigned short)-904565049;
  short nj1FD = (short)48738614;
   unsigned short  e28fM8oqF  =  (unsigned short)1584972907;
-  unsigned short int  Cw_21t5j  =  1773528152;
+  unsigned short int  Cw_21t5j  =  (unsigned short)1773528152;
  unsigned short b27R = (unsigned short)-664268342;
   unsigned short int  e4cJ1  =  -281905835;
     short int    UQ759DQ_2p    =    (short)-1787076387;
@@ -62,7 +62,7 @@ int main()
 	char	o7F3F_	=	(char)737350599;
 	unsigned char	dj5Z5n6	=	(unsigned char)-1128596658;
   unsigned short int  prB_dHl9Qv  =  (unsigned short)191655708;
- unsigned short d2wtom = 1402231435;
+ unsigned short d2wtom = (unsigned short)1402231435;
   unsigned short  C3Rw4jC5By  =  -1736701485;
   short int  H92h8Fw  =  -781143956;
     long double    KJ7CKBQ26    =    -2007027167;

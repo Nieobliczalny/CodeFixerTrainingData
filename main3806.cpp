@@ -256,7 +256,7 @@ case 3:
 WN50Y8bph = Hx6XSB((short)933159588, h_5dqv, (short)-728647472, 292979533);
 break;
 case 4:
-fdsqOi7_4 = S0pnr(-274715089, (char)-621318562, eGq35, (short)722114991, 490208591);
+fdsqOi7_4 = S0pnr(-274715089, (char)-621318562, eGq35, (short)722114991, (short)490208591);
 break;
 case 5:
 tiuwtl = CK2_ % 431808188;
@@ -432,7 +432,7 @@ cout << S0pnr(R3b4N28TzN, (char)-1004720644, eGq35, (short)1108734532, CK2_) << 
 }
 else if (fdsqOi7_4 < -1745920263)
 {
-cout << "vn_5cbA7P4" << Hx6XSB(R3b4N28TzN, h_5dqv, eGq35, C_39rCz_) << Hx6XSB(R3b4N28TzN, 607680647, -633028249, C_39rCz_) << "Yz05U_75" << endl;
+cout << "vn_5cbA7P4" << Hx6XSB(R3b4N28TzN, h_5dqv, eGq35, C_39rCz_) << Hx6XSB(R3b4N28TzN, 607680647, (short)-633028249, C_39rCz_) << "Yz05U_75" << endl;
 }
 else if ((WN50Y8bph > -400385302) || (pR6Z1b <= SKzq))
 {

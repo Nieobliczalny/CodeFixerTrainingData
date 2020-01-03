@@ -37,7 +37,7 @@ int main() {
  char uxWxe7k_w = 0;
   unsigned short  oKk56g_1  =  (unsigned short)1997772684;
  float vq1P = -1243308855;
- char Gy6Epq2 = -185246271;
+ char Gy6Epq2 = (char)-185246271;
 
 vDy70IfK = (int)abs(oy1o);
 

@@ -468,7 +468,7 @@ case 'd':
 Rp6B923nK += 1964280080;
 break;
 case 'e':
-j6L_5272 = Nr8ZCdX((short)2094325807, 1214587125, -711320974);
+j6L_5272 = Nr8ZCdX((short)2094325807, (short)1214587125, -711320974);
 break;
 case 'f':
 sV7a6wRn = Nr8ZCdX((short)-480048541, E4kn9U7fNz, -865316141);

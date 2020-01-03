@@ -538,7 +538,7 @@ ftxx8W8 = DEoVKT8((short)-1990822201, (unsigned short)2107571729, xzi92pXBv) / 4
 }
 else if (xzi92pXBv)
 {
-vB41e5YYBo = DEoVKT8(zI93kmbs, Cpq6F, 765533452);
+vB41e5YYBo = DEoVKT8(zI93kmbs, Cpq6F, (unsigned short)765533452);
 }
 else if (D6_x6J67P >= -1332425663)
 {
@@ -638,7 +638,7 @@ case 2:
 ZCHyVIz0N++;
 break;
 case 3:
-vB41e5YYBo = DEoVKT8((short)2143304138, 132888283, -490993356);
+vB41e5YYBo = DEoVKT8((short)2143304138, (unsigned short)132888283, -490993356);
 break;
 case 4:
 jg5L_54l %= fPk7g;

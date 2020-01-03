@@ -20,7 +20,7 @@ int main(void)
     qdm36Z6jxb    =    (short)1777426335;
     BA__g6U    =    (short)1393955172;
     T2Pi8    =    (short)1232226560;
-    dqca1wAG    =    -465780940;
+    dqca1wAG    =    (short)-465780940;
     eHwT    =    -1196251031;
     K1H_3dM4cL    =    2020981922;
     jh_q7p    =    1970471225;
@@ -30,7 +30,7 @@ int main(void)
     r3SSz    =    (short)-2083423795;
     Z3GRJm    =    (short)1518392436;
     X9puR36lB    =    (short)140828491;
-    X5Mew    =    318343819;
+    X5Mew    =    (short)318343819;
     dspRsxtr    =    -1392177959;
     Yi3H_gslm_    =    -1660413691;
     e13ehG    =    765946301;

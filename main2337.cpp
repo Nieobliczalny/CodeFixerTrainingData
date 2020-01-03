@@ -25,7 +25,7 @@ int main(int argc, char** argv)
 	xU227rPNv	=	(short)-1813112136;
 	I141H3rO	=	(short)-716227252;
 	Txp6Kox3Z	=	(short)929747949;
-	vijxWo	=	2049411071;
+	vijxWo	=	(short)2049411071;
 	jDrik69F_	=	1068554325;
 	Wbvt	=	981814912;
 	M9SJa6_	=	-1134044298;
@@ -35,7 +35,7 @@ int main(int argc, char** argv)
 	twod	=	(short)-1667772672;
 	NYg46IZX	=	(short)1383188570;
 	zcXHOS_x	=	(short)1624877356;
-	U5OsAg	=	-2017262283;
+	U5OsAg	=	(short)-2017262283;
 	L_499y	=	-1320042107;
 	tmm47QvO	=	636581344;
 	Oaa5l	=	-1503310141;
@@ -45,7 +45,7 @@ int main(int argc, char** argv)
 	EmLr	=	(short)1529484370;
 	xp85VHL	=	(short)408452179;
 	T0O_M5	=	(short)1739730308;
-	XczLl3	=	-1734383771;
+	XczLl3	=	(short)-1734383771;
 	KnH5S8cju	=	-233605192;
 	nJW1_7n	=	-1355853681;
 	ZAut3XG	=	1682322141;
@@ -55,7 +55,7 @@ int main(int argc, char** argv)
 	n_tWQ_j	=	(short)-297370876;
 	if2yHj	=	(short)-2070103147;
 	M2r1My	=	(short)133238275;
-	SBib1D	=	-1682790566;
+	SBib1D	=	(short)-1682790566;
 	jNv_l_uD	=	-2017814162;
 	Q6CFo74	=	49026684;
 	eT1rJrS	=	-247766654;
@@ -65,7 +65,7 @@ int main(int argc, char** argv)
 	CQVr	=	(short)952605553;
 	ByXc9	=	(short)-260733229;
 	y0hRVO	=	(short)-752794889;
-	YEnW	=	2014911827;
+	YEnW	=	(short)2014911827;
 	spPgH	=	628120488;
 	nQJcI	=	-1166025209;
 	O_8vat	=	-1495479202;
@@ -75,7 +75,7 @@ int main(int argc, char** argv)
 	om8302uW7q	=	(short)786390756;
 	xZ6DXRR2	=	(short)1269996892;
 	x74m	=	(short)1846117886;
-	sBpdL3hHV	=	-992081586;
+	sBpdL3hHV	=	(short)-992081586;
 	w8C71H	=	1677536537;
 	w2Sek	=	2090110490;
 	iW76X1LXh_	=	1463854085;
@@ -85,7 +85,7 @@ int main(int argc, char** argv)
 	cCmxc6_m_S	=	(short)-590104438;
 	Wb66x548	=	(short)-582245811;
 	Vq03Av	=	(short)-1348668843;
-	APSDyxol	=	-1543971989;
+	APSDyxol	=	(short)-1543971989;
 	b_829cAa3U	=	828388074;
 	iMbinXNb5J	=	-1202826584;
 	zBuLvT	=	-1942458665;
@@ -95,7 +95,7 @@ int main(int argc, char** argv)
 	FdaP5Vt5_x	=	(short)-898559891;
 	BkzAW	=	(short)2085725941;
 	Yd7P	=	(short)-1425973666;
-	oXRqHscOE	=	-1695548817;
+	oXRqHscOE	=	(short)-1695548817;
 	X4bKx_0gO8	=	-1633212178;
 	z3ks4	=	446272604;
 	X111	=	-1508913257;

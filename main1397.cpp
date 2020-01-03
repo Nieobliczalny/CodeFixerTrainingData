@@ -22,7 +22,7 @@ int main(void)
 	O88X1l8Pj	=	(unsigned short)-1630929970;
 	J_Txoh_SIC	=	(unsigned short)-1748531538;
 	Eba30	=	(unsigned short)334987645;
-	Iy94	=	1531120538;
+	Iy94	=	(unsigned short)1531120538;
 	cLY_05QFX	=	1567481685;
 	T2p3	=	-289137777;
 	g9hke	=	-957947809;
@@ -32,7 +32,7 @@ int main(void)
 	slbBcuCf	=	(unsigned short)-806799433;
 	gLn28	=	(unsigned short)-1602614065;
 	WZ9c	=	(unsigned short)-1042909736;
-	UDPxSL0l5	=	993773032;
+	UDPxSL0l5	=	(unsigned short)993773032;
   char  j8_6Nt9yZ_,  H16Vctk88;
   j8_6Nt9yZ_  =  0;
   H16Vctk88  =  0;

@@ -27,7 +27,7 @@ int main() {
     bJXz_276NM    =    (unsigned char)173270975;
     pTg7Nx    =    (unsigned char)349482996;
     xBop3OgH1    =    (unsigned char)934208221;
-    bl3u_x    =    -74285312;
+    bl3u_x    =    (unsigned char)-74285312;
     e7a__KDv    =    1803744723;
     n9yH8t7Dc    =    -416795717;
     w3KWQ8lQje    =    -639473501;

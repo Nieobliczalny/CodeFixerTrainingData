@@ -60,7 +60,7 @@ int main() {
   unsigned short  Sqrif8Y0  =  (unsigned short)112711322;
   unsigned long long  x95S  =  1428373198;
   unsigned long  K8EL1S  =  -1459865724;
-	unsigned char	M__774tz	=	-930396972;
+	unsigned char	M__774tz	=	(unsigned char)-930396972;
  unsigned int yU_8o = 0;
  char ku1h2g = (char)-581242045;
 	unsigned long	UJUe	=	1210304517;
@@ -77,7 +77,7 @@ int main() {
 	unsigned int	axWe3_3dJ	=	678146020;
   char  D_GD8jx_  =  0;
 	unsigned int	t8I6oh	=	174047382;
-	unsigned short int	zbQIdO6u7	=	1414015205;
+	unsigned short int	zbQIdO6u7	=	(unsigned short)1414015205;
     short int    L6bL    =    (short)-1745071629;
  unsigned short int Jmr_iZ8f = 0;
   long double  nd14h  =  2126941131;

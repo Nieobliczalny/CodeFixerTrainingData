@@ -78,7 +78,7 @@ int main() {
     short int    M1WykfZ_    =    (short)1136924659;
     float    rObncz    =    1577157761;
  unsigned char wEiX7o = (unsigned char)-1068143405;
- short int p0YRadKj = 1595034859;
+ short int p0YRadKj = (short)1595034859;
 	unsigned long	uf1UBNc3i6	=	314567332;
 	unsigned int	XCeu2zW6	=	400165894;
 	int	oX95779m	=	1792872739;

@@ -52,7 +52,7 @@ int main(int argc, char** argv)
 	long double	mYv3Tg38	=	1747193372;
 	unsigned int	DgSgJ3	=	1901590785;
     unsigned short int    H1oxb    =    (unsigned short)165781975;
-    unsigned short    EwtMY6    =    1823216635;
+    unsigned short    EwtMY6    =    (unsigned short)1823216635;
     unsigned char    BdEN    =    (unsigned char)-1430855908;
     unsigned short int    KHFwpQ00q1    =    459722098;
   unsigned long long  nd3RN26b  =  41260670;

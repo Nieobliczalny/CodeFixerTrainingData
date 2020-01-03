@@ -108,7 +108,7 @@ while (j < 1);
 }
 }
 
-meh2 = Mkxf6 / Q60JZ_E((short)-749970687, hECvol7LoR, -1636215640, 1094928239);
+meh2 = Mkxf6 / Q60JZ_E((short)-749970687, hECvol7LoR, (char)-1636215640, 1094928239);
 
 {
 int i = 0;

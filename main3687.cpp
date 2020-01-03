@@ -43,7 +43,7 @@ int main() {
     unsigned short    GM5X9o1JcQ    =    (unsigned short)-271143766;
  long QUr9t_ = 312639539;
 	unsigned short	z2A4U	=	(unsigned short)-861024900;
-	unsigned short	AaUi0Gw	=	621503710;
+	unsigned short	AaUi0Gw	=	(unsigned short)621503710;
 	int	g2SupIgF	=	-2071169978;
  unsigned long long TLl5Ax = 974089708;
 

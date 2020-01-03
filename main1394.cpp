@@ -46,7 +46,7 @@ int main(int argc, char** argv) {
     char    I0735C    =    (char)2006761442;
     unsigned long long    JBp_oQY_K_    =    -505877812;
  unsigned char yEpsvM6k4 = (unsigned char)-372894630;
- char LJ040MjUU = 330047210;
+ char LJ040MjUU = (char)330047210;
   float  WIBf5R8D  =  -2109752269;
   long double  d3Nz3  =  1722706984;
   char  cjuA  =  (char)679774044;

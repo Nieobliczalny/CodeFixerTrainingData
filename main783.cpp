@@ -97,7 +97,7 @@ case 4:
 nTDQmM = V_AQ(1260864704, Nzh55BE13, (unsigned char)1289523040, (unsigned short)519980394);
 break;
 case 5:
-BuFZb8QD9O = V_AQ(-1608606417, U_d3v, (unsigned char)-535346485, 1317596204);
+BuFZb8QD9O = V_AQ(-1608606417, U_d3v, (unsigned char)-535346485, (unsigned short)1317596204);
 break;
 }
 }

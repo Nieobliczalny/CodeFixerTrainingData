@@ -35,7 +35,7 @@ int main(int argc, char** argv)
     Pw8y16pDeO    =    (short)-1710517364;
     s9n1    =    (short)43838273;
     zAztV61Ke    =    (short)1771040798;
-    kJzjn    =    -173961347;
+    kJzjn    =    (short)-173961347;
     Rt1Rt    =    1035445192;
     y2y__r_JLv    =    -1629989396;
     l22yF4Z9    =    -339461333;
@@ -45,7 +45,7 @@ int main(int argc, char** argv)
     Yg4v970_    =    (short)-695687942;
     U66uQGu40l    =    (short)-1010150594;
     Je37DrWr    =    (short)-178502386;
-    WVVU    =    1289128435;
+    WVVU    =    (short)1289128435;
     lqd04    =    -1242314590;
     Eq05LX    =    679011858;
     M416ZZzHZ    =    -27921980;
@@ -55,7 +55,7 @@ int main(int argc, char** argv)
     x197_48    =    (short)1279594323;
     K8e36i    =    (short)1920262785;
     RgT59    =    (short)-1407356342;
-    uKSFuF4S    =    -703205670;
+    uKSFuF4S    =    (short)-703205670;
     H5Lv    =    -258403986;
     Xotk    =    -644530263;
     Hp21    =    -518332698;
@@ -65,7 +65,7 @@ int main(int argc, char** argv)
     y3u_lt5P    =    (short)-1020900076;
     M7X61M2I    =    (short)-1977902683;
     D6aVy4fK    =    (short)1255154007;
-    JmIU2    =    -836781816;
+    JmIU2    =    (short)-836781816;
     rZZ53IP8Ua    =    -674275932;
     XuwrMG0v4    =    -685500335;
     x9966SP6_S    =    -281371729;
@@ -75,7 +75,7 @@ int main(int argc, char** argv)
     Y9Nso9g1    =    (short)-520996004;
     jAodI3vba    =    (short)-1863144079;
     qBFm    =    (short)111305996;
-    scHt    =    497990382;
+    scHt    =    (short)497990382;
     CF2uh1_70    =    730985330;
 
 XuwrMG0v4 = 387427164 / oVadbS(dBg0, EmIx_nK2, Pw8y16pDeO, -901540655, zAztV61Ke);
@@ -165,7 +165,7 @@ P7mgJr = oVadbS((char)1220081120, -1831823904, 850040419, (unsigned short)-15318
 }
 else if (x9966SP6_S != -1967739392)
 {
-N_BFn_1l9 = oVadbS((char)346791467, -619274064, H5Lv, (unsigned short)-26732469, 2087292450);
+N_BFn_1l9 = oVadbS((char)346791467, -619274064, H5Lv, (unsigned short)-26732469, (unsigned char)2087292450);
 }
 else if (s9n1 < 1308336777)
 {

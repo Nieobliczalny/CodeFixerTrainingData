@@ -118,7 +118,7 @@ int main()
     float    pe02qFUexZ    =    840681542;
     unsigned short    pRR22    =    (unsigned short)-980922666;
 	double	g7_2W9r19	=	293782400;
- unsigned short int l7HG3W = -1585806552;
+ unsigned short int l7HG3W = (unsigned short)-1585806552;
   int  q0BP67WAY  =  505727950;
     int    Kvi126er01    =    1523355163;
  short int w1gGU9t = (short)795935354;

@@ -37,7 +37,7 @@ int main() {
  unsigned short int z01g_ = (unsigned short)1978742992;
   unsigned long  dkRQnOAp  =  0;
  unsigned short dF8OS2jB = (unsigned short)436222015;
-  char  Di0vaP5  =  -1347283244;
+  char  Di0vaP5  =  (char)-1347283244;
  unsigned short int Tt3bwY = (unsigned short)1594094705;
     unsigned long long    KRB_    =    -1301004646;
     unsigned long    jQnRl4DGIc    =    -262555028;

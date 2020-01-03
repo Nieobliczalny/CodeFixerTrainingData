@@ -48,7 +48,7 @@ int main() {
     int    PzB0d9_s7    =    -1880748037;
  unsigned char Cr4_xTD_E5 = (unsigned char)-2018606008;
 	unsigned short	wHm1B	=	(unsigned short)1140757171;
-  unsigned char  aGCAjh2  =  872745697;
+  unsigned char  aGCAjh2  =  (unsigned char)872745697;
     long    Vgck    =    378525813;
     char    Eh1_    =    (char)151209236;
     float    NfGu    =    -1031857771;

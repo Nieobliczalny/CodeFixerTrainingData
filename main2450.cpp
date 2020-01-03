@@ -189,7 +189,7 @@ Bit_UetM = vb17HT((unsigned char)2035640458, (unsigned short)1461238463, -143801
 break;
 case 'e':
 case 'E':
-QVd9 = jF6v(aSYda20S, (unsigned char)-229845095, -203229741);
+QVd9 = jF6v(aSYda20S, (unsigned char)-229845095, (unsigned short)-203229741);
 break;
 case 'f':
 case 'F':
@@ -254,7 +254,7 @@ E2z20Y = Z3s0E49Kw4(E2z20Y, ta12s7sF, (unsigned short)-1928838711, 1837914927, -
 break;
 case 'f':
 case 'F':
-HXrp3f491 = vb17HT((unsigned char)1399648017, (unsigned short)1128587948, -954603994, F_UrNDj_v, 1641691539);
+HXrp3f491 = vb17HT((unsigned char)1399648017, (unsigned short)1128587948, -954603994, F_UrNDj_v, (unsigned short)1641691539);
 break;
 case 'g':
 case 'G':

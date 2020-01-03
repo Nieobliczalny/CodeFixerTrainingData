@@ -21,7 +21,7 @@ int main(int argc, char** argv)
     U7HE1    =    (unsigned char)1973181987;
     sf_2Q3G    =    (unsigned char)-715274736;
     qu7kD7VC    =    (unsigned char)1562001130;
-    idht    =    -1927877600;
+    idht    =    (unsigned char)-1927877600;
     u340W2C    =    516109178;
     TvIkGM    =    691104482;
     da3WYT    =    1625241142;

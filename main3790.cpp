@@ -49,7 +49,7 @@ int main(int argc, char** argv) {
  unsigned short int EBnB4 = (unsigned short)-201273212;
     unsigned short    JmD7_h7ZlE    =    (unsigned short)1333703963;
   short int  NB1o  =  (short)2024817676;
- char FKxH4h = 1333329945;
+ char FKxH4h = (char)1333329945;
 	float	gT26g6e	=	1962673927;
  float Wz_9 = 1477793168;
  float OC4SX9 = 190065618;

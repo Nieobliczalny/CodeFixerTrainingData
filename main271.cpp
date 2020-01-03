@@ -777,7 +777,7 @@ B58Z3 = e5MWD9u1l((char)865248581, (unsigned short)-351522213, (unsigned short)2
 }
 else if (Yk1_EGUA > BHEMXrZ0I)
 {
-aX4ZLRb3Dp = e5MWD9u1l(162886283, S4Skts, P_e8s1e_, uYsTEMK4iK, LTHC1lJ);
+aX4ZLRb3Dp = e5MWD9u1l((char)162886283, S4Skts, P_e8s1e_, uYsTEMK4iK, LTHC1lJ);
 }
 else
 {

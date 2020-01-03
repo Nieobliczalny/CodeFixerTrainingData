@@ -81,7 +81,7 @@ int main(int argc, char** argv)
  unsigned short CK36pv_55 = (unsigned short)-1876657526;
 	char	rgWB08	=	(char)395244126;
  float d86C2099 = -129508970;
-	short int	oSMK	=	2128857422;
+	short int	oSMK	=	(short)2128857422;
  double DIa4pXbN1p = -1996878490;
 	unsigned int	k8tBot9g	=	1536778430;
   short int  keyoA83QD  =  (short)-2097797690;

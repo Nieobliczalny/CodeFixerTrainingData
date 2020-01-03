@@ -37,7 +37,7 @@ int main(int argc, char** argv) {
 	long long	j8ifh	=	1639683762;
 	short int	dCRjd5x4m7	=	(short)669919659;
     unsigned char    A4K_TI2A9    =    0;
- char HenH = -1461574338;
+ char HenH = (char)-1461574338;
   unsigned int  Tc_9  =  -777519608;
 	long	B2WXUdZA7s	=	-1016718663;
  long RnzTGj17a = -826213068;

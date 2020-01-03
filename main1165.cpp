@@ -75,7 +75,7 @@ int main() {
  unsigned short kkTE_OPHF = (unsigned short)442041430;
   unsigned long long  M_z1a7mt2  =  1045403017;
 	short int	ojcG6vW	=	(short)-791585435;
-    short int    E2C4br    =    160571893;
+    short int    E2C4br    =    (short)160571893;
 	unsigned short	q_cQ	=	(unsigned short)532548104;
     long long    uf8E    =    1365001332;
   unsigned short  gy5G2Y03  =  (unsigned short)290159007;

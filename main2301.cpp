@@ -64,7 +64,7 @@ int main(void)
 	char	l_4lOSb	=	(char)-1457752977;
     char    Xffio7    =    (char)-983103121;
   unsigned short  vF73  =  0;
-  short  P5Maz2cZ  =  -322115733;
+  short  P5Maz2cZ  =  (short)-322115733;
     float    x2Yrma4NI    =    -874897490;
  char UdSsp4m = (char)-838502847;
     unsigned short    hkd_    =    (unsigned short)347084716;
@@ -78,7 +78,7 @@ int main(void)
  short qDR6dw41N = (short)66090104;
  short int w7gL6 = (short)781345370;
  unsigned short int wzx2 = (unsigned short)1283980961;
-  short int  dlhT349  =  952450857;
+  short int  dlhT349  =  (short)952450857;
 	unsigned char	XQR5	=	2060291030;
 
 switch (IF48L2q2P8)

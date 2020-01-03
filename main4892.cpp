@@ -54,7 +54,7 @@ int main(void) {
  unsigned short hY9w677d = (unsigned short)-721231463;
     unsigned int    GT9A3_53_r    =    2127757485;
   unsigned short int  YmN59QRY_4  =  (unsigned short)-667013662;
-  short  Sa6B30C2u  =  316514820;
+  short  Sa6B30C2u  =  (short)316514820;
     unsigned char    RDR0mNjEL    =    (unsigned char)-269243249;
  unsigned short sZXa = (unsigned short)-905091035;
     unsigned long long    Q04Dq3vP    =    2076833316;

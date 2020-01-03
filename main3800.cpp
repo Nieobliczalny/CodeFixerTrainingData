@@ -29,7 +29,7 @@ int main(int argc, char** argv)
   unsigned short int  uq3veixD4  =  (unsigned short)254942741;
  short int g7fo53GNYk = (short)-368268531;
   short  o_PNxB  =  (short)-1298270149;
-  unsigned short  tOtd_E3LeA  =  -2055581545;
+  unsigned short  tOtd_E3LeA  =  (unsigned short)-2055581545;
  unsigned short En72Ya = 1194248771;
   float  zfgBgK  =  -2089954479;
     unsigned short    FqHEt    =    (unsigned short)-222543282;
@@ -68,7 +68,7 @@ int main(int argc, char** argv)
   unsigned int  zVtKd8_9  =  890046234;
  unsigned long long TpTPnD = 0;
   long  SHsXe1QU  =  -1318246456;
- unsigned short int fCjl_2d = -129054585;
+ unsigned short int fCjl_2d = (unsigned short)-129054585;
  unsigned long long gpew3 = 858369676;
  unsigned short TI54c4 = (unsigned short)-1669922207;
     short int    bEp0    =    (short)1121751891;

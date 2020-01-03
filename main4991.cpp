@@ -84,7 +84,7 @@ int main() {
  unsigned short KP4Lnid_EA = (unsigned short)-445896617;
   unsigned int  dnPm  =  -1039731997;
  unsigned short wTpJ9Ci = (unsigned short)1536808799;
- unsigned char RQ2o_938 = 2016812411;
+ unsigned char RQ2o_938 = (unsigned char)2016812411;
 	short int	SgV_7u	=	(short)-1318348481;
     unsigned long long    OF4I    =    -207593766;
  float QvFu7 = -1843250036;

@@ -42,7 +42,7 @@ int main() {
     float    Fk3XW    =    -1230632770;
 	unsigned int	lanyMye	=	0;
 	unsigned short int	Va8Y9X8	=	(unsigned short)-1526457269;
-	unsigned short	z760sxs	=	-304427780;
+	unsigned short	z760sxs	=	(unsigned short)-304427780;
   long double  skFYyz  =  -322263400;
   unsigned long  z40qPN_FLi  =  -264427378;
 	short	XUq4ZjI0_y	=	(short)-422958479;
@@ -177,7 +177,7 @@ for (int i = 7; i >= 0; i--)
 nx_K = (unsigned long)(Yp9WJyTHIT * (BGKNmx5PM));
 }
 
-PMTV = kK26j(-1785366721, -1288396428, 851753295, zoXK, V0qJkngS);
+PMTV = kK26j((char)-1785366721, -1288396428, 851753295, zoXK, V0qJkngS);
 d4AWYOZ5wA = (int)ceil(c_Dm);
 {
 int i = 0;

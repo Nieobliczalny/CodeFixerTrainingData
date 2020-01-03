@@ -44,7 +44,7 @@ int main(int argc, char** argv)
 	cB939E18YJ	=	(unsigned char)-109584611;
 	s4X6wN0	=	(unsigned char)-349889571;
 	q0R5	=	(unsigned char)-1482126127;
-	LK214xQg1	=	-206372629;
+	LK214xQg1	=	(unsigned char)-206372629;
 	RbMgt51SB	=	-752364672;
 	G100	=	-921132569;
 	IB9v95bK	=	-1876620176;
@@ -54,7 +54,7 @@ int main(int argc, char** argv)
 	fuJQqxn8H	=	(unsigned char)1561404280;
 	O3qDx7f5	=	(unsigned char)561331141;
 	cfPd45Lv8K	=	(unsigned char)1491273912;
-	Xr0X6i7k	=	268566538;
+	Xr0X6i7k	=	(unsigned char)268566538;
 
 if (G100 != Xr0X6i7k)
 {
@@ -118,7 +118,7 @@ case 'c':
 oIbm2W = TxCc((unsigned short)-1578614639, (short)665516735, (unsigned short)-893217944, (short)367707194);
 break;
 case 'd':
-O3qDx7f5 = TxCc(sDvpQy27, -2124557829, G100, -1812564795);
+O3qDx7f5 = TxCc(sDvpQy27, (short)-2124557829, G100, -1812564795);
 break;
 case 'e':
 cB939E18YJ = G100 << e85Q;

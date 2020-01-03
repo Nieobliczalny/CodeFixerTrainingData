@@ -46,7 +46,7 @@ int main() {
 	unsigned long long	UC9QsU7	=	-1268622609;
   short  PXm5010W  =  (short)1202632788;
  unsigned short pKYK = (unsigned short)-899594742;
- unsigned short oGs9wV = -691151228;
+ unsigned short oGs9wV = (unsigned short)-691151228;
   int  tWaT6GP0  =  1720747731;
  unsigned long long BYxdLIS0 = -1822120906;
   long long  jC82N  =  -396968193;

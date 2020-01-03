@@ -75,7 +75,7 @@ int main()
  unsigned short int e_QR7 = (unsigned short)-1720890496;
  long A4Ds7m_ = 879273072;
     unsigned short    Tj8Bb88Y6v    =    (unsigned short)-447091197;
-  unsigned short int  wjCPp9K  =  -1678787515;
+  unsigned short int  wjCPp9K  =  (unsigned short)-1678787515;
   char  oZNY  =  -417384757;
  short q5Oog3762d = 1188143677;
     long long    yj32F4C26    =    -490725843;

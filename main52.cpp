@@ -21,7 +21,7 @@ int main(int argc, char** argv)
   R81NmOZ5_  =  (short)289131992;
   qYK0ea__2  =  (short)-908173746;
   m7_9_  =  (short)2027679035;
-  v7k2aY  =  -287184431;
+  v7k2aY  =  (short)-287184431;
   RFRvP3N  =  -1851711881;
   Qi3W  =  1242214404;
   XiKEfc  =  1557969422;
@@ -31,7 +31,7 @@ int main(int argc, char** argv)
   nM0jK  =  (short)283967833;
   WikUIyivl  =  (short)-608814049;
   R_hTadXdF  =  (short)1219296005;
-  VuTCgSZd08  =  527526360;
+  VuTCgSZd08  =  (short)527526360;
   p_7O  =  569809053;
   a7N8  =  -494479287;
   oBOQP8  =  -597361741;
@@ -41,7 +41,7 @@ int main(int argc, char** argv)
   IsC0aL  =  (short)1271005526;
   J774n_  =  (short)349804621;
   nv2AcLX  =  (short)283043577;
-  bvl7_  =  -1643010083;
+  bvl7_  =  (short)-1643010083;
   dip6rjZgP5  =  -925116946;
   ii1_R2V01  =  171169492;
   br1y  =  124682326;
@@ -51,7 +51,7 @@ int main(int argc, char** argv)
   pgpZ  =  (short)159462444;
   jM7k_9K0  =  (short)779929120;
   Ke0d5lw3TT  =  (short)-1240009479;
-  HhtQhTtul  =  -1893831960;
+  HhtQhTtul  =  (short)-1893831960;
   d0cez  =  -19724418;
   Sw3FWM1g  =  -1438596895;
   y9oyo  =  -414108617;
@@ -61,7 +61,7 @@ int main(int argc, char** argv)
   eg4_IKhP  =  (short)1656349752;
   Sxw6suZ60W  =  (short)-1725455149;
   F974ay3  =  (short)-1059240841;
-  Y7Qz  =  -2042948401;
+  Y7Qz  =  (short)-2042948401;
   gJ0CV1f9  =  1456056559;
   OXCPD35  =  1032687194;
   F_1X  =  -223150737;
@@ -71,7 +71,7 @@ int main(int argc, char** argv)
   oVm5GLC7cW  =  (short)241801424;
   v42qb8H2cG  =  (short)-2122497944;
   Fd8wPIlwe  =  (short)-2009333339;
-  a7O61YSju5  =  2069021440;
+  a7O61YSju5  =  (short)2069021440;
   rM6Y  =  1612823946;
   H_8qoK  =  -2121019966;
   GN_o9UQ  =  -1796915889;
@@ -81,7 +81,7 @@ int main(int argc, char** argv)
   IFwU452bem  =  (short)1638881189;
   t6L148j  =  (short)872711636;
   ZM9S93  =  (short)-1194092569;
-  YNg7_y2  =  -62432537;
+  YNg7_y2  =  (short)-62432537;
   o9FR3BBkke  =  -547225827;
   Y00_  =  2094784893;
   uclkY  =  -1958352526;

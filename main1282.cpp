@@ -41,7 +41,7 @@ int main(int argc, char** argv)
 	long double	EN84M	=	1000188970;
 	char	dL43pZOcZ	=	(char)1130799225;
 	unsigned short int	oa38n	=	(unsigned short)1339037141;
-	unsigned short int	oUPqCFD	=	-1202518504;
+	unsigned short int	oUPqCFD	=	(unsigned short)-1202518504;
  long long yZe487X3 = -1274002898;
  unsigned short int l0neC85W = -1501534996;
     short int    JWXax6    =    (short)-354569579;

@@ -33,7 +33,7 @@ int main(void) {
   short  FX76V0A  =  (short)1283385728;
   unsigned char  U2t9tyD  =  (unsigned char)366016051;
     unsigned short int    p0dTTkFX    =    (unsigned short)629839474;
-  short int  Xindyb71b  =  1400542593;
+  short int  Xindyb71b  =  (short)1400542593;
   float  SZDD2n3g  =  1590222502;
 	unsigned long	NnlZ	=	-1726939364;
 	unsigned long	VQDFM	=	-2117783987;

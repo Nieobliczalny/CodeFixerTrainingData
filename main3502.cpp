@@ -187,7 +187,7 @@ O1_2lKm = lxOoQBpY((unsigned short)1906650218, Q5dQIv4yWW, (short)-1908425372);
 break;
 }
 }
-M8BJw = (s2zwaZ == g7_21uT2Pg) ? E079v(O1_2lKm, 66557866, lkn1PieF_T) : -161409644;
+M8BJw = (s2zwaZ == g7_21uT2Pg) ? E079v(O1_2lKm, (short)66557866, lkn1PieF_T) : -161409644;
 iRt7 = R_NrEEnmJ9 & 483525012;
 
 lkn1PieF_T = fwp__G_3z / UT79v7i2w;

@@ -194,7 +194,7 @@ int k = 0;
 do
 {
 k++;
-CsPC_G19f = f_Ue((char)-1750655543, Ylz7Ug53, (unsigned short)664604074, (unsigned short)506255136, 797095377);
+CsPC_G19f = f_Ue((char)-1750655543, Ylz7Ug53, (unsigned short)664604074, (unsigned short)506255136, (unsigned char)797095377);
 }
 while (k < 3);
 }

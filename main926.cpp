@@ -174,7 +174,7 @@ kr6zdT4Pn = (int)abs(qA87o_Ccj);
 sW332 = elS_((unsigned short)-1830364779, -136231500, Bf_Jc_6Px0, (short)413677865, (unsigned short)-1093981977);
 qA87o_Ccj = (float)(yn86m);
 RIX9_V = qA87o_Ccj / Y3qm6T3o_L;
-std::cout << elS_(GeTsmic, -1060823732, -993551210, kr6zdT4Pn, 778224569) << PB4gxdN1 << elS_(GeTsmic, -861893182, -737747707, 747162248, R9_K_) << q_DMJEZm << std::endl;
+std::cout << elS_(GeTsmic, -1060823732, -993551210, kr6zdT4Pn, (unsigned short)778224569) << PB4gxdN1 << elS_(GeTsmic, -861893182, -737747707, 747162248, R9_K_) << q_DMJEZm << std::endl;
 
 qA87o_Ccj = (int)ceil(kr6zdT4Pn);
 

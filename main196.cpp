@@ -61,7 +61,7 @@ case 'b':
 Q3Cp = NeutTWdU2((unsigned short)-1696278405, (unsigned short)-1326758926, MhAa9OyF2h, cO6LT3F9Dd);
 break;
 case 'c':
-Q3Cp = NeutTWdU2(gkyD, (unsigned short)1226860813, 1305234208, M76Kbh7a);
+Q3Cp = NeutTWdU2(gkyD, (unsigned short)1226860813, (char)1305234208, M76Kbh7a);
 break;
 case 'd':
 Q3Cp = NeutTWdU2(WTXBzVLxv, cO6LT3F9Dd, 261867200, 218200475);

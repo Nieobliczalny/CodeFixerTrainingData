@@ -390,7 +390,7 @@ if (JCg2U)
 {
 try
 {
-std::cout << gzSR << fG11(O0yB9Wct7_, (short)-990977778, (unsigned char)-1431799617, Yh8BAQw) << Iqefa_(-1393627868, jiOh1M, 1708258654, -98850347) << z3fcv << hJ08_0QWp6 << std::endl;
+std::cout << gzSR << fG11(O0yB9Wct7_, (short)-990977778, (unsigned char)-1431799617, Yh8BAQw) << Iqefa_((unsigned short)-1393627868, jiOh1M, 1708258654, -98850347) << z3fcv << hJ08_0QWp6 << std::endl;
 }
 catch (int& errorCode)
 {

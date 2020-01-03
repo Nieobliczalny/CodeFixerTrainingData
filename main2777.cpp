@@ -31,7 +31,7 @@ int main()
     unsigned short    hohsp1NR6    =    (unsigned short)-773889674;
  unsigned char A59WaTi = (unsigned char)841625079;
     long long    aF2876p    =    95080266;
-    unsigned short int    aW1x5M    =    -2036666506;
+    unsigned short int    aW1x5M    =    (unsigned short)-2036666506;
   unsigned long  Ts5U73eF4  =  0;
     unsigned long    jKelp    =    1927628726;
     unsigned char    OL95    =    (unsigned char)-1358089556;

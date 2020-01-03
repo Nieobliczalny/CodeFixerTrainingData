@@ -43,7 +43,7 @@ int main(void)
 	UwOG74Earp	=	(char)1043688159;
 	etF0i73	=	(char)-1037006080;
 	emM2QV	=	(char)-1691431171;
-	F4oP49s6v	=	-779698224;
+	F4oP49s6v	=	(char)-779698224;
 	V771dL	=	-477167807;
 	i2lYl	=	-133035647;
 	hwlX	=	964154558;

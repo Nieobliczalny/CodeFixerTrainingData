@@ -52,7 +52,7 @@ break;
 oVQoj5ql = (int)abs(fH3li);
 
 tuBe_Rp6P = i2k5RH((short)-1921061047, (char)765876589, (unsigned char)695672262, -269928675, -1427073464);
-std::cout << F19o4nXb01 << i2k5RH((short)432915582, (char)-1910742119, -535441743, 830502052, 62365628) << "g_04lj" << "h5uCJ" << std::endl;
+std::cout << F19o4nXb01 << i2k5RH((short)432915582, (char)-1910742119, (unsigned char)-535441743, 830502052, 62365628) << "g_04lj" << "h5uCJ" << std::endl;
 fH3li = 2120279402 / zjpwBvWK;
 switch (d_zcz3U)
 {
@@ -170,7 +170,7 @@ std::cout << It68vAoTG << fH3li << i2k5RH(fH3li, (char)1165992251, (unsigned cha
 }
 else if (zjpwBvWK < 234689563)
 {
-d_zcz3U = i2k5RH(-215472923, d_zcz3U, 104124495, -1793783940, 1498878614);
+d_zcz3U = i2k5RH((short)-215472923, d_zcz3U, 104124495, -1793783940, 1498878614);
 }
 else if (d_zcz3U & -1842295555)
 {

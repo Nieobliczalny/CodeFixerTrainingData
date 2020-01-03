@@ -82,7 +82,7 @@ int main(void)
     unsigned short    ueJo71Y18    =    (unsigned short)406110867;
 	unsigned short	N0T0uKLG6V	=	(unsigned short)628173994;
     unsigned long long    Ona1_3    =    -2097586433;
-	char	e__yovtf	=	-2127662962;
+	char	e__yovtf	=	(char)-2127662962;
  unsigned short int N_037xbt_ = 2045535999;
     long    oV2QR0Z2y    =    0;
  unsigned long JcEBnu804v = -579626054;
@@ -114,7 +114,7 @@ int main(void)
   int  ERB3rTu  =  -144058046;
  long long MrvS = 0;
 	unsigned char	Lz4spLw_	=	(unsigned char)-578604185;
-	unsigned short	r974M	=	816956990;
+	unsigned short	r974M	=	(unsigned short)816956990;
     long    GtOL1yrpmo    =    -1924105601;
  float J7v2M78H = -1892955928;
 

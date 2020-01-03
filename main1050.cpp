@@ -28,7 +28,7 @@ int main(int argc, char** argv) {
 	float	AOXY_Q	=	110541793;
 	unsigned short	PY0F9F	=	(unsigned short)987808377;
 	char	X1fX6GPr	=	(char)-1707668854;
-    unsigned short int    XSQ640L    =    -1886855327;
+    unsigned short int    XSQ640L    =    (unsigned short)-1886855327;
     int    AJCg8_xdIZ    =    1285758403;
  short vV0z_n_B = -1118457821;
 	long long	ZEjKR	=	-486209236;

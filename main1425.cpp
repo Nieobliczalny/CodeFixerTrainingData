@@ -412,7 +412,7 @@ case 'c':
 gVC8y = vCk4Rn_LF * aONV7617;
 break;
 case 'd':
-D6x9g9 = V_LB(D6x9g9, -999442805, AIYbd89pU, mJ95WPR);
+D6x9g9 = V_LB(D6x9g9, (unsigned short)-999442805, AIYbd89pU, mJ95WPR);
 break;
 }
 }

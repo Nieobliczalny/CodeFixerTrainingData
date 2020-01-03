@@ -27,7 +27,7 @@ int main(int argc, char** argv)
  short Ov1IRQ = (short)1348966861;
 	unsigned long long	Tfg9UXP7l	=	-1180085465;
  short int vRC8__6C9 = (short)762750852;
- unsigned char ul0gIJ_r = 1113789268;
+ unsigned char ul0gIJ_r = (unsigned char)1113789268;
 	int	bTR_	=	-1135491026;
     unsigned int    n_lp    =    1266422145;
  long i3ks0 = 883044200;

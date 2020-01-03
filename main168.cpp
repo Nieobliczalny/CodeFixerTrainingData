@@ -88,7 +88,7 @@ while (j >= 0);
 }
 }
 
-Hl2ykJ = lZLu1Vc5A(Hl2ykJ, (unsigned short)182583155, (unsigned short)-655504187, K01zb22P, -1055642882);
+Hl2ykJ = lZLu1Vc5A(Hl2ykJ, (unsigned short)182583155, (unsigned short)-655504187, K01zb22P, (unsigned char)-1055642882);
 
 std::cout << lZLu1Vc5A(Hl2ykJ, (unsigned short)719752670, yqlfK_, 1939692080, (unsigned char)-1849494515) << std::endl;
 

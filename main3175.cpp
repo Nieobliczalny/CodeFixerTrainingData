@@ -39,7 +39,7 @@ int main() {
     unsigned char    fGWp_U0    =    0;
   unsigned short int  jXc4v  =  (unsigned short)739025190;
 	unsigned long long	u6R8	=	-1299028635;
- short int IHx7e = 2116922743;
+ short int IHx7e = (short)2116922743;
   unsigned long  sWzp0  =  1748699514;
     short int    UV5f0W4    =    0;
 

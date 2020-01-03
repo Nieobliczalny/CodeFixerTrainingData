@@ -41,7 +41,7 @@ int main()
     lYzw    =    (unsigned short)1535147278;
     x33z    =    (unsigned short)-1220355629;
     t5q1wY    =    (unsigned short)-681017179;
-    MJ_Bs4x    =    -345958063;
+    MJ_Bs4x    =    (unsigned short)-345958063;
     OUYl32F1N5    =    -772716089;
     XZ_G7    =    -1437217507;
     QZ9Nte    =    -1608341654;
@@ -51,7 +51,7 @@ int main()
     PX2O68eZ    =    (unsigned short)-1872694916;
     S1zGt2T_Y    =    (unsigned short)-1679380856;
     x2zfP55bOk    =    (unsigned short)1450630029;
-    GL8yt86nr    =    70790601;
+    GL8yt86nr    =    (unsigned short)70790601;
     Zp_TPE    =    380936478;
     FD3DO805U_    =    1430136347;
     JHbTv2he74    =    -403452576;
@@ -61,7 +61,7 @@ int main()
     KoD2    =    (unsigned short)2031265711;
     q07W4r    =    (unsigned short)532735186;
     p4sns_R    =    (unsigned short)-346479698;
-    VtH4WF_Z    =    -725308458;
+    VtH4WF_Z    =    (unsigned short)-725308458;
     B9n32    =    1849799700;
     N_b98O    =    -1711986409;
     w2KJtx    =    -697999505;
@@ -71,7 +71,7 @@ int main()
     cz0Y2    =    (unsigned short)-1969846574;
     bzXSV6nn    =    (unsigned short)-1288755153;
     k2ohoaL9Q    =    (unsigned short)-608572741;
-    j89_E56S    =    -1305056798;
+    j89_E56S    =    (unsigned short)-1305056798;
     h8qX786    =    -1776425029;
     KpvvZ    =    -1853323916;
     QTlh7F_4    =    -818253053;
@@ -81,7 +81,7 @@ int main()
     RBZL    =    (unsigned short)-2002430072;
     QMp26Wa    =    (unsigned short)-1835558642;
     rXDA6w    =    (unsigned short)-307772039;
-    yc0L    =    -338048637;
+    yc0L    =    (unsigned short)-338048637;
     QC_BSf    =    -191143273;
     Dkl5    =    1437228203;
     tZiDF    =    -828996042;
@@ -91,7 +91,7 @@ int main()
     y7BdRAJKhu    =    (unsigned short)-1797759970;
     Zjs6ZA    =    (unsigned short)-228895359;
     D8Yp9q    =    (unsigned short)-507550336;
-    U765Mel    =    -1265389411;
+    U765Mel    =    (unsigned short)-1265389411;
     R_t0    =    155935752;
     RbpK1nDg    =    -630661372;
     UMKX    =    -756214394;

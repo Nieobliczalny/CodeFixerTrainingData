@@ -29,7 +29,7 @@ int main() {
   unsigned char  N461GC  =  (unsigned char)-2058749798;
   short  s0O3ggZG8  =  (short)1856262473;
 	short	jg3c1d_	=	0;
-  short  rCVaX  =  -311038668;
+  short  rCVaX  =  (short)-311038668;
 	short int	AKVS4do63	=	-1214530141;
 	unsigned long	hV30p_n1sX	=	-14952159;
     unsigned char    dROJo78w7Y    =    (unsigned char)1383324347;

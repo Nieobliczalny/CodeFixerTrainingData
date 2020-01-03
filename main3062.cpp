@@ -42,7 +42,7 @@ int main(void) {
     unsigned short int    F8VIx    =    (unsigned short)1594560093;
  float h9oj9zv = -1528364771;
     unsigned char    Ue30fPaUL    =    (unsigned char)585274918;
-    unsigned short    V3LRK5J    =    1965505730;
+    unsigned short    V3LRK5J    =    (unsigned short)1965505730;
  unsigned short int MMA2 = -1775037242;
     short int    UyFh    =    380855792;
  float RgBSQs5T_V = 1718051973;

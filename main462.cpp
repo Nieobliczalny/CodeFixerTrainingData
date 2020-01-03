@@ -187,7 +187,7 @@ case 2:
 NIe83yS = KvU8EC(1623308828, NIe83yS, (short)-977670601, (unsigned char)1029953564);
 break;
 default:
-NIe83yS = Tput(-1284328764, e7MA152, -1622813817, FYR2q_, -1815159578);
+NIe83yS = Tput((char)-1284328764, e7MA152, -1622813817, FYR2q_, -1815159578);
 break;
 }
 }

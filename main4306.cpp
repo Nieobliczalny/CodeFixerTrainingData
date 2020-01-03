@@ -248,7 +248,7 @@ case 4:
 WCu3oaW4 = T49U3R69C((unsigned short)-214095356, (unsigned short)-1218568443, c26iKl_AZF, vso3E3I, (unsigned short)-195618813);
 break;
 case 5:
-x3R44 = T49U3R69C(x3R44, -2124154973, Cac9w7x7b0, 456498116, h9_0U);
+x3R44 = T49U3R69C(x3R44, (unsigned short)-2124154973, Cac9w7x7b0, 456498116, h9_0U);
 break;
 }
 }

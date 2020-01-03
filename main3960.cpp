@@ -31,7 +31,7 @@ int main(void) {
 	long double	G9zA1	=	421802860;
   short int  N__4Q  =  (short)1089381413;
 	short	d6E_996s	=	(short)880843582;
- char G_I3p = 1902468152;
+ char G_I3p = (char)1902468152;
 	int	zF3e2p	=	458737385;
 	unsigned long	s9sIywJ__s	=	-1278060156;
     unsigned char    pgnO3H_2a    =    (unsigned char)2093939946;

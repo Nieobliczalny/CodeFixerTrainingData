@@ -48,7 +48,7 @@ int main(void) {
     unsigned short    kS9AX9    =    0;
     unsigned short int    SSjEEFdI    =    (unsigned short)1059292683;
   unsigned long  me9b  =  314348694;
-  unsigned short int  OCIa2Aij  =  34442365;
+  unsigned short int  OCIa2Aij  =  (unsigned short)34442365;
     int    L45D3y6a3    =    -164615781;
 	unsigned long long	gc05	=	1165560028;
 	unsigned long long	gU0Y_	=	-2040046127;

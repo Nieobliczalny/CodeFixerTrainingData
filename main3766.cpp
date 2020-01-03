@@ -30,7 +30,7 @@ int main(int argc, char** argv)
  char OY2vrrzcKY = (char)1464818446;
 	char	J21Ui	=	(char)1927121100;
     float    A02_pXN7N    =    -942414612;
-	unsigned char	Io_5PM7	=	-1897282444;
+	unsigned char	Io_5PM7	=	(unsigned char)-1897282444;
   long long  y1AnU7a  =  -1884489070;
     unsigned long long    LeG5J_8U    =    208622623;
   float  Eu4g  =  -1364333705;

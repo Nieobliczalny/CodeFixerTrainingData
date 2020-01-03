@@ -26,7 +26,7 @@ int main(void) {
 	float	RP43	=	-1127342740;
 	unsigned char	FhEMYG	=	(unsigned char)-293708659;
     double    k_Rz    =    -2030736148;
-    short    w7gg65    =    410542290;
+    short    w7gg65    =    (short)410542290;
  short L9k9c4XXQ6 = 2019579952;
     int    euho    =    -383592673;
   unsigned long long  N7FQL0a  =  -26391263;
@@ -39,7 +39,7 @@ int main(void) {
 	unsigned int	MV5m	=	578956015;
  long L_38Vkj = 0;
 	unsigned short	e3LP1cm_8	=	(unsigned short)1141359322;
-    short int    hif2x    =    -2108572797;
+    short int    hif2x    =    (short)-2108572797;
  long d8l21g0OKD = -377208938;
 	unsigned int	eD_t00Z	=	-1904467695;
 	long long	jfLV9zrBfJ	=	1418311159;
@@ -53,7 +53,7 @@ int main(void) {
   unsigned long long  ZAAEN4pNoC  =  120721655;
     unsigned short    j_0hzpZAl    =    (unsigned short)403135129;
     long long    HyxdB7cJcu    =    -685444617;
-  unsigned short  uFq1  =  264785621;
+  unsigned short  uFq1  =  (unsigned short)264785621;
   unsigned short  Re6I  =  295029990;
   double  J6iuZD2  =  -807800987;
 	unsigned short	ViW9XKS	=	(unsigned short)-635100976;
@@ -71,7 +71,7 @@ int main(void) {
  long double GfC9_ = 665479908;
 
 t8gVvY = jWRVZOrnZ((unsigned short)-1167936756, (unsigned short)1721421303, (char)-629210836, 1361071111, N7FQL0a);
-std::cout << jWRVZOrnZ((unsigned short)1041855532, -1555717192, d8l21g0OKD, DC4Qyp90, N7FQL0a) << std::endl;
+std::cout << jWRVZOrnZ((unsigned short)1041855532, (unsigned short)-1555717192, d8l21g0OKD, DC4Qyp90, N7FQL0a) << std::endl;
 {
 int i = 0;
 while (i < 8)

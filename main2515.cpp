@@ -17,7 +17,7 @@ int main(void)
     unsigned short int    j7jw7GL80    =    (unsigned short)1808216155;
   unsigned short int  pBV4  =  (unsigned short)-861197115;
 	unsigned char	IhJF9bK9U	=	(unsigned char)-293673074;
-    unsigned short    r5D5Q    =    1699613166;
+    unsigned short    r5D5Q    =    (unsigned short)1699613166;
 	unsigned short	w04TBa9Z2k	=	-818776919;
  unsigned short sR1uobK = 360914285;
 	unsigned long	bJIQoAjs9	=	1535670256;

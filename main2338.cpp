@@ -45,7 +45,7 @@ int main(void)
 	char	vz14	=	0;
 	short int	Yyd_M7_	=	(short)696810186;
   double  Wo8Ask_KU1  =  1417037686;
-	unsigned short	MT69	=	-523355996;
+	unsigned short	MT69	=	(unsigned short)-523355996;
     int    Znjr6    =    -66666772;
  unsigned int bv5GKLRO = 102780293;
   short  G98jl3Yo6  =  (short)233780808;
@@ -66,7 +66,7 @@ int main(void)
 	char	TgF77	=	(char)947979666;
   char  kQN1p  =  (char)1587377103;
   unsigned long  ZyT94  =  -2002522871;
-    short int    lD428    =    -1963066173;
+    short int    lD428    =    (short)-1963066173;
 	double	y_9sZb	=	1013805990;
   char  CXwd  =  (char)-1904324780;
 	double	U8wt	=	-1982068651;

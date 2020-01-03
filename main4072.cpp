@@ -82,7 +82,7 @@ int main(int argc, char** argv) {
     unsigned int    l_YMV90Y6P    =    -811850658;
     short int    dzaj1Ccy    =    (short)716974299;
  unsigned char IEChR2dq = (unsigned char)-333489605;
-    unsigned char    COe08Vd    =    1335133366;
+    unsigned char    COe08Vd    =    (unsigned char)1335133366;
 	unsigned long	icUW_9	=	-86592691;
  double o_MEqP_qqB = -426465283;
 	double	f8HoNF37_5	=	-17942755;

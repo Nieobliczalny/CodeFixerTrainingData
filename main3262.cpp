@@ -369,7 +369,7 @@ i--;
 }
 }
 
-std::cout << B_A51mF6U((char)-1668226419, 590488610, nuWt8UMI, vDZ9sDnM) << rF_ySfx1 << std::endl;
+std::cout << B_A51mF6U((char)-1668226419, (short)590488610, nuWt8UMI, vDZ9sDnM) << rF_ySfx1 << std::endl;
 
 {
 int i = 0;

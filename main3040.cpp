@@ -158,7 +158,7 @@ case 4:
 lQ3t28D3 = x431sJ((unsigned char)1032383330);
 break;
 case 5:
-b35Z = T9Yc6((short)-809117010, (short)-47850265, -1798435955, F04WEoR);
+b35Z = T9Yc6((short)-809117010, (short)-47850265, (unsigned short)-1798435955, F04WEoR);
 break;
 }
 }

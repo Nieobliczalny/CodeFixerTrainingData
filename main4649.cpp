@@ -46,7 +46,7 @@ int main(int argc, char** argv)
   unsigned short int  Ddl8burCZ  =  (unsigned short)1613232309;
     unsigned char    Gd_oJW0    =    (unsigned char)-304811864;
     short    jNsmxU5    =    (short)842996330;
-  unsigned char  HUxefSa  =  -1016675691;
+  unsigned char  HUxefSa  =  (unsigned char)-1016675691;
  unsigned char f12rJ = 532310242;
 	double	Vc03kiogl	=	-981015154;
   short  qN6097T  =  -769832914;

@@ -51,7 +51,7 @@ int main(int argc, char** argv) {
     unsigned char    U4O7_w5wmd    =    (unsigned char)444095367;
 	float	aSGSp2Wk	=	-974183738;
  unsigned char ZVuam = (unsigned char)-964348427;
-    unsigned short int    lO6YW_w6t    =    -264903611;
+    unsigned short int    lO6YW_w6t    =    (unsigned short)-264903611;
  unsigned char EhR1 = (unsigned char)2015955454;
     short int    g_0341u17H    =    (short)-2003981848;
  float mbIHqbTlmu = -165312131;

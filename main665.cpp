@@ -72,7 +72,7 @@ case 0:
 j9N7RK = p4c_X((unsigned char)-1333834310, es2wt, j9N7RK, (short)-2119448267, oFIHQ3IF0C);
 break;
 case 1:
-es2wt = z4MuCOL((char)787787176, es2wt, 330878497, HVY80qP3D);
+es2wt = z4MuCOL((char)787787176, es2wt, (short)330878497, HVY80qP3D);
 break;
 default:
 oFIHQ3IF0C = z4MuCOL((char)-1245412557, nL4g09gGI6, T4SN, HVY80qP3D);
@@ -366,7 +366,7 @@ case 0:
 j9N7RK = p4c_X(j9N7RK, -261931171, pyD58ZK4, pElh1J6hIz, 1510600814);
 break;
 case 1:
-NyCafF = z4MuCOL(-653044728, -1300967962, -1888988476, T4SN);
+NyCafF = z4MuCOL((char)-653044728, -1300967962, -1888988476, T4SN);
 break;
 case 2:
 V0iQ = z4MuCOL((char)-1376112166, -1690060339, oFIHQ3IF0C, nL4g09gGI6);

@@ -37,7 +37,7 @@ int main(void) {
     short    WY_83a    =    (short)-1670318096;
  unsigned short Ia68_vJ13 = (unsigned short)-19973199;
   int  c5wq7shf  =  1570970498;
-  unsigned char  OfmdUi46B  =  -1771076495;
+  unsigned char  OfmdUi46B  =  (unsigned char)-1771076495;
  short int Fl20QlcJ1 = -241237838;
   double  Y01ux  =  1946830668;
     unsigned long    LlWWB    =    1014024702;
@@ -52,7 +52,7 @@ int main(void) {
   float  JEsv4B_V  =  100775727;
     short int    syluG_2t0    =    (short)-1016870482;
  short int RQJPuVPoq = (short)1046021518;
- unsigned short G51v = -317086671;
+ unsigned short G51v = (unsigned short)-317086671;
 
 G51v += G51v;
 Y01ux = (int)ceil(eT2raDV5l);

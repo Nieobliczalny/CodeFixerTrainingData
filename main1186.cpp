@@ -139,7 +139,7 @@ case 'd':
 k_zX = Tg9otO6j(-1570815336, (short)1750644294, mtjO1Ahy9, -578553874, (unsigned short)761191346);
 break;
 case 'e':
-Ax1iMh1_Q = ln_Jf3(1999084867, Ax1iMh1_Q, KJ_ijp8, -995538625, 1579722313);
+Ax1iMh1_Q = ln_Jf3((char)1999084867, Ax1iMh1_Q, KJ_ijp8, -995538625, 1579722313);
 break;
 case 'f':
 LypC = Tg9otO6j(-112551283, k_zX, -1019946417, 1643007141, Ax1iMh1_Q);

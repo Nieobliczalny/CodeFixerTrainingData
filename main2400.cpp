@@ -31,7 +31,7 @@ int main(int argc, char** argv)
   short  KX1K7hOF  =  (short)-274026744;
     unsigned short    f11apS3rM    =    (unsigned short)-273297756;
     unsigned long    PrlW4    =    -2144725830;
-	unsigned short int	pL7yq8	=	-1610758958;
+	unsigned short int	pL7yq8	=	(unsigned short)-1610758958;
 	int	o_I2D8W7	=	1420357948;
  char P5i9_r = (char)1591896054;
 	long	CYZ2gy39Mt	=	-897814328;

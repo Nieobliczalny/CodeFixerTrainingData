@@ -76,7 +76,7 @@ int main(int argc, char** argv) {
   unsigned long long  R8v_xq11  =  1414960576;
 	short int	tCFmwUh	=	(short)1477699643;
  char L1zlnz = (char)-1685920882;
- short yesNLo = -2094877312;
+ short yesNLo = (short)-2094877312;
  long Bg8UVNfgSq = -1260820262;
     long    renvbUt1    =    0;
   char  C808McK87  =  (char)-416242807;

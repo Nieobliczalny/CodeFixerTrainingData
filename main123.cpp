@@ -141,7 +141,7 @@ int main()
 
 if (sHw0)
 {
-std::cout << qE_Vn((unsigned char)373593483, (short)511415275, (char)-473539887, 1845356834) << cSL4S << std::endl;
+std::cout << qE_Vn((unsigned char)373593483, (short)511415275, (char)-473539887, (short)1845356834) << cSL4S << std::endl;
 }
 else if (paL5 & YJR5HMhP)
 {

@@ -31,7 +31,7 @@ int main() {
     unsigned int    Q5BHEk    =    -1619727285;
 	short int	JU21_wlqQ	=	(short)-924012777;
   short int  DQ3m  =  (short)-1033620202;
-	unsigned short int	T8T8cyCZ	=	-2100488936;
+	unsigned short int	T8T8cyCZ	=	(unsigned short)-2100488936;
 	short int	JG35s	=	-1383777144;
   long long  EfZ44  =  2007598279;
  int ch_FfCoGxg = -1857320756;
@@ -320,7 +320,7 @@ XrX1LvtNe = (long double)(dZSY8);
 }
 else
 {
-cout << PBv8ff5((short)-531505118, (char)-2035353057) << "a12Y5NNOa" << T55R((short)-165626160, tsj_, (char)-1565001379) << PBv8ff5((short)-1137167913, 810427828) << endl;
+cout << PBv8ff5((short)-531505118, (char)-2035353057) << "a12Y5NNOa" << T55R((short)-165626160, tsj_, (char)-1565001379) << PBv8ff5((short)-1137167913, (char)810427828) << endl;
 }
 
 XqRd = (float)(s_Bw);

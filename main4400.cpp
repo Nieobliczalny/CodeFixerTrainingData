@@ -38,7 +38,7 @@ int main(void) {
   char  SU_tBowr0  =  (char)-1918116831;
   long  jkSXVcz  =  0;
  short V0S9h03J = (short)-792329530;
-  unsigned char  Js_57oOF  =  -770215743;
+  unsigned char  Js_57oOF  =  (unsigned char)-770215743;
     long long    rRdw_7g3AQ    =    510447696;
   float  dusk_FuK6s  =  424384278;
 	unsigned long long	c0rH_	=	-210295381;

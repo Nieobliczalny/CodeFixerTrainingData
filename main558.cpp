@@ -36,7 +36,7 @@ int main(void)
   unsigned int  ta6g354J2J  =  151584133;
   int  j_iUQ_  =  1459264759;
   unsigned short int  CX1X_u  =  (unsigned short)-1396040010;
-    short int    tWfTr9    =    -193235906;
+    short int    tWfTr9    =    (short)-193235906;
  float CXoDHo7R = -1157680460;
  unsigned short int krYL = (unsigned short)214179334;
  char j7TB3d8F_4 = (char)-166239067;
@@ -633,7 +633,7 @@ case 0:
 sCw4_ = B_DkQ_55R7(tWfTr9, (short)-2118673142, (unsigned short)-761612550, -37734899, h8qmi0);
 break;
 case 1:
-Nzqms8ok = B_DkQ_55R7((short)1845382295, (short)438122917, (unsigned short)-1309636131, 1000684303, -1534345953);
+Nzqms8ok = B_DkQ_55R7((short)1845382295, (short)438122917, (unsigned short)-1309636131, 1000684303, (short)-1534345953);
 break;
 }
 }

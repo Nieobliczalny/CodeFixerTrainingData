@@ -79,7 +79,7 @@ int main(void) {
   double  ld9VN  =  -1271876236;
   short int  uRfwnp0J  =  (short)1881312493;
   short  ezE93_K9  =  (short)-1485369034;
-    short    Fp_3Lb    =    -380890306;
+    short    Fp_3Lb    =    (short)-380890306;
 	char	Cku73	=	-1063693148;
     short    uWxk9C2O3k    =    -1779986184;
 	long	bmlXN8Us0W	=	-1187397049;

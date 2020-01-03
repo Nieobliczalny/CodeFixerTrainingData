@@ -231,7 +231,7 @@ n42I6J_sy = iWWF_d_d_ / YWW_ZO((short)105145289, -1024431725, (unsigned short)18
 
 std::cout << ISEBB_v19 << std::endl;
 
-std::cout << YWW_ZO(R2F7, ZbJmeh79Zd, (unsigned short)-1102803666, 1436550770) << std::endl;
+std::cout << YWW_ZO(R2F7, ZbJmeh79Zd, (unsigned short)-1102803666, (unsigned short)1436550770) << std::endl;
 if ((JqTg6d < pW50FggrZ0) && (TplL28Z > 1304841733))
 {
 if (S94e6 == 188968064)

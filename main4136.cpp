@@ -55,7 +55,7 @@ int main(void) {
  unsigned long long LH0_p = -620802925;
 	int	j0Ce7	=	232650214;
 	short	rfqE82D_43	=	(short)1594864645;
-    unsigned short int    PjWIVxXG4    =    1284578168;
+    unsigned short int    PjWIVxXG4    =    (unsigned short)1284578168;
   double  aeVZXPKTL3  =  1199110424;
   char  u_dY4  =  (char)984363834;
 	unsigned int	rQC7_8w	=	1572444886;

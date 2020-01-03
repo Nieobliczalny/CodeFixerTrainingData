@@ -87,7 +87,7 @@ case 4:
 WNKI = Nrdc(-316714500, (unsigned short)-1849875486, (short)2042022285, LYWZU, (unsigned char)420701414);
 break;
 case 5:
-e85QJdR = Nrdc(1039073887, (unsigned short)-1368172060, 744511423, fGBg, d9eGH9WNW);
+e85QJdR = Nrdc(1039073887, (unsigned short)-1368172060, (short)744511423, fGBg, d9eGH9WNW);
 break;
 }
 

@@ -296,7 +296,7 @@ case 6:
 qb9VrTXos4 = awTXE6DHf - 617446712;
 break;
 case 7:
-MQV4F4y5 = R0N5EHbo(W3m9KvGbw, v64_jd3B, (unsigned short)-1841197270, (short)907165934, -303578891);
+MQV4F4y5 = R0N5EHbo(W3m9KvGbw, v64_jd3B, (unsigned short)-1841197270, (short)907165934, (short)-303578891);
 break;
 case 8:
 PxcVQmRrO = Krg5ILBE / T_Nu9LLWE;
@@ -339,7 +339,7 @@ case 0:
 B690M_9x = R0N5EHbo((unsigned char)-195784948, (short)88941964, (unsigned short)1941949775, (short)1517698840, (short)-1394792700);
 break;
 case 1:
-qS7F4c = R0N5EHbo(-1813046605, Xzy3DL0ui0, qS7F4c, 336666002, P2Zjk_2B);
+qS7F4c = R0N5EHbo((unsigned char)-1813046605, Xzy3DL0ui0, qS7F4c, 336666002, P2Zjk_2B);
 break;
 case 2:
 s7pmk8Ai1O = (int)abs(LGJ_XVm49);

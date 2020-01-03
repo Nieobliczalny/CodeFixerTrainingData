@@ -38,7 +38,7 @@ int main(void) {
   e9_E  =  (short)598311097;
   Em_3p  =  (short)-1970819522;
   b0f5  =  (short)1578338452;
-  I5GhL3_Qb  =  -834878264;
+  I5GhL3_Qb  =  (short)-834878264;
   aK2O8  =  84685188;
   onmWs4zAZ  =  -959018033;
   z35N7Zmw  =  653079592;
@@ -48,7 +48,7 @@ int main(void) {
   Q3u0q  =  (short)891709918;
   JbLeGT  =  (short)779215095;
   hkj80_2O  =  (short)-358809436;
-  w2V2  =  629516066;
+  w2V2  =  (short)629516066;
   fLn49tiY  =  -1397435827;
   zEkBzAsnIB  =  1824925892;
   Ob6oMa  =  -1501849050;
@@ -58,7 +58,7 @@ int main(void) {
   vEEW  =  (short)-1256797783;
   t47k4dRya  =  (short)-1838482712;
   u074T  =  (short)412550997;
-  Cld3aQ_xRg  =  -1977752443;
+  Cld3aQ_xRg  =  (short)-1977752443;
   r5PN58  =  1832583303;
   svQzv0VOP  =  -1626527630;
   bslLUxL  =  -753296255;
@@ -68,7 +68,7 @@ int main(void) {
   x3Bz0t2SHZ  =  (short)2041971633;
   V3w8dcH5rE  =  (short)1767785818;
   jCSt_  =  (short)1910754328;
-  ONqXR  =  -833410506;
+  ONqXR  =  (short)-833410506;
   b0Eb1Qnw  =  -378445832;
   PC1HDkT  =  -285656825;
   KHUy6h5  =  217355051;
@@ -78,7 +78,7 @@ int main(void) {
   Bzl0  =  (short)1701190432;
   Q3i9  =  (short)-881472699;
   h4Km  =  (short)-1818182458;
-  ghW03j  =  1500001605;
+  ghW03j  =  (short)1500001605;
   gY3NAL1s  =  1566063607;
   ZpJ_x13U  =  1124282760;
   oi643Ee  =  1568236772;
@@ -88,7 +88,7 @@ int main(void) {
   p3zU88  =  (short)1674976289;
   bFcG  =  (short)-721609667;
   X_G46a0e  =  (short)-549322815;
-  uh_4BM6u  =  1287514673;
+  uh_4BM6u  =  (short)1287514673;
   C6VFt_3KVP  =  426500437;
   W0Ov9  =  -1677095772;
   Ev_NZTn9  =  1627386597;
@@ -98,7 +98,7 @@ int main(void) {
   Nlkf  =  (short)-885058300;
   ib4_ZJ  =  (short)-791398446;
   z_9H  =  (short)-1854192118;
-  HkBbRSAzRW  =  406681371;
+  HkBbRSAzRW  =  (short)406681371;
   kxM86bB  =  330102585;
   W3w6H2W  =  1977646118;
   OUG7AY9v  =  -444362370;
@@ -108,7 +108,7 @@ int main(void) {
   XG9EsH2o  =  (short)-1826472267;
   PKNYSq99  =  (short)-1456409980;
   ERU7yCyP  =  (short)1216718885;
-  dqYmPZKR  =  -317118755;
+  dqYmPZKR  =  (short)-317118755;
   MWdYT  =  -1352832408;
   A7Zo  =  1795544750;
   CWIm  =  -1205087453;

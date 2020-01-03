@@ -40,7 +40,7 @@ int main(void) {
   double  H904lU0  =  -1941434433;
     unsigned short int    BkqUR_    =    (unsigned short)1779495526;
   float  UT31vfs0  =  2055134685;
-    unsigned short    Cd3O    =    668232845;
+    unsigned short    Cd3O    =    (unsigned short)668232845;
  unsigned short int KJ_S_4 = 1161449256;
   short  nblJ9D6  =  (short)2090596682;
   double  H_48a0F8f  =  -1357092073;

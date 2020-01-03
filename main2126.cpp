@@ -21,7 +21,7 @@ int main()
  char HFX1B = (char)31102756;
  char E6F74N2 = (char)1189490274;
 	unsigned long long	E4W_r	=	0;
-  short  hQtAJ9yk19  =  -2139134778;
+  short  hQtAJ9yk19  =  (short)-2139134778;
 	long long	od914q	=	-881364795;
     long double    SuQ3B25    =    -1953332428;
     float    bgOTkxu1    =    -38971564;

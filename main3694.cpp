@@ -56,7 +56,7 @@ int main() {
     unsigned int    Kk2_nZ    =    -1309149612;
 	short	Lw3B1MC5w	=	(short)-827647857;
   char  tJWx3  =  (char)-239027791;
-  short  uW5aH5FH  =  -116011692;
+  short  uW5aH5FH  =  (short)-116011692;
 	unsigned int	b51eVZ_d2	=	-932216390;
 	long double	icAOiI6HoI	=	1356341488;
   unsigned short int  hlmT2_aQBi  =  (unsigned short)1468095914;

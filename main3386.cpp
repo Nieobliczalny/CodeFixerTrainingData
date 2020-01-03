@@ -76,7 +76,7 @@ int main(int argc, char** argv)
 	unsigned short int	MbrlGP6	=	(unsigned short)-758550633;
 	unsigned long long	ZGq_D	=	842223570;
   short  h11jLdCL_  =  (short)-1958885239;
- unsigned short NZMOr21 = -1040712779;
+ unsigned short NZMOr21 = (unsigned short)-1040712779;
   float  oJcX_  =  -1943890696;
 	long	ck21h74z2j	=	461205701;
   char  v2yo7l0e_9  =  (char)-2125223407;

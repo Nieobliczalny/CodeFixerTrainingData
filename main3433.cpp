@@ -204,7 +204,7 @@ std::cout << uZLlC((short)4148735, (unsigned short)-60873301, YkKl39, P5Fn) << f
 int i = 0;
 do
 {
-UuDsP = i2M3vqa(-1927168935);
+UuDsP = i2M3vqa((unsigned short)-1927168935);
 i++;
 }
 while (i < 3);

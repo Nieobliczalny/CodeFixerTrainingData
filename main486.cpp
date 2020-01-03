@@ -25,7 +25,7 @@ int main()
     Nfxm__    =    (char)-444975378;
     pv1R1J97K    =    (char)-1155496224;
     X_Qd856G    =    (char)-563110853;
-    MJ4rnHh7EB    =    361145217;
+    MJ4rnHh7EB    =    (char)361145217;
     y9Du    =    1186525835;
     Z15o0    =    -1677190879;
     QqG9DU    =    -1856984161;
@@ -171,7 +171,7 @@ case 5:
 Nfxm__ = otg6Z8aC ^ QqG9DU;
 break;
 case 6:
-iZrPu8OB88 = zm0Ck((char)32031608, 1760588501);
+iZrPu8OB88 = zm0Ck((char)32031608, (short)1760588501);
 break;
 case 7:
 Z15o0++;

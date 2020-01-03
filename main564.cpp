@@ -71,7 +71,7 @@ try
 int j = 0;
 while (j < 4)
 {
-std::cout << "qIwCz5l9" << DW1oX((unsigned short)824839452, DsV80, (char)1864386978, O4YZn6, (unsigned char)-1692519051) << DW1oX(-1886446198, -239286664, 743654401, 969757377, GDzfRwg3X) << "QZ4574a" << "wBy_Xv05tR" << std::endl;
+std::cout << "qIwCz5l9" << DW1oX((unsigned short)824839452, DsV80, (char)1864386978, O4YZn6, (unsigned char)-1692519051) << DW1oX((unsigned short)-1886446198, -239286664, 743654401, 969757377, GDzfRwg3X) << "QZ4574a" << "wBy_Xv05tR" << std::endl;
 j++;
 }
 }
@@ -204,7 +204,7 @@ case 6:
 DsV80 = DW1oX((unsigned short)-1174236770, LSn5h, Dy9ZDGVD0s, (unsigned char)-1459515837, (unsigned char)-1123668593);
 break;
 case 7:
-JE8KlKiwE0 = DW1oX((unsigned short)571564448, Zw6XC3ka8_, 1949304634, 787322830, 2068853542);
+JE8KlKiwE0 = DW1oX((unsigned short)571564448, Zw6XC3ka8_, (char)1949304634, 787322830, 2068853542);
 break;
 default:
 y1t41 = cPo_LNchN ^ 2102321853;
@@ -414,7 +414,7 @@ std::cout << "Zw7Z_WA7nx" << DW1oX((unsigned short)1978931433, -2018022532, (cha
 R1t0h--;
 
 std::cout << WuK_cpE_iR << I_Hq << "G6f5H" << DsV80 << std::endl;
-Zw6XC3ka8_ = DW1oX(-1346119962, DcfW54, -1879821294, -128707371, Dy9ZDGVD0s);
+Zw6XC3ka8_ = DW1oX((unsigned short)-1346119962, DcfW54, -1879821294, -128707371, Dy9ZDGVD0s);
 {
 int i = 4;
 while (i >= 0)
@@ -503,7 +503,7 @@ OEJubr1 = DW1oX((unsigned short)377438344, 1008648636, rzX6u95f9, (unsigned char
 }
 for (int i = 0; i < 5; i++)
 {
-std::cout << ZU8r0((unsigned short)873830287, h5lUl0AeY) << wC4__1 << DW1oX((unsigned short)-743475710, h5lUl0AeY, rzX6u95f9, clfWG8z, 542010172) << std::endl;
+std::cout << ZU8r0((unsigned short)873830287, h5lUl0AeY) << wC4__1 << DW1oX((unsigned short)-743475710, h5lUl0AeY, rzX6u95f9, clfWG8z, (unsigned char)542010172) << std::endl;
 }
 clfWG8z -= 1826617258;
 

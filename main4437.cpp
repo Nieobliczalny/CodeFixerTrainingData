@@ -55,7 +55,7 @@ int main(void) {
     double    oh_C    =    201624904;
   unsigned short int  oZV_DH5Y8  =  (unsigned short)1653249463;
   unsigned short int  tnp7wq4  =  (unsigned short)-1397948586;
- char CHmXrO03Y = -556361054;
+ char CHmXrO03Y = (char)-556361054;
 	short	fL140_w	=	(short)-177016298;
 	unsigned short int	N4zI_AcCdo	=	(unsigned short)-2085629532;
     unsigned int    ZF7qH9    =    905132922;

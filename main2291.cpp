@@ -182,7 +182,7 @@ case 1:
 qBvOH7w = aq909GYq((unsigned char)220664068, 889839020);
 break;
 case 2:
-Zr02_4Z = qFtBQqOXMX((char)-129929152, (short)471552488, 1994392545, H7jcKBupr, bnw589Dlv);
+Zr02_4Z = qFtBQqOXMX((char)-129929152, (short)471552488, (unsigned short)1994392545, H7jcKBupr, bnw589Dlv);
 break;
 default:
 DiK_O -= AHoidT0;
@@ -549,7 +549,7 @@ sWw483z6 = qFtBQqOXMX((char)-1407995932, (short)-1294081890, (unsigned short)-46
 }
 else if (PShb2Lh16 != 426194778)
 {
-Zr02_4Z = qFtBQqOXMX((char)-1408181193, (short)1686214961, Bp7_, CCwLVe_1, 370411836);
+Zr02_4Z = qFtBQqOXMX((char)-1408181193, (short)1686214961, Bp7_, CCwLVe_1, (unsigned short)370411836);
 }
 else if (YdQz >= -1341504946)
 {

@@ -46,7 +46,7 @@ int main(int argc, char** argv)
 	unsigned char	Gj2G	=	(unsigned char)-902478757;
   short int  rsltp5  =  (short)1768214338;
     unsigned char    KX1aW0SuDo    =    (unsigned char)754870440;
-  unsigned short int  rR135k7Y  =  -1180950228;
+  unsigned short int  rR135k7Y  =  (unsigned short)-1180950228;
   unsigned long long  J3_NQ2  =  -929458766;
     double    qyau3Qe0    =    727420673;
  long KA8i0_k = 2076406225;

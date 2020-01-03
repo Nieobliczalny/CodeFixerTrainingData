@@ -165,7 +165,7 @@ while (k >= 0);
 }
 else if (T6xC_UsR3J == -1505729911)
 {
-HqnT2E0yNp = aNBB3U0s3((unsigned short)613786450, (unsigned short)-983547102, 1360665666, -1421629781);
+HqnT2E0yNp = aNBB3U0s3((unsigned short)613786450, (unsigned short)-983547102, (short)1360665666, -1421629781);
 }
 else if (w4AZEA5_6X >= xmaeYc2l)
 {
@@ -211,7 +211,7 @@ case 'g':
 Jwpy = ispio2 - 17829499;
 break;
 default:
-m4dfyfwh1 = aNBB3U0s3(g3SQTQj, FfQitUSzOZ, -1162678840, 1236106938);
+m4dfyfwh1 = aNBB3U0s3(g3SQTQj, FfQitUSzOZ, (short)-1162678840, 1236106938);
 break;
 }
 }

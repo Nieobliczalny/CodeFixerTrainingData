@@ -64,7 +64,7 @@ int main(int argc, char** argv)
     unsigned short    emjjIbb    =    (unsigned short)-812623530;
   long  WsRI3YBEc  =  1239980878;
  short int m_C8qgf = (short)-64919290;
-	short	t_cr1W29I	=	-1921629010;
+	short	t_cr1W29I	=	(short)-1921629010;
  long double d4nFaNP4LA = -1582425803;
     short    uXeUOE_eei    =    (short)1756164272;
 	short int	NWTzX4u	=	(short)-1221343979;
@@ -82,7 +82,7 @@ int main(int argc, char** argv)
     unsigned short int    DaSwDQ35    =    (unsigned short)676102345;
  double JTE68 = -307038742;
  unsigned short int xxwe6tfdcv = (unsigned short)2119122694;
-  short  DGs68AW  =  910709435;
+  short  DGs68AW  =  (short)910709435;
 
 Wlz3T = (int)ceil(ORNuR);
 
@@ -169,7 +169,7 @@ cout << lW104ZUTJ((short)-1046815721, (unsigned char)922480916, Ohl3q504, Q00Wox
 }
 
 Ohl3q504 = lW104ZUTJ((short)-1225944764, D_al, zr7a8F, P672Q);
-cout << dkIB03Tmv(Ohl3q504, D_al) << AAG7b1s(Ohl3q504, D_al, (unsigned short)1244940886, 1383520958, -588853822) << "tJO1p1" << "p3H7" << endl;
+cout << dkIB03Tmv(Ohl3q504, D_al) << AAG7b1s(Ohl3q504, D_al, (unsigned short)1244940886, 1383520958, (unsigned short)-588853822) << "tJO1p1" << "p3H7" << endl;
 
 for (int i = 8; i >= 0; --i)
 {

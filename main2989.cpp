@@ -43,7 +43,7 @@ int main(int argc, char** argv) {
  unsigned short int Q5vojnQIzm = (unsigned short)1834278002;
 	short int	tocDY7BQ5h	=	(short)-1024189271;
     long long    gbG140t34    =    1305687634;
- char CcL_ = -336467012;
+ char CcL_ = (char)-336467012;
  unsigned short int HhhZKl = 1863240350;
     short int    XOo25l    =    -224424236;
   unsigned short int  S5tZ91xz  =  -14014905;
@@ -68,7 +68,7 @@ int main(int argc, char** argv) {
     double    XCFj    =    -414537566;
 	unsigned char	Br9NA83RR	=	(unsigned char)1894620230;
 	unsigned short	iZs8	=	(unsigned short)-364987141;
-  unsigned short int  K311  =  380321126;
+  unsigned short int  K311  =  (unsigned short)380321126;
   long long  zZLtnS3MB  =  -1298658702;
  long double rsGed = -316168378;
   long  N8W6  =  1770224343;
@@ -240,7 +240,7 @@ else if (Y9X3 & 1855837959)
 {
 if (VKi9dQPu)
 {
-cout << wNf0I946((short)1541977464, (char)2077813426, QD9qO, kO0G3, Hm41J) << G__aPN_(I_MI6hm_Y, (unsigned short)-1007844166, QD9qO, kO0G3) << wNf0I946(I_MI6hm_Y, (char)-1221255852, (unsigned short)-398777270, -1965080175, Hm41J) << endl;
+cout << wNf0I946((short)1541977464, (char)2077813426, QD9qO, kO0G3, Hm41J) << G__aPN_(I_MI6hm_Y, (unsigned short)-1007844166, QD9qO, kO0G3) << wNf0I946(I_MI6hm_Y, (char)-1221255852, (unsigned short)-398777270, (unsigned short)-1965080175, Hm41J) << endl;
 }
 }
 else

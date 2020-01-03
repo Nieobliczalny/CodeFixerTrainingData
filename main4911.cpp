@@ -36,7 +36,7 @@ int main(int argc, char** argv)
  short int HhvUFw39 = (short)-554046290;
     long double    dy968I0    =    1931858371;
  unsigned char L2B_duMvZ = (unsigned char)-438640267;
-    char    SxV5e    =    -41309563;
+    char    SxV5e    =    (char)-41309563;
     long    fW0dED_    =    -276050021;
     short    vb64    =    (short)-928032481;
     long long    AQGKhz    =    -1382374652;
@@ -75,7 +75,7 @@ int main(int argc, char** argv)
   char  N0nADcK  =  (char)696598289;
  char Q2X_ = (char)-1044180073;
 	short int	RzRz4W	=	(short)1923729193;
- short int P8czaYzT = 1472299709;
+ short int P8czaYzT = (short)1472299709;
     unsigned short int    vRsRT    =    -31875245;
   long long  nPU80R1  =  602865827;
 	short int	gO3HEIQgTZ	=	(short)-316994697;
@@ -96,7 +96,7 @@ int main(int argc, char** argv)
   long double  DF_1_u_  =  1192926284;
  short VXHeg = (short)1262171101;
  short int fK340t7N_ = (short)-812402094;
-	char	ZcCu_	=	-89623935;
+	char	ZcCu_	=	(char)-89623935;
 
 std::cout << UYWTZDX5_L << "H7_gMd9D7" << std::endl;
 

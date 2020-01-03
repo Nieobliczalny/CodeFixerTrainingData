@@ -45,7 +45,7 @@ int main(int argc, char** argv) {
   char  UHT_fuet  =  (char)1657139881;
 	unsigned long	Y145	=	-955601314;
 	short int	T9zgyh	=	(short)588898138;
-  char  iPAwFz2rlv  =  -1599851017;
+  char  iPAwFz2rlv  =  (char)-1599851017;
  long double YIMDQe = 64543553;
   unsigned short  eGt3FQyNR  =  1183421719;
  char Upcl = 578798971;

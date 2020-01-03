@@ -198,7 +198,7 @@ else
 cout << CbyL(VjG1, (unsigned short)1410802325, (short)337366196) << g6i1iv3o16 << YlS1((unsigned short)-1585215923, 266981245, (short)-111256773) << endl;
 }
 
-If983uv8W4 = CbyL((unsigned char)185145535, -911328646, -1209740486);
+If983uv8W4 = CbyL((unsigned char)185145535, (unsigned short)-911328646, -1209740486);
 
 h5478Ab = BUh5b - KZ61;
 
