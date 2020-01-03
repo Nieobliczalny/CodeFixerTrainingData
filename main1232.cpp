@@ -39,7 +39,7 @@ int main(void)
     unsigned char    hnE77kQj;
     hnE77kQj    =    (unsigned char)1789880508;
  char RIbp_k0G;
- RIbp_k0G = 1869379004;
+ RIbp_k0G = (char)1869379004;
  unsigned char uy73V6G;
  uy73V6G = -222353772;
  short int Bq3l8l30Tp;
@@ -133,7 +133,7 @@ int main(void)
 	unsigned short int	srKah;
 	srKah	=	(unsigned short)-1093718157;
  unsigned short int n0fXr8q5y;
- n0fXr8q5y = -31431756;
+ n0fXr8q5y = (unsigned short)-31431756;
 
 cSnxMFc = Cmytm6_64(cSnxMFc, hnE77kQj);
 

@@ -30,7 +30,7 @@ int main() {
   unsigned int  XDo7hT;
   XDo7hT  =  -1159442966;
 	unsigned short int	yNum1h7_;
-	yNum1h7_	=	1407941065;
+	yNum1h7_	=	(unsigned short)1407941065;
 	float	GHjCAFBg;
 	GHjCAFBg	=	537790636;
 	long double	BG31n4GA;
@@ -201,7 +201,7 @@ case 'd':
 yNum1h7_ = I53l42XA9((short)-621435586, kHyI8_Q7, w1T4Cm, (short)267189006);
 break;
 }
-std::cout << I53l42XA9(-348570804, -1416349290, 139193168, BG31n4GA) << K9aP6s3bp() << l135yF915K << e20lMBaeA << std::endl;
+std::cout << I53l42XA9((short)-348570804, -1416349290, 139193168, BG31n4GA) << K9aP6s3bp() << l135yF915K << e20lMBaeA << std::endl;
 
 r4ZV = 2009389194 / w1T4Cm;
 std::cout << ULXE1U662G() << ULXE1U662G() << "n4C7DUgl_U" << std::endl;

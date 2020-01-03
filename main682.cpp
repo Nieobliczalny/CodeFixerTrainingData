@@ -59,7 +59,7 @@ Brq6 = wY2u((unsigned short)-1701657059, Yxe2KZYFkP, s79x4M49UM);
 }
 }
 }
-std::cout << "wrlb4I" << wY2u(Brq6, -1323347263, s79x4M49UM) << "k3Rg_al5" << wY2u((unsigned short)-1100235124, -50350003, 1657033814) << F_02I << std::endl;
+std::cout << "wrlb4I" << wY2u(Brq6, -1323347263, s79x4M49UM) << "k3Rg_al5" << wY2u((unsigned short)-1100235124, -50350003, (unsigned char)1657033814) << F_02I << std::endl;
 
 RRHqw = (short int)(miMd_Bwzzq + (1447363703));
 if (dD7I_ < 1510443197)
@@ -141,7 +141,7 @@ case 5:
 P9ZXt5d0 = (int)abs(jA_06N5994) + (-36858124);
 break;
 case 6:
-oOF3v = lBOjs(1992057301, Yxe2KZYFkP, 2032552552, s79x4M49UM);
+oOF3v = lBOjs((unsigned short)1992057301, Yxe2KZYFkP, 2032552552, s79x4M49UM);
 break;
 default:
 oOF3v /= Brq6;
@@ -327,7 +327,7 @@ jA_06N5994 = Ng254z4();
 
 if (((Jxgpi1Mi & F_02I) || (Z4X32avw < 1490991797)) && ((V_A5SokvS & a9jrBw) || (NkzfkD < miMd_Bwzzq)))
 {
-std::cout << lBOjs(catO__T, -698339169, (unsigned short)-261906518, QF5VJZ_nl) << wY2u(catO__T, -1867717719, (unsigned char)-129298538) << LSTJ_hi1O6 << wY2u(catO__T, 1652580558, -1872165493) << "YowN85G" << std::endl;
+std::cout << lBOjs(catO__T, -698339169, (unsigned short)-261906518, QF5VJZ_nl) << wY2u(catO__T, -1867717719, (unsigned char)-129298538) << LSTJ_hi1O6 << wY2u(catO__T, 1652580558, (unsigned char)-1872165493) << "YowN85G" << std::endl;
 }
 else if ((jA_06N5994 >= miMd_Bwzzq) && (P9ZXt5d0 == Zssi0bY))
 {

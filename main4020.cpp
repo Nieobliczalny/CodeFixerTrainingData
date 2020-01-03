@@ -23,7 +23,7 @@ int main(int argc, char** argv)
     unsigned short int    LGN9n0;
     LGN9n0    =    (unsigned short)-261801132;
 	unsigned short int	APlL_U;
-	APlL_U	=	903235867;
+	APlL_U	=	(unsigned short)903235867;
  long long wR0i;
  wR0i = 1886285489;
  short SdltB9YpvV;
@@ -37,7 +37,7 @@ int main(int argc, char** argv)
  double fH6B7c;
  fH6B7c = 2062412654;
  unsigned short int rSy4N0_6W5;
- rSy4N0_6W5 = 627482044;
+ rSy4N0_6W5 = (unsigned short)627482044;
  unsigned long P1i3O9lx4;
  P1i3O9lx4 = 0;
     long    LSE5Pw97;

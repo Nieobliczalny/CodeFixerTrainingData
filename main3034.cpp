@@ -53,7 +53,7 @@ int main(void)
   short  SVMdzsZ9j;
   SVMdzsZ9j  =  (short)-1768982688;
     char    KDEYD7B;
-    KDEYD7B    =    1181015875;
+    KDEYD7B    =    (char)1181015875;
   long  BKq28;
   BKq28  =  -1772458332;
 	char	ADyt;

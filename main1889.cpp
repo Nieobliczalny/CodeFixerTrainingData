@@ -159,7 +159,7 @@ case 3:
 I_dU_W = (int)floor(B9cc);
 break;
 case 4:
-gh4_sl1 = d9b_DY(-625055870, c93Mi3, (char)310805530, 961908690);
+gh4_sl1 = d9b_DY(-625055870, c93Mi3, (char)310805530, (char)961908690);
 break;
 case 5:
 rLh1Pmj800 = (int)ceil(FwyW6_LkK9);
@@ -206,7 +206,7 @@ gh4_sl1 = d9b_DY(s7sZA22, QiEpL, F913, (char)1949160233);
 }
 else
 {
-gh4_sl1 = d9b_DY(-304012255, R2E5cx, (char)363257912, -592734123);
+gh4_sl1 = d9b_DY(-304012255, R2E5cx, (char)363257912, (char)-592734123);
 }
 
 if (RJ1JVE0)

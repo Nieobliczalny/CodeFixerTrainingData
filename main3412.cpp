@@ -40,7 +40,7 @@ int main(void) {
 	short	qFcKc;
 	qFcKc	=	(short)-1137619426;
     unsigned short    T_ZPi;
-    T_ZPi    =    1533821391;
+    T_ZPi    =    (unsigned short)1533821391;
  long double a5pHZ;
  a5pHZ = -1391128876;
  short HXUI7h;
@@ -70,7 +70,7 @@ int main(void) {
   unsigned long long  yM6j4;
   yM6j4  =  -555423226;
   char  qaF02n7lc1;
-  qaF02n7lc1  =  600698357;
+  qaF02n7lc1  =  (char)600698357;
   unsigned long long  YTZZ6uK;
   YTZZ6uK  =  -1994091703;
 	long double	XH111kEZ8;
@@ -94,7 +94,7 @@ int main(void) {
     unsigned short    pB9Mm;
     pB9Mm    =    0;
 	unsigned short int	Rx2p_oRJ;
-	Rx2p_oRJ	=	965005456;
+	Rx2p_oRJ	=	(unsigned short)965005456;
     float    TTj31NuKvi;
     TTj31NuKvi    =    -670642011;
 

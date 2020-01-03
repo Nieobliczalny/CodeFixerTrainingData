@@ -48,7 +48,7 @@ int main() {
   short  zt189K;
   zt189K  =  (short)1895958547;
 	unsigned char	wDChf;
-	wDChf	=	-785343435;
+	wDChf	=	(unsigned char)-785343435;
   long long  BpiVw;
   BpiVw  =  -253375520;
  unsigned short XPS0uQ;

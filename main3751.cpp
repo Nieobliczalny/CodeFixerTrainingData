@@ -27,7 +27,7 @@ unsigned long  lVe1C(long long  XDt4xPJ,long long  vDc1WV1,unsigned short int  R
 int main(void) {
 	unsigned short	eeWHS	=	(unsigned short)-1163398295;
  short int gR3L2wFzE5 = (short)939157247;
- unsigned char Tv34O_sxy = -1089763186;
+ unsigned char Tv34O_sxy = (unsigned char)-1089763186;
 	long long	LQtHtu8	=	-296247214;
   short int  S1v2a0A  =  998646598;
     unsigned long long    Uj682v    =    577973127;
@@ -82,7 +82,7 @@ while (i < 5)
 switch (LQtHtu8)
 {
 case 0:
-H2__N2U = KJ6c((unsigned short)-1044435354, -68930872, -2145247296);
+H2__N2U = KJ6c((unsigned short)-1044435354, -68930872, (short)-2145247296);
 break;
 case 1:
 Uj682v = Uj682v << 1564410314;
@@ -94,7 +94,7 @@ case 3:
 AP_77 = lVe1C(-2024845906, -1902302410, (unsigned short)332127429, 525052959);
 break;
 case 4:
-RdLMf_ = lVe1C(RdLMf_, LQtHtu8, (unsigned short)-299953802, 2005530928);
+RdLMf_ = lVe1C(RdLMf_, LQtHtu8, (unsigned short)-299953802, (short)2005530928);
 break;
 case 5:
 XTm0MK6o84 = Ksv_aqlr49();

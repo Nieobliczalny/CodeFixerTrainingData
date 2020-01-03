@@ -64,7 +64,7 @@ int main() {
  unsigned long long wueLZ01;
  wueLZ01 = -1364697498;
     unsigned short int    ZGB5;
-    ZGB5    =    -1680000992;
+    ZGB5    =    (unsigned short)-1680000992;
 	unsigned char	xL4e35O;
 	xL4e35O	=	(unsigned char)-824901565;
     float    q9iHM2;
@@ -88,7 +88,7 @@ int main() {
 	long double	P5X1;
 	P5X1	=	1994148298;
 	unsigned short int	H2IL_;
-	H2IL_	=	-1595710914;
+	H2IL_	=	(unsigned short)-1595710914;
     short int    a1gX4181Cu;
     a1gX4181Cu    =    (short)1573210499;
  unsigned short int eyE_I7;
@@ -114,7 +114,7 @@ int main() {
     char    GhO2h_r;
     GhO2h_r    =    (char)-1723134264;
 	short	cfA_ablD6;
-	cfA_ablD6	=	1017101923;
+	cfA_ablD6	=	(short)1017101923;
   double  JC6P9IQsKb;
   JC6P9IQsKb  =  -1872380804;
   unsigned short int  F2YMdQKe;
@@ -134,7 +134,7 @@ int main() {
     short int    Y2PbCN;
     Y2PbCN    =    (short)-743473693;
  short c9LbK;
- c9LbK = -491826540;
+ c9LbK = (short)-491826540;
     long double    q8BG;
     q8BG    =    -502893089;
     int    zViQ;
@@ -194,7 +194,7 @@ int main() {
   short  JsXN_2J;
   JsXN_2J  =  (short)-2016862482;
 	unsigned char	h2gqE91A7Z;
-	h2gqE91A7Z	=	-7644672;
+	h2gqE91A7Z	=	(unsigned char)-7644672;
     short    Pv0Wwt;
     Pv0Wwt    =    -1216282338;
  float bW_dMN;
@@ -204,7 +204,7 @@ int main() {
     short int    i_CXyEM1U;
     i_CXyEM1U    =    (short)595846127;
   char  BGCQw_32;
-  BGCQw_32  =  822749845;
+  BGCQw_32  =  (char)822749845;
 	float	S7DHnool;
 	S7DHnool	=	-105645258;
     long long    y_s_OL;
@@ -446,7 +446,7 @@ case 0:
 e75p3P5c = (F2YMdQKe < jwAo) ? (char)-1397667892 : (char)1299976124;
 break;
 case 1:
-I6D2G = oHViG(478186494, 1088613050, 1134028318);
+I6D2G = oHViG(478186494, (unsigned char)1088613050, 1134028318);
 break;
 case 2:
 I6D2G = oHViG(-689380593, c9LbK, BGCQw_32);
@@ -522,7 +522,7 @@ case 2:
 EJ6cKf02 = oHViG(1169809491, (unsigned char)1562300474, lP6CHr3DUF);
 break;
 case 3:
-y_s_OL = oHViG(-945702944, -56944200, Xj6Te5);
+y_s_OL = oHViG(-945702944, (unsigned char)-56944200, Xj6Te5);
 break;
 case 4:
 HFm_cunzx <<= L7Sv;

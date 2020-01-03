@@ -83,7 +83,7 @@ case 4:
 v46N4bVc <<= 491424196;
 break;
 default:
-s_T34 = A052(s_T34, q4tW, 623689835);
+s_T34 = A052(s_T34, q4tW, (unsigned short)623689835);
 break;
 }
 }
@@ -191,7 +191,7 @@ case 2:
 x__E216N_ = O8i2t ^ 478232514;
 break;
 case 3:
-gFuZ5kbx_R = A052((char)-49633119, (short)-2065836390, -1635911177);
+gFuZ5kbx_R = A052((char)-49633119, (short)-2065836390, (unsigned short)-1635911177);
 break;
 case 4:
 UpSX7 = A052(UpSX7, -653889360, 890602710);

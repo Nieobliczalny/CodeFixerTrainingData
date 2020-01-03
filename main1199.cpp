@@ -175,7 +175,7 @@ case 'd':
 Io_R7_yk00 = Io_R7_yk00 ^ f2w5;
 break;
 case 'e':
-pLGEVoG = Pd1A(fhs9Au23vo, M0zp, 1610237001, -954380044);
+pLGEVoG = Pd1A(fhs9Au23vo, M0zp, (unsigned short)1610237001, -954380044);
 break;
 case 'f':
 waWo--;
@@ -218,7 +218,7 @@ case 5:
 pLGEVoG = Pd1A(zn_WP9V_0, B4Jl, (unsigned short)608169067, owY_3v386);
 break;
 case 6:
-xm8hW0 = Pd1A(zn_WP9V_0, (unsigned short)611125376, 619337923, owY_3v386) * 725345735;
+xm8hW0 = Pd1A(zn_WP9V_0, (unsigned short)611125376, (unsigned short)619337923, owY_3v386) * 725345735;
 break;
 default:
 pLGEVoG = Pd1A(-1427364330, zN_V, a_vSwir0m, -624188000);
@@ -293,7 +293,7 @@ case 3:
 pLGEVoG = Pd1A(q4H_, n051_O, (unsigned short)-482035042, SwxY_);
 break;
 case 4:
-pLGEVoG = Pd1A(Q8p6, (unsigned short)-1093153159, 1912510926, wZ9tH);
+pLGEVoG = Pd1A(Q8p6, (unsigned short)-1093153159, (unsigned short)1912510926, wZ9tH);
 break;
 case 5:
 BULBD59DDU <<= 2022901934;
@@ -434,7 +434,7 @@ pLGEVoG = Pd1A(-466167800, (unsigned short)-2019036531, Q8p6, -1075456611);
 }
 else
 {
-pLGEVoG = Pd1A(-106009096, (unsigned short)-1335949612, 1727560835, VD6UT);
+pLGEVoG = Pd1A(-106009096, (unsigned short)-1335949612, (unsigned short)1727560835, VD6UT);
 }
 }
 else if (xD5N_IYGv & mihr6EXuX)
@@ -528,7 +528,7 @@ case 0:
 pLGEVoG = Pd1A(q5AQ, (unsigned short)-326815905, (unsigned short)629212700, 550271558);
 break;
 case 1:
-pLGEVoG = Pd1A(893874849, 1458840362, VD6UT, -870947984);
+pLGEVoG = Pd1A(893874849, (unsigned short)1458840362, VD6UT, -870947984);
 break;
 case 2:
 q4H_ &= owY_3v386;
@@ -601,7 +601,7 @@ case 'h':
 y312N >>= afnH1R_k9;
 break;
 case 'i':
-pLGEVoG = Pd1A(m5y4OYE4_, 915326557, -1944646414, 746777058);
+pLGEVoG = Pd1A(m5y4OYE4_, (unsigned short)915326557, -1944646414, 746777058);
 break;
 }
 }
@@ -612,7 +612,7 @@ pLGEVoG = Pd1A(1299308200, (unsigned short)-459027088, (unsigned short)416929684
 }
 for (int i = 3; i >= 0; i--)
 {
-pLGEVoG = Pd1A(NR9g, ry7J5b, -1493772028, xBkc2Xnkx);
+pLGEVoG = Pd1A(NR9g, ry7J5b, (unsigned short)-1493772028, xBkc2Xnkx);
 }
 
 for (int i = 10; i >= 0; i--)

@@ -140,7 +140,7 @@ y3666Ii = xZH4 - CK3N;
 
 try
 {
-std::cout << D6z282(-1622781735, ucFXSPHsj, (unsigned char)-1698766895, (unsigned short)-637032914, 1009963446) << VYU50e << "Ng4Wv3m" << std::endl;
+std::cout << D6z282(-1622781735, ucFXSPHsj, (unsigned char)-1698766895, (unsigned short)-637032914, (char)1009963446) << VYU50e << "Ng4Wv3m" << std::endl;
 }
 catch (int& errorCode)
 {

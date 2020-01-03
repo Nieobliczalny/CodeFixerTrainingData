@@ -31,7 +31,7 @@ int main(void)
 	short	mph3o3v;
 	mph3o3v	=	(short)-1204595844;
  short int v_8xi_8tr0;
- v_8xi_8tr0 = -1314266181;
+ v_8xi_8tr0 = (short)-1314266181;
  short RJC7mN;
  RJC7mN = (short)1136761780;
   float  f59jO2N;
@@ -41,7 +41,7 @@ int main(void)
  unsigned char VrYRHFvS4V;
  VrYRHFvS4V = (unsigned char)-475912061;
   char  Dl583LL7qd;
-  Dl583LL7qd  =  397018918;
+  Dl583LL7qd  =  (char)397018918;
 	unsigned short	x9Sc7S;
 	x9Sc7S	=	(unsigned short)1588142805;
  unsigned short CKBM;
@@ -63,7 +63,7 @@ int main(void)
     long long    APywUR7;
     APywUR7    =    957904138;
 	short	nc5m79;
-	nc5m79	=	1383892039;
+	nc5m79	=	(short)1383892039;
     long long    KGj3V;
     KGj3V    =    -992167103;
  long SrF1oG;
@@ -83,7 +83,7 @@ int main(void)
  unsigned long long BQqd1;
  BQqd1 = -781001315;
 	unsigned short	DM6t6e;
-	DM6t6e	=	-1282376553;
+	DM6t6e	=	(unsigned short)-1282376553;
 	float	xJSS1J2oZ;
 	xJSS1J2oZ	=	-1569806395;
  unsigned long long CPG_Qb9;
@@ -95,7 +95,7 @@ int main(void)
  unsigned char U6_33;
  U6_33 = (unsigned char)828747756;
   char  gHQEAK3ru;
-  gHQEAK3ru  =  1731036878;
+  gHQEAK3ru  =  (char)1731036878;
     unsigned long long    xbFKX4;
     xbFKX4    =    -55214971;
 	unsigned short int	EU810;
@@ -137,7 +137,7 @@ int main(void)
  unsigned long y4w69bGmz;
  y4w69bGmz = -916587236;
  unsigned short cbr1MW6;
- cbr1MW6 = 2061611345;
+ cbr1MW6 = (unsigned short)2061611345;
 
 APywUR7 = (int)abs(V3Hb3);
 mmc0CKLE = (int)abs(nc5m79) * 0;

@@ -29,7 +29,7 @@ int main() {
   int  E_5d  =  -2107627942;
     unsigned int    RUtHct9wI7    =    1655167097;
 	unsigned long long	L14IE	=	-1060944074;
-  short int  aPKMHe_B1K  =  1722873319;
+  short int  aPKMHe_B1K  =  (short)1722873319;
  long long J08SPLC = 1176664605;
   unsigned short int  FDD7_i9h  =  (unsigned short)986653088;
     long    VWE1    =    2117620123;
@@ -43,7 +43,7 @@ int main() {
 	int	w5YN3e	=	1793920448;
  long x848 = 297060730;
  char g7aq = (char)1662210029;
-	short	pje96	=	-1120792113;
+	short	pje96	=	(short)-1120792113;
   unsigned long long  j7DZC  =  -802642580;
     char    e77le_C    =    -242596906;
     unsigned int    EPcdR_4dXt    =    1835959230;
@@ -58,7 +58,7 @@ int main() {
     long    lQxN83O    =    594599232;
     short    yGu5N25K    =    (short)-200563908;
     unsigned long long    GX86IS_    =    -845931740;
-  short  qfb1WL7  =  1166775138;
+  short  qfb1WL7  =  (short)1166775138;
  short int OA34RfW3 = (short)-1888975069;
 	short	m98gR	=	-481105320;
     short    V4tZQq6hsG    =    -1294946543;
@@ -68,7 +68,7 @@ int main() {
  unsigned int plxW0B = -1557007979;
  long UI6aC = -1315930238;
     short    UsrMRt019    =    (short)1819412102;
-	unsigned short int	oLgB4o8	=	-2063273271;
+	unsigned short int	oLgB4o8	=	(unsigned short)-2063273271;
   float  yoq0_1  =  698541631;
  long double P0Q133 = -383278373;
   long  r29_WxU04  =  934178231;
@@ -86,7 +86,7 @@ int main() {
     unsigned int    G3_w    =    396862278;
 	unsigned char	k2hW54stb	=	(unsigned char)1747757868;
   unsigned int  ZumwhOE  =  1929249205;
-  unsigned short  t9tZ6f6mA  =  390259752;
+  unsigned short  t9tZ6f6mA  =  (unsigned short)390259752;
  long DCSbj7t = -980247393;
  unsigned long bqhNvF = 611083475;
 	unsigned short	Va1lF1re2T	=	37889530;
@@ -97,7 +97,7 @@ int main() {
   short  xOi1b6Tj_g  =  (short)630448821;
   long  T3_KwOa_  =  249959349;
 
-if ((1913651437 / ag5m(809185025, 1060006661, V4tZQq6hsG, w5YN3e, -804431014)) != 1593477398)
+if ((1913651437 / ag5m((char)809185025, 1060006661, V4tZQq6hsG, w5YN3e, -804431014)) != 1593477398)
 {
 if ((693655861 / c8kQ5139I) < 808720411)
 {

@@ -61,7 +61,7 @@ int main(void)
   unsigned short int  eMsbq8;
   eMsbq8  =  (unsigned short)-1512174281;
     short    R7PTU67;
-    R7PTU67    =    -613267183;
+    R7PTU67    =    (short)-613267183;
     short int    DJCGK;
     DJCGK    =    1572808472;
 	unsigned char	PgGO_d;

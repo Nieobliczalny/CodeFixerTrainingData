@@ -209,7 +209,7 @@ case 'e':
 D0MmO8g = Tw7986((char)977443217, rJmz7);
 break;
 case 'f':
-D0MmO8g = Tw7986((char)-595489860, 1166538273);
+D0MmO8g = Tw7986((char)-595489860, (unsigned char)1166538273);
 break;
 default:
 YiTU1t32i = TdJrBH0RL(YiTU1t32i);

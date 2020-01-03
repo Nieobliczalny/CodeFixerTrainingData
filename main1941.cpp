@@ -26,7 +26,7 @@ int main(int argc, char** argv) {
  float vC6HwL5h = 1860640685;
     unsigned short int    OO_6g_T    =    (unsigned short)1007794963;
 	long double	A39CT8j_j	=	460681914;
-    unsigned short    P5E512N_g    =    -1661988035;
+    unsigned short    P5E512N_g    =    (unsigned short)-1661988035;
     short int    sV13ZbcC    =    -1191743245;
  unsigned short KXdVbd = -11522120;
     long    O_CY    =    -66145026;
@@ -41,7 +41,7 @@ int main(int argc, char** argv) {
     unsigned short    LuBUj    =    (unsigned short)356138078;
   int  i_6_PIU5Pu  =  1189838420;
 	long	Ar8H_G4FP	=	-112212308;
- unsigned short int C7CubX74x = -1110042261;
+ unsigned short int C7CubX74x = (unsigned short)-1110042261;
  unsigned int i6WHo0vs = 1070595596;
  float rEl6aUfv = 1007762728;
   unsigned int  Vk17864  =  490351027;
@@ -54,7 +54,7 @@ int main(int argc, char** argv) {
  float fuuO9P9 = 278616241;
 	unsigned long long	I26U	=	-302587023;
     short int    vfRmTZ83    =    (short)1745205991;
-    short    UtFI    =    -834849063;
+    short    UtFI    =    (short)-834849063;
 	unsigned int	eMGA	=	-1733329667;
   unsigned int  ijnQz  =  -2128237855;
  char SP43aE_AF9 = 497297447;
@@ -74,7 +74,7 @@ int main(int argc, char** argv) {
 	char	O34e0	=	(char)-1612577970;
     long long    dAE7    =    254262404;
   unsigned long long  MM8Am77323  =  444976424;
-    short int    pH5_I_2i9K    =    -1868442373;
+    short int    pH5_I_2i9K    =    (short)-1868442373;
     double    KK0T54oGg    =    -147169086;
 	short	JGAY	=	79642473;
  unsigned short h97z3l = (unsigned short)897657790;
@@ -399,7 +399,7 @@ case 6:
 A39CT8j_j = (int)floor(gy543A7);
 break;
 case 7:
-V0rwvkf1P = IZ57mnCej(-1532335817, 1129481558, -277755904, i_6_PIU5Pu);
+V0rwvkf1P = IZ57mnCej((unsigned short)-1532335817, 1129481558, -277755904, i_6_PIU5Pu);
 break;
 case 8:
 vUOv73RYp = IZ57mnCej(pH5_I_2i9K, FToD4Tt9, SP43aE_AF9, vUOv73RYp);
@@ -577,7 +577,7 @@ gy543A7 = (int)abs(sV13ZbcC);
 }
 }
 
-C7CubX74x = IZ57mnCej((unsigned short)-819706736, XOF1T5vM, -887674859, -2051419591) - 1078177626;
+C7CubX74x = IZ57mnCej((unsigned short)-819706736, XOF1T5vM, -887674859, (unsigned short)-2051419591) - 1078177626;
 
 gy543A7 = (int)ceil(FM45h289);
 qHcfY = (int)floor(FM45h289);
@@ -633,7 +633,7 @@ Ea612L = R7C3v_Q8t((short)2107651750, gy543A7, (short)-1708288612);
 break;
 case 'f':
 case 'F':
-V0rwvkf1P = IZ57mnCej(1090251658, -1112902342, pS8sFt8Fp, 553387258);
+V0rwvkf1P = IZ57mnCej((unsigned short)1090251658, -1112902342, pS8sFt8Fp, 553387258);
 break;
 case 'g':
 case 'G':

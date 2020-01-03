@@ -41,7 +41,7 @@ int main() {
     short int    hb_0qy;
     hb_0qy    =    (short)673309098;
 	unsigned char	VNeykM;
-	VNeykM	=	-988392569;
+	VNeykM	=	(unsigned char)-988392569;
   long long  eAmvbUd55_;
   eAmvbUd55_  =  844439229;
   long  fVTOPVp861;

@@ -25,7 +25,7 @@ int main(int argc, char** argv) {
 	short	EpD_W6s	=	(short)-1111581880;
 	long	R19_t1D	=	0;
   int  bB03  =  823704831;
-  unsigned char  g_qip40  =  -591665801;
+  unsigned char  g_qip40  =  (unsigned char)-591665801;
     unsigned long    c20TXgb    =    1241795622;
  unsigned char Cb2_45 = -182776876;
   long  OCBd72fKz  =  2138018575;
@@ -267,7 +267,7 @@ case 'H':
 E2ckBTc1 = Ple7cBP(E2ckBTc1, UJe5, 2072105709, R19_t1D);
 break;
 default:
-E2ckBTc1 = Ple7cBP((char)1623746748, Um2HNZ5vP, 1363517357, 530977221);
+E2ckBTc1 = Ple7cBP((char)1623746748, Um2HNZ5vP, 1363517357, (unsigned char)530977221);
 break;
 }
 

@@ -238,7 +238,7 @@ S2oZY5y3 = vL_Q / mJnwnjWl(p3D1i);
 std::cout << "jwWE5KQ" << "tZxik" << x2I0aH(-1382622715, 500762986, -1518296036) << mJnwnjWl((short)277522584) << vL_Q << std::endl;
 zNHHiF = N80_PWVHT / IGPpZ;
 
-std::cout << x2I0aH(p3D1i, Q1957PVoZ1, PbKcmbAT) << eY9My7a_(p3D1i, (unsigned char)264776227, 547741547, 441890847) << "TDPwa4iW" << "AsR9_" << std::endl;
+std::cout << x2I0aH(p3D1i, Q1957PVoZ1, PbKcmbAT) << eY9My7a_(p3D1i, (unsigned char)264776227, 547741547, (short)441890847) << "TDPwa4iW" << "AsR9_" << std::endl;
 switch (tagxt)
 {
 case 'a':
@@ -301,7 +301,7 @@ case 2:
 tm08 = eY9My7a_(tm08, PbKcmbAT, srh_m, N7Z8Tw9);
 break;
 case 3:
-S2oZY5y3 = eY9My7a_(tm08, -1365855376, -1234370514, N7Z8Tw9) + m2XvS;
+S2oZY5y3 = eY9My7a_(tm08, (unsigned char)-1365855376, -1234370514, N7Z8Tw9) + m2XvS;
 break;
 case 4:
 y6zE8 = hF69u(1941154023, X33V_b);
@@ -537,7 +537,7 @@ case 0:
 Q1957PVoZ1 = (OR0n <= -745060704) ? -226530999 : eY9My7a_(LdVG63FPI5, (unsigned char)-815341600, -2018483708, (short)-1139081095);
 break;
 case 1:
-EYMeb4xM = eY9My7a_(EYMeb4xM, 660299052, SkHlfBU73, -1017034004);
+EYMeb4xM = eY9My7a_(EYMeb4xM, (unsigned char)660299052, SkHlfBU73, -1017034004);
 break;
 case 2:
 y6zE8 = a6m4ihmb >> y5VyhaKGs0;
@@ -569,7 +569,7 @@ case 3:
 T_ZAQu_ = eY9My7a_(T_ZAQu_, (unsigned char)-1396058484, 1800656957, I6pX_pC);
 break;
 case 4:
-F77V_E9r = eY9My7a_(F77V_E9r, (unsigned char)560333388, BXD0, -619565241);
+F77V_E9r = eY9My7a_(F77V_E9r, (unsigned char)560333388, BXD0, (short)-619565241);
 break;
 case 5:
 FcBeo6R = eY9My7a_(FcBeo6R, 1733466675, -284474264, YVW9CzR_t);

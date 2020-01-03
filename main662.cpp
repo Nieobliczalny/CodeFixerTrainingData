@@ -30,7 +30,7 @@ int main(void) {
     long    XuRi;
     XuRi    =    -1201439564;
  char Ern16;
- Ern16 = -921557947;
+ Ern16 = (char)-921557947;
  unsigned short qL57XP;
  qL57XP = (unsigned short)-185075435;
  unsigned long long v7o5;
@@ -44,7 +44,7 @@ int main(void) {
  unsigned short int KpyA;
  KpyA = (unsigned short)1802887201;
   short int  ie0xgJf;
-  ie0xgJf  =  -565567544;
+  ie0xgJf  =  (short)-565567544;
 
 Ern16 ^= v7o5;
 
@@ -58,7 +58,7 @@ cout << Y1OPqFn78() << endl;
 }
 else if (VL3u != 328093915)
 {
-cout << gJUWz3nU << KpyA << "MGdvej" << QCJq(-1355097673, (short)1179547718, vfz9q862, VL3u, -149754542) << endl;
+cout << gJUWz3nU << KpyA << "MGdvej" << QCJq(-1355097673, (short)1179547718, vfz9q862, VL3u, (unsigned char)-149754542) << endl;
 }
 else if (DEElLs < -1958875356)
 {
@@ -96,7 +96,7 @@ Ujv_z1iaL = Y1OPqFn78();
 }
 else if (XuRi & 156180065)
 {
-AaP26v2o = QCJq(XuRi, (short)83091488, vfz9q862, (unsigned short)-628810232, 519289631);
+AaP26v2o = QCJq(XuRi, (short)83091488, vfz9q862, (unsigned short)-628810232, (unsigned char)519289631);
 }
 else
 {
@@ -109,7 +109,7 @@ else
 switch (XuRi)
 {
 case 0:
-AaP26v2o = QCJq(Ern16, (short)-1362133654, -506036997, (unsigned short)212177287, -662631687);
+AaP26v2o = QCJq(Ern16, (short)-1362133654, -506036997, (unsigned short)212177287, (unsigned char)-662631687);
 break;
 case 1:
 dEixD1s7 >>= v7o5;

@@ -121,7 +121,7 @@ case 2:
 x_L3 = l7280Wv_Om(x_L3, t4M319f, 865462492, (unsigned char)1042702685, (unsigned short)-1509803521);
 break;
 case 3:
-Ol_pF6w = xJZ0(908370965);
+Ol_pF6w = xJZ0((short)908370965);
 break;
 case 4:
 CxpimzG_1 = iR_dp16W0(9924341, C5dNCrwaS, 1174870332, 558164529, VqUGBU3S);
@@ -178,7 +178,7 @@ while (j < 3);
 }
 
 Mwr8si3Oc8 = HT_RW - 1271011545;
-R_lh9Kn2oM = l7280Wv_Om(R_lh9Kn2oM, (short)-645390917, jgbr, 570654000, Z0w_9xD);
+R_lh9Kn2oM = l7280Wv_Om(R_lh9Kn2oM, (short)-645390917, jgbr, (unsigned char)570654000, Z0w_9xD);
 
 EZ6jaUuN = (double)(lpKGZFwQu);
 if ((672991009 / xJZ0(R_lh9Kn2oM)) == -1733083497)
@@ -268,7 +268,7 @@ else
 {
 try
 {
-CH_0rd0Eb = iR_dp16W0(CH_0rd0Eb, x_L3, Xf8HL2MYxi, -1929049254, 708538493);
+CH_0rd0Eb = iR_dp16W0(CH_0rd0Eb, x_L3, Xf8HL2MYxi, -1929049254, (short)708538493);
 }
 catch (int& errorCode)
 {

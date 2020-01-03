@@ -28,7 +28,7 @@ int main(int argc, char** argv) {
     float    IRN9;
     IRN9    =    2056937281;
  char KK10I2j;
- KK10I2j = -1455677146;
+ KK10I2j = (char)-1455677146;
   unsigned char  KPF_3s8x2N;
   KPF_3s8x2N  =  (unsigned char)-1466222399;
  unsigned char j1tL5;

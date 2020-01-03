@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
  short Z0IU6czN = (short)-895596174;
   float  JntbTr0  =  294301544;
     double    v0t3g8    =    1327461298;
-	unsigned short int	C47L7	=	-81894299;
+	unsigned short int	C47L7	=	(unsigned short)-81894299;
  long double kwM4m = 639681826;
     long double    Ck28jOY4C    =    1157931083;
  unsigned long KzXC = 0;
@@ -43,7 +43,7 @@ else if (JntbTr0)
 {
 if (kwM4m == ftJZX9Flw)
 {
-KzXC = ylcR5TgZx((unsigned char)504689248, (short)-1767358713, C47L7, 142245234);
+KzXC = ylcR5TgZx((unsigned char)504689248, (short)-1767358713, C47L7, (unsigned char)142245234);
 }
 else
 {
@@ -559,7 +559,7 @@ Ck28jOY4C = (int)ceil(JntbTr0);
 }
 
 std::cout << C47L7 << QI38yRuun(KzXC, v0t3g8) << ylcR5TgZx(KzXC, (short)373606105, kwM4m, JntbTr0) << kwM4m << std::endl;
-ftJZX9Flw = ylcR5TgZx((unsigned char)931739165, 1400179759, 1978824613, -392699046);
+ftJZX9Flw = ylcR5TgZx((unsigned char)931739165, (short)1400179759, 1978824613, -392699046);
 
 if (JntbTr0 != C47L7)
 {

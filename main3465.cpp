@@ -46,7 +46,7 @@ case 'f':
 yaXR = F3vL_();
 break;
 case 'g':
-fadyDL = T4xHC(-2105838544, (short)-1383851733, -1030497983, 810735840);
+fadyDL = T4xHC(-2105838544, (short)-1383851733, (char)-1030497983, 810735840);
 break;
 case 'h':
 fadyDL = G_NI1s | 1904683274;
@@ -156,7 +156,7 @@ else if (yaXR < 138508543)
 {
 if (yaXR != 1842281126)
 {
-dv5vHJOj = T4xHC(134832742, (short)-1833198170, (char)2143312590, -351463879);
+dv5vHJOj = T4xHC(134832742, (short)-1833198170, (char)2143312590, (unsigned short)-351463879);
 }
 }
 else if (Z79j == 180908997)

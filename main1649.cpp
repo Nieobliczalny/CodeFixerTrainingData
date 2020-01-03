@@ -55,7 +55,7 @@ pVjm6G0c = roW4xwjjq((unsigned short)400678809, Z5m527D3, zBdB_);
 switch (Bts4Lf)
 {
 case 0:
-tZnM = DN_S1X((unsigned short)-121770790, 1164578560, 1912138333, pVjm6G0c, Bts4Lf);
+tZnM = DN_S1X((unsigned short)-121770790, (unsigned char)1164578560, 1912138333, pVjm6G0c, Bts4Lf);
 break;
 case 1:
 UM1zPh = w1bmF(1461383576, EZ6744, -136663143, 1102699952, P3k5n_WV4q);
@@ -130,7 +130,7 @@ unsigned char    w1bmF(long long    C_N06SJ9,unsigned short    OxbjQk9EBJ,short 
 }
 
 unsigned short int DN_S1X(unsigned short S5H8zv_,unsigned char f41Gxya,unsigned long long zvzA,int uT5boCO3P,int Xtb335cKy) {
- return 623000775;
+ return (unsigned short)623000775;
 }
 
 unsigned long long    FJy3y5W_(long    KLG250Q1,int    tZ0r,long long    L75tpH,long    XT3T)

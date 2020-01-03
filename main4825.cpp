@@ -34,7 +34,7 @@ int main(void) {
     unsigned short    BW7es6w4k7,    lQeRN,    LZOfuk38,    qb9_Uw,    NXa_6I,    EAlv,    Mm83,    r2t_3,    d8E6MBNNO,    orMp,    i0BNk2,    SiwvOl,    ZTB9s,    SGQd_an9,    arEF3zh7Y,    DDwv,    X3xw,    WUszXFh0,    YO_62Ta53,    Y9xlpoyMd2,    l573I,    DLEPL,    FF1Sz_,    LnZD2aa,    Sgkk0350l,    UAc5wn,    jNB2HGmnm,    WupT_Np_1,    R_OXu,    syi_2v96q2,    z__BCtD2,    SeLf5W,    L6H2,    ww2qzB9,    voNGQ_en,    DE1apuy,    a825osP,    hpG8676S,    R5cSV,    qI1K169_a,    Ah1y4ob,    g0bil2,    b_A8j,    ZSGX5,    Chpu4Pd,    hD08V2,    C7GA2k9uG_,    n4Iy5Jx,    ED1i0,    ZHa2PA,    zhfKu7IP4k,    kCh0bP3,    y2OiQ5L,    NSleM,    Bj9_B5607D,    Mxmd_TKjvT,    s8l7mlnZf,    xRbY,    ZP70,    ZR7FKN3m,    Zqv2Ebyl,    uta4q6Bg,    Y_f6X1t,    j9h1,    dWbNlfSq,    ghaOcoD,    q_tZH_VtC,    eNK0,    wl8lN627Ll,    jmym,    l3ys_aW,    icVBZe61,    ieVO58,    mKREo,    x642Xu,    c_7NM0V1,    CTxXE2OJ,    AhC8q_,    D17_at1,    AVNlM,    rK_c0J8y,    olQJUV6,    G_g07rY4q,    H711,    vK9tW65X9Y,    SnZ9h2,    E_e0y5;
     BW7es6w4k7    =    (unsigned short)573448601;
     lQeRN    =    (unsigned short)-1022921778;
-    LZOfuk38    =    173746922;
+    LZOfuk38    =    (unsigned short)173746922;
     qb9_Uw    =    -1796432635;
     NXa_6I    =    1342135125;
     EAlv    =    -1143296117;
@@ -44,7 +44,7 @@ int main(void) {
     orMp    =    -344352490;
     i0BNk2    =    (unsigned short)-1640741580;
     SiwvOl    =    (unsigned short)-1066737745;
-    ZTB9s    =    -1006820818;
+    ZTB9s    =    (unsigned short)-1006820818;
     SGQd_an9    =    69660331;
     arEF3zh7Y    =    -1893869183;
     DDwv    =    -1971660315;
@@ -54,7 +54,7 @@ int main(void) {
     Y9xlpoyMd2    =    1267553936;
     l573I    =    (unsigned short)-1920365393;
     DLEPL    =    (unsigned short)-189974602;
-    FF1Sz_    =    -1723597832;
+    FF1Sz_    =    (unsigned short)-1723597832;
     LnZD2aa    =    1741214238;
     Sgkk0350l    =    1171634490;
     UAc5wn    =    1779983563;
@@ -64,7 +64,7 @@ int main(void) {
     syi_2v96q2    =    -1419512784;
     z__BCtD2    =    (unsigned short)-1846940240;
     SeLf5W    =    (unsigned short)-95820650;
-    L6H2    =    683165684;
+    L6H2    =    (unsigned short)683165684;
     ww2qzB9    =    1793114462;
     voNGQ_en    =    -1247256051;
     DE1apuy    =    1926198619;
@@ -74,7 +74,7 @@ int main(void) {
     qI1K169_a    =    917990682;
     Ah1y4ob    =    (unsigned short)-1877433062;
     g0bil2    =    (unsigned short)721994742;
-    b_A8j    =    2127569917;
+    b_A8j    =    (unsigned short)2127569917;
     ZSGX5    =    689044514;
     Chpu4Pd    =    806814868;
     hD08V2    =    -1901018254;
@@ -84,7 +84,7 @@ int main(void) {
     ZHa2PA    =    -552937085;
     zhfKu7IP4k    =    (unsigned short)-752394453;
     kCh0bP3    =    (unsigned short)-178652451;
-    y2OiQ5L    =    1390182448;
+    y2OiQ5L    =    (unsigned short)1390182448;
     NSleM    =    -1465122870;
     Bj9_B5607D    =    -926762410;
     Mxmd_TKjvT    =    -284353370;
@@ -94,7 +94,7 @@ int main(void) {
     ZR7FKN3m    =    -2087159867;
     Zqv2Ebyl    =    (unsigned short)734301387;
     uta4q6Bg    =    (unsigned short)1209124736;
-    Y_f6X1t    =    331100678;
+    Y_f6X1t    =    (unsigned short)331100678;
     j9h1    =    -1737947990;
     dWbNlfSq    =    1039684815;
     ghaOcoD    =    1214220746;
@@ -104,7 +104,7 @@ int main(void) {
     jmym    =    -563189422;
     l3ys_aW    =    (unsigned short)859607133;
     icVBZe61    =    (unsigned short)-696652474;
-    ieVO58    =    258296146;
+    ieVO58    =    (unsigned short)258296146;
     mKREo    =    1328367793;
     x642Xu    =    1747415411;
     c_7NM0V1    =    -25390466;
@@ -114,7 +114,7 @@ int main(void) {
     AVNlM    =    -274377821;
     rK_c0J8y    =    (unsigned short)612708970;
     olQJUV6    =    (unsigned short)977159525;
-    G_g07rY4q    =    -2024565524;
+    G_g07rY4q    =    (unsigned short)-2024565524;
     H711    =    -1328636022;
     vK9tW65X9Y    =    -2047715558;
     SnZ9h2    =    -884603286;

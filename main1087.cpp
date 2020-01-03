@@ -213,7 +213,7 @@ case 4:
 Qa1p = (int)abs(BTUm);
 break;
 case 5:
-au625r9 = NF7028Yk(1076074890);
+au625r9 = NF7028Yk((unsigned char)1076074890);
 break;
 case 6:
 au625r9 = NF7028Yk(n9gm1N77lN);

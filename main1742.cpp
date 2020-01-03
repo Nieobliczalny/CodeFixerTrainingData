@@ -42,7 +42,7 @@ if (Jwqap66)
 int j = 0;
 while (j < 1)
 {
-CG72To9E = v7DCghP3C((unsigned short)1394052332, Ct0aal4, (char)-1216734691, -1317483551, J3t8R);
+CG72To9E = v7DCghP3C((unsigned short)1394052332, Ct0aal4, (char)-1216734691, (short)-1317483551, J3t8R);
 j++;
 }
 }

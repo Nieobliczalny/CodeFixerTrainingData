@@ -49,7 +49,7 @@ int main()
     unsigned short int    dnfkdq7p;
     dnfkdq7p    =    (unsigned short)-968939805;
 	unsigned short	wXgLDl2E;
-	wXgLDl2E	=	-1853534018;
+	wXgLDl2E	=	(unsigned short)-1853534018;
     int    pbRZ2;
     pbRZ2    =    1502519193;
   short  Z4_i9;
@@ -73,7 +73,7 @@ switch (nz3m9cD9o)
 {
 case 'a':
 case 'A':
-VaZBkck7R = kvPcMU1R(2014858695, (unsigned short)-580251835, VaZBkck7R, (char)-2144026066, -16968272);
+VaZBkck7R = kvPcMU1R(2014858695, (unsigned short)-580251835, VaZBkck7R, (char)-2144026066, (char)-16968272);
 break;
 case 'b':
 case 'B':
@@ -104,7 +104,7 @@ CvCs = (char)(VaZBkck7R + (-1885247396));
 int i = 4;
 do
 {
-Z4_i9 = kvPcMU1R(wXgLDl2E, (unsigned short)-1862937341, jLQau, (char)-383814225, 1368642881);
+Z4_i9 = kvPcMU1R(wXgLDl2E, (unsigned short)-1862937341, jLQau, (char)-383814225, (char)1368642881);
 i--;
 }
 while (i >= 0);
@@ -201,7 +201,7 @@ Mc7Kts6kX = (long long)(tPLL0L + (YO9rC5t));
 }
 else if (((ukZj20t9 & SS_u) && (Mc7Kts6kX)) || ((ukZj20t9 < Mc7Kts6kX) && (Mc7Kts6kX > V1C027Bb0q)))
 {
-std::cout << kvPcMU1R(wXgLDl2E, AIKo3fS, jLQau, (char)-2020218262, (char)-848512030) << kvPcMU1R(wXgLDl2E, AIKo3fS, 358357622, 694347979, -2106071581) << u450z7hpo(wXgLDl2E) << VaZBkck7R << "X0PG3_dEC" << std::endl;
+std::cout << kvPcMU1R(wXgLDl2E, AIKo3fS, jLQau, (char)-2020218262, (char)-848512030) << kvPcMU1R(wXgLDl2E, AIKo3fS, (unsigned short)358357622, 694347979, -2106071581) << u450z7hpo(wXgLDl2E) << VaZBkck7R << "X0PG3_dEC" << std::endl;
 }
 else if (V1C027Bb0q != Fr69v_O)
 {
@@ -322,7 +322,7 @@ for (int j = 9; j >= 0; --j)
 {
 if ((jLQau != -1019532585) && ((pbRZ2 > AIKo3fS) && (NBaG_16wf > YO9rC5t)))
 {
-Z4_i9 = kvPcMU1R(ukZj20t9, (unsigned short)1645078447, (unsigned short)-93970967, -682620819, Mc7Kts6kX);
+Z4_i9 = kvPcMU1R(ukZj20t9, (unsigned short)1645078447, (unsigned short)-93970967, (char)-682620819, Mc7Kts6kX);
 }
 else if (wzLTC43B != VaZBkck7R)
 {

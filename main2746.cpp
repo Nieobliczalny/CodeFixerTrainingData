@@ -196,7 +196,7 @@ J2R68i = (unsigned char)(D6bXXiNiEz);
 switch (RD604kp)
 {
 case 0:
-GWS0CyZZ = QW8AWSXu(GWS0CyZZ, QpIy, 741833246, -1906184109);
+GWS0CyZZ = QW8AWSXu(GWS0CyZZ, QpIy, (short)741833246, -1906184109);
 break;
 case 1:
 YlvizX = yqMZ();
@@ -306,7 +306,7 @@ while (j >= 0)
 j--;
 try
 {
-Nn0lGvlLU = QW8AWSXu((short)509095464, -1645308467, (short)-1398613852, -1500175942);
+Nn0lGvlLU = QW8AWSXu((short)509095464, -1645308467, (short)-1398613852, (char)-1500175942);
 }
 catch (int& errorCode)
 {

@@ -334,7 +334,7 @@ uvcMijBbEC = D5uJ8(XWCVFOWDc, 153073413, (unsigned short)1670360823, xbbx2YxC, B
 }
 else
 {
-std::cout << K9yn((unsigned short)942939821, 1673857694, -169184318, xbbx2YxC, 1588157023) << D5uJ8(-1094997717, -1412291777, WrMhID6OM, 901182353, -842752190) << re07wB0(2131432578, uvcMijBbEC) << std::endl;
+std::cout << K9yn((unsigned short)942939821, 1673857694, -169184318, xbbx2YxC, 1588157023) << D5uJ8((unsigned short)-1094997717, -1412291777, WrMhID6OM, 901182353, -842752190) << re07wB0(2131432578, uvcMijBbEC) << std::endl;
 }
 }
 else
@@ -639,7 +639,7 @@ AVq1p = h33gl8zsv() % D6H41nv;
 }
 else if (y7aj2YN5v5 >= 1301907544)
 {
-VBU56D = D5uJ8((unsigned short)1145620052, VBU56D, (unsigned short)-1609754171, 71211061, 1352346094);
+VBU56D = D5uJ8((unsigned short)1145620052, VBU56D, (unsigned short)-1609754171, 71211061, (unsigned short)1352346094);
 }
 else if (d8S86xSK & -756206559)
 {
@@ -872,7 +872,7 @@ AVq1p = (unsigned long long)(B38u + (459533472));
 }
 else
 {
-std::cout << D5uJ8((unsigned short)1155901438, B_Z0r4, (unsigned short)-913551200, -549683873, y7aj2YN5v5) << D5uJ8(k_Cc11, B_Z0r4, 987513366, MDQ3Z0_x, y7aj2YN5v5) << "qOOv13ce_" << "w4iyWFcL" << std::endl;
+std::cout << D5uJ8((unsigned short)1155901438, B_Z0r4, (unsigned short)-913551200, -549683873, y7aj2YN5v5) << D5uJ8(k_Cc11, B_Z0r4, (unsigned short)987513366, MDQ3Z0_x, y7aj2YN5v5) << "qOOv13ce_" << "w4iyWFcL" << std::endl;
 }
 
 {

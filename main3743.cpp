@@ -46,7 +46,7 @@ int main(void)
   long  il76d2Kq84  =  -1725772995;
     short    F6HPR    =    (short)-999391704;
  long long zjYu = -404798630;
- unsigned char yVwD380 = 1946932615;
+ unsigned char yVwD380 = (unsigned char)1946932615;
     unsigned char    ZpAy5eD    =    -1574732420;
 	long double	Cy1Zg	=	-1989304786;
     long    f25Sko    =    1783202744;
@@ -59,7 +59,7 @@ int main(void)
     short    AwctGT7y0A    =    (short)-444036791;
   unsigned short int  xdWYUr9S  =  (unsigned short)-400697832;
  unsigned short int fX4Ir = 0;
-	short	upeh	=	1577878633;
+	short	upeh	=	(short)1577878633;
     unsigned long    I1ri0I0    =    299300498;
 	unsigned int	kPQ8O	=	-1513280739;
     long long    aIWal    =    -498811855;
@@ -94,7 +94,7 @@ else
 int j = 7;
 while (j >= 0)
 {
-cout << d_G2f8 << R59L(691225802, (unsigned char)-1240909610, (unsigned short)1451375282, 1827227742) << JHR989 << endl;
+cout << d_G2f8 << R59L(691225802, (unsigned char)-1240909610, (unsigned short)1451375282, (char)1827227742) << JHR989 << endl;
 j--;
 }
 }

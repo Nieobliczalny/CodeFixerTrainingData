@@ -17,7 +17,7 @@ int main(void)
   unsigned char  EzmB7j;
   EzmB7j  =  (unsigned char)1236392954;
   char  uZh2hyXAm;
-  uZh2hyXAm  =  -1000856810;
+  uZh2hyXAm  =  (char)-1000856810;
     long    r3G7p8No;
     r3G7p8No    =    -1544407603;
     unsigned short    q6N8R;
@@ -29,7 +29,7 @@ int main(void)
     short int    pD93O_pcL3;
     pD93O_pcL3    =    (short)-347690583;
     short int    X2zYyw;
-    X2zYyw    =    1915843998;
+    X2zYyw    =    (short)1915843998;
   short int  g15HIYj;
   g15HIYj  =  4279344;
     int    s7bw79A8o;
@@ -45,7 +45,7 @@ int main(void)
   double  X5G63vu;
   X5G63vu  =  -1251515790;
  short int L2_UP;
- L2_UP = -1865533173;
+ L2_UP = (short)-1865533173;
  long ye4l;
  ye4l = -627280117;
  unsigned long NaI7;
@@ -73,7 +73,7 @@ int main(void)
     char    tH_B;
     tH_B    =    (char)-67981046;
     unsigned char    g35VACT0;
-    g35VACT0    =    -1695376871;
+    g35VACT0    =    (unsigned char)-1695376871;
  unsigned char GGy_1_D_d;
  GGy_1_D_d = 1931441619;
     unsigned int    m_53XL__;
@@ -103,7 +103,7 @@ int main(void)
     char    axJnI4Er5c;
     axJnI4Er5c    =    (char)-1241381930;
 	unsigned short int	eMTY;
-	eMTY	=	1095549486;
+	eMTY	=	(unsigned short)1095549486;
   int  EcSk4fL8c5;
   EcSk4fL8c5  =  846929148;
 	short int	i_ob82Ov3S;

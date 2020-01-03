@@ -42,7 +42,7 @@ int main() {
   unsigned char  C6MT_EePL6;
   C6MT_EePL6  =  (unsigned char)187037782;
  short t2_1cYI_;
- t2_1cYI_ = 2063479257;
+ t2_1cYI_ = (short)2063479257;
   unsigned long long  QQ70t;
   QQ70t  =  -2099668587;
     unsigned char    V4_pWk_1jP;

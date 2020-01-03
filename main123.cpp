@@ -49,7 +49,7 @@ int main()
     int    FIOGtaX0_4;
     FIOGtaX0_4    =    -1249311120;
  unsigned short int Hg_7y;
- Hg_7y = 627934058;
+ Hg_7y = (unsigned short)627934058;
     double    jFdO6Z4Y;
     jFdO6Z4Y    =    -1664478413;
 	char	R4GNS3;
@@ -69,7 +69,7 @@ int main()
 	double	B0AGx;
 	B0AGx	=	1497516158;
 	unsigned char	u3fc0Z2H_;
-	u3fc0Z2H_	=	2031330337;
+	u3fc0Z2H_	=	(unsigned char)2031330337;
   unsigned long long  dZAD;
   dZAD  =  -1594876310;
     unsigned long    MUetNsgt;
@@ -97,7 +97,7 @@ int main()
   unsigned long  UV02PRH_Z;
   UV02PRH_Z  =  116095167;
 	unsigned short int	VwK5EZt__z;
-	VwK5EZt__z	=	1653408202;
+	VwK5EZt__z	=	(unsigned short)1653408202;
     long    ubBXsc;
     ubBXsc    =    -978211273;
  double xy2xx;
@@ -129,7 +129,7 @@ int main()
     char    RtboEE;
     RtboEE    =    (char)-1001865907;
     unsigned char    U79KMv;
-    U79KMv    =    -1413453078;
+    U79KMv    =    (unsigned char)-1413453078;
   long double  oTcQK_h;
   oTcQK_h  =  701596375;
 	unsigned short	FfG7Hg5gW;
@@ -141,7 +141,7 @@ int main()
 
 if (sHw0)
 {
-std::cout << qE_Vn((unsigned char)373593483, 511415275, -473539887, 1845356834) << cSL4S << std::endl;
+std::cout << qE_Vn((unsigned char)373593483, (short)511415275, -473539887, 1845356834) << cSL4S << std::endl;
 }
 else if (paL5 & YJR5HMhP)
 {
@@ -170,7 +170,7 @@ case 2:
 YUkKDyv54 = iN40s(900205411, -454329068);
 break;
 case 3:
-U79KMv = qE_Vn(U79KMv, 1304405015, -559859839, SUo0T8_3U0);
+U79KMv = qE_Vn(U79KMv, (short)1304405015, -559859839, SUo0T8_3U0);
 break;
 case 4:
 UV02PRH_Z = (OE26 != fhNYfnQ) ? 2007020174 : 1779746559;
@@ -312,7 +312,7 @@ case 3:
 SC3Az8uWYC = (int)abs(fsUc2N3) * 0;
 break;
 case 4:
-N0zfei2 = qE_Vn((unsigned char)-792580200, fsUc2N3, (char)663094688, -1855966712);
+N0zfei2 = qE_Vn((unsigned char)-792580200, fsUc2N3, (char)663094688, (short)-1855966712);
 break;
 case 5:
 SUo0T8_3U0 = iN40s(SUo0T8_3U0, 1073033613);

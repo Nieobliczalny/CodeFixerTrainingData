@@ -43,7 +43,7 @@ int main(int argc, char** argv)
  unsigned char fA8X;
  fA8X = (unsigned char)-2110001668;
 	unsigned short int	y5yKw;
-	y5yKw	=	88465477;
+	y5yKw	=	(unsigned short)88465477;
  unsigned int bK8pPJ95;
  bK8pPJ95 = -575076339;
     unsigned long    G6FrCPb00;
@@ -55,7 +55,7 @@ int main(int argc, char** argv)
 	double	rgOi;
 	rgOi	=	-1710207035;
  short int O04Im;
- O04Im = 603396660;
+ O04Im = (short)603396660;
 	float	rf_ea5P;
 	rf_ea5P	=	-726415190;
 	unsigned short int	YqQG11zM;
@@ -65,7 +65,7 @@ int main(int argc, char** argv)
   long double  M18464M;
   M18464M  =  -848843777;
     short    h1S6O3;
-    h1S6O3    =    -1402473001;
+    h1S6O3    =    (short)-1402473001;
     short    Has0;
     Has0    =    -1769269263;
     int    Ad5j;
@@ -143,7 +143,7 @@ int main(int argc, char** argv)
     short    cKAwFUKaRv;
     cKAwFUKaRv    =    (short)400968380;
 	unsigned char	ftV9N;
-	ftV9N	=	-658388888;
+	ftV9N	=	(unsigned char)-658388888;
 	long long	m4T74XB;
 	m4T74XB	=	-354095845;
  long long dKJkawZ;
@@ -157,7 +157,7 @@ int main(int argc, char** argv)
  unsigned long long H72f;
  H72f = 0;
     short int    h8Nylg;
-    h8Nylg    =    -1813141642;
+    h8Nylg    =    (short)-1813141642;
 	unsigned long	wVB6LMb;
 	wVB6LMb	=	1006448823;
 	long double	cRxa440S;
@@ -173,7 +173,7 @@ std::cout << y5yKw << rdA5OyUW((char)-847164131) << std::endl;
 O04Im = iCeAkz();
 try
 {
-ApCrMh = u3A31DkJ2((short)-1477626447, 1986367274, -1146103492, rf_ea5P);
+ApCrMh = u3A31DkJ2((short)-1477626447, (short)1986367274, -1146103492, rf_ea5P);
 }
 catch (int& errorCode)
 {
@@ -217,7 +217,7 @@ else if ((O6Vtxz != -327903738) && (uw7Ok8Vlev <= m4T74XB))
 int k = 9;
 while (k >= 0)
 {
-CZ0fAr2k0P = u3A31DkJ2((short)1729852336, (short)1435691107, -1559384272, 1471214337);
+CZ0fAr2k0P = u3A31DkJ2((short)1729852336, (short)1435691107, (unsigned short)-1559384272, 1471214337);
 --k;
 }
 }

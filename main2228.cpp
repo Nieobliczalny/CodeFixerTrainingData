@@ -40,7 +40,7 @@ int main(void) {
  unsigned short Fn4WrRw;
  Fn4WrRw = (unsigned short)552268226;
   short int  Bqtw;
-  Bqtw  =  653181715;
+  Bqtw  =  (short)653181715;
     short int    Osq2Dq9;
     Osq2Dq9    =    (short)-1374176793;
     unsigned long    b84ySv12V;
@@ -64,7 +64,7 @@ int main(void) {
  short c3sJDFY5;
  c3sJDFY5 = (short)-1670941423;
     short int    J6wAoHE;
-    J6wAoHE    =    -371952737;
+    J6wAoHE    =    (short)-371952737;
     short int    kBJPt_8Xgq;
     kBJPt_8Xgq    =    0;
 	int	E84zo;
@@ -76,7 +76,7 @@ int main(void) {
  unsigned short int xOiRsLBKvU;
  xOiRsLBKvU = (unsigned short)-950965206;
 	short	NX_j02L4N;
-	NX_j02L4N	=	2086082209;
+	NX_j02L4N	=	(short)2086082209;
 	unsigned long	R_vr80V23;
 	R_vr80V23	=	-776821588;
 	unsigned short int	oX1_;
@@ -92,7 +92,7 @@ int main(void) {
     char    Q4q_;
     Q4q_    =    (char)-1328688754;
  short int i3rgp;
- i3rgp = 999493797;
+ i3rgp = (short)999493797;
     short    T_1F952;
     T_1F952    =    -1979280340;
 	unsigned long long	h8kP8S18T;
@@ -177,7 +177,7 @@ case 8:
 w33H1Fd18j ^= S6P_QQ_;
 break;
 default:
-S_mfy0ng7 = Jd7V62(1548401476, OIVq, (unsigned char)1145626835, 546367573);
+S_mfy0ng7 = Jd7V62(1548401476, OIVq, (unsigned char)1145626835, (unsigned char)546367573);
 break;
 }
 }
@@ -335,7 +335,7 @@ e7y7s474d1 = (int)ceil(wjCET);
 }
 else if (WI6Dk7 != 1492741999)
 {
-kBJPt_8Xgq = Jd7V62(-1710054996, 1958586303, (unsigned char)-247912185, -1684720309);
+kBJPt_8Xgq = Jd7V62(-1710054996, 1958586303, (unsigned char)-247912185, (unsigned char)-1684720309);
 }
 else if (OKO4l3r > b84ySv12V)
 {
@@ -380,7 +380,7 @@ case 6:
 kBJPt_8Xgq = Jd7V62(-766068798, 1022997548, (unsigned char)-1849860769, (unsigned char)-828606310);
 break;
 case 7:
-kBJPt_8Xgq = Jd7V62(-2097106775, 542366963, 187099296, -895379228);
+kBJPt_8Xgq = Jd7V62(-2097106775, 542366963, (unsigned char)187099296, -895379228);
 break;
 case 8:
 knDRk = (int)ceil(j6CT);
@@ -433,7 +433,7 @@ OIVq = (unsigned long long)(CmSUPg8);
 
 if ((Wor6nZai1) && (Bqtw & -407577902))
 {
-cout << t9iesec << Jd7V62(526500273, R_vr80V23, (unsigned char)1011247863, (unsigned char)1914003715) << "Z5NI2Yi" << Jd7V62(b84ySv12V, 754230943, 613468357, -947998306) << endl;
+cout << t9iesec << Jd7V62(526500273, R_vr80V23, (unsigned char)1011247863, (unsigned char)1914003715) << "Z5NI2Yi" << Jd7V62(b84ySv12V, 754230943, (unsigned char)613468357, -947998306) << endl;
 }
 else
 {

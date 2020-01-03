@@ -15,7 +15,7 @@ int main(void) {
   long long  P4G205qi5  =  -1410896485;
   int  oCl__9kWy  =  0;
  char v1hvv = (char)1374561034;
-	unsigned char	Jpfp	=	310821225;
+	unsigned char	Jpfp	=	(unsigned char)310821225;
     long    T6veAX5O    =    829662549;
 	long long	vsohd7J63x	=	501587;
     unsigned short    nbGB2    =    1177370755;
@@ -28,7 +28,7 @@ int main(void) {
     unsigned short int    o2wc7oa    =    (unsigned short)-1635750110;
   double  ox21  =  751525713;
     unsigned long long    G39h1p    =    826030404;
-  unsigned char  G84_rN8M  =  -2073374108;
+  unsigned char  G84_rN8M  =  (unsigned char)-2073374108;
  unsigned long long WaUMe = -30129084;
   unsigned long  FtJg0  =  35907873;
     long    pHemR7Yg    =    929899054;

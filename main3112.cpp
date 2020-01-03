@@ -24,7 +24,7 @@ int main(int argc, char** argv)
  char N6l8jN4_2p = (char)1327164075;
     long long    a52l    =    0;
  double WDq_m = 1938165660;
-  unsigned short int  B0_9lTGOk  =  -50994109;
+  unsigned short int  B0_9lTGOk  =  (unsigned short)-50994109;
 
 {
 int i = 9;
@@ -273,7 +273,7 @@ case 5:
 N_3xeb1wW = t7J4ji51X6(N_3xeb1wW, (short)408677858);
 break;
 case 6:
-jd1keQ2 = t7J4ji51X6(jd1keQ2, -1024918080);
+jd1keQ2 = t7J4ji51X6(jd1keQ2, (short)-1024918080);
 break;
 case 7:
 WDq_m = nZTNfs & 2053036344;
@@ -317,7 +317,7 @@ case 1:
 WDq_m = t7J4ji51X6(WDq_m, (short)1241631366);
 break;
 case 2:
-jd1keQ2 = t7J4ji51X6(-1530745451, 1225979472);
+jd1keQ2 = t7J4ji51X6(-1530745451, (short)1225979472);
 break;
 }
 }

@@ -68,7 +68,7 @@ int main(void)
  short xF5_p_N5;
  xF5_p_N5 = (short)879992112;
   unsigned short int  NPI6H847;
-  NPI6H847  =  -189821902;
+  NPI6H847  =  (unsigned short)-189821902;
   long long  x_4n1Ow400;
   x_4n1Ow400  =  -328235458;
     unsigned long    uxphyk;
@@ -78,7 +78,7 @@ int main(void)
   short int  Bs_459V;
   Bs_459V  =  (short)-1816398148;
 	short int	BHyHD;
-	BHyHD	=	-1476186732;
+	BHyHD	=	(short)-1476186732;
 	unsigned int	j3Ac;
 	j3Ac	=	-1511498389;
     unsigned short int    k37OTH6ih;
@@ -94,7 +94,7 @@ int main(void)
     unsigned short int    pG_NfUc96;
     pG_NfUc96    =    (unsigned short)1432787062;
     unsigned short    kmmdI;
-    kmmdI    =    -1388615704;
+    kmmdI    =    (unsigned short)-1388615704;
   unsigned short int  rD331e70;
   rD331e70  =  777624472;
     long    Iz7I5nTh7;
@@ -124,7 +124,7 @@ int main(void)
   unsigned short  BErEx39j3;
   BErEx39j3  =  (unsigned short)-989880603;
     short int    QH51uZATt;
-    QH51uZATt    =    -1329603040;
+    QH51uZATt    =    (short)-1329603040;
     double    Gpkj8ye6xr;
     Gpkj8ye6xr    =    -1101460514;
 	unsigned char	Ut5Uu;

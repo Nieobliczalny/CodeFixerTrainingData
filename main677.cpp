@@ -22,7 +22,7 @@ int main(void) {
   char  WNfEN,  I3_y7vItE,  T7HtHJK,  K35kyh95_4,  xu1yLyB,  te8sz,  N9M5,  RA8_b,  Uo0P02,  kwjVg,  DMzQF3,  b0fL,  zqKtv5k_r,  OQHA,  yh79,  Jst_c3Kc,  Jehm2otgw6,  QL4q__Q9GD,  gOVOi3,  GCmK34q5,  MUVV02vgZu,  CiI3Jjf,  Jc0503_,  wfByxQFwe,  R3J9,  lwY8d7bwN,  qNrIfJ_,  ZHqoc8,  dMcc,  D_dP0c4Hmy,  XVdUG5,  L561,  s9v2C4n9_8,  kPnR23H,  bMqX1iIyPF,  Pi8wQ,  Ubopi,  P0ZT0k,  HT28AfD8L,  qUbpr32T,  tH390RX1,  IfW0S,  npL20NTQ9,  IcGS,  U56aty,  Qy1pb9TiW0,  J0bT;
   WNfEN  =  (char)-1646793051;
   I3_y7vItE  =  (char)-75922070;
-  T7HtHJK  =  -286630790;
+  T7HtHJK  =  (char)-286630790;
   K35kyh95_4  =  103905031;
   xu1yLyB  =  -1513881961;
   te8sz  =  -1243917264;
@@ -32,7 +32,7 @@ int main(void) {
   kwjVg  =  1953230062;
   DMzQF3  =  (char)-418349210;
   b0fL  =  (char)-830353608;
-  zqKtv5k_r  =  513599460;
+  zqKtv5k_r  =  (char)513599460;
   OQHA  =  -57670949;
   yh79  =  89827597;
   Jst_c3Kc  =  2087755699;
@@ -42,7 +42,7 @@ int main(void) {
   GCmK34q5  =  -1112321984;
   MUVV02vgZu  =  (char)-1921957844;
   CiI3Jjf  =  (char)963375431;
-  Jc0503_  =  372087316;
+  Jc0503_  =  (char)372087316;
   wfByxQFwe  =  2075568652;
   R3J9  =  52841351;
   lwY8d7bwN  =  899719655;
@@ -52,7 +52,7 @@ int main(void) {
   D_dP0c4Hmy  =  -2102229932;
   XVdUG5  =  (char)228322928;
   L561  =  (char)-357774429;
-  s9v2C4n9_8  =  -373565591;
+  s9v2C4n9_8  =  (char)-373565591;
   kPnR23H  =  815536646;
   bMqX1iIyPF  =  1205137762;
   Pi8wQ  =  758129842;
@@ -62,7 +62,7 @@ int main(void) {
   qUbpr32T  =  1107469542;
   tH390RX1  =  (char)286752249;
   IfW0S  =  (char)-159160622;
-  npL20NTQ9  =  -1621345802;
+  npL20NTQ9  =  (char)-1621345802;
   IcGS  =  1239550645;
   U56aty  =  -1200222084;
   Qy1pb9TiW0  =  -1664370478;
@@ -130,7 +130,7 @@ std::cout << "q2pl8N8" << "T9VGoT7" << std::endl;
 switch (xu1yLyB)
 {
 case 0:
-wfByxQFwe = PwQ3((unsigned short)241893217, -566171656);
+wfByxQFwe = PwQ3((unsigned short)241893217, (unsigned short)-566171656);
 break;
 case 1:
 N9M5 = (int)abs(XVdUG5);

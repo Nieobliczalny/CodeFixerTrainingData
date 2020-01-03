@@ -70,7 +70,7 @@ int main(int argc, char** argv) {
   long double  UeTp4IT5;
   UeTp4IT5  =  1006418436;
 	short int	j3evMN;
-	j3evMN	=	-348400735;
+	j3evMN	=	(short)-348400735;
   char  JyT2R;
   JyT2R  =  (char)-1716647816;
  int p43ZK;
@@ -88,7 +88,7 @@ int main(int argc, char** argv) {
 	unsigned short int	vigX5745S;
 	vigX5745S	=	(unsigned short)1787583521;
   short  z3s7;
-  z3s7  =  -803394100;
+  z3s7  =  (short)-803394100;
     unsigned int    AX0B;
     AX0B    =    -1049349099;
 	short int	CYlUxQs;
@@ -114,7 +114,7 @@ int main(int argc, char** argv) {
     short int    O5amOP30;
     O5amOP30    =    (short)1878409997;
 	short int	GlY3LF;
-	GlY3LF	=	-405177643;
+	GlY3LF	=	(short)-405177643;
 	unsigned long	wS38o04re;
 	wS38o04re	=	1745666053;
 	short	h79J_L0U;
@@ -126,7 +126,7 @@ int main(int argc, char** argv) {
   unsigned long long  pOa0K;
   pOa0K  =  -782416102;
  short g9_P1iZ7;
- g9_P1iZ7 = -291374682;
+ g9_P1iZ7 = (short)-291374682;
  long double pQYsT4T55;
  pQYsT4T55 = -1683337395;
  short Gk3JHujy6o;
@@ -136,7 +136,7 @@ int main(int argc, char** argv) {
     char    IYUsZ;
     IYUsZ    =    (char)1576722449;
     short int    sqCktR9RaU;
-    sqCktR9RaU    =    1303591860;
+    sqCktR9RaU    =    (short)1303591860;
 	long double	q6zH7_c7;
 	q6zH7_c7	=	1238131794;
     unsigned short int    e7oiRU45n;
@@ -146,7 +146,7 @@ int main(int argc, char** argv) {
     unsigned short    MwN7dRe;
     MwN7dRe    =    (unsigned short)-1253248704;
  short int UV0wj;
- UV0wj = 781581664;
+ UV0wj = (short)781581664;
   int  vI2tJ813;
   vI2tJ813  =  -1246572358;
   unsigned long  Io8F37mB;
@@ -170,7 +170,7 @@ int main(int argc, char** argv) {
 	unsigned short int	hr7GM2;
 	hr7GM2	=	(unsigned short)-1276599965;
  short v_XiPkq8;
- v_XiPkq8 = -2124390230;
+ v_XiPkq8 = (short)-2124390230;
 	double	DxLTkX_440;
 	DxLTkX_440	=	-457974343;
   unsigned int  ktaTes9;
@@ -182,7 +182,7 @@ int main(int argc, char** argv) {
  short int Kf9FW0r8i;
  Kf9FW0r8i = (short)-888752985;
     char    W6xszdF;
-    W6xszdF    =    -77476803;
+    W6xszdF    =    (char)-77476803;
   long double  cU6R9;
   cU6R9  =  -408520959;
 

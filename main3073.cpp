@@ -28,7 +28,7 @@ int main(int argc, char** argv) {
     double    CX1T61CX8f    =    1964791305;
 	char	QM_j1Dk7Q	=	(char)-786422182;
 	long double	UQB7o2	=	-2101086788;
-  unsigned char  Lrq60vnQo3  =  -842445761;
+  unsigned char  Lrq60vnQo3  =  (unsigned char)-842445761;
   unsigned long  Y01va75Vx2  =  -888831711;
  unsigned long long z29nab_ = -343980453;
   unsigned short int  toy3t3j5H4  =  (unsigned short)865853017;
@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
     unsigned short int    cZVOb25y32    =    -245247985;
  unsigned long Z9cuF39f0 = 2063630393;
  int sv82 = 1554711001;
-	unsigned char	sr6OB_L	=	411181447;
+	unsigned char	sr6OB_L	=	(unsigned char)411181447;
  short A2t69m = (short)-1798535096;
     short int    kv8Bugq_    =    1983158937;
   double  K2Mj_7X  =  -1806770440;
@@ -54,7 +54,7 @@ int main(int argc, char** argv) {
     unsigned char    MW02_R4i    =    0;
  short Cg0988 = (short)-769947470;
     int    cSQ_BJ    =    979622209;
-    char    u1or    =    1771507018;
+    char    u1or    =    (char)1771507018;
  unsigned int ZIp34z9 = 736269294;
   int  haaZyGrpMW  =  -1500353059;
     float    M68S    =    2003049626;
@@ -279,7 +279,7 @@ if (A2t69m >= 14092922)
 {
 if ((tBlFERt16g != -2134576944) && ((X6t7n78) && (tBlFERt16g == 1139853832)))
 {
-Cg0988 = K37Z08s78(308710284, haaZyGrpMW, 910952176, Y01va75Vx2);
+Cg0988 = K37Z08s78((char)308710284, haaZyGrpMW, 910952176, Y01va75Vx2);
 }
 }
 }
@@ -387,7 +387,7 @@ std::cout << Z9cuF39f0 << K37Z08s78((char)-1299561442, vL932LR2O, M68S, (short)6
 
 OOCY22 = (int)floor(UQB7o2);
 
-std::cout << Xme10_8Cw6 << TDVUt58() << K37Z08s78(W81939MwX, vL932LR2O, M68S, 1147401141) << K37Z08s78(-486270398, vL932LR2O, M68S, CX1T61CX8f) << std::endl;
+std::cout << Xme10_8Cw6 << TDVUt58() << K37Z08s78(W81939MwX, vL932LR2O, M68S, (short)1147401141) << K37Z08s78(-486270398, vL932LR2O, M68S, CX1T61CX8f) << std::endl;
 return 0;
 }
 

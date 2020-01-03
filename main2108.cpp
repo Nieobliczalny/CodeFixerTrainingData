@@ -31,7 +31,7 @@ int main(int argc, char** argv)
 	unsigned char	k2y_;
 	k2y_	=	(unsigned char)418321813;
   short  C38f33sNs;
-  C38f33sNs  =  -1248807313;
+  C38f33sNs  =  (short)-1248807313;
  int dzMwE_Wen;
  dzMwE_Wen = -1919939474;
 	unsigned long	e_s39O2o;
@@ -45,7 +45,7 @@ int main(int argc, char** argv)
  unsigned short b332;
  b332 = (unsigned short)1381052272;
  unsigned char j0_o8DJUF;
- j0_o8DJUF = -353751257;
+ j0_o8DJUF = (unsigned char)-353751257;
  char ZFOq5K;
  ZFOq5K = 489608605;
     unsigned long long    cBgz5sZTd2;
@@ -95,7 +95,7 @@ int main(int argc, char** argv)
     unsigned short    U01Xrvs;
     U01Xrvs    =    (unsigned short)776622411;
  unsigned short int dqcTY38;
- dqcTY38 = 165181677;
+ dqcTY38 = (unsigned short)165181677;
 	unsigned short int	wB89g;
 	wB89g	=	493421992;
     int    LnlZqaF3eb;
@@ -113,7 +113,7 @@ int main(int argc, char** argv)
 	float	WX5yeBB6;
 	WX5yeBB6	=	1584001250;
 	unsigned char	XCQmj01O;
-	XCQmj01O	=	1118345579;
+	XCQmj01O	=	(unsigned char)1118345579;
     char    J5X64j4sg;
     J5X64j4sg    =    -1371798975;
   unsigned short  eK3aFDG;
@@ -132,7 +132,7 @@ dzMwE_Wen = lM4AfT6g5 / WY2Z6((char)-1907932427, (unsigned char)1667427988, pm_2
 
 eK3aFDG |= BowocqjFyF;
 
-WX5yeBB6 = yxtf(Syesf1i2Hc, 85909208, -64044161, 505784029, -1447815293) >> LnlZqaF3eb;
+WX5yeBB6 = yxtf(Syesf1i2Hc, (unsigned short)85909208, -64044161, 505784029, -1447815293) >> LnlZqaF3eb;
 if ((j0_o8DJUF == -545558813) || ((QYVf4Yx5 <= ZFOq5K) && (XQLT1 >= dqcTY38)))
 {
 x6unV = (long long)(E2fuc0h_);

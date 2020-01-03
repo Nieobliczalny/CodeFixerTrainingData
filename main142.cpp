@@ -71,7 +71,7 @@ Sdffa8 = OdtyE_U(473124825, (unsigned char)-799154930);
 }
 else if (B6M3qs5qf)
 {
-std::cout << OdtyE_U(ud_4gA4_79, (unsigned char)-62776891) << VC_q4iJKL << fa1x2(1236947530) << std::endl;
+std::cout << OdtyE_U(ud_4gA4_79, (unsigned char)-62776891) << VC_q4iJKL << fa1x2((unsigned short)1236947530) << std::endl;
 }
 else
 {
@@ -587,7 +587,7 @@ B6M3qs5qf = fa1x2((unsigned short)-2084071811);
 break;
 case 'c':
 case 'C':
-VOF8auxB = fa1x2(1402839403);
+VOF8auxB = fa1x2((unsigned short)1402839403);
 break;
 case 'd':
 case 'D':

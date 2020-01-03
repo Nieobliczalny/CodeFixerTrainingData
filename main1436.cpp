@@ -33,7 +33,7 @@ int main() {
   double  LCS1BRtJ77  =  477181255;
     char    jxhP    =    (char)2056485534;
 	unsigned short	R76B	=	(unsigned short)1934158610;
-    short    v_o5sw4y42    =    -1132524312;
+    short    v_o5sw4y42    =    (short)-1132524312;
  double OzE4UN = 1860512782;
     float    vhPt    =    160432141;
  double U0QTd0cuP_ = 827214048;
@@ -52,7 +52,7 @@ int main() {
   int  TlH9H36mPT  =  -1115625531;
  long double Do88_f6x25 = -190630673;
     double    KQakjJXl    =    276564802;
-    unsigned char    Rf2lTm6    =    1853726812;
+    unsigned char    Rf2lTm6    =    (unsigned char)1853726812;
     short int    t6NhOv    =    -1457150960;
 	int	u_6ynpP1q	=	1086913138;
 	unsigned char	rEWc	=	1901990628;
@@ -62,7 +62,7 @@ int main() {
     unsigned short int    XMCOlan7yl    =    (unsigned short)-1305911134;
 	long double	WcMnHI	=	1953769081;
     float    sR_Ag7    =    -1401210622;
-	unsigned char	q9Ipt9	=	-91530709;
+	unsigned char	q9Ipt9	=	(unsigned char)-91530709;
   unsigned int  v5GC  =  -1832760911;
  long double Fa0_Eka = -88317785;
 	double	W1ai3A	=	816490361;
@@ -78,7 +78,7 @@ int main() {
   unsigned short  w5F502y  =  (unsigned short)300833954;
     long double    eWi4o9    =    -1096738119;
     unsigned long long    wD3Uw    =    -1579542987;
-    char    oEs75pF    =    -1601914704;
+    char    oEs75pF    =    (char)-1601914704;
   double  EZ4_  =  761806113;
     long    eagtV7yBY    =    -640229976;
  unsigned int bWTpdK0 = 1298811549;
@@ -88,7 +88,7 @@ int main() {
   unsigned long  r94S7Bqa  =  -1612578972;
     short    Nafxm    =    (short)-1893565990;
  long double chtM = -577200228;
- unsigned short ToG5T = 320433752;
+ unsigned short ToG5T = (unsigned short)320433752;
     short int    tm9D8ohc_    =    -894985764;
     short int    LiO_zUc3    =    -2057462988;
  int H9622d4f2 = 222791041;
@@ -99,7 +99,7 @@ int main() {
   double  TpClxSMI2O  =  -555713364;
     float    qhzu4DE1    =    -1276932473;
   unsigned char  oTOb8G  =  (unsigned char)1166276363;
- char fNZhve = 1183850273;
+ char fNZhve = (char)1183850273;
  long double h_4jH = 2110530857;
     long long    UunKd    =    -929744143;
 

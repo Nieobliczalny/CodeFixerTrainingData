@@ -12,7 +12,7 @@ unsigned long	bv3Ogtn(unsigned long	XkB7iq,unsigned short int	ntrY6,unsigned sho
 
 int main()
 {
-	short	FVZGPg	=	(short)-514033801,	axQ16twEu	=	(short)-1960915568,	Ka0ml8	=	1644014102;
+	short	FVZGPg	=	(short)-514033801,	axQ16twEu	=	(short)-1960915568,	Ka0ml8	=	(short)1644014102;
  short Ml64 = 0, e37KoY6 = 0, A9jg94MH = 0, SRa90Fia = 0;
 
 if (((FVZGPg) && (SRa90Fia < A9jg94MH)) || (axQ16twEu))
@@ -39,7 +39,7 @@ else
 {
 if (Ml64 != -2029974565)
 {
-std::cout << bv3Ogtn(1294866557, (unsigned short)291413046, (unsigned short)-1327236076) << e37KoY6 << bv3Ogtn(FVZGPg, axQ16twEu, Ka0ml8) << bv3Ogtn(207874907, -503261209, Ka0ml8) << std::endl;
+std::cout << bv3Ogtn(1294866557, (unsigned short)291413046, (unsigned short)-1327236076) << e37KoY6 << bv3Ogtn(FVZGPg, axQ16twEu, Ka0ml8) << bv3Ogtn(207874907, (unsigned short)-503261209, Ka0ml8) << std::endl;
 }
 else if (Ml64)
 {
@@ -139,7 +139,7 @@ case 1:
 A9jg94MH = bv3Ogtn(-131725980, A9jg94MH, Ml64);
 break;
 default:
-e37KoY6 = bv3Ogtn(e37KoY6, Ka0ml8, -2016552098);
+e37KoY6 = bv3Ogtn(e37KoY6, Ka0ml8, (unsigned short)-2016552098);
 break;
 }
 }
@@ -160,7 +160,7 @@ case 3:
 A9jg94MH = bv3Ogtn(A9jg94MH, axQ16twEu, (unsigned short)74590799);
 break;
 case 4:
-SRa90Fia = bv3Ogtn(Ka0ml8, (unsigned short)-2004065089, -214307531);
+SRa90Fia = bv3Ogtn(Ka0ml8, (unsigned short)-2004065089, (unsigned short)-214307531);
 break;
 case 5:
 Ka0ml8 = (int)abs(e37KoY6) + (-1955955917);
@@ -178,7 +178,7 @@ break;
 }
 else if (A9jg94MH == axQ16twEu)
 {
-SRa90Fia = bv3Ogtn(Ka0ml8, -2060484385, 1331159829);
+SRa90Fia = bv3Ogtn(Ka0ml8, (unsigned short)-2060484385, 1331159829);
 }
 else if (axQ16twEu > 886962486)
 {
@@ -284,7 +284,7 @@ e37KoY6 = bv3Ogtn(e37KoY6, SRa90Fia, Ka0ml8);
 e37KoY6 = bv3Ogtn(axQ16twEu, (unsigned short)-375682577, e37KoY6);
 if (e37KoY6 == axQ16twEu)
 {
-Ml64 = bv3Ogtn(Ka0ml8, (unsigned short)-37393190, 690003090);
+Ml64 = bv3Ogtn(Ka0ml8, (unsigned short)-37393190, (unsigned short)690003090);
 }
 else if (axQ16twEu > SRa90Fia)
 {
@@ -418,7 +418,7 @@ case 'c':
 axQ16twEu++;
 break;
 case 'd':
-e37KoY6 = bv3Ogtn(193477734, (unsigned short)-679883662, -1232337379);
+e37KoY6 = bv3Ogtn(193477734, (unsigned short)-679883662, (unsigned short)-1232337379);
 break;
 case 'e':
 Ml64 = bv3Ogtn(543917585, Ml64, A9jg94MH);
@@ -495,7 +495,7 @@ Ml64 = bv3Ogtn(1867662919, (unsigned short)-1372194812, (unsigned short)-9511854
 break;
 case 'h':
 case 'H':
-Ml64 = bv3Ogtn(-667958168, 1772167002, 321891117);
+Ml64 = bv3Ogtn(-667958168, (unsigned short)1772167002, 321891117);
 break;
 }
 }

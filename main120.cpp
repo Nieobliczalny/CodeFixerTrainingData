@@ -110,7 +110,7 @@ R140KN = hYaU6((short)781814863, UFCG9aA64, -1866974245, fQIYUH6h, (char)1900376
 
 if (c7CN7x7CIW < 2008123664)
 {
-std::cout << nRJ9uNF8(R140KN, UFCG9aA64, 264406201) << fS_UT6pdr << hYaU6(R140KN, 1281789740, SDd8_l59, -539490685, -1079552955) << MO2NpMn7 << bCXd6ECFWo << std::endl;
+std::cout << nRJ9uNF8(R140KN, UFCG9aA64, (unsigned short)264406201) << fS_UT6pdr << hYaU6(R140KN, 1281789740, SDd8_l59, -539490685, -1079552955) << MO2NpMn7 << bCXd6ECFWo << std::endl;
 }
 else
 {
@@ -178,7 +178,7 @@ SDd8_l59 = nRJ9uNF8(1970527885, x3g9LW7, (unsigned short)-752442962);
 }
 else
 {
-a5IK = nRJ9uNF8(a5IK, lYEANNR, -444512662);
+a5IK = nRJ9uNF8(a5IK, lYEANNR, (unsigned short)-444512662);
 }
 }
 }

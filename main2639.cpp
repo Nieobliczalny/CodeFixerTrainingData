@@ -187,7 +187,7 @@ case 5:
 V26Ng5N20v = O0Q1HrOb(s9C4761);
 break;
 case 6:
-mDj2S6 = z94F___5u0((short)50339325, -984880996, M33nHLW, q9a2FV);
+mDj2S6 = z94F___5u0((short)50339325, (short)-984880996, M33nHLW, q9a2FV);
 break;
 case 7:
 M33nHLW %= onoye7z1_O;

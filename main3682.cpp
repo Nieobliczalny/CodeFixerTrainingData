@@ -207,7 +207,7 @@ else
 std::cout << "H9jL9u7eZ" << std::endl;
 }
 
-zFZb = MkdOh7(zFZb, (unsigned char)1044622659, -292597537, Dn9Ao7);
+zFZb = MkdOh7(zFZb, (unsigned char)1044622659, (unsigned short)-292597537, Dn9Ao7);
 
 a_491 = (short)(vWqeQ_3);
 std::cout << WrKtMER34() << iY9YKmIOp << fy1bi << Cv3xC << std::endl;
@@ -475,7 +475,7 @@ while (k < 1);
 }
 else if (X5ir < NWw51rx28)
 {
-IcBu = MkdOh7((unsigned char)621566047, (unsigned char)-596158680, -1634985325, 1606691826) % 1539913794;
+IcBu = MkdOh7((unsigned char)621566047, (unsigned char)-596158680, (unsigned short)-1634985325, 1606691826) % 1539913794;
 }
 else if (gSfNi1H3St > a_491)
 {

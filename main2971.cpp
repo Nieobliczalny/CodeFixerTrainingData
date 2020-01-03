@@ -75,7 +75,7 @@ L1N02KvpB2 = (Won7D9j & m6c4) ? c266yu : mVxCg8PrS4;
 }
 else if (VId52_4s == cuw2eS2MS7)
 {
-cout << uMldVR8_ << n3708n6((unsigned short)-1458500178, JZY91hO, (short)1101553926, -678049999, -1405731873) << n3708n6(a0w9g5, 262674698, 1386840289, 939007026, Alm4) << endl;
+cout << uMldVR8_ << n3708n6((unsigned short)-1458500178, JZY91hO, (short)1101553926, (unsigned char)-678049999, -1405731873) << n3708n6(a0w9g5, 262674698, 1386840289, 939007026, Alm4) << endl;
 }
 else if (mVxCg8PrS4 != EMdDJA2hsu)
 {
@@ -141,7 +141,7 @@ case 'b':
 s17QhjP4c = n3708n6((unsigned short)-708081511, -798452829, (short)1661860669, hcsw, q2vAGIV8);
 break;
 case 'c':
-CZn88 = n3708n6(40819869, 1733061532, -404157562, 2073135899, -729756077);
+CZn88 = n3708n6((unsigned short)40819869, 1733061532, -404157562, 2073135899, -729756077);
 break;
 case 'd':
 Kij_zp9w3_ = n3708n6(Kij_zp9w3_, Y7A3Z4gys, yjRo, o7zUe_GI2, -657752052);
@@ -199,7 +199,7 @@ VId52_4s /= 1440242424;
 break;
 case 'e':
 case 'E':
-CEoMW4k = n3708n6((unsigned short)-1027418524, AeA_q, (short)-1568114255, 1855002186, a0w9g5);
+CEoMW4k = n3708n6((unsigned short)-1027418524, AeA_q, (short)-1568114255, (unsigned char)1855002186, a0w9g5);
 break;
 case 'f':
 case 'F':
@@ -253,7 +253,7 @@ case 8:
 Alm4 /= JZY91hO;
 break;
 }
-if ((ee0_4DS41 / o20aSk4cht((short)245524523, -278225034)) < -835591957)
+if ((ee0_4DS41 / o20aSk4cht((short)245524523, (short)-278225034)) < -835591957)
 {
 if ((r04Ecbb / o20aSk4cht(Hmo4V38vR, bleW2)) != 695686710)
 {
@@ -320,7 +320,7 @@ case 3:
 KQ6o = (int)ceil(zZBy7gD7yn);
 break;
 case 4:
-D941Cj_r9 = n3708n6((unsigned short)-440599058, C1U_wd6D, rw8Mltr5c, -398182523, yai59);
+D941Cj_r9 = n3708n6((unsigned short)-440599058, C1U_wd6D, rw8Mltr5c, (unsigned char)-398182523, yai59);
 break;
 case 5:
 T_8HIca = L1N02KvpB2 * VId52_4s;
@@ -358,7 +358,7 @@ case 4:
 RxEF = KaE8F90 * rw8Mltr5c;
 break;
 case 5:
-M4rxDK = n3708n6((unsigned short)-663867255, Kij_zp9w3_, (short)-1987736589, 225823179, 510598609);
+M4rxDK = n3708n6((unsigned short)-663867255, Kij_zp9w3_, (short)-1987736589, (unsigned char)225823179, 510598609);
 break;
 case 6:
 Otla = L1N02KvpB2 - AeA_q;

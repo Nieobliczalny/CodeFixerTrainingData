@@ -141,7 +141,7 @@ cout << WrVJuRGy_l(-892479610, (unsigned short)1584783621) << d1QRjuc8 << jU11BF
 for (int i = 0; i < 139; i++)
 {
 CX3yB80pu = W4lmG6OY / m95fk2y61L;
-	Ans0 = AyawHGr(YtuScpv3y, vrdeSbR3b, -1120933066, -589566964) / i;
+	Ans0 = AyawHGr(YtuScpv3y, vrdeSbR3b, (char)-1120933066, -589566964) / i;
 try
 {
 {
@@ -157,7 +157,7 @@ case 1:
 OCJQGI9d |= 1215793460;
 break;
 case 2:
-A_g7l3X01 = AyawHGr((char)520477671, 585884688, p5s8bL, -1999913102);
+A_g7l3X01 = AyawHGr((char)520477671, (unsigned short)585884688, p5s8bL, -1999913102);
 break;
 case 3:
 kvrmxJB = WrVJuRGy_l(-1590804545, y5U5N06B);
@@ -260,7 +260,7 @@ else if (q9_7tu6Ly6 <= ss_z_11w9f)
 {
 if (vgIz9_T == e_s4)
 {
-tVUo = AyawHGr((char)603647081, (unsigned short)-843082265, nZzID, 965372823);
+tVUo = AyawHGr((char)603647081, (unsigned short)-843082265, nZzID, (unsigned short)965372823);
 }
 else if (H1IEG != 2116582946)
 {
@@ -280,7 +280,7 @@ m95fk2y61L = dF8U4_o7((char)-446774954, odNa0C2);
 }
 else
 {
-A5J2H8 = AyawHGr((char)1055577411, -1156942208, Zq7z, vrdeSbR3b);
+A5J2H8 = AyawHGr((char)1055577411, (unsigned short)-1156942208, Zq7z, vrdeSbR3b);
 }
 }
 else if (po_Dw7L < 642256122)
@@ -313,7 +313,7 @@ else if (((t9ml4 < 105374640) && (q9_7tu6Ly6 <= 872686895)) || ((X9R5SaEo_) && (
 {
 try
 {
-p88f = AyawHGr((char)147834776, -153042531, 1284199383, SLXEER);
+p88f = AyawHGr((char)147834776, (unsigned short)-153042531, 1284199383, SLXEER);
 }
 catch (int& errorCode)
 {
@@ -461,7 +461,7 @@ if (ZvA_K)
 {
 if ((rJfW7d9ae) && (x_g4S2s <= OCJQGI9d))
 {
-cout << AyawHGr((char)-1872425044, (unsigned short)-230183886, CX3yB80pu, -1536430929) << RLMrDBAy << "Wu2f5p" << endl;
+cout << AyawHGr((char)-1872425044, (unsigned short)-230183886, CX3yB80pu, (unsigned short)-1536430929) << RLMrDBAy << "Wu2f5p" << endl;
 }
 else if (YtuScpv3y >= -1520415007)
 {
@@ -489,7 +489,7 @@ else if (y5U5N06B >= 1727373908)
 switch (ss_z_11w9f)
 {
 case 0:
-A5J2H8 = AyawHGr(A5J2H8, (unsigned short)1225118673, (char)-346654060, -268014633);
+A5J2H8 = AyawHGr(A5J2H8, (unsigned short)1225118673, (char)-346654060, (unsigned short)-268014633);
 break;
 case 1:
 IYKkwa -= 888677574;
@@ -767,7 +767,7 @@ while (j < 2)
 {
 if (MJk_OKXmi <= 1604859992)
 {
-t__K = AyawHGr((char)383742644, (unsigned short)-1880076879, -915687475, ss_z_11w9f);
+t__K = AyawHGr((char)383742644, (unsigned short)-1880076879, (char)-915687475, ss_z_11w9f);
 }
 else if (dxXsU5h8w0 < -94627618)
 {

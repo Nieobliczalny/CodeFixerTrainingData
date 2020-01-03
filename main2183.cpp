@@ -123,7 +123,7 @@ case 9:
 acoZE3ZZ = WneoBI(Cy5C62R);
 break;
 default:
-bA8MQT = WneoBI(-257322455);
+bA8MQT = WneoBI((short)-257322455);
 break;
 }
 
@@ -380,7 +380,7 @@ else
 {
 for (int j = 0; j < 5; ++j)
 {
-std::cout << QAsZocpB_9 << nPdu2fF_5(a8Xuma, (unsigned short)2129581756, -658290554, C6N6q4x, Cy5C62R) << C6N6q4x << WneoBI(a8Xuma) << nPdu2fF_5(-952348302, (unsigned short)2128473802, Yt853ihYuv, C6N6q4x, -725478263) << std::endl;
+std::cout << QAsZocpB_9 << nPdu2fF_5(a8Xuma, (unsigned short)2129581756, -658290554, C6N6q4x, Cy5C62R) << C6N6q4x << WneoBI(a8Xuma) << nPdu2fF_5(-952348302, (unsigned short)2128473802, Yt853ihYuv, C6N6q4x, (short)-725478263) << std::endl;
 }
 }
 acoZE3ZZ = nPdu2fF_5(xX08E5, uZqe, acoZE3ZZ, 1334975512, -166835638);

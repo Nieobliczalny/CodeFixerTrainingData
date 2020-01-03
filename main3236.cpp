@@ -25,7 +25,7 @@ int main() {
  double RO1XVcAx6 = 1162971719;
  long double XrX1LvtNe = 1593365065;
     unsigned int    aFl7A42    =    1068702662;
- unsigned short int dCg_ = 1263306541;
+ unsigned short int dCg_ = (unsigned short)1263306541;
  unsigned char McGg = 485858165;
     unsigned short    NzS75    =    -161378352;
     unsigned int    Q5BHEk    =    -1619727285;
@@ -35,7 +35,7 @@ int main() {
 	short int	JG35s	=	-1383777144;
   long long  EfZ44  =  2007598279;
  int ch_FfCoGxg = -1857320756;
-    unsigned short int    pXgw    =    -511367774;
+    unsigned short int    pXgw    =    (unsigned short)-511367774;
   double  MS2Tg  =  -471967702;
  unsigned long long aZXZ = 721294560;
 	unsigned long long	Q3N90I	=	-1020761323;
@@ -72,7 +72,7 @@ case 'd':
 DQ3m = PBv8ff5((short)937514223, DQ3m) | JU21_wlqQ;
 break;
 case 'e':
-pXgw = T55R(615438350, -706887178, -593622714);
+pXgw = T55R((short)615438350, -706887178, -593622714);
 break;
 }
 
@@ -320,7 +320,7 @@ XrX1LvtNe = (long double)(dZSY8);
 }
 else
 {
-cout << PBv8ff5((short)-531505118, (char)-2035353057) << "a12Y5NNOa" << T55R(-165626160, tsj_, -1565001379) << PBv8ff5(-1137167913, 810427828) << endl;
+cout << PBv8ff5((short)-531505118, (char)-2035353057) << "a12Y5NNOa" << T55R((short)-165626160, tsj_, -1565001379) << PBv8ff5(-1137167913, 810427828) << endl;
 }
 
 XqRd = (float)(s_Bw);
@@ -337,7 +337,7 @@ do
 {
 try
 {
-Q5BHEk = T55R((short)-112821248, (short)1122838931, -1315061599);
+Q5BHEk = T55R((short)-112821248, (short)1122838931, (char)-1315061599);
 }
 catch (int& errorCode)
 {

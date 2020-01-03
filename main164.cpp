@@ -150,7 +150,7 @@ J202 = o27g35V((unsigned short)2108132872, D6__Co189);
 }
 else
 {
-R52YR = o27g35V(-1446020863, ah5Dz9);
+R52YR = o27g35V((unsigned short)-1446020863, ah5Dz9);
 }
 }
 catch (int& errorCode)
@@ -568,7 +568,7 @@ case 5:
 U5m9NJC0 = qkL9zrl(758625705, YKdb53K);
 break;
 case 6:
-R52YR = o27g35V(591186322, -453502174);
+R52YR = o27g35V((unsigned short)591186322, -453502174);
 break;
 case 7:
 R52YR = o27g35V((unsigned short)-347749054, 1242714395);

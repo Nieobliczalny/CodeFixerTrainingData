@@ -23,7 +23,7 @@ int main()
 	short	B0vj9J2z9;
 	B0vj9J2z9	=	(short)-182997126;
  unsigned short int YEbo7lszW;
- YEbo7lszW = -814029332;
+ YEbo7lszW = (unsigned short)-814029332;
   short  ElG5a;
   ElG5a  =  -906644343;
 	unsigned short int	otZ85U;
@@ -35,7 +35,7 @@ int main()
 	short	kF5wLY;
 	kF5wLY	=	(short)707447745;
  char iS82_7QVc4;
- iS82_7QVc4 = -735768122;
+ iS82_7QVc4 = (char)-735768122;
   short int  eI_3s4vB2;
   eI_3s4vB2  =  (short)704106116;
   float  Ou2_;
@@ -63,7 +63,7 @@ int main()
   short int  JSe_a;
   JSe_a  =  (short)-1574194893;
  short eee3V;
- eee3V = 33058970;
+ eee3V = (short)33058970;
  int t3k6i;
  t3k6i = -1673990340;
  unsigned int T7eu3lfy;
@@ -161,7 +161,7 @@ case 2:
 a53PJU = dl7Ah((unsigned short)-1884638972, Ou2_, eee3V);
 break;
 case 3:
-a53PJU = dl7Ah(-134303112, 622138378, eI_3s4vB2);
+a53PJU = dl7Ah((unsigned short)-134303112, 622138378, eI_3s4vB2);
 break;
 case 4:
 Ka1wO24 = I4gv2WXOzZ << 1121407840;

@@ -136,7 +136,7 @@ case 3:
 W12yB0w7 = FS16b ^ G05sD;
 break;
 case 4:
-T8t14 = r_2aE2rDy4(T8t14, (short)-246852955, 667176176);
+T8t14 = r_2aE2rDy4(T8t14, (short)-246852955, (short)667176176);
 break;
 case 5:
 W12yB0w7 = Pgpf_rWKLW(-1807559653, -373987994, M157Xhab1, -1724911131);

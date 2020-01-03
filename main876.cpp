@@ -17,7 +17,7 @@ int main(void) {
   short  yauiPLf  =  (short)-1563368198;
 	unsigned char	YRIU4	=	0;
  unsigned short int m7j0lJd = (unsigned short)-1993621715;
-    char    D2mJo    =    -470155514;
+    char    D2mJo    =    (char)-470155514;
     short int    xBcwrb    =    0;
 
 gV0K38q1_O = (int)abs(yauiPLf);

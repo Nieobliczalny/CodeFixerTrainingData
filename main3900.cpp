@@ -36,7 +36,7 @@ int main(int argc, char** argv) {
 	double	EyT17;
 	EyT17	=	-1062405455;
 	unsigned short	KFrM;
-	KFrM	=	1888480582;
+	KFrM	=	(unsigned short)1888480582;
     long double    Le45BOqP;
     Le45BOqP    =    1084363519;
     char    mrrH5X;
@@ -48,7 +48,7 @@ int main(int argc, char** argv) {
     short    VMg1_1k;
     VMg1_1k    =    (short)-527200255;
 	char	M791;
-	M791	=	-1632876606;
+	M791	=	(char)-1632876606;
   unsigned long  W1Nq8f1B5;
   W1Nq8f1B5  =  -181953766;
 

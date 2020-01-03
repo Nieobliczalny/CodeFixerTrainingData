@@ -38,7 +38,7 @@ int main() {
   unsigned long  bNenZa  =  21635731;
  unsigned int GoO_c_87 = 1700458223;
 	char	k_85_kqQT6	=	(char)142904291;
-    unsigned short    C11fRLqU6o    =    -1900094338;
+    unsigned short    C11fRLqU6o    =    (unsigned short)-1900094338;
 	int	v8Zpzd3la	=	883612918;
 	unsigned long	M2aV	=	1296339156;
  long long MqpHuCa = -1257502998;

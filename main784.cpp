@@ -64,7 +64,7 @@ int main(void) {
 	short int	r6NmqL78e;
 	r6NmqL78e	=	(short)-553123851;
   short int  P3845E8;
-  P3845E8  =  83840738;
+  P3845E8  =  (short)83840738;
     short    A0F5dIZZz;
     A0F5dIZZz    =    -597396539;
 	int	NR48ekrgO3;
@@ -104,7 +104,7 @@ int main(void) {
     unsigned char    bdZ5i_Y;
     bdZ5i_Y    =    (unsigned char)347123265;
   short  BZjeUYgf26;
-  BZjeUYgf26  =  -1654941399;
+  BZjeUYgf26  =  (short)-1654941399;
 	unsigned short int	x4RiATz;
 	x4RiATz	=	(unsigned short)677738682;
  unsigned short int ZS5k4;
@@ -126,7 +126,7 @@ int main(void) {
   unsigned short  uVu_98394t;
   uVu_98394t  =  (unsigned short)373730932;
 	char	D33n;
-	D33n	=	-1916404160;
+	D33n	=	(char)-1916404160;
 	unsigned char	C9_f5LI;
 	C9_f5LI	=	2105790143;
     double    p_awpk4;
@@ -138,7 +138,7 @@ int main(void) {
 	unsigned short int	w2pg6M;
 	w2pg6M	=	(unsigned short)2059850017;
     char    Z4e6n;
-    Z4e6n    =    1790260952;
+    Z4e6n    =    (char)1790260952;
     int    W0yf;
     W0yf    =    1693407534;
 	unsigned short int	vBS1l3it8G;
@@ -158,7 +158,7 @@ int main(void) {
   unsigned char  ay_Ze;
   ay_Ze  =  (unsigned char)1512071715;
   char  A7_StpuUh;
-  A7_StpuUh  =  -1236657391;
+  A7_StpuUh  =  (char)-1236657391;
 	long long	jD6811qaqq;
 	jD6811qaqq	=	-242764245;
 	unsigned short	nK1H;
@@ -179,7 +179,7 @@ int main(void) {
   I_EFjVz  =  (short)1823814409;
 
 std::cout << cuc8Xyd3fJ << "RlzEz" << bdZ5i_Y << d52CNoarg << "u1sCkiW8h" << std::endl;
-H9m_q4 = u8_V5(2010292691);
+H9m_q4 = u8_V5((unsigned short)2010292691);
 
 {
 int i = 1;
@@ -262,7 +262,7 @@ while (k < 9);
 }
 else if ((O3hL > Zfr_I) || ((K3_zjKQ32o >= Kw_R20oEX) || (bS_9Z9yywx < Zfr_I)))
 {
-ha3FX3 = G3BZ(ha3FX3, nK1H, 186850157, -782260902);
+ha3FX3 = G3BZ(ha3FX3, nK1H, 186850157, (unsigned char)-782260902);
 }
 else if (jL5boT_ < Zfr_I)
 {
@@ -448,7 +448,7 @@ Gf0s7h = w755WAR2();
 break;
 case 'i':
 case 'I':
-uVu_98394t = G3BZ(uVu_98394t, (char)1492416248, -1067360159, -1548693426);
+uVu_98394t = G3BZ(uVu_98394t, (char)1492416248, -1067360159, (unsigned char)-1548693426);
 break;
 case 'j':
 case 'J':
@@ -529,7 +529,7 @@ else if (C4X0 >= K5V2z7ij)
 {
 for (int k = 0; k < 5; ++k)
 {
-Cn4DMt8e1 = jJa3D5BcM((short)1963734464, -1410986624, 1390155526, Gc4JWNFtT7, 1256889824);
+Cn4DMt8e1 = jJa3D5BcM((short)1963734464, -1410986624, (char)1390155526, Gc4JWNFtT7, 1256889824);
 }
 }
 else if (ay_Ze == 1713225913)

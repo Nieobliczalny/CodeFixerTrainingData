@@ -40,7 +40,7 @@ int main(int argc, char** argv)
     long double    nKomE;
     nKomE    =    -54427734;
     char    ehO83pL;
-    ehO83pL    =    54969439;
+    ehO83pL    =    (char)54969439;
  short int UFDR;
  UFDR = 0;
 	int	l8x7v921_2;

@@ -28,7 +28,7 @@ int main(void)
  unsigned short p52_3bH;
  p52_3bH = (unsigned short)-270332982;
   short int  v8vEuUKs_;
-  v8vEuUKs_  =  -1104482563;
+  v8vEuUKs_  =  (short)-1104482563;
 	unsigned int	ym6cOw_VUI;
 	ym6cOw_VUI	=	2075078312;
   unsigned long long  Kufr;
@@ -54,7 +54,7 @@ int main(void)
     unsigned char    Gqy1_786O5;
     Gqy1_786O5    =    (unsigned char)503434503;
 	short	KVZ54lkA3x;
-	KVZ54lkA3x	=	1541258417;
+	KVZ54lkA3x	=	(short)1541258417;
  short s_tv;
  s_tv = -1980934415;
 	int	ITJ3;

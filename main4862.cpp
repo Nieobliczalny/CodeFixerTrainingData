@@ -27,7 +27,7 @@ int main(void)
     short int    EsuAru;
     EsuAru    =    0;
     unsigned char    fmMVd_;
-    fmMVd_    =    28903400;
+    fmMVd_    =    (unsigned char)28903400;
     short int    KZ3pDebxp;
     KZ3pDebxp    =    857004417;
   short  uaDi3E8;
@@ -45,7 +45,7 @@ int main(void)
   unsigned short  KRfX;
   KRfX  =  (unsigned short)-1292261119;
     short    DC9P5T;
-    DC9P5T    =    2145927193;
+    DC9P5T    =    (short)2145927193;
   short  EoBT4a0;
   EoBT4a0  =  (short)321465959;
   unsigned short  sf3tST8Lj;

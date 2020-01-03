@@ -21,7 +21,7 @@ int main()
  short K3jV;
  K3jV = (short)928663442;
   short int  K5_28c933M;
-  K5_28c933M  =  -726628264;
+  K5_28c933M  =  (short)-726628264;
 	char	G5S8JAqa;
 	G5S8JAqa	=	(char)-1852118165;
  unsigned long long UBIE5pebE;
@@ -95,7 +95,7 @@ int main()
 	unsigned int	zlqm91;
 	zlqm91	=	502013351;
     char    r_zFCZB8;
-    r_zFCZB8    =    1013407499;
+    r_zFCZB8    =    (char)1013407499;
 	double	v_hJLHYs;
 	v_hJLHYs	=	-159615859;
     long long    fu8a;

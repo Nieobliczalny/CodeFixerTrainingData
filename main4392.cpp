@@ -22,7 +22,7 @@ unsigned short int    EGGn42()    {
 }
 
 unsigned short	iYmIOs4z(int	brB0,char	cnEaUP)	{
-	return	-1801010633;
+	return	(unsigned short)-1801010633;
 }
 
 long long j6MqJd8U(unsigned char FqYa6VV8C,int X6K9b) {
@@ -37,7 +37,7 @@ int main()
 	unsigned int	Z_d6fS9RT	=	0;
 	long double	VhKH2M	=	1363392040;
  unsigned long oNT2d608 = 2009224704;
-    char    R5_G    =    1971210528;
+    char    R5_G    =    (char)1971210528;
 	long double	ge7pvXl3	=	-1240724087;
  unsigned int WMAz68x = 0;
     double    F1mkIW    =    1819162894;

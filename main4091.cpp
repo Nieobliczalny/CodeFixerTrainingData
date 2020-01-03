@@ -73,7 +73,7 @@ int main(void)
 	short	f5Z7W;
 	f5Z7W	=	(short)-821137669;
 	unsigned char	PkdYh;
-	PkdYh	=	1388269636;
+	PkdYh	=	(unsigned char)1388269636;
     unsigned char    Y5h3D1Uy;
     Y5h3D1Uy    =    -1828306861;
 
@@ -111,7 +111,7 @@ case 'b':
 i_5H7jb = Gg23(bga4mSSXJ, (short)-424215719, PkdYh, f5690jKMHE);
 break;
 case 'c':
-i_5H7jb = Gg23((short)1215992509, r4dB9s, o1_6, 897843308);
+i_5H7jb = Gg23((short)1215992509, r4dB9s, o1_6, (char)897843308);
 break;
 case 'd':
 nVQ26CH46s %= ycul;
@@ -147,7 +147,7 @@ gwTOC752w = YQxrjrk2Pb(1285937741, f5690jKMHE, F33FoXEg, OPYF_, (char)490885746)
 }
 else if (r4dB9s)
 {
-i_5H7jb = Gg23((short)-1030277304, -208463334, Q6OBCiNouf, r4dB9s);
+i_5H7jb = Gg23((short)-1030277304, (short)-208463334, Q6OBCiNouf, r4dB9s);
 }
 else if (((f5Z7W > -557440314) && (r4dB9s <= 1461073927)) && (MGl3s_yI32 != Y5h3D1Uy))
 {
@@ -301,7 +301,7 @@ if (((o1_6 >= B8REBl4X3) || (MGl3s_yI32 == XTZr)) || ((UU6q6o9 < XTZr) || (f5690
 {
 try
 {
-f5690jKMHE = Gg23((short)430902828, (short)1791246648, i_5H7jb, -2102921009) * UU6q6o9;
+f5690jKMHE = Gg23((short)430902828, (short)1791246648, i_5H7jb, (char)-2102921009) * UU6q6o9;
 }
 catch (int& errorCode)
 {
@@ -351,7 +351,7 @@ WKK5SBc05I = (int)ceil(WQ_f);
 break;
 }
 ycul = nVQ26CH46s << PkdYh;
-o1_6 = YQxrjrk2Pb(-1243808985, 1488056998, WQ_f, gwTOC752w, bga4mSSXJ) / Gg23(1501126453, OPYF_, 1160429284, 967881591);
+o1_6 = YQxrjrk2Pb(-1243808985, (short)1488056998, WQ_f, gwTOC752w, bga4mSSXJ) / Gg23(1501126453, OPYF_, 1160429284, 967881591);
 std::cout << nVQ26CH46s << u5C_(LykULIWf, OPYF_, 807998929) << std::endl;
 try
 {
@@ -440,7 +440,7 @@ catch (int& errorCode)
 MGl3s_yI32 = (int)floor(r4dB9s);
 }
 
-std::cout << Gg23((short)498755057, AWVX2, LykULIWf, 1003686215) << WQ_f << AWVX2 << std::endl;
+std::cout << Gg23((short)498755057, AWVX2, LykULIWf, (char)1003686215) << WQ_f << AWVX2 << std::endl;
 
 if (PkdYh > B8REBl4X3)
 {
@@ -450,7 +450,7 @@ else
 {
 for (int j = 6; j >= 0; j--)
 {
-std::cout << Gg23((short)1487446453, (short)929253663, -1046843818, 879098053) << gwTOC752w << "x_fKW" << std::endl;
+std::cout << Gg23((short)1487446453, (short)929253663, -1046843818, (char)879098053) << gwTOC752w << "x_fKW" << std::endl;
 }
 }
 
@@ -487,7 +487,7 @@ while (j >= 0)
 {
 for (int k = 0; k < 7; k++)
 {
-i_5H7jb = Gg23(Y5h3D1Uy, w4QrmY, 932900644, -348463537);
+i_5H7jb = Gg23(Y5h3D1Uy, w4QrmY, 932900644, (char)-348463537);
 }
 j--;
 }

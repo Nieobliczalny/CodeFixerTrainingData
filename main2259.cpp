@@ -81,7 +81,7 @@ do
 int k = 0;
 do
 {
-qFi_TXTip = q4GpJP((short)1031903178, (short)-873052702, 1365618592, -325247340);
+qFi_TXTip = q4GpJP((short)1031903178, (short)-873052702, 1365618592, (short)-325247340);
 k++;
 }
 while (k < 7);
@@ -235,7 +235,7 @@ i--;
 }
 }
 
-Rd_Ec_u3_i = q4GpJP(-713900068, h1xC1R, M50e, g5E9Sp);
+Rd_Ec_u3_i = q4GpJP((short)-713900068, h1xC1R, M50e, g5E9Sp);
 
 try
 {

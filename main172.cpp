@@ -23,7 +23,7 @@ int main(void)
   unsigned char  Mix4F7;
   Mix4F7  =  (unsigned char)-85714678;
   unsigned short  c03H;
-  c03H  =  -1113034296;
+  c03H  =  (unsigned short)-1113034296;
     unsigned short    Z841GizH_;
     Z841GizH_    =    (unsigned short)2141640686;
   long double  f4m0B;
@@ -55,7 +55,7 @@ int main(void)
  short int ph7_kn;
  ph7_kn = (short)-433237524;
     unsigned short int    nVgza7Xn;
-    nVgza7Xn    =    -688525599;
+    nVgza7Xn    =    (unsigned short)-688525599;
     float    V0AyE;
     V0AyE    =    -145722797;
 	short int	l9VPD5c;
@@ -75,7 +75,7 @@ int main(void)
  unsigned short int DiCBf6Laot;
  DiCBf6Laot = (unsigned short)-1368081183;
  short PBEZ;
- PBEZ = -266212354;
+ PBEZ = (short)-266212354;
     short    TkyLa0VmU2;
     TkyLa0VmU2    =    -479887914;
     unsigned int    WSdrCdD00;

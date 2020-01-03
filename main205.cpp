@@ -62,7 +62,7 @@ MfzYtsNnfw = IczK4f(MfzYtsNnfw);
 YzHHr = (double)(DlP0uWVq);
 PmG9JydI = QM_o(PmG9JydI, oNB5Y0U_);
 
-std::cout << C5Nqe9q(PmG9JydI, (short)1930577150, 1032605121, -1230833458) << C5Nqe9q((unsigned short)-883506466, 479894310, YzHHr, y0z64v_0) << C9U85s6M4Z << "NZ94j5y65w" << std::endl;
+std::cout << C5Nqe9q(PmG9JydI, (short)1930577150, 1032605121, -1230833458) << C5Nqe9q((unsigned short)-883506466, (short)479894310, YzHHr, y0z64v_0) << C9U85s6M4Z << "NZ94j5y65w" << std::endl;
 D6dYZacuNT = QM_o(-770345255, -1402405471);
 
 if (L3RRY_zH0 == -1271971767)

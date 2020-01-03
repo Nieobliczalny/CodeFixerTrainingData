@@ -31,7 +31,7 @@ int main(void)
     unsigned short    kZKqh9J_fw;
     kZKqh9J_fw    =    (unsigned short)1846960087;
 	unsigned short	I4sN;
-	I4sN	=	607882667;
+	I4sN	=	(unsigned short)607882667;
 	short int	Z6_s;
 	Z6_s	=	(short)790271694;
     float    aPF5G;

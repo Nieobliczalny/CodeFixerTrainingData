@@ -96,7 +96,7 @@ case 'b':
 c6HQ_4_o = czKi8_La2W((unsigned short)-1571768666, Y9tzns, 1274286464, nA99_6ztP, (unsigned short)1042121938);
 break;
 default:
-LOAT7 = CoAoe6U21O(LOAT7, 2008807672);
+LOAT7 = CoAoe6U21O(LOAT7, (unsigned short)2008807672);
 break;
 }
 cout << QX3YNi(LOAT7) / czKi8_La2W(945031264, L81DFsX4, 834228272, i3dtOGD, RU5ck1_F) << endl;
@@ -176,7 +176,7 @@ case 6:
 bCI_ = G2KDC7(-801912666, (unsigned char)-29674307, (short)1284864008, nE6ae_WHG);
 break;
 case 7:
-fm6L = CoAoe6U21O(bCI_, -1919567920) << 1701779479;
+fm6L = CoAoe6U21O(bCI_, (unsigned short)-1919567920) << 1701779479;
 break;
 case 8:
 S0FrwQFH = G2KDC7(S0FrwQFH, -718377257, treSJZP7mN, Yk90);
@@ -221,7 +221,7 @@ if (UZlOm_ > uGQ25G8Lc)
 int j = 5;
 do
 {
-cout << G2KDC7(-2067594350, (unsigned char)707814398, -1900462457, nKIIq4) << L81DFsX4 << endl;
+cout << G2KDC7(-2067594350, (unsigned char)707814398, (short)-1900462457, nKIIq4) << L81DFsX4 << endl;
 --j;
 }
 while (j >= 0);
@@ -344,7 +344,7 @@ k_P6e8_dH = GypNGiUCvy(679660291, D3EUNw8M_U, (unsigned short)159935519);
 }
 else if (Gy1812 >= -687886317)
 {
-cout << CoAoe6U21O(-2057396484, (unsigned short)-1723804113) << "eD4u_0" << Gy1812 << GypNGiUCvy(k_P6e8_dH, -228894667, -1781478269) << endl;
+cout << CoAoe6U21O(-2057396484, (unsigned short)-1723804113) << "eD4u_0" << Gy1812 << GypNGiUCvy(k_P6e8_dH, -228894667, (unsigned short)-1781478269) << endl;
 }
 else
 {

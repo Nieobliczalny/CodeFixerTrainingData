@@ -78,7 +78,7 @@ case 1:
 w54ix3inE = L13F(w54ix3inE, (short)-624125768);
 break;
 case 2:
-WPoip355 = G6S6IP6B3y(-1294136810, EevIXd, jM6p74, X9YNb0L3, 1404078350);
+WPoip355 = G6S6IP6B3y((unsigned char)-1294136810, EevIXd, jM6p74, X9YNb0L3, 1404078350);
 break;
 case 3:
 WPoip355 ^= 139445613;
@@ -93,7 +93,7 @@ case 6:
 aH6j = clBq + 967215999;
 break;
 default:
-WetMG499 = G6S6IP6B3y((unsigned char)191142410, csrB38, EHlHT7, 221648436, 1835728778);
+WetMG499 = G6S6IP6B3y((unsigned char)191142410, csrB38, EHlHT7, (unsigned char)221648436, 1835728778);
 break;
 }
 }
@@ -122,7 +122,7 @@ X2DN = G6S6IP6B3y((unsigned char)944583903, ZTGvTO, Uxm_E, (unsigned char)-12330
 break;
 case 'b':
 case 'B':
-WPoip355 = L13F(-2051189821, F4BRe);
+WPoip355 = L13F((short)-2051189821, F4BRe);
 break;
 case 'c':
 case 'C':
@@ -192,7 +192,7 @@ else
 {
 if (o9v01b)
 {
-WetMG499 = L13F(WetMG499, -407166080);
+WetMG499 = L13F(WetMG499, (short)-407166080);
 }
 else
 {

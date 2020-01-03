@@ -28,7 +28,7 @@ int	cZ51Ykg6(unsigned short int	d43W,unsigned long long	P9H32W0t,unsigned long	v
 int main(void)
 {
     long    xHJ88U4yH    =    0;
- short int Ah9F_Hv3 = (short)707678527, Ie6IT_z = (short)853036019, CNn9i = 734356983, UC22vFrrR = 2023483575, w41u3h36_ = 1949160890, wt489g = -707675947;
+ short int Ah9F_Hv3 = (short)707678527, Ie6IT_z = (short)853036019, CNn9i = (short)734356983, UC22vFrrR = 2023483575, w41u3h36_ = 1949160890, wt489g = -707675947;
 
 std::cout << xHJ88U4yH << std::endl;
 if (CNn9i != w41u3h36_)
@@ -73,7 +73,7 @@ case 5:
 wt489g = oOy6805((unsigned short)1899133646);
 break;
 case 6:
-xHJ88U4yH = cZ51Ykg6(730817851, 906044739, 1115125535);
+xHJ88U4yH = cZ51Ykg6((unsigned short)730817851, 906044739, 1115125535);
 break;
 case 7:
 w41u3h36_ = (int)abs(xHJ88U4yH) + (-824609917);
@@ -153,7 +153,7 @@ Ie6IT_z = n44YJ((unsigned short)-1468904410, (unsigned short)-1614858825, w41u3h
 }
 else if ((xHJ88U4yH != 1570961418) || (UC22vFrrR != 308710145))
 {
-std::cout << oOy6805(-750668221) << Ie6IT_z << std::endl;
+std::cout << oOy6805((unsigned short)-750668221) << Ie6IT_z << std::endl;
 }
 else
 {
@@ -503,7 +503,7 @@ case 'e':
 Ah9F_Hv3 = (int)abs(CNn9i);
 break;
 case 'f':
-CNn9i = oOy6805(-1744893588);
+CNn9i = oOy6805((unsigned short)-1744893588);
 break;
 }
 }
@@ -569,7 +569,7 @@ do
 {
 for (int k = 1; k >= 0; --k)
 {
-wt489g = n44YJ((unsigned short)-1888621599, (unsigned short)-1789311459, 2044811752, Ah9F_Hv3);
+wt489g = n44YJ((unsigned short)-1888621599, (unsigned short)-1789311459, (short)2044811752, Ah9F_Hv3);
 }
 j--;
 }

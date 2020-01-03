@@ -23,7 +23,7 @@ int main() {
   unsigned short  AR_0  =  (unsigned short)-1592416901;
  unsigned char Qh5TibG = (unsigned char)2078859971;
     double    GWiWz_EP4    =    -1300716736;
-	short	M29F5bF30	=	-857634367;
+	short	M29F5bF30	=	(short)-857634367;
     long    T_gRH    =    0;
 	char	U9ZGaK2kd	=	-1350384965;
     unsigned char    d56ZBx06    =    1164844957;
@@ -127,7 +127,7 @@ case 3:
 urh3Y06i = C8le2e8f(1287376188, (unsigned char)-633629653, 889495683, -398221416, u7622Rh);
 break;
 case 4:
-bar2 = C8le2e8f(bar2, 1128088583, 690131749, d9bOoG5k, GWiWz_EP4);
+bar2 = C8le2e8f(bar2, (unsigned char)1128088583, 690131749, d9bOoG5k, GWiWz_EP4);
 break;
 case 5:
 bar2 = C8le2e8f(393760995, QAhq9x4R, z80mE_O1i, k0Fmy56lm, ShO03M85AE);

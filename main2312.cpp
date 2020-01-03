@@ -41,7 +41,7 @@ int main()
   unsigned short  v43YE;
   v43YE  =  (unsigned short)-1217482185;
  unsigned short kAz2;
- kAz2 = -1762263954;
+ kAz2 = (unsigned short)-1762263954;
     unsigned short    hP8O1;
     hP8O1    =    (unsigned short)1611926940;
  unsigned long vjrb3;
@@ -59,7 +59,7 @@ int main()
     unsigned int    B8qeRJ1;
     B8qeRJ1    =    -893925295;
 	char	Z4c0X_7k;
-	Z4c0X_7k	=	-596703049;
+	Z4c0X_7k	=	(char)-596703049;
  double GQEi7;
  GQEi7 = -275479224;
  char Pe45Ox5;
@@ -69,7 +69,7 @@ int main()
   unsigned int  Xi76;
   Xi76  =  975599873;
 	unsigned char	F6yG;
-	F6yG	=	-191979496;
+	F6yG	=	(unsigned char)-191979496;
     long long    FQTAuJRI;
     FQTAuJRI    =    420493002;
  int YioU1LvP8;
@@ -83,7 +83,7 @@ int main()
     long long    Hi8S_xbJv;
     Hi8S_xbJv    =    1753826370;
  char F4nOScSNV;
- F4nOScSNV = -1481222698;
+ F4nOScSNV = (char)-1481222698;
     char    e4Do948;
     e4Do948    =    (char)-711758982;
 	int	YI_241U0t;
@@ -136,7 +136,7 @@ case 1:
 vjrb3 = K1T3eC9((char)1812982970, CuHiiY2I6A, 1463508700, 72243074);
 break;
 case 2:
-YI_241U0t = K1T3eC9((char)1835405940, 281458316, dG_7, 1831077208);
+YI_241U0t = K1T3eC9((char)1835405940, (unsigned short)281458316, dG_7, 1831077208);
 break;
 case 3:
 YI_241U0t = K1T3eC9(Pe45Ox5, -1934259030, 381862570, 1176760631);

@@ -23,7 +23,7 @@ int main()
   unsigned char  jH05U5v6  =  0;
 	char	VEc2X0	=	(char)339990522,	oQnd	=	(char)-1277328441;
 
-VEc2X0 = GQGSr(464035625, oQnd, 158056302, -1722482956, -2096238978);
+VEc2X0 = GQGSr(464035625, oQnd, (short)158056302, -1722482956, -2096238978);
 
 switch (oQnd)
 {
@@ -52,7 +52,7 @@ VEc2X0 = (int)abs(oQnd);
 }
 else
 {
-VEc2X0 = GQGSr(1701518911, (short)-1932055463, (short)311264514, 459766954, 1168578738);
+VEc2X0 = GQGSr(1701518911, (short)-1932055463, (short)311264514, (char)459766954, 1168578738);
 }
 }
 while (i < 8);
@@ -64,7 +64,7 @@ case 0:
 jH05U5v6 = YN_84(587045103, 1314598885, 738987989, 1447142817);
 break;
 case 1:
-oQnd = GQGSr(jH05U5v6, (short)-284155103, oQnd, (char)-165400222, -639606825) % VEc2X0;
+oQnd = GQGSr(jH05U5v6, (short)-284155103, oQnd, (char)-165400222, (char)-639606825) % VEc2X0;
 break;
 case 2:
 oQnd = GQGSr(oQnd, VEc2X0, 1063830998, 545659044, -927207300);
@@ -207,7 +207,7 @@ do
 j--;
 try
 {
-VEc2X0 = GQGSr(-1537188607, (short)-111120274, (short)1811260601, 1894295000, -1896099175);
+VEc2X0 = GQGSr(-1537188607, (short)-111120274, (short)1811260601, (char)1894295000, -1896099175);
 }
 catch (int& errorCode)
 {
@@ -284,7 +284,7 @@ case 2:
 oQnd /= jH05U5v6;
 break;
 case 3:
-jH05U5v6 = YN_84(1441551613, 1487727959, oQnd, 659135490);
+jH05U5v6 = YN_84(1441551613, (unsigned short)1487727959, oQnd, 659135490);
 break;
 case 4:
 VEc2X0 = jH05U5v6 >> oQnd;
@@ -364,7 +364,7 @@ for (int j = 0; j < 3; j++)
 {
 if ((VEc2X0 == 788401831) || (oQnd < 207643927))
 {
-VEc2X0 = GQGSr(oQnd, jH05U5v6, (short)1742059421, (char)708965912, 1821635417) * 930142750;
+VEc2X0 = GQGSr(oQnd, jH05U5v6, (short)1742059421, (char)708965912, (char)1821635417) * 930142750;
 }
 else if (jH05U5v6 >= VEc2X0)
 {
@@ -384,7 +384,7 @@ VEc2X0 = kW_vy9W();
 }
 else
 {
-VEc2X0 = GQGSr(1812221543, (short)54700149, oQnd, (char)-1500429616, -1653234064);
+VEc2X0 = GQGSr(1812221543, (short)54700149, oQnd, (char)-1500429616, (char)-1653234064);
 }
 }
 }
@@ -430,7 +430,7 @@ VEc2X0 = T5sDtH((unsigned short)-389659546, oQnd, (unsigned short)-1089280538);
 switch (jH05U5v6)
 {
 case 'a':
-jH05U5v6 = YN_84(oQnd, 1993312946, -1689557249, 2108987517);
+jH05U5v6 = YN_84(oQnd, (unsigned short)1993312946, -1689557249, 2108987517);
 break;
 case 'b':
 VEc2X0 = HvY4(-715761899) * VEc2X0;

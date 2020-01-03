@@ -34,7 +34,7 @@ int main(void)
   long double  Uv_8b;
   Uv_8b  =  -797880155;
 	unsigned short int	a03Z3zfm;
-	a03Z3zfm	=	1561771639;
+	a03Z3zfm	=	(unsigned short)1561771639;
  unsigned int S6Vz;
  S6Vz = -116062862;
  long u_4_j8P0;

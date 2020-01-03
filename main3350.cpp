@@ -38,7 +38,7 @@ xBbW2 = E3Syl(N68u0H52K7, jV1pZ1, (unsigned short)-1119288191, (unsigned short)2
 switch (i63U)
 {
 case 0:
-MTg_r_V8C = E3Syl(-224783403, -648634353, -766819718, yFyh7a, -1412511185);
+MTg_r_V8C = E3Syl((short)-224783403, -648634353, -766819718, yFyh7a, -1412511185);
 break;
 case 1:
 zp4X_u = (int)floor(NGA605);
@@ -75,7 +75,7 @@ else if (((pH55bFrs < hml96d2) || (oV_7rnS9_v >= 1144894689)) || (g4WHG > hml96d
 int j = 4;
 while (j >= 0)
 {
-cout << "HQ6PsnxV" << "Qul16A" << E3Syl((short)688629814, WJvp02, rhCS3, (unsigned short)395903019, 224384204) << endl;
+cout << "HQ6PsnxV" << "Qul16A" << E3Syl((short)688629814, WJvp02, rhCS3, (unsigned short)395903019, (unsigned short)224384204) << endl;
 j--;
 }
 }
@@ -93,7 +93,7 @@ int k = 9;
 while (k >= 0)
 {
 --k;
-txz_04PQ5 = E3Syl((short)-1069491656, 2035279066, (unsigned short)-449277701, pu85TI4Y, 1470901795);
+txz_04PQ5 = E3Syl((short)-1069491656, 2035279066, (unsigned short)-449277701, pu85TI4Y, (unsigned short)1470901795);
 }
 }
 }
@@ -206,7 +206,7 @@ while (k >= 0);
 }
 else
 {
-xBbW2 = E3Syl((short)-2071466828, 1129739648, -172480466, 2138685934, YH_7);
+xBbW2 = E3Syl((short)-2071466828, 1129739648, (unsigned short)-172480466, 2138685934, YH_7);
 }
 
 {
@@ -230,7 +230,7 @@ gIo5g4_4f = (int)floor(rhCS3);
 iN9iE8_d6B = (float)(hml96d2 + (481965503));
 
 zD7T0i2i6z = (float)(aGpvQ);
-cout << E3Syl(oSPBd, -1143202946, tLu1TOb0, (unsigned short)-421983996, YH_7) << E3Syl((short)-1394814252, -419668350, tLu1TOb0, kjupMGr, -933787506) << endl;
+cout << E3Syl(oSPBd, -1143202946, tLu1TOb0, (unsigned short)-421983996, YH_7) << E3Syl((short)-1394814252, -419668350, tLu1TOb0, kjupMGr, (unsigned short)-933787506) << endl;
 switch (xBbW2)
 {
 case 0:
@@ -240,7 +240,7 @@ case 1:
 txz_04PQ5 = E3Syl(-1154286857, Hr3d, -2022930757, u_N3Czv, 1965988143);
 break;
 case 2:
-MTg_r_V8C = E3Syl((short)221383471, -758105773, (unsigned short)-361824484, 1983957971, cm42yhPH);
+MTg_r_V8C = E3Syl((short)221383471, -758105773, (unsigned short)-361824484, (unsigned short)1983957971, cm42yhPH);
 break;
 case 3:
 DO13 = (int)abs(yFyh7a);
@@ -255,7 +255,7 @@ case 6:
 tLu1TOb0 = oSPBd - n323w;
 break;
 case 7:
-MTg_r_V8C = E3Syl(cc2u2iWCmw, -666542493, (unsigned short)1465817015, (unsigned short)-577379246, -2087762158);
+MTg_r_V8C = E3Syl(cc2u2iWCmw, -666542493, (unsigned short)1465817015, (unsigned short)-577379246, (unsigned short)-2087762158);
 break;
 case 8:
 txz_04PQ5 = E3Syl(1470866625, ykTmojk99, m2ck400G, wuozc_3S7, 696146700);
@@ -295,7 +295,7 @@ case 3:
 txz_04PQ5 = E3Syl(pXFGe_u, jxy_9, JMuz4, QVB8M_G45w, txz_04PQ5);
 break;
 case 4:
-xBbW2 = E3Syl((short)1407395696, q1RYr32hIU, 953180795, yFyh7a, 996672216);
+xBbW2 = E3Syl((short)1407395696, q1RYr32hIU, (unsigned short)953180795, yFyh7a, 996672216);
 break;
 case 5:
 g4WHG = (int)ceil(B0vqsZ);

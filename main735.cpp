@@ -45,7 +45,7 @@ int main(void)
     short int    cezAd    =    (short)-35323444;
     unsigned long long    KkJZAFX    =    0;
 	unsigned long long	KhNdnPz	=	-1919764367;
-	unsigned short	u57OV21	=	677208447;
+	unsigned short	u57OV21	=	(unsigned short)677208447;
     unsigned char    P_X5Bx5gQf    =    -2008395872;
  short KH69Y = -1634396551;
   unsigned char  s1IIcevy  =  -367597064;
@@ -56,7 +56,7 @@ int main(void)
     unsigned int    p4yci    =    -377454722;
  unsigned int giufE2y46 = 524576164;
     short    d1tQ_U663k    =    (short)-1249084486;
- unsigned short int wRD0vsv_y = 895133754;
+ unsigned short int wRD0vsv_y = (unsigned short)895133754;
 	long double	R_Mi4	=	-773856255;
 	int	HgYGZ	=	-1248871605;
     short    Uw5B    =    -219535193;
@@ -67,7 +67,7 @@ int main(void)
 	unsigned long long	Pb8qT4	=	-1511971283;
  unsigned char z1qKd43R = (unsigned char)-795156430;
  float y2qbTg = -1663679912;
-  short  FRDg  =  -1097052309;
+  short  FRDg  =  (short)-1097052309;
  unsigned int ywW35F55SM = -2123740764;
   double  bu250  =  478452218;
     unsigned long    PYn3u8P    =    1131150373;
@@ -79,7 +79,7 @@ int main(void)
     long long    z99u33XS    =    -1613602213;
  unsigned short qGm2 = (unsigned short)-798325789;
   short  sYqWTI  =  0;
-  unsigned char  E5oui4oQH  =  831083923;
+  unsigned char  E5oui4oQH  =  (unsigned char)831083923;
 	unsigned long long	lVyk3p44	=	2147290624;
  unsigned short int Y1b4k4CAgr = (unsigned short)1676598358;
   long double  d6n1d8d7O3  =  -183814369;
@@ -89,7 +89,7 @@ int main(void)
  unsigned long m_BAMG = -917068400;
  short int ehlqV0W = (short)-1684305066;
  unsigned short int fUN_1_J6e = 1828176773;
-  short int  q_R2  =  1584757739;
+  short int  q_R2  =  (short)1584757739;
  double nsOkn16i_k = 500941247;
  long double t2m_0Oxj = -450028029;
   float  R3vG  =  -2047058920;
@@ -103,7 +103,7 @@ int main(void)
   long long  PJGM5K  =  748303814;
   unsigned int  i9wwk_F  =  -334577205;
 	int	hwr2	=	-167987201;
- unsigned short int M0Fx = -330149393;
+ unsigned short int M0Fx = (unsigned short)-330149393;
   short int  EAZz60Vg  =  (short)1505060584;
   short  S_Hb1M  =  -547489554;
     short int    WbT23rZR    =    -833202332;

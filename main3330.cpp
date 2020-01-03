@@ -34,7 +34,7 @@ int main() {
 	short int	EcxSOB;
 	EcxSOB	=	(short)792087753;
  unsigned char w_u8p0Ht7x;
- w_u8p0Ht7x = -1687575223;
+ w_u8p0Ht7x = (unsigned char)-1687575223;
  unsigned short Sb17pPwE8;
  Sb17pPwE8 = -594440030;
 	char	j91BnRj;
@@ -52,7 +52,7 @@ int main() {
   unsigned long long  rCoIvKdB;
   rCoIvKdB  =  509182021;
 	short int	jfA8U;
-	jfA8U	=	-1005924609;
+	jfA8U	=	(short)-1005924609;
     long long    HQ34;
     HQ34    =    0;
   unsigned int  DWUc7zt5;
@@ -72,7 +72,7 @@ int main() {
 
 j91BnRj = ENpEs7v5();
 
-std::cout << "g66G" << M5UJ_zSv << s77Gfgi(-337911812, (short)749045726, 1813964883, -184926268) << DWUc7zt5 << std::endl;
+std::cout << "g66G" << M5UJ_zSv << s77Gfgi(-337911812, (short)749045726, (unsigned short)1813964883, -184926268) << DWUc7zt5 << std::endl;
 
 if (S9AFj_4ZK5 <= DWUc7zt5)
 {
@@ -115,7 +115,7 @@ j++;
 switch (w_u8p0Ht7x)
 {
 case 0:
-j91BnRj = (gT990r <= 1382712776) ? s77Gfgi(-1590781042, (short)-34090165, (unsigned short)616943829, 1388912866) : mM1_;
+j91BnRj = (gT990r <= 1382712776) ? s77Gfgi(-1590781042, (short)-34090165, (unsigned short)616943829, (short)1388912866) : mM1_;
 break;
 case 1:
 gT990r = (int)abs(M5UJ_zSv) * 0;
@@ -196,7 +196,7 @@ Sb17pPwE8 = p10s7d((char)-202432315);
 break;
 }
 rCoIvKdB = (unsigned long long)(M5UJ_zSv);
-j91BnRj = p10s7d(1090527113);
+j91BnRj = p10s7d((char)1090527113);
 
 return 0;
 }

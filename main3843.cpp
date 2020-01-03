@@ -38,7 +38,7 @@ int main(void)
  float k23QOGrAa;
  k23QOGrAa = 1109739302;
   short  u9V9x;
-  u9V9x  =  -1938077730;
+  u9V9x  =  (short)-1938077730;
 	long long	TdNv2DZ9r;
 	TdNv2DZ9r	=	868438123;
   int  eoy7CRLYYT;
@@ -84,7 +84,7 @@ int main(void)
     long    q_6o_b;
     q_6o_b    =    0;
  unsigned char Fsesd9tj;
- Fsesd9tj = -937225307;
+ Fsesd9tj = (unsigned char)-937225307;
   unsigned long long  O5RFXY;
   O5RFXY  =  576004167;
 

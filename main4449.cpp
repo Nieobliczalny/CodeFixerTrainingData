@@ -313,7 +313,7 @@ wXfd852wb = Cdbnf();
 break;
 case 'c':
 case 'C':
-YczLRmO = HFPZ(nAmB, 570262951, TCwf8pXVVz);
+YczLRmO = HFPZ(nAmB, (char)570262951, TCwf8pXVVz);
 break;
 case 'd':
 case 'D':
@@ -374,7 +374,7 @@ LmTk = (int)abs(YczLRmO);
 break;
 }
 
-cout << "u71xOJ_" << TeW5K43820((unsigned short)51278441) << "AdeHji_fGz" << HSI8rvJ4((unsigned short)-2064069050, 1232996925) << "xd3_rcg9_S" << endl;
+cout << "u71xOJ_" << TeW5K43820((unsigned short)51278441) << "AdeHji_fGz" << HSI8rvJ4((unsigned short)-2064069050, (unsigned short)1232996925) << "xd3_rcg9_S" << endl;
 
 M7b32W2 = (unsigned short)(PMIq3A);
 YczLRmO = (int)abs(E_W6hfi);
@@ -426,7 +426,7 @@ case 5:
 H1lS6mv = TeW5K43820((unsigned short)-1172794045);
 break;
 case 6:
-YczLRmO = HFPZ(r21DbUw2, -42471616, -1435274066);
+YczLRmO = HFPZ(r21DbUw2, (char)-42471616, -1435274066);
 break;
 case 7:
 W3J61QX6 >>= VZvq_vJ2;

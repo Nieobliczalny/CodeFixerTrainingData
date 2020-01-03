@@ -24,7 +24,7 @@ int main(int argc, char** argv) {
   short int  U4_i6  =  (short)-817791311;
     short    x1E1    =    (short)2089525339;
 	long double	Nc9K	=	1210355216;
- short F_465 = 939920631;
+ short F_465 = (short)939920631;
  long long KF_NRA = -53409632;
   long double  tCH3c_8CzG  =  -1862511205;
   long  V8AHAXal_1  =  -49062198;
@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
 	unsigned long long	Bxr_FYW	=	167833258;
 	unsigned int	XfYj_	=	-510465408;
  short j94Dx = (short)-1841813696;
-	unsigned short	sLX1PI	=	894177090;
+	unsigned short	sLX1PI	=	(unsigned short)894177090;
 	long long	pLjK75_650	=	1081907647;
 	float	gE9U	=	-883109717;
 	double	I3ZTc_	=	343732097;
@@ -52,7 +52,7 @@ int main(int argc, char** argv) {
 	unsigned short int	El59L1zkr	=	(unsigned short)-278591303;
   unsigned long long  D9CaY  =  -963093561;
 	unsigned long long	n6_QZsmvVY	=	-1859061673;
- unsigned char fuoQ = -1283305551;
+ unsigned char fuoQ = (unsigned char)-1283305551;
     unsigned short    DV1Km    =    838144283;
   double  Lj6_o39Oj  =  312816349;
 	unsigned char	X649n_5	=	530806027;
@@ -71,7 +71,7 @@ int main(int argc, char** argv) {
 	double	hCJ26lvEq	=	2131870934;
  unsigned char KyQ00qTpl2 = (unsigned char)-945193916;
 	unsigned char	U14Y	=	(unsigned char)-1048144345;
-  short int  sXt7kcr88D  =  -1436282931;
+  short int  sXt7kcr88D  =  (short)-1436282931;
     double    hg3Wc9Eu2C    =    -65186287;
 	unsigned char	QIPU1x5U	=	823675149;
  short e7nBHhjs8 = 1694586294;
@@ -84,7 +84,7 @@ int main(int argc, char** argv) {
   unsigned long  D2ZKXg78R  =  1987019819;
  long double mgWx262Y2 = 729303558;
     char    aE_2DeL38    =    (char)-586992482;
- unsigned short LGkmN5av = -38445811;
+ unsigned short LGkmN5av = (unsigned short)-38445811;
   int  M7QP7B4di4  =  -31303491;
     unsigned long    tFE8uB    =    -169552061;
  unsigned char c0cir4 = 1100775246;
@@ -99,7 +99,7 @@ if (pLjK75_650 != KF_NRA)
 {
 if (GTCwh > sl84O6m_U1)
 {
-uwTKtu = Y5jy(-914333114);
+uwTKtu = Y5jy((char)-914333114);
 }
 }
 else

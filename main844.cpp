@@ -119,7 +119,7 @@ try
 {
 if (XLEQO >= 1684587176)
 {
-cout << "P6iAk6IV8" << wR1EA6vv2((unsigned short)-2048285221, a7RY91) << D6n0AOD(478244708, a7RY91, -577314487, 2029835436, -564557369) << endl;
+cout << "P6iAk6IV8" << wR1EA6vv2((unsigned short)-2048285221, a7RY91) << D6n0AOD((short)478244708, a7RY91, -577314487, 2029835436, -564557369) << endl;
 }
 else
 {

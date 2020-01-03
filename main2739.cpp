@@ -207,7 +207,7 @@ case 5:
 fIzqmqN_P7 = (int)ceil(IeYE);
 break;
 case 6:
-bE8V_3 = bM38Z(bE8V_3, -1737349524, eeY2kU6aH);
+bE8V_3 = bM38Z(bE8V_3, (unsigned short)-1737349524, eeY2kU6aH);
 break;
 case 7:
 lRA_XbI6 = (int)ceil(dWVm7);

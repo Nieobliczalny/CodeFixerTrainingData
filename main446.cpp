@@ -273,7 +273,7 @@ short int  E3XV048ah5()
 }
 
 short	r_5198W6cI(unsigned long long	mEK27x7Bto,unsigned short int	LBtgR_NY2)	{
-	return	1050292995;
+	return	(short)1050292995;
 }
 
 int D5NH(unsigned char RscNg9NL,long long uJWI) {

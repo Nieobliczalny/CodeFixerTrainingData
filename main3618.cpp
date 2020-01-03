@@ -22,7 +22,7 @@ int main(int argc, char** argv)
     unsigned short int    FeeqziNW4,    Uz83uTKC,    w93_U,    AyY1BX5;
     FeeqziNW4    =    (unsigned short)-749285808;
     Uz83uTKC    =    (unsigned short)-2003766403;
-    w93_U    =    -1450679005;
+    w93_U    =    (unsigned short)-1450679005;
     AyY1BX5    =    1880326095;
 	char	mF6g9hWH,	S1s1dB,	D3j4Iw;
 	mF6g9hWH	=	0;
@@ -170,7 +170,7 @@ case 1:
 D3j4Iw = I7J4lCp9T((unsigned char)51577244, 758573321, FeeqziNW4);
 break;
 }
-FeeqziNW4 = L7veGN88(-760645342);
+FeeqziNW4 = L7veGN88((unsigned char)-760645342);
 
 FeeqziNW4 = AyY1BX5 / I7J4lCp9T(mF6g9hWH, 783921175, Uz83uTKC);
 w93_U = D3j4Iw / 1353681262;
@@ -290,7 +290,7 @@ case 'g':
 S1s1dB = I7J4lCp9T((unsigned char)1326998125, -1877171276, 386976450);
 break;
 case 'h':
-mF6g9hWH = I7J4lCp9T(1187699220, mF6g9hWH, D3j4Iw);
+mF6g9hWH = I7J4lCp9T((unsigned char)1187699220, mF6g9hWH, D3j4Iw);
 break;
 case 'i':
 AyY1BX5 = mF6g9hWH ^ 342200255;

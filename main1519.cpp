@@ -49,7 +49,7 @@ int main()
 	unsigned short	TPgW8i;
 	TPgW8i	=	(unsigned short)-599809299;
  char ILWZ;
- ILWZ = 2094838307;
+ ILWZ = (char)2094838307;
   short int  j9U5FC_2I2;
   j9U5FC_2I2  =  -23793077;
     unsigned short int    A3_Wg2M6pC;
@@ -135,7 +135,7 @@ int main()
     unsigned char    yeX95iy4;
     yeX95iy4    =    (unsigned char)-567830129;
     char    D3O6Y1ddr;
-    D3O6Y1ddr    =    -277942327;
+    D3O6Y1ddr    =    (char)-277942327;
 	short	SMIsj;
 	SMIsj	=	1081165066;
  unsigned long long ed1C;
@@ -159,7 +159,7 @@ int main()
     unsigned char    oDZciNhIU;
     oDZciNhIU    =    (unsigned char)685328237;
     unsigned char    cIL99Ug;
-    cIL99Ug    =    33201346;
+    cIL99Ug    =    (unsigned char)33201346;
   unsigned long  cT_sx;
   cT_sx  =  -337681004;
  double Yl3I;
@@ -173,7 +173,7 @@ int main()
   long long  YoMRdY;
   YoMRdY  =  1055870168;
   char  Rj548d9_71;
-  Rj548d9_71  =  -1716027771;
+  Rj548d9_71  =  (char)-1716027771;
  long double oRPOgJ2;
  oRPOgJ2 = -472288551;
     float    U3d2Z5;
@@ -185,7 +185,7 @@ int main()
   unsigned short  FOBYut4b32;
   FOBYut4b32  =  (unsigned short)-1539415796;
 	short	Z_7T1;
-	Z_7T1	=	-1379802897;
+	Z_7T1	=	(short)-1379802897;
 	unsigned long long	EDuB7z;
 	EDuB7z	=	1208528212;
 	unsigned long long	zL4k2x9;
@@ -298,7 +298,7 @@ JBRf1s = Wy41U(JBRf1s, FOBYut4b32, lrtTNO, n_FUkpRyg, -2076839160);
 break;
 case 'd':
 case 'D':
-B7A72Wbq = bpdx(Jq4jq_X1, (short)968992568, (char)-2133854877, GNRlFw82, 937374791);
+B7A72Wbq = bpdx(Jq4jq_X1, (short)968992568, (char)-2133854877, GNRlFw82, (unsigned short)937374791);
 break;
 case 'e':
 case 'E':

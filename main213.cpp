@@ -23,7 +23,7 @@ int main(int argc, char** argv) {
 	long long	F6sotv5	=	-1043086614;
   char  O_6I1E0  =  (char)1768533906;
 	int	SxT7f6_	=	681982434;
-  unsigned short  X0PI  =  1619450762;
+  unsigned short  X0PI  =  (unsigned short)1619450762;
  unsigned int kUCVl7QIT = -1060997019;
 	unsigned char	o6Z7k	=	-841115856;
  long rMGCmF_y1 = -1392150361;
@@ -34,7 +34,7 @@ int main(int argc, char** argv) {
   long long  MfJ9  =  -531324983;
  int zv7v3A = -1636389269;
  unsigned char bCK5Vk = (unsigned char)-1919739324;
-  char  YjN8mk  =  -1492589642;
+  char  YjN8mk  =  (char)-1492589642;
   short int  sB28P  =  642610466;
 	unsigned short int	GGPHf0923	=	0;
     float    eEOUQEcq5    =    1433027454;
@@ -50,7 +50,7 @@ int main(int argc, char** argv) {
   unsigned long  QVva7z  =  -2128626425;
  long double mofi = 1655146041;
 	unsigned int	c3Lii7O6	=	-1175558911;
-    unsigned short    qzIwitvf    =    -246077389;
+    unsigned short    qzIwitvf    =    (unsigned short)-246077389;
 	short int	rk_h_T	=	(short)1252385445;
     unsigned short int    vOkpo    =    -1703195515;
   int  HA3MS3  =  1089528537;
@@ -76,7 +76,7 @@ int main(int argc, char** argv) {
   long  fWPj  =  -941010160;
     unsigned int    Yl5C_e9P8_    =    -1984745566;
 	unsigned long	G99bt53uaC	=	-564146365;
-    unsigned short    w_k7Rg    =    744734167;
+    unsigned short    w_k7Rg    =    (unsigned short)744734167;
     long double    vh9p    =    -1903557046;
 	long long	FM03	=	-838346651;
 	unsigned short int	wiS5QrV25N	=	(unsigned short)1896171097;
@@ -88,7 +88,7 @@ int main(int argc, char** argv) {
 	unsigned short	E1Tu	=	32234525;
  long double xMVfaqpSY = 1247833961;
     double    G7_20Y    =    725236017;
-	short int	Oron68HFzq	=	-1436543605;
+	short int	Oron68HFzq	=	(short)-1436543605;
   float  vG32m9  =  -840591831;
  int f8eY_ER84 = -728875653;
  long LL6C = 1335863695;
@@ -100,7 +100,7 @@ int main(int argc, char** argv) {
 	long double	GfWI6	=	2112104043;
  double Qn7N = -1524040555;
   unsigned long  u2YF247  =  -87863572;
- unsigned short int r4W33 = 1571405641;
+ unsigned short int r4W33 = (unsigned short)1571405641;
     long    JLKbEqF    =    -1543265111;
 
 if (o6Z7k & 52097870)

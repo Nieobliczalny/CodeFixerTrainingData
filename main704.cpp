@@ -27,7 +27,7 @@ int main() {
 	short int	jrz72_Xi,	fbOl5,	Smq_,	kq01am5,	rK5yT,	s3DebZ,	hwEMo1;
 	jrz72_Xi	=	(short)1037797529;
 	fbOl5	=	(short)1368055650;
-	Smq_	=	377483153;
+	Smq_	=	(short)377483153;
 	kq01am5	=	-1949687176;
 	rK5yT	=	350114869;
 	s3DebZ	=	-1750969270;
@@ -265,7 +265,7 @@ cout << "P6N8rp" << kq01am5 << hwEMo1 << kq01am5 << fbOl5 << endl;
 }
 try
 {
-cout << e__w52nYa(Smq_, -1196259551, h4A_, (unsigned short)-593788347) << e__w52nYa(Smq_, 794673613, (unsigned short)-1929753779, -865288293) << fbOl5 << v76L(-1842840813, s3DebZ) << endl;
+cout << e__w52nYa(Smq_, -1196259551, h4A_, (unsigned short)-593788347) << e__w52nYa(Smq_, 794673613, (unsigned short)-1929753779, (unsigned short)-865288293) << fbOl5 << v76L(-1842840813, s3DebZ) << endl;
 }
 catch (int& errorCode)
 {

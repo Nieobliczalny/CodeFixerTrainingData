@@ -165,7 +165,7 @@ case 2:
 O0tzG98u = u3gOO(1820294907, -718312639);
 break;
 case 3:
-Vr3N = p0PUO((unsigned short)1091812576, IAVu6VUE, YH820D, -1858579444, 1480671585);
+Vr3N = p0PUO((unsigned short)1091812576, IAVu6VUE, YH820D, (unsigned short)-1858579444, 1480671585);
 break;
 case 4:
 G2eM3797P = p0PUO((unsigned short)-2118040971, WQmi, -616445301, 575851423, Xnk_Fa9WC);

@@ -50,7 +50,7 @@ int main(int argc, char** argv) {
     unsigned int    NnwS;
     NnwS    =    -638196066;
   char  b0AfA1aw;
-  b0AfA1aw  =  -219100636;
+  b0AfA1aw  =  (char)-219100636;
 	char	KSOUf_sYy;
 	KSOUf_sYy	=	-583528720;
   short  G73XH8;
@@ -464,7 +464,7 @@ case 0:
 F2Pdz5I = e8RlgFx47s(KSOUf_sYy, dG56e1Tz, (char)-982907139);
 break;
 case 1:
-b0AfA1aw = jk66((char)400594475, eKSCaZ, 258434177);
+b0AfA1aw = jk66((char)400594475, eKSCaZ, (short)258434177);
 break;
 case 2:
 B2Yfi4++;

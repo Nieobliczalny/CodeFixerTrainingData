@@ -215,7 +215,7 @@ int k = 6;
 do
 {
 k--;
-V9tDm = rLj_MgV(-896171877, V9tDm, 666539715);
+V9tDm = rLj_MgV((short)-896171877, V9tDm, 666539715);
 }
 while (k >= 0);
 }
@@ -563,7 +563,7 @@ V9tDm = rLj_MgV(FsMBT0PF4, 1224217420, (unsigned char)1150776817);
 }
 else if ((ToST_CkPF > Ds8V53P) && (ToST_CkPF == mf385r0))
 {
-V9tDm = rLj_MgV((short)420577492, -832778187, -1940522691);
+V9tDm = rLj_MgV((short)420577492, -832778187, (unsigned char)-1940522691);
 }
 else if (mf385r0 & 259694787)
 {

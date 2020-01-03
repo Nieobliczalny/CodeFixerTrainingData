@@ -36,7 +36,7 @@ int main(int argc, char** argv)
  unsigned char P63GQlfZ;
  P63GQlfZ = (unsigned char)-1643670009;
   short int  X2s0ndszF;
-  X2s0ndszF  =  -402675552;
+  X2s0ndszF  =  (short)-402675552;
  double gHMX72R5;
  gHMX72R5 = -600202541;
     unsigned short int    hEvIc4_dj;
@@ -92,7 +92,7 @@ int main(int argc, char** argv)
     double    In0cw;
     In0cw    =    -319164184;
  unsigned char Jaz7b8jhLg;
- Jaz7b8jhLg = -1335532593;
+ Jaz7b8jhLg = (unsigned char)-1335532593;
     short    w0w89z3Mv;
     w0w89z3Mv    =    -220397963;
  unsigned short O967HHR_7f;
@@ -118,7 +118,7 @@ int main(int argc, char** argv)
     unsigned short    E805Tr63B;
     E805Tr63B    =    (unsigned short)1012262656;
  short int O7hl;
- O7hl = -2110944060;
+ O7hl = (short)-2110944060;
   unsigned short int  ROX16;
   ROX16  =  -1882737454;
 	unsigned long long	KLfXo62;

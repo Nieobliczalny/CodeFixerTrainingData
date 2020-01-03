@@ -15,7 +15,7 @@ int main(void)
   unsigned char  z5eQk  =  (unsigned char)1284261520;
   long double  tEJP2WCp  =  1285526460;
   int  T63P  =  1845870988;
- unsigned char asG0m1qW = 1053552764;
+ unsigned char asG0m1qW = (unsigned char)1053552764;
  long long fpm2_6 = 0;
     short int    Lqed    =    -804910171;
  unsigned int HR2v = 1304479976;
@@ -31,7 +31,7 @@ int main(void)
  char C0rCZ45r93 = 0;
   double  iA5KTDaj_U  =  1179329414;
  double D59b_ = -51805953;
-    unsigned short    PCINHZq8    =    -487837874;
+    unsigned short    PCINHZq8    =    (unsigned short)-487837874;
  long long t793Bs4 = -1716796456;
  short int p76D8H9 = (short)-2067547323;
   int  qV55UN6ZaV  =  -1430933047;

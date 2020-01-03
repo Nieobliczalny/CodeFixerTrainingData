@@ -294,7 +294,7 @@ guYlOAE_ = OLy_37Y3((char)-1793030719, N_hhm, -1838434221);
 }
 else if (DpI80z > -667342612)
 {
-vrR_q9pp = OLy_37Y3(244999071, NG2j, -517279337);
+vrR_q9pp = OLy_37Y3((char)244999071, NG2j, -517279337);
 }
 else
 {

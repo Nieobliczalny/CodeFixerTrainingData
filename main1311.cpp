@@ -32,7 +32,7 @@ int main(void) {
     unsigned int    B088aAPsQ;
     B088aAPsQ    =    518754495;
   short  S4H1742O;
-  S4H1742O  =  -1724525218;
+  S4H1742O  =  (short)-1724525218;
   unsigned long  cwV1l5E9YH;
   cwV1l5E9YH  =  1601311092;
   unsigned int  Lj1m;
@@ -116,7 +116,7 @@ int main(void) {
 	float	LKBYD71;
 	LKBYD71	=	-1541767051;
   unsigned short  BP91Uaw;
-  BP91Uaw  =  1276406021;
+  BP91Uaw  =  (unsigned short)1276406021;
 	unsigned char	B55GaE9rSZ;
 	B55GaE9rSZ	=	0;
  long long ftc6i14h;

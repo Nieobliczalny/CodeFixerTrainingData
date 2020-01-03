@@ -42,7 +42,7 @@ int main(int argc, char** argv)
   double  M_y0DGhCy;
   M_y0DGhCy  =  -1492884157;
   unsigned short  QjbIqBhp3R;
-  QjbIqBhp3R  =  1584941750;
+  QjbIqBhp3R  =  (unsigned short)1584941750;
     long double    T3VGa;
     T3VGa    =    666583833;
   long double  rHRkBTsR;
@@ -54,7 +54,7 @@ int main(int argc, char** argv)
   short  UJ61s;
   UJ61s  =  (short)1103303499;
   unsigned char  KefUaD6je;
-  KefUaD6je  =  -492384198;
+  KefUaD6je  =  (unsigned char)-492384198;
  long double Dw2Lyp;
  Dw2Lyp = 1268175387;
     short int    Hx8ol;

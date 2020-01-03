@@ -235,7 +235,7 @@ case 'g':
 ybT0 = G91I / 424053878;
 break;
 case 'h':
-k3Sq = uuCJiqll(2060431892, Pd1K3);
+k3Sq = uuCJiqll((char)2060431892, Pd1K3);
 break;
 default:
 jil997by |= VlP2DLcxwu;

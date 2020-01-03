@@ -76,7 +76,7 @@ break;
 
 for (int i = 0; i < 8; ++i)
 {
-std::cout << "gj811" << Eoych((char)-1938259458, -705772240, 1213164915, 1775123476) << "NCfxjLf" << Eoych(-1544186248, F2mRq63c_u, LZAoahMy4c, TeJ0PLCzI) << "xY5k9p" << std::endl;
+std::cout << "gj811" << Eoych((char)-1938259458, -705772240, 1213164915, 1775123476) << "NCfxjLf" << Eoych((char)-1544186248, F2mRq63c_u, LZAoahMy4c, TeJ0PLCzI) << "xY5k9p" << std::endl;
 }
 
 w_H597fSgj = Eoych(w_H597fSgj, aTiF, Y5YO_zI73O, Tfj3L);

@@ -66,7 +66,7 @@ if ((r7LLtrc >= lx7b) && (HiPXDW == M3e11M_R))
 {
 if ((L67S_Z8v9f >= HiPXDW) && (P0E1b < -2117973827))
 {
-cout << B_nX4JIve7(M3e11M_R, 931403600, -640634822, L67S_Z8v9f, -1262592295) << L67S_Z8v9f << "PbCZV27f" << endl;
+cout << B_nX4JIve7(M3e11M_R, 931403600, (short)-640634822, L67S_Z8v9f, -1262592295) << L67S_Z8v9f << "PbCZV27f" << endl;
 }
 else if ((P0E1b) || ((yA4fYIs9 != A3tnyuz) || (L67S_Z8v9f & r7LLtrc)))
 {
@@ -77,7 +77,7 @@ M3e11M_R = B_nX4JIve7(r7LLtrc, M3e11M_R, (short)-334043884, L67S_Z8v9f, 13272341
 }
 else if ((r7LLtrc <= -10796628) || (r7LLtrc))
 {
-cout << "P5cd" << B_nX4JIve7((short)-338723478, M3e11M_R, -1631482036, -547698558, yA4fYIs9) << endl;
+cout << "P5cd" << B_nX4JIve7((short)-338723478, M3e11M_R, (short)-1631482036, -547698558, yA4fYIs9) << endl;
 }
 else
 {
@@ -234,7 +234,7 @@ int k = 8;
 do
 {
 k--;
-HiPXDW = B_nX4JIve7(HiPXDW, -1435912175, P0E1b, -1108810657, -361650409);
+HiPXDW = B_nX4JIve7(HiPXDW, -1435912175, P0E1b, (unsigned char)-1108810657, -361650409);
 }
 while (k >= 0);
 }
@@ -369,7 +369,7 @@ yA4fYIs9 = B_nX4JIve7(r7LLtrc, 394165158, (short)363620223, (unsigned char)-1552
 }
 else
 {
-yA4fYIs9 = knE1K(-138920840);
+yA4fYIs9 = knE1K((unsigned char)-138920840);
 }
 }
 else if ((P0E1b & r7LLtrc) || (HiPXDW != 505512252))
@@ -383,7 +383,7 @@ else
 {
 if (M3e11M_R <= yA4fYIs9)
 {
-M3e11M_R = B_nX4JIve7((short)2145609080, -650739998, (short)-1156247290, 1686753221, 2142808087);
+M3e11M_R = B_nX4JIve7((short)2145609080, -650739998, (short)-1156247290, (unsigned char)1686753221, 2142808087);
 }
 }
 }
@@ -425,7 +425,7 @@ if (P0E1b >= -1988827333)
 {
 if (yA4fYIs9 <= w8it_85)
 {
-M3e11M_R = B_nX4JIve7((short)-619887626, M3e11M_R, (short)-1092550414, -1424880692, -1037110338);
+M3e11M_R = B_nX4JIve7((short)-619887626, M3e11M_R, (short)-1092550414, (unsigned char)-1424880692, -1037110338);
 }
 }
 else
@@ -512,7 +512,7 @@ if (L67S_Z8v9f & P0E1b)
 {
 if ((L67S_Z8v9f > M3e11M_R) || (L67S_Z8v9f))
 {
-HiPXDW = B_nX4JIve7((short)2032832348, -979941783, -1572368032, L67S_Z8v9f, HiPXDW) ^ 447518692;
+HiPXDW = B_nX4JIve7((short)2032832348, -979941783, (short)-1572368032, L67S_Z8v9f, HiPXDW) ^ 447518692;
 }
 }
 }

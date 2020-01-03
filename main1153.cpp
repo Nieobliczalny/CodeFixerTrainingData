@@ -37,7 +37,7 @@ int main(int argc, char** argv) {
 	unsigned int	lO_58XTNXs;
 	lO_58XTNXs	=	-1372117749;
  unsigned char leFdH_0;
- leFdH_0 = 1227228042;
+ leFdH_0 = (unsigned char)1227228042;
   unsigned short int  Yg8l5L_AJm;
   Yg8l5L_AJm  =  (unsigned short)1970575527;
 	unsigned long	Aw7UzpP3i7;
@@ -47,7 +47,7 @@ int main(int argc, char** argv) {
     double    qqty;
     qqty    =    -2117011321;
  char mEx94kH80D;
- mEx94kH80D = -887782555;
+ mEx94kH80D = (char)-887782555;
     float    i0Hf1A;
     i0Hf1A    =    -1522563967;
     long    F9BA;
@@ -61,7 +61,7 @@ int main(int argc, char** argv) {
  unsigned int MNG4_48;
  MNG4_48 = 1948200557;
     unsigned short int    jkdr3It3EF;
-    jkdr3It3EF    =    -1434335427;
+    jkdr3It3EF    =    (unsigned short)-1434335427;
   long  LHik1tqk;
   LHik1tqk  =  567500099;
  unsigned long p9vpxDf1H;

@@ -32,7 +32,7 @@ rfOBs = Hb8b9R((short)-1050853927, 1856569725, 110331894, lWO2LV, (unsigned shor
 break;
 case 'b':
 case 'B':
-lQW_8Ki8B = Hb8b9R(-1895976883, 1262037092, -384683239, lWO2LV, OHo5_purCX);
+lQW_8Ki8B = Hb8b9R((short)-1895976883, 1262037092, -384683239, lWO2LV, OHo5_purCX);
 break;
 case 'c':
 case 'C':

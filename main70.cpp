@@ -21,7 +21,7 @@ int main() {
 	short	D54gkIK,	s25H27,	UySA,	VqF7,	p_iI46e64,	rTb_,	Kc676rz16S,	NWVKo_aR_D,	xKsC,	z9_IBZ0kIx,	B7LW11n,	UKd7K_pVGt,	tIdx1Ls1IZ,	LBh5J,	Ea4E6N3g;
 	D54gkIK	=	(short)957389000;
 	s25H27	=	(short)1092439931;
-	UySA	=	1549177947;
+	UySA	=	(short)1549177947;
 	VqF7	=	-1707519076;
 	p_iI46e64	=	-2049896500;
 	rTb_	=	1557690345;
@@ -31,7 +31,7 @@ int main() {
 	z9_IBZ0kIx	=	104239807;
 	B7LW11n	=	(short)1691013365;
 	UKd7K_pVGt	=	(short)-2081321271;
-	tIdx1Ls1IZ	=	1284783576;
+	tIdx1Ls1IZ	=	(short)1284783576;
 	LBh5J	=	-122242999;
 	Ea4E6N3g	=	1536065290;
   short  RNF7x_3yf,  Qm0_,  X09DfH5,  Q5H6_8,  op_6Wy1;
@@ -41,7 +41,7 @@ int main() {
   Q5H6_8  =  0;
   op_6Wy1  =  0;
 
-s25H27 = Hg4cN2((char)-1873312642, (short)924042066, UKd7K_pVGt, 235657662);
+s25H27 = Hg4cN2((char)-1873312642, (short)924042066, UKd7K_pVGt, (char)235657662);
 if ((NWVKo_aR_D == -1845118434) && ((D54gkIK >= -1949846286) || (D54gkIK < 427972141)))
 {
 VqF7 = (short)(s25H27);
@@ -167,7 +167,7 @@ break;
 }
 else
 {
-cout << "m020" << sy2VEjJw() << Hg4cN2((char)461547814, op_6Wy1, B7LW11n, (char)960178773) << Hg4cN2(211328945, -1771206875, B7LW11n, 1476186252) << endl;
+cout << "m020" << sy2VEjJw() << Hg4cN2((char)461547814, op_6Wy1, B7LW11n, (char)960178773) << Hg4cN2((char)211328945, -1771206875, B7LW11n, 1476186252) << endl;
 }
 for (int i = 0; i < 4; ++i)
 {
@@ -199,7 +199,7 @@ VqF7 &= NWVKo_aR_D;
 }
 else if (tIdx1Ls1IZ < RNF7x_3yf)
 {
-p_iI46e64 = Hg4cN2((char)1973619911, (short)-1072555933, 1019905980, -1100122089);
+p_iI46e64 = Hg4cN2((char)1973619911, (short)-1072555933, 1019905980, (char)-1100122089);
 }
 else if (p_iI46e64 <= -1060959420)
 {
@@ -296,7 +296,7 @@ B7LW11n = Hg4cN2((char)-529077435, B7LW11n, -1004209172, Q5H6_8);
 break;
 case 'c':
 case 'C':
-z9_IBZ0kIx = Hg4cN2(op_6Wy1, 319629966, 91094684, NWVKo_aR_D);
+z9_IBZ0kIx = Hg4cN2(op_6Wy1, (short)319629966, 91094684, NWVKo_aR_D);
 break;
 case 'd':
 case 'D':
@@ -476,7 +476,7 @@ else if (Q5H6_8 != 1222377493)
 int j = 9;
 while (j >= 0)
 {
-cout << Hg4cN2((char)446109997, (short)1463521970, op_6Wy1, -947670554) << VqF7 << Q5H6_8 << endl;
+cout << Hg4cN2((char)446109997, (short)1463521970, op_6Wy1, (char)-947670554) << VqF7 << Q5H6_8 << endl;
 j--;
 }
 }

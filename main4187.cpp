@@ -30,7 +30,7 @@ unsigned char    s1697Z(int    lOK3922,short    zCzY_,short int    OoQw5Vl8)    
 int main()
 {
 	char	zfv5	=	(char)-1075914768;
- unsigned short y1Op4 = 1993713487;
+ unsigned short y1Op4 = (unsigned short)1993713487;
     unsigned long long    NW2U721M    =    109465276;
  long long mfByv = -93198888;
 	short int	AI8zD	=	-136178176;
@@ -52,7 +52,7 @@ int main()
   unsigned long  rqZ4  =  -1525626629;
     unsigned long    CKxX53Zt    =    516736377;
   short  swq3j1___X  =  (short)-692327859;
-	unsigned short int	Brt0	=	535478345;
+	unsigned short int	Brt0	=	(unsigned short)535478345;
  long double NQtZ = -828865393;
     int    GiB7ut    =    -2060930580;
 	short int	mPIF	=	1550644761;
@@ -71,7 +71,7 @@ int main()
   unsigned short  MdBBOr  =  (unsigned short)346447367;
   long double  JKomWH  =  -142327359;
   int  sivAdj  =  705340417;
-  char  sdmzEh5dA  =  780146081;
+  char  sdmzEh5dA  =  (char)780146081;
     unsigned short int    d5o4WK    =    (unsigned short)17285656;
   long double  zfB_  =  -990218864;
   float  Oa7r  =  -49821365;
@@ -118,7 +118,7 @@ else
 {
 JKomWH = qVbby0H(JKomWH, 763231168, F29qZ2);
 }
-std::cout << "HsBhpG" << qVbby0H(-1364320335, y1Op4, F29qZ2) << std::endl;
+std::cout << "HsBhpG" << qVbby0H((short)-1364320335, y1Op4, F29qZ2) << std::endl;
 switch (m75N)
 {
 case 'a':
@@ -149,7 +149,7 @@ Sge6Ny5 = r43gLn(576151800, 2014764912, (unsigned char)1178362531, (char)-545291
 
 try
 {
-TuT02 = T1ETp2(1474633424, 1773321456, -1825038125);
+TuT02 = T1ETp2((unsigned char)1474633424, 1773321456, -1825038125);
 }
 catch (int& errorCode)
 {
@@ -207,7 +207,7 @@ else
 {
 if (rqZ4)
 {
-std::cout << T1ETp2(bCVM77M9dS, (char)239141492, (unsigned short)2140679624) << s1697Z(2740171, -792743103, -263984676) << G_M9Ol << std::endl;
+std::cout << T1ETp2(bCVM77M9dS, (char)239141492, (unsigned short)2140679624) << s1697Z(2740171, (short)-792743103, -263984676) << G_M9Ol << std::endl;
 }
 }
 
@@ -248,7 +248,7 @@ case 2:
 u1dH87 = (int)abs(ixT5CL);
 break;
 case 3:
-DySubh = r43gLn(DySubh, -1856521511, -285216858, Oa7r, f6J8p6);
+DySubh = r43gLn(DySubh, -1856521511, (unsigned char)-285216858, Oa7r, f6J8p6);
 break;
 }
 }
@@ -258,7 +258,7 @@ case 0:
 TuT02 = T1ETp2((unsigned char)1754694965, T0RUsV6, (unsigned short)-258093602);
 break;
 }
-std::cout << J0kL << Hd7X << qVbby0H(1381371417, 819157830, 1295498508) << s1697Z(a1U6OaG, 1579700205, KEIVqSwC_) << std::endl;
+std::cout << J0kL << Hd7X << qVbby0H((short)1381371417, 819157830, 1295498508) << s1697Z(a1U6OaG, 1579700205, KEIVqSwC_) << std::endl;
 
 try
 {

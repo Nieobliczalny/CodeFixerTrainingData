@@ -59,7 +59,7 @@ int main() {
  short RepBUJ;
  RepBUJ = (short)-312493221;
  short HzEu9S9;
- HzEu9S9 = 455367070;
+ HzEu9S9 = (short)455367070;
     unsigned long    MHX5yCQ;
     MHX5yCQ    =    404225705;
   long long  ztAE3U;
@@ -207,7 +207,7 @@ XM7wgE_ = j81bdh(E8gW, (unsigned short)-1055830553, E9xd6XRu, (char)-205377655, 
 int i = 7;
 while (i >= 0)
 {
-nWY019 = j81bdh(nWY019, HzEu9S9, MVhe, -1933853273, -1446449532);
+nWY019 = j81bdh(nWY019, HzEu9S9, MVhe, (char)-1933853273, -1446449532);
 i--;
 }
 }

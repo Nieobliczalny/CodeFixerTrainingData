@@ -61,7 +61,7 @@ int main(void)
     int    GLbdw759;
     GLbdw759    =    52786308;
 	short	tO__3sGfK;
-	tO__3sGfK	=	-1519029209;
+	tO__3sGfK	=	(short)-1519029209;
     unsigned char    D5iJ47;
     D5iJ47    =    (unsigned char)110550064;
 	unsigned short int	T1YXq14;
@@ -85,7 +85,7 @@ int main(void)
  short e317_3Am;
  e317_3Am = (short)1370503707;
 	unsigned char	ep5wOB_o;
-	ep5wOB_o	=	-1155758964;
+	ep5wOB_o	=	(unsigned char)-1155758964;
 
 std::cout << bY10E << OwQ8 << GLbdw759 << bIqj << std::endl;
 

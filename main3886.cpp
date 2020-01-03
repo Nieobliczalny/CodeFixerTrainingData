@@ -196,7 +196,7 @@ case 'c':
 nHxo3 = QKzjP(nHxo3, 215592183, (unsigned char)-177316959);
 break;
 }
-Mf8NI03Sh = QKzjP((short)1476162209, -1714430778, 148723816);
+Mf8NI03Sh = QKzjP((short)1476162209, -1714430778, (unsigned char)148723816);
 for (int i = 0; i < 6; ++i)
 {
 try
@@ -376,7 +376,7 @@ XcSW6n8 = (int)abs(wcfN7jfC);
 }
 else if (uJwz3 >= adhPF)
 {
-D5Io15 = QKzjP(1714630200, 119092176, BEn54P);
+D5Io15 = QKzjP((short)1714630200, 119092176, BEn54P);
 }
 else if ((y66E != adhPF) && (A7G4_nYGv != adhPF))
 {

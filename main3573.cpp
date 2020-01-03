@@ -124,7 +124,7 @@ else if (DDXd_sf != Lm__5McHPn)
 {
 try
 {
-fLjH67y = xPZQSF_j(1294163287, fLjH67y);
+fLjH67y = xPZQSF_j((unsigned char)1294163287, fLjH67y);
 }
 catch (int& errorCode)
 {
@@ -196,7 +196,7 @@ VNkha1z = YQxFf_7X(p16HL, (unsigned char)593259091, (char)1668172177) - 20359127
 }
 else if ((Lm__5McHPn != 744918392) && (e65l1WY9G))
 {
-Lm__5McHPn = e1t2(Lm__5McHPn, 1647455465, fVofnP, 1685468897);
+Lm__5McHPn = e1t2(Lm__5McHPn, (short)1647455465, fVofnP, 1685468897);
 }
 else
 {
@@ -208,7 +208,7 @@ catch (int& errorCode)
 {
 fLjH67y = K49A6 % fVofnP;
 }
-cout << bIyI5 << "DtjIsdCY9o" << e1t2(I4X6Q1V, (short)-69096883, (short)1049057241, -1727234615) << "c6ijz9q" << xPZQSF_j(-1596823113, XAMF6B3) << endl;
+cout << bIyI5 << "DtjIsdCY9o" << e1t2(I4X6Q1V, (short)-69096883, (short)1049057241, -1727234615) << "c6ijz9q" << xPZQSF_j((unsigned char)-1596823113, XAMF6B3) << endl;
 
 for (int i = 0; i < 5; ++i)
 {
@@ -399,7 +399,7 @@ case 2:
 VNkha1z = Ge6FJ9_MBc(-1940303229, (short)-1627178792, 252957625, mZZ5NsP, 114175865);
 break;
 case 3:
-Bp234 = YQxFf_7X((char)-1781424319, 1397849306, -1481921302);
+Bp234 = YQxFf_7X((char)-1781424319, (unsigned char)1397849306, -1481921302);
 break;
 case 4:
 iB_9 = Ge6FJ9_MBc(FcF541uzBv, p16HL, y10W1c52, mZZ5NsP, HNDI) - g5BI51zcD;

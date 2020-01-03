@@ -209,7 +209,7 @@ while (i >= 0);
 }
 if (f0jrpd05_ >= 1479562613)
 {
-hi_Lf = x1loM8C(hi_Lf, f0jrpd05_, lb79dY9_b7, 642350414, 1348681332);
+hi_Lf = x1loM8C(hi_Lf, f0jrpd05_, lb79dY9_b7, 642350414, (unsigned char)1348681332);
 }
 
 try

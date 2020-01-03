@@ -27,7 +27,7 @@ int main(int argc, char** argv)
 	char	Ck4Lk	=	(char)-1163632635;
  unsigned long EX7bB9aO = 0;
  double g3562gI = 680643464;
-	char	lZUC_	=	1777286045;
+	char	lZUC_	=	(char)1777286045;
   unsigned long long  sX7mUAJ1a  =  1817638654;
 	char	ORJvEGRj	=	-1059740192;
 	char	R1IDz6s	=	1710045326;
@@ -37,7 +37,7 @@ int main(int argc, char** argv)
  char NOq78Pqosv = (char)678507917;
     unsigned long long    J1ipkd    =    1603205468;
  long double KzGchibE = -635833339;
-    char    kVC_    =    -1595697188;
+    char    kVC_    =    (char)-1595697188;
   long  Qvyb3  =  -692071869;
 	unsigned long	oV8_	=	-1129158139;
   long long  QM8IsUxQCv  =  -1855764777;
@@ -50,7 +50,7 @@ int main(int argc, char** argv)
     long    vo_X6j    =    -2057180625;
     double    O8o016H9Do    =    -1493093119;
   long double  W_v0YAO  =  -1509696188;
-  short  yo_jqX_Dz4  =  2064432463;
+  short  yo_jqX_Dz4  =  (short)2064432463;
  long double h7KKT5wMZ = -473825323;
 	short	VD27p	=	-1859823225;
     double    yx0Ei03    =    -445142891;
@@ -64,7 +64,7 @@ int main(int argc, char** argv)
  float J1sWx8P8 = 331324020;
  short glLOY = (short)-973387788;
 	long double	iZ79	=	1337854070;
-  char  fbH7x182  =  258042557;
+  char  fbH7x182  =  (char)258042557;
  short ri0Nr2_ = 676571389;
   unsigned char  G_PT1R  =  -1676015274;
 	float	s61WW9_yu	=	-233663275;
@@ -77,7 +77,7 @@ int main(int argc, char** argv)
 	float	Ypd9n1xZd8	=	-61862818;
  long long A5R6vloGip = -966808046;
 	unsigned long	BvNLn_7a5	=	-2120236693;
- unsigned char k9O80ek = 331974034;
+ unsigned char k9O80ek = (unsigned char)331974034;
 	long	k8h4M2	=	-1803554848;
     unsigned long    qyTK    =    -1707463652;
     unsigned int    Y7w1o24    =    1129224191;
@@ -90,7 +90,7 @@ int main(int argc, char** argv)
   float  ZHmE_  =  -1679871050;
   unsigned char  gbb5  =  (unsigned char)937926137;
     short    sW9t1    =    (short)1122719965;
- short I3NwvBHO0 = -143199085;
+ short I3NwvBHO0 = (short)-143199085;
  char COY9z9h6L = -966573929;
 	char	tJYq6X2C	=	-365834638;
  long double QpFo = -551657742;

@@ -30,7 +30,7 @@ int main(int argc, char** argv)
 	unsigned long	geP9LF7;
 	geP9LF7	=	-398144925;
 	short int	ktW0w2Bv4;
-	ktW0w2Bv4	=	1429334400;
+	ktW0w2Bv4	=	(short)1429334400;
 	int	N_lIxw;
 	N_lIxw	=	1729275322;
     unsigned char    NepzA03;
@@ -50,7 +50,7 @@ int main(int argc, char** argv)
 	unsigned short	jH6fl44;
 	jH6fl44	=	(unsigned short)298896080;
  unsigned char bQ4jI4_ut;
- bQ4jI4_ut = -990273961;
+ bQ4jI4_ut = (unsigned char)-990273961;
 	unsigned char	T9PR7xRm;
 	T9PR7xRm	=	-154607073;
  long long MHP656;
@@ -314,7 +314,7 @@ for (int i = 9; i >= 0; --i)
 zATp7B = (int)abs(yom8B_0r) + (-1323667873);
 }
 
-N3Z0 = -1679589798 / jL330(1823578968, N3Z0, -1211261984, 817634954, zxI3Akt);
+N3Z0 = -1679589798 / jL330(1823578968, N3Z0, (char)-1211261984, 817634954, zxI3Akt);
 if (ZSwszw != KcD_22oe90)
 {
 if (((CQ3Q == 768180953) && (geP9LF7 <= -338457981)) && (MHP656 > O6573zs))

@@ -91,7 +91,7 @@ int main(int argc, char** argv)
 switch (Kozm0)
 {
 case 0:
-lJB5Ap9 = m1r3T3I7OR((unsigned char)-2121560260, (unsigned short)-733650783, 723717237, -1605757084, 501513779);
+lJB5Ap9 = m1r3T3I7OR((unsigned char)-2121560260, (unsigned short)-733650783, 723717237, -1605757084, (short)501513779);
 break;
 case 1:
 f824j146m6 = (int)abs(SZLWSvC3);
@@ -115,7 +115,7 @@ case 7:
 kNrk = FL7jo * 1526661983;
 break;
 default:
-B34Li2 = m1r3T3I7OR((unsigned char)952572536, (unsigned short)-1703042223, R88_c6dF, -1011609388, -935647813);
+B34Li2 = m1r3T3I7OR((unsigned char)952572536, (unsigned short)-1703042223, R88_c6dF, -1011609388, (short)-935647813);
 break;
 }
 {
@@ -171,7 +171,7 @@ if (m1OlD0iT & 1856606592)
 switch (siC8v1NN)
 {
 case 0:
-c5jv_I21bk = m1r3T3I7OR((unsigned char)-1115157163, (unsigned short)-206191352, -1380928554, 1330827803, -72507302);
+c5jv_I21bk = m1r3T3I7OR((unsigned char)-1115157163, (unsigned short)-206191352, -1380928554, 1330827803, (short)-72507302);
 break;
 case 1:
 kDRYqi05f = rGlK & 1963681536;
@@ -215,7 +215,7 @@ if (LAoDCYJf7 <= hEI43SOWk)
 {
 if (IFnZvkCr <= 1334598759)
 {
-c5jv_I21bk = m1r3T3I7OR((unsigned char)2108820254, (unsigned short)886395433, 2143832411, ck8ADtn, 658346674);
+c5jv_I21bk = m1r3T3I7OR((unsigned char)2108820254, (unsigned short)886395433, 2143832411, ck8ADtn, (short)658346674);
 }
 }
 else
@@ -246,7 +246,7 @@ case 2:
 hEI43SOWk = (int)abs(T1L9);
 break;
 case 3:
-c5jv_I21bk = m1r3T3I7OR(2127974430, Oa36A7nETQ, f824j146m6, SVy6, K30KV7_P);
+c5jv_I21bk = m1r3T3I7OR((unsigned char)2127974430, Oa36A7nETQ, f824j146m6, SVy6, K30KV7_P);
 break;
 default:
 rGlK = m1r3T3I7OR(Wr2Vn7413, K1QiU, 55455230, Oa36A7nETQ, j_WY);
@@ -309,7 +309,7 @@ f824j146m6 *= 218804204;
 UefKrix = aF3JOKxt % wgI8d20tpa;
 rGlK = m1r3T3I7OR(Oa36A7nETQ, (unsigned short)340210416, -307154177, mIw4Ma9, Wr2Vn7413);
 
-lJB5Ap9 = m1r3T3I7OR((unsigned char)1855798623, 701439353, f824j146m6, 1940655104, -894017862);
+lJB5Ap9 = m1r3T3I7OR((unsigned char)1855798623, (unsigned short)701439353, f824j146m6, 1940655104, -894017862);
 {
 int i = 0;
 while (i < 2)

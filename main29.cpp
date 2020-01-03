@@ -25,7 +25,7 @@ int main(int argc, char** argv) {
 	long double	Js69GqZ1M	=	1875441954;
     unsigned int    qA45Siw_Cb    =    269746485;
 	char	lKF_h	=	(char)-1206876704;
-    unsigned short int    tu8sRS    =    1812149379;
+    unsigned short int    tu8sRS    =    (unsigned short)1812149379;
  unsigned long long fwT4zR = 311377947;
  unsigned long long w18Ft = -307690764;
  short int KW7e = -298410420;
@@ -35,7 +35,7 @@ int main(int argc, char** argv) {
   long double  X083dn_vJ  =  1018603482;
 	char	vDxdC3j8	=	-267497317;
  unsigned short CR0ZS5_p8_ = (unsigned short)1468438434;
-    short int    AL79    =    1464206214;
+    short int    AL79    =    (short)1464206214;
     long double    rV1dNJA7    =    -236102967;
     unsigned short    e4iZ60    =    92748013;
 	unsigned char	jL1vd	=	-1692496122;
@@ -48,7 +48,7 @@ int main(int argc, char** argv) {
     unsigned char    xQ41al5i    =    0;
 	int	pxn6a81	=	-1482254745;
 	short	fM47NZi	=	(short)1235121507;
-	short	gWE1q8	=	242029796;
+	short	gWE1q8	=	(short)242029796;
 	unsigned long	ivgij	=	-1410791988;
   unsigned short  tP8c1mBC  =  1650941733;
 	long double	Vd056	=	229663690;
@@ -73,7 +73,7 @@ case 0:
 xQ41al5i = bM7W_2_((short)1885415171, -1043551674, Js69GqZ1M, W63z);
 break;
 case 1:
-BfH9OXNP7f = bM7W_2_((short)1145185896, 117410502, -1938363172, 819766575);
+BfH9OXNP7f = bM7W_2_((short)1145185896, 117410502, -1938363172, (unsigned short)819766575);
 break;
 case 2:
 qx9o_16Xw = (int)ceil(Js69GqZ1M);

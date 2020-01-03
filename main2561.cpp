@@ -60,7 +60,7 @@ case 'a':
 X1rWC08L = FZn1_q4(X1rWC08L, WWRR2, fD3WqfZid, (short)-1883489069, (unsigned char)-1505880414);
 break;
 case 'b':
-H36T = QfdB7lxR3o(-1758760746, -155276897, -1168547102);
+H36T = QfdB7lxR3o(-1758760746, (unsigned char)-155276897, -1168547102);
 break;
 case 'c':
 MDUCEH5 |= 874032321;
@@ -93,7 +93,7 @@ int j = 7;
 do
 {
 --j;
-rp2RirfW3w = vCkWu8L((unsigned short)566748485, (unsigned short)1419534724, Vxt94t6M3, -75847576);
+rp2RirfW3w = vCkWu8L((unsigned short)566748485, (unsigned short)1419534724, Vxt94t6M3, (char)-75847576);
 }
 while (j >= 0);
 }
@@ -307,7 +307,7 @@ int j = 3;
 do
 {
 --j;
-CHow4CW = vCkWu8L((unsigned short)-1491734570, (unsigned short)-1708214097, tfNZ01p, -726412627);
+CHow4CW = vCkWu8L((unsigned short)-1491734570, (unsigned short)-1708214097, tfNZ01p, (char)-726412627);
 }
 while (j >= 0);
 }
@@ -385,7 +385,7 @@ int i = 3;
 do
 {
 --i;
-std::cout << vCkWu8L(rp2RirfW3w, (unsigned short)-480216695, MDUCEH5, -1786681095) << std::endl;
+std::cout << vCkWu8L(rp2RirfW3w, (unsigned short)-480216695, MDUCEH5, (char)-1786681095) << std::endl;
 }
 while (i >= 0);
 }

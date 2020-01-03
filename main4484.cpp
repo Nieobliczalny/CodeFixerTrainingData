@@ -42,7 +42,7 @@ int main() {
   double  Adw6j8u3;
   Adw6j8u3  =  6874342;
   short  DnkBlkMQY;
-  DnkBlkMQY  =  1809625137;
+  DnkBlkMQY  =  (short)1809625137;
   long double  U_kk512t21;
   U_kk512t21  =  756906809;
   unsigned short  nNV6;
@@ -52,7 +52,7 @@ int main() {
   unsigned char  F9Feu43My;
   F9Feu43My  =  (unsigned char)1999632986;
     char    X_rG;
-    X_rG    =    -1125922797;
+    X_rG    =    (char)-1125922797;
     short    p_51nhxRo5;
     p_51nhxRo5    =    -1389296455;
 	long	w5hSHyx_1;

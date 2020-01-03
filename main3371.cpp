@@ -13,7 +13,7 @@ int main(void)
     unsigned short int    PE3nK,    spR3,    Ui_kxd1qac,    hK8z,    MUOV_,    D7oVwg,    iv_dFSpL,    DHMXi,    aBidZJ0,    qv0_F,    TW8xbIu,    Cr37CX,    i8tCX,    pAiZCE5oXD,    FT3A8Xz,    Q6roWiY_,    w9Io,    e9b4A1K5sf,    v1_VE,    yQUABwEajr,    sMImht,    u6oN,    xLxa,    a1_hO,    L92Jll,    E3toWV,    Y8Dc_cf,    F4EM_,    XA3y976qgR,    U2R9wU_lf,    CTWoCcs2_h,    crKfC6i,    y8sm59,    cECt_kf_M,    U9rb39U,    FaNm2n,    G1D94J,    b1mFl70RN,    dfm_03,    DcxUr335R,    l8Hl,    u4KiOQ_G,    DMaM3,    LzwS_QC8T,    Tur8z9GtFX,    U5o_vNP,    RG5AI2FZ,    CHrFv,    M6At5,    pFTj,    AnfEM6r6Yb,    M71PUJda,    aVP0dpCt_,    KW83,    w_J9,    YA0md,    Db_6hKE,    nL9Bqz1a8s,    hV5xS56P,    BEZ9y_On63,    O9P0L,    c3SQcu2D,    C9oYCN,    F188_y,    KD63F__s,    HY8NZ,    dvh8R628Rg,    lT_2rE5Z0H,    VbiGjrN17,    N5i3L,    nJE1,    vO081H4,    Z83zqR,    MT5p_I7,    E333V,    KaU0XNr8U,    ZSdEaWl,    qcA6rUGIg2,    TFee,    nQh4N8cE,    pvnoyjI,    BUMITdp,    ci29UvxbWU,    Y7O4fwFpWx,    iKO26t8,    Eaf_,    gH_94,    b00_,    LXjA9,    qdfY9Weh,    laY7T7SAFy,    GzaNr9xUil;
     PE3nK    =    (unsigned short)1800694421;
     spR3    =    (unsigned short)342410833;
-    Ui_kxd1qac    =    444263812;
+    Ui_kxd1qac    =    (unsigned short)444263812;
     hK8z    =    163092785;
     MUOV_    =    1612446280;
     D7oVwg    =    1910499150;
@@ -23,7 +23,7 @@ int main(void)
     qv0_F    =    -802624393;
     TW8xbIu    =    (unsigned short)557758967;
     Cr37CX    =    (unsigned short)-1602037498;
-    i8tCX    =    -1308866366;
+    i8tCX    =    (unsigned short)-1308866366;
     pAiZCE5oXD    =    -1691648572;
     FT3A8Xz    =    -830117246;
     Q6roWiY_    =    655068876;
@@ -33,7 +33,7 @@ int main(void)
     yQUABwEajr    =    -1688499449;
     sMImht    =    (unsigned short)13547428;
     u6oN    =    (unsigned short)1133287954;
-    xLxa    =    488513865;
+    xLxa    =    (unsigned short)488513865;
     a1_hO    =    1603956325;
     L92Jll    =    -2117704638;
     E3toWV    =    -443565863;
@@ -43,7 +43,7 @@ int main(void)
     U2R9wU_lf    =    515107705;
     CTWoCcs2_h    =    (unsigned short)-1935875251;
     crKfC6i    =    (unsigned short)-1594000207;
-    y8sm59    =    -372217930;
+    y8sm59    =    (unsigned short)-372217930;
     cECt_kf_M    =    -935955522;
     U9rb39U    =    708076480;
     FaNm2n    =    -1198694403;
@@ -53,7 +53,7 @@ int main(void)
     DcxUr335R    =    692802966;
     l8Hl    =    (unsigned short)1542555708;
     u4KiOQ_G    =    (unsigned short)1900121184;
-    DMaM3    =    -2991940;
+    DMaM3    =    (unsigned short)-2991940;
     LzwS_QC8T    =    -1469565849;
     Tur8z9GtFX    =    -1271107246;
     U5o_vNP    =    -1749686041;
@@ -63,7 +63,7 @@ int main(void)
     pFTj    =    638238368;
     AnfEM6r6Yb    =    (unsigned short)1962465298;
     M71PUJda    =    (unsigned short)-142497851;
-    aVP0dpCt_    =    450279623;
+    aVP0dpCt_    =    (unsigned short)450279623;
     KW83    =    1027882931;
     w_J9    =    -1767437401;
     YA0md    =    1517500097;
@@ -73,7 +73,7 @@ int main(void)
     BEZ9y_On63    =    878705937;
     O9P0L    =    (unsigned short)-1677300133;
     c3SQcu2D    =    (unsigned short)-2071668628;
-    C9oYCN    =    -2018971954;
+    C9oYCN    =    (unsigned short)-2018971954;
     F188_y    =    2071448874;
     KD63F__s    =    -970084545;
     HY8NZ    =    262707767;
@@ -83,7 +83,7 @@ int main(void)
     N5i3L    =    -2088717833;
     nJE1    =    (unsigned short)-73557658;
     vO081H4    =    (unsigned short)2090182560;
-    Z83zqR    =    514948489;
+    Z83zqR    =    (unsigned short)514948489;
     MT5p_I7    =    2138710686;
     E333V    =    -986653479;
     KaU0XNr8U    =    411350397;
@@ -93,7 +93,7 @@ int main(void)
     nQh4N8cE    =    -720301264;
     pvnoyjI    =    (unsigned short)-687401608;
     BUMITdp    =    (unsigned short)1563433659;
-    ci29UvxbWU    =    -1774895161;
+    ci29UvxbWU    =    (unsigned short)-1774895161;
     Y7O4fwFpWx    =    2044785255;
     iKO26t8    =    1717263616;
     Eaf_    =    -2022992298;

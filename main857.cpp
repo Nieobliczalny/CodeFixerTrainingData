@@ -32,7 +32,7 @@ HU65oFP |= 849182143;
 while (i < 1);
 }
 
-W2_D_ = Uz0XFuyPo((unsigned short)-576758670, (unsigned char)-1430682213, 720431125, -1720732283);
+W2_D_ = Uz0XFuyPo((unsigned short)-576758670, (unsigned char)-1430682213, (char)720431125, -1720732283);
 
 if (a_LVG >= -169377659)
 {
@@ -63,7 +63,7 @@ a_Apd8q4Q++;
 }
 else if (a_Apd8q4Q >= c2DUrx0m)
 {
-W2_D_ = Uz0XFuyPo(-400421718, j2yV, ZvF_RdAE, W2_D_);
+W2_D_ = Uz0XFuyPo((unsigned short)-400421718, j2yV, ZvF_RdAE, W2_D_);
 }
 else if (T5M661V <= tX7A1I)
 {
@@ -75,7 +75,7 @@ mpmk_ = Uz0XFuyPo(1274138209, YaVUy, mpmk_, 1199453835);
 }
 else
 {
-mpmk_ = Uz0XFuyPo(2022802715, -50614264, -887831630, cmxXY);
+mpmk_ = Uz0XFuyPo((unsigned short)2022802715, -50614264, -887831630, cmxXY);
 }
 }
 }
@@ -155,7 +155,7 @@ case 1:
 GwAvp &= xy5i17g2;
 break;
 case 2:
-W2_D_ = Uz0XFuyPo((unsigned short)1220412026, (unsigned char)-757423631, -908908197, Lyo90rgw);
+W2_D_ = Uz0XFuyPo((unsigned short)1220412026, (unsigned char)-757423631, (char)-908908197, Lyo90rgw);
 break;
 case 3:
 R2fB = Uz0XFuyPo(TTW14UW, -1096360364, -559775067, GwAvp);
@@ -179,7 +179,7 @@ while (i >= 0);
 }
 pdzAd0ZZX = 1238221663 / Uz0XFuyPo((unsigned short)1498588209, igL2w1q, a0__X, 1762198629);
 xD3I = G8B1o | 1281575766;
-std::cout << Uz0XFuyPo((unsigned short)41284032, -949626915, a0__X, dnG7v65) << Uz0XFuyPo(-174713107, igL2w1q, a0__X, dnG7v65) << Uz0XFuyPo(o0u3W, igL2w1q, a0__X, dnG7v65) << "jTHlj_5" << jK_B0K << std::endl;
+std::cout << Uz0XFuyPo((unsigned short)41284032, (unsigned char)-949626915, a0__X, dnG7v65) << Uz0XFuyPo(-174713107, igL2w1q, a0__X, dnG7v65) << Uz0XFuyPo(o0u3W, igL2w1q, a0__X, dnG7v65) << "jTHlj_5" << jK_B0K << std::endl;
 
 {
 int i = 0;
@@ -194,7 +194,7 @@ if ((i_931_KCIn < UJYo64PFC3) || ((YEU3V4 >= a_Apd8q4Q) || (DlQ__K & -1901530465
 P1gg1_Be_y = Uz0XFuyPo(o0u3W, igL2w1q, (char)1927484217, dnG7v65) << 1676007602;
 }
 
-W2_D_ = Uz0XFuyPo(FRxwC96z, (unsigned char)992040971, -666639110, TTW14UW);
+W2_D_ = Uz0XFuyPo(FRxwC96z, (unsigned char)992040971, (char)-666639110, TTW14UW);
 if (((v7dWe4U_ & -2144303520) && (ZaTs & tX7A1I)) && (P94hW599gF > tX7A1I))
 {
 if ((j2yV != tX7A1I) || (Lyo90rgw != -1822360005))

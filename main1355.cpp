@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
  unsigned long long gBm7 = 0;
   unsigned short  JO4M_EBf02  =  (unsigned short)1967944640;
 	long double	F77VDK	=	-1800110388;
- short int R_60nRa = 1169133394;
+ short int R_60nRa = (short)1169133394;
 	unsigned long	memck	=	0;
 
 try

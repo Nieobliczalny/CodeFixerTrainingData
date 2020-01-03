@@ -48,7 +48,7 @@ int main(int argc, char** argv)
     long double    DAZp_;
     DAZp_    =    -887668022;
   short int  u9_jA6L;
-  u9_jA6L  =  -1339311395;
+  u9_jA6L  =  (short)-1339311395;
  double cD6j05;
  cD6j05 = -1509741532;
 	long	Jd6A8MNUD;
@@ -62,7 +62,7 @@ int main(int argc, char** argv)
   unsigned short int  YQScT1Yog;
   YQScT1Yog  =  (unsigned short)-1491083555;
     unsigned char    GcV9nHUVh;
-    GcV9nHUVh    =    297208194;
+    GcV9nHUVh    =    (unsigned char)297208194;
  char XKVBAP;
  XKVBAP = -876716898;
  float fBBI;
@@ -182,7 +182,7 @@ case 1:
 NkaRi4V = J_t1rmz5x | nAgDVXs0O;
 break;
 case 2:
-b05gvE2ZL = z8h74Om9Eg(790071188, (unsigned short)-638715078, -626652290, (unsigned short)-833761278, 1654886910);
+b05gvE2ZL = z8h74Om9Eg(790071188, (unsigned short)-638715078, -626652290, (unsigned short)-833761278, (unsigned short)1654886910);
 break;
 case 3:
 o_gE_ = (int)floor(lq6Kwa_F);
@@ -194,7 +194,7 @@ case 5:
 UA5p = (int)floor(o_gE_);
 break;
 case 6:
-GcV9nHUVh = z8h74Om9Eg(b05gvE2ZL, (unsigned short)1569313495, othLd, (unsigned short)-877756010, -158081144) << othLd;
+GcV9nHUVh = z8h74Om9Eg(b05gvE2ZL, (unsigned short)1569313495, othLd, (unsigned short)-877756010, (unsigned short)-158081144) << othLd;
 break;
 default:
 XKVBAP = Zp7p253t + 1917402324;
@@ -214,7 +214,7 @@ Zp7p253t = IRtR2SDt();
 }
 else
 {
-cout << MZ_06IQu2(Zp7p253t, (unsigned short)1930092552) << MZ_06IQu2(-1128735724, (unsigned short)-956684651) << "pJC230" << R7WsK(-1862066759, -1076427838, tKN_) << endl;
+cout << MZ_06IQu2(Zp7p253t, (unsigned short)1930092552) << MZ_06IQu2(-1128735724, (unsigned short)-956684651) << "pJC230" << R7WsK((short)-1862066759, -1076427838, tKN_) << endl;
 }
 }
 catch (int& errorCode)

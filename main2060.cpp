@@ -74,7 +74,7 @@ dATLb9_9 = s689z5__9(gUEq04);
 }
 else if (dATLb9_9 > -628607483)
 {
-dATLb9_9 = V8Za0DT((unsigned short)-1393858562, dATLb9_9, -209250198, 1483373859, 1015883971);
+dATLb9_9 = V8Za0DT((unsigned short)-1393858562, dATLb9_9, -209250198, 1483373859, (short)1015883971);
 }
 else
 {
@@ -99,7 +99,7 @@ dATLb9_9 -= 403408052;
 break;
 case 'd':
 case 'D':
-dATLb9_9 = V8Za0DT((unsigned short)130739756, (char)-1247088508, gUEq04, w0z634, 1486861913);
+dATLb9_9 = V8Za0DT((unsigned short)130739756, (char)-1247088508, gUEq04, w0z634, (short)1486861913);
 break;
 case 'e':
 case 'E':
@@ -227,7 +227,7 @@ if ((w0z634 <= gUEq04) && (w0z634 >= uylo))
 {
 try
 {
-dATLb9_9 = V8Za0DT((unsigned short)-1497547237, (char)1016159248, -834147118, 551094387, 1228398410);
+dATLb9_9 = V8Za0DT((unsigned short)-1497547237, (char)1016159248, -834147118, 551094387, (short)1228398410);
 }
 catch (int& errorCode)
 {
@@ -284,7 +284,7 @@ dATLb9_9 = s689z5__9(dATLb9_9);
 while (i < 9);
 }
 
-cout << V8Za0DT((unsigned short)-282527231, (char)1914688409, -2047140769, w0z634, -281321471) << s689z5__9(dATLb9_9) << hbFc(dATLb9_9, -322801446, gUEq04, -2061271406, 1168055732) << endl;
+cout << V8Za0DT((unsigned short)-282527231, (char)1914688409, -2047140769, w0z634, (short)-281321471) << s689z5__9(dATLb9_9) << hbFc(dATLb9_9, -322801446, gUEq04, -2061271406, 1168055732) << endl;
 try
 {
 for (int j = 0; j < 7; j++)
@@ -368,7 +368,7 @@ case 8:
 dATLb9_9 = hbFc(-1391794334, w0z634, (short)1083543718, -414522389, 1050794616);
 break;
 case 9:
-dATLb9_9 = V8Za0DT(dATLb9_9, (char)-1978863126, 1388868999, w0z634, -37444144);
+dATLb9_9 = V8Za0DT(dATLb9_9, (char)-1978863126, 1388868999, w0z634, (short)-37444144);
 break;
 }
 }
@@ -481,7 +481,7 @@ case 7:
 gUEq04 = SrSNL();
 break;
 case 8:
-dATLb9_9 = V8Za0DT(w0z634, gUEq04, -1598352682, 69133654, 1019051363);
+dATLb9_9 = V8Za0DT(w0z634, gUEq04, -1598352682, 69133654, (short)1019051363);
 break;
 case 9:
 dATLb9_9 = hbFc(-2041639896, gUEq04, (short)1444093855, 1870691215, -504433278);
@@ -542,7 +542,7 @@ w0z634 = SrSNL();
 break;
 case 'c':
 case 'C':
-dATLb9_9 = V8Za0DT((unsigned short)1397072461, (char)-1999821814, -693224113, w0z634, -2055178343);
+dATLb9_9 = V8Za0DT((unsigned short)1397072461, (char)-1999821814, -693224113, w0z634, (short)-2055178343);
 break;
 case 'd':
 case 'D':

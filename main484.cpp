@@ -343,7 +343,7 @@ m96ZmUfTr = ZwUASyh71M / mBUp3VOY9B((char)2062500472);
 Jlury2F = (B62Q_GkghK != 1780425359) ? mBUp3VOY9B((char)-43347485) : Dqq8v;
 z8Ars6 = M1667_Q3H9 / 370858018;
 
-std::cout << mBUp3VOY9B(864862822) << "ypf4H" << std::endl;
+std::cout << mBUp3VOY9B((char)864862822) << "ypf4H" << std::endl;
 if ((hYR392_ != 421720224) && (fny7 <= Zws_RoEPdp))
 {
 for (int j = 0; j < 1; ++j)

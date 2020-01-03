@@ -29,7 +29,7 @@ int main(int argc, char** argv)
   float  gLdOG_;
   gLdOG_  =  -975368068;
  short int Ka3K7xyK;
- Ka3K7xyK = -632727846;
+ Ka3K7xyK = (short)-632727846;
     long double    OXq994;
     OXq994    =    -1556473300;
     unsigned short    JrLX;
@@ -75,7 +75,7 @@ int main(int argc, char** argv)
   double  BRYNaI_;
   BRYNaI_  =  1137924480;
  short int G1ion268;
- G1ion268 = 256293642;
+ G1ion268 = (short)256293642;
   long  G0s5P0I;
   G0s5P0I  =  614208827;
   unsigned short  F4tlsX;
@@ -85,7 +85,7 @@ int main(int argc, char** argv)
   short  ti32d1833;
   ti32d1833  =  (short)2078213819;
   short  dQAvLv_n;
-  dQAvLv_n  =  1934322100;
+  dQAvLv_n  =  (short)1934322100;
   long  XfmT;
   XfmT  =  -2057976751;
  long double DwFS;
@@ -109,7 +109,7 @@ int main(int argc, char** argv)
  unsigned long long U8m2;
  U8m2 = 988735301;
     unsigned short int    up4356;
-    up4356    =    101552127;
+    up4356    =    (unsigned short)101552127;
   short int  hj3L6A;
   hj3L6A  =  (short)897500921;
 	double	B12_qox8;

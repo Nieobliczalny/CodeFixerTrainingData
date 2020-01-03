@@ -34,7 +34,7 @@ int main(void)
     int    b_yCths    =    544689065;
 	long	T6yd_B2O7	=	-636146145;
  long long ip2wBZ2D_3 = -1245587661;
-    unsigned short    dl8fgNjLjw    =    -1050436580;
+    unsigned short    dl8fgNjLjw    =    (unsigned short)-1050436580;
 	unsigned long long	Wjk2Gb74	=	-1520329155;
     unsigned int    V8Akw    =    2098973779;
     unsigned short int    ZQoxWM15ND    =    (unsigned short)1760163354;
@@ -48,7 +48,7 @@ int main(void)
 	long long	RXz6	=	-1751421808;
 	short int	hO7KO_	=	0;
     unsigned short    laY028E    =    (unsigned short)-1873643190;
-	unsigned short int	T60KAb72f	=	1595766389;
+	unsigned short int	T60KAb72f	=	(unsigned short)1595766389;
  double AazsH = -1369678385;
  unsigned short w147BD26 = (unsigned short)334515636;
 	float	aGA81xl0v	=	325377048;

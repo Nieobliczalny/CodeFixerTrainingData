@@ -17,7 +17,7 @@ int main(int argc, char** argv)
 	float	MWNRr	=	435435104;
     unsigned char    L7LW2Uh    =    (unsigned char)605909142;
     short    a8kH    =    (short)1766875222;
- short ltd8P7EuU = -769998589;
+ short ltd8P7EuU = (short)-769998589;
 	char	uBw66Qk82	=	0;
  unsigned short int j1u8cs0t4s = -1266081787;
  char GYAfVtH39z = 1428729152;

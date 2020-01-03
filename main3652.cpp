@@ -98,7 +98,7 @@ xuPvB5S2R8 = Jy_v6(Wl5OJt, (char)1960619834, R1qMm, 79273719, (unsigned char)-10
 }
 else
 {
-xuPvB5S2R8 = Jy_v6(IikCNJ1a, -117826119, 1968881163, -1211599109, BUnk88K);
+xuPvB5S2R8 = Jy_v6(IikCNJ1a, (char)-117826119, 1968881163, -1211599109, BUnk88K);
 }
 
 n7Z_SlPI = (int)abs(xuPvB5S2R8);
@@ -127,7 +127,7 @@ for (int j = 0; j < 2; ++j)
 {
 for (int k = 3; k >= 0; --k)
 {
-n7Z_SlPI = Jy_v6((unsigned short)-1952549195, (char)580588150, -1759460671, 1331524203, 1316014181);
+n7Z_SlPI = Jy_v6((unsigned short)-1952549195, (char)580588150, -1759460671, 1331524203, (unsigned char)1316014181);
 }
 }
 }
@@ -150,7 +150,7 @@ n7Z_SlPI = (int)abs(xuPvB5S2R8);
 break;
 case 'c':
 case 'C':
-n7Z_SlPI = Jy_v6(728183943, 1120770281, v571_, 990918662, -16704252);
+n7Z_SlPI = Jy_v6((unsigned short)728183943, 1120770281, v571_, 990918662, -16704252);
 break;
 case 'd':
 case 'D':
@@ -171,7 +171,7 @@ std::cout << "hJYm6" << Jy_v6(k3h0V, (char)462554117, 605926999, E4S9vSPK, (unsi
 switch (pF0o)
 {
 case 0:
-n7Z_SlPI = Jy_v6(1623515438, q3pI38wr9, Cejnvz8NI, 247146376, -1272434483);
+n7Z_SlPI = Jy_v6((unsigned short)1623515438, q3pI38wr9, Cejnvz8NI, 247146376, -1272434483);
 break;
 case 1:
 Sue3GH7t30 = w29psOJH << 814659573;
@@ -186,7 +186,7 @@ case 4:
 ZHUF1nP0--;
 break;
 case 5:
-xuPvB5S2R8 = Jy_v6(-2037220806, a9H1, 864253709, 729043646, -903081300);
+xuPvB5S2R8 = Jy_v6((unsigned short)-2037220806, a9H1, 864253709, 729043646, -903081300);
 break;
 case 6:
 xuPvB5S2R8 = Jy_v6(icg3D, a9H1, nq69R6qQQ1, -1627017042, w00J);
@@ -201,7 +201,7 @@ case 9:
 iGtd60h8 = Jy_v6(v571_, iGtd60h8, I_5eBd81, UaPi, Kk_v) % I_5eBd81;
 break;
 default:
-n7Z_SlPI = Jy_v6((unsigned short)-1234346606, 1751396723, -164825658, -386400907, E4S9vSPK);
+n7Z_SlPI = Jy_v6((unsigned short)-1234346606, (char)1751396723, -164825658, -386400907, E4S9vSPK);
 break;
 }
 xuPvB5S2R8 = Jy_v6(xuPvB5S2R8, MvFXhCW, 397359898, 1476373429, 409170039);
@@ -225,7 +225,7 @@ MvFXhCW = (OJV4iDmLi7 == PFmcUpY_F) ? -1016100071 : -2004697167;
 }
 
 std::cout << "Ai7Er1Hfub" << eRP4hMW << VC3L46u << "pi74_z7" << std::endl;
-std::cout << Cejnvz8NI << Jy_v6(xuPvB5S2R8, (char)-2141705486, 416879156, WdOLnrW0Na, (unsigned char)-207978585) << "v1qkJ008" << Jy_v6(-1451471480, MvFXhCW, 919761519, WdOLnrW0Na, zc2ESA) << std::endl;
+std::cout << Cejnvz8NI << Jy_v6(xuPvB5S2R8, (char)-2141705486, 416879156, WdOLnrW0Na, (unsigned char)-207978585) << "v1qkJ008" << Jy_v6((unsigned short)-1451471480, MvFXhCW, 919761519, WdOLnrW0Na, zc2ESA) << std::endl;
 
 for (int i = 0; i < 5; ++i)
 {

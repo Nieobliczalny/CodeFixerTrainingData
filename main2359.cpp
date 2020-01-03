@@ -90,7 +90,7 @@ case 1:
 HQ20 = xO4y(-1601140274, (unsigned short)-923091741, MSDbg, (unsigned char)222915559) * Vqar_;
 break;
 case 2:
-fQT5s9e = s4XkYyO2A5(2004118518, MSDbg, -541736356, 708293792);
+fQT5s9e = s4XkYyO2A5((unsigned short)2004118518, MSDbg, -541736356, 708293792);
 break;
 case 3:
 AP_blCw += 125120004;
@@ -105,7 +105,7 @@ case 6:
 ok46HU91p = s4XkYyO2A5((unsigned short)-1552031863, w97QGr, -374539034, g41URULH4);
 break;
 case 7:
-tX9xu = s4XkYyO2A5(1387036923, 1928989425, CzU43, b1UM1b5b1h);
+tX9xu = s4XkYyO2A5((unsigned short)1387036923, 1928989425, CzU43, b1UM1b5b1h);
 break;
 case 8:
 rt0OM = s4XkYyO2A5(tX9xu, -1785694783, 1530527617, 1883816381) | 1744907970;
@@ -299,7 +299,7 @@ j--;
 
 std::cout << qTT_v_88q << Gvto_07 << std::endl;
 
-std::cout << s4XkYyO2A5((unsigned short)-803772079, -742374345, 1265967102, -357376097) << "r3_dj70nh" << "QsT30" << s4XkYyO2A5((unsigned short)-1186401812, b1Ieq5U1, SED6bUE, 73555197) << VmGXN(U9Pq5292P, 537652490, SED6bUE, 1828869607) << std::endl;
+std::cout << s4XkYyO2A5((unsigned short)-803772079, -742374345, 1265967102, -357376097) << "r3_dj70nh" << "QsT30" << s4XkYyO2A5((unsigned short)-1186401812, b1Ieq5U1, SED6bUE, 73555197) << VmGXN(U9Pq5292P, (unsigned short)537652490, SED6bUE, 1828869607) << std::endl;
 for (int i = 8; i >= 0; --i)
 {
 {

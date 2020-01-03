@@ -78,7 +78,7 @@ int main(void) {
 	long long	haEm;
 	haEm	=	1660202612;
     char    YzzXBR1R;
-    YzzXBR1R    =    -832744216;
+    YzzXBR1R    =    (char)-832744216;
   double  US_st3;
   US_st3  =  -1459520878;
  unsigned int lx5auI2Cc;

@@ -34,7 +34,7 @@ short int  T1H0Z5V7(long long  g0FcK,short int  x4dO27C,unsigned short  oZmCH47t
 int main(void) {
     short int    kgQ_9YM9H_    =    (short)-191551841;
 	long double	QEeA_Ll	=	1187525119;
-  unsigned char  rzBwt9Zu  =  -749090433;
+  unsigned char  rzBwt9Zu  =  (unsigned char)-749090433;
   unsigned int  KB19i  =  1240190399;
  float ByL2e = -1887997598;
   unsigned short int  W08X5  =  2072879106;
@@ -47,7 +47,7 @@ int main(void) {
   long  R1gMpQ4  =  1427785771;
     unsigned short    XeH23    =    (unsigned short)1731429731;
     unsigned int    Moy52VQ    =    -1992612909;
-    char    SYve4ngD    =    50146911;
+    char    SYve4ngD    =    (char)50146911;
  unsigned short int pyPUaFR = 1906460497;
  long s_Yo8v1 = -1679570777;
   short  btokEZ0qi6  =  2067887482;
@@ -59,7 +59,7 @@ int main(void) {
 	long	aOoNv	=	-319456042;
     long long    s35W_    =    -636623150;
  unsigned char jjc4oR2Ysf = (unsigned char)-1140475744;
-	unsigned short	r9z66B65	=	1841841710;
+	unsigned short	r9z66B65	=	(unsigned short)1841841710;
     long    L6Ka8X1OQ    =    -1522420234;
 	unsigned short int	y642f	=	-15558146;
 	unsigned short	N902oLB_	=	(unsigned short)-1202527285;
@@ -71,7 +71,7 @@ int main(void) {
  long knbY0WcTz2 = -1780780289;
   short  N_Ec5zu  =  (short)-1716627085;
 	long	P5J46Eb	=	-347652594;
-  char  CQB_6d386  =  -125274053;
+  char  CQB_6d386  =  (char)-125274053;
 	long double	Ux03k4qz8n	=	90556016;
   unsigned char  vD0Yaq321  =  (unsigned char)-966878831;
   char  tJ_At784  =  662560175;
@@ -81,7 +81,7 @@ int main(void) {
     unsigned short int    Bvu8    =    -1008676786;
  short int viNJef_6 = (short)-367581668;
 	unsigned char	F5ABJ6Rzg2	=	72657313;
- unsigned short pWzPOu7pW = -1894639849;
+ unsigned short pWzPOu7pW = (unsigned short)-1894639849;
     unsigned long long    Lp_5J_P4    =    0;
 
 {
@@ -129,7 +129,7 @@ else if (Ysn6kwa >= b3YsX)
 switch (q93Sk43)
 {
 case 'a':
-Lp_5J_P4 = EJis((unsigned short)1281674467, -2143090933);
+Lp_5J_P4 = EJis((unsigned short)1281674467, (short)-2143090933);
 break;
 case 'b':
 Ux03k4qz8n = (int)ceil(pjOlz_);
@@ -184,7 +184,7 @@ catch (int& errorCode)
 y642f = NiLkn0 | 80704656;
 }
 
-knbY0WcTz2 = KB19i / EJis((unsigned short)443082952, -192909002);
+knbY0WcTz2 = KB19i / EJis((unsigned short)443082952, (short)-192909002);
 
 try
 {

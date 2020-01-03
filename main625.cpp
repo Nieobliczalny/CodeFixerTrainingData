@@ -35,7 +35,7 @@ int main()
   float  iC5uGx;
   iC5uGx  =  -278572036;
 	char	SEM82ExMq;
-	SEM82ExMq	=	2000584620;
+	SEM82ExMq	=	(char)2000584620;
     long long    ElCR;
     ElCR    =    -685063097;
  long long O91XP;
@@ -51,7 +51,7 @@ int main()
   float  cekQMZTTd;
   cekQMZTTd  =  -425000113;
   unsigned short int  A_9cv9xBBu;
-  A_9cv9xBBu  =  -1757156389;
+  A_9cv9xBBu  =  (unsigned short)-1757156389;
     unsigned short int    BQa_e;
     BQa_e    =    (unsigned short)251688625;
  long long f5UxDyh5_;
@@ -200,7 +200,7 @@ case 3:
 iC5uGx = (int)ceil(FpR516);
 break;
 default:
-Uxd_UvsN = wF8XCal((unsigned short)251607817, (short)-496837670, CP5x, O8xk_8, -280433289);
+Uxd_UvsN = wF8XCal((unsigned short)251607817, (short)-496837670, CP5x, O8xk_8, (unsigned short)-280433289);
 break;
 }
 }
@@ -308,7 +308,7 @@ CP5x %= 502316416;
 }
 else
 {
-SEM82ExMq = wF8XCal((unsigned short)-2034623626, cNm_1iHR, (unsigned char)1725509226, 1311913971, 1747566210);
+SEM82ExMq = wF8XCal((unsigned short)-2034623626, cNm_1iHR, (unsigned char)1725509226, (unsigned char)1311913971, 1747566210);
 }
 }
 else

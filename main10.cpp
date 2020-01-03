@@ -119,7 +119,7 @@ case 1:
 SzniAVE -= 228095525;
 break;
 case 2:
-ZN4TFE_iJa = Ke1kIy(1770001531, (char)-1247595490, 311689657);
+ZN4TFE_iJa = Ke1kIy(1770001531, (char)-1247595490, (short)311689657);
 break;
 case 3:
 SiHQFm -= 941252469;
@@ -137,7 +137,7 @@ break;
 }
 if (cmdP_ >= -464804483)
 {
-x5F8v1f = (cB0_uHeJq >= 395653262) ? (unsigned short)-1449282449 : -421375918;
+x5F8v1f = (cB0_uHeJq >= 395653262) ? (unsigned short)-1449282449 : (unsigned short)-421375918;
 }
 else
 {
@@ -468,7 +468,7 @@ case 5:
 sP5it1j = (d0Ph7A1ubI != 1531739272) ? (unsigned short)1472577952 : (unsigned short)1833712944;
 break;
 case 6:
-p20_sVN49k = zkpHJ0(p20_sVN49k, 1891336787, 1154221341, 426687737);
+p20_sVN49k = zkpHJ0(p20_sVN49k, 1891336787, (short)1154221341, 426687737);
 break;
 case 7:
 Di1HL263P = q9ePX3QdX5(Di1HL263P);

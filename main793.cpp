@@ -46,7 +46,7 @@ int main(void)
   unsigned short  Iw6by2d6;
   Iw6by2d6  =  0;
 	unsigned short int	Q_HN6;
-	Q_HN6	=	-184507320;
+	Q_HN6	=	(unsigned short)-184507320;
 	unsigned int	ejO2;
 	ejO2	=	-1422911310;
   long long  yp7lm5;
@@ -64,7 +64,7 @@ int main(void)
   short int  cTC5;
   cTC5  =  (short)1196719684;
  unsigned short int C0q_9;
- C0q_9 = -2095740066;
+ C0q_9 = (unsigned short)-2095740066;
   long  BqhTJwml1e;
   BqhTJwml1e  =  1486705063;
     short    ljY6Okakz;
@@ -76,7 +76,7 @@ int main(void)
 	short int	zwM6f022;
 	zwM6f022	=	0;
   short int  BYIma9w58r;
-  BYIma9w58r  =  -766229465;
+  BYIma9w58r  =  (short)-766229465;
 
 {
 int i = 0;

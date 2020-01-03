@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
   unsigned short int  a5NF;
   a5NF  =  (unsigned short)669063349;
 	char	Fzptt458;
-	Fzptt458	=	-1554757608;
+	Fzptt458	=	(char)-1554757608;
 	short	PV3_5C_;
 	PV3_5C_	=	(short)1713232092;
   float  EKx4r_c;
@@ -92,7 +92,7 @@ int main(int argc, char** argv) {
   double  Bpwgd;
   Bpwgd  =  -176847478;
     unsigned char    dp_o_VpV;
-    dp_o_VpV    =    -1189508300;
+    dp_o_VpV    =    (unsigned char)-1189508300;
  short xHr3t0;
  xHr3t0 = 2073549038;
     long    c_is;
@@ -108,7 +108,7 @@ int main(int argc, char** argv) {
 	int	tzd_6;
 	tzd_6	=	-1516677;
     short    MNs1;
-    MNs1    =    -789120111;
+    MNs1    =    (short)-789120111;
  unsigned char Yu0kh_;
  Yu0kh_ = -540562644;
     short    gk056zM0;
@@ -140,7 +140,7 @@ int main(int argc, char** argv) {
     short int    dTZR0s;
     dTZR0s    =    (short)-866277056;
     unsigned short int    aoEe;
-    aoEe    =    419753125;
+    aoEe    =    (unsigned short)419753125;
 
 if (WqFb_tA >= 792320111)
 {

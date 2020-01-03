@@ -29,7 +29,7 @@ int main(void)
  unsigned int ZN_bI = -934281677;
  char e96J = (char)730333280;
 	unsigned char	dRJy8	=	(unsigned char)1394118513;
- char Vj15 = 1500166637;
+ char Vj15 = (char)1500166637;
   double  rROb6ZCyI  =  -2018852501;
   unsigned long  O3jAQ2  =  414739629;
     float    Xq9k1I    =    -1906568620;
@@ -43,7 +43,7 @@ int main(void)
  unsigned long long T0T48yfGk = -211200394;
     unsigned short int    P8_za    =    (unsigned short)2134377307;
   int  BvErJA3i  =  193966140;
- short int V6ibLL = 80031958;
+ short int V6ibLL = (short)80031958;
  unsigned char O_H8 = -841677732;
 	unsigned short	L_LG	=	1891181569;
 	int	N4QJ	=	2041501552;
@@ -54,7 +54,7 @@ int main(void)
  unsigned long Fln3g = -404565328;
   unsigned short int  M_02PLUx  =  (unsigned short)-492223441;
  unsigned long Kcc9sgPHc = 1276349011;
-  short int  BB3lp1Cb  =  931774338;
+  short int  BB3lp1Cb  =  (short)931774338;
  short int qjr_oO = -809174520;
  double UT__rzb = -1048598798;
  short int d3Y7 = (short)2052759760;
@@ -72,7 +72,7 @@ int main(void)
   unsigned int  Fu9Ve  =  939699004;
     short    ky0cG5h    =    (short)2122532684;
   int  E08Rvyb  =  -74726961;
- unsigned short int iLq7dZ3bL7 = -1430876880;
+ unsigned short int iLq7dZ3bL7 = (unsigned short)-1430876880;
 	unsigned long	sDao	=	1949884827;
  long long QuHG9CaY = 227040459;
  unsigned char a0N0x = (unsigned char)-1379664900;
@@ -82,7 +82,7 @@ int main(void)
 	unsigned char	N5EPRb3	=	1652238353;
  short int xL9Y5R_ = (short)-48482405;
 	unsigned long long	Vvej_DZl	=	-1030110034;
- short b83K_ = 542799385;
+ short b83K_ = (short)542799385;
   short  sTc4Vlc_47  =  1175714514;
 	int	f6aS3A	=	-77333511;
     unsigned long    saEO41viz    =    -206590284;
@@ -94,7 +94,7 @@ int main(void)
     unsigned short int    QD2z    =    -801390948;
 	int	P4oA	=	326798735;
  float AKS2TH3_h = -299301593;
-    short    b79Q28EfQk    =    959541725;
+    short    b79Q28EfQk    =    (short)959541725;
  unsigned long dtJ2sfyw = -671671375;
 
 qjr_oO <<= cYaCP0Iz;
@@ -129,7 +129,7 @@ Fu9Ve = Zc4x((char)811297760, (unsigned char)-1969633683);
 break;
 case 'g':
 case 'G':
-qjr_oO = Zc4x(qjr_oO, 1933365635);
+qjr_oO = Zc4x(qjr_oO, (unsigned char)1933365635);
 break;
 case 'h':
 case 'H':
@@ -567,7 +567,7 @@ while (i >= 0)
 {
 if ((Fln3g >= C_O3yf) || (joLx_ar2p > -658455629))
 {
-std::cout << Zc4x((char)1562112132, (unsigned char)1591222622) << NuNAxETRdf(-2107618044, -1402439809, M_02PLUx) << std::endl;
+std::cout << Zc4x((char)1562112132, (unsigned char)1591222622) << NuNAxETRdf(-2107618044, (unsigned char)-1402439809, M_02PLUx) << std::endl;
 }
 --i;
 }

@@ -34,7 +34,7 @@ int main() {
 // codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
     short int    r4Wp75c    =    1849979047,    s5hzEe34X1    =    -597508212,    R_5gS_y38r    =    -1657477097,    Uam_PV    =    -1571629491,    PK3t    =    -826137319,    IAJBN4IJ3S    =    -1324768273,    fEx7    =    -608456930,    If733_4f_    =    -509900972,    y_zY0    =    1362041706,    L11cvwJzU    =    -1402476314,    cK9HgJTX3    =    1746693349,    vLUc    =    -453946730,    AjvOXCoo3    =    -833841326,    JEpPKoxW    =    910120900,    uNcvX    =    -288275386,    Rjti    =    -1774338961,    O2y0kz8    =    -250461634,    X_BC5m5_    =    129968101,    pAaacUEW0    =    1015627284,    ql19NRHRR    =    1229559268,    SLqkT4y    =    138568778,    f67r2y4lj8    =    873268112,    L77iFsj0j4    =    -1464092681,    tC83tPVF    =    -1189236184,    DSRW8qlRG    =    1779948418,    bOk9o4GfQ5    =    282698925,    o3eJ41I4P0    =    -1363388694,    SuM0Mk_wr    =    134897090,    lEZPzh3m    =    1693175306,    h2i6n    =    -1132937182,    zk9iHKsQ8B    =    -866593573,    e6D_49l    =    -529767528,    Sn3Tnepyd    =    -421521500,    KE36Ot43    =    -282049435,    doa3FfIn4N    =    364912783,    GYWb    =    1705466113,    pyG1    =    491336160,    c7hfVDFj    =    1746246637,    jDDYt0c0    =    -79755192,    LJre12y3    =    -567212574,    SyXZo    =    340431744,    eyK1_9    =    -390636087,    V9UH1MO9    =    193052069,    E8u0mq1    =    1386743573,    gdW5r    =    1100791223,    sVs0mQ    =    -1498918999,    QPV_0Z    =    1033234237,    JkhIUq8V    =    1497195420,    Kx19P3    =    2067451503,    S0ErNEOigm    =    750234023,    fq0q1_D    =    -1562392550,    N1of4    =    -348768360,    I2rkNlR7    =    -70057461,    A8xD    =    236206939,    jH69V3    =    -542729044,    yhg7    =    1849882583,    D3PEo2    =    505421273,    P6wBpZusT2    =    -980418219,    p80yNm7k5    =    2032911252,    YXBpMuSp    =    1955611274,    SaUwO6QMY9    =    1560568768,    xL14t1e74u    =    1547378480,    bqa23wW_7    =    -1796066559,    Xf57lF0R_N    =    1679656164,    xWE1M    =    -1799868602,    eM8U_6JyA    =    -2145318982,    V5i28    =    -2006803248;
 
-cout << "W_Te9IO" << doa3FfIn4N << B8PE6N8W(-1822913872, -393896658) << vLUc << endl;
+cout << "W_Te9IO" << doa3FfIn4N << B8PE6N8W((short)-1822913872, -393896658) << vLUc << endl;
 
 cout << -2100086794 / ox41q5 << endl;
 xWE1M = AD_0nd << 1067528467;
@@ -149,7 +149,7 @@ else
 switch (A8xD)
 {
 case 'a':
-ql19NRHRR = Vjdx((unsigned char)-556045685, (unsigned char)-1680349628, -1794106819);
+ql19NRHRR = Vjdx((unsigned char)-556045685, (unsigned char)-1680349628, (unsigned short)-1794106819);
 break;
 case 'b':
 AjvOXCoo3 = Vjdx(1157378189, 1977242889, tC83tPVF);
@@ -288,7 +288,7 @@ case 3:
 AjvOXCoo3 = (int)abs(V9UH1MO9);
 break;
 case 4:
-P6wBpZusT2 = y6a7xa19g4(P6wBpZusT2, (short)-875485864, SLqkT4y, 913048846);
+P6wBpZusT2 = y6a7xa19g4(P6wBpZusT2, (short)-875485864, SLqkT4y, (char)913048846);
 break;
 case 5:
 pyG1 = y6a7xa19g4(pyG1, -241793698, -1859768173, 557970398);
@@ -298,7 +298,7 @@ PK3t = y6a7xa19g4(PK3t, (short)-557294260, If733_4f_, fEx7);
 break;
 }
 }
-cout << f67r2y4lj8 << y_zY0 << ue9_() << Vjdx(PK3t, (unsigned char)-54285458, 1805244895) << "RAw4" << endl;
+cout << f67r2y4lj8 << y_zY0 << ue9_() << Vjdx(PK3t, (unsigned char)-54285458, (unsigned short)1805244895) << "RAw4" << endl;
 switch (tC83tPVF)
 {
 case 0:

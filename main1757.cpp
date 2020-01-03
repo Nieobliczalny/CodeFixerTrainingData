@@ -65,7 +65,7 @@ int main() {
   int  hEvhsqC0;
   hEvhsqC0  =  -1957381941;
  unsigned short int e4yuh0;
- e4yuh0 = 1036147261;
+ e4yuh0 = (unsigned short)1036147261;
   unsigned char  jd651c;
   jd651c  =  2055192623;
 	long long	U2HdHo;
@@ -77,7 +77,7 @@ int main() {
 	long	Q2Sr;
 	Q2Sr	=	2036857440;
   short  i529XR8jq;
-  i529XR8jq  =  -1568930369;
+  i529XR8jq  =  (short)-1568930369;
   long double  mR12o457;
   mR12o457  =  1122203778;
 	long	ndTp;

@@ -27,7 +27,7 @@ int main(int argc, char** argv)
   unsigned int  Sz9__  =  -2115162964;
     long double    S49B    =    1369778734;
 	unsigned short	oLgGb	=	(unsigned short)123646490;
- unsigned short gou1nOG3 = -591821251;
+ unsigned short gou1nOG3 = (unsigned short)-591821251;
  char ch2dlA = -852540136;
  unsigned long long YSJ3t1LA = -722925519;
 	int	Fz_FTFlQ	=	0;
@@ -49,7 +49,7 @@ int main(int argc, char** argv)
  long long mCs49Z = -566930999;
  short g3i_ = (short)178354555;
  unsigned long sB34 = 1467366113;
- unsigned char Zfue = 1994065157;
+ unsigned char Zfue = (unsigned char)1994065157;
  unsigned long H12gSa4z_7 = -289574462;
 
 f95UE = (int)abs(ch2dlA);
@@ -149,7 +149,7 @@ kCueZ++;
 }
 else
 {
-qA5HKdM_h = I24JX1q5S((short)-312381300, (unsigned short)-1418747827, -89281048, Z32ZPrmci6);
+qA5HKdM_h = I24JX1q5S((short)-312381300, (unsigned short)-1418747827, (unsigned short)-89281048, Z32ZPrmci6);
 }
 }
 else
@@ -485,7 +485,7 @@ catch (int& errorCode)
 kCueZ = L2nh7B(hA61eG, -1197869999, z8527Qr) % f95UE;
 }
 }
-std::cout << a3v_8 << "I7608BM_2" << L2nh7B(-399962680, 2078846106, z8527Qr) << L2nh7B(851151767, 1444243766, -2109884452) << I24JX1q5S((short)-1873469603, (unsigned short)-1378212984, 1905804435, -1425711888) << std::endl;
+std::cout << a3v_8 << "I7608BM_2" << L2nh7B(-399962680, 2078846106, z8527Qr) << L2nh7B(851151767, 1444243766, -2109884452) << I24JX1q5S((short)-1873469603, (unsigned short)-1378212984, (unsigned short)1905804435, -1425711888) << std::endl;
 {
 int i = 0;
 do

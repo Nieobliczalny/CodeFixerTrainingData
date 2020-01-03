@@ -227,7 +227,7 @@ case 'd':
 p27EQ8 = OtSr7X5(iNnQpgQf1p, MmsadQz9fq, Jd2z);
 break;
 case 'e':
-p27EQ8 = OtSr7X5(1390574247, OnVdP, 1836606192);
+p27EQ8 = OtSr7X5((short)1390574247, OnVdP, 1836606192);
 break;
 case 'f':
 blD270C = OtSr7X5(-2144256612, OnVdP, 2052026219) / hnqc;
@@ -242,7 +242,7 @@ case 'i':
 xDKul++;
 break;
 default:
-p27EQ8 = OtSr7X5(1556912300, pLVTD, D_W2xGz6);
+p27EQ8 = OtSr7X5((short)1556912300, pLVTD, D_W2xGz6);
 break;
 }
 }

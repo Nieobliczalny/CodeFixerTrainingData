@@ -21,7 +21,7 @@ unsigned short int  Zj09(short int  v61Ya_,long  K59_,long long  iuv7,unsigned s
 int main() {
     short    XEoB0NA    =    (short)2012301815;
     short int    gD0k9NG    =    (short)-602178142;
- unsigned short bBfrx_v = 467631024;
+ unsigned short bBfrx_v = (unsigned short)467631024;
   long long  mTCX3T  =  1857393308;
  unsigned long fvJUrUI = -322470936;
 	long	B6JyjLmx	=	-385190156;
@@ -34,7 +34,7 @@ int main() {
   unsigned short int  DNG3G0zg  =  (unsigned short)1603471139;
 	int	lEr0	=	-1300081322;
     long    EdKC3N0Q8    =    -863454563;
-    unsigned short int    aotPHH1wK    =    1580198793;
+    unsigned short int    aotPHH1wK    =    (unsigned short)1580198793;
     long double    Pmhb    =    -1563288109;
     short    lCNZ    =    1643832806;
 	unsigned long long	UsSFG	=	-147900773;
@@ -57,7 +57,7 @@ int main() {
     unsigned long    Fz64a    =    -1273450395;
     unsigned int    oNx39nB    =    -1014376080;
     int    l0rPDF0X_    =    0;
-    unsigned short int    A4O19xb    =    -486252123;
+    unsigned short int    A4O19xb    =    (unsigned short)-486252123;
   long long  fJTiL6  =  -317787049;
   short  wfbt9pE  =  (short)310435734;
     long long    hpMPPs54H    =    -811576752;
@@ -68,7 +68,7 @@ int main() {
   long  jY9MG  =  -1325085841;
  long double Dw38369Y32 = 2073453653;
     char    fbX1S    =    (char)-485242172;
-  short int  gI_O0OYNS2  =  -701812560;
+  short int  gI_O0OYNS2  =  (short)-701812560;
   short int  Y6Bxe821QX  =  (short)821172540;
   long  H51U57  =  2134286707;
 
@@ -178,7 +178,7 @@ Qd2_1w6IW = (int)abs(zdc2);
 }
 }
 H51U57 = (int)abs(Y6Bxe821QX);
-cout << KL9Bc(Pmhb, (short)78886621, U0dyY, Ic_o) << f1G_O1_V << YVy8sbWZg(Pmhb, -1879100114, (unsigned short)1020723076, 1829593438) << YVy8sbWZg(Pmhb, 1421888051, U0dyY, Ic_o) << endl;
+cout << KL9Bc(Pmhb, (short)78886621, U0dyY, Ic_o) << f1G_O1_V << YVy8sbWZg(Pmhb, -1879100114, (unsigned short)1020723076, (short)1829593438) << YVy8sbWZg(Pmhb, 1421888051, U0dyY, Ic_o) << endl;
 nM574Gx_7 = (int)ceil(Yne36Ky6MK);
 
 switch (Y6Bxe821QX)

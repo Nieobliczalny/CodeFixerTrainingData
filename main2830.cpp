@@ -77,7 +77,7 @@ switch (MVsac)
 {
 case 'a':
 case 'A':
-Nd9V = O94G6ixP4S((char)-2027322869, 808490058, 2090763184, -542071275);
+Nd9V = O94G6ixP4S((char)-2027322869, (short)808490058, 2090763184, -542071275);
 break;
 }
 
@@ -109,7 +109,7 @@ else if (K79At4jHz & Vy7p9u)
 switch (bUkb_M)
 {
 case 0:
-zeM8M_yL3 = O94G6ixP4S((char)-1538898773, (short)194671198, -264380130, 185017731);
+zeM8M_yL3 = O94G6ixP4S((char)-1538898773, (short)194671198, (unsigned short)-264380130, 185017731);
 break;
 case 1:
 Nd9V = (int)abs(y7ePc);
@@ -175,7 +175,7 @@ if (zeM8M_yL3)
 {
 if (K79At4jHz == Vy7p9u)
 {
-Nd9V = O94G6ixP4S((char)-186093263, (short)498700672, 1010527649, -1336429992);
+Nd9V = O94G6ixP4S((char)-186093263, (short)498700672, (unsigned short)1010527649, -1336429992);
 }
 }
 else if ((K79At4jHz < Ei_i) || (Q_a_Tzvv & Vy7p9u))
@@ -237,7 +237,7 @@ case 4:
 Nd9V = (int)abs(bUkb_M);
 break;
 default:
-MVsac = O94G6ixP4S(MVsac, yTy1yT, 1822002155, -1477514757);
+MVsac = O94G6ixP4S(MVsac, yTy1yT, (unsigned short)1822002155, -1477514757);
 break;
 }
 }

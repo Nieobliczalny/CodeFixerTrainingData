@@ -16,7 +16,7 @@ int main(int argc, char** argv) {
 	long double	Tpi94_18	=	-1675850449;
     unsigned short    BBR2c8bfG    =    (unsigned short)334552092;
     long    t6TjS19    =    34638992;
-  short  umCnF02uL  =  -593374711;
+  short  umCnF02uL  =  (short)-593374711;
     short int    a2ccGG_6AH    =    -161244692;
 	int	C6ki4b0j	=	663430456;
  char hmsdPLR = -533666347;
@@ -46,7 +46,7 @@ int main(int argc, char** argv) {
   unsigned char  sRn4_9yd  =  (unsigned char)-1446491830;
   float  h__JW  =  1623631508;
     long double    Q47Vs    =    1732710449;
-    char    Gm0S    =    -891634140;
+    char    Gm0S    =    (char)-891634140;
   unsigned short int  a5ARY3I2  =  (unsigned short)-1098180771;
   long  Qj0IK5oSU  =  -1997567119;
     long long    LSa4kN    =    1904910064;
@@ -60,7 +60,7 @@ int main(int argc, char** argv) {
  int UWOIcN74S = -835930533;
   char  j1vX  =  (char)1801511172;
  unsigned long luo5AXzX0 = 1975464675;
-    unsigned char    Bi2OwE    =    322204585;
+    unsigned char    Bi2OwE    =    (unsigned char)322204585;
   unsigned long long  gV2m  =  716951680;
   unsigned int  jBAk3748  =  1787451925;
 	unsigned long	eHcFf7U	=	1121130480;
@@ -70,7 +70,7 @@ int main(int argc, char** argv) {
   char  b_44TdC13  =  1345583676;
   short  V6vS_o9B  =  (short)-1084997306;
  float VZqWRu = 437701223;
-    char    O_rL4kUw    =    322551651;
+    char    O_rL4kUw    =    (char)322551651;
 	unsigned char	v7F06q	=	-1956944577;
     short    o28l    =    916353177;
     long    W4_814it    =    -1755201468;
@@ -90,7 +90,7 @@ int main(int argc, char** argv) {
  unsigned long vRRFs = -1592595657;
 	unsigned int	p_XOr6_QA	=	-1744395108;
   long  p4DqbH93F  =  -72676530;
-  short  iU18t  =  -161118173;
+  short  iU18t  =  (short)-161118173;
   short int  lk_V  =  1779090929;
 
 h__JW = (int)abs(F6j7);
@@ -334,7 +334,7 @@ case 'f':
 Tpi94_18 = (Hv0J != 987552) ? L3wSEryKKC(pPq6oY1, -249051635, 1672500252, (short)1102125083, jBAk3748) : sRn4_9yd;
 break;
 case 'g':
-SH_Xc_ = L3wSEryKKC(277249684, GHoEniQ, 1338114642, 1022113655, 708761682);
+SH_Xc_ = L3wSEryKKC(277249684, GHoEniQ, 1338114642, (short)1022113655, 708761682);
 break;
 case 'h':
 Ef0pBW5wR4 = (int)floor(h__JW);

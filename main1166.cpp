@@ -41,7 +41,7 @@ int main()
  short KiK3;
  KiK3 = (short)992842946;
  short int aRv98U5x;
- aRv98U5x = -571060296;
+ aRv98U5x = (short)-571060296;
   long  cb7hU5f5A7;
   cb7hU5f5A7  =  2018435495;
 	unsigned short	Ntp3N;
@@ -79,7 +79,7 @@ int main()
     char    ba2F9u;
     ba2F9u    =    (char)-2022537840;
     short    SWxJV4z;
-    SWxJV4z    =    1431731361;
+    SWxJV4z    =    (short)1431731361;
     long    Cg9l2z3q;
     Cg9l2z3q    =    1947231688;
   unsigned char  wqypr34S7;
@@ -105,7 +105,7 @@ int main()
 	short	WX00;
 	WX00	=	(short)2073450595;
     char    c_C2Cs5;
-    c_C2Cs5    =    -67757288;
+    c_C2Cs5    =    (char)-67757288;
     long    K4E6R;
     K4E6R    =    -3081808;
     char    f3e6B;
@@ -133,7 +133,7 @@ int main()
  unsigned short AlK9r;
  AlK9r = (unsigned short)-700511936;
 	short int	M4PQIa2;
-	M4PQIa2	=	-902161715;
+	M4PQIa2	=	(short)-902161715;
     long double    C4xhE;
     C4xhE    =    458448969;
 	char	Jx4tKh4zuY;
@@ -171,7 +171,7 @@ int main()
   unsigned short int  YEvo;
   YEvo  =  (unsigned short)-1357685541;
  unsigned short int n7Qy3y;
- n7Qy3y = -971002006;
+ n7Qy3y = (unsigned short)-971002006;
     short    U1uDhtc;
     U1uDhtc    =    -1158258304;
     char    m441;

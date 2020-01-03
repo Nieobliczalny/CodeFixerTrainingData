@@ -60,7 +60,7 @@ case 2:
 n8_Qf0 = ok_2814bm((unsigned char)314990617, WNzr);
 break;
 case 3:
-Bfc1_ = ok_2814bm(-1747112449, -441399541);
+Bfc1_ = ok_2814bm((unsigned char)-1747112449, -441399541);
 break;
 case 4:
 n8_Qf0 = ok_2814bm(hyc1x8, -975901291);

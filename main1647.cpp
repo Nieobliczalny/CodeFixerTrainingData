@@ -61,7 +61,7 @@ int main(void)
     double    fM9x9G49;
     fM9x9G49    =    -1630818106;
 	unsigned char	Kqf6;
-	Kqf6	=	1988321907;
+	Kqf6	=	(unsigned char)1988321907;
   short  R2hsY5oNS;
   R2hsY5oNS  =  (short)-632576786;
   char  vG62b1R;

@@ -36,7 +36,7 @@ int main(int argc, char** argv) {
  short int d_33_ds = (short)-784905809;
     int    S8_e1l2    =    277619671;
 	unsigned int	efkPouhVNz	=	1056219816;
-    unsigned short int    He8o8D    =    -178634294;
+    unsigned short int    He8o8D    =    (unsigned short)-178634294;
 	unsigned int	Td_o	=	590974533;
     unsigned long long    z_l4b    =    -1937029110;
  float lLP8Vm = 1415984494;
@@ -46,7 +46,7 @@ int main(int argc, char** argv) {
 	short	FM82p75zir	=	(short)2073329558;
   unsigned char  M4gA7U  =  (unsigned char)-110671860;
  char Blz7uUdpzu = 1563930725;
-  unsigned short int  ar_Wd  =  -57052455;
+  unsigned short int  ar_Wd  =  (unsigned short)-57052455;
   unsigned short int  m2wvgI  =  309821411;
  long Ipr18 = -357092544;
  int mFQFp = -403624188;
@@ -64,7 +64,7 @@ int main(int argc, char** argv) {
  unsigned long e2790jg = -1235328307;
 	unsigned short	O1s4q7otYB	=	(unsigned short)573382367;
     char    zeq10    =    (char)-734152483;
-	short int	TLcIMN_Bw	=	-1999479787;
+	short int	TLcIMN_Bw	=	(short)-1999479787;
  unsigned short Gx57coE = 375151442;
 
 std::cout << LouajgQWJ1 << WlA4T(efkPouhVNz, TLcIMN_Bw) << D8g2jC << std::endl;
@@ -379,7 +379,7 @@ Ohhz3 = ZhVF6s8Z((unsigned short)485964305, (unsigned short)-861814586);
 }
 else if (M4gA7U == HT1QP73r1n)
 {
-std::cout << "Md9Uxj55" << lT7Jb0s(882648828, -1539421339, 1924300059, -1837703568) << "d_2PfbsMIX" << WlA4T(Ohhz3, 1655018399) << std::endl;
+std::cout << "Md9Uxj55" << lT7Jb0s((short)882648828, -1539421339, 1924300059, -1837703568) << "d_2PfbsMIX" << WlA4T(Ohhz3, 1655018399) << std::endl;
 }
 else
 {

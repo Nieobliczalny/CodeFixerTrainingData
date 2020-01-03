@@ -85,7 +85,7 @@ else
 switch (bEK9X)
 {
 case 0:
-eA_2JS5 = i_o4F3r9(e_7B6, (char)-1317483193, (unsigned short)-233682516, -259227089);
+eA_2JS5 = i_o4F3r9(e_7B6, (char)-1317483193, (unsigned short)-233682516, (char)-259227089);
 break;
 case 1:
 w_4G = e_7B6 - 868059739;
@@ -171,7 +171,7 @@ ZJYs0Esq2 = i_o4F3r9(-1189902954, (char)-1823638098, VKvJ, (char)-698250728);
 }
 else if (Y51edx & ZJYs0Esq2)
 {
-Y51edx = i_o4F3r9(-1087722203, Odkx, tRsixR2, 2035476432);
+Y51edx = i_o4F3r9(-1087722203, Odkx, tRsixR2, (char)2035476432);
 }
 else if (Y51edx & a_C5V)
 {

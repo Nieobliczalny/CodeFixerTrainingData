@@ -116,7 +116,7 @@ int main()
   short  SkPsxZtR8;
   SkPsxZtR8  =  (short)-1192385585;
  unsigned char Hv44;
- Hv44 = 255668374;
+ Hv44 = (unsigned char)255668374;
     float    rJbh;
     rJbh    =    -1769257210;
   unsigned short int  f3m6fo;

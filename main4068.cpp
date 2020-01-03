@@ -40,7 +40,7 @@ int main(int argc, char** argv)
  int PF9Qa;
  PF9Qa = 1072500062;
   unsigned short  wlz3tO;
-  wlz3tO  =  1565830488;
+  wlz3tO  =  (unsigned short)1565830488;
     unsigned long    eWsjt7K6_G;
     eWsjt7K6_G    =    0;
 
@@ -187,7 +187,7 @@ cout << EX_shg2V((short)-1518066288) << xm38Z220F1(PF9Qa) << xm38Z220F1((short)8
 
 PF9Qa %= B5Ad2_w;
 
-cout << xm38Z220F1(-2145803726) << Xxn5Z__R7(87223234, eWsjt7K6_G, a_8Ixu, ee65) << endl;
+cout << xm38Z220F1((short)-2145803726) << Xxn5Z__R7(87223234, eWsjt7K6_G, a_8Ixu, ee65) << endl;
 
 try
 {
@@ -251,7 +251,7 @@ case 'g':
 PF9Qa = EX_shg2V(PF9Qa);
 break;
 case 'h':
-wlz3tO = xm38Z220F1(2129319762) + PF9Qa;
+wlz3tO = xm38Z220F1((short)2129319762) + PF9Qa;
 break;
 }
 }

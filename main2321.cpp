@@ -30,7 +30,7 @@ int main(int argc, char** argv)
 	unsigned long long	d0BB8	=	0;
   short  PnK8BBSVku  =  (short)-1351273371;
  long double ZYC0rD = -348782871;
-    unsigned char    j3k13    =    -764547851;
+    unsigned char    j3k13    =    (unsigned char)-764547851;
   float  xRrY  =  404507746;
   unsigned char  KKzS788  =  -1509736104;
  unsigned char Ji_1_ = 0;
@@ -40,7 +40,7 @@ int main(int argc, char** argv)
     long double    y872    =    -298178283;
 	unsigned short	btmz	=	(unsigned short)1360844008;
   long long  poVKm5Mh  =  0;
-	unsigned short int	h90qRk6bmU	=	1748023957;
+	unsigned short int	h90qRk6bmU	=	(unsigned short)1748023957;
     unsigned long long    ZINhvGPZGg    =    1398381343;
   int  h00U  =  -206846774;
   unsigned short  G0HFBxhpY5  =  1803459689;
@@ -51,7 +51,7 @@ int main(int argc, char** argv)
     char    DmXxQ    =    (char)1228916438;
 	long double	mYv3Tg38	=	1747193372;
 	unsigned int	DgSgJ3	=	1901590785;
-    unsigned short int    H1oxb    =    165781975;
+    unsigned short int    H1oxb    =    (unsigned short)165781975;
     unsigned short    EwtMY6    =    1823216635;
     unsigned char    BdEN    =    -1430855908;
     unsigned short int    KHFwpQ00q1    =    459722098;
@@ -74,7 +74,7 @@ int main(int argc, char** argv)
 	long	x8g0k84ut	=	699226977;
 	unsigned long	U3kFO1A_36	=	-2097861114;
     long double    m39XX    =    -155105437;
-  char  cdMkx  =  -1870513549;
+  char  cdMkx  =  (char)-1870513549;
     unsigned long    x0My4_    =    -267571174;
     long long    dxBT0Cz    =    -1968930807;
   long  vQVoOjB97b  =  -573519112;
@@ -85,7 +85,7 @@ int main(int argc, char** argv)
  short x0h_d = (short)-1135830011;
 	unsigned short	IFXjk360	=	(unsigned short)1370675536;
  unsigned long UD3jm = -1396701301;
-  char  sF7q_O5  =  -1997112218;
+  char  sF7q_O5  =  (char)-1997112218;
     short int    uyzfd_7    =    621840344;
 	unsigned long long	aQO8	=	1623803467;
   unsigned int  f88W44278r  =  -1891766920;
@@ -324,7 +324,7 @@ case 0:
 H1oxb = foRy8QybXh((unsigned short)1190821139, 789169322, (short)2084155573);
 break;
 case 1:
-F0g1_8 = WYE8w82X(-360856089, -1253818244, Ixa7, 180608152, f88W44278r);
+F0g1_8 = WYE8w82X(-360856089, -1253818244, Ixa7, (unsigned short)180608152, f88W44278r);
 break;
 case 2:
 iM587Ue ^= nd3RN26b;

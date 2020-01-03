@@ -22,7 +22,7 @@ int main(int argc, char** argv)
   unsigned long  HBE1CS  =  -388362148;
     short int    M4G6af56_N    =    0;
  unsigned int XpOYl564 = -780874349;
-	unsigned char	g95S7R	=	682216222;
+	unsigned char	g95S7R	=	(unsigned char)682216222;
  unsigned short int brV7A2cOV = 1977661994;
     unsigned short int    OtNg1k    =    0;
 	int	PmwRWM	=	-1712735120;
@@ -76,7 +76,7 @@ do
 ++i;
 if (OtNg1k > 1481166777)
 {
-brV7A2cOV = oIbvY((unsigned char)-315022188, (short)-1328760836, -17834977);
+brV7A2cOV = oIbvY((unsigned char)-315022188, (short)-1328760836, (unsigned short)-17834977);
 }
 }
 while (i < 3);
@@ -139,7 +139,7 @@ x0T3_gUt = g95S7R * 1396203034;
 }
 else if (OtNg1k != 224841003)
 {
-HeKuOX1X0M = oIbvY((unsigned char)-1808316063, (short)-1198707500, 2096023409);
+HeKuOX1X0M = oIbvY((unsigned char)-1808316063, (short)-1198707500, (unsigned short)2096023409);
 }
 else if (((M4G6af56_N == -2055456791) || (uDfIfaC4 != HBE1CS)) && ((uDfIfaC4 & M4G6af56_N) || (uDfIfaC4 <= e9W9E)))
 {

@@ -24,7 +24,7 @@ int main() {
  unsigned short ZVAkn;
  ZVAkn = (unsigned short)-662751066;
     unsigned short int    T_O3WV4W;
-    T_O3WV4W    =    -1145413188;
+    T_O3WV4W    =    (unsigned short)-1145413188;
     unsigned long    aoI_95_;
     aoI_95_    =    959913045;
   unsigned long long  RtacWR16;
@@ -54,7 +54,7 @@ std::cout << "fHQsN902U" << v0q3kWZ2p << SS73_J(T_O3WV4W, aoI_95_) << "WmY4JCb" 
 }
 else
 {
-std::cout << BDFIG(T_O3WV4W, aoI_95_, Rn6R5HMswj, (unsigned short)-225089511) << SS73_J(T_O3WV4W, aoI_95_) << "F4Q1lle2" << "yJ0vl31uK" << SS73_J(T_O3WV4W, -1268205644) << std::endl;
+std::cout << BDFIG(T_O3WV4W, aoI_95_, Rn6R5HMswj, (unsigned short)-225089511) << SS73_J(T_O3WV4W, aoI_95_) << "F4Q1lle2" << "yJ0vl31uK" << SS73_J(T_O3WV4W, (char)-1268205644) << std::endl;
 }
 std::cout << "cIqd6" << Rn6R5HMswj << std::endl;
 {
@@ -493,7 +493,7 @@ std::cout << "A8D6E5Ny3F" << V4vM0j << BDFIG(aoI_95_, 734598617, -1710654807, (u
 }
 else
 {
-V4vM0j = BDFIG((short)1758857574, -63538844, 687386432, 1037524095);
+V4vM0j = BDFIG((short)1758857574, -63538844, 687386432, (unsigned short)1037524095);
 }
 aoI_95_ = z60_iT_Md / z60_iT_Md;
 z60_iT_Md = (short)(v0q3kWZ2p);

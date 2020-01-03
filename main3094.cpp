@@ -45,7 +45,7 @@ int main()
     short    VTt1p3m7N0;
     VTt1p3m7N0    =    (short)849957343;
   unsigned short int  A922WlpjKI;
-  A922WlpjKI  =  -1927693587;
+  A922WlpjKI  =  (unsigned short)-1927693587;
   unsigned char  S6dUy22;
   S6dUy22  =  (unsigned char)-1353392587;
     long long    DADdvv_;
@@ -87,7 +87,7 @@ int main()
   unsigned short  C5ud64rgj9;
   C5ud64rgj9  =  (unsigned short)-1031899417;
   unsigned short  uM5d6u0cyx;
-  uM5d6u0cyx  =  354928874;
+  uM5d6u0cyx  =  (unsigned short)354928874;
  long double gY9211;
  gY9211 = -1711645911;
 	unsigned short int	DU_1yG;
@@ -141,7 +141,7 @@ int main()
  double lRUtuz3syx;
  lRUtuz3syx = 802584724;
     unsigned char    DmVPK1;
-    DmVPK1    =    1674066976;
+    DmVPK1    =    (unsigned char)1674066976;
     unsigned short int    h9p4mJx;
     h9p4mJx    =    (unsigned short)534242248;
  long double lZRz4;

@@ -39,7 +39,7 @@ int main(void) {
  unsigned short a033mj689 = (unsigned short)1687278650;
  short int vn__4_nj = (short)1899188;
 	unsigned long	FnM_g8992m	=	600580651;
-  char  rEf3nEFO4z  =  -693958907;
+  char  rEf3nEFO4z  =  (char)-693958907;
   unsigned int  F4r3Q  =  1157738371;
   unsigned long long  pl6F1jxMi  =  1861719432;
 	unsigned short	Jh6dRo_7	=	-1873177939;
@@ -54,7 +54,7 @@ int main(void) {
 	unsigned char	Qd1Pos	=	(unsigned char)593531436;
 	short	I01H2I8Tt_	=	(short)-1838741521;
     unsigned char    Z3MPPugTO    =    0;
-	char	r_nIPXw	=	1390950100;
+	char	r_nIPXw	=	(char)1390950100;
 	unsigned short	YuFGF8W	=	601558599;
  long o1Xj0vS = -1230635636;
   long  kM2Pf  =  -1866231420;
@@ -69,7 +69,7 @@ int main(void) {
 	long long	k_ygvhOSa6	=	1469874742;
     long double    wAWXw8vct0    =    -1790254380;
     short int    i8OQb5yj    =    (short)-680570287;
-	unsigned short	TiWcsCV6mp	=	-1002481701;
+	unsigned short	TiWcsCV6mp	=	(unsigned short)-1002481701;
  long long GsPmPJ2m85 = -103712652;
 	unsigned long	mTIg97H	=	0;
  double Ht9rAnR = 707036777;
@@ -88,7 +88,7 @@ int main(void) {
     unsigned long    zQUWcu    =    -1301405497;
   long long  i32PuUWn  =  0;
     long double    yqBc    =    -41180971;
-  short int  ugJQ  =  -365494948;
+  short int  ugJQ  =  (short)-365494948;
     unsigned short int    Y852pM    =    1171922151;
  unsigned short int eCV1D4Q8 = (unsigned short)-853683220;
 
@@ -208,7 +208,7 @@ case 8:
 V92Tc7BIm = Q11ZT((char)-1028760995, (short)1578340706);
 break;
 default:
-i32PuUWn = ZUw__6(154461389, f9Eki);
+i32PuUWn = ZUw__6((unsigned char)154461389, f9Eki);
 break;
 }
 }
@@ -240,7 +240,7 @@ if (((r_nIPXw <= -2129786639) || (o1Xj0vS == -1020140806)) || ((r_nIPXw <= 11198
 YuFGF8W = XEr__jv((short)1745919225);
 }
 
-z0l_l6W = WY9n(2111354820, xlAN, Ht9rAnR);
+z0l_l6W = WY9n((char)2111354820, xlAN, Ht9rAnR);
 
 o2B0 = (int)abs(NRL_4j3l6);
 
@@ -270,7 +270,7 @@ hq2OJ2qH5 &= GsPmPJ2m85;
 }
 else if (ugJQ < R5g48eS_9F)
 {
-ZFPW5Jwm = XEr__jv(864217146);
+ZFPW5Jwm = XEr__jv((short)864217146);
 }
 else if (rEf3nEFO4z < pEtGm36)
 {

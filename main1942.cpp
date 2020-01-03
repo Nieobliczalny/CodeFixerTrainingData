@@ -236,7 +236,7 @@ else if ((JqL5u6 < tJZ0E0) || (q12i3t4W_Q))
 switch (JqL5u6)
 {
 case 0:
-DRq6RJ = S_lsTZ((unsigned short)-161180624, (unsigned short)1130522682, hVxxq0kl6, 2062139927, -1977331346);
+DRq6RJ = S_lsTZ((unsigned short)-161180624, (unsigned short)1130522682, hVxxq0kl6, (unsigned short)2062139927, -1977331346);
 break;
 case 1:
 Qsi2++;
@@ -321,7 +321,7 @@ z2tS7 = S_lsTZ(z2tS7, V3owNInL, (unsigned short)134643107, (unsigned short)28787
 }
 else if (JqL5u6 != nLb_TW_L)
 {
-nLb_TW_L = S_lsTZ(1855869465, 1052946680, D3T9yBfxbH, RyIgQfH, f5Yci_C);
+nLb_TW_L = S_lsTZ((unsigned short)1855869465, 1052946680, D3T9yBfxbH, RyIgQfH, f5Yci_C);
 }
 else if ((okj5rTsR < 1732375569) || (z2tS7 & ewEv))
 {
@@ -389,7 +389,7 @@ for (int i = 0; i < 6; ++i)
 switch (yvtNs8)
 {
 case 'a':
-rwns = S_lsTZ((unsigned short)844241475, (unsigned short)2019649624, 1273848959, -1470407504, k2_4B);
+rwns = S_lsTZ((unsigned short)844241475, (unsigned short)2019649624, (unsigned short)1273848959, -1470407504, k2_4B);
 break;
 case 'b':
 DK6NUM /= 1333100315;
@@ -477,7 +477,7 @@ catch (int& errorCode)
 gNS76Dj3i--;
 }
 
-std::cout << S_lsTZ((unsigned short)1181111356, (unsigned short)-239953249, -1729772149, 1774808067, -1123027107) << std::endl;
+std::cout << S_lsTZ((unsigned short)1181111356, (unsigned short)-239953249, (unsigned short)-1729772149, 1774808067, -1123027107) << std::endl;
 
 hVxxq0kl6 = wWS52_Q(-1262234260, CL5_c27, -16850171, 251919929);
 
@@ -528,7 +528,7 @@ PwHwT4e = qqKr80m2I_(PwHwT4e, 1664855340);
 }
 else if ((OOuDg5w > ECpaR7) && ((y61qLg3 & 36177642) || (yUEE79j & eJ50_)))
 {
-PHeP50La92 = S_lsTZ((unsigned short)1575801002, (unsigned short)-647579120, e7Aa0oF, -2082821006, do7E);
+PHeP50La92 = S_lsTZ((unsigned short)1575801002, (unsigned short)-647579120, e7Aa0oF, (unsigned short)-2082821006, do7E);
 }
 else if (F_wpnJMp == 1474100758)
 {

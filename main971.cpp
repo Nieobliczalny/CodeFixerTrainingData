@@ -54,7 +54,7 @@ int main(int argc, char** argv)
   short int  mufT2;
   mufT2  =  (short)-628085690;
  unsigned char ZXN9_jKw;
- ZXN9_jKw = -1236834965;
+ ZXN9_jKw = (unsigned char)-1236834965;
     float    ut6h;
     ut6h    =    -841373858;
  unsigned short int CHEolbgd;
@@ -84,7 +84,7 @@ int main(int argc, char** argv)
  unsigned short int CAfHW676;
  CAfHW676 = (unsigned short)-1492588178;
   unsigned char  B4qI;
-  B4qI  =  726371525;
+  B4qI  =  (unsigned char)726371525;
 	long	Dj5kGkt;
 	Dj5kGkt	=	1980535596;
  int zTGJl;
@@ -96,7 +96,7 @@ int main(int argc, char** argv)
  short int GJ6kga;
  GJ6kga = (short)352184402;
   unsigned short  VM4tQ;
-  VM4tQ  =  -1113069403;
+  VM4tQ  =  (unsigned short)-1113069403;
 	short int	Rz2f;
 	Rz2f	=	1268889653;
  float kSDlpoLy;

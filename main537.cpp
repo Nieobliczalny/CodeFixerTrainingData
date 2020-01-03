@@ -183,7 +183,7 @@ W_2830 = m_M1G4yDpb((short)-1550053145, (unsigned short)-436927598);
 }
 else
 {
-W_2830 = m_M1G4yDpb(-912743656, 1208786691);
+W_2830 = m_M1G4yDpb((short)-912743656, 1208786691);
 }
 }
 }
@@ -195,7 +195,7 @@ else
 {
 rs8ytj /= lP2cKQ5d;
 }
-std::cout << "GlTGWCn9_N" << m_M1G4yDpb((short)-1376978658, (unsigned short)971068408) << m_M1G4yDpb(1645626683, V6uGln2) << std::endl;
+std::cout << "GlTGWCn9_N" << m_M1G4yDpb((short)-1376978658, (unsigned short)971068408) << m_M1G4yDpb((short)1645626683, V6uGln2) << std::endl;
 
 W_2830 = m_M1G4yDpb(J_5i, -954698117);
 if (yc5DwZsO)
@@ -259,7 +259,7 @@ T8Ya5 = m_M1G4yDpb((short)-1792842369, (unsigned short)-240109543) | 1601215414;
 }
 try
 {
-W_2830 = m_M1G4yDpb(Imy3Ptx, 1985144552);
+W_2830 = m_M1G4yDpb(Imy3Ptx, (unsigned short)1985144552);
 }
 catch (int& errorCode)
 {

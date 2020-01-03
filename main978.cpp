@@ -47,7 +47,7 @@ int main()
   unsigned short  QDo_85K;
   QDo_85K  =  (unsigned short)1857259475;
     unsigned short int    yYkOn;
-    yYkOn    =    911807239;
+    yYkOn    =    (unsigned short)911807239;
     unsigned short    J34f_Rh7_;
     J34f_Rh7_    =    -1706385836;
   double  V2lfP2;
@@ -61,7 +61,7 @@ int main()
     unsigned long long    wv5_;
     wv5_    =    -1567192717;
  unsigned char bf3z666;
- bf3z666 = -211656235;
+ bf3z666 = (unsigned char)-211656235;
 	unsigned long	zevZ0;
 	zevZ0	=	56158431;
     unsigned char    S23sc3Us8k;
@@ -87,7 +87,7 @@ int main()
  unsigned short WDzs7XK;
  WDzs7XK = (unsigned short)-707940709;
 	unsigned short int	XyF6mC373;
-	XyF6mC373	=	-293876663;
+	XyF6mC373	=	(unsigned short)-293876663;
 	unsigned short int	x2Qb82c2;
 	x2Qb82c2	=	(unsigned short)-1918347275;
 	unsigned short	goq1qztlwN;
@@ -109,7 +109,7 @@ int main()
     int    CWLb31NaG;
     CWLb31NaG    =    1848365620;
 	char	TCBD0;
-	TCBD0	=	-986975640;
+	TCBD0	=	(char)-986975640;
 	char	A_xSO;
 	A_xSO	=	0;
  unsigned int jAE0;
@@ -125,7 +125,7 @@ int main()
  long long EW7Q;
  EW7Q = -1181577642;
     unsigned short int    Fyu01;
-    Fyu01    =    -1682581312;
+    Fyu01    =    (unsigned short)-1682581312;
     unsigned int    HysFpAo5Iv;
     HysFpAo5Iv    =    854255450;
     unsigned short    cAlxrouP;
@@ -145,7 +145,7 @@ int main()
     unsigned short int    GRuVI5f;
     GRuVI5f    =    (unsigned short)-1322438936;
 	unsigned short int	L6Yt0N_;
-	L6Yt0N_	=	1424312852;
+	L6Yt0N_	=	(unsigned short)1424312852;
     long    N99bOS;
     N99bOS    =    1956721826;
 
@@ -193,7 +193,7 @@ LD__hhP = be5148Q84a(LD__hhP);
 }
 else if (n5rmXwxV6 > n9Ln5C5Nv)
 {
-std::cout << Mk1382mWjk((short)-964689172, (short)152769333) << "k9Wd4au" << KFgwQ << y392y(LD__hhP, -1820345196, XyF6mC373, WDzs7XK, 676884314) << std::endl;
+std::cout << Mk1382mWjk((short)-964689172, (short)152769333) << "k9Wd4au" << KFgwQ << y392y(LD__hhP, (unsigned short)-1820345196, XyF6mC373, WDzs7XK, 676884314) << std::endl;
 }
 else
 {

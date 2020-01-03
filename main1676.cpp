@@ -24,7 +24,7 @@ int main(void)
   short  H546twn  =  (short)650366376;
   unsigned char  uzbzYuJV5  =  (unsigned char)-1497089605;
  long long bXa8uv6W6 = -1952484649;
-    short int    O2lt52    =    531326075;
+    short int    O2lt52    =    (short)531326075;
   double  j2mBc  =  -372406905;
  short NthNWC3SAe = 0;
 	unsigned long	hudk	=	0;

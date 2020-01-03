@@ -133,7 +133,7 @@ case 5:
 gv5aO0 = nQL9_CkjV((short)-592180692, oSMrX5ZH8o, BgYD5x3);
 break;
 case 6:
-gv5aO0 = nQL9_CkjV((short)1146451661, NR68mSL4, -2098310864);
+gv5aO0 = nQL9_CkjV((short)1146451661, NR68mSL4, (short)-2098310864);
 break;
 }
 }
@@ -331,7 +331,7 @@ else if (NR68mSL4)
 {
 if (JAJsf == 684937743)
 {
-std::cout << m0O1 << BgYD5x3 << "fQ5L" << "Xm4wi93" << nQL9_CkjV(-2123909519, 989193807, -861805436) << std::endl;
+std::cout << m0O1 << BgYD5x3 << "fQ5L" << "Xm4wi93" << nQL9_CkjV((short)-2123909519, 989193807, -861805436) << std::endl;
 }
 }
 else if ((oSMrX5ZH8o <= -1076475143) || (a496i_ < -516791702))
@@ -352,7 +352,7 @@ case 'c':
 gv5aO0 = nQL9_CkjV((short)244763747, wW7C, (short)-425667857);
 break;
 case 'd':
-gv5aO0 = nQL9_CkjV(-1519329277, m0O1, SH7x_OXke);
+gv5aO0 = nQL9_CkjV((short)-1519329277, m0O1, SH7x_OXke);
 break;
 case 'e':
 m0O1 = (int)ceil(mwyy_4lGc);

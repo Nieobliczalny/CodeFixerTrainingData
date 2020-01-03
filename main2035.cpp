@@ -171,7 +171,7 @@ case 'G':
 E9gTW24__ = Xf3LpiD2 << P6n28;
 break;
 default:
-SFDI = gY1_(-1543157561, cv07_);
+SFDI = gY1_((unsigned short)-1543157561, cv07_);
 break;
 }
 ZriOV = (unsigned long)(h5ol7a);
@@ -200,7 +200,7 @@ os5nn = gY1_(os5nn, -538132272);
 
 if ((vZXzbC2D / F_HQFry9(os5nn, (char)1728370100, (unsigned short)1299985912, G49nHFmsaL, RCb_4Nh4)) <= 1796754287)
 {
-if ((gY1_(1015474903, -744242847) / F_HQFry9(os5nn, -37351902, p8nGc34, G49nHFmsaL, RCb_4Nh4)) != 1257720530)
+if ((gY1_((unsigned short)1015474903, -744242847) / F_HQFry9(os5nn, -37351902, p8nGc34, G49nHFmsaL, RCb_4Nh4)) != 1257720530)
 {
 ec72z7JE %= 756290609;
 }
@@ -237,7 +237,7 @@ std::cout << gY1_(GJJ5PEi96, (unsigned char)-744648438) << z8q40MbrX << "j8pUjO"
 }
 if (cv07_ != 499988981)
 {
-vZXzbC2D = aj6A((unsigned char)-657366972, -1238462668, fdiH);
+vZXzbC2D = aj6A((unsigned char)-657366972, (short)-1238462668, fdiH);
 }
 else
 {

@@ -46,7 +46,7 @@ int main() {
   unsigned char  I5nN1;
   I5nN1  =  (unsigned char)-674218128;
   unsigned short int  E1ze45blO;
-  E1ze45blO  =  -1333522079;
+  E1ze45blO  =  (unsigned short)-1333522079;
 
 switch (v53k0ZP)
 {

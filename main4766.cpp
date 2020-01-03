@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
   char  v06u;
   v06u  =  (char)1701849196;
  unsigned short pE30cU;
- pE30cU = 1507160186;
+ pE30cU = (unsigned short)1507160186;
 	char	QLK_gi7X;
 	QLK_gi7X	=	160847594;
  long long HZbxG;
@@ -62,7 +62,7 @@ int main(int argc, char** argv) {
  char DYhWx;
  DYhWx = (char)-1069078908;
   unsigned short  uWQA7;
-  uWQA7  =  1859651711;
+  uWQA7  =  (unsigned short)1859651711;
 	long long	hpJ_b5;
 	hpJ_b5	=	-53195168;
 	unsigned long long	ZCoz56_ns1;
@@ -102,7 +102,7 @@ int main(int argc, char** argv) {
   double  jpwPmx2lW7;
   jpwPmx2lW7  =  2077092968;
   char  s0aCmW;
-  s0aCmW  =  -86835178;
+  s0aCmW  =  (char)-86835178;
   unsigned char  TzgKCt_;
   TzgKCt_  =  (unsigned char)-786943660;
 	unsigned short int	be44q1C0P;
@@ -135,7 +135,7 @@ case 'f':
 v7kB4Z = ev96EtiyH9(v7kB4Z, (unsigned short)1179549386, 1257697615);
 break;
 case 'g':
-s0aCmW = ev96EtiyH9(1734613676, 241521242, ZCoz56_ns1);
+s0aCmW = ev96EtiyH9((short)1734613676, 241521242, ZCoz56_ns1);
 break;
 case 'h':
 v36z616U = (int)abs(ll5Z88_);
@@ -286,7 +286,7 @@ pE30cU = U26re45 % 1832647268;
 }
 }
 
-std::cout << ev96EtiyH9((short)419618688, pE30cU, 1979339628) << eVOpFfL << ch3_NT6(UC8Ew6, pE30cU, a7_9EX6__) << ev96EtiyH9((short)-2030464316, 1499639044, a7_9EX6__) << std::endl;
+std::cout << ev96EtiyH9((short)419618688, pE30cU, 1979339628) << eVOpFfL << ch3_NT6(UC8Ew6, pE30cU, a7_9EX6__) << ev96EtiyH9((short)-2030464316, (unsigned short)1499639044, a7_9EX6__) << std::endl;
 {
 int i = 0;
 while (i < 1)

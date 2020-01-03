@@ -130,7 +130,7 @@ P185 = d5B1Vg((unsigned short)133586852, P185);
 }
 else
 {
-P185 = d5B1Vg(-489582796, 327315439);
+P185 = d5B1Vg((unsigned short)-489582796, 327315439);
 }
 --j;
 }
@@ -218,7 +218,7 @@ case 3:
 P185 = d5B1Vg((unsigned short)-735057144, bO29Xc7eIC);
 break;
 case 4:
-P185 = d5B1Vg(380581767, sJ4La_70);
+P185 = d5B1Vg((unsigned short)380581767, sJ4La_70);
 break;
 case 5:
 VMUD2h &= 261731835;

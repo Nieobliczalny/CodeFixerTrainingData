@@ -33,7 +33,7 @@ int main(int argc, char** argv) {
   long double  LqU4RIb_;
   LqU4RIb_  =  1507623940;
  short o4AK1Z6zo;
- o4AK1Z6zo = 2075784231;
+ o4AK1Z6zo = (short)2075784231;
     unsigned short int    g7YawR62ed;
     g7YawR62ed    =    596981009;
     short    Ze0_QXN3_2;
@@ -61,7 +61,7 @@ int main(int argc, char** argv) {
  char DQ8kegjB;
  DQ8kegjB = (char)1408208769;
     char    haO_w7_;
-    haO_w7_    =    -745157163;
+    haO_w7_    =    (char)-745157163;
   short int  h7SMH6L85;
   h7SMH6L85  =  299289472;
     unsigned short    v3dJhc1s_;
@@ -85,7 +85,7 @@ int main(int argc, char** argv) {
     unsigned long    B655;
     B655    =    -977938731;
     unsigned short int    R8QVvNFA;
-    R8QVvNFA    =    1142146256;
+    R8QVvNFA    =    (unsigned short)1142146256;
  char Sm7N_O_FM;
  Sm7N_O_FM = (char)1543826885;
 

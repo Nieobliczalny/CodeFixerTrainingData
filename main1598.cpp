@@ -41,7 +41,7 @@ YxrQ6Yand = (long long)(wLHO0 + (-921486612));
 
 tBEoQ3tTXo = (int)abs(x1cgA);
 
-Jj06b08Q70 = a5H1x2GfxF / o14cR5G(X_5sXb6f, (unsigned short)1852193990, (unsigned short)526413794, -642042105, 1429968430);
+Jj06b08Q70 = a5H1x2GfxF / o14cR5G(X_5sXb6f, (unsigned short)1852193990, (unsigned short)526413794, (short)-642042105, 1429968430);
 for (int i = 0; i < 10; i++)
 {
 if (BBAmP201y <= wLHO0)
@@ -61,7 +61,7 @@ case 2:
 G_C8 <<= tBEoQ3tTXo;
 break;
 case 3:
-BPk5i8 = o14cR5G(-315625194, 314779421, 1597669755, n0x2J, 1565603550);
+BPk5i8 = o14cR5G(-315625194, (unsigned short)314779421, 1597669755, n0x2J, 1565603550);
 break;
 case 4:
 VbZFrv51fv <<= OIa25_;
@@ -76,7 +76,7 @@ case 7:
 S8H4Ai >>= 10638167;
 break;
 case 8:
-V0Xrel = o14cR5G(MH_evZ, (unsigned short)901211927, (unsigned short)585989867, -1119966874, 543508158);
+V0Xrel = o14cR5G(MH_evZ, (unsigned short)901211927, (unsigned short)585989867, (short)-1119966874, 543508158);
 break;
 }
 try
@@ -137,7 +137,7 @@ else
 {
 if (V0Xrel & -746738703)
 {
-FFRGG = o14cR5G(2033816071, (unsigned short)-948292782, (unsigned short)755208122, -1656323513, 268655655);
+FFRGG = o14cR5G(2033816071, (unsigned short)-948292782, (unsigned short)755208122, (short)-1656323513, 268655655);
 }
 else if (twBz5x2)
 {
@@ -183,7 +183,7 @@ else if (f6h6RT)
 {
 if ((E0SLANcief >= 1623597433) || (G_C8 >= b6sTVm))
 {
-BPk5i8 = o14cR5G(H5Eqoa75n, (unsigned short)-1528252665, 220353334, i0OLw08, -384558923);
+BPk5i8 = o14cR5G(H5Eqoa75n, (unsigned short)-1528252665, (unsigned short)220353334, i0OLw08, -384558923);
 }
 else
 {
@@ -213,7 +213,7 @@ LEO9z = (long long)(wLHO0 + (b6sTVm));
 FFRGG = o14cR5G(Ze1P4J, (unsigned short)-1045480579, (unsigned short)2132112801, n0x2J, -815663243);
 if (jHjWj == wLHO0)
 {
-std::cout << LEO9z << o14cR5G(Ze1P4J, x7I_mh, z78sC_7, 4730715, -1641680559) << "O_m7O8" << std::endl;
+std::cout << LEO9z << o14cR5G(Ze1P4J, x7I_mh, z78sC_7, (short)4730715, -1641680559) << "O_m7O8" << std::endl;
 }
 else if (rKtzl >= ixwIV7)
 {
@@ -274,7 +274,7 @@ while (j < 4);
 j66SL1 = C9dr((unsigned char)-258858991, BPk5i8);
 for (int i = 9; i >= 0; i--)
 {
-X3O4v1av = o14cR5G(-703689115, -2005911004, -2017627574, 1432082452, -183134589) - 1275344072;
+X3O4v1av = o14cR5G(-703689115, (unsigned short)-2005911004, -2017627574, 1432082452, -183134589) - 1275344072;
 }
 
 V0Xrel = o14cR5G(101698226, (unsigned short)1975708985, -1118477672, M8xx0, pcOE);

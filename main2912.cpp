@@ -56,7 +56,7 @@ int main(int argc, char** argv)
 Vvpp = (int)abs(JU545__l7S);
 for (int i = 8; i >= 0; i--)
 {
-QGX6U22Uu = HBuFkrQ_((unsigned char)-1210788152, (short)-590506106, 1895299754, vt2o1wm6, -240419232);
+QGX6U22Uu = HBuFkrQ_((unsigned char)-1210788152, (short)-590506106, 1895299754, vt2o1wm6, (short)-240419232);
 }
 
 {
@@ -93,7 +93,7 @@ Lxc0 = HBuFkrQ_((unsigned char)-1242410906, (short)-694239681, ftOmfc7U, dxzd1, 
 }
 else if ((C33_c < G7BhkHED) && (Lxc0))
 {
-QGX6U22Uu = HBuFkrQ_(QGX6U22Uu, -1938304540, COI65, 524942017, o_86q);
+QGX6U22Uu = HBuFkrQ_(QGX6U22Uu, (short)-1938304540, COI65, 524942017, o_86q);
 }
 else
 {
@@ -233,7 +233,7 @@ ftOmfc7U = jFyy1tF(1236455743, -1404595302, 1660042811);
 }
 }
 
-std::cout << EFdXA << "e4_9K_sU" << "f0Zdxg3Ng8" << jFyy1tF(ftOmfc7U, (unsigned char)-1156724224, COI65) << jFyy1tF(-474579279, (unsigned char)1375349286, -1847455458) << std::endl;
+std::cout << EFdXA << "e4_9K_sU" << "f0Zdxg3Ng8" << jFyy1tF(ftOmfc7U, (unsigned char)-1156724224, COI65) << jFyy1tF(-474579279, (unsigned char)1375349286, (unsigned short)-1847455458) << std::endl;
 dxzd1 = jFyy1tF(-1031409686, dxzd1, -882006468);
 CDO7oJRw++;
 

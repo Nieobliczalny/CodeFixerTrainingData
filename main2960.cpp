@@ -104,7 +104,7 @@ mm2j = tS4W(-1654136337, (unsigned short)-411429304, wH6qU_hBg);
 break;
 case 'g':
 case 'G':
-FlO62w_N3 = oZzb_(FlO62w_N3, 895884978, (short)691497815, 1972928199, -1616371923);
+FlO62w_N3 = oZzb_(FlO62w_N3, 895884978, (short)691497815, 1972928199, (unsigned char)-1616371923);
 break;
 }
 }
@@ -153,7 +153,7 @@ case 1:
 Z5Oq7KV_xK = Tx2_((unsigned short)1181664438, OfTz);
 break;
 case 2:
-AODMQ = oZzb_((short)-1153815894, E21_, mjsgP9lj, R1L7ytp2u, -498264199);
+AODMQ = oZzb_((short)-1153815894, E21_, mjsgP9lj, R1L7ytp2u, (unsigned char)-498264199);
 break;
 case 3:
 wH6qU_hBg ^= T1dOax;
@@ -177,7 +177,7 @@ Z5Oq7KV_xK = Tx2_((unsigned short)-211492557, (short)353949440);
 }
 else if (S_4A9O0WP6 < G9gTQAMR)
 {
-E21_ = tS4W(-278899118, -2060523137, v024o);
+E21_ = tS4W(-278899118, (unsigned short)-2060523137, v024o);
 }
 else if (d3V3 > e_4O99)
 {
@@ -203,7 +203,7 @@ int j = 0;
 while (j < 9)
 {
 j++;
-std::cout << oZzb_((short)-501723509, -2140745543, (short)1017569645, v024o, 475372393) << Tx2_(mjsgP9lj, 683011765) << mjsgP9lj << UV7M47t43v() << tS4W(275505166, jBDQpE2N, R1L7ytp2u) << std::endl;
+std::cout << oZzb_((short)-501723509, -2140745543, (short)1017569645, v024o, (unsigned char)475372393) << Tx2_(mjsgP9lj, 683011765) << mjsgP9lj << UV7M47t43v() << tS4W(275505166, jBDQpE2N, R1L7ytp2u) << std::endl;
 }
 }
 }
@@ -232,7 +232,7 @@ if (UQ_6h > mjsgP9lj)
 {
 if ((wH6qU_hBg >= hVlHr) && (G56C <= e_4O99))
 {
-hVlHr = oZzb_((short)-773073792, fNU5ld, (short)198712314, 233540213, 1798154330);
+hVlHr = oZzb_((short)-773073792, fNU5ld, (short)198712314, 233540213, (unsigned char)1798154330);
 }
 else
 {
@@ -438,7 +438,7 @@ if (Tx2_(N9093Jx_wH, (short)-1814811235) == 0)
 	hVlHr = VEYZ / Tx2_(N9093Jx_wH, (short)-1814811235);
 }
 
-N9093Jx_wH = oZzb_(-832037633, 38156505, I_P8vw, -1008689166, -342920442);
+N9093Jx_wH = oZzb_((short)-832037633, 38156505, I_P8vw, -1008689166, -342920442);
 {
 int i = 2;
 while (i >= 0)
@@ -501,7 +501,7 @@ Z5Oq7KV_xK = Tx2_((unsigned short)-149879971, (short)-1624418580);
 break;
 case 'j':
 case 'J':
-Z5Oq7KV_xK = Tx2_(1489915466, pDKq6C);
+Z5Oq7KV_xK = Tx2_((unsigned short)1489915466, pDKq6C);
 break;
 }
 }

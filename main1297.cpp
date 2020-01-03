@@ -40,7 +40,7 @@ int main(int argc, char** argv)
 	unsigned long	n17mpE5	=	2040070576;
  char l6h1A = (char)1515225510;
   float  uO7x82M_  =  -11558619;
-	unsigned short int	YwJvv	=	-209120113;
+	unsigned short int	YwJvv	=	(unsigned short)-209120113;
     unsigned long    O_RNK0U    =    -895213717;
   unsigned short int  kg7q2n_P  =  -2006319866;
 	unsigned char	a6gPow2c	=	-1705212821;
@@ -133,7 +133,7 @@ SSvwge = U1YMm9(BIUPDfI1vo, O_RNK0U, (short)531377939, SSvwge);
 break;
 case 'g':
 case 'G':
-uO7x82M_ = r7NC48a6kJ(SSvwge, uO7x82M_, (unsigned short)-1811538307, -1987801687);
+uO7x82M_ = r7NC48a6kJ(SSvwge, uO7x82M_, (unsigned short)-1811538307, (short)-1987801687);
 break;
 case 'h':
 case 'H':
@@ -235,7 +235,7 @@ F1P1Dx_y = U1YMm9((short)-1751740550, 1277289937, HNE4b7_, x4R__05jE);
 break;
 case 'd':
 case 'D':
-a6gPow2c = r7NC48a6kJ(a6gPow2c, -297125691, -589530852, j7PyGmM);
+a6gPow2c = r7NC48a6kJ(a6gPow2c, -297125691, (unsigned short)-589530852, j7PyGmM);
 break;
 }
 

@@ -403,7 +403,7 @@ std::cout << MKjX_K << L8JaYN() << BGF71 << LEqfTmH95(331151954, (char)-17395652
 }
 else
 {
-std::cout << LEqfTmH95(-1696294524, nW9nMSs94, BGF71, GIKWTK3e, -1072454233) << ULD6xa3bkd << std::endl;
+std::cout << LEqfTmH95(-1696294524, nW9nMSs94, BGF71, GIKWTK3e, (char)-1072454233) << ULD6xa3bkd << std::endl;
 }
 }
 

@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
     char    U9y9;
     U9y9    =    (char)-833366625;
 	short int	C73SRtWm;
-	C73SRtWm	=	563601903;
+	C73SRtWm	=	(short)563601903;
     double    Jc3qq9Nt2Y;
     Jc3qq9Nt2Y    =    191433044;
  short iy_06q;
@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
  short o_5ydhugIj;
  o_5ydhugIj = (short)1367766488;
 	short	xyX9;
-	xyX9	=	522916129;
+	xyX9	=	(short)522916129;
  unsigned short int d8HhQI;
  d8HhQI = 1007712651;
   long  h27TFTFd3c;
@@ -62,7 +62,7 @@ int main(int argc, char** argv) {
  short vzgxIEE3;
  vzgxIEE3 = (short)-278659750;
   short  W2eRL3Y;
-  W2eRL3Y  =  1564959704;
+  W2eRL3Y  =  (short)1564959704;
   int  RNuKSOTq;
   RNuKSOTq  =  911708700;
   float  b0eC696;
@@ -76,7 +76,7 @@ int main(int argc, char** argv) {
  long iKFDG;
  iKFDG = 274709737;
     unsigned short int    OH69qJ5w1a;
-    OH69qJ5w1a    =    -1275634112;
+    OH69qJ5w1a    =    (unsigned short)-1275634112;
     long    JsQtxOhvz;
     JsQtxOhvz    =    -192968037;
  long double l2qrZ;
@@ -90,7 +90,7 @@ int main(int argc, char** argv) {
 	unsigned char	N9r13CHK6i;
 	N9r13CHK6i	=	(unsigned char)-52261389;
     short int    I86WVfC;
-    I86WVfC    =    1875026847;
+    I86WVfC    =    (short)1875026847;
   long  UYKT927s4k;
   UYKT927s4k  =  533640671;
 	short int	g6g7B1UZgP;
@@ -112,7 +112,7 @@ int main(int argc, char** argv) {
   short  R1SU;
   R1SU  =  (short)927755648;
  unsigned short int BC2ZH_;
- BC2ZH_ = -1899256768;
+ BC2ZH_ = (unsigned short)-1899256768;
  unsigned char r9b4w9gI;
  r9b4w9gI = (unsigned char)1321759472;
  long double LIiFRgzGi9;
@@ -130,7 +130,7 @@ int main(int argc, char** argv) {
 	short	l_TaHvXv_D;
 	l_TaHvXv_D	=	(short)-764155463;
   char  y0VmxC0;
-  y0VmxC0  =  1938966795;
+  y0VmxC0  =  (char)1938966795;
   double  eWmB3wu5jE;
   eWmB3wu5jE  =  -1495838117;
 	unsigned short	GRm0C2;
@@ -166,7 +166,7 @@ int main(int argc, char** argv) {
  unsigned short h8Nc;
  h8Nc = (unsigned short)-1521494373;
     unsigned short int    pSW05;
-    pSW05    =    1490848868;
+    pSW05    =    (unsigned short)1490848868;
     unsigned long    N3Nezo7y9d;
     N3Nezo7y9d    =    1748290372;
 	unsigned int	yZ7dog7;
@@ -202,7 +202,7 @@ int main(int argc, char** argv) {
     short int    U4TBC4;
     U4TBC4    =    (short)1201793765;
 
-std::cout << OQH_A << i0CV(-1064877434, U4TBC4) << std::endl;
+std::cout << OQH_A << i0CV((unsigned short)-1064877434, U4TBC4) << std::endl;
 XM62J7 = r9b4w9gI / xDDY;
 
 switch (iy_06q)

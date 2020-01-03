@@ -20,7 +20,7 @@ int main(void) {
   float  idHV29S  =  204425178;
     short int    NmKtUI12J    =    (short)508206198;
   unsigned short  CAKcS  =  (unsigned short)1527315385;
-    unsigned short int    w97sdHD    =    -147021408;
+    unsigned short int    w97sdHD    =    (unsigned short)-147021408;
 	double	GIhx	=	1177452023;
 	unsigned int	X3QD3m330r	=	2118570504;
  unsigned short int r7ajHt = -1380794706;
@@ -30,7 +30,7 @@ int main(void) {
     float    uxFtiS    =    -1647058560;
 	unsigned char	BKJsz1	=	(unsigned char)412419660;
  short b__dp = (short)-1662789534;
-    char    an4qQJY8wB    =    -49119378;
+    char    an4qQJY8wB    =    (char)-49119378;
 	short	me973	=	-87326544;
   float  gG0By_S  =  -1750991661;
   unsigned int  xtr3qm  =  -981951140;
@@ -42,7 +42,7 @@ int main(void) {
   short int  nAk88b8uaG  =  (short)1483926313;
  unsigned int s_JF = 1037081227;
  unsigned short fcA09h3 = (unsigned short)262638615;
-    unsigned short int    XPlv4xq3J    =    1833152596;
+    unsigned short int    XPlv4xq3J    =    (unsigned short)1833152596;
  unsigned int Yb8I = 275236205;
  long jTYPw4U = 1556433561;
     int    H82S3omQ1    =    730463775;
@@ -56,7 +56,7 @@ int main(void) {
     unsigned short    vu5p    =    0;
 	short int	Bv8WacJI	=	(short)-1627685506;
 	double	VBY8	=	2050594339;
-    char    rta4rB    =    -1771285925;
+    char    rta4rB    =    (char)-1771285925;
     short int    vTA1YqnuM0    =    1599838564;
 	long double	eP9_syR	=	-934068448;
 	unsigned short	SDnz43oW7k	=	0;
@@ -116,7 +116,7 @@ break;
 std::cout << GZ1_5_(-736731187, uxFtiS) << h96GM << MF1d(rta4rB, uxFtiS, 1484996396, 1766776396, u5YjdX3) << "zz_6U953A" << std::endl;
 if (w97sdHD > fcA09h3)
 {
-WC1R3EQC = MF1d(1039515506, OrtwWj2_I, g_3D12T3U, m6EGNUZ, -516464578);
+WC1R3EQC = MF1d((char)1039515506, OrtwWj2_I, g_3D12T3U, m6EGNUZ, -516464578);
 }
 
 Yb8I = rta4rB - 1782286150;
@@ -256,7 +256,7 @@ IhG8K = MF1d((char)14404171, (unsigned short)402795140, 179197834, N7DTv_CouF, F
 }
 else if ((F07S <= idHV29S) || (uxFtiS < -2129373969))
 {
-rta4rB = MF1d(IhG8K, 1567435998, 787021496, 1284861456, 372188584) >> 467872828;
+rta4rB = MF1d(IhG8K, (unsigned short)1567435998, 787021496, 1284861456, 372188584) >> 467872828;
 }
 else if (w7Mk4iR >= -1686268888)
 {

@@ -90,7 +90,7 @@ break;
 }
 else if (r18l != Yf_f00A4C)
 {
-cout << Jas53fpEC((unsigned short)768347482, qE194, 1176535265, -1374905518, zm79X_) << My7oy689 << L60SQ << "w5mCW5" << endl;
+cout << Jas53fpEC((unsigned short)768347482, qE194, (unsigned short)1176535265, -1374905518, zm79X_) << My7oy689 << L60SQ << "w5mCW5" << endl;
 }
 else if (((ui_4aB791V > -1256467637) && (O9uf9Dua <= -629936916)) || (x141s4av > Iozfr8KZG))
 {
@@ -162,7 +162,7 @@ INAP65Qi0b = Jas53fpEC((unsigned short)860405907, -1041332695, qE194, -171004789
 }
 else
 {
-s0T0r = vXfou(934842207, QzZ_jLkTn, xt9LmXtyJ5, -1374657086);
+s0T0r = vXfou((unsigned char)934842207, QzZ_jLkTn, xt9LmXtyJ5, -1374657086);
 }
 }
 else if (PG29_ != 45931175)
@@ -200,7 +200,7 @@ case 3:
 Kx5w = vXfou((unsigned char)332285919, 220881082, 750719991, gj_nPOzF9_);
 break;
 case 4:
-Lvtog66 = vXfou(1980277647, Fl5Yr3nHvm, s0T0r, c487);
+Lvtog66 = vXfou((unsigned char)1980277647, Fl5Yr3nHvm, s0T0r, c487);
 break;
 case 5:
 Fl5Yr3nHvm /= x5kbn7;
@@ -240,7 +240,7 @@ if ((s667e == 1478178495) || (INAP65Qi0b != D8g_1))
 {
 if (Iozfr8KZG == -130086042)
 {
-cout << Jas53fpEC((unsigned short)-111984678, -1690023173, (unsigned short)-48830358, -540275138, hZ_3Nmz_nE) << Jas53fpEC(b102NFRjm, s0T0r, -1165696570, 1401480221, hZ_3Nmz_nE) << vXfou(-219015796, 2127557793, c487, l_U7N) << N7ePW << "QFprK5" << endl;
+cout << Jas53fpEC((unsigned short)-111984678, -1690023173, (unsigned short)-48830358, -540275138, hZ_3Nmz_nE) << Jas53fpEC(b102NFRjm, s0T0r, (unsigned short)-1165696570, 1401480221, hZ_3Nmz_nE) << vXfou(-219015796, 2127557793, c487, l_U7N) << N7ePW << "QFprK5" << endl;
 }
 else if ((xqdcy1 & -172377818) && (s0T0r == -779411773))
 {
@@ -276,7 +276,7 @@ else if (knW3Z29Zn < 1228649864)
 switch (gj_nPOzF9_)
 {
 case 0:
-INAP65Qi0b = Jas53fpEC(s667e, -135905879, 1469974476, Lvtog66, ok1M9B2te);
+INAP65Qi0b = Jas53fpEC(s667e, -135905879, (unsigned short)1469974476, Lvtog66, ok1M9B2te);
 break;
 case 1:
 INAP65Qi0b = Jas53fpEC(Fl5Yr3nHvm, zd39B1QF0Y, (unsigned short)-419624425, -301060930, 629004287);
@@ -380,7 +380,7 @@ xt9LmXtyJ5 = (unsigned int)(qQhx);
 INAP65Qi0b = Jas53fpEC(PG29_, lo2wUp2c, (unsigned short)-316409674, 662451535, -360071095);
 try
 {
-cout << Yf_f00A4C << Jas53fpEC((unsigned short)803059035, lo2wUp2c, 963062215, 232344644, Lth2mF_11K) << "Py7hVP" << "o1YrSI8V" << Jas53fpEC(1624966541, lo2wUp2c, gj_nPOzF9_, 2000149614, -1953134087) << endl;
+cout << Yf_f00A4C << Jas53fpEC((unsigned short)803059035, lo2wUp2c, (unsigned short)963062215, 232344644, Lth2mF_11K) << "Py7hVP" << "o1YrSI8V" << Jas53fpEC(1624966541, lo2wUp2c, gj_nPOzF9_, 2000149614, -1953134087) << endl;
 }
 catch (int& errorCode)
 {

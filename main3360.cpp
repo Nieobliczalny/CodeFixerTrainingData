@@ -61,7 +61,7 @@ int main(int argc, char** argv)
 	double	AGv7Gah_uc;
 	AGv7Gah_uc	=	-809625901;
     unsigned char    G5jCw0i;
-    G5jCw0i    =    421513600;
+    G5jCw0i    =    (unsigned char)421513600;
 	unsigned long long	h8beOv;
 	h8beOv	=	-1317269785;
  unsigned long HUJg8T9;
@@ -75,7 +75,7 @@ int main(int argc, char** argv)
  unsigned long x4SG3Pb;
  x4SG3Pb = 679444043;
  short oqwNs3v;
- oqwNs3v = 1395232845;
+ oqwNs3v = (short)1395232845;
   unsigned long  q_n3844;
   q_n3844  =  0;
     long double    ItQi__Br;
@@ -153,7 +153,7 @@ int main(int argc, char** argv)
 	double	wR_FF1d;
 	wR_FF1d	=	-1323297443;
 	unsigned char	Ml7O0u5;
-	Ml7O0u5	=	-305933745;
+	Ml7O0u5	=	(unsigned char)-305933745;
     unsigned int    tI_1;
     tI_1    =    476454601;
  double i545t6_O;

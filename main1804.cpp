@@ -99,7 +99,7 @@ int k = 8;
 while (k >= 0)
 {
 --k;
-ID7VsP = Z_int1WJG1((unsigned short)-59722212, (unsigned short)-1050973762, -304912228);
+ID7VsP = Z_int1WJG1((unsigned short)-59722212, (unsigned short)-1050973762, (short)-304912228);
 }
 }
 }
@@ -304,7 +304,7 @@ S_0KLsswVz = Z_int1WJG1(V50q_d_, (unsigned short)-1523717756, (short)-2029457466
 break;
 case 'c':
 case 'C':
-S_0KLsswVz = Z_int1WJG1(J0_dv55Gem, jKef_V1yh, -1529364360);
+S_0KLsswVz = Z_int1WJG1(J0_dv55Gem, jKef_V1yh, (short)-1529364360);
 break;
 case 'd':
 case 'D':

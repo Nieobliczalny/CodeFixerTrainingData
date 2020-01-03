@@ -22,7 +22,7 @@ int main() {
     char    MMEy8go,    N_cjn,    FcM3P7p,    w52FQ8,    b_V4YB1U,    k2W78N,    GRPX,    PyqRK6,    cML_H_0z,    bQ8cjIl5G,    TOkq2ce79_,    H6pt_0j7,    G_EQd9e2m,    SU1v,    tTy7Mg4I9,    CK7GJ,    miXjg,    aqSY,    iwos56x,    y52VA9C,    ayy1,    sNw1qp,    YJWrP9ZNZg,    WHVB8g8nrD,    jS53,    V13Qb8,    sfUVeS,    FN1eOAQ4o,    O5_kXMd8T_,    lYj5580,    A8Ukyw,    c_I3,    u9gF,    S78pOL2D,    Kf1ZH2H,    HnBkCo9D,    Qw76_2,    lCXi4,    c6uL_o,    o4Q6,    oy_4G49,    d9_094yqW,    EffYzw,    Q8_c0oNI87,    JEJo2hp2n,    NtY2,    szfN2F6T1_,    r4AT,    CDg_0,    SO5Z8831,    Rdez85,    Fls2,    wxqyUd,    jhY3A1A_,    Wwu3EGOz,    b106pL,    mwD9g,    M4cG,    uZZ5CjoL8,    fk62_yDc3,    Won2f747,    N7XiW92D0,    Mc2L,    w5zdCiO,    l38x,    dsw_,    D1G1q7ZDx,    p2cRI,    jp4Ohc8_,    CBzRN5Y6,    ee49Zn,    iZKmS9pW,    BvLjJY;
     MMEy8go    =    (char)512544224;
     N_cjn    =    (char)1832390132;
-    FcM3P7p    =    1172724717;
+    FcM3P7p    =    (char)1172724717;
     w52FQ8    =    540962150;
     b_V4YB1U    =    745029531;
     k2W78N    =    -203772964;
@@ -32,7 +32,7 @@ int main() {
     bQ8cjIl5G    =    -74645147;
     TOkq2ce79_    =    (char)533123621;
     H6pt_0j7    =    (char)-1597653294;
-    G_EQd9e2m    =    1297600840;
+    G_EQd9e2m    =    (char)1297600840;
     SU1v    =    -875574346;
     tTy7Mg4I9    =    558135427;
     CK7GJ    =    1130004408;
@@ -42,7 +42,7 @@ int main() {
     y52VA9C    =    10776566;
     ayy1    =    (char)1463740272;
     sNw1qp    =    (char)-1027012922;
-    YJWrP9ZNZg    =    1073972854;
+    YJWrP9ZNZg    =    (char)1073972854;
     WHVB8g8nrD    =    -2065157174;
     jS53    =    -678169551;
     V13Qb8    =    -2049329457;
@@ -52,7 +52,7 @@ int main() {
     lYj5580    =    581884402;
     A8Ukyw    =    (char)993601527;
     c_I3    =    (char)1747019823;
-    u9gF    =    1255138861;
+    u9gF    =    (char)1255138861;
     S78pOL2D    =    738617646;
     Kf1ZH2H    =    -701239056;
     HnBkCo9D    =    2022758332;
@@ -62,7 +62,7 @@ int main() {
     o4Q6    =    1599017906;
     oy_4G49    =    (char)-1570847176;
     d9_094yqW    =    (char)-138864534;
-    EffYzw    =    -155339721;
+    EffYzw    =    (char)-155339721;
     Q8_c0oNI87    =    -578578359;
     JEJo2hp2n    =    -5774923;
     NtY2    =    -1026326890;
@@ -72,7 +72,7 @@ int main() {
     SO5Z8831    =    540277329;
     Rdez85    =    (char)-128420629;
     Fls2    =    (char)-6440319;
-    wxqyUd    =    1627549472;
+    wxqyUd    =    (char)1627549472;
     jhY3A1A_    =    502765079;
     Wwu3EGOz    =    1704273496;
     b106pL    =    1129218180;
@@ -82,7 +82,7 @@ int main() {
     fk62_yDc3    =    -20807111;
     Won2f747    =    (char)-1888206612;
     N7XiW92D0    =    (char)-1630970758;
-    Mc2L    =    -852379716;
+    Mc2L    =    (char)-852379716;
     w5zdCiO    =    45280296;
     l38x    =    -901221606;
     dsw_    =    -1054130762;
@@ -92,7 +92,7 @@ int main() {
     CBzRN5Y6    =    267886322;
     ee49Zn    =    (char)-815591909;
     iZKmS9pW    =    (char)-594865453;
-    BvLjJY    =    -1015782417;
+    BvLjJY    =    (char)-1015782417;
     long long    JYivYIh,    bAUQ5M;
     JYivYIh    =    0;
     bAUQ5M    =    0;
@@ -114,7 +114,7 @@ case 3:
 BvLjJY = PSxa6I((char)455019383, Fls2, -1617088441, (short)1663777490);
 break;
 default:
-bAUQ5M = FT5u_7V7jG(426642688, 169670318, 1125913262);
+bAUQ5M = FT5u_7V7jG((short)426642688, 169670318, 1125913262);
 break;
 }
 }
@@ -156,7 +156,7 @@ Kf1ZH2H = (int)abs(Qw76_2);
 int i = 0;
 while (i < 2)
 {
-std::cout << PSxa6I(V13Qb8, 1532582691, y52VA9C, ayy1) << PSxa6I((char)-1230973519, -952315191, -258021160, (short)-117016753) << FT5u_7V7jG(V13Qb8, 1316054237, -120039013) << w52FQ8 << std::endl;
+std::cout << PSxa6I(V13Qb8, 1532582691, y52VA9C, ayy1) << PSxa6I((char)-1230973519, -952315191, -258021160, (short)-117016753) << FT5u_7V7jG(V13Qb8, (unsigned char)1316054237, -120039013) << w52FQ8 << std::endl;
 ++i;
 }
 }
@@ -231,7 +231,7 @@ bAUQ5M = FT5u_7V7jG((short)-402205747, Qw76_2, -1445365796);
 break;
 case 'c':
 case 'C':
-r4AT = PSxa6I((char)1270143665, V13Qb8, -1136635502, -2081906882);
+r4AT = PSxa6I((char)1270143665, V13Qb8, -1136635502, (short)-2081906882);
 break;
 case 'd':
 case 'D':
@@ -247,7 +247,7 @@ bAUQ5M = FT5u_7V7jG((short)2077126507, (unsigned char)-318428465, 512177858);
 break;
 case 'g':
 case 'G':
-jp4Ohc8_ = PSxa6I(-1979422153, 234661688, BvLjJY, 1494628555);
+jp4Ohc8_ = PSxa6I((char)-1979422153, 234661688, BvLjJY, 1494628555);
 break;
 case 'h':
 case 'H':
@@ -319,7 +319,7 @@ else
 k2W78N = PSxa6I(k2W78N, 1661263228, 1780894759, (short)-1638021044);
 }
 SO5Z8831 ^= k2W78N;
-std::cout << "i7biDc" << szfN2F6T1_ << PSxa6I(k2W78N, A8Ukyw, 704451338, (short)-566304116) << wxqyUd << FT5u_7V7jG(k2W78N, 614269421, 2106826720) << std::endl;
+std::cout << "i7biDc" << szfN2F6T1_ << PSxa6I(k2W78N, A8Ukyw, 704451338, (short)-566304116) << wxqyUd << FT5u_7V7jG(k2W78N, (unsigned char)614269421, 2106826720) << std::endl;
 
 for (int i = 0; i < 2; ++i)
 {
@@ -380,7 +380,7 @@ else
 {
 if (d9_094yqW == -790122856)
 {
-N7XiW92D0 = PSxa6I(305319059, -58028, -1087256946, 1908822383);
+N7XiW92D0 = PSxa6I((char)305319059, -58028, -1087256946, 1908822383);
 }
 }
 }
@@ -427,7 +427,7 @@ k2W78N = PSxa6I((char)-718553668, EffYzw, l38x, (short)1556200515);
 }
 }
 }
-std::cout << FT5u_7V7jG(k2W78N, 213430651, 952488782) << sNw1qp << std::endl;
+std::cout << FT5u_7V7jG(k2W78N, (unsigned char)213430651, 952488782) << sNw1qp << std::endl;
 switch (cML_H_0z)
 {
 case 'a':
@@ -458,7 +458,7 @@ case 'i':
 JYivYIh = FT5u_7V7jG((short)-1198322312, M4cG, tTy7Mg4I9);
 break;
 default:
-k2W78N = PSxa6I(-1653084401, -780160966, 406755902, -1362907022);
+k2W78N = PSxa6I((char)-1653084401, -780160966, 406755902, -1362907022);
 break;
 }
 
@@ -646,7 +646,7 @@ else
 w52FQ8 ^= SU1v;
 }
 JYivYIh = FT5u_7V7jG(ee49Zn, (unsigned char)49981015, Wwu3EGOz);
-std::cout << PSxa6I((char)2037878770, miXjg, -475193005, PyqRK6) << PSxa6I(-797736389, miXjg, -642387656, PyqRK6) << std::endl;
+std::cout << PSxa6I((char)2037878770, miXjg, -475193005, PyqRK6) << PSxa6I((char)-797736389, miXjg, -642387656, PyqRK6) << std::endl;
 JYivYIh = (long long)(b_V4YB1U * JYivYIh);
 {
 int i = 0;

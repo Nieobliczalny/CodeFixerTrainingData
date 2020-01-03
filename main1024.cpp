@@ -26,7 +26,7 @@ int main(void) {
     short int    SPq7Vca;
     SPq7Vca    =    (short)329990474;
   short int  OvE540_Mqk;
-  OvE540_Mqk  =  646074298;
+  OvE540_Mqk  =  (short)646074298;
  long double iS1E7;
  iS1E7 = -2058266384;
   long long  n_58HW0G9;
@@ -40,7 +40,7 @@ int main(void) {
 	unsigned short	UczzHf62;
 	UczzHf62	=	(unsigned short)508674294;
     unsigned char    nov_556Pb;
-    nov_556Pb    =    1661050981;
+    nov_556Pb    =    (unsigned char)1661050981;
     unsigned short int    g7yCr;
     g7yCr    =    (unsigned short)192233316;
  long double v55B;

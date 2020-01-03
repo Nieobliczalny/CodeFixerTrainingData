@@ -27,7 +27,7 @@ int main() {
   short int  J6Bk;
   J6Bk  =  (short)1482896056;
     unsigned short    JvzXxGg;
-    JvzXxGg    =    1260409497;
+    JvzXxGg    =    (unsigned short)1260409497;
   int  t4t4D73;
   t4t4D73  =  892550163;
     char    fr_h;
@@ -53,7 +53,7 @@ int main() {
 	unsigned short	O9H6T;
 	O9H6T	=	(unsigned short)1381781062;
  short int GHK1QgV;
- GHK1QgV = -943115976;
+ GHK1QgV = (short)-943115976;
 	long long	AE2plv10x;
 	AE2plv10x	=	-1729118316;
     double    b_q4J;
@@ -85,7 +85,7 @@ int main() {
     short    D1dXn;
     D1dXn    =    (short)1093085484;
     short int    v5wz8Gd;
-    v5wz8Gd    =    -289508988;
+    v5wz8Gd    =    (short)-289508988;
  unsigned long long pR5XCiN;
  pR5XCiN = 573679779;
   long double  O4Uhff;
@@ -95,7 +95,7 @@ int main() {
     unsigned short    Px1q1V3;
     Px1q1V3    =    (unsigned short)-1738490701;
   short int  pEgd92;
-  pEgd92  =  187565896;
+  pEgd92  =  (short)187565896;
  unsigned char N9Cx;
  N9Cx = -1553248246;
 	float	BsIzm;
@@ -153,7 +153,7 @@ int main() {
   unsigned short  tCryx0_4;
   tCryx0_4  =  (unsigned short)134832044;
  unsigned short int FYb_305j;
- FYb_305j = -403360927;
+ FYb_305j = (unsigned short)-403360927;
  long FF2_8Udgi;
  FF2_8Udgi = 1507190086;
     int    DziBV_2Ka_;

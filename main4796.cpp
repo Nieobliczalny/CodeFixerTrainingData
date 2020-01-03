@@ -16,7 +16,7 @@ int main()
  unsigned short fA1859ps, P_46u8866L, M14_J, fc_i, xOjzb64Lk, Hwy2, nx1Wz6Q13g, ASZSFWa, bl52p5J, A_24h9JBqj, G3ka_, YB4y, W_4W7Z09, f0ahFAge1G, BSB1oL3, R4Ri, ut9CQJv, T_0XqzJq, jpcuHuXLss, Njq5517, BkmHZr, Zd7446V, U0_8, SQ9K0TDV, OLqhM, H_Da2gFj, J06q, vfKIxOSFo, c_8twwL, M6i2Zy;
  fA1859ps = (unsigned short)360957806;
  P_46u8866L = (unsigned short)869139283;
- M14_J = -1843400764;
+ M14_J = (unsigned short)-1843400764;
  fc_i = -763233682;
  xOjzb64Lk = -1662847589;
  Hwy2 = 411297985;
@@ -26,7 +26,7 @@ int main()
  A_24h9JBqj = -324231928;
  G3ka_ = (unsigned short)-645917902;
  YB4y = (unsigned short)324924721;
- W_4W7Z09 = -1533659862;
+ W_4W7Z09 = (unsigned short)-1533659862;
  f0ahFAge1G = -507764497;
  BSB1oL3 = -2070244542;
  R4Ri = -752698894;
@@ -36,7 +36,7 @@ int main()
  Njq5517 = -2028694578;
  BkmHZr = (unsigned short)-966483065;
  Zd7446V = (unsigned short)1115952581;
- U0_8 = -779654839;
+ U0_8 = (unsigned short)-779654839;
  SQ9K0TDV = 1610975431;
  OLqhM = 451431429;
  H_Da2gFj = -131579717;
@@ -50,7 +50,7 @@ int main()
   R91JsY9  =  0;
 
 HAz_BJT = bE0kC_33((unsigned short)1888972138, YB4y, (short)887014217);
-std::cout << bE0kC_33(-1246587076, YB4y, HAz_BJT) << std::endl;
+std::cout << bE0kC_33((unsigned short)-1246587076, YB4y, HAz_BJT) << std::endl;
 
 switch (R4Ri)
 {
@@ -64,7 +64,7 @@ R91JsY9 = bE0kC_33((unsigned short)-358278361, 676096439, (short)-1619027602);
 break;
 case 'c':
 case 'C':
-R91JsY9 = bE0kC_33(-868729932, 1918234521, -1162312093);
+R91JsY9 = bE0kC_33((unsigned short)-868729932, 1918234521, -1162312093);
 break;
 case 'd':
 case 'D':
@@ -359,7 +359,7 @@ case 'B':
 Zd7446V = ob3SZ5CUNh((short)1238123430, 424370831, -875392914);
 break;
 default:
-gn8c_0 = bE0kC_33((unsigned short)802678960, -69281530, -1097250846);
+gn8c_0 = bE0kC_33((unsigned short)802678960, -69281530, (short)-1097250846);
 break;
 }
 }
@@ -435,7 +435,7 @@ J06q = ob3SZ5CUNh((short)-1218656746, -2081764135, -1241872756);
 }
 }
 
-std::cout << bE0kC_33(J06q, P_46u8866L, c_8twwL) << Zd7446V << ob3SZ5CUNh(-285272311, P_46u8866L, -181253723) << f0ahFAge1G << std::endl;
+std::cout << bE0kC_33(J06q, P_46u8866L, c_8twwL) << Zd7446V << ob3SZ5CUNh((short)-285272311, P_46u8866L, -181253723) << f0ahFAge1G << std::endl;
 if (gn8c_0 == 0)
 {
 	G3ka_ = ob3SZ5CUNh((short)-1138314952, 1519338625, c_8twwL) / gn8c_0;

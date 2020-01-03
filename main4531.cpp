@@ -168,7 +168,7 @@ case 5:
 x1L4Z = JApTyQ0V4v((unsigned char)163900342, (unsigned short)1470690956);
 break;
 case 6:
-CH600x3p = JApTyQ0V4v(V5a1b3ez, -679921742);
+CH600x3p = JApTyQ0V4v(V5a1b3ez, (unsigned short)-679921742);
 break;
 default:
 aQIVE_eH57 = (int)ceil(bzcl01);

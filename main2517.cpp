@@ -38,7 +38,7 @@ int main()
 	double	maQV7e;
 	maQV7e	=	16923152;
     char    dv9M70N;
-    dv9M70N    =    -44338383;
+    dv9M70N    =    (char)-44338383;
  long double XCSF5F9X7;
  XCSF5F9X7 = -2079083238;
 	float	n9vI;

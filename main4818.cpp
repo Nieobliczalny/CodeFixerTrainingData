@@ -69,7 +69,7 @@ int main(void)
     unsigned char    D7103DzQ;
     D7103DzQ    =    (unsigned char)-1576863525;
   char  K_fCa0But1;
-  K_fCa0But1  =  762478875;
+  K_fCa0But1  =  (char)762478875;
     long long    KPd94;
     KPd94    =    -2053374309;
   short int  W89Jij4bV8;
@@ -101,7 +101,7 @@ int main(void)
     long    w5r7gG;
     w5r7gG    =    1993460978;
 	short int	mRD_2gGS;
-	mRD_2gGS	=	1104131020;
+	mRD_2gGS	=	(short)1104131020;
   double  rn32YP;
   rn32YP  =  1731189752;
     short    j25o_kdT;
@@ -123,7 +123,7 @@ int main(void)
   unsigned short  WU3c71K;
   WU3c71K  =  (unsigned short)2106804888;
   char  nOnfR0K;
-  nOnfR0K  =  1653793523;
+  nOnfR0K  =  (char)1653793523;
     unsigned short    RfG27;
     RfG27    =    1764635714;
     long long    NMGr48O9v;
@@ -137,7 +137,7 @@ int main(void)
 	unsigned short int	Uq2wA7;
 	Uq2wA7	=	(unsigned short)437726422;
   short  rSnS3;
-  rSnS3  =  -320981623;
+  rSnS3  =  (short)-320981623;
   double  kCDwp0o;
   kCDwp0o  =  648395182;
 	long long	q3Lrtfx_;
@@ -149,7 +149,7 @@ int main(void)
   int  DgEe_51B;
   DgEe_51B  =  -1256019445;
  short iJ882H22ir;
- iJ882H22ir = 1536676871;
+ iJ882H22ir = (short)1536676871;
     short int    N4Alh1NKwO;
     N4Alh1NKwO    =    -839372392;
  int aEBPWvD74n;
@@ -279,7 +279,7 @@ X1O29Y6 = (int)floor(GJLwn86);
 }
 else
 {
-std::cout << q8WRBy1U(LFOcw7i8YA, (short)-940161500) << gj6Y << q8WRBy1U((short)1565192513, 166242900) << xegeHkh(447574250, kOhIP, 2035015860, 554807726) << JB4o_9j456 << std::endl;
+std::cout << q8WRBy1U(LFOcw7i8YA, (short)-940161500) << gj6Y << q8WRBy1U((short)1565192513, (short)166242900) << xegeHkh(447574250, kOhIP, 2035015860, 554807726) << JB4o_9j456 << std::endl;
 }
 }
 else
@@ -451,7 +451,7 @@ case 1:
 YYjL3 = q8WRBy1U(YYjL3, (short)550096040);
 break;
 case 2:
-X83NRSa8_K = q8WRBy1U(481193957, 1239112533);
+X83NRSa8_K = q8WRBy1U((short)481193957, 1239112533);
 break;
 }
 }
@@ -485,7 +485,7 @@ aEBPWvD74n--;
 }
 else if (P_Ca >= -228925262)
 {
-std::cout << "tO2j63c0y" << gYNph(qrP7gt_Y, 1588977628, -1892092470) << xegeHkh(-987738606, (short)1904907288, j25o_kdT, -977716528) << R8oUvx << std::endl;
+std::cout << "tO2j63c0y" << gYNph(qrP7gt_Y, 1588977628, -1892092470) << xegeHkh(-987738606, (short)1904907288, j25o_kdT, (short)-977716528) << R8oUvx << std::endl;
 }
 else if (Q2U7t < kG67yene)
 {
@@ -649,7 +649,7 @@ o6Z07sRS4 = xegeHkh(vLvl, (short)1791841472, (char)592632161, R8oUvx);
 break;
 case 'g':
 case 'G':
-DC81H = xegeHkh(-548046152, 577773729, -1012342007, XP500);
+DC81H = xegeHkh(-548046152, (short)577773729, -1012342007, XP500);
 break;
 case 'h':
 case 'H':

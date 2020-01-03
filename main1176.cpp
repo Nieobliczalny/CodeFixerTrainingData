@@ -304,7 +304,7 @@ cout << ZOVO1W0u((short)-1055323630, -1575735184) << "zxoC_" << ZOVO1W0u((short)
 }
 else
 {
-cout << tAaZJX << ZOVO1W0u(465425696, 679926612) << endl;
+cout << tAaZJX << ZOVO1W0u((short)465425696, 679926612) << endl;
 }
 }
 else if (((YAO8cx) || (YAO8cx & -1942163651)) && (FQCK8 > -2071025501))

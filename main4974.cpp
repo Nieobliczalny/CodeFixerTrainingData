@@ -112,7 +112,7 @@ std::cout << KNf78((char)1287654550, (char)1737756006) << "t_iw5N7t" << qhAX << 
 
 if (EGt_BE_0X < uMhIIHeY)
 {
-io89 = p5LH_x7X59(2091556014, -1355462624, GYQ4pR, 1963839218);
+io89 = p5LH_x7X59(2091556014, (short)-1355462624, GYQ4pR, 1963839218);
 }
 
 for (int i = 0; i < 3; i++)
@@ -157,7 +157,7 @@ case 1:
 EGt_BE_0X = KNf78((char)-212420611, EGt_BE_0X);
 break;
 case 2:
-DRYw1C = KNf78((char)1321287609, 146269308);
+DRYw1C = KNf78((char)1321287609, (char)146269308);
 break;
 case 3:
 mQnNCJeja3 = IVr6ji_KF() | DgXv1n5PZY;
@@ -339,7 +339,7 @@ while (j >= 0);
 }
 else if (crvFSWYO3 == DRYw1C)
 {
-std::cout << KNf78((char)2097788992, -1504166528) << "K834OgwT" << IVr6ji_KF() << Sxjz_C << std::endl;
+std::cout << KNf78((char)2097788992, (char)-1504166528) << "K834OgwT" << IVr6ji_KF() << Sxjz_C << std::endl;
 }
 else if (((tID97RF >= 417053276) || (Sxjz_C)) && (mQnNCJeja3 < EGt_BE_0X))
 {
@@ -520,7 +520,7 @@ std::cout << HC38ZEx3g << "Vp_E6pcB1u" << "e6nya_dohn" << "D773" << DgXv1n5PZY <
 
 sF1QwC6Da4 = KNf78((char)1885495222, (char)-2108550991);
 
-WTJcM = KNf78(1895122127, wMZ0);
+WTJcM = KNf78((char)1895122127, wMZ0);
 
 qhAX = (long)(HC38ZEx3g);
 if (d5_oucE3 <= AX6vRc)

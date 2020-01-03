@@ -76,7 +76,7 @@ int main()
     long double    AFJ1Y_0Cq;
     AFJ1Y_0Cq    =    458298837;
   char  t3651;
-  t3651  =  550256503;
+  t3651  =  (char)550256503;
   float  vlko7;
   vlko7  =  1595715045;
     long    m6_ZOVIf;
@@ -104,7 +104,7 @@ int main()
  unsigned long long l206gvw9w;
  l206gvw9w = 2098743702;
  unsigned char r6pWqA6;
- r6pWqA6 = -372126958;
+ r6pWqA6 = (unsigned char)-372126958;
   unsigned long  pgq4_;
   pgq4_  =  777097505;
   unsigned long  Dpu1JjM;

@@ -58,7 +58,7 @@ int main(void) {
 	unsigned long long	pm6c0;
 	pm6c0	=	991563911;
 	short	l2I8tI82m_;
-	l2I8tI82m_	=	1622251354;
+	l2I8tI82m_	=	(short)1622251354;
   short  YQhj1P;
   YQhj1P  =  (short)1746684423;
  long double Ln9fW7;
@@ -86,7 +86,7 @@ int main(void) {
     unsigned char    t4B43;
     t4B43    =    (unsigned char)-1317568178;
 	char	Uouve2w;
-	Uouve2w	=	642062529;
+	Uouve2w	=	(char)642062529;
 	long long	NUfY6Q_37Y;
 	NUfY6Q_37Y	=	686113888;
   short  K5dqq_;
@@ -102,7 +102,7 @@ int main(void) {
  unsigned char SV5S5S;
  SV5S5S = (unsigned char)-1779420181;
     unsigned short int    g4fFaYJm;
-    g4fFaYJm    =    -83648511;
+    g4fFaYJm    =    (unsigned short)-83648511;
  unsigned long edTK;
  edTK = 1694521133;
  unsigned char q_a4h;
@@ -140,7 +140,7 @@ int main(void) {
 	long double	eVdf3u5Aj;
 	eVdf3u5Aj	=	694440651;
     short    nW108;
-    nW108    =    -1150179886;
+    nW108    =    (short)-1150179886;
  long RMF18;
  RMF18 = 1735381198;
     double    YUZaoTly;
@@ -158,7 +158,7 @@ int main(void) {
   unsigned short int  Mq11Eq5h81;
   Mq11Eq5h81  =  (unsigned short)1565570466;
 	char	znLI1hv;
-	znLI1hv	=	661464093;
+	znLI1hv	=	(char)661464093;
 	short int	GR5E4s_;
 	GR5E4s_	=	-1867280372;
 	long	D395;
@@ -180,7 +180,7 @@ int main(void) {
 	short int	j_0wO5L_3D;
 	j_0wO5L_3D	=	(short)1017024985;
  short hHkM;
- hHkM = 196858806;
+ hHkM = (short)196858806;
  int O4129MfTR;
  O4129MfTR = -815350004;
  long double x_O94FAuWZ;
@@ -192,7 +192,7 @@ int main(void) {
 	short	wy4YMzT;
 	wy4YMzT	=	(short)1507546227;
     unsigned short int    g60w824oKI;
-    g60w824oKI    =    -1790584047;
+    g60w824oKI    =    (unsigned short)-1790584047;
 	unsigned short int	Z1V6Q_9zsy;
 	Z1V6Q_9zsy	=	-1306576056;
     unsigned long long    BP1vyP39;
@@ -212,7 +212,7 @@ int main(void) {
 	unsigned char	fhQdubq;
 	fhQdubq	=	(unsigned char)589742017;
   char  yBM1B67;
-  yBM1B67  =  -1345954054;
+  yBM1B67  =  (char)-1345954054;
 	short int	Kj0wO9Ety;
 	Kj0wO9Ety	=	(short)-911206187;
  unsigned long long InQCtmi_;

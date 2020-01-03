@@ -27,7 +27,7 @@ int main(int argc, char** argv) {
  long double gTYbuyZl = -2093546663;
     long long    i9IatTe    =    -599369541;
  char Vy5T = (char)-1009240496;
-  unsigned short int  iz1306ji  =  270846613;
+  unsigned short int  iz1306ji  =  (unsigned short)270846613;
     unsigned char    e10QEa4W    =    374186263;
  long long qd69CS = 785449053;
 	short	pG41ywZ2	=	1218975403;
@@ -39,7 +39,7 @@ int main(int argc, char** argv) {
   unsigned short int  gIgbx09GGM  =  0;
  int k2hDd0JMVR = -1376207389;
     short int    x6v_052    =    (short)-655639241;
-    char    Lpj29IOUL3    =    1641069963;
+    char    Lpj29IOUL3    =    (char)1641069963;
 	int	LUs9zM62	=	1952558191;
     unsigned short    V2rTw7r    =    18515589;
 	char	IuAMA_ag19	=	(char)1757233320;
@@ -71,7 +71,7 @@ int main(int argc, char** argv) {
     unsigned int    UfxeiX_    =    -93863004;
  unsigned long long aoqj7uN72 = -1440666946;
 	unsigned short int	ChP753h	=	(unsigned short)906338883;
-    short int    vp2KJ8    =    -1519142012;
+    short int    vp2KJ8    =    (short)-1519142012;
   unsigned long long  njkWz78K  =  -724119395;
  int yJB_T_6 = 1606553358;
   int  MNzZ  =  -784595582;
@@ -84,7 +84,7 @@ int main(int argc, char** argv) {
   long  q3c4W  =  -1412841267;
  long long HjbuDDu22 = 567587372;
 	unsigned char	cjuEr9Q	=	(unsigned char)418360591;
-	unsigned short int	RcL91Y2bGK	=	1942947736;
+	unsigned short int	RcL91Y2bGK	=	(unsigned short)1942947736;
 	unsigned long long	g3Kspu	=	1472587322;
 	long	Q7Etl9kF	=	-354760363;
 
@@ -508,7 +508,7 @@ j++;
 h55Luu_H7 = (int)ceil(gTYbuyZl);
 if (iTFawgw6 != 212680953)
 {
-cout << N6_LAz7G05(-1927657093, (unsigned short)-1554102021, gTYbuyZl) << "t_2o_881" << "rfMM9_Zab" << N6_LAz7G05(68307246, (unsigned short)1028412088, -1612766884) << N6_LAz7G05(I8C4r, x6v_052, gTYbuyZl) << endl;
+cout << N6_LAz7G05(-1927657093, (unsigned short)-1554102021, gTYbuyZl) << "t_2o_881" << "rfMM9_Zab" << N6_LAz7G05(68307246, (unsigned short)1028412088, (unsigned short)-1612766884) << N6_LAz7G05(I8C4r, x6v_052, gTYbuyZl) << endl;
 }
 
 cout << J993744 << J993744 << F1ZqHL4g(80008691) << endl;

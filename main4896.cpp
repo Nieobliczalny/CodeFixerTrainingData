@@ -617,7 +617,7 @@ L4CN4Slr = VaJ8Fw(-1372041401, 1359152597, lKl3, rnZ44w, MP2k1xiE);
 }
 else if (M_q3eZAvD)
 {
-q0F3OrHQ6n = VaJ8Fw(-218205054, -697961411, 686907131, (unsigned short)-1099352660, 48419926);
+q0F3OrHQ6n = VaJ8Fw(-218205054, -697961411, 686907131, (unsigned short)-1099352660, (unsigned short)48419926);
 }
 else
 {

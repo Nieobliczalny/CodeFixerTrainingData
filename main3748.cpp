@@ -25,7 +25,7 @@ int main()
 	unsigned short int	fkU1biro;
 	fkU1biro	=	(unsigned short)2023202893;
   unsigned short int  G___16j5;
-  G___16j5  =  -1711804197;
+  G___16j5  =  (unsigned short)-1711804197;
     unsigned char    RxM06I09;
     RxM06I09    =    -745634867;
  double l1g8yow;
@@ -45,7 +45,7 @@ int main()
 	unsigned short	Q9P1V;
 	Q9P1V	=	(unsigned short)-843888844;
   unsigned short  sNec0S3__A;
-  sNec0S3__A  =  -127840687;
+  sNec0S3__A  =  (unsigned short)-127840687;
     double    EbnCLb5Ado;
     EbnCLb5Ado    =    1316905083;
 	unsigned int	Hl55D5a;
@@ -91,7 +91,7 @@ int main()
  unsigned short int h57hzpb_;
  h57hzpb_ = (unsigned short)1122788877;
     unsigned short int    BM2r45M;
-    BM2r45M    =    -1925346733;
+    BM2r45M    =    (unsigned short)-1925346733;
  int pU7YF;
  pU7YF = 433521617;
 

@@ -25,7 +25,7 @@ int main(int argc, char** argv)
  double x44JTDQjD;
  x44JTDQjD = 1132971572;
     short int    t8Lbc;
-    t8Lbc    =    -680081539;
+    t8Lbc    =    (short)-680081539;
  char kkIb8r;
  kkIb8r = 1399380925;
   long  YA14rqw;
@@ -37,7 +37,7 @@ int main(int argc, char** argv)
  char R07q_H1N4;
  R07q_H1N4 = (char)-1688447373;
   char  V2r3j;
-  V2r3j  =  1861561413;
+  V2r3j  =  (char)1861561413;
 	char	VjbC;
 	VjbC	=	-1425998466;
     int    fsM0;
@@ -83,7 +83,7 @@ int main(int argc, char** argv)
     short int    n_43;
     n_43    =    (short)662692951;
   char  XogCYRabH;
-  XogCYRabH  =  1041909070;
+  XogCYRabH  =  (char)1041909070;
 	long	zuJ1;
 	zuJ1	=	117493468;
     unsigned int    wKp0V;
@@ -95,7 +95,7 @@ int main(int argc, char** argv)
 	unsigned long long	O61ar2a66a;
 	O61ar2a66a	=	-1549873545;
     unsigned short int    UNZzAz;
-    UNZzAz    =    374868852;
+    UNZzAz    =    (unsigned short)374868852;
  long long TB15i_Kk3;
  TB15i_Kk3 = -1995995902;
     unsigned short    ki2h6itoh;
@@ -133,7 +133,7 @@ int main(int argc, char** argv)
     short    UpfmlzjWf1;
     UpfmlzjWf1    =    (short)798136688;
 	unsigned char	u1E_09;
-	u1E_09	=	1526247399;
+	u1E_09	=	(unsigned char)1526247399;
 	short int	yB_271;
 	yB_271	=	138990371;
     unsigned long long    c08Z3zsR;
@@ -507,7 +507,7 @@ OaxCe_T_ = (unsigned long long)(pIRAb);
 }
 else if (AJ9P8l38 == -148674835)
 {
-ki2h6itoh = p_Aa90578(u1E_09, -747736560, -553269744, 1741180143);
+ki2h6itoh = p_Aa90578(u1E_09, (char)-747736560, -553269744, 1741180143);
 }
 else
 {
@@ -620,7 +620,7 @@ pH9S0 = p_Aa90578((unsigned char)2086816488, A_QMTX2, -2110680062, -1990450858);
 break;
 case 'd':
 case 'D':
-pH9S0 = p_Aa90578((unsigned char)506919206, 118488500, 1135272151, -1058429466);
+pH9S0 = p_Aa90578((unsigned char)506919206, (char)118488500, 1135272151, -1058429466);
 break;
 }
 try
@@ -652,7 +652,7 @@ Dg2PB = TSAx622a1((unsigned char)-1612798876);
 }
 
 mNIP8xnV = (int)floor(etCZw);
-std::cout << F34Yws68eI << p_Aa90578((unsigned char)-492620320, gz34JpHm, ppI1t6qm1, m3n58yg) << Z_5F1stW(Dg2PB, 1050647535) << std::endl;
+std::cout << F34Yws68eI << p_Aa90578((unsigned char)-492620320, gz34JpHm, ppI1t6qm1, m3n58yg) << Z_5F1stW(Dg2PB, (unsigned char)1050647535) << std::endl;
 
 {
 int i = 0;
@@ -798,7 +798,7 @@ case 1:
 zaq7PTX = TSAx622a1((unsigned char)915901980);
 break;
 case 2:
-U0a37Q = TSAx622a1(1283507479);
+U0a37Q = TSAx622a1((unsigned char)1283507479);
 break;
 case 3:
 ppI1t6qm1 -= 784496134;
@@ -1015,7 +1015,7 @@ if (TJ7eSTe_80 != x44JTDQjD)
 {
 if ((ki2h6itoh <= ELJb2Lt5) || (VjbC > -241558137))
 {
-ki2h6itoh = p_Aa90578((unsigned char)-521860780, 843008056, -1845339985, A_QMTX2);
+ki2h6itoh = p_Aa90578((unsigned char)-521860780, (char)843008056, -1845339985, A_QMTX2);
 }
 }
 else if (higs4zT8_ > U_BLjh)

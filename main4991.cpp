@@ -53,7 +53,7 @@ int main() {
  int F8K0pItui = -697837477;
 	unsigned long	oU3wOTZg	=	2075929767;
  double fWO1K = -1458353920;
-  char  xW6z9F7  =  -158050366;
+  char  xW6z9F7  =  (char)-158050366;
  unsigned short HD8_Aoum67 = 1570698225;
  long LwU9zK6ua = -124742861;
  unsigned int vKA_ = 98417332;
@@ -63,7 +63,7 @@ int main() {
 	double	ffgm6A	=	-2105360903;
     long long    b998ZjX0    =    -373083084;
     short int    Z3OFmdX    =    (short)-881593307;
-  short int  VTVj9Wqfd2  =  -1753723080;
+  short int  VTVj9Wqfd2  =  (short)-1753723080;
   float  Jj2v  =  167612936;
  double H4uZh87 = 1469126966;
  long long p_fBs5tZ = -190562110;
@@ -75,7 +75,7 @@ int main() {
 	int	C6QG4mJ	=	1536773141;
   char  SAl6HKj5W_  =  (char)-70320297;
     unsigned long long    m280c    =    1371491386;
- char TB60 = 518264546;
+ char TB60 = (char)518264546;
   short  t68m  =  -334374184;
     short int    j564gX    =    1000175663;
  long double Jz8u = -839650940;
@@ -85,7 +85,7 @@ int main() {
   unsigned int  dnPm  =  -1039731997;
  unsigned short wTpJ9Ci = (unsigned short)1536808799;
  unsigned char RQ2o_938 = 2016812411;
-	short int	SgV_7u	=	-1318348481;
+	short int	SgV_7u	=	(short)-1318348481;
     unsigned long long    OF4I    =    -207593766;
  float QvFu7 = -1843250036;
  short XXIW_RNZ_ = -346686316;
@@ -492,7 +492,7 @@ break;
 }
 else
 {
-std::cout << U9Y7F(-1540131809) << "w8tyC" << skag((unsigned char)658174870, 35648076, SgV_7u) << "rAyl" << skag(LnhnfKq, lxQWl_j, 1133116985) << std::endl;
+std::cout << U9Y7F(-1540131809) << "w8tyC" << skag((unsigned char)658174870, 35648076, SgV_7u) << "rAyl" << skag(LnhnfKq, lxQWl_j, (char)1133116985) << std::endl;
 }
 }
 

@@ -46,7 +46,7 @@ int main(void) {
   unsigned int  Y_qnsyNT2N;
   Y_qnsyNT2N  =  1769468140;
   unsigned short  OCDYCn2l1;
-  OCDYCn2l1  =  856494306;
+  OCDYCn2l1  =  (unsigned short)856494306;
 	long	qIhca;
 	qIhca	=	1116513505;
     char    mvC964H3;
@@ -68,7 +68,7 @@ int main(void) {
     short    gyBC2;
     gyBC2    =    (short)1214481154;
     unsigned char    PWl0sf;
-    PWl0sf    =    40103468;
+    PWl0sf    =    (unsigned char)40103468;
 	short	FaSi6u9H;
 	FaSi6u9H	=	1042578817;
   long  mk22wq8;
@@ -124,7 +124,7 @@ int main(void) {
   unsigned char  s1xk;
   s1xk  =  (unsigned char)1898741966;
   unsigned short  Twdn;
-  Twdn  =  -263663638;
+  Twdn  =  (unsigned short)-263663638;
     unsigned char    PXEs;
     PXEs    =    (unsigned char)-1950973649;
   long  d884;

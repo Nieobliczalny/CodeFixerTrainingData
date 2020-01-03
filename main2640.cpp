@@ -108,7 +108,7 @@ else if (SrPq3m45 >= -2133511158)
 int j = 0;
 do
 {
-Cf_BR7vQW4 = rv5A0b2G2(FiTDxP1, T4vY, (short)-1049278654, (short)-1220891095, -2005763185) ^ 1166462094;
+Cf_BR7vQW4 = rv5A0b2G2(FiTDxP1, T4vY, (short)-1049278654, (short)-1220891095, (unsigned short)-2005763185) ^ 1166462094;
 j++;
 }
 while (j < 2);
@@ -160,7 +160,7 @@ else
 switch (Rf4lI)
 {
 case 'a':
-FiTDxP1 = rv5A0b2G2(FiTDxP1, (short)1548292303, Z0m8__i59, (short)-1824449595, 647415573);
+FiTDxP1 = rv5A0b2G2(FiTDxP1, (short)1548292303, Z0m8__i59, (short)-1824449595, (unsigned short)647415573);
 break;
 case 'b':
 rn86eT96N2 ^= g7GoE;
@@ -172,7 +172,7 @@ case 'd':
 wW5j2_4G = xB3w_zAqQt(-1129838985, 822889703);
 break;
 case 'e':
-Rf4lI = rv5A0b2G2(819824715, SrPq3m45, (short)2060185963, (short)-1727112288, 1290986666);
+Rf4lI = rv5A0b2G2(819824715, SrPq3m45, (short)2060185963, (short)-1727112288, (unsigned short)1290986666);
 break;
 default:
 fd7x6u = xB3w_zAqQt(cd_kOuQ, CC8b);
@@ -216,7 +216,7 @@ if (wW5j2_4G < f1f_By)
 switch (rn86eT96N2)
 {
 case 0:
-wW5j2_4G = xB3w_zAqQt(Cf_BR7vQW4, -74667848);
+wW5j2_4G = xB3w_zAqQt(Cf_BR7vQW4, (unsigned short)-74667848);
 break;
 case 1:
 VkvKn228 = hQOG((char)1589478288, 411848450, -632143403, (char)-1193806450);
@@ -321,7 +321,7 @@ Ghf19 = rv5A0b2G2(-1362529447, Z0m8__i59, (short)927650103, (short)1506937262, d
 }
 else if ((cd_kOuQ == 524924836) || (KTmz4M >= 1557797142))
 {
-uW1261EB = hQOG(uW1261EB, Cf_BR7vQW4, f1f_By, 1199597550);
+uW1261EB = hQOG(uW1261EB, Cf_BR7vQW4, f1f_By, (char)1199597550);
 }
 else if (YK577 < 1514599604)
 {
@@ -333,7 +333,7 @@ d70t = rv5A0b2G2(1634151647, (short)-1424529833, (short)878473884, wW5j2_4G, 161
 }
 else if (Z0m8__i59 < x2u1c)
 {
-Ghf19 = rv5A0b2G2(Ghf19, KTmz4M, x2u1c, -1336909232, 597413526);
+Ghf19 = rv5A0b2G2(Ghf19, KTmz4M, x2u1c, (short)-1336909232, 597413526);
 }
 else
 {
@@ -355,7 +355,7 @@ for (int j = 0; j < 7; j++)
 {
 if (T4vY != 1683002728)
 {
-cd_kOuQ = rv5A0b2G2(cd_kOuQ, (short)-1281578276, (short)-1029643026, 599338144, -708669735);
+cd_kOuQ = rv5A0b2G2(cd_kOuQ, (short)-1281578276, (short)-1029643026, (short)599338144, -708669735);
 }
 }
 }

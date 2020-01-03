@@ -21,7 +21,7 @@ int main(void)
  float PGfrk7m = -478221290;
     int    dx0GoUPvz2    =    720023145;
  int N8I560 = 1589297064;
-	unsigned char	sqh9gdGe	=	241645034;
+	unsigned char	sqh9gdGe	=	(unsigned char)241645034;
   double  Bs4V0_cJ  =  193761080;
   unsigned int  I354  =  439719816;
     unsigned long    sJbe1    =    483320291;
@@ -31,7 +31,7 @@ int main(void)
 	unsigned long long	a_L9ZrgTY	=	0;
  unsigned long M5Y6 = 330365717;
   int  xacjwip0  =  192710043;
-	char	RJi_93k	=	866106328;
+	char	RJi_93k	=	(char)866106328;
     long    VChlzqOO    =    0;
 	unsigned int	OJj8Ai	=	614320911;
  char x_l1 = -133497096;

@@ -71,7 +71,7 @@ case 1:
 m_LLqK9u_n = KcLr(834309738, (char)-719851376);
 break;
 case 2:
-edaK_y = bK7L6(UYJ5S5t1, (unsigned char)218697587, C5H82um7d0, -234459728, -680493689);
+edaK_y = bK7L6(UYJ5S5t1, (unsigned char)218697587, C5H82um7d0, -234459728, (short)-680493689);
 break;
 case 3:
 xF1oHVny = KcLr(-710072722, A_1ka7);
@@ -274,7 +274,7 @@ do
 {
 if (X6h6B5w3_K)
 {
-edaK_y = bK7L6(386998738, (unsigned char)-1007529401, (unsigned short)-1960727351, ZbgMep8Ac, -84117555);
+edaK_y = bK7L6(386998738, (unsigned char)-1007529401, (unsigned short)-1960727351, ZbgMep8Ac, (short)-84117555);
 }
 --j;
 }

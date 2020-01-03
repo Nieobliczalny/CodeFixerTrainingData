@@ -15,7 +15,7 @@ int main()
  unsigned short uY_4A2z = (unsigned short)-1595345621;
  char fjh1g4zmN2 = (char)1366107291;
   float  cI9b1e  =  -1048558394;
-    unsigned char    foOCq    =    1328682193;
+    unsigned char    foOCq    =    (unsigned char)1328682193;
 	unsigned long long	Z1C67F03	=	-883524258;
  unsigned long S_0FK_ = 0;
  char HFX1B = 31102756;
@@ -29,7 +29,7 @@ int main()
     long    ls6A    =    1097019905;
 	short int	aZ5i56	=	(short)-801624973;
 	unsigned short int	cw4L1	=	(unsigned short)-1213390608;
-  char  YW02d  =  -520744620;
+  char  YW02d  =  (char)-520744620;
  float M5hU5 = -1533000692;
 	float	XZe_49Yj	=	165082680;
   unsigned int  DqIB2x  =  575409379;

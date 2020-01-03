@@ -38,7 +38,7 @@ case 2:
 Jvk2CWp = (y3UX73) ? z765_7 : mN2O4;
 break;
 case 3:
-nXCW_ = nURf3((unsigned short)1121072399, k4xR, -953016021);
+nXCW_ = nURf3((unsigned short)1121072399, k4xR, (unsigned char)-953016021);
 break;
 case 4:
 rel19t1yx = mjARYJuox_((unsigned char)1673591223, k4xR, 1923573584, 79150893, 64632522) / 1111149501;
@@ -116,7 +116,7 @@ aZ55jY = nURf3(aZ55jY, h6GPf386F, (unsigned char)-1359808888);
 }
 else if (P5Vzk6z & WYF6)
 {
-yz7a8upq1 = nURf3((unsigned short)1331481931, -337992080, 425037500);
+yz7a8upq1 = nURf3((unsigned short)1331481931, (unsigned char)-337992080, 425037500);
 }
 else if (LQnA_44L & 377855473)
 {
@@ -162,7 +162,7 @@ D9R4 = nURf3((unsigned short)-1571537624, (unsigned char)2129671594, W4S6BrbZAE)
 }
 else if (((O27HOVZgM <= -305666255) && (qRdv == arj6819Oo)) && (d4_4I4))
 {
-N_H2 = nURf3(snp_S0L_v, 692279510, W4S6BrbZAE) ^ 1399842546;
+N_H2 = nURf3(snp_S0L_v, (unsigned char)692279510, W4S6BrbZAE) ^ 1399842546;
 }
 else
 {

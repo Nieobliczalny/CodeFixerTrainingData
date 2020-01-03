@@ -47,7 +47,7 @@ cout << ogSNO8_55N(W5Ehz, RUwj, (short)969232290, k23M92_hsM) << ogSNO8_55N(W5Eh
 int i = 1;
 do
 {
-dlIH878A = ogSNO8_55N(422121649, IXB4, -482767693, -1633671);
+dlIH878A = ogSNO8_55N(422121649, IXB4, (short)-482767693, -1633671);
 --i;
 }
 while (i >= 0);

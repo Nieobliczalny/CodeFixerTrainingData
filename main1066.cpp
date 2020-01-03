@@ -364,7 +364,7 @@ p27w = H_00((short)-225176568);
 }
 else if (diws0nTPtM == wGQ35F7MqZ)
 {
-std::cout << "QmXS" << "iWMrHYhf06" << "S0C41P5K4l" << H_00((short)1256113213) << EaJga(ELJDTG, -768254648) << std::endl;
+std::cout << "QmXS" << "iWMrHYhf06" << "S0C41P5K4l" << H_00((short)1256113213) << EaJga(ELJDTG, (unsigned short)-768254648) << std::endl;
 }
 else if (ELJDTG & wGQ35F7MqZ)
 {

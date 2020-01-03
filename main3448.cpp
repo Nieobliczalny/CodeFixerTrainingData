@@ -40,7 +40,7 @@ int main() {
     q5qSK    =    0;
     X517fkT    =    0;
 
-std::cout << HZ45((unsigned char)2083070094, (unsigned char)-883324475, -1417213592) << q5qSK << Qw5S << std::endl;
+std::cout << HZ45((unsigned char)2083070094, (unsigned char)-883324475, (short)-1417213592) << q5qSK << Qw5S << std::endl;
 try
 {
 q5qSK = HZ45(Qw5S, 347693538, w052TnAmj);
@@ -112,7 +112,7 @@ if (q5qSK != TtlTMKS83T)
 {
 for (int j = 0; j < 6; ++j)
 {
-X517fkT = HZ45(m_WOS4S, m924o0, 93339200);
+X517fkT = HZ45(m_WOS4S, m924o0, (short)93339200);
 }
 }
 else
@@ -183,7 +183,7 @@ case 2:
 q5qSK = HZ45((unsigned char)1255269138, CeI1_, m_WOS4S);
 break;
 case 3:
-X517fkT = HZ45(466113354, -480960988, X517fkT);
+X517fkT = HZ45((unsigned char)466113354, -480960988, X517fkT);
 break;
 case 4:
 q5qSK = HZ45(m_WOS4S, -103918, 502597835);
@@ -354,7 +354,7 @@ case 'b':
 X517fkT = HZ45(CeI1_, (unsigned char)-1516093496, (short)-1448993092);
 break;
 case 'c':
-X517fkT = HZ45(m924o0, GD_99lY, 1592933564);
+X517fkT = HZ45(m924o0, GD_99lY, (short)1592933564);
 break;
 default:
 M4pEEfM = (SgAV_cQ8 < -1741303994) ? YT8O1Mi1 : M4pEEfM;

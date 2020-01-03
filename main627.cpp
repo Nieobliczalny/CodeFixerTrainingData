@@ -24,7 +24,7 @@ int main() {
  unsigned long v2ufA44LDa = 1137127293;
     unsigned long long    PvbjIWr    =    -1401601835;
   unsigned long  zdPu4Yzjd  =  -1115135169;
-	short int	GWT1gw9ZI	=	1420520335;
+	short int	GWT1gw9ZI	=	(short)1420520335;
     long long    HR_Ap1    =    -1560223656;
 	short int	Q1wGV6l9_	=	(short)1682546815;
 	short int	teetQHy	=	2127686287;
@@ -34,7 +34,7 @@ int main() {
     unsigned int    HRFNAd    =    -1977893354;
     long double    sZR6_    =    -444678891;
     unsigned short int    jQ3CC0WWqI    =    (unsigned short)-2039765627;
- short int Z_P52uI4 = 703226025;
+ short int Z_P52uI4 = (short)703226025;
  unsigned long long z3TX641 = -319575902;
  long long I9_iTim3_ = 1288625322;
  unsigned short N7ma4 = (unsigned short)112745800;
@@ -46,7 +46,7 @@ int main() {
 	unsigned short int	jpfUp	=	0;
  unsigned short int N_n4_WP = (unsigned short)1490586597;
     unsigned short int    xFCjWH2    =    0;
- char LinBH__si = 1543503055;
+ char LinBH__si = (char)1543503055;
  short int t1lS = (short)792788151;
  short ob06M = 2121536613;
     int    IJo7Z    =    -704469954;
@@ -61,7 +61,7 @@ int main() {
   short  m90u6zd9V  =  (short)-942406640;
  unsigned long long BAv21lVCi = -554762892;
     long double    S86rv85P    =    7013874;
-    char    p_YoUFK    =    -2030625452;
+    char    p_YoUFK    =    (char)-2030625452;
   long long  dqV0Z0o  =  -1465248675;
     unsigned short    LVCE    =    191653462;
  unsigned long long DUu32b7Bv = 1852147192;
@@ -78,7 +78,7 @@ int main() {
  long long n3_I6Eq7H5 = -1930630351;
   char  km68AK9  =  (char)1591243663;
     long    w9c1F5_T    =    -1435870614;
-	short int	PH7SpLs2M2	=	1454618966;
+	short int	PH7SpLs2M2	=	(short)1454618966;
   long long  qm_4  =  -744646558;
 	long long	pA0_j6LK6l	=	2044764863;
   unsigned short  GNA__79J  =  (unsigned short)-1301074932;
@@ -372,7 +372,7 @@ else
 {
 for (int j = 0; j < 5; j++)
 {
-std::cout << ob06M << qiTgCpCwq(v2ufA44LDa, 2083650650, (short)845602183) << qiTgCpCwq((short)1783332136, -325284637, -847524984) << std::endl;
+std::cout << ob06M << qiTgCpCwq(v2ufA44LDa, 2083650650, (short)845602183) << qiTgCpCwq((short)1783332136, -325284637, (short)-847524984) << std::endl;
 }
 }
 

@@ -42,7 +42,7 @@ int main(int argc, char** argv)
     unsigned long long    hL19mq;
     hL19mq    =    749346776;
  unsigned char L_sn;
- L_sn = 104809620;
+ L_sn = (unsigned char)104809620;
     long long    T92lVy4xUJ;
     T92lVy4xUJ    =    -1885350807;
   long long  eo8dakXG;
@@ -120,7 +120,7 @@ int main(int argc, char** argv)
   unsigned char  yKt5iQd;
   yKt5iQd  =  0;
   unsigned short int  u_dw7hYAqT;
-  u_dw7hYAqT  =  306854145;
+  u_dw7hYAqT  =  (unsigned short)306854145;
 	long	Sk3GO8_P79;
 	Sk3GO8_P79	=	-1807256279;
     unsigned long    F6_B55;
@@ -188,7 +188,7 @@ unsigned char    hhjF(unsigned long long    M8CI,char    oP5dU,unsigned short in
 }
 
 unsigned char d1ym1lO(short int KbrzTL_,short ACwO1XW09) {
- return -1431334828;
+ return (unsigned char)-1431334828;
 }
 
 int	I26mSI_(unsigned char	JX79,char	V3T_6EJ)	{

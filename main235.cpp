@@ -28,7 +28,7 @@ int main(void)
     short    fK_v763S,    tX0Yq3VXe,    X8pSx8g1n,    PwE_9,    f6yr;
     fK_v763S    =    (short)-318954895;
     tX0Yq3VXe    =    (short)1947296844;
-    X8pSx8g1n    =    -1392246686;
+    X8pSx8g1n    =    (short)-1392246686;
     PwE_9    =    1833175677;
     f6yr    =    1720424514;
 
@@ -106,7 +106,7 @@ int k = 4;
 do
 {
 --k;
-fK_v763S = k54Mj7A((unsigned short)-561114853, (short)2067010648, PwE_9, -2053810031);
+fK_v763S = k54Mj7A((unsigned short)-561114853, (short)2067010648, PwE_9, (short)-2053810031);
 }
 while (k >= 0);
 }

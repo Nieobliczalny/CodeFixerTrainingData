@@ -22,7 +22,7 @@ int main(int argc, char** argv)
 	unsigned short int	Wds38e	=	(unsigned short)-1930239386;
 	double	FL9kOz4V	=	-1264385224;
  unsigned long long cKj4oP = 547606466;
-    unsigned short int    PY3TA_Q    =    645531372;
+    unsigned short int    PY3TA_Q    =    (unsigned short)645531372;
 	unsigned short	CjhYyBB	=	2050603937;
     double    DCl8zFLVw3    =    -593002254;
   double  awSq5449  =  -359404543;
@@ -33,7 +33,7 @@ int main(int argc, char** argv)
     unsigned long    PrlW4    =    -2144725830;
 	unsigned short int	pL7yq8	=	-1610758958;
 	int	o_I2D8W7	=	1420357948;
- char P5i9_r = 1591896054;
+ char P5i9_r = (char)1591896054;
 	long	CYZ2gy39Mt	=	-897814328;
  long t0DR_P__q = 486960847;
  long double Jqh6RaE94R = -233404670;
@@ -60,7 +60,7 @@ int main(int argc, char** argv)
 	double	DeiN3	=	1261000753;
     unsigned long long    c2a3_u3Y    =    1543577059;
   long double  uPJjsB  =  915742553;
-    unsigned short int    iqXN_eb_4    =    1457666898;
+    unsigned short int    iqXN_eb_4    =    (unsigned short)1457666898;
   char  afbuh  =  888626640;
 	float	Q2_u8018	=	-1782334513;
 	unsigned char	Ahc8oBFd5q	=	(unsigned char)-106711076;
@@ -71,7 +71,7 @@ int main(int argc, char** argv)
   long double  LxDC  =  296901571;
 	long double	WlxF8	=	-1389319263;
 	unsigned long	uOGo4ho6C	=	1668920462;
- char Eunw8 = -2104539397;
+ char Eunw8 = (char)-2104539397;
  long long byU9H_v5Oe = 1587257379;
  long long Bo2x7_5V = -921404868;
   double  LuNn0t  =  -1459736153;
@@ -206,7 +206,7 @@ case 8:
 lGun4Gz = y0j707p((unsigned char)1404307065);
 break;
 default:
-eFii = y0j707p(-218894211);
+eFii = y0j707p((unsigned char)-218894211);
 break;
 }
 
@@ -532,7 +532,7 @@ else
 {
 cout << y0j707p((unsigned char)-742978158) << K_vX << y0j707p((unsigned char)1317942377) << endl;
 }
-lGun4Gz = y0j707p(-207193273);
+lGun4Gz = y0j707p((unsigned char)-207193273);
 
 V5Ws2Tqy = (unsigned short int)(afbuh);
 if (mWc9C != 1267101006)

@@ -74,7 +74,7 @@ V_URP3E92 >>= rc9p5kWj6;
 break;
 case 'h':
 case 'H':
-I_t7I04 = RA3bd266Gj((unsigned short)1987619685, v6GLL_, (short)-1635209218, Ew69xH, 149483183);
+I_t7I04 = RA3bd266Gj((unsigned short)1987619685, v6GLL_, (short)-1635209218, Ew69xH, (unsigned short)149483183);
 break;
 default:
 v6GLL_ %= HEI937hyrZ;
@@ -129,7 +129,7 @@ case 1:
 j0tLk6++;
 break;
 case 2:
-V_URP3E92 = RA3bd266Gj((unsigned short)-1180166675, (unsigned short)-136603740, rc9p5kWj6, 1216683730, -898513169);
+V_URP3E92 = RA3bd266Gj((unsigned short)-1180166675, (unsigned short)-136603740, rc9p5kWj6, (short)1216683730, -898513169);
 break;
 case 3:
 oom0SIcDt5 = kV3S7(V_URP3E92) ^ v_OK;
@@ -225,7 +225,7 @@ cout << "r0ATK" << ktynM3J37 << jX24zJ3Ev(l50N7) << "koUK" << endl;
 }
 else
 {
-cout << jX24zJ3Ev((short)-373113385) << Xx_6awI(-558220071, rc9p5kWj6, 946496551, 888476070) << endl;
+cout << jX24zJ3Ev((short)-373113385) << Xx_6awI((short)-558220071, rc9p5kWj6, 946496551, 888476070) << endl;
 }
 try
 {
@@ -278,7 +278,7 @@ while (k >= 0);
 
 try
 {
-C4I9g61c1Z = RA3bd266Gj((unsigned short)1122020196, (unsigned short)960419972, -427638418, 636526878, oom0SIcDt5);
+C4I9g61c1Z = RA3bd266Gj((unsigned short)1122020196, (unsigned short)960419972, (short)-427638418, 636526878, oom0SIcDt5);
 }
 catch (int& errorCode)
 {
@@ -300,7 +300,7 @@ int i = 10;
 do
 {
 --i;
-V_URP3E92 = RA3bd266Gj((unsigned short)-1655670408, (unsigned short)1842207655, l50N7, I_t7I04, 70347512);
+V_URP3E92 = RA3bd266Gj((unsigned short)-1655670408, (unsigned short)1842207655, l50N7, I_t7I04, (unsigned short)70347512);
 }
 while (i >= 0);
 }
@@ -335,7 +335,7 @@ j0tLk6 = HEI937hyrZ << 1468982214;
 }
 else
 {
-Ew69xH = RA3bd266Gj(Ew69xH, v6GLL_, (short)-313683684, (short)652232795, 1880795517);
+Ew69xH = RA3bd266Gj(Ew69xH, v6GLL_, (short)-313683684, (short)652232795, (unsigned short)1880795517);
 }
 }
 else

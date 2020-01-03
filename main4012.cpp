@@ -174,7 +174,7 @@ case 5:
 R6lz = z55hsLD66(U15n_z8_, IYEfbm__) | kiLbaU6;
 break;
 case 6:
-k_IJ5fmR = Np_T0(d9_79, 1614354628);
+k_IJ5fmR = Np_T0(d9_79, (unsigned short)1614354628);
 break;
 }
 }

@@ -34,7 +34,7 @@ int main(int argc, char** argv)
  unsigned char nJ4Gu_;
  nJ4Gu_ = (unsigned char)-1049978601;
  char gVwJM2S;
- gVwJM2S = -1916132868;
+ gVwJM2S = (char)-1916132868;
     int    laQ_YR489;
     laQ_YR489    =    1471920619;
  unsigned short int VEGw3GfYKS;
@@ -62,7 +62,7 @@ int main(int argc, char** argv)
   int  EPV0iZ4JK;
   EPV0iZ4JK  =  2068282165;
  char soXTc;
- soXTc = 922779388;
+ soXTc = (char)922779388;
 	double	V701VUV85u;
 	V701VUV85u	=	-261410369;
   unsigned short  XvXTg8hyHI;
@@ -74,7 +74,7 @@ int main(int argc, char** argv)
   unsigned short int  dcbf0zFO;
   dcbf0zFO  =  (unsigned short)-31221425;
  short CEbjRbyEh;
- CEbjRbyEh = 1368535968;
+ CEbjRbyEh = (short)1368535968;
     unsigned int    M5izE_;
     M5izE_    =    -1508709702;
 	float	pG93fW;
@@ -274,7 +274,7 @@ laQ_YR489 = V_gr(-1625730481, (short)-787169580, jViyE, (unsigned short)-1528250
 }
 else
 {
-G4cJ_1 = S4vR0SLV6(laQ_YR489, -1892754502, jViyE, 1481251709, 1481655171) / dcbf0zFO;
+G4cJ_1 = S4vR0SLV6(laQ_YR489, -1892754502, jViyE, (unsigned char)1481251709, 1481655171) / dcbf0zFO;
 }
 }
 }
@@ -382,7 +382,7 @@ hYr3Gz = LtC4e / Vk5Fk0DDFh((char)1401001321, (unsigned char)481441943, c_w7lMQ)
 
 try
 {
-std::cout << "CkIxZ6" << Vk5Fk0DDFh(-894178126, 967733540, 1526012658) << D_574 << S4vR0SLV6(-419458398, -513035651, c_w7lMQ, PyZ49W, 1695409900) << std::endl;
+std::cout << "CkIxZ6" << Vk5Fk0DDFh((char)-894178126, 967733540, 1526012658) << D_574 << S4vR0SLV6(-419458398, -513035651, c_w7lMQ, PyZ49W, 1695409900) << std::endl;
 }
 catch (int& errorCode)
 {
@@ -449,7 +449,7 @@ case 'c':
 pG93fW = (int)ceil(V701VUV85u);
 break;
 case 'd':
-dcbf0zFO = S4vR0SLV6(dcbf0zFO, -41098998, EPV0iZ4JK, 1703458772, xjQvaOsqx);
+dcbf0zFO = S4vR0SLV6(dcbf0zFO, -41098998, EPV0iZ4JK, (unsigned char)1703458772, xjQvaOsqx);
 break;
 }
 }
@@ -531,7 +531,7 @@ case 'a':
 LtC4e = Vk5Fk0DDFh((char)-2108512623, (unsigned char)-476218127, -1090172714);
 break;
 case 'b':
-jOQ4a_ = S4vR0SLV6(1427841046, -1062113063, 1396854724, -825909973, 1123563552);
+jOQ4a_ = S4vR0SLV6(1427841046, -1062113063, 1396854724, (unsigned char)-825909973, 1123563552);
 break;
 case 'c':
 GMnov = soXTc * 100517646;

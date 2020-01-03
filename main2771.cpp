@@ -31,7 +31,7 @@ int main(void) {
 	short	Vxqpj;
 	Vxqpj	=	(short)99079002;
     char    tl_O;
-    tl_O    =    -1143679145;
+    tl_O    =    (char)-1143679145;
   char  Re4_;
   Re4_  =  (char)-1220248440;
  double tx8etx;
@@ -61,7 +61,7 @@ int main(void) {
   unsigned char  XZuy8;
   XZuy8  =  (unsigned char)1624800984;
   short int  PKx9waRR;
-  PKx9waRR  =  1206031889;
+  PKx9waRR  =  (short)1206031889;
     short    KqujMU5;
     KqujMU5    =    (short)819850047;
   unsigned short  GNofqcV;
@@ -85,7 +85,7 @@ int main(void) {
   char  s09Lr6I;
   s09Lr6I  =  (char)1413953254;
   short  uUqCGJg5m;
-  uUqCGJg5m  =  779614940;
+  uUqCGJg5m  =  (short)779614940;
  unsigned short ZhnLxxh9f;
  ZhnLxxh9f = 213119038;
   unsigned char  bOT_p098;
@@ -105,7 +105,7 @@ int main(void) {
 	unsigned short int	FY1PYPjn;
 	FY1PYPjn	=	(unsigned short)-579707137;
     char    fS04G6U6;
-    fS04G6U6    =    390410954;
+    fS04G6U6    =    (char)390410954;
 	long	z4smaBPUxN;
 	z4smaBPUxN	=	-1362519810;
  long Ouh9iJ_m;
@@ -140,7 +140,7 @@ G6J9a2 = (ePz51P == -1345799326) ? Z46yvJePji : GSKa81;
 }
 else if (tx8etx <= 194625421)
 {
-qq4D3O_ = QsQY(ljQ_S5c71o, 805661084, (unsigned short)1580908520, 1921398985);
+qq4D3O_ = QsQY(ljQ_S5c71o, 805661084, (unsigned short)1580908520, (char)1921398985);
 }
 else if ((cE2T9 >= -1347118551) && ((ySsVjduOAB) && (wzx3Cya3Nq == Vxqpj)))
 {
@@ -237,7 +237,7 @@ GSKa81 ^= 536564162;
 }
 else if (bumDSVo4us & qq4D3O_)
 {
-v2YD = QsQY(tx8etx, -1462089164, -330883986, Yce4eh);
+v2YD = QsQY(tx8etx, -1462089164, (unsigned short)-330883986, Yce4eh);
 }
 else if (bumDSVo4us < 1418197469)
 {
@@ -260,7 +260,7 @@ else
 {
 PKx9waRR = (z4smaBPUxN & -1959957513) ? n_5pJ((short)676395761) : fS04G6U6;
 }
-std::cout << QsQY(1920829448, aG9g1G1, (unsigned short)-1281686661, -883649517) / v2YD << std::endl;
+std::cout << QsQY(1920829448, aG9g1G1, (unsigned short)-1281686661, (char)-883649517) / v2YD << std::endl;
 if (KqujMU5 > -2140941619)
 {
 switch (Vp_pH)
@@ -350,7 +350,7 @@ xYENo = (int)abs(ePz51P);
 
 if ((uUqCGJg5m) || (nJHQ != PKx9waRR))
 {
-std::cout << QsQY(1352930795, v2YD, 444762966, 1637552282) << "XuUV" << bOT_p098 << QsQY(-391440060, v2YD, cE2T9, 380365562) << std::endl;
+std::cout << QsQY(1352930795, v2YD, (unsigned short)444762966, 1637552282) << "XuUV" << bOT_p098 << QsQY(-391440060, v2YD, cE2T9, 380365562) << std::endl;
 }
 else
 {
@@ -361,7 +361,7 @@ n3t3sOxNS = (unsigned short int)(G6J9a2);
 
 G6J9a2 = n_5pJ((short)1515881854);
 
-v2YD = QsQY(aG9g1G1, z4smaBPUxN, (unsigned short)1649284686, 1640539278);
+v2YD = QsQY(aG9g1G1, z4smaBPUxN, (unsigned short)1649284686, (char)1640539278);
 
 {
 int i = 9;

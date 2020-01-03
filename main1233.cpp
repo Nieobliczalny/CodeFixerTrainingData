@@ -92,7 +92,7 @@ k++;
 }
 else if (OvsbAk13A6 < 292274926)
 {
-uEfRZlf_Lv = j9Y0N90Dh((char)-1653852383, -1447946086, nf6Rm7Y, 1415262646);
+uEfRZlf_Lv = j9Y0N90Dh((char)-1653852383, (short)-1447946086, nf6Rm7Y, 1415262646);
 }
 else
 {

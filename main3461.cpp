@@ -32,7 +32,7 @@ int main(void) {
  float V781X5Zue = -881724387;
 	unsigned long long	Gz9DR3	=	305103946;
     unsigned short int    fn556_55R    =    (unsigned short)40913327;
-	short	ePJi2D	=	-885140848;
+	short	ePJi2D	=	(short)-885140848;
 	short	P500HJL7	=	0;
 	int	nUL40R	=	1130844276;
  unsigned long JN_Z = 1415437937;
@@ -306,7 +306,7 @@ case 'c':
 g7m5nCZo = p0rG6();
 break;
 case 'd':
-mDlI7R85 = S41XM(g7m5nCZo, (char)2038260356, NWzu6m382, (unsigned char)-1886921167, -664542111) ^ 73982723;
+mDlI7R85 = S41XM(g7m5nCZo, (char)2038260356, NWzu6m382, (unsigned char)-1886921167, (short)-664542111) ^ 73982723;
 break;
 }
 Ot71m5fS9 <<= JN_Z;

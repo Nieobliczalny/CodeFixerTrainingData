@@ -59,7 +59,7 @@ int main(void)
  double K5G4uh;
  K5G4uh = 681747704;
   unsigned short  d03MkaFEvS;
-  d03MkaFEvS  =  1598926133;
+  d03MkaFEvS  =  (unsigned short)1598926133;
 	unsigned long	Ao9W__5;
 	Ao9W__5	=	-227781857;
 	long double	A1OB11gM;
@@ -135,7 +135,7 @@ int main(void)
 	unsigned char	xpL50617_P;
 	xpL50617_P	=	(unsigned char)1625843086;
 	unsigned char	F8aV5;
-	F8aV5	=	-635344737;
+	F8aV5	=	(unsigned char)-635344737;
     unsigned long long    Da6s_80;
     Da6s_80    =    -1328536584;
  unsigned short WFRwQ;

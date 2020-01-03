@@ -39,7 +39,7 @@ int main(void)
     unsigned char    VD2zS;
     VD2zS    =    (unsigned char)-986087502;
 	char	m1ry;
-	m1ry	=	-1462896264;
+	m1ry	=	(char)-1462896264;
   int  J3Cz8x;
   J3Cz8x  =  -1365166549;
   unsigned long  pYW9;
@@ -51,7 +51,7 @@ int main(void)
  short ZYT_1W;
  ZYT_1W = (short)1923368532;
   short  DH4uCw;
-  DH4uCw  =  422796797;
+  DH4uCw  =  (short)422796797;
     long long    M5LA8z;
     M5LA8z    =    184833784;
 	short	OOQE;
@@ -65,7 +65,7 @@ int main(void)
   double  qcH1a7WBq;
   qcH1a7WBq  =  -517802843;
 	unsigned short	UJkqU1hu9;
-	UJkqU1hu9	=	1668540007;
+	UJkqU1hu9	=	(unsigned short)1668540007;
   long  SvL34W_VXY;
   SvL34W_VXY  =  1074799918;
     unsigned long    ZGou;
@@ -105,7 +105,7 @@ int main(void)
  unsigned short U9O61N;
  U9O61N = (unsigned short)126632219;
   short int  tZh3ZPP8;
-  tZh3ZPP8  =  774644126;
+  tZh3ZPP8  =  (short)774644126;
 	long double	NCZ1MVCA__;
 	NCZ1MVCA__	=	1938895644;
   long  jmcfn_Fy59;
@@ -149,7 +149,7 @@ int main(void)
   short int  i1bOe359;
   i1bOe359  =  (short)-2033139329;
   unsigned short  nA0jhjgr__;
-  nA0jhjgr__  =  706314692;
+  nA0jhjgr__  =  (unsigned short)706314692;
   char  ANzBFIUG;
   ANzBFIUG  =  -974261237;
 	unsigned int	fR53ah;
@@ -170,7 +170,7 @@ itB3kQ09tR = i1bOe359 & Nc33m4eKD;
 break;
 }
 
-std::cout << uVTrBs76(CbAslXm, KYeSuX) << H8i_l(CbAslXm, (unsigned char)733795837, (unsigned short)-121713418, SZA1R46Bz, fmLK5R_56F) << H8i_l(CbAslXm, KYeSuX, 1183798024, SZA1R46Bz, fmLK5R_56F) << std::endl;
+std::cout << uVTrBs76(CbAslXm, KYeSuX) << H8i_l(CbAslXm, (unsigned char)733795837, (unsigned short)-121713418, SZA1R46Bz, fmLK5R_56F) << H8i_l(CbAslXm, KYeSuX, (unsigned short)1183798024, SZA1R46Bz, fmLK5R_56F) << std::endl;
 
 if (copU63fXdh == 636142927)
 {
@@ -441,7 +441,7 @@ else
 {
 if (Bd0X4Ft_5 <= -1829537414)
 {
-std::cout << PMV2h() << H8i_l(-1400447261, TCG7y__, (unsigned short)-927142359, (unsigned char)2017057169, 565494299) << "MARn7Z" << "ehETI0NZ4" << "tIN_W" << std::endl;
+std::cout << PMV2h() << H8i_l(-1400447261, TCG7y__, (unsigned short)-927142359, (unsigned char)2017057169, (unsigned char)565494299) << "MARn7Z" << "ehETI0NZ4" << "tIN_W" << std::endl;
 }
 else
 {
@@ -657,7 +657,7 @@ case 2:
 vT2T49lR = uVTrBs76(vT2T49lR, 921686658);
 break;
 case 3:
-CS2ZaSEm9 = H8i_l(CS2ZaSEm9, (unsigned char)2052202106, (unsigned short)-1141719232, 1366479134, tZh3ZPP8);
+CS2ZaSEm9 = H8i_l(CS2ZaSEm9, (unsigned char)2052202106, (unsigned short)-1141719232, (unsigned char)1366479134, tZh3ZPP8);
 break;
 case 4:
 Nc33m4eKD = H8i_l(Nc33m4eKD, jmcfn_Fy59, ANzBFIUG, SvL34W_VXY, 810508806);

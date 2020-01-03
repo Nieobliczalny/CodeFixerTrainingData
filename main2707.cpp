@@ -89,7 +89,7 @@ c0bgbVq = X4i1d9r((short)1999077455, c0bgbVq, (unsigned short)1184287519, oclyV2
 break;
 case 'h':
 case 'H':
-Hl25K0 = X4i1d9r(-106838526, 1581212753, ro6K, voOP827C, 1253516756);
+Hl25K0 = X4i1d9r((short)-106838526, 1581212753, ro6K, voOP827C, 1253516756);
 break;
 case 'i':
 case 'I':
@@ -247,7 +247,7 @@ case 8:
 oclyV2f1 /= ro6K;
 break;
 default:
-Hl25K0 = X4i1d9r((short)1411527968, -2114859750, -474325651, -828070974, 461851531);
+Hl25K0 = X4i1d9r((short)1411527968, -2114859750, (unsigned short)-474325651, -828070974, 461851531);
 break;
 }
 
@@ -274,7 +274,7 @@ do
 --i;
 if (Hl25K0 <= -888770211)
 {
-Hl25K0 = X4i1d9r((short)-1237678781, R0Pwad75T, (unsigned short)326227485, -292132179, voOP827C);
+Hl25K0 = X4i1d9r((short)-1237678781, R0Pwad75T, (unsigned short)326227485, (unsigned short)-292132179, voOP827C);
 }
 else if (oclyV2f1 != voOP827C)
 {
@@ -349,7 +349,7 @@ ro6K /= voOP827C;
 
 try
 {
-Hl25K0 = X4i1d9r((short)-1163131553, Hl25K0, (unsigned short)-340713235, 1478636161, -974735855);
+Hl25K0 = X4i1d9r((short)-1163131553, Hl25K0, (unsigned short)-340713235, (unsigned short)1478636161, -974735855);
 }
 catch (int& errorCode)
 {

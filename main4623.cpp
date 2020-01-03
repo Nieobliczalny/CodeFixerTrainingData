@@ -83,7 +83,7 @@ catch (int& errorCode)
 VV24 = f08akv + Xk5F;
 }
 
-std::cout << Ur5pw(Xk5F, -864699920, len4E, (short)-1765564726, -1131968103) << HVy8335X6(-1732539305, yR32RqbzZ2, len4E) << HVy8335X6(2041521403, 1171248544, 862374545) << std::endl;
+std::cout << Ur5pw(Xk5F, -864699920, len4E, (short)-1765564726, (unsigned short)-1131968103) << HVy8335X6(-1732539305, yR32RqbzZ2, len4E) << HVy8335X6(2041521403, 1171248544, 862374545) << std::endl;
 {
 int i = 0;
 while (i < 1)

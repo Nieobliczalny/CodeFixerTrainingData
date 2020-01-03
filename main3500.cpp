@@ -101,7 +101,7 @@ while (k >= 0);
 }
 else if ((YD5MQG < dPyO) || (FW59QHxjYO))
 {
-std::cout << SyuV(l_76ItTa, 559827901, -673003929, pa72, (unsigned short)-1899362615) << W1o5b0d6 << SHoM(l_76ItTa, -833971066) << ej5ZSMhi << std::endl;
+std::cout << SyuV(l_76ItTa, 559827901, -673003929, pa72, (unsigned short)-1899362615) << W1o5b0d6 << SHoM(l_76ItTa, (short)-833971066) << ej5ZSMhi << std::endl;
 }
 else
 {
@@ -137,7 +137,7 @@ case 4:
 BatI++;
 break;
 case 5:
-GFvpK = SyuV(-645013535, 1221983279, o732Rm, 1922304329, c7I_eJ86Mo);
+GFvpK = SyuV((short)-645013535, 1221983279, o732Rm, 1922304329, c7I_eJ86Mo);
 break;
 default:
 tGmErT = (int)abs(HbFg_);
@@ -258,7 +258,7 @@ case 4:
 guE2CtR = (int)abs(pty_Vf47x);
 break;
 case 5:
-LkXvsrX1f = SyuV((short)481646465, zgc1Hm, 1754348180, 142497415, -656867328) - YycJm1m1;
+LkXvsrX1f = SyuV((short)481646465, zgc1Hm, 1754348180, (short)142497415, -656867328) - YycJm1m1;
 break;
 case 6:
 c7I_eJ86Mo = Y_Ufe + 1313241791;
@@ -749,7 +749,7 @@ if (wmfVVOUMJN > dPyO)
 int j = 0;
 do
 {
-YD5MQG = SyuV((short)1317112497, -1876123895, ky5JDDjTIA, (short)897186372, -1842790976);
+YD5MQG = SyuV((short)1317112497, -1876123895, ky5JDDjTIA, (short)897186372, (unsigned short)-1842790976);
 j++;
 }
 while (j < 6);
@@ -848,7 +848,7 @@ case 1:
 m_jlA6qlq <<= d2qcM7PC;
 break;
 case 2:
-q_ybQ_j = SyuV(q_ybQ_j, -306698327, YjLX41HX0S, -1231806177, -1367156611);
+q_ybQ_j = SyuV(q_ybQ_j, -306698327, YjLX41HX0S, (short)-1231806177, -1367156611);
 break;
 case 3:
 t7Wa1374 = (int)abs(RAZ573Pw);

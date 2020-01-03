@@ -118,7 +118,7 @@ gX457_ = Iwgt172Vm0((unsigned char)2103523087, (unsigned short)-1341196706, 1102
 }
 else if (tk78qaTBfF != 506148372)
 {
-SY_MoJK0 = h83qqyt4N(-107669100, CdNwhs9u1R, -1365924733, LX1Hv_E);
+SY_MoJK0 = h83qqyt4N((short)-107669100, CdNwhs9u1R, -1365924733, LX1Hv_E);
 }
 else if (N4j5)
 {
@@ -149,7 +149,7 @@ std::cout << MX55eh1NjT << "T_T7XPhbz" << xZKC << i4vQ0UvV4P << "hB2b1ell1" << s
 int i = 0;
 while (i < 3)
 {
-std::cout << Iwgt172Vm0((unsigned char)-774638848, tk78qaTBfF, N4j5) << Iwgt172Vm0((unsigned char)-1577291571, 797078344, -881850180) << "K2_3nI4k6R" << siy_hU(MX55eh1NjT) << std::endl;
+std::cout << Iwgt172Vm0((unsigned char)-774638848, tk78qaTBfF, N4j5) << Iwgt172Vm0((unsigned char)-1577291571, (unsigned short)797078344, -881850180) << "K2_3nI4k6R" << siy_hU(MX55eh1NjT) << std::endl;
 i++;
 }
 }
@@ -218,7 +218,7 @@ case 'b':
 gX457_ /= SY_MoJK0;
 break;
 case 'c':
-SY_MoJK0 = h83qqyt4N((short)-1273606416, (unsigned char)-1756985434, DZ436bp48, -1306191530);
+SY_MoJK0 = h83qqyt4N((short)-1273606416, (unsigned char)-1756985434, DZ436bp48, (unsigned short)-1306191530);
 break;
 case 'd':
 CdNwhs9u1R = xZKC << N4j5;
@@ -233,7 +233,7 @@ case 'g':
 MX55eh1NjT = siy_hU((short)-288037277);
 break;
 case 'h':
-oXxcw = h83qqyt4N((short)-296922831, xZKC, 647727102, 359379148);
+oXxcw = h83qqyt4N((short)-296922831, xZKC, (unsigned short)647727102, 359379148);
 break;
 case 'i':
 LX1Hv_E = DZ436bp48 - 1021691761;

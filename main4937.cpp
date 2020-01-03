@@ -30,6 +30,7 @@ unsigned short  A7U_f9F(unsigned long long  sw_M6uks98,unsigned char  qMF51CS,un
 }
 
 int main(void) {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
  unsigned short int d3sa = 1914305537, vfp1ANr84_ = -1437971237, FH01_6 = -2143058405, ut_EV_z = -2142323824, Z_39RZ = 297078184, o49pmm7XbW = -251614456, fG_U3ksuj = -2090621993, j_0h_y3 = 319261985, a5k623WEb = 1058316050, pS4EVRl807 = 1709693220, OFLPwa43 = -1872885102, TBoWtl2g = -1461932154, wQx8umN = 236416780, g3gxeHl = 1714936424, HOkD5E9we3 = -507572808, r8RgzGLM = 1459016417, nqUMYo0 = 373937281, QRkL8Sa = 1372753167, y5Rk_ = 1186362066, F41Q8R07V3 = 772271001, q4h1hA_B = 827783533, j9y_G0 = -235750407, NxdDl = -1939647185, o15AIEp3 = -792069673, RbBz = -1746610533, iACPjOR9 = -251657421, BwsR0UJoBI = -1498006863, nhAKQqjq9o = 1307539324, U4Y_ = 327612433, h3sO8ij = 1056014297, USnUac = 1213034185, Yi2904i2r9 = 750656917, xfcKZM2 = 544249292, QCeFtWg = -1063497181, SmQVxPiRJ = -946983081, c9zVI = 1444941720, GvrG_5ssja = -1893334178, Niv41XRJ6 = -132033464;
   unsigned long  p_r4KRed  =  0,  jv18  =  0;
 
@@ -257,7 +258,7 @@ case 2:
 NxdDl ^= 864661637;
 break;
 case 3:
-p_r4KRed = S5iIX(j_0h_y3, 9583921);
+p_r4KRed = S5iIX(j_0h_y3, (short)9583921);
 break;
 case 4:
 c9zVI |= 243116889;
@@ -579,7 +580,7 @@ HOkD5E9we3 = A7U_f9F(-1472201859, (unsigned char)552502111, Z_39RZ, o49pmm7XbW, 
 break;
 case 'c':
 case 'C':
-jv18 = S5iIX(d3sa, 411593335);
+jv18 = S5iIX(d3sa, (short)411593335);
 break;
 case 'd':
 case 'D':

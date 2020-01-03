@@ -30,7 +30,7 @@ unsigned char	nV762D(unsigned char	W_qu3Y9QlF,unsigned short	NTqK30JTs,unsigned 
 int main(void) {
 	float	qRqR	=	-31833056;
  char N8_XD = (char)-1204572244;
-    unsigned char    ogManwB    =    996477723;
+    unsigned char    ogManwB    =    (unsigned char)996477723;
 	long long	u6gY8	=	-1735559193;
  short M9_5H_GZ10 = 34635132;
     double    n8gmAS9    =    -206106;
@@ -43,7 +43,7 @@ int main(void) {
   float  L64M8nb1G  =  -1768762224;
  short int rIM38VEY = 0;
   unsigned short  iux3_nL1  =  (unsigned short)-1780786635;
-    char    ZYw0nZu0vc    =    1656334643;
+    char    ZYw0nZu0vc    =    (char)1656334643;
  unsigned long long O5_y = -1885240556;
  short EMJk7828_P = 1838859909;
   int  mql6j7sB  =  -2140891250;

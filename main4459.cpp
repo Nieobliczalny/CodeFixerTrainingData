@@ -31,7 +31,7 @@ case 'a':
 f9Ry1 = i3BO3XP(f9Ry1, I8r_drrz, OO9OZ_cM14, (unsigned short)-1986555909);
 break;
 case 'b':
-q67C8Kf = i3BO3XP(-1726918390, -819527075, o_oZ5HB_h, -1777301563);
+q67C8Kf = i3BO3XP((short)-1726918390, -819527075, o_oZ5HB_h, -1777301563);
 break;
 case 'c':
 h69mw_rTt = g0rZS7bWjn * kFD5N0yhdj;
@@ -97,7 +97,7 @@ case 1:
 o3gk6EaP9 = i3BO3XP((short)-2061129768, 221670361, -474635872, (unsigned short)-987804841);
 break;
 case 2:
-cv8FqS0382 = GY2rhc7Ea(WmuS07, Xfi9j, 1657092440, -2021677877);
+cv8FqS0382 = GY2rhc7Ea(WmuS07, Xfi9j, 1657092440, (unsigned short)-2021677877);
 break;
 default:
 t96Vx6ZUv8 = GY2rhc7Ea(q67C8Kf, KIXC2Fd8mL, tSza1l, eMrvI_hA0);
@@ -173,7 +173,7 @@ case 'A':
 o3gk6EaP9 = i3BO3XP((short)-670123414, 812695616, lQfxG_7IU, YhLLGP) * F538eb;
 break;
 default:
-t96Vx6ZUv8 = GY2rhc7Ea(zH06MC, (unsigned short)-965128907, -835914164, 2118430516);
+t96Vx6ZUv8 = GY2rhc7Ea(zH06MC, (unsigned short)-965128907, -835914164, (unsigned short)2118430516);
 break;
 }
 }
@@ -224,7 +224,7 @@ case 2:
 t96Vx6ZUv8 = GY2rhc7Ea(1452604747, (unsigned short)-296060949, -305431180, rU4oeez1_);
 break;
 case 3:
-t96Vx6ZUv8 = GY2rhc7Ea(108338311, 200002641, fTOfKD9T, o3gk6EaP9);
+t96Vx6ZUv8 = GY2rhc7Ea(108338311, (unsigned short)200002641, fTOfKD9T, o3gk6EaP9);
 break;
 case 4:
 rU4oeez1_ = (int)abs(S1yP3);
@@ -281,7 +281,7 @@ case 'f':
 G3q7 = I0iSuqgd * z3rGc8;
 break;
 case 'g':
-YCfd4LMN5Q = i3BO3XP((short)930732415, -1962315046, I8r_drrz, -1858068618);
+YCfd4LMN5Q = i3BO3XP((short)930732415, -1962315046, I8r_drrz, (unsigned short)-1858068618);
 break;
 default:
 G3q7 = (int)abs(kZ6ly_AU0);
@@ -318,7 +318,7 @@ case 'c':
 VqYSB85F35 = (VqYSB85F35 == JyHWq) ? (short)-1289866838 : I8r_drrz;
 break;
 case 'd':
-YCfd4LMN5Q = i3BO3XP(-1886152870, cv8FqS0382, jU6rx6a9, 80804521);
+YCfd4LMN5Q = i3BO3XP((short)-1886152870, cv8FqS0382, jU6rx6a9, 80804521);
 break;
 }
 }
@@ -381,7 +381,7 @@ case 0:
 cv8FqS0382 = GY2rhc7Ea(HW9D3, rc84C1LAS, bO4twtsb_, (unsigned short)118625251);
 break;
 case 1:
-bO4twtsb_ = i3BO3XP((short)-1534007481, rc84C1LAS, 496315762, 1588438676) * 1501730206;
+bO4twtsb_ = i3BO3XP((short)-1534007481, rc84C1LAS, 496315762, (unsigned short)1588438676) * 1501730206;
 break;
 case 2:
 atd79qgX9 <<= JyHWq;

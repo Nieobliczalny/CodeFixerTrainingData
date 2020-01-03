@@ -49,7 +49,7 @@ int main(void)
 	unsigned char	rkY0vwd;
 	rkY0vwd	=	(unsigned char)-242431834;
  char PSL3;
- PSL3 = 462512810;
+ PSL3 = (char)462512810;
  unsigned long long ch1D;
  ch1D = -2112497970;
  unsigned short T_q0U9B;
@@ -67,7 +67,7 @@ int main(void)
   unsigned long  qYVskxr;
   qYVskxr  =  916843208;
 	char	u70M;
-	u70M	=	-958004332;
+	u70M	=	(char)-958004332;
 	char	g4BW;
 	g4BW	=	(char)-1487999866;
     unsigned long    z0kkPM;
@@ -534,7 +534,7 @@ case 'd':
 S8d_j = (int)floor(E3d338O);
 break;
 case 'e':
-Tc09r_85_ = dgpr5((short)1555257981, PSL3, -1467108773, 1394797327);
+Tc09r_85_ = dgpr5((short)1555257981, PSL3, -1467108773, (unsigned char)1394797327);
 break;
 case 'f':
 qS_G5 = w3Y731(qS_G5, 1757491513, 786308636, -1624127555, 1577140314);

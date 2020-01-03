@@ -21,7 +21,7 @@ int main(void)
   char  CqrC;
   CqrC  =  (char)-1233696220;
     unsigned short    kSt0OUFx5y;
-    kSt0OUFx5y    =    -966077444;
+    kSt0OUFx5y    =    (unsigned short)-966077444;
  unsigned short nEfF3_;
  nEfF3_ = -980052258;
     unsigned long    OARHpkrD;
@@ -37,7 +37,7 @@ int main(void)
  long long dnyBbcoGgm;
  dnyBbcoGgm = 1051379900;
  char SPhuX6Rb;
- SPhuX6Rb = 914419941;
+ SPhuX6Rb = (char)914419941;
     long double    QNY4_V3QYc;
     QNY4_V3QYc    =    1104221039;
   char  IBz_R;
@@ -73,7 +73,7 @@ int main(void)
 	char	YDo2qk5X8Q;
 	YDo2qk5X8Q	=	(char)908562955;
   unsigned char  IcKGYS6u4K;
-  IcKGYS6u4K  =  417610747;
+  IcKGYS6u4K  =  (unsigned char)417610747;
   unsigned long long  s_d50dd;
   s_d50dd  =  1999252455;
   long double  H2u84I09;

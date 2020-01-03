@@ -42,7 +42,7 @@ int main(int argc, char** argv)
 	unsigned short int	jv59v_;
 	jv59v_	=	(unsigned short)1253778243;
     unsigned char    Ps61BQ0yp4;
-    Ps61BQ0yp4    =    1257427924;
+    Ps61BQ0yp4    =    (unsigned char)1257427924;
  double F3_76a_9g;
  F3_76a_9g = -632044908;
     char    TOIsIj2h;
@@ -62,7 +62,7 @@ int main(int argc, char** argv)
  unsigned int N0QiFL;
  N0QiFL = -734153099;
  short int Vq7N;
- Vq7N = 1222101315;
+ Vq7N = (short)1222101315;
  unsigned long long HhX2;
  HhX2 = -1628955063;
 	long long	KYhV3R1d8;
@@ -141,7 +141,7 @@ std::cout << "V3hys" << CIiF_3(-1411114135, -767595327, aR5PH3, -1606875172, (un
 
 for (int i = 10; i >= 0; --i)
 {
-S4BDr8_pNr = CIiF_3(1197600330, 680268844, o51l7QnF0, 1958184775, -22610088);
+S4BDr8_pNr = CIiF_3(1197600330, 680268844, o51l7QnF0, 1958184775, (unsigned short)-22610088);
 }
 try
 {

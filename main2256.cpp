@@ -96,7 +96,7 @@ case 4:
 a20p6g = bc_Q9T((short)-461441322, bh_4HDR2BV, 1376100632);
 break;
 case 5:
-XN4u = F7Saeb4(XN4u, qk_0mYBKJ, 1286789608, 1143726902);
+XN4u = F7Saeb4(XN4u, qk_0mYBKJ, (unsigned short)1286789608, 1143726902);
 break;
 case 6:
 sN46KAG3Y /= qk_0mYBKJ;
@@ -446,7 +446,7 @@ V54lF = W3_NX((unsigned short)-649630286, (char)-1151684608);
 break;
 case 'e':
 case 'E':
-hWo0 = F7Saeb4(hWo0, cTT1, 1052056377, 1393085503);
+hWo0 = F7Saeb4(hWo0, cTT1, (unsigned short)1052056377, 1393085503);
 break;
 case 'f':
 case 'F':
@@ -466,7 +466,7 @@ else
 {
 if ((o1FG <= 1761730321) && (rEkGHVO != -264180014))
 {
-std::cout << f_tte() << W3_NX((unsigned short)-1220639919, CuM1) << W3_NX(-835285345, CuM1) << o1FG << S3tDR_2Z6c << std::endl;
+std::cout << f_tte() << W3_NX((unsigned short)-1220639919, CuM1) << W3_NX((unsigned short)-835285345, CuM1) << o1FG << S3tDR_2Z6c << std::endl;
 }
 }
 try
@@ -501,7 +501,7 @@ case 'a':
 qk_0mYBKJ += w5_s053J10;
 break;
 case 'b':
-oL9k1z3tdC = F7Saeb4((short)410419882, 1735637684, -140135348, 267057);
+oL9k1z3tdC = F7Saeb4((short)410419882, 1735637684, (unsigned short)-140135348, 267057);
 break;
 case 'c':
 Cxht ^= cTT1;

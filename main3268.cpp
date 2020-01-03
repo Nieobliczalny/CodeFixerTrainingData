@@ -37,7 +37,7 @@ I5NUdi = yfoMvf((unsigned short)-182121965, (unsigned char)-1014673472, 10440623
 }
 else if (((gJr_0 >= N_fr458wN9) || (EJdHXy == I5NUdi)) && (fRl5s > 41027322))
 {
-I5NUdi = yfoMvf(j2939, -601902686, 1161652765, 395538462);
+I5NUdi = yfoMvf(j2939, (unsigned char)-601902686, 1161652765, 395538462);
 }
 else
 {

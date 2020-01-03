@@ -141,7 +141,7 @@ case 1:
 I583ts3R = jCdh5r9H5(I583ts3R, (short)720472743, V4m_T_JRPp);
 break;
 case 2:
-he1gj2V72_ = jCdh5r9H5(he1gj2V72_, (short)582476947, 802481479);
+he1gj2V72_ = jCdh5r9H5(he1gj2V72_, (short)582476947, (unsigned short)802481479);
 break;
 }
 
@@ -185,7 +185,7 @@ b_F2q_6_i = y4htsIyy(-1369085806, (short)-597540318, H6MYQ, (short)310678173, 19
 break;
 case 'c':
 case 'C':
-V4m_T_JRPp = y4htsIyy(-1854467263, CY678, he1gj2V72_, -235644142, 711138041);
+V4m_T_JRPp = y4htsIyy(-1854467263, CY678, he1gj2V72_, (short)-235644142, 711138041);
 break;
 case 'd':
 case 'D':
@@ -208,7 +208,7 @@ std::cout << ie_6J2s5 << std::endl;
 switch (Zw_4T)
 {
 case 'a':
-Rs5386i = y4htsIyy(Rs5386i, (short)-1975099021, ie_6J2s5, -22895448, I583ts3R);
+Rs5386i = y4htsIyy(Rs5386i, (short)-1975099021, ie_6J2s5, (short)-22895448, I583ts3R);
 break;
 case 'b':
 fSyt1AwDE3 = g64nHsI(-1745846721);
@@ -223,7 +223,7 @@ case 'e':
 U5XAgH |= 2134840295;
 break;
 default:
-CY678 = y4htsIyy(CY678, (short)2115802269, (short)961679002, 438839250, 2129831000);
+CY678 = y4htsIyy(CY678, (short)2115802269, (short)961679002, (short)438839250, 2129831000);
 break;
 }
 

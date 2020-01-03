@@ -24,7 +24,7 @@ unsigned short int f_NkZ9(unsigned int wby3O_H,short int ZsQ3,unsigned long Wq7Y
 
 short int i1Q16(unsigned long long Y21VB8,unsigned short tSV70JPt,unsigned short int T6nrcZ)
 {
- return -1869244250;
+ return (short)-1869244250;
 }
 
 unsigned short int    z67E(int    AkSA7nb,unsigned short int    l5CP_1,short int    UZ598k,unsigned int    G9mu2S)
@@ -77,7 +77,7 @@ int main(int argc, char** argv)
 	unsigned short int	AH_w3_W9;
 	AH_w3_W9	=	(unsigned short)391492310;
 	short	KWXDL9BPM;
-	KWXDL9BPM	=	1573210245;
+	KWXDL9BPM	=	(short)1573210245;
   long  GYgv6Yz;
   GYgv6Yz  =  -692104052;
  unsigned int usQw1Vc33_;
@@ -93,7 +93,7 @@ int main(int argc, char** argv)
  unsigned short int MtLC0_pz9u;
  MtLC0_pz9u = (unsigned short)562894144;
 	unsigned short	iA95xZWdi;
-	iA95xZWdi	=	-1001783600;
+	iA95xZWdi	=	(unsigned short)-1001783600;
   unsigned short  AXJ8Q5md;
   AXJ8Q5md  =  1864478244;
     double    RpuWN1BQ;
@@ -131,7 +131,7 @@ int main(int argc, char** argv)
   short  N6Bf7Xh3;
   N6Bf7Xh3  =  (short)1609168085;
 	unsigned char	L__2bY_;
-	L__2bY_	=	-650888443;
+	L__2bY_	=	(unsigned char)-650888443;
     long long    Alm41X5T;
     Alm41X5T    =    1332114254;
   int  H6Nh;

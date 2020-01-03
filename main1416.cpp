@@ -27,7 +27,7 @@ int main(int argc, char** argv)
 	short int	p844;
 	p844	=	(short)-77433267;
  char ZwLzeu9LAd;
- ZwLzeu9LAd = -685072616;
+ ZwLzeu9LAd = (char)-685072616;
 	float	MhY4AeZX;
 	MhY4AeZX	=	1730058739;
  unsigned long JlnQ;
@@ -55,7 +55,7 @@ int main(int argc, char** argv)
     unsigned char    Vfy01mI46T;
     Vfy01mI46T    =    (unsigned char)-1900383208;
  short C4c0;
- C4c0 = 812981434;
+ C4c0 = (short)812981434;
  double B5a9S;
  B5a9S = -123368212;
  long double OO71h2RbXb;
@@ -91,7 +91,7 @@ int main(int argc, char** argv)
 	unsigned long long	SiiYb9_116;
 	SiiYb9_116	=	2070612945;
  char YNm_U079;
- YNm_U079 = 334032762;
+ YNm_U079 = (char)334032762;
   short int  u7ikKGa;
   u7ikKGa  =  0;
     double    EtRdRS4H;
@@ -103,7 +103,7 @@ int main(int argc, char** argv)
  short int m18e;
  m18e = (short)-1507443303;
   char  iMs00;
-  iMs00  =  1024264401;
+  iMs00  =  (char)1024264401;
     long long    OH2vD7k44;
     OH2vD7k44    =    2049608913;
  float hisUo;
@@ -133,7 +133,7 @@ int main(int argc, char** argv)
  short YmDOf_4eVj;
  YmDOf_4eVj = (short)445857732;
 	unsigned short int	mG7z5;
-	mG7z5	=	-1360271947;
+	mG7z5	=	(unsigned short)-1360271947;
 
 try
 {
@@ -337,7 +337,7 @@ r8N0 = B3M9Sc56(r8N0, 1067385013, (unsigned short)-1358203493);
 }
 else if (ZwLzeu9LAd == -345438156)
 {
-H69x4U_ = Js7wTUE(2141912941);
+H69x4U_ = Js7wTUE((short)2141912941);
 }
 else
 {
@@ -532,7 +532,7 @@ ZHw8ZW3JEV = B3M9Sc56(ZHw8ZW3JEV, Uk4H, (unsigned short)-1857868541);
 }
 else if ((EtRdRS4H > -1164864094) && (PWYK5yb < 905236404))
 {
-std::cout << b_PX9pX(ZHw8ZW3JEV, (unsigned char)-639478490, 1930839377, 1460901555, 1192316021) << std::endl;
+std::cout << b_PX9pX(ZHw8ZW3JEV, (unsigned char)-639478490, 1930839377, (char)1460901555, 1192316021) << std::endl;
 }
 else if (ZHw8ZW3JEV != -121335810)
 {
@@ -768,7 +768,7 @@ case 3:
 u7ikKGa = (int)abs(No1k) * 0;
 break;
 case 4:
-gif1j27b = b_PX9pX(-2120340512, iZXDc_LTp, 1202449765, -935539163, 1487166166) % Uk4H;
+gif1j27b = b_PX9pX((short)-2120340512, iZXDc_LTp, 1202449765, -935539163, 1487166166) % Uk4H;
 break;
 case 5:
 k1_17 = B3M9Sc56((char)-737131086, -290486760, PWYK5yb) - EH5hX4aL;

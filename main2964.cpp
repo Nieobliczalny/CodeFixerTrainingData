@@ -18,7 +18,7 @@ unsigned short	ovj__Knb(int	iKUs1Qm)
 }
 
 char TDBC2(int xtNO,unsigned long X0MLTr1D,short int tqD26_,unsigned short int KCR5Or,short int F377fv1XO) {
- return -202799531;
+ return (char)-202799531;
 }
 
 unsigned int t6IyM0() {
@@ -42,7 +42,7 @@ int main() {
  unsigned long VVrtueMqB;
  VVrtueMqB = 0;
 	char	mO6VI;
-	mO6VI	=	-387402513;
+	mO6VI	=	(char)-387402513;
   unsigned int  mWUA138;
   mWUA138  =  -583978049;
   unsigned long  XmIs6;
@@ -58,7 +58,7 @@ int main() {
     short    h0H6;
     h0H6    =    (short)-1515648607;
     unsigned short int    D_YhPwj8c;
-    D_YhPwj8c    =    -1310868868;
+    D_YhPwj8c    =    (unsigned short)-1310868868;
   double  Zi_ON_;
   Zi_ON_  =  1048550949;
     unsigned int    zhPJ5lF78;
@@ -72,7 +72,7 @@ int main() {
 	char	deKI_5;
 	deKI_5	=	(char)-1075288555;
  unsigned short djNr9bLz;
- djNr9bLz = -1479365096;
+ djNr9bLz = (unsigned short)-1479365096;
  int X9pGUYz;
  X9pGUYz = -1554707643;
  double xOasEtVO;
@@ -171,7 +171,7 @@ case 4:
 X9pGUYz &= ELY4yLd5;
 break;
 case 5:
-pt0w4 = TDBC2(pt0w4, -274029510, (short)1950377664, 1188711111, aWsoTK4);
+pt0w4 = TDBC2(pt0w4, -274029510, (short)1950377664, (unsigned short)1188711111, aWsoTK4);
 break;
 default:
 Kog5j = (int)floor(ylAI179_b);

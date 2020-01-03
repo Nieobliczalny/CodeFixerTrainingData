@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
   unsigned short int  s4sFuo4Kl_;
   s4sFuo4Kl_  =  (unsigned short)1121736415;
  unsigned char Szc13;
- Szc13 = 1742973907;
+ Szc13 = (unsigned char)1742973907;
 	unsigned long	Z8_Du64;
 	Z8_Du64	=	-179218211;
  unsigned int i992_egm0M;
@@ -34,7 +34,7 @@ int main(int argc, char** argv) {
 	float	D17f;
 	D17f	=	-212386955;
  short zsCFfJTy2;
- zsCFfJTy2 = -667715524;
+ zsCFfJTy2 = (short)-667715524;
     unsigned char    YvnoP9;
     YvnoP9    =    1031656885;
  long long MQ_EZYlQB;

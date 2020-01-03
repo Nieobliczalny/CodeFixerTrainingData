@@ -220,7 +220,7 @@ case 1:
 uAh8Lk = sV5Gx58_r1(uAh8Lk, (short)1351467881, (unsigned short)-171336634);
 break;
 case 2:
-EMgyI_TV = sV5Gx58_r1(200412397, Pt835, Ba8d);
+EMgyI_TV = sV5Gx58_r1((short)200412397, Pt835, Ba8d);
 break;
 case 3:
 WPHh = (int)abs(TiWDl_7);
@@ -492,7 +492,7 @@ std::cout << RqEG_s4 << fC2kSq << "z6oIC" << std::endl;
 }
 else if ((Py_59 < NGSl3) || (u6Ph > KD8RI6U67))
 {
-std::cout << uAh8Lk << Dy2CU() << sV5Gx58_r1((short)-1257084416, (short)-1672304679, 638690166) << std::endl;
+std::cout << uAh8Lk << Dy2CU() << sV5Gx58_r1((short)-1257084416, (short)-1672304679, (unsigned short)638690166) << std::endl;
 }
 else if (w_J3jef <= gjI3BucZ4Z)
 {

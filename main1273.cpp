@@ -42,7 +42,7 @@ int main(void)
     char    GyO0h4;
     GyO0h4    =    (char)595253157;
 	unsigned short int	F34i_;
-	F34i_	=	594230355;
+	F34i_	=	(unsigned short)594230355;
     long    NO67i3A_Z;
     NO67i3A_Z    =    1825065017;
  short int vYG8I;
@@ -68,7 +68,7 @@ int main(void)
     unsigned int    TY00S;
     TY00S    =    -1751841173;
     unsigned short    i240l4H;
-    i240l4H    =    -90366698;
+    i240l4H    =    (unsigned short)-90366698;
   short  utRkfYraBY;
   utRkfYraBY  =  (short)1203595912;
     long double    dZsueRi_9;
@@ -94,7 +94,7 @@ int main(void)
  long long W43pwju;
  W43pwju = 295292687;
     unsigned short    A65X;
-    A65X    =    948990613;
+    A65X    =    (unsigned short)948990613;
  char Q7t5;
  Q7t5 = -1925781902;
   float  jB32CN4;
@@ -106,7 +106,7 @@ int main(void)
     long long    O2R38r30v8;
     O2R38r30v8    =    115524890;
   unsigned short  vddR1brl;
-  vddR1brl  =  -1126925221;
+  vddR1brl  =  (unsigned short)-1126925221;
 	long long	m3kZsv;
 	m3kZsv	=	-440991742;
     unsigned short int    uV2Fdl3Z;
@@ -142,7 +142,7 @@ int main(void)
  double a68T;
  a68T = 1198125646;
 	short	rYE3X_;
-	rYE3X_	=	-1026763218;
+	rYE3X_	=	(short)-1026763218;
  unsigned short int p5xXjB319y;
  p5xXjB319y = 960276840;
 	char	F_vL0wN;
@@ -162,7 +162,7 @@ int main(void)
     unsigned short int    PN3Hr07;
     PN3Hr07    =    (unsigned short)-824615355;
  short int F_OF8XO6d;
- F_OF8XO6d = 181342086;
+ F_OF8XO6d = (short)181342086;
     unsigned short int    SVHI_S;
     SVHI_S    =    (unsigned short)203336272;
     short    YbT2;
@@ -188,7 +188,7 @@ int main(void)
  unsigned char V1O3t;
  V1O3t = (unsigned char)-1848980584;
 	unsigned char	p41Wi36M6;
-	p41Wi36M6	=	1243160862;
+	p41Wi36M6	=	(unsigned char)1243160862;
     short    Evc9CU94;
     Evc9CU94    =    257633758;
 	double	rofEL9bM;
@@ -208,7 +208,7 @@ int main(void)
 	short	mnBg6cx;
 	mnBg6cx	=	(short)1009397367;
  unsigned short G99uV;
- G99uV = -1564579656;
+ G99uV = (unsigned short)-1564579656;
   int  G7yYR;
   G7yYR  =  -1918287641;
 
@@ -276,7 +276,7 @@ int k = 8;
 while (k >= 0)
 {
 k--;
-uV2Fdl3Z = xmR_(DEZo7, (unsigned short)-1393789366, (unsigned short)230215662, 1245127889);
+uV2Fdl3Z = xmR_(DEZo7, (unsigned short)-1393789366, (unsigned short)230215662, (unsigned char)1245127889);
 }
 }
 }

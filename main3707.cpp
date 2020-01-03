@@ -127,7 +127,7 @@ case 8:
 eFhXW = MoGx0_c((short)630483270, Dpy_, -575832813);
 break;
 default:
-Sm3Kf = tpGY52496_(-1565754905, F5VZQ8_p4_);
+Sm3Kf = tpGY52496_((unsigned char)-1565754905, F5VZQ8_p4_);
 break;
 }
 
@@ -249,7 +249,7 @@ while (i < 10);
 cout << "xB21ibR" << "Y_YawS2d" << Ox14_(-324148648, 1172601340, (unsigned char)-604581970) << tpGY52496_((unsigned char)-1077858224, 706453206) << endl;
 
 t6M02p ^= 32867609;
-QGYp9937q = -1510548805 / tpGY52496_(-1407233050, 1813671955);
+QGYp9937q = -1510548805 / tpGY52496_((unsigned char)-1407233050, 1813671955);
 
 if (Ru8R0A5cl != hf47LT)
 {
@@ -764,7 +764,7 @@ Sm3Kf = tpGY52496_((unsigned char)573137088, H8kYeA7);
 break;
 case 'h':
 case 'H':
-dU42R = MoGx0_c(-932016805, s6Q3, 76622625);
+dU42R = MoGx0_c((short)-932016805, s6Q3, 76622625);
 break;
 case 'i':
 case 'I':

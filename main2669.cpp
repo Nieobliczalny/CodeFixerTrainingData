@@ -41,7 +41,7 @@ int main(void)
     unsigned long    QP6I3RgM    =    -294279404;
  int uUz1zcbe5_ = -1262742983;
     unsigned char    r_ZCO4    =    (unsigned char)2123869098;
- unsigned short int U9EQ = 1316913916;
+ unsigned short int U9EQ = (unsigned short)1316913916;
   long long  qL6xp118b  =  1049845265;
  short IeS5E = 1338303583;
     unsigned long long    pvLFn8    =    1451127801;
@@ -59,7 +59,7 @@ int main(void)
  unsigned long long jj0MFQ = -2123889016;
  unsigned short int QOUVK = (unsigned short)1799842856;
   long  x51Yh  =  1426922033;
-	short int	v6P475kmb	=	-1900836528;
+	short int	v6P475kmb	=	(short)-1900836528;
 
 if (X2y9kC9)
 {

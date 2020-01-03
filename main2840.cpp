@@ -58,7 +58,7 @@ m48bcc = r29i_l((unsigned char)-1545834667, (unsigned short)-236111760, -2810685
 break;
 case 'b':
 case 'B':
-Sd3GMH9nJV = r29i_l(-1596502326, -1726349019, Z_9_4qAm, Cjfe);
+Sd3GMH9nJV = r29i_l((unsigned char)-1596502326, -1726349019, Z_9_4qAm, Cjfe);
 break;
 case 'c':
 case 'C':
@@ -122,7 +122,7 @@ int i = 0;
 while (i < 1)
 {
 i++;
-std::cout << r29i_l(jIU7dgf, (unsigned short)-1181098293, JLydS110__, wFsvsI3A88) << "czaN" << N5bN1(jIU7dgf, CDnexins5, JLydS110__) << r29i_l(jIU7dgf, -605516544, JLydS110__, -829247645) << "WFpIMw" << std::endl;
+std::cout << r29i_l(jIU7dgf, (unsigned short)-1181098293, JLydS110__, wFsvsI3A88) << "czaN" << N5bN1(jIU7dgf, CDnexins5, JLydS110__) << r29i_l(jIU7dgf, (unsigned short)-605516544, JLydS110__, -829247645) << "WFpIMw" << std::endl;
 }
 }
 
@@ -164,7 +164,7 @@ case 'a':
 B_qJ = r29i_l((unsigned char)-1463022701, (unsigned short)2117139822, Wesszrc7, -455229562);
 break;
 default:
-Sd3GMH9nJV = r29i_l(Cjfe, 92848613, 1949048995, 1456640691);
+Sd3GMH9nJV = r29i_l(Cjfe, (unsigned short)92848613, 1949048995, 1456640691);
 break;
 }
 }

@@ -41,7 +41,7 @@ int main(int argc, char** argv) {
 	unsigned short	x86F3gg;
 	x86F3gg	=	(unsigned short)-2014385091;
 	unsigned char	tYXtNN9I11;
-	tYXtNN9I11	=	2137220945;
+	tYXtNN9I11	=	(unsigned char)2137220945;
  unsigned short int aZMyI7;
  aZMyI7 = (unsigned short)-45943180;
  unsigned short int mJ3DnTg6g;
@@ -67,7 +67,7 @@ int main(int argc, char** argv) {
 	unsigned int	lJUk9Y;
 	lJUk9Y	=	-208347109;
     short    wOkslhDc3;
-    wOkslhDc3    =    -1737785601;
+    wOkslhDc3    =    (short)-1737785601;
  unsigned char Oy2aQU;
  Oy2aQU = -833406996;
 	double	YrE1Z;
@@ -95,7 +95,7 @@ int main(int argc, char** argv) {
   long long  kfl3L;
   kfl3L  =  -262809121;
   unsigned short  snZGR99E;
-  snZGR99E  =  -1082668853;
+  snZGR99E  =  (unsigned short)-1082668853;
  short int ek67XJlx;
  ek67XJlx = (short)1778561382;
   unsigned short  Lw12;
@@ -119,7 +119,7 @@ int main(int argc, char** argv) {
  short dv7A69_gd;
  dv7A69_gd = (short)1499283959;
     unsigned char    W0Y4A8uQP;
-    W0Y4A8uQP    =    1650324411;
+    W0Y4A8uQP    =    (unsigned char)1650324411;
  long double nn1xp99;
  nn1xp99 = -62556458;
     char    T5ue3QV;
@@ -147,7 +147,7 @@ int main(int argc, char** argv) {
   char  R9ev8w3iyS;
   R9ev8w3iyS  =  (char)-2122794182;
     unsigned short    u7d8Khp5J;
-    u7d8Khp5J    =    -1465690953;
+    u7d8Khp5J    =    (unsigned short)-1465690953;
 	int	axH1zjWw;
 	axH1zjWw	=	0;
     int    whMs;
@@ -357,7 +357,7 @@ cout << "p0KB9qy1u5" << "pH7V2a7f" << r3zH938yeo(-2008652316, z3EnHby39, (char)2
 }
 }
 
-W0Y4A8uQP = tnfZ2(-1677310392);
+W0Y4A8uQP = tnfZ2((unsigned char)-1677310392);
 
 Ged42Haz = (int)(Wv5w0w);
 try

@@ -24,7 +24,7 @@ int main(void) {
   unsigned short int  O4yST03s  =  (unsigned short)1899350729;
     long double    u_Q_0    =    1100507980;
 	unsigned int	BgnfWt41	=	-798053047;
-  unsigned short  i7N_6rH  =  804762159;
+  unsigned short  i7N_6rH  =  (unsigned short)804762159;
   unsigned short  pF61  =  -1733956861;
     int    uEVb    =    -1229503552;
     unsigned long long    lk8MT1F    =    -2014199162;
@@ -40,7 +40,7 @@ int main(void) {
   int  GaXMu8W  =  0;
   double  J86dqSnoxF  =  -842213520;
     long double    N675053v    =    1184015143;
- unsigned short TP49kY7Ge = 945528108;
+ unsigned short TP49kY7Ge = (unsigned short)945528108;
     char    LTiV2D9    =    (char)531151408;
     long long    pdEMwnj6    =    1314969821;
  long EmThFIX = -1099708172;
@@ -53,7 +53,7 @@ int main(void) {
     long long    lnBJxm9    =    -624380318;
     unsigned short int    dk__6THY    =    (unsigned short)281710450;
  unsigned int ovSi_Uvhep = -1020550424;
-  short int  D1OIs  =  1269068015;
+  short int  D1OIs  =  (short)1269068015;
  unsigned char Z466umLcU = (unsigned char)-1485151618;
     double    EvNlP    =    -1958079532;
   char  hA8Yw_Xd  =  -259461229;
@@ -193,7 +193,7 @@ while (k >= 0);
 }
 else if (((E8KSZG29i & -270324833) && (dk__6THY < hA8Yw_Xd)) || (HR3LJE6p7 <= -1824844211))
 {
-Ljt4t3 = N253tbS(-657513745, 1639139191, IPZz5);
+Ljt4t3 = N253tbS(-657513745, (unsigned short)1639139191, IPZz5);
 }
 else
 {

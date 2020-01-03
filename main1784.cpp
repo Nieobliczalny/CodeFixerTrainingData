@@ -68,7 +68,7 @@ int main() {
  char RN_u0;
  RN_u0 = (char)-2105220485;
 	short	IWmj3_X_90;
-	IWmj3_X_90	=	-1575420605;
+	IWmj3_X_90	=	(short)-1575420605;
     short    s_ksG1EW;
     s_ksG1EW    =    873327286;
     long long    m759x8rPX;

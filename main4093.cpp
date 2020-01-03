@@ -163,7 +163,7 @@ dFsg = (J7_m19 <= -688838637) ? s2jGpL(H7qldpW8_, (unsigned short)-896313029, XQ
 }
 else if ((wx2S22Pu & hP075vs) && (r469X13h))
 {
-eqbw_ = s2jGpL((char)-1138427280, -664531992, kQu61OyO5);
+eqbw_ = s2jGpL((char)-1138427280, (unsigned short)-664531992, kQu61OyO5);
 }
 else
 {
@@ -400,7 +400,7 @@ break;
 
 try
 {
-std::cout << s2jGpL((char)-1263712514, UQWRf, EuF6lti) << s2jGpL(1915074949, UQWRf, EuF6lti) << "M3E_48O1" << std::endl;
+std::cout << s2jGpL((char)-1263712514, UQWRf, EuF6lti) << s2jGpL((char)1915074949, UQWRf, EuF6lti) << "M3E_48O1" << std::endl;
 }
 catch (int& errorCode)
 {

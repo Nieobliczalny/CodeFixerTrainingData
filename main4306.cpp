@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
     char    w84ef4nvha    =    (char)-1082947659;
     unsigned char    ZY0lJ    =    (unsigned char)2040600386;
 	double	M7VECBnDb0	=	-245014872;
-  short  nKg1v3  =  -763888238;
+  short  nKg1v3  =  (short)-763888238;
 	short	E83y6d2	=	0;
  short E3__rnn = -647031090;
 	long	CD788	=	0;
@@ -51,7 +51,7 @@ int main(int argc, char** argv) {
     long double    wcBt4XR    =    -1060203213;
 	double	CvS_x2_K	=	-516684617;
  unsigned int c26iKl_AZF = 874261460;
-  short  eU1p  =  -54280441;
+  short  eU1p  =  (short)-54280441;
  unsigned short int HsHC73_6 = 1342341454;
 
 if (E83y6d2 == 0)
@@ -245,7 +245,7 @@ case 3:
 E_O32k5_ = qnvEclcJ((short)-278932907) | 1976076916;
 break;
 case 4:
-WCu3oaW4 = T49U3R69C(-214095356, -1218568443, c26iKl_AZF, vso3E3I, -195618813);
+WCu3oaW4 = T49U3R69C((unsigned short)-214095356, -1218568443, c26iKl_AZF, vso3E3I, -195618813);
 break;
 case 5:
 x3R44 = T49U3R69C(x3R44, -2124154973, Cac9w7x7b0, 456498116, h9_0U);
@@ -291,7 +291,7 @@ nKg1v3 = T49U3R69C((unsigned short)1531861807, (unsigned short)1852385716, B4M_h
 }
 else if (E3__rnn != 1883832316)
 {
-HZ6SW = Kh2Z_(HZ6SW, -1051336208);
+HZ6SW = Kh2Z_(HZ6SW, (unsigned short)-1051336208);
 }
 else if (EE_BJwC < 2022302460)
 {

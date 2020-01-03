@@ -33,7 +33,7 @@ int main(void) {
     unsigned char    wF3fXI3R;
     wF3fXI3R    =    (unsigned char)-1971892734;
   unsigned char  tI45917;
-  tI45917  =  -1157951880;
+  tI45917  =  (unsigned char)-1157951880;
 	short int	uX5y0W;
 	uX5y0W	=	-1989797324;
  unsigned char izz55qX12O;
@@ -53,7 +53,7 @@ int main(void) {
 	long double	mXPKxv;
 	mXPKxv	=	-1368831672;
     short    p31b;
-    p31b    =    1948407193;
+    p31b    =    (short)1948407193;
 	char	tC4RB_x_;
 	tC4RB_x_	=	-2131058066;
 	unsigned int	TV7WY;

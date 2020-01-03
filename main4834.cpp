@@ -29,7 +29,7 @@ int main(void)
     unsigned short    r74Ta,    nji8J3170q,    teQro,    PhNvvV77g9,    k456d_,    mkm8p,    VhW4l_,    ZyxA6HU893,    xHkE7m,    eQ7R5_K,    PUr0qm3Ef3,    J64193858,    aV6TEc_,    yrajUhLLMy,    fUAGDcSkS,    yHhyvh_I4p,    Bv1QBqH,    oxX_L_6_B,    E6772,    aw8c186,    Z3_i,    E5Yll2Ksb7,    eIh2EW0k13,    K2_cHb1,    GW0DM,    Om40,    o6qZbBKlEw,    bT141,    VzZgz,    Kfn046,    HkM5MlZ,    Fr0d6Jr,    Z5p1,    J716DI_3,    Boz73wOl,    Nmnj,    c4RC,    PGVL3Z,    zE40N,    qHJ1,    kZ85df6EW,    Ngk220Gn,    s7zF7_0x,    Jt4U07H_X8,    Qscs2G5G,    pjII4,    pOL_U,    L_ycl,    WN3o,    g54_JE20fl,    CqPDM4B1,    QWoNe5p2p,    TCd4,    CK3Y1DH1ge,    Y663162k,    TFu8FdG94,    Se0_6Ue2,    O8x95Hzh,    cB6WS6_x,    s490,    y7lX0_,    Ekhn0rs,    F_8VJv0,    vH0PI48_,    pXqkuSQ_h,    boG1W6hQc,    K900N;
     r74Ta    =    (unsigned short)-1753247129;
     nji8J3170q    =    (unsigned short)960393697;
-    teQro    =    1885112202;
+    teQro    =    (unsigned short)1885112202;
     PhNvvV77g9    =    -2041590673;
     k456d_    =    1355491209;
     mkm8p    =    781821219;
@@ -39,7 +39,7 @@ int main(void)
     eQ7R5_K    =    -1559935596;
     PUr0qm3Ef3    =    (unsigned short)1005096197;
     J64193858    =    (unsigned short)1430474461;
-    aV6TEc_    =    1239830126;
+    aV6TEc_    =    (unsigned short)1239830126;
     yrajUhLLMy    =    458605880;
     fUAGDcSkS    =    -173149311;
     yHhyvh_I4p    =    -1003783826;
@@ -49,7 +49,7 @@ int main(void)
     aw8c186    =    -1098386133;
     Z3_i    =    (unsigned short)2070462566;
     E5Yll2Ksb7    =    (unsigned short)537852516;
-    eIh2EW0k13    =    1538131572;
+    eIh2EW0k13    =    (unsigned short)1538131572;
     K2_cHb1    =    -1274125102;
     GW0DM    =    236687969;
     Om40    =    -160046691;
@@ -59,7 +59,7 @@ int main(void)
     Kfn046    =    -763010330;
     HkM5MlZ    =    (unsigned short)1226455000;
     Fr0d6Jr    =    (unsigned short)-1862102575;
-    Z5p1    =    -1630436743;
+    Z5p1    =    (unsigned short)-1630436743;
     J716DI_3    =    -1162491868;
     Boz73wOl    =    -470197661;
     Nmnj    =    -406855866;
@@ -69,7 +69,7 @@ int main(void)
     qHJ1    =    1425718786;
     kZ85df6EW    =    (unsigned short)-1836295031;
     Ngk220Gn    =    (unsigned short)-330790798;
-    s7zF7_0x    =    -1108332652;
+    s7zF7_0x    =    (unsigned short)-1108332652;
     Jt4U07H_X8    =    668978544;
     Qscs2G5G    =    520884786;
     pjII4    =    -978597654;
@@ -79,7 +79,7 @@ int main(void)
     g54_JE20fl    =    -779319103;
     CqPDM4B1    =    (unsigned short)-773762526;
     QWoNe5p2p    =    (unsigned short)-730938370;
-    TCd4    =    -774598074;
+    TCd4    =    (unsigned short)-774598074;
     CK3Y1DH1ge    =    1547512399;
     Y663162k    =    1831566892;
     TFu8FdG94    =    149881831;
@@ -89,7 +89,7 @@ int main(void)
     s490    =    -1574856666;
     y7lX0_    =    (unsigned short)-2121975386;
     Ekhn0rs    =    (unsigned short)-1811946601;
-    F_8VJv0    =    681380668;
+    F_8VJv0    =    (unsigned short)681380668;
     vH0PI48_    =    1126649110;
     pXqkuSQ_h    =    911593530;
     boG1W6hQc    =    1456188440;
@@ -105,7 +105,7 @@ if (Om40 <= 99144016)
 {
 if (Bv1QBqH & rS9ydAv)
 {
-O8x95Hzh = py61P(O8x95Hzh, -1396657526, r74Ta, 1141417102);
+O8x95Hzh = py61P(O8x95Hzh, (short)-1396657526, r74Ta, 1141417102);
 }
 else
 {
@@ -191,7 +191,7 @@ Lrg9bK = r1DBqX(-1317359946, -646170313, -742093761, -730948554, pjII4);
 }
 try
 {
-Bv1QBqH = py61P(Bv1QBqH, (short)-726404632, (unsigned short)-1446272688, 552077513);
+Bv1QBqH = py61P(Bv1QBqH, (short)-726404632, (unsigned short)-1446272688, (unsigned char)552077513);
 }
 catch (int& errorCode)
 {
@@ -309,7 +309,7 @@ Lrg9bK = r1DBqX((short)692133851, K2_cHb1, yrajUhLLMy, 1618532978, 1694068881);
 }
 else if (Y663162k == oxX_L_6_B)
 {
-Qscs2G5G = py61P(1551466981, (short)-1006064681, -950581712, 757468185);
+Qscs2G5G = py61P(1551466981, (short)-1006064681, (unsigned short)-950581712, 757468185);
 }
 else if (L_ycl <= J64193858)
 {
@@ -540,7 +540,7 @@ Sdt_770BO = r1DBqX(Ngk220Gn, PhNvvV77g9, r74Ta, -398297523, Fr0d6Jr);
 }
 else
 {
-teQro = py61P(-1891697807, (short)1381476501, (unsigned short)139176948, -1222483834);
+teQro = py61P(-1891697807, (short)1381476501, (unsigned short)139176948, (unsigned char)-1222483834);
 }
 }
 catch (int& errorCode)

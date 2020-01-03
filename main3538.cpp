@@ -27,7 +27,7 @@ int main()
  float U8Eh7Y;
  U8Eh7Y = -924824199;
     short    k3Fl9EK2W_;
-    k3Fl9EK2W_    =    1986615087;
+    k3Fl9EK2W_    =    (short)1986615087;
   unsigned long  W62eAl;
   W62eAl  =  -1509331796;
  double ig0US5;
@@ -57,7 +57,7 @@ int main()
 	int	vvG9NkX4;
 	vvG9NkX4	=	0;
     short int    h7e78kF;
-    h7e78kF    =    -1062779690;
+    h7e78kF    =    (short)-1062779690;
 	unsigned long	yS1g9tW;
 	yS1g9tW	=	2049171734;
     unsigned short int    pdMV9;
@@ -87,7 +87,7 @@ int main()
   char  LI7wP7z;
   LI7wP7z  =  (char)-1346761542;
  short int rE6gL0;
- rE6gL0 = -1924094866;
+ rE6gL0 = (short)-1924094866;
 	char	k63672KPrG;
 	k63672KPrG	=	-549451214;
  int LE023;

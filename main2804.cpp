@@ -23,7 +23,7 @@ int main(int argc, char** argv)
  short u4mZc = (short)1298891293;
   char  Pa8PQ  =  0;
 	long long	gu5sY5SeY	=	-1251205267;
-    unsigned short    Db8n93    =    104191028;
+    unsigned short    Db8n93    =    (unsigned short)104191028;
     unsigned long    IcgcW8BiN    =    -654787851;
 	unsigned long	hxlE_09I_	=	-1015953164;
   char  e4yEf650Yk  =  1159547438;
@@ -36,7 +36,7 @@ int main(int argc, char** argv)
   long  x1y7nG  =  -1365098010;
 	unsigned short int	d_3HG	=	(unsigned short)-1755454236;
   unsigned long  c_UN6YAj  =  2083049042;
-	unsigned short int	ThA1	=	-502961371;
+	unsigned short int	ThA1	=	(unsigned short)-502961371;
   long double  A43AN  =  -2114430392;
   int  o_65bV  =  923572589;
 	short int	Y_F5XhpxC	=	605749195;
@@ -59,7 +59,7 @@ int main(int argc, char** argv)
  unsigned short yjj_7W2bD = (unsigned short)-546554866;
   float  K71M_n  =  -209166286;
 	long long	l2975UmQJB	=	0;
-  unsigned short int  W9KVD  =  1053570943;
+  unsigned short int  W9KVD  =  (unsigned short)1053570943;
     unsigned long    rEyDX    =    973617794;
  char A4JIi5We = 2065794276;
     unsigned char    Pu83X5B    =    -1448960541;
@@ -110,7 +110,7 @@ bP77Dg++;
 }
 else
 {
-ZVBh = l3cnj(ZVBh, (short)1648255526, c_viEMu_oc, 817355623, 780781572);
+ZVBh = l3cnj(ZVBh, (short)1648255526, c_viEMu_oc, 817355623, (char)780781572);
 }
 }
 else

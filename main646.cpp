@@ -24,7 +24,7 @@ int main(int argc, char** argv)
  short L2uFz82L9 = 0;
   long  Tdnt  =  -1171607590;
     short    xmRX9n    =    (short)-1837665314;
-	unsigned char	rB08c2zSuv	=	341948963;
+	unsigned char	rB08c2zSuv	=	(unsigned char)341948963;
   unsigned int  T8n209Y  =  -1279352385;
 	unsigned int	r80_Gc9r	=	0;
   unsigned long long  Y8b7D  =  0;
@@ -37,7 +37,7 @@ int main(int argc, char** argv)
 	long	F04S90qC	=	1130102341;
 	short int	k5PHQa0k	=	(short)-1260274010;
     double    a273Y0F    =    -1519995260;
-    unsigned short    C77coL9vz9    =    962415783;
+    unsigned short    C77coL9vz9    =    (unsigned short)962415783;
 
 switch (L2uFz82L9)
 {
@@ -66,7 +66,7 @@ case 7:
 xmRX9n = Ys3gilt7k((unsigned short)-204538467, 423217122, e8Ri, Hg1v);
 break;
 case 8:
-z4k0 = SXl3Eg((unsigned short)1356293145, -1642348781, L2uFz82L9, r80_Gc9r, rB08c2zSuv);
+z4k0 = SXl3Eg((unsigned short)1356293145, (unsigned char)-1642348781, L2uFz82L9, r80_Gc9r, rB08c2zSuv);
 break;
 case 9:
 F04S90qC = F04S90qC - rB08c2zSuv;
@@ -144,7 +144,7 @@ catch (int& errorCode)
 nRsP = (int)abs(a273Y0F);
 }
 
-e8Ri = SXl3Eg((unsigned short)-958962441, (unsigned char)-559294940, 2060678878, F04S90qC, 1607613516);
+e8Ri = SXl3Eg((unsigned short)-958962441, (unsigned char)-559294940, 2060678878, F04S90qC, (short)1607613516);
 a273Y0F = (int)ceil(Hg1v);
 if (T8n209Y & Y8b7D)
 {
@@ -199,7 +199,7 @@ nRsP = SXl3Eg(nRsP, (unsigned char)1930871082, r80_Gc9r, 1432857698, (short)-178
 }
 else
 {
-T6Jp8s = SXl3Eg(T6Jp8s, 2088806683, -977468705, Tdnt, 1084393082);
+T6Jp8s = SXl3Eg(T6Jp8s, (unsigned char)2088806683, -977468705, Tdnt, 1084393082);
 }
 }
 catch (int& errorCode)
@@ -345,7 +345,7 @@ r80_Gc9r = jUiBlm8J_(Hg1v, (short)44464683);
 }
 else if ((a273Y0F < rB08c2zSuv) || (Tdnt & -257915082))
 {
-e8Ri = tvUCF(-154979544, (unsigned short)1742192370, -1823988229, -1431203159);
+e8Ri = tvUCF(-154979544, (unsigned short)1742192370, -1823988229, (short)-1431203159);
 }
 else
 {
@@ -411,7 +411,7 @@ Tdnt = (int)abs(Hg1v);
 break;
 case 'g':
 case 'G':
-T8n209Y = Ys3gilt7k((unsigned short)910387824, -1128353572, -1900105424, k5PHQa0k);
+T8n209Y = Ys3gilt7k((unsigned short)910387824, -1128353572, (char)-1900105424, k5PHQa0k);
 break;
 }
 i++;

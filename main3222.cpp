@@ -35,7 +35,7 @@ int main(int argc, char** argv) {
   int  f726wjq8  =  -721065891;
     unsigned long    cbN7e56C7    =    1563469671;
 	unsigned short int	X_g5UD809	=	(unsigned short)454155613;
-	short	TH6W5	=	518619519;
+	short	TH6W5	=	(short)518619519;
     unsigned char    I_L74_5q1l    =    920735493;
  short EwNoO7g = -1262991585;
   unsigned short int  dncs4u  =  1208794055;
@@ -47,7 +47,7 @@ int main(int argc, char** argv) {
     unsigned long long    DC4j    =    1795396728;
   float  WK5Dffs30  =  -957262431;
   unsigned char  HBok__0  =  (unsigned char)-1264205233;
-    short int    r8oWF2_VQ    =    -898135522;
+    short int    r8oWF2_VQ    =    (short)-898135522;
     float    mib5Y1vs_j    =    1675782672;
  unsigned long u3FnRAz_72 = -837437155;
   char  OmDscy02k_  =  (char)1911351340;
@@ -61,7 +61,7 @@ int main(int argc, char** argv) {
  char ZF_f2Z7v5 = (char)873989791;
  unsigned long lfMc = 1879112732;
 	unsigned char	Ze875	=	(unsigned char)-1899708121;
-    unsigned short int    E3_2    =    -1916246803;
+    unsigned short int    E3_2    =    (unsigned short)-1916246803;
 	short	k_3qqC9	=	271562732;
  unsigned long long FFg4pBp = -626793254;
  char B75P7V = 875665777;
@@ -72,7 +72,7 @@ int main(int argc, char** argv) {
 	double	Og1W2O_S	=	-1075285279;
   unsigned long long  U0hl_V  =  -1227479537;
     unsigned char    S6w7u    =    (unsigned char)1146958712;
- short e8Um3 = -1999625240;
+ short e8Um3 = (short)-1999625240;
 	short	UfS_3_e	=	108541193;
     unsigned char    l_jy    =    -1992176832;
 	double	Yyvf0tT7	=	-1777101450;
@@ -94,7 +94,7 @@ int main(int argc, char** argv) {
  char NkQosGU87a = (char)-1116569419;
   long long  b6JXpk0_  =  -1072444139;
   long long  WbcB33Wpw  =  -1449724070;
-  char  Jq7CQ5Aj5  =  590742158;
+  char  Jq7CQ5Aj5  =  (char)590742158;
   unsigned short  La_1spr8  =  833359996;
   unsigned int  vZUz_J  =  -1116554039;
   short  t6xU61yUL  =  (short)-2062324841;
@@ -104,7 +104,7 @@ int main(int argc, char** argv) {
 	unsigned int	DTN2j	=	-1683269697;
     unsigned long long    PRo_vmFO    =    2072448592;
  unsigned char CD_fO = (unsigned char)57430553;
-  unsigned char  eMLd3adWP  =  1810853052;
+  unsigned char  eMLd3adWP  =  (unsigned char)1810853052;
     int    OoSclDcj    =    593975239;
   char  l_VB8H5A3_  =  426013421;
 	unsigned short	TASLQ_V0S	=	(unsigned short)1002090889;

@@ -141,7 +141,7 @@ case 8:
 weH2zC8 = TIV1D2w((unsigned short)-1126188515, mhLR_Nk4l, wQa3z);
 break;
 default:
-hJ3Y = (TsUP & -1698561411) ? (char)423382774 : 1202883907;
+hJ3Y = (TsUP & -1698561411) ? (char)423382774 : (char)1202883907;
 break;
 }
 }

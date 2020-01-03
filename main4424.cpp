@@ -102,7 +102,7 @@ int main(void) {
 jEf_Q19 = iM55WEx8m << 1265678127;
 if (((jphNw0oOt) || (xAmPb25)) || (m3Y5 == 2050715729))
 {
-std::cout << Pc8GC8w(bmOM1ubAX9, -1097977595, (char)-1605086320, (short)1498938915, 2032087237) << "Aw6s4" << UzafV(bmOM1ubAX9) << u4Wy1KOk2c(2146466276, -1441301328, rD421r, 1440336454, -1348002555) << std::endl;
+std::cout << Pc8GC8w(bmOM1ubAX9, -1097977595, (char)-1605086320, (short)1498938915, (unsigned short)2032087237) << "Aw6s4" << UzafV(bmOM1ubAX9) << u4Wy1KOk2c(2146466276, -1441301328, rD421r, 1440336454, -1348002555) << std::endl;
 }
 
 if (rD421r >= gQ4mGte)
@@ -188,7 +188,7 @@ while (j < 7)
 j++;
 try
 {
-KQ_k2NaF = Pc8GC8w(KQ_k2NaF, 1531307565, (char)-222238765, (short)-1448240985, 1063824405);
+KQ_k2NaF = Pc8GC8w(KQ_k2NaF, 1531307565, (char)-222238765, (short)-1448240985, (unsigned short)1063824405);
 }
 catch (int& errorCode)
 {
@@ -263,7 +263,7 @@ else if (((IN0373L2b == 1622192917) || (DE3nr & 33682094)) && (l_v172xD2 != -196
 switch (mon5)
 {
 case 0:
-MN9PbuZ = Pc8GC8w(-1119408401, AcJ4, D0NYC3, -347838072, ciWh3Dq);
+MN9PbuZ = Pc8GC8w((char)-1119408401, AcJ4, D0NYC3, -347838072, ciWh3Dq);
 break;
 case 1:
 l_v172xD2 = u4Wy1KOk2c(l_v172xD2, MQ7Tl, -853223557, c0yV1La6, DjV6);
@@ -444,7 +444,7 @@ case 0:
 b62Pl__4 = u4Wy1KOk2c((unsigned short)1366658225, gQ4mGte, 969484711, 742784032, (unsigned char)-881926996) - 639354015;
 break;
 case 1:
-DjV6 = UzafV(-1720848064);
+DjV6 = UzafV((unsigned short)-1720848064);
 break;
 case 2:
 MQ7Tl = SjMO();
@@ -463,7 +463,7 @@ i9lSR6pX8 = UzafV((unsigned short)-388956179) | 1731843581;
 break;
 }
 
-std::cout << Pc8GC8w((char)-1005591775, 1473455098, 881409461, -1825272373, -980762734) << Pc8GC8w(ZoFIghW, DjV6, F4RoHFTylf, iLFZU64n9, -1670121550) << F4RoHFTylf << "t5dbl7Nq" << std::endl;
+std::cout << Pc8GC8w((char)-1005591775, 1473455098, (char)881409461, -1825272373, -980762734) << Pc8GC8w(ZoFIghW, DjV6, F4RoHFTylf, iLFZU64n9, -1670121550) << F4RoHFTylf << "t5dbl7Nq" << std::endl;
 
 MQ7Tl = SjMO();
 
@@ -554,7 +554,7 @@ case 4:
 SadU1q9 = UzafV(SadU1q9);
 break;
 case 5:
-L10FSOU8 = UzafV(-445358893);
+L10FSOU8 = UzafV((unsigned short)-445358893);
 break;
 case 6:
 gQ4mGte = c0yV1La6 % uUB13;

@@ -459,7 +459,7 @@ case 4:
 Nsd3eB5++;
 break;
 case 5:
-D1WmAz4l = d1sNVruVW(D1WmAz4l, 829178609, xBoF, -2125359321);
+D1WmAz4l = d1sNVruVW(D1WmAz4l, 829178609, xBoF, (unsigned short)-2125359321);
 break;
 case 6:
 bXtH *= 1984694973;

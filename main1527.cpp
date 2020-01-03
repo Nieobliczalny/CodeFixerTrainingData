@@ -233,7 +233,7 @@ case 'a':
 Gp8x = mnhqge(-906004323, (unsigned short)-1140451565, -173645982);
 break;
 case 'b':
-I54Rg3 = l7B2Kno5(-727866724, 1259414544, (short)-569135698, 166627911);
+I54Rg3 = l7B2Kno5(-727866724, 1259414544, (short)-569135698, (unsigned short)166627911);
 break;
 case 'c':
 p81O_S = (int)abs(mCVMbu);

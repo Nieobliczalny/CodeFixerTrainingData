@@ -72,7 +72,7 @@ int main()
 	short int	QNZF7197y;
 	QNZF7197y	=	(short)483912713;
  short GO634;
- GO634 = 1055556957;
+ GO634 = (short)1055556957;
 	int	Y_QitqH183;
 	Y_QitqH183	=	-1263102002;
  long AFn7;
@@ -86,7 +86,7 @@ int main()
  unsigned char nLR0w;
  nLR0w = 0;
 	unsigned short	DYe0S9mL;
-	DYe0S9mL	=	-45335283;
+	DYe0S9mL	=	(unsigned short)-45335283;
 	char	Tfsb2;
 	Tfsb2	=	(char)-224425669;
     unsigned int    W0_6HIa4;
@@ -96,7 +96,7 @@ int main()
  unsigned char BUxj;
  BUxj = (unsigned char)-933188465;
  unsigned short b6guzX5JB;
- b6guzX5JB = 852417767;
+ b6guzX5JB = (unsigned short)852417767;
   double  NP0oE;
   NP0oE  =  1094756585;
  char Raf0B4xr;
@@ -152,7 +152,7 @@ int main()
  unsigned short wZM8H;
  wZM8H = (unsigned short)-1113345488;
  unsigned short int qG__Wo;
- qG__Wo = 1272297521;
+ qG__Wo = (unsigned short)1272297521;
     double    w1xQTP;
     w1xQTP    =    -1479626036;
     long double    V38j0_Vzq_;
@@ -333,7 +333,7 @@ for (int i = 0; i < 9; ++i)
 cout << ssE9cF_((unsigned char)-167790818, (unsigned short)-29201986, E_qn, -553335224) << leMVcdrO_k << endl;
 }
 VWysEU_bF = (long double)(nP8xkUR);
-U93HaDot = ssE9cF_(2111536778, -1356110055, q6m02q7S, 856964790);
+U93HaDot = ssE9cF_((unsigned char)2111536778, -1356110055, q6m02q7S, 856964790);
 VWysEU_bF = (int)floor(NP0oE);
 if (BUxj <= -1191538875)
 {

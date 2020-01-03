@@ -26,7 +26,7 @@ int main(int argc, char** argv) {
  short int As3t4ehT1;
  As3t4ehT1 = (short)630898958;
  short TD41f0I;
- TD41f0I = -604277180;
+ TD41f0I = (short)-604277180;
 	long	V4gCom__v3;
 	V4gCom__v3	=	-200414697;
     float    OpSQ2Ke;

@@ -51,7 +51,7 @@ int main(void)
 	long	kYkbj;
 	kYkbj	=	-1718309762;
  short int X3ld;
- X3ld = -631515810;
+ X3ld = (short)-631515810;
 	long long	T36zI;
 	T36zI	=	-960060363;
 	long double	OG0zf6GjV;
@@ -65,7 +65,7 @@ int main(void)
 	long	ZzfdtzI;
 	ZzfdtzI	=	781751874;
  unsigned short int l_C7Ebv5g;
- l_C7Ebv5g = 281434636;
+ l_C7Ebv5g = (unsigned short)281434636;
   unsigned int  Gaa6b813B;
   Gaa6b813B  =  -1967086015;
  unsigned long i1MOn;

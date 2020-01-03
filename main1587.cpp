@@ -32,7 +32,7 @@ int main(void)
     unsigned char    p1cfD0E;
     p1cfD0E    =    (unsigned char)-295623433;
     short int    rdp2W3;
-    rdp2W3    =    -1208378957;
+    rdp2W3    =    (short)-1208378957;
     short    XWE0;
     XWE0    =    (short)-1696083365;
     unsigned char    VaL62FAR;
@@ -144,7 +144,7 @@ int main(void)
     unsigned char    g2_p3i3p;
     g2_p3i3p    =    (unsigned char)1321535158;
 	char	SOVG3;
-	SOVG3	=	-368735014;
+	SOVG3	=	(char)-368735014;
     unsigned short    Hzhd_uf_2w;
     Hzhd_uf_2w    =    1281286261;
   unsigned long long  U5F241eKo;
@@ -184,7 +184,7 @@ int main(void)
 	short	r_M3V;
 	r_M3V	=	(short)254970790;
   unsigned short  QwQNY25F;
-  QwQNY25F  =  502216823;
+  QwQNY25F  =  (unsigned short)502216823;
  double lKEZKFU;
  lKEZKFU = 1440251642;
 

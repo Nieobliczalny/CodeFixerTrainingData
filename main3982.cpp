@@ -62,7 +62,7 @@ g035JXqp = gdPHJ66(g035JXqp, e8_HeD1j3t, QoWdF_6nB6, 1605937792, (unsigned short
 break;
 case 'i':
 case 'I':
-QoWdF_6nB6 = gdPHJ66(QoWdF_6nB6, 531603775, 1832528594, e8_HeD1j3t, 2020880192);
+QoWdF_6nB6 = gdPHJ66(QoWdF_6nB6, 531603775, 1832528594, e8_HeD1j3t, (unsigned short)2020880192);
 break;
 case 'j':
 case 'J':

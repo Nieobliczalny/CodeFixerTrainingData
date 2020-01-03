@@ -24,7 +24,7 @@ int main()
     unsigned int    afK_3;
     afK_3    =    -1224088048;
     short int    pJ8rT4c;
-    pJ8rT4c    =    1151831868;
+    pJ8rT4c    =    (short)1151831868;
 	unsigned long long	D80OOJ;
 	D80OOJ	=	1640398726;
  unsigned char etV4zTuo;
@@ -34,7 +34,7 @@ int main()
 	long long	OrRzx;
 	OrRzx	=	2139151070;
     short    G2DysQzwD0;
-    G2DysQzwD0    =    1664919664;
+    G2DysQzwD0    =    (short)1664919664;
     char    qa7tkuiv;
     qa7tkuiv    =    1791165736;
 	unsigned short int	iUy86oFQ;
@@ -46,7 +46,7 @@ int main()
   unsigned short  f8t6;
   f8t6  =  (unsigned short)540043497;
 	unsigned short	BBnMwWm3n;
-	BBnMwWm3n	=	-2114905266;
+	BBnMwWm3n	=	(unsigned short)-2114905266;
 	unsigned short	W6_68QP;
 	W6_68QP	=	-805827860;
     int    mzb2mD7;

@@ -14,7 +14,7 @@ int main(void) {
     short    D3k_3944N,    KE7720AOK,    tK_v89,    vM0DqmJH,    Oi6sDe9x,    gLNlp,    pfVDzc8,    n_Y6IKRZ,    nBwqk2v_Wb,    qwz_lr5D_B,    DnHb8,    Hw0EPa6Xc,    L1O1uM9;
     D3k_3944N    =    (short)140092819;
     KE7720AOK    =    (short)-794024917;
-    tK_v89    =    421339480;
+    tK_v89    =    (short)421339480;
     vM0DqmJH    =    -138108378;
     Oi6sDe9x    =    1432181015;
     gLNlp    =    1434747066;
@@ -24,7 +24,7 @@ int main(void) {
     qwz_lr5D_B    =    1551054115;
     DnHb8    =    (short)-1203102630;
     Hw0EPa6Xc    =    (short)-1742583288;
-    L1O1uM9    =    -1019536460;
+    L1O1uM9    =    (short)-1019536460;
 
 try
 {

@@ -47,7 +47,7 @@ int main(void) {
  long double jh4ou6 = -1201838513;
 	int	AP363KWF	=	-2093729196;
 	unsigned int	cTeOH07jz	=	408743336;
-	unsigned short int	sX6U6_WDDH	=	-1192744553;
+	unsigned short int	sX6U6_WDDH	=	(unsigned short)-1192744553;
 	float	sP72KN0_a8	=	-890848833;
     short int    KzYJHWa    =    (short)1573580997;
  long long dOcjY = 1109886961;
@@ -58,7 +58,7 @@ int main(void) {
 	unsigned short int	VfoKb	=	-1094517347;
 	long double	sB73N	=	354552830;
 	long	Pe02J201b	=	-1647551209;
-    short    npIojZ0    =    -158340433;
+    short    npIojZ0    =    (short)-158340433;
   unsigned short  HTm4Vg  =  (unsigned short)-646010720;
 	int	K2y_3	=	123930512;
   unsigned long long  qbUS  =  -1529058465;
@@ -88,7 +88,7 @@ else if (((Kd2A2uRmGl & 98334950) || (HTm4Vg > -1413883800)) || (X0pEJ & 1608873
 {
 if (((X0pEJ != PnfZsZ) && (KzYJHWa != 417502911)) && ((KzYJHWa == -1945965242) || (tLb1s > 1473943839)))
 {
-std::cout << dOcjY << "w8VaA2y" << wts366X(72668716, -2115031124, (char)1370662904, 1151463875) << S5_c << "c5NF_23m37" << std::endl;
+std::cout << dOcjY << "w8VaA2y" << wts366X(72668716, -2115031124, (char)1370662904, (unsigned short)1151463875) << S5_c << "c5NF_23m37" << std::endl;
 }
 else
 {

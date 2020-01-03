@@ -28,7 +28,7 @@ int main()
     unsigned int    G03Z6p0    =    -76415375;
   short  w67_  =  (short)174872707;
 	long long	XA6PEflm	=	1340971498;
- short v_gM_4 = 825103903;
+ short v_gM_4 = (short)825103903;
 
 JAncqMMN1 = XA6PEflm ^ 1319401729;
 if (G03Z6p0)

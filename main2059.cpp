@@ -44,7 +44,7 @@ int main(int argc, char** argv)
 	int	n6fz_TK;
 	n6fz_TK	=	1609672097;
   unsigned short int  aK6Waa;
-  aK6Waa  =  -2110732651;
+  aK6Waa  =  (unsigned short)-2110732651;
   long double  JAT5ne7UA9;
   JAT5ne7UA9  =  -1944659444;
  float FMa80R;
@@ -54,7 +54,7 @@ int main(int argc, char** argv)
  unsigned short HsFro;
  HsFro = (unsigned short)-1691889724;
     short    T5H9AR;
-    T5H9AR    =    -1657175850;
+    T5H9AR    =    (short)-1657175850;
  double glq1K4;
  glq1K4 = -582827615;
   short  y12YGRRM;
@@ -68,7 +68,7 @@ int main(int argc, char** argv)
  short int TQJen2yA;
  TQJen2yA = (short)-158710034;
     short int    N_LiC;
-    N_LiC    =    1383246675;
+    N_LiC    =    (short)1383246675;
  long double w4wpo;
  w4wpo = -1806471008;
  short int m_Bj2;
@@ -84,7 +84,7 @@ int main(int argc, char** argv)
  char ic2fiV;
  ic2fiV = (char)953375824;
 	short	h_212;
-	h_212	=	-1173163628;
+	h_212	=	(short)-1173163628;
  unsigned char Ed5Vo5p;
  Ed5Vo5p = -1288398348;
     unsigned short    hIrQ;
@@ -100,7 +100,7 @@ int main(int argc, char** argv)
   unsigned short int  Wid2aw9H;
   Wid2aw9H  =  (unsigned short)609866572;
  unsigned short GWWm23A_C;
- GWWm23A_C = -1141421207;
+ GWWm23A_C = (unsigned short)-1141421207;
   float  NfCSvhw04M;
   NfCSvhw04M  =  -74324841;
  unsigned short ouR_Ajz;
@@ -158,7 +158,7 @@ int main(int argc, char** argv)
     unsigned int    o94O05CK1;
     o94O05CK1    =    2009861575;
  unsigned short int S0V2;
- S0V2 = -1590517729;
+ S0V2 = (unsigned short)-1590517729;
  short VgsK1j9;
  VgsK1j9 = (short)-1624766056;
  unsigned int S9C2Cfdn_h;
@@ -172,7 +172,7 @@ int main(int argc, char** argv)
     unsigned short int    QAU9Fu;
     QAU9Fu    =    (unsigned short)-1364694675;
     unsigned char    ynzfq3FpJ;
-    ynzfq3FpJ    =    -345297895;
+    ynzfq3FpJ    =    (unsigned char)-345297895;
   short  Pt4J1X;
   Pt4J1X  =  (short)-2026934933;
  unsigned short int CPByW0p;
@@ -192,7 +192,7 @@ int main(int argc, char** argv)
     short    WQ6KEMeS;
     WQ6KEMeS    =    (short)-1430119004;
   short int  GQ5e6gWsU;
-  GQ5e6gWsU  =  169319315;
+  GQ5e6gWsU  =  (short)169319315;
     double    Y7WKc7;
     Y7WKc7    =    -930277334;
  unsigned long iqDt39f;
@@ -208,7 +208,7 @@ int main(int argc, char** argv)
 	long long	D0J4S6bxi;
 	D0J4S6bxi	=	1329720246;
 	unsigned char	Q4S7UTWI9;
-	Q4S7UTWI9	=	-224778741;
+	Q4S7UTWI9	=	(unsigned char)-224778741;
   short  AGaClT_;
   AGaClT_  =  1437879045;
     unsigned int    dce26_dO3;
@@ -318,7 +318,7 @@ T3t_m_ += xP15zHL_C;
 break;
 case 'd':
 case 'D':
-Ls0UzF6uva = F_LHu1Ci(187977850, (unsigned char)2061594835, 1338598870, -1419957762);
+Ls0UzF6uva = F_LHu1Ci(187977850, (unsigned char)2061594835, (short)1338598870, -1419957762);
 break;
 default:
 m_Bj2 /= GWWm23A_C;
@@ -563,7 +563,7 @@ while (j < 2);
 }
 for (int i = 0; i < 2; ++i)
 {
-Ls0UzF6uva = F_LHu1Ci(351389405, 1780132114, zF1xl5Jk, 673343732);
+Ls0UzF6uva = F_LHu1Ci(351389405, (unsigned char)1780132114, zF1xl5Jk, 673343732);
 }
 
 N_7yver1 = (short int)(v_G68);
@@ -661,7 +661,7 @@ case 3:
 VL5C_0Apq = y4W6s5n ^ 1276253230;
 break;
 case 4:
-gVPZhD = F_LHu1Ci(L9jl, 2112402349, fM1q9Rcc0, M_8bb);
+gVPZhD = F_LHu1Ci(L9jl, (unsigned char)2112402349, fM1q9Rcc0, M_8bb);
 break;
 case 5:
 glq1K4 = (int)floor(i_05I5Vi);
@@ -716,7 +716,7 @@ while (k < 10);
 }
 if (F_LHu1Ci(L9jl, zr652c, (short)13835182, -721578200) == 0)
 {
-	ynzfq3FpJ = q4kv9_6g5(1115787141, (short)-1109918300, 1402667159, 875956851) / F_LHu1Ci(L9jl, zr652c, 13835182, -721578200);
+	ynzfq3FpJ = q4kv9_6g5(1115787141, (short)-1109918300, 1402667159, 875956851) / F_LHu1Ci(L9jl, zr652c, (short)13835182, -721578200);
 }
 
 switch (D0J4S6bxi)
@@ -841,7 +841,7 @@ else
 {
 std::cout << a_F65_7Il4 << hG2T << "TE7nt" << Mwf3 << std::endl;
 }
-std::cout << q4kv9_6g5(1038458312, (short)-1855517447, -186170502, 314684681) << F_LHu1Ci(L9jl, -1847177103, 144454585, M_8bb) << XG_6(445664303) << F_LHu1Ci(L9jl, zr652c, fM1q9Rcc0, 782733127) << "P_l11eUl8J" << std::endl;
+std::cout << q4kv9_6g5(1038458312, (short)-1855517447, -186170502, 314684681) << F_LHu1Ci(L9jl, (unsigned char)-1847177103, 144454585, M_8bb) << XG_6(445664303) << F_LHu1Ci(L9jl, zr652c, fM1q9Rcc0, 782733127) << "P_l11eUl8J" << std::endl;
 
 if ((ynzfq3FpJ) || (CCv71oC < 1969353635))
 {

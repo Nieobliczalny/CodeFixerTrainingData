@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
     char    aauY5TZimr    =    0;
   long double  p4bLx56S6a  =  1176266791;
 	short	jQqLKYaQ_	=	(short)-1849334184;
-    short    Uw_B    =    1696342841;
+    short    Uw_B    =    (short)1696342841;
 	unsigned short int	ksfcPdoA6v	=	0;
 
 switch (aauY5TZimr)
@@ -151,7 +151,7 @@ while (j >= 0)
 j--;
 if (x2CCxmtKN <= -1656902712)
 {
-p4bLx56S6a = I2E0Q((short)1375502984, (unsigned short)-125588054, -1269061909, 1798527166);
+p4bLx56S6a = I2E0Q((short)1375502984, (unsigned short)-125588054, (short)-1269061909, 1798527166);
 }
 else
 {

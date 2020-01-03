@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
     long long    Ne__enFruU;
     Ne__enFruU    =    2117500850;
 	short int	hr0L21GHO;
-	hr0L21GHO	=	-1204882495;
+	hr0L21GHO	=	(short)-1204882495;
  unsigned long long v7w9KZq;
  v7w9KZq = 1940273783;
     double    o4u9;
@@ -64,7 +64,7 @@ int main(int argc, char** argv) {
     short    MF70;
     MF70    =    (short)-1990095066;
   unsigned char  l0SHwZ1a45;
-  l0SHwZ1a45  =  1213623960;
+  l0SHwZ1a45  =  (unsigned char)1213623960;
 	long	KHo_d;
 	KHo_d	=	0;
  long long cVN2Z9gs;
@@ -86,7 +86,7 @@ int main(int argc, char** argv) {
   unsigned int  GM_EZ9t;
   GM_EZ9t  =  -1911651292;
   unsigned char  B92waNl7l6;
-  B92waNl7l6  =  1897057218;
+  B92waNl7l6  =  (unsigned char)1897057218;
 	int	qhv5;
 	qhv5	=	0;
   unsigned short  J2ff__;

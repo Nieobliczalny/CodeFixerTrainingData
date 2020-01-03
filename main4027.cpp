@@ -26,7 +26,7 @@ int main(int argc, char** argv)
     char    K4NMt_0r_    =    (char)2126958961;
   short int  ApS1  =  (short)1286635784;
 	unsigned long	ZhxRB_rJ	=	-1902090414;
- char faw_MmVz26 = -1871008915;
+ char faw_MmVz26 = (char)-1871008915;
 	long long	su2WU8pV5b	=	2099435346;
     float    lKJo    =    391559258;
  short int mMJdM6 = 0;
@@ -36,7 +36,7 @@ int main(int argc, char** argv)
   long double  qaj6Bdq7  =  -1990226344;
     short int    p_jYx34    =    (short)748130857;
  unsigned short m0dqvXi7 = (unsigned short)-1210032098;
- unsigned short u4aHx01W9 = 1205872691;
+ unsigned short u4aHx01W9 = (unsigned short)1205872691;
   int  d4t49_6Et_  =  -216904116;
     unsigned int    Kl89_58    =    289270629;
 	long	Y7kZD7Fw	=	177083672;
@@ -49,7 +49,7 @@ int main(int argc, char** argv)
   unsigned short int  bp__4Ec  =  (unsigned short)-168384375;
     float    zOpv4I1BNK    =    -371658300;
   long  AI0s5  =  -1798359591;
-  char  atH2_3R  =  -621181312;
+  char  atH2_3R  =  (char)-621181312;
   unsigned long long  b6SLZG_W  =  -1756198133;
 	unsigned short int	rOoYB	=	1389733720;
 	double	Hi82	=	-1174024233;
@@ -60,7 +60,7 @@ int main(int argc, char** argv)
     unsigned short    HL2TwT    =    -2052761687;
     char    w_4PdN6UW    =    1313119749;
     long long    x0lo6GvQ2S    =    -572306974;
-	unsigned short int	Zg_Ys9	=	-297428051;
+	unsigned short int	Zg_Ys9	=	(unsigned short)-297428051;
  unsigned int g7RoG6 = 54100831;
   char  SOWioL  =  -821912669;
 	long	yU38ys0c	=	686967279;
@@ -74,7 +74,7 @@ int main(int argc, char** argv)
     double    Rfy4Sbk    =    -780927544;
   int  PJU3YTdN2o  =  -1913324621;
   float  H9FG  =  1914197877;
-	unsigned char	fe8_z5	=	-920173179;
+	unsigned char	fe8_z5	=	(unsigned char)-920173179;
 	long	ADGz_H_3	=	-1344061993;
 	short	G24Vx	=	0;
   unsigned char  Z26Y8e94f5  =  -1398796576;
@@ -87,7 +87,7 @@ int main(int argc, char** argv)
   unsigned short  NM1K8r5CR9  =  (unsigned short)345312740;
  long double o20lD5w3 = 1954091368;
   long double  aP2W2a3EG_  =  699571606;
-    unsigned short int    z66P2    =    585132139;
+    unsigned short int    z66P2    =    (unsigned short)585132139;
  short me56dsk_H = 846875488;
   long double  QL0l91dG  =  -630359371;
  unsigned char S1jqJ_X3 = -116290211;
@@ -529,7 +529,7 @@ case 0:
 rOoYB = fC7__o144o((char)-2031490724, 1684637529, (char)1496887263);
 break;
 case 1:
-x2FE = QTmN2c_4(-1530385072, 1103535598);
+x2FE = QTmN2c_4((char)-1530385072, 1103535598);
 break;
 case 2:
 mz_PV25 = fC7__o144o(mz_PV25, -1629211589, -1458382842);

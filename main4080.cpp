@@ -31,7 +31,7 @@ int main(void)
  long long ekOHcD = 0;
 	unsigned long	sEMwz2	=	-1725575035;
   long double  IK4O2P  =  1760108701;
-  unsigned short int  YEyiXFEcdD  =  -1197973890;
+  unsigned short int  YEyiXFEcdD  =  (unsigned short)-1197973890;
     unsigned long    c5Ji2h1    =    -694182396;
   unsigned long  CK5bCQ  =  -38434348;
 	short int	gG9p173	=	(short)2072718649;

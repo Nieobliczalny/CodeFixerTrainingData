@@ -47,7 +47,7 @@ twnlW_fsW = (short)(UGn5VqtV);
 while (i >= 0);
 }
 
-cout << r8bW(-369303829, Q72io1MB, 113862728, y9I_YM775F, ovvu0) << UGn5VqtV << r8bW(-1880837585, (unsigned short)-485714340, UGn5VqtV, y9I_YM775F, ovvu0) << EQ__((unsigned short)-737500360, Q72io1MB) << EQ__(-620654836, Q72io1MB) << endl;
+cout << r8bW(-369303829, Q72io1MB, 113862728, y9I_YM775F, ovvu0) << UGn5VqtV << r8bW(-1880837585, (unsigned short)-485714340, UGn5VqtV, y9I_YM775F, ovvu0) << EQ__((unsigned short)-737500360, Q72io1MB) << EQ__((unsigned short)-620654836, Q72io1MB) << endl;
 
 Wss7ZZt8K %= twnlW_fsW;
 F6OsW = hgq8G42W % 1021041468;
@@ -329,7 +329,7 @@ twnlW_fsW &= i02f;
 break;
 }
 
-whW_10B = (i8oZj4tkkj <= -404142462) ? EQ__((unsigned short)-651949075, 1081234641) : 1813554874;
+whW_10B = (i8oZj4tkkj <= -404142462) ? EQ__((unsigned short)-651949075, 1081234641) : (short)1813554874;
 
 switch (H2sL_5gK4)
 {

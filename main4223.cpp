@@ -203,7 +203,7 @@ case 1:
 jC7JM = Amx_HW17zS((unsigned short)922454935);
 break;
 case 2:
-jC7JM = Amx_HW17zS(1832240984);
+jC7JM = Amx_HW17zS((unsigned short)1832240984);
 break;
 case 3:
 Li8UB1PkT = Amx_HW17zS(Li8UB1PkT);

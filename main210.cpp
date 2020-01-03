@@ -22,7 +22,7 @@ int main(int argc, char** argv)
 cout << CsAQlk << "r193" << endl;
 cout << L1Vy3(GpRYW5Qc2W, TNVG6, JDOq50y) << M7NHEeV0(360758770, TNVG6, JDOq50y, (unsigned short)1779230044, 1445483602) << "eDVbt" << V_w4 << dsfjD << endl;
 
-cout << QvTf8fVUy << M7NHEeV0(GpRYW5Qc2W, TNVG6, -1129841870, -222481292, yE5_xk) << L1Vy3(GpRYW5Qc2W, 688304754, 15161223) << "tUMa" << sTSja0N4_ << endl;
+cout << QvTf8fVUy << M7NHEeV0(GpRYW5Qc2W, TNVG6, -1129841870, (unsigned short)-222481292, yE5_xk) << L1Vy3(GpRYW5Qc2W, 688304754, 15161223) << "tUMa" << sTSja0N4_ << endl;
 
 if (hf5EZ9XA4 < -206059880)
 {
@@ -48,7 +48,7 @@ case 1:
 eHvx = M7NHEeV0(eHvx, ZTdO3g, 1556518182, tBMia0SA_D, 1051910484);
 break;
 case 2:
-C5Zn2JyxJ = L1Vy3(lV99u57, 744071417, J7lS);
+C5Zn2JyxJ = L1Vy3(lV99u57, (unsigned short)744071417, J7lS);
 break;
 case 3:
 U7ef8 = foQ4q << Nf8aTg;
@@ -210,7 +210,7 @@ Nf8aTg /= 1354877886;
 cout << "X4y2ay4G9g" << L1Vy3(L1m_w94MY, (unsigned short)880117268, (unsigned char)883784791) << "Ioi5aXCkk" << endl;
 qBL_a = (unsigned short int)(ai0Ut);
 
-cout << M1IaTa3 << J7lS << L1Vy3(-1166762904, -1263013487, sDmas) << "QZ5Y3u7" << L1Vy3(L1m_w94MY, -1057068314, sDmas) << endl;
+cout << M1IaTa3 << J7lS << L1Vy3((unsigned short)-1166762904, -1263013487, sDmas) << "QZ5Y3u7" << L1Vy3(L1m_w94MY, -1057068314, sDmas) << endl;
 for (int i = 0; i < 9; ++i)
 {
 j4BK8k = (unsigned short int)(RaZfFziRZ0);
@@ -277,7 +277,7 @@ dsfjD = M7NHEeV0(1949918051, 2016668575, V3XLU9Sa, (unsigned short)-1832438384, 
 }
 
 cout << Jmkx8_ << "Ek1O0i" << "bV2xg" << endl;
-C5Zn2JyxJ = L1Vy3((unsigned short)1306333853, -1049373926, 644043025);
+C5Zn2JyxJ = L1Vy3((unsigned short)1306333853, (unsigned short)-1049373926, 644043025);
 
 if (((C5Zn2JyxJ < DF33) || (eHvx > PVE96f)) && ((nNVgg5 < TNVG6) && (eHvx > -1521738844)))
 {
@@ -314,7 +314,7 @@ ZTdO3g = M7NHEeV0(1317323126, yE5_xk, j4BK8k, (unsigned short)-1903424881, IXvCs
 }
 else if (mq_ILR != PVE96f)
 {
-C5Zn2JyxJ = L1Vy3(U7ef8, -1341353496, 969429827);
+C5Zn2JyxJ = L1Vy3(U7ef8, (unsigned short)-1341353496, 969429827);
 }
 else
 {
@@ -361,7 +361,7 @@ switch (r4cCRF)
 {
 case 'a':
 case 'A':
-C5Zn2JyxJ = L1Vy3((unsigned short)-1402255887, (unsigned short)-1610234657, -1339857079);
+C5Zn2JyxJ = L1Vy3((unsigned short)-1402255887, (unsigned short)-1610234657, (unsigned char)-1339857079);
 break;
 case 'b':
 case 'B':

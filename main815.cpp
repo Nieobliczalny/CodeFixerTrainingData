@@ -31,7 +31,7 @@ int main(int argc, char** argv)
     short    r0XlG2LDF;
     r0XlG2LDF    =    (short)-693866581;
   unsigned short  g2673S;
-  g2673S  =  739944108;
+  g2673S  =  (unsigned short)739944108;
     unsigned short    MOvonMu6O;
     MOvonMu6O    =    760880095;
 	float	ywB0VmKlP;
@@ -73,7 +73,7 @@ int main(int argc, char** argv)
  short int p73s1v7E;
  p73s1v7E = (short)-1522835596;
 	unsigned short	W5Oi;
-	W5Oi	=	556899423;
+	W5Oi	=	(unsigned short)556899423;
     char    sTmB2;
     sTmB2    =    199525410;
 	char	I8__8u7_23;
@@ -139,7 +139,7 @@ int main(int argc, char** argv)
  short G7r50au5B;
  G7r50au5B = 0;
     short    o_oYak9;
-    o_oYak9    =    -894336063;
+    o_oYak9    =    (short)-894336063;
   unsigned short  AKsVG;
   AKsVG  =  (unsigned short)1205943025;
  short eU3_f;
@@ -149,7 +149,7 @@ int main(int argc, char** argv)
  unsigned short Czm2;
  Czm2 = (unsigned short)447349187;
  unsigned char kutmH;
- kutmH = 518670407;
+ kutmH = (unsigned char)518670407;
   unsigned int  O_7P;
   O_7P  =  -1410560566;
 

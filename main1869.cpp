@@ -23,7 +23,7 @@ for (int i = 0; i < 5; i++)
 int j = 4;
 do
 {
-ddM2nni = BeMR(-1303433724, (short)276050438, -500661146);
+ddM2nni = BeMR(-1303433724, (short)276050438, (char)-500661146);
 j--;
 }
 while (j >= 0);
@@ -132,7 +132,7 @@ fUBY_8 = TF506rB1Lc(uWYD9ni406, -791079227, (char)-1091813760, McW8kt4Nr, f74x) 
 }
 else if (mGL5c)
 {
-Muy38H4555 = BeMR(-367544038, (short)-1439977748, -1471336781);
+Muy38H4555 = BeMR(-367544038, (short)-1439977748, (char)-1471336781);
 }
 else
 {
@@ -166,7 +166,7 @@ N1C2Pd7_ = (vHA__BD) ? Du3P4 : TF506rB1Lc((unsigned char)-93681837, j38Ag8P, B1k
 }
 else if (H50K == -857684150)
 {
-SXMM4j0c = BeMR(Q6bh, -1446713986, 1358361345);
+SXMM4j0c = BeMR(Q6bh, (short)-1446713986, 1358361345);
 }
 else
 {
@@ -204,7 +204,7 @@ case 'a':
 q1TRmj = PMUKPjb ^ E0xScUP;
 break;
 case 'b':
-h24TaWI215 = TF506rB1Lc((unsigned char)138733438, M60mmYFo, (char)963660851, 1633755574, -120638151);
+h24TaWI215 = TF506rB1Lc((unsigned char)138733438, M60mmYFo, (char)963660851, 1633755574, (char)-120638151);
 break;
 case 'c':
 EJ17E6T_z = (int)abs(McW8kt4Nr);
@@ -223,7 +223,7 @@ ddM2nni = BeMR(-677377990, (short)-599228237, fUBY_8);
 }
 else if ((TQ6c8 != pni41J2s2) || (dq6r > 2092180652))
 {
-m19duxNdN = TF506rB1Lc((unsigned char)-78936146, -1151389916, EJ17E6T_z, Du3P4, 425181030);
+m19duxNdN = TF506rB1Lc((unsigned char)-78936146, -1151389916, EJ17E6T_z, Du3P4, (char)425181030);
 }
 else
 {
@@ -244,7 +244,7 @@ case 0:
 Zb3W1AM0ik = Zb3W1AM0ik & 1849200815;
 break;
 case 1:
-dq6r = TF506rB1Lc((unsigned char)904439474, f74x, (char)679693351, Zb3W1AM0ik, -988193675);
+dq6r = TF506rB1Lc((unsigned char)904439474, f74x, (char)679693351, Zb3W1AM0ik, (char)-988193675);
 break;
 case 2:
 M60mmYFo = TF506rB1Lc(1946107988, E0G72CX1K, -849915856, 775894507, -1254372759);
@@ -286,7 +286,7 @@ if (f2Ib45Q2O >= 377684804)
 {
 std::cout << "mrO1a9" << q_11CJ << f74x << "c72Fr7PG67" << e0zSLa1 << std::endl;
 }
-std::cout << BeMR(-573125181, (short)-1060436050, (char)-866250630) << h24TaWI215 << Zb3W1AM0ik << TF506rB1Lc(-78958248, McW8kt4Nr, EJ17E6T_z, 1522320721, PMUKPjb) << TF506rB1Lc(pni41J2s2, McW8kt4Nr, EJ17E6T_z, nf6Jl6Nb, -212167365) << std::endl;
+std::cout << BeMR(-573125181, (short)-1060436050, (char)-866250630) << h24TaWI215 << Zb3W1AM0ik << TF506rB1Lc((unsigned char)-78958248, McW8kt4Nr, EJ17E6T_z, 1522320721, PMUKPjb) << TF506rB1Lc(pni41J2s2, McW8kt4Nr, EJ17E6T_z, nf6Jl6Nb, -212167365) << std::endl;
 return 0;
 }
 

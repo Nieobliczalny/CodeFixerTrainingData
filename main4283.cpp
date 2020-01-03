@@ -50,7 +50,7 @@ int main() {
 	unsigned long long	S_lsP_;
 	S_lsP_	=	-402751892;
 	unsigned short int	uEfB52lqv6;
-	uEfB52lqv6	=	-333846113;
+	uEfB52lqv6	=	(unsigned short)-333846113;
 	short int	Jd_G1;
 	Jd_G1	=	(short)395908868;
     unsigned int    C2Tu9O3;
@@ -78,7 +78,7 @@ int main() {
  short m3hmA8u;
  m3hmA8u = (short)-1858697794;
   short  q6mGHJ4J;
-  q6mGHJ4J  =  -1926152882;
+  q6mGHJ4J  =  (short)-1926152882;
   short int  W3Yn_ud4;
   W3Yn_ud4  =  (short)-1865550697;
 	unsigned short	x787f;
@@ -94,7 +94,7 @@ int main() {
 	unsigned short int	Ooh0x;
 	Ooh0x	=	(unsigned short)-1646571605;
   short int  X5i4OGFTwB;
-  X5i4OGFTwB  =  -500169137;
+  X5i4OGFTwB  =  (short)-500169137;
 	short int	Oc33jd;
 	Oc33jd	=	1854378661;
   long  I_72i_4Eks;
@@ -126,7 +126,7 @@ int main() {
  int LNMp629_;
  LNMp629_ = -1393294044;
   short  t9oAfZ2;
-  t9oAfZ2  =  -1345049403;
+  t9oAfZ2  =  (short)-1345049403;
   long double  O2oPR;
   O2oPR  =  375226009;
  float V_r7a7;
@@ -136,7 +136,7 @@ int main() {
  unsigned char qul_1;
  qul_1 = (unsigned char)1592049044;
 	unsigned char	O57jUP4xj;
-	O57jUP4xj	=	1071091660;
+	O57jUP4xj	=	(unsigned char)1071091660;
 	double	pL28;
 	pL28	=	2089035495;
 
@@ -284,7 +284,7 @@ case 2:
 j9_lZuR1q2 = J0S0J(1604606928, ZSV3H_07MO);
 break;
 case 3:
-S_lsP_ = DMM2(1065471728, 1899097858) >> xBjZz2V2M;
+S_lsP_ = DMM2(1065471728, (unsigned short)1899097858) >> xBjZz2V2M;
 break;
 default:
 zWVa = (int)floor(V_r7a7);

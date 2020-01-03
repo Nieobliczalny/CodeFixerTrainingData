@@ -136,7 +136,7 @@ kki5miMuh *= hB2AIE;
 }
 }
 
-std::cout << Dw4hgHt(1188885403, (short)-770077555, S59iW) << Dw4hgHt(516093066, (short)990802419, 1528171051) << XH1zsMDrS5(E4r_aUTvq, -1133532496, -237561811) << "KM0m6AHL" << N0Ht << std::endl;
+std::cout << Dw4hgHt(1188885403, (short)-770077555, S59iW) << Dw4hgHt(516093066, (short)990802419, 1528171051) << XH1zsMDrS5(E4r_aUTvq, (unsigned short)-1133532496, -237561811) << "KM0m6AHL" << N0Ht << std::endl;
 if (sZR6Z_r_Z <= gPvtTkx)
 {
 for (int j = 0; j < 1; ++j)

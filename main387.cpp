@@ -43,7 +43,7 @@ int main(int argc, char** argv) {
     short    QoUD2HtC;
     QoUD2HtC    =    (short)-692746265;
   short  Gjb32m;
-  Gjb32m  =  984750035;
+  Gjb32m  =  (short)984750035;
     long    UmQHVkrR;
     UmQHVkrR    =    -508188338;
     int    rLEoJZfM6;
@@ -65,7 +65,7 @@ int main(int argc, char** argv) {
  unsigned short M_0iHicd;
  M_0iHicd = (unsigned short)-598707706;
 	unsigned short int	g_810q;
-	g_810q	=	244455428;
+	g_810q	=	(unsigned short)244455428;
     unsigned long long    Uo6nx8RsM;
     Uo6nx8RsM    =    1665471876;
 	short	w5oQ693;
@@ -75,7 +75,7 @@ int main(int argc, char** argv) {
     char    g3qb;
     g3qb    =    (char)-392891812;
 	short	R55m;
-	R55m	=	-1586169759;
+	R55m	=	(short)-1586169759;
   unsigned short  ZAxL7u;
   ZAxL7u  =  2030028739;
  float DvAy;
@@ -153,7 +153,7 @@ int main(int argc, char** argv) {
   short int  paX8f;
   paX8f  =  (short)34346108;
     char    ir0wKUa1t;
-    ir0wKUa1t    =    -892491301;
+    ir0wKUa1t    =    (char)-892491301;
  long V7n2CUu;
  V7n2CUu = -225271008;
     float    Bz14R;
@@ -173,7 +173,7 @@ int main(int argc, char** argv) {
     unsigned short    Q70WwaCb_w;
     Q70WwaCb_w    =    (unsigned short)-386120655;
  unsigned char H2cm3P28N;
- H2cm3P28N = -349785179;
+ H2cm3P28N = (unsigned char)-349785179;
 	unsigned char	a2qo32W;
 	a2qo32W	=	-868041743;
 
@@ -333,7 +333,7 @@ case 1:
 SkmI7 = StVt18skc7(SkmI7, DEYi, H2cm3P28N);
 break;
 case 2:
-E2E9uu = y3Dk797ra((unsigned char)-150627751, -518371410);
+E2E9uu = y3Dk797ra((unsigned char)-150627751, (char)-518371410);
 break;
 case 3:
 lT97 = (int)ceil(Gi__qTkY1);
@@ -513,7 +513,7 @@ Wd5O %= 539780706;
 }
 else if (D5R7_9O8 != 2121705946)
 {
-std::cout << "EiIeOnnFZn" << "P58I38yj3" << y3Dk797ra((unsigned char)-1509000925, psR5Nn8Y) << L2bphvn(M_0iHicd, 1497614495) << "UE_ABnR" << std::endl;
+std::cout << "EiIeOnnFZn" << "P58I38yj3" << y3Dk797ra((unsigned char)-1509000925, psR5Nn8Y) << L2bphvn(M_0iHicd, (short)1497614495) << "UE_ABnR" << std::endl;
 }
 else
 {

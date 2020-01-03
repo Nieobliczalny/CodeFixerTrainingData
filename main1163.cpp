@@ -19,7 +19,7 @@ unsigned short fY07IUBpbT(short jb_r) {
 int main(void)
 {
     unsigned short    wj_38_MvD    =    (unsigned short)1301089514;
-    unsigned char    lM8cK9s    =    -804577050;
+    unsigned char    lM8cK9s    =    (unsigned char)-804577050;
     short    H5R98    =    1197082866;
   unsigned long long  D0Z7KONT  =  -36859262;
     unsigned long long    JsYv7    =    1359341895;
@@ -35,7 +35,7 @@ int main(void)
   long double  xqQRnEi0  =  -898708045;
     short int    Pl6JGTBPT    =    (short)128020178;
     unsigned long long    CH60B    =    1757887276;
- short int D9Md = 4399508;
+ short int D9Md = (short)4399508;
  float arpItp5o = -1947790587;
  int yJtr = 668493402;
  long long FZ_88W8FKf = 2107991190;
@@ -45,7 +45,7 @@ int main(void)
  unsigned char x7q0O_MG83 = 1172926454;
   unsigned short  t5_9Fx  =  (unsigned short)-1032696418;
     float    iER8R    =    1700640692;
-    unsigned short    M_i13    =    1968513159;
+    unsigned short    M_i13    =    (unsigned short)1968513159;
     long long    BV_2kmII    =    1862163387;
   long  vV5DjUL9HS  =  -982473563;
     long double    iM_2    =    -1197102200;
@@ -55,7 +55,7 @@ int main(void)
 	float	shNE	=	18899810;
 	char	TuL7AE379	=	(char)1954210754;
   char  Uc62l  =  -1141718975;
-    char    f46Kdnl    =    -118480570;
+    char    f46Kdnl    =    (char)-118480570;
   unsigned long  Kt2z2kcHc_  =  616625821;
   unsigned int  i1UDxPu6F  =  -1622712036;
 	double	xIn0B	=	-188038446;
@@ -72,7 +72,7 @@ int main(void)
 	unsigned long	U5kt	=	1953712401;
 	float	qshG1G3A5	=	616585700;
 
-std::cout << gt1j9((unsigned short)-995801533, D0Z7KONT, 53614387) << fY07IUBpbT(-2108370868) << d082z6 << std::endl;
+std::cout << gt1j9((unsigned short)-995801533, D0Z7KONT, (unsigned char)53614387) << fY07IUBpbT(-2108370868) << d082z6 << std::endl;
 
 if ((shNE >= -303988995) || ((arpItp5o > oa17u1XvP) && (wj_38_MvD > -411889204)))
 {
@@ -381,7 +381,7 @@ case 7:
 hW63_z7O = gt1j9((unsigned short)1213749295, E3yNpnL6V, i1UDxPu6F);
 break;
 case 8:
-hW63_z7O = gt1j9((unsigned short)1655094507, xqQRnEi0, 1110621952);
+hW63_z7O = gt1j9((unsigned short)1655094507, xqQRnEi0, (unsigned char)1110621952);
 break;
 case 9:
 JsYv7 = fY07IUBpbT(JsYv7);
@@ -606,7 +606,7 @@ Dl9a9k9G = (int)abs(oa17u1XvP);
 
 xqQRnEi0 = (int)floor(qshG1G3A5);
 
-std::cout << gt1j9((unsigned short)-1134870162, 201869913, JsYv7) << R4_6qT << gt1j9((unsigned short)1088840680, D9Md, 851181721) << "tlSE15L" << std::endl;
+std::cout << gt1j9((unsigned short)-1134870162, 201869913, JsYv7) << R4_6qT << gt1j9((unsigned short)1088840680, D9Md, (unsigned char)851181721) << "tlSE15L" << std::endl;
 if (yJtr & Dl9a9k9G)
 {
 M_i13 = lP764fA37y % 1754396074;

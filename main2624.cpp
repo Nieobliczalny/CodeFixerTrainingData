@@ -65,7 +65,7 @@ std::cout << SM492G9ZV(pSJ7EPB, yWnA, -1940516366, DQEj9h7, GXTpCvoq) << SM492G9
 }
 else
 {
-std::cout << "wQ7G4_7x54" << Q0_Hg << SM492G9ZV(pSJ7EPB, 424775468, 897162809, -537991839, (unsigned short)-1099375263) << SM492G9ZV(-108073725, 1211089281, -1681989618, DQEj9h7, GXTpCvoq) << x0GhB << std::endl;
+std::cout << "wQ7G4_7x54" << Q0_Hg << SM492G9ZV(pSJ7EPB, 424775468, 897162809, -537991839, (unsigned short)-1099375263) << SM492G9ZV((unsigned char)-108073725, 1211089281, -1681989618, DQEj9h7, GXTpCvoq) << x0GhB << std::endl;
 }
 
 try
@@ -117,7 +117,7 @@ else if (JABGYSzC != fNEVaZ35nj)
 {
 if (qVcq < pSJ7EPB)
 {
-B170 = SM492G9ZV(DQEj9h7, a0DXM717cU, -1123650433, aUBB, -1859434308);
+B170 = SM492G9ZV(DQEj9h7, a0DXM717cU, -1123650433, aUBB, (unsigned short)-1859434308);
 }
 else
 {
@@ -231,7 +231,7 @@ B170 = SM492G9ZV((unsigned char)-1779453446, qVcq, -699458026, BF47, eI08lTN);
 break;
 case 'h':
 case 'H':
-B170 = SM492G9ZV(a0DXM717cU, 909376689, -1124644371, 212576292, 301245010);
+B170 = SM492G9ZV(a0DXM717cU, 909376689, -1124644371, 212576292, (unsigned short)301245010);
 break;
 case 'i':
 case 'I':
@@ -336,7 +336,7 @@ int j = 7;
 while (j >= 0)
 {
 --j;
-std::cout << SM492G9ZV((unsigned char)-898249423, -1229474638, J6t7, eI08lTN, (unsigned short)1892806569) << fw9_uAN << SM492G9ZV(a7Z1, -1918600216, J6t7, eI08lTN, 1078358449) << std::endl;
+std::cout << SM492G9ZV((unsigned char)-898249423, -1229474638, J6t7, eI08lTN, (unsigned short)1892806569) << fw9_uAN << SM492G9ZV(a7Z1, -1918600216, J6t7, eI08lTN, (unsigned short)1078358449) << std::endl;
 }
 }
 }
@@ -378,7 +378,7 @@ case 'c':
 UhY1 = (int)abs(M8kNjo4);
 break;
 default:
-UhY1 = SM492G9ZV((unsigned char)-1583857934, 802619783, -407541952, 1807589001, -869538390);
+UhY1 = SM492G9ZV((unsigned char)-1583857934, 802619783, -407541952, 1807589001, (unsigned short)-869538390);
 break;
 }
 }
@@ -397,7 +397,7 @@ case 1:
 M8kNjo4 = (int)abs(x0GhB);
 break;
 case 2:
-UhY1 = SM492G9ZV((unsigned char)576606287, NKlHWp, o2M_7B4, -84996450, -454427748);
+UhY1 = SM492G9ZV((unsigned char)576606287, NKlHWp, o2M_7B4, -84996450, (unsigned short)-454427748);
 break;
 case 3:
 Gr_5E8i4i = Q0_Hg >> V1vgmN;
@@ -597,7 +597,7 @@ UhY1 = SM492G9ZV(657959983, KT97R9yR, iVN8V1W68, ahrP5_O, UhY1);
 i--;
 }
 }
-std::cout << "Cl2t5_e" << SM492G9ZV((unsigned char)544360111, 1606314516, -197613333, ahrP5_O, UhY1) << SM492G9ZV((unsigned char)-1276879991, -577117924, 2130117649, -640976411, 437881742) << SM492G9ZV(-1001454916, KT97R9yR, 1642296543, -856554615, UhY1) << GXTpCvoq << std::endl;
+std::cout << "Cl2t5_e" << SM492G9ZV((unsigned char)544360111, 1606314516, -197613333, ahrP5_O, UhY1) << SM492G9ZV((unsigned char)-1276879991, -577117924, 2130117649, -640976411, (unsigned short)437881742) << SM492G9ZV(-1001454916, KT97R9yR, 1642296543, -856554615, UhY1) << GXTpCvoq << std::endl;
 std::cout << "p7QC" << "VQ9ZZU1" << bK0sA << fNEVaZ35nj << std::endl;
 
 if (Gr_5E8i4i > -1253862641)

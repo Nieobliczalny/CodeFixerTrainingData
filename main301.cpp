@@ -34,7 +34,7 @@ int main(void)
   long long  Vv894Yl;
   Vv894Yl  =  292432762;
 	unsigned char	CV8TVd3L;
-	CV8TVd3L	=	-935055373;
+	CV8TVd3L	=	(unsigned char)-935055373;
     float    K7g2D1;
     K7g2D1    =    149985329;
 	unsigned char	Y8_U;
@@ -44,7 +44,7 @@ int main(void)
 	unsigned short int	i98SxY8mGD;
 	i98SxY8mGD	=	(unsigned short)-1186088286;
  unsigned short ayp10jLuU;
- ayp10jLuU = -897955518;
+ ayp10jLuU = (unsigned short)-897955518;
  unsigned long long lkT7U;
  lkT7U = -1581183634;
     unsigned long long    NfvtaS20;
@@ -82,7 +82,7 @@ int main(void)
   short  ZF7j__;
   ZF7j__  =  (short)-1462093040;
  unsigned short int r31A0Ba_fJ;
- r31A0Ba_fJ = 1976737708;
+ r31A0Ba_fJ = (unsigned short)1976737708;
 	long double	tC76Q2;
 	tC76Q2	=	-1269716778;
   unsigned short int  uMkteX;
@@ -94,7 +94,7 @@ int main(void)
 	unsigned int	bi2uu1;
 	bi2uu1	=	823562264;
  unsigned char lW8zv;
- lW8zv = -2108981413;
+ lW8zv = (unsigned char)-2108981413;
     char    fgj3Z7i_k;
     fgj3Z7i_k    =    (char)-709414928;
  unsigned int KrQ3L;
@@ -120,7 +120,7 @@ int main(void)
  short int Ep69o2zw0h;
  Ep69o2zw0h = (short)-716332745;
 	short int	bODT128fps;
-	bODT128fps	=	-730082035;
+	bODT128fps	=	(short)-730082035;
  long ZuM80zj3VA;
  ZuM80zj3VA = -672413440;
     unsigned short    H6t9AIJAdX;
@@ -140,7 +140,7 @@ int main(void)
   long  D5_Et;
   D5_Et  =  -614535609;
 
-bODT128fps = d414(bODT128fps, -2020994931, (unsigned char)761879318, Ud_9_UM2, 1172676831);
+bODT128fps = d414(bODT128fps, -2020994931, (unsigned char)761879318, Ud_9_UM2, (unsigned char)1172676831);
 S3ne3 = Vv894Yl / qCa95djK2N;
 if ((Hz1Ma40HD < 1731308994) && (qAkps >= Tz2W0))
 {

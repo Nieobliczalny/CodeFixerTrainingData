@@ -17,7 +17,7 @@ int main(int argc, char** argv)
  long double ri9O = -609854380;
   short int  pyyx42f  =  (short)567278914;
   double  od_s1b  =  -782382264;
-  short  y9sJV478zD  =  -1707067721;
+  short  y9sJV478zD  =  (short)-1707067721;
     unsigned long    yet8MQg    =    -1033158992;
 	long long	P2E5LPcd1X	=	702404967;
     unsigned long    Exu8UN3h    =    308166414;
@@ -30,7 +30,7 @@ int main(int argc, char** argv)
   short int  e087qo  =  (short)852222611;
     unsigned long    Yt2pt    =    1096456307;
  unsigned short int Z794Afut5 = (unsigned short)273014245;
-    unsigned short    PA5IW7ge2    =    -379120127;
+    unsigned short    PA5IW7ge2    =    (unsigned short)-379120127;
 	unsigned short	aXr6Zh4pB	=	-1444144045;
 	short int	D_YvmK	=	-66601153;
   unsigned short int  flnB7z37  =  -1457025809;
@@ -43,7 +43,7 @@ int main(int argc, char** argv)
     double    bD0mH0wt    =    1085509942;
     unsigned char    UgL9e    =    0;
   unsigned int  xW__Lt7W2A  =  -714717629;
- short E6TR4v1 = -719530278;
+ short E6TR4v1 = (short)-719530278;
     int    sfWi0ixR    =    -2027652901;
  long Bh36WqRuE = 12691957;
     float    Aca74omF    =    1629082307;
@@ -64,7 +64,7 @@ int main(int argc, char** argv)
 	int	ZDTckcex5	=	1531363328;
     unsigned long    k33xGDU    =    -1107668035;
   char  tGm57BG1  =  (char)678506989;
-    unsigned short    kl0Y57    =    -122263235;
+    unsigned short    kl0Y57    =    (unsigned short)-122263235;
     unsigned char    g3K2__p    =    1246616416;
   short  VU58TeQG  =  -1299589909;
   long  Y1jni5  =  1763217368;
@@ -76,7 +76,7 @@ int main(int argc, char** argv)
 	float	I3s_O_03	=	-646930859;
   double  u4E5S  =  -728196882;
 	unsigned short	gug78j	=	(unsigned short)877833694;
- unsigned char ZATJ488v2u = 1514952968;
+ unsigned char ZATJ488v2u = (unsigned char)1514952968;
  int mg9vL7gO = -1834879606;
   unsigned int  l861112_u  =  -1766411627;
     long double    eFO8Wi8    =    -24173757;
@@ -89,7 +89,7 @@ int main(int argc, char** argv)
  short Z4n6E = (short)-1194656594;
   int  Z8_I15  =  -1895972376;
     unsigned long    ks6v    =    -1289552136;
- unsigned short int H3g41A = 2014224937;
+ unsigned short int H3g41A = (unsigned short)2014224937;
  short int XoxY6 = (short)-249553980;
 	double	p3E5cPeKfo	=	1324570151;
   unsigned char  qvT5z  =  0;
@@ -107,7 +107,7 @@ int main(int argc, char** argv)
   short  c72_  =  (short)-11159020;
     unsigned long    eBMf    =    511097812;
   long  MtGmg  =  -2107609286;
-	unsigned char	tuJv5_a_	=	500638475;
+	unsigned char	tuJv5_a_	=	(unsigned char)500638475;
  short int SSLvBp4E6 = -1676562964;
 
 try
@@ -154,7 +154,7 @@ UgL9e = OvOW12(p3E5cPeKfo, g3K2__p, -648041552, HgV0L7_zZ, (short)-1957118194);
 break;
 case 'g':
 case 'G':
-qvT5z = OvOW12((unsigned char)-285016720, p3E5cPeKfo, UTQ1eiFo, eBMf, 1612929356);
+qvT5z = OvOW12((unsigned char)-285016720, p3E5cPeKfo, UTQ1eiFo, eBMf, (short)1612929356);
 break;
 case 'h':
 case 'H':
@@ -260,7 +260,7 @@ case 'e':
 sw9D_ >>= qw94r;
 break;
 case 'f':
-g3K2__p = OvOW12(-629686600, Fr63u_, VJ9y05, 1823587364, -1794427162) ^ 582238563;
+g3K2__p = OvOW12((unsigned char)-629686600, Fr63u_, VJ9y05, 1823587364, -1794427162) ^ 582238563;
 break;
 case 'g':
 jx_M9U = (int)abs(J60b91w89);
@@ -302,7 +302,7 @@ case 0:
 UgL9e = OvOW12((unsigned char)1483081724, Y1jni5, -27483701, -1580834044, (short)-1357960734);
 break;
 case 1:
-qvT5z = OvOW12(-1356872278, Exu8UN3h, EngUz, -1686841204, 629304744);
+qvT5z = OvOW12((unsigned char)-1356872278, Exu8UN3h, EngUz, -1686841204, 629304744);
 break;
 case 2:
 O9Of = (int)floor(bD0mH0wt);
@@ -320,7 +320,7 @@ case 6:
 UgL9e = OvOW12((unsigned char)438131281, a0wf2T, l861112_u, -1663978959, (short)1598751695);
 break;
 case 7:
-qw94r = OvOW12(upE7IDQb, a0wf2T, 1198724394, zKfm11, -527575602) >> n3xD;
+qw94r = OvOW12(upE7IDQb, a0wf2T, 1198724394, zKfm11, (short)-527575602) >> n3xD;
 break;
 case 8:
 xGZ091Gc = (int)floor(X4ga15);
@@ -630,7 +630,7 @@ case 2:
 qvT5z = OvOW12(QB4h2x7nXe, yet8MQg, -1214363974, -310197463, (short)592374155);
 break;
 default:
-qvT5z = OvOW12(QB4h2x7nXe, HgV0L7_zZ, -275510359, yet8MQg, 2013027778);
+qvT5z = OvOW12(QB4h2x7nXe, HgV0L7_zZ, -275510359, yet8MQg, (short)2013027778);
 break;
 }
 }

@@ -615,7 +615,7 @@ while (j >= 0)
 j--;
 for (int k = 8; k >= 0; k--)
 {
-ivdtSTYDZ7 = C63O3T7O72((unsigned char)-729364264, (short)1724904100, 1355954002, 461951316);
+ivdtSTYDZ7 = C63O3T7O72((unsigned char)-729364264, (short)1724904100, (char)1355954002, 461951316);
 }
 }
 }
@@ -802,7 +802,7 @@ else
 {
 try
 {
-Glap2_EC9 = C63O3T7O72((unsigned char)20749182, S5Kt, 493139482, -1099217135);
+Glap2_EC9 = C63O3T7O72((unsigned char)20749182, S5Kt, (char)493139482, -1099217135);
 }
 catch (int& errorCode)
 {

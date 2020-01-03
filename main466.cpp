@@ -37,7 +37,7 @@ int main(int argc, char** argv) {
   unsigned short int  E3e_Eak32  =  (unsigned short)1955845361;
  unsigned long long rEQmu = -566427392;
   long long  iCR3  =  1219637948;
-	short	UsVtq2tPi1	=	1707091691;
+	short	UsVtq2tPi1	=	(short)1707091691;
  char o3zkc = 1969109802;
   long double  YzCtX  =  -1712130935;
   double  hM452shFd  =  -1118235008;
@@ -48,7 +48,7 @@ int main(int argc, char** argv) {
  unsigned short lvI_ = 1196984323;
  unsigned char Oc02_D = -1056621130;
   unsigned long long  oH4j  =  -1591782160;
-    char    dunjr    =    -1917798295;
+    char    dunjr    =    (char)-1917798295;
   short int  LKP54J  =  2138919182;
 
 N_i8yDMCR0 = (short)(o3zkc);

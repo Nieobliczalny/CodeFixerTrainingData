@@ -65,7 +65,7 @@ int main(int argc, char** argv) {
     unsigned short    WyD0de;
     WyD0de    =    (unsigned short)-596787339;
     char    z4i9D;
-    z4i9D    =    996745721;
+    z4i9D    =    (char)996745721;
     unsigned long long    QFXA7a;
     QFXA7a    =    -50630824;
  float GowP_;

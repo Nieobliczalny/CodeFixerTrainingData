@@ -213,7 +213,7 @@ else
 int k = 9;
 do
 {
-pb320Z_ = PyQg6lbc9M(pb320Z_, (unsigned short)1232651887, (char)9776125, -1905357960);
+pb320Z_ = PyQg6lbc9M(pb320Z_, (unsigned short)1232651887, (char)9776125, (unsigned char)-1905357960);
 k--;
 }
 while (k >= 0);
@@ -251,7 +251,7 @@ case 3:
 N030s &= 1022152125;
 break;
 case 4:
-svTeCB78f = RfWk((short)-2019145487, (short)1092090352, -750878719, -1476019849, BAKbf);
+svTeCB78f = RfWk((short)-2019145487, (short)1092090352, -750878719, (unsigned char)-1476019849, BAKbf);
 break;
 case 5:
 Ws_273 = PyQg6lbc9M(Ws_273, -1396254044, 1314477230, XBKyyjK3n);
@@ -438,7 +438,7 @@ case 3:
 M1NWN /= 2122457807;
 break;
 case 4:
-qEIozT = PyQg6lbc9M(-987433642, QR8shv1, -2126242503, cuNX);
+qEIozT = PyQg6lbc9M((unsigned short)-987433642, QR8shv1, -2126242503, cuNX);
 break;
 case 5:
 BAKbf -= k8P58j;
@@ -528,7 +528,7 @@ int k = 0;
 do
 {
 ++k;
-y5Z2_X9 = RfWk((short)460067117, (short)2010889171, -2000834426, 1805062178, 157746807);
+y5Z2_X9 = RfWk((short)460067117, (short)2010889171, -2000834426, (unsigned char)1805062178, 157746807);
 }
 while (k < 3);
 }
@@ -613,7 +613,7 @@ KLD6 = z04_t6_1b(-304562602, (unsigned short)1555394279);
 break;
 case 'c':
 case 'C':
-y_N1T1 = PyQg6lbc9M((unsigned short)-354051716, zzr3KTUl3, Oc_fNCS5SD, 916447418);
+y_N1T1 = PyQg6lbc9M((unsigned short)-354051716, zzr3KTUl3, Oc_fNCS5SD, (unsigned char)916447418);
 break;
 case 'd':
 case 'D':
@@ -641,7 +641,7 @@ KV18lT0_ = (int)abs(z56Pmu5F_);
 break;
 case 'j':
 case 'J':
-t4jD = PyQg6lbc9M((unsigned short)-2019185055, (unsigned short)-1766375460, -458053107, e441);
+t4jD = PyQg6lbc9M((unsigned short)-2019185055, (unsigned short)-1766375460, (char)-458053107, e441);
 break;
 default:
 KV18lT0_ |= XBKyyjK3n;
@@ -689,7 +689,7 @@ NL0_P9s4QR = KV18lT0_ / THrxH;
 break;
 case 'd':
 case 'D':
-K90dthttt = PyQg6lbc9M((unsigned short)2146220079, (unsigned short)1981270791, -452670295, y5Z2_X9);
+K90dthttt = PyQg6lbc9M((unsigned short)2146220079, (unsigned short)1981270791, (char)-452670295, y5Z2_X9);
 break;
 case 'e':
 case 'E':

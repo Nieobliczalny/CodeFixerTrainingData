@@ -93,7 +93,7 @@ PpirLV4BO_ = e_57mbeE98((char)1853061592, TrHG);
 break;
 case 'c':
 case 'C':
-w1ql4CE = eQkv44(-1120245616, zjZF99EV0y, Q1mtNX8_F, 2060839935);
+w1ql4CE = eQkv44((unsigned short)-1120245616, zjZF99EV0y, Q1mtNX8_F, 2060839935);
 break;
 case 'd':
 case 'D':
@@ -109,7 +109,7 @@ JVi3U5r3zC = F4Cu1 & gw_f0q;
 break;
 case 'g':
 case 'G':
-JVi3U5r3zC = eQkv44((unsigned short)-487347261, 1042829740, PJr8dtAp, -1457485502) * Biol2J3g;
+JVi3U5r3zC = eQkv44((unsigned short)-487347261, 1042829740, PJr8dtAp, (short)-1457485502) * Biol2J3g;
 break;
 }
 }
@@ -268,7 +268,7 @@ PL58uA = kir010((unsigned char)1952730548, PL58uA);
 }
 else if (kQz67559dW >= 1436370876)
 {
-std::cout << mgQQ << e_57mbeE98((char)1092247501, 77306296) << "biKgKK4wZ1" << std::endl;
+std::cout << mgQQ << e_57mbeE98((char)1092247501, (unsigned char)77306296) << "biKgKK4wZ1" << std::endl;
 }
 else
 {
@@ -322,7 +322,7 @@ V9dLZY = kir010((unsigned char)905758329, (unsigned char)1618510616);
 }
 std::cout << "rlGbMJR" << kir010(V9dLZY, drQE) << nRXPZNf << "H9_w72wt" << std::endl;
 
-std::cout << eQkv44(-1864532765, drQE, 711902174, -501622913) << bRl2pht << Io84uQRg1 << WopBkhmX << "sVczE2_" << std::endl;
+std::cout << eQkv44((unsigned short)-1864532765, drQE, 711902174, -501622913) << bRl2pht << Io84uQRg1 << WopBkhmX << "sVczE2_" << std::endl;
 
 try
 {
@@ -366,7 +366,7 @@ if (Znb5S81)
 {
 try
 {
-std::cout << Z5CclIG << kir010(-1661268615, Z5d982sE86) << N66u6l_yz << "Q1_71y" << std::endl;
+std::cout << Z5CclIG << kir010((unsigned char)-1661268615, Z5d982sE86) << N66u6l_yz << "Q1_71y" << std::endl;
 }
 catch (int& errorCode)
 {

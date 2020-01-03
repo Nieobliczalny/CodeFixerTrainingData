@@ -29,7 +29,7 @@ int main()
   unsigned short int  FAq0lQnd2;
   FAq0lQnd2  =  (unsigned short)45549079;
   unsigned short int  D2nG3ZoAeZ;
-  D2nG3ZoAeZ  =  -906611056;
+  D2nG3ZoAeZ  =  (unsigned short)-906611056;
 	unsigned int	MYiN_SzI;
 	MYiN_SzI	=	1189413182;
     unsigned long long    t8V4_MbT;
@@ -45,7 +45,7 @@ int main()
   char  C5p7;
   C5p7  =  (char)-90142938;
 	unsigned short int	knd7_9atsc;
-	knd7_9atsc	=	1910767391;
+	knd7_9atsc	=	(unsigned short)1910767391;
 	short int	NmT6538Ae;
 	NmT6538Ae	=	-2059808733;
   unsigned short int  G4md2;
@@ -75,7 +75,7 @@ int main()
 	long double	ZZ162J;
 	ZZ162J	=	2001784483;
 	short	n8Z3pyK;
-	n8Z3pyK	=	75028664;
+	n8Z3pyK	=	(short)75028664;
   unsigned int  yd24_heraS;
   yd24_heraS  =  1108181488;
 	unsigned short int	Y6p1;
@@ -97,7 +97,7 @@ int main()
  char z_oiI;
  z_oiI = (char)1505375600;
   unsigned short int  q64q;
-  q64q  =  434795399;
+  q64q  =  (unsigned short)434795399;
 	unsigned long long	I8O14C;
 	I8O14C	=	-118221620;
   short int  kIzS9h;
@@ -129,7 +129,7 @@ int main()
   float  KFe5;
   KFe5  =  -22236923;
  short int y2g9;
- y2g9 = -1458782078;
+ y2g9 = (short)-1458782078;
   long  g99ZArB8;
   g99ZArB8  =  -299651031;
   short int  aeTHl1_;
@@ -139,7 +139,7 @@ int main()
     short    QXuqVY03oI;
     QXuqVY03oI    =    (short)-470093258;
     char    AJfo;
-    AJfo    =    1049485780;
+    AJfo    =    (char)1049485780;
     long double    xA3_m_;
     xA3_m_    =    -953226992;
 	int	T7aM8;
@@ -274,7 +274,7 @@ else
 {
 if (knd7_9atsc & 2033544281)
 {
-E2i808e1 = kC7Gq9Q157((short)916811376, -1793174289, 1725406597, T6il, ZZ162J);
+E2i808e1 = kC7Gq9Q157((short)916811376, (char)-1793174289, 1725406597, T6il, ZZ162J);
 }
 else if (OBsvH97SJS < 2011710812)
 {
@@ -296,7 +296,7 @@ E2i808e1 = kC7Gq9Q157((short)-29423968, (char)1772903423, 196914727, KFe5, YHJOK
 }
 else
 {
-std::cout << kC7Gq9Q157(knd7_9atsc, -520799530, 64255836, KFe5, YHJOKpqn63) << CwKSBT082 << "Z2o2558" << std::endl;
+std::cout << kC7Gq9Q157(knd7_9atsc, (char)-520799530, 64255836, KFe5, YHJOKpqn63) << CwKSBT082 << "Z2o2558" << std::endl;
 }
 if (E2i808e1 == 0)
 {
@@ -307,7 +307,7 @@ t8V4_MbT = kC7Gq9Q157((short)1491503817, qL7dtQP, -155112447, KFe5, -192938046) 
 
 E2i808e1 = kC7Gq9Q157((short)-718813046, 994957627, 777179060, -363729150, -1088659083);
 
-E2i808e1 = kC7Gq9Q157(oBv1Q223ym, -1276993923, -93213092, S2W3r_B3, p5kqs7u);
+E2i808e1 = kC7Gq9Q157(oBv1Q223ym, (char)-1276993923, -93213092, S2W3r_B3, p5kqs7u);
 
 {
 int i = 8;
@@ -332,7 +332,7 @@ std::cout << p8jP_5X_pG << QXuqVY03oI << kC7Gq9Q157((short)-675190130, (char)-16
 }
 else if ((eu1SU_E9G & -941068407) && (Z8H87 != ZZ162J))
 {
-E2i808e1 = kC7Gq9Q157(fPVcQ, pbHsNT, -2144729423, 803041630, 806269848);
+E2i808e1 = kC7Gq9Q157(fPVcQ, pbHsNT, -2144729423, (unsigned short)803041630, 806269848);
 }
 else if (VoM4jJ6xP & -383504033)
 {
@@ -376,7 +376,7 @@ b_tNm72_u ^= 1073914052;
 
 try
 {
-VgIoN2h = kC7Gq9Q157((short)-848555748, (char)-1678272059, EKG6ujvV, -1545272996, 1256908184);
+VgIoN2h = kC7Gq9Q157((short)-848555748, (char)-1678272059, EKG6ujvV, (unsigned short)-1545272996, 1256908184);
 }
 catch (int& errorCode)
 {
@@ -391,7 +391,7 @@ int i = 7;
 do
 {
 --i;
-std::cout << kC7Gq9Q157((short)58249482, P4mhC2zu0, AgvFpp4, VoM4jJ6xP, vHLRBG) << kC7Gq9Q157(NCm_tj, (char)-1285277394, 1546026247, VoM4jJ6xP, vHLRBG) << kC7Gq9Q157(NCm_tj, P4mhC2zu0, AgvFpp4, 208903771, -285281571) << "scNkpK" << "m5C34_" << std::endl;
+std::cout << kC7Gq9Q157((short)58249482, P4mhC2zu0, AgvFpp4, VoM4jJ6xP, vHLRBG) << kC7Gq9Q157(NCm_tj, (char)-1285277394, 1546026247, VoM4jJ6xP, vHLRBG) << kC7Gq9Q157(NCm_tj, P4mhC2zu0, AgvFpp4, (unsigned short)208903771, -285281571) << "scNkpK" << "m5C34_" << std::endl;
 }
 while (i >= 0);
 }
@@ -413,7 +413,7 @@ case 1:
 AgvFpp4 = KA04z85PS ^ NmT6538Ae;
 break;
 case 2:
-VgIoN2h = kC7Gq9Q157(-187186785, 245920656, C5p7, 771895917, mqyU61);
+VgIoN2h = kC7Gq9Q157((short)-187186785, 245920656, C5p7, 771895917, mqyU61);
 break;
 case 3:
 VgIoN2h = kC7Gq9Q157(-342146542, Z8H87, -1769428547, -1689098792, -232811423);

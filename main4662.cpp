@@ -25,7 +25,7 @@ int main(int argc, char** argv) {
     unsigned short int    HwtuUxQ    =    (unsigned short)1194464031;
     unsigned long long    XtPc5yj    =    1183759141;
   short int  LqhG9  =  (short)712278414;
-    char    ecp9xe20F    =    -786638868;
+    char    ecp9xe20F    =    (char)-786638868;
     unsigned long long    J32ci    =    -732567754;
   long  qDP_eW1_  =  -668522582;
   unsigned char  kgZW  =  -363913659;
@@ -37,7 +37,7 @@ int main(int argc, char** argv) {
   double  m2ve  =  -265733387;
     double    v72i_    =    -231122994;
 	short int	Rbj6IV	=	(short)2009775923;
-    unsigned short    KGfWSs6U8X    =    621157729;
+    unsigned short    KGfWSs6U8X    =    (unsigned short)621157729;
  unsigned short int p_aPI = -949718409;
   int  fMqY9  =  -1991731176;
   unsigned short  N1m01  =  -1065528146;
@@ -60,7 +60,7 @@ int main(int argc, char** argv) {
   short  V7fe6c_wgI  =  (short)1810182124;
     long double    BH2Q5x8Mo    =    -2069373604;
  char gsqu = (char)1157203437;
-    char    i7xFcii    =    925947496;
+    char    i7xFcii    =    (char)925947496;
 	unsigned long long	L7JCu99	=	0;
     long double    zQHX6g    =    -9240589;
 	unsigned char	M2Fu	=	390866105;
@@ -74,7 +74,7 @@ int main(int argc, char** argv) {
  long double CjZGEcm6RJ = -1626018380;
     short int    QU3Ft    =    (short)842257475;
   double  wD1_3  =  1676217074;
-    short    x0jv6oyS27    =    1881446535;
+    short    x0jv6oyS27    =    (short)1881446535;
     unsigned long long    KA04m_N_    =    1496515598;
 	float	gyyE2Y	=	1082767113;
   float  ln5X  =  -318052476;
@@ -87,7 +87,7 @@ int main(int argc, char** argv) {
  unsigned short l3tqo9_X = (unsigned short)-1824031778;
 	int	XeZv96Pe	=	709619848;
   long long  v5RUCYQS  =  -657588209;
-	unsigned short	XxqC1ppB	=	-1259731933;
+	unsigned short	XxqC1ppB	=	(unsigned short)-1259731933;
   int  TSj50175Y  =  460320368;
  short UVLD = 306157727;
   unsigned long  rU95  =  1623466710;
@@ -158,7 +158,7 @@ if (((bg6v3 <= F30i0k) || (NDYxik == -2103682320)) || ((uPZJY3 > zGLaVO98) && (r
 int k = 4;
 while (k >= 0)
 {
-BH2Q5x8Mo = ChEi((short)-227524427, (unsigned short)-13232888, 1274697902);
+BH2Q5x8Mo = ChEi((short)-227524427, (unsigned short)-13232888, (short)1274697902);
 k--;
 }
 }
@@ -278,7 +278,7 @@ else if (xtx3Q6IgI >= zGLaVO98)
 {
 for (int j = 0; j < 1; j++)
 {
-std::cout << ChEi((short)714516304, -1163928364, m2ve) << JWNZ << CXu0g << ChEi(-497291152, 1497291084, m2ve) << "gf97g" << std::endl;
+std::cout << ChEi((short)714516304, (unsigned short)-1163928364, m2ve) << JWNZ << CXu0g << ChEi(-497291152, 1497291084, m2ve) << "gf97g" << std::endl;
 }
 }
 else
@@ -314,7 +314,7 @@ case 3:
 e4B8ax = v5RUCYQS >> 1054563902;
 break;
 default:
-v72i_ = ChEi((short)53008302, 2057645101, tY9bMdr1G);
+v72i_ = ChEi((short)53008302, (unsigned short)2057645101, tY9bMdr1G);
 break;
 }
 }
@@ -363,7 +363,7 @@ else
 int k = 0;
 do
 {
-ecp9xe20F = ChEi((short)373070313, -1712056878, g2mu);
+ecp9xe20F = ChEi((short)373070313, (unsigned short)-1712056878, g2mu);
 k++;
 }
 while (k < 8);
@@ -381,7 +381,7 @@ for (int i = 9; i >= 0; --i)
 {
 if (zQHX6g == -553803622)
 {
-std::cout << "d0f88" << ChEi(ecp9xe20F, V7fe6c_wgI, (short)-1928357413) << iPlrrh << Y7K_H3Siyw(1532575897, V7fe6c_wgI, 2092852439, KGfWSs6U8X, KA04m_N_) << std::endl;
+std::cout << "d0f88" << ChEi(ecp9xe20F, V7fe6c_wgI, (short)-1928357413) << iPlrrh << Y7K_H3Siyw(1532575897, V7fe6c_wgI, (unsigned short)2092852439, KGfWSs6U8X, KA04m_N_) << std::endl;
 }
 else if (UVLD <= -1486908879)
 {
@@ -408,7 +408,7 @@ ln5X = (int)ceil(CjZGEcm6RJ);
 }
 else
 {
-std::cout << "uAHI6" << ChEi((short)726636239, (unsigned short)-1132034880, 2052317706) << "ttP4ImwC" << Y7K_H3Siyw(rU95, K3krech, PR7D4, 458004385, -641774761) << "E8SrY75_C" << std::endl;
+std::cout << "uAHI6" << ChEi((short)726636239, (unsigned short)-1132034880, (short)2052317706) << "ttP4ImwC" << Y7K_H3Siyw(rU95, K3krech, PR7D4, 458004385, -641774761) << "E8SrY75_C" << std::endl;
 }
 }
 if (TSj50175Y >= F2bRzUzZ)
@@ -524,7 +524,7 @@ try
 int k = 4;
 while (k >= 0)
 {
-BH2Q5x8Mo = ChEi((short)-1257530006, (unsigned short)982249501, 1997778024);
+BH2Q5x8Mo = ChEi((short)-1257530006, (unsigned short)982249501, (short)1997778024);
 k--;
 }
 }

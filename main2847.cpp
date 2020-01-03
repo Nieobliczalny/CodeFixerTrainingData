@@ -31,7 +31,7 @@ int main(void)
     unsigned long long    srvN_8;
     srvN_8    =    0;
   short int  m6M_pS0oq1;
-  m6M_pS0oq1  =  333868823;
+  m6M_pS0oq1  =  (short)333868823;
 	int	Pafk8hh41;
 	Pafk8hh41	=	-1584654989;
   char  njMHR9EE8;
@@ -47,7 +47,7 @@ int main(void)
   short  v8Ch0THX;
   v8Ch0THX  =  (short)-748638724;
     short int    nlLhB;
-    nlLhB    =    1544789720;
+    nlLhB    =    (short)1544789720;
 	float	Aw_vqw;
 	Aw_vqw	=	1787690337;
     char    I49846T;
@@ -71,7 +71,7 @@ int main(void)
   short  OgeHa0eG;
   OgeHa0eG  =  (short)-60128508;
     unsigned short int    LEI4oJR6V;
-    LEI4oJR6V    =    1542399150;
+    LEI4oJR6V    =    (unsigned short)1542399150;
  unsigned short QP91n;
  QP91n = 0;
  unsigned long chqDB;
@@ -107,7 +107,7 @@ int main(void)
     long double    QH8MK;
     QH8MK    =    -1504930549;
 	unsigned char	Psbry2x9;
-	Psbry2x9	=	715405857;
+	Psbry2x9	=	(unsigned char)715405857;
 	double	MKjU84l0;
 	MKjU84l0	=	-1163112933;
  unsigned char kf4Php4S;
@@ -123,7 +123,7 @@ int main(void)
 	unsigned short	n8dt0f;
 	n8dt0f	=	(unsigned short)-2098029256;
 
-ZoH4n3 = nIVpQ53(QP91n, ZoH4n3, ex3k8q8m, 745403820, -458912991);
+ZoH4n3 = nIVpQ53(QP91n, ZoH4n3, ex3k8q8m, (char)745403820, -458912991);
 
 {
 int i = 0;
@@ -278,7 +278,7 @@ case 4:
 Wfh4 = s_AGB2ODG(-158439463, zCwIhZ, V84uhB5G, chqDB);
 break;
 case 5:
-dN05JnA6Gk = nIVpQ53(Nl_Tyv55oA, (unsigned char)-188452613, 595600392, -1300151580, -183440089);
+dN05JnA6Gk = nIVpQ53(Nl_Tyv55oA, (unsigned char)-188452613, (short)595600392, -1300151580, -183440089);
 break;
 case 6:
 I49846T = zd_1Xh9_q();
@@ -294,7 +294,7 @@ ZoH4n3 = s_AGB2ODG(-276291893, -944737760, vzCGzGlv, -309086189);
 }
 Aw_vqw = (int)floor(QH8MK);
 
-cout << zd_1Xh9_q() << "P4lZ" << w5_a24((char)1054044847) << Psbry2x9 << nIVpQ53(1336358224, nlLhB, (short)-614496157, 1816706073, QH8MK) << endl;
+cout << zd_1Xh9_q() << "P4lZ" << w5_a24((char)1054044847) << Psbry2x9 << nIVpQ53(1336358224, nlLhB, (short)-614496157, (char)1816706073, QH8MK) << endl;
 H_A7JwJ74 = (int)abs(I49846T) + (-1403155700);
 switch (CER_jTxaO1)
 {

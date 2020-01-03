@@ -39,7 +39,7 @@ if (Xfhq6u2d <= 113167661)
 {
 for (int j = 8; j >= 0; j--)
 {
-std::cout << "C8_g9E" << r2YcAOl << "W2Z1" << r26l6iK((short)286241324, eoSM74, -260513006, 572362960) << std::endl;
+std::cout << "C8_g9E" << r2YcAOl << "W2Z1" << r26l6iK((short)286241324, eoSM74, -260513006, (unsigned short)572362960) << std::endl;
 }
 }
 else
@@ -90,7 +90,7 @@ else if (hrG6 == GAl_Gn0B)
 {
 for (int j = 0; j < 4; ++j)
 {
-std::cout << r26l6iK((short)-2022497852, (short)-1698083124, C6M9J5, 1764953474) << tM1pH << "b3EE" << xbDa082fJL << std::endl;
+std::cout << r26l6iK((short)-2022497852, (short)-1698083124, C6M9J5, (unsigned short)1764953474) << tM1pH << "b3EE" << xbDa082fJL << std::endl;
 }
 }
 else if (VhLs7l3 < 766200598)
@@ -123,7 +123,7 @@ case 'c':
 ft72jm = r26l6iK(ft72jm, (short)-1459879843, vvQc_K5cC, (unsigned short)-1851883876);
 break;
 case 'd':
-K9pO1S93 = p0aAyv(1265516981, 857300684, 1388682772, -1852296623);
+K9pO1S93 = p0aAyv(1265516981, (unsigned short)857300684, 1388682772, -1852296623);
 break;
 case 'e':
 pHg2A0 = OzXj2p + GH_vc;

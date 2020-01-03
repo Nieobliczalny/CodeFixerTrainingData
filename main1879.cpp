@@ -89,7 +89,7 @@ y7r7 = nhWr(593534910, (unsigned char)-1608920675, 692012859);
 }
 GjwlBE = nhWr(GjwlBE, (unsigned char)-1968079671, -1283833807);
 
-t_D_U0KC = nhWr(t_D_U0KC, -2106602099, DMgup03W6L);
+t_D_U0KC = nhWr(t_D_U0KC, (unsigned char)-2106602099, DMgup03W6L);
 
 {
 int i = 0;
@@ -273,7 +273,7 @@ DMgup03W6L = (int)floor(A70T8S9x);
 break;
 case 'c':
 case 'C':
-SUDb = UAQ0QJ4((unsigned short)-708266957, (short)-1619823695, vbXv7PsY0V, 2099441062);
+SUDb = UAQ0QJ4((unsigned short)-708266957, (short)-1619823695, vbXv7PsY0V, (unsigned short)2099441062);
 break;
 case 'd':
 case 'D':
@@ -398,7 +398,7 @@ else if (gqjL8m576n > pnDGt_)
 int k = 0;
 do
 {
-fWdU__ = UAQ0QJ4((unsigned short)347985309, (short)2077079062, -1638338836, -1428957218);
+fWdU__ = UAQ0QJ4((unsigned short)347985309, (short)2077079062, (unsigned char)-1638338836, -1428957218);
 k++;
 }
 while (k < 7);
@@ -449,7 +449,7 @@ case 'c':
 uXKe5v = nhWr(uXKe5v, t4b_eedPY, 1283840353);
 break;
 case 'd':
-m9jhg = UAQ0QJ4(Deu_i6xqPl, (short)-1402103231, (unsigned char)168928618, -846815952);
+m9jhg = UAQ0QJ4(Deu_i6xqPl, (short)-1402103231, (unsigned char)168928618, (unsigned short)-846815952);
 break;
 case 'e':
 b9__WP -= 316012958;
@@ -462,7 +462,7 @@ v5a6L3r9 = (int)ceil(gqjL8m576n);
 break;
 }
 
-rIVjEzMq = UAQ0QJ4((unsigned short)-1901317488, (short)1715951232, u1XSL1p, 113686227);
+rIVjEzMq = UAQ0QJ4((unsigned short)-1901317488, (short)1715951232, u1XSL1p, (unsigned short)113686227);
 
 if (Ir6_Xbq < t_D_U0KC)
 {
@@ -472,7 +472,7 @@ do
 {
 if (gqjL8m576n > -691720717)
 {
-WKwoVYKXbu = (sZ2yBU & PaPuZG) ? UAQ0QJ4((unsigned short)-1814933742, (short)-610119342, 1522848845, A7_RE19) : 769631237;
+WKwoVYKXbu = (sZ2yBU & PaPuZG) ? UAQ0QJ4((unsigned short)-1814933742, (short)-610119342, (unsigned char)1522848845, A7_RE19) : 769631237;
 }
 else if ((TX1V > Mh04) && (a7Z_Qpdv < Mh04))
 {
@@ -529,7 +529,7 @@ u1XSL1p = (int)floor(zHIX);
 break;
 case 'h':
 case 'H':
-m9jhg = UAQ0QJ4(UZH1S5YL2, (short)2064301401, m9jhg, 2093766371);
+m9jhg = UAQ0QJ4(UZH1S5YL2, (short)2064301401, m9jhg, (unsigned short)2093766371);
 break;
 }
 }

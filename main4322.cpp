@@ -300,7 +300,7 @@ do
 int j = 8;
 while (j >= 0)
 {
-std::cout << W5Bg28 << "N35U" << BA2V5kpV << Yy8XYSD_6((short)-1347596926, (unsigned char)-959847417, Q4S0E) << Yy8XYSD_6(uQNo, 1396747709, Q4S0E) << std::endl;
+std::cout << W5Bg28 << "N35U" << BA2V5kpV << Yy8XYSD_6((short)-1347596926, (unsigned char)-959847417, Q4S0E) << Yy8XYSD_6(uQNo, (unsigned char)1396747709, Q4S0E) << std::endl;
 j--;
 }
 }
@@ -334,7 +334,7 @@ case 7:
 rU56EaZC7 = Yy8XYSD_6(NTjbWO_wIC, H5LaU0V_1z, (short)584498666) + VkiL_7JnM;
 break;
 case 8:
-J2o0NFTu = Yy8XYSD_6(-50444503, 743743445, 64879571);
+J2o0NFTu = Yy8XYSD_6((short)-50444503, 743743445, 64879571);
 break;
 case 9:
 L2GNVp_W++;

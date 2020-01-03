@@ -124,7 +124,7 @@ else if (cA3VY > Xhp2VDOa)
 int k = 0;
 do
 {
-cJQ4e66s67 = u1zUBEV(-2052710670, 255179371);
+cJQ4e66s67 = u1zUBEV(-2052710670, (short)255179371);
 k++;
 }
 while (k < 8);

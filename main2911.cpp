@@ -15,7 +15,7 @@ int main(void) {
   short  aEWZiDbU15,  YA5A9s4cn,  r5_k5,  ZKc8_fZ5PJ,  RTu2,  e_DqP6r,  BTe8wlTl,  Cx44g6l,  T1_6J24ON,  LzJQ,  wH7IKz,  VOQJ,  QcT576,  S4Kqxvo,  f5t6L117q7,  X8MU5Gv6d,  F_Q2T4QD,  BQWgB7NGpK,  J96t6R05DI,  sg77187BW,  vumnW_1Z6,  h8NVjQi11M,  Bc5K,  L078_r80h,  HPU3St,  qNR468Rr,  f_2s,  I5dE,  y1l5,  il171_7,  Lk4fFI,  xe_GLm,  vfPnV,  V_kMkS71;
   aEWZiDbU15  =  (short)171200088;
   YA5A9s4cn  =  (short)-303176629;
-  r5_k5  =  1693541956;
+  r5_k5  =  (short)1693541956;
   ZKc8_fZ5PJ  =  283292187;
   RTu2  =  762584266;
   e_DqP6r  =  -359234962;
@@ -25,7 +25,7 @@ int main(void) {
   LzJQ  =  1982819865;
   wH7IKz  =  (short)383627483;
   VOQJ  =  (short)832859956;
-  QcT576  =  -906170639;
+  QcT576  =  (short)-906170639;
   S4Kqxvo  =  2079630494;
   f5t6L117q7  =  235500321;
   X8MU5Gv6d  =  -1804983071;
@@ -35,7 +35,7 @@ int main(void) {
   sg77187BW  =  -1879547468;
   vumnW_1Z6  =  (short)-1238108577;
   h8NVjQi11M  =  (short)-646924160;
-  Bc5K  =  802609534;
+  Bc5K  =  (short)802609534;
   L078_r80h  =  -1497323757;
   HPU3St  =  1001679212;
   qNR468Rr  =  1880691211;
@@ -45,7 +45,7 @@ int main(void) {
   il171_7  =  -1580860235;
   Lk4fFI  =  (short)-1852105035;
   xe_GLm  =  (short)-646380922;
-  vfPnV  =  -1899400965;
+  vfPnV  =  (short)-1899400965;
   V_kMkS71  =  792927453;
 
 if (T1_6J24ON)
@@ -258,7 +258,7 @@ Jb2Jx = h943wg40_9(LzJQ, (short)-1246212691, -38379008, QcT576);
 }
 while (i < 10);
 }
-std::cout << LzJQ << h943wg40_9(LzJQ, (short)-1696790143, f5t6L117q7, QcT576) << "qp83kE" << "WdS7" << h943wg40_9(-234471037, 811712329, f5t6L117q7, QcT576) << std::endl;
+std::cout << LzJQ << h943wg40_9(LzJQ, (short)-1696790143, f5t6L117q7, QcT576) << "qp83kE" << "WdS7" << h943wg40_9(-234471037, (short)811712329, f5t6L117q7, QcT576) << std::endl;
 try
 {
 {
@@ -797,7 +797,7 @@ i--;
 }
 }
 
-xe_GLm = h943wg40_9(-1533239603, -1657757399, 1230433852, wH7IKz) / LzJQ;
+xe_GLm = h943wg40_9(-1533239603, (short)-1657757399, 1230433852, wH7IKz) / LzJQ;
 {
 int i = 5;
 do

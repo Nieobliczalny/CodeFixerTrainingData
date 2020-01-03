@@ -55,7 +55,7 @@ int main() {
  unsigned short int uTDHAoAFc;
  uTDHAoAFc = (unsigned short)-1326481468;
  char Nffy_Nk_;
- Nffy_Nk_ = -193762034;
+ Nffy_Nk_ = (char)-193762034;
 	unsigned long long	xTchjU;
 	xTchjU	=	1176045366;
     char    Ul3q_J;
@@ -169,7 +169,7 @@ int main() {
  double Q_k81rGx;
  Q_k81rGx = -230557222;
     short int    qm67;
-    qm67    =    -1988347978;
+    qm67    =    (short)-1988347978;
 	short int	IyjAlEe2cZ;
 	IyjAlEe2cZ	=	(short)897705276;
 	unsigned int	qV3mEA;
@@ -185,7 +185,7 @@ int main() {
 	unsigned short int	LyK_U9;
 	LyK_U9	=	(unsigned short)-1171987329;
   unsigned char  VisPp8;
-  VisPp8  =  664271220;
+  VisPp8  =  (unsigned char)664271220;
  unsigned long eii5w;
  eii5w = 1737716621;
     long long    ymL3K3maK;

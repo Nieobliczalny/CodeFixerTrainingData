@@ -264,7 +264,7 @@ woL8 = QV1EFjsou((short)1085226902, FSY8, 400703293, ca4vzHW2X8, hbo4fBvDO);
 break;
 case 'd':
 case 'D':
-YYw2AoPwp1 = QV1EFjsou((short)394219228, 1081561602, bI6dCO, bFm6v4EOQm, n1nxaHQEM);
+YYw2AoPwp1 = QV1EFjsou((short)394219228, (unsigned short)1081561602, bI6dCO, bFm6v4EOQm, n1nxaHQEM);
 break;
 case 'e':
 case 'E':

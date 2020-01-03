@@ -15,7 +15,7 @@ using std::floor;
 int main() {
     short int    kbM4tsK7    =    (short)-1995828731;
     short int    boGKoyUs    =    (short)-303400572;
- unsigned short int H46Oy9L = -1436720351;
+ unsigned short int H46Oy9L = (unsigned short)-1436720351;
     char    CUj9932S2n    =    753263952;
     unsigned long long    ssUm2Llo5T    =    -1859596892;
     int    aI7ZeVP    =    -484650380;

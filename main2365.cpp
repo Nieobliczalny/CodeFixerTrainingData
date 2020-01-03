@@ -35,7 +35,7 @@ int main()
  unsigned short JgzPv5S;
  JgzPv5S = (unsigned short)327698209;
 	short	oq8gu;
-	oq8gu	=	289135315;
+	oq8gu	=	(short)289135315;
 	int	bplCLA52m;
 	bplCLA52m	=	1252479217;
   double  zXmwkzU49;
@@ -69,7 +69,7 @@ int main()
 	unsigned short	SaGNNtVVv6;
 	SaGNNtVVv6	=	(unsigned short)973442611;
  short O5_F97e5n;
- O5_F97e5n = 408030574;
+ O5_F97e5n = (short)408030574;
     unsigned char    fly0l_19DC;
     fly0l_19DC    =    (unsigned char)-163325129;
  char a3SWT;
@@ -79,7 +79,7 @@ int main()
     short int    yPdef0;
     yPdef0    =    (short)551219560;
 	char	ZUXh_;
-	ZUXh_	=	-215509780;
+	ZUXh_	=	(char)-215509780;
   float  p4Ru0w55;
   p4Ru0w55  =  98971776;
  short OT8DL;
@@ -105,7 +105,7 @@ int main()
     long    Oi2MYX_f9;
     Oi2MYX_f9    =    -537339667;
   short int  WzEQN3n;
-  WzEQN3n  =  413662005;
+  WzEQN3n  =  (short)413662005;
  unsigned int s7832gY3;
  s7832gY3 = -2141978590;
  char FF98v;
@@ -155,7 +155,7 @@ int main()
  unsigned char hM6bgcj;
  hM6bgcj = (unsigned char)-1071757141;
     unsigned short    XIfaTlMA1V;
-    XIfaTlMA1V    =    1502145723;
+    XIfaTlMA1V    =    (unsigned short)1502145723;
 	unsigned short	d6_3jz2;
 	d6_3jz2	=	566115259;
 	int	B2o_;
@@ -169,7 +169,7 @@ int main()
 	char	giKaryo_;
 	giKaryo_	=	(char)1234777416;
     unsigned char    Jm2gXk;
-    Jm2gXk    =    1496587308;
+    Jm2gXk    =    (unsigned char)1496587308;
     short int    kY6GqQ9;
     kY6GqQ9    =    (short)-1478666049;
 	unsigned short int	z5sc54Xd;
@@ -191,7 +191,7 @@ int main()
 
 if (mFVyzVbHJS > -1606953487)
 {
-TUqu = mgIU_l8yG(372178866, (unsigned short)393400492, H7VR6YwLG, 986378832, pG_B4);
+TUqu = mgIU_l8yG(372178866, (unsigned short)393400492, H7VR6YwLG, (short)986378832, pG_B4);
 }
 else if (C_L50r)
 {
@@ -256,7 +256,7 @@ else if (yPdef0 != 2099934576)
 {
 try
 {
-cout << ZyQPSn09W7 << O69rLSOF << mgIU_l8yG(1753788475, (unsigned short)693273731, oq8gu, 626644035, YO8igTv30) << NJ8d8BzNlu(QMP_e, d181__1, oq8gu) << eHzM4(QMP_e, d181__1) << endl;
+cout << ZyQPSn09W7 << O69rLSOF << mgIU_l8yG(1753788475, (unsigned short)693273731, oq8gu, (short)626644035, YO8igTv30) << NJ8d8BzNlu(QMP_e, d181__1, oq8gu) << eHzM4(QMP_e, d181__1) << endl;
 }
 catch (int& errorCode)
 {

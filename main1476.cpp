@@ -23,7 +23,7 @@ int main() {
  unsigned long PMX4PX = -773887051;
   short int  rcLkFUB__  =  (short)168928929;
     unsigned char    T7c40    =    (unsigned char)-1006046788;
-	char	U484xR5	=	501701656;
+	char	U484xR5	=	(char)501701656;
 	long long	npm08sj3aJ	=	634771261;
   short  P8Mus  =  1317259658;
  long double oQrN = -574727906;
@@ -36,7 +36,7 @@ int main() {
 	long long	aCe5S3x	=	1614124844;
     long double    p4E_PW    =    -813984181;
  unsigned char Z0KApz9 = (unsigned char)905247714;
-    short    F2o0    =    426903684;
+    short    F2o0    =    (short)426903684;
   unsigned long long  OlbD756Y  =  -852693104;
     long long    NL1AT1xF    =    2131728874;
     float    T3rQPU    =    1559584723;
@@ -52,7 +52,7 @@ int main() {
  unsigned long long eRk_L = 351953704;
     long    Idu15NHK    =    660477827;
 	short	xe89A4o	=	(short)190748777;
-  char  A_Jd4LoXf  =  -1007125138;
+  char  A_Jd4LoXf  =  (char)-1007125138;
   short  P8S8f  =  -1891907906;
   long double  Pi7SjVJ  =  -113377688;
  short vFxzu = (short)1249668119;
@@ -62,7 +62,7 @@ int main() {
   long long  ef3QEqcO  =  930360896;
   long double  Z5gbk  =  1470928818;
 	short	CGo4a4XUJs	=	(short)787796937;
-	short int	ETJg5b8	=	-1057191885;
+	short int	ETJg5b8	=	(short)-1057191885;
 	short	i2oxAv	=	-585820477;
   long long  ic4WVS1_j  =  430298574;
 	float	pvOGq3	=	-1229821868;
@@ -75,7 +75,7 @@ int main() {
     double    mI3Vbc    =    1358123842;
     unsigned short    g4Pm    =    (unsigned short)-562988994;
  long GWJ_8Q40kq = 0;
- short K_213U0Y = -343105045;
+ short K_213U0Y = (short)-343105045;
   unsigned long long  s_5N5V2A6  =  0;
     unsigned short    Rn8P5p    =    (unsigned short)-783198714;
  unsigned int HEDD93p = 945570978;
@@ -396,7 +396,7 @@ catch (int& errorCode)
 {
 lskYjj = (int)abs(k26m49iGEp);
 }
-cout << ef3QEqcO << v6NBL9(WDp_0T3, 764878387, (short)126587474) << v6NBL9(94444781, PMX4PX, (short)-564545087) << v6NBL9(WDp_0T3, -1096368472, -1048889693) << endl;
+cout << ef3QEqcO << v6NBL9(WDp_0T3, 764878387, (short)126587474) << v6NBL9(94444781, PMX4PX, (short)-564545087) << v6NBL9(WDp_0T3, -1096368472, (short)-1048889693) << endl;
 if (n7vd7zW_5g <= 1015933244)
 {
 if (i2oxAv <= 698378482)

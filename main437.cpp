@@ -82,7 +82,7 @@ int main() {
  short FFa_;
  FFa_ = (short)382729569;
 	unsigned short	v1yUBg56;
-	v1yUBg56	=	531504313;
+	v1yUBg56	=	(unsigned short)531504313;
     float    QI1KjTXci;
     QI1KjTXci    =    -2084822410;
 	long double	ivBQ75Am;
@@ -112,7 +112,7 @@ int main() {
 	long	W4IsWJJ0e;
 	W4IsWJJ0e	=	-136730610;
     unsigned short int    T6p6I7;
-    T6p6I7    =    -47681881;
+    T6p6I7    =    (unsigned short)-47681881;
     long    D55r;
     D55r    =    -805146110;
 	unsigned short int	nQw02xpw;

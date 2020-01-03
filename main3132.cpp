@@ -20,7 +20,7 @@ int main(void) {
     short int    hvgy67q8Oz    =    (short)342606897;
  unsigned short int d1Vc87qCB = 0;
  int x3d6l_VR7P = -795426209;
-	short int	R7w0HR	=	-685424060;
+	short int	R7w0HR	=	(short)-685424060;
  unsigned long long bVJSqxF_6B = 1874961800;
     unsigned short int    G2XO9NpWz    =    -1432461473;
 	unsigned char	S9IHu22E	=	1640385509;
@@ -33,7 +33,7 @@ int main(void) {
  long double u8r5vk = -84061112;
  unsigned char InSG1O = (unsigned char)-1186565636;
  float feow = 1428634005;
- unsigned char h4k82d0P8 = -1004847012;
+ unsigned char h4k82d0P8 = (unsigned char)-1004847012;
  double Aht2 = 2017434073;
 	short	mV0P8hK	=	1521177935;
 	unsigned long	jY3HL8f7SH	=	1429491973;
@@ -55,7 +55,7 @@ int main(void) {
  long long xBgPz1cB = -1087514443;
  float viK2 = 1382240434;
  long long t6Wm3g3_5 = -165084304;
- unsigned short fbNtkRjy_B = -14643683;
+ unsigned short fbNtkRjy_B = (unsigned short)-14643683;
   double  jARjcP  =  -199545371;
  unsigned int l9A6 = -1802431997;
 	unsigned short int	PuWK2iYk3k	=	-642010304;
@@ -76,7 +76,7 @@ int main(void) {
  long sQ_kdlRq = 1939196563;
 	unsigned char	DW8zGM1d6o	=	(unsigned char)1233739616;
  short TNHV101J9 = (short)-95136913;
-    unsigned char    F7M99    =    -1547741966;
+    unsigned char    F7M99    =    (unsigned char)-1547741966;
  unsigned long long wgYPe98a = 1729211068;
     unsigned short int    Pl9nXm    =    -1429743340;
 	unsigned short int	uCZ_BH9a	=	-134962897;
@@ -243,7 +243,7 @@ case 'f':
 TwRyt1Vm2 = ez65qCo(925612016, (unsigned short)-187647386, (unsigned char)827098431, XID1);
 break;
 default:
-DW8zGM1d6o = ez65qCo(-1849420568, -941126035, -1772816947, XID1) - 2016751580;
+DW8zGM1d6o = ez65qCo(-1849420568, (unsigned short)-941126035, -1772816947, XID1) - 2016751580;
 break;
 }
 {
@@ -334,7 +334,7 @@ while (k >= 0);
 K_3Yoweq3P = (long)(d2Pt86_Ooa);
 
 Aht2 = (int)abs(d6Cxq2);
-std::cout << ez65qCo(MBalh8j, (unsigned short)-1773332278, (unsigned char)-959988322, -1533547741) << "Nu0B_n" << F7M99 << "T_3K" << std::endl;
+std::cout << ez65qCo(MBalh8j, (unsigned short)-1773332278, (unsigned char)-959988322, (unsigned short)-1533547741) << "Nu0B_n" << F7M99 << "T_3K" << std::endl;
 
 if (((K74Ql9ETd2 & -167433950) || (oighm4 & 278971750)) || (Wao4166jYr))
 {

@@ -40,7 +40,7 @@ std::cout << "tP31" << bN_3V << pV1_(c6L5) << w46ANB << std::endl;
 std::cout << I7_M_534n_ << "o_3k2gj_wg" << std::endl;
 
 mr53iN_02 = (char)(pwVIec * mr53iN_02);
-std::cout << "iuS3" << GO_e94TC(c6L5, kE9T_TlR, pwVIec, (short)-1337484694) << GO_e94TC((short)-1856725604, 1462081272, -875751248, -1028708694) << US9DwvdN() << std::endl;
+std::cout << "iuS3" << GO_e94TC(c6L5, kE9T_TlR, pwVIec, (short)-1337484694) << GO_e94TC((short)-1856725604, 1462081272, -875751248, (short)-1028708694) << US9DwvdN() << std::endl;
 pwVIec = (unsigned int)(bN_3V);
 
 c6L5 %= 746680521;
@@ -378,7 +378,7 @@ case 'I':
 pwVIec *= mr53iN_02;
 break;
 default:
-c6L5 = (pwVIec & mr53iN_02) ? GO_e94TC(c6L5, -2053086420, I7_M_534n_, (short)-136896148) : GO_e94TC((short)1898137800, kE9T_TlR, 1198306350, -43407205);
+c6L5 = (pwVIec & mr53iN_02) ? GO_e94TC(c6L5, -2053086420, I7_M_534n_, (short)-136896148) : GO_e94TC((short)1898137800, kE9T_TlR, 1198306350, (short)-43407205);
 break;
 }
 }
@@ -525,7 +525,7 @@ case 'c':
 pwVIec = GO_e94TC((short)150653207, pwVIec, -1668318493, mr53iN_02);
 break;
 case 'd':
-c6L5 = pV1_(-487434607);
+c6L5 = pV1_((unsigned short)-487434607);
 break;
 case 'e':
 bN_3V = GO_e94TC(T_1VAUf3a9, bN_3V, -1540024039, (short)1456110256);

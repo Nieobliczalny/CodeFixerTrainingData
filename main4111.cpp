@@ -87,7 +87,7 @@ while (k < 1);
 }
 else
 {
-cout << "uZ34dn" << OVfBum6((unsigned char)-1006079399, 1280125052, 1671772350, JHxTC, -1959359559) << endl;
+cout << "uZ34dn" << OVfBum6((unsigned char)-1006079399, 1280125052, (unsigned short)1671772350, JHxTC, -1959359559) << endl;
 }
 }
 
@@ -134,7 +134,7 @@ if ((J9kBHg37 != aC6Z6h) || (hOPEy & pg16El7))
 {
 try
 {
-cout << OVfBum6((unsigned char)-1467589028, C9_x, j0JM3, -262767024, (unsigned short)-370502568) << J9kBHg37 << nvV13c0 << OVfBum6(o2O_m, C9_x, 1878345000, JHxTC, 850305103) << OVfBum6(2013517496, -304798611, -1523668699, -1430236931, SukMU04LD5) << endl;
+cout << OVfBum6((unsigned char)-1467589028, C9_x, j0JM3, -262767024, (unsigned short)-370502568) << J9kBHg37 << nvV13c0 << OVfBum6(o2O_m, C9_x, (unsigned short)1878345000, JHxTC, 850305103) << OVfBum6(2013517496, -304798611, -1523668699, -1430236931, SukMU04LD5) << endl;
 }
 catch (int& errorCode)
 {
@@ -177,7 +177,7 @@ case 1:
 hs1Y0 = OVfBum6(H_XDMd, -1440404544, (unsigned short)-1371264646, RS4I1D, fMMH8);
 break;
 case 2:
-i90CLiS = OVfBum6(fMMH8, mem_sta7, (unsigned short)6132678, -578330821, 1971666604);
+i90CLiS = OVfBum6(fMMH8, mem_sta7, (unsigned short)6132678, -578330821, (unsigned short)1971666604);
 break;
 case 3:
 D4Bw3 = (int)abs(gT76);
@@ -291,7 +291,7 @@ o59WB4DO <<= nvV13c0;
 break;
 case 'e':
 case 'E':
-o2O_m = OVfBum6((unsigned char)-1670347366, aC6Z6h, (unsigned short)-348202986, 292379550, 657459522);
+o2O_m = OVfBum6((unsigned char)-1670347366, aC6Z6h, (unsigned short)-348202986, 292379550, (unsigned short)657459522);
 break;
 case 'f':
 case 'F':
@@ -340,7 +340,7 @@ cout << OVfBum6(o59WB4DO, pg16El7, (unsigned short)-832658105, SukMU04LD5, (unsi
 --i;
 }
 }
-qo0DZ79 = OVfBum6(o59WB4DO, -1279149023, j1U_O_G8, SukMU04LD5, -930561132) / OVfBum6(o59WB4DO, 695068795, j1U_O_G8, SukMU04LD5, 1718155556);
+qo0DZ79 = OVfBum6(o59WB4DO, -1279149023, j1U_O_G8, SukMU04LD5, (unsigned short)-930561132) / OVfBum6(o59WB4DO, 695068795, j1U_O_G8, SukMU04LD5, 1718155556);
 
 if (ZJvPif & -644205326)
 {
@@ -377,7 +377,7 @@ else
 switch (axy4eTdT2_)
 {
 case 0:
-SukMU04LD5 = OVfBum6((unsigned char)-1510558458, y7H8NB10X, (unsigned short)-548358372, b3PQfl74, 651654907);
+SukMU04LD5 = OVfBum6((unsigned char)-1510558458, y7H8NB10X, (unsigned short)-548358372, b3PQfl74, (unsigned short)651654907);
 break;
 case 1:
 b1R5 *= i90CLiS;
@@ -389,7 +389,7 @@ case 3:
 cbyz *= KkqA4e7ti;
 break;
 case 4:
-o2O_m = OVfBum6((unsigned char)-1971767648, sNF1k, (unsigned short)-478742023, A_qvO1B, -2087884795);
+o2O_m = OVfBum6((unsigned char)-1971767648, sNF1k, (unsigned short)-478742023, A_qvO1B, (unsigned short)-2087884795);
 break;
 case 5:
 S06U6yz <<= nvV13c0;

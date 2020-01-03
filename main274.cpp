@@ -44,7 +44,7 @@ int main(void)
     float    czA9_5L34h;
     czA9_5L34h    =    -1242515693;
   short int  Ik0sW;
-  Ik0sW  =  654895857;
+  Ik0sW  =  (short)654895857;
     unsigned int    KDH4Jc5;
     KDH4Jc5    =    -2120421669;
 	unsigned long long	MGvE2;
@@ -92,7 +92,7 @@ int main(void)
   unsigned char  lA__odFO_;
   lA__odFO_  =  (unsigned char)906851485;
  unsigned short gSgoNztSJ;
- gSgoNztSJ = 177155547;
+ gSgoNztSJ = (unsigned short)177155547;
 	unsigned short	QpfmjoJ4;
 	QpfmjoJ4	=	(unsigned short)1653766988;
  unsigned short f3w3h0gRKQ;

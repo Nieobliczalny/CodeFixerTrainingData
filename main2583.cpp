@@ -18,7 +18,7 @@ unsigned short int    qdg0aghn9(long    q9_nibh2h,int    jp48)    {
 }
 
 unsigned short int  eGKvq3W0()  {
-  return  1567101007;
+  return  (unsigned short)1567101007;
 }
 
 int  zE1lv03(unsigned short  K8XXmr6Xs5,long long  Uuri,long  ow_DX)
@@ -33,7 +33,7 @@ int main(int argc, char** argv)
   unsigned short int  evq9q  =  (unsigned short)-2064629677;
     long long    DO_9A_    =    -930998876;
 	short	RJ8kj3_v	=	(short)-1753439859;
- unsigned short int o66af = -393153150;
+ unsigned short int o66af = (unsigned short)-393153150;
  int ts448Oy54 = -1214820580;
 	long long	uvYvM_hHd	=	789573974;
  unsigned long long F1nY9P = 0;
@@ -52,7 +52,7 @@ int main(int argc, char** argv)
     unsigned int    ijhLBQ    =    0;
 	unsigned int	qqGC2M	=	791619270;
 	unsigned int	n6463	=	-1119686989;
- unsigned char cku5M8 = 1381494486;
+ unsigned char cku5M8 = (unsigned char)1381494486;
 	unsigned char	J9y96c	=	(unsigned char)-366962111;
 	unsigned short	SugpF2gEE_	=	-503082378;
  unsigned long long Ho6EV8o = 624598974;

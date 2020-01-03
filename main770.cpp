@@ -31,7 +31,7 @@ int main(void)
     short int    xF_2Y_963z;
     xF_2Y_963z    =    (short)-2056058525;
 	short int	yBOyS9r27Q;
-	yBOyS9r27Q	=	1832794089;
+	yBOyS9r27Q	=	(short)1832794089;
  float XF_I70dj;
  XF_I70dj = -127480233;
  int T5GH;
@@ -71,7 +71,7 @@ int main(void)
 	char	fp_dcm;
 	fp_dcm	=	(char)-712039596;
   short  Crnxt0Q922;
-  Crnxt0Q922  =  370038246;
+  Crnxt0Q922  =  (short)370038246;
 	char	m8_Hxts;
 	m8_Hxts	=	(char)260147304;
 	int	dARF9U68;

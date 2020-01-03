@@ -29,7 +29,7 @@ int main(int argc, char** argv)
  double pV53;
  pV53 = 1419429136;
   short int  Sl81JH8A;
-  Sl81JH8A  =  1323920407;
+  Sl81JH8A  =  (short)1323920407;
  unsigned short int H15KU;
  H15KU = (unsigned short)1068257615;
  double qKApy900j;
@@ -45,7 +45,7 @@ int main(int argc, char** argv)
     short    tRwE43aEq;
     tRwE43aEq    =    (short)-354713238;
 	unsigned short int	K2ZXdcDhJA;
-	K2ZXdcDhJA	=	2128329930;
+	K2ZXdcDhJA	=	(unsigned short)2128329930;
     long long    X0kz;
     X0kz    =    -1765648510;
     char    fs0_6kY;
@@ -91,7 +91,7 @@ int main(int argc, char** argv)
     unsigned short int    f9CmAUWH;
     f9CmAUWH    =    (unsigned short)-617761485;
   char  Ignps;
-  Ignps  =  -1552516352;
+  Ignps  =  (char)-1552516352;
 
 bEL3GK5YZ = (int)abs(Ignps);
 {

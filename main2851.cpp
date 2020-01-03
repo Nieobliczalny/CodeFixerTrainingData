@@ -46,7 +46,7 @@ int main(int argc, char** argv) {
  double CI_m;
  CI_m = 437473236;
 	char	hA08OB22R0;
-	hA08OB22R0	=	1290412431;
+	hA08OB22R0	=	(char)1290412431;
   long long  bjYxna;
   bjYxna  =  1050367542;
 	long long	UTpg;

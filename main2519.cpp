@@ -24,7 +24,7 @@ US04 = vj4Xv(US04, (char)-2031221820, (char)1988345605, -1293043955);
 std::cout << Wyhjw6U << "hViCne" << AoEX << g5m7_9hq7 << std::endl;
 
 std::cout << XMZQ(US04, 1930065518, QWmtMr, I0pi) / XMZQ(US04, W_l2M, QWmtMr, I0pi) << std::endl;
-PVfXI = vj4Xv(742407677, -590517521, WJsqiY8h, 1847730019);
+PVfXI = vj4Xv(742407677, (char)-590517521, WJsqiY8h, 1847730019);
 
 std::cout << vj4Xv(PVfXI, fHAQWZ82, WJsqiY8h, zjXLY2) << vj4Xv(PVfXI, 1921488964, WJsqiY8h, zjXLY2) << std::endl;
 std::cout << XMZQ(-1992913816, fHAQWZ82, WJsqiY8h, 491031911) << std::endl;
@@ -38,7 +38,7 @@ case 'b':
 Led0 = vj4Xv(Led0, Wyhjw6U, sz9mxv2, -1460956997);
 break;
 case 'c':
-yHLHq8TLhn = vj4Xv(yHLHq8TLhn, (char)1474737310, 33936574, 1169289391);
+yHLHq8TLhn = vj4Xv(yHLHq8TLhn, (char)1474737310, (char)33936574, 1169289391);
 break;
 case 'd':
 I0pi = (int)abs(OI8rtKX92j);
@@ -177,7 +177,7 @@ case 'h':
 ROF6qCL03k = XMZQ((short)-709203150, -1690960462, L913, 656506824) % 435789323;
 break;
 case 'i':
-US04 = VRbE18FM5I(US04, -771499720, -1346399514);
+US04 = VRbE18FM5I(US04, (short)-771499720, -1346399514);
 break;
 }
 }
@@ -206,7 +206,7 @@ return 0;
 
 unsigned short int  vj4Xv(unsigned int  whfU7T9q,char  DPuL,char  R24hv2,unsigned long  X9s4o)
 {
-  return  130870598;
+  return  (unsigned short)130870598;
 }
 
 unsigned long long XMZQ(short G4Li46w0Z,long long s_gk1g6HH,unsigned int jP1BG9rvyC,long L8f0sVl_) {

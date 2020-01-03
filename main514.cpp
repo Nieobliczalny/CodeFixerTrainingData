@@ -75,7 +75,7 @@ sSu4NkSW = P6_7IQ((short)-1395639031);
 break;
 case 'c':
 case 'C':
-CHOzZm = G_22iS821((short)-1403943569, -552064762);
+CHOzZm = G_22iS821((short)-1403943569, (char)-552064762);
 break;
 case 'd':
 case 'D':
@@ -252,7 +252,7 @@ case 'c':
 SFXY = OLKL / 1329800765;
 break;
 case 'd':
-LYRpMER_1 = P6_7IQ(-712781486);
+LYRpMER_1 = P6_7IQ((short)-712781486);
 break;
 case 'e':
 I2QRj *= sSu4NkSW;
@@ -291,7 +291,7 @@ case 6:
 I2QRj = sSu4NkSW << Q_Pu;
 break;
 case 7:
-t4V0 = P6_7IQ(1470020902);
+t4V0 = P6_7IQ((short)1470020902);
 break;
 case 8:
 QRGCeF = (e1P760_Np != xwlM) ? (unsigned short)1436436875 : P6_7IQ(-1083175856);

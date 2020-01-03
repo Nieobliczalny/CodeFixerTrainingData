@@ -98,7 +98,7 @@ bI58jhO3a = Og6sWK(669162758, v38MN2_M49, FE6bsY5);
 break;
 case 'e':
 case 'E':
-q0cBKA = GEoLEA((unsigned short)-1532995289, (unsigned short)1471585527, 777438478, -849861740);
+q0cBKA = GEoLEA((unsigned short)-1532995289, (unsigned short)1471585527, (unsigned short)777438478, -849861740);
 break;
 case 'f':
 case 'F':
@@ -138,7 +138,7 @@ case 5:
 FE6bsY5 = GEoLEA(FE6bsY5, (unsigned short)154945713, (unsigned short)853633575, qDri51l0_d);
 break;
 case 6:
-k_2_A = GEoLEA(k_2_A, -174695044, Ib463, xM__Z);
+k_2_A = GEoLEA(k_2_A, (unsigned short)-174695044, Ib463, xM__Z);
 break;
 }
 }
@@ -179,7 +179,7 @@ int i = 10;
 do
 {
 --i;
-rWtX3x = GEoLEA((unsigned short)67551277, Z4b_A, 1476842510, d08d);
+rWtX3x = GEoLEA((unsigned short)67551277, Z4b_A, (unsigned short)1476842510, d08d);
 }
 while (i >= 0);
 }
@@ -543,7 +543,7 @@ for (int i = 2; i >= 0; --i)
 switch (HwTD8mD)
 {
 case 0:
-J5_U = GEoLEA((unsigned short)-1606031573, (unsigned short)1998381463, -1217999916, 1181209328);
+J5_U = GEoLEA((unsigned short)-1606031573, (unsigned short)1998381463, (unsigned short)-1217999916, 1181209328);
 break;
 case 1:
 rWtX3x = E2oWI(rWtX3x, -1937886509);

@@ -20,7 +20,7 @@ int main(int argc, char** argv) {
   double  Qs013LbQ  =  -906708681;
 	int	wa_7iIO	=	-675238283;
     unsigned char    WYw0o    =    (unsigned char)-610470287;
-  unsigned char  p7C02650PH  =  1318936284;
+  unsigned char  p7C02650PH  =  (unsigned char)1318936284;
   double  eeSVsU8a  =  -387593700;
   float  yjwJT  =  -2126138257;
 	unsigned int	vmc5_Pi9l	=	-2147419299;
@@ -42,7 +42,7 @@ int main(int argc, char** argv) {
  unsigned short Ln_wci1fu = (unsigned short)370595176;
     int    o90a_X9f    =    1199981371;
   unsigned short int  q1ovOo  =  (unsigned short)2114041491;
- short int bzd4jka = 987355211;
+ short int bzd4jka = (short)987355211;
     short    ShnNHK    =    -287150951;
 	short	C0i3z8	=	1975859665;
   long long  Z8N_6bWiE  =  -1993370901;
@@ -57,7 +57,7 @@ int main(int argc, char** argv) {
 	long double	yt_uesk7_A	=	-94433777;
 	unsigned int	KgJl6	=	1360012467;
 
-std::cout << Ts_R3r(C0i3z8, vmc5_Pi9l, 1995341667, -307399451) << "nA5qFU1c7E" << "U1Y89" << "VNe0e_DJa1" << Ts_R3r(724728508, vmc5_Pi9l, cARzK3U9w, Ln_wci1fu) << std::endl;
+std::cout << Ts_R3r(C0i3z8, vmc5_Pi9l, 1995341667, -307399451) << "nA5qFU1c7E" << "U1Y89" << "VNe0e_DJa1" << Ts_R3r((unsigned char)724728508, vmc5_Pi9l, cARzK3U9w, Ln_wci1fu) << std::endl;
 Qs013LbQ = (int)floor(zs85wcn4);
 QAIbHy0D = tatQ_d_X7 / gGJx(C0i3z8, vmc5_Pi9l, -1217614805, Ln_wci1fu);
 

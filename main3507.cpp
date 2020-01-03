@@ -451,7 +451,7 @@ case 'g':
 ordFz3 = P5L_R43B << 1124762851;
 break;
 case 'h':
-uph8Y611 = k8jba(vs0Pk, 1272960912);
+uph8Y611 = k8jba(vs0Pk, (unsigned short)1272960912);
 break;
 case 'i':
 bVdGc = k8jba(p1Wb1fG_0, bVdGc);

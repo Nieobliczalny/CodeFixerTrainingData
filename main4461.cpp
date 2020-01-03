@@ -22,7 +22,7 @@ int main(void)
   long double  MfGs  =  1136506204;
  long long mWQ5i52 = -1351004510;
   short int  vVGtE  =  (short)-1125048962;
-	unsigned short	FSM01	=	-1008413297;
+	unsigned short	FSM01	=	(unsigned short)-1008413297;
  unsigned int I3mbC = -749139189;
 	int	G82H6PK8_	=	1137467702;
  short lh37_2B7 = -1260671830;
@@ -33,7 +33,7 @@ int main(void)
  unsigned short zj_hpeV4P = 0;
  unsigned char d5WU3S = (unsigned char)1533107397;
  unsigned int zsI_5Ul9 = 535279605;
-  short int  J3Ncq  =  1669625549;
+  short int  J3Ncq  =  (short)1669625549;
  unsigned int fNi1OSP = 30553194;
   unsigned short  DNHB4c2F  =  -928297642;
  unsigned long PE2__HC0oM = 169467837;
@@ -49,7 +49,7 @@ int main(void)
     long    k2K2DuC4P    =    1388183279;
  unsigned int SMM7_k8 = 2025984994;
  short int r1Nx = (short)-1809431039;
- unsigned short G8gezAtS = -437014138;
+ unsigned short G8gezAtS = (unsigned short)-437014138;
  long double Ma6KS = 1898032829;
 	long	wlz0j5	=	-268926886;
  unsigned short QG32477nx = (unsigned short)-1176601306;
@@ -329,7 +329,7 @@ case 7:
 b_8y71 = CaINO3_e((unsigned short)1438119621, RZzk, CJ_t);
 break;
 case 8:
-xfY2s7_8U1 = CaINO3_e(y96s06TrV6, o44y, 1709939273);
+xfY2s7_8U1 = CaINO3_e(y96s06TrV6, o44y, (unsigned short)1709939273);
 break;
 case 9:
 G8gezAtS = wlz0j5 * 1436451311;
@@ -535,7 +535,7 @@ else
 {
 if (cuj7De != mWEr7RGF6)
 {
-xfY2s7_8U1 = CaINO3_e(1623500787, 1750265355, vVGtE);
+xfY2s7_8U1 = CaINO3_e((unsigned short)1623500787, 1750265355, vVGtE);
 }
 else if (FSM01 > -384367944)
 {
@@ -551,7 +551,7 @@ xfY2s7_8U1 = CaINO3_e((unsigned short)-259272120, 1273418443, O6hJz);
 
 b_8y71 = CaINO3_e(n10852GDW, 122662078, d5WU3S);
 
-std::cout << CaINO3_e(n10852GDW, -1165024421, d5WU3S) << "QORIGk" << CaINO3_e((unsigned short)-771182245, 439928403, 829421007) << std::endl;
+std::cout << CaINO3_e(n10852GDW, -1165024421, d5WU3S) << "QORIGk" << CaINO3_e((unsigned short)-771182245, 439928403, (unsigned short)829421007) << std::endl;
 
 switch (mWQ5i52)
 {
@@ -609,7 +609,7 @@ case 'b':
 b_8y71 = CaINO3_e((unsigned short)2104921828, 1901652996, DNHB4c2F);
 break;
 case 'c':
-zj_hpeV4P = CaINO3_e((unsigned short)-659034607, -515305816, -1132234029);
+zj_hpeV4P = CaINO3_e((unsigned short)-659034607, -515305816, (unsigned short)-1132234029);
 break;
 case 'd':
 k2K2DuC4P = y96s06TrV6 % G82H6PK8_;

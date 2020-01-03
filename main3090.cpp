@@ -43,7 +43,7 @@ int main()
   unsigned short  jcK7R24vw;
   jcK7R24vw  =  (unsigned short)284159457;
 	short int	uRl3;
-	uRl3	=	991751508;
+	uRl3	=	(short)991751508;
 	long	qPSI;
 	qPSI	=	95387022;
  int lOfJ;
@@ -55,7 +55,7 @@ int main()
     short    NSL2;
     NSL2    =    (short)-68421034;
 	unsigned char	vp56p;
-	vp56p	=	437730535;
+	vp56p	=	(unsigned char)437730535;
   char  yybfG1MD9n;
   yybfG1MD9n  =  499637;
     short    IIIZhbcax;
@@ -85,7 +85,7 @@ int main()
     char    i5I5J9NZ;
     i5I5J9NZ    =    (char)618059379;
     short    g71G;
-    g71G    =    -968354344;
+    g71G    =    (short)-968354344;
  long double qe8a;
  qe8a = -1633750862;
   unsigned short  k9999U3v;
@@ -97,7 +97,7 @@ int main()
  unsigned short c_6_1z3;
  c_6_1z3 = (unsigned short)-1506845828;
   unsigned char  LY47tdn1;
-  LY47tdn1  =  1560556806;
+  LY47tdn1  =  (unsigned char)1560556806;
     unsigned long    U1256;
     U1256    =    -983022298;
 
@@ -441,7 +441,7 @@ J3s7X = u9800p7(J3s7X, NSL2, (char)-1271961887, DI_sKeslR);
 break;
 case 'd':
 case 'D':
-p1Znk_7I = x9ePn((unsigned short)-1672874070, -143686344, TBAA, 1075671074, -1019938982);
+p1Znk_7I = x9ePn((unsigned short)-1672874070, -143686344, TBAA, 1075671074, (unsigned short)-1019938982);
 break;
 default:
 p23u -= 1904633194;

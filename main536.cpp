@@ -196,7 +196,7 @@ case 6:
 UWvQLK = YnTuQz4h00((unsigned short)175022240);
 break;
 case 7:
-MRc9G2ZO = DZ2AX9C9Y(537307283);
+MRc9G2ZO = DZ2AX9C9Y((unsigned short)537307283);
 break;
 case 8:
 oVz1_WY_WU = Z0FhnDSKA_((short)1491071007, 1081124630, -197776957, G8t5py, MRc9G2ZO);

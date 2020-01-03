@@ -41,7 +41,7 @@ int main() {
   short int  EtLmQ  =  (short)-1597774646;
     char    b_3r    =    0;
   unsigned long long  p4HFTIQ  =  0;
- unsigned char JPo0KDh8j = 2053338472;
+ unsigned char JPo0KDh8j = (unsigned char)2053338472;
 	unsigned short	H3m8k1U	=	718462996;
  unsigned short ZeQl = -1621335294;
  float a8Ddw05Z7 = -1856508468;
@@ -118,7 +118,7 @@ case 6:
 FCcO = c06_Bz & wn5u;
 break;
 case 7:
-H3m8k1U = ix6UzP(1919670349, (char)1064132643, (unsigned char)-392632712, ZeQl, -2092301143);
+H3m8k1U = ix6UzP(1919670349, (char)1064132643, (unsigned char)-392632712, ZeQl, (unsigned short)-2092301143);
 break;
 case 8:
 M_tm1h = CmpbC43xy(M_tm1h, -1059479976);
@@ -204,7 +204,7 @@ u0ddB = ix6UzP(u0ddB, (char)-1000222799, (unsigned char)2045128997, wn5u, Vs_m4O
 }
 else if (V3Uus3PP)
 {
-b_3r = MtQ8ts(-774922746, b_3r, 1946920540, c06_Bz);
+b_3r = MtQ8ts(-774922746, b_3r, (unsigned short)1946920540, c06_Bz);
 }
 else if ((yS15O9A2 == 2062394862) && ((V3Uus3PP != 1345688441) && (b_3r)))
 {
@@ -238,7 +238,7 @@ JPo0KDh8j = H3m8k1U >> 1793491811;
 }
 else if (p4HFTIQ & b_3r)
 {
-std::cout << CmpbC43xy(c06_Bz, JPo0KDh8j) << g0S3r2() << ix6UzP(c06_Bz, (char)168667813, (unsigned char)-804466551, H3m8k1U, EtLmQ) << CmpbC43xy(-1667996544, JPo0KDh8j) << ZeQl << std::endl;
+std::cout << CmpbC43xy(c06_Bz, JPo0KDh8j) << g0S3r2() << ix6UzP(c06_Bz, (char)168667813, (unsigned char)-804466551, H3m8k1U, EtLmQ) << CmpbC43xy((unsigned short)-1667996544, JPo0KDh8j) << ZeQl << std::endl;
 }
 else
 {
@@ -334,7 +334,7 @@ p4HFTIQ = MtQ8ts(EtLmQ, p4HFTIQ, (unsigned short)855379964, a8Ddw05Z7);
 }
 else
 {
-wn5u = CmpbC43xy((unsigned short)-1102531034, -1803407289);
+wn5u = CmpbC43xy((unsigned short)-1102531034, (unsigned char)-1803407289);
 }
 }
 else if (V3Uus3PP)

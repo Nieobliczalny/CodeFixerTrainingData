@@ -69,7 +69,7 @@ YcuAWe0J = 387074853 / j_Mh;
 
 std::cout << Eqla() << wL8HS2pr(P3_P66C, HaJ84_EsrT, ekN_BRt7O) << "XI0CrcnB" << std::endl;
 
-std::cout << "H_9P0_nlr" << Eqla() << "z2KM47t9sY" << wL8HS2pr(-1057698147, HaJ84_EsrT, -1468158297) << std::endl;
+std::cout << "H_9P0_nlr" << Eqla() << "z2KM47t9sY" << wL8HS2pr((char)-1057698147, HaJ84_EsrT, -1468158297) << std::endl;
 
 switch (w_iu)
 {
@@ -83,7 +83,7 @@ case 2:
 HaJ84_EsrT = (int)abs(Th9J) + (2062144215);
 break;
 case 3:
-LDm4m = wL8HS2pr((char)839514873, (char)-1818100451, -674569216);
+LDm4m = wL8HS2pr((char)839514873, (char)-1818100451, (unsigned short)-674569216);
 break;
 case 4:
 RO5OyCyg5J = Eqla();

@@ -16,7 +16,7 @@ int main()
 	unsigned short	VjuN,	PiaN,	Rxd8_,	eEJlhV_,	YloOfs,	FCS1xK83T5,	t_a5CoPWI,	ITMA1,	XDZ363,	fA3L7m93,	Nlc8_UqT,	m027u7p,	PRnjoPw6,	SBxV,	HuTA4o,	gxS9OVQ08G;
 	VjuN	=	(unsigned short)221108400;
 	PiaN	=	(unsigned short)-441081826;
-	Rxd8_	=	-814799008;
+	Rxd8_	=	(unsigned short)-814799008;
 	eEJlhV_	=	812779169;
 	YloOfs	=	67304014;
 	FCS1xK83T5	=	2053771885;
@@ -26,7 +26,7 @@ int main()
 	fA3L7m93	=	1347201071;
 	Nlc8_UqT	=	(unsigned short)-1049198076;
 	m027u7p	=	(unsigned short)483876853;
-	PRnjoPw6	=	2112716642;
+	PRnjoPw6	=	(unsigned short)2112716642;
 	SBxV	=	2112391214;
 	HuTA4o	=	-1934999237;
 	gxS9OVQ08G	=	-922746211;

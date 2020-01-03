@@ -29,7 +29,7 @@ int main(void) {
  unsigned long ltg38p3r_ = 0;
 	double	lQE_9_2	=	-1301772290;
  double PYb5a9 = 1320801448;
- unsigned short IxPZFq = 1015063648;
+ unsigned short IxPZFq = (unsigned short)1015063648;
 
 cout << IxPZFq << endl;
 if (PYb5a9 == FJNhk)

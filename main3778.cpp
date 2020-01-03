@@ -50,7 +50,7 @@ int main()
     unsigned int    HWLU4;
     HWLU4    =    351111954;
  short int jp_sgVK;
- jp_sgVK = -488906455;
+ jp_sgVK = (short)-488906455;
  long long rsyyCqK9;
  rsyyCqK9 = 0;
   long double  Qv5Kyl;

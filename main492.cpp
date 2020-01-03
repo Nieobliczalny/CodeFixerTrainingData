@@ -317,7 +317,7 @@ BsjM = sF2aZ5((short)176768707, oqgVL);
 break;
 case 'e':
 case 'E':
-BsjM = sF2aZ5(-2140015821, j_onF5Wy2);
+BsjM = sF2aZ5((short)-2140015821, j_onF5Wy2);
 break;
 default:
 dB7xy66 *= O_I84;

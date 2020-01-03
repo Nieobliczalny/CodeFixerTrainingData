@@ -259,7 +259,7 @@ cWKh6f3_4 = XS0s1YP6_(b_HTh, (unsigned short)48805736, (unsigned char)-157914942
 }
 for (int i = 0; i < 5; ++i)
 {
-cout << V1hKpyQ61(b_HTh, 554943333, Ywapj3f, 1571837187) << "ce9_90K" << "jwg1f" << ikqKul_ << ykMzB8 << endl;
+cout << V1hKpyQ61(b_HTh, (char)554943333, Ywapj3f, 1571837187) << "ce9_90K" << "jwg1f" << ikqKul_ << ykMzB8 << endl;
 }
 
 kPg_zabJi = (unsigned long)(BWyt);

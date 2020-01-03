@@ -23,7 +23,7 @@ int main(void) {
     short int    QHM3J,    t5_Y1N1I,    reBJ,    pBbpG3VY_,    X03M;
     QHM3J    =    (short)253474913;
     t5_Y1N1I    =    (short)1637644456;
-    reBJ    =    285398731;
+    reBJ    =    (short)285398731;
     pBbpG3VY_    =    -897059225;
     X03M    =    1003059260;
 

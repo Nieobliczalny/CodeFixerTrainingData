@@ -30,7 +30,7 @@ int main() {
     unsigned short int    ekROQe;
     ekROQe    =    (unsigned short)-986660597;
 	short	k2j5;
-	k2j5	=	-1125600620;
+	k2j5	=	(short)-1125600620;
 	unsigned int	Mzzl_lXI_e;
 	Mzzl_lXI_e	=	2123959140;
  unsigned short int U4H4;
@@ -42,7 +42,7 @@ int main() {
 	long long	mDriS6k;
 	mDriS6k	=	129286258;
   unsigned short int  FQnJS;
-  FQnJS  =  -825009948;
+  FQnJS  =  (unsigned short)-825009948;
     unsigned short int    lrl8;
     lrl8    =    1317103549;
  unsigned long long SM_JLf3J;
@@ -60,7 +60,7 @@ int main() {
  unsigned short int bMRQwIk;
  bMRQwIk = (unsigned short)194257832;
     unsigned char    UOgrY2Z_3;
-    UOgrY2Z_3    =    377161575;
+    UOgrY2Z_3    =    (unsigned char)377161575;
   unsigned short int  sSm3FDT2B9;
   sSm3FDT2B9  =  -646248788;
     char    W4rf9r0H3;
@@ -130,7 +130,7 @@ case 1:
 LQagK = v82tC(-1861096265, (char)-74263142, ekROQe);
 break;
 case 2:
-L6b7 = Tq2KjGm((unsigned short)165231318, 1520470479, 1823225202, 370188078, U4H4);
+L6b7 = Tq2KjGm((unsigned short)165231318, 1520470479, (unsigned char)1823225202, 370188078, U4H4);
 break;
 case 3:
 bMRQwIk = SHkZf(bMRQwIk, FUsw, SM_JLf3J);
@@ -348,7 +348,7 @@ case 7:
 W4rf9r0H3 = (int)abs(k2j5);
 break;
 case 8:
-L6b7 = Tq2KjGm((unsigned short)1787257679, kB3jqJl, -206670839, Mzzl_lXI_e, lrl8);
+L6b7 = Tq2KjGm((unsigned short)1787257679, kB3jqJl, (unsigned char)-206670839, Mzzl_lXI_e, lrl8);
 break;
 case 9:
 sSm3FDT2B9++;
@@ -375,7 +375,7 @@ jAjKD0S1i = v82tC(jAjKD0S1i, IJKf82K9_6, U4H4);
 break;
 case 'c':
 case 'C':
-BsMUI = zFmt0_b(-191702092, (unsigned short)-1309729468, -1953558760, -1770965695);
+BsMUI = zFmt0_b(-191702092, (unsigned short)-1309729468, (unsigned short)-1953558760, -1770965695);
 break;
 case 'd':
 case 'D':

@@ -33,7 +33,7 @@ int main()
  short int hpLeFsgaui, TU99hl3OK, vZ3jjZ41_3, O37DGJFm, i07iCq5U0m, OM4h9V, u64Xp, hsi3Xx, J66Ro6, UvxS12, Ra_b27, grn806, QHg8kOqN;
  hpLeFsgaui = (short)969223633;
  TU99hl3OK = (short)-3992829;
- vZ3jjZ41_3 = -1743738003;
+ vZ3jjZ41_3 = (short)-1743738003;
  O37DGJFm = 1380826981;
  i07iCq5U0m = -204783106;
  OM4h9V = 1863969389;
@@ -43,7 +43,7 @@ int main()
  UvxS12 = 479738535;
  Ra_b27 = (short)1666909325;
  grn806 = (short)1548702327;
- QHg8kOqN = -1746397526;
+ QHg8kOqN = (short)-1746397526;
 
 if (TU99hl3OK & PHLo)
 {
@@ -92,7 +92,7 @@ std::cout << "e2o9" << "N_A8_a" << p5JPr9(990188586, (short)-1328618013, (short)
 
 std::cout << "Mr7xT1Qc" << "f4120M" << frSQ() << std::endl;
 vZ3jjZ41_3 = OM4h9V / Xhqg9;
-i07iCq5U0m = rg5Nx5sO(387178741, 248657056);
+i07iCq5U0m = rg5Nx5sO((short)387178741, 248657056);
 
 if (u64Xp < vZ3jjZ41_3)
 {
@@ -231,7 +231,7 @@ else
 P8rZ = p5JPr9(-911470441, UvxS12, (short)733912597, -856367722);
 }
 u64Xp = (short int)(UvxS12);
-hu5wK0u19 = p5JPr9(-409973950, 330780135, vZ3jjZ41_3, O37DGJFm);
+hu5wK0u19 = p5JPr9(-409973950, (short)330780135, vZ3jjZ41_3, O37DGJFm);
 
 if (Ra_b27 == vZ3jjZ41_3)
 {
@@ -259,7 +259,7 @@ case 6:
 hu5wK0u19 = p5JPr9(-609763185, (short)1845024720, hpLeFsgaui, OM4h9V);
 break;
 case 7:
-TU99hl3OK = PHLo + 1547254607;
+TU99hl3OK = PHLo + (short)1547254607;
 break;
 case 8:
 hpLeFsgaui -= J66Ro6;

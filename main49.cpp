@@ -22,7 +22,7 @@ unsigned short int    nySnR_jTB(unsigned long    qpMPOfM,unsigned long    B2J3uP
 }
 
 short int M48vF0s(int NF10,short smdtbrJI0,long long Yg_A,short int mhwJU9M98) {
- return -95247593;
+ return (short)-95247593;
 }
 
 unsigned long	hm6_8(unsigned int	d13b0_9kWv,short int	lkH8aGFh6X)	{

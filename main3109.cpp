@@ -73,7 +73,7 @@ int main()
     unsigned short    gdxI7MyI0o;
     gdxI7MyI0o    =    (unsigned short)1051158530;
   char  P9U83k;
-  P9U83k  =  -1781954363;
+  P9U83k  =  (char)-1781954363;
   short int  PcW9;
   PcW9  =  (short)-1312130559;
  short B8672Hc5;
@@ -114,7 +114,7 @@ H_5Pauw = oebH2zNrC_(P9U83k);
 }
 }
 
-cout << oebH2zNrC_(P9U83k) << hi6tOu((unsigned char)1406766720, H_5Pauw, 401631826, (char)-570380448, 1219615429) << hi6tOu(P9U83k, H_5Pauw, t96Vy, -1556220401, RqNix0y) << endl;
+cout << oebH2zNrC_(P9U83k) << hi6tOu((unsigned char)1406766720, H_5Pauw, 401631826, (char)-570380448, (short)1219615429) << hi6tOu(P9U83k, H_5Pauw, t96Vy, -1556220401, RqNix0y) << endl;
 cout << hi6tOu(1076933873, H_5Pauw, 793806403, PcW9, RqNix0y) << "Y7E3d_z4Dd" << "eXK19k24" << endl;
 X3H2D3 = oebH2zNrC_(zWCt8JpFF);
 

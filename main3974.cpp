@@ -87,7 +87,7 @@ YFSSjJmMeU = FrS2wa - 1797429291;
 }
 }
 
-cTC_x = k4ls3EvdMM((short)-806363715, (short)-13755008, -643780144);
+cTC_x = k4ls3EvdMM((short)-806363715, (short)-13755008, (unsigned short)-643780144);
 
 if ((xYrO4yt7Q < UwSa) && (cTC_x))
 {

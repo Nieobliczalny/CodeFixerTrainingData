@@ -35,7 +35,7 @@ int main(int argc, char** argv) {
  unsigned long sH8KT;
  sH8KT = 1937895774;
     short int    e8Eq4;
-    e8Eq4    =    377603082;
+    e8Eq4    =    (short)377603082;
 	int	lo9L;
 	lo9L	=	0;
 	short	b09QNJ8rwU;
@@ -51,7 +51,7 @@ int main(int argc, char** argv) {
   char  QL4_k;
   QL4_k  =  (char)435573627;
   short  ng3mkN;
-  ng3mkN  =  -1269865139;
+  ng3mkN  =  (short)-1269865139;
   long double  bb8DZ0ap;
   bb8DZ0ap  =  103500532;
 
@@ -200,7 +200,7 @@ nbjXVL = (int)floor(CeS1);
 P1BjY9 = URcaG681(-2134863277, 1565317997, 248735012, (unsigned short)-841746391, (short)-59782239) - 2014570110;
 
 F9WI2 = (int)abs(nbjXVL);
-lo9L = URcaG681(-2144330900, Nn80, -1159199197, CeS1, -1966699688);
+lo9L = URcaG681(-2144330900, Nn80, -1159199197, CeS1, (short)-1966699688);
 if ((OEr0p1Tfg != -643730196) && (eMQt1G))
 {
 bb8DZ0ap = (long double)(OEr0p1Tfg);

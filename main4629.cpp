@@ -60,7 +60,7 @@ int main(int argc, char** argv)
   unsigned long long  tqSKstu5vq;
   tqSKstu5vq  =  2019568681;
   char  Vg8r7y0j;
-  Vg8r7y0j  =  -54283933;
+  Vg8r7y0j  =  (char)-54283933;
  short int O0Id6_VE;
  O0Id6_VE = -1443658271;
   float  mDjgfZf;
@@ -286,7 +286,7 @@ case 3:
 y2XBP9 = (int)ceil(egZgf0);
 break;
 case 4:
-Vz54 = VgNZ(78004725, sP_1j6, I_nmgHI_, Vz54, 1558249056);
+Vz54 = VgNZ((short)78004725, sP_1j6, I_nmgHI_, Vz54, 1558249056);
 break;
 case 5:
 WctLO1i0 /= RKI_7;

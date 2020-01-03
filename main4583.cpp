@@ -20,7 +20,7 @@ unsigned short int  wwU8BBF2T3(unsigned long  Iiy52jO,unsigned short int  avdR,u
 }
 
 short RAPZaj() {
- return 1979729402;
+ return (short)1979729402;
 }
 
 long  vYi033YR(unsigned char  zU80Y8U,long  qh5vO69dZ,char  T2Jyfc6N59,unsigned long  t_pu8OyT1)  {
@@ -35,7 +35,7 @@ unsigned short  K4w_(long  q283IUF1qz)
 int main()
 {
  short int G0sC_0vn = (short)38656102;
- unsigned short int Ob_ldWVhla = 1317902154;
+ unsigned short int Ob_ldWVhla = (unsigned short)1317902154;
  unsigned char Hgd3125sw7 = 1800251799;
     double    VvNyV_B02I    =    -457917821;
 	unsigned long	bLfT_951J	=	1405686165;
@@ -50,7 +50,7 @@ int main()
   long long  NTYY  =  -2138370119;
 	long double	H5tZ7N32d	=	-584747343;
  char fHN7 = (char)388769477;
-    char    L1kkKE    =    927919465;
+    char    L1kkKE    =    (char)927919465;
 	long double	v_E04	=	-1788427850;
   short  ulVx  =  -1508925342;
   long long  a1oaUqlU0C  =  227367924;
@@ -65,7 +65,7 @@ int main()
  double H0ifPs = -1126141652;
   unsigned long  m0A7E8  =  547249786;
     float    V4lj4D1    =    1991918452;
-  unsigned short  SwB7LFe9  =  958440394;
+  unsigned short  SwB7LFe9  =  (unsigned short)958440394;
  long g1KBHq7c4 = -1985781680;
     int    Y518Tj0m    =    -1429141320;
  char Xa1WbO = (char)-596674190;
@@ -429,7 +429,7 @@ for (int i = 0; i < 7; ++i)
 {
 if (Y518Tj0m)
 {
-cout << wwU8BBF2T3(Dmcb1u9x, (unsigned short)14623194, a1oaUqlU0C, oKCTb3u165) << v_E04 << "BRbKU" << vYi033YR(Dmcb1u9x, 1635379137, -1752967195, -1302306614) << endl;
+cout << wwU8BBF2T3(Dmcb1u9x, (unsigned short)14623194, a1oaUqlU0C, oKCTb3u165) << v_E04 << "BRbKU" << vYi033YR(Dmcb1u9x, 1635379137, (char)-1752967195, -1302306614) << endl;
 }
 else
 {

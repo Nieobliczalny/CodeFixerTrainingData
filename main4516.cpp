@@ -60,7 +60,7 @@ int main(void)
   unsigned short  pJ1BOe1Y_;
   pJ1BOe1Y_  =  (unsigned short)564373800;
 	short	BLwgF;
-	BLwgF	=	-1465382257;
+	BLwgF	=	(short)-1465382257;
 	unsigned short int	Pr7o6G;
 	Pr7o6G	=	(unsigned short)-240952728;
 	long	zyLNw_Seh_;
@@ -84,7 +84,7 @@ int main(void)
   unsigned char  l_0X01Mt_P;
   l_0X01Mt_P  =  0;
   short  sbu5yl0Bz6;
-  sbu5yl0Bz6  =  861276703;
+  sbu5yl0Bz6  =  (short)861276703;
 	long	jOsu;
 	jOsu	=	-1981001678;
   unsigned char  ID3o_UP9A;

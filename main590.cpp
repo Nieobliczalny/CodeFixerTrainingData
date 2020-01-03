@@ -19,7 +19,7 @@ int main(int argc, char** argv) {
     unsigned short    mS69lY    =    (unsigned short)1908923285;
 	long	EkfC_E	=	363535327;
  unsigned long y2Zkvr_ = -1697768198;
-    short    K1_2292W    =    2066519668;
+    short    K1_2292W    =    (short)2066519668;
 	long	LpkIw4Z	=	0;
  float H2ST = 1694845360;
  double F3jzNk2 = 1876425503;
@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
   int  SoS__LX2  =  -1817959348;
  long long s93g_eF9m = -1400791218;
 	unsigned short	C937	=	(unsigned short)517019885;
-    unsigned short int    SQh_II7    =    126697011;
+    unsigned short int    SQh_II7    =    (unsigned short)126697011;
 
 if (H2ST >= -1381133367)
 {
@@ -192,7 +192,7 @@ EkfC_E = (int)abs(NJHRsOW46b) + (1507379570);
 
 LpkIw4Z = H3xe2oEgp(-47617704, K1_2292W, (unsigned char)468781806, RUTd3xIvj8, LpkIw4Z);
 
-s93g_eF9m = G_sAjxWd / H3xe2oEgp(-451138665, 1146592907, (unsigned char)1958343072, -1140857758, LpkIw4Z);
+s93g_eF9m = G_sAjxWd / H3xe2oEgp(-451138665, 1146592907, (unsigned char)1958343072, (unsigned char)-1140857758, LpkIw4Z);
 switch (mS69lY)
 {
 case 'a':
@@ -209,7 +209,7 @@ NJHRsOW46b = H3xe2oEgp(NJHRsOW46b, y2Zkvr_, (unsigned char)-1993238006, (unsigne
 break;
 case 'd':
 case 'D':
-LpkIw4Z = H3xe2oEgp(EkfC_E, -85954892, LpkIw4Z, -1358909957, 1457486796);
+LpkIw4Z = H3xe2oEgp(EkfC_E, -85954892, LpkIw4Z, (unsigned char)-1358909957, 1457486796);
 break;
 case 'e':
 case 'E':
@@ -231,7 +231,7 @@ cout << mS69lY << H3xe2oEgp(F3jzNk2, C937, (unsigned char)-1509877420, mr9dnq, k
 switch (WSpD3e)
 {
 case 0:
-w9k_TI = H3xe2oEgp(-428755893, SQh_II7, -1483838881, -41054177, -1490053652);
+w9k_TI = H3xe2oEgp(-428755893, SQh_II7, (unsigned char)-1483838881, -41054177, -1490053652);
 break;
 case 1:
 H2ST = (int)ceil(F3jzNk2);
@@ -368,7 +368,7 @@ case 'd':
 h0Yo387L %= s93g_eF9m;
 break;
 case 'e':
-NJHRsOW46b = H3xe2oEgp(479662809, r5FM, 2000888355, K1_2292W, -532824358);
+NJHRsOW46b = H3xe2oEgp(479662809, r5FM, (unsigned char)2000888355, K1_2292W, -532824358);
 break;
 case 'f':
 F3jzNk2 = (int)abs(SoS__LX2);
@@ -441,7 +441,7 @@ case 'j':
 H2ST = (int)abs(NJHRsOW46b) + (-743218573);
 break;
 default:
-mr9dnq = H3xe2oEgp(-517310376, 1728509833, 310444497, -1031156393, y2Zkvr_);
+mr9dnq = H3xe2oEgp(-517310376, 1728509833, (unsigned char)310444497, -1031156393, y2Zkvr_);
 break;
 }
 }

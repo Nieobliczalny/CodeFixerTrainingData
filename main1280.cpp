@@ -49,7 +49,7 @@ int main(int argc, char** argv)
 	unsigned short int	Wn7e3rCw5;
 	Wn7e3rCw5	=	(unsigned short)-1027803680;
   short int  lLh9o_U_1Z;
-  lLh9o_U_1Z  =  1284944300;
+  lLh9o_U_1Z  =  (short)1284944300;
  char mX_Ez;
  mX_Ez = (char)-1775951706;
     long    U797E_SH82;

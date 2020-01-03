@@ -44,7 +44,7 @@ int main(int argc, char** argv) {
 	unsigned long	b8aUteEu;
 	b8aUteEu	=	-217247836;
  unsigned short int a90C4_2;
- a90C4_2 = 1888205340;
+ a90C4_2 = (unsigned short)1888205340;
 	unsigned long	F_HS_s;
 	F_HS_s	=	752124866;
   unsigned long  HbC_;
@@ -54,7 +54,7 @@ int main(int argc, char** argv) {
  char sHZSkw;
  sHZSkw = (char)-500984279;
     short int    Z4_ui;
-    Z4_ui    =    99691877;
+    Z4_ui    =    (short)99691877;
  long long fpXxIz3er;
  fpXxIz3er = 267844253;
 	unsigned long long	xE3G_C;
@@ -176,7 +176,7 @@ while (k >= 0);
 }
 else
 {
-std::cout << g81_iCZ35 << Q8OFLkG11Z((unsigned char)-1012049766, -523807468, xE3G_C, 891402702, iGZ0Qa) << f__vG(ED7nEC43e7, 1527601509, xE3G_C, f030LyW, iGZ0Qa) << j38yxT91() << std::endl;
+std::cout << g81_iCZ35 << Q8OFLkG11Z((unsigned char)-1012049766, -523807468, xE3G_C, 891402702, iGZ0Qa) << f__vG(ED7nEC43e7, (short)1527601509, xE3G_C, f030LyW, iGZ0Qa) << j38yxT91() << std::endl;
 }
 for (int i = 3; i >= 0; i--)
 {
@@ -320,7 +320,7 @@ case 3:
 A17vtmE7Cg = (int)abs(g81_iCZ35);
 break;
 case 4:
-HbC_ = f__vG(-2064228856, (short)-1582071331, fpXxIz3er, 1644793124, ED7nEC43e7) * 205117326;
+HbC_ = f__vG(-2064228856, (short)-1582071331, fpXxIz3er, (char)1644793124, ED7nEC43e7) * 205117326;
 break;
 case 5:
 A_N9hpo7tO = qGRYpV(996714111, 1943320841);
@@ -332,7 +332,7 @@ break;
 WHn6MWM_G--;
 ED7nEC43e7 = nc9uLg / xE3G_C;
 WG9_N = (short int)(NqBbN2_QIo * WG9_N);
-T6A7A = JSQ41((char)200074533, 2038621604, 353444283);
+T6A7A = JSQ41((char)200074533, 2038621604, (short)353444283);
 A17vtmE7Cg = j38yxT91() + 1404656240;
 {
 int i = 4;

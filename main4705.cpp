@@ -25,7 +25,7 @@ int main(void)
 {
 	long long	FNFKW2k6	=	0;
   unsigned char  t1oMQn  =  (unsigned char)1298120747;
- char n9NXA1Miy = -1520582079;
+ char n9NXA1Miy = (char)-1520582079;
 	int	JidV	=	40626606;
     short    yr3MAEhW_7    =    -42702502;
   char  fo6Ru0q22  =  0;

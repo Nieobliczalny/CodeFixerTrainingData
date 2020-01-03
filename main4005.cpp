@@ -64,7 +64,7 @@ case 'd':
 S1M4yD1QI = G2wjFL88((short)618884380, -1291253777);
 break;
 case 'e':
-qPKM5 = iwQr16j(Oq_0, f4_H11Kfp, (unsigned char)-1366057323, f_5HDXq7, 871043684);
+qPKM5 = iwQr16j(Oq_0, f4_H11Kfp, (unsigned char)-1366057323, f_5HDXq7, (unsigned char)871043684);
 break;
 case 'f':
 TC32PC8u_ = (int)abs(f_5HDXq7);
@@ -114,7 +114,7 @@ qPKM5 = iwQr16j((unsigned short)754899326, TC32PC8u_, (unsigned char)1038581522,
 }
 for (int i = 1; i >= 0; i--)
 {
-std::cout << "s6TM729" << "qzDEw4" << G2wjFL88(136400479, TC32PC8u_) << iwQr16j(S1M4yD1QI, TC32PC8u_, f4_H11Kfp, 135303531, bb0rjtGi) << "mdlji" << std::endl;
+std::cout << "s6TM729" << "qzDEw4" << G2wjFL88((short)136400479, TC32PC8u_) << iwQr16j(S1M4yD1QI, TC32PC8u_, f4_H11Kfp, 135303531, bb0rjtGi) << "mdlji" << std::endl;
 }
 {
 int i = 0;
@@ -386,7 +386,7 @@ case 3:
 Eups = (int)floor(Y_C_x2OrQW);
 break;
 case 4:
-qPKM5 = iwQr16j((unsigned short)-1302604154, (unsigned short)1736724493, Y_C_x2OrQW, -1481155582, 1867945581);
+qPKM5 = iwQr16j((unsigned short)-1302604154, (unsigned short)1736724493, Y_C_x2OrQW, -1481155582, (unsigned char)1867945581);
 break;
 case 5:
 Oq_0 = (f4_H11Kfp) ? bb0rjtGi : -574912490;

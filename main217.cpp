@@ -28,7 +28,7 @@ int main()
     unsigned int    OD6z5u;
     OD6z5u    =    0;
  char RRCvC;
- RRCvC = -684151200;
+ RRCvC = (char)-684151200;
     unsigned long    hQCI9xfrM;
     hQCI9xfrM    =    -1897493672;
   long  U70x72K;
@@ -40,7 +40,7 @@ int main()
     unsigned short    Tk_H_67f;
     Tk_H_67f    =    (unsigned short)-1867972387;
 	unsigned short int	fOe3W;
-	fOe3W	=	1343063576;
+	fOe3W	=	(unsigned short)1343063576;
 	unsigned int	zg4948afa;
 	zg4948afa	=	-155037869;
   long double  bVq33n7_;
@@ -58,7 +58,7 @@ int main()
  short DEjlII_X;
  DEjlII_X = (short)-2087384362;
     unsigned short int    u852OCq;
-    u852OCq    =    -1048963298;
+    u852OCq    =    (unsigned short)-1048963298;
 	unsigned short int	lqH_bbX;
 	lqH_bbX	=	-1844380515;
  long FgB7;
@@ -78,7 +78,7 @@ int main()
  unsigned short E_8Ql8Quo_;
  E_8Ql8Quo_ = (unsigned short)-566765452;
  short TthpAHcg4;
- TthpAHcg4 = 398111386;
+ TthpAHcg4 = (short)398111386;
     float    x3RVm;
     x3RVm    =    756809532;
 	unsigned long long	e44J4Em;
@@ -104,7 +104,7 @@ int main()
  unsigned char Ex0R;
  Ex0R = 0;
     short    dsc6xk;
-    dsc6xk    =    1199252259;
+    dsc6xk    =    (short)1199252259;
  long xQj_qWX;
  xQj_qWX = 2053164653;
  unsigned short int Nk2ZuWma;
@@ -134,7 +134,7 @@ int main()
   unsigned int  WED5;
   WED5  =  972021551;
   char  HATX;
-  HATX  =  -586659917;
+  HATX  =  (char)-586659917;
     unsigned int    Gmo3z;
     Gmo3z    =    1909269656;
   unsigned long long  E9ixrP;
@@ -162,7 +162,7 @@ int main()
     float    Y6zjdkUY_;
     Y6zjdkUY_    =    782077211;
  char F2nx3;
- F2nx3 = -1553106180;
+ F2nx3 = (char)-1553106180;
     double    P2IKpRX9d2;
     P2IKpRX9d2    =    519586283;
 	long	SZz23h;
@@ -189,7 +189,7 @@ case 1:
 d7JK7R8 = Y_zgLqj41((unsigned char)-805533840, (unsigned short)-388397450);
 break;
 case 2:
-OD6z5u = Y_zgLqj41(915872286, -636314521);
+OD6z5u = Y_zgLqj41((unsigned char)915872286, -636314521);
 break;
 case 3:
 bVq33n7_ = (int)ceil(BOP53);
@@ -376,7 +376,7 @@ case 5:
 WRh02EVQyT = (int)ceil(rX5jLC);
 break;
 }
-Ex0R = Y_zgLqj41((unsigned char)847579882, 842722870);
+Ex0R = Y_zgLqj41((unsigned char)847579882, (unsigned short)842722870);
 
 bVq33n7_ = (long double)(vUiK9MvB);
 

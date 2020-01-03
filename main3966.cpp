@@ -33,7 +33,7 @@ int main(int argc, char** argv)
   short  GEG2EGo;
   GEG2EGo  =  (short)-1470908217;
   char  Q3xXG2I6j;
-  Q3xXG2I6j  =  1015714418;
+  Q3xXG2I6j  =  (char)1015714418;
 	float	y07V;
 	y07V	=	-2109555285;
  short H4Ik;
@@ -71,7 +71,7 @@ int main(int argc, char** argv)
  long double h3q7D98N92;
  h3q7D98N92 = -647733660;
     unsigned short int    w22XbtAhD;
-    w22XbtAhD    =    -850575735;
+    w22XbtAhD    =    (unsigned short)-850575735;
   int  Dx9CP5d0dE;
   Dx9CP5d0dE  =  -388211109;
 	unsigned short int	Uu5LV2CEM9;
@@ -123,7 +123,7 @@ case 2:
 dRJGS = NU_Nr09EFQ(-1787110523, (short)-1713763777, w22XbtAhD, W_5a2305k) >> PBF4Ljp6Kq;
 break;
 case 3:
-xsXH8t7TA = NU_Nr09EFQ(1187008841, Dx9CP5d0dE, (short)-1061530355, -1111457745);
+xsXH8t7TA = NU_Nr09EFQ(1187008841, Dx9CP5d0dE, (short)-1061530355, (char)-1111457745);
 break;
 }
 ht96f = sPA_cub3 / Gu8lTBCN;

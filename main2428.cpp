@@ -57,7 +57,7 @@ int main()
  unsigned char pj4O6U;
  pj4O6U = (unsigned char)419817770;
 	unsigned char	k3Ts4JZb;
-	k3Ts4JZb	=	-1681374405;
+	k3Ts4JZb	=	(unsigned char)-1681374405;
 	float	mzc4Ypt;
 	mzc4Ypt	=	-2145625187;
  int d0MA;
@@ -111,7 +111,7 @@ int main()
   unsigned short int  JPE2;
   JPE2  =  (unsigned short)325585583;
   short  F7Nv1e3F;
-  F7Nv1e3F  =  -1126639742;
+  F7Nv1e3F  =  (short)-1126639742;
 	long	ZTy0fQa;
 	ZTy0fQa	=	443270559;
  unsigned char Y4NzK0tyq8;
@@ -336,7 +336,7 @@ wR2r6U = hpwQV3ebLQ(wR2r6U, MlFl9X, (unsigned short)-705367172, -1469876983);
 break;
 case 'f':
 case 'F':
-Y4NzK0tyq8 = (r24KZFZ == T1E2Hrzpx3) ? (unsigned char)-1730248660 : -360801252;
+Y4NzK0tyq8 = (r24KZFZ == T1E2Hrzpx3) ? (unsigned char)-1730248660 : (unsigned char)-360801252;
 break;
 default:
 F7Nv1e3F++;
@@ -378,7 +378,7 @@ else if (iuPyrPeN >= -1531078560)
 int j = 0;
 do
 {
-std::cout << F7Nv1e3F << "RmkAj9_" << O55Oo << l5hH82(mzc4Ypt, JUziVK6gx, (unsigned short)643744277, (short)-830780105, -1774655429) << l5hH82(mzc4Ypt, 505038602, -511984662, 2091639563, RqNEHy4_e) << std::endl;
+std::cout << F7Nv1e3F << "RmkAj9_" << O55Oo << l5hH82(mzc4Ypt, JUziVK6gx, (unsigned short)643744277, (short)-830780105, -1774655429) << l5hH82(mzc4Ypt, (unsigned char)505038602, -511984662, 2091639563, RqNEHy4_e) << std::endl;
 j++;
 }
 while (j < 10);

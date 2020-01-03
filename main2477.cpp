@@ -24,7 +24,7 @@ int main(void)
     short    F9yX    =    (short)330291766;
  unsigned short int b90UB5g = (unsigned short)-274062640;
     long double    AN91_U18    =    -814098728;
-	unsigned short int	w6b0	=	1795528220;
+	unsigned short int	w6b0	=	(unsigned short)1795528220;
 	int	B_G4yt255_	=	-698293677;
     long double    xOnHB1ji67    =    -1358734963;
   unsigned short  r036u  =  1360160214;
@@ -37,7 +37,7 @@ int main(void)
   long  xp20751068  =  706274520;
   unsigned long long  Gk47wH8Pm  =  251138327;
     unsigned short    pR2A6r28b2    =    0;
- short int XC_8p3 = -25476732;
+ short int XC_8p3 = (short)-25476732;
     double    wkR4KoQ    =    380051722;
     unsigned short int    x66n_70Pp    =    2122116455;
   int  QK_8e_vb  =  -1601389505;
@@ -49,7 +49,7 @@ int main(void)
 	unsigned short	qYDoj_4Bu	=	(unsigned short)1689820413;
     long    XNtT03    =    -1696858341;
   long double  i78a_0  =  1399265064;
-    unsigned char    Rg2VLiu    =    371958851;
+    unsigned char    Rg2VLiu    =    (unsigned char)371958851;
 	long	Ivv_k8	=	1921871857;
   char  qK67dx1  =  (char)80587895;
 	int	YVL_94f9	=	1326824706;
@@ -59,7 +59,7 @@ int main(void)
   unsigned short int  V6nG  =  (unsigned short)-1558440613;
  long long pEIeo5bQ = -1641964090;
     long long    NyOe7    =    -279581874;
-	short	P7r2j3	=	1949150454;
+	short	P7r2j3	=	(short)1949150454;
     int    xCDs    =    -1370712244;
  unsigned short int lnh5U = (unsigned short)-853504971;
 	int	xSq02IYp	=	1750114227;
@@ -77,7 +77,7 @@ int main(void)
     long long    ECPURhCLY    =    -1682648746;
  unsigned char mEIe3T5T2 = (unsigned char)-1725335592;
   unsigned short int  ZIagI7625  =  (unsigned short)-1877828540;
- unsigned char FLfj = -693015688;
+ unsigned char FLfj = (unsigned char)-693015688;
  double k5Q61n6Llu = 2053024769;
   double  Ay9GJT  =  -68428802;
   unsigned int  PSRgjP  =  2043096052;
@@ -93,7 +93,7 @@ int main(void)
     unsigned char    y2J_    =    (unsigned char)2068883767;
     float    ICF03L6    =    -1922262786;
  unsigned int J9503I = -459206759;
-    short int    F_Q46    =    -472276944;
+    short int    F_Q46    =    (short)-472276944;
     unsigned int    w2__I33Q    =    -777297717;
 	unsigned short	Fy95IsV_	=	572716675;
 	unsigned long	wl1pIlwI	=	2141925855;

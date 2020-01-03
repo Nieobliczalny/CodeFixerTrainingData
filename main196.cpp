@@ -58,7 +58,7 @@ case 'a':
 Q3Cp = NeutTWdU2((unsigned short)-628998604, sA22EX4, (char)-985168817, m36H_0uW);
 break;
 case 'b':
-Q3Cp = NeutTWdU2(-1696278405, -1326758926, MhAa9OyF2h, cO6LT3F9Dd);
+Q3Cp = NeutTWdU2((unsigned short)-1696278405, -1326758926, MhAa9OyF2h, cO6LT3F9Dd);
 break;
 case 'c':
 Q3Cp = NeutTWdU2(gkyD, 1226860813, 1305234208, M76Kbh7a);
@@ -79,7 +79,7 @@ case 'h':
 tpV2jx3S7 = (int)abs(M76Kbh7a);
 break;
 default:
-Q3Cp = NeutTWdU2((unsigned short)1078418146, (unsigned short)294805229, A50u, 1353562379);
+Q3Cp = NeutTWdU2((unsigned short)1078418146, (unsigned short)294805229, A50u, (unsigned char)1353562379);
 break;
 }
 }
@@ -111,7 +111,7 @@ Q3Cp = NeutTWdU2(A50u, d3qJwl, (char)-1797487344, Q3Cp);
 }
 else if (RTTL < cO6LT3F9Dd)
 {
-Q3Cp = NeutTWdU2(gkyD, MhAa9OyF2h, -1178765363, -2056605702);
+Q3Cp = NeutTWdU2(gkyD, MhAa9OyF2h, (char)-1178765363, -2056605702);
 }
 else if ((MhAa9OyF2h <= d7Xs6bt1lk) && ((sA22EX4 <= -421251219) && (A50u >= -924901277)))
 {
@@ -162,7 +162,7 @@ MhAa9OyF2h %= EVeXV1;
 }
 else if (Q3Cp <= -1960303163)
 {
-Q3Cp = NeutTWdU2((unsigned short)-377393998, -99733710, Dmra_, -1562570218);
+Q3Cp = NeutTWdU2((unsigned short)-377393998, (unsigned short)-99733710, Dmra_, -1562570218);
 }
 else
 {
@@ -186,7 +186,7 @@ Q3Cp = NeutTWdU2((unsigned short)-1155397446, (unsigned short)-1272989782, d7Xs6
 break;
 case 'b':
 case 'B':
-A50u = NeutTWdU2(2053191709, MhAa9OyF2h, 2104584570, r223Sx37li) >> 53919470;
+A50u = NeutTWdU2((unsigned short)2053191709, MhAa9OyF2h, 2104584570, r223Sx37li) >> 53919470;
 break;
 }
 {
@@ -210,7 +210,7 @@ catch (int& errorCode)
 {
 yT0nxsI7 *= MhAa9OyF2h;
 }
-std::cout << 1691335886 / NeutTWdU2(F5eqh, sM7n1N, -2048344979, -1541555523) << std::endl;
+std::cout << 1691335886 / NeutTWdU2(F5eqh, sM7n1N, (char)-2048344979, -1541555523) << std::endl;
 
 std::cout << r223Sx37li << sA22EX4 << NeutTWdU2(F5eqh, sM7n1N, d7Xs6bt1lk, -1973177695) << "GC_3J7HJv" << "jYSrL86_K" << std::endl;
 
@@ -222,7 +222,7 @@ Q3Cp = NeutTWdU2(nJ82Hc, (unsigned short)-207897500, tpV2jx3S7, (unsigned char)5
 break;
 case 'b':
 case 'B':
-Q3Cp = NeutTWdU2(227221540, 1187723974, -1758612788, m36H_0uW);
+Q3Cp = NeutTWdU2((unsigned short)227221540, 1187723974, -1758612788, m36H_0uW);
 break;
 case 'c':
 case 'C':
@@ -233,7 +233,7 @@ case 'D':
 EVeXV1 += 1447705163;
 break;
 default:
-Q3Cp = NeutTWdU2(X9MRjE395c, (unsigned short)1111596210, (char)1957544899, 2106125769);
+Q3Cp = NeutTWdU2(X9MRjE395c, (unsigned short)1111596210, (char)1957544899, (unsigned char)2106125769);
 break;
 }
 std::cout << "O0RaX51" << NeutTWdU2(X9MRjE395c, tpV2jx3S7, m36H_0uW, -12792684) << "Ds_14" << "QIJH" << std::endl;
@@ -246,7 +246,7 @@ nJ82Hc %= cO6LT3F9Dd;
 switch (qfHu9HOBH)
 {
 case 0:
-Q3Cp = NeutTWdU2((unsigned short)634669594, (unsigned short)-756000870, sA22EX4, 1829076083);
+Q3Cp = NeutTWdU2((unsigned short)634669594, (unsigned short)-756000870, sA22EX4, (unsigned char)1829076083);
 break;
 case 1:
 Q3Cp = NeutTWdU2(GpB28n, cO6LT3F9Dd, -963574132, F5eqh);
@@ -328,7 +328,7 @@ do
 {
 if (WTXBzVLxv < -1798822824)
 {
-Q3Cp = NeutTWdU2(EVeXV1, MhAa9OyF2h, yT0nxsI7, -339918981);
+Q3Cp = NeutTWdU2(EVeXV1, MhAa9OyF2h, yT0nxsI7, (unsigned char)-339918981);
 }
 else
 {
@@ -350,7 +350,7 @@ int k = 0;
 while (k < 8)
 {
 k++;
-Q3Cp = NeutTWdU2((unsigned short)-1567805652, (unsigned short)1157330874, 2082799118, -598020291);
+Q3Cp = NeutTWdU2((unsigned short)-1567805652, (unsigned short)1157330874, (char)2082799118, -598020291);
 }
 }
 }

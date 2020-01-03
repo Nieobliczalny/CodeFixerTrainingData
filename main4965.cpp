@@ -36,7 +36,7 @@ int main(int argc, char** argv)
  float t4or92;
  t4or92 = -1287329863;
  short int pbJ6s_;
- pbJ6s_ = -691233527;
+ pbJ6s_ = (short)-691233527;
 	unsigned long	tlb9pH263;
 	tlb9pH263	=	317520237;
     int    ewrVyL7fq1;
@@ -265,7 +265,7 @@ for (int j = 0; j < 3; ++j)
 {
 if (((VZ4YBE & D_K_kW5_z5) || (t4or92 >= -1650354103)) && ((jV4OElp > F5IOaISd) && (WubZ5vzli5 != -164703810)))
 {
-jV4OElp = j0X21_4Z(-625660821, 1972232069, 1795681929);
+jV4OElp = j0X21_4Z((short)-625660821, 1972232069, 1795681929);
 }
 }
 }

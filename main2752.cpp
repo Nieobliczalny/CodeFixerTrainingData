@@ -150,7 +150,7 @@ uXrfhTvIVl = Jaf8_X(1238991003, (char)473076025, Z91Au12Ta, (unsigned short)3815
 }
 else if (EO5d299d75 == cJqOZl)
 {
-uXrfhTvIVl = Jaf8_X(mRV9EUJF, 308917899, m2_69uu0, bG29EHm);
+uXrfhTvIVl = Jaf8_X(mRV9EUJF, (char)308917899, m2_69uu0, bG29EHm);
 }
 else if (Kljb0m & QD_APg)
 {

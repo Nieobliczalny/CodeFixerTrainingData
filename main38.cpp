@@ -22,7 +22,7 @@ int main(int argc, char** argv)
 	unsigned long long	q_BI;
 	q_BI	=	-677626238;
  unsigned short dTrv823G;
- dTrv823G = -259609905;
+ dTrv823G = (unsigned short)-259609905;
     unsigned int    Y51_M3;
     Y51_M3    =    -959239789;
     unsigned long    b3AqTjt;
@@ -44,7 +44,7 @@ int main(int argc, char** argv)
  short int yejWusU;
  yejWusU = (short)-1050068865;
  short AmX0bEIRp;
- AmX0bEIRp = -376790157;
+ AmX0bEIRp = (short)-376790157;
   short int  U__claY2;
   U__claY2  =  (short)347977523;
   long double  dwA3B_;
@@ -60,7 +60,7 @@ int main(int argc, char** argv)
 	unsigned char	K9f8cN3;
 	K9f8cN3	=	(unsigned char)1885083977;
 	unsigned short	SH2h2;
-	SH2h2	=	313127389;
+	SH2h2	=	(unsigned short)313127389;
   short int  mLLz5;
   mLLz5  =  (short)-601549386;
   char  hqYV7;
@@ -96,7 +96,7 @@ int main(int argc, char** argv)
 	unsigned short int	V4VS035;
 	V4VS035	=	(unsigned short)-2052854088;
     short int    jb2e;
-    jb2e    =    -1642224099;
+    jb2e    =    (short)-1642224099;
  int jiuo;
  jiuo = -1125354088;
     long double    WL0O9gXL3;
@@ -110,7 +110,7 @@ int main(int argc, char** argv)
     long double    TSF2w7;
     TSF2w7    =    789843740;
 	unsigned short	AdxPbnKjzS;
-	AdxPbnKjzS	=	1171296626;
+	AdxPbnKjzS	=	(unsigned short)1171296626;
  double bY6qNz5o7J;
  bY6qNz5o7J = 622289813;
 	unsigned long	nlk08;
@@ -154,7 +154,7 @@ int main(int argc, char** argv)
  int k0eRNKGa_;
  k0eRNKGa_ = 700809678;
   unsigned char  yXQS7ikL;
-  yXQS7ikL  =  1945170531;
+  yXQS7ikL  =  (unsigned char)1945170531;
   long double  k56rDMQ9L;
   k56rDMQ9L  =  291462646;
  long lh2B8LR;
@@ -170,7 +170,7 @@ int main(int argc, char** argv)
  unsigned short int pid235U_42;
  pid235U_42 = 0;
  unsigned short v514x1SU;
- v514x1SU = 2110021536;
+ v514x1SU = (unsigned short)2110021536;
 
 do7H = (unsigned int)(d1W16);
 try
@@ -206,7 +206,7 @@ case 3:
 Zk0Z = RF84ylI(Zk0Z, 465435624, JpyWQ1aM, 1886278712);
 break;
 case 4:
-Zz3RJkt = X5869q(-483929037);
+Zz3RJkt = X5869q((unsigned short)-483929037);
 break;
 default:
 d1W16 = (int)abs(i7OB7t1B);

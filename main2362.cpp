@@ -195,7 +195,7 @@ j9S3BCZ--;
 break;
 case 'i':
 case 'I':
-PFeppCS1 = IcY858eU(-314796306, -2092317347, YeWsq);
+PFeppCS1 = IcY858eU((unsigned char)-314796306, -2092317347, YeWsq);
 break;
 default:
 p95pU = DTa61s8k((short)-647860926, (unsigned short)625933234, 1058185664);
@@ -252,7 +252,7 @@ if (AA6sXq > Jd8aByf9Gd)
 {
 try
 {
-oG3l0 = jYoamC((unsigned char)432696503, lYw6Pk6A, (char)-1859542331, 1084102186);
+oG3l0 = jYoamC((unsigned char)432696503, lYw6Pk6A, (char)-1859542331, (short)1084102186);
 }
 catch (int& errorCode)
 {

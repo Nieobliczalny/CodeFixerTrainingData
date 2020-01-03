@@ -45,7 +45,7 @@ case 0:
 v42R9 = F_QT((unsigned short)1493996961, -865374135);
 break;
 case 1:
-FVA_8Ud8n = KvUK((unsigned short)155338948, -803939265);
+FVA_8Ud8n = KvUK((unsigned short)155338948, (unsigned short)-803939265);
 break;
 case 2:
 FGmO78l = h3Pd31y4av - y7ayA6;
@@ -296,7 +296,7 @@ ubX2rt = yvB14l / KvUK(ibi4i932, (unsigned short)-1125726278);
 
 eeyaS3j = KvUK(v42R9, q77H);
 
-irgcS3I0D = KvUK(975793104, 92927226);
+irgcS3I0D = KvUK((unsigned short)975793104, 92927226);
 
 s734_tzXhd = (i2R0za >= MBG_G4Z) ? CG3g85 : HVIS__J;
 q77H = (int)floor(s734_tzXhd);

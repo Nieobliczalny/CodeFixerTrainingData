@@ -39,7 +39,7 @@ int main()
 	long double	mo7tXH6Q_	=	126067503;
  long long jdsF = 1104342261;
     unsigned long    YN79o    =    -434878573;
-    unsigned char    v67_m_RiH    =    -1841184976;
+    unsigned char    v67_m_RiH    =    (unsigned char)-1841184976;
   unsigned char  E63eX9  =  0;
   unsigned short  cTtNPSz  =  (unsigned short)794097112;
     unsigned long long    k3XEdaw29    =    233919728;
@@ -49,7 +49,7 @@ int main()
  float Yr9q_aFi = -657718556;
   unsigned int  RfP48LpL  =  1584091118;
     unsigned short int    lc2U6y    =    (unsigned short)641638570;
- short int AV7Uvz4sO5 = -1621489262;
+ short int AV7Uvz4sO5 = (short)-1621489262;
  double rhSY = -382831103;
 
 try
@@ -365,7 +365,7 @@ case 'd':
 E63eX9 = Nhpx(-273766684, (unsigned short)-1523097755, mo7tXH6Q_, (short)-1454062669);
 break;
 case 'e':
-Qlu35Ro = Nhpx(1320563331, rhSY, x231_, 1748705894);
+Qlu35Ro = Nhpx(1320563331, rhSY, x231_, (short)1748705894);
 break;
 case 'f':
 Po6818c *= 1838755580;

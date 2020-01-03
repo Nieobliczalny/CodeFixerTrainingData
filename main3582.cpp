@@ -236,7 +236,7 @@ case 'i':
 V6jwV = (vmy11_Z & RPNri) ? (unsigned char)856136700 : (unsigned char)-1537576976;
 break;
 case 'j':
-V6jwV = gq22(1938001418);
+V6jwV = gq22((unsigned short)1938001418);
 break;
 default:
 V6jwV &= 1120717982;

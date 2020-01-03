@@ -57,7 +57,7 @@ case 'a':
 nh0LX_ = Nu6f14(-1601742927, (char)323655050);
 break;
 case 'b':
-YwEy = KvbL1ej8((char)474433698, 1172782314);
+YwEy = KvbL1ej8((char)474433698, (char)1172782314);
 break;
 case 'c':
 YwEy = KvbL1ej8(-671515504, Q18l);

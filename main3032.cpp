@@ -25,7 +25,7 @@ int main(int argc, char** argv)
     char    v_JoSF2;
     v_JoSF2    =    (char)-579732032;
  short int Wd43zmn2V6;
- Wd43zmn2V6 = -1289858158;
+ Wd43zmn2V6 = (short)-1289858158;
 	long	P6g99RyM;
 	P6g99RyM	=	2137744487;
     unsigned short int    P32X3nN;
@@ -39,7 +39,7 @@ int main(int argc, char** argv)
     short    zSX55;
     zSX55    =    (short)1485298545;
     short    ay_fo_GlX;
-    ay_fo_GlX    =    1494879311;
+    ay_fo_GlX    =    (short)1494879311;
     unsigned char    GHJgC;
     GHJgC    =    -733996924;
 	unsigned int	Fq7iSXc4t;

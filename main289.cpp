@@ -26,7 +26,7 @@ int main(void) {
   int  De3P65zt  =  -301303786;
  int E1Sd = -1402242824;
     unsigned char    MOLI    =    (unsigned char)1052061995;
-	unsigned short int	S96C6fGt2y	=	-336735974;
+	unsigned short int	S96C6fGt2y	=	(unsigned short)-336735974;
  unsigned long long pqSQN97d = 1747952671;
  long L7c8lusVgo = -1601573042;
 	unsigned char	TX25nEE8O4	=	(unsigned char)737698331;
@@ -36,7 +36,7 @@ int main(void) {
   long  dM_9O1n8_  =  -1124790465;
 	unsigned long	e3kk41	=	-94840011;
   unsigned char  W3MK  =  (unsigned char)749737304;
- unsigned short int Y38coT0J = 862381432;
+ unsigned short int Y38coT0J = (unsigned short)862381432;
     long double    I6ktQ6BU    =    604336327;
   unsigned int  eXHf0M3o  =  277716027;
 	short	ek78P	=	(short)-804494635;
@@ -48,7 +48,7 @@ int main(void) {
 	unsigned char	j1FwfI	=	(unsigned char)-990476435;
     unsigned int    ydN1_DB4    =    -494432227;
 	int	d09Gjd	=	1009915616;
-	unsigned char	ZmA6yE	=	168845714;
+	unsigned char	ZmA6yE	=	(unsigned char)168845714;
 	float	DA6Jix	=	531217523;
  int t16_0T7ci4 = 712009182;
     long double    v60Rfs1    =    124818295;
@@ -63,7 +63,7 @@ int main(void) {
   int  tq21  =  1595817311;
   unsigned int  jB6hqw_4  =  -1980872649;
     unsigned long long    cU7af    =    844347341;
- short mbM31 = 1528995811;
+ short mbM31 = (short)1528995811;
     char    QXaG    =    -762242775;
  int X9DQ_i = -1692831888;
     unsigned short int    l5o930_    =    0;
@@ -200,7 +200,7 @@ TX25nEE8O4 = Y8y7Pyt_(TX25nEE8O4, (unsigned char)-1782519149, (char)-1603306300)
 }
 else
 {
-b24kuHn6O = Y8y7Pyt_(1693806769, 372614915, 1870743419);
+b24kuHn6O = Y8y7Pyt_(1693806769, (unsigned char)372614915, 1870743419);
 }
 t16_0T7ci4 = L50xRyy_Iz(-1197010379, ewyN57R8u) * jD62_lQ6_2;
 std::cout << dC627_ << "l9Lu" << std::endl;
@@ -638,7 +638,7 @@ case 6:
 k4Y0_ELWU = Y8y7Pyt_(k4Y0_ELWU, (unsigned char)1806059324, E1Sd);
 break;
 case 7:
-mbM31 = Y8y7Pyt_(729218365, d9PuG68, -707019378);
+mbM31 = Y8y7Pyt_(729218365, d9PuG68, (char)-707019378);
 break;
 case 8:
 p3Ux5N7D -= 1197440936;

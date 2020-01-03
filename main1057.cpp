@@ -19,7 +19,7 @@ int main(int argc, char** argv) {
 	long double	Sq3l12fHu	=	-558775517;
  float PmFP = 1307883275;
 	unsigned short	tF37O9329	=	(unsigned short)-2075663865;
-    short int    nSo28oW    =    -1594473928;
+    short int    nSo28oW    =    (short)-1594473928;
     unsigned short int    LPD8hSq6u    =    0;
   short int  N6R6EJPyw6  =  1606964944;
   unsigned short int  s8EbwB598O  =  1660119209;
@@ -29,7 +29,7 @@ int main(int argc, char** argv) {
  unsigned short utOj7oKx = 1950314094;
  unsigned short int yoYC64 = 604919898;
   short int  FuhriX69xM  =  (short)1911627521;
-    short int    rSsMPu    =    435072761;
+    short int    rSsMPu    =    (short)435072761;
   double  v7C_t  =  1124159430;
 	unsigned long long	mU_55ZwH	=	-204345095;
 	long long	HZ9U24364	=	0;
@@ -43,7 +43,7 @@ int main(int argc, char** argv) {
     long long    Uua33sA3kN    =    180064322;
 	unsigned short	J45dw09yz	=	(unsigned short)-542540110;
     int    k6hTq9ER    =    0;
-    char    Iy15b5O0T    =    -820599132;
+    char    Iy15b5O0T    =    (char)-820599132;
  char azi41pj3 = (char)-1071957035;
     unsigned char    ljEEg    =    763545285;
   unsigned short int  s2xBnf7Br  =  212878833;
@@ -94,7 +94,7 @@ FuhriX69xM = B7TW45q((unsigned char)1515601461, (short)-189061626);
 }
 else
 {
-c_uI = AxC0r2k(2019767886, -184332523);
+c_uI = AxC0r2k((unsigned short)2019767886, -184332523);
 }
 cout << "KraR_uM89X" << bA17kk << endl;
 try
@@ -114,7 +114,7 @@ case 3:
 JYtvNT39Jc = (int)floor(PmFP);
 break;
 case 4:
-e8Wsw = AxC0r2k(833347141, Ffxq1UP2e);
+e8Wsw = AxC0r2k((unsigned short)833347141, Ffxq1UP2e);
 break;
 case 5:
 JYtvNT39Jc = N6R6EJPyw6 ^ 21778493;
@@ -136,7 +136,7 @@ i--;
 while (i >= 0);
 }
 
-ljEEg = B7TW45q(WmYC6, (short)2010548322) / AxC0r2k(533551547, -414854082);
+ljEEg = B7TW45q(WmYC6, (short)2010548322) / AxC0r2k((unsigned short)533551547, -414854082);
 
 if (((YG8p > e8Wsw) && (Ffxq1UP2e > 2074765063)) || ((k2bE >= J45dw09yz) && (WmYC6 > 1323843240)))
 {

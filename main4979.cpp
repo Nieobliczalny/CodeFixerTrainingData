@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
     unsigned char    J2U3htN_;
     J2U3htN_    =    (unsigned char)1471001640;
  unsigned short int N0p38;
- N0p38 = 1288909779;
+ N0p38 = (unsigned short)1288909779;
  short u9F14I5Z9;
  u9F14I5Z9 = (short)-791261208;
     unsigned short    qhs6_du;
@@ -44,7 +44,7 @@ int main(int argc, char** argv) {
 	unsigned char	Tcq4;
 	Tcq4	=	(unsigned char)-489465462;
  unsigned short qw7hfW4;
- qw7hfW4 = -1481005616;
+ qw7hfW4 = (unsigned short)-1481005616;
  long eFRmI;
  eFRmI = 741840441;
  int ox_19589qR;
@@ -64,7 +64,7 @@ int main(int argc, char** argv) {
     short int    DZc10w3I;
     DZc10w3I    =    (short)963467085;
 	short	CanmP6;
-	CanmP6	=	493624720;
+	CanmP6	=	(short)493624720;
  float kpLRB;
  kpLRB = -664394471;
 	short int	BoWoYh9Q1;
@@ -84,7 +84,7 @@ int main(int argc, char** argv) {
 	short	PA9l7Hh;
 	PA9l7Hh	=	(short)2106083022;
  unsigned short gvB_8;
- gvB_8 = 1377048461;
+ gvB_8 = (unsigned short)1377048461;
   long  c72Kx_gjj5;
   c72Kx_gjj5  =  -1753683096;
 	short	o85FZ4m;
@@ -94,7 +94,7 @@ int main(int argc, char** argv) {
  unsigned short qY4aNb;
  qY4aNb = (unsigned short)-689078795;
     unsigned short int    yeSYh_Q3;
-    yeSYh_Q3    =    1639671585;
+    yeSYh_Q3    =    (unsigned short)1639671585;
  unsigned short int in_ADmrqx;
  in_ADmrqx = -1655522270;
   long double  gBZX3G;
@@ -154,7 +154,7 @@ int main(int argc, char** argv) {
   long long  otl8Y8U;
   otl8Y8U  =  -297878272;
 	short int	RM0nXK;
-	RM0nXK	=	1508068375;
+	RM0nXK	=	(short)1508068375;
 	int	EqQib0A;
 	EqQib0A	=	210562046;
  unsigned short KJuD5R_y;
@@ -353,7 +353,7 @@ dYGIc1 = (int)floor(A2g9Hq);
 }
 else if (CJwyDrF >= IV1I7)
 {
-TWQ_p3y6W = AZz9Qg((unsigned short)-962432951, (unsigned short)1686110391, 1307753570, mu058oW);
+TWQ_p3y6W = AZz9Qg((unsigned short)-962432951, (unsigned short)1686110391, (unsigned short)1307753570, mu058oW);
 }
 else
 {
@@ -506,7 +506,7 @@ case 2:
 om51S = (int)abs(gBZX3G);
 break;
 case 3:
-TWQ_p3y6W = AZz9Qg((unsigned short)-448648890, -1268766029, -1303900887, -1347119648);
+TWQ_p3y6W = AZz9Qg((unsigned short)-448648890, (unsigned short)-1268766029, -1303900887, -1347119648);
 break;
 case 4:
 TWQ_p3y6W = AZz9Qg(om51S, (unsigned short)935040418, IV1I7, Tn0Px3cdU8);

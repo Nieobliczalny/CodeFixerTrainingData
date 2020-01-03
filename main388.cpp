@@ -35,7 +35,7 @@ int main()
 	unsigned short int	ub9zw;
 	ub9zw	=	(unsigned short)-1493711691;
   short int  cd1x;
-  cd1x  =  1683577466;
+  cd1x  =  (short)1683577466;
     unsigned short int    a_P677nfZ4;
     a_P677nfZ4    =    (unsigned short)-1543576289;
  unsigned long long jcy_or46L;
@@ -65,7 +65,7 @@ int main()
     unsigned long    fH7r;
     fH7r    =    -2051230958;
   unsigned short  Uz726Qcs2;
-  Uz726Qcs2  =  -437099818;
+  Uz726Qcs2  =  (unsigned short)-437099818;
     int    G_b_7UX;
     G_b_7UX    =    1049553588;
  short int ss_lye9ti;

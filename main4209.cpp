@@ -23,7 +23,7 @@ int main()
 	unsigned long long	HHtzJ17N3;
 	HHtzJ17N3	=	-750640405;
     short int    lMn194UB29;
-    lMn194UB29    =    -1425786125;
+    lMn194UB29    =    (short)-1425786125;
  short int rC9zlN0iEp;
  rC9zlN0iEp = (short)1374101856;
     unsigned short int    oKri69eh3;
@@ -83,7 +83,7 @@ int main()
   char  Z149_9U2b;
   Z149_9U2b  =  (char)1234651034;
     short int    FA11jJ;
-    FA11jJ    =    1653787504;
+    FA11jJ    =    (short)1653787504;
   long  QqW0vk10V;
   QqW0vk10V  =  -988661850;
     int    Ras5;

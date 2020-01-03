@@ -248,7 +248,7 @@ i++;
 }
 }
 std::cout << z_Bz239zm((short)1186275526, brNXz, dUI_3, V06n) << "BO4o" << "jtg0Y" << q0al70 << VIs489ne() << std::endl;
-t3YSKc6G = f9HAR7_((unsigned short)326663565, 5348841);
+t3YSKc6G = f9HAR7_((unsigned short)326663565, (char)5348841);
 
 try
 {
@@ -315,7 +315,7 @@ case 3:
 oe5_vPBcd = dbb9((unsigned short)1215838698, 1857726763, Tf1C4qsbAY);
 break;
 case 4:
-aRW5d2A2A = f9HAR7_(aRW5d2A2A, -1518790719);
+aRW5d2A2A = f9HAR7_(aRW5d2A2A, (char)-1518790719);
 break;
 }
 }

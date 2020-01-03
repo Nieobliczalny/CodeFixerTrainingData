@@ -53,7 +53,7 @@ int main() {
 	long double	KVGw_9Z;
 	KVGw_9Z	=	1036656862;
  unsigned short Bq6h9Hz;
- Bq6h9Hz = 1719690295;
+ Bq6h9Hz = (unsigned short)1719690295;
     int    v_0Ezc;
     v_0Ezc    =    -1566191047;
     unsigned short    YLLJb_o;
@@ -63,7 +63,7 @@ int main() {
  short oSaIxWE35;
  oSaIxWE35 = -551475203;
  unsigned char L2pVD;
- L2pVD = -428799453;
+ L2pVD = (unsigned char)-428799453;
 	unsigned long long	y13T;
 	y13T	=	-572764589;
 	short int	sz7J;
@@ -73,7 +73,7 @@ int main() {
     short    nN6hS3U;
     nN6hS3U    =    (short)-1770978807;
  unsigned char D481wS07Ke;
- D481wS07Ke = 1210223405;
+ D481wS07Ke = (unsigned char)1210223405;
     long double    rg0472_e;
     rg0472_e    =    1945431815;
     int    LwB_HSk;
@@ -143,7 +143,7 @@ int main() {
     unsigned short int    Ve1r;
     Ve1r    =    (unsigned short)1750521468;
   unsigned short int  oKOs;
-  oKOs  =  -725170218;
+  oKOs  =  (unsigned short)-725170218;
     unsigned long long    qT2aYk;
     qT2aYk    =    1790387807;
 	long double	lkAE8HfxfW;
@@ -153,7 +153,7 @@ int main() {
     unsigned char    x7H8_U;
     x7H8_U    =    (unsigned char)-544958465;
  unsigned char U6kOR;
- U6kOR = -1868448244;
+ U6kOR = (unsigned char)-1868448244;
   short  u7fQ;
   u7fQ  =  377315633;
 	unsigned long long	MvM345_kvl;
@@ -291,7 +291,7 @@ Ydmr = (GHNsBi <= -146373576) ? Ve1r : -941794641;
 int i = 2;
 do
 {
-std::cout << wIm1b(L2pVD, (unsigned char)-859264427, (unsigned char)-857799920) << n3vO1H7(L2pVD, 134067364, 2034313490) << ioyav_c() << hVn8_5y(-2108015802) << rw4C(21508887) << std::endl;
+std::cout << wIm1b(L2pVD, (unsigned char)-859264427, (unsigned char)-857799920) << n3vO1H7(L2pVD, 134067364, 2034313490) << ioyav_c() << hVn8_5y((unsigned short)-2108015802) << rw4C(21508887) << std::endl;
 --i;
 }
 while (i >= 0);

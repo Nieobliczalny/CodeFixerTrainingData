@@ -20,7 +20,7 @@ int main(void) {
     unsigned short int    bZL89;
     bZL89    =    (unsigned short)872928494;
  unsigned short JK25;
- JK25 = 1108857138;
+ JK25 = (unsigned short)1108857138;
  double YD_z0b4d3b;
  YD_z0b4d3b = 1874737117;
  short utFD;
@@ -66,7 +66,7 @@ int main(void) {
   long double  I7S47v8n2;
   I7S47v8n2  =  1556449174;
     unsigned char    yE9FF;
-    yE9FF    =    1287718939;
+    yE9FF    =    (unsigned char)1287718939;
  double AtCR6_jLH;
  AtCR6_jLH = 2015745529;
     short int    B2_KA5_;
@@ -88,7 +88,7 @@ int main(void) {
  unsigned char zi_ZONNV;
  zi_ZONNV = (unsigned char)1526377017;
     short int    t9f9Km28p;
-    t9f9Km28p    =    1157004587;
+    t9f9Km28p    =    (short)1157004587;
  int WK25q83;
  WK25q83 = 0;
     unsigned int    ync5;
@@ -102,7 +102,7 @@ int main(void) {
 	long long	P_MeO_I;
 	P_MeO_I	=	-1597407129;
 	unsigned char	N0dk;
-	N0dk	=	419385329;
+	N0dk	=	(unsigned char)419385329;
  unsigned short int Z9EGc;
  Z9EGc = 327002171;
  long long v6072Nu;
@@ -114,7 +114,7 @@ int main(void) {
  long C1yL851;
  C1yL851 = 282149966;
   unsigned short  KxEPml38;
-  KxEPml38  =  -1653971731;
+  KxEPml38  =  (unsigned short)-1653971731;
  long long WySM;
  WySM = 1011879368;
 	int	u74VY__;
@@ -134,7 +134,7 @@ int main(void) {
  char M7g05rdQ;
  M7g05rdQ = (char)-252339877;
 	unsigned short int	JJxrp74_;
-	JJxrp74_	=	-1890409904;
+	JJxrp74_	=	(unsigned short)-1890409904;
     unsigned long long    zBY2L;
     zBY2L    =    -2140253393;
   char  n8_GI;
@@ -154,7 +154,7 @@ int main(void) {
  unsigned short int njblHzI_FE;
  njblHzI_FE = (unsigned short)-1492540974;
  unsigned short int IOJ3pR;
- IOJ3pR = 1394121071;
+ IOJ3pR = (unsigned short)1394121071;
     double    QfSsr8e;
     QfSsr8e    =    170827061;
  unsigned int vM3xh;
@@ -164,7 +164,7 @@ int main(void) {
 	unsigned short	X17UZNuPl_;
 	X17UZNuPl_	=	(unsigned short)-1857197216;
  unsigned short BT8IKMASfZ;
- BT8IKMASfZ = -1840085471;
+ BT8IKMASfZ = (unsigned short)-1840085471;
   long long  B02wJUne;
   B02wJUne  =  -591278061;
  long bKxEbLwZt;

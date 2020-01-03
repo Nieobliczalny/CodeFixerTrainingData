@@ -31,7 +31,7 @@ int main() {
  short vKO0 = 0;
  unsigned short int b_pJMu9z4 = (unsigned short)-1294028186;
   char  CkM6w74C  =  (char)461826421;
- short int QL0f0M1 = 1404146530;
+ short int QL0f0M1 = (short)1404146530;
  unsigned int f9lmw03QBL = -1686964857;
   float  b_FM7Pd  =  1653573116;
   unsigned char  U1W8f5_0e  =  1378349614;

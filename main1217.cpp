@@ -31,7 +31,7 @@ int main()
 	pGj6D_l	=	668720050;
 
 std::cout << "bzaQf" << std::endl;
-std::cout << UxKvc9L(k_B1fB, (unsigned char)-890113553, s72_90g) << "N3dbhKd8_i" << "b_4e_YuD9" << L20816QBe << coWx((char)1432741560, yzTB2s8_EA, 1900023755) << std::endl;
+std::cout << UxKvc9L(k_B1fB, (unsigned char)-890113553, s72_90g) << "N3dbhKd8_i" << "b_4e_YuD9" << L20816QBe << coWx((char)1432741560, yzTB2s8_EA, (char)1900023755) << std::endl;
 pGj6D_l = (long double)(ir7zjI90Y);
 if (z3qy9Tnrp0 & bcIV)
 {
@@ -67,7 +67,7 @@ pGj6D_l = (k_B1fB < ir7zjI90Y) ? 285262374 : ir7zjI90Y;
 }
 else
 {
-std::cout << coWx((char)-382395011, (unsigned short)-1296832605, pGj6D_l) << coWx(k_B1fB, s72_90g, -1620616219) << s72_90g << std::endl;
+std::cout << coWx((char)-382395011, (unsigned short)-1296832605, pGj6D_l) << coWx(k_B1fB, s72_90g, (char)-1620616219) << s72_90g << std::endl;
 }
 
 {
@@ -139,7 +139,7 @@ case 0:
 g6cdECn = (int)floor(pGj6D_l);
 break;
 case 1:
-LU9pvB_3Pc = BLMFD_QC(1244764109, (unsigned char)543547468, (unsigned short)361380100, 1170870327, 1009325760);
+LU9pvB_3Pc = BLMFD_QC(1244764109, (unsigned char)543547468, (unsigned short)361380100, (unsigned short)1170870327, 1009325760);
 break;
 case 2:
 L20816QBe = joabfr5MX - pGj6D_l;
@@ -151,7 +151,7 @@ case 4:
 z3qy9Tnrp0 = UxKvc9L(pGj6D_l, g6cdECn, z3qy9Tnrp0);
 break;
 default:
-g6cdECn = BLMFD_QC(1634481463, (unsigned char)-1025049259, s72_90g, (unsigned short)1270921229, 1705598829);
+g6cdECn = BLMFD_QC(1634481463, (unsigned char)-1025049259, s72_90g, (unsigned short)1270921229, (short)1705598829);
 break;
 }
 }
@@ -186,7 +186,7 @@ g6cdECn *= pGj6D_l;
 }
 else
 {
-yzTB2s8_EA = BLMFD_QC(yzTB2s8_EA, LU9pvB_3Pc, (unsigned short)-742192387, (unsigned short)166196177, -457370921);
+yzTB2s8_EA = BLMFD_QC(yzTB2s8_EA, LU9pvB_3Pc, (unsigned short)-742192387, (unsigned short)166196177, (short)-457370921);
 }
 
 for (int i = 0; i < 10; i++)
@@ -246,7 +246,7 @@ case 2:
 pGj6D_l = (int)ceil(LU9pvB_3Pc);
 break;
 case 3:
-LU9pvB_3Pc = BLMFD_QC(116467712, (unsigned char)-559512430, (unsigned short)-1160612531, 442018262, z3qy9Tnrp0) << 2042122858;
+LU9pvB_3Pc = BLMFD_QC(116467712, (unsigned char)-559512430, (unsigned short)-1160612531, (unsigned short)442018262, z3qy9Tnrp0) << 2042122858;
 break;
 case 4:
 joabfr5MX = LU9pvB_3Pc - 1045220669;
@@ -264,7 +264,7 @@ case 8:
 yzTB2s8_EA = (int)abs(pGj6D_l);
 break;
 case 9:
-yzTB2s8_EA = BLMFD_QC(1810895441, (unsigned char)-2141493854, L20816QBe, -1716288497, LU9pvB_3Pc);
+yzTB2s8_EA = BLMFD_QC(1810895441, (unsigned char)-2141493854, L20816QBe, (unsigned short)-1716288497, LU9pvB_3Pc);
 break;
 }
 if ((ir7zjI90Y / UxKvc9L(yzTB2s8_EA, -1321961297, L20816QBe)) != -603402244)
@@ -294,7 +294,7 @@ case 'c':
 joabfr5MX = (int)ceil(yzTB2s8_EA);
 break;
 case 'd':
-L20816QBe = BLMFD_QC(335768395, (unsigned char)571409339, -1193404750, 1438295316, -29347477);
+L20816QBe = BLMFD_QC(335768395, (unsigned char)571409339, (unsigned short)-1193404750, 1438295316, -29347477);
 break;
 default:
 LU9pvB_3Pc = s72_90g / 1217226746;
@@ -347,7 +347,7 @@ case 0:
 pGj6D_l = BLMFD_QC(-633939205, (unsigned char)922809379, yzTB2s8_EA, L20816QBe, joabfr5MX);
 break;
 case 1:
-L20816QBe = coWx(L20816QBe, (unsigned short)1178207051, 1767825732);
+L20816QBe = coWx(L20816QBe, (unsigned short)1178207051, (char)1767825732);
 break;
 case 2:
 k_B1fB = z3qy9Tnrp0 >> 1519889016;
@@ -414,7 +414,7 @@ case 0:
 g6cdECn = BLMFD_QC(346786113, joabfr5MX, L20816QBe, (unsigned short)1853865522, (short)1638585513);
 break;
 case 1:
-LU9pvB_3Pc = coWx(97233572, L20816QBe, yzTB2s8_EA);
+LU9pvB_3Pc = coWx((char)97233572, L20816QBe, yzTB2s8_EA);
 break;
 case 2:
 k_B1fB = (int)ceil(g6cdECn);
@@ -518,7 +518,7 @@ case 1:
 L20816QBe += 426544291;
 break;
 case 2:
-k_B1fB = BLMFD_QC(-1891759053, (unsigned char)-1330415193, z3qy9Tnrp0, (unsigned short)1138914256, 539737284);
+k_B1fB = BLMFD_QC(-1891759053, (unsigned char)-1330415193, z3qy9Tnrp0, (unsigned short)1138914256, (short)539737284);
 break;
 case 3:
 yzTB2s8_EA = (int)abs(k_B1fB);
@@ -528,7 +528,7 @@ s72_90g = coWx(s72_90g, -1499995539, -2043010519);
 break;
 }
 
-std::cout << BLMFD_QC(s72_90g, (unsigned char)-887740564, (unsigned short)404651124, 349112608, g6cdECn) << std::endl;
+std::cout << BLMFD_QC(s72_90g, (unsigned char)-887740564, (unsigned short)404651124, (unsigned short)349112608, g6cdECn) << std::endl;
 
 return 0;
 }

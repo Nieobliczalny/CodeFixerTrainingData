@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
   unsigned short int  VYJ_  =  (unsigned short)338596724;
 	unsigned int	CW6W_XHMpo	=	58363345;
  unsigned long long Yd_U8oWu = -143285492;
- char dbssyBZB = 6840957;
+ char dbssyBZB = (char)6840957;
     long long    O803YXn_RE    =    506770529;
  long long VuWdwjY = -1213044696;
   unsigned short int  lqAq  =  2141442551;
@@ -65,7 +65,7 @@ int main(int argc, char** argv) {
  unsigned int IiQ1pU__91 = 1283624774;
 	int	KKl6F4yAQ	=	1964314410;
 	float	j_4VdUVs	=	832564957;
-  unsigned char  IX5Hu3_i8R  =  -1303863933;
+  unsigned char  IX5Hu3_i8R  =  (unsigned char)-1303863933;
     unsigned long long    d6LLhpPi4    =    -2092059599;
     short int    g_C7KP6Ne    =    (short)2146543555;
  long double wwTmU9 = 1619746185;
@@ -80,7 +80,7 @@ int main(int argc, char** argv) {
 	char	s5r39	=	(char)-1960078768;
     long double    Cbn5hj    =    -191924177;
   long  X9SNZ0Tx  =  -271484760;
- short SgJhv0 = -1390380461;
+ short SgJhv0 = (short)-1390380461;
   long long  Ddl_pgKW  =  -1342409606;
     unsigned short    LP_P_    =    1739413308;
  short zQXLIE71W = (short)591937705;
@@ -91,7 +91,7 @@ int main(int argc, char** argv) {
   short  oTzb0O  =  -1978180276;
   unsigned short  ohj_lX38Y  =  -2136699289;
     unsigned char    wKSqH    =    0;
-  unsigned char  sYv1he  =  -1186156459;
+  unsigned char  sYv1he  =  (unsigned char)-1186156459;
     unsigned char    km_c81q    =    955071505;
  unsigned short r1045SYRoC = (unsigned short)1116198832;
     float    aReq6R    =    -445731559;
@@ -135,7 +135,7 @@ ohj_lX38Y = FJ_4Un8aWI((unsigned short)-2031476138, (short)1557194314);
 break;
 case 'b':
 case 'B':
-LP_P_ = FJ_4Un8aWI(LP_P_, 1679537258);
+LP_P_ = FJ_4Un8aWI(LP_P_, (short)1679537258);
 break;
 case 'c':
 case 'C':

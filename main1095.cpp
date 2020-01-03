@@ -48,7 +48,7 @@ int main()
     unsigned short int    xkW7;
     xkW7    =    (unsigned short)-783521533;
   unsigned char  T81TVz3DEM;
-  T81TVz3DEM  =  -563547521;
+  T81TVz3DEM  =  (unsigned char)-563547521;
  unsigned long long h8pp;
  h8pp = 0;
  double m8Pyy;
@@ -86,7 +86,7 @@ int main()
     unsigned short    SJ1aRU;
     SJ1aRU    =    (unsigned short)-1931991692;
     char    Y8SJar_05Q;
-    Y8SJar_05Q    =    -52198562;
+    Y8SJar_05Q    =    (char)-52198562;
 	int	fki3ts94_;
 	fki3ts94_	=	-539157206;
   char  jw51_PQ;

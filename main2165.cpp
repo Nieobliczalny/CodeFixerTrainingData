@@ -96,7 +96,7 @@ case 2:
 F7Pf = (F65qAOVmM > j26B) ? 1280220277 : 271240601;
 break;
 case 3:
-S_zGk5xa = w35xmzj_(S_zGk5xa, Q6N7CD, -292020314, 92599034);
+S_zGk5xa = w35xmzj_(S_zGk5xa, Q6N7CD, (short)-292020314, 92599034);
 break;
 case 4:
 S_zGk5xa = w35xmzj_(-279548786, NJxqLW21t, Wv_9NAj8, (unsigned char)260552272);
@@ -315,7 +315,7 @@ S_zGk5xa = w35xmzj_(-1151899023, -1421104777, dyJb5BkAw7, (unsigned char)-791462
 
 if (nR1xFZ_XE <= nG6i)
 {
-Z1vdP0M0Q = w35xmzj_(F91W, -1086913835, (short)-864951181, 788620087) & Jfj9;
+Z1vdP0M0Q = w35xmzj_(F91W, -1086913835, (short)-864951181, (unsigned char)788620087) & Jfj9;
 }
 TP4fu /= Lb8XBH;
 
@@ -351,7 +351,7 @@ else
 int k = 0;
 while (k < 4)
 {
-S_zGk5xa = w35xmzj_(1368997307, -476304025, -1577251063, C5oJz6ZY6);
+S_zGk5xa = w35xmzj_(1368997307, -476304025, (short)-1577251063, C5oJz6ZY6);
 k++;
 }
 }
@@ -422,7 +422,7 @@ case 'b':
 Q6N7CD %= I_e8Nzp8a5;
 break;
 case 'c':
-S_zGk5xa = w35xmzj_(-1669347257, -1520974812, (short)-1980638802, -672923374);
+S_zGk5xa = w35xmzj_(-1669347257, -1520974812, (short)-1980638802, (unsigned char)-672923374);
 break;
 case 'd':
 C5oJz6ZY6 = TP4fu + NJxqLW21t;
@@ -499,7 +499,7 @@ std::cout << "Y7L813r08" << "N_D9X" << "p7jz5YC1U" << BDTnNe0E9 << w35xmzj_(-356
 }
 else
 {
-S_zGk5xa = w35xmzj_(831596163, 460377815, (short)-506607216, 621441752);
+S_zGk5xa = w35xmzj_(831596163, 460377815, (short)-506607216, (unsigned char)621441752);
 }
 }
 catch (int& errorCode)
@@ -535,7 +535,7 @@ si8C = w35xmzj_(F76I9wUt0, -2074787657, (short)-102946736, (unsigned char)128752
 }
 else if (F1Ffplqsoj == F65qAOVmM)
 {
-S_zGk5xa = w35xmzj_(MM0lTMjGx, r1ue0M, 1884658001, d5HAA3Ee);
+S_zGk5xa = w35xmzj_(MM0lTMjGx, r1ue0M, (short)1884658001, d5HAA3Ee);
 }
 else
 {
@@ -687,7 +687,7 @@ if ((r1ue0M >= F7Pf) || (wOb362 == -813021996))
 {
 S_zGk5xa = w35xmzj_(-810657064, -243930043, (short)-1130762348, (unsigned char)-458824693);
 }
-S_zGk5xa = w35xmzj_(GFQ_cA9, vzqlX2t, 933327219, F7Pf);
+S_zGk5xa = w35xmzj_(GFQ_cA9, vzqlX2t, (short)933327219, F7Pf);
 
 return 0;
 }

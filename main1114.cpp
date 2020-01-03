@@ -33,7 +33,7 @@ int main(void) {
  unsigned long long p3rY = 0;
   short  FJ4Q2  =  (short)785951626;
  short JgjYx = (short)-1049901908;
-  unsigned short int  Jz4q7kY  =  -2003952754;
+  unsigned short int  Jz4q7kY  =  (unsigned short)-2003952754;
  int Hh7oJ = 1577078699;
     unsigned short int    mjkZT946_    =    635099232;
     unsigned long    S1EhFgjH    =    -1897815114;
@@ -240,7 +240,7 @@ else
 FJ4Q2 = l1l_5lr((unsigned short)-1967560590, -1828749594, 1478046552, ipzi_RJ8l);
 }
 }
-Hh7oJ = l1l_5lr(1514735412, Hh7oJ, zJ1z, LQ3HkFJ6Z);
+Hh7oJ = l1l_5lr((unsigned short)1514735412, Hh7oJ, zJ1z, LQ3HkFJ6Z);
 switch (gpxRY4478)
 {
 case 0:
@@ -524,7 +524,7 @@ case 3:
 FJ4Q2 += ipzi_RJ8l;
 break;
 case 4:
-mjkZT946_ = l1l_5lr(mjkZT946_, 881937704, 1804964668, 1403194817);
+mjkZT946_ = l1l_5lr(mjkZT946_, 881937704, 1804964668, (short)1403194817);
 break;
 case 5:
 S1EhFgjH = l1l_5lr((unsigned short)-1742096799, 712430034, ny603, (short)-1441015806);
@@ -610,7 +610,7 @@ cout << "Ri0I0J1" << dWcIp << l1l_5lr((unsigned short)-202228131, zJ1z, -6952365
 }
 else if (ny603 != ipzi_RJ8l)
 {
-S1EhFgjH = l1l_5lr(X2tB9Dj, S1EhFgjH, ny603, 1458415822);
+S1EhFgjH = l1l_5lr(X2tB9Dj, S1EhFgjH, ny603, (short)1458415822);
 }
 else if (dWcIp != 2111548771)
 {

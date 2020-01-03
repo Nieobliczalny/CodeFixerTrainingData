@@ -32,7 +32,7 @@ unsigned short  jjs_MCP6u(unsigned long long  R9Fn7y,short int  gBS7V,unsigned s
 int main() {
  unsigned char jnulHn64 = (unsigned char)-533093547;
 	long double	Ijrc6hO4U	=	1849557483;
-	short int	z12H_ue	=	1727295333;
+	short int	z12H_ue	=	(short)1727295333;
   char  lqR_mq  =  257437750;
  char Im6In_ = -119873055;
     double    ckQhe27BR    =    -219628415;
@@ -42,7 +42,7 @@ int main() {
  unsigned long long Zt6DfU60H = -598487343;
   unsigned long  x5UTmWxk8  =  -675982810;
     char    C1y8    =    (char)-1650435257;
-	unsigned char	wo16487y	=	-1176174756;
+	unsigned char	wo16487y	=	(unsigned char)-1176174756;
   unsigned char  i6Ah3Z  =  -1414907711;
     long long    Dnab4U_    =    448069307;
  long long W4ay9A9BJ = 1607985372;
@@ -143,7 +143,7 @@ else
 iAxG8V1 = jjs_MCP6u(-1025678168, z12H_ue, (unsigned short)1760542481);
 }
 
-std::cout << u9Ot9t(iAxG8V1, 1463776617, z8xOcywebP, W4ay9A9BJ) << "uj0KDO" << jjs_MCP6u(-2010969579, (short)1020842316, -1343711261) << std::endl;
+std::cout << u9Ot9t(iAxG8V1, 1463776617, z8xOcywebP, W4ay9A9BJ) << "uj0KDO" << jjs_MCP6u(-2010969579, (short)1020842316, (unsigned short)-1343711261) << std::endl;
 if (((ori6M & Z7rv) && (O12oOvL7 >= -1963481867)) && (Im6In_ == -2094990757))
 {
 S6EZ85K = FT1BZ2151(S6EZ85K, -622800118);

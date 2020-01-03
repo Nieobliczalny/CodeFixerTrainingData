@@ -22,7 +22,7 @@ short    HRich6k8(char    WVEPSTx6cU,unsigned short int    rF1_A_R__0,unsigned l
 }
 
 char    cW77eU(int    f29s,unsigned long    eAtoZX)    {
-    return    234536769;
+    return    (char)234536769;
 }
 
 unsigned short int  D8114An(unsigned long long  m7Iwq2LN)  {

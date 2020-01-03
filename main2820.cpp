@@ -33,7 +33,7 @@ int main(void) {
 	long	gWgfbb82	=	-1629542557;
  double O5j2_4XU = -1686342148;
  unsigned long long mV6ML = -1415440906;
-    unsigned short int    ZdcN1LI1S    =    -1884953336;
+    unsigned short int    ZdcN1LI1S    =    (unsigned short)-1884953336;
   unsigned char  VO7D0y  =  -470642758;
 	unsigned int	Uy6_VaJZ1	=	460610085;
 	unsigned long long	dT9OeA5m	=	-2033815060;
@@ -44,7 +44,7 @@ int main(void) {
 	long long	Wav8iJW	=	1227752942;
 	unsigned char	m378oBVafF	=	2105332800;
  double O6O5_s8 = 1713013325;
-	unsigned short	rY0bNJ2sU	=	1280826189;
+	unsigned short	rY0bNJ2sU	=	(unsigned short)1280826189;
  long double w9mrn_ = -1624566941;
   long double  d2UnHK3  =  -707596356;
  long long tcBQa = 469901454;

@@ -21,7 +21,7 @@ int main(void)
 	unsigned char	ssUnB9	=	(unsigned char)-2053278109;
   long long  C3uJZ7Q3Q  =  102166324;
     unsigned char    CotN    =    (unsigned char)-627569613;
-    char    IRf69    =    1812759650;
+    char    IRf69    =    (char)1812759650;
  unsigned long long p2PPmm = -75672283;
 	float	eN9H6yX	=	-1534072223;
 	int	SiR24P	=	-144633365;
@@ -40,7 +40,7 @@ int main(void)
     float    B9AGcNtd2d    =    203563769;
   unsigned short  T2p9AF4  =  (unsigned short)871939013;
 	unsigned char	k6dcIwo	=	(unsigned char)-1064645282;
- unsigned char m5A2k = 1941754244;
+ unsigned char m5A2k = (unsigned char)1941754244;
     short    in5A8Cc    =    991443401;
     char    PweFvl2    =    1616760587;
   short  NTb59U_IJ  =  -58856190;
@@ -52,7 +52,7 @@ int main(void)
 	unsigned short	Dqh4N4qs	=	(unsigned short)-1038930694;
   long long  NFW9JHsZ  =  -45606642;
 	unsigned short int	c12Yo2YWH	=	(unsigned short)1206078488;
-  unsigned char  fvM_Gz7  =  364763044;
+  unsigned char  fvM_Gz7  =  (unsigned char)364763044;
  short W01i1k9 = 1985681408;
  short int DZ2q = -601723749;
     int    U8C5ja    =    -1261954336;
@@ -62,7 +62,7 @@ int main(void)
     unsigned int    lBKqbjduu    =    -1927873648;
 	short int	yJ8Gz8nl	=	(short)1034023022;
 	char	crnJR3p	=	(char)-1753630282;
-  unsigned short int  oY3qhVR  =  1569634362;
+  unsigned short int  oY3qhVR  =  (unsigned short)1569634362;
  unsigned int m5652Yh = 1057176753;
     unsigned long long    Z5h4m06S    =    -594320187;
     unsigned int    kLx1htj5    =    -1557982495;
@@ -77,7 +77,7 @@ int main(void)
 	int	ZOt5Tp	=	-2132926619;
   unsigned short int  HRs821Cw9G  =  (unsigned short)991756942;
     int    R894s3s    =    1532330286;
- short dG9n = 390630510;
+ short dG9n = (short)390630510;
 	long long	u6LG1mD7i	=	-789022922;
 	short int	ZX6YOh	=	-1313089891;
 	double	nvCo4Iq9	=	1936158686;
@@ -230,7 +230,7 @@ break;
 }
 else if (((B199uzMc46 != -393704387) || (m5652Yh)) && ((H_M9dkYk8) || (a2h7 != yoN16j7dbK)))
 {
-SiR24P = RoBS43f3b((short)1305899680, tu48n7, 1392480299);
+SiR24P = RoBS43f3b((short)1305899680, tu48n7, (short)1392480299);
 }
 else if (fvM_Gz7 == p2PPmm)
 {

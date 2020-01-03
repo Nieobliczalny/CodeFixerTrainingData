@@ -26,7 +26,7 @@ short int	s1_s(unsigned char	d9T0Wl47,unsigned short int	PT8w5,unsigned long	Kpp
 }
 
 unsigned short cg2X(int xB0l1i90r,unsigned long hfFU2MUk8n,unsigned short int F_b5Ns0) {
- return -54068149;
+ return (unsigned short)-54068149;
 }
 
 int d9D068qI89(unsigned char S574Zi6Pp)
@@ -122,7 +122,7 @@ case 2:
 xGNyJC = Ckh8joN1(xGNyJC, 1465798306, iEZtO_8i, (short)1271189931, JP1Wugsb);
 break;
 case 3:
-TYoI = Ckh8joN1((unsigned char)1211179564, -600752413, -1560390383, yS1mW8rp, fpze);
+TYoI = Ckh8joN1((unsigned char)1211179564, -600752413, (short)-1560390383, yS1mW8rp, fpze);
 break;
 case 4:
 dX11Kuc = Ckh8joN1(dX11Kuc, RuP6kj_, -1972254112, SJHQiND, -635983123);

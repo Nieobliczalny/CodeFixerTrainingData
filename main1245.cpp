@@ -47,7 +47,7 @@ int main(int argc, char** argv)
     unsigned short int    Pvyy;
     Pvyy    =    (unsigned short)-1753262704;
     unsigned short int    UfPPh4n9;
-    UfPPh4n9    =    887126002;
+    UfPPh4n9    =    (unsigned short)887126002;
     short int    ewH29AW;
     ewH29AW    =    -1902037402;
  unsigned long a_I9F5;
@@ -59,7 +59,7 @@ int main(int argc, char** argv)
  unsigned short int exXX_b9;
  exXX_b9 = (unsigned short)-139216184;
 	unsigned char	hHpPjt;
-	hHpPjt	=	815374360;
+	hHpPjt	=	(unsigned char)815374360;
 	double	Oof2Ud4;
 	Oof2Ud4	=	1279795214;
  unsigned char HSMC_BC;
@@ -553,7 +553,7 @@ case 1:
 Pvyy = RW1f >> vm675;
 break;
 case 2:
-mRUCHTC4 = MM76qV52((unsigned char)-1092640022, -1122339528);
+mRUCHTC4 = MM76qV52((unsigned char)-1092640022, (short)-1122339528);
 break;
 case 3:
 vm675 = (int)abs(Q5Ew_y);

@@ -85,7 +85,7 @@ if (no7M8_7AJ > -2143600325)
 {
 if (OL5U7Ute)
 {
-M9ZI9K6 = XY_Vgw1ed4(TI_1do4_yU, kaM0O36SMi, -1585563598, -1089869440) | 783324379;
+M9ZI9K6 = XY_Vgw1ed4(TI_1do4_yU, kaM0O36SMi, (short)-1585563598, -1089869440) | 783324379;
 }
 else
 {
@@ -143,7 +143,7 @@ std::cout << "JOXv6" << no7M8_7AJ << "Urvx3DW" << "Aus7I" << "l1c58" << std::end
 S3Nj = no7M8_7AJ ^ 2046359794;
 if (LphgdFn <= VNnj)
 {
-std::cout << XY_Vgw1ed4(GO8GlW, -18603011, 964148681, TI_1do4_yU) << x_2lj << std::endl;
+std::cout << XY_Vgw1ed4(GO8GlW, (unsigned char)-18603011, 964148681, TI_1do4_yU) << x_2lj << std::endl;
 }
 else
 {
@@ -198,7 +198,7 @@ case 2:
 t0smUdkht = XY_Vgw1ed4(tYF8x60_R, aISZL7, (short)1447274437, S3Nj);
 break;
 case 3:
-cv5T4X = XY_Vgw1ed4(586047063, 1856697575, 154598045, GO8GlW);
+cv5T4X = XY_Vgw1ed4((unsigned char)586047063, 1856697575, 154598045, GO8GlW);
 break;
 case 4:
 GO8GlW = AnX6dI5Vcs();

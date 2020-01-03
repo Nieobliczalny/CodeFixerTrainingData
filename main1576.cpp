@@ -506,7 +506,7 @@ short int  wQB3U4r(short int  k2u9_e2)  {
 
 unsigned short TD_tpw5o(long long UWA2vl,unsigned int pY_htpOHo,unsigned long long vMXqjuB,short NzGj9an6_4)
 {
- return -2091091873;
+ return (unsigned short)-2091091873;
 }
 
 short int  C1U08X(unsigned long long  GcH8oJ,unsigned short int  FpVLAgEr,long long  a06agTJO2,long  NUHui,unsigned int  UY9Q)  {

@@ -14,7 +14,7 @@ int main(int argc, char** argv)
   unsigned long long  YSplw41  =  259324988;
   unsigned short  yyG6  =  (unsigned short)799705900;
   float  HWYS_6N  =  384216438;
-  unsigned short int  Pp2JAgVV93  =  1247141744;
+  unsigned short int  Pp2JAgVV93  =  (unsigned short)1247141744;
  long long XXkb5DZAP = 0;
     char    kfEoBsNNah    =    580985319;
   char  hVy7G_21_O  =  0;

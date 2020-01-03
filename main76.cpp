@@ -133,7 +133,7 @@ else
 switch (Vr__)
 {
 case 0:
-G3iWTa = l5X_pb7I3(c6c3, 1085766630, jHPjB8);
+G3iWTa = l5X_pb7I3(c6c3, (char)1085766630, jHPjB8);
 break;
 case 1:
 C51Q ^= K7hAF9f;

@@ -51,7 +51,7 @@ int main() {
     double    v52L0809;
     v52L0809    =    2005905097;
     unsigned short int    cjObFw;
-    cjObFw    =    529853271;
+    cjObFw    =    (unsigned short)529853271;
   unsigned long long  tWVT;
   tWVT  =  1191518649;
   unsigned int  kZ11P;
@@ -63,7 +63,7 @@ int main() {
     short int    cscwsP0;
     cscwsP0    =    (short)25664953;
     unsigned char    vPs0s8;
-    vPs0s8    =    -240170577;
+    vPs0s8    =    (unsigned char)-240170577;
   unsigned char  bWl3V6511;
   bWl3V6511  =  2107090973;
  long double CsOwS6sT7I;
@@ -75,7 +75,7 @@ int main() {
  unsigned short int R4zAGT38j;
  R4zAGT38j = (unsigned short)532644546;
  unsigned short int p483bmfn_3;
- p483bmfn_3 = 774294000;
+ p483bmfn_3 = (unsigned short)774294000;
   unsigned char  uP_88P;
   uP_88P  =  122070635;
  long N23_iIk;
@@ -97,7 +97,7 @@ int main() {
     short int    D3PN6Fn7;
     D3PN6Fn7    =    (short)552324190;
 	unsigned short	XIpaT_fQ;
-	XIpaT_fQ	=	-737525660;
+	XIpaT_fQ	=	(unsigned short)-737525660;
 	unsigned short int	Ye8F;
 	Ye8F	=	1696259718;
  float pjF8;
@@ -117,7 +117,7 @@ int main() {
  char GYP8;
  GYP8 = (char)-1542111329;
   unsigned char  Qoc347C;
-  Qoc347C  =  2128329966;
+  Qoc347C  =  (unsigned char)2128329966;
     double    m395;
     m395    =    -1083875394;
   short  E_G0S2a8_;
@@ -137,7 +137,7 @@ int main() {
     unsigned short    e47EVv;
     e47EVv    =    (unsigned short)-1534013868;
   unsigned short  qxzHJzOd;
-  qxzHJzOd  =  301831757;
+  qxzHJzOd  =  (unsigned short)301831757;
 	long double	ip7PNQAE;
 	ip7PNQAE	=	-2010735840;
     long long    iP0F6E2;
@@ -165,7 +165,7 @@ int main() {
 	short int	zA_lFTev;
 	zA_lFTev	=	(short)752707644;
   short  K9AKT5l9f;
-  K9AKT5l9f  =  -475372865;
+  K9AKT5l9f  =  (short)-475372865;
   long  loenA;
   loenA  =  -561649943;
     unsigned long    J92EY3PU2;
@@ -179,7 +179,7 @@ int main() {
  unsigned long uvO6w;
  uvO6w = -1065613515;
     unsigned short    at3GU0_ov;
-    at3GU0_ov    =    943920954;
+    at3GU0_ov    =    (unsigned short)943920954;
 	short	r94J0z;
 	r94J0z	=	(short)1087393122;
     unsigned char    bSV64JIt24;

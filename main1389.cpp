@@ -202,7 +202,7 @@ case 3:
 P86w_73Kx = r2DyLxL & I7e64fS;
 break;
 case 4:
-V1Il20jL = Omkf9vY(-350486199);
+V1Il20jL = Omkf9vY((char)-350486199);
 break;
 case 5:
 E67m6_cfxy = Omkf9vY(E67m6_cfxy);
@@ -302,7 +302,7 @@ case 5:
 E67m6_cfxy = Omkf9vY((char)-109388361);
 break;
 case 6:
-E67m6_cfxy = Omkf9vY(-1123149949);
+E67m6_cfxy = Omkf9vY((char)-1123149949);
 break;
 case 7:
 sAcTsiEl -= 734422134;
@@ -553,7 +553,7 @@ case 'c':
 a__7kZQnd--;
 break;
 case 'd':
-H3v8E76ruB = Omkf9vY(-1304868099);
+H3v8E76ruB = Omkf9vY((char)-1304868099);
 break;
 case 'e':
 sAcTsiEl = c824 >> cVya7;

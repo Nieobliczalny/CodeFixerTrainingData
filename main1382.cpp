@@ -57,7 +57,7 @@ int main(void) {
  unsigned char dI9VW;
  dI9VW = (unsigned char)1043414890;
  char vtpIG903I;
- vtpIG903I = -1934173811;
+ vtpIG903I = (char)-1934173811;
   double  s68P0z;
   s68P0z  =  -929774507;
     long long    Q6DBisQ3;
@@ -93,7 +93,7 @@ int main(void) {
   unsigned short int  nhzCPz;
   nhzCPz  =  (unsigned short)1988631176;
 	unsigned char	e7_9K1q;
-	e7_9K1q	=	1630015452;
+	e7_9K1q	=	(unsigned char)1630015452;
 	double	bhJcR;
 	bhJcR	=	-823690558;
   char  xvkc8PG1_o;
@@ -215,7 +215,7 @@ LIXzC8zuL2 = (long)(OPU70_MF);
 }
 if (y5p7)
 {
-cout << nhzCPz << "X65M_" << J3I_(M17x95, (unsigned short)-1339455005, It4uI0O, -1513747159, LIXzC8zuL2) << J3I_(M17x95, (unsigned short)228018628, 315410620, m5ZcZPG, -1240493149) << uZuG(555730841) << endl;
+cout << nhzCPz << "X65M_" << J3I_(M17x95, (unsigned short)-1339455005, It4uI0O, -1513747159, LIXzC8zuL2) << J3I_(M17x95, (unsigned short)228018628, (unsigned char)315410620, m5ZcZPG, -1240493149) << uZuG(555730841) << endl;
 }
 else if (o_70AG35V != -376284857)
 {

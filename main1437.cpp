@@ -27,7 +27,7 @@ int main(void) {
     unsigned short    VJS0D4vU;
     VJS0D4vU    =    (unsigned short)797547831;
     unsigned short    J256_;
-    J256_    =    2135766206;
+    J256_    =    (unsigned short)2135766206;
     short int    Vw5fEvFu;
     Vw5fEvFu    =    (short)-15220625;
 	unsigned long	Zamn;
@@ -67,7 +67,7 @@ int main(void) {
     unsigned int    feKK;
     feKK    =    1776480521;
   unsigned char  ompjs6;
-  ompjs6  =  1655965999;
+  ompjs6  =  (unsigned char)1655965999;
     long double    MBAgTWa;
     MBAgTWa    =    -1534406085;
 	float	J0_Y3t;
@@ -81,7 +81,7 @@ int main(void) {
     unsigned long long    Z4_J;
     Z4_J    =    -2060108106;
  short int KNu647us;
- KNu647us = -266158304;
+ KNu647us = (short)-266158304;
     double    irFga;
     irFga    =    -2009229843;
     char    s8Go5d0;
@@ -146,7 +146,7 @@ case 'i':
 ompjs6 = BUpvv(1417685907, -429659390, irFga);
 break;
 case 'j':
-V83V9R = G48e1gj1e9(AP49f2, (unsigned char)1216220118, vlMleVV, (unsigned short)-619997556, -938529880);
+V83V9R = G48e1gj1e9(AP49f2, (unsigned char)1216220118, vlMleVV, (unsigned short)-619997556, (short)-938529880);
 break;
 default:
 C8_P7 = (int)floor(XtOg_a_MW0);
@@ -242,7 +242,7 @@ ZpHDxh = (int)floor(J0_Y3t);
 while (i >= 0);
 }
 std::cout << "BOd2AD" << std::endl;
-std::cout << V83V9R << C8_P7 << HxoH88w17 << G48e1gj1e9(1178889677, (unsigned char)-177817443, 340760690, (unsigned short)-419893687, 1578388833) << BUpvv(45233901, 1841685621, K6z8yG__) << std::endl;
+std::cout << V83V9R << C8_P7 << HxoH88w17 << G48e1gj1e9(1178889677, (unsigned char)-177817443, 340760690, (unsigned short)-419893687, (short)1578388833) << BUpvv(45233901, 1841685621, K6z8yG__) << std::endl;
 J7_U7i = (int)abs(irFga);
 
 switch (ompjs6)
@@ -418,7 +418,7 @@ case 1:
 Ehh_Gg9P = PhvJWF * 195178924;
 break;
 case 2:
-V83V9R = G48e1gj1e9(irFga, j9X3OP, K8Q2A529, (unsigned short)776472910, -606280394);
+V83V9R = G48e1gj1e9(irFga, j9X3OP, K8Q2A529, (unsigned short)776472910, (short)-606280394);
 break;
 case 3:
 rm4lXJg = G48e1gj1e9(-1937239901, HxH25096, 1628616571, C8_P7, MT4UIG);
@@ -636,7 +636,7 @@ case 4:
 MBAgTWa = (int)abs(vlMleVV);
 break;
 case 5:
-rm4lXJg = G48e1gj1e9(-2141097754, (unsigned char)-258017127, 55425284, 1086973449, 1924908142);
+rm4lXJg = G48e1gj1e9(-2141097754, (unsigned char)-258017127, 55425284, (unsigned short)1086973449, 1924908142);
 break;
 case 6:
 s5G7ka |= 2089977356;

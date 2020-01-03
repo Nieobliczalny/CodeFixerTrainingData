@@ -20,7 +20,7 @@ int main(int argc, char** argv)
     unsigned char    iji_;
     iji_    =    (unsigned char)268166528;
     unsigned char    atHS7yJQEC;
-    atHS7yJQEC    =    -2009516314;
+    atHS7yJQEC    =    (unsigned char)-2009516314;
   long double  M_23rt04o;
   M_23rt04o  =  1053857699;
   int  Q4E8;
@@ -38,7 +38,7 @@ int main(int argc, char** argv)
   int  hMGWCyO68;
   hMGWCyO68  =  1731154891;
     short    xY1H7iXau3;
-    xY1H7iXau3    =    1519209829;
+    xY1H7iXau3    =    (short)1519209829;
   long  x617ZHxw5;
   x617ZHxw5  =  -1598168474;
     char    nzPME84IB;
@@ -48,7 +48,7 @@ int main(int argc, char** argv)
  unsigned short int y7ES02GH;
  y7ES02GH = (unsigned short)1459556762;
   short int  Cm1av8j30O;
-  Cm1av8j30O  =  1978505192;
+  Cm1av8j30O  =  (short)1978505192;
 	unsigned long long	Ax_bfc2;
 	Ax_bfc2	=	-794015376;
  int NjJaJetm;
@@ -62,7 +62,7 @@ int main(int argc, char** argv)
  long double YCt_;
  YCt_ = -2008361992;
   unsigned short  Nq_fm8;
-  Nq_fm8  =  -2049055581;
+  Nq_fm8  =  (unsigned short)-2049055581;
 	double	Y3Fq_8ZPbk;
 	Y3Fq_8ZPbk	=	-1818270510;
 	short int	RvZGxQoP;
@@ -72,7 +72,7 @@ int main(int argc, char** argv)
     unsigned short    fowb9hc_3;
     fowb9hc_3    =    (unsigned short)-990721456;
     short int    r19VuV7_;
-    r19VuV7_    =    -720153478;
+    r19VuV7_    =    (short)-720153478;
     unsigned short int    JY0q6waw61;
     JY0q6waw61    =    -340894771;
 	double	pcp5cc;
@@ -166,7 +166,7 @@ int main(int argc, char** argv)
     unsigned short int    B32N_;
     B32N_    =    (unsigned short)1448926851;
     short    J5plPJP;
-    J5plPJP    =    1302161848;
+    J5plPJP    =    (short)1302161848;
     float    J8HVa3;
     J8HVa3    =    -1957148640;
     unsigned short    Lqm10542TY;
@@ -204,7 +204,7 @@ Loowi59tq = (unsigned long long)(a25ZD1Myu + (r812mt31));
 }
 }
 UpDTshYA6 = B2RV_u77(Y959lpqD, 708988578, (short)1365894842, (unsigned short)-314002732);
-wu18A = B2RV_u77(ahs_B_, cTWWI6, 998147052, mj6xcr);
+wu18A = B2RV_u77(ahs_B_, cTWWI6, (short)998147052, mj6xcr);
 
 wu18A = B2RV_u77(r8RO, 2030497703, -1646457033, xY1H7iXau3);
 
@@ -226,7 +226,7 @@ for (int i = 9; i >= 0; --i)
 {
 try
 {
-cout << B2RV_u77(204979326, 1656831665, 2106379528, M_Cr4esKr) << endl;
+cout << B2RV_u77((unsigned short)204979326, 1656831665, 2106379528, M_Cr4esKr) << endl;
 }
 catch (int& errorCode)
 {

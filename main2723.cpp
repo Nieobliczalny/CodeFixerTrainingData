@@ -22,7 +22,7 @@ int main(void)
  unsigned long long S87ur8MG = -878151056;
 	short	PKKi1C5	=	(short)477212107;
     long double    W4ja7    =    -101827987;
-    short int    Wad_t1    =    -1494069667;
+    short int    Wad_t1    =    (short)-1494069667;
 	double	AFS09afpF	=	1495909603;
  unsigned char VO5a69 = (unsigned char)-567772699;
  long fyW3AT = 1521250629;
@@ -35,7 +35,7 @@ int main(void)
  short int h3sWhC0pHZ = (short)452782192;
  unsigned long long AjMxV69tt = 0;
 	short	X8p6N	=	(short)-1855840657;
-  unsigned short  rEZW9_Te  =  1939683692;
+  unsigned short  rEZW9_Te  =  (unsigned short)1939683692;
 	double	I_7Dm	=	-638379949;
   char  K2E_de65  =  1760594070;
   unsigned long  zor1nOKMz0  =  441286856;
@@ -47,7 +47,7 @@ int main(void)
   char  q_YTafx  =  (char)1897905868;
 	unsigned short int	s73dW9JQBt	=	(unsigned short)-898615391;
   unsigned int  g8q3y2ufzo  =  1895843070;
-  unsigned short  G0Tdu0  =  -955552483;
+  unsigned short  G0Tdu0  =  (unsigned short)-955552483;
   unsigned long  L5tV552  =  -736354472;
     int    bwcd9Kt2eR    =    -1325450930;
   unsigned short int  V1kLB7  =  -1606318893;
@@ -58,7 +58,7 @@ int main(void)
  int V3omF17R9 = -370320175;
   short int  v8Ip2  =  (short)843625264;
  short int jUxZspNe9T = (short)2000511563;
- char J51a = 1767897232;
+ char J51a = (char)1767897232;
   int  rstYtV23_z  =  -58794665;
  unsigned int g941NZ8f = -673399847;
 	int	Ku9cdxx	=	-2037979558;
@@ -75,7 +75,7 @@ int main(void)
     unsigned short int    P6h8SPq    =    (unsigned short)-1036325086;
   unsigned int  X75V9gzC  =  -1056139638;
   float  q2SmkG2qdZ  =  1270669307;
-  unsigned char  xT6R0rEu41  =  -1274123615;
+  unsigned char  xT6R0rEu41  =  (unsigned char)-1274123615;
 	short	BJjJo	=	-841813333;
   unsigned short int  v5q0yonbu3  =  1380272345;
   short  Phi5y5_My1  =  -770617943;
@@ -232,7 +232,7 @@ j++;
 while (i < 8);
 }
 
-std::cout << "PCE9MvKw" << aFq9D(VoSVq, (unsigned short)-1018855321, (unsigned short)-548262812, PKKi1C5) << jUxZspNe9T << aFq9D(-807902523, 1209006068, xT6R0rEu41, PKKi1C5) << std::endl;
+std::cout << "PCE9MvKw" << aFq9D(VoSVq, (unsigned short)-1018855321, (unsigned short)-548262812, PKKi1C5) << jUxZspNe9T << aFq9D(-807902523, (unsigned short)1209006068, xT6R0rEu41, PKKi1C5) << std::endl;
 fd1c28P = (int)abs(Q_GWSQy);
 try
 {
@@ -275,7 +275,7 @@ case 5:
 g8q3y2ufzo = pb44QIL1 << L5tV552;
 break;
 case 6:
-Dfddt3o771 = aFq9D(Dfddt3o771, (unsigned short)1287594525, -442245793, -357257762);
+Dfddt3o771 = aFq9D(Dfddt3o771, (unsigned short)1287594525, (unsigned short)-442245793, -357257762);
 break;
 case 7:
 S88f_9vF = oM_7();

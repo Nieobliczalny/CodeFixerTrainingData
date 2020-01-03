@@ -54,7 +54,7 @@ int main(int argc, char** argv)
   float  aFtVoow;
   aFtVoow  =  84840645;
   short  YzA7fO2GA;
-  YzA7fO2GA  =  -1966675079;
+  YzA7fO2GA  =  (short)-1966675079;
     float    T55_65UC;
     T55_65UC    =    -1024018167;
     short int    Ullv;
@@ -96,7 +96,7 @@ int main(int argc, char** argv)
  char U9CPja_3u;
  U9CPja_3u = (char)1901322289;
   unsigned short  t34o0;
-  t34o0  =  602370549;
+  t34o0  =  (unsigned short)602370549;
   unsigned long long  h9VM_7Tn;
   h9VM_7Tn  =  -736541650;
  char zoAy3A5b;
@@ -142,7 +142,7 @@ int main(int argc, char** argv)
   unsigned short  s7g4;
   s7g4  =  (unsigned short)890313011;
     short    Ow6JIBXu7;
-    Ow6JIBXu7    =    1986924837;
+    Ow6JIBXu7    =    (short)1986924837;
     float    F9bgCx6;
     F9bgCx6    =    -319371188;
 	unsigned short int	D4sz;
@@ -279,7 +279,7 @@ case 2:
 A3Or = (int)floor(l65D8Itv0);
 break;
 case 3:
-j8dv6tSAN = f9gA6(550680874, Sl5k1_, (unsigned short)2089929279, 1173081012);
+j8dv6tSAN = f9gA6(550680874, Sl5k1_, (unsigned short)2089929279, (unsigned char)1173081012);
 break;
 default:
 WeaA59HB = f9gA6(-1563370245, 298069275, 999054323, 1211025144) & 684939657;
@@ -363,7 +363,7 @@ case 'J':
 wV26a = (int)abs(Jk3PD);
 break;
 default:
-j8dv6tSAN = f9gA6(oT3y3_, (unsigned short)-932945913, -566495049, a7y5N0);
+j8dv6tSAN = f9gA6(oT3y3_, (unsigned short)-932945913, (unsigned short)-566495049, a7y5N0);
 break;
 }
 }

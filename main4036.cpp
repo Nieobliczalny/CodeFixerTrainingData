@@ -21,7 +21,7 @@ int main()
 	unsigned int	uV3dC_	=	-837828902;
   float  iCdnS55N  =  856055480;
  char A36oy = (char)-108971874;
- short int bbH_mX = -1103620221;
+ short int bbH_mX = (short)-1103620221;
  short pVs0_n8l = 0;
 	long long	kqr43REJuM	=	188346959;
 	unsigned long long	oZxv8	=	262463458;
@@ -31,7 +31,7 @@ int main()
  unsigned char wuKy2jGOHk = (unsigned char)-1106531189;
   unsigned short int  Gbl_vq  =  -1406435098;
     short int    fupMy4v    =    (short)-1723498815;
-    unsigned short    rZuZ    =    -705221571;
+    unsigned short    rZuZ    =    (unsigned short)-705221571;
 	unsigned char	dFxp_z99w	=	378350239;
   unsigned long  JMkj2_T  =  1149474095;
   unsigned short  cZbUOBFW2  =  -1013446455;
@@ -47,7 +47,7 @@ int main()
     int    oT57eXGYTe    =    1206811880;
 	double	H_3j_	=	-1450723701;
     short int    csXe_SaM    =    (short)-1331398417;
-    char    QOHTY7    =    -1511133292;
+    char    QOHTY7    =    (char)-1511133292;
  long double w_speLgZfc = -891128795;
     short    gD53xOWMU    =    (short)1098809233;
 	char	N_1q2Smej	=	1195443688;
@@ -58,7 +58,7 @@ int main()
 	unsigned long	Sa5_2Z3	=	-1951596393;
 	unsigned char	k_8vh2	=	(unsigned char)952513286;
 	unsigned int	pmU6F6	=	1298192089;
-  unsigned short  gJTI4  =  1948670651;
+  unsigned short  gJTI4  =  (unsigned short)1948670651;
   long long  gkJI9l2I5  =  0;
 	unsigned short int	xB4B2Qi3U	=	(unsigned short)-1590116120;
   unsigned int  qoGrBxcX4E  =  160385129;
@@ -90,7 +90,7 @@ std::cout << "z327qb2Pt" << std::endl;
 w_speLgZfc = (long double)(qoGrBxcX4E);
 
 std::cout << "m9I2I9" << JLgkz1BO((char)1980268066, (char)-1284135005, C688, 1255890873) << A36oy << std::endl;
-bUEZqq5XM0 = JLgkz1BO(bUEZqq5XM0, 1221361344, 1922301057, 628420984);
+bUEZqq5XM0 = JLgkz1BO(bUEZqq5XM0, (char)1221361344, 1922301057, 628420984);
 w_speLgZfc = (int)ceil(j148w3Oh);
 
 if (BAZvf9zxM5 == -918729819)
@@ -170,7 +170,7 @@ do
 {
 try
 {
-JMkj2_T = JLgkz1BO((char)-1423870613, (char)-2034580415, 500045636, gJTI4);
+JMkj2_T = JLgkz1BO((char)-1423870613, (char)-2034580415, (char)500045636, gJTI4);
 }
 catch (int& errorCode)
 {

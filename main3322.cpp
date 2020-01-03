@@ -21,7 +21,7 @@ int main(void)
 	unsigned int	w8k6	=	226934836;
   unsigned long long  q2dJ5h  =  -824976645;
     short int    N2_do7iY    =    (short)620800113;
-	short int	E1UI7x11kf	=	-790661550;
+	short int	E1UI7x11kf	=	(short)-790661550;
  char Ro_H0_6 = 1514271393;
   unsigned short int  APrAna  =  592945111;
     long long    WXq85W8Qe    =    551284493;
@@ -36,7 +36,7 @@ int main(void)
  long double S_AId = -1920904869;
  unsigned int Jz58Rn4A63 = -1086600256;
 	float	yBbA4	=	753221857;
-  unsigned short  yXj6N3Hxvh  =  -126379317;
+  unsigned short  yXj6N3Hxvh  =  (unsigned short)-126379317;
   unsigned short  TxZO  =  1572469874;
   unsigned int  LJCLXdR9jR  =  -1336293582;
  unsigned short PM7r6 = (unsigned short)-1780562284;
@@ -47,7 +47,7 @@ int main(void)
     unsigned char    TS8g_Gzq    =    1322454570;
  unsigned short int D8e6 = 2009408202;
 	unsigned int	E0z5CGk_	=	2100085504;
-    short int    f310w9    =    -811928186;
+    short int    f310w9    =    (short)-811928186;
   unsigned long  ZmyYYs4  =  385881926;
 	unsigned int	bVjBkt	=	-1522976464;
     long long    mSFty    =    0;
@@ -60,7 +60,7 @@ int main(void)
   long double  tuq8wh  =  -1588730676;
 	unsigned long long	ljC0c	=	-1951521131;
     unsigned long long    gkV4    =    306484530;
-    unsigned char    TwZj6sB6    =    -1161512818;
+    unsigned char    TwZj6sB6    =    (unsigned char)-1161512818;
   long  YZ9U  =  -1329452788;
   short int  Nr6pggjz  =  (short)-1909810643;
   unsigned char  De9x_aNG  =  618000606;
@@ -78,7 +78,7 @@ int main(void)
  double bIjd = 1316658871;
 	unsigned short	V4duh_OB	=	(unsigned short)950824988;
   long  EwfKh1  =  -1882567687;
-	short	bxPu5J	=	382970250;
+	short	bxPu5J	=	(short)382970250;
     unsigned int    QV3M0DS    =    -527609824;
 	long long	nwXuG5V	=	-1037941735;
     unsigned long    woWSI16a4    =    -798937919;
@@ -89,7 +89,7 @@ int main(void)
     char    bK0e0_gMW    =    (char)683301040;
   short  J39TMTI_  =  544791320;
 	unsigned long	x01_	=	-35481800;
-	short	j60IP57	=	1624944475;
+	short	j60IP57	=	(short)1624944475;
  long IqNag = 1172426150;
   unsigned long long  se5i1N_OM  =  1359998821;
  unsigned long long Ivl0267eD7 = -1764551202;

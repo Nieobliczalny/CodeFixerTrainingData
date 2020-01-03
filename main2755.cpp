@@ -70,7 +70,7 @@ cout << nrUp_(LHXmLj_, fhxO, (char)1509023683, (short)528381893) << "uDPpF9O0D6"
 switch (ySP_)
 {
 case 'a':
-g49M_ = nrUp_(-780550476, f17F, Xk_7Q8TZ, 250814053);
+g49M_ = nrUp_(-780550476, f17F, Xk_7Q8TZ, (short)250814053);
 break;
 case 'b':
 E9RKVMj++;
@@ -85,7 +85,7 @@ case 'e':
 ySP_ = I7d0q((unsigned short)1888217558);
 break;
 case 'f':
-Y0GUjq6 = nrUp_(825781202, (short)-1530443974, DX2N_G, 147454490);
+Y0GUjq6 = nrUp_(825781202, (short)-1530443974, DX2N_G, (short)147454490);
 break;
 case 'g':
 N0866_v = BzqY_Z(-1911741289, -1108030181, ZAdbf, 458022748);
@@ -100,7 +100,7 @@ case 'j':
 LHXmLj_ = ZAdbf * 1445416069;
 break;
 default:
-LHXmLj_ = eh8_DnX4s(-1478845531, (short)1250015092, 1093381193, 1305236312, 1841094265);
+LHXmLj_ = eh8_DnX4s(-1478845531, (short)1250015092, 1093381193, (char)1305236312, 1841094265);
 break;
 }
 
@@ -148,7 +148,7 @@ g49M_ = (int)abs(H6zU9_5O);
 }
 G5v2019_ = (int)(G33N6zWMu);
 
-cout << "kv4q" << BzqY_Z((char)-85017300, Nd87t048Jv, -1326428211, vSP1X) << "zuquSZ" << eh8_DnX4s(1207589328, Nd87t048Jv, H3WTpt3s, (char)-734482855, 545015843) << I7d0q(-951407283) << endl;
+cout << "kv4q" << BzqY_Z((char)-85017300, Nd87t048Jv, -1326428211, vSP1X) << "zuquSZ" << eh8_DnX4s(1207589328, Nd87t048Jv, H3WTpt3s, (char)-734482855, 545015843) << I7d0q((unsigned short)-951407283) << endl;
 
 N0866_v = eh8_DnX4s(N0866_v, H3WTpt3s, -901199793, 89263687, 421038682);
 
@@ -181,7 +181,7 @@ case 'h':
 Nd87t048Jv = YwsIDu(1525488410, G33N6zWMu, XxuJdS5);
 break;
 case 'i':
-Nd87t048Jv = BzqY_Z((char)1902476156, G33N6zWMu, -1081546084, 632505626) & 602563219;
+Nd87t048Jv = BzqY_Z((char)1902476156, G33N6zWMu, -1081546084, (unsigned short)632505626) & 602563219;
 break;
 case 'j':
 H6zU9_5O = f17F - 1011320116;

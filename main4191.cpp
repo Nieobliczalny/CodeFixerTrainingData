@@ -44,7 +44,7 @@ int main(int argc, char** argv)
 	int	zl1a;
 	zl1a	=	1249983123;
   char  vG4s;
-  vG4s  =  -1048250706;
+  vG4s  =  (char)-1048250706;
 	short int	uJ0J0W0_n;
 	uJ0J0W0_n	=	(short)1628911261;
   short  sx83CM2ri;

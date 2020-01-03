@@ -20,7 +20,7 @@ unsigned char  Dd7zfYpA2(unsigned long  y6_S39o,unsigned short  JPFIOeI0)  {
 }
 
 short nruy01d(unsigned long long irr5,long long FPs24l5jp0,char n9dX7V3,unsigned short int IvG33Y) {
- return 437979457;
+ return (short)437979457;
 }
 
 unsigned short int  xLp7()  {
@@ -137,7 +137,7 @@ case 'H':
 p9n2863 = UeFZ40_2(p9n2863, (unsigned char)-1165718400);
 break;
 }
-std::cout << nruy01d(p9n2863, -1985858610, (char)-508451134, 2070427200) << b4p093W1(442574038, n69h_J, -720469755, E949_S6X8N, Nn1_8iwG) << std::endl;
+std::cout << nruy01d(p9n2863, -1985858610, (char)-508451134, (unsigned short)2070427200) << b4p093W1(442574038, n69h_J, -720469755, E949_S6X8N, Nn1_8iwG) << std::endl;
 
 {
 int i = 0;
@@ -228,7 +228,7 @@ case 'c':
 lVcH92Xe = b4p093W1(-1116566626, y5ij_lseX7, ZA1imr5r, j72tSg, Qg18V9);
 break;
 case 'd':
-Nn1_8iwG = nruy01d(-614937474, -1820787741, (char)1013292685, 1647571678);
+Nn1_8iwG = nruy01d(-614937474, -1820787741, (char)1013292685, (unsigned short)1647571678);
 break;
 case 'e':
 BDBX = UeFZ40_2(1802934188, -1742112057);
@@ -260,7 +260,7 @@ case 3:
 n69h_J = (W3JXkigU6m < -1557858478) ? OcUokXS3ho : nruy01d(j72tSg, x2G8, y5ij_lseX7, zW0Y4N);
 break;
 case 4:
-b_a58pB = UeFZ40_2(-1792458675, k56ddvr04);
+b_a58pB = UeFZ40_2((unsigned short)-1792458675, k56ddvr04);
 break;
 case 5:
 Kx_9im0PxG = (int)floor(CDQjAIL);

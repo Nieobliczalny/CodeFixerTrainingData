@@ -24,7 +24,7 @@ int main() {
 	unsigned long long	T_dY6Q	=	0;
 	long	PwTK5a	=	0;
  char NP4R = (char)-1636181168;
- unsigned short int W_0E2 = -259544007;
+ unsigned short int W_0E2 = (unsigned short)-259544007;
  unsigned long Ue3X = 1851580996;
     short int    Uanl7Tp9    =    1467521926;
  short int lG6E = 2050688508;
@@ -41,7 +41,7 @@ int main() {
  unsigned int v8MdP6zXP = 735312386;
   unsigned char  m12i  =  (unsigned char)-1233937219;
 	double	Lp46	=	-1685604760;
-	unsigned short int	uyNzu	=	1803427035;
+	unsigned short int	uyNzu	=	(unsigned short)1803427035;
 	long long	P1Tcp4iVr9	=	-1786808886;
     unsigned char    DxnlgI4    =    606420839;
 	short int	DKX3	=	973916195;
@@ -56,7 +56,7 @@ int main() {
  short DJLMeHn = (short)1280134268;
  long csM2G = -1124410498;
  unsigned int FyoOg = -999158906;
- unsigned char xFS_9i = 1248071658;
+ unsigned char xFS_9i = (unsigned char)1248071658;
     double    xY81    =    -1841612260;
     unsigned long    N5a_kRPTDy    =    -1217352650;
 	long long	KUn_9U	=	0;
@@ -69,7 +69,7 @@ int main() {
     unsigned int    SxU7    =    1981700003;
   long  zX4X3  =  -1158081395;
   int  MAF2  =  1273820059;
-  unsigned short  lI37GTkZC  =  1603285505;
+  unsigned short  lI37GTkZC  =  (unsigned short)1603285505;
  unsigned char V_y9xO = -1437117698;
 	long double	f54R171Uq	=	1796015242;
  long long Rmb2Q2a = -2099646074;
@@ -167,7 +167,7 @@ m12i = vwQnTx3X(KUn_9U, (char)180116072);
 break;
 case 'e':
 case 'E':
-Ue3X = vwQnTx3X((unsigned short)688540639, 909528547);
+Ue3X = vwQnTx3X((unsigned short)688540639, (char)909528547);
 break;
 case 'f':
 case 'F':
@@ -258,7 +258,7 @@ case 2:
 H7RAtd1B = vwQnTx3X(H7RAtd1B, (char)-1396057340);
 break;
 case 3:
-c5LRGF = vwQnTx3X(132740590, N4q_ewZ9);
+c5LRGF = vwQnTx3X((unsigned short)132740590, N4q_ewZ9);
 break;
 case 4:
 q0aCSt = (int)abs(Uanl7Tp9);
@@ -331,7 +331,7 @@ xFS_9i = vwQnTx3X(xFS_9i, (char)-1297647298);
 }
 else if (DxnlgI4)
 {
-c5LRGF = vwQnTx3X((unsigned short)-660822235, -1350833841);
+c5LRGF = vwQnTx3X((unsigned short)-660822235, (char)-1350833841);
 }
 else if (N5a_kRPTDy & 1406877241)
 {

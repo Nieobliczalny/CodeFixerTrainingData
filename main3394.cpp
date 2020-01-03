@@ -52,7 +52,7 @@ int main() {
     unsigned char    Vl1_;
     Vl1_    =    (unsigned char)480593296;
   short int  u7DZDmPmnD;
-  u7DZDmPmnD  =  2005344155;
+  u7DZDmPmnD  =  (short)2005344155;
  int q8_v803qa;
  q8_v803qa = 1423525898;
  long double Ni2R5w8a6;

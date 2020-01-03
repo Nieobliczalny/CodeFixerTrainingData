@@ -53,7 +53,7 @@ int main()
 	unsigned long	jp2yx85;
 	jp2yx85	=	80653936;
   short  V9z9M;
-  V9z9M  =  1032046226;
+  V9z9M  =  (short)1032046226;
   unsigned int  cG8i8mM;
   cG8i8mM  =  -688508455;
  unsigned long P2rBu;
@@ -444,7 +444,7 @@ case 5:
 i1ZDbeP8 = i1ZDbeP8 + 76925391;
 break;
 default:
-pocmW = LF8jP(1974018078, 1572458974, -1570760906);
+pocmW = LF8jP((short)1974018078, 1572458974, -1570760906);
 break;
 }
 }

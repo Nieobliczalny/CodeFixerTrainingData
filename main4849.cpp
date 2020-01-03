@@ -20,7 +20,7 @@ int main(int argc, char** argv) {
  long long M3l6Db = -545979361;
     unsigned int    Hh4kSNHqS4    =    1948216497;
   unsigned short  t8xO0V8ql  =  (unsigned short)118695465;
-	unsigned short int	sK5dfopVI	=	-502486927;
+	unsigned short int	sK5dfopVI	=	(unsigned short)-502486927;
     short int    FDefJgUPhe    =    -1654077322;
 	short int	YG_7SVaz8_	=	-1632066303;
 	unsigned short	HklC3o7	=	632002244;
@@ -35,7 +35,7 @@ int main(int argc, char** argv) {
     unsigned int    qt2A9    =    -926587679;
     unsigned short    N3j8x1    =    (unsigned short)-253958515;
     short int    baPnpS    =    0;
-  short int  WDSxOFElFy  =  1093328878;
+  short int  WDSxOFElFy  =  (short)1093328878;
 	float	ijZ3s3	=	-2091225576;
   float  z18p5y7ufe  =  -1671583394;
   unsigned short int  Ts1_FY  =  (unsigned short)-359109245;
@@ -49,7 +49,7 @@ int main(int argc, char** argv) {
   unsigned long  O40p  =  0;
 	unsigned int	S6h7E_	=	0;
  char zS_pUa52j = (char)-867668915;
-  short int  aHNne  =  -692105497;
+  short int  aHNne  =  (short)-692105497;
     int    GI78G_jkg    =    55324186;
 	long long	Oxf4ZlW16o	=	52811113;
  float J7c_ = 143310283;
@@ -61,7 +61,7 @@ int main(int argc, char** argv) {
  int EG0Lk37fKo = -1617605168;
 	short	ELEI9_CG	=	(short)1298698574;
   double  Tb02Ci51  =  -1872535556;
-  short int  q57dt6Cvj_  =  -1904701908;
+  short int  q57dt6Cvj_  =  (short)-1904701908;
  long double M_8kU0Mf = 668742306;
     unsigned short int    FBQM    =    (unsigned short)845494090;
     short int    S_2Tof    =    -605077700;
@@ -155,7 +155,7 @@ if (v8S022o8 < -560272852)
 int j = 0;
 while (j < 8)
 {
-std::cout << "k1AkfW9sOx" << wXwYL(c115, 1786399089, (short)-625203298, J7c_) << s15n7v((unsigned short)-2085217653, Vc8XIv6_Q, -497536500, J7c_, -764988201) << std::endl;
+std::cout << "k1AkfW9sOx" << wXwYL(c115, 1786399089, (short)-625203298, J7c_) << s15n7v((unsigned short)-2085217653, Vc8XIv6_Q, -497536500, J7c_, (short)-764988201) << std::endl;
 j++;
 }
 }

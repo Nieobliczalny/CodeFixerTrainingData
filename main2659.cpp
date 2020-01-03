@@ -36,7 +36,7 @@ int    K4yFkU()    {
 
 int main(int argc, char** argv) {
  short l7_3OD = (short)-1296241185;
-    short int    cxuPKL14    =    770849500;
+    short int    cxuPKL14    =    (short)770849500;
  short int Nm86 = (short)1775013695;
 	unsigned long long	pDsRh	=	410585760;
     float    U3_F3232    =    -336712790;
@@ -55,7 +55,7 @@ int main(int argc, char** argv) {
  long jTAt = -98660706;
  char ZAi5833xb = (char)934889046;
  long double Jb75 = -1510746778;
-  unsigned short int  W0qBhk  =  1952925434;
+  unsigned short int  W0qBhk  =  (unsigned short)1952925434;
  unsigned int Tj65J = -1820136577;
  unsigned char Ha731 = (unsigned char)-122266940;
  char L4pL6rw5t = -1731069058;
@@ -254,7 +254,7 @@ case 2:
 j7t1V = VgE7S5O_((unsigned short)611608119);
 break;
 default:
-g5E586 = LxbOuPjb4g((unsigned char)2085787245, -1902714610, -44308239, 201932185, -1781831321);
+g5E586 = LxbOuPjb4g((unsigned char)2085787245, -1902714610, -44308239, (char)201932185, -1781831321);
 break;
 }
 }

@@ -37,7 +37,7 @@ int main(void) {
 
 if ((DcwR_Sn2j) || ((Xn5I >= -1920269324) || (NE42 <= f99u)))
 {
-std::cout << "YJZWmw" << b8s90((char)111508535, -1226119282) << Im88IStnOk << "hJk08zS" << GzxYkK << std::endl;
+std::cout << "YJZWmw" << b8s90((char)111508535, (short)-1226119282) << Im88IStnOk << "hJk08zS" << GzxYkK << std::endl;
 }
 switch (lyYYQ)
 {
@@ -432,7 +432,7 @@ case 'g':
 p6UDqK = b8s90(knX_sJ, SoW1ZIySF);
 break;
 case 'h':
-gKRsvC = eV0ad_(gKRsvC, (unsigned char)-1072346474, (short)137537442, -785139785, pmXbD);
+gKRsvC = eV0ad_(gKRsvC, (unsigned char)-1072346474, (short)137537442, (char)-785139785, pmXbD);
 break;
 case 'i':
 D8efi5Q = eV0ad_(gKRsvC, UVK4j4Zt1, aj2lln, 139344499, 1687586409) & Im88IStnOk;
@@ -444,7 +444,7 @@ else
 {
 Et_TCI98 = eV0ad_(138295042, (unsigned char)-278782310, iLiOH6H, (char)-1153061587, -1160960227);
 }
-yF5_ONy2 = eV0ad_(yF5_ONy2, SoW1ZIySF, MrxHD1, -2007995536, Leig01_W9_);
+yF5_ONy2 = eV0ad_(yF5_ONy2, SoW1ZIySF, MrxHD1, (char)-2007995536, Leig01_W9_);
 
 switch (tqH16Lj)
 {

@@ -33,7 +33,7 @@ int main(int argc, char** argv) {
 	short int	Cy35N5PM2;
 	Cy35N5PM2	=	(short)304028765;
  short int h_Av;
- h_Av = -1088278369;
+ h_Av = (short)-1088278369;
  short WxKl_;
  WxKl_ = (short)-333888782;
   unsigned long long  k2qTff;
@@ -51,7 +51,7 @@ int main(int argc, char** argv) {
 	float	kcTCGGRr6;
 	kcTCGGRr6	=	1962819708;
     unsigned short    JJMOr80;
-    JJMOr80    =    -530564686;
+    JJMOr80    =    (unsigned short)-530564686;
 	long long	Z_1N_y;
 	Z_1N_y	=	-1980802898;
   unsigned long  oLJNjJvd65;
@@ -101,7 +101,7 @@ int main(int argc, char** argv) {
  unsigned short k770cgOM_;
  k770cgOM_ = (unsigned short)2110429304;
  short int AG9M8CGP7h;
- AG9M8CGP7h = 578791723;
+ AG9M8CGP7h = (short)578791723;
  long rze5p79W;
  rze5p79W = -496861263;
   unsigned long  sZwOFETR;

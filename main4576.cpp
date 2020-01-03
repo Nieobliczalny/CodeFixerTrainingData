@@ -31,7 +31,7 @@ int main(int argc, char** argv)
  short int X3X1eZ, FM8qifl, wT_53_o, Sp20s, EzRfvuHNaL, K_90F50T, qNO4, z2_0J, mII9lTiU, U05ghS0dgj, S5eFo, Bu_HNsFH, a8BN1, McD1qn, Fb_T, fg97g8Y_q, hTJW8Pw0, I6jAN, FL_Q50h, g_9_5HG, XkSY75M1_, oRj1JjV, WROqle1R, gPs1a5m3, m28SdP0c4N, IUB48lnO9Q, g87MF3N45W, CTHJU2_P_0, aY4UH, vTqei7, hvTp, He2WVR45I, JQvV, By2yWHBIg, tttn93y3, Kb14dmQ, Ey9T, XzaN, f0jTZT, peV3U4O7j, Zr5ww4Zx, dh67, HX119IWD70, Wl83nLEr, N9MNq5_, EzM5q, gQNT2QP_5t, LI3i, Okih1s, GG3M4r81, T6RlK, uEoAOy034n, M7_z3788Bp, aT79_kV, gR6N, Y2kIb3v9, NQs76wEj, TcbaC0y13, uGq8h, XjtF, fxRmRL;
  X3X1eZ = (short)1568687415;
  FM8qifl = (short)1616955042;
- wT_53_o = -1513747221;
+ wT_53_o = (short)-1513747221;
  Sp20s = -2059104363;
  EzRfvuHNaL = -1237803518;
  K_90F50T = -872864922;
@@ -41,7 +41,7 @@ int main(int argc, char** argv)
  U05ghS0dgj = 1372604234;
  S5eFo = (short)-1904909508;
  Bu_HNsFH = (short)1533531890;
- a8BN1 = 1821335441;
+ a8BN1 = (short)1821335441;
  McD1qn = -1696134164;
  Fb_T = -72241661;
  fg97g8Y_q = 1903282111;
@@ -51,7 +51,7 @@ int main(int argc, char** argv)
  g_9_5HG = 896335425;
  XkSY75M1_ = (short)1655991598;
  oRj1JjV = (short)-966250900;
- WROqle1R = 1308118125;
+ WROqle1R = (short)1308118125;
  gPs1a5m3 = -1329005346;
  m28SdP0c4N = -1451867455;
  IUB48lnO9Q = -539124337;
@@ -61,7 +61,7 @@ int main(int argc, char** argv)
  vTqei7 = 1616530287;
  hvTp = (short)-626381739;
  He2WVR45I = (short)935472343;
- JQvV = 2020295922;
+ JQvV = (short)2020295922;
  By2yWHBIg = -1331369713;
  tttn93y3 = 91732954;
  Kb14dmQ = 1819010438;
@@ -71,7 +71,7 @@ int main(int argc, char** argv)
  peV3U4O7j = 1998046116;
  Zr5ww4Zx = (short)-1972681383;
  dh67 = (short)-196503839;
- HX119IWD70 = -959938082;
+ HX119IWD70 = (short)-959938082;
  Wl83nLEr = -244261101;
  N9MNq5_ = 2091321538;
  EzM5q = 1163385009;
@@ -81,7 +81,7 @@ int main(int argc, char** argv)
  GG3M4r81 = -857219920;
  T6RlK = (short)-2043385192;
  uEoAOy034n = (short)-673917041;
- M7_z3788Bp = 1519212454;
+ M7_z3788Bp = (short)1519212454;
  aT79_kV = -283683802;
  gR6N = 1926599137;
  Y2kIb3v9 = -188285943;

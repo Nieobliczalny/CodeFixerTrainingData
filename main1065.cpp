@@ -80,7 +80,7 @@ case 'b':
 v1PGe_NUeG = (int)abs(tu_bitD61);
 break;
 case 'c':
-d7oOwxi = Tkh59_eMO((short)1251491299, -1300259918, -212731808);
+d7oOwxi = Tkh59_eMO((short)1251491299, -1300259918, (short)-212731808);
 break;
 case 'd':
 d7oOwxi = Tkh59_eMO(v2595bzm9z, -1058038162, a_bbvdHG);
@@ -437,7 +437,7 @@ for (int i = x6wRI6Qo7g; i < 7; i++)
 {
 if (a_bbvdHG < 1747967971)
 {
-std::cout << Tkh59_eMO((short)-1327220824, -591272475, 887539309) << "e369fv_7_y" << "uWACaZT" << ezNt9nW1(g0oX, Qxx998, t38BKI) << std::endl;
+std::cout << Tkh59_eMO((short)-1327220824, -591272475, (short)887539309) << "e369fv_7_y" << "uWACaZT" << ezNt9nW1(g0oX, Qxx998, t38BKI) << std::endl;
 }
 else if (WrX6K7PVB0 == oA6H)
 {

@@ -21,7 +21,7 @@ int main() {
     char    b2mQ2,    M_ItEq8t93,    RmNE2,    ZDpJt,    Xh644Z,    PZZassekS,    h_d8h,    Tix_aZ,    R1sWJI,    q3mfb6,    hZLme_8,    RhPIb,    u22Ul,    X3i9m31,    Ey732M,    p216bAWGM,    ur05966u73,    E3qE5,    LCuIR_r,    gAelf2NsY,    L3_Tj0E,    GBtOU45oWP,    dyIR9,    g89D,    tDIpXL,    ob4jSUcU,    qK256j,    KUnn,    wQcPi,    Xs967n,    C358b_7,    Qv_0Z,    L5TQ,    rX4kb,    qm3AW9vOe,    J_19g_,    e93t,    N8Oo1INxml,    dBV7_6zek2,    b2u_O7Pu,    EZb4N39,    J7Sc3EPQ19,    FLOSeO39,    fu453Ba,    a7W8,    ESlq0yy5U,    y66MJqF,    sw1m,    SV21;
     b2mQ2    =    (char)1914795738;
     M_ItEq8t93    =    (char)1545638132;
-    RmNE2    =    1722833706;
+    RmNE2    =    (char)1722833706;
     ZDpJt    =    -1064760916;
     Xh644Z    =    -8521773;
     PZZassekS    =    1862552956;
@@ -31,7 +31,7 @@ int main() {
     q3mfb6    =    -1817858383;
     hZLme_8    =    (char)498804445;
     RhPIb    =    (char)-599343100;
-    u22Ul    =    -15640361;
+    u22Ul    =    (char)-15640361;
     X3i9m31    =    -207719805;
     Ey732M    =    -2089248670;
     p216bAWGM    =    130547869;
@@ -41,7 +41,7 @@ int main() {
     gAelf2NsY    =    -750189587;
     L3_Tj0E    =    (char)1138443534;
     GBtOU45oWP    =    (char)-246388022;
-    dyIR9    =    -715158514;
+    dyIR9    =    (char)-715158514;
     g89D    =    -2136001271;
     tDIpXL    =    1086780440;
     ob4jSUcU    =    -1079196752;
@@ -51,7 +51,7 @@ int main() {
     Xs967n    =    -1650505082;
     C358b_7    =    (char)606188452;
     Qv_0Z    =    (char)-1992420441;
-    L5TQ    =    -443837300;
+    L5TQ    =    (char)-443837300;
     rX4kb    =    -264125804;
     qm3AW9vOe    =    -2107802073;
     J_19g_    =    829698758;
@@ -61,7 +61,7 @@ int main() {
     b2u_O7Pu    =    357164606;
     EZb4N39    =    (char)24722541;
     J7Sc3EPQ19    =    (char)-1505792204;
-    FLOSeO39    =    1746908129;
+    FLOSeO39    =    (char)1746908129;
     fu453Ba    =    482243955;
     a7W8    =    1197134028;
     ESlq0yy5U    =    -183300413;

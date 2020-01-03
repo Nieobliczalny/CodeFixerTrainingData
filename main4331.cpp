@@ -30,7 +30,7 @@ int main()
  long long nCreO_b_e;
  nCreO_b_e = 99461550;
   unsigned short int  jCaKJ;
-  jCaKJ  =  -1713012890;
+  jCaKJ  =  (unsigned short)-1713012890;
     unsigned int    u832RY3udx;
     u832RY3udx    =    1953727363;
     short int    w63k9it;
@@ -60,7 +60,7 @@ int main()
   unsigned short  PrDXVez8M;
   PrDXVez8M  =  (unsigned short)-103557083;
 	short int	s2QR3qv0kk;
-	s2QR3qv0kk	=	702137642;
+	s2QR3qv0kk	=	(short)702137642;
 
 {
 int i = 0;

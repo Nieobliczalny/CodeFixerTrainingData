@@ -34,7 +34,7 @@ int main(void) {
   long  r7Ntlw7  =  -1585612652;
  short p1ZCdx = (short)364717465;
  unsigned short np0lkPE = (unsigned short)719457098;
- char y1N6i_ = -1046688641;
+ char y1N6i_ = (char)-1046688641;
     short int    QK1l6cT    =    50875717;
 	unsigned short int	VSlSLDg40	=	-1209727924;
  float dJe1 = 835780100;
@@ -47,7 +47,7 @@ int main(void) {
 	double	eKQ6MpGK	=	-1871039192;
     char    K2f5bA9_p    =    (char)1088122637;
  long long EWSv_wO = 927478237;
- char i2E520V9 = -754326205;
+ char i2E520V9 = (char)-754326205;
 	char	cpKoi9jA6	=	1767649549;
     unsigned short    LC3cA    =    403405854;
     long double    EqIb    =    -1609838856;
@@ -58,7 +58,7 @@ int main(void) {
   char  C4P1J22rL6  =  (char)-1482527550;
     char    qm1x_LF8M    =    1425300716;
  unsigned long bWaE108_ = 104611883;
-  char  X4ItQ4  =  -2028195684;
+  char  X4ItQ4  =  (char)-2028195684;
     double    J132eygE    =    464037569;
  unsigned short X5LU8yuu4_ = -1005732139;
     unsigned long long    qXranMA    =    441251998;
@@ -77,7 +77,7 @@ int main(void) {
 	char	ImSI	=	(char)-838053346;
 	long double	cy65	=	816766663;
   long long  kR0j7aPuK  =  1139935153;
-	unsigned char	a8_IzFl9n	=	-172118072;
+	unsigned char	a8_IzFl9n	=	(unsigned char)-172118072;
     short    q26z    =    (short)614615780;
 	float	QQVK	=	210175662;
     long double    Ms7C33    =    312863349;
@@ -90,7 +90,7 @@ int main(void) {
   short int  dcB151iva8  =  (short)496688608;
 	long double	qX7q	=	-1729406238;
   short  D5707u4_  =  (short)1674434685;
-	unsigned short	XIAJ	=	-725011746;
+	unsigned short	XIAJ	=	(unsigned short)-725011746;
 	long long	F4Wtx1xR	=	1701657820;
 	unsigned short	Y58RM8y0	=	-810041799;
 	char	Fvc4F5	=	695554910;
@@ -215,7 +215,7 @@ j++;
 }
 else if (QK1l6cT <= 1559500822)
 {
-std::cout << w4mAZ25(1467254165, XIAJ, qXranMA, 1653335943) << "fgHNT4xs" << "uGY_32" << w4mAZ25(-370965419, 60761649, -1713729956, -213613943) << std::endl;
+std::cout << w4mAZ25((short)1467254165, XIAJ, qXranMA, 1653335943) << "fgHNT4xs" << "uGY_32" << w4mAZ25(-370965419, 60761649, -1713729956, -213613943) << std::endl;
 }
 else if (Ms7C33 == u_HF2aM)
 {
@@ -273,7 +273,7 @@ case 3:
 cy65 = w4mAZ25((short)847932527, -1646742851, l87V, Ms7C33);
 break;
 case 4:
-pYRyj = w4mAZ25(-1742350923, dJe1, 1082781612, M4Srv64);
+pYRyj = w4mAZ25((short)-1742350923, dJe1, 1082781612, M4Srv64);
 break;
 case 5:
 Ms7C33 = Y58RM8y0 % ImSI;
@@ -332,7 +332,7 @@ else
 {
 try
 {
-std::cout << "OlfI_" << Zh1Yrn(U3nyL, 1670239937, (unsigned short)1100347130, XIAJ, 1717941184) << "ie3__" << ydMt() << r7Ntlw7 << std::endl;
+std::cout << "OlfI_" << Zh1Yrn(U3nyL, 1670239937, (unsigned short)1100347130, XIAJ, (char)1717941184) << "ie3__" << ydMt() << r7Ntlw7 << std::endl;
 }
 catch (int& errorCode)
 {

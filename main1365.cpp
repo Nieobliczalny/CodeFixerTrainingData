@@ -42,7 +42,7 @@ int main(void) {
  short HoMG;
  HoMG = (short)-1455362693;
 	char	TSHRqm5mht;
-	TSHRqm5mht	=	-1159749794;
+	TSHRqm5mht	=	(char)-1159749794;
 	unsigned long	Un7Ak0toG;
 	Un7Ak0toG	=	1403655159;
   long long  a_s1;
@@ -52,7 +52,7 @@ int main(void) {
 	unsigned short int	N1Ou2W;
 	N1Ou2W	=	(unsigned short)-309413680;
  unsigned short int iRVXnfK89C;
- iRVXnfK89C = -569803557;
+ iRVXnfK89C = (unsigned short)-569803557;
 	float	CRjLs3;
 	CRjLs3	=	834779731;
   int  Ys00;
@@ -80,7 +80,7 @@ int main(void) {
 	unsigned short	jePJ7_q0;
 	jePJ7_q0	=	(unsigned short)1234030212;
   unsigned short int  ZIwFOLT1Y_;
-  ZIwFOLT1Y_  =  -2064998017;
+  ZIwFOLT1Y_  =  (unsigned short)-2064998017;
  unsigned int kQ6i_sF3k;
  kQ6i_sF3k = -1092403579;
 	long	G9fqGT9B;
@@ -92,7 +92,7 @@ int main(void) {
 	unsigned char	SzH42;
 	SzH42	=	(unsigned char)-89681346;
   char  g_7SsvUhn;
-  g_7SsvUhn  =  -2043754525;
+  g_7SsvUhn  =  (char)-2043754525;
  long double LyHW;
  LyHW = -1425493482;
 	unsigned short int	Im_ku;
@@ -140,7 +140,7 @@ int main(void) {
  unsigned short fFrnMa2;
  fFrnMa2 = (unsigned short)-775678385;
     unsigned short int    G921HW;
-    G921HW    =    -1981795833;
+    G921HW    =    (unsigned short)-1981795833;
     unsigned int    vp528sTe_;
     vp528sTe_    =    1503756673;
  unsigned long long Q7di;
@@ -160,7 +160,7 @@ int main(void) {
     unsigned int    G9LPHW;
     G9LPHW    =    -1713188011;
     unsigned short int    H0zGf5;
-    H0zGf5    =    1800420373;
+    H0zGf5    =    (unsigned short)1800420373;
     long long    wIe6;
     wIe6    =    553600080;
     double    g1Z72o;
@@ -172,7 +172,7 @@ int main(void) {
     short int    bo_6;
     bo_6    =    (short)1994338200;
  unsigned short mH088;
- mH088 = -1523836884;
+ mH088 = (unsigned short)-1523836884;
  char O188tx;
  O188tx = 1614117110;
     unsigned short    QF0vG686N_;
@@ -194,7 +194,7 @@ int main(void) {
     long long    an0hkR_;
     an0hkR_    =    296974779;
   unsigned short  JC55aMw_r;
-  JC55aMw_r  =  -2129617827;
+  JC55aMw_r  =  (unsigned short)-2129617827;
  short Nc4JxXY;
  Nc4JxXY = 2030599603;
 	unsigned int	r0ga9s4q;

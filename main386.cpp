@@ -333,7 +333,7 @@ case 0:
 k6Aiq = Xkovq(-323527907, -1453118715, (short)2143483827, (short)1500303993);
 break;
 case 1:
-p1zU0W = Xkovq(p1zU0W, HgWCbV6i, -961325480, hrb60);
+p1zU0W = Xkovq(p1zU0W, HgWCbV6i, (short)-961325480, hrb60);
 break;
 case 2:
 VwxzGc9xS1 ^= 2037349320;
@@ -599,7 +599,7 @@ eL4__3 = Xkovq(923189767, -729190908, (short)691952729, (short)-2015001530);
 }
 else if (W2c8qI7Xj >= ZE2uO)
 {
-RBd1 = BaG9535nx5(-1421031423, W2c8qI7Xj, -1759983396, j1RfM, -228534109);
+RBd1 = BaG9535nx5(-1421031423, W2c8qI7Xj, (short)-1759983396, j1RfM, -228534109);
 }
 else if ((PM7CTwwwlO < -1196334507) && (ZE2uO & Hbvh))
 {

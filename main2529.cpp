@@ -29,7 +29,7 @@ int main() {
     unsigned short int    VSnr1;
     VSnr1    =    (unsigned short)1492034703;
 	short	A_9E2_3_;
-	A_9E2_3_	=	-1827153298;
+	A_9E2_3_	=	(short)-1827153298;
     double    E2_u_ZQ;
     E2_u_ZQ    =    1593114773;
 	unsigned short int	Y0k8sp;
@@ -41,7 +41,7 @@ int main() {
     unsigned int    NMorBJij;
     NMorBJij    =    608676828;
   short int  hZ6B;
-  hZ6B  =  795780933;
+  hZ6B  =  (short)795780933;
  float vmxDZCwZ__;
  vmxDZCwZ__ = -850532886;
  unsigned long UKo5Cu5J;
@@ -69,7 +69,7 @@ int main() {
   unsigned short int  JMfD;
   JMfD  =  (unsigned short)266673829;
 	char	weKmT0hp;
-	weKmT0hp	=	-2103301078;
+	weKmT0hp	=	(char)-2103301078;
  short RSxdA6M6;
  RSxdA6M6 = 758324575;
     long long    Pp_nS;
@@ -83,7 +83,7 @@ int main() {
  unsigned long EHD3ZbW;
  EHD3ZbW = -133154586;
  short t8k8;
- t8k8 = -2104626753;
+ t8k8 = (short)-2104626753;
   long  VFu02X;
   VFu02X  =  1955636765;
  unsigned int ejiD857kE;
@@ -93,7 +93,7 @@ int main() {
 	unsigned short int	QCVaia5zd;
 	QCVaia5zd	=	(unsigned short)-1824825214;
 	unsigned short int	F0IRPn;
-	F0IRPn	=	-1233363965;
+	F0IRPn	=	(unsigned short)-1233363965;
   float  NokclLN1m_;
   NokclLN1m_  =  -1994889676;
 	short int	Asnz5u;
@@ -117,7 +117,7 @@ int main() {
   unsigned short int  q6fe24Kr;
   q6fe24Kr  =  (unsigned short)-2044719499;
     short    V7N20uzI;
-    V7N20uzI    =    317815001;
+    V7N20uzI    =    (short)317815001;
   short int  F5QE1Ea;
   F5QE1Ea  =  (short)-1506162299;
     unsigned long    k52v0_5B7;
@@ -141,7 +141,7 @@ int main() {
   unsigned short int  w3Mz;
   w3Mz  =  (unsigned short)1704939175;
     short int    EVp8_h;
-    EVp8_h    =    -2038395634;
+    EVp8_h    =    (short)-2038395634;
  long double JTH1FL;
  JTH1FL = 799129639;
  long long Ce72;
@@ -183,7 +183,7 @@ int main() {
     long double    kU7H;
     kU7H    =    661413325;
   short  wpD1d;
-  wpD1d  =  -2093147992;
+  wpD1d  =  (short)-2093147992;
 	unsigned short	XN4M9R1jY;
 	XN4M9R1jY	=	(unsigned short)-1832861369;
 	double	fEino_B__n;
@@ -193,7 +193,7 @@ int main() {
   unsigned short  q39pP8fD75;
   q39pP8fD75  =  (unsigned short)-1808214649;
   unsigned short int  bmLcmT5A9;
-  bmLcmT5A9  =  1942124744;
+  bmLcmT5A9  =  (unsigned short)1942124744;
  unsigned short int YEdd8s9Tt;
  YEdd8s9Tt = (unsigned short)347109644;
 

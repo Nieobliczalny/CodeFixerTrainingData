@@ -238,7 +238,7 @@ c4XI = iNT3yxtOe1(c4XI, (char)-700631532, (char)516971536, -246392311, 773138669
 }
 else
 {
-pL4ld9d02 = iNT3yxtOe1(c4XI, Ff8LJ28n, 390055811, U4G8c0K, f_gsBCp_6l) << 1946706227;
+pL4ld9d02 = iNT3yxtOe1(c4XI, Ff8LJ28n, (char)390055811, U4G8c0K, f_gsBCp_6l) << 1946706227;
 }
 }
 else
@@ -257,7 +257,7 @@ for (int j = 10; j >= 0; j--)
 {
 try
 {
-YEtd7Q = L7Q9kEd2(-1161511004, Z1360bc, P7qa7o8, -354880577);
+YEtd7Q = L7Q9kEd2((unsigned short)-1161511004, Z1360bc, P7qa7o8, -354880577);
 }
 catch (int& errorCode)
 {

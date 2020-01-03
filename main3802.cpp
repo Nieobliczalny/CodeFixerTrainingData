@@ -44,7 +44,7 @@ if (((KOC386XV9x == 1576822152) || (pP9q5Cm0 < 1942460677)) || ((p_8GO91 > 27881
 {
 try
 {
-Nk8tGLUZ3t = I2oa9921TL((short)527803057, gCU089yPY, (short)1929142583, 1426953848, 1821199006);
+Nk8tGLUZ3t = I2oa9921TL((short)527803057, gCU089yPY, (short)1929142583, 1426953848, (unsigned char)1821199006);
 }
 catch (int& errorCode)
 {
@@ -137,7 +137,7 @@ case 'c':
 BJkcPz = (s0Ynsz1Vu >= -1447493158) ? AT3w : otK6W_3;
 break;
 default:
-WwBu2viJM2 = I2oa9921TL(-188818559, 1635826709, Nk8tGLUZ3t, ivREO_y79K, -564798773);
+WwBu2viJM2 = I2oa9921TL((short)-188818559, 1635826709, Nk8tGLUZ3t, ivREO_y79K, -564798773);
 break;
 }
 }
@@ -185,7 +185,7 @@ jD069DD = UM9A0872(qvGwBn4495, -431672658) + 1767504136;
 
 if (W5IYs9KZvt == 1168353211)
 {
-cout << "sLwlN3u72" << I2oa9921TL((short)-1589336473, e5_8Sf2dH, (short)-112032323, npnIG6kIBL, -1887848539) << xyIN6343B << p3080M5J << endl;
+cout << "sLwlN3u72" << I2oa9921TL((short)-1589336473, e5_8Sf2dH, (short)-112032323, npnIG6kIBL, (unsigned char)-1887848539) << xyIN6343B << p3080M5J << endl;
 }
 else
 {
@@ -204,7 +204,7 @@ case 2:
 PhrvT5M3 = UM9A0872(npnIG6kIBL, i_5_);
 break;
 default:
-yF6a975YA = i59a(-1506945653, -16750951, 1707375391, D4zl, W5IYs9KZvt);
+yF6a975YA = i59a((unsigned short)-1506945653, -16750951, 1707375391, D4zl, W5IYs9KZvt);
 break;
 }
 
@@ -266,7 +266,7 @@ case 2:
 Z41007++;
 break;
 case 3:
-E6v29AZ = UM9A0872(740432506, -1272354414);
+E6v29AZ = UM9A0872((unsigned short)740432506, -1272354414);
 break;
 case 4:
 ivREO_y79K >>= 1184620847;
@@ -302,7 +302,7 @@ dKF8_t7Ej5 = (long long)(k_24);
 }
 else
 {
-cout << IDquD_Z << jUTD8 << "BsWOAf01n4" << I2oa9921TL((short)1060431229, -539275017, Z3299, Z41007, (unsigned char)100259115) << I2oa9921TL(KOC386XV9x, e2Ih6Si, 478421254, Z41007, -998889139) << endl;
+cout << IDquD_Z << jUTD8 << "BsWOAf01n4" << I2oa9921TL((short)1060431229, -539275017, Z3299, Z41007, (unsigned char)100259115) << I2oa9921TL(KOC386XV9x, e2Ih6Si, (short)478421254, Z41007, -998889139) << endl;
 }
 
 {
@@ -421,7 +421,7 @@ otK6W_3--;
 }
 else if (Txaof > -640791871)
 {
-s0Ynsz1Vu = i59a((unsigned short)888209238, 917269497, p_8GO91, 677829292, -50744891);
+s0Ynsz1Vu = i59a((unsigned short)888209238, (short)917269497, p_8GO91, 677829292, -50744891);
 }
 else
 {

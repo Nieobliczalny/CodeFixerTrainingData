@@ -75,7 +75,7 @@ case 1:
 YN2Qf = (int)ceil(jysFv9);
 break;
 default:
-Kp50l2r = u1C184m0(B8nOYYsP, gyM80x7r, gZ6b72768, bVit, 149828133);
+Kp50l2r = u1C184m0(B8nOYYsP, gyM80x7r, gZ6b72768, bVit, (unsigned char)149828133);
 break;
 }
 }

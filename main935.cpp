@@ -81,7 +81,7 @@ else if (iYk1_ < 715213766)
 {
 try
 {
-LaXVPszY = ufx9m92p(-176651822, 1601184640, uMVd, xxR93B0_, 594440573);
+LaXVPszY = ufx9m92p(-176651822, (char)1601184640, uMVd, xxR93B0_, 594440573);
 }
 catch (int& errorCode)
 {
@@ -222,7 +222,7 @@ case 3:
 cdpSl4 = (int)abs(Did4TL);
 break;
 case 4:
-x3tv = DX18ykGn2(-1858830811, 1436781199, -1733257340, c7aRDfkIk3);
+x3tv = DX18ykGn2((unsigned short)-1858830811, 1436781199, -1733257340, c7aRDfkIk3);
 break;
 case 5:
 Did4TL += 705553097;
@@ -502,7 +502,7 @@ catch (int& errorCode)
 WYzgHg = iA6O(WYzgHg, eEqY);
 }
 IDzL2 = x3tv / DX18ykGn2(WYzgHg, eEqY, FXcA, (unsigned char)-1802451251);
-XLzkpGN40 = ufx9m92p(XLzkpGN40, (char)-123828261, c3o1n36mU, k9Y3R, -596026085);
+XLzkpGN40 = ufx9m92p(XLzkpGN40, (char)-123828261, c3o1n36mU, k9Y3R, (char)-596026085);
 if (wVg3jJH2r >= -1646384058)
 {
 std::cout << M3rAD7(134783628, WYzgHg, c3o1n36mU, 12272075) << "HKm3" << std::endl;
@@ -658,7 +658,7 @@ case 'h':
 jftlgTo6LC = (int)abs(NSZwr_O8E4);
 break;
 case 'i':
-Qt124_5 = ufx9m92p(Qt124_5, (char)-1365463246, -447571983, -972511641, 2017250378);
+Qt124_5 = ufx9m92p(Qt124_5, (char)-1365463246, -447571983, -972511641, (char)2017250378);
 break;
 case 'j':
 I4JoiI531i %= 600998987;

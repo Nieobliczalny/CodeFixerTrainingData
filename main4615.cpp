@@ -31,7 +31,7 @@ int main(int argc, char** argv)
 	long double	OMJQP;
 	OMJQP	=	-469738204;
  short int gfzEsS;
- gfzEsS = 651047653;
+ gfzEsS = (short)651047653;
     unsigned int    AYq5paTf;
     AYq5paTf    =    1311040572;
  unsigned short int HTBK5;
@@ -57,7 +57,7 @@ int main(int argc, char** argv)
  char r192gs;
  r192gs = (char)-1941071295;
     char    e2OL83t3Sx;
-    e2OL83t3Sx    =    -505383777;
+    e2OL83t3Sx    =    (char)-505383777;
   unsigned int  e9wJM7;
   e9wJM7  =  850767247;
   long double  WYHFHw8z91;
@@ -87,7 +87,7 @@ int main(int argc, char** argv)
     unsigned short    xhn31;
     xhn31    =    (unsigned short)193292780;
 	short int	y9Pw1L;
-	y9Pw1L	=	-1529203159;
+	y9Pw1L	=	(short)-1529203159;
   unsigned short int  eF074E2_0E;
   eF074E2_0E  =  2071677089;
 	int	HYt7KKk4f;
@@ -101,7 +101,7 @@ int main(int argc, char** argv)
   unsigned short int  q4LX7z56MF;
   q4LX7z56MF  =  (unsigned short)-1525146221;
  short txB6E;
- txB6E = -510590990;
+ txB6E = (short)-510590990;
  double CiW4;
  CiW4 = -560256409;
   unsigned long  I3HYbLX00_;
@@ -143,7 +143,7 @@ int main(int argc, char** argv)
   unsigned char  SE_HYjc9L0;
   SE_HYjc9L0  =  (unsigned char)199600851;
 	char	SGLVn427Lc;
-	SGLVn427Lc	=	517516818;
+	SGLVn427Lc	=	(char)517516818;
 	long double	Vc64t62;
 	Vc64t62	=	-560845537;
  unsigned long FxCGu4rm;
@@ -157,7 +157,7 @@ int main(int argc, char** argv)
 	short int	j0R3U2RE;
 	j0R3U2RE	=	(short)-409239126;
  unsigned short HkP518aAZ;
- HkP518aAZ = -558923413;
+ HkP518aAZ = (unsigned short)-558923413;
   unsigned long  n8tv;
   n8tv  =  990087619;
   unsigned int  dSf4_RN409;
@@ -181,7 +181,7 @@ int main(int argc, char** argv)
   unsigned char  L_8F3nrQu;
   L_8F3nrQu  =  (unsigned char)1162900823;
   char  J0_ldN2l;
-  J0_ldN2l  =  416609656;
+  J0_ldN2l  =  (char)416609656;
  unsigned char I0Pg;
  I0Pg = (unsigned char)387012729;
   float  o6d_024a5;
@@ -215,7 +215,7 @@ int main(int argc, char** argv)
 	double	ZDrg;
 	ZDrg	=	-1695232087;
   char  r_3Sr8;
-  r_3Sr8  =  -1220441437;
+  r_3Sr8  =  (char)-1220441437;
  unsigned long long vc0UM61w;
  vc0UM61w = 592264176;
 

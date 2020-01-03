@@ -21,7 +21,7 @@ int main() {
  short int JFaQrn82G5, Q1gDy, Er6i0w, ASrW9JzW0, PSyZf_1rh7, vqiJ, R4_o_i99, D9jzFH0X2w, T6Caq_M0j, oPaUzOY2, f_RHC, nZfXN1FQL, tLwDp, tPvRrI, TtIq, v2Uy1, llofb2F, TwH7wV6, FAdsu59N9s, pytUY7v, i_OZCV69Y;
  JFaQrn82G5 = (short)-233046628;
  Q1gDy = (short)1700405758;
- Er6i0w = -1928223609;
+ Er6i0w = (short)-1928223609;
  ASrW9JzW0 = -253827387;
  PSyZf_1rh7 = 692558762;
  vqiJ = -813272874;
@@ -31,7 +31,7 @@ int main() {
  oPaUzOY2 = 270737198;
  f_RHC = (short)1007102273;
  nZfXN1FQL = (short)206276052;
- tLwDp = 577711196;
+ tLwDp = (short)577711196;
  tPvRrI = -1018220006;
  TtIq = -1151005026;
  v2Uy1 = 1585787770;

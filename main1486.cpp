@@ -105,7 +105,7 @@ case 'H':
 uvW54B8l <<= 1374645150;
 break;
 default:
-bOmQFp = msJf((unsigned short)-1302168916, (short)-1504920550, -139442354, -9474677);
+bOmQFp = msJf((unsigned short)-1302168916, (short)-1504920550, (short)-139442354, -9474677);
 break;
 }
 if (Q279)
@@ -140,7 +140,7 @@ case 1:
 dIM8MtF_ = p14BWD9();
 break;
 case 2:
-NwWc7 = msJf((unsigned short)-2118438891, 120061401, m0y4ZZ, 1380306006);
+NwWc7 = msJf((unsigned short)-2118438891, (short)120061401, m0y4ZZ, 1380306006);
 break;
 case 3:
 PulQW1 = aM_qNJ - 1508819731;
@@ -262,7 +262,7 @@ case 3:
 Hu6U56IM3 = p14BWD9();
 break;
 case 4:
-Ow9M_bX721 = da0Y8p6(Ow9M_bX721, Hu6U56IM3, 245728109, 2070078894, 1602154351);
+Ow9M_bX721 = da0Y8p6(Ow9M_bX721, Hu6U56IM3, 245728109, (unsigned char)2070078894, 1602154351);
 break;
 case 5:
 T8_P5P = L5v_83L(F35e38);

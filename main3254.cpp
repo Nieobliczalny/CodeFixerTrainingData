@@ -24,7 +24,7 @@ int main(void) {
 	double	avqRNFJ;
 	avqRNFJ	=	-1528520781;
  char J36DN;
- J36DN = -820040173;
+ J36DN = (char)-820040173;
   unsigned char  w1AIFz;
   w1AIFz  =  (unsigned char)-1713360884;
  char MN01;

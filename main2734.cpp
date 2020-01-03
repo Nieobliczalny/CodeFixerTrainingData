@@ -115,7 +115,7 @@ C_nsQ = (lT_U2fOfp <= hSM0) ? mdAx0D : q2k09Ht((unsigned char)-811189198);
 }
 else if (C_nsQ & Og0KPfe00)
 {
-std::cout << q2k09Ht((unsigned char)671751141) << n5sX << q2k09Ht(-1421223858) << ayB9NCI8Ph << hSM0 << std::endl;
+std::cout << q2k09Ht((unsigned char)671751141) << n5sX << q2k09Ht((unsigned char)-1421223858) << ayB9NCI8Ph << hSM0 << std::endl;
 }
 else if (ny7ueT)
 {

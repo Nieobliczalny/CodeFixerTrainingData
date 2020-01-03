@@ -48,7 +48,7 @@ int main()
 	unsigned int	a3bb93	=	1537232095;
  unsigned long PPqdLh9Rsm = -1923404988;
 	unsigned int	q0ZoETW9C0	=	1313106183;
- char p1Lg1h = 744111494;
+ char p1Lg1h = (char)744111494;
   unsigned short  veAx2x9  =  831889219;
     char    eQZocS    =    -988693864;
     unsigned long    Nqr26JCTd    =    1515776218;
@@ -62,7 +62,7 @@ int main()
  int B1o28FK9p = -1993705007;
     unsigned int    bbBziwHn    =    -672589727;
  unsigned long GriB = 697784568;
-  unsigned char  Ffkl9F0  =  -8504059;
+  unsigned char  Ffkl9F0  =  (unsigned char)-8504059;
     long long    hg9_i    =    0;
 	long double	w4_k0kq	=	1220544186;
     int    WSijO88_    =    -1165742284;
@@ -72,7 +72,7 @@ int main()
 	double	N_0mO	=	1571869014;
 	unsigned short	julgR1_cw	=	692748613;
 	long	q3x48exTk7	=	1124301047;
- unsigned char hSZhwI4Du = -736296019;
+ unsigned char hSZhwI4Du = (unsigned char)-736296019;
  short Tm18E0 = -1661386301;
     short int    Seacojj358    =    1201744583;
   long  j0QR7E1W  =  -666677018;
@@ -117,7 +117,7 @@ t3634 = (int)ceil(EAoy8dL9);
 }
 else if (NjMDmiQLq <= 1128047217)
 {
-std::cout << "e1LI83J" << "F6gMT17R" << qLz5B_d((short)-1782916355, HVevBzK) << F21SM073((short)853918238, HVevBzK, 5967988, t3634) << A_OqpI(julgR1_cw, 1163136662) << std::endl;
+std::cout << "e1LI83J" << "F6gMT17R" << qLz5B_d((short)-1782916355, HVevBzK) << F21SM073((short)853918238, HVevBzK, (char)5967988, t3634) << A_OqpI(julgR1_cw, 1163136662) << std::endl;
 }
 else if ((Nqr26JCTd >= p1Lg1h) || ((IdyW0S) || (f4SKl2P != lsCdDu2)))
 {
@@ -133,7 +133,7 @@ Seacojj358 = qLz5B_d(Seacojj358, (unsigned short)923498406);
 }
 else
 {
-std::cout << "DucH" << F21SM073((short)-1669427323, RYJ1aQ9d8, IdyW0S, q3x48exTk7) << qLz5B_d(Seacojj358, 1495616725) << lsCdDu2 << std::endl;
+std::cout << "DucH" << F21SM073((short)-1669427323, RYJ1aQ9d8, IdyW0S, q3x48exTk7) << qLz5B_d(Seacojj358, (unsigned short)1495616725) << lsCdDu2 << std::endl;
 }
 }
 for (int i = 0; i < 4; ++i)
@@ -198,7 +198,7 @@ N_0mO = (int)floor(t3634);
 }
 }
 }
-std::cout << "Vo69L9d" << A_OqpI((short)-736725394, (unsigned char)-13451567) << j8Cj3kBbJC << e7t8w3 << F21SM073(-922716295, -1451531909, -1510613212, 197569094) << std::endl;
+std::cout << "Vo69L9d" << A_OqpI((short)-736725394, (unsigned char)-13451567) << j8Cj3kBbJC << e7t8w3 << F21SM073((short)-922716295, -1451531909, -1510613212, 197569094) << std::endl;
 Nqr26JCTd = AN46 % 900930788;
 
 oTApWeC_B = qLz5B_d(oTApWeC_B, -1678162778);

@@ -398,7 +398,7 @@ case 'f':
 w3F0n_ = PU1zeCT(1490842281);
 break;
 case 'g':
-egU7ooxE = vPzNgUCv(ynB5j6AZ2, msdx0885a, (unsigned short)104165157, (char)-642799626, 903470278);
+egU7ooxE = vPzNgUCv(ynB5j6AZ2, msdx0885a, (unsigned short)104165157, (char)-642799626, (short)903470278);
 break;
 case 'h':
 KQ235bh6 <<= qZqpbUH9Qa;
@@ -435,7 +435,7 @@ case 4:
 KQ235bh6 = PU1zeCT(-839078327);
 break;
 default:
-xSaS = vPzNgUCv((unsigned short)-1753280889, w3F0n_, (unsigned short)-2068226055, -1165022855, 1046627677);
+xSaS = vPzNgUCv((unsigned short)-1753280889, w3F0n_, (unsigned short)-2068226055, (char)-1165022855, 1046627677);
 break;
 }
 
@@ -451,7 +451,7 @@ case 2:
 RhORtEBZ = Y2LWd6H2 << 1915822487;
 break;
 case 3:
-egU7ooxE = vPzNgUCv((unsigned short)-238459532, 532487691, (unsigned short)-1566033556, ji8EasRYd, 1822219020);
+egU7ooxE = vPzNgUCv((unsigned short)-238459532, 532487691, (unsigned short)-1566033556, ji8EasRYd, (short)1822219020);
 break;
 case 4:
 F57GDz = PCor0(F57GDz, 990974911, 490795077, 62535960, 1196988964);
@@ -511,7 +511,7 @@ MYBkhO = PU1zeCT(MYBkhO);
 }
 else
 {
-xSaS = vPzNgUCv((unsigned short)614217310, Dx20G, -760679276, TQ_5u8pY6, -647603865);
+xSaS = vPzNgUCv((unsigned short)614217310, Dx20G, (unsigned short)-760679276, TQ_5u8pY6, -647603865);
 }
 }
 }
@@ -540,7 +540,7 @@ case 'c':
 y8IA32 = PU1zeCT(-1866797189);
 break;
 case 'd':
-rb9YDNb4D = PCor0(856566456, 374376475, 276436698, Gwl8w, FART7E);
+rb9YDNb4D = PCor0((unsigned char)856566456, 374376475, 276436698, Gwl8w, FART7E);
 break;
 case 'e':
 kI5C3Eg0W = Y2LWd6H2 >> Dv9x;
@@ -666,7 +666,7 @@ else
 {
 try
 {
-egU7ooxE = vPzNgUCv((unsigned short)1425282298, 810016590, 379085970, RQu8Q6k4, Gwl8w);
+egU7ooxE = vPzNgUCv((unsigned short)1425282298, 810016590, (unsigned short)379085970, RQu8Q6k4, Gwl8w);
 }
 catch (int& errorCode)
 {
@@ -844,7 +844,7 @@ case 'a':
 S8v95A7RgM |= 412249322;
 break;
 case 'b':
-xSaS = vPzNgUCv((unsigned short)-706055081, 1586115845, (unsigned short)-2005795003, zBWIfb2H, -1372152538);
+xSaS = vPzNgUCv((unsigned short)-706055081, 1586115845, (unsigned short)-2005795003, zBWIfb2H, (short)-1372152538);
 break;
 }
 }

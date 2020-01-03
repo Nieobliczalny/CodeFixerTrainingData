@@ -29,7 +29,7 @@ Nwy4gUV = bx2_(MSUC5x, BV2_145g, C56K2zGNx, Ep43T9Z0O, tzrnZmK9);
 }
 else
 {
-x_ji4j = bx2_((unsigned short)-1970310835, (unsigned char)953251388, 77956573, Ep43T9Z0O, -434748824) - Ep43T9Z0O;
+x_ji4j = bx2_((unsigned short)-1970310835, (unsigned char)953251388, (unsigned short)77956573, Ep43T9Z0O, -434748824) - Ep43T9Z0O;
 }
 }
 
@@ -99,7 +99,7 @@ case 6:
 Nwy4gUV = bx2_((unsigned short)1829139773, (unsigned char)1959656237, IjF4tCUc5, iV71_, -2116937919);
 break;
 case 7:
-Nwy4gUV = bx2_(qLjv8644r, l_auYQS, -1221213188, aCWLj96h, -2091337725);
+Nwy4gUV = bx2_(qLjv8644r, l_auYQS, (unsigned short)-1221213188, aCWLj96h, -2091337725);
 break;
 case 8:
 iV71_ = sg__ % 2082175165;
@@ -172,7 +172,7 @@ for (int j = 8; j >= 0; j--)
 switch (daJ6u)
 {
 case 0:
-Nwy4gUV = bx2_((unsigned short)-1569238339, (unsigned char)608177843, 156676496, -376835607, aCWLj96h);
+Nwy4gUV = bx2_((unsigned short)-1569238339, (unsigned char)608177843, (unsigned short)156676496, -376835607, aCWLj96h);
 break;
 case 1:
 JMU68_MWp = (int)abs(gLV_PcU_6H);
@@ -187,7 +187,7 @@ case 4:
 Nwy4gUV = bx2_(Nwy4gUV, (unsigned char)1278038669, (unsigned short)465491066, 650104458, 150455709);
 break;
 case 5:
-Nwy4gUV = bx2_(EgTD70GZ, -1775099304, 929614655, aRGieNe, 1807322248);
+Nwy4gUV = bx2_(EgTD70GZ, (unsigned char)-1775099304, 929614655, aRGieNe, 1807322248);
 break;
 default:
 BV2_145g = fa6d2rz18 << 765931473;
@@ -230,7 +230,7 @@ Nwy4gUV = bx2_(hnM5, LeH_bB2_, (unsigned short)-891309622, 563064924, jp_T6J);
 }
 }
 
-std::cout << bx2_((unsigned short)-1282712192, LeH_bB2_, C56K2zGNx, -1494685105, 1084741752) << bx2_(hnM5, -797689737, 469972454, iV71_, jp_T6J) << "z94yYc_" << std::endl;
+std::cout << bx2_((unsigned short)-1282712192, LeH_bB2_, C56K2zGNx, -1494685105, 1084741752) << bx2_(hnM5, (unsigned char)-797689737, 469972454, iV71_, jp_T6J) << "z94yYc_" << std::endl;
 
 if (bx2_(1399458750, 1284654287, 1546814768, iV71_, 1235647773) == 0)
 {
@@ -274,7 +274,7 @@ Nwy4gUV = bx2_((unsigned short)-498861558, sg__, (unsigned short)-1483691741, 35
 break;
 case 'd':
 case 'D':
-Nwy4gUV = bx2_(1621103474, V6l6r9bX4T, -861601783, -1977752778, Ep43T9Z0O);
+Nwy4gUV = bx2_((unsigned short)1621103474, V6l6r9bX4T, -861601783, -1977752778, Ep43T9Z0O);
 break;
 default:
 Nwy4gUV = bx2_(422092598, BiDL53, -1546907310, aZQ7, jp_T6J);
@@ -286,7 +286,7 @@ Nwy4gUV = bx2_(1007717322, -1736185445, IEtNPP, o7s6v1x, 1331069259);
 
 rW8ZXh %= Gk08AB;
 
-Nwy4gUV = bx2_(MSUC5x, zOw0Uc, 1605318737, Vx8Rs_, BiDL53);
+Nwy4gUV = bx2_(MSUC5x, zOw0Uc, (unsigned short)1605318737, Vx8Rs_, BiDL53);
 if ((SJdCFJO == -1635784768) || (skU_pj57))
 {
 try
@@ -308,7 +308,7 @@ aRGieNe = zJMJxr_ >> 863547413;
 }
 while (i < 7);
 }
-std::cout << "WtG2aw1zX" << eoAPWFlc4U << bx2_(MSUC5x, (unsigned char)-899867292, O7Yfq, Vx8Rs_, 500870482) << bx2_((unsigned short)-449959633, -257790651, -751823913, -1072735280, -427303) << std::endl;
+std::cout << "WtG2aw1zX" << eoAPWFlc4U << bx2_(MSUC5x, (unsigned char)-899867292, O7Yfq, Vx8Rs_, 500870482) << bx2_((unsigned short)-449959633, (unsigned char)-257790651, -751823913, -1072735280, -427303) << std::endl;
 U54Z2Zamq2 = QMkPF1B * IsQEM;
 if (D_E9)
 {
@@ -332,7 +332,7 @@ Nwy4gUV = bx2_(qLjv8644r, (unsigned char)-1003258682, Tj_3, BDj9V1P, -1165368422
 break;
 case 'e':
 case 'E':
-Nwy4gUV = bx2_(BDj9V1P, 1744159310, -1161751666, -1531491458, -1317769004);
+Nwy4gUV = bx2_(BDj9V1P, (unsigned char)1744159310, -1161751666, -1531491458, -1317769004);
 break;
 case 'f':
 case 'F':
@@ -354,7 +354,7 @@ if (Tj_3 == IsQEM)
 {
 if (daJ6u & 272000257)
 {
-Nwy4gUV = bx2_(nZxslv05, eoAPWFlc4U, 904605001, 1466378078, -839226223);
+Nwy4gUV = bx2_(nZxslv05, eoAPWFlc4U, (unsigned short)904605001, 1466378078, -839226223);
 }
 else
 {
@@ -532,7 +532,7 @@ else if (RSR8x <= 433907661)
 {
 try
 {
-Nwy4gUV = bx2_(-717137700, x_ji4j, Ep43T9Z0O, -449822533, 1836293170);
+Nwy4gUV = bx2_((unsigned short)-717137700, x_ji4j, Ep43T9Z0O, -449822533, 1836293170);
 }
 catch (int& errorCode)
 {
@@ -582,7 +582,7 @@ Nwy4gUV = bx2_((unsigned short)-2064288326, dw6f, (unsigned short)-1548158175, -
 }
 else
 {
-Nwy4gUV = bx2_(V6l6r9bX4T, 1031948319, Q601_3h8, cfk0t, -549198939);
+Nwy4gUV = bx2_(V6l6r9bX4T, (unsigned char)1031948319, Q601_3h8, cfk0t, -549198939);
 }
 }
 }

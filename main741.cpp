@@ -200,7 +200,7 @@ if (dG0in < 1286324459)
 switch (ZL7Uav4)
 {
 case 'a':
-ObkM = S21t5741W(Ex12, JxnE5t74OI, (short)16733626, ObkM, 1143829218);
+ObkM = S21t5741W(Ex12, JxnE5t74OI, (short)16733626, ObkM, (char)1143829218);
 break;
 case 'b':
 I4lGmy = (int)ceil(tIM3C8s);
@@ -517,7 +517,7 @@ std::cout << WgoT3 << bfskwo9() << oI34W6 << S21t5741W(b1gYMR, -69325203, (short
 int i = 0;
 do
 {
-std::cout << bfskwo9() << S21t5741W(b1gYMR, -534872702, (short)248168671, V89ts0, -199487792) << S21t5741W(448669269, 1910634261, Xsu5f54u, -1230481247, FUh0_S50g0) << bfskwo9() << "ApjXK_c7" << std::endl;
+std::cout << bfskwo9() << S21t5741W(b1gYMR, -534872702, (short)248168671, V89ts0, (char)-199487792) << S21t5741W(448669269, 1910634261, Xsu5f54u, -1230481247, FUh0_S50g0) << bfskwo9() << "ApjXK_c7" << std::endl;
 i++;
 }
 while (i < 8);

@@ -30,7 +30,7 @@ int main() {
     short    yv23Y;
     yv23Y    =    (short)-489567406;
 	unsigned short	IxX6Z1lgOp;
-	IxX6Z1lgOp	=	1887848816;
+	IxX6Z1lgOp	=	(unsigned short)1887848816;
 	unsigned short	kvh_Q;
 	kvh_Q	=	77327435;
     char    YdBC;
@@ -263,7 +263,7 @@ case 4:
 GI8F7 = (int)ceil(VnNU4702K);
 break;
 case 5:
-K30n1aZ = B8xI(1184354684, (short)-1920010754, 1501310644, IxX6Z1lgOp);
+K30n1aZ = B8xI(1184354684, (short)-1920010754, (short)1501310644, IxX6Z1lgOp);
 break;
 case 6:
 VN3x46U36 = (uj_E0Xx_r >= G94J9g) ? UXvl : G94J9g;
@@ -278,7 +278,7 @@ case 9:
 GI8F7 = (int)ceil(I9HP1s4n);
 break;
 default:
-K30n1aZ = (m89luo2MB >= -1639419312) ? MDuh8(FL5mIzX7Y, (unsigned short)1903532941) : -1875592057;
+K30n1aZ = (m89luo2MB >= -1639419312) ? MDuh8(FL5mIzX7Y, (unsigned short)1903532941) : (unsigned short)-1875592057;
 break;
 }
 for (int i = 0; i < 1; ++i)
@@ -330,7 +330,7 @@ catch (int& errorCode)
 uj_E0Xx_r = ayQ2(uj_E0Xx_r, KNd79_U);
 }
 }
-KNd79_U = p3Kac(uj_E0Xx_r, 2147184131, 2115377498, q2vr) / VdTYiuV0M;
+KNd79_U = p3Kac(uj_E0Xx_r, (unsigned char)2147184131, 2115377498, q2vr) / VdTYiuV0M;
 
 std::cout << "l8A_z45ymm" << std::endl;
 q1nOGa = B8xI(752864771, (short)766824789, V_m6q, -1089520209);

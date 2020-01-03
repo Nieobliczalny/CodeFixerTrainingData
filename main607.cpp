@@ -387,7 +387,7 @@ KWLj6 = c0n3p(967672452, (short)-2042314808, (short)-223880118) - 912272834;
 break;
 case 'b':
 case 'B':
-hy_6i626 = Vkz_3sWD(-1565003752, B5_K, m20S_Q9q_, Ft41Q, vPr5oRlhb);
+hy_6i626 = Vkz_3sWD((short)-1565003752, B5_K, m20S_Q9q_, Ft41Q, vPr5oRlhb);
 break;
 case 'c':
 case 'C':
@@ -471,7 +471,7 @@ else
 int j = 0;
 do
 {
-std::cout << rjcOw7NNe << c0n3p(563907624, qMpk0, -1005346355) << "J26duBGLt" << OFn6aTS3 << std::endl;
+std::cout << rjcOw7NNe << c0n3p(563907624, qMpk0, (short)-1005346355) << "J26duBGLt" << OFn6aTS3 << std::endl;
 ++j;
 }
 while (j < 3);
@@ -546,7 +546,7 @@ case 4:
 h9TArZ4r = gfTpDNR();
 break;
 case 5:
-nd3eiObR = Vkz_3sWD((short)-1522203986, -1629244208, IuqQ, 860866544, -1892225028);
+nd3eiObR = Vkz_3sWD((short)-1522203986, -1629244208, IuqQ, (unsigned short)860866544, -1892225028);
 break;
 case 6:
 qMpk0 = c0n3p(h9TArZ4r, qMpk0, -1076774919);
@@ -750,7 +750,7 @@ else if ((d7ytZEzV2O >= -652004794) || (vPr5oRlhb < -583538116))
 int k = 0;
 while (k < 7)
 {
-qMpk0 = Vkz_3sWD((short)-2144811605, Ft41Q, -1789008136, (unsigned short)1752980563, -1227354446);
+qMpk0 = Vkz_3sWD((short)-2144811605, Ft41Q, -1789008136, (unsigned short)1752980563, (unsigned char)-1227354446);
 k++;
 }
 }
@@ -797,7 +797,7 @@ for (int j = 8; j >= 0; j--)
 {
 try
 {
-g6I5bKk = c0n3p(-1997013228, 1354841568, -645337593);
+g6I5bKk = c0n3p(-1997013228, (short)1354841568, -645337593);
 }
 catch (int& errorCode)
 {
@@ -836,7 +836,7 @@ j++;
 }
 else
 {
-std::cout << IuqQ << c0n3p(OFn6aTS3, C8LxzG, nd3eiObR) << c0n3p(OFn6aTS3, C8LxzG, nd3eiObR) << Vkz_3sWD((short)977191810, C8LxzG, nd3eiObR, (unsigned short)1131005845, 1287710862) << std::endl;
+std::cout << IuqQ << c0n3p(OFn6aTS3, C8LxzG, nd3eiObR) << c0n3p(OFn6aTS3, C8LxzG, nd3eiObR) << Vkz_3sWD((short)977191810, C8LxzG, nd3eiObR, (unsigned short)1131005845, (unsigned char)1287710862) << std::endl;
 }
 
 qMpk0 = c0n3p(-933073075, IuqQ, Lg7uF9);

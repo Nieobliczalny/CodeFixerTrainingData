@@ -65,7 +65,7 @@ case 'b':
 DJkj74F2 = x5rdxNE62_(DJkj74F2, MRd7pZjpF, 1716434388, (unsigned short)2047359035, 2098317899);
 break;
 case 'c':
-d_3l2 = x5rdxNE62_((unsigned char)1730816463, 283304450, R0J1, 813995721, 1689546102);
+d_3l2 = x5rdxNE62_((unsigned char)1730816463, 283304450, R0J1, (unsigned short)813995721, 1689546102);
 break;
 case 'd':
 zDnek6f2l4 = x5rdxNE62_(zDnek6f2l4, R0J1, QhdvlwJf, C7W8, q52f);
@@ -567,7 +567,7 @@ else if (Dk2wj4 >= 815641685)
 {
 try
 {
-mT6iIazV_p = x5rdxNE62_(mT6iIazV_p, -182252143, TdJV7xdUru, 1375582105, 115307688);
+mT6iIazV_p = x5rdxNE62_(mT6iIazV_p, -182252143, TdJV7xdUru, (unsigned short)1375582105, 115307688);
 }
 catch (int& errorCode)
 {
@@ -639,7 +639,7 @@ zDnek6f2l4 = x5rdxNE62_(zDnek6f2l4, u2DbFJY6, 456939194, (unsigned short)-555646
 break;
 case 'b':
 case 'B':
-d_3l2 = x5rdxNE62_((unsigned char)-440616425, -1400573742, P1P0e0PN, -1440565074, DJkj74F2);
+d_3l2 = x5rdxNE62_((unsigned char)-440616425, -1400573742, P1P0e0PN, (unsigned short)-1440565074, DJkj74F2);
 break;
 case 'c':
 case 'C':

@@ -24,7 +24,7 @@ case 0:
 ALh8u2DRh = VhRC9QF(q7Gs_Mf4, (short)-203995506, -903037426);
 break;
 case 1:
-ALh8u2DRh = VhRC9QF(B56cj, -1244482986, z5016);
+ALh8u2DRh = VhRC9QF(B56cj, (short)-1244482986, z5016);
 break;
 case 2:
 f41u2x = j4u0 * z2tV6T5;
@@ -50,7 +50,7 @@ int k = 0;
 do
 {
 ++k;
-Q40o9sZ = T6lPCaEEjV((short)1076111108, (char)-414585230, m60DP, 1336834791);
+Q40o9sZ = T6lPCaEEjV((short)1076111108, (char)-414585230, m60DP, (unsigned char)1336834791);
 }
 while (k < 1);
 }

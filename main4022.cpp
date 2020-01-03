@@ -25,7 +25,7 @@ char    iaQye(unsigned long    aRppezb7,unsigned long long    Ol6e6pt4d,int    c
 }
 
 unsigned char Ux680QJ(short int BG6qK4Tmo) {
- return -209442241;
+ return (unsigned char)-209442241;
 }
 
 short    v7G22Hq134(unsigned long long    rrtyf2uoO5,int    kkoebc,short int    GWR4jMM6m)    {

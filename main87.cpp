@@ -52,7 +52,7 @@ int main(int argc, char** argv)
     unsigned short int    YW8Q_;
     YW8Q_    =    (unsigned short)-1225675664;
   unsigned short  l2j7;
-  l2j7  =  -1873488240;
+  l2j7  =  (unsigned short)-1873488240;
     long    qkJGS;
     qkJGS    =    406758821;
  unsigned char Pw1mO;
@@ -64,7 +64,7 @@ int main(int argc, char** argv)
  unsigned char scW6GTYwT;
  scW6GTYwT = (unsigned char)164342747;
 	char	BJoyI;
-	BJoyI	=	-1090560278;
+	BJoyI	=	(char)-1090560278;
   char  vHqe;
   vHqe  =  (char)-1534007339;
  long x15zvH3;
@@ -124,7 +124,7 @@ int main(int argc, char** argv)
     double    wOy8O0F;
     wOy8O0F    =    1898181209;
  short int ea5m6NWNPu;
- ea5m6NWNPu = -509564412;
+ ea5m6NWNPu = (short)-509564412;
  long double vpnx;
  vpnx = -195614243;
     long    Yd7gEk95;
@@ -319,7 +319,7 @@ ZRdwQA = gY396((unsigned short)869362616, -506572065);
 }
 else if ((ONAG2Lf == o_6967A) && ((q6sGpfap > 2028692051) && (q2e_xhhYE != -490800710)))
 {
-cout << Zfg4m_2 << "Eg5j" << gY396(scW6GTYwT, 471227312) << gY396((unsigned short)-1137669601, -1450181474) << gY396(-1195353260, l2j7) << endl;
+cout << Zfg4m_2 << "Eg5j" << gY396(scW6GTYwT, 471227312) << gY396((unsigned short)-1137669601, -1450181474) << gY396((unsigned short)-1195353260, l2j7) << endl;
 }
 else if (((Fab74_V != o_6967A) || (pMzba4f7j != -531079131)) && (x15zvH3 & 1174841656))
 {
@@ -355,7 +355,7 @@ case 3:
 u2G0Lo2W5 = (int)abs(BL9B2z6);
 break;
 case 4:
-ZRdwQA = gY396(-1949375837, lA3Zx78);
+ZRdwQA = gY396((unsigned short)-1949375837, lA3Zx78);
 break;
 case 5:
 dbB2 = (int)abs(RcL00NIy1) * 0;

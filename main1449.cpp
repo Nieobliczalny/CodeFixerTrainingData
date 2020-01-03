@@ -136,7 +136,7 @@ case 4:
 Pmsy = EOVD5jpXqn(Pmsy, oG4VwL6);
 break;
 case 5:
-oWL7VQbI_ = EOVD5jpXqn((char)-1244491726, -2079448128);
+oWL7VQbI_ = EOVD5jpXqn((char)-1244491726, (unsigned short)-2079448128);
 break;
 case 6:
 MnE0SL4 = (int)abs(VxPQ);

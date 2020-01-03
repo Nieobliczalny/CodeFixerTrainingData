@@ -15,7 +15,7 @@ int main(int argc, char** argv) {
  unsigned long Dy767Iu;
  Dy767Iu = 512358299;
  unsigned short int Q8GP6fS;
- Q8GP6fS = -2119268186;
+ Q8GP6fS = (unsigned short)-2119268186;
     unsigned short    GmajX1;
     GmajX1    =    -1538843973;
   short  S9TT;
@@ -27,7 +27,7 @@ int main(int argc, char** argv) {
 	unsigned long long	WOogweNv;
 	WOogweNv	=	-338381991;
     unsigned char    hmxwy5t8kw;
-    hmxwy5t8kw    =    676823894;
+    hmxwy5t8kw    =    (unsigned char)676823894;
   long long  Kp_3k_;
   Kp_3k_  =  -140031348;
  short i2m_;
@@ -55,7 +55,7 @@ int main(int argc, char** argv) {
   unsigned short int  U7Bi;
   U7Bi  =  0;
   short int  GS_1F3X7;
-  GS_1F3X7  =  -1622991501;
+  GS_1F3X7  =  (short)-1622991501;
  unsigned char T9h6;
  T9h6 = (unsigned char)-1584222789;
  unsigned short lPs99SCtA;

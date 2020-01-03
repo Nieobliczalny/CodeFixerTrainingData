@@ -24,7 +24,7 @@ int main(void) {
 	long	E4poc	=	-1926209717;
  short int UNWa = (short)-825902215;
   unsigned char  unyl_zz  =  (unsigned char)110764780;
- unsigned short mtjO1Ahy9 = -1559612317;
+ unsigned short mtjO1Ahy9 = (unsigned short)-1559612317;
     double    WlN3KHihO    =    1498756672;
   unsigned char  LypC  =  1403460698;
  char OsbBe = 1778253682;
@@ -133,7 +133,7 @@ case 'b':
 LypC = Tg9otO6j(745904790, (short)-1486754365, LypC, -690155100, (unsigned short)-798557155);
 break;
 case 'c':
-mtjO1Ahy9 = Tg9otO6j(-1925073748, 906528592, -781791395, unyl_zz, mK3J90);
+mtjO1Ahy9 = Tg9otO6j(-1925073748, (short)906528592, -781791395, unyl_zz, mK3J90);
 break;
 case 'd':
 k_zX = Tg9otO6j(-1570815336, 1750644294, mtjO1Ahy9, -578553874, 761191346);
@@ -244,7 +244,7 @@ break;
 }
 if (C7dzzxp > oOS84r0)
 {
-C7dzzxp = ln_Jf3(-760910577, 1260923427, 1123580376, E4poc, LypC);
+C7dzzxp = ln_Jf3((char)-760910577, 1260923427, 1123580376, E4poc, LypC);
 }
 else
 {

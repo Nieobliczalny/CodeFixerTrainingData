@@ -86,7 +86,7 @@ int main(int argc, char** argv)
     unsigned char    HU2K7g4y;
     HU2K7g4y    =    (unsigned char)930227863;
   short  dnQ0N0_bI5;
-  dnQ0N0_bI5  =  -551491513;
+  dnQ0N0_bI5  =  (short)-551491513;
   unsigned short  h810;
   h810  =  (unsigned short)-332547759;
 	unsigned short	iF76_4r7;
@@ -148,7 +148,7 @@ int main(int argc, char** argv)
 	short int	WOTcKI;
 	WOTcKI	=	(short)-962808704;
  short PZjlfOu92x;
- PZjlfOu92x = -1055481744;
+ PZjlfOu92x = (short)-1055481744;
 	int	nmqmHxq69m;
 	nmqmHxq69m	=	593083541;
 	unsigned char	i0_r2R14_;
@@ -178,7 +178,7 @@ int main(int argc, char** argv)
  short BHtuV;
  BHtuV = (short)-1497627024;
  unsigned short int l_72OAP94;
- l_72OAP94 = -1702196561;
+ l_72OAP94 = (unsigned short)-1702196561;
 	int	O8Ni3_Bn;
 	O8Ni3_Bn	=	251614278;
 	short	G3FD4sEJ;

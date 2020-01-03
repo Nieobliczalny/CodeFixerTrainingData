@@ -29,7 +29,7 @@ int main(int argc, char** argv)
     double    VS2f7mCv7    =    -1240322080;
   char  ZVsNgN6EP  =  (char)2020161576;
  char mG831 = (char)-692617953;
-    unsigned char    g8730w    =    -784908426;
+    unsigned char    g8730w    =    (unsigned char)-784908426;
     unsigned long    kuFt    =    0;
   short  fdp39  =  2099374936;
     long long    q1gB4o    =    -164067576;
@@ -45,7 +45,7 @@ int main(int argc, char** argv)
   short int  l7Xw  =  (short)67434949;
   float  w87vme  =  -539204916;
 	long double	jvb4_	=	337052192;
-	unsigned short int	qBp_Yx	=	182162002;
+	unsigned short int	qBp_Yx	=	(unsigned short)182162002;
     unsigned int    dZml1P46    =    -2051918524;
     long double    IR5lP    =    -1806597112;
  unsigned long long T5k9tc5 = 2082087626;
@@ -56,7 +56,7 @@ int main(int argc, char** argv)
  short int BA4_23 = -1030520874;
  unsigned int ZgLEICv76 = -626391760;
  unsigned long tFbYHS = 425518100;
-    short    uleyXxXQm    =    -341951789;
+    short    uleyXxXQm    =    (short)-341951789;
 	unsigned char	p5c4	=	-40848672;
   short int  EL08Ics  =  -632607455;
   long  ZlL9ws0P  =  1585242737;
@@ -67,7 +67,7 @@ int main(int argc, char** argv)
 	short	Kuq4Gk_Y1	=	(short)462855885;
   int  QbTPAS0FpE  =  -1519533769;
     double    vW_MCnE_z    =    897657219;
-	unsigned short	br8e335	=	-928876597;
+	unsigned short	br8e335	=	(unsigned short)-928876597;
   double  jr430Ca  =  1502902875;
     long long    iZ6iLVXVG    =    0;
   long  xS_q  =  1350411413;
@@ -79,7 +79,7 @@ int main(int argc, char** argv)
   short int  eQ982Vw  =  0;
  unsigned int XD9Qb5eftz = -1764436198;
   unsigned long long  NMLSz1C  =  1317048983;
-    unsigned char    MY___UTs1    =    -461569287;
+    unsigned char    MY___UTs1    =    (unsigned char)-461569287;
  unsigned int geVJk5fD = -1502131314;
   long long  xZ1A5sX2  =  2012435081;
     long long    jny4KeYKAU    =    1372299890;
@@ -204,7 +204,7 @@ L3vB = rE7LR((unsigned char)-1370132609, (unsigned short)-618743310);
 break;
 case 'f':
 case 'F':
-VS2f7mCv7 = (w71DrsM <= -589278047) ? TS41G(-78429029, 510008176, L3vB) : t69ron_eU;
+VS2f7mCv7 = (w71DrsM <= -589278047) ? TS41G((unsigned short)-78429029, 510008176, L3vB) : t69ron_eU;
 break;
 case 'g':
 case 'G':
@@ -369,7 +369,7 @@ case 0:
 ez9PXQYX_F = rE7LR(ez9PXQYX_F, (unsigned short)-984118112);
 break;
 default:
-Q9lw6rVFo2 = TS41G(Q9lw6rVFo2, (unsigned short)-427789284, 550272063);
+Q9lw6rVFo2 = TS41G(Q9lw6rVFo2, (unsigned short)-427789284, (char)550272063);
 break;
 }
 }

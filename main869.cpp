@@ -104,7 +104,7 @@ int main(void) {
     char    Rupz9u_L;
     Rupz9u_L    =    (char)-1539438595;
     unsigned char    oL2y;
-    oL2y    =    -1649283292;
+    oL2y    =    (unsigned char)-1649283292;
  short gic5RCe;
  gic5RCe = 0;
     unsigned char    yy9D1V7;
@@ -126,7 +126,7 @@ int main(void) {
     unsigned char    U9VF;
     U9VF    =    (unsigned char)-1582793856;
 	unsigned short int	zHgyRJ;
-	zHgyRJ	=	-1069818613;
+	zHgyRJ	=	(unsigned short)-1069818613;
   float  Pty24hC3;
   Pty24hC3  =  -1143706486;
     char    VZmRwQLD;

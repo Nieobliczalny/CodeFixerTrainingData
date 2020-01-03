@@ -23,7 +23,7 @@ int main()
   unsigned short  YyVtDN0cn_,  X37HDvT,  WlbK,  yl3f_w9,  sAER47a,  n2gL4_,  kTM82,  wy4aU6zM52,  UFC6vPC3O,  J_18v5,  fC_T,  kJ34Fo,  l09U,  wSV3_q80D6,  QFbs,  Se4iS,  OyKHCcY,  z81797Sw19,  c5F7,  yX1I,  X__g,  MODZ0,  Xj01AaH,  jeFWgZ,  g1KRIsKwa,  jhwi,  YR90j_,  J4gGz5v,  KveBIlY9,  NruM,  dVNv_5dY,  F5SZ,  AuSe4d,  c5j93_6,  CphDp9z,  W2SXoVID,  BTec4,  i_wNEn7,  iG6nHh28b,  toy_hYa,  guah1k,  EYfIpxW4,  JJ8QwT4eM,  Y28Cpv,  uH2hw,  E8w9OGXq,  mm_e1gS5,  KGNrF6D,  B38l1fg2,  ir43KZV2k5,  LK4DC_wq,  qBMZ,  Hyq4BU,  K_7rb,  mA21C;
   YyVtDN0cn_  =  (unsigned short)1118403866;
   X37HDvT  =  (unsigned short)-1673421998;
-  WlbK  =  -520336444;
+  WlbK  =  (unsigned short)-520336444;
   yl3f_w9  =  745969666;
   sAER47a  =  -223526292;
   n2gL4_  =  1580468552;
@@ -33,7 +33,7 @@ int main()
   J_18v5  =  1333619484;
   fC_T  =  (unsigned short)45039319;
   kJ34Fo  =  (unsigned short)-1208973623;
-  l09U  =  251850558;
+  l09U  =  (unsigned short)251850558;
   wSV3_q80D6  =  -107001385;
   QFbs  =  -2093335463;
   Se4iS  =  -2071861754;
@@ -43,7 +43,7 @@ int main()
   yX1I  =  -1587487202;
   X__g  =  (unsigned short)1270129098;
   MODZ0  =  (unsigned short)-789591942;
-  Xj01AaH  =  -39458002;
+  Xj01AaH  =  (unsigned short)-39458002;
   jeFWgZ  =  -1162791549;
   g1KRIsKwa  =  -1876315068;
   jhwi  =  778975220;
@@ -53,7 +53,7 @@ int main()
   NruM  =  -1065060431;
   dVNv_5dY  =  (unsigned short)-386765970;
   F5SZ  =  (unsigned short)934998407;
-  AuSe4d  =  1895520816;
+  AuSe4d  =  (unsigned short)1895520816;
   c5j93_6  =  -1953013911;
   CphDp9z  =  592246179;
   W2SXoVID  =  -121639419;
@@ -63,7 +63,7 @@ int main()
   toy_hYa  =  1304927122;
   guah1k  =  (unsigned short)-1832329418;
   EYfIpxW4  =  (unsigned short)-695138547;
-  JJ8QwT4eM  =  1848821648;
+  JJ8QwT4eM  =  (unsigned short)1848821648;
   Y28Cpv  =  661931296;
   uH2hw  =  1244192342;
   E8w9OGXq  =  967214233;
@@ -73,7 +73,7 @@ int main()
   ir43KZV2k5  =  295919474;
   LK4DC_wq  =  (unsigned short)259204332;
   qBMZ  =  (unsigned short)-1244951845;
-  Hyq4BU  =  -1104034587;
+  Hyq4BU  =  (unsigned short)-1104034587;
   K_7rb  =  1986229056;
   mA21C  =  1719232002;
 

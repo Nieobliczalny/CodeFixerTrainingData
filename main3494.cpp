@@ -16,7 +16,7 @@ int main(void) {
     short int    b3w6232,    PMHtpLnQ,    KmMtMKA3J,    hT__Vy,    JJV9x5,    jK8l,    z4R_;
     b3w6232    =    (short)1187663645;
     PMHtpLnQ    =    (short)1947761362;
-    KmMtMKA3J    =    1502839636;
+    KmMtMKA3J    =    (short)1502839636;
     hT__Vy    =    -1434472045;
     JJV9x5    =    1730919316;
     jK8l    =    1551214132;

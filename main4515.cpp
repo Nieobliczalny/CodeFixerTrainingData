@@ -209,7 +209,7 @@ case 'b':
 OX6CY6N38 = y947wqk - sERWo1z_OH;
 break;
 case 'c':
-E1TkJ2OG = d5233Cu(E1TkJ2OG, (char)-2031727211, 1661010032);
+E1TkJ2OG = d5233Cu(E1TkJ2OG, (char)-2031727211, (unsigned short)1661010032);
 break;
 case 'd':
 C8_Jal4R7B <<= 166813485;

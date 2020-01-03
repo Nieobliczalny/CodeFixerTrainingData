@@ -20,7 +20,7 @@ int main() {
     unsigned long    cst6    =    1759283918;
     unsigned long    uZk3p30    =    452218838;
   int  lZqQl_1  =  43728416;
-    unsigned short int    TKmNQ    =    -18272132;
+    unsigned short int    TKmNQ    =    (unsigned short)-18272132;
 	float	rx6AQbuF1	=	232081520;
 	long long	HOp3r	=	-1073860511;
  char z9UvkN9u = -394215731;
@@ -36,7 +36,7 @@ int main() {
   int  eqnYw5A  =  309902107;
 	unsigned int	i0ibi4tY8	=	-1080002231;
  float uJxUQ = 1114103413;
-	unsigned short	ftzN0Kk86	=	866658962;
+	unsigned short	ftzN0Kk86	=	(unsigned short)866658962;
     short int    N44Q7i    =    -1976987744;
 	float	O6y4Sh	=	1033613425;
     char    Y49N8693fV    =    (char)2027990703;
@@ -47,7 +47,7 @@ int main() {
     unsigned long long    LPpQrq9Q    =    671578914;
 	unsigned short int	uSB_QpiJED	=	1231073249;
   long  VmrL2X  =  563138630;
-    short    fhgG_nKUha    =    -1291580980;
+    short    fhgG_nKUha    =    (short)-1291580980;
   unsigned char  WdmyoNWT8  =  -309637177;
   double  Hh8194D  =  1394103707;
 	short	mBn9pV4s	=	(short)141747121;
@@ -59,7 +59,7 @@ int main() {
  unsigned long NVFhE4__K_ = -286899222;
 	unsigned long	Da1R4I94	=	-499132063;
     unsigned long    P4_M_030    =    -882690508;
-  char  D79hZLH  =  695302627;
+  char  D79hZLH  =  (char)695302627;
  float h9wvFogD = -1845026459;
     short    SwBw8N6r23    =    (short)-503661215;
 	long double	TZ_02ukfEp	=	-1488567769;
@@ -76,7 +76,7 @@ int main() {
   int  M0X6  =  722000204;
   double  If54YH  =  544819053;
 	unsigned long	g7a98AzZ	=	363644220;
-  char  bVP5k62_j  =  411270559;
+  char  bVP5k62_j  =  (char)411270559;
   int  Rnd0  =  -1905084853;
  long double jND_u05f4n = -349624146;
   unsigned char  JK1FgFm  =  (unsigned char)132203669;
@@ -88,7 +88,7 @@ int main() {
 	short int	hd7_3x0	=	(short)-1865416310;
 	long long	wSZMg	=	684519880;
  int HV1omQJ3_d = -1275678935;
-  short int  p6grHhvOG  =  -1565547427;
+  short int  p6grHhvOG  =  (short)-1565547427;
 	int	Pd6Mh_03	=	-2140765663;
  unsigned short qL7KhB7 = (unsigned short)279830753;
 	unsigned int	sk_7I7Jt9t	=	-204880532;

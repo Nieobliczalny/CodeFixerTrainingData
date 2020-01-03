@@ -29,7 +29,7 @@ int main() {
     char    mf877oq26;
     mf877oq26    =    (char)1221066579;
 	char	XSPR;
-	XSPR	=	599213972;
+	XSPR	=	(char)599213972;
   unsigned int  BaIvduT9;
   BaIvduT9  =  1739769691;
 	unsigned long long	Aqd1DP;
@@ -45,7 +45,7 @@ int main() {
     char    YV9j;
     YV9j    =    (char)-25452033;
     short int    a7EH;
-    a7EH    =    -1182494418;
+    a7EH    =    (short)-1182494418;
     int    pJK7;
     pJK7    =    1357813000;
  unsigned char vci2R4d;
@@ -93,7 +93,7 @@ int main() {
  short int VzKA;
  VzKA = 0;
 	unsigned short int	m_5O;
-	m_5O	=	-1777500974;
+	m_5O	=	(unsigned short)-1777500974;
 	unsigned int	WH2y83;
 	WH2y83	=	-1982502529;
   long double  ziGh;
@@ -131,7 +131,7 @@ int main() {
  int vAM87593U;
  vAM87593U = -1500297228;
  unsigned short aaHo243;
- aaHo243 = 1630829067;
+ aaHo243 = (unsigned short)1630829067;
 	long long	nL0_dmh45;
 	nL0_dmh45	=	135377017;
  long double s2049;
@@ -149,7 +149,7 @@ int main() {
     double    D29U4k_EK;
     D29U4k_EK    =    1769241856;
 	unsigned short	d4YaNtWL;
-	d4YaNtWL	=	1408124665;
+	d4YaNtWL	=	(unsigned short)1408124665;
     long double    LC2z4;
     LC2z4    =    -1349189010;
 	unsigned int	OblgKss8;
@@ -167,7 +167,7 @@ int main() {
 	unsigned long long	OD3a_AV_k;
 	OD3a_AV_k	=	1068773531;
   unsigned short  AlKy8;
-  AlKy8  =  -1186347239;
+  AlKy8  =  (unsigned short)-1186347239;
   unsigned long  O2FZm53G6;
   O2FZm53G6  =  1170043432;
     unsigned short int    ZxM6H7nmDU;
@@ -405,7 +405,7 @@ break;
 }
 else if (VzKA == -2129183053)
 {
-std::cout << "j18q" << Uzb77_Je((short)-1154030996, (char)-610790039, 1283514859) << uVn9Sh_(777950160, 1483927717) << std::endl;
+std::cout << "j18q" << Uzb77_Je((short)-1154030996, (char)-610790039, 1283514859) << uVn9Sh_((unsigned short)777950160, 1483927717) << std::endl;
 }
 else if (J0271s8I <= -636793424)
 {

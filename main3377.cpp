@@ -158,7 +158,7 @@ PjMn3gf_ = K9Qf41P((unsigned short)522250768, T_EtP057j);
 }
 else if (V1TqPJeyo6 < -2047532422)
 {
-sZdn179 = yv77(sZdn179, (short)-453858461, F93j88, 1775695918, U2SM);
+sZdn179 = yv77(sZdn179, (short)-453858461, F93j88, (short)1775695918, U2SM);
 }
 else if (sZdn179 != DD3p_)
 {
@@ -219,7 +219,7 @@ case 4:
 fW_HUP = Ic3S1lO + Q7sv03;
 break;
 case 5:
-fW_HUP = yv77(fW_HUP, (short)-180202247, 1317679462, -423844831, I5LzyAn37n);
+fW_HUP = yv77(fW_HUP, (short)-180202247, 1317679462, (short)-423844831, I5LzyAn37n);
 break;
 case 6:
 T_EtP057j = T_EtP057j - E3ZHO9_7;
@@ -255,7 +255,7 @@ case 2:
 T_EtP057j = NK_v45WEMx * 108353006;
 break;
 case 3:
-fW_HUP = yv77(fW_HUP, T_EtP057j, 1225298905, -258318561, I5LzyAn37n);
+fW_HUP = yv77(fW_HUP, T_EtP057j, 1225298905, (short)-258318561, I5LzyAn37n);
 break;
 default:
 PjMn3gf_ = K9Qf41P(NK_v45WEMx, 2047083493);
@@ -533,7 +533,7 @@ PjMn3gf_ = K9Qf41P(Mpp76, U2SM);
 std::cout << F93j88 << yv77(Mpp76, (short)336927021, 391903969, sZdn179, -1259116370) << qDC3(-974936406, -1397713339, YxTSx7h5) << yv77(Mpp76, U2SM, -1448219857, (short)-2113430636, -1479489265) << K9Qf41P(Mpp76, 11308923) << std::endl;
 
 sZdn179 = Gnz_wOrS();
-Mpp76 = yv77(271629897, E3ZHO9_7, -359650951, 338849701, 467312478);
+Mpp76 = yv77(271629897, E3ZHO9_7, -359650951, (short)338849701, 467312478);
 switch (dxJop)
 {
 case 'a':

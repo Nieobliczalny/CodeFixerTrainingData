@@ -118,7 +118,7 @@ case 0:
 h2B27f4D = Ck2Kb31(Cxhg, 711636785, 602086476, hVR8ib, CH_M0_59g3);
 break;
 case 1:
-rCcJ40a0 = oM98((char)366895679, (unsigned short)-1534718225, -1695791127, F3mZlT);
+rCcJ40a0 = oM98((char)366895679, (unsigned short)-1534718225, (unsigned short)-1695791127, F3mZlT);
 break;
 case 2:
 rCcJ40a0 = (H77Oe7C66 & 819653283) ? v456 : h2B27f4D;
@@ -191,7 +191,7 @@ h2B27f4D = oM98(hVR8ib, h2B27f4D, F3mZlT, (short)-1763532122);
 }
 else
 {
-cout << rK_UNdZi(1730706712, h2B27f4D, F3mZlT, (short)-711893298) << oM98(hVR8ib, h2B27f4D, 582514329, rCcJ40a0) << CH_M0_59g3 << endl;
+cout << rK_UNdZi(1730706712, h2B27f4D, F3mZlT, (short)-711893298) << oM98(hVR8ib, h2B27f4D, (unsigned short)582514329, rCcJ40a0) << CH_M0_59g3 << endl;
 }
 }
 switch (dd_22Lix_P)
@@ -251,7 +251,7 @@ case 2:
 rCcJ40a0 = OhCz % h2B27f4D;
 break;
 case 3:
-F3mZlT = oM98((char)-1974331158, rCcJ40a0, (unsigned short)-674246448, -1222259895);
+F3mZlT = oM98((char)-1974331158, rCcJ40a0, (unsigned short)-674246448, (short)-1222259895);
 break;
 case 4:
 rCcJ40a0 = oM98(Cxhg, rCcJ40a0, zTG83, -1735427994);

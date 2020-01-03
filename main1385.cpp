@@ -48,7 +48,7 @@ int main(int argc, char** argv) {
     short    ZVolz;
     ZVolz    =    (short)-1856783149;
     short    rj7D93n;
-    rj7D93n    =    -746802193;
+    rj7D93n    =    (short)-746802193;
 	short int	QDNUQaa4;
 	QDNUQaa4	=	-394268122;
 	float	xdnJ0HVIN;
@@ -60,7 +60,7 @@ int main(int argc, char** argv) {
 	int	G9_ehRf;
 	G9_ehRf	=	-769993947;
     unsigned short    J60moPIuPZ;
-    J60moPIuPZ    =    -354919413;
+    J60moPIuPZ    =    (unsigned short)-354919413;
 	char	RyPqU3t8X;
 	RyPqU3t8X	=	2014289771;
     float    x64d_9S;
@@ -76,7 +76,7 @@ int main(int argc, char** argv) {
     short    kNk679_bme;
     kNk679_bme    =    (short)-90704423;
     unsigned short int    efdK;
-    efdK    =    -881881063;
+    efdK    =    (unsigned short)-881881063;
 	unsigned long long	G7HJKccE;
 	G7HJKccE	=	850993383;
 	short	Gn9JY;
@@ -92,7 +92,7 @@ int main(int argc, char** argv) {
   unsigned int  NN_239WQ7;
   NN_239WQ7  =  438688135;
     unsigned char    g0Tyvm;
-    g0Tyvm    =    238143477;
+    g0Tyvm    =    (unsigned char)238143477;
   unsigned short  Au22;
   Au22  =  (unsigned short)-975144187;
  long long sLBWw_7M;
@@ -110,7 +110,7 @@ int main(int argc, char** argv) {
   unsigned short int  dw496012;
   dw496012  =  0;
  short ZSiJ;
- ZSiJ = 1721580618;
+ ZSiJ = (short)1721580618;
   unsigned int  x_m15;
   x_m15  =  -461653852;
  double EMu216;
@@ -122,7 +122,7 @@ int main(int argc, char** argv) {
  unsigned short int rx1_bBw;
  rx1_bBw = (unsigned short)1939241607;
  unsigned short int SMUIu1hbL;
- SMUIu1hbL = -1841180626;
+ SMUIu1hbL = (unsigned short)-1841180626;
 	int	v7oa;
 	v7oa	=	1705611312;
  unsigned long long mKN7v8;
@@ -144,7 +144,7 @@ int main(int argc, char** argv) {
  unsigned short int wv1fH9O;
  wv1fH9O = (unsigned short)1290774636;
   char  sLzHKR;
-  sLzHKR  =  -1770374365;
+  sLzHKR  =  (char)-1770374365;
  unsigned short Au2_qa;
  Au2_qa = -2072526188;
  unsigned short QGoNa;
@@ -348,6 +348,6 @@ unsigned short int    KGLy4(short    T9vp9jEGy1,unsigned long long    Z7_z9,shor
 }
 
 short int    x0lbGvZGjx(unsigned long    Ufi0,unsigned short    i8QSL,short    x67aK6NIRw,unsigned short int    J_ERKyf,long    I32Sw3I)    {
-    return    -2126694999;
+    return    (short)-2126694999;
 }
 

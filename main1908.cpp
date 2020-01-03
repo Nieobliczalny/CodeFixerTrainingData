@@ -347,7 +347,7 @@ case 4:
 YfD8oQh = Yq0_((unsigned short)-1697347635, VJX311lcG, (unsigned short)-1374751143);
 break;
 case 5:
-pS70 = Yq0_(1537061349, h_5X09y, bTIm);
+pS70 = Yq0_((unsigned short)1537061349, h_5X09y, bTIm);
 break;
 case 6:
 z8yLj5 /= 834719342;

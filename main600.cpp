@@ -423,7 +423,7 @@ case 'h':
 HeN8D = lPAYH3f0(vA2r0W12, U7I1, p3300uPs8d, Fa0hz3, eUk1978) << 741323218;
 break;
 case 'i':
-I8ZyCA0D9_ = W6x7siJ50M(I8ZyCA0D9_, 1618256085, He9SXi4k2);
+I8ZyCA0D9_ = W6x7siJ50M(I8ZyCA0D9_, (unsigned char)1618256085, He9SXi4k2);
 break;
 case 'j':
 ZJh66 = bppjZp4J_9(1137867086);

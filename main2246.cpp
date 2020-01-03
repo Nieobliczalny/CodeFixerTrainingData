@@ -41,7 +41,7 @@ int main(void)
     unsigned long    mqFXu_Gk;
     mqFXu_Gk    =    -604709189;
   unsigned short int  h9109O9b;
-  h9109O9b  =  -1453476418;
+  h9109O9b  =  (unsigned short)-1453476418;
     unsigned long long    Jh86Xm;
     Jh86Xm    =    -1662847970;
  double UlWG4;
@@ -67,7 +67,7 @@ int main(void)
   float  wFbiH_1P64;
   wFbiH_1P64  =  -180617090;
 	unsigned char	E3lN;
-	E3lN	=	1899118852;
+	E3lN	=	(unsigned char)1899118852;
 	unsigned char	d_g_;
 	d_g_	=	(unsigned char)-773417896;
 	unsigned short int	Z0ZgQ;
@@ -77,7 +77,7 @@ int main(void)
 	float	D5mEk;
 	D5mEk	=	-1012616616;
  unsigned char Hy4M8;
- Hy4M8 = -1695027182;
+ Hy4M8 = (unsigned char)-1695027182;
  double o4pdH5sCw;
  o4pdH5sCw = -1116960344;
  double wu3_0;
@@ -87,7 +87,7 @@ int main(void)
     short int    rZcgRHDpgB;
     rZcgRHDpgB    =    (short)931006309;
 	unsigned short int	JUP3snz;
-	JUP3snz	=	-413741977;
+	JUP3snz	=	(unsigned short)-413741977;
 	float	C9hQ;
 	C9hQ	=	1077335247;
  char DiJJZiQFr;
@@ -103,7 +103,7 @@ int main(void)
  short H9I6ml1G;
  H9I6ml1G = (short)-1637201314;
   unsigned short  QvMD;
-  QvMD  =  -206329262;
+  QvMD  =  (unsigned short)-206329262;
  char U64Yuodm3O;
  U64Yuodm3O = -186868986;
  float UmQsnB;
@@ -117,7 +117,7 @@ int main(void)
   short  LbTLivJ6;
   LbTLivJ6  =  (short)-102689662;
     short int    yVjip;
-    yVjip    =    1133569142;
+    yVjip    =    (short)1133569142;
     long double    NBDN5qs;
     NBDN5qs    =    24934686;
  unsigned long dGqB64_C;
@@ -396,7 +396,7 @@ case 'a':
 o4pdH5sCw = Yf0KW9y(o4pdH5sCw, zSPDu_1J, 1561600162, 1314153948, wu3_0);
 break;
 case 'b':
-h9109O9b = Yf0KW9y(-709991482, JUP3snz, Z0ZgQ, -1489191991, -346695630);
+h9109O9b = Yf0KW9y((unsigned short)-709991482, JUP3snz, Z0ZgQ, -1489191991, -346695630);
 break;
 default:
 fAUz379_t = nali542 / 1024621949;
@@ -411,7 +411,7 @@ U64Yuodm3O += BgXqsc;
 }
 else
 {
-cout << Yf0KW9y(h9109O9b, JUP3snz, -1792838315, 337859847, (short)-175950810) << v4ft((unsigned short)1471876339) << jE7TGb(357886043, JUP3snz, 44425952, 1152929992) << "oP_e" << "g74IPXGHv" << endl;
+cout << Yf0KW9y(h9109O9b, JUP3snz, -1792838315, 337859847, (short)-175950810) << v4ft((unsigned short)1471876339) << jE7TGb((short)357886043, JUP3snz, 44425952, 1152929992) << "oP_e" << "g74IPXGHv" << endl;
 }
 }
 

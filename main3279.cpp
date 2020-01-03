@@ -31,7 +31,7 @@ int main()
  unsigned char m5L555U2;
  m5L555U2 = (unsigned char)-1862660557;
   unsigned short  AQz6o3;
-  AQz6o3  =  -589553264;
+  AQz6o3  =  (unsigned short)-589553264;
   unsigned int  LToFo3lx;
   LToFo3lx  =  1340491077;
   short  P9fmKZ48;

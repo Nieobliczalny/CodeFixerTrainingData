@@ -414,7 +414,7 @@ if (BRkL3v >= WRb410)
 {
 if (WRb410 & jMaQ7_CGT)
 {
-PK26m8 = K65c8L1u0((char)-648959530, jMaQ7_CGT, 1404045453, -1734803701);
+PK26m8 = K65c8L1u0((char)-648959530, jMaQ7_CGT, (unsigned char)1404045453, -1734803701);
 }
 else
 {

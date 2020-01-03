@@ -15,7 +15,7 @@ int main()
   short  dL3Wx  =  (short)1857361411;
  short int Hhxx6hgG2U = (short)-2052935995;
  long long r34MQ3 = 0;
-  unsigned char  K4v9r_H3T_  =  -1167383350;
+  unsigned char  K4v9r_H3T_  =  (unsigned char)-1167383350;
     unsigned int    zhRxF    =    542184388;
 	unsigned int	del1	=	-489411798;
     long    Xw_p9q2    =    -404568432;

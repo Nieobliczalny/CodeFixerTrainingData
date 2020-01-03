@@ -21,7 +21,7 @@ int main() {
 	unsigned char	E_dn1U,	sn1IDo_v,	jP4ef5a,	qn4Ojf,	urw3izDaw,	PUC26H1,	F75U,	L3rmNkU67,	PUKW3R,	MIt1,	Yy3_,	PNkfJgStiI;
 	E_dn1U	=	(unsigned char)1177178209;
 	sn1IDo_v	=	(unsigned char)-1515937219;
-	jP4ef5a	=	57709741;
+	jP4ef5a	=	(unsigned char)57709741;
 	qn4Ojf	=	745815514;
 	urw3izDaw	=	-2134602458;
 	PUC26H1	=	-336201428;

@@ -254,7 +254,7 @@ case 6:
 z_tFGh6O = p4mR13Gb9 * 1102925464;
 break;
 case 7:
-U3c50h_5 = m6mMU4GMG8(-2147198960, 1562319149, 1057494228, -5102623);
+U3c50h_5 = m6mMU4GMG8((unsigned short)-2147198960, 1562319149, 1057494228, -5102623);
 break;
 default:
 U3c50h_5 = (a_5_3z3wX & 341755512) ? m6mMU4GMG8(846436796, -1781057343, -760867190, 997745865) : qv9jj;
@@ -334,7 +334,7 @@ std::cout << ij00() << m6mMU4GMG8(p4mR13Gb9, (unsigned short)-59474786, U3c50h_5
 
 if (z_tFGh6O & a_5_3z3wX)
 {
-std::cout << m6mMU4GMG8((unsigned short)-1265832788, h0m4dE, 661108618, -531853161) << "OC19RcEa" << std::endl;
+std::cout << m6mMU4GMG8((unsigned short)-1265832788, h0m4dE, (unsigned short)661108618, -531853161) << "OC19RcEa" << std::endl;
 }
 else
 {
@@ -356,7 +356,7 @@ h0m4dE *= 1185513184;
 }
 else if ((Ag2l1G169 > p4mR13Gb9) || (k6FN8 >= z_tFGh6O))
 {
-std::cout << m6mMU4GMG8((unsigned short)1939298733, z_tFGh6O, (unsigned short)-69644646, U3c50h_5) << m6mMU4GMG8(-28105371, z_tFGh6O, Ag2l1G169, U3c50h_5) << "HXNKUqE7c" << "S89u" << std::endl;
+std::cout << m6mMU4GMG8((unsigned short)1939298733, z_tFGh6O, (unsigned short)-69644646, U3c50h_5) << m6mMU4GMG8((unsigned short)-28105371, z_tFGh6O, Ag2l1G169, U3c50h_5) << "HXNKUqE7c" << "S89u" << std::endl;
 }
 else
 {

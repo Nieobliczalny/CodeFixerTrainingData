@@ -35,7 +35,7 @@ int main()
     int    tNhcK    =    -1526951468;
     double    l5_7Kz    =    2124173826;
   unsigned short  Y7TABuI  =  (unsigned short)1974091348;
-    short    IOhpadUTwe    =    -1976730534;
+    short    IOhpadUTwe    =    (short)-1976730534;
   long double  h6rMOpg3X  =  2098684584;
   short int  sh1c  =  765318315;
   char  H35wx  =  1909780926;
@@ -46,7 +46,7 @@ int main()
  unsigned long long WW10W9gsT = -497438003;
 	char	ofgEOvN	=	(char)1331493213;
  long double VK5lD6wwCS = 1906362177;
-	short int	kpR_9N	=	-981646660;
+	short int	kpR_9N	=	(short)-981646660;
     unsigned long    Wk5a    =    0;
     long    wS3AM    =    646576313;
  unsigned char s68qKF = 2047484356;
@@ -59,7 +59,7 @@ int main()
     unsigned short    m4kuU3n0    =    (unsigned short)-174393594;
  long PUxKs28 = 337259768;
   unsigned int  zFK8Hvu  =  81212508;
-  char  GQ9qfL  =  -246098994;
+  char  GQ9qfL  =  (char)-246098994;
     long double    z3x3    =    620544100;
   short  u1Nq6_D2  =  (short)831830357;
     long double    tm01T9t1_u    =    805952421;
@@ -76,7 +76,7 @@ int main()
   int  IpGLQ06kP  =  1570552508;
  short PvvVO = (short)1582873218;
     unsigned int    ki9wSQLsao    =    -281461781;
- unsigned short int aJMK = -1027115920;
+ unsigned short int aJMK = (unsigned short)-1027115920;
     unsigned short int    GYoIR    =    (unsigned short)1798375301;
 	unsigned int	H8Tqd99JX	=	977763115;
   long long  DH2m12734  =  -509876069;
@@ -94,7 +94,7 @@ int main()
  unsigned int b78s = -8775381;
     float    Vqe87    =    -1473022755;
 
-RQsPQcEmsI = hnCm(RQsPQcEmsI, xb02jE, 212843744);
+RQsPQcEmsI = hnCm(RQsPQcEmsI, xb02jE, (unsigned char)212843744);
 
 if ((qP953Fo6 <= ph3H) || ((a49r == 1667718276) || (z3x3 < b78s)))
 {
@@ -121,7 +121,7 @@ case 4:
 PvvVO = Wk5a / b_RQT_A2E;
 break;
 case 5:
-u4jS3X4 = hnCm(-2028858138, aJMK, 1045151492);
+u4jS3X4 = hnCm((unsigned short)-2028858138, aJMK, 1045151492);
 break;
 case 6:
 Vqe87 = hnCm(Vqe87, N0111, (unsigned char)-1946410313);
@@ -467,7 +467,7 @@ b_RQT_A2E = hnCm(b_RQT_A2E, (unsigned char)-353346364, (unsigned char)-160268524
 break;
 case 'c':
 case 'C':
-ph3H = hnCm(-712813112, 1435734347, 1546744500);
+ph3H = hnCm((unsigned short)-712813112, 1435734347, 1546744500);
 break;
 }
 }

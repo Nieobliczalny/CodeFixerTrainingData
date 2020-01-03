@@ -214,7 +214,7 @@ K8vHho8u = Fv8f5LCL(1618581593, (unsigned short)-2010273442, (unsigned char)-446
 
 B_287rE09 = (long long)(Z3uS15);
 aQ063A17Q = mG7sJm_6kL(-1524363573, F_4qp3I, 1714880205, DNSmmZia);
-std::cout << "LRs1s111" << Fv8f5LCL(-1919927524, 1711487791, Do2HGi5S__, DNSmmZia, rk3G) << mG7sJm_6kL(-814515255, -176035764, 266481609, DNSmmZia) << std::endl;
+std::cout << "LRs1s111" << Fv8f5LCL(-1919927524, (unsigned short)1711487791, Do2HGi5S__, DNSmmZia, rk3G) << mG7sJm_6kL(-814515255, -176035764, 266481609, DNSmmZia) << std::endl;
 
 SNJayX = (long long)(jKKTA);
 
@@ -284,7 +284,7 @@ std::cout << Fv8f5LCL(-1607624361, (unsigned short)1654989114, (unsigned char)-1
 switch (w90ee8)
 {
 case 0:
-HyfKKl = Fv8f5LCL(2023715105, 1021868823, mkmm, kg6O8E_, Qa7PC_Cx);
+HyfKKl = Fv8f5LCL(2023715105, (unsigned short)1021868823, mkmm, kg6O8E_, Qa7PC_Cx);
 break;
 case 1:
 Qa7PC_Cx = (int)abs(Vh0ML12ktj);

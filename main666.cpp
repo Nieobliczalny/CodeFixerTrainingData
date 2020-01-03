@@ -42,7 +42,7 @@ int main(int argc, char** argv)
     short int    R0S0c8Qj0t;
     R0S0c8Qj0t    =    (short)1765880884;
   short  Lfl28;
-  Lfl28  =  -1916980879;
+  Lfl28  =  (short)-1916980879;
     long    A87_;
     A87_    =    -1250893825;
   unsigned long long  U5bn05H;

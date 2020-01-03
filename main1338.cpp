@@ -441,7 +441,7 @@ case 'd':
 q1e___n8 = Psy_G6gP + q1e___n8;
 break;
 case 'e':
-Psy_G6gP = R50g_sIs0v(-1284550254, -724466862);
+Psy_G6gP = R50g_sIs0v(-1284550254, (unsigned char)-724466862);
 break;
 }
 }

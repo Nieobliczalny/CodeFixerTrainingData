@@ -81,7 +81,7 @@ zcH9 = (unsigned long long)(wH0TcuVeP);
 switch (D6NXE)
 {
 case 'a':
-KpT25 = n35Ax(1872835731, 2073601900, -1108414501, -967791037);
+KpT25 = n35Ax((short)1872835731, 2073601900, -1108414501, -967791037);
 break;
 case 'b':
 m_O3a = Bj3725EE30(-694623222, i875_6LR6, FYWgu7m, UA04DdC9tr);
@@ -128,7 +128,7 @@ Ma8t9nO = n35Ax(Ma8t9nO, hagozV, g73O7, FYWgu7m);
 break;
 case 'c':
 case 'C':
-s4vLEO = Bj3725EE30(s4vLEO, 978674917, zGo38o, E0w5);
+s4vLEO = Bj3725EE30(s4vLEO, (short)978674917, zGo38o, E0w5);
 break;
 case 'd':
 case 'D':
@@ -140,7 +140,7 @@ Hb8D = D120Xb((unsigned short)1612675731, i875_6LR6);
 break;
 case 'f':
 case 'F':
-t9zs = Bj3725EE30(t9zs, 1488171017, c_64, E0w5);
+t9zs = Bj3725EE30(t9zs, (short)1488171017, c_64, E0w5);
 break;
 case 'g':
 case 'G':
@@ -413,7 +413,7 @@ K5Pt33n = n35Ax((short)1640280542, RG89_cJNb, -4604356, -154668699);
 }
 else if (Hb8D & 948181006)
 {
-Tl94yC5XO = Bj3725EE30(-1080574542, (short)-967623561, u6Z98, 1117824031);
+Tl94yC5XO = Bj3725EE30(-1080574542, (short)-967623561, u6Z98, (unsigned short)1117824031);
 }
 else
 {
@@ -439,7 +439,7 @@ Lv67t = Bj3725EE30(1970391207, (short)-1398660025, Pv18Sm, (unsigned short)15358
 }
 else if (p_P714C9 >= -178617313)
 {
-GiFi59PU6 = n35Ax(801858222, 1494774757, Hb8D, KpT25);
+GiFi59PU6 = n35Ax((short)801858222, 1494774757, Hb8D, KpT25);
 }
 else if (jJhrpGp3 <= -1046417459)
 {
@@ -472,7 +472,7 @@ case 2:
 zcH9 = n35Ax(zcH9, gn88, Hb8D, V621);
 break;
 }
-std::cout << Bj3725EE30(-2118402600, (short)-808857006, Hb8D, (unsigned short)-101172658) << UhOlcOqgbu << D120Xb(1689339027, gn88) << hagozV << KpT25 << std::endl;
+std::cout << Bj3725EE30(-2118402600, (short)-808857006, Hb8D, (unsigned short)-101172658) << UhOlcOqgbu << D120Xb((unsigned short)1689339027, gn88) << hagozV << KpT25 << std::endl;
 for (int i = 0; i < 4; i++)
 {
 if (m_O3a > HcDqm_7)
@@ -504,7 +504,7 @@ case 2:
 K5Pt33n -= vGudDGgcTm;
 break;
 case 3:
-ZEk7Eb = Bj3725EE30(ZEk7Eb, 1463804922, 1736145077, 483634577);
+ZEk7Eb = Bj3725EE30(ZEk7Eb, (short)1463804922, 1736145077, 483634577);
 break;
 case 4:
 Tl94yC5XO = Bj3725EE30(Tl94yC5XO, (short)1289968617, -503828584, -2071679958);
@@ -613,7 +613,7 @@ L5FF4v1 = GiFi59PU6 - SsZ12LZsf;
 break;
 }
 }
-std::cout << D120Xb((unsigned short)-385985698, 528849883) << "Lx2j3k_" << wH0TcuVeP << gn88 << std::endl;
+std::cout << D120Xb((unsigned short)-385985698, (char)528849883) << "Lx2j3k_" << wH0TcuVeP << gn88 << std::endl;
 Hb8D = D120Xb(i875_6LR6, 1253753355);
 {
 int i = 9;

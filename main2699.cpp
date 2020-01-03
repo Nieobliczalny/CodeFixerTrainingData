@@ -31,7 +31,7 @@ int main(void) {
     unsigned short int    AFq31j;
     AFq31j    =    (unsigned short)-284744347;
   unsigned char  cC8r;
-  cC8r  =  1688737915;
+  cC8r  =  (unsigned char)1688737915;
 	int	D4gcl_5H;
 	D4gcl_5H	=	-3337397;
   unsigned long long  VmY2;
@@ -77,7 +77,7 @@ int main(void) {
  unsigned short int Qo8nlOEf;
  Qo8nlOEf = (unsigned short)1558814494;
 	unsigned short	Eov0M6aC83;
-	Eov0M6aC83	=	-385095003;
+	Eov0M6aC83	=	(unsigned short)-385095003;
  short L44Q88b3;
  L44Q88b3 = 970000352;
   long  K7Ie5U4XX;
@@ -91,7 +91,7 @@ int main(void) {
     unsigned long    m173pE2;
     m173pE2    =    -212378105;
   char  jxAo0w8;
-  jxAo0w8  =  -1726447464;
+  jxAo0w8  =  (char)-1726447464;
     long    poK0;
     poK0    =    -183274116;
     long double    vBuaC;
@@ -103,7 +103,7 @@ int main(void) {
 	unsigned int	J818p;
 	J818p	=	1388953291;
     unsigned short    J7P2KSQ;
-    J7P2KSQ    =    2051987008;
+    J7P2KSQ    =    (unsigned short)2051987008;
     long    Ai8_ER;
     Ai8_ER    =    712353039;
 	char	a6f1Z1Vp29;
@@ -153,7 +153,7 @@ for (int j = 0; j < 7; j++)
 {
 for (int k = 5; k >= 0; --k)
 {
-iW0BAO5S4 = N258((char)1004615529, (unsigned short)25243356, vBuaC, 1888146386, lSeY);
+iW0BAO5S4 = N258((char)1004615529, (unsigned short)25243356, vBuaC, (unsigned short)1888146386, lSeY);
 }
 }
 }
@@ -216,7 +216,7 @@ case 7:
 magyJ >>= 1961628572;
 break;
 default:
-SR7WL = N258(SR7WL, (unsigned short)441176870, (unsigned char)1606578698, z0eAg4nAOJ, -1471023186);
+SR7WL = N258(SR7WL, (unsigned short)441176870, (unsigned char)1606578698, z0eAg4nAOJ, (short)-1471023186);
 break;
 }
 }
@@ -256,7 +256,7 @@ break;
 }
 }
 
-jWQluE1 = N258((char)-827143040, (unsigned short)708442472, vBuaC, z0eAg4nAOJ, 2146957653) << WYmjf3V3;
+jWQluE1 = N258((char)-827143040, (unsigned short)708442472, vBuaC, z0eAg4nAOJ, (short)2146957653) << WYmjf3V3;
 std::cout << cC8r << "zkIoS" << "fi26" << y6gfPC8n << std::endl;
 
 if ((poK0 > -1078234820) || (Eov0M6aC83))
@@ -270,7 +270,7 @@ case 1:
 L44Q88b3 = jUDoN0v64f(L44Q88b3, -1341826103, Eov0M6aC83, (char)-51248094, TnO1m);
 break;
 case 2:
-Eov0M6aC83 = N258((char)1081044176, -69650936, -1964585587, a6f1Z1Vp29, magyJ);
+Eov0M6aC83 = N258((char)1081044176, (unsigned short)-69650936, -1964585587, a6f1Z1Vp29, magyJ);
 break;
 case 3:
 UGR0 = k_4llr6 | SR7WL;

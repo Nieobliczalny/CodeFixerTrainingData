@@ -41,7 +41,7 @@ int main()
     short    GSl89S_D;
     GSl89S_D    =    (short)1943272549;
   unsigned short int  V0DZGFI_er;
-  V0DZGFI_er  =  1231460315;
+  V0DZGFI_er  =  (unsigned short)1231460315;
  float Lk6iQWFux8;
  Lk6iQWFux8 = -61339777;
  long cSInHrQZx;
@@ -53,7 +53,7 @@ int main()
   unsigned short int  DDoW;
   DDoW  =  (unsigned short)-205507349;
 	short	WIzCjk;
-	WIzCjk	=	1882197746;
+	WIzCjk	=	(short)1882197746;
   long  z1awDiJ0i;
   z1awDiJ0i  =  -902456688;
 	unsigned char	mpJTA5;
@@ -79,7 +79,7 @@ int main()
  short iltjq5btp;
  iltjq5btp = (short)-1565048263;
  unsigned short int TGZZD_tn;
- TGZZD_tn = 41127566;
+ TGZZD_tn = (unsigned short)41127566;
 	long double	vB_0r;
 	vB_0r	=	-1324510371;
  long double GXO8I64709;
@@ -441,7 +441,7 @@ case 5:
 T5ZnsI6 = (mpJTA5 > -375841289) ? (unsigned char)709911405 : (unsigned char)-1452458312;
 break;
 case 6:
-UiP1IzUAoS = EwAs0lkMo(2060298556);
+UiP1IzUAoS = EwAs0lkMo((short)2060298556);
 break;
 default:
 cZP6 = (int)abs(Lk6iQWFux8);

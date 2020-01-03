@@ -89,7 +89,7 @@ CMSd7UI = h03jk1yb64((unsigned char)1699613061, CMSd7UI);
 break;
 case 'e':
 case 'E':
-Zs6P93V = h03jk1yb64(qQ_m, -1583309009) - 509721458;
+Zs6P93V = h03jk1yb64(qQ_m, (unsigned short)-1583309009) - 509721458;
 break;
 case 'f':
 case 'F':

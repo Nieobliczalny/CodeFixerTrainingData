@@ -26,7 +26,7 @@ int main(void) {
 	char	V69X;
 	V69X	=	(char)-1365691469;
 	char	TH_i1;
-	TH_i1	=	-1954920503;
+	TH_i1	=	(char)-1954920503;
     float    uY9r1g97;
     uY9r1g97    =    1988213958;
     double    oap6u;
@@ -54,7 +54,7 @@ int main(void) {
  unsigned long qcz6qyX6;
  qcz6qyX6 = -1729037255;
 	unsigned short	bwjyz_P;
-	bwjyz_P	=	1684103732;
+	bwjyz_P	=	(unsigned short)1684103732;
 	unsigned long	ld5Xa8N;
 	ld5Xa8N	=	1304580111;
     double    Gp5E;
@@ -72,7 +72,7 @@ int main(void) {
   unsigned int  F0bTB_89p;
   F0bTB_89p  =  -1037895765;
  short int cwD7_8Qs1;
- cwD7_8Qs1 = 1271300846;
+ cwD7_8Qs1 = (short)1271300846;
     long long    Lumhz8lI2_;
     Lumhz8lI2_    =    1450677973;
 	unsigned long long	IVmw8_DEl;
@@ -82,7 +82,7 @@ int main(void) {
 	short	oE95VVv_9;
 	oE95VVv_9	=	(short)992629464;
 	unsigned short int	G665G;
-	G665G	=	-68557677;
+	G665G	=	(unsigned short)-68557677;
   double  YM66x;
   YM66x  =  -799529070;
     int    YXYXcpa;
@@ -94,7 +94,7 @@ int main(void) {
   short int  KwHS1o76;
   KwHS1o76  =  (short)1163504210;
 	unsigned short int	jzbsHu_J;
-	jzbsHu_J	=	1192526308;
+	jzbsHu_J	=	(unsigned short)1192526308;
 	unsigned long long	Exur5_0;
 	Exur5_0	=	60801196;
 	unsigned long	lGJZp2Nv7;
@@ -252,7 +252,7 @@ xOW14j5 = (int)abs(KwHS1o76);
 }
 else if (YM66x == 1302854191)
 {
-cout << "B0aO" << n9hj8EX(bwjyz_P, (short)1703319859, -304367947, -1886477001) << n9hj8EX((unsigned short)-646565456, 1474750600, 1390494391, a_UWE8iY3) << a_UWE8iY3 << n9hj8EX(875941838, oE95VVv_9, jzbsHu_J, -1359389205) << endl;
+cout << "B0aO" << n9hj8EX(bwjyz_P, (short)1703319859, -304367947, -1886477001) << n9hj8EX((unsigned short)-646565456, (short)1474750600, 1390494391, a_UWE8iY3) << a_UWE8iY3 << n9hj8EX(875941838, oE95VVv_9, jzbsHu_J, -1359389205) << endl;
 }
 else if (C1R21 > 210545347)
 {
@@ -294,7 +294,7 @@ AHt64dL67 = (int)(W71c692s9A);
 YM66x = Tt044D((short)2052770983, 1840673894, YXYXcpa);
 for (int i = 0; i < 4; ++i)
 {
-IVmw8_DEl = d24_82NdaN(oE95VVv_9, Tq0pPVK, 929206549, YM66x);
+IVmw8_DEl = d24_82NdaN(oE95VVv_9, Tq0pPVK, (unsigned short)929206549, YM66x);
 }
 switch (F0bTB_89p)
 {

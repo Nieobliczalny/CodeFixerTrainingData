@@ -198,7 +198,7 @@ p18xDm_g = (int)abs(Amdkz);
 }
 else
 {
-Amdkz = kU8c36ok((short)910344066, -107627979, 2002149244, -896742215);
+Amdkz = kU8c36ok((short)910344066, -107627979, (unsigned short)2002149244, -896742215);
 }
 }
 }
@@ -328,7 +328,7 @@ case 0:
 xGv5m4 = X9hW1((unsigned short)692993101, (char)1309372199);
 break;
 case 1:
-c94COK = kU8c36ok(749669391, C5v1WDv_D_, 492378597, 1130876928);
+c94COK = kU8c36ok((short)749669391, C5v1WDv_D_, 492378597, 1130876928);
 break;
 case 2:
 c94COK = ffllg5liU + v69v48i_uk;

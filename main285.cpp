@@ -21,7 +21,7 @@ int main(void) {
   char  REB4CF4  =  0;
  long ZYSbfqp = 393483159;
     long long    s2X4t    =    -85356605;
-	unsigned short int	s4P4535035	=	-700744236;
+	unsigned short int	s4P4535035	=	(unsigned short)-700744236;
  unsigned long ud3U0Sq5 = 604360326;
 	int	SMtH9	=	-516484927;
  unsigned char ChrK0mAv_c = 1706471253;

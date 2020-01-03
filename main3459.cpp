@@ -21,7 +21,7 @@ char  jPC2(unsigned int  iX7J5T3Se,short int  s0MBTnaA,unsigned short int  RR1Gk
 }
 
 unsigned char qyhyi(long long YCo5reD) {
- return -1025681243;
+ return (unsigned char)-1025681243;
 }
 
 unsigned long long LW8crvsQ(unsigned short int W3mM)

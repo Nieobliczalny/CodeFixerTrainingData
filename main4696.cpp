@@ -57,7 +57,7 @@ int i = 0;
 do
 {
 i++;
-cout << VKPpe << HU1ku7 << c1P3c(I5bY1, (unsigned char)35229900, (char)-168783851, -1535436568) << endl;
+cout << VKPpe << HU1ku7 << c1P3c(I5bY1, (unsigned char)35229900, (char)-168783851, (unsigned char)-1535436568) << endl;
 }
 while (i < 8);
 }
@@ -130,7 +130,7 @@ if (Pq6_2__43 > 1037567876)
 {
 if ((LfskE <= -794697332) || (V9jH_DNR > -1532616538))
 {
-cout << BKYU_3n << c1P3c(QmD_B8dCH, (unsigned char)-164685917, (char)-228224941, 1846021068) << "MPXvoz2ix" << yd5_59 << endl;
+cout << BKYU_3n << c1P3c(QmD_B8dCH, (unsigned char)-164685917, (char)-228224941, (unsigned char)1846021068) << "MPXvoz2ix" << yd5_59 << endl;
 }
 else if ((BzI4l90uJ < -1645243772) || ((g644CnFUL > -1338741350) || (Vub0 < BKYU_3n)))
 {

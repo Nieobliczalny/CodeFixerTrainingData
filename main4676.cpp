@@ -67,7 +67,7 @@ int main(void)
     double    fjd_8Ke;
     fjd_8Ke    =    110009728;
   short int  mi7p37;
-  mi7p37  =  792407995;
+  mi7p37  =  (short)792407995;
   short  hS1L40p3DQ;
   hS1L40p3DQ  =  (short)-431379209;
 	float	tW0YkM7_;
@@ -87,7 +87,7 @@ int main(void)
 	int	psiy;
 	psiy	=	1007018602;
   short  N5kv_5P6U;
-  N5kv_5P6U  =  1027157406;
+  N5kv_5P6U  =  (short)1027157406;
  unsigned short int MGLUt;
  MGLUt = 1539199436;
   unsigned long long  tZJT;
@@ -133,7 +133,7 @@ int main(void)
 	float	i0S5;
 	i0S5	=	2014432923;
 	short	oMf0y9z0v;
-	oMf0y9z0v	=	533257505;
+	oMf0y9z0v	=	(short)533257505;
  int bchR0LHI12;
  bchR0LHI12 = 1643100683;
   char  riM51Chh;
@@ -143,7 +143,7 @@ int main(void)
  unsigned short IcA17fK_95;
  IcA17fK_95 = 784276757;
  char wMxt;
- wMxt = -306306016;
+ wMxt = (char)-306306016;
     short    kPi5DCxN;
     kPi5DCxN    =    -1411469447;
   float  a7Pxe;
@@ -165,7 +165,7 @@ int main(void)
  char zMeE9McF4;
  zMeE9McF4 = (char)378595354;
   unsigned short int  r6P8W7;
-  r6P8W7  =  1768701690;
+  r6P8W7  =  (unsigned short)1768701690;
  double ZabuIngU;
  ZabuIngU = -1889684742;
  unsigned long URo083T;
@@ -205,7 +205,7 @@ int main(void)
     unsigned short int    o7Lwu;
     o7Lwu    =    (unsigned short)858989818;
 	short int	Kz1JASq_nx;
-	Kz1JASq_nx	=	-2069528416;
+	Kz1JASq_nx	=	(short)-2069528416;
   long double  H3QVB;
   H3QVB  =  -652652169;
     short int    Z0iw;

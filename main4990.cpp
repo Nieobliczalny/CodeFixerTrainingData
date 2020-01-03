@@ -417,7 +417,7 @@ case 1:
 mwGL = kVKzZ((unsigned short)1122699492, (short)1077728510);
 break;
 case 2:
-qd169cE71 = kVKzZ(1851243784, 1115186732);
+qd169cE71 = kVKzZ((unsigned short)1851243784, 1115186732);
 break;
 case 3:
 qd169cE71 = kVKzZ(j3Ci2qOg5, pp55MO8);

@@ -46,7 +46,7 @@ case 1:
 KMaP_mfOCo = CqG8(KMaP_mfOCo, hpV_4g, (unsigned short)968173854, ybHS7vEA);
 break;
 case 2:
-IKmgZ = zkMERCy_02(e_VY3sb9, IKmgZ, (unsigned short)1410741220, -513185784);
+IKmgZ = zkMERCy_02(e_VY3sb9, IKmgZ, (unsigned short)1410741220, (short)-513185784);
 break;
 case 3:
 UL_007Z03_ = MYxy_21S1(783682118, d7enu62s5, 1484889902);

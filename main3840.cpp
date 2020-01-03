@@ -29,7 +29,7 @@ int main(int argc, char** argv)
 	short int	F_52O;
 	F_52O	=	(short)1219767419;
   unsigned char  IAjo_;
-  IAjo_  =  -1189144903;
+  IAjo_  =  (unsigned char)-1189144903;
  char e7I3l9;
  e7I3l9 = 0;
     unsigned short int    C2ddS4_;
@@ -90,7 +90,7 @@ cout << c3_h1 << C2ddS4_ << a4be7FB0() << vMCAv(1437838506, C2ddS4_) << ps__4Ue5
 
 B5BS8t7Ura = I7__(B5BS8t7Ura, 12715568, 1598448537, (unsigned char)-1895907039);
 
-Uqts6RX = e5_ZM_((unsigned char)-228684400, 338208483, 315823275);
+Uqts6RX = e5_ZM_((unsigned char)-228684400, (unsigned short)338208483, 315823275);
 
 C2ddS4_ = a4be7FB0();
 for (int i = 0; i < 1; i++)
@@ -119,7 +119,7 @@ ps__4Ue5o = e5_ZM_((unsigned char)2130455393, (unsigned short)-1007609115, 15624
 }
 else
 {
-e7I3l9 = I7__(F_52O, 1456910360, -1528302530, 1090679413);
+e7I3l9 = I7__(F_52O, 1456910360, -1528302530, (unsigned char)1090679413);
 }
 }
 }

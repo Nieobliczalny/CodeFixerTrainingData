@@ -41,7 +41,7 @@ int main(int argc, char** argv) {
 	short int	Qxfbx	=	(short)-862947071;
   short int  R3TyatHg8r  =  (short)987022660;
  unsigned long long Px64ekpm = -1114170108;
-    char    x_sP3d7    =    140720422;
+    char    x_sP3d7    =    (char)140720422;
     char    D70U3R    =    302869859;
 	unsigned int	dab713c1X	=	-1142121112;
   short  Gl91LLq  =  0;
@@ -51,7 +51,7 @@ int main(int argc, char** argv) {
   char  vu_9T  =  (char)1751155144;
     unsigned char    JHMSQ    =    (unsigned char)-1169226089;
 	unsigned int	RAM1Hk00_	=	1532916327;
-	unsigned char	E46Jw79	=	-1067917624;
+	unsigned char	E46Jw79	=	(unsigned char)-1067917624;
   float  vg6_JlVVY4  =  -1108829776;
     long long    jHIi    =    -733712936;
 	float	V0gm41KHtm	=	-1288712913;
@@ -66,7 +66,7 @@ int main(int argc, char** argv) {
  unsigned short int v431_Z = (unsigned short)-2056855456;
   unsigned long long  XGWJ4_Ob  =  231266956;
     short    TYA961tz    =    0;
-    unsigned short int    S0T8yGy_L9    =    1180028545;
+    unsigned short int    S0T8yGy_L9    =    (unsigned short)1180028545;
     unsigned char    uuR2y76q0    =    289604644;
  unsigned long long J_Wye99a = 1021397992;
 	long	pd5gT4m_iN	=	1723511210;
@@ -76,7 +76,7 @@ int main(int argc, char** argv) {
 	long	YCNT	=	-1803873873;
   long long  PaN8  =  0;
 	unsigned short	tQC5y_2f	=	(unsigned short)1606373739;
-  unsigned char  Mj6xVL3v1  =  -373289623;
+  unsigned char  Mj6xVL3v1  =  (unsigned char)-373289623;
   long  S1Jm1  =  -81487512;
   unsigned long long  W2XZjgHI  =  -777747128;
   int  Wp98BFt  =  -1457181043;
@@ -168,7 +168,7 @@ pyQTL7ZvZ = (int)floor(EHnomo4fv);
 switch (XGWJ4_Ob)
 {
 case 'a':
-E46Jw79 = d7q59Gz8xL(225452964, 1038855463, ZLpO1, x_sP3d7, -1287579217);
+E46Jw79 = d7q59Gz8xL(225452964, (char)1038855463, ZLpO1, x_sP3d7, -1287579217);
 break;
 case 'b':
 Oyu2 = p5uBl(Gl91LLq);
@@ -393,7 +393,7 @@ vu_9T = E9d9S2hR6F((char)1204626793, (unsigned short)-331102450, -1155330126);
 break;
 case 'd':
 case 'D':
-E46Jw79 = d7q59Gz8xL(388761407, -1833470715, 875365746, 1731894864, a52j298zRk);
+E46Jw79 = d7q59Gz8xL(388761407, (char)-1833470715, 875365746, 1731894864, a52j298zRk);
 break;
 case 'e':
 case 'E':
@@ -413,7 +413,7 @@ o03r7__ = d7q59Gz8xL(1640474403, Wp98BFt, W2XZjgHI, (short)1850755001, RAM1Hk00_
 break;
 case 'i':
 case 'I':
-JHMSQ = d7q59Gz8xL(-1187145919, -409319425, 1053829654, -1580565300, pd5gT4m_iN);
+JHMSQ = d7q59Gz8xL(-1187145919, (char)-409319425, 1053829654, -1580565300, pd5gT4m_iN);
 break;
 default:
 o03r7__ = (int)floor(EHnomo4fv);
@@ -531,7 +531,7 @@ case 3:
 Hx2K_mG41 = (int)abs(D43341Q9n) * 0;
 break;
 case 4:
-Wp98BFt = bC7U((unsigned char)-622640196, -108163337);
+Wp98BFt = bC7U((unsigned char)-622640196, (unsigned short)-108163337);
 break;
 case 5:
 pyQTL7ZvZ = (int)ceil(vg6_JlVVY4);

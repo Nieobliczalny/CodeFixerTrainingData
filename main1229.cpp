@@ -129,7 +129,7 @@ soJsyqOT__ = xmnlo((short)476948383, ZT2H, W15wb2nJt, puqgt_1_);
 break;
 case 'e':
 case 'E':
-bEZNoP = xmnlo(1629263414, PZEeudd15, PY9M_, -1975468100);
+bEZNoP = xmnlo((short)1629263414, PZEeudd15, PY9M_, -1975468100);
 break;
 case 'f':
 case 'F':
@@ -212,7 +212,7 @@ case 6:
 sEbf42S56 = (int)abs(Tx2Dshw9m3);
 break;
 case 7:
-BH9ET5635v = xmnlo(-923764964, UfJA8PCK, -110237477, O142);
+BH9ET5635v = xmnlo((short)-923764964, UfJA8PCK, -110237477, O142);
 break;
 }
 }
@@ -379,7 +379,7 @@ case 5:
 TXsN__8n4K -= 1213601025;
 break;
 case 6:
-xRjqqyq6wE = xmnlo((short)-1306279672, F46enH5, -1166642757, 1147310521);
+xRjqqyq6wE = xmnlo((short)-1306279672, F46enH5, (unsigned short)-1166642757, 1147310521);
 break;
 case 7:
 sEbf42S56 = (int)abs(Tx2Dshw9m3);
@@ -469,7 +469,7 @@ case 'a':
 Tx2Dshw9m3 = (int)abs(sEbf42S56);
 break;
 case 'b':
-dq9fNp = xmnlo((short)1718606437, OLVi, 1418706245, -1876256193);
+dq9fNp = xmnlo((short)1718606437, OLVi, (unsigned short)1418706245, -1876256193);
 break;
 case 'c':
 tU3C7P = mIrm0w8ZK7();
@@ -499,7 +499,7 @@ break;
 
 for (int i = 5; i >= 0; --i)
 {
-std::cout << xmnlo((short)2099733905, 1143698129, Jc4Awj, lL2gXNZM) << "WJ31NJa" << xmnlo((short)-97813211, 173325051, -1232632695, lL2gXNZM) << "N1x5w53" << R321DA_0(soJsyqOT__) << std::endl;
+std::cout << xmnlo((short)2099733905, 1143698129, Jc4Awj, lL2gXNZM) << "WJ31NJa" << xmnlo((short)-97813211, 173325051, (unsigned short)-1232632695, lL2gXNZM) << "N1x5w53" << R321DA_0(soJsyqOT__) << std::endl;
 }
 {
 int i = 0;
@@ -530,7 +530,7 @@ if (YFfvo <= EA9M5)
 {
 if (e99SOU4iY_ > g1lux)
 {
-UmX03JsH = R321DA_0(719157229);
+UmX03JsH = R321DA_0((short)719157229);
 }
 }
 }

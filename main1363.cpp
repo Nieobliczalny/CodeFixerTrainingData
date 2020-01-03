@@ -33,7 +33,7 @@ case 1:
 d4F9G00 = S99tuDgG((short)-500682373, vWmeC);
 break;
 case 2:
-YYb5M7 = S99tuDgG((short)-630872112, 806725426) + my3249cl6;
+YYb5M7 = S99tuDgG((short)-630872112, (unsigned short)806725426) + my3249cl6;
 break;
 case 3:
 d4F9G00 = S99tuDgG(-155888586, 1194174888);
@@ -201,7 +201,7 @@ if (oyA0ar7 == -84516453)
 switch (R_6_ZX)
 {
 case 0:
-d4F9G00 = S99tuDgG(X02SM, -657824704);
+d4F9G00 = S99tuDgG(X02SM, (unsigned short)-657824704);
 break;
 }
 }
@@ -330,7 +330,7 @@ case 'a':
 d4F9G00 = S99tuDgG((short)-2077067334, xvbU824y);
 break;
 case 'b':
-d4F9G00 = S99tuDgG((short)-38882281, -1678069202);
+d4F9G00 = S99tuDgG((short)-38882281, (unsigned short)-1678069202);
 break;
 case 'c':
 x918jEU += 222785446;
@@ -345,7 +345,7 @@ case 'f':
 d4F9G00 = S99tuDgG(BicQbhk, (unsigned short)-720844751);
 break;
 case 'g':
-d4F9G00 = S99tuDgG((short)1424528936, 1508289879);
+d4F9G00 = S99tuDgG((short)1424528936, (unsigned short)1508289879);
 break;
 case 'h':
 d4F9G00 = S99tuDgG(1110776290, A_b0);
@@ -416,7 +416,7 @@ R_6_ZX *= 35359837;
 break;
 }
 d4F9G00 = S99tuDgG(o65mxKgF6i, (unsigned short)944886519);
-d4F9G00 = S99tuDgG((short)-979076070, -222091840);
+d4F9G00 = S99tuDgG((short)-979076070, (unsigned short)-222091840);
 if (fH8_NIi == 1919221824)
 {
 for (int j = 0; j < 7; ++j)

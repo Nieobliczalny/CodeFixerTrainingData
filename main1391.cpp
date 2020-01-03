@@ -120,7 +120,7 @@ break;
 
 cout << Hw0H93wJ__ << OkR5P40a << T2EIpDXU(OkR5P40a, XAL2) << dQ2p8((short)-118885023, -237604867, (char)-666147836, Hw0H93wJ__) << endl;
 OkR5P40a = (unsigned int)(EqEV4);
-OkR5P40a = Yk_TNR_(OkR5P40a, 430802662, 1690060606, EqEV4, -2089850646);
+OkR5P40a = Yk_TNR_(OkR5P40a, 430802662, 1690060606, EqEV4, (unsigned short)-2089850646);
 for (int i = 0; i < 10; ++i)
 {
 XAL2 = (short)(Uo_3 + (312198528));
@@ -146,7 +146,7 @@ Hw0H93wJ__ = T2EIpDXU((unsigned short)-823872811, (short)-952992395);
 }
 }
 }
-cout << nbcMiSd << Yk_TNR_(2035127224, OkR5P40a, Uo_3, nbcMiSd, 1419795603) << OkR5P40a << endl;
+cout << nbcMiSd << Yk_TNR_(2035127224, OkR5P40a, Uo_3, nbcMiSd, (unsigned short)1419795603) << OkR5P40a << endl;
 
 if (((EqEV4 == i3Kvc98) && (dnyQM3Y1 != nbcMiSd)) && (nbcMiSd > 990873597))
 {

@@ -30,7 +30,7 @@ std::cout << Kwu36Z24(B6972Rv63_, (char)1074321165, Q48n1, YK8GNNi) << std::endl
 switch (YW19)
 {
 case 0:
-D5XPqksyI = Kwu36Z24((short)377104307, 432351929, 2060532369, -293018164);
+D5XPqksyI = Kwu36Z24((short)377104307, (char)432351929, 2060532369, -293018164);
 break;
 case 1:
 JF84--;
@@ -48,7 +48,7 @@ case 5:
 Xx0B_ = (int)abs(Rw5Ad);
 break;
 case 6:
-x_PdfHEBmV = wj1fJO1_uZ(-1403760085);
+x_PdfHEBmV = wj1fJO1_uZ((char)-1403760085);
 break;
 default:
 kje8W8 = (int)abs(z0BYpa);
@@ -62,7 +62,7 @@ Bpag0k = zMHaIJ191(-406097566, (unsigned short)-751119339, eBMJxYijC);
 }
 else if (x40Ou590 < -2061021938)
 {
-D5P2ArPn = (Ec6hrZ1Twi > -1361253211) ? 137060817 : Kwu36Z24((short)-1851411570, 1413752910, eBMJxYijC, 258191755);
+D5P2ArPn = (Ec6hrZ1Twi > -1361253211) ? 137060817 : Kwu36Z24((short)-1851411570, (char)1413752910, eBMJxYijC, 258191755);
 }
 else if (kje8W8)
 {
@@ -162,7 +162,7 @@ if (p6f2B >= 1278895244)
 std::cout << zMHaIJ191(Bpag0k, d29RC07, VcsW67H7b4) << DQAdgNY_aK << eBMJxYijC << "efb46" << std::endl;
 }
 std::cout << zMHaIJ191(Bpag0k, (unsigned short)356447745, (unsigned char)874380653) << std::endl;
-uu00pT = zMHaIJ191(uu00pT, -1558998155, BFujHA);
+uu00pT = zMHaIJ191(uu00pT, (unsigned short)-1558998155, BFujHA);
 if (Bpag0k != -1807270979)
 {
 Du09_G = Yuepyr80 - PNI5bn;
@@ -283,7 +283,7 @@ int i = 0;
 do
 {
 i++;
-V1T_xhz1 = zMHaIJ191(-993295765, (unsigned short)-552842816, 1277960391);
+V1T_xhz1 = zMHaIJ191(-993295765, (unsigned short)-552842816, (unsigned char)1277960391);
 }
 while (i < 3);
 }
@@ -341,7 +341,7 @@ case 5:
 Z8vG8rf5F = zMHaIJ191(Z8vG8rf5F, o0RS1h_, cEWQ9);
 break;
 case 6:
-MoXYC = zMHaIJ191(MoXYC, (unsigned short)1719964831, 1456615906);
+MoXYC = zMHaIJ191(MoXYC, (unsigned short)1719964831, (unsigned char)1456615906);
 break;
 case 7:
 fn99f4R_m %= v0Y9we_i;
@@ -372,7 +372,7 @@ return 0;
 }
 
 unsigned short	zMHaIJ191(unsigned long long	dsB20EQa,unsigned short	L37canc,unsigned char	VvZyY9X_c)	{
-	return	101390882;
+	return	(unsigned short)101390882;
 }
 
 short    wj1fJO1_uZ(char    ChMfj2p)

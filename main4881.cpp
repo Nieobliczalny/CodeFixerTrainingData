@@ -40,7 +40,7 @@ if ((Ak8EmD & 314679307) && ((rtDo_h == ROkv) && (UWU2PJOs >= JNZTPE)))
 {
 if (z9sj6 <= Ei_4bsu6)
 {
-G0j44 = bJJ726wEU1(G0j44, h1k_Vt8Z_, 1757407217, LTvE62et2V);
+G0j44 = bJJ726wEU1(G0j44, h1k_Vt8Z_, (unsigned short)1757407217, LTvE62et2V);
 }
 }
 else if (K52132awx <= 1712474348)
@@ -250,7 +250,7 @@ case 'd':
 hNR2Bf0_H = kOrOc + NQzQQn;
 break;
 case 'e':
-nE0c = zApEZ(-1161561693, -200060595);
+nE0c = zApEZ((short)-1161561693, -200060595);
 break;
 case 'f':
 nE0c >>= 241833120;
@@ -294,7 +294,7 @@ case 7:
 EY1_1fR1 = YOCFe();
 break;
 default:
-Lr6p3b6 = bJJ726wEU1((short)-244566098, vFMk6mFy, 841870535, 42866826);
+Lr6p3b6 = bJJ726wEU1((short)-244566098, vFMk6mFy, (unsigned short)841870535, 42866826);
 break;
 }
 }
@@ -312,7 +312,7 @@ case 1:
 hZjy0 = F0m_Ei(vq1AZ5Z1r);
 break;
 case 2:
-HK1f = bJJ726wEU1((short)160188598, (char)-323580584, fZTIaQ9j2B, -1479067477);
+HK1f = bJJ726wEU1((short)160188598, (char)-323580584, fZTIaQ9j2B, (unsigned char)-1479067477);
 break;
 case 3:
 D4f7 = zApEZ(D4f7, 1246710472);
@@ -481,7 +481,7 @@ case 4:
 DP1bpFY1 = RE1P + 641108230;
 break;
 case 5:
-ZIIAU7 = bJJ726wEU1(-1330445871, pl0Z_PtEH7, I_H8, eav8d);
+ZIIAU7 = bJJ726wEU1((short)-1330445871, pl0Z_PtEH7, I_H8, eav8d);
 break;
 }
 
@@ -559,7 +559,7 @@ vOmipctr = bJJ726wEU1(vOmipctr, (char)-1283415027, (unsigned short)-1859638772, 
 break;
 case 'c':
 case 'C':
-zdy6E = bJJ726wEU1(-2052893630, jMozvw, -1800234861, Lr6p3b6);
+zdy6E = bJJ726wEU1((short)-2052893630, jMozvw, -1800234861, Lr6p3b6);
 break;
 case 'd':
 case 'D':
@@ -620,7 +620,7 @@ case 'g':
 cJzfhqG5W_ = YOCFe();
 break;
 case 'h':
-aUbOZX85 = zApEZ((short)525617494, -1474117182);
+aUbOZX85 = zApEZ((short)525617494, (unsigned char)-1474117182);
 break;
 case 'i':
 Rh2PX78G4z = rlL1 << 1985381305;
@@ -655,7 +655,7 @@ case 2:
 t45lR7k5 = zApEZ((short)-1646232269, ZIIAU7);
 break;
 case 3:
-McKBTF = ruz3U4PHzi(McKBTF, (unsigned char)-874439165, 1554803258);
+McKBTF = ruz3U4PHzi(McKBTF, (unsigned char)-874439165, (short)1554803258);
 break;
 default:
 T8iH9476xS = YOCFe();

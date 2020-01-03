@@ -30,7 +30,7 @@ int main()
 	int	KH7W6T4_e6	=	-654902569;
     unsigned short    KCk2v0    =    (unsigned short)1487589365;
     short    V39OZ    =    0;
-  char  zsJSly3  =  1955530256;
+  char  zsJSly3  =  (char)1955530256;
 	double	qqVR	=	1144514424;
 	long	DoUI7DD	=	-1770678802;
 	unsigned long long	Fou68TN_Z	=	1853500725;

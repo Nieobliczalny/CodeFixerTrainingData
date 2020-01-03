@@ -239,7 +239,7 @@ else if (n2lc03qVwH > JPmU70)
 {
 try
 {
-b5YblX = WqeR(1746933412, yLs60_Kc, -1452914682, -1820148736, -739146558);
+b5YblX = WqeR(1746933412, yLs60_Kc, (short)-1452914682, -1820148736, -739146558);
 }
 catch (int& errorCode)
 {
@@ -667,7 +667,7 @@ switch (aG2Qu3B_3)
 {
 case 'a':
 case 'A':
-LRyP = WqeR(LRyP, 183777103, 330739821, Cd_0tSHXHl, -774653247);
+LRyP = WqeR(LRyP, (unsigned short)183777103, 330739821, Cd_0tSHXHl, -774653247);
 break;
 case 'b':
 case 'B':

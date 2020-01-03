@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
 
 if ((xfuZJLtml <= 1645552301) && (nHnis79r2u != 854913638))
 {
-std::cout << l7TIj << U5F3x8F_((unsigned short)323180995, 84433275) << a77xqnspz << "MKeIfiGj31" << "Egu291" << std::endl;
+std::cout << l7TIj << U5F3x8F_((unsigned short)323180995, (short)84433275) << a77xqnspz << "MKeIfiGj31" << "Egu291" << std::endl;
 }
 else
 {
@@ -140,7 +140,7 @@ jr3eOR = c6uCZYvJv((short)-16341147, gROUb9z, -2003729706, (unsigned short)-5806
 break;
 case 'b':
 case 'B':
-xfuZJLtml = U5F3x8F_(-897932686, Qs0NLXIT4_);
+xfuZJLtml = U5F3x8F_((unsigned short)-897932686, Qs0NLXIT4_);
 break;
 default:
 IV5sk437 = U5F3x8F_(1073186003, l7TIj);
@@ -387,7 +387,7 @@ jr3eOR = (int)abs(a77xqnspz);
 }
 else if (Cb8i2_m1tW)
 {
-SRY1331Vb = c6uCZYvJv(Cb8i2_m1tW, a77xqnspz, -226799630, -1462193025, 1475606779);
+SRY1331Vb = c6uCZYvJv(Cb8i2_m1tW, a77xqnspz, -226799630, (unsigned short)-1462193025, 1475606779);
 }
 else
 {
@@ -498,7 +498,7 @@ L3sc = p_mSnm_(861866782);
 }
 else if (SRY1331Vb > -2076249516)
 {
-frmQ5 = U5F3x8F_(-1890551784, 2093467835);
+frmQ5 = U5F3x8F_((unsigned short)-1890551784, 2093467835);
 }
 else
 {
@@ -651,7 +651,7 @@ y11q9mH55r &= xfuZJLtml;
 break;
 case 'd':
 case 'D':
-SRY1331Vb = c6uCZYvJv(JMIfgX3Iq, -373725123, L3sc, (unsigned short)-372185493, 639986065);
+SRY1331Vb = c6uCZYvJv(JMIfgX3Iq, -373725123, L3sc, (unsigned short)-372185493, (short)639986065);
 break;
 case 'e':
 case 'E':

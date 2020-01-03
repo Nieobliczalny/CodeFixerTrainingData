@@ -291,7 +291,7 @@ SOl960 = tK6346qS((char)2114040094, (short)-180124431, G1CISgY65);
 }
 else
 {
-SOl960 = tK6346qS(-1161372294, -375852420, -646336867);
+SOl960 = tK6346qS((char)-1161372294, -375852420, -646336867);
 }
 
 try
@@ -317,7 +317,7 @@ case 3:
 IwD9HyKpU = nlnfliU8(IwD9HyKpU);
 break;
 case 4:
-SOl960 = tK6346qS((char)-889267365, 91328618, -325747314);
+SOl960 = tK6346qS((char)-889267365, (short)91328618, -325747314);
 break;
 default:
 IGWdmM = MWP_ ^ 1917888981;

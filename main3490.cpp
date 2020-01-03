@@ -89,7 +89,7 @@ case 'b':
 bWqH = (int)ceil(r8gEJ0);
 break;
 case 'c':
-HGEyvJ = r1KpJ((unsigned short)-1019820023, HGEyvJ, -1416910938);
+HGEyvJ = r1KpJ((unsigned short)-1019820023, HGEyvJ, (short)-1416910938);
 break;
 case 'd':
 r8gEJ0 = (int)floor(bWqH);
@@ -115,7 +115,7 @@ break;
 }
 if (((FrHMF < 2056568076) || (bWqH == 1387823536)) && ((lg3H6J4B != r8gEJ0) && (wd_XEyu & VcL7)))
 {
-std::cout << "EaLwbtGPN" << r1KpJ((unsigned short)-1977509014, (unsigned short)-561028895, wd_XEyu) << r1KpJ(2007782866, 215669572, 696924074) << "e9EVX9Vt" << "lEc87js" << std::endl;
+std::cout << "EaLwbtGPN" << r1KpJ((unsigned short)-1977509014, (unsigned short)-561028895, wd_XEyu) << r1KpJ((unsigned short)2007782866, 215669572, 696924074) << "e9EVX9Vt" << "lEc87js" << std::endl;
 }
 else
 {
@@ -372,7 +372,7 @@ lg3H6J4B = (int)abs(r8gEJ0) * 0;
 break;
 case 'h':
 case 'H':
-HGEyvJ = r1KpJ((unsigned short)-350207308, r8gEJ0, -1847918825);
+HGEyvJ = r1KpJ((unsigned short)-350207308, r8gEJ0, (short)-1847918825);
 break;
 default:
 wd_XEyu |= FrHMF;

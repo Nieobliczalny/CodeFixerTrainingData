@@ -83,7 +83,7 @@ else if (j9_rt3)
 int k = 0;
 do
 {
-Kd6egp01_ = L6RbJz4(NuX65fXM, 1633596527, -1696781985, l3z77v, Pw8njQ);
+Kd6egp01_ = L6RbJz4(NuX65fXM, 1633596527, (unsigned char)-1696781985, l3z77v, Pw8njQ);
 k++;
 }
 while (k < 10);
@@ -103,7 +103,7 @@ case 2:
 YKn9 = M5zRcC01sK(YKn9, Kd6egp01_);
 break;
 case 3:
-eR7W_ = TA8i4H32((short)-1511720129, eR7W_, 2077688802, 523448918, 567796082);
+eR7W_ = TA8i4H32((short)-1511720129, eR7W_, (short)2077688802, 523448918, 567796082);
 break;
 case 4:
 Pw8njQ = aW2ns2();
@@ -171,7 +171,7 @@ u5TL = NuX65fXM | 1255299032;
 
 if (V4R74 & Iev4)
 {
-M2izj8AP = TA8i4H32((short)1403258652, 1003596346, (short)-132282739, xT2uZe_, -1651766255);
+M2izj8AP = TA8i4H32((short)1403258652, 1003596346, (short)-132282739, xT2uZe_, (unsigned short)-1651766255);
 }
 
 for (int i = 3; i >= 0; --i)
@@ -236,7 +236,7 @@ std::cout << "w0uFz" << L6RbJz4(248601127, Kd6egp01_, OBz6w47iE, (unsigned short
 }
 else if (xT2uZe_ > N84n1_fhF1)
 {
-std::cout << Gbs_cSQ << TA8i4H32(nY3vr_xBmG, Kd6egp01_, 1029231200, 972766547, -1104075027) << "Bbtj34GC" << "r6I4gND" << UT2b5lV6K << std::endl;
+std::cout << Gbs_cSQ << TA8i4H32(nY3vr_xBmG, Kd6egp01_, (short)1029231200, 972766547, -1104075027) << "Bbtj34GC" << "r6I4gND" << UT2b5lV6K << std::endl;
 }
 else
 {
@@ -334,7 +334,7 @@ Kmv_Qu9 = (unsigned long long)(vyJw);
 switch (UT2b5lV6K)
 {
 case 0:
-k846PX6yuq = TA8i4H32((short)-789449073, -665066105, (short)-684767542, -1215327353, -578256638) * emHawMg1;
+k846PX6yuq = TA8i4H32((short)-789449073, -665066105, (short)-684767542, -1215327353, (unsigned short)-578256638) * emHawMg1;
 break;
 case 1:
 ltXq36ZN = aW2ns2();

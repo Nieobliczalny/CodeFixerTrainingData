@@ -305,7 +305,7 @@ I0i4K5Owg -= BUx_;
 }
 else
 {
-BUx_ = Iq4eJQ_((unsigned short)-1742561551, 973706646, 1732267746, nVG3yZDMA, -395128040);
+BUx_ = Iq4eJQ_((unsigned short)-1742561551, 973706646, (short)1732267746, nVG3yZDMA, -395128040);
 }
 
 zzAsPQJ = Fbrb5(-1216916616);

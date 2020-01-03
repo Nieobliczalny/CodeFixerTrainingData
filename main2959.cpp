@@ -18,7 +18,7 @@ int main() {
   unsigned long long  vDo9J39  =  210279830;
     short int    p617RY    =    (short)239205257;
  unsigned int G1sGP09A3d = -25146425;
-  short  twgbTw317h  =  574632021;
+  short  twgbTw317h  =  (short)574632021;
  float UkxKj9X = 671601545;
     int    EN0d    =    -544505452;
     long double    VvqHjeAr    =    -785737039;
@@ -45,7 +45,7 @@ int main() {
  unsigned int tcKi_ = -894409250;
  long double DNhy = 662356484;
   unsigned long  Qeg9mzl5E  =  0;
- char ZQV_w5I87 = 1319880518;
+ char ZQV_w5I87 = (char)1319880518;
 
 FFKOjqWbw = (unsigned long)(vyBZ9);
 
@@ -345,7 +345,7 @@ EN0d = i_1H_pH((unsigned char)-400923183, 1505904699, (unsigned char)-2062870004
 break;
 case 'b':
 case 'B':
-NJJNRuo12 = F6795j8LfB(FFKOjqWbw, 375014002);
+NJJNRuo12 = F6795j8LfB(FFKOjqWbw, (unsigned char)375014002);
 break;
 case 'c':
 case 'C':
@@ -376,7 +376,7 @@ while (i < 9)
 {
 if (G1sGP09A3d <= 1124074829)
 {
-std::cout << hbSMKlc << i_1H_pH(eJQOId748X, 936689168, twgbTw317h) << i_1H_pH((unsigned char)-1485257127, fQ6E09, 1192107691) << F6795j8LfB(eJQOId748X, fQ6E09) << std::endl;
+std::cout << hbSMKlc << i_1H_pH(eJQOId748X, 936689168, twgbTw317h) << i_1H_pH((unsigned char)-1485257127, fQ6E09, (unsigned char)1192107691) << F6795j8LfB(eJQOId748X, fQ6E09) << std::endl;
 }
 else
 {

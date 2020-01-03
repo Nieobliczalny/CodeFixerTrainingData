@@ -103,7 +103,7 @@ Ak14R9dppS = i9Iq(1529972642, Z7D1K6_, (unsigned short)2136231045, pLhI, g05i);
 break;
 case 'f':
 case 'F':
-go0q57 = lH6821zz(1508394971, 1226498038, 387037574);
+go0q57 = lH6821zz((short)1508394971, 1226498038, 387037574);
 break;
 default:
 sG0S ^= pSIBN_EtL;
@@ -183,7 +183,7 @@ V62J4R = i9Iq(R01_, tBB7S0u2J8, gRl93, g05i, DYeX);
 break;
 }
 
-std::cout << EE7126((unsigned short)2032592957, tBB7S0u2J8) << "X8vw" << i9Iq(R01_, -751622153, gRl93, 1028000953, 404247514) << E1H11LAe8 << std::endl;
+std::cout << EE7126((unsigned short)2032592957, tBB7S0u2J8) << "X8vw" << i9Iq(R01_, -751622153, gRl93, 1028000953, (unsigned short)404247514) << E1H11LAe8 << std::endl;
 
 pSIBN_EtL = (unsigned char)(g05i);
 if (CY146Oy_R < R01_)

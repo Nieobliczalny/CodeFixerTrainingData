@@ -30,7 +30,7 @@ int main(void)
     gMPq81Vp8_    =    0;
 	unsigned short int	swb_YsO,	KhJ5srsr0,	gLh5BM5di,	q30F3S3,	K6Ur0g6_m0,	lktJ0,	xF2J24,	W_8KWmR,	YrH_acG302,	PRm1s8,	Wr96fugu,	vB1h6,	yHKGZME2h,	VvRYh,	SG0i,	qnjrjYq,	sq_U5a2Q_,	q3361,	j25zw2r,	cWA7ZhKPY,	soRc6YJ5,	oW0_MuvC,	V69xh10N,	FM3gBCM,	MEVugO744,	y2BoFxw,	Lq_02,	h49oS3nX07,	B03XS,	eJyc2O,	Hk34fGivej,	i3Ua5s2,	K_cinW3uxC,	zN1Rs8,	Y6rBDL799,	X970Rgq2,	k5B6xHqu,	QBSz0Uh1b,	eS451,	L82_,	IIy1F5ypNU,	ZZpfKyczej,	W8MY,	Y7EjI19h,	MRe6l22c,	h44J,	l0P10eXo2,	ALSh,	EYC62715_E,	Ix50L,	aN4h6_,	sfz0_1,	aRpXANfTr3,	fHf962Q62,	LXvaTDfNIs,	k2HYpu6aaq,	C07Ck,	vy_B,	ujKc;
 	swb_YsO	=	(unsigned short)-915984295;
-	KhJ5srsr0	=	1723989796;
+	KhJ5srsr0	=	(unsigned short)1723989796;
 	gLh5BM5di	=	(unsigned short)-620209406;
 	q30F3S3	=	1188712049;
 	K6Ur0g6_m0	=	1333964758;
@@ -40,7 +40,7 @@ int main(void)
 	YrH_acG302	=	-44415986;
 	PRm1s8	=	1492046117;
 	Wr96fugu	=	(unsigned short)1099509166;
-	vB1h6	=	-719552285;
+	vB1h6	=	(unsigned short)-719552285;
 	yHKGZME2h	=	(unsigned short)-1506897173;
 	VvRYh	=	-1237906227;
 	SG0i	=	923443184;
@@ -50,7 +50,7 @@ int main(void)
 	j25zw2r	=	780254600;
 	cWA7ZhKPY	=	-205014261;
 	soRc6YJ5	=	(unsigned short)1083877702;
-	oW0_MuvC	=	1821042507;
+	oW0_MuvC	=	(unsigned short)1821042507;
 	V69xh10N	=	(unsigned short)-343389089;
 	FM3gBCM	=	-2058069935;
 	MEVugO744	=	-2017123557;
@@ -60,7 +60,7 @@ int main(void)
 	B03XS	=	1851063064;
 	eJyc2O	=	188101966;
 	Hk34fGivej	=	(unsigned short)-1840488685;
-	i3Ua5s2	=	395079016;
+	i3Ua5s2	=	(unsigned short)395079016;
 	K_cinW3uxC	=	(unsigned short)-1275715054;
 	zN1Rs8	=	41652618;
 	Y6rBDL799	=	1050302206;
@@ -70,7 +70,7 @@ int main(void)
 	eS451	=	-1521523063;
 	L82_	=	-224603347;
 	IIy1F5ypNU	=	(unsigned short)1551336050;
-	ZZpfKyczej	=	116166961;
+	ZZpfKyczej	=	(unsigned short)116166961;
 	W8MY	=	(unsigned short)-929369918;
 	Y7EjI19h	=	-773741997;
 	MRe6l22c	=	-1610224717;
@@ -80,7 +80,7 @@ int main(void)
 	EYC62715_E	=	-194213804;
 	Ix50L	=	-1434157383;
 	aN4h6_	=	(unsigned short)-1876795140;
-	sfz0_1	=	1143802176;
+	sfz0_1	=	(unsigned short)1143802176;
 	aRpXANfTr3	=	(unsigned short)520077488;
 	fHf962Q62	=	1631646370;
 	LXvaTDfNIs	=	1182440844;
@@ -95,7 +95,7 @@ case 0:
 B03XS = Ez3QRo8J4(B03XS, (unsigned char)2096638860, -817611380);
 break;
 case 1:
-L82_ = Ez3QRo8J4((short)168275531, -1251530964, 1352042334);
+L82_ = Ez3QRo8J4((short)168275531, (unsigned char)-1251530964, 1352042334);
 break;
 case 2:
 lktJ0 = q3361 / 1356863551;

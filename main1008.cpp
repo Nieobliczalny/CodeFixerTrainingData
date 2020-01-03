@@ -23,7 +23,7 @@ int main(int argc, char** argv)
     unsigned char    kaDn7;
     kaDn7    =    (unsigned char)-230322244;
  unsigned short xXCOK8_s;
- xXCOK8_s = 1383958815;
+ xXCOK8_s = (unsigned short)1383958815;
  unsigned int r2zvm34s;
  r2zvm34s = -1757480937;
     double    BEqG7738xm;
@@ -53,7 +53,7 @@ int main(int argc, char** argv)
     int    FeTCHa;
     FeTCHa    =    -1342959970;
   short  xghMq;
-  xghMq  =  567733024;
+  xghMq  =  (short)567733024;
 	short	pe453Xx3c7;
 	pe453Xx3c7	=	(short)-577472661;
 	long double	m82S;
@@ -79,7 +79,7 @@ int main(int argc, char** argv)
     long double    BH4We;
     BH4We    =    1738671229;
     short    tEF624;
-    tEF624    =    1376410309;
+    tEF624    =    (short)1376410309;
   unsigned long  f29h_Ak;
   f29h_Ak  =  663159799;
 	short int	zjIvUo;
@@ -89,7 +89,7 @@ int main(int argc, char** argv)
 	unsigned int	GKP6V;
 	GKP6V	=	167042484;
 	unsigned short	gHT2b_0Rb;
-	gHT2b_0Rb	=	-1335008851;
+	gHT2b_0Rb	=	(unsigned short)-1335008851;
     unsigned long    sifrh;
     sifrh    =    0;
  char Sj5I7_ppLH;

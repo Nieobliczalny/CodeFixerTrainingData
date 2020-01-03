@@ -213,7 +213,7 @@ case 'a':
 vzUO39 = I6CQ04((char)-1132334100, kL2B, -1163676881);
 break;
 case 'b':
-mJv7892I6 = (aED_38P < -740550459) ? t8XGixdye(-12463718, kL2B, (unsigned short)162219137, -500857072) : Xl_v;
+mJv7892I6 = (aED_38P < -740550459) ? t8XGixdye(-12463718, kL2B, (unsigned short)162219137, (char)-500857072) : Xl_v;
 break;
 case 'c':
 b7oa = t8XGixdye(b7oa, 1561690943, mJv7892I6, q0udDOh);
@@ -228,7 +228,7 @@ case 'f':
 Xl_v = (int)abs(E8AlW) * 0;
 break;
 case 'g':
-X_P_zxeE9 = xr4zzi(-2130346324, 2112812856, 301745490, (unsigned char)-736836324, -812522196);
+X_P_zxeE9 = xr4zzi(-2130346324, 2112812856, 301745490, (unsigned char)-736836324, (char)-812522196);
 break;
 case 'h':
 eKBxG -= q0udDOh;

@@ -20,7 +20,7 @@ int main(int argc, char** argv)
     short    rGoi0;
     rGoi0    =    (short)539763811;
  short a1Wgo;
- a1Wgo = -1500582438;
+ a1Wgo = (short)-1500582438;
  float Iu1_N7;
  Iu1_N7 = 1538065315;
  short nff9tewe2l;
@@ -66,7 +66,7 @@ int main(int argc, char** argv)
     unsigned char    ty29_Hs;
     ty29_Hs    =    (unsigned char)2083783766;
 	unsigned char	nO8pK_Jes;
-	nO8pK_Jes	=	1437990722;
+	nO8pK_Jes	=	(unsigned char)1437990722;
   float  rO8dN_n;
   rO8dN_n  =  571665873;
 	short int	SHDaNN4_xi;
@@ -84,7 +84,7 @@ int main(int argc, char** argv)
  unsigned long long cvLIpDWUV;
  cvLIpDWUV = 0;
   char  M9vM;
-  M9vM  =  -1459327994;
+  M9vM  =  (char)-1459327994;
     float    e5009f3;
     e5009f3    =    -1450638686;
  unsigned short int MIkvw;
@@ -110,7 +110,7 @@ int main(int argc, char** argv)
   short  bEcM_d;
   bEcM_d  =  (short)-1229391093;
 	short	gK5XnlQ1_1;
-	gK5XnlQ1_1	=	1999883936;
+	gK5XnlQ1_1	=	(short)1999883936;
 
 jjs6s0fO = (int)abs(rO8dN_n);
 switch (jjs6s0fO)

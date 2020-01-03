@@ -42,7 +42,7 @@ int main() {
   long long  vY5KZ1  =  -748251588;
 	short	BIvt6	=	(short)-1059238578;
     unsigned long long    CIVP91    =    -1764359303;
-  char  tv1f1Z_6  =  518219767;
+  char  tv1f1Z_6  =  (char)518219767;
 	unsigned long long	v5h251	=	831610630;
   short  uWFK  =  0;
   long  k35j1b1ut1  =  -1228814354;
@@ -60,7 +60,7 @@ int main() {
   double  k2I67RF1  =  -405795763;
 	double	O_13vq	=	-593619674;
  char LBg5PZd1A = (char)-1739569198;
-    short    mMj0x8LS    =    -2116917623;
+    short    mMj0x8LS    =    (short)-2116917623;
     unsigned short int    mZq_KH5Y37    =    1534767704;
 	int	XAMok7U	=	-1351175743;
  long double Ioe8PUo = 1587447283;
@@ -73,7 +73,7 @@ int main() {
 	short int	IwI__143	=	(short)155961890;
   unsigned long  sA__DBy9H  =  1395643615;
     unsigned int    c55kf    =    1889053428;
-    unsigned short int    IwgW2Ad3    =    1983851058;
+    unsigned short int    IwgW2Ad3    =    (unsigned short)1983851058;
     short    A65Z    =    -137139148;
  long double KoxvBf = -2032464846;
   short int  rk_e590ew  =  -1949653515;
@@ -84,7 +84,7 @@ int main() {
   long  qkI0c  =  0;
 	unsigned long	p_84nuv_US	=	-495824794;
     long long    sW718Q6_Eo    =    -1773909363;
- short int bD8gQzG5E = -721433811;
+ short int bD8gQzG5E = (short)-721433811;
 
 switch (p_84nuv_US)
 {
@@ -625,7 +625,7 @@ case 'd':
 Uz00B6x7x6 = (int)floor(k2I67RF1);
 break;
 case 'e':
-PZl7 = taO5BZ5((unsigned short)-113826340, -1668260365, BIvt6);
+PZl7 = taO5BZ5((unsigned short)-113826340, (unsigned char)-1668260365, BIvt6);
 break;
 case 'f':
 KMp378U = TChW3(745152408, N02Gib, XAMok7U);

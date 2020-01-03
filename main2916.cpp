@@ -70,7 +70,7 @@ int main() {
 	int	tAqho05;
 	tAqho05	=	0;
     unsigned short    t_Z1caY;
-    t_Z1caY    =    981323336;
+    t_Z1caY    =    (unsigned short)981323336;
 	unsigned char	ob6E9AX2;
 	ob6E9AX2	=	945820168;
     char    BDf3D;
@@ -86,7 +86,7 @@ int main() {
  unsigned short int v4z88z_vB;
  v4z88z_vB = (unsigned short)416714890;
     short    bVhyl1;
-    bVhyl1    =    2128381014;
+    bVhyl1    =    (short)2128381014;
  unsigned char f9nXa;
  f9nXa = 346429928;
 	short	pQ1Ma;
@@ -122,7 +122,7 @@ int main() {
 	unsigned int	r7Z1re;
 	r7Z1re	=	1684428253;
     unsigned char    Z9982N59_F;
-    Z9982N59_F    =    -1552963581;
+    Z9982N59_F    =    (unsigned char)-1552963581;
 	unsigned long long	XL711;
 	XL711	=	-1779614040;
   unsigned int  aqLu;
@@ -146,7 +146,7 @@ int main() {
  short BgN_R8BTu;
  BgN_R8BTu = (short)1712596660;
   unsigned char  lnz5y;
-  lnz5y  =  -1053475461;
+  lnz5y  =  (unsigned char)-1053475461;
 	unsigned long	QghV;
 	QghV	=	478998147;
   double  h6w8i;

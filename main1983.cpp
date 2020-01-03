@@ -339,7 +339,7 @@ case 1:
 ZPRlliOs28 = LUZ8O_k_5W((unsigned char)1154049752, i959R42A);
 break;
 case 2:
-J7PCed6z = PNt0(339888496, Z1W85055);
+J7PCed6z = PNt0((char)339888496, Z1W85055);
 break;
 default:
 r_tP9S >>= x6bdp;
@@ -481,7 +481,7 @@ ZPRlliOs28 = LUZ8O_k_5W((unsigned char)-1787497603, ZPRlliOs28);
 break;
 case 'i':
 case 'I':
-J7PCed6z = PNt0(J7PCed6z, -1886278855);
+J7PCed6z = PNt0(J7PCed6z, (short)-1886278855);
 break;
 case 'j':
 case 'J':
@@ -564,6 +564,6 @@ char  k5g34XPV_(long  aro7v)  {
 }
 
 short	AxCQIeH(unsigned int	J9rsWSE0c,short	a_8s_7P)	{
-	return	-395548657;
+	return	(short)-395548657;
 }
 

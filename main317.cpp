@@ -21,7 +21,7 @@ int main(int argc, char** argv) {
  short int Fc8L4WB, h2t775N7, d0BSKB, nt5e2, GfHp, b685;
  Fc8L4WB = (short)-614992798;
  h2t775N7 = (short)50768399;
- d0BSKB = -1166152535;
+ d0BSKB = (short)-1166152535;
  nt5e2 = 1822711738;
  GfHp = -1751417218;
  b685 = 1192278122;
@@ -83,7 +83,7 @@ b685 = yW26QZ(b685, I7kRxwl, (char)1047837111);
 }
 else if (h2t775N7 < 865644452)
 {
-GfHp = yW26QZ((unsigned short)-147328897, GfHp, -1458649390);
+GfHp = yW26QZ((unsigned short)-147328897, GfHp, (char)-1458649390);
 }
 else if (((Fc8L4WB) || (d0BSKB < -705524297)) || (Fc8L4WB >= -60362503))
 {
@@ -152,7 +152,7 @@ nt5e2 -= GfHp;
 break;
 case 'f':
 case 'F':
-GfHp = yW26QZ((unsigned short)2021804516, (char)-1521056083, 2003746773);
+GfHp = yW26QZ((unsigned short)2021804516, (char)-1521056083, (char)2003746773);
 break;
 case 'g':
 case 'G':
@@ -261,7 +261,7 @@ case 'd':
 nt5e2 = (int)abs(Fc8L4WB);
 break;
 case 'e':
-GfHp = (lJdZjkv7Fx != -1718292921) ? (short)-166980830 : 1600043932;
+GfHp = (lJdZjkv7Fx != -1718292921) ? (short)-166980830 : (short)1600043932;
 break;
 default:
 h2t775N7 = yW26QZ(h2t775N7, -1172887753, d0BSKB);
@@ -360,7 +360,7 @@ nt5e2 = (Fc8L4WB <= -1907502605) ? (short)957876987 : (short)300427396;
 }
 else if (nt5e2 == 151939201)
 {
-b685 = yW26QZ(b685, nt5e2, -1476647871);
+b685 = yW26QZ(b685, nt5e2, (char)-1476647871);
 }
 else
 {
@@ -621,7 +621,7 @@ case 3:
 h2t775N7 = n1mOl();
 break;
 case 4:
-Fc8L4WB = yW26QZ(Fc8L4WB, b685, 1514686771);
+Fc8L4WB = yW26QZ(Fc8L4WB, b685, (char)1514686771);
 break;
 case 5:
 Fc8L4WB &= 255550525;

@@ -89,7 +89,7 @@ n94__ccS5 = pB96m((short)2143009957, -562141221, K6ozEdjsM) / i8CaMx9G;
 break;
 case 'd':
 case 'D':
-CCk48CWQ = mAVgVJC(CCk48CWQ, (short)-2096955983, -142978661);
+CCk48CWQ = mAVgVJC(CCk48CWQ, (short)-2096955983, (char)-142978661);
 break;
 case 'e':
 case 'E':

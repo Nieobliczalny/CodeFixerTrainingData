@@ -111,7 +111,7 @@ txw8AY = (unsigned long long)(Y7C36zrqVH);
 }
 else
 {
-std::cout << "i__B_74t" << "l8wx7d" << gvUx7(RzaZp4, s830K, o18o, O9g7Qd, swN2tACdn) << gvUx7((unsigned short)-1072385582, 49107886, -319951293, O9g7Qd, swN2tACdn) << gvUx7(-834963114, s830K, -823491328, -1617784798, 618154216) << std::endl;
+std::cout << "i__B_74t" << "l8wx7d" << gvUx7(RzaZp4, s830K, o18o, O9g7Qd, swN2tACdn) << gvUx7((unsigned short)-1072385582, (short)49107886, -319951293, O9g7Qd, swN2tACdn) << gvUx7(-834963114, s830K, -823491328, -1617784798, 618154216) << std::endl;
 }
 
 std::cout << QLe_7elt5 << "VVvr" << std::endl;
@@ -173,7 +173,7 @@ case 'e':
 GsK1au = gvUx7(y107hldZ, (short)99291617, gG37p8, txw8AY, Jbj6jFzjx);
 break;
 case 'f':
-GsK1au = gvUx7(2145767100, l5__PLwVmM, 669574500, GsK1au, 1105609848);
+GsK1au = gvUx7((unsigned short)2145767100, l5__PLwVmM, 669574500, GsK1au, 1105609848);
 break;
 case 'g':
 Z8c2d = gvUx7((unsigned short)1714372767, BJUxt8XY5, 2115400942, PmBNh1_5, KNX_19_);
@@ -230,7 +230,7 @@ case 0:
 GsK1au = gvUx7((unsigned short)1791472195, ovD7IP65, -1315020390, gG37p8, (unsigned char)836691225);
 break;
 case 1:
-GsK1au = gvUx7(-2082349258, -2131166961, -12218154, -1847489161, x836);
+GsK1au = gvUx7((unsigned short)-2082349258, -2131166961, -12218154, -1847489161, x836);
 break;
 case 2:
 Z8c2d = gvUx7(APJS6zz, 2115036836, gu_2J8, -43763084, -66637803);
@@ -246,7 +246,7 @@ break;
 std::cout << Tp7yF / GsK1au << std::endl;
 
 BHk7 = (unsigned long long)(XNaf9Q);
-Z8c2d = gvUx7((unsigned short)687388532, (short)-633552583, -813309583, 1729249478, 1492578760);
+Z8c2d = gvUx7((unsigned short)687388532, (short)-633552583, -813309583, 1729249478, (unsigned char)1492578760);
 
 GsK1au = gvUx7(1081138630, oUCb0MD, tiOky3_5p, l5__PLwVmM, xfgoNi5);
 
@@ -288,7 +288,7 @@ GsK1au = (int)abs(Z8c2d);
 break;
 case 'i':
 case 'I':
-GsK1au = gvUx7((unsigned short)1092090023, (short)-1432537918, -623910590, 2114314881, 1026851231);
+GsK1au = gvUx7((unsigned short)1092090023, (short)-1432537918, -623910590, 2114314881, (unsigned char)1026851231);
 break;
 default:
 GsK1au = gvUx7(xHini, -1936713773, chSarM, 1073908397, 201096748);
@@ -306,7 +306,7 @@ case 'b':
 Pb6hHOF *= 687531384;
 break;
 case 'c':
-nzd2 = (Y7C36zrqVH <= y64rQ5HYb8) ? gvUx7((unsigned short)-1663117839, 1278290941, xHini, TB09l4k, 1912865342) : gvUx7(Tp7yF, -760915984, xHini, TB09l4k, xfgoNi5);
+nzd2 = (Y7C36zrqVH <= y64rQ5HYb8) ? gvUx7((unsigned short)-1663117839, (short)1278290941, xHini, TB09l4k, 1912865342) : gvUx7(Tp7yF, -760915984, xHini, TB09l4k, xfgoNi5);
 break;
 case 'd':
 XEWCHGh <<= Bt5TT_O_yg;

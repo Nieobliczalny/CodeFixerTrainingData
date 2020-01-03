@@ -47,7 +47,7 @@ int main()
     unsigned char    J_jg;
     J_jg    =    (unsigned char)828254488;
  char Stg1i;
- Stg1i = 1349306300;
+ Stg1i = (char)1349306300;
   long  jFQWwlkty;
   jFQWwlkty  =  1003965067;
     int    IWwI5k_0;
@@ -117,7 +117,7 @@ int main()
   long long  jUA5WW1RG7;
   jUA5WW1RG7  =  239162219;
  unsigned short hUDn77Q3;
- hUDn77Q3 = 2040993986;
+ hUDn77Q3 = (unsigned short)2040993986;
  int k3o5;
  k3o5 = -464162705;
   long  QT44Mq6TV;
@@ -199,7 +199,7 @@ case 0:
 N8d4onjDFP = K5C19(1390935745, (char)1050947710, -545456292, XlaOZRNVy, (char)-11107195) & 975546820;
 break;
 case 1:
-XlaOZRNVy = E0yBp8s_h(N8d4onjDFP, gCo7EsYz3F, -719510697, -683110971) ^ X53qk2;
+XlaOZRNVy = E0yBp8s_h(N8d4onjDFP, gCo7EsYz3F, -719510697, (short)-683110971) ^ X53qk2;
 break;
 case 2:
 uK9O = K5C19(-2077656037, -1801717649, A1_8bTR4QM, LvG8U, -1650218384);
@@ -361,7 +361,7 @@ rBCwmV3 = uEP5zVe(rBCwmV3, 2022007460, (unsigned short)-237259819);
 }
 else if (M08g9 >= -1186180088)
 {
-k3o5 = jL60Ytg(k3o5, QT44Mq6TV, 1399766933, (short)238236339, -2024244210);
+k3o5 = jL60Ytg(k3o5, QT44Mq6TV, 1399766933, (short)238236339, (unsigned short)-2024244210);
 }
 else if (IWwI5k_0 != AAIHP)
 {
@@ -448,7 +448,7 @@ case 3:
 NZ5AO = (int)abs(jFQWwlkty);
 break;
 case 4:
-Vck0NQ1u_ = K5C19(N8d4onjDFP, (char)-1097586137, -632969601, -802070299, -1680287890);
+Vck0NQ1u_ = K5C19(N8d4onjDFP, (char)-1097586137, -632969601, -802070299, (char)-1680287890);
 break;
 case 5:
 GL07 = (int)ceil(LvG8U);
@@ -491,7 +491,7 @@ break;
 
 if (o1_iQ == 1648549982)
 {
-std::cout << E0yBp8s_h(-147451040, (unsigned short)987766343, -85694040, -979030653) << k5UVC_z8F(hUDn77Q3, K3CYH9, -207270449, f85eNB4uc, Stg1i) << k5UVC_z8F(1206786838, K3CYH9, 1919419012, -1306731212, 640007053) << E0yBp8s_h(hUDn77Q3, K3CYH9, whvEG, -1533054239) << std::endl;
+std::cout << E0yBp8s_h(-147451040, (unsigned short)987766343, -85694040, (short)-979030653) << k5UVC_z8F(hUDn77Q3, K3CYH9, -207270449, f85eNB4uc, Stg1i) << k5UVC_z8F(1206786838, K3CYH9, 1919419012, -1306731212, 640007053) << E0yBp8s_h(hUDn77Q3, K3CYH9, whvEG, -1533054239) << std::endl;
 }
 else if (o1_iQ < 1189109749)
 {
@@ -578,7 +578,7 @@ case 5:
 QT44Mq6TV = (X53qk2 <= -1157395123) ? 2041215608 : uEP5zVe(jUA5WW1RG7, VYiIziguj, GL07);
 break;
 case 6:
-xf7b6 = jL60Ytg(115040441, Yd24mU, T32mG4002, -61204027, -1689254665);
+xf7b6 = jL60Ytg(115040441, Yd24mU, T32mG4002, (short)-61204027, -1689254665);
 break;
 case 7:
 QT44Mq6TV = (int)abs(X2pnl);

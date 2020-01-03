@@ -89,7 +89,7 @@ k++;
 }
 }
 }
-uGB5 = X32rQed(-1091627600, c_r7bBuEl, 1393657960, WTyf, -846848332);
+uGB5 = X32rQed(-1091627600, c_r7bBuEl, (unsigned char)1393657960, WTyf, -846848332);
 
 for (int i = 9; i >= 0; i--)
 {
@@ -348,7 +348,7 @@ case 2:
 p3k265W8 = X32rQed(p3k265W8, -81757046, (unsigned char)-1468487797, 426600881, BTu38);
 break;
 case 3:
-Lh57L3 = X32rQed(1824646992, l01ys_z, (unsigned char)965774693, -672115714, -1914718516);
+Lh57L3 = X32rQed(1824646992, l01ys_z, (unsigned char)965774693, -672115714, (char)-1914718516);
 break;
 default:
 L34_1 <<= 43826476;
@@ -362,7 +362,7 @@ uGB5 = qWE4igce(uGB5, (short)-17260463, Mchs797);
 }
 
 PDl6 = X32rQed(uGB5, uv6V2nu6, Mchs797, BLUWq1f3f, Lh57L3) / VIqoG_5dW;
-std::cout << Q8H170 << X32rQed(uGB5, -1487981434, (unsigned char)-1807780670, BLUWq1f3f, 337743915) << "L65O" << std::endl;
+std::cout << Q8H170 << X32rQed(uGB5, -1487981434, (unsigned char)-1807780670, BLUWq1f3f, (char)337743915) << "L65O" << std::endl;
 
 L34_1 = (short int)(gdFOd_z6);
 

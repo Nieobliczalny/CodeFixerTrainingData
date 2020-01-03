@@ -27,7 +27,7 @@ int main(void)
  long long T696M;
  T696M = 45975845;
   short int  TCK498117;
-  TCK498117  =  -981896127;
+  TCK498117  =  (short)-981896127;
 	unsigned short int	aAc0;
 	aAc0	=	(unsigned short)1302821622;
 	unsigned short int	r4i6flarw;

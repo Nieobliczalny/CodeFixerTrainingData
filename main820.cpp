@@ -67,7 +67,7 @@ LxseR4e_v4 = H2c0(-455784232, HdfD7tP6, aq_lI, 979295757);
 
 for (int i = 0; i < 1; ++i)
 {
-std::cout << ZM8TuPU3 << "OxDxLl6_S4" << H2c0((unsigned short)1753847133, (char)253325682, aq_lI, -35708393) << H2c0(LxseR4e_v4, -1948237191, aq_lI, WN5U_dD) << r3uAtW05up << std::endl;
+std::cout << ZM8TuPU3 << "OxDxLl6_S4" << H2c0((unsigned short)1753847133, (char)253325682, aq_lI, -35708393) << H2c0(LxseR4e_v4, (char)-1948237191, aq_lI, WN5U_dD) << r3uAtW05up << std::endl;
 }
 
 if (vd2DAt4kRA != -554248452)
@@ -89,7 +89,7 @@ else
 Q_8eNYFsG = H2c0((unsigned short)-837735040, (char)-1321039728, -1293827379, -1866585335);
 }
 
-if (Y_O37i1_(Q_8eNYFsG, WW4X3_, Xqa5l6, 1578945805, -109202459) == 0)
+if (Y_O37i1_(Q_8eNYFsG, WW4X3_, Xqa5l6, (short)1578945805, -109202459) == 0)
 {
 	SRgtAR = -372042746 / Y_O37i1_(Q_8eNYFsG, WW4X3_, Xqa5l6, 1578945805, -109202459);
 }
@@ -155,7 +155,7 @@ else if (aq_lI & -1532944376)
 switch (hClRr)
 {
 case 0:
-G3Ze7VSUB_ = Y_O37i1_(P7i5eYwY, (unsigned short)-1390370844, -1874537125, -66619135, d9BG9_W);
+G3Ze7VSUB_ = Y_O37i1_(P7i5eYwY, (unsigned short)-1390370844, (unsigned short)-1874537125, -66619135, d9BG9_W);
 break;
 case 1:
 vn5e -= UMrJG9fZ;
@@ -176,7 +176,7 @@ case 6:
 iyG19rU++;
 break;
 case 7:
-Q_8eNYFsG = H2c0((unsigned short)1848406157, 1077436844, -1469179616, -908418093) * 1460476622;
+Q_8eNYFsG = H2c0((unsigned short)1848406157, (char)1077436844, -1469179616, -908418093) * 1460476622;
 break;
 case 8:
 U4EHJ = H2c0((unsigned short)-581479300, K_9gv, ZXw83yW, e95M8K_0);
@@ -219,7 +219,7 @@ else if ((HdfD7tP6 >= -1489786739) || (Na6UMRSw))
 {
 try
 {
-XLdd7Xc = Y_O37i1_((char)1092657359, sf1H_S, (unsigned short)758419017, -813245803, -1009195099);
+XLdd7Xc = Y_O37i1_((char)1092657359, sf1H_S, (unsigned short)758419017, (short)-813245803, -1009195099);
 }
 catch (int& errorCode)
 {
@@ -316,7 +316,7 @@ case 'c':
 VT8__g = pkIN1j1 / R08POJ;
 break;
 case 'd':
-T6l7n984 = Y_O37i1_((char)731816978, (unsigned short)-1520147500, -2056139546, Er81, Oazau) / 318679932;
+T6l7n984 = Y_O37i1_((char)731816978, (unsigned short)-1520147500, (unsigned short)-2056139546, Er81, Oazau) / 318679932;
 break;
 case 'e':
 i5sfJS1_1 = BzE3 >> 1520581369;

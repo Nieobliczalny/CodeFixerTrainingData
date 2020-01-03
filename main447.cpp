@@ -370,6 +370,6 @@ unsigned short	hq6gqn(unsigned short	mVs_dx88,unsigned short int	l22N9q1K,long l
 
 unsigned short    UGK6boIQG1(long long    Lny9,unsigned long    sva6,unsigned long long    M9K37)
 {
-    return    1804660073;
+    return    (unsigned short)1804660073;
 }
 

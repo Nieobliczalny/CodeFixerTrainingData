@@ -46,7 +46,7 @@ if (VS3Z == VXHF72)
 {
 VXHF72 = y0GO1x((short)-1216910138, (short)1638473397);
 }
-VXHF72 = y0GO1x(553965986, -1309482122);
+VXHF72 = y0GO1x((short)553965986, -1309482122);
 v1gp3p_ = N0o02Lf4_C(v1gp3p_, -1950771909, VS3Z, 2109232690, u_q7ulw4uZ);
 if (u_q7ulw4uZ != VS3Z)
 {
@@ -82,7 +82,7 @@ else
 {
 cout << pJdf() << VS3Z << "e_sD" << endl;
 }
-cout << y0GO1x((short)-986665286, VS3Z) << djj_M((short)-601885716, VS3Z, -2023323622) << pJdf() << VXHF72 << pJdf() << endl;
+cout << y0GO1x((short)-986665286, VS3Z) << djj_M((short)-601885716, VS3Z, (unsigned short)-2023323622) << pJdf() << VXHF72 << pJdf() << endl;
 {
 int i = 0;
 while (i < 4)
@@ -155,7 +155,7 @@ OXl8spcWiZ = N0o02Lf4_C(VXHF72, -2104199273, (unsigned short)-1195346223, -79632
 }
 else
 {
-VXHF72 = y0GO1x((short)-1841825305, 1926062846);
+VXHF72 = y0GO1x((short)-1841825305, (short)1926062846);
 }
 }
 }
@@ -223,7 +223,7 @@ else if (((OXl8spcWiZ != -2124855685) && (u_q7ulw4uZ >= -1361222420)) && ((u_q7u
 {
 if (VS3Z <= OXl8spcWiZ)
 {
-VS3Z = N0o02Lf4_C((unsigned char)-1359136043, 337205678, (unsigned short)-1761580505, u_q7ulw4uZ, 2127658223);
+VS3Z = N0o02Lf4_C((unsigned char)-1359136043, 337205678, (unsigned short)-1761580505, u_q7ulw4uZ, (unsigned short)2127658223);
 }
 else
 {
@@ -332,7 +332,7 @@ case 'D':
 u_q7ulw4uZ = (int)abs(OXl8spcWiZ);
 break;
 default:
-VXHF72 = NR6B(736770690, 969175713, -1949749151, VS3Z);
+VXHF72 = NR6B((short)736770690, 969175713, -1949749151, VS3Z);
 break;
 }
 if (VS3Z)
@@ -435,7 +435,7 @@ OXl8spcWiZ = (int)abs(VXHF72) * 0;
 }
 else
 {
-u_q7ulw4uZ = N0o02Lf4_C((unsigned char)-289152084, u_q7ulw4uZ, (unsigned short)1968559338, v1gp3p_, -2083771590);
+u_q7ulw4uZ = N0o02Lf4_C((unsigned char)-289152084, u_q7ulw4uZ, (unsigned short)1968559338, v1gp3p_, (unsigned short)-2083771590);
 }
 }
 }
@@ -548,7 +548,7 @@ case 0:
 VXHF72 = OXl8spcWiZ ^ 613571139;
 break;
 case 1:
-VXHF72 = y0GO1x(OXl8spcWiZ, -64067864);
+VXHF72 = y0GO1x(OXl8spcWiZ, (short)-64067864);
 break;
 case 2:
 v1gp3p_ = (int)abs(VS3Z);
@@ -563,7 +563,7 @@ case 5:
 VXHF72 = OXl8spcWiZ * 2058524103;
 break;
 default:
-VXHF72 = djj_M((short)565348031, 51251244, VS3Z);
+VXHF72 = djj_M((short)565348031, (unsigned short)51251244, VS3Z);
 break;
 }
 return 0;

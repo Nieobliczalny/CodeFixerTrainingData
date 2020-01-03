@@ -23,7 +23,7 @@ kBn9S3E >>= 1032957645;
 D69c0 = (unsigned char)(d1722DHc_D);
 try
 {
-std::cout << o17W8 << HUBPGYd(-1047156187, 721976217, -820192694, -344327035) << std::endl;
+std::cout << o17W8 << HUBPGYd(-1047156187, 721976217, -820192694, (unsigned short)-344327035) << std::endl;
 }
 catch (int& errorCode)
 {

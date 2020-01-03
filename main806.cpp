@@ -271,7 +271,7 @@ MLkXHK = uCpk((char)2084635379, -328560304, (short)1847065262, i0L_PI5);
 }
 else
 {
-w82B = uCpk(w82B, 1252888596, -314812375, 927923711);
+w82B = uCpk(w82B, 1252888596, (short)-314812375, 927923711);
 }
 }
 while (j >= 0);
@@ -483,7 +483,7 @@ case 'g':
 IG_Y = uCpk((char)-1151857732, euzyT, GbaN0, F88r0kP);
 break;
 case 'h':
-Ni8kH31H = uCpk((char)-1709254286, MLkXHK, -527339406, d_HLD8A);
+Ni8kH31H = uCpk((char)-1709254286, MLkXHK, (short)-527339406, d_HLD8A);
 break;
 case 'i':
 bBtY_ = RFi1() ^ M97PuOTG;
@@ -533,7 +533,7 @@ while (i < 9);
 int i = 8;
 do
 {
-cout << uCpk((char)-1087502184, -1890976092, (short)51875472, -1013573654) << uCpk(1853567339, jaTB76bohO, JFES_L, 1304491455) << endl;
+cout << uCpk((char)-1087502184, -1890976092, (short)51875472, -1013573654) << uCpk((char)1853567339, jaTB76bohO, JFES_L, 1304491455) << endl;
 --i;
 }
 while (i >= 0);

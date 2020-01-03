@@ -176,7 +176,7 @@ for (int j = 6; j >= 0; --j)
 {
 if (Mz1A5DQ7L0 < 2001606230)
 {
-Od8N4zf = IusDGkB8_((unsigned short)-2080136775, (unsigned char)-338327509, -325683172, N6u_Q63A9, B6n5h_bE9);
+Od8N4zf = IusDGkB8_((unsigned short)-2080136775, (unsigned char)-338327509, (unsigned char)-325683172, N6u_Q63A9, B6n5h_bE9);
 }
 else if (v9VNI22m5)
 {

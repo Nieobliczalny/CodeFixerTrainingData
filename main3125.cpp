@@ -38,7 +38,7 @@ int main()
  float Pef8O52SG_ = 1385701507;
 	unsigned short	ISyX	=	(unsigned short)1476451325;
  long double Y3b5 = -213462246;
- short int mJ81Z33__Q = -1275208789;
+ short int mJ81Z33__Q = (short)-1275208789;
   unsigned long  RrNmU_ma  =  -16178670;
 	unsigned short	Da1a3p	=	-402082960;
   unsigned long long  Up71CeVy  =  2078787337;
@@ -58,7 +58,7 @@ int main()
  long long G0z1AnH1ig = 403241134;
     long long    LOso    =    -498052537;
   unsigned long  d68euBCIud  =  -1280787331;
-	unsigned short int	s404	=	223421074;
+	unsigned short int	s404	=	(unsigned short)223421074;
  long long BBn7l = -725682319;
     unsigned short    qPsF5__    =    (unsigned short)1321272754;
   long long  T_estBx0  =  0;
@@ -147,7 +147,7 @@ case 2:
 Y3b5 = (int)floor(htGI);
 break;
 case 3:
-Da1a3p = acLB7e9h(-240277951, (unsigned short)1781220327, 1481200075);
+Da1a3p = acLB7e9h(-240277951, (unsigned short)1781220327, (unsigned short)1481200075);
 break;
 }
 }
@@ -274,7 +274,7 @@ G0z1AnH1ig += kSRu7Bw;
 
 if (((SuCAPs) && (qPsF5__ != -342853594)) && (H6UNPVH2BV == 1838951879))
 {
-std::cout << acLB7e9h(1377359199, sj0R9AL, X3_y8m) << acLB7e9h(1642346311, sj0R9AL, (unsigned short)416045127) << "SVtb6w" << MI59(Y3b5, (unsigned short)96627558, X3_y8m, 109157862, h5u69) << Up71CeVy << std::endl;
+std::cout << acLB7e9h(1377359199, sj0R9AL, X3_y8m) << acLB7e9h(1642346311, sj0R9AL, (unsigned short)416045127) << "SVtb6w" << MI59(Y3b5, (unsigned short)96627558, X3_y8m, (unsigned char)109157862, h5u69) << Up71CeVy << std::endl;
 }
 Pef8O52SG_ = (float)(X3_y8m);
 SuCAPs = x7f2k7ilYA / H6UNPVH2BV;
@@ -311,7 +311,7 @@ case 'g':
 Up71CeVy = acLB7e9h(Up71CeVy, (unsigned short)248374417, Ls0RW1z13);
 break;
 case 'h':
-uQZ72 = acLB7e9h(-1955572731, (unsigned short)-1090896595, -1696182613);
+uQZ72 = acLB7e9h(-1955572731, (unsigned short)-1090896595, (unsigned short)-1696182613);
 break;
 case 'i':
 GJXCq64Uk <<= BBn7l;
@@ -427,7 +427,7 @@ case 2:
 BBn7l %= G0z1AnH1ig;
 break;
 case 3:
-GJXCq64Uk = MI59(-712173398, 1207683418, T_estBx0, 1610745858, x17GO6_r);
+GJXCq64Uk = MI59(-712173398, (unsigned short)1207683418, T_estBx0, 1610745858, x17GO6_r);
 break;
 default:
 htGI = (int)ceil(Y3b5);
@@ -568,7 +568,7 @@ Up71CeVy = MI59(-12205431, (unsigned short)-957747258, 922662149, (unsigned char
 }
 else if (Up71CeVy < -545894926)
 {
-std::cout << MI59(Up71CeVy, -642375543, JkkD63HiN, 680003599, H6UNPVH2BV) << mJ81Z33__Q << std::endl;
+std::cout << MI59(Up71CeVy, (unsigned short)-642375543, JkkD63HiN, 680003599, H6UNPVH2BV) << mJ81Z33__Q << std::endl;
 }
 else if (htGI > M1EVADeR)
 {

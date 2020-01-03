@@ -46,7 +46,7 @@ int main(void) {
  long long h9KX3;
  h9KX3 = 1955791686;
 	unsigned char	MPHmigkKD;
-	MPHmigkKD	=	1895237278;
+	MPHmigkKD	=	(unsigned char)1895237278;
     short int    klUC;
     klUC    =    (short)-1116576170;
     char    q6i0y4;
@@ -64,7 +64,7 @@ int main(void) {
   unsigned short  tJWkBuV1Cl;
   tJWkBuV1Cl  =  (unsigned short)1860566492;
   unsigned short  D_X5;
-  D_X5  =  -830126812;
+  D_X5  =  (unsigned short)-830126812;
   unsigned char  J1wp7F92;
   J1wp7F92  =  1831552436;
   unsigned long long  u_PV;
@@ -106,7 +106,7 @@ I19r5js = cY9Y9890O((unsigned short)-304127369, (unsigned short)998245742);
 break;
 case 'c':
 case 'C':
-F6VSk7x = cY9Y9890O(614182670, -1627962292);
+F6VSk7x = cY9Y9890O((unsigned short)614182670, -1627962292);
 break;
 case 'd':
 case 'D':
@@ -224,7 +224,7 @@ tJWkBuV1Cl = (unsigned short)(I19r5js);
 
 if (F6VSk7x < 1383079708)
 {
-cout << cY9Y9890O((unsigned short)1045986908, -141609970) << endl;
+cout << cY9Y9890O((unsigned short)1045986908, (unsigned short)-141609970) << endl;
 }
 
 Mt_8M0 = (int)abs(xbC7);
@@ -237,7 +237,7 @@ int j = 2;
 do
 {
 --j;
-cout << cY9Y9890O(D_X5, X_AxX) << Wx7B23HsZA((short)1315795553, X_AxX, luGrBq5, 328422300, CaRcZ2nE) << f1EZ1(D_X5) << cY9Y9890O(D_X5, X_AxX) << endl;
+cout << cY9Y9890O(D_X5, X_AxX) << Wx7B23HsZA((short)1315795553, X_AxX, luGrBq5, (short)328422300, CaRcZ2nE) << f1EZ1(D_X5) << cY9Y9890O(D_X5, X_AxX) << endl;
 }
 while (j >= 0);
 }
@@ -343,7 +343,7 @@ ZG_u7 = (int)floor(xbC7);
 break;
 case 'i':
 case 'I':
-Q129w5kx78 = Wx7B23HsZA(-1443350228, luGrBq5, 1066739935, ZG_u7, CaRcZ2nE);
+Q129w5kx78 = Wx7B23HsZA((short)-1443350228, luGrBq5, 1066739935, ZG_u7, CaRcZ2nE);
 break;
 }
 

@@ -37,7 +37,7 @@ int main(int argc, char** argv)
   unsigned int  BLDT47  =  0;
   unsigned long  Joj29U9v  =  -209547683;
     char    ur81AP_    =    (char)1764106057;
-  short int  O52sq  =  1429038361;
+  short int  O52sq  =  (short)1429038361;
   float  Rp99X  =  -466334342;
   unsigned int  Sl2I61u  =  1093576784;
   unsigned short  CWV1  =  0;
@@ -54,7 +54,7 @@ int main(int argc, char** argv)
     unsigned long long    bI__9u5_SX    =    1647404078;
 	unsigned short int	ay_435W8BK	=	(unsigned short)1790537904;
   int  v0uWk3wJDp  =  0;
-	unsigned short int	X1p_TG	=	-2044276691;
+	unsigned short int	X1p_TG	=	(unsigned short)-2044276691;
     unsigned short    Y2A20602    =    1707772221;
 
 switch (ay_435W8BK)
@@ -282,7 +282,7 @@ case 'a':
 v0uWk3wJDp = EbQ70s((unsigned short)-914866665);
 break;
 case 'b':
-FVD_IH7 = j31OA_K4L((short)-551489182, FVD_IH7, -45289789, MO763vo);
+FVD_IH7 = j31OA_K4L((short)-551489182, FVD_IH7, (unsigned char)-45289789, MO763vo);
 break;
 case 'c':
 Y2A20602 = pHP_Z(763123018, Rp99X, Sl2I61u, 1093175814);

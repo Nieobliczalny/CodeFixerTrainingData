@@ -39,7 +39,7 @@ int main(void) {
   int  iq4lmZ;
   iq4lmZ  =  1091662649;
  short int Bcyc2VH;
- Bcyc2VH = 1623862623;
+ Bcyc2VH = (short)1623862623;
  unsigned short int E9g5;
  E9g5 = (unsigned short)593238095;
  unsigned long long xSG_HNu9bG;
@@ -57,7 +57,7 @@ int main(void) {
     short    W622;
     W622    =    (short)-329485931;
   short int  D1Jf2hn4s;
-  D1Jf2hn4s  =  -1318114275;
+  D1Jf2hn4s  =  (short)-1318114275;
  char QJ4O74op;
  QJ4O74op = 1442423700;
  long V0tEJ;
@@ -73,7 +73,7 @@ int main(void) {
 	long double	uRP1;
 	uRP1	=	-777909763;
 	char	MQt_N;
-	MQt_N	=	-304272366;
+	MQt_N	=	(char)-304272366;
     long    UgF_v;
     UgF_v    =    -360387456;
     char    hZlOvv5;
@@ -97,7 +97,7 @@ int main(void) {
     short int    v5Vz9HuYn;
     v5Vz9HuYn    =    (short)-2088818291;
 	unsigned short	afWuM;
-	afWuM	=	-42831728;
+	afWuM	=	(unsigned short)-42831728;
 	unsigned int	Aa5ya8E5j;
 	Aa5ya8E5j	=	-982734700;
 	long	bsP40f2jI;
@@ -107,7 +107,7 @@ int main(void) {
  unsigned char S3dE34o;
  S3dE34o = (unsigned char)446889892;
 	unsigned short	Ne1500z6q;
-	Ne1500z6q	=	-1191358599;
+	Ne1500z6q	=	(unsigned short)-1191358599;
 
 std::cout << HdF90r(p8Bjt, hZlOvv5, -265987043, V0tEJ) << hZlOvv5 << afWuM << AWm_H(-1024278291, 164163073) << std::endl;
 

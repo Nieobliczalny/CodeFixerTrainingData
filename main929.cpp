@@ -96,7 +96,7 @@ int main()
 	float	gxH1O3O;
 	gxH1O3O	=	-962385172;
  short tn3NA7L;
- tn3NA7L = 149923246;
+ tn3NA7L = (short)149923246;
     long long    B743F7yf;
     B743F7yf    =    -1374673017;
 	short	LYFshd;
@@ -110,7 +110,7 @@ int main()
  char XadZ;
  XadZ = (char)-585040971;
   unsigned char  wJ612q;
-  wJ612q  =  -1273027714;
+  wJ612q  =  (unsigned char)-1273027714;
   long  TIfJ0mHw;
   TIfJ0mHw  =  -1917695717;
   long  p_0zD9H26v;
@@ -140,7 +140,7 @@ int main()
  unsigned char fqd1do0L;
  fqd1do0L = (unsigned char)-1624846944;
   unsigned short int  w6B8d;
-  w6B8d  =  -929841418;
+  w6B8d  =  (unsigned short)-929841418;
 	unsigned long	g3aWz;
 	g3aWz	=	1907779025;
   char  kauk4CLK;

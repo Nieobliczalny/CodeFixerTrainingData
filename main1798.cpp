@@ -24,7 +24,7 @@ int main()
  unsigned short sZ1_N31H;
  sZ1_N31H = (unsigned short)648712768;
 	unsigned short int	zXg9F;
-	zXg9F	=	-16143305;
+	zXg9F	=	(unsigned short)-16143305;
  unsigned long long Pc54k5Ao;
  Pc54k5Ao = 1412295145;
 	int	B9Ef;
@@ -44,7 +44,7 @@ int main()
 	char	srvnTU7;
 	srvnTU7	=	(char)1495129000;
  char Am196;
- Am196 = 144342516;
+ Am196 = (char)144342516;
     int    n06ALAH;
     n06ALAH    =    -1255935443;
   short int  oTb0BZW89;
@@ -66,7 +66,7 @@ int main()
  short int kKyjssMsHm;
  kKyjssMsHm = (short)-71098435;
     unsigned short    L0iUC_3m2;
-    L0iUC_3m2    =    -783201164;
+    L0iUC_3m2    =    (unsigned short)-783201164;
  unsigned long G905;
  G905 = 1555405017;
   unsigned long  x95C1;
@@ -86,7 +86,7 @@ int main()
  long long WzC2V;
  WzC2V = -217235077;
  unsigned short int E46uv7;
- E46uv7 = 1107115762;
+ E46uv7 = (unsigned short)1107115762;
     unsigned long long    C74Gv_E89;
     C74Gv_E89    =    -583906403;
  long long v3GeN_f8r;
@@ -130,7 +130,7 @@ int main()
  unsigned short f3TybV9;
  f3TybV9 = (unsigned short)1178065515;
     unsigned short    iH64m7au6v;
-    iH64m7au6v    =    -1128134958;
+    iH64m7au6v    =    (unsigned short)-1128134958;
     long double    dQH707ekI;
     dQH707ekI    =    800907018;
  unsigned short IetxCd;
@@ -142,7 +142,7 @@ int main()
   int  uA6PJL6l88;
   uA6PJL6l88  =  -1168704179;
 	unsigned short int	Ev__63F;
-	Ev__63F	=	-719592924;
+	Ev__63F	=	(unsigned short)-719592924;
   short int  gsDj4NV65;
   gsDj4NV65  =  -242134961;
   long double  LKkNLQ5k;
@@ -168,7 +168,7 @@ int main()
     int    Qqx4IK8F;
     Qqx4IK8F    =    593961174;
 	short	PE5B_wfc_4;
-	PE5B_wfc_4	=	-936052617;
+	PE5B_wfc_4	=	(short)-936052617;
  unsigned long ufw906j;
  ufw906j = 488382269;
  long long pe0c;
@@ -190,7 +190,7 @@ int main()
     unsigned long long    u2m8m;
     u2m8m    =    1191112076;
   short int  Z039tT33;
-  Z039tT33  =  -1872143374;
+  Z039tT33  =  (short)-1872143374;
  short V12OUKcf69;
  V12OUKcf69 = (short)-1639844544;
   int  v5l8ls;
@@ -210,7 +210,7 @@ int main()
   char  o_v1S40Y_;
   o_v1S40Y_  =  (char)1903138730;
  unsigned short L568Fc;
- L568Fc = -1694719850;
+ L568Fc = (unsigned short)-1694719850;
  int q_JYXj;
  q_JYXj = -786501009;
  unsigned short int ev2UH3z2A;

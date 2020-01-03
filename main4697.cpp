@@ -50,7 +50,7 @@ while (i < 4);
 }
 
 HrgapR = (unsigned char)(q1896l29);
-W186dc = cJJb7_7U7c(2013027830, prtVU);
+W186dc = cJJb7_7U7c((short)2013027830, prtVU);
 for (int i = 7; i >= 0; i--)
 {
 W186dc += XV03;
@@ -91,7 +91,7 @@ W186dc = (unsigned char)(HrgapR + (-1882023526));
 }
 else if (W186dc & -654393324)
 {
-W186dc = cJJb7_7U7c(-2084427053, 1274458910);
+W186dc = cJJb7_7U7c((short)-2084427053, 1274458910);
 }
 else
 {
@@ -106,7 +106,7 @@ while (k >= 0);
 }
 }
 }
-W186dc = cJJb7_7U7c(-60361670, q1896l29);
+W186dc = cJJb7_7U7c((short)-60361670, q1896l29);
 
 for (int i = 0; i < 7; i++)
 {

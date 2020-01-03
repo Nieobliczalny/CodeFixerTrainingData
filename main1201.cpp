@@ -132,7 +132,7 @@ xQPdh8 = YdVVzit4N(xQPdh8, (short)1108940980, (short)-2141089060, mOW19L6i2, b6c
 break;
 }
 
-cout << YdVVzit4N(192162801, -1638543351, YOj4V2B_0f, mOW19L6i2, b6cU) << endl;
+cout << YdVVzit4N(192162801, (short)-1638543351, YOj4V2B_0f, mOW19L6i2, b6cU) << endl;
 G6Rb = (float)(mOW19L6i2 + (411291606));
 cout << ico6(-2108865604, v_5hEJ1e9) << YdVVzit4N(2147119833, 1413034917, YOj4V2B_0f, mOW19L6i2, -612280520) << xQPdh8 << endl;
 if (GMN0 >= EJoC91g34)
@@ -200,7 +200,7 @@ case 3:
 BB33Z_ = (int)floor(zi_7);
 break;
 case 4:
-CLKgt = YdVVzit4N(243680874, (short)-1224143644, bDDKsgMG, (char)-680780903, -1731283673);
+CLKgt = YdVVzit4N(243680874, (short)-1224143644, bDDKsgMG, (char)-680780903, (short)-1731283673);
 break;
 case 5:
 rJ42 = S2zr1vZ92X(U7SnE, AL76T98);
@@ -216,7 +216,7 @@ switch (mOW19L6i2)
 {
 case 'a':
 case 'A':
-CLKgt = YdVVzit4N(CLKgt, (short)-968729563, (short)-1701993666, 306421806, -287403994);
+CLKgt = YdVVzit4N(CLKgt, (short)-968729563, (short)-1701993666, (char)306421806, -287403994);
 break;
 case 'b':
 case 'B':
@@ -246,7 +246,7 @@ zW2_ = (int)floor(AL76T98);
 break;
 case 'c':
 case 'C':
-nn0K6 = YdVVzit4N(739511718, (short)-856096899, pjEImV, (char)-243402981, -687529299);
+nn0K6 = YdVVzit4N(739511718, (short)-856096899, pjEImV, (char)-243402981, (short)-687529299);
 break;
 case 'd':
 case 'D':

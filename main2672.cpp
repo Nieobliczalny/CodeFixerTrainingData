@@ -39,7 +39,7 @@ L_I7JNtfrd = nhSEHa / 1611381889;
 }
 else if (EV7K9cl6k)
 {
-sBzCGnjh8 = T7VcE_Ju(-1543715327, n55ikws, 643157131, nLUT7Zra, 1268152416);
+sBzCGnjh8 = T7VcE_Ju(-1543715327, n55ikws, (unsigned char)643157131, nLUT7Zra, 1268152416);
 }
 else if ((J4706U48z < -706252617) || (GB0Zd < CB9U))
 {
@@ -51,7 +51,7 @@ sBzCGnjh8 = T7VcE_Ju(1764719491, MKuEO_ac, hnXXJ1, -483648013, TvTGlceT);
 }
 else if (cTi1u_5 != L6WsRM_)
 {
-sBzCGnjh8 = T7VcE_Ju(-601435452, UwpcYi, m9PEqKd1sM, 1670016731, Nz3j);
+sBzCGnjh8 = T7VcE_Ju(-601435452, UwpcYi, m9PEqKd1sM, (short)1670016731, Nz3j);
 }
 else
 {
@@ -236,7 +236,7 @@ case 2:
 t6N0343eSy = TvTGlceT * W_csdcb;
 break;
 case 3:
-Nz3j = (OAig1Ii & 1513759544) ? T7VcE_Ju(-124126735, CB9U, b_f2g6, VwwtiFrd4q, X1j3G) : 770027624;
+Nz3j = (OAig1Ii & 1513759544) ? T7VcE_Ju(-124126735, CB9U, b_f2g6, VwwtiFrd4q, X1j3G) : (unsigned short)770027624;
 break;
 }
 }
@@ -302,7 +302,7 @@ sBzCGnjh8 = T7VcE_Ju(OAig1Ii, -876064571, (unsigned char)-217572288, (short)1761
 }
 else if (L6WsRM_ == rJRTITB7)
 {
-sBzCGnjh8 = T7VcE_Ju(MKuEO_ac, 429827764, nhSEHa, 1159434917, Ab2hA20k);
+sBzCGnjh8 = T7VcE_Ju(MKuEO_ac, 429827764, nhSEHa, (short)1159434917, Ab2hA20k);
 }
 else if (ZX1ZG & W_csdcb)
 {
@@ -318,7 +318,7 @@ sBzCGnjh8 = T7VcE_Ju(t6N0343eSy, -931299295, W4Qj, qMD6751vqE, q_ZHDfiewU);
 }
 else
 {
-sBzCGnjh8 = T7VcE_Ju(-637365591, EV7K9cl6k, k0Mpg_3K, 1249111496, nhSEHa);
+sBzCGnjh8 = T7VcE_Ju(-637365591, EV7K9cl6k, k0Mpg_3K, (short)1249111496, nhSEHa);
 }
 }
 else
@@ -397,7 +397,7 @@ case 2:
 sBzCGnjh8 = T7VcE_Ju(zsOY8, 1613693033, hnXXJ1, (short)-203452235, J4706U48z);
 break;
 case 3:
-sBzCGnjh8 = T7VcE_Ju(W2c63Q33JR, 921954739, -2075001707, IWmceQ, o1nnI);
+sBzCGnjh8 = T7VcE_Ju(W2c63Q33JR, 921954739, (unsigned char)-2075001707, IWmceQ, o1nnI);
 break;
 case 4:
 J4706U48z = T7VcE_Ju(W2c63Q33JR, 1414254001, xpoq_6, IWmceQ, o1nnI) | Nz3j;
@@ -453,7 +453,7 @@ case 0:
 sBzCGnjh8 = T7VcE_Ju(205123650, -935495561, (unsigned char)-1095534482, YcMb76b6E, -156893519);
 break;
 case 1:
-YcMb76b6E = T7VcE_Ju(Ywf_Rc, 1210531001, (unsigned char)-1596044637, -1097342367, -612345747) / 1371988262;
+YcMb76b6E = T7VcE_Ju(Ywf_Rc, 1210531001, (unsigned char)-1596044637, (short)-1097342367, -612345747) / 1371988262;
 break;
 case 2:
 sBzCGnjh8 = T7VcE_Ju(VwwtiFrd4q, -57756215, 1905157877, Ab2hA20k, qa4a83g);

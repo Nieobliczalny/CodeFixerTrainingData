@@ -100,7 +100,7 @@ case 0:
 E_W68gYXf = j1Y9yStf(E_W68gYXf, 1855288888, (unsigned short)1258318416);
 break;
 case 1:
-uy9Qt7 = HtWP6((unsigned short)705505243, EjN2YzL5F, -861108434, 1469874004, -202303869);
+uy9Qt7 = HtWP6((unsigned short)705505243, EjN2YzL5F, (char)-861108434, 1469874004, -202303869);
 break;
 case 2:
 sjY0 = yhDl5NpB | 498677676;
@@ -115,7 +115,7 @@ case 5:
 zsIqgP9dh = XKsurT48();
 break;
 case 6:
-Qmt26 = HtWP6((unsigned short)1655170686, -468947752, (char)-642743891, 249539705, DiHkC8j);
+Qmt26 = HtWP6((unsigned short)1655170686, -468947752, (char)-642743891, (char)249539705, DiHkC8j);
 break;
 }
 }
@@ -136,7 +136,7 @@ if ((E_W68gYXf <= MQ9Cv1I__6) && (C5vhPN9if >= PRJ5zICF7c))
 switch (I2i32ndQ)
 {
 case 'a':
-JO0c = HtWP6((unsigned short)1673201150, EjN2YzL5F, (char)547118419, 1331686454, 1077384778);
+JO0c = HtWP6((unsigned short)1673201150, EjN2YzL5F, (char)547118419, (char)1331686454, 1077384778);
 break;
 case 'b':
 F3z_H = (int)abs(EjN2YzL5F);
@@ -374,7 +374,7 @@ case 'f':
 Y1LAEpf = XKsurT48();
 break;
 case 'g':
-wRR3 = HtWP6((unsigned short)2119151199, Y1LAEpf, 246384255, EKyN2t0y, 1535094052);
+wRR3 = HtWP6((unsigned short)2119151199, Y1LAEpf, (char)246384255, EKyN2t0y, 1535094052);
 break;
 case 'h':
 wRR3 += zK2RjK81;
@@ -395,7 +395,7 @@ W5n_5F2L = HtWP6(IQ1A817T12, wdxWsh3, S9a4, tyWfr5l, -419462822) - 1434652495;
 }
 else
 {
-C5vhPN9if = HtWP6((unsigned short)-391444927, 1580721250, (char)-2049276790, 439512305, h4m_OHM);
+C5vhPN9if = HtWP6((unsigned short)-391444927, 1580721250, (char)-2049276790, (char)439512305, h4m_OHM);
 }
 
 if (za5JECy == puYM__7)
@@ -513,7 +513,7 @@ case 4:
 Y1LAEpf = XKsurT48();
 break;
 default:
-gI55U = HtWP6(1997290798, za5JECy, -357039890, cGUeIx_, T4qp);
+gI55U = HtWP6((unsigned short)1997290798, za5JECy, -357039890, cGUeIx_, T4qp);
 break;
 }
 }
@@ -525,7 +525,7 @@ i++;
 std::cout << "xoJ_iIh_8" << j1Y9yStf(-1559776372, 1760892626, MSHAhE) << EjN2YzL5F << za5JECy << std::endl;
 }
 }
-sjY0 = HtWP6((unsigned short)-207681401, -490433311, (char)-419854614, 1276442357, s7c4a);
+sjY0 = HtWP6((unsigned short)-207681401, -490433311, (char)-419854614, (char)1276442357, s7c4a);
 return 0;
 }
 

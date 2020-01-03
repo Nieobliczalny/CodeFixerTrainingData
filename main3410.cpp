@@ -403,7 +403,7 @@ hj02wX5PsO = (Lp2wtPvS <= -1086206698) ? ht354bO : (unsigned char)1497002344;
 }
 else if (ht354bO == 1260788027)
 {
-hj02wX5PsO = (hj02wX5PsO >= 74018343) ? (unsigned char)410820406 : -611505248;
+hj02wX5PsO = (hj02wX5PsO >= 74018343) ? (unsigned char)410820406 : (unsigned char)-611505248;
 }
 else if (((hj02wX5PsO > 296890606) || (Lp2wtPvS <= -331278789)) || (Lp2wtPvS != 264348838))
 {

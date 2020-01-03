@@ -76,7 +76,7 @@ case 'b':
 Mu63q0X = z_wo_kDJ((short)445075995, tLWRe8CGT, sPy6I_Nu);
 break;
 case 'c':
-lKx1z = z_wo_kDJ(lKx1z, -1935723055, e59h4P5zBX);
+lKx1z = z_wo_kDJ(lKx1z, (short)-1935723055, e59h4P5zBX);
 break;
 case 'd':
 KZ8m2_9T += 18526961;
@@ -532,7 +532,7 @@ else
 {
 if (hc96o8 > vUZmKc0)
 {
-C391 = z_wo_kDJ(1739991302, t409, -900681523);
+C391 = z_wo_kDJ((short)1739991302, t409, -900681523);
 }
 }
 }

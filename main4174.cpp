@@ -366,7 +366,7 @@ case 6:
 rVmok2c = Ol2W90z_K((char)1953667263, 1647092946, -1345047257, (unsigned short)-2052038914, 496109627);
 break;
 case 7:
-M6FyN = Ol2W90z_K(-904703899, pezbjbc0, rVmok2c, lYUdLz, FMWuQrD2);
+M6FyN = Ol2W90z_K((char)-904703899, pezbjbc0, rVmok2c, lYUdLz, FMWuQrD2);
 break;
 case 8:
 C1O4 = fNTBzr7f(-223538833);
@@ -440,7 +440,7 @@ case 1:
 d0E4 = Ol2W90z_K(WbPk_pR_, 1143256146, WI5AK6z1C, (unsigned short)1335199501, 84619762) >> BkD9Pw7j1;
 break;
 case 2:
-A2x_sI09wb = Ol2W90z_K(-1113914648, -1761172034, wwSv, eNkrjIN3A, 502200258);
+A2x_sI09wb = Ol2W90z_K((char)-1113914648, -1761172034, wwSv, eNkrjIN3A, 502200258);
 break;
 case 3:
 Ef3RJQlOa = Ol2W90z_K(Ef3RJQlOa, 98575235, -1604868910, d0E4, -1719462906);
@@ -461,7 +461,7 @@ case 8:
 Mva2uuR /= cEsIMM6;
 break;
 case 9:
-B1OXI7oK_ = Ol2W90z_K(423692631, 1523518756, 1247514409, BkD9Pw7j1, M6FyN);
+B1OXI7oK_ = Ol2W90z_K((char)423692631, 1523518756, 1247514409, BkD9Pw7j1, M6FyN);
 break;
 }
 }

@@ -33,7 +33,7 @@ int main(int argc, char** argv)
   short  b3DSL_v5B;
   b3DSL_v5B  =  (short)-2074357489;
 	short	c88WUX;
-	c88WUX	=	845977478;
+	c88WUX	=	(short)845977478;
 	char	z9cR6uomJb;
 	z9cR6uomJb	=	2124385232;
 	unsigned int	AA6NUd4;
@@ -73,7 +73,7 @@ int main(int argc, char** argv)
     int    lYJ6MSA9_;
     lYJ6MSA9_    =    -172723238;
  char SWy42;
- SWy42 = -1025664218;
+ SWy42 = (char)-1025664218;
     long long    bMf339xA9;
     bMf339xA9    =    1303230717;
  float w44dUlV3S;
@@ -97,7 +97,7 @@ int main(int argc, char** argv)
     short int    Pnh_0g2;
     Pnh_0g2    =    (short)265035193;
  char d53PtN9S5;
- d53PtN9S5 = -2090815712;
+ d53PtN9S5 = (char)-2090815712;
  unsigned short z4kxxZ2L1;
  z4kxxZ2L1 = 664324397;
 	short int	HRot4e7V2;
@@ -111,7 +111,7 @@ int main(int argc, char** argv)
 	double	KlH7;
 	KlH7	=	-67616001;
   short int  FIjs;
-  FIjs  =  -1746819480;
+  FIjs  =  (short)-1746819480;
  long double of2UK79U2g;
  of2UK79U2g = 1577282936;
 	unsigned short int	bDRxV;
@@ -310,7 +310,7 @@ try
 switch (OgT02e1)
 {
 case 0:
-OgT02e1 = EpBA0W7pe(574066236, 1881310499);
+OgT02e1 = EpBA0W7pe((unsigned char)574066236, 1881310499);
 break;
 case 1:
 prDkQB = EpBA0W7pe(Lh83MO, X11pT);

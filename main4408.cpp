@@ -19,7 +19,7 @@ int main()
 	unsigned short int	dO4_	=	(unsigned short)-182540217;
   unsigned long long  fbb_7  =  1563653646;
  short CLWXCO62VP = (short)-1164530898;
- short int r1vHo4h = -1129188910;
+ short int r1vHo4h = (short)-1129188910;
     unsigned short int    Ca1xW7t60X    =    0;
   int  A2y4P  =  529798951;
  unsigned short int A6Zi3jtj56 = -1473246352;

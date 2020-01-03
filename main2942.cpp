@@ -27,7 +27,7 @@ int main()
     unsigned short int    oBmlzec2PA    =    (unsigned short)2146150089;
   double  yL9vrNsX  =  -1345000650;
     unsigned char    YSZ0_    =    (unsigned char)939627071;
-	short	m_3f7w	=	473024493;
+	short	m_3f7w	=	(short)473024493;
 	unsigned long long	c8O6	=	540348684;
   unsigned short int  FfdnIGgcgn  =  1066886933;
 

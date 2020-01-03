@@ -131,7 +131,7 @@ Y2zQ61WX = B_UMls(Y2zQ61WX, iLV03Nf9, JIlkSBGpYT);
 }
 else if (((T17Wdq3) || (u28y >= xp41)) || (e8W5R == dh9e))
 {
-std::cout << "gF8U8vk4Rl" << zPXtM((char)1701119258, (unsigned short)199027734) << gvQ6(Y2zQ61WX, 531137666, JIlkSBGpYT) << std::endl;
+std::cout << "gF8U8vk4Rl" << zPXtM((char)1701119258, (unsigned short)199027734) << gvQ6(Y2zQ61WX, (short)531137666, JIlkSBGpYT) << std::endl;
 }
 else if ((hm2KfPme == lrWJ3_yTu) || (Z217bdpI != xp41))
 {
@@ -230,7 +230,7 @@ qlFX = B_UMls(qlFX, nI_V8_4, (unsigned char)-878778195);
 }
 else
 {
-rRC3t = zPXtM((char)1279678748, -256519167);
+rRC3t = zPXtM((char)1279678748, (unsigned short)-256519167);
 }
 }
 while (j >= 0);
@@ -292,7 +292,7 @@ case 0:
 rRC3t = zPXtM((char)-57775054, (unsigned short)-1409967283);
 break;
 case 1:
-rRC3t = zPXtM(281874282, u28y);
+rRC3t = zPXtM((char)281874282, u28y);
 break;
 case 2:
 q6L8f9t3 = JGMcHFirkw >> 1689350894;

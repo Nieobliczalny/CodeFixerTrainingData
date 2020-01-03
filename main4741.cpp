@@ -75,7 +75,7 @@ LPm16qVy0 = l6I1zr9A5h((short)-432530539, 808590614);
 }
 else if (t1z0 & 1935772498)
 {
-std::cout << r75tDv4po << Br6_61c(LPm16qVy0, H143JK3, (unsigned char)-260262300, -1243361439) << Br6_61c(1429955338, -1221840591, -1129371326, -1710886651) << std::endl;
+std::cout << r75tDv4po << Br6_61c(LPm16qVy0, H143JK3, (unsigned char)-260262300, -1243361439) << Br6_61c(1429955338, -1221840591, (unsigned char)-1129371326, -1710886651) << std::endl;
 }
 else
 {
@@ -571,7 +571,7 @@ b1CT = HQSxs_82 | 370835876;
 QP5era = Br6_61c(-1125668969, aMIlG, (unsigned char)1271259156, -1255346375);
 for (int i = 0; i < 7; ++i)
 {
-std::cout << X3mP3M595f << tqU1J(QP5era, -1540086082, 249325186) << tqU1J(-984089159, aMIlG, eG0U) << l6I1zr9A5h((short)1939334651, aMIlG) << l6I1zr9A5h(-1487271862, aMIlG) << std::endl;
+std::cout << X3mP3M595f << tqU1J(QP5era, -1540086082, 249325186) << tqU1J(-984089159, aMIlG, eG0U) << l6I1zr9A5h((short)1939334651, aMIlG) << l6I1zr9A5h((short)-1487271862, aMIlG) << std::endl;
 }
 if ((LPm16qVy0 < KVz0) && (X3mP3M595f >= FJN5))
 {

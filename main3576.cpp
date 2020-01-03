@@ -25,7 +25,7 @@ int main() {
     unsigned short int    H2n8;
     H2n8    =    (unsigned short)1988857294;
 	unsigned short int	eoxg0ZEJDh;
-	eoxg0ZEJDh	=	-1175624104;
+	eoxg0ZEJDh	=	(unsigned short)-1175624104;
 	char	mhiV8D;
 	mhiV8D	=	391671747;
     unsigned short    i55xWB;
@@ -47,7 +47,7 @@ int main() {
   short int  bP1YY;
   bP1YY  =  (short)1801674596;
  unsigned char OB5H0xEs;
- OB5H0xEs = 1830007350;
+ OB5H0xEs = (unsigned char)1830007350;
   float  xBrcf;
   xBrcf  =  1147976805;
 	int	lKg2a1;

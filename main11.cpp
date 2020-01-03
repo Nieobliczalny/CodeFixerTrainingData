@@ -25,7 +25,7 @@ int main(int argc, char** argv) {
   short  g_pU6oa_  =  0;
 	long long	tJ6VL8D	=	-194938400;
  unsigned char Dk5WH = (unsigned char)-1678505606;
- unsigned short K96LJM = 2139047230;
+ unsigned short K96LJM = (unsigned short)2139047230;
 	unsigned long	R8WaVdP5x4	=	-237240701;
   unsigned long long  eUiM  =  -607430839;
  unsigned long S0NqqP = -292998005;
@@ -37,7 +37,7 @@ int main(int argc, char** argv) {
     long long    hg_696fTp    =    0;
 	char	tYyd	=	(char)-307504405;
   long  k2SyVafk  =  -1340145353;
-	short int	P7t15	=	-1005829318;
+	short int	P7t15	=	(short)-1005829318;
  unsigned int XRpYV9Y_ = -1529868466;
  unsigned long long xyngl98L = 271154606;
     long    KJfnxI1Gkw    =    -1897515931;
@@ -48,7 +48,7 @@ int main(int argc, char** argv) {
  short int Eu4ede22 = (short)1398823951;
 	short int	A3oFv	=	-1538168567;
 	int	KR63_	=	0;
-	short	pc1jq0zgR	=	341889105;
+	short	pc1jq0zgR	=	(short)341889105;
 	unsigned long long	iIiP06r	=	-953398800;
  unsigned short Hqwp6dgK2R = 504508324;
     unsigned int    ZQl0L    =    -1474755911;
@@ -60,7 +60,7 @@ int main(int argc, char** argv) {
   unsigned int  Pmc4  =  -1256229034;
  long double C7U2wRD = -983533324;
 	unsigned short int	leCq4I4	=	0;
-    char    v_yRb8pXBz    =    -793809058;
+    char    v_yRb8pXBz    =    (char)-793809058;
     long    S1B_U8    =    870945555;
  unsigned long long Rvmu00 = 476815524;
  unsigned int HKSn = -337155497;
@@ -72,7 +72,7 @@ int main(int argc, char** argv) {
     float    mU4JJP56    =    -1359304553;
 	long double	E8YH38PG3_	=	1379833303;
 	unsigned long	jz1yCDe	=	-1530123690;
-    unsigned short    IA1S    =    727796721;
+    unsigned short    IA1S    =    (unsigned short)727796721;
 	float	h9wfY	=	-961242870;
   long double  a2o_Q5g  =  -453079513;
  long xO9TF = 861433109;
@@ -275,7 +275,7 @@ case 'F':
 G1dV6g = (int)floor(h9wfY);
 break;
 default:
-KQxWvl3 = (k2SyVafk == tJ6VL8D) ? rx4mwzsQQ : 777043774;
+KQxWvl3 = (k2SyVafk == tJ6VL8D) ? rx4mwzsQQ : (unsigned char)777043774;
 break;
 }
 }

@@ -21,7 +21,7 @@ int main()
  short bur8ej4n;
  bur8ej4n = (short)-631489586;
     short int    HD6_D;
-    HD6_D    =    -2045000361;
+    HD6_D    =    (short)-2045000361;
  short int tLA3G;
  tLA3G = -155683054;
  double df_yq8g;
@@ -35,7 +35,7 @@ int main()
 	float	rcuQ_Pl_B;
 	rcuQ_Pl_B	=	2019810238;
     char    J423B;
-    J423B    =    -1711923212;
+    J423B    =    (char)-1711923212;
 	unsigned long long	htPp_o_20K;
 	htPp_o_20K	=	-658127920;
 	short int	q6Ich_2_w;
@@ -45,7 +45,7 @@ int main()
  unsigned short ABkaEPme4_;
  ABkaEPme4_ = (unsigned short)88065731;
 	short	y2L6fVmS95;
-	y2L6fVmS95	=	-2040488709;
+	y2L6fVmS95	=	(short)-2040488709;
  long double bf_aeqp;
  bf_aeqp = 5344201;
   unsigned char  phV57lc;
@@ -104,7 +104,7 @@ ITxX = M_B8(Uo2JC6iBJ, J423B, bf_aeqp, (unsigned short)-1185023951);
 }
 else if (q859ra376Q)
 {
-ITxX = M_B8(-710221131, htPp_o_20K, -872582018, NohO0);
+ITxX = M_B8((unsigned short)-710221131, htPp_o_20K, -872582018, NohO0);
 }
 else
 {

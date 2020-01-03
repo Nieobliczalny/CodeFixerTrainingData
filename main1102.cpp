@@ -25,7 +25,7 @@ int main(void)
   short  i3f_KP;
   i3f_KP  =  (short)-1800061175;
     unsigned short    chF9QerH;
-    chF9QerH    =    527174280;
+    chF9QerH    =    (unsigned short)527174280;
     long long    nUET;
     nUET    =    1085191845;
   unsigned short int  DTTC;
@@ -45,7 +45,7 @@ int main(void)
   unsigned short int  BEREA84gz;
   BEREA84gz  =  (unsigned short)1345866644;
  short X6F0_q;
- X6F0_q = 931320643;
+ X6F0_q = (short)931320643;
     double    xje2Y;
     xje2Y    =    289148407;
 	unsigned long long	iAT7;
@@ -67,7 +67,7 @@ int main(void)
     char    CaWLb;
     CaWLb    =    (char)560163970;
   unsigned short int  d2T0;
-  d2T0  =  -1603689709;
+  d2T0  =  (unsigned short)-1603689709;
 	long long	AXFy4_bit;
 	AXFy4_bit	=	-1171684593;
   unsigned long long  Xu9STAYD;
@@ -85,7 +85,7 @@ int main(void)
 	short	Q3qIU;
 	Q3qIU	=	(short)2009134531;
   char  zHLc;
-  zHLc  =  1228618173;
+  zHLc  =  (char)1228618173;
     unsigned char    VwTg208uv;
     VwTg208uv    =    -1365749480;
   char  bo6W_;

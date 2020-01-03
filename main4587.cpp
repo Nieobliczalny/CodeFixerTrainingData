@@ -41,7 +41,7 @@ int main()
  short L4Oq;
  L4Oq = (short)2048756727;
  short q5SeWJyf;
- q5SeWJyf = -481976912;
+ q5SeWJyf = (short)-481976912;
 	double	Kh_00l3JO;
 	Kh_00l3JO	=	-659647159;
     unsigned long    yxMt6ldM9d;
@@ -67,7 +67,7 @@ int main()
     short int    d13k42nX;
     d13k42nX    =    (short)771161757;
   short  Ugb41C1T;
-  Ugb41C1T  =  -2080487062;
+  Ugb41C1T  =  (short)-2080487062;
   short  oe84;
   oe84  =  -1427267967;
  short Aufp1l;
@@ -79,7 +79,7 @@ int main()
  long GL8542978N;
  GL8542978N = -260761536;
  short bSwEG45;
- bSwEG45 = 1318378599;
+ bSwEG45 = (short)1318378599;
     short int    rCa60V0m9P;
     rCa60V0m9P    =    (short)-1210197207;
 	unsigned long	lpPOB3;
@@ -97,7 +97,7 @@ int main()
 	float	QZSZlZ1Q75;
 	QZSZlZ1Q75	=	147103886;
     short int    q3VdtZ_m;
-    q3VdtZ_m    =    -422387393;
+    q3VdtZ_m    =    (short)-422387393;
 	float	E85MB3;
 	E85MB3	=	915928988;
   long  c9DY;
@@ -141,7 +141,7 @@ int main()
  unsigned short int r7mpx_xkmZ;
  r7mpx_xkmZ = (unsigned short)545996444;
     unsigned short int    n6aG9;
-    n6aG9    =    -466892240;
+    n6aG9    =    (unsigned short)-466892240;
 	unsigned char	X7IH1dEc;
 	X7IH1dEc	=	0;
 	unsigned short	bK_9Fd9;
@@ -151,7 +151,7 @@ int main()
  unsigned short nCPQw8f;
  nCPQw8f = (unsigned short)1319681877;
     unsigned short int    lU0E4QfGw6;
-    lU0E4QfGw6    =    1943171732;
+    lU0E4QfGw6    =    (unsigned short)1943171732;
 	int	L22EB;
 	L22EB	=	-1397360567;
   long double  H0LOs;
@@ -173,7 +173,7 @@ int main()
  short int K6Arwz;
  K6Arwz = (short)1204654510;
  short NDmTM63_;
- NDmTM63_ = 1043610013;
+ NDmTM63_ = (short)1043610013;
     short    I_cWlaoL;
     I_cWlaoL    =    1212428570;
     short    n5FIb91;
@@ -185,7 +185,7 @@ int main()
   unsigned long long  q1pk4;
   q1pk4  =  -265274039;
  unsigned short int f573c3;
- f573c3 = -1626004958;
+ f573c3 = (unsigned short)-1626004958;
     float    MF_3X_WsN;
     MF_3X_WsN    =    60325294;
   long  mIw2Z5_Xzn;
@@ -197,7 +197,7 @@ int main()
     char    m4YjC1g3;
     m4YjC1g3    =    (char)-178023849;
 	unsigned short int	xb32Nw4;
-	xb32Nw4	=	1096023989;
+	xb32Nw4	=	(unsigned short)1096023989;
   long  p_8huJ;
   p_8huJ  =  -1313126728;
     unsigned int    sb5md;

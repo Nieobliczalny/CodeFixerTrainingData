@@ -22,7 +22,7 @@ int main(int argc, char** argv)
 {
     unsigned short int    fV_wOu3jH6    =    (unsigned short)1339766301;
   short  u7iatU8aT  =  (short)-1373003052;
- short int gDlH2HTKOa = -2090306451;
+ short int gDlH2HTKOa = (short)-2090306451;
     unsigned int    TCMQpu    =    -472542993;
   long long  U7jRdW82u  =  912173197;
  long f_6ELRX0XR = -1214746766;
@@ -123,7 +123,7 @@ else
 switch (RF7L)
 {
 case 0:
-m664PJ = vN_Ms4e9((short)921396325, avCw8, 646369893);
+m664PJ = vN_Ms4e9((short)921396325, avCw8, (unsigned short)646369893);
 break;
 case 1:
 TCMQpu = oH8w(TCMQpu, u7iatU8aT, -770978627, (short)-1917963227, 12184861);
@@ -135,7 +135,7 @@ case 3:
 Wjs6_G_Ka = oH8w(2073672389, U7jRdW82u, RF7L, E6K2, fV_wOu3jH6);
 break;
 case 4:
-fV_wOu3jH6 = oH8w((char)-525164138, m664PJ, 894766123, -1847908854, E6K2);
+fV_wOu3jH6 = oH8w((char)-525164138, m664PJ, 894766123, (short)-1847908854, E6K2);
 break;
 case 5:
 byw9 = (int)abs(w_PnbmNo) + (-809180344);
@@ -265,7 +265,7 @@ for (int i = 7; i >= 0; i--)
 cout << "Y9lk9" << byw9 << oH8w(r1rr5y56Y, lku0h_8n1, u7iatU8aT, (short)-470454836, -270061603) << endl;
 }
 
-khz10o7_ = vN_Ms4e9((short)920696640, 43066531, 1306912162);
+khz10o7_ = vN_Ms4e9((short)920696640, 43066531, (unsigned short)1306912162);
 
 E6K2 = (int)abs(u7iatU8aT);
 U7jRdW82u -= 1048482053;
@@ -313,7 +313,7 @@ for (int i = 0; i < 10; ++i)
 {
 try
 {
-r1rr5y56Y = vN_Ms4e9((short)-1206320106, 1967106404, -1733663797);
+r1rr5y56Y = vN_Ms4e9((short)-1206320106, 1967106404, (unsigned short)-1733663797);
 }
 catch (int& errorCode)
 {

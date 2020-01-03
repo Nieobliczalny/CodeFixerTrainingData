@@ -47,7 +47,7 @@ int main(void) {
 	short	iuk_3E;
 	iuk_3E	=	(short)389119227;
   unsigned short  YP23;
-  YP23  =  1380710612;
+  YP23  =  (unsigned short)1380710612;
   int  D71_;
   D71_  =  -1191341701;
  unsigned char jFZRA_3B;
@@ -67,7 +67,7 @@ int main(void) {
   unsigned short int  wL3955BKeU;
   wL3955BKeU  =  (unsigned short)-1523055056;
   short  qfr7;
-  qfr7  =  2014146633;
+  qfr7  =  (short)2014146633;
     char    oh4Azs_c;
     oh4Azs_c    =    1333082870;
  int P9xy_;
@@ -90,7 +90,7 @@ int main(void) {
 jFZRA_3B--;
 cJ_usV22 = (int)abs(iuk_3E);
 
-std::cout << "aZV0vc5Z" << h_L0 << Op36B0QNi((unsigned short)1455346976, 233738946) << rs36uWUe << std::endl;
+std::cout << "aZV0vc5Z" << h_L0 << Op36B0QNi((unsigned short)1455346976, (char)233738946) << rs36uWUe << std::endl;
 TAe3Hs = (unsigned short int)(iuk_3E);
 {
 int i = 0;
@@ -309,7 +309,7 @@ case 2:
 g_kV = Op36B0QNi(z___Ax0, TAe3Hs);
 break;
 case 3:
-cuAC8n = PYCJQCIp((short)1029641257, 2110598632);
+cuAC8n = PYCJQCIp((short)1029641257, (unsigned short)2110598632);
 break;
 case 4:
 A__660KaQ = (int)floor(x27guweg);
@@ -452,7 +452,7 @@ oh4Azs_c = PYCJQCIp((short)-1792369624, (unsigned short)-1478076999);
 
 if ((rs36uWUe < lmkoQP6Wv) || ((oh4Azs_c & cJ_usV22) || (jFZRA_3B & D71_)))
 {
-Fv88GIb0_ = Op36B0QNi(oh4Azs_c, -2070978900) | 692468208;
+Fv88GIb0_ = Op36B0QNi(oh4Azs_c, (char)-2070978900) | 692468208;
 }
 else
 {

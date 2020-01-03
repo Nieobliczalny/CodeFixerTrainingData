@@ -61,7 +61,7 @@ int main() {
   unsigned char  g3sX4xfuRC;
   g3sX4xfuRC  =  (unsigned char)1716603078;
   char  T_BwotEbi3;
-  T_BwotEbi3  =  403083874;
+  T_BwotEbi3  =  (char)403083874;
  char SzZD9;
  SzZD9 = (char)-63769268;
     char    pYA1ze4;
@@ -81,7 +81,7 @@ int main() {
 	short int	EUaf;
 	EUaf	=	(short)636511010;
  unsigned short int NTME;
- NTME = -1167116959;
+ NTME = (unsigned short)-1167116959;
  long double n87mBF1;
  n87mBF1 = 1257454060;
     unsigned short    OQ7ny;
@@ -105,7 +105,7 @@ int main() {
  char NXEV5D_Q;
  NXEV5D_Q = (char)-1473538571;
     short int    iAFf7Qgf;
-    iAFf7Qgf    =    -1225429954;
+    iAFf7Qgf    =    (short)-1225429954;
 	unsigned short	tDEwx5s2hg;
 	tDEwx5s2hg	=	(unsigned short)-1648521406;
   double  Pa5Kz5tbW_;

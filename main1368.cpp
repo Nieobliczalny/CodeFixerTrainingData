@@ -31,7 +31,7 @@ int main(int argc, char** argv)
   long double  SM1X0DYzj  =  -1252143009;
     unsigned long    PTHnznm    =    129806093;
  short int sjC8Lan = 0;
-  short int  YF5L2XTd1  =  -1521124053;
+  short int  YF5L2XTd1  =  (short)-1521124053;
 
 if (D_bZOLrh)
 {
@@ -173,7 +173,7 @@ QW3A6kr = QW3A6kr | 481366864;
 }
 else
 {
-sjC8Lan = Jb2dSy((unsigned char)707133972, 1628452768, -791315737);
+sjC8Lan = Jb2dSy((unsigned char)707133972, (unsigned short)1628452768, -791315737);
 }
 }
 else
@@ -191,7 +191,7 @@ QW3A6kr = rvcrrAiH85(-748247316) << 1544746399;
 
 D_bZOLrh = (int)abs(SGLpVEPhd);
 SGLpVEPhd = pkWgR | J4mFhEu02;
-if ((Jb2dSy((unsigned char)982739266, (unsigned short)-219108875, QW3A6kr) / Jb2dSy(-1054763515, -319997858, QW3A6kr)) == 1887669605)
+if ((Jb2dSy((unsigned char)982739266, (unsigned short)-219108875, QW3A6kr) / Jb2dSy((unsigned char)-1054763515, -319997858, QW3A6kr)) == 1887669605)
 {
 if (Jb2dSy(-305683377, SM1X0DYzj, QW3A6kr) == 0)
 {
@@ -238,7 +238,7 @@ case 0:
 pkWgR = Jb2dSy((unsigned char)1255606710, J4mFhEu02, (char)-418399273);
 break;
 case 1:
-pkWgR = Jb2dSy(SGLpVEPhd, SM1X0DYzj, 1695206656);
+pkWgR = Jb2dSy(SGLpVEPhd, SM1X0DYzj, (char)1695206656);
 break;
 case 2:
 pkWgR = Jb2dSy(YF5L2XTd1, Ajd3Ep, PTHnznm);

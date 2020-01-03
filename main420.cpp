@@ -33,7 +33,7 @@ int main(int argc, char** argv)
 	short int	zmN5B84	=	(short)128740108;
  unsigned long long ST7X = 825902745;
   double  Uu9D7  =  2053857600;
- unsigned short int u6Hv2vy09i = 1396866839;
+ unsigned short int u6Hv2vy09i = (unsigned short)1396866839;
 	short int	fg_k	=	867250171;
     short int    Yje_d    =    -1978342912;
   unsigned long long  B4I43uoY  =  1934321707;
@@ -43,7 +43,7 @@ int main(int argc, char** argv)
 	unsigned short int	F3hIHy0KhK	=	(unsigned short)-1373503741;
   unsigned char  G2r52h5  =  (unsigned char)1840984512;
 	unsigned int	espO6AuHyr	=	-1842199282;
-	unsigned short	Lzx914Mu	=	-735754360;
+	unsigned short	Lzx914Mu	=	(unsigned short)-735754360;
   short int  z6cO_8RSbk  =  -1218637420;
 	unsigned long	cuwkfUtods	=	503649306;
  unsigned int W9FU = 1402628921;
@@ -54,7 +54,7 @@ int main(int argc, char** argv)
 	short	lBe634Psj9	=	(short)-696261846;
 	short int	Jm8V	=	-729577837;
 	int	tJ_3J9D	=	1511800112;
-    unsigned short    ShpcD    =    1815149699;
+    unsigned short    ShpcD    =    (unsigned short)1815149699;
 	double	t_uw9f9	=	917238069;
     short int    HBH78    =    -1611820721;
  char N07UJA = 0;
@@ -65,7 +65,7 @@ int main(int argc, char** argv)
     short int    iB_7w8l    =    -604683108;
   unsigned short int  asRx88  =  -1414801029;
  unsigned long long J902zq = 1109701241;
- unsigned short int rw21963I = 1090870983;
+ unsigned short int rw21963I = (unsigned short)1090870983;
   short int  nEm3  =  1486740220;
     unsigned long    An1F20GE    =    1023565853;
     long long    wqQBRq    =    -297109188;
@@ -78,7 +78,7 @@ int main(int argc, char** argv)
   unsigned long  S9ImaMLO  =  -1626703067;
  unsigned long yev1nQ_ = 957225379;
   unsigned char  pdNx36c2uZ  =  (unsigned char)-1661994922;
-    short int    oC8g    =    -1272179475;
+    short int    oC8g    =    (short)-1272179475;
 	unsigned char	Ul5_83	=	2127025160;
     unsigned long    OpeH    =    0;
   long long  LzK2rWK  =  0;
@@ -89,7 +89,7 @@ int main(int argc, char** argv)
     unsigned long    k33h1ls    =    1742759498;
     int    oiAQl    =    -754195324;
   unsigned short  Vh5SlP4ym  =  (unsigned short)784270136;
-	unsigned char	lg8qG_P	=	-1643880701;
+	unsigned char	lg8qG_P	=	(unsigned char)-1643880701;
   short  mUe_py92mk  =  -964021771;
 	long double	wvL9M	=	477009726;
     unsigned long long    GATM    =    -729584823;

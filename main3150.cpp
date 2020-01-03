@@ -408,7 +408,7 @@ case 2:
 w5_6M28 /= 297870870;
 break;
 case 3:
-S9J2_BW2U = IyQuaq0f(clnm9cO, -1937243329, -1977097400, MxP9);
+S9J2_BW2U = IyQuaq0f(clnm9cO, -1937243329, (unsigned char)-1977097400, MxP9);
 break;
 case 4:
 Zp4G28 = IyQuaq0f(9798471, yr_L0Z, (unsigned char)449106536, Zp4G28);

@@ -37,7 +37,7 @@ int main(int argc, char** argv) {
   float  tl_fVSaWp;
   tl_fVSaWp  =  1892695231;
  unsigned short sFUnl;
- sFUnl = 179904140;
+ sFUnl = (unsigned short)179904140;
  long double lQdv9VU;
  lQdv9VU = 1095182992;
 	unsigned char	gM2eO_;
@@ -49,7 +49,7 @@ int main(int argc, char** argv) {
     short int    wlL1i_BO;
     wlL1i_BO    =    0;
     short int    tzSDMVF4;
-    tzSDMVF4    =    -187685667;
+    tzSDMVF4    =    (short)-187685667;
 	unsigned short	XF078l;
 	XF078l	=	0;
 	unsigned int	njdTrRM;
@@ -140,7 +140,7 @@ a_IN_5M38 = hu7BM(a_IN_5M38, -809680874, (unsigned short)1026929178, tzSDMVF4);
 while (j < 7);
 }
 }
-std::cout << mfWH75m << GdPP(a_IN_5M38, sFUnl, -1233886530, tzSDMVF4) << sFUnl << l2QM1L(a_IN_5M38, (unsigned char)1480247677, uyL3IU, tzSDMVF4) << l2QM1L(-273530407, -1233847272, -1413996288, tzSDMVF4) << std::endl;
+std::cout << mfWH75m << GdPP(a_IN_5M38, sFUnl, -1233886530, tzSDMVF4) << sFUnl << l2QM1L(a_IN_5M38, (unsigned char)1480247677, uyL3IU, tzSDMVF4) << l2QM1L((unsigned short)-273530407, -1233847272, -1413996288, tzSDMVF4) << std::endl;
 
 if (((a_IN_5M38 < -855993891) && (Vajw >= oHzU)) || (njdTrRM & 853461471))
 {

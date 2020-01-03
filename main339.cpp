@@ -40,7 +40,7 @@ int main() {
   double  lQv5639sR  =  -1080957602;
  short int k7325GoQ_ = 0;
   char  y_kyLp9  =  (char)-948402648;
-	char	DtG4O6	=	-1497447869;
+	char	DtG4O6	=	(char)-1497447869;
 	unsigned int	EbWnVvE	=	727014734;
   long  lQMAW7M2  =  403019350;
 	double	Axy946W_Kp	=	-469410295;
@@ -143,7 +143,7 @@ OEvtZdD3_ = sMBrQC1_I(-888369306, TS8oUK96, (unsigned char)-317332570, (unsigned
 }
 else if (EbWnVvE >= UxNgsNm)
 {
-std::cout << k_ybt(-1024383439, -63119047, -231329684, -705125565, -712333311) << cX60SY7v5() << "sp0WB6r5gA" << std::endl;
+std::cout << k_ybt(-1024383439, -63119047, (short)-231329684, -705125565, -712333311) << cX60SY7v5() << "sp0WB6r5gA" << std::endl;
 }
 else
 {
@@ -524,7 +524,7 @@ std::cout << "lDI1_sPNqr" << "e90IT3eE3d" << std::endl;
 f872i_2--;
 if (k7325GoQ_)
 {
-OEvtZdD3_ = sMBrQC1_I(740874674, (char)2041704887, (unsigned char)-24110721, 952030115);
+OEvtZdD3_ = sMBrQC1_I(740874674, (char)2041704887, (unsigned char)-24110721, (unsigned char)952030115);
 }
 
 EbWnVvE--;

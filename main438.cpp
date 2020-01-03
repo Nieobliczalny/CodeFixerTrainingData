@@ -23,7 +23,7 @@ int main(int argc, char** argv) {
 	short	aBfBD	=	(short)1848922178;
   long double  fftL_rou  =  -1440123206;
     long    ErWh    =    -273791644;
- char MYrK2HIcS = 333197388;
+ char MYrK2HIcS = (char)333197388;
  unsigned int FSt_jeg02 = 1032121929;
 	unsigned long long	Jq6kpnYw5	=	-860556603;
  unsigned char xV3Aw = -1221617262;
@@ -38,7 +38,7 @@ int main(int argc, char** argv) {
   int  yGdfcCzIo  =  -1661718815;
     unsigned long    oo2mjw8f    =    816303998;
     short    z67RiE    =    (short)1637415916;
-    unsigned short    ugB6kH    =    1108341307;
+    unsigned short    ugB6kH    =    (unsigned short)1108341307;
   unsigned long  aIuAdI1a8  =  0;
     float    la9437Dp9    =    548868270;
     unsigned char    pK92G    =    1722538453;
@@ -75,7 +75,7 @@ case 'a':
 fftL_rou = CNUh(fftL_rou, NYJZZ, -455621585, (unsigned short)-1244329350);
 break;
 case 'b':
-ErWh = FBQDB10_(ErWh, (unsigned char)1383180000, 1025923833);
+ErWh = FBQDB10_(ErWh, (unsigned char)1383180000, (short)1025923833);
 break;
 case 'c':
 X6Za64k = (int)abs(fftL_rou);

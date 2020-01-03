@@ -12,7 +12,7 @@ int main(void) {
 	char	vcG2409D_M	=	(char)818290710;
   short  b3_Aciz7I  =  (short)1745978821;
   unsigned int  zYi6wZacj  =  -1006833968;
- short GM7w55 = 370745455;
+ short GM7w55 = (short)370745455;
 	double	nJVH7k8	=	-1205808598;
   unsigned char  gNe7x0_  =  835306935;
  short int BZXHr7_di = 756575573;
@@ -23,7 +23,7 @@ int main(void) {
     unsigned short int    Q9D02    =    (unsigned short)-516565834;
 	unsigned long	scjmYgR	=	714246043;
  long double LiZl90t = -1972362475;
- unsigned char gqU1D_C = -354151691;
+ unsigned char gqU1D_C = (unsigned char)-354151691;
   short int  M6m13Ha75C  =  -1099413247;
   long  C0tvH4K6  =  1470507201;
 	char	Y1Nv4	=	213643573;

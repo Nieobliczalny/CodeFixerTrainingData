@@ -62,7 +62,7 @@ case 1:
 d0f06 = V96y((unsigned short)-872842853, (unsigned char)112611865, wp0r6ty);
 break;
 case 2:
-hj2FmA_0 = (F4xF > 1874746507) ? uk8671s8(-836765070) : -1985475223;
+hj2FmA_0 = (F4xF > 1874746507) ? uk8671s8(-836765070) : (unsigned short)-1985475223;
 break;
 case 3:
 hePZYti = V96y(h4n5z3, 2062666828, hePZYti);
@@ -135,7 +135,7 @@ D79_Y = V96y((unsigned short)261495015, (unsigned char)1668624378, ktKxn) - 1825
 break;
 case 'b':
 case 'B':
-U0N4i_A7WM = V96y(222159835, 367287915, 1005474140);
+U0N4i_A7WM = V96y((unsigned short)222159835, 367287915, 1005474140);
 break;
 case 'c':
 case 'C':

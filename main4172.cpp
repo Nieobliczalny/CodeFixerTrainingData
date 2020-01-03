@@ -58,7 +58,7 @@ case 'f':
 h83iB8KTP = h83iB8KTP | ruJc58;
 break;
 default:
-h83iB8KTP = rKwK8Js1l(1678001031, 1224228475, 69297693, 2080439680);
+h83iB8KTP = rKwK8Js1l(1678001031, (short)1224228475, 69297693, 2080439680);
 break;
 }
 
@@ -123,7 +123,7 @@ h83iB8KTP = (unsigned short)(ruJc58);
 }
 else if (ruJc58)
 {
-ruJc58 = uw8Cyx((unsigned short)1238181461, (unsigned char)-1695362523, 1227470703, -2073822876, YLAHiK7T2);
+ruJc58 = uw8Cyx((unsigned short)1238181461, (unsigned char)-1695362523, (char)1227470703, -2073822876, YLAHiK7T2);
 }
 else
 {
@@ -307,7 +307,7 @@ try
 {
 if (izx2Ay1 >= 1057935991)
 {
-cout << uw8Cyx((unsigned short)1640571418, (unsigned char)771069486, 2100741819, -865935520, ruJc58) << "kT26JcE" << N5sH4yRlu_ << uw8Cyx(izx2Ay1, 1791896958, N5sH4yRlu_, -1022591199, ruJc58) << endl;
+cout << uw8Cyx((unsigned short)1640571418, (unsigned char)771069486, (char)2100741819, -865935520, ruJc58) << "kT26JcE" << N5sH4yRlu_ << uw8Cyx(izx2Ay1, 1791896958, N5sH4yRlu_, -1022591199, ruJc58) << endl;
 }
 else if (ruJc58 & h83iB8KTP)
 {

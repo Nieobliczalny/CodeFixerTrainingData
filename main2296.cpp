@@ -136,7 +136,7 @@ std::cout << oa_3H((short)1998179940, (short)-1351439364, 881997695) << NM0v0mUs
 }
 else if (w0z1l__ != 577733795)
 {
-fD4UE = Om_tfFj1I9(-141100909, Sm2brmK, L5Rz2C4Xh, -1540440674, 1397051184);
+fD4UE = Om_tfFj1I9(-141100909, Sm2brmK, L5Rz2C4Xh, -1540440674, (char)1397051184);
 }
 else
 {
@@ -707,7 +707,7 @@ H_36bVQ4_O = oa_3H((short)-70652582, pIQ0P8, FENy);
 break;
 case 'j':
 case 'J':
-bwtRFQN9hN = Om_tfFj1I9(-821184078, (char)1924846730, ub0bamn, -827432883, 1502683012);
+bwtRFQN9hN = Om_tfFj1I9(-821184078, (char)1924846730, ub0bamn, -827432883, (char)1502683012);
 break;
 default:
 FENy /= 129936417;

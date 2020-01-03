@@ -25,7 +25,7 @@ int main(int argc, char** argv) {
     unsigned char    Vz179    =    (unsigned char)-1386062762;
     double    e8Id055    =    1825797125;
 	short int	xz8x	=	0;
-	unsigned char	cL5_f0s0	=	1250241815;
+	unsigned char	cL5_f0s0	=	(unsigned char)1250241815;
 	unsigned long long	rLW2gS5mQ	=	216351671;
 	unsigned short int	Y2955e	=	194777159;
     unsigned long    QN3x    =    -876865069;
@@ -49,7 +49,7 @@ int main(int argc, char** argv) {
   long double  vWkuK  =  498835411;
 	double	Q1ne	=	-50410051;
   long  SW1s  =  -1855656091;
-    unsigned short    VneppC    =    -1862045954;
+    unsigned short    VneppC    =    (unsigned short)-1862045954;
 	long double	U12qoPBt	=	1164825929;
 	float	H6LOXqp	=	-1766300251;
   unsigned short  XD9Jot12V9  =  (unsigned short)1097152163;
@@ -166,7 +166,7 @@ alrR8a = BjD6xPMn << yM80e5uZAE;
 
 for (int i = 0; i < 10; i++)
 {
-std::cout << i4_H1(JQ3Uhx2, (unsigned short)-1755750550, 1193533124, 1822210555) << vWkuK << Ku_V4XO(969898567, (unsigned short)-1245318311, -389250707) << std::endl;
+std::cout << i4_H1(JQ3Uhx2, (unsigned short)-1755750550, 1193533124, 1822210555) << vWkuK << Ku_V4XO(969898567, (unsigned short)-1245318311, (char)-389250707) << std::endl;
 }
 BjD6xPMn = (int)abs(Q1ne);
 

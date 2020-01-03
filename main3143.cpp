@@ -54,7 +54,7 @@ switch (s4l401w7)
 {
 case 'a':
 case 'A':
-s4l401w7 = RugQq((unsigned short)-2098542030, -1285463372, AdJ370G, -782275078, -125238258);
+s4l401w7 = RugQq((unsigned short)-2098542030, -1285463372, AdJ370G, -782275078, (unsigned short)-125238258);
 break;
 case 'b':
 case 'B':
@@ -158,7 +158,7 @@ while (i >= 0)
 --i;
 if (m2C3o9s28 < -32691719)
 {
-std::cout << "w9gXyd02w1" << "Ih5dgdM48D" << YXV274N(1519264683, AdJ370G, s4l401w7) << AdJ370G << std::endl;
+std::cout << "w9gXyd02w1" << "Ih5dgdM48D" << YXV274N((short)1519264683, AdJ370G, s4l401w7) << AdJ370G << std::endl;
 }
 }
 }
@@ -209,7 +209,7 @@ switch (m2C3o9s28)
 {
 case 'a':
 case 'A':
-s4l401w7 = YXV274N(-519011037, AdJ370G, m2C3o9s28) + AdJ370G;
+s4l401w7 = YXV274N((short)-519011037, AdJ370G, m2C3o9s28) + AdJ370G;
 break;
 case 'b':
 case 'B':
@@ -275,7 +275,7 @@ s4l401w7 = (AdJ370G != m2C3o9s28) ? m2C3o9s28 : YXV274N(m2C3o9s28, -1351533896, 
 }
 else if ((m2C3o9s28 < s4l401w7) || (AdJ370G <= -1275275427))
 {
-s4l401w7 = nxiJ8NvQx((unsigned short)-1222165562, s4l401w7, AdJ370G, (short)1692459741, 1649267781);
+s4l401w7 = nxiJ8NvQx((unsigned short)-1222165562, s4l401w7, AdJ370G, (short)1692459741, (unsigned short)1649267781);
 }
 else if ((m2C3o9s28 & -1529656362) && (m2C3o9s28 != -1317062795))
 {
@@ -307,7 +307,7 @@ case 0:
 s4l401w7 = RugQq(AdJ370G, s4l401w7, 1816591759, 581202403, (unsigned short)-2140095038) + 2078782608;
 break;
 case 1:
-s4l401w7 = RugQq((unsigned short)-2034241983, 1044627699, m2C3o9s28, 18282720, -1135553981) >> 242958064;
+s4l401w7 = RugQq((unsigned short)-2034241983, 1044627699, m2C3o9s28, 18282720, (unsigned short)-1135553981) >> 242958064;
 break;
 case 2:
 s4l401w7 = s4l401w7 % 1425395126;
@@ -429,7 +429,7 @@ s4l401w7 = s4l401w7 * s4l401w7;
 break;
 case 'f':
 case 'F':
-s4l401w7 = nxiJ8NvQx((unsigned short)-1050460453, s4l401w7, AdJ370G, (short)222027483, -912128163);
+s4l401w7 = nxiJ8NvQx((unsigned short)-1050460453, s4l401w7, AdJ370G, (short)222027483, (unsigned short)-912128163);
 break;
 }
 }
@@ -507,7 +507,7 @@ m2C3o9s28 = bznnJ9();
 break;
 case 'c':
 case 'C':
-AdJ370G = nxiJ8NvQx((unsigned short)-1455144780, AdJ370G, s4l401w7, (short)-1117823545, -632088858);
+AdJ370G = nxiJ8NvQx((unsigned short)-1455144780, AdJ370G, s4l401w7, (short)-1117823545, (unsigned short)-632088858);
 break;
 case 'd':
 case 'D':

@@ -27,7 +27,7 @@ int main(int argc, char** argv) {
   unsigned short  WQ3mL1e  =  (unsigned short)292019919;
   unsigned char  hD1Lodhllk  =  (unsigned char)325765635;
  float sJ6FL = -1379540019;
-  char  qiVa3h6B47  =  66439522;
+  char  qiVa3h6B47  =  (char)66439522;
 	long	M6IzSw_46m	=	-1934037750;
 	unsigned long	Z4PW_BXA	=	-1859608389;
 	short int	l7F1	=	302215973;
@@ -46,7 +46,7 @@ int main(int argc, char** argv) {
  int JD_9WC8 = 1733884200;
     long double    hvbQFdI5    =    -1171025036;
  unsigned short int AE36j0DxD = (unsigned short)-580895150;
- unsigned short int EBnB4 = -201273212;
+ unsigned short int EBnB4 = (unsigned short)-201273212;
     unsigned short    JmD7_h7ZlE    =    1333703963;
   short int  NB1o  =  2024817676;
  char FKxH4h = 1333329945;
@@ -60,7 +60,7 @@ int main(int argc, char** argv) {
 	unsigned long long	jJZG	=	-1262120930;
     unsigned short    uhAkWFmDh7    =    (unsigned short)1281795838;
  float t1UE3 = 1610844953;
-  unsigned short int  uvwER  =  -1809902292;
+  unsigned short int  uvwER  =  (unsigned short)-1809902292;
  float nM6x75Id = -1617189480;
 	unsigned char	Rv3RL98	=	1902310659;
 	int	L7_C	=	-182146964;
@@ -289,7 +289,7 @@ break;
 }
 FKxH4h++;
 
-cout << qjVv06JDiv(jJZG, -1651527501, uhAkWFmDh7, (short)-2118400867, -288183696) << qjVv06JDiv(jJZG, cWjY, -303563961, Z4PW_BXA, 1400685588) << WQ3mL1e << E3sbkpAtW(jJZG, (unsigned char)1584938754, 1186854209) << t1UE3 << endl;
+cout << qjVv06JDiv(jJZG, -1651527501, uhAkWFmDh7, (short)-2118400867, -288183696) << qjVv06JDiv(jJZG, cWjY, -303563961, Z4PW_BXA, 1400685588) << WQ3mL1e << E3sbkpAtW(jJZG, (unsigned char)1584938754, (short)1186854209) << t1UE3 << endl;
 
 for (int i = 1; i >= 0; i--)
 {

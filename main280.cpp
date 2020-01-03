@@ -10,7 +10,7 @@ using namespace std;
 
 int main(int argc, char** argv) {
 	short int	KrkV	=	0;
-  unsigned char  YeO77fb2R2  =  (unsigned char)-1150426758,  Qa29F1ag  =  (unsigned char)65315659,  Nm7rpcE0  =  -50857328;
+  unsigned char  YeO77fb2R2  =  (unsigned char)-1150426758,  Qa29F1ag  =  (unsigned char)65315659,  Nm7rpcE0  =  (unsigned char)-50857328;
 
 if (KrkV <= 1160910252)
 {

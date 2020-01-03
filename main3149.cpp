@@ -18,7 +18,7 @@ int main(int argc, char** argv) {
 	short	NY5bxM5N_;
 	NY5bxM5N_	=	(short)2890715;
   unsigned short int  fO83;
-  fO83  =  506880405;
+  fO83  =  (unsigned short)506880405;
  unsigned short FlCO9i_zy;
  FlCO9i_zy = 0;
 	char	xWIo0;
@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
     int    tL0C;
     tL0C    =    0;
  short int v6wD0F;
- v6wD0F = 1437534112;
+ v6wD0F = (short)1437534112;
  long LdAX099bd1;
  LdAX099bd1 = 0;
 	unsigned short	HZnw8y;
@@ -54,7 +54,7 @@ int main(int argc, char** argv) {
  unsigned short Z935cvX;
  Z935cvX = 0;
   unsigned short  gYVbfs8E;
-  gYVbfs8E  =  -1639726519;
+  gYVbfs8E  =  (unsigned short)-1639726519;
     int    YBbqoCZi;
     YBbqoCZi    =    -3547393;
 

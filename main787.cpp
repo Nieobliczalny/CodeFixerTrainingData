@@ -287,7 +287,7 @@ s86__L += 301454158;
 break;
 case 'g':
 case 'G':
-nj9MpxAX = (flO2__QR & Br14) ? (unsigned short)-336671334 : 290767491;
+nj9MpxAX = (flO2__QR & Br14) ? (unsigned short)-336671334 : (unsigned short)290767491;
 break;
 default:
 mn0Bz += 344378199;

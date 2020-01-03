@@ -24,7 +24,7 @@ int main()
   double  I77bfT  =  363991071;
     double    zVff87h_h    =    -147932483;
 	unsigned short	g6Y7I	=	(unsigned short)-1803848;
-	short int	v4f7_h	=	-1921097887;
+	short int	v4f7_h	=	(short)-1921097887;
   long  cxwjv1  =  -2055925689;
 	double	OikxC	=	1480068610;
     unsigned long long    G_QN    =    -459574345;
@@ -35,7 +35,7 @@ int main()
   unsigned long  t731  =  -396122074;
  short IOgF = (short)-1852540771;
 	unsigned short int	uGYH_86	=	(unsigned short)-41606173;
- unsigned char UEx4 = -853019847;
+ unsigned char UEx4 = (unsigned char)-853019847;
   long long  p080e85xbD  =  -1054888953;
  unsigned short int VMq80 = -703388758;
     long long    Qv6Dg_6J8    =    -2087052111;
@@ -50,7 +50,7 @@ int main()
   double  y92B_O6  =  -1407131145;
  unsigned short int SarMmi5 = (unsigned short)843056372;
   long long  tWa8Pq6T9C  =  -1285378176;
-    unsigned short    b_kbL4_3    =    1295582418;
+    unsigned short    b_kbL4_3    =    (unsigned short)1295582418;
   unsigned short  BL0Y1  =  -378989796;
  long long JlwQ9f = 2108407841;
     unsigned short    vbSWbfg6vL    =    -1435300967;
@@ -62,7 +62,7 @@ int main()
   long double  r4wDK1l7S  =  1709999306;
  int rA1v1 = 896637881;
 	int	lz3du5j	=	-1664588274;
-	unsigned short	w2WR9e	=	-1574248381;
+	unsigned short	w2WR9e	=	(unsigned short)-1574248381;
     double    qq0XK34g_    =    1348707948;
     long double    Ybea7R7    =    -726221058;
   unsigned short  QFaD52z  =  (unsigned short)-720158287;
@@ -72,7 +72,7 @@ int main()
     unsigned char    jf_G74_    =    (unsigned char)-867395825;
   float  W_37h_I9_  =  243426147;
     char    Zo9C8_    =    -420981978;
-  unsigned short int  B3M3knWX  =  -1174450499;
+  unsigned short int  B3M3knWX  =  (unsigned short)-1174450499;
   unsigned short int  i6d216  =  -2126271013;
   unsigned short int  ghIw  =  -602281185;
 	unsigned short int	Kv2Sg_kc4	=	0;
@@ -202,7 +202,7 @@ Q7A_1bbD7 = dVb_GkO((short)1801421615);
 break;
 }
 
-Kv2Sg_kc4 = J1fp4((unsigned short)1974111934, -1441111875, SarMmi5, k3ahWuR9M);
+Kv2Sg_kc4 = J1fp4((unsigned short)1974111934, (unsigned short)-1441111875, SarMmi5, k3ahWuR9M);
 cxwjv1 /= w2WR9e;
 tWa8Pq6T9C = (long long)(Qv6Dg_6J8);
 

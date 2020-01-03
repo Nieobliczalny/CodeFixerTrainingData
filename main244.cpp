@@ -44,7 +44,7 @@ o396++;
 break;
 case 'e':
 case 'E':
-VPre6GdxU = kTQj96((unsigned short)350526465, -578531295, -850537524, -238877917, -1746255015);
+VPre6GdxU = kTQj96((unsigned short)350526465, (char)-578531295, -850537524, -238877917, -1746255015);
 break;
 case 'f':
 case 'F':
@@ -70,7 +70,7 @@ default:
 lt3Cp_M_ = (QW5s6p >= NW4lT0) ? d27g : WiF66f56N;
 break;
 }
-FU0D8N = kTQj96(-1453023065, j6h48oEc, d4uQv, OV57WOF_, 489991226);
+FU0D8N = kTQj96((unsigned short)-1453023065, j6h48oEc, d4uQv, OV57WOF_, 489991226);
 
 if (d4uQv)
 {
@@ -112,7 +112,7 @@ Bv373ELP_ = (int)abs(Agn221CB);
 break;
 case 'b':
 case 'B':
-Id6269I = c2Ns6g(2093610991, (unsigned short)-775594132, (unsigned short)-1246167046, 1752034178, Zn4X);
+Id6269I = c2Ns6g(2093610991, (unsigned short)-775594132, (unsigned short)-1246167046, (unsigned char)1752034178, Zn4X);
 break;
 }
 }
@@ -214,7 +214,7 @@ case 'f':
 OV57WOF_ = kTQj96(OV57WOF_, (char)-1872116950, G2_3Y, 738397963, (short)-1075900175);
 break;
 case 'g':
-WiF66f56N = kTQj96(-348588329, WmWw162yi, q0HP4M, -1443216258, XkLC3w9);
+WiF66f56N = kTQj96((unsigned short)-348588329, WmWw162yi, q0HP4M, -1443216258, XkLC3w9);
 break;
 case 'h':
 XxxJWt8 = c2Ns6g(-569750768, -1462432258, J4ONG, 865835752, XxxJWt8);
@@ -241,7 +241,7 @@ for (int j = 7; j >= 0; --j)
 {
 if (A9uvjl)
 {
-A9uvjl = kTQj96((unsigned short)1317789122, (char)1614921692, ncy9, BJx1, 1979217608);
+A9uvjl = kTQj96((unsigned short)1317789122, (char)1614921692, ncy9, BJx1, (short)1979217608);
 }
 else
 {
@@ -272,7 +272,7 @@ XpsdT6_9J = kTQj96(XpsdT6_9J, j6h48oEc, 477467419, pw5_7yCd, aGQ12);
 
 Id6269I = c2Ns6g(QW5s6p, e6p0Z39, K4Lq9i26mW, ALw66HDt8, 329525072);
 
-e47lyDP = kTQj96(864809618, 1283482425, z_2d, 1800853693, jYJTT_h);
+e47lyDP = kTQj96((unsigned short)864809618, 1283482425, z_2d, 1800853693, jYJTT_h);
 
 if (wZqa3 >= -462778209)
 {
@@ -282,7 +282,7 @@ else
 {
 for (int j = 0; j < 6; ++j)
 {
-cout << c2Ns6g(Wkt9nRw_, -1898369782, -1314367083, bB86Um7MB, -1535712855) << endl;
+cout << c2Ns6g(Wkt9nRw_, (unsigned short)-1898369782, -1314367083, bB86Um7MB, -1535712855) << endl;
 }
 }
 tMj_Ek2vM = c2Ns6g(z_2d, 840303893, 1116895485, 1343649468, ASkp0_y8_6);

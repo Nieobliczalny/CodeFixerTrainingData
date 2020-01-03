@@ -18,7 +18,7 @@ int main()
     short    M0xg;
     M0xg    =    (short)1492886037;
 	unsigned short	hnEb3;
-	hnEb3	=	-1656571350;
+	hnEb3	=	(unsigned short)-1656571350;
 	long long	e89D;
 	e89D	=	647462920;
  unsigned short kTqDTT707;
@@ -32,7 +32,7 @@ int main()
   unsigned short  K4m3j51;
   K4m3j51  =  (unsigned short)403343221;
     char    EQ4HS19;
-    EQ4HS19    =    1290604355;
+    EQ4HS19    =    (char)1290604355;
     long    yAQn1BMn5;
     yAQn1BMn5    =    529940454;
  int iin4;
@@ -62,7 +62,7 @@ int main()
     short    Fnf4A4po;
     Fnf4A4po    =    (short)-536015527;
   unsigned short  C_5Y7RaQ;
-  C_5Y7RaQ  =  1543258318;
+  C_5Y7RaQ  =  (unsigned short)1543258318;
   unsigned short int  u6_q9dgnP;
   u6_q9dgnP  =  1951889946;
 	unsigned char	KC8q5;

@@ -61,7 +61,7 @@ case 2:
 bpQHbp5Ir5 = u0Vd_uHir / 1808750357;
 break;
 case 3:
-Hw8_9 = Vrm85UX(1829643876, (unsigned short)-95015712, tvjNV_5, (unsigned short)1082904604, -1459637463);
+Hw8_9 = Vrm85UX(1829643876, (unsigned short)-95015712, tvjNV_5, (unsigned short)1082904604, (unsigned short)-1459637463);
 break;
 case 4:
 tvjNV_5 = Hw8_9 ^ WOJi_MC5N;
@@ -109,7 +109,7 @@ F1rYx77Gi1 = Vrm85UX(-780295481, (unsigned short)324955786, n0Ig7n, heM_, XurPB)
 }
 else
 {
-cfdwU38Lc = wohoo(-1397690751, 2016184605, (short)-992022302, 1710903846);
+cfdwU38Lc = wohoo(-1397690751, 2016184605, (short)-992022302, (unsigned short)1710903846);
 }
 }
 catch (int& errorCode)
@@ -155,7 +155,7 @@ cfdwU38Lc = wohoo(eEcVQE9_, -1094579133, F1rYx77Gi1, (unsigned short)-235532872)
 break;
 case 'c':
 case 'C':
-WOJi_MC5N = (Zt6px >= XurPB) ? tvjNV_5 : wohoo(eEcVQE9_, -1682842470, (short)1751826714, -1878703679);
+WOJi_MC5N = (Zt6px >= XurPB) ? tvjNV_5 : wohoo(eEcVQE9_, -1682842470, (short)1751826714, (unsigned short)-1878703679);
 break;
 }
 if ((wr7u7 < 2053006603) || (heM_ < rLeMv))

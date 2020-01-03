@@ -16,7 +16,7 @@ int main(int argc, char** argv)
 {
   short int  G3z2  =  (short)1557532232;
   unsigned short int  Kd2V  =  (unsigned short)438602392;
-	unsigned short	n1175jo	=	2118719492;
+	unsigned short	n1175jo	=	(unsigned short)2118719492;
  long u_6F2 = 0;
   unsigned short  JfNbMf5W  =  128771451;
  short EUTd = 249270116;
@@ -35,7 +35,7 @@ int main(int argc, char** argv)
   float  m95mv3hC8m  =  -1933898161;
  unsigned char t_SnIf = 0;
     short int    j10LJj_    =    (short)81893300;
- unsigned char k75m4u = -1384933666;
+ unsigned char k75m4u = (unsigned char)-1384933666;
 	char	yYso9FCq	=	-1290360810;
   long  ef7px  =  -1381859842;
  float lA5Ojj2v_ = 89214652;
@@ -164,7 +164,7 @@ case 'a':
 m95mv3hC8m = (int)ceil(CgKQBS1I);
 break;
 case 'b':
-j10LJj_ = DH_uwyo(-2020627735, IUZA6s6a, t_SnIf) + 1296789846;
+j10LJj_ = DH_uwyo((unsigned short)-2020627735, IUZA6s6a, t_SnIf) + 1296789846;
 break;
 case 'c':
 t_SnIf = DH_uwyo((unsigned short)-1107866200, pvv4A36Y4, Kd2V);

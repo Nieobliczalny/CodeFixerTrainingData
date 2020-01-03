@@ -38,7 +38,7 @@ xLeo = rznqw(A2FhMO, xLeo, (char)1588594355, a7V8djxvR2);
 break;
 case 'd':
 case 'D':
-Rd1SSN0Z = z_oU2_gu20(1820576830);
+Rd1SSN0Z = z_oU2_gu20((short)1820576830);
 break;
 case 'e':
 case 'E':
@@ -63,7 +63,7 @@ Rd1SSN0Z = rznqw((unsigned short)-2118907895, O43Oy, (char)1702430094, xZVhpLV9h
 }
 }
 
-cout << "dIYy1" << RwRCc29Bd(335306298, O43Oy, a7V8djxvR2, xZVhpLV9h, -396336660) << endl;
+cout << "dIYy1" << RwRCc29Bd(335306298, O43Oy, a7V8djxvR2, xZVhpLV9h, (short)-396336660) << endl;
 
 return 0;
 }

@@ -36,7 +36,7 @@ int main(void)
   long double  r9WVjC;
   r9WVjC  =  1571554775;
   unsigned char  y2SWnv527x;
-  y2SWnv527x  =  980083935;
+  y2SWnv527x  =  (unsigned char)980083935;
 	short int	r1hj;
 	r1hj	=	-2070207664;
  short tWTVN2rKP;
@@ -46,7 +46,7 @@ int main(void)
  short int r_9c5I80x;
  r_9c5I80x = -846702619;
  short int ujC7W1N_;
- ujC7W1N_ = -1364867347;
+ ujC7W1N_ = (short)-1364867347;
  short tMlhcp8p;
  tMlhcp8p = -771619967;
     long double    k3TO;
@@ -60,7 +60,7 @@ int main(void)
  int hVH61Km;
  hVH61Km = 1378075943;
   short int  T0qsYR4;
-  T0qsYR4  =  2055415483;
+  T0qsYR4  =  (short)2055415483;
   short  v1tx7;
   v1tx7  =  (short)-637390138;
 	unsigned char	pQZ_T;
@@ -70,7 +70,7 @@ int main(void)
     unsigned short    hebG8f905;
     hebG8f905    =    1193037201;
  unsigned short V68Trf9;
- V68Trf9 = -439618258;
+ V68Trf9 = (unsigned short)-439618258;
   char  rLsMcJsz;
   rLsMcJsz  =  (char)601728103;
     unsigned short int    F_63Z4rx;
@@ -100,7 +100,7 @@ switch (em66l_2I)
 {
 case 'a':
 case 'A':
-zrHl62W = Yw01(-613922034, 69150314);
+zrHl62W = Yw01(-613922034, (unsigned short)69150314);
 break;
 case 'b':
 case 'B':

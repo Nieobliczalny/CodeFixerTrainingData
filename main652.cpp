@@ -26,7 +26,7 @@ int main(int argc, char** argv)
 	unsigned short int	uF14z	=	(unsigned short)1209726882;
 	float	oS375dN	=	2105622552;
 	unsigned short int	Bv44	=	(unsigned short)2124391168;
- unsigned short int rmWX9 = 273371295;
+ unsigned short int rmWX9 = (unsigned short)273371295;
     int    bqgVgRT    =    -229867850;
 	long	Ff9922882	=	1865761154;
 	long	HZ3ny7Tm	=	-820265819;
@@ -37,7 +37,7 @@ int main(int argc, char** argv)
  unsigned int HRxJV_d = -1865422716;
 	int	aj0HBVqU_I	=	-1193843828;
  unsigned short int EhBc = (unsigned short)1752080845;
-  short int  Id57byq3P  =  -122513000;
+  short int  Id57byq3P  =  (short)-122513000;
     long long    m53h    =    1724195458;
  float oan7IbtSR3 = -951725658;
 	short int	QXiXx	=	0;
@@ -202,7 +202,7 @@ else
 {
 if (MJCBl7DZ63 > -105904374)
 {
-cout << "zvHKl5" << "K_h9k" << ng6B(-269936861, k12Lih, oS375dN, -746095722) << ng6B(-1091433863, k12Lih, oS375dN, -1948847606) << endl;
+cout << "zvHKl5" << "K_h9k" << ng6B((unsigned char)-269936861, k12Lih, oS375dN, -746095722) << ng6B(-1091433863, k12Lih, oS375dN, -1948847606) << endl;
 }
 else if (Xs145OXGiw != sMUf9mPB)
 {
@@ -382,7 +382,7 @@ case 5:
 m53h = Wp3U9(QXiXx, (unsigned short)404599802);
 break;
 case 6:
-l4Mv84_ = ng6B(l4Mv84_, (unsigned char)495372146, -1166218520, Lm6KdYjV);
+l4Mv84_ = ng6B(l4Mv84_, (unsigned char)495372146, (unsigned short)-1166218520, Lm6KdYjV);
 break;
 case 7:
 Bv44 = L4kW2ImZ(-1083828994);
@@ -677,7 +677,7 @@ break;
 }
 cout << k12Lih << Wp3U9(Lm6KdYjV, HRxJV_d) << endl;
 
-cout << "v24y" << sMUf9mPB << "nSfsV0_2nL" << Wp3U9(Lm6KdYjV, HRxJV_d) << ng6B((unsigned char)-992587957, (unsigned char)1487319045, -1000405644, -47133155) << endl;
+cout << "v24y" << sMUf9mPB << "nSfsV0_2nL" << Wp3U9(Lm6KdYjV, HRxJV_d) << ng6B((unsigned char)-992587957, (unsigned char)1487319045, (unsigned short)-1000405644, -47133155) << endl;
 if (h0X_k >= 117162090)
 {
 cout << "j2a2" << endl;

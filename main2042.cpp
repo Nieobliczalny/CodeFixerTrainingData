@@ -228,7 +228,7 @@ else
 {
 try
 {
-G5jI99c2 = TD7nzZough((short)-972715176, 831941447, (short)729379544, 910747986);
+G5jI99c2 = TD7nzZough((short)-972715176, 831941447, (short)729379544, (unsigned short)910747986);
 }
 catch (int& errorCode)
 {

@@ -64,7 +64,7 @@ int main(int argc, char** argv) {
     long double    CdPs2I48;
     CdPs2I48    =    561150408;
     short int    qjpHIs6i_;
-    qjpHIs6i_    =    768465920;
+    qjpHIs6i_    =    (short)768465920;
 	int	iwiu_87j;
 	iwiu_87j	=	1603905440;
   short  UsK_9vlw7;
@@ -122,7 +122,7 @@ int main(int argc, char** argv) {
  unsigned short int b0sy4Cl;
  b0sy4Cl = (unsigned short)-1118487457;
     unsigned short    u7bu8p;
-    u7bu8p    =    1941665410;
+    u7bu8p    =    (unsigned short)1941665410;
   char  w7KX;
   w7KX  =  153105677;
  short int pg96Im4d0s;

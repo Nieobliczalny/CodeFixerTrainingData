@@ -293,7 +293,7 @@ case 3:
 njaMinw = fplL79R(cjr6899S);
 break;
 case 4:
-njaMinw = (njaMinw != xbjS0F_t5M) ? (short)-809901630 : -553181107;
+njaMinw = (njaMinw != xbjS0F_t5M) ? (short)-809901630 : (short)-553181107;
 break;
 case 5:
 njaMinw = WpcM7j1D_y % 2040917813;

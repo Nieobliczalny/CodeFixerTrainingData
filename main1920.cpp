@@ -51,7 +51,7 @@ rhB8B9nZ = VzVjIE_82I | 749469472;
 break;
 case 'f':
 case 'F':
-VzVjIE_82I = J70_9(-614194410, -1485825197, w3JR, rhB8B9nZ, -226875226);
+VzVjIE_82I = J70_9((char)-614194410, -1485825197, w3JR, rhB8B9nZ, -226875226);
 break;
 case 'g':
 case 'G':
@@ -191,7 +191,7 @@ cout << J70_9(HORvasf1, VzVjIE_82I, rhB8B9nZ, w3JR, 1573003817) << "roJjE_" << "
 }
 else if (VzVjIE_82I != 148857362)
 {
-cout << "eHa1fJsD5b" << "u_Qml413_" << rhB8B9nZ << J70_9((char)-1301690079, (short)1482054554, 853485257, w3JR, 865422778) << J70_9(HORvasf1, -1925912593, 1756705336, 1891257665, 1983220302) << endl;
+cout << "eHa1fJsD5b" << "u_Qml413_" << rhB8B9nZ << J70_9((char)-1301690079, (short)1482054554, 853485257, w3JR, 865422778) << J70_9(HORvasf1, (short)-1925912593, 1756705336, 1891257665, 1983220302) << endl;
 }
 else if (HORvasf1)
 {

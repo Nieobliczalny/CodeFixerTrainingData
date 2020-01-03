@@ -25,7 +25,7 @@ int main(void)
   long  j6j9  =  0;
  unsigned long U8V079oe_h = -1863732686;
   unsigned long  VIEO_Ce23l  =  1435467095;
-	short	ef0SyK	=	1219818799;
+	short	ef0SyK	=	(short)1219818799;
  unsigned long long q8hSJXL96 = -751210541;
     short int    boKTNh7bs    =    (short)-1593108897;
     unsigned short int    H0UD1k18    =    (unsigned short)2049760785;
@@ -46,7 +46,7 @@ int main(void)
  unsigned short int JffIc7IS9 = (unsigned short)-8637051;
 	unsigned long long	r4ST4	=	886618091;
  short E3ZY4K9 = (short)-1461868590;
- short G23cm8Io26 = -1139207554;
+ short G23cm8Io26 = (short)-1139207554;
  int Vp2t = 0;
     unsigned char    Wk3t9K7    =    -1108615415;
   short  P_7_sf0_g  =  710385791;
@@ -57,7 +57,7 @@ int main(void)
     short int    JBaDl    =    2102136411;
     unsigned char    jfG96x    =    (unsigned char)-1301380858;
   double  kIX2  =  610518873;
- unsigned short h34e9_ = 250485988;
+ unsigned short h34e9_ = (unsigned short)250485988;
     unsigned long    j18W    =    -997434971;
   char  n3Bw_p  =  872477466;
 	int	ib_bDlg_	=	-913114380;
@@ -68,7 +68,7 @@ int main(void)
   char  gVNTAHxJ1  =  (char)-1906701169;
   unsigned int  wa_IkHzm  =  -396430124;
 	long double	LI2y33_ae	=	2100884087;
-    short int    h5o4    =    -471523247;
+    short int    h5o4    =    (short)-471523247;
  int b654h3g0 = -595084142;
 	long double	Sj3g4K2X	=	-183968210;
     char    D9DU_MbWG    =    1602994644;
@@ -80,7 +80,7 @@ int main(void)
     unsigned short    k9Zj    =    -1065128673;
  double w6bbLva = 113554931;
  unsigned long long yVYsO2 = -888054992;
-  unsigned short  Z87P35__m_  =  1371435469;
+  unsigned short  Z87P35__m_  =  (unsigned short)1371435469;
 	long double	n66v	=	-1587767022;
 	unsigned int	fZ3658a	=	-704069203;
  short hojh83zE6 = 1214289727;
@@ -93,7 +93,7 @@ int main(void)
  unsigned int V7QU7EB = -1814778661;
  long cP4ip2pB8 = -986188241;
 	unsigned char	YNvr6iQxs	=	(unsigned char)-1147059585;
-    unsigned short    FTh_c5    =    224116616;
+    unsigned short    FTh_c5    =    (unsigned short)224116616;
  long long i6g502 = 1702149175;
  short int VQDIzz = 803238344;
 	long	t_4eq5Xz9b	=	-1555780403;

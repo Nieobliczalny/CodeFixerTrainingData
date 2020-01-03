@@ -26,7 +26,7 @@ int main(void) {
  unsigned long long Dzd22ZqZr;
  Dzd22ZqZr = 0;
  unsigned short int Ls8gm;
- Ls8gm = 588271129;
+ Ls8gm = (unsigned short)588271129;
   short int  heN6_E;
   heN6_E  =  0;
 	unsigned short	csq1V755;
@@ -41,7 +41,7 @@ int main(void) {
 switch (I6tGDUR8d_)
 {
 case 0:
-ATEsUe1 = E3oFQr7A(pGNBf82f, (short)-1490247379, -402096468);
+ATEsUe1 = E3oFQr7A(pGNBf82f, (short)-1490247379, (unsigned short)-402096468);
 break;
 case 1:
 Ys0qT = E3oFQr7A(Ys0qT, (short)-501062011, 1855694335);
@@ -118,7 +118,7 @@ z_oQc6f = (int)ceil(yWhJm3SY);
 break;
 case 'd':
 case 'D':
-csq1V755 = E3oFQr7A(csq1V755, (short)1598213900, -687662501);
+csq1V755 = E3oFQr7A(csq1V755, (short)1598213900, (unsigned short)-687662501);
 break;
 case 'e':
 case 'E':
@@ -141,7 +141,7 @@ case 'c':
 yWhJm3SY = (int)floor(z_oQc6f);
 break;
 case 'd':
-Dzd22ZqZr = E3oFQr7A(1814109293, (short)2106616641, -539562573);
+Dzd22ZqZr = E3oFQr7A(1814109293, (short)2106616641, (unsigned short)-539562573);
 break;
 }
 
@@ -156,7 +156,7 @@ case 0:
 Dzd22ZqZr = E3oFQr7A(NXgM0MBalB, (short)-1189406797, (unsigned short)-344226939);
 break;
 case 1:
-csq1V755 = E3oFQr7A(yWhJm3SY, -1165877052, I6tGDUR8d_);
+csq1V755 = E3oFQr7A(yWhJm3SY, (short)-1165877052, I6tGDUR8d_);
 break;
 case 2:
 z_oQc6f = (int)ceil(yWhJm3SY);
@@ -202,7 +202,7 @@ heN6_E = E3oFQr7A(597966448, (short)509196461, NXgM0MBalB);
 }
 else if (Ls8gm != 401149528)
 {
-csq1V755 = E3oFQr7A(859687794, (short)-676963956, 1340510848);
+csq1V755 = E3oFQr7A(859687794, (short)-676963956, (unsigned short)1340510848);
 }
 else if (csq1V755 > -879635473)
 {
@@ -317,7 +317,7 @@ Ys0qT = E3oFQr7A(1879622573, 105329712, yWhJm3SY);
 }
 else if (Ls8gm != yWhJm3SY)
 {
-Dzd22ZqZr = E3oFQr7A(Dzd22ZqZr, -1426034890, I6tGDUR8d_);
+Dzd22ZqZr = E3oFQr7A(Dzd22ZqZr, (short)-1426034890, I6tGDUR8d_);
 }
 else if ((pGNBf82f) || (pGNBf82f <= 1096791282))
 {
@@ -367,7 +367,7 @@ case 3:
 Ys0qT = E3oFQr7A(1064964474, (short)2082132499, (unsigned short)-429904829);
 break;
 case 4:
-ATEsUe1 = E3oFQr7A(T0IZQtnYJ, 1464548468, yWhJm3SY);
+ATEsUe1 = E3oFQr7A(T0IZQtnYJ, (short)1464548468, yWhJm3SY);
 break;
 case 5:
 heN6_E = E3oFQr7A(heN6_E, T0IZQtnYJ, 974614898);

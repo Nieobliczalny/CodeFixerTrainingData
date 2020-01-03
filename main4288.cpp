@@ -69,7 +69,7 @@ int main(void)
 	unsigned long	sKMxar5WN;
 	sKMxar5WN	=	-1190435751;
 	short int	iMLj;
-	iMLj	=	350698381;
+	iMLj	=	(short)350698381;
  long vH4GfD;
  vH4GfD = -128514964;
     long long    REK1;
@@ -99,7 +99,7 @@ int main(void)
   short int  pNa731RxW;
   pNa731RxW  =  (short)924917521;
 	char	Sp8enhE7K;
-	Sp8enhE7K	=	1296792066;
+	Sp8enhE7K	=	(char)1296792066;
   char  doZ6f;
   doZ6f  =  1316583831;
   char  n90V4;
@@ -121,7 +121,7 @@ int main(void)
  long A9qoVC1A1;
  A9qoVC1A1 = -1553224340;
 	short	YF7pt3;
-	YF7pt3	=	1731342654;
+	YF7pt3	=	(short)1731342654;
 	char	v8j74Q;
 	v8j74Q	=	(char)-1959176681;
   int  pg7FaQ;
@@ -131,7 +131,7 @@ int main(void)
  unsigned char m14qT5Q;
  m14qT5Q = -1314111804;
     unsigned short    rCigEf5_z;
-    rCigEf5_z    =    1571936049;
+    rCigEf5_z    =    (unsigned short)1571936049;
  unsigned short hw8r9V;
  hw8r9V = (unsigned short)722108082;
   unsigned char  zu80DOvaJ_;
@@ -179,7 +179,7 @@ int main(void)
     float    f0__xImxh;
     f0__xImxh    =    -712720627;
   unsigned short int  V7WXs8y1FU;
-  V7WXs8y1FU  =  -1749237355;
+  V7WXs8y1FU  =  (unsigned short)-1749237355;
   long double  iQ3J;
   iQ3J  =  -961314670;
   unsigned long  kr70N;
@@ -209,7 +209,7 @@ int main(void)
   unsigned long  ZHVGw1qtEz;
   ZHVGw1qtEz  =  -980344098;
 	unsigned char	CDT95Fdc96;
-	CDT95Fdc96	=	1134047180;
+	CDT95Fdc96	=	(unsigned char)1134047180;
  long long Z_4mDn8187;
  Z_4mDn8187 = -1948220625;
   unsigned char  R6U2C_C7;
@@ -221,7 +221,7 @@ int main(void)
   double  KdRyI5LWLb;
   KdRyI5LWLb  =  -1734217602;
   unsigned short  umPnsE7_;
-  umPnsE7_  =  1228248221;
+  umPnsE7_  =  (unsigned short)1228248221;
 
 if (Z_4mDn8187 & sKMxar5WN)
 {
@@ -255,7 +255,7 @@ while (j < 9);
 while (i < 1);
 }
 
-std::cout << F93_jDN0(O54Q2, YF7pt3, tM5w5S4liL, (unsigned short)157194757) << F93_jDN0((unsigned short)-88999333, 822622783, tM5w5S4liL, 1657932819) << std::endl;
+std::cout << F93_jDN0(O54Q2, YF7pt3, tM5w5S4liL, (unsigned short)157194757) << F93_jDN0((unsigned short)-88999333, (unsigned short)822622783, tM5w5S4liL, 1657932819) << std::endl;
 aBvC_S5g = w2Ris(2025419773);
 if (BcVeMu <= -1562533954)
 {
@@ -328,7 +328,7 @@ try
 {
 if (AEoiF4WN != 1488813077)
 {
-iQ3J = F93_jDN0((unsigned short)2063754572, (unsigned short)-2063487875, IhCE_kK, 102158398);
+iQ3J = F93_jDN0((unsigned short)2063754572, (unsigned short)-2063487875, IhCE_kK, (unsigned short)102158398);
 }
 else if (A9qoVC1A1 <= 984648702)
 {

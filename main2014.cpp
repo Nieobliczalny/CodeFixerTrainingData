@@ -21,7 +21,7 @@ int main()
     char    m504BOBo,    L79V7,    n9y75K,    r9l05wUq,    RBJ05824,    gIp405,    H2TJKN,    RYsd,    qK7x9;
     m504BOBo    =    (char)-133912176;
     L79V7    =    (char)-1838984565;
-    n9y75K    =    -568583307;
+    n9y75K    =    (char)-568583307;
     r9l05wUq    =    -1513583730;
     RBJ05824    =    1412603033;
     gIp405    =    2040751277;
@@ -103,7 +103,7 @@ case 'b':
 LxRbc2yiko = Ck0pKZkp((short)-1617620892, gIp405);
 break;
 case 'c':
-oMo66Xmf = Ck0pKZkp(-1599983559, RBJ05824);
+oMo66Xmf = Ck0pKZkp((short)-1599983559, RBJ05824);
 break;
 case 'd':
 LxRbc2yiko = Ck0pKZkp(18352579, 1480311478);
@@ -180,7 +180,7 @@ case 3:
 oMo66Xmf = Ck0pKZkp((short)-1947923413, RBJ05824);
 break;
 case 4:
-LxRbc2yiko = Ck0pKZkp(-187916802, RBJ05824);
+LxRbc2yiko = Ck0pKZkp((short)-187916802, RBJ05824);
 break;
 case 5:
 oMo66Xmf = Ck0pKZkp(oMo66Xmf, 347913606);

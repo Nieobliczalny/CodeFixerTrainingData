@@ -48,7 +48,7 @@ int main(int argc, char** argv)
     unsigned short int    BbZda2h3;
     BbZda2h3    =    (unsigned short)882530538;
   unsigned char  JPtUo4V02;
-  JPtUo4V02  =  1527291694;
+  JPtUo4V02  =  (unsigned char)1527291694;
  unsigned short int T8J35kp_;
  T8J35kp_ = (unsigned short)-316106035;
  char PrE56O4;
@@ -66,7 +66,7 @@ int main(int argc, char** argv)
   short int  Cm_8fp;
   Cm_8fp  =  (short)-1264124715;
  unsigned short int m2yD4;
- m2yD4 = 1762274535;
+ m2yD4 = (unsigned short)1762274535;
   long long  Y0JWOuhs;
   Y0JWOuhs  =  -194733323;
     unsigned long long    cowk_;
@@ -120,7 +120,7 @@ int main(int argc, char** argv)
   unsigned short  v_B0D7p79;
   v_B0D7p79  =  (unsigned short)-135276611;
 	short	h_OJHKIy;
-	h_OJHKIy	=	-927011137;
+	h_OJHKIy	=	(short)-927011137;
  unsigned int G8dPWgYT;
  G8dPWgYT = 0;
 	unsigned int	Q0XTS;
@@ -134,7 +134,7 @@ int main(int argc, char** argv)
 	unsigned short int	bDJECfi45;
 	bDJECfi45	=	0;
   char  L00hboW;
-  L00hboW  =  -313466000;
+  L00hboW  =  (char)-313466000;
     unsigned short int    vEkUF_ZQs;
     vEkUF_ZQs    =    592710029;
     int    E6y1;
@@ -166,7 +166,7 @@ ks6rz3V = CL45b(ks6rz3V, w198i);
 break;
 case 'f':
 case 'F':
-bDJECfi45 = Y7UM7NW69((unsigned char)-1446609105, 607413747, 1875233126, N6qu);
+bDJECfi45 = Y7UM7NW69((unsigned char)-1446609105, (unsigned short)607413747, 1875233126, N6qu);
 break;
 case 'g':
 case 'G':
@@ -285,7 +285,7 @@ int i = 4;
 while (i >= 0)
 {
 --i;
-G8dPWgYT = Y7UM7NW69((unsigned char)-949762532, (unsigned short)1737546007, Vj__7_6, -1833174739);
+G8dPWgYT = Y7UM7NW69((unsigned char)-949762532, (unsigned short)1737546007, Vj__7_6, (unsigned short)-1833174739);
 }
 }
 try

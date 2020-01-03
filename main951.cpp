@@ -11,7 +11,7 @@ using namespace std;
 int main(void) {
  short int me96o = (short)158983010;
 	short int	D4N9	=	(short)1361611023;
-    unsigned short    Ye5Q    =    830670772;
+    unsigned short    Ye5Q    =    (unsigned short)830670772;
   unsigned long  y_CVVez1T  =  -1565724848;
   unsigned long long  Yp3n5Wj  =  1309237176;
   long double  jhXzps  =  -1518373034;
@@ -26,7 +26,7 @@ int main(void) {
     float    s0Id6J    =    -1660445101;
  double X5X1uFdH0I = -420495340;
     int    s_wJj7orV    =    -465830616;
-    unsigned short    ZBU6h7    =    -1389263240;
+    unsigned short    ZBU6h7    =    (unsigned short)-1389263240;
   unsigned char  DnFl  =  -1219937798;
     unsigned short    p5WN88c    =    -1207278535;
     int    tv7OuM94    =    760049990;

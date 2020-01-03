@@ -118,7 +118,7 @@ TACBS751E = (r81I4sb8kk == 591931211) ? 211123931 : q_NU9uT7(TACBS751E, QF07pgQs
 break;
 case 'd':
 case 'D':
-r81I4sb8kk = q_NU9uT7((short)-660976206, 1016539230, -978262253, -886294931);
+r81I4sb8kk = q_NU9uT7((short)-660976206, (unsigned short)1016539230, -978262253, -886294931);
 break;
 case 'e':
 case 'E':
@@ -170,7 +170,7 @@ case 7:
 QF07pgQsp = q_NU9uT7(QF07pgQsp, (unsigned short)514594096, -1632793027, Vp8I);
 break;
 case 8:
-TACBS751E = q_NU9uT7(126136225, 1557767667, -1803096284, 358220086) ^ 1397446141;
+TACBS751E = q_NU9uT7((short)126136225, 1557767667, -1803096284, 358220086) ^ 1397446141;
 break;
 }
 }
@@ -359,7 +359,7 @@ i++;
 while (i < 8);
 }
 
-std::cout << "b25GWWyy8G" << "Gk93" << fcJIO1Xc(Vp8I, -1181541436, (unsigned short)246403419, uB566, -1332842098) << WzA279yt0 << std::endl;
+std::cout << "b25GWWyy8G" << "Gk93" << fcJIO1Xc(Vp8I, -1181541436, (unsigned short)246403419, uB566, (unsigned char)-1332842098) << WzA279yt0 << std::endl;
 
 WzA279yt0 = (int)(TACBS751E * WzA279yt0);
 

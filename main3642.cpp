@@ -85,7 +85,7 @@ int main(int argc, char** argv) {
  unsigned char h9z1_D;
  h9z1_D = (unsigned char)-1059371702;
   short  z60LGg;
-  z60LGg  =  795436156;
+  z60LGg  =  (short)795436156;
 	unsigned char	L0_0Z68_y9;
 	L0_0Z68_y9	=	1662276480;
   short int  k624;
@@ -109,7 +109,7 @@ int main(int argc, char** argv) {
   short int  k2Miul1;
   k2Miul1  =  (short)-1981123951;
  char pN59;
- pN59 = 1575258631;
+ pN59 = (char)1575258631;
  unsigned int h0999Ws19;
  h0999Ws19 = 775246517;
 	unsigned int	g9H5f7UU6;
@@ -131,7 +131,7 @@ int main(int argc, char** argv) {
  short int RhhsWgEQqP;
  RhhsWgEQqP = (short)815363395;
   short int  WQOP5vG7wI;
-  WQOP5vG7wI  =  -320598386;
+  WQOP5vG7wI  =  (short)-320598386;
     unsigned long long    uT6FZ;
     uT6FZ    =    1856134013;
   char  lMi8kc10l;
@@ -161,7 +161,7 @@ int main(int argc, char** argv) {
 	unsigned short int	E87Q57;
 	E87Q57	=	(unsigned short)1966841818;
     short int    ITdI_;
-    ITdI_    =    -56503751;
+    ITdI_    =    (short)-56503751;
  long double w3OXmE_;
  w3OXmE_ = 1267201734;
 	long long	b_WUui;
@@ -171,7 +171,7 @@ int main(int argc, char** argv) {
  unsigned short Py9w8N;
  Py9w8N = (unsigned short)1692330706;
  unsigned char U5_771;
- U5_771 = -451877243;
+ U5_771 = (unsigned char)-451877243;
     int    Ijxd_8Kx;
     Ijxd_8Kx    =    804393884;
   int  T7VPeFo;

@@ -200,7 +200,7 @@ break;
 x4vF1Vrol5 = (unsigned long long)(ni7SsLTKn + (-1201034268));
 
 std::cout << "tCr1L" << g4YGN152O(x4vF1Vrol5, -760396293, (short)866874954, 498905904, -1640874560) << std::endl;
-std::cout << R_IABh(-1579769288, 223435552, JSSj37U) << std::endl;
+std::cout << R_IABh((short)-1579769288, 223435552, JSSj37U) << std::endl;
 {
 int i = 0;
 do
@@ -306,7 +306,7 @@ JSSj37U = K56b << 954217239;
 }
 else
 {
-Qvx6tHY3h0 = CcE2((unsigned short)193670797, (unsigned short)475612111, 921787925);
+Qvx6tHY3h0 = CcE2((unsigned short)193670797, (unsigned short)475612111, (short)921787925);
 }
 
 if (Qvx6tHY3h0 > -1697834872)
@@ -526,7 +526,7 @@ case 2:
 Os19 = (int)abs(iOyDe);
 break;
 case 3:
-JSSj37U = CcE2(JSSj37U, (unsigned short)1283819493, -564023028);
+JSSj37U = CcE2(JSSj37U, (unsigned short)1283819493, (short)-564023028);
 break;
 case 4:
 Os19 = (int)abs(ni7SsLTKn);

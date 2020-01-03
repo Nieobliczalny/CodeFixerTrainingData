@@ -254,7 +254,7 @@ i++;
 }
 }
 
-QRIqf8Wtc = S9L0(l3aA9_V, 929074632, 1453849311, 752172086);
+QRIqf8Wtc = S9L0(l3aA9_V, (unsigned short)929074632, 1453849311, 752172086);
 {
 int i = 7;
 while (i >= 0)
@@ -270,7 +270,7 @@ std::cout << t6h_6_Y << "jB40ufo5" << S9L0(1821728218, (unsigned short)123947624
 }
 else if ((Qlic095H > r8RsTK1) && (oohYAC0sh > O2Yr0x_si))
 {
-K34_57Pp = S9L0(892058552, 365170486, V6dl9L1, 1080377954);
+K34_57Pp = S9L0(892058552, (unsigned short)365170486, V6dl9L1, 1080377954);
 }
 else
 {
@@ -398,7 +398,7 @@ K34_57Pp = S9L0(-1336305703, kb17tEg, -1502464329, -1261996819);
 }
 }
 }
-std::cout << "pz0G6r" << SrF2jV(bp_9, 335283795, -2025918130, No3l7Wa8) << S9L0(bp_9, (unsigned short)-1262066395, -1205573681, No3l7Wa8) << S9L0(-1327969904, kb17tEg, K55XHfR5_W, 1205266245) << std::endl;
+std::cout << "pz0G6r" << SrF2jV(bp_9, 335283795, -2025918130, No3l7Wa8) << S9L0(bp_9, (unsigned short)-1262066395, (char)-1205573681, No3l7Wa8) << S9L0(-1327969904, kb17tEg, K55XHfR5_W, 1205266245) << std::endl;
 for (int i = 9; i >= 0; --i)
 {
 for (int j = 9; j >= 0; j--)

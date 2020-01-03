@@ -63,7 +63,7 @@ w6WH10n = (short int)(aa23d);
 int i = 5;
 while (i >= 0)
 {
-std::cout << Q7Wq1i8M((short)-1029326602, FjW2A3eo, q2_KyCh3c, (short)1769805599) << xAt7(atH0W0fS, -1557368518, q2_KyCh3c) << std::endl;
+std::cout << Q7Wq1i8M((short)-1029326602, FjW2A3eo, q2_KyCh3c, (short)1769805599) << xAt7(atH0W0fS, (unsigned short)-1557368518, q2_KyCh3c) << std::endl;
 --i;
 }
 }

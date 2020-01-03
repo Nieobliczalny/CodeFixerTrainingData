@@ -25,7 +25,7 @@ unsigned char	BQF_8(unsigned int	k448j_B,unsigned int	r56Z78o4TW,short	MpD0kiGF0
 int main(int argc, char** argv) {
 	unsigned short int	nm_KUb4S,	xp75Sn_,	dn_gNt6,	yWX6qo9,	TdqV,	kN0_G,	QnZ2dzjV9q,	zoqG909P,	R75of0,	F7a01,	rfmeC_,	JH_aqwX,	cP_1p,	GO92,	TC7gC_kI,	T5hdgV,	x63UtL7,	Q_07G74TE,	AreF1OS,	Q95Dq2q3,	HMXqK,	Po9Vo,	q12M,	FztQ,	Ohf1,	n9gy4o96,	Ec56n8En6,	qka8xL450N,	j4N58za,	usaBn4529,	hsnbdpE7,	t_8Usu,	H_36h_3;
 	nm_KUb4S	=	(unsigned short)1069197322;
-	xp75Sn_	=	717843199;
+	xp75Sn_	=	(unsigned short)717843199;
 	dn_gNt6	=	361877932;
 	yWX6qo9	=	1365630386;
 	TdqV	=	961158328;
@@ -35,7 +35,7 @@ int main(int argc, char** argv) {
 	R75of0	=	-1539395306;
 	F7a01	=	211968293;
 	rfmeC_	=	(unsigned short)-122704543;
-	JH_aqwX	=	1950239604;
+	JH_aqwX	=	(unsigned short)1950239604;
 	cP_1p	=	-2073993192;
 	GO92	=	1206156990;
 	TC7gC_kI	=	-2082896546;
@@ -45,7 +45,7 @@ int main(int argc, char** argv) {
 	AreF1OS	=	-676499179;
 	Q95Dq2q3	=	-400598368;
 	HMXqK	=	(unsigned short)-1332242447;
-	Po9Vo	=	-2106854950;
+	Po9Vo	=	(unsigned short)-2106854950;
 	q12M	=	-630177835;
 	FztQ	=	544626873;
 	Ohf1	=	526151801;
@@ -55,7 +55,7 @@ int main(int argc, char** argv) {
 	j4N58za	=	1667650762;
 	usaBn4529	=	-397696626;
 	hsnbdpE7	=	(unsigned short)-140265539;
-	t_8Usu	=	-592460519;
+	t_8Usu	=	(unsigned short)-592460519;
 	H_36h_3	=	-135295099;
     long    O4V_B7U,    x_hMl92,    w_YRD9Q;
     O4V_B7U    =    0;
@@ -100,7 +100,7 @@ TdqV = QnZ2dzjV9q | qka8xL450N;
 }
 while (i >= 0);
 }
-std::cout << "D6fq4" << BQF_8(GO92, FztQ, (short)-1986899819, (short)1633572244, 1339003270) << TC7gC_kI << std::endl;
+std::cout << "D6fq4" << BQF_8(GO92, FztQ, (short)-1986899819, (short)1633572244, (unsigned char)1339003270) << TC7gC_kI << std::endl;
 Ec56n8En6 = (unsigned short int)(R75of0);
 std::cout << BQF_8(GO92, FztQ, kN0_G, yWX6qo9, dn_gNt6) << "gM94D2_" << "uEfAt61" << std::endl;
 
@@ -162,7 +162,7 @@ while (i >= 0);
 Ohf1 %= dn_gNt6;
 for (int i = 0; i < 1; ++i)
 {
-std::cout << BQF_8(GO92, 1445676973, Q_07G74TE, Po9Vo, (unsigned char)-2114541537) << n48K(GO92, nm_KUb4S, (short)-397390761) << F7a01 << BQF_8(GO92, nm_KUb4S, Q_07G74TE, -927442973, 713217055) << rfmeC_ << std::endl;
+std::cout << BQF_8(GO92, 1445676973, Q_07G74TE, Po9Vo, (unsigned char)-2114541537) << n48K(GO92, nm_KUb4S, (short)-397390761) << F7a01 << BQF_8(GO92, nm_KUb4S, Q_07G74TE, (short)-927442973, 713217055) << rfmeC_ << std::endl;
 }
 
 {
@@ -217,7 +217,7 @@ JH_aqwX = BQF_8(rfmeC_, -335014168, (short)-162016291, w_YRD9Q, (unsigned char)-
 break;
 case 'b':
 case 'B':
-T5hdgV = BQF_8(-2099894812, Ec56n8En6, 1345310861, FztQ, -182532244);
+T5hdgV = BQF_8(-2099894812, Ec56n8En6, (short)1345310861, FztQ, -182532244);
 break;
 case 'c':
 case 'C':
@@ -286,7 +286,7 @@ AreF1OS = BQF_8(AreF1OS, x_hMl92, (short)2059756365, w_YRD9Q, (unsigned char)128
 
 if ((Q95Dq2q3 == -1595958697) && (yWX6qo9 != 217448345))
 {
-rfmeC_ = (yWX6qo9) ? yWX6qo9 : -1607222080;
+rfmeC_ = (yWX6qo9) ? yWX6qo9 : (unsigned short)-1607222080;
 }
 else
 {
@@ -307,7 +307,7 @@ JH_aqwX = jdSbT28F6(usaBn4529, Q_07G74TE) | 141346494;
 
 for (int i = 1; i >= 0; i--)
 {
-std::cout << jdSbT28F6(usaBn4529, (unsigned short)2124861407) << BQF_8(usaBn4529, 545905953, Ohf1, (short)393032891, -1216646021) << "kwMEwa15" << n48K(-44812931, Q_07G74TE, -336105221) << std::endl;
+std::cout << jdSbT28F6(usaBn4529, (unsigned short)2124861407) << BQF_8(usaBn4529, 545905953, Ohf1, (short)393032891, (unsigned char)-1216646021) << "kwMEwa15" << n48K(-44812931, Q_07G74TE, -336105221) << std::endl;
 }
 
 if (((n9gy4o96 != FztQ) || (O4V_B7U == F7a01)) || (xp75Sn_ < zoqG909P))
@@ -357,7 +357,7 @@ case 'g':
 xp75Sn_ = F7a01 ^ 1072708733;
 break;
 case 'h':
-x63UtL7 = jdSbT28F6((unsigned short)-1726544275, -841835957) >> H_36h_3;
+x63UtL7 = jdSbT28F6((unsigned short)-1726544275, (unsigned short)-841835957) >> H_36h_3;
 break;
 case 'i':
 TdqV /= 71360275;
@@ -439,7 +439,7 @@ case 'b':
 O4V_B7U = jdSbT28F6(Q95Dq2q3, (unsigned short)1539410291);
 break;
 case 'c':
-Ohf1 = n48K((unsigned char)603529866, qka8xL450N, 684198363);
+Ohf1 = n48K((unsigned char)603529866, qka8xL450N, (short)684198363);
 break;
 case 'd':
 Ohf1 |= 1062552597;

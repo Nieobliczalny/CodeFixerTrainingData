@@ -25,7 +25,7 @@ int main(int argc, char** argv)
 	short	k4O0_ZklJ,	C2ZNjirEO,	c5HW2x08,	J3If9h7rDD,	U_b83,	TOVG,	S831c,	rc_1HdBIy3,	bs8Fz,	zi4U,	Kl22qG,	W5DrrTK26,	Vf7_WJlB,	hu7t,	JVy0Q,	Ly_oWpkYo,	YSANqxL1,	iz3J7a,	nc7186e,	fwEnFHZ,	tJA1G9I7,	JIrx5w,	kI9X9FHGU;
 	k4O0_ZklJ	=	(short)1191533692;
 	C2ZNjirEO	=	(short)738930764;
-	c5HW2x08	=	381362414;
+	c5HW2x08	=	(short)381362414;
 	J3If9h7rDD	=	-1107955350;
 	U_b83	=	119727438;
 	TOVG	=	-1864241120;
@@ -35,7 +35,7 @@ int main(int argc, char** argv)
 	zi4U	=	-1946909455;
 	Kl22qG	=	(short)-201257625;
 	W5DrrTK26	=	(short)-144814646;
-	Vf7_WJlB	=	-1641513464;
+	Vf7_WJlB	=	(short)-1641513464;
 	hu7t	=	-1019438735;
 	JVy0Q	=	-594696860;
 	Ly_oWpkYo	=	-1922419705;
@@ -45,7 +45,7 @@ int main(int argc, char** argv)
 	fwEnFHZ	=	-647550855;
 	tJA1G9I7	=	(short)-190659127;
 	JIrx5w	=	(short)-1578713072;
-	kI9X9FHGU	=	-1775489457;
+	kI9X9FHGU	=	(short)-1775489457;
     unsigned char    LaB1Y7yj;
     LaB1Y7yj    =    0;
 
@@ -64,7 +64,7 @@ catch (int& errorCode)
 {
 LaB1Y7yj = PKlam35(-754426411, Kl22qG, iz3J7a, c5HW2x08);
 }
-cout << "mbp_J" << NEq1KUSrs(-799073347, -2042848167, (short)-1324490589) << NEq1KUSrs(1773637385, Kl22qG, 274237885) << p3G8Uj2(J3If9h7rDD) << PKlam35(-582985634, Kl22qG, iz3J7a, c5HW2x08) << endl;
+cout << "mbp_J" << NEq1KUSrs(-799073347, -2042848167, (short)-1324490589) << NEq1KUSrs(1773637385, Kl22qG, (short)274237885) << p3G8Uj2(J3If9h7rDD) << PKlam35(-582985634, Kl22qG, iz3J7a, c5HW2x08) << endl;
 if (fwEnFHZ != -1327365028)
 {
 if (JIrx5w <= YSANqxL1)
@@ -158,7 +158,7 @@ case 1:
 C2ZNjirEO = (int)abs(J3If9h7rDD);
 break;
 case 2:
-LaB1Y7yj = PKlam35((char)2025306140, (short)1744311966, -533234965, 1472198256);
+LaB1Y7yj = PKlam35((char)2025306140, (short)1744311966, -533234965, (unsigned char)1472198256);
 break;
 default:
 JVy0Q = p3G8Uj2(JVy0Q);
@@ -216,7 +216,7 @@ if (PKlam35((char)1056851446, bs8Fz, Ly_oWpkYo, J3If9h7rDD) == 0)
 {
 	YSANqxL1 = W5DrrTK26 / PKlam35((char)1056851446, bs8Fz, Ly_oWpkYo, J3If9h7rDD);
 }
-nc7186e = NEq1KUSrs(iz3J7a, bs8Fz, 2090336625) * 603553981;
+nc7186e = NEq1KUSrs(iz3J7a, bs8Fz, (short)2090336625) * 603553981;
 
 hu7t = (int)abs(U_b83);
 

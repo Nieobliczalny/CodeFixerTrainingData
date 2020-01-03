@@ -55,7 +55,7 @@ case 2:
 eiyuf8N9n = z6QF8h << 2099746801;
 break;
 case 3:
-IHIywmQUVx = i9mT66((short)-1163082960, M9Z4, (short)-397871682, -1757534270) << Cu1n9;
+IHIywmQUVx = i9mT66((short)-1163082960, M9Z4, (short)-397871682, (unsigned short)-1757534270) << Cu1n9;
 break;
 case 4:
 Cu1n9 += eiyuf8N9n;
@@ -70,7 +70,7 @@ case 7:
 eiyuf8N9n = vu9_RrH5TX(z6QF8h, -941058406);
 break;
 case 8:
-Az9D42sia1 = i9mT66((short)-667098342, (unsigned short)-1792352350, 1723654086, SHeL2);
+Az9D42sia1 = i9mT66((short)-667098342, (unsigned short)-1792352350, (short)1723654086, SHeL2);
 break;
 }
 
@@ -162,7 +162,7 @@ Az9D42sia1 /= jSi_5S;
 }
 else
 {
-z6QF8h = lFwBW_oT0(-94691068, eiyuf8N9n, 1052633573);
+z6QF8h = lFwBW_oT0(-94691068, eiyuf8N9n, (unsigned char)1052633573);
 }
 }
 }
@@ -217,7 +217,7 @@ Az9D42sia1++;
 break;
 case 'c':
 case 'C':
-eiyuf8N9n = foIz_c2h2b(eiyuf8N9n, (char)-1239985973, (unsigned short)232590337, 654811171);
+eiyuf8N9n = foIz_c2h2b(eiyuf8N9n, (char)-1239985973, (unsigned short)232590337, (unsigned short)654811171);
 break;
 case 'd':
 case 'D':
@@ -251,7 +251,7 @@ cout << z6QF8h << "klK9UJE0" << jSi_5S << vu9_RrH5TX(726029630, -476156927) << "
 }
 else
 {
-cout << foIz_c2h2b(Az9D42sia1, (char)2053652380, (unsigned short)727369561, SHeL2) << "Ee_4JZ36" << foIz_c2h2b(-1616937912, -1466533249, IHIywmQUVx, SHeL2) << endl;
+cout << foIz_c2h2b(Az9D42sia1, (char)2053652380, (unsigned short)727369561, SHeL2) << "Ee_4JZ36" << foIz_c2h2b((short)-1616937912, -1466533249, IHIywmQUVx, SHeL2) << endl;
 }
 
 K3w1 = (int)(Cu1n9);
@@ -468,7 +468,7 @@ Az9D42sia1 = z6QF8h << K3w1;
 break;
 case 'd':
 case 'D':
-IHIywmQUVx = foIz_c2h2b((short)460907894, (char)980648632, K3w1, 2016890423);
+IHIywmQUVx = foIz_c2h2b((short)460907894, (char)980648632, K3w1, (unsigned short)2016890423);
 break;
 case 'e':
 case 'E':
@@ -495,7 +495,7 @@ catch (int& errorCode)
 Cu1n9 = Az9D42sia1 ^ eiyuf8N9n;
 }
 
-M9Z4 = foIz_c2h2b((short)-990405710, IHIywmQUVx, (unsigned short)-1430287828, -812778027);
+M9Z4 = foIz_c2h2b((short)-990405710, IHIywmQUVx, (unsigned short)-1430287828, (unsigned short)-812778027);
 
 {
 int i = 0;

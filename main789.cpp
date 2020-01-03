@@ -74,7 +74,7 @@ case 3:
 PxMUJ7G0M %= sz23uE;
 break;
 case 4:
-f805W4 = ZMTd_x_(f805W4, (short)-256045202, 1224999314);
+f805W4 = ZMTd_x_(f805W4, (short)-256045202, (char)1224999314);
 break;
 case 5:
 SnT_WUri5 = ZMTd_x_(-1635716055, SnT_WUri5, zMvl);
@@ -113,7 +113,7 @@ FccpgMwb = ZMTd_x_(-1312001804, (short)628858789, (char)1774459153);
 }
 else if (E9s_8Ypo0 > -1506347115)
 {
-f805W4 = ZMTd_x_(1351175358, -1885416332, 1056913219);
+f805W4 = ZMTd_x_(1351175358, (short)-1885416332, 1056913219);
 }
 else if (f805W4)
 {
@@ -152,7 +152,7 @@ J52Z_ = ZMTd_x_(1237587851, (short)-522414878, (char)580210942);
 break;
 case 'd':
 case 'D':
-f805W4 = ZMTd_x_(-320798234, K6EgqdbxjI, 2138955752);
+f805W4 = ZMTd_x_(-320798234, K6EgqdbxjI, (char)2138955752);
 break;
 case 'e':
 case 'E':
@@ -179,7 +179,7 @@ case 'J':
 FccpgMwb = ZMTd_x_(1015619522, (short)1373634304, J52Z_);
 break;
 default:
-f805W4 = ZMTd_x_(sz23uE, (short)-1859675704, 1870273692);
+f805W4 = ZMTd_x_(sz23uE, (short)-1859675704, (char)1870273692);
 break;
 }
 }
@@ -302,7 +302,7 @@ zMvl = J52Z_ + E9s_8Ypo0;
 
 f805W4 = ZMTd_x_(sz23uE, (short)-1760464151, (char)-380251412);
 
-std::cout << 1815801962 / ZMTd_x_(-971686914, 865482090, -1730172911) << std::endl;
+std::cout << 1815801962 / ZMTd_x_(-971686914, (short)865482090, -1730172911) << std::endl;
 
 if (SnT_WUri5 < n5Fs2_F9F)
 {

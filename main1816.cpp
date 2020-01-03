@@ -43,7 +43,7 @@ int main(void) {
   short int  NJC4;
   NJC4  =  (short)1783891381;
 	unsigned short	aaE5ov111;
-	aaE5ov111	=	749928578;
+	aaE5ov111	=	(unsigned short)749928578;
   unsigned short int  eZlm3uLr;
   eZlm3uLr  =  (unsigned short)-1815652578;
     unsigned int    D2TiS;
@@ -59,7 +59,7 @@ int main(void) {
  char tYkpa3aKxz;
  tYkpa3aKxz = (char)1841745868;
     unsigned short int    A5Q0o;
-    A5Q0o    =    1981333519;
+    A5Q0o    =    (unsigned short)1981333519;
  unsigned long l3Qf0;
  l3Qf0 = 376929303;
     int    ABvG;

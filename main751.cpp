@@ -391,7 +391,7 @@ unsigned char jzEoq9(unsigned char jTOjU)
 }
 
 short JCVc() {
- return 759334954;
+ return (short)759334954;
 }
 
 unsigned short	W652b(long long	uf60Z5hM07,long	n39UuMYkY,int	AEx_tvP,unsigned short int	X57777K2)

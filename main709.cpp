@@ -38,7 +38,7 @@ int main(void)
 	short	jEdRCq;
 	jEdRCq	=	(short)2111938442;
   unsigned short int  BenUi3;
-  BenUi3  =  -1646944882;
+  BenUi3  =  (unsigned short)-1646944882;
 	unsigned long long	pyD9v_12V;
 	pyD9v_12V	=	1507423637;
     long    dP51_X4l;
@@ -102,7 +102,7 @@ int main(void)
 	int	D2rD9;
 	D2rD9	=	562608279;
   unsigned char  QUu2PKR_;
-  QUu2PKR_  =  632456392;
+  QUu2PKR_  =  (unsigned char)632456392;
   long long  gbu60QtS;
   gbu60QtS  =  -703260785;
   unsigned long long  U_3XZO31W;
@@ -130,7 +130,7 @@ int main(void)
 	unsigned char	dC4AMdD4;
 	dC4AMdD4	=	(unsigned char)-1190218959;
   unsigned char  hHD3uSr;
-  hHD3uSr  =  1140845155;
+  hHD3uSr  =  (unsigned char)1140845155;
  double yc41;
  yc41 = 2051950151;
   unsigned long long  R5490;
@@ -246,7 +246,7 @@ BenUi3 = F10l6W7j((unsigned short)359204987, U_3XZO31W, z546b3lz, e96v_59bT7);
 }
 else if (jEdRCq <= 1340335359)
 {
-skHH7RNPA = F10l6W7j((unsigned short)-1306067281, Qq2fd, 1361554843, 965765906);
+skHH7RNPA = F10l6W7j((unsigned short)-1306067281, Qq2fd, 1361554843, (char)965765906);
 }
 else
 {

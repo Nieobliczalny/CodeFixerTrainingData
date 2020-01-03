@@ -332,7 +332,7 @@ iO5P4 = -590563933 / fmRfn();
 std::cout << m9cy << std::endl;
 
 u0p55 = (int)abs(q_5J_);
-iO5P4 = u_6T(1224604922, 1223071093, 1251703657);
+iO5P4 = u_6T((short)1224604922, 1223071093, 1251703657);
 
 for (int i = 8; i >= 0; i--)
 {
@@ -359,7 +359,7 @@ try
 {
 for (int k = 0; k < 1; k++)
 {
-fp44v = u_6T((short)1818750866, (short)-572081339, -1568655914);
+fp44v = u_6T((short)1818750866, (short)-572081339, (short)-1568655914);
 }
 }
 catch (int& errorCode)

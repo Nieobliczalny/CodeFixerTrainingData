@@ -27,7 +27,7 @@ int main() {
     double    CWh0Cx    =    248117877;
   unsigned short int  bj9nPla_  =  0;
 	unsigned long	sM0x20WW	=	1130177028;
- unsigned short int XK01a_ = 565864745;
+ unsigned short int XK01a_ = (unsigned short)565864745;
  float u15rKK = 862031765;
 	int	z0aI6	=	332601257;
   long long  gbH_  =  1434256807;
@@ -41,7 +41,7 @@ int main() {
     unsigned short    d6E48kX    =    (unsigned short)1419025721;
 	unsigned int	bs3b56O74	=	1683465490;
  long rL8_IwP = -878356079;
-	unsigned short	rGtutY7J6E	=	-1264223228;
+	unsigned short	rGtutY7J6E	=	(unsigned short)-1264223228;
   unsigned short  JA87Dz6uQ8  =  -1081002542;
   char  I87Wqz  =  -1306978462;
  unsigned short Te1o41v__5 = -1696424731;
@@ -70,7 +70,7 @@ int main() {
 std::cout << Cs64Py << aHwYdU1 << std::endl;
 bs3b56O74 &= 1649833687;
 
-std::cout << O6gdK5OXR((unsigned char)-780700840, sWXuu6, u15rKK, 975377629) << o1398 << O6gdK5OXR(m459Bh2RUq, 731632580, 1800279936, 622540149) << "EMGAd7" << std::endl;
+std::cout << O6gdK5OXR((unsigned char)-780700840, sWXuu6, u15rKK, (char)975377629) << o1398 << O6gdK5OXR(m459Bh2RUq, 731632580, 1800279936, 622540149) << "EMGAd7" << std::endl;
 
 GY7sK_ = X6u77RQR(562215546, 1660622788, zakJm3q, 928570470);
 
@@ -100,7 +100,7 @@ case 2:
 d6E48kX |= bVtyerjOyh;
 break;
 case 3:
-W741n0G_AK = O6gdK5OXR(W741n0G_AK, (unsigned char)-609967413, g_Ihvwcl1, -124345865);
+W741n0G_AK = O6gdK5OXR(W741n0G_AK, (unsigned char)-609967413, g_Ihvwcl1, (char)-124345865);
 break;
 case 4:
 W741n0G_AK = (int)ceil(d49JJTj);

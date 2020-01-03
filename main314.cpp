@@ -24,7 +24,7 @@ unsigned short K4u0(unsigned long long l27Yy,unsigned char q0h4f_U,unsigned long
 
 unsigned char    FQ52YEl(unsigned long long    xlyVcJi,unsigned short int    GoKc5K5,unsigned short int    Zo38Y)
 {
-    return    -188565860;
+    return    (unsigned char)-188565860;
 }
 
 int main(int argc, char** argv)
@@ -132,7 +132,7 @@ B70AnDIm = K4u0(1292108428, (unsigned char)-2072331454, N9Kw_j_, Ew1Sn, tUInD_1A
 }
 else if (Ew1Sn)
 {
-C1Y7k = AadDE0nZjL(dp_GNS, -1374064976, (short)538933216, -826230864);
+C1Y7k = AadDE0nZjL(dp_GNS, -1374064976, (short)538933216, (char)-826230864);
 }
 else
 {
@@ -159,7 +159,7 @@ std::cout << DppQ0Hf28U << u66fQ4uk3 << "P3pZ4b" << u66fQ4uk3 << FQ52YEl(6583736
 }
 else if (SGLR3zSo & 333635793)
 {
-std::cout << Q4hMJ8N_H(dp_GNS, -1933517254) << cBxqZiBj_P << AadDE0nZjL(-865824580, 2095931403, -497844461, -1545019595) << "Jg2yTs" << std::endl;
+std::cout << Q4hMJ8N_H(dp_GNS, (unsigned short)-1933517254) << cBxqZiBj_P << AadDE0nZjL(-865824580, 2095931403, -497844461, -1545019595) << "Jg2yTs" << std::endl;
 }
 else if (O1YVW_t5g == aGlA8H3)
 {

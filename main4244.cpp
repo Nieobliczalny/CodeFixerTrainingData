@@ -26,7 +26,7 @@ int main(void) {
     long double    AlotY5Q1    =    -1433959353;
  long ypkg = -504532459;
   unsigned short  r0n59U8S  =  (unsigned short)433983518;
-  char  aL394  =  -1828227994;
+  char  aL394  =  (char)-1828227994;
   unsigned short  teoGQ_8Z  =  -330486122;
 	double	M2_wxtM	=	-444288801;
     long long    kdbx    =    -2052330225;
@@ -39,7 +39,7 @@ int main(void) {
   long  ty6mgS1Fk  =  0;
  unsigned long E9nrXlx8j = -1084818261;
     char    c1Ua4fpPCl    =    (char)285359465;
-    char    yW9u7cv6    =    1102993269;
+    char    yW9u7cv6    =    (char)1102993269;
   long long  OWKMkCEVw  =  670652195;
  unsigned short int lPISh_Ffj = (unsigned short)-611309319;
  short R5d59Nh = -1639066687;
@@ -61,7 +61,7 @@ int main(void) {
  float dO3K = 1651366974;
   unsigned long long  g2XJQ0Nz  =  1003450223;
 	int	ewM1aIh8U	=	83548655;
-	unsigned char	kQXG8Ye5w	=	-15242927;
+	unsigned char	kQXG8Ye5w	=	(unsigned char)-15242927;
   long double  ZtO_P  =  853335996;
     unsigned short int    ZW_K    =    -328964718;
   unsigned long long  oh64i8g  =  121705774;
@@ -73,7 +73,7 @@ int main(void) {
     double    djxVL    =    1699662553;
  unsigned short k2591N = (unsigned short)1169782423;
     unsigned long long    YEj33PY9    =    -348753994;
- unsigned short e95tP_yWnb = 1203920167;
+ unsigned short e95tP_yWnb = (unsigned short)1203920167;
   unsigned short  TJGly  =  -1851539171;
  double wNgH = 741623651;
     char    Ma3qhHn    =    (char)142467410;
@@ -87,7 +87,7 @@ int main(void) {
  unsigned short int EE7M4pz = (unsigned short)1326856516;
     double    E8n3b0kd    =    -90302273;
  unsigned short sE4S = (unsigned short)1723215764;
-  unsigned short int  xmOq8_F  =  -392374794;
+  unsigned short int  xmOq8_F  =  (unsigned short)-392374794;
   unsigned short  rZ8Pi39  =  -1219507418;
     unsigned long long    D2MC8w6wc2    =    -243668610;
  unsigned short int GyxrZ77 = -2058512143;
@@ -99,7 +99,7 @@ int main(void) {
   long  QVHJo_NC  =  1668290190;
     unsigned int    yOvjmo    =    -44908151;
     short int    PV0w9    =    (short)1985934389;
-	short int	u6C_38h6	=	-1664633073;
+	short int	u6C_38h6	=	(short)-1664633073;
 
 N7eDL0PW = (int)abs(E8n3b0kd) * 0;
 

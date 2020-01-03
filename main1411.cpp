@@ -46,7 +46,7 @@ int main(void) {
  unsigned short int Gdp3 = (unsigned short)-1926790074;
  unsigned long long RT_y7 = 1778915652;
     unsigned long    wzU_iZg    =    -1669189374;
-  unsigned short int  QJcHYZB1WK  =  -1343796778;
+  unsigned short int  QJcHYZB1WK  =  (unsigned short)-1343796778;
  unsigned long XQ5d = 1127907278;
 	unsigned long	tvKPea	=	0;
     short    oTNR    =    1020351351;
@@ -64,7 +64,7 @@ int main(void) {
     unsigned long    IhQKH_m    =    1740208113;
     short int    EPGyWym7_e    =    (short)-311073981;
  unsigned long long p1MECEr20 = -1446329179;
-    char    eoA3yTj    =    1576356581;
+    char    eoA3yTj    =    (char)1576356581;
 	short int	MAaMzwNo0	=	-1182927272;
 	unsigned long long	ox5W	=	1006154874;
 	long double	r12il2	=	655470489;
@@ -230,7 +230,7 @@ case 4:
 lJiSnmP = (qIAi5 <= Ie3JTkz6M6) ? -810458401 : Ao3_;
 break;
 case 5:
-wP5nG6 = BR7dg9(-786059240, pxEr9VX, Ao3_);
+wP5nG6 = BR7dg9((unsigned char)-786059240, pxEr9VX, Ao3_);
 break;
 case 6:
 IO8618j++;

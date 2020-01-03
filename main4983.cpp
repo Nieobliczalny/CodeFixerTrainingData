@@ -171,7 +171,7 @@ if (Vg78VKoiH >= BUfee5)
 switch (J_5zKI)
 {
 case 0:
-w0SV5 = dsAQm(-404307743);
+w0SV5 = dsAQm((short)-404307743);
 break;
 case 1:
 J_5zKI = eQ28sHSxs / BUfee5;

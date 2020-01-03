@@ -95,7 +95,7 @@ cJN_2_ = yH76(-82120053, 2103005519, TIanN, (unsigned short)-283589098);
 }
 else if ((ThDXg < Zrp0vZ4) || (cJN_2_ == 534486004))
 {
-std::cout << nIP96Hql6Z << "HH1y" << yH76(cJN_2_, -487363861, TIanN, x5r1BV0Sv) << z_FU4G3N << eYQ86XD(cJN_2_, ZRThJAcdq, (unsigned short)234051950, -2118130077, Racjd) << std::endl;
+std::cout << nIP96Hql6Z << "HH1y" << yH76(cJN_2_, -487363861, TIanN, x5r1BV0Sv) << z_FU4G3N << eYQ86XD(cJN_2_, ZRThJAcdq, (unsigned short)234051950, (unsigned short)-2118130077, Racjd) << std::endl;
 }
 else if (D4m1WR >= gxoaP50R0)
 {
@@ -110,7 +110,7 @@ else
 int k = 0;
 while (k < 7)
 {
-zuNu7 = eYQ86XD((short)2112838745, 1636054661, qT__, -1532351253, u5w8YJJI0);
+zuNu7 = eYQ86XD((short)2112838745, 1636054661, qT__, (unsigned short)-1532351253, u5w8YJJI0);
 ++k;
 }
 }
@@ -198,7 +198,7 @@ catch (int& errorCode)
 {
 cJN_2_ = (int)ceil(Qp7787tg);
 }
-K5bl4nc_Wl = yD16oM45G6(aeZ3) / eYQ86XD(aeZ3, BkEO9a, 1409004760, 759588114, -1535855467);
+K5bl4nc_Wl = yD16oM45G6(aeZ3) / eYQ86XD(aeZ3, BkEO9a, (unsigned short)1409004760, 759588114, -1535855467);
 try
 {
 if (Vs3H38)
@@ -294,7 +294,7 @@ case 'j':
 KN_cdAeHx = eYQ86XD(N45e, -610129861, c900wfLs8p, R0Impl, (unsigned short)-1384150445);
 break;
 default:
-N45e = yH76(792393999, tT1QjQ_y, -2007194409, -585473822);
+N45e = yH76(792393999, tT1QjQ_y, -2007194409, (unsigned short)-585473822);
 break;
 }
 }
@@ -324,7 +324,7 @@ else
 switch (KN_cdAeHx)
 {
 case 0:
-KN_cdAeHx = eYQ86XD(qT__, c900wfLs8p, (unsigned short)183114288, (unsigned short)1996377534, 876027306);
+KN_cdAeHx = eYQ86XD(qT__, c900wfLs8p, (unsigned short)183114288, (unsigned short)1996377534, (unsigned short)876027306);
 break;
 case 1:
 BkEO9a = U6eIt - IOVRw;

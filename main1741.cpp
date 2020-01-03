@@ -23,7 +23,7 @@ int main(void)
  long LgV7_Z4I = 1833372011;
  long k6H4O16 = 0;
     short    TA80u8fP    =    0;
- char SjZUm7q4W = -1414999184;
+ char SjZUm7q4W = (char)-1414999184;
 
 {
 int i = 2;

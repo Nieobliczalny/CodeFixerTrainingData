@@ -262,7 +262,7 @@ B0SO = IHGcgLTl(B0SO, Z7Q_, 973398082, mop86);
 Z7Q_ = IHGcgLTl(-1202351083, Z7Q_, -779681649, (short)6637651) | 1520011556;
 if (mop86 != -867571359)
 {
-mop86 = IHGcgLTl(261159795, (short)829772572, B0SO, 55227397);
+mop86 = IHGcgLTl(261159795, (short)829772572, B0SO, (short)55227397);
 }
 for (int i = 0; i < 6; ++i)
 {

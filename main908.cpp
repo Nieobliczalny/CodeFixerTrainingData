@@ -160,7 +160,7 @@ w3BVBIefc = (jxMz2i) ? I5O36P4gs : pj7e9h0_;
 }
 else if (t9_VbsgeJ < lm_jGL8_)
 {
-o63125 = S12iZ0(-220720193, (unsigned short)269490329, (unsigned short)481894422, 769410194);
+o63125 = S12iZ0(-220720193, (unsigned short)269490329, (unsigned short)481894422, (unsigned char)769410194);
 }
 else if (bs0W5h__C_)
 {

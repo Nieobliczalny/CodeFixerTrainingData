@@ -23,7 +23,7 @@ int main(int argc, char** argv)
     long    KOz7t    =    -1503591496;
   short  IENYxZU_E_  =  (short)-2068348460;
   unsigned char  j5H5GQw2d  =  (unsigned char)-217469461;
-  char  bZpoSz  =  -972251226;
+  char  bZpoSz  =  (char)-972251226;
     unsigned short int    b2eutg    =    748019780;
  long double vsh3204_j = 1984252198;
   long  wYJCFiDs  =  -1920355413;
@@ -35,7 +35,7 @@ int main(int argc, char** argv)
     unsigned long long    G3svWuz7G    =    -187386631;
   int  d_2qo8  =  266028899;
     unsigned short int    T0a5    =    (unsigned short)-1833747543;
- unsigned short int pQya273N0 = 405116992;
+ unsigned short int pQya273N0 = (unsigned short)405116992;
   unsigned int  Da_9Y  =  -44940527;
  unsigned int XmJsA5XcYk = 521966837;
  unsigned char y23_ = 1726020051;
@@ -64,7 +64,7 @@ int main(int argc, char** argv)
     long double    Uq_63W    =    463132024;
   long  Fz0jvV8H  =  -1836377862;
 	long long	YMvs	=	-173157394;
-  char  i168B4_K0  =  1945295722;
+  char  i168B4_K0  =  (char)1945295722;
     short    Sc0PM1    =    435507220;
 	long double	Po5M	=	540782060;
   short  Zk2NSQ_87H  =  (short)1495955894;
@@ -75,7 +75,7 @@ int main(int argc, char** argv)
 	unsigned long	v8K9cd5B8	=	0;
     long long    D45YY    =    -1252397049;
  double BkIq = 2059184428;
-    short int    f2k61vufZ    =    -1147005913;
+    short int    f2k61vufZ    =    (short)-1147005913;
   unsigned int  Zvki1Ir4F  =  1680196256;
   unsigned int  r_Efx9W  =  1292552808;
 	long	o8d0c_f	=	0;
@@ -86,7 +86,7 @@ int main(int argc, char** argv)
     short    CfYq    =    (short)1354554186;
   short int  NN839QY162  =  -1737324809;
     long long    tlx3w3X    =    -1845822906;
-  unsigned short  MMKuZ  =  -1036068020;
+  unsigned short  MMKuZ  =  (unsigned short)-1036068020;
     unsigned long long    cLwL4E7B    =    0;
 	int	VA6aluxK5	=	898271484;
 	short	V68A3ao2	=	(short)1562026522;
@@ -125,7 +125,7 @@ else if (YMvs <= D0aG0_oV6I)
 switch (nGhfA)
 {
 case 'a':
-v8K9cd5B8 = Dt4U(1816467184, T0a5, N8002p5);
+v8K9cd5B8 = Dt4U((unsigned char)1816467184, T0a5, N8002p5);
 break;
 case 'b':
 GRhR8 = (int)ceil(Jehxv);

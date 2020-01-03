@@ -189,7 +189,7 @@ case 4:
 L24Yq = C_d56((unsigned short)445317427, (unsigned short)-1814932458, o_142n7p);
 break;
 case 5:
-L24Yq = C_d56(L24Yq, -1743327543, 1466178045);
+L24Yq = C_d56(L24Yq, (unsigned short)-1743327543, 1466178045);
 break;
 case 6:
 L24Yq = L24Yq + 886658607;

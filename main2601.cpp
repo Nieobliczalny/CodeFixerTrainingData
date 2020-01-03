@@ -81,7 +81,7 @@ case 'i':
 hN6hG9 = (VG1ZFAgFJ == 1122174541) ? 1160216766 : 1684204568;
 break;
 default:
-hN6hG9 = LQYkGO0H(1247854703, 1503033747, VG1ZFAgFJ, -33150362, 667425350) / 1770556462;
+hN6hG9 = LQYkGO0H((unsigned char)1247854703, 1503033747, VG1ZFAgFJ, -33150362, 667425350) / 1770556462;
 break;
 }
 }
@@ -124,7 +124,7 @@ hN6hG9 = ryId1((short)1332988044, hN6hG9, (short)-884017829);
 break;
 }
 
-hbHa = LQYkGO0H(287381957, hN6hG9, 1985030829, 1350209537, 1534386160) / S1_7k;
+hbHa = LQYkGO0H((unsigned char)287381957, hN6hG9, 1985030829, 1350209537, 1534386160) / S1_7k;
 if (hN6hG9 <= VG1ZFAgFJ)
 {
 if ((S1_7k) || (hbHa & -1386743967))
@@ -213,7 +213,7 @@ case 0:
 hN6hG9 = ryId1((short)-2094157304, 1165325806, (short)1568456140);
 break;
 case 1:
-S1_7k = LQYkGO0H(S1_7k, hN6hG9, 1950222313, 1480361724, 184458054);
+S1_7k = LQYkGO0H(S1_7k, hN6hG9, 1950222313, (short)1480361724, 184458054);
 break;
 case 2:
 hN6hG9 = xM65F(S1_7k, hN6hG9);
@@ -280,7 +280,7 @@ case 4:
 hbHa = ryId1((short)1100742800, -450466936, hbHa);
 break;
 case 5:
-hN6hG9 = LQYkGO0H(-1508968707, -2037184907, hbHa, -1348117676, -1132425088) >> hbHa;
+hN6hG9 = LQYkGO0H((unsigned char)-1508968707, -2037184907, hbHa, -1348117676, -1132425088) >> hbHa;
 break;
 case 6:
 hbHa ^= hN6hG9;
@@ -325,7 +325,7 @@ case 1:
 hbHa = ryId1((short)889655777, S1_7k, (short)-2082166324);
 break;
 case 2:
-hbHa = ryId1(2002342361, -741618857, 1906839178);
+hbHa = ryId1((short)2002342361, -741618857, 1906839178);
 break;
 case 3:
 hbHa = (int)abs(hN6hG9);
@@ -407,7 +407,7 @@ case 4:
 hN6hG9 = ryId1(hN6hG9, VG1ZFAgFJ, (short)1085221736);
 break;
 case 5:
-S1_7k = LQYkGO0H(1359312715, 1041934049, S1_7k, -227120655, -294375808);
+S1_7k = LQYkGO0H((unsigned char)1359312715, 1041934049, S1_7k, -227120655, -294375808);
 break;
 case 6:
 hbHa = S1_7k >> hN6hG9;

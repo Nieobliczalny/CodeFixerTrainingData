@@ -32,7 +32,7 @@ int main() {
     unsigned int    Y6D4;
     Y6D4    =    -294335523;
 	char	mGW56_n8;
-	mGW56_n8	=	-1253590769;
+	mGW56_n8	=	(char)-1253590769;
     char    Gq38b8;
     Gq38b8    =    (char)357920338;
   long double  icB6W_G;

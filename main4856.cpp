@@ -23,7 +23,7 @@ int main(void) {
     int    qQ0HLrCD    =    1969756959;
   long long  n3d75yE  =  1338145338;
  unsigned long long Ik15Q = -1798079180;
-    unsigned char    gQoiqwZ4BK    =    797146642;
+    unsigned char    gQoiqwZ4BK    =    (unsigned char)797146642;
   unsigned char  z6Dn7  =  (unsigned char)-41218718;
     long    Z4JPo    =    1737467011;
  long long QIxqv = 1003752817;
@@ -40,7 +40,7 @@ int main(void) {
 	long	bdca9Nsns	=	-35186764;
     long double    na83_S8n0    =    1441234866;
 	short int	c9Yqy5_NZ	=	(short)1421390116;
-	short	WB6h2I7u9	=	1668359157;
+	short	WB6h2I7u9	=	(short)1668359157;
  unsigned long long GTIZN7_q = -622596643;
  long j6waNdze24 = -144208839;
   float  zEVp5_Hj1  =  62680808;
@@ -52,7 +52,7 @@ int main(void) {
     short    DYb8zN6    =    (short)-1321290775;
   int  UY41  =  -1904611638;
   long long  M6LB9d6c4  =  1599506050;
-	short int	e8iEg7XjJ	=	1425792694;
+	short int	e8iEg7XjJ	=	(short)1425792694;
   int  g5_x31  =  1215165019;
 	long	V7e96YR3C	=	-23407156;
   unsigned long  Pna86_  =  626476031;
@@ -68,7 +68,7 @@ int main(void) {
 	unsigned int	Aa7Z	=	-869560284;
     int    S8n7l    =    -1358836296;
     short    o8xW372    =    (short)-1767057146;
-  unsigned short int  hg1qmJK  =  1027152301;
+  unsigned short int  hg1qmJK  =  (unsigned short)1027152301;
   long double  x5_cBKj2Y6  =  -1878950614;
  float Y0lGR = 1058995111;
 	unsigned short	f4WooL	=	397150372;
@@ -84,7 +84,7 @@ int main(void) {
 	float	U8At	=	-1301764446;
 	long	S8f77_Z2o8	=	-959155159;
   unsigned short  z8hnfL  =  (unsigned short)-1650457940;
-  short int  T6Hb0  =  1443274971;
+  short int  T6Hb0  =  (short)1443274971;
  float bpwOQDM = -1178559777;
   int  Cor0E0Bk  =  -1232097070;
 	float	kHk_9Hk	=	728266888;
@@ -98,7 +98,7 @@ int main(void) {
   unsigned long long  W1JhK_18  =  -1041654897;
     double    Rh4aX3M2    =    -1235913618;
   long  ei6aWF9  =  -1406645136;
-    unsigned short    g3J3    =    -870259826;
+    unsigned short    g3J3    =    (unsigned short)-870259826;
  unsigned short int B9JsH = -1719569016;
  unsigned long long YJMJ = 1957943033;
 	unsigned short	h234U3M5	=	-349767041;

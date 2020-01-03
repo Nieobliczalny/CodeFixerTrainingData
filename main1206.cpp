@@ -83,7 +83,7 @@ int main(void)
  unsigned long long oH1x0jf;
  oH1x0jf = 0;
     short    lnBgMP5kh;
-    lnBgMP5kh    =    1396837934;
+    lnBgMP5kh    =    (short)1396837934;
 	unsigned short int	ZC4s9V;
 	ZC4s9V	=	(unsigned short)-749582402;
  long double oD_1SBx7n;
@@ -97,7 +97,7 @@ int main(void)
   short  e__o;
   e__o  =  (short)-284552853;
 	char	Y05f2BY4Sh;
-	Y05f2BY4Sh	=	93594965;
+	Y05f2BY4Sh	=	(char)93594965;
     short int    Ruj_Ny;
     Ruj_Ny    =    761052757;
 

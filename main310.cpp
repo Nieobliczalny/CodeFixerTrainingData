@@ -25,7 +25,7 @@ int main() {
 	float	K48_4	=	-117514302;
   unsigned short int  f5SNPB_  =  0;
  short ZW15kX96V = (short)1736601575;
-    unsigned short    UFsUUkge    =    2017839632;
+    unsigned short    UFsUUkge    =    (unsigned short)2017839632;
   unsigned char  N461GC  =  -2058749798;
   short  s0O3ggZG8  =  1856262473;
 	short	jg3c1d_	=	0;
@@ -36,7 +36,7 @@ int main() {
     short    rmmQ    =    -651141591;
  char UFyH = (char)-1129216731;
     long    Y4d8bE6q4    =    -104138687;
-	char	KKC7H7NV_5	=	1258123961;
+	char	KKC7H7NV_5	=	(char)1258123961;
     long long    s89C7w    =    2101711874;
  short aHwh7oqCuw = 1498189356;
   char  pdfVXGE23  =  -1376661132;
@@ -47,7 +47,7 @@ int main() {
  double eh4Cg1 = -1436413094;
  char Or6uv4tA = (char)-1477848311;
     char    sQkw4    =    (char)55919188;
-    unsigned short    GLjH7    =    -1021587867;
+    unsigned short    GLjH7    =    (unsigned short)-1021587867;
 	unsigned long	e8H4b	=	-1156652701;
  int vLHo = 897772658;
   unsigned long  bN_0_9  =  -880405803;
@@ -74,7 +74,7 @@ case 'c':
 AKVS4do63 |= 1045649223;
 break;
 case 'd':
-jg3c1d_ = H6mHx0g5(IJXC1D, 405818165);
+jg3c1d_ = H6mHx0g5(IJXC1D, (char)405818165);
 break;
 case 'e':
 eh4Cg1 = (int)ceil(jiweY);

@@ -87,7 +87,7 @@ case 6:
 w2C9 = (int)abs(mgMXy_);
 break;
 case 7:
-IGnLX8Oz = rEvEP0((short)1623112045, -1234752449, (unsigned short)1642558769, 50505886);
+IGnLX8Oz = rEvEP0((short)1623112045, -1234752449, (unsigned short)1642558769, (unsigned short)50505886);
 break;
 case 8:
 o_coBb9da >>= 1945799308;
@@ -242,7 +242,7 @@ Fi99NAT = FUw1i4(41175766, (unsigned short)422294745, J2_PB);
 
 if (((b_1Zk20 > 427274392) || (H2bXpalO16 > VAn_)) && ((ISOCU9 & 890173832) || (BX0_pX_N > -1786379961)))
 {
-IGnLX8Oz = rEvEP0((short)1637816287, 1795564151, D175pMI7, -894328997);
+IGnLX8Oz = rEvEP0((short)1637816287, 1795564151, D175pMI7, (unsigned short)-894328997);
 }
 else if (cYdLE3_AN9 <= -1513687805)
 {
@@ -335,7 +335,7 @@ else
 {
 try
 {
-BX0_pX_N = rEvEP0((short)953617737, D175pMI7, (unsigned short)-269088857, 703454623) - J2_PB;
+BX0_pX_N = rEvEP0((short)953617737, D175pMI7, (unsigned short)-269088857, (unsigned short)703454623) - J2_PB;
 }
 catch (int& errorCode)
 {

@@ -23,7 +23,7 @@ int main() {
     unsigned char    S2brN,    Zg_3,    sD6Rr;
     S2brN    =    (unsigned char)-94010249;
     Zg_3    =    (unsigned char)-1411309688;
-    sD6Rr    =    -1915645346;
+    sD6Rr    =    (unsigned char)-1915645346;
 	long	JDr2VAXu,	M5nD_z2,	HPq9Rl;
 	JDr2VAXu	=	0;
 	M5nD_z2	=	0;
@@ -456,7 +456,7 @@ case 1:
 S2brN = PD1y717(-1753640749, (unsigned short)-1117586702, -2030142601);
 break;
 case 2:
-S2brN = CztfeuY_3(-151379686, M5nD_z2, S2brN, -1932333826);
+S2brN = CztfeuY_3(-151379686, M5nD_z2, S2brN, (short)-1932333826);
 break;
 case 3:
 JDr2VAXu = (int)abs(M5nD_z2);
@@ -724,7 +724,7 @@ unsigned char	PD1y717(int	p5O57V,unsigned short	HKVxPLY,unsigned int	f0ez)	{
 }
 
 unsigned short	O6Es71u(unsigned long	x_53p9ICz)	{
-	return	1450937422;
+	return	(unsigned short)1450937422;
 }
 
 unsigned short  CztfeuY_3(unsigned int  fD3Kzx,unsigned long long  Q03H20jj1,long  hmt1i9Z1q,short int  U13G)

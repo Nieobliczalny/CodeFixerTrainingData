@@ -41,7 +41,7 @@ int main() {
   unsigned short  Q04p;
   Q04p  =  (unsigned short)-1596170541;
     char    tTcNG0;
-    tTcNG0    =    -1668097541;
+    tTcNG0    =    (char)-1668097541;
  long long QTHbVAHLVV;
  QTHbVAHLVV = 2138141289;
  unsigned short int XI80c;
@@ -71,7 +71,7 @@ int main() {
 	unsigned short int	jjPmH8jGfg;
 	jjPmH8jGfg	=	(unsigned short)203024394;
 	unsigned short	IMYMVLpH;
-	IMYMVLpH	=	-342062682;
+	IMYMVLpH	=	(unsigned short)-342062682;
 	unsigned short	l3b08_;
 	l3b08_	=	-262277772;
   unsigned long long  ms__LI84;
@@ -94,7 +94,7 @@ int main() {
 switch (ERkI28IsV)
 {
 case 'a':
-luFNp94o5p = iJF08zyEN((short)-580598608, 1853469027);
+luFNp94o5p = iJF08zyEN((short)-580598608, (unsigned short)1853469027);
 break;
 case 'b':
 WwSV2U = (int)floor(V3nj2ZOG);

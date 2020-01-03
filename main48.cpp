@@ -34,7 +34,7 @@ case 2:
 e_8Xzaq = (int)ceil(AOadc8Y12R);
 break;
 case 3:
-e_8Xzaq = (uL_T_9x != -876113810) ? dLD2s9s9G(-1621367583, DHcL) : piS7yFPrZr;
+e_8Xzaq = (uL_T_9x != -876113810) ? dLD2s9s9G((unsigned short)-1621367583, DHcL) : piS7yFPrZr;
 break;
 case 4:
 QCj_8 = F1NH(AOadc8Y12R);

@@ -22,7 +22,7 @@ int main(int argc, char** argv)
 	char	F1312,	sY_t,	Y7Fr_S54S8,	iyvW,	L1Gjhx8,	Ku716ltbY7,	h7C_,	TM0SKV_hk7,	gOvNo3,	Foxb6tKwB,	e8FkWTZT3,	u3VO_KSh,	QPslj,	p3H7jKuP,	pC7485,	YjFE_5c,	Qy1y_L6,	H_x3bNNY,	w1ApMn,	P8ThaU,	F9El,	S__xcb9,	LuPe,	tF2B8s,	e691c2P1kA,	IS6dI20X4N,	RhYp9fbZHL,	M_Hc,	LYT7bx6h,	M4Bw,	W__EzI,	bluF2pjv,	JvkG2J6W8,	B_ff9x4E,	nmI8a,	sMrg,	Oq7FG2yb7,	E2F3Y,	oA2Bx,	QGQ0Oz6qX,	D504G8_92W,	HeM4XsRZOq,	ezh50gE,	m_55,	UU7xtoR,	hsLddQF_9r,	X6S0,	l6t1sXe1X9,	n6T9736E2,	tc_keb_,	uo2_0,	Q4_reCyEh,	qTs1t6B431,	SF41eFHKDV,	U_7Y,	EOm3DXE;
 	F1312	=	(char)-489233480;
 	sY_t	=	(char)-1575339685;
-	Y7Fr_S54S8	=	-1039062641;
+	Y7Fr_S54S8	=	(char)-1039062641;
 	iyvW	=	-518984174;
 	L1Gjhx8	=	1652247900;
 	Ku716ltbY7	=	-1426591696;
@@ -32,7 +32,7 @@ int main(int argc, char** argv)
 	Foxb6tKwB	=	-1949893594;
 	e8FkWTZT3	=	(char)-1893190944;
 	u3VO_KSh	=	(char)-397596457;
-	QPslj	=	1544564780;
+	QPslj	=	(char)1544564780;
 	p3H7jKuP	=	1335971270;
 	pC7485	=	-538517854;
 	YjFE_5c	=	-1703392356;
@@ -42,7 +42,7 @@ int main(int argc, char** argv)
 	P8ThaU	=	-417493530;
 	F9El	=	(char)1652727743;
 	S__xcb9	=	(char)-1825184375;
-	LuPe	=	1978825346;
+	LuPe	=	(char)1978825346;
 	tF2B8s	=	1968880702;
 	e691c2P1kA	=	-1857178618;
 	IS6dI20X4N	=	887520399;
@@ -52,7 +52,7 @@ int main(int argc, char** argv)
 	M4Bw	=	400349929;
 	W__EzI	=	(char)-1688729985;
 	bluF2pjv	=	(char)1199185817;
-	JvkG2J6W8	=	-431120412;
+	JvkG2J6W8	=	(char)-431120412;
 	B_ff9x4E	=	510507881;
 	nmI8a	=	1658368349;
 	sMrg	=	1662538539;
@@ -62,7 +62,7 @@ int main(int argc, char** argv)
 	QGQ0Oz6qX	=	-51088158;
 	D504G8_92W	=	(char)-1182085278;
 	HeM4XsRZOq	=	(char)-687384058;
-	ezh50gE	=	798873001;
+	ezh50gE	=	(char)798873001;
 	m_55	=	742392183;
 	UU7xtoR	=	820158007;
 	hsLddQF_9r	=	-920207678;
@@ -72,7 +72,7 @@ int main(int argc, char** argv)
 	tc_keb_	=	2034945385;
 	uo2_0	=	(char)1109433521;
 	Q4_reCyEh	=	(char)1949547945;
-	qTs1t6B431	=	1929035359;
+	qTs1t6B431	=	(char)1929035359;
 	SF41eFHKDV	=	93628861;
 	U_7Y	=	-136123900;
 	EOm3DXE	=	625957800;

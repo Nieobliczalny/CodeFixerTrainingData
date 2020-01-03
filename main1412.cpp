@@ -384,7 +384,7 @@ case 4:
 g_Cd8 = MG_l01Jw((unsigned char)201050253);
 break;
 case 5:
-g_Cd8 = MG_l01Jw(285149222);
+g_Cd8 = MG_l01Jw((unsigned char)285149222);
 break;
 case 6:
 k863C0ci_g = MG_l01Jw(-884089535);
@@ -445,7 +445,7 @@ case 'd':
 GX02wbIrQ = MG_l01Jw((unsigned char)1750164229);
 break;
 case 'e':
-GX02wbIrQ = MG_l01Jw(1348920488);
+GX02wbIrQ = MG_l01Jw((unsigned char)1348920488);
 break;
 case 'f':
 JJVzg = IrNVjghK & 1123304858;

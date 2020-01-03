@@ -18,7 +18,7 @@ int main(int argc, char** argv)
     unsigned char    SwRQ73y,    Ih7W3,    U7HE1,    sf_2Q3G,    qu7kD7VC,    idht,    u340W2C,    TvIkGM,    da3WYT,    q3dsa3UU70,    IW0Dc3yj2;
     SwRQ73y    =    (unsigned char)-1161484676;
     Ih7W3    =    (unsigned char)-1468664757;
-    U7HE1    =    1973181987;
+    U7HE1    =    (unsigned char)1973181987;
     sf_2Q3G    =    -715274736;
     qu7kD7VC    =    1562001130;
     idht    =    -1927877600;
@@ -86,7 +86,7 @@ i--;
 }
 }
 
-JfXKV2hcL_ = y_T944Y(idht, U7HE1, 1027653);
+JfXKV2hcL_ = y_T944Y(idht, U7HE1, (short)1027653);
 for (int i = 0; i < 4; ++i)
 {
 for (int j = 0; j < 10; ++j)
@@ -101,7 +101,7 @@ Ih7W3 >>= 1125127350;
 }
 else if ((TvIkGM >= -1145121769) || (JfXKV2hcL_ >= U7HE1))
 {
-JfXKV2hcL_ = y_T944Y(JfXKV2hcL_, -611379715, -2085768284);
+JfXKV2hcL_ = y_T944Y(JfXKV2hcL_, (char)-611379715, -2085768284);
 }
 else if (da3WYT != 541040288)
 {
@@ -775,7 +775,7 @@ case 'E':
 IW0Dc3yj2 += 893751488;
 break;
 default:
-JfXKV2hcL_ = y_T944Y(da3WYT, 1771253256, 1484794847);
+JfXKV2hcL_ = y_T944Y(da3WYT, (char)1771253256, 1484794847);
 break;
 }
 }

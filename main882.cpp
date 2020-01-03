@@ -23,7 +23,7 @@ std::cout << hR2Qh << OH86UGC((unsigned short)218851519, Y1FJ3S9Itb) << std::end
 }
 else
 {
-std::cout << OH86UGC(Lg8d4Z69V, Y1FJ3S9Itb) << OH86UGC(Lg8d4Z69V, -578986306) << "QX6_II" << OH86UGC(Lg8d4Z69V, Y1FJ3S9Itb) << std::endl;
+std::cout << OH86UGC(Lg8d4Z69V, Y1FJ3S9Itb) << OH86UGC(Lg8d4Z69V, (short)-578986306) << "QX6_II" << OH86UGC(Lg8d4Z69V, Y1FJ3S9Itb) << std::endl;
 }
 try
 {
@@ -87,7 +87,7 @@ case 0:
 Sq386NT = OH86UGC((unsigned short)-522771295, (short)890614365);
 break;
 case 1:
-Wmt63N = OH86UGC(-1301553737, -186318692);
+Wmt63N = OH86UGC((unsigned short)-1301553737, -186318692);
 break;
 case 2:
 mlFDb = (int)floor(zTxhY3Y);
@@ -173,7 +173,7 @@ case 4:
 Sq386NT = OH86UGC((unsigned short)-1475826611, (short)-1614938376);
 break;
 case 5:
-si1LvUF1V = OH86UGC(-952244340, p6WcPN1h9);
+si1LvUF1V = OH86UGC((unsigned short)-952244340, p6WcPN1h9);
 break;
 case 6:
 HHiVBGg0VW -= 807761444;

@@ -155,7 +155,7 @@ case 'B':
 udt8 = XXpiU((short)1799907631, Xl05, (unsigned short)-1349406431, FID8KkAF8R);
 break;
 default:
-R1sv9 = jrvLxG(-172687803, -1589004701);
+R1sv9 = jrvLxG((unsigned short)-172687803, -1589004701);
 break;
 }
 }

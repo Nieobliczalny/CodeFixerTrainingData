@@ -25,7 +25,7 @@ int main(int argc, char** argv)
 er80D2J = W0_5N((unsigned short)1447704657, u5fQkzv4Qn, J12GIfL_f);
 try
 {
-HfrW = IR9P9T8(652558009, 1578284057);
+HfrW = IR9P9T8(652558009, (unsigned short)1578284057);
 }
 catch (int& errorCode)
 {
@@ -500,7 +500,7 @@ else
 B3K8 %= aWnve0efE5;
 }
 zu39_2PcRW = W0_5N((unsigned short)-531808003, a9_bRNzfb, hs_k9FaT7) - 1000259000;
-if ((W0_5N(1022402865, a9_bRNzfb, hs_k9FaT7) / O6Zhu9fL) > -253547897)
+if ((W0_5N((unsigned short)1022402865, a9_bRNzfb, hs_k9FaT7) / O6Zhu9fL) > -253547897)
 {
 for (int i = 0; i < 5; i++)
 {

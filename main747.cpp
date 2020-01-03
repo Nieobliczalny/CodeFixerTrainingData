@@ -26,7 +26,7 @@ int main()
 {
  short GbrCY2qYJ1 = (short)266467757;
 	unsigned char	wvw7f5KD84	=	(unsigned char)-398666764;
-  char  PYn6  =  493773255;
+  char  PYn6  =  (char)493773255;
 	short int	jh8U5r	=	999015297;
   unsigned long long  B1Q11Xyjb  =  -243497360;
   short int  J6CZ_m6  =  657086117;
@@ -37,7 +37,7 @@ int main()
     char    O9W7gcW45    =    (char)-550660242;
     unsigned int    She1If7Sy    =    -177698804;
 	short int	nvRw	=	(short)1507738251;
-  unsigned short int  dF4ZC_3E3E  =  1554495339;
+  unsigned short int  dF4ZC_3E3E  =  (unsigned short)1554495339;
   unsigned long  O5B_p0  =  0;
  short yhz8dq77W = 816241071;
     long    GWAuZoXj4    =    -138470828;
@@ -51,7 +51,7 @@ int main()
  unsigned short int ANfQ8 = 0;
 	unsigned short	L4qL	=	(unsigned short)-1028404412;
   unsigned short  U4Qbr2PS  =  (unsigned short)1902515751;
-    short int    GlSwWf3iA    =    -1249488410;
+    short int    GlSwWf3iA    =    (short)-1249488410;
   unsigned long long  nR9xJ9kf02  =  1096546480;
   unsigned int  PBI2u_41C6  =  -876099896;
  int Xsoguztrp = -1677873459;
@@ -62,7 +62,7 @@ int main()
 	unsigned char	Vr31	=	(unsigned char)-2120906390;
   unsigned int  vU40_B  =  799580603;
  unsigned char e16w = (unsigned char)-1570251173;
-  unsigned short int  LG6D99Qj  =  1654325629;
+  unsigned short int  LG6D99Qj  =  (unsigned short)1654325629;
 	char	x2MMq9185	=	1265528714;
  unsigned long long XK3H_U = -71312853;
 	double	rR763	=	-559105545;
@@ -169,7 +169,7 @@ break;
 std::cout << Xsoguztrp << UTgS8Wsh << K_819_g(-558715469, -144386691, -205886733, GWAuZoXj4, 412920062) << K_819_g(216824506, 730807216, c0hiTN6v, GWAuZoXj4, -1464478936) << std::endl;
 std::cout << zXta5K << S36oSz6v1X(-1459310004) << x2MMq9185 << std::endl;
 U4Qbr2PS = (unsigned short)(bunsySlHk);
-PBI2u_41C6 = K_819_g((unsigned char)697143499, U4Qbr2PS, c0hiTN6v, L4qL, -215738660);
+PBI2u_41C6 = K_819_g((unsigned char)697143499, U4Qbr2PS, c0hiTN6v, L4qL, (short)-215738660);
 try
 {
 wvw7f5KD84 = (unsigned char)(y8PU08U);
@@ -525,7 +525,7 @@ case 1:
 x2MMq9185 = llpNw & 1674576761;
 break;
 case 2:
-c0hiTN6v = K_819_g(-1086901055, -1441177777, LG6D99Qj, -1616243553, 148546121);
+c0hiTN6v = K_819_g((unsigned char)-1086901055, -1441177777, LG6D99Qj, -1616243553, 148546121);
 break;
 case 3:
 U4Qbr2PS = GWAuZoXj4 >> mYVC_C__dP;

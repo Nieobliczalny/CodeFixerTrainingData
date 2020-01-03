@@ -68,7 +68,7 @@ int main(int argc, char** argv)
     short    m18dRB;
     m18dRB    =    (short)736873337;
  unsigned char n74n8261;
- n74n8261 = -1794636506;
+ n74n8261 = (unsigned char)-1794636506;
     float    eZeODUlK;
     eZeODUlK    =    553946132;
  char cE55UjY;
@@ -90,7 +90,7 @@ int main(int argc, char** argv)
     char    c5yeFV5;
     c5yeFV5    =    (char)-545286028;
  short int Y48JJlvVw;
- Y48JJlvVw = 410408360;
+ Y48JJlvVw = (short)410408360;
   long double  Efb7F18X3;
   Efb7F18X3  =  -1622149101;
 	short	po44yIgAX6;
@@ -194,7 +194,7 @@ int main(int argc, char** argv)
     short int    mXcEew8;
     mXcEew8    =    (short)-122605091;
  char FMtj_77_;
- FMtj_77_ = 853550435;
+ FMtj_77_ = (char)853550435;
     unsigned char    mITjyg;
     mITjyg    =    1442405695;
     unsigned long long    fYC6;

@@ -314,7 +314,7 @@ case 'c':
 fu482 = (int)floor(Zq1jSXCt_);
 break;
 case 'd':
-AUbV8Nlu = x1F9R((short)1605615482, AUbV8Nlu, 927890658);
+AUbV8Nlu = x1F9R((short)1605615482, AUbV8Nlu, (unsigned short)927890658);
 break;
 case 'e':
 z472QiBhdF = (int)abs(XN8Zo) * 0;

@@ -320,7 +320,7 @@ case 'c':
 q06EYPNU = lJ3_1Oe((unsigned short)2071749554, (unsigned short)-606466348);
 break;
 case 'd':
-e866 = lJ3_1Oe(2068953438, -1325765041);
+e866 = lJ3_1Oe((unsigned short)2068953438, -1325765041);
 break;
 case 'e':
 L_A7UEcu = lJ3_1Oe(-697570859, RJ5zyc);
@@ -375,7 +375,7 @@ X97FDqJ5 = lJ3_1Oe((unsigned short)1679436973, (unsigned short)742623646);
 switch (q06EYPNU)
 {
 case 0:
-e866 = lJ3_1Oe(TWXa2, 243239131);
+e866 = lJ3_1Oe(TWXa2, (unsigned short)243239131);
 break;
 default:
 rT2nR23Z = (yFKg_k == -1402575094) ? -659714312 : 1230531723;
@@ -455,7 +455,7 @@ case 0:
 L_A7UEcu = lJ3_1Oe((unsigned short)94739507, yFKg_k);
 break;
 case 1:
-X97FDqJ5 = lJ3_1Oe((unsigned short)-229099108, 719716683);
+X97FDqJ5 = lJ3_1Oe((unsigned short)-229099108, (unsigned short)719716683);
 break;
 case 2:
 q06EYPNU = lJ3_1Oe(T8IJ48cmP8, 1435882422);
@@ -539,7 +539,7 @@ case 'e':
 nBLC = lJ3_1Oe(WiXcoS735, QA426c) % 1924044688;
 break;
 case 'f':
-L_A7UEcu = lJ3_1Oe((unsigned short)872240164, -7665859);
+L_A7UEcu = lJ3_1Oe((unsigned short)872240164, (unsigned short)-7665859);
 break;
 case 'g':
 IYTn >>= q2yU;
@@ -566,7 +566,7 @@ e866 = (unsigned long long)(l2_3K0_ * e866);
 }
 
 OJ6V = lJ3_1Oe((unsigned short)-1558984451, (unsigned short)1447841390) / lJ3_1Oe(R0jMYKhw, H7Y5snnGqB);
-cout << "bYJsCHj" << lJ3_1Oe(R0jMYKhw, -1691832376) << "hSob9I8Hk8" << m06Tp9OPL_ << endl;
+cout << "bYJsCHj" << lJ3_1Oe(R0jMYKhw, (unsigned short)-1691832376) << "hSob9I8Hk8" << m06Tp9OPL_ << endl;
 F1bFvZ = lJ3_1Oe(YCFSr352c, -79422337);
 cout << "Kq1B7" << lJ3_1Oe(1458846856, TWXa2) << UX0Dexh2q << "w1IS" << lJ3_1Oe(1572842088, 981132668) << endl;
 

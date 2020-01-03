@@ -181,7 +181,7 @@ catch (int& errorCode)
 S_sA = (int)abs(gz2B);
 }
 
-C_09bQNMv = m42p((char)1564545477, Nf20F, 1764100717);
+C_09bQNMv = m42p((char)1564545477, Nf20F, (unsigned short)1764100717);
 {
 int i = 0;
 do

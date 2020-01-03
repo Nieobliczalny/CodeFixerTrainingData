@@ -39,7 +39,7 @@ int main(int argc, char** argv) {
  unsigned long long v1r_S8LWI;
  v1r_S8LWI = -874520852;
     unsigned char    n_d7ky;
-    n_d7ky    =    -1485414423;
+    n_d7ky    =    (unsigned char)-1485414423;
     unsigned short    hiBisv;
     hiBisv    =    (unsigned short)873277308;
     unsigned short int    e4w5;
@@ -85,7 +85,7 @@ j4P9_ = izUz();
 }
 if (v1r_S8LWI != 251022562)
 {
-OP36C782_m = Erz0nv(e4w5, (short)-1301646671, (unsigned short)340008814, D023Th3vTN, -954226214);
+OP36C782_m = Erz0nv(e4w5, (short)-1301646671, (unsigned short)340008814, D023Th3vTN, (unsigned char)-954226214);
 }
 
 {
@@ -150,7 +150,7 @@ cout << Wg_LOe << izUz() << "Uamag2" << v1r_S8LWI << rTY7Fb << endl;
 }
 D023Th3vTN = (int)ceil(Pt4G);
 
-OP36C782_m = Erz0nv(1700817525, (short)-741510654, 1597733895, n_d7ky, tb5B02u);
+OP36C782_m = Erz0nv(1700817525, (short)-741510654, (unsigned short)1597733895, n_d7ky, tb5B02u);
 switch (Wg_LOe)
 {
 case 'a':

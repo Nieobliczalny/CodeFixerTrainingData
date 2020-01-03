@@ -29,7 +29,7 @@ int main(int argc, char** argv)
  short int bzq5MU;
  bzq5MU = (short)-130955655;
     char    W860eCMeS;
-    W860eCMeS    =    -1256583636;
+    W860eCMeS    =    (char)-1256583636;
  long long EWfA_lznK;
  EWfA_lznK = 0;
   unsigned short  ZpS9;
@@ -64,7 +64,7 @@ ts1TW73S *= IWKqu;
 break;
 case 'd':
 case 'D':
-UhKGFr_91G = z3V85((char)2005720680, (char)1941500028, -1336497126);
+UhKGFr_91G = z3V85((char)2005720680, (char)1941500028, (short)-1336497126);
 break;
 case 'e':
 case 'E':
@@ -343,7 +343,7 @@ else
 switch (IWKqu)
 {
 case 'a':
-aGzhe = qoqD2zsyvc((unsigned short)-1693691631, (short)-1016424167, 1499056926);
+aGzhe = qoqD2zsyvc((unsigned short)-1693691631, (short)-1016424167, (char)1499056926);
 break;
 default:
 aGzhe = axr9GHk1xT(aGzhe, 793376069, -759176638) & 997808182;

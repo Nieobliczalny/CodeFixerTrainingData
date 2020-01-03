@@ -29,7 +29,7 @@ int main()
     short    L8xX4kKM_;
     L8xX4kKM_    =    (short)209146578;
 	short	VtYOIsd_;
-	VtYOIsd_	=	-2034941721;
+	VtYOIsd_	=	(short)-2034941721;
     char    C7oQqS7YE;
     C7oQqS7YE    =    0;
  unsigned char J_LdVZ48;

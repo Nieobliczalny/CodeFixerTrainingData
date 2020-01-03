@@ -148,7 +148,7 @@ f7XG = (ohZ6joRAe & TdhVzJVs4) ? j_xsCF : y5dR7Kkf;
 
 if (L7ZiZp > 1518768654)
 {
-std::cout << T013ght << o0v9HGo << q6WV2((unsigned short)-1509481612, vfnwd, (unsigned short)77754394, 620230716, ohZ6joRAe) << h4HWgv(1913213439, 180870294, -835999870) << std::endl;
+std::cout << T013ght << o0v9HGo << q6WV2((unsigned short)-1509481612, vfnwd, (unsigned short)77754394, 620230716, ohZ6joRAe) << h4HWgv((short)1913213439, 180870294, -835999870) << std::endl;
 }
 else if (TdhVzJVs4 > -364500946)
 {
@@ -257,7 +257,7 @@ case 'd':
 i8oEV -= 900934489;
 break;
 case 'e':
-N68H = kE95(-2142181706, PUvSgd2Fy, x4GbVi8GAR);
+N68H = kE95((short)-2142181706, PUvSgd2Fy, x4GbVi8GAR);
 break;
 default:
 NTM2 >>= 1188406380;
@@ -344,7 +344,7 @@ nf0_F2 = I6w14M8v9((unsigned short)-184259238, (char)1553687708);
 }
 else if (((a16R3HYc & -692122271) || (ohZ6joRAe <= -277234628)) || (ILnglAk5 <= 1953945530))
 {
-nf0_F2 = I6w14M8v9(nf0_F2, 1558212236);
+nf0_F2 = I6w14M8v9(nf0_F2, (char)1558212236);
 }
 else if (Eqv8zwU & 361504056)
 {
@@ -394,7 +394,7 @@ else if (vfnwd <= -535685378)
 {
 try
 {
-ohZ6joRAe = q6WV2(-947286560, uWn8N0h_, 1877307030, 869621122, u_Hd);
+ohZ6joRAe = q6WV2((unsigned short)-947286560, uWn8N0h_, 1877307030, 869621122, u_Hd);
 }
 catch (int& errorCode)
 {
@@ -459,7 +459,7 @@ MZWlHx9 = h4HWgv(-1917534163, -534743707, nf0_F2);
 
 std::cout << h4HWgv(uWn8N0h_, (char)1129404570, -1725951115) / h4HWgv(uWn8N0h_, (char)1832747611, 1435854521) << std::endl;
 
-std::cout << ILnglAk5 << q6WV2(uWn8N0h_, G_9U58C1o, 1300488505, -31699204, ohZ6joRAe) << kE95(uWn8N0h_, 985684171, nf0_F2) << j_xsCF << L7v3j0R7O << std::endl;
+std::cout << ILnglAk5 << q6WV2(uWn8N0h_, G_9U58C1o, (unsigned short)1300488505, -31699204, ohZ6joRAe) << kE95(uWn8N0h_, 985684171, nf0_F2) << j_xsCF << L7v3j0R7O << std::endl;
 {
 int i = 5;
 do
@@ -717,7 +717,7 @@ case 4:
 y5dR7Kkf = I6w14M8v9(y5dR7Kkf, (char)-263831964);
 break;
 case 5:
-JVRQ7 = kE95(1663124015, i8oEV, 1305459916);
+JVRQ7 = kE95((short)1663124015, i8oEV, 1305459916);
 break;
 case 6:
 y5dR7Kkf = kE95((short)-1276718424, T013ght, L7v3j0R7O);

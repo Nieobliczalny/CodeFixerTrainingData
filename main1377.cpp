@@ -22,7 +22,7 @@ int main() {
     char    T9UphL3;
     T9UphL3    =    (char)-818762735;
   unsigned char  m9yG;
-  m9yG  =  -95436634;
+  m9yG  =  (unsigned char)-95436634;
     short int    Z4qH6Jz390;
     Z4qH6Jz390    =    133693601;
   unsigned int  wZ1hyTNJ5;
@@ -64,7 +64,7 @@ int main() {
     unsigned short    fXaDl;
     fXaDl    =    (unsigned short)-157285425;
  unsigned short int BBd9mT7x;
- BBd9mT7x = 300784475;
+ BBd9mT7x = (unsigned short)300784475;
   unsigned short  xnZYvnZhm;
   xnZYvnZhm  =  -1237412323;
   unsigned long  vPd2t3NK0;

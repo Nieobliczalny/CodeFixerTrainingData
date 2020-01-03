@@ -63,7 +63,7 @@ int main(void) {
   char  CaVt;
   CaVt  =  (char)1678711253;
     short    qGScfyj_A;
-    qGScfyj_A    =    1004715707;
+    qGScfyj_A    =    (short)1004715707;
     float    RxX7_QM;
     RxX7_QM    =    -368528947;
     unsigned short    re2W;
@@ -97,7 +97,7 @@ int main(void) {
   int  I5ed168m;
   I5ed168m  =  326285273;
     unsigned char    o4feLh2;
-    o4feLh2    =    141478320;
+    o4feLh2    =    (unsigned char)141478320;
   char  EVsWe3;
   EVsWe3  =  (char)-968874844;
  long uzKsmD7Bnm;

@@ -71,7 +71,7 @@ jM6mw = (K3KRL != 166698481) ? (char)-1416129188 : (char)-829985482;
 break;
 case 'b':
 case 'B':
-h32F = mi3N2cny3_(1782451507, SmDz, 1761356419);
+h32F = mi3N2cny3_(1782451507, SmDz, (short)1761356419);
 break;
 case 'c':
 case 'C':
@@ -596,7 +596,7 @@ else if (CE_9 < v62HZk)
 {
 if ((tJzXf != -447966474) && (f8Lc9yxqm))
 {
-gF_452f = (f8Lc9yxqm < 1170315385) ? (char)-840636702 : -623239613;
+gF_452f = (f8Lc9yxqm < 1170315385) ? (char)-840636702 : (char)-623239613;
 }
 else
 {

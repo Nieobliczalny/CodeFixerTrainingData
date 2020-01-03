@@ -24,7 +24,7 @@ int main(void) {
   unsigned char  d34W_I  =  (unsigned char)-1079413526;
  long uZxDCJj = -88675911;
  unsigned short UzS97EL = (unsigned short)-1131027863;
-  unsigned char  FgjL  =  383856206;
+  unsigned char  FgjL  =  (unsigned char)383856206;
   long long  fZTUY2GkgF  =  1560735998;
 	short int	EKII8t19	=	223089709;
   unsigned char  G35Lh  =  1590250583;
@@ -38,7 +38,7 @@ int main(void) {
  int F_j7Y = -613064215;
  unsigned long ggICOuX = 530086017;
 	unsigned long long	d6E4	=	-1088282112;
-	short	d7UJ1X	=	-414392642;
+	short	d7UJ1X	=	(short)-414392642;
   short  V_L3r8  =  -1154997858;
     unsigned short    ImBk_dnEK0    =    1950871028;
   long double  PA1qoD759  =  -363214000;
@@ -52,7 +52,7 @@ int main(void) {
     short int    GaufWs    =    (short)1483443555;
   double  rlwdi  =  1042947679;
   long double  MU__Ct  =  -1925129213;
-  unsigned short int  EPXZG_8OLl  =  1204451513;
+  unsigned short int  EPXZG_8OLl  =  (unsigned short)1204451513;
     long double    p0311uND    =    -141032559;
  unsigned char h9Mt_6EwNt = 227495891;
     long double    o0Fu_    =    81415591;
@@ -65,7 +65,7 @@ int main(void) {
 	long double	Ukq5y	=	-32176678;
  int Kp_mn = 2099212925;
 	long	aVwT	=	-1022210862;
- short l_zieS5X = 213706447;
+ short l_zieS5X = (short)213706447;
 	unsigned int	NQ5Zu0	=	1671022682;
     unsigned int    SZ_cDgmz    =    388887785;
  long long n_1oei = 845507006;
@@ -78,7 +78,7 @@ int main(void) {
     unsigned char    W560XFR6T8    =    (unsigned char)1177123782;
 	long double	Yra76HVR4	=	1176825523;
 	long double	mx6j	=	706706552;
-  unsigned char  JsU_85tE  =  -966774200;
+  unsigned char  JsU_85tE  =  (unsigned char)-966774200;
  long AXim_Co = -862180846;
 	unsigned long long	mn4tunEZ	=	1635038572;
     long long    jizGuC6    =    1518274515;
@@ -91,7 +91,7 @@ int main(void) {
  float h3At = -161025348;
   long long  PRSf5  =  -1826527265;
 	short int	AG9_nTDn8	=	(short)-265772178;
-    char    k98jVqH4a6    =    -482908891;
+    char    k98jVqH4a6    =    (char)-482908891;
  double zGkZ9chkh0 = -1761266349;
 
 if (GaufWs != 2119081275)

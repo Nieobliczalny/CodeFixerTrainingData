@@ -80,7 +80,7 @@ while (i < 3);
 EsdlAi = (unsigned long long)(kz8MP5tK);
 if (F4h5sF1d >= -823034804)
 {
-WfjF = kl44le(WfjF, -643224869, ZiJiM, -1400321260);
+WfjF = kl44le(WfjF, (unsigned char)-643224869, ZiJiM, -1400321260);
 }
 else if (s7jC9l70 == fJ4_U0)
 {
@@ -211,7 +211,7 @@ case 2:
 Nx0EBl_sT %= 524133238;
 break;
 case 3:
-c_K1j = XT1G6Wt(417967571, (unsigned char)-977147765, 880282051, kz8MP5tK, -651809758);
+c_K1j = XT1G6Wt(417967571, (unsigned char)-977147765, 880282051, kz8MP5tK, (unsigned short)-651809758);
 break;
 case 4:
 c_K1j = XT1G6Wt(-746097614, 2118500464, 1771186917, Nx0EBl_sT, b_q8o_);

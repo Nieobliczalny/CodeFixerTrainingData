@@ -28,7 +28,7 @@ int main(int argc, char** argv)
 	unsigned char	Aop2bHP926;
 	Aop2bHP926	=	(unsigned char)-385427543;
   short  kB2_;
-  kB2_  =  -710804078;
+  kB2_  =  (short)-710804078;
   unsigned int  wHqS7tq;
   wHqS7tq  =  422251487;
 	unsigned char	umOp2_2YE;
@@ -40,7 +40,7 @@ int main(int argc, char** argv)
  float z7_yMwJ;
  z7_yMwJ = 827614248;
     unsigned short int    y7pP;
-    y7pP    =    -376110237;
+    y7pP    =    (unsigned short)-376110237;
 	short	OcCR;
 	OcCR	=	1606826883;
 	float	sF2___R4s;
@@ -64,7 +64,7 @@ int main(int argc, char** argv)
 	char	r3WmFtV;
 	r3WmFtV	=	(char)594343942;
 	unsigned short	H2_QH;
-	H2_QH	=	-867618910;
+	H2_QH	=	(unsigned short)-867618910;
     short int    IGjIt;
     IGjIt    =    (short)191912916;
   char  lR_1;
@@ -74,7 +74,7 @@ int main(int argc, char** argv)
   unsigned short  D6zC;
   D6zC  =  (unsigned short)782065620;
   unsigned short  BfA3ur4tHl;
-  BfA3ur4tHl  =  -1711804653;
+  BfA3ur4tHl  =  (unsigned short)-1711804653;
 	unsigned char	tomFb;
 	tomFb	=	0;
 	unsigned int	FQy_7bCQ;
@@ -86,7 +86,7 @@ int main(int argc, char** argv)
  unsigned int H5q2YDc9G;
  H5q2YDc9G = -54210845;
 	short	T4z1;
-	T4z1	=	1143055275;
+	T4z1	=	(short)1143055275;
     short    RJtB;
     RJtB    =    -1723774310;
 	long long	Cvj36W5F;
@@ -110,7 +110,7 @@ int main(int argc, char** argv)
  unsigned short o4u7;
  o4u7 = (unsigned short)-10603720;
     char    PGw2Tebw6;
-    PGw2Tebw6    =    -364242386;
+    PGw2Tebw6    =    (char)-364242386;
  double Z58H;
  Z58H = -1101608732;
     short int    JYF7d8;
@@ -128,7 +128,7 @@ int main(int argc, char** argv)
  unsigned int Wq_r9;
  Wq_r9 = 227070868;
  char JTm0n1t;
- JTm0n1t = 1469782263;
+ JTm0n1t = (char)1469782263;
  short int t751;
  t751 = 2064025553;
  long long Z7uK3;
@@ -138,7 +138,7 @@ int main(int argc, char** argv)
  unsigned short LUckhK;
  LUckhK = (unsigned short)2085228538;
   unsigned char  y0_ii3eLw;
-  y0_ii3eLw  =  -2070345687;
+  y0_ii3eLw  =  (unsigned char)-2070345687;
     unsigned char    Jtl0m4EK79;
     Jtl0m4EK79    =    307291724;
     unsigned short int    jyC_py;
@@ -154,7 +154,7 @@ int main(int argc, char** argv)
   long  O9MM;
   O9MM  =  -2076820392;
  char f_U2r66;
- f_U2r66 = -1014779964;
+ f_U2r66 = (char)-1014779964;
  short d3LkFDfL;
  d3LkFDfL = 660686512;
     float    Kn0V8h7f7q;

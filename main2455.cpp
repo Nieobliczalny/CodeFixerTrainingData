@@ -21,7 +21,7 @@ switch (xlW4_hu)
 {
 case 'a':
 case 'A':
-Wm6B6Ea = T75P8((unsigned short)1159050506, -1495712621, TPT7z_an) + acMh2k86;
+Wm6B6Ea = T75P8((unsigned short)1159050506, (char)-1495712621, TPT7z_an) + acMh2k86;
 break;
 case 'b':
 case 'B':
@@ -58,7 +58,7 @@ switch (TPT7z_an)
 {
 case 'a':
 case 'A':
-xkN7 = T75P8((unsigned short)1031898044, -1831425670, X8EuPC0t7);
+xkN7 = T75P8((unsigned short)1031898044, (char)-1831425670, X8EuPC0t7);
 break;
 case 'b':
 case 'B':
@@ -74,7 +74,7 @@ cfB51 = T75P8((unsigned short)1980527379, Gqmj, 1859267824);
 break;
 case 'e':
 case 'E':
-SlXi0TF6Q = T75P8(-702491466, Mk_9, 563111945);
+SlXi0TF6Q = T75P8((unsigned short)-702491466, Mk_9, 563111945);
 break;
 case 'f':
 case 'F':
@@ -113,7 +113,7 @@ case 'g':
 cfB51 = T75P8(b9cN_w6q8, (char)-1598999613, 331637777);
 break;
 case 'h':
-cfB51 = T75P8(1067188115, HRSeZ7, 1067003974);
+cfB51 = T75P8((unsigned short)1067188115, HRSeZ7, 1067003974);
 break;
 }
 }
@@ -158,7 +158,7 @@ else if ((W90rU6L <= 1186326892) || (P212o0 > 804792850))
 {
 try
 {
-P212o0 = T75P8(757640966, 1063805031, 1076250491);
+P212o0 = T75P8((unsigned short)757640966, 1063805031, 1076250491);
 }
 catch (int& errorCode)
 {
@@ -244,7 +244,7 @@ FsGqZ_qvf = T75P8((unsigned short)400985194, (char)-1141173414, Mk_9);
 }
 else if (ewzEx962vJ & -407099992)
 {
-P212o0 = T75P8(-1770559527, T_4XBy66, z26icdoR0);
+P212o0 = T75P8((unsigned short)-1770559527, T_4XBy66, z26icdoR0);
 }
 else
 {
@@ -314,7 +314,7 @@ case 4:
 xkN7 = T75P8((unsigned short)1798961953, hD4v, xkN7);
 break;
 case 5:
-xkN7 = T75P8((unsigned short)-106198642, -1617913370, -559039236);
+xkN7 = T75P8((unsigned short)-106198642, (char)-1617913370, -559039236);
 break;
 case 6:
 cfB51 = T75P8(yG4jlE, T5jgnl5, j9d0D_Q);
@@ -474,7 +474,7 @@ while (i < 4)
 {
 for (int j = 0; j < 5; ++j)
 {
-std::cout << "Qh5hG6xC6J" << T75P8((unsigned short)176152744, FsGqZ_qvf, 358247264) << "Pj3B" << T75P8((unsigned short)1799220506, 1337889579, I46J2J) << std::endl;
+std::cout << "Qh5hG6xC6J" << T75P8((unsigned short)176152744, FsGqZ_qvf, 358247264) << "Pj3B" << T75P8((unsigned short)1799220506, (char)1337889579, I46J2J) << std::endl;
 }
 i++;
 }
@@ -516,7 +516,7 @@ feEF2a1 = tvw_xq + 1708616111;
 }
 }
 
-FsGqZ_qvf = T75P8(692986498, xlW4_hu, 404919262);
+FsGqZ_qvf = T75P8((unsigned short)692986498, xlW4_hu, 404919262);
 X8EuPC0t7 = feEF2a1 | fL6C9G;
 return 0;
 }

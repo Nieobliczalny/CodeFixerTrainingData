@@ -14,7 +14,7 @@ int main(int argc, char** argv) {
   unsigned long long  aBv7x  =  891145354;
     unsigned short int    j4lLXLqa    =    (unsigned short)1542389306;
  unsigned long long uW5yuOP9PB = -399247660;
-  short int  hy3W  =  -1866220429;
+  short int  hy3W  =  (short)-1866220429;
  int ZtG_J = -1408608662;
 
 dODmO = (int)abs(hy3W) * 0;

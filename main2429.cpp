@@ -107,7 +107,7 @@ N57I2sFMu0 = (int)abs(i00h1);
 N57I2sFMu0 = SMdB9rHU(1528903486, U3F8CDhOS, (short)-381757483);
 
 ve954n = i00h1 / U3F8CDhOS;
-N57I2sFMu0 = l9fWd((unsigned short)-2021892154, 25079069, ve954n, 69017862, -725137994);
+N57I2sFMu0 = l9fWd((unsigned short)-2021892154, (short)25079069, ve954n, 69017862, -725137994);
 
 std::cout << "j8ja" << PjX4 << "vwhdL17" << "BX4VYYhMK" << std::endl;
 if (i00h1 != c2k_u07_Kz)

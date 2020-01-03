@@ -67,7 +67,7 @@ int main()
 	unsigned short	kd8_ei05V;
 	kd8_ei05V	=	0;
 	char	c2E4wYv;
-	c2E4wYv	=	-70102968;
+	c2E4wYv	=	(char)-70102968;
  long long eNhftv1;
  eNhftv1 = 1608141748;
     long double    g_ak5z5;
@@ -81,7 +81,7 @@ int main()
   unsigned long  e5O1zi2c1;
   e5O1zi2c1  =  0;
   unsigned short  jXTETh3op;
-  jXTETh3op  =  -904024492;
+  jXTETh3op  =  (unsigned short)-904024492;
  unsigned long sESY3lqT_0;
  sESY3lqT_0 = 1851085337;
     long double    crrTLgB7E;
@@ -95,7 +95,7 @@ int main()
 	double	LkH_z;
 	LkH_z	=	-2053324645;
   short int  h6Ehw;
-  h6Ehw  =  -1822931871;
+  h6Ehw  =  (short)-1822931871;
 	unsigned short int	c8q37T684;
 	c8q37T684	=	(unsigned short)-1132696095;
 	short int	ajl5hNEpjO;
@@ -115,7 +115,7 @@ int main()
   long  mJ_98s_;
   mJ_98s_  =  0;
     unsigned short    DL_0w;
-    DL_0w    =    2043465872;
+    DL_0w    =    (unsigned short)2043465872;
   unsigned short  C1_OEe642b;
   C1_OEe642b  =  (unsigned short)-174744700;
     unsigned short int    uXsv;
@@ -125,7 +125,7 @@ int main()
     long double    mAD57;
     mAD57    =    1995689140;
     char    w46Lu7L_38;
-    w46Lu7L_38    =    -1647069179;
+    w46Lu7L_38    =    (char)-1647069179;
     unsigned short    g1gQ_SqS;
     g1gQ_SqS    =    (unsigned short)-439764186;
 	double	Q0vmi;
@@ -145,7 +145,7 @@ int main()
   unsigned long  XV567Oq;
   XV567Oq  =  293847452;
   short  qcn_s8JDKA;
-  qcn_s8JDKA  =  2111568466;
+  qcn_s8JDKA  =  (short)2111568466;
 	double	pkbPN2Z2yi;
 	pkbPN2Z2yi	=	252896313;
  unsigned long L3d27B;
@@ -185,7 +185,7 @@ int main()
 	short	u0966yT;
 	u0966yT	=	(short)599113642;
 	unsigned char	AEHv3Xu_m;
-	AEHv3Xu_m	=	-489532282;
+	AEHv3Xu_m	=	(unsigned char)-489532282;
 
 if (R_RqJI6Q1_)
 {
@@ -643,7 +643,7 @@ else if ((u0966yT != 1145549560) && ((ahN7kbXbMn > OyRjDU3A4) || (YdjnM > p7_6nu
 {
 for (int k = 8; k >= 0; --k)
 {
-h6Ehw = Zooi_(2091206755, -1686816655, -419307547, 1059159914, WD0_dk3RG);
+h6Ehw = Zooi_(2091206755, (unsigned short)-1686816655, -419307547, 1059159914, WD0_dk3RG);
 }
 }
 else if (qcn_s8JDKA == u73Y3NG_K8)

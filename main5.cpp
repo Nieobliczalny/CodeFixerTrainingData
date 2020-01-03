@@ -84,7 +84,7 @@ case 5:
 L_9Rh9 = jtC6_CHrA(-547931853, bs49, J_RbIHhjM_, 1416598877);
 break;
 default:
-tjY0s6Go = a_84R(389237204, bs49, -93498448, Nm9d) * 184122153;
+tjY0s6Go = a_84R((unsigned char)389237204, bs49, -93498448, Nm9d) * 184122153;
 break;
 }
 

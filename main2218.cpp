@@ -17,7 +17,7 @@ int main(void) {
  unsigned short z6z7204br;
  z6z7204br = (unsigned short)1225424275;
  unsigned short int Oc74gOeL8W;
- Oc74gOeL8W = -1831808236;
+ Oc74gOeL8W = (unsigned short)-1831808236;
 	unsigned short int	nbYI;
 	nbYI	=	-1779486675;
  long double vvXk;
@@ -27,7 +27,7 @@ int main(void) {
     unsigned short int    N6Dt;
     N6Dt    =    (unsigned short)1613772351;
   unsigned char  XkC1Pd0G;
-  XkC1Pd0G  =  1303616575;
+  XkC1Pd0G  =  (unsigned char)1303616575;
     unsigned int    r0TfI1SDv;
     r0TfI1SDv    =    -165625546;
   float  nDG09IV;
@@ -55,7 +55,7 @@ int main(void) {
 	unsigned char	oF1S97QPIm;
 	oF1S97QPIm	=	(unsigned char)2002582907;
     unsigned char    baK8WQqmw;
-    baK8WQqmw    =    582508669;
+    baK8WQqmw    =    (unsigned char)582508669;
     unsigned short int    O2gio6SAU_;
     O2gio6SAU_    =    (unsigned short)1621927699;
     char    IJ8kGRa;

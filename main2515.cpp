@@ -14,7 +14,7 @@ int main(void)
   char  ME30ltW  =  (char)719950324;
  float qz7R7uy = -976288663;
     unsigned char    rTm97    =    (unsigned char)-1763280103;
-    unsigned short int    j7jw7GL80    =    1808216155;
+    unsigned short int    j7jw7GL80    =    (unsigned short)1808216155;
   unsigned short int  pBV4  =  -861197115;
 	unsigned char	IhJF9bK9U	=	-293673074;
     unsigned short    r5D5Q    =    1699613166;

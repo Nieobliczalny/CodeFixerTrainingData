@@ -21,7 +21,7 @@ int main(void)
     unsigned short    ezkzt65vHY    =    (unsigned short)-470659046;
   unsigned short int  H57G8Wd  =  (unsigned short)1047712270;
   unsigned long  T6xD  =  -1416374868;
-    unsigned char    w2G5SQZ    =    1508699429;
+    unsigned char    w2G5SQZ    =    (unsigned char)1508699429;
 	unsigned long	D_5i	=	139015237;
  float Xpm140 = -2000107086;
     double    BFcEc78Wx    =    668811498;
@@ -34,7 +34,7 @@ int main(void)
   long long  l8w_I7  =  1218360558;
   long  bT3n  =  1709819449;
  long double mYcqoPdSA6 = -961116800;
-    char    oP5SSpbIF2    =    349329719;
+    char    oP5SSpbIF2    =    (char)349329719;
   unsigned int  VWp5  =  1827114083;
     unsigned char    hlq58uns2    =    1293065474;
 	long double	Cr7cVmvFAy	=	191416960;
@@ -45,7 +45,7 @@ int main(void)
 	unsigned char	R427G	=	(unsigned char)33671523;
     double    Ev_Aw3z9    =    859306051;
   long double  JE7_mvR  =  -91499078;
-	char	m2rVC9	=	539709637;
+	char	m2rVC9	=	(char)539709637;
     long    vIWEi85s    =    1245299063;
   unsigned short int  R46x  =  1814604511;
  long fh9_0 = -682596357;
@@ -56,7 +56,7 @@ int main(void)
 	unsigned short int	hds9EpHT	=	(unsigned short)1383759727;
 	short int	J2ghY29	=	(short)-1361204129;
 	float	XEjlt_8R	=	2073226214;
-    short    k8h_DX    =    -542100451;
+    short    k8h_DX    =    (short)-542100451;
 	unsigned int	p61JoY	=	-627847510;
     unsigned long long    SMGLi    =    -475083456;
     long    bOUyb50d31    =    -510526080;
@@ -69,7 +69,7 @@ int main(void)
  unsigned int ervwvkS = 280770427;
     int    i5BZW    =    -1103388078;
  short omAshm3I7x = (short)-1350484781;
-    unsigned short    SdnSoW8v    =    -1756530886;
+    unsigned short    SdnSoW8v    =    (unsigned short)-1756530886;
  unsigned long WlKVJR7 = 76474616;
   unsigned short int  vLvPF  =  -1062433815;
  int u3Ow0 = 1043113218;
@@ -82,7 +82,7 @@ int main(void)
  int lv32Kbz_ = -1197636237;
     short int    FPc0I44f71    =    (short)-503444794;
 	float	G84_	=	1610381401;
-	unsigned char	i9k251y00	=	-380083461;
+	unsigned char	i9k251y00	=	(unsigned char)-380083461;
   char  gb683A  =  -1307051839;
 
 if (u3Ow0 < 63468794)

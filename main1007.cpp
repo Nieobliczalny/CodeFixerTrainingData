@@ -33,7 +33,7 @@ int main(void) {
  unsigned long J21lOS = -14799099;
     long long    rEu2    =    -855919510;
 	short	ED1P08W	=	(short)1719188470;
- unsigned char FTfl4 = -910436727;
+ unsigned char FTfl4 = (unsigned char)-910436727;
   short  p6Ah_  =  -1806536423;
   unsigned char  XNI9aRDUB_  =  2133838516;
   double  s13k4U1i  =  1135441087;
@@ -49,7 +49,7 @@ int main(void) {
   int  AlAxm  =  634259105;
 	long double	ZDiBt7	=	512333665;
   short  ITN__26  =  (short)1826975226;
-	unsigned short	cYM0vssM	=	1313818444;
+	unsigned short	cYM0vssM	=	(unsigned short)1313818444;
     char    Bn5W70_eC5    =    1498897766;
     int    V91uU    =    1184959429;
   unsigned long  eylF79  =  748463879;
@@ -59,7 +59,7 @@ int main(void) {
 	unsigned short	v46Js_	=	811085059;
  long long Lu2QsD7i = -1120565192;
  unsigned char L6MM_1A6l = (unsigned char)-1746694171;
-    short int    Jh_7krJw    =    783397310;
+    short int    Jh_7krJw    =    (short)783397310;
     long    O0Ex    =    -218027731;
 	short int	CqcR	=	-1100449875;
 	unsigned long long	Xh47Bq	=	-804997005;
@@ -69,7 +69,7 @@ int main(void) {
  unsigned char gWV4hD_g = 1903366445;
  int N5S8nB35U = -1289613323;
 	char	NZSpxkQN9	=	(char)-1259309741;
-    unsigned short    pw3rhZJ09    =    -232746106;
+    unsigned short    pw3rhZJ09    =    (unsigned short)-232746106;
 	unsigned int	kFTO	=	937314446;
  double SJR0_ = -2116989509;
   short int  t5gd0VYAC  =  771988221;
@@ -82,7 +82,7 @@ int main(void) {
     int    b6ih_Af1Y    =    1891067488;
  float MYs5GxDpx_ = 238604777;
     int    t_2La    =    0;
-  unsigned short int  OgExNXOr_  =  -2057636872;
+  unsigned short int  OgExNXOr_  =  (unsigned short)-2057636872;
     long long    XfV783QqYC    =    -1564783372;
   short int  KKl5Jz  =  (short)1221999268;
  short R6LpbYt = -1952361584;
@@ -333,7 +333,7 @@ i++;
 int j = 10;
 while (j >= 0)
 {
-cout << O0Ex << oHXq26(AlAxm, (short)928285756, b6ih_Af1Y) << LT5jnka2C(AlAxm, (short)1811003188, 1532547570, SU_j) << endl;
+cout << O0Ex << oHXq26(AlAxm, (short)928285756, b6ih_Af1Y) << LT5jnka2C(AlAxm, (short)1811003188, (unsigned short)1532547570, SU_j) << endl;
 --j;
 }
 }

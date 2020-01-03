@@ -35,7 +35,7 @@ int main(void) {
   long double  INQ15rnazj  =  1594068137;
 	long long	Zb4G	=	-922829589;
     char    ND4B3d    =    (char)-590967535;
- unsigned short ns1uw31x = -1225255521;
+ unsigned short ns1uw31x = (unsigned short)-1225255521;
   long double  Sd6V2w  =  -2037503818;
  long HbvVsX2C0 = 359539666;
 	long long	M1SZ3xKcsT	=	-665370021;
@@ -58,7 +58,7 @@ int main(void) {
  unsigned long EEN2_H = -620558731;
  unsigned long long q5XL2d_V0o = 1012298512;
  long double tD_a1Kr = -1238509699;
-    char    U__k04JR8    =    -1814217654;
+    char    U__k04JR8    =    (char)-1814217654;
   unsigned char  Cy9pZA1T  =  955913002;
  long C9jHD7 = 713993372;
     unsigned short    r9Z2C57vz    =    1415646588;
@@ -68,7 +68,7 @@ int main(void) {
     unsigned long long    N1Md    =    1178798163;
 	float	BWVjaC023	=	-2020581484;
     unsigned short    IDexx0YIm    =    (unsigned short)228363460;
-  char  UPPG  =  -1190918163;
+  char  UPPG  =  (char)-1190918163;
     unsigned long    Yf6VERLMP    =    124568088;
   int  t24sTr28xt  =  742203944;
   long double  UAnqp5cDE  =  -753576366;
@@ -85,7 +85,7 @@ int main(void) {
  long Sv5ZVhT = -598418744;
     int    R7JA9    =    -1756336424;
     unsigned long long    FP34    =    1431988101;
- unsigned char k4_grUGL = 1481895680;
+ unsigned char k4_grUGL = (unsigned char)1481895680;
  long long tJ05 = 1207392615;
  unsigned short int J6tdAW = (unsigned short)-1343502257;
  unsigned int CY38ouV = -2108538525;
@@ -103,7 +103,7 @@ int main(void) {
 	unsigned int	TmY9_0W	=	0;
 	unsigned int	d9gT7	=	-46888554;
 	char	NC9I	=	(char)2102466822;
- short Wl25 = 1406779547;
+ short Wl25 = (short)1406779547;
  unsigned long loqpsB8 = -1509895139;
  unsigned long long ddoM3Za9k = 1492248462;
   short int  ysR0  =  -1270787317;
@@ -144,7 +144,7 @@ case 8:
 t24sTr28xt >>= 1775318179;
 break;
 default:
-TmY9_0W = wKu7G(c9Rn, (short)-1169482359, (short)1893896710, -301907784, qVjC289);
+TmY9_0W = wKu7G(c9Rn, (short)-1169482359, (short)1893896710, (short)-301907784, qVjC289);
 break;
 }
 std::cout << wKu7G(-453552436, tJ8_o, CY38ouV, t24sTr28xt, qVjC289) << "d0_VUxZRh" << NI_yI6oN << std::endl;

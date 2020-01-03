@@ -65,7 +65,7 @@ case 4:
 X1OCx4Ucc = eV4b((unsigned short)1757265530, QZk0V9LJ, Q200, GrMef);
 break;
 case 5:
-GrMef = eV4b((unsigned short)1121752570, 615742579, u2WgEh6Xu, 1388444641);
+GrMef = eV4b((unsigned short)1121752570, (unsigned short)615742579, u2WgEh6Xu, 1388444641);
 break;
 case 6:
 QZk0V9LJ = eV4b(X6y36751, QZk0V9LJ, 1891084568, GrMef);

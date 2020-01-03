@@ -132,7 +132,7 @@ case 1:
 L1JZy17 = (u9xb0) ? 942088495 : K272IY;
 break;
 case 2:
-Xe24c5_e4w = XCpss(Xe24c5_e4w, cRv_P7Rj6Y, (unsigned char)-1239722946, (unsigned char)-749299908, 1505538239);
+Xe24c5_e4w = XCpss(Xe24c5_e4w, cRv_P7Rj6Y, (unsigned char)-1239722946, (unsigned char)-749299908, (unsigned short)1505538239);
 break;
 case 3:
 nT1J_3i = (int)abs(a7m9_uGc);

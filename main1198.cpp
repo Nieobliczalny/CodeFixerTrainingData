@@ -61,7 +61,7 @@ case 0:
 Vtci721xD = fXNKajo9nE(-1466865152, (char)1352310991, 956803756, uQc0_le, (short)793796071);
 break;
 case 1:
-hJ38U = fXNKajo9nE(gcxI, -87548806, q9X6zU, hJ38U, 247280903);
+hJ38U = fXNKajo9nE(gcxI, (char)-87548806, q9X6zU, hJ38U, 247280903);
 break;
 case 2:
 Z7Wh = (int)ceil(uQc0_le);
@@ -138,7 +138,7 @@ else if ((hJ38U != xA_Yi) && (gcxI != 2013189413))
 switch (Hb1V)
 {
 case 'a':
-Vtci721xD = fXNKajo9nE(-214781374, -245197719, 298368870, -1955690664, gcxI);
+Vtci721xD = fXNKajo9nE(-214781374, (char)-245197719, 298368870, -1955690664, gcxI);
 break;
 case 'b':
 Z7Wh -= 721318334;
@@ -171,7 +171,7 @@ case 1:
 hJ38U >>= 1214403676;
 break;
 case 2:
-uQc0_le = EenuU((unsigned short)-1905574534, (short)-187268284, 1396756215, Z7Wh);
+uQc0_le = EenuU((unsigned short)-1905574534, (short)-187268284, (char)1396756215, Z7Wh);
 break;
 case 3:
 Z7Wh = fXNKajo9nE(q9X6zU, 2042279123, I6_xpBBSL, -1872353724, u86_JOft5p);
@@ -290,7 +290,7 @@ case 'h':
 Z7Wh = WXEn22SFt((unsigned char)1953295814);
 break;
 default:
-uQc0_le = fXNKajo9nE(-1454256440, (char)-1901751417, I6_xpBBSL, hJ38U, -1442567745);
+uQc0_le = fXNKajo9nE(-1454256440, (char)-1901751417, I6_xpBBSL, hJ38U, (short)-1442567745);
 break;
 }
 }
@@ -313,7 +313,7 @@ else if (u86_JOft5p >= 2115527545)
 {
 if (Vtci721xD != -992531126)
 {
-Vtci721xD = EenuU((unsigned short)-2108463357, (short)-285570617, -1874482166, u86_JOft5p);
+Vtci721xD = EenuU((unsigned short)-2108463357, (short)-285570617, (char)-1874482166, u86_JOft5p);
 }
 }
 else if (Hb1V & -338073381)
@@ -446,7 +446,7 @@ Vtci721xD = tt81EQk / 496377986;
 }
 else if (gcxI > xA_Yi)
 {
-Z7Wh = EenuU((unsigned short)-1696625279, (short)-1747874756, -1406552752, uQc0_le);
+Z7Wh = EenuU((unsigned short)-1696625279, (short)-1747874756, (char)-1406552752, uQc0_le);
 }
 else
 {
@@ -481,7 +481,7 @@ Z7Wh = (int)floor(uQc0_le);
 break;
 case 'b':
 case 'B':
-Z7Wh = EenuU((unsigned short)-1997219348, (short)-1258121228, -1507697510, -1185349670);
+Z7Wh = EenuU((unsigned short)-1997219348, (short)-1258121228, (char)-1507697510, -1185349670);
 break;
 case 'c':
 case 'C':

@@ -153,7 +153,7 @@ case 2:
 N42J01b0vi >>= 1485426191;
 break;
 case 3:
-edR78 = ODVYNPh(-463187462, (unsigned short)2121730021, (unsigned char)1826736000, -1610011378, -527018197);
+edR78 = ODVYNPh(-463187462, (unsigned short)2121730021, (unsigned char)1826736000, -1610011378, (short)-527018197);
 break;
 case 4:
 C_BQbfm3cr = MXxoz10K | r8B9dEmydP;

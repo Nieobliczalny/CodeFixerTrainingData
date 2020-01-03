@@ -24,7 +24,7 @@ int main(void) {
 	double	h7SLJEP;
 	h7SLJEP	=	2057602335;
 	char	ey_3;
-	ey_3	=	-466957238;
+	ey_3	=	(char)-466957238;
   unsigned short int  p6I_TAe6T;
   p6I_TAe6T  =  (unsigned short)879827828;
  short int t83PcE;
@@ -40,7 +40,7 @@ int main(void) {
     unsigned char    y5Fum8P;
     y5Fum8P    =    (unsigned char)-1777689659;
 	unsigned short int	GLvx2;
-	GLvx2	=	1874877448;
+	GLvx2	=	(unsigned short)1874877448;
     int    AnRE7SB8;
     AnRE7SB8    =    -1184585297;
 	unsigned char	ZO7G;
@@ -52,7 +52,7 @@ int main(void) {
 	unsigned char	i4x0Y47;
 	i4x0Y47	=	(unsigned char)31842408;
 	short	RoBB3kO;
-	RoBB3kO	=	1066028074;
+	RoBB3kO	=	(short)1066028074;
     short    d81L;
     d81L    =    (short)1021725444;
 	short int	axh0V;
@@ -74,7 +74,7 @@ if (UTO75GsD0 == 0)
 {
 	t83PcE = gtk0aTCjfi / UTO75GsD0;
 }
-UTO75GsD0 = h_5EV(ZO7G, (unsigned char)-2116075416, -295635182, -844399529, -172646664);
+UTO75GsD0 = h_5EV(ZO7G, (unsigned char)-2116075416, -295635182, -844399529, (unsigned short)-172646664);
 
 switch (GLvx2)
 {
@@ -113,7 +113,7 @@ UTO75GsD0 = h_5EV((unsigned char)-1305025850, I_XqutZw, AnRE7SB8, gtk0aTCjfi, (u
 break;
 case 'b':
 case 'B':
-UTO75GsD0 = h_5EV(GLvx2, -1186654876, -1085149387, 136444213, UTO75GsD0);
+UTO75GsD0 = h_5EV(GLvx2, (unsigned char)-1186654876, -1085149387, 136444213, UTO75GsD0);
 break;
 case 'c':
 case 'C':
@@ -149,7 +149,7 @@ case 'c':
 wid8E7 = (int)ceil(p_75H_);
 break;
 case 'd':
-UTO75GsD0 = h_5EV(i4x0Y47, (unsigned char)769443614, 531113551, h7SLJEP, -1383461730);
+UTO75GsD0 = h_5EV(i4x0Y47, (unsigned char)769443614, 531113551, h7SLJEP, (unsigned short)-1383461730);
 break;
 }
 
@@ -184,7 +184,7 @@ else if (AnRE7SB8 <= GLvx2)
 {
 for (int k = 0; k < 5; k++)
 {
-B4FCXfGf2H = h_5EV(-1632558355, -1406102407, kX_nm_3s, 1610495139, I_XqutZw);
+B4FCXfGf2H = h_5EV((unsigned char)-1632558355, -1406102407, kX_nm_3s, 1610495139, I_XqutZw);
 }
 }
 else
@@ -364,7 +364,7 @@ B4FCXfGf2H = h_5EV((unsigned char)-1736400043, (unsigned char)-141028916, B4FCXf
 }
 gtk0aTCjfi = (short)(h7SLJEP);
 
-UTO75GsD0 = h_5EV(p_75H_, 607334347, axh0V, 1798210062, 12000113);
+UTO75GsD0 = h_5EV(p_75H_, (unsigned char)607334347, axh0V, 1798210062, 12000113);
 wid8E7 = (int)floor(h7SLJEP);
 
 cout << h_5EV(p_75H_, -1650563266, axh0V, -7760791, i4x0Y47) << endl;

@@ -34,7 +34,7 @@ zv_zYCE2l = o9gMl((unsigned char)-121372355, pvn_Nmac, XohRFZ3rPT, 755820563);
 }
 else if (((j5Nu6p3w4) || (e_Vo82 == 748243362)) && ((U9__EJyO & Z80W7Y) && (iM_Ke_oY >= -693443018)))
 {
-zv_zYCE2l = o9gMl((unsigned char)15842626, U9__EJyO, -1844935547, -1557542680);
+zv_zYCE2l = o9gMl((unsigned char)15842626, U9__EJyO, (unsigned char)-1844935547, -1557542680);
 }
 else if ((Y6xWJ4bL >= Y42ZP) || ((qW_3B8r5He > d19pT47_6) || (W_Cs_AbI < w6rU8)))
 {
@@ -57,7 +57,7 @@ else if (iM_Ke_oY != 1456565129)
 {
 for (int k = 4; k >= 0; --k)
 {
-zv_zYCE2l = o9gMl((unsigned char)1101264660, R9Mq4, 794238890, zv_zYCE2l);
+zv_zYCE2l = o9gMl((unsigned char)1101264660, R9Mq4, (unsigned char)794238890, zv_zYCE2l);
 }
 }
 else if (w0q5yXG != yGnr)
@@ -310,7 +310,7 @@ zv_zYCE2l = o9gMl((unsigned char)-582793638, 2065691923, (unsigned char)-2136919
 }
 else if (nm1vI & -688646407)
 {
-C9xiPF9 = o9gMl(846394196, C9xiPF9, uqGO70m4c, N9_76f);
+C9xiPF9 = o9gMl((unsigned char)846394196, C9xiPF9, uqGO70m4c, N9_76f);
 }
 else
 {
@@ -351,7 +351,7 @@ i--;
 while (i >= 0);
 }
 
-std::cout << o9gMl(333901905, ZwC29, N9_76f, 518112346) << std::endl;
+std::cout << o9gMl((unsigned char)333901905, ZwC29, N9_76f, 518112346) << std::endl;
 
 {
 int i = 0;
@@ -365,7 +365,7 @@ else if ((U9__EJyO > 1906114249) && (I727w1kg <= HV_0_Mv))
 {
 if (bCjV <= Tf6Bui4DSf)
 {
-C9xiPF9 = o9gMl((unsigned char)-2108505409, -429086964, 253719639, -1288167660);
+C9xiPF9 = o9gMl((unsigned char)-2108505409, -429086964, (unsigned char)253719639, -1288167660);
 }
 else if (b164 <= -1868215710)
 {
@@ -453,7 +453,7 @@ case 5:
 N9_76f = (int)abs(tzx0ba0);
 break;
 default:
-zv_zYCE2l = o9gMl(1255872976, Y6xWJ4bL, ZVu3, Y_r_607EdZ);
+zv_zYCE2l = o9gMl((unsigned char)1255872976, Y6xWJ4bL, ZVu3, Y_r_607EdZ);
 break;
 }
 }
@@ -507,7 +507,7 @@ D6D2cZ9zcj = o9gMl((unsigned char)272460587, D6D2cZ9zcj, zv_zYCE2l, YM_7_Q);
 }
 else
 {
-tzx0ba0 = o9gMl((unsigned char)981279149, -1288250363, -1504863809, -643982250);
+tzx0ba0 = o9gMl((unsigned char)981279149, -1288250363, (unsigned char)-1504863809, -643982250);
 }
 }
 else if ((S5S17 <= A3q_9) && (dvZsh6S & Nh__))

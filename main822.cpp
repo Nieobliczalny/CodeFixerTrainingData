@@ -153,7 +153,7 @@ case 3:
 Ibx94Shv7 = OPK_1((short)622960605);
 break;
 case 4:
-Ibx94Shv7 = OPK_1(704006867);
+Ibx94Shv7 = OPK_1((short)704006867);
 break;
 case 5:
 Ibx94Shv7 = OPK_1(y45ef);
@@ -227,7 +227,7 @@ Ibx94Shv7 = OPK_1((short)2129329546);
 }
 }
 
-std::cout << OPK_1(776376114) << a3p72dR << OPK_1(U1A2Zo8fX0) << OPK_1(1291576839) << std::endl;
+std::cout << OPK_1((short)776376114) << a3p72dR << OPK_1(U1A2Zo8fX0) << OPK_1(1291576839) << std::endl;
 if ((BkTd / OPK_1((short)-482569064)) > -1700991252)
 {
 std::cout << wkD4n << std::endl;

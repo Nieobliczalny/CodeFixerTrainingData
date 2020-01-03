@@ -16,7 +16,7 @@ int main(void) {
   short int  g6rL0Jnz,  D9Dd7,  y1rLM9Y83y,  utz38,  P4oj,  C5A_9,  O_M10r_mz7,  FI7d,  Kwe8L9y;
   g6rL0Jnz  =  (short)852560426;
   D9Dd7  =  (short)-496792145;
-  y1rLM9Y83y  =  157621277;
+  y1rLM9Y83y  =  (short)157621277;
   utz38  =  -333238712;
   P4oj  =  1794371320;
   C5A_9  =  -172868076;
@@ -310,7 +310,7 @@ else
 utz38 >>= y1rLM9Y83y;
 }
 
-std::cout << Y4WlhXfGJ(D9Dd7, 1050436717, -1544197530) << std::endl;
+std::cout << Y4WlhXfGJ(D9Dd7, (unsigned short)1050436717, -1544197530) << std::endl;
 if (P4oj >= 920673847)
 {
 RbN2543 = ciS6AN(P4oj, (short)-1141258144, utz38);
@@ -372,7 +372,7 @@ case 'c':
 Py_QmS4 = (int)abs(RbN2543);
 break;
 case 'd':
-Py_QmS4 = ciS6AN((short)-1473757452, (short)-1661142270, -773476439);
+Py_QmS4 = ciS6AN((short)-1473757452, (short)-1661142270, (short)-773476439);
 break;
 case 'e':
 P4oj = Y4WlhXfGJ(-2117644400, D9Dd7, 786234882);
@@ -415,7 +415,7 @@ Kwe8L9y = Y4WlhXfGJ(Kwe8L9y, (unsigned short)-1066545497, 1143393234) & 15070142
 }
 else if (C5A_9 != RbN2543)
 {
-Py_QmS4 = ciS6AN(utz38, (short)516767690, 1702173157);
+Py_QmS4 = ciS6AN(utz38, (short)516767690, (short)1702173157);
 }
 else if (D9Dd7 < 1481088285)
 {
@@ -561,7 +561,7 @@ k--;
 }
 else if (O_M10r_mz7 > FI7d)
 {
-X8gJ_8e_kW = ciS6AN((short)-859344337, -1927898481, C5A_9);
+X8gJ_8e_kW = ciS6AN((short)-859344337, (short)-1927898481, C5A_9);
 }
 else
 {
@@ -608,7 +608,7 @@ std::cout << ciS6AN(y1rLM9Y83y, (short)-1265270457, (short)-970471139) << "mCi_e
 int i = 2;
 do
 {
-utz38 = ciS6AN(-1278036812, P4oj, O_M10r_mz7) >> O_M10r_mz7;
+utz38 = ciS6AN((short)-1278036812, P4oj, O_M10r_mz7) >> O_M10r_mz7;
 i--;
 }
 while (i >= 0);

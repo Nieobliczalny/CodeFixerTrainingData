@@ -40,7 +40,7 @@ int main(int argc, char** argv)
 	short	Xp_R;
 	Xp_R	=	(short)1873894430;
     unsigned char    xsTtSB_q9;
-    xsTtSB_q9    =    -187278798;
+    xsTtSB_q9    =    (unsigned char)-187278798;
  double rrs_4;
  rrs_4 = -1265504592;
     double    ZZ69_3ujda;
@@ -88,7 +88,7 @@ int main(int argc, char** argv)
  unsigned short int b5og1p0MGw;
  b5og1p0MGw = (unsigned short)-1484210932;
     short    Sf_d7;
-    Sf_d7    =    -129807326;
+    Sf_d7    =    (short)-129807326;
     short int    E7UOyxX;
     E7UOyxX    =    -1083381333;
     long    jL54;
@@ -110,7 +110,7 @@ int main(int argc, char** argv)
 	double	w_T9dm;
 	w_T9dm	=	895489139;
     short int    U17xFiocOI;
-    U17xFiocOI    =    -1865532698;
+    U17xFiocOI    =    (short)-1865532698;
   unsigned int  EuPk8mf;
   EuPk8mf  =  -776405600;
 	unsigned short	D_x_g80;
@@ -169,7 +169,7 @@ for (int i = 4; i >= 0; --i)
 std::cout << "abx5u0JiQ" << Z8FLQh() << "GuwQc6" << Bv21ka((unsigned short)-1690584532, (unsigned short)313708250, Sf_d7, S2K393Mz9, -1083361742) << "YYb5_T4" << std::endl;
 }
 
-std::cout << Bv21ka(jL54, syWkcXM86Y, -1801367226, S2K393Mz9, b5og1p0MGw) << rrs_4 << esuZ93W3T(-1777629917, syWkcXM86Y, -17994181, S2K393Mz9) << std::endl;
+std::cout << Bv21ka(jL54, syWkcXM86Y, -1801367226, S2K393Mz9, b5og1p0MGw) << rrs_4 << esuZ93W3T((unsigned short)-1777629917, syWkcXM86Y, -17994181, S2K393Mz9) << std::endl;
 
 GBv_6Yv = (int)abs(w_T9dm);
 
@@ -413,7 +413,7 @@ if ((b5og1p0MGw > 13191244) && ((h0815Lz5 >= q500U) && (UDlEea3r0t == 509258855)
 int k = 0;
 while (k < 9)
 {
-mEyw9J = Bv21ka((unsigned short)1374048645, (unsigned short)1220993308, -360755853, -562329742, -316499231);
+mEyw9J = Bv21ka((unsigned short)1374048645, (unsigned short)1220993308, -360755853, (short)-562329742, -316499231);
 ++k;
 }
 }

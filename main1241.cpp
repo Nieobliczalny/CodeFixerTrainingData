@@ -155,7 +155,7 @@ else
 int j = 3;
 do
 {
-cout << RGl05e9h((char)1962586983, (char)-5397238, -1096004134) << "MY1mB5" << T1_c << P8NFE8sx4 << endl;
+cout << RGl05e9h((char)1962586983, (char)-5397238, (unsigned short)-1096004134) << "MY1mB5" << T1_c << P8NFE8sx4 << endl;
 --j;
 }
 while (j >= 0);
@@ -189,7 +189,7 @@ case 'h':
 CL90b9lN = (int)floor(ktWih5);
 break;
 default:
-ML3v_ = RGl05e9h(-628966363, vo5vW4, c7oqc5k);
+ML3v_ = RGl05e9h((char)-628966363, vo5vW4, c7oqc5k);
 break;
 }
 if (((CL90b9lN == iNTHU) && (YEMESx == wJMl3)) && (E_m0_87w2_))
@@ -366,7 +366,7 @@ else
 {
 for (int j = 0; j < 2; j++)
 {
-Xn69e4 = RGl05e9h((char)1105009785, (char)-1646829467, -364164503);
+Xn69e4 = RGl05e9h((char)1105009785, (char)-1646829467, (unsigned short)-364164503);
 }
 }
 {

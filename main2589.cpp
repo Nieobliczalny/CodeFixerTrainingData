@@ -193,7 +193,7 @@ case 3:
 d7_j %= 1047954891;
 break;
 case 4:
-OhcfpuP = DLFe(OhcfpuP, 666682091, -1020101449, 42054655);
+OhcfpuP = DLFe(OhcfpuP, (char)666682091, -1020101449, 42054655);
 break;
 case 5:
 dYsr_1M9 = MJ5f4fp4y(654438175);
@@ -208,7 +208,7 @@ while (i >= 0);
 }
 i3K4yyqqN7 = DLFe(i3K4yyqqN7, (char)1278550565, evH8_MIF, N7Uxd5);
 
-std::cout << MJ5f4fp4y(1540862923) << "T92v_cUL" << xGe5Xn5BgP << std::endl;
+std::cout << MJ5f4fp4y((short)1540862923) << "T92v_cUL" << xGe5Xn5BgP << std::endl;
 
 {
 int i = 0;
@@ -224,7 +224,7 @@ else
 int k = 0;
 do
 {
-tsBpg = DLFe(tsBpg, -1605468102, FB9FMb14, 821492580);
+tsBpg = DLFe(tsBpg, (char)-1605468102, FB9FMb14, 821492580);
 k++;
 }
 while (k < 4);
@@ -495,7 +495,7 @@ int k = 0;
 while (k < 3)
 {
 k++;
-n27TrywDN = ia7jS((unsigned short)634003330, (unsigned short)678387276, 1837457053);
+n27TrywDN = ia7jS((unsigned short)634003330, (unsigned short)678387276, (short)1837457053);
 }
 }
 }
@@ -595,7 +595,7 @@ else
 {
 if (WyAt8zv5 <= 1094914904)
 {
-std::cout << ROpv1G2ED_ << "ofU_68" << FB9FMb14 << ia7jS((unsigned short)1978762190, z86qF, (short)-505458914) << MJ5f4fp4y(-337847401) << std::endl;
+std::cout << ROpv1G2ED_ << "ofU_68" << FB9FMb14 << ia7jS((unsigned short)1978762190, z86qF, (short)-505458914) << MJ5f4fp4y((short)-337847401) << std::endl;
 }
 else
 {
@@ -660,7 +660,7 @@ PnucjO = MJ5f4fp4y(z8Vm);
 }
 else
 {
-K27c = ia7jS((unsigned short)197379643, (unsigned short)-1220834209, -1256011499);
+K27c = ia7jS((unsigned short)197379643, (unsigned short)-1220834209, (short)-1256011499);
 }
 }
 else if (y86bOX == 982337653)
@@ -682,7 +682,7 @@ case 0:
 z8Vm = DLFe(z8Vm, RED52, 617782421, -756754567);
 break;
 case 1:
-i3K4yyqqN7 = ia7jS((unsigned short)-182029848, (unsigned short)-981526083, 2099625410);
+i3K4yyqqN7 = ia7jS((unsigned short)-182029848, (unsigned short)-981526083, (short)2099625410);
 break;
 case 2:
 T7T160SXNm = EJRP();

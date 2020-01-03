@@ -100,7 +100,7 @@ int i = 3;
 do
 {
 --i;
-jzbTVF_51 = eSevW2((short)-17164800, (short)-1573149277, -1094987656, M4qsEUYH);
+jzbTVF_51 = eSevW2((short)-17164800, (short)-1573149277, (unsigned char)-1094987656, M4qsEUYH);
 }
 while (i >= 0);
 }
@@ -170,7 +170,7 @@ JDWkeU = (int)abs(wPH5);
 }
 else
 {
-Vy5Ut_utYr = eSevW2((short)-537310139, (short)1356237605, 1959870264, -180475001);
+Vy5Ut_utYr = eSevW2((short)-537310139, (short)1356237605, (unsigned char)1959870264, -180475001);
 }
 }
 }

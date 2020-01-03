@@ -238,7 +238,7 @@ JBcv809M -= 964532892;
 break;
 case 'j':
 case 'J':
-Dnbs = Sn5F1(-1808643833, (char)996646539, -733864958);
+Dnbs = Sn5F1(-1808643833, (char)996646539, (unsigned short)-733864958);
 break;
 }
 
@@ -438,7 +438,7 @@ else
 {
 if (v8_3Z != 352833961)
 {
-Dnbs = Sn5F1(W320mRBl, (char)3364626, 1620941766);
+Dnbs = Sn5F1(W320mRBl, (char)3364626, (unsigned short)1620941766);
 }
 }
 }

@@ -22,7 +22,7 @@ int main()
   short int  PHlz8MEl2_;
   PHlz8MEl2_  =  (short)-400729117;
 	short	TdMdyY;
-	TdMdyY	=	-772441505;
+	TdMdyY	=	(short)-772441505;
  unsigned short int NX1jrjFgk;
  NX1jrjFgk = -571384903;
   char  YgIQx7GX;
@@ -54,7 +54,7 @@ int main()
   short  KWoQG;
   KWoQG  =  (short)1425878573;
     short int    PGxe_57Cl;
-    PGxe_57Cl    =    991886119;
+    PGxe_57Cl    =    (short)991886119;
     char    mQXz4nXSA;
     mQXz4nXSA    =    (char)-1700928199;
     float    pLNd0;
@@ -88,7 +88,7 @@ int main()
   unsigned char  W1II4;
   W1II4  =  (unsigned char)-47772570;
 	short int	ojSIm;
-	ojSIm	=	-1228915281;
+	ojSIm	=	(short)-1228915281;
     unsigned long    z10FL;
     z10FL    =    -1540626558;
     float    gw3gx00hTr;
@@ -118,7 +118,7 @@ int main()
  unsigned long pOxtRLWpx;
  pOxtRLWpx = -1024768637;
   char  LXMR7o3_61;
-  LXMR7o3_61  =  -1463987201;
+  LXMR7o3_61  =  (char)-1463987201;
   long long  D281i;
   D281i  =  1103760608;
  unsigned short int Qnbwlb;
@@ -128,7 +128,7 @@ int main()
     unsigned short int    zevyV1M;
     zevyV1M    =    28052822;
  unsigned char vPQfK6Xy_;
- vPQfK6Xy_ = -581987510;
+ vPQfK6Xy_ = (unsigned char)-581987510;
   short  RrWj56u2ej;
   RrWj56u2ej  =  -2104758784;
     long    U28K;
@@ -142,7 +142,7 @@ int main()
     unsigned char    I_iEjg;
     I_iEjg    =    (unsigned char)-76745458;
   char  G2KBxONq;
-  G2KBxONq  =  -1329893574;
+  G2KBxONq  =  (char)-1329893574;
   long  TWMx2GDZsW;
   TWMx2GDZsW  =  -1512144612;
  unsigned long DqUY;
@@ -180,7 +180,7 @@ int main()
 	long	zpt0wfs;
 	zpt0wfs	=	868803187;
 	unsigned short int	lSUnsbN;
-	lSUnsbN	=	-865919748;
+	lSUnsbN	=	(unsigned short)-865919748;
 	double	wD3d;
 	wD3d	=	-540985487;
 
@@ -363,7 +363,7 @@ cout << Crjs5HaXA2() << endl;
 }
 else
 {
-cout << S24l90yc28(p_S_V6L, DLk7uc, -852632301) << Rv0iz8xS(p_S_V6L, DLk7uc, -1025379260) << YgIQx7GX << "V1qs" << endl;
+cout << S24l90yc28(p_S_V6L, DLk7uc, (unsigned short)-852632301) << Rv0iz8xS(p_S_V6L, DLk7uc, -1025379260) << YgIQx7GX << "V1qs" << endl;
 }
 
 vPQfK6Xy_ = S24l90yc28(p_S_V6L, DLk7uc, HnHbw8SK9) / Crjs5HaXA2();

@@ -27,7 +27,7 @@ int main(int argc, char** argv)
  short int uujpUDr;
  uujpUDr = (short)1130086336;
 	unsigned short	UV4KS_3f_;
-	UV4KS_3f_	=	-2101219424;
+	UV4KS_3f_	=	(unsigned short)-2101219424;
   unsigned int  XjhOuHn;
   XjhOuHn  =  -124883388;
  unsigned long L_62wxP;
@@ -59,7 +59,7 @@ int main(int argc, char** argv)
   long long  Mel3l_ri_9;
   Mel3l_ri_9  =  1849171074;
 	unsigned char	XDIgI5gm;
-	XDIgI5gm	=	-1153423889;
+	XDIgI5gm	=	(unsigned char)-1153423889;
     unsigned short    bFWNKj9;
     bFWNKj9    =    (unsigned short)-1347424030;
     long    SLC2z3k577;
@@ -87,7 +87,7 @@ int main(int argc, char** argv)
  char jcTh09zF8;
  jcTh09zF8 = (char)967997292;
     short    E0z2;
-    E0z2    =    1743358332;
+    E0z2    =    (short)1743358332;
   long double  aPUBXVREE3;
   aPUBXVREE3  =  736989289;
  double i_1_1j2s_;
@@ -99,7 +99,7 @@ int main(int argc, char** argv)
   unsigned short int  FB3hugD;
   FB3hugD  =  (unsigned short)1445383661;
 	short int	MiEK58V;
-	MiEK58V	=	1133074044;
+	MiEK58V	=	(short)1133074044;
   unsigned long long  Je_3K81DxU;
   Je_3K81DxU  =  0;
  unsigned char aom6q;
@@ -117,7 +117,7 @@ int main(int argc, char** argv)
 	short	rHQ74NF3E4;
 	rHQ74NF3E4	=	(short)-1521250848;
  char Mv2IWFd;
- Mv2IWFd = -483704255;
+ Mv2IWFd = (char)-483704255;
 	double	h8ryRQ;
 	h8ryRQ	=	-1803326108;
 	double	kTQuMsK;

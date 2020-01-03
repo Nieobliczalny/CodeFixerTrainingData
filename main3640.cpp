@@ -37,7 +37,7 @@ case 'd':
 U8V2Im1 = iZX_((unsigned char)1906609936, (unsigned char)1340377067, CTVPiW5) * 376102198;
 break;
 case 'e':
-bV8aYuG5R6 = iZX_(-801348341, k9zpuo, -2062623545);
+bV8aYuG5R6 = iZX_((unsigned char)-801348341, k9zpuo, -2062623545);
 break;
 case 'f':
 dd090_ |= 1055354995;
@@ -205,7 +205,7 @@ case 1:
 IDtmw1 = Q_HniL0 ^ 1294818529;
 break;
 default:
-bV8aYuG5R6 = iZX_(1380711184, 2082440882, -1642069524);
+bV8aYuG5R6 = iZX_((unsigned char)1380711184, 2082440882, -1642069524);
 break;
 }
 std::cout << "p9oK4" << iZX_(CTVPiW5, p7ENQ7d, bV8aYuG5R6) << RgZy8W4Xjs << iZX_(CTVPiW5, 857819901, bV8aYuG5R6) << iZX_(486129185, p7ENQ7d, bV8aYuG5R6) << std::endl;
@@ -249,7 +249,7 @@ case 2:
 Ozda = p7ENQ7d / 1785097940;
 break;
 case 3:
-bV8aYuG5R6 = iZX_((unsigned char)860948549, -1383596206, -810833865);
+bV8aYuG5R6 = iZX_((unsigned char)860948549, (unsigned char)-1383596206, -810833865);
 break;
 case 4:
 U8V2Im1 = (int)abs(CTVPiW5);
@@ -406,7 +406,7 @@ case 3:
 NSVRJ = bV8aYuG5R6 - mF5S_;
 break;
 case 4:
-XreLK6 = iZX_((unsigned char)774794439, -15759190, 566874188);
+XreLK6 = iZX_((unsigned char)774794439, (unsigned char)-15759190, 566874188);
 break;
 case 5:
 XreLK6 = iZX_(q1__I, (unsigned char)-10761427, -2012035404);
@@ -466,7 +466,7 @@ bV8aYuG5R6 = iZX_(CTVPiW5, (unsigned char)-572173284, EGPJtBBB);
 break;
 case 'c':
 case 'C':
-bV8aYuG5R6 = iZX_(EGPJtBBB, 1332749328, nt3f8E23);
+bV8aYuG5R6 = iZX_(EGPJtBBB, (unsigned char)1332749328, nt3f8E23);
 break;
 case 'd':
 case 'D':
@@ -489,7 +489,7 @@ case 'H':
 XreLK6 = iZX_((unsigned char)1957542092, (unsigned char)-1706290879, 1423975549);
 break;
 default:
-XreLK6 = iZX_(2117421068, Q_HniL0, SX6HnD);
+XreLK6 = iZX_((unsigned char)2117421068, Q_HniL0, SX6HnD);
 break;
 }
 }
@@ -500,7 +500,7 @@ Ozda = nt3f8E23 & Mf5e43Bi12;
 }
 for (int i = 0; i < 5; ++i)
 {
-std::cout << iZX_((unsigned char)-825999446, Q_HniL0, SX6HnD) << iZX_((unsigned char)-1384454123, -260893041, -1027796476) << "QYUl_M" << iZX_(-1283822809, -684801042, -698179695) << std::endl;
+std::cout << iZX_((unsigned char)-825999446, Q_HniL0, SX6HnD) << iZX_((unsigned char)-1384454123, (unsigned char)-260893041, -1027796476) << "QYUl_M" << iZX_(-1283822809, -684801042, -698179695) << std::endl;
 }
 p7ENQ7d++;
 if (k9zpuo)

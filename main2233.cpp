@@ -392,7 +392,7 @@ cout << "B_70PeO" << A9J72Z9() << DG45M << c_vQ2 << Lf6JhUW(p8_IH_, 1631979200, 
 }
 if (IIz_S_T4M > -64091101)
 {
-DG45M = Lf6JhUW((unsigned char)500099553, wG3eTw8, IIz_S_T4M, -559673913);
+DG45M = Lf6JhUW((unsigned char)500099553, wG3eTw8, IIz_S_T4M, (char)-559673913);
 }
 p8_IH_ = (char)(DG45M);
 if (IIz_S_T4M != 633298738)
@@ -602,7 +602,7 @@ cout << "Ms3_ZM1T74" << Lf6JhUW((unsigned char)2139354472, 939493731, IIz_S_T4M,
 }
 else
 {
-DG45M = Lf6JhUW(c_vQ2, DG45M, wG3eTw8, 51212356);
+DG45M = Lf6JhUW(c_vQ2, DG45M, wG3eTw8, (char)51212356);
 }
 }
 catch (int& errorCode)

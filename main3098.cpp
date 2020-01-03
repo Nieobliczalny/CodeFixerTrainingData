@@ -24,7 +24,7 @@ int main(int argc, char** argv)
     unsigned long long    T326M4Q5    =    402683527;
  unsigned int X191h_Y3 = 1850143593;
  unsigned short kF54JCr = (unsigned short)-1408794176;
-  unsigned short int  dgW0wYnF4Z  =  -1870267263;
+  unsigned short int  dgW0wYnF4Z  =  (unsigned short)-1870267263;
   int  N6zP  =  1084359855;
 	unsigned short	znc674oif	=	-1318745437;
   unsigned int  I3b3_5  =  2658103;
@@ -38,7 +38,7 @@ int main(int argc, char** argv)
  long M_ghw = -1843203609;
     unsigned short int    PKHG9R    =    (unsigned short)2077884055;
   unsigned char  ZDHtv  =  0;
- unsigned char rpU1yQxWsx = 1257248724;
+ unsigned char rpU1yQxWsx = (unsigned char)1257248724;
   char  XrSB  =  138374854;
  short int lSUO2 = -1705226790;
     unsigned short int    rZu1z    =    (unsigned short)-1319148958;
@@ -48,7 +48,7 @@ int main(int argc, char** argv)
     int    SgDXqNR    =    1353561127;
   unsigned short int  n5C63qUzIT  =  (unsigned short)-191906159;
     double    u3420K    =    541292745;
-  unsigned short int  ZOj2K  =  290763235;
+  unsigned short int  ZOj2K  =  (unsigned short)290763235;
 	long	J_iP8TM	=	532520872;
 	unsigned int	xcEI4y8n	=	51174438;
     long double    zlXccnRD    =    -669804921;
@@ -60,7 +60,7 @@ int main(int argc, char** argv)
     int    moOH    =    955592668;
   float  hDbmv_MN  =  -362243116;
   unsigned char  yz566T  =  (unsigned char)-1995250313;
-  unsigned short int  vTTiA7  =  524711094;
+  unsigned short int  vTTiA7  =  (unsigned short)524711094;
     unsigned short int    fbW7t    =    -1404377818;
   unsigned char  TcU0_  =  -945356043;
   unsigned short  ugR02SzP0  =  441044750;
@@ -201,7 +201,7 @@ case 3:
 u3420K = (int)abs(lSUO2);
 break;
 case 4:
-ZDHtv = N3Bb59w56t(-1516523013, (char)-99841871, ZOj2K, -955016583);
+ZDHtv = N3Bb59w56t(-1516523013, (char)-99841871, ZOj2K, (short)-955016583);
 break;
 case 5:
 A8S2aD8E = (int)ceil(hDbmv_MN);
@@ -256,7 +256,7 @@ break;
 
 H5Sy = (int)abs(v5Gb4) * 0;
 
-ZDHtv = N3Bb59w56t(dgW0wYnF4Z, (char)-934868233, (short)2083081240, -842730950);
+ZDHtv = N3Bb59w56t(dgW0wYnF4Z, (char)-934868233, (short)2083081240, (short)-842730950);
 cout << X191h_Y3 << qqHq() << N3Bb59w56t(dgW0wYnF4Z, zlXccnRD, vTTiA7, 898532723) << N3Bb59w56t(-1375255527, zlXccnRD, vTTiA7, ZOj2K) << endl;
 zlXccnRD = (int)floor(hDbmv_MN);
 
@@ -406,7 +406,7 @@ u3420K = (int)ceil(A8S2aD8E);
 }
 else
 {
-ZDHtv = N3Bb59w56t(rpU1yQxWsx, (char)-564395865, (short)-1258794220, -840463382);
+ZDHtv = N3Bb59w56t(rpU1yQxWsx, (char)-564395865, (short)-1258794220, (short)-840463382);
 }
 }
 }

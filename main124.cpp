@@ -56,7 +56,7 @@ int main(int argc, char** argv) {
     long double    EhsgIQ;
     EhsgIQ    =    -297789253;
     short    NdVaLEZfuT;
-    NdVaLEZfuT    =    1725410244;
+    NdVaLEZfuT    =    (short)1725410244;
 	unsigned short int	OXhzDw;
 	OXhzDw	=	-217920843;
  unsigned long long k3K39;
@@ -68,7 +68,7 @@ int main(int argc, char** argv) {
   unsigned short  dUA5;
   dUA5  =  (unsigned short)-617211143;
  unsigned short int Cj_N4z;
- Cj_N4z = -477414218;
+ Cj_N4z = (unsigned short)-477414218;
 	unsigned short	QxrQ4F8J_;
 	QxrQ4F8J_	=	-503030081;
   long  uc773X7V2;
@@ -82,7 +82,7 @@ int main(int argc, char** argv) {
 	unsigned short int	sdDjLW39eE;
 	sdDjLW39eE	=	0;
     short    Zfln;
-    Zfln    =    1050917722;
+    Zfln    =    (short)1050917722;
   unsigned char  yd9AB_wN4;
   yd9AB_wN4  =  1581919995;
   int  ZXbX9eTfe;
@@ -102,7 +102,7 @@ int main(int argc, char** argv) {
   char  CAn17e;
   CAn17e  =  (char)-299611329;
  short int JR__b_;
- JR__b_ = 1979431298;
+ JR__b_ = (short)1979431298;
 	long long	ZlpHOwWyE;
 	ZlpHOwWyE	=	-534818617;
   unsigned long  uf1_WZ1NkX;
@@ -142,7 +142,7 @@ int main(int argc, char** argv) {
 	short	IGJ0;
 	IGJ0	=	(short)-98673901;
     short    Fkr_;
-    Fkr_    =    -1780694436;
+    Fkr_    =    (short)-1780694436;
     unsigned short    v_P2I_;
     v_P2I_    =    -1069062371;
 	unsigned short int	ubg8L;
@@ -174,7 +174,7 @@ int main(int argc, char** argv) {
 	unsigned int	V45sucF_2;
 	V45sucF_2	=	-147336284;
 	short	P2a5sL;
-	P2a5sL	=	1456559645;
+	P2a5sL	=	(short)1456559645;
 
 for (int i = 6; i >= 0; --i)
 {

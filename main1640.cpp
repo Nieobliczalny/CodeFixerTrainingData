@@ -17,7 +17,7 @@ int main(int argc, char** argv) {
     float    oVRE    =    749435648;
   unsigned short  I9Rt  =  0;
  short int PX__GfU4l = (short)-296191488;
-  unsigned short  CFAPwbIfm6  =  -1804356837;
+  unsigned short  CFAPwbIfm6  =  (unsigned short)-1804356837;
 	unsigned char	zfm6pB5YQx	=	-384278620;
 	short int	VJCb	=	0;
     short    q4qQ    =    -589667597;
@@ -173,7 +173,7 @@ VJCb = (short int)(PX__GfU4l * VJCb);
 int i = 0;
 while (i < 9)
 {
-I9Rt = w_U1l_Ao7p((short)-1958020281, (unsigned short)-1959018460, -2138738239, CFAPwbIfm6);
+I9Rt = w_U1l_Ao7p((short)-1958020281, (unsigned short)-1959018460, (short)-2138738239, CFAPwbIfm6);
 i++;
 }
 }

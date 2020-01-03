@@ -100,7 +100,7 @@ std::cout << FA2LyC << TheDq517(XAn5O7oV2O, (unsigned char)2021389714, (unsigned
 }
 std::cout << "asce2J04M" << qqWrNo2D << std::endl;
 x6JSuEX_u |= 1726493798;
-wRw1F = TheDq517(DG7N0oUwL, -280765191, qqWrNo2D);
+wRw1F = TheDq517(DG7N0oUwL, (unsigned char)-280765191, qqWrNo2D);
 
 {
 int i = 0;
@@ -147,7 +147,7 @@ ZC77wdK3 = TheDq517(-763656631, (unsigned char)-925442509, (unsigned char)147193
 break;
 case 'j':
 case 'J':
-h082e = wAy6(-1873939062);
+h082e = wAy6((char)-1873939062);
 break;
 }
 }
@@ -206,7 +206,7 @@ while (j < 3);
 std::cout << TheDq517(-1044540926, adDk, nYCrE30zi) << Yk78mqv6 << ral4ve() << ral4ve() << std::endl;
 if (TheDq517(kMd3JBz, (unsigned char)-999094663, (unsigned char)-576767328) == 0)
 {
-	h082e = x6JSuEX_u / TheDq517(kMd3JBz, -999094663, -576767328);
+	h082e = x6JSuEX_u / TheDq517(kMd3JBz, (unsigned char)-999094663, -576767328);
 }
 
 G__s100lf8 = b6Q0 * salJXv2Q;

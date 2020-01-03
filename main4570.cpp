@@ -31,7 +31,7 @@ unsigned long long SH_m5I(short TfU_V6) {
 
 int main()
 {
- short cS9DL = (short)1817853913, sbuPd = 112036788, p3y_7POTr = -534269264, V8WcM = 296716407;
+ short cS9DL = (short)1817853913, sbuPd = (short)112036788, p3y_7POTr = -534269264, V8WcM = 296716407;
   unsigned long  Me0IX8G  =  0,  x1l5C  =  0,  S1GKO1gQi  =  0,  nI19  =  0;
 
 switch (cS9DL)
@@ -519,7 +519,7 @@ case 6:
 p3y_7POTr = FNBkL1L4();
 break;
 case 7:
-sbuPd = m4nacl79Ev((char)-557978742, -1253339876, p3y_7POTr, cS9DL, -823476545);
+sbuPd = m4nacl79Ev((char)-557978742, -1253339876, p3y_7POTr, cS9DL, (unsigned short)-823476545);
 break;
 case 8:
 cS9DL = FNBkL1L4();

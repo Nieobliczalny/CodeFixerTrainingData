@@ -30,7 +30,7 @@ int main() {
  long long HAiL5CX579 = -2068658088;
  unsigned short int qJWwKgSn_U = 0;
   char  kIsF57  =  (char)2118887040;
-	unsigned short	r3xX587	=	188847420;
+	unsigned short	r3xX587	=	(unsigned short)188847420;
     unsigned short int    Bh0WU5M0L    =    1842512304;
     short int    oeW96L_DcI    =    -2118430690;
     long double    Po88    =    -1550473483;
@@ -43,7 +43,7 @@ int main() {
   unsigned long  MWdV_eGj  =  1010417119;
     unsigned short    M1L5_n_s    =    (unsigned short)763378972;
 	unsigned char	J1TNeCccWL	=	(unsigned char)-996806097;
-    short int    Nvt6do_jL    =    -1768633784;
+    short int    Nvt6do_jL    =    (short)-1768633784;
     char    FnyUIA4_U    =    368225566;
   short  c622v  =  0;
  short z5cR96o8W = 765250281;
@@ -212,7 +212,7 @@ cout << "dJ65gm53" << "xAc7ySMJJ" << U9pv7tv1((char)-18353646, 223317326) << U9p
 }
 WfBp76Jo = (long long)(ww714fkGv);
 
-Po88 = U9pv7tv1(-952695972, WfBp76Jo);
+Po88 = U9pv7tv1((char)-952695972, WfBp76Jo);
 
 try
 {

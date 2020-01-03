@@ -101,7 +101,7 @@ Vdo3J = a8OPN(-101192457, 390820334, -459034680);
 break;
 case 'c':
 case 'C':
-PYjs = Q0AU5c(Vdo3J, -1127893428, rm62Gh5r, DKsiv, 1702142472);
+PYjs = Q0AU5c(Vdo3J, -1127893428, rm62Gh5r, DKsiv, (unsigned short)1702142472);
 break;
 case 'd':
 case 'D':
@@ -210,7 +210,7 @@ case 8:
 Cs9Xz <<= 1806977429;
 break;
 case 9:
-PYjs = Q0AU5c(78663667, lYYHjZnbpK, 1383867139, 1498371300, 1190499458);
+PYjs = Q0AU5c(78663667, lYYHjZnbpK, (unsigned char)1383867139, 1498371300, 1190499458);
 break;
 default:
 X34t674Cn8 |= 182500517;
@@ -344,7 +344,7 @@ while (j < 7);
 }
 }
 
-R_7YSXj = Q0AU5c(-2084274081, 1217217868, (unsigned char)-864702089, (short)654428428, 609481717) / PYjs;
+R_7YSXj = Q0AU5c(-2084274081, 1217217868, (unsigned char)-864702089, (short)654428428, (unsigned short)609481717) / PYjs;
 {
 int i = 1;
 do
@@ -422,7 +422,7 @@ int k = 0;
 do
 {
 ++k;
-PYjs = Q0AU5c(1699008042, 485713695, (unsigned char)949078621, (short)1375131171, 1304625503);
+PYjs = Q0AU5c(1699008042, 485713695, (unsigned char)949078621, (short)1375131171, (unsigned short)1304625503);
 }
 while (k < 1);
 }
@@ -512,7 +512,7 @@ case 0:
 KwGyx3Q = N43q54xSk((unsigned short)1645556983, (unsigned char)24760091);
 break;
 case 1:
-Cs9Xz = jrXbf4UWM(Cs9Xz, -635788998, 1110638124, COTK7pI24E);
+Cs9Xz = jrXbf4UWM(Cs9Xz, (unsigned short)-635788998, 1110638124, COTK7pI24E);
 break;
 case 2:
 X34t674Cn8 /= COTK7pI24E;

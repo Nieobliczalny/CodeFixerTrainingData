@@ -26,7 +26,7 @@ int main(int argc, char** argv) {
  unsigned short ZiK9k74tJ = (unsigned short)-1668488814;
 	unsigned long long	wdwMyT1d_	=	-1301259783;
 	unsigned long long	R5_t2b38d9	=	-1566659369;
-	short	v_mpK0NqN	=	-708574641;
+	short	v_mpK0NqN	=	(short)-708574641;
     int    b65h68z2N    =    -926988510;
     double    Y2A6z    =    751025489;
 	float	LndTk6w	=	-139191817;
@@ -51,7 +51,7 @@ int main(int argc, char** argv) {
   unsigned long  s6kY  =  -1197353123;
 	unsigned int	JJml	=	-337738247;
   long double  TJFe1f  =  -158817593;
-	unsigned short int	zvec8	=	1069823680;
+	unsigned short int	zvec8	=	(unsigned short)1069823680;
   float  ycM8x5C9FF  =  1055777927;
   unsigned short  tL8oh__  =  1983583339;
     short int    Uo3qRV8z    =    (short)455117452;
@@ -414,7 +414,7 @@ case 'b':
 ycM8x5C9FF = pY3zHE((unsigned short)1591187009, ycM8x5C9FF, 1449242913, y00961s);
 break;
 case 'c':
-wdwMyT1d_ = pY3zHE((unsigned short)261551148, 516964649, Uo3qRV8z, cHTLae_HG6);
+wdwMyT1d_ = pY3zHE((unsigned short)261551148, (unsigned short)516964649, Uo3qRV8z, cHTLae_HG6);
 break;
 case 'd':
 wdwMyT1d_ = pY3zHE(1613225795, 506676755, SRj617ryP, p5wU);

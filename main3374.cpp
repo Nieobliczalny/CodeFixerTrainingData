@@ -33,7 +33,7 @@ int main(int argc, char** argv)
 
 if (B98P1_9p <= rk0_HiH)
 {
-TYxEY3U = D2L82iNYo(I7tC, (short)-1675123638, 928790933);
+TYxEY3U = D2L82iNYo(I7tC, (short)-1675123638, (short)928790933);
 }
 else
 {
@@ -251,7 +251,7 @@ else if (cNMMAxp3 & E84cMV)
 {
 try
 {
-std::cout << D2L82iNYo((char)2040671285, (short)-914062758, 1125040285) << R_SXK0(Cjz33, B98P1_9p, nJ_wMhc5_0) << RuNKizK1(-299627586) << std::endl;
+std::cout << D2L82iNYo((char)2040671285, (short)-914062758, (short)1125040285) << R_SXK0(Cjz33, B98P1_9p, nJ_wMhc5_0) << RuNKizK1(-299627586) << std::endl;
 }
 catch (int& errorCode)
 {
@@ -285,7 +285,7 @@ else
 {
 if (dDOA_PVH7 == 987099893)
 {
-std::cout << "m9AM" << D2L82iNYo((char)1817147767, E84cMV, QK2Dmx2J5) << R_SXK0(1238704375, (unsigned char)1815557797, -1267092592) << "vEu7_" << std::endl;
+std::cout << "m9AM" << D2L82iNYo((char)1817147767, E84cMV, QK2Dmx2J5) << R_SXK0(1238704375, (unsigned char)1815557797, (unsigned short)-1267092592) << "vEu7_" << std::endl;
 }
 else
 {
@@ -295,7 +295,7 @@ Ykm0r = R_SXK0(1359533328, -464806514, lox6hTxk0);
 }
 else
 {
-TYxEY3U = D2L82iNYo((char)2097732085, (short)-1811269989, 1407865725);
+TYxEY3U = D2L82iNYo((char)2097732085, (short)-1811269989, (short)1407865725);
 }
 }
 }

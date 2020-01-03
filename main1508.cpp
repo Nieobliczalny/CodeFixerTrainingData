@@ -44,7 +44,7 @@ int main() {
  int rkT9D2FDq = 1876052997;
 	unsigned int	my3pG	=	-1001932137;
 	unsigned int	OmeP8SLb	=	941183528;
-	unsigned char	p4Um	=	-1318207318;
+	unsigned char	p4Um	=	(unsigned char)-1318207318;
  unsigned char yt0B8XH9n = (unsigned char)152486812;
   unsigned short int  U683  =  0;
     double    v235    =    70852363;
@@ -122,7 +122,7 @@ Ma3rr51MeE = YhURYg6 | p4Um;
 }
 else if (ials15 < my3pG)
 {
-std::cout << LfvQHfq((unsigned short)1695802630, Ma3rr51MeE, 2063934640, (unsigned short)-895663819) << LfvQHfq(U683, -147112834, rkT9D2FDq, -1156838315) << "G_5Wh" << w5o33HsM(U683) << std::endl;
+std::cout << LfvQHfq((unsigned short)1695802630, Ma3rr51MeE, 2063934640, (unsigned short)-895663819) << LfvQHfq(U683, (short)-147112834, rkT9D2FDq, -1156838315) << "G_5Wh" << w5o33HsM(U683) << std::endl;
 }
 else
 {
@@ -472,7 +472,7 @@ int j = 5;
 do
 {
 j--;
-std::cout << "va96iT0W" << LfvQHfq((unsigned short)-1517553000, K8P2M, v235, (unsigned short)967154117) << j1lTdpj6(1390468081, -2072371467) << std::endl;
+std::cout << "va96iT0W" << LfvQHfq((unsigned short)-1517553000, K8P2M, v235, (unsigned short)967154117) << j1lTdpj6(1390468081, (short)-2072371467) << std::endl;
 }
 while (j >= 0);
 }

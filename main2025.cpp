@@ -46,7 +46,7 @@ int main(void) {
   short int  rm3_l;
   rm3_l  =  (short)1862441408;
  unsigned short int asT2h;
- asT2h = 1242759310;
+ asT2h = (unsigned short)1242759310;
  unsigned long long F0jYNYE6;
  F0jYNYE6 = 0;
   unsigned int  UM_jPy0Eb;

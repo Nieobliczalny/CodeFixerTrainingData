@@ -19,7 +19,7 @@ int main() {
   unsigned short int  cX4XQSHn7_;
   cX4XQSHn7_  =  0;
 	unsigned char	eVoOsl53k;
-	eVoOsl53k	=	1129428022;
+	eVoOsl53k	=	(unsigned char)1129428022;
   long long  PON6970aL_;
   PON6970aL_  =  -1663470850;
   short int  vgQ8V2z3m;
@@ -31,7 +31,7 @@ int main() {
  short Pzpf;
  Pzpf = (short)117282732;
 	short int	mlgdAtV_;
-	mlgdAtV_	=	2016251852;
+	mlgdAtV_	=	(short)2016251852;
     int    S3f79rg4;
     S3f79rg4    =    0;
   unsigned int  I8I80;
@@ -61,7 +61,7 @@ int main() {
  int f0r6m;
  f0r6m = -1915975376;
     unsigned short    h_Cr0jSkV;
-    h_Cr0jSkV    =    1392879646;
+    h_Cr0jSkV    =    (unsigned short)1392879646;
 	unsigned int	L40wZzQ;
 	L40wZzQ	=	-1860645382;
   unsigned short  Tn2W;
@@ -105,7 +105,7 @@ S3f79rg4 = y22SqE8V_((short)1566538813, h_Cr0jSkV, -559604418, (unsigned char)11
 break;
 case 'e':
 case 'E':
-Lq08__ = y22SqE8V_(-1853047466, S3f79rg4, -840206058, -1310316770, yz_Df3);
+Lq08__ = y22SqE8V_((short)-1853047466, S3f79rg4, -840206058, -1310316770, yz_Df3);
 break;
 case 'f':
 case 'F':
@@ -239,7 +239,7 @@ case 0:
 nfIBr = (EdqaS5jWD5 == -817966855) ? y22SqE8V_((short)-1248501376, (unsigned short)1916762050, -1960296930, YOrzqGtND, u30eAG48XR) : aHe4EBE1H2;
 break;
 case 1:
-cX4XQSHn7_ = y22SqE8V_(-2033983753, 1619501660, eVoOsl53k, i1r35zLPt, rQS2p3bao);
+cX4XQSHn7_ = y22SqE8V_((short)-2033983753, 1619501660, eVoOsl53k, i1r35zLPt, rQS2p3bao);
 break;
 case 2:
 S3f79rg4 = y22SqE8V_(1289145421, M1b1, 1603533988, S3f79rg4, -1625742025);
@@ -254,7 +254,7 @@ case 5:
 EdqaS5jWD5 += 447546976;
 break;
 case 6:
-S3f79rg4 = y22SqE8V_((short)1603358338, -1105983445, -179110974, Pzpf, f0r6m);
+S3f79rg4 = y22SqE8V_((short)1603358338, (unsigned short)-1105983445, -179110974, Pzpf, f0r6m);
 break;
 case 7:
 rQS2p3bao = (int)ceil(P_32);
@@ -279,7 +279,7 @@ case 3:
 i1r35zLPt &= Pzpf;
 break;
 case 4:
-S3f79rg4 = y22SqE8V_((short)274114925, o2JNrC, M1b1, -1487292416, -2091262172);
+S3f79rg4 = y22SqE8V_((short)274114925, o2JNrC, M1b1, (unsigned char)-1487292416, -2091262172);
 break;
 case 5:
 rQS2p3bao = (int)floor(yz_Df3);
@@ -291,7 +291,7 @@ case 7:
 Lq08__ = y22SqE8V_(RXM_, (unsigned short)2136073004, M1b1, -1857968309, Lq08__);
 break;
 case 8:
-M1b1 = y22SqE8V_(RXM_, (unsigned short)-1709888008, 1807522850, -948336141, Lq08__) * yz_Df3;
+M1b1 = y22SqE8V_(RXM_, (unsigned short)-1709888008, 1807522850, (unsigned char)-948336141, Lq08__) * yz_Df3;
 break;
 default:
 HNpatZWF8I ^= 2011231299;

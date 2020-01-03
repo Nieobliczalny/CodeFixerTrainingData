@@ -38,7 +38,7 @@ else
 {
 if (sSmu3Hrhh)
 {
-Hma3iGlsBX = Z0Oa2q(-1045626882, 1741310773, -1021693437, 579877667);
+Hma3iGlsBX = Z0Oa2q(-1045626882, (unsigned char)1741310773, -1021693437, 579877667);
 }
 else
 {
@@ -330,7 +330,7 @@ case 2:
 Lc0lfK /= 1031989831;
 break;
 case 3:
-gYJEOp27mT = Z0Oa2q(gYJEOp27mT, (unsigned char)529330650, 1713670907, WX_UZy_j1G);
+gYJEOp27mT = Z0Oa2q(gYJEOp27mT, (unsigned char)529330650, (char)1713670907, WX_UZy_j1G);
 break;
 case 4:
 GXqp = o1Th(1293559709);
@@ -391,7 +391,7 @@ case 4:
 O40GW3Zl <<= 405086369;
 break;
 case 5:
-Y_lqH4bz = Z0Oa2q(391863916, 1650365285, iWI9ga5s, xC7Ni5);
+Y_lqH4bz = Z0Oa2q(391863916, (unsigned char)1650365285, iWI9ga5s, xC7Ni5);
 break;
 case 6:
 j58H = Z0Oa2q(j58H, 769413466, R8287P0, -1398042066);

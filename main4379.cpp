@@ -441,7 +441,7 @@ case 2:
 uN5_2 = rEza >> 986553959;
 break;
 case 3:
-pkt0L0 = fd4a(pkt0L0, -544435703);
+pkt0L0 = fd4a(pkt0L0, (short)-544435703);
 break;
 case 4:
 WU01F = YY_26B1gD() & c7E8dCvvnK;

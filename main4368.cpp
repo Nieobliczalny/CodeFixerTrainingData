@@ -36,7 +36,7 @@ int main(int argc, char** argv) {
   short int  qVGCdQe;
   qVGCdQe  =  (short)33347379;
   unsigned short int  Vt6C8WgO1S;
-  Vt6C8WgO1S  =  1354761905;
+  Vt6C8WgO1S  =  (unsigned short)1354761905;
   int  m76sn35;
   m76sn35  =  1417771425;
   int  CDg0fc;
@@ -52,7 +52,7 @@ int main(int argc, char** argv) {
     long long    HZXFPNR_y;
     HZXFPNR_y    =    1829027757;
 	short	zK4Aw;
-	zK4Aw	=	-1048376044;
+	zK4Aw	=	(short)-1048376044;
  double vjz3;
  vjz3 = -1746575976;
 	double	CW2m;

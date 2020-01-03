@@ -111,7 +111,7 @@ for (int i = 0; i < 3; ++i)
 {
 pSg_g8ktG = (char)(Qp2bF);
 }
-std::cout << hJ06ZO4(791897033, -389790356, -645013678, j2StX, OjsD95) << Bim7RTf2 << "PF21ZcE9" << ip1AaX << std::endl;
+std::cout << hJ06ZO4((unsigned char)791897033, -389790356, -645013678, j2StX, OjsD95) << Bim7RTf2 << "PF21ZcE9" << ip1AaX << std::endl;
 if (OjsD95 <= ip1AaX)
 {
 switch (ip1AaX)
@@ -176,7 +176,7 @@ if (vqhAxQ < 976248169)
 {
 try
 {
-XQD59J0ZnQ = yIMts_NX2W(-1720106010, (unsigned short)1508794429, (short)-338897491, 2096375074, VzgJRa74);
+XQD59J0ZnQ = yIMts_NX2W(-1720106010, (unsigned short)1508794429, (short)-338897491, (unsigned short)2096375074, VzgJRa74);
 }
 catch (int& errorCode)
 {
@@ -208,7 +208,7 @@ case 1:
 vW3l5m5nP6 = (int)abs(q7010bD);
 break;
 case 2:
-WP5h3J = (d3_47m9F < -433749823) ? yIMts_NX2W(1092611855, (unsigned short)80310440, Z1__8, y85pT8Q00p, 1447216159) : yIMts_NX2W(VY08d, 1696234109, 1249648231, y85pT8Q00p, -2055925625);
+WP5h3J = (d3_47m9F < -433749823) ? yIMts_NX2W(1092611855, (unsigned short)80310440, Z1__8, y85pT8Q00p, 1447216159) : yIMts_NX2W(VY08d, (unsigned short)1696234109, 1249648231, y85pT8Q00p, -2055925625);
 break;
 case 3:
 XxUM7 = jrV_mK << vqhAxQ;

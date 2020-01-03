@@ -25,7 +25,7 @@ int main(int argc, char** argv) {
  float Vb5CT3S0 = -245261675;
  unsigned short ULCOyl = (unsigned short)-532189990;
  short s_FkB = (short)-734176710;
-	char	nJ30nIo	=	1730193579;
+	char	nJ30nIo	=	(char)1730193579;
   unsigned short  Sk4F89HhCd  =  -1846091133;
   unsigned long  Wr0fMD  =  776980510;
     float    oN0OAR1BD    =    -1370935236;
@@ -36,7 +36,7 @@ int main(int argc, char** argv) {
   long double  p3k14  =  2020322816;
     unsigned short    UvDLy_T5RG    =    (unsigned short)1742303629;
   short int  WciK7PjeT5  =  (short)1364292962;
- short int tRii = -1196720496;
+ short int tRii = (short)-1196720496;
 	unsigned int	Cow_	=	900082025;
 	unsigned int	g2yYOE	=	1643499967;
   short int  aYeYY2h1a8  =  378542483;
@@ -59,7 +59,7 @@ int main(int argc, char** argv) {
 	short	cphqKs	=	(short)1303734795;
 	long	TRaIbr3pS	=	2103891568;
  long long f_9d = -1844867878;
-  char  VaNjP  =  994472508;
+  char  VaNjP  =  (char)994472508;
     unsigned short int    OGiTwoG    =    (unsigned short)637491946;
     char    Y0_eS_waCV    =    330549908;
 	unsigned char	R_3a6Svol	=	612513467;
@@ -69,7 +69,7 @@ int main(int argc, char** argv) {
   unsigned short  ixSxQY59Cv  =  (unsigned short)-1947431445;
 	short int	Bb165Q_6h	=	0;
     unsigned long    O0qpaxSH    =    1793840026;
-    unsigned short int    fGX1T    =    -347711455;
+    unsigned short int    fGX1T    =    (unsigned short)-347711455;
 	long long	ygNE1vf	=	156174663;
     double    y9Ks    =    -974887684;
 	int	pcOr	=	-1042531574;
@@ -84,7 +84,7 @@ int main(int argc, char** argv) {
   int  LqLG5x86  =  359392090;
     short    y0zOlhA    =    (short)1848550165;
  char sMO8nJlz3 = (char)585143626;
-	char	aoo5q	=	-1202480189;
+	char	aoo5q	=	(char)-1202480189;
     long    FUK_    =    1213138861;
 	long long	u2uQKq	=	1283273585;
     long double    Osf4oShyz    =    -278808709;
@@ -348,7 +348,7 @@ y9Ks = bh2q((char)-2106545716, f__qx31, -2042105843, (unsigned short)-312826426,
 }
 else
 {
-CFNI61e13 = LPO2C9JZz(299148782);
+CFNI61e13 = LPO2C9JZz((unsigned short)299148782);
 }
 }
 else if (qekV)

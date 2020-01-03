@@ -11,7 +11,7 @@ int main() {
   char  C0kO,  id3MJTX,  cc1jR,  B2D4zU2,  F4383z,  Kxp2,  iA5l99,  x693uH24g9,  xbSWu,  b402JI7j5,  R894r_E4,  ERTQ8Tad;
   C0kO  =  (char)2017908719;
   id3MJTX  =  (char)-1151025014;
-  cc1jR  =  -430194434;
+  cc1jR  =  (char)-430194434;
   B2D4zU2  =  -377294746;
   F4383z  =  1918536200;
   Kxp2  =  -79014401;

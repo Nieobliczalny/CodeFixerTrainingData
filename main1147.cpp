@@ -102,7 +102,7 @@ U6twxJ = BE134g5(-1306032305, sR8i_hd, -862442039, -602568649, -31616049);
 }
 
 std::cout << C4r0JN << S8KPOc << Eub8_VjRH6() << Eub8_VjRH6() << BE134g5(1061090263, sR8i_hd, udsKnb7, (unsigned char)972316795, krlJtO) << std::endl;
-std::cout << Ez2_vM5A << hPKC1MrN46(U6twxJ) << BE134g5(-1503001179, sR8i_hd, (unsigned short)535445965, 1615311327, 1970235722) << Eub8_VjRH6() << "m0KnQ" << std::endl;
+std::cout << Ez2_vM5A << hPKC1MrN46(U6twxJ) << BE134g5(-1503001179, sR8i_hd, (unsigned short)535445965, (unsigned char)1615311327, 1970235722) << Eub8_VjRH6() << "m0KnQ" << std::endl;
 
 if ((KmQy) && (VshFBadY > g1tOz2V78Q))
 {
@@ -303,7 +303,7 @@ case 5:
 QiaEd = hPKC1MrN46(338727269);
 break;
 default:
-aE7kp895 = BE134g5(937668837, aV8HE_Z, (unsigned short)-858534016, -807446160, -1947616832);
+aE7kp895 = BE134g5(937668837, aV8HE_Z, (unsigned short)-858534016, (unsigned char)-807446160, -1947616832);
 break;
 }
 for (int i = 9; i >= 0; --i)

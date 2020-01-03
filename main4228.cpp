@@ -26,7 +26,7 @@ unsigned short int  a_NAp();
 int main(void) {
   unsigned short int  HKJnS9_  =  (unsigned short)588875360;
 	unsigned short	NjIHg6_c2i	=	(unsigned short)-636622072;
- char iK9xil211 = 246740850;
+ char iK9xil211 = (char)246740850;
 	short	z44ZsU4p	=	-466868701;
  float AkQw = -1373302484;
     unsigned int    f_i5gZJM0i    =    -1747144517;
@@ -40,7 +40,7 @@ int main(void) {
 	unsigned short	QPN1p1h9	=	(unsigned short)384465237;
     long long    am9PQkWJu6    =    -45612930;
   unsigned char  GHEBX0bY  =  (unsigned char)-397401326;
-	short	Gw09vH	=	644040970;
+	short	Gw09vH	=	(short)644040970;
  short int ZH8Ni2j15i = 1914361311;
 	long long	bR5Ra	=	-1949120227;
  char Z021wtm = 214646374;
@@ -72,7 +72,7 @@ int main(void) {
  short int OX2966SrzO = (short)-608059948;
 	unsigned short	a_6_F4	=	(unsigned short)-240817006;
   double  JiQ02W  =  1417862481;
- short int M2UieRmz = 1679500168;
+ short int M2UieRmz = (short)1679500168;
  short int z3BF = 0;
 	unsigned long long	Iy4MRO12	=	1981601283;
  char SJoZ2Sp9 = -2061510564;

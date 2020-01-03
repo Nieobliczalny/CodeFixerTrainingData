@@ -24,7 +24,7 @@ int main()
   char  LVBuJeZ,  Q7CWj,  h0Iqy,  U6BU79,  ie5Xls,  qJN9A_SW,  Qz_x0r__07,  cD0C24Bj1,  QJ6Lil,  D9o3o7Pxg,  RUS77BPoC0,  C212_,  nnk_G,  Lw_7RZ2QG;
   LVBuJeZ  =  (char)-439729004;
   Q7CWj  =  (char)-1596988461;
-  h0Iqy  =  1939426257;
+  h0Iqy  =  (char)1939426257;
   U6BU79  =  -1285497340;
   ie5Xls  =  -1452379718;
   qJN9A_SW  =  -211193922;
@@ -34,7 +34,7 @@ int main()
   D9o3o7Pxg  =  1289581892;
   RUS77BPoC0  =  (char)1209820772;
   C212_  =  (char)-382966646;
-  nnk_G  =  923478165;
+  nnk_G  =  (char)923478165;
   Lw_7RZ2QG  =  -332163316;
 
 {

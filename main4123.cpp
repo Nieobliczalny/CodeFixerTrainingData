@@ -30,7 +30,7 @@ int main(void) {
     unsigned char    u58g;
     u58g    =    (unsigned char)-308886141;
 	short int	rtop2A87V;
-	rtop2A87V	=	-1597445784;
+	rtop2A87V	=	(short)-1597445784;
 	int	PYH6;
 	PYH6	=	0;
 	unsigned long	xKiNatS0Y;
@@ -52,7 +52,7 @@ int main(void) {
 	long long	I24HP5l;
 	I24HP5l	=	1119502602;
  short X0I8;
- X0I8 = 1359425286;
+ X0I8 = (short)1359425286;
  unsigned short k3BaJp7k9;
  k3BaJp7k9 = (unsigned short)-1774879894;
  short on7226;
@@ -172,7 +172,7 @@ else if (k3BaJp7k9)
 {
 if ((xKiNatS0Y & 526249917) && (RLfR7GS >= 1055389152))
 {
-PYH6 = hInpX(321606821, Na0_g0iS);
+PYH6 = hInpX((char)321606821, Na0_g0iS);
 }
 else
 {

@@ -21,7 +21,7 @@ int main(void) {
   short  H3YB27  =  (short)1741816018;
     unsigned int    YfT3K4hS    =    0;
   short  C5_h89K_  =  (short)-1911799975;
-    unsigned short int    R5fmGn    =    457236739;
+    unsigned short int    R5fmGn    =    (unsigned short)457236739;
   unsigned char  HVQJ_xLH6_  =  -1955921164;
     unsigned short int    toSko    =    1671429011;
  short A3dCQ = -1869193601;
@@ -48,7 +48,7 @@ int main(void) {
  long double bfO1B39BE = 504676190;
  float i65_U = 77331622;
   unsigned int  U4_rJr5d51  =  -699280329;
-	short	IX8MlacV	=	1683458674;
+	short	IX8MlacV	=	(short)1683458674;
  unsigned long qPx9y = -1437527646;
  long F5kf = -981068336;
   int  eri02  =  -692815454;
@@ -60,7 +60,7 @@ int main(void) {
 	long double	h2OrGx2sVB	=	1963272186;
 	int	c7oPV0d0	=	1845612414;
 
-C5_h89K_ = (G855Q4z <= IX8MlacV) ? 423996707 : C5_h89K_;
+C5_h89K_ = (G855Q4z <= IX8MlacV) ? (short)423996707 : C5_h89K_;
 if (lj2dYZRCX >= H3YB27)
 {
 {
@@ -96,7 +96,7 @@ EuPmJH8M = s_Z3M2Z((char)299525280, H3YB27, DtjDx, N4_1Quv5, 1853451598);
 }
 else
 {
-std::cout << YhPZN4C68 << W7wrvhn << DC6D3U28() << YfT3K4hS << s_Z3M2Z((char)1804001923, 1985053744, DtjDx, N4_1Quv5, -1467306201) << std::endl;
+std::cout << YhPZN4C68 << W7wrvhn << DC6D3U28() << YfT3K4hS << s_Z3M2Z((char)1804001923, (char)1985053744, DtjDx, N4_1Quv5, -1467306201) << std::endl;
 }
 QoWb77AI = H3YB27 - 805687245;
 
@@ -497,7 +497,7 @@ try
 switch (D5S3oN)
 {
 case 'a':
-oBXx4H2T = s_Z3M2Z((char)2083999521, -1371947622, 1075598441, U4_rJr5d51, P_lPz5_m);
+oBXx4H2T = s_Z3M2Z((char)2083999521, (char)-1371947622, 1075598441, U4_rJr5d51, P_lPz5_m);
 break;
 }
 }

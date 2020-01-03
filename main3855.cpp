@@ -25,7 +25,7 @@ int main(void)
   char  K_YJGqL0u;
   K_YJGqL0u  =  (char)872647455;
   char  B4n90ki;
-  B4n90ki  =  434545640;
+  B4n90ki  =  (char)434545640;
  unsigned long IK8e_Rts51;
  IK8e_Rts51 = 330515285;
 	long long	ZLwu73dW;
@@ -43,7 +43,7 @@ int main(void)
  unsigned short WZkCg71o;
  WZkCg71o = (unsigned short)69782767;
  char fxn8k01JHN;
- fxn8k01JHN = 1304309447;
+ fxn8k01JHN = (char)1304309447;
 	short	Jv1sIn;
 	Jv1sIn	=	-1275854655;
  unsigned long IhjJ3n;
@@ -59,7 +59,7 @@ int main(void)
   short int  c19eYRCq26;
   c19eYRCq26  =  (short)214536891;
  short x9u8;
- x9u8 = -5793567;
+ x9u8 = (short)-5793567;
 	long	vwYA3Kwr;
 	vwYA3Kwr	=	1205754152;
 	float	ErO7i9;
@@ -73,7 +73,7 @@ int main(void)
 	double	cY6P;
 	cY6P	=	1070255015;
 	char	tPsd_w;
-	tPsd_w	=	-988937182;
+	tPsd_w	=	(char)-988937182;
   unsigned short int  YOUbG34ZXs;
   YOUbG34ZXs  =  (unsigned short)1249448572;
 	float	qn89ygh5;
@@ -108,7 +108,7 @@ catch (int& errorCode)
 {
 DPz0n_9 = ZAd0z(-382572913, -1776737610, l6Bp_Vp85);
 }
-DPz0n_9 = ZAd0z(fxn8k01JHN, 825335702, U9981z0pY);
+DPz0n_9 = ZAd0z(fxn8k01JHN, (short)825335702, U9981z0pY);
 if (qn89ygh5)
 {
 K_YJGqL0u = (char)(fxn8k01JHN);
@@ -128,7 +128,7 @@ case 'b':
 YOUbG34ZXs = K_YJGqL0u ^ tPsd_w;
 break;
 case 'c':
-UNYX1O = I8GhgNmh((unsigned short)139271167, (short)631941878, 1119806527);
+UNYX1O = I8GhgNmh((unsigned short)139271167, (short)631941878, (unsigned short)1119806527);
 break;
 case 'd':
 tPsd_w &= B4n90ki;
@@ -160,7 +160,7 @@ c19eYRCq26 = l6Bp_Vp85 ^ 822602233;
 MMREi2 = (int)abs(B4n90ki);
 try
 {
-std::cout << I8GhgNmh((unsigned short)1851869562, (short)-504137566, IK8e_Rts51) << "SOM5D6y" << "O_yk" << ZAd0z(1746592016, -1847246043, IK8e_Rts51) << I8GhgNmh(-2089005871, fxn8k01JHN, 1147888722) << std::endl;
+std::cout << I8GhgNmh((unsigned short)1851869562, (short)-504137566, IK8e_Rts51) << "SOM5D6y" << "O_yk" << ZAd0z(1746592016, (short)-1847246043, IK8e_Rts51) << I8GhgNmh(-2089005871, fxn8k01JHN, 1147888722) << std::endl;
 }
 catch (int& errorCode)
 {
@@ -202,7 +202,7 @@ case 8:
 qn89ygh5 = (int)floor(ErO7i9);
 break;
 case 9:
-ErO7i9 = I8GhgNmh(ErO7i9, WZkCg71o, 78152522);
+ErO7i9 = I8GhgNmh(ErO7i9, WZkCg71o, (unsigned short)78152522);
 break;
 }
 }

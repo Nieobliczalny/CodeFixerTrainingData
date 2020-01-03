@@ -74,7 +74,7 @@ case 2:
 FFrw6y = vT7p5txQ_1((short)55663150);
 break;
 default:
-zRDq6kQ32 = zpVCvYY50A(fzn7B4, (char)793372707, -1862198415, F_EXy, pmp7Lt);
+zRDq6kQ32 = zpVCvYY50A(fzn7B4, (char)793372707, (unsigned short)-1862198415, F_EXy, pmp7Lt);
 break;
 }
 F_EXy = O1nMy3 / DS2si1Pl;

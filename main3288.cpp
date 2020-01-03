@@ -444,7 +444,7 @@ while (j < 7)
 {
 for (int k = 6; k >= 0; --k)
 {
-YzVNx02 = Q5_KRxq((unsigned char)-1604900091, p9E2, (short)1956600511, -239650593, -1775942323);
+YzVNx02 = Q5_KRxq((unsigned char)-1604900091, p9E2, (short)1956600511, -239650593, (short)-1775942323);
 }
 j++;
 }
@@ -574,7 +574,7 @@ case 'c':
 Z4yP9 = (int)abs(hE726YENa);
 break;
 case 'd':
-P_Sx4g494 = Q5_KRxq(2753690, 921619807, -1150037461, -28780506, -120511460) | 129335516;
+P_Sx4g494 = Q5_KRxq((unsigned char)2753690, 921619807, -1150037461, -28780506, -120511460) | 129335516;
 break;
 case 'e':
 POcnminy = Xa7Rb / 858971600;

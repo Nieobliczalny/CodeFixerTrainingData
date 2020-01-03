@@ -105,7 +105,7 @@ HK41y1E9or = I984P(CFZ6J, t9W6ld72, WO0dW);
 }
 }
 
-std::cout << "H848dyjW" << I984P((short)1947246766, -192996461, WO0dW) << VS2jOa_V((unsigned short)2054527248, -1126577804, -717835317, 1956931825) << "Ow61Ut" << std::endl;
+std::cout << "H848dyjW" << I984P((short)1947246766, -192996461, WO0dW) << VS2jOa_V((unsigned short)2054527248, -1126577804, (unsigned short)-717835317, 1956931825) << "Ow61Ut" << std::endl;
 
 if (Bycwl <= WO0dW)
 {
@@ -134,7 +134,7 @@ uRQYzOM1v = I984P((short)1641162339, V553VS25NI, (char)-1871943508) << keKYdKS7I
 }
 else if (XbI1 <= u2p4u3)
 {
-t5Y48q3WGa = I984P(XbI1, V553VS25NI, 611152829) - 1210309651;
+t5Y48q3WGa = I984P(XbI1, V553VS25NI, (char)611152829) - 1210309651;
 }
 else if (zOSZCFT4 == 1536141411)
 {
@@ -163,7 +163,7 @@ case 5:
 ARy2GzX5 = VS2jOa_V((unsigned short)407638064, Gwf2a9N, (unsigned short)-1747040897, -450525079);
 break;
 case 6:
-HK41y1E9or = I984P(1922964033, 1095510981, t5Y48q3WGa);
+HK41y1E9or = I984P((short)1922964033, 1095510981, t5Y48q3WGa);
 break;
 case 7:
 HK41y1E9or = I984P(j6tB, E4xxNRPolN, XbI1);
@@ -230,7 +230,7 @@ case 3:
 KkAT += 486259397;
 break;
 case 4:
-E4xxNRPolN = VS2jOa_V((unsigned short)-503421335, muv2097qXW, 1369978899, RUpLA);
+E4xxNRPolN = VS2jOa_V((unsigned short)-503421335, muv2097qXW, (unsigned short)1369978899, RUpLA);
 break;
 case 5:
 HK41y1E9or = I984P(h6ER, t5Y48q3WGa, 662961897);
@@ -263,7 +263,7 @@ while (i < 1);
 V553VS25NI = (long)(keKYdKS7I);
 if (((RUpLA) || (A4q805c154)) && (P1Hm4Gts >= -1199205271))
 {
-qf3AZl = VS2jOa_V((unsigned short)1329473198, XbI1, -851589503, -1403858967);
+qf3AZl = VS2jOa_V((unsigned short)1329473198, XbI1, (unsigned short)-851589503, -1403858967);
 }
 else if (GgO7e0J <= h6ER)
 {
@@ -431,7 +431,7 @@ HK41y1E9or = I984P((short)1698544645, 1770993920, (char)-1334762174);
 }
 else
 {
-HK41y1E9or = I984P(KkAT, -60955830, 1331481441);
+HK41y1E9or = I984P(KkAT, -60955830, (char)1331481441);
 }
 std::cout << VS2jOa_V(783008935, -887440305, PAu3K_C, muv2097qXW) << gZNVwNKf << "Evif6fV" << VS2jOa_V(KkAT, XmW22, PAu3K_C, muv2097qXW) << keKYdKS7I << std::endl;
 

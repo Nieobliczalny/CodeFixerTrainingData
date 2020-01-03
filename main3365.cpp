@@ -145,7 +145,7 @@ NWmp = HaYu((short)1554839061);
 break;
 case 'e':
 case 'E':
-laWmYFkp = LOS382(laWmYFkp, 647734993, QGgEJIjsg9);
+laWmYFkp = LOS382(laWmYFkp, (char)647734993, QGgEJIjsg9);
 break;
 case 'f':
 case 'F':
@@ -329,7 +329,7 @@ GaZMtx = DH_vXPr0(494144888, -1323791703, (char)1056296198, 1731989054) & wOZn_e
 }
 std::cout << "QdoA7" << "f3f_HnI" << "Y4K07YP2e" << f0oEMs7B << std::endl;
 
-std::cout << LOS382((unsigned short)-298183276, -818855627, g6yY74s) << wjyE7p1 << "iUMd" << Gf8D << std::endl;
+std::cout << LOS382((unsigned short)-298183276, (char)-818855627, g6yY74s) << wjyE7p1 << "iUMd" << Gf8D << std::endl;
 if (R40q <= -308628623)
 {
 switch (NWmp)
@@ -344,7 +344,7 @@ case 2:
 f0oEMs7B = DH_vXPr0(f0oEMs7B, 1355726331, (char)1408394511, 1436358332);
 break;
 case 3:
-g6yY74s = DH_vXPr0(1244355465, G7h51, -843271107, iTcDlGcc);
+g6yY74s = DH_vXPr0(1244355465, G7h51, (char)-843271107, iTcDlGcc);
 break;
 case 4:
 g6yY74s = NWmp / eVEtX;
@@ -356,7 +356,7 @@ case 6:
 Pp26cg1 = LOS382(Pp26cg1, (char)3267446, i82Nb1);
 break;
 case 7:
-ffMxB09 = DH_vXPr0(ffMxB09, TZzV1njg, 1750809864, -480901903);
+ffMxB09 = DH_vXPr0(ffMxB09, TZzV1njg, (char)1750809864, -480901903);
 break;
 }
 }

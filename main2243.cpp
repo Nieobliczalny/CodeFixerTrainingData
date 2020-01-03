@@ -38,7 +38,7 @@ int main(void) {
   unsigned int  AEz1944  =  1609040439;
  long double FSXsz8E = -1298723802;
 	unsigned short	RcD6a1_i	=	(unsigned short)678179050;
- char zxe6f = -1253441843;
+ char zxe6f = (char)-1253441843;
   long double  dbn_tWMT  =  -580435332;
     long double    YPnHf7h2    =    57161363;
     unsigned long    O52C6p9O9    =    -954982435;
@@ -49,7 +49,7 @@ int main(void) {
   short  dtUli  =  595356223;
  unsigned long long o2StI0C3 = -2037760592;
   unsigned char  kPxNY7Fi  =  (unsigned char)1035838445;
-	unsigned short int	D_EO_dO	=	636096821;
+	unsigned short int	D_EO_dO	=	(unsigned short)636096821;
 	unsigned long long	u821x4	=	-383280613;
     short int    mOr_i    =    -273977326;
     unsigned long    qNE_U8E    =    -981272885;
@@ -59,7 +59,7 @@ int main(void) {
 	unsigned short	CX4nHs7q	=	1237340866;
     long long    zZ6J84MP7    =    -52374285;
   unsigned short int  ORMGAo3rA  =  (unsigned short)-94098760;
-	unsigned short int	IjWW	=	-2026823527;
+	unsigned short int	IjWW	=	(unsigned short)-2026823527;
     unsigned short    I7lmT17    =    -1452719320;
   long  Kd8t  =  -244113079;
     unsigned short int    HQCI_7K3y    =    0;
@@ -69,7 +69,7 @@ int main(void) {
  char kaMO08P = -1428387074;
  unsigned short s8mSZi4 = 1368850802;
     unsigned short    H8r9Z    =    (unsigned short)-1656340400;
- unsigned short int hmC9 = -1218584439;
+ unsigned short int hmC9 = (unsigned short)-1218584439;
   unsigned long long  IuM0OV7  =  -948404591;
     unsigned long    Py_J5ysDSl    =    2006392643;
     char    jnk85    =    -1488964570;
@@ -137,7 +137,7 @@ HQCI_7K3y = BfYoJ10j((char)1690324952, kaMO08P, 25918247, kPxNY7Fi, CX4nHs7q);
 }
 else if (cqzK35iA != -1532268238)
 {
-IjWW = nGx696g_7p((unsigned char)-1322263606, -302295464, kPxNY7Fi, -1088591348);
+IjWW = nGx696g_7p((unsigned char)-1322263606, (unsigned short)-302295464, kPxNY7Fi, -1088591348);
 }
 else if (cqzK35iA <= s8mSZi4)
 {
@@ -538,7 +538,7 @@ case 3:
 CX4nHs7q &= ORMGAo3rA;
 break;
 case 4:
-lE6W = BfYoJ10j((char)-2078683757, 694572829, -97984822, -1080447833, -1605150928) * 1978391465;
+lE6W = BfYoJ10j((char)-2078683757, (unsigned short)694572829, -97984822, -1080447833, -1605150928) * 1978391465;
 break;
 case 5:
 FSXsz8E = (int)abs(zZ6J84MP7);

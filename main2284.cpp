@@ -45,7 +45,7 @@ int main(int argc, char** argv) {
     unsigned short int    iL__l1;
     iL__l1    =    (unsigned short)-1352775976;
   short int  z_qF;
-  z_qF  =  -1714474227;
+  z_qF  =  (short)-1714474227;
 	short	EY4mP46y;
 	EY4mP46y	=	210846305;
   unsigned short  Yu71s1;
@@ -61,7 +61,7 @@ int main(int argc, char** argv) {
  short int P2kpQcdLP;
  P2kpQcdLP = (short)-1089039330;
 	char	Qs11;
-	Qs11	=	1786136407;
+	Qs11	=	(char)1786136407;
 	unsigned long	aH5u5;
 	aH5u5	=	2058723982;
     long long    TCLV9pNDA;

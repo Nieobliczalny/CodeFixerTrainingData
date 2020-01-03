@@ -56,7 +56,7 @@ std::cout << VS6Wqr7lJw << tEoG8 << "Uc25Kj4g" << j4I7E1G8 << ldefcA6() << std::
 int i = 7;
 while (i >= 0)
 {
-std::cout << BGubc4R << q7VC4A1(auhhg, (short)-1885926261, (char)-1742811793, -1107191862, LgYt1t60) << std::endl;
+std::cout << BGubc4R << q7VC4A1(auhhg, (short)-1885926261, (char)-1742811793, (char)-1107191862, LgYt1t60) << std::endl;
 i--;
 }
 }
@@ -139,7 +139,7 @@ std::cout << q7VC4A1(Mxk4axp8_m, Fj2H, (char)-586625665, (char)-498617742, Si3ty
 }
 }
 i1b5L_53 *= QDwy;
-ltVe5d61j_ = Rb095y(ltVe5d61j_, K1b_6p, 947028574);
+ltVe5d61j_ = Rb095y(ltVe5d61j_, K1b_6p, (unsigned short)947028574);
 uh_e6t669q = (unsigned int)(MZ06XRGIl);
 for (int i = 0; i < 10; ++i)
 {
@@ -250,7 +250,7 @@ case 'd':
 mwVf51DF = FzLeij492(mwVf51DF, zW8K_c);
 break;
 case 'e':
-HA8x = Rb095y(HA8x, 912263694, 345794791);
+HA8x = Rb095y(HA8x, (short)912263694, 345794791);
 break;
 case 'f':
 kh0xd1I2a0 = ldefcA6();
@@ -347,7 +347,7 @@ case 0:
 mwVf51DF = j4I7E1G8 / 2083959146;
 break;
 case 1:
-B1_9h = q7VC4A1(-177038538, (short)-1097724272, (char)-2069944795, 262652137, -2084722777);
+B1_9h = q7VC4A1(-177038538, (short)-1097724272, (char)-2069944795, (char)262652137, -2084722777);
 break;
 case 2:
 Wv8FB = q7VC4A1(76434401, -609629923, 2001349477, i1b5L_53, -181585582);

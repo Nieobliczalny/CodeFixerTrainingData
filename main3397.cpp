@@ -24,7 +24,7 @@ int main()
     long double    e_83Ad_LY    =    -297867845;
   unsigned int  I6cIqui  =  1104698091;
   unsigned short int  mUXSXZ  =  (unsigned short)1562468036;
-    short int    Y0836wX    =    1543352738;
+    short int    Y0836wX    =    (short)1543352738;
   unsigned int  IEIO40u9  =  1367767244;
     unsigned short int    p9cb2ex8Z4    =    -936790474;
   long double  Nh6901yd  =  -375699343;
@@ -37,7 +37,7 @@ int main()
  double oyjv340 = 1200790379;
   short  yS3b  =  (short)-1727105380;
 	long	gb_2M5ztJ	=	0;
- unsigned short int xjbV0bJSGK = -563239527;
+ unsigned short int xjbV0bJSGK = (unsigned short)-563239527;
 	long double	vN2O8	=	786329113;
 	unsigned short	CDE_dE	=	0;
     unsigned char    SuF5    =    89917278;
@@ -187,7 +187,7 @@ else if (yS3b == A5fEHOLg)
 {
 try
 {
-p7C49 = rsQ8Z(IEIO40u9, (char)-489723817, 1065218265, N88SA, HBQ8N7a4o);
+p7C49 = rsQ8Z(IEIO40u9, (char)-489723817, (unsigned char)1065218265, N88SA, HBQ8N7a4o);
 }
 catch (int& errorCode)
 {
@@ -304,7 +304,7 @@ case 1:
 gb_2M5ztJ = rsQ8Z(e_83Ad_LY, (char)415024125, vN2O8, (short)1270836757, I6cIqui);
 break;
 case 2:
-gb_2M5ztJ = rsQ8Z(A5fEHOLg, 143419201, 529159416, 841744356, HBQ8N7a4o);
+gb_2M5ztJ = rsQ8Z(A5fEHOLg, (char)143419201, 529159416, 841744356, HBQ8N7a4o);
 break;
 case 3:
 c8h8 = I6cIqui + 2073199436;
@@ -345,7 +345,7 @@ case 6:
 N039Pv4 = rsQ8Z(m6W_zV79GE, I6cIqui, A5fEHOLg, (short)-848710300, c8h8);
 break;
 case 7:
-p7C49 = rsQ8Z((unsigned short)-1355622983, 375461933, Y0836wX, m6W_zV79GE, -1988979071);
+p7C49 = rsQ8Z((unsigned short)-1355622983, (char)375461933, Y0836wX, m6W_zV79GE, -1988979071);
 break;
 }
 }
@@ -599,7 +599,7 @@ else
 switch (gb_2M5ztJ)
 {
 case 0:
-p7C49 = rsQ8Z((unsigned short)808481285, c8h8, (unsigned char)624502354, -1599182029, IEIO40u9);
+p7C49 = rsQ8Z((unsigned short)808481285, c8h8, (unsigned char)624502354, (short)-1599182029, IEIO40u9);
 break;
 case 1:
 p9cb2ex8Z4 &= xjbV0bJSGK;

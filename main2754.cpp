@@ -41,7 +41,7 @@ int main(int argc, char** argv)
 	unsigned char	A7_2Lk,	By337jA,	cB939E18YJ,	s4X6wN0,	q0R5,	LK214xQg1,	RbMgt51SB,	G100,	IB9v95bK,	oIbm2W,	e85Q,	r3e_5tXz2,	fuJQqxn8H,	O3qDx7f5,	cfPd45Lv8K,	Xr0X6i7k;
 	A7_2Lk	=	(unsigned char)-579308394;
 	By337jA	=	(unsigned char)-1408236862;
-	cB939E18YJ	=	-109584611;
+	cB939E18YJ	=	(unsigned char)-109584611;
 	s4X6wN0	=	-349889571;
 	q0R5	=	-1482126127;
 	LK214xQg1	=	-206372629;
@@ -51,7 +51,7 @@ int main(int argc, char** argv)
 	oIbm2W	=	-152533009;
 	e85Q	=	(unsigned char)1505248717;
 	r3e_5tXz2	=	(unsigned char)-1254598268;
-	fuJQqxn8H	=	1561404280;
+	fuJQqxn8H	=	(unsigned char)1561404280;
 	O3qDx7f5	=	561331141;
 	cfPd45Lv8K	=	1491273912;
 	Xr0X6i7k	=	268566538;
@@ -115,7 +115,7 @@ case 'b':
 O3qDx7f5 = oO_ZUBMP(-287165359, cfPd45Lv8K, (short)-658419077, fuJQqxn8H, IB9v95bK);
 break;
 case 'c':
-oIbm2W = TxCc((unsigned short)-1578614639, 665516735, -893217944, 367707194);
+oIbm2W = TxCc((unsigned short)-1578614639, (short)665516735, -893217944, 367707194);
 break;
 case 'd':
 O3qDx7f5 = TxCc(sDvpQy27, -2124557829, G100, -1812564795);
@@ -345,7 +345,7 @@ case 'h':
 IB9v95bK = oO_ZUBMP(-431439307, s4X6wN0, (short)-1541315508, 1492533341, cB939E18YJ);
 break;
 default:
-q0R5 = (oIbm2W) ? f8Y10vw0T(-836174972, s4X6wN0, 1945266252) : e85Q;
+q0R5 = (oIbm2W) ? f8Y10vw0T((unsigned char)-836174972, s4X6wN0, 1945266252) : e85Q;
 break;
 }
 }
@@ -419,7 +419,7 @@ else
 {
 for (int j = 6; j >= 0; j--)
 {
-q0R5 = f8Y10vw0T(425083340, q0R5, 291725879);
+q0R5 = f8Y10vw0T((unsigned char)425083340, q0R5, 291725879);
 }
 }
 if (q0R5 > Xr0X6i7k)
@@ -470,7 +470,7 @@ if (s4X6wN0 > 507250270)
 {
 if (cB939E18YJ >= 210367131)
 {
-G100 = TxCc((unsigned short)-1942548982, LK214xQg1, s4X6wN0, 440127614);
+G100 = TxCc((unsigned short)-1942548982, LK214xQg1, s4X6wN0, (short)440127614);
 }
 }
 }
@@ -558,7 +558,7 @@ Xr0X6i7k = RbMgt51SB | 966829633;
 break;
 case 'e':
 case 'E':
-cB939E18YJ = TxCc((unsigned short)-34555046, (short)1502744150, By337jA, 480080654);
+cB939E18YJ = TxCc((unsigned short)-34555046, (short)1502744150, By337jA, (short)480080654);
 break;
 case 'f':
 case 'F':

@@ -176,7 +176,7 @@ switch (s85zSPnX)
 {
 case 'a':
 case 'A':
-kl5l = I3i0us7(-1812070830);
+kl5l = I3i0us7((short)-1812070830);
 break;
 case 'b':
 case 'B':
@@ -308,7 +308,7 @@ for (int j = 4; j >= 0; j--)
 std::cout << NKkt((short)2117629964, 521985947, uYdqRlGx, h1DnP2UCI) << NKkt(h0r9L3ZU, N7VTh_, 1907531788, (short)1796225959) << BzJZsdM(202416282) << std::endl;
 }
 }
-std::cout << I3i0us7(323056167) << BzJZsdM(h0r9L3ZU) << xilY << NKkt(1446607725, N7VTh_, 733835830, -1771898834) << "MiON" << std::endl;
+std::cout << I3i0us7((short)323056167) << BzJZsdM(h0r9L3ZU) << xilY << NKkt(1446607725, N7VTh_, 733835830, -1771898834) << "MiON" << std::endl;
 
 std::cout << "hx3jP7qi" << I3i0us7(h0r9L3ZU) << NKkt(h0r9L3ZU, N7VTh_, uYdqRlGx, -339951149) << s85zSPnX << BzJZsdM(-2020671352) << std::endl;
 
@@ -716,7 +716,7 @@ case 3:
 CTk8_12 = (int)abs(w6mWgY);
 break;
 case 4:
-xilY = I3i0us7(2030949534) | w6mWgY;
+xilY = I3i0us7((short)2030949534) | w6mWgY;
 break;
 case 5:
 kl5l *= h1DnP2UCI;

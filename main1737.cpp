@@ -73,7 +73,7 @@ int main(void)
     short int    kZ18bwD;
     kZ18bwD    =    (short)1937103034;
  unsigned short int t56tULYvX;
- t56tULYvX = 1986976837;
+ t56tULYvX = (unsigned short)1986976837;
  long long lfSDeS1G;
  lfSDeS1G = -2049342511;
   float  wi959OAefk;
@@ -97,7 +97,7 @@ int main(void)
 	unsigned char	bh5ii88;
 	bh5ii88	=	(unsigned char)-729244225;
     short int    w5SLdj3040;
-    w5SLdj3040    =    -416789822;
+    w5SLdj3040    =    (short)-416789822;
     long double    Dd1e;
     Dd1e    =    -1993128794;
     int    A1YLt25mI;

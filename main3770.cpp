@@ -24,7 +24,7 @@ int main(int argc, char** argv)
   float  iaDX  =  -14898805;
     unsigned long    r_X8    =    -1719921142;
 	short int	fDgygua	=	(short)1408824811;
- unsigned char zBsSQ1 = 20668948;
+ unsigned char zBsSQ1 = (unsigned char)20668948;
     long    fIEi_W    =    -430789598;
     float    p1CI8_v    =    1716007190;
   long double  K07Bwrh  =  -1636277186;
@@ -40,7 +40,7 @@ int main(int argc, char** argv)
 	long double	D4G4_G_1	=	-1866195011;
     unsigned short int    hu4w88ncY9    =    (unsigned short)-1563802973;
   double  y9p4TGb  =  2106233649;
- char RIJ5 = -1278849493;
+ char RIJ5 = (char)-1278849493;
 	unsigned long	r8ZE5fG	=	-1576821296;
 	unsigned short	Lxyy36d	=	(unsigned short)924856681;
     unsigned long long    R5AI    =    -1871629971;
@@ -192,7 +192,7 @@ case 'c':
 Ir8Z = LCpbXd7(2120367443, (char)673030522);
 break;
 case 'd':
-Ir8Z = LCpbXd7(KPWxY2dlb, 348503261);
+Ir8Z = LCpbXd7(KPWxY2dlb, (char)348503261);
 break;
 case 'e':
 p1CI8_v = (int)floor(UDE_);

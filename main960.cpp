@@ -23,7 +23,7 @@ unsigned short vC7s7Z2Q() {
 
 unsigned short int	SM183Z(short	Pau7)
 {
-	return	1716996849;
+	return	(unsigned short)1716996849;
 }
 
 int main()

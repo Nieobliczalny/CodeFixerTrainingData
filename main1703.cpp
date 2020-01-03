@@ -35,7 +35,7 @@ int main(int argc, char** argv)
  int G2FPg;
  G2FPg = -808322973;
     short    uMeiHx;
-    uMeiHx    =    -769985389;
+    uMeiHx    =    (short)-769985389;
   float  aD2X2_6;
   aD2X2_6  =  -1912448945;
  float Y9b_kvS;
@@ -53,7 +53,7 @@ int main(int argc, char** argv)
 	char	LD0svOK;
 	LD0svOK	=	(char)-855179824;
     unsigned short    xhHbl9Z;
-    xhHbl9Z    =    -1509353593;
+    xhHbl9Z    =    (unsigned short)-1509353593;
  short e73__q32J;
  e73__q32J = 1699474875;
 	short int	RIhute_Q25;
@@ -99,7 +99,7 @@ int main(int argc, char** argv)
     unsigned long    xbcqd4s;
     xbcqd4s    =    458992210;
  short gbGK5ol;
- gbGK5ol = 608995522;
+ gbGK5ol = (short)608995522;
     short int    cLV9;
     cLV9    =    (short)1494665110;
 	unsigned short	Ss5X;

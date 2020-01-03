@@ -24,7 +24,7 @@ int main(int argc, char** argv)
 	double	zwEiz_inP	=	1632062025;
  unsigned long z1B4 = 1971567163;
     long double    HRTr    =    1574304524;
-	unsigned char	SjHD_8C	=	1590763678;
+	unsigned char	SjHD_8C	=	(unsigned char)1590763678;
   long  h0ZAn8K  =  -529377679;
   short int  aCnT9bf3_N  =  121981638;
 	unsigned short	Z1V5nWZc	=	721650848;
@@ -36,7 +36,7 @@ int main(int argc, char** argv)
  float lJuf356_ = -1858299250;
  unsigned long long Dd31B3V1 = -916470575;
     float    l55IR    =    -1982240110;
-  char  vUQJs  =  -1965072135;
+  char  vUQJs  =  (char)-1965072135;
 
 for (int i = 0; i < 9; ++i)
 {

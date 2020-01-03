@@ -62,7 +62,7 @@ hx5zQ9z2 = (int)ceil(bVR_3);
 break;
 }
 
-NZa1GYm7KA = wZ1umy((char)-1648097662, UM6qBU1Xec, -493273676, Sb8EZiwD9w, gRJAv);
+NZa1GYm7KA = wZ1umy((char)-1648097662, UM6qBU1Xec, (char)-493273676, Sb8EZiwD9w, gRJAv);
 
 try
 {
@@ -85,7 +85,7 @@ case 'c':
 Sb8EZiwD9w = ec9M5qPiLr * pFAgrE66;
 break;
 case 'd':
-IhJ4 = (IhJ4) ? L929eVI54 : wZ1umy(2036804585, -2068554417, -1107978186, 1590908015, NZa1GYm7KA);
+IhJ4 = (IhJ4) ? L929eVI54 : wZ1umy((char)2036804585, -2068554417, -1107978186, 1590908015, NZa1GYm7KA);
 break;
 default:
 Edi2HmlId3 = n_0L - 423082543;
@@ -114,7 +114,7 @@ case 3:
 gRJAv = fO6971xV_N(r9ly14, (unsigned char)-108201301);
 break;
 case 4:
-IhJ4 = G27B3j_5(1232201566, fJ8fA, -1395517367, ec9M5qPiLr, -910136521);
+IhJ4 = G27B3j_5((unsigned short)1232201566, fJ8fA, -1395517367, ec9M5qPiLr, -910136521);
 break;
 case 5:
 Edi2HmlId3 = wZ1umy(Edi2HmlId3, -1548107696, (char)-592932131, fJ8fA, 824360589);

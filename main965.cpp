@@ -55,7 +55,7 @@ case 'i':
 y7Nv8 = (uY59Qb19M >= P5JO70479) ? y7Nv8 : -756583504;
 break;
 default:
-uY59Qb19M = HSDW(590304362, 750521767);
+uY59Qb19M = HSDW((short)590304362, 750521767);
 break;
 }
 
@@ -119,7 +119,7 @@ U3W8RwBgt = oQK8 / xR6e;
 std::cout << x4N437() << o58L3(oQK8, (short)806133611) << std::endl;
 
 wV3gdZ -= oQK8;
-i8yc5 = HSDW((short)984310720, -609253303);
+i8yc5 = HSDW((short)984310720, (unsigned short)-609253303);
 {
 int i = 7;
 while (i >= 0)
@@ -177,7 +177,7 @@ case 'E':
 ZAyBJER7h = HSDW((short)1645381879, Q0jV1t0Mm);
 break;
 default:
-c3O84V = HSDW((short)2113487816, 1365429694) & 1459122152;
+c3O84V = HSDW((short)2113487816, (unsigned short)1365429694) & 1459122152;
 break;
 }
 ++i;

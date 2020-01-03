@@ -93,7 +93,7 @@ case 'f':
 rN6D4bo90 = o07DjmFM5((unsigned char)1276576793, rN6D4bo90, -1941845539, 964764860);
 break;
 case 'g':
-X5w03j = o07DjmFM5(-289954186, 635704490, -1067425651, 1767003606);
+X5w03j = o07DjmFM5((unsigned char)-289954186, 635704490, -1067425651, 1767003606);
 break;
 default:
 mXtsO = kYWbyVag_i(iYu8FT, 2107967844, -622294750);

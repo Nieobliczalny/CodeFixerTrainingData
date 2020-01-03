@@ -135,7 +135,7 @@ case 0:
 t147jD3q1 = sEGqT((short)-1194578500);
 break;
 case 1:
-VY496Q = f4G4((short)-430710596, -142637285, -479202643, -1094770624, a0731Cda1g) * a0731Cda1g;
+VY496Q = f4G4((short)-430710596, (short)-142637285, -479202643, -1094770624, a0731Cda1g) * a0731Cda1g;
 break;
 case 2:
 t147jD3q1 = sEGqT(-1535800026);
@@ -420,7 +420,7 @@ case 'e':
 j7_nx *= gWO1R72;
 break;
 case 'f':
-gmQ9yF73G1 = f4G4(gmQ9yF73G1, 1329093761, 1970309834, V5Jb, jp_7dNjD);
+gmQ9yF73G1 = f4G4(gmQ9yF73G1, (short)1329093761, 1970309834, V5Jb, jp_7dNjD);
 break;
 case 'g':
 Rp4e_c09 = (int)abs(E4iOTu);

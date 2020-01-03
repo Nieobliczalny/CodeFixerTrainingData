@@ -23,7 +23,7 @@ int main(void) {
 	unsigned char	Wc_fN4nTY	=	(unsigned char)-549232855;
   unsigned short  n89wDf1r8z  =  (unsigned short)-1709447753;
     float    s7Zn_89t    =    -160278983;
-    char    vhqN3XV7    =    1680647540;
+    char    vhqN3XV7    =    (char)1680647540;
   unsigned long  ssZp  =  -1598552209;
     long double    JF0926i    =    -1148672423;
     unsigned int    YSTWZ2zG    =    -1301181316;
@@ -33,7 +33,7 @@ int main(void) {
   char  a1VKb7xyr  =  (char)1187048712;
     float    LO5T6hyn5z    =    -171346890;
  char sZZ66A9 = (char)-1957138818;
-  unsigned short  c14VCjzxj  =  1279266627;
+  unsigned short  c14VCjzxj  =  (unsigned short)1279266627;
  char bom4 = 1184347844;
     unsigned long    qOdj_cT0    =    1499656355;
 	short int	kaI_4fqa	=	1245211674;
@@ -43,7 +43,7 @@ int main(void) {
   short int  bsGr43h1ua  =  (short)1466598839;
     double    iQqNFKxi    =    2082659589;
 	short	j489E	=	(short)734188272;
-  short int  p88GL  =  -71815369;
+  short int  p88GL  =  (short)-71815369;
   long long  Gq11m_h  =  -1004125791;
     char    BfJ_su118    =    1377751429;
  long double y66g31Z = -1526346960;
@@ -53,7 +53,7 @@ int main(void) {
  short int LC9Sv = (short)965215061;
     float    a_9B56s9    =    -988664275;
 	unsigned short int	NVG4	=	(unsigned short)-34275889;
-    short int    oC7nKiu    =    -1280633597;
+    short int    oC7nKiu    =    (short)-1280633597;
   unsigned short  D464  =  -162378571;
   unsigned short int  Kh1Vi  =  -2102475827;
  unsigned short eqLD = 1423377992;
@@ -64,7 +64,7 @@ int main(void) {
 	long long	n7fn_	=	-1891040938;
   char  qF6G6  =  (char)2124129704;
   char  pWIBBhpq  =  (char)1043283265;
-  short int  Y2Y8K  =  68680149;
+  short int  Y2Y8K  =  (short)68680149;
   unsigned long long  UI42_rK7l  =  -117522405;
     unsigned long long    zB7xP1    =    -395362517;
  short Q_2Kqp = 1036643430;
@@ -304,7 +304,7 @@ try
 {
 if (s7Zn_89t > fs5zm)
 {
-Pg066Q = R8283z3xyF((short)1513979310, -1959093305);
+Pg066Q = R8283z3xyF((short)1513979310, (unsigned short)-1959093305);
 }
 else if ((p88GL <= W0ZoeSG) || (c14VCjzxj))
 {

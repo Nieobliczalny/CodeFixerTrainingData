@@ -49,7 +49,7 @@ int main() {
 	double	g8qf;
 	g8qf	=	-1499366382;
   char  DC8vN39zz;
-  DC8vN39zz  =  1643807583;
+  DC8vN39zz  =  (char)1643807583;
 	long	WKdiU09;
 	WKdiU09	=	-69185530;
   unsigned short  H3D_w;
@@ -61,7 +61,7 @@ int main() {
  long fl84wf;
  fl84wf = 1275867324;
     unsigned char    msouPsP;
-    msouPsP    =    1711215476;
+    msouPsP    =    (unsigned char)1711215476;
  unsigned short int cmmw5;
  cmmw5 = 0;
   short int  G0SX;
@@ -73,7 +73,7 @@ int main() {
 	char	VS1r;
 	VS1r	=	(char)1006836705;
  char yLGd;
- yLGd = 1826677832;
+ yLGd = (char)1826677832;
 	short int	BAHx;
 	BAHx	=	(short)1047859735;
 	long double	wmNc25n;

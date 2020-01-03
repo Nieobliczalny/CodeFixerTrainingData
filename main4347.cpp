@@ -106,7 +106,7 @@ b6C2_ = B45b4BZq21 - hf73_Y;
 }
 else
 {
-i_OoN = IyxS_7Tt3e(708679881, 878404587, (unsigned char)-219896589, 441503293);
+i_OoN = IyxS_7Tt3e(708679881, 878404587, (unsigned char)-219896589, (unsigned char)441503293);
 }
 }
 else if (nA1P <= 1879932016)

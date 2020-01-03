@@ -34,7 +34,7 @@ int main()
  unsigned short QgFaQ, DH6395_, BG2PI;
  QgFaQ = (unsigned short)69538037;
  DH6395_ = (unsigned short)492261830;
- BG2PI = 1696386862;
+ BG2PI = (unsigned short)1696386862;
     long long    xe4nZn3,    L428ho5,    v8CeBEPp,    dbpO0;
     xe4nZn3    =    0;
     L428ho5    =    0;
@@ -117,7 +117,7 @@ std::cout << L428ho5 << L428ho5 << foLL(dbpO0) << std::endl;
 
 BG2PI = Y16w(xe4nZn3, (unsigned short)-203634572, v8CeBEPp, dbpO0);
 
-QgFaQ = e25aw(QgFaQ, (unsigned short)1225130905, -1302961325);
+QgFaQ = e25aw(QgFaQ, (unsigned short)1225130905, (short)-1302961325);
 
 for (int i = 0; i < 8; i++)
 {
@@ -374,7 +374,7 @@ while (i < 1);
 QgFaQ = DH6395_ * 512970493;
 for (int i = 0; i < 7; ++i)
 {
-std::cout << e25aw(L428ho5, dbpO0, (short)1295121367) << Y16w((unsigned short)-1721916417, 1495614491, DH6395_, QgFaQ) << Sj27(-603674913) << "mxt34w5z" << std::endl;
+std::cout << e25aw(L428ho5, dbpO0, (short)1295121367) << Y16w((unsigned short)-1721916417, (unsigned short)1495614491, DH6395_, QgFaQ) << Sj27(-603674913) << "mxt34w5z" << std::endl;
 }
 
 {
@@ -525,7 +525,7 @@ QgFaQ = e25aw((short)-1825955934, (unsigned short)-94562217, dbpO0);
 }
 else if ((v8CeBEPp & L428ho5) || (xe4nZn3 > -285307381))
 {
-QgFaQ = Y16w(xe4nZn3, 403574443, 1080501628, 1143173586);
+QgFaQ = Y16w(xe4nZn3, (unsigned short)403574443, 1080501628, 1143173586);
 }
 else
 {

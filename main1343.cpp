@@ -102,7 +102,7 @@ while (j < 2)
 {
 if (((N5no & TkYI0a7_) && (C26MaUdmz <= AFL6NYhVG)) || ((E5IiDEjE & N5no) || (K7AmKGeV >= kXT_)))
 {
-u_jVkx7Xo = aU0tt((unsigned short)-1682338943, (unsigned short)823993567, A999, Gbl4, -1072745420);
+u_jVkx7Xo = aU0tt((unsigned short)-1682338943, (unsigned short)823993567, A999, Gbl4, (unsigned short)-1072745420);
 }
 else
 {

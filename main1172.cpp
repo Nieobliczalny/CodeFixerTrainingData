@@ -30,7 +30,7 @@ int main(void) {
  short JkGd = (short)-132733085;
 	unsigned short	sIY_hmMAs	=	0;
  unsigned long zYoE31z = 598820157;
-	short	IaQVN	=	-221044419;
+	short	IaQVN	=	(short)-221044419;
     short int    tLHlSk    =    2027537805;
   char  QjKWX  =  -1157185106;
     short    LXo3F7X    =    1861269852;
@@ -44,7 +44,7 @@ int main(void) {
   long long  ZSv6  =  1570111449;
  unsigned long Eo8vW = 1629136517;
     long    CnWCLwkc4y    =    -502669942;
-	unsigned short int	Kq7u_70P7	=	-1615556073;
+	unsigned short int	Kq7u_70P7	=	(unsigned short)-1615556073;
   unsigned long long  RKNZ_BF  =  0;
  unsigned short int m1bNiK5 = (unsigned short)231808904;
     short    LkiPA2957t    =    (short)952605087;
@@ -68,7 +68,7 @@ case 1:
 Eo8vW = BF90_99E4((unsigned char)-702291760, (short)1647178396, -1296137193);
 break;
 case 2:
-W9lC = rZqIjB5(W9lC, AQ6YzKCbQm, -1400396424);
+W9lC = rZqIjB5(W9lC, AQ6YzKCbQm, (short)-1400396424);
 break;
 case 3:
 CnWCLwkc4y %= 1069047881;
@@ -117,7 +117,7 @@ while (i >= 0);
 
 if (rZqIjB5((char)75419349, (unsigned char)1835658476, zYoE31z) == 0)
 {
-	fKjc = -1534654910 / rZqIjB5(75419349, 1835658476, zYoE31z);
+	fKjc = -1534654910 / rZqIjB5((char)75419349, 1835658476, zYoE31z);
 }
 
 ZSv6 *= itTwOt9_2;
@@ -384,7 +384,7 @@ i++;
 while (i < 8);
 }
 sC999p6 = (short int)(n98tD5__);
-std::cout << "t8wEcs" << "BOg9" << rZqIjB5((char)118113125, (unsigned char)-1232881758, 1040524577) << std::endl;
+std::cout << "t8wEcs" << "BOg9" << rZqIjB5((char)118113125, (unsigned char)-1232881758, (short)1040524577) << std::endl;
 if (m1bNiK5 == 1322948864)
 {
 LXo3F7X = fKjc | m1bNiK5;

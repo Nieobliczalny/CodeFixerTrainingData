@@ -233,7 +233,7 @@ k--;
 }
 else
 {
-cout << jUg79ai5E0 << tiSHj2s3((unsigned short)-130078028, 1989692221, lxN9) << tiSHj2s3(-678145636, nEGqBl6c, lxN9) << endl;
+cout << jUg79ai5E0 << tiSHj2s3((unsigned short)-130078028, 1989692221, lxN9) << tiSHj2s3((unsigned short)-678145636, nEGqBl6c, lxN9) << endl;
 }
 }
 else

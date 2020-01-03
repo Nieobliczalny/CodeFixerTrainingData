@@ -183,7 +183,7 @@ I4Xh2wjC = x2upr9 / WMj5_;
 int i = 9;
 while (i >= 0)
 {
-std::cout << X5HcGY36q4 << "GpG2_" << yj6p_s0yi((unsigned char)-867704100, -689993495, 2042674459, DB_luuH, hcj_MKnNYE) << std::endl;
+std::cout << X5HcGY36q4 << "GpG2_" << yj6p_s0yi((unsigned char)-867704100, -689993495, (unsigned short)2042674459, DB_luuH, hcj_MKnNYE) << std::endl;
 i--;
 }
 }
@@ -198,7 +198,7 @@ if (I4Xh2wjC == 549351890)
 {
 for (int k = 10; k >= 0; --k)
 {
-x2upr9 = yj6p_s0yi((unsigned char)-1533851074, BAUJvW43Y, (unsigned short)-1812253327, 1881692288, -387445139);
+x2upr9 = yj6p_s0yi((unsigned char)-1533851074, BAUJvW43Y, (unsigned short)-1812253327, (unsigned short)1881692288, -387445139);
 }
 }
 --i;

@@ -50,7 +50,7 @@ int main(int argc, char** argv)
 	unsigned short	uQ1K9_;
 	uQ1K9_	=	(unsigned short)-881894329;
   short  UwRmHw530T;
-  UwRmHw530T  =  -1423362817;
+  UwRmHw530T  =  (short)-1423362817;
  long ED1vR22vZ;
  ED1vR22vZ = 1817714539;
  float Eo03JhuXN3;
@@ -64,7 +64,7 @@ int main(int argc, char** argv)
   int  L_owB;
   L_owB  =  -181284853;
  unsigned char jxm_dFrl1;
- jxm_dFrl1 = 2008395033;
+ jxm_dFrl1 = (unsigned char)2008395033;
     float    E5v9yUcC_d;
     E5v9yUcC_d    =    482991808;
   long double  nF_0U;
@@ -78,7 +78,7 @@ int main(int argc, char** argv)
     long double    dGHbr7V;
     dGHbr7V    =    -1090910974;
   char  B2gKg;
-  B2gKg  =  -540577043;
+  B2gKg  =  (char)-540577043;
   double  P7PNoh6yEl;
   P7PNoh6yEl  =  -2075113495;
  unsigned long long FwesB_Wb;
@@ -92,7 +92,7 @@ int main(int argc, char** argv)
  long d_3s68;
  d_3s68 = -928084090;
 	unsigned char	IsR_W71;
-	IsR_W71	=	11002774;
+	IsR_W71	=	(unsigned char)11002774;
  char xl8An_h_r6;
  xl8An_h_r6 = 1257942008;
 	long	S45379;
@@ -146,7 +146,7 @@ int main(int argc, char** argv)
  unsigned short int iTMvJ;
  iTMvJ = (unsigned short)753382599;
 	unsigned short	qUi7c;
-	qUi7c	=	765193634;
+	qUi7c	=	(unsigned short)765193634;
  long double p4iI0lCg9;
  p4iI0lCg9 = 898927888;
  float S9K6_;
@@ -172,7 +172,7 @@ int main(int argc, char** argv)
 	double	huaf;
 	huaf	=	794555652;
 	unsigned char	bJ336BZ1;
-	bJ336BZ1	=	-1925420862;
+	bJ336BZ1	=	(unsigned char)-1925420862;
   unsigned long long  KzxpBvgCMZ;
   KzxpBvgCMZ  =  1805090253;
 	int	pf0Q2;
@@ -240,7 +240,7 @@ VKXca9Ecs7 &= uQ1K9_;
 G2r_gUmE = (unsigned int)(HQ3N8zj);
 try
 {
-std::cout << KN9z((char)-1994581275, (short)1967364439, 2023866407, -2023577564) << "D5YEW16MS" << "Ma4gfI" << "g6VP_7" << std::endl;
+std::cout << KN9z((char)-1994581275, (short)1967364439, (unsigned short)2023866407, -2023577564) << "D5YEW16MS" << "Ma4gfI" << "g6VP_7" << std::endl;
 }
 catch (int& errorCode)
 {

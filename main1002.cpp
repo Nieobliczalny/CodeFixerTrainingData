@@ -29,7 +29,7 @@ int main(int argc, char** argv) {
  int xWMu6 = 1770035335;
   double  s611  =  -78942399;
     long double    I0EnMYAteM    =    632814456;
-    unsigned char    hY_4    =    -2031748766;
+    unsigned char    hY_4    =    (unsigned char)-2031748766;
 	short	b8afuwJ8H7	=	1665732488;
 	unsigned int	q96YP	=	-32105705;
     int    k852kayUkj    =    1095994839;
@@ -39,7 +39,7 @@ int main(int argc, char** argv) {
     unsigned int    b7uy    =    -1081052198;
  unsigned short int C9QZ0774u = (unsigned short)1138012818;
     long double    z5i3R    =    -148393670;
-  short  OV8R  =  36506757;
+  short  OV8R  =  (short)36506757;
     unsigned short int    AfDUnHvw5    =    -1014370692;
 	float	wu_3It8	=	2035578906;
   short int  rZQ07_  =  -1175415031;
@@ -52,7 +52,7 @@ int main(int argc, char** argv) {
   long double  vJYK_Jb  =  349981935;
 	unsigned long long	JL53UeUj	=	277485177;
     unsigned short int    jOYH_mN    =    (unsigned short)1513090085;
-	unsigned short int	V5Z_qPnehD	=	-1232812393;
+	unsigned short int	V5Z_qPnehD	=	(unsigned short)-1232812393;
  short Vm_21 = -1872181185;
  unsigned int X8HE = -378728721;
   long long  l6Fifixbr3  =  -1114022754;
@@ -65,7 +65,7 @@ int main(int argc, char** argv) {
     unsigned int    q0QOdv    =    -1529295042;
  double J1906d1E = 1240336705;
  unsigned char DQ53wLy6c = (unsigned char)-1848108185;
-	short int	yaFvh	=	-970703329;
+	short int	yaFvh	=	(short)-970703329;
   int  CsNXF  =  2128027777;
     int    aP78_jL4EH    =    -239899854;
   char  yyw8_YkisA  =  0;
@@ -85,7 +85,7 @@ int main(int argc, char** argv) {
 	long long	ey0S4C	=	-596470415;
 	char	iqsJ0gqKB4	=	(char)-822855743;
   unsigned int  DRpxFNz  =  2045722676;
-	unsigned char	oLJ0qT93O	=	1402905645;
+	unsigned char	oLJ0qT93O	=	(unsigned char)1402905645;
  unsigned long jL_vFfP = 147846185;
     unsigned short    skZY_L3_I    =    -1058359963;
 	double	G4XHUUi8	=	-1180808732;
@@ -250,7 +250,7 @@ for (int i = 0; i < 6; i++)
 {
 if (OV8R < -503142026)
 {
-std::cout << Pb3c((unsigned short)-1929610321, (unsigned short)1790459125, b8afuwJ8H7) << Pb3c(-1212537138, wMX424_, b8afuwJ8H7) << yNz5_Kw0c(YVFmR6w, 1361961714) << std::endl;
+std::cout << Pb3c((unsigned short)-1929610321, (unsigned short)1790459125, b8afuwJ8H7) << Pb3c((unsigned short)-1212537138, wMX424_, b8afuwJ8H7) << yNz5_Kw0c(YVFmR6w, 1361961714) << std::endl;
 }
 else
 {

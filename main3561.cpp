@@ -38,7 +38,7 @@ int main(int argc, char** argv) {
     unsigned short int    lqZ059U;
     lqZ059U    =    (unsigned short)-893819211;
   short  FNGXKXw3Hi;
-  FNGXKXw3Hi  =  -133210699;
+  FNGXKXw3Hi  =  (short)-133210699;
 	int	fGM_t;
 	fGM_t	=	303977076;
  long double My38dfjEz;
@@ -150,7 +150,7 @@ int main(int argc, char** argv) {
 	short	jk_vr7D;
 	jk_vr7D	=	(short)1923827867;
     unsigned short    X4ABK;
-    X4ABK    =    -1736330820;
+    X4ABK    =    (unsigned short)-1736330820;
     long    Q_a43770;
     Q_a43770    =    0;
 	char	s0mGk;
@@ -253,7 +253,7 @@ else
 {
 UU3Poq = yYeS18f((char)-462090781, (char)-1425284042);
 }
-X4ABK = x2gPzzO / yYeS18f(-69418956, UU3Poq);
+X4ABK = x2gPzzO / yYeS18f((char)-69418956, UU3Poq);
 {
 int i = 9;
 do
@@ -371,7 +371,7 @@ cp2kz9Qs0 = (int)abs(Lwes5B);
 }
 else
 {
-cout << yYeS18f((char)-1940061863, (char)1828117493) << irtE8ndGN << faSyumR4T(FNGXKXw3Hi, -1384510145, -1360569675, SX_uUpl) << "H4LbE" << endl;
+cout << yYeS18f((char)-1940061863, (char)1828117493) << irtE8ndGN << faSyumR4T(FNGXKXw3Hi, -1384510145, (short)-1360569675, SX_uUpl) << "H4LbE" << endl;
 }
 
 S88ZU5dq = faSyumR4T(S88ZU5dq, -330903809, HybWxV1G, BH4J);

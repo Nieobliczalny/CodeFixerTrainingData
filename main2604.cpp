@@ -34,7 +34,7 @@ if (fGOZ < -1408929842)
 {
 if ((QI0VkZ_) || ((DC1y) || (IRs63C != -1762500247)))
 {
-std::cout << "ncXnX6qXLF" << jtrw(E7IHXC8C, -918511376, qTM4tTo, -1501311586) << Juj_(-36417436, -57437355) << "R4oXO" << std::endl;
+std::cout << "ncXnX6qXLF" << jtrw(E7IHXC8C, (unsigned short)-918511376, qTM4tTo, -1501311586) << Juj_(-36417436, -57437355) << "R4oXO" << std::endl;
 }
 }
 else
@@ -55,7 +55,7 @@ j++;
 while (j < 9);
 }
 }
-std::cout << Juj_(lco94_, (unsigned char)-1432960412) << dxBAM_l << Juj_((short)-1761424825, -384254812) << E7IHXC8C << std::endl;
+std::cout << Juj_(lco94_, (unsigned char)-1432960412) << dxBAM_l << Juj_((short)-1761424825, (unsigned char)-384254812) << E7IHXC8C << std::endl;
 
 qTM4tTo = (int)ceil(kkU9_);
 std::cout << jtrw(-365346322, -1377812336, 36027383, ANeXa) << "xzB282kJ" << "N_6NXAOQQR" << std::endl;
@@ -239,7 +239,7 @@ QI0VkZ_ = Juj_((short)-455459471, IhOh2wqG0r);
 }
 else if (DC1y != 958950656)
 {
-NwH6n = jtrw(1805466329, (unsigned short)348255477, 1947399488, D9gDa);
+NwH6n = jtrw(1805466329, (unsigned short)348255477, (short)1947399488, D9gDa);
 }
 else
 {

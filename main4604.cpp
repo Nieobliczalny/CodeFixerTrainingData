@@ -16,7 +16,7 @@ int main() {
 	short	x6lU9VmO;
 	x6lU9VmO	=	(short)618502808;
     short    Y28Ftx061;
-    Y28Ftx061    =    1287577519;
+    Y28Ftx061    =    (short)1287577519;
 	unsigned char	OFEug8J;
 	OFEug8J	=	-2049900342;
     char    X7Tp;

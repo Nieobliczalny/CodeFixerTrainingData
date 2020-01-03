@@ -59,7 +59,7 @@ h3sj1 = Y5tFeYT9h(-1280966503, (short)-21645318);
 break;
 case 'b':
 case 'B':
-OHq1 = bUuNIb9((unsigned short)-239147771, -1941466155, r5ATpPr4, KOLn);
+OHq1 = bUuNIb9((unsigned short)-239147771, (unsigned short)-1941466155, r5ATpPr4, KOLn);
 break;
 case 'c':
 case 'C':

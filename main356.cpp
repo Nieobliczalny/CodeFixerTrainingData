@@ -83,7 +83,7 @@ case 2:
 wTy79 = RW67Vy2J5((short)1527969435, WnMxp4N6, n6_hfx2z7);
 break;
 case 3:
-k70649Q = xM3PQQ(k70649Q, 758003171);
+k70649Q = xM3PQQ(k70649Q, (short)758003171);
 break;
 case 4:
 oL82_cvW = (int)abs(kOf5_Xr8_);
@@ -165,7 +165,7 @@ case 6:
 jyQ4Rj = RW67Vy2J5(FC3404, (short)820775254, bV3b);
 break;
 default:
-f305 = E703Y(1875043274, -1919235537, 1606843219);
+f305 = E703Y((char)1875043274, -1919235537, 1606843219);
 break;
 }
 }
@@ -267,7 +267,7 @@ g03f86D3 = E703Y(g03f86D3, H9uq2m, -1286989849);
 }
 if (wTy79 == NNp_)
 {
-cout << RW67Vy2J5((short)-1589918294, (short)1498595753, jr3oOWdIw) << V651lo47() << wTy79 << x5C0 << E703Y(-465225568, -1346736038, jr3oOWdIw) << endl;
+cout << RW67Vy2J5((short)-1589918294, (short)1498595753, jr3oOWdIw) << V651lo47() << wTy79 << x5C0 << E703Y((char)-465225568, -1346736038, jr3oOWdIw) << endl;
 }
 
 {

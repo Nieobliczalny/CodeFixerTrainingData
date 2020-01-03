@@ -27,7 +27,7 @@ int main() {
 	unsigned long	ZrFIHt58j	=	915850896;
  unsigned long AYG5sj = 370731779;
  unsigned long R43R = 924477967;
-  unsigned char  fP7t_  =  2112312841;
+  unsigned char  fP7t_  =  (unsigned char)2112312841;
 	long double	F68Q	=	912371862;
 	double	Hql83_9	=	-1129140476;
  unsigned int C259GQX17z = 521073569;
@@ -38,7 +38,7 @@ int main() {
 	long	xcnJ	=	-50064747;
     long long    m__8A1d    =    1616697728;
   unsigned char  p7571zs  =  (unsigned char)-1498164276;
- unsigned short UY_K6 = -1070412645;
+ unsigned short UY_K6 = (unsigned short)-1070412645;
 
 D6cS2fz5 = (int)ceil(k80G7I5_);
 cout << R43R << "NuB16_IH8b" << Y90h2k8VpV << endl;

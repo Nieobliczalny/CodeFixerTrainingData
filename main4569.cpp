@@ -136,7 +136,7 @@ case 2:
 HTLu0lp5 = GtA_sE3(At45, (unsigned short)-600275304, -720952132);
 break;
 case 3:
-xRI6mU553s = nz0GFw(-960821257, 1065590050, zSVC1H6sRw);
+xRI6mU553s = nz0GFw((short)-960821257, 1065590050, zSVC1H6sRw);
 break;
 case 4:
 iya9_gU_c *= BtgFhOMN_x;
@@ -194,7 +194,7 @@ PRVY5E += tMaHx;
 }
 else if (s1eBUj_4 < Cct00cvY)
 {
-std::cout << "sye82oBR7" << nz0GFw(G_wu2V2zrc, (char)-491564928, -754861223) << nz0GFw((short)-931102529, -1804364544, NuNApF4aJ) << "fir02LU" << GtA_sE3(-525013316, 674407984, -180182630) << std::endl;
+std::cout << "sye82oBR7" << nz0GFw(G_wu2V2zrc, (char)-491564928, -754861223) << nz0GFw((short)-931102529, (char)-1804364544, NuNApF4aJ) << "fir02LU" << GtA_sE3(-525013316, 674407984, -180182630) << std::endl;
 }
 else
 {

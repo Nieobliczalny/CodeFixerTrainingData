@@ -55,7 +55,7 @@ D4qk2 = q2s9e(-441857924, (unsigned short)1641374305, (short)753143211, qt96Tu2o
 
 j3wCP = (int)floor(aSGUaoAcp);
 
-D4qk2 = q2s9e(w98SV, -1994896773, -1157275709, -273439243, 1462437555);
+D4qk2 = q2s9e(w98SV, (unsigned short)-1994896773, -1157275709, -273439243, 1462437555);
 
 if (W_gYt <= 1247312092)
 {
@@ -82,7 +82,7 @@ while (i < 3);
 int i = 0;
 do
 {
-T_Tp9 = q2s9e(1830207989, (unsigned short)799861144, 1974388255, 1980968871, 1953206102);
+T_Tp9 = q2s9e(1830207989, (unsigned short)799861144, (short)1974388255, 1980968871, 1953206102);
 ++i;
 }
 while (i < 5);
@@ -97,7 +97,7 @@ h1dLw /= eGB2v5g;
 }
 while (i < 8);
 }
-c09buCt = cf8r(c09buCt, (short)984632363, (short)-370888798, 1539715881, gMW7);
+c09buCt = cf8r(c09buCt, (short)984632363, (short)-370888798, (unsigned short)1539715881, gMW7);
 {
 int i = 0;
 while (i < 4)
@@ -110,7 +110,7 @@ DsBk *= 180478852;
 int i = 0;
 do
 {
-aSGUaoAcp = cf8r((unsigned short)1518148438, (short)-1755966404, 1535635404, gvv251MG, 2076751022);
+aSGUaoAcp = cf8r((unsigned short)1518148438, (short)-1755966404, (short)1535635404, gvv251MG, 2076751022);
 ++i;
 }
 while (i < 2);
@@ -150,7 +150,7 @@ try
 {
 if (h1dLw <= S7q3E77HT3)
 {
-qt96Tu2oM = cf8r((unsigned short)601174523, (short)-857943983, 1151683786, P6DJ5ai6_v, -1049457202);
+qt96Tu2oM = cf8r((unsigned short)601174523, (short)-857943983, (short)1151683786, P6DJ5ai6_v, -1049457202);
 }
 }
 catch (int& errorCode)
@@ -342,7 +342,7 @@ case 5:
 w98SV = cf8r(w98SV, W_gYt, (short)115562784, (unsigned short)1916688392, H1an);
 break;
 case 6:
-gvv251MG = cf8r(H1an, 1724396288, h1dLw, 1838946082, G457bqfR);
+gvv251MG = cf8r(H1an, (short)1724396288, h1dLw, 1838946082, G457bqfR);
 break;
 case 7:
 aiQ9XF = cf8r(623021039, DsBk, -780034826, -1326074842, -576928394);
@@ -386,7 +386,7 @@ while (k >= 0);
 std::cout << cf8r(fE7cfv, (short)-1779537409, (short)2825262, T_Tp9, G457bqfR) << std::endl;
 P6DJ5ai6_v = (int)abs(w98SV);
 
-HbW3hQl = q2s9e(-739048634, h1dLw, 1251170501, 1507341145, 1037000820);
+HbW3hQl = q2s9e(-739048634, h1dLw, (short)1251170501, 1507341145, 1037000820);
 if (HbW3hQl == H1an)
 {
 {

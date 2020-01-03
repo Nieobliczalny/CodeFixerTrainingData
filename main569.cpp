@@ -48,7 +48,7 @@ int main(void)
 	unsigned short int	I9S_LwlbbY;
 	I9S_LwlbbY	=	(unsigned short)-1957054491;
   short int  CRC_;
-  CRC_  =  1979043929;
+  CRC_  =  (short)1979043929;
 	int	UlV39UC0s;
 	UlV39UC0s	=	-2052838294;
   long long  Q3ups;
@@ -60,7 +60,7 @@ int main(void)
     unsigned short    c60iu142;
     c60iu142    =    (unsigned short)1832292837;
 	unsigned char	ytWB;
-	ytWB	=	256075078;
+	ytWB	=	(unsigned char)256075078;
 	double	L48z360;
 	L48z360	=	-1003867276;
  short int N9P791;
@@ -72,7 +72,7 @@ int main(void)
 	short int	tz53ocD;
 	tz53ocD	=	(short)1192506789;
 	unsigned char	edirV0;
-	edirV0	=	1126189721;
+	edirV0	=	(unsigned char)1126189721;
   unsigned short int  jMIr2rz;
   jMIr2rz  =  0;
 	int	kO1H34Oc;
@@ -106,7 +106,7 @@ int main(void)
 	unsigned long	YnOrev;
 	YnOrev	=	-1923789381;
 	char	n_0TKP_t;
-	n_0TKP_t	=	397552460;
+	n_0TKP_t	=	(char)397552460;
     unsigned char    U6Gf;
     U6Gf    =    (unsigned char)1888519905;
  char MGiCYAW;
@@ -116,7 +116,7 @@ int main(void)
   double  u08xi1T;
   u08xi1T  =  800045437;
     unsigned char    Ntp7kC;
-    Ntp7kC    =    -1554355580;
+    Ntp7kC    =    (unsigned char)-1554355580;
 	long	Qwp49Ep4;
 	Qwp49Ep4	=	544725542;
  int MqKQbbF;
@@ -490,7 +490,7 @@ case 4:
 Efm1U = QnKP0nq((unsigned short)1789712629, (char)-89586003, kO1H34Oc);
 break;
 case 5:
-O5fB1Z = M5AWo(867173532, aC90tmA);
+O5fB1Z = M5AWo((unsigned char)867173532, aC90tmA);
 break;
 case 6:
 QgF1_w14g = (int)floor(u08xi1T);
@@ -585,7 +585,7 @@ else
 switch (MqKQbbF)
 {
 case 0:
-ytWB = QnKP0nq((unsigned short)328146920, 490706687, N9P791);
+ytWB = QnKP0nq((unsigned short)328146920, (char)490706687, N9P791);
 break;
 case 1:
 u08xi1T = (int)floor(rmc2);
@@ -728,7 +728,7 @@ case 'b':
 lNVV = jX3VOg((short)-150530035, FUm99, S62NZCQB, PnH1s);
 break;
 case 'c':
-Fn3a = M5AWo(950350560, QgF1_w14g);
+Fn3a = M5AWo((unsigned char)950350560, QgF1_w14g);
 break;
 case 'd':
 Xo9fGg12h = (int)abs(q_rp92);

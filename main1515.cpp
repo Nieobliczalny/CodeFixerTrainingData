@@ -240,7 +240,7 @@ yPEAI0AA = SpPU5 * SpPU5;
 }
 
 gX1kh = W4k_MNt(1942125187, (unsigned short)935918473, yPEAI0AA);
-std::cout << WkM9bxy << W4k_MNt(WkM9bxy, -1897662846, yPEAI0AA) << SpPU5 << std::endl;
+std::cout << WkM9bxy << W4k_MNt(WkM9bxy, (unsigned short)-1897662846, yPEAI0AA) << SpPU5 << std::endl;
 switch (SpJ_)
 {
 case 'a':
@@ -283,7 +283,7 @@ case 5:
 SpPU5 = W4k_MNt(1776630796, (unsigned short)39968116, (unsigned short)1794129159);
 break;
 case 6:
-yPEAI0AA = W4k_MNt(yPEAI0AA, -1737687085, 366074287);
+yPEAI0AA = W4k_MNt(yPEAI0AA, (unsigned short)-1737687085, 366074287);
 break;
 case 7:
 yPEAI0AA = SpPU5 / 1761091176;
@@ -297,7 +297,7 @@ break;
 }
 gX1kh = (int)abs(WkM9bxy) + (-382256771);
 std::cout << W4k_MNt(SpPU5, (unsigned short)-1776359168, (unsigned short)729454025) << std::endl;
-gX1kh = W4k_MNt(Qq5QIaSrBK, 291670096, -1929968194);
+gX1kh = W4k_MNt(Qq5QIaSrBK, (unsigned short)291670096, -1929968194);
 
 {
 int i = 0;

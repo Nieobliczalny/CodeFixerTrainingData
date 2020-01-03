@@ -110,7 +110,7 @@ case 'b':
 Y2q_ |= 319831698;
 break;
 default:
-hzTNg = qPtxP_r(91523998);
+hzTNg = qPtxP_r((char)91523998);
 break;
 }
 }
@@ -136,7 +136,7 @@ case 5:
 NudSQ = l3VL_2_ ^ 1265274389;
 break;
 case 6:
-o2vP5J = Cy5Jc(o2vP5J, -1741702034, -1755168235, -256201163, XPK2UQ_);
+o2vP5J = Cy5Jc(o2vP5J, -1741702034, -1755168235, (unsigned char)-256201163, XPK2UQ_);
 break;
 case 7:
 N8BseJA0 = gKM_5 >> 161159726;
@@ -174,7 +174,7 @@ case 1:
 K6g85wcS_ = kKairA6ZN((unsigned short)-1743539965);
 break;
 case 2:
-lI54Im = A5km46bF(lI54Im, (char)303244691, 626138398, JVL79im);
+lI54Im = A5km46bF(lI54Im, (char)303244691, (unsigned short)626138398, JVL79im);
 break;
 case 3:
 Y2q_ = A5km46bF(Y2q_, z79n_S0, -39009326, 535667950);
@@ -251,7 +251,7 @@ case 3:
 Nab1 += 1062754896;
 break;
 case 4:
-l_ifJR = A5km46bF(l_ifJR, -1366807589, X4e_6Nj7, -921684186);
+l_ifJR = A5km46bF(l_ifJR, (char)-1366807589, X4e_6Nj7, -921684186);
 break;
 case 5:
 dziwUT6 *= G83x3g539Q;
@@ -263,7 +263,7 @@ case 7:
 KN7534q = kKairA6ZN(KN7534q);
 break;
 case 8:
-Y2q_ = A5km46bF(1477762547, kMEqc, -143953402, J43msmT16z);
+Y2q_ = A5km46bF(1477762547, kMEqc, (unsigned short)-143953402, J43msmT16z);
 break;
 case 9:
 zY_hx = zMdRLGoW / 1189938199;
@@ -318,7 +318,7 @@ G83x3g539Q = A5km46bF(G83x3g539Q, (char)853253713, kaU8_9, (unsigned char)-35074
 }
 else
 {
-hzTNg = qPtxP_r(1020567877);
+hzTNg = qPtxP_r((char)1020567877);
 }
 j--;
 }
@@ -415,7 +415,7 @@ else if (Y2q_ == iJcx)
 {
 if ((AY42tUoZ) || ((L2g_3_75 & XPK2UQ_) && (kN7MD >= imk6O74274)))
 {
-Z86daZa7 = A5km46bF(Z86daZa7, (char)-1180206640, (unsigned short)1315541651, -379833513);
+Z86daZa7 = A5km46bF(Z86daZa7, (char)-1180206640, (unsigned short)1315541651, (unsigned char)-379833513);
 }
 else if ((z79n_S0 < RXlFTa) && (Cvzcz3X6 != imk6O74274))
 {
@@ -529,7 +529,7 @@ case 'b':
 nf_HR = Cy5Jc((unsigned char)353497787, 598556673, 160768975, (unsigned char)1826333706, G83x3g539Q);
 break;
 case 'c':
-kaU8_9 = kKairA6ZN(-710075115);
+kaU8_9 = kKairA6ZN((unsigned short)-710075115);
 break;
 case 'd':
 J43msmT16z--;

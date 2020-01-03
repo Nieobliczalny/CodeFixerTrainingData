@@ -30,7 +30,7 @@ int main() {
 	long	I9JfC;
 	I9JfC	=	-309679395;
     unsigned char    YXBtcr0;
-    YXBtcr0    =    1825112168;
+    YXBtcr0    =    (unsigned char)1825112168;
 	unsigned short	ThLp4;
 	ThLp4	=	(unsigned short)810320008;
 	unsigned short	yZ2U;
@@ -52,7 +52,7 @@ int main() {
  float H0wL7c7_Ii;
  H0wL7c7_Ii = -1575027824;
 	unsigned short	kcfl;
-	kcfl	=	-1943499697;
+	kcfl	=	(unsigned short)-1943499697;
 	unsigned short int	AL1gzhpa;
 	AL1gzhpa	=	-1988055565;
 	long double	Z975;

@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
 	unsigned long long	K12p	=	0;
 	short int	Ah7mIn_	=	(short)-889979342;
 	unsigned short	Tcfn_	=	(unsigned short)1647559934;
- char Qqh8 = 119325310;
+ char Qqh8 = (char)119325310;
   double  B2dY5A  =  -2144036379;
     unsigned long    bdr_    =    -997812040;
 
@@ -88,7 +88,7 @@ case 'e':
 bdr_ = uiVT(748550047, 2089048096, Tcfn_, Ah7mIn_);
 break;
 case 'f':
-K12p = HKi4755((short)35087882, B2dY5A, (unsigned short)1395838283, 1921507981);
+K12p = HKi4755((short)35087882, B2dY5A, (unsigned short)1395838283, (unsigned short)1921507981);
 break;
 case 'g':
 Ah7mIn_ = (B2dY5A <= 414742175) ? Qqh8 : Qqh8;
@@ -100,7 +100,7 @@ break;
 }
 else
 {
-K12p = HKi4755((short)-2133793141, (unsigned char)950164743, Tcfn_, 172135568);
+K12p = HKi4755((short)-2133793141, (unsigned char)950164743, Tcfn_, (unsigned short)172135568);
 }
 }
 try
@@ -234,7 +234,7 @@ while (i >= 0);
 }
 try
 {
-K12p = HKi4755(B2dY5A, (unsigned char)123996344, (unsigned short)2057140802, -676655306);
+K12p = HKi4755(B2dY5A, (unsigned char)123996344, (unsigned short)2057140802, (unsigned short)-676655306);
 }
 catch (int& errorCode)
 {

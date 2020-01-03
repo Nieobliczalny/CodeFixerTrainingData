@@ -77,7 +77,7 @@ aacCzJE0_3 = v08i(2036547453, 613634881, -605537183, MBVGK);
 waJFq = M1iHRscv % 139823534;
 if (ow5u3J > -1413449498)
 {
-M1iHRscv = lPU5d4U((char)1195259926, 1993910545);
+M1iHRscv = lPU5d4U((char)1195259926, (short)1993910545);
 }
 
 cout << Fq494y(M1iHRscv, HTUhD2qn) / TSK3g3NL << endl;
@@ -139,7 +139,7 @@ IL3kbhP3 = (int)floor(W5ukJHVD);
 break;
 case 'e':
 case 'E':
-xyweldM77 = Fq494y((unsigned char)-580805197, -1701078388);
+xyweldM77 = Fq494y((unsigned char)-580805197, (unsigned short)-1701078388);
 break;
 }
 --j;
@@ -209,7 +209,7 @@ case 2:
 W5ukJHVD = (int)floor(HTUhD2qn);
 break;
 case 3:
-NL5W1F = lPU5d4U(NL5W1F, -1886245866);
+NL5W1F = lPU5d4U(NL5W1F, (short)-1886245866);
 break;
 case 4:
 HTUhD2qn = (int)ceil(B231Z6O_p6);

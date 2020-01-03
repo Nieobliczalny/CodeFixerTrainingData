@@ -368,7 +368,7 @@ l_02d = o2l47m(51357318, K_2nkb, (unsigned short)-627403091);
 }
 else
 {
-K_2nkb = Co7_gn(uL44eo6, 2045249461);
+K_2nkb = Co7_gn(uL44eo6, (unsigned char)2045249461);
 }
 }
 }
@@ -487,7 +487,7 @@ K_2nkb = Co7_gn(x9j9K8E, uL44eo6);
 break;
 case 'i':
 case 'I':
-K_2nkb = Co7_gn(l_02d, -1002196289);
+K_2nkb = Co7_gn(l_02d, (unsigned char)-1002196289);
 break;
 default:
 x9j9K8E |= 831370572;

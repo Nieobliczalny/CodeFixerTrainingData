@@ -52,7 +52,7 @@ int main(int argc, char** argv)
     char    P82N71;
     P82N71    =    (char)195726386;
 	unsigned short	HnHWB;
-	HnHWB	=	-388583251;
+	HnHWB	=	(unsigned short)-388583251;
     unsigned short int    y7XvDHa;
     y7XvDHa    =    665125989;
   short  exWh;
@@ -68,7 +68,7 @@ int main(int argc, char** argv)
   unsigned char  NGU814P5t3;
   NGU814P5t3  =  (unsigned char)-1901358347;
   short int  xJbt0b;
-  xJbt0b  =  -2129304317;
+  xJbt0b  =  (short)-2129304317;
  unsigned char M2lM21;
  M2lM21 = 1384852539;
   unsigned char  GiZyR7_7l;
@@ -80,7 +80,7 @@ int main(int argc, char** argv)
  long KBvP8U8f_;
  KBvP8U8f_ = -2108865366;
     short int    z1JBl;
-    z1JBl    =    2063488443;
+    z1JBl    =    (short)2063488443;
     unsigned long long    M08ojXQZr_;
     M08ojXQZr_    =    958042423;
  unsigned long long HUz6xY27f;

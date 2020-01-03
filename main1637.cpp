@@ -254,7 +254,7 @@ if ((xm_azEpdaF) || ((K4s_5o5 > 600919912) && (nNx2x1 != -1957867571)))
 int k = 10;
 while (k >= 0)
 {
-R46EK5 = LQ8u((char)1443110599, (char)-569566002, Fd0d0N3ww0, 1546842852);
+R46EK5 = LQ8u((char)1443110599, (char)-569566002, Fd0d0N3ww0, (unsigned short)1546842852);
 --k;
 }
 }

@@ -24,7 +24,7 @@ int main(int argc, char** argv)
 	unsigned short	eSnt	=	(unsigned short)-823944476;
   int  N_C878Rh  =  -240217013;
   int  n7C5Vu1  =  -791389828;
- unsigned char jpsiq_0 = -122791976;
+ unsigned char jpsiq_0 = (unsigned char)-122791976;
   unsigned int  LI_AjMg  =  -145829019;
 	double	I9MYyG	=	1745238287;
     unsigned char    OY1b996Rn    =    (unsigned char)-1613701516;
@@ -35,7 +35,7 @@ int main(int argc, char** argv)
     unsigned short int    iFq5QV0    =    -23858362;
     long    yIUmG    =    -1181387988;
     long    OR69_WIi_Q    =    -90499575;
-  char  znH2N64Wv  =  475734745;
+  char  znH2N64Wv  =  (char)475734745;
  long double Qj8rTW2lBF = -193207510;
 	int	jbukOkY1L	=	975431401;
 	long double	S3F58	=	1212956821;
@@ -50,7 +50,7 @@ int main(int argc, char** argv)
  unsigned short int nwpI9BDjt = (unsigned short)720015106;
     unsigned long long    gr_G9uN    =    412104584;
 	unsigned short	STGBD7T	=	(unsigned short)-407722758;
- short int HvAy = 1200460734;
+ short int HvAy = (short)1200460734;
     long    kg9y0RH    =    -810013360;
     unsigned long long    AdoF09zx0_    =    1284447128;
   int  rwEXZdL7  =  -1516898160;
@@ -61,7 +61,7 @@ int main(int argc, char** argv)
 	unsigned short	NLvmwdV_30	=	1706324894;
   short int  l2oA  =  (short)873138520;
 	long long	M180SAZyG9	=	-1250556856;
- unsigned char fCG9f7OZu = 183861290;
+ unsigned char fCG9f7OZu = (unsigned char)183861290;
  double aZoN84x995 = 787612467;
     unsigned int    YzJ_    =    -1393687718;
  float LJ55 = 772854187;
@@ -77,7 +77,7 @@ int main(int argc, char** argv)
   short  L7krZK  =  (short)-514514341;
  long tzD5zO7 = -1943730090;
   long  WM_4P  =  -63517508;
-  short int  Cp4T  =  -1815563129;
+  short int  Cp4T  =  (short)-1815563129;
 	unsigned int	LIijrh9U0	=	-298129760;
  float lx1O2ra = 1772924580;
     unsigned short    ZN42nzd    =    (unsigned short)1331928430;
@@ -87,7 +87,7 @@ int main(int argc, char** argv)
  short int NT8X8 = (short)-1118020935;
  unsigned long long nLbyAc = 1743842207;
   short  gg6Yl7  =  1116599531;
-  short  pqS92I5y7  =  -2129247835;
+  short  pqS92I5y7  =  (short)-2129247835;
  long AnksRXC = 1245694746;
 	char	D1skr0U5K	=	-465007096;
 

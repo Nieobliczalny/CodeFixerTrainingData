@@ -25,7 +25,7 @@ int main(void) {
 	unsigned int	JuFOTsz_	=	1833453207;
   long long  g9CFT  =  1757315603;
 	char	enS_	=	(char)-435549809;
-  short int  W3es91d  =  -1796906327;
+  short int  W3es91d  =  (short)-1796906327;
     float    Q7A5o    =    -2109482812;
     unsigned char    pvd8fVur    =    2011980927;
     char    h8iFlJ7    =    1341158443;
@@ -38,7 +38,7 @@ int main(void) {
  short int wzyTVP96 = (short)716730056;
  char JkVEl = (char)1851612791;
  unsigned int iX1Hfdhm = 602708241;
-    short int    HG5vlc5deN    =    -1351295543;
+    short int    HG5vlc5deN    =    (short)-1351295543;
   char  T0_Z5  =  -1070679930;
 	double	aN0p	=	-1812480398;
 	short int	W_T8l	=	0;
@@ -56,7 +56,7 @@ int main(void) {
   int  JT0F88  =  -857304145;
  unsigned long unjXHn = 2046418536;
  unsigned short yD36s = (unsigned short)-1441024424;
-  short int  QgO8Xlxzb_  =  919732552;
+  short int  QgO8Xlxzb_  =  (short)919732552;
   char  PK7RxZ  =  -1182610534;
     unsigned char    uo6x26    =    145772642;
   double  Oo1kx_  =  1559270427;
@@ -66,7 +66,7 @@ int main(void) {
 	char	xnR7	=	-1701625392;
  short k9fBcmf = 899173625;
     unsigned char    NRoVG76N_    =    (unsigned char)-1398985494;
- unsigned short int Q_q3V8c3q = -38254448;
+ unsigned short int Q_q3V8c3q = (unsigned short)-38254448;
   unsigned int  zrVEx  =  1379164850;
     double    Pp2AWjCk8    =    750102755;
   unsigned char  ksH7uZr7_  =  1830427883;
@@ -76,7 +76,7 @@ int main(void) {
     int    i2RzVzT    =    -1578619046;
     char    BgQ8    =    (char)125879491;
  unsigned short int GKg_Lv = (unsigned short)-611254792;
-    unsigned short    ri7qjA    =    -774695910;
+    unsigned short    ri7qjA    =    (unsigned short)-774695910;
 	long long	c96DbU6	=	1883251607;
   long  cahD  =  1238660879;
 	unsigned short int	hMhO9VUzR	=	-657473038;
@@ -87,7 +87,7 @@ int main(void) {
   long double  PP5r73bK  =  736344282;
     short    iaRYOqowBY    =    (short)-1314484025;
 	unsigned short int	V3z6Xt9ZV	=	(unsigned short)425345271;
-  unsigned char  ONFh0g97C  =  -223196722;
+  unsigned char  ONFh0g97C  =  (unsigned char)-223196722;
  short JKvgysD6 = -662992381;
 	short int	et9_Yxq	=	0;
 	char	liaLNp	=	17488810;

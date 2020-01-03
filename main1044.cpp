@@ -325,7 +325,7 @@ S0D8 = Rkq2(G0i8zfFQAg);
 }
 
 fGB93XDR = yvkV8V();
-std::cout << Km39W04m(1815387562, (unsigned char)-1305676939, (unsigned char)-1983461373, -768016550, 1128318022) << yvkV8V() << XLTac3x << bW38VN91 << std::endl;
+std::cout << Km39W04m(1815387562, (unsigned char)-1305676939, (unsigned char)-1983461373, (unsigned short)-768016550, 1128318022) << yvkV8V() << XLTac3x << bW38VN91 << std::endl;
 if (GEM_Wcrj == ChstFzK)
 {
 switch (rI11b9Gs3)

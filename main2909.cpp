@@ -23,7 +23,7 @@ unsigned long long YPhGd3q(unsigned char Ht1Rv)
 
 int main(void)
 {
- unsigned short int sru5lABcj = (unsigned short)-415570201, Kqyk1Ht = (unsigned short)-42719419, SvBpPsa = -458148046, F_FN55uCS = -1055524547;
+ unsigned short int sru5lABcj = (unsigned short)-415570201, Kqyk1Ht = (unsigned short)-42719419, SvBpPsa = (unsigned short)-458148046, F_FN55uCS = -1055524547;
  unsigned int LuD7 = 0, J5nc3lf3b_ = 0, RbMV = 0, L1X8s3 = 0;
 
 {
@@ -224,7 +224,7 @@ F_FN55uCS = j6Ji4(-544058494, (char)612785144);
 
 sru5lABcj -= 1089266181;
 
-std::cout << "C9Nk" << YPhGd3q((unsigned char)-1834390170) << YPhGd3q(-783047276) << SvBpPsa << std::endl;
+std::cout << "C9Nk" << YPhGd3q((unsigned char)-1834390170) << YPhGd3q((unsigned char)-783047276) << SvBpPsa << std::endl;
 if (((F_FN55uCS > 1477764747) && (F_FN55uCS < 270060197)) || ((SvBpPsa == 1306593380) || (Kqyk1Ht >= -1978236449)))
 {
 if (J5nc3lf3b_ != RbMV)
@@ -276,7 +276,7 @@ std::cout << j6Ji4(LuD7, (char)1714804663) << J5nc3lf3b_ << "tH_u" << std::endl;
 
 F_FN55uCS = (unsigned short int)(SvBpPsa);
 F_FN55uCS = L1X8s3 / J5nc3lf3b_;
-LuD7 = YPhGd3q(328497245);
+LuD7 = YPhGd3q((unsigned char)328497245);
 {
 int i = 1;
 while (i >= 0)

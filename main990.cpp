@@ -26,7 +26,7 @@ int main()
  unsigned char al0__;
  al0__ = (unsigned char)784380576;
  char o82PH8C9G;
- o82PH8C9G = 552857065;
+ o82PH8C9G = (char)552857065;
  unsigned long uOU9EgrBE;
  uOU9EgrBE = -455868431;
     unsigned int    gXh3;
@@ -70,7 +70,7 @@ int main()
 	float	Ad8VRbbq;
 	Ad8VRbbq	=	1933211863;
   short  p7TEWNQC;
-  p7TEWNQC  =  79058955;
+  p7TEWNQC  =  (short)79058955;
 	long double	AYb_W9sp0;
 	AYb_W9sp0	=	270758235;
 	unsigned int	iHnEITiW02;

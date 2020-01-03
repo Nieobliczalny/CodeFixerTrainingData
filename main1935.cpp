@@ -25,7 +25,7 @@ int main(int argc, char** argv) {
 	unsigned short int	V61G6;
 	V61G6	=	(unsigned short)900014549;
     unsigned short    F3q7DAdu9;
-    F3q7DAdu9    =    280399774;
+    F3q7DAdu9    =    (unsigned short)280399774;
  long te11LNt0;
  te11LNt0 = -213487686;
  long long p8VI7j3Di;
@@ -49,7 +49,7 @@ int main(int argc, char** argv) {
  unsigned long long N27_3FG;
  N27_3FG = -1722237399;
     unsigned short    zU_T7j;
-    zU_T7j    =    922948101;
+    zU_T7j    =    (unsigned short)922948101;
     unsigned char    D6D35b;
     D6D35b    =    (unsigned char)1257995097;
  char BEMADF6;
@@ -63,7 +63,7 @@ int main(int argc, char** argv) {
     unsigned short int    Jvk4lHjsWT;
     Jvk4lHjsWT    =    (unsigned short)-224070142;
     short int    bvX3R0oNdA;
-    bvX3R0oNdA    =    -389908048;
+    bvX3R0oNdA    =    (short)-389908048;
   unsigned int  wsQxd_;
   wsQxd_  =  -1872835882;
 	unsigned char	Y_8U8;
@@ -184,7 +184,7 @@ case 1:
 IjIN_ = t_H18V((unsigned char)1617653920, EBB1YHB5gM);
 break;
 case 2:
-S73lv89c8 = ZlW1vJxg(Am06, gBw5RCFNVo, qFJEnNb, 1777351854, 1784275631);
+S73lv89c8 = ZlW1vJxg(Am06, gBw5RCFNVo, qFJEnNb, (unsigned short)1777351854, 1784275631);
 break;
 case 3:
 Tg_0Ram++;
@@ -328,7 +328,7 @@ break;
 }
 }
 
-std::cout << p8VI7j3Di << "XXTI20o" << ZlW1vJxg(mvZUfG59j, oA3wjVA8io, lC8077_5qb, 1766672120, 1593566805) << QMhA << std::endl;
+std::cout << p8VI7j3Di << "XXTI20o" << ZlW1vJxg(mvZUfG59j, oA3wjVA8io, lC8077_5qb, (unsigned short)1766672120, 1593566805) << QMhA << std::endl;
 Tg_0Ram = (unsigned long long)(gogl);
 
 switch (kMHAj9_Z)

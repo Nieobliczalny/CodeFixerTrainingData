@@ -16,7 +16,7 @@ int main(int argc, char** argv)
   unsigned char  Ei84f_tUb3,  Y5Oh5QH,  AqBO,  kSb40w7T,  pEqA0Z9m,  ECKYhY,  xJDTo0Oe,  c0_c1W,  bq7o6iV5K,  I4QRo5,  eKx1vl,  oe22G4gOFB,  WVW1ev6nE0,  zqFQC5,  cCk7,  ighvYb5,  Pslh,  gul2J,  jzOOu,  OVeV1Ggjs,  ImFjSaf0zo,  a08hkv,  NoLp0EV,  qQsl4OVR7,  d07zxEbdY,  RC44_mDb_2,  ZN4DqTb_,  FMN8,  f_p_3,  l1aePlWDS,  OQMHMc1_b,  oa98r7H,  wz2z68,  UvWo7owed,  lrkl9Rk,  V65PhEh,  q8HI3_5P,  LkKt_,  M61d2U9N,  O_DWkq2_,  Q22Yu2g,  yR28o5,  t6QP3x0S,  A1N6,  K4Bb6568h2,  oYgYP75J_,  C67R13jP_,  me21r9K,  pip6ihV,  DI_uiW9,  rghJ;
   Ei84f_tUb3  =  (unsigned char)1378056543;
   Y5Oh5QH  =  (unsigned char)-1506859962;
-  AqBO  =  -1657541632;
+  AqBO  =  (unsigned char)-1657541632;
   kSb40w7T  =  -517066454;
   pEqA0Z9m  =  74168257;
   ECKYhY  =  -116873180;
@@ -26,7 +26,7 @@ int main(int argc, char** argv)
   I4QRo5  =  -224602575;
   eKx1vl  =  (unsigned char)-827439382;
   oe22G4gOFB  =  (unsigned char)-1357837084;
-  WVW1ev6nE0  =  850949526;
+  WVW1ev6nE0  =  (unsigned char)850949526;
   zqFQC5  =  1125201422;
   cCk7  =  -2008355200;
   ighvYb5  =  157872280;
@@ -36,7 +36,7 @@ int main(int argc, char** argv)
   OVeV1Ggjs  =  1552773534;
   ImFjSaf0zo  =  (unsigned char)-765628407;
   a08hkv  =  (unsigned char)-649599386;
-  NoLp0EV  =  1846172426;
+  NoLp0EV  =  (unsigned char)1846172426;
   qQsl4OVR7  =  -458615759;
   d07zxEbdY  =  -1808106690;
   RC44_mDb_2  =  -1889499664;
@@ -46,7 +46,7 @@ int main(int argc, char** argv)
   l1aePlWDS  =  -508053716;
   OQMHMc1_b  =  (unsigned char)-1126816897;
   oa98r7H  =  (unsigned char)-1337801243;
-  wz2z68  =  -48420923;
+  wz2z68  =  (unsigned char)-48420923;
   UvWo7owed  =  971699663;
   lrkl9Rk  =  -864256267;
   V65PhEh  =  -1300744872;
@@ -56,7 +56,7 @@ int main(int argc, char** argv)
   O_DWkq2_  =  -2018385769;
   Q22Yu2g  =  (unsigned char)-1203750564;
   yR28o5  =  (unsigned char)1297473779;
-  t6QP3x0S  =  168609641;
+  t6QP3x0S  =  (unsigned char)168609641;
   A1N6  =  -807119479;
   K4Bb6568h2  =  -654960672;
   oYgYP75J_  =  66433655;

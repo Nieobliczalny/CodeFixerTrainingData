@@ -32,7 +32,7 @@ int main(void)
     unsigned int    R8TonPR7rU    =    -68427586;
   long long  UlcQ_7eQM  =  1427480863;
     unsigned char    ou1m12vA8y    =    (unsigned char)498499572;
-  unsigned short int  t06nM00s5  =  31099403;
+  unsigned short int  t06nM00s5  =  (unsigned short)31099403;
     long    wKQAOn    =    1024654553;
 	int	QSk01	=	-73852022;
   short int  BB62rtf  =  -205537154;

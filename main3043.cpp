@@ -31,7 +31,7 @@ int main()
     unsigned long    col4BUhl    =    -125960325;
  unsigned long ejPk7m = -1259765360;
  long long ngA0 = -1786650400;
- unsigned short M1Q99_n = -521394916;
+ unsigned short M1Q99_n = (unsigned short)-521394916;
   short  rENfehjZ_y  =  (short)30724621;
     unsigned long long    twwL9W    =    1971063678;
     unsigned long long    SrO_rD48    =    2068310518;
@@ -48,7 +48,7 @@ int main()
 	long	aT20X30_	=	-249228719;
     unsigned short int    ys2W    =    (unsigned short)-1275716994;
   short  AlpA4z  =  (short)262446625;
- unsigned short as6bPQ73rn = 1603530525;
+ unsigned short as6bPQ73rn = (unsigned short)1603530525;
     unsigned char    CYARt60B    =    796430188;
  unsigned long long uIsr = -2101133306;
   unsigned short  DN8L3BE_6  =  -685019528;
@@ -145,7 +145,7 @@ jUw4 = HFDQGo_p(jUw4, jVb9mcw, 1013413706, (unsigned short)1311510111, (short)14
 int i = 8;
 while (i >= 0)
 {
-std::cout << HFDQGo_p(793949279, jVb9mcw, 319254998, YaZ9rW, d8M2kCCSz) << HFDQGo_p(jUw4, jVb9mcw, 1491009657, -1713194644, 664379236) << std::endl;
+std::cout << HFDQGo_p((unsigned short)793949279, jVb9mcw, 319254998, YaZ9rW, d8M2kCCSz) << HFDQGo_p(jUw4, jVb9mcw, 1491009657, -1713194644, 664379236) << std::endl;
 i--;
 }
 }
@@ -174,7 +174,7 @@ while (i >= 0);
 }
 DN8L3BE_6 *= Sy8tP520Je;
 
-Z65zkIahAv = RdGOAAvxnU / HFDQGo_p((unsigned short)-296286679, uEF3_, 1683344145, (unsigned short)1283219746, 1681307899);
+Z65zkIahAv = RdGOAAvxnU / HFDQGo_p((unsigned short)-296286679, uEF3_, 1683344145, (unsigned short)1283219746, (short)1681307899);
 
 for (int i = 4; i >= 0; i--)
 {
@@ -375,7 +375,7 @@ case 'd':
 YaZ9rW = HFDQGo_p((unsigned short)760132578, 1794356817, -1581298215, DIQg86u63Q, (short)-2037186820) % 658689268;
 break;
 case 'e':
-jUw4 = HFDQGo_p(YaZ9rW, H4n6H, Rnc5v44ZH9, -235257154, BUT33Al_V);
+jUw4 = HFDQGo_p(YaZ9rW, H4n6H, Rnc5v44ZH9, (unsigned short)-235257154, BUT33Al_V);
 break;
 case 'f':
 W4eF7 = (int)abs(YaZ9rW);
@@ -387,7 +387,7 @@ default:
 heAj8 = ejPk7m & 146685128;
 break;
 }
-jUw4 = HFDQGo_p((unsigned short)1557126015, 423849667, 765891600, (unsigned short)-409866531, 1836048428);
+jUw4 = HFDQGo_p((unsigned short)1557126015, 423849667, 765891600, (unsigned short)-409866531, (short)1836048428);
 return 0;
 }
 

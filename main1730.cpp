@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
 
 if (UtLW0g < -140432366)
 {
-r60g_ = tY79d47Y((char)-1954723428, -889528625, 1271958385);
+r60g_ = tY79d47Y((char)-1954723428, (char)-889528625, 1271958385);
 }
 else if (kxR5m00F == -578326660)
 {
@@ -110,7 +110,7 @@ std::cout << "C7092" << o764q << XV01pNp6W_ << "kPJpRni" << VJP2Bu2((unsigned sh
 }
 else if (ZqVinK)
 {
-brA_2f = (JN06 <= -621588010) ? tY79d47Y(-1159898126, il_VQNK9, -1831737860) : S6tCNh4R;
+brA_2f = (JN06 <= -621588010) ? tY79d47Y((char)-1159898126, il_VQNK9, -1831737860) : S6tCNh4R;
 }
 else
 {
@@ -157,7 +157,7 @@ while (i < 5)
 {
 try
 {
-W1rcvIOY = VJP2Bu2((unsigned short)2024058937, JN06, (unsigned short)1105668603, 29867444);
+W1rcvIOY = VJP2Bu2((unsigned short)2024058937, JN06, (unsigned short)1105668603, (char)29867444);
 }
 catch (int& errorCode)
 {
@@ -222,7 +222,7 @@ break;
 int i = 0;
 do
 {
-std::cout << "K42vXqBA28" << L2cLw3a861(1732733595, m3OK, (char)-1792846376) << VJP2Bu2(71741134, m3OK, ej1CX, 2090014026) << L2cLw3a861(ZqVinK, -1119650572, ej1CX) << std::endl;
+std::cout << "K42vXqBA28" << L2cLw3a861(1732733595, m3OK, (char)-1792846376) << VJP2Bu2((unsigned short)71741134, m3OK, ej1CX, 2090014026) << L2cLw3a861(ZqVinK, -1119650572, ej1CX) << std::endl;
 ++i;
 }
 while (i < 7);
@@ -433,7 +433,7 @@ oe4Hu2hS *= 158630444;
 break;
 case 'f':
 case 'F':
-oud7E = tY79d47Y((char)-607477926, 80975037, 1836906932) % 372541629;
+oud7E = tY79d47Y((char)-607477926, (char)80975037, 1836906932) % 372541629;
 break;
 case 'g':
 case 'G':

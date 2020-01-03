@@ -138,7 +138,7 @@ case 2:
 kSnhrALImu &= WH1z2;
 break;
 case 3:
-ZM95dXcL = G6U7nL2(ZM95dXcL, -538966881, rIwVxcJ238);
+ZM95dXcL = G6U7nL2(ZM95dXcL, (short)-538966881, rIwVxcJ238);
 break;
 case 4:
 evqc27T_ = C4766j(evqc27T_);
@@ -188,7 +188,7 @@ kSnhrALImu = C4766j((unsigned char)846398150);
 }
 else
 {
-sKtOJOO4 = Xu68(sKtOJOO4, (short)223248192, 1844603449, -1167607245, DRzf);
+sKtOJOO4 = Xu68(sKtOJOO4, (short)223248192, (short)1844603449, -1167607245, DRzf);
 }
 j--;
 }
@@ -340,7 +340,7 @@ else
 {
 std::cout << "xk18HXZ" << IPcJH22 << "PyPMh5IU81" << Xu68(yiAZ_2o, (short)1409127336, (short)1610260071, t0cXnb, evqc27T_) << std::endl;
 }
-std::cout << C4766j(yiAZ_2o) << Xu68(yiAZ_2o, 160720095, -1834171772, -1098476311, 1118254467) << "B9Nr" << Xu68(yiAZ_2o, -1153649965, -1386978633, -1618063849, -1645864529) << std::endl;
+std::cout << C4766j(yiAZ_2o) << Xu68(yiAZ_2o, (short)160720095, -1834171772, -1098476311, 1118254467) << "B9Nr" << Xu68(yiAZ_2o, -1153649965, -1386978633, -1618063849, -1645864529) << std::endl;
 
 if (kAg2dVUy0 < qh1jJUD_fq)
 {
@@ -657,7 +657,7 @@ F2o5wV = (int)abs(DRzf);
 break;
 case 'e':
 case 'E':
-uy15 = Xu68(-461794237, (short)1242690810, -328217395, Td_127b, -910038239);
+uy15 = Xu68(-461794237, (short)1242690810, (short)-328217395, Td_127b, -910038239);
 break;
 case 'f':
 case 'F':

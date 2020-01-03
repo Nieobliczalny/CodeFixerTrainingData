@@ -68,7 +68,7 @@ for (int i = 4; i >= 0; i--)
 switch (il89Z7yC)
 {
 case 0:
-bH4z1jQT = pP02zn_I((unsigned short)-1912614962, 1847401499, AYQG1JG2);
+bH4z1jQT = pP02zn_I((unsigned short)-1912614962, (unsigned short)1847401499, AYQG1JG2);
 break;
 case 1:
 fh620VX4nw *= 1492268545;
@@ -113,7 +113,7 @@ case 1:
 mNdQkCmx = ab1_P1((short)1233352803, (char)1950746720);
 break;
 case 2:
-fh620VX4nw = pP02zn_I(-275918954, 1526577368, -1481882678);
+fh620VX4nw = pP02zn_I((unsigned short)-275918954, 1526577368, -1481882678);
 break;
 case 3:
 bH4z1jQT = pP02zn_I(bH4z1jQT, -1352929231, qkVQ);
@@ -166,7 +166,7 @@ case 5:
 AYQG1JG2 = ab1_P1((short)1261189405, fh620VX4nw);
 break;
 case 6:
-Mc9KzS = ab1_P1((short)93816757, 2032161433);
+Mc9KzS = ab1_P1((short)93816757, (char)2032161433);
 break;
 case 7:
 Mc9KzS = (int)abs(qkVQ);

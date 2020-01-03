@@ -23,7 +23,7 @@ int main(void) {
   unsigned long long  C6D8  =  0;
  unsigned short PWyxiVTzK0 = (unsigned short)527699135;
  unsigned char h5tdD = (unsigned char)1007287603;
-	unsigned short int	kpadR	=	-1600109417;
+	unsigned short int	kpadR	=	(unsigned short)-1600109417;
  long long h1zZ0 = -1425295963;
 	long long	jjC5	=	1229769722;
 	unsigned short	Of4SC6wzVU	=	-2040282350;
@@ -76,7 +76,7 @@ bqH7GJ1A = (int)floor(I473y);
 }
 else if ((Of4SC6wzVU > -1753930261) && (C6D8 > lZnTPa5B2o))
 {
-C6D8 = TUAASZ95(YnTo, C6D8, 1652085983, (char)-2072714982, -1868809232);
+C6D8 = TUAASZ95(YnTo, C6D8, 1652085983, (char)-2072714982, (char)-1868809232);
 }
 else if (VZ31 != K53l3Omf)
 {
@@ -112,7 +112,7 @@ if (Of4SC6wzVU & -2068613283)
 {
 try
 {
-C6D8 = TUAASZ95((short)-978556713, (unsigned short)-1812955396, bqH7GJ1A, -1787657897, EP8OkJ1P1k);
+C6D8 = TUAASZ95((short)-978556713, (unsigned short)-1812955396, bqH7GJ1A, (char)-1787657897, EP8OkJ1P1k);
 }
 catch (int& errorCode)
 {
@@ -148,7 +148,7 @@ case 7:
 YnTo = (int)floor(I473y);
 break;
 case 8:
-C6D8 = TUAASZ95((short)1407251793, 318010420, rocF0i, W1G6zBMg, 1325922438);
+C6D8 = TUAASZ95((short)1407251793, (unsigned short)318010420, rocF0i, W1G6zBMg, 1325922438);
 break;
 case 9:
 h1zZ0 = (int)abs(lZnTPa5B2o);
@@ -223,7 +223,7 @@ I473y = (int)floor(rocF0i);
 }
 }
 h5tdD = W_j5wy(h5tdD, I473y);
-Of4SC6wzVU = PWyxiVTzK0 / TUAASZ95((short)-87237417, (unsigned short)1918191693, 1253293459, kpadR, 664062121);
+Of4SC6wzVU = PWyxiVTzK0 / TUAASZ95((short)-87237417, (unsigned short)1918191693, 1253293459, kpadR, (char)664062121);
 switch (PWyxiVTzK0)
 {
 case 'a':
@@ -245,7 +245,7 @@ case 'f':
 rocF0i = (int)ceil(bqH7GJ1A);
 break;
 default:
-C6D8 = TUAASZ95(C6D8, (unsigned short)1382186298, -902081248, (char)-230296837, -1092983232);
+C6D8 = TUAASZ95(C6D8, (unsigned short)1382186298, -902081248, (char)-230296837, (char)-1092983232);
 break;
 }
 if ((C6D8 <= 1086310327) || (Y5XN & 1438751929))
@@ -280,7 +280,7 @@ C6D8 = TUAASZ95((short)1564397048, (unsigned short)-1868812923, jjC5, h5tdD, h1z
 }
 else
 {
-Y5XN = ZRx3pW(-848616420);
+Y5XN = ZRx3pW((unsigned char)-848616420);
 }
 ++j;
 }

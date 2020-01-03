@@ -32,7 +32,7 @@ int main(int argc, char** argv)
     unsigned short int    y6QN_jl02,    r91rDdt,    AS2HQ5LE8m,    AKa8,    aVcg9gdT87,    I_32StPN,    KFL4CL,    P521,    E7qv_s3,    u4Y1JCna,    jrdJ89W_11,    MucL7p,    DUwF6;
     y6QN_jl02    =    (unsigned short)1426569688;
     r91rDdt    =    (unsigned short)274228330;
-    AS2HQ5LE8m    =    -1081136479;
+    AS2HQ5LE8m    =    (unsigned short)-1081136479;
     AKa8    =    -516809016;
     aVcg9gdT87    =    708558889;
     I_32StPN    =    -798214184;
@@ -42,7 +42,7 @@ int main(int argc, char** argv)
     u4Y1JCna    =    -1373793420;
     jrdJ89W_11    =    (unsigned short)-1644260035;
     MucL7p    =    (unsigned short)-767095438;
-    DUwF6    =    -1493921423;
+    DUwF6    =    (unsigned short)-1493921423;
 
 jUuT_yN = (unsigned char)(Hx_2);
 std::cout << MucL7p / qBJK0(y6QN_jl02) << std::endl;

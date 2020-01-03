@@ -61,7 +61,7 @@ int main(int argc, char** argv) {
 	short int	oF75JE9;
 	oF75JE9	=	(short)-1303127269;
  unsigned char Lsi8CPT_04;
- Lsi8CPT_04 = -55507059;
+ Lsi8CPT_04 = (unsigned char)-55507059;
  long double p0NO0UZX;
  p0NO0UZX = -672221366;
   unsigned short int  N_fe948;
@@ -71,7 +71,7 @@ int main(int argc, char** argv) {
 int i = 0;
 do
 {
-Pz94E = WKb6u((unsigned char)-1929815242, oF75JE9, -1432929500, N_fe948, 955794682);
+Pz94E = WKb6u((unsigned char)-1929815242, oF75JE9, (unsigned char)-1432929500, N_fe948, 955794682);
 ++i;
 }
 while (i < 3);
@@ -98,7 +98,7 @@ case 3:
 z9mr1x = s7286uSR4B();
 break;
 case 4:
-I7MomU = WKb6u((unsigned char)-1384501717, 1925416250, (unsigned char)-423557712, -1080166467, 1633995230);
+I7MomU = WKb6u((unsigned char)-1384501717, 1925416250, (unsigned char)-423557712, (short)-1080166467, 1633995230);
 break;
 case 5:
 Pz94E = (int)floor(Ol51);

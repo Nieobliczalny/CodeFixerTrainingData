@@ -205,7 +205,7 @@ dJB1W2 = (int)abs(a8537b6O);
 }
 else
 {
-qqV_23IWOW = EYayxXFq(1831375757);
+qqV_23IWOW = EYayxXFq((unsigned short)1831375757);
 }
 
 std::cout << M7ldI4KpsN(bfRYnN98) << aYL3B1ljP(bfRYnN98, B_V2u7O7, pZ2zF, 1680805542) << w8_27JA << std::endl;
@@ -290,7 +290,7 @@ break;
 }
 else
 {
-m0f7c_K1A6 = EYayxXFq(-1170908351);
+m0f7c_K1A6 = EYayxXFq((unsigned short)-1170908351);
 }
 try
 {

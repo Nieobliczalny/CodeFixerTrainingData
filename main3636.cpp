@@ -29,7 +29,7 @@ int main(int argc, char** argv) {
   unsigned short int  jAHY_  =  0;
     char    B8ETbF    =    (char)1004422830;
     unsigned int    wSLvp    =    461059873;
-	short	eWZX14XK	=	-1201505185;
+	short	eWZX14XK	=	(short)-1201505185;
   unsigned char  fm4L  =  0;
 
 if (G3094_A & -1952159864)
@@ -371,7 +371,7 @@ unsigned short AEcTO6(char vjC4,unsigned int Bs8qwZDR,long long t8Z3Y,unsigned l
 
 unsigned short int ceEN0jtx0(char fB0dd9f)
 {
- return -501462717;
+ return (unsigned short)-501462717;
 }
 
 unsigned long long	RBNDH1ss(unsigned short	Zr8tnqt3)

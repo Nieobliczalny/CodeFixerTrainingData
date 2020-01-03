@@ -36,7 +36,7 @@ int main(void) {
  unsigned short MS8D;
  MS8D = (unsigned short)-560846739;
     unsigned short    KwX5bB88dK;
-    KwX5bB88dK    =    -1153635392;
+    KwX5bB88dK    =    (unsigned short)-1153635392;
     long long    YqvLC3jISj;
     YqvLC3jISj    =    1599423656;
     long double    fW449;
@@ -46,7 +46,7 @@ int main(void) {
     short int    aIP3;
     aIP3    =    (short)-1287338893;
   char  VAi96;
-  VAi96  =  -1296129741;
+  VAi96  =  (char)-1296129741;
   float  HwsNw;
   HwsNw  =  -965464710;
     unsigned char    Gkp937;
@@ -66,7 +66,7 @@ int main(void) {
   unsigned short  mJQ1W;
   mJQ1W  =  (unsigned short)-2051210989;
   unsigned char  q83fxZYT6I;
-  q83fxZYT6I  =  -1130194335;
+  q83fxZYT6I  =  (unsigned char)-1130194335;
  char cz5hQa_8;
  cz5hQa_8 = (char)841913713;
  char l83V26ev0;
@@ -169,7 +169,7 @@ else
 switch (l83V26ev0)
 {
 case 0:
-IAcItxB7I = R5El_8(1857507615, ABjw848, 1933324292);
+IAcItxB7I = R5El_8(1857507615, ABjw848, (short)1933324292);
 break;
 case 1:
 tDKp = R5El_8(tDKp, FMml9l, k5DbAE);
@@ -184,7 +184,7 @@ case 4:
 fW449 = (int)ceil(TdfK1);
 break;
 case 5:
-FMml9l = R5El_8(2045535489, (unsigned char)-759019605, -33011078);
+FMml9l = R5El_8(2045535489, (unsigned char)-759019605, (short)-33011078);
 break;
 case 6:
 TdfK1 = (int)abs(YqvLC3jISj);

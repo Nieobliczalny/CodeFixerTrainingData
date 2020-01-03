@@ -69,7 +69,7 @@ ik5iVN90N4 = cE_4X3_N(RG0pD, -1424246723, VA_J, (unsigned short)-97655473);
 }
 else if (tBAMz6 != 295770454)
 {
-VA_J = r1LUNMET_(-1464170052, t8__G7e, (unsigned short)-1292880284, -1574703855, 695844191);
+VA_J = r1LUNMET_(-1464170052, t8__G7e, (unsigned short)-1292880284, -1574703855, (short)695844191);
 }
 else if (T36l7j2s_z <= 854081528)
 {

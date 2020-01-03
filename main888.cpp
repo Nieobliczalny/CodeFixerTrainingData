@@ -333,7 +333,7 @@ std::cout << "H9SKL" << "uvh792H" << HAw60qi << std::endl;
 switch (yMOYBD6sNF)
 {
 case 0:
-GN3B70Oe_ = Lpl_JF9Bc(HAw60qi, -1761672201, (short)319425530, -2106211963);
+GN3B70Oe_ = Lpl_JF9Bc(HAw60qi, -1761672201, (short)319425530, (short)-2106211963);
 break;
 case 1:
 t954 = RBPK864(-1381173850, sa32_9w_9f, FooyI);
@@ -397,7 +397,7 @@ switch (GkiD_3D)
 {
 case 'a':
 case 'A':
-W3X6T7MueC = Hrjk2FX5Cn(-1839826870, -2082584477, -58798611, KweN66Z788);
+W3X6T7MueC = Hrjk2FX5Cn(-1839826870, (short)-2082584477, -58798611, KweN66Z788);
 break;
 case 'b':
 case 'B':
@@ -580,7 +580,7 @@ br_U3_YOhK = h7MLn2j(1518141125, d8Y5VDW3ZH, (unsigned short)-275058442, fK4_C);
 break;
 case 'i':
 case 'I':
-nY9Qn = h7MLn2j(nY9Qn, 1710391172, 469413693, P64lD);
+nY9Qn = h7MLn2j(nY9Qn, 1710391172, (unsigned short)469413693, P64lD);
 break;
 case 'j':
 case 'J':
@@ -648,6 +648,6 @@ char    Hrjk2FX5Cn(unsigned int    uZI7W9,short int    tSDLM3s,unsigned long lon
 }
 
 unsigned char	h7MLn2j(unsigned long	rgjyyp,unsigned int	d83xiv,unsigned short	jua_6GoFAi,int	cI8R9urM6)	{
-	return	231907303;
+	return	(unsigned char)231907303;
 }
 

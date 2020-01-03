@@ -76,7 +76,7 @@ case 'h':
 A2pC = Lv3l((unsigned short)302578729, ZM2G);
 break;
 default:
-S_5NmM_hH = Lv3l((unsigned short)-373666518, -1921864955);
+S_5NmM_hH = Lv3l((unsigned short)-373666518, (short)-1921864955);
 break;
 }
 }
@@ -580,7 +580,7 @@ case 'b':
 S6LCWq463 = nRLT((char)303576621, (short)-1824062797, -2133566726);
 break;
 case 'c':
-S_5NmM_hH = YcwduNpxI6(970174249);
+S_5NmM_hH = YcwduNpxI6((short)970174249);
 break;
 case 'd':
 wfC5_ -= wfC5_;

@@ -26,7 +26,7 @@ int main(void)
     unsigned char    LD1fD0N;
     LD1fD0N    =    (unsigned char)1163452864;
     unsigned short int    ONijn1_;
-    ONijn1_    =    1176507240;
+    ONijn1_    =    (unsigned short)1176507240;
     float    R3oX_C;
     R3oX_C    =    -1280131411;
   long  Ra5JRbaa_;
@@ -38,7 +38,7 @@ int main(void)
 	char	i9x99;
 	i9x99	=	(char)-1012199373;
  short ke76bo9;
- ke76bo9 = 1590333100;
+ ke76bo9 = (short)1590333100;
 	unsigned short	oDIf;
 	oDIf	=	394557420;
     int    c6gJ9L5m;
@@ -100,7 +100,7 @@ int main(void)
 	unsigned long long	PNv7NT;
 	PNv7NT	=	-567309879;
     unsigned char    RPZ5P2b;
-    RPZ5P2b    =    1352516198;
+    RPZ5P2b    =    (unsigned char)1352516198;
   unsigned long  KR31V;
   KR31V  =  349061603;
   unsigned long  vjT5yCCxVL;
@@ -160,7 +160,7 @@ int main(void)
   unsigned short int  FXD3sl;
   FXD3sl  =  (unsigned short)-1538595539;
     char    oq808h9uA;
-    oq808h9uA    =    523128374;
+    oq808h9uA    =    (char)523128374;
 	short	m4I9VPs1;
 	m4I9VPs1	=	2088241466;
   unsigned short  j0Z7;

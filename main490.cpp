@@ -29,7 +29,7 @@ int main(void)
   unsigned long long  BXt2GoXrx6;
   BXt2GoXrx6  =  1551440067;
 	char	HQ8dlz8;
-	HQ8dlz8	=	-1810778573;
+	HQ8dlz8	=	(char)-1810778573;
     double    EWa0G53G;
     EWa0G53G    =    271179240;
     unsigned int    F_8_YeK2QP;
@@ -116,7 +116,7 @@ while (i < 2)
 {
 if ((Yp_IQt != -1400114480) && (ZeX16sht & -655875223))
 {
-cout << "azOY992jGv" << OBXiu4(n9v5djp, 1960685786, (unsigned char)-2004653985, EWa0G53G, -2014975562) << endl;
+cout << "azOY992jGv" << OBXiu4(n9v5djp, 1960685786, (unsigned char)-2004653985, EWa0G53G, (unsigned short)-2014975562) << endl;
 }
 else
 {
@@ -195,7 +195,7 @@ while (i < 2)
 {
 try
 {
-cout << "ofLZO6C9NV" << yEh_ << cs79w(xE6NKZ3, 1571687557, H5_wpwp, 1676010339, -470018235) << "zBtkyN" << "XKtj0We" << endl;
+cout << "ofLZO6C9NV" << yEh_ << cs79w(xE6NKZ3, 1571687557, H5_wpwp, 1676010339, (char)-470018235) << "zBtkyN" << "XKtj0We" << endl;
 }
 catch (int& errorCode)
 {
@@ -251,7 +251,7 @@ Z_03_ = OBXiu4(1558186108, Z_03_, (unsigned char)-752852744, BXt2GoXrx6, (unsign
 }
 else
 {
-A71l4 = OBXiu4(12684417, EZB_P, xE6NKZ3, -659151481, -536804019);
+A71l4 = OBXiu4(12684417, EZB_P, xE6NKZ3, -659151481, (unsigned short)-536804019);
 }
 }
 i--;
@@ -316,7 +316,7 @@ A71l4 = OBXiu4(1317639910, ry6dQKrGd3, (unsigned char)-179737190, F_8_YeK2QP, (u
 break;
 case 'b':
 case 'B':
-Z_03_ = OBXiu4(1517306618, mGZq_, ZeX16sht, 1077973489, -580194379);
+Z_03_ = OBXiu4(1517306618, mGZq_, ZeX16sht, 1077973489, (unsigned short)-580194379);
 break;
 }
 yEh_ = N10_QfE << dmM2;

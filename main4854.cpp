@@ -211,7 +211,7 @@ R5Nc1c2ZA = npXM1_5_(2016993532, EFnSDQm);
 }
 else
 {
-VM9C = Bwa7Snsi((char)552050134, 1931543108, (short)1723799833, 792814351, nRSUT6z2);
+VM9C = Bwa7Snsi((char)552050134, 1931543108, (short)1723799833, (unsigned char)792814351, nRSUT6z2);
 }
 }
 catch (int& errorCode)

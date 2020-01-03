@@ -78,7 +78,7 @@ case 5:
 GfRe1mahvt /= 651303182;
 break;
 case 6:
-I5YctTC = b2y_q_((unsigned short)1862294577, -1870348433, -1178996782);
+I5YctTC = b2y_q_((unsigned short)1862294577, -1870348433, (unsigned char)-1178996782);
 break;
 default:
 d5XE = D77jACuv1 % YV_i9z;
@@ -262,7 +262,7 @@ case 'c':
 l17vL = p4z4Bn ^ H1TtS;
 break;
 default:
-xY2E8A = b2y_q_(yAT0yu, -1165380368, -400554736);
+xY2E8A = b2y_q_(yAT0yu, -1165380368, (unsigned char)-400554736);
 break;
 }
 if (sr_AW05 <= xY2E8A)

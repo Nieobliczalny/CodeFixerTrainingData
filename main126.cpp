@@ -18,7 +18,7 @@ int main(void) {
  char H781w3_Eh = 181925921, VE25u = -926816656, D8Lf = 1332422228, E8g5 = 246133906, hC485XQW = 485735826, wB19_ue8 = 1511796682, I3bbd = 905827592;
  unsigned short S5w3H9A7 = 0, ac5h68n = 0, iCpN9N = 0, DuLGQg5A = 0;
 
-cout << NQ_4479l6((unsigned short)1984172349, VE25u, D8Lf) << NQ_4479l6(-1731953643, 632261536, 815773262) << NQ_4479l6(H781w3_Eh, VE25u, D8Lf) << "V3_KS0y9" << "SUMJUcA8bj" << endl;
+cout << NQ_4479l6((unsigned short)1984172349, VE25u, D8Lf) << NQ_4479l6((unsigned short)-1731953643, 632261536, 815773262) << NQ_4479l6(H781w3_Eh, VE25u, D8Lf) << "V3_KS0y9" << "SUMJUcA8bj" << endl;
 
 switch (E8g5)
 {
@@ -57,7 +57,7 @@ case 2:
 hC485XQW >>= 1205524853;
 break;
 case 3:
-iCpN9N = NQ_4479l6(wB19_ue8, -1797857295, DuLGQg5A);
+iCpN9N = NQ_4479l6(wB19_ue8, (unsigned short)-1797857295, DuLGQg5A);
 break;
 case 4:
 VE25u = (int)abs(I3bbd);
@@ -69,7 +69,7 @@ case 6:
 H781w3_Eh = NQ_4479l6((unsigned short)1124775228, (unsigned short)-1822029802, 4313846) + iCpN9N;
 break;
 case 7:
-ac5h68n = NQ_4479l6(ac5h68n, -1382376948, E8g5);
+ac5h68n = NQ_4479l6(ac5h68n, (unsigned short)-1382376948, E8g5);
 break;
 case 8:
 hC485XQW = I3bbd - wB19_ue8;

@@ -205,7 +205,7 @@ h9_9ma6zLu = pXI2((unsigned short)40952673);
 break;
 case 'f':
 case 'F':
-XJ71x = en7inbCw8((short)-1492610375, FG6GI, 339605485, AT09);
+XJ71x = en7inbCw8((short)-1492610375, FG6GI, (unsigned short)339605485, AT09);
 break;
 case 'g':
 case 'G':

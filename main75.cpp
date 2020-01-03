@@ -62,7 +62,7 @@ int main(void)
     unsigned char    sw6JD1uyHn;
     sw6JD1uyHn    =    (unsigned char)-583405686;
 	short	Y6JGxj;
-	Y6JGxj	=	1512225541;
+	Y6JGxj	=	(short)1512225541;
   unsigned char  yFWo52;
   yFWo52  =  1754428137;
 	long	G9L1;
@@ -100,7 +100,7 @@ int main(void)
     char    Xy0F5Prz;
     Xy0F5Prz    =    0;
     unsigned char    Ens0_iHn_n;
-    Ens0_iHn_n    =    1519003853;
+    Ens0_iHn_n    =    (unsigned char)1519003853;
     unsigned short    UkjUeV;
     UkjUeV    =    -379720797;
 	long long	HZix;
@@ -136,7 +136,7 @@ int main(void)
 	short int	Kre32__;
 	Kre32__	=	(short)-1747194857;
  short clTH4;
- clTH4 = -1585097096;
+ clTH4 = (short)-1585097096;
     long    yU1QJQ4fN;
     yU1QJQ4fN    =    275373621;
   short int  Zv5OYW67Lx;
@@ -146,7 +146,7 @@ int main(void)
 	unsigned short	j4H6h;
 	j4H6h	=	(unsigned short)-691802748;
   char  au4DHA6j;
-  au4DHA6j  =  -1742996048;
+  au4DHA6j  =  (char)-1742996048;
 	long double	N1nYHJ_;
 	N1nYHJ_	=	-1803248473;
     unsigned long long    t07_1_2_;
@@ -168,7 +168,7 @@ int main(void)
   long long  yJ5t;
   yJ5t  =  -1409120578;
  char oR1O;
- oR1O = 728410386;
+ oR1O = (char)728410386;
  char dS0d954LyA;
  dS0d954LyA = -203217937;
 	unsigned int	gShFNJ;
@@ -201,7 +201,7 @@ kVtWH = zaL_((unsigned short)-1740235085, ZcrDMd, -2141122056, (short)1490091063
 }
 }
 
-Xy0F5Prz = zaL_(691927877, AJ__GxnM, GuIg7Sw, 731989129, XhO1);
+Xy0F5Prz = zaL_((unsigned short)691927877, AJ__GxnM, GuIg7Sw, 731989129, XhO1);
 N1nYHJ_ = (long double)(Kre32__);
 
 if (A4m503Cu > uBmhL44cT)
@@ -309,7 +309,7 @@ case 5:
 VrqE0uv = (int)abs(GuIg7Sw);
 break;
 case 6:
-eVKXy2QQ = dZkg((unsigned short)951957046, -1224952535);
+eVKXy2QQ = dZkg((unsigned short)951957046, (char)-1224952535);
 break;
 case 7:
 Xy0F5Prz = (int)abs(Y6JGxj) * 0;
@@ -351,7 +351,7 @@ else if ((LHGW9_3 < G9L1) && ((O1bT1xO07) && (nP_XJhhhU)))
 {
 try
 {
-So2nn6RxVX = ae8h(So2nn6RxVX, B1QxP, (unsigned short)-657749750, pfKrWw, -1416198246);
+So2nn6RxVX = ae8h(So2nn6RxVX, B1QxP, (unsigned short)-657749750, pfKrWw, (short)-1416198246);
 }
 catch (int& errorCode)
 {
@@ -364,7 +364,7 @@ sdVvS = dZkg(sdVvS, (char)-11300573);
 }
 else if ((yJ5t >= E1G8DwI) || ((Y6JGxj != HBt4v9yj) && (Motq319 == yU1QJQ4fN)))
 {
-std::cout << kVa_rL_((unsigned short)-1741813857, 970360292, Kre32__, WOKu8B) << std::endl;
+std::cout << kVa_rL_((unsigned short)-1741813857, (short)970360292, Kre32__, WOKu8B) << std::endl;
 }
 else if (DFMggw < -1200998999)
 {
@@ -495,7 +495,7 @@ case 1:
 E1G8DwI = ae8h(E1G8DwI, oR1O, TeR_WM, k44J1, (short)13804572);
 break;
 case 2:
-AJ__GxnM = ae8h(AJ__GxnM, y1tFX, (unsigned short)40997959, -1743883570, ixZgwd4f);
+AJ__GxnM = ae8h(AJ__GxnM, y1tFX, (unsigned short)40997959, (unsigned short)-1743883570, ixZgwd4f);
 break;
 case 3:
 uNc8Jo6 = (int)abs(y1tFX);
@@ -510,7 +510,7 @@ case 6:
 O1bT1xO07 = (int)ceil(J4bb);
 break;
 case 7:
-Kre32__ = (sd9miZ4 < Ly8e9N7) ? (short)-215636095 : ae8h((unsigned char)-1483982383, E1G8DwI, 1058051390, pfKrWw, 490956717);
+Kre32__ = (sd9miZ4 < Ly8e9N7) ? (short)-215636095 : ae8h((unsigned char)-1483982383, E1G8DwI, (unsigned short)1058051390, pfKrWw, 490956717);
 break;
 default:
 UkjUeV = kVa_rL_(UkjUeV, dYem9K5T9, XhO1, -1738229325);
@@ -578,7 +578,7 @@ else if (Qs2tOTeR == Ly8e9N7)
 switch (A4m503Cu)
 {
 case 0:
-Nxt8l4 = dZkg(1173919409, -47291093);
+Nxt8l4 = dZkg((unsigned short)1173919409, -47291093);
 break;
 case 1:
 SX8_xoH = (int)ceil(clL3jZz);
@@ -777,7 +777,7 @@ case 0:
 Xy0F5Prz = zaL_((unsigned short)-540088173, imk6K, 904673208, (short)739859518, il6m2N0Ofe);
 break;
 case 1:
-Xy0F5Prz = zaL_(-605814957, 374451448, 1596190636, E1G8DwI, 241497602);
+Xy0F5Prz = zaL_((unsigned short)-605814957, 374451448, 1596190636, E1G8DwI, 241497602);
 break;
 case 2:
 x381cDig = (int)ceil(J4bb);
@@ -886,7 +886,7 @@ case 'b':
 DFMggw = (int)floor(t3T053gq1);
 break;
 case 'c':
-EtM0v3E65 = ae8h(EtM0v3E65, oR1O, -1844019094, 1685509451, 753875460);
+EtM0v3E65 = ae8h(EtM0v3E65, oR1O, (unsigned short)-1844019094, 1685509451, 753875460);
 break;
 case 'd':
 So2nn6RxVX = (int)abs(G9L1);

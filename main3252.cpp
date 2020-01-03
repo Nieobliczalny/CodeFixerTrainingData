@@ -17,7 +17,7 @@ int main(int argc, char** argv)
 	unsigned short int	EFX8V	=	(unsigned short)749288486;
 	long double	lsOZSl	=	1127310487;
   char  l4ewK  =  (char)1002715882;
-	unsigned short int	JNu6nr	=	870352896;
+	unsigned short int	JNu6nr	=	(unsigned short)870352896;
  int zg8FY7Uhg = -230397008;
  unsigned long e32Nk46AIq = -535810635;
   short  PHK9_1X  =  -1077562001;
@@ -33,7 +33,7 @@ int main(int argc, char** argv)
   double  Z52zMBNF16  =  1898823526;
  float kelr = -2070825314;
  unsigned char TNjy23rV5 = (unsigned char)1514822192;
-    unsigned short int    YtQ4ouD1y    =    191770569;
+    unsigned short int    YtQ4ouD1y    =    (unsigned short)191770569;
     unsigned int    DgFTnd6    =    752027383;
 	int	O69HAD	=	-17369094;
 	long	RWcjs1q6	=	-1259339145;
@@ -55,7 +55,7 @@ int main(int argc, char** argv)
   short int  UxmHVn  =  (short)-1816724883;
 	int	U50VUrMN_	=	279037499;
 	float	tQ1p	=	-668749959;
-	unsigned char	X46VExg31L	=	1938374362;
+	unsigned char	X46VExg31L	=	(unsigned char)1938374362;
     char    xvi0a    =    1147067350;
  short Q7QW08dM19 = -1876031935;
     unsigned int    b5_l    =    971805683;
@@ -66,7 +66,7 @@ int main(int argc, char** argv)
   unsigned long long  Kmgh9_fs  =  -580903873;
  unsigned long long l63FJ0_ZqJ = -1166134512;
   unsigned short  MfYRp2  =  (unsigned short)-1973870049;
- unsigned short Ww5J6 = -1344912881;
+ unsigned short Ww5J6 = (unsigned short)-1344912881;
 	unsigned int	eF8LFE	=	-209351756;
  int X14u1 = -775600317;
  char nsf4T8 = -1414706001;
@@ -79,7 +79,7 @@ int main(int argc, char** argv)
 	unsigned long	D_hu9	=	-2129823490;
  unsigned short int v0Q5 = (unsigned short)-2012040597;
  short gV60Y8A3 = 0;
-	unsigned short int	MrdlxzPA	=	-496315187;
+	unsigned short int	MrdlxzPA	=	(unsigned short)-496315187;
 	short	TG85mH1NJV	=	0;
 	long long	N9QBIh_cPI	=	-1431633062;
 	unsigned int	B9i63tvg7	=	1222036193;
@@ -101,7 +101,7 @@ int main(int argc, char** argv)
 	long long	w163bUfJJ	=	46892361;
 	char	WE7h0	=	(char)1666339687;
   long long  XDz4hbJ3B  =  350170139;
- unsigned short int Ub24I = -1352782104;
+ unsigned short int Ub24I = (unsigned short)-1352782104;
  float vx399432pA = -970793832;
   unsigned int  I4gK_Tt  =  -1070019962;
  short int tIJQnN9o = 2073855181;

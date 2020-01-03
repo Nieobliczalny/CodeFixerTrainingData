@@ -32,7 +32,7 @@ int main()
  short int o7s2O9Ws = (short)603569408;
 	unsigned short	Gk9Odk7	=	(unsigned short)-2076326927;
     long long    O_eNc4N    =    198618907;
- short int jijam8 = 1620917921;
+ short int jijam8 = (short)1620917921;
   int  VzyuZ  =  1756882257;
   unsigned short  GfC8pGaa4  =  -1044832677;
 	long	SfpHUe0b	=	-2012314237;
@@ -48,7 +48,7 @@ int main()
  unsigned int g6sH6 = 1853621606;
 	unsigned short int	Jl7tdQ5A	=	(unsigned short)1059993191;
  double pB66J2 = 772614083;
-    unsigned short    N873    =    1504620122;
+    unsigned short    N873    =    (unsigned short)1504620122;
  long double YjQsVO = -48262710;
     unsigned short int    oss596L    =    (unsigned short)-923913740;
     unsigned char    ZI6p9rc2D    =    188781312;
@@ -65,7 +65,7 @@ int main()
   long  eJsXDvxGm3  =  1413978761;
     double    E9iNMXvCu    =    -863462357;
     long long    En6D    =    253731432;
- unsigned char uFemZ11 = 1690939582;
+ unsigned char uFemZ11 = (unsigned char)1690939582;
  short cw72I8 = -469367479;
   long double  omh8y  =  1651073534;
 	unsigned int	ipCPMrYlg	=	587313706;
@@ -76,7 +76,7 @@ int main()
 	double	HChOh2P34	=	-1540175174;
 	long double	L_FT	=	798908249;
   double  D7r80t  =  969917513;
- unsigned short UZ_8XDnA_d = 2130103679;
+ unsigned short UZ_8XDnA_d = (unsigned short)2130103679;
 	unsigned char	VkqD	=	756104718;
  unsigned short fn6K4n35 = -89961240;
  unsigned long DsqU3 = -164013723;
@@ -88,7 +88,7 @@ int main()
     char    F22ze    =    410568887;
  double TD_f3e5N = -1133085866;
     long double    I8c46Hc    =    -276619999;
-    unsigned short    z87Xn_YyO    =    1773987782;
+    unsigned short    z87Xn_YyO    =    (unsigned short)1773987782;
     double    f1_ZNbl    =    -1014634930;
  unsigned int c2aGt120yr = -720336275;
   long  FE4bfWK  =  -244409016;
@@ -98,7 +98,7 @@ int main()
  float ig9zA = 1234875005;
     char    Dn3PpTe7    =    (char)969886513;
   float  PjLHS2U  =  745340861;
- unsigned short int s_4r = -228592503;
+ unsigned short int s_4r = (unsigned short)-228592503;
  long long fxt9jMW52q = -6545697;
     float    bLVh    =    248166046;
   short  on8Y7le69o  =  434870332;

@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
     unsigned short int    zPC3b9J;
     zPC3b9J    =    (unsigned short)-1737944336;
  unsigned char UdY5;
- UdY5 = 1449558647;
+ UdY5 = (unsigned char)1449558647;
 	double	r7le;
 	r7le	=	1551441756;
   char  F2B50;
@@ -52,7 +52,7 @@ int main(int argc, char** argv) {
   unsigned short  Eixb3coF3;
   Eixb3coF3  =  (unsigned short)2114520568;
 	unsigned short int	fQts3FS4u;
-	fQts3FS4u	=	-986844086;
+	fQts3FS4u	=	(unsigned short)-986844086;
 	short	X8750;
 	X8750	=	(short)-1694235866;
     unsigned long    B830MPgb2;
@@ -100,7 +100,7 @@ int main(int argc, char** argv) {
   long  aj_bnsbtH8;
   aj_bnsbtH8  =  767649788;
 	unsigned char	Yi34z4d8;
-	Yi34z4d8	=	-887857158;
+	Yi34z4d8	=	(unsigned char)-887857158;
  unsigned char CL1xHU4;
  CL1xHU4 = 1813677367;
     unsigned long long    l5nc;

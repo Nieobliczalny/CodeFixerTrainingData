@@ -130,7 +130,7 @@ case 3:
 w0svVP8c = U8un(v214I, vmHmE, quohNBnSc, eC2Sv26, (short)-1798321071);
 break;
 case 4:
-hrNl0p = U8un((short)-1899821535, 1134854871, 129038605, eC2Sv26, 1534150323) + 1814064056;
+hrNl0p = U8un((short)-1899821535, 1134854871, 129038605, eC2Sv26, (short)1534150323) + 1814064056;
 break;
 case 5:
 D8fR3Zp6 = (int)floor(pnOl);
@@ -229,7 +229,7 @@ case 3:
 Y4k11pG_ = (Hnp7TEft_ != -1014370693) ? d8zI : U8un((short)992288051, -366956549, -690973001, vES7p86lSu, Y4k11pG_);
 break;
 case 4:
-w0svVP8c = U8un((short)722761075, 1557857814, wraS302s, s26n2_2pt, 1874594172);
+w0svVP8c = U8un((short)722761075, 1557857814, wraS302s, s26n2_2pt, (short)1874594172);
 break;
 case 5:
 v214I = (int)floor(yC2cfxE);

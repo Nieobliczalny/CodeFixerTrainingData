@@ -33,7 +33,7 @@ int main()
     float    scw90;
     scw90    =    -1371978186;
 	unsigned short int	SuNm1nIZ0g;
-	SuNm1nIZ0g	=	-1019960134;
+	SuNm1nIZ0g	=	(unsigned short)-1019960134;
 	unsigned int	u_pb;
 	u_pb	=	-374565881;
   unsigned char  YHRj622B6O;
@@ -43,7 +43,7 @@ int main()
 	long double	vFPKh5i3Oe;
 	vFPKh5i3Oe	=	-1701304384;
  short VSee;
- VSee = -575850090;
+ VSee = (short)-575850090;
     unsigned long long    feqU_9_;
     feqU_9_    =    -1325345626;
 	unsigned char	L8tVd;
@@ -53,7 +53,7 @@ int main()
     short int    IJ11FNz6n;
     IJ11FNz6n    =    (short)-392411143;
   char  zUE7wW;
-  zUE7wW  =  -1905611518;
+  zUE7wW  =  (char)-1905611518;
  unsigned short int Y2GNFRu09;
  Y2GNFRu09 = -351345062;
  unsigned short int CKm4g;
@@ -83,7 +83,7 @@ int main()
     unsigned char    C8jeFgFC;
     C8jeFgFC    =    (unsigned char)125103786;
  short KDj6BLrf4;
- KDj6BLrf4 = -1826179906;
+ KDj6BLrf4 = (short)-1826179906;
  unsigned int k9xn8xO;
  k9xn8xO = 599936020;
  unsigned long wrEs987;
@@ -137,7 +137,7 @@ int main()
 	unsigned short	qZ90VLQ;
 	qZ90VLQ	=	(unsigned short)929884690;
   unsigned short int  SIID4;
-  SIID4  =  436003836;
+  SIID4  =  (unsigned short)436003836;
 	long long	AZWu;
 	AZWu	=	1680347057;
   unsigned long long  bF848j5J;
@@ -157,7 +157,7 @@ int main()
 	unsigned short	hV3Z4D_Q3z;
 	hV3Z4D_Q3z	=	(unsigned short)-302180501;
     unsigned short    K60o184;
-    K60o184    =    1924135028;
+    K60o184    =    (unsigned short)1924135028;
 	float	P_VK_th;
 	P_VK_th	=	1870544969;
   float  zy659BG0;
@@ -252,7 +252,7 @@ cout << "bevpL" << Ro3E(zc_E1A8oD) << "vQ99" << Y2GNFRu09 << HoQb((unsigned char
 }
 else
 {
-cout << HoQb(1542384603, 1732829199, V89t_28MKu, -1590358686, bq6w2OpR_P) << XR3wAhIas << Ro3E(194796446) << Yij9deO94(zc_E1A8oD, G6QZbt, V89t_28MKu, -1976533804) << endl;
+cout << HoQb((unsigned char)1542384603, 1732829199, V89t_28MKu, -1590358686, bq6w2OpR_P) << XR3wAhIas << Ro3E(194796446) << Yij9deO94(zc_E1A8oD, G6QZbt, V89t_28MKu, -1976533804) << endl;
 }
 }
 else if (((BYn9 & 2006923902) || (Z_mJoa3 & -1273007353)) && (CKm4g != 602604839))
@@ -520,7 +520,7 @@ bEqP7p = (int)ceil(zy659BG0);
 break;
 case 'd':
 case 'D':
-AZWu = zBgF9C((char)1017214753, (unsigned short)-566976064, bF848j5J, -824538903);
+AZWu = zBgF9C((char)1017214753, (unsigned short)-566976064, bF848j5J, (unsigned short)-824538903);
 break;
 case 'e':
 case 'E':

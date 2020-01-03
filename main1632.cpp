@@ -44,7 +44,7 @@ int main(void)
 	long double	YqvDz;
 	YqvDz	=	-1621593165;
  unsigned char w95ws;
- w95ws = -155511875;
+ w95ws = (unsigned char)-155511875;
   unsigned short  vlBWI8;
   vlBWI8  =  (unsigned short)1568925581;
   double  aewzAQV;

@@ -25,7 +25,7 @@ int main() {
 	char	OV5PvTJm_6;
 	OV5PvTJm_6	=	(char)-1912856196;
     unsigned short int    uB3ZeWUFVd;
-    uB3ZeWUFVd    =    333202270;
+    uB3ZeWUFVd    =    (unsigned short)333202270;
 	unsigned int	mXW0;
 	mXW0	=	0;
   unsigned char  N8i6P;
@@ -43,7 +43,7 @@ int main() {
  short Xg640B2olW;
  Xg640B2olW = (short)1205129664;
   short  TJO6D76BOy;
-  TJO6D76BOy  =  -13938299;
+  TJO6D76BOy  =  (short)-13938299;
  int rYEp11Oi;
  rYEp11Oi = 1911671849;
  short W1_Nl0tc_G;
@@ -73,7 +73,7 @@ int main() {
     short    n_K0ser;
     n_K0ser    =    (short)-1284361762;
   unsigned char  SYpRh;
-  SYpRh  =  1090102423;
+  SYpRh  =  (unsigned char)1090102423;
   unsigned char  QxF__f0OT0;
   QxF__f0OT0  =  932113125;
     double    q2C_C4DbG;

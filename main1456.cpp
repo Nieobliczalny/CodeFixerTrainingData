@@ -28,7 +28,7 @@ int main() {
  long srsY;
  srsY = 138910500;
 	short	zYA31pO8;
-	zYA31pO8	=	1794894287;
+	zYA31pO8	=	(short)1794894287;
 	short int	c1xV;
 	c1xV	=	(short)1706120560;
 	unsigned char	ycynD;
@@ -38,7 +38,7 @@ int main() {
 	unsigned long long	Ch_7g1a;
 	Ch_7g1a	=	-771124789;
 	unsigned char	wDuk;
-	wDuk	=	1723666123;
+	wDuk	=	(unsigned char)1723666123;
   double  Cx37Im1iq8;
   Cx37Im1iq8  =  1914310069;
     float    Ycqrz8;
@@ -74,7 +74,7 @@ int main() {
 	double	rTlbJ;
 	rTlbJ	=	2068184199;
     unsigned short int    ZI4RyJ7sl;
-    ZI4RyJ7sl    =    830994612;
+    ZI4RyJ7sl    =    (unsigned short)830994612;
     unsigned int    C9GFY;
     C9GFY    =    -75411393;
   unsigned short int  ej5pE;

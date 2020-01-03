@@ -31,7 +31,7 @@ int main(int argc, char** argv)
     unsigned long long    Ni3R    =    -701272085;
 	long double	roa3PR	=	-1919837918;
   unsigned long long  F1Gsdpvq  =  -1675934541;
-	unsigned char	Nw0UBBgl	=	1490374386;
+	unsigned char	Nw0UBBgl	=	(unsigned char)1490374386;
     unsigned int    slwdh600    =    -885859987;
     short int    do9sp0    =    801157585;
 	float	I9io4	=	-1618693465;
@@ -44,7 +44,7 @@ int main(int argc, char** argv)
 	long	ZrcDv	=	-1384514271;
     float    IPhk    =    -1838359117;
 	double	B98jw9X	=	-1845269134;
- char elvQjKb6 = 1241251684;
+ char elvQjKb6 = (char)1241251684;
   float  NOqo4HQRh  =  -156492137;
   long double  vSD2j07C  =  -22624119;
   unsigned char  B2p92  =  (unsigned char)1779388760;
@@ -70,7 +70,7 @@ break;
 int i = 9;
 do
 {
-cout << "pnu8" << do9sp0 << S_QEq((char)1310203976, elvQjKb6, 1349279784) << f2g5WmK << endl;
+cout << "pnu8" << do9sp0 << S_QEq((char)1310203976, elvQjKb6, (short)1349279784) << f2g5WmK << endl;
 --i;
 }
 while (i >= 0);
@@ -93,7 +93,7 @@ case 'd':
 T8_v = Ky6e_8LY(T8_v, F1Gsdpvq, Nw0UBBgl, (short)130183408, ZrcDv);
 break;
 case 'e':
-ZYzj = Ky6e_8LY(-1719641750, (unsigned short)988551954, -196008711, -1141612004, ZYzj);
+ZYzj = Ky6e_8LY(-1719641750, (unsigned short)988551954, -196008711, (short)-1141612004, ZYzj);
 break;
 case 'f':
 NOqo4HQRh = Ky6e_8LY(B2p92, -890800569, yKS3E8Mj4, 1470253843, ZYzj) / 1751588323;
@@ -301,7 +301,7 @@ vSD2j07C = Ky6e_8LY(1793645689, r7jI, 1729067364, do9sp0, (unsigned short)-71774
 switch (T8_v)
 {
 case 'a':
-roa3PR = S_QEq((char)-1862609749, 1693931050, -1566310206);
+roa3PR = S_QEq((char)-1862609749, 1693931050, (short)-1566310206);
 break;
 case 'b':
 Nw0UBBgl = S_QEq(-274777938, Yn3ARUroe, 1449153615);

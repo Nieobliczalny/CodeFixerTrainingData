@@ -70,7 +70,7 @@ int main()
     unsigned short int    yskLY;
     yskLY    =    (unsigned short)-1344578058;
   short  i464eBg1lT;
-  i464eBg1lT  =  129169404;
+  i464eBg1lT  =  (short)129169404;
  unsigned short int zvNX;
  zvNX = (unsigned short)-44129043;
 	long	ux0_M2h22;
@@ -106,7 +106,7 @@ int main()
  unsigned char zaMb;
  zaMb = (unsigned char)1443552635;
  unsigned char u0F_Y_pB1;
- u0F_Y_pB1 = 116122571;
+ u0F_Y_pB1 = (unsigned char)116122571;
     short int    MMSJQcnin_;
     MMSJQcnin_    =    554612018;
 

@@ -153,7 +153,7 @@ case 1:
 gIE0G7 = UcwBTxUhB5((short)1677201845, gIE0G7, V960mXSdn1);
 break;
 case 2:
-VSgDqP7 = UcwBTxUhB5((short)1808811553, VSgDqP7, -1086975007);
+VSgDqP7 = UcwBTxUhB5((short)1808811553, VSgDqP7, (unsigned short)-1086975007);
 break;
 case 3:
 V960mXSdn1 = UcwBTxUhB5(1720770333, VSgDqP7, V960mXSdn1) / ejmNI50;
@@ -208,7 +208,7 @@ j++;
 }
 else if (VSgDqP7 > -365696749)
 {
-VSgDqP7 = UcwBTxUhB5(1722831344, VSgDqP7, -647939571);
+VSgDqP7 = UcwBTxUhB5((short)1722831344, VSgDqP7, -647939571);
 }
 else
 {

@@ -73,7 +73,7 @@ switch (jX9g0YP)
 {
 case 'a':
 case 'A':
-l9DUoITUum = Hb_fOl_gxf(l9DUoITUum, (unsigned short)69321958, 2130526537);
+l9DUoITUum = Hb_fOl_gxf(l9DUoITUum, (unsigned short)69321958, (char)2130526537);
 break;
 case 'b':
 case 'B':
@@ -157,7 +157,7 @@ case 'g':
 l9DUoITUum = Hb_fOl_gxf(u6NFt25, (unsigned short)528343783, (char)-828603791);
 break;
 case 'h':
-pYg0lwr = Hb_fOl_gxf(-1332429241, 1682572990, AYrJF1VEfi);
+pYg0lwr = Hb_fOl_gxf(-1332429241, (unsigned short)1682572990, AYrJF1VEfi);
 break;
 case 'i':
 frB42g2r %= uHTw65r;

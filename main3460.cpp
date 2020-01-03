@@ -270,7 +270,7 @@ q9q5 = bPVA << RqZE;
 }
 for (int i = 6; i >= 0; i--)
 {
-cout << wQPls(av6DTU, 921048659, (unsigned char)-1991141025, (char)-50695216) << wQPls(av6DTU, G0FSe, nT6VW9Vm, 1035392972) << endl;
+cout << wQPls(av6DTU, 921048659, (unsigned char)-1991141025, (char)-50695216) << wQPls(av6DTU, G0FSe, nT6VW9Vm, (char)1035392972) << endl;
 }
 
 {

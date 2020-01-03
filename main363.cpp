@@ -91,7 +91,7 @@ xBnb = P7Bv_YET ^ 334202716;
 break;
 case 'e':
 case 'E':
-BIMF9g = K3AFGf(BIMF9g, 1273614126, -1673815725);
+BIMF9g = K3AFGf(BIMF9g, (unsigned char)1273614126, -1673815725);
 break;
 case 'f':
 case 'F':

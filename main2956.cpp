@@ -39,7 +39,7 @@ Q7u21H = ePk73_L3Zg & D3xse;
 std::cout << sb8lrB << cFY6g6PC << OhU5m5Id_R << "n90cn5H2LW" << iRHq(K5Ef0j54) << std::endl;
 K5Ef0j54 = B_bXI(-1058459950, (short)-385186040);
 
-R8rLf2FaY_ = K60c6(R8rLf2FaY_, (unsigned short)2017214932, 544031618, tqBeCT, koWc);
+R8rLf2FaY_ = K60c6(R8rLf2FaY_, (unsigned short)2017214932, (unsigned short)544031618, tqBeCT, koWc);
 
 if (IUXbj2nUw1 > -1009765297)
 {
@@ -274,7 +274,7 @@ pVf0__ &= YTqykNb;
 switch (IUXbj2nUw1)
 {
 case 'a':
-c1_GeppF5 = iRHq(475148453);
+c1_GeppF5 = iRHq((unsigned char)475148453);
 break;
 }
 

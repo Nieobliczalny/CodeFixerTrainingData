@@ -27,7 +27,7 @@ int main(void) {
     unsigned char    i58Eg    =    (unsigned char)-275743423;
 	float	ivt89	=	1739481402;
  unsigned short int Nbws4XS6_ = (unsigned short)1701555784;
-	unsigned short int	s9grJO0g5	=	-98680712;
+	unsigned short int	s9grJO0g5	=	(unsigned short)-98680712;
  double vAr9S34R7 = -1214747446;
   long double  u785  =  -219587636;
 	long double	L9_GAy88	=	258066967;
@@ -45,7 +45,7 @@ int main(void) {
  short int ATIM5BwI4x = (short)967390069;
 	unsigned long	FA_9wsVPD_	=	1372705961;
   int  R7_8U_u  =  1368655552;
-    unsigned short    P5Y_t    =    1524233686;
+    unsigned short    P5Y_t    =    (unsigned short)1524233686;
   unsigned long  hC6Y  =  2058832186;
   unsigned long  joNV437N16  =  -916951353;
 	unsigned short	er7_Kl7e	=	470589603;
@@ -63,7 +63,7 @@ int main(void) {
   double  uMjI  =  463657882;
     unsigned short int    QH4iq    =    (unsigned short)1751275872;
   unsigned long  F5Lm_fY_3  =  764361465;
- unsigned short lTFZWX = 1796222360;
+ unsigned short lTFZWX = (unsigned short)1796222360;
 	long double	l32V	=	-1561422037;
   long  v_YU  =  -1142599968;
  short nGa6 = (short)36082751;
@@ -78,7 +78,7 @@ int main(void) {
  int R5y27 = -1712561019;
     char    jfvV7eiD    =    (char)-1402088548;
     long long    qqfbTNb2Ns    =    0;
-	unsigned short	H37V2	=	1419619767;
+	unsigned short	H37V2	=	(unsigned short)1419619767;
  double m4IFwD5rw = 357254360;
 	unsigned short int	h9_0BV	=	-1509126554;
     unsigned long    cAR3GF2    =    -228421389;
@@ -129,7 +129,7 @@ if (Lft836CFpq == lTFZWX)
 {
 for (int k = 0; k < 2; k++)
 {
-r90KMF9mzm = PV8rMN((short)1477178237, lTFZWX, 855063480, -2114300455, 196511744);
+r90KMF9mzm = PV8rMN((short)1477178237, lTFZWX, 855063480, (unsigned short)-2114300455, 196511744);
 }
 }
 }
@@ -226,7 +226,7 @@ break;
 }
 else
 {
-R6B670 = cYJi4G4P(589719515, (short)32499021, (char)203040863, 1466320183);
+R6B670 = cYJi4G4P(589719515, (short)32499021, (char)203040863, (short)1466320183);
 }
 }
 catch (int& errorCode)
@@ -349,7 +349,7 @@ case 'f':
 lhJzp ^= UMPssuY_N;
 break;
 case 'g':
-qqfbTNb2Ns = PV8rMN((short)-840204528, 1028771485, -872489599, 131425972, -166745886);
+qqfbTNb2Ns = PV8rMN((short)-840204528, 1028771485, -872489599, (unsigned short)131425972, -166745886);
 break;
 case 'h':
 B3Dg03DL = (int)ceil(m4IFwD5rw);

@@ -166,7 +166,7 @@ for (int i = 0; i < 2; i++)
 {
 for (int j = 0; j < 2; j++)
 {
-std::cout << bYl6907(F0q65iG4, z_DZ3zrZ3, Zp8T) << xwBEZ4Q(F0q65iG4, -51331524, 321605451, D718YW9L, -1986116990) << std::endl;
+std::cout << bYl6907(F0q65iG4, z_DZ3zrZ3, Zp8T) << xwBEZ4Q(F0q65iG4, -51331524, (unsigned short)321605451, D718YW9L, -1986116990) << std::endl;
 }
 }
 
@@ -220,7 +220,7 @@ break;
 }
 }
 }
-D718YW9L = xwBEZ4Q(-323661919, -1806287809, (unsigned short)303222605, -1873595413, AJc_2);
+D718YW9L = xwBEZ4Q(-323661919, -1806287809, (unsigned short)303222605, (unsigned short)-1873595413, AJc_2);
 std::cout << WjdY(Ez4bVi, -973522786, 1579694545) << R7KUxis6xn << std::endl;
 
 for (int i = 0; i < 62; i++)

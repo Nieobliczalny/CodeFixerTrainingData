@@ -26,7 +26,7 @@ int main(void) {
 	short	RtFx;
 	RtFx	=	(short)-1143589758;
  unsigned short int I5rq;
- I5rq = -1598271387;
+ I5rq = (unsigned short)-1598271387;
 	double	lgQ5c7b;
 	lgQ5c7b	=	-1034028431;
  short OP6H_6V3f;
@@ -387,7 +387,7 @@ QgWZ8 = (I5rq > uGP73) ? sDN6((short)2062163035) : (short)1803368769;
 }
 else if (OP6H_6V3f > -1312320915)
 {
-TVy2 = sDN6(1669987622);
+TVy2 = sDN6((short)1669987622);
 }
 else if (zJ96J0gvz != uGP73)
 {

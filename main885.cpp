@@ -15,7 +15,7 @@ int main(int argc, char** argv) {
 	unsigned short int	tt80;
 	tt80	=	(unsigned short)-1729992367;
  short y6H23H;
- y6H23H = 1753813962;
+ y6H23H = (short)1753813962;
  int tX5W8;
  tX5W8 = -2036894106;
 	short	CEV9A;
@@ -27,7 +27,7 @@ int main(int argc, char** argv) {
     long double    GaW4t15;
     GaW4t15    =    -1195565462;
 	short int	cx8t8A;
-	cx8t8A	=	-1309442564;
+	cx8t8A	=	(short)-1309442564;
 	unsigned long	t3S9HHdhb5;
 	t3S9HHdhb5	=	-95926105;
     unsigned int    Ycsa_NW;
@@ -77,7 +77,7 @@ int main(int argc, char** argv) {
     unsigned short int    yJ00PsxwX;
     yJ00PsxwX    =    (unsigned short)1930421878;
  unsigned char JJJL2Cl11p;
- JJJL2Cl11p = 689517820;
+ JJJL2Cl11p = (unsigned char)689517820;
   unsigned short  d1mgD4_IJ;
   d1mgD4_IJ  =  (unsigned short)1175440871;
  unsigned long long EcgrRcA759;

@@ -20,7 +20,7 @@ unsigned char    lvuduZa()
 int main(void) {
     long double    cDsS0    =    2082656783;
     unsigned short int    sQXr0    =    (unsigned short)-538278456;
- short Hip8l = 946207122;
+ short Hip8l = (short)946207122;
   short int  T56caVIU5  =  1165053179;
 	unsigned short int	lw18_	=	-177685444;
     long    up4G9yj2    =    -1188297262;
@@ -33,7 +33,7 @@ int main(void) {
     short    nczB0    =    (short)788864702;
     unsigned long    FoHpbZD    =    1769274441;
     long    wQP7CL4945    =    219789285;
-	unsigned short	G94z8	=	528461135;
+	unsigned short	G94z8	=	(unsigned short)528461135;
  unsigned short int kH_9Lb = 0;
 	unsigned short	Gg0G	=	(unsigned short)-2113699128;
     float    icN2bwT5    =    -1884303996;
@@ -123,7 +123,7 @@ else if (sQXr0 > T56caVIU5)
 {
 if ((G94z8 < -1581195653) && (cDsS0 <= Hip8l))
 {
-kH_9Lb = I6pzgWvg(987414813, -835819732, Hip8l, 959540883, nczB0);
+kH_9Lb = I6pzgWvg((unsigned char)987414813, -835819732, Hip8l, 959540883, nczB0);
 }
 else if ((oLw2D_97 & 239515640) || (kH_9Lb > wQP7CL4945))
 {
@@ -164,7 +164,7 @@ case 0:
 icN2bwT5 = (int)ceil(cDsS0);
 break;
 case 1:
-kH_9Lb = I6pzgWvg(Y3TmmDP_, (short)-1346432058, 508670459, (unsigned char)939334883, 877950289);
+kH_9Lb = I6pzgWvg(Y3TmmDP_, (short)-1346432058, 508670459, (unsigned char)939334883, (unsigned short)877950289);
 break;
 }
 }
@@ -186,7 +186,7 @@ int k = 0;
 do
 {
 k++;
-cdUxNGU7n0 = I6pzgWvg(-738014459, 930671094, -1651375570, -1274339338, -1558491549) + Gg0G;
+cdUxNGU7n0 = I6pzgWvg((unsigned char)-738014459, 930671094, -1651375570, -1274339338, -1558491549) + Gg0G;
 }
 while (k < 8);
 }

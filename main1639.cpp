@@ -297,7 +297,7 @@ L177 = L1FWPU73((unsigned short)-1856827074, fKrHfn2n_);
 }
 else if (O62250 < i5d43)
 {
-OmioR9Aj2m = L1FWPU73((unsigned short)-1730708740, 687783246);
+OmioR9Aj2m = L1FWPU73((unsigned short)-1730708740, (unsigned short)687783246);
 }
 else
 {
@@ -468,7 +468,7 @@ case 'e':
 L177 = L1FWPU73((unsigned short)-1693574245, UX3b2H1pq0);
 break;
 case 'f':
-OmioR9Aj2m = L1FWPU73(N0v0U_lK, -1594517472);
+OmioR9Aj2m = L1FWPU73(N0v0U_lK, (unsigned short)-1594517472);
 break;
 case 'g':
 L177 = (int)abs(uIl9dnY_);
@@ -557,7 +557,7 @@ UqmDN = AUDoSU4();
 }
 
 gnbd = L1FWPU73((unsigned short)152251853, Za0K3QIPA) / L1FWPU73(UqmDN, (unsigned short)1174021);
-std::cout << L1FWPU73(950743209, Za0K3QIPA) << std::endl;
+std::cout << L1FWPU73((unsigned short)950743209, Za0K3QIPA) << std::endl;
 
 return 0;
 }

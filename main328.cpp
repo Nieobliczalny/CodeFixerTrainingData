@@ -51,7 +51,7 @@ int main() {
  long double fHqb3;
  fHqb3 = 1208904146;
 	unsigned short	V7l_4xB88;
-	V7l_4xB88	=	2094817955;
+	V7l_4xB88	=	(unsigned short)2094817955;
  unsigned long zRt503;
  zRt503 = -2020849106;
     char    r4N8ULMor;
@@ -99,7 +99,7 @@ int main() {
  unsigned char uDG534i;
  uDG534i = (unsigned char)1715075543;
   unsigned char  M_ZD;
-  M_ZD  =  263625761;
+  M_ZD  =  (unsigned char)263625761;
 	long long	Npzb2ITs6m;
 	Npzb2ITs6m	=	-1668523599;
 	long double	GKtc_bS_97;
@@ -121,7 +121,7 @@ int main() {
  short Mk4y6Q2N;
  Mk4y6Q2N = (short)1397291278;
 	unsigned char	b1P9;
-	b1P9	=	-391062546;
+	b1P9	=	(unsigned char)-391062546;
 	unsigned short	HIQqqt3aP5;
 	HIQqqt3aP5	=	2080364356;
     unsigned short    HkTO29un;
@@ -131,7 +131,7 @@ int main() {
  unsigned short int I8t0Yl9W;
  I8t0Yl9W = (unsigned short)2121099225;
  short R3RTH6;
- R3RTH6 = 606602316;
+ R3RTH6 = (short)606602316;
  unsigned char DT57Rx;
  DT57Rx = -430103162;
   long long  r5KNEl;
@@ -165,7 +165,7 @@ int main() {
  short yYoZP;
  yYoZP = (short)-1766582336;
     unsigned char    NvbD6e2e;
-    NvbD6e2e    =    847804935;
+    NvbD6e2e    =    (unsigned char)847804935;
  unsigned long long iI413W_RDy;
  iI413W_RDy = 177124717;
  short int x8hh_1W;
@@ -310,7 +310,7 @@ else
 {
 if (iKsryV18 & -681765369)
 {
-PiPg = mzCtLj(OEHoc, 1040632979);
+PiPg = mzCtLj(OEHoc, (short)1040632979);
 }
 else if ((HkTO29un) || (w50636gW < bdqBu866A3))
 {
@@ -389,7 +389,7 @@ nElSH = EvbjlS7f2H % 1555719748;
 
 try
 {
-std::cout << WW3V_8rnD((short)-84630648, HIQqqt3aP5, iKsryV18) << mzCtLj((char)-1734106112, 1596234528) << iKsryV18 << std::endl;
+std::cout << WW3V_8rnD((short)-84630648, HIQqqt3aP5, iKsryV18) << mzCtLj((char)-1734106112, (short)1596234528) << iKsryV18 << std::endl;
 }
 catch (int& errorCode)
 {
@@ -472,7 +472,7 @@ A49o = W2FiAl42k & n5XRx;
 }
 x4nAb = mzCtLj(x4nAb, (short)-1361724251);
 
-M_ZD = V2QJ_((short)100672820, -1578122470, 1164528354);
+M_ZD = V2QJ_((short)100672820, -1578122470, (unsigned short)1164528354);
 
 if ((ZxynC2ma8w / mzCtLj(PiPg, M_ZD)) != -363670755)
 {
@@ -493,7 +493,7 @@ while (j < 3);
 }
 }
 }
-zqs_EzEI2O = nO0RI_Q4q((short)-1760125256, iI413W_RDy, (unsigned short)-522351435, -1076236719);
+zqs_EzEI2O = nO0RI_Q4q((short)-1760125256, iI413W_RDy, (unsigned short)-522351435, (unsigned short)-1076236719);
 if (Eb1l <= -983862224)
 {
 switch (n5XRx)

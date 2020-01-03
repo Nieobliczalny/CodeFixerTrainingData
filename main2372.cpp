@@ -37,7 +37,7 @@ cout << AK7Kttg3((unsigned char)-1026377462, 1748219486, 546825924, (unsigned sh
 
 if ((P9Mcyft <= GcPr) && (j73OrCkW6z == q608832o2))
 {
-cout << "bMpPqa" << AK7Kttg3(-661263657, 484470237, -1627267268, o810IzZ) << Rf_mE4J(-487901621, -1851060268) << endl;
+cout << "bMpPqa" << AK7Kttg3((unsigned char)-661263657, 484470237, -1627267268, o810IzZ) << Rf_mE4J(-487901621, -1851060268) << endl;
 }
 else
 {
@@ -293,7 +293,7 @@ aKMM1y956f = (int)floor(m2fkS0_5U1);
 
 if (Cd5hZ != E5afJ)
 {
-cout << "P3CWdou" << AK7Kttg3((unsigned char)-41097795, -1433054945, 607429091, j73OrCkW6z) << FTH_6y << tVb14cpYP(yr7CsE5Qv, (short)1703858074) << tVb14cpYP(yr7CsE5Qv, 427089077) << endl;
+cout << "P3CWdou" << AK7Kttg3((unsigned char)-41097795, -1433054945, 607429091, j73OrCkW6z) << FTH_6y << tVb14cpYP(yr7CsE5Qv, (short)1703858074) << tVb14cpYP(yr7CsE5Qv, (short)427089077) << endl;
 }
 else if ((vVz4vn1 >= tO0F9) && ((K7_K6WG <= q608832o2) && (nj9vd0ZZ != 45153853)))
 {

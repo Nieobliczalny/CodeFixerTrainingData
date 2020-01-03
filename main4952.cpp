@@ -362,7 +362,7 @@ i--;
 while (i >= 0);
 }
 
-std::cout << "Ud84VX8P" << r3RyEN(xdyn_y15s, -1406435029) << XA735lit5(399621333, 599553501, 1299713400, k1Kw) << "D815myI" << r3RyEN(749712080, mR5m) << std::endl;
+std::cout << "Ud84VX8P" << r3RyEN(xdyn_y15s, (unsigned short)-1406435029) << XA735lit5(399621333, 599553501, 1299713400, k1Kw) << "D815myI" << r3RyEN(749712080, mR5m) << std::endl;
 
 if (c2kn85j_m >= 388459728)
 {

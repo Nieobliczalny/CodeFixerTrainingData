@@ -36,7 +36,7 @@ sPuRyn = (ujd___ & 1370358994) ? XwgcrE2Bi : -1159403744;
 }
 try
 {
-std::cout << "kXa3FKd2" << Mwl92() << w_1DVG8SHW << "s2_s" << rk4Ccy4Dn((unsigned char)1795995261, (char)-811981059, 916480181) << std::endl;
+std::cout << "kXa3FKd2" << Mwl92() << w_1DVG8SHW << "s2_s" << rk4Ccy4Dn((unsigned char)1795995261, (char)-811981059, (unsigned short)916480181) << std::endl;
 }
 catch (int& errorCode)
 {

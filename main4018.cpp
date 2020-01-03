@@ -159,7 +159,7 @@ case 0:
 IKbB = q9jhX1l((unsigned char)-858720994, (unsigned short)-829183287);
 break;
 case 1:
-N743zWg = hEsf_K(69470760, -1905816329, RWC7No6_);
+N743zWg = hEsf_K(69470760, (unsigned short)-1905816329, RWC7No6_);
 break;
 case 2:
 h629pq9P = (int)abs(dp1p5sOF);

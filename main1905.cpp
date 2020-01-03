@@ -171,7 +171,7 @@ else if (eqFh86rf70)
 int j = 0;
 do
 {
-nS1w = GAGYV_s((unsigned short)1196908804, (unsigned short)-480121486, e_rW, NhudW, 1877180646);
+nS1w = GAGYV_s((unsigned short)1196908804, (unsigned short)-480121486, e_rW, NhudW, (unsigned short)1877180646);
 ++j;
 }
 while (j < 10);
@@ -184,7 +184,7 @@ int j = 0;
 while (j < 3)
 {
 ++j;
-d_6wc = GAGYV_s((unsigned short)1151457619, yOeZ, (char)-962802673, -25790269, 819544696);
+d_6wc = GAGYV_s((unsigned short)1151457619, yOeZ, (char)-962802673, -25790269, (unsigned short)819544696);
 }
 }
 }
@@ -294,7 +294,7 @@ while (j < 7)
 int k = 1;
 while (k >= 0)
 {
-t8ij9oh_g_ = GAGYV_s((unsigned short)-1249866498, wH5Xs6C, (char)-894032928, ROKtY2_R, -1974854554);
+t8ij9oh_g_ = GAGYV_s((unsigned short)-1249866498, wH5Xs6C, (char)-894032928, ROKtY2_R, (unsigned short)-1974854554);
 k--;
 }
 }
@@ -491,7 +491,7 @@ std::cout << "yq3T" << std::endl;
 }
 }
 
-std::cout << sq49UN << GAGYV_s(gqnysJSan9, (unsigned short)795799101, w6VJKAGbX0, -1583339591, 498531372) << "BcGLn5U" << std::endl;
+std::cout << sq49UN << GAGYV_s(gqnysJSan9, (unsigned short)795799101, w6VJKAGbX0, -1583339591, (unsigned short)498531372) << "BcGLn5U" << std::endl;
 
 Q03h4 %= 1472400365;
 
@@ -537,7 +537,7 @@ eqFh86rf70 = dx5dVDG();
 
 try
 {
-std::cout << GAGYV_s(f75Pri, wpuFSdYjhW, (char)59510229, cw5U, -1000189310) << std::endl;
+std::cout << GAGYV_s(f75Pri, wpuFSdYjhW, (char)59510229, cw5U, (unsigned short)-1000189310) << std::endl;
 }
 catch (int& errorCode)
 {
@@ -552,7 +552,7 @@ else
 {
 if (wpuFSdYjhW > 203118683)
 {
-HL58M = GAGYV_s(HL58M, (unsigned short)-828505107, (char)-1517725185, -1525272848, -1041900428);
+HL58M = GAGYV_s(HL58M, (unsigned short)-828505107, (char)-1517725185, -1525272848, (unsigned short)-1041900428);
 }
 else if (KJn3uq162m > ni4In)
 {
@@ -566,7 +566,7 @@ else
 {
 if ((cw5U == py1SL_Cv6V) && (s3nq > -1865407968))
 {
-nS1w = GAGYV_s((unsigned short)400346997, (unsigned short)-1852566181, -588664414, -868092248, V33C_4D75);
+nS1w = GAGYV_s((unsigned short)400346997, (unsigned short)-1852566181, (char)-588664414, -868092248, V33C_4D75);
 }
 else
 {

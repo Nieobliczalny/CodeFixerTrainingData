@@ -36,7 +36,7 @@ int main() {
 	unsigned long long	LFz398S;
 	LFz398S	=	-1250799793;
  char smsdpOd;
- smsdpOd = 1320947567;
+ smsdpOd = (char)1320947567;
  float Ck4385;
  Ck4385 = -1778731525;
   long  Xn3y2L6Ke;
@@ -48,7 +48,7 @@ int main() {
     long    Q5t4_6d5R;
     Q5t4_6d5R    =    2077853703;
  short int PYlWe760_2;
- PYlWe760_2 = 1675764044;
+ PYlWe760_2 = (short)1675764044;
  unsigned long long Dj0qB8_QY;
  Dj0qB8_QY = 1645063666;
     unsigned char    w22rTw7X4Z;
@@ -64,7 +64,7 @@ int main() {
     unsigned char    qqD_;
     qqD_    =    (unsigned char)-1935048309;
   short int  pb3e7vI;
-  pb3e7vI  =  -86632135;
+  pb3e7vI  =  (short)-86632135;
     unsigned long long    UC28Db7GJF;
     UC28Db7GJF    =    196866770;
 	char	ZtJ47_0;
@@ -76,7 +76,7 @@ int main() {
 	unsigned char	KDRd_DYteH;
 	KDRd_DYteH	=	(unsigned char)-724738862;
   unsigned short int  E9hl2iMlY;
-  E9hl2iMlY  =  -484225627;
+  E9hl2iMlY  =  (unsigned short)-484225627;
 	long long	zN29;
 	zN29	=	-640981141;
  unsigned int ZNSTJZNLo;
@@ -112,7 +112,7 @@ case 'd':
 r2lZF = sX5vHZ((unsigned char)364300675);
 break;
 case 'e':
-u1UVp1Lu_ = Gm_43Y(980966989, ZNSTJZNLo, 236716427);
+u1UVp1Lu_ = Gm_43Y((short)980966989, ZNSTJZNLo, 236716427);
 break;
 }
 }
@@ -191,7 +191,7 @@ case 2:
 u1UVp1Lu_ = Gm_43Y((short)575573389, w22rTw7X4Z, KDRd_DYteH);
 break;
 case 3:
-u1UVp1Lu_ = Gm_43Y(-277836190, 1498502392, Ib_Fi32);
+u1UVp1Lu_ = Gm_43Y((short)-277836190, 1498502392, Ib_Fi32);
 break;
 case 4:
 Xn3y2L6Ke = (int)abs(r2lZF);

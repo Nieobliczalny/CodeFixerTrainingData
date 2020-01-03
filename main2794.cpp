@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
     unsigned short int    b96f;
     b96f    =    (unsigned short)664306314;
   short  VWmt5K88;
-  VWmt5K88  =  -1107459756;
+  VWmt5K88  =  (short)-1107459756;
 	int	sr0dv63;
 	sr0dv63	=	1797859505;
     long long    g1ajSJ;
@@ -54,7 +54,7 @@ int main(int argc, char** argv) {
   long long  rSM7LljluZ;
   rSM7LljluZ  =  -1503662930;
 	unsigned short int	h0215ynQ;
-	h0215ynQ	=	299638678;
+	h0215ynQ	=	(unsigned short)299638678;
 	short int	Vm_4aVqG3;
 	Vm_4aVqG3	=	(short)2092708241;
  unsigned char KGgp;
@@ -98,7 +98,7 @@ int main(int argc, char** argv) {
   unsigned short int  CqUioq8r7m;
   CqUioq8r7m  =  (unsigned short)-667664960;
 	unsigned short int	iVqNC;
-	iVqNC	=	-1615188619;
+	iVqNC	=	(unsigned short)-1615188619;
 	short	OPo0T;
 	OPo0T	=	-1490930846;
     unsigned char    XI7SBXlo;
@@ -116,7 +116,7 @@ int main(int argc, char** argv) {
  long UueJ8cW0MF;
  UueJ8cW0MF = -486156702;
 	unsigned short int	JVrgV;
-	JVrgV	=	-1804073250;
+	JVrgV	=	(unsigned short)-1804073250;
  char d4c_0bb2n2;
  d4c_0bb2n2 = (char)1906438629;
     unsigned char    e5Y9sR3_L;
@@ -132,7 +132,7 @@ int main(int argc, char** argv) {
     unsigned long    u5w4m_6q1;
     u5w4m_6q1    =    602143620;
 	unsigned char	Y6V03a7f;
-	Y6V03a7f	=	583691700;
+	Y6V03a7f	=	(unsigned char)583691700;
   float  T_xSAC;
   T_xSAC  =  -263206259;
   double  cBTMLKu;
@@ -168,7 +168,7 @@ int main(int argc, char** argv) {
   unsigned long  RM_1QQg04;
   RM_1QQg04  =  -695675404;
 	char	l4UK3f;
-	l4UK3f	=	-493817965;
+	l4UK3f	=	(char)-493817965;
     short    f88XB;
     f88XB    =    (short)-530169360;
 	long double	Ns25u;
@@ -188,7 +188,7 @@ int main(int argc, char** argv) {
  long double o83PPkb;
  o83PPkb = -1325926409;
 	unsigned short	V9emqx;
-	V9emqx	=	1928927869;
+	V9emqx	=	(unsigned short)1928927869;
  float FAHA6v_T_t;
  FAHA6v_T_t = 1381404762;
 	short int	L0sW;
@@ -210,7 +210,7 @@ int main(int argc, char** argv) {
     long long    u8_I;
     u8_I    =    -1496293620;
 	unsigned short int	rr6ro;
-	rr6ro	=	1324926894;
+	rr6ro	=	(unsigned short)1324926894;
     char    mpfs1thR;
     mpfs1thR    =    1191354887;
   long double  F35tS_Un9;

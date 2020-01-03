@@ -76,7 +76,7 @@ try
 switch (cEwEbhn9)
 {
 case 0:
-z_1XPzt0 = c5iA2k((unsigned short)-351016300, (short)784859065, ElJCmng, 797428431, -54286801);
+z_1XPzt0 = c5iA2k((unsigned short)-351016300, (short)784859065, ElJCmng, 797428431, (unsigned short)-54286801);
 break;
 case 1:
 z_1XPzt0 *= V23H_P;
@@ -157,7 +157,7 @@ z_1XPzt0 = ElJCmng >> 1223143579;
 int i = 2;
 do
 {
-cout << fOi6aU7u((short)-1591053067, (unsigned char)-2018093104) << kEi38(-815249047) << V23H_P << "q1vIlmZ1" << c5iA2k(cEwEbhn9, -1014936479, V23H_P, QnI_6, -1952453630) << endl;
+cout << fOi6aU7u((short)-1591053067, (unsigned char)-2018093104) << kEi38(-815249047) << V23H_P << "q1vIlmZ1" << c5iA2k(cEwEbhn9, (short)-1014936479, V23H_P, QnI_6, -1952453630) << endl;
 i--;
 }
 while (i >= 0);
@@ -236,7 +236,7 @@ z_1XPzt0 = c5iA2k((unsigned short)-937571282, ElJCmng, (short)956539243, cEwEbhn
 }
 else if (z_1XPzt0 == -986248894)
 {
-z_1XPzt0 = fOi6aU7u(1453170235, ElJCmng);
+z_1XPzt0 = fOi6aU7u((short)1453170235, ElJCmng);
 }
 else if (z_1XPzt0 == cEwEbhn9)
 {

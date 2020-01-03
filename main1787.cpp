@@ -35,7 +35,7 @@ int main()
   short int  RlzR8_;
   RlzR8_  =  (short)-1253636063;
  unsigned short int LNj9Iq;
- LNj9Iq = -1473310798;
+ LNj9Iq = (unsigned short)-1473310798;
 	int	N_c_J71wL;
 	N_c_J71wL	=	676693738;
 	int	I6V22FJ81;
@@ -71,7 +71,7 @@ int main()
   unsigned char  F1CQ63;
   F1CQ63  =  (unsigned char)474988770;
 	short	Sy86xgtI;
-	Sy86xgtI	=	2126712530;
+	Sy86xgtI	=	(short)2126712530;
 	short	gFSmY9;
 	gFSmY9	=	-1964475338;
 	unsigned short	Gex2vkp2Z;
@@ -89,7 +89,7 @@ int main()
  unsigned long long bA38DT249;
  bA38DT249 = 1458783599;
     unsigned short    k5_X_;
-    k5_X_    =    -1713535021;
+    k5_X_    =    (unsigned short)-1713535021;
  unsigned char t89w;
  t89w = (unsigned char)1280812297;
  unsigned long OA5S6BquWE;
@@ -103,7 +103,7 @@ int main()
  unsigned short int pK14;
  pK14 = (unsigned short)272962499;
  unsigned short s25Mtv3vX;
- s25Mtv3vX = -1033693331;
+ s25Mtv3vX = (unsigned short)-1033693331;
   short int  b_7tQq3AZ;
   b_7tQq3AZ  =  (short)1211331880;
  short RlGxN;
@@ -129,7 +129,7 @@ case 2:
 Ly6LJR = bOCAFI(Ly6LJR, (short)-87975915, (char)2035578721, N_c_J71wL, 65670165);
 break;
 case 3:
-RlzR8_ = lHGrPL4(Ly6LJR, 292442921, -518371751, 306271267) - 296301734;
+RlzR8_ = lHGrPL4(Ly6LJR, 292442921, -518371751, (short)306271267) - 296301734;
 break;
 case 4:
 XWbA78rz7 = lHGrPL4(1045495051, 1286366761, Q9bYra, AHhLS);
@@ -230,7 +230,7 @@ case 'b':
 iKc8L6fdK = lHGrPL4(OA5S6BquWE, 314228747, 1536577750, (short)-18061208);
 break;
 case 'c':
-F9d04Z = bOCAFI(F9d04Z, (short)-1448307301, Sy86xgtI, -745182723, -2124814622);
+F9d04Z = bOCAFI(F9d04Z, (short)-1448307301, Sy86xgtI, (short)-745182723, -2124814622);
 break;
 case 'd':
 qPgjKemA8c = (int)floor(pCcf0Xe22t);
@@ -347,7 +347,7 @@ case 1:
 qpYu_Zv &= R_2_4_h1J;
 break;
 case 2:
-zaPoi = bOCAFI((unsigned short)2092398658, (short)2120466091, -517397800, sOMDwB4w, -1839740337);
+zaPoi = bOCAFI((unsigned short)2092398658, (short)2120466091, (char)-517397800, sOMDwB4w, -1839740337);
 break;
 case 3:
 AHhLS = bOCAFI(AHhLS, -1449882076, 283874332, 517559693, J9UQ);
@@ -404,7 +404,7 @@ else
 cout << F4HYRvPez << mSe46eN_0() << "h2p0mlV" << endl;
 }
 Gex2vkp2Z = bOCAFI((unsigned short)-1250829781, gFSmY9, (char)-1057797540, P3J_rL_w_, b3eg2tFz);
-XWbA78rz7 = lHGrPL4(816031433, Lx4vE, sOMDwB4w, 556507677);
+XWbA78rz7 = lHGrPL4(816031433, Lx4vE, sOMDwB4w, (short)556507677);
 {
 int i = 0;
 do

@@ -30,7 +30,7 @@ int main(void)
     unsigned short    uDz2    =    (unsigned short)-9687118;
   int  E3La_  =  -530928583;
   long long  u9La  =  0;
- unsigned short KjV3 = -1703567959;
+ unsigned short KjV3 = (unsigned short)-1703567959;
     short int    w8sXl6E6M    =    (short)467153577;
   unsigned char  ISmJeRl  =  -365911458;
     int    G436    =    -1316127160;
@@ -48,7 +48,7 @@ int main(void)
   double  D9BjXh  =  1444986095;
  long double o2_uE3 = 168781590;
  unsigned long g6W2 = 0;
-    unsigned short int    U8u_23sU5    =    1619357614;
+    unsigned short int    U8u_23sU5    =    (unsigned short)1619357614;
   int  Eqp_73  =  -396493668;
     short    YQJuCbetbB    =    161649117;
  int U_9_Op = 2017415345;

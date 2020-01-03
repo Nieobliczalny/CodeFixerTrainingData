@@ -21,7 +21,7 @@ int main(void) {
     unsigned char    qZp3s;
     qZp3s    =    (unsigned char)1831039067;
 	unsigned char	ytvsRZq;
-	ytvsRZq	=	-1290022573;
+	ytvsRZq	=	(unsigned char)-1290022573;
 	short	yV17s;
 	yV17s	=	-287437469;
 	unsigned short	r32XFc4;
@@ -35,7 +35,7 @@ int main(void) {
   unsigned short int  e7w5d2_0VH;
   e7w5d2_0VH  =  (unsigned short)-1793389693;
   char  T8xBa;
-  T8xBa  =  2142419539;
+  T8xBa  =  (char)2142419539;
     unsigned char    Kw4UOQV;
     Kw4UOQV    =    -55872081;
   unsigned long  sh6qt_81;
@@ -49,7 +49,7 @@ int main(void) {
   float  xBkIZM_No;
   xBkIZM_No  =  -471893807;
   unsigned char  vQDg7jN4N;
-  vQDg7jN4N  =  -1285836204;
+  vQDg7jN4N  =  (unsigned char)-1285836204;
 	unsigned char	qLq7Ls1;
 	qLq7Ls1	=	(unsigned char)-1281474108;
     float    Vhx204Q;
@@ -71,7 +71,7 @@ int main(void) {
   unsigned short  Uc0KN;
   Uc0KN  =  (unsigned short)552660216;
 	unsigned short int	ESvRn5Fddn;
-	ESvRn5Fddn	=	1486705810;
+	ESvRn5Fddn	=	(unsigned short)1486705810;
  long long JM11_;
  JM11_ = 35892748;
  unsigned short j97A266_;
@@ -125,7 +125,7 @@ int main(void) {
     unsigned short int    Rn__d08;
     Rn__d08    =    (unsigned short)1260672382;
  unsigned short ANykr8;
- ANykr8 = -675736013;
+ ANykr8 = (unsigned short)-675736013;
   unsigned short int  v1j9h;
   v1j9h  =  1015991766;
  unsigned short LVmZ;
@@ -147,7 +147,7 @@ int main(void) {
   unsigned long  gX1s;
   gX1s  =  1577015105;
  unsigned char tbAc6nTu;
- tbAc6nTu = -485850800;
+ tbAc6nTu = (unsigned char)-485850800;
   short  uI0Y;
   uI0Y  =  (short)-1413961255;
 	unsigned long long	MLpG41Xv;
@@ -167,7 +167,7 @@ int main(void) {
  unsigned long Q8TGtf;
  Q8TGtf = -43422841;
 	short int	S401;
-	S401	=	-1979595463;
+	S401	=	(short)-1979595463;
   int  a9Y8L;
   a9Y8L  =  519004056;
 	long	g0lm8m5q5;

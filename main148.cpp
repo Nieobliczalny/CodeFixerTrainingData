@@ -64,7 +64,7 @@ int main(int argc, char** argv) {
  float uK12V_;
  uK12V_ = -1389207411;
   unsigned short  jf7Q5j;
-  jf7Q5j  =  821840635;
+  jf7Q5j  =  (unsigned short)821840635;
  unsigned short int VgrFTA5;
  VgrFTA5 = -2101277634;
 	short	nTtL;
@@ -74,7 +74,7 @@ int main(int argc, char** argv) {
   unsigned short int  mo_h;
   mo_h  =  1871206717;
  unsigned short oNO_ud56;
- oNO_ud56 = 954363604;
+ oNO_ud56 = (unsigned short)954363604;
     short    pUgzxIf;
     pUgzxIf    =    1514206281;
   unsigned short int  M94s2g;
@@ -84,7 +84,7 @@ int main(int argc, char** argv) {
   long  P7gEQ2D2;
   P7gEQ2D2  =  0;
     char    Z_sp_JChF;
-    Z_sp_JChF    =    -1406062861;
+    Z_sp_JChF    =    (char)-1406062861;
  unsigned char a_K406N;
  a_K406N = 1610724017;
  unsigned int aCW1mid;
@@ -94,7 +94,7 @@ int main(int argc, char** argv) {
   unsigned short  uPJ_X;
   uPJ_X  =  (unsigned short)-343361704;
   unsigned short  oK4QLew;
-  oK4QLew  =  -1577500874;
+  oK4QLew  =  (unsigned short)-1577500874;
     int    Evi783PH;
     Evi783PH    =    -577329752;
     unsigned short    efPHXPV0b6;
@@ -160,7 +160,7 @@ int main(int argc, char** argv) {
   unsigned long long  m223m9cz_;
   m223m9cz_  =  -1261789292;
   short  HQO2jqqWVa;
-  HQO2jqqWVa  =  -160769223;
+  HQO2jqqWVa  =  (short)-160769223;
 	int	Q6MOIxuW;
 	Q6MOIxuW	=	1870693501;
     long double    PrjA7R_;
@@ -174,7 +174,7 @@ int main(int argc, char** argv) {
 	char	A0iD6j_15;
 	A0iD6j_15	=	(char)825812661;
     unsigned short int    G7YwTN8h;
-    G7YwTN8h    =    649803316;
+    G7YwTN8h    =    (unsigned short)649803316;
  unsigned long long s6Y96L;
  s6Y96L = 801142742;
  long UEuW2qeE98;
@@ -202,7 +202,7 @@ int main(int argc, char** argv) {
     float    o6_06u;
     o6_06u    =    1099107999;
   char  wPLsLGmE8X;
-  wPLsLGmE8X  =  -824051788;
+  wPLsLGmE8X  =  (char)-824051788;
  short L4DKSvA968;
  L4DKSvA968 = (short)-961421662;
 	double	rPe6ZjZa;
@@ -217,7 +217,7 @@ int main(int argc, char** argv) {
 uPJ_X = kv_h4Dw0T_((unsigned short)987769504);
 if ((Xwt8__ < -1702895015) || ((HQO2jqqWVa == yCmYJltrhd) && (Qa2PXoPkT == X42_4OWs)))
 {
-rPe6ZjZa = V4bJ463(961087387, -1411011024, 1539342396, -1720339643, -1851701452);
+rPe6ZjZa = V4bJ463((char)961087387, -1411011024, 1539342396, -1720339643, -1851701452);
 }
 
 std::cout << XCDt8_4e7(rPe6ZjZa, JZd705) << std::endl;

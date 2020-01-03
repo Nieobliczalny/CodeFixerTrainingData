@@ -13,7 +13,7 @@ int main() {
  unsigned char K_55k8lQ_;
  K_55k8lQ_ = (unsigned char)-948395156;
  short int P6U3u;
- P6U3u = 1581223559;
+ P6U3u = (short)1581223559;
     long double    uJl17;
     uJl17    =    -1391641637;
     unsigned short    iKZonuK;
@@ -43,7 +43,7 @@ int main() {
  char K_Ulvw0jKg;
  K_Ulvw0jKg = (char)110542221;
 	short	S496N;
-	S496N	=	727567008;
+	S496N	=	(short)727567008;
 	unsigned int	tHRX;
 	tHRX	=	1678586062;
   short int  SWS2B;
@@ -69,7 +69,7 @@ int main() {
   short  rdoE8H;
   rdoE8H  =  (short)-73514535;
   short int  yA22q;
-  yA22q  =  1495966988;
+  yA22q  =  (short)1495966988;
 	unsigned long	HlF9loq06L;
 	HlF9loq06L	=	-49308625;
  double aZ86s87KJ;
@@ -101,7 +101,7 @@ int main() {
  long NM0A;
  NM0A = 1616791416;
 	unsigned char	MZOm;
-	MZOm	=	-1457782620;
+	MZOm	=	(unsigned char)-1457782620;
  double SE35b;
  SE35b = 269770615;
   long  A84a;
@@ -117,7 +117,7 @@ int main() {
   unsigned char  rx8_7;
   rx8_7  =  (unsigned char)1091650195;
   short int  wvc5A;
-  wvc5A  =  -1987221520;
+  wvc5A  =  (short)-1987221520;
   int  x2i57qQi;
   x2i57qQi  =  1851889995;
  double vdAqBSOa_g;
@@ -133,7 +133,7 @@ int main() {
   long  uPf1mRQ8Zr;
   uPf1mRQ8Zr  =  0;
 	short	J6yvg_WO3;
-	J6yvg_WO3	=	-951033719;
+	J6yvg_WO3	=	(short)-951033719;
     unsigned char    URyt_5Y7i4;
     URyt_5Y7i4    =    (unsigned char)-1513366110;
 	unsigned int	MyOYwS;
@@ -167,7 +167,7 @@ int main() {
 	char	qzJy;
 	qzJy	=	(char)556119038;
     unsigned char    klmX91384;
-    klmX91384    =    1273717612;
+    klmX91384    =    (unsigned char)1273717612;
   long double  pPg6;
   pPg6  =  776804256;
     long double    Mwy4F1;
@@ -179,7 +179,7 @@ int main() {
  unsigned char k63ehr;
  k63ehr = (unsigned char)-489702320;
     unsigned char    glNAP8d;
-    glNAP8d    =    -1927101617;
+    glNAP8d    =    (unsigned char)-1927101617;
 	unsigned long	q8cQ;
 	q8cQ	=	818365228;
 	unsigned long	kDic6R;
@@ -191,7 +191,7 @@ int main() {
  short int aU4P;
  aU4P = (short)-1500353928;
   short  GT_yZZcVtR;
-  GT_yZZcVtR  =  -945260341;
+  GT_yZZcVtR  =  (short)-945260341;
   double  SdSH;
   SdSH  =  -2100454848;
  long Zvk2Ir;

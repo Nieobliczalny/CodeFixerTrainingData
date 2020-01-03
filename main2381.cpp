@@ -33,7 +33,7 @@ short e_LBk6(long long iaUP_PSX16,char oyg8AN39V)
 }
 
 unsigned short int L0XyvTk32(unsigned long long jUiG6np) {
- return 12900525;
+ return (unsigned short)12900525;
 }
 
 int main(int argc, char** argv)
@@ -235,7 +235,7 @@ int i = 7;
 while (i >= 0)
 {
 --i;
-n_PEtGOE = t_sqD9dN2(b1da7, 1034452341);
+n_PEtGOE = t_sqD9dN2(b1da7, (short)1034452341);
 }
 }
 NtyL36Xa = u__9_ / n_PEtGOE;

@@ -349,7 +349,7 @@ break;
 }
 edWedT3Zo = (int)abs(Gp2p_XuU2O);
 
-A8Lg3fa = vuIUVG((unsigned char)597905917, (short)-1745534769, FY96__N, -1803538878);
+A8Lg3fa = vuIUVG((unsigned char)597905917, (short)-1745534769, FY96__N, (short)-1803538878);
 
 Un2yOW9OS = (long long)(o7Kc8fV);
 if (ir15IgDv == -977343109)
@@ -381,7 +381,7 @@ for (int j = 0; j < 9; j++)
 {
 try
 {
-A8Lg3fa = vuIUVG((unsigned char)-1702775494, (short)1282312065, -2075441794, -218785965);
+A8Lg3fa = vuIUVG((unsigned char)-1702775494, (short)1282312065, -2075441794, (short)-218785965);
 }
 catch (int& errorCode)
 {
@@ -615,7 +615,7 @@ return 0;
 
 short vuIUVG(unsigned char Grd0_,short int cD9RB,unsigned long long l9Iy52,short int s4So5FVm6)
 {
- return -1456600313;
+ return (short)-1456600313;
 }
 
 short int NnL68Q()

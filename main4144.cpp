@@ -107,7 +107,7 @@ case 'd':
 h5RK--;
 break;
 case 'e':
-Z_4Gaa3 = sZ0_r(-709673835, nMq_, Iyedr, 2099505191);
+Z_4Gaa3 = sZ0_r((short)-709673835, nMq_, Iyedr, 2099505191);
 break;
 }
 }
@@ -120,7 +120,7 @@ case 'a':
 aaN5hI = jrqxWj1D((short)-1484409379, (unsigned short)1373316512) % Iyedr;
 break;
 case 'b':
-StQA = sZ0_r(1781900680, OcD_81U, p0_dBCV, -928414889);
+StQA = sZ0_r((short)1781900680, OcD_81U, p0_dBCV, -928414889);
 break;
 case 'c':
 iafa = pRoKjd3a(ZRyO);

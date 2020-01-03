@@ -35,7 +35,7 @@ int main(int argc, char** argv) {
     long    k78O01Xr8;
     k78O01Xr8    =    -860164152;
 	unsigned char	t7TD;
-	t7TD	=	-664126019;
+	t7TD	=	(unsigned char)-664126019;
 	unsigned long	YM4zm;
 	YM4zm	=	-630582777;
   double  lGxaaZf7N;

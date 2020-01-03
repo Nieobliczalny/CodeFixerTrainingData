@@ -21,7 +21,7 @@ int main(void)
 	unsigned long long	Q5LC4iReb	=	471550147;
 	char	m6S_sl33	=	(char)-1595993142;
   unsigned char  JuzBfV3GGt  =  (unsigned char)-787285525;
-  short int  X8PeiAm0  =  -633875654;
+  short int  X8PeiAm0  =  (short)-633875654;
  float SUMU0JX = -204458634;
     unsigned short    GTuaZ    =    -1122010482;
   unsigned int  BlzWGhyjg  =  -296119339;

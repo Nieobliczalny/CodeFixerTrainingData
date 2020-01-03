@@ -337,7 +337,7 @@ case 5:
 deVQ50IFf = fPln653a(-2079723141, (unsigned char)-1515292583);
 break;
 case 6:
-q8OBF = ya_JPny((unsigned short)754943989, sA0C0, -931618236);
+q8OBF = ya_JPny((unsigned short)754943989, sA0C0, (short)-931618236);
 break;
 case 7:
 P2LQg -= avMviC;

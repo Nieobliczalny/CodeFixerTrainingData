@@ -75,7 +75,7 @@ else if (Euv1X_P)
 switch (ww35QEB)
 {
 case 0:
-ww35QEB = axJexf(ww35QEB, (unsigned short)-503610394, (unsigned char)-1800774994, -138975958);
+ww35QEB = axJexf(ww35QEB, (unsigned short)-503610394, (unsigned char)-1800774994, (unsigned short)-138975958);
 break;
 case 1:
 C8cM = Y6GVuw2(C8cM, -893588499, CjH35lNn);
@@ -168,7 +168,7 @@ pqJ7c = k2ZP((unsigned short)453668556, h0_U4K, 1447718750, n4W809d, (short)-213
 }
 else
 {
-JUf51q_3 = Y6GVuw2(JUf51q_3, 1851048900, 1412550589);
+JUf51q_3 = Y6GVuw2(JUf51q_3, 1851048900, (short)1412550589);
 }
 }
 else
@@ -339,7 +339,7 @@ for (int i = 0; i < 2; i++)
 {
 try
 {
-ah983wVC = axJexf(512205386, -1855463970, 1491715401, X8m1E82Hs9) >> 1457910638;
+ah983wVC = axJexf(512205386, (unsigned short)-1855463970, 1491715401, X8m1E82Hs9) >> 1457910638;
 }
 catch (int& errorCode)
 {

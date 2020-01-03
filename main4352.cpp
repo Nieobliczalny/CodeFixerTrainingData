@@ -23,7 +23,7 @@ int main(int argc, char** argv)
   unsigned short  mA9Q;
   mA9Q  =  (unsigned short)1026707373;
 	unsigned short	biqmCM;
-	biqmCM	=	1832083954;
+	biqmCM	=	(unsigned short)1832083954;
   long  E2IDUOy8;
   E2IDUOy8  =  -591586515;
     short    bF1uz2QKcO;

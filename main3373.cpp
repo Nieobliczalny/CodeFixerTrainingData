@@ -41,7 +41,7 @@ int main() {
     unsigned short    Y37T319,    U8CZm,    d2yIq5f,    S0gw_2N98,    Tn9J725iuq,    e9jQN2f,    DVH3l2heTH,    mCt4,    e2Usa8LE2V,    o1ONjfE,    CM54H,    mB4Nr,    h8Gyxb9L,    s_sd73;
         Y37T319    =    U8CZm    =    d2yIq5f    =    S0gw_2N98    =    Tn9J725iuq    =    e9jQN2f    =    DVH3l2heTH    =    mCt4    =    e2Usa8LE2V    =    o1ONjfE    =    CM54H    =    mB4Nr    =    h8Gyxb9L    =    s_sd73    =    (unsigned short)431323268;
 
-o1ONjfE = dB41(o1ONjfE, 1946261070, 1573348994, -1493278604);
+o1ONjfE = dB41(o1ONjfE, 1946261070, 1573348994, (char)-1493278604);
 Y37T319 &= U8CZm;
 if (dKWd3J1 > U8CZm)
 {
@@ -103,7 +103,7 @@ else
 {
 cout << dB41(-1987435413, 1750350957, -581575159, o1ONjfE) << "g_r81kN8" << KbSTw96gW(e2Usa8LE2V, (unsigned char)1135159996) << endl;
 }
-cout << CM54H << eba6Y0(-1397644477, mB4Nr, S0gw_2N98, (unsigned short)-1352942220) << eba6Y0(e2Usa8LE2V, 1581211901, -340267848, o1ONjfE) << endl;
+cout << CM54H << eba6Y0(-1397644477, mB4Nr, S0gw_2N98, (unsigned short)-1352942220) << eba6Y0(e2Usa8LE2V, (short)1581211901, -340267848, o1ONjfE) << endl;
 
 for (int i = 5; i >= 0; i--)
 {

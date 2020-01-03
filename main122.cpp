@@ -288,7 +288,7 @@ case 2:
 ij1GIaf = x3k3J6S(ij1GIaf, (char)-977602285);
 break;
 case 3:
-A38uRmYOq = W0Py6(A38uRmYOq, -1854328825);
+A38uRmYOq = W0Py6(A38uRmYOq, (unsigned short)-1854328825);
 break;
 case 4:
 R_r7_8 = W0Py6(R_r7_8, fj32Qm);

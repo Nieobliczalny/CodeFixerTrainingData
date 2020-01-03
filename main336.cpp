@@ -43,7 +43,7 @@ int main(int argc, char** argv)
     long double    TQ5Q63i91;
     TQ5Q63i91    =    -593589421;
     unsigned char    s_C8O_70;
-    s_C8O_70    =    -1629510901;
+    s_C8O_70    =    (unsigned char)-1629510901;
 	unsigned long	HNBU_E0K;
 	HNBU_E0K	=	1494863964;
 	long	cQc32;
@@ -57,7 +57,7 @@ int main(int argc, char** argv)
 	short int	BV14nnSfH3;
 	BV14nnSfH3	=	(short)1829218740;
  unsigned char K_TYfjwaP;
- K_TYfjwaP = -635270601;
+ K_TYfjwaP = (unsigned char)-635270601;
 	int	ATR7Mh7;
 	ATR7Mh7	=	-336837238;
     unsigned long long    RBkl;

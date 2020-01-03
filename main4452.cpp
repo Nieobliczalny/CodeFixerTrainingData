@@ -27,7 +27,7 @@ char uX97sXD(long long RO4P1,unsigned long long AWrqRadU_j) {
 
 short int    ZtGB(char    xWws8mmyc_,unsigned short int    PJJ2CTMa43,unsigned short    tvr_hFEV4Z,unsigned long    RiT86cRbo1)
 {
-    return    -1056983034;
+    return    (short)-1056983034;
 }
 
 int main(int argc, char** argv) {
@@ -39,7 +39,7 @@ int main(int argc, char** argv) {
 	long long	dp8H3X	=	-1619377125;
 	long	E1204k7M	=	1981586742;
   short int  Bm_V8elu  =  (short)919170073;
-	unsigned short	dBk2V6EC0e	=	2135927492;
+	unsigned short	dBk2V6EC0e	=	(unsigned short)2135927492;
   int  fYI9_L014  =  877768320;
 	short	daIfu9Q7	=	1605198564;
   unsigned short int  F42Fkz  =  (unsigned short)962519223;
@@ -51,7 +51,7 @@ int main(int argc, char** argv) {
  unsigned int n2fcv5KH5E = 1799597460;
  char Bk7Jk1w_ = (char)642796096;
   unsigned long  T147MOs_  =  56268156;
-	short	lw389	=	318331617;
+	short	lw389	=	(short)318331617;
 	unsigned char	fk_OWs4a2a	=	(unsigned char)2102600602;
   short int  tltffcTo  =  233168037;
     double    l105X    =    17554420;
@@ -67,7 +67,7 @@ int main(int argc, char** argv) {
     short    D_cIh    =    (short)1027418993;
  long mvizfy4 = -2143494063;
   long  s68783ahyO  =  -1875497242;
-	short int	K2fu39S5i	=	-1307263371;
+	short int	K2fu39S5i	=	(short)-1307263371;
 	int	JQNOuVX	=	-1344451813;
     short    wLv9    =    1713398318;
  float SZO5aFw = 1923390804;
@@ -79,7 +79,7 @@ int main(int argc, char** argv) {
   unsigned char  XZ_V  =  -1096017038;
 	unsigned long	G1BeJ0	=	0;
 	float	z2_aw0	=	2033379102;
-  unsigned short int  VS01WqJi84  =  -429804587;
+  unsigned short int  VS01WqJi84  =  (unsigned short)-429804587;
  short int g05_ = 2022260611;
     short int    c7L9    =    884332451;
   char  C2qf  =  2024523545;
@@ -96,7 +96,7 @@ int main(int argc, char** argv) {
 	char	TwtBP0NRp	=	(char)-630202434;
  unsigned int CF7_8vLX = -1242442912;
   long  J0Ty3  =  1657086263;
-  short int  Ty22YM4j  =  -224017767;
+  short int  Ty22YM4j  =  (short)-224017767;
  long fln2f8V3i2 = 352119283;
 	char	slWo44oa1I	=	-1068358676;
   unsigned long long  UZBW804Y  =  1145124773;
@@ -106,7 +106,7 @@ int main(int argc, char** argv) {
 	long double	Xqf5rxZ	=	687515836;
     unsigned char    tH652uL7    =    (unsigned char)905801034;
   unsigned short int  NYD1O  =  -1407023243;
-	unsigned short int	pl0Wi32	=	-406493325;
+	unsigned short int	pl0Wi32	=	(unsigned short)-406493325;
  unsigned int vk4PTN5N = 1532817363;
  unsigned short M2PYC5FJ4g = -868010936;
   double  P9351FAhH  =  967378653;
@@ -225,7 +225,7 @@ G1BeJ0 = fZRUt(lN5D78k, Bk7Jk1w_, (unsigned char)-525487255, (unsigned short)193
 }
 else
 {
-G1BeJ0 = fZRUt(-1444907649, JQNOuVX, XZ_V, 988065597);
+G1BeJ0 = fZRUt((short)-1444907649, JQNOuVX, XZ_V, 988065597);
 }
 }
 else if ((spGD9RX8HV == -903939732) || (dBk2V6EC0e & -774879979))
@@ -296,7 +296,7 @@ case 'e':
 N1WJ05XI = (int)ceil(Xqf5rxZ);
 break;
 case 'f':
-KH17UVacse = ZtGB(688202818, -1064116259, -1686614484, gMjjQW);
+KH17UVacse = ZtGB((char)688202818, -1064116259, -1686614484, gMjjQW);
 break;
 case 'g':
 fk_OWs4a2a = (bAxvb > c7L9) ? z_a3 : -1823814592;
@@ -433,7 +433,7 @@ for (int i = 10; i >= 0; i--)
 {
 if (bAxvb == 2019022722)
 {
-std::cout << uX97sXD(fKDsiR_5A, qUQHyy7) << "ytyGkE" << uX97sXD(-1237656414, qUQHyy7) << "LV7ep" << fZRUt(fKDsiR_5A, (unsigned short)30033119, (unsigned char)-1963725920, 632359760) << std::endl;
+std::cout << uX97sXD(fKDsiR_5A, qUQHyy7) << "ytyGkE" << uX97sXD(-1237656414, qUQHyy7) << "LV7ep" << fZRUt(fKDsiR_5A, (unsigned short)30033119, (unsigned char)-1963725920, (unsigned short)632359760) << std::endl;
 }
 else if (TwtBP0NRp & -944265595)
 {
@@ -530,7 +530,7 @@ G1BeJ0 = (unsigned long)(P9351FAhH * G1BeJ0);
 std::cout << "L9i5H" << ZtGB(e46hg, F42Fkz, slWo44oa1I, -69148219) << "W1lC2Fg4" << fZRUt(e46hg, (unsigned short)-1115757320, slWo44oa1I, c7L9) << S__t() << std::endl;
 try
 {
-n2fcv5KH5E = ZtGB((char)1614389424, -1184882153, slWo44oa1I, c7L9) ^ bROo;
+n2fcv5KH5E = ZtGB((char)1614389424, (unsigned short)-1184882153, slWo44oa1I, c7L9) ^ bROo;
 }
 catch (int& errorCode)
 {

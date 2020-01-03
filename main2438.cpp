@@ -235,7 +235,7 @@ case 4:
 tk8u3 = NGWPArZ_l(tk8u3, -967613196, (short)-836780220);
 break;
 case 5:
-J840z = NGWPArZ_l((unsigned char)1974946146, -147095998, 1576745499);
+J840z = NGWPArZ_l((unsigned char)1974946146, -147095998, (short)1576745499);
 break;
 default:
 TONKrg5cF >>= 1334889367;
@@ -612,7 +612,7 @@ case 'e':
 COW8 = Vy6efW_o();
 break;
 default:
-Yo46BS5 = NGWPArZ_l(Yo46BS5, -1646700955, -1792215602);
+Yo46BS5 = NGWPArZ_l(Yo46BS5, -1646700955, (short)-1792215602);
 break;
 }
 

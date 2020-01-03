@@ -21,7 +21,7 @@ int main(int argc, char** argv)
 	short	l8Bo8689,	dEKzuJ,	DG17qRNUni,	h4YhsD7G;
 	l8Bo8689	=	(short)-1647161348;
 	dEKzuJ	=	(short)-676293172;
-	DG17qRNUni	=	276474528;
+	DG17qRNUni	=	(short)276474528;
 	h4YhsD7G	=	562667578;
 
 l8Bo8689++;

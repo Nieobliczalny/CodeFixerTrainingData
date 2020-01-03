@@ -26,7 +26,7 @@ int main(int argc, char** argv) {
  long double r2g28_;
  r2g28_ = -1147317701;
  unsigned char sOrc8MY4;
- sOrc8MY4 = -1861863172;
+ sOrc8MY4 = (unsigned char)-1861863172;
     unsigned long long    Wwd5_1PTic;
     Wwd5_1PTic    =    -814672714;
 	long	wap5KOc;
@@ -42,7 +42,7 @@ int main(int argc, char** argv) {
  short int N625UNnucb;
  N625UNnucb = (short)1982306069;
 	short	D_W9;
-	D_W9	=	-211340806;
+	D_W9	=	(short)-211340806;
     unsigned short    f7C7D;
     f7C7D    =    1876160763;
 	unsigned short	kF6DDm5216;
@@ -58,7 +58,7 @@ int main(int argc, char** argv) {
   unsigned short int  CprLHoY6b5;
   CprLHoY6b5  =  (unsigned short)-605367420;
 	char	uNdDJ7oH9;
-	uNdDJ7oH9	=	-235255707;
+	uNdDJ7oH9	=	(char)-235255707;
 	long	CoWK09N_w_;
 	CoWK09N_w_	=	-985239134;
  short int MTdM;
@@ -98,7 +98,7 @@ int main(int argc, char** argv) {
 	short	cr5fjUb;
 	cr5fjUb	=	(short)-1898846021;
 	unsigned short	zdsyO6;
-	zdsyO6	=	1859103960;
+	zdsyO6	=	(unsigned short)1859103960;
  double V291gFZ;
  V291gFZ = 1542834273;
 	double	S8HOY3Wr_e;
@@ -126,7 +126,7 @@ int main(int argc, char** argv) {
     short int    bWfcT1FMqC;
     bWfcT1FMqC    =    (short)-133596388;
     char    x2ew5SE85d;
-    x2ew5SE85d    =    1461861271;
+    x2ew5SE85d    =    (char)1461861271;
     unsigned short int    VsweC;
     VsweC    =    (unsigned short)157877934;
     char    x39QtD2aG6;
@@ -166,7 +166,7 @@ int main(int argc, char** argv) {
   short int  k2Vpu2UHm;
   k2Vpu2UHm  =  (short)1340384177;
   char  SH_l;
-  SH_l  =  1085287972;
+  SH_l  =  (char)1085287972;
 	unsigned short	Q_3_;
 	Q_3_	=	(unsigned short)1663920539;
   short int  qIn97E;
@@ -186,7 +186,7 @@ int main(int argc, char** argv) {
  unsigned int yAE7an;
  yAE7an = 373259140;
   unsigned short int  EtOtwR5k_9;
-  EtOtwR5k_9  =  1913805691;
+  EtOtwR5k_9  =  (unsigned short)1913805691;
 	unsigned char	Xshz41Cq;
 	Xshz41Cq	=	(unsigned char)-821022354;
   long  dTSrnq;
@@ -208,7 +208,7 @@ int main(int argc, char** argv) {
     unsigned short int    JM0jK84q6;
     JM0jK84q6    =    (unsigned short)1566727176;
     unsigned short    jh1dp;
-    jh1dp    =    1085457614;
+    jh1dp    =    (unsigned short)1085457614;
  unsigned long long k2T7;
  k2T7 = 1624172316;
 
@@ -299,7 +299,7 @@ ly09gX = G6eug((short)-2139672559, (short)1431508511, -1491110929, lwA7Yj16n, Ov
 }
 }
 yYJrL <<= 1194317553;
-ly09gX = G6eug(2000793131, 2088243870, bWfcT1FMqC, 2008842723, -1659428564);
+ly09gX = G6eug((short)2000793131, 2088243870, bWfcT1FMqC, 2008842723, -1659428564);
 VsweC = (unsigned short int)(c8w0od);
 {
 int i = 0;
@@ -319,7 +319,7 @@ std::cout << G6eug(ge9sj02, (short)1279252088, bWfcT1FMqC, j1L6wzPO, -2068134698
 }
 else if ((LS1oqa != -1593198725) || (I_y5 <= P9WA8Bf_))
 {
-ly09gX = G6eug(yYJrL, (short)1949892605, 1090760325, -419685236, -529193171);
+ly09gX = G6eug(yYJrL, (short)1949892605, 1090760325, (char)-419685236, -529193171);
 }
 else
 {
@@ -357,7 +357,7 @@ case 'b':
 x39QtD2aG6 %= NEi885s9;
 break;
 case 'c':
-ly09gX = G6eug((short)436581327, (short)-93744118, SgoE, -732461786, -1616035769);
+ly09gX = G6eug((short)436581327, (short)-93744118, SgoE, (char)-732461786, -1616035769);
 break;
 case 'd':
 I_y5++;
@@ -428,7 +428,7 @@ Q15D = (int)floor(r2g28_);
 }
 }
 
-std::cout << G6eug((short)-1795650711, (short)1910891093, 104504893, m98zn4, 582734558) << "KOfRI" << G6eug(nf9pH, 1698771222, 24372752, m98zn4, 893522501) << std::endl;
+std::cout << G6eug((short)-1795650711, (short)1910891093, 104504893, m98zn4, 582734558) << "KOfRI" << G6eug(nf9pH, (short)1698771222, 24372752, m98zn4, 893522501) << std::endl;
 
 if (V291gFZ < NEi885s9)
 {
@@ -498,7 +498,7 @@ if (OvO39t_ == c8w0od)
 {
 if (VsweC > DU_kmD)
 {
-ly09gX = G6eug((short)-1400327566, -1449072846, qIn97E, Y4_6_8h7, -300369549);
+ly09gX = G6eug((short)-1400327566, (short)-1449072846, qIn97E, Y4_6_8h7, -300369549);
 }
 }
 else if (sOrc8MY4 & 404776697)
@@ -618,7 +618,7 @@ ly09gX = G6eug((short)71992783, IoSYWo_1zR, f7C7D, soB_9W, -205536411);
 break;
 case 'f':
 case 'F':
-ly09gX = G6eug(-1634489112, -1636549312, 1609779132, -511294229, 239105827);
+ly09gX = G6eug((short)-1634489112, -1636549312, 1609779132, -511294229, 239105827);
 break;
 case 'g':
 case 'G':

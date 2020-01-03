@@ -166,7 +166,7 @@ case 6:
 wq3Tyx4kj /= A0sQtf2h;
 break;
 case 7:
-zsu_fZzfBj = NRlk60(1649846368, wq3Tyx4kj, zsu_fZzfBj, Y1h69);
+zsu_fZzfBj = NRlk60((short)1649846368, wq3Tyx4kj, zsu_fZzfBj, Y1h69);
 break;
 case 8:
 IjTxRdEc = FWvlW1r(IjTxRdEc, wq3Tyx4kj);
@@ -407,7 +407,7 @@ oiaU___Rj = NRlk60((short)292100579, (short)-1857361979, A0sQtf2h, Y1h69);
 }
 else if (wq3Tyx4kj)
 {
-IjTxRdEc = FWvlW1r(1108218542, Y1h69);
+IjTxRdEc = FWvlW1r((unsigned char)1108218542, Y1h69);
 }
 else if ((f2cCk7grA > Ln89_) || (oiaU___Rj & f2cCk7grA))
 {

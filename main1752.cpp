@@ -237,7 +237,7 @@ zTF6u5 = (unsigned short int)(Jd2D_Ko1B8);
 
 std::cout << VqF4OOn2oO << "GS62XZ_" << Fz6Wv8NxQO << pDG1DzeP((unsigned char)272451986, -322958525, xepFQWl7) << std::endl;
 xepFQWl7 = pDG1DzeP((unsigned char)89478878, -1523555820, -1974989381);
-if ((pDG1DzeP(1053833217, 719236356, 1075211651) / pDG1DzeP(Jd2D_Ko1B8, OJS_, 1706609378)) > -785186257)
+if ((pDG1DzeP((unsigned char)1053833217, 719236356, 1075211651) / pDG1DzeP(Jd2D_Ko1B8, OJS_, 1706609378)) > -785186257)
 {
 switch (OJS_)
 {

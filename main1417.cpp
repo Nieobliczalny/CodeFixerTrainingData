@@ -299,7 +299,7 @@ O2f3 = nqX8Hr / 1444799689;
 
 F_2K1QE7Ki = iWjVNt((short)-1324912815, -989981563);
 
-std::cout << UPz7V2nA4O << P8JW5n3pX(1407197128) << std::endl;
+std::cout << UPz7V2nA4O << P8JW5n3pX((short)1407197128) << std::endl;
 if (Y568 & -1213575096)
 {
 sx04m598W = y_0aI6QCT();

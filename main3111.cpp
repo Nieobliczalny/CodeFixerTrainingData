@@ -362,7 +362,7 @@ case 5:
 SXc_6EJ2tz = Irnmo99((unsigned char)-2101736535);
 break;
 case 6:
-vrpl042 = jowmo(1217587828, 685859421);
+vrpl042 = jowmo(1217587828, (char)685859421);
 break;
 case 7:
 NQgfb = (SXc_6EJ2tz) ? r9as : mS2SF02_8c;

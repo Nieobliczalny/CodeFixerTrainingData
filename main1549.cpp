@@ -34,7 +34,7 @@ int main()
 {
   unsigned short  msc2rU  =  (unsigned short)-1588818003;
  long long Zl_4I4H_kX = -658946776;
-	short int	Z0nf_9g	=	715339504;
+	short int	Z0nf_9g	=	(short)715339504;
  unsigned char nh_k = 20288493;
  unsigned short LRgD = 43439659;
     unsigned short    ty_OAm_627    =    (unsigned short)-740318246;
@@ -44,7 +44,7 @@ int main()
   unsigned long long  bBq3m9R  =  -282841542;
 	char	mA93	=	(char)-1497466709;
 	char	S31dvB1u	=	815226493;
-  short int  w2_cL  =  583266113;
+  short int  w2_cL  =  (short)583266113;
     unsigned short int    WrzO5q0    =    1299854886;
 	long long	jU10	=	-1379710791;
 	int	F3BS7Z5H1	=	1017340887;
@@ -76,7 +76,7 @@ int main()
 	double	o9_LpK	=	944286171;
   short int  bzcA  =  (short)-1221420465;
  long double P1uBCO = -942209244;
-	unsigned short	pbJA8	=	927005965;
+	unsigned short	pbJA8	=	(unsigned short)927005965;
 	float	t0pUSbmf	=	520846263;
     double    se29v    =    596983465;
 	short int	u3O3l	=	-680112027;
@@ -87,7 +87,7 @@ int main()
  unsigned short int PWcR_IWX_ = (unsigned short)51672828;
     short int    D2T_t9sY    =    (short)-1528283128;
     float    EQt9    =    -1849498346;
-  char  X1Hx_JGhRt  =  1497341600;
+  char  X1Hx_JGhRt  =  (char)1497341600;
   double  gp__  =  -1176121627;
     unsigned short int    FMJupTa_4    =    -1731238327;
 	short	YnQcO	=	1978362952;
@@ -98,7 +98,7 @@ int main()
  unsigned int Ui18 = -239703592;
   short  h4bS  =  (short)-265022589;
     short int    FlCTGBSj0    =    (short)479038045;
-	short int	vjUKm66b3	=	137651812;
+	short int	vjUKm66b3	=	(short)137651812;
  long NQbm6 = -459429686;
   unsigned long  JV4nerR  =  0;
  char nUt97414 = -405941501;
@@ -110,7 +110,7 @@ int main()
     long    h0PqFr5C    =    -1385631644;
   unsigned char  w8s3OrZG  =  (unsigned char)888307794;
 
-if ((V3UVz / y5Zwk(Z0nf_9g, H03Kpi, 1693165624)) != -464700933)
+if ((V3UVz / y5Zwk(Z0nf_9g, H03Kpi, (short)1693165624)) != -464700933)
 {
 for (int i = 0; i < 6; i++)
 {
@@ -344,7 +344,7 @@ case 7:
 Ta_R_ZM9oS = b8YenRJ(651824104, (short)478863462, pbJA8, (unsigned char)1211884469);
 break;
 case 8:
-WH1t2oJ84 = v7N8oaLZ(607565594);
+WH1t2oJ84 = v7N8oaLZ((unsigned short)607565594);
 break;
 case 9:
 EcLk7O6 = v7N8oaLZ(EcLk7O6);

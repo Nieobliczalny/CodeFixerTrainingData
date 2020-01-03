@@ -139,7 +139,7 @@ as_iON6lb = iU6zEG5L3w((unsigned short)-502401533, as_iON6lb, (unsigned short)-1
 }
 else if (ZMMRS2033m > -1076419319)
 {
-q17oq = iU6zEG5L3w(b57uRRPd, -796246928, Q0U2pFm4, pq4MPBz);
+q17oq = iU6zEG5L3w(b57uRRPd, (unsigned short)-796246928, Q0U2pFm4, pq4MPBz);
 }
 else if (Z01HqI4dY != -1741994179)
 {

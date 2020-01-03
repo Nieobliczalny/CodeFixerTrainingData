@@ -84,7 +84,7 @@ int main(void)
  float eDE8xn9;
  eDE8xn9 = -731348714;
   unsigned short  k8B8lm;
-  k8B8lm  =  -1623489464;
+  k8B8lm  =  (unsigned short)-1623489464;
   unsigned int  w5t5Xb6U;
   w5t5Xb6U  =  0;
  double JpKA2D9;
@@ -100,7 +100,7 @@ int main(void)
 	unsigned short int	nEA36Zh4;
 	nEA36Zh4	=	(unsigned short)1838784414;
     short int    NO86eU;
-    NO86eU    =    932738918;
+    NO86eU    =    (short)932738918;
     unsigned long long    o1G4sJScA;
     o1G4sJScA    =    1337494653;
     unsigned char    KX46B;

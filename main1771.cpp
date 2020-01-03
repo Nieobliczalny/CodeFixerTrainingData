@@ -44,7 +44,7 @@ int main() {
  unsigned short int fZk1lbi0UT;
  fZk1lbi0UT = (unsigned short)2044986373;
 	short int	Q679bP;
-	Q679bP	=	799231946;
+	Q679bP	=	(short)799231946;
   unsigned short  uBC5jb;
   uBC5jb  =  -735688536;
   unsigned char  rg0XkIRA;
@@ -82,7 +82,7 @@ int main() {
     short int    Z403k;
     Z403k    =    (short)895481744;
 	short int	YC262s6;
-	YC262s6	=	1677437070;
+	YC262s6	=	(short)1677437070;
   double  jlBxI8;
   jlBxI8  =  -370127430;
     short    LJHQTgdbSG;

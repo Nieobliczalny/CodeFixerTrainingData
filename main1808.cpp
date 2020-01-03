@@ -32,7 +32,7 @@ int main()
 	short int	Yw63yM9f;
 	Yw63yM9f	=	(short)-1478916016;
  char k8Snbi;
- k8Snbi = -1053356633;
+ k8Snbi = (char)-1053356633;
   long long  FIMuIBJXI;
   FIMuIBJXI  =  -1838232661;
     short int    Cf0uZ32;
@@ -44,7 +44,7 @@ int main()
  char elfC9;
  elfC9 = (char)-512252751;
     short int    FF0vN8y;
-    FF0vN8y    =    392724945;
+    FF0vN8y    =    (short)392724945;
   unsigned int  t6IbGzS7;
   t6IbGzS7  =  929989503;
  long lP0WO9zzx;
@@ -66,7 +66,7 @@ int main()
     char    R1W6;
     R1W6    =    (char)-1618897880;
   unsigned short  s0_o9;
-  s0_o9  =  1691636807;
+  s0_o9  =  (unsigned short)1691636807;
  unsigned short int t1LPP1;
  t1LPP1 = (unsigned short)-1465486494;
  short ebL6;

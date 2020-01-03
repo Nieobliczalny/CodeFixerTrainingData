@@ -15,7 +15,7 @@ int main() {
  float c713 = 664192196;
 	char	Pp5iZav2	=	(char)-1423278364;
  short int FOd0Tiz = (short)-1269412835;
-	short int	gIiG9	=	-1239327019;
+	short int	gIiG9	=	(short)-1239327019;
     float    kWyr5    =    -1097125019;
 	char	W6VQ42G46N	=	1126766103;
 	short int	O19hGRh	=	-316307380;

@@ -38,7 +38,7 @@ int main() {
 	short int	HQB14nm	=	(short)1018795174;
  unsigned long KSQHe4A = 1789762520;
     long long    F9ovG3t    =    1014726695;
- short yhkTYWR1b = -295731285;
+ short yhkTYWR1b = (short)-295731285;
 	char	G59x9qqyH6	=	-130193258;
  float cE_4ijG7wr = 1685554994;
     unsigned short int    R1C47_    =    542435345;
@@ -48,7 +48,7 @@ int main() {
   float  fKtybE_G4o  =  1471379515;
  unsigned int j27E = 569140187;
   char  gb__  =  (char)-2074833227;
-    char    OPkaKh8Yu    =    -1710996993;
+    char    OPkaKh8Yu    =    (char)-1710996993;
  unsigned char T3v1b10174 = 0;
 	double	RPt2pJ6WK6	=	-539960048;
 	long	vqa6	=	78882474;
@@ -74,7 +74,7 @@ int main() {
 	unsigned long	U74FVy5zDI	=	0;
  unsigned long Q8osXXi1L = -1186323342;
 	long	KFZ7Z956	=	275038389;
-    short    Up00    =    -55675882;
+    short    Up00    =    (short)-55675882;
 	double	s2zMBR8NZ	=	-1935828079;
 
 std::cout << LB34GR7(ofU47223g) << std::endl;
@@ -241,7 +241,7 @@ case 4:
 k0N5IXb5yi = (int)abs(DK96);
 break;
 case 5:
-iQgTxX3 = Iq16(iQgTxX3, k0N5IXb5yi, uTNB4, 1838387855);
+iQgTxX3 = Iq16(iQgTxX3, k0N5IXb5yi, uTNB4, (unsigned short)1838387855);
 break;
 }
 }

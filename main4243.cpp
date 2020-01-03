@@ -38,7 +38,7 @@ int main(void)
 	char	cA58tKYZ3u;
 	cA58tKYZ3u	=	(char)-1674236266;
     unsigned char    sryb3;
-    sryb3    =    -1464412240;
+    sryb3    =    (unsigned char)-1464412240;
  short int FQg61Y_1Zp;
  FQg61Y_1Zp = 0;
 	short	V15X;
@@ -104,7 +104,7 @@ int main(void)
   double  YGyo8_;
   YGyo8_  =  -1351207232;
  unsigned char F_Q_84i;
- F_Q_84i = 1592455002;
+ F_Q_84i = (unsigned char)1592455002;
 	unsigned long	lpup;
 	lpup	=	1469234015;
   int  fA4o131;
@@ -128,7 +128,7 @@ int main(void)
     float    zUTw;
     zUTw    =    -2069801380;
  short OFPb_0;
- OFPb_0 = 1115421364;
+ OFPb_0 = (short)1115421364;
 	long long	y68xk;
 	y68xk	=	-1994723921;
     unsigned long long    r7cz6LC;
@@ -150,7 +150,7 @@ int main(void)
 	short	RD3_g_2_c;
 	RD3_g_2_c	=	(short)-717668677;
 	unsigned short	BJnU;
-	BJnU	=	-1796747040;
+	BJnU	=	(unsigned short)-1796747040;
     float    F4s9243AAN;
     F4s9243AAN    =    1047699097;
  char Bj4zA3;
@@ -319,7 +319,7 @@ break;
 }
 for (int i = 1; i >= 0; --i)
 {
-qtC8 = M0blq4O_((unsigned char)-1555956031, (unsigned short)-1340726425, 572045771, B2cl);
+qtC8 = M0blq4O_((unsigned char)-1555956031, (unsigned short)-1340726425, (short)572045771, B2cl);
 }
 
 B67166IU = (int)ceil(WI4hP72);
@@ -346,7 +346,7 @@ i++;
 
 IN1e_6SVv = (float)(Ww5r51vMT4);
 
-rlXXb = YGyo8_ / M0blq4O_(OUpN65K8g, (unsigned short)1800910857, (short)953309805, -1421550208);
+rlXXb = YGyo8_ / M0blq4O_(OUpN65K8g, (unsigned short)1800910857, (short)953309805, (short)-1421550208);
 if ((Kkd69t4n != -135475296) && ((X2Js & -187485054) && (Y_1X_06 >= 1699701304)))
 {
 if (eQkAf78YK & -1713245479)
@@ -363,7 +363,7 @@ case 'c':
 CY0cv5_ = wfADq | h3tgg8;
 break;
 case 'd':
-cNXO41 = (eeEmXj == -1251603994) ? (unsigned short)-796859497 : BO29L05Jm(Rgr8ZPN, (unsigned short)1952063447, -1745861867, -1032314398);
+cNXO41 = (eeEmXj == -1251603994) ? (unsigned short)-796859497 : BO29L05Jm(Rgr8ZPN, (unsigned short)1952063447, -1745861867, (unsigned short)-1032314398);
 break;
 case 'e':
 rlXXb += 639571939;
@@ -441,7 +441,7 @@ catch (int& errorCode)
 F_Q_84i += LM0Oc51Lm;
 }
 B2cl = (int)abs(h3tgg8);
-V15X = M0blq4O_((unsigned char)737879545, (unsigned short)1809331320, 189931155, -1827806081);
+V15X = M0blq4O_((unsigned char)737879545, (unsigned short)1809331320, (short)189931155, -1827806081);
 
 {
 int i = 0;

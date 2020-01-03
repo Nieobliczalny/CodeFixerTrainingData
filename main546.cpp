@@ -402,7 +402,7 @@ seL3_88hE_ = HLdCtLBWQM(seL3_88hE_);
 break;
 case 'f':
 case 'F':
-p9F0U5PyG = uYB2N3w8(D_aPH9, 1773214530);
+p9F0U5PyG = uYB2N3w8(D_aPH9, (short)1773214530);
 break;
 case 'g':
 case 'G':

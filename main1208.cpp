@@ -32,7 +32,7 @@ int main(void) {
 
 lAM2Iq = N__iI / P6hV_uc(1604424447, OI24, 1647313042, -426981042);
 
-uVY04Ke0J8 = Nrdc(uVY04Ke0J8, (unsigned short)442758453, (short)1187028058, mU315PRkI, 1063845830);
+uVY04Ke0J8 = Nrdc(uVY04Ke0J8, (unsigned short)442758453, (short)1187028058, mU315PRkI, (unsigned char)1063845830);
 
 std::cout << "SXn8D" << P6hV_uc(689349625, hx458_d, -1868127137, mU315PRkI) << "mAp6Pa_" << ek_47 << std::endl;
 try
@@ -84,7 +84,7 @@ case 3:
 h_ArD *= 368591413;
 break;
 case 4:
-WNKI = Nrdc(-316714500, -1849875486, 2042022285, LYWZU, 420701414);
+WNKI = Nrdc(-316714500, (unsigned short)-1849875486, 2042022285, LYWZU, 420701414);
 break;
 case 5:
 e85QJdR = Nrdc(1039073887, (unsigned short)-1368172060, 744511423, fGBg, d9eGH9WNW);
@@ -187,7 +187,7 @@ std::cout << P6hV_uc(OI24, (unsigned short)-333447465, -437175539, -1584974277) 
 }
 else if (((aSp1 < 1633201587) && (lAM2Iq > 1203056977)) && (lAM2Iq > LYWZU))
 {
-n4I9ew = Rk07l(n4I9ew, aSp1, 616397927, -932705381, -152815325);
+n4I9ew = Rk07l(n4I9ew, aSp1, 616397927, -932705381, (char)-152815325);
 }
 else if (((Vc9h68 > -772951226) && (Vd06ts9mp > 1925849118)) && (OI24 != -305422988))
 {

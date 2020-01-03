@@ -102,7 +102,7 @@ else if (yTPJ >= J2vsWjz)
 {
 if (c807X1U > J2vsWjz)
 {
-aUX74 = Y045(aUX74, 2105948313, w3_W_7y, 1684376085, -2117463330);
+aUX74 = Y045(aUX74, 2105948313, w3_W_7y, 1684376085, (short)-2117463330);
 }
 else
 {
@@ -307,7 +307,7 @@ case 'e':
 Zy_jNhWwm = Y045((short)23959127, 564924538, cYO2y, strb, zy73oJ93);
 break;
 case 'f':
-DOzh6 = Y045((short)106384912, EMlAJ7O, -1970277072, b49O3, aDWV4);
+DOzh6 = Y045((short)106384912, EMlAJ7O, (unsigned char)-1970277072, b49O3, aDWV4);
 break;
 case 'g':
 o__4jd09ht = b_aXnmi2_(-1128109856);

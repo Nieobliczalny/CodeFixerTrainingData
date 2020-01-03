@@ -16,7 +16,7 @@ int main(void)
   short int  KIcI  =  (short)1917448421;
 	unsigned int	lT5V	=	-2091074887;
 	unsigned char	qqC350UW	=	(unsigned char)1176098482;
-    unsigned short int    uD18c    =    536504373;
+    unsigned short int    uD18c    =    (unsigned short)536504373;
     int    VTi4k_T9W    =    -904525983;
  long double wWcNRg2 = 1543080766;
     char    Uvtt18    =    -861710626;
@@ -32,7 +32,7 @@ int main(void)
  unsigned char Nc_s = (unsigned char)1119129436;
 	unsigned long	DRf9_4U_U	=	1165034033;
  long long xSQ6a58_93 = 1344600140;
-    short int    OyBt14imVM    =    -844747568;
+    short int    OyBt14imVM    =    (short)-844747568;
   unsigned char  j5xJ9F  =  1846493922;
   short int  TACYKmBas9  =  -1056916766;
   double  pgc387O4c  =  141932080;
@@ -52,7 +52,7 @@ int main(void)
     unsigned int    L5Bf_p_s74    =    1901820324;
     unsigned char    ptROu    =    (unsigned char)1778685701;
   unsigned long long  JIx7f  =  770935088;
-	unsigned short	OY2N30vaq	=	652491923;
+	unsigned short	OY2N30vaq	=	(unsigned short)652491923;
  long long o9xNlpAJp = 260042398;
   unsigned short  y64GY9  =  (unsigned short)1140576948;
  short int alLx08SR0 = 0;
@@ -66,7 +66,7 @@ int main(void)
  double DZAqcY = -848993928;
     unsigned int    MbTI    =    943214697;
 	unsigned short int	mBr_W	=	(unsigned short)-310727000;
-  short int  n_7z859k  =  -1952541661;
+  short int  n_7z859k  =  (short)-1952541661;
  unsigned long long Qd67 = 1612985102;
  long double HQCGsv = -1548151737;
  unsigned short zDPKlbu99 = -2046607784;
@@ -319,7 +319,7 @@ else
 {
 if (Q8T73VoM < 394212307)
 {
-HOm7 = Q31_40(1304721414, -554084621, Nc_s, n_7z859k);
+HOm7 = Q31_40((unsigned short)1304721414, -554084621, Nc_s, n_7z859k);
 }
 else if (r747y8 == n_7z859k)
 {
@@ -454,7 +454,7 @@ case 'a':
 OJNLf = Q31_40((unsigned short)797822618, (unsigned short)-1499524282, 1705159006, alLx08SR0);
 break;
 case 'b':
-qqC350UW = Q31_40(-1174745458, 1872173602, -1926845546, MAoM);
+qqC350UW = Q31_40((unsigned short)-1174745458, 1872173602, -1926845546, MAoM);
 break;
 case 'c':
 gISJt5D36I = (int)ceil(r747y8);

@@ -22,7 +22,7 @@ int main() {
 	double	oLFuy949	=	-442769620;
     float    g4QIYp5    =    -1954774106;
 	long	ZtCTC17	=	564765185;
-    unsigned short    X6uwgj7ijw    =    1498494555;
+    unsigned short    X6uwgj7ijw    =    (unsigned short)1498494555;
 	char	b8Furzk7	=	(char)2112846543;
 	int	jeGYl	=	0;
     unsigned long long    jtz449B_    =    1127980458;
@@ -32,7 +32,7 @@ int main() {
  long double RWEIi5u4_2 = 1320057902;
 	float	c03J4	=	-526793209;
     double    W8Gu0vg1K    =    1666362477;
-  unsigned short int  fcp35E56  =  -1598986378;
+  unsigned short int  fcp35E56  =  (unsigned short)-1598986378;
 	unsigned short	w78X6	=	(unsigned short)-1325430402;
     short    s51f1    =    -1614110054;
  long a5_s5IN7 = -2079939133;
@@ -42,7 +42,7 @@ int main() {
     int    bd6y0wdgo    =    -1291723777;
  unsigned short ySl4_ = (unsigned short)1369284950;
     unsigned long long    fz0bTC9    =    1328850838;
-  char  TMF0W7  =  -2133659404;
+  char  TMF0W7  =  (char)-2133659404;
   long double  aGJela2  =  -1199348011;
  unsigned int nk789dra48 = 1536167220;
     long long    C5jr1h    =    -1624551487;
@@ -55,7 +55,7 @@ int main() {
     unsigned short int    V3WenNhS    =    (unsigned short)-800137822;
  double VE49 = -641161041;
     long    sxcD    =    441801060;
-    unsigned short    wa5Y8rU72L    =    1405658004;
+    unsigned short    wa5Y8rU72L    =    (unsigned short)1405658004;
   unsigned long  vCh8dmSv  =  1840452289;
  long Xb25F6 = 0;
     char    FyCX0la_0    =    (char)-816415744;
@@ -66,7 +66,7 @@ int main() {
  unsigned char YsA4AjA_PM = (unsigned char)2038288928;
  long long xMvnP_oDcI = 36202062;
   int  diNazX69  =  -194348078;
-    short int    n64udFy3    =    -330732650;
+    short int    n64udFy3    =    (short)-330732650;
   unsigned short int  Ddsd  =  889215249;
 	unsigned short int	Q9WRxy	=	(unsigned short)-853889896;
   int  Ulu5  =  -1360979456;
@@ -785,7 +785,7 @@ case 6:
 Z_9B = o_03sOpq_(TMF0W7, 1906525274, lPA901I, (short)89787836, 629260577) >> 128636671;
 break;
 case 7:
-Xb25F6 = o_03sOpq_(-298963108, s51f1, 222608808, -631502565, Z_9B);
+Xb25F6 = o_03sOpq_(-298963108, s51f1, 222608808, (short)-631502565, Z_9B);
 break;
 default:
 LLYn2hAH = g4QIYp5 - RIAvX;

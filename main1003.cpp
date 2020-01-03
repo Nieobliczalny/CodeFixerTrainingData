@@ -79,7 +79,7 @@ cout << b1ZJ() << "Fh72ekp" << k8I8SDw36B(334959265, (unsigned short)-1176980882
 }
 else if (e_tYfBNoH != -2062723516)
 {
-e_tYfBNoH = Gyt4jES675(e_tYfBNoH, (char)-1017667822, -1097954360, z3yLJF8o);
+e_tYfBNoH = Gyt4jES675(e_tYfBNoH, (char)-1017667822, (short)-1097954360, z3yLJF8o);
 }
 else
 {
@@ -114,7 +114,7 @@ if ((Slr1cm19 <= 1800465333) || (utrA3HzH > Qh1Ei))
 {
 NE4T3F = Vtli_(NE4T3F, (unsigned char)1081051609, -1378072812, MdCBDI6297);
 }
-cout << czRguz << Vtli_((char)1546079924, Kv9Oen8TgU, 585874611, MdCBDI6297) << Vtli_(-992827969, Kv9Oen8TgU, sBH8, MdCBDI6297) << endl;
+cout << czRguz << Vtli_((char)1546079924, Kv9Oen8TgU, 585874611, MdCBDI6297) << Vtli_((char)-992827969, Kv9Oen8TgU, sBH8, MdCBDI6297) << endl;
 
 try
 {
@@ -185,7 +185,7 @@ Iy0IV7t96 = Vtli_((char)2015247517, A42577Ei2, 771242083, TA0Q);
 break;
 case 'f':
 case 'F':
-MkZ6d5c = EKGo(-1417961506, 388556266, lh1SB0G8, -1260832427, 1505873013);
+MkZ6d5c = EKGo(-1417961506, 388556266, lh1SB0G8, (unsigned char)-1260832427, 1505873013);
 break;
 case 'g':
 case 'G':

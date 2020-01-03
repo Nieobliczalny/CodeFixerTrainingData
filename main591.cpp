@@ -35,7 +35,7 @@ int main(void) {
   short  sYPSaWh,  z92Cf50,  e9_E,  Em_3p,  b0f5,  I5GhL3_Qb,  aK2O8,  onmWs4zAZ,  z35N7Zmw,  lDToL7z,  pqwd86,  K__Hv3jc,  Q3u0q,  JbLeGT,  hkj80_2O,  w2V2,  fLn49tiY,  zEkBzAsnIB,  Ob6oMa,  Vv09u0162t,  IyEV_,  Sj_JZ,  vEEW,  t47k4dRya,  u074T,  Cld3aQ_xRg,  r5PN58,  svQzv0VOP,  bslLUxL,  w6AiU9,  NGqVLRl,  R3H8MmX_1,  x3Bz0t2SHZ,  V3w8dcH5rE,  jCSt_,  ONqXR,  b0Eb1Qnw,  PC1HDkT,  KHUy6h5,  G96w,  Pg2Cq,  L4lOoX,  Bzl0,  Q3i9,  h4Km,  ghW03j,  gY3NAL1s,  ZpJ_x13U,  oi643Ee,  l63qrGx5s,  hpjT5Ic,  mdqtS,  p3zU88,  bFcG,  X_G46a0e,  uh_4BM6u,  C6VFt_3KVP,  W0Ov9,  Ev_NZTn9,  C3AEu342,  rrUc2CC,  n60tS,  Nlkf,  ib4_ZJ,  z_9H,  HkBbRSAzRW,  kxM86bB,  W3w6H2W,  OUG7AY9v,  htTElsWo,  rV40zkr,  ZlJT9AqZE,  XG9EsH2o,  PKNYSq99,  ERU7yCyP,  dqYmPZKR,  MWdYT,  A7Zo,  CWIm,  D_FQ;
   sYPSaWh  =  (short)894938478;
   z92Cf50  =  (short)586123450;
-  e9_E  =  598311097;
+  e9_E  =  (short)598311097;
   Em_3p  =  -1970819522;
   b0f5  =  1578338452;
   I5GhL3_Qb  =  -834878264;
@@ -45,7 +45,7 @@ int main(void) {
   lDToL7z  =  -1201566699;
   pqwd86  =  (short)1033197002;
   K__Hv3jc  =  (short)-223522439;
-  Q3u0q  =  891709918;
+  Q3u0q  =  (short)891709918;
   JbLeGT  =  779215095;
   hkj80_2O  =  -358809436;
   w2V2  =  629516066;
@@ -55,7 +55,7 @@ int main(void) {
   Vv09u0162t  =  614456483;
   IyEV_  =  (short)139065831;
   Sj_JZ  =  (short)-997738987;
-  vEEW  =  -1256797783;
+  vEEW  =  (short)-1256797783;
   t47k4dRya  =  -1838482712;
   u074T  =  412550997;
   Cld3aQ_xRg  =  -1977752443;
@@ -65,7 +65,7 @@ int main(void) {
   w6AiU9  =  1753434009;
   NGqVLRl  =  (short)907507335;
   R3H8MmX_1  =  (short)887534795;
-  x3Bz0t2SHZ  =  2041971633;
+  x3Bz0t2SHZ  =  (short)2041971633;
   V3w8dcH5rE  =  1767785818;
   jCSt_  =  1910754328;
   ONqXR  =  -833410506;
@@ -75,7 +75,7 @@ int main(void) {
   G96w  =  534142708;
   Pg2Cq  =  (short)-1826109299;
   L4lOoX  =  (short)976011010;
-  Bzl0  =  1701190432;
+  Bzl0  =  (short)1701190432;
   Q3i9  =  -881472699;
   h4Km  =  -1818182458;
   ghW03j  =  1500001605;
@@ -85,7 +85,7 @@ int main(void) {
   l63qrGx5s  =  442569401;
   hpjT5Ic  =  (short)1206066685;
   mdqtS  =  (short)-1846491335;
-  p3zU88  =  1674976289;
+  p3zU88  =  (short)1674976289;
   bFcG  =  -721609667;
   X_G46a0e  =  -549322815;
   uh_4BM6u  =  1287514673;
@@ -95,7 +95,7 @@ int main(void) {
   C3AEu342  =  -823258268;
   rrUc2CC  =  (short)472629866;
   n60tS  =  (short)-1698028199;
-  Nlkf  =  -885058300;
+  Nlkf  =  (short)-885058300;
   ib4_ZJ  =  -791398446;
   z_9H  =  -1854192118;
   HkBbRSAzRW  =  406681371;
@@ -105,7 +105,7 @@ int main(void) {
   htTElsWo  =  -1761834926;
   rV40zkr  =  (short)-30541293;
   ZlJT9AqZE  =  (short)-1519656019;
-  XG9EsH2o  =  -1826472267;
+  XG9EsH2o  =  (short)-1826472267;
   PKNYSq99  =  -1456409980;
   ERU7yCyP  =  1216718885;
   dqYmPZKR  =  -317118755;
@@ -192,7 +192,7 @@ pqwd86 = kkZq9Ze((char)1349420555, JbLeGT) - uh_4BM6u;
 }
 else if (uh_4BM6u <= mCdEW9rJ)
 {
-S7BbX5o = M6y7m((unsigned char)878604647, -1653543055, -248998387);
+S7BbX5o = M6y7m((unsigned char)878604647, -1653543055, (unsigned short)-248998387);
 }
 else if (n60tS & 2077640687)
 {
@@ -252,7 +252,7 @@ S7BbX5o = M6y7m((unsigned char)1190023813, ghW03j, (unsigned short)426308030);
 
 if (A7Zo > -597672542)
 {
-hkj80_2O = HsuAW3tSo(-1566228999, 1545074653, 1787016167, kxM86bB);
+hkj80_2O = HsuAW3tSo((unsigned short)-1566228999, 1545074653, 1787016167, kxM86bB);
 }
 else if (ZlJT9AqZE >= 1326483151)
 {
@@ -353,7 +353,7 @@ I5GhL3_Qb &= Nlkf;
 break;
 case 'g':
 case 'G':
-u074T = M6y7m((unsigned char)-921818645, aK2O8, -1735335090) >> PKNYSq99;
+u074T = M6y7m((unsigned char)-921818645, aK2O8, (unsigned short)-1735335090) >> PKNYSq99;
 break;
 case 'h':
 case 'H':
@@ -489,7 +489,7 @@ if (vEEW >= R7_g2crwXL)
 int j = 0;
 while (j < 6)
 {
-cout << kkZq9Ze(b0f5, e9_E) << G96w << mdqtS << M6y7m((unsigned char)1213155863, e9_E, 938867431) << endl;
+cout << kkZq9Ze(b0f5, e9_E) << G96w << mdqtS << M6y7m((unsigned char)1213155863, e9_E, (unsigned short)938867431) << endl;
 ++j;
 }
 }

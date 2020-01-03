@@ -20,7 +20,7 @@ int main() {
   short  O3_6_,  P49fV56gZ,  K1iA5l,  jFc9,  lX6F,  e4k1U,  x7UP4KRH,  JKWzfJc0gM,  Bw5_b2Jk,  TVqTnq5t,  xBG2,  N_IViA,  Q6oqMEedR_,  lV9I9eEV,  l_y3d8R,  BT2J,  aFN8Py,  Sp8kX,  qTVYiQV,  pFcO5800,  f5qM,  A9jgTRKv_C,  J_M9a1hz,  DzKK,  iXg9,  P5a_FJ6,  XzR1,  j13W,  sF131,  O8PY9b_,  ZCj3B1L,  O_hFvV,  KveGh4HO,  xJRzadUH5_;
   O3_6_  =  (short)-1471496826;
   P49fV56gZ  =  (short)1962044553;
-  K1iA5l  =  -1331171489;
+  K1iA5l  =  (short)-1331171489;
   jFc9  =  -1165334566;
   lX6F  =  282832237;
   e4k1U  =  -341955951;
@@ -30,7 +30,7 @@ int main() {
   TVqTnq5t  =  470727694;
   xBG2  =  (short)862006572;
   N_IViA  =  (short)-407579552;
-  Q6oqMEedR_  =  -858974894;
+  Q6oqMEedR_  =  (short)-858974894;
   lV9I9eEV  =  1131334994;
   l_y3d8R  =  50446908;
   BT2J  =  -5023815;
@@ -40,7 +40,7 @@ int main() {
   pFcO5800  =  826931643;
   f5qM  =  (short)947855273;
   A9jgTRKv_C  =  (short)1949353956;
-  J_M9a1hz  =  -19237217;
+  J_M9a1hz  =  (short)-19237217;
   DzKK  =  -112282788;
   iXg9  =  -2044019606;
   P5a_FJ6  =  2086089993;
@@ -50,7 +50,7 @@ int main() {
   O8PY9b_  =  1113524825;
   ZCj3B1L  =  (short)823207278;
   O_hFvV  =  (short)-1414751068;
-  KveGh4HO  =  1737798061;
+  KveGh4HO  =  (short)1737798061;
   xJRzadUH5_  =  -1353948878;
 	char	Jme88,	NtM_177x,	t6hyZGxc8,	jN8B6Q0;
 	Jme88	=	0;
@@ -129,7 +129,7 @@ case 'b':
 ZCj3B1L = ssBo(ZCj3B1L, O3_6_, (unsigned char)-1084445193);
 break;
 case 'c':
-P49fV56gZ = ssBo(-385396109, O_hFvV, -1286430095);
+P49fV56gZ = ssBo((unsigned short)-385396109, O_hFvV, -1286430095);
 break;
 case 'd':
 xBG2 = (O3_6_ > e4k1U) ? 306874944 : -442067795;
@@ -193,7 +193,7 @@ case 'f':
 BT2J = qTVYiQV & 1267151090;
 break;
 case 'g':
-iXg9 = ssBo(1343556386, 421797934, j13W);
+iXg9 = ssBo((unsigned short)1343556386, 421797934, j13W);
 break;
 case 'h':
 Bw5_b2Jk = ssBo((unsigned short)1441598582, lV9I9eEV, NtM_177x);
@@ -367,7 +367,7 @@ case 3:
 sF131 -= 499525284;
 break;
 case 4:
-jN8B6Q0 = N2Z7((short)-1385850134, 901258798);
+jN8B6Q0 = N2Z7((short)-1385850134, (unsigned short)901258798);
 break;
 case 5:
 xBG2 &= 1444441617;

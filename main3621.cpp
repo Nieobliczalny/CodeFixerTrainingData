@@ -201,7 +201,7 @@ case 'a':
 dyzlJ_o0 = fr18P2ZR0O(dyzlJ_o0, vb7pX2FuI, wpf_4x, (unsigned char)552118374, Tn4j);
 break;
 case 'b':
-qSb5Jh = xr7Rzhu(qSb5Jh, (short)-901487320, 1143114338);
+qSb5Jh = xr7Rzhu(qSb5Jh, (short)-901487320, (unsigned short)1143114338);
 break;
 case 'c':
 OppZ110C03 = (int)abs(phLVy5d6);
@@ -258,7 +258,7 @@ case 2:
 e5alC0_ >>= 795008905;
 break;
 case 3:
-Tn4j = xr7Rzhu(Tn4j, Bv27WbrX_, 673687366);
+Tn4j = xr7Rzhu(Tn4j, Bv27WbrX_, (unsigned short)673687366);
 break;
 case 4:
 SAs7nPcRky = QdWoaZ8();

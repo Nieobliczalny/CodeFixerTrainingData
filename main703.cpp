@@ -36,7 +36,7 @@ int main(int argc, char** argv)
  unsigned long i2_Y50_L89 = 1118656355;
  long long RHEP5Nfk_ = 314600332;
 	unsigned char	td_t	=	(unsigned char)551434458;
-  unsigned char  lE3EX17_6s  =  -2086038607;
+  unsigned char  lE3EX17_6s  =  (unsigned char)-2086038607;
     short int    LgNel    =    (short)281839313;
  long long NJ841UdLB = -361049944;
 	unsigned short int	w5v9uwrGTg	=	-219713842;
@@ -48,7 +48,7 @@ int main(int argc, char** argv)
   long long  e8R7__lQ_Y  =  1724685211;
   unsigned short  x25jVg2gY  =  (unsigned short)-280851673;
 	short int	n94JrtP	=	(short)1700800048;
- char GaQ2 = -1857995482;
+ char GaQ2 = (char)-1857995482;
 	long long	p_bp	=	-1519490132;
     long    Bv6p3    =    1509512458;
 	short	TtHV	=	1074930887;
@@ -405,7 +405,7 @@ break;
 
 if (gywh0mP & -289839334)
 {
-Vl__162 = uyJmKZdoen(td_t, (unsigned short)226478945, 811705515, -1417818096, Bv6p3);
+Vl__162 = uyJmKZdoen(td_t, (unsigned short)226478945, 811705515, (unsigned char)-1417818096, Bv6p3);
 }
 else if (pT10A1d8N != 687225017)
 {

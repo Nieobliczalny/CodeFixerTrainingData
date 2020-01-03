@@ -21,7 +21,7 @@ int main(int argc, char** argv)
     short    Lh5n,    YcKBD,    pO7P,    vhraXaw8i1,    C99Q2Nuj,    TA83tQB;
     Lh5n    =    (short)-1339196460;
     YcKBD    =    (short)-1487824289;
-    pO7P    =    -1089381731;
+    pO7P    =    (short)-1089381731;
     vhraXaw8i1    =    1358628860;
     C99Q2Nuj    =    -314234751;
     TA83tQB    =    2114461497;
@@ -83,7 +83,7 @@ case 2:
 TA83tQB = RT_bxzx(XSgqZUq54V);
 break;
 case 3:
-pO7P = PhSP(1412402678, -508539235, Wm5Bq, 427614304);
+pO7P = PhSP((unsigned short)1412402678, -508539235, Wm5Bq, 427614304);
 break;
 case 4:
 C99Q2Nuj = (int)abs(TA83tQB);

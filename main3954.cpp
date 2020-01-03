@@ -171,7 +171,7 @@ break;
 }
 else if ((qTQ0j0r & 774971251) || ((slo_la83W & 1485224297) || (z03p != CoY2_EDe)))
 {
-std::cout << "G4XTC" << y6C2p1Hh << mH__t987r(lWy61bP, 1901322557, jsW7O1GV, hMo6XC1u1) << H829671 << ijh03_m6(lWy61bP) << std::endl;
+std::cout << "G4XTC" << y6C2p1Hh << mH__t987r(lWy61bP, (unsigned short)1901322557, jsW7O1GV, hMo6XC1u1) << H829671 << ijh03_m6(lWy61bP) << std::endl;
 }
 else if ((kBCINxEDd < -292477446) && (qTQ0j0r))
 {

@@ -127,7 +127,7 @@ case 'e':
 eUlPC >>= ziic4;
 break;
 case 'f':
-SZibq = n5U3fx((unsigned short)1493259935, T0rC_, -1811619355, -760372389);
+SZibq = n5U3fx((unsigned short)1493259935, T0rC_, -1811619355, (short)-760372389);
 break;
 default:
 sE1gfyH0B |= 237932701;
@@ -173,7 +173,7 @@ case 6:
 x5N9 = Ym227X((unsigned short)1506357715);
 break;
 case 7:
-qMm9dj11 = (YW_GJhq5V != 1869019333) ? -554225841 : n5U3fx((unsigned short)755058209, 1281521880, -155825842, -1257108209);
+qMm9dj11 = (YW_GJhq5V != 1869019333) ? -554225841 : n5U3fx((unsigned short)755058209, 1281521880, -155825842, (short)-1257108209);
 break;
 case 8:
 B8C4Gx8H = x0YD % 1749341037;
@@ -383,7 +383,7 @@ else
 switch (wS_RdH)
 {
 case 0:
-A04f = n5U3fx((unsigned short)-95793265, 1092564886, 2081676016, 296798281);
+A04f = n5U3fx((unsigned short)-95793265, 1092564886, 2081676016, (short)296798281);
 break;
 case 1:
 dQZxoF2aPm = kEU6m() / 1643128019;
@@ -580,7 +580,7 @@ default:
 k3Qe2K0 >>= TPbA;
 break;
 }
-TqZO = n5U3fx((unsigned short)1184119370, x0YD, -1255236241, 277401335) / 2002846;
+TqZO = n5U3fx((unsigned short)1184119370, x0YD, -1255236241, (short)277401335) / 2002846;
 std::cout << kEU6m() << "R9Tf1148_" << a8RlmQ9fcJ((unsigned char)674347710, 1421270753, A04f, T0rC_) << std::endl;
 
 for (int i = 2; i >= 0; i--)

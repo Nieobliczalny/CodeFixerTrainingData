@@ -60,7 +60,7 @@ int main() {
     char    zv4L;
     zv4L    =    (char)275467140;
 	unsigned char	ioQcd25i5v;
-	ioQcd25i5v	=	1682407461;
+	ioQcd25i5v	=	(unsigned char)1682407461;
   long long  rtzKdKs;
   rtzKdKs  =  1942136422;
   unsigned int  n_j_Z2PNC5;
@@ -88,7 +88,7 @@ int main() {
   unsigned short  wkB1DAx4iN;
   wkB1DAx4iN  =  (unsigned short)-232711663;
  char aNE_L5Ke;
- aNE_L5Ke = 1577837720;
+ aNE_L5Ke = (char)1577837720;
 	long double	N6D9w;
 	N6D9w	=	606005316;
     unsigned short int    RmGb20odLG;
@@ -100,7 +100,7 @@ int main() {
   short int  SQU9vILbl;
   SQU9vILbl  =  (short)-230104114;
 	unsigned short	wcmFF99JDN;
-	wcmFF99JDN	=	139221537;
+	wcmFF99JDN	=	(unsigned short)139221537;
   unsigned short int  s0Gk5ciM;
   s0Gk5ciM  =  (unsigned short)945547343;
   long double  yWz9_;

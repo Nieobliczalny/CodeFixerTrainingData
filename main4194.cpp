@@ -21,7 +21,7 @@ int main()
  char e4fIczU8;
  e4fIczU8 = (char)496343107;
     unsigned short    snuOV2u;
-    snuOV2u    =    -1810662911;
+    snuOV2u    =    (unsigned short)-1810662911;
  unsigned short APq0;
  APq0 = (unsigned short)-1517282848;
  short f3LJ6G;
@@ -75,7 +75,7 @@ int main()
  unsigned short ZuXMFJf8s;
  ZuXMFJf8s = (unsigned short)1841601085;
     unsigned char    L4lvm9D;
-    L4lvm9D    =    -978233606;
+    L4lvm9D    =    (unsigned char)-978233606;
  short int V1g528;
  V1g528 = (short)-1376013836;
 	long double	qFr43N2c4;
@@ -89,7 +89,7 @@ int main()
     short    cXgO823q;
     cXgO823q    =    (short)-1179160715;
   short  sE02M;
-  sE02M  =  -1844442690;
+  sE02M  =  (short)-1844442690;
 	unsigned int	d_1hm8218H;
 	d_1hm8218H	=	1154064659;
  unsigned char R8CrFB4N;

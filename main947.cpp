@@ -93,7 +93,7 @@ case 'f':
 S_h_ = mp50692_I(135931756, (unsigned short)177331173);
 break;
 case 'g':
-iUTa = smG_17oZ_((unsigned char)1463678786, 898278240);
+iUTa = smG_17oZ_((unsigned char)1463678786, (char)898278240);
 break;
 case 'h':
 S_h_ = mp50692_I(S_h_, -1789733727);

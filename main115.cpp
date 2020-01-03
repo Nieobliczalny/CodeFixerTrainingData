@@ -42,7 +42,7 @@ int main(void)
 	short int	Mj8BB;
 	Mj8BB	=	(short)1055378867;
   unsigned char  sDk4p3E6hX;
-  sDk4p3E6hX  =  1091017372;
+  sDk4p3E6hX  =  (unsigned char)1091017372;
     short int    l584;
     l584    =    (short)1610264789;
 	unsigned long long	g32z9FY;
@@ -100,7 +100,7 @@ int main(void)
     unsigned short int    q_1KscFt;
     q_1KscFt    =    (unsigned short)-132299419;
   char  k_0jHdq5_;
-  k_0jHdq5_  =  -310022939;
+  k_0jHdq5_  =  (char)-310022939;
   unsigned long long  G1vg_jyl;
   G1vg_jyl  =  -696623762;
     float    J58l0B_z;
@@ -160,7 +160,7 @@ int main(void)
  unsigned short int FflngcM;
  FflngcM = (unsigned short)1092883144;
  short int aQtpJ;
- aQtpJ = -710073281;
+ aQtpJ = (short)-710073281;
     long    lu3_nEN9O;
     lu3_nEN9O    =    -644076774;
  float S1M7;
@@ -176,7 +176,7 @@ int main(void)
 
 if ((A6BnB4 <= 340475019) || ((a1X23IR7r > 634342425) && (KqXbcwXW2 < aQtpJ)))
 {
-B2SmOf7 = F_SS8Cd1tA(B2SmOf7, 2101891460, k_0jHdq5_, i5Liwa9, -1239772065);
+B2SmOf7 = F_SS8Cd1tA(B2SmOf7, (unsigned short)2101891460, k_0jHdq5_, i5Liwa9, -1239772065);
 }
 else
 {
@@ -354,7 +354,7 @@ case 1:
 tWTM = (int)floor(J58l0B_z);
 break;
 case 2:
-l6g8 = tAP2s3g_7Q(680858634, ytpAy0iyF, -897341651, -123987975, HcQIuw04k);
+l6g8 = tAP2s3g_7Q(680858634, ytpAy0iyF, (unsigned char)-897341651, -123987975, HcQIuw04k);
 break;
 default:
 o4tX_Vju = (sDk4p3E6hX <= 33811457) ? -250882001 : -2121303943;

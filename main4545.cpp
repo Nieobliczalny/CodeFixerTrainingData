@@ -190,7 +190,7 @@ catch (int& errorCode)
 {
 h7B52d8 = rrqO71(xuQU_Afb, -2060394795, I86Zq, -1650520282);
 }
-std::cout << rrqO71(1643222355, (short)-1696272041, I86Zq, -378574014) << sot_IeW35_ << "DancX49Ct" << rrqO71(-847345093, (short)-1595895192, -1897908002, L99F8S_C) << ILFz << std::endl;
+std::cout << rrqO71(1643222355, (short)-1696272041, I86Zq, -378574014) << sot_IeW35_ << "DancX49Ct" << rrqO71(-847345093, (short)-1595895192, (unsigned short)-1897908002, L99F8S_C) << ILFz << std::endl;
 
 if (U8K0J7 < -1063177496)
 {
@@ -378,7 +378,7 @@ case 0:
 N_CG4Rm_J = k_fN6 / 823519460;
 break;
 case 1:
-Zosc_r0 = rrqO71(GYbW77jR0, Ne9uuz, 1756556078, s_v70GDu0k);
+Zosc_r0 = rrqO71(GYbW77jR0, Ne9uuz, (unsigned short)1756556078, s_v70GDu0k);
 break;
 case 2:
 l3W7sw84x = yW7v7_ / 1944874485;

@@ -23,7 +23,7 @@ int main(void)
  double B8ezCJ = -1875483941;
   unsigned short  Tp6_MC53  =  (unsigned short)655411933;
   long long  v6jR  =  -1994284815;
- char b__u_yWRl8 = 253218490;
+ char b__u_yWRl8 = (char)253218490;
     long    mkdv4    =    1508739072;
 	short	m43mYRsO0	=	-292495447;
   long long  e0gbuVUN  =  363209682;
@@ -37,7 +37,7 @@ int main(void)
 	char	s9Fg89z_	=	(char)-919458578;
 	double	eb9u5	=	2142716079;
  unsigned short int ipwBm0C44 = (unsigned short)1733982370;
-    unsigned short    c4T9    =    303196591;
+    unsigned short    c4T9    =    (unsigned short)303196591;
 	int	RrO83	=	-1190068142;
     unsigned short    L3u4_402d    =    -946938289;
 	unsigned char	lritK9UM0Q	=	872438155;
@@ -52,7 +52,7 @@ int main(void)
 	char	c81__0yd_x	=	(char)-165657045;
 	unsigned long	s9_BnIJ	=	1060905413;
 	unsigned short	L9AV6QD	=	0;
- char rbY7v = 1712462256;
+ char rbY7v = (char)1712462256;
   long double  Q74yEf  =  1276831060;
  long ULbSh1fxF = 914341110;
  unsigned int n1OL_rtQ8k = 761781466;
@@ -66,7 +66,7 @@ int main(void)
 	float	m9ly5qe	=	-1714095931;
     unsigned long long    vzg67B13__    =    900585905;
  long C91Y97N = -1545382739;
- short int Zp93DF68 = 1374372695;
+ short int Zp93DF68 = (short)1374372695;
     unsigned int    qLI2jT5f    =    -77803375;
  double Y4SU77 = -1529894485;
  unsigned int Gkrf5 = -1258959264;
@@ -295,7 +295,7 @@ else
 {
 std::cout << "UDMMp27" << U3ai(c4T9, (unsigned char)-522731972, V7rgkek3i, -104093502, sM1fPN) << U3ai(c4T9, (unsigned char)-1108405973, V7rgkek3i, 1079382587, -562384367) << YtpDHT << std::endl;
 }
-std::cout << U3ai(c4T9, 1921113489, -1563385301, -984748698, sM1fPN) << "Wk5_f42vtD" << "u4eZrW" << "S6WABY" << "nXGmQwoR5a" << std::endl;
+std::cout << U3ai(c4T9, (unsigned char)1921113489, -1563385301, -984748698, sM1fPN) << "Wk5_f42vtD" << "u4eZrW" << "S6WABY" << "nXGmQwoR5a" << std::endl;
 
 OqW9S356 = 2035485370 / U3ai(796595579, sy5q, -542686091, 406401514, 1483134275);
 {

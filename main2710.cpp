@@ -76,7 +76,7 @@ while (j >= 0);
 
 g3VKP = K4jp(r68H, g3VKP, (unsigned short)355161282, Jo_7f2Gj);
 
-DpXYlJt7T = K4jp(389154994, 1328922280, (unsigned short)-604897423, -1325394059);
+DpXYlJt7T = K4jp(389154994, 1328922280, (unsigned short)-604897423, (unsigned short)-1325394059);
 
 if (n9698r <= Q05022Fo)
 {
@@ -134,7 +134,7 @@ Jo_7f2Gj = (char)(H798 * (M_vZZD1_f));
 std::cout << s41P59(516004963, 1954420041, (char)-204660395, vcN6DCZ8EB) << std::endl;
 try
 {
-vcN6DCZ8EB = K4jp(vcN6DCZ8EB, 95798945, -1733852898, Jo_7f2Gj);
+vcN6DCZ8EB = K4jp(vcN6DCZ8EB, 95798945, (unsigned short)-1733852898, Jo_7f2Gj);
 }
 catch (int& errorCode)
 {
@@ -162,7 +162,7 @@ case 'c':
 Waan5U9s = (int)abs(n9698r);
 break;
 case 'd':
-g3VKP = K4jp(661873274, -770513343, (unsigned short)-272305458, 1698418818);
+g3VKP = K4jp(661873274, -770513343, (unsigned short)-272305458, (unsigned short)1698418818);
 break;
 case 'e':
 fRA9 -= 2134093383;
@@ -201,7 +201,7 @@ case 0:
 DpXYlJt7T = K4jp(Waan5U9s, Q05022Fo, (unsigned short)-587546605, DB_D5);
 break;
 case 1:
-DpXYlJt7T = K4jp(1264762647, 2046983334, (unsigned short)-672596794, -1789805114);
+DpXYlJt7T = K4jp(1264762647, 2046983334, (unsigned short)-672596794, (unsigned short)-1789805114);
 break;
 case 2:
 vcN6DCZ8EB = K4jp(773030634, Q05022Fo, -1602705481, -2116626474);
@@ -233,7 +233,7 @@ case 1:
 fRA9 &= 1727155262;
 break;
 case 2:
-Waan5U9s = s41P59(313205197, SM_AyEt, 1829645845, n9698r) + 346524445;
+Waan5U9s = s41P59(313205197, SM_AyEt, (char)1829645845, n9698r) + 346524445;
 break;
 }
 }
@@ -300,7 +300,7 @@ n9698r = K4jp(vcN6DCZ8EB, 1715442761, (unsigned short)-1823510825, (unsigned sho
 }
 else
 {
-Jo_7f2Gj = K4jp(308103995, -1496132823, -297443003, -1164487739);
+Jo_7f2Gj = K4jp(308103995, -1496132823, (unsigned short)-297443003, -1164487739);
 }
 }
 }

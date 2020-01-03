@@ -107,7 +107,7 @@ case 1:
 V4S7TbQ = (W15La4 >= 1386146578) ? cU72(gN0q7M_7p_, (short)-1518722285, TTSBg9k, lr98) : 928925199;
 break;
 case 2:
-hy0KR = LJqNM4SQ_(hy0KR, lr98, (short)60930142, 1227549162);
+hy0KR = LJqNM4SQ_(hy0KR, lr98, (short)60930142, (short)1227549162);
 break;
 }
 }
@@ -253,7 +253,7 @@ dXPK0231 = cU72(dXPK0231, pg5_Tu09YA, (unsigned short)213923848, (unsigned short
 }
 else if ((dXPK0231 != 1033728143) && (izr5k7Cs <= 292182345))
 {
-CKgyJAR22 = cU72(-1169812719, t9kP6, i7ad, -1191853949);
+CKgyJAR22 = cU72(-1169812719, t9kP6, i7ad, (unsigned short)-1191853949);
 }
 else if (lQ8hJ0L_99 <= rCi7rhdh)
 {

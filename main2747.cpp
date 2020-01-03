@@ -35,7 +35,7 @@ while (j >= 0)
 {
 for (int k = 1; k >= 0; --k)
 {
-nL31 = R0N5EHbo((unsigned char)-740154305, (short)151324372, nL31, iWSN, -938887083);
+nL31 = R0N5EHbo((unsigned char)-740154305, (short)151324372, nL31, iWSN, (short)-938887083);
 }
 --j;
 }
@@ -287,7 +287,7 @@ case 3:
 MQV4F4y5 = R0N5EHbo(Q859U0, EV3Iv7TGfC, (unsigned short)1117479747, Krg5ILBE, (short)-340273691);
 break;
 case 4:
-B690M_9x = R0N5EHbo(-2117478238, ciBGY4x, 1934837779, gw8y, 1365110752);
+B690M_9x = R0N5EHbo((unsigned char)-2117478238, ciBGY4x, 1934837779, gw8y, 1365110752);
 break;
 case 5:
 kg6KYYnBwQ = K2Ci_9(917508555);
@@ -336,7 +336,7 @@ while (i < 5)
 switch (Pq__)
 {
 case 0:
-B690M_9x = R0N5EHbo((unsigned char)-195784948, (short)88941964, 1941949775, 1517698840, -1394792700);
+B690M_9x = R0N5EHbo((unsigned char)-195784948, (short)88941964, (unsigned short)1941949775, 1517698840, -1394792700);
 break;
 case 1:
 qS7F4c = R0N5EHbo(-1813046605, Xzy3DL0ui0, qS7F4c, 336666002, P2Zjk_2B);
@@ -354,7 +354,7 @@ case 5:
 PxcVQmRrO = K2Ci_9(1094658040);
 break;
 case 6:
-og8zt8 = R0N5EHbo((unsigned char)-1717875010, (short)-122496653, Ut3z4X0, 1734410620, b_J00fitY);
+og8zt8 = R0N5EHbo((unsigned char)-1717875010, (short)-122496653, Ut3z4X0, (short)1734410620, b_J00fitY);
 break;
 case 7:
 iD13EQ1++;
@@ -383,7 +383,7 @@ if (qb9VrTXos4 <= 591460468)
 {
 if ((Vd6fm_6G > -1554299839) || (VZ6adZ != MHEFbQF))
 {
-std::cout << R0N5EHbo(fcR6Z, (short)-1181737784, (unsigned short)-1826702578, -1598269685, b_J00fitY) << abh8eJla2 << "s3MHgs" << std::endl;
+std::cout << R0N5EHbo(fcR6Z, (short)-1181737784, (unsigned short)-1826702578, (short)-1598269685, b_J00fitY) << abh8eJla2 << "s3MHgs" << std::endl;
 }
 else if (EV3Iv7TGfC)
 {
@@ -427,7 +427,7 @@ while (j < 3)
 ++j;
 if ((PvKYY <= C7ry) && ((TCxC & MHEFbQF) || (XP5fT_jDU6 != -82123399)))
 {
-qS7F4c = R0N5EHbo(i3x5Fa, (short)-404527106, (unsigned short)309111282, z08So7Y9, 1190263122);
+qS7F4c = R0N5EHbo(i3x5Fa, (short)-404527106, (unsigned short)309111282, z08So7Y9, (short)1190263122);
 }
 else
 {

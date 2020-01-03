@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
   unsigned short int  OJSranAM;
   OJSranAM  =  (unsigned short)480809699;
  unsigned char kz6uxPaR;
- kz6uxPaR = -2007573744;
+ kz6uxPaR = (unsigned char)-2007573744;
  unsigned short int BsXdtGX5m5;
  BsXdtGX5m5 = 2118240041;
 	unsigned char	np0N6umD3;
@@ -105,7 +105,7 @@ P8REwb = (int)abs(v_SkT_);
 }
 else
 {
-P8REwb = Rw5l4232f(kz6uxPaR, P8REwb, (short)561952211, (char)1496395658, -1349310733);
+P8REwb = Rw5l4232f(kz6uxPaR, P8REwb, (short)561952211, (char)1496395658, (short)-1349310733);
 }
 }
 else if (P8REwb > np0N6umD3)
@@ -136,7 +136,7 @@ BsXdtGX5m5 = NJl2(s6VX, BsXdtGX5m5);
 }
 else if (XWBV3m7O4 & 1089182045)
 {
-XWBV3m7O4 = NJl2(-561538005, v_SkT_);
+XWBV3m7O4 = NJl2((char)-561538005, v_SkT_);
 }
 else if (((BsXdtGX5m5 == -1988684992) || (OJSranAM >= 159159414)) || ((kz6uxPaR == W4zJd3) || (Mzl8qA3v == E1M90)))
 {
@@ -215,7 +215,7 @@ try
 {
 try
 {
-Mzl8qA3v = Rw5l4232f((char)-469179355, W4zJd3, (short)1627221296, np0N6umD3, 2063407300);
+Mzl8qA3v = Rw5l4232f((char)-469179355, W4zJd3, (short)1627221296, np0N6umD3, (short)2063407300);
 }
 catch (int& errorCode)
 {
@@ -370,7 +370,7 @@ int k = 0;
 while (k < 5)
 {
 k++;
-v_SkT_ = Rw5l4232f((char)1063033926, kz6uxPaR, Mzl8qA3v, (char)-204511142, 451257617);
+v_SkT_ = Rw5l4232f((char)1063033926, kz6uxPaR, Mzl8qA3v, (char)-204511142, (short)451257617);
 }
 }
 }
@@ -418,7 +418,7 @@ case 1:
 kz6uxPaR |= 1925894509;
 break;
 case 2:
-v_SkT_ = Rw5l4232f(-1645337431, 87660611, -1951460502, 449738665, XWBV3m7O4);
+v_SkT_ = Rw5l4232f((char)-1645337431, 87660611, -1951460502, 449738665, XWBV3m7O4);
 break;
 case 3:
 uxl1 = kz6uxPaR - uxl1;

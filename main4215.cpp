@@ -39,7 +39,7 @@ int main(int argc, char** argv) {
  long RU2C7DjfL;
  RU2C7DjfL = 269398061;
   unsigned char  j08PeK4A;
-  j08PeK4A  =  -250662797;
+  j08PeK4A  =  (unsigned char)-250662797;
 	int	Idjsy673A;
 	Idjsy673A	=	1360894677;
     unsigned short    hUC82mgF;
@@ -49,7 +49,7 @@ int main(int argc, char** argv) {
   char  X4hyS9;
   X4hyS9  =  (char)-1505389664;
     short int    ON5qh;
-    ON5qh    =    -2071086048;
+    ON5qh    =    (short)-2071086048;
  unsigned long long B10S9P;
  B10S9P = 1928682751;
  unsigned long d577N0Y;
@@ -61,7 +61,7 @@ int main(int argc, char** argv) {
   char  Yyh0aXTFo;
   Yyh0aXTFo  =  (char)-886692006;
  short fkP33311P_;
- fkP33311P_ = -1788481572;
+ fkP33311P_ = (short)-1788481572;
  unsigned short int rD0Tb;
  rD0Tb = 1025730974;
 	char	L1aZj64;
@@ -71,7 +71,7 @@ int main(int argc, char** argv) {
   char  ZqcW_OHHD;
   ZqcW_OHHD  =  (char)-1260996233;
 	short int	gh9jaD;
-	gh9jaD	=	269082689;
+	gh9jaD	=	(short)269082689;
     unsigned int    sJELT4lAvD;
     sJELT4lAvD    =    -2098162915;
 	double	pXRhN2T;
@@ -143,7 +143,7 @@ int main(int argc, char** argv) {
 	short	UD3Yv1;
 	UD3Yv1	=	(short)1442824625;
 	short int	Dz13W_J;
-	Dz13W_J	=	2066311923;
+	Dz13W_J	=	(short)2066311923;
   int  J67VqOPn;
   J67VqOPn  =  1350034790;
  double xWB7T678_7;
@@ -165,7 +165,7 @@ int main(int argc, char** argv) {
 	short	NeTw;
 	NeTw	=	(short)-1623076760;
 	unsigned short int	O9Q3Vx;
-	O9Q3Vx	=	-623168656;
+	O9Q3Vx	=	(unsigned short)-623168656;
     unsigned short int    fM649g29;
     fM649g29    =    27703343;
   unsigned short  AzQ95x_aR6;
@@ -197,7 +197,7 @@ int main(int argc, char** argv) {
   unsigned short  X9k4;
   X9k4  =  (unsigned short)-1139171648;
  unsigned short O1QvC;
- O1QvC = -1248023091;
+ O1QvC = (unsigned short)-1248023091;
     int    P8_N2;
     P8_N2    =    479039088;
     unsigned short    wC4e5V7w;
@@ -486,7 +486,7 @@ std::cout << WoScGHR << "MBZ3Rij0u" << std::endl;
 }
 else if (((GXeFQ <= a43GIq7) && (qfz9_)) || (Eznh < HX32k8))
 {
-std::cout << Q14c_bD_o << Hc6L2_i_(deZ7, ON5qh, (char)655912432, (unsigned char)-432311926, -1189062163) << "bjH_bv" << Hc6L2_i_(630162768, 1041220671, -1485336000, J2M927p, 1073733957) << Hc6L2_i_(-2014179788, ON5qh, S17cc9M51, 1589104937, H___4dayM) << std::endl;
+std::cout << Q14c_bD_o << Hc6L2_i_(deZ7, ON5qh, (char)655912432, (unsigned char)-432311926, -1189062163) << "bjH_bv" << Hc6L2_i_(630162768, 1041220671, (char)-1485336000, J2M927p, 1073733957) << Hc6L2_i_(-2014179788, ON5qh, S17cc9M51, 1589104937, H___4dayM) << std::endl;
 }
 else
 {
@@ -712,7 +712,7 @@ else if (euc6448Tq3 >= -1484024633)
 {
 if (deZ7 >= asTL7)
 {
-std::cout << Hc6L2_i_(-46044744, 297730970, us6a_Kbe, (unsigned char)35868874, -1805925612) << rD0Tb << Hc6L2_i_(czQ71KRYz, -1562023674, (char)2047536482, -988837829, 1706289852) << std::endl;
+std::cout << Hc6L2_i_(-46044744, 297730970, us6a_Kbe, (unsigned char)35868874, -1805925612) << rD0Tb << Hc6L2_i_(czQ71KRYz, -1562023674, (char)2047536482, (unsigned char)-988837829, 1706289852) << std::endl;
 }
 else if (ol_5dU6619 >= 1042848917)
 {
@@ -753,7 +753,7 @@ case 3:
 xQrhNciV >>= 1328211588;
 break;
 case 4:
-Q14c_bD_o = Hc6L2_i_(a43GIq7, It_TlaS, Gnl7x, -1908605673, 1026055252);
+Q14c_bD_o = Hc6L2_i_(a43GIq7, It_TlaS, Gnl7x, (unsigned char)-1908605673, 1026055252);
 break;
 case 5:
 J67VqOPn = UwP9 << x0AIk87;
@@ -848,7 +848,7 @@ PQPCJJMjP = Hc6L2_i_(-1325265884, e57n, (char)1251665804, (unsigned char)-278749
 switch (GEPN0yhO1Z)
 {
 case 'a':
-Q14c_bD_o = Hc6L2_i_(pXRhN2T, -618393715, -1161962749, tAbOg, Q14c_bD_o);
+Q14c_bD_o = Hc6L2_i_(pXRhN2T, -618393715, (char)-1161962749, tAbOg, Q14c_bD_o);
 break;
 case 'b':
 SK_B = (int)floor(igj2v_Z6);
@@ -913,7 +913,7 @@ UD3Yv1 = (int)abs(a2Cj9Cmj);
 }
 else if (WoScGHR == -1789231435)
 {
-rMxOOy = Hc6L2_i_(899517109, -1862955563, (char)-1496127109, -848208716, -1939005182);
+rMxOOy = Hc6L2_i_(899517109, -1862955563, (char)-1496127109, (unsigned char)-848208716, -1939005182);
 }
 else if ((SK_B <= asTL7) && (hUC82mgF != PQPCJJMjP))
 {
@@ -930,7 +930,7 @@ else
 int k = 6;
 while (k >= 0)
 {
-FGW_l = Hc6L2_i_(O1QvC, -2018085609, (char)-693852313, 1573651034, euc6448Tq3) * 15283533;
+FGW_l = Hc6L2_i_(O1QvC, -2018085609, (char)-693852313, (unsigned char)1573651034, euc6448Tq3) * 15283533;
 k--;
 }
 }

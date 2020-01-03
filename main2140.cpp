@@ -70,7 +70,7 @@ int main() {
     short int    W415OLd;
     W415OLd    =    (short)2070764907;
   short  m795V;
-  m795V  =  -770473570;
+  m795V  =  (short)-770473570;
  unsigned short int c4ScC;
  c4ScC = -2092337545;
     unsigned char    JH0F3wRO;
@@ -82,7 +82,7 @@ int main() {
  int N75of1j3;
  N75of1j3 = -1574775642;
 	short int	C2R9gs;
-	C2R9gs	=	2010153999;
+	C2R9gs	=	(short)2010153999;
   long  auiz444n;
   auiz444n  =  -630457155;
     unsigned char    bAX2;
@@ -94,7 +94,7 @@ int main() {
 	long long	Z_7IhTV;
 	Z_7IhTV	=	-936468474;
     unsigned char    CVMRu1;
-    CVMRu1    =    29625841;
+    CVMRu1    =    (unsigned char)29625841;
 	unsigned long	oAllp;
 	oAllp	=	1034350718;
   double  ZnY4;

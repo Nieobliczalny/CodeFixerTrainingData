@@ -415,7 +415,7 @@ gDOT = xiq4e7Xj(C0_uxc, (char)-820520737, (unsigned short)-1962521807);
 break;
 case 'e':
 case 'E':
-R5gv3Do1R = xiq4e7Xj(C0_uxc, -662702552, 354613534) + s3PL7IkM80;
+R5gv3Do1R = xiq4e7Xj(C0_uxc, (char)-662702552, 354613534) + s3PL7IkM80;
 break;
 case 'f':
 case 'F':
@@ -845,7 +845,7 @@ gDOT = xiq4e7Xj(gDOT, (char)-1700523272, (unsigned short)-239717354);
 }
 else if (GfHv >= 135837418)
 {
-eey9m1 = xiq4e7Xj(FEstH, -2112696519, eey9m1);
+eey9m1 = xiq4e7Xj(FEstH, (char)-2112696519, eey9m1);
 }
 else
 {

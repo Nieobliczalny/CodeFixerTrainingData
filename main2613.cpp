@@ -30,7 +30,7 @@ int main() {
  long double o_Gt;
  o_Gt = 1831268461;
  unsigned short PU4oxE1N;
- PU4oxE1N = -776037127;
+ PU4oxE1N = (unsigned short)-776037127;
 	float	c9wC61vJ;
 	c9wC61vJ	=	1530543822;
  float MFN_;
@@ -132,7 +132,7 @@ int main() {
   unsigned short int  TADkkKeqh;
   TADkkKeqh  =  (unsigned short)-1913527035;
   short  EPwQd;
-  EPwQd  =  -726681758;
+  EPwQd  =  (short)-726681758;
 	long	cPGR6x3;
 	cPGR6x3	=	-555554893;
 	long	WEA2hCn;
@@ -154,7 +154,7 @@ int main() {
 	char	omss;
 	omss	=	(char)-1091673348;
   short  pnQKi5_;
-  pnQKi5_  =  -956618810;
+  pnQKi5_  =  (short)-956618810;
     int    Li2z;
     Li2z    =    -835795185;
 	long long	kYzN7q3;
@@ -180,7 +180,7 @@ int main() {
  unsigned short int da97_O5;
  da97_O5 = (unsigned short)-1383351209;
     unsigned short int    e2aX5i_OR0;
-    e2aX5i_OR0    =    828227442;
+    e2aX5i_OR0    =    (unsigned short)828227442;
   int  zyP44Z_;
   zyP44Z_  =  747963039;
   short  P81L6TQ;
@@ -255,7 +255,7 @@ while (j >= 0);
 cout << YjFj9d << "ydSS2" << YjFj9d << "ru5tg1GC3" << nogT1Rx(lCiRE, VCZpAzIWeo, (short)1227119375, (short)1862117381) << endl;
 H8DCZ9tZp = O_W378CKFU % O7Fim1N8;
 
-cout << EPwQd << nogT1Rx(-81248249, -177401162, -1286086094, -311377622) << nogT1Rx(-1293413917, VCZpAzIWeo, -1410248505, -646314377) << FVQ__p6() << N3yRM_ << endl;
+cout << EPwQd << nogT1Rx(-81248249, (unsigned short)-177401162, -1286086094, -311377622) << nogT1Rx(-1293413917, VCZpAzIWeo, -1410248505, -646314377) << FVQ__p6() << N3yRM_ << endl;
 
 if (da97_O5 == O0935u)
 {
@@ -290,7 +290,7 @@ jkp_ = cPGR6x3 % WEA2hCn;
 }
 else if (HYF_l9 != 1328341441)
 {
-erLht6rGg = nogT1Rx(-840610470, Q_f6OUmGA, -533328396, -1260228704);
+erLht6rGg = nogT1Rx(-840610470, Q_f6OUmGA, (short)-533328396, -1260228704);
 }
 else if ((e910ro1 == O0935u) || (lCiRE >= gzDDJpyH))
 {
@@ -313,7 +313,7 @@ case 'c':
 YjFj9d = Xt5RC3U4w5 % dgdtMSX;
 break;
 case 'd':
-erLht6rGg = nogT1Rx(-386284382, (unsigned short)-394964099, 551780892, -193964970);
+erLht6rGg = nogT1Rx(-386284382, (unsigned short)-394964099, (short)551780892, -193964970);
 break;
 case 'e':
 Xt5RC3U4w5 = (int)abs(qbfw9JoxyW);
@@ -444,7 +444,7 @@ case 'b':
 wfnB2F9x3 = nogT1Rx(-285576868, (unsigned short)-896413890, x9K385bT48, (short)-1009232987);
 break;
 case 'c':
-erLht6rGg = nogT1Rx(omss, 981775706, e910ro1, O7Fim1N8);
+erLht6rGg = nogT1Rx(omss, (unsigned short)981775706, e910ro1, O7Fim1N8);
 break;
 default:
 lCiRE %= 1793771427;
@@ -595,7 +595,7 @@ omss = q4et ^ 1174052758;
 }
 else if (MFN_)
 {
-cout << cPGR6x3 << nogT1Rx(1398367539, (unsigned short)-997783894, (short)567772532, aaIqj) << "LxY68FI0" << "kbIch__" << nogT1Rx(v49Ux2P, q55WJx9_, -144005961, aaIqj) << endl;
+cout << cPGR6x3 << nogT1Rx(1398367539, (unsigned short)-997783894, (short)567772532, aaIqj) << "LxY68FI0" << "kbIch__" << nogT1Rx(v49Ux2P, q55WJx9_, (short)-144005961, aaIqj) << endl;
 }
 else if (h6Sbl <= 212044440)
 {
@@ -620,7 +620,7 @@ case 1:
 jkm0swn = FVQ__p6();
 break;
 default:
-erLht6rGg = nogT1Rx(VCZpAzIWeo, (unsigned short)1125692123, (short)-316454188, -2141766783);
+erLht6rGg = nogT1Rx(VCZpAzIWeo, (unsigned short)1125692123, (short)-316454188, (short)-2141766783);
 break;
 }
 }
@@ -663,7 +663,7 @@ case 'i':
 IJC5_370r &= omss;
 break;
 case 'j':
-wfnB2F9x3 = nogT1Rx(400268700, (unsigned short)1963266424, (short)-1811747769, -463077265);
+wfnB2F9x3 = nogT1Rx(400268700, (unsigned short)1963266424, (short)-1811747769, (short)-463077265);
 break;
 default:
 NrY2bg37SI = E1hF7_qj_ / E1hF7_qj_;
@@ -787,7 +787,7 @@ qbfw9JoxyW = (int)abs(x9K385bT48);
 }
 else
 {
-cout << "VFq09A1U" << nogT1Rx(-1208114779, JqqZJI3m0, (short)2145436451, (short)1809396288) << HYF_l9 << nogT1Rx(-1812901498, JqqZJI3m0, -320714326, 1832642594) << endl;
+cout << "VFq09A1U" << nogT1Rx(-1208114779, JqqZJI3m0, (short)2145436451, (short)1809396288) << HYF_l9 << nogT1Rx(-1812901498, JqqZJI3m0, (short)-320714326, 1832642594) << endl;
 }
 }
 
@@ -834,7 +834,7 @@ int j = 0;
 while (j < 7)
 {
 j++;
-k0fg78 = nogT1Rx(omss, jkm0swn, -1514698658, Xt5RC3U4w5);
+k0fg78 = nogT1Rx(omss, jkm0swn, (short)-1514698658, Xt5RC3U4w5);
 }
 }
 }

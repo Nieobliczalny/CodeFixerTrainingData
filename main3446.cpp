@@ -23,7 +23,7 @@ int main(int argc, char** argv)
     unsigned short    uA4h3,    O8pddez_OK,    rw8PxEzw7,    zoOq,    C4E14E72,    EWkdtIjFd,    Xsp28,    f7CfKR3,    lhlip14,    r7Bs65LS,    MJTT,    Bpch8J,    EzVo8Y_JQ,    y9800Q4Es,    YJsPt5,    f8j2lfG4a,    Sb_JC_,    EsO6Q3iw,    VwOx;
     uA4h3    =    (unsigned short)2019582833;
     O8pddez_OK    =    (unsigned short)-2105253335;
-    rw8PxEzw7    =    -1822035187;
+    rw8PxEzw7    =    (unsigned short)-1822035187;
     zoOq    =    45453080;
     C4E14E72    =    907220743;
     EWkdtIjFd    =    -1954341398;
@@ -33,7 +33,7 @@ int main(int argc, char** argv)
     r7Bs65LS    =    1135850195;
     MJTT    =    (unsigned short)-1731656612;
     Bpch8J    =    (unsigned short)641812341;
-    EzVo8Y_JQ    =    1624421077;
+    EzVo8Y_JQ    =    (unsigned short)1624421077;
     y9800Q4Es    =    1873925418;
     YJsPt5    =    1704591508;
     f8j2lfG4a    =    1085193017;
@@ -43,7 +43,7 @@ int main(int argc, char** argv)
 
 if (EWkdtIjFd & 438406051)
 {
-MJTT = w2ykE19(1933198135, (unsigned short)121501029, (unsigned char)-2119503790, 2104540099, -2109770965);
+MJTT = w2ykE19(1933198135, (unsigned short)121501029, (unsigned char)-2119503790, (short)2104540099, -2109770965);
 }
 else
 {
@@ -57,7 +57,7 @@ zoOq ^= EzVo8Y_JQ;
 while (j >= 0);
 }
 }
-std::cout << w2ykE19(MJTT, (unsigned short)-1486557491, rw8PxEzw7, (short)-1913184012, lhlip14) << uA4h3 << jc8N6ag(1202755096, -315216288) << zt_gc3cBo(MJTT, -1636557412) << "d3_T" << std::endl;
+std::cout << w2ykE19(MJTT, (unsigned short)-1486557491, rw8PxEzw7, (short)-1913184012, lhlip14) << uA4h3 << jc8N6ag(1202755096, (char)-315216288) << zt_gc3cBo(MJTT, -1636557412) << "d3_T" << std::endl;
 EWkdtIjFd = r7Bs65LS >> YJsPt5;
 try
 {
@@ -210,7 +210,7 @@ case 2:
 lhlip14 = w2ykE19(1140037221, qOSSKq74, (unsigned char)-717476151, (short)-761138480, 536238442);
 break;
 case 3:
-qOSSKq74 = jc8N6ag(-107745069, -1548694258);
+qOSSKq74 = jc8N6ag(-107745069, (char)-1548694258);
 break;
 case 4:
 EWkdtIjFd = zt_gc3cBo(EWkdtIjFd, 1468603447);
@@ -238,7 +238,7 @@ case 'b':
 uA4h3 = zt_gc3cBo((unsigned short)-1651188929, O8pddez_OK);
 break;
 case 'c':
-C4E14E72 = D5kyEj2((unsigned short)-304223452, -236164787, 232910364, y9800Q4Es);
+C4E14E72 = D5kyEj2((unsigned short)-304223452, (unsigned short)-236164787, 232910364, y9800Q4Es);
 break;
 case 'd':
 qOSSKq74 = jc8N6ag(1058883638, EsO6Q3iw);
@@ -274,7 +274,7 @@ case 0:
 VwOx = zt_gc3cBo((unsigned short)-2097938295, (unsigned short)832660110);
 break;
 case 1:
-lhlip14 = zt_gc3cBo(592087154, C4E14E72);
+lhlip14 = zt_gc3cBo((unsigned short)592087154, C4E14E72);
 break;
 case 2:
 rw8PxEzw7 = w2ykE19(rw8PxEzw7, r7Bs65LS, -600845640, -263588033, y9800Q4Es);
@@ -348,7 +348,7 @@ lhlip14 = w2ykE19(1567374916, (unsigned short)-217781756, rw8PxEzw7, r7Bs65LS, 7
 }
 else if (Xsp28 > 1376456534)
 {
-EWkdtIjFd = zt_gc3cBo((unsigned short)610444584, 1441911918);
+EWkdtIjFd = zt_gc3cBo((unsigned short)610444584, (unsigned short)1441911918);
 }
 else if (EWkdtIjFd == -495727881)
 {
@@ -366,7 +366,7 @@ f92yckRFVv = jc8N6ag(MJTT, (char)322356055);
 }
 else if (zoOq < -468074233)
 {
-Bpch8J = w2ykE19(-477618599, (unsigned short)109171173, -1447144726, rw8PxEzw7, VwOx);
+Bpch8J = w2ykE19(-477618599, (unsigned short)109171173, (unsigned char)-1447144726, rw8PxEzw7, VwOx);
 }
 else if ((EzVo8Y_JQ < 397316762) || (EWkdtIjFd >= 529910088))
 {
@@ -409,7 +409,7 @@ f92yckRFVv = jc8N6ag(1894189445, Sb_JC_);
 }
 else if (zoOq != -1558451263)
 {
-EWkdtIjFd = D5kyEj2((unsigned short)-1231989803, f92yckRFVv, (unsigned short)1984112662, 758432955);
+EWkdtIjFd = D5kyEj2((unsigned short)-1231989803, f92yckRFVv, (unsigned short)1984112662, (short)758432955);
 }
 else if (zoOq <= 1045890869)
 {
@@ -431,7 +431,7 @@ else
 {
 if (O8pddez_OK > -694391333)
 {
-std::cout << D5kyEj2(f7CfKR3, (unsigned short)-1546526968, (unsigned short)1424924847, -381027144) << jc8N6ag(-305963481, -291060112) << "e90A" << rw8PxEzw7 << std::endl;
+std::cout << D5kyEj2(f7CfKR3, (unsigned short)-1546526968, (unsigned short)1424924847, (short)-381027144) << jc8N6ag(-305963481, -291060112) << "e90A" << rw8PxEzw7 << std::endl;
 }
 else
 {
@@ -458,6 +458,6 @@ short int zt_gc3cBo(unsigned short int KA3_33,unsigned short int X1ltY7mWU_) {
 
 unsigned char  D5kyEj2(unsigned short int  bQ2Z0,unsigned short int  juGUc9,unsigned short int  b4_bpBS_9E,short  hH4_01q)
 {
-  return  -532231197;
+  return  (unsigned char)-532231197;
 }
 

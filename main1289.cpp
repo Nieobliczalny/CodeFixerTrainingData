@@ -37,7 +37,7 @@ int main() {
 	short int	yWe7fH6;
 	yWe7fH6	=	(short)-1626544881;
 	unsigned short int	csjwl3gi0X;
-	csjwl3gi0X	=	-1320287350;
+	csjwl3gi0X	=	(unsigned short)-1320287350;
 	short int	AH1RPKTsB;
 	AH1RPKTsB	=	(short)-1456909636;
 	unsigned long	lpWFTb5N;
@@ -69,7 +69,7 @@ int main() {
   short int  N7Oh1qplNu;
   N7Oh1qplNu  =  (short)474016679;
     char    e_7pEnR96w;
-    e_7pEnR96w    =    34172030;
+    e_7pEnR96w    =    (char)34172030;
     long double    Uyi8;
     Uyi8    =    -139252898;
  unsigned short IpHT6f;
@@ -93,7 +93,7 @@ int main() {
     double    WHG5;
     WHG5    =    -1264997310;
     char    vv9ZuHB;
-    vv9ZuHB    =    48144987;
+    vv9ZuHB    =    (char)48144987;
     unsigned short    c775;
     c775    =    (unsigned short)331246012;
     unsigned char    S37d6G;
@@ -125,7 +125,7 @@ int main() {
   short int  dK6w1;
   dK6w1  =  (short)-301538965;
   unsigned short  h2I5A;
-  h2I5A  =  -397832889;
+  h2I5A  =  (unsigned short)-397832889;
  long long KJcX8AuH;
  KJcX8AuH = 913370442;
 	long	cw8anPss;
@@ -141,7 +141,7 @@ int main() {
  double N_8O0H4;
  N_8O0H4 = -1533998186;
     short int    pW24iF;
-    pW24iF    =    1661292940;
+    pW24iF    =    (short)1661292940;
  int S65Nl79S;
  S65Nl79S = -1316690285;
     short int    O1OAw51CYA;
@@ -153,7 +153,7 @@ int main() {
     int    Gd02OodT;
     Gd02OodT    =    874947294;
     unsigned short int    aIs5;
-    aIs5    =    -900666831;
+    aIs5    =    (unsigned short)-900666831;
   int  o8eE1_;
   o8eE1_  =  269959324;
     long long    ElE_;
@@ -181,7 +181,7 @@ int main() {
 	long	PhzT;
 	PhzT	=	-153739;
   unsigned short int  L19g0g9rLA;
-  L19g0g9rLA  =  1738507870;
+  L19g0g9rLA  =  (unsigned short)1738507870;
   int  R4W_U0;
   R4W_U0  =  35301050;
 	unsigned long long	kd7h;
@@ -281,7 +281,7 @@ case 3:
 OF6DM6r5 -= WHG5;
 break;
 case 4:
-kd7h = deSq_(231236658, 216942686, HA22, qmp1e4WfW);
+kd7h = deSq_((unsigned char)231236658, 216942686, HA22, qmp1e4WfW);
 break;
 case 5:
 gNH_J1VjZ_ = (OF6DM6r5 & -1603262405) ? TOY_424O : 2122247313;
@@ -397,7 +397,7 @@ try
 {
 if (e04f > -1063034193)
 {
-kd7h = deSq_((unsigned char)1254079217, gNH_J1VjZ_, -1532494724, -1205360729);
+kd7h = deSq_((unsigned char)1254079217, gNH_J1VjZ_, (char)-1532494724, -1205360729);
 }
 else if (OzTE < rgVHncn8)
 {

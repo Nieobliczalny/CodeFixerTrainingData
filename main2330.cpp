@@ -147,7 +147,7 @@ try
 int j = 4;
 while (j >= 0)
 {
-std::cout << qfkv(qE98_Olv_G) << scOPd(qE98_Olv_G, Ci9eIZUOl, (char)1133838368) << Ti87(qE98_Olv_G, -2117580718, 1255491767) << std::endl;
+std::cout << qfkv(qE98_Olv_G) << scOPd(qE98_Olv_G, Ci9eIZUOl, (char)1133838368) << Ti87(qE98_Olv_G, (short)-2117580718, 1255491767) << std::endl;
 j--;
 }
 }
@@ -222,7 +222,7 @@ case 2:
 Nbp3m = qfkv((char)1518248703);
 break;
 case 3:
-w880n1i_3O = scOPd((short)-1658707574, qE98_Olv_G, -1321282887);
+w880n1i_3O = scOPd((short)-1658707574, qE98_Olv_G, (char)-1321282887);
 break;
 case 4:
 OKTH_f13R++;
@@ -274,7 +274,7 @@ w880n1i_3O = scOPd(yZdb, Nbp3m, (char)590113574);
 break;
 case 'd':
 case 'D':
-MqMHdY0gC = Ti87(yZdb, (short)1267315230, 1174544978) << 865792400;
+MqMHdY0gC = Ti87(yZdb, (short)1267315230, (unsigned char)1174544978) << 865792400;
 break;
 case 'e':
 case 'E':
@@ -294,7 +294,7 @@ me25i = Nbp3m >> 1679768103;
 break;
 case 'i':
 case 'I':
-w880n1i_3O = scOPd((short)1336185652, 663885262, -1490652312);
+w880n1i_3O = scOPd((short)1336185652, 663885262, (char)-1490652312);
 break;
 case 'j':
 case 'J':

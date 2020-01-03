@@ -137,7 +137,7 @@ YfQy = iBC57(YfQy, (unsigned short)-1824114367, K58V);
 }
 else if (MO434)
 {
-MLM_7U49 = iet_T(1930462635);
+MLM_7U49 = iet_T((unsigned short)1930462635);
 }
 else
 {
@@ -196,7 +196,7 @@ N755kxKpS = iBC57(1146124075, (unsigned short)-129778425, -190957563);
 switch (Ij__eHs7k)
 {
 case 0:
-x9hEthDr0 = WJ7P(sMEln24n, 138490649, -239124139, Mf8rjir5QY);
+x9hEthDr0 = WJ7P(sMEln24n, 138490649, (short)-239124139, Mf8rjir5QY);
 break;
 case 1:
 z45SwV++;
@@ -211,7 +211,7 @@ case 4:
 K58V = WJ7P(ok6CvzSiD, 2077526122, (short)-522116906, ty6xLiU);
 break;
 case 5:
-W0_B08F_R = iet_T(133633040);
+W0_B08F_R = iet_T((unsigned short)133633040);
 break;
 case 6:
 BAKyg = K6eM(-2001042492, UZ1UBDG_);

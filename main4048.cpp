@@ -55,7 +55,7 @@ int main(void)
     double    BwfeX7O83X;
     BwfeX7O83X    =    59527755;
 	unsigned short int	F_5cme82;
-	F_5cme82	=	-1588905214;
+	F_5cme82	=	(unsigned short)-1588905214;
  double U6i9931ui;
  U6i9931ui = 686827640;
 	long double	TRtp_l_6g;
@@ -69,7 +69,7 @@ int main(void)
  short q4Q9T;
  q4Q9T = (short)-966884944;
 	unsigned short	Q2j2gQn8;
-	Q2j2gQn8	=	-741128853;
+	Q2j2gQn8	=	(unsigned short)-741128853;
 	unsigned long long	sD8mrQ;
 	sD8mrQ	=	478449363;
     unsigned char    yTBmW;

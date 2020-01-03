@@ -49,7 +49,7 @@ int main(int argc, char** argv)
 	double	QwHik;
 	QwHik	=	-1015188028;
 	unsigned short	Yoy__zRVdF;
-	Yoy__zRVdF	=	458398650;
+	Yoy__zRVdF	=	(unsigned short)458398650;
 	short	U294FcY;
 	U294FcY	=	(short)1291155816;
   long double  l3jJ5z;
@@ -91,7 +91,7 @@ int main(int argc, char** argv)
 	long double	aW19Yl;
 	aW19Yl	=	619848358;
     short    Bqb_5;
-    Bqb_5    =    -26151477;
+    Bqb_5    =    (short)-26151477;
  long long v8KA;
  v8KA = 895851368;
   long  G_8DgAY_0;
@@ -121,7 +121,7 @@ int main(int argc, char** argv)
 	unsigned short	sVT_rw_;
 	sVT_rw_	=	(unsigned short)266046148;
     char    Mp82;
-    Mp82    =    2003017390;
+    Mp82    =    (char)2003017390;
   unsigned short int  FOtS7;
   FOtS7  =  583917208;
  unsigned short int h5nfpgK32G;
@@ -317,7 +317,7 @@ cout << nADByD() << k4g24((char)1993251092) << IK8Lg2Ui6E << l3jJ5z << b9l1y(Yoy
 }
 else if ((sCeRaFPaEn == 1851105262) || (U294FcY <= DfH_TJ03WL))
 {
-cout << r12Sdo2 << WV5g74 << k4g24(-268509367) << b9l1y(-1457104218, Bqb_5, oL9lIBo, -2087584442, yUg2HU4) << endl;
+cout << r12Sdo2 << WV5g74 << k4g24((char)-268509367) << b9l1y(-1457104218, Bqb_5, oL9lIBo, -2087584442, yUg2HU4) << endl;
 }
 else
 {
@@ -446,7 +446,7 @@ aXQOBfu3u = OVBq2m_Il + 864766552;
 }
 else
 {
-I41xOVVu = b9l1y((char)1798379830, FOtS7, 1415348346, -1709769553, -246813685);
+I41xOVVu = b9l1y((char)1798379830, FOtS7, 1415348346, (char)-1709769553, -246813685);
 }
 }
 i--;

@@ -61,7 +61,7 @@ case 6:
 p935J0 += E1OBgWu8dS;
 break;
 case 7:
-v13i = fNM2xa8i(-1145574435, 1594137840, 841777123, p935J0);
+v13i = fNM2xa8i(-1145574435, (unsigned short)1594137840, 841777123, p935J0);
 break;
 case 8:
 v13i = fNM2xa8i(83062219, (unsigned short)-533859769, -1187343457, -1501701915);
@@ -166,7 +166,7 @@ break;
 FohD387M0 = (FohD387M0) ? p935J0 : O383X;
 
 std::cout << qu9J8 << fNM2xa8i(528592077, (unsigned short)409988630, 568574165, E1OBgWu8dS) << kFUNs5M << std::endl;
-O383X = i870k6C43g(O383X, 1222876565, (unsigned char)819827379, 166640073) & C6bsTQx3;
+O383X = i870k6C43g(O383X, 1222876565, (unsigned char)819827379, (unsigned char)166640073) & C6bsTQx3;
 
 kFUNs5M -= 327118377;
 
@@ -199,7 +199,7 @@ SDCV8 = i870k6C43g(-1977493236, -1899208450, (unsigned char)-1313076369, v13i);
 SDCV8 = FohD387M0 % E1OBgWu8dS;
 std::cout << fNM2xa8i(710030114, (unsigned short)-1904635332, -1166896744, v13i) << "J1XQ8sTH3" << FohD387M0 << std::endl;
 
-std::cout << SDCV8 << i870k6C43g(SDCV8, -791046597, kFUNs5M, -11244763) << "ZDBiZ8i" << "lvC_wbT" << "aO_1r" << std::endl;
+std::cout << SDCV8 << i870k6C43g(SDCV8, -791046597, kFUNs5M, (unsigned char)-11244763) << "ZDBiZ8i" << "lvC_wbT" << "aO_1r" << std::endl;
 for (int i = 0; i < 8; ++i)
 {
 if ((FohD387M0) && ((O383X & j19a2) || (O383X > 2074350384)))
@@ -272,7 +272,7 @@ case 'c':
 O383X = p935J0 >> 722258845;
 break;
 case 'd':
-C6bsTQx3 = i870k6C43g(763971595, SDCV8, v13i, 469099054);
+C6bsTQx3 = i870k6C43g(763971595, SDCV8, v13i, (unsigned char)469099054);
 break;
 }
 }
@@ -311,7 +311,7 @@ kFUNs5M = i870k6C43g(1941064926, SDCV8, (unsigned char)-738894354, (unsigned cha
 break;
 case 'e':
 case 'E':
-O383X = i870k6C43g(285598755, 1446799727, 2097867727, 452324622);
+O383X = i870k6C43g(285598755, 1446799727, (unsigned char)2097867727, 452324622);
 break;
 case 'f':
 case 'F':
@@ -411,7 +411,7 @@ case 2:
 SDCV8 = i870k6C43g(-345557819, FohD387M0, (unsigned char)454098738, O383X);
 break;
 case 3:
-v13i = fNM2xa8i(1469485339, 1659593123, E1OBgWu8dS, O383X);
+v13i = fNM2xa8i(1469485339, (unsigned short)1659593123, E1OBgWu8dS, O383X);
 break;
 case 4:
 qu9J8 = (int)abs(p935J0);

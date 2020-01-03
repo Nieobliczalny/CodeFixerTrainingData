@@ -159,7 +159,7 @@ j--;
 }
 else if (((pAC48yKa5) || (UwU40goq > 5391630)) && (ib21_891 == -203091693))
 {
-cout << r3Jb_0Yv << LeBZH__E << D_MwXR0O0(-357033159, bdG8j66s, 622211468, oSEQ6_ML2) << "N1_3iv072" << endl;
+cout << r3Jb_0Yv << LeBZH__E << D_MwXR0O0(-357033159, bdG8j66s, (unsigned short)622211468, oSEQ6_ML2) << "N1_3iv072" << endl;
 }
 else if (FCej59T9OH >= -494273385)
 {

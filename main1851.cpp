@@ -84,7 +84,7 @@ int main(int argc, char** argv) {
  unsigned char qoHw8fuz;
  qoHw8fuz = (unsigned char)-1625413534;
  unsigned short z7_glC6H;
- z7_glC6H = -58450138;
+ z7_glC6H = (unsigned short)-58450138;
   unsigned int  YGtKD;
   YGtKD  =  -795969332;
 	unsigned short	coOr;
@@ -96,7 +96,7 @@ int main(int argc, char** argv) {
   long long  CU_l;
   CU_l  =  -1024733914;
  char Cv993Kmx8;
- Cv993Kmx8 = -2003538417;
+ Cv993Kmx8 = (char)-2003538417;
  short OW_WrH;
  OW_WrH = (short)979313875;
   float  FbP_wN15Jv;
@@ -126,7 +126,7 @@ int main(int argc, char** argv) {
 	short int	fv2aR6;
 	fv2aR6	=	(short)344766439;
   unsigned short  K8YXwn;
-  K8YXwn  =  1757363048;
+  K8YXwn  =  (unsigned short)1757363048;
  long KPzoN1s_;
  KPzoN1s_ = -2058384456;
 	short	Z2ah;

@@ -23,7 +23,7 @@ int main(void)
     char    pvO0BL4    =    0;
   unsigned char  Ofq3L4  =  (unsigned char)1943844886;
 	unsigned short int	EEz72n8	=	(unsigned short)1646933609;
-  short int  MzRSn  =  1409752785;
+  short int  MzRSn  =  (short)1409752785;
 	char	ac4V	=	-870601666;
   float  n62q_Ygl9  =  1937721216;
     float    kSZQ1t1_    =    -1855611991;
@@ -50,7 +50,7 @@ int main(void)
     char    cm80vbs    =    (char)326849060;
     long long    loJ86wWd8    =    -1104157316;
   short int  d0HQ7c  =  0;
-    unsigned short    Q_lVEDO    =    1413746507;
+    unsigned short    Q_lVEDO    =    (unsigned short)1413746507;
  short u2rcgFoomB = 342241483;
   short int  k56n  =  512859428;
  unsigned long wq5g2dUq = 1797529247;
@@ -62,7 +62,7 @@ for (int i = 1; i >= 0; i--)
 std::cout << G7h7D << std::endl;
 }
 
-std::cout << gRRl22c << vPAY67n(ac4V, (unsigned short)-444637323, (unsigned short)185305044) << n62q_Ygl9 << "RPDW79P" << vPAY67n(31497719, -703419328, I3_up3) << std::endl;
+std::cout << gRRl22c << vPAY67n(ac4V, (unsigned short)-444637323, (unsigned short)185305044) << n62q_Ygl9 << "RPDW79P" << vPAY67n((short)31497719, -703419328, I3_up3) << std::endl;
 
 {
 int i = 0;
@@ -274,7 +274,7 @@ e66R8Fo = TpmB6250 | G7h7D;
 }
 else if ((d0HQ7c >= 1048338878) && ((vY32wRha > -1479019288) && (vY32wRha != cm80vbs)))
 {
-YA39Q2e = vPAY67n((short)-1979895260, (unsigned short)-1016790453, -1679584319);
+YA39Q2e = vPAY67n((short)-1979895260, (unsigned short)-1016790453, (unsigned short)-1679584319);
 }
 else if (loJ86wWd8 < 649424010)
 {
@@ -341,7 +341,7 @@ T35pCC4r = vPAY67n((short)1345647726, cm80vbs, c25_);
 switch (yAG14bcu)
 {
 case 0:
-o3MT = vPAY67n(o3MT, (unsigned short)1824417421, 1069059939);
+o3MT = vPAY67n(o3MT, (unsigned short)1824417421, (unsigned short)1069059939);
 break;
 case 1:
 gdi800i = (int)floor(c_j5N9tg_8);

@@ -26,7 +26,7 @@ short X1s0xGL7e(long uB5cs_,int xp8f5) {
 }
 
 unsigned short  IV3z0iC4x(long long  OT4247J1,long long  i4Vb_U,short int  Fl3x,unsigned int  Ymt8R6V6)  {
-  return  -885819843;
+  return  (unsigned short)-885819843;
 }
 
 short  MM3Zk()
@@ -55,7 +55,7 @@ int main(int argc, char** argv)
     long double    iI4osti;
     iI4osti    =    -800598658;
     short int    iVwdSuaG;
-    iVwdSuaG    =    887819567;
+    iVwdSuaG    =    (short)887819567;
  unsigned char J8W7GN8;
  J8W7GN8 = (unsigned char)581487300;
 

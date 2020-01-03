@@ -28,7 +28,7 @@ case 'a':
 V9p_r568B7 = W08h((unsigned short)-1671165900, -2027370738);
 break;
 case 'b':
-V9p_r568B7 = W08h(-1827274823, 1769252061);
+V9p_r568B7 = W08h((unsigned short)-1827274823, 1769252061);
 break;
 case 'c':
 Bf_Iaw = W08h(ayU_L9, AQ97SS) | 5974324;

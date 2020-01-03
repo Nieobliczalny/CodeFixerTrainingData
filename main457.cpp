@@ -43,7 +43,7 @@ int main(int argc, char** argv) {
     short int    J8lk;
     J8lk    =    (short)-1037274262;
  unsigned short wIvrE;
- wIvrE = -2071092667;
+ wIvrE = (unsigned short)-2071092667;
   unsigned char  Y5FQ1O_2xN;
   Y5FQ1O_2xN  =  -1866048230;
     unsigned short int    dpYKvQG1t3;
@@ -67,7 +67,7 @@ int main(int argc, char** argv) {
  unsigned int jUp19OhL;
  jUp19OhL = -1009303554;
     short    ICoR6;
-    ICoR6    =    278707589;
+    ICoR6    =    (short)278707589;
 	unsigned short int	UCY0L64Ee;
 	UCY0L64Ee	=	(unsigned short)281184498;
     int    bjuva04;
@@ -81,7 +81,7 @@ int main(int argc, char** argv) {
     unsigned short    fcMy8uL4;
     fcMy8uL4    =    (unsigned short)-995334897;
  short int t_qFU;
- t_qFU = 1860108719;
+ t_qFU = (short)1860108719;
  unsigned short TR_iGW5;
  TR_iGW5 = (unsigned short)693021679;
  unsigned char S7oP0V05F;
@@ -119,7 +119,7 @@ int main(int argc, char** argv) {
   unsigned short int  w833rI;
   w833rI  =  (unsigned short)-1591303636;
  unsigned char H8Hc36c9n;
- H8Hc36c9n = -2000479958;
+ H8Hc36c9n = (unsigned char)-2000479958;
   unsigned short int  WsPG;
   WsPG  =  1678594548;
 	long long	Ev2q;
@@ -198,7 +198,7 @@ case 5:
 Zr300nAx = KY2gjdc7(-759860359, e_PdGbZ, VWU_RC1N);
 break;
 case 6:
-E_jj06K = KY2gjdc7(E_jj06K, 1879024186, J3_2c78kb);
+E_jj06K = KY2gjdc7(E_jj06K, (unsigned short)1879024186, J3_2c78kb);
 break;
 case 7:
 VWU_RC1N /= uVTDEaC;
@@ -345,7 +345,7 @@ case 4:
 w833rI = KY2gjdc7(w833rI, (unsigned short)1178521974, (unsigned short)-901481572);
 break;
 case 5:
-bez6_RO6Si = KY2gjdc7(1894653444, -156607273, CZ053);
+bez6_RO6Si = KY2gjdc7(1894653444, (unsigned short)-156607273, CZ053);
 break;
 case 6:
 VWU_RC1N = (int)floor(dUC28);
@@ -490,7 +490,7 @@ case 0:
 Dhg2D8 = KY2gjdc7(Dhg2D8, (unsigned short)-1199341808, (unsigned short)-633798975);
 break;
 case 1:
-WsPG = PwGD3dI(1982835233, 956118215);
+WsPG = PwGD3dI((char)1982835233, 956118215);
 break;
 case 2:
 Jzn4Y = em_6();

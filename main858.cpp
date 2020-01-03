@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
     unsigned short int    js2Uny;
     js2Uny    =    (unsigned short)1867824151;
     short    OtI_029_;
-    OtI_029_    =    -56889878;
+    OtI_029_    =    (short)-56889878;
 	unsigned short int	gaMu1H;
 	gaMu1H	=	1319483437;
 	long	tpsJ769PuW;

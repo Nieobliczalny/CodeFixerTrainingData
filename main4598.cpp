@@ -65,7 +65,7 @@ int i = 0;
 do
 {
 i++;
-cout << z6iR_qcpt((short)1759698991, Ujjl9A3xs, (unsigned short)812701160) << z6iR_qcpt(kBI20aN, 769615421, IibIC5) << Co9sp << endl;
+cout << z6iR_qcpt((short)1759698991, Ujjl9A3xs, (unsigned short)812701160) << z6iR_qcpt(kBI20aN, (short)769615421, IibIC5) << Co9sp << endl;
 }
 while (i < 6);
 }
@@ -157,7 +157,7 @@ case 'a':
 HjHd = z6iR_qcpt(HjHd, Qmqxxo, IibIC5);
 break;
 case 'b':
-HjHd = z6iR_qcpt((short)-720197043, (short)720851028, 1699489937);
+HjHd = z6iR_qcpt((short)-720197043, (short)720851028, (unsigned short)1699489937);
 break;
 default:
 Co9sp += 1357464409;
@@ -205,7 +205,7 @@ else
 {
 try
 {
-cout << z6iR_qcpt((short)465660182, (short)1329777599, 1097904138) << Y4vq5n_() << Co9sp << "hA4gn0FnI" << Y8wl << endl;
+cout << z6iR_qcpt((short)465660182, (short)1329777599, (unsigned short)1097904138) << Y4vq5n_() << Co9sp << "hA4gn0FnI" << Y8wl << endl;
 }
 catch (int& errorCode)
 {

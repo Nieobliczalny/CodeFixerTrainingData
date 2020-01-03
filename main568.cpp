@@ -107,7 +107,7 @@ JihA = YHLIXn(wY_d, N2WhWmTN);
 break;
 case 'c':
 case 'C':
-f5Ou = S0oro_(f5Ou, l_2MQi9z, uChuGK4ypr, 901081133);
+f5Ou = S0oro_(f5Ou, l_2MQi9z, uChuGK4ypr, (short)901081133);
 break;
 case 'd':
 case 'D':
@@ -149,7 +149,7 @@ if (Jd8_O_5w5_ < dFO2)
 {
 if (l_2MQi9z >= JihA)
 {
-JihA = YHLIXn(-1081346257, u4W3);
+JihA = YHLIXn((unsigned short)-1081346257, u4W3);
 }
 }
 }
@@ -177,7 +177,7 @@ switch (phZswB)
 {
 case 'a':
 case 'A':
-SJn4yxw = S0oro_((short)-531373217, 2125208417, CoI51, -1668845547);
+SJn4yxw = S0oro_((short)-531373217, (unsigned short)2125208417, CoI51, -1668845547);
 break;
 case 'b':
 case 'B':
@@ -216,7 +216,7 @@ int k = 3;
 while (k >= 0)
 {
 k--;
-SJn4yxw = S0oro_(SJn4yxw, (unsigned short)805175748, (short)-1532658051, -119896705);
+SJn4yxw = S0oro_(SJn4yxw, (unsigned short)805175748, (short)-1532658051, (short)-119896705);
 }
 }
 }
@@ -413,7 +413,7 @@ case 1:
 JihA = YHLIXn(SJn4yxw, f5Ou);
 break;
 case 2:
-fpM5WtmJ43 = S0oro_((short)-707653478, (unsigned short)319119453, 1494156815, -1064194732) | wY_d;
+fpM5WtmJ43 = S0oro_((short)-707653478, (unsigned short)319119453, (short)1494156815, -1064194732) | wY_d;
 break;
 case 3:
 u4W3 = ge3JRW63ke + 1608473774;
@@ -428,7 +428,7 @@ case 6:
 JihA = YHLIXn((unsigned short)2112259425, SJn4yxw);
 break;
 case 7:
-SJn4yxw = S0oro_((short)229073548, SJn4yxw, -1795989515, u_y8FZ);
+SJn4yxw = S0oro_((short)229073548, SJn4yxw, (short)-1795989515, u_y8FZ);
 break;
 default:
 u_y8FZ = u_y8FZ << 605520146;
@@ -494,7 +494,7 @@ f5Ou = S0oro_(LJn_tt, Jd8_O_5w5_, (short)26324846, (short)-1374124868) + 2088152
 }
 else if (u4W3 != 166817555)
 {
-LJn_tt = S0oro_(LJn_tt, 261537430, Sjjou3zH, 35466132);
+LJn_tt = S0oro_(LJn_tt, (unsigned short)261537430, Sjjou3zH, 35466132);
 }
 else if ((N2WhWmTN < -144102732) && ((CoI51 <= fpM5WtmJ43) && (Jd8_O_5w5_ != dFO2)))
 {
@@ -506,7 +506,7 @@ fpM5WtmJ43 = S0oro_((short)2044559649, ge3JRW63ke, Sjjou3zH, (short)-1781874009)
 }
 else
 {
-wY_d = S0oro_(wY_d, -281424528, uChuGK4ypr, 799453093);
+wY_d = S0oro_(wY_d, (unsigned short)-281424528, uChuGK4ypr, 799453093);
 }
 }
 i++;
@@ -663,7 +663,7 @@ JihA = YHLIXn((unsigned short)1895440073, ufD_8);
 break;
 case 'c':
 case 'C':
-u4W3 = S0oro_(-1849107417, 1236758803, 890279553, l_2MQi9z);
+u4W3 = S0oro_((short)-1849107417, 1236758803, 890279553, l_2MQi9z);
 break;
 case 'd':
 case 'D':

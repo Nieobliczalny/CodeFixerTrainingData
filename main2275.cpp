@@ -27,7 +27,7 @@ int main(int argc, char** argv) {
  long WeryO03GHm = 971107810;
     unsigned char    dytb9nBk3T    =    (unsigned char)938029066;
  short int x0eB = (short)153220335;
-  char  C8XX2  =  -1027391792;
+  char  C8XX2  =  (char)-1027391792;
   int  kK665lLL  =  0;
 	long double	w2SP	=	1328782580;
     int    xt2I    =    0;
@@ -312,7 +312,7 @@ if (MsWXKO58X <= WeryO03GHm)
 {
 for (int k = 0; k < 4; ++k)
 {
-K15V_9d = D56125_(K15V_9d, -215065955, 677220568);
+K15V_9d = D56125_(K15V_9d, (char)-215065955, 677220568);
 }
 }
 else if (((MsWXKO58X <= -1440463746) || (kK665lLL >= KEP26Vj2v)) && ((xt2I <= -1821146622) && (w2SP > 1416592504)))

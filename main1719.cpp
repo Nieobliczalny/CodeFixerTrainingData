@@ -32,7 +32,7 @@ short    rYc0y337X(short    W4_ZGD,short int    Eve6wn7,int    Eu55YsLH1g,int   
 
 int main(int argc, char** argv) {
     unsigned char    q__6heMm    =    (unsigned char)-17291890;
-  unsigned char  iuJ7H4Mp  =  603090252;
+  unsigned char  iuJ7H4Mp  =  (unsigned char)603090252;
 	unsigned char	JW1_w	=	583606904;
   unsigned char  Jz2M_UHV  =  0;
  int xD6KJM = -994109984;
@@ -145,7 +145,7 @@ while (j >= 0);
 }
 else
 {
-q__6heMm = exUl(-939820608, -43581070, Y8u8) % 1396510485;
+q__6heMm = exUl((unsigned char)-939820608, -43581070, Y8u8) % 1396510485;
 }
 if ((JW1_w < H70D) && (naRDczd == EYLY))
 {
@@ -225,7 +225,7 @@ case 2:
 j__3YZ1 = exUl(xD6KJM, (char)859432855, (unsigned char)-1241019417);
 break;
 case 3:
-j__3YZ1 = exUl(1925126499, j__3YZ1, qcfMyq);
+j__3YZ1 = exUl((unsigned char)1925126499, j__3YZ1, qcfMyq);
 break;
 case 4:
 BgDz2zL = UTSGN0C3(Y8u8) & 1891147275;
@@ -324,7 +324,7 @@ case 0:
 R769j6y92Z = (int)abs(zdALjT50Ls);
 break;
 case 1:
-lb65F2hHj7 = exUl((unsigned char)-1798828358, (char)-290650868, -21203873);
+lb65F2hHj7 = exUl((unsigned char)-1798828358, (char)-290650868, (unsigned char)-21203873);
 break;
 case 2:
 Jz2M_UHV = exUl(1424363519, -1927838772, JqOkDtFS);
@@ -346,7 +346,7 @@ if (WzNj5tCx == q__6heMm)
 {
 cout << "FtI4Bz" << endl;
 }
-JW1_w = vs_G064bNm((short)-148892914, -894950353);
+JW1_w = vs_G064bNm((short)-148892914, (short)-894950353);
 
 cout << qcfMyq << endl;
 
@@ -410,7 +410,7 @@ case 'h':
 lb65F2hHj7 = (int)abs(qcfMyq);
 break;
 case 'i':
-qcfMyq = exUl((unsigned char)-1107033584, 1873377228, j__3YZ1);
+qcfMyq = exUl((unsigned char)-1107033584, (char)1873377228, j__3YZ1);
 break;
 case 'j':
 Xp8sJ = (j__3YZ1 < xD6KJM) ? -298346026 : vs_G064bNm(JW1_w, qcfMyq);
@@ -470,7 +470,7 @@ else
 {
 for (int j = 0; j < 7; ++j)
 {
-cout << "JS_NgqT03" << "Pph5P3" << UTSGN0C3(1850349602) << rYc0y337X((short)851801678, zdALjT50Ls, 207047641, BgDz2zL) << exUl(1885830697, zdALjT50Ls, 888308617) << endl;
+cout << "JS_NgqT03" << "Pph5P3" << UTSGN0C3(1850349602) << rYc0y337X((short)851801678, zdALjT50Ls, 207047641, BgDz2zL) << exUl((unsigned char)1885830697, zdALjT50Ls, 888308617) << endl;
 }
 }
 if ((lb65F2hHj7 & 164444323) || (JqOkDtFS != 1002029911))

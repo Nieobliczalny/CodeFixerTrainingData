@@ -25,7 +25,7 @@ int main()
  long double H1E_H_X05 = -1511094863;
     char    oDXAv3    =    (char)-312009352;
     unsigned long    R74Ydf0s    =    -1509398141;
-	unsigned char	SP8u	=	1939549410;
+	unsigned char	SP8u	=	(unsigned char)1939549410;
   unsigned long long  wxvr9_1_XE  =  -804266180;
 	int	kfr5_	=	0;
  float mal6Lj = 1983245580;

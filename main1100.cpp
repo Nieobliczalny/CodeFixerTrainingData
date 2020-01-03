@@ -112,7 +112,7 @@ int main(void)
   unsigned long long  z313xQj;
   z313xQj  =  -1565442240;
 	short	T69kQ2Z_;
-	T69kQ2Z_	=	-1497212078;
+	T69kQ2Z_	=	(short)-1497212078;
   short  ldQs6;
   ldQs6  =  (short)-391475012;
   unsigned long long  QtQnB8x;
@@ -132,7 +132,7 @@ int main(void)
 	unsigned short int	uB95s_62;
 	uB95s_62	=	(unsigned short)-601685498;
   unsigned char  IP4_;
-  IP4_  =  -797362491;
+  IP4_  =  (unsigned char)-797362491;
   unsigned long long  hxU9L;
   hxU9L  =  -637834784;
     char    v_86Z;
@@ -223,7 +223,7 @@ case 1:
 ZRE2h = f0Zut((unsigned short)169504257, (unsigned char)834742539);
 break;
 case 2:
-ZRE2h = f0Zut(zIAA_, -1399881784);
+ZRE2h = f0Zut(zIAA_, (unsigned char)-1399881784);
 break;
 case 3:
 R18q5 = (int)abs(T_Q1_9);
@@ -241,7 +241,7 @@ case 7:
 pY_37 = f0Zut((unsigned short)1532099541, UioB06);
 break;
 case 8:
-t1uD = f0Zut(uMUciq3d, 1076757423);
+t1uD = f0Zut(uMUciq3d, (unsigned char)1076757423);
 break;
 }
 }
@@ -275,7 +275,7 @@ else
 int j = 3;
 do
 {
-PCx8vx0_ = (qEo24k_JVq != 579813454) ? MOQN5559 : f0Zut(1134958264, T69kQ2Z_);
+PCx8vx0_ = (qEo24k_JVq != 579813454) ? MOQN5559 : f0Zut((unsigned short)1134958264, T69kQ2Z_);
 --j;
 }
 while (j >= 0);
@@ -326,7 +326,7 @@ else if ((lfk2b4y0Is <= uB95s_62) && (P5Z48y4D == -488563467))
 {
 for (int j = 5; j >= 0; j--)
 {
-std::cout << f0Zut(uMUciq3d, (unsigned char)-784370698) << f0Zut((unsigned short)-660034726, -2068378781) << "R3d9P" << v_86Z << std::endl;
+std::cout << f0Zut(uMUciq3d, (unsigned char)-784370698) << f0Zut((unsigned short)-660034726, (unsigned char)-2068378781) << "R3d9P" << v_86Z << std::endl;
 }
 }
 else if ((e3_5_ == 988597079) && (uB95s_62 & -1310691434))
@@ -348,7 +348,7 @@ case 3:
 r_3g7t9PC = f0Zut(lU6gRrUE, T_60d6d6);
 break;
 case 4:
-pY_37 = f0Zut(-1239526982, 2146284810);
+pY_37 = f0Zut((unsigned short)-1239526982, 2146284810);
 break;
 case 5:
 r_3g7t9PC = f0Zut(1117971453, -1116138170);

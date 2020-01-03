@@ -39,7 +39,7 @@ int main(int argc, char** argv) {
     short int    Tdi59;
     Tdi59    =    (short)1932058050;
     unsigned char    Dv6I;
-    Dv6I    =    -827585198;
+    Dv6I    =    (unsigned char)-827585198;
 	unsigned short int	Zb7slFmn_;
 	Zb7slFmn_	=	1801186791;
   short  FuH8842C17;
@@ -51,7 +51,7 @@ int main(int argc, char** argv) {
     short    K4Yf8G9v3k;
     K4Yf8G9v3k    =    (short)-761478113;
 	unsigned short	WD3Y6;
-	WD3Y6	=	-111744014;
+	WD3Y6	=	(unsigned short)-111744014;
 	short	kwSq398;
 	kwSq398	=	-2125357618;
 	unsigned short	ouVSI_F2o;
@@ -63,7 +63,7 @@ int main(int argc, char** argv) {
 	float	b43jsW4DQY;
 	b43jsW4DQY	=	493601786;
     unsigned short int    lXWY;
-    lXWY    =    -1557662885;
+    lXWY    =    (unsigned short)-1557662885;
   float  R9lx;
   R9lx  =  -739118726;
     unsigned int    TNAsh;
@@ -77,7 +77,7 @@ int main(int argc, char** argv) {
   unsigned short int  yS_88e;
   yS_88e  =  (unsigned short)-751750491;
 	char	hqnZD_a;
-	hqnZD_a	=	-1371727388;
+	hqnZD_a	=	(char)-1371727388;
  unsigned char N376e8;
  N376e8 = -735626225;
  unsigned short Ku48qff5;
@@ -99,7 +99,7 @@ int main(int argc, char** argv) {
     unsigned short int    h111z_6Xsg;
     h111z_6Xsg    =    (unsigned short)34330373;
 	unsigned short	o75f2;
-	o75f2	=	-324370457;
+	o75f2	=	(unsigned short)-324370457;
 	long	A6vP81M7y;
 	A6vP81M7y	=	-2014235092;
     long double    eux4ol;
@@ -127,7 +127,7 @@ int main(int argc, char** argv) {
  char jsW7iyA1;
  jsW7iyA1 = (char)-1143255113;
 	short	nwYO198jp;
-	nwYO198jp	=	-895855527;
+	nwYO198jp	=	(short)-895855527;
  long long IMHP4M;
  IMHP4M = 926400063;
 	unsigned short	Snxk;
@@ -177,7 +177,7 @@ int main(int argc, char** argv) {
  long long MBo57142;
  MBo57142 = -443055321;
  unsigned short cIslPa4;
- cIslPa4 = 656032397;
+ cIslPa4 = (unsigned short)656032397;
   double  tsNC_b6C;
   tsNC_b6C  =  -2039833065;
 	float	A_UxC;
@@ -196,7 +196,7 @@ cout << 1716668057 / IZjDj675() << endl;
 switch (lXWY)
 {
 case 0:
-JnEy = UYTfX(-491235180, Zb7slFmn_);
+JnEy = UYTfX((unsigned short)-491235180, Zb7slFmn_);
 break;
 case 1:
 R9lx = (int)floor(N8i6Px9HMG);

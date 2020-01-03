@@ -34,7 +34,7 @@ cout << Q_G6za4((char)-83576309, h7kI, 1719668616) << Q_G6za4((char)-2048926334,
 switch (lY2lZ1IT)
 {
 case 0:
-obfiy4SV = Q_G6za4(2048072086, ymJOk, 2027000632);
+obfiy4SV = Q_G6za4((char)2048072086, ymJOk, 2027000632);
 break;
 case 1:
 Mf8m7cW = vxdM7B >> U8_41mxm;
@@ -119,7 +119,7 @@ case 3:
 O19MZdW3 = c0725 >> 1363553982;
 break;
 case 4:
-obfiy4SV = Q_G6za4(-2095772543, -1726585226, 696974568);
+obfiy4SV = Q_G6za4((char)-2095772543, -1726585226, 696974568);
 break;
 case 5:
 c0725 = Q_G6za4(yOM0W, fP4t2, Xr3f2B);

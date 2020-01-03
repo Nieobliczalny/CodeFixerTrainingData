@@ -60,7 +60,7 @@ int main(void)
   short int  XfQJ;
   XfQJ  =  (short)-340217254;
     unsigned short int    JUAIIebC;
-    JUAIIebC    =    667321014;
+    JUAIIebC    =    (unsigned short)667321014;
     unsigned int    Kt99pfwlE;
     Kt99pfwlE    =    -653820872;
     unsigned short    OW98;
@@ -90,7 +90,7 @@ int main(void)
  unsigned long ku1Nus5;
  ku1Nus5 = 445880652;
     short int    rdPd52g2_q;
-    rdPd52g2_q    =    -880933886;
+    rdPd52g2_q    =    (short)-880933886;
  unsigned long GO1_t0K;
  GO1_t0K = -31320045;
     short int    IUXD5aAh48;
@@ -126,7 +126,7 @@ int main(void)
 	short int	TlgzcT2G;
 	TlgzcT2G	=	(short)-861826305;
  unsigned short Ah2nB;
- Ah2nB = -2125089516;
+ Ah2nB = (unsigned short)-2125089516;
   long double  E7_0tSJP;
   E7_0tSJP  =  1703980292;
  int Nsa_7Y77F;
@@ -262,7 +262,7 @@ case 1:
 id0CY = e8NC2I823(d_4M);
 break;
 case 2:
-wlg8Qs8 = W0qAz_(wlg8Qs8, AXb28V2UB, (short)375854829, -325102940);
+wlg8Qs8 = W0qAz_(wlg8Qs8, AXb28V2UB, (short)375854829, (unsigned short)-325102940);
 break;
 case 3:
 XfQJ = W0qAz_(1309473684, -1749202379, 779573389, 1050423953);

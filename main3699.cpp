@@ -61,7 +61,7 @@ FXSeB -= 139139796;
 }
 try
 {
-oMYcaQMlE3 = lzq7xv4oo(-2088026582, (unsigned char)543342589, (char)-1219187127, 2109913956);
+oMYcaQMlE3 = lzq7xv4oo(-2088026582, (unsigned char)543342589, (char)-1219187127, (unsigned short)2109913956);
 }
 catch (int& errorCode)
 {
@@ -188,7 +188,7 @@ do
 ++i;
 for (int j = 6; j >= 0; j--)
 {
-sS4BCb = lzq7xv4oo(sS4BCb, (unsigned char)-408073345, -2105056783, 1958827069);
+sS4BCb = lzq7xv4oo(sS4BCb, (unsigned char)-408073345, (char)-2105056783, 1958827069);
 }
 }
 while (i < 9);
@@ -207,7 +207,7 @@ yopR3 = (int)abs(I0es);
 LswW7fPq54 = lzq7xv4oo(LswW7fPq54, (unsigned char)1972231613, (char)-1182999465, Vm5P874);
 try
 {
-cout << p9FjsBy(-1003226403, 2110017945) << "JwTb" << endl;
+cout << p9FjsBy(-1003226403, (short)2110017945) << "JwTb" << endl;
 }
 catch (int& errorCode)
 {

@@ -15,7 +15,7 @@ int main(void)
     long    WyfvrSw548    =    610723624;
 	unsigned short	Q0TeREFLc	=	(unsigned short)66992706;
 	int	YUTHi45N	=	1218159423;
- unsigned char XpIAJ_CD5 = 1809602700;
+ unsigned char XpIAJ_CD5 = (unsigned char)1809602700;
     unsigned int    D36WC    =    -676365681;
     double    gX31    =    -978186178;
 	unsigned long long	kVMO0pu	=	861374161;
@@ -28,7 +28,7 @@ int main(void)
 	unsigned long long	VGAl81	=	523981511;
 	char	Om8ov	=	(char)1033268513;
   char  EtuoJAXl_  =  0;
-	short int	kkuf8	=	-444207592;
+	short int	kkuf8	=	(short)-444207592;
     long double    dp0d    =    -979451852;
  long qo5w = -1864553813;
   short int  X2T00  =  695242402;
@@ -39,7 +39,7 @@ int main(void)
     short    AEPB4h    =    (short)-491407781;
     long    SI10    =    -549067086;
  double kqxac3OBr = 390920126;
-	char	b_9LrT3t27	=	-1108844267;
+	char	b_9LrT3t27	=	(char)-1108844267;
     long    p_9p    =    1397970235;
   unsigned long long  DBM9bwO7I  =  343489693;
  int V_Cf = 1034314096;
@@ -52,7 +52,7 @@ int main(void)
   long long  LFWs_jqQuq  =  -505034698;
  unsigned short z_9t1t = (unsigned short)277658877;
 	short	OC5K9ThlD	=	0;
-  unsigned short  a14TYBfT  =  -868599563;
+  unsigned short  a14TYBfT  =  (unsigned short)-868599563;
  unsigned char da0CdAD7V = 1594794708;
     short    i7lss    =    1249165531;
  char V1U16022 = -1252095482;
@@ -63,7 +63,7 @@ int main(void)
  unsigned short int Lu06Drg0H = (unsigned short)1184990220;
     int    RVJdqz    =    -1534876021;
 	long long	aH2QVj7_P	=	545716505;
-    unsigned short int    K9W29    =    -1534611533;
+    unsigned short int    K9W29    =    (unsigned short)-1534611533;
  short CpHj_38Zz = 1964814264;
  short T0y70YpTX = -2050851884;
  unsigned int AYtjBQ2hw = 1064657109;
@@ -73,7 +73,7 @@ int main(void)
   short int  AoR8QIa18  =  (short)7127426;
   unsigned char  VK8j_  =  (unsigned char)-1052358289;
  int t__F21FV_ = -203961524;
-	char	w2h1p61	=	1116413991;
+	char	w2h1p61	=	(char)1116413991;
  unsigned short T8xLxPEef = -1400361220;
     char    PtW15    =    92600849;
   unsigned long  iijO_  =  -677789984;

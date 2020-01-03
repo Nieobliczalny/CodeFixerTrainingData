@@ -57,7 +57,7 @@ case 'c':
 iprpFx = u06B6t6uX_(iprpFx, xW6R, (unsigned short)-598194026, Cy_0nO6jr9);
 break;
 case 'd':
-xW6R = u06B6t6uX_(xW6R, U_wh913n, (unsigned short)1051843885, -2042092559);
+xW6R = u06B6t6uX_(xW6R, U_wh913n, (unsigned short)1051843885, (unsigned short)-2042092559);
 break;
 case 'e':
 s__O0y = IGaCgA_97X(-1680113668);
@@ -206,7 +206,7 @@ for (int j = 10; j >= 0; --j)
 int k = 0;
 while (k < 3)
 {
-tR40w = u06B6t6uX_((unsigned short)-430493322, 1856310670, (unsigned short)87288485, -334351803) | pNJ89niJ;
+tR40w = u06B6t6uX_((unsigned short)-430493322, 1856310670, (unsigned short)87288485, (unsigned short)-334351803) | pNJ89niJ;
 ++k;
 }
 }
@@ -221,7 +221,7 @@ else
 {
 for (int j = 0; j < 5; ++j)
 {
-std::cout << IGaCgA_97X((short)-1037438520) << IGaCgA_97X(yRph) << u06B6t6uX_((unsigned short)1761961989, DqZ7, B3Y_L, -591518162) << pNJ89niJ << "rM_jQg84v" << std::endl;
+std::cout << IGaCgA_97X((short)-1037438520) << IGaCgA_97X(yRph) << u06B6t6uX_((unsigned short)1761961989, DqZ7, B3Y_L, (unsigned short)-591518162) << pNJ89niJ << "rM_jQg84v" << std::endl;
 }
 }
 s__O0y = IGaCgA_97X(1320912052);
@@ -321,7 +321,7 @@ case 'h':
 md0V6D = (int)abs(iprpFx);
 break;
 default:
-s__O0y = IGaCgA_97X(1283584686);
+s__O0y = IGaCgA_97X((short)1283584686);
 break;
 }
 }
@@ -554,7 +554,7 @@ case 'd':
 iprpFx %= 1362256777;
 break;
 case 'e':
-iprpFx = u06B6t6uX_((unsigned short)-219088509, Cy_0nO6jr9, 1397066793, 1854642963);
+iprpFx = u06B6t6uX_((unsigned short)-219088509, Cy_0nO6jr9, (unsigned short)1397066793, 1854642963);
 break;
 case 'f':
 TO6gtf1g6 = IGaCgA_97X(1797851991);
@@ -604,7 +604,7 @@ if (((fBl4K_l) || (i1JC > sIrXa8hB6)) || (G3Pp91 != -1100730276))
 {
 for (int j = 0; j < 9; j++)
 {
-std::cout << DqZ7 << IGaCgA_97X(fBl4K_l) << u06B6t6uX_(fBl4K_l, 1417276476, TO6gtf1g6, -1686861706) << fBl4K_l << "CA45_41" << std::endl;
+std::cout << DqZ7 << IGaCgA_97X(fBl4K_l) << u06B6t6uX_(fBl4K_l, 1417276476, TO6gtf1g6, (unsigned short)-1686861706) << fBl4K_l << "CA45_41" << std::endl;
 }
 }
 else if (G3Pp91 > t6n8)

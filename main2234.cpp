@@ -101,7 +101,7 @@ to2HGyz = lI7Lig((char)1022150707, (short)-426178995, JBudrS6KV5);
 }
 else if (KvEEWa2G9N & 827154034)
 {
-JNwJXs5e = Jchsq7(-1925644480, 2016266613);
+JNwJXs5e = Jchsq7(-1925644480, (short)2016266613);
 }
 else
 {

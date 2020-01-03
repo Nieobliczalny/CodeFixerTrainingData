@@ -55,7 +55,7 @@ do
 ++j;
 for (int k = 5; k >= 0; k--)
 {
-T1_cY = xX_FUA((unsigned short)-1190142396, R98kh_gu3K, (unsigned char)-800588188, -992747525);
+T1_cY = xX_FUA((unsigned short)-1190142396, R98kh_gu3K, (unsigned char)-800588188, (unsigned short)-992747525);
 }
 }
 while (j < 8);
@@ -99,7 +99,7 @@ case 'i':
 E9TYB_ |= 1828198392;
 break;
 default:
-y1Seb28Z8X = xX_FUA(y1Seb28Z8X, (short)-1020026528, (unsigned char)-1235175942, -2098445168);
+y1Seb28Z8X = xX_FUA(y1Seb28Z8X, (short)-1020026528, (unsigned char)-1235175942, (unsigned short)-2098445168);
 break;
 }
 }
@@ -134,7 +134,7 @@ E9TYB_ = Z9NLm6k_v(-324677502, -458407044, (unsigned short)-1574602498, R98kh_gu
 }
 else if (R98kh_gu3K < B6ps)
 {
-rV5w = xX_FUA(rV5w, (short)-1915221796, y1Seb28Z8X, -2041583740);
+rV5w = xX_FUA(rV5w, (short)-1915221796, y1Seb28Z8X, (unsigned short)-2041583740);
 }
 else
 {

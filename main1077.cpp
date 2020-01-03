@@ -44,7 +44,7 @@ int main(void)
     unsigned long    O2BuW2S;
     O2BuW2S    =    -303119873;
     unsigned short    JO38tPW6;
-    JO38tPW6    =    1508006910;
+    JO38tPW6    =    (unsigned short)1508006910;
  long double Ga6Q5px;
  Ga6Q5px = 1728630072;
 	unsigned short int	IJq3;
@@ -80,7 +80,7 @@ int main(void)
     unsigned int    M_Go;
     M_Go    =    2064883288;
     unsigned char    JB17ic_zS3;
-    JB17ic_zS3    =    845185302;
+    JB17ic_zS3    =    (unsigned char)845185302;
 	short	Tb0vt9_sL0;
 	Tb0vt9_sL0	=	0;
 	short int	wyIfaiit6d;
@@ -92,7 +92,7 @@ int main(void)
   float  n_l18hhJ1I;
   n_l18hhJ1I  =  2023405587;
 	char	eUq0Xw;
-	eUq0Xw	=	-899976482;
+	eUq0Xw	=	(char)-899976482;
   unsigned int  Zr44pJtzn;
   Zr44pJtzn  =  -1963671361;
     long    u388g;

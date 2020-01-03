@@ -121,7 +121,7 @@ case 1:
 N16_ -= lr1BrA;
 break;
 case 2:
-Icjo = M4mb(Icjo, (unsigned short)-2050800584, -1805712618);
+Icjo = M4mb(Icjo, (unsigned short)-2050800584, (unsigned short)-1805712618);
 break;
 case 3:
 New6TLjq7T = (int)abs(Gi37);
@@ -184,7 +184,7 @@ case 0:
 tunfMxuf = KvQJfQ9(-752141229);
 break;
 case 1:
-HB_oi7_TU = M4mb(HB_oi7_TU, 226439840, kx38wr);
+HB_oi7_TU = M4mb(HB_oi7_TU, (unsigned short)226439840, kx38wr);
 break;
 case 2:
 An5G99t8 = (int)ceil(H3Wim5dxV);
@@ -205,7 +205,7 @@ case 7:
 uW_Mf91C5 = (int)ceil(HB_oi7_TU);
 break;
 case 8:
-ri5XvNV = Mg_DS(ri5XvNV, -804117304, rDwY);
+ri5XvNV = Mg_DS(ri5XvNV, (char)-804117304, rDwY);
 break;
 default:
 gbEL -= 1706278227;
@@ -339,7 +339,7 @@ tunfMxuf = KvQJfQ9(HV4bgcyf);
 while (i >= 0);
 }
 
-XDfP6yqC = M4mb((unsigned short)-1518339539, (unsigned short)532046242, -158976985) / tunfMxuf;
+XDfP6yqC = M4mb((unsigned short)-1518339539, (unsigned short)532046242, (unsigned short)-158976985) / tunfMxuf;
 
 switch (tunfMxuf)
 {

@@ -88,7 +88,7 @@ rb6_B7 = (P55uPI) ? (unsigned short)-1139411083 : VLN4;
 }
 else
 {
-rb6_B7 = Jk8x5wOP((unsigned short)-1878730557, 685413028, -1738142969, 217641549) + P55uPI;
+rb6_B7 = Jk8x5wOP((unsigned short)-1878730557, 685413028, (short)-1738142969, 217641549) + P55uPI;
 }
 }
 }
@@ -206,7 +206,7 @@ std::cout << "PdTb2" << "Zpt3L8uac" << P55uPI << std::endl;
 
 rb6_B7 = cGK2h(P55uPI, (unsigned short)-1185417750, rb6_B7, 1490051656, (unsigned short)-571551229) / VLN4;
 
-rb6_B7 = pyK2Z1NF(-784089282, P55uPI, 1700561667);
+rb6_B7 = pyK2Z1NF(-784089282, P55uPI, (short)1700561667);
 
 if ((P55uPI) && ((rb6_B7 != VLN4) || (rb6_B7 == -592957574)))
 {
@@ -360,7 +360,7 @@ case 1:
 rb6_B7 += rb6_B7;
 break;
 case 2:
-rb6_B7 = pyK2Z1NF(1276578831, P55uPI, -1585064165);
+rb6_B7 = pyK2Z1NF(1276578831, P55uPI, (short)-1585064165);
 break;
 case 3:
 rb6_B7 *= P55uPI;

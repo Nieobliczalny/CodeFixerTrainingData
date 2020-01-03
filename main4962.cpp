@@ -82,7 +82,7 @@ while (i < 2);
 }
 
 cout << NB8dp(1887564036, YWZ_G, (short)934174256) << NB8dp(rU_FcO2Yj, YWZ_G, (short)966177161) << "fUffYFz5E" << endl;
-tVqcfV = NB8dp(tVqcfV, 1312053513, 1001108066);
+tVqcfV = NB8dp(tVqcfV, 1312053513, (short)1001108066);
 
 LK54bW2 = NB8dp(Wlb0K, v97_GR, bFqD);
 

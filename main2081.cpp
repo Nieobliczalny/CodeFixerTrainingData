@@ -117,7 +117,7 @@ case 'I':
 DR1s = Z3wNdJ_((char)575087015);
 break;
 default:
-fQ7B = LM89_(401812435);
+fQ7B = LM89_((char)401812435);
 break;
 }
 }

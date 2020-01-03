@@ -45,7 +45,7 @@ case 3:
 K3jBLU = (b5rI617E) ? O16hMU6ppY : 767002075;
 break;
 case 4:
-fGG_R1aS4d = yL4o(fGG_R1aS4d, -1456695059);
+fGG_R1aS4d = yL4o(fGG_R1aS4d, (unsigned short)-1456695059);
 break;
 case 5:
 NsO8_Jjwh3 = sGVQ_n7Qu(WFf23L4, LX170, Vn1dtskek);
@@ -133,7 +133,7 @@ catch (int& errorCode)
 {
 xcQ8_j2s3 = BaxW_0z / 1264128017;
 }
-std::cout << sGVQ_n7Qu((short)-102533012, (unsigned char)601328601, O8j24J) << sGVQ_n7Qu(-454287378, -882134432, 1104396524) << std::endl;
+std::cout << sGVQ_n7Qu((short)-102533012, (unsigned char)601328601, O8j24J) << sGVQ_n7Qu((short)-454287378, -882134432, 1104396524) << std::endl;
 try
 {
 {

@@ -33,7 +33,7 @@ int main() {
  short int UPsKdqzX = (short)-495418249;
   unsigned long  e8ygX16  =  1942113997;
   unsigned short int  hO9Fb1S9A  =  (unsigned short)1807743079;
-  unsigned short  Nm6c4sRkx  =  -793177719;
+  unsigned short  Nm6c4sRkx  =  (unsigned short)-793177719;
  short r_3Bf1x = 0;
  unsigned char Ye96Du99w = -2115256418;
     unsigned char    fGWp_U0    =    0;
@@ -527,7 +527,7 @@ else if (u6R8)
 {
 try
 {
-jXc4v = j17h2D(-1231336670, Nm6c4sRkx);
+jXc4v = j17h2D((unsigned short)-1231336670, Nm6c4sRkx);
 }
 catch (int& errorCode)
 {

@@ -67,7 +67,7 @@ int main(void)
 	short int	g5Ml5d;
 	g5Ml5d	=	(short)-1861590852;
 	unsigned char	Y0xZ2;
-	Y0xZ2	=	1871955662;
+	Y0xZ2	=	(unsigned char)1871955662;
 	unsigned char	B8_eg6;
 	B8_eg6	=	(unsigned char)1320088108;
 	short int	I3BW;
@@ -125,7 +125,7 @@ int main(void)
 	char	CFbH6;
 	CFbH6	=	(char)-27712904;
 	char	MpnxzXg;
-	MpnxzXg	=	-1250108876;
+	MpnxzXg	=	(char)-1250108876;
  unsigned short PEL7nmq76;
  PEL7nmq76 = (unsigned short)-1199824148;
  int CT3fD;
@@ -141,7 +141,7 @@ int main(void)
 	char	Lkt9;
 	Lkt9	=	(char)-1400858576;
   short int  ClZoMCh3;
-  ClZoMCh3  =  235441294;
+  ClZoMCh3  =  (short)235441294;
 	long double	EtmIG2I643;
 	EtmIG2I643	=	422499772;
 	unsigned char	CV1Z3G;
@@ -153,7 +153,7 @@ int main(void)
 	unsigned char	N0P9;
 	N0P9	=	(unsigned char)-1516953732;
 	unsigned char	f_7_ip;
-	f_7_ip	=	1257788725;
+	f_7_ip	=	(unsigned char)1257788725;
  long long ZQC5;
  ZQC5 = -1089271618;
 	short int	fpkY;
@@ -193,7 +193,7 @@ int main(void)
     short    HFfh0C;
     HFfh0C    =    (short)985936005;
     unsigned char    x_byRB;
-    x_byRB    =    2113505542;
+    x_byRB    =    (unsigned char)2113505542;
     long long    bVuW_;
     bVuW_    =    -1672652818;
 	float	G_447;
@@ -205,7 +205,7 @@ int main(void)
  unsigned short Q8fhUNBTW7;
  Q8fhUNBTW7 = (unsigned short)-56275740;
  char JfLvt1Ye3;
- JfLvt1Ye3 = -104272646;
+ JfLvt1Ye3 = (char)-104272646;
  unsigned int j48JE;
  j48JE = 77845799;
  long X4Y3f;
@@ -296,7 +296,7 @@ case 0:
 GP_c07aFw = w5QV(-1077258359, Piv5, 1152900724, 561040972, (short)-532829344);
 break;
 default:
-Lkt9 = DVMZ((unsigned short)1614476079, ucru_, I3BW, 1395924145);
+Lkt9 = DVMZ((unsigned short)1614476079, ucru_, I3BW, (char)1395924145);
 break;
 }
 try
@@ -460,7 +460,7 @@ GP_c07aFw = w5QV(kccHx6m0n, -627422238, 1973495664, -1291680795, (short)-4045890
 }
 else if ((j5_y < GKdh) || (o6O_N2772Z != fWGUSE))
 {
-std::cout << BVF5mP_5ZJ << N0P9 << DVMZ((unsigned short)1368092382, -1396611780, -1948830164, 656077636) << "UOcl7y" << w5QV(1615348116, 164500758, 1913306783, B03j5U_mQ3, KM15_1o) << std::endl;
+std::cout << BVF5mP_5ZJ << N0P9 << DVMZ((unsigned short)1368092382, -1396611780, (char)-1948830164, 656077636) << "UOcl7y" << w5QV(1615348116, 164500758, 1913306783, B03j5U_mQ3, KM15_1o) << std::endl;
 }
 else
 {

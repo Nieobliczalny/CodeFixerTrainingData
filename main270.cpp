@@ -222,7 +222,7 @@ case 1:
 AMx6OAc6 = U8MHnqdK(AMx6OAc6, -2107474365, (short)208067991, u3mxf4H, 1758845021);
 break;
 case 2:
-CtyeCcekxc = (rNgiMP == n_688) ? Yj0Fg4zU6 : U8MHnqdK((unsigned short)713258833, CtyeCcekxc, 162966530, -1392543705, GLld);
+CtyeCcekxc = (rNgiMP == n_688) ? Yj0Fg4zU6 : U8MHnqdK((unsigned short)713258833, CtyeCcekxc, (short)162966530, -1392543705, GLld);
 break;
 default:
 XktIn0 = V55iZf8bin & 1933539612;
@@ -284,7 +284,7 @@ case 2:
 VTUra = sQ2uJV0u4X();
 break;
 case 3:
-anMVH_o7K = BgEOPir(anMVH_o7K, -1666516296, f_3m_W, uB8mMKD, ztdUx);
+anMVH_o7K = BgEOPir(anMVH_o7K, (short)-1666516296, f_3m_W, uB8mMKD, ztdUx);
 break;
 case 4:
 sCDx = sQ2uJV0u4X();
@@ -296,7 +296,7 @@ case 6:
 hFfXwPQq76 = U8MHnqdK(hFfXwPQq76, f_3m_W, (short)1642915264, (short)-1850749703, -1404850032);
 break;
 case 7:
-qk8tOJUv0 = U8MHnqdK(qk8tOJUv0, fm9h, 886307336, -1269122035, ztdUx);
+qk8tOJUv0 = U8MHnqdK(qk8tOJUv0, fm9h, (short)886307336, -1269122035, ztdUx);
 break;
 case 8:
 OtMS = U8MHnqdK(OtMS, CtyeCcekxc, -717265202, yC__mVP, Ddzg);
@@ -323,7 +323,7 @@ case 'c':
 Q7jYZ = U8MHnqdK(Q7jYZ, S2Apys7, (short)319777405, (short)1935681790, -93243270);
 break;
 case 'd':
-mlnMwwd1NN = BgEOPir(VTUra, -522566891, OtMS, uB8mMKD, 665622273);
+mlnMwwd1NN = BgEOPir(VTUra, (short)-522566891, OtMS, uB8mMKD, 665622273);
 break;
 case 'e':
 V55iZf8bin ^= 1831567630;

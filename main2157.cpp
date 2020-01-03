@@ -151,7 +151,7 @@ case 1:
 CitaFhC_1 = (int)abs(O0Y0fD);
 break;
 case 2:
-vz1u2na_4 = WIr7r((unsigned short)1933219849, (unsigned short)1045343991, EChDv1eEr, -35795449, -1158454352);
+vz1u2na_4 = WIr7r((unsigned short)1933219849, (unsigned short)1045343991, EChDv1eEr, -35795449, (unsigned short)-1158454352);
 break;
 case 3:
 PzjitU08cX = o1rmD_ / FVk26G_KaM;
@@ -445,7 +445,7 @@ cout << "J9vuoU8D" << "c5iaRjcu" << WIr7r(ru2x7O2, (unsigned short)1092242453, (
 switch (GsN9Gj9K)
 {
 case 'a':
-uS4_ = w5Vg(-843528533, 483299191, Y6GR7I881);
+uS4_ = w5Vg((short)-843528533, 483299191, Y6GR7I881);
 break;
 case 'b':
 HJxM = DM_8GHAhQi(HJxM);
@@ -466,7 +466,7 @@ case 'g':
 LggpS5Eyy = DM_8GHAhQi(LggpS5Eyy);
 break;
 case 'h':
-O0Y0fD = WIr7r(O0Y0fD, (unsigned short)-847615985, -133088067, -2076871246, 1638164299);
+O0Y0fD = WIr7r(O0Y0fD, (unsigned short)-847615985, (unsigned short)-133088067, -2076871246, 1638164299);
 break;
 default:
 k6TGaaiU3 = WIr7r((unsigned short)1913773951, CitaFhC_1, VB92P, YMjqprh, 1395481618);
@@ -510,7 +510,7 @@ try
 {
 if (fGMe)
 {
-LBIKy = WIr7r(LBIKy, Y6GR7I881, (unsigned short)1851967204, E0hMl_C, -1128543399);
+LBIKy = WIr7r(LBIKy, Y6GR7I881, (unsigned short)1851967204, E0hMl_C, (unsigned short)-1128543399);
 }
 else if (uS4_ > 1132036188)
 {
@@ -642,7 +642,7 @@ if (o1rmD_ == -1146646225)
 {
 vz1u2na_4 = (int)floor(O0Y0fD);
 }
-cout << E0hMl_C << OV7O08J55((char)-410726702, -1109236253) << WIr7r((unsigned short)1993181944, 2022423379, GsN9Gj9K, 1722759922, tes43_QJDI) << DM_8GHAhQi(1499633911) << endl;
+cout << E0hMl_C << OV7O08J55((char)-410726702, -1109236253) << WIr7r((unsigned short)1993181944, (unsigned short)2022423379, GsN9Gj9K, 1722759922, tes43_QJDI) << DM_8GHAhQi(1499633911) << endl;
 
 return 0;
 }

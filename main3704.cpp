@@ -29,7 +29,7 @@ int main(void) {
     unsigned short int    W_NYZ1;
     W_NYZ1    =    (unsigned short)1351639443;
 	unsigned short	xv9B;
-	xv9B	=	-376530984;
+	xv9B	=	(unsigned short)-376530984;
  unsigned int fDfTs;
  fDfTs = -2023086987;
     unsigned char    NA9US4;
@@ -41,7 +41,7 @@ int main(void) {
 	int	Ts9EF8Y;
 	Ts9EF8Y	=	-169536059;
     short int    Gec3ihD7vd;
-    Gec3ihD7vd    =    -713968096;
+    Gec3ihD7vd    =    (short)-713968096;
 	int	iTj89;
 	iTj89	=	-1839732107;
 	unsigned short int	xNr_4Nmq9Z;

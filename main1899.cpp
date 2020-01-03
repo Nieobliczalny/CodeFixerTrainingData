@@ -123,7 +123,7 @@ int main(int argc, char** argv)
 zNyYKj8 /= XgU7nh;
 
 OkBw = (int)ceil(N1571);
-std::cout << "evSH" << NY_W9T(311461887, Cagz_mA2dR, o6s9MH) << "y2B4O6vNQ" << OJc0kyL((short)-1512022326, (unsigned short)1771560995, -2034009045, fjc0b, 1658647835) << std::endl;
+std::cout << "evSH" << NY_W9T(311461887, Cagz_mA2dR, o6s9MH) << "y2B4O6vNQ" << OJc0kyL((short)-1512022326, (unsigned short)1771560995, (char)-2034009045, fjc0b, 1658647835) << std::endl;
 switch (WNrm)
 {
 case 0:
@@ -164,7 +164,7 @@ case 2:
 N_5NDpA6_Q /= 314111053;
 break;
 case 3:
-RHvgC = GoU9b2d3V((unsigned short)302930518, HX64w25Tp, (short)597099360, -1133684554);
+RHvgC = GoU9b2d3V((unsigned short)302930518, HX64w25Tp, (short)597099360, (unsigned char)-1133684554);
 break;
 case 4:
 g2ViAHgE = (int)abs(L3Fjjg);
@@ -396,7 +396,7 @@ DHlF4ddox = GoU9b2d3V((unsigned short)-1898259973, iG28cK3k, (short)672503184, N
 }
 else if (M828rI3 != 1293204817)
 {
-XgU7nh = OJc0kyL(XgU7nh, oc7d, L3Fjjg, rx59, 675817293);
+XgU7nh = OJc0kyL(XgU7nh, oc7d, L3Fjjg, rx59, (char)675817293);
 }
 else if (N_5NDpA6_Q <= WNrm)
 {

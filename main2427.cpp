@@ -48,7 +48,7 @@ int main(void)
     unsigned short int    ywBx2DipAW;
     ywBx2DipAW    =    (unsigned short)60996360;
   unsigned char  sVC0;
-  sVC0  =  1772245826;
+  sVC0  =  (unsigned char)1772245826;
   double  T8aP;
   T8aP  =  -602121541;
 	float	r1EB_5NZ;
@@ -76,7 +76,7 @@ int main(void)
 	unsigned short	w1315e;
 	w1315e	=	(unsigned short)-345144946;
 	short int	kyFJY6hJz;
-	kyFJY6hJz	=	-791152513;
+	kyFJY6hJz	=	(short)-791152513;
 	long long	dxfN9_2;
 	dxfN9_2	=	760335706;
 	double	QB28;
@@ -339,7 +339,7 @@ yC384 = Jxt1(-1582274473, Qybx_5H, (char)1416648268, bA_12bz5);
 break;
 case 'b':
 case 'B':
-KD15O = Jxt1(KD15O, (short)-1541460490, 1881683107, yC384);
+KD15O = Jxt1(KD15O, (short)-1541460490, (char)1881683107, yC384);
 break;
 case 'c':
 case 'C':
@@ -465,7 +465,7 @@ e6j5RNH = mYSy937Yno();
 }
 else if (d7zTPNyXNI >= -262802732)
 {
-ou4Y = Jxt1(ou4Y, (short)875233088, 477399264, 103085594);
+ou4Y = Jxt1(ou4Y, (short)875233088, (char)477399264, 103085594);
 }
 else
 {

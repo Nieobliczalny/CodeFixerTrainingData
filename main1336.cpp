@@ -67,7 +67,7 @@ case 4:
 hpCG = e2W_Qorzy((unsigned short)46923221, 1005554128);
 break;
 case 5:
-w5Lu_9EZQ = e2W_Qorzy(965911556, -1310707389);
+w5Lu_9EZQ = e2W_Qorzy((unsigned short)965911556, -1310707389);
 break;
 }
 }

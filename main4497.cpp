@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
   int  EcqY8  =  0,  bPfsF  =  0,  f7Ki222va  =  0,  DQq5  =  0,  cT2u6q  =  0;
 
 S8a9nlIA = (char)(s0ix662Q3y);
-std::cout << b4ho41H((char)-122162095) << b4ho41H(lo4V1O) << b4ho41H(-2131129604) << "DIqR" << std::endl;
+std::cout << b4ho41H((char)-122162095) << b4ho41H(lo4V1O) << b4ho41H((char)-2131129604) << "DIqR" << std::endl;
 tUh7WDoY4 = 445834052 / bPfsF;
 bPfsF = (int)abs(lo4V1O) * 0;
 

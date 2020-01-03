@@ -33,7 +33,7 @@ int main()
     float    RgVcak0;
     RgVcak0    =    314162558;
     unsigned short    nOXJX0q;
-    nOXJX0q    =    376883029;
+    nOXJX0q    =    (unsigned short)376883029;
 	long long	a3g5;
 	a3g5	=	-1155906433;
   unsigned char  b7xzw9;
@@ -43,7 +43,7 @@ int main()
   unsigned short int  wrf9V61V6V;
   wrf9V61V6V  =  (unsigned short)-1218043023;
   short int  e__8k_;
-  e__8k_  =  -405332342;
+  e__8k_  =  (short)-405332342;
  unsigned short WJDib;
  WJDib = 748657181;
 	unsigned int	sZ5sk4rh33;
@@ -55,7 +55,7 @@ int main()
 	unsigned short	zc7dWuL;
 	zc7dWuL	=	(unsigned short)-2129840381;
   unsigned short  yF4a;
-  yF4a  =  -1165824883;
+  yF4a  =  (unsigned short)-1165824883;
     long long    jY3cWV2l;
     jY3cWV2l    =    -1961619672;
   unsigned int  Rl2b;

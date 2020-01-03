@@ -19,7 +19,7 @@ int main(void) {
  float XbiH9XB = 2090150067;
  unsigned short int Is0_U = (unsigned short)-1656556292;
   long long  N8Ie  =  353197327;
- unsigned char Yg_67Y = -1612110518;
+ unsigned char Yg_67Y = (unsigned char)-1612110518;
 	unsigned char	Ukw_94Gk	=	-638790720;
     int    uFJFx    =    -514598111;
 	unsigned short	S9Ys2	=	(unsigned short)1682215050;

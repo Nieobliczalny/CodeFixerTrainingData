@@ -167,7 +167,7 @@ case 5:
 f6RBzlD = e_BP89(f6RBzlD, (short)-1249980283);
 break;
 case 6:
-ILz3N7777 = e_BP89(610458225, Mrh2Qhc8);
+ILz3N7777 = e_BP89((unsigned char)610458225, Mrh2Qhc8);
 break;
 case 7:
 f6RBzlD = f6RBzlD ^ 1120073157;
@@ -226,7 +226,7 @@ int i = 10;
 do
 {
 --i;
-cout << da_F_wy(1106796910, 371044179, (short)1831522695, 30035805) << HIfem4i(EtQIz5ye4A, 739889748, HAA14, 1203158886, f6RBzlD) << "EPv6pDI7P" << EtQIz5ye4A << endl;
+cout << da_F_wy(1106796910, 371044179, (short)1831522695, 30035805) << HIfem4i(EtQIz5ye4A, 739889748, HAA14, (unsigned short)1203158886, f6RBzlD) << "EPv6pDI7P" << EtQIz5ye4A << endl;
 }
 while (i >= 0);
 }
@@ -245,7 +245,7 @@ else
 Mrh2Qhc8 = (int)(UzNVW0 * Mrh2Qhc8);
 }
 }
-EtQIz5ye4A = HIfem4i(-1837267234, DE9xl6KqJ, iVJu, HAA14, ILz3N7777);
+EtQIz5ye4A = HIfem4i((short)-1837267234, DE9xl6KqJ, iVJu, HAA14, ILz3N7777);
 ILz3N7777 = Mrh2Qhc8 / HAA14;
 
 if (ILz3N7777 & -2116403255)

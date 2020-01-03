@@ -30,7 +30,7 @@ int main(int argc, char** argv)
     long double    r8eg5P9_yI;
     r8eg5P9_yI    =    -1582100988;
   char  WUrT2;
-  WUrT2  =  2109257680;
+  WUrT2  =  (char)2109257680;
 	unsigned long long	d3_3z;
 	d3_3z	=	1056054284;
  short vLZC8aI3p;
@@ -42,7 +42,7 @@ int main(int argc, char** argv)
     short    Q2muitI;
     Q2muitI    =    (short)785168728;
   short  bfIo;
-  bfIo  =  -746237142;
+  bfIo  =  (short)-746237142;
  unsigned char FV647YWgv;
  FV647YWgv = (unsigned char)1785136449;
     double    WA5b40B;
@@ -66,7 +66,7 @@ int main(int argc, char** argv)
 	short	QHgoFxFh;
 	QHgoFxFh	=	(short)-1494952698;
   short int  qvs40f;
-  qvs40f  =  -1108155683;
+  qvs40f  =  (short)-1108155683;
     short    haOyFcDm3;
     haOyFcDm3    =    0;
   unsigned char  b9Bg8112;
@@ -96,7 +96,7 @@ int main(int argc, char** argv)
   unsigned long long  y9Z_Ymzv4t;
   y9Z_Ymzv4t  =  374369208;
 	unsigned short	yY0b5b7aI;
-	yY0b5b7aI	=	-499071215;
+	yY0b5b7aI	=	(unsigned short)-499071215;
  unsigned char fcVd;
  fcVd = -1755980014;
 	float	ORMn_F5Q;

@@ -16,7 +16,7 @@ int main(int argc, char** argv)
   unsigned short int  o0Ipg1h9,  aflos3,  n9e7,  JubVcf,  Z3hwg9X,  k6X3NLzz,  kNs_,  Y90Z67xS,  GGhL5C10Qg,  iWj0s8u,  lPOihRVEYp,  N3Okx,  lrVQ4S2Fms,  E__bJ70nnx,  N37P,  bL_CkT_G2,  oClE,  LiDflrSe1C,  N2F5RyL6Kp,  i_lI6MI,  Ebeb1a9,  r_3E58,  omj8a3RxV,  XHe_xW8,  w911lk_QK_,  q7IUT;
   o0Ipg1h9  =  (unsigned short)-379623231;
   aflos3  =  (unsigned short)1298379803;
-  n9e7  =  1064195654;
+  n9e7  =  (unsigned short)1064195654;
   JubVcf  =  435722100;
   Z3hwg9X  =  339239576;
   k6X3NLzz  =  337141347;
@@ -26,7 +26,7 @@ int main(int argc, char** argv)
   iWj0s8u  =  168842496;
   lPOihRVEYp  =  (unsigned short)1452443073;
   N3Okx  =  (unsigned short)-93945260;
-  lrVQ4S2Fms  =  1363643668;
+  lrVQ4S2Fms  =  (unsigned short)1363643668;
   E__bJ70nnx  =  62912881;
   N37P  =  -860406136;
   bL_CkT_G2  =  414532296;
@@ -36,7 +36,7 @@ int main(int argc, char** argv)
   i_lI6MI  =  731023627;
   Ebeb1a9  =  (unsigned short)609934744;
   r_3E58  =  (unsigned short)-1162122539;
-  omj8a3RxV  =  655286835;
+  omj8a3RxV  =  (unsigned short)655286835;
   XHe_xW8  =  -1265199212;
   w911lk_QK_  =  481302550;
   q7IUT  =  -1561693758;
@@ -166,7 +166,7 @@ if ((r_3E58 > -1860301839) || (JubVcf <= 355500360))
 switch (iWj0s8u)
 {
 case 0:
-aflos3 = XjIk(aflos3, 1433348773, 410615067, -1122418023);
+aflos3 = XjIk(aflos3, (unsigned char)1433348773, 410615067, -1122418023);
 break;
 }
 }

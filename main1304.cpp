@@ -39,7 +39,7 @@ int main(int argc, char** argv)
   short  Mzus  =  (short)-1411390088;
     unsigned short int    gSn3    =    (unsigned short)2035327620;
   unsigned int  Q7OioxBbj  =  0;
-  unsigned char  Ex_KW9kQ  =  -1543399977;
+  unsigned char  Ex_KW9kQ  =  (unsigned char)-1543399977;
 	unsigned short	Iq1SB61	=	650351632;
 	double	s286TTg	=	1920409009;
 	short	y11wQ	=	-1873992564;
@@ -62,7 +62,7 @@ Sa52 = (int)(Ex_KW9kQ);
 A035T = G34c3I % 1550032361;
 if ((G34c3I < 678826127) && (FN81g1gb1s != -1067950594))
 {
-cout << ApWTyq(Z4_kT6u7c, -1768006657, (short)722671386) << RR8l0((short)2053579656, -918125780, 198560087, -697473617, -2009922039) << "Bft8RT" << endl;
+cout << ApWTyq(Z4_kT6u7c, -1768006657, (short)722671386) << RR8l0((short)2053579656, (char)-918125780, 198560087, -697473617, -2009922039) << "Bft8RT" << endl;
 }
 else if (Mzus <= Ex_KW9kQ)
 {
@@ -123,7 +123,7 @@ AIx4C = ApWTyq(M7tce2, Iq1SB61, (short)-1266156597) & 2096360757;
 break;
 case 'e':
 case 'E':
-x7cA4n6 = RR8l0((short)-1043885067, 85598437, AIx4C, 1469560524, ZjwM);
+x7cA4n6 = RR8l0((short)-1043885067, (char)85598437, AIx4C, 1469560524, ZjwM);
 break;
 case 'f':
 case 'F':
@@ -157,7 +157,7 @@ if (((Mzus != Iq1SB61) || (FN81g1gb1s >= gSn3)) || (T2N2 <= -1134676860))
 switch (M7tce2)
 {
 case 'a':
-FN81g1gb1s = (s286TTg != 232044302) ? YdV2afqI7(Mzus, (short)-1185534143, AIx4C) : YdV2afqI7(-2063643905, (short)-1061004891, 819923058);
+FN81g1gb1s = (s286TTg != 232044302) ? YdV2afqI7(Mzus, (short)-1185534143, AIx4C) : YdV2afqI7(-2063643905, (short)-1061004891, (unsigned char)819923058);
 break;
 }
 }
@@ -333,7 +333,7 @@ gSn3 = RR8l0(gSn3, 122509621, Mzus, s286TTg, RzY0TY);
 }
 }
 
-Ex_KW9kQ = YdV2afqI7(Ex_KW9kQ, -776854891, Q7OioxBbj);
+Ex_KW9kQ = YdV2afqI7(Ex_KW9kQ, (short)-776854891, Q7OioxBbj);
 A035T = ApWTyq(1096536, gPdZ_Vu, ZjwM);
 
 Mzus = ApWTyq(93831939, -746517828, gPdZ_Vu);
@@ -347,7 +347,7 @@ case 'b':
 k3AU ^= 610612351;
 break;
 case 'c':
-Ex_KW9kQ = ApWTyq(Ex_KW9kQ, 1579504050, 664077807);
+Ex_KW9kQ = ApWTyq(Ex_KW9kQ, 1579504050, (short)664077807);
 break;
 }
 x7cA4n6 = YdV2afqI7(1725609734, FN81g1gb1s, k3AU);

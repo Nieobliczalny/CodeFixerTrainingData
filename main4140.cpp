@@ -24,7 +24,7 @@ int main(int argc, char** argv)
 	short	o7hKXcFE	=	(short)1827964663;
   long  l526wLuZ  =  -529450393;
 	unsigned int	RxExJKt5N5	=	0;
- char k_53EY = 1945715423;
+ char k_53EY = (char)1945715423;
  float il8F = -1798603467;
     unsigned int    Z18f    =    832282786;
     long    diU1RhC4Z    =    1466826513;
@@ -36,7 +36,7 @@ int main(int argc, char** argv)
     unsigned int    R8mf4    =    919190939;
     int    mWq2sO    =    -1801948580;
 	short int	g48_QB	=	0;
-  unsigned short int  L3TJVkhNu  =  -663777179;
+  unsigned short int  L3TJVkhNu  =  (unsigned short)-663777179;
 	unsigned long long	E4hOdB0__x	=	-1443690313;
 	char	X023KEnE	=	(char)-1494098413;
 	long	uMBW2_88	=	-616850768;
@@ -53,7 +53,7 @@ int main(int argc, char** argv)
 	unsigned int	nSlClG	=	-1280130349;
 	unsigned short	QKOrprko2H	=	(unsigned short)1339972653;
     unsigned long    BZXCvkR7    =    1114381398;
- unsigned char xQB_c3sve9 = -301445352;
+ unsigned char xQB_c3sve9 = (unsigned char)-301445352;
 	char	Gz9l6n_115	=	(char)1356835942;
  unsigned long evs9n = -426141549;
 
@@ -372,7 +372,7 @@ do
 int j = 4;
 while (j >= 0)
 {
-cout << EteW4WbN(F8t_78p_5, (char)1981365580) << EteW4WbN(F8t_78p_5, (char)-1151604855) << EteW4WbN(1097034826, 2117982075) << "rp672_pg" << il8F << endl;
+cout << EteW4WbN(F8t_78p_5, (char)1981365580) << EteW4WbN(F8t_78p_5, (char)-1151604855) << EteW4WbN(1097034826, (char)2117982075) << "rp672_pg" << il8F << endl;
 j--;
 }
 }
@@ -458,7 +458,7 @@ break;
 }
 }
 cout << EteW4WbN(792973569, (char)1166387449) << evs9n << EteW4WbN(E4hOdB0__x, (char)-253229768) << endl;
-g48_QB = EteW4WbN(-1878739440, -824122377);
+g48_QB = EteW4WbN(-1878739440, (char)-824122377);
 
 {
 int i = 4;

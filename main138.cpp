@@ -21,7 +21,7 @@ int main(void)
 	unsigned short	bTge;
 	bTge	=	(unsigned short)769532536;
  short int rOhfb;
- rOhfb = -342531809;
+ rOhfb = (short)-342531809;
 	long double	OR_WKRbo;
 	OR_WKRbo	=	533725452;
  unsigned long long oHY_;
@@ -47,7 +47,7 @@ int main(void)
   short  HFKlL19;
   HFKlL19  =  (short)1989756957;
 	char	egNbhw;
-	egNbhw	=	1025699279;
+	egNbhw	=	(char)1025699279;
 	short int	Ks62YU5z;
 	Ks62YU5z	=	-1926081452;
  unsigned long pW1PTfgM;

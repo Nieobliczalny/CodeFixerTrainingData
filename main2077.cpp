@@ -59,7 +59,7 @@ int main(int argc, char** argv) {
  unsigned char QM266_h9;
  QM266_h9 = (unsigned char)139394730;
     char    QWS79D7B;
-    QWS79D7B    =    -235209063;
+    QWS79D7B    =    (char)-235209063;
     unsigned long    VKCr;
     VKCr    =    -145227561;
 	unsigned char	im7g82w;
@@ -125,7 +125,7 @@ int main(int argc, char** argv) {
  unsigned short pJ_x1Ovu8;
  pJ_x1Ovu8 = (unsigned short)1223458462;
     short    X_63C37G9;
-    X_63C37G9    =    -888146600;
+    X_63C37G9    =    (short)-888146600;
  short vYHc1v;
  vYHc1v = 967825423;
 	char	o3HT7CHLg;
@@ -155,7 +155,7 @@ int main(int argc, char** argv) {
  unsigned short HjifB3;
  HjifB3 = (unsigned short)-138570016;
  short int jlf4M5;
- jlf4M5 = 651792626;
+ jlf4M5 = (short)651792626;
  unsigned short JNoD_4hc1w;
  JNoD_4hc1w = -1104395093;
 	long	EKxF0_Ud;
@@ -173,7 +173,7 @@ int main(int argc, char** argv) {
     long long    a15uy1;
     a15uy1    =    -618473595;
   unsigned char  Y4jp33xd;
-  Y4jp33xd  =  462339205;
+  Y4jp33xd  =  (unsigned char)462339205;
  unsigned short int qZ32sBYN;
  qZ32sBYN = (unsigned short)502413978;
   int  GRX4s389o;
@@ -258,7 +258,7 @@ std::cout << "f4kF2" << u9GF7Q << "w4USs88" << std::endl;
 }
 if ((pJ_x1Ovu8 != JNoD_4hc1w) || (jlf4M5))
 {
-std::cout << MPda4Db9V((char)-20413865, 1967536118, (short)2103224951, v97LTs7hr, -447924181) << v6zV_Zqpte(G9FFk6, 1012206479, -1516153713) << std::endl;
+std::cout << MPda4Db9V((char)-20413865, 1967536118, (short)2103224951, v97LTs7hr, -447924181) << v6zV_Zqpte(G9FFk6, (unsigned short)1012206479, -1516153713) << std::endl;
 }
 
 if (GRX4s389o == 1848172220)
@@ -376,7 +376,7 @@ W2Sqr = (long double)(ugu_ + (O49216MwCN));
 for (int i = qu3k9r; i < 10; i++)
 {
 W2Sqr = MPda4Db9V(W2Sqr, -1681761566, (short)1515701312, R6P_X, -1558480541);
-	ASlO0 = MPda4Db9V(z2wV2, EKxF0_Ud, 1612671501, sxM084L, 1300313059) / i;
+	ASlO0 = MPda4Db9V(z2wV2, EKxF0_Ud, (short)1612671501, sxM084L, 1300313059) / i;
 std::cout << Lxu5(-765341682, o3HT7CHLg) << std::endl;
 }
 
@@ -413,7 +413,7 @@ E1xR1W = Lxu5(-2044578417, (unsigned short)1900480665);
 break;
 case 'b':
 case 'B':
-pJ_x1Ovu8 = (G3cx2YcQ <= O49216MwCN) ? (unsigned short)-344866564 : 1399468202;
+pJ_x1Ovu8 = (G3cx2YcQ <= O49216MwCN) ? (unsigned short)-344866564 : (unsigned short)1399468202;
 break;
 case 'c':
 case 'C':

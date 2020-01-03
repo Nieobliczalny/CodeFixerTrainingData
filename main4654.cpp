@@ -24,7 +24,7 @@ int main() {
     unsigned char    K68DvS,    lsy5n,    bJXz_276NM,    pTg7Nx,    xBop3OgH1,    bl3u_x,    e7a__KDv,    n9yH8t7Dc,    w3KWQ8lQje,    x5F_83D_u8,    kS3B0PBG83,    h5_b0u7;
     K68DvS    =    (unsigned char)-1149670574;
     lsy5n    =    (unsigned char)-1823622744;
-    bJXz_276NM    =    173270975;
+    bJXz_276NM    =    (unsigned char)173270975;
     pTg7Nx    =    349482996;
     xBop3OgH1    =    934208221;
     bl3u_x    =    -74285312;
@@ -74,7 +74,7 @@ case 4:
 x5F_83D_u8--;
 break;
 case 5:
-pTg7Nx = F__bV(-1389016247, 1180512958, 963175272, rOf4n6cAZW);
+pTg7Nx = F__bV((unsigned short)-1389016247, 1180512958, 963175272, rOf4n6cAZW);
 break;
 case 6:
 lsy5n %= n9yH8t7Dc;
@@ -125,7 +125,7 @@ case 'f':
 h5_b0u7 *= Bu3wXHU3_;
 break;
 case 'g':
-Bu3wXHU3_ = R88Ips9y6((unsigned short)-706622310, 271636766, Bu3wXHU3_, 2147416362, 593814594);
+Bu3wXHU3_ = R88Ips9y6((unsigned short)-706622310, 271636766, Bu3wXHU3_, (short)2147416362, 593814594);
 break;
 case 'h':
 n9yH8t7Dc = F__bV(2013460554, -2123178906, lsy5n, -1096649853);
@@ -235,7 +235,7 @@ rOf4n6cAZW = R88Ips9y6((unsigned short)242895292, e7a__KDv, -1862387700, (short)
 
 try
 {
-xBop3OgH1 = F__bV(1356643030, -1077519605, 977630164, w3KWQ8lQje);
+xBop3OgH1 = F__bV((unsigned short)1356643030, -1077519605, 977630164, w3KWQ8lQje);
 }
 catch (int& errorCode)
 {
@@ -265,7 +265,7 @@ case 'f':
 rOf4n6cAZW = R88Ips9y6((unsigned short)1063137252, 1706300089, rOf4n6cAZW, (short)136742557, 1751377589);
 break;
 case 'g':
-w3KWQ8lQje = F__bV(-1347324638, -546878933, -842222247, pTg7Nx);
+w3KWQ8lQje = F__bV((unsigned short)-1347324638, -546878933, -842222247, pTg7Nx);
 break;
 case 'h':
 lsy5n = C0vQENx();
@@ -409,7 +409,7 @@ t5X35o = R88Ips9y6((unsigned short)1226226709, kS3B0PBG83, 62906387, (short)9742
 }
 else
 {
-cout << "oIS7PmC" << F__bV(xBop3OgH1, kS3B0PBG83, 1361768180, t5X35o) << R88Ips9y6(-2082528742, kS3B0PBG83, n9yH8t7Dc, t5X35o, h5_b0u7) << F__bV(1041606097, 205520865, 1107457335, -2086495591) << endl;
+cout << "oIS7PmC" << F__bV(xBop3OgH1, kS3B0PBG83, 1361768180, t5X35o) << R88Ips9y6((unsigned short)-2082528742, kS3B0PBG83, n9yH8t7Dc, t5X35o, h5_b0u7) << F__bV(1041606097, 205520865, 1107457335, -2086495591) << endl;
 }
 
 {

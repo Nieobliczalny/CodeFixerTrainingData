@@ -29,7 +29,7 @@ i++;
 }
 }
 
-std::cout << TChS0_9(E1145_4kcv, -365353726, igB_, -313917396, confyrc) << qqgc9l3(E1145_4kcv, -720785016, igB_) << "Uk5tM1K_dF" << std::endl;
+std::cout << TChS0_9(E1145_4kcv, (unsigned short)-365353726, igB_, -313917396, confyrc) << qqgc9l3(E1145_4kcv, -720785016, igB_) << "Uk5tM1K_dF" << std::endl;
 
 switch (b5v7)
 {
@@ -92,7 +92,7 @@ else
 {
 fQMU8604 = qqgc9l3(-1966586123, 401324116, JZRyvJN6);
 }
-std::cout << qqgc9l3(1916844787, 334672389, (unsigned short)1564851019) << "T8D_N_B5" << TChS0_9(fQMU8604, (unsigned short)-624225226, JZRyvJN6, -1574395075, x7oM) << std::endl;
+std::cout << qqgc9l3(1916844787, 334672389, (unsigned short)1564851019) << "T8D_N_B5" << TChS0_9(fQMU8604, (unsigned short)-624225226, JZRyvJN6, (unsigned short)-1574395075, x7oM) << std::endl;
 Jr9_a2u2n <<= 998533390;
 
 o6_iATJ4--;

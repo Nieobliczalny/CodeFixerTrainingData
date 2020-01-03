@@ -85,7 +85,7 @@ int main(int argc, char** argv)
     unsigned long long    l593Jx9n;
     l593Jx9n    =    -2103275719;
 	short int	IiCI42P6_U;
-	IiCI42P6_U	=	178182665;
+	IiCI42P6_U	=	(short)178182665;
     short    oWNRt;
     oWNRt    =    (short)-923746649;
 	float	hfGAKJm;
@@ -109,7 +109,7 @@ int main(int argc, char** argv)
  unsigned short int W48N9FwV;
  W48N9FwV = (unsigned short)1917667643;
     short int    F7IhpS;
-    F7IhpS    =    -385446905;
+    F7IhpS    =    (short)-385446905;
 	unsigned long	a1hrKi5;
 	a1hrKi5	=	672329716;
 	int	V7V9;
@@ -125,7 +125,7 @@ int main(int argc, char** argv)
  float yoO2c;
  yoO2c = 627812419;
   unsigned short  EsqeH89k9;
-  EsqeH89k9  =  478204680;
+  EsqeH89k9  =  (unsigned short)478204680;
  unsigned long pTE4_;
  pTE4_ = -444773005;
  unsigned long long N7Tf1H27G;
@@ -135,7 +135,7 @@ int main(int argc, char** argv)
  short int Z_r9333G;
  Z_r9333G = (short)-659402984;
  short ltoV;
- ltoV = -1520510263;
+ ltoV = (short)-1520510263;
     short    p6_HN;
     p6_HN    =    2139623243;
     unsigned int    l3vkY7;
@@ -149,7 +149,7 @@ int main(int argc, char** argv)
 	short	PYrV;
 	PYrV	=	(short)-38310583;
   unsigned short  ls8_Wn7;
-  ls8_Wn7  =  -1063110479;
+  ls8_Wn7  =  (unsigned short)-1063110479;
  short G_ndyM2;
  G_ndyM2 = 1476876261;
 	unsigned short	u4oE;
@@ -165,7 +165,7 @@ int main(int argc, char** argv)
     short int    q3c6;
     q3c6    =    (short)-1127384289;
     short    Jx63P01;
-    Jx63P01    =    -1313234353;
+    Jx63P01    =    (short)-1313234353;
  unsigned long U50GCSM4j;
  U50GCSM4j = -1031942070;
  unsigned long MQ_E779;
@@ -185,7 +185,7 @@ int main(int argc, char** argv)
 	unsigned short	ubtrx81;
 	ubtrx81	=	(unsigned short)1291561796;
 	unsigned short int	BJ86Czt65;
-	BJ86Czt65	=	-271054281;
+	BJ86Czt65	=	(unsigned short)-271054281;
  double kNrzm4Q;
  kNrzm4Q = 104102957;
     short int    m463op82v;
@@ -211,7 +211,7 @@ t05m99E = QFRUIICt5(211574890, l4oGl_uwCI, hfGAKJm, (unsigned char)1681514753, R
 }
 else if (I5WUmNMi6g == 1680419907)
 {
-Nzr_0Y_ = QFRUIICt5(Nzr_0Y_, (char)2014641058, 1146161511, 597210911, 296562275);
+Nzr_0Y_ = QFRUIICt5(Nzr_0Y_, (char)2014641058, 1146161511, (unsigned char)597210911, 296562275);
 }
 else if (((EYd0g & lh_OJC194) && (oEy4pP)) && ((EsqeH89k9) || (YQDi147wG > UUh85Qa3h)))
 {

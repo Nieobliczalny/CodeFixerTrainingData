@@ -26,7 +26,7 @@ int i = 10;
 do
 {
 --i;
-A8_Lfz = BIt3qeuI(uh7_a4_YaN, (unsigned short)1818486311, cPPr, 592644829, Iu2Vy0K);
+A8_Lfz = BIt3qeuI(uh7_a4_YaN, (unsigned short)1818486311, cPPr, (short)592644829, Iu2Vy0K);
 }
 while (i >= 0);
 }
@@ -62,7 +62,7 @@ case 3:
 A8_Lfz = BIt3qeuI(I59w_, isbtGW78t, EdBBQ505, Jpn2, xjyXh19);
 break;
 case 4:
-I59w_ = yr9mEReR_(I59w_, f9eeUd9Bym, (unsigned short)-583419242, -2132488793, Iu2Vy0K);
+I59w_ = yr9mEReR_(I59w_, f9eeUd9Bym, (unsigned short)-583419242, (short)-2132488793, Iu2Vy0K);
 break;
 case 5:
 Z5h_dd9p0l = BIt3qeuI(cPPr, Z5h_dd9p0l, -617356793, uh7_a4_YaN, UQSm_);
@@ -166,7 +166,7 @@ while (j >= 0);
 }
 xjyXh19 = (unsigned short int)(E6f_XH2h + (OAzMn23_));
 y9h5o = yr9mEReR_(315047107, 1054093603, (unsigned short)-1939130976, (short)2035181218, aHBAz);
-cout << Y_d9IHI << "dFE3mO" << Jj7z_5 << yr9mEReR_(y9h5o, E9tju, EdBBQ505, 1112666715, -2015199647) << endl;
+cout << Y_d9IHI << "dFE3mO" << Jj7z_5 << yr9mEReR_(y9h5o, E9tju, EdBBQ505, (short)1112666715, -2015199647) << endl;
 H_82BB3 = -1507258198 / Z5h_dd9p0l;
 for (int i = 0; i < 7; i++)
 {
@@ -183,7 +183,7 @@ while (j < 3);
 switch (N81W0px)
 {
 case 'a':
-Jj7z_5 = yr9mEReR_(568452365, -2077992779, (unsigned short)544170008, (short)-492156671, 76957693);
+Jj7z_5 = yr9mEReR_(568452365, -2077992779, (unsigned short)544170008, (short)-492156671, (unsigned short)76957693);
 break;
 case 'b':
 TU6tkpW = UQSm_ - 1388009731;

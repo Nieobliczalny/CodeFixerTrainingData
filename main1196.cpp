@@ -36,7 +36,7 @@ int main() {
     short    a947;
     a947    =    (short)1959156339;
 	short	KsHX65Wd;
-	KsHX65Wd	=	-964561159;
+	KsHX65Wd	=	(short)-964561159;
   unsigned long long  A6iB;
   A6iB  =  -1021136583;
 	long	E9316;

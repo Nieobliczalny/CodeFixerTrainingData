@@ -271,7 +271,7 @@ int j = 4;
 while (j >= 0)
 {
 --j;
-XBRO7 = rDvdh5oe51((short)-1746061050, (unsigned char)-1781601942, B31kQt, -1258387560, FT8OM);
+XBRO7 = rDvdh5oe51((short)-1746061050, (unsigned char)-1781601942, B31kQt, (short)-1258387560, FT8OM);
 }
 }
 }
@@ -305,7 +305,7 @@ Iq13O *= f0gf;
 int i = 2;
 while (i >= 0)
 {
-std::cout << rDvdh5oe51((short)-1460495801, Vu624, (unsigned short)2115917752, -902799536, FT8OM) << xF7mnq0 << vf69y3Jl << std::endl;
+std::cout << rDvdh5oe51((short)-1460495801, Vu624, (unsigned short)2115917752, (short)-902799536, FT8OM) << xF7mnq0 << vf69y3Jl << std::endl;
 --i;
 }
 }

@@ -17,7 +17,7 @@ int main()
     char    Vg1_6,    N7c4,    JOIlP4c,    kpaRv,    TNFMG,    s231sa8d9A,    XH18NR525f,    md_R17p,    Px72Rj_L9s,    yCrXHI5d0I,    JS5J88,    IbPT7,    DlcnACjP,    aCE8Z3,    E70W5O6nMn,    TWD07E5,    CkPbrO,    An7E6Rh,    zgY381,    cAAm03U,    JqBk9,    q5y6_HENse,    MSOq,    WQ28XJt,    j6DZiw,    fKR_G,    D0BJ,    P72gk_F0n9,    m_Xb,    U7SeFBQSJ,    Q50b13Q,    TkPM1P,    I_A_9_,    zI42C1D6,    pu7V7EnOa,    D_M1,    au_5E7U,    eNdR8,    QIzc5CVh,    wVaPD,    PcV9,    S9jALtP9_,    Du2M4Lq2Vv,    P94K_a,    MF9Yd6jnM0,    z0R8B6jE,    ANoa84j3PK,    D26b,    q7Tio3P,    Z9K3,    vTcf3E_X5,    hfWWiTIk4,    xL5HzLcY,    nG3Qo,    bHKOEk,    d05_48,    FA20t8JsM6,    U8hkotw_,    K65mf83,    dSPw4,    vwI2,    s64zd,    xXLBaZe,    Z3G85,    F46Rpwcet0,    b1NhC0K4I,    X102Ld,    H0rdz8cM7M,    D0dmOo,    gIh2XhUAV1,    stWFQ,    tb134,    K4GWR0YmjH,    z0860K,    qDG6YH_T9I,    KC4D,    CxDtY,    yVKiZg6rM,    iIQUyCbL4n,    cSow_,    i69015hE1N,    S06vShh,    hY2U,    aruj5Ctg1,    CEvNns,    aiPr3hK0,    TXIK,    fEs4U,    ujn0wNzz1q,    Z635p0OAD,    ZXI3,    cliA,    TDyT1q5M1,    C8ob87i39x,    YNn35737,    YTn6,    QKMbB_;
     Vg1_6    =    (char)1149267563;
     N7c4    =    (char)-308612625;
-    JOIlP4c    =    1060557109;
+    JOIlP4c    =    (char)1060557109;
     kpaRv    =    -1094392355;
     TNFMG    =    -713260001;
     s231sa8d9A    =    -1276802732;
@@ -27,7 +27,7 @@ int main()
     yCrXHI5d0I    =    -34847767;
     JS5J88    =    (char)-753958252;
     IbPT7    =    (char)-826424738;
-    DlcnACjP    =    -1301667148;
+    DlcnACjP    =    (char)-1301667148;
     aCE8Z3    =    980411396;
     E70W5O6nMn    =    80212659;
     TWD07E5    =    -1214246899;
@@ -37,7 +37,7 @@ int main()
     cAAm03U    =    -1322824826;
     JqBk9    =    (char)1030772797;
     q5y6_HENse    =    (char)707891863;
-    MSOq    =    1139749115;
+    MSOq    =    (char)1139749115;
     WQ28XJt    =    586342696;
     j6DZiw    =    747476914;
     fKR_G    =    1460080076;
@@ -47,7 +47,7 @@ int main()
     U7SeFBQSJ    =    266586417;
     Q50b13Q    =    (char)-149596321;
     TkPM1P    =    (char)1237922678;
-    I_A_9_    =    -1357678425;
+    I_A_9_    =    (char)-1357678425;
     zI42C1D6    =    299131718;
     pu7V7EnOa    =    -970785982;
     D_M1    =    -1044749367;
@@ -57,7 +57,7 @@ int main()
     wVaPD    =    1000570234;
     PcV9    =    (char)-1007872953;
     S9jALtP9_    =    (char)503699465;
-    Du2M4Lq2Vv    =    130191612;
+    Du2M4Lq2Vv    =    (char)130191612;
     P94K_a    =    1679104341;
     MF9Yd6jnM0    =    -755179915;
     z0R8B6jE    =    1672292659;
@@ -67,7 +67,7 @@ int main()
     Z9K3    =    1731842609;
     vTcf3E_X5    =    (char)1129328511;
     hfWWiTIk4    =    (char)1812203710;
-    xL5HzLcY    =    238110460;
+    xL5HzLcY    =    (char)238110460;
     nG3Qo    =    2133973941;
     bHKOEk    =    1082059444;
     d05_48    =    -308508515;
@@ -77,7 +77,7 @@ int main()
     dSPw4    =    659328466;
     vwI2    =    (char)-809996535;
     s64zd    =    (char)797474041;
-    xXLBaZe    =    948125917;
+    xXLBaZe    =    (char)948125917;
     Z3G85    =    455237296;
     F46Rpwcet0    =    -586576253;
     b1NhC0K4I    =    -2116495469;
@@ -87,7 +87,7 @@ int main()
     gIh2XhUAV1    =    1897895431;
     stWFQ    =    (char)-1200136893;
     tb134    =    (char)1315505442;
-    K4GWR0YmjH    =    1475506354;
+    K4GWR0YmjH    =    (char)1475506354;
     z0860K    =    459813380;
     qDG6YH_T9I    =    1108855787;
     KC4D    =    1645643611;
@@ -97,7 +97,7 @@ int main()
     cSow_    =    -1238112054;
     i69015hE1N    =    (char)-947347160;
     S06vShh    =    (char)619414644;
-    hY2U    =    -356737323;
+    hY2U    =    (char)-356737323;
     aruj5Ctg1    =    1382983002;
     CEvNns    =    -740368303;
     aiPr3hK0    =    1276448035;
@@ -107,7 +107,7 @@ int main()
     Z635p0OAD    =    1695117729;
     ZXI3    =    (char)160979961;
     cliA    =    (char)-1424234518;
-    TDyT1q5M1    =    -1560525404;
+    TDyT1q5M1    =    (char)-1560525404;
     C8ob87i39x    =    1217446807;
     YNn35737    =    67839323;
     YTn6    =    -729829447;

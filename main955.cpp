@@ -245,7 +245,7 @@ PZsv = vZ11_uOe(y2uT2, (char)1294639249);
 break;
 case 'c':
 case 'C':
-b8cYK = vZ11_uOe((unsigned char)-1681313687, -1952008892);
+b8cYK = vZ11_uOe((unsigned char)-1681313687, (char)-1952008892);
 break;
 case 'd':
 case 'D':

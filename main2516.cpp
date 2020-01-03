@@ -24,7 +24,7 @@ int main(int argc, char** argv)
  unsigned int NuLB = -1985743960;
 	char	fCti	=	(char)1315806958;
     char    o4qTeA    =    (char)2033263596;
-	unsigned short int	sxivOyeI	=	879889012;
+	unsigned short int	sxivOyeI	=	(unsigned short)879889012;
     unsigned int    ORyhtKo246    =    1718512779;
  unsigned short int c5lM4B = 1342848520;
  unsigned short int a6Saaq5qo = -1084436162;
@@ -37,7 +37,7 @@ int main(int argc, char** argv)
     long double    RFp_2ex    =    195431726;
     double    TqH9pb0    =    -1473308287;
  char bN8cN0R7 = (char)-1370471122;
-    unsigned short int    l9P576C_6    =    1742690108;
+    unsigned short int    l9P576C_6    =    (unsigned short)1742690108;
     unsigned short int    Y95_m631    =    -206422036;
 	long double	E604S1Lh	=	-334080579;
   long long  UqQK  =  0;
@@ -520,7 +520,7 @@ case 3:
 ygMOq6N6 = whU52yx((short)-970259719);
 break;
 case 4:
-DO8Nplk = savv76AL(DO8Nplk, -287914306);
+DO8Nplk = savv76AL(DO8Nplk, (unsigned char)-287914306);
 break;
 case 5:
 VXCP9O0Tw = (int)abs(fCti);

@@ -42,7 +42,7 @@ int main(int argc, char** argv)
 	char	bm1pv_c1e	=	0;
 	long long	zZT7	=	550498328;
  unsigned char gh84920CO = (unsigned char)396383477;
-    short    FotoDPa    =    -76721262;
+    short    FotoDPa    =    (short)-76721262;
  long c6b47S_xM1 = 0;
  long double pvMWt0 = 692310659;
   int  NsJilPG8sN  =  0;

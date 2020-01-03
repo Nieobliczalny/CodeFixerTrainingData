@@ -23,7 +23,7 @@ int main(void)
 
 try
 {
-cout << "F37TjF5iDM" << "P78_12_" << e08__Dz(r3wiz33, (unsigned char)-1576118291, sN6bmT1, (short)-847676559) << fhyv89_A(r3wiz33, LcYWSp8_F, -1010072884, -1614512165, -2086705287) << KBIyBmtMz(r3wiz33, LcYWSp8_F) << endl;
+cout << "F37TjF5iDM" << "P78_12_" << e08__Dz(r3wiz33, (unsigned char)-1576118291, sN6bmT1, (short)-847676559) << fhyv89_A(r3wiz33, LcYWSp8_F, -1010072884, (short)-1614512165, -2086705287) << KBIyBmtMz(r3wiz33, LcYWSp8_F) << endl;
 }
 catch (int& errorCode)
 {
@@ -95,7 +95,7 @@ case 1:
 g763vY54 = KBIyBmtMz((unsigned char)-1231850776, CU_0YG9N5);
 break;
 case 2:
-z1nSPVfso = fhyv89_A(nIRn, (short)-1454258851, -1968023653, 2002045495, -2064604230);
+z1nSPVfso = fhyv89_A(nIRn, (short)-1454258851, -1968023653, (short)2002045495, -2064604230);
 break;
 case 3:
 KQViP = (int)ceil(xontg0mE);
@@ -155,7 +155,7 @@ Dq74mUqcd = e08__Dz(Dq74mUqcd, (unsigned char)1519855140, (unsigned char)8958894
 }
 else if (obVK3Md)
 {
-sN6bmT1 = KBIyBmtMz(1885645683, xontg0mE);
+sN6bmT1 = KBIyBmtMz((unsigned char)1885645683, xontg0mE);
 }
 else
 {

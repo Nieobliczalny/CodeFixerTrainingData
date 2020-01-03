@@ -63,7 +63,7 @@ case 1:
 eLNjXn = UzNB(TNNyI, qNlEtz, (char)-1130335910, (unsigned short)-566436124, -1492381406);
 break;
 case 2:
-eLNjXn = UzNB(eLNjXn, ACeT, -1967888977, -366550227, TNNyI);
+eLNjXn = UzNB(eLNjXn, ACeT, (char)-1967888977, -366550227, TNNyI);
 break;
 case 3:
 eLNjXn = QsQ6 | 1763514181;
@@ -165,7 +165,7 @@ break;
 eLNjXn = uxVK7JrI(eLNjXn, QsQ6, -31199422, TNNyI, VO15UEvy) % 1262441475;
 if ((QsQ6 >= VO15UEvy) || (QsQ6 != ACeT))
 {
-eLNjXn = UzNB(-305981197, -205273383, VO15UEvy, ACeT, 1594548167);
+eLNjXn = UzNB((short)-305981197, -205273383, VO15UEvy, ACeT, 1594548167);
 }
 else if (qNlEtz < -562677038)
 {

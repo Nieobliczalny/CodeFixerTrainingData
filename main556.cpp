@@ -80,7 +80,7 @@ DXLz3 = i85K14zM(Fx62b, (short)-970641120) & dANI;
 break;
 case 'i':
 case 'I':
-PVuW1 = TJ9dYg6j(PVuW1, 714376050, 68450949, L8a8iIW0);
+PVuW1 = TJ9dYg6j(PVuW1, 714376050, (char)68450949, L8a8iIW0);
 break;
 case 'j':
 case 'J':

@@ -27,7 +27,7 @@ int main(void) {
 	unsigned short	NvIfo3WA;
 	NvIfo3WA	=	(unsigned short)-393831974;
  short myStCjokR;
- myStCjokR = 1203927652;
+ myStCjokR = (short)1203927652;
   short  agOBHrMrE;
   agOBHrMrE  =  (short)992713938;
     int    kzL9;
@@ -41,7 +41,7 @@ int main(void) {
 	short	Xzdh3lz;
 	Xzdh3lz	=	(short)2010406958;
  unsigned char LDb8tIM;
- LDb8tIM = 964710264;
+ LDb8tIM = (unsigned char)964710264;
 	short	e7x2;
 	e7x2	=	-1793326132;
  char Py5J1616;
@@ -81,7 +81,7 @@ int main(void) {
   double  KnJSFlJc;
   KnJSFlJc  =  -416955649;
     unsigned char    UcNi1;
-    UcNi1    =    2121053073;
+    UcNi1    =    (unsigned char)2121053073;
 	short	H3nU13i;
 	H3nU13i	=	(short)460676240;
 	unsigned char	Zdymh5;
@@ -109,7 +109,7 @@ int main(void) {
   int  jky_9o;
   jky_9o  =  -598464898;
     char    M6r8;
-    M6r8    =    -1054223074;
+    M6r8    =    (char)-1054223074;
     unsigned long long    Z63HT;
     Z63HT    =    0;
  unsigned char buC6uL__3q;

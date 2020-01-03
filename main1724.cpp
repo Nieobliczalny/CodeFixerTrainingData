@@ -43,7 +43,7 @@ int main()
   unsigned char  x6771G0;
   x6771G0  =  (unsigned char)1305675305;
     short int    H_mNod;
-    H_mNod    =    -1681923765;
+    H_mNod    =    (short)-1681923765;
     long long    T0j__;
     T0j__    =    1797960745;
   unsigned int  Jfu8z;

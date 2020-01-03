@@ -141,7 +141,7 @@ VZtC79V7 = (unsigned int)(w4wh4AyYT);
 }
 else if (aQhCbk)
 {
-cout << bv97_Q4((unsigned short)1965657361, ziJnOA5F1p) << bv97_Q4((unsigned short)535506849, -1294918891) << BnSY_ << endl;
+cout << bv97_Q4((unsigned short)1965657361, ziJnOA5F1p) << bv97_Q4((unsigned short)535506849, (char)-1294918891) << BnSY_ << endl;
 }
 else if (VGI56y8 != 1228204404)
 {

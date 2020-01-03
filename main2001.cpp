@@ -43,7 +43,7 @@ mq2su8R = W271e24Sbd * 1621306232;
 }
 else
 {
-NDG8W4 = (ARfJjoI9l > PzMl) ? (unsigned short)1081591497 : CO_zu1eP((unsigned short)1312088600, -998797215);
+NDG8W4 = (ARfJjoI9l > PzMl) ? (unsigned short)1081591497 : CO_zu1eP((unsigned short)1312088600, (char)-998797215);
 }
 }
 catch (int& errorCode)

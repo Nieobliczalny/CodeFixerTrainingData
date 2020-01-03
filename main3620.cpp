@@ -21,7 +21,7 @@ int main(int argc, char** argv)
   unsigned long  mJc7aFpi  =  -723166907;
 	double	v2nBLn	=	621897818;
   short int  W2_k91  =  (short)-416065174;
- short K835y = 1316191645;
+ short K835y = (short)1316191645;
 	unsigned int	vy16Hi	=	-1631164037;
 	unsigned short	ni10QET4z	=	0;
  unsigned int sZGaX1721Z = 1570977684;
@@ -37,7 +37,7 @@ int main(int argc, char** argv)
 	unsigned short	w7J9K	=	0;
     unsigned long long    VwNii2o    =    -266263356;
     short    MI7_62p    =    (short)-1462264556;
-    short int    vrcC_P    =    -859113802;
+    short int    vrcC_P    =    (short)-859113802;
 
 if (HN8KH3nB == 1314879793)
 {

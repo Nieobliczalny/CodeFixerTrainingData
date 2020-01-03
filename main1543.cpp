@@ -190,7 +190,7 @@ Cv_97vA463 = (int)abs(e353);
 
 std::cout << "x08_A_2" << mTWDl5sJth(308361044, -1476202775, (unsigned char)1939834063) << KiXC9g(wc3_63, iPM_, Zz5R, DXxE, (short)-798308139) << blSs1O << std::endl;
 Suv7fD = (long double)(Nt2b);
-std::cout << "Jd5j13293" << j3H3N95(1375288304) << "j93R" << std::endl;
+std::cout << "Jd5j13293" << j3H3N95((unsigned short)1375288304) << "j93R" << std::endl;
 {
 int i = 4;
 do

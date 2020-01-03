@@ -190,7 +190,7 @@ E6Z3iTEh = bdD0NQQ67(274092968, (unsigned char)2118334516, (short)-22008212, qNx
 break;
 }
 
-H1ia = bdD0NQQ67(1520606027, -1918258255, qNx716, 646504919, D9CdbfYW);
+H1ia = bdD0NQQ67(1520606027, (unsigned char)-1918258255, qNx716, 646504919, D9CdbfYW);
 
 P85KW00C79 = (long)(E6Z3iTEh);
 cout << "BpOxDI" << MdUpBJ << K9Jy() << "aG_E3" << endl;
@@ -429,7 +429,7 @@ case 2:
 Np0_Iiya_ = CjwbzJ2N0W % t88NG8;
 break;
 default:
-khK6K = bdD0NQQ67(970616986, Ni6djiK12u, (short)2081804765, -2119207948, F_eIGn);
+khK6K = bdD0NQQ67(970616986, Ni6djiK12u, (short)2081804765, (unsigned short)-2119207948, F_eIGn);
 break;
 }
 i++;
@@ -564,7 +564,7 @@ try
 {
 if (k8eNb < wB5vm_2q2)
 {
-d_h8S70 = (F_eIGn) ? bdD0NQQ67(1107375966, (unsigned char)2074638125, (short)439477937, -61937594, 455314466) : LEgN8;
+d_h8S70 = (F_eIGn) ? bdD0NQQ67(1107375966, (unsigned char)2074638125, (short)439477937, (unsigned short)-61937594, 455314466) : LEgN8;
 }
 }
 catch (int& errorCode)

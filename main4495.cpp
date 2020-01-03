@@ -26,7 +26,7 @@ int main() {
     unsigned short int    ZMhaQ2;
     ZMhaQ2    =    (unsigned short)-1402053583;
   unsigned short  q82Oi;
-  q82Oi  =  750620336;
+  q82Oi  =  (unsigned short)750620336;
  short int Xa_gb1F;
  Xa_gb1F = 1192638379;
     short int    oU44;

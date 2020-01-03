@@ -42,7 +42,7 @@ int main(void) {
   char  VhgGzA0r;
   VhgGzA0r  =  (char)340538959;
 	unsigned char	rqTTT;
-	rqTTT	=	670446738;
+	rqTTT	=	(unsigned char)670446738;
     long double    tRE4d06;
     tRE4d06    =    -984221883;
   unsigned long long  QUMhhOHUB2;
@@ -56,7 +56,7 @@ int main(void) {
 	unsigned long	k76UA_;
 	k76UA_	=	746344798;
 	unsigned char	G74VtgR;
-	G74VtgR	=	1072783066;
+	G74VtgR	=	(unsigned char)1072783066;
   float  YTwTCdxd;
   YTwTCdxd  =  -467624524;
     short    rZodV29f;
@@ -102,7 +102,7 @@ int main(void) {
 	unsigned short	r442__I_;
 	r442__I_	=	(unsigned short)1651425178;
   unsigned short  X24X6I;
-  X24X6I  =  1620284325;
+  X24X6I  =  (unsigned short)1620284325;
   int  Rrr_tKICLO;
   Rrr_tKICLO  =  1898240143;
     double    tmCVO5;
@@ -124,7 +124,7 @@ int main(void) {
 	short	IM_0;
 	IM_0	=	(short)-205524018;
  short int yW_xF;
- yW_xF = 1929483151;
+ yW_xF = (short)1929483151;
     short int    bxxdC8HkZ;
     bxxdC8HkZ    =    (short)-1672792773;
   short  p4d7;
@@ -144,7 +144,7 @@ int main(void) {
   char  yv4459;
   yv4459  =  (char)-1231111276;
     unsigned short int    Ka01;
-    Ka01    =    -18700026;
+    Ka01    =    (unsigned short)-18700026;
   float  fh1t6_;
   fh1t6_  =  -520631272;
   int  KZp5r_;
@@ -170,7 +170,7 @@ int main(void) {
 
 try
 {
-std::cout << UUXKz(r442__I_, -639016799, (short)-1806735322, 373772577) << Pj6DQDpj(r442__I_, rZodV29f, Q5U2G, 1042092089, E2Dht) << std::endl;
+std::cout << UUXKz(r442__I_, -639016799, (short)-1806735322, 373772577) << Pj6DQDpj(r442__I_, rZodV29f, Q5U2G, (unsigned short)1042092089, E2Dht) << std::endl;
 }
 catch (int& errorCode)
 {
@@ -250,7 +250,7 @@ while (i >= 0);
 E3ceM3N3cb = (int)floor(ngYSfNugeH);
 
 X24X6I = (unsigned short)(yW_xF);
-sccp82 = Zu1M5k9 / OtR27rYLAK(1929927600, -1785573807, -1930265409, I8jkX5, Q9e_70LfRz);
+sccp82 = Zu1M5k9 / OtR27rYLAK((short)1929927600, -1785573807, -1930265409, I8jkX5, Q9e_70LfRz);
 IM_0 = (int)abs(vXd5L5wS) + (-186513124);
 try
 {

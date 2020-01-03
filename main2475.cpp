@@ -48,7 +48,7 @@ int main() {
   short int  GfllvqUk  =  (short)60791379;
     unsigned long    y2oP026    =    -757904337;
   float  tuaEn  =  1835881750;
-    short int    L3e4Cz032X    =    -338562060;
+    short int    L3e4Cz032X    =    (short)-338562060;
  unsigned short int D26X9 = (unsigned short)-1302079854;
   unsigned long long  qf01R_  =  1499342490;
 	double	wR_3gz761	=	1937953700;
@@ -65,7 +65,7 @@ int main() {
   char  oxpAMht6BS  =  (char)-757609884;
     unsigned short int    nz2I    =    (unsigned short)-1635734869;
   long double  V1O7T1  =  691510649;
-    char    VGrc0_c1g    =    -826700133;
+    char    VGrc0_c1g    =    (char)-826700133;
   unsigned char  h8jRENCkN2  =  -1228968836;
  unsigned long long R9hCmlE = 1452197385;
 	unsigned short	IDrY9	=	-248080769;
@@ -81,7 +81,7 @@ int main() {
 	unsigned int	tWa5jaP441	=	-237023144;
  long vSvo9 = -1688291788;
  double U1IK_ = -984826707;
-  short  uO8MP2RUR  =  477680020;
+  short  uO8MP2RUR  =  (short)477680020;
     int    G7CL6_    =    -1005373635;
  unsigned short q75cf = -93607982;
   long long  hAowU6  =  -902605169;
@@ -95,7 +95,7 @@ int main() {
 	unsigned long long	X6gch	=	-1804010867;
   float  oS9j467X9  =  -935180336;
   int  PeYEQ3  =  -1507587011;
-  char  Lw8cg  =  -48374582;
+  char  Lw8cg  =  (char)-48374582;
     unsigned short int    pPJ1XSh    =    (unsigned short)1028741741;
     unsigned long    y2J4v7Oj    =    0;
   long long  JJfLL2a  =  -1644116970;
@@ -105,7 +105,7 @@ int main() {
     unsigned short    Zk397Lj    =    (unsigned short)1128199162;
 	unsigned long	jNSH7j_	=	-1644372002;
  unsigned char lcl5qEKF7 = -1063680086;
-  unsigned char  HQ_0iS8_  =  -481491430;
+  unsigned char  HQ_0iS8_  =  (unsigned char)-481491430;
   long double  KDVo  =  -1496484118;
     short    R22_B987    =    (short)-632307536;
   long double  qaS5qEdL_y  =  1203853997;
@@ -183,7 +183,7 @@ break;
 }
 else
 {
-xZ4_F = Yl9ynz6I((unsigned short)-1375931432, wR_3gz761, v9Eh7, -314723186, -1945468934) % FP_qZ68;
+xZ4_F = Yl9ynz6I((unsigned short)-1375931432, wR_3gz761, v9Eh7, (short)-314723186, -1945468934) % FP_qZ68;
 }
 }
 catch (int& errorCode)
@@ -346,7 +346,7 @@ case 2:
 nz2I = (oS9j467X9 >= Ur6UPeO_C) ? VGrc0_c1g : (unsigned short)-169617683;
 break;
 case 3:
-tuaEn = Yl9ynz6I((unsigned short)-330256912, PGJph, 823504529, 841263518, HH81FbB) & Gzl7es;
+tuaEn = Yl9ynz6I((unsigned short)-330256912, PGJph, 823504529, (short)841263518, HH81FbB) & Gzl7es;
 break;
 case 4:
 D26X9 >>= 1230151767;

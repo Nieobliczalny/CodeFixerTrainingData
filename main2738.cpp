@@ -25,7 +25,7 @@ int main()
  unsigned long long NiG61qjl;
  NiG61qjl = 1531893712;
     unsigned short    J7Rgm9e;
-    J7Rgm9e    =    -1660681908;
+    J7Rgm9e    =    (unsigned short)-1660681908;
  unsigned int I7mDEMHDU;
  I7mDEMHDU = -518835538;
 	short	br7xnwwmBH;
@@ -53,7 +53,7 @@ int main()
  unsigned short int sjHMn;
  sjHMn = (unsigned short)1480424688;
 	unsigned short	J1Z_v28ZT;
-	J1Z_v28ZT	=	-1463414889;
+	J1Z_v28ZT	=	(unsigned short)-1463414889;
     unsigned long    lnW714_KhC;
     lnW714_KhC    =    475925470;
     double    CZRJASISZn;

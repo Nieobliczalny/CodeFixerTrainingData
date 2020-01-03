@@ -85,7 +85,7 @@ int main(int argc, char** argv) {
     unsigned short    saubY35E1;
     saubY35E1    =    (unsigned short)-2019074043;
     unsigned char    j8mP;
-    j8mP    =    2047679449;
+    j8mP    =    (unsigned char)2047679449;
 	unsigned long long	P4C7aO4t;
 	P4C7aO4t	=	-292758730;
 	unsigned short int	eqUA;
@@ -97,7 +97,7 @@ int main(int argc, char** argv) {
  double H9m_C0;
  H9m_C0 = 182690684;
  unsigned char LaO241Gy;
- LaO241Gy = 1865579531;
+ LaO241Gy = (unsigned char)1865579531;
 	unsigned long long	fVrx;
 	fVrx	=	1269093965;
  unsigned long long rbKtVc;
@@ -107,7 +107,7 @@ int main(int argc, char** argv) {
  char L9949Ru;
  L9949Ru = (char)-1120175926;
   short  DC5ZBjDA;
-  DC5ZBjDA  =  -1133382882;
+  DC5ZBjDA  =  (short)-1133382882;
  unsigned long g66EX1N2_;
  g66EX1N2_ = -183849087;
   unsigned int  XllsWS_8i3;
@@ -165,7 +165,7 @@ int main(int argc, char** argv) {
  unsigned int LM5W5Bh;
  LM5W5Bh = -2041088567;
  char Tivn;
- Tivn = 1789839322;
+ Tivn = (char)1789839322;
 	long long	eXOkvm2;
 	eXOkvm2	=	381216960;
   int  G99fb4z;
@@ -201,7 +201,7 @@ int main(int argc, char** argv) {
     unsigned short int    i_L9aV;
     i_L9aV    =    (unsigned short)796535023;
   unsigned char  NU8F;
-  NU8F  =  326639619;
+  NU8F  =  (unsigned char)326639619;
 
 LM5W5Bh = (unsigned int)(Fe08);
 
@@ -255,7 +255,7 @@ if (z49tiE6d2)
 {
 if (ayIF_18j < H9r_4eL9)
 {
-saubY35E1 = Dfx5g5_m(saubY35E1, A_FPCVfL2W, (unsigned short)418796474, (short)-897901243, 1067407273);
+saubY35E1 = Dfx5g5_m(saubY35E1, A_FPCVfL2W, (unsigned short)418796474, (short)-897901243, (short)1067407273);
 }
 else
 {
@@ -299,7 +299,7 @@ else
 switch (Fe08)
 {
 case 0:
-LM5W5Bh = Dfx5g5_m(2054496773, -1964299748, (unsigned short)-1812957962, (short)-1851185498, 1415413063);
+LM5W5Bh = Dfx5g5_m(2054496773, -1964299748, (unsigned short)-1812957962, (short)-1851185498, (short)1415413063);
 break;
 case 1:
 wfCBQQ = P8jyQt6C(-507660491, -1569616527, -1922305651, ldRYqu7Ogj);
@@ -336,7 +336,7 @@ klg24V1F = S6eKi38Q | saubY35E1;
 }
 }
 
-j8mP = Dfx5g5_m(yFHrpw7R6, u1h0_, (unsigned short)1669908202, (short)-87367748, -816794182) / wfCBQQ;
+j8mP = Dfx5g5_m(yFHrpw7R6, u1h0_, (unsigned short)1669908202, (short)-87367748, (short)-816794182) / wfCBQQ;
 switch (uu59t29OQ)
 {
 case 'a':

@@ -20,7 +20,7 @@ int main(void)
 	unsigned long	Wl5cI	=	-1232923223;
   short int  R_9A7S8G  =  (short)953732147;
     long    xO9kP    =    -1712765780;
- unsigned short int uD57Ou29S = -1405445482;
+ unsigned short int uD57Ou29S = (unsigned short)-1405445482;
 	unsigned short	F0L43s3i7	=	-218328005;
 	short int	KVpv	=	2064964006;
   unsigned long  C9o1v  =  212517552;
@@ -32,7 +32,7 @@ int main(void)
  unsigned int v1_th4_ = -1070565238;
   unsigned char  Gc8qZk3o  =  (unsigned char)1031245085;
     double    hRTWEPt    =    -485981088;
-	char	TufMPaemEJ	=	-2073962631;
+	char	TufMPaemEJ	=	(char)-2073962631;
 	unsigned long long	qnKpV68	=	-1549675666;
   int  ZdbsY  =  1332302006;
 	short	J7Gp2	=	(short)-1788219084;
@@ -50,7 +50,7 @@ int main(void)
   unsigned long long  d2yz  =  1787603984;
   unsigned short int  oFHYj0e9a  =  (unsigned short)628404177;
 	long long	GpS73nE60	=	-1486922736;
-  unsigned char  aW1_OAOWsE  =  598201431;
+  unsigned char  aW1_OAOWsE  =  (unsigned char)598201431;
 	unsigned short	S5PCc1gN_	=	(unsigned short)-946858808;
     unsigned short int    Kyq97z_4q    =    2081500316;
 	long double	UY90	=	-770970487;
@@ -68,7 +68,7 @@ int main(void)
     unsigned long long    FkFW6_nrZg    =    0;
 	long	jPgC57AYf	=	123635978;
   unsigned long  I1juW7Idy  =  1098730720;
-    short    c_Y6b9aQHd    =    540306860;
+    short    c_Y6b9aQHd    =    (short)540306860;
   unsigned long long  c_u3La7ILq  =  -58228445;
     float    eiPD    =    296872171;
  double lI2h = -1818723565;
@@ -102,7 +102,7 @@ FkFW6_nrZg = S483c4L7((short)-1913687531, (short)220401749, jeR2O07b, -329148835
 }
 }
 
-FkFW6_nrZg = S483c4L7(cCwz, 1630073520, -1588144379, jeR2O07b);
+FkFW6_nrZg = S483c4L7(cCwz, (short)1630073520, -1588144379, jeR2O07b);
 
 S5PCc1gN_ |= LhgT3K;
 
@@ -223,7 +223,7 @@ B3GS = (int)ceil(e401gp_gDL);
 }
 else if (F0L43s3i7 & KVpv)
 {
-FkFW6_nrZg = S483c4L7((short)1160540955, -920928516, c_u3La7ILq, -1709135117);
+FkFW6_nrZg = S483c4L7((short)1160540955, (short)-920928516, c_u3La7ILq, -1709135117);
 }
 else if ((Oe7491 == -2124201040) && ((KUqdih) || (xWfK09x2 > -1065652002)))
 {
@@ -253,7 +253,7 @@ std::cout << "v2Zl" << S483c4L7(BH3R4_2Nc, R_9A7S8G, jPgC57AYf, -874103689) << s
 }
 for (int i = 0; i < 3; ++i)
 {
-FkFW6_nrZg = S483c4L7((short)-1162138761, 1658079934, -663619514, aW1_OAOWsE);
+FkFW6_nrZg = S483c4L7((short)-1162138761, (short)1658079934, -663619514, aW1_OAOWsE);
 }
 if (J7Gp2)
 {

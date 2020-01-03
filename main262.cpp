@@ -55,7 +55,7 @@ else if (eaN4m1kA != 1471041865)
 int k = 0;
 do
 {
-U6_658l = J76LsPFiPj(466525683, -626028800, -174561092, J_ZGbKy, eFc83g7);
+U6_658l = J76LsPFiPj(466525683, -626028800, (short)-174561092, J_ZGbKy, eFc83g7);
 ++k;
 }
 while (k < 6);
@@ -137,7 +137,7 @@ case 3:
 Xq__v = WpR6(Xq__v);
 break;
 default:
-VU1j2a9 = D2_gBz((short)1339098238, gwZs, (short)86428644, -632956352, CQMRq);
+VU1j2a9 = D2_gBz((short)1339098238, gwZs, (short)86428644, (unsigned short)-632956352, CQMRq);
 break;
 }
 }
@@ -275,7 +275,7 @@ while (k >= 0);
 switch (at9q7l)
 {
 case 'a':
-ZJZ_EhGr = D2_gBz((short)1892885241, -191892576, (short)1425439851, 1291150038, B8v8wl8Ut);
+ZJZ_EhGr = D2_gBz((short)1892885241, -191892576, (short)1425439851, (unsigned short)1291150038, B8v8wl8Ut);
 break;
 case 'b':
 enQmd *= 263157877;

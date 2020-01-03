@@ -215,7 +215,7 @@ case 'f':
 I1_YdJ = YWkzy((char)802405020, (short)-1204133978, IhCcK);
 break;
 case 'g':
-IhCcK = rlB5g(IhCcK, 941334171, V2YI8NX, 1428357822, -1096695470);
+IhCcK = rlB5g(IhCcK, 941334171, V2YI8NX, 1428357822, (unsigned short)-1096695470);
 break;
 case 'h':
 o7ZWd = rlB5g(o7ZWd, 1830621735, -77844381, 1739325265, -967752512);
@@ -369,7 +369,7 @@ catch (int& errorCode)
 {
 ZU_zQ = YL1MK5by2();
 }
-c1x_ = Wu8iL / YWkzy((char)142834, (short)-450510603, 518674036);
+c1x_ = Wu8iL / YWkzy((char)142834, (short)-450510603, (short)518674036);
 
 std::cout << "SE6Wo" << std::endl;
 
@@ -431,7 +431,7 @@ case 0:
 Wu8iL = TsI_I8m | f78x11cu_;
 break;
 case 1:
-I1_YdJ = YWkzy((char)-910025720, (short)-807060937, 336575754);
+I1_YdJ = YWkzy((char)-910025720, (short)-807060937, (short)336575754);
 break;
 }
 
@@ -444,7 +444,7 @@ for (int j = 0; j < 4; j++)
 int k = 0;
 do
 {
-Gk26gN5S = rlB5g((unsigned char)-622531630, -419151251, (short)-1279231395, lF8k27v9, -1351062502);
+Gk26gN5S = rlB5g((unsigned char)-622531630, -419151251, (short)-1279231395, lF8k27v9, (unsigned short)-1351062502);
 ++k;
 }
 while (k < 4);
@@ -457,7 +457,7 @@ switch (p4SGNZP1)
 {
 case 'a':
 case 'A':
-Ff8QG_h = YWkzy((char)-354904782, (short)1961452039, -491179190);
+Ff8QG_h = YWkzy((char)-354904782, (short)1961452039, (short)-491179190);
 break;
 case 'b':
 case 'B':

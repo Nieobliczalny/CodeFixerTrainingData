@@ -71,7 +71,7 @@ int main()
  double DDx1;
  DDx1 = 490148763;
     char    Gb6zBNV3;
-    Gb6zBNV3    =    -1136713554;
+    Gb6zBNV3    =    (char)-1136713554;
 	unsigned long	j4bD5RO6;
 	j4bD5RO6	=	-1747470823;
  unsigned long long YTiR07Pd;
@@ -91,7 +91,7 @@ int main()
  unsigned char p7IAn3oO;
  p7IAn3oO = (unsigned char)-624758374;
  short v4GWq;
- v4GWq = -522123069;
+ v4GWq = (short)-522123069;
  unsigned short Hvx649y;
  Hvx649y = (unsigned short)-1059225713;
   short int  pGdWK7Pg6;
@@ -107,7 +107,7 @@ int main()
  unsigned long bAQWZ;
  bAQWZ = -303281925;
   unsigned char  LCfI;
-  LCfI  =  1457802525;
+  LCfI  =  (unsigned char)1457802525;
 	short int	LuEAMu;
 	LuEAMu	=	(short)-796064073;
  char Ls848Ey;

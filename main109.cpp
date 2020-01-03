@@ -36,7 +36,7 @@ int main(int argc, char** argv)
   unsigned short  WGQ77SI  =  (unsigned short)1798475241;
 	unsigned long long	X_6Y	=	1527058134;
 	long	eU5e7	=	1679037669;
-    char    ivjpB5pDj    =    277590736;
+    char    ivjpB5pDj    =    (char)277590736;
     unsigned long    he80ck_27l    =    1791529757;
   unsigned short int  i3Xu0hj6G8  =  1061326287;
  char Oi7nt1nV = 1676325145;
@@ -46,7 +46,7 @@ int main(int argc, char** argv)
   short  dctf494Go_  =  (short)-1223459596;
  unsigned short M8eSX = -1936251837;
   unsigned short  GFVSm  =  -1292160729;
- unsigned short pk86A8nW01 = 225128014;
+ unsigned short pk86A8nW01 = (unsigned short)225128014;
     short    h9Kw24Y_8    =    -1906537413;
  double hdi8Tt_X6 = -2012444452;
     unsigned int    CRD3Da    =    1285734015;
@@ -57,7 +57,7 @@ int main(int argc, char** argv)
  int l5W2ELF = -55498526;
  int bFgZHbgTRu = 2142851848;
   short int  Q0nwex  =  (short)-2119785519;
-  short int  K_bF  =  -1212050982;
+  short int  K_bF  =  (short)-1212050982;
   char  thXwr6O  =  -838507605;
  short int Ha5H4 = 2102968562;
   float  JUb2SJM  =  1804732557;
@@ -72,7 +72,7 @@ int main(int argc, char** argv)
     unsigned long long    V6A4    =    1436103123;
  double RimAAm4_e = 252993570;
  int nPID = -1492214337;
- unsigned short int WX32 = 414361026;
+ unsigned short int WX32 = (unsigned short)414361026;
     long double    Zt0H70t    =    -2048776892;
   float  S3lu  =  -881889397;
   unsigned int  krl_0QAI  =  1389768442;
@@ -84,7 +84,7 @@ int main(int argc, char** argv)
 	unsigned int	pOeqD	=	-775605933;
  short int DJ4LT5e = (short)1907882187;
 	unsigned long	v_9S64Y7k6	=	623201900;
-  char  BOuMoaJqu  =  -1628433038;
+  char  BOuMoaJqu  =  (char)-1628433038;
 	unsigned long long	uC60zuHG	=	-479074063;
  long double v05ea_ImlF = 1509869978;
  long double yCngs = -248435766;
@@ -95,7 +95,7 @@ int main(int argc, char** argv)
  char F25fBEHlvj = (char)1602134898;
   long double  s515140  =  428067342;
 	long double	JQ_Ie6	=	-870375381;
-  short int  MLUePpK  =  826206390;
+  short int  MLUePpK  =  (short)826206390;
     unsigned short int    f4O5_    =    964435179;
     unsigned long long    Omc16R    =    1539369590;
     unsigned long long    jQVV2px    =    0;
@@ -263,7 +263,7 @@ xjxAg23qyA = (CRD3Da == dctf494Go_) ? (short)907093103 : (short)-456359026;
 break;
 case 'b':
 case 'B':
-d82z_ = JRN3N3W2(1492606450);
+d82z_ = JRN3N3W2((short)1492606450);
 break;
 case 'c':
 case 'C':
@@ -325,7 +325,7 @@ QthcvWY = JRN3N3W2((short)155797718);
 break;
 case 'c':
 case 'C':
-d82z_ = JRN3N3W2(-1387073257);
+d82z_ = JRN3N3W2((short)-1387073257);
 break;
 case 'd':
 case 'D':

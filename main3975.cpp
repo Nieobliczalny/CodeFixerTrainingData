@@ -72,7 +72,7 @@ int main(int argc, char** argv) {
     char    nZ0qiOPQXC;
     nZ0qiOPQXC    =    (char)-903053214;
   short  YiUyBXdB6;
-  YiUyBXdB6  =  -1579931547;
+  YiUyBXdB6  =  (short)-1579931547;
   long double  X_UvahciCD;
   X_UvahciCD  =  -15181212;
  unsigned char nwZUJ;
@@ -98,7 +98,7 @@ int main(int argc, char** argv) {
     long long    Lt7T5B_7;
     Lt7T5B_7    =    1606678329;
     unsigned short int    oA1kJ55;
-    oA1kJ55    =    315697056;
+    oA1kJ55    =    (unsigned short)315697056;
 	double	Ub4Nki2;
 	Ub4Nki2	=	-1034560786;
 	long	Q__58x647;
@@ -118,7 +118,7 @@ int main(int argc, char** argv) {
   short int  wwk9O6n;
   wwk9O6n  =  (short)-1538692776;
     short int    VJCmBAl8;
-    VJCmBAl8    =    1335832885;
+    VJCmBAl8    =    (short)1335832885;
   int  QhiVX;
   QhiVX  =  508780816;
 	char	c9oeU1GRrS;
@@ -136,7 +136,7 @@ int main(int argc, char** argv) {
     double    hCM202219_;
     hCM202219_    =    373375774;
 	unsigned short	h_JRZ0KV;
-	h_JRZ0KV	=	-1314902135;
+	h_JRZ0KV	=	(unsigned short)-1314902135;
   short  aPQD2q6;
   aPQD2q6  =  (short)2085698884;
     unsigned long    r8Fv3Q;
@@ -214,7 +214,7 @@ case 'b':
 Vph9p16d = lI25ZW_((short)-1226328886, -2014625105, m6HhSV);
 break;
 case 'c':
-Ou2_ = v_xoj13(Ou2_, (unsigned short)-1945033463, -1551680013, 344685276);
+Ou2_ = v_xoj13(Ou2_, (unsigned short)-1945033463, (short)-1551680013, 344685276);
 break;
 case 'd':
 r461_0i8W = v_xoj13(-1656378244, -1213333920, 1418447564, 1766811955);

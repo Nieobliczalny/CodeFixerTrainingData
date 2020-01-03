@@ -24,7 +24,7 @@ int main() {
  long long lqQJmnyZ;
  lqQJmnyZ = 727122673;
   short  D_1nc;
-  D_1nc  =  -547735859;
+  D_1nc  =  (short)-547735859;
     long double    E_Qy;
     E_Qy    =    670903302;
  unsigned long long q0O79bC0T;
@@ -98,7 +98,7 @@ case 4:
 GPK86a9__ = (int)abs(NnFhEZ0Ql);
 break;
 default:
-Xcnf1KGqC = a_73qt_Nw(1623871582, 1333660609, n55yd);
+Xcnf1KGqC = a_73qt_Nw(1623871582, (short)1333660609, n55yd);
 break;
 }
 }
@@ -109,7 +109,7 @@ JT2XxS5p = (int)ceil(E_Qy);
 std::cout << "J8IRyn" << lqQJmnyZ << "WH9e71" << std::endl;
 
 lqQJmnyZ = Dg3s7Sh01(lqQJmnyZ, (short)-842979598, m8729b0, (char)1245558317);
-no7_m__ = a_73qt_Nw(L3xx6, -345619483, -857987867);
+no7_m__ = a_73qt_Nw(L3xx6, (short)-345619483, -857987867);
 
 {
 int i = 0;
@@ -124,7 +124,7 @@ case 1:
 Xcnf1KGqC = a_73qt_Nw(1878752600, n55yd, (unsigned char)-760436680);
 break;
 case 2:
-JT2XxS5p = Dg3s7Sh01(2018529031, (short)-657265142, -1225165324, -401933670);
+JT2XxS5p = Dg3s7Sh01(2018529031, (short)-657265142, -1225165324, (char)-401933670);
 break;
 case 3:
 m8729b0 = Dg3s7Sh01(387770089, -647242146, 358867805, thHQ);
@@ -190,7 +190,7 @@ no7_m__ = a_73qt_Nw(984414096, (short)-1741575108, (unsigned char)-429614292);
 break;
 case 'b':
 case 'B':
-ruuAwDA = Dg3s7Sh01(1483126772, QKb8A7_P, 64636204, 372827579);
+ruuAwDA = Dg3s7Sh01(1483126772, QKb8A7_P, 64636204, (char)372827579);
 break;
 default:
 lqQJmnyZ ^= TjLh44m;

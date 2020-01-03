@@ -30,7 +30,7 @@ int main()
     long    g_v38    =    2093567153;
  unsigned long long CBG5IM8S = 449294295;
  long long R3lT9t = 1331917909;
-    char    uOm5dIc6J    =    -588666422;
+    char    uOm5dIc6J    =    (char)-588666422;
  float iOEO5 = -1185025278;
   unsigned short int  NCxE5  =  76464258;
   short int  q0jka  =  -1342520358;
@@ -42,7 +42,7 @@ int main()
   unsigned short int  uhA_  =  1322047194;
 	unsigned int	Z28v3	=	233986839;
 	long long	rN24	=	1753469312;
- short int m1Y3H84N = 285343262;
+ short int m1Y3H84N = (short)285343262;
     long long    A7c4Q6q9    =    245312308;
     unsigned long long    f2U7MQH_m_    =    -168195679;
 	float	Qwqj9LY	=	-539223950;
@@ -70,7 +70,7 @@ int main()
  unsigned short aa_e = (unsigned short)-1154128247;
   unsigned long long  JPW6VQ71i  =  58030704;
 	long double	dG71Fh	=	-1683927088;
- short o359i36A = 1427947871;
+ short o359i36A = (short)1427947871;
  unsigned long long o49Kt = 291835052;
     long    ri39    =    1459774044;
  short eYI7mb_2o5 = 479491759;
@@ -82,7 +82,7 @@ int main()
     short int    rDgD6qDde    =    -1421054153;
  double a6Aq5Z = 2134679389;
 	char	a8SO6Etfo	=	0;
-	char	h15f1QGZE	=	-1788527727;
+	char	h15f1QGZE	=	(char)-1788527727;
  char NAPVD = 1635765114;
     unsigned long    T_86951d2    =    1263084319;
     unsigned int    g4811Z02    =    1900808924;
@@ -92,7 +92,7 @@ int main()
   unsigned short int  cBvFEc  =  -1465216103;
 	double	nRy4s_	=	124605170;
     unsigned char    d44upWG    =    -760999438;
-    char    C6IY4_40    =    246576237;
+    char    C6IY4_40    =    (char)246576237;
  unsigned int l_m6feD88O = 1575659335;
     unsigned short    kYNS_x7avt    =    562770447;
     short    w9It    =    -110650093;
@@ -103,7 +103,7 @@ int main()
  char I_5WdR = -1499135414;
 	unsigned short	X_Jq5	=	-1807186440;
 	unsigned int	xz3PZi2Mf	=	-900740501;
-    char    gs_L    =    972749695;
+    char    gs_L    =    (char)972749695;
   double  AR_v9D4s_0  =  993265980;
 
 dG71Fh = (int)abs(A7c4Q6q9);
@@ -229,7 +229,7 @@ w9It = tyaiO1b(w9It, nRy4s_, A7c4Q6q9);
 break;
 }
 std::cout << "XNd62I" << Qfxzcz9(-1619314874) << eYI7mb_2o5 << f2U7MQH_m_ << std::endl;
-std::cout << K_848H2So7 << j824((unsigned char)-152207630) << "F965Po" << "yViM_dg" << xZ6cH_P((unsigned char)-1177173728, nRy4s_, -735307794) << std::endl;
+std::cout << K_848H2So7 << j824((unsigned char)-152207630) << "F965Po" << "yViM_dg" << xZ6cH_P((unsigned char)-1177173728, nRy4s_, (unsigned short)-735307794) << std::endl;
 switch (f2U7MQH_m_)
 {
 case 0:

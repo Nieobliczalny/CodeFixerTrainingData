@@ -46,7 +46,7 @@ int main()
 	unsigned long	F8N7u;
 	F8N7u	=	-1499806347;
  unsigned short zM663_;
- zM663_ = -1724885477;
+ zM663_ = (unsigned short)-1724885477;
  unsigned short int Pc31;
  Pc31 = -1678393650;
     long    pt3CH__L;
@@ -68,7 +68,7 @@ int main()
     long    SFa95;
     SFa95    =    547116498;
  unsigned short rHDLL99d;
- rHDLL99d = -1080097648;
+ rHDLL99d = (unsigned short)-1080097648;
     long long    S4_MWkn;
     S4_MWkn    =    18685927;
 	long long	zVPZl_m;
@@ -90,7 +90,7 @@ int main()
     long long    G05_X1Ny;
     G05_X1Ny    =    -1470749332;
   unsigned short  qR9Ua;
-  qR9Ua  =  -479658595;
+  qR9Ua  =  (unsigned short)-479658595;
   unsigned int  HjxzYgC0y;
   HjxzYgC0y  =  0;
  double WQvvUA;
@@ -100,7 +100,7 @@ int main()
     char    A07udjP;
     A07udjP    =    (char)1844070544;
   unsigned char  QYn0vZnzR9;
-  QYn0vZnzR9  =  187317831;
+  QYn0vZnzR9  =  (unsigned char)187317831;
     unsigned long long    B6luX;
     B6luX    =    -1883731933;
  short H0t8;
@@ -114,7 +114,7 @@ int main()
     unsigned char    gVKUlm;
     gVKUlm    =    (unsigned char)-2012053617;
  short akk8tKq2Y;
- akk8tKq2Y = -539714592;
+ akk8tKq2Y = (short)-539714592;
  float DI1y;
  DI1y = -1019917329;
     short int    RSrbi7C;
@@ -134,7 +134,7 @@ int main()
     unsigned short int    r9_Zm;
     r9_Zm    =    (unsigned short)1021547088;
  short HVB4e_zSJ;
- HVB4e_zSJ = -1785148415;
+ HVB4e_zSJ = (short)-1785148415;
 	long	Dgmedsc4x;
 	Dgmedsc4x	=	-341423426;
 	short int	iZ9Dh1YBp_;
@@ -152,7 +152,7 @@ int main()
     int    RImsF54;
     RImsF54    =    1834061893;
 	char	EWN5w;
-	EWN5w	=	-1288329832;
+	EWN5w	=	(char)-1288329832;
 	unsigned int	TqVF;
 	TqVF	=	1245808998;
     unsigned long    xP70KGzW;
@@ -166,7 +166,7 @@ int main()
 	long double	UHew;
 	UHew	=	1272023646;
 	short	o7l45Txe5;
-	o7l45Txe5	=	621370794;
+	o7l45Txe5	=	(short)621370794;
   unsigned short int  ZV5o7;
   ZV5o7  =  2033935699;
  short s40A_21q;
@@ -200,7 +200,7 @@ int main()
     short    P7P3NU;
     P7P3NU    =    0;
 	char	D9Oa49;
-	D9Oa49	=	1788948615;
+	D9Oa49	=	(char)1788948615;
  unsigned short lHXY1J72;
  lHXY1J72 = (unsigned short)1336626988;
 	int	V2217gx;
@@ -417,7 +417,7 @@ break;
 
 try
 {
-cout << MhB4 << FHqFQ8N(D2_D9L, (unsigned short)403105449, (char)1171455185, 110030264, WHhnA5PD) << l07tp4B9gw << "lm7dB99xJ4" << endl;
+cout << MhB4 << FHqFQ8N(D2_D9L, (unsigned short)403105449, (char)1171455185, (unsigned char)110030264, WHhnA5PD) << l07tp4B9gw << "lm7dB99xJ4" << endl;
 }
 catch (int& errorCode)
 {

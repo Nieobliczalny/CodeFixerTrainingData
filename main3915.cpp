@@ -27,7 +27,7 @@ case 0:
 xEk_JjWWS5 <<= 510500341;
 break;
 default:
-tj6VGFAw_d = Y7OctZXh0(tj6VGFAw_d, (unsigned short)197377575, -95425757, 949828996);
+tj6VGFAw_d = Y7OctZXh0(tj6VGFAw_d, (unsigned short)197377575, -95425757, (unsigned char)949828996);
 break;
 }
 {
@@ -58,7 +58,7 @@ ws_nupI2 = jZZaaT_T2S(ws_nupI2, t6aI9M_, 751041716, (unsigned short)-804428037);
 break;
 case 'b':
 case 'B':
-IfE0V7xj = (WA85 == X1ZDn1B) ? (short)2001256519 : -1995119870;
+IfE0V7xj = (WA85 == X1ZDn1B) ? (short)2001256519 : (short)-1995119870;
 break;
 case 'c':
 case 'C':
@@ -90,7 +90,7 @@ Muo2 = (int)abs(ObRi78f);
 break;
 case 'j':
 case 'J':
-a_zmgfBHO6 = qvl6p(a_zmgfBHO6, -229518412, -191993958, -676785917);
+a_zmgfBHO6 = qvl6p(a_zmgfBHO6, (unsigned short)-229518412, -191993958, -676785917);
 break;
 }
 
@@ -123,7 +123,7 @@ int k = 7;
 do
 {
 k--;
-QHvKkpz0u8 = M4AXlfL(a_zmgfBHO6, (short)-370058053, (short)-385212821, 754505470, 2050382639) << 2123272499;
+QHvKkpz0u8 = M4AXlfL(a_zmgfBHO6, (short)-370058053, (short)-385212821, (char)754505470, 2050382639) << 2123272499;
 }
 while (k >= 0);
 }
@@ -179,7 +179,7 @@ else if (bjTOm <= 1437178654)
 {
 try
 {
-cout << "P5QI8_OB0_" << Y7OctZXh0((unsigned char)-1831320936, 1084162797, p02P36dr, usHT5r0) << "hWNq" << endl;
+cout << "P5QI8_OB0_" << Y7OctZXh0((unsigned char)-1831320936, (unsigned short)1084162797, p02P36dr, usHT5r0) << "hWNq" << endl;
 }
 catch (int& errorCode)
 {
@@ -236,7 +236,7 @@ while (k < 7);
 }
 }
 
-cout << "nmEz0Py2v" << qvl6p(-1702576281, (unsigned short)-1241357753, zI975H39Yb, (short)-913566747) << M4AXlfL(bjTOm, 2076530534, 264050803, -788895687, -512285353) << endl;
+cout << "nmEz0Py2v" << qvl6p(-1702576281, (unsigned short)-1241357753, zI975H39Yb, (short)-913566747) << M4AXlfL(bjTOm, (short)2076530534, 264050803, -788895687, -512285353) << endl;
 WA85 = ax588XHb7D - usHT5r0;
 {
 int i = 0;
@@ -254,7 +254,7 @@ case 'a':
 xNnDG = M4AXlfL((unsigned char)-845464388, (short)-833445551, iVZJhJ4M, BRn4Rn2fn, RHxFPksv);
 break;
 case 'b':
-PmxwZpb0zp = M4AXlfL(nPPxu, cnp8hk0, 1278900241, 1805002984, -1013994439) + 1347046520;
+PmxwZpb0zp = M4AXlfL(nPPxu, cnp8hk0, (short)1278900241, 1805002984, -1013994439) + 1347046520;
 break;
 case 'c':
 J99hWQ = qvl6p(-622002749, 1357968905, -1173133759, -1930703624);
@@ -272,7 +272,7 @@ case 'g':
 qK8E_Xzd4 = M4AXlfL((unsigned char)-1862208462, zl26N0, qK8E_Xzd4, pT1Z0051zS, -2097787263);
 break;
 case 'h':
-qK8E_Xzd4 = M4AXlfL(1765151974, k79U2O, f2Hc, DJ2c4Qt, 2012318802);
+qK8E_Xzd4 = M4AXlfL((unsigned char)1765151974, k79U2O, f2Hc, DJ2c4Qt, 2012318802);
 break;
 case 'i':
 xNnDG = M4AXlfL(hQn_vTh, Sx_pum9, ecRz, (char)75686850, IfE0V7xj);
@@ -300,7 +300,7 @@ while (i < 10);
 
 if (p02P36dr)
 {
-xNnDG = M4AXlfL(hQn_vTh, (short)-1424111972, (short)1932859704, -1822192748, -253984220);
+xNnDG = M4AXlfL(hQn_vTh, (short)-1424111972, (short)1932859704, (char)-1822192748, -253984220);
 }
 
 xNnDG = (unsigned long long)(QHvKkpz0u8 * xNnDG);
@@ -329,7 +329,7 @@ else
 {
 hQn_vTh = (short)(d5GV533e);
 }
-WA85 = Y7OctZXh0((unsigned char)810534716, (unsigned short)1373396831, ZK1BS, 254161672);
+WA85 = Y7OctZXh0((unsigned char)810534716, (unsigned short)1373396831, ZK1BS, (unsigned char)254161672);
 if (IfE0V7xj & 1875701233)
 {
 CrMQ15_oG = qvl6p(CrMQ15_oG, 372599256, 1204187457, 1590390899);
@@ -381,7 +381,7 @@ I2SgY = M4AXlfL((unsigned char)1955614653, (short)-478687915, lY_8, BRn4Rn2fn, k
 }
 else if ((mT35WY_Fe == V0N9xcmG) || (AMe73p >= -1762057249))
 {
-usHT5r0 = Y7OctZXh0(85087322, -1287273530, I2SgY, 1120548622);
+usHT5r0 = Y7OctZXh0((unsigned char)85087322, -1287273530, I2SgY, 1120548622);
 }
 else if (((zl26N0 <= T3DgU) && (xNnDG <= -138410157)) || ((mT35WY_Fe & YzMX2_E3) || (nPPxu <= U82_B95a2)))
 {
@@ -439,7 +439,7 @@ else
 tx5Erbr = qvl6p(-1019087217, (unsigned short)-1253667474, ulm6X, yZ_yLOYIN);
 }
 d5GV533e = (short)(zl26N0);
-Vjk6oz = jZZaaT_T2S(1038959227, Muo2, ulm6X, 333867834) ^ OoVN6U_yl;
+Vjk6oz = jZZaaT_T2S(1038959227, Muo2, ulm6X, (unsigned short)333867834) ^ OoVN6U_yl;
 if ((IfE0V7xj) && (pT1Z0051zS & 141680930))
 {
 QHvKkpz0u8 = qvl6p(-989543743, (unsigned short)-25174379, pT1Z0051zS, Muo2);

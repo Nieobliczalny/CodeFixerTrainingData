@@ -40,7 +40,7 @@ int main(int argc, char** argv)
 	unsigned short	i3147w7N	=	0;
   int  KVVizeUIVj  =  1455116686;
   unsigned int  PmiaWt  =  1473200247;
- unsigned short int ZeNcTtUY5 = -1486801152;
+ unsigned short int ZeNcTtUY5 = (unsigned short)-1486801152;
 	short int	P9YV	=	(short)1286639810;
  long MuCe2hP = 0;
 	short int	vpXI	=	1942830351;
@@ -670,7 +670,7 @@ std::cout << vs69yUR(-2098321934, PmiaWt, 1055077246) << u3luQM2((char)155553160
 }
 else if ((MuCe2hP != 1044265622) && ((P9YV & i3147w7N) || (ka255 != 1228766545)))
 {
-std::cout << "nbYt3Q0JQ" << ka255 << u3luQM2(awZK_fvf9p, -1291873129) << "QrDsGp7" << std::endl;
+std::cout << "nbYt3Q0JQ" << ka255 << u3luQM2(awZK_fvf9p, (unsigned short)-1291873129) << "QrDsGp7" << std::endl;
 }
 else
 {

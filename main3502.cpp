@@ -63,7 +63,7 @@ int main(int argc, char** argv)
 
 try
 {
-cout << lxOoQBpY(ej4b2vC_w, (unsigned short)-2061329888, (short)-2051466004) << fwp__G_3z << lxOoQBpY(ej4b2vC_w, s5_n, 743012142) << endl;
+cout << lxOoQBpY(ej4b2vC_w, (unsigned short)-2061329888, (short)-2051466004) << fwp__G_3z << lxOoQBpY(ej4b2vC_w, s5_n, (short)743012142) << endl;
 }
 catch (int& errorCode)
 {
@@ -111,7 +111,7 @@ while (i < 6)
 switch (R_NrEEnmJ9)
 {
 case 0:
-UT79v7i2w = E079v(sCDCy, (short)-1029677717, -485835219);
+UT79v7i2w = E079v(sCDCy, (short)-1029677717, (unsigned short)-485835219);
 break;
 case 1:
 UT79v7i2w = E079v((unsigned short)990963380, dV77N_, 733772755);
@@ -180,7 +180,7 @@ case 4:
 FTB6Nq4Ai = (int)abs(A5OHRQ0);
 break;
 case 5:
-O1_2lKm = lxOoQBpY((unsigned short)-212163518, (unsigned short)2064284462, -1695978687);
+O1_2lKm = lxOoQBpY((unsigned short)-212163518, (unsigned short)2064284462, (short)-1695978687);
 break;
 default:
 O1_2lKm = lxOoQBpY(1906650218, Q5dQIv4yWW, -1908425372);
@@ -213,7 +213,7 @@ G14hWWF = (int)abs(LJCooI8d);
 }
 else
 {
-UT79v7i2w = E079v(1005531994, 874266006, M8BJw);
+UT79v7i2w = E079v((unsigned short)1005531994, 874266006, M8BJw);
 }
 ++j;
 }
@@ -247,7 +247,7 @@ break;
 
 try
 {
-cout << lxOoQBpY((unsigned short)617646020, DkJC, (short)-1987357026) << nZS8CJ << fj8E4Ay << lxOoQBpY(-1723132201, DkJC, M_Ea33) << lxOoQBpY(kAO5He, 1479759144, M_Ea33) << endl;
+cout << lxOoQBpY((unsigned short)617646020, DkJC, (short)-1987357026) << nZS8CJ << fj8E4Ay << lxOoQBpY((unsigned short)-1723132201, DkJC, M_Ea33) << lxOoQBpY(kAO5He, 1479759144, M_Ea33) << endl;
 }
 catch (int& errorCode)
 {
@@ -285,7 +285,7 @@ case 3:
 Q5dQIv4yWW += 830759718;
 break;
 case 4:
-UT79v7i2w = E079v(-1410331527, dV77N_, 1507333804);
+UT79v7i2w = E079v((unsigned short)-1410331527, dV77N_, 1507333804);
 break;
 case 5:
 sCDCy -= 2002872220;
@@ -314,7 +314,7 @@ G14hWWF = (long long)(tu3SSbC);
 }
 else if (nZS8CJ == -1498792482)
 {
-cout << E079v(Q5dQIv4yWW, pO1r2OLuw, 1201639581) << "eCkqf9gH" << endl;
+cout << E079v(Q5dQIv4yWW, pO1r2OLuw, (unsigned short)1201639581) << "eCkqf9gH" << endl;
 }
 else
 {
@@ -324,7 +324,7 @@ A5OHRQ0 = lxOoQBpY((unsigned short)-2057217161, d_P6gQ___, (short)-1282319416);
 }
 else
 {
-UT79v7i2w = E079v(ZiFd, -2099005539, 1391225730);
+UT79v7i2w = E079v(ZiFd, (short)-2099005539, 1391225730);
 }
 }
 }

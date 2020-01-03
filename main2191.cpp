@@ -21,7 +21,7 @@ int main(int argc, char** argv) {
   unsigned char  uWYlJ7_Aa,  K4_zt,  p0nu,  Jxe11MJ8,  KQime3,  pM7M0lUG6,  Ek4Hn,  E9_wDm6l,  I4Y512,  iv_xDznW51,  UFPGjiTRd,  Qha5,  dXpVvgGS,  UCZc5a2,  EZ4PiUW3,  p2_YPRX,  tkz7m9M,  MSiDjMi,  DN89_g,  UIR71s,  E4jPKW1e9,  O9W1JK,  D7kesJf3m;
   uWYlJ7_Aa  =  (unsigned char)-1335434241;
   K4_zt  =  (unsigned char)1438997391;
-  p0nu  =  -546709864;
+  p0nu  =  (unsigned char)-546709864;
   Jxe11MJ8  =  -1097225202;
   KQime3  =  1318842963;
   pM7M0lUG6  =  1232878914;
@@ -31,7 +31,7 @@ int main(int argc, char** argv) {
   iv_xDznW51  =  -596121455;
   UFPGjiTRd  =  (unsigned char)-104863182;
   Qha5  =  (unsigned char)-410593770;
-  dXpVvgGS  =  884891353;
+  dXpVvgGS  =  (unsigned char)884891353;
   UCZc5a2  =  -1189258537;
   EZ4PiUW3  =  917955633;
   p2_YPRX  =  -738451534;
@@ -41,7 +41,7 @@ int main(int argc, char** argv) {
   UIR71s  =  1017550422;
   E4jPKW1e9  =  (unsigned char)1840620488;
   O9W1JK  =  (unsigned char)494224950;
-  D7kesJf3m  =  498351572;
+  D7kesJf3m  =  (unsigned char)498351572;
   char  k9VVDhXShZ,  j23n5xTv_,  Booxii,  Fzu_Hki59G,  DEx4B;
   k9VVDhXShZ  =  0;
   j23n5xTv_  =  0;
@@ -180,7 +180,7 @@ case 2:
 Booxii = EmPNG0At(E9_wDm6l, -2083402363, (short)1097018483);
 break;
 case 3:
-j23n5xTv_ = EmPNG0At(1115985488, j23n5xTv_, 1139595789);
+j23n5xTv_ = EmPNG0At(1115985488, j23n5xTv_, (short)1139595789);
 break;
 case 4:
 Booxii = EmPNG0At(1764007478, tkz7m9M, (short)436298756);

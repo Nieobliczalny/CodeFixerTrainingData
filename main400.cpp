@@ -20,7 +20,7 @@ int main(int argc, char** argv) {
  char jAZ3, w2SI_y40F8, bu235v, CJv5A, or56VAM97_, pgsG3, lUIfE, rRv7DQ, qKWh, qYugk_a6, Y20nt, Q0_1RSQS2K, B_EH8e4V, ObwCD0111, uAY9o_0, o88QrCk9, Xl8S5, Isvdue, ZT7oEM, sM4sTV2C9T, YQGtru_u5Y, z171C, Xk314xjdDt, WC2q0AJ13, on37mIf, BxLk3xK, OWD0Dzm, xlYsu, e6SKjY42__, EYMtjn, Br9m3H, YsK2UT0_gC, l29J_Fu8, tkoM0SO8, Xp1NIThA, Z0Xf5, R31JGy, pZ1_KH1, nQCmGqDe6R, SG3j9zB, ocy5If_C, RFyIl7AEbl, me9Kf5I4, S6X94, V17s5P3sn_, jbF6x0_8, LzGTGd_u5, Dq89, cE15L, I6E_, I8Xir8, M50Bez, CFhFlpOm, Fs4w2, zg56o5, i8XN8Y1f4, tlv7SQ42, tN5Ihe1K_;
  jAZ3 = (char)-1212358505;
  w2SI_y40F8 = (char)2063477186;
- bu235v = -995103416;
+ bu235v = (char)-995103416;
  CJv5A = 2038790614;
  or56VAM97_ = -1682985470;
  pgsG3 = -1494609151;
@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
  qYugk_a6 = -437729622;
  Y20nt = (char)-1687496516;
  Q0_1RSQS2K = (char)-990976723;
- B_EH8e4V = -241039679;
+ B_EH8e4V = (char)-241039679;
  ObwCD0111 = 1003403239;
  uAY9o_0 = 1056931067;
  o88QrCk9 = -1812118057;
@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
  sM4sTV2C9T = 1672969360;
  YQGtru_u5Y = (char)1975053316;
  z171C = (char)-512952925;
- Xk314xjdDt = -92739204;
+ Xk314xjdDt = (char)-92739204;
  WC2q0AJ13 = 753411056;
  on37mIf = -132498607;
  BxLk3xK = -708314987;
@@ -50,7 +50,7 @@ int main(int argc, char** argv) {
  EYMtjn = -70010259;
  Br9m3H = (char)-1195578898;
  YsK2UT0_gC = (char)-2057192049;
- l29J_Fu8 = 724090521;
+ l29J_Fu8 = (char)724090521;
  tkoM0SO8 = 1330746340;
  Xp1NIThA = 1470881242;
  Z0Xf5 = 48985086;
@@ -60,7 +60,7 @@ int main(int argc, char** argv) {
  SG3j9zB = 422266507;
  ocy5If_C = (char)-820682061;
  RFyIl7AEbl = (char)-66466062;
- me9Kf5I4 = 1256287570;
+ me9Kf5I4 = (char)1256287570;
  S6X94 = 2018994205;
  V17s5P3sn_ = -8549841;
  jbF6x0_8 = -1199931193;
@@ -70,7 +70,7 @@ int main(int argc, char** argv) {
  I6E_ = -484572295;
  I8Xir8 = (char)-1819626582;
  M50Bez = (char)-1197392992;
- CFhFlpOm = 1645713739;
+ CFhFlpOm = (char)1645713739;
  Fs4w2 = -1965458521;
  zg56o5 = -1031467034;
  i8XN8Y1f4 = -926376252;

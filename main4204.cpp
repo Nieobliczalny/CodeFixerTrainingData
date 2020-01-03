@@ -18,7 +18,7 @@ int main(void)
  unsigned short int x_1MVPS3qn = (unsigned short)-544514862;
  unsigned short int g93bpNDG = (unsigned short)859477038;
 	unsigned long	hX1o	=	1200486864;
-	char	EGcI	=	481646745;
+	char	EGcI	=	(char)481646745;
   char  ZpJCS  =  -769877706;
     double    NVmu7V_i    =    1785974728;
   char  cwxaIOQt6  =  -2041562317;
@@ -30,7 +30,7 @@ int main(void)
  short jEjrA0b = 0;
   unsigned char  pIpY6E1SR  =  (unsigned char)212457838;
   double  fGU13PE69_  =  978258889;
-    unsigned char    fHAO    =    1388580692;
+    unsigned char    fHAO    =    (unsigned char)1388580692;
  float e9HA1v5 = 1432050580;
  unsigned int x4C2RQ = -1252662958;
 	float	DStq	=	-851482519;
@@ -41,7 +41,7 @@ int main(void)
   short  Xf80Xa8  =  (short)-1372639268;
 	float	BBade06f	=	58210961;
     int    Ow39Ap6    =    343458320;
-  unsigned short  aIMcmP_M_  =  84324018;
+  unsigned short  aIMcmP_M_  =  (unsigned short)84324018;
     long    jOcJSl1h57    =    1535265796;
     unsigned long    Afl_CMOP    =    -1035744727;
   unsigned long  M_paS47z_  =  -277128466;
@@ -53,7 +53,7 @@ int main(void)
     float    uIgT7YO8O_    =    -881520687;
  float ey5Y8 = 1185613696;
     char    amM_3K    =    (char)-1779400640;
-  unsigned short int  K4oCN97  =  -374680742;
+  unsigned short int  K4oCN97  =  (unsigned short)-374680742;
  unsigned short gSHgoB = -1093580234;
     unsigned short    qmCVb7UOL    =    -2016997228;
  unsigned short Nuy04xvnoG = -944740797;
@@ -66,7 +66,7 @@ int main(void)
   int  Y3c90b4J3  =  2135485753;
   unsigned char  dSy9  =  (unsigned char)-603051425;
 	int	jcO8AkICn	=	-1956061589;
- char s15sdJ7c = 376676543;
+ char s15sdJ7c = (char)376676543;
   int  pBs8m  =  1555472953;
 	unsigned short	il_8blUju_	=	800959666;
 	long	kV8yR3C12j	=	119768529;
@@ -76,7 +76,7 @@ int main(void)
  unsigned int CyXT_5Jjo = -1995942102;
 	unsigned short	Q1_DI1f__7	=	(unsigned short)1954856200;
 	char	N1THQ94	=	(char)1944066162;
- unsigned short sjJ0HEC = 2029996601;
+ unsigned short sjJ0HEC = (unsigned short)2029996601;
     unsigned char    aJ9O    =    -1515528750;
 
 pIpY6E1SR = (unsigned char)(koYkn88lo);

@@ -54,7 +54,7 @@ int main()
 	char	D62v_4;
 	D62v_4	=	(char)-1158859996;
 	unsigned short int	nKS8;
-	nKS8	=	1996318343;
+	nKS8	=	(unsigned short)1996318343;
   unsigned int  Q_B_A8x;
   Q_B_A8x  =  0;
     long double    W1x5Q;
@@ -96,7 +96,7 @@ int main()
 	unsigned long	YBh1Fs;
 	YBh1Fs	=	1349067156;
   unsigned char  M8m0;
-  M8m0  =  -1110589070;
+  M8m0  =  (unsigned char)-1110589070;
     char    fbq7;
     fbq7    =    -733544134;
     int    UuUo3V63H;
@@ -110,7 +110,7 @@ int main()
     short int    vKHo;
     vKHo    =    (short)945876812;
  unsigned short oyq4XK4;
- oyq4XK4 = -1601781252;
+ oyq4XK4 = (unsigned short)-1601781252;
 
 {
 int i = 0;

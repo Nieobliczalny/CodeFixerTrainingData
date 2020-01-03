@@ -45,7 +45,7 @@ case 0:
 wm5_c_ = b3YQ(xIeL4n, wm5_c_, a3RPE7nv0, (unsigned short)83376117);
 break;
 case 1:
-YUw50_CsFW = QUxy(-293636765, (unsigned short)1847735160, -1067977385, 252334178, YUw50_CsFW);
+YUw50_CsFW = QUxy(-293636765, (unsigned short)1847735160, -1067977385, (unsigned short)252334178, YUw50_CsFW);
 break;
 }
 }
@@ -80,7 +80,7 @@ sV1Mv6w = b3YQ(-1922545745, -130659008, a3RPE7nv0, (unsigned short)-1618021173);
 }
 else if (qwkDa2 >= vKRKgU)
 {
-qwkDa2 = QUxy(qwkDa2, (unsigned short)1448887645, 1785776774, TGHDc_uKZ, -1213959164);
+qwkDa2 = QUxy(qwkDa2, (unsigned short)1448887645, 1785776774, TGHDc_uKZ, (char)-1213959164);
 }
 else
 {

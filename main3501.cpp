@@ -17,7 +17,7 @@ int main(void) {
   long long  V_I8  =  -1422314055;
 	unsigned short int	sId_30jnF	=	(unsigned short)968289308;
  unsigned long long x0a6k = 1647924665;
-	unsigned char	Rf1kKM7	=	-147736207;
+	unsigned char	Rf1kKM7	=	(unsigned char)-147736207;
     long double    D_TDvk0G    =    85932415;
  long double DKdnmg3e_F = -1929684965;
  unsigned short Y6KF3 = -1381369270;
@@ -45,7 +45,7 @@ int main(void) {
 	long double	O_vf0h3	=	-63651872;
  float agPG16 = 665485953;
 	short int	KeCCs_21wS	=	(short)-1117835140;
-  unsigned char  LeB9X712pH  =  -559744577;
+  unsigned char  LeB9X712pH  =  (unsigned char)-559744577;
  float QkryL5FpuZ = 270139141;
   short int  BvsbqJ506  =  (short)827513744;
 	long double	Uh0WBAyd	=	780708633;
@@ -59,7 +59,7 @@ int main(void) {
     unsigned long    I3d7    =    -524264093;
     long double    Cyxp    =    -1839238305;
  unsigned char w9ND = (unsigned char)1797318717;
-  unsigned char  Xs4pl  =  -938313772;
+  unsigned char  Xs4pl  =  (unsigned char)-938313772;
   double  YB4xY3ad7  =  729729443;
     unsigned int    IbhD0dV6    =    1268434339;
   float  q9m8723X1  =  1355711821;
@@ -69,7 +69,7 @@ int main(void) {
     long    I07yhL    =    -1059082063;
     short    l91T    =    -1000294092;
 	unsigned char	BXTzanRcU	=	(unsigned char)1519712482;
- unsigned short int BJ44 = -235406621;
+ unsigned short int BJ44 = (unsigned short)-235406621;
     unsigned long long    CI__DE7    =    55571816;
 	long double	TSLKtS8rFb	=	189882093;
     unsigned short    W05fezUQV    =    -1725498009;
@@ -79,7 +79,7 @@ int main(void) {
   short int  t6b7x7j5g  =  (short)-187801560;
 	int	jqk_1Y	=	-1897454950;
 	char	Y91SgN0	=	(char)576978804;
-  unsigned char  m5_9_Q  =  1660215622;
+  unsigned char  m5_9_Q  =  (unsigned char)1660215622;
     unsigned short int    j476T96i    =    1763270122;
   long double  cmx_p  =  1155333084;
   unsigned int  jiwr__  =  -1511316564;
@@ -281,7 +281,7 @@ QETw = R76xKNrvr(1404952893, (unsigned char)-1030121031, -438040422);
 }
 else
 {
-QETw = R76xKNrvr(1265742176, -565154625, 1756350628);
+QETw = R76xKNrvr(1265742176, (unsigned char)-565154625, 1756350628);
 }
 }
 else

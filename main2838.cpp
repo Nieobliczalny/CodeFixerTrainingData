@@ -36,7 +36,7 @@ int main(void) {
  unsigned short int U3V_fDEe5f;
  U3V_fDEe5f = (unsigned short)2034606204;
 	unsigned short int	ji_zj;
-	ji_zj	=	-1394860580;
+	ji_zj	=	(unsigned short)-1394860580;
  unsigned short int MLK0o;
  MLK0o = 1749366143;
  int HRw_;
@@ -58,7 +58,7 @@ int main(void) {
 	short int	mr787E9;
 	mr787E9	=	(short)-951527697;
   unsigned short int  A6rVH3a76M;
-  A6rVH3a76M  =  -664500823;
+  A6rVH3a76M  =  (unsigned short)-664500823;
 	double	yDs7S_9473;
 	yDs7S_9473	=	1091190599;
  float EoC9Xg9Dxj;
@@ -82,7 +82,7 @@ int main(void) {
   unsigned char  UxKW1YHN;
   UxKW1YHN  =  (unsigned char)-1421555324;
 	unsigned short	aGB24r82Ou;
-	aGB24r82Ou	=	-541634907;
+	aGB24r82Ou	=	(unsigned short)-541634907;
  unsigned int wMUV06mz4;
  wMUV06mz4 = 1346130388;
 	int	XvYmOk_t_c;
@@ -98,7 +98,7 @@ int main(void) {
 	unsigned long long	K1l8a9;
 	K1l8a9	=	2140175331;
  short int bYn0Q;
- bYn0Q = -475882383;
+ bYn0Q = (short)-475882383;
     double    IXv_X72;
     IXv_X72    =    -1242313975;
 	unsigned short int	cR8vqJW88;
@@ -148,7 +148,7 @@ int main(void) {
  unsigned short Uuam4;
  Uuam4 = (unsigned short)449753620;
  short a4x0wQK5;
- a4x0wQK5 = -2090781814;
+ a4x0wQK5 = (short)-2090781814;
  char CA4pF5p;
  CA4pF5p = 1943518171;
 	short int	q42FjzKAHM;
@@ -178,7 +178,7 @@ int main(void) {
   unsigned long  Nqv6_GM0h;
   Nqv6_GM0h  =  -2111435431;
   unsigned char  PF8F;
-  PF8F  =  761678106;
+  PF8F  =  (unsigned char)761678106;
   unsigned long  BX8x;
   BX8x  =  2036161575;
     unsigned int    HIm93;
@@ -198,7 +198,7 @@ int main(void) {
   unsigned char  Do7T1LYbHi;
   Do7T1LYbHi  =  (unsigned char)-240377902;
     short    AbI4;
-    AbI4    =    -995728967;
+    AbI4    =    (short)-995728967;
 	int	R7o0;
 	R7o0	=	865412330;
   long  N870Zkv97W;
@@ -365,7 +365,7 @@ case 2:
 P3y_zx %= N3bi61V;
 break;
 case 3:
-HQUA = FJJ9Bi(xP0X, -1638068691, 1406906979, -500671778);
+HQUA = FJJ9Bi(xP0X, -1638068691, (short)1406906979, -500671778);
 break;
 case 4:
 iEWyzAB740 = FJJ9Bi(OvLW60n, -1878449167, qhy1L9_uo, 138696462);

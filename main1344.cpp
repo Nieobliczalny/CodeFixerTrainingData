@@ -68,7 +68,7 @@ Diw29A1 = i88Xa53((short)1815806495, MeEQMf8q__, FbggNp75Wk);
 break;
 case 'f':
 case 'F':
-sJyH9 = FSOD9C9(-1012770884);
+sJyH9 = FSOD9C9((short)-1012770884);
 break;
 case 'g':
 case 'G':
@@ -184,7 +184,7 @@ gWiZ__V7 = (int)abs(uY3Vyx);
 
 if (vHNRWNL7 < -1147287527)
 {
-cout << aYj_Jv33V(-2029181325, (unsigned short)-402146793, V89q1) << "Tq2_f_P_" << i88Xa53((short)-2091964336, -984875449, -1965160011) << i88Xa53(1999418146, 1875643447, V89q1) << endl;
+cout << aYj_Jv33V(-2029181325, (unsigned short)-402146793, V89q1) << "Tq2_f_P_" << i88Xa53((short)-2091964336, -984875449, -1965160011) << i88Xa53((short)1999418146, 1875643447, V89q1) << endl;
 }
 
 cout << "U5radBT_6A" << aYj_Jv33V(678579837, 1248973845, -218232769) << n2_O << endl;

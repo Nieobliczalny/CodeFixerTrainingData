@@ -58,7 +58,7 @@ std::cout << RB5MLbWg << wb_Tnn39k3 << FC34ySGRCK << std::endl;
 
 try
 {
-std::cout << c1c5KD42XE << dvBV(DPqggYF3cp, (unsigned char)-933673436, Jq5_, ABJCW7RpL) << dvBV(DPqggYF3cp, (unsigned char)-2098878599, -587626916, -1784327100) << std::endl;
+std::cout << c1c5KD42XE << dvBV(DPqggYF3cp, (unsigned char)-933673436, Jq5_, ABJCW7RpL) << dvBV(DPqggYF3cp, (unsigned char)-2098878599, -587626916, (unsigned short)-1784327100) << std::endl;
 }
 catch (int& errorCode)
 {
@@ -175,7 +175,7 @@ break;
 }
 }
 m22sXd = (int)abs(JNF59oJ5e);
-mdGglWzhV = k5vwGrw / dvBV(-2127465806, -1117600608, -1038933116, 707106666);
+mdGglWzhV = k5vwGrw / dvBV(-2127465806, (unsigned char)-1117600608, -1038933116, 707106666);
 N5kM48 = dvBV(1307293749, a2B_FKk, s1V4L7_p4o, phkq4X6gXr);
 
 J1z2b = (int)floor(JNF59oJ5e);
@@ -306,7 +306,7 @@ case 6:
 sodsMlb = dvBV(-344980882, (unsigned char)-1701320208, 2125884557, (unsigned short)1970617891);
 break;
 case 7:
-x32T24 = dvBV(297880468, 1617503843, tgcq_rSua, GDpFT3Q1J_);
+x32T24 = dvBV(297880468, (unsigned char)1617503843, tgcq_rSua, GDpFT3Q1J_);
 break;
 default:
 s1V4L7_p4o = (int)floor(H9o4JkhZW1);

@@ -31,7 +31,7 @@ switch (q1sY)
 {
 case 'a':
 case 'A':
-A4W1 = PfPtCmfE((short)2030485448, -1925617202, m3bHR, Q0ZW_H, -1596400525);
+A4W1 = PfPtCmfE((short)2030485448, (char)-1925617202, m3bHR, Q0ZW_H, -1596400525);
 break;
 case 'b':
 case 'B':
@@ -182,7 +182,7 @@ case 'a':
 q9JZm8X3 = (int)abs(YVqudDdF);
 break;
 case 'b':
-u_088 = PfPtCmfE((short)-643078043, -660517533, lJWc1u, g1jeh, qL25w_);
+u_088 = PfPtCmfE((short)-643078043, (char)-660517533, lJWc1u, g1jeh, qL25w_);
 break;
 case 'c':
 s8_r >>= ILdG334qO;
@@ -202,7 +202,7 @@ case 0:
 hpD72K *= THzRC;
 break;
 case 1:
-hpD72K = PfPtCmfE((short)447500604, (char)1597003118, 1054962892, 930185082, -2002031873) / 955521712;
+hpD72K = PfPtCmfE((short)447500604, (char)1597003118, 1054962892, (unsigned char)930185082, -2002031873) / 955521712;
 break;
 case 2:
 T9P_r = tWPGp37m * Q0ZW_H;
@@ -268,7 +268,7 @@ case 0:
 h0tC3_f = sxA2W0TcDS(-590364733, 704208981, mdn5, 402842009, (unsigned short)-711964620);
 break;
 case 1:
-WS99k = sxA2W0TcDS(Z_727ii2M6, z5NBMFV4S6, (unsigned char)1816791557, Q0ZW_H, -734442015);
+WS99k = sxA2W0TcDS(Z_727ii2M6, z5NBMFV4S6, (unsigned char)1816791557, Q0ZW_H, (unsigned short)-734442015);
 break;
 case 2:
 A4W1 = PfPtCmfE(A4W1, hpD72K, Q0ZW_H, YO88TSfX7u, ILdG334qO);

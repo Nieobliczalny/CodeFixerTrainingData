@@ -31,7 +31,7 @@ int main() {
  unsigned short int c2MeAJxA = (unsigned short)1248664381;
     unsigned short    xIBz    =    (unsigned short)1649913728;
     unsigned int    XMej    =    1296100457;
- char vDy70IfK = -559564664;
+ char vDy70IfK = (char)-559564664;
   short  UKfb_C  =  821293888;
 	long double	QC6uNxy	=	-2141512924;
  char uxWxe7k_w = 0;

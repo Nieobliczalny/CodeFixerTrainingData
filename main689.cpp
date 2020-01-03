@@ -22,7 +22,7 @@ int main(int argc, char** argv)
   float  h24g0w  =  -353265152;
     unsigned long    qXuzxAe9    =    -680794012;
   float  BjOd  =  -921538725;
-    short int    gVA1Q    =    -179489654;
+    short int    gVA1Q    =    (short)-179489654;
 	long double	B__CBUcKr7	=	-532737360;
 	double	nSiKb5Eo99	=	-700670008;
   short  i3UrV7x83  =  (short)1361126430;
@@ -32,7 +32,7 @@ int main(int argc, char** argv)
  double w8Kw = 291495145;
     short int    S5dG626g    =    (short)-1482167242;
  long double U6Cdt9_k = -264744055;
-  unsigned short int  A6PfaUvovy  =  -1075676550;
+  unsigned short int  A6PfaUvovy  =  (unsigned short)-1075676550;
     short    jmizhT1b    =    1079441944;
   char  DuH9f0  =  1738776246;
 	short	wEFt421	=	(short)170453061;
@@ -49,7 +49,7 @@ int main(int argc, char** argv)
     float    d0_E_2Rj    =    -1474666474;
  double C5jMV1 = 1918611906;
     double    oS7j    =    -1591638284;
- unsigned short RaClmpu = 1637867689;
+ unsigned short RaClmpu = (unsigned short)1637867689;
   long double  yo9m1o  =  -971914541;
   float  mY9gZ  =  415673405;
   long long  PS5iKgrXtu  =  -515858776;
@@ -60,7 +60,7 @@ int main(int argc, char** argv)
  unsigned long long rL5cVv4cF7 = 848701941;
     unsigned int    t0di    =    -1309715714;
     unsigned char    Rc_n6T7    =    (unsigned char)348667445;
-  unsigned short  okdTwKxdKo  =  -849383435;
+  unsigned short  okdTwKxdKo  =  (unsigned short)-849383435;
 	unsigned short	buCx0	=	-734248762;
  int g334 = -977717002;
  short int VE2d9ysL = (short)-691120472;
@@ -81,7 +81,7 @@ int main(int argc, char** argv)
   short int  Aw87F  =  (short)678317119;
 	long double	fHmAu6iY	=	1410238418;
  unsigned long XVtW = 553331069;
- char tdI4Eg = 2057121671;
+ char tdI4Eg = (char)2057121671;
 	float	RteuNF4	=	158927508;
     unsigned short int    xph5_8Ii42    =    0;
  long long k_ImMa6 = 2146646868;
@@ -329,7 +329,7 @@ B4j_00 = Jh1K(B4j_00, (char)487802357, Rc_n6T7);
 }
 C5jMV1 = U7R7XhSXe % FUcMjz;
 yo9m1o = W656c / twab9B36s;
-Y9XOqPdB = (Aw87F) ? OktQa((unsigned short)142929261, 614426006, Rc_n6T7, B__CBUcKr7) : 783422726;
+Y9XOqPdB = (Aw87F) ? OktQa((unsigned short)142929261, (unsigned short)614426006, Rc_n6T7, B__CBUcKr7) : 783422726;
 
 xph5_8Ii42 = OktQa(-2083051010, qM2fDN, -325501105, A6PfaUvovy);
 
@@ -347,7 +347,7 @@ catch (int& errorCode)
 DuH9f0 = oNg9luFW - 1838904017;
 }
 
-std::cout << J_m8O_((short)-334960127, qM2fDN, -2133041469) << std::endl;
+std::cout << J_m8O_((short)-334960127, qM2fDN, (short)-2133041469) << std::endl;
 {
 int i = 1;
 while (i >= 0)

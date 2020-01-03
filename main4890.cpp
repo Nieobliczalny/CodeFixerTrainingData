@@ -31,7 +31,7 @@ int main()
   double  S_W2;
   S_W2  =  1773692642;
 	unsigned char	Zh9Qg;
-	Zh9Qg	=	392543642;
+	Zh9Qg	=	(unsigned char)392543642;
     short    uwq_rys;
     uwq_rys    =    (short)870838106;
 	short	URQ3w;
@@ -118,7 +118,7 @@ p9v5oi = w8ZLDR85(kHa23X4wS, (unsigned short)-915246268, SOMKm, (unsigned short)
 }
 else if ((ttim1 < 869346702) && ((JK__Q != -1042336649) || (Y8rB34n63h != PS2aEiD)))
 {
-g8pYyi55o = w8ZLDR85(-1160243340, 1202639536, JK__Q, Zh9Qg);
+g8pYyi55o = w8ZLDR85((unsigned short)-1160243340, 1202639536, JK__Q, Zh9Qg);
 }
 else
 {
@@ -169,7 +169,7 @@ ttim1 *= Y8rB34n63h;
 }
 else if (hHJa3NJ_N != 1226874959)
 {
-p9v5oi = w8ZLDR85((unsigned short)1033524953, 1317608905, -433287637, -1973195132);
+p9v5oi = w8ZLDR85((unsigned short)1033524953, (unsigned short)1317608905, -433287637, -1973195132);
 }
 else if (Zh9Qg & URQ3w)
 {
@@ -191,7 +191,7 @@ g8pYyi55o = w8ZLDR85((unsigned short)-1279942243, (unsigned short)-1456850935, J
 }
 
 p9v5oi = (int)(URQ3w * p9v5oi);
-g8pYyi55o = w8ZLDR85(baa_h, -1156464566, -1213387750, -1548904396);
+g8pYyi55o = w8ZLDR85(baa_h, (unsigned short)-1156464566, -1213387750, -1548904396);
 PS2aEiD %= D7aO;
 cout << w8ZLDR85(baa_h, l7u5, -1433811528, 546406029) << JK__Q << "SwPM1" << endl;
 

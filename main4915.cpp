@@ -36,7 +36,7 @@ int main()
   unsigned short  ZKa3N163h;
   ZKa3N163h  =  (unsigned short)1679995583;
  unsigned short U0b2fo;
- U0b2fo = -411095820;
+ U0b2fo = (unsigned short)-411095820;
  char Q1R1n4YtW;
  Q1R1n4YtW = (char)-359479670;
   unsigned char  ty_91A4L;
@@ -60,7 +60,7 @@ int main()
  short e8EYVKU7hZ;
  e8EYVKU7hZ = (short)1956240305;
  short l_39z2fyc;
- l_39z2fyc = -424260162;
+ l_39z2fyc = (short)-424260162;
     unsigned int    xleNg1_8;
     xleNg1_8    =    0;
     long    AzRCTYfHjg;
@@ -74,7 +74,7 @@ int main()
  unsigned short tdrwQl5;
  tdrwQl5 = (unsigned short)-86107533;
 	unsigned short int	FLM_AOb;
-	FLM_AOb	=	1947322224;
+	FLM_AOb	=	(unsigned short)1947322224;
  unsigned short int q94i3s4__;
  q94i3s4__ = -1398486468;
  unsigned long Rp22Sy3g;
@@ -304,7 +304,7 @@ case 'e':
 vC6g5 = je3IZNLAdZ << U8B3lDJMf;
 break;
 case 'f':
-ZKa3N163h = W1p62j_3(ZKa3N163h, -1067405018, 1916300225);
+ZKa3N163h = W1p62j_3(ZKa3N163h, (unsigned short)-1067405018, 1916300225);
 break;
 case 'g':
 A0ztt5U08M = (int)abs(U8B3lDJMf);

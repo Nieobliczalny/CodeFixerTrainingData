@@ -39,7 +39,7 @@ int main(int argc, char** argv) {
 	int	HOlrT2S8T;
 	HOlrT2S8T	=	-964911391;
 	unsigned short	G72nqw0;
-	G72nqw0	=	-831666040;
+	G72nqw0	=	(unsigned short)-831666040;
     long long    Xawix0238J;
     Xawix0238J    =    -1465010870;
   unsigned char  fxki91xcO;
@@ -82,7 +82,7 @@ if (gkwq86ad75(-1429398564, 620138292, ro_rCHA5FR, (unsigned short)-572194062, f
 	ReXMz6 = 1489639173 / gkwq86ad75(-1429398564, 620138292, ro_rCHA5FR, (unsigned short)-572194062, fxki91xcO);
 }
 
-std::cout << gkwq86ad75(1876468069, -718940121, 1692571592, -1090675713, fxki91xcO) << "n_JV8B6jfv" << lElfEpY_(Y9QCfHi78T, Z7_hJfjKx7) << "K56dDvL" << HOlrT2S8T << std::endl;
+std::cout << gkwq86ad75(1876468069, -718940121, (short)1692571592, -1090675713, fxki91xcO) << "n_JV8B6jfv" << lElfEpY_(Y9QCfHi78T, Z7_hJfjKx7) << "K56dDvL" << HOlrT2S8T << std::endl;
 {
 int i = 9;
 while (i >= 0)

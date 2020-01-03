@@ -24,7 +24,7 @@ int main(void) {
     long    h_nE1Ph;
     h_nE1Ph    =    419420477;
   short int  Xj_xcVh1y1;
-  Xj_xcVh1y1  =  -1958285525;
+  Xj_xcVh1y1  =  (short)-1958285525;
   unsigned long  hz4q7l8K_5;
   hz4q7l8K_5  =  657774087;
   unsigned char  V7xEJb8;
@@ -72,7 +72,7 @@ int main(void) {
 	char	T_pF7sRE_;
 	T_pF7sRE_	=	(char)1722281356;
     unsigned char    V9qZT4Dm9;
-    V9qZT4Dm9    =    -1456593202;
+    V9qZT4Dm9    =    (unsigned char)-1456593202;
     char    o1SwM_JGTL;
     o1SwM_JGTL    =    (char)780720776;
 	unsigned long long	uz_R_377;
@@ -120,7 +120,7 @@ int main(void) {
  short int sy3Iu5Bd;
  sy3Iu5Bd = (short)1208765664;
 
-std::cout << f68GggIz(1921542445, -462436314, Xoc4L_0s8t, -1916281306, 135269936) << f68GggIz(F4ZrcZ0, V9qZT4Dm9, Xoc4L_0s8t, qqi4n, Zo7ci7EMk) << h_nE1Ph << f68GggIz(1513779581, 1436575400, Xoc4L_0s8t, 1565920804, 40527957) << std::endl;
+std::cout << f68GggIz(1921542445, (short)-462436314, Xoc4L_0s8t, -1916281306, 135269936) << f68GggIz(F4ZrcZ0, V9qZT4Dm9, Xoc4L_0s8t, qqi4n, Zo7ci7EMk) << h_nE1Ph << f68GggIz(1513779581, 1436575400, Xoc4L_0s8t, 1565920804, 40527957) << std::endl;
 
 ZT88hep = vtlq7 / f68GggIz(F4ZrcZ0, (short)-15213345, Xoc4L_0s8t, -317017436, -493770585);
 

@@ -33,7 +33,7 @@ int main(int argc, char** argv)
 	unsigned long long	rLP87Ns3B	=	-1820636822;
   long long  giYzeh  =  -608190583;
     unsigned char    HZwY7    =    (unsigned char)-541972634;
-    unsigned short int    Iu6ym0MW    =    1302163707;
+    unsigned short int    Iu6ym0MW    =    (unsigned short)1302163707;
   long  a2Pu6U  =  575236417;
 	int	IRMVz_9_H8	=	-1519442870;
 	long long	Hrb71U	=	0;
@@ -46,7 +46,7 @@ int main(int argc, char** argv)
     double    U66a9PGFa    =    -296598196;
     char    Ni_nWr    =    (char)-539483955;
   unsigned long  ZxAhIsz  =  706080813;
-    unsigned char    ZeDvZQ8    =    1219879291;
+    unsigned char    ZeDvZQ8    =    (unsigned char)1219879291;
 
 if ((389418450 / VfC46P3D0x(1586729285)) == 379349452)
 {

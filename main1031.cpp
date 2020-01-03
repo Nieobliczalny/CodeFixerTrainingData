@@ -65,7 +65,7 @@ case 'a':
 X276_iZjy1 = Uj_86u((short)1074527026, 563432783, S7XBvMT2m3, EuRL);
 break;
 case 'b':
-OY_3nZS = m4pGU8(-1399828993, (short)-1517402239, -435665597, jzwLvo, -1784796773);
+OY_3nZS = m4pGU8(-1399828993, (short)-1517402239, -435665597, jzwLvo, (unsigned short)-1784796773);
 break;
 case 'c':
 Z9b1a60b3 = q6bT71(OY_3nZS, -232900992, UM4__f8flm, jzwLvo) | 148664327;
@@ -83,7 +83,7 @@ case 'g':
 c2764 = (OY_3nZS <= -1954755675) ? Uj_86u((short)2146068994, -780050467, UM4__f8flm, (char)-339264729) : j4Ze1id;
 break;
 case 'h':
-K5FA3xR = Uj_86u(UM4__f8flm, -1893795545, ZF41_, -350272040);
+K5FA3xR = Uj_86u(UM4__f8flm, -1893795545, ZF41_, (char)-350272040);
 break;
 case 'i':
 S7XBvMT2m3 <<= y_4xRK;
@@ -151,7 +151,7 @@ jzwLvo = q6bT71(j4Ze1id, A_7Gpo9v, RJ9_Rt, wMm79Kc3F7);
 }
 else if (UM4__f8flm >= 1267398160)
 {
-S7XBvMT2m3 = m4pGU8(1091110109, (short)-923203611, -1001171754, (unsigned short)613225179, 905074239);
+S7XBvMT2m3 = m4pGU8(1091110109, (short)-923203611, -1001171754, (unsigned short)613225179, (unsigned short)905074239);
 }
 else
 {
@@ -193,7 +193,7 @@ case 5:
 K5FA3xR = m4pGU8(-1710620892, ap9AV5, -1079215622, (unsigned short)2048432894, (unsigned short)-1114007684);
 break;
 case 6:
-yvU365 = m4pGU8(yvU365, IaW8hV5, 442720216, -1750703181, IS1Z);
+yvU365 = m4pGU8(yvU365, IaW8hV5, 442720216, (unsigned short)-1750703181, IS1Z);
 break;
 }
 }
@@ -214,7 +214,7 @@ if (EuRL)
 {
 if (jzwLvo <= 1958331754)
 {
-ZF41_ = q6bT71((unsigned char)1542725444, 1118651145, -1201549141, 773292854);
+ZF41_ = q6bT71((unsigned char)1542725444, (short)1118651145, -1201549141, 773292854);
 }
 else if (E1i_Mup7t != -1004456815)
 {
@@ -343,7 +343,7 @@ case 5:
 X276_iZjy1 = IaW8hV5 + Z9b1a60b3;
 break;
 case 6:
-UM4__f8flm = q6bT71(yvU365, VS7k, 931803515, -2122906135);
+UM4__f8flm = q6bT71(yvU365, VS7k, 931803515, (char)-2122906135);
 break;
 case 7:
 bUwl = m4pGU8(bUwl, (short)-765177258, IaW8hV5, UM4__f8flm, (unsigned short)-1866057178);
@@ -374,7 +374,7 @@ E1i_Mup7t = m4pGU8(E1i_Mup7t, (short)-1991534192, 999514898, (unsigned short)164
 
 try
 {
-x_35_X = q6bT71(-965537167, -116368589, 729625574, c2764) % 905142229;
+x_35_X = q6bT71((unsigned char)-965537167, -116368589, 729625574, c2764) % 905142229;
 }
 catch (int& errorCode)
 {

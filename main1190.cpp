@@ -57,7 +57,7 @@ hNiS = TPKtsFul65(hNiS, ycnk2, n7hR0y7);
 
 if (hH7w4Y_B6 == 1131833525)
 {
-std::cout << TPKtsFul65((short)-813502135, ycnk2, 791131385) << TPKtsFul65((short)-119720978, 109128282, 185868362) << TPKtsFul65(-1937757051, 2005268050, n7hR0y7) << "GI09mS" << std::endl;
+std::cout << TPKtsFul65((short)-813502135, ycnk2, 791131385) << TPKtsFul65((short)-119720978, 109128282, 185868362) << TPKtsFul65((short)-1937757051, 2005268050, n7hR0y7) << "GI09mS" << std::endl;
 }
 
 if (btJZg() == 0)
@@ -116,7 +116,7 @@ case 7:
 E29V0hcFF8 = f_yBVuBC(-82691250, (unsigned short)1710533827);
 break;
 case 8:
-G2V76s2Ft = jgwPS(G2V76s2Ft, 2146855815, -325195071, sFpaa);
+G2V76s2Ft = jgwPS(G2V76s2Ft, (char)2146855815, -325195071, sFpaa);
 break;
 default:
 cs_U = jgwPS(-1188878168, tEr61X9dX, K1qC, NUnc79w_77);
@@ -128,7 +128,7 @@ try
 {
 for (int j = 9; j >= 0; j--)
 {
-U3_9X = jgwPS((unsigned char)-53705224, (char)-1437715475, R_17UOZ, 636919220);
+U3_9X = jgwPS((unsigned char)-53705224, (char)-1437715475, R_17UOZ, (unsigned short)636919220);
 }
 }
 catch (int& errorCode)
@@ -147,7 +147,7 @@ gw4914U9 = (P963tT2 & Tf9B3H) ? TPKtsFul65(U3_9X, prb59, R_17UOZ) : ycnk2;
 }
 else
 {
-hNiS = jgwPS((unsigned char)-1128304271, (char)-1877850249, 1753922881, Tf9B3H) ^ zMJye_47;
+hNiS = jgwPS((unsigned char)-1128304271, (char)-1877850249, (char)1753922881, Tf9B3H) ^ zMJye_47;
 }
 }
 catch (int& errorCode)
@@ -170,7 +170,7 @@ case 0:
 hNiS = TPKtsFul65(hNiS, K1qC, v49RIX2wk);
 break;
 case 1:
-NUnc79w_77 = jgwPS((unsigned char)209301823, Ym9_ODNfr, (char)-1713956935, -1492341602);
+NUnc79w_77 = jgwPS((unsigned char)209301823, Ym9_ODNfr, (char)-1713956935, (unsigned short)-1492341602);
 break;
 case 2:
 E29V0hcFF8 = TPKtsFul65(-427902351, P963tT2, Blfnw3l);
@@ -205,7 +205,7 @@ i++;
 }
 while (i < 2);
 }
-gw4914U9 = jgwPS((unsigned char)2130051911, (char)887958013, hNiS, -714802081);
+gw4914U9 = jgwPS((unsigned char)2130051911, (char)887958013, hNiS, (unsigned short)-714802081);
 if (((E29V0hcFF8 > -686547285) && (P963tT2 & zMJye_47)) && ((Blfnw3l == Ym9_ODNfr) && (ycnk2 != 617309453)))
 {
 for (int j = 0; j < 8; j++)

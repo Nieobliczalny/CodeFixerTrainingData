@@ -55,7 +55,7 @@ case 1:
 k1_Zv__qY = aX_28u_(-1433096311, (short)-1402782794, (char)-1259095189);
 break;
 case 2:
-SY2DnHu158 = F03H(SY2DnHu158, k1_Zv__qY, B6_l, -1917627220);
+SY2DnHu158 = F03H(SY2DnHu158, k1_Zv__qY, B6_l, (unsigned char)-1917627220);
 break;
 case 3:
 pech5_i ^= 960047398;
@@ -86,7 +86,7 @@ case 0:
 pech5_i = QCf9K((unsigned short)-1347256499, 899099887, 1480993996, SY2DnHu158, (char)-858190305);
 break;
 case 1:
-SY2DnHu158 = aX_28u_(-1476795292, -167607051, 1479719973);
+SY2DnHu158 = aX_28u_(-1476795292, (short)-167607051, 1479719973);
 break;
 case 2:
 xD01Lnp01 = aX_28u_(-1417296132, -1560778203, 920909789);
@@ -231,7 +231,7 @@ case 4:
 xD01Lnp01 ^= pech5_i;
 break;
 case 5:
-SY2DnHu158 = aX_28u_(SY2DnHu158, (short)-2028828852, -746119251);
+SY2DnHu158 = aX_28u_(SY2DnHu158, (short)-2028828852, (char)-746119251);
 break;
 default:
 k1_Zv__qY |= SY2DnHu158;

@@ -17,7 +17,7 @@ int main()
  double SFbm8f5Gi = -726120157;
 	long long	uCvnVV	=	-374170968;
   double  xSECa_m  =  -1686536461;
-  short  prIqVu  =  1010954722;
+  short  prIqVu  =  (short)1010954722;
 	unsigned short	xNqEa8m	=	-495777523;
   short  X57297Y_  =  11850253;
 	char	jDPG	=	99408148;
@@ -28,7 +28,7 @@ int main()
   unsigned short int  DaJ47477  =  (unsigned short)1349730715;
   long long  BT1yf  =  -59425929;
     int    CmUw    =    280944628;
-  unsigned short int  OS3OZ  =  1839778339;
+  unsigned short int  OS3OZ  =  (unsigned short)1839778339;
   char  R7NJ19I2jm  =  -449649089;
 	char	G43q	=	1497685240;
     unsigned char    rE4U0Fi    =    -2128331019;
@@ -38,7 +38,7 @@ int main()
  short Qp4RiJf = (short)610898140;
     long double    J8E2eHr    =    1295669040;
 	unsigned char	iuu9Gb	=	-1109449699;
- short int Suy2 = -109532675;
+ short int Suy2 = (short)-109532675;
     int    X778Dtu75Y    =    793758596;
  unsigned char s_UG__3U = -2130984424;
  short n3u2Ac33m = -143969906;
@@ -48,7 +48,7 @@ int main()
   char  dqAoY  =  (char)-786626650;
  int y9VP84l = -1316995479;
   unsigned char  I4Mbx8MdU  =  (unsigned char)-936513617;
-    unsigned char    x2ZF    =    -458125224;
+    unsigned char    x2ZF    =    (unsigned char)-458125224;
 	long double	W2IA	=	868420684;
 	long long	n8Z8	=	0;
 	unsigned long	l7xcgTC2	=	374723965;
@@ -63,7 +63,7 @@ int main()
  long long X1dLa = -51036089;
     unsigned long long    Z_N83    =    -538240976;
   unsigned int  NkEvI5  =  1070607616;
-	unsigned short	fI8bu4QD8	=	1495512959;
+	unsigned short	fI8bu4QD8	=	(unsigned short)1495512959;
   unsigned int  igNg  =  1941054000;
 	short	RTr05	=	-34149086;
   char  Y_dP25JWBU  =  (char)-11473021;
@@ -78,7 +78,7 @@ int main()
  double V_c048_J7u = -1537570123;
     char    lHV6N_k    =    (char)1789486497;
  long long bc1ZJ69_0x = 889003155;
-    short int    b0s801    =    1673393273;
+    short int    b0s801    =    (short)1673393273;
   long long  E11j1Vog  =  615740898;
 	short	qWE74DPL0	=	(short)1549424344;
     long double    lUkFO    =    116021572;

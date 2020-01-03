@@ -25,7 +25,7 @@ int main(int argc, char** argv) {
 	short	OF1Bn,	Y03Q,	LstbGCNQ6P,	pOrWC3H55,	V7W98Fw,	YrI3i,	A707GNM,	ltGfnbZ6ZQ,	psfT7FdGT,	BwNaUj,	B5GP5B3kch,	x41hb,	Eku0Y_8v,	fbQIn6,	XBhMCSHx,	wrMuB4kg9M,	rEemGzvmBQ,	RFFwuja3,	MBtgTKYG,	B2v16x,	F112cVUg8,	D7Y4_53iX,	eyjPf2,	WrwO5hEUNg,	XxMQ4u,	Ec1uGD_ys,	X6iSjifhL,	pM4K4,	f3X9_WwIzb,	GWJnX,	DbIc32,	Zs2t_Th,	GX1v,	d4M3rH9C_p,	I8DRFvrp95,	IYtDodizY7,	z202aU,	s95pIvq8,	zhMvUL6F,	bw_B60hwn,	Y27j86X,	JF8PP94_,	VdCQ_Iq,	kZay,	v0v4QIWR,	mAK8wN,	dy4VF,	r44op7C;
 	OF1Bn	=	(short)-759961603;
 	Y03Q	=	(short)845035003;
-	LstbGCNQ6P	=	1565611253;
+	LstbGCNQ6P	=	(short)1565611253;
 	pOrWC3H55	=	-888982338;
 	V7W98Fw	=	-243636095;
 	YrI3i	=	-1619459462;
@@ -35,7 +35,7 @@ int main(int argc, char** argv) {
 	BwNaUj	=	1658926305;
 	B5GP5B3kch	=	(short)-1031984502;
 	x41hb	=	(short)2139300256;
-	Eku0Y_8v	=	-1027794595;
+	Eku0Y_8v	=	(short)-1027794595;
 	fbQIn6	=	240893501;
 	XBhMCSHx	=	1111517222;
 	wrMuB4kg9M	=	-636665210;
@@ -45,7 +45,7 @@ int main(int argc, char** argv) {
 	B2v16x	=	321119973;
 	F112cVUg8	=	(short)-127256275;
 	D7Y4_53iX	=	(short)1045617913;
-	eyjPf2	=	-1081669826;
+	eyjPf2	=	(short)-1081669826;
 	WrwO5hEUNg	=	-749177551;
 	XxMQ4u	=	-1282838869;
 	Ec1uGD_ys	=	-2000512397;
@@ -55,7 +55,7 @@ int main(int argc, char** argv) {
 	GWJnX	=	-1240803111;
 	DbIc32	=	(short)-1785475680;
 	Zs2t_Th	=	(short)1185765769;
-	GX1v	=	787691304;
+	GX1v	=	(short)787691304;
 	d4M3rH9C_p	=	733918242;
 	I8DRFvrp95	=	857582660;
 	IYtDodizY7	=	-1441691087;
@@ -65,7 +65,7 @@ int main(int argc, char** argv) {
 	bw_B60hwn	=	357220268;
 	Y27j86X	=	(short)-110121141;
 	JF8PP94_	=	(short)-1023061650;
-	VdCQ_Iq	=	-274030233;
+	VdCQ_Iq	=	(short)-274030233;
 	kZay	=	-1514039537;
 	v0v4QIWR	=	-103890877;
 	mAK8wN	=	1414917478;
@@ -96,7 +96,7 @@ JF8PP94_ = (short)(eyjPf2);
 dy4VF = dLvwzFoKY((short)385813099, A707GNM, r44op7C, (unsigned short)945366998, rEemGzvmBQ);
 if (GX1v & Eku0Y_8v)
 {
-X6iSjifhL = dLvwzFoKY(X6iSjifhL, H9oxT7h_, IYtDodizY7, 667233316, -1733252224);
+X6iSjifhL = dLvwzFoKY(X6iSjifhL, H9oxT7h_, IYtDodizY7, (unsigned short)667233316, -1733252224);
 }
 
 {
@@ -136,7 +136,7 @@ i--;
 while (i >= 0);
 }
 
-I2yyd_E = mbKr_s0y(-1811525689, D7Y4_53iX, -1639356677);
+I2yyd_E = mbKr_s0y((short)-1811525689, D7Y4_53iX, -1639356677);
 {
 int i = 0;
 do

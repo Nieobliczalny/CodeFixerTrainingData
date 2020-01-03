@@ -19,7 +19,7 @@ unsigned short  f2V_(unsigned long long  iX7pRkL,unsigned char  iU6Gg_09N)  {
 }
 
 char pAh0hujg_1() {
- return -969991596;
+ return (char)-969991596;
 }
 
 char    j8h5Bl(long    V5YNFu,int    OId12YMh)

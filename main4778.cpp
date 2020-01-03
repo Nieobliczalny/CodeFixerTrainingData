@@ -74,7 +74,7 @@ if (wclrE8_tD & gPQ4c_9)
 int j = 0;
 while (j < 8)
 {
-std::cout << "o8Kk01" << "gqvyiD" << N50btIT9h << qM9U_8i((unsigned short)1809146895, cUNxs0477O, (char)1086759012) << qM9U_8i(-935201979, cUNxs0477O, ZKo9ACCS) << std::endl;
+std::cout << "o8Kk01" << "gqvyiD" << N50btIT9h << qM9U_8i((unsigned short)1809146895, cUNxs0477O, (char)1086759012) << qM9U_8i((unsigned short)-935201979, cUNxs0477O, ZKo9ACCS) << std::endl;
 ++j;
 }
 }
@@ -97,7 +97,7 @@ case 2:
 P4v2z = VPwFHx_(673173533, GQk4m42M7, (unsigned char)1453033731, N50btIT9h);
 break;
 case 3:
-YJ30 = qM9U_8i((unsigned short)1586499367, GQk4m42M7, -888020060) >> 874887736;
+YJ30 = qM9U_8i((unsigned short)1586499367, GQk4m42M7, (char)-888020060) >> 874887736;
 break;
 case 4:
 GQk4m42M7 = qM9U_8i(-910828808, gPQ4c_9, Zh14);
@@ -244,7 +244,7 @@ case 4:
 wclrE8_tD = qM9U_8i(wclrE8_tD, uzT7, ZKo9ACCS);
 break;
 case 5:
-Nvr3 = qM9U_8i((unsigned short)-1526508560, -1292726544, TgK_Tr);
+Nvr3 = qM9U_8i((unsigned short)-1526508560, (short)-1292726544, TgK_Tr);
 break;
 }
 

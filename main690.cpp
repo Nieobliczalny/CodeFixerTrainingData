@@ -277,7 +277,7 @@ PTY7L1tc2m = e9Av9_8pjX << Uq4b__;
 break;
 case 'b':
 case 'B':
-mwAvf = SbaSHnD3V(1350659552, 194705326, (short)-569647406, (unsigned char)-490962056, -2007854773);
+mwAvf = SbaSHnD3V(1350659552, 194705326, (short)-569647406, (unsigned char)-490962056, (unsigned short)-2007854773);
 break;
 case 'c':
 case 'C':

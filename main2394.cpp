@@ -27,7 +27,7 @@ int main(void)
 	double	cpNRt;
 	cpNRt	=	-377446018;
  short ouH5_ZU;
- ouH5_ZU = 1482622195;
+ ouH5_ZU = (short)1482622195;
  unsigned short doG3HurV;
  doG3HurV = (unsigned short)-1404060545;
   int  u9066SeB45;
@@ -59,7 +59,7 @@ int main(void)
   unsigned char  PZU_D;
   PZU_D  =  0;
     unsigned char    i1VLb69;
-    i1VLb69    =    1318092526;
+    i1VLb69    =    (unsigned char)1318092526;
     long double    k_21sKat;
     k_21sKat    =    1956645471;
     short    JzWtAB;
@@ -134,7 +134,7 @@ case 'c':
 PZU_D = Pe2n(JzWtAB, 1761500106, 298605209, 1446765788, (short)-914460569);
 break;
 case 'd':
-PZU_D = Pe2n(-1012805019, 1457287023, B9VAzgE, 563352911, 318637805);
+PZU_D = Pe2n((unsigned short)-1012805019, 1457287023, B9VAzgE, 563352911, 318637805);
 break;
 case 'e':
 PZU_D = Pe2n((unsigned short)-1227248138, u9066SeB45, 1226371962, -1387625177, 602202353);
@@ -154,7 +154,7 @@ cout << gr7eVN << gr7eVN << O_i01gaFS << "f6F70" << "o8h8" << endl;
 
 PZU_D = Pe2n((unsigned short)847865778, 1665146686, O_i01gaFS, gr7eVN, cpNRt);
 
-PZU_D = Pe2n(paEZh, hBo9EL, -755989196, i1VLb69, -77527764);
+PZU_D = Pe2n(paEZh, hBo9EL, -755989196, i1VLb69, (short)-77527764);
 
 {
 int i = 5;

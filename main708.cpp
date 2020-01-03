@@ -198,7 +198,7 @@ for (int j = 0; j < 6; ++j)
 {
 try
 {
-G_Dny = HWT4q93K(-353038635, ls9TZhmV55, xLbUU, -782119995, 1032214150);
+G_Dny = HWT4q93K(-353038635, ls9TZhmV55, xLbUU, (unsigned char)-782119995, 1032214150);
 }
 catch (int& errorCode)
 {

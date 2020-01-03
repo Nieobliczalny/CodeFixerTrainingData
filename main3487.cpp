@@ -52,7 +52,7 @@ int main() {
  unsigned char xyid1_7X2u;
  xyid1_7X2u = (unsigned char)-248134847;
 	unsigned short	w8A4r;
-	w8A4r	=	1925148563;
+	w8A4r	=	(unsigned short)1925148563;
 	long	DLfEcsM;
 	DLfEcsM	=	-1507516999;
   unsigned int  gZ8gGOnhW;

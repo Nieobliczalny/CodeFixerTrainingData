@@ -24,7 +24,7 @@ int main(int argc, char** argv)
 	long long	tt3IrO	=	165207396;
     short    HuQnQ6es    =    (short)-1198677995;
 	unsigned int	gl1I162	=	-1237307807;
-    unsigned char    KV_RuV9    =    -648661077;
+    unsigned char    KV_RuV9    =    (unsigned char)-648661077;
     unsigned char    LbmvgoHv    =    -646445428;
 	unsigned short int	eY20	=	1969739594;
  float tPCM = 453194645;
@@ -36,7 +36,7 @@ int main(int argc, char** argv)
   char  LG23  =  (char)58774650;
   unsigned short  FP36S  =  (unsigned short)1839966357;
  int yFU1TjN0q1 = -338471852;
-  unsigned short  Mp91ll9  =  -283194497;
+  unsigned short  Mp91ll9  =  (unsigned short)-283194497;
  double xP38A5x_D = -1710584208;
   unsigned int  YWrI6R0  =  -2117363150;
     unsigned long long    i8zuMO    =    2133901244;
@@ -48,7 +48,7 @@ int main(int argc, char** argv)
  short int JKP2 = 927779941;
 	int	cJDK45	=	1762813255;
 	unsigned long	MuFDQTn	=	-1937604714;
- unsigned short int JpBaOV1 = -49070443;
+ unsigned short int JpBaOV1 = (unsigned short)-49070443;
     long long    Cf8ctuxQ    =    814105266;
 	char	ybWB6K	=	0;
 	double	C8QS3	=	486551591;
@@ -65,7 +65,7 @@ int main(int argc, char** argv)
   float  yxV52uC_6  =  -1865076099;
     unsigned long    Jkk689    =    733796216;
  short O0o3E2b = (short)-1921341678;
-	short	z_5p3Mc_J	=	-1354871933;
+	short	z_5p3Mc_J	=	(short)-1354871933;
   int  nhG__s  =  1023156908;
 	short	F0_3d5	=	-1857624388;
     unsigned char    FkrfO3u9_3    =    -948345604;
@@ -81,7 +81,7 @@ int main(int argc, char** argv)
     unsigned short int    PN55    =    (unsigned short)-115478206;
   unsigned short  tesoL2wc7Y  =  (unsigned short)711463415;
 	unsigned long	m_I9_0zC6W	=	-266707513;
- unsigned char pKW841CY = -186790210;
+ unsigned char pKW841CY = (unsigned char)-186790210;
  long double hOLreE = -904145007;
   double  ei9drUI  =  1264319702;
  float HHK034Z = -524698169;
@@ -191,7 +191,7 @@ case 7:
 tesoL2wc7Y = Sm97_sPre((short)-1952933673, (char)1967701840, GQfe, pKW841CY, JpBaOV1);
 break;
 case 8:
-tt3IrO = Sm97_sPre(-1888926775, -795560442, -1975903633, 579520420, -1021546385);
+tt3IrO = Sm97_sPre((short)-1888926775, -795560442, -1975903633, 579520420, -1021546385);
 break;
 case 9:
 z_5p3Mc_J = Sm97_sPre(z_5p3Mc_J, 832443416, GQfe, JpBaOV1, m_I9_0zC6W);
@@ -243,7 +243,7 @@ else
 switch (Mp91ll9)
 {
 case 0:
-disgmo_f = Sm97_sPre((short)-961086960, (char)-1562660471, r0M_u, 1032968886, YWrI6R0);
+disgmo_f = Sm97_sPre((short)-961086960, (char)-1562660471, r0M_u, (char)1032968886, YWrI6R0);
 break;
 case 1:
 bj1Mm = CStzP8 - l6n771cV;

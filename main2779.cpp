@@ -63,7 +63,7 @@ C1JBBrV_ = Lf59n - M1n6ah15;
 break;
 case 'e':
 case 'E':
-O3NP3K = N2_Pu159(O3NP3K, C1JBBrV_, g_PHKzilq7, 127029493, 688865764);
+O3NP3K = N2_Pu159(O3NP3K, C1JBBrV_, g_PHKzilq7, 127029493, (unsigned short)688865764);
 break;
 case 'f':
 case 'F':

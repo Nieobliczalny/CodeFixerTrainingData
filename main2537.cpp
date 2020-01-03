@@ -31,7 +31,7 @@ try
 {
 if (QfCPO3vG != yC3R)
 {
-IAvvG = LBRiH6TU1((short)2048798156, (unsigned short)-1459720375, B18l, 479034068, -776095033);
+IAvvG = LBRiH6TU1((short)2048798156, (unsigned short)-1459720375, B18l, 479034068, (unsigned char)-776095033);
 }
 }
 catch (int& errorCode)
@@ -179,7 +179,7 @@ GI48_N = LBRiH6TU1((short)1835313942, z1Mi, ojDDDR, RNfP, (unsigned char)1320836
 }
 else if (QfCPO3vG == 85346156)
 {
-rTeTXwXT = W_9cvZw(-2003214539, 22594952, cJdkJOI, 1259994950);
+rTeTXwXT = W_9cvZw(-2003214539, 22594952, cJdkJOI, (char)1259994950);
 }
 else
 {

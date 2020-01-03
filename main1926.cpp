@@ -281,7 +281,7 @@ w_9q2 = L8Rl1(-1460985716, f17kbnHT, (unsigned short)-1330295693);
 }
 else if (r692 & Us3Y9A_M)
 {
-r692 = WX7WS((unsigned short)17622886, 1333882095);
+r692 = WX7WS((unsigned short)17622886, (short)1333882095);
 }
 else
 {

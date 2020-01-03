@@ -53,7 +53,7 @@ int main(void)
     double    Z79r;
     Z79r    =    1739797245;
  unsigned short int vj4PI;
- vj4PI = -1128769279;
+ vj4PI = (unsigned short)-1128769279;
  short Tdx_0W1;
  Tdx_0W1 = 491528396;
     long    FFU4z3;

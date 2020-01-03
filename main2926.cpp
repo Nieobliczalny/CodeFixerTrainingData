@@ -25,7 +25,7 @@ int main() {
   short int  XSQ8ps,  JFjs7g0,  ApfS9IrKM,  Rswxc,  N58TV8n_o0,  c3z7_hy,  xOFjoy3_ia,  ssVCj40,  xyRb1Rj,  aQS9TZuIS_,  f9nCK9ke,  OYCY,  copd,  v6__Xt4PYA,  ppkIxy0,  z90N4SD5,  hB_ZX,  IsX863hH,  k1jur,  mn42BpM6k,  UNqtnIgn,  D55t,  Vg1d,  yf1wwx,  rpQxlf,  d_dBn85Q,  m1_a02u,  FcD2a,  t65Hf,  OBD67,  QdUJZKm26L,  xGKkD,  yYOD,  RMNF,  W2pU_oXR9,  ZPNNQ0t5c,  eCj3htlQ7V,  xjH9qXQz9,  w626K,  E9q58,  ozM7SXM0,  qcZgKo8I,  EmjV1,  l9Q98K,  S1UI6Z7i3W,  yiHAx7,  tr9Ort,  M91n6_,  r0e5,  ayD3x8,  xW_26syls,  sY4PU346,  Z88_8fO9,  Dh9_x3D,  BWq3,  H_ef,  c3hw3,  PrTXu4,  P6ym,  tfhx8ci;
   XSQ8ps  =  (short)-135202410;
   JFjs7g0  =  (short)-1884701946;
-  ApfS9IrKM  =  -66603014;
+  ApfS9IrKM  =  (short)-66603014;
   Rswxc  =  591134597;
   N58TV8n_o0  =  840962067;
   c3z7_hy  =  -488797327;
@@ -35,7 +35,7 @@ int main() {
   aQS9TZuIS_  =  -1288068843;
   f9nCK9ke  =  (short)1253883975;
   OYCY  =  (short)-1542406226;
-  copd  =  -794278681;
+  copd  =  (short)-794278681;
   v6__Xt4PYA  =  1893614185;
   ppkIxy0  =  -169646907;
   z90N4SD5  =  -1335761904;
@@ -45,7 +45,7 @@ int main() {
   mn42BpM6k  =  939772461;
   UNqtnIgn  =  (short)242430854;
   D55t  =  (short)-132973206;
-  Vg1d  =  2092202145;
+  Vg1d  =  (short)2092202145;
   yf1wwx  =  -1622277759;
   rpQxlf  =  -1782577279;
   d_dBn85Q  =  -505307402;
@@ -55,7 +55,7 @@ int main() {
   OBD67  =  56363436;
   QdUJZKm26L  =  (short)-1905529002;
   xGKkD  =  (short)581162517;
-  yYOD  =  1196384320;
+  yYOD  =  (short)1196384320;
   RMNF  =  2066526645;
   W2pU_oXR9  =  -2064003239;
   ZPNNQ0t5c  =  -579131;
@@ -65,7 +65,7 @@ int main() {
   E9q58  =  -536730509;
   ozM7SXM0  =  (short)1359012880;
   qcZgKo8I  =  (short)-387728394;
-  EmjV1  =  -1713911625;
+  EmjV1  =  (short)-1713911625;
   l9Q98K  =  -428289412;
   S1UI6Z7i3W  =  -680890437;
   yiHAx7  =  -817741392;
@@ -75,7 +75,7 @@ int main() {
   ayD3x8  =  -410880646;
   xW_26syls  =  (short)1454403674;
   sY4PU346  =  (short)-3064064;
-  Z88_8fO9  =  -1807323402;
+  Z88_8fO9  =  (short)-1807323402;
   Dh9_x3D  =  2039975954;
   BWq3  =  -303763159;
   H_ef  =  325624970;
@@ -291,7 +291,7 @@ case 1:
 lkMCUu = Ok7OBQ(IsX863hH, 1041676721, H_ef);
 break;
 case 2:
-lkMCUu = Ok7OBQ((unsigned short)581114546, w626K, -1764483217);
+lkMCUu = Ok7OBQ((unsigned short)581114546, w626K, (char)-1764483217);
 break;
 case 3:
 ZPNNQ0t5c = sJO0hbz8vc(-765127049);

@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
  short qe3nY = (short)-353506640;
 	long long	dBEOVNUBA0	=	-1748699558;
     char    dl35Cl_hdK    =    (char)-2135229941;
-    unsigned char    WCElwQ9W    =    -36577356;
+    unsigned char    WCElwQ9W    =    (unsigned char)-36577356;
  unsigned char bNr4ZdZ60 = 939506564;
   unsigned short int  SE0jz4Y  =  -177858693;
   long  o955932  =  -1931552373;
@@ -46,7 +46,7 @@ int main(int argc, char** argv) {
     short int    nZxLzVks    =    0;
 	unsigned short int	Q56td	=	(unsigned short)-781066448;
   unsigned char  W8YU2c  =  (unsigned char)-469250298;
-    unsigned short    Ilmf    =    958987335;
+    unsigned short    Ilmf    =    (unsigned short)958987335;
   long long  wwx2e_ZJF4  =  -126819281;
   long double  P2v_o6e3EA  =  -390077421;
 	float	viv7Q	=	563549996;
@@ -58,7 +58,7 @@ int main(int argc, char** argv) {
   unsigned short int  d6kTNJ7FD  =  (unsigned short)499633749;
  long long wZ64 = 1278937347;
     short int    NV594YTYVg    =    (short)1611290748;
-    unsigned short    Gh3s    =    -1493831687;
+    unsigned short    Gh3s    =    (unsigned short)-1493831687;
  short oH5B = -719065884;
   short int  g3PvOo  =  0;
   float  r2Ysgi  =  -448028712;
@@ -73,7 +73,7 @@ int main(int argc, char** argv) {
     float    z1X0586dZ    =    -20308004;
 	long double	S8EBNVGk	=	-1347915933;
 	long	gDfR	=	1499908364;
- unsigned char Ps2ScnPC_7 = -1931368286;
+ unsigned char Ps2ScnPC_7 = (unsigned char)-1931368286;
   int  n88Eiwbj  =  139598130;
  int e3T_JO74aF = 86021272;
   long long  VqPEjAoY  =  -914820663;
@@ -310,7 +310,7 @@ case 0:
 GpVt >>= bNr4ZdZ60;
 break;
 case 1:
-dBEOVNUBA0 = EMs5FAqw43((short)-733211862, -2144462614, A5AQunZvA4, (short)882881849, -1313871834);
+dBEOVNUBA0 = EMs5FAqw43((short)-733211862, -2144462614, A5AQunZvA4, (short)882881849, (short)-1313871834);
 break;
 case 2:
 zZwjA_M6L = (int)floor(Bd_27Xgpf);
@@ -675,7 +675,7 @@ S8EBNVGk = IuM1((unsigned short)-1189905837);
 }
 else if (Gh3s & -977491875)
 {
-z0wIK1D = EMs5FAqw43(z0wIK1D, iE5QgG06Dy, 431609566, -2075173226, wjF0xRG_4x);
+z0wIK1D = EMs5FAqw43(z0wIK1D, iE5QgG06Dy, 431609566, (short)-2075173226, wjF0xRG_4x);
 }
 else if (((nZxLzVks > Y08qrbRX) && (m_2Es14_Y_)) || (xn27 < -1786804269))
 {

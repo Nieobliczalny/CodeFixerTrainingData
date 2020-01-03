@@ -28,7 +28,7 @@ case 0:
 t8KFMk1bq = jS8l0b3T6(E3iy8B40, fNtX6Qy, ZKZC2892U, Ye5v82bgvF);
 break;
 case 1:
-m7AYIndWYJ = jS8l0b3T6(933887996, rpMfte, (char)987332485, 1532590275);
+m7AYIndWYJ = jS8l0b3T6(933887996, rpMfte, (char)987332485, (short)1532590275);
 break;
 case 2:
 VxU7g7VZ <<= b6Q9zeWUA;
@@ -77,7 +77,7 @@ case 1:
 m7AYIndWYJ = jS8l0b3T6(NudW_2B, Z5pM_Y, OWw038J, (short)-712886300);
 break;
 case 2:
-pm_cZf = jS8l0b3T6(pm_cZf, 397930157, (char)937708008, 2063985346);
+pm_cZf = jS8l0b3T6(pm_cZf, 397930157, (char)937708008, (short)2063985346);
 break;
 case 3:
 Ad9a0ki2UT = Tc4V & 1204931316;

@@ -339,7 +339,7 @@ catch (int& errorCode)
 FR396 = bImnt6WEb(FR396);
 }
 
-e2cvd_ = JR2_5E((short)-2070147472, (unsigned short)875596435, -1119641870, -788702124, X1N9s4Di8);
+e2cvd_ = JR2_5E((short)-2070147472, (unsigned short)875596435, -1119641870, (unsigned char)-788702124, X1N9s4Di8);
 try
 {
 for (int j = 7; j >= 0; j--)

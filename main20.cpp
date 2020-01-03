@@ -94,7 +94,7 @@ break;
 }
 else
 {
-std::cout << "yo0C8m" << ui3CODor << lFWEWkp9(WZW12SF, L7dwrA_q_I, (char)-271380818, O5hw, -229135063) << "Rvr5O5" << std::endl;
+std::cout << "yo0C8m" << ui3CODor << lFWEWkp9(WZW12SF, L7dwrA_q_I, (char)-271380818, O5hw, (unsigned short)-229135063) << "Rvr5O5" << std::endl;
 }
 p4hxBJHyM |= 580622862;
 
@@ -231,7 +231,7 @@ break;
 p4hxBJHyM = lFWEWkp9(O5hw, WZW12SF, y7777, -1878332021, (unsigned short)-129257884);
 for (int i = 0; i < 10; i++)
 {
-std::cout << lFWEWkp9(O5hw, 1359439198, 668295933, L7dwrA_q_I, 1469091673) << ui3CODor << std::endl;
+std::cout << lFWEWkp9(O5hw, 1359439198, (char)668295933, L7dwrA_q_I, 1469091673) << ui3CODor << std::endl;
 }
 {
 int i = 9;

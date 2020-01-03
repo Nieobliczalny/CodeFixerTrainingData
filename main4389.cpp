@@ -110,7 +110,7 @@ bjwd = xcKrcr48pc((unsigned short)1283315402);
 }
 else
 {
-B1chGF = kI8oQ7SYo_(43392536, (unsigned char)-456053572, 1308619508, -977437932, -1385784535);
+B1chGF = kI8oQ7SYo_(43392536, (unsigned char)-456053572, 1308619508, (unsigned char)-977437932, -1385784535);
 }
 }
 while (j >= 0);

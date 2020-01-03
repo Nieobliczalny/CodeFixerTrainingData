@@ -116,7 +116,7 @@ int main()
   UrN1_  =  0;
 
 Oul_Tw2CA = 750964001 / ng4p_S7((short)1454368608, (unsigned short)-475476496, 834830624, -196306042, fvivU);
-std::cout << f9Uk8rBD << "y_7aMyzy_n" << "ho99t647s4" << ng4p_S7(-2062879206, 486961732, MEZ0E8F, -416570765, fvivU) << std::endl;
+std::cout << f9Uk8rBD << "y_7aMyzy_n" << "ho99t647s4" << ng4p_S7((short)-2062879206, 486961732, MEZ0E8F, -416570765, fvivU) << std::endl;
 
 for (int i = 0; i < 7; ++i)
 {
@@ -172,7 +172,7 @@ UrN1_ = ng4p_S7(1960877806, 604014806, 615078090, 148203120, mg8ZU9p);
 }
 else if ((o1Wu <= mt2t3_U) || (b68u >= mt2t3_U))
 {
-UrN1_ = ng4p_S7(KhA3B, -1796290345, nVt944AFMX, 1505558480, 284902104);
+UrN1_ = ng4p_S7(KhA3B, (unsigned short)-1796290345, nVt944AFMX, 1505558480, 284902104);
 }
 else if ((ZLmC < UrN1_) && (Hc6_8_Gn >= 1430612746))
 {
@@ -193,7 +193,7 @@ int k = 6;
 while (k >= 0)
 {
 --k;
-UrN1_ = ng4p_S7(-101776271, m541GX9, -1841818742, 1654340928, -2143883415);
+UrN1_ = ng4p_S7((short)-101776271, m541GX9, -1841818742, 1654340928, -2143883415);
 }
 }
 }
@@ -231,7 +231,7 @@ i++;
 while (i < 1);
 }
 
-std::cout << ng4p_S7(ruJ71, (unsigned short)-1193953261, 1986484631, gREL5d, zIEdWNxT) << ng4p_S7(ruJ71, (unsigned short)-2048505501, -878590403, 1189989290, -1477117552) << ng4p_S7(384239208, 213079484, -1849892833, -661110527, zIEdWNxT) << TIYz3 << ng4p_S7(-964136778, 472853207, 494538904, gREL5d, 398556640) << std::endl;
+std::cout << ng4p_S7(ruJ71, (unsigned short)-1193953261, 1986484631, gREL5d, zIEdWNxT) << ng4p_S7(ruJ71, (unsigned short)-2048505501, -878590403, 1189989290, -1477117552) << ng4p_S7((short)384239208, 213079484, -1849892833, -661110527, zIEdWNxT) << TIYz3 << ng4p_S7(-964136778, 472853207, 494538904, gREL5d, 398556640) << std::endl;
 
 for (int i = 0; i < 6; i++)
 {
@@ -284,7 +284,7 @@ case 6:
 cWy4j = ng4p_S7((short)-54355048, (unsigned short)-1313939231, -1068770865, eSJzVOJ9, 1842182722);
 break;
 case 7:
-cWy4j = ng4p_S7(-512500742, GFlc, -450328139, bS3Rh, czn17ogZki);
+cWy4j = ng4p_S7((short)-512500742, GFlc, -450328139, bS3Rh, czn17ogZki);
 break;
 case 8:
 UrN1_ = ng4p_S7(1075293887, rLyM, 2000789283, vAJx1ZAJ, B_4X2Bb4s);
@@ -331,7 +331,7 @@ else
 {
 std::cout << ng4p_S7(Fgt6zf2, (unsigned short)1994424758, 180309922, CZc7o, n857ZYk) << r2qS9Er << "l5nO_1_6" << "cncLr7OK" << ng4p_S7(Fgt6zf2, (unsigned short)-1406548687, 1470736235, CZc7o, 288752448) << std::endl;
 }
-r4_LH = ng4p_S7(-561515753, 672688755, -1542665369, 1380640682, 223349703);
+r4_LH = ng4p_S7((short)-561515753, 672688755, -1542665369, 1380640682, 223349703);
 
 {
 int i = 0;
@@ -346,7 +346,7 @@ wb1n_3Yw = ng4p_S7(I4n8E, (unsigned short)-1176931712, C5M6vXt, 762816986, c10Eu
 }
 else if (l70j0GhoZ > cIs52)
 {
-wb1n_3Yw = ng4p_S7((short)1425820168, -793490552, MR3Z_, -893613006, 1808575642);
+wb1n_3Yw = ng4p_S7((short)1425820168, (unsigned short)-793490552, MR3Z_, -893613006, 1808575642);
 }
 else if ((KhA3B == nhz_) || (rLyM > G4z91NY3))
 {

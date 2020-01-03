@@ -109,7 +109,7 @@ aaXxgW = C38Y_FTS(-1446536958);
 break;
 case 'b':
 case 'B':
-Ss0kz2g = CKIIjJF(R4Sg, igHQF3q, (short)296884012, (char)-1736964888, 1365590477);
+Ss0kz2g = CKIIjJF(R4Sg, igHQF3q, (short)296884012, (char)-1736964888, (short)1365590477);
 break;
 case 'c':
 case 'C':
@@ -130,7 +130,7 @@ break;
 
 for (int i = 0; i < 3; i++)
 {
-std::cout << CKIIjJF(KGvpkEVxdC, (char)-1839463043, (short)1575014907, -1959755208, -1752756434) << std::endl;
+std::cout << CKIIjJF(KGvpkEVxdC, (char)-1839463043, (short)1575014907, (char)-1959755208, -1752756434) << std::endl;
 }
 
 switch (cML4iJ)
@@ -174,7 +174,7 @@ while (k < 7);
 }
 }
 
-Q9_pVg8 = vz82e / CKIIjJF(-1229694568, (char)-1205795244, (short)568358092, h0LE9siK8h, -2121049081);
+Q9_pVg8 = vz82e / CKIIjJF(-1229694568, (char)-1205795244, (short)568358092, h0LE9siK8h, (short)-2121049081);
 return 0;
 }
 

@@ -57,7 +57,7 @@ int main(void) {
   long long  h_sQPu;
   h_sQPu  =  221780305;
  char ll3e8rH9;
- ll3e8rH9 = -1621738884;
+ ll3e8rH9 = (char)-1621738884;
 	int	T2QJwKa4;
 	T2QJwKa4	=	72228593;
 	int	x8sW;
@@ -75,7 +75,7 @@ int main(void) {
   long  k4JUa72;
   k4JUa72  =  953336465;
 	unsigned char	g6avvJm6w;
-	g6avvJm6w	=	1110249384;
+	g6avvJm6w	=	(unsigned char)1110249384;
  unsigned char vn7wSm3;
  vn7wSm3 = 0;
 	unsigned char	Tylrm2i2_X;
@@ -171,7 +171,7 @@ DI_HMakeA4 = X8o5Q(504913395, (unsigned short)-725149348, 1806280281, 2066054525
 }
 else if (g6avvJm6w & 1303758739)
 {
-sx1ze = Vs_2f(-851800384, x8sW, 850224371);
+sx1ze = Vs_2f((unsigned short)-851800384, x8sW, 850224371);
 }
 else
 {

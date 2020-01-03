@@ -28,7 +28,7 @@ int main()
 	long long	x_7Nkx8	=	0;
   unsigned int  g35g5  =  -398526155;
     long double    O6c2RpWki6    =    776489742;
-  short int  m4QEM  =  2099661033;
+  short int  m4QEM  =  (short)2099661033;
   int  BTQ_1a5v5  =  0;
  unsigned char HBYCu52o29 = (unsigned char)-567792045;
   unsigned long  HY9IZ_7N  =  880644518;
@@ -56,7 +56,7 @@ CXb_0ue8jG = (int)floor(O6c2RpWki6);
 break;
 }
 }
-BTQ_1a5v5 = iS61p((unsigned char)-1895697614, -1622088066, BTQ_1a5v5);
+BTQ_1a5v5 = iS61p((unsigned char)-1895697614, (char)-1622088066, BTQ_1a5v5);
 
 DkiWfpW9yO = (unsigned int)(p814M9 + (1626482134));
 try

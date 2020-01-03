@@ -50,7 +50,7 @@ int main()
   unsigned short int  IkwE84V6;
   IkwE84V6  =  (unsigned short)-1380737068;
 	unsigned char	mfG2V760S1;
-	mfG2V760S1	=	855433887;
+	mfG2V760S1	=	(unsigned char)855433887;
     float    pzX0sI87;
     pzX0sI87    =    2121982035;
   short  mVqmPp;
@@ -88,7 +88,7 @@ int main()
 	unsigned long long	czBqh;
 	czBqh	=	1251744339;
  short int cMeeRDoM7;
- cMeeRDoM7 = 740716503;
+ cMeeRDoM7 = (short)740716503;
 	unsigned short int	KmuzEC_;
 	KmuzEC_	=	2000981300;
 	float	uv7209pa;
@@ -100,7 +100,7 @@ int main()
   long long  tvqkY3_1k_;
   tvqkY3_1k_  =  -1179166471;
     char    S4I4YYD7D;
-    S4I4YYD7D    =    1766176175;
+    S4I4YYD7D    =    (char)1766176175;
   short  x26vWPJn;
   x26vWPJn  =  -1921513948;
   unsigned char  KTVlP;
@@ -116,7 +116,7 @@ int main()
 	short int	TI6130Zu;
 	TI6130Zu	=	(short)-218728028;
 	short	G1uX_2qi;
-	G1uX_2qi	=	-839092110;
+	G1uX_2qi	=	(short)-839092110;
     float    MgmuNCD68;
     MgmuNCD68    =    -1230954154;
     short int    b781ynbV0;
@@ -233,7 +233,7 @@ rn4KTIQA = P6h0iVX54 % 417006698;
 }
 else if (dDK02Y >= H6_zkU92i)
 {
-P6h0iVX54 = TCg41((short)-1675875009, 680908216, 147274988);
+P6h0iVX54 = TCg41((short)-1675875009, (short)680908216, 147274988);
 }
 else if (G1uX_2qi < H6_zkU92i)
 {
@@ -276,7 +276,7 @@ case 3:
 IkwE84V6 = eZkp(-71241003, (unsigned char)1318628976, 1769660258, MZ4u, dDK02Y);
 break;
 default:
-vLC_y = TCg41((short)-1646068013, 1535499318, -1787011084);
+vLC_y = TCg41((short)-1646068013, (short)1535499318, -1787011084);
 break;
 }
 }
@@ -331,7 +331,7 @@ case 1:
 q04Y_bUg1Z = TCg41(q04Y_bUg1Z, (short)1840320249, Wi0IJ1F3);
 break;
 case 2:
-MPWXEVF414 = TCg41((short)1339979638, -1353848952, -804406859);
+MPWXEVF414 = TCg41((short)1339979638, (short)-1353848952, -804406859);
 break;
 case 3:
 dK3gQG |= 1178384822;
@@ -349,7 +349,7 @@ case 7:
 p8W9DiXO = (int)abs(pzX0sI87);
 break;
 case 8:
-A7zsJ = en6vdd3_(581374020);
+A7zsJ = en6vdd3_((char)581374020);
 break;
 case 9:
 G1uX_2qi %= mSCKmfpr;
@@ -381,7 +381,7 @@ MZ4u = (int)floor(sVl4eJ3v);
 }
 else
 {
-MPWXEVF414 = TCg41(-620002062, dDK02Y, -1356021419);
+MPWXEVF414 = TCg41((short)-620002062, dDK02Y, -1356021419);
 }
 }
 catch (int& errorCode)

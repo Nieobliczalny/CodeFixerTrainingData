@@ -110,7 +110,7 @@ Ih0w0_ = B7e5ye6((unsigned short)-1774303116);
 }
 else if ((vxOwL9OG <= -1623973300) || (UbX9zQ8))
 {
-KaIRuf = B7e5ye6(669963981);
+KaIRuf = B7e5ye6((unsigned short)669963981);
 }
 else if (xsgs != -864997767)
 {

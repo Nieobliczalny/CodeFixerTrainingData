@@ -100,7 +100,7 @@ case 4:
 woZ2B8Zz = (int)abs(vll0wjE) * 0;
 break;
 case 5:
-EHsCXTnxrV = (tdmT1r1QZn > -89607092) ? emh2(OPt08, QZbfpVR2s, kv2_lg) : n9M1eY_(OPt08, -1483234206);
+EHsCXTnxrV = (tdmT1r1QZn > -89607092) ? emh2(OPt08, QZbfpVR2s, kv2_lg) : n9M1eY_(OPt08, (unsigned short)-1483234206);
 break;
 case 6:
 c0HtG3I5 -= I77CXx;
@@ -380,7 +380,7 @@ UBD1j = emh2((char)1262510055, -678860160, xeKLpm);
 }
 else if ((woZ2B8Zz & -467048867) || (p4aXTZA7Wj == 1845365138))
 {
-UBD1j = emh2(-32512368, 1456489786, siGSW_m);
+UBD1j = emh2((char)-32512368, 1456489786, siGSW_m);
 }
 else if (ZLJ09__Hjq)
 {
@@ -424,7 +424,7 @@ while (k < 8);
 }
 else if (iDzZ != -1027730123)
 {
-cout << WS4VA << n9M1eY_(ftA_9DS0, (unsigned short)-1481270824) << emh2((char)-1870222806, kJM_, -808577489) << n9M1eY_(-1970480534, -443939180) << n9M1eY_(ftA_9DS0, kJM_) << endl;
+cout << WS4VA << n9M1eY_(ftA_9DS0, (unsigned short)-1481270824) << emh2((char)-1870222806, kJM_, -808577489) << n9M1eY_(-1970480534, (unsigned short)-443939180) << n9M1eY_(ftA_9DS0, kJM_) << endl;
 }
 else if (Wl0_Wg4ZaC > 186728592)
 {

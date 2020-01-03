@@ -44,7 +44,7 @@ int main(void)
 	short int	f4z3iJ;
 	f4z3iJ	=	(short)-734870056;
   unsigned char  u7D5Si_8LA;
-  u7D5Si_8LA  =  -1812319687;
+  u7D5Si_8LA  =  (unsigned char)-1812319687;
  int vqt0V;
  vqt0V = 1442124874;
  float frCXX;
@@ -56,7 +56,7 @@ int main(void)
 	char	dwv0_vqu1P;
 	dwv0_vqu1P	=	(char)-265777160;
 	unsigned short	D02KZ0;
-	D02KZ0	=	740336716;
+	D02KZ0	=	(unsigned short)740336716;
   unsigned short int  l20cQ1q0EG;
   l20cQ1q0EG  =  -2052062320;
 	short int	xV8A3Dq_;

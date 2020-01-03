@@ -47,7 +47,7 @@ int main()
  unsigned short int Og9Q7;
  Og9Q7 = (unsigned short)-1550112665;
   unsigned short  FI6UW_;
-  FI6UW_  =  -2008712655;
+  FI6UW_  =  (unsigned short)-2008712655;
 	short int	A03I5HBTj;
 	A03I5HBTj	=	272088022;
  unsigned short int x1A_Xhz;
@@ -137,7 +137,7 @@ int main()
 	short int	miPRLpd;
 	miPRLpd	=	(short)-87623080;
   unsigned char  f_10v2M;
-  f_10v2M  =  -184275250;
+  f_10v2M  =  (unsigned char)-184275250;
 	unsigned short	BivB4;
 	BivB4	=	(unsigned short)-134071038;
 	long double	T9dyAzk;
@@ -165,7 +165,7 @@ int main()
 	unsigned short	CYASFovR5;
 	CYASFovR5	=	(unsigned short)1583453815;
  char kp0j2M0kaw;
- kp0j2M0kaw = -1484029223;
+ kp0j2M0kaw = (char)-1484029223;
 	short int	dK4b;
 	dK4b	=	1501236945;
 	unsigned short int	e0Kg6bp60;

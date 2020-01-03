@@ -22,7 +22,7 @@ int main()
   unsigned short  pGB7ItMm,  WjN19N,  h_51nOSk1,  SD7Dm2Ad4b;
   pGB7ItMm  =  (unsigned short)276453606;
   WjN19N  =  (unsigned short)1206668947;
-  h_51nOSk1  =  817625259;
+  h_51nOSk1  =  (unsigned short)817625259;
   SD7Dm2Ad4b  =  665297124;
 
 {

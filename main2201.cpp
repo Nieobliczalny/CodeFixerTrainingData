@@ -200,7 +200,7 @@ LUYExhWlNE = Vv4U1GB((short)-1248955987, RkPUJiFgxo, (char)-61917733, pkPG);
 }
 else if (((zLwbs873 > 2112603868) || (y0a56 == 1825801535)) && (eWygfey4W >= v8MRm))
 {
-LUYExhWlNE = Vv4U1GB(LUYExhWlNE, Oi4_m_7, -1293150796, 1907826603);
+LUYExhWlNE = Vv4U1GB(LUYExhWlNE, Oi4_m_7, (char)-1293150796, 1907826603);
 }
 else if (XSqS6TiXr)
 {
@@ -303,7 +303,7 @@ case 0:
 oJ2s4ewKg = KXmIs7 - x31z860C8;
 break;
 case 1:
-t1fKdpb9 = D3FR2r3(t1fKdpb9, -1332257060, -778177679, -1254733332);
+t1fKdpb9 = D3FR2r3(t1fKdpb9, -1332257060, (unsigned short)-778177679, -1254733332);
 break;
 case 2:
 Xei4_luC = Vv4U1GB(Xei4_luC, (short)-949732079, u5x_, FE62M);
@@ -567,7 +567,7 @@ case 7:
 qCEei = x31z860C8 * 1305231014;
 break;
 case 8:
-lSn28GZz4 = Vv4U1GB((short)182977489, 1221009837, 2005224416, 263168208);
+lSn28GZz4 = Vv4U1GB((short)182977489, (short)1221009837, 2005224416, 263168208);
 break;
 case 9:
 DQ14xP47 = (int)ceil(VkXiFe_i);
@@ -652,7 +652,7 @@ case 0:
 znYYVgFb8 = ktDV(Oi4_m_7, (short)-1078468009, B1j1IApEn, yE47Y0mN);
 break;
 case 1:
-vlgg6 = ktDV(Oi4_m_7, (short)-2047824627, 2146660539, -50409690) >> 1120988984;
+vlgg6 = ktDV(Oi4_m_7, (short)-2047824627, 2146660539, (unsigned short)-50409690) >> 1120988984;
 break;
 case 2:
 pkPG = (int)ceil(Jl9_q);
@@ -761,7 +761,7 @@ ugw0 = (int)ceil(U66ahu);
 }
 else
 {
-DQ14xP47 = Vv4U1GB((short)-1362864622, (short)533409329, 2013645030, Yp0zrWkl);
+DQ14xP47 = Vv4U1GB((short)-1362864622, (short)533409329, (char)2013645030, Yp0zrWkl);
 }
 ++j;
 }
@@ -805,7 +805,7 @@ eWygfey4W = Vv4U1GB(eWygfey4W, (short)-1555959895, (char)-2092439362, -104690070
 }
 else if (XSqS6TiXr != -1011905992)
 {
-u_8Zx3d5Y5 = D3FR2r3(1124200476, 195392450, 861750165, -1589346310);
+u_8Zx3d5Y5 = D3FR2r3(1124200476, 195392450, (unsigned short)861750165, -1589346310);
 }
 else if (FE62M == znYYVgFb8)
 {
@@ -836,7 +836,7 @@ T7Ov59zr = Vv4U1GB(T7Ov59zr, Jl9_q, znYYVgFb8, 1504765701);
 int i = 8;
 while (i >= 0)
 {
-cout << uXsV83dCt << D3FR2r3(489942985, 340833649, (unsigned short)1456279425, (unsigned char)905469984) << D3FR2r3(T7Ov59zr, Jl9_q, znYYVgFb8, -698862563) << D3FR2r3(T7Ov59zr, 2034654280, -1398104003, -1035796370) << endl;
+cout << uXsV83dCt << D3FR2r3(489942985, 340833649, (unsigned short)1456279425, (unsigned char)905469984) << D3FR2r3(T7Ov59zr, Jl9_q, znYYVgFb8, (unsigned char)-698862563) << D3FR2r3(T7Ov59zr, 2034654280, -1398104003, -1035796370) << endl;
 --i;
 }
 }

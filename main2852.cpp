@@ -31,7 +31,7 @@ int main(int argc, char** argv)
     unsigned char    Y06rc;
     Y06rc    =    (unsigned char)1859085934;
 	unsigned char	s3RyR;
-	s3RyR	=	809632335;
+	s3RyR	=	(unsigned char)809632335;
 	unsigned int	LqzjQS_2;
 	LqzjQS_2	=	0;
   long  b110L;

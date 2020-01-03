@@ -91,7 +91,7 @@ case 4:
 O5RTi29 = teJ_x ^ qAfT1_eZkR;
 break;
 case 5:
-X6k21L = f_Ue((char)-218871465, C7Ec0fV8, (unsigned short)873781000, 1443459183, kDk8tF);
+X6k21L = f_Ue((char)-218871465, C7Ec0fV8, (unsigned short)873781000, (unsigned short)1443459183, kDk8tF);
 break;
 case 6:
 tZ_0nHocV = Jtxud();
@@ -112,7 +112,7 @@ break;
 switch (E8ab8NQhK)
 {
 case 0:
-TXWXgx_Y = f_Ue(m61gON2w4, wWKplnb, ILl1Vk, -137799059, -1545818252) - vAT4O;
+TXWXgx_Y = f_Ue(m61gON2w4, wWKplnb, ILl1Vk, (unsigned short)-137799059, -1545818252) - vAT4O;
 break;
 case 1:
 tZ_0nHocV = Jtxud();
@@ -124,7 +124,7 @@ case 3:
 Mwk6Ny &= W_cEje0h5R;
 break;
 case 4:
-bV4w_4 = f_Ue((char)179470129, NbN6kW, (unsigned short)-430749251, M8Fc4515k, 1503757196);
+bV4w_4 = f_Ue((char)179470129, NbN6kW, (unsigned short)-430749251, M8Fc4515k, (unsigned char)1503757196);
 break;
 case 5:
 W_cEje0h5R = CG879(W_cEje0h5R, M8Fc4515k, -1853709008, qp4Fg1, 1293602353);
@@ -136,7 +136,7 @@ case 7:
 M8mJnV38Mr <<= HA2_C3W;
 break;
 default:
-m61gON2w4 = f_Ue(m61gON2w4, -2127164457, (unsigned short)2035652587, (unsigned short)692458233, -2127956739);
+m61gON2w4 = f_Ue(m61gON2w4, -2127164457, (unsigned short)2035652587, (unsigned short)692458233, (unsigned char)-2127956739);
 break;
 }
 if (VSjgWdq5Z == 0)
@@ -194,7 +194,7 @@ int k = 0;
 do
 {
 k++;
-CsPC_G19f = f_Ue(-1750655543, Ylz7Ug53, 664604074, 506255136, 797095377);
+CsPC_G19f = f_Ue((char)-1750655543, Ylz7Ug53, 664604074, 506255136, 797095377);
 }
 while (k < 3);
 }
@@ -228,7 +228,7 @@ qAfT1_eZkR = CG879(qAfT1_eZkR, HA2_C3W, (short)-1831222614, -1477905656, h14GdP0
 }
 else
 {
-P2VN_ = f_Ue((char)1410029749, bhkDiZDM, 1052461857, -520394507, -274254919);
+P2VN_ = f_Ue((char)1410029749, bhkDiZDM, (unsigned short)1052461857, -520394507, -274254919);
 }
 }
 else
@@ -239,7 +239,7 @@ VSjgWdq5Z = Jtxud();
 }
 else if (fPPI0xnu)
 {
-ILl1Vk = f_Ue((char)164681148, h14GdP0E, (unsigned short)976822231, -1895365077, HA2_C3W);
+ILl1Vk = f_Ue((char)164681148, h14GdP0E, (unsigned short)976822231, (unsigned short)-1895365077, HA2_C3W);
 }
 else
 {

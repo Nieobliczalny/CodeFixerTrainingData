@@ -26,7 +26,7 @@ int main()
     unsigned short int    GJz_VT6    =    (unsigned short)108585213;
  double VvTYop3jG = -2110868377;
  long double DQKD8cRV = -490370975;
-    unsigned char    ATwj    =    1197421342;
+    unsigned char    ATwj    =    (unsigned char)1197421342;
 	long double	W4v09	=	-2106658002;
 	long	mm2_QzCi	=	721916494;
 	long long	f7MT7m8	=	800180059;
@@ -36,7 +36,7 @@ int main()
     int    Wd1_J    =    -1377134404;
   short int  mG4z0eF  =  (short)-2058331419;
   float  Kux7MC  =  -1121357629;
-    short    N_B3l    =    -1511001415;
+    short    N_B3l    =    (short)-1511001415;
     unsigned char    VMU9    =    -345704799;
   unsigned int  S7r_1  =  -1301956964;
 	unsigned long	QV_0lc	=	1108007803;
@@ -50,7 +50,7 @@ int main()
     unsigned char    O4O8    =    (unsigned char)-132167680;
     short int    j9K17G    =    (short)957596768;
     unsigned int    Y3iEz6Hk_    =    -767788860;
-    short int    L_TkU    =    -1461826163;
+    short int    L_TkU    =    (short)-1461826163;
 	int	qLjn6g7	=	1406176032;
   unsigned long  KlAL25b  =  1040344506;
  long long QkiZ4y12 = -554027272;
@@ -192,7 +192,7 @@ j--;
 }
 if ((VMU9 != ry24GE0_t_) || ((VoQsElK) && (W4v09 < 792306186)))
 {
-std::cout << BIE21337(VvTYop3jG, (char)1876705124, (unsigned char)916972655, n9rO, -1140716796) << LtM_() << "beOqM214" << "eIBNmOnSvH" << "tZRwjyg0" << std::endl;
+std::cout << BIE21337(VvTYop3jG, (char)1876705124, (unsigned char)916972655, n9rO, (unsigned short)-1140716796) << LtM_() << "beOqM214" << "eIBNmOnSvH" << "tZRwjyg0" << std::endl;
 }
 else
 {
@@ -248,7 +248,7 @@ f7MT7m8 = MGtbIrO(VvTYop3jG, -1468231995, L109A6l, (unsigned char)791398739, -17
 
 S7r_1 %= j9K17G;
 
-std::cout << "BY68fFG" << MGtbIrO(-64181873, t_UA, L109A6l, Kux7MC, gT8JqIO9q) << "SocV0Q" << BIE21337(VvTYop3jG, t_UA, (unsigned char)2088773965, -2011443334, gT8JqIO9q) << std::endl;
+std::cout << "BY68fFG" << MGtbIrO(-64181873, t_UA, L109A6l, Kux7MC, gT8JqIO9q) << "SocV0Q" << BIE21337(VvTYop3jG, t_UA, (unsigned char)2088773965, (unsigned short)-2011443334, gT8JqIO9q) << std::endl;
 return 0;
 }
 

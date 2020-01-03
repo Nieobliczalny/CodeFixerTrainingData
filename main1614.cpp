@@ -33,7 +33,7 @@ int main(int argc, char** argv)
     long    wt3uegAVux;
     wt3uegAVux    =    -1334617449;
 	char	t307p;
-	t307p	=	-818334257;
+	t307p	=	(char)-818334257;
 	long double	vJ47U_0;
 	vJ47U_0	=	-1144445692;
  long double WY099;
@@ -53,7 +53,7 @@ int main(int argc, char** argv)
 	short	T2VBxHn6VH;
 	T2VBxHn6VH	=	(short)569687986;
 	short int	U9OG0i667W;
-	U9OG0i667W	=	593434904;
+	U9OG0i667W	=	(short)593434904;
 	unsigned char	uj4_kg0;
 	uj4_kg0	=	(unsigned char)-1794160933;
  unsigned char j3PFo5hyt;
@@ -67,7 +67,7 @@ int main(int argc, char** argv)
  short hKAvEt58i5;
  hKAvEt58i5 = (short)821606482;
   unsigned char  gA2O3;
-  gA2O3  =  -75596262;
+  gA2O3  =  (unsigned char)-75596262;
 	unsigned char	Wta0EV;
 	Wta0EV	=	2005834103;
   unsigned int  LmG4TY0;
@@ -551,7 +551,7 @@ while (k >= 0);
 }
 }
 
-std::cout << j3PFo5hyt << U9OG0i667W << B_OA((unsigned short)-1433268241, vXGY_t, 1457267012, 859341501) << "lzY3s3B37_" << B_OA(-1934385868, vXGY_t, zV3L47l1, 1605505268) << std::endl;
+std::cout << j3PFo5hyt << U9OG0i667W << B_OA((unsigned short)-1433268241, vXGY_t, 1457267012, 859341501) << "lzY3s3B37_" << B_OA((unsigned short)-1934385868, vXGY_t, zV3L47l1, 1605505268) << std::endl;
 zV3L47l1 = (int)floor(ky5_iI);
 Fa5rGu &= zutRo0w_;
 

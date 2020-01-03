@@ -362,7 +362,7 @@ case 5:
 b4UGxe3Oh7 = pAuVr7U(b4UGxe3Oh7, (unsigned short)964391846) * 520090924;
 break;
 case 6:
-IXOiS2 = pAuVr7U((char)-979937688, 1091385490);
+IXOiS2 = pAuVr7U((char)-979937688, (unsigned short)1091385490);
 break;
 case 7:
 kY_w = vvqO(-1014601132);
@@ -413,7 +413,7 @@ case 4:
 cu546khl = vvqO(1035320423);
 break;
 case 5:
-IXOiS2 = pAuVr7U((char)501060152, -211303394);
+IXOiS2 = pAuVr7U((char)501060152, (unsigned short)-211303394);
 break;
 case 6:
 lRfY >>= 532269185;
@@ -494,7 +494,7 @@ Qn3Pd = pAuVr7U((char)1957819155, fLag);
 }
 else if (lRfY == 1238267591)
 {
-Qn3Pd = pAuVr7U((char)-2029242612, -319242932);
+Qn3Pd = pAuVr7U((char)-2029242612, (unsigned short)-319242932);
 }
 else if (s3xJ2B4 & 930348773)
 {

@@ -43,7 +43,7 @@ case 0:
 itI8SD5Vw5 = A1GLo_L3((unsigned char)1114728118, (unsigned char)172853503, itI8SD5Vw5, kPw7lH);
 break;
 case 1:
-l7jLui = A1GLo_L3(1190495654, 859953483, F_d22, 1553532999);
+l7jLui = A1GLo_L3((unsigned char)1190495654, 859953483, F_d22, 1553532999);
 break;
 case 2:
 DvrJ--;
@@ -287,7 +287,7 @@ l7jLui = A1GLo_L3((unsigned char)-1234258091, qisl, 1000434517, v_ognDt);
 switch (mBs857daZH)
 {
 case 0:
-RI_4p = A1GLo_L3((unsigned char)-1790408378, -292548707, J3_d6B, Kkr0etNIiS);
+RI_4p = A1GLo_L3((unsigned char)-1790408378, (unsigned char)-292548707, J3_d6B, Kkr0etNIiS);
 break;
 case 1:
 EOuc--;
@@ -418,7 +418,7 @@ cout << Kg_SoYke / A1GLo_L3(F_d22, k93dg5G4, 1932626378, H3Ld) << endl;
 RI_4p = A1GLo_L3(RI_4p, (unsigned char)-1813402635, -1551361116, wUSE7__Z8p);
 if (Kkr0etNIiS > HuH6_j)
 {
-cout << "QKodoc4FD" << A1GLo_L3((unsigned char)1269533698, -892000963, rpOuL, wUSE7__Z8p) << X4FEYSoI << endl;
+cout << "QKodoc4FD" << A1GLo_L3((unsigned char)1269533698, (unsigned char)-892000963, rpOuL, wUSE7__Z8p) << X4FEYSoI << endl;
 }
 else if (Okogd > xx0d)
 {
@@ -454,7 +454,7 @@ cout << "Fhk4L" << A1GLo_L3(pT1j, X4FEYSoI, k93dg5G4, 748724164) << A1GLo_L3(pT1
 mp35R = (GNQXR < rpOuL) ? (short)480629453 : G6C0lfRL9s;
 if (Z2T58dK != Kg_SoYke)
 {
-cout << A1GLo_L3(1354099355, X4FEYSoI, -1923553288, O4wK) << X4FEYSoI << CGt287675G << endl;
+cout << A1GLo_L3((unsigned char)1354099355, X4FEYSoI, -1923553288, O4wK) << X4FEYSoI << CGt287675G << endl;
 }
 cout << "w1bQ_i32Wq" << TCYv0bK_9k << FiK1 << A1GLo_L3(-771384373, 1584995569, 90471102, -87359451) << LK58UwV << endl;
 

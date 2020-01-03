@@ -162,7 +162,7 @@ if (HjaRX < 682552655)
 {
 if (q_J9L1r8X == -1360013379)
 {
-kyy8RSv = AVmB((unsigned short)1387664308, (unsigned short)-1227571924, -949290936, -1348100459, q_J9L1r8X);
+kyy8RSv = AVmB((unsigned short)1387664308, (unsigned short)-1227571924, -949290936, (unsigned char)-1348100459, q_J9L1r8X);
 }
 else if (eN3op)
 {
@@ -197,7 +197,7 @@ case 4:
 IkIe = g4m0j(IkIe, iV24b);
 break;
 case 5:
-YKMzLW7wq = AVmB(YKMzLW7wq, (unsigned short)-1045729789, -2100875370, -11256413, 1111935770);
+YKMzLW7wq = AVmB(YKMzLW7wq, (unsigned short)-1045729789, -2100875370, (unsigned char)-11256413, 1111935770);
 break;
 case 6:
 Ka0zotKE = (h7AM11 > -1601969319) ? U2o10PQ : CC3yZI_8SN;
@@ -369,7 +369,7 @@ int j = 9;
 while (j >= 0)
 {
 --j;
-std::cout << AVmB(X9Dri, (unsigned short)-1145827653, 2139843868, (unsigned char)-2001678542, -1399289660) << "cfO32isnk" << r4702SG_ << std::endl;
+std::cout << AVmB(X9Dri, (unsigned short)-1145827653, 2139843868, (unsigned char)-2001678542, (char)-1399289660) << "cfO32isnk" << r4702SG_ << std::endl;
 }
 }
 }
@@ -486,7 +486,7 @@ case 1:
 X9Dri = g4m0j(-276603891, (short)-1909512899);
 break;
 case 2:
-A1dOX = AVmB((unsigned short)-92143233, dNsKuu, HjaRX, 1911520061, IkIe);
+A1dOX = AVmB((unsigned short)-92143233, dNsKuu, HjaRX, (unsigned char)1911520061, IkIe);
 break;
 case 3:
 iV24b = k__2bJ(r1hzo559, 1768853521, 1110108582);

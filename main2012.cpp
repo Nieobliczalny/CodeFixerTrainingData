@@ -26,7 +26,7 @@ int main(void) {
     short    M2quU7_1Ls;
     M2quU7_1Ls    =    (short)90047514;
  char ddDT5eXE9B;
- ddDT5eXE9B = 556888944;
+ ddDT5eXE9B = (char)556888944;
     unsigned char    yZ6JHQ;
     yZ6JHQ    =    1323505757;
     long long    w0S6xG_97;
@@ -48,7 +48,7 @@ int main(void) {
   short int  OFg1LdH;
   OFg1LdH  =  (short)1739370168;
   short  ao4B3K_z;
-  ao4B3K_z  =  -1833518407;
+  ao4B3K_z  =  (short)-1833518407;
 	unsigned long	EPG32j1_;
 	EPG32j1_	=	0;
   float  P87J88Y_;
@@ -80,7 +80,7 @@ int main(void) {
     long double    ul8bUpas;
     ul8bUpas    =    1902610911;
  short int WOGVSGTZi;
- WOGVSGTZi = -662277540;
+ WOGVSGTZi = (short)-662277540;
     unsigned int    D2E232_6;
     D2E232_6    =    -493262235;
   short  dR7It4;

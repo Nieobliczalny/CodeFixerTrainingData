@@ -13,7 +13,7 @@ int main()
  char Mga_MfQb = (char)1297434961;
  int zViG = 1334057025;
  char cbBr_jY = (char)-616126751;
-	unsigned short	CugfI_	=	35097379;
+	unsigned short	CugfI_	=	(unsigned short)35097379;
     unsigned char    aR9Ht_d    =    -1412125390;
  double F1OQcbEAn = -701066761;
  float W2W91W = 1222153958;
@@ -28,7 +28,7 @@ int main()
   unsigned char  xo7254  =  (unsigned char)977994400;
  long T9H1t_ = -1355452488;
     int    O8Sl580    =    268250434;
- char a1799kPum = 1031275997;
+ char a1799kPum = (char)1031275997;
   char  MQ33CaCm  =  244254041;
  int xRvYvFsdNj = 1644823842;
 	long double	j5kbmq8	=	474174204;
@@ -43,7 +43,7 @@ int main()
     float    F4Hr    =    1617401583;
   float  X60Y  =  -82846100;
  long Bn8621_8 = -311398900;
-  unsigned short int  kyu4fVxqm  =  2030413188;
+  unsigned short int  kyu4fVxqm  =  (unsigned short)2030413188;
 
 if (W30j == Bn8621_8)
 {

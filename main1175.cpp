@@ -265,7 +265,7 @@ sK0Q3 = T885I(sK0Q3, (unsigned char)450134455, GUCn_L_, 558655848);
 break;
 case 'c':
 case 'C':
-e33cl0O = T885I(e33cl0O, (unsigned char)184687202, -1131646752, 1517867432);
+e33cl0O = T885I(e33cl0O, (unsigned char)184687202, (char)-1131646752, 1517867432);
 break;
 case 'd':
 case 'D':
@@ -309,7 +309,7 @@ std::cout << T885I(G1VEu150ua, (unsigned char)-1487150240, (char)-1722209986, 30
 }
 else
 {
-T36_Ow8k = T885I(T36_Ow8k, -770327502, -1266598491, -1648718206);
+T36_Ow8k = T885I(T36_Ow8k, (unsigned char)-770327502, -1266598491, -1648718206);
 }
 
 vrOdKO = rk01n034_(-609731191, 123964979, -1943219854) / w17bD0TE;

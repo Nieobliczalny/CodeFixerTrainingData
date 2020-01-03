@@ -83,7 +83,7 @@ do
 {
 try
 {
-HF12ZEeo = dY844zp((unsigned char)-1369341397, (short)-1327560329, 183465530);
+HF12ZEeo = dY844zp((unsigned char)-1369341397, (short)-1327560329, (unsigned short)183465530);
 }
 catch (int& errorCode)
 {
@@ -105,7 +105,7 @@ if (oJ_l44j4 == 0)
 switch (Gju1)
 {
 case 0:
-k4870ONO = Nu1vJA7(k4870ONO, P50Euf, Yfr3N4, -1176716483);
+k4870ONO = Nu1vJA7(k4870ONO, P50Euf, Yfr3N4, (char)-1176716483);
 break;
 case 1:
 YpHb8g8 = dY844zp(YpHb8g8, Gju1, 1570879317);
@@ -192,7 +192,7 @@ else
 std::cout << rUv9y_7w7(Ces76bcwM) << TGTXqUaxl << Nu1vJA7(Ces76bcwM, (unsigned short)-874578947, (unsigned char)-1347502998, rUez7G2) << GDu5ox << std::endl;
 }
 
-ykZ9l = Nu1vJA7(104459090, -1781068744, YpHb8g8, -701911270);
+ykZ9l = Nu1vJA7(104459090, (unsigned short)-1781068744, YpHb8g8, -701911270);
 
 if ((s0iCmC7 & Pkgy5Y) || ((rUez7G2 != oJ_l44j4) && (ky7OdeBa_ <= -1152396309)))
 {
@@ -233,7 +233,7 @@ case 0:
 o43Hx5l = dY844zp((unsigned char)1179114494, (short)1269684024, Q3JJvSX);
 break;
 case 1:
-V24_66aSPK = Nu1vJA7(V24_66aSPK, T9141MP, tqXd2P_R, 1688515978);
+V24_66aSPK = Nu1vJA7(V24_66aSPK, T9141MP, tqXd2P_R, (char)1688515978);
 break;
 case 2:
 Ces76bcwM = bhnXf28S + 1543384578;
@@ -335,7 +335,7 @@ case 4:
 JHLOjdMgr = Nu1vJA7(-2039359965, FKq9bX618, (unsigned char)-429085389, (char)459310819);
 break;
 case 5:
-JHLOjdMgr = dY844zp(JHLOjdMgr, -1643830300, 1909658320);
+JHLOjdMgr = dY844zp(JHLOjdMgr, (short)-1643830300, 1909658320);
 break;
 case 6:
 WuSmzc >>= 1549675806;
@@ -362,7 +362,7 @@ std::cout << rUv9y_7w7(rUez7G2) << std::endl;
 int i = 0;
 do
 {
-std::cout << Nu1vJA7(-1429565016, (unsigned short)-562435766, Z6__Y4, c6frj) << "XKe1DagwMD" << Nu1vJA7(62075397, (unsigned short)588910952, -1867549591, 261725907) << XND_ << std::endl;
+std::cout << Nu1vJA7(-1429565016, (unsigned short)-562435766, Z6__Y4, c6frj) << "XKe1DagwMD" << Nu1vJA7(62075397, (unsigned short)588910952, (unsigned char)-1867549591, 261725907) << XND_ << std::endl;
 i++;
 }
 while (i < 4);
@@ -499,7 +499,7 @@ v43gU54cA8 = Nu1vJA7(v43gU54cA8, (unsigned short)759397360, (unsigned char)-6244
 }
 }
 
-std::cout << dY844zp(-1055022661, o43Hx5l, 634515521) << rUv9y_7w7(v43gU54cA8) << dY844zp(v43gU54cA8, 1305077771, -1742624129) << zo5_B_Vb << "C9hx_A8S" << std::endl;
+std::cout << dY844zp((unsigned char)-1055022661, o43Hx5l, 634515521) << rUv9y_7w7(v43gU54cA8) << dY844zp(v43gU54cA8, 1305077771, -1742624129) << zo5_B_Vb << "C9hx_A8S" << std::endl;
 return 0;
 }
 
@@ -512,7 +512,7 @@ char Nu1vJA7(unsigned long long eG3a,unsigned short RZ2J7VFC3,unsigned char ZBNT
 }
 
 char dY844zp(unsigned char BzpWON,short C0758TZ,unsigned short g5AX4) {
- return -1775327751;
+ return (char)-1775327751;
 }
 
 unsigned long long    DjJ2(unsigned short    a5Ul3npDU,unsigned long long    s5rd,int    SG112)

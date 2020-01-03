@@ -25,7 +25,7 @@ int main() {
  long long HxIqIxWj4;
  HxIqIxWj4 = 1704148140;
 	short int	AT7siNVO2l;
-	AT7siNVO2l	=	-1884584308;
+	AT7siNVO2l	=	(short)-1884584308;
     unsigned short    T6U4V_B;
     T6U4V_B    =    937173615;
   unsigned char  HR0jDh2l4Z;
@@ -37,7 +37,7 @@ int main() {
  int We4W3IM13T;
  We4W3IM13T = -1408377448;
 	char	u5JRxemgP;
-	u5JRxemgP	=	1373531309;
+	u5JRxemgP	=	(char)1373531309;
 	unsigned short int	EGHBREq99f;
 	EGHBREq99f	=	(unsigned short)-1939696173;
  short int IZIg;
@@ -59,7 +59,7 @@ int main() {
     unsigned char    a1vp5R010U;
     a1vp5R010U    =    (unsigned char)1792665389;
     unsigned char    n8EhqqXWB1;
-    n8EhqqXWB1    =    1699753778;
+    n8EhqqXWB1    =    (unsigned char)1699753778;
  unsigned long m_B_xEV4I;
  m_B_xEV4I = -1841071084;
  unsigned long pSO18X1u;
@@ -69,7 +69,7 @@ int main() {
  unsigned short int tF9T_X_71U;
  tF9T_X_71U = (unsigned short)-1181657688;
   char  JKqdm7y;
-  JKqdm7y  =  -1261164118;
+  JKqdm7y  =  (char)-1261164118;
   unsigned short int  v_Nbdg;
   v_Nbdg  =  303924611;
   unsigned long long  WpR1Qv;
@@ -127,7 +127,7 @@ int main() {
  unsigned char juKL;
  juKL = (unsigned char)-1081224048;
   char  e_t65d2Ue;
-  e_t65d2Ue  =  -119735717;
+  e_t65d2Ue  =  (char)-119735717;
     long long    Eu3b;
     Eu3b    =    440916482;
     unsigned char    a9U_Uk5T;
@@ -139,7 +139,7 @@ int main() {
  long double S82s;
  S82s = -1208687533;
  short int AeKIp87WF;
- AeKIp87WF = 431589827;
+ AeKIp87WF = (short)431589827;
     short    C0a4788O27;
     C0a4788O27    =    -667513324;
 	unsigned char	jaS47x;
@@ -151,7 +151,7 @@ int main() {
  unsigned long long m_R441_;
  m_R441_ = 1456695275;
 	unsigned short	ZkufHn4gKh;
-	ZkufHn4gKh	=	324568805;
+	ZkufHn4gKh	=	(unsigned short)324568805;
 	short	h35fj_h;
 	h35fj_h	=	(short)2137239715;
  unsigned char v_3suz1;
@@ -161,7 +161,7 @@ int main() {
     short int    Z2jWx3GfYy;
     Z2jWx3GfYy    =    (short)317135747;
  char TI6e8;
- TI6e8 = -997130632;
+ TI6e8 = (char)-997130632;
 	unsigned long long	ulKCNR9;
 	ulKCNR9	=	-1920137625;
  unsigned short int r5O35;
@@ -205,7 +205,7 @@ int main() {
 	unsigned int	jhsi2nU;
 	jhsi2nU	=	1467873130;
   unsigned char  wLE3FhH53;
-  wLE3FhH53  =  58655981;
+  wLE3FhH53  =  (unsigned char)58655981;
 
 switch (DVUJ0htmR)
 {

@@ -20,7 +20,7 @@ int main()
 	short	GFLLp;
 	GFLLp	=	(short)1618437835;
   unsigned char  rEKvsE;
-  rEKvsE  =  -1663190550;
+  rEKvsE  =  (unsigned char)-1663190550;
     unsigned long long    yS7he;
     yS7he    =    -2008623579;
   char  yrtJPp8;
@@ -30,7 +30,7 @@ int main()
 	char	H7cNUU2NFx;
 	H7cNUU2NFx	=	(char)-1259858549;
 	short	X2R2;
-	X2R2	=	626240912;
+	X2R2	=	(short)626240912;
   double  uWVazVcDk;
   uWVazVcDk  =  -1695859238;
  double E4Tb;
@@ -72,7 +72,7 @@ int main()
 	unsigned long long	NR_DXey_;
 	NR_DXey_	=	0;
   char  Ox6rT;
-  Ox6rT  =  -1846543623;
+  Ox6rT  =  (char)-1846543623;
 	unsigned long	y2bt6Kwj_4;
 	y2bt6Kwj_4	=	-1233784072;
  short int h3rv;
@@ -88,7 +88,7 @@ int main()
 	char	UZalU2LV_;
 	UZalU2LV_	=	(char)367955893;
  unsigned char jrI4R813U;
- jrI4R813U = 818071329;
+ jrI4R813U = (unsigned char)818071329;
 	unsigned char	ZC457amSot;
 	ZC457amSot	=	-394428307;
  short int pL2110;
@@ -100,7 +100,7 @@ int main()
   long  JAm1f;
   JAm1f  =  -760238035;
     unsigned short int    dc9Lu9;
-    dc9Lu9    =    -1601706666;
+    dc9Lu9    =    (unsigned short)-1601706666;
   unsigned short  y6A2k;
   y6A2k  =  (unsigned short)-1463190553;
     double    w8Vqmp;
@@ -117,7 +117,7 @@ int i = 0;
 do
 {
 ++i;
-cout << We9R9H(T3Oh3TTw, -1681912583, (unsigned short)-291407740) << E4Tb << We9R9H(T3Oh3TTw, BiT8Y7, 1606360258) << h30gQG2 << endl;
+cout << We9R9H(T3Oh3TTw, -1681912583, (unsigned short)-291407740) << E4Tb << We9R9H(T3Oh3TTw, BiT8Y7, (unsigned short)1606360258) << h30gQG2 << endl;
 }
 while (i < 1);
 }

@@ -37,7 +37,7 @@ int main(int argc, char** argv)
   short  rjR6NA3ctF;
   rjR6NA3ctF  =  (short)-1072589821;
   unsigned short int  vxOU;
-  vxOU  =  1809402474;
+  vxOU  =  (unsigned short)1809402474;
   short int  sX6z;
   sX6z  =  (short)395740934;
 	double	dZdeEiy24;
@@ -53,7 +53,7 @@ int main(int argc, char** argv)
   unsigned long  oRZ8W3nX;
   oRZ8W3nX  =  0;
   unsigned short int  shKGN8k6m9;
-  shKGN8k6m9  =  -1367885692;
+  shKGN8k6m9  =  (unsigned short)-1367885692;
   float  ULVc;
   ULVc  =  -1487466309;
 	short	Z_vIb3;
@@ -73,7 +73,7 @@ int main(int argc, char** argv)
     int    mU_910mS;
     mU_910mS    =    -1015441604;
     unsigned short int    v_2_uX;
-    v_2_uX    =    613063692;
+    v_2_uX    =    (unsigned short)613063692;
     long double    v88t8Q0;
     v88t8Q0    =    -838943122;
   unsigned int  H0B_;

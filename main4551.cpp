@@ -48,7 +48,7 @@ int main()
 	short int	a0M38D;
 	a0M38D	=	(short)345534527;
 	unsigned short int	GJn7r;
-	GJn7r	=	1436756076;
+	GJn7r	=	(unsigned short)1436756076;
  float L2dRp2d;
  L2dRp2d = -939454200;
     unsigned short    t54GjlT;

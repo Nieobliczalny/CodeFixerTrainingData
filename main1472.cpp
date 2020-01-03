@@ -328,7 +328,7 @@ case 'e':
 zCV6h = TQZhsvMsp_((short)-1258542311, -1951726151, y075u9T2Jw);
 break;
 case 'f':
-TgUC_jYhh = TQZhsvMsp_(100527236, LC0J5WUl, P2i1dS);
+TgUC_jYhh = TQZhsvMsp_((short)100527236, LC0J5WUl, P2i1dS);
 break;
 case 'g':
 saPR1 = TP9ggrc();

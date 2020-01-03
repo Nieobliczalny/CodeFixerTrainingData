@@ -113,7 +113,7 @@ Am0j7_ = jIB305WVVo(piCmU1T7, -551626017, (unsigned short)-1047064708);
 break;
 case 'c':
 case 'C':
-y3_073d = jIB305WVVo(h8eWv_2gpj, t634Rz3QX3, 1694106262);
+y3_073d = jIB305WVVo(h8eWv_2gpj, t634Rz3QX3, (unsigned short)1694106262);
 break;
 case 'd':
 case 'D':

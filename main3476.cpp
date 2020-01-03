@@ -29,7 +29,7 @@ int main(int argc, char** argv)
  unsigned short STTOi2_U_V, U442k2dq48, PEs3yPHm, nHEQsqgPBY, QmZ5Kjk5, h706qVc, CbuFOxg8, f2fpxsbDZ0, YIm10, qUA88FH9g, LCt6r4P, H_8J6tW, RheeHD_71, k_W4BKw6J, u8Vjct5I, U0iHhnB, ntf_Y_cxN, zn87_Yh, qc_rNmFY, L6_b, EDCH4_H, zdKU5k, E68B0, NDRG9op8;
  STTOi2_U_V = (unsigned short)519207752;
  U442k2dq48 = (unsigned short)1168917141;
- PEs3yPHm = 1473615072;
+ PEs3yPHm = (unsigned short)1473615072;
  nHEQsqgPBY = -1488521136;
  QmZ5Kjk5 = -1672361723;
  h706qVc = 314763492;
@@ -39,7 +39,7 @@ int main(int argc, char** argv)
  qUA88FH9g = -825741491;
  LCt6r4P = (unsigned short)-571922642;
  H_8J6tW = (unsigned short)-1550273903;
- RheeHD_71 = -2565483;
+ RheeHD_71 = (unsigned short)-2565483;
  k_W4BKw6J = 145628326;
  u8Vjct5I = -1395617044;
  U0iHhnB = -880927104;
@@ -49,7 +49,7 @@ int main(int argc, char** argv)
  L6_b = -927547552;
  EDCH4_H = (unsigned short)-1797281881;
  zdKU5k = (unsigned short)860866132;
- E68B0 = -515057912;
+ E68B0 = (unsigned short)-515057912;
  NDRG9op8 = 638344664;
 
 for (int i = 3; i >= 0; i--)
@@ -84,7 +84,7 @@ case 6:
 ntf_Y_cxN = P_oLNy(-1566106796, 723757427, CbuFOxg8, 253011383, (unsigned short)987265765);
 break;
 case 7:
-nHEQsqgPBY = P_oLNy(-893143696, -312874044, -1178505021, 1205589293, 794444420);
+nHEQsqgPBY = P_oLNy(-893143696, -312874044, (unsigned short)-1178505021, 1205589293, 794444420);
 break;
 }
 }
@@ -282,7 +282,7 @@ case 1:
 nHEQsqgPBY = P_oLNy(nHEQsqgPBY, 1812680373, (unsigned short)436538690, 1188377057, (unsigned short)1528177063);
 break;
 case 2:
-U0iHhnB = (U0iHhnB < -431679254) ? RheeHD_71 : 868089773;
+U0iHhnB = (U0iHhnB < -431679254) ? RheeHD_71 : (unsigned short)868089773;
 break;
 }
 }
@@ -542,7 +542,7 @@ case 5:
 H_8J6tW = P_oLNy(H_8J6tW, nHEQsqgPBY, zdKU5k, -458911415, (unsigned short)-1489587490);
 break;
 case 6:
-LCt6r4P = P_oLNy(LCt6r4P, 67521043, (unsigned short)89762534, -85770744, -1606324406);
+LCt6r4P = P_oLNy(LCt6r4P, 67521043, (unsigned short)89762534, -85770744, (unsigned short)-1606324406);
 break;
 case 7:
 XDMn1 = OXWq6(-195610189);

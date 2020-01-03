@@ -30,7 +30,7 @@ int main(void) {
  long TZ_sKaa;
  TZ_sKaa = -1929591255;
   unsigned char  wOKQys61;
-  wOKQys61  =  -49225736;
+  wOKQys61  =  (unsigned char)-49225736;
   unsigned char  caP36h7393;
   caP36h7393  =  -231117099;
  unsigned long long NCdCkzUr;
@@ -64,7 +64,7 @@ int main(void) {
  unsigned long long rGCtu50VM;
  rGCtu50VM = 2025398515;
 	unsigned short int	QwgzgcLN;
-	QwgzgcLN	=	-43263955;
+	QwgzgcLN	=	(unsigned short)-43263955;
   unsigned long  b2MRX6Vv07;
   b2MRX6Vv07  =  0;
     unsigned long    zZ5g;
@@ -102,7 +102,7 @@ int main(void) {
 	short int	ym4xZ27HQ4;
 	ym4xZ27HQ4	=	(short)606792247;
 	short	NjIQzprg5;
-	NjIQzprg5	=	-864847437;
+	NjIQzprg5	=	(short)-864847437;
   short int  K4f1GDYVl;
   K4f1GDYVl  =  274960986;
  short int taanV6;
@@ -136,7 +136,7 @@ Q697 = J1rLXV3Xuh(Q697, NFKXM, (short)2106867171, QwgzgcLN, 1390797988);
 }
 else
 {
-GVs2 = J1rLXV3Xuh(GVs2, (unsigned short)1131681650, 573068360, zZ5g, 194955062);
+GVs2 = J1rLXV3Xuh(GVs2, (unsigned short)1131681650, (short)573068360, zZ5g, 194955062);
 }
 }
 else if (z0UD1_ != -351122286)
@@ -160,7 +160,7 @@ else if (tO0QVqUt <= zTb5049_)
 switch (BltnijV7)
 {
 case 0:
-p4kwD3095 = J1rLXV3Xuh((short)-2065399611, (unsigned short)-218310570, -1989856782, -1500287692, KtEv2_4);
+p4kwD3095 = J1rLXV3Xuh((short)-2065399611, (unsigned short)-218310570, (short)-1989856782, -1500287692, KtEv2_4);
 break;
 case 1:
 D7hwhy5UV = (int)ceil(E_N8JKtqSG);
@@ -484,7 +484,7 @@ D7hwhy5UV = UJ5DK(406054182);
 }
 else
 {
-GVs2 = J1rLXV3Xuh((short)104827189, (unsigned short)790010388, 275467700, 1937460651, CreNzJ2);
+GVs2 = J1rLXV3Xuh((short)104827189, (unsigned short)790010388, (short)275467700, 1937460651, CreNzJ2);
 }
 }
 }
@@ -671,7 +671,7 @@ ljFnJK5eIR = (long)(hWFJ + (mV8zTZ4C1));
 cout << IFH4vJy561() << "I2ZLdP1" << endl;
 L0n3b_ = DTOZqt5H6(1331843918, -1857028359, (short)-1825325169, 1479547136, 2014085409);
 
-R77L8qq237 = J1rLXV3Xuh(R77L8qq237, 123050369, 337284810, uwdy1Osui, 1046405945);
+R77L8qq237 = J1rLXV3Xuh(R77L8qq237, (unsigned short)123050369, 337284810, uwdy1Osui, 1046405945);
 for (int i = 0; i < 8; ++i)
 {
 if (caP36h7393 > 1432507254)

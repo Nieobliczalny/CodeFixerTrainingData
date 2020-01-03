@@ -33,7 +33,7 @@ int main(void) {
     short    bz3bp7;
     bz3bp7    =    (short)904612849;
 	char	mNg1rdl1y;
-	mNg1rdl1y	=	422500264;
+	mNg1rdl1y	=	(char)422500264;
 	unsigned short int	CIX5;
 	CIX5	=	1592694689;
   unsigned char  Z1LG;
@@ -83,7 +83,7 @@ int main(void) {
     short    lymZ;
     lymZ    =    (short)-960407978;
     unsigned short int    unX50s4;
-    unX50s4    =    -851178290;
+    unX50s4    =    (unsigned short)-851178290;
   float  lMziHzqg;
   lMziHzqg  =  599783511;
 	unsigned short	ZZE3zA6br;
@@ -115,7 +115,7 @@ int main(void) {
     long long    kSS4wZL;
     kSS4wZL    =    -313734632;
   unsigned char  Go3_W65Nb;
-  Go3_W65Nb  =  725931623;
+  Go3_W65Nb  =  (unsigned char)725931623;
   char  yv08;
   yv08  =  (char)-818507166;
  unsigned long EUAZ;
@@ -143,7 +143,7 @@ int main(void) {
 	char	o6m_xz;
 	o6m_xz	=	(char)1365936378;
 	unsigned char	BQP_BBL9XY;
-	BQP_BBL9XY	=	1505978547;
+	BQP_BBL9XY	=	(unsigned char)1505978547;
     unsigned char    GZSR8uS;
     GZSR8uS    =    -692526345;
 	unsigned char	m_162;
@@ -161,7 +161,7 @@ int main(void) {
   char  tZ9r215E;
   tZ9r215E  =  (char)1408242900;
     unsigned short int    U33ooMI;
-    U33ooMI    =    1674361648;
+    U33ooMI    =    (unsigned short)1674361648;
  long long u1qodC;
  u1qodC = -513383639;
     char    ViZ87z7;
@@ -171,7 +171,7 @@ int main(void) {
  char QAuPs5dEW;
  QAuPs5dEW = (char)-134980293;
  short int hnU4e0L2tq;
- hnU4e0L2tq = -430407677;
+ hnU4e0L2tq = (short)-430407677;
     short int    vpUk_1LFV_;
     vpUk_1LFV_    =    1268629792;
 	long double	X_VU2fv7e;
@@ -208,7 +208,7 @@ I4r830ZpNm %= BE09p5CZ8o;
 X7__ZO5 = Gpc2y93(X7__ZO5, u1qodC, (unsigned short)-1420718475);
 cout << Gpc2y93(1702430577, 1464536077, cy9s_4C) << Z1LG << endl;
 
-bz3bp7 = Gpc2y93(bz3bp7, -1144094005, 191356147);
+bz3bp7 = Gpc2y93(bz3bp7, -1144094005, (unsigned short)191356147);
 
 switch (mC07SR)
 {

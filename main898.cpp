@@ -605,7 +605,7 @@ zN3n_z3 = ECteaKBSV((unsigned char)-1170903661);
 
 std::cout << "yoj1bs8K" << Dxe_a0sj() << H2wXLPTAyd(899239151, Qpak4s, S9N3b95j0, (short)-241244564) << std::endl;
 
-std::cout << H2wXLPTAyd(zN3n_z3, Qpak4s, 1723671280, 987361219) << oF8YJBhZ << X_Tl() << "QTA5" << H2wXLPTAyd(zN3n_z3, -1144686463, S9N3b95j0, -554629289) << std::endl;
+std::cout << H2wXLPTAyd(zN3n_z3, Qpak4s, 1723671280, (short)987361219) << oF8YJBhZ << X_Tl() << "QTA5" << H2wXLPTAyd(zN3n_z3, -1144686463, S9N3b95j0, -554629289) << std::endl;
 
 if (((kj0R3R9i == I37zGS39) || (oF8YJBhZ)) && (kj0R3R9i <= -2118503346))
 {

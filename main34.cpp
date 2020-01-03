@@ -33,7 +33,7 @@ int main(void)
     unsigned char    G1stqAY4    =    (unsigned char)1079457365;
     unsigned long    N38BkQa    =    10354708;
  long long Bvm2R = 841535858;
-  char  fuEF  =  1001252872;
+  char  fuEF  =  (char)1001252872;
  unsigned long zeDl = -1363380833;
 	int	s0Bv	=	1021639893;
     char    uz7o0b67X1    =    (char)100928324;
@@ -48,7 +48,7 @@ int main(void)
 	unsigned short int	Qv84g84	=	0;
 	unsigned long	U9_7w61h	=	353068881;
   unsigned char  WvR8  =  (unsigned char)1570611372;
-  char  wgR83cYlt2  =  -1568621734;
+  char  wgR83cYlt2  =  (char)-1568621734;
 	short int	fj1D706Ut	=	0;
  unsigned long P7bn_YXY = -1118959143;
  unsigned char WGC9 = (unsigned char)-481896864;
@@ -62,7 +62,7 @@ int main(void)
  unsigned short int G9U65L3Ru4 = (unsigned short)903291831;
 	long long	Jb3fnb0Qg	=	1399901283;
 	unsigned char	A__kT_1	=	(unsigned char)1048043648;
-    char    K36WwnwH    =    2024859939;
+    char    K36WwnwH    =    (char)2024859939;
   char  AgOA  =  680949133;
 	unsigned int	l3M0	=	866854943;
   unsigned long  BgqVP  =  -1329285881;
@@ -75,7 +75,7 @@ int main(void)
 	unsigned long long	Xy6__L	=	-1419785563;
     short int    uCD0O    =    (short)-1623450961;
     short    u0AV5E    =    (short)946773145;
-	unsigned short int	ULi8g	=	-462686925;
+	unsigned short int	ULi8g	=	(unsigned short)-462686925;
     long double    ogEN54L8m    =    -238343546;
 
 try
@@ -546,7 +546,7 @@ break;
 }
 
 cout << "W150lyAN3i" << "fIM4NhZG" << endl;
-NTS20b__c = dO4fXP22mM(414830226, NTS20b__c, l3M0);
+NTS20b__c = dO4fXP22mM((unsigned short)414830226, NTS20b__c, l3M0);
 if ((AfOOkr1I2g <= 86768386) || (G9U65L3Ru4 & -1501362276))
 {
 {

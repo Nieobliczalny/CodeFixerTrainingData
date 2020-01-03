@@ -43,7 +43,7 @@ int main(void)
  long long o7PCkT17D3;
  o7PCkT17D3 = 0;
   unsigned char  L77ixepU28;
-  L77ixepU28  =  2070723248;
+  L77ixepU28  =  (unsigned char)2070723248;
   int  fO46b3;
   fO46b3  =  227614564;
 
@@ -385,7 +385,7 @@ case 'e':
 YPdq = y0F4m006k(YPdq, -1923958885);
 break;
 case 'f':
-fO46b3 = G37B8We_(fO46b3, (unsigned char)1949992607, -46508008, -1548127545);
+fO46b3 = G37B8We_(fO46b3, (unsigned char)1949992607, -46508008, (unsigned short)-1548127545);
 break;
 case 'g':
 YPdq = (int)floor(hH1o9);

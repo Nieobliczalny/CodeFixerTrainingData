@@ -153,7 +153,7 @@ case 6:
 uWcv = lblj0ei_l5 | s277987j;
 break;
 case 7:
-v_R71oT = R87F5aL(v_R71oT, -678423642, -316310479, oF6t6);
+v_R71oT = R87F5aL(v_R71oT, -678423642, (char)-316310479, oF6t6);
 break;
 }
 }

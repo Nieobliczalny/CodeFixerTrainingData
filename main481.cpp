@@ -342,7 +342,7 @@ G2f69c = (int)abs(r351v);
 break;
 }
 
-rwON17 = Icx5v7((unsigned char)883461075, (char)1682453712) / Icx5v7(1635414093, -1437944711);
+rwON17 = Icx5v7((unsigned char)883461075, (char)1682453712) / Icx5v7((unsigned char)1635414093, -1437944711);
 {
 int i = 0;
 while (i < 3)

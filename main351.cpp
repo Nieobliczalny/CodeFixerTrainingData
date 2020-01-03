@@ -172,7 +172,7 @@ case 2:
 FFZT = v55DcF(-118433506, 681503666, lz78C, QXjzXeN0bH);
 break;
 case 3:
-ETk9v5Nzl = XaB39(ETk9v5Nzl, (short)689906638, 1065855336);
+ETk9v5Nzl = XaB39(ETk9v5Nzl, (short)689906638, (unsigned char)1065855336);
 break;
 case 4:
 rzL0c8_Qp = do13_xK - 1195856108;
@@ -238,7 +238,7 @@ soFr5n = Yjz4PF9Zi((char)-1604485968, PX8FTL03, 1336229201, (unsigned short)-645
 ++i;
 }
 }
-std::cout << s_Vb6 << Yjz4PF9Zi(-1013821146, PX8FTL03, d54z13, -1267411354) << "S9yD30G" << std::endl;
+std::cout << s_Vb6 << Yjz4PF9Zi((char)-1013821146, PX8FTL03, d54z13, -1267411354) << "S9yD30G" << std::endl;
 
 U_JW2cG = (double)(R8f6j);
 QB8SHZ6 = (int)ceil(s_Vb6);

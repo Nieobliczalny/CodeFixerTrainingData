@@ -45,7 +45,7 @@ int main(int argc, char** argv)
 	unsigned char	r_X3NyELY;
 	r_X3NyELY	=	(unsigned char)2058084152;
 	unsigned short int	tHG9qzmu;
-	tHG9qzmu	=	1167728818;
+	tHG9qzmu	=	(unsigned short)1167728818;
 	unsigned short int	ukKNtg;
 	ukKNtg	=	-2025648228;
  float v_TGnjssq5;
@@ -71,7 +71,7 @@ int main(int argc, char** argv)
   short int  NpgT7lhkQ5;
   NpgT7lhkQ5  =  (short)1569260481;
  short int a640;
- a640 = 1521435572;
+ a640 = (short)1521435572;
   short  dAZ_s;
   dAZ_s  =  0;
   long  P_I3l;
@@ -241,7 +241,7 @@ case 0:
 Nz4FTQZiHN = (NpgT7lhkQ5 == -1184142785) ? (short)-1497443940 : u2qA7GC1D2;
 break;
 case 1:
-Nz4FTQZiHN = pnu1Dt((unsigned char)1630976497, 1785131858, lkaM5UdBll);
+Nz4FTQZiHN = pnu1Dt((unsigned char)1630976497, (unsigned short)1785131858, lkaM5UdBll);
 break;
 case 2:
 U8Fa4 /= 898442431;

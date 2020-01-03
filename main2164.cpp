@@ -343,7 +343,7 @@ By453Ry2Ph = awioTa3((char)1767941466, Ha6oQ, (short)-1277720230);
 }
 else
 {
-By453Ry2Ph = awioTa3(vGqY4Pg, gL0Bjy_PK, 324514885);
+By453Ry2Ph = awioTa3(vGqY4Pg, gL0Bjy_PK, (short)324514885);
 }
 }
 }

@@ -28,7 +28,7 @@ int main() {
     unsigned long long    DAMrcIj1G    =    -1172946713;
  unsigned char usg_Oij = (unsigned char)727716531;
   short  yev_2  =  0;
- unsigned short V883t6Yq_ = 1709679079;
+ unsigned short V883t6Yq_ = (unsigned short)1709679079;
   short  X_PXv2Ol_7  =  456634283;
 	float	dQ6e02K	=	-1723197119;
     unsigned long    e3Z1q01    =    0;
@@ -49,7 +49,7 @@ int main() {
  long ZEd932 = 1916944462;
 	int	k7OTl	=	-556951310;
     short int    bClVPJV    =    (short)502080378;
-    unsigned short int    PwJ_    =    433961973;
+    unsigned short int    PwJ_    =    (unsigned short)433961973;
     float    XzBNS    =    -1786121761;
   float  t16js9  =  298484170;
   short int  c_H7  =  0;
@@ -83,7 +83,7 @@ case 'b':
 BwA2 |= cscm;
 break;
 case 'c':
-bClVPJV = DnB465((short)-465894471, -82126803, HEBlfjvUM, Dnb_fmrW_M, 2012330614);
+bClVPJV = DnB465((short)-465894471, -82126803, HEBlfjvUM, Dnb_fmrW_M, (short)2012330614);
 break;
 case 'd':
 yev_2 = c3_c9(1398224461, -1044767717, dQ6e02K, yev_2, -1397780117);
@@ -236,7 +236,7 @@ case 'd':
 NX6hU463G2 = DnB465(NX6hU463G2, t16js9, BP__5M0aY, Dnb_fmrW_M, usg_Oij);
 break;
 case 'e':
-c_H7 = c3_c9(673274646, -407947280, -1559367128, 419638840, -939166035);
+c_H7 = c3_c9((unsigned short)673274646, -407947280, -1559367128, 419638840, -939166035);
 break;
 case 'f':
 EC29DA9D_a = (int)floor(w7sd4);
@@ -346,7 +346,7 @@ else
 {
 t16js9 = (int)floor(zT0tpA);
 }
-std::cout << dQ6e02K << ZEd932 << "hDfw4" << DnB465((short)-1627674826, EC29DA9D_a, 966123837, usg_Oij, -1797639010) << std::endl;
+std::cout << dQ6e02K << ZEd932 << "hDfw4" << DnB465((short)-1627674826, EC29DA9D_a, (short)966123837, usg_Oij, -1797639010) << std::endl;
 Lu6yMy = (int)ceil(t16js9);
 
 PwJ_++;

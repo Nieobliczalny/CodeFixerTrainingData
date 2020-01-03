@@ -110,7 +110,7 @@ case 'b':
 KMhy = k_n2dU_y((unsigned char)1503011268);
 break;
 case 'c':
-EFAvv_ = J3ZQEkh6(y903XHQb7, TE1O, -486906957, z7iFljnf);
+EFAvv_ = J3ZQEkh6(y903XHQb7, TE1O, (unsigned char)-486906957, z7iFljnf);
 break;
 }
 }
@@ -125,7 +125,7 @@ switch (EFAvv_)
 {
 case 'a':
 case 'A':
-EFAvv_ = J3ZQEkh6((unsigned short)1455306056, 22680235, (unsigned char)-954623527, -1432937532);
+EFAvv_ = J3ZQEkh6((unsigned short)1455306056, 22680235, (unsigned char)-954623527, (unsigned short)-1432937532);
 break;
 case 'b':
 case 'B':
@@ -137,7 +137,7 @@ Kc8R72_ = k_n2dU_y(847998157);
 break;
 case 'd':
 case 'D':
-BD3WGL = J3ZQEkh6((unsigned short)-1524279980, a047, (unsigned char)-963326750, -1164452756);
+BD3WGL = J3ZQEkh6((unsigned short)-1524279980, a047, (unsigned char)-963326750, (unsigned short)-1164452756);
 break;
 case 'e':
 case 'E':
@@ -216,7 +216,7 @@ z7iFljnf = (int)abs(GwQ9OV9);
 }
 else if ((ZMcYvy26b) && (QuSwXhy43 == 378103581))
 {
-pK5SsXIi8 = dt6Ft((unsigned short)422072210, (char)-18831672, -1941895395, -1908694390, y903XHQb7);
+pK5SsXIi8 = dt6Ft((unsigned short)422072210, (char)-18831672, (unsigned short)-1941895395, -1908694390, y903XHQb7);
 }
 else if ((BD3WGL & EFAvv_) && (aGFm0pdu <= 1189207728))
 {
@@ -294,7 +294,7 @@ case 5:
 SnIkaeqQz = dTeH71SdE(SnIkaeqQz, (short)2042861110, xUNLQrP);
 break;
 case 6:
-Kc8R72_ = ZTNpCP4nn5(-682058026, 847813104, SnIkaeqQz);
+Kc8R72_ = ZTNpCP4nn5((short)-682058026, 847813104, SnIkaeqQz);
 break;
 }
 }
@@ -323,7 +323,7 @@ bjpb2h5 = (int)ceil(Hfp_YQ);
 switch (BD3WGL)
 {
 case 'a':
-bjpb2h5 = dt6Ft((unsigned short)-457446436, y903XHQb7, (unsigned short)-353634330, TE1O, 870764579);
+bjpb2h5 = dt6Ft((unsigned short)-457446436, y903XHQb7, (unsigned short)-353634330, TE1O, (unsigned short)870764579);
 break;
 case 'b':
 TE1O = (int)abs(bjpb2h5);
@@ -412,7 +412,7 @@ pK5SsXIi8 = dTeH71SdE(-737739654, EFAvv_, KMhy) - 782947336;
 switch (BD3WGL)
 {
 case 'a':
-GwQ9OV9 = dt6Ft((unsigned short)-557382750, Hfp_YQ, 1435211424, a047, Kc8R72_);
+GwQ9OV9 = dt6Ft((unsigned short)-557382750, Hfp_YQ, (unsigned short)1435211424, a047, Kc8R72_);
 break;
 case 'b':
 A046Vo = k_n2dU_y((unsigned char)1493024832) << 1080119835;

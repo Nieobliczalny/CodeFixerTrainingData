@@ -20,7 +20,7 @@ int main(int argc, char** argv) {
 	unsigned int	q_nrJO;
 	q_nrJO	=	-1630330593;
  short ToYTOH;
- ToYTOH = 1786965200;
+ ToYTOH = (short)1786965200;
 	short int	uP100G1;
 	uP100G1	=	-869634586;
  unsigned char EBXsm3Eh;
@@ -42,7 +42,7 @@ int main(int argc, char** argv) {
   short int  iYYO9O2;
   iYYO9O2  =  (short)-1602658071;
   unsigned char  DUlelQ;
-  DUlelQ  =  -631333749;
+  DUlelQ  =  (unsigned char)-631333749;
 	unsigned int	soJ4w64C;
 	soJ4w64C	=	1181270263;
     long long    Lz2kr;
@@ -62,7 +62,7 @@ int main(int argc, char** argv) {
  unsigned char mrlo5Jy7Bh;
  mrlo5Jy7Bh = (unsigned char)949432924;
   short  q5lQ;
-  q5lQ  =  -236891301;
+  q5lQ  =  (short)-236891301;
   char  QP31E;
   QP31E  =  820151658;
 	unsigned short	g2zVBtUv;
@@ -72,7 +72,7 @@ int main(int argc, char** argv) {
  unsigned short n5Sd35;
  n5Sd35 = (unsigned short)1172129505;
  short vQz6vqnM;
- vQz6vqnM = -74652614;
+ vQz6vqnM = (short)-74652614;
 	double	ITgZk;
 	ITgZk	=	1087858015;
 	unsigned short	ni82;

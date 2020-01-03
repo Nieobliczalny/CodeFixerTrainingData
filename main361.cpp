@@ -44,7 +44,7 @@ int main(void)
  short int Nkf5ks;
  Nkf5ks = (short)-1804203162;
     unsigned char    qTr8lyytAw;
-    qTr8lyytAw    =    -584109428;
+    qTr8lyytAw    =    (unsigned char)-584109428;
   unsigned short  V6Pgu;
   V6Pgu  =  1096109265;
   long long  trm3Z_J2HO;
@@ -72,7 +72,7 @@ int main(void)
     short int    z1QSVn;
     z1QSVn    =    (short)-519971708;
     unsigned short    JIDo2vIIbm;
-    JIDo2vIIbm    =    930962624;
+    JIDo2vIIbm    =    (unsigned short)930962624;
  unsigned short kjrNWFwKW;
  kjrNWFwKW = -1163463751;
 	long long	h73w;
@@ -84,7 +84,7 @@ int main(void)
     unsigned short int    G4ZCGVp;
     G4ZCGVp    =    (unsigned short)-1241188081;
  char qH5ey_j2;
- qH5ey_j2 = 1475537994;
+ qH5ey_j2 = (char)1475537994;
  unsigned char cu54;
  cu54 = -220516924;
   long double  JORe;
@@ -98,7 +98,7 @@ int main(void)
  unsigned char Xa4TSaQDlE;
  Xa4TSaQDlE = (unsigned char)-1481843252;
 	short int	Y46DB;
-	Y46DB	=	-1555374971;
+	Y46DB	=	(short)-1555374971;
  unsigned int OBc4IxpS8;
  OBc4IxpS8 = -1391245951;
   unsigned short int  GMpM9HwK;
@@ -126,7 +126,7 @@ int main(void)
   long long  s_Mje6_;
   s_Mje6_  =  1726842053;
     unsigned short int    Pl78TjTn3W;
-    Pl78TjTn3W    =    1553572792;
+    Pl78TjTn3W    =    (unsigned short)1553572792;
   char  G_kVdmj9Q9;
   G_kVdmj9Q9  =  8044821;
  short int bKIYcu;
@@ -138,7 +138,7 @@ int main(void)
   unsigned long long  YkhKv2;
   YkhKv2  =  470519982;
   short  f4b7;
-  f4b7  =  -491835607;
+  f4b7  =  (short)-491835607;
   unsigned long long  CfMjDSVZ;
   CfMjDSVZ  =  -389823553;
     unsigned short    QAnJ_FN8;
@@ -154,7 +154,7 @@ int main(void)
 	char	X0BR3_5P;
 	X0BR3_5P	=	(char)-2049973956;
   char  uw618WBBb;
-  uw618WBBb  =  339347555;
+  uw618WBBb  =  (char)339347555;
 	short int	S9NglMz;
 	S9NglMz	=	(short)-1339529190;
   unsigned short  El_a6v;
@@ -188,7 +188,7 @@ int main(void)
   long  edytQ4;
   edytQ4  =  1879281302;
 	short int	Ep0d;
-	Ep0d	=	339612209;
+	Ep0d	=	(short)339612209;
     long double    pBwQ;
     pBwQ    =    -1973797496;
   long  PS0L;

@@ -26,7 +26,7 @@ int main(void)
     unsigned short int    D8I1VnX;
     D8I1VnX    =    0;
   char  YbUe;
-  YbUe  =  -835823482;
+  YbUe  =  (char)-835823482;
   long  xL1078D;
   xL1078D  =  -831414971;
   long  mjUq;
@@ -42,7 +42,7 @@ int main(void)
 	short	kzHd1hQ9tO;
 	kzHd1hQ9tO	=	(short)-857127565;
   short  t1174;
-  t1174  =  -1969783390;
+  t1174  =  (short)-1969783390;
  long long K6_04MuS_;
  K6_04MuS_ = -944161696;
     long double    xfx5p74;
@@ -54,7 +54,7 @@ int main(void)
 
 K6_04MuS_ ^= 756607247;
 
-std::cout << "N9wT" << SG32mlV((unsigned short)-781939918, -2002386564) << "WYjm3JKbM" << SG32mlV(-1206025119, kzHd1hQ9tO) << std::endl;
+std::cout << "N9wT" << SG32mlV((unsigned short)-781939918, (unsigned short)-2002386564) << "WYjm3JKbM" << SG32mlV(-1206025119, kzHd1hQ9tO) << std::endl;
 YC5zx = (int)ceil(th95c2);
 switch (xL1078D)
 {
@@ -112,7 +112,7 @@ break;
 WeLea6 = SG32mlV(WeLea6, K6_04MuS_);
 
 WeLea6 = SG32mlV((unsigned short)-475942621, (unsigned short)1270484934);
-DoTfI = SG32mlV(197465054, DoTfI);
+DoTfI = SG32mlV((unsigned short)197465054, DoTfI);
 
 if (mjUq > -1113154859)
 {

@@ -34,7 +34,7 @@ int main(void) {
   char  LvV99;
   LvV99  =  (char)-1418215586;
   short int  z54_rbM58T;
-  z54_rbM58T  =  1207895281;
+  z54_rbM58T  =  (short)1207895281;
   long  jBADVz6We;
   jBADVz6We  =  1419357856;
 	unsigned long	Xt6F4;
@@ -56,7 +56,7 @@ int main(void) {
   long  zF9Nm8L_w;
   zF9Nm8L_w  =  -1049167658;
   char  OcU2DKBkO;
-  OcU2DKBkO  =  2018904839;
+  OcU2DKBkO  =  (char)2018904839;
  long long ocxbI9;
  ocxbI9 = -268196804;
 	unsigned char	aewOIJ48;
@@ -100,7 +100,7 @@ int main(void) {
     unsigned short    w15_I6q;
     w15_I6q    =    (unsigned short)415106893;
 	unsigned char	eKS1zKUbB0;
-	eKS1zKUbB0	=	1209784871;
+	eKS1zKUbB0	=	(unsigned char)1209784871;
  unsigned long i8071qWr;
  i8071qWr = -1215810756;
 	char	IP70DCh;
@@ -118,7 +118,7 @@ int main(void) {
 	short	ulMVth;
 	ulMVth	=	(short)-613734379;
     unsigned short int    wP38A_K;
-    wP38A_K    =    -1948501116;
+    wP38A_K    =    (unsigned short)-1948501116;
  unsigned int bc2v8BndH;
  bc2v8BndH = 408693134;
     unsigned long long    DiM0vQ;
@@ -130,7 +130,7 @@ int main(void) {
 	unsigned short int	vlvV8Y6;
 	vlvV8Y6	=	(unsigned short)-1361846253;
     short    I09tiz;
-    I09tiz    =    1540297544;
+    I09tiz    =    (short)1540297544;
   unsigned short int  I28O58n483;
   I28O58n483  =  -1130138816;
     unsigned int    m_vEpL972S;
@@ -158,7 +158,7 @@ int main(void) {
     double    E6Oq3Xfj4;
     E6Oq3Xfj4    =    974901040;
   short int  E38A;
-  E38A  =  1828077069;
+  E38A  =  (short)1828077069;
 
 E2hDGA10Ud = (int)floor(MAZ145Br);
 E191 = rmpAAUaxiP(bc2v8BndH, -97326300, m_vEpL972S, l6OjhA38G);
@@ -171,7 +171,7 @@ if (OkalcsEny != -2077096301)
 {
 try
 {
-std::cout << QQ5KBezCa((unsigned short)-722671780, 492065184, m_vEpL972S, 1419627524) << QQ5KBezCa(bc2v8BndH, -2028012330, m_vEpL972S, l6OjhA38G) << r8ieUQ97a << std::endl;
+std::cout << QQ5KBezCa((unsigned short)-722671780, 492065184, m_vEpL972S, (short)1419627524) << QQ5KBezCa(bc2v8BndH, -2028012330, m_vEpL972S, l6OjhA38G) << r8ieUQ97a << std::endl;
 }
 catch (int& errorCode)
 {

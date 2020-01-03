@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
     unsigned long long    wT0Vv;
     wT0Vv    =    -1983238296;
   unsigned short  cgIS45S4N0;
-  cgIS45S4N0  =  1616433893;
+  cgIS45S4N0  =  (unsigned short)1616433893;
  int BdkjpTm;
  BdkjpTm = 197524962;
 	long double	ASfR;
@@ -50,7 +50,7 @@ int main(int argc, char** argv) {
   short int  qSo216;
   qSo216  =  (short)-1370870337;
  unsigned short int RmlNg;
- RmlNg = 1953292854;
+ RmlNg = (unsigned short)1953292854;
   unsigned short  hJ2s;
   hJ2s  =  -451646335;
   unsigned short  NEaP3_G;
@@ -66,7 +66,7 @@ int main(int argc, char** argv) {
  unsigned short RECGccXO26;
  RECGccXO26 = (unsigned short)-161872695;
   char  myNPJ;
-  myNPJ  =  -1572117904;
+  myNPJ  =  (char)-1572117904;
     long    AKf01Rc77;
     AKf01Rc77    =    -900221761;
   unsigned long  doBz;
@@ -86,7 +86,7 @@ int main(int argc, char** argv) {
     unsigned char    mdZY1x;
     mdZY1x    =    (unsigned char)-1456740546;
     unsigned short int    Etg_Yc5_;
-    Etg_Yc5_    =    -888682798;
+    Etg_Yc5_    =    (unsigned short)-888682798;
     long double    FTs4F2;
     FTs4F2    =    959084611;
 	short int	cJ5YCo1G;
@@ -96,7 +96,7 @@ int main(int argc, char** argv) {
 	unsigned short	PFCF;
 	PFCF	=	(unsigned short)1821690108;
     char    h9gA_g;
-    h9gA_g    =    -1825245270;
+    h9gA_g    =    (char)-1825245270;
 	unsigned int	a13PeG_E4;
 	a13PeG_E4	=	-2056300223;
 	unsigned short int	kv1Qnv5_0;
@@ -108,7 +108,7 @@ int main(int argc, char** argv) {
   unsigned short int  eY3rL;
   eY3rL  =  (unsigned short)-1748863473;
     short int    voW1CM;
-    voW1CM    =    1738183356;
+    voW1CM    =    (short)1738183356;
  unsigned int Trj1;
  Trj1 = 2132599572;
   unsigned int  dF7CDN;
@@ -144,7 +144,7 @@ int main(int argc, char** argv) {
   unsigned long long  e3_n3Q;
   e3_n3Q  =  43280559;
  unsigned char cLk9I;
- cLk9I = -1920339609;
+ cLk9I = (unsigned char)-1920339609;
 	unsigned long long	JM0q;
 	JM0q	=	-1865735730;
  double L38Mc;
@@ -387,7 +387,7 @@ case 'b':
 myNPJ = Hzhixi3K(2048489237, T2MBJS_oy, B3P2, t0XnAiKVl2, 562908998);
 break;
 case 'c':
-a13PeG_E4 = OdR_aI7wrd((unsigned short)-1646370947, -24689725, 2964915, lx15M53WlD);
+a13PeG_E4 = OdR_aI7wrd((unsigned short)-1646370947, (unsigned short)-24689725, 2964915, lx15M53WlD);
 break;
 case 'd':
 lg10FN = Hzhixi3K(lg10FN, 1220207896, mdZY1x, -1530651655, h_AW8m2V);

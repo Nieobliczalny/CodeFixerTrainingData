@@ -28,7 +28,7 @@ int main(int argc, char** argv)
   int  UFopag  =  -688640589;
   unsigned int  m_4h67D  =  1863676758;
     unsigned short int    NR4G    =    (unsigned short)-1489631731;
-    unsigned short    R57B4    =    -2043942137;
+    unsigned short    R57B4    =    (unsigned short)-2043942137;
   long  qjIk  =  -1912290734;
     long long    PHy3z    =    -252667982;
 	unsigned long	jNNcGULzR	=	-193952598;
@@ -42,7 +42,7 @@ int main(int argc, char** argv)
  long long dEoNtF = 841155658;
 	unsigned short	f9P84Epl	=	(unsigned short)273466100;
 	unsigned int	Ao_0sVwCu	=	-2014470658;
-  char  n5Igrwj  =  -804073491;
+  char  n5Igrwj  =  (char)-804073491;
   char  BTBD696Df  =  407355788;
     long double    Wlz3T    =    2044017821;
  long double w2Wh1gy = -166576722;
@@ -56,7 +56,7 @@ int main(int argc, char** argv)
     long long    P672Q    =    -1058869203;
  long long yifB3 = 20153441;
  unsigned short oRp9Ul7H = (unsigned short)1031573212;
-  unsigned char  Uh2YKgDV7  =  -920939927;
+  unsigned char  Uh2YKgDV7  =  (unsigned char)-920939927;
 	short int	q1a7	=	895974723;
   unsigned int  a6Ah  =  -48683052;
  long Ohl3q504 = -1756921223;
@@ -67,7 +67,7 @@ int main(int argc, char** argv)
 	short	t_cr1W29I	=	-1921629010;
  long double d4nFaNP4LA = -1582425803;
     short    uXeUOE_eei    =    (short)1756164272;
-	short int	NWTzX4u	=	-1221343979;
+	short int	NWTzX4u	=	(short)-1221343979;
   float  zr7a8F  =  -1280786669;
  unsigned long long s6vFK9 = 1437997908;
 	float	aLw1T	=	-429333782;
@@ -79,7 +79,7 @@ int main(int argc, char** argv)
 	long long	r649	=	-1072517538;
 	long double	sK84Meo	=	105498289;
   unsigned short  VTzL7T  =  (unsigned short)-1685677648;
-    unsigned short int    DaSwDQ35    =    676102345;
+    unsigned short int    DaSwDQ35    =    (unsigned short)676102345;
  double JTE68 = -307038742;
  unsigned short int xxwe6tfdcv = 2119122694;
   short  DGs68AW  =  910709435;
@@ -165,7 +165,7 @@ D_al = T2L8Fy(D_al, emjjIbb, Ohl3q504, Q00Woxr, ON4l7);
 }
 else
 {
-cout << lW104ZUTJ((short)-1046815721, (unsigned char)922480916, Ohl3q504, Q00Woxr) << CiM7r(D_al, emjjIbb, 550394774, -752464605) << endl;
+cout << lW104ZUTJ((short)-1046815721, (unsigned char)922480916, Ohl3q504, Q00Woxr) << CiM7r(D_al, emjjIbb, 550394774, (short)-752464605) << endl;
 }
 
 Ohl3q504 = lW104ZUTJ(-1225944764, D_al, zr7a8F, P672Q);
@@ -195,7 +195,7 @@ else if (C_ocXx < -691938809)
 {
 try
 {
-NR4G = lW104ZUTJ(-1710838779, t_cr1W29I, -1717210842, 1428650565);
+NR4G = lW104ZUTJ((short)-1710838779, t_cr1W29I, -1717210842, 1428650565);
 }
 catch (int& errorCode)
 {

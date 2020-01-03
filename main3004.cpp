@@ -179,7 +179,7 @@ RE__ = BN21lGez + 581508487;
 break;
 case 'e':
 case 'E':
-Jr61O = KfA7Nn(-444589266);
+Jr61O = KfA7Nn((unsigned short)-444589266);
 break;
 case 'f':
 case 'F':
@@ -228,7 +228,7 @@ yaxR0s5 = gu_8JCTP(yaxR0s5, Y8d9, r_7I, nV004pL3nF, (short)1904475884);
 break;
 case 'e':
 case 'E':
-X512 = tmcexVwvU((char)45383070, 2140563531, TFosR_Em, B08aq1jd);
+X512 = tmcexVwvU((char)45383070, (unsigned short)2140563531, TFosR_Em, B08aq1jd);
 break;
 default:
 RlloT -= mx9sQgi8X;

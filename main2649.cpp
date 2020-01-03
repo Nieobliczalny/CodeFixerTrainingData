@@ -32,7 +32,7 @@ char    tpuEQ6(unsigned long long    FuTAf1C,int    tu_h,char    j8g_Ec5Qq,int  
 }
 
 unsigned char IL2Mj3_c58(unsigned short I6CitP) {
- return 468559262;
+ return (unsigned char)468559262;
 }
 
 int main()
@@ -48,7 +48,7 @@ tA7I582FN = IL2Mj3_c58((unsigned short)-483208840);
 break;
 case 'b':
 case 'B':
-fji18 = DDYN((short)-251632064, -351445290, -1841206446, YaGVdRJ5_, -11691969);
+fji18 = DDYN((short)-251632064, (short)-351445290, -1841206446, YaGVdRJ5_, -11691969);
 break;
 case 'c':
 case 'C':
@@ -85,7 +85,7 @@ case 0:
 isjB1SnXh_ ^= 847239328;
 break;
 case 1:
-f3fi9 = DDYN((short)149420922, (short)-1180544228, i0U0pf, U85WMlaa, 784391475);
+f3fi9 = DDYN((short)149420922, (short)-1180544228, i0U0pf, U85WMlaa, (short)784391475);
 break;
 case 2:
 i0U0pf++;
@@ -255,7 +255,7 @@ LaL7rZq9O = IL2Mj3_c58(LaL7rZq9O);
 }
 else if (gzwwB5STH7)
 {
-XyD_m = DDYN((short)-97537814, (short)707963224, p0ahdYM7nD, JyW4, -833093393);
+XyD_m = DDYN((short)-97537814, (short)707963224, p0ahdYM7nD, JyW4, (short)-833093393);
 }
 else if (X73YTg5 & Znx53biTG3)
 {

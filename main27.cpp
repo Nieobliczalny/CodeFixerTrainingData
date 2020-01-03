@@ -75,7 +75,7 @@ int main(int argc, char** argv)
 	unsigned short	Kh9l_b;
 	Kh9l_b	=	(unsigned short)-1419578184;
 
-YFOSaB_HX = S_w6(-1717840509, xA3kX02Gv6, mF0gAJVGN);
+YFOSaB_HX = S_w6((unsigned short)-1717840509, xA3kX02Gv6, mF0gAJVGN);
 if (VMsw_ > 1224555467)
 {
 {
@@ -431,7 +431,7 @@ Tq2Gj3kZAc = S_w6((unsigned short)1264745703, -861681006, NlytFWX_qf);
 }
 else if (jGsBZ < 1790295189)
 {
-xA3kX02Gv6 = Ydy_r9r_(207123551, -26777339, VMsw_);
+xA3kX02Gv6 = Ydy_r9r_((unsigned short)207123551, -26777339, VMsw_);
 }
 else if (((jGsBZ) && (tuR_SEO != 1993092151)) && (YFOSaB_HX > Hi_1p80R))
 {

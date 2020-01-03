@@ -30,7 +30,7 @@ int main(int argc, char** argv)
  double Fki1Y = -238899915;
     long long    w0N8x5    =    -248740704;
   double  WCtpW8  =  1016088649;
-	char	a_kAxHy	=	-1987502042;
+	char	a_kAxHy	=	(char)-1987502042;
  short int V771KBQ = -1169147085;
   int  W4ueht  =  0;
   char  sA20240d_1  =  472766188;
@@ -42,7 +42,7 @@ int main(int argc, char** argv)
 	double	ISWL	=	-1471445737;
   int  MW2_Esg  =  682983936;
   unsigned short  i76q13_  =  0;
-	short	R1th	=	864556548;
+	short	R1th	=	(short)864556548;
  unsigned short int b1OTa_0n = -86315428;
  long long w0XJ7PO = -318517555;
   short  N77wxz1A4  =  (short)-1651868994;
@@ -52,7 +52,7 @@ int main(int argc, char** argv)
  unsigned char ODHs = 1564459462;
  char qY8ucOMQ61 = -2022167394;
     char    R8TE    =    -1228475636;
-    short int    j7CbqQVG    =    -1228256097;
+    short int    j7CbqQVG    =    (short)-1228256097;
   short int  r0_CE  =  1190490264;
     int    xDp36AI9    =    1249747248;
 	double	MJOP6	=	-1801896869;
@@ -62,7 +62,7 @@ int main(int argc, char** argv)
 	unsigned short	B_09t	=	(unsigned short)536504995;
   double  yt07NL9EX  =  1235040707;
   double  OffwmI51  =  -340487958;
-  short int  RYsY  =  169895359;
+  short int  RYsY  =  (short)169895359;
     unsigned int    V1xiYS__    =    1018231356;
     unsigned long long    c8XEb4_76    =    1410259174;
 	unsigned int	THu03wp38	=	-1074175212;
@@ -187,7 +187,7 @@ else if ((MW2_Esg <= -989088482) && (Fki1Y <= B_09t))
 {
 try
 {
-cout << Y5sFCym_gO(qY8ucOMQ61, (unsigned short)51154619) << Y5sFCym_gO(1963563167, (unsigned short)997746840) << HXuYSutlS3(qY8ucOMQ61, b1OTa_0n, 1661637543, fSSC) << n1BS1(970431320, b1OTa_0n, -1666351656, fSSC, 1812375006) << "G45Y5c" << endl;
+cout << Y5sFCym_gO(qY8ucOMQ61, (unsigned short)51154619) << Y5sFCym_gO(1963563167, (unsigned short)997746840) << HXuYSutlS3(qY8ucOMQ61, b1OTa_0n, 1661637543, fSSC) << n1BS1(970431320, b1OTa_0n, -1666351656, fSSC, (unsigned short)1812375006) << "G45Y5c" << endl;
 }
 catch (int& errorCode)
 {
@@ -278,7 +278,7 @@ catch (int& errorCode)
 b1OTa_0n = Y5sFCym_gO(1815157606, -154904190);
 }
 
-cout << HXuYSutlS3((char)191538969, V1xiYS__, THu03wp38, -2139341937) / r6AXph(-1046312225, 1687912423, THu03wp38) << endl;
+cout << HXuYSutlS3((char)191538969, V1xiYS__, THu03wp38, (unsigned char)-2139341937) / r6AXph(-1046312225, 1687912423, THu03wp38) << endl;
 
 yt07NL9EX = (int)ceil(OffwmI51);
 
@@ -304,7 +304,7 @@ r0_CE = Tk0sl3o_3y(r0_CE, MLF_g35Ni);
 break;
 case 'e':
 case 'E':
-RYsY = HXuYSutlS3((char)-808969370, (unsigned short)6584033, 167263656, 227169809);
+RYsY = HXuYSutlS3((char)-808969370, (unsigned short)6584033, 167263656, (unsigned char)227169809);
 break;
 case 'f':
 case 'F':
@@ -337,7 +337,7 @@ break;
 }
 if (MW2_Esg == -1091985428)
 {
-cout << HXuYSutlS3((char)1960762773, (unsigned short)-1773411619, 1280213125, -219022481) << endl;
+cout << HXuYSutlS3((char)1960762773, (unsigned short)-1773411619, 1280213125, (unsigned char)-219022481) << endl;
 }
 else
 {
@@ -360,7 +360,7 @@ case 2:
 RYsY = Tk0sl3o_3y(1452326601, (short)93571185) + 743445367;
 break;
 case 3:
-r0_CE = HXuYSutlS3(r0_CE, W4ueht, MLF_g35Ni, -30185597);
+r0_CE = HXuYSutlS3(r0_CE, W4ueht, MLF_g35Ni, (unsigned char)-30185597);
 break;
 case 4:
 ISWL = (int)floor(WCtpW8);

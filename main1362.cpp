@@ -23,7 +23,7 @@ int main()
 	unsigned int	F67q	=	0;
   int  mLget  =  2073305559;
  unsigned short int HzIk = (unsigned short)359858297;
-	char	il6m0BAZGO	=	2133472091;
+	char	il6m0BAZGO	=	(char)2133472091;
  long tERZ2gd2B = -2122762489;
 	unsigned int	czZS5yOWI	=	1750553160;
   short int  Pnvjao6_RP  =  312014243;
@@ -37,7 +37,7 @@ int main()
     double    mhCl    =    1436343321;
     short int    Oeqxj73    =    (short)-26880175;
     long long    iraC5m8Iw    =    25722984;
-  short int  sb1I2X6  =  496692480;
+  short int  sb1I2X6  =  (short)496692480;
     unsigned short    K19gb_W1e    =    451152722;
   float  jZ8VL6  =  -896910839;
  long double iIxCi = 1815028843;
@@ -48,7 +48,7 @@ int main()
   long  sl2OeDT  =  1214223474;
 	unsigned long	Gvl8HtYjZi	=	-1718779073;
 	unsigned short	I_nVu	=	(unsigned short)452616639;
-    char    JFvO4    =    -1958445261;
+    char    JFvO4    =    (char)-1958445261;
   unsigned long long  rHib  =  1233860199;
   long long  T46RSVo9WV  =  -114893887;
     float    tw4sA    =    -1685385736;
@@ -60,7 +60,7 @@ int main()
  unsigned int Q6oq_mw80 = -750635235;
     char    dufs8z4_Me    =    (char)985123944;
   short int  D4zVm25Z_2  =  (short)772773851;
-    char    nbtTcX    =    1539200555;
+    char    nbtTcX    =    (char)1539200555;
     long    v7v1ha46Ai    =    965850972;
     short    zXg_1    =    2064279632;
 	unsigned short	Luy37PenC	=	-1490164093;
@@ -80,7 +80,7 @@ int main()
 	unsigned char	cZZjFoi	=	(unsigned char)-379747286;
  unsigned long long O7gI_2v = -1331611139;
 
-std::cout << sb1I2X6 << sl2OeDT << lZElkZFoVV(1915826863, sb1I2X6, 2037009645, (short)-1381980685) << OM1n8LlCI6() << lZElkZFoVV(1631155693, 1980440664, 1384432760, gI50Hzbr) << std::endl;
+std::cout << sb1I2X6 << sl2OeDT << lZElkZFoVV(1915826863, sb1I2X6, 2037009645, (short)-1381980685) << OM1n8LlCI6() << lZElkZFoVV(1631155693, (short)1980440664, 1384432760, gI50Hzbr) << std::endl;
 std::cout << lZElkZFoVV(b7zWStV, sb1I2X6, 646160029, gI50Hzbr) << std::endl;
 if ((iIxCi > JFvO4) || (cZZjFoi & -289689704))
 {

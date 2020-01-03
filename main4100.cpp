@@ -24,7 +24,7 @@ int main(void)
  unsigned long X6EG0S;
  X6EG0S = 205246854;
 	unsigned short int	e9E4s;
-	e9E4s	=	-869156476;
+	e9E4s	=	(unsigned short)-869156476;
 	unsigned char	mrOH7;
 	mrOH7	=	1862515337;
  short int InT2f;
@@ -36,7 +36,7 @@ int main(void)
     float    k542s;
     k542s    =    -899227936;
     unsigned char    Z7rK9mYz;
-    Z7rK9mYz    =    328562520;
+    Z7rK9mYz    =    (unsigned char)328562520;
 	unsigned short	p8p_X8_;
 	p8p_X8_	=	(unsigned short)1329769594;
  int KNcmN4465;
@@ -64,7 +64,7 @@ int main(void)
 	short	tx1taNNo;
 	tx1taNNo	=	(short)-374856285;
  unsigned char d9y9E8eEi2;
- d9y9E8eEi2 = -1454526610;
+ d9y9E8eEi2 = (unsigned char)-1454526610;
   unsigned short  nWRs07p;
   nWRs07p  =  (unsigned short)-1227201138;
     double    B4P2E;
@@ -74,7 +74,7 @@ int main(void)
   unsigned short  jhgi;
   jhgi  =  (unsigned short)1577693501;
     unsigned char    L6g4vwjHWn;
-    L6g4vwjHWn    =    1621524300;
+    L6g4vwjHWn    =    (unsigned char)1621524300;
     short int    Wj_rEGW;
     Wj_rEGW    =    (short)1591878307;
   long double  PL_8Jgsf;
@@ -100,7 +100,7 @@ int main(void)
   short  SiPk;
   SiPk  =  (short)-1783723646;
 	char	oVrvUIYfl;
-	oVrvUIYfl	=	-366725764;
+	oVrvUIYfl	=	(char)-366725764;
     long long    UKTWVU5mM4;
     UKTWVU5mM4    =    -1506772641;
  char A0S4P7fHgc;
@@ -176,7 +176,7 @@ int main(void)
  unsigned short FhN_4;
  FhN_4 = (unsigned short)-229097229;
   short  yy8_Zu;
-  yy8_Zu  =  130988273;
+  yy8_Zu  =  (short)130988273;
   unsigned short int  P2KfZd;
   P2KfZd  =  (unsigned short)-1655701045;
 	unsigned short	EqTB1kfuI;
@@ -190,7 +190,7 @@ int main(void)
     unsigned short    q08eyAr8g;
     q08eyAr8g    =    (unsigned short)-2136283943;
   short  WbmnG;
-  WbmnG  =  -599322301;
+  WbmnG  =  (short)-599322301;
  double K2GM6gA6K;
  K2GM6gA6K = -1416818155;
  unsigned short int o7pA1HSsY;
@@ -496,7 +496,7 @@ case 'c':
 k542s = (int)floor(PL_8Jgsf);
 break;
 case 'd':
-Ukwyc7IT = BSc8MUIYzZ(-12430514, -521036486, A0S4P7fHgc, -1994037663);
+Ukwyc7IT = BSc8MUIYzZ((char)-12430514, -521036486, A0S4P7fHgc, -1994037663);
 break;
 }
 }

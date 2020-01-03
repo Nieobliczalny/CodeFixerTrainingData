@@ -26,7 +26,7 @@ int main(void)
 {
  unsigned char vN52I3T2, dt5diVS2;
  vN52I3T2 = (unsigned char)641911435;
- dt5diVS2 = -1274879478;
+ dt5diVS2 = (unsigned char)-1274879478;
   unsigned short  l629x7PG0T,  Mdcb_J6,  DQ3qx,  O5ba,  l17T;
   l629x7PG0T  =  0;
   Mdcb_J6  =  0;
@@ -57,7 +57,7 @@ vN52I3T2 = ATj3UQZGeG((char)-1716070711, (unsigned short)-934292056, Mdcb_J6, vN
 }
 else if ((l17T > -2046397989) && ((DQ3qx == -1585121265) && (vN52I3T2)))
 {
-vN52I3T2 = V0MRkg4mE(-1832628549, 1284999458, l629x7PG0T, -633610374, -1530261263);
+vN52I3T2 = V0MRkg4mE(-1832628549, 1284999458, l629x7PG0T, (short)-633610374, -1530261263);
 }
 else if (((DQ3qx) || (vN52I3T2 > l629x7PG0T)) && (dt5diVS2 == vN52I3T2))
 {
@@ -85,7 +85,7 @@ Mdcb_J6 = UXvzToE0(900213565, (short)-2082287198, O5ba, -1372155089, 259349852);
 
 for (int i = 9; i >= 0; i--)
 {
-dt5diVS2 = ATj3UQZGeG(DQ3qx, (unsigned short)-303153817, 63147422, dt5diVS2, l17T);
+dt5diVS2 = ATj3UQZGeG(DQ3qx, (unsigned short)-303153817, (char)63147422, dt5diVS2, l17T);
 }
 
 dt5diVS2++;
@@ -262,7 +262,7 @@ dt5diVS2 *= O5ba;
 }
 else if (DQ3qx == vN52I3T2)
 {
-vN52I3T2 = ATj3UQZGeG((char)-113914718, DQ3qx, 1955209488, -1647407322, vN52I3T2);
+vN52I3T2 = ATj3UQZGeG((char)-113914718, DQ3qx, (char)1955209488, -1647407322, vN52I3T2);
 }
 else if (l629x7PG0T <= -58437820)
 {
@@ -291,7 +291,7 @@ case 4:
 vN52I3T2 %= dt5diVS2;
 break;
 case 5:
-dt5diVS2 = ATj3UQZGeG(137191593, l629x7PG0T, vN52I3T2, 1428465202, -166682359);
+dt5diVS2 = ATj3UQZGeG((char)137191593, l629x7PG0T, vN52I3T2, 1428465202, -166682359);
 break;
 case 6:
 dt5diVS2 += dt5diVS2;
@@ -303,7 +303,7 @@ case 8:
 vN52I3T2 = ATj3UQZGeG((char)-2089325087, (unsigned short)-563788287, 1208197092, -1065397555, 1188215193);
 break;
 case 9:
-dt5diVS2 = ATj3UQZGeG(287351917, O5ba, -806502721, l17T, 1248171261);
+dt5diVS2 = ATj3UQZGeG((char)287351917, O5ba, -806502721, l17T, 1248171261);
 break;
 }
 }
@@ -330,7 +330,7 @@ switch (l629x7PG0T)
 {
 case 'a':
 case 'A':
-dt5diVS2 = ATj3UQZGeG((char)2117050345, (unsigned short)-272455447, 2103293265, 868276780, vN52I3T2);
+dt5diVS2 = ATj3UQZGeG((char)2117050345, (unsigned short)-272455447, (char)2103293265, 868276780, vN52I3T2);
 break;
 case 'b':
 case 'B':
@@ -362,7 +362,7 @@ int k = 3;
 do
 {
 --k;
-l17T = UXvzToE0(-1229677205, (short)521115249, 888519550, -1762715050, -1008706112);
+l17T = UXvzToE0(-1229677205, (short)521115249, (unsigned short)888519550, -1762715050, -1008706112);
 }
 while (k >= 0);
 }

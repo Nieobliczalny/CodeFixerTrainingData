@@ -16,7 +16,7 @@ int main(int argc, char** argv) {
 	unsigned short int	ISh_n51,	tckwTjm6,	K2dS947VT,	AZehlQS,	Ew5d2ln53,	O86BJlZ9z,	c3uM6T,	n5C7FM,	nI_rc7,	dxc6c0N2,	oMYAD0fU,	U4z_d4E86,	NTA38;
 	ISh_n51	=	(unsigned short)1082149929;
 	tckwTjm6	=	(unsigned short)262434740;
-	K2dS947VT	=	-1263324320;
+	K2dS947VT	=	(unsigned short)-1263324320;
 	AZehlQS	=	-492642221;
 	Ew5d2ln53	=	-146304070;
 	O86BJlZ9z	=	206335605;
@@ -26,7 +26,7 @@ int main(int argc, char** argv) {
 	dxc6c0N2	=	1516053945;
 	oMYAD0fU	=	(unsigned short)-1483778964;
 	U4z_d4E86	=	(unsigned short)1886738914;
-	NTA38	=	-662766067;
+	NTA38	=	(unsigned short)-662766067;
     short    HYat4uHe_,    R69rsjEgk,    VuVN1Q,    JNt5f3d,    J84P;
     HYat4uHe_    =    0;
     R69rsjEgk    =    0;
@@ -191,7 +191,7 @@ c3uM6T = (J84P != 1561350899) ? TxSV_(2138610236, 1498771959, ISh_n51) : (unsign
 }
 else if (U4z_d4E86 <= HYat4uHe_)
 {
-J84P = TxSV_(-1890050209, ISh_n51, -1274863652);
+J84P = TxSV_(-1890050209, ISh_n51, (short)-1274863652);
 }
 else if (((n5C7FM) && (O86BJlZ9z < 1348492984)) && ((c3uM6T != ISh_n51) || (U4z_d4E86 & -2091405883)))
 {

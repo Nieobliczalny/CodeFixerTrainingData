@@ -46,7 +46,7 @@ int main(int argc, char** argv) {
     short int    OxOtEui;
     OxOtEui    =    (short)-1385330891;
     short int    kmO8F;
-    kmO8F    =    -1375356844;
+    kmO8F    =    (short)-1375356844;
 	long	J62E3UL;
 	J62E3UL	=	-1776771052;
   char  eR6XC9Mrhq;
@@ -64,7 +64,7 @@ int main(int argc, char** argv) {
   short int  CNXCMPD;
   CNXCMPD  =  (short)518884735;
     unsigned short    zJM5;
-    zJM5    =    135276000;
+    zJM5    =    (unsigned short)135276000;
     unsigned short    bBhr;
     bBhr    =    1898522550;
  short vp4_mjDqg9;
@@ -92,7 +92,7 @@ int main(int argc, char** argv) {
 	int	GTwOq1x04_;
 	GTwOq1x04_	=	1829983701;
  unsigned char xplKs3M8r0;
- xplKs3M8r0 = 420702703;
+ xplKs3M8r0 = (unsigned char)420702703;
     unsigned long long    fqegk;
     fqegk    =    1596834629;
 	float	ZHac_l;
@@ -114,7 +114,7 @@ int main(int argc, char** argv) {
  float nw6x3a9;
  nw6x3a9 = -1719417506;
     short int    sVd93K_T0;
-    sVd93K_T0    =    1718323738;
+    sVd93K_T0    =    (short)1718323738;
   long long  iphf2e37Mv;
   iphf2e37Mv  =  831341194;
  long long stU9IB4q_;
@@ -148,7 +148,7 @@ int main(int argc, char** argv) {
  long double V_1YA0U;
  V_1YA0U = 714317829;
  unsigned char iB3pL;
- iB3pL = 1841670208;
+ iB3pL = (unsigned char)1841670208;
 	int	d8s_;
 	d8s_	=	-1900153211;
  char S4894;
@@ -174,7 +174,7 @@ int main(int argc, char** argv) {
     float    tvOMa;
     tvOMa    =    132456042;
 	char	SvcCFJn;
-	SvcCFJn	=	-603793503;
+	SvcCFJn	=	(char)-603793503;
     unsigned short    XFMV;
     XFMV    =    (unsigned short)1786715777;
 	long long	Se1Amv_b;
@@ -184,7 +184,7 @@ int main(int argc, char** argv) {
     char    Yb0UAnK769;
     Yb0UAnK769    =    (char)-715500570;
  unsigned char n_1H5uH_k;
- n_1H5uH_k = -269395356;
+ n_1H5uH_k = (unsigned char)-269395356;
  unsigned short haZgk2V;
  haZgk2V = (unsigned short)529336159;
     unsigned char    b86I;
@@ -308,7 +308,7 @@ case 0:
 EB__aTo_k = CAtg11c((char)1816287507, gy7ri, choi3IR3g8, ZHac_l, (char)1151705847);
 break;
 case 1:
-C_P_32OXG = CAtg11c(C_P_32OXG, 1003982545, E50i8R, -989068597, kmO8F);
+C_P_32OXG = CAtg11c(C_P_32OXG, (short)1003982545, E50i8R, -989068597, kmO8F);
 break;
 case 2:
 E50i8R = (int)floor(bDxvhuS);
@@ -321,7 +321,7 @@ break;
 Rp5lEpyt5S = A9aZK79QT(iB3pL, Ko8498, H96oT67, re7L_i);
 p1T597Qj = (int)ceil(ZHac_l);
 
-std::cout << "U0349a" << V0Zh6nk(iB3pL, 1815744834, 1033458167, (char)-1017418043) << tvOMa << A9aZK79QT(iB3pL, (short)796145626, H96oT67, re7L_i) << V0Zh6nk(193789949, -487765940, 2026756082, 1663522904) << std::endl;
+std::cout << "U0349a" << V0Zh6nk(iB3pL, 1815744834, 1033458167, (char)-1017418043) << tvOMa << A9aZK79QT(iB3pL, (short)796145626, H96oT67, re7L_i) << V0Zh6nk(193789949, -487765940, 2026756082, (char)1663522904) << std::endl;
 
 if (GTwOq1x04_ <= -1625382746)
 {
@@ -361,7 +361,7 @@ case 0:
 p1T597Qj = (int)ceil(GQ0cSV8);
 break;
 case 1:
-Rp5lEpyt5S = A9aZK79QT(ZHac_l, (short)1784662702, (unsigned short)1595018032, -1591407423);
+Rp5lEpyt5S = A9aZK79QT(ZHac_l, (short)1784662702, (unsigned short)1595018032, (short)-1591407423);
 break;
 case 2:
 bBhr <<= 730712887;
@@ -396,7 +396,7 @@ case 4:
 Ko8498++;
 break;
 default:
-ZHac_l = CAtg11c((char)1088137822, (short)71915252, 1226645319, X110, kmO8F);
+ZHac_l = CAtg11c((char)1088137822, (short)71915252, (unsigned short)1226645319, X110, kmO8F);
 break;
 }
 }
@@ -409,7 +409,7 @@ Y2Vv5SK5 = (double)(s7H4);
 Za4Ze_0E17 = (s7H4 != nIBjG) ? -1260291922 : CAtg11c(ZHac_l, r43sl9yPl, HS__T4hHV, X110, (char)-153557158);
 if (xplKs3M8r0 & sVd93K_T0)
 {
-std::cout << CAtg11c((char)-1344190798, r43sl9yPl, HS__T4hHV, -1569824721, -847422098) << A9aZK79QT(ZHac_l, 122363884, HS__T4hHV, 1417211138) << "O2jEnMf" << std::endl;
+std::cout << CAtg11c((char)-1344190798, r43sl9yPl, HS__T4hHV, (unsigned short)-1569824721, -847422098) << A9aZK79QT(ZHac_l, 122363884, HS__T4hHV, 1417211138) << "O2jEnMf" << std::endl;
 }
 {
 int i = 5;
@@ -429,7 +429,7 @@ case 1:
 SAXJ71kcg = (int)floor(V_1YA0U);
 break;
 case 2:
-J62E3UL = CAtg11c((char)1940749982, NKsR7k, r43sl9yPl, (unsigned short)-842583160, 1967118833);
+J62E3UL = CAtg11c((char)1940749982, NKsR7k, r43sl9yPl, (unsigned short)-842583160, (char)1967118833);
 break;
 case 3:
 OxOtEui = (int)abs(kzb1);
@@ -444,7 +444,7 @@ case 6:
 Rp5lEpyt5S = A9aZK79QT((unsigned char)-235581345, ZHac_l, Se1Amv_b, (short)-1815817368);
 break;
 case 7:
-Rp5lEpyt5S = A9aZK79QT(u7hv, -1593602762, -1775149461, Rp5lEpyt5S);
+Rp5lEpyt5S = A9aZK79QT(u7hv, (short)-1593602762, -1775149461, Rp5lEpyt5S);
 break;
 case 8:
 iphf2e37Mv = iphf2e37Mv >> 251574021;
@@ -457,7 +457,7 @@ i--;
 }
 }
 
-std::cout << "Od6yCCr1p" << V0Zh6nk(u7hv, 1244140122, kmO8F, (char)1548176510) << "t7Nt" << CAtg11c(u7hv, E50i8R, (unsigned short)617887077, Rp5lEpyt5S, 1129272254) << "eF82Lw41" << std::endl;
+std::cout << "Od6yCCr1p" << V0Zh6nk(u7hv, 1244140122, kmO8F, (char)1548176510) << "t7Nt" << CAtg11c(u7hv, E50i8R, (unsigned short)617887077, Rp5lEpyt5S, (char)1129272254) << "eF82Lw41" << std::endl;
 if ((sVd93K_T0 / S4894) < -600191743)
 {
 H96oT67 = gy7ri / S4894;
@@ -496,7 +496,7 @@ if (oj75bmK0 & D7RUqYl)
 int j = 2;
 do
 {
-std::cout << S4894 << V0Zh6nk(892068836, -122240512, 2038498632, Rp5lEpyt5S) << TBCi << A9aZK79QT((unsigned char)-282130602, E50i8R, kmO8F, Rp5lEpyt5S) << CAtg11c(u7hv, E50i8R, 2060633384, Rp5lEpyt5S, cLqu4Hc0) << std::endl;
+std::cout << S4894 << V0Zh6nk(892068836, -122240512, 2038498632, Rp5lEpyt5S) << TBCi << A9aZK79QT((unsigned char)-282130602, E50i8R, kmO8F, Rp5lEpyt5S) << CAtg11c(u7hv, E50i8R, (unsigned short)2060633384, Rp5lEpyt5S, cLqu4Hc0) << std::endl;
 j--;
 }
 while (j >= 0);
@@ -538,7 +538,7 @@ catch (int& errorCode)
 {
 k83B31v6M = iB3pL << u7hv;
 }
-std::cout << V0Zh6nk(-1588630370, -1106382697, 280446606, (char)1032575895) << CAtg11c((char)-1374311230, 1606626295, NKsR7k, 1471489443, o33jn44N6d) << "uS3FydbjU" << A9aZK79QT(zJM5, stU9IB4q_, -556143261, ZHac_l) << std::endl;
+std::cout << V0Zh6nk(-1588630370, -1106382697, 280446606, (char)1032575895) << CAtg11c((char)-1374311230, (short)1606626295, NKsR7k, 1471489443, o33jn44N6d) << "uS3FydbjU" << A9aZK79QT(zJM5, stU9IB4q_, -556143261, ZHac_l) << std::endl;
 
 kmO8F = (short int)(s7H4);
 

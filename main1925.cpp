@@ -30,7 +30,7 @@ int main()
     unsigned long    UcBG;
     UcBG    =    0;
     short int    zNGLHF;
-    zNGLHF    =    -1160764390;
+    zNGLHF    =    (short)-1160764390;
   long  j80LO5F;
   j80LO5F  =  -879298847;
   float  z_h_;
@@ -46,7 +46,7 @@ int main()
 	char	dQr1bZcC;
 	dQr1bZcC	=	(char)-114838650;
     unsigned char    nC20;
-    nC20    =    -1897387498;
+    nC20    =    (unsigned char)-1897387498;
   short  VORMU5mO;
   VORMU5mO  =  1232440538;
   unsigned long  E055XY;

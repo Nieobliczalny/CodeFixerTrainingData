@@ -48,7 +48,7 @@ int main(int argc, char** argv) {
 	short int	gfvst50x	=	(short)1313818567;
  long bgRBpsb35 = 0;
  unsigned short int uYR86v_cH = (unsigned short)1573824919;
-    short    vbphP    =    1279657768;
+    short    vbphP    =    (short)1279657768;
 	short int	MyE0G4fB9	=	1052698640;
 	unsigned long	MC5mVEc3	=	-1592842157;
   unsigned char  s8Br  =  427968410;
@@ -62,7 +62,7 @@ int main(int argc, char** argv) {
  double VTGVRu = 1330304604;
     char    y859H1    =    (char)-603169869;
     unsigned long    vM6Ent    =    2051042823;
-    short    ZdGw    =    -771611878;
+    short    ZdGw    =    (short)-771611878;
 	char	vO33_	=	521288402;
     short int    OR_3SeMR    =    0;
 
@@ -279,7 +279,7 @@ Tw_kH = gow1ubE__b(-1541771368, (unsigned char)1373570921);
 cout << p6DS2g33W << bgRBpsb35 << "j6QwA" << KT9_ul08S4 << gow1ubE__b(Tw_kH, (unsigned char)-85183224) << endl;
 cout << "fXy9" << "aH8gJ1S" << ikXNy() << endl;
 
-VBfBn5oGq7 = uj5w2fU(Tw_kH, v8ei3, 1325766352, -1678615094) / ikXNy();
+VBfBn5oGq7 = uj5w2fU(Tw_kH, v8ei3, (unsigned short)1325766352, -1678615094) / ikXNy();
 try
 {
 OR_3SeMR = ikXNy();

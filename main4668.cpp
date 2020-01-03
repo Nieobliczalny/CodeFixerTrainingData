@@ -21,7 +21,7 @@ int main(int argc, char** argv)
     short int    PVE6Bz4AEu;
     PVE6Bz4AEu    =    (short)1057397350;
   short int  o8Ix4Sk31;
-  o8Ix4Sk31  =  -778370329;
+  o8Ix4Sk31  =  (short)-778370329;
  char r0nW;
  r0nW = -489396919;
  short int adI3M;
@@ -33,7 +33,7 @@ int main(int argc, char** argv)
     unsigned short int    REGIa8;
     REGIa8    =    (unsigned short)-1079660587;
   unsigned short int  GY9r_5;
-  GY9r_5  =  1263833439;
+  GY9r_5  =  (unsigned short)1263833439;
  int nau85;
  nau85 = 0;
     double    rlV_;
@@ -47,7 +47,7 @@ int main(int argc, char** argv)
  short ZL9si1SE;
  ZL9si1SE = (short)628371196;
     unsigned short int    B2WEq9;
-    B2WEq9    =    1423608443;
+    B2WEq9    =    (unsigned short)1423608443;
  double A9hf_pS_lZ;
  A9hf_pS_lZ = 978871582;
  unsigned long YMME5k1kk;
@@ -69,7 +69,7 @@ int main(int argc, char** argv)
  short l9lZlN;
  l9lZlN = (short)773831277;
   unsigned short  j3WVFx68l;
-  j3WVFx68l  =  1595920267;
+  j3WVFx68l  =  (unsigned short)1595920267;
 	int	x7p_6530i;
 	x7p_6530i	=	0;
   long long  Mavl;

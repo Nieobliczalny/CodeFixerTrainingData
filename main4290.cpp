@@ -37,7 +37,7 @@ if (((i7vT1 != tBlV4LrVn) || (RUPu6 < uddO6x2D4l)) && (I06Ni60P))
 {
 if (PmSV4iY)
 {
-lRcUxB63 = N4wgf((short)-2066673003, 1582169576, R2olF, -709253730, -1974199159);
+lRcUxB63 = N4wgf((short)-2066673003, 1582169576, R2olF, (char)-709253730, -1974199159);
 }
 else if (((MluwM4BTDL < uddO6x2D4l) && (NikQLqxVm4 <= sbkXA)) && ((mF_5n421An != lRcUxB63) && (MMc7AQ3s__ != BH0lp8X)))
 {
@@ -172,7 +172,7 @@ I_5p5 = mkL8((unsigned char)58911587);
 }
 else if (lRcUxB63 <= uddO6x2D4l)
 {
-SRk_bMb4 = N4wgf((short)-1567510160, -1175393804, sA3n47, -2097379654, -1632351020);
+SRk_bMb4 = N4wgf((short)-1567510160, -1175393804, sA3n47, (char)-2097379654, -1632351020);
 }
 else
 {
@@ -221,7 +221,7 @@ case 'c':
 lRcUxB63 = N4wgf(JEKCRcpkl7, VTXU_qQ, -1394606061, (char)-989082023, 644096949);
 break;
 case 'd':
-mF_5n421An = mkL8(507568830);
+mF_5n421An = mkL8((unsigned char)507568830);
 break;
 case 'e':
 dIyda1 = RUPu6 * Zh2JVwm0;
@@ -390,7 +390,7 @@ case 'a':
 I_5p5 = N4wgf((short)1727996635, tml3M, B797wz45Y, (char)-1843420255, WSRTnR0) + JEKCRcpkl7;
 break;
 case 'b':
-MluwM4BTDL = mkL8(-767193165);
+MluwM4BTDL = mkL8((unsigned char)-767193165);
 break;
 case 'c':
 AT72w_7BD1++;
@@ -408,7 +408,7 @@ case 'g':
 EBpi7r1iuV = yJJQy1c91 % 1407112333;
 break;
 case 'h':
-lRcUxB63 = N4wgf(WSRTnR0, NikQLqxVm4, 20553857, 1419137615, -877725197);
+lRcUxB63 = N4wgf(WSRTnR0, NikQLqxVm4, 20553857, (char)1419137615, -877725197);
 break;
 }
 }
@@ -525,7 +525,7 @@ y24AP3G = nI37D84 % 370736606;
 
 AT72w_7BD1 = -1598522834 / j_S2C;
 
-cout << N4wgf((short)863208305, LzrkF34, vo276, g5lMiI_I2, -1520421154) << N4wgf((short)703019425, 717529433, 1627755323, -791545488, EBpi7r1iuV) << "Yq0k8_r_r" << endl;
+cout << N4wgf((short)863208305, LzrkF34, vo276, g5lMiI_I2, -1520421154) << N4wgf((short)703019425, 717529433, 1627755323, (char)-791545488, EBpi7r1iuV) << "Yq0k8_r_r" << endl;
 {
 int i = 4;
 while (i >= 0)
@@ -767,7 +767,7 @@ case 1:
 hda7X_4r9 = mkL8((unsigned char)-190271067);
 break;
 case 2:
-SRk_bMb4 = N4wgf(Zh2JVwm0, 1288852099, -839658820, -1250072265, I06Ni60P);
+SRk_bMb4 = N4wgf(Zh2JVwm0, 1288852099, -839658820, (char)-1250072265, I06Ni60P);
 break;
 case 3:
 i7vT1 *= 1973771345;

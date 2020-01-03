@@ -24,7 +24,7 @@ int main(void) {
 	unsigned long	Bma8a_v3	=	-2065309470;
  unsigned long long nb8T_x = -458713552;
 	unsigned long long	o25S4M5GOr	=	0;
-    unsigned short    n4pZtMKpC    =    138517574;
+    unsigned short    n4pZtMKpC    =    (unsigned short)138517574;
 	unsigned short	u4I9TZ	=	-1903447093;
 	unsigned long	A487_0kz5	=	-1322477511;
     int    Vs6C    =    1276424091;

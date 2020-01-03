@@ -22,7 +22,7 @@ int main() {
   unsigned char  Ybqih;
   Ybqih  =  (unsigned char)-1171169637;
     short    pr0pwwa;
-    pr0pwwa    =    244707757;
+    pr0pwwa    =    (short)244707757;
 	short	z8X8dfy;
 	z8X8dfy	=	220977876;
  short b96bOiHxPP;
@@ -64,7 +64,7 @@ int main() {
  unsigned short QRKWp;
  QRKWp = (unsigned short)-441368641;
 	short int	G2_k02Ib;
-	G2_k02Ib	=	-884202757;
+	G2_k02Ib	=	(short)-884202757;
 	unsigned long long	iBfM5;
 	iBfM5	=	-887669474;
 	short	BK3UG1opw;

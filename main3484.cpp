@@ -47,7 +47,7 @@ int main(void) {
   unsigned short  E6S7;
   E6S7  =  (unsigned short)987127366;
     unsigned short int    V2n2AAyf;
-    V2n2AAyf    =    2039635031;
+    V2n2AAyf    =    (unsigned short)2039635031;
  int eA_0WS3a;
  eA_0WS3a = -1271303647;
  unsigned long N0rr_0;
@@ -191,7 +191,7 @@ switch (ZtuN51e)
 {
 case 'a':
 case 'A':
-vn_l = b9S7FkX2(-2094637336, (unsigned char)-2101426555, (unsigned char)1481196746, -1246187029, qp7X9Xmi_0);
+vn_l = b9S7FkX2(-2094637336, (unsigned char)-2101426555, (unsigned char)1481196746, (unsigned short)-1246187029, qp7X9Xmi_0);
 break;
 case 'b':
 case 'B':
@@ -224,7 +224,7 @@ case 2:
 hwO3m = (int)floor(U_mK3o2);
 break;
 case 3:
-zVG0SGu = uRFET(1836581331, 203439776);
+zVG0SGu = uRFET((short)1836581331, 203439776);
 break;
 case 4:
 W8Iv = zVG0SGu + 1676077376;
@@ -336,7 +336,7 @@ qp7X9Xmi_0 = (int)floor(XN6M);
 }
 else if (c_Uo6yQ >= 590865190)
 {
-std::cout << b9S7FkX2(d7JCkl2, Ucm2, (unsigned char)1145115017, 507694547, T1ATGIJ0HO) << "yDlY" << "GW4m" << qp7X9Xmi_0 << C5CV5(-1415205233, 1520539333, Tn0wgLlnz) << std::endl;
+std::cout << b9S7FkX2(d7JCkl2, Ucm2, (unsigned char)1145115017, (unsigned short)507694547, T1ATGIJ0HO) << "yDlY" << "GW4m" << qp7X9Xmi_0 << C5CV5(-1415205233, 1520539333, Tn0wgLlnz) << std::endl;
 }
 else
 {
@@ -399,7 +399,7 @@ qp7X9Xmi_0 = (int)ceil(hwO3m);
 break;
 case 'f':
 case 'F':
-d2esnf = b9S7FkX2(204811393, (unsigned char)-1954156426, mJ_NA, 1563214478, ZtuN51e);
+d2esnf = b9S7FkX2(204811393, (unsigned char)-1954156426, mJ_NA, (unsigned short)1563214478, ZtuN51e);
 break;
 case 'g':
 case 'G':
@@ -491,7 +491,7 @@ case 2:
 N___nfr = C5CV5((unsigned short)912263312, ZtuN51e, (char)1351012233);
 break;
 case 3:
-V2n2AAyf = b9S7FkX2(838408818, X8ce, 9486825, 1595064295, 1296830004);
+V2n2AAyf = b9S7FkX2(838408818, X8ce, (unsigned char)9486825, 1595064295, 1296830004);
 break;
 case 4:
 zVG0SGu = uRFET(1744914858, R3XM8Lu0);
@@ -561,7 +561,7 @@ case 2:
 KZ7qR = (X8ce <= 9133733) ? (short)1292050606 : B8q597D78;
 break;
 case 3:
-v04aqZ8 = C5CV5(-304037728, E6S7, 611374457);
+v04aqZ8 = C5CV5((unsigned short)-304037728, E6S7, 611374457);
 break;
 case 4:
 qp7X9Xmi_0 = (int)floor(U_mK3o2);

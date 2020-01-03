@@ -31,7 +31,7 @@ int main(void) {
     unsigned short int    jFFPVVy,    dEBeC92x2,    IB4Atik,    NOGp8WvGK,    YIY2v4i_q_,    q6mb5Q2,    MeYU4jxDv_,    p3DvA,    KQyY57DDkp;
     jFFPVVy    =    (unsigned short)1171623998;
     dEBeC92x2    =    (unsigned short)-867735365;
-    IB4Atik    =    -974030508;
+    IB4Atik    =    (unsigned short)-974030508;
     NOGp8WvGK    =    -1951047292;
     YIY2v4i_q_    =    1335467215;
     q6mb5Q2    =    801638471;
@@ -240,7 +240,7 @@ case 2:
 MeYU4jxDv_ = XzS7541z9f(MeYU4jxDv_, (short)-1515724219, (unsigned char)2068304827);
 break;
 case 3:
-q6mb5Q2 = XzS7541z9f(840274893, 2090741909, TJAhpF_k0);
+q6mb5Q2 = XzS7541z9f(840274893, (short)2090741909, TJAhpF_k0);
 break;
 case 4:
 p3DvA = XzS7541z9f(-241330752, -16021661, -760504288);
@@ -323,7 +323,7 @@ std::cout << p3DvA << KQyY57DDkp << XzS7541z9f(q6mb5Q2, MeYU4jxDv_, (unsigned ch
 }
 if (YIY2v4i_q_ > -1158128771)
 {
-std::cout << ba0grcx4JC(-1079133204, MeYU4jxDv_, YIY2v4i_q_) << std::endl;
+std::cout << ba0grcx4JC((unsigned char)-1079133204, MeYU4jxDv_, YIY2v4i_q_) << std::endl;
 }
 else
 {

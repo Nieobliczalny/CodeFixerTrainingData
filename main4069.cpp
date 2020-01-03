@@ -21,7 +21,7 @@ int main(void) {
  unsigned short int r71ht75x = (unsigned short)443127477;
   unsigned int  O4iV  =  -941219821;
  unsigned int L45_d308M = -2054790146;
-    short    RSU5f0CU    =    -1484506038;
+    short    RSU5f0CU    =    (short)-1484506038;
     short int    Hvzq    =    -1022138765;
   unsigned long  A7_Ov1xYi4  =  -785184549;
     char    Rsx0    =    997566801;
@@ -44,7 +44,7 @@ int main(void) {
  short int VNh4ZH__JA = (short)-1839584635;
 	long	vdX9	=	-670536169;
 	unsigned long	s7c_M3	=	0;
- short int d1eT02 = 426921974;
+ short int d1eT02 = (short)426921974;
  long double H08Y = -1178845420;
  float gdjX97 = 388773012;
   double  if7_  =  -1643744422;

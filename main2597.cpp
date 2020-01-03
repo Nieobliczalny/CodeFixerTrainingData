@@ -12,7 +12,7 @@ int main() {
     short int    TxiQf,    d24KS,    ITID_O0cH,    dVIZV,    G8U00a,    bY4_8HwDK,    kBUAh7YkV,    Sg8jby_734,    sW_hU0Nk4u,    rD3Ldo909C,    fqea,    H8njHy,    Bqu81T3_c,    j_610n,    LcjZG,    u76axT,    UJ8bWHpFC,    SfWBQkE0_8,    MwX10,    lkDk3h,    vTQm723Z61,    dq6N,    e_V7V8P,    xxTR2bm,    cv1tFmvq12,    bqH487ZF,    paCX5,    kLw5b7,    fB_6_b9x,    tBmT,    oDYX1EAE,    OZF07hEV,    ulCw_T4,    yWk5,    u3W4a_Ii,    J9wv,    VdD_6b1z3T,    yT0oLLo,    E8q7_LS_TQ,    a3fy0ND,    mGM6M2ng,    y2s2N,    ieD50,    pKFB_t_,    rCwV24F,    OF3r3l0tS,    gsB1m7,    C8F5,    oS_74C83g,    d_CIaVh_,    b5I5Oeweds;
     TxiQf    =    (short)-484080703;
     d24KS    =    (short)950199805;
-    ITID_O0cH    =    23627663;
+    ITID_O0cH    =    (short)23627663;
     dVIZV    =    -1354287922;
     G8U00a    =    -626925322;
     bY4_8HwDK    =    -1289036152;
@@ -22,7 +22,7 @@ int main() {
     rD3Ldo909C    =    88234083;
     fqea    =    (short)-1192260007;
     H8njHy    =    (short)1187551458;
-    Bqu81T3_c    =    -1148730881;
+    Bqu81T3_c    =    (short)-1148730881;
     j_610n    =    853657118;
     LcjZG    =    -2011013720;
     u76axT    =    -1686660880;
@@ -32,7 +32,7 @@ int main() {
     lkDk3h    =    1462146679;
     vTQm723Z61    =    (short)-1998379687;
     dq6N    =    (short)-644137299;
-    e_V7V8P    =    -186638251;
+    e_V7V8P    =    (short)-186638251;
     xxTR2bm    =    -1123803052;
     cv1tFmvq12    =    -1028491562;
     bqH487ZF    =    250010633;
@@ -42,7 +42,7 @@ int main() {
     tBmT    =    628699705;
     oDYX1EAE    =    (short)-1268433608;
     OZF07hEV    =    (short)-201689623;
-    ulCw_T4    =    225488039;
+    ulCw_T4    =    (short)225488039;
     yWk5    =    320179222;
     u3W4a_Ii    =    113797937;
     J9wv    =    1633514019;
@@ -52,7 +52,7 @@ int main() {
     a3fy0ND    =    -2128173566;
     mGM6M2ng    =    (short)1726535457;
     y2s2N    =    (short)-503887956;
-    ieD50    =    204584686;
+    ieD50    =    (short)204584686;
     pKFB_t_    =    1735771638;
     rCwV24F    =    667263234;
     OF3r3l0tS    =    -2104728938;

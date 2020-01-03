@@ -23,7 +23,7 @@ int main(void) {
   unsigned short int  OF72  =  (unsigned short)1241512560;
   unsigned long long  MtmWT1zz  =  0;
 	unsigned short	u7ol6D	=	0;
-	short	F3P3iifX	=	905916420;
+	short	F3P3iifX	=	(short)905916420;
  long long S_LcUEW0EU = -1566442705;
   unsigned short  zmPjY9Pg  =  1561311204;
   char  KeWb6Ykt  =  622382573;

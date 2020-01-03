@@ -15,7 +15,7 @@ int main()
 	short int	i9SGqoQ;
 	i9SGqoQ	=	(short)1169797676;
   unsigned short  HKgOU;
-  HKgOU  =  473709475;
+  HKgOU  =  (unsigned short)473709475;
     double    W03JLqc5;
     W03JLqc5    =    -1591290355;
 	long	f_ZG;
@@ -37,7 +37,7 @@ int main()
   char  Ifi8;
   Ifi8  =  (char)-146820036;
 	short int	Ou05CUG9;
-	Ou05CUG9	=	-833665142;
+	Ou05CUG9	=	(short)-833665142;
   double  D38fgd;
   D38fgd  =  1089201045;
 	short int	S9bsc2Kiv;
@@ -81,7 +81,7 @@ int main()
 	short int	O3_NQLtKMy;
 	O3_NQLtKMy	=	(short)1512495933;
   unsigned short  ZOr1;
-  ZOr1  =  21920742;
+  ZOr1  =  (unsigned short)21920742;
     short    b37u1;
     b37u1    =    -736222919;
   unsigned char  f4_KMX_;

@@ -36,7 +36,7 @@ int main() {
   unsigned long long  U_Tgo742_;
   U_Tgo742_  =  -1253602392;
     unsigned char    I9Kx35L;
-    I9Kx35L    =    -1069088390;
+    I9Kx35L    =    (unsigned char)-1069088390;
     int    u2x7Pz3tj;
     u2x7Pz3tj    =    847980587;
 	unsigned short int	cexR;
@@ -48,7 +48,7 @@ int main() {
     unsigned long    I_Xi79Lt88;
     I_Xi79Lt88    =    1473015187;
   short  CP910;
-  CP910  =  1098675838;
+  CP910  =  (short)1098675838;
  unsigned short int xd9PSNaLd;
  xd9PSNaLd = (unsigned short)-369220184;
     short int    zkX_f45_a;
@@ -78,7 +78,7 @@ int main() {
   unsigned short  qhwz03_oxl;
   qhwz03_oxl  =  (unsigned short)1039353388;
  unsigned short int qWs9j;
- qWs9j = -707113577;
+ qWs9j = (unsigned short)-707113577;
   unsigned short  OxZtzm;
   OxZtzm  =  -844999060;
   double  cSh3Gg5;
@@ -134,7 +134,7 @@ int main() {
   unsigned short int  xp437UGdrE;
   xp437UGdrE  =  (unsigned short)1399594656;
   short int  vkq6T0_9;
-  vkq6T0_9  =  5561748;
+  vkq6T0_9  =  (short)5561748;
 	unsigned long long	l0_WPC8;
 	l0_WPC8	=	-884472076;
   unsigned int  Y300lrP;
@@ -164,7 +164,7 @@ int main() {
  short i_8w;
  i_8w = (short)339000003;
  unsigned short int wz225A1O;
- wz225A1O = -885403300;
+ wz225A1O = (unsigned short)-885403300;
  unsigned long mxvt_1Vmh7;
  mxvt_1Vmh7 = -1932251706;
     unsigned long    BB1fD_H;

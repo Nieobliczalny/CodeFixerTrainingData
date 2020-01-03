@@ -37,7 +37,7 @@ int main(void)
     unsigned long long    NsGHFGE;
     NsGHFGE    =    1748731740;
     unsigned short int    fZq2XGgd;
-    fZq2XGgd    =    -851771008;
+    fZq2XGgd    =    (unsigned short)-851771008;
     float    JQ6V860;
     JQ6V860    =    -1253549485;
  long double uS11BoO;
@@ -59,7 +59,7 @@ int main(void)
     unsigned char    u_8xo0SPi;
     u_8xo0SPi    =    (unsigned char)1875480434;
 	short	a2x6_pK7;
-	a2x6_pK7	=	-595129112;
+	a2x6_pK7	=	(short)-595129112;
  unsigned short a4XGY;
  a4XGY = -146069466;
   float  b8bnWA16_;
@@ -73,7 +73,7 @@ int main(void)
   unsigned int  Yd_4;
   Yd_4  =  -1647674562;
   unsigned short  XX34x;
-  XX34x  =  -1594780941;
+  XX34x  =  (unsigned short)-1594780941;
 	double	A8dM;
 	A8dM	=	940363793;
  double DgY4;
@@ -103,7 +103,7 @@ int main(void)
 	long double	BnLpE;
 	BnLpE	=	1403000434;
 	short int	CS9yTH7;
-	CS9yTH7	=	-978585116;
+	CS9yTH7	=	(short)-978585116;
 	long	y_YI_;
 	y_YI_	=	2107969057;
  unsigned int gsY7;
@@ -117,7 +117,7 @@ int main(void)
 	unsigned int	JuB99;
 	JuB99	=	938774659;
 	short	yAkjkO;
-	yAkjkO	=	1223695771;
+	yAkjkO	=	(short)1223695771;
   unsigned char  n6B_FWF4;
   n6B_FWF4  =  (unsigned char)767053031;
   unsigned int  H761o;
@@ -127,7 +127,7 @@ int main(void)
 	short	xA06Y;
 	xA06Y	=	(short)2055422490;
     unsigned char    Nw2S03Ks;
-    Nw2S03Ks    =    -1052822434;
+    Nw2S03Ks    =    (unsigned char)-1052822434;
   float  R_8iwQ_;
   R_8iwQ_  =  -132075338;
  unsigned long jP118s;

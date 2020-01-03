@@ -44,7 +44,7 @@ int main(void) {
 	unsigned char	q0Pdk;
 	q0Pdk	=	(unsigned char)1985824869;
     char    v1yRn;
-    v1yRn    =    390245415;
+    v1yRn    =    (char)390245415;
  unsigned int t984420L;
  t984420L = 1685872641;
 	unsigned int	d9Us;
@@ -64,7 +64,7 @@ int main(void) {
  short IBx7;
  IBx7 = (short)99603282;
     unsigned short    S46z;
-    S46z    =    189638926;
+    S46z    =    (unsigned short)189638926;
  int B1_u;
  B1_u = 0;
   float  WlNBkw;

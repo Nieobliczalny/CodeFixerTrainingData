@@ -35,7 +35,7 @@ int main(void)
     short    p_9P,    RD6t1oX3u,    iNApN77Ik,    IPEts1lc2,    YAE8v5k,    c6_x079KV,    II_TZS,    B6bYq4Mx;
     p_9P    =    (short)1910631891;
     RD6t1oX3u    =    (short)-1749437589;
-    iNApN77Ik    =    811804625;
+    iNApN77Ik    =    (short)811804625;
     IPEts1lc2    =    1997120141;
     YAE8v5k    =    1349838385;
     c6_x079KV    =    -391386396;

@@ -15,7 +15,7 @@ int main(int argc, char** argv)
  char aOAjVFSV;
  aOAjVFSV = (char)1212252225;
 	unsigned short int	jn8g;
-	jn8g	=	-2042445639;
+	jn8g	=	(unsigned short)-2042445639;
 	unsigned char	g2Lq6rx;
 	g2Lq6rx	=	1675597779;
     long double    o6RAdcS2r;
@@ -65,7 +65,7 @@ int main(int argc, char** argv)
 	long double	nM32yO;
 	nM32yO	=	547146267;
     short    fE0bI1rzaU;
-    fE0bI1rzaU    =    -1599560755;
+    fE0bI1rzaU    =    (short)-1599560755;
     long    KAn1093e;
     KAn1093e    =    -1489851963;
 	unsigned short	JBku;
@@ -77,7 +77,7 @@ int main(int argc, char** argv)
 	double	U5aSbBO_X6;
 	U5aSbBO_X6	=	-172937377;
 	short int	Th907ocNM6;
-	Th907ocNM6	=	1619944868;
+	Th907ocNM6	=	(short)1619944868;
  unsigned char iQg7_4_;
  iQg7_4_ = (unsigned char)2011706843;
 	unsigned int	R09ox4Pvw0;

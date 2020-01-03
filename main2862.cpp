@@ -173,7 +173,7 @@ case 7:
 SEXNsF = S_W5c23pj();
 break;
 default:
-d2PMnZAy = KZbbu_((char)1879214675, -412300435, 269846650, -870878381, -1162226954);
+d2PMnZAy = KZbbu_((char)1879214675, (unsigned short)-412300435, 269846650, -870878381, -1162226954);
 break;
 }
 
@@ -281,7 +281,7 @@ else
 switch (SEXNsF)
 {
 case 0:
-d2PMnZAy = KZbbu_((char)-85068017, -1019878072, 1059292842, d2PMnZAy, 1624553666);
+d2PMnZAy = KZbbu_((char)-85068017, (unsigned short)-1019878072, 1059292842, d2PMnZAy, 1624553666);
 break;
 case 1:
 d2PMnZAy = KZbbu_(eGzlg2lR44, (unsigned short)-1266052302, -1230315229, -1518091642, 402782808) / 1005419001;

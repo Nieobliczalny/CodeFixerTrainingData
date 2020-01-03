@@ -22,7 +22,7 @@ int main(void)
 	char	yJ7LP68;
 	yJ7LP68	=	(char)-1156073129;
     unsigned short    W0hs2N0;
-    W0hs2N0    =    -2059288508;
+    W0hs2N0    =    (unsigned short)-2059288508;
 	long	y056e;
 	y056e	=	1560474103;
  int NX_h6rE;
@@ -64,7 +64,7 @@ int main(void)
     unsigned short int    kR24_0oGiE;
     kR24_0oGiE    =    (unsigned short)2143526275;
   short int  QVM4gM__t;
-  QVM4gM__t  =  -1202717477;
+  QVM4gM__t  =  (short)-1202717477;
  short int j7BPm_4Bx;
  j7BPm_4Bx = 54911734;
  unsigned short int IYe6aErR;
@@ -74,7 +74,7 @@ int main(void)
  unsigned char nz1S2JjN;
  nz1S2JjN = (unsigned char)1710287545;
 
-std::cout << Gr43JeX(1692500865, 629618630) << kR24_0oGiE << Vsb_g_h_() << std::endl;
+std::cout << Gr43JeX((unsigned short)1692500865, 629618630) << kR24_0oGiE << Vsb_g_h_() << std::endl;
 try
 {
 {

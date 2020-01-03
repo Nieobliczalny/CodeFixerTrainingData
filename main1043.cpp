@@ -16,7 +16,7 @@ int main(int argc, char** argv) {
  unsigned int aN4QUiu = 1141234983;
  unsigned short int luPA = (unsigned short)-1849237276;
     unsigned char    weny    =    (unsigned char)-2071832918;
- unsigned short int yoWeJnH = 760455459;
+ unsigned short int yoWeJnH = (unsigned short)760455459;
 	long	vX0B6	=	-1743175525;
 	long long	u35_	=	1492457410;
   unsigned short int  wg7T  =  -1332081185;
@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
  float Br4gN = 1754520789;
  unsigned int Qm2_dn5g = 1812410187;
 	long	N4a2w5S5r	=	1769668070;
- char ufX97a_4GQ = -674980313;
+ char ufX97a_4GQ = (char)-674980313;
  long D39M0ibUn1 = -1962755829;
 	unsigned long long	gCvdj	=	1409198700;
 	unsigned short int	fPZVRG2	=	1686170307;
@@ -43,7 +43,7 @@ int main(int argc, char** argv) {
   float  FaHj  =  1531659420;
     unsigned long long    r4E45JBS    =    -1301755283;
 	float	gj3qc4nQ	=	874329880;
-	short int	nc4R	=	-735053483;
+	short int	nc4R	=	(short)-735053483;
 	short int	Y_N08Mt	=	1934133285;
 	int	i699z26l0	=	-1699849375;
   int  f7T1M  =  839970627;
@@ -53,7 +53,7 @@ int main(int argc, char** argv) {
  unsigned short int WVC26KzE3 = -993733289;
     unsigned long    xcrXvQRH79    =    -879098036;
 	int	EJ5X_X	=	743541189;
-    unsigned char    J_02H59G3    =    -81729575;
+    unsigned char    J_02H59G3    =    (unsigned char)-81729575;
 	unsigned long long	nF71CAJ_GS	=	1357805516;
     unsigned long    Z8lwX    =    36939675;
 	int	g4bD34	=	-1912702963;
@@ -63,7 +63,7 @@ int main(int argc, char** argv) {
  unsigned long long EHfBi = 1139442125;
     unsigned char    dv6hR    =    (unsigned char)1785252962;
 	char	d7n5n	=	(char)2003901303;
-    short int    JBV_bXW5RM    =    1354606137;
+    short int    JBV_bXW5RM    =    (short)1354606137;
 	short int	F6SkK	=	-850308160;
     unsigned int    rtt1TRydY    =    162934860;
     unsigned long    jKKESw6_b    =    -721158302;
@@ -78,7 +78,7 @@ int main(int argc, char** argv) {
 	long	Klwr9RY	=	-1369560745;
 	long	kLoN	=	858975363;
     short int    fFGq_zD    =    (short)-574899276;
-  unsigned char  vxJHI4  =  -676111653;
+  unsigned char  vxJHI4  =  (unsigned char)-676111653;
 
 for (int i = 0; i < 9; i++)
 {

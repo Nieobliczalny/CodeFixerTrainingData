@@ -723,6 +723,6 @@ unsigned char  DV5FFrm()  {
 
 unsigned short int    hO6AR(unsigned int    jC42_Ts,unsigned int    itd5Z81)
 {
-    return    796843819;
+    return    (unsigned short)796843819;
 }
 

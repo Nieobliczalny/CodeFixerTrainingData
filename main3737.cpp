@@ -59,7 +59,7 @@ int main()
   short  VBw3TVF;
   VBw3TVF  =  (short)-1430074938;
  short lXV7_rL;
- lXV7_rL = -893618698;
+ lXV7_rL = (short)-893618698;
 	double	qGV_;
 	qGV_	=	1213041222;
     unsigned short    snZe51_;
@@ -75,7 +75,7 @@ int main()
  unsigned long long aghQ;
  aghQ = 735774996;
  unsigned short int L7YY_Y7B;
- L7YY_Y7B = 943344201;
+ L7YY_Y7B = (unsigned short)943344201;
  unsigned long gh5xN2;
  gh5xN2 = 270157561;
   long long  bSpU5;
@@ -91,7 +91,7 @@ int main()
     short int    QYVV2sR;
     QYVV2sR    =    (short)-1918084626;
  short int Jf38;
- Jf38 = -274189964;
+ Jf38 = (short)-274189964;
  double ktn0;
  ktn0 = 1399861575;
   unsigned short  kmAdDQ;
@@ -103,7 +103,7 @@ int main()
 	unsigned short	wYD_09rLWo;
 	wYD_09rLWo	=	(unsigned short)-2142094193;
   unsigned short int  gR3XEEEtks;
-  gR3XEEEtks  =  -1506932420;
+  gR3XEEEtks  =  (unsigned short)-1506932420;
   unsigned long  zEVB8Q5;
   zEVB8Q5  =  -842410728;
  short fkT430H_;
@@ -119,7 +119,7 @@ int main()
  unsigned long long QGyS3_zM5y;
  QGyS3_zM5y = -564095629;
     unsigned short    VVwf;
-    VVwf    =    -286387051;
+    VVwf    =    (unsigned short)-286387051;
     long double    Oni37JU;
     Oni37JU    =    419801525;
     long double    Td70yV;
@@ -149,7 +149,7 @@ int main()
  long long dLUF1;
  dLUF1 = -1176054833;
  short D_5ctL9FhF;
- D_5ctL9FhF = -411940519;
+ D_5ctL9FhF = (short)-411940519;
   long long  wju2;
   wju2  =  -966901987;
   short  S2I3fe3;
@@ -161,7 +161,7 @@ int main()
 	short int	DLccuAG;
 	DLccuAG	=	(short)889683950;
     unsigned char    tJVS_3__;
-    tJVS_3__    =    -1750457556;
+    tJVS_3__    =    (unsigned char)-1750457556;
   long long  tpnK;
   tpnK  =  -639369665;
   double  T_26Pj;
@@ -266,7 +266,7 @@ int j = 4;
 while (j >= 0)
 {
 --j;
-std::cout << uEBegMc(bd3dh, (short)314530461, (unsigned short)1277869081) << uEBegMc(bd3dh, 1796577628, 589606324) << uEBegMc(bd3dh, tJVS_3__, -1766199796) << "a1kbDgjBFy" << P1e5_Zf2e << std::endl;
+std::cout << uEBegMc(bd3dh, (short)314530461, (unsigned short)1277869081) << uEBegMc(bd3dh, (short)1796577628, 589606324) << uEBegMc(bd3dh, tJVS_3__, -1766199796) << "a1kbDgjBFy" << P1e5_Zf2e << std::endl;
 }
 }
 }
@@ -385,7 +385,7 @@ kmAdDQ = CP_l(zqAgP);
 break;
 case 'b':
 case 'B':
-kCFrvl62 = uEBegMc((unsigned short)93043056, (short)1405084757, -1465032876);
+kCFrvl62 = uEBegMc((unsigned short)93043056, (short)1405084757, (unsigned short)-1465032876);
 break;
 case 'c':
 case 'C':

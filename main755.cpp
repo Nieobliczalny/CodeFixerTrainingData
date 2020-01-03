@@ -35,7 +35,7 @@ else
 {
 try
 {
-jCkTQsC30 = zMol3JBD((char)-939135330, (unsigned short)565887086, 1170819384);
+jCkTQsC30 = zMol3JBD((char)-939135330, (unsigned short)565887086, (char)1170819384);
 }
 catch (int& errorCode)
 {

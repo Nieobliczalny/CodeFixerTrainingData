@@ -38,7 +38,7 @@ int main(void) {
 	unsigned short	jHyE;
 	jHyE	=	(unsigned short)1707389379;
  char gu4fsc;
- gu4fsc = 538419773;
+ gu4fsc = (char)538419773;
   double  tih9;
   tih9  =  -1623197410;
  long double P4M3vP8R_v;
@@ -66,7 +66,7 @@ int main(void) {
     unsigned long long    Ker0;
     Ker0    =    1638536498;
   unsigned char  LTr87z;
-  LTr87z  =  -1612677677;
+  LTr87z  =  (unsigned char)-1612677677;
   float  vARL_5i;
   vARL_5i  =  -879858134;
 	float	b1Dv8t4i5;

@@ -29,7 +29,7 @@ int main(int argc, char** argv) {
 	int	b1WPrWIn;
 	b1WPrWIn	=	-1578415714;
 	short	R46XeI;
-	R46XeI	=	-1886608303;
+	R46XeI	=	(short)-1886608303;
 	unsigned long	dieUKiRBv;
 	dieUKiRBv	=	1168416944;
 	unsigned long long	FF1ntfB7pA;
@@ -47,7 +47,7 @@ int main(int argc, char** argv) {
     short    Z6N9Tqq5J;
     Z6N9Tqq5J    =    (short)431926009;
 	unsigned short	l2JC4kJ1du;
-	l2JC4kJ1du	=	1960120433;
+	l2JC4kJ1du	=	(unsigned short)1960120433;
     unsigned char    RBvd5Ai1v;
     RBvd5Ai1v    =    0;
 	unsigned long	c_gWByc;
@@ -61,7 +61,7 @@ int main(int argc, char** argv) {
 	int	cb5Gkhv47;
 	cb5Gkhv47	=	-1355651613;
   unsigned short  YNhw0Q;
-  YNhw0Q  =  1796885349;
+  YNhw0Q  =  (unsigned short)1796885349;
 	short int	VkWG7WS;
 	VkWG7WS	=	0;
   int  w6JSV5bx;
@@ -87,7 +87,7 @@ int main(int argc, char** argv) {
  short sZ69;
  sZ69 = 0;
  unsigned short int IG550A6s3E;
- IG550A6s3E = 1119590031;
+ IG550A6s3E = (unsigned short)1119590031;
 
 for (int i = 8; i >= 0; --i)
 {

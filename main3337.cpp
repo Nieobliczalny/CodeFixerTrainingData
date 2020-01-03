@@ -215,7 +215,7 @@ break;
 }
 else
 {
-gM5Ew19d = mRr4Xrm00G(539027219, 1933230226);
+gM5Ew19d = mRr4Xrm00G(539027219, (char)1933230226);
 }
 }
 
@@ -234,7 +234,7 @@ case 3:
 ZSJXv = (int)ceil(QK2i);
 break;
 case 4:
-E59N0 = mRr4Xrm00G(1857047435, -333770291);
+E59N0 = mRr4Xrm00G(1857047435, (char)-333770291);
 break;
 case 5:
 WXEdLgPIsr = K6k9Dn7_G / M3t5Jw6_;

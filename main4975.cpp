@@ -49,7 +49,7 @@ int main(void) {
  unsigned short IrzAVp;
  IrzAVp = (unsigned short)1462711332;
   char  x5qx9;
-  x5qx9  =  -1755761069;
+  x5qx9  =  (char)-1755761069;
  char VpDJu;
  VpDJu = (char)-590023462;
 	unsigned short	rskHGh;
@@ -79,7 +79,7 @@ int main(void) {
     unsigned int    Hyd2hU4z;
     Hyd2hU4z    =    62343931;
  unsigned char c1QJMtC8S;
- c1QJMtC8S = -1130176155;
+ c1QJMtC8S = (unsigned char)-1130176155;
 	long	J8d10OTO2D;
 	J8d10OTO2D	=	548181854;
     unsigned long long    d_aK4;
@@ -93,7 +93,7 @@ int main(void) {
   unsigned long  uu05OrJ52c;
   uu05OrJ52c  =  -228262394;
  char lxZ2n;
- lxZ2n = 716109744;
+ lxZ2n = (char)716109744;
 	long long	zSeTy3Gmb0;
 	zSeTy3Gmb0	=	-1418377854;
   short int  M9_1NOSp;
@@ -123,7 +123,7 @@ int main(void) {
 	unsigned long long	A5AO;
 	A5AO	=	1006524099;
   short  ePeP16K27;
-  ePeP16K27  =  -1592708613;
+  ePeP16K27  =  (short)-1592708613;
     unsigned short int    To45f6;
     To45f6    =    (unsigned short)-965753996;
 	unsigned long long	Lozs7L5X7i;
@@ -155,7 +155,7 @@ int main(void) {
  short int w6r_Kat6VE;
  w6r_Kat6VE = (short)1866002967;
   char  Qr_16U;
-  Qr_16U  =  -372945636;
+  Qr_16U  =  (char)-372945636;
     long long    bPh_mb_yTm;
     bPh_mb_yTm    =    480392002;
   unsigned long long  Jh_bq2V9JD;
@@ -167,7 +167,7 @@ int main(void) {
   unsigned char  zQ5_LNT1_;
   zQ5_LNT1_  =  (unsigned char)367413908;
     short int    Py1u;
-    Py1u    =    842778855;
+    Py1u    =    (short)842778855;
   unsigned int  oea3504;
   oea3504  =  -186748216;
 	double	RLx5;
@@ -404,7 +404,7 @@ case 2:
 wWL_4zA = (int)ceil(ZXCBu3);
 break;
 case 3:
-w9Niid7JZ_ = W4zWM(710976333, eVKcPg0E7, 54025942, dxm_s5VkY2);
+w9Niid7JZ_ = W4zWM((unsigned char)710976333, eVKcPg0E7, 54025942, dxm_s5VkY2);
 break;
 case 4:
 bPh_mb_yTm = (int)abs(Py1u);
@@ -422,7 +422,7 @@ break;
 
 cout << xkdHFg() << A01_XDk6ok << "Q9YO_8e_p0" << W4zWM((unsigned char)532080985, 1948184766, (short)-1540506794, -1618670232) << endl;
 
-jBJi93i = W4zWM(-362228414, 1620820187, -1940866443, 1223913446);
+jBJi93i = W4zWM((unsigned char)-362228414, 1620820187, -1940866443, 1223913446);
 Bam0N8q = Ly_34_RPLe >> eVKcPg0E7;
 
 OMJ0c = (unsigned long long)(V3fD_ + (-637017825));

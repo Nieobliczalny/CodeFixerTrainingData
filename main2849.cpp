@@ -27,7 +27,7 @@ int main(void)
   short int  Eb72Il,  Xd62kwr,  UM5KK03,  anV8,  o1Xf,  II7JDPaU3S,  Xx6n,  hoCFFj7Xt,  SWc30Y,  dQ3LS9Gt_u,  UDgk7Um,  C_9tMyMl,  pJ50V005d7,  Rb3p,  yqp2iP86I,  SJkWL15MO,  iZ58f5,  sp8V0X,  kvccf,  AdiX,  HcTu,  J7O_8G3WVi,  Wz0A1L3M,  Wm_5,  g2e5OibmlG,  X_Y0UkH,  P8qPAdW6M4,  X4D9j03mL6,  P8i6ubs,  AIYQVf6x,  hqUpL,  ZOsqM,  cXXd4V,  Le1DF,  wf178mw,  PRBzd_,  ea8_,  hmDC__k,  ieI_L,  EjuEybV2ch,  LLU5D8K_eK,  m6806f72UZ,  pxiSQ,  l8Lr_16Z,  US2162EKA1,  u8u_,  N0SQ3GmZd,  CP_4lq4j,  Pjhg06,  yqGg1xnqg6,  CwCJXCF,  gmH0j_U0,  Kn7E_,  r136jV_,  t0rjOi,  EOdPF33JEN,  WU1Vg73y,  LqEOW,  jGuJHKDo6H,  z2hiCZ,  fyUX0s,  hcCRb,  H2zeH_lyP,  T11Um2,  cqrE_T,  z0uVW,  P3X2Ha3,  qz8b,  f79XQ,  yRGHZ2a4o,  T3QNhgmL4G,  D0_F11R,  ZqDq,  uw3n,  I_j04_,  hiCn7v,  O6BHi5q;
   Eb72Il  =  (short)-645959060;
   Xd62kwr  =  (short)2036290574;
-  UM5KK03  =  225152356;
+  UM5KK03  =  (short)225152356;
   anV8  =  -1966623813;
   o1Xf  =  1803408395;
   II7JDPaU3S  =  580688833;
@@ -37,7 +37,7 @@ int main(void)
   dQ3LS9Gt_u  =  -624800579;
   UDgk7Um  =  (short)47319660;
   C_9tMyMl  =  (short)-140776937;
-  pJ50V005d7  =  -2045019385;
+  pJ50V005d7  =  (short)-2045019385;
   Rb3p  =  1877890596;
   yqp2iP86I  =  -1092585468;
   SJkWL15MO  =  1715986964;
@@ -47,7 +47,7 @@ int main(void)
   AdiX  =  1979319634;
   HcTu  =  (short)-1730959404;
   J7O_8G3WVi  =  (short)-1673158147;
-  Wz0A1L3M  =  -1180235836;
+  Wz0A1L3M  =  (short)-1180235836;
   Wm_5  =  2143467332;
   g2e5OibmlG  =  -579487894;
   X_Y0UkH  =  1739622921;
@@ -57,7 +57,7 @@ int main(void)
   AIYQVf6x  =  -1020182814;
   hqUpL  =  (short)-965303337;
   ZOsqM  =  (short)-1506354128;
-  cXXd4V  =  280765708;
+  cXXd4V  =  (short)280765708;
   Le1DF  =  336071105;
   wf178mw  =  -198981054;
   PRBzd_  =  328062254;
@@ -67,7 +67,7 @@ int main(void)
   EjuEybV2ch  =  875498871;
   LLU5D8K_eK  =  (short)2024536929;
   m6806f72UZ  =  (short)1791586621;
-  pxiSQ  =  -188509281;
+  pxiSQ  =  (short)-188509281;
   l8Lr_16Z  =  -464714786;
   US2162EKA1  =  974225907;
   u8u_  =  183326008;
@@ -77,7 +77,7 @@ int main(void)
   yqGg1xnqg6  =  1398610607;
   CwCJXCF  =  (short)1251579491;
   gmH0j_U0  =  (short)-1460822202;
-  Kn7E_  =  -95935953;
+  Kn7E_  =  (short)-95935953;
   r136jV_  =  -2141614199;
   t0rjOi  =  -2078429843;
   EOdPF33JEN  =  873490883;
@@ -87,7 +87,7 @@ int main(void)
   z2hiCZ  =  1319773443;
   fyUX0s  =  (short)-1711467000;
   hcCRb  =  (short)-1245068618;
-  H2zeH_lyP  =  -677168278;
+  H2zeH_lyP  =  (short)-677168278;
   T11Um2  =  2105420326;
   cqrE_T  =  -1577174067;
   z0uVW  =  -950028634;
@@ -97,7 +97,7 @@ int main(void)
   yRGHZ2a4o  =  1590503508;
   T3QNhgmL4G  =  (short)-787248644;
   D0_F11R  =  (short)-1678058298;
-  ZqDq  =  1172002139;
+  ZqDq  =  (short)1172002139;
   uw3n  =  650225098;
   I_j04_  =  36073340;
   hiCn7v  =  -517229344;
@@ -318,7 +318,7 @@ J7O_8G3WVi = y3wtoJ0(J7O_8G3WVi, Wm_5, -208630425);
 }
 
 Eb72Il = GOhg(-342478392);
-std::cout << Xvbjd((unsigned char)665835956, US2162EKA1, -1882601200, (short)-2117559540) / Xvbjd(Eb72Il, 671718633, 1185464750, 1031885197) << std::endl;
+std::cout << Xvbjd((unsigned char)665835956, US2162EKA1, -1882601200, (short)-2117559540) / Xvbjd(Eb72Il, 671718633, 1185464750, (short)1031885197) << std::endl;
 
 if (SWc30Y != -1196953774)
 {
@@ -499,7 +499,7 @@ G0ct = Xvbjd((unsigned char)1685502034, 1333985226, T11Um2, (short)406079732);
 }
 else
 {
-LLU5D8K_eK = (pxiSQ & 1517208593) ? O6BHi5q : y3wtoJ0(I_j04_, -2017627511, T11Um2);
+LLU5D8K_eK = (pxiSQ & 1517208593) ? O6BHi5q : y3wtoJ0(I_j04_, (short)-2017627511, T11Um2);
 }
 }
 else
@@ -550,7 +550,7 @@ G0ct = Xvbjd((unsigned char)993368388, 949596691, -16518158, (short)-411909742);
 }
 else
 {
-FN1x_ = Xvbjd(z2hiCZ, Rb3p, ieI_L, -1512421856);
+FN1x_ = Xvbjd(z2hiCZ, Rb3p, ieI_L, (short)-1512421856);
 }
 }
 }
@@ -959,7 +959,7 @@ case 'd':
 T11Um2 = W_13((short)188756912);
 break;
 case 'e':
-G0ct = Xvbjd(1220239916, f79XQ, Pjhg06, 609952126);
+G0ct = Xvbjd((unsigned char)1220239916, f79XQ, Pjhg06, 609952126);
 break;
 case 'f':
 hmDC__k++;

@@ -111,7 +111,7 @@ case 1:
 iv_T1l6lsP = womtT(iv_T1l6lsP, RHsx42pGIt, dCKbVJgjZ3, (char)1784706495, (unsigned char)-1776865977);
 break;
 case 2:
-fFD2WWq = womtT(fFD2WWq, 1367114150, U5I_, -566720636, 1114461358);
+fFD2WWq = womtT(fFD2WWq, 1367114150, U5I_, (char)-566720636, 1114461358);
 break;
 case 3:
 fuRGz = eIw_();
@@ -185,7 +185,7 @@ int k = 0;
 while (k < 6)
 {
 ++k;
-U5I_ = womtT((short)353228115, -1163892158, (unsigned short)-1731016420, -6468829, 1823808153);
+U5I_ = womtT((short)353228115, -1163892158, (unsigned short)-1731016420, (char)-6468829, 1823808153);
 }
 }
 ++j;
@@ -269,7 +269,7 @@ while (j < 9);
 }
 while (i >= 0);
 }
-std::cout << RcaYYby() << womtT((short)1055248216, 605702099, (unsigned short)-559058754, 336465539, iv_T1l6lsP) << std::endl;
+std::cout << RcaYYby() << womtT((short)1055248216, 605702099, (unsigned short)-559058754, (char)336465539, iv_T1l6lsP) << std::endl;
 
 fFD2WWq ^= RHsx42pGIt;
 {

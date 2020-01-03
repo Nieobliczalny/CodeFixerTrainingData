@@ -20,7 +20,7 @@ int main(void) {
     char    BV0b,    uzSJ_RF,    UKzB4L,    Ty0mq3B,    Y84g,    sj_06s_,    NaKi65,    H_b1AA1y3J,    UU94mW,    R1fNL_74Xh,    drxm,    b1E17,    r7dvj8wnE2,    x03s3Zw3JL,    h01Ttb0snh,    d_HRw3Y9o,    p_l_l,    W5k7cRS,    rw861QM6r,    qDc83M50,    r2rJZRQt,    Q2T1jOc_J,    x2vr2n,    olDM1f6V,    BG024t93,    hx_J51,    N1340b7,    f3Oh6uS666,    L19z_d,    WpgutP_i,    nKG3n8M0,    rGbT,    t5U3crf,    t8rNu,    rCK20YN9p8,    mw6I0,    Hp1GS4A_y,    HCz0_86,    XDdHelq,    iSkX,    RnRvtDm2,    a5is67S4fa,    EXAlV99_sP,    i6lMnms1F_,    V66owIIY,    OG4G;
     BV0b    =    (char)252837665;
     uzSJ_RF    =    (char)-348262765;
-    UKzB4L    =    1590299061;
+    UKzB4L    =    (char)1590299061;
     Ty0mq3B    =    -1690123578;
     Y84g    =    -1191854912;
     sj_06s_    =    -925740370;
@@ -30,7 +30,7 @@ int main(void) {
     R1fNL_74Xh    =    -292956725;
     drxm    =    (char)-969771519;
     b1E17    =    (char)813739536;
-    r7dvj8wnE2    =    -1803447417;
+    r7dvj8wnE2    =    (char)-1803447417;
     x03s3Zw3JL    =    -2141455160;
     h01Ttb0snh    =    1411747317;
     d_HRw3Y9o    =    394961898;
@@ -40,7 +40,7 @@ int main(void) {
     qDc83M50    =    498462706;
     r2rJZRQt    =    (char)-44792452;
     Q2T1jOc_J    =    (char)1858147290;
-    x2vr2n    =    -2066841389;
+    x2vr2n    =    (char)-2066841389;
     olDM1f6V    =    960305015;
     BG024t93    =    900637477;
     hx_J51    =    -1436354258;
@@ -50,7 +50,7 @@ int main(void) {
     WpgutP_i    =    -1549382527;
     nKG3n8M0    =    (char)1891990549;
     rGbT    =    (char)122490268;
-    t5U3crf    =    2087151599;
+    t5U3crf    =    (char)2087151599;
     t8rNu    =    -1204266400;
     rCK20YN9p8    =    395220735;
     mw6I0    =    -1219670249;
@@ -60,7 +60,7 @@ int main(void) {
     iSkX    =    1740757865;
     RnRvtDm2    =    (char)-66461974;
     a5is67S4fa    =    (char)1917332267;
-    EXAlV99_sP    =    1135278721;
+    EXAlV99_sP    =    (char)1135278721;
     i6lMnms1F_    =    -2128279712;
     V66owIIY    =    1272231265;
     OG4G    =    -1498344917;

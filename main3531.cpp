@@ -39,7 +39,7 @@ int main(void) {
     unsigned short    vsb9R0TY6a,    S_9Qaob3,    BNNHm8HT,    JjmELf,    xyBt0D,    F0G_bleb_;
     vsb9R0TY6a    =    (unsigned short)1532258701;
     S_9Qaob3    =    (unsigned short)1591930798;
-    BNNHm8HT    =    -796269658;
+    BNNHm8HT    =    (unsigned short)-796269658;
     JjmELf    =    -1564386215;
     xyBt0D    =    1156401138;
     F0G_bleb_    =    1572242597;
@@ -102,7 +102,7 @@ case 'b':
 xyBt0D = PvB_2C2EHE(xyBt0D, (short)798174177, JjmELf, vsb9R0TY6a) | 420734040;
 break;
 case 'c':
-xyBt0D = n4Mq61Q((unsigned short)-107864342, 209006915);
+xyBt0D = n4Mq61Q((unsigned short)-107864342, (unsigned char)209006915);
 break;
 case 'd':
 vsb9R0TY6a ^= S_9Qaob3;
@@ -156,7 +156,7 @@ case 0:
 JjmELf <<= 1836141415;
 break;
 case 1:
-vsb9R0TY6a = PvB_2C2EHE(vsb9R0TY6a, (short)280555605, (unsigned short)1900594020, 1490013188);
+vsb9R0TY6a = PvB_2C2EHE(vsb9R0TY6a, (short)280555605, (unsigned short)1900594020, (unsigned short)1490013188);
 break;
 case 2:
 S_9Qaob3 *= 628243136;
@@ -321,7 +321,7 @@ S_9Qaob3 = S0920((short)-523758355, 852242610, (short)572755079, F0G_bleb_);
 }
 else if (BNNHm8HT & 473076359)
 {
-cF8AP8T = H8g_(1980148737, S_9Qaob3, F0G_bleb_, -842354255, -791739624);
+cF8AP8T = H8g_(1980148737, S_9Qaob3, F0G_bleb_, -842354255, (unsigned short)-791739624);
 }
 else if (BNNHm8HT != 1580267625)
 {
@@ -359,7 +359,7 @@ try
 {
 for (int j = 9; j >= 0; --j)
 {
-xyBt0D = n4Mq61Q(Ms71Hf0, 1737650784);
+xyBt0D = n4Mq61Q(Ms71Hf0, (unsigned char)1737650784);
 }
 }
 catch (int& errorCode)

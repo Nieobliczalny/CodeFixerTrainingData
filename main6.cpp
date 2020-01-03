@@ -300,7 +300,7 @@ q8kZwg0ay5 = FB_qOyoTj((unsigned short)-1031713018, v981g, 1565093249, (unsigned
 }
 else if (ZiaS >= J84FQnMMXR)
 {
-pzB21mJ = FB_qOyoTj(pzB21mJ, A7_nKA6rG, -1586421876, 691115515, Ixn43vp9);
+pzB21mJ = FB_qOyoTj(pzB21mJ, A7_nKA6rG, -1586421876, (unsigned short)691115515, Ixn43vp9);
 }
 else if (M3110 >= -1882881786)
 {
@@ -457,7 +457,7 @@ case 0:
 x20H6Oo = FB_qOyoTj((unsigned short)-61287706, 1644416331, 1540347016, ZiaS, B2NE0Y);
 break;
 case 1:
-ZiaS = FB_qOyoTj((unsigned short)749035364, e27_Mo, 1838389845, -1644679629, BBkfofsf_);
+ZiaS = FB_qOyoTj((unsigned short)749035364, e27_Mo, 1838389845, (unsigned short)-1644679629, BBkfofsf_);
 break;
 case 2:
 AB2jkV = t9TX7U(ZiaS, -101366259) + CwLRO_nJ7D;
@@ -498,7 +498,7 @@ std::cout << "qJyIl5Ce" << vbwo00L9L << X8qP8645LV << std::endl;
 }
 else if (z1LLf4he1 >= l5D4)
 {
-std::cout << FB_qOyoTj((unsigned short)1240876430, mxbo, Nd92e_tU, (unsigned short)293939323, Ns48tJ8) << FB_qOyoTj(1036970969, mxbo, -1863244995, 767737573, -441915621) << rG__X8pfv << z1LLf4he1 << pzB21mJ << std::endl;
+std::cout << FB_qOyoTj((unsigned short)1240876430, mxbo, Nd92e_tU, (unsigned short)293939323, Ns48tJ8) << FB_qOyoTj((unsigned short)1036970969, mxbo, -1863244995, 767737573, -441915621) << rG__X8pfv << z1LLf4he1 << pzB21mJ << std::endl;
 }
 else if (P8_N0)
 {
@@ -619,7 +619,7 @@ WfVv = AUKo1tt * 282235873;
 }
 else if ((c_Zts65W) && (TteC3_ & -248775775))
 {
-A7_nKA6rG = t9TX7U((unsigned char)-864730500, -1719350943);
+A7_nKA6rG = t9TX7U((unsigned char)-864730500, (unsigned short)-1719350943);
 }
 else if ((PpEt1CPmky == B48Pv5E) && ((ZiaS > KCi3vk) || (SEULyiv == f0m0Ssgq)))
 {
@@ -701,7 +701,7 @@ AUKo1tt = t9TX7U((unsigned char)-1133540591, (unsigned short)57154215);
 }
 else if (GQxml != 916266491)
 {
-xnst5w = FB_qOyoTj(xnst5w, rG__X8pfv, 410854060, -1475574660, gGJJ);
+xnst5w = FB_qOyoTj(xnst5w, rG__X8pfv, 410854060, (unsigned short)-1475574660, gGJJ);
 }
 else if (vbwo00L9L <= EvVh)
 {
@@ -885,7 +885,7 @@ OoqgQ = t9TX7U((unsigned char)328222854, hf8dr);
 }
 else
 {
-std::cout << EAk_WmId(OoqgQ, hf8dr, n_z7XggEa_, 837118857) << t9TX7U((unsigned char)627874951, 1883157264) << F8ZMvqY << std::endl;
+std::cout << EAk_WmId(OoqgQ, hf8dr, n_z7XggEa_, 837118857) << t9TX7U((unsigned char)627874951, (unsigned short)1883157264) << F8ZMvqY << std::endl;
 }
 return 0;
 }

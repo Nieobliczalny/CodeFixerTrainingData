@@ -21,7 +21,7 @@ int main(void) {
     long long    NKJ_W55    =    848004832;
     int    UvV7Qp    =    148685282;
   unsigned short int  aFCmu  =  0;
- unsigned short int U1k12HAd0 = 1200405984;
+ unsigned short int U1k12HAd0 = (unsigned short)1200405984;
  int F5103gnM = 0;
     unsigned int    R3g2_3Gx    =    789573085;
 	char	X9cS	=	(char)92961086;

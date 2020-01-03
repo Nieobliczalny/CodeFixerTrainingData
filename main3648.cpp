@@ -77,7 +77,7 @@ int main()
   unsigned char  PCJ31A3_5;
   PCJ31A3_5  =  (unsigned char)1059320032;
     short    BqBVicM43;
-    BqBVicM43    =    153171743;
+    BqBVicM43    =    (short)153171743;
 	short int	Om3lGy3_ba;
 	Om3lGy3_ba	=	(short)-601126417;
 	unsigned char	K8y8;

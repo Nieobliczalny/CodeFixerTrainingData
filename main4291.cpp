@@ -514,7 +514,7 @@ break;
 }
 }
 
-Pm8hr = c2K7HJ3M(-1440297909, -1160733513, -904234628);
+Pm8hr = c2K7HJ3M((short)-1440297909, -1160733513, -904234628);
 
 try
 {
@@ -579,7 +579,7 @@ case 1:
 Y54R12YVs = EW3oE((unsigned short)-935853720, 414541156, q0Xh);
 break;
 case 2:
-qS8N2_Y6j = AL_k((unsigned short)637355646, 1338982231, q0Xh, eJ5x) | 799651400;
+qS8N2_Y6j = AL_k((unsigned short)637355646, (unsigned short)1338982231, q0Xh, eJ5x) | 799651400;
 break;
 default:
 O01MkB3 = v443o();

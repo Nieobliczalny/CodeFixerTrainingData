@@ -258,7 +258,7 @@ case 2:
 J0o_oV48AC |= t_B12;
 break;
 case 3:
-KPBZr = Eysx(-1523379537, (short)2006264356, 893773781);
+KPBZr = Eysx(-1523379537, (short)2006264356, (char)893773781);
 break;
 case 4:
 Cgye6CJ = Eysx(Cgye6CJ, (short)-913111675, 453040027);
@@ -290,7 +290,7 @@ else
 {
 if (RyA_t > b6F6aw9)
 {
-KwBN2XhTS = Eysx(KwBN2XhTS, 1085838982, qU3UDH044T);
+KwBN2XhTS = Eysx(KwBN2XhTS, (short)1085838982, qU3UDH044T);
 }
 else
 {

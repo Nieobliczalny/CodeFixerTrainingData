@@ -65,7 +65,7 @@ ODI_sbV_ = jXe_5_9ew_(oT9ZG35, (unsigned short)-1707578218, (char)-761782600);
 while (i < 1);
 }
 
-cout << wribmf / jXe_5_9ew_(oT9ZG35, Ct0_F, -333463342) << endl;
+cout << wribmf / jXe_5_9ew_(oT9ZG35, Ct0_F, (char)-333463342) << endl;
 switch (ODI_sbV_)
 {
 case 'a':

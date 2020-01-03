@@ -30,7 +30,7 @@ unsigned short int d1gEq3lml6(unsigned short int E8CeBF4Mi0,int EptjJplfh,char T
 }
 
 unsigned char    KIIj45(int    ZwEP6Q,long long    LS449_842,short int    zGcx2,unsigned short    RtckMs0z6)    {
-    return    -574902146;
+    return    (unsigned char)-574902146;
 }
 
 int main(int argc, char** argv) {
@@ -69,7 +69,7 @@ int main(int argc, char** argv) {
     float    c54GW0n;
     c54GW0n    =    1583968706;
 	char	h_lEVyp;
-	h_lEVyp	=	-1783810329;
+	h_lEVyp	=	(char)-1783810329;
 	float	u2cURq;
 	u2cURq	=	-1209391262;
   double  CQP6RnU;
@@ -97,7 +97,7 @@ int main(int argc, char** argv) {
 	double	p72AW6V84C;
 	p72AW6V84C	=	-616078420;
   char  VrF1;
-  VrF1  =  -76031004;
+  VrF1  =  (char)-76031004;
   short int  o82jD1t0zk;
   o82jD1t0zk  =  (short)-1992353704;
 	long double	Pi1J;
@@ -121,7 +121,7 @@ int main(int argc, char** argv) {
     unsigned short int    BopP33;
     BopP33    =    (unsigned short)1114687943;
     short    G02avEy;
-    G02avEy    =    309345456;
+    G02avEy    =    (short)309345456;
 	short int	Rj4a1A1Q;
 	Rj4a1A1Q	=	29245378;
  unsigned long LG_XVl6N;
@@ -133,7 +133,7 @@ int main(int argc, char** argv) {
 	long long	W1649u;
 	W1649u	=	-798492894;
     unsigned short int    G2qCUCIk3l;
-    G2qCUCIk3l    =    2132577367;
+    G2qCUCIk3l    =    (unsigned short)2132577367;
     double    hy754H;
     hy754H    =    662735525;
   short int  rbx0p;
@@ -315,7 +315,7 @@ case 2:
 bDmUAq30_ = (int)floor(rDpQIF3);
 break;
 case 3:
-hy754H = d1gEq3lml6(-1781112126, -1208937717, bg36I9u258, -128234068, LG_XVl6N);
+hy754H = d1gEq3lml6((unsigned short)-1781112126, -1208937717, bg36I9u258, -128234068, LG_XVl6N);
 break;
 case 4:
 rDpQIF3 = (int)ceil(Av4qT6);
@@ -416,7 +416,7 @@ case 6:
 ZtrLVDRRE *= 1709369526;
 break;
 case 7:
-u2cURq = eq8RDb6(u2cURq, 271431993, -1307768493, bg36I9u258);
+u2cURq = eq8RDb6(u2cURq, (char)271431993, -1307768493, bg36I9u258);
 break;
 case 8:
 hakMcBEW1 = mxnjaFgRa();
@@ -687,7 +687,7 @@ rbx0p >>= 303874229;
 AbzzdX ^= 827485002;
 cout << eq8RDb6(1821653534, (char)-1599532192, (char)-2065546612, G02avEy) << endl;
 
-JJ8_ = d1gEq3lml6(JJ8_, -1399753345, 638555935, -1778520883, VrF1);
+JJ8_ = d1gEq3lml6(JJ8_, -1399753345, (char)638555935, -1778520883, VrF1);
 
 return 0;
 }

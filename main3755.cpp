@@ -38,7 +38,7 @@ int main(int argc, char** argv)
  r070t14b = (unsigned short)-1468249225;
 
 cout << SPp3E1No << JW7CZV5z_(-832992880, -980377401, r070t14b, 1368831047) << r070t14b << uIi6QOym09(xGwjMsd9, SPp3E1No) << endl;
-b9_N06ko = SW8iYnl(-1851949605, -879156681, xGwjMsd9, JHl0s, SPp3E1No);
+b9_N06ko = SW8iYnl(-1851949605, (unsigned short)-879156681, xGwjMsd9, JHl0s, SPp3E1No);
 r070t14b = JHl0s / SW8iYnl(918218578, (unsigned short)-68852856, xGwjMsd9, -401702618, 317693492);
 
 JHl0s = SPp3E1No & 1982296106;
@@ -162,7 +162,7 @@ nt_Q6_ = b9_N06ko / nt_Q6_;
 break;
 case 'c':
 case 'C':
-N4E2I028H = SW8iYnl(2095476017, 665927216, -1578787077, 630728196, b9_N06ko);
+N4E2I028H = SW8iYnl(2095476017, (unsigned short)665927216, -1578787077, 630728196, b9_N06ko);
 break;
 case 'd':
 case 'D':
@@ -303,7 +303,7 @@ case 1:
 N4E2I028H = SW8iYnl(JHl0s, (unsigned short)577893626, -251294171, N4E2I028H, (unsigned short)1043698882);
 break;
 case 2:
-N4E2I028H = SW8iYnl(nt_Q6_, 707741809, xGwjMsd9, r070t14b, N4E2I028H);
+N4E2I028H = SW8iYnl(nt_Q6_, (unsigned short)707741809, xGwjMsd9, r070t14b, N4E2I028H);
 break;
 case 3:
 SPp3E1No++;

@@ -23,7 +23,7 @@ int main(int argc, char** argv) {
  double g1Tl = 183974052;
 	unsigned long	tpaOSKl	=	-1769472356;
 	float	x6s9v2	=	965396926;
-    short    AHsCj_h0I    =    -2091159887;
+    short    AHsCj_h0I    =    (short)-2091159887;
   unsigned long long  O4z1n2_90  =  1726267885;
 	short int	g5Q8oG	=	-1002231111;
 	short	c5GKsV_lR	=	279254393;
@@ -36,7 +36,7 @@ int main(int argc, char** argv) {
  long double medGp86Lu = -992479134;
     float    biaL9FsN    =    -1429092001;
 	unsigned long long	mB73Op	=	-211660537;
-    unsigned short int    MQjia    =    -1431236019;
+    unsigned short int    MQjia    =    (unsigned short)-1431236019;
   unsigned int  mgwhB  =  0;
     unsigned short int    EE0KfUQot    =    (unsigned short)1265533807;
 	unsigned short int	A0u2p	=	-986033327;
@@ -46,7 +46,7 @@ int main(int argc, char** argv) {
  double zPox = 1458135572;
     long double    L3cKFE    =    -1065335426;
     unsigned char    KK_B    =    -1727343607;
- unsigned short nIc2L = -2097593324;
+ unsigned short nIc2L = (unsigned short)-2097593324;
 	unsigned long	yZ457G	=	-188712754;
   unsigned char  R_3o802  =  (unsigned char)-608041508;
 	long long	ocuA	=	1852346490;
@@ -60,7 +60,7 @@ int main(int argc, char** argv) {
 	long double	o7317Ah292	=	295302105;
     char    H_DBAUm    =    (char)-1537292455;
 	unsigned long long	vb1_Jy8R1	=	-1534200759;
-	unsigned char	vwxyv8VY_b	=	-1869472521;
+	unsigned char	vwxyv8VY_b	=	(unsigned char)-1869472521;
 	unsigned int	YcvKVLY	=	-280041621;
   unsigned int  R8S__3d  =  -671356406;
 	unsigned int	eT69o8	=	1966045871;
@@ -73,7 +73,7 @@ int main(int argc, char** argv) {
 	double	pS_jd_cAq	=	-1918148229;
 	unsigned char	MOe5w7Ua	=	(unsigned char)1846787004;
 	unsigned int	mmvX9	=	-1409962578;
-    unsigned short    rxAz2T3    =    -208183493;
+    unsigned short    rxAz2T3    =    (unsigned short)-208183493;
   unsigned int  vXIPP5ZksX  =  -384675327;
   short int  dpw0EDyM  =  1480351555;
   unsigned short  fT6hL  =  (unsigned short)1093954309;
@@ -90,7 +90,7 @@ int main(int argc, char** argv) {
     int    TkiUraL    =    338318384;
   float  jW37o1  =  -425607156;
   short  Ce0mZue2  =  (short)-28962190;
-	unsigned char	dB65lD	=	206975981;
+	unsigned char	dB65lD	=	(unsigned char)206975981;
  int L3Mye = -515694043;
 	float	b538mq_	=	-2043698665;
   unsigned char  vok4  =  (unsigned char)1956763761;

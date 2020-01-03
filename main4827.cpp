@@ -41,7 +41,7 @@ int main()
   double  b8i4KY97ba;
   b8i4KY97ba  =  745153558;
   unsigned short  l0G84e;
-  l0G84e  =  2080530793;
+  l0G84e  =  (unsigned short)2080530793;
  unsigned long long r2fD;
  r2fD = -1774749057;
 	float	BV3x;
@@ -73,7 +73,7 @@ int main()
   double  O7wuUN7yo;
   O7wuUN7yo  =  -809212296;
 	short int	uS8j_moGQy;
-	uS8j_moGQy	=	-551132810;
+	uS8j_moGQy	=	(short)-551132810;
 	double	QY9f5O344;
 	QY9f5O344	=	571579431;
  unsigned short int R1GYyd28;
@@ -95,7 +95,7 @@ int main()
 	short int	L_OD;
 	L_OD	=	(short)-741559505;
  short j2ORjv_K;
- j2ORjv_K = -1640643605;
+ j2ORjv_K = (short)-1640643605;
 
 {
 int i = 7;

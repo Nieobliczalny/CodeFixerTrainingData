@@ -20,7 +20,7 @@ int main() {
   unsigned short int  Si3jQ8;
   Si3jQ8  =  (unsigned short)-1497211343;
  char q_nn;
- q_nn = 1054696722;
+ q_nn = (char)1054696722;
     double    Wtv__Cq_;
     Wtv__Cq_    =    -637080076;
     unsigned char    bk6iIUUkp2;
@@ -186,7 +186,7 @@ std::cout << "rmnsYt" << "f93rP1c1xO" << "MRn2" << std::endl;
 
 if ((zZr2WrwE & 172593975) && (r0abPCHQu3 >= ZzdEvll))
 {
-bk6iIUUkp2 = Ks6Di4vn3f(-402656060, Si3jQ8, q_nn, -616282570);
+bk6iIUUkp2 = Ks6Di4vn3f((unsigned char)-402656060, Si3jQ8, q_nn, -616282570);
 }
 else
 {

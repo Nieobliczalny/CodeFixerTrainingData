@@ -117,7 +117,7 @@ std::cout << "JnP12" << vt22() << std::endl;
 
 if ((E18k_) || (H4Ih == oDwrTsZ))
 {
-Za7fBF22Y2 = Zzp8hT(623393304, (unsigned char)758836077, (unsigned short)1680315001, -199040866);
+Za7fBF22Y2 = Zzp8hT(623393304, (unsigned char)758836077, (unsigned short)1680315001, (unsigned char)-199040866);
 }
 try
 {

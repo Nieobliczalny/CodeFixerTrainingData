@@ -166,7 +166,7 @@ case 'e':
 lOC3D26es_ = uKHBZ61hxT(lOC3D26es_, (unsigned char)1126094093, j7fz, 1487026114, (short)-1513737672);
 break;
 case 'f':
-u2K18Nz_ = uKHBZ61hxT(-674316730, 2003047219, 459157838, l0kkuL, S59Pd79uLx);
+u2K18Nz_ = uKHBZ61hxT((unsigned char)-674316730, 2003047219, 459157838, l0kkuL, S59Pd79uLx);
 break;
 case 'g':
 t4MS6I6PPF = (int)abs(kZoPTxE_B6);
@@ -266,7 +266,7 @@ case 2:
 xoU6m5Ai7z = Wx_Wa5Xxhn(1771244874, (unsigned short)-81680110, z_4Daj, (unsigned char)1745233848, 289011609);
 break;
 case 3:
-x1rr5XUh = Wx_Wa5Xxhn(x1rr5XUh, 649808834, -2038854066, DSsY86sqK8, g5i_3m);
+x1rr5XUh = Wx_Wa5Xxhn(x1rr5XUh, (unsigned short)649808834, -2038854066, DSsY86sqK8, g5i_3m);
 break;
 case 4:
 ZF_0v44tB1 = l0kkuL ^ oK95ixo;
@@ -362,7 +362,7 @@ t2cwYRD2 = N2lYN3S6();
 }
 else if (P5sS_aTuI2 < 1720509828)
 {
-gvxq = uKHBZ61hxT((unsigned char)-1356439958, (unsigned char)212619566, x1rr5XUh, gnpt, 1280146117) % 1542943282;
+gvxq = uKHBZ61hxT((unsigned char)-1356439958, (unsigned char)212619566, x1rr5XUh, gnpt, (short)1280146117) % 1542943282;
 }
 else
 {
@@ -420,7 +420,7 @@ else
 std::cout << Wx_Wa5Xxhn(E56n0u, (unsigned short)1765175757, LMPNnvZ, (unsigned char)-2051632279, hDHxav) << N2lYN3S6() << std::endl;
 }
 lmj8OW = (int)(j7fz);
-caf28e0S = uKHBZ61hxT(E56n0u, x4xxk4, 688663208, jCZp, 1353679048) / t2cwYRD2;
+caf28e0S = uKHBZ61hxT(E56n0u, x4xxk4, (char)688663208, jCZp, 1353679048) / t2cwYRD2;
 lmj8OW = (int)abs(nQN_Hv50);
 
 std::cout << Wx_Wa5Xxhn(7515910, x4xxk4, -1024096575, jCZp, hDHxav) << CaORs8qN << W679KbR7 << std::endl;
@@ -436,7 +436,7 @@ case 2:
 gvxq <<= 194398096;
 break;
 case 3:
-t4MS6I6PPF = uKHBZ61hxT(t4MS6I6PPF, (unsigned char)-1634772709, -1950438598, 77526698, 1960134018);
+t4MS6I6PPF = uKHBZ61hxT(t4MS6I6PPF, (unsigned char)-1634772709, (char)-1950438598, 77526698, 1960134018);
 break;
 case 4:
 DSsY86sqK8 = Wx_Wa5Xxhn(690213764, -372970329, oK95ixo, KLKJfL, BVWo96T);
@@ -465,7 +465,7 @@ if (oK95ixo >= 293495113)
 {
 try
 {
-hDHxav = uKHBZ61hxT((unsigned char)-1790845471, (unsigned char)646731496, E56n0u, 133647417, 586174039);
+hDHxav = uKHBZ61hxT((unsigned char)-1790845471, (unsigned char)646731496, E56n0u, 133647417, (short)586174039);
 }
 catch (int& errorCode)
 {

@@ -84,7 +84,7 @@ while (i < 4);
 }
 
 VH9YAhwFi = l662(VH9YAhwFi, (short)1678692346, -373934944, (short)-1934273473);
-cout << OPIzD1V / ep9stJCI(1381456340) << endl;
+cout << OPIzD1V / ep9stJCI((unsigned short)1381456340) << endl;
 try
 {
 for (int j = 9; j >= 0; j--)

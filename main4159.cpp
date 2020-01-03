@@ -42,7 +42,7 @@ int main(void) {
   unsigned short int  k9zhbB5pPh;
   k9zhbB5pPh  =  (unsigned short)-922790486;
  unsigned short T2Fk__;
- T2Fk__ = 107877666;
+ T2Fk__ = (unsigned short)107877666;
 	short	VTt_;
 	VTt_	=	1229237715;
  unsigned int GVou;
@@ -84,7 +84,7 @@ int main(void) {
  unsigned char jNqrxL8L;
  jNqrxL8L = (unsigned char)518533141;
   short int  tzc9_2M;
-  tzc9_2M  =  1549465074;
+  tzc9_2M  =  (short)1549465074;
   short  N6S_R;
   N6S_R  =  (short)-1665714627;
  unsigned long Gc3_dNvw;
@@ -100,7 +100,7 @@ int main(void) {
  unsigned short int sb_9fyom;
  sb_9fyom = (unsigned short)1845648277;
  short int kZyz;
- kZyz = -1211427395;
+ kZyz = (short)-1211427395;
  long double OjiY;
  OjiY = 2048279736;
  int r6Ohup6;
@@ -148,7 +148,7 @@ int main(void) {
   short int  IC4xgDX8H6;
   IC4xgDX8H6  =  (short)1996444326;
     char    O8B5Lwrrz;
-    O8B5Lwrrz    =    240484771;
+    O8B5Lwrrz    =    (char)240484771;
  long NY8u;
  NY8u = -1154988669;
   long  p903J;
@@ -168,7 +168,7 @@ for (int i = 0; i < 9; ++i)
 {
 for (int j = 10; j >= 0; --j)
 {
-std::cout << "laGYz16" << jNqrxL8L << g25bN10d(-1431462046, -1985332265, kZyz) << "GJ61AY_f" << std::endl;
+std::cout << "laGYz16" << jNqrxL8L << g25bN10d(-1431462046, (short)-1985332265, kZyz) << "GJ61AY_f" << std::endl;
 }
 }
 
@@ -215,7 +215,7 @@ case 4:
 iENM = (int)ceil(ZP6WJVmC43);
 break;
 case 5:
-w5vuxaXd = g25bN10d(DKU93Qm, -390686119, 1311334527);
+w5vuxaXd = g25bN10d(DKU93Qm, (short)-390686119, 1311334527);
 break;
 case 6:
 w5vuxaXd = g25bN10d(jNqrxL8L, -2141872106, 2093002327);
@@ -321,7 +321,7 @@ std::cout << "MF4mGw" << w5vuxaXd << std::endl;
 switch (iWQkvVUZ90)
 {
 case 0:
-w5vuxaXd = g25bN10d(zun4dz, (short)-272566317, -249371358);
+w5vuxaXd = g25bN10d(zun4dz, (short)-272566317, (unsigned short)-249371358);
 break;
 case 1:
 VTt_ = (int)abs(JZ6a);

@@ -20,7 +20,7 @@ int main(void) {
 	short int	g1G_9NK5O,	R3Gk09H,	tk7W,	h_hZcGu_sL,	aNu8ftz,	b7XRC,	d24E,	JCp39HMi,	xGfOC97,	OhyrpS3ov_,	YX59pF3J;
 	g1G_9NK5O	=	(short)-569080151;
 	R3Gk09H	=	(short)1981930126;
-	tk7W	=	-748691421;
+	tk7W	=	(short)-748691421;
 	h_hZcGu_sL	=	511301378;
 	aNu8ftz	=	1801819564;
 	b7XRC	=	-1211899524;
@@ -42,7 +42,7 @@ try
 {
 for (int k = 0; k < 4; ++k)
 {
-YX59pF3J = E_Xe6Zq((char)-1577558013, YX59pF3J, (char)-1071373242, 238909224, -394548814);
+YX59pF3J = E_Xe6Zq((char)-1577558013, YX59pF3J, (char)-1071373242, 238909224, (unsigned short)-394548814);
 }
 }
 catch (int& errorCode)
@@ -224,7 +224,7 @@ try
 {
 try
 {
-aNu8ftz = i0YSacD((unsigned char)-1774647905, JCp39HMi, (unsigned short)-1810072469, -174450423);
+aNu8ftz = i0YSacD((unsigned char)-1774647905, JCp39HMi, (unsigned short)-1810072469, (unsigned short)-174450423);
 }
 catch (int& errorCode)
 {
@@ -240,7 +240,7 @@ else
 {
 if ((b7XRC < -1377007218) || ((OhyrpS3ov_ <= HU75736_) || (YX59pF3J >= -1801133897)))
 {
-std::cout << wu_E2TS((unsigned char)-1334767377, JCp39HMi, (char)1912801658, -910299620, j2_3M1nRHr) << aNu8ftz << "dQUN_gEDuE" << "gIVNW8Z" << "UNK5K" << std::endl;
+std::cout << wu_E2TS((unsigned char)-1334767377, JCp39HMi, (char)1912801658, (unsigned short)-910299620, j2_3M1nRHr) << aNu8ftz << "dQUN_gEDuE" << "gIVNW8Z" << "UNK5K" << std::endl;
 }
 else if (JCp39HMi < l8kP)
 {
@@ -261,7 +261,7 @@ else
 {
 if (tk7W & -1525110400)
 {
-NZ07_1 = wu_E2TS((unsigned char)-151641998, aNu8ftz, (char)-713583997, -1161483341, -758016324);
+NZ07_1 = wu_E2TS((unsigned char)-151641998, aNu8ftz, (char)-713583997, (unsigned short)-1161483341, -758016324);
 }
 }
 }
@@ -274,7 +274,7 @@ if (b7XRC > HU75736_)
 switch (tk7W)
 {
 case 0:
-j2_3M1nRHr = wu_E2TS((unsigned char)-1730169169, (short)1044870161, 2116718617, aNu8ftz, -1307790645);
+j2_3M1nRHr = wu_E2TS((unsigned char)-1730169169, (short)1044870161, (char)2116718617, aNu8ftz, -1307790645);
 break;
 case 1:
 d24E--;
@@ -286,7 +286,7 @@ case 3:
 JCp39HMi -= OhyrpS3ov_;
 break;
 case 4:
-R3Gk09H = wu_E2TS((unsigned char)-757803110, (short)125399673, 2069498329, aNu8ftz, -1961191962) - 224564449;
+R3Gk09H = wu_E2TS((unsigned char)-757803110, (short)125399673, (char)2069498329, aNu8ftz, -1961191962) - 224564449;
 break;
 }
 }
@@ -318,7 +318,7 @@ switch (RUz9)
 {
 case 'a':
 case 'A':
-JCp39HMi = E_Xe6Zq(-2049808385, 862740029, -1601762680, rDJ_Z9u8j, 322991769);
+JCp39HMi = E_Xe6Zq((char)-2049808385, 862740029, -1601762680, rDJ_Z9u8j, 322991769);
 break;
 case 'b':
 case 'B':

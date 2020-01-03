@@ -260,7 +260,7 @@ xDKU = AdXoBL((unsigned short)1256815975, -255320558);
 }
 else if ((JOM1 < q2449) && (Prc23z9 <= -970203445))
 {
-std::cout << q2449 << FDqlD5Z5t_(-659470530, (char)1596750193, l9Pr_VR8T, -452004101, J_mk3zqcji) << "I92F1q" << std::endl;
+std::cout << q2449 << FDqlD5Z5t_(-659470530, (char)1596750193, l9Pr_VR8T, (short)-452004101, J_mk3zqcji) << "I92F1q" << std::endl;
 }
 else if (xDKU >= -20061735)
 {

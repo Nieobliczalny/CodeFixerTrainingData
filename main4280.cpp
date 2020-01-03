@@ -43,7 +43,7 @@ int main(int argc, char** argv)
   unsigned short int  B_U_a;
   B_U_a  =  (unsigned short)1853278657;
     unsigned char    QG06i;
-    QG06i    =    -165993631;
+    QG06i    =    (unsigned char)-165993631;
     unsigned short int    G6h8qdzpWR;
     G6h8qdzpWR    =    1646048105;
 	unsigned int	t0sl4s;
@@ -77,7 +77,7 @@ int main(int argc, char** argv)
     short int    wqY_;
     wqY_    =    (short)-955672492;
  unsigned short M4At_;
- M4At_ = 1156313852;
+ M4At_ = (unsigned short)1156313852;
  short yZmSZo_waW;
  yZmSZo_waW = 1380590683;
  short int Xp039u;
@@ -91,7 +91,7 @@ int main(int argc, char** argv)
  short int gnfzFk;
  gnfzFk = (short)493615758;
  unsigned short int hU1f5bj6y_;
- hU1f5bj6y_ = -649125906;
+ hU1f5bj6y_ = (unsigned short)-649125906;
  long double NW8xNT9_A;
  NW8xNT9_A = 1199930907;
   short  KSwM_HuU9;
@@ -123,7 +123,7 @@ int main(int argc, char** argv)
     long    j24P33T2;
     j24P33T2    =    1988733474;
 	unsigned char	QZ9E01xy;
-	QZ9E01xy	=	998761956;
+	QZ9E01xy	=	(unsigned char)998761956;
 
 if (QG06i > yZmSZo_waW)
 {

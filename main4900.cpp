@@ -114,7 +114,7 @@ int main(int argc, char** argv) {
   char  ffW0_4;
   ffW0_4  =  (char)-3225680;
  short CEJr39a9;
- CEJr39a9 = 1670256799;
+ CEJr39a9 = (short)1670256799;
  long double f8tQ9dw9;
  f8tQ9dw9 = -1446556994;
     short    mo9I2Pd;

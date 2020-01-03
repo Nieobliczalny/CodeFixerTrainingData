@@ -192,7 +192,7 @@ case 5:
 V5ifcpWxZ = (int)abs(Cpp5g7vipQ);
 break;
 case 6:
-g3T1QswXAA = Wesg(P8IU, -372689137) % oYyzgz;
+g3T1QswXAA = Wesg(P8IU, (unsigned char)-372689137) % oYyzgz;
 break;
 case 7:
 AV18 += 2048015458;

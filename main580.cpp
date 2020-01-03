@@ -165,7 +165,7 @@ if ((um6oR9t3M & 562263750) || (IAr04_ != V_Q_))
 {
 if (ong5o)
 {
-SH_jg_x = c3U5X1o_u_(509844532, (unsigned short)72948787, oGI7, -133274112);
+SH_jg_x = c3U5X1o_u_(509844532, (unsigned short)72948787, oGI7, (char)-133274112);
 }
 }
 else if ((D1DE8WK1 & wo76V) && (p8JbD7t918 > -1862535859))

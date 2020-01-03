@@ -372,7 +372,7 @@ case 'i':
 NVKeT4a7 = F5Qr1mQ0();
 break;
 case 'j':
-Rl_gT21sB = UHc98Fl6JZ(-945126, a3mBE5d, 1665478788);
+Rl_gT21sB = UHc98Fl6JZ((short)-945126, a3mBE5d, 1665478788);
 break;
 default:
 sE191dh2Kr -= WAw_9_QNi;

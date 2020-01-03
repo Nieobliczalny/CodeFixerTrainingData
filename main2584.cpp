@@ -28,7 +28,7 @@ int main(int argc, char** argv) {
   long double  yBQd8T;
   yBQd8T  =  -662024551;
 	unsigned char	BV8mN;
-	BV8mN	=	-510920341;
+	BV8mN	=	(unsigned char)-510920341;
     unsigned long long    OLlKS;
     OLlKS    =    -504418064;
  unsigned char hsV7o6;
@@ -38,7 +38,7 @@ int main(int argc, char** argv) {
   short  eav6u;
   eav6u  =  (short)360050691;
 	unsigned short	wIaItO;
-	wIaItO	=	-1481756466;
+	wIaItO	=	(unsigned short)-1481756466;
 	float	U1dre5HY;
 	U1dre5HY	=	-317265065;
 	unsigned long long	PSykqu62x;
@@ -50,7 +50,7 @@ int main(int argc, char** argv) {
 	short int	GNzFER4;
 	GNzFER4	=	(short)20692207;
   unsigned char  L2bg;
-  L2bg  =  -2075445724;
+  L2bg  =  (unsigned char)-2075445724;
     unsigned short int    zI14Bd;
     zI14Bd    =    0;
 	unsigned long	PdyJmHWp9F;
@@ -72,7 +72,7 @@ int main(int argc, char** argv) {
 	float	Thk0X4XF;
 	Thk0X4XF	=	58716126;
  unsigned char s3YIFi33;
- s3YIFi33 = -466079286;
+ s3YIFi33 = (unsigned char)-466079286;
 	double	U58X83eZX;
 	U58X83eZX	=	-967782928;
   unsigned int  ESm7NCN3;
@@ -88,7 +88,7 @@ int main(int argc, char** argv) {
     char    VKz_epSY;
     VKz_epSY    =    (char)-23521803;
 	unsigned short int	tCEzLe6;
-	tCEzLe6	=	1835132589;
+	tCEzLe6	=	(unsigned short)1835132589;
     short    S5x_V;
     S5x_V    =    1426764985;
 	unsigned long long	J0Csa;
@@ -325,7 +325,7 @@ cout << fyL9AvjS5T(tCEzLe6, (short)868158947, lW8j9mj, BV8mN) << endl;
 }
 else
 {
-hsV7o6 = Z7_06Rm5lR(tCEzLe6, 1716305205) | PSykqu62x;
+hsV7o6 = Z7_06Rm5lR(tCEzLe6, (unsigned char)1716305205) | PSykqu62x;
 }
 
 cout << hTukZ((short)-545873792) << "Ga0CEk1" << hxhs << Z7_06Rm5lR(-228830150, -2028113852) << endl;
@@ -336,7 +336,7 @@ int j = 6;
 do
 {
 j--;
-zI14Bd = fyL9AvjS5T((unsigned short)2034099711, CH8ZUym, -1328757196, 720187267);
+zI14Bd = fyL9AvjS5T((unsigned short)2034099711, CH8ZUym, -1328757196, (unsigned short)720187267);
 }
 while (j >= 0);
 }
@@ -358,7 +358,7 @@ case 'a':
 s3YIFi33 = GNzFER4 >> 821146024;
 break;
 case 'b':
-T_MRP = fyL9AvjS5T((unsigned short)349950339, (short)1892525655, J0Csa, 1652809115);
+T_MRP = fyL9AvjS5T((unsigned short)349950339, (short)1892525655, J0Csa, (unsigned short)1652809115);
 break;
 default:
 T52b3m7Wy = hTukZ(T52b3m7Wy);
@@ -423,7 +423,7 @@ if (U1dre5HY >= -1543637160)
 {
 for (int k = 4; k >= 0; --k)
 {
-zI14Bd = fyL9AvjS5T((unsigned short)-880038276, (short)-155191550, 1899649677, 394534398);
+zI14Bd = fyL9AvjS5T((unsigned short)-880038276, (short)-155191550, 1899649677, (unsigned short)394534398);
 }
 }
 }

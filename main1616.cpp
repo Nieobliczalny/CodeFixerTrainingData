@@ -218,7 +218,7 @@ case 3:
 Y_6yQ = L2vMk(-671128323, (short)806268298, riHCX75yW, 784798673);
 break;
 case 4:
-Y_6yQ = L2vMk(-1379451566, 148109710, z2TK7F7j, -256474463);
+Y_6yQ = L2vMk(-1379451566, (short)148109710, z2TK7F7j, -256474463);
 break;
 case 5:
 w6vq0sZ = ywA66P >> 815310652;

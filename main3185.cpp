@@ -115,7 +115,7 @@ o2yWgs3 = (unsigned int)(ifBKxx1 + (jgn6));
 
 o2yWgs3 = kJvmiT8cZr(o2yWgs3, u68w, (char)200881459, 362752216);
 t3UQ &= 1893515366;
-nK1k8cXHp = kJvmiT8cZr((unsigned short)-1345011949, HBNjZ7k65, -481855147, B8wlEWq0A7);
+nK1k8cXHp = kJvmiT8cZr((unsigned short)-1345011949, HBNjZ7k65, (char)-481855147, B8wlEWq0A7);
 
 if (nK1k8cXHp)
 {
@@ -231,7 +231,7 @@ nK1k8cXHp = W75dHr4y(nK1k8cXHp, -86932361, o2yWgs3, XZJB, -184706570);
 }
 
 XZJB = (unsigned int)(jgn6);
-std::cout << prT3lHWR(nK1k8cXHp, fZR7_ZAS, 2106335767) << kJvmiT8cZr((unsigned short)493724110, fZR7_ZAS, (char)-1050919713, 729668102) << kJvmiT8cZr(nK1k8cXHp, -2016592587, 2133835885, -426565280) << HBNjZ7k65 << std::endl;
+std::cout << prT3lHWR(nK1k8cXHp, fZR7_ZAS, 2106335767) << kJvmiT8cZr((unsigned short)493724110, fZR7_ZAS, (char)-1050919713, 729668102) << kJvmiT8cZr(nK1k8cXHp, -2016592587, (char)2133835885, -426565280) << HBNjZ7k65 << std::endl;
 
 if (ngX4m4)
 {
@@ -344,7 +344,7 @@ case 0:
 M848 = kJvmiT8cZr((unsigned short)1200541197, XZJB, (char)227942025, t3UQ);
 break;
 case 1:
-ngX4m4 = kJvmiT8cZr(-1057671951, XZJB, -1098812694, T9yIrwV7_);
+ngX4m4 = kJvmiT8cZr((unsigned short)-1057671951, XZJB, -1098812694, T9yIrwV7_);
 break;
 case 2:
 uf2a61050t = u68w ^ 25786199;

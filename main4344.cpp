@@ -26,7 +26,7 @@ catch (int& errorCode)
 oXRUT27NV = (int)abs(E0u3) * 0;
 }
 
-std::cout << "q8_3905U" << eXWD << "V6SFVKj" << Mzx1W6f(xnsn640ZKm, wUsYrB8M_, (short)-191184912, r0zt4, 830355357) << EWvP << std::endl;
+std::cout << "q8_3905U" << eXWD << "V6SFVKj" << Mzx1W6f(xnsn640ZKm, wUsYrB8M_, (short)-191184912, r0zt4, (char)830355357) << EWvP << std::endl;
 std::cout << nFmXWJB << std::endl;
 rornXnkLbG = Mzx1W6f(S8_lJsa, 680891402, -1015637167, qu29, -611092827);
 std::cout << hhQqC9CT << std::endl;
@@ -215,7 +215,7 @@ Zcb_Y6 -= 276784696;
 break;
 case 'd':
 case 'D':
-rornXnkLbG = Mzx1W6f(-137874495, -85081324, -1621787249, -545763879, NR_Aj5TOyt);
+rornXnkLbG = Mzx1W6f(-137874495, (char)-85081324, -1621787249, -545763879, NR_Aj5TOyt);
 break;
 case 'e':
 case 'E':
@@ -257,7 +257,7 @@ else
 {
 if ((rornXnkLbG & -1772102133) && (oa6hbzQo > o9Zdq78))
 {
-NR_Aj5TOyt = Mzx1W6f(-1924259170, (char)-1731141372, 1210632729, 1758865145, NfO8) ^ 1305178421;
+NR_Aj5TOyt = Mzx1W6f(-1924259170, (char)-1731141372, (short)1210632729, 1758865145, NfO8) ^ 1305178421;
 }
 }
 }
@@ -372,7 +372,7 @@ while (i < 1);
 
 oXRUT27NV = Mzx1W6f(-1347826772, (char)-648382411, (short)-1204289015, -1648787758, o9Zdq78);
 
-rornXnkLbG = Mzx1W6f(nFmXWJB, fcLkL, 1906797022, jecITBTjz, eDq02EZ);
+rornXnkLbG = Mzx1W6f(nFmXWJB, fcLkL, (short)1906797022, jecITBTjz, eDq02EZ);
 
 try
 {
@@ -401,7 +401,7 @@ if (uzS6pTkL <= 142134718)
 K3__20ft = Mzx1W6f(jecITBTjz, B3f3Eu, (short)578560897, -1318245635, (char)-736812247);
 }
 
-APG8_X = Mzx1W6f(jecITBTjz, B3f3Eu, 643785777, o9Zdq78, -499593608) | 700950966;
+APG8_X = Mzx1W6f(jecITBTjz, B3f3Eu, (short)643785777, o9Zdq78, -499593608) | 700950966;
 
 {
 int i = 10;

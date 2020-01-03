@@ -37,7 +37,7 @@ int main(int argc, char** argv) {
  char KI6u5PhfU = (char)1160249191;
     unsigned short    g3ml582    =    (unsigned short)1322360669;
   int  numzU7  =  -83123643;
- short X62gX6Wy = -2101673045;
+ short X62gX6Wy = (short)-2101673045;
  unsigned long long hQEB4Lp = 0;
     long long    i5SDbTIR2    =    1828714544;
   unsigned short int  P3jb0cM5V  =  1610908140;
@@ -49,7 +49,7 @@ int main(int argc, char** argv) {
     float    gPlUj    =    -1435700032;
   unsigned long long  rOnq  =  -933927870;
 	short	f365wWqC7	=	(short)-883225276;
-	short	YdK1nwHN	=	-344203136;
+	short	YdK1nwHN	=	(short)-344203136;
     long    xQo059    =    -35062442;
     long long    M9_5SS    =    973205648;
     int    bnuSfMkv    =    515025296;
@@ -63,7 +63,7 @@ int main(int argc, char** argv) {
     int    n8RD_W9    =    659161398;
     long double    gGPiun    =    1039536033;
     long double    ga16_Q2    =    1251402145;
- char Nz633 = 997905353;
+ char Nz633 = (char)997905353;
  unsigned long long Y039N = 285670776;
  long f3iRPlIYgu = 2000577804;
   unsigned short  PdU2nZ6  =  (unsigned short)-1252560373;
@@ -78,7 +78,7 @@ int main(int argc, char** argv) {
     long long    BerhIAI    =    1609881461;
  int y9zMWhZ = -382781292;
  short zSt28pd = (short)991760713;
-	short int	uk95D	=	-156275319;
+	short int	uk95D	=	(short)-156275319;
   unsigned int  rv_ZLzzf  =  658650238;
     unsigned short    i3xo    =    1852174092;
 	long long	I1Q7cF	=	-591404261;
@@ -93,7 +93,7 @@ int main(int argc, char** argv) {
     float    s7M3    =    -1086151695;
 	unsigned short	JSJCg99w_C	=	(unsigned short)-571290207;
 	unsigned char	psceU4	=	(unsigned char)953175524;
-	short int	twq7Uk	=	-1186030181;
+	short int	twq7Uk	=	(short)-1186030181;
  long VF1JsEC5 = 695400829;
 
 if (n8RD_W9 < tA57Jl1)
@@ -614,7 +614,7 @@ case 2:
 Z_r07LVrn = Us_2D27k90(Z_r07LVrn, (unsigned short)-1226383011);
 break;
 default:
-bg9zk = Us_2D27k90((unsigned short)-368834134, 268061943);
+bg9zk = Us_2D27k90((unsigned short)-368834134, (unsigned short)268061943);
 break;
 }
 

@@ -26,7 +26,7 @@ int main(int argc, char** argv) {
 	char	wgG2Io544	=	(char)452890083;
 	char	StMJ75U	=	(char)-686168473;
     double    rc2_tLD59D    =    -171902963;
- unsigned short int TxBWy5 = 1390320819;
+ unsigned short int TxBWy5 = (unsigned short)1390320819;
   long  IOkHhB  =  47267472;
   short  xF2foV  =  -1070869432;
 	double	W17PHl	=	-1381963784;
@@ -37,7 +37,7 @@ int main(int argc, char** argv) {
   unsigned long long  MU8WwW  =  -948283864;
  char N8C_dVmZD = (char)1415705009;
     long    dS89ar1    =    0;
-	unsigned short	NKBb5m7_60	=	630901303;
+	unsigned short	NKBb5m7_60	=	(unsigned short)630901303;
  long long R8wrxxGiIw = 297388629;
 	unsigned long long	Pj3e	=	-1993044854;
  unsigned char aU9atBTWW = -288947662;
@@ -50,7 +50,7 @@ int main(int argc, char** argv) {
     double    E_86h1Op    =    1588025185;
 	unsigned long long	yP5hclBp3	=	-711114290;
   float  zaTug0V  =  1070448450;
-  short int  J69udb0Q0Y  =  1219831993;
+  short int  J69udb0Q0Y  =  (short)1219831993;
 	unsigned int	p3ek_Z1	=	894237035;
 	unsigned char	m14c	=	1795003947;
  short x3vjql1vq = (short)-1094003290;
@@ -60,7 +60,7 @@ int main(int argc, char** argv) {
  float Uc_uR9XfZZ = -1230788076;
 	short	kVw7082vJ	=	(short)969233526;
   long double  dd6n9Km03u  =  -1674972785;
-	unsigned char	axjuEml0	=	429375653;
+	unsigned char	axjuEml0	=	(unsigned char)429375653;
     double    nFxoL    =    -1252596230;
   unsigned short int  ghk2  =  1640957653;
   unsigned short  UX03SdA  =  (unsigned short)1899039425;
@@ -70,7 +70,7 @@ int main(int argc, char** argv) {
   long long  mv_lm14t4D  =  670038165;
     short int    O8My99e    =    (short)-378977549;
   short int  uu_jB1_  =  1602638209;
-  unsigned short int  BZrgeh  =  -1811019049;
+  unsigned short int  BZrgeh  =  (unsigned short)-1811019049;
 
 P4r5E1 = HtbURVrbvj();
 
@@ -427,7 +427,7 @@ case 'c':
 Nf968a = Q3K0_57qg1(Nf968a, (short)-470712772, He99_X, (unsigned short)363342264);
 break;
 case 'd':
-Pj3e = Q3K0_57qg1(1674476859, 315262396, 1345794725, -619821096);
+Pj3e = Q3K0_57qg1(1674476859, (short)315262396, 1345794725, -619821096);
 break;
 case 'e':
 P4r5E1 = HtbURVrbvj();

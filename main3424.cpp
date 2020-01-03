@@ -50,7 +50,7 @@ int main()
     unsigned char    gY_Qc;
     gY_Qc    =    (unsigned char)2066933874;
     short    WGpSiT75;
-    WGpSiT75    =    -1497514483;
+    WGpSiT75    =    (short)-1497514483;
  double dbFZDxI;
  dbFZDxI = 1964730203;
  short f7Zq;
@@ -104,7 +104,7 @@ int main()
  unsigned short Gu00;
  Gu00 = (unsigned short)237615198;
 	unsigned short int	tB5YGoG3iC;
-	tB5YGoG3iC	=	454353411;
+	tB5YGoG3iC	=	(unsigned short)454353411;
   long long  w6zk0K95;
   w6zk0K95  =  -82906210;
   unsigned int  E9xMxZvDm_;
@@ -178,7 +178,7 @@ int main()
  long long ZXIxD2T;
  ZXIxD2T = 691857376;
   unsigned short  rPQzUAP;
-  rPQzUAP  =  1500947245;
+  rPQzUAP  =  (unsigned short)1500947245;
  float kk7uf_g;
  kk7uf_g = 1647066144;
   unsigned short int  A82L9F_E;
@@ -202,7 +202,7 @@ std::cout << "X_hH6059j" << PE65(643245579, XCg_1, -1150959869, UTZQ_, n3Ua_) <<
 
 try
 {
-std::cout << NclaD3ae << PE65(f662y8D, (short)1221751745, -526577477, UTZQ_, -1726970515) << p2yk1b1 << C30K_(f662y8D, XCg_1, E8V9duXrU, UTZQ_) << "jk_7" << std::endl;
+std::cout << NclaD3ae << PE65(f662y8D, (short)1221751745, -526577477, UTZQ_, (unsigned char)-1726970515) << p2yk1b1 << C30K_(f662y8D, XCg_1, E8V9duXrU, UTZQ_) << "jk_7" << std::endl;
 }
 catch (int& errorCode)
 {
@@ -336,7 +336,7 @@ XevCRH = PE65(1830129851, (short)-1475894701, 513148306, sB4r, (unsigned char)-1
 }
 else
 {
-WII7G2Wqe = C30K_(WII7G2Wqe, 1305630812, -329518699, -396824724);
+WII7G2Wqe = C30K_(WII7G2Wqe, (unsigned short)1305630812, -329518699, -396824724);
 }
 }
 else if (f662y8D > h3RdSStQi)
@@ -627,7 +627,7 @@ case 3:
 M_rJ = MqRUuB1X(1088658914);
 break;
 case 4:
-p7ai34JA1R = C30K_(72301275, (unsigned short)-573146976, -778168742, 1432930489);
+p7ai34JA1R = C30K_(72301275, (unsigned short)-573146976, (short)-778168742, 1432930489);
 break;
 case 5:
 ZXIxD2T = (int)abs(YDDL4D);

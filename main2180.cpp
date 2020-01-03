@@ -28,7 +28,7 @@ int main() {
  long double Nk1I_q = -1850291537;
   long double  yRH4K7J6_0  =  16455483;
  unsigned long long v0x0 = -1794287530;
- unsigned char u2c59o1 = -343194492;
+ unsigned char u2c59o1 = (unsigned char)-343194492;
     unsigned short int    y870kf    =    568489306;
  long kztk0IvXXc = -616342906;
  float pN2JL93 = 577901495;
@@ -54,7 +54,7 @@ int main() {
 	unsigned long	L4d4q	=	0;
  unsigned long long iwpl88oox = 45672308;
     long double    U_o081    =    1895506930;
-    unsigned char    kqog5kBw2O    =    -793477393;
+    unsigned char    kqog5kBw2O    =    (unsigned char)-793477393;
     float    bTyuN    =    -1747950780;
  long double ceVX_ = 136670160;
  int inEc = -1967980838;
@@ -159,7 +159,7 @@ case 'B':
 bTyuN = Mlrq(bTyuN);
 break;
 default:
-inEc = pw8dfJE(inEc, 1939522153);
+inEc = pw8dfJE(inEc, (unsigned short)1939522153);
 break;
 }
 }
@@ -203,7 +203,7 @@ case 7:
 AtifgV = (int)floor(bTyuN);
 break;
 default:
-pNNCV = h48F_P(N370CZMgb, (unsigned char)-1379976829, (unsigned char)-348990042, -1094520349, -2105040208);
+pNNCV = h48F_P(N370CZMgb, (unsigned char)-1379976829, (unsigned char)-348990042, -1094520349, (short)-2105040208);
 break;
 }
 }
@@ -294,7 +294,7 @@ lTOuYH31W ^= 560342884;
 }
 else if (pNNCV < L4d4q)
 {
-L4d4q = h48F_P(-1413385435, (unsigned char)-2093614265, (unsigned char)1555721024, xJv_taAyx, 653927275);
+L4d4q = h48F_P(-1413385435, (unsigned char)-2093614265, (unsigned char)1555721024, xJv_taAyx, (short)653927275);
 }
 else if (L4d4q > So0X13V360)
 {
@@ -402,7 +402,7 @@ break;
 }
 else
 {
-L4d4q = h48F_P(766832386, 1793039242, 1033939235, T_E3jo2, -1133718996);
+L4d4q = h48F_P(766832386, (unsigned char)1793039242, 1033939235, T_E3jo2, -1133718996);
 }
 }
 else
@@ -460,7 +460,7 @@ if (T_E3jo2 < -124047247)
 L4d4q = h48F_P(N_os2OV1, (unsigned char)196070479, (unsigned char)834109334, lTOuYH31W, xJv_taAyx);
 }
 
-pNNCV = h48F_P(260246789, pNNCV, -898542289, DR_1foj, v0x0);
+pNNCV = h48F_P(260246789, pNNCV, (unsigned char)-898542289, DR_1foj, v0x0);
 
 kztk0IvXXc = (long)(Q0l078Aw);
 
@@ -699,7 +699,7 @@ return 0;
 
 unsigned short int    Mlrq(unsigned long long    uabwn2sj)
 {
-    return    365308565;
+    return    (unsigned short)365308565;
 }
 
 unsigned long  M9O_eU549C(unsigned long  LuRx5)

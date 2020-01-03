@@ -38,7 +38,7 @@ int main() {
   unsigned long  x6i01d  =  1454061937;
 	char	ux9O	=	(char)-1435334468;
     int    OE57NXlB    =    1301283654;
- short dHOz = 690595588;
+ short dHOz = (short)690595588;
     int    gxeXHb    =    -1196570959;
     unsigned short int    CNxhm8yY    =    -1543191309;
 	unsigned int	nXg0p6B0f2	=	0;
@@ -49,7 +49,7 @@ int main() {
     long    ydL1F    =    -849037262;
     unsigned short int    SW_54Sg_    =    (unsigned short)-1127648645;
     unsigned char    xh_8r2s1    =    (unsigned char)1991817498;
- unsigned short int t5gX9z83 = 550369683;
+ unsigned short int t5gX9z83 = (unsigned short)550369683;
   long long  yYDJ0U1Yr5  =  727550495;
   unsigned short int  w98P  =  880396653;
   unsigned short  gL61  =  -709916196;
@@ -63,7 +63,7 @@ int main() {
   unsigned long long  MW9H2QsAAQ  =  1196396969;
   float  C8MvqsaTM  =  -2092376659;
  unsigned char hH747g1L = (unsigned char)-723640736;
-    unsigned char    Mc6Y4y4Q    =    906534697;
+    unsigned char    Mc6Y4y4Q    =    (unsigned char)906534697;
 	long	wg25829d	=	324436647;
   unsigned long  yA2LPX  =  1605518082;
   long  xe0Bof  =  1097711381;
@@ -86,7 +86,7 @@ int main() {
     short    Yzjgp4FI    =    (short)1958603043;
     unsigned char    taFP3Gq    =    (unsigned char)993326680;
     float    KF79Jbb    =    -1206765155;
- char s_TNRBj2 = 1554947498;
+ char s_TNRBj2 = (char)1554947498;
 	float	Z2t2Zvr9Z6	=	-374946414;
 	char	WVkoX2T	=	-1734242436;
     long    ji2o1    =    -1627888928;
@@ -97,7 +97,7 @@ int main() {
 	unsigned char	cE1CH	=	(unsigned char)-1168906559;
     unsigned short int    ln6uS    =    -1092351813;
   double  CYm2j73e  =  1815857104;
- char n3cx18YQ = -759935115;
+ char n3cx18YQ = (char)-759935115;
   int  YNyt  =  -1503858336;
   unsigned char  eQZFCQ  =  -1827022102;
 	float	Y546Q	=	853720163;
@@ -117,7 +117,7 @@ int main() {
   long double  gA_IYtH  =  1619244260;
   unsigned char  SJXDk1727  =  (unsigned char)584653171;
  double Mg1ADk_WM = -1987323112;
-  short  nSJepkF2H5  =  128468898;
+  short  nSJepkF2H5  =  (short)128468898;
     unsigned short    WUATI1    =    1181462052;
   short  xbpf  =  -2045890027;
 

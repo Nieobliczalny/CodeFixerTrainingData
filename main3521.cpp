@@ -129,7 +129,7 @@ std::cout << GUq64wH(MI7M5BM91d, vkVvAl5, G_H32C_x1, 2049790428, (unsigned short
 tM5l = Um10Zek(tM5l, GA5ey, 1202072225, vkVvAl5, (short)821929412);
 try
 {
-std::cout << VKNbq9aIG5(tM5l, -1917251209, G_H32C_x1, 465874548) << aIX_ << "MPWG4_DG" << G3JgEm(-1379312752, -164217721) << std::endl;
+std::cout << VKNbq9aIG5(tM5l, (unsigned short)-1917251209, G_H32C_x1, 465874548) << aIX_ << "MPWG4_DG" << G3JgEm(-1379312752, -164217721) << std::endl;
 }
 catch (int& errorCode)
 {
@@ -146,7 +146,7 @@ mvc1S5vdR = Um10Zek(mvc1S5vdR, -1624857192, 1591682652, 1153766317, JYaj_Evt9y);
 Wjl99 %= 1685255819;
 Eqc86jC = VKNbq9aIG5(110962083, (unsigned short)620189699, 59904830, gv5XMV1k);
 
-rr1SqY = G3JgEm((unsigned char)-225626380, xWqRGEKriE) / n56AT0(Eqc86jC, 717560284);
+rr1SqY = G3JgEm((unsigned char)-225626380, xWqRGEKriE) / n56AT0(Eqc86jC, (short)717560284);
 
 aIX_ = (unsigned long long)(uYqbm_V);
 

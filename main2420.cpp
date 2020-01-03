@@ -21,7 +21,7 @@ int main() {
   long long  I4O26h75HR  =  537215346;
   unsigned short int  c7Fw  =  (unsigned short)907859732;
   unsigned long long  p920tv  =  38518112;
-    unsigned char    t7eA04oh46    =    -263474987;
+    unsigned char    t7eA04oh46    =    (unsigned char)-263474987;
   long long  xZ43KlFCk0  =  0;
 	short int	bm4048	=	190504576;
     int    BL407HmXu    =    1603845422;
@@ -36,7 +36,7 @@ int main() {
  unsigned int oE_Z = 2032744142;
     int    jS1CDG    =    -966281980;
  unsigned int TPE0c = 1906184068;
- short WsB_ = -1582449415;
+ short WsB_ = (short)-1582449415;
   unsigned long long  eqD_EdY6  =  0;
     unsigned short    b23_G    =    0;
     unsigned long    uOW57Z_DRB    =    505082843;
@@ -222,7 +222,7 @@ case 'I':
 eqD_EdY6 = u154w(-895813836, K68T7d, (unsigned char)250664469);
 break;
 }
-cout << u154w(lKrF3, K68T7d, (unsigned char)-1312016459) << "OP778HQ3" << u154w(lKrF3, K68T7d, 675938374) << u154w(-413081615, 365690921, BL407HmXu) << endl;
+cout << u154w(lKrF3, K68T7d, (unsigned char)-1312016459) << "OP778HQ3" << u154w(lKrF3, K68T7d, (unsigned char)675938374) << u154w(-413081615, 365690921, BL407HmXu) << endl;
 try
 {
 if (GExw < t7eA04oh46)

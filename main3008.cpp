@@ -199,7 +199,7 @@ case 0:
 B66Y8450n = v2yR(-932948601, (unsigned short)-1573018738, iFg_) << qDmSV;
 break;
 case 1:
-FMgGGmqbD = ka6OR2n9w((unsigned short)-1577930884, -2036666020) & h6VwdLWAzU;
+FMgGGmqbD = ka6OR2n9w((unsigned short)-1577930884, (unsigned short)-2036666020) & h6VwdLWAzU;
 break;
 case 2:
 wV9Q = ku8I(-1545234828, 1461029161, 387307987) << iFg_;

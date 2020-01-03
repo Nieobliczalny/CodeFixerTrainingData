@@ -33,7 +33,7 @@ int main()
  unsigned short LKV3;
  LKV3 = (unsigned short)-245167704;
   unsigned short int  SO9BE;
-  SO9BE  =  1040996971;
+  SO9BE  =  (unsigned short)1040996971;
   unsigned short int  FOHYM;
   FOHYM  =  (unsigned short)882101487;
     long double    lH8o2IJz4;

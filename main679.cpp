@@ -38,7 +38,7 @@ int main() {
  unsigned long long qTq1SfVQ = 536106340;
     unsigned short    m4inV    =    (unsigned short)-1876643359;
   unsigned long long  TPWduSg  =  0;
-	short	Rb4V6	=	1186298659;
+	short	Rb4V6	=	(short)1186298659;
     short int    HPFQ_    =    -1495441135;
     long    PliQO0S0    =    0;
 	unsigned int	E6j_	=	1415604665;
@@ -57,7 +57,7 @@ int main() {
   unsigned long long  vbN_s  =  -408207733;
     int    d__J7i    =    -1667973473;
 	short int	H5Iv	=	(short)-951640266;
-	char	A0n8Lp7U	=	1978168469;
+	char	A0n8Lp7U	=	(char)1978168469;
 
 if ((Z1Jdn90kB <= 826266402) && ((Hq00fh7 == GaVIu) && (hSHPN652D)))
 {

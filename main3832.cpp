@@ -36,7 +36,7 @@ int main() {
     unsigned char    a__9Pti;
     a__9Pti    =    (unsigned char)-273931128;
     unsigned char    i8Y9;
-    i8Y9    =    -35263573;
+    i8Y9    =    (unsigned char)-35263573;
     unsigned char    dJ7ntbI;
     dJ7ntbI    =    -447830801;
     int    M_2I;
@@ -64,7 +64,7 @@ int main() {
  float Xe6k_4l1s;
  Xe6k_4l1s = 785655937;
 	short	WJvb0Mi8;
-	WJvb0Mi8	=	-1658111897;
+	WJvb0Mi8	=	(short)-1658111897;
  float zxZ8DPr;
  zxZ8DPr = -245890767;
 	unsigned long long	g6hzCFU;
@@ -76,7 +76,7 @@ int main() {
   int  s2Hjz;
   s2Hjz  =  2078647895;
 	char	Y60FS;
-	Y60FS	=	792755939;
+	Y60FS	=	(char)792755939;
     unsigned long long    Bv7O1ekS;
     Bv7O1ekS    =    1115298790;
     unsigned long long    SBJ9We1;
@@ -88,7 +88,7 @@ int main() {
  unsigned short int w282bR9;
  w282bR9 = (unsigned short)809291979;
   unsigned short  hlJ_KV3l;
-  hlJ_KV3l  =  -82826329;
+  hlJ_KV3l  =  (unsigned short)-82826329;
   float  W3Ly;
   W3Ly  =  1833931234;
  double Ou3m;
@@ -130,7 +130,7 @@ int main() {
     char    kMOG25;
     kMOG25    =    (char)-1920429678;
     short int    nkmAKO;
-    nkmAKO    =    1763307991;
+    nkmAKO    =    (short)1763307991;
     long double    WLAsWIoxBW;
     WLAsWIoxBW    =    -69655466;
   long long  zm62th3;

@@ -85,7 +85,7 @@ hA_Xk_Jw = gSr4p((short)1015711693, aBPtzoh1y, hA_Xk_Jw, -960710995, (unsigned c
 }
 for (int i = 0; i < 4; ++i)
 {
-hA_Xk_Jw = gSr4p(1004262963, a5_T8dC_Xh, 1773056838, rrQm_g_x, -245908289);
+hA_Xk_Jw = gSr4p((short)1004262963, a5_T8dC_Xh, 1773056838, rrQm_g_x, -245908289);
 }
 
 try
@@ -299,7 +299,7 @@ hA_Xk_Jw = gSr4p((short)-929144936, (short)-1996753892, -669787, -668411746, c56
 break;
 case 'c':
 case 'C':
-Tf8yDf01 = t_wpp59(1503724156, -17880507, -229390485);
+Tf8yDf01 = t_wpp59(1503724156, (unsigned char)-17880507, -229390485);
 break;
 case 'd':
 case 'D':
@@ -463,7 +463,7 @@ case 2:
 Rp6XDm_8K = je08RxIAyK(Rp6XDm_8K, gw818yB7, aBPtzoh1y);
 break;
 case 3:
-KA0DotPF5C = je08RxIAyK(988275545, -1569220602, 935084117);
+KA0DotPF5C = je08RxIAyK((char)988275545, -1569220602, 935084117);
 break;
 case 4:
 I2UxTCB = je08RxIAyK(X1V5, I2UxTCB, HZA6V);

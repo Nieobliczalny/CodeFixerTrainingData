@@ -153,7 +153,7 @@ int main(int argc, char** argv)
 	short int	IIene0T8J;
 	IIene0T8J	=	(short)2133212412;
  short N668_2o;
- N668_2o = 2090594977;
+ N668_2o = (short)2090594977;
     long long    j70V6T;
     j70V6T    =    355694730;
 	int	j2I6sQv3;
@@ -169,7 +169,7 @@ int main(int argc, char** argv)
   int  xLT957_;
   xLT957_  =  643249658;
   unsigned char  Ryv32wS28;
-  Ryv32wS28  =  104419986;
+  Ryv32wS28  =  (unsigned char)104419986;
   char  OuEr0m;
   OuEr0m  =  (char)-2062215973;
     int    c0A9kyoG1;
@@ -187,7 +187,7 @@ int main(int argc, char** argv)
 	char	pbii1Jxi;
 	pbii1Jxi	=	(char)-436770628;
  char f67B1CxC;
- f67B1CxC = -1581460820;
+ f67B1CxC = (char)-1581460820;
   long  QItK4VD;
   QItK4VD  =  1100911789;
 
@@ -365,7 +365,7 @@ xLT957_ = q55559();
 }
 else if (ldZk4FgF6)
 {
-std::cout << jbMC((char)558595155, (unsigned short)1090286139, 639077349, AP6TOqIl) << jZDq << oJ04_ << cnpAPB3yPu(xLT957_, -526545961, -949347874, AP6TOqIl, 1346450732) << q55559() << std::endl;
+std::cout << jbMC((char)558595155, (unsigned short)1090286139, 639077349, AP6TOqIl) << jZDq << oJ04_ << cnpAPB3yPu(xLT957_, (short)-526545961, -949347874, AP6TOqIl, 1346450732) << q55559() << std::endl;
 }
 else
 {

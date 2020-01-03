@@ -265,7 +265,7 @@ oGeg_33H78 = (char)(l4ZLi);
 }
 else
 {
-cout << l4ZLi << oGeg_33H78 << kw8t() << vc7I34Los_((char)-27353721, 231160213, 2002373610, 242913839, 1316863417) << endl;
+cout << l4ZLi << oGeg_33H78 << kw8t() << vc7I34Los_((char)-27353721, 231160213, (unsigned short)2002373610, 242913839, 1316863417) << endl;
 }
 
 l4ZLi = kw8t();
@@ -281,7 +281,7 @@ case 'c':
 oG9PG3 = ry32hd1((unsigned char)-80575412);
 break;
 case 'd':
-oGeg_33H78 = vc7I34Los_(-1241624451, -629845817, oGeg_33H78, l4ZLi, 512921578);
+oGeg_33H78 = vc7I34Los_((char)-1241624451, -629845817, oGeg_33H78, l4ZLi, 512921578);
 break;
 case 'e':
 l4ZLi = l4ZLi / l4ZLi;
@@ -370,7 +370,7 @@ oGeg_33H78 = vc7I34Los_((char)-1983972905, l4ZLi, (unsigned short)2036311147, oG
 }
 else if ((rz76l8m5 > l4ZLi) || (l4ZLi != -743765793))
 {
-oGeg_33H78 = vc7I34Los_(-862152380, 464137357, 912269075, -1989077608, -1761061052);
+oGeg_33H78 = vc7I34Los_((char)-862152380, 464137357, 912269075, -1989077608, -1761061052);
 }
 else if (l4ZLi & -1265581026)
 {

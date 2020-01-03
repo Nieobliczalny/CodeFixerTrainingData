@@ -21,7 +21,7 @@ int main(void)
   unsigned short  I4E4g648NL  =  (unsigned short)-1647803566;
     unsigned long long    v65Tb7v7    =    1214371797;
     unsigned char    Et9df6II    =    (unsigned char)-1775853827;
- unsigned char HsCpG3 = -5429923;
+ unsigned char HsCpG3 = (unsigned char)-5429923;
     char    pZ3a33I    =    -611561339;
  unsigned short int KS0A4vE = 1152356308;
  unsigned long JTa6lo_ = -1312761213;

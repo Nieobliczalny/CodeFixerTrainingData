@@ -586,7 +586,7 @@ int j = 0;
 while (j < 3)
 {
 j++;
-std::cout << JdFMoSaG(GG5jR0B5) << s341cgt(366524927, 50912766, (short)314031043, zWw94S, 521469092) << "v6a5l" << aCstlg(GG5jR0B5, (short)1943669774) << pt12y(1729301325, -297250864) << std::endl;
+std::cout << JdFMoSaG(GG5jR0B5) << s341cgt(366524927, 50912766, (short)314031043, zWw94S, 521469092) << "v6a5l" << aCstlg(GG5jR0B5, (short)1943669774) << pt12y(1729301325, (short)-297250864) << std::endl;
 }
 }
 }

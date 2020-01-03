@@ -30,7 +30,7 @@ int main()
  long double o582GJ1 = -975210194;
  double zNkci1a = 1259994516;
  long L7CZ5p = -1177272300;
-  unsigned short int  Y6sz9lvfgW  =  591229078;
+  unsigned short int  Y6sz9lvfgW  =  (unsigned short)591229078;
 	short int	si7GEO3N	=	-877559494;
  unsigned long long HomG = 1186453542;
 	unsigned short int	Aftw_	=	(unsigned short)1322556522;
@@ -56,7 +56,7 @@ int main()
  float Zv09A_K0 = -1055433262;
   int  kI2n6N  =  -486741320;
  short int UfLaZYx = (short)-81640036;
- unsigned short mLNjf = -723711873;
+ unsigned short mLNjf = (unsigned short)-723711873;
 	char	XLm6NFeAL	=	-1370456091;
   short  hp6H62y  =  -1668325953;
 	unsigned short	o73juhhY	=	-564971274;
@@ -67,7 +67,7 @@ int main()
     float    kN4U    =    -1858920019;
  unsigned short XN17JVYJfJ = (unsigned short)626830279;
 	long long	s_l0En	=	0;
-  unsigned char  x1gANqw  =  2000333053;
+  unsigned char  x1gANqw  =  (unsigned char)2000333053;
   unsigned int  Y__aA6r0  =  161704237;
  unsigned char mZBuQ8YEO = 1446681072;
  short int xu8_mnl = (short)-293460981;
@@ -78,7 +78,7 @@ int main()
   long double  AmR16R  =  -833512847;
   long long  Ph4_ak0s4  =  -2139652515;
   unsigned short  Dr_iB6Id5  =  (unsigned short)976944534;
-	unsigned short	VQ5WV5or	=	1352632342;
+	unsigned short	VQ5WV5or	=	(unsigned short)1352632342;
 	long	WF0__34u	=	1432788877;
   char  D54cQ5I5_5  =  (char)-1231021602;
   long double  c138Eb  =  2008824524;
@@ -94,7 +94,7 @@ int main()
   unsigned int  FosIQ  =  -251362755;
     unsigned int    hgu4_pu    =    -1018710746;
  unsigned long long hvlzbC1 = -1925071748;
-    short int    z4s6XQ8    =    -1746150390;
+    short int    z4s6XQ8    =    (short)-1746150390;
 	double	mVU_	=	-1387289284;
  int gxyI654Ul = -1336267692;
     unsigned short    wvzAZ0a7    =    1671074326;
@@ -104,7 +104,7 @@ int main()
     unsigned short int    w6ZKvuC    =    (unsigned short)-1739910328;
 	float	R8Z6ESX	=	695453617;
   unsigned char  waMF2C  =  -618372968;
-	short	S__2kvfS	=	1166062047;
+	short	S__2kvfS	=	(short)1166062047;
     unsigned char    U6v466r    =    285014058;
 
 {
@@ -138,7 +138,7 @@ VQ5WV5or = (p_ierdslT6 == Aftw_) ? IxFzUz2lP5 : ybbMS76tL;
 break;
 case 'b':
 case 'B':
-bSRN8YH = f1tF3jo_((char)-1382930478, (unsigned short)1802323085, -1253354762, -44389714, 1569404480);
+bSRN8YH = f1tF3jo_((char)-1382930478, (unsigned short)1802323085, (unsigned short)-1253354762, -44389714, 1569404480);
 break;
 case 'c':
 case 'C':
@@ -154,7 +154,7 @@ Si29 = W08fG(Si29, -494273086, RlBjDPIW, 1618757320, (unsigned short)-1003311173
 break;
 case 'f':
 case 'F':
-Y6sz9lvfgW = W08fG(Y6sz9lvfgW, 1339113537, (short)-1954908916, 712797041, 815014967);
+Y6sz9lvfgW = W08fG(Y6sz9lvfgW, 1339113537, (short)-1954908916, 712797041, (unsigned short)815014967);
 break;
 case 'g':
 case 'G':
@@ -169,7 +169,7 @@ case 'I':
 XN17JVYJfJ = (c138Eb < -1412981913) ? W08fG(-913855528, z4s6XQ8, (short)-421401839, 2020025312, I8Tr9Lu61) : P8SOy5k7Tw;
 break;
 default:
-FE_0Ma85G = f1tF3jo_(-927819683, -1790715001, Y6sz9lvfgW, hp6H62y, x1gANqw);
+FE_0Ma85G = f1tF3jo_((char)-927819683, -1790715001, Y6sz9lvfgW, hp6H62y, x1gANqw);
 break;
 }
 
@@ -185,7 +185,7 @@ o582GJ1 = (int)floor(lhAxonTHZZ);
 }
 else if (((pkAf3f) || (w6ZKvuC != 1246013059)) || (Y6sz9lvfgW))
 {
-FE_0Ma85G = f1tF3jo_((char)-744877260, (unsigned short)1087149855, 899311296, 220070608, 1336287171);
+FE_0Ma85G = f1tF3jo_((char)-744877260, (unsigned short)1087149855, (unsigned short)899311296, 220070608, 1336287171);
 }
 else if (VjG58K < 1478454389)
 {
@@ -201,7 +201,7 @@ ASJ6C = W08fG(ASJ6C, lhAxonTHZZ, Aftw_, -184230776, (unsigned short)-2079127818)
 }
 else if ((waMF2C < Ph4_ak0s4) || (x1gANqw != 746794039))
 {
-Zv09A_K0 = W08fG(-166111277, 1581988549, (short)855521783, -891091044, 798595460);
+Zv09A_K0 = W08fG(-166111277, 1581988549, (short)855521783, -891091044, (unsigned short)798595460);
 }
 else
 {
@@ -348,7 +348,7 @@ kJ5X = xu8_mnl * QSfX788qM;
 }
 
 HomG = W08fG(1490060202, 1319609473, (short)1092845819, nyWiOV7Y0A, hgu4_pu);
-cout << p_ierdslT6 / f1tF3jo_(HomG, 1093605667, -1789919582, 1762938256, hgu4_pu) << endl;
+cout << p_ierdslT6 / f1tF3jo_(HomG, (unsigned short)1093605667, -1789919582, 1762938256, hgu4_pu) << endl;
 
 return 0;
 }

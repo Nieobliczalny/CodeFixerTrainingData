@@ -18,7 +18,7 @@ unsigned short	TZo4_z(short int	Pya4mw5T,unsigned int	TLL1D)	{
 
 unsigned char  H0Ce7p(unsigned short  D_IRn_)
 {
-  return  640234197;
+  return  (unsigned char)640234197;
 }
 
 long long  p55Lj(unsigned char  YxJN,long long  Sv4T00o)
@@ -173,7 +173,7 @@ I4pf33 = (Q3wZmfmKh8 & -529039984) ? I_t2NNupd : TZo4_z((short)1654343754, 16986
 I4pf33 = pc_p5kkWX((short)883365396, 1888390591, VqdCBcWXO, rt8tv);
 tH9W8 /= fm8_s69;
 
-I4pf33 = ePb9SLs(XJ520j3, -319884303);
+I4pf33 = ePb9SLs(XJ520j3, (short)-319884303);
 for (int i = 2; i >= 0; i--)
 {
 {
@@ -187,7 +187,7 @@ vgv0x = TZo4_z((short)1241525875, rt8tv);
 }
 else
 {
-fm8_s69 = ePb9SLs((short)-1918289781, -837070721);
+fm8_s69 = ePb9SLs((short)-1918289781, (short)-837070721);
 }
 }
 while (j >= 0);

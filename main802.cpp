@@ -30,7 +30,7 @@ int main()
     unsigned short int    X3ZKxA5814;
     X3ZKxA5814    =    (unsigned short)-1105704941;
     unsigned short    Z5kiFhz3tE;
-    Z5kiFhz3tE    =    -360601222;
+    Z5kiFhz3tE    =    (unsigned short)-360601222;
 	short	UHV11irshr;
 	UHV11irshr	=	(short)-1579023679;
   unsigned short int  N4nWNqxi;
@@ -90,7 +90,7 @@ int main()
   unsigned short int  j4iX;
   j4iX  =  (unsigned short)564647230;
  char b7_38o;
- b7_38o = 1969976192;
+ b7_38o = (char)1969976192;
  double lc3jq_p;
  lc3jq_p = 1000312120;
   long double  v33h2ba;

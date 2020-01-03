@@ -21,7 +21,7 @@ int main(void)
  unsigned short V_gM9nB = 0;
 	short	mqahtkZ	=	(short)1642793982;
     long double    cGYxG_Z3    =    -662989568;
- unsigned char ekaE3xlb = -936505638;
+ unsigned char ekaE3xlb = (unsigned char)-936505638;
 
 switch (R2aWb94)
 {

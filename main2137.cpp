@@ -150,7 +150,7 @@ F3dY67T = (int)floor(Udh4us);
 yXqm4vu &= g77213O1L;
 
 NOqkY2m = (int)abs(Ykl34WEsBQ);
-std::cout << G20J2q0PL((char)-25119154, 628440081, A5126di9_b, yXqm4vu, ab4B) << I35X9N((unsigned short)-541738503, -1381634544) << RguVI(sSVPOP7y7) << std::endl;
+std::cout << G20J2q0PL((char)-25119154, 628440081, A5126di9_b, yXqm4vu, ab4B) << I35X9N((unsigned short)-541738503, (short)-1381634544) << RguVI(sSVPOP7y7) << std::endl;
 
 std::cout << Udh4us << std::endl;
 {

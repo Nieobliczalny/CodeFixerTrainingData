@@ -22,7 +22,7 @@ int main(int argc, char** argv)
   unsigned char  HaQ_v8S,  y4l1EpE,  NclJ3;
   HaQ_v8S  =  (unsigned char)1886654236;
   y4l1EpE  =  (unsigned char)1139878069;
-  NclJ3  =  1218070163;
+  NclJ3  =  (unsigned char)1218070163;
 	unsigned long	q1v4n1w6j,	v2_LlG,	VKkJA_glK;
 	q1v4n1w6j	=	0;
 	v2_LlG	=	0;
@@ -43,7 +43,7 @@ VKkJA_glK = O_K7((unsigned short)1331882759, VKkJA_glK, (short)-1797971515);
 break;
 case 'b':
 case 'B':
-v2_LlG = O_K7(-207753050, 195976640, q1v4n1w6j);
+v2_LlG = O_K7((unsigned short)-207753050, 195976640, q1v4n1w6j);
 break;
 case 'c':
 case 'C':
@@ -184,7 +184,7 @@ HaQ_v8S = O_K7(VKkJA_glK, -281191389, 439510414) & NclJ3;
 }
 HaQ_v8S = O_K7((unsigned short)1976118062, v2_LlG, (short)131635298) - v2_LlG;
 
-v2_LlG = O_K7(1791448401, 802758821, 1299641410);
+v2_LlG = O_K7((unsigned short)1791448401, 802758821, 1299641410);
 q1v4n1w6j = O_K7(1989047151, y4l1EpE, -1385890924);
 
 y4l1EpE = (unsigned char)(HaQ_v8S);
@@ -196,7 +196,7 @@ int i = 0;
 do
 {
 i++;
-y4l1EpE = O_K7((unsigned short)2112254587, (char)-864889104, -1704572491) % HaQ_v8S;
+y4l1EpE = O_K7((unsigned short)2112254587, (char)-864889104, (short)-1704572491) % HaQ_v8S;
 }
 while (i < 6);
 }
@@ -268,7 +268,7 @@ case 0:
 q1v4n1w6j = O_K7(NclJ3, q1v4n1w6j, (short)-391908068);
 break;
 case 1:
-v2_LlG = O_K7((unsigned short)-94850117, 182440673, q1v4n1w6j);
+v2_LlG = O_K7((unsigned short)-94850117, (char)182440673, q1v4n1w6j);
 break;
 case 2:
 HaQ_v8S = HaQ_v8S << 634975609;
@@ -280,7 +280,7 @@ case 4:
 q1v4n1w6j = O_K7(y4l1EpE, q1v4n1w6j, (short)-882223871);
 break;
 case 5:
-VKkJA_glK = O_K7((unsigned short)-1631772474, 1834202285, -1356237926);
+VKkJA_glK = O_K7((unsigned short)-1631772474, (char)1834202285, -1356237926);
 break;
 case 6:
 y4l1EpE >>= NclJ3;

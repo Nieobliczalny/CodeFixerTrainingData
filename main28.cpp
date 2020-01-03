@@ -34,7 +34,7 @@ int main(void)
 	unsigned short int	YN3Qp30;
 	YN3Qp30	=	0;
     unsigned char    H1Bk3QI2lC;
-    H1Bk3QI2lC    =    -1683947840;
+    H1Bk3QI2lC    =    (unsigned char)-1683947840;
   long long  LZENwmH_E6;
   LZENwmH_E6  =  0;
   long  q92Cl;
@@ -96,7 +96,7 @@ int main(void)
  long double r94NR;
  r94NR = 1636480477;
     char    f9_qG5z;
-    f9_qG5z    =    298825473;
+    f9_qG5z    =    (char)298825473;
 	int	WIK1hwRGha;
 	WIK1hwRGha	=	1949712307;
     unsigned short int    Iu8qUDM7J;
@@ -154,7 +154,7 @@ case 'f':
 S90jAEys = ryY7(1293937051, (unsigned short)-1441396514, NSCKB7, (short)2057181592);
 break;
 case 'g':
-Ahy624SE0 = ryY7(2124066152, -1143359346, BDOLbkAT6S, 1169113384);
+Ahy624SE0 = ryY7(2124066152, (unsigned short)-1143359346, BDOLbkAT6S, 1169113384);
 break;
 default:
 U55aOdd = (int)ceil(Zn0u3);
@@ -318,7 +318,7 @@ qQ_AeXZ = (int)abs(y42ikpg) + (428408556);
 cout << H1Bk3QI2lC << lV7G_Y36 << endl;
 Aup0DA21 = ryY7(330717786, Ahy624SE0, U55aOdd, (short)1053587404);
 
-cout << F_P1 << ryY7(Aup0DA21, Ahy624SE0, (unsigned short)1914002098, -1229782392) << endl;
+cout << F_P1 << ryY7(Aup0DA21, Ahy624SE0, (unsigned short)1914002098, (short)-1229782392) << endl;
 try
 {
 switch (m1UDTKH)
@@ -451,7 +451,7 @@ case 'f':
 y42ikpg = Lv9dne(AWa7G4y, qQ_AeXZ);
 break;
 case 'g':
-icZ2I8 = ryY7(icZ2I8, (unsigned short)797077895, LZENwmH_E6, -2062554554);
+icZ2I8 = ryY7(icZ2I8, (unsigned short)797077895, LZENwmH_E6, (short)-2062554554);
 break;
 case 'h':
 lDqU7i_S5q = NSCKB7 | Kfn52W8R0;

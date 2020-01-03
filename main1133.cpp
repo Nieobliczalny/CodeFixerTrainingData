@@ -37,7 +37,7 @@ int main()
   char  Ina3j3969J;
   Ina3j3969J  =  (char)907663784;
  unsigned short int txrQ6_;
- txrQ6_ = 261859558;
+ txrQ6_ = (unsigned short)261859558;
 	unsigned short int	x7Pnd;
 	x7Pnd	=	(unsigned short)-889540217;
 	unsigned short	VBlPVB;
@@ -53,7 +53,7 @@ int main()
   short int  Ik_zy8P;
   Ik_zy8P  =  (short)-322129946;
   unsigned char  ue0EPlqoR;
-  ue0EPlqoR  =  -636565815;
+  ue0EPlqoR  =  (unsigned char)-636565815;
 	unsigned char	KLS7Q;
 	KLS7Q	=	959939874;
 	short int	Wmh9D39330;
@@ -65,7 +65,7 @@ int main()
 	short int	AhXFS;
 	AhXFS	=	(short)919822203;
     short    H5FA83J1;
-    H5FA83J1    =    -832332201;
+    H5FA83J1    =    (short)-832332201;
  unsigned int P31qMo9L;
  P31qMo9L = 583769895;
  long double Pzru3L7c;

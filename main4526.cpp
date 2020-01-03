@@ -66,7 +66,7 @@ int main(void)
   short  TaG7v_Psl;
   TaG7v_Psl  =  (short)-657170205;
 	char	yan1A;
-	yan1A	=	-1481844950;
+	yan1A	=	(char)-1481844950;
 	unsigned long	Z665kqF_54;
 	Z665kqF_54	=	-1553043440;
  unsigned int zGv1VFa;
@@ -96,7 +96,7 @@ int main(void)
   float  AQ_YR;
   AQ_YR  =  1981546367;
   short int  oZ7Z8;
-  oZ7Z8  =  1004798725;
+  oZ7Z8  =  (short)1004798725;
     unsigned long    NoJLAp;
     NoJLAp    =    1183888226;
  unsigned short int ZS2In;
@@ -122,7 +122,7 @@ int main(void)
  unsigned int TK4Ue0J;
  TK4Ue0J = -1692667029;
  unsigned char RKgY5;
- RKgY5 = -1254760724;
+ RKgY5 = (unsigned char)-1254760724;
  short int xI_SX6nU;
  xI_SX6nU = (short)1483666506;
 	unsigned char	p9XSO;

@@ -36,7 +36,7 @@ int main(int argc, char** argv)
 	int	T7f9HQ;
 	T7f9HQ	=	124779074;
 	unsigned char	xv704U2z4;
-	xv704U2z4	=	21418364;
+	xv704U2z4	=	(unsigned char)21418364;
  long double F25o79sHr;
  F25o79sHr = 802489404;
     int    CsrD;
@@ -52,7 +52,7 @@ int main(int argc, char** argv)
   unsigned short int  B_u7H;
   B_u7H  =  0;
     unsigned char    nlPC0zL;
-    nlPC0zL    =    1169663985;
+    nlPC0zL    =    (unsigned char)1169663985;
  unsigned long CdVq;
  CdVq = 0;
     unsigned int    N24Y70vyKf;
@@ -128,7 +128,7 @@ UyC13_ &= 1593997745;
 
 std::cout << pW4asS6n(-1159362714, T7f9HQ, xv704U2z4, nlPC0zL) << "Ve7hXT" << CsrD << RC38(952764449, (unsigned short)-1435918180, 750349006, (short)1886410947) << "E9VuH" << std::endl;
 
-std::cout << CsrD << L99KOb(1968131558, 947154866, xv704U2z4, nlPC0zL) << F25o79sHr << std::endl;
+std::cout << CsrD << L99KOb((unsigned short)1968131558, 947154866, xv704U2z4, nlPC0zL) << F25o79sHr << std::endl;
 
 for (int i = 0; i < 5; ++i)
 {
@@ -199,7 +199,7 @@ case 4:
 nlPC0zL = RC38(nlPC0zL, (unsigned short)2120904589, ZUqGVH2G12, (short)-1744530883);
 break;
 case 5:
-F25o79sHr = RC38(-1214800309, F25o79sHr, 1689105277, 1279645775);
+F25o79sHr = RC38(-1214800309, F25o79sHr, 1689105277, (short)1279645775);
 break;
 case 6:
 CsrD = RC38(-2144870852, xv704U2z4, -1656089439, qTku_3o);
@@ -241,7 +241,7 @@ case 'F':
 xv704U2z4 %= T7f9HQ;
 break;
 default:
-nlPC0zL = RC38(1511400546, (unsigned short)-248435925, F25o79sHr, 1887187664) * 1662826411;
+nlPC0zL = RC38(1511400546, (unsigned short)-248435925, F25o79sHr, (short)1887187664) * 1662826411;
 break;
 }
 }
@@ -405,7 +405,7 @@ break;
 }
 }
 r_ACYF7y = RC38(1612773429, qTku_3o, XCVyJJ4, (short)-1436433529);
-nlPC0zL = RC38(nlPC0zL, 1405285799, -41619909, F25o79sHr);
+nlPC0zL = RC38(nlPC0zL, (unsigned short)1405285799, -41619909, F25o79sHr);
 
 {
 int i = 9;

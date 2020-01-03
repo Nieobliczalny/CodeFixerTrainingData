@@ -30,7 +30,7 @@ int main()
   long long  xa0A;
   xa0A  =  -449423363;
     short    I_Pru;
-    I_Pru    =    -1521971041;
+    I_Pru    =    (short)-1521971041;
   double  o67Wh3F1;
   o67Wh3F1  =  -2068235700;
   unsigned long long  U5X3;
@@ -54,7 +54,7 @@ int main()
     int    qgs3_;
     qgs3_    =    153627057;
     unsigned short int    akX90bF31q;
-    akX90bF31q    =    1243742509;
+    akX90bF31q    =    (unsigned short)1243742509;
 	unsigned short	tylZ;
 	tylZ	=	(unsigned short)-1649610368;
     unsigned long long    ylYd0R5qF;

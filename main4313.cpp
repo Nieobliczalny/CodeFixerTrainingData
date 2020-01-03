@@ -629,7 +629,7 @@ unsigned short    Ksss31(unsigned char    Xrcj,unsigned long    wj81m,unsigned c
 }
 
 short sMcfU2(long long ECJYsN,short Abdh0hZ82,long long S1t3kU) {
- return 1392226842;
+ return (short)1392226842;
 }
 
 char	AvFH5_L18V()	{

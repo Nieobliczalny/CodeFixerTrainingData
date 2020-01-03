@@ -47,7 +47,7 @@ int main(void) {
   double  Dde_O;
   Dde_O  =  -636136014;
 	unsigned short int	aVSj;
-	aVSj	=	863566218;
+	aVSj	=	(unsigned short)863566218;
   unsigned short  R3OQp;
   R3OQp  =  (unsigned short)1432880174;
   char  A7TDk5Tu;
@@ -105,7 +105,7 @@ int main(void) {
     unsigned short int    O51a;
     O51a    =    (unsigned short)249905353;
   char  y6HYrz3;
-  y6HYrz3  =  1140775084;
+  y6HYrz3  =  (char)1140775084;
 	short	x1xv;
 	x1xv	=	(short)-1346715526;
 	unsigned long long	T9l18;
@@ -115,7 +115,7 @@ int main(void) {
     unsigned short    HA00Da;
     HA00Da    =    (unsigned short)-494441060;
 	unsigned short int	xKGG7;
-	xKGG7	=	-213173669;
+	xKGG7	=	(unsigned short)-213173669;
     unsigned char    bM2oBGE;
     bM2oBGE    =    (unsigned char)2087442847;
 	unsigned short	tg4eb;
@@ -157,7 +157,7 @@ int main(void) {
  unsigned short int PgRp9XCpZ;
  PgRp9XCpZ = (unsigned short)-1982914888;
   unsigned short  KZ63a31;
-  KZ63a31  =  -2133637438;
+  KZ63a31  =  (unsigned short)-2133637438;
 	long long	rA1h534X;
 	rA1h534X	=	1014046521;
  unsigned long long h2_Hc2PsmD;
@@ -250,7 +250,7 @@ tg4eb = (lRwB7haX8H > 1445802126) ? (unsigned short)220802798 : (unsigned short)
 
 if ((-1736537238 / Jk3e09JQ) != 2048848231)
 {
-h5_0gw8YSD = ju_E(-1645495916, -1449867157) / B2o_n3t8;
+h5_0gw8YSD = ju_E(-1645495916, (unsigned short)-1449867157) / B2o_n3t8;
 }
 
 try

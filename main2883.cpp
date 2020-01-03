@@ -291,7 +291,7 @@ case 1:
 P5V6BA72_1 = fF1Od2((short)312716484);
 break;
 case 2:
-F762M = fF1Od2(-1635867987);
+F762M = fF1Od2((short)-1635867987);
 break;
 case 3:
 ZiPeKn5ql = rd_1EkmV(1989759250, cRb_iuQ8c, 484292599, P5V6BA72_1);

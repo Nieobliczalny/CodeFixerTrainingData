@@ -45,7 +45,7 @@ case 2:
 h2TJh = (n_8PS & b8EC6J) ? PeD5gZ1buj(iPi1m5, ndK9eNZ69s, L_Gk9_sA5, iGV6fD2qo) : KHG0E4(iPi1m5, ndK9eNZ69s, L_Gk9_sA5);
 break;
 case 3:
-oO12Hz17 = PeD5gZ1buj((short)-1542933932, (unsigned short)-1133162659, -1887300377, b_MRZ9hf);
+oO12Hz17 = PeD5gZ1buj((short)-1542933932, (unsigned short)-1133162659, (unsigned short)-1887300377, b_MRZ9hf);
 break;
 case 4:
 Ed37V = npBvc33eW(Ed37V, w7veH0u);
@@ -63,7 +63,7 @@ case 8:
 L_Gk9_sA5 = fO6L5inW - t5RmUz46L;
 break;
 case 9:
-n_8PS = UnsOV(sgfTz6iMy, KU91p1, jn6m6fAkM3, YUexokU, -2143993072);
+n_8PS = UnsOV(sgfTz6iMy, KU91p1, jn6m6fAkM3, YUexokU, (unsigned char)-2143993072);
 break;
 default:
 iPi1m5 -= KEi4;
@@ -166,7 +166,7 @@ case 'd':
 oO12Hz17 = npBvc33eW(oO12Hz17, (unsigned short)-1705440411);
 break;
 case 'e':
-b8EC6J = UnsOV((char)586529795, -389558892, -146735852, L2cn6E_3d, LJ5KC);
+b8EC6J = UnsOV((char)586529795, (short)-389558892, -146735852, L2cn6E_3d, LJ5KC);
 break;
 case 'f':
 p1D2BNL0_ = LJ5KC / vO_06h9S;
@@ -276,7 +276,7 @@ case 4:
 ndK9eNZ69s = (int)abs(w7veH0u);
 break;
 case 5:
-KU91p1 = UnsOV((char)412029216, (short)-2116528417, t5RmUz46L, b8EC6J, 343226325) & 313277513;
+KU91p1 = UnsOV((char)412029216, (short)-2116528417, t5RmUz46L, b8EC6J, (unsigned char)343226325) & 313277513;
 break;
 case 6:
 iPi1m5 = (int)floor(wkFH30QT);

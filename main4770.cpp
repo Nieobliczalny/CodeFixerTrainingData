@@ -44,7 +44,7 @@ int main()
  long Lw3fyNeQk9 = -473867819;
     unsigned char    xtzOBgEl3    =    (unsigned char)1003642810;
 	unsigned long long	tSp9iN	=	437599990;
-  unsigned short  PtK4  =  2095397909;
+  unsigned short  PtK4  =  (unsigned short)2095397909;
 	long long	rQPSOn1	=	175399918;
     long long    D_WE    =    255164931;
   unsigned long  XTf8R1  =  -1111323731;
@@ -55,7 +55,7 @@ int main()
  long ud71 = -1384098476;
  unsigned short int QkO_A5l = (unsigned short)407515507;
  long long sKL8eP = -1137725592;
-	unsigned char	AIum	=	701112206;
+	unsigned char	AIum	=	(unsigned char)701112206;
 	short	t325uAO_xh	=	-1443238871;
   char  pRXfY  =  -1450778353;
  unsigned short uLF93R41r_ = 1172461606;
@@ -68,7 +68,7 @@ int main()
  unsigned long long PU6p7 = -1889118142;
  long double tbToTu5 = -864949723;
   unsigned short int  Z0ei2_x  =  (unsigned short)1393027390;
- unsigned short int Q4cH_b1kti = -315571806;
+ unsigned short int Q4cH_b1kti = (unsigned short)-315571806;
 	long	DnK11	=	-780582305;
 	unsigned short	iaS8n	=	(unsigned short)-1810227839;
 	short	p806L35ubJ	=	-1603598141;
@@ -82,7 +82,7 @@ int main()
  long long l1OMx_FJ = -1427397564;
     double    iI9K_0kAcQ    =    338690621;
   char  WV2_oa1TpG  =  (char)-1367197171;
-	unsigned short int	Zi_2N	=	1925717745;
+	unsigned short int	Zi_2N	=	(unsigned short)1925717745;
  int D678p = -1399829550;
   unsigned long  x3aoF  =  -1026281642;
 	short int	AjVIdd	=	-2030261922;
@@ -92,7 +92,7 @@ int main()
  short Z5nUtO = 1997593280;
   unsigned char  s8QQYe5J  =  -162544431;
 	unsigned short int	sFrL4h6B4	=	(unsigned short)539889227;
-  unsigned short  CoKx0n8xM1  =  1284488701;
+  unsigned short  CoKx0n8xM1  =  (unsigned short)1284488701;
 	char	dHLBj25f7g	=	-269387147;
 
 if (((Q4cH_b1kti != 886606369) && (l1OMx_FJ > -1480983708)) || (sKL8eP <= 1656865731))
@@ -185,7 +185,7 @@ cout << "DgI5TDA4" << Tw8HbJ0t((unsigned short)-378069997) << "y_DT7" << endl;
 }
 for (int i = 7; i >= 0; --i)
 {
-cout << "Sz8mu" << "Rtk4UCq" << CoKx0n8xM1 << "U7vSioS" << Z5Onz(2017988531, -1094407364, Z0ei2_x, -59958612, D678p) << endl;
+cout << "Sz8mu" << "Rtk4UCq" << CoKx0n8xM1 << "U7vSioS" << Z5Onz(2017988531, -1094407364, Z0ei2_x, (unsigned short)-59958612, D678p) << endl;
 }
 
 try

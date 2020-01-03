@@ -37,7 +37,7 @@ int main(int argc, char** argv)
 	unsigned char	w010kW8;
 	w010kW8	=	(unsigned char)-1621758551;
 	unsigned char	Aw0p15c;
-	Aw0p15c	=	1913483183;
+	Aw0p15c	=	(unsigned char)1913483183;
 	char	ws_J02EE1C;
 	ws_J02EE1C	=	1217449059;
 	float	TN_495DOz;
@@ -57,7 +57,7 @@ int main(int argc, char** argv)
     unsigned long    R9o2_3;
     R9o2_3    =    1998563454;
   unsigned short  BnrD6;
-  BnrD6  =  1614648658;
+  BnrD6  =  (unsigned short)1614648658;
     unsigned short int    kL0lhj0Iy;
     kL0lhj0Iy    =    (unsigned short)-2028312462;
  float E48tv2um;
@@ -132,7 +132,7 @@ while (i < 3);
 }
 TpQ3 = Gx6O_5((short)-215073530, -1486016385, Aw0p15c, R9o2_3);
 
-TpQ3 = Gx6O_5(GhkPU, 382531066, (short)1275976796, 1985428357);
+TpQ3 = Gx6O_5(GhkPU, 382531066, (short)1275976796, (unsigned short)1985428357);
 TN_495DOz = aoknPwW_y / Gx6O_5(126416108, 1157589278, aoknPwW_y, TN_495DOz);
 for (int i = 6; i >= 0; --i)
 {
@@ -165,7 +165,7 @@ TpQ3 = Gx6O_5((short)-2019354612, -610195518, mFoq4k_E, (unsigned short)-1983772
 break;
 case 'c':
 case 'C':
-w010kW8 = hgZO(w010kW8, -445766875, 1486651589);
+w010kW8 = hgZO(w010kW8, (short)-445766875, 1486651589);
 break;
 case 'd':
 case 'D':

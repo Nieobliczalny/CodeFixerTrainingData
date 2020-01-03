@@ -23,7 +23,7 @@ int main()
     long long    nFd6IID    =    -671441961;
   short  WDu6  =  (short)-414391183;
   unsigned short int  jo7VIEM9_  =  (unsigned short)942588066;
- unsigned char SI0OH8vpde = 1370008670;
+ unsigned char SI0OH8vpde = (unsigned char)1370008670;
 	unsigned long long	ZpCm0B	=	-591858626;
  short int JVcBJ = 494831634;
   double  gEF2X5nd  =  760249921;
@@ -36,7 +36,7 @@ int main()
     unsigned long long    cJ8B2    =    -164893236;
     unsigned long long    jcU3mI64    =    -1926013191;
   unsigned long  hU4l46N9s  =  548133694;
- char n_Z_ = 145432388;
+ char n_Z_ = (char)145432388;
  long long WAqc9II93w = 751325776;
     unsigned long    PynG4H9    =    1660016507;
  float XZ6H5DK = 257250629;
@@ -47,7 +47,7 @@ int main()
     unsigned char    m74LClvNFL    =    (unsigned char)-1166063805;
  double PGB78 = 1416222096;
 	unsigned short int	RUKZ0OGwH	=	(unsigned short)1746838888;
- unsigned char LnIc_s2AJ = 1569235899;
+ unsigned char LnIc_s2AJ = (unsigned char)1569235899;
   double  Z6Btq24  =  1408134310;
     long long    W6y77Crxy    =    -2102840038;
  unsigned short GwX_7Q98U = 1441693971;
@@ -63,7 +63,7 @@ int main()
   short int  B3rA  =  (short)1461401950;
  short tiVAFvDJ3 = (short)563958664;
 	long double	E8uvb	=	1373920449;
- char Q1w7 = -1846662166;
+ char Q1w7 = (char)-1846662166;
  double sBG47 = -1370483837;
   short  knUBsm7Cp  =  0;
  short KY31TM = 2060162757;
@@ -79,7 +79,7 @@ int main()
     long double    KcZ4VkzsrT    =    -1973891726;
     unsigned long    c_1433o8    =    1431309436;
     unsigned long    WdPD8a6y    =    410761735;
-	unsigned char	f17zw	=	-1933077325;
+	unsigned char	f17zw	=	(unsigned char)-1933077325;
 	unsigned char	CGH8iC53	=	-516581841;
  char wHIWb = 1376746842;
     short    vk2S7    =    (short)-255089643;
@@ -90,7 +90,7 @@ int main()
     unsigned long    jvLwe    =    1382560818;
 	char	VkGRKA5M8	=	(char)1592692642;
   long double  gi3X28gM  =  1038412437;
- char fCs57 = -23657698;
+ char fCs57 = (char)-23657698;
   unsigned long long  Q66ez  =  95621123;
     float    nA3B    =    -429860041;
  unsigned short Jf_Ja = (unsigned short)699055609;
@@ -101,7 +101,7 @@ int main()
   unsigned short int  G5pqjRj3  =  (unsigned short)2043317754;
   short  RZrvcR2  =  -1860621040;
 
-std::cout << X9GI4Vvjs(-649919573, EcTVf0na, MgKK4, -693888688) << "Bz3MW8l" << "v_rs2" << JVcBJ << std::endl;
+std::cout << X9GI4Vvjs((short)-649919573, EcTVf0na, MgKK4, -693888688) << "Bz3MW8l" << "v_rs2" << JVcBJ << std::endl;
 
 std::cout << ZpCm0B << std::endl;
 
@@ -199,7 +199,7 @@ DZZ9L_N404 = g9vjAKY(-1233030284, kvJXxT7, (char)106777264, W6y77Crxy, (short)40
 }
 else if (ZpCm0B <= gi3X28gM)
 {
-sBG47 = DEswwi(1446805756, -629606273);
+sBG47 = DEswwi((short)1446805756, -629606273);
 }
 else
 {

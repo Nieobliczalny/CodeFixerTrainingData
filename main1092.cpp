@@ -26,7 +26,7 @@ int main(void) {
 	unsigned long long	eQ1gRJ6jc	=	0;
   double  McW968G6  =  -467121758;
   short  y0JT  =  (short)667467740;
- char sM4kZ = 1695444046;
+ char sM4kZ = (char)1695444046;
   unsigned int  D32N1x2  =  1064004990;
 	int	P7x7TX54K	=	1979235707;
     float    zx2W8U    =    2131668749;

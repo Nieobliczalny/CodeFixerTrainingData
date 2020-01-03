@@ -314,7 +314,7 @@ case 2:
 ac70h = oe48du(ac70h, -298699654, G0231, -542909158, -1840858868);
 break;
 case 3:
-Ro3dc8Sp = r6FErdRZ67(Ro3dc8Sp, -1688971217);
+Ro3dc8Sp = r6FErdRZ67(Ro3dc8Sp, (unsigned short)-1688971217);
 break;
 case 4:
 FZTO9 = ZI31L51cv(FZTO9, 1776954090);
@@ -348,7 +348,7 @@ case 6:
 Sz8gY5ijq = r6FErdRZ67((unsigned char)-1261338729, rPCV8PZOe2);
 break;
 case 7:
-hh6Jt9UO = ZI31L51cv(-434833236, Lm78CzUd);
+hh6Jt9UO = ZI31L51cv((short)-434833236, Lm78CzUd);
 break;
 }
 

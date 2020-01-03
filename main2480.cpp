@@ -78,7 +78,7 @@ case 'I':
 X834ulo0 = ggrGAe3t(NJ_ei6, (char)1753251930);
 break;
 default:
-X834ulo0 = ggrGAe3t(c0JmH3q92, 1326248522);
+X834ulo0 = ggrGAe3t(c0JmH3q92, (char)1326248522);
 break;
 }
 i++;

@@ -125,7 +125,7 @@ case 6:
 HIPj = Jh49s8M(HIPj, 1558129297, -1697598880);
 break;
 case 7:
-vyl6cn = ESMQRso2s(-1206177704, qVEz, 777378967, hmUh1yJmi, -63138511);
+vyl6cn = ESMQRso2s(-1206177704, qVEz, (unsigned char)777378967, hmUh1yJmi, -63138511);
 break;
 case 8:
 vyl6cn++;
@@ -172,7 +172,7 @@ case 4:
 hnEM2yI2 = ESMQRso2s(625288973, (char)1550639913, u4ht4yKfz, 1901768530, (unsigned char)1456531818);
 break;
 case 5:
-s7r7C29 = ESMQRso2s(527652836, -1170619706, q8xc, 598209550, hnEM2yI2);
+s7r7C29 = ESMQRso2s(527652836, (char)-1170619706, q8xc, 598209550, hnEM2yI2);
 break;
 }
 
@@ -333,7 +333,7 @@ try
 {
 if (d_QnCd4Wf <= 1513566652)
 {
-Pb96h4R = ESMQRso2s(Pb96h4R, (char)1689215111, (unsigned char)-105011967, u4ht4yKfz, 321378216);
+Pb96h4R = ESMQRso2s(Pb96h4R, (char)1689215111, (unsigned char)-105011967, u4ht4yKfz, (unsigned char)321378216);
 }
 else
 {

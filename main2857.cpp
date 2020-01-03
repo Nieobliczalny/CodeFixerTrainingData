@@ -14,7 +14,7 @@ int main(void)
     short int    DO5OuePQZ,    DLaLgq1d8r,    Tm1j,    kkve_T__x,    s6T56iWE,    j5mHsE,    H06p007KTF,    zp15ZS,    YsUz5IGWT,    vFCx4Z9,    c_nqw1Qr,    CPhx_V,    bVseh5VCUs,    HBk5woStLl,    GmzWKXr,    itLf7q,    R0GvA72Y,    lPC__T,    V9oM78MU,    Rm5K9P19,    DWqltV5,    fMq05iXN,    xPF5i,    tC1fV_pM;
     DO5OuePQZ    =    (short)1455702948;
     DLaLgq1d8r    =    (short)-1318700502;
-    Tm1j    =    -1525154810;
+    Tm1j    =    (short)-1525154810;
     kkve_T__x    =    -1773919068;
     s6T56iWE    =    1203437973;
     j5mHsE    =    -2026603576;
@@ -24,7 +24,7 @@ int main(void)
     vFCx4Z9    =    -951516906;
     c_nqw1Qr    =    (short)1565765066;
     CPhx_V    =    (short)-2039509613;
-    bVseh5VCUs    =    -250902361;
+    bVseh5VCUs    =    (short)-250902361;
     HBk5woStLl    =    1930500967;
     GmzWKXr    =    -2017481438;
     itLf7q    =    804245724;
@@ -34,7 +34,7 @@ int main(void)
     Rm5K9P19    =    -1905163465;
     DWqltV5    =    (short)160120171;
     fMq05iXN    =    (short)-213362346;
-    xPF5i    =    -1038543838;
+    xPF5i    =    (short)-1038543838;
     tC1fV_pM    =    1919307991;
 
 try

@@ -40,7 +40,7 @@ int main(int argc, char** argv)
 	unsigned short int	krbO4HlF;
 	krbO4HlF	=	(unsigned short)-414583946;
  unsigned short tph_8G8p;
- tph_8G8p = 634280000;
+ tph_8G8p = (unsigned short)634280000;
     unsigned long long    HK4z7Zr8_p;
     HK4z7Zr8_p    =    1013003098;
     unsigned char    EPnXtxcp;
@@ -60,7 +60,7 @@ int main(int argc, char** argv)
 	short int	On73dr51;
 	On73dr51	=	(short)903861864;
  short SwwFvR1;
- SwwFvR1 = -345250635;
+ SwwFvR1 = (short)-345250635;
  double hs0zY5;
  hs0zY5 = 2056549786;
 	long	EiE0t5;
@@ -86,7 +86,7 @@ int main(int argc, char** argv)
 	short int	v__AKxy3Uu;
 	v__AKxy3Uu	=	(short)795287723;
  unsigned char y7a1xa3;
- y7a1xa3 = 39513658;
+ y7a1xa3 = (unsigned char)39513658;
 	long	ylj96Qf2;
 	ylj96Qf2	=	650755404;
   char  pA2jE8c;
@@ -132,7 +132,7 @@ int main(int argc, char** argv)
  long double btKOokml;
  btKOokml = -592063648;
     unsigned short    LymP4_C;
-    LymP4_C    =    2023685967;
+    LymP4_C    =    (unsigned short)2023685967;
   unsigned short int  U1W0D;
   U1W0D  =  (unsigned short)843136987;
  short pvN18R8ejE;
@@ -146,7 +146,7 @@ int main(int argc, char** argv)
  unsigned char pX18G;
  pX18G = (unsigned char)-989498756;
   unsigned char  tM53211lAG;
-  tM53211lAG  =  1485528328;
+  tM53211lAG  =  (unsigned char)1485528328;
     unsigned short    bE3G;
     bE3G    =    949788390;
 	unsigned short int	xM6RN2nY_;
@@ -156,7 +156,7 @@ int main(int argc, char** argv)
   unsigned char  Owu3EVVb_9;
   Owu3EVVb_9  =  (unsigned char)1162359983;
     unsigned short int    IjfJ9;
-    IjfJ9    =    -843377964;
+    IjfJ9    =    (unsigned short)-843377964;
     double    s1d70oh;
     s1d70oh    =    -2041247781;
  unsigned long long STOT;
@@ -186,7 +186,7 @@ int main(int argc, char** argv)
     unsigned int    V6F62O835D;
     V6F62O835D    =    -211228607;
  short int E2FC;
- E2FC = -949441777;
+ E2FC = (short)-949441777;
  long u_6f;
  u_6f = -1544628954;
   unsigned int  niOy;
@@ -204,7 +204,7 @@ int main(int argc, char** argv)
   long long  Gt7yDAKo;
   Gt7yDAKo  =  -288342504;
  short int rOSM38W0C;
- rOSM38W0C = -2025892255;
+ rOSM38W0C = (short)-2025892255;
     short int    ABsiiY8v12;
     ABsiiY8v12    =    0;
 	int	Sza0NzoGh;
@@ -236,7 +236,7 @@ int main(int argc, char** argv)
  double Vf16T;
  Vf16T = -1307925842;
 
-STOT = nPXQ57L(R_53, STOT, 200779320, bE3G, -877215158);
+STOT = nPXQ57L(R_53, STOT, 200779320, bE3G, (char)-877215158);
 xM6RN2nY_ = (unsigned short int)(HK4z7Zr8_p);
 if (g887S3f5 >= -1872272830)
 {
@@ -265,7 +265,7 @@ ylj96Qf2 = FVtFO78((short)-249793003);
 break;
 case 'b':
 case 'B':
-wUA0R = Mk7aA9(wUA0R, kjEgCvF089, (char)-891897286, -987341600);
+wUA0R = Mk7aA9(wUA0R, kjEgCvF089, (char)-891897286, (unsigned short)-987341600);
 break;
 case 'c':
 case 'C':
@@ -301,7 +301,7 @@ break;
 }
 D8cs = D8cs / oB0Njt6Q0_;
 
-std::cout << Mk7aA9(tph_8G8p, (unsigned char)403626860, -2132131071, -284291925) << "dEgYW7Z_" << std::endl;
+std::cout << Mk7aA9(tph_8G8p, (unsigned char)403626860, (char)-2132131071, -284291925) << "dEgYW7Z_" << std::endl;
 if (Owu3EVVb_9 < 1361168401)
 {
 std::cout << "n_M3XRh1h" << nPXQ57L(tph_8G8p, 2108827777, 22041368, 263785208, zHT9gHnSYR) << LymP4_C << yzwkUto((unsigned short)-1995405321) << bBBiC6C << std::endl;
@@ -532,7 +532,7 @@ case 'D':
 hs0zY5 = (int)floor(oq0v);
 break;
 default:
-pvN18R8ejE = O0wLS79G3L(612907495, (char)2028616918, q0zCb0Cx, (short)1468723150, 1182620152);
+pvN18R8ejE = O0wLS79G3L(612907495, (char)2028616918, q0zCb0Cx, (short)1468723150, (short)1182620152);
 break;
 }
 }

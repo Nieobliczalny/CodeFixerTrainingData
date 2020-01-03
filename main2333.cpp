@@ -35,7 +35,7 @@ int main() {
 	unsigned short int	C5J1E	=	(unsigned short)-1782599328;
   unsigned long long  Vd010_MQ  =  -1578819091;
 	int	SOiv11Ne	=	-16854521;
- unsigned char X5ix0 = -1360663658;
+ unsigned char X5ix0 = (unsigned char)-1360663658;
 	unsigned int	t87YpdP	=	1683881731;
     unsigned short    gLq8    =    (unsigned short)-578628681;
 	long long	b70vG	=	-136371906;
@@ -46,7 +46,7 @@ int main() {
  long long vCHefNU6 = -343298525;
  short int D1F7Goh = -1608228685;
 	unsigned long	f59YZh6BT	=	834566541;
-	unsigned char	Eufz379br	=	-130905408;
+	unsigned char	Eufz379br	=	(unsigned char)-130905408;
 	long double	C0W2G	=	1188653394;
 	int	kyUWr_00	=	0;
  short iK06yF9H = (short)-667816265;
@@ -66,7 +66,7 @@ int main() {
 	unsigned short int	OHEuF944	=	(unsigned short)1717431397;
  long long Y3UIM0_R = 294258281;
 	unsigned long long	eJz9	=	-1197882896;
-  unsigned char  wTm_4P19  =  -1903336639;
+  unsigned char  wTm_4P19  =  (unsigned char)-1903336639;
     unsigned short int    wA_QQw8r    =    (unsigned short)1132522711;
 	long long	prbDuN5u	=	2104441951;
  unsigned char ucq50 = 1944891082;
@@ -103,7 +103,7 @@ case 3:
 o25veA_pg = (int)floor(C0W2G);
 break;
 default:
-b70vG = v0wA6(1487002944);
+b70vG = v0wA6((unsigned short)1487002944);
 break;
 }
 }
@@ -182,7 +182,7 @@ cout << "vOiD1o" << N_URBLr(Rtze5W9x4X, OHEuF944, VWYa3Z3, -1905987819, (unsigne
 }
 else if (JfqrCp711)
 {
-Rtze5W9x4X = N_URBLr(-739714294, (unsigned short)1580162764, 1205576698, SOiv11Ne, 866393485);
+Rtze5W9x4X = N_URBLr(-739714294, (unsigned short)1580162764, (unsigned char)1205576698, SOiv11Ne, 866393485);
 }
 else
 {

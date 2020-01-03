@@ -28,7 +28,7 @@ int main(int argc, char** argv)
   unsigned long long  IdJ0qRIj2x  =  -448110312;
 	int	X3UAO_189k	=	838515336;
  unsigned short int S6_L_CT0X = (unsigned short)-650058348;
-    char    FKXh7cOXYt    =    -600004676;
+    char    FKXh7cOXYt    =    (char)-600004676;
   unsigned int  tl2t_  =  -39829562;
   short int  mdF_  =  -1396206541;
 	long long	Tcc0Mx3	=	1191014218;
@@ -47,7 +47,7 @@ int main(int argc, char** argv)
   char  TXNQPL3n  =  (char)-2130444990;
 	unsigned int	FTPHd	=	-1490848718;
  unsigned short YCYGOpx = (unsigned short)-362075293;
- unsigned short dbhHb = -911690902;
+ unsigned short dbhHb = (unsigned short)-911690902;
 	long double	yczg5_l	=	-1116065915;
     int    hcQNyo179_    =    -921301546;
     long long    bX_0_34D    =    -1381405667;
@@ -59,7 +59,7 @@ int main(int argc, char** argv)
     long long    Mz6v    =    -1916045160;
 	unsigned short int	I5Rl	=	(unsigned short)-1666188961;
 	short	AfPm8	=	(short)591808758;
-	unsigned short	Yb_o	=	-490099526;
+	unsigned short	Yb_o	=	(unsigned short)-490099526;
     long    i00T__6    =    581628580;
 	unsigned short int	Ac4zeg	=	-655603555;
     double    gtdYe    =    -1923036899;
@@ -72,7 +72,7 @@ cout << "pkQ0Ffw" << bMtUQ_b << ga_H((unsigned short)292682130, KH_9u21) << endl
 
 try
 {
-cout << ga_H((unsigned short)-215623419, 379673981) << w96leI7 << ga_H(IdJ0qRIj2x, KH_9u21) << ga_H(-208145685, KH_9u21) << endl;
+cout << ga_H((unsigned short)-215623419, (short)379673981) << w96leI7 << ga_H(IdJ0qRIj2x, KH_9u21) << ga_H(-208145685, KH_9u21) << endl;
 }
 catch (int& errorCode)
 {
@@ -92,7 +92,7 @@ int i = 0;
 while (i < 5)
 {
 i++;
-LgUT_5n8 = ga_H((unsigned short)280999612, -1275968483);
+LgUT_5n8 = ga_H((unsigned short)280999612, (short)-1275968483);
 }
 }
 tl2t_ = QKz1DH1BEV / FTPHd;
@@ -108,7 +108,7 @@ else
 {
 for (int k = 0; k < 8; ++k)
 {
-LgUT_5n8 = ga_H(S6_L_CT0X, -382439065);
+LgUT_5n8 = ga_H(S6_L_CT0X, (short)-382439065);
 }
 }
 }
@@ -327,7 +327,7 @@ I5Rl ^= 1991512242;
 }
 else
 {
-LgUT_5n8 = ga_H((unsigned short)1887905765, 1259544736);
+LgUT_5n8 = ga_H((unsigned short)1887905765, (short)1259544736);
 }
 }
 else if (yczg5_l > EWZA8)
@@ -388,7 +388,7 @@ LgUT_5n8 = ga_H(IdJ0qRIj2x, Mz6v);
 }
 else if (w96leI7 < tu5Y08XL)
 {
-LgUT_5n8 = ga_H(-1488207884, i00T__6);
+LgUT_5n8 = ga_H((unsigned short)-1488207884, i00T__6);
 }
 else
 {

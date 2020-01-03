@@ -22,7 +22,7 @@ long long	S3Ls_Q(long	bzM_xr,char	bt6yA,unsigned long long	qWX_HMta1,short	eitgU
 unsigned long	Vmm_(short int	W0L8v7i_,long long	nfd_NpnD,unsigned long	BG4o,unsigned long	Ni9pe);
 
 int main() {
-    unsigned short    v54EN7    =    (unsigned short)-1906606442,    XztJV    =    (unsigned short)-1333652677,    oIOUIVw3w    =    -1831853131;
+    unsigned short    v54EN7    =    (unsigned short)-1906606442,    XztJV    =    (unsigned short)-1333652677,    oIOUIVw3w    =    (unsigned short)-1831853131;
  char kqeBQrF3R = 0, me445_ = 0, ksBZ0 = 0, Bx4cc0713C = 0;
 
 if ((XztJV >= Ih58) && (Bx4cc0713C))
@@ -154,7 +154,7 @@ case 'd':
 v54EN7 >>= 373279587;
 break;
 case 'e':
-me445_ = S3Ls_Q(XztJV, (char)-1606726166, oIOUIVw3w, 412042851, 709781249);
+me445_ = S3Ls_Q(XztJV, (char)-1606726166, oIOUIVw3w, (short)412042851, 709781249);
 break;
 case 'f':
 v54EN7 -= kqeBQrF3R;

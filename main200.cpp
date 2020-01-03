@@ -22,7 +22,7 @@ int main()
 	long double	V4wg9qNh	=	-228189474;
  long double h_Aj_z = 1451866155;
  unsigned char qnad9 = (unsigned char)129959352;
- char e7hV8lZ = -539610547;
+ char e7hV8lZ = (char)-539610547;
 	long long	yiQMI	=	-1232309444;
 	int	hYwS	=	1484323545;
  unsigned char j8k4 = 2036213794;
@@ -48,7 +48,7 @@ int main()
   long long  AO0l8jzlQ  =  544403939;
 	unsigned long long	TeMV	=	-643350637;
   long  YE3u  =  -1559507679;
- char TAF92krHq = -644097708;
+ char TAF92krHq = (char)-644097708;
   long long  J3A37D54  =  -1379584943;
  int VUc_Zt50I = 404035627;
     long    k8u0ey8Y    =    404136723;
@@ -59,7 +59,7 @@ int main()
   short int  o_bojWIgp_  =  (short)-217454420;
  int FUmt5Yu8Q = -553449303;
 	long long	c48BZs2gml	=	1985082871;
-    unsigned short int    pcsbQ8h0j    =    1377588742;
+    unsigned short int    pcsbQ8h0j    =    (unsigned short)1377588742;
  int rAeP9_ = -1622654721;
  short int EzpNGhxFg = 1715847069;
 	double	b27Hd	=	-1110560184;
@@ -70,7 +70,7 @@ int main()
  unsigned short int w63Oh = (unsigned short)-929032945;
   unsigned int  w0_u  =  1659005476;
     unsigned int    HlAP6_0    =    -701797625;
-	unsigned short int	SQ64Z8	=	-1088476746;
+	unsigned short int	SQ64Z8	=	(unsigned short)-1088476746;
 	long	hsB0R7w	=	-1103660311;
   float  J67W6lzZ8u  =  -880206367;
  unsigned short int NsofV7DW08 = -952155958;
@@ -83,7 +83,7 @@ int main()
  unsigned long P1yuV1F5X = 1853493185;
  unsigned int BbE4qTg6 = 1920555523;
  unsigned long long n_8n_yZ = 978088039;
-	unsigned short int	CYj7jEF	=	-1316587873;
+	unsigned short int	CYj7jEF	=	(unsigned short)-1316587873;
     float    N38c3oU6m0    =    -137065235;
 	unsigned short int	jVq4	=	2085038799;
  long double I30JiBz4o = -668713406;
@@ -96,7 +96,7 @@ int main()
  unsigned long long SSI5Qe7h = 296020802;
 	float	oLPdoh5idS	=	-164047112;
     long    wz1ui    =    -379652752;
- short lfykv5620m = 1176025149;
+ short lfykv5620m = (short)1176025149;
     unsigned char    m5PML7    =    (unsigned char)129772695;
   short int  jm0f0fTpOP  =  (short)1299791733;
     long long    DX06Ai86e9    =    1011033156;
@@ -518,7 +518,7 @@ case 'i':
 HIzRK = WhXLQITU((short)-1157047125, 1498535162, 536725683, -1076277753, (short)1330880821);
 break;
 case 'j':
-FUmt5Yu8Q = WhXLQITU(-1258062395, 1654490284, h_P2YX, YwYb, -1852499165);
+FUmt5Yu8Q = WhXLQITU((short)-1258062395, 1654490284, h_P2YX, YwYb, -1852499165);
 break;
 default:
 oLPdoh5idS = TXo8N9h_jG(691358991);

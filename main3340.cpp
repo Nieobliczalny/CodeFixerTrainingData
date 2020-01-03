@@ -35,7 +35,7 @@ int main(void)
     short    GgVc8A4;
     GgVc8A4    =    (short)268285490;
  short int F29E8R7_ZJ;
- F29E8R7_ZJ = -1850176437;
+ F29E8R7_ZJ = (short)-1850176437;
   short  k8N_;
   k8N_  =  1797551688;
 	unsigned short int	V5pI7RV;
@@ -111,7 +111,7 @@ int main(void)
   unsigned char  poyg_;
   poyg_  =  (unsigned char)1522053465;
     short    nv16;
-    nv16    =    -773134445;
+    nv16    =    (short)-773134445;
     unsigned char    Wzyz4_JHy;
     Wzyz4_JHy    =    1739868801;
  short r39i5_7;
@@ -149,7 +149,7 @@ int main(void)
     unsigned short    B3M1ftMy;
     B3M1ftMy    =    (unsigned short)115948394;
   unsigned char  E6Izi;
-  E6Izi  =  1114520756;
+  E6Izi  =  (unsigned char)1114520756;
 	double	J3b7;
 	J3b7	=	-1696920191;
 	int	a9Z7rn6e46;
@@ -189,7 +189,7 @@ int main(void)
   long double  o8laF9;
   o8laF9  =  381427945;
     short    RtlaDu3;
-    RtlaDu3    =    1237734970;
+    RtlaDu3    =    (short)1237734970;
     unsigned short int    m6qi24N3_;
     m6qi24N3_    =    (unsigned short)797855578;
     unsigned long long    k2I6_KUu;
@@ -493,7 +493,7 @@ else if (v7_OI_E <= jW0h6H)
 {
 try
 {
-A3_2bP4jQ = Q950(1088102844, -2019464705);
+A3_2bP4jQ = Q950(1088102844, (short)-2019464705);
 }
 catch (int& errorCode)
 {
@@ -668,7 +668,7 @@ do
 i++;
 for (int j = 3; j >= 0; j--)
 {
-std::cout << EwyWL(poyg_, -743893122, Gy5QO, 2006682692, Zem4wzfx9) << a9Z7rn6e46 << std::endl;
+std::cout << EwyWL(poyg_, (short)-743893122, Gy5QO, 2006682692, Zem4wzfx9) << a9Z7rn6e46 << std::endl;
 }
 }
 while (i < 10);
@@ -920,7 +920,7 @@ else
 {
 if (s80qH70)
 {
-JqU6 = EwyWL(O7sCn, (short)952774034, (short)-605856044, zA6lFGE7o5, 448239063);
+JqU6 = EwyWL(O7sCn, (short)952774034, (short)-605856044, zA6lFGE7o5, (char)448239063);
 }
 else
 {

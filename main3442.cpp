@@ -42,7 +42,7 @@ int main(void) {
   unsigned short int  xMwo18822N;
   xMwo18822N  =  (unsigned short)188705500;
  short int gxFG2g0;
- gxFG2g0 = 323353789;
+ gxFG2g0 = (short)323353789;
     short    aag4pKZ4;
     aag4pKZ4    =    924621565;
     float    A7wp9E;
@@ -60,7 +60,7 @@ int main(void) {
     long    Yh_5dp;
     Yh_5dp    =    816167518;
   unsigned short  sJaR;
-  sJaR  =  -765439008;
+  sJaR  =  (unsigned short)-765439008;
 	short	f06_fclG;
 	f06_fclG	=	(short)909764989;
   unsigned long  yx_8xj2;
@@ -80,7 +80,7 @@ int main(void) {
 	double	reJmr;
 	reJmr	=	-1190026025;
     unsigned short int    W43KG8;
-    W43KG8    =    -1540873771;
+    W43KG8    =    (unsigned short)-1540873771;
     long double    Ea52DX;
     Ea52DX    =    -306438483;
 	unsigned long	L13SqGoq;
@@ -104,7 +104,7 @@ int main(void) {
  long KYaXm5MCz;
  KYaXm5MCz = -1103492524;
     short    Cx1A96;
-    Cx1A96    =    -837434370;
+    Cx1A96    =    (short)-837434370;
 	long long	HUZ_hJ;
 	HUZ_hJ	=	677458023;
 	long	huxT0BN5h;
@@ -130,7 +130,7 @@ int main(void) {
  short fcC_981HG;
  fcC_981HG = (short)1288781644;
  unsigned char p37bVddIj8;
- p37bVddIj8 = -243441132;
+ p37bVddIj8 = (unsigned char)-243441132;
   long long  a98o26VI;
   a98o26VI  =  1647410987;
     unsigned short    SQ27oRL;
@@ -165,7 +165,7 @@ break;
 }
 while (i >= 0);
 }
-Jc0tgf = Ah3K((short)935012892, 1190919314, 591336427);
+Jc0tgf = Ah3K((short)935012892, (short)1190919314, 591336427);
 {
 int i = 6;
 do
@@ -217,7 +217,7 @@ for (int j = 0; j < 8; ++j)
 {
 if (vZ7lE95X == paxs00Vp)
 {
-Ea52DX = uRF2((char)1095769900, (unsigned short)1625380301, ad2_, Yh_5dp, 720156569);
+Ea52DX = uRF2((char)1095769900, (unsigned short)1625380301, ad2_, Yh_5dp, (unsigned short)720156569);
 }
 else if (Jc0tgf)
 {
@@ -328,7 +328,7 @@ case 'a':
 yx_8xj2 = uRF2((char)-1745846705, yx_8xj2, D1FbU, pv1yLG, ad2_);
 break;
 case 'b':
-RbQjVVAm_ = Ah3K((short)1634582852, -337808673, 1926500791);
+RbQjVVAm_ = Ah3K((short)1634582852, (short)-337808673, 1926500791);
 break;
 case 'c':
 A5kP = Ah3K(owD8_e, huxT0BN5h, A5kP);
@@ -428,7 +428,7 @@ A5kP = Ah3K(Ea52DX, (short)921878286, n4q_5);
 }
 try
 {
-Jc0tgf = Ah3K((short)-246865225, -980892070, -1197212840);
+Jc0tgf = Ah3K((short)-246865225, (short)-980892070, -1197212840);
 }
 catch (int& errorCode)
 {

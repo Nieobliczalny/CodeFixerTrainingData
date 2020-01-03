@@ -367,7 +367,7 @@ if ((djp41aR / x0sRpd56w(i0KY0Rmy, (unsigned short)-55578101)) == -1398648770)
 Dzl2akC6be = wLYF2b_(i0KY0Rmy, J0q8, i46TX68) / x0sRpd56w(i0KY0Rmy, (unsigned short)2076088768);
 }
 
-B3LF7 = x0sRpd56w(UN3yrbne95, 335761609);
+B3LF7 = x0sRpd56w(UN3yrbne95, (unsigned short)335761609);
 
 {
 int i = 2;

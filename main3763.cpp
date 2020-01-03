@@ -161,7 +161,7 @@ BqX7B >>= 1078194900;
 break;
 case 'c':
 case 'C':
-LeRGWk0yL7 = UyqzD6Eo((unsigned short)1088731365, (unsigned short)-738173109, -1057103957, qqIB6W238, W_3Qui);
+LeRGWk0yL7 = UyqzD6Eo((unsigned short)1088731365, (unsigned short)-738173109, (short)-1057103957, qqIB6W238, W_3Qui);
 break;
 case 'd':
 case 'D':
@@ -195,7 +195,7 @@ oMee7 = (int)abs(LeRGWk0yL7);
 break;
 case 'd':
 case 'D':
-bJcnd_ = UyqzD6Eo(bJcnd_, sZsGEzT, (short)-1310263823, 499885163, G41Gn);
+bJcnd_ = UyqzD6Eo(bJcnd_, sZsGEzT, (short)-1310263823, (unsigned short)499885163, G41Gn);
 break;
 case 'e':
 case 'E':
@@ -288,7 +288,7 @@ G41Gn = UyqzD6Eo((unsigned short)1596366629, U9Pyv4ABo, sZsGEzT, (unsigned short
 break;
 case 'f':
 case 'F':
-wg6jOdB_lL = UyqzD6Eo(wg6jOdB_lL, lL6Ltz1D, vlNQ0_4b, -1124818472, -395952027);
+wg6jOdB_lL = UyqzD6Eo(wg6jOdB_lL, lL6Ltz1D, vlNQ0_4b, (unsigned short)-1124818472, -395952027);
 break;
 case 'g':
 case 'G':
@@ -381,7 +381,7 @@ case 3:
 LuAVI = rzjyv();
 break;
 case 4:
-Jio3dyPH = UyqzD6Eo(1946293708, lmpd, sZsGEzT, 1682589451, -932005936);
+Jio3dyPH = UyqzD6Eo((unsigned short)1946293708, lmpd, sZsGEzT, 1682589451, -932005936);
 break;
 case 5:
 QFtB8fT = (JuT82 < kGm8e3_3vT) ? U5jd6 : RDyTKzEUQ;
@@ -445,7 +445,7 @@ break;
 }
 for (int i = 6; i >= 0; --i)
 {
-W_3Qui = UyqzD6Eo((unsigned short)276398493, (unsigned short)906106293, -1692114491, -1140494359, O40q31HhV);
+W_3Qui = UyqzD6Eo((unsigned short)276398493, (unsigned short)906106293, (short)-1692114491, -1140494359, O40q31HhV);
 }
 
 for (int i = 7; i >= 0; --i)
@@ -470,7 +470,7 @@ PTMX07_ = UyqzD6Eo(PTMX07_, wg6jOdB_lL, G41Gn, (unsigned short)896500942, (char)
 }
 else
 {
-Et_64cx = UyqzD6Eo(Et_64cx, PTMX07_, mp2g_, U9Pyv4ABo, -301099920);
+Et_64cx = UyqzD6Eo(Et_64cx, PTMX07_, mp2g_, U9Pyv4ABo, (char)-301099920);
 }
 }
 }
@@ -488,7 +488,7 @@ lE1La5FUMg = UyqzD6Eo(lE1La5FUMg, mls2, pEQ_Px3, (unsigned short)-347233890, (ch
 }
 else
 {
-Y2kA2c = UyqzD6Eo(-864109474, a4r_l7, 1970745075, 1923599758, T5S9);
+Y2kA2c = UyqzD6Eo((unsigned short)-864109474, a4r_l7, 1970745075, 1923599758, T5S9);
 }
 }
 --i;

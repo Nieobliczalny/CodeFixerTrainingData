@@ -23,7 +23,7 @@ int main()
     char    e2H3D7e;
     e2H3D7e    =    (char)-1559075321;
 	unsigned char	xOn1kwPXq;
-	xOn1kwPXq	=	-1836069517;
+	xOn1kwPXq	=	(unsigned char)-1836069517;
  unsigned long long aXDO29;
  aXDO29 = -1542329018;
     unsigned long long    c3ZD_CWW;
@@ -107,7 +107,7 @@ int main()
   unsigned short int  FIeZc_1T;
   FIeZc_1T  =  (unsigned short)-661598544;
   unsigned short int  X61blai;
-  X61blai  =  609205394;
+  X61blai  =  (unsigned short)609205394;
 	unsigned char	b92B;
 	b92B	=	(unsigned char)-1258837756;
   unsigned long long  JPalI;
@@ -129,7 +129,7 @@ int main()
  unsigned char Wfp7;
  Wfp7 = (unsigned char)-1487894919;
 	unsigned short int	mLVeof;
-	mLVeof	=	-976977745;
+	mLVeof	=	(unsigned short)-976977745;
  long double emZWtPGBRs;
  emZWtPGBRs = 382614730;
   long  iK18d54QdL;
@@ -143,7 +143,7 @@ int main()
     int    tMs4z;
     tMs4z    =    1037426519;
     unsigned char    qaj_9IjS2;
-    qaj_9IjS2    =    739838713;
+    qaj_9IjS2    =    (unsigned char)739838713;
     unsigned int    AVlhkUK3K;
     AVlhkUK3K    =    -2044304476;
     float    y13IX50IxO;
@@ -347,7 +347,7 @@ case 1:
 OkF1D9 = OoPZS100U((char)1553760272, dPmCI4UGQo, OQu9eXPbF);
 break;
 case 2:
-mLVeof = OoPZS100U(mLVeof, k_btX_nKJ, 316250699);
+mLVeof = OoPZS100U(mLVeof, k_btX_nKJ, (unsigned short)316250699);
 break;
 case 3:
 tjtb_0 %= T2Dj7;
@@ -492,7 +492,7 @@ kY_vFpR8B = OoPZS100U((char)1306714245, -1393204440, (unsigned short)-2038098691
 }
 else
 {
-W0xE = GwI6(1249297113, tjtb_0);
+W0xE = GwI6((char)1249297113, tjtb_0);
 }
 }
 else if (Y8aG > 2039848828)
@@ -577,7 +577,7 @@ g2bE0619c = (int)ceil(OkF1D9);
 }
 else if (dPmCI4UGQo > -1716203)
 {
-iK18d54QdL = OoPZS100U((char)1651595307, oL72O_, 1800565466);
+iK18d54QdL = OoPZS100U((char)1651595307, oL72O_, (unsigned short)1800565466);
 }
 else if (FIeZc_1T > 865906944)
 {
@@ -707,7 +707,7 @@ case 4:
 tAkT0u = (int)ceil(Gv7pxnn9_j);
 break;
 case 5:
-w7si = OoPZS100U((char)-174178982, -224040141, 2137837401);
+w7si = OoPZS100U((char)-174178982, -224040141, (unsigned short)2137837401);
 break;
 case 6:
 tpFui7697U = (int)ceil(vCu_M);

@@ -33,7 +33,7 @@ int main() {
 	long	u5vfc1E	=	-400108119;
     long    edjwy55Da    =    -251575798;
  long long H44OFd7 = 1497116536;
-  short int  n38021khwg  =  36898556;
+  short int  n38021khwg  =  (short)36898556;
 
 L2wB81y6J -= d8T9j;
 if (((d8T9j >= 1569852909) || (n38021khwg >= 1089828758)) || (ypbu5S <= 1261541325))
@@ -126,7 +126,7 @@ F9Gwx9 = Lfv4wDtD_(1369239525, (unsigned char)902751050, edjwy55Da, (char)627201
 break;
 case 'b':
 case 'B':
-vC1UX0hSh = (n38021khwg > -1354782838) ? 182790578 : MXqyE;
+vC1UX0hSh = (n38021khwg > -1354782838) ? (unsigned short)182790578 : MXqyE;
 break;
 case 'c':
 case 'C':
@@ -176,7 +176,7 @@ case 1:
 gOJ092btK |= MXqyE;
 break;
 case 2:
-L2wB81y6J = Lfv4wDtD_(L2wB81y6J, H44OFd7, 258703333, edjwy55Da);
+L2wB81y6J = Lfv4wDtD_(L2wB81y6J, H44OFd7, (unsigned short)258703333, edjwy55Da);
 break;
 case 3:
 AnakAM9a0 = (int)abs(u5vfc1E);
@@ -445,7 +445,7 @@ case 'f':
 F9Gwx9 -= ypbu5S;
 break;
 case 'g':
-H44OFd7 = pembkP1BFR(-71014014);
+H44OFd7 = pembkP1BFR((unsigned char)-71014014);
 break;
 default:
 u5vfc1E = (Tq1207 < 479878227) ? igjUIZ : d8T9j;

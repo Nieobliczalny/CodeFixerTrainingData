@@ -220,7 +220,7 @@ case 5:
 ctmaa_ = Pz7d_2_XL3(ctmaa_, (unsigned char)558804670, S2keK, 200104177);
 break;
 default:
-qUkJ0 = dTnq_uk8((unsigned short)-1924856027, 1664551638, 259677728);
+qUkJ0 = dTnq_uk8((unsigned short)-1924856027, (unsigned short)1664551638, 259677728);
 break;
 }
 }

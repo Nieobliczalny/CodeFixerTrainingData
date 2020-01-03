@@ -42,7 +42,7 @@ int main()
   short int  w03PqI  =  0;
 	unsigned int	Y562gv	=	-294581457;
  unsigned short Ow46Wn5 = (unsigned short)1919427436;
- short nUV28rzO_0 = 1635941386;
+ short nUV28rzO_0 = (short)1635941386;
   unsigned long long  B_u21  =  -1246355862;
     double    N85F4L_it    =    1355975740;
  int x1EYI08 = -721205718;
@@ -55,7 +55,7 @@ int main()
     long long    WVC_Dq    =    262387859;
  unsigned long long ABlg0w = -1335816666;
   unsigned long long  Kc2l  =  -1231988537;
-	short	B01t_33F_6	=	514547775;
+	short	B01t_33F_6	=	(short)514547775;
  long double XoNpRh = -813071635;
   unsigned long long  Zp_S2  =  -1866920471;
   unsigned short int  rw9H25xAJ  =  (unsigned short)761714446;
@@ -70,7 +70,7 @@ int main()
  int S7o2 = -1636508684;
 	unsigned char	MMPwRpv	=	(unsigned char)468229830;
 
-VNu_tf = wTJ754_P9(-1061483203, 1823443713, tnrO5, Ow46Wn5, 990728670);
+VNu_tf = wTJ754_P9(-1061483203, (unsigned short)1823443713, tnrO5, Ow46Wn5, 990728670);
 x1EYI08 = (int)abs(S7o2);
 
 {

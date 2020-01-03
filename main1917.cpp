@@ -38,7 +38,7 @@ int main()
 	unsigned char	PO18;
 	PO18	=	(unsigned char)-362477942;
 	unsigned char	w7r7sk3_S;
-	w7r7sk3_S	=	737234235;
+	w7r7sk3_S	=	(unsigned char)737234235;
   float  pUMP0v_5_L;
   pUMP0v_5_L  =  1755726115;
   unsigned short  w5Elp;
@@ -54,7 +54,7 @@ int main()
   unsigned long long  Wqsu;
   Wqsu  =  0;
 	short int	B_BCz;
-	B_BCz	=	-37548850;
+	B_BCz	=	(short)-37548850;
  unsigned short int Qp7y;
  Qp7y = (unsigned short)-268483761;
   long  yZF8zq7183;
@@ -110,7 +110,7 @@ int main()
 	unsigned short int	npw1RWM4;
 	npw1RWM4	=	(unsigned short)-485466490;
  short wI2q;
- wI2q = -1295787265;
+ wI2q = (short)-1295787265;
   short  u8i67Jneax;
   u8i67Jneax  =  1202335982;
   unsigned long  wDJoc9;
@@ -270,7 +270,7 @@ case 'a':
 wI2q = a9kd9jK4PN(wI2q, (short)-540842175, (unsigned short)1924864617, -1320052422);
 break;
 case 'b':
-iPq02 = YC8B3f2_(1675305839);
+iPq02 = YC8B3f2_((short)1675305839);
 break;
 case 'c':
 B_5Q_1 = (int)ceil(v2FmY87Xo);

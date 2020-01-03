@@ -35,7 +35,7 @@ int main() {
  unsigned char WZ_573JrW5;
  WZ_573JrW5 = (unsigned char)-715719324;
     unsigned short int    t9az4y7T;
-    t9az4y7T    =    -195877051;
+    t9az4y7T    =    (unsigned short)-195877051;
  short H5611_2TXA;
  H5611_2TXA = -1015279850;
 	short int	B4wtS;

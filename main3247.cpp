@@ -29,7 +29,7 @@ int main(int argc, char** argv)
   unsigned int  YqnSY  =  0;
     short int    qXizf1nHuR    =    (short)-982262119;
 	int	vL43jqU1	=	-514690675;
-	char	dhbjkYxlCL	=	-741494183;
+	char	dhbjkYxlCL	=	(char)-741494183;
     unsigned short int    J9v0    =    (unsigned short)-903301470;
 
 if ((BTVZ > HjflWWr) && (nI0NyaE))

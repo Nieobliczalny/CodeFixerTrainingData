@@ -32,7 +32,7 @@ int main(int argc, char** argv)
 	unsigned long	Tp4G200B	=	126740564;
  unsigned int w0o1Py7B = -1197746078;
 	short int	M54Z1	=	(short)379601822;
-    short int    R2Twr5og7    =    -1686852343;
+    short int    R2Twr5og7    =    (short)-1686852343;
   long long  sobS2  =  -1150688795;
  float k5HcXg_ = 368952659;
  long double mRoCyR1qzq = -874981834;
@@ -46,7 +46,7 @@ int main(int argc, char** argv)
 	char	V7SfwE_020	=	0;
   unsigned int  m_za854Ty6  =  1533811127;
 	unsigned long long	P1OMMt02M	=	-1372076265;
-    unsigned short int    K1T35Yw47    =    1618223232;
+    unsigned short int    K1T35Yw47    =    (unsigned short)1618223232;
     unsigned int    URTj    =    -1015652844;
  unsigned long jp8035i = -60583164;
     short int    w_HD    =    (short)1493135450;
@@ -58,7 +58,7 @@ int main(int argc, char** argv)
   long long  mR920_  =  -719986833;
 	int	In68mp61ju	=	-1087540076;
 	unsigned long long	h_A8HU8k56	=	-1722029309;
-	char	mIi9I_UIgL	=	-1791644182;
+	char	mIi9I_UIgL	=	(char)-1791644182;
     unsigned short int    k36Ny0S    =    (unsigned short)1335577042;
  long double rRZDx1APQb = -1895397422;
   unsigned char  iu2d0fG2  =  1677360365;
@@ -297,7 +297,7 @@ nRK5Yi = N_lDDR6W(mkmih, -1153231335, (char)1144439469, h_A8HU8k56);
 }
 else
 {
-std::cout << MQ1B8L << t0DYVr() << lwNkug09u_(941646896, sobS2) << MB_eW << std::endl;
+std::cout << MQ1B8L << t0DYVr() << lwNkug09u_((short)941646896, sobS2) << MB_eW << std::endl;
 }
 }
 else
@@ -340,7 +340,7 @@ nRK5Yi = N_lDDR6W(bNSICH, 2002475029, (char)1704243046, MQ1B8L);
 }
 else if ((k5X3nn9 == YSHv90) && ((Q4b4 >= V7SfwE_020) || (jp8035i == -1916371258)))
 {
-y5gs5 = N_lDDR6W((char)-676480506, mRoCyR1qzq, 1748975662, -233444795);
+y5gs5 = N_lDDR6W((char)-676480506, mRoCyR1qzq, (char)1748975662, -233444795);
 }
 else if (pn5ESoEmX7 < bSjK)
 {
@@ -366,7 +366,7 @@ case 1:
 y5gs5 = N_lDDR6W((char)-1401719369, 2096238650, (char)-956802579, 804102138);
 break;
 case 2:
-V7SfwE_020 = N_lDDR6W(bSjK, 1333531167, -925693819, h_A8HU8k56);
+V7SfwE_020 = N_lDDR6W(bSjK, 1333531167, (char)-925693819, h_A8HU8k56);
 break;
 case 3:
 pn5ESoEmX7 = R2Twr5og7 >> 365993536;

@@ -33,7 +33,7 @@ int main(void)
 	unsigned short	QXCt;
 	QXCt	=	(unsigned short)2073791289;
     short    v24i2_;
-    v24i2_    =    -1288247520;
+    v24i2_    =    (short)-1288247520;
  int j_5WRD;
  j_5WRD = -667510315;
   short int  h_N6_o6c;

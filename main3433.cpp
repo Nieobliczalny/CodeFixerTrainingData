@@ -146,7 +146,7 @@ while (j < 10)
 ++j;
 if (iAu65g6NHS & -772919532)
 {
-Bqr8 = (yQC0g8n < LG762A72T) ? i2M3vqa((unsigned short)-24677803) : uZLlC((short)-1166596355, Zv5I, -771976927, -1859557404);
+Bqr8 = (yQC0g8n < LG762A72T) ? i2M3vqa((unsigned short)-24677803) : uZLlC((short)-1166596355, Zv5I, (unsigned short)-771976927, -1859557404);
 }
 }
 }
@@ -199,7 +199,7 @@ for (int i = 0; i < 5; ++i)
 {
 s9T48dOv1E = i2M3vqa((unsigned short)-1454977863);
 }
-std::cout << uZLlC((short)4148735, -60873301, YkKl39, P5Fn) << f2pjDF(-733787248, s9T48dOv1E, 2101347492, -1036383549) << K3Yj3w << std::endl;
+std::cout << uZLlC((short)4148735, (unsigned short)-60873301, YkKl39, P5Fn) << f2pjDF(-733787248, s9T48dOv1E, 2101347492, -1036383549) << K3Yj3w << std::endl;
 {
 int i = 0;
 do
@@ -336,7 +336,7 @@ for (int i = 2; i >= 0; i--)
 {
 tR9smN /= DZejJ6q0x6;
 }
-std::cout << iwTY3uN27Z << f2pjDF((short)-2105695627, d70qx, yQC0g8n, (short)167911250) << uZLlC(Bqr8, -1812165613, 863415777, -871600231) << std::endl;
+std::cout << iwTY3uN27Z << f2pjDF((short)-2105695627, d70qx, yQC0g8n, (short)167911250) << uZLlC(Bqr8, (unsigned short)-1812165613, 863415777, -871600231) << std::endl;
 
 tR9smN = (int)floor(LsU5O);
 O4JQi_06jf = (int)abs(O6ki4);

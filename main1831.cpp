@@ -68,7 +68,7 @@ int main() {
     double    JY_D924Pj;
     JY_D924Pj    =    -1426228813;
     short    ASvCHGs;
-    ASvCHGs    =    112190789;
+    ASvCHGs    =    (short)112190789;
 
 O_Md6IrBYW = t2gs / op9vv7x5(Yx84I, 1401394384, MBoWsRlz);
 

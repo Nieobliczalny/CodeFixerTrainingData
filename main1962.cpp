@@ -272,7 +272,7 @@ try
 {
 if (fZ_U66 == -453537099)
 {
-EE5Srq4 = sXN01(-1351105497, -215391089, 1236506431);
+EE5Srq4 = sXN01((unsigned char)-1351105497, -215391089, 1236506431);
 }
 else
 {
@@ -386,7 +386,7 @@ case 0:
 nadS = sXN01((unsigned char)-1648811610, m_uV01, dA3XGV5);
 break;
 case 1:
-nadS = sXN01((unsigned char)1493917202, 1079327175, nadS);
+nadS = sXN01((unsigned char)1493917202, (short)1079327175, nadS);
 break;
 case 2:
 c1T480 = JVXDow216W();
@@ -425,7 +425,7 @@ case 3:
 Q05rvP2U = sXN01((unsigned char)-1342251417, (short)915754731, 249676228) / q_21jJVL;
 break;
 case 4:
-nadS = sXN01(996568180, CXLH3F8qU0, dA3XGV5);
+nadS = sXN01((unsigned char)996568180, CXLH3F8qU0, dA3XGV5);
 break;
 case 5:
 EE5Srq4 = (int)abs(nadS);
@@ -464,7 +464,7 @@ BGN277 %= 1568807944;
 break;
 case 'd':
 case 'D':
-EE5Srq4 = sXN01(-632870615, -1436837816, q_21jJVL);
+EE5Srq4 = sXN01((unsigned char)-632870615, -1436837816, q_21jJVL);
 break;
 case 'e':
 case 'E':
@@ -509,7 +509,7 @@ case 2:
 nadS = (int)abs(EE5Srq4);
 break;
 case 3:
-nadS = sXN01((unsigned char)2041108918, -1989931946, -1539520303);
+nadS = sXN01((unsigned char)2041108918, (short)-1989931946, -1539520303);
 break;
 case 4:
 q_21jJVL *= nadS;

@@ -307,7 +307,7 @@ std::cout << "cx1N29il" << "jXdLQ" << std::endl;
 }
 else
 {
-Go1Ky8_ = I4pk4uZ1D8((unsigned short)1979303488, (unsigned short)-191915734, 2098552464, 974913308, zmYc);
+Go1Ky8_ = I4pk4uZ1D8((unsigned short)1979303488, (unsigned short)-191915734, 2098552464, (char)974913308, zmYc);
 }
 }
 Q9TI = Rlag(n_tlM);

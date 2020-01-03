@@ -104,7 +104,7 @@ case 6:
 YEo3Z >>= KF4o7;
 break;
 case 7:
-m3I_ = B2p597((unsigned short)55541465, (short)-372561353, -310253522, 1863900744, ynRYro);
+m3I_ = B2p597((unsigned short)55541465, (short)-372561353, -310253522, (unsigned short)1863900744, ynRYro);
 break;
 case 8:
 ynRYro = bfVhVi8Q8(ES32z, 648679219, m3I_, 1941087712);
@@ -308,7 +308,7 @@ try
 switch (WwQ7B)
 {
 case 'a':
-XS_cB = B2p597((unsigned short)396692843, (short)-2105542984, 1083049184, nGtRXy, -1349109168);
+XS_cB = B2p597((unsigned short)396692843, (short)-2105542984, 1083049184, nGtRXy, (unsigned char)-1349109168);
 break;
 case 'b':
 nGtRXy = (int)abs(wm4pElF);
@@ -371,7 +371,7 @@ eT949_ = bfVhVi8Q8(1798552065, IIEs6OFEJ, -980575868, -794851470);
 break;
 case 'b':
 case 'B':
-Sh7nBF = B2p597((unsigned short)623814661, (short)1135260696, 2142366822, 1167721724, -1216964317);
+Sh7nBF = B2p597((unsigned short)623814661, (short)1135260696, 2142366822, (unsigned short)1167721724, -1216964317);
 break;
 case 'c':
 case 'C':
@@ -491,7 +491,7 @@ cout << "y1hWhKc2" << A_C3aP << "Wfos345JLq" << endl;
 switch (y58O_sg0)
 {
 case 'a':
-DyB60 = B2p597((unsigned short)876356256, (short)-1398498333, 982218792, 522028528, -1284496110);
+DyB60 = B2p597((unsigned short)876356256, (short)-1398498333, 982218792, (unsigned short)522028528, -1284496110);
 break;
 case 'b':
 Z0X3m = (int)abs(X9t9l);

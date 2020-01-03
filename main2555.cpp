@@ -25,7 +25,7 @@ int main()
  char xP_9, oc52QD24, K4Cm, LT0o, JZQJgn, bYkTv5l, e6kgpHH, hY2_Y62vH, U2pV8pj_M, C8oWHk6, gw4V6n, XPWCDUN_c, u6K4w00HJ, nX6p, I1ddavb07S, eeJua9c, I8wo0F2, S3L__, BUJ7, LEjS, Mk6rj, WQdz, X6_E5u, ANIzwT, OOc3, H7rod, ptk4_396, WnSY78g, hiPPTG_o, hakBdso_bJ, vMOr3tUa, IODQj3Dx, Ja_MMxDUy, PY55NnY, MH3UqBY1, oxuPPOXM_9, OF_1aF4, iNMRDhdr, Kx2kf, BYh3B_1M, JPs4lntt, Ntb93v, WK3a, SH7W341f, J7E5Fb7, OMkzp5D5P, Ar6p4yYP8, H0X_lK55, JQB9O99cP, BhXf8DK0, P936Y5T, Yxz4, tVh82c27, yjlUlpb6cL, RP3Es, ElG_M5f, X94O5BGRL7, XTQQjYr5, x9OxW73_in, q4Skz6PX, AXF_1AruhA, GmiF8w6, PWNG1aA148, q6U_Yu, OG2178KY;
  xP_9 = (char)-2014031407;
  oc52QD24 = (char)562337496;
- K4Cm = -1197709998;
+ K4Cm = (char)-1197709998;
  LT0o = 913641964;
  JZQJgn = 1159513690;
  bYkTv5l = 714831561;
@@ -35,7 +35,7 @@ int main()
  C8oWHk6 = -879819130;
  gw4V6n = (char)-1265874028;
  XPWCDUN_c = (char)-22013170;
- u6K4w00HJ = -1195024497;
+ u6K4w00HJ = (char)-1195024497;
  nX6p = -586333497;
  I1ddavb07S = -1299234145;
  eeJua9c = -1512801870;
@@ -45,7 +45,7 @@ int main()
  LEjS = 1472480561;
  Mk6rj = (char)-2053767996;
  WQdz = (char)1739308193;
- X6_E5u = 963989075;
+ X6_E5u = (char)963989075;
  ANIzwT = -557785193;
  OOc3 = 2066349716;
  H7rod = 1346968883;
@@ -55,7 +55,7 @@ int main()
  hakBdso_bJ = -1134424140;
  vMOr3tUa = (char)-1714384887;
  IODQj3Dx = (char)-1802964398;
- Ja_MMxDUy = -326748438;
+ Ja_MMxDUy = (char)-326748438;
  PY55NnY = 1989022622;
  MH3UqBY1 = -8272261;
  oxuPPOXM_9 = -1327199904;
@@ -65,7 +65,7 @@ int main()
  BYh3B_1M = 1985828368;
  JPs4lntt = (char)-1683198702;
  Ntb93v = (char)-250871547;
- WK3a = 1659904861;
+ WK3a = (char)1659904861;
  SH7W341f = -1998071527;
  J7E5Fb7 = 245389214;
  OMkzp5D5P = 1354597099;
@@ -75,7 +75,7 @@ int main()
  BhXf8DK0 = 351758267;
  P936Y5T = (char)-118385671;
  Yxz4 = (char)-172133225;
- tVh82c27 = -890987673;
+ tVh82c27 = (char)-890987673;
  yjlUlpb6cL = -710704315;
  RP3Es = -1444405603;
  ElG_M5f = 713885302;
@@ -85,7 +85,7 @@ int main()
  q4Skz6PX = 951018342;
  AXF_1AruhA = (char)-1615461852;
  GmiF8w6 = (char)-1775967374;
- PWNG1aA148 = 398025581;
+ PWNG1aA148 = (char)398025581;
  q6U_Yu = -694133703;
  OG2178KY = -1285749033;
 

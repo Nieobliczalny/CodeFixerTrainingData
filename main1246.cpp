@@ -48,7 +48,7 @@ int main(int argc, char** argv)
   unsigned long  S6RXAnI;
   S6RXAnI  =  -1170766984;
  char BK47;
- BK47 = 207179777;
+ BK47 = (char)207179777;
   double  j79u059;
   j79u059  =  -453053909;
  unsigned short int X908;
@@ -58,7 +58,7 @@ int main(int argc, char** argv)
 	char	wMor;
 	wMor	=	(char)-476001393;
     char    b_9XeD3;
-    b_9XeD3    =    287062915;
+    b_9XeD3    =    (char)287062915;
   short  y18Rpd;
   y18Rpd  =  58589265;
     unsigned int    kkvAAOOU;
@@ -134,7 +134,7 @@ int main(int argc, char** argv)
 
 if (Er5ln_C != 754834753)
 {
-cout << E5_EGu9Cv(Bj71, d6SEs0t6, (unsigned short)486420320) << E5_EGu9Cv((unsigned char)-1819633863, d6SEs0t6, 96174128) << Q3jLgi() << endl;
+cout << E5_EGu9Cv(Bj71, d6SEs0t6, (unsigned short)486420320) << E5_EGu9Cv((unsigned char)-1819633863, d6SEs0t6, (unsigned short)96174128) << Q3jLgi() << endl;
 }
 {
 int i = 0;
@@ -176,7 +176,7 @@ if (EDatZbnb2 == skSR7)
 {
 if (m_ZojW_74 > Uqls9sf8L1)
 {
-ey04VSjV = N73z56((char)-985876387, 1272518516, (char)623412401, -544422824);
+ey04VSjV = N73z56((char)-985876387, 1272518516, (char)623412401, (unsigned short)-544422824);
 }
 else if ((EDatZbnb2 & -1014743395) || (x440L <= ZTF1_4X))
 {
@@ -240,7 +240,7 @@ case 'd':
 g2tF25q = E5_EGu9Cv((unsigned char)748246660, F0d7pf, (unsigned short)678982050);
 break;
 case 'e':
-K2Nl6_8 = N73z56(K2Nl6_8, 1477271384, 252427248, -1729850928);
+K2Nl6_8 = N73z56(K2Nl6_8, 1477271384, (char)252427248, -1729850928);
 break;
 case 'f':
 obL8K %= 1835417501;

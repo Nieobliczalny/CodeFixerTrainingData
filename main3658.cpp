@@ -28,7 +28,7 @@ int main(int argc, char** argv)
 	long long	Xif174;
 	Xif174	=	-675680345;
 	short	T68F;
-	T68F	=	-687458460;
+	T68F	=	(short)-687458460;
   long  wv_1Lz;
   wv_1Lz  =  -1872823803;
   unsigned long long  F0Gv_c;
@@ -66,7 +66,7 @@ int main(int argc, char** argv)
  unsigned int Ui80hdi;
  Ui80hdi = 1037838174;
 	unsigned char	B214_RJBJw;
-	B214_RJBJw	=	1153428696;
+	B214_RJBJw	=	(unsigned char)1153428696;
   long  eZ8b235N;
   eZ8b235N  =  1898384735;
     int    gp5M954;

@@ -241,7 +241,7 @@ std::cout << zOjc8O << UR6b61(ap006_xfaA, Q84k, (unsigned short)-839370893) << s
 m2OKnBtVG = (double)(Gr0a8t3L12);
 
 std::cout << UR6b61(933692902, Q84k, (unsigned short)-1195452290) / RVmPf8jV << std::endl;
-std::cout << UR6b61(ap006_xfaA, 743550537, -635472110) << std::endl;
+std::cout << UR6b61(ap006_xfaA, 743550537, (unsigned short)-635472110) << std::endl;
 r3R8 = x2WjFp - 177153287;
 switch (RVmPf8jV)
 {

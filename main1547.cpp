@@ -152,7 +152,7 @@ HwC1wOp_ = (int)abs(ZFE7F);
 }
 }
 
-std::cout << "bci9" << n83yWG6oL(938467411, STHoqy) << hT18n << "Aq92umY" << std::endl;
+std::cout << "bci9" << n83yWG6oL((unsigned char)938467411, STHoqy) << hT18n << "Aq92umY" << std::endl;
 
 STHoqy = Y5g9u93 - 91744990;
 lE36x = (float)(zWYJy7g9);
@@ -243,7 +243,7 @@ Z60_q33 = n83yWG6oL(Z60_q33, s562t2wJd);
 }
 try
 {
-std::cout << epM7(-845562490) << "w4cT6VkV7_" << Z60_q33 << j364m3R_0(Z60_q33, 1207810830, -773303300, -559565160) << n83yWG6oL(Z60_q33, s562t2wJd) << std::endl;
+std::cout << epM7((char)-845562490) << "w4cT6VkV7_" << Z60_q33 << j364m3R_0(Z60_q33, 1207810830, -773303300, -559565160) << n83yWG6oL(Z60_q33, s562t2wJd) << std::endl;
 }
 catch (int& errorCode)
 {
@@ -263,7 +263,7 @@ short s9H4r0K(short RydNe3Wr4Z,short dX7UxK,long fN_754,unsigned short int ZdL1S
 }
 
 char    n83yWG6oL(unsigned char    FUvg8WR,int    KjgU9zojT9)    {
-    return    359629894;
+    return    (char)359629894;
 }
 
 unsigned short j364m3R_0(short int N1X3oUM2,short int t718BIN,int oAp831C,unsigned char ilUjH)

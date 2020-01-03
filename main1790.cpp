@@ -79,7 +79,7 @@ wjr1A = T6r5((char)434757261, vErGp56, tpFn4_zuwp, l2g5K);
 }
 else if (OO94Tujq3 <= 1180722969)
 {
-tpFn4_zuwp = MC_b29((char)391710898, -2106806837);
+tpFn4_zuwp = MC_b29((char)391710898, (unsigned char)-2106806837);
 }
 else
 {
@@ -127,7 +127,7 @@ A4k97 *= 734216012;
 }
 std::cout << MC_b29(mm5aFa, a98530) << MC_b29(mm5aFa, (unsigned char)-1366522747) << "b20FU6dx_" << "zDQnENrOQc" << MC_b29((char)-1305312483, a98530) << std::endl;
 
-nJ7T = MC_b29(nJ7T, 255330812);
+nJ7T = MC_b29(nJ7T, (unsigned char)255330812);
 WOp1 = j2R8YX2y8 / T6r5(nJ7T, 1714321997, T7Boj, mLYv);
 
 switch (qH2V397QWk)

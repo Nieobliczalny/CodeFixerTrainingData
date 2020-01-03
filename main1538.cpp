@@ -114,7 +114,7 @@ std::cout << "i9B8uuT" << ygKSO((char)-1455800863, bAImk9M, 875322556) << std::e
 }
 }
 
-std::cout << "Ry9Jg" << AIRJG << rG_Lx0Y2KH(z2QnEvFGZ, (short)2006013183, O7eGgU_, pdbmCj0w) << ygKSO(z2QnEvFGZ, 2042120270, O7eGgU_) << "wmP1m0flwd" << std::endl;
+std::cout << "Ry9Jg" << AIRJG << rG_Lx0Y2KH(z2QnEvFGZ, (short)2006013183, O7eGgU_, pdbmCj0w) << ygKSO(z2QnEvFGZ, (short)2042120270, O7eGgU_) << "wmP1m0flwd" << std::endl;
 
 std::cout << ygKSO(z2QnEvFGZ, 1749296022, -1295407318) << bAImk9M << std::endl;
 
@@ -205,7 +205,7 @@ E8c415I = YL9hxWN((char)1466015525);
 break;
 }
 
-std::cout << rG_Lx0Y2KH((short)1970797382, m551ro2, GnQ3_27, 1193152053) << D_ff45sTB << BrK601 << Yc18u9J_2x << Ait7W << std::endl;
+std::cout << rG_Lx0Y2KH((short)1970797382, m551ro2, GnQ3_27, (unsigned short)1193152053) << D_ff45sTB << BrK601 << Yc18u9J_2x << Ait7W << std::endl;
 if ((t93f > -1102259466) || (t93f >= 1376879159))
 {
 switch (bAImk9M)
@@ -254,7 +254,7 @@ yBmW2EpXQ7 &= 392646127;
 break;
 case 'f':
 case 'F':
-EbdFz = rG_Lx0Y2KH(714966214, -100232134, wjKbKP, t93f);
+EbdFz = rG_Lx0Y2KH((short)714966214, -100232134, wjKbKP, t93f);
 break;
 case 'g':
 case 'G':
@@ -314,7 +314,7 @@ else if (ORJg6t91 >= Z9nU420_H)
 int k = 0;
 while (k < 6)
 {
-e3_Ntg = rG_Lx0Y2KH((short)74866310, (short)-1937250945, -676627122, 950673288);
+e3_Ntg = rG_Lx0Y2KH((short)74866310, (short)-1937250945, -676627122, (unsigned short)950673288);
 k++;
 }
 }

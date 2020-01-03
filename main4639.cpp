@@ -17,7 +17,7 @@ unsigned char  mq5s(char  k69c8LJQFr,unsigned char  w8q5,unsigned short int  w9_
 int main() {
   short int  xp55S28Z  =  (short)-537640398;
 	char	X1e_R6pO28	=	(char)962568487;
-  short  LI70  =  -594990605;
+  short  LI70  =  (short)-594990605;
   char  SC77HV00  =  -416954969;
   unsigned short  BoRYj3yal  =  -795073218;
   unsigned short int  VoniX  =  -1252245625;
@@ -31,7 +31,7 @@ int main() {
  double VAwYnFuZ5_ = 1202758862;
   char  S6uSkdU  =  0;
 	int	Jf0Eoe63	=	361010013;
-    unsigned char    ZzF3n8R52z    =    -1482760580;
+    unsigned char    ZzF3n8R52z    =    (unsigned char)-1482760580;
   short  xMof  =  1924549449;
     unsigned short int    MvhqfM    =    744087216;
     long    fRxw95    =    1184144663;
@@ -42,7 +42,7 @@ int main() {
   long  JXF94Wh  =  -1358263172;
  short int vGJci5 = (short)2048518336;
 	unsigned char	K05ivS	=	(unsigned char)-1197933400;
- unsigned short V8hk2G_1W8 = 847475961;
+ unsigned short V8hk2G_1W8 = (unsigned short)847475961;
  char Z_L30o_3DJ = -693786099;
 	double	Mu21vBp8R	=	-1311403181;
   char  kHxbum_q  =  -1126108007;
@@ -60,7 +60,7 @@ int main() {
 	unsigned long	WVNi0plzj	=	957986384;
  int En19JE = -1101998321;
     long    WHb6c_iI    =    258500899;
-    unsigned short    gQW8Ip354_    =    1984656104;
+    unsigned short    gQW8Ip354_    =    (unsigned short)1984656104;
 
 {
 int i = 8;
@@ -128,7 +128,7 @@ while (k >= 0);
 g6Knp8m = (short)(WHb6c_iI * g6Knp8m);
 
 SC77HV00 = (char)(dasV5T);
-g6Knp8m = mq5s(-1731709633, F94AtZ03s, V8hk2G_1W8);
+g6Knp8m = mq5s((char)-1731709633, F94AtZ03s, V8hk2G_1W8);
 
 std::cout << "ZH9Ii" << std::endl;
 switch (c8DN1ec)
@@ -164,7 +164,7 @@ case 9:
 F94AtZ03s = q_Br6u4g(F94AtZ03s, D6gM, LHLpbRQ);
 break;
 }
-S6uSkdU = mq5s(1546959176, -65134453, iU_yz11F);
+S6uSkdU = mq5s((char)1546959176, -65134453, iU_yz11F);
 
 {
 int i = 0;
@@ -185,7 +185,7 @@ else
 {
 if (MvhqfM)
 {
-S6uSkdU = mq5s((char)390761703, (unsigned char)-487042665, -1752783236);
+S6uSkdU = mq5s((char)390761703, (unsigned char)-487042665, (unsigned short)-1752783236);
 }
 }
 i++;

@@ -44,7 +44,7 @@ case 5:
 kMXI++;
 break;
 }
-std::cout << "H67hB6" << "EJcs_WWNxN" << "p2ZGJDwo" << WP2Z9((unsigned short)715126940, U_jmV, (unsigned short)-2084568352, 1815318612, f39y) << WP2Z9(-1356082779, U_jmV, 199692514, jC8gN8NC, -641044077) << std::endl;
+std::cout << "H67hB6" << "EJcs_WWNxN" << "p2ZGJDwo" << WP2Z9((unsigned short)715126940, U_jmV, (unsigned short)-2084568352, 1815318612, f39y) << WP2Z9((unsigned short)-1356082779, U_jmV, 199692514, jC8gN8NC, -641044077) << std::endl;
 
 if (PR_Bk4w_ly > rz1dMUtoS)
 {
@@ -75,7 +75,7 @@ if (T218D != tpqIlAD98)
 switch (h05YfJc42)
 {
 case 0:
-HP3Zdv = WP2Z9((unsigned short)-1849727621, (unsigned short)-1451504778, -1384722408, -1073888444, G0dHl6a_0t);
+HP3Zdv = WP2Z9((unsigned short)-1849727621, (unsigned short)-1451504778, (unsigned short)-1384722408, -1073888444, G0dHl6a_0t);
 break;
 }
 }
@@ -166,7 +166,7 @@ Zv0Z45WWF = WP2Z9(Zv0Z45WWF, (unsigned short)-1731914485, (unsigned short)114892
 break;
 case 'd':
 case 'D':
-Py8Yc = WP2Z9(258213657, HP3Zdv, k0j66WGz, -1724356677, y59EG);
+Py8Yc = WP2Z9((unsigned short)258213657, HP3Zdv, k0j66WGz, -1724356677, y59EG);
 break;
 case 'e':
 case 'E':
@@ -329,7 +329,7 @@ h05YfJc42 = WP2Z9(h05YfJc42, (unsigned short)70205871, (unsigned short)952238578
 }
 else if ((tpqIlAD98 != -1457075934) || (jA434wq53))
 {
-NuY5n = WP2Z9(NuY5n, 1092351252, 980444541, tsQ114, ffN_F7dn);
+NuY5n = WP2Z9(NuY5n, (unsigned short)1092351252, 980444541, tsQ114, ffN_F7dn);
 }
 else if (Z1yAVUx_ & -1861408043)
 {
@@ -392,7 +392,7 @@ PR_Bk4w_ly = ESgU8ZCJ();
 }
 else
 {
-f_C0cTTi = WP2Z9((unsigned short)-1381808736, (unsigned short)1982943573, -2074436137, 585574318, H68a);
+f_C0cTTi = WP2Z9((unsigned short)-1381808736, (unsigned short)1982943573, (unsigned short)-2074436137, 585574318, H68a);
 }
 U8p5oY1 = (unsigned char)(ShpZI9 + (210259888));
 std::cout << WP2Z9(-123110692, 583065004, -413740070, MgC6M6u, -433297841) << "FlV8" << dqRYD5P6N << "k_0vRO12" << ESgU8ZCJ() << std::endl;
@@ -469,7 +469,7 @@ catch (int& errorCode)
 tpqIlAD98 = WP2Z9(219245627, NaiCP7, 2023853221, EzAFr_2jo, qE9_w);
 }
 
-std::cout << aYLSE01 << WP2Z9((unsigned short)-1426387293, (unsigned short)-584458, 1745791479, EzAFr_2jo, 1181914549) << std::endl;
+std::cout << aYLSE01 << WP2Z9((unsigned short)-1426387293, (unsigned short)-584458, (unsigned short)1745791479, EzAFr_2jo, 1181914549) << std::endl;
 
 for (int i = 5; i >= 0; --i)
 {
@@ -552,7 +552,7 @@ catch (int& errorCode)
 ffN_F7dn = WP2Z9(-260157216, tsQ114, J1r1i32Zy, -2048389846, jo994);
 }
 
-NZY0J_0k = WP2Z9((unsigned short)1174565827, (unsigned short)-39543950, 1498747858, ui1Sg, Og4a4ymD);
+NZY0J_0k = WP2Z9((unsigned short)1174565827, (unsigned short)-39543950, (unsigned short)1498747858, ui1Sg, Og4a4ymD);
 
 if (jsW8b == ShpZI9)
 {

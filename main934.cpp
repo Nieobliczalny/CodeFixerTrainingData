@@ -138,7 +138,7 @@ int main(void)
  int QzHf07fb;
  QzHf07fb = 892947556;
  short int S79b8;
- S79b8 = -1065426532;
+ S79b8 = (short)-1065426532;
 	unsigned int	Y7RA_Vojy;
 	Y7RA_Vojy	=	-1897432477;
   double  ZB81H8XfiI;
@@ -268,7 +268,7 @@ gSEsHSvB -= 1349855570;
 }
 else
 {
-rQQQd76 = d719zKplA((char)-1364469330, (unsigned short)-206476973, 1203281233);
+rQQQd76 = d719zKplA((char)-1364469330, (unsigned short)-206476973, (short)1203281233);
 }
 }
 {
@@ -356,7 +356,7 @@ int k = 0;
 while (k < 2)
 {
 k++;
-jCkxXF = d719zKplA((char)949533203, (unsigned short)-1600345679, -902441950);
+jCkxXF = d719zKplA((char)949533203, (unsigned short)-1600345679, (short)-902441950);
 }
 }
 }
@@ -396,7 +396,7 @@ while (i < 2);
 KA116H9R %= 1226476609;
 
 std::cout << r_jE2C92 << "s6rW5KKke6" << "kEG58" << D5DA2D7V9r(I93OdUOh_1, Ew8O9) << std::endl;
-std::cout << "s_CAt6B3yT" << d719zKplA((char)894676801, (unsigned short)-1032250399, 1595305412) << std::endl;
+std::cout << "s_CAt6B3yT" << d719zKplA((char)894676801, (unsigned short)-1032250399, (short)1595305412) << std::endl;
 
 {
 int i = 0;

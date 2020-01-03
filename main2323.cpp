@@ -31,7 +31,7 @@ int main(int argc, char** argv) {
     double    Vpt0    =    -1521122935;
 	long long	l6h8dDd97u	=	-1911036398;
     char    W4aTwgk    =    (char)-5988459;
-    short int    V59Yw6x    =    1726458852;
+    short int    V59Yw6x    =    (short)1726458852;
   long long  znW_H  =  -1777748596;
 	unsigned short	h75E4	=	-1094322251;
  long long k_lu_1Fovs = -348043519;
@@ -45,7 +45,7 @@ int main(int argc, char** argv) {
  long double VaabV = -1049865708;
  unsigned int w82X6 = -2075885810;
  unsigned int bQk6 = 352803631;
- short NHzkgF4 = 1250768520;
+ short NHzkgF4 = (short)1250768520;
   long double  X_NO_K  =  1089719366;
  short ecusErjp_2 = (short)2139713920;
  short oO0_tgPw3 = 1900454071;
@@ -56,7 +56,7 @@ int main(int argc, char** argv) {
  unsigned int W79i_h5 = 1801809403;
   unsigned long long  et6X  =  -472790450;
     short int    B50D_    =    (short)799032474;
-	short	iAXyBd	=	-305021395;
+	short	iAXyBd	=	(short)-305021395;
   char  h4Wjzs  =  (char)1410756928;
     long    zh8m999    =    1575115570;
   double  Y1RLjpwtc  =  1191705091;
@@ -79,7 +79,7 @@ int main(int argc, char** argv) {
  unsigned long long rraFK2S = -1569479580;
   unsigned long long  g9Gnd5  =  597962355;
  short sNl04Pzf90 = (short)-2045177593;
- char SrSW1laZ5 = 1596295379;
+ char SrSW1laZ5 = (char)1596295379;
  char DcaRx_FL8 = 323840309;
   char  euxs48sHym  =  -1993734479;
 	long	K1572	=	824965322;
@@ -102,7 +102,7 @@ int main(int argc, char** argv) {
     long long    W43K3F    =    968710476;
  long u48b3Sg0ht = 714657112;
  unsigned short int OBQ_fgVGV = (unsigned short)-769363248;
-    short    pxm98    =    1525580272;
+    short    pxm98    =    (short)1525580272;
 	unsigned int	xKnQ	=	136997842;
  long double nHeMl3Pp = 261249090;
   long  tzl_0c_  =  1295021892;
@@ -213,7 +213,7 @@ case 'b':
 G97Q = bu7vWfi >> l6h8dDd97u;
 break;
 case 'c':
-JN8P3bI6s = K93sxmiG(JN8P3bI6s, 337381942, N8Gja, -1401256038);
+JN8P3bI6s = K93sxmiG(JN8P3bI6s, 337381942, N8Gja, (short)-1401256038);
 break;
 case 'd':
 W43K3F = (int)abs(A6b3H);

@@ -24,7 +24,7 @@ unsigned short    KrS1zprOF(unsigned int    YIScy,unsigned short int    H6_JcF6V
 
 unsigned char	x5kSJy(short	q6v2S,unsigned char	UqtV2F_,unsigned short int	tS3rpjAh5m,unsigned int	tEq8n4mrf,unsigned long	V02uX)
 {
-	return	634981854;
+	return	(unsigned char)634981854;
 }
 
 unsigned long ttS9D(unsigned int rqctH,long long N_tDXiavX,unsigned short cafl74i,short pysFE) {
@@ -64,7 +64,7 @@ int main(void)
   short  vy114XN;
   vy114XN  =  (short)1592002565;
   unsigned char  nzeHT;
-  nzeHT  =  1854246127;
+  nzeHT  =  (unsigned char)1854246127;
 	float	pFT621P;
 	pFT621P	=	878541796;
   short  E16Pt;
@@ -86,7 +86,7 @@ int main(void)
 	short	G9F1_G;
 	G9F1_G	=	(short)454362167;
  unsigned short GI_rr;
- GI_rr = -404216273;
+ GI_rr = (unsigned short)-404216273;
   long long  ebDUkO;
   ebDUkO  =  -1524006102;
     unsigned short    V0x632;
@@ -137,7 +137,7 @@ while (j >= 0);
 }
 try
 {
-cout << x5kSJy((short)-437713513, (unsigned char)1583808014, -1458090032, vy114XN, KBM_) << "wXoTT" << J6VW << ttS9D(-2138603580, qO61yB1fn, 35318894, vy114XN) << X3tOlG2452() << endl;
+cout << x5kSJy((short)-437713513, (unsigned char)1583808014, (unsigned short)-1458090032, vy114XN, KBM_) << "wXoTT" << J6VW << ttS9D(-2138603580, qO61yB1fn, 35318894, vy114XN) << X3tOlG2452() << endl;
 }
 catch (int& errorCode)
 {
@@ -244,7 +244,7 @@ int k = 0;
 do
 {
 k++;
-SaC7V = x5kSJy((short)1629118164, -122205312, J6VW, lJ3pYo, e29NvfMH5);
+SaC7V = x5kSJy((short)1629118164, (unsigned char)-122205312, J6VW, lJ3pYo, e29NvfMH5);
 }
 while (k < 4);
 }
@@ -298,7 +298,7 @@ case 'f':
 GI_rr *= e29NvfMH5;
 break;
 case 'g':
-L807WX_C_ = x5kSJy((short)-1723073927, 1104921260, Wgcw_QcTA, -945446777, BE_5V8T);
+L807WX_C_ = x5kSJy((short)-1723073927, (unsigned char)1104921260, Wgcw_QcTA, -945446777, BE_5V8T);
 break;
 case 'h':
 P9HjIkrr86 *= E16Pt;

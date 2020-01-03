@@ -26,7 +26,7 @@ int main() {
     unsigned int    p99v0    =    -510560114;
   long double  MeGPcj7wS  =  -1186807611;
 	long long	c_S0_0X10C	=	-1380268914;
-  unsigned char  cP89  =  -1524884040;
+  unsigned char  cP89  =  (unsigned char)-1524884040;
   char  l0Kh8  =  745882197;
     long    GgDAMw    =    0;
   char  ZRbG  =  (char)-792587225;
@@ -41,7 +41,7 @@ int main() {
   long double  CJRl65ZT  =  1577193700;
  double U1ox9 = 497922966;
  short int L934 = (short)-705035019;
-    short    XYAtmRqYv    =    415301446;
+    short    XYAtmRqYv    =    (short)415301446;
 
 if (GgDAMw == 0)
 {

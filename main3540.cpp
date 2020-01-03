@@ -27,7 +27,7 @@ int main(int argc, char** argv) {
 	unsigned int	oXWD;
 	oXWD	=	-1034185491;
 	char	wa2kVBR54P;
-	wa2kVBR54P	=	-1491832952;
+	wa2kVBR54P	=	(char)-1491832952;
   float  Ti9Wz;
   Ti9Wz  =  318371205;
     char    MC4AN2;
@@ -87,7 +87,7 @@ int main(int argc, char** argv) {
  unsigned short int Pe28H;
  Pe28H = (unsigned short)-1384866937;
  short mQS0JsM_;
- mQS0JsM_ = 177912349;
+ mQS0JsM_ = (short)177912349;
  unsigned char G31I7T;
  G31I7T = (unsigned char)-748752586;
     double    Tq0_m81;
@@ -101,7 +101,7 @@ int main(int argc, char** argv) {
  short quHpn27rQ2;
  quHpn27rQ2 = (short)-1730486251;
     short    m1i7;
-    m1i7    =    -592121894;
+    m1i7    =    (short)-592121894;
 	unsigned short	u4rD;
 	u4rD	=	0;
  float N6xS61R;
@@ -169,7 +169,7 @@ int j = 1;
 do
 {
 j--;
-z6s_ = PSvISX((unsigned short)1258472600, u4rD, 597771783, 1121803591);
+z6s_ = PSvISX((unsigned short)1258472600, u4rD, (short)597771783, 1121803591);
 }
 while (j >= 0);
 }
@@ -249,7 +249,7 @@ break;
 
 std::cout << wa2kVBR54P << zp02J_k(G31I7T, P7pB9bPj, 935567422) << zp02J_k(G31I7T, P7pB9bPj, wa2kVBR54P) << std::endl;
 
-S8rV_ = mBNfGwz_Pm / zp02J_k(1936939773, -1666666420, wa2kVBR54P);
+S8rV_ = mBNfGwz_Pm / zp02J_k(1936939773, (char)-1666666420, wa2kVBR54P);
 bZdBT0_ = (double)(S8rV_);
 if (Lt41_o > -2069063988)
 {
@@ -393,7 +393,7 @@ else
 std::cout << m3U4t16F98 << S8rV_ << syvdE << std::endl;
 }
 
-wa2kVBR54P = PSvISX((unsigned short)-614202491, 431434030, 1595798138, -1368272337);
+wa2kVBR54P = PSvISX((unsigned short)-614202491, 431434030, (short)1595798138, -1368272337);
 
 if (Lt41_o <= oXWD)
 {

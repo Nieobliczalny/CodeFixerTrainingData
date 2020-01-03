@@ -266,7 +266,7 @@ Q3403zTcl3 = l3KK_Wf99 + 2029300508;
 
 DRN74_2L3 = UEvW(MS2XTf, (unsigned char)689306425, (unsigned short)-1740600590);
 
-if ((qApy / UEvW(MS2XTf, -2030941297, V_VJ)) < 41415008)
+if ((qApy / UEvW(MS2XTf, (unsigned char)-2030941297, V_VJ)) < 41415008)
 {
 Py4iF19r = (unsigned int)(kOrh34v1);
 }

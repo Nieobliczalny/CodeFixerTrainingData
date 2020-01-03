@@ -15,7 +15,7 @@ int main(void)
 	unsigned short	dP507DEv6;
 	dP507DEv6	=	(unsigned short)-552165185;
 	char	I3Q5LD0;
-	I3Q5LD0	=	1256429850;
+	I3Q5LD0	=	(char)1256429850;
 	short int	yYezZ_;
 	yYezZ_	=	-146406503;
 	unsigned long long	Z_X9z12Ak;
@@ -53,7 +53,7 @@ int main(void)
  unsigned int Vr640SicKr;
  Vr640SicKr = 0;
 	short int	RsZd9_;
-	RsZd9_	=	-1575788633;
+	RsZd9_	=	(short)-1575788633;
 	long	eZFV4qTg;
 	eZFV4qTg	=	-1440671400;
     unsigned short    dhmM851;
@@ -77,7 +77,7 @@ int main(void)
  unsigned long x266s;
  x266s = -1569211411;
  short PdJ9;
- PdJ9 = 1323633171;
+ PdJ9 = (short)1323633171;
   unsigned short  dGEo;
   dGEo  =  (unsigned short)2093210205;
     unsigned long long    bN_Yy_i;
@@ -105,7 +105,7 @@ int main(void)
 	unsigned short int	Wsu9k36X;
 	Wsu9k36X	=	(unsigned short)-1036975755;
  unsigned short oQcDV6;
- oQcDV6 = -116384903;
+ oQcDV6 = (unsigned short)-116384903;
 	unsigned short	Q3n1;
 	Q3n1	=	-1119972148;
  long fXTxk4vL8;

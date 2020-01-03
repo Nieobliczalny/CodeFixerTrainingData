@@ -23,7 +23,7 @@ int main() {
  unsigned short Vvp1;
  Vvp1 = (unsigned short)-1743588028;
  short int ymZyfrz;
- ymZyfrz = -322555346;
+ ymZyfrz = (short)-322555346;
  char K62gq4v1Y6;
  K62gq4v1Y6 = 0;
 	unsigned short	F0_56y5z;
@@ -35,7 +35,7 @@ int main() {
 	char	gdh2y2Ke;
 	gdh2y2Ke	=	(char)-990110072;
     short    Xi37V16l;
-    Xi37V16l    =    -1778811180;
+    Xi37V16l    =    (short)-1778811180;
  long double Gkq_49FI;
  Gkq_49FI = -1087804243;
  long long LiGAz;

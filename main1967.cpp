@@ -19,7 +19,7 @@ int main(void) {
   long  syhBl;
   syhBl  =  1709700614;
   unsigned short  Yf7Gctyd0;
-  Yf7Gctyd0  =  -1056573568;
+  Yf7Gctyd0  =  (unsigned short)-1056573568;
 	char	gMx8UbxS6u;
 	gMx8UbxS6u	=	-1299514672;
 	double	SRY_SGK;
@@ -67,7 +67,7 @@ int main(void) {
  unsigned char Q851u8;
  Q851u8 = (unsigned char)-1106113857;
     unsigned short int    smQJ5p;
-    smQJ5p    =    1397135168;
+    smQJ5p    =    (unsigned short)1397135168;
     float    UGd3d616Me;
     UGd3d616Me    =    816929880;
   unsigned long long  DgtsU8G64;

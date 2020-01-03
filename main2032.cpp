@@ -27,7 +27,7 @@ int main()
   char  FHRqT,  jmnEYV369f,  by1Gu,  z1A0j0pK,  w131,  Kb_kU,  H_v_j0Y,  g1eXqy7u,  D_V55r,  FIyKJY_d,  aS1_kD,  F8ai3,  Fk_Y,  VQj27,  WqhM6M88,  c91uaUKJLZ,  wPF8,  mbn5WVNw6,  C8T0W,  UNNY702tPh,  D4M1KBA,  P5X534C,  zZYo;
   FHRqT  =  (char)1772258851;
   jmnEYV369f  =  (char)1065862670;
-  by1Gu  =  315743585;
+  by1Gu  =  (char)315743585;
   z1A0j0pK  =  1911491031;
   w131  =  254332290;
   Kb_kU  =  77810943;
@@ -37,7 +37,7 @@ int main()
   FIyKJY_d  =  -1107058884;
   aS1_kD  =  (char)1588620359;
   F8ai3  =  (char)-223333281;
-  Fk_Y  =  -157005268;
+  Fk_Y  =  (char)-157005268;
   VQj27  =  -875317991;
   WqhM6M88  =  -1813354052;
   c91uaUKJLZ  =  -333933658;
@@ -47,7 +47,7 @@ int main()
   UNNY702tPh  =  1239960415;
   D4M1KBA  =  (char)-1911695103;
   P5X534C  =  (char)800317841;
-  zZYo  =  -2132743679;
+  zZYo  =  (char)-2132743679;
  short wubc;
  wubc = 0;
 
@@ -76,7 +76,7 @@ else
 {
 try
 {
-wubc = X9v_z((short)287250705, -1709322105, (short)-2032239134, -1557174883);
+wubc = X9v_z((short)287250705, -1709322105, (short)-2032239134, (short)-1557174883);
 }
 catch (int& errorCode)
 {
@@ -193,7 +193,7 @@ case 'h':
 by1Gu = (z1A0j0pK == wPF8) ? Em5w532543() : zZYo;
 break;
 case 'i':
-P5X534C = (g1eXqy7u <= D_V55r) ? aS1_kD : 1750553924;
+P5X534C = (g1eXqy7u <= D_V55r) ? aS1_kD : (char)1750553924;
 break;
 case 'j':
 F8ai3 = (int)abs(c91uaUKJLZ);
@@ -230,7 +230,7 @@ wubc = X9v_z(by1Gu, Kb_kU, C8T0W, H_v_j0Y);
 break;
 case 'f':
 case 'F':
-wubc = X9v_z(VQj27, aS1_kD, (short)-1663294198, 1370565598);
+wubc = X9v_z(VQj27, aS1_kD, (short)-1663294198, (short)1370565598);
 break;
 case 'g':
 case 'G':

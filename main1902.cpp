@@ -45,7 +45,7 @@ case 0:
 pA7LOq = Ys8_4q((short)129954210, (short)-940390038, yCt5S8gh);
 break;
 case 1:
-Do8AvF215c = Ys8_4q(Xj21, -195810172, -369079639);
+Do8AvF215c = Ys8_4q(Xj21, (short)-195810172, -369079639);
 break;
 case 2:
 pA7LOq = Ys8_4q(-896397536, yCt5S8gh, 457982710);
@@ -79,7 +79,7 @@ switch (lbH4q9jOR)
 {
 case 'a':
 case 'A':
-b7Ye2iQB5 = Ys8_4q((short)-615952132, 1565803777, b7Ye2iQB5);
+b7Ye2iQB5 = Ys8_4q((short)-615952132, (short)1565803777, b7Ye2iQB5);
 break;
 case 'b':
 case 'B':
@@ -131,7 +131,7 @@ pA7LOq = Ys8_4q(AFSC8, (short)-1009296204, L5Ewh);
 break;
 case 'b':
 case 'B':
-Do8AvF215c = Ys8_4q(rGQ2z7, (short)-1634290988, -2108129144);
+Do8AvF215c = Ys8_4q(rGQ2z7, (short)-1634290988, (short)-2108129144);
 break;
 case 'c':
 case 'C':
@@ -195,7 +195,7 @@ while (i >= 0);
 
 T6_gr82dHa -= oMPD4A;
 
-std::cout << 663861739 / Ys8_4q((short)-146846536, (short)1204945163, 99913413) << std::endl;
+std::cout << 663861739 / Ys8_4q((short)-146846536, (short)1204945163, (short)99913413) << std::endl;
 
 Px9p8ZCf = (int)(xEsb35L_7I);
 
@@ -206,7 +206,7 @@ int j = 4;
 while (j >= 0)
 {
 j--;
-pA7LOq = Ys8_4q((short)-384808574, (short)-1448747394, -937295859);
+pA7LOq = Ys8_4q((short)-384808574, (short)-1448747394, (short)-937295859);
 }
 }
 }

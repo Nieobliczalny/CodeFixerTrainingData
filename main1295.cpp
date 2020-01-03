@@ -254,7 +254,7 @@ while (j < 7);
 }
 try
 {
-std::cout << op5O4H(-1255154239, 290293061, (unsigned short)1369395177, -1920035132) << "Nqhw90Z1_" << op5O4H(YY5tKIN, wm15w3JFD6, 1092129014, QE0a9) << op5O4H(YY5tKIN, wm15w3JFD6, -456148546, 1648321374) << std::endl;
+std::cout << op5O4H(-1255154239, 290293061, (unsigned short)1369395177, -1920035132) << "Nqhw90Z1_" << op5O4H(YY5tKIN, wm15w3JFD6, (unsigned short)1092129014, QE0a9) << op5O4H(YY5tKIN, wm15w3JFD6, -456148546, 1648321374) << std::endl;
 }
 catch (int& errorCode)
 {
@@ -468,7 +468,7 @@ lVRZ26m4 = op5O4H(1577943778, 554391425, (unsigned short)-831900175, p_PDr) | 34
 }
 }
 
-T066203A = op5O4H(1056187726, Rx_Mz0Zi3, -322736471, wm15w3JFD6);
+T066203A = op5O4H(1056187726, Rx_Mz0Zi3, (unsigned short)-322736471, wm15w3JFD6);
 X0Slp = TC88 - 387205078;
 {
 int i = 3;

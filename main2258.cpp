@@ -24,7 +24,7 @@ int main(void) {
   short  RMA9OM0E;
   RMA9OM0E  =  (short)-958967414;
   unsigned short  C61ndq6ZM;
-  C61ndq6ZM  =  -1258615290;
+  C61ndq6ZM  =  (unsigned short)-1258615290;
 	unsigned short	WtfX8A3N;
 	WtfX8A3N	=	803697926;
   unsigned short int  XZ4pcQUg2;
@@ -56,7 +56,7 @@ int main(void) {
     unsigned char    Gue6OMi0;
     Gue6OMi0    =    (unsigned char)1156160462;
 	unsigned short	eJ0P350;
-	eJ0P350	=	-421126510;
+	eJ0P350	=	(unsigned short)-421126510;
     short    qM3mC0aF;
     qM3mC0aF    =    2090195246;
  int paazzKcL;
@@ -120,7 +120,7 @@ int main(void) {
   unsigned int  R0azurUm;
   R0azurUm  =  1820783065;
   short int  wi1P_0X;
-  wi1P_0X  =  1519064309;
+  wi1P_0X  =  (short)1519064309;
  float H7qN2Oi;
  H7qN2Oi = 1137751217;
     double    Ny2Uc_Vy9;

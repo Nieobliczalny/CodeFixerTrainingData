@@ -65,7 +65,7 @@ int main()
   unsigned short int  y4GC3R_g91;
   y4GC3R_g91  =  (unsigned short)-1245250426;
   short  P498e;
-  P498e  =  -1082652319;
+  P498e  =  (short)-1082652319;
   unsigned long  Uo9306gkJ4;
   Uo9306gkJ4  =  -2063497288;
   long long  Hzhv3Q49;

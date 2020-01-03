@@ -24,7 +24,7 @@ unsigned short    q4Wn14B(long long    dt3x50Jv,unsigned short    O_OF6,long    
 }
 
 unsigned char  i14y(unsigned long long  RkyYO5l_4t)  {
-  return  650707421;
+  return  (unsigned char)650707421;
 }
 
 int main(void)
@@ -34,7 +34,7 @@ int main(void)
 	long long	L9hd7	=	0;
   short int  JauArf  =  (short)-1669085516;
 	unsigned char	WgrgK	=	(unsigned char)-1671851108;
-	unsigned short int	fk_j	=	791632710;
+	unsigned short int	fk_j	=	(unsigned short)791632710;
     long    R6Et_k    =    -1285186946;
 	unsigned long	p521OCn9b5	=	-1955730497;
     unsigned short int    ylOTb    =    -1981817994;
@@ -52,7 +52,7 @@ int main(void)
 	unsigned int	ne31t	=	1515904961;
   char  exiyJ  =  (char)1265620065;
   double  Y2c41ESqr  =  1912534741;
-    short    XlJg    =    901710807;
+    short    XlJg    =    (short)901710807;
     unsigned short    Y6Y67n8x1    =    520974486;
  long long U13kck = -1551325147;
  unsigned short int H3RmO94 = (unsigned short)-141682547;
@@ -63,7 +63,7 @@ int main(void)
   char  xB78Ug  =  (char)-531570392;
  unsigned short int itF3 = -1951032388;
     double    l6oEv    =    348461400;
-    unsigned short    Br_8Xf32    =    151051570;
+    unsigned short    Br_8Xf32    =    (unsigned short)151051570;
   unsigned long long  F9x4vw0a_  =  1432252140;
  unsigned int yCCDnk_i = 1225278310;
   unsigned short  S7___2  =  (unsigned short)668283554;
@@ -74,7 +74,7 @@ int main(void)
 	long	kW_498	=	126948513;
 	unsigned long long	As14Fe65i	=	-842901648;
     char    EK8a9SW    =    (char)-5252984;
-    unsigned short int    z9DKsp_K    =    1825761466;
+    unsigned short int    z9DKsp_K    =    (unsigned short)1825761466;
 
 try
 {

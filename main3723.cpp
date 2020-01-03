@@ -27,7 +27,7 @@ int main(int argc, char** argv) {
   long long  JqU9o_sAkA  =  695361979;
   unsigned long long  lt5Ek1vrTk  =  -1349372650;
 	double	APn3s93	=	1562778238;
-    unsigned short    HeN3S5GVG    =    1332698268;
+    unsigned short    HeN3S5GVG    =    (unsigned short)1332698268;
 	unsigned char	cGezZf2B3x	=	(unsigned char)-2039657710;
     unsigned int    Z8UI    =    -1884290090;
  unsigned short HTImS6k5f = (unsigned short)640334770;
@@ -50,7 +50,7 @@ int main(int argc, char** argv) {
  short aj__ = (short)-542316145;
   short  HHPr_0PN3  =  (short)1006280396;
   unsigned long long  Pg7J  =  36548644;
- char P_CnUPh9a = -426927187;
+ char P_CnUPh9a = (char)-426927187;
   float  iHWDNBw7F  =  -1066188514;
     long long    CblQq_iB    =    -1816164451;
 	unsigned long long	ph0x59A0P8	=	-911019059;
@@ -60,7 +60,7 @@ int main(int argc, char** argv) {
  unsigned short Cie4HUU = (unsigned short)-830763063;
 	unsigned long	r__m6zfFAb	=	-1523303653;
     unsigned char    qRCR    =    (unsigned char)1815101577;
- char FU6f = 673021842;
+ char FU6f = (char)673021842;
  double O_md = 1586608201;
 	long double	khkziwVE	=	-497434942;
     unsigned char    Xqv60akG5    =    1437396624;
@@ -75,7 +75,7 @@ int main(int argc, char** argv) {
 	unsigned int	f9s_G	=	475408343;
  unsigned short int V8Udy = (unsigned short)1409836171;
   long long  u31d8N1  =  -137737935;
-  unsigned short  rKeAT9cb  =  51509184;
+  unsigned short  rKeAT9cb  =  (unsigned short)51509184;
     char    h_97E5_    =    1905317907;
  unsigned short int rlo9q = (unsigned short)287824948;
  unsigned long n27yyqk2eZ = -337670489;
@@ -90,7 +90,7 @@ int main(int argc, char** argv) {
  double B8Gc = 1501604437;
   unsigned short int  kt85E  =  (unsigned short)-218232977;
   long  R36pi  =  933401370;
-	short int	rJRb	=	1193695205;
+	short int	rJRb	=	(short)1193695205;
 	short	D5lt	=	-44055427;
  unsigned long QpU87 = -1153845028;
 	long double	S0b7_26I	=	584339049;
@@ -101,7 +101,7 @@ int main(int argc, char** argv) {
 	float	zYYi	=	1087594635;
 	short	gdx3	=	(short)332475048;
     unsigned long long    ZZM9DZ6zp5    =    1455560778;
-    short    Ptxfv1l    =    1485652908;
+    short    Ptxfv1l    =    (short)1485652908;
 	char	S122XuyF2E	=	-213825023;
   long double  lH45  =  1630724944;
  short tQ4YX4mo = 1687000466;

@@ -62,7 +62,7 @@ std::cout << Su8NAX2878(lLxfy16, Ykw4sEB, KnlSXdMZZ) << Su8NAX2878(lLxfy16, Ykw4
 }
 while (i >= 0);
 }
-QfOp = Su8NAX2878(lLxfy16, -414535333, KnlSXdMZZ) / P6X_Ujq;
+QfOp = Su8NAX2878(lLxfy16, (unsigned char)-414535333, KnlSXdMZZ) / P6X_Ujq;
 if (QfOp <= PQJGh922)
 {
 std::cout << "QQFS" << JxNSgIp2 << z_Pks2(lLxfy16) << Su8NAX2878(-831990291, -1194214036, 288490089) << Vmg9oT2r(1764687350, -447562261) << std::endl;
@@ -126,7 +126,7 @@ case 2:
 PQJGh922 = r_7A(2142919051, ypST3, (unsigned char)465118395, (short)1896477416, -132705408);
 break;
 case 3:
-P6X_Ujq = Su8NAX2878(F9136mZzaV, -2046656981, JxNSgIp2);
+P6X_Ujq = Su8NAX2878(F9136mZzaV, (unsigned char)-2046656981, JxNSgIp2);
 break;
 case 4:
 P6X_Ujq = Su8NAX2878(1976272861, QfOp, 607362758);
@@ -175,7 +175,7 @@ case 'd':
 F9136mZzaV = r_7A(-522628219, -750310236, PQJGh922, (short)1615280336, H2Pgq);
 break;
 case 'e':
-P6X_Ujq = Su8NAX2878(1001824915, 744168727, QfOp);
+P6X_Ujq = Su8NAX2878(1001824915, (unsigned char)744168727, QfOp);
 break;
 case 'f':
 w_DNwDZ++;

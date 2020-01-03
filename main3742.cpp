@@ -109,7 +109,7 @@ case 'a':
 GGPx_QAL = HQ4CHH5USu((short)-1932195810, (unsigned short)-1021365270, N4tIyXy7c);
 break;
 case 'b':
-x00Xpfo855 = HQ4CHH5USu(1461201125, s34_F, Zz9gt_3aL);
+x00Xpfo855 = HQ4CHH5USu((short)1461201125, s34_F, Zz9gt_3aL);
 break;
 case 'c':
 LV59mYu1v = (GGPx_QAL != -1844239083) ? -2106178258 : Y9PIIjV8z;
@@ -407,7 +407,7 @@ bPbpuB5n = e9SF1();
 }
 if (N4tIyXy7c <= 1642585154)
 {
-ZbElwPFR = HQ4CHH5USu(x27MOEAah, (unsigned short)-743063196, 566889654);
+ZbElwPFR = HQ4CHH5USu(x27MOEAah, (unsigned short)-743063196, (unsigned char)566889654);
 }
 else if (LV59mYu1v == -1583837066)
 {
@@ -558,7 +558,7 @@ else
 {
 std::cout << e9SF1() << A11WXUgiJ << HQ4CHH5USu(U34321b8d, (unsigned short)-1366383845, (unsigned char)-363881240) << std::endl;
 }
-std::cout << HQ4CHH5USu(1458283945, 254291836, eWFo) << e9SF1() << e9SF1() << bPbpuB5n << std::endl;
+std::cout << HQ4CHH5USu((short)1458283945, 254291836, eWFo) << e9SF1() << e9SF1() << bPbpuB5n << std::endl;
 try
 {
 {

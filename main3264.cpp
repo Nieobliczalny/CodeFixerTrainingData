@@ -64,7 +64,7 @@ int main(int argc, char** argv) {
 	char	sTnt;
 	sTnt	=	(char)-87740825;
 	unsigned short int	TL538aXJ0k;
-	TL538aXJ0k	=	-763196314;
+	TL538aXJ0k	=	(unsigned short)-763196314;
   unsigned long  s5S6;
   s5S6  =  91469054;
 	double	M3pG_KiL;
@@ -80,7 +80,7 @@ int main(int argc, char** argv) {
 	unsigned char	h7Y9H0kG;
 	h7Y9H0kG	=	(unsigned char)-1679258909;
     short    sKVYMH;
-    sKVYMH    =    1636576185;
+    sKVYMH    =    (short)1636576185;
  unsigned int u1q4d17f;
  u1q4d17f = 441506975;
   unsigned short int  H1A25JHS3b;
@@ -106,7 +106,7 @@ int main(int argc, char** argv) {
  double kYp0J06_O;
  kYp0J06_O = -1600665449;
     char    j2jzfb;
-    j2jzfb    =    -2046335048;
+    j2jzfb    =    (char)-2046335048;
 	short	hZnYz;
 	hZnYz	=	19261;
     unsigned long    e8f96GGj;
@@ -240,7 +240,7 @@ case 'c':
 TL538aXJ0k = ONgx_6W << 2069874607;
 break;
 case 'd':
-GX1Ql0liUl = fU8I(-1184298231, -164497510, kYp0J06_O);
+GX1Ql0liUl = fU8I((unsigned short)-1184298231, -164497510, kYp0J06_O);
 break;
 case 'e':
 s5S6 = r8h4O8Yg + ayn_;
@@ -252,7 +252,7 @@ case 'g':
 PB70HjSu = (int)abs(Qv31D9S);
 break;
 case 'h':
-SOA954b_9x = F1qplyBL5s(935478717, 1307710347, 376552885, hE7YF, H1A25JHS3b);
+SOA954b_9x = F1qplyBL5s((unsigned short)935478717, 1307710347, 376552885, hE7YF, H1A25JHS3b);
 break;
 case 'i':
 iAlDnY_ ^= 868199955;
@@ -385,7 +385,7 @@ X73Ek = (int)abs(YYH9Xr);
 kYp0J06_O = fU8I((unsigned short)718598430, e8f96GGj, (short)-1673092308);
 try
 {
-it4ds = fU8I(606632977, 322047854, hE7YF);
+it4ds = fU8I((unsigned short)606632977, 322047854, hE7YF);
 }
 catch (int& errorCode)
 {
@@ -434,7 +434,7 @@ for (int j = 10; j >= 0; j--)
 {
 for (int k = 5; k >= 0; --k)
 {
-h7Y9H0kG = fU8I(-2001139165, k3sGjW4_GG, 1454447156);
+h7Y9H0kG = fU8I((unsigned short)-2001139165, k3sGjW4_GG, 1454447156);
 }
 }
 --i;
@@ -541,7 +541,7 @@ afIVi = fU8I(afIVi, 440741853, (short)-783997490);
 switch (o_bl)
 {
 case 'a':
-W1X7Uo0cut = fU8I((unsigned short)1634952222, LbM9O45, 839562517);
+W1X7Uo0cut = fU8I((unsigned short)1634952222, LbM9O45, (short)839562517);
 break;
 case 'b':
 gN_9l1evZ = hZnYz / e8f96GGj;

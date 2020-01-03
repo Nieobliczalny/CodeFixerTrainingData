@@ -125,7 +125,7 @@ if (Xpf34wu == IT_vExQkv3)
 switch (xZGAD5x)
 {
 case 0:
-QP7_ = BUwu2Nqd(xZGAD5x, 451867568);
+QP7_ = BUwu2Nqd(xZGAD5x, (unsigned short)451867568);
 break;
 case 1:
 c0sGacC = ip3N_uG12J & fUGu;
@@ -338,7 +338,7 @@ case 8:
 zZK4v = PWIq * 119174839;
 break;
 case 9:
-BlR7QJz8_ = voH0ax8H7((char)-139295323, -1577996717);
+BlR7QJz8_ = voH0ax8H7((char)-139295323, (short)-1577996717);
 break;
 default:
 pR7_ = ip3N_uG12J % 586800751;

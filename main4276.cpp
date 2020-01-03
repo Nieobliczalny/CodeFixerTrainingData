@@ -26,7 +26,7 @@ int main() {
 
 try
 {
-f58_e = zF6l1HK(f58_e, (short)1693173414, (char)816839098, 1058581971, 1448479539);
+f58_e = zF6l1HK(f58_e, (short)1693173414, (char)816839098, (unsigned short)1058581971, 1448479539);
 }
 catch (int& errorCode)
 {
@@ -150,7 +150,7 @@ xX10 = OYyx(UBlk0M, -2072080415) << 1096470789;
 }
 else
 {
-cout << "Caxa71qm" << FfGfEU((short)564189747, ScY1YjR, s2J53wAw) << zF6l1HK(UBlk0M, ScY1YjR, s2J53wAw, (unsigned short)-631361470, t2rmJO) << FfGfEU(684630660, ScY1YjR, 549706004) << endl;
+cout << "Caxa71qm" << FfGfEU((short)564189747, ScY1YjR, s2J53wAw) << zF6l1HK(UBlk0M, ScY1YjR, s2J53wAw, (unsigned short)-631361470, t2rmJO) << FfGfEU((short)684630660, ScY1YjR, 549706004) << endl;
 }
 
 {

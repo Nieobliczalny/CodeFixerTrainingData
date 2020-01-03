@@ -46,7 +46,7 @@ break;
 }
 
 std::cout << Q13BM5I(1521862435, idT2T44, ZS3bc3c3, i9QGJR_o, wBCj) << Da7FiV((unsigned char)-1710183151, 1374653433, ZS3bc3c3, -1145365847) << cFrv << JiZ2gGsE(1175387046, -1575125201) << b_4TB << std::endl;
-std::cout << Da7FiV(a65kVM2, idT2T44, ZS3bc3c3, i9QGJR_o) << F2y41CR5n2 << Q13BM5I(2065470298, idT2T44, (short)36513425, -1961167522, -1250755548) << "fug4ay" << std::endl;
+std::cout << Da7FiV(a65kVM2, idT2T44, ZS3bc3c3, i9QGJR_o) << F2y41CR5n2 << Q13BM5I(2065470298, idT2T44, (short)36513425, (short)-1961167522, -1250755548) << "fug4ay" << std::endl;
 switch (l2x4V2Anb8)
 {
 case 0:
@@ -59,7 +59,7 @@ case 2:
 tEQFA4q = Q13BM5I(tEQFA4q, 998730161, (short)102866008, (short)826034606, -558224583);
 break;
 case 3:
-xe7klX45 = Da7FiV(368492165, -752452021, 1064259138, XmsHy43);
+xe7klX45 = Da7FiV((unsigned char)368492165, -752452021, 1064259138, XmsHy43);
 break;
 case 4:
 wBCj += tIKY;
@@ -112,7 +112,7 @@ else
 {
 if (P8L94batb9 == vXZze2_o8l)
 {
-huA5 = Q13BM5I(1264084695, -1119393462, -254040086, -1612202143, -587033237);
+huA5 = Q13BM5I(1264084695, -1119393462, (short)-254040086, -1612202143, -587033237);
 }
 else
 {

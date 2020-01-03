@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
 	long long	T_Li	=	1825128757;
  char CX0n1 = (char)468533209;
   short  kG4XdFN  =  (short)-319343146;
-	short int	Y4Od4H10A1	=	-541337427;
+	short int	Y4Od4H10A1	=	(short)-541337427;
  int LV35 = 49252619;
 	short int	E3q6	=	0;
     unsigned short    D6QK82W    =    202186911;
@@ -47,7 +47,7 @@ int main(int argc, char** argv) {
  float YH450v6 = -1570419254;
 	int	I3lVa1	=	1066880039;
  long x_qWt = 117961794;
- unsigned char hl7hB_GQu9 = 76451344;
+ unsigned char hl7hB_GQu9 = (unsigned char)76451344;
 	unsigned char	OWdv	=	(unsigned char)199724439;
 	long	obMXl1cBe	=	-245007376;
   char  xoHt_J2fs  =  1448208045;
@@ -57,7 +57,7 @@ int main(int argc, char** argv) {
 	unsigned char	o209sb	=	1871156822;
 	short int	V11v4	=	-906512238;
     unsigned short    TPk5k_N    =    -297082913;
-    unsigned short    gUy4_01G    =    -1076091911;
+    unsigned short    gUy4_01G    =    (unsigned short)-1076091911;
     long    b7LBuz    =    1999125390;
 	unsigned char	S5tSKd	=	(unsigned char)2100839172;
 	float	vy01	=	-263291227;
@@ -68,7 +68,7 @@ int main(int argc, char** argv) {
 
 if (p8VaG9 == 0)
 {
-	o51i24FAjy = Ab8NND9((unsigned short)1669629147, -1595068162, CN7D0oi, 138624144, LV35) / p8VaG9;
+	o51i24FAjy = Ab8NND9((unsigned short)1669629147, (unsigned short)-1595068162, CN7D0oi, 138624144, LV35) / p8VaG9;
 }
 YH450v6 = (float)(vn_8lI);
 if (((vy01) && (Z_C9 < -384671518)) && (S5tSKd < CX0n1))
@@ -104,7 +104,7 @@ if (D6QK82W != I3lVa1)
 {
 for (int j = 6; j >= 0; --j)
 {
-p8VaG9 = Ab8NND9((unsigned short)2122131911, 1017437235, 381617418, 2143856602, D6QK82W);
+p8VaG9 = Ab8NND9((unsigned short)2122131911, (unsigned short)1017437235, 381617418, 2143856602, D6QK82W);
 }
 }
 else if (vn_8lI)

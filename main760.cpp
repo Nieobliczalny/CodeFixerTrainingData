@@ -28,7 +28,7 @@ int main() {
     char    V012u_93X,    wU5p,    Xfx0,    A65li,    F0hdi7_S,    Nc_uk8,    r7CSs1L,    Tg8PD24zzQ,    J4Tby,    FN_yzzv,    y8hY,    V8ArCH,    h0CP,    k58CmP,    o_8_nhr51d,    dOxs9wp3C,    ozC8,    CeQ4zmZu,    o854XWH2OM,    yzR53U7_O,    r40xQYX15l,    kt9bs,    IBjKi4Kx2M,    SC7xq3Z,    Fv226e3y,    ehAlG7,    k2u4y47j,    y4DCVtLoOX,    xkiR,    AiYmFtD5,    ip_6FV,    NTz2eLR,    nWPG427zV,    x9qy,    L0P8,    X77YrN,    J_QM7,    WpziZ,    Z95ct6,    X767XW__M,    A709,    DHs8,    pB7_4hmY,    qKn6X1xsg;
     V012u_93X    =    (char)1100159466;
     wU5p    =    (char)-147097462;
-    Xfx0    =    1275723585;
+    Xfx0    =    (char)1275723585;
     A65li    =    1378816514;
     F0hdi7_S    =    -184329053;
     Nc_uk8    =    1983339608;
@@ -38,7 +38,7 @@ int main() {
     FN_yzzv    =    -486073608;
     y8hY    =    (char)1507236044;
     V8ArCH    =    (char)507021992;
-    h0CP    =    -1228319042;
+    h0CP    =    (char)-1228319042;
     k58CmP    =    1878623432;
     o_8_nhr51d    =    779341984;
     dOxs9wp3C    =    -2005727341;
@@ -48,7 +48,7 @@ int main() {
     yzR53U7_O    =    -1380106248;
     r40xQYX15l    =    (char)1941081103;
     kt9bs    =    (char)-1518573902;
-    IBjKi4Kx2M    =    662294530;
+    IBjKi4Kx2M    =    (char)662294530;
     SC7xq3Z    =    1234085279;
     Fv226e3y    =    -1888348309;
     ehAlG7    =    -1717024914;
@@ -58,7 +58,7 @@ int main() {
     AiYmFtD5    =    169870096;
     ip_6FV    =    (char)-1185048546;
     NTz2eLR    =    (char)584075066;
-    nWPG427zV    =    509832384;
+    nWPG427zV    =    (char)509832384;
     x9qy    =    986485477;
     L0P8    =    1234263701;
     X77YrN    =    1313357107;
@@ -68,7 +68,7 @@ int main() {
     X767XW__M    =    533840038;
     A709    =    (char)-643897670;
     DHs8    =    (char)1832884996;
-    pB7_4hmY    =    -1697299583;
+    pB7_4hmY    =    (char)-1697299583;
     qKn6X1xsg    =    307499871;
 
 std::cout << "rD_5RfF" << "w5na89cW" << E8zJD4(V012u_93X, -1565586749, Xfx0, A65li) << E8zJD4(V012u_93X, -1688749540, 1907394673, A65li) << "QG65" << std::endl;

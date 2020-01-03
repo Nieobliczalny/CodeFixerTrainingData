@@ -304,7 +304,7 @@ else if (GUS8 < -1195082155)
 switch (mwi_z_1)
 {
 case 0:
-e37wBqYp9 = WFPE6td4(SF4iHz77G, W8036AGQgz, -746414694, ArQ5);
+e37wBqYp9 = WFPE6td4(SF4iHz77G, W8036AGQgz, (char)-746414694, ArQ5);
 break;
 case 1:
 TR4x >>= mwi_z_1;
@@ -319,7 +319,7 @@ case 4:
 e37wBqYp9 = WFPE6td4(1911353802, g5uKm996, (char)-1690606331, mZvm043f);
 break;
 case 5:
-e37wBqYp9 = WFPE6td4(QkNd3bnfW, xl8YWm9w5P, (char)892512065, 836216539);
+e37wBqYp9 = WFPE6td4(QkNd3bnfW, xl8YWm9w5P, (char)892512065, (short)836216539);
 break;
 case 6:
 e37wBqYp9 = WFPE6td4(-1903538696, wCRAnTgYwS, IZjZfI63_j, 1528812133);
@@ -398,7 +398,7 @@ int j = 0;
 while (j < 8)
 {
 ++j;
-to1_FD9T = WFPE6td4(I8s5, 1525185750, 81663887, to1_FD9T);
+to1_FD9T = WFPE6td4(I8s5, 1525185750, (char)81663887, to1_FD9T);
 }
 }
 }
@@ -439,7 +439,7 @@ case 2:
 I8s5 *= e37wBqYp9;
 break;
 default:
-to1_FD9T = WFPE6td4(TR4x, -377060358, -86250251, -45683694);
+to1_FD9T = WFPE6td4(TR4x, -377060358, (char)-86250251, -45683694);
 break;
 }
 }
@@ -490,7 +490,7 @@ X6H2Fq = WFPE6td4(nh3G8c, DU96k, (char)1740994590, (short)-669337746) >> g5uKm99
 }
 else if (((n60H != GW2R) && (zN4MBKcr & GW2R)) || (Q1tG7_X != GW2R))
 {
-to1_FD9T = WFPE6td4(479995239, enB3c, GUS8, -1410031793);
+to1_FD9T = WFPE6td4(479995239, enB3c, GUS8, (short)-1410031793);
 }
 else if (U2uNyAi == -637680592)
 {
@@ -644,7 +644,7 @@ case 1:
 d__9 = c2t27_5Z3 - 818178628;
 break;
 case 2:
-e37wBqYp9 = WFPE6td4(1021219954, 1645341003, (char)-928691906, -800157979);
+e37wBqYp9 = WFPE6td4(1021219954, 1645341003, (char)-928691906, (short)-800157979);
 break;
 case 3:
 op_IFy7 = Bn8a7 + gXkKc__16;
@@ -680,7 +680,7 @@ if (hDtl_)
 {
 to1_FD9T = WFPE6td4(224745489, -621662996, (char)-601523434, (short)-477575427);
 }
-std::cout << WFPE6td4(1149469300, g5uKm996, f7yDV, op_IFy7) << WFPE6td4(XeEPDT, g5uKm996, 491501655, op_IFy7) << "FoEFFcgiP" << std::endl;
+std::cout << WFPE6td4(1149469300, g5uKm996, f7yDV, op_IFy7) << WFPE6td4(XeEPDT, g5uKm996, (char)491501655, op_IFy7) << "FoEFFcgiP" << std::endl;
 
 for (int i = 2; i >= 0; i--)
 {

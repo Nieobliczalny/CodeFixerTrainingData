@@ -18,7 +18,7 @@ int main() {
   long long  asbfBS  =  1594750017;
     char    zkp00yv    =    (char)1289647376;
 	unsigned short	auD_	=	(unsigned short)-372209677;
-	short	wL2uF	=	2018468380;
+	short	wL2uF	=	(short)2018468380;
   long double  Z5qoCT  =  1835386992;
 	unsigned char	WKtB	=	-147598479;
     unsigned long long    g1TO1G8iT    =    -1310116686;
@@ -29,7 +29,7 @@ int main() {
     long long    B440    =    -960635528;
   short int  Uo__8y1  =  (short)67639150;
  short int bjmm = (short)1194272929;
-    short int    e35g75jQ7x    =    -2044109447;
+    short int    e35g75jQ7x    =    (short)-2044109447;
   double  eL1o162  =  -1536445243;
  float d3S2kL9B2 = 1395331666;
     long    Zd639Hbt    =    38983967;
@@ -56,7 +56,7 @@ int main() {
 	unsigned short	hI52GqW5r	=	0;
  long double dzPyP = 995478303;
 	char	RVexnr8O_	=	(char)2103474674;
- unsigned short hN2Dv = -356196805;
+ unsigned short hN2Dv = (unsigned short)-356196805;
     unsigned char    wu63lNr2Fa    =    (unsigned char)-1502902777;
  unsigned short int u5B5SG82 = -1182871824;
  short J_22Lh7Mx = 0;
@@ -73,7 +73,7 @@ int main() {
     int    OuC1F    =    -326433612;
 	int	o4xg	=	-1492928241;
     float    cpUgR    =    -1941333131;
-    short int    cAJ71C90ni    =    1279704057;
+    short int    cAJ71C90ni    =    (short)1279704057;
 	unsigned short int	dAWZf4	=	201536133;
 	float	K7LYVwJ	=	-65213344;
     unsigned long long    bjM9Y    =    -442409817;
@@ -86,7 +86,7 @@ int main() {
   unsigned long  ksIqI  =  -1979109076;
   unsigned long  GPCGNib29M  =  -1301413662;
     long double    UJ10Cj    =    -200678973;
-    unsigned short int    BN5A649j    =    724029175;
+    unsigned short int    BN5A649j    =    (unsigned short)724029175;
  int l7_8vj9uc = -187518038;
  long long Vh0TvO = -1857862462;
  char G97BlYS = (char)-1761702973;
@@ -98,7 +98,7 @@ int main() {
 	unsigned int	Yh6u15iI	=	-71002032;
  unsigned long szzXxCP4 = -700307332;
     double    q5wc5br_    =    -455040035;
-	short int	oIl9	=	-1450597218;
+	short int	oIl9	=	(short)-1450597218;
     unsigned short    RKs3FeUe    =    (unsigned short)2040104254;
 	unsigned char	fULR_	=	-603775633;
  long yW_huS = 1236993676;

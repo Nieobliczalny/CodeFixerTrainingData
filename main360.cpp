@@ -755,7 +755,7 @@ case 1:
 S25_6dfZ5l = (int)abs(PD_7FsFZ);
 break;
 case 2:
-IBOXDLcQt = ot6iN((char)760106416, (unsigned char)-767140382, f1Q_6zGP, -1061263140);
+IBOXDLcQt = ot6iN((char)760106416, (unsigned char)-767140382, f1Q_6zGP, (short)-1061263140);
 break;
 case 3:
 a9o_3 >>= 943534634;

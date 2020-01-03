@@ -22,7 +22,7 @@ int main()
     char    N4AN,    D0F38Wsxq,    Nfxm__,    pv1R1J97K,    X_Qd856G,    MJ4rnHh7EB,    y9Du,    Z15o0,    QqG9DU;
     N4AN    =    (char)-2099494326;
     D0F38Wsxq    =    (char)-1823967927;
-    Nfxm__    =    -444975378;
+    Nfxm__    =    (char)-444975378;
     pv1R1J97K    =    -1155496224;
     X_Qd856G    =    -563110853;
     MJ4rnHh7EB    =    361145217;
@@ -95,7 +95,7 @@ else
 y9Du = (char)(X_Qd856G);
 }
 
-tY93H = zm0Ck((char)1909241533, 2103827801);
+tY93H = zm0Ck((char)1909241533, (short)2103827801);
 cout << "gcte" << "tFjWDbxCC0" << endl;
 
 b_F7Sa = (int)(iZrPu8OB88);
@@ -165,7 +165,7 @@ case 3:
 pv1R1J97K = (D0F38Wsxq) ? (char)1718306360 : (char)792471442;
 break;
 case 4:
-tY93H = zm0Ck(-1006538517, 1294419279);
+tY93H = zm0Ck((char)-1006538517, 1294419279);
 break;
 case 5:
 Nfxm__ = otg6Z8aC ^ QqG9DU;
@@ -195,7 +195,7 @@ case 2:
 D0F38Wsxq = (int)abs(MJ4rnHh7EB);
 break;
 case 3:
-iZrPu8OB88 = zm0Ck((char)902181929, -2049295394);
+iZrPu8OB88 = zm0Ck((char)902181929, (short)-2049295394);
 break;
 case 4:
 tY93H = (int)abs(pv1R1J97K) * 0;
@@ -210,7 +210,7 @@ case 7:
 iZrPu8OB88 = zm0Ck((char)1015116524, (short)-1187013394);
 break;
 default:
-otg6Z8aC = zm0Ck(N4AN, -1359810190);
+otg6Z8aC = zm0Ck(N4AN, (short)-1359810190);
 break;
 }
 
@@ -386,7 +386,7 @@ tY93H = zm0Ck((char)-1868674364, (short)1331403035);
 }
 else
 {
-b_F7Sa = zm0Ck(1889189883, -1900238542);
+b_F7Sa = zm0Ck((char)1889189883, -1900238542);
 }
 }
 catch (int& errorCode)
@@ -425,7 +425,7 @@ case 'e':
 Z15o0 = Nfxm__ << N4AN;
 break;
 case 'f':
-tY93H = zm0Ck(N4AN, 1882713866);
+tY93H = zm0Ck(N4AN, (short)1882713866);
 break;
 case 'g':
 QqG9DU--;
@@ -681,7 +681,7 @@ case 'c':
 MJ4rnHh7EB &= 1900516951;
 break;
 case 'd':
-otg6Z8aC = zm0Ck(431314846, 1373738115);
+otg6Z8aC = zm0Ck((char)431314846, 1373738115);
 break;
 case 'e':
 otg6Z8aC = zm0Ck(otg6Z8aC, (short)822396299);
@@ -729,7 +729,7 @@ try
 {
 for (int k = 0; k < 9; ++k)
 {
-Z15o0 = zm0Ck((char)694947665, -819034803) | 1644249965;
+Z15o0 = zm0Ck((char)694947665, (short)-819034803) | 1644249965;
 }
 }
 catch (int& errorCode)

@@ -28,7 +28,7 @@ int main(int argc, char** argv) {
   short  zX7hfkj44;
   zX7hfkj44  =  (short)834216263;
 	unsigned char	Qncv5oPY;
-	Qncv5oPY	=	-1005726459;
+	Qncv5oPY	=	(unsigned char)-1005726459;
  int FxgIpyCrVI;
  FxgIpyCrVI = -1677423088;
   long long  j399;
@@ -88,7 +88,7 @@ Uo_2w = (long double)(ZY80I);
 
 for (int i = 0; i < 5; ++i)
 {
-Z6m67 = a2u17_J((unsigned short)-750598996, zX7hfkj44, -1042122928);
+Z6m67 = a2u17_J((unsigned short)-750598996, zX7hfkj44, (unsigned short)-1042122928);
 }
 
 vhr3 = r3mC0E(Z6m67, zX7hfkj44, 1194280795, wd_5x8) >> 901043133;
@@ -129,7 +129,7 @@ else
 {
 if (wd_5x8 > e1LS5ScqI)
 {
-c_5yN20 = r3mC0E((short)-1662555245, (unsigned short)-1569129630, wJ2RP, -1641130473);
+c_5yN20 = r3mC0E((short)-1662555245, (unsigned short)-1569129630, wJ2RP, (short)-1641130473);
 }
 else if (HzLir >= -28278592)
 {
@@ -231,7 +231,7 @@ case 0:
 Z6m67 = (int)abs(wJ2RP);
 break;
 case 1:
-kNTwgUfoY = IpU_5((unsigned char)276042948, 531549613, (unsigned short)971362816, Qncv5oPY, -1143162461);
+kNTwgUfoY = IpU_5((unsigned char)276042948, 531549613, (unsigned short)971362816, Qncv5oPY, (short)-1143162461);
 break;
 }
 
@@ -323,7 +323,7 @@ wd_5x8 = IpU_5(wd_5x8, -1531539651, (unsigned short)820822410, 1062297149, wJ2RP
 }
 else
 {
-ZY80I = r3mC0E((short)-1842760192, PGaE, fw999, -476418038);
+ZY80I = r3mC0E((short)-1842760192, PGaE, fw999, (short)-476418038);
 }
 i++;
 }
@@ -368,7 +368,7 @@ case 2:
 ey91aw1ae = IpU_5(ey91aw1ae, 370601598, (unsigned short)1391908383, -124608959, vhr3);
 break;
 case 3:
-bCvT91i = IpU_5((unsigned char)1939713665, cxFe15574_, -332746522, 104112750, c_5yN20);
+bCvT91i = IpU_5((unsigned char)1939713665, cxFe15574_, (unsigned short)-332746522, 104112750, c_5yN20);
 break;
 case 4:
 R__9FW <<= 125627680;

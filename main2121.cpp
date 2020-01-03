@@ -20,7 +20,7 @@ int main(void)
     long    XcuROE    =    579511867;
  char Mb96D4UqWa = (char)-1492110109;
  unsigned char f8k8sV3M = (unsigned char)-647016500;
-  unsigned short  EX71bEenW  =  -1033375648;
+  unsigned short  EX71bEenW  =  (unsigned short)-1033375648;
   int  e8uV_  =  -148587308;
   long  UC18Po_1  =  0;
     long double    UBAvU72k1    =    -1799706477;
@@ -37,7 +37,7 @@ int main(void)
     long    LC1hon51I    =    -690689277;
  short int Z_N7Nj0 = (short)1657867342;
     char    u64klc    =    (char)341323779;
-	char	sdu7yyk	=	2072251867;
+	char	sdu7yyk	=	(char)2072251867;
     short    p4Pj_1V    =    -2131666854;
     long    Tzo399T8I    =    -1270531166;
  short r5Z_A0F = -1494423944;
@@ -53,7 +53,7 @@ int main(void)
   unsigned long  cd6ff5R1y  =  -1147964382;
   int  k2ymHs7  =  230766287;
   unsigned long  ZISg3cznB  =  -1385964435;
- unsigned char B_Mv6q = 594541871;
+ unsigned char B_Mv6q = (unsigned char)594541871;
  float n0Qn = 1775998851;
  unsigned char n3Gpl5 = 2143478884;
 	unsigned long long	wBKs6zCa_	=	1048884736;
@@ -64,7 +64,7 @@ int main(void)
   short  RHVz  =  (short)-2131072006;
   unsigned short int  v8x_dIBz  =  0;
     long double    b432bLa_0    =    -795758830;
-    unsigned short    snlmTxv8    =    -1425153146;
+    unsigned short    snlmTxv8    =    (unsigned short)-1425153146;
  unsigned int sMa3f = -1410587469;
  unsigned int eCPxvL0Q = -1309329595;
   long long  P8eIKH  =  1006740764;
@@ -75,7 +75,7 @@ int main(void)
   unsigned long long  fCzV_s  =  -1008250777;
     unsigned char    wnT_4qO686    =    (unsigned char)-966420401;
   unsigned char  e6330zpH97  =  (unsigned char)1423439866;
- char Ct_2b = -68958993;
+ char Ct_2b = (char)-68958993;
   unsigned long long  s8s3Wzs9q  =  -258231325;
     double    h5d58W2q7c    =    2033276775;
   unsigned long  Q59HWMDE4  =  -259616925;
@@ -96,7 +96,7 @@ int main(void)
   double  Q4nR8Y  =  -1073678352;
     unsigned short int    W1F31M3vT    =    (unsigned short)1525615537;
     long long    eztokgp3Wb    =    2131138802;
-    unsigned char    J33b5042    =    201791389;
+    unsigned char    J33b5042    =    (unsigned char)201791389;
 
 for (int i = UC18Po_1; i < 139; i++)
 {

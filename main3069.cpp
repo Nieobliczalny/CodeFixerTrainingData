@@ -44,7 +44,7 @@ int main() {
  unsigned long YUvu3WnmOU;
  YUvu3WnmOU = 1525783653;
     char    wkbUA;
-    wkbUA    =    173536091;
+    wkbUA    =    (char)173536091;
     unsigned short int    D0P8oT;
     D0P8oT    =    (unsigned short)-431799299;
   char  uprZ1p5_c;
@@ -60,7 +60,7 @@ int main() {
   long double  M3Jq8QIse;
   M3Jq8QIse  =  -1381931042;
 	short	L1PtBY_C;
-	L1PtBY_C	=	-1331529252;
+	L1PtBY_C	=	(short)-1331529252;
     unsigned short int    I5yB8Mb_b;
     I5yB8Mb_b    =    (unsigned short)-1930762782;
  short int HN64_jR;
@@ -70,7 +70,7 @@ int main() {
   unsigned long long  WOd6wuR;
   WOd6wuR  =  -166328279;
 	unsigned short	ek2b019Ql6;
-	ek2b019Ql6	=	1446856596;
+	ek2b019Ql6	=	(unsigned short)1446856596;
  unsigned int OL2tPz;
  OL2tPz = -516763174;
     unsigned int    xg0mOF;
@@ -100,7 +100,7 @@ int main() {
     long    D8J6;
     D8J6    =    -719046736;
     unsigned short int    L30mHM5;
-    L30mHM5    =    1119029608;
+    L30mHM5    =    (unsigned short)1119029608;
     unsigned long    Z5pX;
     Z5pX    =    -1781801582;
     long long    KN1EPl;
@@ -124,7 +124,7 @@ int main() {
     char    K0Kh;
     K0Kh    =    (char)1525788790;
  char ZcVDo508Q;
- ZcVDo508Q = -2045126792;
+ ZcVDo508Q = (char)-2045126792;
     long double    GS2pE050;
     GS2pE050    =    311918705;
   short int  NGJ4e;
@@ -163,7 +163,7 @@ case 2:
 icMo029Qq = mXO7O84V((short)-1607882170, -2128401930, (unsigned char)296363909);
 break;
 case 3:
-WZPNqmq4N = Reo_6(g_p9v3DM, WZPNqmq4N, 2028970817);
+WZPNqmq4N = Reo_6(g_p9v3DM, WZPNqmq4N, (short)2028970817);
 break;
 case 4:
 GS2pE050 = (int)floor(M3Jq8QIse);
@@ -237,7 +237,7 @@ else if ((C3gdON <= 102930170) || (I5yB8Mb_b >= -1581527542))
 {
 try
 {
-JwU18D6 = mXO7O84V((short)-423097577, -1782413539, 177684170);
+JwU18D6 = mXO7O84V((short)-423097577, -1782413539, (unsigned char)177684170);
 }
 catch (int& errorCode)
 {
@@ -316,7 +316,7 @@ if (I5yB8Mb_b <= LGpzgf0E7U)
 {
 if (((uprZ1p5_c & g_p9v3DM) && (c7eB <= fmE5_xw)) && (HN64_jR < 952362648))
 {
-NGJ4e = SaJSLE(NGJ4e, C5gSAB, 1762355371);
+NGJ4e = SaJSLE(NGJ4e, C5gSAB, (unsigned short)1762355371);
 }
 else if (y3HIXn > -1755176394)
 {

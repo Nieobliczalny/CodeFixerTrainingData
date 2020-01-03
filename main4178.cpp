@@ -289,7 +289,7 @@ case 1:
 JKHTbJDD9n = ZIXXiNvHl - 346942940;
 break;
 case 2:
-JKHTbJDD9n = Y6pYOwa46(JKHTbJDD9n, -2038890814, -796375046, 1324054476, -396649368);
+JKHTbJDD9n = Y6pYOwa46(JKHTbJDD9n, (unsigned char)-2038890814, -796375046, 1324054476, -396649368);
 break;
 case 3:
 dBPIqi = (int)floor(tTllo);
@@ -313,7 +313,7 @@ break;
 }
 else
 {
-std::cout << "ueXBZU" << "fTILp2dvu" << RZ_kYct90V((unsigned char)602349989, 100868649) << RZ_kYct90V(ubfF4i, -1930473263) << std::endl;
+std::cout << "ueXBZU" << "fTILp2dvu" << RZ_kYct90V((unsigned char)602349989, (unsigned short)100868649) << RZ_kYct90V(ubfF4i, -1930473263) << std::endl;
 }
 }
 else if ((LNh1E1b_c & 1869148807) && (I7C3Gid != i7qU67Ocn))
@@ -376,7 +376,7 @@ case 'e':
 ubfF4i = Y6pYOwa46(1343022607, (unsigned char)1439627251, ZIXXiNvHl, -1029054577, dBPIqi);
 break;
 case 'f':
-ZIXXiNvHl = Uvy5O8K((unsigned short)-1505390407, -841530217, -1686176534, ubfF4i);
+ZIXXiNvHl = Uvy5O8K((unsigned short)-1505390407, -841530217, (unsigned short)-1686176534, ubfF4i);
 break;
 case 'g':
 tTllo = JKHTbJDD9n - 1304221976;

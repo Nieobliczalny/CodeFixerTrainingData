@@ -57,7 +57,7 @@ int main(int argc, char** argv) {
  char C07YT2i;
  C07YT2i = (char)1137361175;
  unsigned short int aUxyt5_E;
- aUxyt5_E = 365845180;
+ aUxyt5_E = (unsigned short)365845180;
   unsigned char  t_9bgcw;
   t_9bgcw  =  -143413485;
  long long FTBNk;
@@ -665,7 +665,7 @@ if ((bUvlL0VF3o >= aUxyt5_E) && (dMFzl7F))
 r1TscXUZZ = MA_7DnUR % bUvlL0VF3o;
 }
 
-cout << "m60SmHqto" << tCbE3(aUxyt5_E, o1en, LO_7EEK, -1580047253) << aUxyt5_E << endl;
+cout << "m60SmHqto" << tCbE3(aUxyt5_E, o1en, LO_7EEK, (char)-1580047253) << aUxyt5_E << endl;
 {
 int i = 5;
 do

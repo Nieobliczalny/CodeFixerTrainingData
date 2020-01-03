@@ -36,7 +36,7 @@ int main() {
 	long	z9auBlPS7;
 	z9auBlPS7	=	-2014707799;
 	short	F45CtTkO32;
-	F45CtTkO32	=	484301932;
+	F45CtTkO32	=	(short)484301932;
   unsigned short  T1g_2lB0cg;
   T1g_2lB0cg  =  (unsigned short)-1033405629;
     long double    yj5ct2;
@@ -86,7 +86,7 @@ int main() {
 	long double	jm5rt0D;
 	jm5rt0D	=	372047682;
 	unsigned char	BjDs4;
-	BjDs4	=	1800849709;
+	BjDs4	=	(unsigned char)1800849709;
   char  k5LIv_;
   k5LIv_  =  0;
     char    E_w4;
@@ -116,7 +116,7 @@ int main() {
 	unsigned char	q77XCh;
 	q77XCh	=	(unsigned char)-1790610629;
  unsigned short xTq06g;
- xTq06g = -1088589662;
+ xTq06g = (unsigned short)-1088589662;
   unsigned char  sS2A;
   sS2A  =  1722903187;
   unsigned long long  QD6A94;
@@ -136,7 +136,7 @@ int main() {
   double  fRy68fm;
   fRy68fm  =  -647430496;
   unsigned short int  s6_N9E;
-  s6_N9E  =  1947096152;
+  s6_N9E  =  (unsigned short)1947096152;
   long long  Z86rmT1b4;
   Z86rmT1b4  =  -1322283413;
 	long long	u3xeZNSPuJ;
@@ -299,7 +299,7 @@ switch (cBZRAH5ld)
 {
 case 'a':
 case 'A':
-sS2A = WbTekUWW((unsigned short)-1105348119, QD6A94, 95545023, cBZRAH5ld);
+sS2A = WbTekUWW((unsigned short)-1105348119, QD6A94, (short)95545023, cBZRAH5ld);
 break;
 case 'b':
 case 'B':
@@ -381,7 +381,7 @@ NzeGQ2zkK_ = Fc0N9 ^ 1408519464;
 std::cout << rwPCI04tU << WbTekUWW((unsigned short)-1633647346, (short)-1954532841, jm5rt0D, aSi0jth_7a) << std::endl;
 for (int i = 0; i < 5; i++)
 {
-Z86rmT1b4 = MyQE4Uiw_W(Z86rmT1b4, 2074747790, 737292519, zF1Q4l2ig, NO_SMBj9);
+Z86rmT1b4 = MyQE4Uiw_W(Z86rmT1b4, (unsigned short)2074747790, 737292519, zF1Q4l2ig, NO_SMBj9);
 }
 fRy68fm = k5LIv_ / k5LIv_;
 
@@ -430,7 +430,7 @@ case 1:
 Fc0N9 = lyaZ5Yg(Fc0N9, MMbK_db6I1);
 break;
 case 2:
-Sw1H_Yzr = jeBZlwh(-919577582, T1g_2lB0cg, -1851592479);
+Sw1H_Yzr = jeBZlwh(-919577582, T1g_2lB0cg, (short)-1851592479);
 break;
 case 3:
 f6DFo = (int)ceil(cck95QL);
@@ -569,7 +569,7 @@ case 4:
 u3xeZNSPuJ = (int)abs(R6DM_RUy7);
 break;
 case 5:
-s6_N9E = lyaZ5Yg(-388768868, -252022367);
+s6_N9E = lyaZ5Yg((short)-388768868, -252022367);
 break;
 }
 }
@@ -607,7 +607,7 @@ case 'c':
 FE210694X = N14_eV - VSURAvKi6;
 break;
 case 'd':
-TyR8_ = WbTekUWW(TyR8_, (short)-1849706758, -1805434827, 1570335033);
+TyR8_ = WbTekUWW(TyR8_, (short)-1849706758, (short)-1805434827, 1570335033);
 break;
 case 'e':
 cck95QL = (int)floor(Ky7zuO);

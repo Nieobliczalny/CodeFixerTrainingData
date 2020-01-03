@@ -55,7 +55,7 @@ int main(int argc, char** argv) {
  unsigned short int a1Ft;
  a1Ft = (unsigned short)-1758254519;
 	short	rQt1t_Lg2e;
-	rQt1t_Lg2e	=	1716774984;
+	rQt1t_Lg2e	=	(short)1716774984;
   long long  pjAIbG_1T;
   pjAIbG_1T  =  1444904851;
     short    uyo9z0c;

@@ -23,7 +23,7 @@ int main()
  unsigned short int jhj4Q86Xh = (unsigned short)2008458789;
  long sBM7 = 96850326;
   double  eOqRE  =  1672658051;
- short AZReZ5 = 683921970;
+ short AZReZ5 = (short)683921970;
  double PBrA4 = -891967450;
  long long T00f_r56 = 2022535382;
  short int APh3s = -519251201;
@@ -35,7 +35,7 @@ int main()
  short int s7GHGSy9 = (short)-1648014506;
 	char	ne_f5I1bm	=	(char)-1095460954;
   short  ME88_68L  =  0;
-  short  z9Hm3jq1_  =  1955791469;
+  short  z9Hm3jq1_  =  (short)1955791469;
     unsigned long long    O8VGw3gMF_    =    168286695;
  long long U6YffWTnj = -7763645;
   short int  sC59N1Z  =  1190644426;
@@ -53,7 +53,7 @@ int main()
     double    i8RR2    =    -117141891;
  short int vKgEt = (short)-58958307;
  unsigned int NWHPe548il = -790351358;
-	unsigned short int	Ti2420Ir	=	-565836245;
+	unsigned short int	Ti2420Ir	=	(unsigned short)-565836245;
  unsigned long long T4cF = 2073357422;
     unsigned short int    Zggc6_M1aY    =    -1523926010;
  unsigned int FlfAm7M_1g = -1011877857;
@@ -63,7 +63,7 @@ int main()
  unsigned short int WzUPx1Bu4 = 2033202163;
 	short int	C_UwaeC	=	(short)-61574583;
 	int	rEUT_qI	=	1714376844;
-	unsigned char	TWx63	=	-2116865087;
+	unsigned char	TWx63	=	(unsigned char)-2116865087;
   long long  I9o8e5RfOj  =  585625957;
     unsigned short    Lx_Vo    =    986033494;
 	double	QlR853	=	488823358;
@@ -93,7 +93,7 @@ int main()
   long long  dR425  =  863756169;
     int    TJ_Tdq3eW4    =    -698333565;
   short int  G53soB  =  (short)-784573608;
- unsigned short rWMEZ1F1sv = -1730547129;
+ unsigned short rWMEZ1F1sv = (unsigned short)-1730547129;
 	unsigned int	IMEr3TDKLF	=	327240736;
 	short int	EEitlA74Es	=	(short)1852526138;
   short int  o2_lp11o  =  -1281475174;
@@ -123,7 +123,7 @@ int main()
 int i = 8;
 while (i >= 0)
 {
-std::cout << T00f_r56 << hVZ3Y(-713442368) << Kv2FB6RUN << o1b9Nk << std::endl;
+std::cout << T00f_r56 << hVZ3Y((unsigned short)-713442368) << Kv2FB6RUN << o1b9Nk << std::endl;
 --i;
 }
 }

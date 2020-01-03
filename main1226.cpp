@@ -54,7 +54,7 @@ int main()
   char  Wj4gl;
   Wj4gl  =  (char)-2139351159;
  short p98lw_;
- p98lw_ = 1916627318;
+ p98lw_ = (short)1916627318;
     unsigned short    gvdP9SZ1k5;
     gvdP9SZ1k5    =    -1447282489;
   char  RJtkC;
@@ -84,7 +84,7 @@ int main()
  unsigned long long R0T1;
  R0T1 = 911735311;
  short int OstztJHv2;
- OstztJHv2 = 1478086662;
+ OstztJHv2 = (short)1478086662;
     long    MH7I4jqMpq;
     MH7I4jqMpq    =    655451659;
 	long	I752lNlx;
@@ -110,7 +110,7 @@ int main()
     short    vzwSF73dt;
     vzwSF73dt    =    (short)-1977819936;
 	short int	ja54J_3DI8;
-	ja54J_3DI8	=	-69185539;
+	ja54J_3DI8	=	(short)-69185539;
     unsigned short    U21153;
     U21153    =    1898196055;
  float e66S0PljS;

@@ -32,7 +32,7 @@ int main()
  unsigned long long lsJftw;
  lsJftw = 233637599;
 	short	dV3rCP5;
-	dV3rCP5	=	-1152510921;
+	dV3rCP5	=	(short)-1152510921;
   long long  G0k3Of;
   G0k3Of  =  -1021882126;
     unsigned short    SUk92G7nV;
@@ -64,7 +64,7 @@ int main()
  short int YVrdIa66re;
  YVrdIa66re = (short)662394193;
 	short int	e775_b4;
-	e775_b4	=	-1465562014;
+	e775_b4	=	(short)-1465562014;
 	unsigned int	DiZkZMX;
 	DiZkZMX	=	-1347077669;
  unsigned int z80g4;
@@ -74,7 +74,7 @@ int main()
     short    aKA8M5Z;
     aKA8M5Z    =    (short)1225387187;
   unsigned short int  Ti_1;
-  Ti_1  =  172393323;
+  Ti_1  =  (unsigned short)172393323;
  short int LU5tj87G;
  LU5tj87G = 2091183755;
   unsigned short int  VbP5v70;
@@ -116,7 +116,7 @@ int main()
     float    s139W_8D9i;
     s139W_8D9i    =    -244024096;
  char ouJKe8M;
- ouJKe8M = 456422754;
+ ouJKe8M = (char)456422754;
     long double    t04x_A;
     t04x_A    =    -110271086;
 	double	F41n;
@@ -128,7 +128,7 @@ int main()
   short  SI1k8y;
   SI1k8y  =  0;
   short int  Jg985yU;
-  Jg985yU  =  1164942516;
+  Jg985yU  =  (short)1164942516;
   unsigned short  pAxgbaJp;
   pAxgbaJp  =  -2032508981;
 	unsigned long	ft1cFE7;
@@ -146,7 +146,7 @@ int main()
  long double G7gB_w;
  G7gB_w = 67313977;
   char  EW4x;
-  EW4x  =  -1588790961;
+  EW4x  =  (char)-1588790961;
 
 h0NAN2 = (unsigned long long)(ixfQV);
 
@@ -182,7 +182,7 @@ case 'a':
 hXJxbE = cVI5((char)1266969460, ZSBwf, ft1cFE7, (unsigned short)-752016911, BSLq26sBLn);
 break;
 case 'b':
-oX542 = cVI5(747421114, ZSBwf, ft1cFE7, 1511762408, -508494968) - G2UM53vjHa;
+oX542 = cVI5((char)747421114, ZSBwf, ft1cFE7, 1511762408, -508494968) - G2UM53vjHa;
 break;
 case 'c':
 A1DO = (int)floor(Z2R69G);
@@ -286,7 +286,7 @@ Jg985yU &= jr4q7AaY;
 }
 else if (FfU8uwy > 1096067721)
 {
-SI1k8y = cVI5((char)2084714485, 537921384, t9QCQO5, -438928625, h0NAN2);
+SI1k8y = cVI5((char)2084714485, 537921384, t9QCQO5, (unsigned short)-438928625, h0NAN2);
 }
 else if (((G0k3Of < -851814019) && (X1RR != A86_)) || ((NTjQl863 & WP_wWU) && (Ecjw9)))
 {

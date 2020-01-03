@@ -38,7 +38,7 @@ int main()
   unsigned long long  pc8H  =  -836505584;
   short int  b9P5  =  (short)1526335582;
 	unsigned short int	wXV2jm3F2	=	(unsigned short)-863456891;
-    unsigned short int    kfFL_kTy7    =    684164262;
+    unsigned short int    kfFL_kTy7    =    (unsigned short)684164262;
     short    bLA2InT    =    -95106021;
     long    nqmchiZ    =    802214594;
   unsigned short int  z_K4xmP  =  481067833;
@@ -57,7 +57,7 @@ int main()
   float  eH2oBHx  =  1426942624;
  int Pn8p = -1034881488;
  char OA4Zj8U8QM = (char)-1105440995;
-  char  A0v_Yx1t  =  1976446108;
+  char  A0v_Yx1t  =  (char)1976446108;
   unsigned char  UTQ11FY  =  350243854;
   short  wiMML  =  177698772;
     float    f6_iOa    =    -4342177;
@@ -73,7 +73,7 @@ int main()
     unsigned long    jFt9    =    2144966422;
  double Dyvw5E1dKX = 3115801;
   short  U_Ok  =  (short)602630431;
-	short	dETHDIKk	=	-1316632290;
+	short	dETHDIKk	=	(short)-1316632290;
  unsigned short aUadWmaR = -740837672;
 
 if ((n8r82G_t8V & Yz70lU25KJ) && (T2EWn4sW8I >= nqmchiZ))
@@ -170,7 +170,7 @@ case 'a':
 eH2oBHx = T9Q1s7zklT & z_K4xmP;
 break;
 case 'b':
-sH_c = Jliy(-1929275629, 1202217659);
+sH_c = Jliy((short)-1929275629, 1202217659);
 break;
 }
 b9P5 = (int)abs(wiMML);
@@ -297,7 +297,7 @@ aUadWmaR = OcJOVrLnzH(87710614, wiMML, WoRg, Ol2xq5wreB, (unsigned char)16824015
 }
 else if (CjXH6 >= T9Q1s7zklT)
 {
-iwolY65 = OcJOVrLnzH(-1491177869, nqmchiZ, dIB401, (short)-1045058988, 1144662949);
+iwolY65 = OcJOVrLnzH(-1491177869, nqmchiZ, dIB401, (short)-1045058988, (unsigned char)1144662949);
 }
 else
 {

@@ -92,7 +92,7 @@ else
 int k = 3;
 do
 {
-nK3nb = VyCW((unsigned char)1609888760, 1050514421);
+nK3nb = VyCW((unsigned char)1609888760, (unsigned short)1050514421);
 --k;
 }
 while (k >= 0);
@@ -268,7 +268,7 @@ case 1:
 NT9C = U9ZggjQ - nK3nb;
 break;
 case 2:
-nK3nb = VyCW(-1789632550, 1267197246);
+nK3nb = VyCW((unsigned char)-1789632550, 1267197246);
 break;
 case 3:
 dv1gttzQ4 = QLNr1_S(481135143, NT9C);

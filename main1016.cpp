@@ -37,7 +37,7 @@ int main()
 	short	wFe7Hr53X;
 	wFe7Hr53X	=	(short)-1651866543;
     short int    XXqK;
-    XXqK    =    1078121754;
+    XXqK    =    (short)1078121754;
 	short int	GL3f9_D6n;
 	GL3f9_D6n	=	1595362808;
 	char	rl3_nF2N;

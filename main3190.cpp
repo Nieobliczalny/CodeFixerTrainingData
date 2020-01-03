@@ -99,7 +99,7 @@ case 5:
 ps375N = q3RmBu << 694499098;
 break;
 case 6:
-a8ihZ7v = g4qh5zV_(-282769030, 1766279332, -1738622589);
+a8ihZ7v = g4qh5zV_(-282769030, 1766279332, (unsigned char)-1738622589);
 break;
 case 7:
 q3RmBu = g4qh5zV_(-204811804, N8J087, nFgZc2_);
@@ -429,7 +429,7 @@ case 6:
 i1DGCj = g4qh5zV_(WC_f42D88, 2054066409, (unsigned char)1214354478);
 break;
 case 7:
-sq4TgkA = g4qh5zV_(801917594, i1DGCj, -1939923720) | 996659202;
+sq4TgkA = g4qh5zV_(801917594, i1DGCj, (unsigned char)-1939923720) | 996659202;
 break;
 default:
 oSSS_ = a8ihZ7v & 1397664790;

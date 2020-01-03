@@ -130,7 +130,7 @@ break;
 }
 if ((1681299841 / CR1A((unsigned char)1541861107, 740711490, wBky6r, (unsigned char)-735835559)) >= -1131767113)
 {
-s7l67w = CR1A(kVd6OG6JF, qdP_16, wBky6r, 702669953) / CR1A(kVd6OG6JF, -2145088713, 649903900, C_5u39a19_);
+s7l67w = CR1A(kVd6OG6JF, qdP_16, wBky6r, (unsigned char)702669953) / CR1A(kVd6OG6JF, -2145088713, 649903900, C_5u39a19_);
 }
 {
 int i = 0;

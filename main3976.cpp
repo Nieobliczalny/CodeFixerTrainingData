@@ -18,7 +18,7 @@ char  exVIT7()  {
 
 char    QBB457(unsigned int    RAI348y55)
 {
-    return    -828665028;
+    return    (char)-828665028;
 }
 
 unsigned long  Kv56on9R9(short int  vFFM12g,char  v43mvc4,long long  SGwI2J_C31,unsigned short  iXPfP)
@@ -48,7 +48,7 @@ int main(int argc, char** argv)
 	long long	Bb7eB;
 	Bb7eB	=	1709197315;
 	unsigned short int	lX3U5;
-	lX3U5	=	1530605023;
+	lX3U5	=	(unsigned short)1530605023;
   long double  BQeXSk6X;
   BQeXSk6X  =  379729888;
   long  b8LV2Tl;
@@ -78,7 +78,7 @@ int main(int argc, char** argv)
   short int  t9_9E753;
   t9_9E753  =  (short)105358277;
   unsigned char  az52C;
-  az52C  =  1841833186;
+  az52C  =  (unsigned char)1841833186;
 	short	xgo9S3O;
 	xgo9S3O	=	1034477959;
   long double  SMu5rbBWg;
@@ -100,7 +100,7 @@ int main(int argc, char** argv)
  unsigned char B302IhxY;
  B302IhxY = (unsigned char)-1285894742;
     short    xCMh;
-    xCMh    =    414285949;
+    xCMh    =    (short)414285949;
 	int	lb17mzSN6c;
 	lb17mzSN6c	=	-1543365835;
   float  FNRrsj_MLw;
@@ -124,7 +124,7 @@ int main(int argc, char** argv)
   unsigned short int  U8__w6h;
   U8__w6h  =  (unsigned short)91050896;
     unsigned short    EwOM3s9y6;
-    EwOM3s9y6    =    -1303598867;
+    EwOM3s9y6    =    (unsigned short)-1303598867;
 
 G2oDx2 = (long long)(FNRrsj_MLw);
 {
@@ -297,7 +297,7 @@ ZxxZyLq__ /= ZxxZyLq__;
 break;
 case 'e':
 case 'E':
-b8LV2Tl = Kv56on9R9((short)-2007415534, (char)-1886810128, HfPjlBG2w8, 926673884);
+b8LV2Tl = Kv56on9R9((short)-2007415534, (char)-1886810128, HfPjlBG2w8, (unsigned short)926673884);
 break;
 case 'f':
 case 'F':
@@ -328,7 +328,7 @@ cout << f0rr6JUIyC << rANb(-763520845, (short)2128488805) << endl;
 }
 if (Kv56on9R9(I5Tg, (char)-1880043111, gi1B3, c9M52g) == 0)
 {
-	gi1B3 = Kv56on9R9(I5Tg, kogC98, gi1B3, 2017842300) / Kv56on9R9(I5Tg, -1880043111, gi1B3, c9M52g);
+	gi1B3 = Kv56on9R9(I5Tg, kogC98, gi1B3, (unsigned short)2017842300) / Kv56on9R9(I5Tg, -1880043111, gi1B3, c9M52g);
 }
 
 FNRrsj_MLw = (int)floor(HfPjlBG2w8);

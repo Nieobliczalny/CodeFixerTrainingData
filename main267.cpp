@@ -35,7 +35,7 @@ int main(void) {
 	float	UAIMqkX50	=	-673662792;
     char    X_1nVc    =    (char)1347678205;
   int  sCOa05a_n_  =  1097391967;
-	short int	lnBnkbi	=	-767259775;
+	short int	lnBnkbi	=	(short)-767259775;
 	float	F_Q6621fZ	=	1238317452;
   int  U82KR1YZOM  =  0;
   short  OE46  =  (short)-1945408819;
@@ -53,7 +53,7 @@ int main(void) {
  unsigned long long DyOZ_j_5S0 = 692348396;
   char  H516_YL  =  (char)-1931140268;
   double  F7kG4oh  =  614402735;
- short mL1G2g0J97 = -1954318601;
+ short mL1G2g0J97 = (short)-1954318601;
     float    sBKkXo    =    999141222;
     unsigned int    HZla    =    326600581;
     double    PXNu98    =    1255402105;
@@ -64,7 +64,7 @@ int main(void) {
 	char	t5v1i	=	(char)-1682132496;
   unsigned short  JDy4kn14t  =  -1360899642;
     long double    PBc623kZ    =    2105446162;
-	unsigned char	s5uR1a6T	=	2029031862;
+	unsigned char	s5uR1a6T	=	(unsigned char)2029031862;
 	unsigned char	J8Au3e0_QB	=	756913728;
   unsigned int  ZIo2AHKM3  =  -126805276;
  char faUE7g = -227919064;
@@ -74,7 +74,7 @@ int main(void) {
  short int LC6ISuS = (short)-1913935409;
  unsigned int ZTgO = 261503665;
 	long	N54ps	=	469521623;
-  unsigned char  Lp1z  =  -950305272;
+  unsigned char  Lp1z  =  (unsigned char)-950305272;
  float WY8Z = -17273538;
  long long SZ7zu_ = 299099256;
 	double	zgsHZ4Nx5	=	-2089906389;
@@ -92,7 +92,7 @@ int main(void) {
  unsigned long b582oTvV = 1708053622;
 	unsigned short	sw3DsoM06	=	(unsigned short)935183305;
     float    SZO1RHG    =    -2092931046;
- unsigned char koSDuk = -966484427;
+ unsigned char koSDuk = (unsigned char)-966484427;
     long double    UVl5xw1    =    728637343;
  unsigned char l4O65gB = 1380205294;
   char  IPpoMaDT  =  (char)-361432490;
@@ -103,7 +103,7 @@ int main(void) {
   float  ZHEk618  =  -194092656;
  unsigned short int zuF6AGK = (unsigned short)1962230385;
     unsigned long long    S2K12D    =    1792441146;
- char W4425wVPI = -1413079904;
+ char W4425wVPI = (char)-1413079904;
     short    wVmvQXgQ    =    -685942810;
 	long double	HhLsL65	=	-79715780;
 	unsigned long	V72p	=	-1265016720;

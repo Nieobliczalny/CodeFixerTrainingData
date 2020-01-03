@@ -27,7 +27,7 @@ int main(void) {
   long long  IJSlfU9_  =  846928732;
 	unsigned long	G8d54	=	-63360461;
  unsigned short FqkCvm = (unsigned short)-2095673043;
-    short    x2NrQ    =    -1954498054;
+    short    x2NrQ    =    (short)-1954498054;
  long C_OU5WR = -633785704;
 	long	GM0hbv7	=	0;
     short    sAgWWbS7C    =    (short)2125869082;

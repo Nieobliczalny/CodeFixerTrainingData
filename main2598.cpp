@@ -114,7 +114,7 @@ if (NxacBk1El & 513902919)
 {
 try
 {
-std::cout << "mK_4_Dy78" << I1k4952() << I1k4952() << Joe804Jx << RUPVEBYN3U(328802774, 251055977, -522485747, 1122132762, nyr53sN) << std::endl;
+std::cout << "mK_4_Dy78" << I1k4952() << I1k4952() << Joe804Jx << RUPVEBYN3U((short)328802774, 251055977, -522485747, 1122132762, nyr53sN) << std::endl;
 }
 catch (int& errorCode)
 {

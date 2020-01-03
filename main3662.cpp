@@ -96,7 +96,7 @@ Pua3MfN25a = UpoHZuqRe(Pua3MfN25a, A6J5, (unsigned char)1142068752, (short)-1833
 break;
 case 'f':
 case 'F':
-A6J5 = rW_Mn9W8(1836810929, G5Cj0MA, 273958289, -1470263452);
+A6J5 = rW_Mn9W8(1836810929, G5Cj0MA, (unsigned short)273958289, -1470263452);
 break;
 default:
 j_qCV6 = (int)ceil(u64S1w);

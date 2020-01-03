@@ -44,7 +44,7 @@ case 4:
 nSxq3B &= 431747979;
 break;
 default:
-nSxq3B = l62o(EDVjq3i6T5, yO5uz88, 1143172660, nSxq3B);
+nSxq3B = l62o(EDVjq3i6T5, yO5uz88, (char)1143172660, nSxq3B);
 break;
 }
 
@@ -110,7 +110,7 @@ case 7:
 yO5uz88 = (int)abs(KoSjn);
 break;
 default:
-nSxq3B = l62o(EDVjq3i6T5, 446688438, Ezq05HZx_, -94422621);
+nSxq3B = l62o(EDVjq3i6T5, (unsigned short)446688438, Ezq05HZx_, -94422621);
 break;
 }
 {
@@ -211,7 +211,7 @@ nSxq3B %= 1031510906;
 --i;
 }
 }
-nSxq3B = VAey6H7(1204939877, Ezq05HZx_, 488979465, yO5uz88) / s584E(KoSjn, -382108276);
+nSxq3B = VAey6H7((unsigned char)1204939877, Ezq05HZx_, 488979465, yO5uz88) / s584E(KoSjn, -382108276);
 try
 {
 if (yO5uz88 != iM92uGNT6Y)

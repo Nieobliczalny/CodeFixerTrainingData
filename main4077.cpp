@@ -260,7 +260,7 @@ dNSM_ = w4V0xDH * p8KMWQ7;
 }
 else
 {
-B3930 = IZQS((char)1764991730, ps2b8_w, (unsigned char)-171621617, 490654658, -290676678);
+B3930 = IZQS((char)1764991730, ps2b8_w, (unsigned char)-171621617, 490654658, (unsigned short)-290676678);
 }
 --j;
 }
@@ -318,7 +318,7 @@ unsigned short  y2bYH6y756()
 }
 
 short int Ml0UlW(unsigned char Vkl_RL,long long ALMGCJpW,unsigned long long D1rej8) {
- return 2104611690;
+ return (short)2104611690;
 }
 
 unsigned long z8PUIZj(unsigned long long x80477pw6L,unsigned int hz5jvy,long long Cdv_a,unsigned int C8ypTE,unsigned short int n6_j) {

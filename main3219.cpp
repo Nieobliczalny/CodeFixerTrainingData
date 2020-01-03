@@ -24,7 +24,7 @@ int main(int argc, char** argv) {
 	long double	Z_1qx;
 	Z_1qx	=	1382623445;
 	short int	jfHv;
-	jfHv	=	-533796752;
+	jfHv	=	(short)-533796752;
  int S4EXgysG;
  S4EXgysG = 497148517;
 	unsigned short	Eb8xO;
@@ -46,7 +46,7 @@ int main(int argc, char** argv) {
 	long long	S_57i_0Sc;
 	S_57i_0Sc	=	-579096202;
   char  PLrG_GGi;
-  PLrG_GGi  =  1423212678;
+  PLrG_GGi  =  (char)1423212678;
  long long aKHbJtMS;
  aKHbJtMS = 1671425031;
   unsigned long  IQ32;
@@ -66,7 +66,7 @@ int main(int argc, char** argv) {
  unsigned long long bD_Us75Lr;
  bD_Us75Lr = -1153856920;
     short int    SoyNJ_;
-    SoyNJ_    =    532037427;
+    SoyNJ_    =    (short)532037427;
     unsigned short int    rpbwxFqSn2;
     rpbwxFqSn2    =    0;
 	double	EVGL2k_i4;

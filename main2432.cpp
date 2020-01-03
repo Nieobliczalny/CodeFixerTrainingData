@@ -57,7 +57,7 @@ IOOzm2B60 = VU02dWADW((unsigned char)-1136622680, (short)-520172330, 345036045, 
 break;
 case 'b':
 case 'B':
-GUOj3NbQ = (BsZ3 != GUOj3NbQ) ? -2143175088 : VU02dWADW(-1897531781, Yow_SXmp, UHfHOt3kb1, b9JvqwSn, BsZ3);
+GUOj3NbQ = (BsZ3 != GUOj3NbQ) ? -2143175088 : VU02dWADW((unsigned char)-1897531781, Yow_SXmp, UHfHOt3kb1, b9JvqwSn, BsZ3);
 break;
 case 'c':
 case 'C':
@@ -441,7 +441,7 @@ case 'c':
 o3mU6 -= UHfHOt3kb1;
 break;
 case 'd':
-IOOzm2B60 = VU02dWADW(1191561928, b9JvqwSn, IOOzm2B60, UHfHOt3kb1, XK9ZmWS);
+IOOzm2B60 = VU02dWADW((unsigned char)1191561928, b9JvqwSn, IOOzm2B60, UHfHOt3kb1, XK9ZmWS);
 break;
 case 'e':
 Yow_SXmp = (IOOzm2B60 < BDA5u3mGQ) ? b9JvqwSn : -2122546925;

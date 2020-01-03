@@ -21,7 +21,7 @@ int main(void) {
   unsigned long long  KU7h9se2  =  0;
   unsigned long long  Io16  =  975309673;
     float    hael67z74D    =    529961088;
- unsigned short Cc2Ylii4K8 = 1940539716;
+ unsigned short Cc2Ylii4K8 = (unsigned short)1940539716;
   short  Y__enyv6gu  =  0;
 
 if (ukYPU >= -1464483830)

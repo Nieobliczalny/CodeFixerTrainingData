@@ -106,7 +106,7 @@ case 3:
 BS6b0qf *= 37221611;
 break;
 case 4:
-TuPH = ryj9iZ4(w_R5320cw, 486378942, -2023546352, 222516311);
+TuPH = ryj9iZ4(w_R5320cw, 486378942, (unsigned short)-2023546352, 222516311);
 break;
 case 5:
 l4WrIP = NF6778K(l4WrIP, yiq5, (unsigned char)-1947435575, (short)-36160856);
@@ -166,7 +166,7 @@ oj98J8w = NF6778K((short)-991376618, yiq5, (unsigned char)481537084, Xo3808Rwi) 
 
 KngHGhW = (double)(AJ7DoP683);
 
-std::cout << oI6_5wtinI(764674898, -654675827) << ryj9iZ4(1823507131, yiq5, 684511252, -40653023) << "f6I800G" << "DFmpT" << std::endl;
+std::cout << oI6_5wtinI((short)764674898, -654675827) << ryj9iZ4(1823507131, yiq5, 684511252, -40653023) << "f6I800G" << "DFmpT" << std::endl;
 std::cout << oI6_5wtinI(311644175, 1666586498) << ZFBpy << bU_2y4 << std::endl;
 
 if ((ZFBpy < n8uFA) || (UIL00oW7))
@@ -197,7 +197,7 @@ TuPH = ryj9iZ4(Do20Bq, BS6b0qf, AJ7DoP683, (char)1331936670);
 }
 else
 {
-c1JPFQ94 = NF6778K((short)-1610706685, 860013432, 1738705410, 1779791638);
+c1JPFQ94 = NF6778K((short)-1610706685, 860013432, (unsigned char)1738705410, 1779791638);
 }
 }
 }

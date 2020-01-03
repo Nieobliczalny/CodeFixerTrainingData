@@ -35,7 +35,7 @@ case 4:
 JqTg6d = (int)abs(zIBaZ0);
 break;
 case 5:
-h4p190E62y = YWW_ZO(1101767434, -1482809592, qoEL55, -1667505905);
+h4p190E62y = YWW_ZO((short)1101767434, -1482809592, qoEL55, -1667505905);
 break;
 case 6:
 S94e6 /= zIBaZ0;
@@ -82,7 +82,7 @@ Au68 = YWW_ZO(S94e6, qNa4_y98k8, TplL28Z, (unsigned short)768167824) | 189650983
 
 X0gHj03AY9 = (int)(qNa4_y98k8);
 std::cout << h4p190E62y << "OM36Nnm" << pW50FggrZ0 << std::endl;
-h4p190E62y = YWW_ZO((short)-1642145501, -232257903, 439932155, Nm4NAXEHR);
+h4p190E62y = YWW_ZO((short)-1642145501, -232257903, (unsigned short)439932155, Nm4NAXEHR);
 
 for (int i = 1; i >= 0; i--)
 {
@@ -174,7 +174,7 @@ qoEL55--;
 }
 else if (Nm4NAXEHR != S94e6)
 {
-h4p190E62y = YWW_ZO((short)1794608728, 73543891, (unsigned short)81824903, -622385993);
+h4p190E62y = YWW_ZO((short)1794608728, 73543891, (unsigned short)81824903, (unsigned short)-622385993);
 }
 else if (zIBaZ0 > -1440460981)
 {
@@ -227,7 +227,7 @@ h4p190E62y = YWW_ZO(-1997392657, 2108579755, Au68, Nm4NAXEHR);
 }
 
 h4p190E62y = YWW_ZO(R2F7, ZbJmeh79Zd, (unsigned short)-921226518, (unsigned short)1187475256);
-n42I6J_sy = iWWF_d_d_ / YWW_ZO(105145289, -1024431725, 1882490511, qoEL55);
+n42I6J_sy = iWWF_d_d_ / YWW_ZO((short)105145289, -1024431725, 1882490511, qoEL55);
 
 std::cout << ISEBB_v19 << std::endl;
 
@@ -400,7 +400,7 @@ case 1:
 qNa4_y98k8 = (int)abs(ISEBB_v19);
 break;
 case 2:
-h4p190E62y = YWW_ZO((short)430241244, RrAps7gxjh, (unsigned short)1394887288, -1423665476);
+h4p190E62y = YWW_ZO((short)430241244, RrAps7gxjh, (unsigned short)1394887288, (unsigned short)-1423665476);
 break;
 case 3:
 h4p190E62y = YWW_ZO(Hy5R, N3pcUo91AC, qoEL55, -374234672);
@@ -419,7 +419,7 @@ Nm4NAXEHR &= 1576382240;
 break;
 }
 
-std::cout << YWW_ZO((short)-1660276365, R2F7, 399788642, qNa4_y98k8) << JqTg6d << t33g() << std::endl;
+std::cout << YWW_ZO((short)-1660276365, R2F7, (unsigned short)399788642, qNa4_y98k8) << JqTg6d << t33g() << std::endl;
 {
 int i = 0;
 while (i < 9)

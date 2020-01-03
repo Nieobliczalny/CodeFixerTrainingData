@@ -533,7 +533,7 @@ int i = 0;
 while (i < 3)
 {
 ++i;
-cout << B6_GF2s_S0(-2011228565, (unsigned char)553211899, -1504032008, 678332142, (short)305011311) << B6_GF2s_S0(-1449788584, EF00YL, -2130913754, 1185202016, -639122400) << endl;
+cout << B6_GF2s_S0(-2011228565, (unsigned char)553211899, -1504032008, 678332142, (short)305011311) << B6_GF2s_S0(-1449788584, EF00YL, -2130913754, 1185202016, (short)-639122400) << endl;
 }
 }
 
@@ -611,7 +611,7 @@ case 'g':
 zdvzksl6C |= 655234903;
 break;
 case 'h':
-Vsc4 = B6_GF2s_S0(L5YZGT, Vsc4, V7BT, V0wc3L6l, -569520415);
+Vsc4 = B6_GF2s_S0(L5YZGT, Vsc4, V7BT, V0wc3L6l, (short)-569520415);
 break;
 }
 }

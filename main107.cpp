@@ -25,7 +25,7 @@ int main()
  char vX8Hs8bLG;
  vX8Hs8bLG = (char)1748868291;
     short    dcFD3jZl;
-    dcFD3jZl    =    1355071120;
+    dcFD3jZl    =    (short)1355071120;
  unsigned int OL5N7u;
  OL5N7u = 441734254;
   unsigned char  L61fk;
@@ -49,7 +49,7 @@ int main()
   short int  kqb8Of;
   kqb8Of  =  (short)-616182900;
  short yDdnSoI;
- yDdnSoI = -849309877;
+ yDdnSoI = (short)-849309877;
 	unsigned short	h9vM18a2rH;
 	h9vM18a2rH	=	-1608113591;
 	unsigned short	zTpN56;
@@ -112,7 +112,7 @@ LF43AUtxW = (int)abs(w0z9sELmO);
 }
 }
 
-zTpN56 = hY707B7(i_H33j_8fD, (unsigned short)1783233331, (unsigned char)478188616, OL5N7u, -1226591914);
+zTpN56 = hY707B7(i_H33j_8fD, (unsigned short)1783233331, (unsigned char)478188616, OL5N7u, (unsigned short)-1226591914);
 x4E9J1 = (unsigned char)(i_H33j_8fD);
 for (int i = zTpN56; i < 135; i++)
 {

@@ -22,7 +22,7 @@ int main() {
   unsigned int  lcyDNg  =  1382053839;
  double vT0wM089cy = -2138970161;
     unsigned long    mT6lKN8_    =    0;
-  short  F62At_p  =  -668789531;
+  short  F62At_p  =  (short)-668789531;
  unsigned long long gNU8XtbW = 1958360880;
  unsigned long m_2U10_J_ = 1288005038;
  int kY7tS0_pv0 = -728056231;

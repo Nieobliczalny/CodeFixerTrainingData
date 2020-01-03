@@ -31,7 +31,7 @@ int main(int argc, char** argv) {
   char  cTQV;
   cTQV  =  (char)-1069391347;
 	short	Y5lXCkJ;
-	Y5lXCkJ	=	1615769661;
+	Y5lXCkJ	=	(short)1615769661;
     char    azf6Y66Xh3;
     azf6Y66Xh3    =    (char)801367877;
   unsigned int  T7i8;
@@ -49,7 +49,7 @@ int main(int argc, char** argv) {
     unsigned int    fk8Ht8;
     fk8Ht8    =    -2074850374;
 	short int	b19u68PDE2;
-	b19u68PDE2	=	2133924413;
+	b19u68PDE2	=	(short)2133924413;
  unsigned long long P1HAW419y;
  P1HAW419y = 0;
  long double F02H;

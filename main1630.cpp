@@ -127,7 +127,7 @@ ckZ2z--;
 std::cout << E_2B7khi((unsigned short)1729411476) << ckZ2z << m72Qo0u_() << usMgsVw << "IRi4s" << std::endl;
 
 std::cout << c5xzr << "ua9Y" << E_2B7khi((unsigned short)61060851) << std::endl;
-std::cout << Ml317hG0(791940258, 200520223) << Q6jq << std::endl;
+std::cout << Ml317hG0(791940258, (unsigned short)200520223) << Q6jq << std::endl;
 {
 int i = 0;
 do
@@ -409,6 +409,6 @@ char	JWyshd(long	DeWe_)
 }
 
 short int  Ml317hG0(int  v_0sF3,unsigned short int  W39Va70)  {
-  return  -1084407961;
+  return  (short)-1084407961;
 }
 

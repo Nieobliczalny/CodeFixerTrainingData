@@ -485,7 +485,7 @@ break;
 switch (HQEqcw3Wqv)
 {
 case 0:
-gN2jO = h517((unsigned short)-229102322, -2010317035, 1640555394);
+gN2jO = h517((unsigned short)-229102322, (char)-2010317035, 1640555394);
 break;
 case 1:
 bvLCqX *= 1119458737;

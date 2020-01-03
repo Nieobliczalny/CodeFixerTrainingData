@@ -557,7 +557,7 @@ case 3:
 nO7Q0l_NC = afbqxTT30A((short)-687202450);
 break;
 case 4:
-QY2DOE = dkvyl(595469233, QY2DOE, siZy_SWE, TNDPK0nXx1);
+QY2DOE = dkvyl((unsigned short)595469233, QY2DOE, siZy_SWE, TNDPK0nXx1);
 break;
 case 5:
 EZaV5M0a = NB251();
@@ -753,7 +753,7 @@ short    b0aN3df9(unsigned int    RrN6jS1,long long    ZN8Oy8,long long    aj5X8
 }
 
 short    afbqxTT30A(short int    m867ztmH)    {
-    return    419876369;
+    return    (short)419876369;
 }
 
 char	dkvyl(unsigned short int	d37ZxCQ7g1,long	H0q7Q9,unsigned int	G1_xQe,unsigned int	pbt8)	{

@@ -24,7 +24,7 @@ int main(void)
     unsigned int    aOBGaEN    =    -1061594040;
   short  nV94JYU  =  (short)-1700807177;
  unsigned long long NIr9b4hOz = -653138581;
-  short int  b2o6GG  =  330569197;
+  short int  b2o6GG  =  (short)330569197;
  long long F44Ql = 0;
   long long  y5QdOGbn6  =  -397502395;
  long vXZrtoj = -2076338391;

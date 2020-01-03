@@ -31,7 +31,7 @@ int main(void) {
   char  V6dajsnd4  =  (char)1340643230;
   unsigned int  iF4t8  =  661967470;
 	unsigned long long	yn19tG6PYQ	=	414826908;
- unsigned short int a12F5 = -730019668;
+ unsigned short int a12F5 = (unsigned short)-730019668;
 	unsigned short	q_FOf84	=	1912920788;
  unsigned long long t0y0UqCWz4 = 1183746658;
  double qP7hhcUf = 1506444482;
@@ -47,7 +47,7 @@ int main(void) {
  short int QioI3i = (short)2126366796;
   short  aRiEQs9HM_  =  (short)-1965175298;
     float    Ayr6o4G    =    -2054949331;
- short int x7Rl = -1281170573;
+ short int x7Rl = (short)-1281170573;
  unsigned short iJw_0KrrG = 1240584828;
     long    NrJa    =    -1567994233;
     int    TeYBjk9    =    -2126108956;
@@ -58,7 +58,7 @@ int main(void) {
   unsigned short int  CV3SN_R_  =  (unsigned short)-11762566;
     unsigned char    pB6p    =    (unsigned char)-241600879;
 	float	R7gx2__o0	=	-1731199813;
-	short int	pV61B947S	=	705844746;
+	short int	pV61B947S	=	(short)705844746;
  short St658Z = 1738398476;
   short  mZmI1_qH  =  -610300056;
 	char	GlQN9k1P	=	-1972875751;
@@ -75,7 +75,7 @@ int main(void) {
     unsigned short int    nD_N_    =    (unsigned short)102140648;
   float  H9Yt5W  =  -365899647;
   double  qwG08mh  =  1706649772;
-  unsigned short  PAb7  =  1393599841;
+  unsigned short  PAb7  =  (unsigned short)1393599841;
   long long  n1Vo40  =  590157342;
   unsigned long  Q3Us4n  =  1698566673;
  unsigned int z4_6IP2tg = -90491659;
@@ -85,7 +85,7 @@ int main(void) {
  unsigned short int FO3p = (unsigned short)-1487503490;
 	short int	P5_S	=	1863602347;
     double    Kp89b_r    =    -929880537;
-  char  MkYZnNJX  =  2141872613;
+  char  MkYZnNJX  =  (char)2141872613;
     unsigned int    OQRjxSs    =    0;
 	unsigned short	k3a1	=	1148612751;
   long double  DO8mATf  =  -1002533189;
@@ -100,7 +100,7 @@ int main(void) {
     long double    AgFUkOU    =    604251915;
  unsigned long wF_bkL = 1202976469;
  unsigned int VvBcWJI = -2121220865;
-    unsigned char    OsWRZ    =    -15290227;
+    unsigned char    OsWRZ    =    (unsigned char)-15290227;
     unsigned char    slEWPo1    =    877797615;
     long long    D96n_C4mM_    =    -654590365;
  short A_jZ24za = (short)-1157211722;

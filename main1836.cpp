@@ -12,7 +12,7 @@ int main(void) {
   long long  R2n3XIzM  =  1383325224;
   unsigned short int  xcYP41TFT_  =  (unsigned short)615317925;
  unsigned short int j397F5 = (unsigned short)-1302532728;
-  short  M10V6gK5Rp  =  1463155419;
+  short  M10V6gK5Rp  =  (short)1463155419;
     long long    W6Q3MUgb    =    1551572853;
 	long	T6R8	=	2020478257;
  unsigned long long xdW249Yx60 = -498577177;
@@ -27,7 +27,7 @@ int main(void) {
   double  u3BG9Ly  =  105553231;
     unsigned short int    nazQHRBsYk    =    (unsigned short)-1235887681;
   unsigned int  n1Pq2EA_g_  =  -229071208;
-  short int  XC66_LV0Rn  =  1865490100;
+  short int  XC66_LV0Rn  =  (short)1865490100;
     unsigned short int    zKcl    =    1029930424;
     int    bC_YNY_s    =    1719957906;
   short int  M9C4  =  307220002;
@@ -44,7 +44,7 @@ int main(void) {
   unsigned int  vo_5s_VY  =  2062066450;
     char    a9TVQ    =    (char)59170157;
     unsigned int    AnT7zoP6    =    -1670918704;
-	char	cgb4g	=	348244718;
+	char	cgb4g	=	(char)348244718;
   int  d06F  =  784592118;
     long double    YgeBhB0PV    =    1691990508;
   unsigned short int  p7dN6Q  =  -1895654433;
@@ -59,7 +59,7 @@ int main(void) {
   unsigned int  Hf82  =  -1694926382;
  unsigned short I0tP0_89 = (unsigned short)-297893604;
 	double	VMTK	=	368121290;
- short int kt00_9G3 = -266935893;
+ short int kt00_9G3 = (short)-266935893;
  char x3XOfF38 = -1976219067;
 	unsigned long long	EJ5l	=	62898292;
 	double	xd9lbLxE	=	-433035150;
@@ -69,7 +69,7 @@ int main(void) {
 	char	v3wfSL2IX8	=	(char)-345444586;
     long long    sfdxNcsG7    =    -166747382;
   unsigned char  Fhu10GsJU5  =  (unsigned char)-1127104271;
- unsigned char mI_uF3_ = -2064286883;
+ unsigned char mI_uF3_ = (unsigned char)-2064286883;
 	long long	QR4D	=	1826897453;
   long long  B9EiCy  =  -52785148;
   float  W_a1VP  =  -1144625691;
@@ -82,7 +82,7 @@ int main(void) {
  long double h5HmCr333 = 623625948;
 	long	V6cvLkjpAi	=	-3618687;
  long wQ0V48 = -1234353141;
-    unsigned short int    TT512o    =    -2077545840;
+    unsigned short int    TT512o    =    (unsigned short)-2077545840;
 
 try
 {

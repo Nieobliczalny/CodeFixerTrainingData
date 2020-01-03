@@ -15,7 +15,7 @@ int main(int argc, char** argv)
 	unsigned short int	tFLRz,	Kr_20,	W5cyvgSi,	fA74v,	B_07sD2j,	Vgn584,	YwRCY,	t717KewA,	iUPyGM,	ixIhVSJ38T,	f8gu3njZ0c,	ip2z,	QzWkNQ,	KAZ5E,	RSwLX577dc,	Hl_96Rcr,	eMR_Y;
 	tFLRz	=	(unsigned short)835660939;
 	Kr_20	=	(unsigned short)-9324209;
-	W5cyvgSi	=	-2076302438;
+	W5cyvgSi	=	(unsigned short)-2076302438;
 	fA74v	=	915588747;
 	B_07sD2j	=	-1876328429;
 	Vgn584	=	198056867;
@@ -25,7 +25,7 @@ int main(int argc, char** argv)
 	ixIhVSJ38T	=	-136454677;
 	f8gu3njZ0c	=	(unsigned short)-2119975308;
 	ip2z	=	(unsigned short)174044990;
-	QzWkNQ	=	-830993601;
+	QzWkNQ	=	(unsigned short)-830993601;
 	KAZ5E	=	-193119950;
 	RSwLX577dc	=	2108721240;
 	Hl_96Rcr	=	1421524225;

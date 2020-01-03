@@ -45,7 +45,7 @@ case 3:
 PAK7j96XOc /= HFQ30NND;
 break;
 default:
-Zcu6O00 = t5C9Pds6sk((short)83066310, (short)-1584172221, 1991667298);
+Zcu6O00 = t5C9Pds6sk((short)83066310, (short)-1584172221, (unsigned short)1991667298);
 break;
 }
 }
@@ -69,7 +69,7 @@ h5RQ5y8t = u2_yKOFHY((short)-330253483, Q20xW, -1534416955);
 break;
 case 'c':
 case 'C':
-o62_Ci = u2_yKOFHY((short)-1135946800, 1694670814, 1633566172);
+o62_Ci = u2_yKOFHY((short)-1135946800, (short)1694670814, 1633566172);
 break;
 case 'd':
 case 'D':
@@ -114,7 +114,7 @@ case 7:
 z172aRNN3W = (int)abs(t9_6);
 break;
 case 8:
-f_eu_ = n6_09_(574113554, 484030364, S92C, z172aRNN3W);
+f_eu_ = n6_09_((char)574113554, 484030364, S92C, z172aRNN3W);
 break;
 }
 }
@@ -191,7 +191,7 @@ while (i < 9);
 }
 try
 {
-std::cout << eZhstW1a << n6_09_((char)-976316680, 393532201, fb2O8D_z, (short)288294958) << u2_yKOFHY(-1738694427, PBsv_UyE, fb2O8D_z) << std::endl;
+std::cout << eZhstW1a << n6_09_((char)-976316680, 393532201, fb2O8D_z, (short)288294958) << u2_yKOFHY((short)-1738694427, PBsv_UyE, fb2O8D_z) << std::endl;
 }
 catch (int& errorCode)
 {

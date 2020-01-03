@@ -19,7 +19,7 @@ int main(int argc, char** argv) {
     unsigned short int    jgNBUt    =    (unsigned short)-444582836;
  float l2D8X_3 = -1523977317;
     unsigned long    tzMI7    =    1278768386;
-    short    Z2SzYDQi5    =    1553320678;
+    short    Z2SzYDQi5    =    (short)1553320678;
     short int    WeKC2I28    =    -1425834046;
   char  Iy76OKd  =  940065818;
  long GeMJxU = 1136954383;
@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
  char GXdHhR = (char)-1241951435;
  char f1JXRw947 = -9960621;
   int  cw2kvleG  =  -1735983483;
-    short    gTjBE5    =    1421246143;
+    short    gTjBE5    =    (short)1421246143;
 	long	DJI3Q_Zd	=	-829757213;
     short    Yx6aw_    =    0;
  double JoLL9_I78 = 1126669150;
@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
  short int r7XK = (short)-1966026804;
  unsigned char VC_g1 = -2123289128;
   float  q8JqT  =  -942351545;
-  short  vb0q9ffXbl  =  1007893625;
+  short  vb0q9ffXbl  =  (short)1007893625;
 	unsigned short	HzTVc3	=	1916913872;
 	double	dwa7	=	2080502314;
   unsigned short  XH_FHfA  =  1995675543;
@@ -55,7 +55,7 @@ int main(int argc, char** argv) {
   int  Y91gZsI  =  0;
  long xG7iK5 = 75537402;
 	long	eKD6yqZIQ	=	977047496;
- char U404sCbq = 155965392;
+ char U404sCbq = (char)155965392;
   unsigned int  w1GL  =  1384901677;
 	double	lI504wL	=	1487045700;
     unsigned short int    t98Ags93    =    (unsigned short)325921527;
@@ -84,7 +84,7 @@ int main(int argc, char** argv) {
  unsigned long uLR_MZ23C0 = 496387816;
   double  bsI_  =  576510426;
  unsigned long cLhT116r3 = 1848154692;
-  unsigned short int  zK2152yLbk  =  -655974649;
+  unsigned short int  zK2152yLbk  =  (unsigned short)-655974649;
     long long    f2uhAb    =    2036375872;
  char P_e73InskM = -1460409602;
     int    K243IR3YsG    =    -21432054;
@@ -96,7 +96,7 @@ int main(int argc, char** argv) {
  int PpUg_O = -1919237075;
   float  cz3l4C8  =  685923101;
  long Jb0Pt55h_ = 258971933;
- unsigned char l15uSzF68 = -1696859442;
+ unsigned char l15uSzF68 = (unsigned char)-1696859442;
 
 try
 {

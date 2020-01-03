@@ -108,7 +108,7 @@ case 6:
 Y5rA_h = byQA(268691229);
 break;
 case 7:
-pYfGEMs = u8_g0_8DI(-1907289914, (short)-1414302543, o6AtugB7, -349987528, 423989879);
+pYfGEMs = u8_g0_8DI(-1907289914, (short)-1414302543, o6AtugB7, (unsigned short)-349987528, 423989879);
 break;
 case 8:
 YZ7EA8Fnkw = F5IB7A_hp(-169059319, -658403076, bSDxyI0, NZTolzXX);
@@ -188,7 +188,7 @@ if (D9l6B7U < HKUG5g8B)
 int k = 0;
 while (k < 8)
 {
-NZTolzXX = O21MF19V((unsigned short)-1436329625, (short)521949177, 1367399644);
+NZTolzXX = O21MF19V((unsigned short)-1436329625, (short)521949177, (short)1367399644);
 k++;
 }
 }
@@ -232,7 +232,7 @@ if ((xVukP1 != PR43vOJ64D) || (M72Xp > 1440380146))
 {
 if (((k_8u827Y & -596352816) || (BkXMy > -276247623)) && ((ibQ21v > 506320075) && (YZ7EA8Fnkw & 1680150538)))
 {
-Miu16 = u8_g0_8DI(Miu16, (short)-1032360627, (unsigned char)905170049, -358747586, -2127393683);
+Miu16 = u8_g0_8DI(Miu16, (short)-1032360627, (unsigned char)905170049, (unsigned short)-358747586, -2127393683);
 }
 else
 {
@@ -255,7 +255,7 @@ V_kcWEe = MBA32s / 2129276130;
 }
 else if (qBh1OO8 >= 420553715)
 {
-BkXMy = F5IB7A_hp(BkXMy, -169801668, 1603321794, Miu16);
+BkXMy = F5IB7A_hp(BkXMy, (char)-169801668, 1603321794, Miu16);
 }
 else if (XscJALS8 >= k_8u827Y)
 {
@@ -272,7 +272,7 @@ M72Xp = WX3Q6ynk3 >> pKBE8085r;
 }
 else if (((M72Xp != -1542401941) || (b9xNdi)) && (Brh_32Zm))
 {
-std::cout << SbqRFV_9uo(BkXMy, (short)-712543290, -1159985302, (unsigned char)-1993834928) << F5IB7A_hp(BkXMy, -1200139568, ibQ21v, -1606504769) << SbqRFV_9uo(478390161, NZTolzXX, -746732286, 587734778) << "Re_x" << std::endl;
+std::cout << SbqRFV_9uo(BkXMy, (short)-712543290, -1159985302, (unsigned char)-1993834928) << F5IB7A_hp(BkXMy, (char)-1200139568, ibQ21v, -1606504769) << SbqRFV_9uo(478390161, NZTolzXX, -746732286, 587734778) << "Re_x" << std::endl;
 }
 else if (q12fXj & MBA32s)
 {
@@ -335,7 +335,7 @@ p_7wVUAJ0 = Miu16 % 804585248;
 }
 else
 {
-kZt_i_nd6 = u8_g0_8DI(kZt_i_nd6, (short)796362842, (unsigned char)1802980282, -1118709579, Y0Lkn05);
+kZt_i_nd6 = u8_g0_8DI(kZt_i_nd6, (short)796362842, (unsigned char)1802980282, (unsigned short)-1118709579, Y0Lkn05);
 }
 }
 }
@@ -370,7 +370,7 @@ case 1:
 pKBE8085r = byQA(pKBE8085r);
 break;
 case 2:
-PR43vOJ64D = u8_g0_8DI(-1748167376, zJE25w, (unsigned char)2073052524, 285646279, bSDxyI0);
+PR43vOJ64D = u8_g0_8DI(-1748167376, zJE25w, (unsigned char)2073052524, (unsigned short)285646279, bSDxyI0);
 break;
 }
 }

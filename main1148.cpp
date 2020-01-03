@@ -21,7 +21,7 @@ int main(void)
 	unsigned long	s_46540	=	-1870268269;
   float  qB20  =  -452097098;
   unsigned short  Djs5v  =  (unsigned short)-2082207072;
-  short int  O9Yg  =  623512186;
+  short int  O9Yg  =  (short)623512186;
     char    Sd7z9v    =    -974629050;
  unsigned short zIjK07d = 0;
   unsigned char  TOmB  =  -1959262969;
@@ -33,7 +33,7 @@ int main(void)
  short pzNJI = 0;
     float    zvtL3gN    =    -2092393534;
     short int    v6Z2N9d9S    =    (short)1556342484;
-	unsigned char	GG8O56W	=	2078889809;
+	unsigned char	GG8O56W	=	(unsigned char)2078889809;
 
 try
 {

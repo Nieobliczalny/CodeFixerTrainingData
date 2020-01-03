@@ -128,7 +128,7 @@ case 2:
 l9NibhZ = Eeaa0Q((char)646180246, (unsigned short)133817917);
 break;
 case 3:
-MvcCSUp0K = Eeaa0Q(1116647569, yK1m7Pl);
+MvcCSUp0K = Eeaa0Q((char)1116647569, yK1m7Pl);
 break;
 default:
 X0jaR5SbKj = Eeaa0Q(311541735, 720222850);

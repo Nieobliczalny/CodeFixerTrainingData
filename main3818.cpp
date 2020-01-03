@@ -186,7 +186,7 @@ case 'e':
 V5KT ^= 997754828;
 break;
 case 'f':
-MwA3 = X3_Nz9lY(WW85Uu, 971029240, 1463885760);
+MwA3 = X3_Nz9lY(WW85Uu, (short)971029240, 1463885760);
 break;
 case 'g':
 YuF_a49_sd -= LElR;

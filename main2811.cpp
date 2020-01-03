@@ -95,7 +95,7 @@ case 5:
 I_5I++;
 break;
 case 6:
-C8Gz = z6W1PGx((short)676061764, Fa1kpxS, (short)-454166148, -1780049593, 1973125279);
+C8Gz = z6W1PGx((short)676061764, Fa1kpxS, (short)-454166148, (char)-1780049593, 1973125279);
 break;
 }
 }
@@ -140,7 +140,7 @@ case 'b':
 Jr8n = ZWTnd0num << 738061705;
 break;
 case 'c':
-E_HAm = kDwx(tq_TV9r_, E_HAm, (unsigned short)871323374, -926099581);
+E_HAm = kDwx(tq_TV9r_, E_HAm, (unsigned short)871323374, (unsigned short)-926099581);
 break;
 default:
 tq_TV9r_ = t2y283g(784205513, D86wf);
@@ -209,7 +209,7 @@ case 0:
 AMylpg2 = z6W1PGx(AMylpg2, C8Gz, (short)-288969579, QnccIJ, (short)416726845);
 break;
 default:
-Mj1mEr = t2y283g(1045239363, -1058673089);
+Mj1mEr = t2y283g((short)1045239363, -1058673089);
 break;
 }
 switch (twE9)
@@ -246,7 +246,7 @@ Na9_1 = z6W1PGx(Na9_1, SxJu1qQvSp, D86wf, tq_TV9r_, Fa1kpxS);
 }
 else
 {
-D2WmSanoH1 = z6W1PGx(D2WmSanoH1, D86wf, (short)1684385964, (char)-380554811, 793503870);
+D2WmSanoH1 = z6W1PGx(D2WmSanoH1, D86wf, (short)1684385964, (char)-380554811, (short)793503870);
 }
 }
 }
@@ -310,7 +310,7 @@ smz_66 = (int)abs(yEg1s);
 }
 else if (ajMkY91Klj == w_sjCp)
 {
-std::cout << z6W1PGx(HULiN59dxr, 587557506, tq_TV9r_, (char)-1113120972, Tv6kb) << "j1qQCC" << z6W1PGx(HULiN59dxr, -29402732, 1192459009, Na9_1, 939238068) << "DzcM0R" << "b9Ync" << std::endl;
+std::cout << z6W1PGx(HULiN59dxr, 587557506, tq_TV9r_, (char)-1113120972, Tv6kb) << "j1qQCC" << z6W1PGx(HULiN59dxr, -29402732, (short)1192459009, Na9_1, 939238068) << "DzcM0R" << "b9Ync" << std::endl;
 }
 else
 {
@@ -403,7 +403,7 @@ ZWTnd0num = z6W1PGx((short)-1759705598, uwATwr5tKT, uZqR_m8, (char)-230842737, U
 break;
 case 'b':
 case 'B':
-D86wf = z6W1PGx(cW4F9nCp6, -1667221782, uZqR_m8, hyP_V1h, 1697361767) & 1736753129;
+D86wf = z6W1PGx(cW4F9nCp6, -1667221782, uZqR_m8, hyP_V1h, (short)1697361767) & 1736753129;
 break;
 case 'c':
 case 'C':
@@ -417,7 +417,7 @@ for (int i = 0; i < 7; ++i)
 {
 if (smz_66 == -2055610478)
 {
-ZWTnd0num = z6W1PGx(ZWTnd0num, -929416223, (short)331472279, (char)-322883866, 1639473507);
+ZWTnd0num = z6W1PGx(ZWTnd0num, -929416223, (short)331472279, (char)-322883866, (short)1639473507);
 }
 else if (WGIWnc == SxJu1qQvSp)
 {

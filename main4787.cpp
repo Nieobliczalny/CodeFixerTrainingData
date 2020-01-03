@@ -30,7 +30,7 @@ int main() {
     short    DPkNWvx3l2    =    (short)-311171154;
   short int  V_g0X7dl  =  (short)2001053876;
   float  iQc711  =  -1648080695;
-    unsigned short    h_i_    =    1045458808;
+    unsigned short    h_i_    =    (unsigned short)1045458808;
 	double	KMltbuG47	=	-750152139;
     short int    P5CrW7P3D    =    -1774847701;
     unsigned long long    UnDv    =    0;

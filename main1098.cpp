@@ -29,7 +29,7 @@ int main()
     unsigned long    NdMS9_n9a_;
     NdMS9_n9a_    =    1502162310;
  unsigned short m_08;
- m_08 = 539908770;
+ m_08 = (unsigned short)539908770;
   float  cO4e379;
   cO4e379  =  855420850;
   double  qz4A;
@@ -59,7 +59,7 @@ int main()
     float    Ruk02Z2MG;
     Ruk02Z2MG    =    1014915450;
 	unsigned short	Iz07;
-	Iz07	=	-1302165937;
+	Iz07	=	(unsigned short)-1302165937;
   short  a4n823vEaL;
   a4n823vEaL  =  -776118820;
   unsigned short int  U_QLP6n17;
@@ -83,7 +83,7 @@ int main()
   unsigned short  Q53FCag;
   Q53FCag  =  (unsigned short)1380361102;
     unsigned short int    KLCq;
-    KLCq    =    1104253844;
+    KLCq    =    (unsigned short)1104253844;
 	unsigned short int	GJDAfc_Q_;
 	GJDAfc_Q_	=	469011687;
 	short	E749wo;
@@ -127,7 +127,7 @@ int main()
   unsigned short int  MJ_bQ91;
   MJ_bQ91  =  (unsigned short)-99895470;
  short int U9h9M;
- U9h9M = 1930294983;
+ U9h9M = (short)1930294983;
  unsigned long Z20P;
  Z20P = -1500446058;
  unsigned char T0k24E2_;
@@ -271,7 +271,7 @@ try
 {
 try
 {
-cout << SF8_(u6s_, C14xxq, 1885921000) << SF8_((unsigned short)-939401580, C14xxq, -349706772) << F0jG3456L << "p1M_vbn42" << SF8_(647905920, -745671403, qz4A) << endl;
+cout << SF8_(u6s_, C14xxq, 1885921000) << SF8_((unsigned short)-939401580, C14xxq, -349706772) << F0jG3456L << "p1M_vbn42" << SF8_((unsigned short)647905920, -745671403, qz4A) << endl;
 }
 catch (int& errorCode)
 {

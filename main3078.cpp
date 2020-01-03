@@ -40,7 +40,7 @@ int main() {
 	char	pFg3Ljl;
 	pFg3Ljl	=	(char)2113849006;
   short int  o719mHKs0;
-  o719mHKs0  =  1821915502;
+  o719mHKs0  =  (short)1821915502;
 	int	R_0l25Y;
 	R_0l25Y	=	0;
 	int	j_Er00;
@@ -60,7 +60,7 @@ int main() {
  char O_r5Zyp061;
  O_r5Zyp061 = (char)1216994378;
 	short int	Cwk5A14m2F;
-	Cwk5A14m2F	=	-2116632693;
+	Cwk5A14m2F	=	(short)-2116632693;
 
 qw80445g = (long long)(qx4e * qw80445g);
 r6026_q1B1 = (unsigned char)(Cwk5A14m2F);

@@ -21,7 +21,7 @@ int main() {
 	short	e532G4d0	=	(short)-1316084110;
   double  b3nrr  =  1722288541;
   int  uC9288b  =  800476412;
- unsigned char K17h = -1000639229;
+ unsigned char K17h = (unsigned char)-1000639229;
     unsigned char    Shx1MU9B    =    -1360878429;
   long long  LEH9  =  -284432955;
 	long long	nkC75vA_Gx	=	-1279321179;
@@ -40,7 +40,7 @@ int main() {
     long    X0lo3    =    1425968348;
 	unsigned int	JjTNs	=	-1484458305;
 	unsigned long	xc4icCF75s	=	-86662010;
- short int I_z636x2F = 916656197;
+ short int I_z636x2F = (short)916656197;
     long long    L3cBD3C3    =    343545553;
  long double L7dc25d8s = 1549376612;
     unsigned long    Ced7y8MZ    =    950163826;
@@ -51,7 +51,7 @@ int main() {
   unsigned int  JbaT0  =  -315652223;
   short int  KWazohhKcK  =  (short)1264490725;
  double t8V09 = -833342432;
-	unsigned char	ek_K	=	1162749549;
+	unsigned char	ek_K	=	(unsigned char)1162749549;
  char DjrVl = 1555320953;
   unsigned long long  mkN6Nf  =  -2016891335;
  char NHKM = 175279982;
@@ -64,7 +64,7 @@ int main() {
   long long  lE2i2K  =  -528634181;
 	unsigned long long	brN1N	=	929023787;
     float    uM18k    =    532398141;
-    unsigned char    qc52b9S_M    =    1604214660;
+    unsigned char    qc52b9S_M    =    (unsigned char)1604214660;
 	int	Sbpu_p5d4	=	-737381176;
     char    urHchU0u8    =    1274674848;
     unsigned long long    vq1Tar2    =    1117155670;
@@ -75,7 +75,7 @@ int main() {
   int  R6pv_  =  -1087699450;
  unsigned short xRLwR8N9 = -416851385;
  double L6hufau7 = -344174303;
-	unsigned short	ZVoi4sWe	=	532344440;
+	unsigned short	ZVoi4sWe	=	(unsigned short)532344440;
   int  k02v_2u03  =  2036469708;
  long sGUxZIJ_Q = -733711417;
 	unsigned long long	M_zs_k8y	=	13955268;
@@ -85,7 +85,7 @@ int main() {
  short int r8Kk0yzv = -1638514601;
     unsigned int    rC2Bmgv    =    1960482750;
 	double	seHa0O6_Ag	=	-1123392588;
- char y_0a = -1376477860;
+ char y_0a = (char)-1376477860;
 
 for (int i = 4; i >= 0; i--)
 {
@@ -316,7 +316,7 @@ mkN6Nf = (unsigned long long)(Q0E0N4R0Or);
 }
 else if (lE2i2K == -899036800)
 {
-cout << L3cBD3C3 << W9gG((short)-854790862, (short)748608811) << hr7Cg << W9gG(267520148, -2139580582) << endl;
+cout << L3cBD3C3 << W9gG((short)-854790862, (short)748608811) << hr7Cg << W9gG((short)267520148, -2139580582) << endl;
 }
 else
 {

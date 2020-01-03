@@ -412,7 +412,7 @@ SZzoFk_ob = ekSTp_23F();
 break;
 case 'j':
 case 'J':
-UP3FI2SO9 = HyyVR(UP3FI2SO9, -1009909180, -264779428, kxYJ3U);
+UP3FI2SO9 = HyyVR(UP3FI2SO9, (unsigned short)-1009909180, -264779428, kxYJ3U);
 break;
 default:
 AbauU = (int)abs(Ea2abxN);
@@ -455,7 +455,7 @@ while (k < 1);
 
 wPhoJbRf = wuaGnU496 / E52RY_T(141175405, PGZyTtQY, ncY4kV0v89, (short)-1240910551);
 
-std::cout << E52RY_T(-499880025, PGZyTtQY, (unsigned short)-2034522929, -467471621) << "fcU8Df" << Z_s067 << std::endl;
+std::cout << E52RY_T(-499880025, PGZyTtQY, (unsigned short)-2034522929, (short)-467471621) << "fcU8Df" << Z_s067 << std::endl;
 if (f5A_67YD < wwG64qNqcN)
 {
 for (int j = 7; j >= 0; --j)
@@ -473,7 +473,7 @@ do
 {
 for (int j = 0; j < 3; j++)
 {
-fNTDY = HyyVR(-121217217, -1159942498, PEB4, -627888836);
+fNTDY = HyyVR(-121217217, (unsigned short)-1159942498, PEB4, -627888836);
 }
 ++i;
 }
@@ -650,7 +650,7 @@ std::cout << "U1z4_jEe31" << "UpMIVE3cb" << std::endl;
 }
 else
 {
-std::cout << E52RY_T(-2125162597, a4S7riclKD, (unsigned short)-928869602, (short)382360460) << JW_H << p16yC(iWI4Ur1T, 1635046710, 4152249, -2014479489, DG362P4k) << std::endl;
+std::cout << E52RY_T(-2125162597, a4S7riclKD, (unsigned short)-928869602, (short)382360460) << JW_H << p16yC(iWI4Ur1T, (short)1635046710, 4152249, -2014479489, DG362P4k) << std::endl;
 }
 
 return 0;

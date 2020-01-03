@@ -127,7 +127,7 @@ jEm7g6w25 = W4ST((short)1067940039, CBWi51GhK, (unsigned short)-184203029, zvPlF
 }
 else if (nG0M_ua4VJ == -325554083)
 {
-qC892 = Ahxz761O3h(1496350533, L1B19, 1692613552, 2097456046, q8TTVkm);
+qC892 = Ahxz761O3h(1496350533, L1B19, (unsigned char)1692613552, 2097456046, q8TTVkm);
 }
 else
 {
@@ -158,7 +158,7 @@ JgHeRNcOm = Ahxz761O3h(JgHeRNcOm, 99386308, (unsigned char)-1621866870, (unsigne
 }
 else if (X5_3 != -34249230)
 {
-BqC_gcaw_ = W4ST(CBWi51GhK, 592990914, PY7s6H, k7KGBhf, -1889401856);
+BqC_gcaw_ = W4ST(CBWi51GhK, (unsigned short)592990914, PY7s6H, k7KGBhf, -1889401856);
 }
 else
 {
@@ -177,7 +177,7 @@ try
 {
 try
 {
-std::cout << sJ42Tg << XwqOdN4 << W4ST((short)621670127, X5_3, (unsigned short)569079746, To2R, IzEqFB1K) << W4ST(efKCpVfA, X5_3, QtW_ywlidM, -1640940673, IzEqFB1K) << W4ST(efKCpVfA, 1272133256, 1520983463, To2R, 893764352) << std::endl;
+std::cout << sJ42Tg << XwqOdN4 << W4ST((short)621670127, X5_3, (unsigned short)569079746, To2R, IzEqFB1K) << W4ST(efKCpVfA, X5_3, QtW_ywlidM, -1640940673, IzEqFB1K) << W4ST(efKCpVfA, (unsigned short)1272133256, 1520983463, To2R, 893764352) << std::endl;
 }
 catch (int& errorCode)
 {
@@ -249,7 +249,7 @@ k8N_29p = Mf3_NVeia(-497864781, z14e25);
 }
 else if (MnM_c > 1718553238)
 {
-DI755a = W4ST((short)44425400, (unsigned short)1324236711, -1048694962, hzTJHOG, 1319532330);
+DI755a = W4ST((short)44425400, (unsigned short)1324236711, (unsigned short)-1048694962, hzTJHOG, 1319532330);
 }
 else if (IzEqFB1K == 2096306402)
 {
@@ -454,7 +454,7 @@ int k = 0;
 while (k < 1)
 {
 k++;
-W3e1ki29s4 = W4ST((short)-536665764, (unsigned short)1575428436, -1690490675, 311435578, XVJxIb);
+W3e1ki29s4 = W4ST((short)-536665764, (unsigned short)1575428436, (unsigned short)-1690490675, 311435578, XVJxIb);
 }
 }
 }
@@ -705,7 +705,7 @@ case 'c':
 efKCpVfA *= E8IetmP17;
 break;
 case 'd':
-BqC_gcaw_ = W4ST(hzTJHOG, -558030620, -1749398788, -1288824801, X5_3);
+BqC_gcaw_ = W4ST(hzTJHOG, (unsigned short)-558030620, -1749398788, -1288824801, X5_3);
 break;
 case 'e':
 XSPY6Xx -= qC892;

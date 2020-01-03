@@ -24,7 +24,7 @@ short    Z952N(unsigned long long    I90I24,char    JNhq)    {
 }
 
 short int    EY6Vy()    {
-    return    210398358;
+    return    (short)210398358;
 }
 
 int main(void)
@@ -36,7 +36,7 @@ int main(void)
 	unsigned short	G_3r5Vg	=	(unsigned short)-582364512;
     long    b8H6s5ex1Y    =    -13750839;
   char  nvLg  =  0;
- short EYanNS6 = -524578963;
+ short EYanNS6 = (short)-524578963;
 	short int	KlHM	=	-215910958;
   char  tb_PH5  =  -108899756;
  long long U_DI1 = 0;

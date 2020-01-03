@@ -63,7 +63,7 @@ case 3:
 acQA = (int)floor(g1IW4BS3u6);
 break;
 case 4:
-gLNsM_53aU = w5_71AX76M(-106043684, (unsigned short)-1311028538, 434567369);
+gLNsM_53aU = w5_71AX76M(-106043684, (unsigned short)-1311028538, (unsigned short)434567369);
 break;
 case 5:
 V34w4P = p2dH4COtT(V34w4P, (char)-158881118, 633417847, -307982284, 1929805092);
@@ -160,7 +160,7 @@ else if ((md856 != lkid) || ((Y40Z7DX_Mw < -595387617) || (g_m9 < d81EAT)))
 {
 try
 {
-std::cout << eNbJj1_7(101441292, (char)511069789, gLNsM_53aU, 1188358704, JEhqPZfxR) << p2dH4COtT(g_m9, (char)-1539330179, -36489399, 1214116352, JEhqPZfxR) << std::endl;
+std::cout << eNbJj1_7(101441292, (char)511069789, gLNsM_53aU, 1188358704, JEhqPZfxR) << p2dH4COtT(g_m9, (char)-1539330179, -36489399, (unsigned char)1214116352, JEhqPZfxR) << std::endl;
 }
 catch (int& errorCode)
 {
@@ -195,7 +195,7 @@ q07W14H = lRQEVUCv / 144208213;
 }
 else if (Y_3p0d7zhd & FxHaPf)
 {
-cbNot = p2dH4COtT((char)-581777834, (char)-1861052256, -1951330503, -1616015535, Waq176);
+cbNot = p2dH4COtT((char)-581777834, (char)-1861052256, -1951330503, (unsigned char)-1616015535, Waq176);
 }
 else
 {
@@ -290,7 +290,7 @@ at10x = (int)ceil(nplV5Xv0);
 break;
 case 'd':
 case 'D':
-fP2Ml79 = p2dH4COtT((char)-1404088069, (char)2064494693, 1460273736, -895724799, lRQEVUCv) >> 131310113;
+fP2Ml79 = p2dH4COtT((char)-1404088069, (char)2064494693, 1460273736, (unsigned char)-895724799, lRQEVUCv) >> 131310113;
 break;
 case 'e':
 case 'E':
@@ -522,7 +522,7 @@ case 0:
 Y_3p0d7zhd = eNbJj1_7(nEeXh_25, (char)-1094310782, 1498663445, g_m9, at10x);
 break;
 case 1:
-Y40Z7DX_Mw = p2dH4COtT((char)-785403717, UAgmOR, -17303032, -843750575, 441731224);
+Y40Z7DX_Mw = p2dH4COtT((char)-785403717, UAgmOR, -17303032, (unsigned char)-843750575, 441731224);
 break;
 case 2:
 md856 = (int)ceil(HvqsMT3rh);
@@ -545,7 +545,7 @@ f2JbxP6 -= 1420346914;
 
 if (HvqsMT3rh >= -709811149)
 {
-Cq_G_JHLL = (JEhqPZfxR != at10x) ? -442647768 : p2dH4COtT((char)-1164304799, (char)257406114, d81EAT, 1754710291, OJ_0);
+Cq_G_JHLL = (JEhqPZfxR != at10x) ? -442647768 : p2dH4COtT((char)-1164304799, (char)257406114, d81EAT, (unsigned char)1754710291, OJ_0);
 }
 OJ_0 = FYro(OJ_0, JEhqPZfxR, 2069454926, nplV5Xv0);
 if (nplV5Xv0)

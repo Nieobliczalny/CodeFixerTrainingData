@@ -37,7 +37,7 @@ int main(void) {
   unsigned short int  gmSu4x0_2  =  (unsigned short)-219361666;
   short int  YE4Y  =  (short)298297041;
 	unsigned long	HnqtN7	=	1958013718;
-  unsigned char  zQ7tcEt  =  -863237425;
+  unsigned char  zQ7tcEt  =  (unsigned char)-863237425;
  short Llf1 = -1023536446;
  float NX8d1BI8G = -447104832;
     unsigned short int    G9YlQkC    =    544603064;
@@ -48,7 +48,7 @@ int main(void) {
  int K0XMg7dQ3 = 0;
     short int    ECEVtHt3    =    (short)-427816163;
 
-std::cout << u0575Pq4k7(tfv20OKR, -1442659240, -250032380) << std::endl;
+std::cout << u0575Pq4k7(tfv20OKR, -1442659240, (short)-250032380) << std::endl;
 
 K0XMg7dQ3 = ruLXX7();
 

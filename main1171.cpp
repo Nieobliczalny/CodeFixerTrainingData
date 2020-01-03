@@ -21,7 +21,7 @@ int main(int argc, char** argv) {
   short  j6O42TyQ  =  (short)1139388592;
   short  yzaok6HM_  =  (short)-225392272;
 	unsigned long long	x2BZnR5CVD	=	-303097809;
-  unsigned short  HS3m4E  =  -1114167903;
+  unsigned short  HS3m4E  =  (unsigned short)-1114167903;
   char  ur3w3  =  1734094862;
   short  Fkr5uTMJ  =  0;
  int L3h_f88Tc = -1412884693;
@@ -97,7 +97,7 @@ case 0:
 q4Cl89 = M8tan36V(q4Cl89, (short)1147010449, ur3w3, (short)-895711469);
 break;
 case 1:
-LxQ0D = M8tan36V(-1903415222, 1081712786, UHZ9_412, x2BZnR5CVD);
+LxQ0D = M8tan36V(-1903415222, (short)1081712786, UHZ9_412, x2BZnR5CVD);
 break;
 }
 }
@@ -196,7 +196,7 @@ yzaok6HM_ = M8tan36V(yzaok6HM_, LxQ0D, (short)1053382714, (short)-1442116292);
 break;
 case 'c':
 case 'C':
-yzaok6HM_ = M8tan36V(yzaok6HM_, -1363182116, 1300861650, UHZ9_412);
+yzaok6HM_ = M8tan36V(yzaok6HM_, (short)-1363182116, 1300861650, UHZ9_412);
 break;
 case 'd':
 case 'D':

@@ -42,7 +42,7 @@ int main(int argc, char** argv) {
     unsigned long    NC371RWS;
     NC371RWS    =    2024606295;
 	unsigned char	nb940lCY;
-	nb940lCY	=	1284236148;
+	nb940lCY	=	(unsigned char)1284236148;
   unsigned long long  x41__;
   x41__  =  -195997858;
     unsigned int    rD897Wp;
@@ -80,7 +80,7 @@ int main(int argc, char** argv) {
 	unsigned int	m2yQx;
 	m2yQx	=	662944824;
   unsigned short int  W7PHxYd;
-  W7PHxYd  =  -227309256;
+  W7PHxYd  =  (unsigned short)-227309256;
   double  i84X;
   i84X  =  -1691479760;
  long double m51V;
@@ -120,7 +120,7 @@ int main(int argc, char** argv) {
     int    f_pP4;
     f_pP4    =    48718173;
     unsigned short int    WKu2WK;
-    WKu2WK    =    944086452;
+    WKu2WK    =    (unsigned short)944086452;
   unsigned long  W64yMDi;
   W64yMDi  =  -159600275;
 	float	fbVx6YD;
@@ -156,7 +156,7 @@ int main(int argc, char** argv) {
 	short	eKo0;
 	eKo0	=	(short)72020270;
  char k7j3_Xo04;
- k7j3_Xo04 = 2085778017;
+ k7j3_Xo04 = (char)2085778017;
 	long long	QRI9d;
 	QRI9d	=	570060231;
     char    yUq7c;
@@ -212,7 +212,7 @@ int main(int argc, char** argv) {
  short w5v2;
  w5v2 = (short)-783991763;
 	unsigned char	nl2Mp8r_a;
-	nl2Mp8r_a	=	-854125233;
+	nl2Mp8r_a	=	(unsigned char)-854125233;
 
 {
 int i = 0;
@@ -389,7 +389,7 @@ GlSq_ -= RmxvFk;
 }
 else
 {
-XQXzWAaTi = LqAft(XQXzWAaTi, LHx266nI, 402957390, -1125758549);
+XQXzWAaTi = LqAft(XQXzWAaTi, LHx266nI, (unsigned char)402957390, -1125758549);
 }
 }
 else if ((r1Dw0ud_ < Cak74upuVL) || ((nb940lCY < 1451058755) && (wDv1t == 173171284)))
@@ -490,7 +490,7 @@ cout << LZSJ3WbR92 << F0_Cr << endl;
 NC371RWS = LqAft(-1191198402, (short)-148368597, GlSq_, (unsigned char)-131457731);
 OojVZ3 = txwG();
 
-lT3UM4hF9 = mL3vA / BVqqEzu2oh(36356657, CJtv3oQWe, NC371RWS);
+lT3UM4hF9 = mL3vA / BVqqEzu2oh((short)36356657, CJtv3oQWe, NC371RWS);
 
 NUj_161_69 ^= 1909463127;
 switch (dvQuB)
@@ -881,7 +881,7 @@ cout << sdBG << PD61 << LqAft(-1611980194, oRY6N_2Dm_, RmxvFk, m2yQx) << Wzz8(Us
 H_gmd = BVqqEzu2oh((short)-2106962884, (short)1150080727, 1932240156);
 wB4i = (unsigned long)(W64yMDi);
 
-f_pP4 = LqAft(-789087682, 1522339246, -1082491279, NH3wx3Zz);
+f_pP4 = LqAft(-789087682, (short)1522339246, -1082491279, NH3wx3Zz);
 
 return 0;
 }

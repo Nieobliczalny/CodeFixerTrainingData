@@ -113,7 +113,7 @@ XW6z6_t0l = K37S(XW6z6_t0l, (unsigned short)1479920537);
 }
 else
 {
-dxX9 = keB2rH(R83rr, (short)509235022, 280374576);
+dxX9 = keB2rH(R83rr, (short)509235022, (unsigned short)280374576);
 }
 }
 }

@@ -25,7 +25,7 @@ int main(int argc, char** argv) {
  long double xV_nf21I = -1350671842;
   unsigned long  B4G7z  =  1946650424;
     int    YH08sMrle    =    1442534670;
-    unsigned short int    Z_iJ80bS    =    1348874758;
+    unsigned short int    Z_iJ80bS    =    (unsigned short)1348874758;
  float b3kSM = 1485145329;
     unsigned short    cJnbX    =    0;
  long long OVTQZ7 = 1033942122;
@@ -35,7 +35,7 @@ int main(int argc, char** argv) {
 	unsigned long long	UOw875ciQo	=	39829585;
 	double	SMNG	=	236905139;
   unsigned short  KY4rb  =  (unsigned short)-1677467067;
- unsigned char oqP14KeZk4 = -129621156;
+ unsigned char oqP14KeZk4 = (unsigned char)-129621156;
     short int    H06JOg9    =    -2021318657;
 	short int	HKJ7566o	=	-1237330685;
 	short	AbEAIKbKu	=	-966689535;
@@ -48,7 +48,7 @@ int main(int argc, char** argv) {
   unsigned char  kiki838g85  =  (unsigned char)2086044553;
 	long	FPi76kr	=	163610459;
 	unsigned char	kuj_x_2	=	(unsigned char)-83366618;
-	char	r4wC8phg	=	1398162776;
+	char	r4wC8phg	=	(char)1398162776;
     short int    NST23w    =    1981429950;
   double  WvAy  =  1563761304;
   long long  PjU_R289  =  -1374937102;
@@ -58,7 +58,7 @@ int main(int argc, char** argv) {
  unsigned char wnk5kkL7 = (unsigned char)1195958853;
 	long	v6115y	=	-2002674146;
     unsigned short    HxCJ    =    (unsigned short)1800340733;
-    short    YCY4u_OBd    =    -1687330374;
+    short    YCY4u_OBd    =    (short)-1687330374;
 	short	N6u9eT	=	-1363436811;
 	unsigned long	QCj98h30T5	=	1926413658;
   long  zuRw44  =  2099809211;
@@ -68,7 +68,7 @@ int main(int argc, char** argv) {
  unsigned short Or9JB99z = (unsigned short)1342515675;
     double    vf7g6    =    -1919284952;
 	unsigned short	AS0An7	=	(unsigned short)-1577994446;
-    unsigned short    gsgg_28M    =    464681163;
+    unsigned short    gsgg_28M    =    (unsigned short)464681163;
  short KjOvG_WHS = 1284060739;
 	short int	BsD7	=	698758218;
  unsigned long long RM7j246 = -649361475;
@@ -86,7 +86,7 @@ int main(int argc, char** argv) {
 	unsigned long long	vZ8K7S0X	=	1837011316;
   unsigned char  Kg6tvNevgk  =  0;
  unsigned int Z4lB = -1871376297;
- short int OL7R_7R = -715920537;
+ short int OL7R_7R = (short)-715920537;
 	double	yvz9yd_Ti	=	-1138739579;
  unsigned char dMdH7gC97 = 364172696;
 	long long	oiyS3x2l	=	1953421729;

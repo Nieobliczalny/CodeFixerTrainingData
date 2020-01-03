@@ -16,7 +16,7 @@ int main(int argc, char** argv)
   unsigned char  oarvPaV_  =  (unsigned char)1289880628;
   unsigned long  INdpTT  =  -2128075114;
  unsigned int uQ60a05V_ = -1575570229;
-  short  trHuZhJB24  =  -1671645427;
+  short  trHuZhJB24  =  (short)-1671645427;
 	unsigned long	v_ems	=	503928040;
 	int	Rt67	=	0;
  double Gk48O = -797743540;
@@ -27,7 +27,7 @@ int main(int argc, char** argv)
 	int	vUQZp	=	-453858184;
   short int  t2_70EK6  =  (short)-1097150054;
  long long FVfbX0 = 1474083756;
- unsigned short int Q_J3JIT = 1808453727;
+ unsigned short int Q_J3JIT = (unsigned short)1808453727;
   short  m0Y70XIq2p  =  903096428;
   long  xoB2__Rg  =  -1102049372;
   unsigned long long  EN5i_  =  -396356267;
@@ -38,7 +38,7 @@ int main(int argc, char** argv)
  unsigned char L2B_duMvZ = (unsigned char)-438640267;
     char    SxV5e    =    -41309563;
     long    fW0dED_    =    -276050021;
-    short    vb64    =    -928032481;
+    short    vb64    =    (short)-928032481;
     long long    AQGKhz    =    -1382374652;
     long    DIV_x    =    1740238812;
   unsigned short  GtvoIayn  =  2003085533;
@@ -69,7 +69,7 @@ int main(int argc, char** argv)
  double Y603xEAWk = 995564306;
  unsigned long wUdy = -464036109;
 	short	Zvj46abLt8	=	(short)392834001;
-	unsigned short	Ip1v_HQL	=	1418331185;
+	unsigned short	Ip1v_HQL	=	(unsigned short)1418331185;
     unsigned long long    Ql8X47    =    -761311716;
   float  CIW7A  =  -368797364;
   char  N0nADcK  =  (char)696598289;
@@ -91,7 +91,7 @@ int main(int argc, char** argv)
  float u86fXWejE = 1691974430;
  short r_7JzZJ = (short)844257149;
     float    GsRzj    =    806374383;
- char E1MiO = 1927810690;
+ char E1MiO = (char)1927810690;
     unsigned short    OaixF1    =    -411710180;
   long double  DF_1_u_  =  1192926284;
  short VXHeg = (short)1262171101;
@@ -113,7 +113,7 @@ case 1:
 wUdy &= R3c6;
 break;
 case 2:
-L2B_duMvZ = (INdpTT == PJ6v7__5) ? -1589403897 : -365431992;
+L2B_duMvZ = (INdpTT == PJ6v7__5) ? (unsigned char)-1589403897 : -365431992;
 break;
 case 3:
 trHuZhJB24 = INdpTT | 1768330417;

@@ -17,7 +17,7 @@ int main(void)
  short int g5b7p;
  g5b7p = (short)1084021102;
 	unsigned char	N62_QAV_;
-	N62_QAV_	=	-648814018;
+	N62_QAV_	=	(unsigned char)-648814018;
 	unsigned short	M8WMPF;
 	M8WMPF	=	555235558;
  unsigned long ITlMRw;
@@ -31,7 +31,7 @@ int main(void)
  unsigned short int v4Q8D6;
  v4Q8D6 = (unsigned short)-1854621853;
   unsigned short  Ncrj;
-  Ncrj  =  1639632378;
+  Ncrj  =  (unsigned short)1639632378;
 	long double	O3ZIWk8q91;
 	O3ZIWk8q91	=	-877948444;
   float  R1JLkh_6;
@@ -63,7 +63,7 @@ int main(void)
     unsigned short    tg1HBj5;
     tg1HBj5    =    (unsigned short)1471011885;
     unsigned short    h_t91;
-    h_t91    =    1265250644;
+    h_t91    =    (unsigned short)1265250644;
     unsigned short int    It32qQ25tY;
     It32qQ25tY    =    (unsigned short)1574779269;
  unsigned char q2c6eo_;
@@ -91,7 +91,7 @@ int main(void)
   unsigned short  L5e8T;
   L5e8T  =  (unsigned short)1611583232;
 	unsigned short	OJPR8NIapO;
-	OJPR8NIapO	=	-306687301;
+	OJPR8NIapO	=	(unsigned short)-306687301;
 	unsigned long long	v0RpCKoZ;
 	v0RpCKoZ	=	1002120703;
     char    j4T2;
@@ -111,7 +111,7 @@ int main(void)
  char niP3;
  niP3 = (char)-2037588203;
 	char	Y0eIxjPZI;
-	Y0eIxjPZI	=	688580770;
+	Y0eIxjPZI	=	(char)688580770;
  unsigned char I_hL9Q1o;
  I_hL9Q1o = (unsigned char)1828340576;
   unsigned short  kh3a;
@@ -125,7 +125,7 @@ int main(void)
 	unsigned short int	OXbI;
 	OXbI	=	(unsigned short)-695657893;
  short fbFg7hjP5;
- fbFg7hjP5 = 182793722;
+ fbFg7hjP5 = (short)182793722;
   int  yx0U_3_0Y;
   yx0U_3_0Y  =  1214084283;
   long long  Y2t_Hz;
@@ -147,7 +147,7 @@ int main(void)
     short    Sfr_zej2s;
     Sfr_zej2s    =    (short)1814875995;
 	unsigned short	Yj0X13wLhW;
-	Yj0X13wLhW	=	-1328437078;
+	Yj0X13wLhW	=	(unsigned short)-1328437078;
  short SlJ3L_fh;
  SlJ3L_fh = -446593374;
  unsigned long g97H_;
@@ -175,7 +175,7 @@ int main(void)
 	unsigned int	XMT0_;
 	XMT0_	=	893759289;
 	unsigned short int	Bi97;
-	Bi97	=	198195121;
+	Bi97	=	(unsigned short)198195121;
 
 LGxSr37vM = (int)abs(Sfr_zej2s);
 

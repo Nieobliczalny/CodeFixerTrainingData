@@ -20,7 +20,7 @@ int main()
 	short	NmWveSqY13;
 	NmWveSqY13	=	(short)665929555;
  unsigned short Mp_05v;
- Mp_05v = -1095986555;
+ Mp_05v = (unsigned short)-1095986555;
   long double  I9_RU;
   I9_RU  =  1672079859;
     unsigned char    emB5A8Ju;

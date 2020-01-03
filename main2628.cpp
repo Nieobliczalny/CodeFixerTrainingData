@@ -115,7 +115,7 @@ if (UEkdRp == 0)
 	S34G47EX0 = 109797423 / UEkdRp;
 }
 
-std::cout << BfZMRE9ZU(FS1ABVb8c) << BfZMRE9ZU((unsigned short)-1433873082) << J86BWIWO(FS1ABVb8c, 714623826, -1889425626, xRh8DWTP, 1034684282) << J86BWIWO(-1977766893, YRI7, -1431573336, xRh8DWTP, -1750846860) << "E1W16X_7t" << std::endl;
+std::cout << BfZMRE9ZU(FS1ABVb8c) << BfZMRE9ZU((unsigned short)-1433873082) << J86BWIWO(FS1ABVb8c, (short)714623826, -1889425626, xRh8DWTP, 1034684282) << J86BWIWO(-1977766893, YRI7, -1431573336, xRh8DWTP, -1750846860) << "E1W16X_7t" << std::endl;
 switch (GnCWRL8LBw)
 {
 case 0:
@@ -128,7 +128,7 @@ case 2:
 bgj8jZFiP <<= JWBaVH1tY;
 break;
 case 3:
-Kl72 = p5S2L_kf5((char)-1900682647, 1040716232, 985138409);
+Kl72 = p5S2L_kf5((char)-1900682647, (unsigned short)1040716232, 985138409);
 break;
 case 4:
 OWq_n3b = lxve_qBm(OWq_n3b);
@@ -158,7 +158,7 @@ case 2:
 IKYXej7vJ &= s_WNC;
 break;
 case 3:
-I5r0q_8H = J86BWIWO(I5r0q_8H, 1703723956, UX_q, S34G47EX0, TdYr);
+I5r0q_8H = J86BWIWO(I5r0q_8H, (short)1703723956, UX_q, S34G47EX0, TdYr);
 break;
 case 4:
 S34G47EX0 ^= MA_4hbo7GT;

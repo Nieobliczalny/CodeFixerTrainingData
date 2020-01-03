@@ -28,7 +28,7 @@ int main(int argc, char** argv)
 	short	cxj474t7	=	(short)1771653359;
     short int    LZXn0z    =    (short)523427853;
  double wwmzEZM2a2 = 1208870437;
- unsigned short s9gmgeA = 1763351151;
+ unsigned short s9gmgeA = (unsigned short)1763351151;
  int g5Fo_ = -932929901;
 	unsigned short int	YoPkrB5z	=	-1179853689;
   unsigned long long  g50EGMeqxV  =  -1760809393;
@@ -42,7 +42,7 @@ int main(int argc, char** argv)
   long  A2pg  =  1132367146;
  float yr1wGey = -314606110;
   long  RtZpXx  =  425746277;
-    short int    Y18E    =    1388907568;
+    short int    Y18E    =    (short)1388907568;
     long long    sFD0m77c4A    =    1269842984;
 	double	o4Sl_3	=	-1368931455;
 	unsigned long	MzB8U7cI5	=	-1234490242;
@@ -66,7 +66,7 @@ int main(int argc, char** argv)
 	float	y8754vA93	=	-1570088290;
     unsigned int    NrzFQ50    =    0;
 	int	rH1TCr	=	1824958925;
- unsigned short kX54F9 = -255690055;
+ unsigned short kX54F9 = (unsigned short)-255690055;
   long long  C1Y33MV8  =  290833440;
   unsigned long  hAU46  =  -761444748;
     unsigned long long    dUx_5Yn    =    756958468;
@@ -78,7 +78,7 @@ int main(int argc, char** argv)
     unsigned short int    A700DRLf    =    1666237342;
   unsigned int  YjcwFUF7  =  1152207051;
 	long	Kt3E_Tf_kS	=	1246213900;
-  char  TPD4Y  =  -2021805226;
+  char  TPD4Y  =  (char)-2021805226;
  unsigned short int YT69 = -1268594701;
  long COV9w = -1326265198;
   unsigned char  QDmsv0m18F  =  (unsigned char)-1807712071;
@@ -89,7 +89,7 @@ int main(int argc, char** argv)
 	char	mA0Xq3uohx	=	1974754602;
 	unsigned char	hS1hDzzQVV	=	-345743251;
     int    Qq02Ll    =    2014500219;
-	unsigned short	cx8p7UbsEg	=	187751345;
+	unsigned short	cx8p7UbsEg	=	(unsigned short)187751345;
  unsigned long J6d_b = -764607703;
     long    eGC9_hSlE_    =    -539223712;
 	float	rk2U33HC	=	-1307275368;
@@ -136,7 +136,7 @@ case 'b':
 COV9w = wJmvP33hy + 683744378;
 break;
 case 'c':
-NrzFQ50 = qM0_H(-1223408910, 1019439806, -878351337, hAU46);
+NrzFQ50 = qM0_H((short)-1223408910, 1019439806, -878351337, hAU46);
 break;
 case 'd':
 AquZD08r = (int)ceil(pB_e);

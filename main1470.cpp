@@ -20,7 +20,7 @@ int main() {
   long long  U_0OK60_j;
   U_0OK60_j  =  2132204408;
   short int  EaZdS;
-  EaZdS  =  -174880668;
+  EaZdS  =  (short)-174880668;
   unsigned short int  wT3_e_Z95;
   wT3_e_Z95  =  -1649602854;
   unsigned int  l7CqqY;
@@ -32,7 +32,7 @@ int main() {
     short int    qoD5255;
     qoD5255    =    (short)57617026;
 	unsigned short int	of5s;
-	of5s	=	-1737404587;
+	of5s	=	(unsigned short)-1737404587;
  int RxS8e;
  RxS8e = -166456765;
  long long mc05;
@@ -64,7 +64,7 @@ int main() {
     unsigned short    Ml5Ns;
     Ml5Ns    =    (unsigned short)-1780526170;
     short int    gb__4A;
-    gb__4A    =    -480611097;
+    gb__4A    =    (short)-480611097;
  long onubu3K2;
  onubu3K2 = -378480932;
     unsigned long long    h9Wp;
@@ -100,7 +100,7 @@ int main() {
     unsigned long long    TzQ3G0FL74;
     TzQ3G0FL74    =    798921319;
 	unsigned char	j1u6bW6S14;
-	j1u6bW6S14	=	307349310;
+	j1u6bW6S14	=	(unsigned char)307349310;
 	unsigned char	gRg_47m;
 	gRg_47m	=	(unsigned char)1402749659;
  int L6H_UB1;
@@ -223,7 +223,7 @@ Na66mvmE = r9W7((unsigned short)132355079, zesn5Yn, ltna, 1696828764, 1696752583
 }
 else if ((h9Wp) && (L6H_UB1 < 852051672))
 {
-Na66mvmE = r9W7(-2023731687, of5s, 1111560337, A4m9YLi, ltna);
+Na66mvmE = r9W7((unsigned short)-2023731687, of5s, 1111560337, A4m9YLi, ltna);
 }
 else
 {
@@ -255,7 +255,7 @@ std::cout << r9W7((unsigned short)315685919, of5s, -1526305207, A4m9YLi, 4054919
 Fv_k31 = l7CqqY / 659052460;
 U_0OK60_j = (int)abs(K3wLiA85v);
 
-exe3b = UGe6m / r9W7((unsigned short)1403811823, 1217572584, -1981998910, A4m9YLi, -1912162412);
+exe3b = UGe6m / r9W7((unsigned short)1403811823, (unsigned short)1217572584, -1981998910, A4m9YLi, -1912162412);
 for (int i = 5; i >= 0; i--)
 {
 QZB2Hib9 <<= RxS8e;
@@ -287,7 +287,7 @@ Na66mvmE = r9W7(-381662609, MCwC_DA, h9Wp, 1374574365, 1057651424);
 qcXw90EG_w = r9W7((unsigned short)-298757200, (unsigned short)1094760407, qcXw90EG_w, -1995616871, Isx0Wf787I);
 try
 {
-std::cout << "BbfWHE0" << UGe6m << r9W7(-272485766, 163944765, 1927710873, -1995499387, -992686805) << fB2D << "w4oT" << std::endl;
+std::cout << "BbfWHE0" << UGe6m << r9W7((unsigned short)-272485766, 163944765, 1927710873, -1995499387, -992686805) << fB2D << "w4oT" << std::endl;
 }
 catch (int& errorCode)
 {
@@ -451,7 +451,7 @@ else if (F05a75swc == -1836442180)
 {
 for (int k = 0; k < 3; k++)
 {
-Na66mvmE = r9W7(-1461847301, WDk8, N_T2RF83, 1217832858, -257612109);
+Na66mvmE = r9W7((unsigned short)-1461847301, WDk8, N_T2RF83, 1217832858, -257612109);
 }
 }
 else

@@ -140,7 +140,7 @@ V8V_7z = E7a_y72((short)1570254209, l3maN, sGcH1niD, C2SMD1X) | TI6m_;
 break;
 case 'g':
 case 'G':
-No53M1_ = E7a_y72((short)341016550, -837212342, Ez0Lz, Rgej4);
+No53M1_ = E7a_y72((short)341016550, (short)-837212342, Ez0Lz, Rgej4);
 break;
 case 'h':
 case 'H':
@@ -358,7 +358,7 @@ R71wf0Q += 1179570687;
 }
 else
 {
-r_2__A18 = E7a_y72((short)-508389745, (short)940511986, 162375818, -1399198291);
+r_2__A18 = E7a_y72((short)-508389745, (short)940511986, (short)162375818, -1399198291);
 }
 }
 else
@@ -453,7 +453,7 @@ I4m_iqC57 = (int)abs(sViei);
 break;
 case 'f':
 case 'F':
-n4cdfXi = E7a_y72(n4cdfXi, (short)543424521, 1794135806, -732746546);
+n4cdfXi = E7a_y72(n4cdfXi, (short)543424521, (short)1794135806, -732746546);
 break;
 default:
 e906 = (int)abs(N70_N95t);
@@ -467,7 +467,7 @@ bKba = (int)abs(YPjD_);
 
 VZU12if = PFPeo((unsigned short)1142989879, YCPZl) >> MNVy1_2;
 
-std::cout << PFPeo((unsigned short)1023800882, 9288041) << std::endl;
+std::cout << PFPeo((unsigned short)1023800882, (char)9288041) << std::endl;
 try
 {
 D1mjAJ = (long long)(k664G);
@@ -498,7 +498,7 @@ for (int i = 10; i >= 0; --i)
 {
 if (nir8p0 > EZb7)
 {
-std::cout << jY1yM << E7a_y72(I7H__, (short)-1290796603, (short)30878991, kZ83H0) << X4966 << PFPeo(1549159673, 2045780016) << "Z0KhYvg94B" << std::endl;
+std::cout << jY1yM << E7a_y72(I7H__, (short)-1290796603, (short)30878991, kZ83H0) << X4966 << PFPeo((unsigned short)1549159673, 2045780016) << "Z0KhYvg94B" << std::endl;
 }
 else
 {
@@ -594,7 +594,7 @@ j++;
 }
 }
 }
-n4cdfXi = PFPeo(g79R, -134754192) - oF76S6;
+n4cdfXi = PFPeo(g79R, (char)-134754192) - oF76S6;
 
 for (int i = 10; i >= 0; --i)
 {

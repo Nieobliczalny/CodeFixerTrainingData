@@ -97,7 +97,7 @@ case 3:
 obUpOkcY6V = O63va8 * lW52g7W7;
 break;
 case 4:
-doMq = O0PXEbj(1670196359, Jm5vZ, -1252871992, 1208461828, -267289783);
+doMq = O0PXEbj(1670196359, Jm5vZ, -1252871992, (unsigned short)1208461828, -267289783);
 break;
 case 5:
 YrtkGfR = O0PXEbj(i2gF56uT, YrtkGfR, 1105807115, R6l6_3_2i8, WT4Y);
@@ -110,7 +110,7 @@ TsqC8g5o |= 1565060315;
 break;
 }
 }
-cout << G1TP(QnnKswTv, -1739536563, 934033604, (short)-379578730, -400081989) << Uh3UyK3yv(-1501372223) << "VGRFRtK" << rrbsP65E << endl;
+cout << G1TP(QnnKswTv, -1739536563, 934033604, (short)-379578730, (unsigned short)-400081989) << Uh3UyK3yv(-1501372223) << "VGRFRtK" << rrbsP65E << endl;
 if (Mik8B66w <= P6Oo8w10_8)
 {
 try
@@ -204,7 +204,7 @@ case 'b':
 i2gF56uT = Uh3UyK3yv(doMq);
 break;
 case 'c':
-Sy9YP7 = G1TP(Sy9YP7, 260756573, QnnKswTv, (short)-1729565003, -2103331360);
+Sy9YP7 = G1TP(Sy9YP7, 260756573, QnnKswTv, (short)-1729565003, (unsigned short)-2103331360);
 break;
 case 'd':
 q9r_8eA = lFJ6x1(-908232795);

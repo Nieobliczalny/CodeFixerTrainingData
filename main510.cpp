@@ -782,7 +782,7 @@ mo4H = ncAF_wlm_7((char)1273550470, c5091JL82p, RDu9O0s60);
 }
 else
 {
-cout << "D97WN" << c5091JL82p << ncAF_wlm_7((char)272038002, -263157918, -448221) << maIcdk0rw << "GHgA4f2i_7" << endl;
+cout << "D97WN" << c5091JL82p << ncAF_wlm_7((char)272038002, (unsigned short)-263157918, -448221) << maIcdk0rw << "GHgA4f2i_7" << endl;
 }
 }
 catch (int& errorCode)

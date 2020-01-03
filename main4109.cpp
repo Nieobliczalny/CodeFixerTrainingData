@@ -29,7 +29,7 @@ int main() {
     char    BW9bI;
     BW9bI    =    (char)17959926;
 	unsigned short	e9OUmbq;
-	e9OUmbq	=	-895729206;
+	e9OUmbq	=	(unsigned short)-895729206;
 	short int	km_a3u4u;
 	km_a3u4u	=	-1299760739;
 	int	R44s34F7;
@@ -53,7 +53,7 @@ int main() {
  unsigned short q8_5uhtg;
  q8_5uhtg = (unsigned short)-1454688723;
 	char	ZHdFwHDbY;
-	ZHdFwHDbY	=	479949170;
+	ZHdFwHDbY	=	(char)479949170;
 	float	mLG05P1ng;
 	mLG05P1ng	=	684553257;
   char  L7x6fRN;
@@ -93,7 +93,7 @@ int main() {
  unsigned short hvgk;
  hvgk = (unsigned short)1545944867;
   char  Mt92fnUSvl;
-  Mt92fnUSvl  =  1150277380;
+  Mt92fnUSvl  =  (char)1150277380;
  unsigned long long w6m72jG1D;
  w6m72jG1D = -507666844;
     short int    x0DW;
@@ -133,7 +133,7 @@ int main() {
   long double  npOR6k21J;
   npOR6k21J  =  -1193130986;
     unsigned short    x2f5;
-    x2f5    =    -815117978;
+    x2f5    =    (unsigned short)-815117978;
     unsigned short    s62l6_;
     s62l6_    =    (unsigned short)-1828877608;
     short int    Q_Bo8PVnQ;
@@ -174,7 +174,7 @@ case 2:
 npOR6k21J = PS55A9T5 + 1353251320;
 break;
 case 3:
-FU6sz = wHzD2Lu3((unsigned short)967688131, (short)-828356281, -718264625);
+FU6sz = wHzD2Lu3((unsigned short)967688131, (short)-828356281, (short)-718264625);
 break;
 case 4:
 Kh2kr8V62S = U0mgp & hCdBj2;
@@ -207,7 +207,7 @@ OmcxAn15--;
 break;
 }
 Y_Vm7CeJcH = (float)(fAK5L_Fy);
-P8_7_M = 1115943856 / wHzD2Lu3((unsigned short)1638876066, (short)-782279108, -1911471277);
+P8_7_M = 1115943856 / wHzD2Lu3((unsigned short)1638876066, (short)-782279108, (short)-1911471277);
 {
 int i = 4;
 do
@@ -321,7 +321,7 @@ case 'b':
 Y_Vm7CeJcH = (int)floor(MJRUt732h);
 break;
 case 'c':
-Hk442M592h = wHzD2Lu3((unsigned short)1465347386, (short)-858822564, 335120838);
+Hk442M592h = wHzD2Lu3((unsigned short)1465347386, (short)-858822564, (short)335120838);
 break;
 case 'd':
 Mt92fnUSvl = bPsuc87Ai(1817863875);
@@ -367,7 +367,7 @@ case 'e':
 Hk442M592h = wHzD2Lu3(Kh2kr8V62S, (short)-546952342, (short)1803086948);
 break;
 case 'f':
-Hk442M592h = wHzD2Lu3(ef1YX, -954873722, 2068733626);
+Hk442M592h = wHzD2Lu3(ef1YX, (short)-954873722, 2068733626);
 break;
 case 'g':
 a6qK7_00 = wHzD2Lu3(FK8_D, -980667403, -1755707424);

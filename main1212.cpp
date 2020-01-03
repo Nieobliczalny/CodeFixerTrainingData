@@ -27,7 +27,7 @@ short D6WPl() {
 
 short	I30pNy(long long	Y7_2NYB,long	c7R7wmu,unsigned long long	g_006HLGz,short int	Axx3644ZV,short int	ZR06aU)
 {
-	return	-1553088133;
+	return	(short)-1553088133;
 }
 
 long  pl8ab5(unsigned long long  Qq_6ZTt,unsigned short  FBreIg4,short  oTyz97xo,unsigned short int  c5S74SXl)
@@ -484,7 +484,7 @@ case 'a':
 Vo8x570G_ = pl8ab5(-1195870782, (unsigned short)2146539314, Vo8x570G_, (unsigned short)-972195148);
 break;
 case 'b':
-i9Z_FZyf8 = I30pNy(-483441574, 270737631, -280665130, -2046658321, A0Tl) - CO24Q2o;
+i9Z_FZyf8 = I30pNy(-483441574, 270737631, -280665130, (short)-2046658321, A0Tl) - CO24Q2o;
 break;
 case 'c':
 Ed3A = (int)floor(D9Bzox);

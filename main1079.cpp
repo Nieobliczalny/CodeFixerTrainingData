@@ -64,7 +64,7 @@ int main(void)
  unsigned char NYOZ;
  NYOZ = (unsigned char)-47298447;
  unsigned short ehSUb;
- ehSUb = 343933787;
+ ehSUb = (unsigned short)343933787;
 	unsigned short int	RsdP;
 	RsdP	=	0;
     unsigned int    aOz1xfnkJ;
@@ -349,7 +349,7 @@ if (Mb235y)
 {
 try
 {
-q3c56ctT = knq9_lT_XJ((unsigned char)2020748236, -214457440);
+q3c56ctT = knq9_lT_XJ((unsigned char)2020748236, (unsigned char)-214457440);
 }
 catch (int& errorCode)
 {

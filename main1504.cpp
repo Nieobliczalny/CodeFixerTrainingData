@@ -226,7 +226,7 @@ W5d_4W3 = e9ky(W5d_4W3, RPUN9fR80O, (short)341091395);
 }
 else
 {
-std::cout << e_d84Qr() << oWsY << e9ky((short)394127328, 1731150733, t8N1tT) << "rAxXpswOA" << e9ky(W5d_4W3, RPUN9fR80O, 1706313437) << std::endl;
+std::cout << e_d84Qr() << oWsY << e9ky((short)394127328, (unsigned short)1731150733, t8N1tT) << "rAxXpswOA" << e9ky(W5d_4W3, RPUN9fR80O, 1706313437) << std::endl;
 }
 }
 else if (e5Cyyg7 < cFeZ)
@@ -251,7 +251,7 @@ gAYEH5F_ = e9ky((short)1475360569, ag62HtZ, (short)782328004);
 }
 else
 {
-AJcPv_VldL = e9ky(124396297, cFeZ, mVT3M26_L);
+AJcPv_VldL = e9ky((short)124396297, cFeZ, mVT3M26_L);
 }
 }
 else if (B3yGJ8N__F != 1860521262)
@@ -280,7 +280,7 @@ el3zwf2gy = e9ky(el3zwf2gy, (unsigned short)-192659984, (short)-1261171567);
 }
 else if (el3zwf2gy > -1081780721)
 {
-FxWyiI = N9n1T10_(1430302714, 1545281478);
+FxWyiI = N9n1T10_(1430302714, (unsigned char)1545281478);
 }
 else if (rX9M <= 1036158651)
 {
@@ -316,7 +316,7 @@ else
 int k = 5;
 do
 {
-el3zwf2gy = e9ky(1386451204, gw13, tfXB);
+el3zwf2gy = e9ky((short)1386451204, gw13, tfXB);
 --k;
 }
 while (k >= 0);
@@ -441,7 +441,7 @@ else if ((PVAj < -43707226) && (el3zwf2gy != t8N1tT))
 int k = 1;
 do
 {
-p66f5 = e9ky((short)1216842775, (unsigned short)864770979, 1911260584);
+p66f5 = e9ky((short)1216842775, (unsigned short)864770979, (short)1911260584);
 --k;
 }
 while (k >= 0);
@@ -615,7 +615,7 @@ case 5:
 PVAj = (int)abs(gw13) * 0;
 break;
 case 6:
-RPUN9fR80O = e9ky((short)-1894511133, (unsigned short)634999202, 1175527945);
+RPUN9fR80O = e9ky((short)-1894511133, (unsigned short)634999202, (short)1175527945);
 break;
 case 7:
 oWsY = e9ky(oWsY, -1547253975, el3zwf2gy);
@@ -652,7 +652,7 @@ std::cout << e9ky(oWsY, (unsigned short)-1434004700, (short)1027887142) << e_d84
 while (i >= 0);
 }
 
-W5d_4W3 = e9ky(W5d_4W3, 1086842802, -120518699);
+W5d_4W3 = e9ky(W5d_4W3, (unsigned short)1086842802, -120518699);
 O22_P00 = -2084490279 / N9n1T10_(1508209957, Hrd6_Ct57e);
 
 if ((t8N1tT & -1789451998) || (F3eae2 > O22_P00))
@@ -663,7 +663,7 @@ do
 {
 for (int k = 6; k >= 0; --k)
 {
-ag62HtZ = e9ky((short)-489423774, (unsigned short)1908034972, -1611191794);
+ag62HtZ = e9ky((short)-489423774, (unsigned short)1908034972, (short)-1611191794);
 }
 j--;
 }

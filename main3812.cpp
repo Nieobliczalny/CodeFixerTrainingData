@@ -83,7 +83,7 @@ int main(int argc, char** argv)
  short I06G;
  I06G = (short)443107941;
  unsigned short rR8h;
- rR8h = -1512785150;
+ rR8h = (unsigned short)-1512785150;
   short int  Ao57jW5DR;
   Ao57jW5DR  =  882356112;
     unsigned short int    yr5JG48SD;
@@ -154,7 +154,7 @@ case 4:
 jdkZRP1z72 = LA9S_THjh(f2Dljp, 1684027750, (short)-1003724328, mzvDQ9P0z, h8rd);
 break;
 case 5:
-jdkZRP1z72 = LA9S_THjh(yELMO2, z1UQ3Ew, 613271126, -1470499998, -575476277);
+jdkZRP1z72 = LA9S_THjh(yELMO2, z1UQ3Ew, (short)613271126, -1470499998, -575476277);
 break;
 case 6:
 yOE2DWd7 = (int)ceil(LOLe9);
@@ -176,7 +176,7 @@ jdkZRP1z72 = LA9S_THjh((unsigned char)1202941929, -1691558329, Qfwl5tdya, (short
 }
 else if (b589Nfblju & -418596370)
 {
-N2ztg3 = LA9S_THjh(z41xt, 176209435, 216320092, N2ztg3, 251831555);
+N2ztg3 = LA9S_THjh(z41xt, 176209435, (short)216320092, N2ztg3, 251831555);
 }
 else
 {
@@ -275,7 +275,7 @@ if (zMfc58Bq_9 < 1184638604)
 {
 if (F1ye > oW7XLhU4y)
 {
-YoVb21Na67 = LA9S_THjh((unsigned char)-855026369, -555942117, (short)-578137444, -229869090, 317795998);
+YoVb21Na67 = LA9S_THjh((unsigned char)-855026369, -555942117, (short)-578137444, (short)-229869090, 317795998);
 }
 else if (hDSDO69LD != 1938162431)
 {
@@ -324,7 +324,7 @@ case 0:
 L_k3z8X *= 781425103;
 break;
 case 1:
-a8607mNo0a = LA9S_THjh(BoGAL7, 2056853196, -49455961, 123961061, T7Uk3st7el);
+a8607mNo0a = LA9S_THjh(BoGAL7, 2056853196, (short)-49455961, 123961061, T7Uk3st7el);
 break;
 case 2:
 iu4ikem = (int)floor(RORIbd);

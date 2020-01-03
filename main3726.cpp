@@ -115,7 +115,7 @@ case 0:
 P8M9 = bDZ4mbIn5() * gBtj2;
 break;
 case 1:
-t3y7565cu = opBWUIi((unsigned char)-437248098, d926, (unsigned short)-154418560, -360419189);
+t3y7565cu = opBWUIi((unsigned char)-437248098, d926, (unsigned short)-154418560, (unsigned short)-360419189);
 break;
 case 2:
 d5FbQp = (r0UbB9QKa == dikIqNXTI8) ? kEjsH1BR() : WK71m;
@@ -559,7 +559,7 @@ case 'a':
 zcQ3sC = Ogz837j + De0_66;
 break;
 case 'b':
-sf03osh = opBWUIi((unsigned char)1827550316, -41839234, (unsigned short)-1403089082, -543644225);
+sf03osh = opBWUIi((unsigned char)1827550316, -41839234, (unsigned short)-1403089082, (unsigned short)-543644225);
 break;
 case 'c':
 WK71m = P8M9 * i4Vld;
@@ -661,7 +661,7 @@ std::cout << "PPB4dYPQl" << "Xz_3QN" << std::endl;
 }
 else
 {
-std::cout << opBWUIi((unsigned char)1258627601, slga3, i4Vld, SpMHGhAhAR) << opBWUIi(t3y7565cu, -1716241838, i4Vld, (unsigned short)1115913712) << "gRi_9_9gU" << opBWUIi(t3y7565cu, 929797434, -665302661, SpMHGhAhAR) << bDZ4mbIn5() << std::endl;
+std::cout << opBWUIi((unsigned char)1258627601, slga3, i4Vld, SpMHGhAhAR) << opBWUIi(t3y7565cu, -1716241838, i4Vld, (unsigned short)1115913712) << "gRi_9_9gU" << opBWUIi(t3y7565cu, 929797434, (unsigned short)-665302661, SpMHGhAhAR) << bDZ4mbIn5() << std::endl;
 }
 }
 
@@ -749,7 +749,7 @@ case 'g':
 Q39VQxx6 = opBWUIi(Q39VQxx6, 1987777426, (unsigned short)-115820077, (unsigned short)-1300114121);
 break;
 case 'h':
-RJSA08I2 = opBWUIi(RJSA08I2, P2e9_d, x4pH_, 210948578);
+RJSA08I2 = opBWUIi(RJSA08I2, P2e9_d, x4pH_, (unsigned short)210948578);
 break;
 case 'i':
 gBtj2 <<= dr31Lcjr1;

@@ -262,7 +262,7 @@ case 6:
 L07l1 = qx072rWQ4((unsigned short)-513013598, -2051418741);
 break;
 case 7:
-L07l1 = qx072rWQ4(1893991558, p_U8b);
+L07l1 = qx072rWQ4((unsigned short)1893991558, p_U8b);
 break;
 case 8:
 nHggv0D = qx072rWQ4((unsigned short)167973070, L07l1);

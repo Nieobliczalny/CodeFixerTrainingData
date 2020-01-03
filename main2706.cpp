@@ -40,7 +40,7 @@ int main(void)
 	short int	W7WFwBPl7;
 	W7WFwBPl7	=	(short)-1028738717;
 	unsigned short	qWs0d1;
-	qWs0d1	=	-1119823696;
+	qWs0d1	=	(unsigned short)-1119823696;
 	unsigned long	d84s4l__;
 	d84s4l__	=	1417584973;
  double Y_VSP;
@@ -74,7 +74,7 @@ int main(void)
     unsigned short int    XKUhYB;
     XKUhYB    =    (unsigned short)-1836428926;
   unsigned short int  Uxl8rR;
-  Uxl8rR  =  1796201575;
+  Uxl8rR  =  (unsigned short)1796201575;
   long long  yFLv4TW_J;
   yFLv4TW_J  =  1721998036;
   unsigned long long  a8Vb50v;
@@ -136,7 +136,7 @@ int main(void)
     unsigned long long    kzg_z_79m;
     kzg_z_79m    =    -699958343;
  short int H88y;
- H88y = -129223455;
+ H88y = (short)-129223455;
 	unsigned short	kE9oP6ew;
 	kE9oP6ew	=	(unsigned short)-133710164;
   unsigned long  JfzB;
@@ -204,7 +204,7 @@ int main(void)
     float    UeEk;
     UeEk    =    2028758955;
 	unsigned short int	K6fmIDMv;
-	K6fmIDMv	=	-561523146;
+	K6fmIDMv	=	(unsigned short)-561523146;
 
 V0NUNCuzw = (int)ceil(Y_VSP);
 

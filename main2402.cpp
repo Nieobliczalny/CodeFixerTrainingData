@@ -22,7 +22,7 @@ int main(int argc, char** argv)
   long long  Zz9_;
   Zz9_  =  -1481141609;
   short int  CJhwjrL0I;
-  CJhwjrL0I  =  -625016564;
+  CJhwjrL0I  =  (short)-625016564;
   int  KqeW_o1xU;
   KqeW_o1xU  =  -624727595;
 	short	hHN3VuMvz;
@@ -44,7 +44,7 @@ int main(int argc, char** argv)
   long  D5APb27L;
   D5APb27L  =  -1839550344;
  unsigned short Lu0xCIOS;
- Lu0xCIOS = -901370863;
+ Lu0xCIOS = (unsigned short)-901370863;
 	char	RHv7kvJs;
 	RHv7kvJs	=	(char)-1272283222;
   long double  k5_75Bo_2y;
@@ -76,7 +76,7 @@ int main(int argc, char** argv)
  unsigned short BOnZ5Le2G5;
  BOnZ5Le2G5 = (unsigned short)-853572564;
 	unsigned short int	piHmUb777;
-	piHmUb777	=	-241096758;
+	piHmUb777	=	(unsigned short)-241096758;
     long long    LFM0HN1aKb;
     LFM0HN1aKb    =    -439092371;
  unsigned long l8iK;
@@ -86,7 +86,7 @@ int main(int argc, char** argv)
   char  FRzeXbtf6;
   FRzeXbtf6  =  (char)1707015952;
   unsigned short  siFRF;
-  siFRF  =  -353748881;
+  siFRF  =  (unsigned short)-353748881;
 	long double	vXu8g;
 	vXu8g	=	-1900451555;
   short  pgzf;
@@ -104,7 +104,7 @@ int main(int argc, char** argv)
 	char	c7_5p7avk;
 	c7_5p7avk	=	(char)1042764792;
     unsigned short int    GrH4;
-    GrH4    =    -856763633;
+    GrH4    =    (unsigned short)-856763633;
  unsigned short ICfY9VtO8;
  ICfY9VtO8 = (unsigned short)552344084;
     unsigned short int    vhK8G3_;
@@ -120,7 +120,7 @@ int main(int argc, char** argv)
     int    M7yvR6Tx;
     M7yvR6Tx    =    318346277;
  unsigned char znR6eihjOv;
- znR6eihjOv = -550797439;
+ znR6eihjOv = (unsigned char)-550797439;
     double    a4Y4w0;
     a4Y4w0    =    -427800336;
 	double	U5A6e06buT;
@@ -130,7 +130,7 @@ int main(int argc, char** argv)
     unsigned short int    Fx737;
     Fx737    =    (unsigned short)-2122765607;
     short    z6r77e;
-    z6r77e    =    749816360;
+    z6r77e    =    (short)749816360;
 	double	E_3PDi;
 	E_3PDi	=	-1298398855;
   long  N46KvCro;
@@ -331,7 +331,7 @@ else
 int k = 5;
 do
 {
-l8iK = RpSCRrvJMZ(374654434, -76285448);
+l8iK = RpSCRrvJMZ((short)374654434, -76285448);
 --k;
 }
 while (k >= 0);

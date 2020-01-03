@@ -131,7 +131,7 @@ int main(void) {
   short  G_7U;
   G_7U  =  (short)-1716518642;
  char HpuA7c9q7;
- HpuA7c9q7 = 116131960;
+ HpuA7c9q7 = (char)116131960;
     char    WXN3n6O;
     WXN3n6O    =    (char)304341599;
     unsigned short    dHj15y;
@@ -222,7 +222,7 @@ case 2:
 q5ElVrALb = (int)floor(Rr2zP054KL);
 break;
 case 3:
-I0ogz = sbVy(-1016556899, PhR1q6vEg, 1057070044, T1QX);
+I0ogz = sbVy((unsigned short)-1016556899, PhR1q6vEg, 1057070044, T1QX);
 break;
 case 4:
 q5ElVrALb = (int)floor(cMKb4w);
@@ -277,7 +277,7 @@ case 7:
 tg_k = ZTdRP_b7A((char)2113065299, (unsigned short)-126522323, -245615933, RTQb86_epW, GuQ9Zk);
 break;
 case 8:
-s2_p = sbVy(-879965372, s2_p, -392505186, -1274080069);
+s2_p = sbVy((unsigned short)-879965372, s2_p, -392505186, -1274080069);
 break;
 default:
 x3v_8 = xR43To & 1289234770;

@@ -23,7 +23,7 @@ int main(void) {
 	int	Up6zR__B5	=	-1502144598;
     unsigned long    R2dYP35Xy    =    1939999762;
     long long    dN92    =    207554142;
-  unsigned char  VHGK45I  =  -177367961;
+  unsigned char  VHGK45I  =  (unsigned char)-177367961;
     unsigned short    ACf1x6V    =    1946210408;
   unsigned int  ps8P31_T8  =  1134860194;
     unsigned char    krPWm71V27    =    -1813115809;
@@ -33,7 +33,7 @@ int main(void) {
 	unsigned long long	kV395	=	845838803;
     unsigned long long    D8zG    =    -1255015374;
   double  EeDr  =  -1286135986;
-	unsigned short	ugz8U	=	-1150450085;
+	unsigned short	ugz8U	=	(unsigned short)-1150450085;
 	long long	TJ2l532	=	1670598478;
  int v4oc = -533069807;
 	short	Xiln0S	=	485510182;
@@ -43,7 +43,7 @@ int main(void) {
 	short int	yihjd	=	(short)-23823277;
   long long  AsRR7lH4p  =  1024788101;
     unsigned short    SD_4    =    1210003330;
-    unsigned short    jMrmKxJd    =    827070312;
+    unsigned short    jMrmKxJd    =    (unsigned short)827070312;
 	short int	EG17v	=	582644460;
  float I9G5Q = 1202054079;
   short  NxLVHnOMvy  =  1646840091;
@@ -53,7 +53,7 @@ int main(void) {
     double    CoVHTl604    =    -266417627;
  unsigned char fXXRYvG = (unsigned char)567571863;
   char  pb07855  =  -461930879;
-  unsigned short  R7L1vXf4  =  823477464;
+  unsigned short  R7L1vXf4  =  (unsigned short)823477464;
 	char	MF6NwZj1c1	=	56120823;
 	long long	a3G1G	=	-822770028;
     int    bDMx44z    =    1412042958;
@@ -79,7 +79,7 @@ int main(void) {
  unsigned long K90K45BN3 = -1284274698;
  int DD3SkAOp5 = -1252881186;
  double u1R64BA = -259110255;
-  short  gz3_xMj  =  1293772379;
+  short  gz3_xMj  =  (short)1293772379;
   unsigned short  t4zw84827  =  -500736755;
  long TYweS6RQX = -670285335;
     char    NNJ4f    =    1243824323;
@@ -94,7 +94,7 @@ int main(void) {
     int    ho9N0T_Lh    =    10281435;
     int    L8Uj    =    -1479469740;
 	unsigned long long	cRVbd68	=	-734451867;
-  unsigned short  c_A88a8s  =  -1304566226;
+  unsigned short  c_A88a8s  =  (unsigned short)-1304566226;
  char Ok45K6 = 1790518999;
     unsigned long    zit7_0s1    =    -1384279579;
 	unsigned long long	mUrWgE4	=	365411133;
@@ -105,7 +105,7 @@ int main(void) {
 	unsigned long	AY8q0	=	-956697354;
  short int rB9aJc3b = (short)2131898193;
 
-P56X3 = Zjm5ePjDR9(1195352747, 1821877496, P56X3);
+P56X3 = Zjm5ePjDR9((short)1195352747, 1821877496, P56X3);
 {
 int i = 2;
 do
@@ -257,7 +257,7 @@ else if (cRVbd68)
 int k = 0;
 do
 {
-P56VN4U = Zjm5ePjDR9((short)-1676861160, (short)1206619474, 1768698499);
+P56VN4U = Zjm5ePjDR9((short)-1676861160, (short)1206619474, (unsigned char)1768698499);
 ++k;
 }
 while (k < 9);

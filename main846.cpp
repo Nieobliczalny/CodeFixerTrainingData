@@ -56,7 +56,7 @@ int main(int argc, char** argv) {
   char  Y0JK;
   Y0JK  =  (char)-585049983;
     unsigned short    iVRHP8o0;
-    iVRHP8o0    =    -959731013;
+    iVRHP8o0    =    (unsigned short)-959731013;
   unsigned int  F3Bh1hh_i;
   F3Bh1hh_i  =  810401204;
 	unsigned long	vVMhMsC5gE;
@@ -174,7 +174,7 @@ int main(int argc, char** argv) {
 	long double	ds4FJ4KfO;
 	ds4FJ4KfO	=	-543640991;
 	unsigned short	LZ065t_NGB;
-	LZ065t_NGB	=	1410009252;
+	LZ065t_NGB	=	(unsigned short)1410009252;
  long long QX_ItU6xKq;
  QX_ItU6xKq = -1600426162;
  long mKQUV;
@@ -228,7 +228,7 @@ case 2:
 mKQUV = (int)abs(uvv7MCC);
 break;
 case 3:
-SN3UO1d_ = L0T85D((unsigned short)75152202, 1026553422);
+SN3UO1d_ = L0T85D((unsigned short)75152202, (short)1026553422);
 break;
 case 4:
 BZ04DpV = (int)floor(vrLdkPPK);
@@ -273,7 +273,7 @@ case 1:
 s_2R9wiqM6 |= 907589033;
 break;
 case 2:
-vVMhMsC5gE = L0T85D(-535287046, 1355090618);
+vVMhMsC5gE = L0T85D((unsigned short)-535287046, 1355090618);
 break;
 case 3:
 QX_ItU6xKq = D6aO4_(QX_ItU6xKq, hr6yh);

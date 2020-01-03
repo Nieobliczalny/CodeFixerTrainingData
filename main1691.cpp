@@ -164,7 +164,7 @@ if (Q9Cj94v_ != 1458752711)
 switch (eHb4B6n)
 {
 case 0:
-OcGYEn841w = gn5HY_9P((short)-496332161, Eb1m3, 510804008);
+OcGYEn841w = gn5HY_9P((short)-496332161, Eb1m3, (short)510804008);
 break;
 }
 }

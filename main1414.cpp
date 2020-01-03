@@ -26,7 +26,7 @@ int main(int argc, char** argv) {
     char    SXLn1T,    AA_1,    mziAxg,    NMkQOFnE,    d4aQ9t,    K1n50VAb,    y48_,    Pvx0HOUnXl,    L7_p9hji8,    aPD2NfsZ,    b61Kd,    CJ8YJ4oV,    HfFF96zhk6,    Xkq3,    ji9E7W1,    Ss7Swj,    q65ezwBx,    ndyj7q4wEM,    Dp5bU,    R3s_o9aZ,    e29hWETr,    UilYRG,    y3Hty3F,    S27f35l6,    oKx1,    rLLce7,    zq_K92;
     SXLn1T    =    (char)258146796;
     AA_1    =    (char)1713980300;
-    mziAxg    =    -1738816189;
+    mziAxg    =    (char)-1738816189;
     NMkQOFnE    =    1065860529;
     d4aQ9t    =    -1351568115;
     K1n50VAb    =    -816548147;
@@ -36,7 +36,7 @@ int main(int argc, char** argv) {
     aPD2NfsZ    =    -1269538559;
     b61Kd    =    (char)1627848949;
     CJ8YJ4oV    =    (char)-160168507;
-    HfFF96zhk6    =    1966261715;
+    HfFF96zhk6    =    (char)1966261715;
     Xkq3    =    1335800233;
     ji9E7W1    =    -29657222;
     Ss7Swj    =    -34249051;
@@ -46,7 +46,7 @@ int main(int argc, char** argv) {
     R3s_o9aZ    =    -350378228;
     e29hWETr    =    (char)336011011;
     UilYRG    =    (char)-506671949;
-    y3Hty3F    =    -749508395;
+    y3Hty3F    =    (char)-749508395;
     S27f35l6    =    -1923105394;
     oKx1    =    -146686063;
     rLLce7    =    -900360362;
@@ -194,7 +194,7 @@ else
 gkE_caZ = (unsigned char)(d337z);
 }
 }
-zq_K92 = (SXLn1T == 361141294) ? SMN7((unsigned short)2130626802, (unsigned short)1389933036) : Zm07(e29hWETr, -1213490738, 484346126);
+zq_K92 = (SXLn1T == 361141294) ? SMN7((unsigned short)2130626802, (unsigned short)1389933036) : Zm07(e29hWETr, (unsigned short)-1213490738, 484346126);
 switch (K1n50VAb)
 {
 case 'a':
@@ -352,7 +352,7 @@ case 'c':
 CJ8YJ4oV -= K1n50VAb;
 break;
 default:
-UilYRG = Zm07(1603155329, (unsigned short)-587593181, -1825916275);
+UilYRG = Zm07(1603155329, (unsigned short)-587593181, (unsigned short)-1825916275);
 break;
 }
 }
@@ -427,7 +427,7 @@ case 5:
 mziAxg = Zm07(-479897492, (unsigned short)112352542, gkE_caZ);
 break;
 case 6:
-d337z = SMN7(27697775, aPD2NfsZ);
+d337z = SMN7((unsigned short)27697775, aPD2NfsZ);
 break;
 }
 
@@ -444,7 +444,7 @@ int k = 0;
 while (k < 10)
 {
 k++;
-Ss7Swj = SMN7(-35154872, CJ8YJ4oV) >> rLLce7;
+Ss7Swj = SMN7((unsigned short)-35154872, CJ8YJ4oV) >> rLLce7;
 }
 }
 }

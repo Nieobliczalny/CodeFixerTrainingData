@@ -30,7 +30,7 @@ int main() {
     unsigned short int    LSS58F8;
     LSS58F8    =    (unsigned short)-2003268693;
     short    KpjnS;
-    KpjnS    =    -1107621312;
+    KpjnS    =    (short)-1107621312;
   short  a8T8;
   a8T8  =  -1146515753;
  unsigned char zTfy9e82rw;
@@ -54,7 +54,7 @@ int main() {
 	short int	hsbPTc;
 	hsbPTc	=	(short)2031296327;
   unsigned short int  wAzu;
-  wAzu  =  801678022;
+  wAzu  =  (unsigned short)801678022;
  long long zKYBi6yzs7;
  zKYBi6yzs7 = 1086150019;
 	long double	I23I;
@@ -231,7 +231,7 @@ pG58l = jIfjN50kJ((unsigned short)244613892, KpjnS);
 break;
 case 'b':
 case 'B':
-nx5nu = jIfjN50kJ((unsigned short)-545344662, 1869494637);
+nx5nu = jIfjN50kJ((unsigned short)-545344662, (short)1869494637);
 break;
 case 'c':
 case 'C':

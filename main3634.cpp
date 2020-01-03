@@ -468,7 +468,7 @@ uKu_3rrKS = jsn2938A(uKu_3rrKS, (short)-1750118960);
 }
 while (i < 7);
 }
-std::cout << jsn2938A(uKu_3rrKS, (short)1823607368) << L3W3oS3P << "H2U34" << jsn2938A(uKu_3rrKS, 226505476) << y45CbY35(uKu_3rrKS) << std::endl;
+std::cout << jsn2938A(uKu_3rrKS, (short)1823607368) << L3W3oS3P << "H2U34" << jsn2938A(uKu_3rrKS, (short)226505476) << y45CbY35(uKu_3rrKS) << std::endl;
 
 yYeqe = y45CbY35(-872249994);
 
@@ -647,7 +647,7 @@ gn_z7SWw = jsn2938A(-184165936, (short)-247273225);
 }
 else
 {
-fm314iyN = jsn2938A(-120172912, 830484037);
+fm314iyN = jsn2938A(-120172912, (short)830484037);
 }
 }
 }
@@ -748,7 +748,7 @@ case 'd':
 LjdQ = y45CbY35((short)-2141084242);
 break;
 case 'e':
-yYeqe = y45CbY35(1532638995);
+yYeqe = y45CbY35((short)1532638995);
 break;
 case 'f':
 Jwv4zk -= 763159363;

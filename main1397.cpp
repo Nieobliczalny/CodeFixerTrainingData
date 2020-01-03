@@ -19,7 +19,7 @@ int main(void)
 	unsigned short int	F42hLmbBY_,	gy1X1h,	O88X1l8Pj,	J_Txoh_SIC,	Eba30,	Iy94,	cLY_05QFX,	T2p3,	g9hke,	xfn03_p,	Bfc5,	mINm6,	slbBcuCf,	gLn28,	WZ9c,	UDPxSL0l5;
 	F42hLmbBY_	=	(unsigned short)1573081789;
 	gy1X1h	=	(unsigned short)-1202186108;
-	O88X1l8Pj	=	-1630929970;
+	O88X1l8Pj	=	(unsigned short)-1630929970;
 	J_Txoh_SIC	=	-1748531538;
 	Eba30	=	334987645;
 	Iy94	=	1531120538;
@@ -29,7 +29,7 @@ int main(void)
 	xfn03_p	=	1561549926;
 	Bfc5	=	(unsigned short)-425208992;
 	mINm6	=	(unsigned short)870163313;
-	slbBcuCf	=	-806799433;
+	slbBcuCf	=	(unsigned short)-806799433;
 	gLn28	=	-1602614065;
 	WZ9c	=	-1042909736;
 	UDPxSL0l5	=	993773032;
@@ -53,7 +53,7 @@ else
 int k = 1;
 while (k >= 0)
 {
-T2p3 = kRX1ad(T2p3, O88X1l8Pj, (unsigned short)-873289917, (char)2006215697, 1779104182);
+T2p3 = kRX1ad(T2p3, O88X1l8Pj, (unsigned short)-873289917, (char)2006215697, (unsigned short)1779104182);
 --k;
 }
 }
@@ -119,7 +119,7 @@ J_Txoh_SIC = (unsigned short int)(Iy94);
 }
 O88X1l8Pj = kRX1ad(j8_6Nt9yZ_, O88X1l8Pj, J_Txoh_SIC, Bfc5, (unsigned short)-765726220);
 
-mINm6 = kRX1ad(-877288370, 133746415, (unsigned short)2138328731, gLn28, 1341228151);
+mINm6 = kRX1ad(-877288370, 133746415, (unsigned short)2138328731, gLn28, (unsigned short)1341228151);
 if (gy1X1h <= -491493762)
 {
 if (T2p3 == -869755512)
@@ -137,7 +137,7 @@ gLn28 = kRX1ad(gLn28, F42hLmbBY_, mINm6, (char)-1644320521, (unsigned short)8332
 }
 else if (slbBcuCf)
 {
-std::cout << UDPxSL0l5 << "KOsO4C0" << "n13dJr4" << kRX1ad(gLn28, -1469447339, mINm6, -1581321209, cLY_05QFX) << "zDnS" << std::endl;
+std::cout << UDPxSL0l5 << "KOsO4C0" << "n13dJr4" << kRX1ad(gLn28, -1469447339, mINm6, (char)-1581321209, cLY_05QFX) << "zDnS" << std::endl;
 }
 else
 {

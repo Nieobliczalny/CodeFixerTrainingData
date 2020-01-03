@@ -113,7 +113,7 @@ case 0:
 K5zKn0_h7 = F3jvd_Jbt(K5zKn0_h7, l__f_02CZG, (short)2095639550, M6Ra, 1865145321);
 break;
 case 1:
-e2sO = F3jvd_Jbt(e2sO, M6Ra, (short)444648131, -2017293732, 1913622706);
+e2sO = F3jvd_Jbt(e2sO, M6Ra, (short)444648131, (unsigned short)-2017293732, 1913622706);
 break;
 case 2:
 b6hw1AWoO = ZNnFu >> 464593562;

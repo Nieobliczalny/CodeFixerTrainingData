@@ -22,7 +22,7 @@ int main(int argc, char** argv)
     unsigned long long    f_rTk7    =    789267734;
  char kQKBQ36 = (char)-327708455;
     int    Qgq8XO8g6    =    2079980860;
-    char    nG5_VW    =    -1392390117;
+    char    nG5_VW    =    (char)-1392390117;
   unsigned short  f_33v4KO  =  0;
 	unsigned short	N14__hO9Y	=	-622832824;
  unsigned long long y8R1I7m_0 = 0;
@@ -49,7 +49,7 @@ int main(int argc, char** argv)
     float    xH7_1t2o14    =    119709110;
 	unsigned long	vOz1Sil5_	=	1565452443;
 	short int	lmztY5iN	=	(short)-1716774433;
-	unsigned short int	pQcQCi__	=	711921180;
+	unsigned short int	pQcQCi__	=	(unsigned short)711921180;
  unsigned short int tVZC = 776940226;
  unsigned char zmz2Y0l = 2028413216;
   double  vWY0m7J  =  579903587;
@@ -220,7 +220,7 @@ k5p6j -= 1423307834;
 int i = 10;
 do
 {
-std::cout << "uLX8f3" << CtqHcKQ2H(Qgq8XO8g6) << CtqHcKQ2H((unsigned char)-714035746) << C2382XO((unsigned short)-1070766287, jIpA12hB1F, T9Noa) << C2382XO(Qgq8XO8g6, jIpA12hB1F, 1740692794) << std::endl;
+std::cout << "uLX8f3" << CtqHcKQ2H(Qgq8XO8g6) << CtqHcKQ2H((unsigned char)-714035746) << C2382XO((unsigned short)-1070766287, jIpA12hB1F, T9Noa) << C2382XO(Qgq8XO8g6, jIpA12hB1F, (short)1740692794) << std::endl;
 --i;
 }
 while (i >= 0);
@@ -351,7 +351,7 @@ i--;
 }
 while (i >= 0);
 }
-aOUe_b5 = C2382XO((unsigned short)338393320, EkkCJZ_, 2009456429);
+aOUe_b5 = C2382XO((unsigned short)338393320, EkkCJZ_, (short)2009456429);
 if (z8p6v95_3w > Qgq8XO8g6)
 {
 {
@@ -451,7 +451,7 @@ case 3:
 H_0XBxTQ = (int)ceil(a5K79Rc);
 break;
 case 4:
-U4_5WkB = CtqHcKQ2H(-24857793);
+U4_5WkB = CtqHcKQ2H((unsigned char)-24857793);
 break;
 case 5:
 a5K79Rc = (int)floor(vWY0m7J);

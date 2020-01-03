@@ -223,7 +223,7 @@ cLra = xy5Ap(cLra, (unsigned char)-1672815671, (unsigned char)-1270796463);
 }
 else if (bbjS & plHmN8R)
 {
-cLra = xy5Ap(1853399317, 884498418, plHmN8R);
+cLra = xy5Ap(1853399317, (unsigned char)884498418, plHmN8R);
 }
 else
 {
@@ -354,7 +354,7 @@ while (i < 7);
 std::cout << "H6C_v8_I" << xy5Ap(-1016603647, (unsigned char)739106067, T2j0) << xy5Ap(-1069399110, AI62Li, (unsigned char)219259985) << std::endl;
 if (T2j0 <= AI62Li)
 {
-std::cout << CJ1e98yWn(-784212425) << "Qqo3560B1" << std::endl;
+std::cout << CJ1e98yWn((unsigned char)-784212425) << "Qqo3560B1" << std::endl;
 }
 else
 {

@@ -29,7 +29,7 @@ int main() {
  float qGob9208 = 116506688;
   long  XQVHPm  =  -1557474893;
 	short int	T49r	=	(short)-182795606;
-	unsigned short	ye8p	=	1521854519;
+	unsigned short	ye8p	=	(unsigned short)1521854519;
   unsigned short  PP6Yl_F  =  1716702046;
 	unsigned int	DU065jn	=	498680845;
   double  isB2  =  -1844438818;
@@ -43,7 +43,7 @@ int main() {
     unsigned long    jQnRl4DGIc    =    -262555028;
     int    Y4P8    =    -1732821293;
   long double  KSKMLUx_P  =  -1127905805;
- char u9woJ1 = 1142587646;
+ char u9woJ1 = (char)1142587646;
  char Z5WHXgj172 = (char)1049955151;
     int    d3dT    =    1540397818;
     unsigned int    us1LfePYt_    =    -365773772;
@@ -123,7 +123,7 @@ Z5WHXgj172 = (char)(Uk4_2b_3 + (cs88_9k));
 dFCP8ta8 = (int)abs(qGob9208) * 0;
 dkRQnOAp = NyQhD((unsigned char)195693164, PP6Yl_F, (char)321172876);
 
-std::cout << "VS9Uh" << jPYgIj(DU065jn, 111667628) << NyQhD(DU065jn, PP6Yl_F, -1323664918) << "XM3x1nV0" << std::endl;
+std::cout << "VS9Uh" << jPYgIj(DU065jn, 111667628) << NyQhD(DU065jn, PP6Yl_F, (char)-1323664918) << "XM3x1nV0" << std::endl;
 
 qGob9208 = w0cTH / NyQhD(-1364652753, 1694741888, ye8p);
 {
@@ -270,7 +270,7 @@ case 4:
 isB2 = (int)ceil(qGob9208);
 break;
 case 5:
-Q_3E = NyQhD(T49r, -1880458194, 1791784803);
+Q_3E = NyQhD(T49r, -1880458194, (char)1791784803);
 break;
 case 6:
 dFCP8ta8 = NyQhD(dFCP8ta8, -452515197, (char)-1122324140);

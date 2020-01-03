@@ -54,7 +54,7 @@ case 3:
 dS8t5SwGDk = X7_6h((unsigned short)1447441178, (unsigned short)-19586916);
 break;
 case 4:
-HGNOJi = X7_6h(nnEl14, -1306736313);
+HGNOJi = X7_6h(nnEl14, (unsigned short)-1306736313);
 break;
 case 5:
 qx7mx75 = X7_6h(nnEl14, qx7mx75);
@@ -176,7 +176,7 @@ dS8t5SwGDk = X7_6h((unsigned short)-1602811714, rEi02);
 break;
 case 'f':
 case 'F':
-MC6v = X7_6h((unsigned short)74812214, 2004376035);
+MC6v = X7_6h((unsigned short)74812214, (unsigned short)2004376035);
 break;
 case 'g':
 case 'G':
@@ -229,7 +229,7 @@ case 'c':
 W_Y_21Nai1 &= 2146936931;
 break;
 case 'd':
-v542CwN8U = k2ht(qx7mx75, -1467331798, -1173126546);
+v542CwN8U = k2ht(qx7mx75, -1467331798, (short)-1173126546);
 break;
 case 'e':
 v542CwN8U = HI4V_O ^ 1451779822;
@@ -276,7 +276,7 @@ case 2:
 r8D_ -= 1438036961;
 break;
 case 3:
-dS8t5SwGDk = X7_6h((unsigned short)599810092, -1115163228);
+dS8t5SwGDk = X7_6h((unsigned short)599810092, (unsigned short)-1115163228);
 break;
 case 4:
 HI4V_O = ApS879z74 ^ 930952198;
@@ -361,7 +361,7 @@ qx7mx75 = X7_6h((unsigned short)1746677974, (unsigned short)-1579705678);
 break;
 case 'c':
 case 'C':
-qx7mx75 = X7_6h(ApS879z74, 1119695053);
+qx7mx75 = X7_6h(ApS879z74, (unsigned short)1119695053);
 break;
 case 'd':
 case 'D':
@@ -373,7 +373,7 @@ qx7mx75 = X7_6h((unsigned short)-880902596, (unsigned short)1905524352);
 break;
 case 'f':
 case 'F':
-k7EiwX = k2ht(30365209, Ptei6cP, 2144710181);
+k7EiwX = k2ht(30365209, Ptei6cP, (short)2144710181);
 break;
 case 'g':
 case 'G':

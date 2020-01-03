@@ -36,7 +36,7 @@ int main(int argc, char** argv) {
   short int  fBqK;
   fBqK  =  (short)939610225;
     short int    OeJ908i;
-    OeJ908i    =    1537146291;
+    OeJ908i    =    (short)1537146291;
   unsigned short  yI_7gITd;
   yI_7gITd  =  1928736936;
  unsigned short IGgai;
@@ -52,7 +52,7 @@ int main(int argc, char** argv) {
     short    HJuZ76Ca;
     HJuZ76Ca    =    (short)-2094348471;
     unsigned short    ioSqoY5b;
-    ioSqoY5b    =    1197820631;
+    ioSqoY5b    =    (unsigned short)1197820631;
  long long iSmDCY;
  iSmDCY = -1456598701;
   unsigned int  uQ4zW;

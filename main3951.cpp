@@ -32,7 +32,7 @@ int main(void) {
     long    FI90;
     FI90    =    -83876240;
 	char	j60w92;
-	j60w92	=	2061306102;
+	j60w92	=	(char)2061306102;
  char P_jhk;
  P_jhk = 1982474103;
     long long    ud6BY_Jb8B;
@@ -62,7 +62,7 @@ int main(void) {
   char  ztKG9;
   ztKG9  =  (char)-1481341142;
     unsigned char    f6y9;
-    f6y9    =    913306389;
+    f6y9    =    (unsigned char)913306389;
 	long	CM4H50;
 	CM4H50	=	31440346;
   unsigned short int  ov_394Kj9_;
@@ -147,7 +147,7 @@ else if (((ud6BY_Jb8B > ov_394Kj9_) && (i4305w9 & 1304913237)) || (ud6BY_Jb8B & 
 {
 if ((Khy7Ap <= s8BQOmn) && (f6y9 & m_sXqfP6s))
 {
-i4305w9 = JgK_(1157838908, A5vNa);
+i4305w9 = JgK_((unsigned char)1157838908, A5vNa);
 }
 }
 else if ((m_sXqfP6s > s8BQOmn) && (m_sXqfP6s != A_MmdZkmWu))
@@ -284,7 +284,7 @@ else if ((ztKG9 != FI90) && (FI90 <= P_jhk))
 {
 for (int j = 5; j >= 0; j--)
 {
-Khy7Ap = (m_sXqfP6s < 598569502) ? 714836945 : 2033607168;
+Khy7Ap = (m_sXqfP6s < 598569502) ? (unsigned short)714836945 : 2033607168;
 }
 }
 else if (DeAF6 & CM4H50)

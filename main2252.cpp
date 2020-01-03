@@ -49,7 +49,7 @@ int main(void) {
  double x9_8K4;
  x9_8K4 = -1986447384;
  short int gRaMY50CQ;
- gRaMY50CQ = -486578206;
+ gRaMY50CQ = (short)-486578206;
 	long double	vzJl21;
 	vzJl21	=	-1326723888;
  double t25MYn1;
@@ -65,7 +65,7 @@ int main(void) {
   long double  QS09DQ_7Z;
   QS09DQ_7Z  =  -2048670700;
   unsigned short int  QSEFT92;
-  QSEFT92  =  1813749579;
+  QSEFT92  =  (unsigned short)1813749579;
     unsigned short int    Sx7_K1hRT;
     Sx7_K1hRT    =    (unsigned short)-1267392205;
 

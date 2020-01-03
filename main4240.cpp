@@ -42,7 +42,7 @@ int main(void) {
  unsigned long long hfjU4i5DS7;
  hfjU4i5DS7 = 404171778;
     unsigned char    unM5c;
-    unM5c    =    1376196320;
+    unM5c    =    (unsigned char)1376196320;
  long L0HBF80t;
  L0HBF80t = -304206253;
  double b3jR;
@@ -62,7 +62,7 @@ int main(void) {
     long long    uSNZ;
     uSNZ    =    1642135361;
   short int  jhit;
-  jhit  =  -84864913;
+  jhit  =  (short)-84864913;
  char q28t1y_JKj;
  q28t1y_JKj = 408696292;
   long double  n86cjx;
@@ -86,7 +86,7 @@ int main(void) {
     unsigned short int    O62y1;
     O62y1    =    (unsigned short)-441469215;
     short    duOtSg;
-    duOtSg    =    -1322664509;
+    duOtSg    =    (short)-1322664509;
     unsigned long long    UbVjHs;
     UbVjHs    =    -2111990725;
  char yrJ1KV;
@@ -96,7 +96,7 @@ int main(void) {
  unsigned short int lY45;
  lY45 = (unsigned short)-1923298185;
     short    Et064TW;
-    Et064TW    =    98220404;
+    Et064TW    =    (short)98220404;
 	long	iRikd25kOm;
 	iRikd25kOm	=	-1097253884;
 	long long	RHA3P;
@@ -116,7 +116,7 @@ int main(void) {
     int    kGFuMhLoH;
     kGFuMhLoH    =    914751481;
  short int C89w26OGU;
- C89w26OGU = 1674060942;
+ C89w26OGU = (short)1674060942;
 	unsigned int	r9O_Co;
 	r9O_Co	=	1634502544;
     long long    J5uZ9t;
@@ -154,7 +154,7 @@ if ((SEj9Yb > -1334215438) && (RHA3P != -1148074937))
 {
 if (UbVjHs == 1681006594)
 {
-lY45 = LhTI_T7KQu(lY45, (unsigned short)-1477576028, -1426152948, 4239967, -43921876);
+lY45 = LhTI_T7KQu(lY45, (unsigned short)-1477576028, -1426152948, 4239967, (char)-43921876);
 }
 else
 {
@@ -269,7 +269,7 @@ k--;
 }
 else
 {
-Gbu0wlD = LhTI_T7KQu(2067604480, 1684653678, SpOmh7, q28t1y_JKj, A7bb0J01);
+Gbu0wlD = LhTI_T7KQu(2067604480, (unsigned short)1684653678, SpOmh7, q28t1y_JKj, A7bb0J01);
 }
 }
 else if (g_G9F & Gbu0wlD)
@@ -568,7 +568,7 @@ while (i < 5);
 
 std::cout << LhTI_T7KQu(q28t1y_JKj, (unsigned short)-891090654, HSJvryqSs, 392537091, (char)-1713963823) << "Ddg7FJaxi" << "Kum3" << std::endl;
 
-kGFuMhLoH = DwpMC1s3I(-1454824561);
+kGFuMhLoH = DwpMC1s3I((short)-1454824561);
 for (int i = 5; i >= 0; --i)
 {
 try

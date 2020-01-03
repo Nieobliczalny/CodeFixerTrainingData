@@ -27,7 +27,7 @@ unsigned short int    TwP1_(unsigned short int    wv1uxuN,char    O5XJA08,short 
 }
 
 unsigned char	O_457_sSY4(char	YO7Y,int	mL_7ojRe,char	kH9Jr7_a,unsigned long	EIW_Zr2F,short int	Ra41)	{
-	return	560848851;
+	return	(unsigned char)560848851;
 }
 
 int main(int argc, char** argv) {
@@ -135,7 +135,7 @@ QOLTX = (int)floor(wfX21mTSz);
 Dzn740R = IFzYMs1X0u + A62nG;
 
 ucI08NI3DU = (float)(CYU620);
-std::cout << k0Mpv55ayO(-595723675, x676j6xZC7, (short)-1529609236, (short)1469899495, IFzYMs1X0u) << E38Y << O_457_sSY4(jcuW_6LaH, 2046401109, 906970638, 1396111174, -829854055) << CYU620 << hp6Kk_ << std::endl;
+std::cout << k0Mpv55ayO(-595723675, x676j6xZC7, (short)-1529609236, (short)1469899495, IFzYMs1X0u) << E38Y << O_457_sSY4(jcuW_6LaH, 2046401109, (char)906970638, 1396111174, -829854055) << CYU620 << hp6Kk_ << std::endl;
 
 if ((SP6YuaT0 & 685271928) || (SP6YuaT0 & 398513824))
 {
@@ -174,7 +174,7 @@ LI6tSt37O = O_457_sSY4((char)-1017506617, q3018, (char)1560124095, jcuW_6LaH, QW
 }
 else
 {
-CYU620 = O_457_sSY4(-989314243, q3018, -1990653501, jcuW_6LaH, 1678160760) | 1669116241;
+CYU620 = O_457_sSY4((char)-989314243, q3018, -1990653501, jcuW_6LaH, 1678160760) | 1669116241;
 }
 }
 catch (int& errorCode)

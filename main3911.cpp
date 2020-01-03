@@ -110,7 +110,7 @@ case 'e':
 MiQe33 = (int)floor(K_iG5s3G);
 break;
 case 'f':
-E53GK = TSPo38_(E53GK, (short)-1177660595, -1064552575);
+E53GK = TSPo38_(E53GK, (short)-1177660595, (unsigned short)-1064552575);
 break;
 case 'g':
 INRONs0MXH = (int)floor(tST_t0nA1);

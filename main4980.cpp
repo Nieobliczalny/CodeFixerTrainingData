@@ -14,7 +14,7 @@ int main() {
     unsigned long long    y7fbBg9    =    0;
  unsigned short int zNf0 = (unsigned short)549088874;
     unsigned long long    IE8jp9    =    1757308100;
-  short  R2w3_AkRv  =  2009985784;
+  short  R2w3_AkRv  =  (short)2009985784;
     double    XHE5x    =    -1943440998;
 	short int	e3EAbx0Tuo	=	885409036;
   unsigned long long  jWlN0_  =  304345235;
@@ -30,7 +30,7 @@ int main() {
     unsigned int    dss3bq0I    =    629247601;
 	unsigned int	WN297l2PSz	=	-1264435314;
 	float	Y_Rl6	=	-562856569;
-  char  p3D05G9I  =  157007214;
+  char  p3D05G9I  =  (char)157007214;
  long long BkJ_pZ9 = 1842909571;
   char  pqjkb  =  2058601041;
  short int uU32zQa1i = (short)-359431888;
@@ -40,7 +40,7 @@ int main() {
  int B7u0_Hn = -1389319084;
   int  jFLSoaR_r  =  1368917521;
  unsigned short int o4i6 = -979451910;
-	char	S_O9JO63P	=	936866045;
+	char	S_O9JO63P	=	(char)936866045;
  char z2csh64H7g = 0;
   long  cI_FN  =  582365918;
   unsigned long  K6P1R  =  1597892218;
@@ -311,7 +311,7 @@ f1KlSLmR = (int)abs(Y_Rl6);
 }
 else if ((z2csh64H7g < K6P1R) && (YKEiWmtlwB >= -1962461753))
 {
-mjxO0 = C_r6mAj(-1180205589, 1315170399, mjxO0);
+mjxO0 = C_r6mAj((char)-1180205589, 1315170399, mjxO0);
 }
 else if (((y7fbBg9 < mjxO0) || (iW8QK4Xa9C >= 1049871496)) && ((WuBL_ >= 1788437126) && (G82fv >= -351854344)))
 {
@@ -550,7 +550,7 @@ int i = 0;
 do
 {
 i++;
-rlHV = C_r6mAj(777390159, -1677897781, jFLSoaR_r);
+rlHV = C_r6mAj((char)777390159, -1677897781, jFLSoaR_r);
 }
 while (i < 9);
 }
@@ -572,7 +572,7 @@ dss3bq0I = C_r6mAj((char)2080588123, -417087319, (unsigned short)-1076207330) | 
 break;
 case 'c':
 case 'C':
-mjxO0 = C_r6mAj(e3EAbx0Tuo, -1143764609, 1110174547);
+mjxO0 = C_r6mAj(e3EAbx0Tuo, -1143764609, (unsigned short)1110174547);
 break;
 case 'd':
 case 'D':
@@ -593,7 +593,7 @@ mjxO0 = C_r6mAj(XHE5x, -544274807, (unsigned short)194030873);
 }
 if ((uU32zQa1i != fe9z) && (rlHV > G82fv))
 {
-std::cout << C_r6mAj((char)1679083869, -931418339, -1180695506) << C_r6mAj(XHE5x, 979376460, D4gtsgr7V_) << std::endl;
+std::cout << C_r6mAj((char)1679083869, -931418339, (unsigned short)-1180695506) << C_r6mAj(XHE5x, 979376460, D4gtsgr7V_) << std::endl;
 }
 else
 {

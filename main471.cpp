@@ -18,7 +18,7 @@ unsigned short  GpVEo(short  h69z7g6X,int  T9eD54s,unsigned int  nx_kA36TW,char 
 }
 
 unsigned char vsARo6c_YT() {
- return 269866679;
+ return (unsigned char)269866679;
 }
 
 unsigned short	Pr2360(unsigned long long	PkWHeJ)

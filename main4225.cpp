@@ -138,7 +138,7 @@ case 'e':
 u3PW = o61mMKL(Ot5oM5l7Pw, 2003577436, AV11, Ih860n, (unsigned short)-1431432695);
 break;
 case 'f':
-u3PW = o61mMKL(1908271214, -1890764717, -1526120761, J3Lyn69, -1224768801);
+u3PW = o61mMKL(1908271214, -1890764717, -1526120761, J3Lyn69, (unsigned short)-1224768801);
 break;
 case 'g':
 u3PW = o61mMKL(-98843100, JdQ1Z0S2__, kQ37Chr1J, Yz040_24, (unsigned short)-729618402);
@@ -571,7 +571,7 @@ case 'e':
 rM3N *= 1684797430;
 break;
 case 'f':
-u3PW = o61mMKL(1208729389, p5k3hlt4, k0rBoFEVD9, W1HGf, -1447018772);
+u3PW = o61mMKL(1208729389, p5k3hlt4, k0rBoFEVD9, W1HGf, (unsigned short)-1447018772);
 break;
 case 'g':
 oG518O |= McAca8d;

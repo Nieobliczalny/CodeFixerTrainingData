@@ -362,7 +362,7 @@ case 0:
 dp3jB2u = IpUrzK9((unsigned short)-1631608096);
 break;
 case 1:
-dp3jB2u = IpUrzK9(-697828698);
+dp3jB2u = IpUrzK9((unsigned short)-697828698);
 break;
 case 2:
 dp3jB2u = IpUrzK9((unsigned short)-83647745);

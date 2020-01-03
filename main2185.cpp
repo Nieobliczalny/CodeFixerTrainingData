@@ -106,7 +106,7 @@ case 'h':
 Z4MYSsrt_H = SDQ4w(BqvKXHCYR7, 1517854789, 820020054, (char)1641047472);
 break;
 case 'i':
-iG7g = SDQ4w((unsigned short)-1863944103, iG7g, -1491350548, 1709627372);
+iG7g = SDQ4w((unsigned short)-1863944103, iG7g, -1491350548, (char)1709627372);
 break;
 default:
 qheD7 = qheD7 * 368421315;

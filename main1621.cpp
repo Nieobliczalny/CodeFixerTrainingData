@@ -367,7 +367,7 @@ case 1:
 WXBX5t6T = P7_zAmlG((unsigned short)-109666201);
 break;
 case 2:
-TBhhyvXacD = DTYZ0(-1241187229, 956741854, -1858607529);
+TBhhyvXacD = DTYZ0(-1241187229, 956741854, (short)-1858607529);
 break;
 case 3:
 sdr912++;

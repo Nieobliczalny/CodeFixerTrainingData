@@ -22,7 +22,7 @@ int main()
     unsigned long    Tig5i880T;
     Tig5i880T    =    -508977761;
  char zZT48;
- zZT48 = 1187640164;
+ zZT48 = (char)1187640164;
 	int	tIH_XT_pC;
 	tIH_XT_pC	=	708438139;
     double    eNfZn;
@@ -38,7 +38,7 @@ int main()
 	long	dSDYKv;
 	dSDYKv	=	161172147;
     short    Z55b;
-    Z55b    =    1649966185;
+    Z55b    =    (short)1649966185;
   long long  JnX60;
   JnX60  =  1743590658;
 	int	UxxP03n;
@@ -52,7 +52,7 @@ int main()
   int  Etzp6c_;
   Etzp6c_  =  2139965739;
   unsigned short int  oP_qT;
-  oP_qT  =  -1859382756;
+  oP_qT  =  (unsigned short)-1859382756;
 	float	p4cel7SG;
 	p4cel7SG	=	1418384674;
 	int	oEt0T;
@@ -82,7 +82,7 @@ int main()
     char    yg_Axu3c;
     yg_Axu3c    =    (char)1911253413;
   short  nb67q;
-  nb67q  =  -478152111;
+  nb67q  =  (short)-478152111;
  long Hw5Inx0;
  Hw5Inx0 = -773189130;
     unsigned long    d0r6nbCm2y;
@@ -124,7 +124,7 @@ int main()
     unsigned long long    zcQ0OqL5;
     zcQ0OqL5    =    1616172744;
     short    YoQZoGt;
-    YoQZoGt    =    1983028070;
+    YoQZoGt    =    (short)1983028070;
  short i34lU_A;
  i34lU_A = (short)-1179714531;
   long double  S2UQ1bP;
@@ -138,7 +138,7 @@ int main()
   char  Ysyn;
   Ysyn  =  (char)1118398882;
   short int  p0e7FRS5_b;
-  p0e7FRS5_b  =  -1828427183;
+  p0e7FRS5_b  =  (short)-1828427183;
  long double Z_fRrN;
  Z_fRrN = -1280679319;
  float I702opQ6Z;
@@ -158,7 +158,7 @@ int main()
     unsigned char    wg_L_;
     wg_L_    =    (unsigned char)824225925;
  short int HB9Qln;
- HB9Qln = -134388166;
+ HB9Qln = (short)-134388166;
  long long J_4N;
  J_4N = -458105343;
     double    rc_jzD;
@@ -260,7 +260,7 @@ if (o09Fy34f & YoQZoGt)
 {
 b_Qu4d_K7 = pNmH3N8((short)-1308089191, (unsigned short)885232892, D6A0lUb0U, i2OsoUG2N2) & YGr_MB;
 }
-std::cout << r0ugQeNIb3 << pNmH3N8(I702opQ6Z, -1870384954, D6A0lUb0U, -1680094243) << pNmH3N8(36816164, t_tN11O, D6A0lUb0U, -704229142) << std::endl;
+std::cout << r0ugQeNIb3 << pNmH3N8(I702opQ6Z, (unsigned short)-1870384954, D6A0lUb0U, -1680094243) << pNmH3N8(36816164, t_tN11O, D6A0lUb0U, -704229142) << std::endl;
 
 zcQ0OqL5 /= 46742318;
 

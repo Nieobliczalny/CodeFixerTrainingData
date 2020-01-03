@@ -46,7 +46,7 @@ int main(void)
     unsigned short int    Q5tCL;
     Q5tCL    =    (unsigned short)1142475318;
 	unsigned short	lmo9R8vg7;
-	lmo9R8vg7	=	-716074042;
+	lmo9R8vg7	=	(unsigned short)-716074042;
     long double    gTe4;
     gTe4    =    -608307953;
   unsigned short  T5pTqS7;
@@ -88,7 +88,7 @@ int main(void)
  short int F088z;
  F088z = (short)484374763;
  unsigned short nNd6wQI5P7;
- nNd6wQI5P7 = -998958222;
+ nNd6wQI5P7 = (unsigned short)-998958222;
  unsigned char IT53;
  IT53 = 343923510;
 	unsigned char	u93Zi367i;
@@ -100,7 +100,7 @@ int main(void)
  unsigned short int i0Ob;
  i0Ob = (unsigned short)-397290965;
     unsigned char    ZfD85x;
-    ZfD85x    =    -1843604389;
+    ZfD85x    =    (unsigned char)-1843604389;
 	unsigned short	jkw7;
 	jkw7	=	(unsigned short)-1991740328;
     unsigned long    S64_WeSlL;
@@ -126,7 +126,7 @@ int main(void)
   short  q654eq;
   q654eq  =  (short)1964838589;
  unsigned char r792V;
- r792V = 235616286;
+ r792V = (unsigned char)235616286;
 	unsigned long long	G3hTT_cR;
 	G3hTT_cR	=	0;
     char    YHl7XOq3i;
@@ -136,7 +136,7 @@ int main(void)
  short ihqbNJ;
  ihqbNJ = (short)1566078112;
  short int Vu03am6Hb4;
- Vu03am6Hb4 = 227955597;
+ Vu03am6Hb4 = (short)227955597;
  long double SkH_LN81;
  SkH_LN81 = 1463890056;
 	long double	T21L5xaK4;
@@ -154,7 +154,7 @@ int main(void)
     unsigned long    p48FCA85xk;
     p48FCA85xk    =    859942736;
 	char	yMQbLK;
-	yMQbLK	=	469641576;
+	yMQbLK	=	(char)469641576;
 	unsigned short	Wx2W_4;
 	Wx2W_4	=	(unsigned short)-114921933;
   unsigned short int  yhW3gVQQgn;
@@ -333,7 +333,7 @@ std::cout << f54GIoEh << std::endl;
 }
 else if (Cbg43rzEhD == 939891884)
 {
-std::cout << UP4BxC(i27RmDw, MjBsD6hg8, D3BVp54) << Vu03am6Hb4 << B74o9hz << UP4BxC(i27RmDw, MjBsD6hg8, D3BVp54) << rPiO((short)1020844806, MjBsD6hg8, (unsigned short)20213040, -1876431573) << std::endl;
+std::cout << UP4BxC(i27RmDw, MjBsD6hg8, D3BVp54) << Vu03am6Hb4 << B74o9hz << UP4BxC(i27RmDw, MjBsD6hg8, D3BVp54) << rPiO((short)1020844806, MjBsD6hg8, (unsigned short)20213040, (unsigned char)-1876431573) << std::endl;
 }
 else if (G3hTT_cR >= -94106955)
 {
@@ -444,7 +444,7 @@ vMBeHC_YX_ = rPiO(vMBeHC_YX_, -2080959129, (unsigned short)-1679187566, gTe4);
 }
 else if ((Hdwew_) && (Q5tCL <= u_9B))
 {
-a98y8 = rPiO((short)-1662329032, yhW3gVQQgn, 1413656372, -2143838398);
+a98y8 = rPiO((short)-1662329032, yhW3gVQQgn, (unsigned short)1413656372, -2143838398);
 }
 else if (D3BVp54 <= u_9B)
 {

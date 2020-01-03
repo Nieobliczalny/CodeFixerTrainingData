@@ -31,7 +31,7 @@ int main(void)
     short int    xOzHG84U1;
     xOzHG84U1    =    (short)-1152846016;
 	char	B92J26F;
-	B92J26F	=	-225103907;
+	B92J26F	=	(char)-225103907;
  int Zi53hhlW;
  Zi53hhlW = -806985300;
     unsigned long    oc29ls9zux;
@@ -47,7 +47,7 @@ int main(void)
   unsigned short  y43zE2;
   y43zE2  =  (unsigned short)-1560606459;
   short int  WNAyXt3Sc;
-  WNAyXt3Sc  =  950080621;
+  WNAyXt3Sc  =  (short)950080621;
 	double	YTwf45c;
 	YTwf45c	=	-400421233;
     unsigned int    Z0lbwg8;
@@ -83,7 +83,7 @@ int main(void)
  unsigned long long JhGT;
  JhGT = -230538548;
  unsigned char URdftfu;
- URdftfu = -393693389;
+ URdftfu = (unsigned char)-393693389;
   unsigned short  b26vf_57p;
   b26vf_57p  =  -529573519;
     short    SeltyFKv45;

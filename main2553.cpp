@@ -187,7 +187,7 @@ jQvF7qzKo &= mTJr;
 switch (i3gm)
 {
 case 'a':
-L92KHkf = S0iFJS(624739551, wrDz7594, T2xYx5);
+L92KHkf = S0iFJS((char)624739551, wrDz7594, T2xYx5);
 break;
 case 'b':
 L55C1 &= n4u3;
@@ -207,7 +207,7 @@ case 'a':
 qXgX = S0iFJS((char)-844268061, (unsigned short)1946834329, RtHL6xmQ);
 break;
 case 'b':
-ewPA6s = I_m64Os5m(11320453, -1813053121);
+ewPA6s = I_m64Os5m((char)11320453, -1813053121);
 break;
 case 'c':
 CzGs = (int)abs(CFrYgsVpj);

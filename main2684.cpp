@@ -43,7 +43,7 @@ int main(void)
 	long	vwW33aiZ0d;
 	vwW33aiZ0d	=	1472222057;
  unsigned char zy0Qtt_v;
- zy0Qtt_v = 1834865732;
+ zy0Qtt_v = (unsigned char)1834865732;
     unsigned char    xT_4lM2328;
     xT_4lM2328    =    (unsigned char)1446373925;
  double mdTOg;
@@ -53,7 +53,7 @@ int main(void)
     short    Htcfo;
     Htcfo    =    (short)-515836857;
  unsigned short int Y6v__;
- Y6v__ = 179016500;
+ Y6v__ = (unsigned short)179016500;
 	unsigned short	Ey5G;
 	Ey5G	=	(unsigned short)541265756;
 	char	TofkqO;
@@ -77,7 +77,7 @@ int main(void)
  unsigned short H8p_671q;
  H8p_671q = (unsigned short)1425963924;
   unsigned short  ES80VY8B;
-  ES80VY8B  =  100013554;
+  ES80VY8B  =  (unsigned short)100013554;
  double M_E8yU4kIv;
  M_E8yU4kIv = 1088904962;
 	double	I6eJBe0G;

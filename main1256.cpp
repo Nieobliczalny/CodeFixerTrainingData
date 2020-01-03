@@ -24,7 +24,7 @@ int main(int argc, char** argv) {
 	short	G5C9_50i;
 	G5C9_50i	=	(short)387453651;
  unsigned short GGo_iXuP_l;
- GGo_iXuP_l = -802572803;
+ GGo_iXuP_l = (unsigned short)-802572803;
     unsigned long long    zM4iaMd;
     zM4iaMd    =    1765623147;
  long C79ws;
@@ -52,7 +52,7 @@ int main(int argc, char** argv) {
   char  UfWTG0;
   UfWTG0  =  0;
 	short	Mu23g5sTeF;
-	Mu23g5sTeF	=	-405495339;
+	Mu23g5sTeF	=	(short)-405495339;
     long long    qKS6h2L_cO;
     qKS6h2L_cO    =    -439242708;
  unsigned long eS95I;
@@ -114,7 +114,7 @@ int main(int argc, char** argv) {
   unsigned char  m23V;
   m23V  =  (unsigned char)1618906429;
     unsigned short    k5p5Q;
-    k5p5Q    =    858516416;
+    k5p5Q    =    (unsigned short)858516416;
 	short	EuaWy6YDc;
 	EuaWy6YDc	=	367433207;
  long double em3M784;

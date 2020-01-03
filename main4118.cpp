@@ -24,7 +24,7 @@ int main(void)
     float    j_4N3obh    =    251425631;
 	unsigned short	i9GYtJ	=	(unsigned short)472038926;
     unsigned char    cfr3    =    (unsigned char)1806909064;
-    unsigned short int    L0Q_q    =    -288150087;
+    unsigned short int    L0Q_q    =    (unsigned short)-288150087;
  unsigned short ydTt = 643970578;
   int  ZoDkYX_K  =  0;
   long long  PF29c  =  1273266211;
@@ -35,7 +35,7 @@ int main(void)
     unsigned short int    mnhK    =    (unsigned short)-1266060213;
 	unsigned char	C34_82	=	0;
  short qzK8mBRdcG = (short)-1934537032;
-	char	A3xH	=	-520869641;
+	char	A3xH	=	(char)-520869641;
   unsigned char  QqVz5Z0  =  1177454611;
     char    W9w2Pb    =    -931802716;
 	float	rSP4pzDM5	=	-577714167;
@@ -47,7 +47,7 @@ int main(void)
   unsigned long  U5TW2HP  =  23280430;
     unsigned long    G9y2sJI5b    =    -1955612486;
   short int  o58D77wSg  =  (short)209453995;
-	short int	aFD_	=	1756751467;
+	short int	aFD_	=	(short)1756751467;
 	unsigned char	yvt2LA	=	952821390;
  long R9e0D = 0;
     int    Q47DsEtg0    =    -1090729894;
@@ -61,7 +61,7 @@ int main(void)
  float O4TZh = 101286413;
 	unsigned long	BI6cdg6	=	-1911554702;
  short m314_75Z = (short)449358092;
-	short int	ya37z	=	1246149441;
+	short int	ya37z	=	(short)1246149441;
 	char	i6CZH_6	=	635255217;
  long Svqq2Q7ud = -937053380;
 	double	u06G1	=	-1906054515;
@@ -233,7 +233,7 @@ else
 {
 zY90c1TH6A = (int)floor(O4TZh);
 }
-cout << n1k5iO5K5((unsigned short)1729741370, (char)1145943746, -397680262) << Y5d2 << Q47DsEtg0 << "VyeA17JqX" << endl;
+cout << n1k5iO5K5((unsigned short)1729741370, (char)1145943746, (short)-397680262) << Y5d2 << Q47DsEtg0 << "VyeA17JqX" << endl;
 if (i0055o3c96 >= 872045807)
 {
 ZoDkYX_K = F7vtwJ6();
@@ -254,7 +254,7 @@ LwKc = (double)(Y5d2);
 }
 else
 {
-cout << "Gsl0_HVoqu" << LwKc << n1k5iO5K5((unsigned short)2065370524, (char)728951262, 2117302423) << F7vtwJ6() << "x74rT" << endl;
+cout << "Gsl0_HVoqu" << LwKc << n1k5iO5K5((unsigned short)2065370524, (char)728951262, (short)2117302423) << F7vtwJ6() << "x74rT" << endl;
 }
 }
 else if (U5TW2HP <= -1573878484)

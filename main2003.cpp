@@ -18,7 +18,7 @@ int main(int argc, char** argv)
   int  JU98X41  =  -1667338754;
 	short	XfB2	=	(short)-1887280658;
   long long  jgV_07JIO  =  -2074797882;
-	unsigned short	GvuU94R	=	1828087451;
+	unsigned short	GvuU94R	=	(unsigned short)1828087451;
     unsigned short int    Boj6z__64t    =    441676043;
 	long long	lVUlBb6	=	0;
  unsigned char ho1JOjUd_ = 2080025175;
@@ -31,7 +31,7 @@ int main(int argc, char** argv)
 	int	uR7ky	=	1808213589;
     short    xD_6    =    (short)-706387925;
 
-lVUlBb6 = vaQ4(-1241634985, j8Xbz6);
+lVUlBb6 = vaQ4((short)-1241634985, j8Xbz6);
 
 if (SP39V6_m & -794632768)
 {

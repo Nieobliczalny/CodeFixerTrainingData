@@ -29,7 +29,7 @@ int main(void) {
 	unsigned char	uM6M3;
 	uM6M3	=	(unsigned char)-1765015814;
 	unsigned char	n9n6;
-	n9n6	=	-661124287;
+	n9n6	=	(unsigned char)-661124287;
     long long    sInO_L8;
     sInO_L8    =    1874336678;
     unsigned short int    bGT2lU0Q;
@@ -63,7 +63,7 @@ int main(void) {
     double    z2b3;
     z2b3    =    -883296947;
     char    JqqNu;
-    JqqNu    =    796391894;
+    JqqNu    =    (char)796391894;
   short int  ENSebG;
   ENSebG  =  1539045694;
 	long	jOyy;
@@ -77,7 +77,7 @@ int main(void) {
   short  v8JWT2d;
   v8JWT2d  =  (short)-1561961283;
   short  jj_eUCq;
-  jj_eUCq  =  692047767;
+  jj_eUCq  =  (short)692047767;
 	long double	h8iP;
 	h8iP	=	-225203818;
  long long a4DJt5onE;
@@ -91,7 +91,7 @@ int main(void) {
  float CKaJPDoNc1;
  CKaJPDoNc1 = 1910879043;
  short int WPx2;
- WPx2 = 1538850100;
+ WPx2 = (short)1538850100;
     char    bbbl;
     bbbl    =    (char)-71784945;
  short hxZ82bYMI_;
@@ -109,7 +109,7 @@ int main(void) {
 	unsigned short	TDnfr8B9;
 	TDnfr8B9	=	(unsigned short)-1443556364;
 	short	XAQ1OT;
-	XAQ1OT	=	-281313190;
+	XAQ1OT	=	(short)-281313190;
  unsigned char WnWcQ8U2;
  WnWcQ8U2 = 813854582;
  double mVw8p;
@@ -127,7 +127,7 @@ int main(void) {
   double  wh6e;
   wh6e  =  1961433319;
  unsigned char cdFx_sX3;
- cdFx_sX3 = 225063878;
+ cdFx_sX3 = (unsigned char)225063878;
     unsigned long long    VJeh5Vj8;
     VJeh5Vj8    =    1825610346;
 	long long	A58c;
@@ -147,7 +147,7 @@ int main(void) {
     short    P3d11Ry;
     P3d11Ry    =    (short)636934805;
 	char	qQbS3;
-	qQbS3	=	-1460194826;
+	qQbS3	=	(char)-1460194826;
     long double    LM2A;
     LM2A    =    2068680741;
     int    EvZtOj;
@@ -165,7 +165,7 @@ int main(void) {
     int    lk5817;
     lk5817    =    1631613178;
 	short	MV8_0E9;
-	MV8_0E9	=	-1293484258;
+	MV8_0E9	=	(short)-1293484258;
   unsigned int  Z9Zd;
   Z9Zd  =  615368455;
   char  l1AL;
@@ -175,7 +175,7 @@ int main(void) {
  short CdLxmI4;
  CdLxmI4 = 1462514954;
  unsigned char vyuu6SiZ_;
- vyuu6SiZ_ = 470706023;
+ vyuu6SiZ_ = (unsigned char)470706023;
  unsigned int d5xii;
  d5xii = 981362734;
   unsigned int  Ywpm5;

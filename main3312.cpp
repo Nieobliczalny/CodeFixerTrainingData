@@ -53,7 +53,7 @@ int main()
  short h15luUB;
  h15luUB = (short)1170252613;
   short  a23Oj1c3p0;
-  a23Oj1c3p0  =  872135934;
+  a23Oj1c3p0  =  (short)872135934;
 	float	nytv;
 	nytv	=	383655528;
   double  lYavov;
@@ -119,7 +119,7 @@ int main()
     float    jsC91;
     jsC91    =    1745872984;
 	char	NvEz0J;
-	NvEz0J	=	773900894;
+	NvEz0J	=	(char)773900894;
 	unsigned short	vFbBtgK2;
 	vFbBtgK2	=	(unsigned short)-1480749181;
   long double  c2FYUC33;
@@ -145,7 +145,7 @@ int main()
 	short	kr9H0eD_6v;
 	kr9H0eD_6v	=	(short)26088815;
 	unsigned short	Po_lr_;
-	Po_lr_	=	-817318282;
+	Po_lr_	=	(unsigned short)-817318282;
  char IBFCc_Y4;
  IBFCc_Y4 = 1792803733;
  unsigned long long mtXmd;

@@ -28,7 +28,7 @@ int main(int argc, char** argv) {
     short    MUmnX3nND;
     MUmnX3nND    =    (short)-1107709181;
 	char	pFpCl6KRVw;
-	pFpCl6KRVw	=	-451621025;
+	pFpCl6KRVw	=	(char)-451621025;
   long  VMOtsnN;
   VMOtsnN  =  698049805;
     unsigned short    u0xhOx5;
@@ -42,7 +42,7 @@ int main(int argc, char** argv) {
   unsigned short int  K5h_SzV;
   K5h_SzV  =  (unsigned short)-1995319199;
  unsigned short PzlbRQ8;
- PzlbRQ8 = -961396657;
+ PzlbRQ8 = (unsigned short)-961396657;
  unsigned short uGQMr1x;
  uGQMr1x = (unsigned short)839047908;
   short  T0V861C05;
@@ -70,7 +70,7 @@ int main(int argc, char** argv) {
   char  g6h8XV1;
   g6h8XV1  =  (char)592262105;
 	unsigned short int	QfB7C;
-	QfB7C	=	1807866631;
+	QfB7C	=	(unsigned short)1807866631;
 	unsigned long long	wIRnPKTo;
 	wIRnPKTo	=	1790361330;
  unsigned int v116J6k_;
@@ -90,7 +90,7 @@ int main(int argc, char** argv) {
     char    qLqPspp3Mk;
     qLqPspp3Mk    =    (char)1707792988;
     short    Cu5zX;
-    Cu5zX    =    -1545245102;
+    Cu5zX    =    (short)-1545245102;
     int    oHGaf4d26;
     oHGaf4d26    =    -1232687324;
   long double  G69nw53f;
@@ -189,7 +189,7 @@ vN0Y = h9I1A(936246279, (char)-1635532609);
 }
 else if (mLvf <= 30281806)
 {
-VMOtsnN = (VhvpFPK <= ks2Yqk) ? QfB7C : XuUF(vN0Y, (short)1996716816, 31004393, 672842126);
+VMOtsnN = (VhvpFPK <= ks2Yqk) ? QfB7C : XuUF(vN0Y, (short)1996716816, (char)31004393, 672842126);
 }
 else if (FLqcXB7 >= 1498679194)
 {
@@ -308,7 +308,7 @@ int j = 0;
 while (j < 6)
 {
 ++j;
-cout << "pYurY6c8D2" << XuUF((unsigned short)-1788212366, (short)555321534, -900602803, c8AvL) << U0VF_t64i(27460252, 55673178, MUmnX3nND) << endl;
+cout << "pYurY6c8D2" << XuUF((unsigned short)-1788212366, (short)555321534, (char)-900602803, c8AvL) << U0VF_t64i(27460252, 55673178, MUmnX3nND) << endl;
 }
 }
 }

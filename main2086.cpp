@@ -86,7 +86,7 @@ Q275a94r = (int)abs(MZzj6sXIi3);
 break;
 case 'c':
 case 'C':
-hNx_DY_Q0 = RA5hsWpb((unsigned char)-17249949, -1214793818);
+hNx_DY_Q0 = RA5hsWpb((unsigned char)-17249949, (unsigned char)-1214793818);
 break;
 case 'd':
 case 'D':
@@ -260,7 +260,7 @@ case 'c':
 Wucne = ObE2UQ5z1((unsigned short)-693852939, -688378315);
 break;
 case 'd':
-az6Cvd_ = ObE2UQ5z1(193798866, uk83);
+az6Cvd_ = ObE2UQ5z1((unsigned short)193798866, uk83);
 break;
 case 'e':
 JrTOlx ^= G5iB5JK6n;

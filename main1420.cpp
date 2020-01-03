@@ -90,7 +90,7 @@ case 2:
 OSXE_J <<= ZJibOLZ;
 break;
 case 3:
-TN2xtqr04 = WJsoU((unsigned short)-2101178037, e1dGIIg3, -9664501, 932932244);
+TN2xtqr04 = WJsoU((unsigned short)-2101178037, e1dGIIg3, (unsigned short)-9664501, 932932244);
 break;
 case 4:
 HDd7Mmx0G5 = WJsoU(pb942g1W, YIr76BUWT, Ydw6, -1632276773);
@@ -102,7 +102,7 @@ case 6:
 HDd7Mmx0G5 = WJsoU((unsigned short)1333290105, nV5s_vCQ, 1797786072, 28588605);
 break;
 default:
-TN2xtqr04 = WJsoU((unsigned short)-835497281, X_9xgNrWv, -603953213, -892213034);
+TN2xtqr04 = WJsoU((unsigned short)-835497281, X_9xgNrWv, (unsigned short)-603953213, -892213034);
 break;
 }
 }
@@ -170,7 +170,7 @@ case 5:
 HDd7Mmx0G5 = WJsoU((unsigned short)415646113, -1676797533, M5lzja86a, 197956794);
 break;
 case 6:
-ASK0k00 = WJsoU(Ydw6, -253836735, 1446232145, 2077898474) | 1015424455;
+ASK0k00 = WJsoU(Ydw6, -253836735, (unsigned short)1446232145, 2077898474) | 1015424455;
 break;
 case 7:
 vHkTB = oKdGP + 1662007508;
@@ -217,7 +217,7 @@ case 3:
 Ejz_Nl_7S |= OUdvS;
 break;
 case 4:
-e9aa = WJsoU(-46899652, oKdGP, e9aa, 1618837687);
+e9aa = WJsoU((unsigned short)-46899652, oKdGP, e9aa, 1618837687);
 break;
 case 5:
 jA0p7IvA %= 776810126;
@@ -232,7 +232,7 @@ case 8:
 e9aa = WJsoU((unsigned short)-981176285, bGDN6c3oJ_, X_9xgNrWv, nV5s_vCQ);
 break;
 default:
-vzsXK = WJsoU(889155062, Uw4Fp4, -1389400528, vzsXK);
+vzsXK = WJsoU((unsigned short)889155062, Uw4Fp4, -1389400528, vzsXK);
 break;
 }
 }
@@ -245,7 +245,7 @@ e9aa = WJsoU((unsigned short)1406915956, M1ftSwy440, Dj6OMuNPb, A_W93FwA);
 
 Z5tX = (unsigned int)(oKdGP);
 
-cout << l257I479 << Uw4Fp4 << e9897y0T1f << WJsoU(P55vhMW1Wg, M1ftSwy440, -1647079573, A_W93FwA) << cMw3 << endl;
+cout << l257I479 << Uw4Fp4 << e9897y0T1f << WJsoU(P55vhMW1Wg, M1ftSwy440, (unsigned short)-1647079573, A_W93FwA) << cMw3 << endl;
 p1Rg6 = (unsigned int)(qezM6jRj8N);
 
 if (HDd7Mmx0G5 >= -109781890)
@@ -317,7 +317,7 @@ TN2xtqr04 = WJsoU((unsigned short)-1700641326, apBaEW5Lp, Avs_Jyd, Dj6OMuNPb);
 }
 else if (YWm11 == 755562771)
 {
-e9aa = WJsoU(-2110381125, -443994569, qezM6jRj8N, 41010268);
+e9aa = WJsoU((unsigned short)-2110381125, -443994569, qezM6jRj8N, 41010268);
 }
 else if (RvkPM7J)
 {

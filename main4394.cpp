@@ -244,7 +244,7 @@ oGi5S94qq = Yn7O((short)-2119730451, -1266820297);
 break;
 case 'c':
 case 'C':
-ynkp = Yn7O(1534539107, b3VT);
+ynkp = Yn7O((short)1534539107, b3VT);
 break;
 case 'd':
 case 'D':
@@ -367,7 +367,7 @@ case 'b':
 h80Ef = Yn7O((short)1140225810, 464849285);
 break;
 case 'c':
-lZknJ6P0 = MTuItu4Cl(-1812673686, 2095323596, A_XY6IW);
+lZknJ6P0 = MTuItu4Cl((short)-1812673686, 2095323596, A_XY6IW);
 break;
 case 'd':
 jE27 = (int)floor(R0DnE2);

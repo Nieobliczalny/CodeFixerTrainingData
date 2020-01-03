@@ -54,7 +54,7 @@ for (int i = 6; i >= 0; --i)
 int j = 5;
 do
 {
-L0xxuCuiAF = y703H_6m_d(2040511123, LIR0a, -1531994036, 85168845, -1613871652);
+L0xxuCuiAF = y703H_6m_d(2040511123, LIR0a, -1531994036, (short)85168845, -1613871652);
 j--;
 }
 while (j >= 0);
@@ -168,7 +168,7 @@ Zq1nV5 = (unsigned long long)(kuu9477);
 switch (PXIp801i)
 {
 case 0:
-LIR0a = y703H_6m_d(LIR0a, 1528314818, -1605374021, -535486874, D5u2zcRb);
+LIR0a = y703H_6m_d(LIR0a, (unsigned short)1528314818, -1605374021, -535486874, D5u2zcRb);
 break;
 }
 

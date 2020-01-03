@@ -28,7 +28,7 @@ int main(int argc, char** argv)
     long long    JmR4;
     JmR4    =    -1416100508;
  short int Z9luxCx8wT;
- Z9luxCx8wT = 1011144642;
+ Z9luxCx8wT = (short)1011144642;
     unsigned long    Eewo;
     Eewo    =    -334415558;
  double EHNNk9u;
@@ -50,7 +50,7 @@ int main(int argc, char** argv)
  short boJ7uMDI_;
  boJ7uMDI_ = (short)925228157;
 	char	A_H28414;
-	A_H28414	=	631842339;
+	A_H28414	=	(char)631842339;
 	long	Dy1G;
 	Dy1G	=	22778617;
 	long long	Ld_zk4189;
@@ -84,7 +84,7 @@ int main(int argc, char** argv)
 	char	ITDR;
 	ITDR	=	(char)-262434394;
     unsigned short    s4F9Nt6z7Q;
-    s4F9Nt6z7Q    =    -402582063;
+    s4F9Nt6z7Q    =    (unsigned short)-402582063;
 	long long	myIBRJ58;
 	myIBRJ58	=	-195287099;
     float    iXsnvZ;
@@ -172,7 +172,7 @@ int main(int argc, char** argv)
   float  G3_LI;
   G3_LI  =  1236117628;
  short int H39HflgEv;
- H39HflgEv = 1002270477;
+ H39HflgEv = (short)1002270477;
 	unsigned char	G77UT;
 	G77UT	=	(unsigned char)-1172708335;
 	int	qHt_6Ihf;

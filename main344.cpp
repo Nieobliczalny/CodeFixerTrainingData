@@ -29,7 +29,7 @@ int main()
 	unsigned char	Or5V	=	(unsigned char)-327192229;
  char vU23I = (char)689208483;
  int pPz7e2WW = 1260298297;
-  unsigned short int  D8DaS72  =  -1635429620;
+  unsigned short int  D8DaS72  =  (unsigned short)-1635429620;
   char  Y52g  =  -1229748742;
     long    G2j7IY2_    =    0;
  unsigned char ust_6 = -1813595027;
@@ -175,7 +175,7 @@ a3WNHjz5 = Y6_Be90P(-1362715409, 1951603838, (unsigned short)-1182807238, (unsig
 }
 }
 }
-cout << "GW12YCH" << Y6_Be90P(-151695764, -1723825605, -1272306631, Jz4r4h48) << r32TkF0(gvRV_hSPHm, D8DaS72) << endl;
+cout << "GW12YCH" << Y6_Be90P(-151695764, -1723825605, (unsigned short)-1272306631, Jz4r4h48) << r32TkF0(gvRV_hSPHm, D8DaS72) << endl;
 try
 {
 Y0X8f4SG_ = (int)floor(DGkL);

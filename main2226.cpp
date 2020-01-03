@@ -82,7 +82,7 @@ int main(int argc, char** argv)
   unsigned short  jt69M9p44Y;
   jt69M9p44Y  =  (unsigned short)-302597529;
  short B_C6a_a;
- B_C6a_a = 624127270;
+ B_C6a_a = (short)624127270;
  long jH8B2p6Q;
  jH8B2p6Q = 413027737;
  unsigned long q8_q;
@@ -104,7 +104,7 @@ int main(int argc, char** argv)
   char  hm_K55ce5w;
   hm_K55ce5w  =  (char)622226407;
   char  sE5Ft501;
-  sE5Ft501  =  1648438696;
+  sE5Ft501  =  (char)1648438696;
     unsigned int    J95BA9C_n;
     J95BA9C_n    =    -1807830821;
  int p7dP3E7;

@@ -28,7 +28,7 @@ int main(void) {
  long x_vhydq = -1746363459;
   int  fhq8H_No  =  -691194328;
  unsigned long x5Yd6B_96x = -1597891349;
-    short int    GDUf1    =    -1462469953;
+    short int    GDUf1    =    (short)-1462469953;
     unsigned long long    s9U7ihXy6    =    1553392334;
 	double	cHcG1R	=	-1123064916;
   unsigned short  P4212  =  0;
@@ -40,7 +40,7 @@ int main(void) {
 	int	ms_8_33b78	=	1162258607;
     unsigned int    fpI_SA5F    =    1796143229;
  double H82m = 1131484569;
- char G51TH9 = -1685884180;
+ char G51TH9 = (char)-1685884180;
   short int  CX3Y1li2  =  -1502304530;
     unsigned long long    PMghyN1_    =    1029163949;
 	long long	b60munv5sD	=	0;

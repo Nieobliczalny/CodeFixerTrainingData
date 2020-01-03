@@ -41,7 +41,7 @@ int main() {
 	int	Vz58	=	0;
  unsigned short int U9j2Jv254 = (unsigned short)-2060733556;
 	double	Nj9337S	=	723483409;
-	unsigned char	xTUDE	=	-1436363686;
+	unsigned char	xTUDE	=	(unsigned char)-1436363686;
  long t7p67lo0ky = -1527672557;
 	unsigned short int	UXvvn3	=	1751657017;
 
@@ -134,7 +134,7 @@ mKys5O7 = fMbDmo(1514533037, (unsigned char)-209160754, (unsigned char)108396872
 break;
 case 'd':
 case 'D':
-mKys5O7 = G5fuy3YHo(1651529255, 1915387565, -915539329, 1952342422, Vz58);
+mKys5O7 = G5fuy3YHo((unsigned short)1651529255, 1915387565, -915539329, 1952342422, Vz58);
 break;
 case 'e':
 case 'E':
@@ -166,7 +166,7 @@ Nj9337S = (int)abs(Vz58) + (1399383906);
 }
 else
 {
-xTUDE = fMbDmo(323732923, (unsigned char)2022993009, (unsigned char)2000059014, 1718274725, t7p67lo0ky);
+xTUDE = fMbDmo(323732923, (unsigned char)2022993009, (unsigned char)2000059014, (unsigned short)1718274725, t7p67lo0ky);
 }
 }
 }
@@ -340,7 +340,7 @@ U9j2Jv254 = G5fuy3YHo(-209491145, Nj9337S, 116260903, 1253612672, t7p67lo0ky);
 }
 else if (((t7p67lo0ky <= WH8glb) || (t7p67lo0ky >= mKys5O7)) || ((Nj9337S <= -1229951675) || (U9j2Jv254)))
 {
-t7p67lo0ky = G5fuy3YHo((unsigned short)2127262805, (short)-1685271251, 559516853, -52849141, mKys5O7);
+t7p67lo0ky = G5fuy3YHo((unsigned short)2127262805, (short)-1685271251, 559516853, (short)-52849141, mKys5O7);
 }
 else if (xTUDE)
 {
@@ -523,7 +523,7 @@ case 2:
 Nj9337S = (int)abs(t7p67lo0ky);
 break;
 default:
-t7p67lo0ky = G5fuy3YHo(-389354741, Vz58, mKys5O7, xTUDE, -398183472);
+t7p67lo0ky = G5fuy3YHo((unsigned short)-389354741, Vz58, mKys5O7, xTUDE, -398183472);
 break;
 }
 }
@@ -566,7 +566,7 @@ U9j2Jv254 /= t7p67lo0ky;
 }
 }
 }
-U9j2Jv254 = (xTUDE != Nj9337S) ? (unsigned short)1830186986 : G5fuy3YHo((unsigned short)2035191923, 748095937, UXvvn3, Nj9337S, 1064774761);
+U9j2Jv254 = (xTUDE != Nj9337S) ? (unsigned short)1830186986 : G5fuy3YHo((unsigned short)2035191923, (short)748095937, UXvvn3, Nj9337S, 1064774761);
 
 try
 {
@@ -717,7 +717,7 @@ case 'c':
 mKys5O7 = dI6O1_(935882776) % 665584380;
 break;
 case 'd':
-xTUDE = fMbDmo(xTUDE, (unsigned char)-768651179, (unsigned char)131141591, 1245179416, t7p67lo0ky);
+xTUDE = fMbDmo(xTUDE, (unsigned char)-768651179, (unsigned char)131141591, (unsigned short)1245179416, t7p67lo0ky);
 break;
 default:
 t7p67lo0ky = U9j2Jv254 >> 64994595;

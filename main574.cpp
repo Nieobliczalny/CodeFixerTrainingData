@@ -72,7 +72,7 @@ for (int j = 0; j < 6; ++j)
 {
 if (Vv9S__aqBx & iv6gQ)
 {
-pPAfXci92 = II4oj((unsigned char)1927618963, -1668658896, -1617952510);
+pPAfXci92 = II4oj((unsigned char)1927618963, -1668658896, (unsigned char)-1617952510);
 }
 else
 {
@@ -107,7 +107,7 @@ case 4:
 tUS7 = RuE1Tr(e8gP9zM, tUS7, -26006004, DbFV3F_M4Q, (char)2098884023) - o90G2;
 break;
 case 5:
-K67rcwYp9 = II4oj((unsigned char)1119020385, VsqOlt, -1997364762);
+K67rcwYp9 = II4oj((unsigned char)1119020385, VsqOlt, (unsigned char)-1997364762);
 break;
 case 6:
 v9iEh8y6a = GsR19ee5(-1307052249);
@@ -194,7 +194,7 @@ case 'a':
 VsqOlt = II4oj(BgBy, -928376276, f2B2568k) - qyz_7Ab;
 break;
 case 'b':
-v9iEh8y6a = (CJL9 >= -92815744) ? psgV7f2v : zMU_VGG6w((unsigned char)308316114, 544200613, 2128192706, 203942508);
+v9iEh8y6a = (CJL9 >= -92815744) ? psgV7f2v : zMU_VGG6w((unsigned char)308316114, 544200613, (short)2128192706, 203942508);
 break;
 case 'c':
 K5o7H = zMU_VGG6w((unsigned char)-315334597, 161726712, Vv9S__aqBx, Qynpg_M8t);

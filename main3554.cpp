@@ -22,7 +22,7 @@ char	V36zc(int	gisPX8_YF3)
 }
 
 unsigned short int	GdeX_()	{
-	return	997097430;
+	return	(unsigned short)997097430;
 }
 
 unsigned int  z9Kb84(long  LfFaIyMhd)  {
@@ -64,7 +64,7 @@ int main(int argc, char** argv) {
   unsigned short int  j2IXR1;
   j2IXR1  =  (unsigned short)547095815;
     unsigned short    o3_P522;
-    o3_P522    =    -190447170;
+    o3_P522    =    (unsigned short)-190447170;
   float  lPu9SDNoF7;
   lPu9SDNoF7  =  1042295199;
 	unsigned int	cjw51T;
@@ -86,7 +86,7 @@ int main(int argc, char** argv) {
   unsigned int  NcSXhQttR;
   NcSXhQttR  =  -464025963;
   unsigned char  H69mNmNDl;
-  H69mNmNDl  =  -1262334282;
+  H69mNmNDl  =  (unsigned char)-1262334282;
   unsigned long  tnsw;
   tnsw  =  -874903331;
 	short int	bGHK;
@@ -98,7 +98,7 @@ int main(int argc, char** argv) {
  short int b9cd48Bg;
  b9cd48Bg = (short)-164954200;
 	unsigned short int	a1TYec5z;
-	a1TYec5z	=	1825076406;
+	a1TYec5z	=	(unsigned short)1825076406;
  unsigned short int SJJ3L5BN02;
  SJJ3L5BN02 = (unsigned short)-1534915746;
  long i66_839k5;
@@ -120,7 +120,7 @@ int main(int argc, char** argv) {
     long long    gNM_Y8nES7;
     gNM_Y8nES7    =    -894663796;
   unsigned char  qM9E;
-  qM9E  =  -2113739366;
+  qM9E  =  (unsigned char)-2113739366;
   unsigned char  z6Fjq_PNQ;
   z6Fjq_PNQ  =  0;
     unsigned short    bR2v98;
@@ -132,7 +132,7 @@ int main(int argc, char** argv) {
 	long double	Vi_e_ttjL;
 	Vi_e_ttjL	=	-88392630;
   short int  K00q;
-  K00q  =  -935334809;
+  K00q  =  (short)-935334809;
 	double	YM5kq5;
 	YM5kq5	=	-1537792066;
     double    TWe_cL2hO;
@@ -156,7 +156,7 @@ int main(int argc, char** argv) {
  long double J5s966n7A;
  J5s966n7A = -845364683;
 	unsigned short	S72SOUT;
-	S72SOUT	=	-1154901617;
+	S72SOUT	=	(unsigned short)-1154901617;
   short  H6dcuAS6C;
   H6dcuAS6C  =  (short)39081315;
  unsigned short int GhJdh7QT;
@@ -166,7 +166,7 @@ int main(int argc, char** argv) {
  unsigned short int B2cYR6uj;
  B2cYR6uj = (unsigned short)-527408839;
 	unsigned char	eiteq6Qi;
-	eiteq6Qi	=	1885998081;
+	eiteq6Qi	=	(unsigned char)1885998081;
  unsigned short int pTF_m4mO4_;
  pTF_m4mO4_ = (unsigned short)-631061822;
   short  k2F5;

@@ -48,7 +48,7 @@ else
 {
 for (int k = 0; k < 2; k++)
 {
-h83yiC7n = k_HW((unsigned short)-1894796432, (char)1499979214, 1364425757);
+h83yiC7n = k_HW((unsigned short)-1894796432, (char)1499979214, (unsigned short)1364425757);
 }
 }
 }
@@ -82,7 +82,7 @@ else
 {
 if (b4Il9_ & 343636538)
 {
-std::cout << k_HW((unsigned short)401142218, -783962596, KQ02) << "Hq89n3_" << "g1fy5O" << C0ktPt9w3i << std::endl;
+std::cout << k_HW((unsigned short)401142218, (char)-783962596, KQ02) << "Hq89n3_" << "g1fy5O" << C0ktPt9w3i << std::endl;
 }
 else if (MihS19 & 1155313824)
 {
@@ -150,7 +150,7 @@ std::cout << "Y6i0VHf" << std::endl;
 }
 std::cout << "Sv3_F" << "nFyTJVv" << std::endl;
 ew7Okl = k_HW((unsigned short)189866402, (char)390287049, KQ02);
-std::cout << k_HW(ew7Okl, 182871148, KQ02) << h83yiC7n << "R9fB7" << C0ktPt9w3i << "fv2gafq_" << std::endl;
+std::cout << k_HW(ew7Okl, (char)182871148, KQ02) << h83yiC7n << "R9fB7" << C0ktPt9w3i << "fv2gafq_" << std::endl;
 if ((b4Il9_ / V0wiJE) >= 2135830588)
 {
 X156U = 1941096658 / a7HV9;
@@ -197,7 +197,7 @@ try
 int k = 10;
 do
 {
-L9k7x = k_HW((unsigned short)-603311839, (char)-1929455270, 257185945);
+L9k7x = k_HW((unsigned short)-603311839, (char)-1929455270, (unsigned short)257185945);
 k--;
 }
 while (k >= 0);
@@ -217,7 +217,7 @@ if (kyoq_974U != MihS19)
 {
 if (olJJ0I4 < V0wiJE)
 {
-G7IDQXG7F_ = H__vEt(A_6tmE, -772203999, -1937835358) + 1389834691;
+G7IDQXG7F_ = H__vEt(A_6tmE, (unsigned short)-772203999, -1937835358) + 1389834691;
 }
 else
 {
@@ -356,7 +356,7 @@ case 2:
 p9ngVi22++;
 break;
 case 3:
-ZorTGv86 = k_HW(ZorTGv86, -522600451, p9ngVi22);
+ZorTGv86 = k_HW(ZorTGv86, (char)-522600451, p9ngVi22);
 break;
 case 4:
 C0ktPt9w3i += A_6tmE;
@@ -382,7 +382,7 @@ case 0:
 hsG3Y5 = k_HW((unsigned short)663558575, vIEoG5wUk_, (unsigned short)475730895);
 break;
 case 1:
-V0wiJE = H__vEt(-804085200, 1741742277, d2jO);
+V0wiJE = H__vEt(-804085200, (unsigned short)1741742277, d2jO);
 break;
 case 2:
 D2_5kzb = jY0I1 % i9r22Toz0;
@@ -434,7 +434,7 @@ else if (TR6nM81Pf <= V0wiJE)
 {
 if (((G8mD81 < i9r22Toz0) || (UPQuL1 == -228692873)) || (C0ktPt9w3i < 1621554380))
 {
-UPQuL1 = (bRVTQcok < -275792155) ? k_HW(p4O85gUBb5, G7IDQXG7F_, E9xhWy) : k_HW((unsigned short)358930825, (char)-597513309, 942099165);
+UPQuL1 = (bRVTQcok < -275792155) ? k_HW(p4O85gUBb5, G7IDQXG7F_, E9xhWy) : k_HW((unsigned short)358930825, (char)-597513309, (unsigned short)942099165);
 }
 }
 else

@@ -126,7 +126,7 @@ case 1:
 adVKj = W3b8((unsigned short)-1899719964, OQBQSQ, (unsigned short)-1924882790);
 break;
 case 2:
-s614U0N8if = W3b8(-1343044580, W034RkP047, 174783001);
+s614U0N8if = W3b8((unsigned short)-1343044580, W034RkP047, 174783001);
 break;
 case 3:
 M5_4 = kh4TC3lH7_(M5_4);
@@ -284,7 +284,7 @@ bwF6Ti9G = M464YyL();
 }
 if (M5_4)
 {
-std::cout << W3b8((unsigned short)-713481664, -1637728409, (unsigned short)221159093) << "Dsa5TfNA" << W3b8(bwF6Ti9G, -1096743710, -1053768991) << OQBQSQ << V_2U() << std::endl;
+std::cout << W3b8((unsigned short)-713481664, -1637728409, (unsigned short)221159093) << "Dsa5TfNA" << W3b8(bwF6Ti9G, -1096743710, (unsigned short)-1053768991) << OQBQSQ << V_2U() << std::endl;
 }
 OQBQSQ = (char)(adVKj * OQBQSQ);
 std::cout << "Rq74xh" << adVKj << bv_U09IZ << std::endl;

@@ -15,7 +15,7 @@ int main(int argc, char** argv) {
  unsigned int yRx7Y = 447286630;
  unsigned long D7njPvBP = -629036018;
 	unsigned short int	M8h0a81pi6	=	(unsigned short)-269667767;
-  unsigned short  t6dNxR81ig  =  932396098;
+  unsigned short  t6dNxR81ig  =  (unsigned short)932396098;
     unsigned int    BDCg0O    =    -435190729;
   char  QfI0m_7ub  =  -1486801019;
  long UtxW8M = 339848124;
@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
   float  k6t39tC7m  =  -39737463;
 	unsigned short int	y9AAc	=	(unsigned short)-1188058748;
     long long    F6jCSi_g    =    640650142;
-	unsigned short int	TEy_8P_ZY9	=	687460865;
+	unsigned short int	TEy_8P_ZY9	=	(unsigned short)687460865;
   short  M_A7e3ma  =  0;
     short    V3i97_1    =    (short)-626957907;
   char  QH1tX1K  =  0;
@@ -45,7 +45,7 @@ int main(int argc, char** argv) {
     int    h2UQI7    =    1001887502;
 	double	kivTM0o	=	-373877627;
   unsigned char  O7erV2w  =  (unsigned char)-1878298223;
-    char    qrIN0C6    =    1717185517;
+    char    qrIN0C6    =    (char)1717185517;
  long QD01m_pMZ = 390127788;
  unsigned long WeP0nQ39 = -903929424;
 	char	X4OCd43y	=	-1154923960;
@@ -59,7 +59,7 @@ int main(int argc, char** argv) {
 	unsigned long	jozFnbP	=	1028925726;
 	long long	VQ_D1gN	=	-1755389629;
     double    c4SHE21Wr3    =    -1456425750;
-    unsigned char    gDkG1OSc    =    -1698396849;
+    unsigned char    gDkG1OSc    =    (unsigned char)-1698396849;
  unsigned short int cSSXQ5C86 = 1040662904;
   double  x93wKw5gb  =  934774977;
   unsigned short  L6Uv2B0v_  =  (unsigned short)-581926015;
@@ -69,7 +69,7 @@ int main(int argc, char** argv) {
 	unsigned long	D6GA1	=	458630216;
 	unsigned long	Y91_u6q9_o	=	-431079060;
 	unsigned short	BW_87BJw	=	-144000506;
-	char	fria0u	=	-1242174017;
+	char	fria0u	=	(char)-1242174017;
  unsigned int oULX9kG = -1922304528;
     char    N1UBzE    =    -1952555546;
  long long L83FM = 1465306905;
@@ -88,7 +88,7 @@ int main(int argc, char** argv) {
   int  uX_X8  =  -1034355513;
  char S_k4JGDN = (char)747374452;
 	float	ZN_iBuK	=	-1959388126;
-  char  f59f1Vp9U  =  672900301;
+  char  f59f1Vp9U  =  (char)672900301;
   long long  kJcl_YU  =  -1103792640;
  unsigned long long gvv418 = -369527656;
 	long long	JI55xk3xqe	=	-1516082299;

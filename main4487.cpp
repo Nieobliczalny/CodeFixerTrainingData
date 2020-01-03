@@ -392,7 +392,7 @@ case 3:
 fwmcaJ *= jm69_053L;
 break;
 case 4:
-C1Ebf3_ = DZDw_ah49(436335246, 1850921665);
+C1Ebf3_ = DZDw_ah49((unsigned short)436335246, 1850921665);
 break;
 case 5:
 n2RLlDr = DZDw_ah49((unsigned short)-1309040443, -1431478801);

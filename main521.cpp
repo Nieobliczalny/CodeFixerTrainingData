@@ -102,7 +102,7 @@ case 'c':
 fBNH = nEda25pyOU((unsigned char)-168145581);
 break;
 case 'd':
-fBNH = nEda25pyOU(-442763415);
+fBNH = nEda25pyOU((unsigned char)-442763415);
 break;
 case 'e':
 fBNH = nEda25pyOU(-2134938734);
@@ -319,7 +319,7 @@ case 2:
 fBNH = nEda25pyOU((unsigned char)1178189103);
 break;
 case 3:
-fBNH = nEda25pyOU(-87537381);
+fBNH = nEda25pyOU((unsigned char)-87537381);
 break;
 case 4:
 M8RW0 = tFB49G_Yo + Hxi_3C6u;

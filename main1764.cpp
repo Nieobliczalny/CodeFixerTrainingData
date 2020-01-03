@@ -22,7 +22,7 @@ unsigned char  q1s9xHYd(unsigned int  TWANHH,short  J4kDUy9Q,int  w4PgZfr2,unsig
 }
 
 short int R21ZIx(long long ijUea5l6EV,unsigned short Ib4e75c) {
- return 180727818;
+ return (short)180727818;
 }
 
 unsigned char	plR1aO(char	mYuR69,long long	X2FJ,short	P5qybW5719,unsigned short	YuJ4ddw,long	q15iH)
@@ -40,7 +40,7 @@ int main(void)
 	char	RD190BTVp,	A55E,	UwOG74Earp,	etF0i73,	emM2QV,	F4oP49s6v,	V771dL,	i2lYl,	hwlX,	aDaDRmW,	XJt0onnq1_,	kbmkace;
 	RD190BTVp	=	(char)244167676;
 	A55E	=	(char)1034339662;
-	UwOG74Earp	=	1043688159;
+	UwOG74Earp	=	(char)1043688159;
 	etF0i73	=	-1037006080;
 	emM2QV	=	-1691431171;
 	F4oP49s6v	=	-779698224;
@@ -120,7 +120,7 @@ i2lYl = RD190BTVp ^ 479971373;
 while (i >= 0);
 }
 
-std::cout << R7I8O7y(-389263447, (unsigned short)59337148, hwlX, (short)-661730644) << hwlX << V771dL << plR1aO(-1111234889, -873819468, -455887921, OrZ4qS2, -902537069) << std::endl;
+std::cout << R7I8O7y(-389263447, (unsigned short)59337148, hwlX, (short)-661730644) << hwlX << V771dL << plR1aO((char)-1111234889, -873819468, -455887921, OrZ4qS2, -902537069) << std::endl;
 
 if ((kbmkace & emM2QV) || ((XJt0onnq1_ > V771dL) || (aDaDRmW >= F4oP49s6v)))
 {
@@ -165,7 +165,7 @@ try
 {
 for (int j = 10; j >= 0; j--)
 {
-hwlX = R7I8O7y(-1465691704, 1839589788, 1506357042, V771dL);
+hwlX = R7I8O7y(-1465691704, (unsigned short)1839589788, 1506357042, V771dL);
 }
 }
 catch (int& errorCode)

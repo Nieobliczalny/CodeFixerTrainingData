@@ -48,7 +48,7 @@ int main() {
   short  rX_M2_2R,  tJ67Exm9,  p0J906b,  YpII,  UIFwmNW,  Ypg0K8,  l0Zq4I,  L3p0oHbR0,  qt17636L;
   rX_M2_2R  =  (short)-854609015;
   tJ67Exm9  =  (short)-945745940;
-  p0J906b  =  -637462165;
+  p0J906b  =  (short)-637462165;
   YpII  =  -780228147;
   UIFwmNW  =  -1150610978;
   Ypg0K8  =  -1196549030;
@@ -75,7 +75,7 @@ Ypg0K8 = qWY7bO((short)663239822, 658587524, 884221316, (unsigned short)-6305102
 }
 }
 
-cout << "v3mdfLTa3" << h7ox7c_1b(Ypg0K8, L3p0oHbR0, s7mC9h6_V, tJ67Exm9, 200912666) << "hF6_fMM_" << qWY7bO(Ypg0K8, L3p0oHbR0, -1637417451, -2046371845) << q2p82szdz(-1826442, L3p0oHbR0, s7mC9h6_V) << endl;
+cout << "v3mdfLTa3" << h7ox7c_1b(Ypg0K8, L3p0oHbR0, s7mC9h6_V, tJ67Exm9, (char)200912666) << "hF6_fMM_" << qWY7bO(Ypg0K8, L3p0oHbR0, -1637417451, -2046371845) << q2p82szdz(-1826442, L3p0oHbR0, s7mC9h6_V) << endl;
 
 ZUEa = (unsigned long)(lu2S4 * ZUEa);
 YpII = jOQdM & 189150066;
@@ -145,7 +145,7 @@ case 'a':
 qt17636L <<= 552649108;
 break;
 case 'b':
-UIFwmNW = XJNg(P4yU, (short)310306374, (unsigned char)-239627586, 1190489354, -395245371);
+UIFwmNW = XJNg(P4yU, (short)310306374, (unsigned char)-239627586, (unsigned char)1190489354, -395245371);
 break;
 case 'c':
 jOQdM = q2p82szdz(p0J906b, 1899234825, Ypg0K8);
@@ -166,7 +166,7 @@ case 'h':
 L3p0oHbR0 = (int)abs(p0J906b);
 break;
 case 'i':
-YpII = XJNg(YpII, P4yU, -1439026496, s7mC9h6_V, l0Zq4I);
+YpII = XJNg(YpII, P4yU, (unsigned char)-1439026496, s7mC9h6_V, l0Zq4I);
 break;
 case 'j':
 p0J906b = epZ99BTXb / Ypg0K8;
@@ -187,7 +187,7 @@ for (int j = 9; j >= 0; --j)
 {
 try
 {
-qt17636L = h7ox7c_1b((short)288758946, 1978438364, Ypg0K8, jOQdM, rX_M2_2R);
+qt17636L = h7ox7c_1b((short)288758946, (short)1978438364, Ypg0K8, jOQdM, rX_M2_2R);
 }
 catch (int& errorCode)
 {
@@ -287,7 +287,7 @@ case 0:
 tJ67Exm9 = tJ67Exm9 | 475395253;
 break;
 case 1:
-l0Zq4I = XJNg(-327585619, (short)1414655920, (unsigned char)-1550410093, -1042379552, jOQdM);
+l0Zq4I = XJNg(-327585619, (short)1414655920, (unsigned char)-1550410093, (unsigned char)-1042379552, jOQdM);
 break;
 case 2:
 tJ67Exm9 = qWY7bO(-773441875, epZ99BTXb, -1299951822, YpII);

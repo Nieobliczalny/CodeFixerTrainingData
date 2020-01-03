@@ -76,7 +76,7 @@ sXjJf &= h8fqsv;
 }
 else
 {
-yZMmiF = NGXt((char)1805996308, Vc_5, 1265717556, -934170281);
+yZMmiF = NGXt((char)1805996308, Vc_5, 1265717556, (unsigned short)-934170281);
 }
 }
 catch (int& errorCode)
@@ -121,7 +121,7 @@ case 1:
 OYTJXD = wK99O_i * h8fqsv;
 break;
 case 2:
-yZMmiF = NGXt(-907907266, yZMmiF, 1699877118, 2084762879);
+yZMmiF = NGXt((char)-907907266, yZMmiF, 1699877118, 2084762879);
 break;
 case 3:
 owSJ5hw = VuWP6Ya02n & 2048089273;
@@ -200,7 +200,7 @@ Vc_5 = OM96N03jA(Vc_5, 11379830, mm7w3, yIQl1_98);
 break;
 case 'i':
 case 'I':
-I6cUeD4_h = OM96N03jA(-678662961, z2UthJ3O, (unsigned short)2134676424, 1415340384);
+I6cUeD4_h = OM96N03jA(-678662961, z2UthJ3O, (unsigned short)2134676424, (short)1415340384);
 break;
 default:
 Vc_5 = OM96N03jA(Vc_5, u_M3V6f, (unsigned short)-296272978, dvz33r1Rc);
@@ -442,7 +442,7 @@ else
 {
 h8fqsv = OM96N03jA(466879059, z2UthJ3O, wK99O_i, (short)-679230391);
 }
-yZMmiF = NGXt(1166390353, O68X5N, -221975729, 370683079);
+yZMmiF = NGXt((char)1166390353, O68X5N, -221975729, 370683079);
 
 switch (Vc_5)
 {
@@ -478,7 +478,7 @@ else
 {
 std::cout << OM96N03jA(-1807448912, wK99O_i, YRQE, VuWP6Ya02n) << NGXt(z2UthJ3O, wK99O_i, 1109957140, VuWP6Ya02n) << "MTR8Tl23" << OM96N03jA(1383306059, wK99O_i, YRQE, (short)2030794161) << A6id6SF58 << std::endl;
 }
-Tsl9b = O68X5N / NGXt((char)-1710856397, -1062183491, -521819266, -699646577);
+Tsl9b = O68X5N / NGXt((char)-1710856397, -1062183491, -521819266, (unsigned short)-699646577);
 
 {
 int i = 0;
@@ -531,7 +531,7 @@ tT9xyon02j = bCDX5pH63((short)-204282151, tT9xyon02j);
 }
 else if (y4l4PjI9G < wK99O_i)
 {
-wK99O_i = NGXt(-818741281, 362637999, -1247064857, mm7w3);
+wK99O_i = NGXt((char)-818741281, 362637999, -1247064857, mm7w3);
 }
 else
 {

@@ -91,7 +91,7 @@ while (j < 2)
 switch (D9QEV00)
 {
 case 0:
-NuZOAepk0t = NG0BpA((short)627700046, (unsigned char)1022151019, -200949677, -1862442715, 985528821);
+NuZOAepk0t = NG0BpA((short)627700046, (unsigned char)1022151019, (unsigned char)-200949677, -1862442715, 985528821);
 break;
 case 1:
 wLR6t0 = NG0BpA(636725752, -1353198784, 106074277, 927231622, -1101309881);
@@ -103,7 +103,7 @@ case 3:
 w42d = NG0BpA(1180539059, JiF2Os, Qc8t, 397736543, -1655866165);
 break;
 case 4:
-VfN38ChX_1 = NG0BpA((short)1952141093, (unsigned char)-1002083147, 511079769, zSjA6vN7E, At4Pd);
+VfN38ChX_1 = NG0BpA((short)1952141093, (unsigned char)-1002083147, (unsigned char)511079769, zSjA6vN7E, At4Pd);
 break;
 case 5:
 zSjA6vN7E <<= JiF2Os;
@@ -124,7 +124,7 @@ break;
 }
 }
 }
-tR33 = NG0BpA(p_ds, (unsigned char)1031696376, (unsigned char)264769111, -1247143260, 1987383130);
+tR33 = NG0BpA(p_ds, (unsigned char)1031696376, (unsigned char)264769111, -1247143260, (short)1987383130);
 
 switch (Qc8t)
 {

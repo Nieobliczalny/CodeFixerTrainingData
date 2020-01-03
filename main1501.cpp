@@ -135,7 +135,7 @@ case 6:
 lIK_ = (int)abs(Yn__70ME_M) + (815060359);
 break;
 case 7:
-X0JBo = dD_i_31NWw((short)-1350949253, (unsigned short)-1107990048, 1296847769, 1874798854);
+X0JBo = dD_i_31NWw((short)-1350949253, (unsigned short)-1107990048, (short)1296847769, 1874798854);
 break;
 default:
 GBv8dJpIK = (int)abs(W06e);
@@ -225,7 +225,7 @@ case 'a':
 pTZjhPtFpA = (int)floor(lUuE8nFj2);
 break;
 default:
-lIK_ = dD_i_31NWw((short)1884176208, (unsigned short)143904324, 1490833252, 704938883);
+lIK_ = dD_i_31NWw((short)1884176208, (unsigned short)143904324, (short)1490833252, 704938883);
 break;
 }
 
@@ -336,7 +336,7 @@ else if (M9KwOZ0C6D == EPML)
 {
 for (int k = 4; k >= 0; --k)
 {
-u0_mPp = dD_i_31NWw(u0_mPp, Gw7e5c7, -1701037986, -1902371473);
+u0_mPp = dD_i_31NWw(u0_mPp, Gw7e5c7, (short)-1701037986, -1902371473);
 }
 }
 else if (bx510iDS5 >= DHjN)

@@ -34,7 +34,7 @@ int main(int argc, char** argv) {
     int    cpvyib4c8;
     cpvyib4c8    =    988648579;
  unsigned short B76h;
- B76h = -323783495;
+ B76h = (unsigned short)-323783495;
   unsigned char  P78jV;
   P78jV  =  1163489444;
   short int  HE38y;
@@ -54,7 +54,7 @@ int main(int argc, char** argv) {
   unsigned char  Wd5Z;
   Wd5Z  =  0;
 	char	LF8OVKjFl;
-	LF8OVKjFl	=	-440220696;
+	LF8OVKjFl	=	(char)-440220696;
  unsigned short fu_s8W;
  fu_s8W = 1477152642;
   unsigned short  My_V48m3qB;
@@ -132,7 +132,7 @@ int main(int argc, char** argv) {
     long long    iX6C;
     iX6C    =    1773097122;
 	unsigned char	IVz4J4;
-	IVz4J4	=	1414453610;
+	IVz4J4	=	(unsigned char)1414453610;
   char  CSNFrp1;
   CSNFrp1  =  (char)-1542829823;
 	char	l0844;
@@ -142,7 +142,7 @@ int main(int argc, char** argv) {
   unsigned char  cFEIf81o;
   cFEIf81o  =  (unsigned char)-1345195408;
 	char	vF0yis317v;
-	vF0yis317v	=	-162680475;
+	vF0yis317v	=	(char)-162680475;
 
 for (int i = 0; i < 1; i++)
 {

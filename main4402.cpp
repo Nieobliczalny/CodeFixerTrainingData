@@ -39,7 +39,7 @@ int main(int argc, char** argv) {
   char  Erp0K;
   Erp0K  =  (char)-1569079720;
  char j5Z4RBeea;
- j5Z4RBeea = 1121949592;
+ j5Z4RBeea = (char)1121949592;
 	short	om4bGT4MM7;
 	om4bGT4MM7	=	(short)713457391;
  unsigned long epVv8z6h;
@@ -49,7 +49,7 @@ int main(int argc, char** argv) {
 	unsigned short int	nZ0_03;
 	nZ0_03	=	(unsigned short)1768191735;
 	char	IBiq1MGII9;
-	IBiq1MGII9	=	-1144744058;
+	IBiq1MGII9	=	(char)-1144744058;
  short E1_okjXf;
  E1_okjXf = (short)-504550427;
 	char	s8R806;
@@ -65,7 +65,7 @@ int main(int argc, char** argv) {
 	long	bOiq;
 	bOiq	=	1039132496;
  unsigned short HUp3sHsa;
- HUp3sHsa = -1209638830;
+ HUp3sHsa = (unsigned short)-1209638830;
     short    gA_aV;
     gA_aV    =    (short)1082786706;
     unsigned long    db5NDstg;
@@ -113,7 +113,7 @@ int main(int argc, char** argv) {
 	char	aGvfrL;
 	aGvfrL	=	(char)-1909959775;
     unsigned char    n_hQv;
-    n_hQv    =    1308298421;
+    n_hQv    =    (unsigned char)1308298421;
   unsigned short int  J1CGD1;
   J1CGD1  =  (unsigned short)-1832401304;
 	long double	kYvsc6;
@@ -141,7 +141,7 @@ int main(int argc, char** argv) {
 	unsigned short int	M_y_map;
 	M_y_map	=	(unsigned short)-39439216;
     char    XlvbVl;
-    XlvbVl    =    -1419032925;
+    XlvbVl    =    (char)-1419032925;
     long long    V6_qr05KlS;
     V6_qr05KlS    =    -127505795;
 	long long	NBQk;
@@ -163,7 +163,7 @@ int main(int argc, char** argv) {
 	unsigned short	Xqckf8TxSg;
 	Xqckf8TxSg	=	(unsigned short)-1175639970;
  unsigned short zc0P5M1yzk;
- zc0P5M1yzk = 1863011240;
+ zc0P5M1yzk = (unsigned short)1863011240;
     char    k0Rr6zq_6;
     k0Rr6zq_6    =    (char)-19296061;
 	unsigned char	gVw43t240;
@@ -181,7 +181,7 @@ int main(int argc, char** argv) {
     char    k65Dc71Bg;
     k65Dc71Bg    =    (char)880097191;
  char rYY2;
- rYY2 = -1324643414;
+ rYY2 = (char)-1324643414;
  long long NRUvJ_W;
  NRUvJ_W = -1097719823;
  int a_kBBvI;
@@ -211,7 +211,7 @@ int main(int argc, char** argv) {
   short int  K1_No6H;
   K1_No6H  =  (short)1417952912;
     unsigned short int    q1u747mHc2;
-    q1u747mHc2    =    -934231549;
+    q1u747mHc2    =    (unsigned short)-934231549;
   long double  Y6_OeQMnE;
   Y6_OeQMnE  =  1860234215;
 

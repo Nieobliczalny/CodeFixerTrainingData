@@ -68,7 +68,7 @@ int main(int argc, char** argv) {
  long dTC4Y;
  dTC4Y = 1475586319;
   char  SRZF52MNR;
-  SRZF52MNR  =  892853583;
+  SRZF52MNR  =  (char)892853583;
   unsigned short int  oUg1;
   oUg1  =  -1626260649;
     long double    E2F_v7Ak;
@@ -86,7 +86,7 @@ int main(int argc, char** argv) {
     long long    n5674so7;
     n5674so7    =    -1266594210;
 	unsigned short	obzC;
-	obzC	=	420661532;
+	obzC	=	(unsigned short)420661532;
  long e2Z12HWq1_;
  e2Z12HWq1_ = 292433452;
   double  y76dVP;
@@ -98,7 +98,7 @@ int main(int argc, char** argv) {
 	int	x_trvx6;
 	x_trvx6	=	1536496978;
  unsigned short int PZ0Lo;
- PZ0Lo = 1508056909;
+ PZ0Lo = (unsigned short)1508056909;
 	float	D25B;
 	D25B	=	44947208;
 	long long	iCo5d46a6;
@@ -118,7 +118,7 @@ int main(int argc, char** argv) {
     unsigned long    QiOU3MJZP;
     QiOU3MJZP    =    -513346986;
  short X0_o4M;
- X0_o4M = 206670048;
+ X0_o4M = (short)206670048;
 	float	wmx_iZp;
 	wmx_iZp	=	1292232874;
     unsigned int    hW1SkLOD;

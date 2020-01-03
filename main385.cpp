@@ -100,7 +100,7 @@ tjs01_4n = E_Slg3P0h >> 1968182429;
 }
 if ((RsCUt5G / OV2gp5X(P9xJQ, (unsigned short)-649554242, E_Slg3P0h)) >= 1677306825)
 {
-tjs01_4n = RsCUt5G / OV2gp5X((short)1104092769, -1026160101, E_Slg3P0h);
+tjs01_4n = RsCUt5G / OV2gp5X((short)1104092769, (unsigned short)-1026160101, E_Slg3P0h);
 }
 
 {

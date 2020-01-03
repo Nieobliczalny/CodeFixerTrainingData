@@ -42,7 +42,7 @@ k4hG2 = GeZ7o7U63V + 1969942998;
 
 Mqlgu_wd = X7Dny_(-345881672, (char)-1395014822, Q3BtY6, vYmKw5);
 
-k1s9q5c_ew = X7Dny_(-1075138604, (char)-709860682, -1105615255, -1450667533);
+k1s9q5c_ew = X7Dny_(-1075138604, (char)-709860682, (short)-1105615255, -1450667533);
 try
 {
 Q3BtY6 = X7Dny_(Q3BtY6, c86v1kQ, Mqlgu_wd, 1756352394);
@@ -78,7 +78,7 @@ default:
 c86v1kQ = zWx37362kf(-778624909, (unsigned short)1918624936, wloqKCBz, Mqlgu_wd, CQ_6);
 break;
 }
-Q3BtY6 = X7Dny_(k4hG2, (char)-1881405531, -1714544584, 1844703878) / wloqKCBz;
+Q3BtY6 = X7Dny_(k4hG2, (char)-1881405531, (short)-1714544584, 1844703878) / wloqKCBz;
 switch (k1s9q5c_ew)
 {
 case 'a':
@@ -100,7 +100,7 @@ case 'f':
 Q3BtY6 = X7Dny_(Q3BtY6, CQ_6, (short)-202447775, -639269381);
 break;
 case 'g':
-iTi3Y94 = (nnG6fAF & Hpf0dh8) ? iTi3Y94 : X7Dny_(Q3BtY6, (char)-850428791, 1769155092, -1346560039);
+iTi3Y94 = (nnG6fAF & Hpf0dh8) ? iTi3Y94 : X7Dny_(Q3BtY6, (char)-850428791, (short)1769155092, -1346560039);
 break;
 case 'h':
 MsLE |= 1147880163;
@@ -176,7 +176,7 @@ break;
 }
 try
 {
-Xzm1m9 = zWx37362kf(Xzm1m9, -608748358, 1166393631, 1262478775, Mqlgu_wd);
+Xzm1m9 = zWx37362kf(Xzm1m9, (unsigned short)-608748358, 1166393631, 1262478775, Mqlgu_wd);
 }
 catch (int& errorCode)
 {
@@ -207,7 +207,7 @@ std::cout << k4hG2 << Hpf0dh8 << jZ0sY(Xzm1m9, k1s9q5c_ew, wloqKCBz, nnG6fAF, (s
 Q3BtY6 = (int)abs(MsLE);
 try
 {
-wloqKCBz = zWx37362kf(MsLE, -798019354, GeZ7o7U63V, 108051522, -1696817636);
+wloqKCBz = zWx37362kf(MsLE, (unsigned short)-798019354, GeZ7o7U63V, 108051522, -1696817636);
 }
 catch (int& errorCode)
 {
@@ -232,7 +232,7 @@ k1s9q5c_ew = jZ0sY(MsLE, -10518339, -1974899040, -1221597607, (short)-1556069488
 }
 else if (k1s9q5c_ew != 279845027)
 {
-Mqlgu_wd = jZ0sY(Mqlgu_wd, 2123524578, wloqKCBz, k1s9q5c_ew, -2058533053);
+Mqlgu_wd = jZ0sY(Mqlgu_wd, 2123524578, wloqKCBz, k1s9q5c_ew, (short)-2058533053);
 }
 else if ((Hpf0dh8 == -1969901799) && (c86v1kQ & QXl5b_11y))
 {
@@ -332,7 +332,7 @@ vYmKw5 = (long long)(CQ_6 + (QXl5b_11y));
 }
 }
 
-std::cout << "f_y2Z9" << jZ0sY(1632416613, Q3BtY6, GeZ7o7U63V, Xzm1m9, CQ_6) << X7Dny_(-1191587085, (char)1725746021, (short)-668429227, Xzm1m9) << X7Dny_(vYmKw5, Q3BtY6, 1516144457, 1968226910) << std::endl;
+std::cout << "f_y2Z9" << jZ0sY(1632416613, Q3BtY6, GeZ7o7U63V, Xzm1m9, CQ_6) << X7Dny_(-1191587085, (char)1725746021, (short)-668429227, Xzm1m9) << X7Dny_(vYmKw5, Q3BtY6, (short)1516144457, 1968226910) << std::endl;
 
 return 0;
 }

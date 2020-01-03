@@ -52,7 +52,7 @@ int main(void)
  short int A8cn;
  A8cn = (short)324863112;
   unsigned short  Ml4e;
-  Ml4e  =  1935274893;
+  Ml4e  =  (unsigned short)1935274893;
   unsigned short  c5h_5W;
   c5h_5W  =  0;
  unsigned short TFGLj5;
@@ -106,7 +106,7 @@ int main(void)
   unsigned short  l4v6IB;
   l4v6IB  =  (unsigned short)-1079354497;
     short int    T6Iq8;
-    T6Iq8    =    545563655;
+    T6Iq8    =    (short)545563655;
  long double aRH5;
  aRH5 = -939805749;
  long long GiTl9;
@@ -154,7 +154,7 @@ otMnF3_K = GiTl9 / T_0mEi5v45;
 int i = 0;
 while (i < 6)
 {
-std::cout << tCpo(-1878376241, (char)-2024180748, aRH5, (short)1218182870, -1717739949) << "n248SF0" << SwCf3TdLZ(-1667154037, -1575217588) << "GBZjsQHrt0" << std::endl;
+std::cout << tCpo(-1878376241, (char)-2024180748, aRH5, (short)1218182870, -1717739949) << "n248SF0" << SwCf3TdLZ(-1667154037, (short)-1575217588) << "GBZjsQHrt0" << std::endl;
 i++;
 }
 }

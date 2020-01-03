@@ -30,7 +30,7 @@ int main(int argc, char** argv)
 {
   short int  a8X_s4bL9Z,  dR_sJZ_y1o,  RmUZt7,  Z500eE,  I905II8H,  dOrFaS,  MVT3CEk,  T_Y49,  xhlT00SxQ,  PWAWl7HW,  uSW_7R7_,  NdULrF,  bg_Ehc9,  i5Q0L,  pplsI96L,  GBfde,  i434LnlOYD,  td7t_00O,  I3Jx2b8A,  Bvt_qihkU,  gkGm,  Y7ZI,  lO_21Fe_15,  G4_L,  yz50FPi99R,  CO1k_yaT,  XO0nATj0q,  hBV9o_24,  CrwLCu,  xUwvGKNx,  u2o6U2lf,  zIrM,  t8dko4,  x24h_EYU,  E_64ca,  x_9i2_XE,  cT3EXC4WJm,  LcZi,  DF2CsL1X,  D3y9ZL,  T1E7fxx,  k6NqP,  pvHqb0W09,  NzRo97Mnm9,  j3wz,  JXP0,  Bdgqm,  X_k5,  Q_39,  Apq71u4,  UV9Nrxe_,  NVfX5NA,  HF_v,  SmysG6fw,  o2s06k749,  VznY65,  j7kLx5mb,  KHE7,  cU94HuEQz,  f8Cy,  CTU2T701n,  sosx1,  IIzXxy3,  pEUg,  DAcPQ,  gis02jyD,  TKX341juV,  ZB8IFWcXOr,  WR8Li,  w0BII_8,  NJ9qwH,  w4cM0OW,  P_5uH7oWa,  X21Mc7Z0i,  dXiy3q5,  PWR4,  v6gFur8Hp,  I2R0_,  v8OTgWnq,  kS3Kwgx_m9,  U_U5,  si_l,  Qe9hLNR95,  LLcOpyD,  jOC35Ty4,  jHc1T,  wR2R_,  yf7N,  Llx2EAMc5S,  IC5egOj_,  d70_ORa,  YV7y,  uLIhi5HB,  Coi12sH4;
   a8X_s4bL9Z  =  (short)25901944;
-  dR_sJZ_y1o  =  838401119;
+  dR_sJZ_y1o  =  (short)838401119;
   RmUZt7  =  -1815666963;
   Z500eE  =  -249836540;
   I905II8H  =  (short)-1948370997;
@@ -40,7 +40,7 @@ int main(int argc, char** argv)
   xhlT00SxQ  =  -1976334500;
   PWAWl7HW  =  2101744180;
   uSW_7R7_  =  (short)-1194331479;
-  NdULrF  =  2079953489;
+  NdULrF  =  (short)2079953489;
   bg_Ehc9  =  -863645129;
   i5Q0L  =  -1601152395;
   pplsI96L  =  (short)903266885;
@@ -50,7 +50,7 @@ int main(int argc, char** argv)
   I3Jx2b8A  =  2106133708;
   Bvt_qihkU  =  -87674222;
   gkGm  =  (short)-1078036131;
-  Y7ZI  =  -1913273035;
+  Y7ZI  =  (short)-1913273035;
   lO_21Fe_15  =  1208057005;
   G4_L  =  -963522416;
   yz50FPi99R  =  (short)-1960873530;
@@ -60,7 +60,7 @@ int main(int argc, char** argv)
   CrwLCu  =  1651375054;
   xUwvGKNx  =  2106077941;
   u2o6U2lf  =  (short)546284021;
-  zIrM  =  -325467499;
+  zIrM  =  (short)-325467499;
   t8dko4  =  1777335624;
   x24h_EYU  =  -1010699175;
   E_64ca  =  (short)1209253170;
@@ -70,7 +70,7 @@ int main(int argc, char** argv)
   DF2CsL1X  =  -1334048566;
   D3y9ZL  =  -236429822;
   T1E7fxx  =  (short)233981562;
-  k6NqP  =  -1251726608;
+  k6NqP  =  (short)-1251726608;
   pvHqb0W09  =  711655732;
   NzRo97Mnm9  =  941032800;
   j3wz  =  (short)-1682081650;
@@ -80,7 +80,7 @@ int main(int argc, char** argv)
   Q_39  =  -165510420;
   Apq71u4  =  1890519450;
   UV9Nrxe_  =  (short)1659745076;
-  NVfX5NA  =  702014411;
+  NVfX5NA  =  (short)702014411;
   HF_v  =  371475891;
   SmysG6fw  =  1731902564;
   o2s06k749  =  (short)-1008204962;
@@ -90,7 +90,7 @@ int main(int argc, char** argv)
   cU94HuEQz  =  577847741;
   f8Cy  =  -2051566798;
   CTU2T701n  =  (short)819537615;
-  sosx1  =  21553251;
+  sosx1  =  (short)21553251;
   IIzXxy3  =  -1142330663;
   pEUg  =  418556567;
   DAcPQ  =  (short)-1548067020;
@@ -100,7 +100,7 @@ int main(int argc, char** argv)
   WR8Li  =  -323067121;
   w0BII_8  =  1354235428;
   NJ9qwH  =  (short)-1989466944;
-  w4cM0OW  =  1521859308;
+  w4cM0OW  =  (short)1521859308;
   P_5uH7oWa  =  49124288;
   X21Mc7Z0i  =  152537370;
   dXiy3q5  =  (short)131118316;
@@ -110,7 +110,7 @@ int main(int argc, char** argv)
   v8OTgWnq  =  1933455704;
   kS3Kwgx_m9  =  898480852;
   U_U5  =  (short)868535930;
-  si_l  =  -291201473;
+  si_l  =  (short)-291201473;
   Qe9hLNR95  =  -274915369;
   LLcOpyD  =  -2036868358;
   jOC35Ty4  =  (short)265177169;
@@ -120,7 +120,7 @@ int main(int argc, char** argv)
   Llx2EAMc5S  =  1778411549;
   IC5egOj_  =  961641928;
   d70_ORa  =  (short)-531670170;
-  YV7y  =  -1095617217;
+  YV7y  =  (short)-1095617217;
   uLIhi5HB  =  -208834865;
   Coi12sH4  =  -1754863285;
   char  gZdmL9;
@@ -165,7 +165,7 @@ Qe9hLNR95 = (int)abs(j7kLx5mb);
 }
 else
 {
-Apq71u4 = vzFhHkibO((short)-712180436, 93155865);
+Apq71u4 = vzFhHkibO((short)-712180436, (unsigned short)93155865);
 }
 }
 else if ((MVT3CEk & 368912304) || ((I905II8H <= i434LnlOYD) || (WR8Li == i434LnlOYD)))
@@ -256,7 +256,7 @@ uLIhi5HB = LLcOpyD / gZdmL9;
 
 try
 {
-cout << xwP243gjW((unsigned char)714491326, GBfde) << pplsI96L << gis02jyD << CTU2T701n << RkvU83aq(2069862309, GBfde, cT3EXC4WJm, 240549974) << endl;
+cout << xwP243gjW((unsigned char)714491326, GBfde) << pplsI96L << gis02jyD << CTU2T701n << RkvU83aq((unsigned char)2069862309, GBfde, cT3EXC4WJm, 240549974) << endl;
 }
 catch (int& errorCode)
 {

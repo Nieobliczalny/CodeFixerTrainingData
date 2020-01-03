@@ -31,7 +31,7 @@ unsigned long    P0V7FP5T(unsigned long    C6_K,int    WKz_S_7N,char    vnjHZb2Z
 
 int main()
 {
-  char  sbIV182i  =  (char)-1987117872,  vyuC9S99_  =  (char)858950918,  k1mxY6  =  1116573188,  hc9y  =  243344083,  m6MKJm73k  =  2046205519,  wNMnAEBm  =  596910591;
+  char  sbIV182i  =  (char)-1987117872,  vyuC9S99_  =  (char)858950918,  k1mxY6  =  (char)1116573188,  hc9y  =  243344083,  m6MKJm73k  =  2046205519,  wNMnAEBm  =  596910591;
  unsigned short int f82KSY = 0, r4Aw = 0, F8fn3Xu = 0;
 
 cout << MNET6W(sbIV182i) << Jk8Ds_W2N(1947003503, 1579009340, -99916469, hc9y, 410909668) << P0V7FP5T(sbIV182i, vyuC9S99_, k1mxY6, hc9y) << "GE4OcBT" << endl;
@@ -117,7 +117,7 @@ k1mxY6 *= F8fn3Xu;
 }
 else if (hc9y != H1_Dg82)
 {
-hc9y = P0V7FP5T(1700592875, k1mxY6, (char)6970895, -621013219);
+hc9y = P0V7FP5T(1700592875, k1mxY6, (char)6970895, (unsigned short)-621013219);
 }
 else if (((f82KSY) || (hc9y < k1mxY6)) && (f82KSY <= sbIV182i))
 {
@@ -164,7 +164,7 @@ case 'f':
 m6MKJm73k %= 1791181014;
 break;
 default:
-F8fn3Xu = Jk8Ds_W2N(-1144290249, (unsigned short)1620098322, 1834427277, vyuC9S99_, -680218249);
+F8fn3Xu = Jk8Ds_W2N(-1144290249, (unsigned short)1620098322, (short)1834427277, vyuC9S99_, -680218249);
 break;
 }
 {
@@ -275,7 +275,7 @@ try
 switch (m6MKJm73k)
 {
 case 0:
-r4Aw = Jk8Ds_W2N(k1mxY6, -1521704999, -165424895, -1059283122, m6MKJm73k);
+r4Aw = Jk8Ds_W2N(k1mxY6, (unsigned short)-1521704999, -165424895, -1059283122, m6MKJm73k);
 break;
 case 1:
 sbIV182i = P0V7FP5T(616172175, f82KSY, 491863157, 258943437);

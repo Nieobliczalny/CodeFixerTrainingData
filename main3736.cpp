@@ -21,7 +21,7 @@ int main()
   unsigned int  JO1ht0Y6_2  =  0;
  unsigned long long aJhc3v44N = 515135147;
  float H57NG6D = -1731908572;
-    char    z83OBh    =    954426775;
+    char    z83OBh    =    (char)954426775;
   long double  ul_W_D  =  1668947372;
   short int  Hpm0r  =  (short)-2070413481;
 	unsigned int	fXO_Xh96	=	1193120305;
@@ -31,7 +31,7 @@ int main()
  unsigned short int jqDj8_H = -15502206;
  float MFYp7Y = 912326333;
 	unsigned short int	j30HBM6V	=	1073922605;
- unsigned short int xTwCqD3k = 963600847;
+ unsigned short int xTwCqD3k = (unsigned short)963600847;
   float  LmG3_  =  -2075794076;
 	unsigned char	Kouwa	=	(unsigned char)-929669774;
  long long v4m3LfK2W = -2093471492;
@@ -41,7 +41,7 @@ int main()
     unsigned long    hks00    =    334980905;
  long double w09uNsP7C = 911683391;
     unsigned short    TvN_    =    (unsigned short)-1097906592;
-	unsigned char	ZblpKrX	=	1866583823;
+	unsigned char	ZblpKrX	=	(unsigned char)1866583823;
  long FfQF1 = -1829855802;
     long    A_4R_    =    -394410013;
 	unsigned short	U97z7VhsEa	=	(unsigned short)-264832499;
@@ -62,7 +62,7 @@ int main()
 	int	ETt3OF	=	0;
  unsigned long long Ho1t_o = 69990006;
   long double  NBGFM0N_0  =  -1078741786;
-	unsigned short int	eEkm1B5_	=	358702967;
+	unsigned short int	eEkm1B5_	=	(unsigned short)358702967;
     long double    H2LkiqqT4P    =    1373082898;
     short int    ImxoiB    =    1690524633;
  unsigned short on7Yk8dX89 = 485540064;
@@ -128,7 +128,7 @@ else
 {
 if (((lp85 >= -743127607) && (fO733la)) || (TvN_ <= aJhc3v44N))
 {
-std::cout << gB104NmFxV << ye28hb(-856763072, MFYp7Y, -717908535, Fd7S4_N, -1608237514) << o_FbGXC << std::endl;
+std::cout << gB104NmFxV << ye28hb((short)-856763072, MFYp7Y, -717908535, Fd7S4_N, -1608237514) << o_FbGXC << std::endl;
 }
 else if ((C5O0LyVLT9 <= -292797655) || (B0x7eVK7PR > -1421105544))
 {

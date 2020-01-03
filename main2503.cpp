@@ -51,7 +51,7 @@ int main()
 	unsigned int	AMp202VV1;
 	AMp202VV1	=	-1801868676;
  short int gKJW;
- gKJW = -1157120206;
+ gKJW = (short)-1157120206;
  short int habdxul;
  habdxul = (short)-1738089495;
 	long long	l2EyAYW7ug;
@@ -113,7 +113,7 @@ int main()
  long long Ff95;
  Ff95 = -1934900541;
     unsigned char    cZ5Q;
-    cZ5Q    =    291393378;
+    cZ5Q    =    (unsigned char)291393378;
   short  Fp1Ebm7Y_;
   Fp1Ebm7Y_  =  -1442928017;
 	char	pAxY;
@@ -123,7 +123,7 @@ int main()
   unsigned long long  DE72_tW;
   DE72_tW  =  1450318719;
     char    rUmu;
-    rUmu    =    -446148719;
+    rUmu    =    (char)-446148719;
 	unsigned long long	EeK40c46T;
 	EeK40c46T	=	-72274891;
 	unsigned long	y4572d;
@@ -420,7 +420,7 @@ AK8c1 = DYq_(NE6u, (unsigned char)1897576625, Dq63z);
 ++i;
 }
 }
-std::cout << TsB3((unsigned char)1808031944, 852988348) << "C6vZS3" << TsB3(1341662158, 345132717) << L6gz(-1625504346, 1196470757, 1830534232, g3BkQMlQJ, 465925482) << std::endl;
+std::cout << TsB3((unsigned char)1808031944, 852988348) << "C6vZS3" << TsB3((unsigned char)1341662158, 345132717) << L6gz(-1625504346, 1196470757, 1830534232, g3BkQMlQJ, 465925482) << std::endl;
 
 tOgE = (int)abs(Fn1In6qc);
 
@@ -511,7 +511,7 @@ case 'd':
 Fn1In6qc = jspvJkq_ED(Fn1In6qc, (short)-761195788);
 break;
 case 'e':
-AK8c1 = DYq_(-1494849880, 830474667, -1799119476);
+AK8c1 = DYq_(-1494849880, (unsigned char)830474667, -1799119476);
 break;
 case 'f':
 g3BkQMlQJ = (int)abs(EC0mN);

@@ -68,7 +68,7 @@ int main(int argc, char** argv)
  unsigned short int P5c77q2JYd;
  P5c77q2JYd = (unsigned short)2051839348;
 	unsigned short int	lW7Z_H;
-	lW7Z_H	=	-1208455087;
+	lW7Z_H	=	(unsigned short)-1208455087;
     long    wgLJv7i;
     wgLJv7i    =    1286048896;
 	long double	QL1tNi16;
@@ -80,7 +80,7 @@ int main(int argc, char** argv)
 	unsigned int	c2iI;
 	c2iI	=	524418412;
 	unsigned char	cO7G95Z_;
-	cO7G95Z_	=	-844934610;
+	cO7G95Z_	=	(unsigned char)-844934610;
  long long lO9zBt;
  lO9zBt = 1109539458;
  double OY4_g;
@@ -118,7 +118,7 @@ int main(int argc, char** argv)
   unsigned char  Pl2R6t1V5;
   Pl2R6t1V5  =  (unsigned char)-435405570;
 	short	ZfFv8p9h;
-	ZfFv8p9h	=	608529970;
+	ZfFv8p9h	=	(short)608529970;
 	unsigned char	By3m3s531;
 	By3m3s531	=	-303529845;
   double  ENBG3;
@@ -168,7 +168,7 @@ int main(int argc, char** argv)
  short t94hCEx;
  t94hCEx = (short)-322809413;
  short int L_2P8qo1;
- L_2P8qo1 = -1989224287;
+ L_2P8qo1 = (short)-1989224287;
   long long  oBL_;
   oBL_  =  2049937607;
  char ew7h;
@@ -180,7 +180,7 @@ int main(int argc, char** argv)
  char A9Y1;
  A9Y1 = (char)-1646686616;
   unsigned char  F3I4WTT_at;
-  F3I4WTT_at  =  -1759243510;
+  F3I4WTT_at  =  (unsigned char)-1759243510;
     unsigned int    h30t7Bh72j;
     h30t7Bh72j    =    -9336675;
     unsigned long    P9YRYhnC4;
@@ -196,7 +196,7 @@ int main(int argc, char** argv)
     short int    tkIyvu;
     tkIyvu    =    (short)1006337537;
 	char	H6aQ0h6u5T;
-	H6aQ0h6u5T	=	-982887139;
+	H6aQ0h6u5T	=	(char)-982887139;
     unsigned short    VyDBae;
     VyDBae    =    (unsigned short)-1468518779;
   int  X05RD;
@@ -216,7 +216,7 @@ int main(int argc, char** argv)
   short int  l88_G10aX;
   l88_G10aX  =  (short)1701158086;
 	unsigned short	mrs7j;
-	mrs7j	=	-591356876;
+	mrs7j	=	(unsigned short)-591356876;
     long    Sw97f;
     Sw97f    =    1208788389;
     long double    qsKuujPqT;
@@ -369,7 +369,7 @@ i++;
 csHv7ULM8l = (int)abs(EupOyg);
 if ((636903405 / qn9V4Snzv5(czcrJaMUnz, (short)894003025)) == 1716153803)
 {
-std::cout << -911928146 / qn9V4Snzv5((unsigned short)-1006122830, -99364519) << std::endl;
+std::cout << -911928146 / qn9V4Snzv5((unsigned short)-1006122830, (short)-99364519) << std::endl;
 }
 
 std::cout << mrs7j << cx2o << Nu31xq0j << c0_56j88 << std::endl;
@@ -522,7 +522,7 @@ case 1:
 By3m3s531 = A8p1Lyo_8(By3m3s531);
 break;
 case 2:
-A8y76snS = qn9V4Snzv5((unsigned short)181772363, 979403420);
+A8y76snS = qn9V4Snzv5((unsigned short)181772363, (short)979403420);
 break;
 case 3:
 VAtd8qycRm = u_6qd2_();

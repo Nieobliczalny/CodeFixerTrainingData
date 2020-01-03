@@ -122,7 +122,7 @@ T0PVK_NcL = IM14qVz5FF(T0PVK_NcL, (unsigned char)-805652350, Oc_1f5p3);
 }
 }
 
-std::cout << ZsTsz_lc << MFB55((short)-770816641, 2004479550, 1134711433, 882905930) << std::endl;
+std::cout << ZsTsz_lc << MFB55((short)-770816641, 2004479550, (short)1134711433, 882905930) << std::endl;
 
 T0PVK_NcL = mc3qC_O(T0PVK_NcL, -2016221399);
 if (YH_F & 1977448123)
@@ -173,7 +173,7 @@ ET5E = (unsigned long long)(ki188w3);
 }
 else if (Oc_1f5p3 <= 724406727)
 {
-std::cout << U5RyfH(T0PVK_NcL, q40XS2, -354991910, mN2Tw6iCF, L1Ufo5PE6Z) << "M97g" << QJ4upf << U5RyfH(1212001058, q40XS2, VEvqCIG93, mN2Tw6iCF, (char)-535141956) << MFB55(T0PVK_NcL, 824179326, (short)608063999, 1222285374) << std::endl;
+std::cout << U5RyfH(T0PVK_NcL, q40XS2, -354991910, mN2Tw6iCF, L1Ufo5PE6Z) << "M97g" << QJ4upf << U5RyfH(1212001058, q40XS2, VEvqCIG93, mN2Tw6iCF, (char)-535141956) << MFB55(T0PVK_NcL, 824179326, (short)608063999, (char)1222285374) << std::endl;
 }
 else if ((Utu7X21DR <= 1751998059) || (U_IwoHb7 >= 1439500396))
 {
@@ -213,7 +213,7 @@ pyJV8y = MFB55(pyJV8y, 563647282, WFf7, (char)-1403482867);
 break;
 case 'i':
 case 'I':
-dEKb2Hw = MFB55((short)1029655997, x_pM7c, 2141082979, W9yFey2_g);
+dEKb2Hw = MFB55((short)1029655997, x_pM7c, (short)2141082979, W9yFey2_g);
 break;
 case 'j':
 case 'J':
@@ -256,7 +256,7 @@ case 'g':
 W9_MDV = mN2Tw6iCF + 845946024;
 break;
 }
-std::cout << MFB55(e3WZzd5, -847734885, E5oBclx, (char)-475977981) << MFB55(-286719003, 1631264200, 709934328, 1263087857) << std::endl;
+std::cout << MFB55(e3WZzd5, -847734885, E5oBclx, (char)-475977981) << MFB55((short)-286719003, 1631264200, 709934328, 1263087857) << std::endl;
 
 try
 {
@@ -287,7 +287,7 @@ hXit0Uz_5 = IM14qVz5FF((unsigned short)-1581476198, (unsigned char)2014234133, W
 break;
 case 'b':
 case 'B':
-eNGV = aULQ6RoI(eNGV, -2131492338);
+eNGV = aULQ6RoI(eNGV, (unsigned short)-2131492338);
 break;
 case 'c':
 case 'C':
@@ -551,7 +551,7 @@ E5oBclx = MFB55((short)660976556, -1624598023, oJIALdhv, (char)1171515982);
 }
 else if (Oc_1f5p3 >= iSDvlR)
 {
-GEG1vnD = IM14qVz5FF(-826373584, PkgaVNEU, w64LQk);
+GEG1vnD = IM14qVz5FF((unsigned short)-826373584, PkgaVNEU, w64LQk);
 }
 else if (w64LQk > oJIALdhv)
 {

@@ -93,7 +93,7 @@ for (int i = 5; i >= 0; i--)
 {
 std::cout << M2pxr5X4it((unsigned short)805151632, K4vT2172, c4ShK5_l2, (unsigned char)480422494, N_iX6L7wD) << std::endl;
 }
-std::cout << M2pxr5X4it(dKTS06, -497185104, c4ShK5_l2, -1036933274, 312660862) << QdT9() << DHPJn7j << std::endl;
+std::cout << M2pxr5X4it(dKTS06, -497185104, c4ShK5_l2, (unsigned char)-1036933274, 312660862) << QdT9() << DHPJn7j << std::endl;
 
 Vj07 = gId0uW_vyD(-1562541257, -842145308, 1672233935);
 try
@@ -125,7 +125,7 @@ case 2:
 J23VZ8n6C = gId0uW_vyD(PHI5, (unsigned short)9512110, N_N_j1b);
 break;
 case 3:
-R3hWsmr = M2pxr5X4it(-1900518169, sNuR, En2zR, 1526512196, -314705187);
+R3hWsmr = M2pxr5X4it((unsigned short)-1900518169, sNuR, En2zR, 1526512196, -314705187);
 break;
 case 4:
 J23VZ8n6C = gId0uW_vyD(966720292, K4vT2172, -799863160);
@@ -217,7 +217,7 @@ TSIuVp_ = vj1T4(xqBH_6, TSIuVp_, dek3, (unsigned short)1880384028);
 break;
 case 'f':
 case 'F':
-bP_J0j = vj1T4((char)1007374700, 343735363, 1034899933, xqBH_6);
+bP_J0j = vj1T4((char)1007374700, 343735363, (unsigned short)1034899933, xqBH_6);
 break;
 case 'g':
 case 'G':

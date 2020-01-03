@@ -37,7 +37,7 @@ case 1:
 vDdI = Q8U99(Zcac3fb1);
 break;
 case 2:
-DK5yC6R8F = d09AG((unsigned short)459346959, (unsigned short)1609365086, -2024054244);
+DK5yC6R8F = d09AG((unsigned short)459346959, (unsigned short)1609365086, (short)-2024054244);
 break;
 case 3:
 PEJMb = (int)abs(Ns0mCStocb);
@@ -68,7 +68,7 @@ switch (f99bM77vU)
 {
 case 'a':
 case 'A':
-jq5ix543dW = xL9Xu3(jq5ix543dW, 1986622467, ulkCMM2, DK5yC6R8F, VDmB63_FX);
+jq5ix543dW = xL9Xu3(jq5ix543dW, (short)1986622467, ulkCMM2, DK5yC6R8F, VDmB63_FX);
 break;
 case 'b':
 case 'B':
@@ -95,7 +95,7 @@ else
 {
 for (int k = 3; k >= 0; --k)
 {
-U4KorO4JU_ = d09AG((unsigned short)-1152644012, (unsigned short)-1233489920, -366899982);
+U4KorO4JU_ = d09AG((unsigned short)-1152644012, (unsigned short)-1233489920, (short)-366899982);
 }
 }
 }
@@ -140,7 +140,7 @@ G3L78 = (int)abs(PEJMb);
 }
 else if (gdyyFFC)
 {
-Zcac3fb1 = xL9Xu3(Zcac3fb1, (short)441266965, (unsigned char)1118862916, 1525235934, vDdI);
+Zcac3fb1 = xL9Xu3(Zcac3fb1, (short)441266965, (unsigned char)1118862916, (unsigned short)1525235934, vDdI);
 }
 else if (mmPxd <= b1ma)
 {
@@ -172,7 +172,7 @@ if (a8_DD8ug11 >= -503222601)
 {
 try
 {
-Qk7_ = xL9Xu3(-848753403, (short)-1591282843, (unsigned char)-1334780556, 1870260223, Ns0mCStocb);
+Qk7_ = xL9Xu3(-848753403, (short)-1591282843, (unsigned char)-1334780556, (unsigned short)1870260223, Ns0mCStocb);
 }
 catch (int& errorCode)
 {
@@ -249,7 +249,7 @@ case 4:
 Z6z5n7 = m5_f27 << 1983808416;
 break;
 case 5:
-jnQN_6X8h = d09AG(-1746847609, vD0Ew, zZ_0Y_1r);
+jnQN_6X8h = d09AG((unsigned short)-1746847609, vD0Ew, zZ_0Y_1r);
 break;
 case 6:
 K23b2_ = d09AG((unsigned short)813602707, zZ_0Y_1r, -1674809707);
@@ -297,7 +297,7 @@ cbLYW83c6 = xL9Xu3(cbLYW83c6, (short)624495233, BL21O5RjJ1, (unsigned short)1888
 
 if (((s48_pSj15 != 793090095) || (T_gMBZ)) && (f99bM77vU >= Vck2ELC))
 {
-cout << xL9Xu3(134840069, CXGL3o66i9, -1363111297, 540575304, -930592807) << "Sz7OmZj" << Q8U99(211214021) << "GigyqW47F" << endl;
+cout << xL9Xu3(134840069, CXGL3o66i9, (unsigned char)-1363111297, 540575304, -930592807) << "Sz7OmZj" << Q8U99(211214021) << "GigyqW47F" << endl;
 }
 else
 {

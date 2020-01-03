@@ -177,7 +177,7 @@ iyT6V = ka9f112F0h((unsigned short)-637847279);
 }
 else if (R36T > s7nNVX_2z)
 {
-y5sc5xM = ka9f112F0h(-1607170151);
+y5sc5xM = ka9f112F0h((unsigned short)-1607170151);
 }
 else if (P718gPs <= UiPKqNJ)
 {
@@ -589,7 +589,7 @@ case 4:
 Td_p59dY5 = (O1w6 == KNVq3nqd) ? (unsigned char)-636142117 : (unsigned char)1792930387;
 break;
 case 5:
-y5sc5xM = ka9f112F0h(-1670479060);
+y5sc5xM = ka9f112F0h((unsigned short)-1670479060);
 break;
 default:
 qB01 = ka9f112F0h(fK63yJ_z) & dey_oQ24;

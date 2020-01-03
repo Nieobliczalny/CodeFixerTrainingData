@@ -37,7 +37,7 @@ int main() {
   char  anks_z0I94;
   anks_z0I94  =  (char)-1921496701;
     unsigned short int    gwM2doPWs;
-    gwM2doPWs    =    261218549;
+    gwM2doPWs    =    (unsigned short)261218549;
   int  pV4Nbo;
   pV4Nbo  =  0;
  unsigned int oP0J_zfv;
@@ -49,7 +49,7 @@ int main() {
     unsigned short    W7t5;
     W7t5    =    (unsigned short)925840030;
     unsigned short    a107b482;
-    a107b482    =    93675944;
+    a107b482    =    (unsigned short)93675944;
   short int  ehWK0h9;
   ehWK0h9  =  469961575;
     unsigned short    EQ_GfGd;
@@ -61,7 +61,7 @@ int main() {
  unsigned short int m6AU39R_;
  m6AU39R_ = (unsigned short)-1283565343;
 	unsigned char	l1j_hw2286;
-	l1j_hw2286	=	2130529396;
+	l1j_hw2286	=	(unsigned char)2130529396;
  long KA0e_l0;
  KA0e_l0 = 1475763582;
  float A40HG;
@@ -73,7 +73,7 @@ int main() {
     unsigned long long    Q12a0;
     Q12a0    =    -1517127548;
  unsigned short no7z7jvmsL;
- no7z7jvmsL = 95864670;
+ no7z7jvmsL = (unsigned short)95864670;
   unsigned int  pFFM;
   pFFM  =  290026108;
     double    bx_2;
@@ -101,7 +101,7 @@ int main() {
 	char	hwsu_q0CP;
 	hwsu_q0CP	=	(char)895626234;
 	unsigned short int	DTcb672o;
-	DTcb672o	=	-602032197;
+	DTcb672o	=	(unsigned short)-602032197;
   unsigned short int  QnPpF;
   QnPpF  =  0;
   double  E_7sE;
@@ -113,7 +113,7 @@ int main() {
   unsigned long  CbNvSUfWbv;
   CbNvSUfWbv  =  1179416551;
     unsigned char    MfQO55p;
-    MfQO55p    =    1045508359;
+    MfQO55p    =    (unsigned char)1045508359;
  long double N6x9196xF;
  N6x9196xF = 1774796373;
 	unsigned short int	g330;
@@ -123,7 +123,7 @@ int main() {
     unsigned char    Ox0_J_;
     Ox0_J_    =    (unsigned char)215553370;
     short    L41__2l2;
-    L41__2l2    =    1987837488;
+    L41__2l2    =    (short)1987837488;
     long    xxfFXYr;
     xxfFXYr    =    -1250995102;
   unsigned short int  M_E53;
@@ -137,7 +137,7 @@ int main() {
  long FWFX9y;
  FWFX9y = 1085952554;
  char MzSHob;
- MzSHob = 865434872;
+ MzSHob = (char)865434872;
     char    T7BMPZydi;
     T7BMPZydi    =    (char)253098892;
  long double u1vpl;
@@ -147,7 +147,7 @@ int main() {
     int    HTAPTyh;
     HTAPTyh    =    -324581233;
  short int KB6vF2Z;
- KB6vF2Z = 774503792;
+ KB6vF2Z = (short)774503792;
 
 {
 int i = 9;

@@ -24,7 +24,7 @@ int main(int argc, char** argv) {
  short g5CX;
  g5CX = (short)1531858458;
     char    MI5Zmrs;
-    MI5Zmrs    =    -42736304;
+    MI5Zmrs    =    (char)-42736304;
     unsigned char    OvbtJv44l;
     OvbtJv44l    =    (unsigned char)1597697155;
     unsigned int    p474V1;
@@ -34,7 +34,7 @@ int main(int argc, char** argv) {
 	unsigned char	g7T3v;
 	g7T3v	=	(unsigned char)819516956;
   short  G6FAbvV;
-  G6FAbvV  =  -453333693;
+  G6FAbvV  =  (short)-453333693;
   unsigned char  Gf_9_yh;
   Gf_9_yh  =  (unsigned char)-820420543;
   unsigned long  e_k66;
@@ -66,7 +66,7 @@ int main(int argc, char** argv) {
  unsigned short jiqF;
  jiqF = (unsigned short)1580885997;
  short RLvKp59;
- RLvKp59 = -159069390;
+ RLvKp59 = (short)-159069390;
 	short	qt52LgSG_;
 	qt52LgSG_	=	1822471678;
  int B7_9Iic;
@@ -78,7 +78,7 @@ int main(int argc, char** argv) {
   unsigned short int  rF5KU_Thd;
   rF5KU_Thd  =  (unsigned short)155225877;
 	unsigned char	hIcI45DzD7;
-	hIcI45DzD7	=	1033317770;
+	hIcI45DzD7	=	(unsigned char)1033317770;
   float  YyH5zSh;
   YyH5zSh  =  531116479;
     unsigned short int    s6MH_2N;
@@ -90,7 +90,7 @@ int main(int argc, char** argv) {
     long double    K3In;
     K3In    =    1256932194;
 	unsigned char	M44W84Ueuf;
-	M44W84Ueuf	=	762388831;
+	M44W84Ueuf	=	(unsigned char)762388831;
  double ksFWRs3;
  ksFWRs3 = -1852847063;
     double    T896l;
@@ -102,7 +102,7 @@ int main(int argc, char** argv) {
  unsigned short FtTqc_7;
  FtTqc_7 = (unsigned short)1062886736;
     short    RKF87;
-    RKF87    =    -311793920;
+    RKF87    =    (short)-311793920;
  unsigned long NayXWwwT;
  NayXWwwT = 1832412362;
   long long  A876;
@@ -140,7 +140,7 @@ int main(int argc, char** argv) {
 	unsigned long	i4_19G9PC;
 	i4_19G9PC	=	650979132;
   char  ix2aK5g;
-  ix2aK5g  =  -1820426726;
+  ix2aK5g  =  (char)-1820426726;
  short L6gtB5;
  L6gtB5 = (short)1223441307;
     short    BS6Dk;
@@ -158,7 +158,7 @@ int main(int argc, char** argv) {
  short int lQ0c;
  lQ0c = (short)-1907313359;
 	unsigned char	nR2zE;
-	nR2zE	=	1475428698;
+	nR2zE	=	(unsigned char)1475428698;
   unsigned long  f7jCmXw0z0;
   f7jCmXw0z0  =  -84707218;
   char  ye5TQVuhh5;
@@ -176,7 +176,7 @@ int main(int argc, char** argv) {
 	unsigned short	cpzE69S;
 	cpzE69S	=	(unsigned short)1072150494;
   char  C7qFgJS4_j;
-  C7qFgJS4_j  =  -1145511751;
+  C7qFgJS4_j  =  (char)-1145511751;
     unsigned short int    i72lz;
     i72lz    =    2136782247;
 	long	aX0o_HD;

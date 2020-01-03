@@ -26,7 +26,7 @@ int main() {
   unsigned short  g28HLFvB3;
   g28HLFvB3  =  (unsigned short)-1818835640;
   short int  dUaQHdO1v;
-  dUaQHdO1v  =  -1131940509;
+  dUaQHdO1v  =  (short)-1131940509;
 	unsigned short	ec021pvP;
 	ec021pvP	=	1396164174;
     short int    PXdY8__;

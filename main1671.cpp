@@ -19,7 +19,7 @@ int main(void) {
   unsigned short int  w_GP_3_;
   w_GP_3_  =  (unsigned short)355869162;
 	unsigned short int	H_kgl6dz;
-	H_kgl6dz	=	-200910786;
+	H_kgl6dz	=	(unsigned short)-200910786;
   unsigned long  FM62P_;
   FM62P_  =  -192735495;
   unsigned short  uIasgE0sR;
@@ -45,7 +45,7 @@ int main(void) {
     unsigned long    ns5L20VUZ7;
     ns5L20VUZ7    =    887166686;
  short AbQ9014;
- AbQ9014 = -1790924956;
+ AbQ9014 = (short)-1790924956;
  long double A0G9;
  A0G9 = -1164619099;
  short LINB5J;
@@ -57,7 +57,7 @@ int main(void) {
  unsigned char iIAq;
  iIAq = (unsigned char)748866317;
     short int    af6Sfg693r;
-    af6Sfg693r    =    -2081142138;
+    af6Sfg693r    =    (short)-2081142138;
     short    WnFzWk7;
     WnFzWk7    =    (short)119393967;
 	unsigned long	uupsJn;
@@ -83,7 +83,7 @@ int main(void) {
   unsigned short  vwvis0Sd3O;
   vwvis0Sd3O  =  (unsigned short)-1687675342;
 	unsigned short	gLFS;
-	gLFS	=	134282614;
+	gLFS	=	(unsigned short)134282614;
 	double	xmhMXt6jT;
 	xmhMXt6jT	=	-639942384;
  unsigned long Q8z6Yx7bwU;
@@ -117,7 +117,7 @@ int main(void) {
     unsigned char    H8MNy_6M_;
     H8MNy_6M_    =    (unsigned char)-995239345;
  unsigned char B_K4Na;
- B_K4Na = -47732991;
+ B_K4Na = (unsigned char)-47732991;
     short int    y7j2SwX;
     y7j2SwX    =    1981960718;
   unsigned short  vFLY706i;
@@ -157,7 +157,7 @@ int main(void) {
     unsigned short int    Kh349YFVnZ;
     Kh349YFVnZ    =    (unsigned short)211876801;
 	unsigned short int	A728583v5b;
-	A728583v5b	=	-1980174642;
+	A728583v5b	=	(unsigned short)-1980174642;
  short int yck4h83;
  yck4h83 = 1689297469;
 	int	vvjje9yE;
@@ -169,7 +169,7 @@ int main(void) {
 	unsigned char	aAHR511K7;
 	aAHR511K7	=	(unsigned char)877550335;
   unsigned char  v3u76x3;
-  v3u76x3  =  1420636204;
+  v3u76x3  =  (unsigned char)1420636204;
   char  yvf1_2L6;
   yvf1_2L6  =  1739641485;
     unsigned short int    iYBeIxu;
@@ -181,7 +181,7 @@ int main(void) {
   long  zaKkCLMz;
   zaKkCLMz  =  1175034104;
     unsigned char    n9yva6;
-    n9yva6    =    771468517;
+    n9yva6    =    (unsigned char)771468517;
 	float	kEzeZR_0;
 	kEzeZR_0	=	1598676679;
     float    KZYp29o;
@@ -396,7 +396,7 @@ O9Z9 = GbprJKk9c + GSZpKiH;
 break;
 case 'e':
 case 'E':
-v09rSXxL_ = AvG9j0(Gv2d, tzsYc, -1137823455);
+v09rSXxL_ = AvG9j0(Gv2d, tzsYc, (unsigned short)-1137823455);
 break;
 case 'f':
 case 'F':
@@ -443,7 +443,7 @@ case 1:
 C2Fjb--;
 break;
 case 2:
-v09rSXxL_ = AvG9j0(v3u76x3, 1193787287, FATNib0Qg4);
+v09rSXxL_ = AvG9j0(v3u76x3, (short)1193787287, FATNib0Qg4);
 break;
 case 3:
 w809 = (int)ceil(rtpHB2d93);
@@ -531,7 +531,7 @@ case 'h':
 GSZpKiH = AvG9j0(-492572526, (short)-1083775462, IT4H);
 break;
 default:
-GSZpKiH = AvG9j0(-407821230, (short)-318596142, -132678317);
+GSZpKiH = AvG9j0(-407821230, (short)-318596142, (unsigned short)-132678317);
 break;
 }
 }
@@ -658,7 +658,7 @@ while (i >= 0);
 }
 if (KZYp29o)
 {
-v09rSXxL_ = AvG9j0(W9OsGcV, (short)1881911734, 245670150);
+v09rSXxL_ = AvG9j0(W9OsGcV, (short)1881911734, (unsigned short)245670150);
 }
 else if ((usqlEJ5UUr <= Avoug_A_) || (LINB5J <= 1773175197))
 {
@@ -744,7 +744,7 @@ v09rSXxL_ = AvG9j0(607028571, TiehB1dxp, Z1NB);
 }
 else if (H8MNy_6M_)
 {
-cout << "Ven2" << AvG9j0(1949564776, (short)-367349333, (unsigned short)788502251) << "Ma2L" << AvG9j0(x4fmt9T, TiehB1dxp, 496252516) << endl;
+cout << "Ven2" << AvG9j0(1949564776, (short)-367349333, (unsigned short)788502251) << "Ma2L" << AvG9j0(x4fmt9T, TiehB1dxp, (unsigned short)496252516) << endl;
 }
 else
 {
@@ -902,7 +902,7 @@ cout << "A56J8" << "jP_Z_" << AvG9j0(-1095823436, (short)2059877241, z4Ox) << "d
 }
 else
 {
-cout << "Oi1_9496j" << "wU90B8q55" << AvG9j0(fv6i, (short)-1305295519, -1374536488) << v3u76x3 << M4ya1 << endl;
+cout << "Oi1_9496j" << "wU90B8q55" << AvG9j0(fv6i, (short)-1305295519, (unsigned short)-1374536488) << v3u76x3 << M4ya1 << endl;
 }
 }
 else if (w_GP_3_ == -413323290)
@@ -1072,7 +1072,7 @@ case 5:
 GSZpKiH = AvG9j0(LUWiM, Z1NB, (unsigned short)1002206447);
 break;
 case 6:
-S2DgV4_ = AvG9j0(DwUMu71N, (short)1873123381, -113775086);
+S2DgV4_ = AvG9j0(DwUMu71N, (short)1873123381, (unsigned short)-113775086);
 break;
 case 7:
 E5fJHtcY6 -= 1446730846;

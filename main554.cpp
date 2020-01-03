@@ -371,7 +371,7 @@ std::cout << J5z6eR1b0 << VghWb() << jgp6p17 << fe1Zm05((char)-165104547, 176963
 
 try
 {
-z2gD0T7j4 = fe1Zm05((char)-1093269080, 1993770469, -1620244385, z2gD0T7j4);
+z2gD0T7j4 = fe1Zm05((char)-1093269080, 1993770469, (unsigned char)-1620244385, z2gD0T7j4);
 }
 catch (int& errorCode)
 {

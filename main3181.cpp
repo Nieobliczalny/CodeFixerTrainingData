@@ -27,7 +27,7 @@ short int    tmx6()    {
 
 short    W5QC(unsigned long    wmV2_g,unsigned short    UfLL)
 {
-    return    -998042419;
+    return    (short)-998042419;
 }
 
 int main(void) {
@@ -40,7 +40,7 @@ int main(void) {
  unsigned short JMBlnh9 = (unsigned short)1414524301;
 	unsigned int	u2xL52	=	1831828674;
     float    i_qK    =    -987965009;
- unsigned char WSm10NV0Z = -1673655811;
+ unsigned char WSm10NV0Z = (unsigned char)-1673655811;
   long long  a04Thf1  =  -1078970961;
  long long Sn_vIE = -239233677;
     short int    hfR1yXS    =    (short)1232726202;
@@ -56,7 +56,7 @@ int main(void) {
   short int  Ba6hc_8  =  (short)-1743850035;
  double H82VY14 = 2132477075;
   char  Qg33KNAq  =  (char)1270298056;
-  short  UBsy711cg  =  -1094663728;
+  short  UBsy711cg  =  (short)-1094663728;
  unsigned short int Ls0L = 1142978809;
  unsigned short ed23eJN_mY = 227593357;
 	char	i4X9	=	-104071564;
@@ -71,7 +71,7 @@ int main(void) {
   int  Kr1nVK  =  -1790655854;
  unsigned long long a_Z_ = -1025115288;
 	long double	jZ3HDxCcH	=	-2086530587;
-  unsigned short  m0L0zFC  =  -443774489;
+  unsigned short  m0L0zFC  =  (unsigned short)-443774489;
 	unsigned long	zSku7h	=	-1026659284;
 
 if ((rHQ5 > -706413897) && ((m0L0zFC & 1535078898) || (PMptt3 > I3V2HoV82)))
@@ -326,7 +326,7 @@ case 4:
 nZ7A = hfR1yXS - 751677264;
 break;
 case 5:
-Qg33KNAq = q1o56((short)214899146, -527958215, 1910728696, 1817742799, -1755565100);
+Qg33KNAq = q1o56((short)214899146, (unsigned char)-527958215, 1910728696, 1817742799, -1755565100);
 break;
 case 6:
 i4X9 = tmx6();

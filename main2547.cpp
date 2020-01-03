@@ -28,7 +28,7 @@ int main(void)
     char    ImIn_iDJ78    =    (char)-1034135338;
  unsigned int WYt61VC = 201005320;
   unsigned long  HqEH  =  -2141931389;
-    unsigned short    KvfV    =    -7169887;
+    unsigned short    KvfV    =    (unsigned short)-7169887;
 	int	wUWl	=	548389304;
     unsigned short int    r84Wp_5    =    -829162009;
 	long double	q2p_8NN	=	1536013560;
@@ -42,7 +42,7 @@ int main(void)
     short int    I96xq7    =    (short)-1470711859;
  double GPyDTWq05A = 297501435;
     long long    HJ23bz_    =    1023490529;
-	unsigned short	oWR997JY62	=	1292302645;
+	unsigned short	oWR997JY62	=	(unsigned short)1292302645;
     unsigned long    l46B9oCu6    =    956366124;
 	unsigned int	F_8T7Ti	=	-1526416001;
  int so_VGZe0 = -2101084978;
@@ -55,7 +55,7 @@ int main(void)
 	unsigned long long	BMq_	=	0;
   long double  y_f6916CHi  =  -691183941;
  unsigned long long fAEADKnSt = 791987146;
-	unsigned short	r0wtU3o	=	-1765892279;
+	unsigned short	r0wtU3o	=	(unsigned short)-1765892279;
     short int    pKMo    =    -1131563618;
   long  Vcq09DZ  =  -1234903411;
     long long    u5r4REzSY    =    -1921618095;
@@ -65,7 +65,7 @@ int main(void)
   unsigned char  j3up3k  =  (unsigned char)346734341;
  unsigned char iCEq1_0 = 421707470;
 	unsigned short	C12777	=	1101475341;
-	char	nV_S_M	=	-486756046;
+	char	nV_S_M	=	(char)-486756046;
     int    dLleC597    =    -1441971123;
     long long    p37O_y2    =    -1868512519;
 	unsigned int	l_5X8by	=	105464923;
@@ -141,7 +141,7 @@ break;
 
 HqEH = L9Xe39((unsigned short)-293727971, RDLR4i9, -721401547, C12777);
 
-VeXQcx3K2 = L9Xe39(-664992975, RNMVm9H, 704021488, Ag_m6V3);
+VeXQcx3K2 = L9Xe39((unsigned short)-664992975, RNMVm9H, 704021488, Ag_m6V3);
 y_f6916CHi = (int)floor(q2p_8NN);
 
 HqEH = TKZs8Z();
@@ -191,7 +191,7 @@ q2p_8NN = L9Xe39(q2p_8NN, (char)-1338302039, r84Wp_5, WY90oQ8689);
 }
 else if (Q_Zj10 & e1n99QAD)
 {
-fK9vg9R8k = (RDLR4i9 == I96xq7) ? -1414071923 : TKZs8Z();
+fK9vg9R8k = (RDLR4i9 == I96xq7) ? (unsigned short)-1414071923 : TKZs8Z();
 }
 else if (oWR997JY62 < e1n99QAD)
 {

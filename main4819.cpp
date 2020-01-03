@@ -123,7 +123,7 @@ std::cout << "W_xnFOLD8" << "AjR9hyV0_" << l_XC5B7Z(yxDf1, KZOS, -2023394505, (s
 int i = 0;
 do
 {
-std::cout << t64m << Pkuw409z4(yxDf1, (unsigned short)-236570923, 116520610, Y5i_372, 946423195) << mewn_4q << Pkuw409z4(yxDf1, KZOS, El8E2, -657681925, b_0kAO7UO) << NbH8 << std::endl;
+std::cout << t64m << Pkuw409z4(yxDf1, (unsigned short)-236570923, 116520610, Y5i_372, (char)946423195) << mewn_4q << Pkuw409z4(yxDf1, KZOS, El8E2, -657681925, b_0kAO7UO) << NbH8 << std::endl;
 ++i;
 }
 while (i < 9);
@@ -167,7 +167,7 @@ case 1:
 CH8B7E_aeP = (int)abs(f7DT);
 break;
 case 2:
-sWrEhbpev8 = l_XC5B7Z((short)1464576882, (char)413603056, 1516748242, 946897691);
+sWrEhbpev8 = l_XC5B7Z((short)1464576882, (char)413603056, 1516748242, (short)946897691);
 break;
 case 3:
 CHO_d <<= f7DT;
@@ -204,7 +204,7 @@ X27Ix = b_0kAO7UO - L3yUWanAJh;
 while (i >= 0);
 }
 X27Ix = Y5i_372 / Pkuw409z4(-1935125015, (unsigned short)2127452906, Y5i_372, KZOS, x984);
-CH8B7E_aeP = l_XC5B7Z((short)-1519458205, -621135546, sWrEhbpev8, t64m);
+CH8B7E_aeP = l_XC5B7Z((short)-1519458205, (char)-621135546, sWrEhbpev8, t64m);
 if (GnyO3h9 >= sWrEhbpev8)
 {
 K362Yw2 = (int)(sWrEhbpev8);
@@ -249,7 +249,7 @@ break;
 }
 else
 {
-f7DT = l_XC5B7Z((short)153018766, 1039633059, 63035249, fe5_aq) << j7Ud;
+f7DT = l_XC5B7Z((short)153018766, (char)1039633059, 63035249, fe5_aq) << j7Ud;
 }
 
 if (CHO_d > -1744898448)
@@ -319,7 +319,7 @@ case 'c':
 j7Ud = Qj2TC * x984;
 break;
 case 'd':
-t64m = l_XC5B7Z(t64m, R948D, XVyO6nM, -308002658);
+t64m = l_XC5B7Z(t64m, R948D, XVyO6nM, (short)-308002658);
 break;
 case 'e':
 mJ07N1V /= NVdhnC2;

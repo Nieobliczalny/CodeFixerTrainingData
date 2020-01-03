@@ -577,6 +577,6 @@ short  Lc9r5_5()  {
 }
 
 short    mUdBw_jll()    {
-    return    -1386136910;
+    return    (short)-1386136910;
 }
 

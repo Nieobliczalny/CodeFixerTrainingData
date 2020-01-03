@@ -92,7 +92,7 @@ case 1:
 Md64DY = eK08Ci8BB6(-922833633);
 break;
 case 2:
-Vcj8_ = QM_Q3k78(Wjz_fln, (unsigned short)-560296373, (unsigned short)-1056762031, y8H2, 687804425);
+Vcj8_ = QM_Q3k78(Wjz_fln, (unsigned short)-560296373, (unsigned short)-1056762031, y8H2, (short)687804425);
 break;
 case 3:
 l1bT_ = Pp8TXZiKsx / 585647588;
@@ -122,7 +122,7 @@ else if (v5dOifRK <= j320)
 {
 if (YRZ1N2w198 <= yw0AP_pqG)
 {
-cout << s0nT19To0((unsigned char)-1563876240, (short)30749561, -1231522802) << "Sa67aM_4" << QM_Q3k78(1739550251, 1389342493, -209672764, vrsbDoqt, 1680005321) << DH_kD2 << endl;
+cout << s0nT19To0((unsigned char)-1563876240, (short)30749561, -1231522802) << "Sa67aM_4" << QM_Q3k78((char)1739550251, 1389342493, -209672764, vrsbDoqt, 1680005321) << DH_kD2 << endl;
 }
 else if (WRttv >= Pp8TXZiKsx)
 {
@@ -204,7 +204,7 @@ cu3M25 = (int)abs(fBMlxH217) + (-1854584892);
 break;
 case 'd':
 case 'D':
-Vcj8_ = QM_Q3k78((char)530943418, eudSX, d2FTlw, -1850612976, T3HiYzMIcT);
+Vcj8_ = QM_Q3k78((char)530943418, eudSX, d2FTlw, (unsigned short)-1850612976, T3HiYzMIcT);
 break;
 default:
 YRZ1N2w198 = (int)abs(Vcj8_) + (-297725117);
@@ -295,7 +295,7 @@ case 1:
 jRoCg6 = VWu0AlJs(jRoCg6, (char)281014314);
 break;
 default:
-CG2t = s0nT19To0((unsigned char)1520984611, 140734348, -414509227);
+CG2t = s0nT19To0((unsigned char)1520984611, (short)140734348, -414509227);
 break;
 }
 }
@@ -307,7 +307,7 @@ switch (yw0AP_pqG)
 {
 case 'a':
 case 'A':
-Vcj8_ = QM_Q3k78((char)-260563617, K_nJT08l9, (unsigned short)-1603769922, WRttv, -447877857);
+Vcj8_ = QM_Q3k78((char)-260563617, K_nJT08l9, (unsigned short)-1603769922, WRttv, (short)-447877857);
 break;
 case 'b':
 case 'B':
@@ -410,7 +410,7 @@ else if (jRoCg6 != d2FTlw)
 {
 if (K_nJT08l9 > fBMlxH217)
 {
-fBMlxH217 = QM_Q3k78(cu3M25, (unsigned short)290005183, (unsigned short)-295573950, -1869877332, -1623955075);
+fBMlxH217 = QM_Q3k78(cu3M25, (unsigned short)290005183, (unsigned short)-295573950, (unsigned short)-1869877332, -1623955075);
 }
 else
 {
@@ -430,7 +430,7 @@ WRttv = (int)abs(fBMlxH217) + (311776991);
 }
 else if ((cu3M25 < 104293736) || ((CG2t & WRttv) && (yw0AP_pqG >= eudSX)))
 {
-cout << "RBVgD" << y8H2 << s0nT19To0(cu3M25, (short)1701390900, fBMlxH217) << VWu0AlJs((unsigned short)1007111281, 2066923593) << jRoCg6 << endl;
+cout << "RBVgD" << y8H2 << s0nT19To0(cu3M25, (short)1701390900, fBMlxH217) << VWu0AlJs((unsigned short)1007111281, (char)2066923593) << jRoCg6 << endl;
 }
 else
 {

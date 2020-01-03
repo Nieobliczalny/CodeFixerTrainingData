@@ -22,7 +22,7 @@ int main() {
     unsigned long    B9sr219O    =    0;
     unsigned char    HC9x4z2    =    (unsigned char)-1322981021;
  unsigned char cl45 = (unsigned char)-1516730029;
-  unsigned short int  nV991j  =  -1936403344;
+  unsigned short int  nV991j  =  (unsigned short)-1936403344;
  unsigned short int D_snAOw = -140562422;
  unsigned long long P3L42 = 1044698043;
 
@@ -112,7 +112,7 @@ if (HC9x4z2)
 switch (nV991j)
 {
 case 'a':
-B9sr219O = q0Ag58Z((short)500915821, cl45, 321212185, (char)-325247456, -1938630295);
+B9sr219O = q0Ag58Z((short)500915821, cl45, 321212185, (char)-325247456, (unsigned char)-1938630295);
 break;
 case 'b':
 P3L42 = lbdk66KSK4() ^ IG7w;
@@ -261,7 +261,7 @@ HC9x4z2 = D_snAOw >> cl45;
 }
 }
 std::cout << q0Ag58Z((short)-1326162345, (short)-108578835, 2051659730, nV991j, c8xl4X9c8) << D_snAOw << std::endl;
-D_snAOw = JJ0L1TOu8f(D_snAOw, HC9x4z2, -1354162600, c8xl4X9c8, P3L42);
+D_snAOw = JJ0L1TOu8f(D_snAOw, HC9x4z2, (unsigned short)-1354162600, c8xl4X9c8, P3L42);
 
 {
 int i = 1;

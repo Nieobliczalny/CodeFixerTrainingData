@@ -107,7 +107,7 @@ int main(int argc, char** argv)
  unsigned char z66JglBl71;
  z66JglBl71 = (unsigned char)1321566217;
  unsigned short int EmO1Q0;
- EmO1Q0 = 168876355;
+ EmO1Q0 = (unsigned short)168876355;
 	float	r8v2;
 	r8v2	=	1091682617;
   short  k1Gc2q;
@@ -129,7 +129,7 @@ int main(int argc, char** argv)
   unsigned long  Pgb14_9I;
   Pgb14_9I  =  0;
 
-Pgb14_9I = m4ry_kW7c((short)1861700096, 302679770);
+Pgb14_9I = m4ry_kW7c((short)1861700096, (unsigned short)302679770);
 std::cout << "WNW1Af7Q" << "zhFnH17798" << std::endl;
 
 if (t62IR <= YE03)
@@ -258,7 +258,7 @@ case 0:
 icpIiM = (int)ceil(r8v2);
 break;
 case 1:
-EaTb_pOw91 = m4ry_kW7c((short)-1566746965, -468064835);
+EaTb_pOw91 = m4ry_kW7c((short)-1566746965, (unsigned short)-468064835);
 break;
 case 2:
 WVq_ = (int)ceil(Giw9R);
@@ -302,7 +302,7 @@ while (i < 10);
 xhQjkvpkLB = rR0_(1518970094, 2026879139, EaTb_pOw91) / EaTb_pOw91;
 fl9Np90 = (qx2P4h >= AwU0) ? rR0_(M0938, zyrDes7, 1722528753) : m4ry_kW7c(M0938, (unsigned short)1328629112);
 
-std::cout << m4ry_kW7c((short)-611740512, zyrDes7) << m4ry_kW7c(M0938, zyrDes7) << qZ4w << m4ry_kW7c(1104056296, 1865975891) << "WKrD2FD" << std::endl;
+std::cout << m4ry_kW7c((short)-611740512, zyrDes7) << m4ry_kW7c(M0938, zyrDes7) << qZ4w << m4ry_kW7c((short)1104056296, 1865975891) << "WKrD2FD" << std::endl;
 
 return 0;
 }

@@ -25,7 +25,7 @@ int main(void)
   char  AW26y;
   AW26y  =  (char)361808233;
   short  gOge1MY;
-  gOge1MY  =  45794804;
+  gOge1MY  =  (short)45794804;
   unsigned int  xR2_T;
   xR2_T  =  923932188;
 	long long	NA05x;
@@ -47,7 +47,7 @@ int main(void)
     short int    cJ85j9j;
     cJ85j9j    =    (short)-72427402;
 	unsigned short	mQDvx;
-	mQDvx	=	710632620;
+	mQDvx	=	(unsigned short)710632620;
  unsigned short z478V;
  z478V = (unsigned short)-572088175;
     unsigned long    uI8w0gh;
@@ -63,7 +63,7 @@ int main(void)
 	unsigned char	FXNnZ94;
 	FXNnZ94	=	(unsigned char)-1651595127;
 	short	BJO0;
-	BJO0	=	1492384838;
+	BJO0	=	(short)1492384838;
 	unsigned char	Ksbvyf;
 	Ksbvyf	=	(unsigned char)1735413629;
   unsigned long  ZZ_125gQ0;
@@ -73,7 +73,7 @@ int main(void)
  unsigned short vHqX9;
  vHqX9 = (unsigned short)-1759466921;
     short    G5Zm5;
-    G5Zm5    =    676577341;
+    G5Zm5    =    (short)676577341;
   unsigned long long  UtEA00UGJ;
   UtEA00UGJ  =  1663391018;
 	unsigned long long	Vd_9_l9;

@@ -22,7 +22,7 @@ int main(int argc, char** argv)
     Hj3H50t4WJ  =  Zj00O  =  S4wW55N  =  R3_9dS1  =  FAgB_Yd33T  =  Rp7Bml_La_  =  a4h_U  =  k5P9c1y2O  =  atBbfX8t76  =  QL3E  =  c42iMXe811  =  vShazp47  =  kh6vyX_0  =  r_Ea0nreq  =  bc1GNNmV  =  JG_VnXG  =  AeAbY_9K8F  =  dfut4_qJdx  =  nEthTsd_W0  =  Z0Vk  =  sG253_uj  =  d7nu_D  =  lE8_w01  =  Ir_m_79le8  =  bvCt4T  =  tlzZ  =  vcLB  =  rn1p  =  f6J7e  =  KDanxg  =  eMyj2  =  (short)-1661358051;
 
 Zj00O = (int)abs(Ir_m_79le8);
-nhO_a = HXU56L_yN(eMyj2, (char)-1598422583, d7nu_D, -731908309, bvCt4T);
+nhO_a = HXU56L_yN(eMyj2, (char)-1598422583, d7nu_D, (short)-731908309, bvCt4T);
 
 switch (AeAbY_9K8F)
 {
@@ -79,7 +79,7 @@ FAgB_Yd33T -= 1870849693;
 }
 else
 {
-nhO_a = HXU56L_yN(a4h_U, (char)631374064, -469890853, (short)128552913, 1151507859);
+nhO_a = HXU56L_yN(a4h_U, (char)631374064, -469890853, (short)128552913, (unsigned char)1151507859);
 }
 }
 }
@@ -94,7 +94,7 @@ while (i >= 0)
 switch (nEthTsd_W0)
 {
 case 0:
-nhO_a = HXU56L_yN(bc1GNNmV, (char)418335934, f6J7e, (short)-1787738673, 1335392575);
+nhO_a = HXU56L_yN(bc1GNNmV, (char)418335934, f6J7e, (short)-1787738673, (unsigned char)1335392575);
 break;
 case 1:
 Hj3H50t4WJ = lnF6x9p3();

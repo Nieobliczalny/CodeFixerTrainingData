@@ -46,7 +46,7 @@ int main(int argc, char** argv) {
  unsigned short int pqPF1X9;
  pqPF1X9 = (unsigned short)-1967045986;
     unsigned char    l7wElcX0;
-    l7wElcX0    =    666067360;
+    l7wElcX0    =    (unsigned char)666067360;
   long  frCOSqGt49;
   frCOSqGt49  =  1783164008;
 	double	D8xk810f;
@@ -66,7 +66,7 @@ int main(int argc, char** argv) {
     unsigned short    I_kvMZU3Id;
     I_kvMZU3Id    =    (unsigned short)-1029836487;
  unsigned short int E_wQFAm3W;
- E_wQFAm3W = -1293264478;
+ E_wQFAm3W = (unsigned short)-1293264478;
  long k3187He;
  k3187He = 74149053;
   long  goB5;
@@ -76,7 +76,7 @@ int main(int argc, char** argv) {
 	unsigned short	JLUCX;
 	JLUCX	=	(unsigned short)-649460523;
   unsigned short  Bm5II44;
-  Bm5II44  =  806325613;
+  Bm5II44  =  (unsigned short)806325613;
 	double	nq49ma;
 	nq49ma	=	-298908803;
     int    TwGTC0mp_;
@@ -90,7 +90,7 @@ int main(int argc, char** argv) {
     double    APac;
     APac    =    1544009242;
  unsigned char AgK9aK;
- AgK9aK = -425791119;
+ AgK9aK = (unsigned char)-425791119;
  unsigned long long AesQ;
  AesQ = 1470078724;
  unsigned int fmpT;
@@ -183,7 +183,7 @@ case 'h':
 i6a4_HXM5P = kng1420_f(i6a4_HXM5P, o_CEY17L4);
 break;
 case 'i':
-AgK9aK = jRxA48hdvN(1801671603, -2032119134, TwGTC0mp_);
+AgK9aK = jRxA48hdvN(1801671603, (unsigned char)-2032119134, TwGTC0mp_);
 break;
 case 'j':
 WV1lT4i <<= pqPF1X9;

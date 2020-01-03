@@ -31,7 +31,7 @@ h7s4fV += 790213394;
 break;
 case 'c':
 case 'C':
-yuK_4kibP = wT1pp(Cz0NV2f, 790239543, RjV4W, -1186934349);
+yuK_4kibP = wT1pp(Cz0NV2f, 790239543, RjV4W, (char)-1186934349);
 break;
 case 'd':
 case 'D':
@@ -320,7 +320,7 @@ while (j >= 0);
 }
 else
 {
-std::cout << v8yAo << wT1pp((short)1808132551, -935843336, (short)1390674444, -339721694) << h7s4fV << Vj_I25 << "gK9jo8" << std::endl;
+std::cout << v8yAo << wT1pp((short)1808132551, -935843336, (short)1390674444, (char)-339721694) << h7s4fV << Vj_I25 << "gK9jo8" << std::endl;
 }
 gQk_1ulYw1 = E7L5Ew62 + 2078340204;
 

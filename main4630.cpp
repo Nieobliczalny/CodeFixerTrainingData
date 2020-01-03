@@ -107,7 +107,7 @@ G9sO = g4WVnkZX9((unsigned short)295947459, bd23l, ApSKL_6f, (unsigned short)-24
 break;
 case 'g':
 case 'G':
-ApSKL_6f = v4ATH4EE(290464839, eTM_TS5UM, xV6X_, -1604362201);
+ApSKL_6f = v4ATH4EE((unsigned char)290464839, eTM_TS5UM, xV6X_, -1604362201);
 break;
 case 'h':
 case 'H':

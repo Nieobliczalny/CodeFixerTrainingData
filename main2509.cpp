@@ -237,7 +237,7 @@ case 0:
 B_94 = X_4ieM0lnh((unsigned short)-1086750890, (short)149750491);
 break;
 case 1:
-UFPeorElt = dm2254NM(-448729102, 1126964615);
+UFPeorElt = dm2254NM((unsigned short)-448729102, 1126964615);
 break;
 case 2:
 s_fm0e2 = dm2254NM(-1000170271, q0FvKMw7NA);
@@ -726,7 +726,7 @@ case 'e':
 eGZ79n7Ap >>= 36720560;
 break;
 case 'f':
-cGW57jZL = dm2254NM(1962547816, b8Mb6pG1K);
+cGW57jZL = dm2254NM((unsigned short)1962547816, b8Mb6pG1K);
 break;
 case 'g':
 bh2Q = goBXRcrFM();

@@ -19,7 +19,7 @@ int main(void) {
 	char	yF47	=	(char)-532992035;
 	unsigned long	Y4Qc6H0	=	-723961805;
   char  v84eH  =  (char)1118614783;
-    short int    vrhIE9wg    =    1288112961;
+    short int    vrhIE9wg    =    (short)1288112961;
     unsigned char    qYJ20n6VX    =    -1817074023;
   unsigned int  KqcU  =  1505430554;
 	long	iW_M81qO	=	-1256383218;
@@ -31,7 +31,7 @@ int main(void) {
  short yXq1_q8 = (short)-1184997767;
  unsigned long t7qfdz = -523088835;
     unsigned char    s9Fs7Ac    =    (unsigned char)-1146006974;
-    char    qKAv53Xg    =    303982329;
+    char    qKAv53Xg    =    (char)303982329;
 	unsigned short int	V0HIUq88EJ	=	1400281004;
 	long double	N7xy	=	690919186;
     long long    CCS5    =    958731632;
@@ -42,7 +42,7 @@ int main(void) {
   unsigned short int  o1zJ80zYqC  =  (unsigned short)471006900;
     short int    aM6V_    =    (short)187161740;
  long double Qy4dn = 1131689448;
-	short int	xJ2Pdkt	=	344412628;
+	short int	xJ2Pdkt	=	(short)344412628;
     unsigned short int    P2qJ8As    =    -1726819513;
  short ppyN = 1124638192;
   long  MaGSe  =  -2096624805;
@@ -60,7 +60,7 @@ int main(void) {
 	float	lU78AxkGU	=	-1217694251;
 	unsigned char	Cp0uqpNJ	=	(unsigned char)109644320;
 	unsigned long long	AAnt04g	=	-1395420744;
-    unsigned char    QKdG    =    -647633678;
+    unsigned char    QKdG    =    (unsigned char)-647633678;
 	short int	Jtw_bro	=	(short)-1231008200;
   unsigned short  R7_01  =  933952958;
  float qhWI = 371294078;
@@ -73,7 +73,7 @@ int main(void) {
   float  rsB2bPVZ  =  301134557;
 	unsigned short	m_a3s493f	=	(unsigned short)324128376;
     unsigned int    UYl5y7f    =    1786969356;
- unsigned char wY5Zs7_7 = -358409085;
+ unsigned char wY5Zs7_7 = (unsigned char)-358409085;
  unsigned long YEp228f3M = 911336111;
   char  O7277IBi  =  828114239;
 	float	bM9dg64yNy	=	-1994861800;
@@ -87,7 +87,7 @@ int main(void) {
 	char	wKxAB	=	(char)251672264;
 	double	g8T8_81M8	=	97004974;
 	unsigned long	P_Yc	=	-1002244862;
-  short int  be8H2  =  -1287603323;
+  short int  be8H2  =  (short)-1287603323;
 	short int	hpqQ	=	-2052572160;
 	long long	tg_n_rc	=	-1167927120;
     float    K0M0V_    =    -40889958;

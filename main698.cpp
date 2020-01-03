@@ -34,7 +34,7 @@ int main()
 	unsigned short	DPE2VBI_	=	(unsigned short)-97021581;
     short    Z53R_BCiN    =    (short)768143631;
     unsigned int    Y1wTD_Do3e    =    247899780;
-    unsigned short int    J3NMEK    =    170147715;
+    unsigned short int    J3NMEK    =    (unsigned short)170147715;
 	short	Ij22p5h08	=	393606587;
   long double  bRqF_7  =  24015439;
   short int  pc6Zpf597P  =  2128962935;
@@ -51,7 +51,7 @@ int main()
     unsigned long    r9_Acu    =    -2016990873;
  short XW6933e1za = (short)833186376;
   float  rW_70LDD  =  -728207357;
-  short int  dT8u4  =  1307540564;
+  short int  dT8u4  =  (short)1307540564;
     int    MJ1_A_E1l_    =    1764498595;
  short int JWEFG_SH2 = -403432627;
   unsigned int  kT6kGy7VP  =  -913782052;

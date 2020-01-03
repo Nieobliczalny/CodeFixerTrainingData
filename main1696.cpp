@@ -55,7 +55,7 @@ else
 {
 std::cout << "e9sSpi" << W0o_bB((short)-1297712342, -2062116626, D_2nQHf, zE5h, (unsigned char)591708793) << JzbpOR(hns9Kf, -341171032) << U61Ntv7k4W << std::endl;
 }
-x8MuW = lW47(-229246118, -869458655, -552004854, 798462701, L5_PE2);
+x8MuW = lW47((unsigned short)-229246118, -869458655, -552004854, 798462701, L5_PE2);
 {
 int i = 6;
 while (i >= 0)

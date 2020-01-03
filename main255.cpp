@@ -42,7 +42,7 @@ int main(int argc, char** argv)
 	int	zL786f;
 	zL786f	=	0;
  short B__V3;
- B__V3 = 219864327;
+ B__V3 = (short)219864327;
     unsigned short    g_gKqTZ;
     g_gKqTZ    =    (unsigned short)-647738850;
     long long    b6854;
@@ -62,7 +62,7 @@ int main(int argc, char** argv)
   unsigned long long  w2G00vJs7O;
   w2G00vJs7O  =  0;
     short    k92k6PCZz;
-    k92k6PCZz    =    -1890640950;
+    k92k6PCZz    =    (short)-1890640950;
   unsigned short int  P_15;
   P_15  =  -1665431896;
  unsigned char grJYKh6_7Y;
@@ -74,7 +74,7 @@ int main(int argc, char** argv)
     long    V58Z;
     V58Z    =    -1680515299;
   short  u5CQY;
-  u5CQY  =  1024260725;
+  u5CQY  =  (short)1024260725;
     unsigned short int    c4V2wtF;
     c4V2wtF    =    (unsigned short)978429854;
 
@@ -179,7 +179,7 @@ case 'a':
 t_6Vu_ = (Wr44Pb1 & -1793557274) ? WEjolX : c4V2wtF;
 break;
 case 'b':
-e42IW_ = BWocF((unsigned char)-1850481225, (short)-1451306640, 2063478887);
+e42IW_ = BWocF((unsigned char)-1850481225, (short)-1451306640, (short)2063478887);
 break;
 case 'c':
 w2G00vJs7O = LKnt();

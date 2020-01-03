@@ -46,7 +46,7 @@ int main(int argc, char** argv) {
   unsigned int  wr5e5Cd;
   wr5e5Cd  =  1353376102;
 	unsigned char	F9OzOE36uJ;
-	F9OzOE36uJ	=	1615717407;
+	F9OzOE36uJ	=	(unsigned char)1615717407;
 	short int	Vrr3pTw84o;
 	Vrr3pTw84o	=	0;
  short oGQB7KSm;
@@ -100,7 +100,7 @@ int main(int argc, char** argv) {
 	unsigned char	RxBFb2;
 	RxBFb2	=	(unsigned char)-1081272092;
 	short int	x_0e2_Usn;
-	x_0e2_Usn	=	-416266469;
+	x_0e2_Usn	=	(short)-416266469;
 	long long	EUmw_DNRM;
 	EUmw_DNRM	=	-182380710;
     float    b6C2y;
@@ -122,7 +122,7 @@ int main(int argc, char** argv) {
     unsigned long long    x51_g0M8_q;
     x51_g0M8_q    =    1487995906;
     short int    zwl6Qt_NF4;
-    zwl6Qt_NF4    =    1460471570;
+    zwl6Qt_NF4    =    (short)1460471570;
   short  G6R6Pw;
   G6R6Pw  =  (short)-1651240277;
     unsigned long long    cM_24wn4;
@@ -144,7 +144,7 @@ int main(int argc, char** argv) {
 	short	lq5SS;
 	lq5SS	=	(short)-437933716;
  short int Ihll;
- Ihll = -870821625;
+ Ihll = (short)-870821625;
 	short int	dr_Wx2pP;
 	dr_Wx2pP	=	822500068;
   double  P6pVV28mY;
@@ -292,7 +292,7 @@ CwB6XYD2 = mGBSTLgN((unsigned char)246596307, Mf3P4Ws1, x51_g0M8_q);
 }
 else if (qi9wkVYwr == P6pVV28mY)
 {
-g_z90UebPH = (nYH1yeO2 >= -869154185) ? ObD0(f2iF82, (unsigned short)1988257199, 1278363371, qi9wkVYwr, -1999811072) : O2N_o9sZ;
+g_z90UebPH = (nYH1yeO2 >= -869154185) ? ObD0(f2iF82, (unsigned short)1988257199, (unsigned short)1278363371, qi9wkVYwr, -1999811072) : O2N_o9sZ;
 }
 else
 {
@@ -335,7 +335,7 @@ if (NsLM4x < XRrXJLm)
 switch (wr5e5Cd)
 {
 case 0:
-RL044k = ObD0((unsigned char)-238901078, DvP3v, (unsigned short)1280676775, 1057820890, Z5tV8asvi);
+RL044k = ObD0((unsigned char)-238901078, DvP3v, (unsigned short)1280676775, (short)1057820890, Z5tV8asvi);
 break;
 case 1:
 A5t7Np31 = ObD0(A5t7Np31, Z5tV8asvi, bYVN, RL044k, -174346279);
@@ -376,7 +376,7 @@ P6pVV28mY = (int)ceil(Mf3P4Ws1);
 break;
 case 'd':
 case 'D':
-f2iF82 = ObD0((unsigned char)57736769, (unsigned short)254422329, 416867488, -829038877, knjjmtXk5);
+f2iF82 = ObD0((unsigned char)57736769, (unsigned short)254422329, (unsigned short)416867488, -829038877, knjjmtXk5);
 break;
 default:
 UsSe18G4NP /= 1996058078;
@@ -676,7 +676,7 @@ XF_y59 = phxE6kROb >> 1509245747;
 break;
 case 'c':
 case 'C':
-QpDWCKS1iD = ObD0((unsigned char)-718570548, x51_g0M8_q, px48, U906eUq_2, -1582352337);
+QpDWCKS1iD = ObD0((unsigned char)-718570548, x51_g0M8_q, px48, U906eUq_2, (unsigned char)-1582352337);
 break;
 default:
 px48 = phxE6kROb >> XfPzWR;

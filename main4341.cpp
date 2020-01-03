@@ -35,7 +35,7 @@ int main(int argc, char** argv)
   unsigned char  WXx0Vvg0fK;
   WXx0Vvg0fK  =  (unsigned char)320768695;
 	unsigned char	U50L_;
-	U50L_	=	1942901649;
+	U50L_	=	(unsigned char)1942901649;
     float    A7i8aPS8V;
     A7i8aPS8V    =    1544648589;
  unsigned short int UBsAM;
@@ -57,7 +57,7 @@ int main(int argc, char** argv)
     int    W_TgQ14k1j;
     W_TgQ14k1j    =    -1483661014;
     short    esXDdjp_8B;
-    esXDdjp_8B    =    -839411865;
+    esXDdjp_8B    =    (short)-839411865;
     unsigned short    BNW0Z;
     BNW0Z    =    (unsigned short)-274814722;
     unsigned int    zKs004pD3A;
@@ -75,7 +75,7 @@ int main(int argc, char** argv)
 	float	u9kA;
 	u9kA	=	-60143291;
   unsigned short  yPEK9;
-  yPEK9  =  1109217539;
+  yPEK9  =  (unsigned short)1109217539;
     unsigned char    kpJ8GM;
     kpJ8GM    =    0;
     unsigned short int    NQro4hR1K_;
@@ -87,7 +87,7 @@ int main(int argc, char** argv)
  unsigned short q80PtHVJLi;
  q80PtHVJLi = (unsigned short)1808295751;
     short int    ZJJnQ26;
-    ZJJnQ26    =    -1560064257;
+    ZJJnQ26    =    (short)-1560064257;
  unsigned char HG4S;
  HG4S = (unsigned char)1488436353;
   long double  aEkFG5S3_6;
@@ -105,7 +105,7 @@ int main(int argc, char** argv)
     short    vr0OnC65;
     vr0OnC65    =    (short)-916029927;
  unsigned short n1_Eg4iWv;
- n1_Eg4iWv = -1521351227;
+ n1_Eg4iWv = (unsigned short)-1521351227;
     unsigned short int    Ex14M8MpY0;
     Ex14M8MpY0    =    -100451954;
  short gY_aYDhB;
@@ -117,7 +117,7 @@ int main(int argc, char** argv)
 	short	j92ga709pE;
 	j92ga709pE	=	(short)-702024199;
     char    aGanx;
-    aGanx    =    202379802;
+    aGanx    =    (char)202379802;
     unsigned char    u3vZts;
     u3vZts    =    (unsigned char)1428284847;
 	unsigned short int	tO_3F0Nz;
@@ -143,7 +143,7 @@ int main(int argc, char** argv)
  short int Ru9v3;
  Ru9v3 = (short)-2052069088;
   char  Z95w4;
-  Z95w4  =  -1721997475;
+  Z95w4  =  (char)-1721997475;
  long u5bG_;
  u5bG_ = 0;
   unsigned char  B61T;
@@ -177,7 +177,7 @@ int main(int argc, char** argv)
 	unsigned long	k9s559fg4;
 	k9s559fg4	=	430944692;
  unsigned char ru_Z7_;
- ru_Z7_ = -340713714;
+ ru_Z7_ = (unsigned char)-340713714;
 	unsigned char	QNt_P0;
 	QNt_P0	=	(unsigned char)-437689548;
 	long double	FPlC8O_;

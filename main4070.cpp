@@ -37,7 +37,7 @@ int main(void)
 	char	noO4Ucw;
 	noO4Ucw	=	(char)-617067905;
     short    UtrA;
-    UtrA    =    -963834380;
+    UtrA    =    (short)-963834380;
     short    D2N6Ez;
     D2N6Ez    =    (short)-482192045;
  int fNe_Q64O_;
@@ -67,7 +67,7 @@ int main(void)
  unsigned short MJ1frTB8L0;
  MJ1frTB8L0 = (unsigned short)-1666999826;
   unsigned short int  ClG8K;
-  ClG8K  =  -1805912317;
+  ClG8K  =  (unsigned short)-1805912317;
  unsigned long B046SKO1;
  B046SKO1 = 494515926;
 	long double	H_H_6Pr;
@@ -81,7 +81,7 @@ int main(void)
   unsigned short  VqdFYZU;
   VqdFYZU  =  (unsigned short)-873935470;
  char v90Ofw;
- v90Ofw = 84387325;
+ v90Ofw = (char)84387325;
 	char	twvAbrwzO3;
 	twvAbrwzO3	=	799034156;
 	long double	oDy52R;
@@ -105,7 +105,7 @@ int main(void)
 	long long	s6V9N;
 	s6V9N	=	1969393365;
   unsigned char  as99VB4IPE;
-  as99VB4IPE  =  -441015784;
+  as99VB4IPE  =  (unsigned char)-441015784;
   int  R107qFC;
   R107qFC  =  -1043204191;
 	short int	q_zv;
@@ -121,7 +121,7 @@ int main(void)
   unsigned short int  ZH_zs7Nh;
   ZH_zs7Nh  =  (unsigned short)-1577726952;
  char rc2574b72;
- rc2574b72 = -1042435326;
+ rc2574b72 = (char)-1042435326;
     char    p_7w7wziA;
     p_7w7wziA    =    1536187080;
   int  tr2Ky2;
@@ -141,7 +141,7 @@ int main(void)
   char  yEq1K_epBf;
   yEq1K_epBf  =  (char)1674091538;
     char    bvXJO5C3;
-    bvXJO5C3    =    1304790823;
+    bvXJO5C3    =    (char)1304790823;
     unsigned long    G_8KVj43;
     G_8KVj43    =    -1127859172;
     char    U8TSwZz;
@@ -153,7 +153,7 @@ int main(void)
     short    X6mPTi;
     X6mPTi    =    (short)-942703592;
 	short int	K7b_52B;
-	K7b_52B	=	-708786418;
+	K7b_52B	=	(short)-708786418;
     unsigned short    XRKD;
     XRKD    =    (unsigned short)-1060545834;
 	short	z3wQ4pe6K5;
@@ -178,7 +178,7 @@ int main(void)
     I9q_    =    (unsigned short)2100917550;
 
 DLZ28 = (short int)(v90Ofw);
-ClG8K = (MJ1frTB8L0 < 890140087) ? m9sJi(-2014042186, oDy52R, HvDjjp3, -1980495454) : HdTk;
+ClG8K = (MJ1frTB8L0 < 890140087) ? m9sJi(-2014042186, oDy52R, HvDjjp3, (short)-1980495454) : HdTk;
 
 std::cout << fNe_Q64O_ << std::endl;
 

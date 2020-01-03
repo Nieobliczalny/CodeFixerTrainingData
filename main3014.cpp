@@ -29,7 +29,7 @@ case 1:
 B249b = dax0F50((unsigned short)-938560862);
 break;
 case 2:
-B249b = dax0F50(1466443723);
+B249b = dax0F50((unsigned short)1466443723);
 break;
 case 3:
 B249b = dax0F50(RKJX);
@@ -85,7 +85,7 @@ B249b = dax0F50((unsigned short)-285983510);
 break;
 case 'h':
 case 'H':
-B249b = dax0F50(-1449519118);
+B249b = dax0F50((unsigned short)-1449519118);
 break;
 case 'i':
 case 'I':
@@ -107,7 +107,7 @@ B249b = dax0F50((unsigned short)-2039395629);
 }
 
 std::cout << "Y7I2KQpj" << dax0F50((unsigned short)-1477419797) << "i53OUd" << std::endl;
-std::cout << dax0F50(308523530) << "I6Eo60" << dax0F50(hlSiWtt942) << OF_1gRYy0 << std::endl;
+std::cout << dax0F50((unsigned short)308523530) << "I6Eo60" << dax0F50(hlSiWtt942) << OF_1gRYy0 << std::endl;
 
 {
 int i = 0;

@@ -123,7 +123,7 @@ case 2:
 KTP3 = R9R_kq330_ | mkt7_3U1p;
 break;
 case 3:
-KTP3 = baiu8((unsigned char)2042165975, -65214954, -920546941, 382370559);
+KTP3 = baiu8((unsigned char)2042165975, -65214954, (short)-920546941, 382370559);
 break;
 case 4:
 Z3dJP |= 121428650;

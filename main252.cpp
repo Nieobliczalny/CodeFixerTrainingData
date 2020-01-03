@@ -40,7 +40,7 @@ int main() {
   short int  V2GDKTLvz  =  (short)-735357512;
     unsigned long long    QNUtdbjfF_    =    -1893703347;
  long long vbMzjS792U = -183326202;
-	char	VJkL3WE51T	=	-1715765737;
+	char	VJkL3WE51T	=	(char)-1715765737;
     unsigned int    kzM6I    =    1507749522;
     short    m2lh6    =    -1470252310;
     short    eT3mAu00N5    =    1037769286;
@@ -53,7 +53,7 @@ int main() {
     unsigned long    E955Mzq9Zx    =    2106084826;
   unsigned long long  q1hw_q  =  237844455;
  unsigned int kGOI = -415428838;
- short int Z61G996h2x = -401834491;
+ short int Z61G996h2x = (short)-401834491;
   short  JD66D  =  -203072055;
   short  HFv49  =  (short)-1104376720;
     unsigned short    rbmxX9    =    1952053686;
@@ -63,7 +63,7 @@ int main() {
   short int  RHP5y  =  -128693969;
     int    D10e3_2__    =    57435255;
   unsigned int  uK_e  =  1567554407;
-    char    F7KIL0    =    -61655436;
+    char    F7KIL0    =    (char)-61655436;
   long double  oF0o3O2tCU  =  1675404051;
 	unsigned long long	rB7gK_	=	595298377;
  short CfJM = (short)-1167022236;
@@ -74,7 +74,7 @@ int main() {
   unsigned short  S3G1_4  =  1522891113;
 	int	M79143L3	=	-1213922464;
  float tNIM3y = 1900572787;
-    unsigned short    Q9Mq    =    -1520487945;
+    unsigned short    Q9Mq    =    (unsigned short)-1520487945;
 	unsigned short	jZ8TrD	=	-1137768198;
  float r01_Ex = 280202052;
 
@@ -185,7 +185,7 @@ dS054f = S3f0QUHrJ9(dS054f, (unsigned short)-1956744333, RHP5y, (char)-765906411
 switch (XI209_t)
 {
 case 0:
-V2GDKTLvz = xh8JXw2a(519062226, -441038764, EYqX, m2lh6, -1151323357);
+V2GDKTLvz = xh8JXw2a(519062226, (short)-441038764, EYqX, m2lh6, -1151323357);
 break;
 case 1:
 r01_Ex = (int)floor(iQGTz);
@@ -323,7 +323,7 @@ m2lh6 = (int)abs(iQGTz);
 }
 else if (yk147T == VJkL3WE51T)
 {
-o6jI = xh8JXw2a(o6jI, (short)1949277136, q1hw_q, -1150732700, 757277910);
+o6jI = xh8JXw2a(o6jI, (short)1949277136, q1hw_q, (short)-1150732700, 757277910);
 }
 else
 {
@@ -355,7 +355,7 @@ RTaP = M79143L3 / 1102914849;
 }
 IMOWsXkO = xh8JXw2a(1857514493, (short)-419328184, HFv49, (short)-1747229204, ZR5U);
 
-VJkL3WE51T = G42vSiIT(231206230, k3a9dSvQR, 1271306490, -2008541117);
+VJkL3WE51T = G42vSiIT(231206230, k3a9dSvQR, (char)1271306490, -2008541117);
 try
 {
 for (int j = 0; j < 1; ++j)

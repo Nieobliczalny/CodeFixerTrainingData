@@ -20,7 +20,7 @@ int main(int argc, char** argv)
   char  Ezw_K  =  (char)791984895;
 	unsigned long long	uODgM	=	0;
   unsigned long  aAh3I4g  =  1894170754;
- char UzQn9WDl = -1676286468;
+ char UzQn9WDl = (char)-1676286468;
 	unsigned int	Swim5b	=	1923075789;
   char  bJ61nuO  =  576354898;
  long long JmSR3Xw = 0;
@@ -69,7 +69,7 @@ std::cout << WEKFwG_9(Swim5b, P896L0W4g, Tzj4o8TW_g, -11478729, bJ61nuO) << sp1w
 }
 else if ((bJ61nuO <= 1789784788) || (CeHf5 != aAh3I4g))
 {
-std::cout << WEKFwG_9(Swim5b, (short)1527341493, 527359973, -1353569883, -1867855063) << Swim5b << JmSR3Xw << P896L0W4g << "l9Vurx3nN" << std::endl;
+std::cout << WEKFwG_9(Swim5b, (short)1527341493, (unsigned short)527359973, -1353569883, -1867855063) << Swim5b << JmSR3Xw << P896L0W4g << "l9Vurx3nN" << std::endl;
 }
 else
 {
@@ -79,7 +79,7 @@ std::cout << "AQf_VxD" << "ibEddZ27" << "GH8l4bK0" << std::endl;
 JmSR3Xw = sp1wm(JmSR3Xw, (char)-1283661511, UzQn9WDl, 1288906701);
 for (int i = 6; i >= 0; i--)
 {
-std::cout << sp1wm(JmSR3Xw, (char)-1487271296, -1596575897, MFxb6dk) << std::endl;
+std::cout << sp1wm(JmSR3Xw, (char)-1487271296, (short)-1596575897, MFxb6dk) << std::endl;
 }
 switch (Ezw_K)
 {

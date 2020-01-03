@@ -30,7 +30,7 @@ int main(void) {
 	int	G026mTc	=	-1829571702;
   double  Yg3v  =  2071023353;
 	unsigned long long	FbB7_j8VG	=	-403530614;
-    unsigned short    bZyY7SY3e    =    781507498;
+    unsigned short    bZyY7SY3e    =    (unsigned short)781507498;
  double b3UhVQ = -943654698;
  long double R058Ogl_p = -1519314248;
   short  pyhxOY  =  (short)-154639165;
@@ -53,7 +53,7 @@ int main(void) {
  short int Yqt3bhh1_ = (short)-1466005297;
   unsigned short  XOGk1  =  0;
 	unsigned long long	HLj8P7rf9B	=	2007413176;
-	char	DGUQT27	=	317900442;
+	char	DGUQT27	=	(char)317900442;
 
 Py_0M--;
 for (int i = 0; i < 1; i++)

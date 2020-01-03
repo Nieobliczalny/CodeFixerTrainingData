@@ -23,7 +23,7 @@ int main(void)
 	unsigned char	C25c30;
 	C25c30	=	(unsigned char)938312136;
     short int    W7pPT966g;
-    W7pPT966g    =    -728389036;
+    W7pPT966g    =    (short)-728389036;
  char XnKQwNG;
  XnKQwNG = 1944707415;
  unsigned long B2Z8;
@@ -45,7 +45,7 @@ int main(void)
 	unsigned short int	N0Aw0;
 	N0Aw0	=	(unsigned short)-140776762;
 	char	nyBFI6Q;
-	nyBFI6Q	=	-1867371897;
+	nyBFI6Q	=	(char)-1867371897;
     unsigned short int    ITb51fME99;
     ITb51fME99    =    1997280647;
   double  N0Ga;
@@ -95,7 +95,7 @@ int main(void)
     short int    Xo10N;
     Xo10N    =    (short)-1104188709;
   unsigned short int  e_ubycJ1K;
-  e_ubycJ1K  =  -1075779951;
+  e_ubycJ1K  =  (unsigned short)-1075779951;
     long    r_J6;
     r_J6    =    -953873337;
     long    vZ58xIphA;
@@ -109,7 +109,7 @@ int main(void)
 	float	Cw2J2N4m96;
 	Cw2J2N4m96	=	1499439650;
     unsigned char    Damnjk_1;
-    Damnjk_1    =    -1357170695;
+    Damnjk_1    =    (unsigned char)-1357170695;
 
 if (w31Gx3c == 1875871787)
 {

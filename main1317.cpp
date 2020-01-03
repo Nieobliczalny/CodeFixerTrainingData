@@ -300,7 +300,7 @@ case 'f':
 br040R5b ^= 558387013;
 break;
 case 'g':
-M3Yd7 = (br040R5b >= 1711385787) ? AdusK858g5 : 753553095;
+M3Yd7 = (br040R5b >= 1711385787) ? AdusK858g5 : (unsigned short)753553095;
 break;
 case 'h':
 H185c85CAI = wM2YD540 >> Y9Jos3;

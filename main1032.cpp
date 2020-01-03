@@ -37,7 +37,7 @@ int main(int argc, char** argv) {
 	unsigned char	LBJO2;
 	LBJO2	=	(unsigned char)-255022330;
     unsigned short int    W8Hv;
-    W8Hv    =    2068552814;
+    W8Hv    =    (unsigned short)2068552814;
     int    gC2V;
     gC2V    =    -1481626877;
   double  N31r8;
@@ -47,7 +47,7 @@ int main(int argc, char** argv) {
  unsigned char plS5qX8y;
  plS5qX8y = (unsigned char)358585534;
     unsigned short    nH5X8mP7;
-    nH5X8mP7    =    1367098440;
+    nH5X8mP7    =    (unsigned short)1367098440;
   int  RUQ4Cd414z;
   RUQ4Cd414z  =  -847236341;
     unsigned short    mbD9B5xw9n;
@@ -63,7 +63,7 @@ int main(int argc, char** argv) {
  unsigned int zCPB;
  zCPB = -1802513766;
  short at20s;
- at20s = -487066699;
+ at20s = (short)-487066699;
 	long double	B3134;
 	B3134	=	865896896;
  double Hh77;
@@ -99,7 +99,7 @@ int main(int argc, char** argv) {
 	char	iEm1zY1ecC;
 	iEm1zY1ecC	=	(char)998724676;
 	char	LqUqH_Co;
-	LqUqH_Co	=	1937875634;
+	LqUqH_Co	=	(char)1937875634;
   unsigned int  IhO7E;
   IhO7E  =  0;
   short int  S6deS;
@@ -125,7 +125,7 @@ int main(int argc, char** argv) {
     unsigned char    il6Z39y;
     il6Z39y    =    (unsigned char)2001597093;
     short    O71p1;
-    O71p1    =    -1807429475;
+    O71p1    =    (short)-1807429475;
 	unsigned int	TLo17W92n;
 	TLo17W92n	=	0;
   float  Tjg3ZL8;
@@ -139,7 +139,7 @@ int main(int argc, char** argv) {
   int  qx9G3KBnD4;
   qx9G3KBnD4  =  -143158815;
 	unsigned short	zqRK3xwXW5;
-	zqRK3xwXW5	=	-634586988;
+	zqRK3xwXW5	=	(unsigned short)-634586988;
   unsigned long  lO7t672pvN;
   lO7t672pvN  =  165517910;
   long long  ptO3aLc;
@@ -153,7 +153,7 @@ int main(int argc, char** argv) {
   short int  tFE0DDdc3T;
   tFE0DDdc3T  =  (short)-1951287310;
 	unsigned char	p_Ro;
-	p_Ro	=	-1039505299;
+	p_Ro	=	(unsigned char)-1039505299;
 	short int	LSQmKmr4o2;
 	LSQmKmr4o2	=	(short)-1160822306;
  char zqbAT__WM;
@@ -169,7 +169,7 @@ int main(int argc, char** argv) {
 	unsigned short int	ZiTYXouNFu;
 	ZiTYXouNFu	=	(unsigned short)1595001555;
   unsigned char  E_XYBm;
-  E_XYBm  =  -2010151159;
+  E_XYBm  =  (unsigned char)-2010151159;
  short mkHd1cM2ba;
  mkHd1cM2ba = 1108171018;
   short  vsazGG;
@@ -220,7 +220,7 @@ case 2:
 xYRA_Tw_--;
 break;
 case 3:
-TLo17W92n = S7_r3(X_RT6, ptO3aLc, 2011871204);
+TLo17W92n = S7_r3(X_RT6, ptO3aLc, (char)2011871204);
 break;
 case 4:
 N31r8 = (int)floor(GZJY4pUp);

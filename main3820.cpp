@@ -32,7 +32,7 @@ int main(int argc, char** argv)
 {
  float Il7u = 1249026510;
   short int  kprvHZDeT_  =  (short)-159729493;
-	unsigned char	N57_UL5az2	=	918900211;
+	unsigned char	N57_UL5az2	=	(unsigned char)918900211;
  short int VrIS5N6 = 122802101;
 	short	J2WWz22S	=	1965033784;
     unsigned int    NL9qsW8j7    =    1040964156;
@@ -44,7 +44,7 @@ int main(int argc, char** argv)
   unsigned long  k7m_uo0  =  833374284;
   unsigned short  nMPBP  =  (unsigned short)-963044847;
   unsigned int  O5M3oa  =  -1014605932;
-	char	pA6d3dd1_d	=	-444280601;
+	char	pA6d3dd1_d	=	(char)-444280601;
   int  o96_N96Q  =  1764062019;
   short  i9Jh9  =  (short)511503389;
 	int	zC_cipbH	=	863834703;
@@ -60,7 +60,7 @@ int main(int argc, char** argv)
     unsigned char    V0zjFzzF2H    =    (unsigned char)971221382;
     unsigned char    oKl9M06y    =    (unsigned char)-1543514684;
  float DcG2mDW23z = 747672963;
- char kZw_4 = -1636823654;
+ char kZw_4 = (char)-1636823654;
     long    yMtu0_O    =    -1631602121;
  char k5893clubk = -2146843384;
   double  UuCXLGtII  =  2008142087;
@@ -70,7 +70,7 @@ int main(int argc, char** argv)
  unsigned long long ByR7_r = 84283748;
   unsigned short int  eozk  =  (unsigned short)1554263589;
  unsigned char A1VU4 = (unsigned char)-1322666047;
-  unsigned short int  imdj  =  -1621233767;
+  unsigned short int  imdj  =  (unsigned short)-1621233767;
     double    iwN3wZ1    =    -392268680;
  unsigned long C7686MrGa = -1199550050;
  unsigned char bsLg = -1704190340;
@@ -81,7 +81,7 @@ int main(int argc, char** argv)
     long double    j475    =    1705970021;
   short  rD1aaim2U  =  (short)-1590180345;
     unsigned short int    qAw5VJcey    =    (unsigned short)-27956846;
-  unsigned short int  MeqPw7x8k  =  31428276;
+  unsigned short int  MeqPw7x8k  =  (unsigned short)31428276;
   unsigned long long  z4cJcSgZoS  =  -1067537176;
   unsigned long  Xx57U0a  =  752228;
   int  T3o1p4Y7I  =  1143059133;
@@ -116,7 +116,7 @@ int main(int argc, char** argv)
   float  kA9tvr72J  =  -986160142;
 	unsigned short int	X9_0o74X_8	=	(unsigned short)-158068216;
   double  t2jY  =  527430371;
-    unsigned short int    VVRZ_4b    =    -747151268;
+    unsigned short int    VVRZ_4b    =    (unsigned short)-747151268;
 
 if ((e97q7 / G1DB4_x) == -464452203)
 {

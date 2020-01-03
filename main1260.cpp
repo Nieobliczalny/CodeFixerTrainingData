@@ -83,7 +83,7 @@ int main() {
 	char	zj2k;
 	zj2k	=	(char)-471679565;
  unsigned char y8p2wb;
- y8p2wb = -1480713596;
+ y8p2wb = (unsigned char)-1480713596;
   short  qkgFpU_zKM;
   qkgFpU_zKM  =  669571939;
   short  PJ5HTFVtt;
@@ -111,7 +111,7 @@ int main() {
     unsigned long long    pcukq818;
     pcukq818    =    -1540696956;
 
-std::cout << VxFHt((short)-35019147, -1088063863, s3y_Sxi2) << kpv3CaY << N8BtO0_S() << std::endl;
+std::cout << VxFHt((short)-35019147, (unsigned short)-1088063863, s3y_Sxi2) << kpv3CaY << N8BtO0_S() << std::endl;
 s3y_Sxi2 = (int)abs(RdY9ax7h2);
 try
 {
@@ -207,7 +207,7 @@ yZv38l /= qkgFpU_zKM;
 }
 ylhGqs = x4J0 + y8p2wb;
 std::cout << VxFHt(I6qi6N62e, ylhGqs, 1518378538) << w5RlR() << x4cjXUxglc() << VxFHt((short)1879596372, ylhGqs, yZv38l) << std::endl;
-GZPEVOZ5yJ = -1809187360 / VxFHt((short)1304967393, -1050400618, yZv38l);
+GZPEVOZ5yJ = -1809187360 / VxFHt((short)1304967393, (unsigned short)-1050400618, yZv38l);
 {
 int i = 1;
 while (i >= 0)

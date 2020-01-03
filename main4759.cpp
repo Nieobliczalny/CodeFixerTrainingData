@@ -24,7 +24,7 @@ int main(int argc, char** argv)
  unsigned short int f_1a22cT;
  f_1a22cT = (unsigned short)-1662497354;
   unsigned short int  J18F1_44;
-  J18F1_44  =  1059661151;
+  J18F1_44  =  (unsigned short)1059661151;
     char    p6N_7o4IHp;
     p6N_7o4IHp    =    142268503;
   long long  JKJVh;
@@ -50,7 +50,7 @@ int main(int argc, char** argv)
 	long	KBL7;
 	KBL7	=	-2004992670;
   short  sX4R2x;
-  sX4R2x  =  -2023863077;
+  sX4R2x  =  (short)-2023863077;
 	unsigned char	VF7CM2nXYO;
 	VF7CM2nXYO	=	0;
 	short	cL5X_P7Vla;
@@ -60,7 +60,7 @@ int main(int argc, char** argv)
  unsigned short int ndOLP6sd;
  ndOLP6sd = -752346184;
     short int    K1c2OE5y_;
-    K1c2OE5y_    =    -1311926981;
+    K1c2OE5y_    =    (short)-1311926981;
     unsigned long    E9W63;
     E9W63    =    -628477823;
 	double	F5imxk;

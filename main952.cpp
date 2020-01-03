@@ -276,7 +276,7 @@ case 4:
 QgWw1Zc1q = T6_S_M__(-1861471114, rPt9o7M, (unsigned short)-252176546);
 break;
 case 5:
-koYecHe = T6_S_M__(rPt9o7M, -707595367, -385428318);
+koYecHe = T6_S_M__(rPt9o7M, (short)-707595367, -385428318);
 break;
 default:
 sHRFFoUR = QoCTL();
@@ -424,7 +424,7 @@ hW138 = V7c1YY | rPt9o7M;
 }
 }
 
-std::cout << "K7uj1" << T6_S_M__(1443634618, (short)1212343140, luP20xKDz) << T6_S_M__(Hx9boHr_tW, (short)-895908252, 1706164282) << std::endl;
+std::cout << "K7uj1" << T6_S_M__(1443634618, (short)1212343140, luP20xKDz) << T6_S_M__(Hx9boHr_tW, (short)-895908252, (unsigned short)1706164282) << std::endl;
 if (((nNQb8e > m3X_U9) || (Hx9boHr_tW == -446426306)) || ((koYecHe >= -958631503) || (wv40FsH3 < tg9MQU1w8g)))
 {
 if (WORSbpS4k <= -1913279183)

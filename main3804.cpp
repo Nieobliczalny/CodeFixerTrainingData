@@ -39,7 +39,7 @@ short int  Pn_tGtvW(short  ZIk5XGr)
 int main() {
  unsigned int jp6lc6 = 985397200;
   unsigned short  cZ_8  =  (unsigned short)1785627968;
-	unsigned short	X7Ue	=	206082744;
+	unsigned short	X7Ue	=	(unsigned short)206082744;
     long    A11Ee9Z56    =    -1839257077;
  unsigned char xs60cFb6 = 560173344;
     unsigned long    E22kmX2_n    =    -335810154;
@@ -50,7 +50,7 @@ int main() {
     double    fK5m_4F2w    =    -1564036436;
  char xN1Ae = (char)-1857911844;
   long  Q605xx7y  =  0;
-	unsigned short int	P3n_Fs7kH	=	-350513971;
+	unsigned short int	P3n_Fs7kH	=	(unsigned short)-350513971;
   unsigned int  Z884  =  318235184;
     float    KzG_    =    -248413647;
     double    aP7Mz4Rz4    =    64446154;
@@ -62,7 +62,7 @@ int main() {
   float  u71Wu_  =  -523761073;
   char  VU_SxaBs8  =  (char)906150355;
     long    mhQgh__    =    -92391838;
-    char    seG9T_    =    -1845750107;
+    char    seG9T_    =    (char)-1845750107;
  unsigned short lkjDqB_I20 = 721057397;
  long double b7fX = 880009087;
   long long  hiS6RPdhQR  =  -1420940389;
@@ -77,7 +77,7 @@ int main() {
 	int	cOFOQ	=	-1934198994;
     float    Yq6D8wU    =    -2137238984;
     char    PjzAqOaHL    =    (char)1271899092;
-	short	M07Z	=	-997384689;
+	short	M07Z	=	(short)-997384689;
     int    c3Vl11A    =    -2132235010;
   double  L5eU0rYX  =  1489613015;
 	unsigned short	N_23lPTnI	=	(unsigned short)79707209;
@@ -89,7 +89,7 @@ int main() {
     short    n2p7SrzI4    =    (short)178938605;
     unsigned int    Y6vT2_    =    -1123730364;
   unsigned long long  X4CtQ0YA  =  1494465694;
-	unsigned char	zioeG	=	2000508970;
+	unsigned char	zioeG	=	(unsigned char)2000508970;
   short int  J97Z4  =  (short)-1373433829;
 	long	E9_8y	=	-692435482;
     unsigned long long    wDF6j    =    0;
@@ -99,7 +99,7 @@ int main() {
     float    hzFxwf9a    =    884729500;
  unsigned short Mo7IvMGaW = (unsigned short)1945892385;
 	long	y_rh7UIF_t	=	-1315313324;
- unsigned short C1_9BgRl = 1371239278;
+ unsigned short C1_9BgRl = (unsigned short)1371239278;
     float    TyPPUr    =    -1897042431;
  unsigned short int Esk2 = (unsigned short)-646446922;
  short int nxvH8 = -816325875;

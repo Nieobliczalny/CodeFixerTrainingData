@@ -78,7 +78,7 @@ int main() {
  unsigned short y8O7i4;
  y8O7i4 = (unsigned short)-580034210;
  short int Z0R19Rv;
- Z0R19Rv = 412653678;
+ Z0R19Rv = (short)412653678;
  unsigned int J8hnlU1KI;
  J8hnlU1KI = -1122087119;
 	short	A8K3hh7;
@@ -98,7 +98,7 @@ int main() {
 	unsigned char	TKfOJ649zQ;
 	TKfOJ649zQ	=	(unsigned char)2086229167;
   unsigned short  KPL7;
-  KPL7  =  -13780401;
+  KPL7  =  (unsigned short)-13780401;
     short    kp8w;
     kp8w    =    -172307157;
     unsigned short    HP102C;
@@ -180,7 +180,7 @@ case 3:
 eg47hotm = v7_0(-1737468730, (unsigned short)-1861462532, Ji_6g, eG3M63e, -1234385885);
 break;
 case 4:
-j6XUNS309W = v7_0(j6XUNS309W, eVZt_Z, (short)1435277569, 412111487, KLCNlH43);
+j6XUNS309W = v7_0(j6XUNS309W, eVZt_Z, (short)1435277569, (unsigned short)412111487, KLCNlH43);
 break;
 case 5:
 HP102C = v7_0(HP102C, VLVB66, wo00M06x59, f1CSjP0, KLCNlH43);
@@ -195,7 +195,7 @@ case 8:
 f1fr = v7_0(-186411949, (unsigned short)-187125991, I6Uja, (unsigned short)1822568296, 1105877348);
 break;
 case 9:
-X0_7 = v7_0(X0_7, wo00M06x59, T1_vG1m0eP, -1984893945, 1427832081);
+X0_7 = v7_0(X0_7, wo00M06x59, T1_vG1m0eP, (unsigned short)-1984893945, 1427832081);
 break;
 default:
 T1_vG1m0eP |= 1825469626;
@@ -208,7 +208,7 @@ mEIml5Q = v7_0(-1092332828, (unsigned short)438962676, (short)-1293726592, -9738
 }
 else if (y8O7i4 > 1062227644)
 {
-y8O7i4 = v7_0(y8O7i4, wo00M06x59, -1556124858, dYMk_a_WF, e40L6tY0G);
+y8O7i4 = v7_0(y8O7i4, wo00M06x59, (short)-1556124858, dYMk_a_WF, e40L6tY0G);
 }
 else if ((D_auJyUy >= 1246670673) && ((f1CSjP0) || (mu2T)))
 {
@@ -371,7 +371,7 @@ case 'g':
 f1CSjP0 &= 1460903173;
 break;
 case 'h':
-J8hnlU1KI = d4g1(1453382215, 396153524, D_auJyUy, KPL7, Vo9o5Jm);
+J8hnlU1KI = d4g1((unsigned short)1453382215, 396153524, D_auJyUy, KPL7, Vo9o5Jm);
 break;
 case 'i':
 Z0R19Rv = (int)abs(Vo9o5Jm);
@@ -524,7 +524,7 @@ else
 int k = 1;
 do
 {
-qD0_mAB = GUxpfGVp((short)4842923, qD0_mAB, (unsigned short)-476507803, -269960113);
+qD0_mAB = GUxpfGVp((short)4842923, qD0_mAB, (unsigned short)-476507803, (unsigned char)-269960113);
 k--;
 }
 while (k >= 0);

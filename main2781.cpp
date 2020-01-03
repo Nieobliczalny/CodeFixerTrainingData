@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
 	long double	Z180Cksr_s	=	839469928;
 	float	P3_Ln7	=	136756574;
     long long    RJJPp4    =    1974328044;
-  unsigned char  tCkt  =  470245939;
+  unsigned char  tCkt  =  (unsigned char)470245939;
 	double	d10dyZbs5	=	-1747744702;
 	short int	Cuvq92chWE	=	238066180;
     long long    Np907_    =    1787046157;
@@ -43,7 +43,7 @@ int main(int argc, char** argv) {
   int  e1Ujz  =  -1624440269;
  long double FBXu = -302288025;
     long    b65B5jKQ_    =    292011132;
- char Z1RJ4 = -1271348984;
+ char Z1RJ4 = (char)-1271348984;
     float    b1aB4VG3    =    -1767023319;
 	int	DrOY304	=	-2091666821;
  long double ca0p6TvL8 = -1839629544;
@@ -53,7 +53,7 @@ int main(int argc, char** argv) {
  float b076_ = 251805631;
   unsigned long  hArQB564  =  -434588600;
   unsigned char  TB4l0  =  (unsigned char)1030974137;
- short int S6zJigOB = -1868878937;
+ short int S6zJigOB = (short)-1868878937;
 	long long	Vu4S_f	=	-2141640160;
  long TZaExb4H = 0;
 	long long	gS378J1	=	-157123371;
@@ -117,7 +117,7 @@ case 'b':
 DdId = p8nzjyK_G - FBXu;
 break;
 case 'c':
-xhn4 = bt78JgKj(-116338919, -306398907, FBXu) ^ of_nr71eWM;
+xhn4 = bt78JgKj(-116338919, (unsigned short)-306398907, FBXu) ^ of_nr71eWM;
 break;
 case 'd':
 xlGuH = UR73HF2top(L_V02pd);
@@ -386,7 +386,7 @@ tCkt = (unsigned char)(hegTGA61);
 switch (e1Ujz)
 {
 case 0:
-Cuvq92chWE = bt78JgKj(-858553183, -139335897, 229835677);
+Cuvq92chWE = bt78JgKj(-858553183, (unsigned short)-139335897, 229835677);
 break;
 case 1:
 K0wMz = (int)ceil(FBXu);
@@ -525,7 +525,7 @@ G1d03B = (int)floor(Z180Cksr_s);
 int i = 0;
 while (i < 10)
 {
-std::cout << Qb_M0qzIsQ << "CqxS76IcT" << Wn1v5((short)371657418, -436046950, (short)-1196507880, RJJPp4, hKd80TPU7) << bt78JgKj(lvX0We2, -564077449, -918642683) << KoA_Smp_f0() << std::endl;
+std::cout << Qb_M0qzIsQ << "CqxS76IcT" << Wn1v5((short)371657418, -436046950, (short)-1196507880, RJJPp4, hKd80TPU7) << bt78JgKj(lvX0We2, (unsigned short)-564077449, -918642683) << KoA_Smp_f0() << std::endl;
 ++i;
 }
 }

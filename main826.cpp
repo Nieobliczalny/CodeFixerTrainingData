@@ -96,7 +96,7 @@ case 'b':
 yOHj = PgVG((unsigned short)-523773355);
 break;
 case 'c':
-I3_F338 = V9SMiG9(837726245, 1991737262, Bxwhs7CK, -652437121);
+I3_F338 = V9SMiG9((short)837726245, 1991737262, Bxwhs7CK, -652437121);
 break;
 case 'd':
 g7Lb653 = (int)abs(I57_Q0PKQ);
@@ -279,7 +279,7 @@ break;
 }
 }
 
-k9h8P = MtFX2(k9h8P, 467057748);
+k9h8P = MtFX2(k9h8P, (unsigned short)467057748);
 {
 int i = 1;
 while (i >= 0)

@@ -35,7 +35,7 @@ int main(void)
  float FW_08 = 1743126623;
     long    qbZA    =    0;
 	unsigned short	j772rGo	=	(unsigned short)1783514934;
-  unsigned short  TS090dDd  =  -1505811274;
+  unsigned short  TS090dDd  =  (unsigned short)-1505811274;
 
 for (int i = 0; i < 8; i++)
 {
@@ -138,7 +138,7 @@ std::cout << ZYF9IjGRq6 << j772rGo << IN8xfv10Tl((unsigned short)-61152067, ARrr
 }
 else
 {
-TVs0Y2 = HV87L61(-1821952562);
+TVs0Y2 = HV87L61((unsigned short)-1821952562);
 }
 i++;
 }
@@ -257,7 +257,7 @@ j772rGo = FW_08 * uqCLsz72v;
 }
 }
 
-TS090dDd = (ZYF9IjGRq6 & mKGmrx) ? (unsigned short)-1379655139 : -2006345919;
+TS090dDd = (ZYF9IjGRq6 & mKGmrx) ? (unsigned short)-1379655139 : (unsigned short)-2006345919;
 
 for (int i = 10; i >= 0; --i)
 {

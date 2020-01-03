@@ -17,7 +17,7 @@ int main()
  unsigned short int DbjttX5 = (unsigned short)1090798042;
  unsigned short int ac1e = (unsigned short)1544254751;
 	float	uMrE02Z	=	-11101282;
-	short int	uVfV2	=	-621844689;
+	short int	uVfV2	=	(short)-621844689;
     unsigned short    sOd8Qc    =    1075558834;
     long long    FxZ9    =    -1457739606;
   unsigned long  u1G702WwA  =  1157456813;
@@ -107,7 +107,7 @@ case 4:
 ujYoOl = (int)floor(Jim3_Yd);
 break;
 case 5:
-Ygr82 = LbDlT7(DbjttX5, 1405172540, -1035705363);
+Ygr82 = LbDlT7(DbjttX5, 1405172540, (char)-1035705363);
 break;
 case 6:
 r63zt7tPx = (int)ceil(ujYoOl);
@@ -181,7 +181,7 @@ case 'd':
 uMrE02Z = (int)ceil(ujYoOl);
 break;
 case 'e':
-Ygr82 = LbDlT7(-1507465494, tmuhYHe2, DbjttX5);
+Ygr82 = LbDlT7((unsigned short)-1507465494, tmuhYHe2, DbjttX5);
 break;
 case 'f':
 TGUYQ_d34g <<= 2126785467;
@@ -241,7 +241,7 @@ case 4:
 Jim3_Yd = (int)floor(r63zt7tPx);
 break;
 case 5:
-Ygr82 = LbDlT7((unsigned short)-134591777, DbjttX5, 1949311668);
+Ygr82 = LbDlT7((unsigned short)-134591777, DbjttX5, (char)1949311668);
 break;
 case 6:
 uMrE02Z = (int)abs(uVfV2);
@@ -292,7 +292,7 @@ case 5:
 Jim3_Yd = (int)floor(uMrE02Z);
 break;
 case 6:
-u1G702WwA = LbDlT7((unsigned short)-1534285529, 317339905, 861272607) % 1238079598;
+u1G702WwA = LbDlT7((unsigned short)-1534285529, 317339905, (char)861272607) % 1238079598;
 break;
 case 7:
 Ygr82 = LbDlT7(1567787602, ujYoOl, -76080444);

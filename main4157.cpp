@@ -33,7 +33,7 @@ int main(int argc, char** argv)
  int Yw3Eqv__ = 220601478;
 	unsigned int	u6l9	=	1521553494;
 	long long	aa0n92Uh	=	267297806;
-  short  o9RyiJ_H5  =  -1885255237;
+  short  o9RyiJ_H5  =  (short)-1885255237;
  long double pt3zIud6 = 931499152;
 	unsigned int	ekr_	=	-598948124;
  int lgvNLYi_5 = -168399044;
@@ -43,7 +43,7 @@ int main(int argc, char** argv)
 	char	EV1t0drQg	=	(char)1843463389;
   char  k8h7T6_v  =  1680381056;
  unsigned char Wbb0L7g = 370015207;
- unsigned short int K5vFpf = -2022749252;
+ unsigned short int K5vFpf = (unsigned short)-2022749252;
     long    jjO3Rq5n2    =    1760273355;
 	unsigned short	y7MX891xn	=	-659716748;
     double    M073    =    -1761232125;
@@ -54,7 +54,7 @@ int main(int argc, char** argv)
   int  Mxqt0  =  -1041248211;
     short    wU94S    =    1446705774;
  double S9Tx7pi = 1908181363;
-  unsigned char  U4DVCPse  =  440681008;
+  unsigned char  U4DVCPse  =  (unsigned char)440681008;
 	short	a2jaRV13	=	1001286680;
 	short int	v916yHZ_ZX	=	-1551503295;
   short  xJw5AF  =  -412375277;
@@ -64,7 +64,7 @@ int main(int argc, char** argv)
   long double  qUr6q8OyY4  =  1506846441;
 	unsigned short int	exV6mbk2	=	(unsigned short)1536592861;
   float  Zot88h0YE  =  592183106;
-    short    x294    =    1342029777;
+    short    x294    =    (short)1342029777;
     long long    Gs857    =    1707821654;
     short    rtOmh9    =    1448213458;
     unsigned short int    x16j    =    -1124705324;
@@ -240,7 +240,7 @@ while (k >= 0);
 }
 else
 {
-cout << OUGZD(WxusbG, -1964680509, (short)-1843414655, Rc03R_UzK, A6jHnu7LkM) << c45OzMJH((short)1061674631, 901170060) << c45OzMJH(WxusbG, 482965360) << endl;
+cout << OUGZD(WxusbG, -1964680509, (short)-1843414655, Rc03R_UzK, A6jHnu7LkM) << c45OzMJH((short)1061674631, (short)901170060) << c45OzMJH(WxusbG, 482965360) << endl;
 }
 }
 switch (ekr_)
@@ -364,7 +364,7 @@ case 6:
 x294 = c45OzMJH(x294, (short)-126551526);
 break;
 default:
-wU94S = OUGZD(1681557348, -1962503259, -1339382729, xJw5AF, x294);
+wU94S = OUGZD(1681557348, -1962503259, (short)-1339382729, xJw5AF, x294);
 break;
 }
 

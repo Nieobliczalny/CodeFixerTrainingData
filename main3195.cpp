@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
     long    tKO77U    =    -1975553285;
   short int  d5Zn3tGLe  =  (short)910444370;
     unsigned long long    KHqc3z    =    759246289;
-  unsigned short int  eLSRzEU  =  -1432464757;
+  unsigned short int  eLSRzEU  =  (unsigned short)-1432464757;
 	short int	sX7CD	=	1472649353;
 	short int	p4D6	=	(short)1222423342;
   unsigned short  mOUw4UwJ  =  -612885801;
@@ -41,7 +41,7 @@ int main(int argc, char** argv) {
     short    gFru80_    =    (short)498991076;
     unsigned char    u3pjd    =    0;
     unsigned int    zU8d1xvj97    =    -1004528065;
-  unsigned short  h7aAr  =  911976649;
+  unsigned short  h7aAr  =  (unsigned short)911976649;
 	double	tVhTnh05I	=	1279734549;
     char    t1oID    =    (char)898441082;
  char IIu5162jM = -1033845968;
@@ -52,7 +52,7 @@ int main(int argc, char** argv) {
     unsigned short    IE1lf_Q2v    =    (unsigned short)-1751536755;
  long double q04b_0M = 1183149898;
 	int	rZXo01hifa	=	794454313;
-	unsigned short int	wcyu_Nj_8	=	-1565595199;
+	unsigned short int	wcyu_Nj_8	=	(unsigned short)-1565595199;
  long double KfviA0 = 422612435;
 	long	U87FEr_Zh	=	-1260494455;
  short int A5jEpV = (short)1677962849;
@@ -191,7 +191,7 @@ while (j >= 0);
 }
 else
 {
-IIu5162jM = N_gXOBxb3(IIu5162jM, (unsigned short)735757046, (unsigned char)-625696826, KfviA0, -858875840);
+IIu5162jM = N_gXOBxb3(IIu5162jM, (unsigned short)735757046, (unsigned char)-625696826, KfviA0, (short)-858875840);
 }
 return 0;
 }

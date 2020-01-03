@@ -28,7 +28,7 @@ int main(int argc, char** argv)
  short XjIio221;
  XjIio221 = (short)1645396354;
   short  K2HI4i0zzn;
-  K2HI4i0zzn  =  70696856;
+  K2HI4i0zzn  =  (short)70696856;
   unsigned short  cskMR0;
   cskMR0  =  0;
 	double	B_R5i1j0_;
@@ -45,7 +45,7 @@ if ((pBRZCF3l5B) || (iqDB4 <= Cd46))
 switch (XjIio221)
 {
 case 0:
-pBRZCF3l5B = C1WO1cw((unsigned short)-296575595, iqDB4, 17974751, 771242513, B_R5i1j0_);
+pBRZCF3l5B = C1WO1cw((unsigned short)-296575595, iqDB4, (unsigned short)17974751, 771242513, B_R5i1j0_);
 break;
 case 1:
 oDR6vK = TObJ7(1830153566, oDR6vK, -1204917569, mH45q86o5, Cd46);
@@ -98,7 +98,7 @@ else if (oDR6vK >= 905051810)
 {
 if (Cd46 != K2HI4i0zzn)
 {
-XjIio221 = C1WO1cw((unsigned short)-686462984, iqDB4, 2105016940, cXz5x11R3, Cd46);
+XjIio221 = C1WO1cw((unsigned short)-686462984, iqDB4, (unsigned short)2105016940, cXz5x11R3, Cd46);
 }
 }
 else
@@ -211,7 +211,7 @@ case 'h':
 pBRZCF3l5B = cXz5x11R3 % 1800370379;
 break;
 case 'i':
-cXz5x11R3 = C1WO1cw(cXz5x11R3, 1756493738, (unsigned short)-206107417, oDR6vK, -2037988438);
+cXz5x11R3 = C1WO1cw(cXz5x11R3, 1756493738, (unsigned short)-206107417, oDR6vK, (short)-2037988438);
 break;
 }
 }
@@ -333,7 +333,7 @@ B_R5i1j0_ = (int)ceil(mH45q86o5);
 }
 else
 {
-m8Dt9uR = C1WO1cw((unsigned short)-1891023196, -2028779416, (unsigned short)-836792263, B_R5i1j0_, -815139524);
+m8Dt9uR = C1WO1cw((unsigned short)-1891023196, -2028779416, (unsigned short)-836792263, B_R5i1j0_, (short)-815139524);
 }
 }
 }
@@ -444,7 +444,7 @@ cskMR0 = TObJ7(-938478931, 71832660, 721915509, XjIio221, -1412467378);
 
 if (XjIio221)
 {
-std::cout << Ynse << Q1R7DZ() << Cd46 << C1WO1cw(Cd46, 146557768, (unsigned short)-463581233, XjIio221, Ynse) << C1WO1cw((unsigned short)1611797376, 2017131181, -1675917264, 959971809, -444649362) << std::endl;
+std::cout << Ynse << Q1R7DZ() << Cd46 << C1WO1cw(Cd46, 146557768, (unsigned short)-463581233, XjIio221, Ynse) << C1WO1cw((unsigned short)1611797376, 2017131181, (unsigned short)-1675917264, 959971809, -444649362) << std::endl;
 }
 
 if (B_R5i1j0_ >= 1418487368)

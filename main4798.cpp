@@ -19,7 +19,7 @@ int main(void) {
  double q1Helx = 1754427288;
   int  zVrM8QPcKE  =  0;
   int  rNLME3  =  -1316226348;
- short gZNqJT65 = -1578215377;
+ short gZNqJT65 = (short)-1578215377;
  unsigned short int i3Im6 = -1264704837;
 	unsigned long	X72Y3oD	=	-783178578;
     long    u26Fw5w    =    -1777971374;
@@ -31,7 +31,7 @@ int main(void) {
 	long long	F31ZS	=	-1688555141;
     unsigned int    iceUiW0    =    0;
     float    Sk975    =    -453650662;
- char UtCoWY = -889132648;
+ char UtCoWY = (char)-889132648;
  int E5_qHLx = 1114939945;
 	unsigned short int	peQXA8HXrd	=	402937096;
   short int  acH5g9  =  -1096839631;
@@ -44,7 +44,7 @@ int main(void) {
     long double    cmDnv    =    -1722941147;
     unsigned char    jMw3    =    (unsigned char)-261565424;
   long long  WJ8R  =  -1440115151;
- short int yMADFWmvi = -1371343692;
+ short int yMADFWmvi = (short)-1371343692;
  int OX4Zzjx4Ss = 588350585;
  short int iGFt_V0eI = 1154020063;
   int  b3N8q8KBOc  =  250174182;
@@ -55,7 +55,7 @@ int main(void) {
 	float	Z99tO8	=	-1076363558;
  long long IwzzltW_YQ = 664590745;
 	unsigned short	HK723	=	(unsigned short)1265862666;
- char d1d2eDBls = 1188590897;
+ char d1d2eDBls = (char)1188590897;
 
 {
 int i = 9;
@@ -268,7 +268,7 @@ else
 E5_qHLx = (iOt_vw & zVrM8QPcKE) ? 1747180131 : d1d2eDBls;
 }
 
-std::cout << J4lRv(316133305, (unsigned char)-772030011, (short)1790723611, acH5g9, E5_qHLx) << J4lRv(zVrM8QPcKE, UtCoWY, K59MZ, acH5g9, 1193843161) << i3Im6 << J4lRv(837661169, UtCoWY, 1598920621, acH5g9, E5_qHLx) << WJ8R << std::endl;
+std::cout << J4lRv(316133305, (unsigned char)-772030011, (short)1790723611, acH5g9, E5_qHLx) << J4lRv(zVrM8QPcKE, UtCoWY, K59MZ, acH5g9, 1193843161) << i3Im6 << J4lRv(837661169, UtCoWY, (short)1598920621, acH5g9, E5_qHLx) << WJ8R << std::endl;
 
 std::cout << "IOoTr" << rC6n1YrW() << vVC_3j << "Udt_f" << std::endl;
 std::cout << rC6n1YrW() << J4lRv(zVrM8QPcKE, 2022375047, K59MZ, acH5g9, 545737869) << std::endl;
@@ -347,7 +347,7 @@ else
 {
 rNLME3 = (int)abs(zVrM8QPcKE) + (1583432538);
 }
-std::cout << y1_2v4C << i3Im6 << J4lRv(612159934, (unsigned char)1185866896, acH5g9, hu_4hfl0w, -1479825333) << J4lRv(HK723, (unsigned char)593343771, -2068827356, hu_4hfl0w, rNLME3) << std::endl;
+std::cout << y1_2v4C << i3Im6 << J4lRv(612159934, (unsigned char)1185866896, acH5g9, hu_4hfl0w, -1479825333) << J4lRv(HK723, (unsigned char)593343771, (short)-2068827356, hu_4hfl0w, rNLME3) << std::endl;
 d1d2eDBls = y1_2v4C << 936200405;
 cmDnv = (int)floor(Z99tO8);
 if ((E5_qHLx & UtCoWY) && (u26Fw5w <= 858060568))

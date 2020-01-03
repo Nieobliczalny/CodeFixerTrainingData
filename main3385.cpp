@@ -39,7 +39,7 @@ if ((rk797bW1U7) || ((lzgD_ssZ92) || (pRX83pfQm4)))
 switch (W_HhC6Hpil)
 {
 case 'a':
-j6pJyks = mQy8gA(-1890718414, -832622467, -1335411909, lzgD_ssZ92, -1246901056);
+j6pJyks = mQy8gA(-1890718414, -832622467, -1335411909, lzgD_ssZ92, (unsigned char)-1246901056);
 break;
 case 'b':
 DJsB = Egv0rDG(-1433158398);
@@ -57,7 +57,7 @@ case 'f':
 j6pJyks = mQy8gA(-406350948, v6LQ2, 433412881, AA3i59jq, (unsigned char)-921817915);
 break;
 case 'g':
-j6pJyks = mQy8gA(Vq19IO88C6, c50z, S3LRA_A, (char)2140643875, 1297228293);
+j6pJyks = mQy8gA(Vq19IO88C6, c50z, S3LRA_A, (char)2140643875, (unsigned char)1297228293);
 break;
 case 'h':
 DJsB++;
@@ -79,7 +79,7 @@ else
 {
 try
 {
-WIfvS9B11 = G8925dF((unsigned char)617152898, Vq19IO88C6, (unsigned short)-427248481, N_76UC, -2118624387) >> ary6p43GP;
+WIfvS9B11 = G8925dF((unsigned char)617152898, Vq19IO88C6, (unsigned short)-427248481, N_76UC, (char)-2118624387) >> ary6p43GP;
 }
 catch (int& errorCode)
 {

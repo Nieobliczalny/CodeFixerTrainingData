@@ -79,7 +79,7 @@ do
 {
 try
 {
-d_i6 = n8DY_(-1602727982);
+d_i6 = n8DY_((unsigned short)-1602727982);
 }
 catch (int& errorCode)
 {
@@ -138,7 +138,7 @@ case 6:
 MJzO5 = c1l_(x4ge2Btij, S9i35E, Dxh7JCZLTa, hAJbltgfT, (short)-721106462);
 break;
 case 7:
-W79_X = I5vG(W79_X, 763592546);
+W79_X = I5vG(W79_X, (unsigned char)763592546);
 break;
 }
 ++i;

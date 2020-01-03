@@ -22,7 +22,7 @@ int main(int argc, char** argv)
   long double  Q38Q5X8_W  =  1565333798;
     long    oeiZCKgLIa    =    1646608862;
 	char	Gfv9	=	(char)1776587590;
-	unsigned short	Z73z0aYl	=	1780036038;
+	unsigned short	Z73z0aYl	=	(unsigned short)1780036038;
 	long double	kk4OB	=	-115392593;
     unsigned long    eZp4WewjYY    =    -495397953;
  unsigned short int mwvIj = -1792426923;
@@ -33,7 +33,7 @@ int main(int argc, char** argv)
     unsigned char    xB3VO_572    =    (unsigned char)1952683053;
   float  eSW0  =  -302446479;
 	unsigned char	AedMNMv	=	(unsigned char)-1298991029;
-  char  TUJw_NvU  =  -809270653;
+  char  TUJw_NvU  =  (char)-809270653;
   unsigned long  RYCr_8  =  -1276280028;
 	short int	ZD_6ZCCg	=	-1425058435;
     unsigned int    Jm_07ZfD    =    -115508813;
@@ -50,7 +50,7 @@ int main(int argc, char** argv)
     char    X8BjcnunGt    =    (char)1665038156;
   unsigned int  xb8w7C  =  1672996851;
 	long double	n_qcsE	=	1068510027;
- unsigned short fnPc = 1868120641;
+ unsigned short fnPc = (unsigned short)1868120641;
     unsigned long long    Pxxb8oX5b    =    1962834206;
  short AI1tw0D4 = (short)337660862;
     short int    V4WJp82Nd6    =    -236366411;
@@ -71,7 +71,7 @@ int main(int argc, char** argv)
  float RioDXjlc5 = -186254231;
  unsigned long long npTL_VsGoR = -330335038;
     unsigned short    Z19m    =    (unsigned short)1967900804;
-    short    Fhmw39l3v    =    -1396755619;
+    short    Fhmw39l3v    =    (short)-1396755619;
     long    N9eP45A    =    1448086139;
 	int	R_H4Gv6	=	1499812382;
 	unsigned short	EBH_6W3_W	=	0;
@@ -698,7 +698,7 @@ U6SE492K = Cex23((unsigned short)783758642, KwDNoR);
 
 for (int i = 0; i < 10; i++)
 {
-cout << sei51u << Cex23(eSW0, KwDNoR) << X8BjcnunGt << Cex23(-1267511530, KwDNoR) << ZAm6W_ << endl;
+cout << sei51u << Cex23(eSW0, KwDNoR) << X8BjcnunGt << Cex23((unsigned short)-1267511530, KwDNoR) << ZAm6W_ << endl;
 }
 
 {

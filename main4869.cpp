@@ -41,7 +41,7 @@ else if (CSFI & K_M1_XUqN)
 int j = 0;
 while (j < 1)
 {
-OX4DzURm5 = aCePV((unsigned short)890099000, -1164466811, (char)-521160998, 1366618801);
+OX4DzURm5 = aCePV((unsigned short)890099000, -1164466811, (char)-521160998, (unsigned short)1366618801);
 j++;
 }
 }
@@ -199,7 +199,7 @@ case 6:
 BM9407R5 = (int)abs(Q0pj621Pf);
 break;
 case 7:
-WsEBRJOKV = aCePV((unsigned short)-924247721, I89W4Or1v, (char)-283843582, 269141911);
+WsEBRJOKV = aCePV((unsigned short)-924247721, I89W4Or1v, (char)-283843582, (unsigned short)269141911);
 break;
 default:
 L8Z5t9Mn0 <<= 183824716;
@@ -219,7 +219,7 @@ while (i < 6);
 }
 y6sP = (long long)(EkLv2N1iI + (1736315748));
 
-std::cout << aCePV((unsigned short)253203924, y6sP, (char)-428919188, mPuQc_) << sr1Ml4C << W8PN << aCePV(-1742028137, 190106998, -1566013574, 1129863325) << x6F3G << std::endl;
+std::cout << aCePV((unsigned short)253203924, y6sP, (char)-428919188, mPuQc_) << sr1Ml4C << W8PN << aCePV((unsigned short)-1742028137, 190106998, -1566013574, 1129863325) << x6F3G << std::endl;
 
 std::cout << W8PN << aCePV(e28zg, y6sP, 1083193692, mPuQc_) << aCePV(e28zg, y6sP, -347236754, -1448838164) << mYgJb5QdAz << iP2Zn5x << std::endl;
 if ((e28zg & Un6Eg) || ((k_bu8R458B & J5MvG) && (iwmL6 & vru2)))
@@ -257,7 +257,7 @@ w2ap1 = ZCzIYW();
 std::cout << "BLj4kLFI" << "Xk3bpG" << std::endl;
 if (OX4DzURm5 >= -632005271)
 {
-std::cout << aCePV((unsigned short)592372005, Xf35hb, (char)1333883497, -2012767716) << std::endl;
+std::cout << aCePV((unsigned short)592372005, Xf35hb, (char)1333883497, (unsigned short)-2012767716) << std::endl;
 }
 else
 {
@@ -308,7 +308,7 @@ case 8:
 IVbx1ss_ = aCePV(IVbx1ss_, 2123080198, sr1Ml4C, (unsigned short)-1466224237);
 break;
 case 9:
-McchgjYE = aCePV((unsigned short)-1719559370, i5L3, r2ZmoBa0, 134044000);
+McchgjYE = aCePV((unsigned short)-1719559370, i5L3, r2ZmoBa0, (unsigned short)134044000);
 break;
 default:
 uI6xPcu_ -= F_91;

@@ -54,7 +54,7 @@ int main(int argc, char** argv) {
     float    XyA3;
     XyA3    =    935862533;
   unsigned char  x26c;
-  x26c  =  1746799870;
+  x26c  =  (unsigned char)1746799870;
     unsigned short int    Gb0n_c_H;
     Gb0n_c_H    =    (unsigned short)1559905939;
     unsigned long long    Z_KmvrDP_0;
@@ -70,7 +70,7 @@ int main(int argc, char** argv) {
 	unsigned long	BC1C1x0;
 	BC1C1x0	=	1206599857;
  char g745a;
- g745a = 1856543639;
+ g745a = (char)1856543639;
   unsigned long long  FuIQ;
   FuIQ  =  912100402;
     double    p5R89k1rsw;
@@ -92,7 +92,7 @@ int main(int argc, char** argv) {
  unsigned char KJ_R_O;
  KJ_R_O = (unsigned char)289638995;
  unsigned short int g_JgcP;
- g_JgcP = -1174863663;
+ g_JgcP = (unsigned short)-1174863663;
  double y1f62;
  y1f62 = -650964920;
     long double    I_V6Z63fx;
@@ -106,7 +106,7 @@ int main(int argc, char** argv) {
 	unsigned short	DzoY8DxP;
 	DzoY8DxP	=	(unsigned short)321484687;
  char j0W6WxOKK;
- j0W6WxOKK = -2143185402;
+ j0W6WxOKK = (char)-2143185402;
   unsigned char  zp_97_K1;
   zp_97_K1  =  2002575458;
     unsigned long    vt3lIGwf;
@@ -130,7 +130,7 @@ int main(int argc, char** argv) {
     long long    F__rI8AVSt;
     F__rI8AVSt    =    1772231264;
     unsigned short int    ed8D;
-    ed8D    =    -851587408;
+    ed8D    =    (unsigned short)-851587408;
 	short int	wW7XN_L;
 	wW7XN_L	=	(short)622912734;
  unsigned int V8lKJqb;
@@ -150,7 +150,7 @@ int main(int argc, char** argv) {
   float  utVf;
   utVf  =  301373884;
     unsigned short int    JX_HH6;
-    JX_HH6    =    1130734969;
+    JX_HH6    =    (unsigned short)1130734969;
   unsigned short  g7_89h7mQ7;
   g7_89h7mQ7  =  (unsigned short)1375161864;
     long double    Tk2f646CZ;
@@ -164,7 +164,7 @@ int main(int argc, char** argv) {
   char  K4Pe4__6AR;
   K4Pe4__6AR  =  (char)1147326708;
  unsigned short int YFu3l;
- YFu3l = -891204421;
+ YFu3l = (unsigned short)-891204421;
   double  E3Rxj;
   E3Rxj  =  -791645020;
     unsigned char    r_3rI1K3;
@@ -186,7 +186,7 @@ int main(int argc, char** argv) {
 	unsigned long long	GiXO7L2uwA;
 	GiXO7L2uwA	=	-156947526;
     char    q2eR2uI;
-    q2eR2uI    =    775833503;
+    q2eR2uI    =    (char)775833503;
   unsigned long  jBN6;
   jBN6  =  -1993448199;
 	unsigned short	He9KIek27Q;

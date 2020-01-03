@@ -92,7 +92,7 @@ else
 {
 if (k5gQKhZpwG >= -1399389050)
 {
-x8vkV1 = AO51O066O(DO8_j37W, -230433225, mDaQqezr);
+x8vkV1 = AO51O066O(DO8_j37W, (short)-230433225, mDaQqezr);
 }
 else if (G5PpH6q & 634474417)
 {
@@ -174,7 +174,7 @@ Iv_PBJ = (int)ceil(gW84i9);
 break;
 case 'j':
 case 'J':
-G5PpH6q = AO51O066O((short)2074871384, (short)516813989, -1994248415);
+G5PpH6q = AO51O066O((short)2074871384, (short)516813989, (unsigned char)-1994248415);
 break;
 default:
 h968B_3A0 = (int)ceil(Y995n13w8L);
@@ -187,7 +187,7 @@ cout << AO51O066O(1103797394, -1683925992, M67H) << Art5Wz << k5gQKhZpwG << endl
 }
 else
 {
-x8vkV1 = AO51O066O((short)1385151336, (short)-1055657997, -1636098866);
+x8vkV1 = AO51O066O((short)1385151336, (short)-1055657997, (unsigned char)-1636098866);
 }
 {
 int i = 1;
@@ -243,7 +243,7 @@ for (int j = 10; j >= 0; --j)
 {
 if (W215)
 {
-G5PpH6q = AO51O066O((short)1212468666, (short)694922631, -219586997);
+G5PpH6q = AO51O066O((short)1212468666, (short)694922631, (unsigned char)-219586997);
 }
 else
 {
@@ -315,7 +315,7 @@ int i = 0;
 while (i < 9)
 {
 ++i;
-n0Y5 = AO51O066O((short)1137561354, (short)1626953707, 1044648718);
+n0Y5 = AO51O066O((short)1137561354, (short)1626953707, (unsigned char)1044648718);
 }
 }
 try
@@ -381,7 +381,7 @@ Uw783izmlu = mDaQqezr + yTNWLslbkM;
 
 if (AO51O066O((short)-1159809062, (short)-692082600, yTNWLslbkM) == 0)
 {
-	nk1u3u = mDaQqezr / AO51O066O(-1159809062, -692082600, yTNWLslbkM);
+	nk1u3u = mDaQqezr / AO51O066O((short)-1159809062, -692082600, yTNWLslbkM);
 }
 cYhUCh = (long double)(AeOW);
 {
@@ -441,7 +441,7 @@ G04Gn_K_ = (int)abs(I4p33OTD);
 break;
 case 'c':
 case 'C':
-x8vkV1 = AO51O066O((short)-1570142742, (short)-367748398, 406732929);
+x8vkV1 = AO51O066O((short)-1570142742, (short)-367748398, (unsigned char)406732929);
 break;
 }
 
@@ -516,7 +516,7 @@ jFra1fL_D *= 965122950;
 }
 else if (rrfW4zj7I_ != 378512240)
 {
-C_IUG = AO51O066O((short)974761029, (short)-1539966949, -1186159038);
+C_IUG = AO51O066O((short)974761029, (short)-1539966949, (unsigned char)-1186159038);
 }
 else if (PI4gZqx4MI >= Art5Wz)
 {

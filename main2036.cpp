@@ -49,7 +49,7 @@ int main()
  float IhkA;
  IhkA = 357284458;
 	unsigned short	PLOP2Jq4;
-	PLOP2Jq4	=	-1594546061;
+	PLOP2Jq4	=	(unsigned short)-1594546061;
     long long    kv0K7I431;
     kv0K7I431    =    1503398108;
     unsigned short    kKBX_a;
@@ -193,7 +193,7 @@ case 'h':
 P6XA6QL_ = W_2z3k(P6XA6QL_, EiH5);
 break;
 case 'i':
-KrtW = qP6t5lc1((unsigned char)-828186226, -591695336, -885196934);
+KrtW = qP6t5lc1((unsigned char)-828186226, (unsigned char)-591695336, -885196934);
 break;
 default:
 fgLPh = (int)floor(IhkA);

@@ -118,7 +118,7 @@ K1vKe96Zy = Eri84((char)331773589, (short)-1451135021, xBqD, -110216967);
 }
 else
 {
-MHCn7qU = Eri84(1218692241, VrCoZ72Qm, p9xVcVQr2, -964138465);
+MHCn7qU = Eri84((char)1218692241, VrCoZ72Qm, p9xVcVQr2, -964138465);
 }
 --j;
 }
@@ -153,7 +153,7 @@ case 3:
 jT6_7sjD = (int)abs(pefBi);
 break;
 default:
-Q5VXZ = Eri84((char)770304847, -450711851, xymk67Fo1, 737338890);
+Q5VXZ = Eri84((char)770304847, (short)-450711851, xymk67Fo1, 737338890);
 break;
 }
 j--;
@@ -298,7 +298,7 @@ for (int i = 3; i >= 0; --i)
 {
 OYFd08Q6 = Vdb0(OYFd08Q6, m3XvrMP80, K2dx52H5ly, (short)249757984, (unsigned char)-970098256);
 }
-F703WbaQ = Vdb0(193382373, 482574164, 1265907557, -1626539196, VrCoZ72Qm);
+F703WbaQ = Vdb0((short)193382373, 482574164, 1265907557, -1626539196, VrCoZ72Qm);
 std::cout << "VRjS" << Wx94NQ(-1190692811, 1947915793) << j16cf(F703WbaQ, z7g6gv, 636483400, -1985212966) << std::endl;
 
 for (int i = 4; i >= 0; --i)

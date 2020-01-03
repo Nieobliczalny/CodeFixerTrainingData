@@ -27,7 +27,7 @@ int main(int argc, char** argv) {
 	long	Zi_44wMO9u;
 	Zi_44wMO9u	=	336905247;
 	unsigned short	KpJ4b_fW;
-	KpJ4b_fW	=	1088129297;
+	KpJ4b_fW	=	(unsigned short)1088129297;
 	long	NOHZY0;
 	NOHZY0	=	-87238084;
   short  WiyC;
@@ -57,7 +57,7 @@ int main(int argc, char** argv) {
 	unsigned long	P31YOjsj;
 	P31YOjsj	=	538574675;
  char s_cV_GQb;
- s_cV_GQb = -482510419;
+ s_cV_GQb = (char)-482510419;
 	unsigned int	TONwBzd;
 	TONwBzd	=	-1101564395;
  int g9X_;
@@ -77,7 +77,7 @@ int main(int argc, char** argv) {
   short  QBm9m12;
   QBm9m12  =  (short)-852260864;
   unsigned char  a3U274AFt;
-  a3U274AFt  =  -1321007663;
+  a3U274AFt  =  (unsigned char)-1321007663;
  unsigned int LhaDq;
  LhaDq = -199989948;
   unsigned int  IFcCDii;
@@ -101,7 +101,7 @@ int main(int argc, char** argv) {
     unsigned char    cqb863;
     cqb863    =    (unsigned char)-1773869818;
  short v5c_9;
- v5c_9 = 678021395;
+ v5c_9 = (short)678021395;
 	unsigned long long	VZ83Lx;
 	VZ83Lx	=	0;
   unsigned short  N4h224YZ_;
@@ -127,7 +127,7 @@ int main(int argc, char** argv) {
   unsigned short int  tacQ6J5mpP;
   tacQ6J5mpP  =  (unsigned short)-1566947394;
  short int XMmMD339n;
- XMmMD339n = 46736161;
+ XMmMD339n = (short)46736161;
 	char	mt9l_5;
 	mt9l_5	=	754519096;
 	short int	Mj450_7m9;
@@ -157,7 +157,7 @@ int main(int argc, char** argv) {
     long    g0pn07PsJ;
     g0pn07PsJ    =    1251977379;
   unsigned short  OWHVWg9;
-  OWHVWg9  =  2080555540;
+  OWHVWg9  =  (unsigned short)2080555540;
  char r1VK_00;
  r1VK_00 = 0;
  short tuQ_kc;
@@ -167,7 +167,7 @@ int main(int argc, char** argv) {
     long long    knnz78_;
     knnz78_    =    975224490;
  unsigned short E28z;
- E28z = -231470694;
+ E28z = (unsigned short)-231470694;
  unsigned short AiEL;
  AiEL = -530990997;
     int    BLEQ_74;
@@ -224,7 +224,7 @@ break;
 }
 P31YOjsj = (unsigned long)(knnz78_);
 std::cout << N0mo / r1VK_00 << std::endl;
-bpYAX6_ = IBw5ZiS(bpYAX6_, (char)871884271, C5VdHh, 1580000218);
+bpYAX6_ = IBw5ZiS(bpYAX6_, (char)871884271, C5VdHh, (unsigned char)1580000218);
 
 ZFDR7r9rZm = hjkWv_57u << 990175653;
 aOxAf66y = IBw5ZiS(aOxAf66y, P31YOjsj, 961847383, vI71H6);

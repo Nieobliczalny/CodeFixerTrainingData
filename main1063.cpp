@@ -26,7 +26,7 @@ int main(int argc, char** argv)
  char ZOWbl6v_C, tF7s5w58i8, zRo_Md6epO, OG161tU, iWm3KC, hZD3D_9, D644QlkFgd, U0Jo8, ZapJs, zumuu, UdgRfP2N, h3_54, cVF4h, LW4Ht5riXH, KvAw_4, SqRhr, xwSk_Wgql, UR_6U, NJcP6, cS3JzbU2, Y39P2O, O552, lsrU6OZL, BsdB, FD587204, dw9eJou, dJnVfGl86, Lnt9CU8, Cb0_OaDV6, UDPfhc7BzR, PEV2GTa9p_, JcZoTy_, E1bl7d, QwQ051B49, tsXdAND, m0Tc, qyDWXWoV, Axj3HGlFcJ, QJ5p, w071, nZuzEle, w8p9, HI89WuD7I, NgH6Q, NT63i0kND, p2_7f, nrahu_, iK9YJ30Y2, f_646iI, Pd0PA6neFb, sw35zYvO, tM61HR, j203O5C, hg8yngV5, dm2T9T, Dhmpaw, F6l94Csh, anNXi, nlBlUzeF7, uGHa6, dxsbDP56;
  ZOWbl6v_C = (char)2072824271;
  tF7s5w58i8 = (char)957931578;
- zRo_Md6epO = 636082800;
+ zRo_Md6epO = (char)636082800;
  OG161tU = -19694385;
  iWm3KC = 611164830;
  hZD3D_9 = -1294684420;
@@ -36,7 +36,7 @@ int main(int argc, char** argv)
  zumuu = 1132749505;
  UdgRfP2N = (char)1156856120;
  h3_54 = (char)-806366026;
- cVF4h = -1859694216;
+ cVF4h = (char)-1859694216;
  LW4Ht5riXH = 882396780;
  KvAw_4 = 2034113334;
  SqRhr = 1093374593;
@@ -46,7 +46,7 @@ int main(int argc, char** argv)
  cS3JzbU2 = 1219798403;
  Y39P2O = (char)-3746836;
  O552 = (char)-339608294;
- lsrU6OZL = 1603307493;
+ lsrU6OZL = (char)1603307493;
  BsdB = 1135986982;
  FD587204 = 1738053590;
  dw9eJou = -1409960124;
@@ -56,7 +56,7 @@ int main(int argc, char** argv)
  UDPfhc7BzR = -425088303;
  PEV2GTa9p_ = (char)903828309;
  JcZoTy_ = (char)1812371108;
- E1bl7d = 782791075;
+ E1bl7d = (char)782791075;
  QwQ051B49 = 360509917;
  tsXdAND = -1559173703;
  m0Tc = -1977866597;
@@ -66,7 +66,7 @@ int main(int argc, char** argv)
  w071 = 1412470455;
  nZuzEle = (char)1853579428;
  w8p9 = (char)1437778935;
- HI89WuD7I = 180001495;
+ HI89WuD7I = (char)180001495;
  NgH6Q = -25543241;
  NT63i0kND = 2136889449;
  p2_7f = -748580134;
@@ -76,7 +76,7 @@ int main(int argc, char** argv)
  Pd0PA6neFb = 1501714799;
  sw35zYvO = (char)-127353249;
  tM61HR = (char)523208485;
- j203O5C = 156910258;
+ j203O5C = (char)156910258;
  hg8yngV5 = 529551219;
  dm2T9T = -1971209781;
  Dhmpaw = -832543452;
@@ -159,7 +159,7 @@ catch (int& errorCode)
 M8sFYaXu8M = zdN8p8(-2082310165, 1717380945, 1225192987, w071, Y39P2O);
 }
 }
-U0Jo8 = pl5gQw(U0Jo8, UR_6U, 1434875087, 1972638183, p2_7f);
+U0Jo8 = pl5gQw(U0Jo8, UR_6U, 1434875087, (unsigned short)1972638183, p2_7f);
 return 0;
 }
 

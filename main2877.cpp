@@ -28,7 +28,7 @@ int main() {
  unsigned char Ua0K;
  Ua0K = (unsigned char)459505585;
 	unsigned short int	dW49T;
-	dW49T	=	1850996145;
+	dW49T	=	(unsigned short)1850996145;
   unsigned long  OF4dIJa9;
   OF4dIJa9  =  1354576280;
 	long long	ybl7q58_;
@@ -547,7 +547,7 @@ VB0r23N_g = s1j31_F7(VB0r23N_g, (unsigned short)-2050587032, D95h2HX4o6);
 }
 
 std::cout << s1j31_F7(971666307, (unsigned short)-639646045, -200295497) << std::endl;
-VB0r23N_g = s1j31_F7(K00p00x, 946037014, 1611013806);
+VB0r23N_g = s1j31_F7(K00p00x, (unsigned short)946037014, 1611013806);
 
 for (int i = 9; i >= 0; i--)
 {

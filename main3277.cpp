@@ -252,7 +252,7 @@ Fey01v2h_ = C2Wtj(EAy44yZX1, 283121183, (short)-548120612, Bqi_8q, (unsigned sho
 }
 else if (JBIz_v5YQ > -1624008017)
 {
-PcA8i = oNL17(1059353203, 1938790726, iE66om4hQ, DUFr8667kl);
+PcA8i = oNL17((short)1059353203, 1938790726, iE66om4hQ, DUFr8667kl);
 }
 else
 {

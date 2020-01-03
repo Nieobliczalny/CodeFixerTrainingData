@@ -21,7 +21,7 @@ int main(void)
     unsigned short    AAb_aZhGa;
     AAb_aZhGa    =    (unsigned short)-627156258;
     unsigned short int    mY9uWtS74;
-    mY9uWtS74    =    -778994453;
+    mY9uWtS74    =    (unsigned short)-778994453;
  int fa9m2R884Q;
  fa9m2R884Q = 1731023433;
 	double	NST0;
@@ -35,7 +35,7 @@ int main(void)
     short int    FKM0o025_;
     FKM0o025_    =    (short)2001480019;
  unsigned char kN9kH_603S;
- kN9kH_603S = -1945268070;
+ kN9kH_603S = (unsigned char)-1945268070;
   short int  oTjm;
   oTjm  =  -1871597785;
  unsigned int s_sdMu;
@@ -67,7 +67,7 @@ int main(void)
 	double	eO631O8p;
 	eO631O8p	=	967568347;
  unsigned short int CE2k_W14Rg;
- CE2k_W14Rg = 1186108258;
+ CE2k_W14Rg = (unsigned short)1186108258;
   long double  Z92bC0yb4;
   Z92bC0yb4  =  1686717654;
     long    Eo52;
@@ -83,7 +83,7 @@ int main(void)
     unsigned int    fGeQ;
     fGeQ    =    -1370736377;
 
-std::cout << wH0Q74EXX(-491356916, f2MoC8Ah, (short)-1683731936, IqfZwj, CE2k_W14Rg) << yfN45ql(kYvy9UFmYy, f2MoC8Ah, -1281829503) << std::endl;
+std::cout << wH0Q74EXX(-491356916, f2MoC8Ah, (short)-1683731936, IqfZwj, CE2k_W14Rg) << yfN45ql(kYvy9UFmYy, f2MoC8Ah, (unsigned short)-1281829503) << std::endl;
 
 fGeQ = yfN45ql(406282607, 633804841, gl1_b);
 
@@ -146,7 +146,7 @@ case 2:
 fN2WCaHgW = yfN45ql(-1780679617, (char)1235659570, VI2b3nq1E);
 break;
 case 3:
-E10w8P8X = wH0Q74EXX(40120300, -1850317756, 1872081357, fN2WCaHgW, 1993172973);
+E10w8P8X = wH0Q74EXX(40120300, (short)-1850317756, 1872081357, fN2WCaHgW, 1993172973);
 break;
 case 4:
 wF2POYu45 = (int)abs(eCh5Mi);
@@ -237,7 +237,7 @@ case 'a':
 Eo52 = yfN45ql(Eo52, YzT5tR, (unsigned short)2118838232);
 break;
 case 'b':
-vfBo30 = wH0Q74EXX(IqfZwj, (short)2130390040, 1545843689, bHkQn0_, C7IG_36);
+vfBo30 = wH0Q74EXX(IqfZwj, (short)2130390040, (short)1545843689, bHkQn0_, C7IG_36);
 break;
 case 'c':
 VI2b3nq1E = (int)floor(I9_Ma);
@@ -430,7 +430,7 @@ while (i >= 0)
 {
 try
 {
-AAb_aZhGa = yfN45ql(-966902726, (char)-1409368563, -570288281);
+AAb_aZhGa = yfN45ql(-966902726, (char)-1409368563, (unsigned short)-570288281);
 }
 catch (int& errorCode)
 {

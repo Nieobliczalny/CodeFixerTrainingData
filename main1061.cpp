@@ -21,7 +21,7 @@ int main() {
   short int  oPtx_5,  C0lvc,  n8823XcJ,  xf_K6KF,  j1WT5kx,  W4o9s1D4I,  x5o6F94e,  p0QZ_zHoL;
   oPtx_5  =  (short)2143975002;
   C0lvc  =  (short)1322450647;
-  n8823XcJ  =  -199364158;
+  n8823XcJ  =  (short)-199364158;
   xf_K6KF  =  -852934572;
   j1WT5kx  =  -1160939227;
   W4o9s1D4I  =  320467652;

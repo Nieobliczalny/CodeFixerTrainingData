@@ -35,7 +35,7 @@ int main(int argc, char** argv)
 	short int	nsK45;
 	nsK45	=	(short)1338846123;
  unsigned short int Dy8KY;
- Dy8KY = 1340279529;
+ Dy8KY = (unsigned short)1340279529;
 	unsigned long long	D4UzC;
 	D4UzC	=	-736287990;
 	unsigned short	et4Z;
@@ -61,7 +61,7 @@ int main(int argc, char** argv)
   short int  g2dkoQ5;
   g2dkoQ5  =  (short)-2038436547;
   char  Swcn3TZ;
-  Swcn3TZ  =  -125518493;
+  Swcn3TZ  =  (char)-125518493;
  long double HebL;
  HebL = 2053684554;
  unsigned long long ZMF4143B;
@@ -83,7 +83,7 @@ int main(int argc, char** argv)
  short int fmwioS8yu2;
  fmwioS8yu2 = (short)-272758018;
 	unsigned short int	P43N_UD3;
-	P43N_UD3	=	-1359142045;
+	P43N_UD3	=	(unsigned short)-1359142045;
  char BaO9AW;
  BaO9AW = 996397528;
 	unsigned long	qvUDG;
@@ -121,7 +121,7 @@ int main(int argc, char** argv)
 	short int	Csq7sRU;
 	Csq7sRU	=	(short)-1443888096;
 	unsigned short int	i278UKBr9_;
-	i278UKBr9_	=	1884532993;
+	i278UKBr9_	=	(unsigned short)1884532993;
   long long  c0QUq;
   c0QUq  =  -1899452496;
   unsigned short int  t1Td5;
@@ -133,7 +133,7 @@ int main(int argc, char** argv)
     unsigned long    Li4Vf3KC1;
     Li4Vf3KC1    =    -809218274;
 
-cout << yXG_2z(et4Z, (short)38754738, (char)-1831388709, -871348971, -1121442573) << "x03mL57xw" << "O_77" << "R5x5XEqL" << endl;
+cout << yXG_2z(et4Z, (short)38754738, (char)-1831388709, (short)-871348971, -1121442573) << "x03mL57xw" << "O_77" << "R5x5XEqL" << endl;
 cout << kB4_T() << "Q6EVE7_" << kB4_T() << KsXC_3(1033128748, P43N_UD3) << eN00bQ_48S << endl;
 
 et4Z = uMUX / zG__r5W;
@@ -167,7 +167,7 @@ case 7:
 t1Td5 = T5z3((short)-769878247, (short)1522629027, dOdI_Vt, P3P_768);
 break;
 case 8:
-nsK45 = yXG_2z(1568469952, -236464777, 196077058, b83Qi6v, e7Tvwt);
+nsK45 = yXG_2z(1568469952, (short)-236464777, 196077058, b83Qi6v, e7Tvwt);
 break;
 case 9:
 JTrI97x = T5z3(-365271536, Nbd5QIv5jH, 355178971, eN00bQ_48S);
@@ -209,7 +209,7 @@ a87kuo9K += k5__FXu;
 }
 else if (oZ90 != unU7Ej)
 {
-e7Tvwt = yXG_2z(-724406200, (short)311546957, 1810534769, 1735935293, -2103246206);
+e7Tvwt = yXG_2z(-724406200, (short)311546957, (char)1810534769, 1735935293, -2103246206);
 }
 else if (zG__r5W > U12167)
 {

@@ -234,7 +234,7 @@ break;
 }
 ZGw0JZGUQ = Sje4b_5 - 1556523553;
 
-I3bm_R5 = KryDdEm(1552655013, 473299441, -660632833, jZ8vb, 1110478086);
+I3bm_R5 = KryDdEm(1552655013, 473299441, -660632833, jZ8vb, (char)1110478086);
 {
 int i = 0;
 do
@@ -274,7 +274,7 @@ while (k >= 0);
 }
 }
 
-cout << VwwaU << KryDdEm(uk16O1, Y6u_TV, -703823270, ZGw0JZGUQ, (char)1648969674) << I9Qf8uhs(uk16O1, Y6u_TV, cfuJp, -1230409809) << o3Af << endl;
+cout << VwwaU << KryDdEm(uk16O1, Y6u_TV, -703823270, ZGw0JZGUQ, (char)1648969674) << I9Qf8uhs(uk16O1, Y6u_TV, cfuJp, (unsigned short)-1230409809) << o3Af << endl;
 
 try
 {

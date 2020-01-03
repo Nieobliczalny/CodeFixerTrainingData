@@ -267,7 +267,7 @@ ReJ4_m4 <<= 310923954;
 }
 else
 {
-M9ADB4 = DH_b(M9ADB4, 1726150681);
+M9ADB4 = DH_b(M9ADB4, (short)1726150681);
 }
 
 switch (us5z)
@@ -313,7 +313,7 @@ case 4:
 z14mQIMS2 = (int)abs(gas9Pi7) + (28758554);
 break;
 case 5:
-v1p6f__6 = DH_b((short)92024514, -288205140);
+v1p6f__6 = DH_b((short)92024514, (short)-288205140);
 break;
 case 6:
 wQv3w1_Gi = gas9Pi7 & 985441267;

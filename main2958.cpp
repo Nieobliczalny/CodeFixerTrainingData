@@ -446,7 +446,7 @@ tRGSNeG = E13I5P7((unsigned short)489574700, (short)1801080742, -2147230191);
 }
 if (XTm2o >= -1012437440)
 {
-JeE2Z = E13I5P7(-731614019, gtQ2329a, -1844999132);
+JeE2Z = E13I5P7((unsigned short)-731614019, gtQ2329a, -1844999132);
 }
 else
 {
@@ -497,7 +497,7 @@ short	w4ar2Z1(char	v8Yym1SR)
 }
 
 unsigned char	EDrcFcKN(long	hW9_S)	{
-	return	177036250;
+	return	(unsigned char)177036250;
 }
 
 unsigned long	E13I5P7(unsigned short	M5h99,short int	rZX55B4,int	Xri0ubQ3_f)	{

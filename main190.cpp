@@ -37,7 +37,7 @@ int main(void)
 // codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
   short int  qYzE3  =  1355398030,  AfT7t4jql  =  202250333,  Re_KZcT  =  -1238919434,  Y1Zr  =  -456928947,  j83ClB0n84  =  -1787452448,  g0cFH  =  1290681121,  c8yT  =  1309187391,  B6Eivpnry  =  1371305176,  Vh8m  =  42133122,  JATwlx3NA  =  1445153273,  nSf1JG8n  =  -1725679892,  S7b_9Gj  =  118957539,  R5WDDlO32c  =  -304457403,  shgvjPf  =  -2124404071,  RK1_  =  -916950842,  wWok1a  =  -1394047627,  zM_EQiD4d  =  1556159918,  e8XtJvk_  =  -372483460,  Kj9l  =  955388928,  dTiW_9  =  -1766466716,  aO2eA  =  984643751,  o8XTpS6q_x  =  564642039,  hQjPTWT  =  212730946,  xVV55W_q9  =  1221353512,  u01P4  =  408155029,  WHKeB9eakJ  =  1079063742,  B_wcTws  =  1753637947,  U7gaGYF  =  -1482605596,  phc8FWB_3X  =  -2116991223,  CCZXaFd3  =  -1697247650,  uLjY  =  -232039606,  zp4_4  =  860883860,  blQNRC9  =  1868890034,  V75s  =  -380762144,  VXkiw  =  1257153302,  T7hozN4Q7  =  -2052356786,  cU59  =  14891471,  Jq7NmWf0D9  =  2035213928,  H5wRW  =  857193888,  fU4zZG2u  =  170638897,  UMCEve18  =  -2022561619,  D7R3rx2y0  =  1856388169,  FBXwz0b  =  1558180034,  K1GW  =  -1448384850,  kk8u3bSs_3  =  -685918710,  LbTL2vCfti  =  -739663360,  uL64PSA86  =  -1708769272,  UG0N2qS  =  1064238243,  r5nsoY  =  -432510148,  t56D3N  =  -186865758,  H9F92OVZ  =  -2129099763;
 
-std::cout << uUTd4y6VPz((char)239916514, AfT7t4jql, -1792199056, Y1Zr, j83ClB0n84) << qYzE3 << "JWN0xMZ_" << Rsu8Fa6IB(-1863659890, 1493714648, -1960356845, -146760145, j83ClB0n84) << std::endl;
+std::cout << uUTd4y6VPz((char)239916514, AfT7t4jql, -1792199056, Y1Zr, j83ClB0n84) << qYzE3 << "JWN0xMZ_" << Rsu8Fa6IB((unsigned short)-1863659890, 1493714648, -1960356845, -146760145, j83ClB0n84) << std::endl;
 for (int i = 3; i >= 0; --i)
 {
 OIt9Nt = Rsu8Fa6IB(1790984070, 1566611855, -586158259, u01P4, -713181894);
@@ -58,7 +58,7 @@ int k = 0;
 while (k < 1)
 {
 k++;
-zp4_4 = uUTd4y6VPz((char)858236121, (unsigned short)-1814234933, 730188502, 1897829970, j83ClB0n84);
+zp4_4 = uUTd4y6VPz((char)858236121, (unsigned short)-1814234933, 730188502, (unsigned short)1897829970, j83ClB0n84);
 }
 }
 }
@@ -114,7 +114,7 @@ zp4_4 >>= Jq7NmWf0D9;
 break;
 case 'f':
 case 'F':
-zM_EQiD4d = uUTd4y6VPz((char)1996186648, (unsigned short)110561798, 238952248, 424842858, e8XtJvk_);
+zM_EQiD4d = uUTd4y6VPz((char)1996186648, (unsigned short)110561798, 238952248, (unsigned short)424842858, e8XtJvk_);
 break;
 case 'g':
 case 'G':
@@ -151,7 +151,7 @@ catch (int& errorCode)
 hQjPTWT = eR61C(hQjPTWT, -1492157939);
 }
 
-kk8u3bSs_3 = wBNVm1S(1368713040, 744983451);
+kk8u3bSs_3 = wBNVm1S((unsigned short)1368713040, 744983451);
 if ((hQjPTWT <= 1437083491) || ((T7hozN4Q7 < 967436317) || (e8XtJvk_ <= Vh8m)))
 {
 try
@@ -390,7 +390,7 @@ catch (int& errorCode)
 LbTL2vCfti = uL64PSA86 >> Vh8m;
 }
 
-OIt9Nt = Rsu8Fa6IB(S7b_9Gj, (short)-1956581091, zp4_4, 1072912650, 1316691498);
+OIt9Nt = Rsu8Fa6IB(S7b_9Gj, (short)-1956581091, zp4_4, 1072912650, (unsigned short)1316691498);
 if (T7hozN4Q7 & -557894478)
 {
 U9wz4 = Rsu8Fa6IB(dTiW_9, V75s, FBXwz0b, r5nsoY, shgvjPf);
@@ -436,7 +436,7 @@ case 5:
 D7R3rx2y0 = eR61C((char)-1710555731, uL64PSA86);
 break;
 default:
-OIt9Nt = Rsu8Fa6IB((unsigned short)156707552, S7b_9Gj, 908750979, R5WDDlO32c, phc8FWB_3X);
+OIt9Nt = Rsu8Fa6IB((unsigned short)156707552, S7b_9Gj, (unsigned char)908750979, R5WDDlO32c, phc8FWB_3X);
 break;
 }
 }
@@ -511,7 +511,7 @@ case 'h':
 OIt9Nt = Rsu8Fa6IB((unsigned short)1424374059, UG0N2qS, Re_KZcT, -1893969925, (unsigned short)-1886855879);
 break;
 case 'i':
-D7R3rx2y0 = aB7ryc0rC(1872936418);
+D7R3rx2y0 = aB7ryc0rC((unsigned char)1872936418);
 break;
 case 'j':
 Jq7NmWf0D9 = (Y1Zr != 409185533) ? zp4_4 : RK1_;
@@ -628,7 +628,7 @@ case 'c':
 LbTL2vCfti = uUTd4y6VPz((char)1701486155, V75s, -1796848178, c8yT, (unsigned short)1708849750);
 break;
 case 'd':
-OIt9Nt = Rsu8Fa6IB(Y1Zr, RK1_, r5nsoY, CCZXaFd3, 1943727772);
+OIt9Nt = Rsu8Fa6IB(Y1Zr, RK1_, r5nsoY, CCZXaFd3, (unsigned short)1943727772);
 break;
 case 'e':
 D7R3rx2y0 = wBNVm1S(D7R3rx2y0, 396707585);

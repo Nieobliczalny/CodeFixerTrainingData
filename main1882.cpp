@@ -277,7 +277,7 @@ catch (int& errorCode)
 mW5Upg58 = RYG65BcC9D(mW5Upg58, lgsD7l7UW, R3358h2, fxMs, lm27Zbed);
 }
 
-cout << RYG65BcC9D(mW5Upg58, lgsD7l7UW, 614465225, fxMs, -1171840993) << "l2TNC3" << "D_Rjrs" << endl;
+cout << RYG65BcC9D(mW5Upg58, lgsD7l7UW, 614465225, fxMs, (short)-1171840993) << "l2TNC3" << "D_Rjrs" << endl;
 
 vJXH_T1 ^= l5A0pvh63;
 for (int i = 1; i >= 0; --i)

@@ -46,7 +46,7 @@ int main(int argc, char** argv)
 	int	qWS_uNT;
 	qWS_uNT	=	-1626494373;
  unsigned char F3ptq;
- F3ptq = 1897339702;
+ F3ptq = (unsigned char)1897339702;
 	double	z0SZ2In;
 	z0SZ2In	=	-1572341857;
  char E1__E_3_qm;
@@ -74,7 +74,7 @@ int main(int argc, char** argv)
  short Q_8BgDvWu;
  Q_8BgDvWu = (short)-610437059;
   unsigned short int  k4Xx;
-  k4Xx  =  -208427006;
+  k4Xx  =  (unsigned short)-208427006;
 	double	HyJezset;
 	HyJezset	=	-1220671266;
 	unsigned int	J_cDPpV1i;

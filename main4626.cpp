@@ -398,7 +398,7 @@ lT632c = (int)ceil(LjM4S_5);
 }
 else if (hM5O != XgWRpi68N)
 {
-std::cout << Q8N0H((unsigned short)312642257) << nQq__((unsigned char)-353026094, -77692080, -412326140, zu9Bn6q4) << Q8N0H(rY8m) << std::endl;
+std::cout << Q8N0H((unsigned short)312642257) << nQq__((unsigned char)-353026094, (unsigned short)-77692080, -412326140, zu9Bn6q4) << Q8N0H(rY8m) << std::endl;
 }
 else if (Ggm__)
 {

@@ -50,7 +50,7 @@ case 3:
 F306 = XR2d & T5_3_Px1Il;
 break;
 case 4:
-qqKHy_p_ = gb8Oq(1458966187, VNmk8, g7i2, F_xZlN2B9);
+qqKHy_p_ = gb8Oq((short)1458966187, VNmk8, g7i2, F_xZlN2B9);
 break;
 case 5:
 vLHSdqe3M_ = (LTn1 != i136BdrWS) ? -1863963347 : LTn1;

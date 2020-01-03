@@ -79,7 +79,7 @@ int main(void)
  long L2S_q5Q;
  L2S_q5Q = 2113946912;
   unsigned char  P0hbF6o_;
-  P0hbF6o_  =  1877806574;
+  P0hbF6o_  =  (unsigned char)1877806574;
     unsigned char    QyEnE76W;
     QyEnE76W    =    -784895260;
 	char	Txiq;
@@ -91,7 +91,7 @@ int main(void)
   unsigned char  wM_NQ4QYpD;
   wM_NQ4QYpD  =  (unsigned char)1479176891;
 	unsigned char	T52K2q91;
-	T52K2q91	=	1230721063;
+	T52K2q91	=	(unsigned char)1230721063;
     unsigned long long    pWFM_E;
     pWFM_E    =    -1629151175;
  char i4N8DV635V;
@@ -101,7 +101,7 @@ int main(void)
  short gRakB;
  gRakB = (short)1400665116;
     unsigned char    evcq;
-    evcq    =    1805064504;
+    evcq    =    (unsigned char)1805064504;
   float  LxAKl_;
   LxAKl_  =  1232955455;
     unsigned long long    fvQl;

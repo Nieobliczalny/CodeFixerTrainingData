@@ -38,7 +38,7 @@ int main()
 	unsigned short int	Em6Y	=	(unsigned short)1848407274;
     int    Ff48    =    -2036554611;
 	unsigned long	S4m44lt0	=	0;
-  unsigned short  DrR8  =  -1289906833;
+  unsigned short  DrR8  =  (unsigned short)-1289906833;
   int  vZO_k  =  0;
 	unsigned int	zw796awb	=	-394372685;
  short int Q6344kdnwL = 271526970;
@@ -50,7 +50,7 @@ int main()
 	float	u1_Od5	=	1502890749;
  long biL5_F = -153413966;
 	long	plc_Yke	=	1471145690;
-	short	VRJPxQEbd	=	1012410761;
+	short	VRJPxQEbd	=	(short)1012410761;
   long long  iaS4R5  =  -833650348;
  int be6jk9b = -1655380493;
     char    b2PFP    =    (char)-1244578340;
@@ -271,7 +271,7 @@ break;
 }
 ihF_VSSRE8 = (int)abs(vZO_k) + (-89781711);
 
-H_DWQ = cGhzd0T5k((unsigned char)805736109, (short)-2126657087, 276913537, 1280172880);
+H_DWQ = cGhzd0T5k((unsigned char)805736109, (short)-2126657087, (char)276913537, 1280172880);
 
 return 0;
 }

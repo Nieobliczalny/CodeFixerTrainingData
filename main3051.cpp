@@ -30,7 +30,7 @@ short    WQ9k9ti(char    s5x4,int    m53so5)    {
 
 int main() {
 	short	NiD4UR8eI	=	(short)-1794708091;
-	short int	j_o37Ys	=	936438086;
+	short int	j_o37Ys	=	(short)936438086;
 	long long	FJM0	=	-1530228945;
 	long long	H04Gjq_Syl	=	-720126407;
     char    ybzI    =    -1522812890;
@@ -43,7 +43,7 @@ int main() {
   unsigned short  L3_EyFdM1W  =  (unsigned short)-540033697;
  unsigned short int mPn_y_NLM = (unsigned short)1795941041;
  long long TS4fS21074 = -691550852;
- unsigned char Hg_IR1 = -34300589;
+ unsigned char Hg_IR1 = (unsigned char)-34300589;
 	double	Q71lf	=	732865674;
 	unsigned short int	K2Aq	=	1059505908;
 	float	b_G99S	=	1568772652;
@@ -54,7 +54,7 @@ int main() {
   char  OpcFkozU  =  (char)-1640097501;
  unsigned int GST2D12 = 1917117581;
 	unsigned long	BHnx0Fi	=	1606580873;
- unsigned short int MdINz8KqBZ = 1587579407;
+ unsigned short int MdINz8KqBZ = (unsigned short)1587579407;
   unsigned char  Z3ctJj  =  799044245;
   long long  QFY1D01iIE  =  -1163520949;
     double    F8EV    =    -356556226;
@@ -74,7 +74,7 @@ int main() {
   long double  MQ477De  =  -1251349454;
  unsigned long long kbA0 = 1284586324;
  unsigned short xAnbC4 = (unsigned short)544027607;
-    unsigned short    FeR_T3Io    =    1999798272;
+    unsigned short    FeR_T3Io    =    (unsigned short)1999798272;
 	int	OV5p669O	=	880848975;
   unsigned long  W7F2y  =  0;
 	unsigned char	Mt4qM04	=	(unsigned char)867826775;
@@ -655,7 +655,7 @@ if (W7F2y == 0)
 {
 	Wt10CNI = -1023279546 / W7F2y;
 }
-cout << d5_Ql10H(ybzI, (unsigned short)-1230650081, Khx2__, U60wX) << WQ9k9ti(1412443448, 1814793512) << sU_6s << U60wX << endl;
+cout << d5_Ql10H(ybzI, (unsigned short)-1230650081, Khx2__, U60wX) << WQ9k9ti((char)1412443448, 1814793512) << sU_6s << U60wX << endl;
 switch (L3XQh4)
 {
 case 0:

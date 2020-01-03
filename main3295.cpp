@@ -12,7 +12,7 @@ int main(void) {
     char    mcf4EQ_6_    =    0;
     short    cPKLNJk    =    (short)1330507478;
   short int  p9j8nu  =  (short)-171751287;
-    short int    Imb3xSH5R    =    -1431424557;
+    short int    Imb3xSH5R    =    (short)-1431424557;
 	long long	vT6J39o	=	-618558159;
  double O79P = 623515461;
     char    n83qE2    =    -2029388354;
@@ -29,7 +29,7 @@ int main(void) {
     unsigned long long    dM3ID_6Z8P    =    -1986102596;
 	short	A0184uH	=	(short)1821901553;
 	long	uVu6RN210	=	1582165836;
-  short int  WCLp1fp  =  -1968656917;
+  short int  WCLp1fp  =  (short)-1968656917;
  int Wjqyl8W3Z = 1858577383;
   unsigned char  tg72GI9  =  (unsigned char)-307953651;
   long  P2U_56EoG  =  -1093003207;
@@ -44,7 +44,7 @@ int main(void) {
 	unsigned char	HrsYh	=	(unsigned char)-35182774;
  unsigned short int ZbV8cvR = 0;
     unsigned long long    mv92QdgV    =    1749125245;
-	unsigned short	U53f_O82A2	=	218580874;
+	unsigned short	U53f_O82A2	=	(unsigned short)218580874;
 	unsigned int	g5N20_9	=	0;
 
 cout << "c00_A" << endl;

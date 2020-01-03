@@ -17,7 +17,7 @@ int main(int argc, char** argv) {
   long long  MmxsLP  =  1908953286;
   long long  hYrG  =  1791941846;
   long long  v1S0q2  =  -798844810;
-    unsigned short int    cg83X80c    =    -215992385;
+    unsigned short int    cg83X80c    =    (unsigned short)-215992385;
  double Y6hNi6l = 1349225559;
     int    l92MGXkMS    =    1696920045;
   unsigned long long  eHYBqt0k  =  -34921355;
@@ -27,7 +27,7 @@ int main(int argc, char** argv) {
   unsigned short int  JQ4i2ZTt  =  1468806233;
 	float	AOXY_Q	=	110541793;
 	unsigned short	PY0F9F	=	987808377;
-	char	X1fX6GPr	=	-1707668854;
+	char	X1fX6GPr	=	(char)-1707668854;
     unsigned short int    XSQ640L    =    -1886855327;
     int    AJCg8_xdIZ    =    1285758403;
  short vV0z_n_B = -1118457821;
@@ -245,7 +245,7 @@ else if (JQ4i2ZTt < VezFy)
 {
 if (cg83X80c)
 {
-BDh8xE = F0VOC5(444471549, Fjkv, 999201345);
+BDh8xE = F0VOC5((short)444471549, Fjkv, 999201345);
 }
 }
 else if (PY0F9F > l92MGXkMS)

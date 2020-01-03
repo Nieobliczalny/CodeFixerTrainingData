@@ -227,7 +227,7 @@ case 'd':
 XjF2_g_B = bwQsz((unsigned short)-1369751226);
 break;
 case 'e':
-V57Ausig = TdFf7(506403863, 1592938670, 714094158, 414681217, O9wLn_B);
+V57Ausig = TdFf7((unsigned short)506403863, 1592938670, 714094158, 414681217, O9wLn_B);
 break;
 case 'f':
 ql21yDTi4 = g98A ^ C6pj1O9q0h;
@@ -417,7 +417,7 @@ case 0:
 aZV2 = TdFf7((unsigned short)-1269592825, (short)1731259934, 1696728971, 728702611, D8s_c) << g98A;
 break;
 case 1:
-W00IIjg7j = R_V3_o(1426718491, D8s_c);
+W00IIjg7j = R_V3_o((unsigned short)1426718491, D8s_c);
 break;
 case 2:
 z4lm2 = bwQsz(-485309284);
@@ -444,7 +444,7 @@ case 9:
 IiQ_T2uW = TdFf7(Wv02mnk, (short)2057613513, lA2pkR, 1446887219, 1722494349);
 break;
 default:
-GO17A1 = R_V3_o(-827113229, Ko5dw);
+GO17A1 = R_V3_o((unsigned short)-827113229, Ko5dw);
 break;
 }
 }

@@ -27,7 +27,7 @@ int main()
 
 try
 {
-rDf_oy = IspK3ab25j((short)618920469, m5jbV3fq8L, 1656817671, 2029983118);
+rDf_oy = IspK3ab25j((short)618920469, m5jbV3fq8L, (unsigned short)1656817671, 2029983118);
 }
 catch (int& errorCode)
 {
@@ -265,7 +265,7 @@ bkNk = mm0H016PGp((unsigned short)513172529, 1847911020, yWS2j, (short)137544287
 }
 else
 {
-bkNk = mm0H016PGp(esTF, 1892654287, P_e2bwUb, 1257614027);
+bkNk = mm0H016PGp(esTF, 1892654287, P_e2bwUb, (short)1257614027);
 }
 }
 else
@@ -296,7 +296,7 @@ case 3:
 m5xbKs = C2Dh6 >> 974142317;
 break;
 case 4:
-bkNk = mm0H016PGp(X_Fu, 749816131, -42221319, FbCp);
+bkNk = mm0H016PGp(X_Fu, 749816131, (unsigned short)-42221319, FbCp);
 break;
 case 5:
 GA8C = mm0H016PGp(X_Fu, m5xbKs, B24W, FbCp) | d8a4vgb_;
@@ -335,7 +335,7 @@ rDf_oy = IspK3ab25j(bkNk, 909062331, UT6zPE, -1026445334);
 break;
 case 'c':
 case 'C':
-bkNk = mm0H016PGp(W7H7M0, -1075178004, (unsigned short)-1593834834, 749353170);
+bkNk = mm0H016PGp(W7H7M0, -1075178004, (unsigned short)-1593834834, (short)749353170);
 break;
 case 'd':
 case 'D':
@@ -490,7 +490,7 @@ case 0:
 WpQ0JIM1Ew |= 99274542;
 break;
 case 1:
-C2Dh6 = mm0H016PGp((unsigned short)-1945125842, 1569504168, (unsigned short)-2033857682, 1655235703) << 688394080;
+C2Dh6 = mm0H016PGp((unsigned short)-1945125842, 1569504168, (unsigned short)-2033857682, (short)1655235703) << 688394080;
 break;
 case 2:
 UT6zPE++;

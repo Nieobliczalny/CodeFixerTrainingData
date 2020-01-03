@@ -29,7 +29,7 @@ int main(void)
 	short	w7K9p;
 	w7K9p	=	(short)1146267577;
  char GRVm;
- GRVm = -953369982;
+ GRVm = (char)-953369982;
     long double    F2x2j;
     F2x2j    =    -832732774;
 	unsigned short	dB7zZ2;
@@ -59,7 +59,7 @@ int main(void)
   unsigned short int  onGwLS;
   onGwLS  =  (unsigned short)-90634781;
  short int RWHi20_7nU;
- RWHi20_7nU = -1828723131;
+ RWHi20_7nU = (short)-1828723131;
 	unsigned char	N648rE9;
 	N648rE9	=	-1596840408;
 	short	J7rK;
@@ -101,7 +101,7 @@ int main(void)
   long double  S65Bt4;
   S65Bt4  =  -1524879614;
  char T_c84Y60;
- T_c84Y60 = 1494810825;
+ T_c84Y60 = (char)1494810825;
   unsigned short  v0aQ6;
   v0aQ6  =  (unsigned short)1165471695;
  int L7M22_i;
@@ -125,7 +125,7 @@ int main(void)
     unsigned int    vaYP;
     vaYP    =    794496851;
  char i29ATkHVK9;
- i29ATkHVK9 = -1045874157;
+ i29ATkHVK9 = (char)-1045874157;
 	int	lbo8W59NiR;
 	lbo8W59NiR	=	793485309;
   short  u226L0u8;
@@ -135,7 +135,7 @@ int main(void)
     char    MV2W8c;
     MV2W8c    =    (char)1826542695;
 	short int	tY09qxHSg;
-	tY09qxHSg	=	1853010140;
+	tY09qxHSg	=	(short)1853010140;
  long q2sFH;
  q2sFH = -2070242309;
 	double	ld61oZ;
@@ -149,7 +149,7 @@ int main(void)
   double  dbuhOIaGKx;
   dbuhOIaGKx  =  -1440764572;
  short OqkTI;
- OqkTI = 1523468837;
+ OqkTI = (short)1523468837;
   double  f2XJrmb;
   f2XJrmb  =  -668990827;
  unsigned short t97Jj05;
@@ -161,7 +161,7 @@ int main(void)
     double    K4T3Go;
     K4T3Go    =    464105287;
 	char	pR5RaG5d4;
-	pR5RaG5d4	=	298985522;
+	pR5RaG5d4	=	(char)298985522;
  unsigned short int lT9A1d28b;
  lT9A1d28b = (unsigned short)493641020;
     unsigned char    IK5Io_P56;
@@ -181,7 +181,7 @@ int main(void)
   unsigned short int  H160rgNZ;
   H160rgNZ  =  (unsigned short)-2105999182;
 	short int	saeC0a;
-	saeC0a	=	-594129397;
+	saeC0a	=	(short)-594129397;
     unsigned long long    u8rkoYq973;
     u8rkoYq973    =    401685851;
     int    T44EHKjE;
@@ -199,7 +199,7 @@ int main(void)
   char  SF_4v;
   SF_4v  =  (char)1911078307;
  char ohZ_g7JC6;
- ohZ_g7JC6 = -47018434;
+ ohZ_g7JC6 = (char)-47018434;
  double d0Ocx71;
  d0Ocx71 = -433290099;
     unsigned long long    OVP215KCz;

@@ -60,7 +60,7 @@ int main(void)
  unsigned char bVQymciGlF;
  bVQymciGlF = (unsigned char)1700520997;
   short  v4ry92N;
-  v4ry92N  =  -1023568768;
+  v4ry92N  =  (short)-1023568768;
  char to0Ifr;
  to0Ifr = (char)693753155;
 	unsigned char	p8A7;

@@ -337,7 +337,7 @@ case 3:
 SJq9 = (int)floor(c_4U2CY9y7);
 break;
 case 4:
-yIu5tNu4 = nLRf7591m(1768522319, 51982293, 1186938013);
+yIu5tNu4 = nLRf7591m(1768522319, (char)51982293, 1186938013);
 break;
 case 5:
 uIa58m88 = gE_ba / i9On;
@@ -384,7 +384,7 @@ std::cout << nLRf7591m(m3Xk, (char)1943526477, K95sUBpyYs) << gE_ba << "jwr5RZ0T
 while (i >= 0);
 }
 
-std::cout << nLRf7591m(m3Xk, -467943859, K95sUBpyYs) << Kiu8B << nLRf7591m(m3Xk, -1592640375, K95sUBpyYs) << nLRf7591m(m3Xk, s00A04Q, K95sUBpyYs) << std::endl;
+std::cout << nLRf7591m(m3Xk, (char)-467943859, K95sUBpyYs) << Kiu8B << nLRf7591m(m3Xk, -1592640375, K95sUBpyYs) << nLRf7591m(m3Xk, s00A04Q, K95sUBpyYs) << std::endl;
 if (bg0ZvSF & 1115169422)
 {
 Qhv6 /= 458206560;

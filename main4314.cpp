@@ -369,7 +369,7 @@ aK1Bx = B9EA51_z40((unsigned short)178679232, RDhrIz, 377993178, QLLVeIXv, -2768
 }
 else
 {
-aK1Bx = B9EA51_z40((unsigned short)-475173043, -2080678238, bTrtF36, 382279093, aK1Bx);
+aK1Bx = B9EA51_z40((unsigned short)-475173043, -2080678238, bTrtF36, (unsigned char)382279093, aK1Bx);
 }
 }
 else if (ExTi8O <= 1701022720)

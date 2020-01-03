@@ -72,7 +72,7 @@ std::cout << P9pn2((short)1558797910) << K5n6Fx07() << std::endl;
 }
 }
 }
-q99u59110 = CPo1Fo((char)-1855860357, q99u59110, -523461516, -1643174114, Wt2f99DiZ);
+q99u59110 = CPo1Fo((char)-1855860357, q99u59110, (char)-523461516, -1643174114, Wt2f99DiZ);
 
 {
 int i = 0;
@@ -162,7 +162,7 @@ std::cout << P9pn2((short)1845156206) << rihK << O27uU << "m750cq" << std::endl;
 }
 else
 {
-std::cout << P9pn2((short)1131368856) << se024G6QQj << O27uU << CPo1Fo(-271866453, z4L249A8S, -811071813, D1402C8, 1912169277) << "f5Yi" << std::endl;
+std::cout << P9pn2((short)1131368856) << se024G6QQj << O27uU << CPo1Fo((char)-271866453, z4L249A8S, -811071813, D1402C8, 1912169277) << "f5Yi" << std::endl;
 }
 {
 int i = 0;

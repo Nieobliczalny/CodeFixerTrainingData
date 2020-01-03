@@ -82,7 +82,7 @@ int main(void)
   long long  IHZdAzN29B;
   IHZdAzN29B  =  0;
  unsigned short FHu9i2pssl;
- FHu9i2pssl = 2037235829;
+ FHu9i2pssl = (unsigned short)2037235829;
 	short int	kE4tvV0;
 	kE4tvV0	=	(short)1392645928;
   int  YX6G;
@@ -114,7 +114,7 @@ int main(void)
 
 for (int i = 2; i >= 0; --i)
 {
-LjlLto_7 = IZuPpx1((short)774597269, -1808759587, -325417730, 1472341494);
+LjlLto_7 = IZuPpx1((short)774597269, (unsigned short)-1808759587, -325417730, 1472341494);
 }
 
 std::cout << "VYBMP1" << gI22e << std::endl;
@@ -155,7 +155,7 @@ case 5:
 lB_cwJXA = q__y87W18(lB_cwJXA, -1480221253, 1632502678, Eq1JX);
 break;
 case 6:
-hXxA = ZA9C10E(744380287, u12aqV, FHu9i2pssl);
+hXxA = ZA9C10E((unsigned short)744380287, u12aqV, FHu9i2pssl);
 break;
 case 7:
 n_1iG = (int)abs(YX6G);
@@ -228,7 +228,7 @@ case 'I':
 T_lNccf7na = r3sE_(C_I065641, (unsigned short)1329419055, (short)1898859847);
 break;
 default:
-kp4w = ZA9C10E(-1434497612, FHu9i2pssl, hq_4DEFgQ) ^ 340338569;
+kp4w = ZA9C10E((unsigned short)-1434497612, FHu9i2pssl, hq_4DEFgQ) ^ 340338569;
 break;
 }
 }
@@ -356,7 +356,7 @@ std::cout << "b0blf" << ZA9C10E(s31m1, (unsigned short)-1249736562, (unsigned ch
 
 S7_fJihsv2 = (int)floor(LjlLto_7);
 
-std::cout << "Lgb9I" << lEgrraU9iU << r3sE_(s31m1, -1751276723, biNNIo36vO) << std::endl;
+std::cout << "Lgb9I" << lEgrraU9iU << r3sE_(s31m1, (unsigned short)-1751276723, biNNIo36vO) << std::endl;
 
 if (EKhS5n5jWE <= AgAKi4G4)
 {
@@ -367,7 +367,7 @@ else
 IHZdAzN29B = r3sE_(1105477738, (unsigned short)-1858439415, (short)-2024985828);
 }
 
-if ((-435722999 / r3sE_(S7_fJihsv2, -306296226, wn5gi0T01)) == 1581748365)
+if ((-435722999 / r3sE_(S7_fJihsv2, (unsigned short)-306296226, wn5gi0T01)) == 1581748365)
 {
 FHu9i2pssl = s31m1 / r3sE_(-842242095, FHu9i2pssl, wn5gi0T01);
 }
@@ -377,7 +377,7 @@ if (((hs2ACqQv8 >= -1140357800) || (N5_h != BY59)) && ((EKhS5n5jWE <= BY59) && (
 int j = 0;
 do
 {
-std::cout << IZuPpx1((short)-210324788, (unsigned short)747491830, -2049493839, -1888208072) << "q0GRU" << std::endl;
+std::cout << IZuPpx1((short)-210324788, (unsigned short)747491830, (short)-2049493839, -1888208072) << "q0GRU" << std::endl;
 ++j;
 }
 while (j < 9);

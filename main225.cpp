@@ -35,7 +35,7 @@ int main(int argc, char** argv) {
  double LrUSP_505a = 1240121965;
   unsigned long  pWg_i  =  -565567997;
  int pPOl0 = -1676141647;
-  unsigned short  nI72jJuZQ  =  278276542;
+  unsigned short  nI72jJuZQ  =  (unsigned short)278276542;
   char  r092H23i  =  -1520254767;
   double  KJXP6E  =  1779470983;
     short    oY6wG8yV_    =    (short)-1150079800;
@@ -47,7 +47,7 @@ int main(int argc, char** argv) {
  short int s3I096 = -1207992329;
  float w1BN = -928836523;
     float    D19nzzT    =    658527885;
-    char    eSFuqF    =    -1815682288;
+    char    eSFuqF    =    (char)-1815682288;
     short    xz7Km    =    (short)-1669370348;
     unsigned long    plu4r8    =    25359910;
     char    vIs3h    =    (char)873727078;
@@ -57,7 +57,7 @@ int main(int argc, char** argv) {
     short int    xD4n9lrH    =    0;
 	long long	zYq77	=	-968926972;
   short  u476l8ey_  =  167665989;
-	unsigned short	KM9k6coA	=	47431115;
+	unsigned short	KM9k6coA	=	(unsigned short)47431115;
     long double    ggy03__wzt    =    1358090064;
 	char	TJh5E1qYix	=	(char)-3492771;
   long long  Qm9T28  =  -53883897;
@@ -70,7 +70,7 @@ int main(int argc, char** argv) {
   unsigned long  x_2Ka  =  -1279118054;
   long long  jI8nj  =  1177954780;
   unsigned short int  dD6854xs1  =  (unsigned short)970691752;
-	short	fmI181u3aD	=	-66163444;
+	short	fmI181u3aD	=	(short)-66163444;
  char cLDMG53 = -860173445;
   long  WUwfm6p  =  -1358684032;
  unsigned short int NQnMdj3JK = (unsigned short)-303166447;
@@ -87,7 +87,7 @@ int main(int argc, char** argv) {
  char DKUWF = (char)-151530303;
  double gt74JH15R9 = -1050470009;
 	unsigned long	gzsT_YmhK	=	369622917;
-    char    uD2mWEBMty    =    -897236759;
+    char    uD2mWEBMty    =    (char)-897236759;
   int  UH_3avvA6Q  =  1239226917;
 	unsigned short int	LXIVR3	=	705495776;
   unsigned short int  vLsAWbXNyD  =  -730367330;
@@ -99,7 +99,7 @@ int main(int argc, char** argv) {
  char mEW4JP = 101390002;
  long double EeSy529HF9 = -936116306;
   unsigned long  U4XdH  =  -1887372469;
-    short int    j5iAuCkWkm    =    1045383;
+    short int    j5iAuCkWkm    =    (short)1045383;
 	short int	Pd_7	=	-1460067885;
  long long AIeDOeFh = -656245269;
 	long	k6k3_73mD	=	20683741;

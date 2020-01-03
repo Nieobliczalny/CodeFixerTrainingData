@@ -483,7 +483,7 @@ OKA0_jXL = JZ_0z((short)-1795101182, 456323821, (unsigned short)996180011);
 break;
 case 'e':
 case 'E':
-xp9_N = JZ_0z(xp9_N, -1047271895, 739866672);
+xp9_N = JZ_0z(xp9_N, -1047271895, (unsigned short)739866672);
 break;
 case 'f':
 case 'F':

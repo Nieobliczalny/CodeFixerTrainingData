@@ -164,7 +164,7 @@ case 'd':
 T5h5WzY <<= Om0Iq1;
 break;
 case 'e':
-RZUrm_5R4D = CX3R0_ht6D(RZUrm_5R4D, (unsigned short)-1521695235, -853824248, -68698080);
+RZUrm_5R4D = CX3R0_ht6D(RZUrm_5R4D, (unsigned short)-1521695235, -853824248, (unsigned short)-68698080);
 break;
 case 'f':
 P2Ycuy4 = CX3R0_ht6D(P2Ycuy4, Qkx_Ozu, -46567734, EZmA4);

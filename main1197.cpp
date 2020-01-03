@@ -62,7 +62,7 @@ Fyn7I_5 = RyAuI23S ^ J7Me59;
 break;
 case 'f':
 case 'F':
-FUGX = tBKeQ((unsigned short)593666470, -13882339);
+FUGX = tBKeQ((unsigned short)593666470, (char)-13882339);
 break;
 case 'g':
 case 'G':
@@ -104,7 +104,7 @@ case 'f':
 RyAuI23S = lQJCkI_(nSQu28Qc7d, A3p4DqPBYe, RyAuI23S);
 break;
 default:
-RyAuI23S = lQJCkI_(-272755844, -1993091758, FUGX);
+RyAuI23S = lQJCkI_((unsigned char)-272755844, -1993091758, FUGX);
 break;
 }
 }
@@ -119,7 +119,7 @@ else
 {
 for (int k = 0; k < 7; ++k)
 {
-RyhC4NUc6 = tBKeQ((unsigned short)694636096, -1463740006);
+RyhC4NUc6 = tBKeQ((unsigned short)694636096, (char)-1463740006);
 }
 }
 }
@@ -344,7 +344,7 @@ case 'g':
 Fyn7I_5 = tBKeQ(A3p4DqPBYe, (char)782435600) % kZ7jzsCs5N;
 break;
 case 'h':
-J7Me59 = tBKeQ(1865565129, -391794406);
+J7Me59 = tBKeQ((unsigned short)1865565129, -391794406);
 break;
 }
 
@@ -423,7 +423,7 @@ FUGX = (unsigned int)(RyAuI23S + (-1080306264));
 }
 else if (((A3p4DqPBYe == J7Me59) && (RyhC4NUc6 > A3p4DqPBYe)) || (J7Me59 & -489294285))
 {
-std::cout << tBKeQ((unsigned short)-1807366420, A3p4DqPBYe) << lQJCkI_((unsigned char)-981333416, A3p4DqPBYe, nSQu28Qc7d) << tBKeQ(RyAuI23S, 1995550125) << "JYlb0f8" << Fyn7I_5 << std::endl;
+std::cout << tBKeQ((unsigned short)-1807366420, A3p4DqPBYe) << lQJCkI_((unsigned char)-981333416, A3p4DqPBYe, nSQu28Qc7d) << tBKeQ(RyAuI23S, (char)1995550125) << "JYlb0f8" << Fyn7I_5 << std::endl;
 }
 else
 {
@@ -462,7 +462,7 @@ A3p4DqPBYe = tBKeQ(A3p4DqPBYe, (char)-859329676);
 }
 else if (((kZ7jzsCs5N) && (kZ7jzsCs5N == FUGX)) || ((nSQu28Qc7d & 1739621703) && (Fyn7I_5 == 1750872653)))
 {
-kZ7jzsCs5N = tBKeQ((unsigned short)161457442, -632183875);
+kZ7jzsCs5N = tBKeQ((unsigned short)161457442, (char)-632183875);
 }
 else if ((RyAuI23S & 1116275040) || (nSQu28Qc7d))
 {
@@ -680,7 +680,7 @@ case 2:
 qBuXUW9bjk = tBKeQ(A3p4DqPBYe, qBuXUW9bjk) | J7Me59;
 break;
 case 3:
-Fyn7I_5 = tBKeQ((unsigned short)1371066164, -935806393);
+Fyn7I_5 = tBKeQ((unsigned short)1371066164, (char)-935806393);
 break;
 case 4:
 RyAuI23S = lQJCkI_(-1945412637, RyAuI23S, 70091132);
@@ -871,7 +871,7 @@ switch (A3p4DqPBYe)
 {
 case 'a':
 case 'A':
-RyAuI23S = lQJCkI_(1978137096, A3p4DqPBYe, RyAuI23S);
+RyAuI23S = lQJCkI_((unsigned char)1978137096, A3p4DqPBYe, RyAuI23S);
 break;
 case 'b':
 case 'B':
@@ -881,7 +881,7 @@ break;
 
 if ((kZ7jzsCs5N) || (RyAuI23S > -1535162263))
 {
-std::cout << "v65dMh" << lQJCkI_((unsigned char)1221045142, RyhC4NUc6, RyAuI23S) << "hWDS97EW_" << lQJCkI_(1852728050, 1634948798, RyAuI23S) << std::endl;
+std::cout << "v65dMh" << lQJCkI_((unsigned char)1221045142, RyhC4NUc6, RyAuI23S) << "hWDS97EW_" << lQJCkI_((unsigned char)1852728050, 1634948798, RyAuI23S) << std::endl;
 }
 
 RyAuI23S = lQJCkI_(qBuXUW9bjk, nSQu28Qc7d, 613347944);
@@ -928,7 +928,7 @@ case 2:
 RyAuI23S = lQJCkI_((unsigned char)2030047711, 1353457135, kZ7jzsCs5N);
 break;
 case 3:
-RyAuI23S = lQJCkI_(-1937969717, kZ7jzsCs5N, Fyn7I_5);
+RyAuI23S = lQJCkI_((unsigned char)-1937969717, kZ7jzsCs5N, Fyn7I_5);
 break;
 case 4:
 FUGX = tBKeQ(RyAuI23S, 1416816978);

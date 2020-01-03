@@ -660,7 +660,7 @@ case 'b':
 xax42_1 = k1N_0g5I(xax42_1, -38023109, MaTEoj, (short)-1465745504);
 break;
 case 'c':
-j7RYN = k1N_0g5I(j7RYN, UxAOAQu9t, MaTEoj, 1488657741);
+j7RYN = k1N_0g5I(j7RYN, UxAOAQu9t, MaTEoj, (short)1488657741);
 break;
 case 'd':
 j7RYN = (int)abs(Nn9N62M);
@@ -692,7 +692,7 @@ cout << "L7KGcgc_" << "zVt8bEz7" << "SrBP1G836_" << xEbe_76 << "J40Xd27" << endl
 }
 else if ((GIo_4 > TnP9Q) && (wnn75f))
 {
-cout << K43_tvjhzb << k1N_0g5I(1174643840, 1657350092, MaTEoj, (short)1945442764) << k1N_0g5I(j7RYN, 761789476, 2099854591, (short)-1537821793) << k1N_0g5I(117524250, -1319285161, -665555040, -316114950) << endl;
+cout << K43_tvjhzb << k1N_0g5I(1174643840, 1657350092, MaTEoj, (short)1945442764) << k1N_0g5I(j7RYN, 761789476, 2099854591, (short)-1537821793) << k1N_0g5I(117524250, -1319285161, -665555040, (short)-316114950) << endl;
 }
 else if (cEEo_ >= N0B99X8CP)
 {

@@ -21,7 +21,7 @@ int main(int argc, char** argv)
     long    T28S7kl16;
     T28S7kl16    =    173452571;
 	unsigned short int	cHIG8P;
-	cHIG8P	=	-2003562352;
+	cHIG8P	=	(unsigned short)-2003562352;
     unsigned short    E6tjQrN2;
     E6tjQrN2    =    -507207381;
  double Bhkx7H;

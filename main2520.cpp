@@ -18,7 +18,7 @@ int main()
 	long double	pHPAA	=	-1638411675;
     unsigned int    ot5cLK    =    -1234261068;
 	unsigned char	S8gk	=	(unsigned char)1504667100;
-	unsigned char	aBFH20I_M4	=	-1070835428;
+	unsigned char	aBFH20I_M4	=	(unsigned char)-1070835428;
   long long  x0Y07r  =  1744261242;
  long double YOeER = 324091965;
  float oE255b = 1672717233;
@@ -31,7 +31,7 @@ int main()
 	double	E31n	=	-1306977683;
 	unsigned int	Aplpw36cu	=	-811271992;
  unsigned short v4_l20K7p = (unsigned short)-1993547270;
-  unsigned short int  m8tG8evU  =  -531092270;
+  unsigned short int  m8tG8evU  =  (unsigned short)-531092270;
   int  NIi299I_o  =  -1893374737;
 	unsigned short	Al6yr	=	1618509092;
     long long    AdcnbvuMyI    =    -1207410114;
@@ -55,7 +55,7 @@ int main()
     float    pJSy3FZM    =    1267106612;
 	long long	Z04f	=	968802298;
     unsigned long long    sPhT4    =    1027017820;
- char EAt4 = 716003612;
+ char EAt4 = (char)716003612;
   int  dk2JO8NGq  =  -472268183;
   short  nqLgGad69  =  -867099488;
 	unsigned short int	sDEam5	=	-1775443397;
@@ -65,7 +65,7 @@ int main()
 	char	I_3Mf_2MCD	=	(char)1654597260;
  long long N8SDmA = -1005110521;
     unsigned long    gQOG    =    -899772625;
-  unsigned short int  t6ExZE8  =  -765734748;
+  unsigned short int  t6ExZE8  =  (unsigned short)-765734748;
  unsigned int bvaM6MKW3 = -1708895480;
 	double	PcM_20Mr6k	=	1140565688;
     unsigned short int    KlsDTgV    =    -1883169906;
@@ -77,7 +77,7 @@ int main()
     int    K337424    =    -1643918521;
   unsigned short int  RpJ177  =  0;
     unsigned int    mWp_lazcz    =    19198237;
-	char	rZQ6u7m	=	831598658;
+	char	rZQ6u7m	=	(char)831598658;
  long b89H4aFoD = -1816210106;
  unsigned short int ZVP_Vo = 585864350;
   long long  n59KXqpkX  =  238714077;
@@ -90,7 +90,7 @@ int main()
 	unsigned long long	X2OM	=	357293673;
   float  wBo17qVhjb  =  -1427372182;
   unsigned long long  nPAyUwJPr  =  -1149920788;
-  short int  SyYP  =  -1604722126;
+  short int  SyYP  =  (short)-1604722126;
  float cd27TSH = 971297214;
  double y43zj = 730303564;
  long long z45D3v1 = 1681399576;

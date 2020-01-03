@@ -23,7 +23,7 @@ int main(int argc, char** argv)
  long aedDm;
  aedDm = -2075186112;
   unsigned short  HGt5;
-  HGt5  =  241747750;
+  HGt5  =  (unsigned short)241747750;
     unsigned short int    K667j9Sv;
     K667j9Sv    =    (unsigned short)-1312794966;
   long  R83fdNPO;
@@ -39,7 +39,7 @@ int main(int argc, char** argv)
   unsigned short int  LK3bTq716n;
   LK3bTq716n  =  (unsigned short)-1972438815;
     unsigned char    w0gCn;
-    w0gCn    =    336570509;
+    w0gCn    =    (unsigned char)336570509;
   unsigned long  ZI0J3iEGPn;
   ZI0J3iEGPn  =  -360660472;
   long  QFTRE;

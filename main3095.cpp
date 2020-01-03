@@ -142,7 +142,7 @@ if ((pZ3IrH08MZ <= W98KH1G2) || (at_n4bVFO == W98KH1G2))
 dK_u = WxM1mkVVuL(1139136898, p4mKR35, (unsigned char)178512641, (unsigned char)1431845356, 1218383904);
 }
 }
-cout << CT5_(dK_u, p4mKR35, K00t62, -1081185797, -1242394266) << endl;
+cout << CT5_(dK_u, p4mKR35, K00t62, (char)-1081185797, -1242394266) << endl;
 {
 int i = 10;
 do
@@ -217,7 +217,7 @@ Hl3y_9 = CT5_(-137048745, -1484536662, O3Hrmwa7C8, (char)-1190598327, (unsigned 
 }
 else
 {
-cout << "Jr9AR3gM" << tfX_(352894718, -986088260) << endl;
+cout << "Jr9AR3gM" << tfX_((unsigned char)352894718, -986088260) << endl;
 }
 }
 
@@ -269,7 +269,7 @@ M1WGeYyZ = CT5_(817802752, -1774984039, (unsigned short)1537062072, MjdPurUt22, 
 
 if ((tfX_(M1WGeYyZ, 1402886443) / p4mKR35) <= 257501386)
 {
-cout << 226737080 / tfX_(941044762, Nj5no) << endl;
+cout << 226737080 / tfX_((unsigned char)941044762, Nj5no) << endl;
 }
 if (Q8dQBOQ6En <= P6hlbAW)
 {
@@ -279,7 +279,7 @@ try
 {
 try
 {
-cout << tfX_((unsigned char)-1103563464, Nj5no) << "Z6yycrvUs" << CT5_(2001001454, Nj5no, g5bRu, (char)952456611, -1786335116) << "D5QPyn" << "wS1tLm7z_" << endl;
+cout << tfX_((unsigned char)-1103563464, Nj5no) << "Z6yycrvUs" << CT5_(2001001454, Nj5no, g5bRu, (char)952456611, (unsigned short)-1786335116) << "D5QPyn" << "wS1tLm7z_" << endl;
 }
 catch (int& errorCode)
 {
@@ -318,7 +318,7 @@ Q8dQBOQ6En |= Y0V2m2_Pv;
 
 if (qFUeKV != IdV9lo)
 {
-cout << "P6Ys6k4a" << CT5_(g5bRu, 1808578908, (unsigned short)-1205988827, (char)1536757496, -600571378) << tfX_(g5bRu, 2075797396) << endl;
+cout << "P6Ys6k4a" << CT5_(g5bRu, 1808578908, (unsigned short)-1205988827, (char)1536757496, (unsigned short)-600571378) << tfX_(g5bRu, 2075797396) << endl;
 }
 else
 {

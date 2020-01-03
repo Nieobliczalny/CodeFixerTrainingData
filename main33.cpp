@@ -674,7 +674,7 @@ B5Uo = r3BzbB((unsigned short)1544277932, 1595957178);
 break;
 case 'c':
 case 'C':
-B5Uo = r3BzbB(2088432920, -808752390);
+B5Uo = r3BzbB((unsigned short)2088432920, -808752390);
 break;
 case 'd':
 case 'D':

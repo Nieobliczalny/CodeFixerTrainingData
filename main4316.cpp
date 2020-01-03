@@ -70,7 +70,7 @@ case 3:
 QJk2nL = HtTOY(QJk2nL, (short)-2043366253, q2sIy_a86M, (short)-1049517622, 396690942);
 break;
 case 4:
-q2sIy_a86M = HtTOY(2030808190, soDN9, 79929913, -171992278, A59kYZv_s);
+q2sIy_a86M = HtTOY(2030808190, soDN9, 79929913, (short)-171992278, A59kYZv_s);
 break;
 case 5:
 xb6Mo87s = Kst9_x7j3(-683850853, soDN9, -1957548632, xG9G);
@@ -165,7 +165,7 @@ case 5:
 soDN9 = Y2MM1_E((unsigned short)1930940280);
 break;
 case 6:
-xG9G = HtTOY(-1103985957, xG9G, SFRr_ky_4, 282598428, hjeiO0nPNY);
+xG9G = HtTOY(-1103985957, xG9G, SFRr_ky_4, (short)282598428, hjeiO0nPNY);
 break;
 }
 SFRr_ky_4 = (int)abs(xG9G);
@@ -218,7 +218,7 @@ case 'c':
 q2sIy_a86M >>= xG9G;
 break;
 case 'd':
-q2sIy_a86M = (soDN9) ? pgPIv : 2110726541;
+q2sIy_a86M = (soDN9) ? pgPIv : (char)2110726541;
 break;
 case 'e':
 soDN9 = (int)abs(A59kYZv_s) + (625163303);
@@ -345,7 +345,7 @@ case 'i':
 UuuXqjARK = cn5_(UuuXqjARK, (unsigned short)-185260838);
 break;
 case 'j':
-xb6Mo87s = Kst9_x7j3(UuuXqjARK, 1526736839, 358138683, -1429353395);
+xb6Mo87s = Kst9_x7j3(UuuXqjARK, 1526736839, 358138683, (unsigned short)-1429353395);
 break;
 default:
 UuuXqjARK *= 1878422760;

@@ -35,7 +35,7 @@ case 'a':
 SxwJ = xFjG_IBl(r_JADWAF8, (short)-1870247169, -1366553265, GM1USmZ3) << t6E680;
 break;
 case 'b':
-V1Ult_rJR6 = Cjqc_32lb(V1Ult_rJR6, (unsigned short)2093628973, kV3kW, 548973041);
+V1Ult_rJR6 = Cjqc_32lb(V1Ult_rJR6, (unsigned short)2093628973, kV3kW, (short)548973041);
 break;
 case 'c':
 iySNzE4sB = Elib(137642394, 326843681, a_4o, 965437509, 1758627155);

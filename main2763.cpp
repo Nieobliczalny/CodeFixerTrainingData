@@ -296,7 +296,7 @@ case 'g':
 Uid8uid1 = bH71mlCU22((unsigned char)-1282665008, Uid8uid1);
 break;
 case 'h':
-t8zUT8247 = bH71mlCU22(205870435, Uid8uid1) << 695224388;
+t8zUT8247 = bH71mlCU22((unsigned char)205870435, Uid8uid1) << 695224388;
 break;
 }
 switch (ja356)

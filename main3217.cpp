@@ -30,7 +30,7 @@ int main(int argc, char** argv)
 	unsigned long	UMf6F;
 	UMf6F	=	148552647;
 	unsigned char	lkOH;
-	lkOH	=	-1301675453;
+	lkOH	=	(unsigned char)-1301675453;
 	unsigned int	rWYNb2Op;
 	rWYNb2Op	=	-555142573;
  long T83Tp6_;
@@ -64,7 +64,7 @@ int main(int argc, char** argv)
   long double  d1975;
   d1975  =  -812042811;
     short    Yt0x;
-    Yt0x    =    1755573274;
+    Yt0x    =    (short)1755573274;
     unsigned long    U_6bsML;
     U_6bsML    =    797288075;
 

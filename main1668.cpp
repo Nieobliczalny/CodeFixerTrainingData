@@ -31,7 +31,7 @@ int main(int argc, char** argv)
   char  nRkLl;
   nRkLl  =  0;
 	unsigned char	z9pcGH1;
-	z9pcGH1	=	-1172398223;
+	z9pcGH1	=	(unsigned char)-1172398223;
  unsigned char L_Q7tt3;
  L_Q7tt3 = (unsigned char)-776080145;
 	short	f2i9KPj2;

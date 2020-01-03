@@ -22,7 +22,7 @@ int main(void)
     unsigned short    ttE7q2t1Uu    =    (unsigned short)2015354628;
  short int ruv184r = (short)-1168904995;
     short int    p9L2    =    0;
-	unsigned short int	Uw57XZX695	=	-978331594;
+	unsigned short int	Uw57XZX695	=	(unsigned short)-978331594;
  long double jT3saPaWsj = 593891967;
 	short	U94QbKf	=	-1159365943;
     unsigned int    bXH_7cW0S    =    -331670081;
@@ -35,7 +35,7 @@ int main(void)
   unsigned short int  TJxJ6IkWx9  =  (unsigned short)-1895999534;
 	double	mY7k5p	=	1330688602;
     unsigned char    VU5F9y8    =    (unsigned char)1370526432;
-	unsigned char	d480Z1k	=	-1911546164;
+	unsigned char	d480Z1k	=	(unsigned char)-1911546164;
     unsigned long    Q7TT4sMnpP    =    1222957140;
   double  LjPkth36e  =  514043481;
     unsigned short    tSP8_    =    1768495493;
@@ -50,7 +50,7 @@ int main(void)
 	float	hVTi	=	870471900;
     short int    QheYHz8fEC    =    (short)-1962024855;
   int  nOKO73wVnk  =  -1395333272;
-	unsigned char	js21Av4jr_	=	-1327015755;
+	unsigned char	js21Av4jr_	=	(unsigned char)-1327015755;
 
 cout << H3V84z(jT3saPaWsj, PD_l6M) << "zC9X3" << "xG419C6" << endl;
 jT3saPaWsj = (long double)(QheYHz8fEC);

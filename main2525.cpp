@@ -501,7 +501,7 @@ case 'b':
 sp8yw__U = nBD6rbR4(-855506083, -267926760, 393942058, 346976662, (short)1426576544);
 break;
 case 'c':
-k8i42a = fC_qXky4m(1404596572);
+k8i42a = fC_qXky4m((unsigned short)1404596572);
 break;
 }
 }

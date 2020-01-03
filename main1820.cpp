@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
   long  O_o9XXs;
   O_o9XXs  =  -670214842;
  unsigned char H33692Uqm;
- H33692Uqm = -1077444284;
+ H33692Uqm = (unsigned char)-1077444284;
  short OhnUUxe;
  OhnUUxe = 0;
 	char	nzovtj;
@@ -52,7 +52,7 @@ int main(int argc, char** argv) {
 	unsigned short	w1m5;
 	w1m5	=	(unsigned short)1202085507;
  short int ya01;
- ya01 = 1823222182;
+ ya01 = (short)1823222182;
 	long double	KVFHp;
 	KVFHp	=	1364624029;
 	long double	h8dzHA;
@@ -62,7 +62,7 @@ int main(int argc, char** argv) {
 	unsigned short int	rIfr;
 	rIfr	=	(unsigned short)-96134676;
  unsigned short int DnWP1y_b;
- DnWP1y_b = -1759897155;
+ DnWP1y_b = (unsigned short)-1759897155;
 	short	FB32pr66yB;
 	FB32pr66yB	=	168642237;
  int GWm4JQ73M;
@@ -100,7 +100,7 @@ int main(int argc, char** argv) {
   short int  GBI3sO;
   GBI3sO  =  (short)1242318134;
 	unsigned short	p30QHM;
-	p30QHM	=	-257512785;
+	p30QHM	=	(unsigned short)-257512785;
   unsigned short  gonF4_j9;
   gonF4_j9  =  -819120202;
     long    Y833;
@@ -112,7 +112,7 @@ int main(int argc, char** argv) {
     short    C_Dqo;
     C_Dqo    =    (short)-460642351;
  char YJu0H2R;
- YJu0H2R = -84716896;
+ YJu0H2R = (char)-84716896;
     long    RJfn_mVW;
     RJfn_mVW    =    891236172;
     unsigned long    JpyKebi3Wl;
@@ -216,7 +216,7 @@ case 'F':
 w1m5++;
 break;
 default:
-gonF4_j9 = f_UtGX_(-540079958, (short)-1407047971, -355230506) | 12972510;
+gonF4_j9 = f_UtGX_(-540079958, (short)-1407047971, (short)-355230506) | 12972510;
 break;
 }
 pPw2v7v = f_UtGX_(-1069549841, WsQJ, TlG0n);
@@ -369,7 +369,7 @@ do
 {
 try
 {
-std::cout << f_UtGX_(-131459428, -1494693728, U_7168) << "tXi8YcBwV" << std::endl;
+std::cout << f_UtGX_(-131459428, (short)-1494693728, U_7168) << "tXi8YcBwV" << std::endl;
 }
 catch (int& errorCode)
 {

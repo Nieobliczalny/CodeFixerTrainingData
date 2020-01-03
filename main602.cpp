@@ -34,7 +34,7 @@ for (int i = 0; i < 3; ++i)
 {
 cout << M_3CCfgV4h(jxOO13, 1360343400, -1838355534, (unsigned char)-1101374521, Z_I73As) << endl;
 }
-Z_I73As = M_3CCfgV4h(1567446722, EDoo, b0kJS_Di, -1824388907, AK26Q3YyW9);
+Z_I73As = M_3CCfgV4h((unsigned short)1567446722, EDoo, b0kJS_Di, -1824388907, AK26Q3YyW9);
 
 {
 int i = 8;
@@ -143,7 +143,7 @@ case 'e':
 CymBx_8y = IPYT1 * 1982360294;
 break;
 case 'f':
-r9kXgN = M_3CCfgV4h(-1137415045, 1657914188, CB42_2w, rBcp4MBE, YZctD9S);
+r9kXgN = M_3CCfgV4h((unsigned short)-1137415045, 1657914188, CB42_2w, rBcp4MBE, YZctD9S);
 break;
 }
 }
@@ -197,7 +197,7 @@ LPKE66 = n4H_9z39S(Owqn9i, (char)886400812, DTlgB);
 }
 else
 {
-Q7TEpY = M_3CCfgV4h((unsigned short)-1132550588, b0kJS_Di, sqZyc2, -1030416885, vw1_3WW451);
+Q7TEpY = M_3CCfgV4h((unsigned short)-1132550588, b0kJS_Di, sqZyc2, (unsigned char)-1030416885, vw1_3WW451);
 }
 }
 catch (int& errorCode)
@@ -274,7 +274,7 @@ ncd4 = EBvv0_k8vX(-400599059, gtl_yhqFS, m4_kz2H9g2, (short)869854344, (unsigned
 }
 else
 {
-EUb9 = (jxOO13 < -1549252027) ? 1088636552 : BK4ortu8Xr;
+EUb9 = (jxOO13 < -1549252027) ? (unsigned short)1088636552 : BK4ortu8Xr;
 }
 }
 else
@@ -294,7 +294,7 @@ case 3:
 LPKE66 = n4H_9z39S(io90T7t2wj, (char)439381201, (unsigned char)1124399854);
 break;
 case 4:
-iKbe = n4H_9z39S(-968694441, 1901822942, VN98Gf) / 380479175;
+iKbe = n4H_9z39S((unsigned char)-968694441, 1901822942, VN98Gf) / 380479175;
 break;
 case 5:
 jxOO13 &= 1722157031;
@@ -307,7 +307,7 @@ break;
 }
 else if (c_aV)
 {
-LPKE66 = n4H_9z39S((unsigned char)1631535515, (char)1407332123, -1514293382);
+LPKE66 = n4H_9z39S((unsigned char)1631535515, (char)1407332123, (unsigned char)-1514293382);
 }
 else if ((vw1_3WW451 >= IPYT1) && (nnzm))
 {
@@ -441,7 +441,7 @@ case 0:
 LPKE66 = n4H_9z39S(thKNk, (char)353189493, (unsigned char)-2087134653);
 break;
 default:
-LPKE66 = n4H_9z39S(JnM_4jNXN, -1187053454, -56313955);
+LPKE66 = n4H_9z39S(JnM_4jNXN, (char)-1187053454, -56313955);
 break;
 }
 }
@@ -484,7 +484,7 @@ cout << YZctD9S << "n4qzQ8VY0N" << z47G8w_ << endl;
 
 cout << x4Md4L << "nv01rG6" << endl;
 
-EWmC6cel_d = EBvv0_k8vX(-866983381, KnTVC3I2lu, (short)-2057291886, (short)-1543943132, -758841138);
+EWmC6cel_d = EBvv0_k8vX(-866983381, KnTVC3I2lu, (short)-2057291886, (short)-1543943132, (unsigned short)-758841138);
 cout << GWS8DN6w54 << M_3CCfgV4h(-2025638823, 2120309539, mv1_I_, 650471173, HbRyMkWrP) << "A71_C" << "q9Hyh" << endl;
 
 return 0;

@@ -59,7 +59,7 @@ std::cout << "NCs_pdb" << H2_52WAJ(E_599O, w_m5rxMK5, 1401585252, -325735767) <<
 
 w_m5rxMK5 = xZ4OY95m5i((short)-1864032690);
 
-std::cout << H2_52WAJ(-784298861, 1663181275, 1877188900, -1548342720) << "RNbX5Hu" << "O45l3" << std::endl;
+std::cout << H2_52WAJ(-784298861, (unsigned char)1663181275, 1877188900, -1548342720) << "RNbX5Hu" << "O45l3" << std::endl;
 
 if ((w_m5rxMK5 != E_599O) || (E_599O < w_m5rxMK5))
 {

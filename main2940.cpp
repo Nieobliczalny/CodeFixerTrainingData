@@ -113,7 +113,7 @@ mR_CS89_v ^= 4223110;
 }
 else if (sLxpcH)
 {
-cout << x1VP_rJ5 << n213U << yn65Szt((char)-1141725117, rqre4, (unsigned char)-1908683763, HM14711758, -575703994) << U1lO82L6r_ << endl;
+cout << x1VP_rJ5 << n213U << yn65Szt((char)-1141725117, rqre4, (unsigned char)-1908683763, HM14711758, (unsigned short)-575703994) << U1lO82L6r_ << endl;
 }
 else if (Ie5M2gsZz & ech05h1rdP)
 {

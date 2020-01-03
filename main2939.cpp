@@ -11,7 +11,7 @@ int main(int argc, char** argv) {
  char mGVj_8u7V, Y1JuA, y9zsJ, X3x4DwEI0i, Yfyl, nEld8;
  mGVj_8u7V = (char)-958599960;
  Y1JuA = (char)1468788818;
- y9zsJ = -1384319892;
+ y9zsJ = (char)-1384319892;
  X3x4DwEI0i = -2130313513;
  Yfyl = 1706165227;
  nEld8 = -1000907137;

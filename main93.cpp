@@ -32,7 +32,7 @@ int main() {
     long long    DUn2M8_eM    =    -1020252783;
     unsigned int    xFQK_g33g    =    -1564666676;
   unsigned long  v_w5R52  =  -404420315;
-    short int    AGNuHa    =    -172861581;
+    short int    AGNuHa    =    (short)-172861581;
 	unsigned int	LpffV	=	1764645656;
  unsigned short JhWS934 = (unsigned short)-695164219;
  unsigned long long rtp30lGxl = -1368607652;
@@ -45,7 +45,7 @@ int main() {
  double RjPkw7z1sP = -1885073420;
     long double    s_20IZ1oSJ    =    -643097395;
 	short int	Af2SHg6Lu	=	(short)-789111011;
-  short  d_u0  =  -1505704945;
+  short  d_u0  =  (short)-1505704945;
 	double	f5978jn	=	-646376119;
     unsigned char    DWY8    =    -607069347;
     char    NvQ7X6    =    0;
@@ -106,7 +106,7 @@ AGNuHa = HJ1XljdR5 | 485287309;
 }
 while (i < 4);
 }
-std::cout << "cIGnzLeJF7" << vG2lxu9_TJ((unsigned short)-388070436, vM8RNn7j, -227927782, rS5v4VIKn, 1963265409) << Ed6s((unsigned short)1893102800, -1823815713, RjPkw7z1sP) << std::endl;
+std::cout << "cIGnzLeJF7" << vG2lxu9_TJ((unsigned short)-388070436, vM8RNn7j, -227927782, rS5v4VIKn, 1963265409) << Ed6s((unsigned short)1893102800, (short)-1823815713, RjPkw7z1sP) << std::endl;
 
 if (Z__2t3 & 1611291652)
 {
@@ -418,7 +418,7 @@ RjPkw7z1sP = (int)abs(F3jv3mk49z);
 }
 else if (Af2SHg6Lu != HJ1XljdR5)
 {
-v_w5R52 = Ed6s((unsigned short)-1590859264, (short)1845333916, -2082926253);
+v_w5R52 = Ed6s((unsigned short)-1590859264, (short)1845333916, (short)-2082926253);
 }
 else if ((v_w5R52) && ((d_u0 >= -1852553528) || (LpffV & Tanz7f)))
 {

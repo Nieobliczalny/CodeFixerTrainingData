@@ -363,7 +363,7 @@ case 'd':
 ouK5HG = cSWhvH(ouK5HG, r_OBMp, (char)1549727676);
 break;
 case 'e':
-kXvX58_B5n = Uz0f8VQ(kXvX58_B5n, -1930247978, U4362y, 1026031279);
+kXvX58_B5n = Uz0f8VQ(kXvX58_B5n, (short)-1930247978, U4362y, 1026031279);
 break;
 case 'f':
 m5uwb += 1944239288;

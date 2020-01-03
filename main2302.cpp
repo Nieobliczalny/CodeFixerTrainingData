@@ -46,7 +46,7 @@ int main()
     unsigned short int    XJh38jMJ2;
     XJh38jMJ2    =    (unsigned short)-1086241075;
     unsigned short int    pWQc_bR;
-    pWQc_bR    =    1877407531;
+    pWQc_bR    =    (unsigned short)1877407531;
  unsigned long long BYdY;
  BYdY = 764580620;
     long long    rpP659B8X;
@@ -60,7 +60,7 @@ int main()
     unsigned int    t_1vEbF;
     t_1vEbF    =    -863143554;
     unsigned short    JdLDON;
-    JdLDON    =    2106706984;
+    JdLDON    =    (unsigned short)2106706984;
     unsigned long long    Ml2p00y9c8;
     Ml2p00y9c8    =    -1469807784;
   double  l4b0j88k8x;
@@ -72,7 +72,7 @@ int main()
 	unsigned char	tB4e_;
 	tB4e_	=	(unsigned char)-941352809;
   unsigned short int  wjYBXy6;
-  wjYBXy6  =  -696600041;
+  wjYBXy6  =  (unsigned short)-696600041;
     int    oW9NFV2hq_;
     oW9NFV2hq_    =    12586631;
 	int	m1Tjx9XI_;
@@ -102,7 +102,7 @@ int main()
  unsigned long l3wXe8;
  l3wXe8 = 992264395;
     short    pyCcpj;
-    pyCcpj    =    -1285047668;
+    pyCcpj    =    (short)-1285047668;
   long double  KN7VVEWy7U;
   KN7VVEWy7U  =  283639298;
  unsigned char v97M;
@@ -138,7 +138,7 @@ int main()
 	short int	Rx7CA_LA;
 	Rx7CA_LA	=	(short)-397465917;
   unsigned short  y_pBi;
-  y_pBi  =  878746881;
+  y_pBi  =  (unsigned short)878746881;
   float  i24AoXdEJ;
   i24AoXdEJ  =  62678804;
   float  r6d91jCsS;
@@ -164,7 +164,7 @@ int main()
 	short	CPg9iW;
 	CPg9iW	=	(short)-376753236;
 	unsigned short	c_ul343q;
-	c_ul343q	=	811310254;
+	c_ul343q	=	(unsigned short)811310254;
   long  tS54SH0;
   tS54SH0  =  -1259710606;
  long long M4N50;
@@ -184,7 +184,7 @@ int main()
     short    kRi4;
     kRi4    =    (short)-239590696;
 	char	uF4952x2L;
-	uF4952x2L	=	411831257;
+	uF4952x2L	=	(char)411831257;
   double  A1CSx;
   A1CSx  =  276120598;
   unsigned short int  z0Db_bLYc;
@@ -196,7 +196,7 @@ int main()
     short int    Kp4Y;
     Kp4Y    =    (short)-1281706526;
   unsigned short  xC_fY;
-  xC_fY  =  -722140606;
+  xC_fY  =  (unsigned short)-722140606;
 	double	b_A3;
 	b_A3	=	-492388056;
     unsigned long    Es_1;

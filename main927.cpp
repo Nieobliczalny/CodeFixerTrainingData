@@ -38,7 +38,7 @@ int main(void) {
     unsigned char    HeY7l8tD6p;
     HeY7l8tD6p    =    (unsigned char)-869993039;
     char    fyVuJo29Gb;
-    fyVuJo29Gb    =    233312882;
+    fyVuJo29Gb    =    (char)233312882;
 	int	c728vbtb8;
 	c728vbtb8	=	1292646795;
  short int r6WTv1G_;
@@ -50,7 +50,7 @@ int main(void) {
 	unsigned char	oZ2uftJ;
 	oZ2uftJ	=	(unsigned char)1329385274;
     unsigned short    h5ngO8;
-    h5ngO8    =    -976857084;
+    h5ngO8    =    (unsigned short)-976857084;
  unsigned long Vou09;
  Vou09 = -460876578;
  long double b5Co8XzP5a;
@@ -78,7 +78,7 @@ int main(void) {
     unsigned short int    IKB_bD;
     IKB_bD    =    (unsigned short)337267003;
   char  Kd_Kfc_0b;
-  Kd_Kfc_0b  =  1943438061;
+  Kd_Kfc_0b  =  (char)1943438061;
   long long  w90gWzNC;
   w90gWzNC  =  1488351133;
     char    a78Kz;
@@ -104,7 +104,7 @@ int main(void) {
 	int	XJ9uCv2_5Z;
 	XJ9uCv2_5Z	=	-1403856817;
  char H64i_jJe07;
- H64i_jJe07 = 1334781097;
+ H64i_jJe07 = (char)1334781097;
     short int    GW_5t9k;
     GW_5t9k    =    (short)-1787730275;
   unsigned short  J28m8fSc7X;
@@ -114,7 +114,7 @@ int main(void) {
     int    p3yi;
     p3yi    =    692266167;
  short u83J;
- u83J = 1470399062;
+ u83J = (short)1470399062;
 	int	muggkfA;
 	muggkfA	=	-140285135;
   long  rN46b0r;
@@ -128,7 +128,7 @@ int main(void) {
     long    lAwgwqL;
     lAwgwqL    =    449138643;
 	unsigned short int	f0REu977;
-	f0REu977	=	1743549120;
+	f0REu977	=	(unsigned short)1743549120;
     float    PV3NO98;
     PV3NO98    =    -107712674;
     unsigned long    V324pPeZp4;
@@ -166,7 +166,7 @@ int main(void) {
     int    nk890b32;
     nk890b32    =    965399532;
     char    j9b1U7;
-    j9b1U7    =    -1854709280;
+    j9b1U7    =    (char)-1854709280;
   double  p1JNYk;
   p1JNYk  =  1163626838;
   long long  Xed8_1b;
@@ -182,7 +182,7 @@ int main(void) {
 	char	R0tJ3;
 	R0tJ3	=	(char)-2047405029;
 	short	uYB_;
-	uYB_	=	905457746;
+	uYB_	=	(short)905457746;
 	char	s_C_ey9wz3;
 	s_C_ey9wz3	=	-514498890;
   unsigned short int  uf90_sqyPf;

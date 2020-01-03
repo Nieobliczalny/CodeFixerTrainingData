@@ -30,7 +30,7 @@ int main()
 
 Vve39 = (int)abs(Mu6ns_i5ms);
 
-std::cout << Zd9dC << Mu6ns_i5ms << Ix8_Vd3 << hsNQyt3CGS(Ix8_Vd3, Zd9dC, (short)-386789662, (char)-1710403950) << hsNQyt3CGS(808999407, Zd9dC, Z2m9eN2F, -1453326897) << std::endl;
+std::cout << Zd9dC << Mu6ns_i5ms << Ix8_Vd3 << hsNQyt3CGS(Ix8_Vd3, Zd9dC, (short)-386789662, (char)-1710403950) << hsNQyt3CGS(808999407, Zd9dC, Z2m9eN2F, (char)-1453326897) << std::endl;
 if (eaz9i != y51A3)
 {
 if ((Ix8_Vd3 <= eaz9i) && ((Ix8_Vd3) && (z83UI4Lh7 > y51A3)))
@@ -69,7 +69,7 @@ while (k >= 0);
 }
 else if (Zd9dC != -1241722321)
 {
-std::cout << hsNQyt3CGS(Z2m9eN2F, -811390604, -366076332, 1068020801) << std::endl;
+std::cout << hsNQyt3CGS(Z2m9eN2F, (unsigned char)-811390604, -366076332, 1068020801) << std::endl;
 }
 else if (eaz9i > z83UI4Lh7)
 {
@@ -117,7 +117,7 @@ case 2:
 Vve39 = (int)abs(Mu6ns_i5ms);
 break;
 case 3:
-Vve39 = hsNQyt3CGS(-1731593943, -336262737, Ix8_Vd3, -1315671425);
+Vve39 = hsNQyt3CGS(-1731593943, (unsigned char)-336262737, Ix8_Vd3, -1315671425);
 break;
 case 4:
 Vve39 = (int)abs(Mu6ns_i5ms);
@@ -136,7 +136,7 @@ else
 Vve39 = hsNQyt3CGS(Ix8_Vd3, Zd9dC, Vve39, (char)-1280927548);
 }
 
-z83UI4Lh7 = y51A3 / hsNQyt3CGS(887108578, (unsigned char)-759306160, -1970276052, Mu6ns_i5ms);
+z83UI4Lh7 = y51A3 / hsNQyt3CGS(887108578, (unsigned char)-759306160, (short)-1970276052, Mu6ns_i5ms);
 if (Z2m9eN2F > 247120895)
 {
 z83UI4Lh7 = (unsigned int)(kIz9Nf7_iG);
@@ -182,7 +182,7 @@ else if (Mu6ns_i5ms == 272991626)
 {
 for (int j = 0; j < 1; ++j)
 {
-std::cout << "cdrJvE" << "g0kqw4G5VT" << hsNQyt3CGS(Ix8_Vd3, (unsigned char)1103911144, (short)-2033908597, -2035744125) << hsNQyt3CGS(-1232646104, Zd9dC, -897410735, -1612849223) << std::endl;
+std::cout << "cdrJvE" << "g0kqw4G5VT" << hsNQyt3CGS(Ix8_Vd3, (unsigned char)1103911144, (short)-2033908597, (char)-2035744125) << hsNQyt3CGS(-1232646104, Zd9dC, -897410735, -1612849223) << std::endl;
 }
 }
 else if (Mu6ns_i5ms & Jcf_4_Uy7)
@@ -314,7 +314,7 @@ case 2:
 Zd9dC = (Ix8_Vd3 <= kIz9Nf7_iG) ? z83UI4Lh7 : yg401(191931876, (short)66274965, eaz9i);
 break;
 case 3:
-Zd9dC = yg401(2087362861, 1438413353, 1086056312);
+Zd9dC = yg401(2087362861, (short)1438413353, 1086056312);
 break;
 case 4:
 z83UI4Lh7 %= Ix8_Vd3;
@@ -362,7 +362,7 @@ Zd9dC |= 2024459253;
 }
 else if ((Ix8_Vd3 < 1214326250) || (Vve39 <= Ix8_Vd3))
 {
-Zd9dC = yg401(519072655, (short)-1888786861, -1289509562);
+Zd9dC = yg401(519072655, (short)-1888786861, (char)-1289509562);
 }
 else if ((z83UI4Lh7 == -2111213698) && (Vve39 > kIz9Nf7_iG))
 {
@@ -408,7 +408,7 @@ z83UI4Lh7 = yg401(-75340203, (short)-1597494696, (char)1242333054);
 break;
 case 'c':
 case 'C':
-Vve39 = hsNQyt3CGS(Vve39, Mu6ns_i5ms, Ix8_Vd3, -1710161374);
+Vve39 = hsNQyt3CGS(Vve39, Mu6ns_i5ms, Ix8_Vd3, (char)-1710161374);
 break;
 case 'd':
 case 'D':
@@ -472,7 +472,7 @@ break;
 }
 else if (Z2m9eN2F >= Mu6ns_i5ms)
 {
-eaz9i = hsNQyt3CGS(-691472104, Mu6ns_i5ms, 2032889899, Z2m9eN2F);
+eaz9i = hsNQyt3CGS(-691472104, Mu6ns_i5ms, (short)2032889899, Z2m9eN2F);
 }
 else if (eaz9i > -1988679071)
 {
@@ -499,7 +499,7 @@ eaz9i = hsNQyt3CGS(Zd9dC, Ix8_Vd3, (short)10020555, Mu6ns_i5ms);
 break;
 case 'c':
 case 'C':
-eaz9i = hsNQyt3CGS(-448409257, -95827518, z83UI4Lh7, 865937032);
+eaz9i = hsNQyt3CGS(-448409257, (unsigned char)-95827518, z83UI4Lh7, 865937032);
 break;
 case 'd':
 case 'D':
@@ -553,7 +553,7 @@ z83UI4Lh7 /= 913263890;
 }
 else if (Vve39 > 197381198)
 {
-Mu6ns_i5ms = hsNQyt3CGS(Mu6ns_i5ms, Ix8_Vd3, -1074767007, 2020331284);
+Mu6ns_i5ms = hsNQyt3CGS(Mu6ns_i5ms, Ix8_Vd3, (short)-1074767007, 2020331284);
 }
 else if (z83UI4Lh7 < 645283954)
 {
@@ -587,7 +587,7 @@ case 5:
 eaz9i = hsNQyt3CGS(815494280, (unsigned char)2099116678, Vve39, z83UI4Lh7);
 break;
 case 6:
-Ix8_Vd3 = yg401(731048818, Mu6ns_i5ms, 476846555);
+Ix8_Vd3 = yg401(731048818, Mu6ns_i5ms, (char)476846555);
 break;
 }
 }
@@ -657,7 +657,7 @@ case 5:
 z83UI4Lh7 += Ix8_Vd3;
 break;
 case 6:
-Vve39 = hsNQyt3CGS(z83UI4Lh7, (unsigned char)1312767266, Mu6ns_i5ms, 2122856703);
+Vve39 = hsNQyt3CGS(z83UI4Lh7, (unsigned char)1312767266, Mu6ns_i5ms, (char)2122856703);
 break;
 case 7:
 Mu6ns_i5ms = (int)abs(eaz9i);

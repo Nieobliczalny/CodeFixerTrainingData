@@ -45,7 +45,7 @@ int main()
     short    tRoO9J9k;
     tRoO9J9k    =    (short)-1355832800;
 	unsigned short	cxMBK8C;
-	cxMBK8C	=	-2113672996;
+	cxMBK8C	=	(unsigned short)-2113672996;
  short oI01egYA1g;
  oI01egYA1g = (short)-1002679672;
  long long f39v;

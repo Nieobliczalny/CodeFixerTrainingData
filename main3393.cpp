@@ -33,7 +33,7 @@ int main(void) {
     long long    zOd_    =    -219508628;
 	char	BK4y99wwc	=	(char)892440208;
   char  rOa1j2  =  (char)-312885152;
- unsigned short int E3L0aJfupU = 1800616668;
+ unsigned short int E3L0aJfupU = (unsigned short)1800616668;
 	long	RIY2Lat	=	-1763668972;
  short int xf0I = 771245637;
   unsigned char  OwkUD  =  -1001191126;
@@ -47,7 +47,7 @@ int main(void) {
   short int  asi6f3Nc_  =  (short)237084628;
 	unsigned short int	W36f97	=	(unsigned short)-1175900171;
   long double  Kb1_7n  =  -739409006;
- char rc6J6r = 98067129;
+ char rc6J6r = (char)98067129;
 	long	yyOx4bJ_	=	1101370099;
 
 switch (nrLM_2B)
@@ -263,7 +263,7 @@ case 'e':
 W36f97 = h129723((unsigned char)-404116710);
 break;
 case 'f':
-rc6J6r = Amr3O(1118418621, -1460360330, oY8a1mbBU, -1670410180) >> Mx9wg8l9Pf;
+rc6J6r = Amr3O((unsigned short)1118418621, -1460360330, oY8a1mbBU, -1670410180) >> Mx9wg8l9Pf;
 break;
 case 'g':
 yyOx4bJ_ = (int)abs(WPEufIcQ6);

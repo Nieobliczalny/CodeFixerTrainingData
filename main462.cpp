@@ -150,7 +150,7 @@ NIe83yS += e7MA152;
 break;
 case 'd':
 case 'D':
-NIe83yS = KvU8EC(-1002416763, 102715473, (short)-2072745809, 459932038);
+NIe83yS = KvU8EC(-1002416763, 102715473, (short)-2072745809, (unsigned char)459932038);
 break;
 case 'e':
 case 'E':
@@ -178,7 +178,7 @@ else if ((Nk_19) || (Nk_19 >= Nt_755lh9))
 switch (FYR2q_)
 {
 case 0:
-NIe83yS = KvU8EC(-966962945, e7MA152, (short)361527540, -636195552);
+NIe83yS = KvU8EC(-966962945, e7MA152, (short)361527540, (unsigned char)-636195552);
 break;
 case 1:
 NIe83yS = pusPvIOI((unsigned short)1621238829);

@@ -106,7 +106,7 @@ case 3:
 AvF_oy = pZOr9((unsigned short)1096863036, (unsigned short)55683169);
 break;
 case 4:
-m1E7I5u = pZOr9(-1127704376, m8IV);
+m1E7I5u = pZOr9((unsigned short)-1127704376, m8IV);
 break;
 case 5:
 FJ9_kl /= y6RXA1_Y;
@@ -278,7 +278,7 @@ while (k < 8);
 }
 else
 {
-AvF_oy = pZOr9((unsigned short)-157797914, -1779178314);
+AvF_oy = pZOr9((unsigned short)-157797914, (unsigned short)-1779178314);
 }
 ogXA44 = Uv4EB__A58 / m1E7I5u;
 

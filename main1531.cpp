@@ -222,7 +222,7 @@ case 'h':
 NYuR ^= 1632085372;
 break;
 case 'i':
-xvgeq2n7 = h14L(-1759781582);
+xvgeq2n7 = h14L((short)-1759781582);
 break;
 case 'j':
 C97_y157++;
@@ -366,7 +366,7 @@ std::cout << M1N80 << std::endl;
 }
 else if ((ROUP7z <= fPoXhBN7c) && (Ukj29Cu3L <= ubB583QQb))
 {
-std::cout << h14L((short)-335384582) << h14L(-1419468226) << Xi4U82O << std::endl;
+std::cout << h14L((short)-335384582) << h14L((short)-1419468226) << Xi4U82O << std::endl;
 }
 else
 {

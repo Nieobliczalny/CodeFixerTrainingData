@@ -54,7 +54,7 @@ xR9228K = N27VR((unsigned short)65039168, o4mv40, -44021885);
 }
 else
 {
-o4mv40 = N27VR((unsigned short)-1389351510, 1522527530, 1966058218);
+o4mv40 = N27VR((unsigned short)-1389351510, (unsigned short)1522527530, 1966058218);
 }
 }
 }
@@ -194,7 +194,7 @@ xR9228K = (unsigned short int)(y8a91 * xR9228K);
 }
 while (i >= 0);
 }
-FDHcWSiv6 = (o4mv40 != 549031990) ? R6MViLYZE(FDHcWSiv6, (unsigned char)-1037373004) : -563904380;
+FDHcWSiv6 = (o4mv40 != 549031990) ? R6MViLYZE(FDHcWSiv6, (unsigned char)-1037373004) : (short)-563904380;
 
 for (int i = 10; i >= 0; i--)
 {
@@ -282,7 +282,7 @@ xR9228K = N27VR(xR9228K, (unsigned short)-975662631, RXGpu5863);
 }
 else
 {
-o4mv40 = N27VR(y8a91, 114311449, o4mv40);
+o4mv40 = N27VR(y8a91, (unsigned short)114311449, o4mv40);
 }
 --j;
 }
@@ -368,7 +368,7 @@ case 3:
 o4mv40 = N27VR(RXGpu5863, (unsigned short)-944077571, -2113598013);
 break;
 default:
-FDHcWSiv6 = R6MViLYZE(FDHcWSiv6, 901367438);
+FDHcWSiv6 = R6MViLYZE(FDHcWSiv6, (unsigned char)901367438);
 break;
 }
 }

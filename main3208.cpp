@@ -40,6 +40,7 @@ unsigned short int  QGl4_1(short  wkU_M,unsigned long long  ppHny551j,unsigned s
 
 int main(void)
 {
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
     unsigned short int    WR4QcC_    =    1947003185,    L_39QQ5    =    -1516830419,    LU_5i5ji    =    409469764,    eM065X    =    1348402658,    U6JL_cSTif    =    -2072328817,    acZ8Um0    =    -1379270568,    LO9ZB    =    1504625325,    VtdVs67wQ    =    575899634,    lb0kDuE    =    -845509322,    sISA6HFYvf    =    733610901,    TS082jN    =    -1773789332,    Hy294Js0    =    -746501577,    qM_9KQ2    =    -1649145952,    Pef_90k    =    819776974,    ZCcwy3_VS    =    195465571,    T43x__    =    -1408361254,    eyT415b0    =    -268535598,    xVJz73    =    1419820486;
 	char	is71VG32P0	=	0,	Z203sxk	=	0;
 
@@ -138,7 +139,7 @@ is71VG32P0 = M_Ua_ab9(-533404107);
 }
 for (int i = 1; i >= 0; i--)
 {
-LU_5i5ji = (L_39QQ5 == eM065X) ? QGl4_1((short)2127875322, -606049791, (unsigned short)931897037) : 1953658927;
+LU_5i5ji = (L_39QQ5 == eM065X) ? QGl4_1((short)2127875322, -606049791, (unsigned short)931897037) : (unsigned short)1953658927;
 }
 WR4QcC_ = R082GA8J8A();
 try

@@ -325,7 +325,7 @@ case 4:
 V0Z_ = qH5PLuu ^ v82Z7;
 break;
 case 5:
-oiHZ0KPE = PNk03r(1196411654, 636826937);
+oiHZ0KPE = PNk03r((unsigned short)1196411654, 636826937);
 break;
 }
 }
@@ -599,7 +599,7 @@ hVk6 = W9GN6i((short)1596367369, 827879447);
 }
 else if (KO__i2PA3 & -1682182975)
 {
-KiBjdEL2q = zSuKpW(382547955, -1966133411, -503775074, -1326141756);
+KiBjdEL2q = zSuKpW((char)382547955, -1966133411, -503775074, -1326141756);
 }
 else if (KiBjdEL2q == hVX8)
 {

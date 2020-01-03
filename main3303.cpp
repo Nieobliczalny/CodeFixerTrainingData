@@ -26,7 +26,7 @@ int  PGf33U35(unsigned int  He5Ex4vP4_,long  me309,unsigned long long  DOt_by_lK
 char  GP8P142Y_(unsigned int  Z57PnwF,unsigned short int  z_t3yCe,unsigned long  tDI8eZcJ9,unsigned short int  bf23EdTb,unsigned long  Sz2j);
 
 int main(void) {
-	short	hFSb2	=	(short)-1420473233,	kaLuz7_6	=	(short)-1869932982,	d_VMr68	=	1865087349,	OG1z	=	785569466,	JHNzaosA	=	1421182842,	ohRh5_B	=	-591169066;
+	short	hFSb2	=	(short)-1420473233,	kaLuz7_6	=	(short)-1869932982,	d_VMr68	=	(short)1865087349,	OG1z	=	785569466,	JHNzaosA	=	1421182842,	ohRh5_B	=	-591169066;
  int A5O_XO = 0, C1mpwB = 0;
 
 if (JHNzaosA == EsDXEwcjCm)
@@ -469,7 +469,7 @@ else if (A5O_XO)
 int k = 4;
 while (k >= 0)
 {
-JHNzaosA = s0iFDA3V(JHNzaosA, (unsigned short)1303801418, (char)714759076, -147943759);
+JHNzaosA = s0iFDA3V(JHNzaosA, (unsigned short)1303801418, (char)714759076, (char)-147943759);
 k--;
 }
 }
@@ -487,7 +487,7 @@ ohRh5_B = (d_VMr68 < -1841413445) ? (short)-1738492067 : (short)108950053;
 }
 else if (hFSb2 & X044p8D)
 {
-std::cout << JMy_v(JHNzaosA, ohRh5_B, 296127663, OG1z) << std::endl;
+std::cout << JMy_v(JHNzaosA, ohRh5_B, (short)296127663, OG1z) << std::endl;
 }
 else
 {
@@ -599,7 +599,7 @@ d_VMr68 = (int)abs(A5O_XO) + (-794002183);
 }
 else if ((d_VMr68 < JHNzaosA) || (kaLuz7_6 > X044p8D))
 {
-C1mpwB = JMy_v((unsigned short)407125018, -1860485985, 646166933, A5O_XO);
+C1mpwB = JMy_v((unsigned short)407125018, -1860485985, (short)646166933, A5O_XO);
 }
 else
 {

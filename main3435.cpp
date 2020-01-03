@@ -23,7 +23,7 @@ int main(int argc, char** argv)
 	long	MlMWrjDy	=	-304177332;
  long long nJ291 = 1128710293;
     short int    gkqmjsgZ    =    (short)1532756275;
-	char	G7MY4UiAdh	=	1391742211;
+	char	G7MY4UiAdh	=	(char)1391742211;
 	unsigned char	cD6d984Uwy	=	-140148538;
  char G182IIo9_ = 1556034450;
 	unsigned char	zknx	=	-1591426160;
@@ -35,7 +35,7 @@ int main(int argc, char** argv)
   int  xO411W  =  1496076849;
   short int  PPigo7Gkpu  =  (short)-413497311;
  long Kqfbqge = -1212621049;
-  unsigned short int  k6VQ0rD4  =  756019132;
+  unsigned short int  k6VQ0rD4  =  (unsigned short)756019132;
     unsigned char    TTncdhJp    =    -1629339240;
 	float	y3p7K694k7	=	-849927502;
 	long long	rwX1w83Z8t	=	-927763099;
@@ -54,7 +54,7 @@ int main(int argc, char** argv)
   long  Zd6QlT  =  -1815910965;
 	long double	i8L2eUa	=	968336711;
  double gCY7 = 538286387;
- char acd5tD_k = -669129911;
+ char acd5tD_k = (char)-669129911;
   short int  RY0HLF2_UT  =  (short)-1944048094;
  unsigned int q596n_7Dg = 876869277;
     int    c3WXgRg    =    -10164844;
@@ -79,7 +79,7 @@ int main(int argc, char** argv)
     unsigned long    XefX_    =    -5046842;
   unsigned short  dI47s  =  (unsigned short)1599965357;
     unsigned int    KNkL    =    -1900562465;
-	char	G924	=	-1118956133;
+	char	G924	=	(char)-1118956133;
   unsigned char  p44s  =  -1835284147;
     int    WuVxOP_    =    1403574295;
     short int    y720l7    =    -1142944874;
@@ -91,7 +91,7 @@ int main(int argc, char** argv)
     int    T97pz    =    448697601;
   unsigned long long  pWTy4  =  -180689845;
  unsigned char P30B = (unsigned char)505891093;
- short int vMJwKCWUWk = 83020923;
+ short int vMJwKCWUWk = (short)83020923;
  unsigned long long sGtQc = -902899615;
     unsigned long long    i4dbT6J    =    459598718;
  unsigned int l8u7FP_ = 1970127647;
@@ -329,7 +329,7 @@ unsigned char  Qy18a(unsigned short int  v0mpF,int  ksuF6q,unsigned int  WRTv)
 }
 
 short    u8_4(unsigned short    aYf1s,short    gBfk,int    F1BW7W,long long    VW_yJ51,unsigned char    NOAwPE8)    {
-    return    -1112177933;
+    return    (short)-1112177933;
 }
 
 unsigned int LzYHvqr() {

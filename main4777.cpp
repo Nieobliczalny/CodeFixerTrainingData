@@ -26,7 +26,7 @@ int main(int argc, char** argv)
  unsigned long I_ouLKd4W = 2039681867;
     unsigned short int    TWK6M    =    (unsigned short)-1601482314;
     unsigned char    ter43B5mv    =    (unsigned char)-2073321312;
-	unsigned short int	i4767	=	585947126;
+	unsigned short int	i4767	=	(unsigned short)585947126;
  long long Fez5_ = 851626571;
  long jkxm4J5Day = 315083178;
 	unsigned short	DHx12g	=	-2050817432;
@@ -45,7 +45,7 @@ int main(int argc, char** argv)
 	long	jD4X	=	1285295122;
     unsigned char    Yy3pl    =    (unsigned char)-427588988;
     int    F7DxuA1NM    =    1509072018;
-  char  jF5M  =  570122943;
+  char  jF5M  =  (char)570122943;
 	unsigned int	q4HOcb5	=	1864523819;
   short int  yEeb_rx  =  (short)544116848;
  unsigned long long PlWA = -756707510;
@@ -55,7 +55,7 @@ int main(int argc, char** argv)
 	int	JX85kC	=	-1554251259;
     short int    Hz_4yYJ7M    =    (short)776506607;
     long double    LQr_0la    =    1608234266;
-    short    Tjwvk    =    129921705;
+    short    Tjwvk    =    (short)129921705;
 	unsigned char	Q9417W	=	-1146321070;
     unsigned short int    I_K2Z_4kp    =    (unsigned short)2129383719;
     unsigned long    Mj44c80P_    =    0;
@@ -77,7 +77,7 @@ dqv7_VA16 = (int)ceil(z0L8Cymb);
 
 if (UVGv < LQr_0la)
 {
-Yy3pl = nm2t(2111206509, I_ouLKd4W, i4767, -563220622, -2028107322);
+Yy3pl = nm2t((char)2111206509, I_ouLKd4W, i4767, -563220622, -2028107322);
 }
 
 TiTb5h5 = (unsigned char)(kkG_ls3yQK);
@@ -89,7 +89,7 @@ case 0:
 FOJtu6bSU6 = (FOJtu6bSU6 >= 228676365) ? TixAc1GIr : 974342020;
 break;
 case 1:
-Mj44c80P_ = j_GdXBTMbq(508620938, -803506718);
+Mj44c80P_ = j_GdXBTMbq((char)508620938, -803506718);
 break;
 case 2:
 dqv7_VA16 = (int)floor(O6FlX);
@@ -503,7 +503,7 @@ JX85kC = nm2t((char)1869045615, QZ_BBk3C, 899176079, FOJtu6bSU6, 2037358156);
 break;
 case 'b':
 case 'B':
-yEeb_rx = nm2t((char)-979629113, 700256801, -567970445, kkG_ls3yQK, LQr_0la);
+yEeb_rx = nm2t((char)-979629113, (unsigned short)700256801, -567970445, kkG_ls3yQK, LQr_0la);
 break;
 case 'c':
 case 'C':

@@ -175,7 +175,7 @@ w3WoKl87m = UerS2AUp(w3WoKl87m, (short)-1221543066, HhQgc3y, -9211958, oJ892Ok_2
 }
 }
 
-std::cout << "sDyaO3w" << UerS2AUp(1092718849, (short)-71540998, 1808218381, YbassIKCS, -688646911) << VPBhN58g << HhQgc3y << std::endl;
+std::cout << "sDyaO3w" << UerS2AUp(1092718849, (short)-71540998, (unsigned char)1808218381, YbassIKCS, -688646911) << VPBhN58g << HhQgc3y << std::endl;
 
 switch (iRLJ)
 {
@@ -216,7 +216,7 @@ w3WoKl87m = UerS2AUp(2022859196, fIkVe0woVV, (unsigned char)1752858972, OG_wY8j,
 }
 else
 {
-Hwh23htrR = UerS2AUp(Hwh23htrR, (short)1916347862, ACmSm07, -957636845, 772348640);
+Hwh23htrR = UerS2AUp(Hwh23htrR, (short)1916347862, ACmSm07, -957636845, (unsigned short)772348640);
 }
 j--;
 }
@@ -366,7 +366,7 @@ case 3:
 E4m0Y_ = (int)abs(X6rJ);
 break;
 case 4:
-J3pG = UerS2AUp(552065428, (short)935751564, 167369467, 267721338, kD1Z3P4);
+J3pG = UerS2AUp(552065428, (short)935751564, (unsigned char)167369467, 267721338, kD1Z3P4);
 break;
 default:
 HhQgc3y = C9X_u3(IWERtL9I6b);
@@ -443,7 +443,7 @@ case 5:
 R4_g28G = z76y9ctBfw & W821W9JbY_;
 break;
 case 6:
-ycn4W = (W821W9JbY_ == SKjk38mD) ? MZW1To1P : -578026952;
+ycn4W = (W821W9JbY_ == SKjk38mD) ? MZW1To1P : (unsigned short)-578026952;
 break;
 case 7:
 er02CXW_4q = C9X_u3((unsigned short)-2076827504);

@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
   unsigned char  z4v_I;
   z4v_I  =  (unsigned char)-521635492;
  unsigned char tq4E;
- tq4E = 727912896;
+ tq4E = (unsigned char)727912896;
  unsigned int H31h;
  H31h = 1637181585;
   short  Zr4U0928;
@@ -66,7 +66,7 @@ int main(int argc, char** argv) {
 	float	yj_hZ6105i;
 	yj_hZ6105i	=	295288071;
 	short	K3_52O1;
-	K3_52O1	=	-922998625;
+	K3_52O1	=	(short)-922998625;
     double    I2NYjx5D6;
     I2NYjx5D6    =    -465532879;
   float  dGjTrMM6x;

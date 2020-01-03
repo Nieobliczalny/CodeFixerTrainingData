@@ -195,7 +195,7 @@ case 'h':
 dfQXM97hu &= umBH6ZE7gr;
 break;
 case 'i':
-DNS3c = y4msCL((short)1278086838, G2lxT, 450696586);
+DNS3c = y4msCL((short)1278086838, G2lxT, (short)450696586);
 break;
 case 'j':
 dTG8Z1 = i8U7I0AVr();

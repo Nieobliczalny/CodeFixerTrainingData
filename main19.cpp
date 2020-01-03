@@ -32,7 +32,7 @@ int main(void) {
 	unsigned long long	Ut4a;
 	Ut4a	=	-1877726393;
   unsigned char  f58_99H;
-  f58_99H  =  -319277600;
+  f58_99H  =  (unsigned char)-319277600;
     long    xP1PXX;
     xP1PXX    =    -1812613204;
     long    WzypDs5_;
@@ -54,7 +54,7 @@ int main(void) {
 	short	wZhY;
 	wZhY	=	(short)1316570179;
   unsigned char  j1_RKIgf;
-  j1_RKIgf  =  1655668972;
+  j1_RKIgf  =  (unsigned char)1655668972;
   long  qC6J5B3;
   qC6J5B3  =  124486183;
   long long  ur6d_o;
@@ -80,7 +80,7 @@ int main(void) {
   unsigned short int  YOOh;
   YOOh  =  (unsigned short)964377280;
     short    QY18;
-    QY18    =    1164411628;
+    QY18    =    (short)1164411628;
 	unsigned long long	Tk6R5C5m54;
 	Tk6R5C5m54	=	-1950293412;
     short int    amseNrX0sz;

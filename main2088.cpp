@@ -33,7 +33,7 @@ int i = 5;
 while (i >= 0)
 {
 i--;
-std::cout << eo4Mj << TDB332O << famB1653(lC85Q877E1, (unsigned short)703662863, z4WAlL2g, -1872351643) << Dm80zai1 << std::endl;
+std::cout << eo4Mj << TDB332O << famB1653(lC85Q877E1, (unsigned short)703662863, z4WAlL2g, (short)-1872351643) << Dm80zai1 << std::endl;
 }
 }
 
@@ -78,7 +78,7 @@ case 5:
 Sp3n5s0v = (q06q < A_T1sj) ? vN4SZ() : (short)776345578;
 break;
 case 6:
-TDB332O = famB1653(TDB332O, -1506878121, iTK9HR5d, 1015612940);
+TDB332O = famB1653(TDB332O, (unsigned short)-1506878121, iTK9HR5d, 1015612940);
 break;
 default:
 lC85Q877E1 <<= 2139437650;
@@ -98,7 +98,7 @@ catch (int& errorCode)
 Sp3n5s0v = zGQah2V6 + tWKN6b197;
 }
 }
-std::cout << "N6Dd7" << LV72Q(303894507, Dm80zai1, NzP5W0mfF, (short)1579714612, A_T1sj) << "Z0BrjNW0" << LV72Q(1655816819, Dm80zai1, 841727713, UZ15hLR6, A_T1sj) << TDB332O << std::endl;
+std::cout << "N6Dd7" << LV72Q(303894507, Dm80zai1, NzP5W0mfF, (short)1579714612, A_T1sj) << "Z0BrjNW0" << LV72Q(1655816819, Dm80zai1, (unsigned short)841727713, UZ15hLR6, A_T1sj) << TDB332O << std::endl;
 
 Dm80zai1 -= 2112287835;
 

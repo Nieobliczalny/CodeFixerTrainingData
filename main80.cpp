@@ -64,7 +64,7 @@ case 3:
 TA_n83 += TA_n83;
 break;
 case 4:
-wt4Wm = Eo0M54E72(-1013276507, (unsigned short)-869111250, mS37, -1470345148) ^ 1697231629;
+wt4Wm = Eo0M54E72(-1013276507, (unsigned short)-869111250, mS37, (short)-1470345148) ^ 1697231629;
 break;
 case 5:
 Hc3F8 = R4_QVg(Hc3F8, mS37, (short)-384184777);
@@ -106,7 +106,7 @@ case 'b':
 LXK_ = F7KiCI8((unsigned short)1217381091, 1987871802, Q285_5_fQu) | 2134122192;
 break;
 case 'c':
-LXK_ = R4_QVg(LXK_, k6Ue, 653400041);
+LXK_ = R4_QVg(LXK_, k6Ue, (short)653400041);
 break;
 case 'd':
 k6Ue &= 660797836;

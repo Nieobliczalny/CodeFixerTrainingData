@@ -72,7 +72,7 @@ int main(void)
   long long  T5xkO;
   T5xkO  =  669532549;
   short int  BJ79c;
-  BJ79c  =  -646514567;
+  BJ79c  =  (short)-646514567;
  unsigned char Mp68iP5b;
  Mp68iP5b = 1380642220;
     double    WFFjn4o0Z;

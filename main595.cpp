@@ -23,7 +23,7 @@ int main(int argc, char** argv) {
   long long  Yqup;
   Yqup  =  1181803588;
   unsigned short  M8Cy6;
-  M8Cy6  =  -1875521992;
+  M8Cy6  =  (unsigned short)-1875521992;
   unsigned short int  c446D9A;
   c446D9A  =  (unsigned short)1481610364;
   char  cJazy;
@@ -33,7 +33,7 @@ int main(int argc, char** argv) {
 	short	G4j44U;
 	G4j44U	=	-1096830363;
     unsigned short    yXuacY;
-    yXuacY    =    -745320324;
+    yXuacY    =    (unsigned short)-745320324;
   float  l690;
   l690  =  -1622553251;
  long double d1x_;
@@ -55,7 +55,7 @@ int main(int argc, char** argv) {
  unsigned long Fn79y5wtY7;
  Fn79y5wtY7 = 811818361;
  char eRYlr;
- eRYlr = 493685851;
+ eRYlr = (char)493685851;
 	unsigned char	Qd838;
 	Qd838	=	(unsigned char)-1956232667;
   char  QkmZ;

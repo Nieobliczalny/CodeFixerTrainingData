@@ -290,6 +290,6 @@ short int L8G0E(int dxxDg) {
 }
 
 unsigned char  mS8e9()  {
-  return  -1821412355;
+  return  (unsigned char)-1821412355;
 }
 

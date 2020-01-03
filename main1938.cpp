@@ -44,7 +44,7 @@ int main() {
 	long double	FSaiVW;
 	FSaiVW	=	-594081655;
  unsigned char JB9Wcw3Om;
- JB9Wcw3Om = 1993328568;
+ JB9Wcw3Om = (unsigned char)1993328568;
   float  N249Nm;
   N249Nm  =  -661088627;
     unsigned short    T23s_P;

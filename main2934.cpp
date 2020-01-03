@@ -37,7 +37,7 @@ int main(void) {
   short int  Rb8NXn6  =  0;
     unsigned long long    XEpL    =    -1247153762;
     unsigned short    Pa7aBx20    =    0;
-	char	ggL450H	=	1802844989;
+	char	ggL450H	=	(char)1802844989;
     unsigned char    j33f9t    =    301585997;
   unsigned long long  j8_pMV65kq  =  -1212179982;
   float  SVr2Z0di  =  631758861;
@@ -75,7 +75,7 @@ case 'a':
 XEpL = iZ8z6Xu((short)-1774520072, XEpL, 1457665298, VX2xS_);
 break;
 case 'b':
-ggL450H = iZ8z6Xu((short)-1623207703, -416915701, 176333448, -840387799);
+ggL450H = iZ8z6Xu((short)-1623207703, -416915701, 176333448, (unsigned char)-840387799);
 break;
 case 'c':
 QOFo0 = wV963zr(51865278, ggL450H, Pa7aBx20);
@@ -583,7 +583,7 @@ XEpL = iZ8z6Xu((short)-235507016, ggL450H, Pa7aBx20, (unsigned char)-758651919);
 }
 else if (j33f9t <= -1157820346)
 {
-std::cout << "cw5_g" << "S4dik" << DGEgANGIej(XEpL, -1675632173, 849009798, VX2xS_, 39528083) << "JWkQ" << "Oxt50c" << std::endl;
+std::cout << "cw5_g" << "S4dik" << DGEgANGIej(XEpL, -1675632173, 849009798, VX2xS_, (short)39528083) << "JWkQ" << "Oxt50c" << std::endl;
 }
 else
 {

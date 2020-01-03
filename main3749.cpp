@@ -19,7 +19,7 @@ int main() {
 	unsigned short int	RYV09B83,	CDK3,	qh605YZO1V,	HeoV,	L54Mw4PLRd,	n5612z_i,	khS53,	sQA7K,	Z_bAu,	UvHM9P5cs,	r531P,	n0_Ze5_7Y,	G9iIwM1NC,	j91bZ7AzXO,	y3fap8N7_E,	Zy3nM,	mo7c6,	BamqP_fsR,	a82D6bI,	w8QMPwuR3,	S_z1FsN84,	kv605U,	t6Ij,	S6p79ltJxC,	v1UZ1s,	ZH0b,	gf3d4,	DwRmYM,	lZiX5,	I_xb,	n65q,	x0wpMWkygN,	YhT_lVb4_q,	lwfhZ_Lk,	El5R7bUxJ6,	XAMsZr9,	W79PRs6e,	UImOpb_Uut,	SgjP48,	a1c_4FBXE,	Hh4x_735l9,	eu0RY7,	yl1p35XnB,	RA48GAY,	uv442p9W,	fUBn,	vZXs9i12_2,	PM4BTbs06i,	T6q50F_M31,	u1rT4kV7Ri,	Z698Gh,	ofcNo8P7p,	Ei0jLv,	wx147DEM,	gsrpN32r_,	qmI3dG5,	xXd7K0,	JU51AW8q_,	tI1t_Z07,	bcCt,	pAQ7xIhZws,	U41v7w,	Nzuq,	Wn7I7906q,	pG1hI3CQG,	IzV5bo7Ya,	TsXL,	j7L58_5t7,	D_3HM_O,	cs2g3m4Xmr,	k_s7,	bDHhn9I2,	Iy5E_J,	liSC4,	Gn8D9,	KXO0_,	HV69,	Z7KFg38iw,	MMib__5,	ix_XZlM,	Up8_,	f24TQfYUrj,	gAK2jTAQ,	Dc7P_rg4;
 	RYV09B83	=	(unsigned short)1788358109;
 	CDK3	=	(unsigned short)809164202;
-	qh605YZO1V	=	-207251911;
+	qh605YZO1V	=	(unsigned short)-207251911;
 	HeoV	=	-423030550;
 	L54Mw4PLRd	=	-1699965425;
 	n5612z_i	=	-423701513;
@@ -29,7 +29,7 @@ int main() {
 	UvHM9P5cs	=	1358071972;
 	r531P	=	(unsigned short)-1389043520;
 	n0_Ze5_7Y	=	(unsigned short)1099477900;
-	G9iIwM1NC	=	1328829747;
+	G9iIwM1NC	=	(unsigned short)1328829747;
 	j91bZ7AzXO	=	881001002;
 	y3fap8N7_E	=	-116395627;
 	Zy3nM	=	-2122194911;
@@ -39,7 +39,7 @@ int main() {
 	w8QMPwuR3	=	-785050664;
 	S_z1FsN84	=	(unsigned short)-1154904347;
 	kv605U	=	(unsigned short)-1641556525;
-	t6Ij	=	-991465635;
+	t6Ij	=	(unsigned short)-991465635;
 	S6p79ltJxC	=	522753943;
 	v1UZ1s	=	509180226;
 	ZH0b	=	-960740017;
@@ -49,7 +49,7 @@ int main() {
 	I_xb	=	-1013366804;
 	n65q	=	(unsigned short)-1652405604;
 	x0wpMWkygN	=	(unsigned short)296911789;
-	YhT_lVb4_q	=	-837600126;
+	YhT_lVb4_q	=	(unsigned short)-837600126;
 	lwfhZ_Lk	=	-1296717040;
 	El5R7bUxJ6	=	636048867;
 	XAMsZr9	=	1763696078;
@@ -59,7 +59,7 @@ int main() {
 	a1c_4FBXE	=	158268594;
 	Hh4x_735l9	=	(unsigned short)-515451478;
 	eu0RY7	=	(unsigned short)-396286760;
-	yl1p35XnB	=	1788006606;
+	yl1p35XnB	=	(unsigned short)1788006606;
 	RA48GAY	=	-522305316;
 	uv442p9W	=	-829561348;
 	fUBn	=	1428349731;
@@ -69,7 +69,7 @@ int main() {
 	u1rT4kV7Ri	=	1394710897;
 	Z698Gh	=	(unsigned short)-1767192334;
 	ofcNo8P7p	=	(unsigned short)2101654673;
-	Ei0jLv	=	-1835855544;
+	Ei0jLv	=	(unsigned short)-1835855544;
 	wx147DEM	=	102706749;
 	gsrpN32r_	=	-1613298373;
 	qmI3dG5	=	-1849101875;
@@ -79,7 +79,7 @@ int main() {
 	bcCt	=	-975955656;
 	pAQ7xIhZws	=	(unsigned short)-1378308939;
 	U41v7w	=	(unsigned short)-1538571974;
-	Nzuq	=	-943226424;
+	Nzuq	=	(unsigned short)-943226424;
 	Wn7I7906q	=	947211971;
 	pG1hI3CQG	=	-1568799018;
 	IzV5bo7Ya	=	232235153;
@@ -89,7 +89,7 @@ int main() {
 	cs2g3m4Xmr	=	1664175978;
 	k_s7	=	(unsigned short)-899640340;
 	bDHhn9I2	=	(unsigned short)1507719143;
-	Iy5E_J	=	1903037318;
+	Iy5E_J	=	(unsigned short)1903037318;
 	liSC4	=	-1102974109;
 	Gn8D9	=	1882810389;
 	KXO0_	=	985214741;
@@ -99,7 +99,7 @@ int main() {
 	ix_XZlM	=	-1607974319;
 	Up8_	=	(unsigned short)-2007925643;
 	f24TQfYUrj	=	(unsigned short)1312973710;
-	gAK2jTAQ	=	604926677;
+	gAK2jTAQ	=	(unsigned short)604926677;
 	Dc7P_rg4	=	1243333125;
 
 BamqP_fsR = (unsigned short int)(Zy3nM);
@@ -181,7 +181,7 @@ yl1p35XnB |= Hh4x_735l9;
 break;
 }
 
-ix_XZlM = l3FTk4h7gd(1571593705, (unsigned char)-1042364640, L54Mw4PLRd) / l3FTk4h7gd(-1014836308, (unsigned char)-1702623177, 771011038);
+ix_XZlM = l3FTk4h7gd(1571593705, (unsigned char)-1042364640, L54Mw4PLRd) / l3FTk4h7gd(-1014836308, (unsigned char)-1702623177, (short)771011038);
 {
 int i = 10;
 while (i >= 0)
@@ -238,7 +238,7 @@ else if (gf3d4 != -1428237944)
 int k = 0;
 while (k < 4)
 {
-Li3pzlFvO = l3FTk4h7gd(W79PRs6e, (unsigned char)1467210601, -1353261000);
+Li3pzlFvO = l3FTk4h7gd(W79PRs6e, (unsigned char)1467210601, (short)-1353261000);
 ++k;
 }
 }
@@ -456,7 +456,7 @@ case 2:
 VgOz = (int)abs(Li3pzlFvO);
 break;
 case 3:
-F2C0_I = l3FTk4h7gd(-1948993526, 1946369112, Up8_);
+F2C0_I = l3FTk4h7gd(-1948993526, (unsigned char)1946369112, Up8_);
 break;
 case 4:
 F2C0_I = l3FTk4h7gd(-805078559, f24TQfYUrj, (short)499904879);

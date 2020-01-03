@@ -42,7 +42,7 @@ int main(int argc, char** argv) {
     unsigned char    EJ2u5bS_I;
     EJ2u5bS_I    =    (unsigned char)-841464370;
 	unsigned char	y8V_E;
-	y8V_E	=	-180856373;
+	y8V_E	=	(unsigned char)-180856373;
 	unsigned long	PI5kDv;
 	PI5kDv	=	-1233004399;
     unsigned long long    U4tbq7;
@@ -90,7 +90,7 @@ int main(int argc, char** argv) {
 	unsigned short	KMASN;
 	KMASN	=	(unsigned short)-779263076;
 	unsigned short	cql4DZ4;
-	cql4DZ4	=	560570967;
+	cql4DZ4	=	(unsigned short)560570967;
   unsigned short  LZh9g;
   LZh9g  =  (unsigned short)1655428526;
   double  jq28Y1uP57;
@@ -307,7 +307,7 @@ do
 {
 for (int k = 0; k < 1; k++)
 {
-y8V_E = f1VSa232(y8V_E, (unsigned char)759190427, 2055739639, (short)989279677, -1451039618);
+y8V_E = f1VSa232(y8V_E, (unsigned char)759190427, 2055739639, (short)989279677, (short)-1451039618);
 }
 j++;
 }

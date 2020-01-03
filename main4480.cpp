@@ -27,7 +27,7 @@ int main(int argc, char** argv)
  long fOaeY7qr = 304517035;
     char    i0_GP0I    =    (char)-46741834;
 	float	sYvxro	=	-826871292;
-	unsigned char	n8RHgt7	=	1817463064;
+	unsigned char	n8RHgt7	=	(unsigned char)1817463064;
  short v51u_NC6 = 737395625;
   unsigned short int  i4uRN375  =  -1570450644;
  double MG8P38C = -1198168436;
@@ -47,7 +47,7 @@ int main(int argc, char** argv)
  unsigned long xRrX6Eb8R = -442782721;
  unsigned short int MBN05fNd7C = (unsigned short)1812495572;
     unsigned int    LHq3lG    =    -246114343;
-    unsigned short    UQEMC2rC    =    -1827613340;
+    unsigned short    UQEMC2rC    =    (unsigned short)-1827613340;
 	unsigned long	JLZW	=	-1262581196;
     double    hHsqe6_eq    =    -2091469591;
  unsigned short Xs80t = (unsigned short)1641929507;
@@ -62,7 +62,7 @@ int main(int argc, char** argv)
   long  uR61  =  -1166416506;
 	short	Z5KnJz	=	0;
  short int Wh_mWTz = (short)-760109472;
-    char    x7XP4U    =    1909941251;
+    char    x7XP4U    =    (char)1909941251;
     int    Rv9K5S7q    =    -2141911027;
   unsigned char  UvgkGOBc8  =  826381477;
  unsigned int RT6C46sl9 = 859378557;
@@ -75,7 +75,7 @@ int main(int argc, char** argv)
  float CbcO32GCK = -733888250;
   unsigned short int  rRF4RCm_t  =  (unsigned short)646012262;
  int YVCSG7F = 0;
-	short	n827SP2N	=	1679131127;
+	short	n827SP2N	=	(short)1679131127;
 	long double	gZJrXh_R1I	=	-886684591;
   int  J2M115  =  983573510;
     unsigned char    xMwkkPW    =    (unsigned char)-444426269;
@@ -87,7 +87,7 @@ int main(int argc, char** argv)
  unsigned long V9TU8a = 1387895868;
     char    A00F    =    (char)-574686597;
  unsigned int dASOb2Nohs = -865580796;
-    unsigned short    p0F4mIr2ti    =    -531813162;
+    unsigned short    p0F4mIr2ti    =    (unsigned short)-531813162;
 	char	SpTB4Z	=	(char)977545759;
 	int	K8Dq	=	-1593651322;
   unsigned int  Jsh0eaWk  =  964176790;
@@ -99,7 +99,7 @@ int main(int argc, char** argv)
     unsigned short    ZMq0p484c2    =    -52731656;
 	double	oJ0A2y	=	-1931137761;
 	char	K1H35URP7	=	(char)1986861523;
-	short	iV_RMVu	=	-1803357139;
+	short	iV_RMVu	=	(short)-1803357139;
   long double  PQ9L4__PW  =  603254018;
 	long double	O8C7O	=	842061703;
 	float	U0e3S	=	1637989628;

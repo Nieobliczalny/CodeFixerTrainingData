@@ -44,7 +44,7 @@ int main(void)
     short    AyP0856;
     AyP0856    =    (short)-18505852;
   unsigned char  n6tra4;
-  n6tra4  =  -140714133;
+  n6tra4  =  (unsigned char)-140714133;
   unsigned int  r8mu;
   r8mu  =  0;
   long double  K1MSDHZI;
@@ -56,7 +56,7 @@ int main(void)
 	short	kz3wDBC;
 	kz3wDBC	=	(short)1322795841;
 	unsigned short int	qH6SBo;
-	qH6SBo	=	281403791;
+	qH6SBo	=	(unsigned short)281403791;
  unsigned char HksZpu_;
  HksZpu_ = 0;
  long long Hxy33_;
@@ -68,7 +68,7 @@ int main(void)
     short    DABNTCp;
     DABNTCp    =    (short)-459165917;
 	unsigned short int	cSGyx;
-	cSGyx	=	-1442998145;
+	cSGyx	=	(unsigned short)-1442998145;
     char    K1eqi;
     K1eqi    =    1449824324;
  unsigned long ypykS;
@@ -78,7 +78,7 @@ int main(void)
   unsigned short  q4lqB45Pn;
   q4lqB45Pn  =  (unsigned short)490811532;
 	unsigned short int	r6st0pO6c;
-	r6st0pO6c	=	862830700;
+	r6st0pO6c	=	(unsigned short)862830700;
  unsigned char NWaA;
  NWaA = -113751295;
  unsigned long long d_Xpoo;
@@ -104,7 +104,7 @@ case 2:
 K1MSDHZI = (int)floor(SHiIepwM);
 break;
 case 3:
-HksZpu_ = GzQK1(1493339440, r6st0pO6c, (unsigned short)1332375307, 1997412561, ZI30Y2_75h);
+HksZpu_ = GzQK1(1493339440, r6st0pO6c, (unsigned short)1332375307, (unsigned char)1997412561, ZI30Y2_75h);
 break;
 case 4:
 i7aDy0JI1 = GzQK1(y_99, kz3wDBC, (unsigned short)-1843126673, OEJk4ebtRR, NWaA);

@@ -24,7 +24,7 @@ int main() {
   unsigned short int  RpDj3_V,  fBdtN2P,  h8e2211e7W,  w5rDkIq,  IfW0,  k1f8Hif6,  D6T31,  FZ8G,  uBEmK_1o,  zNvW3d,  Kr_yHFEnL,  tfO_i3B9,  h_UD_m,  oaJ_60o5,  C1zyUeVt_,  eSw_O,  jo_8fFlz,  mCp88l,  X9F1xE,  S8C9TS1N,  SF1o,  FL96,  G_Fnw,  uOe1O,  ZsmbIRWn,  CGNb,  RrY6,  N0Ry,  R_jwk__n,  Fg_w7,  MDUTmT8dRg,  JrC6rTkA,  q526N,  aJvv4wv,  zz7lVafV5l,  tEgEI,  Lora65D,  x60mv,  Oie3Z,  HHy8,  xV8n,  fJ1Me,  Edh9_8C,  z3ZU45,  ZK33vN9Wa,  Ft71D2j_9,  muVFndoq6,  IWwho61m,  aw_ik7_LP,  uA_Kri1,  I6xG,  hV_6r,  G64hrZ8yIG,  h_mF646Zk,  ahB4;
   RpDj3_V  =  (unsigned short)850840053;
   fBdtN2P  =  (unsigned short)-1473993703;
-  h8e2211e7W  =  227825590;
+  h8e2211e7W  =  (unsigned short)227825590;
   w5rDkIq  =  834522207;
   IfW0  =  72732940;
   k1f8Hif6  =  -760774790;
@@ -34,7 +34,7 @@ int main() {
   zNvW3d  =  394058303;
   Kr_yHFEnL  =  (unsigned short)1833342244;
   tfO_i3B9  =  (unsigned short)1961082235;
-  h_UD_m  =  -2090349635;
+  h_UD_m  =  (unsigned short)-2090349635;
   oaJ_60o5  =  -1589273608;
   C1zyUeVt_  =  -1410657569;
   eSw_O  =  232005864;
@@ -44,7 +44,7 @@ int main() {
   S8C9TS1N  =  -846260462;
   SF1o  =  (unsigned short)-393164104;
   FL96  =  (unsigned short)-2125866825;
-  G_Fnw  =  47816403;
+  G_Fnw  =  (unsigned short)47816403;
   uOe1O  =  563321059;
   ZsmbIRWn  =  895614211;
   CGNb  =  97497178;
@@ -54,7 +54,7 @@ int main() {
   Fg_w7  =  827842975;
   MDUTmT8dRg  =  (unsigned short)-1430368486;
   JrC6rTkA  =  (unsigned short)-889663481;
-  q526N  =  -905707403;
+  q526N  =  (unsigned short)-905707403;
   aJvv4wv  =  -1563067985;
   zz7lVafV5l  =  1196811271;
   tEgEI  =  248731745;
@@ -64,7 +64,7 @@ int main() {
   HHy8  =  625070962;
   xV8n  =  (unsigned short)-612227801;
   fJ1Me  =  (unsigned short)94857191;
-  Edh9_8C  =  1330003073;
+  Edh9_8C  =  (unsigned short)1330003073;
   z3ZU45  =  -2096043388;
   ZK33vN9Wa  =  1862744137;
   Ft71D2j_9  =  183376200;
@@ -74,7 +74,7 @@ int main() {
   uA_Kri1  =  60875494;
   I6xG  =  (unsigned short)-1026887394;
   hV_6r  =  (unsigned short)1068249098;
-  G64hrZ8yIG  =  -918104255;
+  G64hrZ8yIG  =  (unsigned short)-918104255;
   h_mF646Zk  =  1008799775;
   ahB4  =  -2114009281;
 

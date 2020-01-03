@@ -36,7 +36,7 @@ short na1M(unsigned long long Yl6LPX6,short q_jce,unsigned long long c8wv75wP,in
 int main(void) {
  int dah_H6b62 = 690014367;
 	char	VGcwdYG	=	(char)-1025583777;
- char hcP8 = -1004463262;
+ char hcP8 = (char)-1004463262;
   short int  UB_b0lxb  =  133642101;
     short int    C5_by    =    885107143;
     float    ada232    =    1225488629;
@@ -47,7 +47,7 @@ int main(void) {
   short  HI9Q  =  97826469;
 	short int	Q39JS	=	(short)1046064179;
     float    o0q43_uYu    =    -1299751261;
-	short	c_3Qg4HP0e	=	712912306;
+	short	c_3Qg4HP0e	=	(short)712912306;
     int    wvh3QGTw    =    0;
  float SyW1 = 591886598;
   char  I1S1o1074  =  (char)1638805335;
@@ -198,7 +198,7 @@ HI9Q = hcP8 >> 224644867;
 }
 else
 {
-H6NKVI = rnO469M(-1055203294, (unsigned char)1357840328, -1807148937);
+H6NKVI = rnO469M(-1055203294, (unsigned char)1357840328, (short)-1807148937);
 }
 }
 catch (int& errorCode)
@@ -466,7 +466,7 @@ case 'b':
 JDK7t = na1M(1450289737, (short)949432557, haxmfPR, -879367949);
 break;
 case 'c':
-wvh3QGTw = rnO469M(791623848, hcP8, -1874685543);
+wvh3QGTw = rnO469M(791623848, hcP8, (short)-1874685543);
 break;
 case 'd':
 ada232 = (int)ceil(o0q43_uYu);

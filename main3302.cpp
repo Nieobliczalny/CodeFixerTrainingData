@@ -81,7 +81,7 @@ case 0:
 ZrYx1wYRRf = Gm66Z0Tw6(aFgZ01, (char)603608187, MLY0zT38OK);
 break;
 case 1:
-l9C_ZEs39 = Gm66Z0Tw6(aFgZ01, (char)894518327, -824483782);
+l9C_ZEs39 = Gm66Z0Tw6(aFgZ01, (char)894518327, (unsigned char)-824483782);
 break;
 case 2:
 BAReQmf_I6 = eG_o_ & ZrYx1wYRRf;
@@ -96,7 +96,7 @@ case 5:
 jBxM5MND = Gm66Z0Tw6(-751780686, (char)1018887078, VXoqh);
 break;
 case 6:
-aFgZ01 = yoZsIq3R4((short)-1742566225, 1941283727, MLY0zT38OK, 387847125);
+aFgZ01 = yoZsIq3R4((short)-1742566225, (short)1941283727, MLY0zT38OK, 387847125);
 break;
 case 7:
 Q27l5 *= aFgZ01;
@@ -132,7 +132,7 @@ case 2:
 aFgZ01 = yoZsIq3R4(l9C_ZEs39, (short)1082300645, eG_o_, -1723434969);
 break;
 default:
-BAReQmf_I6 = Gm66Z0Tw6(-1719922475, (char)426341388, 1266502650);
+BAReQmf_I6 = Gm66Z0Tw6(-1719922475, (char)426341388, (unsigned char)1266502650);
 break;
 }
 }

@@ -46,7 +46,7 @@ int main() {
     short    Gx2UL1gVF    =    (short)-1597847957;
     short    XbE9yZNC    =    (short)988902784;
     long long    Gu13X    =    803099397;
-  unsigned short  W79UK14rbu  =  -691004632;
+  unsigned short  W79UK14rbu  =  (unsigned short)-691004632;
 	short	KT00Q78M	=	0;
     unsigned long long    O1nm993K    =    -497467015;
     short    q4xVycB    =    0;
@@ -57,7 +57,7 @@ int main() {
   long double  fw9ors_jN  =  1507392683;
   char  Ff22Hk5L7  =  (char)366304675;
   unsigned short int  U1_E8P  =  (unsigned short)2142255130;
-  short  HlH4A6B  =  1577495654;
+  short  HlH4A6B  =  (short)1577495654;
     unsigned char    CxO1cto4R    =    1344695234;
 	unsigned short int	zd7R2vIPlK	=	-1818249575;
   unsigned char  szW32E5QA  =  273209991;
@@ -71,7 +71,7 @@ int main() {
 	float	p9rR9HSM2d	=	-901835914;
     long    P53q8w_    =    166816448;
  unsigned short AvqHYi7am = (unsigned short)-533073392;
- unsigned short int YlOa27_X = 165694650;
+ unsigned short int YlOa27_X = (unsigned short)165694650;
     double    Nu_n9t36C    =    -571510043;
 
 if (Y8g5Fo)
@@ -86,7 +86,7 @@ else
 switch (uuLSX)
 {
 case 0:
-d36HUT = WH2x((unsigned char)2109457255, 2114847021, -1995584090, Y8g5Fo, W79UK14rbu);
+d36HUT = WH2x((unsigned char)2109457255, (short)2114847021, -1995584090, Y8g5Fo, W79UK14rbu);
 break;
 case 1:
 szW32E5QA = WH2x((unsigned char)-1953344983, Y8g5Fo, Sl5EO2, zd7R2vIPlK, D9hF1ZG0XB);

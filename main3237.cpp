@@ -166,7 +166,7 @@ case 'c':
 mSe22U3a = oB366U(rzVf6, 348703760, CPjSF1I0, Hu6f3S8);
 break;
 case 'd':
-csAb_ = oB366U(-1216944218, Y1XeMU79, 1999398926, -811503948);
+csAb_ = oB366U((short)-1216944218, Y1XeMU79, 1999398926, -811503948);
 break;
 case 'e':
 xptP693 %= z3x2A;
@@ -296,7 +296,7 @@ std::cout << dro_M90(Y1XeMU79, (unsigned short)18584264, csAb_) << oB366U(Y1XeMU
 while (j >= 0);
 }
 }
-std::cout << "WMC7" << oB366U(-297581430, J88306, csAb_, 1697950966) << oB366U(604141151, 1768261894, -1802458845, 1189503720) << Ee_S8X435N << "B036" << std::endl;
+std::cout << "WMC7" << oB366U((short)-297581430, J88306, csAb_, 1697950966) << oB366U(604141151, 1768261894, -1802458845, 1189503720) << Ee_S8X435N << "B036" << std::endl;
 
 if (((tXv_MpzqG < -111009356) || (uYO4zFzJU < i0M40Q)) || (eSgY_9q1 < -999734725))
 {
@@ -417,7 +417,7 @@ catch (int& errorCode)
 {
 Wg_i52P = dro_M90(88383985, -466015373, 924451779);
 }
-q_tK = Hu6f3S8 / dro_M90((short)-1557161088, 722456626, 1351539514);
+q_tK = Hu6f3S8 / dro_M90((short)-1557161088, (unsigned short)722456626, 1351539514);
 
 return 0;
 }

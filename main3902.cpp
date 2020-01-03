@@ -149,7 +149,7 @@ case 'a':
 TFL3N = nz2WKx(lN2TL6iI, p8DbDnG, (unsigned char)920124625, 1588291007) % 2052671436;
 break;
 default:
-V9sg = nz2WKx((short)-1914278182, bz2D2Qi09D, 199677312, L7qQmIM16G);
+V9sg = nz2WKx((short)-1914278182, bz2D2Qi09D, (unsigned char)199677312, L7qQmIM16G);
 break;
 }
 switch (Aq5_yFx6VG)

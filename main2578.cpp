@@ -20,7 +20,7 @@ int main(void) {
 	unsigned long long	wQUlm7g2_D	=	878092180;
 	unsigned short int	q0lx1c8	=	(unsigned short)-212339397;
  unsigned short int wkh_Wz04F2 = (unsigned short)14644425;
-    short    f6EP6c    =    -1436191853;
+    short    f6EP6c    =    (short)-1436191853;
 	long long	iwCOyI	=	8449558;
  int d4wa41 = 1040153460;
  short r6Mnhrl6Ge = 944965523;
@@ -34,7 +34,7 @@ int main(void) {
   unsigned int  d46kHe_X3  =  -1159201458;
  short q69MwG2X = (short)-2130593395;
   unsigned short int  E6K3tN3y  =  (unsigned short)671245744;
-	short int	Kw0xege8	=	-1990065090;
+	short int	Kw0xege8	=	(short)-1990065090;
  unsigned long long tQ4d3 = 32036816;
  long long DY9nlL3APy = 771523010;
     float    y13yc8_DM    =    117248376;
@@ -54,7 +54,7 @@ int main(void) {
 	unsigned long long	T035ZJq	=	-641607135;
 	double	G_5uEy9F5	=	-128099656;
   char  ez9yV  =  (char)627971786;
-	char	pDd8KT	=	-198084946;
+	char	pDd8KT	=	(char)-198084946;
  long double F2swt5 = -794847011;
     short int    KzBdbxAMJ    =    -1455446544;
 	long	GS7qML	=	242319842;
@@ -70,7 +70,7 @@ int main(void) {
     double    O13c_    =    99900494;
   unsigned short  Ia_0EJQi  =  (unsigned short)888967611;
   long double  QQdd  =  -1310248183;
-    short int    D46f08J    =    -1783540802;
+    short int    D46f08J    =    (short)-1783540802;
  unsigned int HgkMlP = 521877493;
     int    T0S9XWLyc    =    0;
     long long    ds2h    =    -210060260;
@@ -115,7 +115,7 @@ while (j < 2);
 }
 else if (aRbFQz <= -918575003)
 {
-std::cout << K1o115() << "wTfa210k" << "c13A4S09P" << "Lux710q399" << jXXiI(T0S9XWLyc, -1367446250, -1076642337) << std::endl;
+std::cout << K1o115() << "wTfa210k" << "c13A4S09P" << "Lux710q399" << jXXiI(T0S9XWLyc, (unsigned short)-1367446250, -1076642337) << std::endl;
 }
 else if (q69MwG2X & 1824931523)
 {
@@ -273,7 +273,7 @@ if (((AVLP < -2126888270) || (r6Mnhrl6Ge == 1956877737)) && ((UrW460Ft1x > 19579
 {
 if (Q_88LYy <= 952326621)
 {
-T0S9XWLyc = jXXiI(2023084352, 2118095354, D46f08J);
+T0S9XWLyc = jXXiI((short)2023084352, 2118095354, D46f08J);
 }
 else if ((wQUlm7g2_D <= E7TncQ3I6) && (ZhE893PFit >= 1507199648))
 {

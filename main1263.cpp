@@ -23,7 +23,7 @@ int main()
  unsigned short int z23W5NT3g2, HEZBR, r054_fH8N, A_q0YEUL, Gy25, j885, e9_Cpm_4n4, Pi7W6, PZtB4Z, XWgt, RjcxW, EeA_37SSn7, gR_wslI, mSr3j6wb8, Rpg9, h6uEe9nu, umM74lP, O2ZaZdXp, TQ_U__A6d, owfm7u008f, W7_86_SV, cC6dRTVUH1, iTvV, le13FnqY, vD0O, ANnHwC6FB6, y8b34oe, S66U3vR, K_W828Aw9, qd9Si_, E02tHQ36, EWZQZ_YOa, lVa1, yX0n6, y7yZdoF1H, B466J, ghr5, Jr8PZw, eh_g, F_3aeQg7, lTh_dO6, aoa27Ao9f4, N2xHK3ydN, AyY7, Rj0o7kdruc, n8oY, y9r4A, A8PGdjDWg0, T747H_tXZ0, rC1By0Q, d92UeB_fdD, w09V_l7, HwEwh7RL, Taoa36, mVD2AJZH5;
  z23W5NT3g2 = (unsigned short)-720421552;
  HEZBR = (unsigned short)-2118247335;
- r054_fH8N = -1965033894;
+ r054_fH8N = (unsigned short)-1965033894;
  A_q0YEUL = 232629961;
  Gy25 = 163773195;
  j885 = -1365413424;
@@ -33,7 +33,7 @@ int main()
  XWgt = -1722603867;
  RjcxW = (unsigned short)-701616175;
  EeA_37SSn7 = (unsigned short)1615153093;
- gR_wslI = 86673499;
+ gR_wslI = (unsigned short)86673499;
  mSr3j6wb8 = -1221675835;
  Rpg9 = -413994577;
  h6uEe9nu = 645566182;
@@ -43,7 +43,7 @@ int main()
  owfm7u008f = -1244326728;
  W7_86_SV = (unsigned short)231229966;
  cC6dRTVUH1 = (unsigned short)53361747;
- iTvV = 1663260594;
+ iTvV = (unsigned short)1663260594;
  le13FnqY = -2117711127;
  vD0O = 1399568123;
  ANnHwC6FB6 = -1359508085;
@@ -53,7 +53,7 @@ int main()
  qd9Si_ = 668164761;
  E02tHQ36 = (unsigned short)-1927654509;
  EWZQZ_YOa = (unsigned short)-1029480401;
- lVa1 = 575766363;
+ lVa1 = (unsigned short)575766363;
  yX0n6 = -1540139081;
  y7yZdoF1H = 2023592964;
  B466J = 318110729;
@@ -63,7 +63,7 @@ int main()
  F_3aeQg7 = -936440368;
  lTh_dO6 = (unsigned short)-1434297192;
  aoa27Ao9f4 = (unsigned short)1830573474;
- N2xHK3ydN = 369177018;
+ N2xHK3ydN = (unsigned short)369177018;
  AyY7 = -436219493;
  Rj0o7kdruc = 2025081623;
  n8oY = 1749759223;
@@ -73,7 +73,7 @@ int main()
  rC1By0Q = 415279185;
  d92UeB_fdD = (unsigned short)664566199;
  w09V_l7 = (unsigned short)1116489376;
- HwEwh7RL = -846776431;
+ HwEwh7RL = (unsigned short)-846776431;
  Taoa36 = -449449808;
  mVD2AJZH5 = 1362237380;
   unsigned short int  M_56DewgC;

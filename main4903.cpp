@@ -43,7 +43,7 @@ case 0:
 dA_o = Von3WYq((unsigned short)-720688500, (short)-567366287, 737511851);
 break;
 case 1:
-MO7UX92HGc = h5rYH(270708273, -1890305372, -672866270, 359189911, rhYs);
+MO7UX92HGc = h5rYH((char)270708273, -1890305372, -672866270, 359189911, rhYs);
 break;
 case 2:
 MO7UX92HGc = (int)abs(wmyJWorbno);

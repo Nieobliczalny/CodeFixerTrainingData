@@ -52,7 +52,7 @@ int main(void)
     unsigned long    PCsBw;
     PCsBw    =    -715305043;
   short int  BM95W_0eE;
-  BM95W_0eE  =  599490999;
+  BM95W_0eE  =  (short)599490999;
   float  f__V496;
   f__V496  =  553740970;
     unsigned long    uX13JI8c;
@@ -226,7 +226,7 @@ m4IqJ7 = zoEX669_6(-1052134913, n_43c, -906149892, (char)-444058906, (short)2098
 break;
 case 'b':
 case 'B':
-A5V4qk_y = ooEFul4(A5V4qk_y, 1374648993, -407713358, 1331602038, B9ehaT4nD);
+A5V4qk_y = ooEFul4(A5V4qk_y, (short)1374648993, -407713358, 1331602038, B9ehaT4nD);
 break;
 case 'c':
 case 'C':
@@ -284,7 +284,7 @@ try
 {
 if ((mZ7M_ != TYC48Z) && (uX13JI8c != xy8l4U8z))
 {
-KYpNrUKr_H = ooEFul4((unsigned short)-276597993, (short)1380425757, mZ7M_, 1404811664, -32451382);
+KYpNrUKr_H = ooEFul4((unsigned short)-276597993, (short)1380425757, mZ7M_, 1404811664, (unsigned char)-32451382);
 }
 else if (Gb1jfMN9 == xy8l4U8z)
 {

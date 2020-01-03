@@ -25,7 +25,7 @@ int main(int argc, char** argv)
 {
  unsigned short uK7774_Fcx, K0g6zU5, i99_wv8;
  uK7774_Fcx = (unsigned short)165318472;
- K0g6zU5 = 1691333536;
+ K0g6zU5 = (unsigned short)1691333536;
  i99_wv8 = -384157695;
   char  Ia91N90E1t,  ZPufkJsb,  fWVN3Cm,  RvMxFke;
   Ia91N90E1t  =  0;
@@ -144,7 +144,7 @@ uK7774_Fcx = Huovi((unsigned short)-2031711519);
 cout << uK7774_Fcx << "hztL" << endl;
 if (ZPufkJsb < -1923235558)
 {
-K0g6zU5 = (RvMxFke <= fWVN3Cm) ? (unsigned short)1070136170 : Huovi(1893606294);
+K0g6zU5 = (RvMxFke <= fWVN3Cm) ? (unsigned short)1070136170 : Huovi((unsigned short)1893606294);
 }
 else if (RvMxFke & -117903929)
 {
@@ -300,7 +300,7 @@ i99_wv8 = W5088L(1161582071, RvMxFke, (unsigned short)1430160433, i99_wv8);
 break;
 case 'g':
 case 'G':
-K0g6zU5 = W5088L(RvMxFke, (unsigned short)-98218648, Ia91N90E1t, -1352889193);
+K0g6zU5 = W5088L(RvMxFke, (unsigned short)-98218648, Ia91N90E1t, (short)-1352889193);
 break;
 case 'h':
 case 'H':
@@ -328,7 +328,7 @@ case 1:
 i99_wv8 *= fWVN3Cm;
 break;
 case 2:
-uK7774_Fcx = W5088L(1514294476, (unsigned short)554545459, 557980090, -1014565650);
+uK7774_Fcx = W5088L(1514294476, (unsigned short)554545459, (unsigned short)557980090, -1014565650);
 break;
 case 3:
 i99_wv8 = Huovi(fWVN3Cm);

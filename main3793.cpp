@@ -23,7 +23,7 @@ int main(int argc, char** argv) {
  unsigned char I3oxU, hB5277C, stE3BoP9yd, a7d9U, AKt9z3Ra5p, H14UE5Bh63, dA2_003, ZMZ13_jfe, UWsFuiU5, S_1o7, Inq87KSa, y0hA2, AiMp, bxlJB, A45O, W0UL, lFWzK3LH, drWrYeL1, IUFpxy, n6hzc, N2Ld1nnH_, bKP2E0L4, z56TMD, hv9_NBkf, g8l4v9w1, q29f2064, LB773, W0x1pq, u0KkfU41, L6h7c, vbEX2c5, zCzwN3s, sK2bp, LBPsuuSUDA, R50F_o, m0XiXl16v, A9qZM9vmu, nh2Jg0_2, TfN8E_3blP, zEkt6D, g2Ub_ZP5vm, FjEHqD8m0, A_763Wdv, h72X, Z8z6RQ;
  I3oxU = (unsigned char)-1774544824;
  hB5277C = (unsigned char)-847254796;
- stE3BoP9yd = 1112225796;
+ stE3BoP9yd = (unsigned char)1112225796;
  a7d9U = -885532321;
  AKt9z3Ra5p = 2106227617;
  H14UE5Bh63 = 166765242;
@@ -33,7 +33,7 @@ int main(int argc, char** argv) {
  S_1o7 = -1929453399;
  Inq87KSa = (unsigned char)1773144209;
  y0hA2 = (unsigned char)-1063488176;
- AiMp = -1928332222;
+ AiMp = (unsigned char)-1928332222;
  bxlJB = 357526411;
  A45O = -1797936145;
  W0UL = 477656930;
@@ -43,7 +43,7 @@ int main(int argc, char** argv) {
  n6hzc = 493892752;
  N2Ld1nnH_ = (unsigned char)-1917017768;
  bKP2E0L4 = (unsigned char)1469259923;
- z56TMD = -582162428;
+ z56TMD = (unsigned char)-582162428;
  hv9_NBkf = 1017800999;
  g8l4v9w1 = 66918470;
  q29f2064 = 995248340;
@@ -53,7 +53,7 @@ int main(int argc, char** argv) {
  L6h7c = 1020224302;
  vbEX2c5 = (unsigned char)1658048314;
  zCzwN3s = (unsigned char)1672194801;
- sK2bp = -487497395;
+ sK2bp = (unsigned char)-487497395;
  LBPsuuSUDA = -1126214654;
  R50F_o = 155492754;
  m0XiXl16v = -1066077285;
@@ -63,7 +63,7 @@ int main(int argc, char** argv) {
  zEkt6D = 462025163;
  g2Ub_ZP5vm = (unsigned char)2123817124;
  FjEHqD8m0 = (unsigned char)1300855680;
- A_763Wdv = -1930314973;
+ A_763Wdv = (unsigned char)-1930314973;
  h72X = -1589909736;
  Z8z6RQ = 442210978;
 
@@ -681,7 +681,7 @@ LBPsuuSUDA = WAb4Juc8z(-1486799484, q_1EUL, (short)-688898921);
 break;
 case 'd':
 case 'D':
-y0hA2 = (A_763Wdv <= -1277862268) ? (unsigned char)-754705316 : -1292839247;
+y0hA2 = (A_763Wdv <= -1277862268) ? (unsigned char)-754705316 : (unsigned char)-1292839247;
 break;
 default:
 LBPsuuSUDA = A45O + 571061029;

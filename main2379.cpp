@@ -39,7 +39,7 @@ int main()
  short int oA9K5 = (short)-287241996;
   long long  gYPgC63Fvk  =  720859547;
     unsigned long long    e_P4GpMAt7    =    2094295789;
-  short int  f7g0MB  =  757134685;
+  short int  f7g0MB  =  (short)757134685;
     unsigned short int    eQn3XjI_    =    1164453004;
 	unsigned int	Z_80Lc73	=	-1019736945;
     unsigned char    X44___xX    =    -915984980;
@@ -55,7 +55,7 @@ int main()
 	unsigned int	PyVg	=	-952704552;
 	double	D7v5Tf118Q	=	156402562;
 	unsigned long	I25L	=	-325596904;
-  short int  ytnY  =  -205155801;
+  short int  ytnY  =  (short)-205155801;
  unsigned long long aaXWOYC4 = -443041936;
   double  OQ_Tg170pC  =  -1997532058;
   unsigned int  ZntS  =  133105936;
@@ -68,7 +68,7 @@ int main()
   int  Tj65v5wmp  =  1548601079;
  long double z8pY1 = 1507723754;
   float  g0C2Kb  =  1260246294;
-    char    s0LFJyLR1    =    168188079;
+    char    s0LFJyLR1    =    (char)168188079;
 	long long	swp_ap	=	-810023107;
  short int L_DeTf = (short)-607250123;
   long  ct79k  =  -293305956;

@@ -29,7 +29,7 @@ int main(int argc, char** argv)
 	long double	jZ5No1s;
 	jZ5No1s	=	620636851;
   short int  iA0wPJVE;
-  iA0wPJVE  =  691532083;
+  iA0wPJVE  =  (short)691532083;
   unsigned long  kC_YSumW;
   kC_YSumW  =  656302258;
   double  FPS76lf;

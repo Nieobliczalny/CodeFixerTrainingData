@@ -33,7 +33,7 @@ int main(int argc, char** argv) {
  unsigned short int HpDQ0RiyA2;
  HpDQ0RiyA2 = (unsigned short)-1167027523;
     short    P5V78Mh5__;
-    P5V78Mh5__    =    710101661;
+    P5V78Mh5__    =    (short)710101661;
   unsigned char  aR16l78J_T;
   aR16l78J_T  =  0;
 	unsigned short int	Vja2E;
@@ -204,7 +204,7 @@ if (bzd_GpeKX & -1843842039)
 {
 if (HpDQ0RiyA2)
 {
-Z_g_cCMV = XvNsyCU((unsigned short)995296299, -1287763618, (unsigned char)-65342590, 1932787697, 156693224);
+Z_g_cCMV = XvNsyCU((unsigned short)995296299, -1287763618, (unsigned char)-65342590, (short)1932787697, 156693224);
 }
 }
 }
@@ -236,7 +236,7 @@ case 1:
 J8PQ = XvNsyCU(s66d, -496145505, (unsigned char)-786496461, (short)-1671409019, wiYN_1yqj);
 break;
 case 2:
-i2ghBra24 = XvNsyCU(i2ghBra24, -937614670, FauExg, -380484695, I9p565);
+i2ghBra24 = XvNsyCU(i2ghBra24, -937614670, FauExg, (short)-380484695, I9p565);
 break;
 case 3:
 HpDQ0RiyA2 = XvNsyCU(-2118449387, HpDQ0RiyA2, Z_g_cCMV, 525696258, i2ghBra24);
@@ -301,7 +301,7 @@ N6F11Elw /= lMFJS3E_;
 }
 else
 {
-k23GZ2M9j6 = XvNsyCU((unsigned short)-1402934710, af4T8_vOCh, (unsigned char)-1849378178, -1181734521, aR16l78J_T);
+k23GZ2M9j6 = XvNsyCU((unsigned short)-1402934710, af4T8_vOCh, (unsigned char)-1849378178, (short)-1181734521, aR16l78J_T);
 }
 }
 }
@@ -327,7 +327,7 @@ g3IDrXGt = XvNsyCU(g3IDrXGt, aR16l78J_T, HpDQ0RiyA2, (short)-584704183, P5V78Mh5
 
 try
 {
-std::cout << Vja2E << Ov1Vks6qtq() << "zRqoaj5c5" << Ov1Vks6qtq() << XvNsyCU(g3IDrXGt, -674902891, (unsigned char)-1368570230, 843985374, -356220914) << std::endl;
+std::cout << Vja2E << Ov1Vks6qtq() << "zRqoaj5c5" << Ov1Vks6qtq() << XvNsyCU(g3IDrXGt, -674902891, (unsigned char)-1368570230, (short)843985374, -356220914) << std::endl;
 }
 catch (int& errorCode)
 {

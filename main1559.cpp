@@ -48,7 +48,7 @@ int main(int argc, char** argv) {
     short int    oUe_j8    =    (short)829761503;
 	unsigned short	m_5xA	=	(unsigned short)-970542182;
  long C61m1U = -1194912722;
-  unsigned short int  D_OhZ  =  81038369;
+  unsigned short int  D_OhZ  =  (unsigned short)81038369;
 	unsigned long long	q6GpRW6N	=	-4349362;
   long double  Dti38SBD3V  =  161490291;
     double    d3VKbX_Y2    =    954931374;
@@ -61,7 +61,7 @@ int main(int argc, char** argv) {
  unsigned long Ta77s = -217074272;
  char xHt6 = (char)-2027493891;
 	int	fjM3C	=	1863176194;
-  char  eROtk9W6  =  -1056267183;
+  char  eROtk9W6  =  (char)-1056267183;
     unsigned char    Lp90nCI0zp    =    -1884254797;
     long double    BJH50    =    -1256168590;
  unsigned long long dOY7m6 = 152560679;
@@ -73,7 +73,7 @@ int main(int argc, char** argv) {
   long double  Dah9X_5Zd  =  -433196593;
  unsigned short t5n9 = (unsigned short)-1480928805;
  unsigned long long tz6D6qu = 427325390;
-  unsigned short  rmrLx59M7p  =  -819557714;
+  unsigned short  rmrLx59M7p  =  (unsigned short)-819557714;
   short  wPa3U7VFF  =  -1050008812;
 	unsigned short int	PYUi71_b	=	1983075292;
     unsigned long long    W5giP    =    138608107;
@@ -87,7 +87,7 @@ int main(int argc, char** argv) {
   int  K36B4tpP  =  491949552;
  float JwKUWK1kZ = -119263533;
 	unsigned char	yylBQ	=	(unsigned char)-716883888;
-	char	eChxmv	=	-1306308382;
+	char	eChxmv	=	(char)-1306308382;
 	unsigned char	KVtP4Ei3mh	=	(unsigned char)-666954919;
   long  G8_65_Ed  =  -659919748;
 	char	o3sz6	=	-1102802384;
@@ -97,7 +97,7 @@ int main(int argc, char** argv) {
     float    S7Dp1D3    =    -1424236797;
  unsigned short Y892i = -12660079;
  short int KxDn60wP02 = (short)1544865665;
-    unsigned short    vE7QD2q1tt    =    48452788;
+    unsigned short    vE7QD2q1tt    =    (unsigned short)48452788;
 	unsigned char	T98c0grckb	=	(unsigned char)-1457979761;
 	float	R0CWaO2_az	=	2036325889;
 	short int	lo1O9tZqXd	=	2105499381;
@@ -125,7 +125,7 @@ std::cout << "Z2AuP" << "dT64pOf5G" << iBW2((short)-1794324728, tU59, (unsigned 
 
 try
 {
-D_OhZ = nKq7YT8ekI(801220496, -483000798, Nf38fgS27g, 1766559800);
+D_OhZ = nKq7YT8ekI((unsigned char)801220496, -483000798, Nf38fgS27g, 1766559800);
 }
 catch (int& errorCode)
 {

@@ -55,7 +55,7 @@ f58F = Z4nO5(749272008, (short)1770135510, vPShQ);
 }
 else
 {
-B52mMB3 = nm0tT8dK((short)-1478045126, ogk5tywQ2, -1515362484);
+B52mMB3 = nm0tT8dK((short)-1478045126, ogk5tywQ2, (unsigned short)-1515362484);
 }
 }
 i--;

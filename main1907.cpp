@@ -165,7 +165,7 @@ RQ76Mq = (int)abs(uKxc);
 }
 else if (prtumMYGPh <= 355627025)
 {
-uKxc = T94S(HkvznE, (unsigned char)1010916132, (char)-1811816261, 247452938, -1790226621);
+uKxc = T94S(HkvznE, (unsigned char)1010916132, (char)-1811816261, 247452938, (unsigned short)-1790226621);
 }
 else if (Z8COVkwp6 >= 196552987)
 {

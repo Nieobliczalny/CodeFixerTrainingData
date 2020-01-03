@@ -153,7 +153,7 @@ try
 {
 if ((z_NgWg_kA > TpsKaNiT) || (ZpyG7h == TpsKaNiT))
 {
-std::cout << o9wI7OJy << Rqvg6O(a_8lWNz, -1416515859, K325qc, -1220930406) << std::endl;
+std::cout << o9wI7OJy << Rqvg6O(a_8lWNz, (short)-1416515859, K325qc, -1220930406) << std::endl;
 }
 }
 catch (int& errorCode)
@@ -193,7 +193,7 @@ nNd31DCm = Rqvg6O((short)-1980210296, (short)-187546011, -1489138068, tuRmN__1SP
 break;
 case 'b':
 case 'B':
-HPt8bH34AZ = u47aRiS_Z(HPt8bH34AZ, -1556240104, ivrMy7fcB, G_ThW_92);
+HPt8bH34AZ = u47aRiS_Z(HPt8bH34AZ, (unsigned short)-1556240104, ivrMy7fcB, G_ThW_92);
 break;
 case 'c':
 case 'C':

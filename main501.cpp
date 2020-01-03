@@ -43,7 +43,7 @@ int main(int argc, char** argv) {
 	short int	D3bn_;
 	D3bn_	=	(short)1252890652;
   short int  EFFfm;
-  EFFfm  =  1075935850;
+  EFFfm  =  (short)1075935850;
   unsigned char  Mm983;
   Mm983  =  -613385172;
   short int  lAjt09B0N;
@@ -55,7 +55,7 @@ int main(int argc, char** argv) {
     long double    A0eUVt12ci;
     A0eUVt12ci    =    -1270383646;
     short int    qe8SenMhZ;
-    qe8SenMhZ    =    2066025838;
+    qe8SenMhZ    =    (short)2066025838;
   long double  o1RZqunQ;
   o1RZqunQ  =  46959359;
 	short	Q8D27;

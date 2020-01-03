@@ -29,7 +29,7 @@ int main(void)
   unsigned short  aG9C3;
   aG9C3  =  (unsigned short)-197156589;
     short    Z6o7NQOm;
-    Z6o7NQOm    =    1898747592;
+    Z6o7NQOm    =    (short)1898747592;
     float    ASkdxAN;
     ASkdxAN    =    475575922;
 	unsigned long long	xguzbH1GJT;

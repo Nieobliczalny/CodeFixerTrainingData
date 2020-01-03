@@ -32,7 +32,7 @@ case 2:
 HJ4_b_TN5 = (bJqz) ? sl555Ba(Gzw27N6) : sl555Ba(Gzw27N6);
 break;
 case 3:
-n2g24_ = sl555Ba(1996219455);
+n2g24_ = sl555Ba((short)1996219455);
 break;
 case 4:
 wMFsGlQicx = (D9feHCq > -1557664655) ? sl555Ba(oZ5h61) : (unsigned char)1585639682;
@@ -366,7 +366,7 @@ case 'a':
 n2g24_ = sl555Ba((short)-281594482);
 break;
 case 'b':
-J62rK44q = sl555Ba(1833610038);
+J62rK44q = sl555Ba((short)1833610038);
 break;
 case 'c':
 Lgoh /= 46297801;
@@ -420,7 +420,7 @@ case 'd':
 gPAK0EA_ = sl555Ba((short)-269229678);
 break;
 case 'e':
-gPAK0EA_ = sl555Ba(-1039253704);
+gPAK0EA_ = sl555Ba((short)-1039253704);
 break;
 case 'f':
 n2g24_ = sl555Ba(Lgoh);
@@ -591,7 +591,7 @@ else if ((S8yp >= hx15_4n) || (y09Ax7J79 < 1695705126))
 {
 if (S8yp & -1380874319)
 {
-gPAK0EA_ = sl555Ba(380116065);
+gPAK0EA_ = sl555Ba((short)380116065);
 }
 else
 {

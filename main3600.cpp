@@ -38,7 +38,7 @@ int main()
 	char	WX1p00DwUC;
 	WX1p00DwUC	=	(char)-1094790716;
 	char	bKQ_Cz76b;
-	bKQ_Cz76b	=	-955589355;
+	bKQ_Cz76b	=	(char)-955589355;
  unsigned int yw21;
  yw21 = 1930062166;
   unsigned short  bxCI3RZ;
@@ -64,7 +64,7 @@ int main()
  long long QZE6Lny;
  QZE6Lny = 1758879715;
 	unsigned char	RgQ60VAc8;
-	RgQ60VAc8	=	-103463013;
+	RgQ60VAc8	=	(unsigned char)-103463013;
     long    hvFnA0_;
     hvFnA0_    =    987716976;
  long double CnTIcrH51;
@@ -76,7 +76,7 @@ int main()
  unsigned char an5Tt6;
  an5Tt6 = (unsigned char)-989881487;
 	short	mf5ncu52X;
-	mf5ncu52X	=	-771992473;
+	mf5ncu52X	=	(short)-771992473;
     unsigned char    mf2660S_KM;
     mf2660S_KM    =    -1134281999;
   float  lNRQ_1;

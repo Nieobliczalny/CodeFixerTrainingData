@@ -29,7 +29,7 @@ int main(int argc, char** argv)
     unsigned short    Q8UHE92oo    =    (unsigned short)681508243;
 	int	pp08O3c	=	866366132;
  unsigned long long vBeD5m1X = -80892937;
-  unsigned short int  zc4z  =  1563756038;
+  unsigned short int  zc4z  =  (unsigned short)1563756038;
     long long    K20IGs    =    0;
 	unsigned short	D_nJ	=	-1346997273;
 	unsigned long long	prKkcRhmp	=	2141863410;

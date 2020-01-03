@@ -53,7 +53,7 @@ int main(void) {
  int U9AUr0cH;
  U9AUr0cH = 2105057441;
     char    Bv4_;
-    Bv4_    =    927586304;
+    Bv4_    =    (char)927586304;
   short int  DbYh__;
   DbYh__  =  (short)-1180925647;
     long double    viJO;
@@ -63,7 +63,7 @@ int main(void) {
   unsigned char  wrMSV7gz9;
   wrMSV7gz9  =  (unsigned char)1086086016;
   short  T8k8PJsH;
-  T8k8PJsH  =  1166866916;
+  T8k8PJsH  =  (short)1166866916;
 	unsigned short	qNiOd3Z4;
 	qNiOd3Z4	=	(unsigned short)895893027;
  short int wRsHL08c2S;
@@ -81,7 +81,7 @@ int main(void) {
 	short int	BUxaZhv;
 	BUxaZhv	=	(short)-501029531;
     unsigned char    RV92H22_y;
-    RV92H22_y    =    512902185;
+    RV92H22_y    =    (unsigned char)512902185;
   unsigned short int  nBi5db;
   nBi5db  =  (unsigned short)-1356330239;
   long  h95TSnFF;
@@ -91,7 +91,7 @@ int main(void) {
   char  rOPPRV;
   rOPPRV  =  (char)511040157;
   unsigned char  R93n7z1A;
-  R93n7z1A  =  -147018053;
+  R93n7z1A  =  (unsigned char)-147018053;
 	double	TWDlc;
 	TWDlc	=	-850349719;
 	unsigned long	od9ZKV6x;
@@ -105,7 +105,7 @@ int main(void) {
 	long long	r0DUtHkxi;
 	r0DUtHkxi	=	1150086773;
 	unsigned short	q333;
-	q333	=	703047202;
+	q333	=	(unsigned short)703047202;
 	long long	KS03u2SX8;
 	KS03u2SX8	=	628433283;
     short int    LgZ7_9fm4z;
@@ -117,7 +117,7 @@ int main(void) {
   unsigned long  p_3Lca7aOY;
   p_3Lca7aOY  =  0;
     unsigned char    fI__J_;
-    fI__J_    =    368714602;
+    fI__J_    =    (unsigned char)368714602;
     float    E5iZFXu6;
     E5iZFXu6    =    -835556551;
  unsigned short int Yy48FRr;
@@ -139,7 +139,7 @@ int main(void) {
  float Z9Uv9mVC;
  Z9Uv9mVC = 785432808;
   unsigned short int  STExd5N_dj;
-  STExd5N_dj  =  62273870;
+  STExd5N_dj  =  (unsigned short)62273870;
  short vYL7fSY;
  vYL7fSY = (short)-719069884;
  char qwIt85;
@@ -149,7 +149,7 @@ int main(void) {
 	double	G820s1j8;
 	G820s1j8	=	-951244700;
 	unsigned short int	v2279Vf75;
-	v2279Vf75	=	1788186453;
+	v2279Vf75	=	(unsigned short)1788186453;
 	long	C3Nk0w;
 	C3Nk0w	=	1413652844;
     long    tfcHi0L22F;
@@ -350,7 +350,7 @@ case 'c':
 t9BL0 = FY97rtQ(t9BL0);
 break;
 case 'd':
-h95TSnFF = NnRe_om((char)-655758011, vYL7fSY, 1250982560, viJO);
+h95TSnFF = NnRe_om((char)-655758011, vYL7fSY, (char)1250982560, viJO);
 break;
 case 'e':
 C5MD2 = (int)abs(t9BL0);

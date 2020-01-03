@@ -27,7 +27,7 @@ int main(int argc, char** argv) {
   unsigned int  RN4yXqb;
   RN4yXqb  =  1979141593;
   short  u_GPC8;
-  u_GPC8  =  806567585;
+  u_GPC8  =  (short)806567585;
     long    ih_Q4;
     ih_Q4    =    798087827;
   float  SJ6m3RFV;
@@ -41,7 +41,7 @@ int main(int argc, char** argv) {
  unsigned long long lIC777T_6;
  lIC777T_6 = -1176500425;
  unsigned short TOQb_2cxc;
- TOQb_2cxc = -1778511423;
+ TOQb_2cxc = (unsigned short)-1778511423;
   short int  z38gYI;
   z38gYI  =  (short)1627683493;
 	unsigned long	NJ65O;
@@ -63,7 +63,7 @@ int main(int argc, char** argv) {
  unsigned short pw90U0;
  pw90U0 = (unsigned short)126593452;
     short    TbP5;
-    TbP5    =    1688960068;
+    TbP5    =    (short)1688960068;
     int    he39vH;
     he39vH    =    -1661712287;
   unsigned char  aL19;
@@ -75,7 +75,7 @@ int main(int argc, char** argv) {
  double qXnsVAxEu;
  qXnsVAxEu = 54234138;
     unsigned short int    Sq0HZw;
-    Sq0HZw    =    -1869090565;
+    Sq0HZw    =    (unsigned short)-1869090565;
   long long  eC0P9P_d4;
   eC0P9P_d4  =  0;
  int z66WJ_;
@@ -129,7 +129,7 @@ int main(int argc, char** argv) {
  double z925lM_e;
  z925lM_e = 163028033;
     unsigned short    piFW_03s;
-    piFW_03s    =    654768008;
+    piFW_03s    =    (unsigned short)654768008;
 	float	GrP2_mc5;
 	GrP2_mc5	=	1357305973;
     long double    INVkZ;
@@ -153,7 +153,7 @@ int main(int argc, char** argv) {
     unsigned long long    N22m2t;
     N22m2t    =    1657846159;
     unsigned short int    bhU5g;
-    bhU5g    =    -1196764703;
+    bhU5g    =    (unsigned short)-1196764703;
   double  n1rmW;
   n1rmW  =  -1843461991;
 	unsigned short int	A5H2ds;
@@ -173,7 +173,7 @@ int main(int argc, char** argv) {
   unsigned long long  swSqJiqwH5;
   swSqJiqwH5  =  1160514335;
  unsigned short int rzY_l;
- rzY_l = -1573239589;
+ rzY_l = (unsigned short)-1573239589;
 	float	iT_n_0My8;
 	iT_n_0My8	=	1146251313;
     unsigned int    JkWvB3B8;
@@ -236,7 +236,7 @@ eC0P9P_d4 = ExE56(1819326222, (unsigned short)-1655602989, kqla);
 break;
 case 'g':
 case 'G':
-eC0P9P_d4 = ExE56(cdLPCn_, (unsigned short)-469210501, -339764668);
+eC0P9P_d4 = ExE56(cdLPCn_, (unsigned short)-469210501, (unsigned char)-339764668);
 break;
 }
 
@@ -300,7 +300,7 @@ else
 {
 if (cdLPCn_ <= 347027059)
 {
-bzCWCcnO8 = YFx64J(1643841455, TOQb_2cxc, OJo5_a, 221849666, 695615825);
+bzCWCcnO8 = YFx64J(1643841455, TOQb_2cxc, OJo5_a, 221849666, (short)695615825);
 }
 }
 }

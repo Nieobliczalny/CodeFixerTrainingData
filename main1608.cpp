@@ -81,7 +81,7 @@ std::cout << "q36lmF" << "UO6H0p8" << "ZaeD1DA4" << std::endl;
 
 try
 {
-std::cout << x0ILqRJ53(kP3Sa, (short)-1497045168, (unsigned short)2000303739, -807350143) << NXDCs_2Csi << "N2e_1" << std::endl;
+std::cout << x0ILqRJ53(kP3Sa, (short)-1497045168, (unsigned short)2000303739, (short)-807350143) << NXDCs_2Csi << "N2e_1" << std::endl;
 }
 catch (int& errorCode)
 {
@@ -102,7 +102,7 @@ case 0:
 cfBg1X6mm5 = x0ILqRJ53(-1324565967, D4Fb5a, (unsigned short)617307176, (short)1635172386);
 break;
 case 1:
-cfBg1X6mm5 = x0ILqRJ53(Esb5cx5A, sc8ThEB, Z9fEK, 1885474637);
+cfBg1X6mm5 = x0ILqRJ53(Esb5cx5A, sc8ThEB, Z9fEK, (short)1885474637);
 break;
 case 2:
 vtxpBo %= 473253708;
@@ -114,7 +114,7 @@ case 4:
 Q32m = g41O93B3 ^ 1792301648;
 break;
 case 5:
-cfBg1X6mm5 = x0ILqRJ53(SL36yg, (short)-944009795, (unsigned short)1700671941, -1416844322);
+cfBg1X6mm5 = x0ILqRJ53(SL36yg, (short)-944009795, (unsigned short)1700671941, (short)-1416844322);
 break;
 case 6:
 t4tC1ii2 = aAB2M9Ih - 453898046;
@@ -138,7 +138,7 @@ while (i >= 0);
 }
 kMI2 = x0ILqRJ53(1713572706, y30uJLP, lqEn, oRAK9);
 std::cout << x0ILqRJ53(1570112371, y30uJLP, lqEn, oRAK9) << std::endl;
-std::cout << x0ILqRJ53(O_W4, (short)391637791, lqEn, (short)570406154) << x0ILqRJ53(O_W4, -327313880, -566948652, oRAK9) << std::endl;
+std::cout << x0ILqRJ53(O_W4, (short)391637791, lqEn, (short)570406154) << x0ILqRJ53(O_W4, (short)-327313880, -566948652, oRAK9) << std::endl;
 
 std::cout << -2146957139 / cfBg1X6mm5 << std::endl;
 try
@@ -164,7 +164,7 @@ else if (tDXx_0_ & I918G)
 switch (SL36yg)
 {
 case 'a':
-kMI2 = x0ILqRJ53(vtfv8hOT, -1578454912, 1171074009, uMo7dhe2c);
+kMI2 = x0ILqRJ53(vtfv8hOT, (short)-1578454912, 1171074009, uMo7dhe2c);
 break;
 case 'b':
 cfBg1X6mm5 = x0ILqRJ53(274568681, ttNVTXCYJ, uMo7dhe2c, (short)-145620987);
@@ -188,7 +188,7 @@ case 'h':
 j06aO &= 1009641110;
 break;
 case 'i':
-kMI2 = x0ILqRJ53(-779470606, j06aO, -1739166098, xUeJizyCDR);
+kMI2 = x0ILqRJ53(-779470606, j06aO, (unsigned short)-1739166098, xUeJizyCDR);
 break;
 case 'j':
 kP3Sa--;
@@ -206,7 +206,7 @@ case 1:
 UoayU5 /= 1345200390;
 break;
 case 2:
-cfBg1X6mm5 = x0ILqRJ53(-1954424138, (short)1109473642, -414872559, -30220463);
+cfBg1X6mm5 = x0ILqRJ53(-1954424138, (short)1109473642, (unsigned short)-414872559, -30220463);
 break;
 case 3:
 kMI2 = x0ILqRJ53(-1752547089, 1722465982, -2107681475, oh0zfB5);
@@ -218,7 +218,7 @@ case 5:
 cfBg1X6mm5 = x0ILqRJ53(-337053182, (short)221420043, 1031374062, -69043205);
 break;
 default:
-kMI2 = x0ILqRJ53(-1320802643, (short)-1255187235, D4Fb5a, 1704285125);
+kMI2 = x0ILqRJ53(-1320802643, (short)-1255187235, D4Fb5a, (short)1704285125);
 break;
 }
 }

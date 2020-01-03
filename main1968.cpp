@@ -87,7 +87,7 @@ int main(int argc, char** argv)
  short r2C0zW6;
  r2C0zW6 = (short)-360051984;
  short Pf5_u0i9;
- Pf5_u0i9 = 777664437;
+ Pf5_u0i9 = (short)777664437;
 	long double	UD_u_4E_;
 	UD_u_4E_	=	-913251446;
   long long  Or2Ghg;
@@ -145,7 +145,7 @@ int main(int argc, char** argv)
     unsigned short    iZLM;
     iZLM    =    (unsigned short)-1431370702;
 	unsigned short int	XPK4A;
-	XPK4A	=	176024022;
+	XPK4A	=	(unsigned short)176024022;
  double v7jB_;
  v7jB_ = -1867657670;
  unsigned short dQ4bqC;
@@ -161,7 +161,7 @@ int main(int argc, char** argv)
  short int k3QSgx4P;
  k3QSgx4P = (short)-1583087157;
 	unsigned short	hA9r_n3hHE;
-	hA9r_n3hHE	=	1501668776;
+	hA9r_n3hHE	=	(unsigned short)1501668776;
     unsigned short int    VSa62eN;
     VSa62eN    =    (unsigned short)1333512477;
 	unsigned int	HgnA;

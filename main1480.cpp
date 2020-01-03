@@ -84,7 +84,7 @@ int main(int argc, char** argv) {
     unsigned int    eaIyi4_1b;
     eaIyi4_1b    =    455990184;
   unsigned short int  VAj2oh5;
-  VAj2oh5  =  -836559148;
+  VAj2oh5  =  (unsigned short)-836559148;
     float    kag5ebw;
     kag5ebw    =    -1764963872;
     char    k5WH8K4Xi;
@@ -96,7 +96,7 @@ int main(int argc, char** argv) {
   unsigned short int  Vuni;
   Vuni  =  (unsigned short)-1670734241;
 	char	HC8cnWL20;
-	HC8cnWL20	=	-360392791;
+	HC8cnWL20	=	(char)-360392791;
 	unsigned short int	el39BT;
 	el39BT	=	(unsigned short)-1932312256;
   unsigned short  rlFA8n;
@@ -132,7 +132,7 @@ int main(int argc, char** argv) {
   short  N6dUx63EY;
   N6dUx63EY  =  (short)-1197449164;
 	short	Ds8V66oo;
-	Ds8V66oo	=	589122610;
+	Ds8V66oo	=	(short)589122610;
  float NE0s6eK_2;
  NE0s6eK_2 = -264976471;
   unsigned int  YHahOG_V;
@@ -154,7 +154,7 @@ int main(int argc, char** argv) {
     unsigned int    BfeTv_ge52;
     BfeTv_ge52    =    -1899643618;
  short int ICoxqjw1;
- ICoxqjw1 = 859442870;
+ ICoxqjw1 = (short)859442870;
 	unsigned int	R4rgL;
 	R4rgL	=	-986197883;
 
@@ -270,7 +270,7 @@ for (int i = 3; i >= 0; --i)
 {
 cout << LoSbW7I7Sm << R4rgL << WvCJ1TL(G0m33vy, A0j566L_) << endl;
 }
-cout << "F_ZbCz" << Wobdz8MCN((short)628663078, (char)-187484370, EySyqU, 428259827) << WvCJ1TL(2106928193, -1261071901) << VSQu << endl;
+cout << "F_ZbCz" << Wobdz8MCN((short)628663078, (char)-187484370, EySyqU, 428259827) << WvCJ1TL(2106928193, (char)-1261071901) << VSQu << endl;
 
 cout << "Cciw9" << "F28_50" << IZj_r() << AIdGD_71mb << endl;
 

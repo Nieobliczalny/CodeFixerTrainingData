@@ -25,7 +25,7 @@ unsigned char	fyaCcK(long long	ElHL4hoL,unsigned short int	UTUpw9Cb_,unsigned in
 
 short int    m2895VvU4V(unsigned long    TjPeIc,char    ZbLuDU_,unsigned int    vLBx2,long long    J60L)
 {
-    return    1478487103;
+    return    (short)1478487103;
 }
 
 long  s5eCkEq(int  Y0dUY_8uX1,short  cC_TcX,long  b3F6,char  Bq1UF)
@@ -276,7 +276,7 @@ iEulZ6Ty = BnpYC_h6(-764630908, bWLiv, (unsigned char)412592945, q6umo, (short)3
 break;
 case 'j':
 case 'J':
-ZeoGTWS93D = s5eCkEq(ZeoGTWS93D, a0RNZ31BT5, 1085264555, 1768462635);
+ZeoGTWS93D = s5eCkEq(ZeoGTWS93D, a0RNZ31BT5, 1085264555, (char)1768462635);
 break;
 }
 }
@@ -379,7 +379,7 @@ g0_8V0Bx0 = (Y2Np4 < lx_D) ? K51d3 : fyaCcK(1884072801, (unsigned short)-1392871
 break;
 case 'b':
 case 'B':
-AK30 = fyaCcK(AK30, -984719779, -457163691, 2016463726, h6HrS_);
+AK30 = fyaCcK(AK30, (unsigned short)-984719779, -457163691, 2016463726, h6HrS_);
 break;
 case 'c':
 case 'C':

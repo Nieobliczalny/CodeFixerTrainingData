@@ -43,7 +43,7 @@ int main() {
   unsigned short  MB_Ax;
   MB_Ax  =  (unsigned short)1838350571;
     short int    pe18;
-    pe18    =    1332952772;
+    pe18    =    (short)1332952772;
   long long  mX4od87R_Q;
   mX4od87R_Q  =  -2146192254;
  unsigned short int t_OuvG0d;
@@ -101,7 +101,7 @@ int main() {
 	unsigned long long	ms8_F_1KHH;
 	ms8_F_1KHH	=	171516687;
  unsigned short int nQ1HeA;
- nQ1HeA = -1328672153;
+ nQ1HeA = (unsigned short)-1328672153;
   unsigned short int  HHxU2Q;
   HHxU2Q  =  -325742150;
 	long long	eV6P7;
@@ -149,7 +149,7 @@ if (TE6tvn98u & ZY4W)
 {
 if (mX4od87R_Q & 755538740)
 {
-gg4FPA28i = mdfFy7O(vH11E, (char)2062986457, (char)1073587561, -1935383933, -552720950);
+gg4FPA28i = mdfFy7O(vH11E, (char)2062986457, (char)1073587561, (unsigned char)-1935383933, -552720950);
 }
 else
 {
@@ -194,7 +194,7 @@ else
 {
 try
 {
-IRvjt = ar5Wvm1(3484801, -945400670) << 1518216040;
+IRvjt = ar5Wvm1(3484801, (unsigned char)-945400670) << 1518216040;
 }
 catch (int& errorCode)
 {
@@ -309,7 +309,7 @@ break;
 }
 cout << mdfFy7O(n1dR1LQ8bj, (char)956162205, ke_s7, (unsigned char)-1609993970, M62N) << "bqe5Ac50L" << OIyK7Mfg9V << endl;
 
-eV6P7 = mdfFy7O(-1023981787, -1011598974, HHxU2Q, n1dR1LQ8bj, -840915131);
+eV6P7 = mdfFy7O(-1023981787, (char)-1011598974, HHxU2Q, n1dR1LQ8bj, -840915131);
 
 for (int i = 0; i < 3; i++)
 {
@@ -436,7 +436,7 @@ else
 {
 for (int j = 0; j < 7; ++j)
 {
-cout << "tAixQYzgf" << mdfFy7O(rTn2R, (char)73898365, -1012776819, 1057638572, 70343061) << gx0VK << v788CGu(-1306777655, Qb0n965Rc7, WQ35BQvj5) << z4ICDE5e << endl;
+cout << "tAixQYzgf" << mdfFy7O(rTn2R, (char)73898365, (char)-1012776819, 1057638572, 70343061) << gx0VK << v788CGu(-1306777655, Qb0n965Rc7, WQ35BQvj5) << z4ICDE5e << endl;
 }
 }
 
@@ -731,7 +731,7 @@ TE6tvn98u = bH7Z6P2C - 753197774;
 break;
 case 'c':
 case 'C':
-g99i = mdfFy7O(83223149, (char)-1165011049, (char)-1769816928, -1715313768, CsrL);
+g99i = mdfFy7O(83223149, (char)-1165011049, (char)-1769816928, (unsigned char)-1715313768, CsrL);
 break;
 default:
 n3mJWy--;

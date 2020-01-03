@@ -112,7 +112,7 @@ ys4N5mH |= 1056334459;
 }
 else if (((pIegXFS7 != -1461096718) && (FNP44Hb5 == 1335468547)) || ((syY79Bv == -196144222) || (jAo0L3 >= 818468727)))
 {
-pn420tB = G_28C2bO(gpnqk, 287999273, a_La27M);
+pn420tB = G_28C2bO(gpnqk, (unsigned char)287999273, a_La27M);
 }
 else
 {
@@ -134,7 +134,7 @@ case 4:
 q04To23r *= 554334969;
 break;
 case 5:
-pn420tB = G_28C2bO(ls82jtL4l, 161033584, sws3S);
+pn420tB = G_28C2bO(ls82jtL4l, (unsigned char)161033584, sws3S);
 break;
 case 6:
 I8Kb7br <<= HGfm1;
@@ -153,7 +153,7 @@ break;
 int i = 1;
 do
 {
-pn420tB = G_28C2bO((short)-648969917, (unsigned char)2107744580, 1138147613);
+pn420tB = G_28C2bO((short)-648969917, (unsigned char)2107744580, (unsigned short)1138147613);
 --i;
 }
 while (i >= 0);
@@ -225,7 +225,7 @@ E_LxIbn = G_28C2bO((short)-1936553908, q04To23r, (unsigned short)-1089318642);
 }
 else
 {
-Nhpe5d63E0 = G_28C2bO(-1693232384, 2083224795, OBzg9uWpuH);
+Nhpe5d63E0 = G_28C2bO((short)-1693232384, 2083224795, OBzg9uWpuH);
 }
 
 switch (ys4N5mH)
@@ -370,7 +370,7 @@ i--;
 }
 while (i >= 0);
 }
-E_LxIbn = G_28C2bO((short)49288532, -1648520195, v7J7RR);
+E_LxIbn = G_28C2bO((short)49288532, (unsigned char)-1648520195, v7J7RR);
 yQqV80esq = v7J7RR << 1320826193;
 {
 int i = 8;
@@ -397,7 +397,7 @@ if (Nhpe5d63E0 <= -950484840)
 {
 if ((yQqV80esq >= -888307470) && ((ibIrJzi > Nb_Z4nr) || (sws3S & 1261437203)))
 {
-Nhpe5d63E0 = G_28C2bO((short)-1246892127, (unsigned char)-32198937, -606611846);
+Nhpe5d63E0 = G_28C2bO((short)-1246892127, (unsigned char)-32198937, (unsigned short)-606611846);
 }
 else
 {
@@ -439,7 +439,7 @@ else
 int k = 0;
 do
 {
-E_LxIbn = G_28C2bO((short)-168155423, 980716012, pIegXFS7);
+E_LxIbn = G_28C2bO((short)-168155423, (unsigned char)980716012, pIegXFS7);
 ++k;
 }
 while (k < 6);
@@ -471,7 +471,7 @@ E_LxIbn = G_28C2bO((short)-1035237453, (unsigned char)1347733144, FNP44Hb5);
 break;
 case 'b':
 case 'B':
-Nhpe5d63E0 = G_28C2bO(QV2e, -2027646989, tr95du_7HB);
+Nhpe5d63E0 = G_28C2bO(QV2e, (unsigned char)-2027646989, tr95du_7HB);
 break;
 case 'c':
 case 'C':

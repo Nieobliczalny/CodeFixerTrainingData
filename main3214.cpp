@@ -54,7 +54,7 @@ int main(void)
  short int EhAxb;
  EhAxb = (short)-1344342783;
  unsigned char Fv7uae;
- Fv7uae = 310138774;
+ Fv7uae = (unsigned char)310138774;
     short    zC0dPn;
     zC0dPn    =    -1255851261;
   int  JfZE;
@@ -110,7 +110,7 @@ int main(void)
   char  Geq3;
   Geq3  =  (char)-1635562935;
     unsigned short int    s39q3WqT;
-    s39q3WqT    =    -581655430;
+    s39q3WqT    =    (unsigned short)-581655430;
 	short int	Kxn1_7qGu;
 	Kxn1_7qGu	=	-1906225379;
     unsigned int    qVhBih8_7;
@@ -144,7 +144,7 @@ int main(void)
     unsigned int    xBI42bG;
     xBI42bG    =    -1264782160;
   short  UhNd6m;
-  UhNd6m  =  -1394901377;
+  UhNd6m  =  (short)-1394901377;
 	unsigned long	N7k_Um8jD;
 	N7k_Um8jD	=	-802784515;
 	unsigned long	Od1eLb;
@@ -154,7 +154,7 @@ int main(void)
     unsigned short int    l93D6M;
     l93D6M    =    (unsigned short)904946975;
     short int    OP77Kvl2X;
-    OP77Kvl2X    =    1110566253;
+    OP77Kvl2X    =    (short)1110566253;
     unsigned long long    R99O3L_bHG;
     R99O3L_bHG    =    97603207;
     unsigned short    z_O4xpr91_;
@@ -166,7 +166,7 @@ int main(void)
     long    c7ykV34E;
     c7ykV34E    =    -115616319;
 	unsigned short	v9QhG;
-	v9QhG	=	2064587537;
+	v9QhG	=	(unsigned short)2064587537;
     short int    f28l_K;
     f28l_K    =    1964568072;
  float E7X1F7q;
@@ -186,7 +186,7 @@ int main(void)
 	unsigned char	EH4s;
 	EH4s	=	(unsigned char)1408371151;
 	unsigned char	DCHS;
-	DCHS	=	-758529265;
+	DCHS	=	(unsigned char)-758529265;
  char nafTf79hmg;
  nafTf79hmg = -1826176372;
 	long long	oEBOxVWGI;
@@ -454,7 +454,7 @@ Wc62d = gtO6KaUCP(1256599293);
 }
 else if (r7b5k1f8 >= 889416789)
 {
-std::cout << D61__Qc2Y(Wc62d, (unsigned char)-434074749, (short)-1170174773, oDnuzq0qPA, 208176963) << "w5Jc" << "EiZL" << D61__Qc2Y(Wc62d, -2071616520, z2jGk9OEU, -305451193, 1242136935) << std::endl;
+std::cout << D61__Qc2Y(Wc62d, (unsigned char)-434074749, (short)-1170174773, oDnuzq0qPA, 208176963) << "w5Jc" << "EiZL" << D61__Qc2Y(Wc62d, (unsigned char)-2071616520, z2jGk9OEU, -305451193, 1242136935) << std::endl;
 }
 else
 {

@@ -35,7 +35,7 @@ int main()
     short    CB_j_8701A,    ATyb45,    Q0Z2,    u2Z8U3,    rA5TtNN9Te,    TLd3wWj,    GYP7,    T6flRL1,    aQSDy17Hxq,    y75YMy4MR,    yS_0pNuaI2,    HUB8Uy8,    tP_Q,    Is9JM,    RcUuz85T,    JqAQJyY,    dBlNiIl,    az3Ly1D,    g44OQ53WO9,    OJ29s9sVu,    CMF1x0o93,    K6Y6,    p044rP1L,    us2L,    YqZQR2AQK,    pH59cOo,    e26UE__Y0o,    d_hL7,    Hv3GUg,    Tfe_0Qa,    qd1iYE6do,    Tc2tPRV,    zk9TA,    XO8K,    xWDJx,    n_ku0BffVR,    EWCU3a,    PsckD,    WIZPSBv5,    BX6LpC,    NlwY4vwf,    fGPeDq98O,    e07O_,    mPn7,    i1Z8d,    GM0MF9,    OfF59Uit,    v3Ev,    L8qwDV4W,    rhMBLd6,    CXIV82,    OI_TIV7q_,    Z_syl6g6pn,    aL2J8e,    BeRy,    wI05c,    ncOJ2,    H00Uy0,    WG1LpR4,    I3uQ,    U7Avg4UJJ,    y2j6w85_Vz,    USBcSv31m,    ELqEf5,    L8TZE,    c5ra,    gZ6iaGO,    FnJ09s,    EumUWXHO40,    QZwO1VuD,    i76c,    w6e7I0qC,    TK13,    HcVSirUO,    FWLi6yzixj,    r5H_JIu,    SvIFpm1sb,    PYd2S4B9,    VYjmWIV4t,    V7hhh,    ZU0iaI7,    w1S9Aox_s,    cLzei,    DXsqD,    DYsqO,    jUOe5E_qO,    xf_zrR,    b__Xm;
     CB_j_8701A    =    (short)-364972333;
     ATyb45    =    (short)-663667;
-    Q0Z2    =    -320044146;
+    Q0Z2    =    (short)-320044146;
     u2Z8U3    =    1248320668;
     rA5TtNN9Te    =    625594601;
     TLd3wWj    =    1604134955;
@@ -45,7 +45,7 @@ int main()
     y75YMy4MR    =    -253941521;
     yS_0pNuaI2    =    (short)1204077349;
     HUB8Uy8    =    (short)-225764907;
-    tP_Q    =    -440465211;
+    tP_Q    =    (short)-440465211;
     Is9JM    =    1984082489;
     RcUuz85T    =    1002072387;
     JqAQJyY    =    -1045649315;
@@ -55,7 +55,7 @@ int main()
     OJ29s9sVu    =    -781507160;
     CMF1x0o93    =    (short)-1811415971;
     K6Y6    =    (short)1922495184;
-    p044rP1L    =    411843082;
+    p044rP1L    =    (short)411843082;
     us2L    =    -1416292359;
     YqZQR2AQK    =    -1837164020;
     pH59cOo    =    1799800373;
@@ -65,7 +65,7 @@ int main()
     Tfe_0Qa    =    1272908839;
     qd1iYE6do    =    (short)-1611760094;
     Tc2tPRV    =    (short)-985351931;
-    zk9TA    =    1251468597;
+    zk9TA    =    (short)1251468597;
     XO8K    =    2130160159;
     xWDJx    =    -172685322;
     n_ku0BffVR    =    1020123481;
@@ -75,7 +75,7 @@ int main()
     BX6LpC    =    975974857;
     NlwY4vwf    =    (short)1379504;
     fGPeDq98O    =    (short)627104178;
-    e07O_    =    51071877;
+    e07O_    =    (short)51071877;
     mPn7    =    -1749046877;
     i1Z8d    =    -1528526917;
     GM0MF9    =    496361001;
@@ -85,7 +85,7 @@ int main()
     rhMBLd6    =    -865416463;
     CXIV82    =    (short)-167428289;
     OI_TIV7q_    =    (short)29590872;
-    Z_syl6g6pn    =    644195870;
+    Z_syl6g6pn    =    (short)644195870;
     aL2J8e    =    -1653211045;
     BeRy    =    1022997760;
     wI05c    =    -1700303233;
@@ -95,7 +95,7 @@ int main()
     I3uQ    =    510509668;
     U7Avg4UJJ    =    (short)445770573;
     y2j6w85_Vz    =    (short)514833105;
-    USBcSv31m    =    -552247558;
+    USBcSv31m    =    (short)-552247558;
     ELqEf5    =    2139742102;
     L8TZE    =    -1195937684;
     c5ra    =    620280824;
@@ -105,7 +105,7 @@ int main()
     QZwO1VuD    =    866258045;
     i76c    =    (short)-564882207;
     w6e7I0qC    =    (short)-208132606;
-    TK13    =    -1568013533;
+    TK13    =    (short)-1568013533;
     HcVSirUO    =    -833231763;
     FWLi6yzixj    =    798369566;
     r5H_JIu    =    2035850359;
@@ -115,7 +115,7 @@ int main()
     V7hhh    =    -1711143912;
     ZU0iaI7    =    (short)1028763873;
     w1S9Aox_s    =    (short)-1667187155;
-    cLzei    =    916750458;
+    cLzei    =    (short)916750458;
     DXsqD    =    -1014372659;
     DYsqO    =    1393737202;
     jUOe5E_qO    =    -1982508282;
@@ -498,7 +498,7 @@ QZwO1VuD = (short)(u2Z8U3);
 
 cout << "gw4X" << TOTS3b6((unsigned short)1606135748, 1713681986, (short)874470824) << JqAQJyY << endl;
 
-PsckD = DmIQPL3(1840766113) / cEu_nGs;
+PsckD = DmIQPL3((short)1840766113) / cEu_nGs;
 {
 int i = 0;
 do
@@ -811,7 +811,7 @@ case 2:
 cEu_nGs = p9Y8DgT();
 break;
 case 3:
-EumUWXHO40 = TOTS3b6((unsigned short)625831257, WIZPSBv5, 655760477);
+EumUWXHO40 = TOTS3b6((unsigned short)625831257, WIZPSBv5, (short)655760477);
 break;
 case 4:
 I3uQ = DYsqO / e26UE__Y0o;

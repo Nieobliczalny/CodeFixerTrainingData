@@ -39,7 +39,7 @@ int main(int argc, char** argv) {
   int  nU81a  =  784153337;
     unsigned long long    M6oi    =    -1043428828;
     unsigned char    A6Kc62KqNG    =    (unsigned char)1131151519;
-    short int    q_jhk8uZm1    =    1408944414;
+    short int    q_jhk8uZm1    =    (short)1408944414;
  unsigned short R1hh9FlA = 1498401322;
  char Nv_qx = 1601592018;
     unsigned int    X55Ov    =    -556869589;
@@ -49,7 +49,7 @@ int main(int argc, char** argv) {
     unsigned short    s7bu8ow_    =    -92160244;
 	char	VVC5G98XCE	=	-1704676734;
     short    xNFKy2W    =    (short)1562552844;
-	unsigned short	kcR43Cm	=	-312932552;
+	unsigned short	kcR43Cm	=	(unsigned short)-312932552;
  long double Qc9FY06 = 1859233378;
   unsigned char  iyS6dHpaS  =  907777319;
   int  fba9  =  0;
@@ -79,7 +79,7 @@ int main(int argc, char** argv) {
 	char	ylgA60XpN_	=	(char)553536356;
     unsigned long long    qNS0    =    1526021276;
 	int	gqv4ol3y	=	-18268149;
-    unsigned char    Q8XxGVG2k    =    525774883;
+    unsigned char    Q8XxGVG2k    =    (unsigned char)525774883;
  long double qhjN = -1376089791;
  unsigned short O4bBS8cm = -849492969;
     unsigned int    i8wIiBSE    =    0;
@@ -148,7 +148,7 @@ FaBT_56 = (int)ceil(LU_H);
 }
 
 cout << "O7w502jKEp" << Y5R4Ro65((unsigned short)1001435710, (short)1400259311, M6oi) << endl;
-qhjN = th3kV5j36B(1380841158, 1698080665, A6Kc62KqNG, -1070050961, Azb_WFo);
+qhjN = th3kV5j36B(1380841158, (char)1698080665, A6Kc62KqNG, -1070050961, Azb_WFo);
 
 switch (O4bBS8cm)
 {
@@ -323,7 +323,7 @@ break;
 }
 else if ((cw4FNiN) && (R1hh9FlA >= Szq_xyN9))
 {
-nU81a = th3kV5j36B(585263158, (char)1631958223, s7bu8ow_, 38159445, M6oi);
+nU81a = th3kV5j36B(585263158, (char)1631958223, s7bu8ow_, (short)38159445, M6oi);
 }
 else
 {
@@ -397,7 +397,7 @@ NGO_ = (int)abs(Nv_qx);
 }
 else if (q_jhk8uZm1 <= -701065464)
 {
-cout << LeH2(yzEX7B, PbiPzNPV2, (short)-255495353, 1443754346, Hc3SbP6qPL) << ihEZE6((unsigned short)704234106, 2401884, -500182429, 1431489456) << LeH2(yzEX7B, -1008593439, 1128351228, -63131178, 416964523) << endl;
+cout << LeH2(yzEX7B, PbiPzNPV2, (short)-255495353, 1443754346, Hc3SbP6qPL) << ihEZE6((unsigned short)704234106, 2401884, -500182429, 1431489456) << LeH2(yzEX7B, -1008593439, (short)1128351228, -63131178, 416964523) << endl;
 }
 else if (EwcyZl00l & ph0m)
 {

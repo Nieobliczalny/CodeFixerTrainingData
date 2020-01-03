@@ -24,7 +24,7 @@ int main(void) {
 	unsigned int	P77_c;
 	P77_c	=	2057186116;
   short  zr7f_Zr67;
-  zr7f_Zr67  =  -357891162;
+  zr7f_Zr67  =  (short)-357891162;
 	char	DDz6Kpa03;
 	DDz6Kpa03	=	-717612538;
   unsigned short int  TNs9GMB_T5;

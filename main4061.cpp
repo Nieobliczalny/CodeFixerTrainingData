@@ -23,7 +23,7 @@ int main(int argc, char** argv) {
   short  x_2FIjHuE;
   x_2FIjHuE  =  (short)-1032730072;
  short tN_7z;
- tN_7z = -1522749416;
+ tN_7z = (short)-1522749416;
     float    cQjdD;
     cQjdD    =    -1456434476;
   float  GZ7GaJao;
@@ -37,7 +37,7 @@ int main(int argc, char** argv) {
  short int BCk0R;
  BCk0R = (short)974797291;
   short int  kPmNS;
-  kPmNS  =  -874496468;
+  kPmNS  =  (short)-874496468;
 	short	qGZgq_39;
 	qGZgq_39	=	-1799242452;
     long double    vi4qB0J;
@@ -59,7 +59,7 @@ int main(int argc, char** argv) {
     unsigned short int    kBkIsQZ;
     kBkIsQZ    =    (unsigned short)25150198;
 	unsigned short int	d1tQ;
-	d1tQ	=	-1951105941;
+	d1tQ	=	(unsigned short)-1951105941;
  int v36jD;
  v36jD = 0;
  long double Q5jcZ8YqA;
@@ -99,7 +99,7 @@ int main(int argc, char** argv) {
  unsigned short K1m6JP39;
  K1m6JP39 = (unsigned short)-1658281396;
 	short	re1HRz;
-	re1HRz	=	-861250044;
+	re1HRz	=	(short)-861250044;
   double  DNf1;
   DNf1  =  -1960275542;
     long long    ql9iuU5_9;
@@ -123,7 +123,7 @@ int main(int argc, char** argv) {
   unsigned short int  oHuGs;
   oHuGs  =  (unsigned short)16602876;
   char  s_DKZC4lj;
-  s_DKZC4lj  =  1456427057;
+  s_DKZC4lj  =  (char)1456427057;
   long  VfGe;
   VfGe  =  -335045581;
     int    b5_4aYv2;
@@ -151,7 +151,7 @@ int main(int argc, char** argv) {
   short int  ZpqW9T34_;
   ZpqW9T34_  =  (short)-1074339182;
 	short	cTDf5;
-	cTDf5	=	1097286779;
+	cTDf5	=	(short)1097286779;
  long double YY0S;
  YY0S = -785310160;
     unsigned short    lnUqvL9;
@@ -269,7 +269,7 @@ while (k >= 0);
 }
 else if (v36jD < uMuIXEAn6)
 {
-std::cout << CD2_v3(BTZ2C_s4K, 1178396199, s0L08jK2, N9jvC, sssp5423) << dr0N(BTZ2C_s4K, (unsigned char)-187395714, s0L08jK2, 1606571023) << "L9M4yGzx" << std::endl;
+std::cout << CD2_v3(BTZ2C_s4K, 1178396199, s0L08jK2, N9jvC, sssp5423) << dr0N(BTZ2C_s4K, (unsigned char)-187395714, s0L08jK2, (unsigned char)1606571023) << "L9M4yGzx" << std::endl;
 }
 else if (BCk0R)
 {
@@ -402,7 +402,7 @@ std::cout << BCk0R << dr0N((char)1787665636, (unsigned char)2101409190, -1367834
 }
 else
 {
-std::cout << cTDf5 << CD2_v3(783994095, Ow0x33Ij, B57i, -1182791376, 90558378) << gXDc << std::endl;
+std::cout << cTDf5 << CD2_v3(783994095, Ow0x33Ij, B57i, -1182791376, (unsigned char)90558378) << gXDc << std::endl;
 }
 {
 int i = 0;
@@ -519,7 +519,7 @@ hb6WSk -= 367414952;
 THYQfJA = 150642233 / dr0N((char)591478377, qGZgq_39, -1523259157, (unsigned char)1310086692);
 re1HRz = (short)(hb6WSk);
 
-v36jD = dr0N(OjZZo, -665131713, YY0S, s_DKZC4lj);
+v36jD = dr0N(OjZZo, (unsigned char)-665131713, YY0S, s_DKZC4lj);
 if (K1m6JP39 >= 1314255965)
 {
 for (int j = 0; j < 1; j++)
@@ -651,7 +651,7 @@ case 0:
 ql9iuU5_9 = dr0N(vY1P0lzn, d1tQ, oHuGs, (unsigned char)2109354645);
 break;
 case 1:
-ZpqW9T34_ = CD2_v3(1601579953, 2022136090, (unsigned short)-1148818460, -139326575, -1287841460);
+ZpqW9T34_ = CD2_v3(1601579953, 2022136090, (unsigned short)-1148818460, -139326575, (unsigned char)-1287841460);
 break;
 case 2:
 v36jD = dr0N(-1141529292, -1411427504, sssp5423, 1625457117);
@@ -669,7 +669,7 @@ case 6:
 CIg8 = (int)abs(gXDc);
 break;
 case 7:
-ql9iuU5_9 = dr0N((char)1472902179, (unsigned char)-1934226947, gXDc, -948038823);
+ql9iuU5_9 = dr0N((char)1472902179, (unsigned char)-1934226947, gXDc, (unsigned char)-948038823);
 break;
 }
 }
@@ -717,7 +717,7 @@ case 'I':
 a_rvw7K0 = (int)abs(E753);
 break;
 default:
-j_mW = CD2_v3(j_mW, Wg5E3WC, s_DKZC4lj, -710097772, -1439906844);
+j_mW = CD2_v3(j_mW, Wg5E3WC, s_DKZC4lj, -710097772, (unsigned char)-1439906844);
 break;
 }
 

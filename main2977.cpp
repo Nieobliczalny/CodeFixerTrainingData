@@ -50,7 +50,7 @@ int main(int argc, char** argv) {
   unsigned char  H9_5;
   H9_5  =  (unsigned char)582827197;
  unsigned short int W0eH;
- W0eH = 238908146;
+ W0eH = (unsigned short)238908146;
 	unsigned char	Ql7lVTD;
 	Ql7lVTD	=	-126012639;
 	float	c_reph;
@@ -64,7 +64,7 @@ int main(int argc, char** argv) {
     float    j6Wo1_1M2;
     j6Wo1_1M2    =    827094280;
     unsigned short    pFDxz7A7Y;
-    pFDxz7A7Y    =    1148639640;
+    pFDxz7A7Y    =    (unsigned short)1148639640;
   char  X6DiN;
   X6DiN  =  (char)1950750316;
  unsigned int rijuQN;
@@ -74,7 +74,7 @@ int main(int argc, char** argv) {
     char    h_RFO78E;
     h_RFO78E    =    (char)-1136781179;
 	unsigned short int	z1Lee;
-	z1Lee	=	2101490185;
+	z1Lee	=	(unsigned short)2101490185;
 	short int	GiaykUH_;
 	GiaykUH_	=	(short)-2117882129;
 	long	B5TCcR;
@@ -90,7 +90,7 @@ int main(int argc, char** argv) {
   short  he_GYy_v_8;
   he_GYy_v_8  =  (short)2030721217;
     unsigned short    zWMx9XhL;
-    zWMx9XhL    =    277789485;
+    zWMx9XhL    =    (unsigned short)277789485;
  float lS0n588;
  lS0n588 = -1871008564;
  char qBuW6b;
@@ -112,7 +112,7 @@ int main(int argc, char** argv) {
   unsigned char  y_6j;
   y_6j  =  (unsigned char)1000176695;
     unsigned char    sNZ7X8FCn;
-    sNZ7X8FCn    =    1420095351;
+    sNZ7X8FCn    =    (unsigned char)1420095351;
     unsigned long long    i_1k_;
     i_1k_    =    -580436944;
 	unsigned int	Vc3gP9I;
@@ -122,7 +122,7 @@ int main(int argc, char** argv) {
   short int  Pi3t6Hi2h;
   Pi3t6Hi2h  =  (short)1282887777;
  unsigned short int hY08c;
- hY08c = 1549494124;
+ hY08c = (unsigned short)1549494124;
 
 if (R68f8kqa < 481717688)
 {
@@ -344,7 +344,7 @@ else if (j6Wo1_1M2 <= 1259077318)
 {
 if (((z1Lee == GYTu) && (WKa02 < -2058789868)) && (j11azCH_9 != 2058703763))
 {
-t1C4ru = (rijuQN > VU6l0Tec8) ? zWMx9XhL : 1312601145;
+t1C4ru = (rijuQN > VU6l0Tec8) ? zWMx9XhL : (short)1312601145;
 }
 else
 {
@@ -505,7 +505,7 @@ case 'e':
 z1Lee = W0eH >> g7Ek99;
 break;
 case 'f':
-VwLsxS0 = YlK39_upsZ((unsigned short)1227445616, 1323572517, 623342299, -1901517887);
+VwLsxS0 = YlK39_upsZ((unsigned short)1227445616, 1323572517, (unsigned short)623342299, -1901517887);
 break;
 case 'g':
 y_6j = i_1k_ << 849210719;

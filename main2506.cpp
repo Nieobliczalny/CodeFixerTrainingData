@@ -36,7 +36,7 @@ int main(void) {
  unsigned long HpJZ5_ = 0;
     unsigned int    Sx8UIq_nR    =    0;
  long long uVxx = -1277428534;
-    short    P9X_    =    -2000397908;
+    short    P9X_    =    (short)-2000397908;
  char D2YbF22r = -1526451677;
   long long  hdZ62dt35  =  380605099;
     unsigned long long    UcaZjWX5    =    319085553;
@@ -46,7 +46,7 @@ int main(void) {
  unsigned short int Nh6wGo2Vv = (unsigned short)136844165;
  unsigned short int J7Jm5 = -1392296363;
  long pfh9k0 = -421203546;
-  short int  FZ6r3  =  -856828195;
+  short int  FZ6r3  =  (short)-856828195;
  unsigned long M5lj = 1330437027;
 	long double	R_Uy0r8	=	-723475848;
   double  a_Hz3  =  -1761678477;
@@ -125,7 +125,7 @@ case 3:
 hdZ62dt35 ^= W_C8W_G;
 break;
 case 4:
-Dt3fYtm = XE_YJVdI6p(-1388237124, 678538876, Q1S_pc_X, UcaZjWX5, 1677246062);
+Dt3fYtm = XE_YJVdI6p((short)-1388237124, 678538876, Q1S_pc_X, UcaZjWX5, 1677246062);
 break;
 case 5:
 FQizs9 = tfgS3(FQizs9, CfBE5lN86, 2057695625);
@@ -145,7 +145,7 @@ try
 switch (H_Iey8SoY)
 {
 case 'a':
-HpJZ5_ = XE_YJVdI6p((short)-399741664, rtj7ef53, (unsigned char)-254869134, 968530111, 700077585);
+HpJZ5_ = XE_YJVdI6p((short)-399741664, rtj7ef53, (unsigned char)-254869134, (unsigned short)968530111, 700077585);
 break;
 }
 }
@@ -161,7 +161,7 @@ for (int j = 8; j >= 0; --j)
 int k = 0;
 do
 {
-Sx8UIq_nR = XE_YJVdI6p((short)-1842975377, Nh6wGo2Vv, (unsigned char)1325452372, 1377513589, h_lKx);
+Sx8UIq_nR = XE_YJVdI6p((short)-1842975377, Nh6wGo2Vv, (unsigned char)1325452372, (unsigned short)1377513589, h_lKx);
 ++k;
 }
 while (k < 3);
@@ -324,7 +324,7 @@ std::cout << "oNpvO" << std::endl;
 }
 else if (m_og7c_ > pfh9k0)
 {
-std::cout << "s5Ze3" << tfgS3(1287182199, 1029119582, -830225318) << tfgS3(-1837606034, -1347088681, 966480026) << std::endl;
+std::cout << "s5Ze3" << tfgS3((char)1287182199, 1029119582, -830225318) << tfgS3(-1837606034, -1347088681, 966480026) << std::endl;
 }
 else
 {

@@ -38,7 +38,7 @@ int main(int argc, char** argv)
  unsigned short int o4Hc853;
  o4Hc853 = (unsigned short)1872362727;
     char    kW4Og9_;
-    kW4Og9_    =    -1514316797;
+    kW4Og9_    =    (char)-1514316797;
   unsigned int  P7vMiYkB;
   P7vMiYkB  =  0;
     float    y9NC_;
@@ -54,7 +54,7 @@ int main(int argc, char** argv)
  unsigned short ieNPSq2drI;
  ieNPSq2drI = (unsigned short)1858297303;
  unsigned short int ff6nV3_;
- ff6nV3_ = 872143286;
+ ff6nV3_ = (unsigned short)872143286;
     unsigned int    H0Wm6Jw9v;
     H0Wm6Jw9v    =    632257026;
 	unsigned char	CP8wC;
@@ -92,7 +92,7 @@ int main(int argc, char** argv)
     double    Yeok8;
     Yeok8    =    -203510488;
   short int  n3kFqC221g;
-  n3kFqC221g  =  -1340420866;
+  n3kFqC221g  =  (short)-1340420866;
 	float	Q_1m8_;
 	Q_1m8_	=	-1700243304;
 	unsigned short	cF7132J3;
@@ -114,7 +114,7 @@ int main(int argc, char** argv)
     unsigned short int    nAXEkDEweF;
     nAXEkDEweF    =    (unsigned short)1747236160;
   unsigned short  L0t_T;
-  L0t_T  =  -789195700;
+  L0t_T  =  (unsigned short)-789195700;
   unsigned long  SXg_Hj704;
   SXg_Hj704  =  1588822966;
  unsigned long ExiG_h_m;
@@ -128,7 +128,7 @@ int main(int argc, char** argv)
  long RQUN1pB;
  RQUN1pB = 1120180347;
  short RdP_2nh0;
- RdP_2nh0 = -1806335009;
+ RdP_2nh0 = (short)-1806335009;
 
 if (HR2hZL7 > 581092117)
 {
@@ -296,7 +296,7 @@ Yeok8 = ahOs4d(Yeok8, (short)731520202, -687379003, G9lZs0, VQFnA5);
 int i = 0;
 while (i < 2)
 {
-cout << SiRYM((unsigned short)-1265157400, (short)1291294955, -1383324570, G9lZs0) << endl;
+cout << SiRYM((unsigned short)-1265157400, (short)1291294955, (unsigned char)-1383324570, G9lZs0) << endl;
 ++i;
 }
 }

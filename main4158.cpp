@@ -184,7 +184,7 @@ break;
 std::cout << CNQ0d_((char)1741775932) << std::endl;
 IbN94Dv5I6 = YYXTM & v8o_1Q8p1;
 
-GVG_ = CNQ0d_(-1390764592);
+GVG_ = CNQ0d_((char)-1390764592);
 
 for (int i = 4; i >= 0; i--)
 {
@@ -242,7 +242,7 @@ case 3:
 y9_96ia = CNQ0d_((char)-110260353);
 break;
 default:
-GVG_ = CNQ0d_(2090776700);
+GVG_ = CNQ0d_((char)2090776700);
 break;
 }
 }

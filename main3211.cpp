@@ -38,7 +38,7 @@ int main(int argc, char** argv)
     int    Wjs3q22_;
     Wjs3q22_    =    -1444976251;
   unsigned short  E9_C;
-  E9_C  =  1094120677;
+  E9_C  =  (unsigned short)1094120677;
     unsigned short    e5M9Np;
     e5M9Np    =    1444656315;
  unsigned char PU7AfMWD;
@@ -50,7 +50,7 @@ int main(int argc, char** argv)
 	long	n795JmJZ7t;
 	n795JmJZ7t	=	972010105;
     unsigned short    vo9pc;
-    vo9pc    =    -1928954146;
+    vo9pc    =    (unsigned short)-1928954146;
     long    HD0HpUAsW;
     HD0HpUAsW    =    1257839424;
     unsigned long    yEkWipX3;
@@ -64,7 +64,7 @@ int main(int argc, char** argv)
     unsigned char    iOWj3jB;
     iOWj3jB    =    (unsigned char)1786738321;
  char I85Dg5kKA;
- I85Dg5kKA = 962441791;
+ I85Dg5kKA = (char)962441791;
   short int  UpOZ7;
   UpOZ7  =  -1781604897;
  double Ox2DOmK_;
@@ -88,7 +88,7 @@ int main(int argc, char** argv)
     unsigned short    Yq740MnRAs;
     Yq740MnRAs    =    (unsigned short)1135171517;
     char    cchJ62xee;
-    cchJ62xee    =    1026284311;
+    cchJ62xee    =    (char)1026284311;
     float    zHBaB8r9;
     zHBaB8r9    =    -381003231;
   short  ExW4h6;
@@ -104,7 +104,7 @@ int main(int argc, char** argv)
 	unsigned char	NfMow;
 	NfMow	=	(unsigned char)-1708341447;
   unsigned char  Y3Kt14;
-  Y3Kt14  =  2009326988;
+  Y3Kt14  =  (unsigned char)2009326988;
  unsigned long i49p6q6w;
  i49p6q6w = 1592182101;
 	unsigned long	r7dpZ004;
@@ -172,7 +172,7 @@ int main(int argc, char** argv)
   unsigned char  i22XN;
   i22XN  =  (unsigned char)1375167362;
  unsigned char tpjs0k;
- tpjs0k = 1297198249;
+ tpjs0k = (unsigned char)1297198249;
  unsigned long Cnkx4B;
  Cnkx4B = -1613929150;
   unsigned long long  vzr15uhv;
@@ -204,7 +204,7 @@ int main(int argc, char** argv)
 	int	u16xl;
 	u16xl	=	907325341;
   unsigned short int  M3FDP;
-  M3FDP  =  141835209;
+  M3FDP  =  (unsigned short)141835209;
   long long  ZE17_2unE;
   ZE17_2unE  =  657828035;
   unsigned short int  fGcv_h;
@@ -371,7 +371,7 @@ while (j >= 0);
 }
 else if (Yq740MnRAs & 897247208)
 {
-std::cout << vo9pc << Gw20E71n9 << Ymd4(yEkWipX3, (unsigned short)-1163157341, nZv8Z8Hg) << N_mSE1(yEkWipX3, 1159577487, 984889621) << Ymd4(yEkWipX3, we_E3Rq, -1547738914) << std::endl;
+std::cout << vo9pc << Gw20E71n9 << Ymd4(yEkWipX3, (unsigned short)-1163157341, nZv8Z8Hg) << N_mSE1(yEkWipX3, 1159577487, (short)984889621) << Ymd4(yEkWipX3, we_E3Rq, -1547738914) << std::endl;
 }
 else
 {

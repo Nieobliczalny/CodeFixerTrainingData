@@ -16,7 +16,7 @@ int main() {
 	unsigned char	GODp6,	Y7Y4_,	U6yj5h25,	p2Jl,	QVLww,	Wx3sm_6,	f09R9ck,	dHmK_W64_q,	en_Fg1C,	lmj5fS,	tc4AKsP,	g97i6Y_n9,	AVmY;
 	GODp6	=	(unsigned char)-445561432;
 	Y7Y4_	=	(unsigned char)1112010011;
-	U6yj5h25	=	1456066464;
+	U6yj5h25	=	(unsigned char)1456066464;
 	p2Jl	=	-1244583096;
 	QVLww	=	846344491;
 	Wx3sm_6	=	-158399633;
@@ -26,7 +26,7 @@ int main() {
 	lmj5fS	=	-1027416434;
 	tc4AKsP	=	(unsigned char)-1571236508;
 	g97i6Y_n9	=	(unsigned char)-279507769;
-	AVmY	=	-807069321;
+	AVmY	=	(unsigned char)-807069321;
  unsigned short int Z2Oy7AI0QS, cVPJi;
  Z2Oy7AI0QS = 0;
  cVPJi = 0;

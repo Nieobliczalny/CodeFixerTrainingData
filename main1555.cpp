@@ -31,7 +31,7 @@ int main(int argc, char** argv)
  unsigned long d_yoo1q = -904161244;
 	long double	L92NYn	=	1358672792;
   long long  s7_MaTt  =  -1273141417;
-	unsigned short int	jlSDG7M	=	-2115337152;
+	unsigned short int	jlSDG7M	=	(unsigned short)-2115337152;
 
 if (((d_yoo1q != hP08a0jKE) || (hP08a0jKE)) || (d_yoo1q >= XV__07___t))
 {
@@ -58,7 +58,7 @@ ue6kbxIZh >>= d_yoo1q;
 }
 else
 {
-cout << hUdM61((unsigned short)270750852) << XV__07___t << e4huJg47(s7_MaTt, (char)800130207, d_yoo1q, 1730583067) << hP08a0jKE << ue6kbxIZh << endl;
+cout << hUdM61((unsigned short)270750852) << XV__07___t << e4huJg47(s7_MaTt, (char)800130207, d_yoo1q, (unsigned short)1730583067) << hP08a0jKE << ue6kbxIZh << endl;
 }
 }
 try
@@ -243,7 +243,7 @@ gAjt_a = hUdM61((unsigned short)309028147);
 break;
 case 'b':
 case 'B':
-ue6kbxIZh = e4huJg47((unsigned char)-932282022, ue6kbxIZh, -1842634849, -1626408206);
+ue6kbxIZh = e4huJg47((unsigned char)-932282022, ue6kbxIZh, -1842634849, (unsigned short)-1626408206);
 break;
 }
 }
@@ -296,7 +296,7 @@ case 1:
 gAjt_a = hUdM61((unsigned short)-387515477);
 break;
 case 2:
-L92NYn = e4huJg47(L92NYn, 200248142, -106714816, 1322425917);
+L92NYn = e4huJg47(L92NYn, (char)200248142, -106714816, 1322425917);
 break;
 default:
 hY1o5v = hUdM61(d_yoo1q);
@@ -425,7 +425,7 @@ case 'd':
 gAjt_a = hUdM61((unsigned short)563912311);
 break;
 case 'e':
-XV__07___t = r48R(XV__07___t, 1119790694);
+XV__07___t = r48R(XV__07___t, (unsigned short)1119790694);
 break;
 case 'f':
 ue6kbxIZh = r48R(ue6kbxIZh, gmeQk);
@@ -533,7 +533,7 @@ ue6kbxIZh = hUdM61(hY1o5v) * 914374373;
 }
 else
 {
-XV__07___t = e4huJg47((unsigned char)1488648400, (char)-1381504610, hP08a0jKE, -265990281);
+XV__07___t = e4huJg47((unsigned char)1488648400, (char)-1381504610, hP08a0jKE, (unsigned short)-265990281);
 }
 }
 else if ((ue6kbxIZh == 500027038) || ((hY1o5v > jlSDG7M) || (XV__07___t & 523154402)))
@@ -625,7 +625,7 @@ case 'b':
 d_yoo1q += ue6kbxIZh;
 break;
 case 'c':
-gAjt_a = hUdM61(662155018);
+gAjt_a = hUdM61((unsigned short)662155018);
 break;
 case 'd':
 jlSDG7M %= 1618815804;
@@ -753,7 +753,7 @@ short  chZ6Bc8d()  {
 }
 
 short  e4huJg47(unsigned char  zG3FojGBB,char  aX1_,unsigned long  XNkr_9vK,unsigned short int  k1MIE)  {
-  return  -733563432;
+  return  (short)-733563432;
 }
 
 char	hUdM61(unsigned short int	bmr54K_l4G)	{

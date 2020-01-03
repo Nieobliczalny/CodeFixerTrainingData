@@ -17,7 +17,7 @@ int main(int argc, char** argv) {
   int  tM34;
   tM34  =  849736807;
 	unsigned short	IfHTklNO;
-	IfHTklNO	=	-713197549;
+	IfHTklNO	=	(unsigned short)-713197549;
     unsigned int    afSTZ;
     afSTZ    =    172117669;
   char  Wqz_l;
@@ -45,7 +45,7 @@ int main(int argc, char** argv) {
   long double  PWKh;
   PWKh  =  2106074342;
  char WLBB7w4L;
- WLBB7w4L = -1961869806;
+ WLBB7w4L = (char)-1961869806;
   unsigned short int  POo6_6gf1G;
   POo6_6gf1G  =  706621837;
     unsigned int    y0L4eIwKV4;
@@ -71,7 +71,7 @@ int main(int argc, char** argv) {
 	unsigned short	wdZe7f;
 	wdZe7f	=	(unsigned short)-794088588;
   short  j96Y;
-  j96Y  =  2005335527;
+  j96Y  =  (short)2005335527;
   long  Nas09z8EpI;
   Nas09z8EpI  =  902210752;
     char    p_xhEEh;
@@ -83,7 +83,7 @@ int main(int argc, char** argv) {
     unsigned int    E942j9A3n;
     E942j9A3n    =    1444239776;
   unsigned short int  GR0rp;
-  GR0rp  =  1314709353;
+  GR0rp  =  (unsigned short)1314709353;
  char G5HPExu7eQ;
  G5HPExu7eQ = (char)-559493423;
   unsigned char  Cvk4_BG6;
@@ -93,7 +93,7 @@ int main(int argc, char** argv) {
     char    Sq7AsTf;
     Sq7AsTf    =    -353218218;
   unsigned short  A2A4_7gd2;
-  A2A4_7gd2  =  168727644;
+  A2A4_7gd2  =  (unsigned short)168727644;
 	unsigned short int	YxpJOxNr0m;
 	YxpJOxNr0m	=	(unsigned short)2063000563;
     long double    W_96r;
@@ -107,7 +107,7 @@ int main(int argc, char** argv) {
  short int MSvw4;
  MSvw4 = (short)-849349549;
 	unsigned short	x57pS8410F;
-	x57pS8410F	=	-562668684;
+	x57pS8410F	=	(unsigned short)-562668684;
     unsigned short    H3VW;
     H3VW    =    50666867;
 	unsigned short int	vE_G4K3;
@@ -340,7 +340,7 @@ std::cout << "UY2vBn5QZ5" << e_MSj((unsigned short)-1851155228) << std::endl;
 }
 else if (G5HPExu7eQ == -1337637360)
 {
-std::cout << e_MSj(PWKh) << e_MSj((unsigned short)1159017694) << "N25tXT" << e_MSj(-288644379) << std::endl;
+std::cout << e_MSj(PWKh) << e_MSj((unsigned short)1159017694) << "N25tXT" << e_MSj((unsigned short)-288644379) << std::endl;
 }
 else if (Gzis & wdZe7f)
 {

@@ -32,7 +32,7 @@ int main(void)
     unsigned long    d7908    =    0;
  long long TDxqhtO5 = -882434882;
 	short	zhhw4_9pL	=	(short)-1815689527;
- unsigned short Pz1IywAR = -875865611;
+ unsigned short Pz1IywAR = (unsigned short)-875865611;
     unsigned short int    KozI3Lb7    =    -1063124960;
     int    m1JAd    =    1820491672;
   unsigned short int  L_VSV1  =  (unsigned short)-1963122660;
@@ -42,7 +42,7 @@ int main(void)
     int    bKWV2L9    =    -1862659373;
  unsigned short int Wx4kCKI3 = 17002234;
   char  kQ5t1Ee49  =  (char)795966695;
-    short int    roLlVjK    =    442256253;
+    short int    roLlVjK    =    (short)442256253;
  double AGcTV = 1742243090;
     double    x5P_U6u    =    -474439725;
     float    daoA    =    -1518551713;
@@ -53,7 +53,7 @@ int main(void)
  unsigned short int iX8r79X_ = 2103973481;
 	float	c362Z	=	-921991284;
     short    qUzbKx    =    (short)257524980;
-	unsigned char	eg7O4n	=	829684808;
+	unsigned char	eg7O4n	=	(unsigned char)829684808;
     int    JKztFW    =    0;
  short hx8X = -1718888109;
 	long	ur229LBcit	=	1206921522;
@@ -72,7 +72,7 @@ int i = 0;
 while (i < 6)
 {
 i++;
-std::cout << "NZ1Cvv" << coe829m() << fjgL4UWcj1 << eYkB(-1228051308, 1210526489, -2001150830, 197293504) << coe829m() << std::endl;
+std::cout << "NZ1Cvv" << coe829m() << fjgL4UWcj1 << eYkB((unsigned char)-1228051308, 1210526489, -2001150830, 197293504) << coe829m() << std::endl;
 }
 }
 

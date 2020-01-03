@@ -526,7 +526,7 @@ case 'i':
 LEU5YcJ2vF = y8YX57dAY(-1610374346, (unsigned short)2016229944, 655060188, (unsigned short)-1450231449, -803552247);
 break;
 case 'j':
-F6D2nRmG = cEtI12uD(-1492833268, j656, 1738899636);
+F6D2nRmG = cEtI12uD(-1492833268, j656, (short)1738899636);
 break;
 }
 }

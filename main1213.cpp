@@ -52,7 +52,7 @@ int main(void)
 	long	HP6RnAE;
 	HP6RnAE	=	-2123082257;
  unsigned short FVBLW2;
- FVBLW2 = -1959266509;
+ FVBLW2 = (unsigned short)-1959266509;
  float xP7KfS;
  xP7KfS = -774430560;
 	unsigned short int	sI9U7;
@@ -62,7 +62,7 @@ int main(void)
   short  jG4m;
   jG4m  =  (short)-636911079;
   short  dH5PNM;
-  dH5PNM  =  -324678743;
+  dH5PNM  =  (short)-324678743;
 	long	UaJC;
 	UaJC	=	-1917866153;
     long long    gXk68ic3;
@@ -98,7 +98,7 @@ int main(void)
     short    CaA59Hg_Rj;
     CaA59Hg_Rj    =    (short)-856109772;
 	short int	yaBD;
-	yaBD	=	1437429874;
+	yaBD	=	(short)1437429874;
   long long  L_EGXZTd;
   L_EGXZTd  =  1049911704;
     short    q67_Vg2;
@@ -110,7 +110,7 @@ int main(void)
     unsigned int    hrb1;
     hrb1    =    -1609349627;
 	short	nXjM7ZHE2;
-	nXjM7ZHE2	=	-977649154;
+	nXjM7ZHE2	=	(short)-977649154;
   short int  y1eAZP6;
   y1eAZP6  =  (short)1918644528;
 	unsigned long long	wT6Mu6s2;

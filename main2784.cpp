@@ -71,7 +71,7 @@ int main(void)
  char SM7g2;
  SM7g2 = (char)862506732;
  unsigned char v2TUoQFOt_;
- v2TUoQFOt_ = 138657270;
+ v2TUoQFOt_ = (unsigned char)138657270;
     long double    DC0w;
     DC0w    =    1360662651;
  long t9Qx;
@@ -81,7 +81,7 @@ int main(void)
  short NcVEGX;
  NcVEGX = (short)-1700334919;
     unsigned short    VysXmX62K;
-    VysXmX62K    =    -1671311858;
+    VysXmX62K    =    (unsigned short)-1671311858;
     unsigned short int    mNl4iV4kav;
     mNl4iV4kav    =    -560195816;
 	unsigned short	j6JN;
@@ -129,7 +129,7 @@ int main(void)
  long L6bf_sG;
  L6bf_sG = -512480861;
 	char	JMXzb1AG;
-	JMXzb1AG	=	-93684947;
+	JMXzb1AG	=	(char)-93684947;
     unsigned long    nke1BO65w;
     nke1BO65w    =    -882653589;
   short int  u264z5E2;
@@ -155,7 +155,7 @@ int main(void)
  unsigned char a2a8rEphjc;
  a2a8rEphjc = (unsigned char)668574256;
  unsigned short G6G2CejM;
- G6G2CejM = -1816538291;
+ G6G2CejM = (unsigned short)-1816538291;
 	unsigned short int	ZST731H;
 	ZST731H	=	450829859;
     unsigned long    OXGvt3rfD;
@@ -169,7 +169,7 @@ int main(void)
  unsigned long long h1i7;
  h1i7 = 1700634536;
 	unsigned char	wlx2;
-	wlx2	=	423688258;
+	wlx2	=	(unsigned char)423688258;
 	char	iPp9W8sg;
 	iPp9W8sg	=	-1391009269;
  unsigned long rvChNFc;
@@ -189,7 +189,7 @@ int main(void)
     unsigned short    o2__c3U5;
     o2__c3U5    =    (unsigned short)-737844025;
     unsigned short int    V0R6i;
-    V0R6i    =    581247293;
+    V0R6i    =    (unsigned short)581247293;
     long    jtBR6;
     jtBR6    =    419166901;
 
@@ -599,7 +599,7 @@ fD7d = K57s836(-408290799, pp0azil3, 1309638794);
 }
 }
 
-v2TUoQFOt_ = oJbu48_M0((short)-2116369928) / oJbu48_M0(180090702);
+v2TUoQFOt_ = oJbu48_M0((short)-2116369928) / oJbu48_M0((short)180090702);
 if (VqQZ & 1584419776)
 {
 if (kV5Gj8)
@@ -692,7 +692,7 @@ while (k >= 0);
 }
 else
 {
-std::cout << K57s836((unsigned short)-896003735, GTl09hbkRa, 874728766) << "qJYW39N_" << S3t7n2b8w(JMXzb1AG, GTl09hbkRa, (unsigned char)789614399) << K57s836(-1183217011, -744770075, jqg35q) << std::endl;
+std::cout << K57s836((unsigned short)-896003735, GTl09hbkRa, 874728766) << "qJYW39N_" << S3t7n2b8w(JMXzb1AG, GTl09hbkRa, (unsigned char)789614399) << K57s836((unsigned short)-1183217011, -744770075, jqg35q) << std::endl;
 }
 }
 

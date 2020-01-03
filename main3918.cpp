@@ -20,7 +20,7 @@ int main(void) {
     unsigned short int    Gnso0i    =    (unsigned short)496172226;
   double  LiHV  =  68922743;
   long long  dkSaW  =  -1401654816;
- unsigned short prg72xwb = -980690818;
+ unsigned short prg72xwb = (unsigned short)-980690818;
  unsigned long Ap7L5Rzu = -1165961829;
 	short int	X6PK	=	968634795;
  float Byp4B41M = 1167244274;
@@ -35,7 +35,7 @@ int main(void) {
  int nJf74nUA5 = 1670548121;
     short int    D416    =    (short)2016787920;
   unsigned long long  Mr2ZQc22q8  =  -1084078680;
- unsigned short lMp2q = 872113674;
+ unsigned short lMp2q = (unsigned short)872113674;
 	long	OSu61gQ	=	0;
 	unsigned long	IV6g	=	1509449402;
 

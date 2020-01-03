@@ -61,7 +61,7 @@ case 'a':
 ITxfa /= i8_4dBS;
 break;
 case 'b':
-IW2Mwz = (Z_a3 < -1064876465) ? u6OET : A5cJj(1213872981, t3Ef, -53863857, W_5l_eQ);
+IW2Mwz = (Z_a3 < -1064876465) ? u6OET : A5cJj(1213872981, t3Ef, (unsigned short)-53863857, W_5l_eQ);
 break;
 case 'c':
 ITxfa %= 1361167856;
@@ -73,7 +73,7 @@ case 'e':
 NPd28 = pfXFl0fnM6(i8_4dBS, (short)-1816099243, ITxfa, NPd28);
 break;
 default:
-TYoy = A5cJj(m5E_5, 1906894205, NPd28, -1441037894);
+TYoy = A5cJj(m5E_5, 1906894205, NPd28, (unsigned char)-1441037894);
 break;
 }
 
@@ -90,7 +90,7 @@ break;
 switch (t3Ef)
 {
 case 0:
-u6OET = pfXFl0fnM6(W_5l_eQ, 398141282, x9n2e, 289451936);
+u6OET = pfXFl0fnM6(W_5l_eQ, (short)398141282, x9n2e, 289451936);
 break;
 }
 if (NPd28 != qTGCXHudT8)
@@ -321,7 +321,7 @@ case 2:
 NPd28 = pfXFl0fnM6(Z_a3, (short)-948952171, TYoy, qTGCXHudT8);
 break;
 case 3:
-W_5l_eQ = wIePey(-2144500513, 688043137, i8_4dBS, u6OET);
+W_5l_eQ = wIePey(-2144500513, (unsigned short)688043137, i8_4dBS, u6OET);
 break;
 case 4:
 dL7Wf2BX = i8_4dBS % 1328265324;

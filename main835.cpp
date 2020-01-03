@@ -39,7 +39,7 @@ int main(int argc, char** argv)
  unsigned long long o4Msqttn = -1159129067;
  short G16dEc = (short)-1910416835;
 	unsigned int	n420N	=	383038683;
-    short int    cWL6_    =    -5934443;
+    short int    cWL6_    =    (short)-5934443;
   unsigned char  X6_I1  =  -708792999;
  long long X5bEeh = 1479891684;
     unsigned short    iaTB    =    (unsigned short)-2041038388;
@@ -50,7 +50,7 @@ int main(int argc, char** argv)
  int vU_8I057 = 1316939167;
     short    P_7A720hk    =    (short)-184794693;
     long    DQePwv    =    -112638135;
-  unsigned short int  i08xStZGT  =  -1540851931;
+  unsigned short int  i08xStZGT  =  (unsigned short)-1540851931;
     unsigned long    tEeb    =    -2044749928;
 
 if (vU_8I057 < X6_I1)
@@ -64,7 +64,7 @@ case 'b':
 cWL6_ = X6_I1 / 1496774649;
 break;
 case 'c':
-G16dEc = v7YQB((unsigned short)1406228506, 1256639612, (unsigned short)150595230, -1527496834, 951980761);
+G16dEc = v7YQB((unsigned short)1406228506, 1256639612, (unsigned short)150595230, (unsigned short)-1527496834, 951980761);
 break;
 default:
 DQePwv = (int)abs(w2o_o5n71);
@@ -126,7 +126,7 @@ case 2:
 S2M6 = BAQVYBt(665576626, i08xStZGT, (unsigned short)1895015523);
 break;
 case 3:
-X5bEeh = pD_u(1616347046, X6_I1);
+X5bEeh = pD_u((unsigned short)1616347046, X6_I1);
 break;
 case 4:
 tEeb *= 1748140043;
@@ -241,7 +241,7 @@ else
 {
 if (cWL6_ == tEeb)
 {
-X5bEeh = imcQ8h(X5bEeh, 915358625);
+X5bEeh = imcQ8h(X5bEeh, (unsigned char)915358625);
 }
 }
 }
@@ -336,7 +336,7 @@ else if (bqwHY65z >= S2M6)
 int k = 0;
 while (k < 2)
 {
-bqwHY65z = v7YQB((unsigned short)-627163977, G16dEc, vU_8I057, (unsigned short)-728587076, 200680314);
+bqwHY65z = v7YQB((unsigned short)-627163977, G16dEc, vU_8I057, (unsigned short)-728587076, (short)200680314);
 ++k;
 }
 }
@@ -408,7 +408,7 @@ case 3:
 i08xStZGT = vU_8I057 | 739144342;
 break;
 case 4:
-Ut18JXO3 = pD_u((unsigned short)-402201268, -64014973);
+Ut18JXO3 = pD_u((unsigned short)-402201268, (unsigned char)-64014973);
 break;
 case 5:
 n420N = imcQ8h(-769496493, 2103635576);
@@ -614,7 +614,7 @@ case 1:
 w2o_o5n71 = BAQVYBt(-1498377126, bqwHY65z, n420N) << 1569890279;
 break;
 case 2:
-S2M6 = BAQVYBt(o4Msqttn, (unsigned char)-1987571300, 1965489295);
+S2M6 = BAQVYBt(o4Msqttn, (unsigned char)-1987571300, (unsigned short)1965489295);
 break;
 case 3:
 S2M6 = BAQVYBt(n420N, -1591588745, -261015992);

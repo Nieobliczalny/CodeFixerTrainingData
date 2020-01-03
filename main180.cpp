@@ -40,7 +40,7 @@ int main(void)
  int uhld2t616 = 1987152131;
 	short int	zG27NB	=	(short)-1368419741;
   double  Z6T3  =  881393999;
-	char	H5LOy20K_1	=	1156449771;
+	char	H5LOy20K_1	=	(char)1156449771;
   float  dHJX4  =  -1008950182;
  short int gB58s = 1477375083;
     float    Kk_ffC    =    379091475;
@@ -50,7 +50,7 @@ int main(void)
  unsigned char qQdrV = -742430150;
  unsigned short J5q785 = (unsigned short)1357497439;
     long    O4w9rlkFGm    =    946217008;
-  unsigned short  MMdur2yE  =  -260004687;
+  unsigned short  MMdur2yE  =  (unsigned short)-260004687;
 	unsigned long long	Iu9PRP0_	=	-1584752045;
 	short	xP7M5RF3hp	=	336378875;
   unsigned long long  gl87d0gQzd  =  918263803;
@@ -60,7 +60,7 @@ int main(void)
 	long double	z_4wfW8PZ	=	1348895762;
   unsigned int  Hlidz4vK  =  459010318;
     short int    gx3Afh    =    (short)557009904;
-	unsigned char	y4VFun	=	485414109;
+	unsigned char	y4VFun	=	(unsigned char)485414109;
   unsigned long  C6j5HFHum  =  1157719932;
   short  p6NbTPDeR  =  2027872967;
     short int    GOg8Wed    =    66436345;
@@ -70,7 +70,7 @@ int main(void)
 	unsigned short int	S4ruIW_	=	(unsigned short)436208069;
   unsigned char  b2Nyj9  =  -747713204;
  short zNSZZb7 = (short)1524267651;
-  short int  zkLJq  =  1614489242;
+  short int  zkLJq  =  (short)1614489242;
 	short int	CE8O___a	=	310606899;
   unsigned short  GTxq1g  =  -529116647;
   long long  Ow4V0m  =  -1710342347;
@@ -85,7 +85,7 @@ int main(void)
   unsigned long  H0033_Ub3d  =  -1131845344;
   unsigned char  SgN1ZB4  =  (unsigned char)25258688;
     int    tt03Y3Q    =    1086957821;
- unsigned char wn1xyrrrC = 1799084630;
+ unsigned char wn1xyrrrC = (unsigned char)1799084630;
     unsigned char    yl8062    =    -565056799;
  short vnfB = -1501207875;
     unsigned int    tTe9    =    -993595432;
@@ -96,7 +96,7 @@ int main(void)
     unsigned long long    Xl4ee    =    -1037629201;
  unsigned char V_4zUov_5 = (unsigned char)-1025116583;
 	float	ic6OXV4057	=	1747490918;
- short int YS7x_5oFt = -1550775037;
+ short int YS7x_5oFt = (short)-1550775037;
   unsigned char  M426dU  =  1529316845;
  long long cL9T2rX_81 = 549103120;
 	unsigned short	OxKeVYPJ	=	(unsigned short)93390368;
@@ -107,7 +107,7 @@ int main(void)
     float    UmrD6S    =    1914132046;
 	unsigned int	KJ_88ydPb	=	1153989659;
 
-uhld2t616 = Nciz((short)-511972163, NMQ8, -2091319601, CE8O___a, -679646650);
+uhld2t616 = Nciz((short)-511972163, NMQ8, (unsigned char)-2091319601, CE8O___a, -679646650);
 {
 int i = 0;
 do

@@ -16,7 +16,7 @@ int    JE3f7g_1S1(short    cc6E)
 int main(void) {
 	char	wbZ9u6	=	(char)1176303650;
 	unsigned short	pga320	=	(unsigned short)-238695422;
-  short int  v3TK_rqFB  =  -670443710;
+  short int  v3TK_rqFB  =  (short)-670443710;
  double c3A4GE1Z5 = -1685437245;
  long Xyzp = -1125190311;
  unsigned long yOKB = 1376968439;
@@ -34,7 +34,7 @@ int main(void) {
  unsigned int QSxcGwD = 820906491;
     int    vCE0    =    1576171102;
     long    Oef9    =    1737021230;
-	unsigned short	hf690H	=	766692197;
+	unsigned short	hf690H	=	(unsigned short)766692197;
   int  CC0VG  =  1248043110;
     char    ykmQx    =    (char)-464447019;
  float TMo_ = 1289156202;
@@ -50,7 +50,7 @@ int main(void) {
 	unsigned short int	F2N_i	=	(unsigned short)583879446;
     unsigned int    PR9_s    =    -99243950;
  short int kqI9 = (short)-430331854;
- unsigned short pUpLH = -1799996660;
+ unsigned short pUpLH = (unsigned short)-1799996660;
   int  Mi52_6O9C  =  482658546;
   short int  fELl  =  1894896641;
   unsigned long  GFJ8b8_  =  136488408;
@@ -73,7 +73,7 @@ int main(void) {
     unsigned long    aH4H375    =    819248957;
   float  g_2Fv  =  -779764826;
   unsigned short  k7Hy_uBZp  =  0;
-  unsigned short int  NrITB4_lm  =  -2020179023;
+  unsigned short int  NrITB4_lm  =  (unsigned short)-2020179023;
  unsigned int wzn416s = 952122851;
  unsigned short V60124wZ_ = (unsigned short)1264426166;
     int    L0Tfy9eh    =    1132780563;
@@ -86,7 +86,7 @@ int main(void) {
 	int	h_SslU	=	1503649822;
     long    ZP_y7e_f    =    1160117939;
   short int  Ew3_Sc20gs  =  (short)1928794425;
- unsigned char a37er = 284847157;
+ unsigned char a37er = (unsigned char)284847157;
     unsigned long long    HJP3y66    =    -430258375;
  int e8h_ = 1380688040;
 	int	ndT45wX7	=	-1923458705;
@@ -107,7 +107,7 @@ int main(void) {
  long double W1BjUHHja = 1301681209;
     long long    o6Ly9g8XI1    =    -1132009074;
     unsigned long long    fVdR    =    1975447478;
-	unsigned char	Y6065hx	=	-1162942101;
+	unsigned char	Y6065hx	=	(unsigned char)-1162942101;
  long double GSF1 = -1650442681;
     double    o_V_J    =    2093030145;
 	unsigned long long	WY5NHspR	=	1004608680;

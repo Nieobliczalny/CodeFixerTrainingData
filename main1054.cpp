@@ -161,7 +161,7 @@ case 3:
 O6vKz6 = VAz090mhs((unsigned short)-1097224415, -367019117, SS_j8_SH3, P8FPjy);
 break;
 case 4:
-unfkJQPr4 = VAz090mhs(1609358077, THu9t_AJ0M, -1562382018, k7hbQ);
+unfkJQPr4 = VAz090mhs((unsigned short)1609358077, THu9t_AJ0M, -1562382018, k7hbQ);
 break;
 case 5:
 cb_UL0 = v058vM(cb_UL0, Pdu6lp_c30, 1261523831, D_b5eo6wEc, -1582423199);

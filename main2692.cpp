@@ -22,7 +22,7 @@ int main(int argc, char** argv)
 	short	fC09_FI4	=	(short)-835708505;
  float fIOv_z5 = -1008369601;
   long long  lXqig4miGl  =  -423289788;
- short int qJw9wojKH = 79924630;
+ short int qJw9wojKH = (short)79924630;
  long double N57CX = -219278381;
  char RM0R = -2066902515;
 	unsigned long long	NKXj1jMaX7	=	0;
@@ -33,7 +33,7 @@ int main(int argc, char** argv)
     unsigned char    E1aTN0    =    (unsigned char)2143524205;
  short w5yPHNe1B = -1497382605;
 	unsigned int	weJNAN	=	1366009270;
- short int Tr9Oc5Ch = 369272659;
+ short int Tr9Oc5Ch = (short)369272659;
   unsigned char  jJ_M3DSx8Y  =  -1336646167;
 	short int	M7R9wZ	=	0;
  long long Nyzr = -1720390514;
@@ -129,7 +129,7 @@ TcZhUm = s0tU(J50Ygn, -2106571725, 1818576710, TcZhUm, (unsigned char)666014567)
 }
 else if (Y3as0 & dk5z9W)
 {
-J50Ygn = M72x_3g((unsigned char)431022657, -620201813, 2091675099, mw791o, -738148210);
+J50Ygn = M72x_3g((unsigned char)431022657, (short)-620201813, 2091675099, mw791o, -738148210);
 }
 else if (CMMNo_ == weJNAN)
 {
@@ -270,7 +270,7 @@ case 3:
 K0vn4h = K0vn4h & 2062542475;
 break;
 case 4:
-TcZhUm = s0tU((unsigned short)306219126, -1536415960, lXqig4miGl, 142721968, eYQu);
+TcZhUm = s0tU((unsigned short)306219126, -1536415960, lXqig4miGl, (unsigned short)142721968, eYQu);
 break;
 case 5:
 RM0R = Ya5_gqH95 >> 1349843404;
@@ -306,7 +306,7 @@ case 4:
 CMMNo_ = W1VTS();
 break;
 default:
-K0vn4h = M72x_3g((unsigned char)-1529219693, (short)1885496117, CMMNo_, 1903746262, ZSbT3yv02);
+K0vn4h = M72x_3g((unsigned char)-1529219693, (short)1885496117, CMMNo_, (char)1903746262, ZSbT3yv02);
 break;
 }
 

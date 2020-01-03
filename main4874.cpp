@@ -29,7 +29,7 @@ int main(int argc, char** argv) {
   short  v6AjljLS5;
   v6AjljLS5  =  (short)-1990023454;
  short int Dl_HtmQ4;
- Dl_HtmQ4 = 698637302;
+ Dl_HtmQ4 = (short)698637302;
     unsigned short int    lLS4Xh0br;
     lLS4Xh0br    =    -1982951149;
     unsigned char    YHXK79;
@@ -59,7 +59,7 @@ int main(int argc, char** argv) {
   char  zG3r0;
   zG3r0  =  (char)-1942080029;
     unsigned short    zHGgk9;
-    zHGgk9    =    -1035358874;
+    zHGgk9    =    (unsigned short)-1035358874;
  unsigned long t9aDY;
  t9aDY = 177656367;
 	int	hxe97z0;
@@ -71,7 +71,7 @@ int main(int argc, char** argv) {
   unsigned char  rUmR;
   rUmR  =  (unsigned char)-289411409;
   short  hV_P2;
-  hV_P2  =  -404099417;
+  hV_P2  =  (short)-404099417;
     int    pFnFF;
     pFnFF    =    1437166348;
 	short int	Q21G4RbOH7;
@@ -89,7 +89,7 @@ int main(int argc, char** argv) {
 	unsigned long	tt6uh;
 	tt6uh	=	650826449;
  short FTjqn;
- FTjqn = -1291217370;
+ FTjqn = (short)-1291217370;
   unsigned short int  HcO8aV76;
   HcO8aV76  =  -1766202154;
  unsigned char yiZO4;
@@ -113,7 +113,7 @@ int main(int argc, char** argv) {
     float    KVPhc5dqKB;
     KVPhc5dqKB    =    912724659;
  char d9gd2i;
- d9gd2i = -716877041;
+ d9gd2i = (char)-716877041;
   int  f096gSjQ_;
   f096gSjQ_  =  1541609642;
   long double  ElaROT;
@@ -182,7 +182,7 @@ case 7:
 ElaROT = (int)ceil(gS_l4xW);
 break;
 case 8:
-yD7H7WP = M03jt(-1691895011, -1732815202);
+yD7H7WP = M03jt(-1691895011, (char)-1732815202);
 break;
 case 9:
 ZT713 = krYu24LjB5(238879794, XJFgVvlfb9, 1345573026);
@@ -413,7 +413,7 @@ yiZO4 = rYLbX35TbT((short)1669277261, (unsigned short)-1594988966);
 }
 else if (KUdV80py <= pN_B_qYpM)
 {
-KVPhc5dqKB = rYLbX35TbT(-1829633858, DzNocV);
+KVPhc5dqKB = rYLbX35TbT((short)-1829633858, DzNocV);
 }
 else if (wozf == V7NTTV)
 {
@@ -536,7 +536,7 @@ case 5:
 V3HIHe = krYu24LjB5(V3HIHe, -1756260287, (unsigned short)-484090222);
 break;
 case 6:
-c784QvROee = IA4kMPoU4(c784QvROee, -1146095332);
+c784QvROee = IA4kMPoU4(c784QvROee, (short)-1146095332);
 break;
 case 7:
 yD7H7WP = M03jt(-1123848893, (char)1507520945);

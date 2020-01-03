@@ -25,7 +25,7 @@ int main(void)
  unsigned long long So918s9p9;
  So918s9p9 = 0;
     short    BuoWe10433;
-    BuoWe10433    =    -639074086;
+    BuoWe10433    =    (short)-639074086;
  float J6iyk_lN;
  J6iyk_lN = -1723356339;
     unsigned char    gIaaxR49;

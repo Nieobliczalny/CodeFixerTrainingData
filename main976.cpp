@@ -48,7 +48,7 @@ int main(void)
  long double r_1pr24 = 1289284759;
 	unsigned int	nrR4WV9x5	=	-1177618441;
     short int    usE8o    =    (short)1238079260;
-	unsigned short int	unc8Qy_HlQ	=	1443828178;
+	unsigned short int	unc8Qy_HlQ	=	(unsigned short)1443828178;
  long double Bd07s = 2134814919;
   long double  Mc76en5  =  684080220;
  short int eTOx = -672178398;
@@ -80,7 +80,7 @@ int main(void)
 	float	Ab_T	=	-522235952;
   short  ySj10W02e  =  (short)1254132144;
 	int	unSb	=	1511365192;
-	short int	j7Yn15613D	=	-655832172;
+	short int	j7Yn15613D	=	(short)-655832172;
 	long double	w3r6Z2Oj	=	-1058378987;
 	short	Y2ht9P7c	=	-1784734397;
 	char	qfSZVJ	=	340713809;
@@ -94,7 +94,7 @@ int main(void)
 	long double	f196V	=	-1457060049;
  long double Xue_v818e = 1727990032;
  long long L4WVJrx8W = 1995066105;
-    unsigned char    xhHo    =    1325273144;
+    unsigned char    xhHo    =    (unsigned char)1325273144;
 	unsigned char	ty6Zz_080	=	-887743150;
 	long long	d92C	=	118727361;
  unsigned short int pJPd9qy = 0;
@@ -104,7 +104,7 @@ int main(void)
 	char	zFIxS1_eH_	=	-1515299540;
   char  jOE_R_  =  -1225704672;
 	int	g0L9T1fUw	=	-1094883193;
-	char	D141	=	198508201;
+	char	D141	=	(char)198508201;
     double    v9V6L    =    -1435002282;
     float    d73aGOr25D    =    -1294652765;
  unsigned long long y7xZKv = 1471932315;
@@ -117,7 +117,7 @@ int main(void)
 	unsigned long	ZrgZf0	=	-1262994182;
     unsigned short    d___    =    (unsigned short)-150267102;
 	unsigned long long	d1vMR826	=	16765854;
-  short  dIlM  =  -1846180538;
+  short  dIlM  =  (short)-1846180538;
     unsigned char    t0D31Pp3    =    1139845551;
   double  gRJ4cy0D5  =  890002570;
 
@@ -161,7 +161,7 @@ case 3:
 mNkGSF8V = AT2D581tK(mNkGSF8V, xhHo, (short)886982853);
 break;
 case 4:
-YQf4Y_8 = X5u_w667(YQf4Y_8, K503Ln, -663147525);
+YQf4Y_8 = X5u_w667(YQf4Y_8, K503Ln, (short)-663147525);
 break;
 case 5:
 UMeAuEx += gRJ4cy0D5;
@@ -253,7 +253,7 @@ pJPd9qy = tiX_A_(T443, (short)983285250, zFIxS1_eH_, 920963081, BKVi6al8);
 break;
 }
 }
-CQfK_ = X5u_w667((short)-2063743238, -1084737759, YQf4Y_8);
+CQfK_ = X5u_w667((short)-2063743238, (char)-1084737759, YQf4Y_8);
 pJPd9qy = tiX_A_(xoPK9k, 1733942695, w3r6Z2Oj, NDDM, -1287030808);
 
 qfSZVJ = dIlM << 1647968592;

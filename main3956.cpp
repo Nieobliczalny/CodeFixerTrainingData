@@ -29,7 +29,7 @@ int main(int argc, char** argv) {
 	unsigned long long	ewost2B9fA	=	0;
   unsigned short  GYJw  =  (unsigned short)-51230316;
  char p3moTFv = 0;
- unsigned char k0oG = -967111698;
+ unsigned char k0oG = (unsigned char)-967111698;
   short int  u8ZRk  =  239437978;
     short    gDjQN7G3    =    -348797991;
 
@@ -116,7 +116,7 @@ J8hr10E_ = O6IqCX9X(SWOMz, 2130324935, J8hr10E_, -1614665585);
 
 std::cout << po2UX37C49(-769031208, (char)-1051748447, J8hr10E_, (unsigned short)-1163330816, ewost2B9fA) << std::endl;
 
-std::cout << "rcT4Q" << GYJw << "iUVf" << lJ53() << po2UX37C49(-1485626790, 1602490155, J8hr10E_, R6RdLP, -824874420) << std::endl;
+std::cout << "rcT4Q" << GYJw << "iUVf" << lJ53() << po2UX37C49(-1485626790, (char)1602490155, J8hr10E_, R6RdLP, -824874420) << std::endl;
 
 for (int i = 0; i < 2; ++i)
 {

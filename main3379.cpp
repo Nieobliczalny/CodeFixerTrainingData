@@ -58,7 +58,7 @@ int main(int argc, char** argv) {
     long double    l9S4J;
     l9S4J    =    -645298554;
 	unsigned char	RgL8_1Q;
-	RgL8_1Q	=	-1959469505;
+	RgL8_1Q	=	(unsigned char)-1959469505;
 	double	EcR4XIQF;
 	EcR4XIQF	=	-930595389;
 	short int	go45k;
@@ -82,7 +82,7 @@ int main(int argc, char** argv) {
     short int    A835;
     A835    =    (short)-787858758;
     short    j53gsD_l2;
-    j53gsD_l2    =    387648565;
+    j53gsD_l2    =    (short)387648565;
   short int  i7v6Xm;
   i7v6Xm  =  (short)135632062;
  long double a6S2;
@@ -104,7 +104,7 @@ int main(int argc, char** argv) {
 	short	mMacg_hLc1;
 	mMacg_hLc1	=	(short)-999953635;
     short int    d0T98xjO_x;
-    d0T98xjO_x    =    -137952863;
+    d0T98xjO_x    =    (short)-137952863;
  long long avxgL_1r;
  avxgL_1r = 1066817488;
   short  e1Iq68;
@@ -116,7 +116,7 @@ int main(int argc, char** argv) {
   unsigned short int  gRoZxrEp1K;
   gRoZxrEp1K  =  (unsigned short)593883455;
 	short	mZ2lLm4;
-	mZ2lLm4	=	-158101852;
+	mZ2lLm4	=	(short)-158101852;
     float    Cvc0BY;
     Cvc0BY    =    952914327;
   int  QvwpK096;
@@ -130,7 +130,7 @@ int main(int argc, char** argv) {
  long long fgnu8Ab_Tf;
  fgnu8Ab_Tf = -2072799025;
  short Lc834P;
- Lc834P = -482280319;
+ Lc834P = (short)-482280319;
     long double    y_sAcCh4y;
     y_sAcCh4y    =    -114383033;
 	unsigned short int	XLQOHS2nw2;
@@ -168,7 +168,7 @@ int main(int argc, char** argv) {
  short int Abzf;
  Abzf = (short)-1880866230;
     short    S10E75;
-    S10E75    =    864756603;
+    S10E75    =    (short)864756603;
   short int  CIgKs_O;
   CIgKs_O  =  -883588328;
  short int NBOx99mrw;
@@ -210,7 +210,7 @@ int main(int argc, char** argv) {
 	char	tqW_ouq5tH;
 	tqW_ouq5tH	=	(char)-1804582698;
  unsigned short int vpHDsZ;
- vpHDsZ = -662614161;
+ vpHDsZ = (unsigned short)-662614161;
     int    vVJ3y8Ya4;
     vVJ3y8Ya4    =    235482828;
     unsigned short int    ec79T;
@@ -252,7 +252,7 @@ H9eRFHAg = g_w3N_hdED(RSt_, (unsigned short)1255005124, (short)-1556107661);
 }
 else if (a6S2)
 {
-H9eRFHAg = g_w3N_hdED(RgL8_1Q, -2141184251, -1646435718);
+H9eRFHAg = g_w3N_hdED(RgL8_1Q, (unsigned short)-2141184251, -1646435718);
 }
 else if (Abzf == -465221735)
 {

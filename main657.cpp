@@ -42,7 +42,7 @@ int main() {
   unsigned short  eWFU40OGH;
   eWFU40OGH  =  (unsigned short)1240773845;
 	short int	Wcc9n;
-	Wcc9n	=	-1798392912;
+	Wcc9n	=	(short)-1798392912;
  unsigned int qIp_Om;
  qIp_Om = 1015568097;
 	unsigned char	h3tyr6Uf_;
@@ -54,7 +54,7 @@ int main() {
   long double  HH5Kug1;
   HH5Kug1  =  -1642441214;
 	unsigned short	PIp2KD881;
-	PIp2KD881	=	1862767122;
+	PIp2KD881	=	(unsigned short)1862767122;
  long pkUPE;
  pkUPE = 1932475116;
     unsigned long    dY7PW_vI;
@@ -68,7 +68,7 @@ int main() {
  short int eES1tYsD5;
  eES1tYsD5 = (short)-2100971963;
 	short	iKT9_nFr0e;
-	iKT9_nFr0e	=	-1371813558;
+	iKT9_nFr0e	=	(short)-1371813558;
  long long VtadXqYn;
  VtadXqYn = -325427211;
     unsigned char    yyOS;
@@ -86,7 +86,7 @@ int main() {
     unsigned long    oSJF7_lZ0u;
     oSJF7_lZ0u    =    -1798597523;
  short R_OS;
- R_OS = 2032945052;
+ R_OS = (short)2032945052;
 	unsigned int	V7Fd;
 	V7Fd	=	257271158;
   unsigned short  Z486__H;
@@ -96,7 +96,7 @@ int main() {
 	char	FSH_aXV7;
 	FSH_aXV7	=	-327749658;
 	short int	d1Y1Wm;
-	d1Y1Wm	=	175340059;
+	d1Y1Wm	=	(short)175340059;
   unsigned short  Q5ir9;
   Q5ir9  =  973726120;
   float  HJ02HK;
@@ -335,7 +335,7 @@ Jg2FB += eWFU40OGH;
 }
 }
 Z486__H = iKT9_nFr0e - V7Fd;
-eWFU40OGH = (eWFU40OGH < -579489728) ? -842668561 : 189456495;
+eWFU40OGH = (eWFU40OGH < -579489728) ? (unsigned short)-842668561 : 189456495;
 for (int i = 0; i < 6; ++i)
 {
 switch (G2Ad6Az7sK)

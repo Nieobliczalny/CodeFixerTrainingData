@@ -57,7 +57,7 @@ int main(int argc, char** argv)
     int    geWTd24_;
     geWTd24_    =    -1138932736;
  unsigned char x0NbImCOs;
- x0NbImCOs = 2098153316;
+ x0NbImCOs = (unsigned char)2098153316;
  unsigned short int dgc0uW4OP_;
  dgc0uW4OP_ = (unsigned short)823517122;
 	long long	TIShLkM9Rh;
@@ -79,7 +79,7 @@ int main(int argc, char** argv)
   long long  m5AtAneS;
   m5AtAneS  =  -191104064;
  unsigned short int F4kq;
- F4kq = -753557164;
+ F4kq = (unsigned short)-753557164;
     unsigned long long    sQ9O;
     sQ9O    =    -1651215318;
 	double	lf22bh1mXi;
@@ -91,7 +91,7 @@ int main(int argc, char** argv)
  unsigned short int j280AQV;
  j280AQV = (unsigned short)1408136447;
 	unsigned short	E1gJxz02g;
-	E1gJxz02g	=	-436425944;
+	E1gJxz02g	=	(unsigned short)-436425944;
  unsigned short int fTLex;
  fTLex = 1546195208;
  unsigned char ht46Y;
@@ -143,7 +143,7 @@ int main(int argc, char** argv)
   short  nQ9NQ4rvl9;
   nQ9NQ4rvl9  =  (short)1368375791;
     short    UMrNetQ;
-    UMrNetQ    =    927224209;
+    UMrNetQ    =    (short)927224209;
     int    a8M792SG;
     a8M792SG    =    1848341182;
   short  RXUX2;
@@ -320,7 +320,7 @@ cout << eV6dj61524 / S7WBvBA04((unsigned short)305515977) << endl;
 
 if (((X87zOASOS_) || (r_Rk <= 826583791)) && (xO00 < -1612232682))
 {
-cout << S7WBvBA04((unsigned short)158446347) << "UFhME" << wBZO063(GIF56, -1796334245, -180901439) << endl;
+cout << S7WBvBA04((unsigned short)158446347) << "UFhME" << wBZO063(GIF56, (short)-1796334245, -180901439) << endl;
 }
 else if (xO00 > 1888378829)
 {

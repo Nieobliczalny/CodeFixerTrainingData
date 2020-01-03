@@ -278,7 +278,7 @@ case 5:
 NdmHg6_7 = (int)ceil(PG05l4x7zQ);
 break;
 default:
-Ingd = w4WqL_(-1567570664, F0wa1GLb, QFXTZnJ, -515995215);
+Ingd = w4WqL_((short)-1567570664, F0wa1GLb, QFXTZnJ, -515995215);
 break;
 }
 }
@@ -290,7 +290,7 @@ std::cout << "p56899" << mo8OFiW((unsigned char)-435652725, 1901530723) << mo8OF
 }
 else
 {
-std::cout << mo8OFiW(-64924778, F0wa1GLb) << mo8OFiW(322034015, F0wa1GLb) << std::endl;
+std::cout << mo8OFiW((unsigned char)-64924778, F0wa1GLb) << mo8OFiW(322034015, F0wa1GLb) << std::endl;
 }
 }
 for (int i = 3; i >= 0; i--)

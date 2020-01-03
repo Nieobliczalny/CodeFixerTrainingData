@@ -39,7 +39,7 @@ oHekn = sy0T4(1066408665, (unsigned short)-1230344455, -757789302);
 }
 else
 {
-nFnTF6KIm = VutH_S_D((unsigned short)-1472570334, -1669462853, -93441066);
+nFnTF6KIm = VutH_S_D((unsigned short)-1472570334, -1669462853, (short)-93441066);
 }
 j--;
 }
@@ -64,7 +64,7 @@ tRm4JK_ia = QOpFr(tRm4JK_ia, -925676487, (unsigned char)1591336683, (short)-1007
 }
 else if (nFnTF6KIm != 1634242752)
 {
-nFnTF6KIm = VutH_S_D(-1057527285, dkw_QpY, nFnTF6KIm);
+nFnTF6KIm = VutH_S_D((unsigned short)-1057527285, dkw_QpY, nFnTF6KIm);
 }
 else if (f7gq == xST77nbd)
 {
@@ -195,7 +195,7 @@ case 2:
 nFnTF6KIm = VutH_S_D((unsigned short)1088958203, -410587600, (short)822726138);
 break;
 case 3:
-dkw_QpY = sy0T4(577067247, -477953454, V8p7Iq);
+dkw_QpY = sy0T4(577067247, (unsigned short)-477953454, V8p7Iq);
 break;
 case 4:
 s4nun6RO = sy0T4(1100654694, TU5cF, tRm4JK_ia);
@@ -229,7 +229,7 @@ BKCE = dWTO();
 break;
 case 'd':
 case 'D':
-MMVmQ = QOpFr((short)538112347, -2082585621, (unsigned char)-1039196119, -948098271);
+MMVmQ = QOpFr((short)538112347, -2082585621, (unsigned char)-1039196119, (short)-948098271);
 break;
 case 'e':
 case 'E':
@@ -292,7 +292,7 @@ std::cout << VutH_S_D((unsigned short)211516746, TU5cF, (short)1611371823) << BK
 int i = 0;
 while (i < 10)
 {
-Bs8805 = QOpFr(Bs8805, 1526860556, fdHyxmD7m, -924388128);
+Bs8805 = QOpFr(Bs8805, 1526860556, fdHyxmD7m, (short)-924388128);
 i++;
 }
 }
@@ -471,7 +471,7 @@ vpwF5_ = QOpFr(vpwF5_, -795355078, m0jr4lk5A, pT2z);
 break;
 }
 
-h666 = QOpFr((short)-758236955, g5F52, 2107405888, pT2z) / cQ1Kt2R;
+h666 = QOpFr((short)-758236955, g5F52, (unsigned char)2107405888, pT2z) / cQ1Kt2R;
 
 {
 int i = 1;
@@ -553,7 +553,7 @@ I6Pep = (unsigned char)(h666);
 
 if (T_sw > -1520507402)
 {
-std::cout << sy0T4(-1791816036, (unsigned short)-1538326458, V8p7Iq) << VutH_S_D((unsigned short)-682801841, IsmxK, 863840406) << vokEbK5650 << sy0T4(dkw_QpY, IsmxK, V8p7Iq) << VutH_S_D(dkw_QpY, IsmxK, 597468496) << std::endl;
+std::cout << sy0T4(-1791816036, (unsigned short)-1538326458, V8p7Iq) << VutH_S_D((unsigned short)-682801841, IsmxK, (short)863840406) << vokEbK5650 << sy0T4(dkw_QpY, IsmxK, V8p7Iq) << VutH_S_D(dkw_QpY, IsmxK, 597468496) << std::endl;
 }
 else
 {

@@ -24,7 +24,7 @@ int main(int argc, char** argv) {
     char    bKNI1fX,    GzFrz,    b47E5L18e,    mJM9epFM,    Ku2Hn,    u9nXhJ3jwY,    Pm9JKyzI2,    mmKPT2hZD,    D56o3_p,    wEJyegK0R,    N4B_4,    dyqz3R_8,    XN37,    Kl5I,    PA8D_lw,    DjJb2cm4,    kMgC9qaym5,    WwkkN8_biq,    qEWi6I1,    at20iaZ,    l90GRL,    RMfe_,    vZS5o,    tf3m_Sc,    vtYi9,    ZX09q4GVs,    fh19KX63m,    fXw2_RnT_L,    Me5QtXka7,    EQiGEdA3,    ZKWD,    tQsZ45gZ8,    z_VYlzJO,    E8rNW4s,    bww_ixeb,    x6bROe,    IlXGl,    QL4h3,    R3KJIpY2V,    TUU7vh6kGT,    c8W50Ha,    rA0df,    kIY_2LNY8J,    sykIPIIQ0V,    u47yo6fJ,    XY69o49305,    fpd2BNH0i,    kIp1mRR7zY,    gQj3Ep,    m46GaOf,    Q7IGd_3r,    D92gayjJo,    Y1jvjFYY,    oq9202fJY,    Mof95J,    yW1q0sc,    Ds1i,    YI_CT100,    DFnksZ1O,    J89s,    gLh8,    CN0a9YE,    p2m1,    C2csU8U,    YRy8OPJV5e,    pM9gRicIO,    h2c37y554e,    trdyyPg,    z2CH,    Px_qZ__vh,    cX4m,    QnD6eEd5ec,    M1d6,    oxM647,    vDX4U2,    rOUd00SZYa,    zQ439R_NL_;
     bKNI1fX    =    (char)-1229962560;
     GzFrz    =    (char)21152466;
-    b47E5L18e    =    -2141096579;
+    b47E5L18e    =    (char)-2141096579;
     mJM9epFM    =    419121193;
     Ku2Hn    =    1084680302;
     u9nXhJ3jwY    =    1819425078;
@@ -34,7 +34,7 @@ int main(int argc, char** argv) {
     wEJyegK0R    =    1992223740;
     N4B_4    =    (char)803797281;
     dyqz3R_8    =    (char)-1756826215;
-    XN37    =    -1180075958;
+    XN37    =    (char)-1180075958;
     Kl5I    =    869504863;
     PA8D_lw    =    1871825454;
     DjJb2cm4    =    -1029187150;
@@ -44,7 +44,7 @@ int main(int argc, char** argv) {
     at20iaZ    =    -1993536882;
     l90GRL    =    (char)-1173423933;
     RMfe_    =    (char)-1611416823;
-    vZS5o    =    1331142318;
+    vZS5o    =    (char)1331142318;
     tf3m_Sc    =    1791677849;
     vtYi9    =    1227065562;
     ZX09q4GVs    =    1156553434;
@@ -54,7 +54,7 @@ int main(int argc, char** argv) {
     EQiGEdA3    =    54148747;
     ZKWD    =    (char)-376614102;
     tQsZ45gZ8    =    (char)1116720023;
-    z_VYlzJO    =    -2069949524;
+    z_VYlzJO    =    (char)-2069949524;
     E8rNW4s    =    -1569467647;
     bww_ixeb    =    -1668225459;
     x6bROe    =    -814227620;
@@ -64,7 +64,7 @@ int main(int argc, char** argv) {
     TUU7vh6kGT    =    1726476422;
     c8W50Ha    =    (char)-1444910279;
     rA0df    =    (char)-1945702980;
-    kIY_2LNY8J    =    1100654696;
+    kIY_2LNY8J    =    (char)1100654696;
     sykIPIIQ0V    =    1697994021;
     u47yo6fJ    =    -711997946;
     XY69o49305    =    604849517;
@@ -74,7 +74,7 @@ int main(int argc, char** argv) {
     m46GaOf    =    -1685816197;
     Q7IGd_3r    =    (char)-1822516243;
     D92gayjJo    =    (char)-1687182945;
-    Y1jvjFYY    =    -651227035;
+    Y1jvjFYY    =    (char)-651227035;
     oq9202fJY    =    -1471245618;
     Mof95J    =    -577177505;
     yW1q0sc    =    -1939489669;
@@ -84,7 +84,7 @@ int main(int argc, char** argv) {
     J89s    =    -1500886045;
     gLh8    =    (char)1521152526;
     CN0a9YE    =    (char)305054043;
-    p2m1    =    741741270;
+    p2m1    =    (char)741741270;
     C2csU8U    =    -1832187136;
     YRy8OPJV5e    =    -2130382430;
     pM9gRicIO    =    1473699346;
@@ -94,7 +94,7 @@ int main(int argc, char** argv) {
     Px_qZ__vh    =    -1557258528;
     cX4m    =    (char)89206869;
     QnD6eEd5ec    =    (char)-649576988;
-    M1d6    =    387404685;
+    M1d6    =    (char)387404685;
     oxM647    =    -876892859;
     vDX4U2    =    1262059996;
     rOUd00SZYa    =    -361629143;
@@ -122,7 +122,7 @@ yW1q0sc = hGkVwZy57(yW1q0sc, (unsigned char)2145472474, -985598905, bKNI1fX, (un
 }
 else
 {
-tQsZ45gZ8 = hGkVwZy57(tQsZ45gZ8, -507149805, x6bROe, -1717333019, -2082758728);
+tQsZ45gZ8 = hGkVwZy57(tQsZ45gZ8, (unsigned char)-507149805, x6bROe, -1717333019, -2082758728);
 }
 }
 catch (int& errorCode)
@@ -137,7 +137,7 @@ RMfe_ = (int)abs(bKNI1fX);
 }
 }
 
-std::cout << hGkVwZy57(ZX09q4GVs, (unsigned char)1183408763, trdyyPg, (short)1897359648, -1876336257) << std::endl;
+std::cout << hGkVwZy57(ZX09q4GVs, (unsigned char)1183408763, trdyyPg, (short)1897359648, (unsigned short)-1876336257) << std::endl;
 
 gQj3Ep *= p2m1;
 return 0;

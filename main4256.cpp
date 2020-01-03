@@ -36,7 +36,7 @@ int main(int argc, char** argv) {
  long double Ccwa_W8 = -800572194;
     char    L771    =    (char)915270743;
     unsigned short int    W93HH227HA    =    (unsigned short)985492133;
- char r9rc84p8yX = -361516921;
+ char r9rc84p8yX = (char)-361516921;
 	float	QAMJOf	=	-1715989162;
 	long long	disb1	=	541157732;
   unsigned long long  BAj214P  =  -1235505456;
@@ -52,7 +52,7 @@ int main(int argc, char** argv) {
   unsigned short int  VpkAeI  =  (unsigned short)377369474;
  unsigned long long d89Rt6xu_U = 628059491;
 	long double	BKIW_h	=	1385671821;
- short int seWIG7Q8 = -114974144;
+ short int seWIG7Q8 = (short)-114974144;
     float    b66N8jAL    =    138947023;
 	long	T75a	=	1465197864;
 	short int	RzK1f	=	2121337615;
@@ -65,7 +65,7 @@ int main(int argc, char** argv) {
  unsigned char MXhL = 0;
  unsigned long p9gQQDq = -1018841935;
 	long long	sOw88Hu0	=	-904017321;
-	short	oayTh	=	-656899071;
+	short	oayTh	=	(short)-656899071;
   short int  zBpTf5_dkG  =  (short)1919148825;
 	char	uDKJ	=	1097994409;
 	int	hC_L	=	0;
@@ -81,7 +81,7 @@ int main(int argc, char** argv) {
     long double    QCqK8R    =    762444458;
   unsigned long  DiH5FtH8  =  191637562;
 	int	P65qyc	=	1110475292;
-	unsigned short int	t9p5	=	-1547060158;
+	unsigned short int	t9p5	=	(unsigned short)-1547060158;
 	int	PLOda	=	703628434;
     short    KPvv0bj    =    (short)-586233931;
 	short int	JwKKTAb48	=	1945285899;
@@ -99,7 +99,7 @@ int main(int argc, char** argv) {
   int  eS6O8d1  =  -1562403647;
  long long lzOT9rEjS = -708341565;
   float  bxhb  =  263743510;
- short jiO8W = -1041704691;
+ short jiO8W = (short)-1041704691;
  float PX_27s = -1652257183;
  long long mpF2ELv598 = -1997487552;
  short int T50f9 = (short)-1309558560;
@@ -109,7 +109,7 @@ int main(int argc, char** argv) {
   char  ajt2w7lu3Q  =  90215216;
 	long long	gS7696_0	=	1141360600;
   float  ho4dxyISc  =  -868514456;
-    short    Jk0sHvwn    =    485870515;
+    short    Jk0sHvwn    =    (short)485870515;
  unsigned char ND4Gnqjv = -2145512924;
 	int	l4El7M15_1	=	0;
 	unsigned short	u93yWMeIf	=	(unsigned short)1247173156;
@@ -300,7 +300,7 @@ std::cout << gm_XZul(-59478333, PA2_3, tnv0, lzOT9rEjS) << gm_XZul(Il3lq, PA2_3,
 SIW3 /= 361996253;
 
 JwKKTAb48 = QCqK8R / l4El7M15_1;
-JwKKTAb48 = gm_XZul(JwKKTAb48, 1032532033, -1249738590, L771);
+JwKKTAb48 = gm_XZul(JwKKTAb48, 1032532033, (short)-1249738590, L771);
 SIW3 -= 2112481421;
 
 b66N8jAL = (int)ceil(BKIW_h);

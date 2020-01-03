@@ -123,7 +123,7 @@ oG3w0 = (double)(hD624 + (-197950555));
 for (int i = jTgWpoot(A_n07V); i < 62; i++)
 {
 c3f2PHCfF = 2046053004 / jTgWpoot(A_n07V);
-	cz8_LI = g23piC_1t((unsigned char)1844513228, (char)-860504944, 1665538812, xzZa, -666127201) / i;
+	cz8_LI = g23piC_1t((unsigned char)1844513228, (char)-860504944, (short)1665538812, xzZa, -666127201) / i;
 switch (uhS5Rw8Pg)
 {
 case 0:
@@ -243,7 +243,7 @@ uhS5Rw8Pg = jTgWpoot(I8S1W_t);
 }
 else
 {
-std::cout << "y95504Rc" << g23piC_1t(I8S1W_t, (char)-225178031, (short)-286304478, 759813636, pgKZAftm) << g23piC_1t(479465948, 4172271, oG3w0, D67p, pgKZAftm) << jTgWpoot(1548599299) << jTgWpoot(I8S1W_t) << std::endl;
+std::cout << "y95504Rc" << g23piC_1t(I8S1W_t, (char)-225178031, (short)-286304478, 759813636, pgKZAftm) << g23piC_1t((unsigned char)479465948, 4172271, oG3w0, D67p, pgKZAftm) << jTgWpoot(1548599299) << jTgWpoot(I8S1W_t) << std::endl;
 }
 }
 }

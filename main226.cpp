@@ -67,7 +67,7 @@ if (VBbij > lPX40l5i)
 {
 try
 {
-LiW30 = d9rPSoz8r((unsigned char)690170808, HDOu, 706538629);
+LiW30 = d9rPSoz8r((unsigned char)690170808, HDOu, (unsigned short)706538629);
 }
 catch (int& errorCode)
 {

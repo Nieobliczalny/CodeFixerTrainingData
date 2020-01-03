@@ -23,7 +23,7 @@ int main(int argc, char** argv)
     unsigned char    nSvk,    Qd4AA3,    P5BbsMwwxZ,    uYGF93,    q5mb_a,    vt00,    wI_RF3kJ,    Zrz98y,    s4rvjtAE,    oawa0Z,    RV6e14,    l3d38ax12,    q_uv_e2sIa,    mATpMQu877,    ZcqsX,    VQNDVy,    Pwt_J9KB9O,    nNvd2Mg,    eHy6HyLKWb,    R_C9O7Q4vR,    SbKma,    gjRt00COe,    J1xu6N7278,    sSGF_9xA,    pk1xPu,    Ko2I68v7m,    d2_58,    Wb6nZCWyUI,    h88Sw9de_,    oN0zP,    x2Hf5u,    m_gkJtAPz0,    X8lvR,    nR2i6J6i,    kXkp84,    EZ5bgws9,    zZY6e,    IpI6_Bp0O,    khpt9Z,    PKQ3b1,    y1R9lSW,    oHbFMcZ;
     nSvk    =    (unsigned char)-1092235285;
     Qd4AA3    =    (unsigned char)1359339854;
-    P5BbsMwwxZ    =    -1453979211;
+    P5BbsMwwxZ    =    (unsigned char)-1453979211;
     uYGF93    =    -1685115737;
     q5mb_a    =    -1437564514;
     vt00    =    553484429;
@@ -33,7 +33,7 @@ int main(int argc, char** argv)
     oawa0Z    =    2064296190;
     RV6e14    =    (unsigned char)343755228;
     l3d38ax12    =    (unsigned char)-843226499;
-    q_uv_e2sIa    =    44194946;
+    q_uv_e2sIa    =    (unsigned char)44194946;
     mATpMQu877    =    2128872013;
     ZcqsX    =    -1820674742;
     VQNDVy    =    -342427376;
@@ -43,7 +43,7 @@ int main(int argc, char** argv)
     R_C9O7Q4vR    =    -2110791329;
     SbKma    =    (unsigned char)-967147536;
     gjRt00COe    =    (unsigned char)1628985678;
-    J1xu6N7278    =    -2117959230;
+    J1xu6N7278    =    (unsigned char)-2117959230;
     sSGF_9xA    =    -575263741;
     pk1xPu    =    1878288879;
     Ko2I68v7m    =    447602612;
@@ -53,7 +53,7 @@ int main(int argc, char** argv)
     oN0zP    =    1812611939;
     x2Hf5u    =    (unsigned char)-71472553;
     m_gkJtAPz0    =    (unsigned char)-1524861274;
-    X8lvR    =    1662156670;
+    X8lvR    =    (unsigned char)1662156670;
     nR2i6J6i    =    318302566;
     kXkp84    =    1910214915;
     EZ5bgws9    =    275620476;
@@ -374,7 +374,7 @@ case 4:
 Ix27rvCYb = T3S4l(Ix27rvCYb, (unsigned char)1197863000);
 break;
 case 5:
-bmlH = T3S4l(-2139525963, 142631338);
+bmlH = T3S4l(-2139525963, (unsigned char)142631338);
 break;
 default:
 FN69Ojp = (int)abs(bmlH);

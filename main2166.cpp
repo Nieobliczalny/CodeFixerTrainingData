@@ -27,7 +27,7 @@ int main() {
     unsigned long long    I9ns;
     I9ns    =    1870990209;
  unsigned char wtAd3;
- wtAd3 = -925169809;
+ wtAd3 = (unsigned char)-925169809;
 	short int	c84k;
 	c84k	=	(short)-1069455353;
 	short int	ySTP;
@@ -53,7 +53,7 @@ int main() {
  unsigned long ClFy49u;
  ClFy49u = -1549580611;
  short EukBZ;
- EukBZ = 311580107;
+ EukBZ = (short)311580107;
     char    TJ8C;
     TJ8C    =    -1527834038;
     unsigned long    n4A7;
@@ -79,7 +79,7 @@ int main() {
 	char	CqKVCpXI;
 	CqKVCpXI	=	(char)1962832956;
 	unsigned short int	tnLjr;
-	tnLjr	=	1185573860;
+	tnLjr	=	(unsigned short)1185573860;
  unsigned short int E2Ma3LF1f;
  E2Ma3LF1f = -1991483204;
  long long hBb1q;
@@ -273,7 +273,7 @@ Sr11166 = (int)ceil(ghFUkCfz20);
 }
 else if (Ffp7uOqSR > qpUAk)
 {
-T16Gb = d4bP_m44K((unsigned short)277910676, (unsigned short)2066835106, Sr11166, -962756851, T16Gb);
+T16Gb = d4bP_m44K((unsigned short)277910676, (unsigned short)2066835106, Sr11166, (unsigned char)-962756851, T16Gb);
 }
 else if ((Zg9VNC1E7 <= R047W_ndx) && (rPKQD017 != l8Vd5fiJ))
 {
@@ -340,7 +340,7 @@ K_2D5 = R5d_(-1202808442);
 
 Sr11166 = (int)abs(c84k);
 
-std::cout << "Z7yUl8ZV" << c6THq48(2121767625, (short)1043988881, (char)72802226, 1285366744) << std::endl;
+std::cout << "Z7yUl8ZV" << c6THq48(2121767625, (short)1043988881, (char)72802226, (unsigned short)1285366744) << std::endl;
 if (T16Gb == 0)
 {
 	fU0lIGBEu = WGW9_c7J_u / T16Gb;

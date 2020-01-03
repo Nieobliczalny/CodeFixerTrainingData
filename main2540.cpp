@@ -81,7 +81,7 @@ int main()
 	char	bJ_K3Z;
 	bJ_K3Z	=	(char)678066482;
   unsigned char  A5FD;
-  A5FD  =  -1558577166;
+  A5FD  =  (unsigned char)-1558577166;
  short int Z4q7;
  Z4q7 = -688307766;
     long    Jd22vR3;
@@ -103,7 +103,7 @@ int main()
 	unsigned long	b0FaK7;
 	b0FaK7	=	-1176810668;
     char    AHo235;
-    AHo235    =    -124215835;
+    AHo235    =    (char)-124215835;
 	float	Ji03Th6F;
 	Ji03Th6F	=	1607007194;
 	unsigned long long	Q85W1t;
@@ -117,7 +117,7 @@ int main()
     float    y3_4W;
     y3_4W    =    -793113862;
   unsigned char  zPkIrKkKyH;
-  zPkIrKkKyH  =  1200766961;
+  zPkIrKkKyH  =  (unsigned char)1200766961;
     unsigned long    T1jj3p5QF;
     T1jj3p5QF    =    -1443798581;
     int    pk9x271DBH;
@@ -135,7 +135,7 @@ int main()
   unsigned int  qm1RYdzj;
   qm1RYdzj  =  1549432575;
     short int    BA_b;
-    BA_b    =    -922873834;
+    BA_b    =    (short)-922873834;
   int  qET59;
   qET59  =  874729598;
   short  LhlBDhb;
@@ -157,7 +157,7 @@ int main()
 	int	y4ay;
 	y4ay	=	1310603372;
   char  sys_319;
-  sys_319  =  1499005607;
+  sys_319  =  (char)1499005607;
  unsigned char VR5gUM;
  VR5gUM = (unsigned char)1194080979;
  double M_n8;
@@ -167,7 +167,7 @@ int main()
 	char	OXhK;
 	OXhK	=	-1834832240;
   unsigned short int  pzh4;
-  pzh4  =  -1513309587;
+  pzh4  =  (unsigned short)-1513309587;
 	int	vJKU5;
 	vJKU5	=	-1004303736;
  unsigned int V_hg;
@@ -181,7 +181,7 @@ int main()
   unsigned short int  ukg2N;
   ukg2N  =  (unsigned short)-2000865085;
   char  I1dN5z_QN;
-  I1dN5z_QN  =  -1064932191;
+  I1dN5z_QN  =  (char)-1064932191;
  short int GA6_k;
  GA6_k = (short)-376118573;
     long double    e5H7S77;
@@ -291,7 +291,7 @@ case 4:
 A43p92At = EYB13veV(A43p92At, AHo235, (char)-220279887, (short)-1549974694);
 break;
 case 5:
-LK_a54_C3 = YkSuZtW(-521464069);
+LK_a54_C3 = YkSuZtW((unsigned char)-521464069);
 break;
 case 6:
 bf27CV = OXKeqy();
@@ -303,7 +303,7 @@ case 8:
 V_hg = EYB13veV(-1432020361, QJPc_P8, (char)-1089414465, (short)-2104445645);
 break;
 case 9:
-M_n8 = EYB13veV(M_n8, Vq7i89Geo, -1851681920, 1631330318);
+M_n8 = EYB13veV(M_n8, Vq7i89Geo, (char)-1851681920, 1631330318);
 break;
 default:
 Vq7i89Geo = YkSuZtW(M_n8) << dtIJQ5;
@@ -337,7 +337,7 @@ case 'c':
 wYb2 = EYB13veV(wYb2, Lp_as, (char)-1832840170, (short)-615259955);
 break;
 case 'd':
-yxW6MHW7c_ = EYB13veV(976324679, M_n8, Xuoz_p2f, -981248872);
+yxW6MHW7c_ = EYB13veV(976324679, M_n8, Xuoz_p2f, (short)-981248872);
 break;
 case 'e':
 y3_4W = (int)abs(kvd0);

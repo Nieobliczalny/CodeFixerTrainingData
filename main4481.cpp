@@ -40,7 +40,7 @@ int main(int argc, char** argv)
 	unsigned long long	IYnpz5UXZW	=	-691619565;
   unsigned int  gL56746q  =  1422453209;
  char guq226 = 0;
-    unsigned char    mHO11Trnp    =    987357251;
+    unsigned char    mHO11Trnp    =    (unsigned char)987357251;
  double h04lD = -1673466315;
 	unsigned long long	QdpbZL__7	=	-601227747;
 
@@ -128,7 +128,7 @@ G63Sj8o = fcXrU3dcp4((unsigned char)-1916842486, -849201687, (unsigned short)121
 }
 else
 {
-guq226 = fcXrU3dcp4(1971776991, -1166008784, h2l411, hlvai);
+guq226 = fcXrU3dcp4((unsigned char)1971776991, -1166008784, h2l411, hlvai);
 }
 }
 else if ((Wh2aI) || (L3284196 < -1402456014))

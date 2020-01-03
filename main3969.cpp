@@ -264,7 +264,7 @@ if (((ErkV0 < -1399628267) && (hV39sWWn < 1274678754)) && (x1LDGYdHb0 <= GV2_JJ_
 int j = 0;
 while (j < 9)
 {
-hV39sWWn = R_CPAF((unsigned char)260384011, -239486973, (unsigned short)695843401, A2_L30UF8s, -1703852528);
+hV39sWWn = R_CPAF((unsigned char)260384011, -239486973, (unsigned short)695843401, A2_L30UF8s, (short)-1703852528);
 j++;
 }
 }
@@ -358,7 +358,7 @@ hV39sWWn = C611EsRH(hV39sWWn, n5M7sdRmC, 684003445, dK17__, -551849803);
 }
 }
 
-cout << "m27AJ0cw" << C611EsRH((unsigned short)-432030648, 1997023514, -854291149, 291603853, x1LDGYdHb0) << x1LDGYdHb0 << "JI5M6" << endl;
+cout << "m27AJ0cw" << C611EsRH((unsigned short)-432030648, 1997023514, -854291149, (short)291603853, x1LDGYdHb0) << x1LDGYdHb0 << "JI5M6" << endl;
 for (int i = 8; i >= 0; --i)
 {
 {
@@ -398,7 +398,7 @@ A2_L30UF8s = nNG8_(292467748, (short)1000044055);
 }
 else
 {
-FoShLZQ = yLNT(FoShLZQ, (unsigned short)-619434480, HZh58qSc_P, 143523385, 11214392);
+FoShLZQ = yLNT(FoShLZQ, (unsigned short)-619434480, HZh58qSc_P, (unsigned short)143523385, 11214392);
 }
 }
 else
@@ -438,7 +438,7 @@ j++;
 }
 }
 
-cout << C611EsRH((unsigned short)-217010552, FoShLZQ, 1987970042, n5M7sdRmC, 691631017) << C611EsRH((unsigned short)394801160, -2079271420, ErkV0, -282087813, -1153168173) << dK17__ << yLNT(hV39sWWn, FoShLZQ, ErkV0, n5M7sdRmC, HZh58qSc_P) << endl;
+cout << C611EsRH((unsigned short)-217010552, FoShLZQ, 1987970042, n5M7sdRmC, 691631017) << C611EsRH((unsigned short)394801160, -2079271420, ErkV0, (short)-282087813, -1153168173) << dK17__ << yLNT(hV39sWWn, FoShLZQ, ErkV0, n5M7sdRmC, HZh58qSc_P) << endl;
 
 for (int i = 0; i < 10; ++i)
 {
@@ -472,7 +472,7 @@ case 6:
 dK17__ = yLNT(hV39sWWn, dK17__, -390681980, (unsigned short)-185507421, FoShLZQ);
 break;
 case 7:
-A2_L30UF8s = C611EsRH(495200287, 874142696, 2031171544, n5M7sdRmC, hV39sWWn);
+A2_L30UF8s = C611EsRH((unsigned short)495200287, 874142696, 2031171544, n5M7sdRmC, hV39sWWn);
 break;
 case 8:
 n5M7sdRmC = (int)abs(ErkV0) + (248552927);
@@ -508,7 +508,7 @@ else
 {
 for (int k = 8; k >= 0; k--)
 {
-hV39sWWn = R_CPAF(HZh58qSc_P, A2_L30UF8s, (unsigned short)1243742911, -1801573326, -310411403) / dK17__;
+hV39sWWn = R_CPAF(HZh58qSc_P, A2_L30UF8s, (unsigned short)1243742911, -1801573326, (short)-310411403) / dK17__;
 }
 }
 }
@@ -524,7 +524,7 @@ case 2:
 A2_L30UF8s = R_CPAF(A2_L30UF8s, -856671403, HZh58qSc_P, hV39sWWn, (short)-1865697293);
 break;
 case 3:
-HZh58qSc_P = yLNT(337359421, (unsigned short)-973951301, -415599972, -717186855, FoShLZQ);
+HZh58qSc_P = yLNT(337359421, (unsigned short)-973951301, -415599972, (unsigned short)-717186855, FoShLZQ);
 break;
 case 4:
 n5M7sdRmC = nNG8_(n5M7sdRmC, -1056981465);
@@ -559,7 +559,7 @@ else if (((x1LDGYdHb0 >= dK17__) || (HZh58qSc_P > hV39sWWn)) && ((ErkV0 & GV2_JJ
 {
 try
 {
-x1LDGYdHb0 = R_CPAF((unsigned char)2129020797, 1021920346, (unsigned short)-1845731132, n5M7sdRmC, 84877541);
+x1LDGYdHb0 = R_CPAF((unsigned char)2129020797, 1021920346, (unsigned short)-1845731132, n5M7sdRmC, (short)84877541);
 }
 catch (int& errorCode)
 {
@@ -584,7 +584,7 @@ case 2:
 HZh58qSc_P = (int)abs(ErkV0);
 break;
 case 3:
-ErkV0 = yLNT(831860005, (unsigned short)942361248, hV39sWWn, -408901492, -111692990);
+ErkV0 = yLNT(831860005, (unsigned short)942361248, hV39sWWn, (unsigned short)-408901492, -111692990);
 break;
 case 4:
 n5M7sdRmC = (int)abs(HZh58qSc_P) + (2006232535);
@@ -650,7 +650,7 @@ case 2:
 n5M7sdRmC = C611EsRH((unsigned short)-917978251, -874927066, n5M7sdRmC, (short)1808480081, x1LDGYdHb0);
 break;
 case 3:
-hV39sWWn = nNG8_(-1709332036, 446352949);
+hV39sWWn = nNG8_(-1709332036, (short)446352949);
 break;
 case 4:
 A2_L30UF8s = A2_L30UF8s % hV39sWWn;
@@ -698,7 +698,7 @@ case 2:
 x1LDGYdHb0 = nNG8_(x1LDGYdHb0, (short)963765829);
 break;
 case 3:
-hV39sWWn = R_CPAF(FoShLZQ, -1713431786, -289789885, -1069395322, -1415702072);
+hV39sWWn = R_CPAF(FoShLZQ, -1713431786, (unsigned short)-289789885, -1069395322, -1415702072);
 break;
 case 4:
 A2_L30UF8s = C611EsRH(896111299, 1200151997, ErkV0, 620155320, HZh58qSc_P);
@@ -722,7 +722,7 @@ x1LDGYdHb0 = R_CPAF((unsigned char)-2014816233, HZh58qSc_P, (unsigned short)-142
 }
 else if ((A2_L30UF8s < -1090065778) && ((dK17__) && (HZh58qSc_P > ErkV0)))
 {
-cout << dK17__ << "QgT09sr" << "x1UvEj" << R_CPAF(x1LDGYdHb0, -1144173585, n5M7sdRmC, FoShLZQ, 48001791) << x1LDGYdHb0 << endl;
+cout << dK17__ << "QgT09sr" << "x1UvEj" << R_CPAF(x1LDGYdHb0, -1144173585, n5M7sdRmC, FoShLZQ, (short)48001791) << x1LDGYdHb0 << endl;
 }
 else
 {

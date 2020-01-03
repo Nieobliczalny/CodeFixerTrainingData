@@ -63,7 +63,7 @@ int main() {
   long  DIXg44iTy;
   DIXg44iTy  =  -1029826212;
   unsigned short  zJE_EB;
-  zJE_EB  =  -1742786374;
+  zJE_EB  =  (unsigned short)-1742786374;
 	short	Uf_915_ew;
 	Uf_915_ew	=	(short)-803913118;
   unsigned char  sc77C;

@@ -26,7 +26,7 @@ int main(int argc, char** argv) {
   cO0Fm  =  0;
  char hpmz5B6Ts, N30P60sK, AIGNJYtI6, I_cLYe5zK, srHb7o, HMEY, iwf1jms1Y9, X0pyYAm2F4, I7GQ, eAv4wZ3R, d5uao9, t5y3, y1dV, b02uv, KF1OpO, X366kg_90, GkoH, J69hA, Igc_3EOG, Xi5_4YK0v7, PZb1_, jg3R0, hJBzBbL, oRQ6784, eG3Q, uQIldElQ, Ve4ft5DW, wn_od, kNAac, XMoT, zmF0, v4w5, v7KM549, CVuN6I_z, ji35k, AlUi1Y6v8, f0UZt_1_b1, c8bR_9ZU, dR3E, Og5Mu, U06Z5tLv, dP0P4Mi, oSCyKq, y0yunX, bHMtF0b9Jr, mNuq, aT9oikc, xqI5T, CIUz, C2P6R_D, fN_3s_6, kx4E, YY4peOZ6, VlsM1, Le_f4cvBa, Mzd7, CH547L5GY, GN45i97Gz0, aECC, Rfx2sp, rQLEC8J236, besHEjZ, W894Gwvxxo, gziw6l_, YmTvZEb61, zlc15N5, w3ori18, OONz0P4o4, O232_PR, iiQ41F, RYo80bvn5n, pj_j6, ewL1MeI8M, Csw962T65, i2UQj4fH2, D8D80zhp, zp8rf, p06ef53PJ, p6Xwn;
  hpmz5B6Ts = (char)619604541;
- N30P60sK = 922091093;
+ N30P60sK = (char)922091093;
  AIGNJYtI6 = (char)1015981845;
  I_cLYe5zK = -1384673976;
  srHb7o = -356919557;
@@ -36,7 +36,7 @@ int main(int argc, char** argv) {
  I7GQ = 646684386;
  eAv4wZ3R = -272612363;
  d5uao9 = (char)-278501150;
- t5y3 = -473310883;
+ t5y3 = (char)-473310883;
  y1dV = (char)-2056529593;
  b02uv = 1938592233;
  KF1OpO = 664908305;
@@ -46,7 +46,7 @@ int main(int argc, char** argv) {
  Igc_3EOG = 283491505;
  Xi5_4YK0v7 = -470188716;
  PZb1_ = (char)-726288358;
- jg3R0 = -1961518070;
+ jg3R0 = (char)-1961518070;
  hJBzBbL = (char)-1450283895;
  oRQ6784 = -1086884526;
  eG3Q = -1969130180;
@@ -56,7 +56,7 @@ int main(int argc, char** argv) {
  kNAac = 1568198305;
  XMoT = 655993413;
  zmF0 = (char)894650394;
- v4w5 = 2000468488;
+ v4w5 = (char)2000468488;
  v7KM549 = (char)-628779599;
  CVuN6I_z = 2018941038;
  ji35k = 351924312;
@@ -66,7 +66,7 @@ int main(int argc, char** argv) {
  dR3E = 2045135320;
  Og5Mu = -1781697807;
  U06Z5tLv = (char)1542143086;
- dP0P4Mi = 351995526;
+ dP0P4Mi = (char)351995526;
  oSCyKq = (char)751634709;
  y0yunX = 427154210;
  bHMtF0b9Jr = 2107847171;
@@ -76,7 +76,7 @@ int main(int argc, char** argv) {
  CIUz = -1131469819;
  C2P6R_D = -1077956312;
  fN_3s_6 = (char)833421923;
- kx4E = -1689610357;
+ kx4E = (char)-1689610357;
  YY4peOZ6 = (char)1379364935;
  VlsM1 = -311691270;
  Le_f4cvBa = -1412782711;
@@ -86,7 +86,7 @@ int main(int argc, char** argv) {
  aECC = 213172092;
  Rfx2sp = 1341072865;
  rQLEC8J236 = (char)653704102;
- besHEjZ = 2048188276;
+ besHEjZ = (char)2048188276;
  W894Gwvxxo = (char)728754811;
  gziw6l_ = 1910231792;
  YmTvZEb61 = -1746574755;
@@ -96,7 +96,7 @@ int main(int argc, char** argv) {
  O232_PR = 1117930076;
  iiQ41F = -1796003822;
  RYo80bvn5n = (char)721538124;
- pj_j6 = -941376707;
+ pj_j6 = (char)-941376707;
  ewL1MeI8M = (char)-854757812;
  Csw962T65 = -1028814763;
  i2UQj4fH2 = 459876147;
@@ -209,7 +209,7 @@ case 1:
 ji35k = qfj651((short)1399311355, (unsigned short)343096360);
 break;
 case 2:
-Mzd7 = qfj651(-1774000371, -1532502616);
+Mzd7 = qfj651((short)-1774000371, -1532502616);
 break;
 case 3:
 w3ori18 = pj_j6 * mNuq;
@@ -276,7 +276,7 @@ srHb7o = qfj651(GkoH, (unsigned short)-1752716934) / i2UQj4fH2;
 }
 else if (f0UZt_1_b1 >= O232_PR)
 {
-v4w5 = qfj651((short)-1352205369, -917381150);
+v4w5 = qfj651((short)-1352205369, (unsigned short)-917381150);
 }
 else
 {
@@ -291,7 +291,7 @@ H6yT = SL8n9C3y((short)-436493148, KF1OpO);
 }
 else
 {
-rQLEC8J236 = qfj651((short)-1506536327, -698799703) / 1342627528;
+rQLEC8J236 = qfj651((short)-1506536327, (unsigned short)-698799703) / 1342627528;
 }
 }
 }
@@ -338,7 +338,7 @@ case 'b':
 AIGNJYtI6--;
 break;
 case 'c':
-H6yT = SL8n9C3y(242741494, Ve4ft5DW);
+H6yT = SL8n9C3y((short)242741494, Ve4ft5DW);
 break;
 case 'd':
 cO0Fm = SL8n9C3y(1593245534, HMEY);
@@ -350,7 +350,7 @@ case 'f':
 HMEY = SL8n9C3y((short)-2000322924, Csw962T65) % fN_3s_6;
 break;
 case 'g':
-OONz0P4o4 = qfj651(2082189171, 1827371925);
+OONz0P4o4 = qfj651((short)2082189171, 1827371925);
 break;
 case 'h':
 AlUi1Y6v8 %= 687714390;
@@ -538,7 +538,7 @@ default:
 cO0Fm = SL8n9C3y((short)-1642806370, (short)-9957438);
 break;
 }
-H6yT = SL8n9C3y(412208907, 366819515);
+H6yT = SL8n9C3y((short)412208907, 366819515);
 
 {
 int i = 7;
@@ -685,7 +685,7 @@ else if (p6Xwn > -1596579564)
 {
 if (((O232_PR & Og5Mu) && (bHMtF0b9Jr < -41283185)) || (GN45i97Gz0 < -732696850))
 {
-bHMtF0b9Jr = qfj651((short)-258114196, -196155011);
+bHMtF0b9Jr = qfj651((short)-258114196, (unsigned short)-196155011);
 }
 else
 {

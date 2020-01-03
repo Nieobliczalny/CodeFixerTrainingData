@@ -18,7 +18,7 @@ char    XJ2k1B16(unsigned short int    H97m)
 
 int main(void) {
 	short	vo6y2Y	=	0,	Gi8Hr8	=	0,	UgYtm3_	=	0,	UGu9R179_h	=	0;
-	unsigned char	itxhS	=	(unsigned char)1512721016,	JyXnBJ	=	(unsigned char)1976581710,	ngwaQU6DEH	=	-279672435,	Q09eO0GKZ4	=	-887838648,	L13o0202DB	=	-63834329;
+	unsigned char	itxhS	=	(unsigned char)1512721016,	JyXnBJ	=	(unsigned char)1976581710,	ngwaQU6DEH	=	(unsigned char)-279672435,	Q09eO0GKZ4	=	-887838648,	L13o0202DB	=	-63834329;
 
 Q09eO0GKZ4 = (unsigned char)(vo6y2Y + (887123672));
 {
@@ -354,7 +354,7 @@ case 'g':
 Q09eO0GKZ4 = NLelR5P((short)886287820, 1451751710);
 break;
 case 'h':
-UgYtm3_ = XJ2k1B16(-1747266529);
+UgYtm3_ = XJ2k1B16((unsigned short)-1747266529);
 break;
 default:
 itxhS *= Q09eO0GKZ4;
@@ -449,7 +449,7 @@ case 2:
 vo6y2Y = XJ2k1B16((unsigned short)1369075140);
 break;
 default:
-L13o0202DB = NLelR5P(-1146114581, UGu9R179_h);
+L13o0202DB = NLelR5P((short)-1146114581, UGu9R179_h);
 break;
 }
 }

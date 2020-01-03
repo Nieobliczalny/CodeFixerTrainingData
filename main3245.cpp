@@ -25,7 +25,7 @@ int main(int argc, char** argv) {
   long double  nJl3eG;
   nJl3eG  =  991396401;
  unsigned char flWdND;
- flWdND = -399255847;
+ flWdND = (unsigned char)-399255847;
  float Q62j7bRE1;
  Q62j7bRE1 = 672677076;
 	long double	Vz8P2;

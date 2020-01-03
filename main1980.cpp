@@ -43,7 +43,7 @@ int main() {
 	unsigned int	nwKN;
 	nwKN	=	-1297462894;
   short  Mkl166sa;
-  Mkl166sa  =  -362754829;
+  Mkl166sa  =  (short)-362754829;
   short  Yw__gu9;
   Yw__gu9  =  -705152441;
 	unsigned long	Je5T;
@@ -67,7 +67,7 @@ int main() {
   unsigned long  Kp3_5ca;
   Kp3_5ca  =  -1416086859;
     unsigned char    DWxH83Bv;
-    DWxH83Bv    =    1043836522;
+    DWxH83Bv    =    (unsigned char)1043836522;
  short int Ne37w;
  Ne37w = (short)-541269758;
 	unsigned short int	mgXh;

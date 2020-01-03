@@ -87,7 +87,7 @@ else
 {
 if (rQIgDv > y7fJ4C)
 {
-std::cout << NV9X(I4O9xcM, 1000962673, -264754673, -1303512470, y7fJ4C) << std::endl;
+std::cout << NV9X(I4O9xcM, (unsigned short)1000962673, -264754673, -1303512470, y7fJ4C) << std::endl;
 }
 }
 
@@ -191,7 +191,7 @@ std::cout << "g7qnhR" << "ZdFQjra" << NV9X(rvY47OGpfk, I4O9xcM, 1358590845, 8535
 }
 else if (YNCY4t < -2126018842)
 {
-y7fJ4C = VQ_n_6(-2027296598, 1374108011);
+y7fJ4C = VQ_n_6(-2027296598, (unsigned char)1374108011);
 }
 else if (YNCY4t >= vxQ5k)
 {
@@ -530,7 +530,7 @@ case 4:
 rQIgDv = NV9X(-1394456968, rQIgDv, kUH1, -1569514884, (short)722883461);
 break;
 case 5:
-kUH1 = NV9X(879074361, -1613586186, -367779868, 1107025846, 769809914);
+kUH1 = NV9X(879074361, (unsigned short)-1613586186, -367779868, 1107025846, 769809914);
 break;
 case 6:
 kUH1 &= rQIgDv;
@@ -675,7 +675,7 @@ kUH1 = NV9X(-100493124, kUH1, 1051215469, -2081860103, (short)-61016370);
 }
 else
 {
-q2_69_ = VQ_n_6(-2058629951, 1563690437);
+q2_69_ = VQ_n_6(-2058629951, (unsigned char)1563690437);
 }
 }
 else if (kUH1 != -1818279695)

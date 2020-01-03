@@ -32,7 +32,7 @@ int main(void)
   short  Nn4cWNf;
   Nn4cWNf  =  (short)-574816714;
 	short	dU55;
-	dU55	=	-1732139519;
+	dU55	=	(short)-1732139519;
   unsigned short  C92Z_0m;
   C92Z_0m  =  2142826021;
  unsigned short eqc1BX8;
@@ -48,7 +48,7 @@ int main(void)
  unsigned short EyI55F46vL;
  EyI55F46vL = (unsigned short)2038804871;
   char  lkrGo;
-  lkrGo  =  180752863;
+  lkrGo  =  (char)180752863;
  unsigned short int poV61;
  poV61 = (unsigned short)-768473360;
   unsigned long long  jPQT;
@@ -72,7 +72,7 @@ int main(void)
  short int BvXztT;
  BvXztT = (short)627994877;
     short int    e51_b446c;
-    e51_b446c    =    -915680810;
+    e51_b446c    =    (short)-915680810;
 	long long	Q_V00Z6WM;
 	Q_V00Z6WM	=	-1293859313;
  unsigned short int NPc32Lqh;
@@ -133,7 +133,7 @@ std::cout << "D736NE0s" << "m7wX39Jr" << std::endl;
 }
 else if (xYf_9kR03 & -530491390)
 {
-std::cout << "i453JZo1ew" << R02y((char)1225425117, -681195447, -543222411, e51_b446c) << PuEcs2pn() << PuEcs2pn() << std::endl;
+std::cout << "i453JZo1ew" << R02y((char)1225425117, (unsigned short)-681195447, -543222411, e51_b446c) << PuEcs2pn() << PuEcs2pn() << std::endl;
 }
 else if (Q_V00Z6WM < O31QV)
 {
@@ -215,7 +215,7 @@ try
 {
 for (int j = 4; j >= 0; --j)
 {
-WNtJ = R02y(322642796, 942874525, -496269786, 2074190193);
+WNtJ = R02y((char)322642796, 942874525, -496269786, 2074190193);
 }
 }
 catch (int& errorCode)
@@ -449,7 +449,7 @@ while (k >= 0);
 }
 else if ((lFJvm1Sd < 1967880712) && (lFJvm1Sd > -974484580))
 {
-O31QV = R02y(-690190617, NPc32Lqh, -328677321, 122986203);
+O31QV = R02y((char)-690190617, NPc32Lqh, -328677321, 122986203);
 }
 else if (WNtJ != lFJvm1Sd)
 {

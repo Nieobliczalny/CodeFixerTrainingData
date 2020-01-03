@@ -17,7 +17,7 @@ int main(void)
   unsigned short int  VH5hC41;
   VH5hC41  =  (unsigned short)452038711;
  unsigned short int nkLU;
- nkLU = -174757539;
+ nkLU = (unsigned short)-174757539;
   unsigned char  nhMu;
   nhMu  =  0;
  unsigned char uOxIuu_F64;

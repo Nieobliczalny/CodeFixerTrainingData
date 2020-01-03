@@ -60,7 +60,7 @@ int main(void) {
 	short int	h4181rr9;
 	h4181rr9	=	(short)-1569486376;
 	unsigned short int	c9LR;
-	c9LR	=	2082393296;
+	c9LR	=	(unsigned short)2082393296;
  unsigned short int Tm__9xy;
  Tm__9xy = 844148586;
  float XNCZ1E2hK;
@@ -118,7 +118,7 @@ int main(void) {
     float    x3ff;
     x3ff    =    879297194;
   unsigned short  qLU7WLP1k;
-  qLU7WLP1k  =  113491627;
+  qLU7WLP1k  =  (unsigned short)113491627;
 	short int	pgG3xB;
 	pgG3xB	=	(short)-1943155662;
 	short int	K6Xtew;
@@ -150,7 +150,7 @@ int main(void) {
     short int    Ip2V8;
     Ip2V8    =    (short)1309429096;
   unsigned short  h_S67rXMs;
-  h_S67rXMs  =  -52076689;
+  h_S67rXMs  =  (unsigned short)-52076689;
  long double C77q47Pq7G;
  C77q47Pq7G = 1662101032;
 	unsigned short int	uF2P39M;
@@ -196,7 +196,7 @@ int main(void) {
 	short int	xv2_5oh0;
 	xv2_5oh0	=	(short)932793034;
  unsigned char jC0_C3OOF;
- jC0_C3OOF = 671727931;
+ jC0_C3OOF = (unsigned char)671727931;
   short int  yYJlFtX_49;
   yYJlFtX_49  =  1211490683;
   float  RWkKR;
@@ -449,7 +449,7 @@ if (lO8q777 == -1280391476)
 {
 for (int k = 5; k >= 0; k--)
 {
-Vk5QUi = y_fE(1220167014, -1409871005);
+Vk5QUi = y_fE((short)1220167014, -1409871005);
 }
 }
 else
@@ -653,7 +653,7 @@ case 1:
 RWkKR = (int)abs(Goa7);
 break;
 case 2:
-Vk5QUi = y_fE(904724113, -746152007);
+Vk5QUi = y_fE((short)904724113, -746152007);
 break;
 case 3:
 JiFd >>= jT1Pa0;

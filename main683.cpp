@@ -17,7 +17,7 @@ int main(int argc, char** argv) {
     unsigned char    sa04350j,    rY8UjCK2_,    xhkd,    ZmnDCnW6m,    Abp54vMZ,    O_aa30_iXK,    y3eHcdcS,    z448,    fUNU_W6,    ldF_2Ep8,    B39zPMsn_K,    E5F6E_099Q,    F4Qgc_,    yX5x84,    kd1wJ_R_UC,    GhY2mOph_i,    P8K7UtU,    wX8_LKo,    blbb4,    yaRywwr,    d6tB5,    a8an_a,    Re6kZ1,    lqg34z1K57,    c7NyijAU_,    fcIo,    az3FD_D29,    bozyo8a,    N3vxbx03,    Eu6Ze_7,    ipIA58061Q,    aNM8FD,    ZL082H7,    IjR975sx1,    t65OClz2P,    staJhaoI,    iJu2,    Ilp0CRdfm5,    qvJ4asV,    Hi9JRomI,    W6SioM4H,    Z7GwuQJZD7,    q2ef;
     sa04350j    =    (unsigned char)-450553314;
     rY8UjCK2_    =    (unsigned char)902175559;
-    xhkd    =    1802040812;
+    xhkd    =    (unsigned char)1802040812;
     ZmnDCnW6m    =    -1260326685;
     Abp54vMZ    =    -1911032468;
     O_aa30_iXK    =    -1858886617;
@@ -27,7 +27,7 @@ int main(int argc, char** argv) {
     ldF_2Ep8    =    582221839;
     B39zPMsn_K    =    (unsigned char)1484360114;
     E5F6E_099Q    =    (unsigned char)625906961;
-    F4Qgc_    =    -1070838135;
+    F4Qgc_    =    (unsigned char)-1070838135;
     yX5x84    =    -1479057233;
     kd1wJ_R_UC    =    -2098943707;
     GhY2mOph_i    =    828334248;
@@ -37,7 +37,7 @@ int main(int argc, char** argv) {
     yaRywwr    =    -1086740859;
     d6tB5    =    (unsigned char)991612182;
     a8an_a    =    (unsigned char)1969209136;
-    Re6kZ1    =    613011494;
+    Re6kZ1    =    (unsigned char)613011494;
     lqg34z1K57    =    1256249086;
     c7NyijAU_    =    454894307;
     fcIo    =    164850541;
@@ -47,7 +47,7 @@ int main(int argc, char** argv) {
     Eu6Ze_7    =    -1611039312;
     ipIA58061Q    =    (unsigned char)405941905;
     aNM8FD    =    (unsigned char)257977429;
-    ZL082H7    =    1163533855;
+    ZL082H7    =    (unsigned char)1163533855;
     IjR975sx1    =    1322554914;
     t65OClz2P    =    1463979857;
     staJhaoI    =    373478829;
@@ -57,7 +57,7 @@ int main(int argc, char** argv) {
     Hi9JRomI    =    1347393160;
     W6SioM4H    =    (unsigned char)92189362;
     Z7GwuQJZD7    =    (unsigned char)1071683314;
-    q2ef    =    -201544365;
+    q2ef    =    (unsigned char)-201544365;
 
 if ((E5F6E_099Q <= qvJ4asV) || (y3eHcdcS < sa04350j))
 {

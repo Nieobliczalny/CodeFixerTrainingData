@@ -168,7 +168,7 @@ k++;
 }
 else if (S775691 != 616728124)
 {
-cout << "N4_EA0Q" << swnrv4 << SfHH2((short)1586707398) << "rK8vBF4" << SfHH2(-232316757) << endl;
+cout << "N4_EA0Q" << swnrv4 << SfHH2((short)1586707398) << "rK8vBF4" << SfHH2((short)-232316757) << endl;
 }
 else if ((mJR7J3j == 1469525846) && (C2ib4 != tf90hK9))
 {

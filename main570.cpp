@@ -37,7 +37,7 @@ int main()
   short int  WHoW88W8U4;
   WHoW88W8U4  =  (short)-393066793;
 	short int	yVJ1EA;
-	yVJ1EA	=	1188064487;
+	yVJ1EA	=	(short)1188064487;
 	float	CHp221qFs;
 	CHp221qFs	=	-1377573392;
  unsigned short QiaxDHR;
@@ -47,7 +47,7 @@ int main()
 	short	xF78TrP1T;
 	xF78TrP1T	=	(short)-1487342217;
 	short	eVNLc0ZU5;
-	eVNLc0ZU5	=	-306800339;
+	eVNLc0ZU5	=	(short)-306800339;
     unsigned char    xixIRJVr;
     xixIRJVr    =    1886383581;
 	int	lSNOgx2;
@@ -63,7 +63,7 @@ int main()
   unsigned int  o54qlV;
   o54qlV  =  -2024171928;
  short int Qq8zc6;
- Qq8zc6 = -1066851425;
+ Qq8zc6 = (short)-1066851425;
   char  VBrIhKr3;
   VBrIhKr3  =  -1217412218;
 	short int	Oa6F;
@@ -93,7 +93,7 @@ int main()
 	long	yqk_6;
 	yqk_6	=	-672797936;
   unsigned short  ctx_;
-  ctx_  =  -1275781444;
+  ctx_  =  (unsigned short)-1275781444;
 	short	C4TYoJ;
 	C4TYoJ	=	(short)-1491041691;
     double    DV3zbVYR;
@@ -103,7 +103,7 @@ int main()
 	unsigned short	nPpQln_S;
 	nPpQln_S	=	(unsigned short)196418550;
  short int jn6p4;
- jn6p4 = 2107049326;
+ jn6p4 = (short)2107049326;
 	short	gq59LLBLl;
 	gq59LLBLl	=	(short)828697888;
     unsigned short    iq_4VXZ;
@@ -121,7 +121,7 @@ int main()
  long double mYIJ5u3Du;
  mYIJ5u3Du = 1828909512;
   unsigned char  I6ruVr;
-  I6ruVr  =  1735998916;
+  I6ruVr  =  (unsigned char)1735998916;
   unsigned long long  Z3KU733X;
   Z3KU733X  =  717137945;
 	char	zamA;
@@ -131,7 +131,7 @@ int main()
 	long	il18Rj6t;
 	il18Rj6t	=	-1950317876;
 	short int	tIeTt;
-	tIeTt	=	-374381347;
+	tIeTt	=	(short)-374381347;
     unsigned int    oR_zZ;
     oR_zZ    =    -724912361;
  double f4p80S7;
@@ -159,7 +159,7 @@ int main()
  short hvtCac7;
  hvtCac7 = (short)1262775866;
  short ky6xY;
- ky6xY = -549046423;
+ ky6xY = (short)-549046423;
   long double  M10Nv;
   M10Nv  =  1925796551;
   unsigned int  Qy6jG67S;
@@ -195,7 +195,7 @@ int main()
  short int J75X;
  J75X = (short)-1636567534;
   unsigned short  K33FstF;
-  K33FstF  =  681126050;
+  K33FstF  =  (unsigned short)681126050;
   long double  V1Kh7;
   V1Kh7  =  301954587;
  unsigned short int XJe3D7Ig;

@@ -106,7 +106,7 @@ SJQLek5 = SJQLek5 * 545324929;
 }
 else
 {
-cout << "L_D01SR" << wM3Ni6WTY << nW8iNSjH(1327105000, 1224446634, O3p4BAeqN1, (unsigned char)653272349) << nW8iNSjH(C1ye, JYks, (char)-1087739221, 315907595) << endl;
+cout << "L_D01SR" << wM3Ni6WTY << nW8iNSjH(1327105000, 1224446634, O3p4BAeqN1, (unsigned char)653272349) << nW8iNSjH(C1ye, JYks, (char)-1087739221, (unsigned char)315907595) << endl;
 }
 }
 else
@@ -264,7 +264,7 @@ case 1:
 K_Fa71 = (int)abs(DHs802Q) + (-1070480283);
 break;
 case 2:
-QdH8 = nW8iNSjH(wa8CV, -1588417374, 1941123352, nI0ES);
+QdH8 = nW8iNSjH(wa8CV, -1588417374, (char)1941123352, nI0ES);
 break;
 case 3:
 wa8CV = (int)floor(Tll2J);
@@ -285,7 +285,7 @@ case 8:
 C1ye = (int)ceil(etMR);
 break;
 default:
-L7F__5Do = nW8iNSjH(L7F__5Do, 512300297, (char)536167787, 1550509036);
+L7F__5Do = nW8iNSjH(L7F__5Do, 512300297, (char)536167787, (unsigned char)1550509036);
 break;
 }
 
@@ -410,7 +410,7 @@ case 2:
 G7w7rBCq3 = nW8iNSjH(-1003725079, G7w7rBCq3, (char)-1635163548, Tll2J);
 break;
 case 3:
-K_Fa71 = nW8iNSjH(-1045556264, 1000843309, (char)-511903106, 1169013937) * JYks;
+K_Fa71 = nW8iNSjH(-1045556264, 1000843309, (char)-511903106, (unsigned char)1169013937) * JYks;
 break;
 case 4:
 JYks /= 1101524920;

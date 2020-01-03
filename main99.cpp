@@ -42,7 +42,7 @@ int main()
  unsigned long IuPC2Y_;
  IuPC2Y_ = -1233358422;
 	short int	DM_7_B;
-	DM_7_B	=	-71657228;
+	DM_7_B	=	(short)-71657228;
 	unsigned long	c1iDzGKYd;
 	c1iDzGKYd	=	-503806976;
     short int    AC1H119;
@@ -54,7 +54,7 @@ int main()
   int  fq96zp4a;
   fq96zp4a  =  1407840519;
     short int    Ue473e4472;
-    Ue473e4472    =    2143873041;
+    Ue473e4472    =    (short)2143873041;
 	long	J70p0;
 	J70p0	=	-576453946;
   unsigned int  gsT_T;
@@ -68,7 +68,7 @@ int main()
  unsigned short int k_Wuyf9zc7;
  k_Wuyf9zc7 = (unsigned short)1894922044;
     char    zwmk16aAR7;
-    zwmk16aAR7    =    -1414581549;
+    zwmk16aAR7    =    (char)-1414581549;
 	unsigned long long	aUlNM6;
 	aUlNM6	=	1052844242;
     long long    ZrJl;

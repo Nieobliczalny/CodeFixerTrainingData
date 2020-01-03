@@ -55,7 +55,7 @@ else
 {
 Hn_1t *= 1184119566;
 }
-std::cout << G_kq2mjp(-1066375515, JEQ5k, tcBAkS7n) << G_kq2mjp(N7A06, 911328047, tcBAkS7n) << "naDqhV90UL" << std::endl;
+std::cout << G_kq2mjp(-1066375515, JEQ5k, tcBAkS7n) << G_kq2mjp(N7A06, (unsigned char)911328047, tcBAkS7n) << "naDqhV90UL" << std::endl;
 
 switch (R6sC)
 {
@@ -161,7 +161,7 @@ case 6:
 iku96yZm8Q = G_kq2mjp(JGKCiXCI, (unsigned char)782940015, R6sC);
 break;
 case 7:
-iku96yZm8Q = G_kq2mjp(-902240181, -1558502205, ibc2pYbMo);
+iku96yZm8Q = G_kq2mjp(-902240181, (unsigned char)-1558502205, ibc2pYbMo);
 break;
 case 8:
 iku96yZm8Q = G_kq2mjp(hr5k87, (unsigned char)-643708810, ibc2pYbMo);

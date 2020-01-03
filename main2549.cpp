@@ -280,7 +280,7 @@ case 4:
 zCj0F0MJzF = YZC2Y((unsigned short)-393264265, (unsigned short)539307336);
 break;
 case 5:
-V9eE24vUO5 = g93D6M42tY(2027806535, 647231180, -1852606339, 735232491, opk2od4);
+V9eE24vUO5 = g93D6M42tY((unsigned short)2027806535, 647231180, -1852606339, 735232491, opk2od4);
 break;
 case 6:
 Nzn6M = V9eE24vUO5 / n966AV9evf;

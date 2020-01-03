@@ -24,7 +24,7 @@ int main()
 	unsigned short int	pnd_R	=	(unsigned short)1451929514;
     unsigned short int    Q8OvFr    =    (unsigned short)260429257;
  double my_T = -929450555;
- short int j_Vqq = -1574356742;
+ short int j_Vqq = (short)-1574356742;
 	int	YXgny2Nl72	=	282100016;
  unsigned short f036y6 = 1123331721;
  short int dJohMHa__1 = -121229776;
@@ -40,7 +40,7 @@ int main()
     long double    ADYc5Jx4    =    -642798962;
 	unsigned long long	fRizq	=	24702008;
 	double	mkb5Tr_fQa	=	2053530009;
- unsigned short int j_Q85O0DA4 = 37127124;
+ unsigned short int j_Q85O0DA4 = (unsigned short)37127124;
     float    VWBdH9gF    =    -1717695779;
  unsigned short l92WAm4F5 = (unsigned short)1651635059;
  int V66F_orvz = -1617923002;
@@ -64,7 +64,7 @@ int main()
  long V0j4 = -675997471;
   int  BAM1b78  =  1620480911;
     unsigned short    V7Jb7aeq    =    (unsigned short)-1641858029;
-  char  I6w3d  =  1264263929;
+  char  I6w3d  =  (char)1264263929;
  int IQGPri = -1096685110;
  short int do_eK8e = (short)-1950506967;
     char    leCFc4xb_    =    997624357;
@@ -74,7 +74,7 @@ int main()
 	int	bwXHlE	=	-1905337741;
 	unsigned short	orDF5LFI9	=	1152627585;
     unsigned short int    R3TW    =    (unsigned short)1141371767;
-  short int  YzZyU  =  86840463;
+  short int  YzZyU  =  (short)86840463;
     long    j6Q5t7n    =    57174919;
  short int LUW3 = 0;
 	char	usO786zNx1	=	(char)-1654277143;
@@ -85,7 +85,7 @@ int main()
  long long wS09g = 489963667;
     unsigned short    VfcowW1CY_    =    (unsigned short)-197157224;
  long double B_y11bG_26 = 2107616887;
-  unsigned char  ZX8z88  =  -1391549366;
+  unsigned char  ZX8z88  =  (unsigned char)-1391549366;
 	long	XpD6_gD	=	-2073072919;
     long double    Y_ZOG0wQZI    =    -384104258;
   long  Ow5iIoLZ  =  1583787029;
@@ -96,7 +96,7 @@ int main()
     char    BKK0rMJApd    =    (char)1373827075;
     double    wj3W1X    =    1297907306;
   long long  HZ05L724  =  -1939889236;
-    unsigned short    bLT0lg03ge    =    266410770;
+    unsigned short    bLT0lg03ge    =    (unsigned short)266410770;
  double c558K0O = -796139509;
 	long long	Yx437	=	-328275499;
 

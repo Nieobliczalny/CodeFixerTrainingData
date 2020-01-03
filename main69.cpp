@@ -48,7 +48,7 @@ int main(void)
 	unsigned char	efvtS9lPz2	=	(unsigned char)1918133149;
     double    Ne9gEa    =    740811944;
  unsigned short int tXOKC = (unsigned short)140428303;
- char k_3GAsorL = -642631512;
+ char k_3GAsorL = (char)-642631512;
  long double TX7sC = 2080562250;
 	unsigned short int	EVs9L	=	1137477231;
 	short	W6Jh65p0	=	-545197572;
@@ -63,7 +63,7 @@ int main(void)
 	unsigned long long	vuwo3gRi5j	=	1813213827;
  unsigned int h30aOb3EmR = -2106538815;
  unsigned long HuoPxy67xZ = 0;
-  unsigned short  CQpjlC  =  1875602959;
+  unsigned short  CQpjlC  =  (unsigned short)1875602959;
 	short	dCbUv59__t	=	-57024795;
 
 {
@@ -414,7 +414,7 @@ case 8:
 XG50Z = (int)ceil(EyS8V8J);
 break;
 default:
-EyS8V8J = A4eCA3((char)657392634, (unsigned short)794837748, 1820691545);
+EyS8V8J = A4eCA3((char)657392634, (unsigned short)794837748, (short)1820691545);
 break;
 }
 

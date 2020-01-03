@@ -90,7 +90,7 @@ int main()
 	Mck3_35of	=	0;
 	x882VGK1K_	=	0;
 
-std::cout << imxf3622sx((unsigned short)362879398, (unsigned short)1312188957, 405343445, -329154860) << T1oqonWZuN << std::endl;
+std::cout << imxf3622sx((unsigned short)362879398, (unsigned short)1312188957, (unsigned short)405343445, -329154860) << T1oqonWZuN << std::endl;
 
 nenLIb *= 1463195042;
 G_DT5apMDS = (int)abs(NIMDwG9ytO);
@@ -386,7 +386,7 @@ dB4zzscg = (int)abs(yRQ1B);
 }
 else if ((RGoOU1m <= 2028039226) && ((GwFwS >= r1N0) && (k_g6Rm0 & r1N0)))
 {
-Mck3_35of = O436z3(A429, -1711035955, -1617361063, -1576998097, -2020995712);
+Mck3_35of = O436z3(A429, (unsigned char)-1711035955, -1617361063, -1576998097, -2020995712);
 }
 else if (M971_7 <= VARsPI)
 {

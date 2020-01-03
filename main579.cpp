@@ -114,7 +114,7 @@ cQMW40YBKg = t8Wn7u % I2cn;
 break;
 case 'h':
 case 'H':
-Ickig6Fw = Z8S9Z7(CyluX, 352543129, VgeQ34N_r0, 381698753, xDWsKAw);
+Ickig6Fw = Z8S9Z7(CyluX, 352543129, VgeQ34N_r0, (char)381698753, xDWsKAw);
 break;
 case 'i':
 case 'I':
@@ -125,7 +125,7 @@ case 'J':
 a82Fb = Z8S9Z7(-1002023455, 248007618, (unsigned char)-2021660623, (char)-1542954180, -37159084) % 441288421;
 break;
 default:
-SUYR5E3hD = Z8S9Z7(h3qE, xzCefxF, -1753706484, -1509164416, 388355001);
+SUYR5E3hD = Z8S9Z7(h3qE, xzCefxF, (unsigned char)-1753706484, -1509164416, 388355001);
 break;
 }
 }
@@ -135,7 +135,7 @@ case 0:
 hRXQAn40p_ = K0PMWTtm0((char)-2013446564, (char)-1929317791, -2062554177) << 239792966;
 break;
 case 1:
-qqnH_ = ioVW_c5mx(780369705, OLUsT4Z40_, LXz9o1c, LSBq6Xdr7, WofzY);
+qqnH_ = ioVW_c5mx((short)780369705, OLUsT4Z40_, LXz9o1c, LSBq6Xdr7, WofzY);
 break;
 }
 
@@ -191,7 +191,7 @@ else if (((qSVW <= VwHf) && (l7qMXx2Z > ye_2H)) && (gGJF44Ck1S <= SUYR5E3hD))
 int k = 0;
 do
 {
-P4_d6B9HDM = ioVW_c5mx((short)-1899145991, (char)964413763, xDWsKAw, 829779383, -1569408401);
+P4_d6B9HDM = ioVW_c5mx((short)-1899145991, (char)964413763, xDWsKAw, 829779383, (short)-1569408401);
 ++k;
 }
 while (k < 10);
@@ -253,7 +253,7 @@ OLUsT4Z40_ = Z8S9Z7(M3vhmG, -2073016258, (unsigned char)-148825715, (char)183836
 break;
 case 'b':
 case 'B':
-QiAv0G = Z8S9Z7(gRNz, -1625289986, -2009019424, 1175489385, 692202058);
+QiAv0G = Z8S9Z7(gRNz, -1625289986, (unsigned char)-2009019424, 1175489385, 692202058);
 break;
 case 'c':
 case 'C':
@@ -365,7 +365,7 @@ if (CxTui_ > 18444073)
 int k = 0;
 while (k < 4)
 {
-qnYFUze1Q = ioVW_c5mx((short)971692668, (char)557549319, -1962029772, G33N__7gT, 2001016997);
+qnYFUze1Q = ioVW_c5mx((short)971692668, (char)557549319, -1962029772, G33N__7gT, (short)2001016997);
 ++k;
 }
 }
@@ -398,7 +398,7 @@ int i = 6;
 while (i >= 0)
 {
 i--;
-std::cout << "uif47" << TduNf << K0PMWTtm0((char)-1467075599, (char)1535308673, 725325760) << std::endl;
+std::cout << "uif47" << TduNf << K0PMWTtm0((char)-1467075599, (char)1535308673, (char)725325760) << std::endl;
 }
 }
 

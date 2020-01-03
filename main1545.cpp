@@ -48,7 +48,7 @@ int main(int argc, char** argv) {
     long    SIL4P;
     SIL4P    =    27506345;
   unsigned short  b79__E0;
-  b79__E0  =  536485317;
+  b79__E0  =  (unsigned short)536485317;
  long double wu5Q;
  wu5Q = -1755974515;
 	unsigned short	PvF63;
@@ -60,7 +60,7 @@ int main(int argc, char** argv) {
  short P1H78Q3;
  P1H78Q3 = (short)2102946370;
   unsigned short  D4850;
-  D4850  =  -2114710368;
+  D4850  =  (unsigned short)-2114710368;
  unsigned short int PrBJc41;
  PrBJc41 = (unsigned short)464104346;
  double IAbyb;
@@ -74,7 +74,7 @@ int main(int argc, char** argv) {
 	unsigned char	w2ydj93ne;
 	w2ydj93ne	=	(unsigned char)1207382933;
  short int A9vX1GlH;
- A9vX1GlH = -464281037;
+ A9vX1GlH = (short)-464281037;
     int    rzr4bRpel;
     rzr4bRpel    =    -65330141;
     unsigned long long    w593p5AE;
@@ -86,7 +86,7 @@ int main(int argc, char** argv) {
  char QUGADnU;
  QUGADnU = (char)370923336;
  short nKDtJn7;
- nKDtJn7 = -1291117190;
+ nKDtJn7 = (short)-1291117190;
     unsigned short int    oeg9R;
     oeg9R    =    0;
  long long h3DIGF1;

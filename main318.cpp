@@ -50,7 +50,7 @@ int main(void)
 	char	raFk0i_h9Q;
 	raFk0i_h9Q	=	(char)-487824310;
     unsigned short    YNeP0S;
-    YNeP0S    =    -879278391;
+    YNeP0S    =    (unsigned short)-879278391;
 	long long	HPZ87XSE;
 	HPZ87XSE	=	-766064529;
  unsigned short U3v_J9_L0;
@@ -66,7 +66,7 @@ int main(void)
  unsigned int pqbqC;
  pqbqC = -1955928403;
  unsigned short dK07d_HE;
- dK07d_HE = -603300913;
+ dK07d_HE = (unsigned short)-603300913;
  float LopX;
  LopX = -801084612;
   long  wtNQBuOx;

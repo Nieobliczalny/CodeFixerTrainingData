@@ -36,7 +36,7 @@ int main() {
  short int s6cm3_I_1;
  s6cm3_I_1 = (short)-740211866;
   short int  Su2wU7;
-  Su2wU7  =  -430572388;
+  Su2wU7  =  (short)-430572388;
   long  vf9t9plNM_;
   vf9t9plNM_  =  -544111040;
 	unsigned short int	jite0l;
@@ -52,7 +52,7 @@ int main() {
   double  YROy;
   YROy  =  42777284;
 	unsigned short	GG3hC8j;
-	GG3hC8j	=	1196179019;
+	GG3hC8j	=	(unsigned short)1196179019;
 	unsigned int	GkJ5;
 	GkJ5	=	0;
   char  pkQieF_;
@@ -80,7 +80,7 @@ int main() {
  float TUDR;
  TUDR = 1418029347;
   unsigned char  j8a3_Ezw;
-  j8a3_Ezw  =  417915239;
+  j8a3_Ezw  =  (unsigned char)417915239;
 	int	Ry4FMq8G7j;
 	Ry4FMq8G7j	=	1254294430;
 

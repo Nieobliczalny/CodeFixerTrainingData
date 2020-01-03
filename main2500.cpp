@@ -89,7 +89,7 @@ case 'b':
 zebzAD = zn56OK046s((char)154662541, -1207359874);
 break;
 case 'c':
-M057 = zn56OK046s(-219822571, S0PyPn446Q);
+M057 = zn56OK046s((char)-219822571, S0PyPn446Q);
 break;
 case 'd':
 sfQZzi |= 921263001;

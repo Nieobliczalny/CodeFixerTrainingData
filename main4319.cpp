@@ -46,7 +46,7 @@ int main(int argc, char** argv) {
 	unsigned int	bR9NX07	=	-1020078407;
     long long    CK144i    =    -134636714;
     long long    q14I66    =    941508632;
- short int wo6sLL4 = 949564334;
+ short int wo6sLL4 = (short)949564334;
  long double d_K2QrxO = 851129532;
     short int    feZ24tWT5    =    174602040;
  double pdSPpvJILO = -1899364596;

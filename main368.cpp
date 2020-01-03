@@ -31,7 +31,7 @@ unsigned short int	YMbI47(int	cY5T5,unsigned char	DPgaHZH,unsigned short	d087)	{
 
 int main()
 {
-  short int  ymMW6h28Z  =  169900154;
+  short int  ymMW6h28Z  =  (short)169900154;
  unsigned char H30KpO = (unsigned char)1242362608;
 	double	l1O4t5ms	=	36854751;
 	long	Htt3_	=	69572595;
@@ -44,7 +44,7 @@ int main()
 	long double	P0uVcG	=	1618647296;
  short int f6jcH = (short)-669476861;
     unsigned long long    DRSVE    =    -2055807549;
-    unsigned short int    AtKH2iC    =    -1927950820;
+    unsigned short int    AtKH2iC    =    (unsigned short)-1927950820;
  long double nSncqh = -1452941820;
     long long    y8rxoUzDM    =    284292167;
     unsigned long long    xdNS_ZxWU_    =    298931608;
@@ -54,7 +54,7 @@ int main()
   unsigned long  c0gFl461  =  -1409159455;
  unsigned short Z3f69 = (unsigned short)-582268501;
     long double    a0x4fk9    =    -652004231;
-    unsigned char    P9IEU    =    -2104136073;
+    unsigned char    P9IEU    =    (unsigned char)-2104136073;
 	int	SEw0C_4	=	0;
     unsigned long    COClP0    =    451762786;
     long double    E69km7vq    =    2098809794;
@@ -166,7 +166,7 @@ break;
 }
 else if (f6jcH & H30KpO)
 {
-DRSVE = YMbI47(1910490301, (unsigned char)-1980153594, -72042820);
+DRSVE = YMbI47(1910490301, (unsigned char)-1980153594, (unsigned short)-72042820);
 }
 else
 {

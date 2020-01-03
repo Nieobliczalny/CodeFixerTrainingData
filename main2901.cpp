@@ -100,7 +100,7 @@ GY6__5YO = Q6F1gQ(GY6__5YO, j_5kxIDFMX, iZH6, (short)-2435288);
 }
 else if (h6gxklz4N)
 {
-Nt9c387Oz_ = NiO7((unsigned char)303186807, -618074367, As27ea, R8ixr6F0m, -493059436);
+Nt9c387Oz_ = NiO7((unsigned char)303186807, -618074367, As27ea, R8ixr6F0m, (short)-493059436);
 }
 else if (kQ__o >= U8py901_)
 {
@@ -170,7 +170,7 @@ As27ea += 214264230;
 break;
 case 'g':
 case 'G':
-SuER3 = Q6F1gQ(Hq1Oz15, (short)1146237323, (short)-1376693010, 1664862366);
+SuER3 = Q6F1gQ(Hq1Oz15, (short)1146237323, (short)-1376693010, (short)1664862366);
 break;
 case 'h':
 case 'H':
@@ -185,7 +185,7 @@ case 'J':
 Q6Zr6r = Q6F1gQ(Q6Zr6r, (short)143773255, EY4CgCyibV, (short)148647413);
 break;
 default:
-YO8LU3iJr = O4440h(-1102305185);
+YO8LU3iJr = O4440h((unsigned char)-1102305185);
 break;
 }
 i--;
@@ -200,7 +200,7 @@ if (gjMni <= PcRrWx3)
 {
 for (int k = 10; k >= 0; k--)
 {
-Bkyd0F_ = Q6F1gQ(371367190, -1586746554, -497146285, v5QbRu);
+Bkyd0F_ = Q6F1gQ(371367190, (short)-1586746554, -497146285, v5QbRu);
 }
 }
 else
@@ -313,7 +313,7 @@ case 'h':
 bMNCCa = U8py901_ * GKwDG77v;
 break;
 case 'i':
-Bkyd0F_ = NiO7((unsigned char)592683104, ajBZEx, -1457953372, Q6Zr6r, 675410757);
+Bkyd0F_ = NiO7((unsigned char)592683104, ajBZEx, -1457953372, Q6Zr6r, (short)675410757);
 break;
 }
 }
@@ -348,7 +348,7 @@ else if (((uQhmo65LKC & O8l74) || (Yv4qCC1Z)) || ((I_bIQBtq >= U8py901_) || (cK8
 {
 if ((cK89PgyB_ != Osej1) || (Hq1Oz15 <= -1697217026))
 {
-Yv4qCC1Z = NiO7(Yv4qCC1Z, Q25C, cK89PgyB_, JA_509hs, -1904494171);
+Yv4qCC1Z = NiO7(Yv4qCC1Z, Q25C, cK89PgyB_, JA_509hs, (short)-1904494171);
 }
 }
 else
@@ -366,7 +366,7 @@ if (((D_9ef87Uvt == -1328372995) && (I_bIQBtq <= U8py901_)) || (V6d9XvrH <= U8py
 {
 if ((daACVWHg < -1216042691) && (u6OKIY464 < U8py901_))
 {
-std::cout << lLy9iM(Yv4qCC1Z, Q25C, (char)839561750) << Q6F1gQ(2006089653, (short)-1073313580, 2041692380, JA_509hs) << "Z72A" << std::endl;
+std::cout << lLy9iM(Yv4qCC1Z, Q25C, (char)839561750) << Q6F1gQ(2006089653, (short)-1073313580, (short)2041692380, JA_509hs) << "Z72A" << std::endl;
 }
 else
 {

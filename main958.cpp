@@ -30,7 +30,7 @@ int main(void)
   short  h5o37BI  =  (short)1777821250;
  double xjT3hA_54 = -1470905989;
     unsigned long    Q7_a    =    -866758485;
-    short    Yj82    =    -147144514;
+    short    Yj82    =    (short)-147144514;
 	unsigned short int	SyS553	=	788163421;
   unsigned long long  m71mW6_  =  -830401631;
 	short	S5flS4_	=	-923985752;
@@ -43,7 +43,7 @@ int main(void)
  long long mxNFpQQgF_ = -99854932;
   unsigned long long  pW795  =  -1619082732;
   unsigned long long  zA1ai0q  =  565176308;
-    short int    mdzg    =    -1933264146;
+    short int    mdzg    =    (short)-1933264146;
   unsigned char  w9So_JDY  =  1973903029;
   double  s45oP_72h  =  1403225847;
   short int  k7M50  =  (short)1366363222;
@@ -54,7 +54,7 @@ int main(void)
     char    L55w48    =    760944898;
     double    f23F24j055    =    -576785376;
  int GS_8Rotwj = -1146370767;
- short Y5g_cQ_M = 1357103270;
+ short Y5g_cQ_M = (short)1357103270;
     long double    Ku1H    =    1432261769;
 	unsigned short int	xLg03_	=	0;
  long long z39f8126Cz = 943262649;
@@ -73,7 +73,7 @@ int main(void)
   double  oNwbh5U6zG  =  -582196358;
   char  Rw2xGl0  =  (char)909003866;
     long double    titB    =    1220882065;
-    short int    N5I55    =    -460930174;
+    short int    N5I55    =    (short)-460930174;
 
 switch (Q7_a)
 {
@@ -220,7 +220,7 @@ case 4:
 R7ZNkupv0n = El08bd(1637282081, S5flS4_, (short)-566731840, (short)1255604839);
 break;
 case 5:
-qgf1r2pTt = El08bd(qgf1r2pTt, -912284054, S5flS4_, 522602083);
+qgf1r2pTt = El08bd(qgf1r2pTt, -912284054, S5flS4_, (short)522602083);
 break;
 case 6:
 xLg03_ = cNgY__MP6(-448047716, Ku1H);
@@ -437,7 +437,7 @@ case 2:
 xLg03_ = cNgY__MP6(-258210776, z39f8126Cz);
 break;
 case 3:
-oNwbh5U6zG = El08bd(oNwbh5U6zG, 692924798, (short)-1504987463, -724098696);
+oNwbh5U6zG = El08bd(oNwbh5U6zG, 692924798, (short)-1504987463, (short)-724098696);
 break;
 case 4:
 s45oP_72h = (int)floor(oNwbh5U6zG);
@@ -467,7 +467,7 @@ UE43_ = El08bd(-1996370220, rj23KO, (short)-1196298152, (short)-1596245958);
 }
 else if (Q7_a > bLk_oUTV)
 {
-xSgtUs5T8 = El08bd(-567598674, 1440225837, -821843131, -311492036);
+xSgtUs5T8 = El08bd(-567598674, 1440225837, (short)-821843131, -311492036);
 }
 else
 {

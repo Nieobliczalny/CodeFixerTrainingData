@@ -11,7 +11,7 @@ using namespace std;
 int main(void) {
   unsigned char  ylsWXsJb_  =  (unsigned char)2029772890;
     short int    whw813    =    (short)-700277617;
- short KdOG = -1180059763;
+ short KdOG = (short)-1180059763;
 	char	sSKixprHw4	=	-1535515668;
     short int    Qab99x_    =    1823492119;
   unsigned long long  iY_Wb5Q197  =  -869150705;
@@ -38,7 +38,7 @@ int main(void) {
  float W5l4fS = 1750556622;
  float nvEBGxG = 850094488;
  unsigned short int Ko487NE = (unsigned short)-214510940;
-    unsigned short int    hC68    =    -2098969210;
+    unsigned short int    hC68    =    (unsigned short)-2098969210;
     long long    GtSNNw2    =    386454448;
     short int    bk8HT    =    591058173;
   unsigned short  UMAxq  =  101441255;
@@ -51,7 +51,7 @@ int main(void) {
     unsigned short int    smvCjF2m51    =    0;
   short int  zxB9A39h  =  (short)-1554675580;
 	int	EzyyBEW6	=	1535061;
- short int C929A7 = -409552383;
+ short int C929A7 = (short)-409552383;
   unsigned short int  CZ7cI_S  =  (unsigned short)1888544721;
     short int    fW8O86    =    -1621385830;
 	char	fvw23	=	1575899549;
@@ -64,7 +64,7 @@ int main(void) {
   unsigned long  pQ5JSAy4  =  -897579788;
  long long O904 = 522804473;
     char    J741cjCuz    =    (char)-1018100947;
-    unsigned short int    W6uuAa    =    428638532;
+    unsigned short int    W6uuAa    =    (unsigned short)428638532;
   char  z4wMO8B87  =  -651613098;
     unsigned int    G44H    =    673617033;
 	unsigned char	Q2_i98O	=	186711129;
@@ -75,7 +75,7 @@ int main(void) {
     short int    k6Gk    =    1730063878;
  char WTCRI = (char)1132421212;
  long JgR_3_4 = 176983596;
-	unsigned short	C662	=	2072666354;
+	unsigned short	C662	=	(unsigned short)2072666354;
  long YC86v = 1472802682;
 	long double	ZR1MyONL	=	-982014938;
 	long double	XZro26f	=	44637804;
@@ -85,7 +85,7 @@ int main(void) {
  long mo_e5701G = 0;
 	char	Yr1DVTAVM	=	(char)-1080041491;
 	unsigned short	UouovYTT	=	-1449760933;
-    unsigned char    D7EC1U21Bt    =    719336807;
+    unsigned char    D7EC1U21Bt    =    (unsigned char)719336807;
 
 sSKixprHw4 = (WTCRI > -1459562917) ? G44H : pn3v842w;
 

@@ -47,7 +47,7 @@ int main()
   unsigned short  VawZ_6cT6;
   VawZ_6cT6  =  (unsigned short)1089278214;
  short zSid;
- zSid = 223267536;
+ zSid = (short)223267536;
     unsigned long long    a5vs6jQ2;
     a5vs6jQ2    =    -120091890;
  char Pg4W4;
@@ -57,7 +57,7 @@ int main()
 	unsigned short int	X6VwVQK;
 	X6VwVQK	=	(unsigned short)-699872787;
     unsigned short int    UL254J42bJ;
-    UL254J42bJ    =    -5485192;
+    UL254J42bJ    =    (unsigned short)-5485192;
     unsigned long long    Gljtb_7nG;
     Gljtb_7nG    =    1306307772;
  short d24_rSx23;
@@ -69,7 +69,7 @@ int main()
 	unsigned long long	wF90u74_52;
 	wF90u74_52	=	99108846;
 	short	z2li_H45;
-	z2li_H45	=	-561655733;
+	z2li_H45	=	(short)-561655733;
 	short int	SDK8gT;
 	SDK8gT	=	(short)-816003565;
  float xN__2MB5T8;

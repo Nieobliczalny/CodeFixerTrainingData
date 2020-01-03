@@ -39,7 +39,7 @@ int main(int argc, char** argv)
 	long double	u3_oj3z;
 	u3_oj3z	=	-1678633979;
 	unsigned short int	dL97Oycx;
-	dL97Oycx	=	-1262685294;
+	dL97Oycx	=	(unsigned short)-1262685294;
   unsigned int  h0e60t874W;
   h0e60t874W  =  -886802299;
   unsigned long long  kj4R;
@@ -71,7 +71,7 @@ int main(int argc, char** argv)
   long long  m68t;
   m68t  =  1668176621;
  short int M0S18w;
- M0S18w = -1764928556;
+ M0S18w = (short)-1764928556;
   double  vbEzM_V;
   vbEzM_V  =  -736309354;
  long double QSKGyfW9Lx;
@@ -85,7 +85,7 @@ int main(int argc, char** argv)
     short int    vIp9Z3cZ6;
     vIp9Z3cZ6    =    (short)681908614;
  unsigned short wzP6;
- wzP6 = 969315441;
+ wzP6 = (unsigned short)969315441;
  long K4Nt1_2e9;
  K4Nt1_2e9 = 222552700;
 	double	ZPjOg;
@@ -99,7 +99,7 @@ int main(int argc, char** argv)
   unsigned long long  p91N9Jluob;
   p91N9Jluob  =  -1328523485;
 	unsigned char	Wqpaew8;
-	Wqpaew8	=	1035763451;
+	Wqpaew8	=	(unsigned char)1035763451;
     long    J_6tJ;
     J_6tJ    =    -2029672923;
     char    OdMt;
@@ -121,7 +121,7 @@ int main(int argc, char** argv)
 	unsigned short	Fl8QXF3;
 	Fl8QXF3	=	(unsigned short)166683662;
  short int wuK3;
- wuK3 = 1550630643;
+ wuK3 = (short)1550630643;
 	float	JnyZbIo3;
 	JnyZbIo3	=	-1523789390;
 	unsigned long	UdoTHsi;
@@ -147,7 +147,7 @@ int main(int argc, char** argv)
   unsigned short  c0MLe6Yy;
   c0MLe6Yy  =  (unsigned short)1582408761;
   char  Yh7Z;
-  Yh7Z  =  -1880438726;
+  Yh7Z  =  (char)-1880438726;
   unsigned char  UHA3H;
   UHA3H  =  -335023692;
   unsigned int  Ka4H023Q;
@@ -189,7 +189,7 @@ int main(int argc, char** argv)
   long double  Tqoc_j8wgc;
   Tqoc_j8wgc  =  935001020;
 	unsigned short	crBO1ljLo;
-	crBO1ljLo	=	195442068;
+	crBO1ljLo	=	(unsigned short)195442068;
   unsigned long long  aQ0R8;
   aQ0R8  =  -1160627458;
     long double    UF_H04d3S1;
@@ -234,7 +234,7 @@ case 'd':
 M3Yf6soOS = OdMt % 1936595371;
 break;
 case 'e':
-UdoTHsi = zttW((unsigned char)1987310152, -1892361503, 899426382, x5m_QEs3q);
+UdoTHsi = zttW((unsigned char)1987310152, -1892361503, (unsigned short)899426382, x5m_QEs3q);
 break;
 case 'f':
 UdoTHsi = W0_70_s();

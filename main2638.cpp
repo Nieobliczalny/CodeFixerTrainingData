@@ -179,7 +179,7 @@ case 'a':
 e6mH4d = zzC4rfG(e6mH4d, YeIFU_F, 482828691, (unsigned short)-1595736375, -736213731);
 break;
 case 'b':
-FCp9T2j = Ji285F6TI(-1570259591) >> OEX_7N19O;
+FCp9T2j = Ji285F6TI((unsigned char)-1570259591) >> OEX_7N19O;
 break;
 case 'c':
 K51Y4Kd -= n0hEqLDV8;
@@ -312,7 +312,7 @@ case 'f':
 wi_AU_aU4z = Z70p933929(p3ZxWx2, wi_AU_aU4z, dnYpeT);
 break;
 case 'g':
-nSu18kjI03 = Z70p933929(1349097708, -1718126456, e6mH4d);
+nSu18kjI03 = Z70p933929((unsigned char)1349097708, -1718126456, e6mH4d);
 break;
 case 'h':
 K51Y4Kd = zzC4rfG(1278692999, h6UmbCW7E, kEGEy, xXIpCF9, 1718864639);

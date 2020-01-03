@@ -290,7 +290,7 @@ IJ4_68 = I55T(-844177356, (unsigned short)417987521, (char)785905085, 1355255755
 }
 else if (tIV0 < C84GsM__Q)
 {
-Pq_fPjBo_y = I55T(188326696, 1554816484, zDSe, NaahUy, UDj0ze);
+Pq_fPjBo_y = I55T(188326696, (unsigned short)1554816484, zDSe, NaahUy, UDj0ze);
 }
 else if (((q9U241r53c < C84GsM__Q) || (ic5RQj0 <= C84GsM__Q)) && ((d27u9 <= C84GsM__Q) && (b0T107hbx & 1529275499)))
 {

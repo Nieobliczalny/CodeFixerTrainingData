@@ -39,7 +39,7 @@ P_OGXsh85E = X9rOhl((char)724897613, whQpRFmB, (char)-1807379912, v2d88790v);
 break;
 case 'b':
 case 'B':
-Wq60ny_n = X9rOhl(Ilef4, 1536477420, PBBw_h, -423877099);
+Wq60ny_n = X9rOhl(Ilef4, 1536477420, PBBw_h, (unsigned short)-423877099);
 break;
 case 'c':
 case 'C':
@@ -88,7 +88,7 @@ else if ((f6_WKv7Qo > CMqxbbK3Oh) || (B_spGq5 >= -427750182))
 {
 try
 {
-Wq60ny_n = X9rOhl(bKR2B3zIH, 1216476331, (char)1975193088, -252124448);
+Wq60ny_n = X9rOhl(bKR2B3zIH, 1216476331, (char)1975193088, (unsigned short)-252124448);
 }
 catch (int& errorCode)
 {
@@ -165,7 +165,7 @@ case 'h':
 LT2584 = X9rOhl(LT2584, -1001039366, bKR2B3zIH, B_spGq5);
 break;
 default:
-YTh8 = X9rOhl((char)1468051983, li5D, R5Fc5_, -2038736301);
+YTh8 = X9rOhl((char)1468051983, li5D, R5Fc5_, (unsigned short)-2038736301);
 break;
 }
 }
@@ -208,7 +208,7 @@ jgY8vw = HH1o2 + 1756139132;
 }
 else
 {
-YTh8 = X9rOhl((char)-1427005169, 21664461, WiLU, 883281492);
+YTh8 = X9rOhl((char)-1427005169, 21664461, WiLU, (unsigned short)883281492);
 }
 }
 else if (R5Fc5_ < Jc_Ma3O716)
@@ -357,7 +357,7 @@ if (X9rOhl(md19yYq8S, -1065589938, li5D, ZW37) == 0)
 }
 try
 {
-YTh8 = X9rOhl((char)1540138836, -591570712, (char)-258279081, -471438075);
+YTh8 = X9rOhl((char)1540138836, -591570712, (char)-258279081, (unsigned short)-471438075);
 }
 catch (int& errorCode)
 {
@@ -381,7 +381,7 @@ case 2:
 Xl52 = X9rOhl(whQpRFmB, R5Fc5_, (char)1864593328, (unsigned short)1565318077);
 break;
 case 3:
-Wq60ny_n = X9rOhl(-775400079, A_d1L_a39, WiLU, 1749704490);
+Wq60ny_n = X9rOhl((char)-775400079, A_d1L_a39, WiLU, 1749704490);
 break;
 case 4:
 Wq60ny_n = X9rOhl(f6_WKv7Qo, 222421689, x1xB2hI2, B_spGq5);
@@ -399,7 +399,7 @@ else
 {
 if (h6E3iBv9 < Jc_Ma3O716)
 {
-Wq60ny_n = X9rOhl(884293276, -1372666130, -275869091, 877168478);
+Wq60ny_n = X9rOhl((char)884293276, -1372666130, -275869091, 877168478);
 }
 else
 {
@@ -512,7 +512,7 @@ case 'b':
 DSSjSZ *= 1422774527;
 break;
 case 'c':
-Wq60ny_n = X9rOhl((char)1665545613, b6UvLt85x, -132295126, QSRjqb);
+Wq60ny_n = X9rOhl((char)1665545613, b6UvLt85x, (char)-132295126, QSRjqb);
 break;
 case 'd':
 e3cwus39y >>= n7056Q;
@@ -555,7 +555,7 @@ else
 std::cout << "HIhg0655g" << X9rOhl((char)1117337619, b6UvLt85x, (char)1489703969, QSRjqb) << "aZ12c38c" << "DRy1X6B1Qa" << "SXW72" << std::endl;
 }
 
-YTh8 = X9rOhl(-375004581, lA00Mk5, bKR2B3zIH, 470710783);
+YTh8 = X9rOhl((char)-375004581, lA00Mk5, bKR2B3zIH, 470710783);
 
 {
 int i = 10;

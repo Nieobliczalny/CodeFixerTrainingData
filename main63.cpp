@@ -43,7 +43,7 @@ int main(void)
   unsigned int  o04lofREc  =  -2008917054;
  long lCjH7Ap7Lk = 437533853;
 	float	x573UN	=	-391238308;
-	short int	l0_N44	=	-1701526344;
+	short int	l0_N44	=	(short)-1701526344;
     unsigned long long    MHA8VN_8i    =    162217834;
   short  F4I1C  =  0;
     unsigned long long    V5As13P2    =    1699641142;
@@ -53,7 +53,7 @@ int main(void)
   float  vVl7lDQ_1  =  1710259522;
   short int  jqGZ3Mw9  =  -1761528553;
  unsigned char a7s008yo = 1131413822;
-	unsigned char	Cldb	=	-1893185924;
+	unsigned char	Cldb	=	(unsigned char)-1893185924;
     double    Yta7rU    =    1195795429;
     unsigned short    jEBdhh2    =    -1818634333;
 	float	D6sT7sA	=	1125948327;

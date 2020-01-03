@@ -282,7 +282,7 @@ else
 {
 std::cout << EfiHwb1996((short)2117903602) << SqIa6 << EfiHwb1996((short)466964615) << wEfQbMv << std::endl;
 }
-P59M7 = 797783210 / EfiHwb1996(-1317952801);
+P59M7 = 797783210 / EfiHwb1996((short)-1317952801);
 P59M7 = (int)abs(v30u_Pb23);
 
 {

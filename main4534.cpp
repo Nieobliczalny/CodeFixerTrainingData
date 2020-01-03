@@ -236,7 +236,7 @@ MZrrSC8_Qv = (int)floor(Pb74Czs);
 }
 else if (((R8WAc_ <= 1636807702) || (R8WAc_)) && ((PHB1hC4rO & 1151112561) && (kC7vkj7 < -283715326)))
 {
-std::cout << p391RpD((unsigned char)-1991094932, Pb74Czs, PHB1hC4rO, (unsigned char)-1304995479) << MZrrSC8_Qv << qerO(XEQXI0Q0_0, -1552926440) << O5nTE_L56_ << std::endl;
+std::cout << p391RpD((unsigned char)-1991094932, Pb74Czs, PHB1hC4rO, (unsigned char)-1304995479) << MZrrSC8_Qv << qerO(XEQXI0Q0_0, (unsigned short)-1552926440) << O5nTE_L56_ << std::endl;
 }
 else if ((TdDO77 >= DT8Y) && (s4e_kh != 986922906))
 {

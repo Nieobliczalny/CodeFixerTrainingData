@@ -15,7 +15,7 @@ int main() {
     float    We33    =    -1281914385;
     unsigned short int    qLg0h    =    (unsigned short)-1393348037;
   unsigned char  i0zXp9  =  (unsigned char)-1990999708;
-  unsigned char  V9m_1  =  1953520669;
+  unsigned char  V9m_1  =  (unsigned char)1953520669;
     int    KXcP6xlvc    =    -195750947;
     long    FqbjxZ_q7t    =    511562562;
     unsigned char    av5N651MWs    =    -667150242;
@@ -90,7 +90,7 @@ FqbjxZ_q7t++;
 }
 else if ((ont1QGHniw < 1155415662) && (xC2gVgru_ != FqbjxZ_q7t))
 {
-ont1QGHniw = FUWzK((unsigned short)-588150168, (unsigned short)-984061244, We33, -1251622981, ont1QGHniw);
+ont1QGHniw = FUWzK((unsigned short)-588150168, (unsigned short)-984061244, We33, (unsigned char)-1251622981, ont1QGHniw);
 }
 else
 {
@@ -128,7 +128,7 @@ case 1:
 ont1QGHniw = FUWzK((unsigned short)-814813846, i0zXp9, -618991904, (unsigned char)-1623590462, 1679814989);
 break;
 case 2:
-ont1QGHniw = FUWzK(djB_41, i0zXp9, 174681820, 1053212249, -414867225);
+ont1QGHniw = FUWzK(djB_41, i0zXp9, 174681820, (unsigned char)1053212249, -414867225);
 break;
 default:
 We33 = (int)floor(djB_41);
@@ -162,7 +162,7 @@ if (sSg_4_4 <= 137707432)
 ont1QGHniw = FUWzK(sSg_4_4, (unsigned short)720713442, V9m_1, (unsigned char)2099285420, 1513577708);
 }
 
-std::cout << i0zXp9 << sSg_4_4 << FUWzK(sSg_4_4, xC2gVgru_, V9m_1, ont1QGHniw, -1212122341) << FUWzK(-581586804, xC2gVgru_, 47718567, ont1QGHniw, djB_41) << std::endl;
+std::cout << i0zXp9 << sSg_4_4 << FUWzK(sSg_4_4, xC2gVgru_, V9m_1, ont1QGHniw, -1212122341) << FUWzK((unsigned short)-581586804, xC2gVgru_, 47718567, ont1QGHniw, djB_41) << std::endl;
 if (jpt1Qi3 == -360450325)
 {
 for (int j = 5; j >= 0; --j)
@@ -187,7 +187,7 @@ sSg_4_4 = (xC2gVgru_ == 1080705684) ? FUWzK(sSg_4_4, xC2gVgru_, 643689442, (unsi
 }
 }
 }
-std::cout << FUWzK(sSg_4_4, (unsigned short)1295566546, V9m_1, ont1QGHniw, djB_41) << jpt1Qi3 << FUWzK(1797609867, -1353135356, V9m_1, ont1QGHniw, djB_41) << KXcP6xlvc << FUWzK(sSg_4_4, 368561039, V9m_1, -127549661, djB_41) << std::endl;
+std::cout << FUWzK(sSg_4_4, (unsigned short)1295566546, V9m_1, ont1QGHniw, djB_41) << jpt1Qi3 << FUWzK((unsigned short)1797609867, -1353135356, V9m_1, ont1QGHniw, djB_41) << KXcP6xlvc << FUWzK(sSg_4_4, 368561039, V9m_1, -127549661, djB_41) << std::endl;
 std::cout << "D4R7J872D" << "epPe5MZ21" << FUWzK(sSg_4_4, xC2gVgru_, 184711465, ont1QGHniw, -1350180935) << std::endl;
 
 if (FqbjxZ_q7t != xC2gVgru_)
@@ -210,7 +210,7 @@ try
 {
 for (int k = 3; k >= 0; --k)
 {
-ont1QGHniw = FUWzK((unsigned short)93340326, (unsigned short)-849820309, 1211479290, 96502775, -1992411129);
+ont1QGHniw = FUWzK((unsigned short)93340326, (unsigned short)-849820309, 1211479290, (unsigned char)96502775, -1992411129);
 }
 }
 catch (int& errorCode)
@@ -261,7 +261,7 @@ djB_41 = (int)ceil(We33);
 switch (i0zXp9)
 {
 case 0:
-ont1QGHniw = FUWzK(jpt1Qi3, -484942061, djB_41, 343162277, -1257887603);
+ont1QGHniw = FUWzK(jpt1Qi3, (unsigned short)-484942061, djB_41, 343162277, -1257887603);
 break;
 case 1:
 ont1QGHniw = FUWzK((unsigned short)-1725163676, (unsigned short)1380548404, -2016162184, -393552384, 1067239321);
@@ -333,7 +333,7 @@ case 'a':
 djB_41 = (int)abs(We33);
 break;
 case 'b':
-ont1QGHniw = FUWzK((unsigned short)-3456287, (unsigned short)-1576165953, 839010801, 364335820, 1500063959);
+ont1QGHniw = FUWzK((unsigned short)-3456287, (unsigned short)-1576165953, 839010801, (unsigned char)364335820, 1500063959);
 break;
 }
 }
@@ -366,7 +366,7 @@ case 3:
 djB_41 = (int)floor(We33);
 break;
 case 4:
-ont1QGHniw = FUWzK((unsigned short)1337130367, (unsigned short)-63026303, 803332166, 657594468, -1384182462);
+ont1QGHniw = FUWzK((unsigned short)1337130367, (unsigned short)-63026303, 803332166, (unsigned char)657594468, -1384182462);
 break;
 case 5:
 ont1QGHniw = FUWzK(xC2gVgru_, -426500547, -81836336, 1187397949, -1071961245);
@@ -398,7 +398,7 @@ sSg_4_4 = FUWzK((unsigned short)1787904207, i0zXp9, sSg_4_4, (unsigned char)-143
 }
 else
 {
-ont1QGHniw = FUWzK(KXcP6xlvc, 1459827252, 1821008018, xC2gVgru_, i0zXp9);
+ont1QGHniw = FUWzK(KXcP6xlvc, (unsigned short)1459827252, 1821008018, xC2gVgru_, i0zXp9);
 }
 }
 else

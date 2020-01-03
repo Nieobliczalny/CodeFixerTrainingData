@@ -45,7 +45,7 @@ int main(void)
   short int  xw8RtdcpY2;
   xw8RtdcpY2  =  (short)-982204430;
  short int AnTkyE3jt;
- AnTkyE3jt = 182351287;
+ AnTkyE3jt = (short)182351287;
  long adW0O4;
  adW0O4 = -738491311;
  unsigned short T2PJOPZ;

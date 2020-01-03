@@ -37,7 +37,7 @@ case 'b':
 nGY35 |= 2027838101;
 break;
 case 'c':
-z5sm = b_nxo(1467873053, O9cJO_);
+z5sm = b_nxo((short)1467873053, O9cJO_);
 break;
 case 'd':
 slqLJ35q = (xV0ep != 1488127587) ? hxei : 118972465;
@@ -272,7 +272,7 @@ while (j < 10);
 }
 }
 
-hxei = lrtL8eIB3(2069044523, -1847284451);
+hxei = lrtL8eIB3((unsigned char)2069044523, -1847284451);
 std::cout << F3dZ5vnU << lrtL8eIB3(hxei, nGY35) << "eBm67Xo" << std::endl;
 return 0;
 }

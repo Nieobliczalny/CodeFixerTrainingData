@@ -382,7 +382,7 @@ break;
 }
 }
 
-std::cout << "cJ4v" << i_1WcN((short)-1208655207, 514306646) << std::endl;
+std::cout << "cJ4v" << i_1WcN((short)-1208655207, (unsigned short)514306646) << std::endl;
 if (g1Ttw >= 899946239)
 {
 YG8j0B4 += 1867259144;

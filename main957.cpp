@@ -18,7 +18,7 @@ int main(void) {
  short zq5Q1z = (short)1035667436;
 	long long	AYP3L	=	0;
  unsigned int gU5_6 = 2090213518;
-    char    lCyFGDN5F    =    -357602666;
+    char    lCyFGDN5F    =    (char)-357602666;
  char g8_5H = 1306615617;
     char    wjVH895CJQ    =    -1496692028;
   unsigned short int  SQ08  =  -70519363;
@@ -30,7 +30,7 @@ int main(void) {
  float a6AN = -2133282388;
     long double    owfUYRnmI7    =    359633217;
  unsigned short GLy0q9GiAb = (unsigned short)-692491192;
-	unsigned short int	DOUtkdR	=	188602092;
+	unsigned short int	DOUtkdR	=	(unsigned short)188602092;
 
 if ((DOUtkdR < -1966774188) || (fP68P & lCyFGDN5F))
 {

@@ -353,7 +353,7 @@ case 'h':
 Rk3P4lS7 = o8C24HJm(887145594);
 break;
 case 'i':
-T2kUUb2 = k8kqF(2071803695, Z6h_Q, d8984);
+T2kUUb2 = k8kqF((unsigned short)2071803695, Z6h_Q, d8984);
 break;
 }
 }

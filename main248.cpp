@@ -63,7 +63,7 @@ case 2:
 T1r4Ivo10 = ktPZgj1z((short)2130243239, V_S82cr) >> 1169208410;
 break;
 case 3:
-lROg = vTl22TP(FS40usW943, (unsigned short)1956687073, -296755099);
+lROg = vTl22TP(FS40usW943, (unsigned short)1956687073, (unsigned short)-296755099);
 break;
 case 4:
 lROg = (int)abs(T1r4Ivo10);
@@ -220,7 +220,7 @@ if (bzlU3 <= 1261974925)
 {
 try
 {
-std::cout << vTl22TP((unsigned short)2015561855, lROg, (unsigned short)2038854414) << ktPZgj1z(1058844790, -1036444502) << "vKGrv5" << "MiYZOj" << V_S82cr << std::endl;
+std::cout << vTl22TP((unsigned short)2015561855, lROg, (unsigned short)2038854414) << ktPZgj1z((short)1058844790, -1036444502) << "vKGrv5" << "MiYZOj" << V_S82cr << std::endl;
 }
 catch (int& errorCode)
 {

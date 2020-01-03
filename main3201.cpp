@@ -28,7 +28,7 @@ int main(void) {
   unsigned long  HXaLabv  =  0;
  unsigned char wAA38 = 0;
   unsigned long  XbKIZAOoi  =  -728758735;
-  unsigned short  d4Yu5Ju  =  2031199029;
+  unsigned short  d4Yu5Ju  =  (unsigned short)2031199029;
     unsigned short int    Ez79fh7hx8    =    655807053;
  double w60s3wQVMo = -1168492256;
 	short int	qopl5Tqb	=	837564459;
@@ -215,7 +215,7 @@ for (int j = 3; j >= 0; --j)
 {
 try
 {
-Wwve = e9M1W2bk(-2081855798, H0R6al);
+Wwve = e9M1W2bk((char)-2081855798, H0R6al);
 }
 catch (int& errorCode)
 {

@@ -218,7 +218,7 @@ std::cout << K502 << "JpJao3u" << "x_24OooT4" << std::endl;
 }
 }
 
-std::cout << "QtmVC" << XPw5HVgcU((unsigned short)-1086942916, P_9n, 149229251, (short)-743648712, -525431341) << "xX_bxUM" << vF50(lGcEj1CDIl, 960314394, FC1_) << "AVe54ql" << std::endl;
+std::cout << "QtmVC" << XPw5HVgcU((unsigned short)-1086942916, P_9n, 149229251, (short)-743648712, (unsigned short)-525431341) << "xX_bxUM" << vF50(lGcEj1CDIl, 960314394, FC1_) << "AVe54ql" << std::endl;
 {
 int i = 10;
 do
@@ -350,7 +350,7 @@ q_f9 = XPw5HVgcU(q_f9, K502, -1539993863, M52tt2, (unsigned short)1630242846);
 }
 else if (F__H > -787038448)
 {
-jb5Je = XPw5HVgcU(jb5Je, (short)-1426736661, KpR_c, -1270109454, z9Q_);
+jb5Je = XPw5HVgcU(jb5Je, (short)-1426736661, KpR_c, (short)-1270109454, z9Q_);
 }
 else if (IMgs == -726546248)
 {
@@ -382,7 +382,7 @@ case 0:
 FC1_ = vF50(mSVUsqG, (char)1562032773, F7toy);
 break;
 case 1:
-DYom9H4Nu = XPw5HVgcU((unsigned short)2122372632, Sdx0A_2qQU, 1568359311, sHharQ10, 877512515);
+DYom9H4Nu = XPw5HVgcU((unsigned short)2122372632, Sdx0A_2qQU, 1568359311, sHharQ10, (unsigned short)877512515);
 break;
 case 2:
 P80a = XPw5HVgcU(1724756606, -1073404219, FC1_, Sdx0A_2qQU, -1219731112);
@@ -470,7 +470,7 @@ break;
 }
 else
 {
-A98_ = IX3q1wE((unsigned short)673988210, (char)-784005402, 1616212239, -278302875, fa172) / uVy2ec98;
+A98_ = IX3q1wE((unsigned short)673988210, (char)-784005402, 1616212239, (unsigned short)-278302875, fa172) / uVy2ec98;
 }
 return 0;
 }

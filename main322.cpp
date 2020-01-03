@@ -78,7 +78,7 @@ int main(int argc, char** argv) {
  short iCE2x9roW;
  iCE2x9roW = (short)-1166170661;
 	unsigned short	Nwpi;
-	Nwpi	=	-528307043;
+	Nwpi	=	(unsigned short)-528307043;
 	short	RO82ZvLN;
 	RO82ZvLN	=	(short)-1464300880;
 	long	XfHOj;
@@ -96,7 +96,7 @@ int main(int argc, char** argv) {
 	int	RUiv8;
 	RUiv8	=	-1394486790;
 
-cout << Y8Iujma82((short)-2069221465) << x_8h54v0i4 << "aoJoxG3" << "kXj0N" << hc_ftO(-1334706602, 312485616, Nwpi) << endl;
+cout << Y8Iujma82((short)-2069221465) << x_8h54v0i4 << "aoJoxG3" << "kXj0N" << hc_ftO(-1334706602, (short)312485616, Nwpi) << endl;
 switch (U1be)
 {
 case 'a':

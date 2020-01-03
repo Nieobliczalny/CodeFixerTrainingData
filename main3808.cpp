@@ -26,7 +26,7 @@ int main()
   double  k2D9LKp06h;
   k2D9LKp06h  =  -178652857;
  short ZYObtn;
- ZYObtn = -2084760571;
+ ZYObtn = (short)-2084760571;
   short int  zqM5;
   zqM5  =  (short)1552581424;
   short  k8F5;
@@ -44,7 +44,7 @@ int main()
  unsigned short int MqzyW;
  MqzyW = (unsigned short)-884919322;
     short    o_umLDd;
-    o_umLDd    =    1721733328;
+    o_umLDd    =    (short)1721733328;
     short    B_RK94r;
     B_RK94r    =    46596280;
 	float	IERJA43e0i;
@@ -62,7 +62,7 @@ int main()
     unsigned char    dK32i4w_;
     dK32i4w_    =    (unsigned char)-1064456736;
   char  oPkWX;
-  oPkWX  =  -512918929;
+  oPkWX  =  (char)-512918929;
   unsigned int  w0Yh;
   w0Yh  =  -437306268;
     unsigned long long    jqe99;
@@ -74,7 +74,7 @@ int main()
 	short int	Dfkcu5kz0q;
 	Dfkcu5kz0q	=	(short)842823475;
 	unsigned short	op90K7;
-	op90K7	=	1563406559;
+	op90K7	=	(unsigned short)1563406559;
     long    l5qG58d;
     l5qG58d    =    1773599237;
     unsigned long    Z5_EU;
@@ -96,7 +96,7 @@ int main()
  short int d88Z80__;
  d88Z80__ = (short)140216131;
     unsigned short    VD4si_qF;
-    VD4si_qF    =    617529727;
+    VD4si_qF    =    (unsigned short)617529727;
  unsigned char fh92Zr3A2;
  fh92Zr3A2 = -995588260;
     long    zanF2J;

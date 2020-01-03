@@ -90,7 +90,7 @@ while (j >= 0);
 
 cE92y = zUY24h_B / xWL4MA7D((unsigned short)1322042957, g2JIH, p_v_9gSn, (char)2032115931, k423Y_xz);
 
-J7RlB18QK = xWL4MA7D(eW7D, g2JIH, 1114055740, -1536103518, -777203956) | DzFM;
+J7RlB18QK = xWL4MA7D(eW7D, g2JIH, (unsigned short)1114055740, -1536103518, -777203956) | DzFM;
 
 DzFM = AAO615JBQ(DzFM, 42047168);
 
@@ -108,7 +108,7 @@ std::cout << "NDoJ" << DzFM << V2o_60TH_((char)-1077423208, -2119183909, eW7D) <
 
 for (int i = 0; i < 5; i++)
 {
-K6ZeI6 = xWL4MA7D((unsigned short)1528754965, DzFM, 1108984283, q0DW_D2_, zUY24h_B);
+K6ZeI6 = xWL4MA7D((unsigned short)1528754965, DzFM, (unsigned short)1108984283, q0DW_D2_, zUY24h_B);
 }
 
 for (int i = 0; i < 3; ++i)

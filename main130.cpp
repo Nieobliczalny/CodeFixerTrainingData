@@ -196,7 +196,7 @@ case 5:
 PW8GDK_8p = S15nq6Wk((short)-981681980);
 break;
 default:
-n34k2lN = rBDRi(n34k2lN, (unsigned short)416516509, NsZ0Vf, 884648620, -1742711736);
+n34k2lN = rBDRi(n34k2lN, (unsigned short)416516509, NsZ0Vf, 884648620, (short)-1742711736);
 break;
 }
 LM2e_3X = (char)(Csp2a_9);
@@ -206,7 +206,7 @@ case 0:
 PW8GDK_8p = S15nq6Wk((short)-1223487415);
 break;
 case 1:
-FEX1e = rBDRi(FEX1e, n34k2lN, (char)1009159021, nIGgPb, -1380482918);
+FEX1e = rBDRi(FEX1e, n34k2lN, (char)1009159021, nIGgPb, (short)-1380482918);
 break;
 case 2:
 NsZ0Vf = iPJq();
@@ -300,7 +300,7 @@ case 1:
 PW8GDK_8p = rBDRi(-566292296, FEX1e, NsZ0Vf, LM2e_3X, (short)-1526890934);
 break;
 case 2:
-nIGgPb = rBDRi(nIGgPb, (unsigned short)854564995, -1855913848, -899057368, m5rM_DD9);
+nIGgPb = rBDRi(nIGgPb, (unsigned short)854564995, (char)-1855913848, -899057368, m5rM_DD9);
 break;
 case 3:
 m5rM_DD9 = jogAD4P();

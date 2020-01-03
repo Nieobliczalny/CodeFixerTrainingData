@@ -236,7 +236,7 @@ bGjm = D8IF6(C1wnHeWoA);
 break;
 case 'e':
 case 'E':
-CDon_0Svu = b6MUl0(tJGp1X_9t, (unsigned short)1694818326, CDon_0Svu, (short)-1766154654, -1485331067);
+CDon_0Svu = b6MUl0(tJGp1X_9t, (unsigned short)1694818326, CDon_0Svu, (short)-1766154654, (short)-1485331067);
 break;
 }
 {
@@ -273,7 +273,7 @@ case 1:
 C1wnHeWoA = (int)abs(CIU3P_);
 break;
 case 2:
-oVF6H3aH = b6MUl0(515524049, -2087061099, C1wnHeWoA, bGjm, CIU3P_);
+oVF6H3aH = b6MUl0(515524049, (unsigned short)-2087061099, C1wnHeWoA, bGjm, CIU3P_);
 break;
 case 3:
 CDon_0Svu <<= 1179159872;

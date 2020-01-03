@@ -212,7 +212,7 @@ catch (int& errorCode)
 N8zEem = z26_(N8zEem, i_5nAZi_, E8WHhs_, -1586802444);
 }
 }
-cout << U31F((short)81119176, 1944305176, 1623491411, (short)1060811898, -1755089829) << RAF9ibW(N8zEem, -1408909270, 1842167578, f7_0Q52) << endl;
+cout << U31F((short)81119176, 1944305176, 1623491411, (short)1060811898, (unsigned short)-1755089829) << RAF9ibW(N8zEem, -1408909270, 1842167578, f7_0Q52) << endl;
 
 J9Kn5Gzhz >>= 1316196208;
 {
@@ -283,7 +283,7 @@ Xco6NE = U31F(xX2FN2w1, -1063727244, aN01V1Az_, (short)-1587082775, DUE_ho4s) ^ 
 }
 else
 {
-E8WHhs_ = U31F((short)-887080979, c_pgv4_tLO, -160898283, -800996475, M3131DN1b1);
+E8WHhs_ = U31F((short)-887080979, c_pgv4_tLO, -160898283, (short)-800996475, M3131DN1b1);
 }
 }
 else if ((ZbQx != Os9Sjq7N) || (d9JE < uURHeta))
@@ -295,7 +295,7 @@ Vs17Bc = RAF9ibW(ptFHn05_Z, (unsigned char)2001886026, 1395836962, -2058060846);
 }
 else if (((suT7Si) || (k252P < S9nva_)) || (EDx90v0 == fG01ExDekC))
 {
-E8WHhs_ = Vw1C((short)-245237208, ln03rGe26, -1058755582, f2Y_);
+E8WHhs_ = Vw1C((short)-245237208, ln03rGe26, (unsigned char)-1058755582, f2Y_);
 }
 else
 {
@@ -400,7 +400,7 @@ pQT7WfC = (unsigned char)(A5DV4n2J_ + (1275536194));
 }
 else
 {
-cout << "zH75" << "I__QBc4o2" << z26_(DUE_ho4s, FZcab, 1227640136, -1044098523) << Vw1C((short)-441061885, FZcab, (unsigned char)-522130879, 658944147) << z26_(-664388075, 1389198248, 289950003, NDY740) << endl;
+cout << "zH75" << "I__QBc4o2" << z26_(DUE_ho4s, FZcab, 1227640136, -1044098523) << Vw1C((short)-441061885, FZcab, (unsigned char)-522130879, 658944147) << z26_((char)-664388075, 1389198248, 289950003, NDY740) << endl;
 }
 if (Nr8HJM8gIF <= FhQM2xHAK)
 {
@@ -433,7 +433,7 @@ case 6:
 N5t5E9MP = SaR5(mF9e, -1421657923, B48wc4G, s9bNY8K, 1421815287);
 break;
 default:
-mF9e = RAF9ibW(Dmh1vz, (unsigned char)1269397621, -1592281425, 61430927);
+mF9e = RAF9ibW(Dmh1vz, (unsigned char)1269397621, -1592281425, (short)61430927);
 break;
 }
 }
@@ -481,7 +481,7 @@ case 1:
 unNpeRzc3t %= 896137689;
 break;
 case 2:
-e758Vt = U31F((short)1708275746, -965945481, E8WHhs_, yqQn, 2122248374);
+e758Vt = U31F((short)1708275746, -965945481, E8WHhs_, yqQn, (unsigned short)2122248374);
 break;
 case 3:
 ahB9t8R *= bqB2Z;

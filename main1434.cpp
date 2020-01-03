@@ -12,7 +12,7 @@ int main(void)
 {
  unsigned short int w64W_7930 = (unsigned short)-216143806;
 	unsigned short int	gsdZo515xR	=	(unsigned short)1263338358;
-  unsigned short  H5x0IR  =  532898278;
+  unsigned short  H5x0IR  =  (unsigned short)532898278;
  unsigned short AsY2_gpmr3 = 1537769126;
     unsigned int    mG59_4J    =    -349661426;
     unsigned int    HE0o0    =    1469693383;
@@ -26,7 +26,7 @@ int main(void)
   unsigned short  Y48sk  =  (unsigned short)-1973399498;
     unsigned long long    s9r_3    =    593825030;
 	unsigned short	cnEF_TX5I	=	0;
-    short    j6dMZH9    =    1466455286;
+    short    j6dMZH9    =    (short)1466455286;
     long long    YIOs2m    =    0;
   unsigned long  HRCU  =  136163501;
     long double    A5Is8ap_f    =    1293831653;
@@ -43,7 +43,7 @@ int main(void)
   float  sY_m7bCe  =  -893642728;
 	unsigned long long	FgEMkeG	=	-1848609653;
  int LIn6YOYL4a = -1861001668;
-  unsigned short  y9Ou0Y2  =  -305686406;
+  unsigned short  y9Ou0Y2  =  (unsigned short)-305686406;
 
 switch (Y48sk)
 {
@@ -290,7 +290,7 @@ case 7:
 Et_ke9 += 1531853457;
 break;
 case 8:
-cE34y9 = (s9r_3) ? y9Ou0Y2 : -1564771202;
+cE34y9 = (s9r_3) ? y9Ou0Y2 : (unsigned short)-1564771202;
 break;
 case 9:
 Y48sk = H5x0IR & gsdZo515xR;

@@ -101,7 +101,7 @@ z79je = zYJQi45pa2(z79je, -1959219320, 2058156261);
 break;
 case 'e':
 case 'E':
-EfT5EB_A = iJ33((short)1837825149, CdGG, -436490239);
+EfT5EB_A = iJ33((short)1837825149, CdGG, (unsigned short)-436490239);
 break;
 case 'f':
 case 'F':
@@ -321,7 +321,7 @@ case 7:
 oRGc3 *= 1031288260;
 break;
 case 8:
-d8ti2J7 = iJ33((short)1423578737, DO2_, 1500005244);
+d8ti2J7 = iJ33((short)1423578737, DO2_, (unsigned short)1500005244);
 break;
 default:
 d67F &= 1114844909;
@@ -379,7 +379,7 @@ case 1:
 YgHz7mR2w &= ul35I;
 break;
 case 2:
-ul35I = FSf1qNr(ul35I, 365410927);
+ul35I = FSf1qNr(ul35I, (unsigned char)365410927);
 break;
 case 3:
 sQrebzlBf = zYJQi45pa2(sQrebzlBf, N_m_j7n151, 43302664);

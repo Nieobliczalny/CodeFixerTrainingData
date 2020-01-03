@@ -50,7 +50,7 @@ else
 switch (xS1hJXV)
 {
 case 0:
-h5478Ab = CbyL(-732696044, (unsigned short)544325840, tz23ec1Oc);
+h5478Ab = CbyL((unsigned char)-732696044, (unsigned short)544325840, tz23ec1Oc);
 break;
 case 1:
 KZ61 = CbyL(KZ61, uX6RB, K7HIMqTQ28);
@@ -62,7 +62,7 @@ case 3:
 tfsZd++;
 break;
 default:
-KZ61 = Sr_H_Rs((unsigned short)1386026179, 1524304742, (short)1287494671, 1449717428, 750457184);
+KZ61 = Sr_H_Rs((unsigned short)1386026179, 1524304742, (short)1287494671, (unsigned char)1449717428, 750457184);
 break;
 }
 }
@@ -163,7 +163,7 @@ case 'b':
 K7HIMqTQ28 = (int)abs(XX_Hz1WJ);
 break;
 case 'c':
-t3i6T4p2_V = Sr_H_Rs((unsigned short)-760095450, VjG1, (short)524391118, -1329642442, -975847655);
+t3i6T4p2_V = Sr_H_Rs((unsigned short)-760095450, VjG1, (short)524391118, (unsigned char)-1329642442, -975847655);
 break;
 case 'd':
 hp6Y8_A4c4 *= VjG1;
@@ -195,7 +195,7 @@ break;
 }
 else
 {
-cout << CbyL(VjG1, (unsigned short)1410802325, (short)337366196) << g6i1iv3o16 << YlS1(-1585215923, 266981245, -111256773) << endl;
+cout << CbyL(VjG1, (unsigned short)1410802325, (short)337366196) << g6i1iv3o16 << YlS1((unsigned short)-1585215923, 266981245, -111256773) << endl;
 }
 
 If983uv8W4 = CbyL(185145535, -911328646, -1209740486);
@@ -284,7 +284,7 @@ else if ((jnC713_ != VjG1) && ((D9B8 > 1459814405) && (D9B8 >= -980784835)))
 {
 if (d3yQpg4lk <= -1720176811)
 {
-Qe9dibYZ_ = CbyL(Qe9dibYZ_, 983443799, 825254687);
+Qe9dibYZ_ = CbyL(Qe9dibYZ_, (unsigned short)983443799, 825254687);
 }
 }
 else if (KZ61 < g6i1iv3o16)
@@ -328,7 +328,7 @@ while (k >= 0);
 }
 else
 {
-cout << CbyL((unsigned char)-1926266508, (unsigned short)-1835882665, 1241715427) << endl;
+cout << CbyL((unsigned char)-1926266508, (unsigned short)-1835882665, (short)1241715427) << endl;
 }
 }
 
@@ -356,7 +356,7 @@ case 6:
 jnC713_ = tz23ec1Oc % 327155092;
 break;
 case 7:
-VjG1 = CbyL((unsigned char)960087365, (unsigned short)863284447, 835240400);
+VjG1 = CbyL((unsigned char)960087365, (unsigned short)863284447, (short)835240400);
 break;
 case 8:
 h5478Ab++;

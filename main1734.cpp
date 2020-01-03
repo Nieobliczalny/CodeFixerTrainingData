@@ -22,7 +22,7 @@ int main() {
     unsigned int    z8sL_zcYyV;
     z8sL_zcYyV    =    0;
  char Wo73CqU65;
- Wo73CqU65 = 1206356277;
+ Wo73CqU65 = (char)1206356277;
     long long    my44k;
     my44k    =    1690451505;
     unsigned short int    VCBPA_p0;
@@ -78,7 +78,7 @@ int main() {
     long double    A8y3;
     A8y3    =    -1214612572;
  unsigned short int SgmB14r9W;
- SgmB14r9W = 991807758;
+ SgmB14r9W = (unsigned short)991807758;
     unsigned long long    T3h8U2N7F;
     T3h8U2N7F    =    -1622023858;
  double GAhRuIfBV;
@@ -90,7 +90,7 @@ int main() {
 	unsigned short	xFS8cG;
 	xFS8cG	=	(unsigned short)-1577241491;
     char    S9_ma;
-    S9_ma    =    -353163233;
+    S9_ma    =    (char)-353163233;
   char  lN8167j8vf;
   lN8167j8vf  =  0;
   int  CR9zr7;
@@ -106,7 +106,7 @@ int main() {
   unsigned long long  Z8xs4rgda;
   Z8xs4rgda  =  -164940862;
 	unsigned short	K40ltalxI_;
-	K40ltalxI_	=	1820499116;
+	K40ltalxI_	=	(unsigned short)1820499116;
   short  k_V_5;
   k_V_5  =  1992046774;
   int  g7J6R7rH9;
@@ -144,7 +144,7 @@ i++;
 }
 while (i < 7);
 }
-z8sL_zcYyV = uFdL(rm38hp, -1620828323, VCBPA_p0);
+z8sL_zcYyV = uFdL(rm38hp, (unsigned short)-1620828323, VCBPA_p0);
 {
 int i = 9;
 do
@@ -193,7 +193,7 @@ case 8:
 zazVioFGK = uFdL(q5_Jm22pQ9, (unsigned short)-1778848205, (unsigned short)498751862);
 break;
 default:
-lN8167j8vf = uFdL(SvCOyu, 1336666525, SgmB14r9W);
+lN8167j8vf = uFdL(SvCOyu, (unsigned short)1336666525, SgmB14r9W);
 break;
 }
 
@@ -230,7 +230,7 @@ zazVioFGK = uFdL(-985310871, (unsigned short)2129077108, rd_4uV);
 }
 else if ((z8sL_zcYyV == -1800746617) || (A8y3 <= 1880301075))
 {
-z8sL_zcYyV = uFdL(734735229, (unsigned short)947315603, 2116329120);
+z8sL_zcYyV = uFdL(734735229, (unsigned short)947315603, (unsigned short)2116329120);
 }
 else if ((DAUf) || (Wo73CqU65 & -544657845))
 {
@@ -273,7 +273,7 @@ z8sL_zcYyV = uFdL(582933092, (unsigned short)2139714761, (unsigned short)1685309
 }
 else if (A8y3 < 536389969)
 {
-zazVioFGK = uFdL(O67P9gT6f, 806372077, h_lXF_J5_);
+zazVioFGK = uFdL(O67P9gT6f, (unsigned short)806372077, h_lXF_J5_);
 }
 else
 {
@@ -431,7 +431,7 @@ case 1:
 O67P9gT6f = uFdL(1893755302, (unsigned short)378141211, (unsigned short)376279070) | 890751647;
 break;
 case 2:
-nfcp = uFdL(-1078187595, 563184947, q5_Jm22pQ9);
+nfcp = uFdL(-1078187595, (unsigned short)563184947, q5_Jm22pQ9);
 break;
 case 3:
 SRPuj3 += 1149674718;

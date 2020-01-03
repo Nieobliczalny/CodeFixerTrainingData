@@ -24,7 +24,7 @@ int main()
 	unsigned short	XsKDv08v	=	(unsigned short)-47325387;
 	unsigned short	Q0VvNpoi0	=	(unsigned short)-806057787;
  long long gka482P3 = 1330126299;
-  short  sj1ME  =  -499523122;
+  short  sj1ME  =  (short)-499523122;
   unsigned char  PnD36MN  =  2002946290;
  unsigned short int Te0155sM = 73330045;
     long double    Dv_W27    =    1171219012;
@@ -37,7 +37,7 @@ int main()
 	unsigned short	lmYLCswnM6	=	(unsigned short)184417124;
     long    zF0mzXr    =    -1475641360;
  unsigned char Q_8E = 0;
-	unsigned short int	Ut2X54f0oR	=	1093177341;
+	unsigned short int	Ut2X54f0oR	=	(unsigned short)1093177341;
     double    Eatj1    =    1488315991;
     long    FpnCH_K    =    1180268973;
     int    pKEm    =    199682164;
@@ -56,7 +56,7 @@ int main()
 	unsigned long	YY3C3U	=	-1856355230;
 	unsigned short int	jSeW2	=	(unsigned short)286961737;
     unsigned short    j_St    =    (unsigned short)762652343;
-  short int  fir_  =  -715882394;
+  short int  fir_  =  (short)-715882394;
  unsigned long X44c9 = -1547828535;
   double  TJQW7xMs7  =  -456681320;
   unsigned char  RWR38z  =  -1189779081;
@@ -78,7 +78,7 @@ int main()
   short  s94HYn5Gme  =  (short)-1348265281;
   unsigned int  lW_u  =  -1056236326;
  unsigned long ZWk8SV = -462210385;
-	short int	s_B6i	=	1628213420;
+	short int	s_B6i	=	(short)1628213420;
 	unsigned long	UdOQC5V	=	593439262;
     int    p011    =    948701072;
 	short	JuK7a	=	1040987779;
@@ -153,7 +153,7 @@ for (int i = 4; i >= 0; i--)
 {
 if (PnD36MN != s5wwv)
 {
-std::cout << nIww(UdOQC5V, 1788284304) << "EK6KWt1" << Rc7z03(1041679318, hTj62Lq) << std::endl;
+std::cout << nIww(UdOQC5V, 1788284304) << "EK6KWt1" << Rc7z03((unsigned short)1041679318, hTj62Lq) << std::endl;
 }
 }
 for (int i = 3; i >= 0; i--)
@@ -273,7 +273,7 @@ else if ((qaa04 <= jBC__i) || (B35Sc0M == JcE0R3rhZ))
 {
 try
 {
-std::cout << "m5_C" << JcE0R3rhZ << Rc7z03((unsigned short)-345392439, cxvEPT_v) << jTy0V3iyIJ(1516291053, 269355401, X44c9, O99f2G7aUN, FpnCH_K) << Akv2n7((unsigned char)-1261983769, cxvEPT_v, -871851916, 203203284, 2125255117) << std::endl;
+std::cout << "m5_C" << JcE0R3rhZ << Rc7z03((unsigned short)-345392439, cxvEPT_v) << jTy0V3iyIJ(1516291053, 269355401, X44c9, O99f2G7aUN, FpnCH_K) << Akv2n7((unsigned char)-1261983769, cxvEPT_v, -871851916, 203203284, (unsigned short)2125255117) << std::endl;
 }
 catch (int& errorCode)
 {

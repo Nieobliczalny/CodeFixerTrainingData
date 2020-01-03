@@ -41,7 +41,7 @@ int main(void)
   short int  l46g;
   l46g  =  (short)-1087470785;
 	unsigned short	sfL78sbFa;
-	sfL78sbFa	=	276118732;
+	sfL78sbFa	=	(unsigned short)276118732;
  float Zlj500c2g;
  Zlj500c2g = 517234734;
  unsigned long long pqJX8uk;
@@ -83,7 +83,7 @@ int main(void)
 	short	veA2EVc2_m;
 	veA2EVc2_m	=	(short)-1192330334;
  unsigned short qtsm51;
- qtsm51 = 1831987735;
+ qtsm51 = (unsigned short)1831987735;
  int F8f4Gvuiyd;
  F8f4Gvuiyd = -1967995757;
 	unsigned int	y0xCH3wGh;
@@ -97,7 +97,7 @@ int main(void)
 	float	jFR79r;
 	jFR79r	=	1267424621;
  unsigned char u62zfxNNw;
- u62zfxNNw = 199429266;
+ u62zfxNNw = (unsigned char)199429266;
 	long long	dqYR62;
 	dqYR62	=	0;
     unsigned long    d65UxCqop;
@@ -115,7 +115,7 @@ int main(void)
  int yF33TCm;
  yF33TCm = -1038858622;
   unsigned short int  Gt9G98V7;
-  Gt9G98V7  =  -903751149;
+  Gt9G98V7  =  (unsigned short)-903751149;
     long    NSU8qC_n6;
     NSU8qC_n6    =    0;
   unsigned short  gCn3v3wZ;
@@ -125,7 +125,7 @@ int main(void)
 	long	F_B_0k5;
 	F_B_0k5	=	-799899923;
 
-l46g = Rl_8ME2 / Cxhof0Uc2l(z7wF_, F_B_0k5, -1972960977, YUN2Sn5);
+l46g = Rl_8ME2 / Cxhof0Uc2l(z7wF_, F_B_0k5, (short)-1972960977, YUN2Sn5);
 elyqc14g_7 = (int)ceil(Y_w7XB4L);
 
 try

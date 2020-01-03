@@ -35,7 +35,7 @@ int main(void) {
  short int AQ1DQ;
  AQ1DQ = (short)1367696009;
 	short int	jDbwbheCCg;
-	jDbwbheCCg	=	-40022153;
+	jDbwbheCCg	=	(short)-40022153;
     unsigned short    l5D4;
     l5D4    =    -687303281;
   unsigned char  JTVRm1qp2_;
@@ -53,7 +53,7 @@ int main(void) {
   short  razu;
   razu  =  (short)-867342637;
   unsigned char  k4kD0H;
-  k4kD0H  =  -792512842;
+  k4kD0H  =  (unsigned char)-792512842;
   int  a591_9j_;
   a591_9j_  =  -1485472321;
 	unsigned char	Sr_T23yO;

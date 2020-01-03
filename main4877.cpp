@@ -432,7 +432,7 @@ case 2:
 c1eKm5A9Mu = (int)abs(s0mNwyIM77);
 break;
 case 3:
-xEitP = zgKQCIn(xEitP, 1646952397, Shvek2o, P_PMrs3fS7, -1784446909);
+xEitP = zgKQCIn(xEitP, 1646952397, Shvek2o, P_PMrs3fS7, (char)-1784446909);
 break;
 }
 }
@@ -537,7 +537,7 @@ while (j >= 0);
 }
 }
 cout << O4U7n() << "cH941" << V7oAIR(x23dCGk, -1854596569, (unsigned short)2091977847, RN8_2JH) << V7oAIR(x23dCGk, MltWr, Zw0Pwy_2Zl, -428253352) << pnYQ << endl;
-s0Zk84hZua = V7oAIR((unsigned short)2063696957, GPn45, 57389138, yU3_XC);
+s0Zk84hZua = V7oAIR((unsigned short)2063696957, GPn45, (unsigned short)57389138, yU3_XC);
 return 0;
 }
 

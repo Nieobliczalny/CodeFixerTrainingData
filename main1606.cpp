@@ -75,7 +75,7 @@ int main(void) {
   long long  Dq2oLl_2q;
   Dq2oLl_2q  =  -731302552;
   unsigned short int  f7L8WwY;
-  f7L8WwY  =  1470508609;
+  f7L8WwY  =  (unsigned short)1470508609;
  long aTSms8W;
  aTSms8W = 1010840809;
  long FyGT8DxK2;
@@ -115,7 +115,7 @@ int main(void) {
   unsigned char  nwEVvS9A4;
   nwEVvS9A4  =  (unsigned char)708311045;
   unsigned short int  Pni_Ogx;
-  Pni_Ogx  =  276637552;
+  Pni_Ogx  =  (unsigned short)276637552;
     short int    N_KlzbSS;
     N_KlzbSS    =    -236470507;
   long  kc76P1;
@@ -135,7 +135,7 @@ int main(void) {
     unsigned short    Vi_C;
     Vi_C    =    (unsigned short)-696158300;
  unsigned short int jLbNW6kQo_;
- jLbNW6kQo_ = 466379069;
+ jLbNW6kQo_ = (unsigned short)466379069;
   unsigned int  AoscWUv;
   AoscWUv  =  1735939030;
  unsigned short xaZ3IHky;
@@ -153,7 +153,7 @@ int main(void) {
     long    kH9N3;
     kH9N3    =    -920064142;
   char  iRi9KlO5;
-  iRi9KlO5  =  1633047391;
+  iRi9KlO5  =  (char)1633047391;
 	float	dM21P_wzUn;
 	dM21P_wzUn	=	461491818;
 	unsigned long long	yyUJ1;
@@ -175,7 +175,7 @@ int main(void) {
  unsigned long iGysp2_l;
  iGysp2_l = 1407179461;
 	short int	WD54f2cN;
-	WD54f2cN	=	314423714;
+	WD54f2cN	=	(short)314423714;
     float    k9hIu780rX;
     k9hIu780rX    =    -1178536883;
 	char	t03TT;
@@ -241,7 +241,7 @@ fEPVtsT0p <<= 1320088602;
 break;
 case 'e':
 case 'E':
-Fp0MyyIy7t = Q7D15((unsigned short)-459110799, (char)-945984573, -1004686128, -713662220, 1395931367);
+Fp0MyyIy7t = Q7D15((unsigned short)-459110799, (char)-945984573, -1004686128, -713662220, (short)1395931367);
 break;
 case 'f':
 case 'F':
@@ -308,7 +308,7 @@ while (j >= 0)
 {
 if (mza1vY1BV & 1385318987)
 {
-nwD_uBgd = Yj__Fq((char)-1228133123, (unsigned short)-291330257, 40563157, 1152564187, pHqHJJrr);
+nwD_uBgd = Yj__Fq((char)-1228133123, (unsigned short)-291330257, (short)40563157, 1152564187, pHqHJJrr);
 }
 else if (D5T9)
 {
@@ -387,7 +387,7 @@ try
 {
 try
 {
-G_071d8SS = Q7D15((unsigned short)1511909595, e219C66, 582089210, gBf_1ui9, -1522229287);
+G_071d8SS = Q7D15((unsigned short)1511909595, e219C66, 582089210, gBf_1ui9, (short)-1522229287);
 }
 catch (int& errorCode)
 {

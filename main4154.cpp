@@ -206,7 +206,7 @@ while (j < 9);
 }
 
 cout << "H20nCDC5_" << "MSy984z" << rxm2n3Q5v8(-1042635424, (unsigned short)2128662562) << endl;
-cout << rxm2n3Q5v8(185438796, (unsigned short)-484966317) << S07DCCg_9(-1641359296, -1019490617, 499759126, k2oZ8KLl22) << ccLp1b5 << endl;
+cout << rxm2n3Q5v8(185438796, (unsigned short)-484966317) << S07DCCg_9(-1641359296, -1019490617, (unsigned char)499759126, k2oZ8KLl22) << ccLp1b5 << endl;
 for (int i = 5; i >= 0; i--)
 {
 mnxS4F8_W = (double)(Qtp5se);

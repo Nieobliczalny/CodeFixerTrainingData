@@ -33,7 +33,7 @@ int main(void) {
     short int    XR97KdC8Q;
     XR97KdC8Q    =    (short)1611244533;
 	unsigned char	oENwvmul7;
-	oENwvmul7	=	290132994;
+	oENwvmul7	=	(unsigned char)290132994;
   char  l4AJf5N;
   l4AJf5N  =  1141430081;
   unsigned char  qY44f;

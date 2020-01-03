@@ -87,7 +87,7 @@ else if (j2c344El0)
 {
 if (Xe2e8bN)
 {
-Thp_I8z = Z26A7(1414257886, Q4i870, (short)-578860703, 1831643646, MN4w3Om48u);
+Thp_I8z = Z26A7(1414257886, Q4i870, (short)-578860703, (unsigned char)1831643646, MN4w3Om48u);
 }
 else if (((Q4i870 & -1413242396) || (JMO_E2sG1_ >= 1883618720)) || (aoBuBQ3Kx < Thp_I8z))
 {
@@ -190,7 +190,7 @@ case 'd':
 l4dI = JMO_E2sG1_ >> 156264715;
 break;
 case 'e':
-F1ek = Uh62x_s((unsigned short)1255149612, -431943618, 266838535);
+F1ek = Uh62x_s((unsigned short)1255149612, (unsigned short)-431943618, 266838535);
 break;
 case 'f':
 Y79R = Uh62x_s(936157157, -1525079464, aoBuBQ3Kx) / F1ek;
@@ -320,7 +320,7 @@ aoBuBQ3Kx = Z26A7(-380486607, -312499366, wll8Fgdz3, (unsigned char)1838962224, 
 break;
 case 'h':
 case 'H':
-h35D87bBI6 = uf9LP1R(1339621923, -2127095406);
+h35D87bBI6 = uf9LP1R(1339621923, (unsigned short)-2127095406);
 break;
 case 'i':
 case 'I':
@@ -341,7 +341,7 @@ ql3b3UzX2 = (long)(k5h7);
 
 std::cout << "Sc74Td" << h35D87bBI6 << uf9LP1R(h35D87bBI6, l4dI) << j2c344El0 << JMO_E2sG1_ << std::endl;
 
-std::cout << SX_V(194967767, (short)883862405, -73228630, (unsigned char)887054836, 1022253425) << "t_Ef" << Uh62x_s(h35D87bBI6, l4dI, -1712542616) << Uh62x_s(h35D87bBI6, -1891719546, 1729730791) << Z26A7(h35D87bBI6, l4dI, -901632999, wll8Fgdz3, n4UuM) << std::endl;
+std::cout << SX_V(194967767, (short)883862405, -73228630, (unsigned char)887054836, (unsigned char)1022253425) << "t_Ef" << Uh62x_s(h35D87bBI6, l4dI, -1712542616) << Uh62x_s(h35D87bBI6, -1891719546, 1729730791) << Z26A7(h35D87bBI6, l4dI, -901632999, wll8Fgdz3, n4UuM) << std::endl;
 
 {
 int i = 0;

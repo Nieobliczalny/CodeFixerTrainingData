@@ -34,7 +34,7 @@ int main(int argc, char** argv) {
   unsigned char  J8otAzK  =  (unsigned char)1438415566;
 	short int	th4dQx	=	(short)298739311;
 	unsigned long long	yBNHu1kR	=	1918406007;
-    short    L5KRWiH7    =    -1802428010;
+    short    L5KRWiH7    =    (short)-1802428010;
 	float	W4qg	=	-390072787;
  long long Zj1c96odg8 = -1181158601;
   int  RBrRMy  =  2017809099;
@@ -49,7 +49,7 @@ int main(int argc, char** argv) {
   unsigned int  b8Lu5xERGF  =  -1576492328;
   unsigned char  M95cGvTPVB  =  (unsigned char)547031048;
   int  ePe4f8C  =  -1551892865;
-	short	q9Y4Bmvu	=	-2046129238;
+	short	q9Y4Bmvu	=	(short)-2046129238;
     unsigned short    M04S    =    644475238;
  float uO_6lP = 169828442;
     short    CLZFK5DobJ    =    (short)-1108431793;
@@ -76,7 +76,7 @@ int main(int argc, char** argv) {
 	int	H4qSjZ	=	474975886;
 	unsigned long	Ccy0Zivck	=	389739841;
 	int	xAhSoY	=	-425128847;
-	unsigned char	E76J1qk7M	=	1058222822;
+	unsigned char	E76J1qk7M	=	(unsigned char)1058222822;
 	short int	LTieTpFv	=	-635191096;
  long double xRkic4g = 1029361529;
 	long double	SyB0	=	-901400785;
@@ -86,7 +86,7 @@ int main(int argc, char** argv) {
   long double  u5q44t1F_  =  1817143179;
     short int    rmx25Y2g    =    (short)-1760506888;
  short P7O9E8jAPA = -1333936966;
-    short    Ut58    =    -1896382303;
+    short    Ut58    =    (short)-1896382303;
  short int lPjwXErq = 0;
     char    Ey1L_TUIlw    =    2070887923;
   char  O_J72  =  -665464053;
@@ -99,7 +99,7 @@ int main(int argc, char** argv) {
   unsigned short  OrF23g  =  (unsigned short)138767959;
  unsigned short QU59a_xj = 0;
     double    C7940lJU    =    -1366413242;
-	char	e4dL1	=	737886587;
+	char	e4dL1	=	(char)737886587;
     unsigned char    h5oGOqTQg    =    317721348;
  long long A_g02 = -363264359;
  unsigned short int i8AKMv9B = 1732533243;
@@ -283,7 +283,7 @@ case 'f':
 Zj1c96odg8 -= 1872666636;
 break;
 case 'g':
-L8_Xgx58Ro = eZDf(fHHQ0elD, 1677933600);
+L8_Xgx58Ro = eZDf(fHHQ0elD, (short)1677933600);
 break;
 case 'h':
 W4qg = (int)ceil(Wl53leXg);

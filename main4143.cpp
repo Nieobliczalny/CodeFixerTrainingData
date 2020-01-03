@@ -28,7 +28,7 @@ int main(int argc, char** argv) {
  long long Z_4t;
  Z_4t = -1644895540;
  short E7OwMVRkR;
- E7OwMVRkR = -1988678427;
+ E7OwMVRkR = (short)-1988678427;
 	int	EwO57;
 	EwO57	=	429914189;
     unsigned long long    K31ql;
@@ -50,7 +50,7 @@ int main(int argc, char** argv) {
 	short int	gbt4F4;
 	gbt4F4	=	(short)1268260721;
   unsigned short int  G9Eq;
-  G9Eq  =  -365233938;
+  G9Eq  =  (unsigned short)-365233938;
   unsigned char  vLZdO;
   vLZdO  =  -1455316611;
     unsigned short int    K5mzF;
@@ -84,7 +84,7 @@ int main(int argc, char** argv) {
     short int    Il1_C;
     Il1_C    =    (short)432861859;
     char    S52OoldiuW;
-    S52OoldiuW    =    1003594688;
+    S52OoldiuW    =    (char)1003594688;
  float xcnT5PkKYL;
  xcnT5PkKYL = -677264077;
   long long  oJ5a0g;
@@ -102,7 +102,7 @@ int main(int argc, char** argv) {
  unsigned short int wRrN3458;
  wRrN3458 = (unsigned short)-1613934361;
 	unsigned char	eOR6_2cMz0;
-	eOR6_2cMz0	=	-2131148898;
+	eOR6_2cMz0	=	(unsigned char)-2131148898;
     short    hhPomZ1;
     hhPomZ1    =    -1632539981;
     int    tAo52;
@@ -124,7 +124,7 @@ int main(int argc, char** argv) {
  double M340Y;
  M340Y = 2030141675;
  unsigned short Pc6wg;
- Pc6wg = 1681790864;
+ Pc6wg = (unsigned short)1681790864;
 	unsigned long	fEsCiEj2S;
 	fEsCiEj2S	=	1200998426;
   unsigned int  kv1_9;
@@ -176,7 +176,7 @@ int main(int argc, char** argv) {
 	int	AoSAl00Y;
 	AoSAl00Y	=	0;
  unsigned short Kse195;
- Kse195 = 1662744461;
+ Kse195 = (unsigned short)1662744461;
 	int	TU9Fzz3W2;
 	TU9Fzz3W2	=	1945322443;
  unsigned int RNtT95O1R;
@@ -260,7 +260,7 @@ while (i < 5);
 int i = 0;
 do
 {
-cout << "FVM4P7d" << KBUL(wKc7nMjJV) << PanQvVB6t1((short)-238679930, (unsigned short)-1888545592, So48Mb4, -403227496, Ol21Jwv) << "Ljd_" << endl;
+cout << "FVM4P7d" << KBUL(wKc7nMjJV) << PanQvVB6t1((short)-238679930, (unsigned short)-1888545592, So48Mb4, (short)-403227496, Ol21Jwv) << "Ljd_" << endl;
 i++;
 }
 while (i < 3);

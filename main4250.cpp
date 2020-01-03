@@ -30,7 +30,7 @@ int main(void)
 	short int	k28S	=	(short)-628498390;
 	short int	f0Q2kF0Vmd	=	0;
 	int	vqd26wYd	=	-1219274407;
- char Q___WK7Oo = -2133729084;
+ char Q___WK7Oo = (char)-2133729084;
 	short int	gMv7ivcm	=	0;
     unsigned char    m4N_g0    =    0;
   unsigned long long  mT8b4  =  -1163971339;
@@ -76,7 +76,7 @@ Q___WK7Oo = RVdveuf((unsigned short)409359798, m4N_g0, -369211683, (short)-62251
 }
 else if (vqd26wYd & -262070178)
 {
-DE6Z = RVdveuf(DE6Z, mMrVd, Y163P8p, 1227180830);
+DE6Z = RVdveuf(DE6Z, mMrVd, Y163P8p, (short)1227180830);
 }
 else
 {
@@ -159,7 +159,7 @@ break;
 }
 else
 {
-mMrVd = RVdveuf(f0Q2kF0Vmd, (unsigned char)-869537636, mT8b4, 686029048);
+mMrVd = RVdveuf(f0Q2kF0Vmd, (unsigned char)-869537636, mT8b4, (short)686029048);
 }
 
 try
@@ -197,7 +197,7 @@ case 0:
 gMv7ivcm = Kpa8FO((unsigned char)1791118463, 1166593087);
 break;
 case 1:
-Y163P8p = RVdveuf(Y163P8p, (unsigned char)-1276675405, Q2W4FLw6QU, 22831014);
+Y163P8p = RVdveuf(Y163P8p, (unsigned char)-1276675405, Q2W4FLw6QU, (short)22831014);
 break;
 case 2:
 k28S = RVdveuf(589408842, Q___WK7Oo, gMv7ivcm, -931913169);
@@ -298,7 +298,7 @@ case 0:
 Q___WK7Oo = RVdveuf((unsigned short)1554638997, Y163P8p, 427774231, (short)-924302649);
 break;
 case 1:
-Y163P8p = RVdveuf(1030092746, DE6Z, 1094067445, 607092589);
+Y163P8p = RVdveuf((unsigned short)1030092746, DE6Z, 1094067445, 607092589);
 break;
 case 2:
 f0Q2kF0Vmd = Kpa8FO(Q2W4FLw6QU, f0Q2kF0Vmd);
@@ -353,7 +353,7 @@ Q2W4FLw6QU = RVdveuf((unsigned short)-620000987, (unsigned char)1012831876, 2044
 break;
 case 'g':
 case 'G':
-gMv7ivcm = Kpa8FO(-1491010008, -34017193);
+gMv7ivcm = Kpa8FO((unsigned char)-1491010008, -34017193);
 break;
 case 'h':
 case 'H':
@@ -427,7 +427,7 @@ Q___WK7Oo = RVdveuf((unsigned short)-901121816, gMv7ivcm, mT8b4, (short)29652611
 }
 else if (Y163P8p != -1196198248)
 {
-mMrVd = RVdveuf(mMrVd, 1396216123, k28S, 1775873340);
+mMrVd = RVdveuf(mMrVd, (unsigned char)1396216123, k28S, 1775873340);
 }
 else if ((f0Q2kF0Vmd >= Y163P8p) && ((f0Q2kF0Vmd < Q2W4FLw6QU) && (mMrVd & -1872087790)))
 {

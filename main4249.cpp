@@ -138,7 +138,7 @@ else if (Dq1bhl33 & -2120509529)
 int k = 0;
 while (k < 7)
 {
-z2mz3D = Nrk8Ms06aT((short)-766813043, yJnb_dA, (unsigned char)-212992980, 445840163, 1000850355);
+z2mz3D = Nrk8Ms06aT((short)-766813043, yJnb_dA, (unsigned char)-212992980, 445840163, (unsigned short)1000850355);
 ++k;
 }
 }

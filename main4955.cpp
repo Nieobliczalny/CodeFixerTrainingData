@@ -34,7 +34,7 @@ int main() {
 	unsigned int	vDMO1J6;
 	vDMO1J6	=	-239924962;
 	unsigned short	U18Uex;
-	U18Uex	=	-1162576748;
+	U18Uex	=	(unsigned short)-1162576748;
  unsigned char GekkSvM;
  GekkSvM = 2094433523;
   unsigned long long  O56Vxlq1;
@@ -58,7 +58,7 @@ int main() {
 	unsigned long long	a027pcuIbf;
 	a027pcuIbf	=	0;
 	short int	raqPy6;
-	raqPy6	=	-387280167;
+	raqPy6	=	(short)-387280167;
     unsigned long    n5O7F;
     n5O7F    =    3628224;
   short int  E5_HUP0fy;
@@ -98,7 +98,7 @@ int main() {
   float  lEmVp7M;
   lEmVp7M  =  -961157057;
     char    v_G2;
-    v_G2    =    254625919;
+    v_G2    =    (char)254625919;
 	unsigned long	TN7M735SH;
 	TN7M735SH	=	0;
 	unsigned int	noISa1O45;
@@ -238,7 +238,7 @@ case 3:
 K352651_ = wF88B0T2((unsigned short)1769099250, 657496425, (short)1256429908, U3C3qA);
 break;
 case 4:
-u6iW47Qq = UV1OF(-1407465917, v_G2, -1605715129, 1771629628, erR__W8y);
+u6iW47Qq = UV1OF(-1407465917, v_G2, -1605715129, (unsigned short)1771629628, erR__W8y);
 break;
 case 5:
 UZDA = wF88B0T2(645463820, t6zxwG, dCJLM, 1074991175);
@@ -478,7 +478,7 @@ Vi4jrX = UV1OF(-1308910445, (char)-2063171353, dCJLM, (unsigned short)-6548992, 
 }
 LPTK = (int)abs(xzgstCAt);
 
-Ffj931v93m = UMH9u(-1779940351);
+Ffj931v93m = UMH9u((unsigned short)-1779940351);
 return 0;
 }
 

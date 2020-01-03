@@ -102,7 +102,7 @@ case 2:
 VH35Oj8t = aD9C19BBht(Wa0Q5e30) + 774742329;
 break;
 case 3:
-Wa0Q5e30 = aD9C19BBht(-1421622144);
+Wa0Q5e30 = aD9C19BBht((short)-1421622144);
 break;
 case 4:
 VH35Oj8t--;
@@ -116,7 +116,7 @@ cout << kP_WC350J / Wa0Q5e30 << endl;
 
 if (Wa0Q5e30)
 {
-cout << "Zz2Jc44" << Wa0Q5e30 << W_a5kS(Wa0Q5e30, VH35Oj8t, -927158505) << endl;
+cout << "Zz2Jc44" << Wa0Q5e30 << W_a5kS(Wa0Q5e30, VH35Oj8t, (unsigned short)-927158505) << endl;
 }
 else
 {
@@ -264,7 +264,7 @@ VH35Oj8t = R33Eg8(1101042793, -366391042, (short)-85700746, 686334499, 184684934
 }
 else if (Wa0Q5e30)
 {
-VH35Oj8t = W_a5kS((unsigned short)1947978839, -1291491755, -816225846);
+VH35Oj8t = W_a5kS((unsigned short)1947978839, (unsigned short)-1291491755, -816225846);
 }
 else
 {
@@ -325,7 +325,7 @@ VH35Oj8t = R33Eg8(-1824742371, VH35Oj8t, (short)-599066282, -779491813, -1471120
 }
 }
 
-cout << "clltm" << W_a5kS(Wa0Q5e30, -1109019870, 616519134) << W_a5kS(-159341557, -1415739970, 1682713447) << "a53Y9" << Wa0Q5e30 << endl;
+cout << "clltm" << W_a5kS(Wa0Q5e30, (unsigned short)-1109019870, 616519134) << W_a5kS(-159341557, -1415739970, 1682713447) << "a53Y9" << Wa0Q5e30 << endl;
 
 return 0;
 }

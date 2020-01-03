@@ -62,7 +62,7 @@ int main() {
     unsigned short int    yGMYWq;
     yGMYWq    =    (unsigned short)654730844;
     unsigned char    xd7_G00;
-    xd7_G00    =    -1535304996;
+    xd7_G00    =    (unsigned char)-1535304996;
  unsigned long long XIvx2lE;
  XIvx2lE = 2000815339;
     long    S6C7o25;
@@ -76,7 +76,7 @@ int main() {
   unsigned char  jC4U;
   jC4U  =  (unsigned char)-1177344342;
     unsigned short    Ck35HgY3h_;
-    Ck35HgY3h_    =    -277290782;
+    Ck35HgY3h_    =    (unsigned short)-277290782;
   long double  Lcb7PG6;
   Lcb7PG6  =  310742629;
 	long	Fmizt962a;
@@ -108,7 +108,7 @@ int main() {
  char Z74yhj;
  Z74yhj = (char)1548100337;
 	char	ReFHw5fV;
-	ReFHw5fV	=	-407040698;
+	ReFHw5fV	=	(char)-407040698;
  long i6l5a;
  i6l5a = 144040796;
   double  d3F7xKnz0;
@@ -148,7 +148,7 @@ int main() {
 	char	Uth2_1s;
 	Uth2_1s	=	(char)881537892;
     short int    ROsb_3oI;
-    ROsb_3oI    =    -1407932812;
+    ROsb_3oI    =    (short)-1407932812;
     short    sphmudq1v7;
     sphmudq1v7    =    -939579460;
  long i1a_2wLT;
@@ -164,7 +164,7 @@ int main() {
 	float	ZCW1maIQ05;
 	ZCW1maIQ05	=	-2067894345;
  char l7nPM9;
- l7nPM9 = 1503373203;
+ l7nPM9 = (char)1503373203;
 	unsigned char	H4Um;
 	H4Um	=	-291097543;
  unsigned short EIQaJprYH;
@@ -208,7 +208,7 @@ int main() {
     long long    Z9Xw;
     Z9Xw    =    -1327787090;
     unsigned short int    T7zNP8;
-    T7zNP8    =    284817848;
+    T7zNP8    =    (unsigned short)284817848;
   unsigned char  lHcZJNaR;
   lHcZJNaR  =  -392756915;
     unsigned short int    K39r_;
@@ -218,7 +218,7 @@ int main() {
  unsigned short TP7X09;
  TP7X09 = -823312335;
   unsigned char  rx4z8Oi;
-  rx4z8Oi  =  1739717493;
+  rx4z8Oi  =  (unsigned char)1739717493;
     short int    LjjtdwNB;
     LjjtdwNB    =    1031459020;
     short int    sRU68M6P;
@@ -228,7 +228,7 @@ int main() {
  unsigned int Gp96u5A1n;
  Gp96u5A1n = -1691314042;
     short int    bDH57FUYt;
-    bDH57FUYt    =    726107440;
+    bDH57FUYt    =    (short)726107440;
     char    RS6vwI15R;
     RS6vwI15R    =    -1572732345;
 

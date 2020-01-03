@@ -193,7 +193,7 @@ case 1:
 wu_uKNF0k = J0Ekd2l0p((unsigned short)-2144163763, 625501651, BtlE8, WG8Gx6CF0l);
 break;
 case 2:
-j867Un7B = E4o1b3x(-699340705);
+j867Un7B = E4o1b3x((short)-699340705);
 break;
 case 3:
 WqfK12w3y = Ouxmr_ | 605248098;

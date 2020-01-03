@@ -45,7 +45,7 @@ int main() {
  short int fo7I9;
  fo7I9 = (short)1530996218;
 	char	GbZE38077;
-	GbZE38077	=	1909039567;
+	GbZE38077	=	(char)1909039567;
  unsigned long Ckwg_n1;
  Ckwg_n1 = 0;
  unsigned long long F2GkA2223y;
@@ -85,7 +85,7 @@ int main() {
   unsigned char  yDxKL;
   yDxKL  =  (unsigned char)-1196368329;
 	char	Yckd;
-	Yckd	=	-1466338756;
+	Yckd	=	(char)-1466338756;
 	long	HcH7a;
 	HcH7a	=	1181102370;
     unsigned int    IxcURDs;
@@ -101,7 +101,7 @@ int main() {
  unsigned char pJ0qSA;
  pJ0qSA = (unsigned char)-1395128907;
  unsigned short int xTt1UDSNVu;
- xTt1UDSNVu = -768573440;
+ xTt1UDSNVu = (unsigned short)-768573440;
     long    RTli_1;
     RTli_1    =    -1779763250;
  short int gUZlJ;
@@ -121,7 +121,7 @@ int main() {
     short    Oz3h64_S6t;
     Oz3h64_S6t    =    (short)-201228477;
   short int  SC33S5SK;
-  SC33S5SK  =  -1021738801;
+  SC33S5SK  =  (short)-1021738801;
  unsigned int GHGS3;
  GHGS3 = -175663278;
     double    FepO9;
@@ -274,7 +274,7 @@ else if (o9o4sqQ_J == V2o453)
 int j = 0;
 do
 {
-std::cout << qy491WA((unsigned short)1483783800, 1274212863, C4h071v95, JJZ4, 1779091781) << "OCXj818" << s3138040aO << cuzKNS(h_Sn7v, (short)1143515390, -2010014984) << Dg_nSyZLfz << std::endl;
+std::cout << qy491WA((unsigned short)1483783800, 1274212863, C4h071v95, JJZ4, 1779091781) << "OCXj818" << s3138040aO << cuzKNS(h_Sn7v, (short)1143515390, (unsigned short)-2010014984) << Dg_nSyZLfz << std::endl;
 j++;
 }
 while (j < 5);

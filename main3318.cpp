@@ -440,7 +440,7 @@ z6Ud8J9_ = S0V9rDeC2((unsigned char)616595997);
 break;
 case 'g':
 case 'G':
-z6Ud8J9_ = S0V9rDeC2(-1116376924);
+z6Ud8J9_ = S0V9rDeC2((unsigned char)-1116376924);
 break;
 case 'h':
 case 'H':

@@ -25,7 +25,7 @@ int main()
 	short	r7Zh	=	0;
  unsigned long PM0d89w3Zt = 0;
 	double	KD_IC92jv	=	-114442772;
-	unsigned short int	mniX3	=	-949965684;
+	unsigned short int	mniX3	=	(unsigned short)-949965684;
   unsigned short  Xri058  =  0;
   unsigned int  f_00el8_  =  1855062680;
 
@@ -38,7 +38,7 @@ case 1:
 oNAv8__C = (int)abs(r7Zh) + (1792943343);
 break;
 case 2:
-f_00el8_ = kjb4nb(-2137125201, 1960270583, -2050753012, -334523753, r7Zh);
+f_00el8_ = kjb4nb((unsigned char)-2137125201, 1960270583, -2050753012, -334523753, r7Zh);
 break;
 }
 Zb_j7C /= 945776082;
@@ -77,7 +77,7 @@ f_00el8_ = kjb4nb((unsigned char)1022102097, (unsigned short)326980145, Xri058, 
 }
 else
 {
-cout << kjb4nb(1704239490, KD_IC92jv, Xri058, 1506563441, 1034593766) << "AI4EET6gq" << QtQohf << "PABB2aG1" << endl;
+cout << kjb4nb((unsigned char)1704239490, KD_IC92jv, Xri058, 1506563441, 1034593766) << "AI4EET6gq" << QtQohf << "PABB2aG1" << endl;
 }
 F_Zh9 = zay3_(-1959042162, -1299865208, f_00el8_, 196368707, -1470107419);
 

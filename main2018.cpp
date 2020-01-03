@@ -47,7 +47,7 @@ int main(int argc, char** argv)
  unsigned short int f_7yn;
  f_7yn = (unsigned short)-758948916;
 	unsigned short int	zD81b4auS;
-	zD81b4auS	=	203430338;
+	zD81b4auS	=	(unsigned short)203430338;
 	unsigned short int	v2_bA_D5J;
 	v2_bA_D5J	=	0;
     unsigned short    Q_ZWo2h2;

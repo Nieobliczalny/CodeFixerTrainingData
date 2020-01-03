@@ -46,7 +46,7 @@ int main(int argc, char** argv) {
   long  R08_;
   R08_  =  -798245965;
 	unsigned char	l_wTK;
-	l_wTK	=	418761749;
+	l_wTK	=	(unsigned char)418761749;
  short QV4i9jv;
  QV4i9jv = 0;
 	double	wFxDrDVt;
@@ -62,7 +62,7 @@ int main(int argc, char** argv) {
  unsigned long long Fl9x0;
  Fl9x0 = -41071536;
  unsigned short MamS;
- MamS = -775067263;
+ MamS = (unsigned short)-775067263;
     unsigned int    jveOi2F27K;
     jveOi2F27K    =    1273441159;
  unsigned long pp7sU;

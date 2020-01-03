@@ -44,7 +44,7 @@ int main(void)
     long    J2CP7;
     J2CP7    =    -947297595;
     unsigned char    IJ18;
-    IJ18    =    2079334268;
+    IJ18    =    (unsigned char)2079334268;
 	unsigned char	ZX654;
 	ZX654	=	(unsigned char)-1368047705;
     long long    x0K5ml2_mM;
@@ -66,7 +66,7 @@ int main(void)
  short int TP5GJhfTe;
  TP5GJhfTe = (short)1770044960;
     unsigned char    G86M_lt3;
-    G86M_lt3    =    -1458586455;
+    G86M_lt3    =    (unsigned char)-1458586455;
  unsigned int xnxm;
  xnxm = 158124066;
 	unsigned int	LqE6HCYD;
@@ -94,7 +94,7 @@ int main(void)
     unsigned short int    F2R8;
     F2R8    =    (unsigned short)-443638006;
 	short	y89Kt;
-	y89Kt	=	-460433347;
+	y89Kt	=	(short)-460433347;
  long long kb_3CRoH;
  kb_3CRoH = 1096411534;
     int    StDfWUeC73;

@@ -14,7 +14,7 @@ int main(int argc, char** argv) {
  long long yy_2l6B8b = 0;
 	char	CG1wm51qK	=	0;
 	unsigned short int	I4OC	=	(unsigned short)1295781268;
- char rb7jSG = -717856076;
+ char rb7jSG = (char)-717856076;
 
 for (int i = 0; i < 7; i++)
 {

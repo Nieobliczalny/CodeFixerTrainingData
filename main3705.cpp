@@ -25,7 +25,7 @@ int main(void)
  unsigned short e4om_qg;
  e4om_qg = (unsigned short)-1270243922;
  unsigned char ve0rNX;
- ve0rNX = -1836300204;
+ ve0rNX = (unsigned char)-1836300204;
   unsigned int  gRy1EHA_;
   gRy1EHA_  =  1458486530;
     unsigned short int    Qpp8f;
@@ -109,7 +109,7 @@ int main(void)
   short  hgsypdd;
   hgsypdd  =  (short)1968588512;
   unsigned char  V5302246;
-  V5302246  =  -1980030891;
+  V5302246  =  (unsigned char)-1980030891;
     unsigned char    foz7_2J;
     foz7_2J    =    87879944;
 	long long	BuDO8;
@@ -119,7 +119,7 @@ int main(void)
   unsigned short  qe1Rf2;
   qe1Rf2  =  (unsigned short)994630807;
 	short int	yG7et;
-	yG7et	=	-936156318;
+	yG7et	=	(short)-936156318;
  long A_q2lPyuoR;
  A_q2lPyuoR = 1005930260;
  unsigned long long RH07;
@@ -141,7 +141,7 @@ int main(void)
     short int    F40Eff;
     F40Eff    =    (short)481191210;
  short int Y5w3sbUy4;
- Y5w3sbUy4 = -1916016456;
+ Y5w3sbUy4 = (short)-1916016456;
 	unsigned int	TTAX4m;
 	TTAX4m	=	2129217606;
     unsigned int    C1p24h9QJ;
@@ -175,7 +175,7 @@ int main(void)
     long double    V___P22;
     V___P22    =    -722355336;
   short int  HMgaf_N;
-  HMgaf_N  =  929720924;
+  HMgaf_N  =  (short)929720924;
  unsigned char pHfks;
  pHfks = (unsigned char)-1318640358;
 	unsigned short	V3BPKsVY03;
@@ -185,7 +185,7 @@ int main(void)
   short int  WmYpL2f;
   WmYpL2f  =  1952487033;
     short    VDyL4KM45;
-    VDyL4KM45    =    1372298689;
+    VDyL4KM45    =    (short)1372298689;
     unsigned int    tZNQ5yGW1;
     tZNQ5yGW1    =    218553216;
   unsigned char  xTzy85JG;
@@ -363,7 +363,7 @@ M8ODE4h = N3u_((char)730878961, (short)-38719426) - 542483550;
 }
 else if (tZNQ5yGW1 == 1961488081)
 {
-dSvu71 = LGHVpWfqRS(X0Cw3jqdzF, Nd54Egu, -1139504445, 1411280624, qGqMQ32N);
+dSvu71 = LGHVpWfqRS(X0Cw3jqdzF, Nd54Egu, -1139504445, (unsigned short)1411280624, qGqMQ32N);
 }
 else
 {
@@ -388,7 +388,7 @@ while (j >= 0);
 
 cout << D_1J_TryC / dSvu71 << endl;
 MF642vbAS0 = LGHVpWfqRS((short)1973176876, -1392824259, 913320583, (unsigned short)944015464, TTAX4m);
-dSvu71 = LGHVpWfqRS(-1953256057, w5N3_Y, F40Eff, ZDT9b, bd0W0j512);
+dSvu71 = LGHVpWfqRS((short)-1953256057, w5N3_Y, F40Eff, ZDT9b, bd0W0j512);
 
 cout << TK_ilAQ00 << "l6wb1" << V___P22 << kakR7V7 << endl;
 

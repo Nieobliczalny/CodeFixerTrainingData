@@ -23,7 +23,7 @@ int main(void) {
  unsigned char Z4fX5 = (unsigned char)-1042659481;
  short int Qf5lcaq5 = (short)-897532673;
 	int	cOE61nf7	=	94307771;
-    unsigned short    Ty6J1V    =    -1376055598;
+    unsigned short    Ty6J1V    =    (unsigned short)-1376055598;
  unsigned short int tsSf5Q_G2c = -1228534705;
     double    FPL3qnOmk0    =    715215673;
  unsigned int Xv_b0 = 1842535251;
@@ -238,7 +238,7 @@ IEc10 = a_bvcrM_w((unsigned short)-1374189009, dCUT2, WfW_TL, (unsigned short)16
 }
 else if (KEqg > 1389898154)
 {
-cdlRHX = a_bvcrM_w(-501723179, dCUT2, WfW_TL, fNYiqir90V, -1181004066) << 763391369;
+cdlRHX = a_bvcrM_w((unsigned short)-501723179, dCUT2, WfW_TL, fNYiqir90V, -1181004066) << 763391369;
 }
 else
 {
@@ -286,7 +286,7 @@ case 3:
 XFoZ_opBb = (int)ceil(XzWou);
 break;
 case 4:
-IEc10 = a_bvcrM_w(Juy07, IEc10, cOE61nf7, -1843278614, lUYa_7UyXa);
+IEc10 = a_bvcrM_w(Juy07, IEc10, cOE61nf7, (unsigned short)-1843278614, lUYa_7UyXa);
 break;
 case 5:
 D3_7 = FPL3qnOmk0 * V4Q4;
@@ -364,7 +364,7 @@ IEc10 = a_bvcrM_w(D3_7, 824860176, IEc10, PR53b_9, -1836985079);
 }
 }
 
-std::cout << a_bvcrM_w((unsigned short)-1618749832, -292496634, -135946411, (unsigned short)-164300589, cOE61nf7) << "pBSdNOE33" << a_bvcrM_w(-807036650, 1609216770, -1268060991, PR53b_9, -1440746755) << XzWou << std::endl;
+std::cout << a_bvcrM_w((unsigned short)-1618749832, -292496634, -135946411, (unsigned short)-164300589, cOE61nf7) << "pBSdNOE33" << a_bvcrM_w((unsigned short)-807036650, 1609216770, -1268060991, PR53b_9, -1440746755) << XzWou << std::endl;
 
 if (yzQ0n__6 != dCUT2)
 {

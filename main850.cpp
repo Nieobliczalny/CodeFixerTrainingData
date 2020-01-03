@@ -26,7 +26,7 @@ int main(int argc, char** argv) {
  unsigned short int xgQNs;
  xgQNs = (unsigned short)-885066864;
  unsigned char h48rUj2;
- h48rUj2 = 812341403;
+ h48rUj2 = (unsigned char)812341403;
  long double Vz24L;
  Vz24L = 1019020358;
   short int  o48kOLt;
@@ -44,7 +44,7 @@ int main(int argc, char** argv) {
 	unsigned short	lNd7XnwA;
 	lNd7XnwA	=	(unsigned short)1076158698;
     unsigned short int    G68SI8;
-    G68SI8    =    -1484255882;
+    G68SI8    =    (unsigned short)-1484255882;
     unsigned char    GH1V96;
     GH1V96    =    (unsigned char)597362724;
     float    KlC6j_;
@@ -66,7 +66,7 @@ int main(int argc, char** argv) {
   unsigned char  Ltcq5EwzH;
   Ltcq5EwzH  =  (unsigned char)-10549640;
   short int  Aza0Q7ZSV;
-  Aza0Q7ZSV  =  -922764648;
+  Aza0Q7ZSV  =  (short)-922764648;
 	unsigned short	TICMYL8HSL;
 	TICMYL8HSL	=	-1346787378;
   short int  Hic6v8o;

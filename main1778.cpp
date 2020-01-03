@@ -133,7 +133,7 @@ case 0:
 Y3Qc = V99VA2io((unsigned char)2003532396, (unsigned short)1277797767);
 break;
 case 1:
-Y3Qc = V99VA2io(900005961, -1180461510);
+Y3Qc = V99VA2io((unsigned char)900005961, -1180461510);
 break;
 case 2:
 Y3Qc = V99VA2io(Oz24qZ4Or, Y5_nR);
@@ -167,7 +167,7 @@ Y3Qc = V99VA2io((unsigned char)901848042, (unsigned short)-1187000102);
 }
 else
 {
-IaDS = V99VA2io(rp6FrzoOq, -2034425785);
+IaDS = V99VA2io(rp6FrzoOq, (unsigned short)-2034425785);
 }
 }
 }

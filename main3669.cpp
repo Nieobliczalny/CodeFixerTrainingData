@@ -16,7 +16,7 @@ int main()
 	long double	QPXD1S	=	-676058446;
     unsigned char    i_Au    =    0;
     short int    IsV3cFD    =    (short)-856477839;
- short int Ii4Y_FOm5 = 1769594531;
+ short int Ii4Y_FOm5 = (short)1769594531;
     float    PlX8yN    =    -1080683398;
 	unsigned long long	z3VtS	=	-1134672196;
 	short int	g33Yx5oa	=	-641837169;
@@ -26,7 +26,7 @@ int main()
  short L4wS636 = (short)676302105;
   unsigned short  W_t3qDy0w7  =  556945407;
   unsigned short int  W6Z1_f_lz  =  (unsigned short)-1047885530;
-    short    V0UC7m3    =    780712599;
+    short    V0UC7m3    =    (short)780712599;
     float    UTxnpEvy_L    =    599753338;
   long double  AJ3xWv4B  =  346455251;
   float  gtZLW50  =  1818120671;
@@ -37,7 +37,7 @@ int main()
  double mmY30s_bf = -1560203043;
  char QF_u4Hs = (char)-2104713757;
  short Qa97e = (short)489606414;
-    unsigned char    s_T_T72Jbg    =    1930303834;
+    unsigned char    s_T_T72Jbg    =    (unsigned char)1930303834;
   short int  jxny7z7  =  762682115;
     float    W9n8N    =    -1941434679;
 	unsigned short int	SnU_	=	1490761370;
@@ -50,7 +50,7 @@ int main()
  int m5eu0W = -1050437477;
     unsigned char    fICT5    =    (unsigned char)-466602805;
     long double    Hn_ONT2    =    -2057777;
-    char    Jg958    =    1419245105;
+    char    Jg958    =    (char)1419245105;
 	unsigned char	W__cH9	=	-95618506;
   unsigned long  T7b6Wk_  =  -1842969307;
 	long long	MXoLjdCDf	=	250424589;
@@ -64,7 +64,7 @@ int main()
   double  C823QT  =  2114521697;
     short int    AY0xg_    =    (short)-1027883436;
     unsigned long long    M7uAiOmGv_    =    2002140788;
-    unsigned char    oWQJ    =    -1636733983;
+    unsigned char    oWQJ    =    (unsigned char)-1636733983;
 	unsigned short int	b888_D9Ai	=	-1062660056;
  unsigned long bi68 = -943016751;
 	char	Y8A_	=	379008670;
@@ -74,7 +74,7 @@ int main()
     char    j4gTYhJ    =    1341660735;
  short int Jv1HUz51H = (short)1279262458;
 	unsigned long	JB8Aoo	=	0;
-  short int  KmjSkF8  =  2140913668;
+  short int  KmjSkF8  =  (short)2140913668;
     char    EI0KnvnfI    =    856922780;
     short    q_9pc9EK    =    -1856015603;
  long X46KB3S7 = 992308493;

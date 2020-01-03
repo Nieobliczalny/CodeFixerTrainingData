@@ -19,7 +19,7 @@ int main(int argc, char** argv)
   short  va5lr8  =  (short)1983674262;
 	unsigned char	qy9r	=	(unsigned char)100850556;
     unsigned long long    i4t9zv01S    =    0;
- short int L9ZM = -1253074932;
+ short int L9ZM = (short)-1253074932;
  short int jbFX = -2072317889;
   unsigned long long  BkA9j  =  636063463;
  unsigned short R_zzoogD = -916727920;
@@ -35,7 +35,7 @@ int main(int argc, char** argv)
 	short	Kk9q7lUL	=	0;
  unsigned int gvX_Lg2_8_ = 751666146;
     long double    vx7X    =    1853448558;
-	char	BgBtb8	=	-477116060;
+	char	BgBtb8	=	(char)-477116060;
 	long double	Gio3	=	975054490;
   float  RrBV8  =  -971216267;
  unsigned char GHjkoYg = 602828637;
@@ -291,7 +291,7 @@ case 'a':
 Kk9q7lUL = LFcSj((char)1656134396);
 break;
 case 'b':
-Kk9q7lUL = LFcSj(-1425525863);
+Kk9q7lUL = LFcSj((char)-1425525863);
 break;
 case 'c':
 i4t9zv01S = LFcSj((char)-1610373147);

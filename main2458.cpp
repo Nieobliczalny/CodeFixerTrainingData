@@ -35,7 +35,7 @@ int main(void)
  unsigned short nP1O;
  nP1O = (unsigned short)973485881;
 	char	x4SdbU;
-	x4SdbU	=	-1516352584;
+	x4SdbU	=	(char)-1516352584;
 	long long	lle_hM5mBl;
 	lle_hM5mBl	=	987414636;
 	long long	iasEPE4;
@@ -63,7 +63,7 @@ int main(void)
   unsigned char  widHC3;
   widHC3  =  (unsigned char)884554835;
     short    Ww1E9O;
-    Ww1E9O    =    1041861370;
+    Ww1E9O    =    (short)1041861370;
   unsigned long  Rebmvqku_;
   Rebmvqku_  =  303966836;
  unsigned long hYfG72h1D;
@@ -113,7 +113,7 @@ int main(void)
   unsigned char  HAKewM;
   HAKewM  =  (unsigned char)91530855;
     unsigned char    IpFpe;
-    IpFpe    =    1280491784;
+    IpFpe    =    (unsigned char)1280491784;
  unsigned short V3vab8nqu;
  V3vab8nqu = (unsigned short)1090978026;
   unsigned char  Q2E_qLnap;
@@ -161,7 +161,7 @@ int main(void)
   unsigned short int  JLoRZ57_;
   JLoRZ57_  =  (unsigned short)-1616562846;
  unsigned char Jrsb;
- Jrsb = -240758258;
+ Jrsb = (unsigned char)-240758258;
     char    K8v98R9;
     K8v98R9    =    (char)-2102159840;
  short int NAQ2d14iW;
@@ -211,7 +211,7 @@ int main(void)
 	unsigned short	IwhD9qu7;
 	IwhD9qu7	=	(unsigned short)675334085;
 	char	u0fx;
-	u0fx	=	-24768196;
+	u0fx	=	(char)-24768196;
  long N_0zfkd;
  N_0zfkd = 1968118413;
     char    N8mIAx;
@@ -379,7 +379,7 @@ while (j < 9);
 }
 }
 
-cout << Hu6Jh3(x4SdbU, -1262761186, (char)1545534063, 28334192, HX31aGiw0M) << l2IXWxp(1761832279, He8qwgfOO) << Hu6Jh3((unsigned char)451921001, -155174476, -1059007566, C0qlMC_, -851550764) << endl;
+cout << Hu6Jh3(x4SdbU, -1262761186, (char)1545534063, 28334192, HX31aGiw0M) << l2IXWxp(1761832279, He8qwgfOO) << Hu6Jh3((unsigned char)451921001, -155174476, (char)-1059007566, C0qlMC_, -851550764) << endl;
 
 if (wViaJu > -1558791410)
 {
@@ -472,7 +472,7 @@ case 1:
 HQ_nG4_j = Hu6Jh3((unsigned char)1285264151, U4444Dff, (char)1552990087, h_3z1Lhfcq, nP1O);
 break;
 case 2:
-HkbN = Hu6Jh3(1524795831, -1797080023, -1715965395, 1087154320, HAKewM);
+HkbN = Hu6Jh3((unsigned char)1524795831, -1797080023, -1715965395, 1087154320, HAKewM);
 break;
 case 3:
 K1r__S6Hl = (int)abs(u0fx);

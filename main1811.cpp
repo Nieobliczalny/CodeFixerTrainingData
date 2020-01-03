@@ -28,7 +28,7 @@ int main(int argc, char** argv) {
     short    LAlChcC4L;
     LAlChcC4L    =    (short)1329359549;
     unsigned char    V4Kb7VqtL;
-    V4Kb7VqtL    =    1550414117;
+    V4Kb7VqtL    =    (unsigned char)1550414117;
     short    lpl5;
     lpl5    =    -994920498;
   long double  M4cV3;
@@ -42,7 +42,7 @@ int main(int argc, char** argv) {
     short int    cTMg_1;
     cTMg_1    =    (short)695421801;
     unsigned short    vFsu;
-    vFsu    =    17823268;
+    vFsu    =    (unsigned short)17823268;
     char    wwS7WCf2K;
     wwS7WCf2K    =    1596856679;
 	char	ilDV403pIM;
@@ -60,7 +60,7 @@ int main(int argc, char** argv) {
     unsigned short int    rfNoxL23il;
     rfNoxL23il    =    (unsigned short)736911335;
  unsigned char F1hhKZf3_g;
- F1hhKZf3_g = -912096168;
+ F1hhKZf3_g = (unsigned char)-912096168;
 	unsigned long	xzf6Y;
 	xzf6Y	=	852008259;
   int  ub758_;
@@ -82,7 +82,7 @@ int main(int argc, char** argv) {
     unsigned long    PRwgQm;
     PRwgQm    =    -2137919965;
     short int    N6Q13pfls_;
-    N6Q13pfls_    =    1323118724;
+    N6Q13pfls_    =    (short)1323118724;
 	char	sJFMYy2Xz5;
 	sJFMYy2Xz5	=	(char)1789952218;
   long  mMtZg;
@@ -106,7 +106,7 @@ int main(int argc, char** argv) {
 	unsigned short int	IkgGLtsjJ;
 	IkgGLtsjJ	=	(unsigned short)998984713;
     short    vlKL8F1;
-    vlKL8F1    =    -1916247574;
+    vlKL8F1    =    (short)-1916247574;
 	unsigned long long	u0OWfzIi;
 	u0OWfzIi	=	-1620395461;
   int  SB6gVo;
@@ -172,7 +172,7 @@ int main(int argc, char** argv) {
   double  TYTR67;
   TYTR67  =  -875363509;
     short    O4WgF_w8;
-    O4WgF_w8    =    542105347;
+    O4WgF_w8    =    (short)542105347;
   unsigned int  CMvcf;
   CMvcf  =  1701821093;
     unsigned int    i4S1ws;
@@ -202,7 +202,7 @@ int main(int argc, char** argv) {
  short int lt511dF;
  lt511dF = (short)531474380;
 	unsigned char	rGe0q0;
-	rGe0q0	=	1213250365;
+	rGe0q0	=	(unsigned char)1213250365;
     int    z__U;
     z__U    =    -738698528;
  short int tjO26;
@@ -264,7 +264,7 @@ while (j >= 0);
 
 ilDV403pIM = (char)(tD6x0);
 
-std::cout << "bqX6" << Q6Q_qX3ub << L8hec(-822207781, (short)-922403103) << o6z_Xg2s_(-1939091373, BR0z, (short)1422214933) << o6z_Xg2s_(N6Q13pfls_, 1049695360, 1171620278) << std::endl;
+std::cout << "bqX6" << Q6Q_qX3ub << L8hec(-822207781, (short)-922403103) << o6z_Xg2s_(-1939091373, BR0z, (short)1422214933) << o6z_Xg2s_(N6Q13pfls_, 1049695360, (short)1171620278) << std::endl;
 
 switch (Oy65HAX)
 {

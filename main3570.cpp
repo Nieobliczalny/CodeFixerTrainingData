@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
 	unsigned long long	po_Txaw	=	113098778;
     double    vl3pj    =    677575199;
  long long NhbUCy1 = 0;
-    char    sRJK    =    -477939612;
+    char    sRJK    =    (char)-477939612;
  long double l8cWtnO5P = -948449160;
  unsigned long long pc_vkbYZ3 = -1177026642;
 
@@ -397,7 +397,7 @@ case 3:
 sRJK = AXGez4();
 break;
 case 4:
-po_Txaw = NB_5UWXl(po_Txaw, l8cWtnO5P, NhbUCy1, -2055939859);
+po_Txaw = NB_5UWXl(po_Txaw, l8cWtnO5P, NhbUCy1, (unsigned short)-2055939859);
 break;
 case 5:
 l8cWtnO5P = (int)abs(fvPCvvH);

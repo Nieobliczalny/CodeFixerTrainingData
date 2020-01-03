@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
  char OFa2 = (char)934660275;
   unsigned short  XAC2  =  (unsigned short)-1910102842;
 	long long	v6M5_vN	=	132438281;
- unsigned short i1oe_04 = -1427625955;
+ unsigned short i1oe_04 = (unsigned short)-1427625955;
  short int CgZDEs8m = -1202412521;
  long long RIUr62j = 515321684;
  unsigned short int S0h9YO = 657614715;
@@ -113,7 +113,7 @@ EEZiJ_ = A2umb((unsigned short)1298909992, J3arjQuDt1);
 }
 try
 {
-cout << GIV1X8Yd72((short)-1019555599, J3arjQuDt1, 936573840, 1972166833) << "e_PdD" << AFd04o57 << endl;
+cout << GIV1X8Yd72((short)-1019555599, J3arjQuDt1, 936573840, (unsigned short)1972166833) << "e_PdD" << AFd04o57 << endl;
 }
 catch (int& errorCode)
 {

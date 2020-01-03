@@ -18,7 +18,7 @@ int main() {
   unsigned char  AinSwFivjz,  EK_G_Fd,  xvHa41Z,  pY9_ZCB_d1,  KnBi59lV6,  rwx0I0pq,  HZdmsZnwy4,  Q47l5cQ,  HbS8L,  ZfN8B92VeX,  MVB7,  sX4OyJNF,  KslcZoN,  y13yx,  M0k34xeyBE,  ivAt,  Ht3xF2BO,  pXcsn,  mmc603tA,  rxU6_oV3,  CDWR_,  xa9K6tEU,  cWqm,  BZFwkJ,  jivTas,  Kg30RGp,  DkGtHE3PK,  rT65WHh1,  kVb36ddm,  HF_x,  o0sj_695,  ELhr,  QLnab3A,  PhkX,  i8vc,  ae7RjRx,  QC1P,  W30Lbl_m3,  m2Db8LOOj,  DphD9S_w,  T7y87Oie_m,  C7I2Pd04F,  d5xV5E0_V9,  m2_87kSj,  OeeX0iHa;
   AinSwFivjz  =  (unsigned char)2111492451;
   EK_G_Fd  =  (unsigned char)-175230034;
-  xvHa41Z  =  -1330086255;
+  xvHa41Z  =  (unsigned char)-1330086255;
   pY9_ZCB_d1  =  504731792;
   KnBi59lV6  =  638709228;
   rwx0I0pq  =  -1682216864;
@@ -28,7 +28,7 @@ int main() {
   ZfN8B92VeX  =  -1262747174;
   MVB7  =  (unsigned char)1528313349;
   sX4OyJNF  =  (unsigned char)48239891;
-  KslcZoN  =  -210227659;
+  KslcZoN  =  (unsigned char)-210227659;
   y13yx  =  -913103398;
   M0k34xeyBE  =  -2034966865;
   ivAt  =  -912108565;
@@ -38,7 +38,7 @@ int main() {
   rxU6_oV3  =  -1766731053;
   CDWR_  =  (unsigned char)558652363;
   xa9K6tEU  =  (unsigned char)1311766292;
-  cWqm  =  1512350976;
+  cWqm  =  (unsigned char)1512350976;
   BZFwkJ  =  1038076322;
   jivTas  =  1022446564;
   Kg30RGp  =  -1076033148;
@@ -48,7 +48,7 @@ int main() {
   HF_x  =  -1835774907;
   o0sj_695  =  (unsigned char)-476422053;
   ELhr  =  (unsigned char)-1366579980;
-  QLnab3A  =  1282823660;
+  QLnab3A  =  (unsigned char)1282823660;
   PhkX  =  -1901424733;
   i8vc  =  -1750213097;
   ae7RjRx  =  -1093367277;
@@ -58,7 +58,7 @@ int main() {
   DphD9S_w  =  -1094371411;
   T7y87Oie_m  =  (unsigned char)1676290947;
   C7I2Pd04F  =  (unsigned char)2126008620;
-  d5xV5E0_V9  =  1892628358;
+  d5xV5E0_V9  =  (unsigned char)1892628358;
   m2_87kSj  =  -871907840;
   OeeX0iHa  =  1138516637;
 
@@ -456,7 +456,7 @@ case 'd':
 fUUR1GxCjd = p32CXz1_8P(1368259432, rxU6_oV3);
 break;
 case 'e':
-Tn87m6R_ = p32CXz1_8P(-1060908596, 1774591471);
+Tn87m6R_ = p32CXz1_8P(-1060908596, (unsigned short)1774591471);
 break;
 case 'f':
 e22sT9S7l = p32CXz1_8P(1380249741, (unsigned short)-1850379016);

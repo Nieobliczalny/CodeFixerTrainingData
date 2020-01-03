@@ -41,7 +41,7 @@ int main(int argc, char** argv)
 bpJ9yBD = G2FA2(bpJ9yBD, kn41, Q6hdW10e1);
 wZh9D1E = (short)(LAxpr0s5J);
 
-ug_kjIfhg = 1889999337 / uxl4((unsigned char)-1754513549, 1160977903, Q6hdW10e1);
+ug_kjIfhg = 1889999337 / uxl4((unsigned char)-1754513549, (short)1160977903, Q6hdW10e1);
 
 Q6hdW10e1 |= kn41;
 

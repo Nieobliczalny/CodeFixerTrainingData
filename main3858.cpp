@@ -134,7 +134,7 @@ case 1:
 R91ypLO = su58l(rLbxZ, R91ypLO, KGf7qD0O, (char)-1887790856, (unsigned short)-849214168);
 break;
 case 2:
-Pa5DsF = su58l(Pa5DsF, izG3e1d0zE, d3WEG8Hh, A90204EYI, -739719828);
+Pa5DsF = su58l(Pa5DsF, izG3e1d0zE, d3WEG8Hh, A90204EYI, (unsigned short)-739719828);
 break;
 case 3:
 rLbxZ = CvxF(y9a0, LslILo3j_, Xr0mB);
@@ -160,7 +160,7 @@ if (((m4581g5p) || (ZsnE5ywP2)) && ((cyc1Oj == -324916666) || (Tl6q)))
 {
 for (int j = 0; j < 5; ++j)
 {
-rLbxZ = CvxF(-465638063, -1503860227, 1222402133);
+rLbxZ = CvxF(-465638063, -1503860227, (unsigned short)1222402133);
 }
 }
 else if (NEOVa >= 1167193123)
@@ -190,7 +190,7 @@ case 0:
 C_1j = CvxF(1226549872, Xr0mB, (unsigned short)1225913104);
 break;
 case 1:
-NW8l = su58l(NW8l, (short)-524644099, 500634436, A_I_, Pa5DsF);
+NW8l = su58l(NW8l, (short)-524644099, (unsigned char)500634436, A_I_, Pa5DsF);
 break;
 }
 }

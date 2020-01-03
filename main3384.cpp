@@ -127,7 +127,7 @@ else if (if63KP9J2 > Wl65CofC6O)
 switch (mAKjsqD6W)
 {
 case 'a':
-r173ti13q = Om2366T1(472868077, 915955697, sN2_mn);
+r173ti13q = Om2366T1((unsigned char)472868077, 915955697, sN2_mn);
 break;
 case 'b':
 Wl65CofC6O = yokfo0S();
@@ -139,7 +139,7 @@ case 'd':
 rxcxGy = pWsmmE9 / 1076896711;
 break;
 case 'e':
-mAKjsqD6W = O1hC_Hv((short)-1109183496, -657305788);
+mAKjsqD6W = O1hC_Hv((short)-1109183496, (unsigned char)-657305788);
 break;
 case 'f':
 pWsmmE9 = (N7WqKlC < wAf58B1Ng7) ? l0I_Qkv : -767457734;

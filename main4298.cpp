@@ -68,7 +68,7 @@ int main() {
 	long	Lla6K6;
 	Lla6K6	=	0;
 	unsigned short	ch77g1mE;
-	ch77g1mE	=	-1020965986;
+	ch77g1mE	=	(unsigned short)-1020965986;
 
 switch (zQa13ohAh)
 {
@@ -108,7 +108,7 @@ case 3:
 KkfQ9Vt = gx_B(-1565278540, (unsigned char)-1739382556) * 547027165;
 break;
 case 4:
-t0kK2fp = P3W1qCYv(220513874, (short)774188804, -358932162, J4756);
+t0kK2fp = P3W1qCYv(220513874, (short)774188804, (unsigned char)-358932162, J4756);
 break;
 default:
 E12eJ8 = S3p2o6(1392002635, 10345537, RmX6) >> 280152784;
@@ -231,7 +231,7 @@ case 1:
 o30X = S3p2o6((char)-1633619010, -1294274224, nPtpPaGu);
 break;
 case 2:
-O41KEDv8D = P3W1qCYv(298390266, (short)401225005, i4UV, -1220793263);
+O41KEDv8D = P3W1qCYv(298390266, (short)401225005, i4UV, (short)-1220793263);
 break;
 case 3:
 nPtpPaGu = S3p2o6(nPtpPaGu, 1855343980, 451728787);
@@ -381,7 +381,7 @@ J4xX = (int)ceil(KkfQ9Vt);
 }
 else if (Lla6K6 <= 468925395)
 {
-std::cout << P3W1qCYv(Jwm4aGUu, (short)203192027, (unsigned char)658449575, 330452837) << P3W1qCYv(Jwm4aGUu, -629147771, KkfQ9Vt, t0kK2fp) << J4xX << gx_B(Jwm4aGUu, 760103170) << RmX6 << std::endl;
+std::cout << P3W1qCYv(Jwm4aGUu, (short)203192027, (unsigned char)658449575, (short)330452837) << P3W1qCYv(Jwm4aGUu, -629147771, KkfQ9Vt, t0kK2fp) << J4xX << gx_B(Jwm4aGUu, 760103170) << RmX6 << std::endl;
 }
 else if (J2PvqnLl5 == YbQu)
 {

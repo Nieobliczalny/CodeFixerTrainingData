@@ -72,7 +72,7 @@ default:
 e17a8Rz = L0NqAqJN1F(1794987197, rK5l9oI, (unsigned short)-1578180928, -743251045, Vh_R45hR_5);
 break;
 }
-cout << "mncAPw7" << L0NqAqJN1F(e17a8Rz, (char)-596320935, -26370030, R6_8TxE, Vh_R45hR_5) << VmWntjSuqT << d41NejDo << endl;
+cout << "mncAPw7" << L0NqAqJN1F(e17a8Rz, (char)-596320935, (unsigned short)-26370030, R6_8TxE, Vh_R45hR_5) << VmWntjSuqT << d41NejDo << endl;
 
 {
 int i = 0;

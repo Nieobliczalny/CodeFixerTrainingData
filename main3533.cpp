@@ -50,7 +50,7 @@ int main(int argc, char** argv)
 	long long	gND2Yh5_q;
 	gND2Yh5_q	=	2106554103;
   unsigned short  u42640uXj;
-  u42640uXj  =  1388428814;
+  u42640uXj  =  (unsigned short)1388428814;
  char xjd5804tBS;
  xjd5804tBS = -820759604;
  unsigned short S2acy581;
@@ -70,7 +70,7 @@ int main(int argc, char** argv)
   short  m8Jhj4z_;
   m8Jhj4z_  =  (short)-725024203;
   unsigned short  s_mdxyq7;
-  s_mdxyq7  =  -1526892796;
+  s_mdxyq7  =  (unsigned short)-1526892796;
   double  ALtOE;
   ALtOE  =  1229964443;
  unsigned int AV02XaI9n;
@@ -100,7 +100,7 @@ int main(int argc, char** argv)
  unsigned long long KJRDUEa;
  KJRDUEa = -1589110331;
   char  pqW3etp9;
-  pqW3etp9  =  -640002897;
+  pqW3etp9  =  (char)-640002897;
     unsigned long long    IkUo7Gk;
     IkUo7Gk    =    -1874136529;
  unsigned short int tvYwOPl7;

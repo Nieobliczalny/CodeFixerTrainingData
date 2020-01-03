@@ -53,7 +53,7 @@ int main(void)
  unsigned char wMG3i2t5fD;
  wMG3i2t5fD = (unsigned char)-346076128;
  short d76e7U;
- d76e7U = -821058598;
+ d76e7U = (short)-821058598;
 	unsigned long long	gBS2;
 	gBS2	=	393883374;
   unsigned long long  qd194eRO;
@@ -73,7 +73,7 @@ int main(void)
   long double  Ln60;
   Ln60  =  314389905;
   short  EA5MKc3S;
-  EA5MKc3S  =  342612793;
+  EA5MKc3S  =  (short)342612793;
     long    teqc34u;
     teqc34u    =    0;
   long double  r_p8Jt5aU9;
@@ -89,7 +89,7 @@ int main(void)
  unsigned int CGbm2;
  CGbm2 = 201446431;
   unsigned short int  r0JWz5j4Jq;
-  r0JWz5j4Jq  =  2124421504;
+  r0JWz5j4Jq  =  (unsigned short)2124421504;
 	char	a_x4b;
 	a_x4b	=	(char)717281777;
   unsigned short int  Uw2M;
@@ -117,7 +117,7 @@ int main(void)
     unsigned short int    Urtma;
     Urtma    =    (unsigned short)2115736029;
   unsigned short int  t2EEHa21t;
-  t2EEHa21t  =  812055017;
+  t2EEHa21t  =  (unsigned short)812055017;
 	short	Eo3_1;
 	Eo3_1	=	-1314788542;
  unsigned char WLsbCjb;

@@ -16,7 +16,7 @@ int main(int argc, char** argv)
  unsigned short int SUiaz = 0;
     unsigned short int    i5_1h4ED    =    (unsigned short)103536938;
     unsigned long long    Hpuc    =    -938571564;
- short int RXeV24qHWs = -1117310171;
+ short int RXeV24qHWs = (short)-1117310171;
  unsigned long long bAt9c4d = -1348079087;
 	float	OZM1tR_9	=	1579244820;
   long double  BeOg5i2O  =  694138964;
@@ -32,7 +32,7 @@ int main(int argc, char** argv)
   int  E1Lk4Aj  =  -1595581834;
 
 q_DD1I7 = (unsigned long long)(E1Lk4Aj);
-OVSATwBz4 = OVSATwBz4 / XT1Is(1490075101);
+OVSATwBz4 = OVSATwBz4 / XT1Is((unsigned short)1490075101);
 std::cout << Ux2E4_b16 << cNDr << Ux2E4_b16 << BeOg5i2O << std::endl;
 BeOg5i2O = (int)floor(OZM1tR_9);
 std::cout << E1Lk4Aj << XT1Is((unsigned short)-654908005) << SUiaz << std::endl;

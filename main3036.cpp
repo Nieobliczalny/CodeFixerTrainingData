@@ -153,7 +153,7 @@ case 1:
 U41E = rKA42t1q((unsigned short)-1566090023, 862956281) / j1mVT6_Mj;
 break;
 case 2:
-Su95PrP = rKA42t1q(1003415525, 1829121698);
+Su95PrP = rKA42t1q((unsigned short)1003415525, 1829121698);
 break;
 case 3:
 ySR1875_ += 1541680687;

@@ -155,7 +155,7 @@ f9poZK = ddNeq4TI((unsigned short)-600814921, -223589643);
 break;
 case 'i':
 case 'I':
-f9poZK = ddNeq4TI(428743050, Eo_Gdg);
+f9poZK = ddNeq4TI((unsigned short)428743050, Eo_Gdg);
 break;
 case 'j':
 case 'J':
@@ -229,7 +229,7 @@ case 'b':
 f9poZK = ddNeq4TI((unsigned short)466472981, I10o);
 break;
 case 'c':
-f9poZK = ddNeq4TI(-1118603599, 2014045433);
+f9poZK = ddNeq4TI((unsigned short)-1118603599, 2014045433);
 break;
 case 'd':
 cTB853d <<= 793888793;

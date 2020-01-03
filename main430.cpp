@@ -22,7 +22,7 @@ int main(int argc, char** argv)
  unsigned short c5Zw5t, Lug_pH, JTMHp2F_k, r7I_8, zIeV_A2Y, opMD4Fix_8, NH_ohJ, rL7L_so, CImekh7v;
  c5Zw5t = (unsigned short)-1284890777;
  Lug_pH = (unsigned short)942677865;
- JTMHp2F_k = 1751830499;
+ JTMHp2F_k = (unsigned short)1751830499;
  r7I_8 = 1736058704;
  zIeV_A2Y = -984193902;
  opMD4Fix_8 = 1245239745;

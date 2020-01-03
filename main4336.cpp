@@ -230,7 +230,7 @@ case 1:
 u4M0rMAIul = B07_tM4(u4M0rMAIul, (unsigned char)-1104966329, ibpFk);
 break;
 default:
-u4M0rMAIul = s747aBAG((unsigned short)1727570842, -1925209744, w0vXj3VO, 470167303);
+u4M0rMAIul = s747aBAG((unsigned short)1727570842, -1925209744, w0vXj3VO, (short)470167303);
 break;
 }
 }
@@ -319,7 +319,7 @@ case 0:
 BuCq_mm8_ <<= 1585602428;
 break;
 case 1:
-U4A_w26M = s747aBAG((unsigned short)794360974, -1501326666, (short)-1975122198, -74089937);
+U4A_w26M = s747aBAG((unsigned short)794360974, -1501326666, (short)-1975122198, (short)-74089937);
 break;
 case 2:
 V68E = f5sU_0(V68E, -777007569, kQKu, uufR, JS0Sx);
@@ -361,7 +361,7 @@ catch (int& errorCode)
 K8Pv75 = B07_tM4(K8Pv75, -1037934775, w0vXj3VO);
 }
 
-std::cout << s747aBAG((unsigned short)881950230, 1315726666, w0vXj3VO, 2020771999) << "ozJfYqPY" << "r78Crgz" << "bsve5Fx4" << Dr7pO5 << std::endl;
+std::cout << s747aBAG((unsigned short)881950230, 1315726666, w0vXj3VO, (short)2020771999) << "ozJfYqPY" << "r78Crgz" << "bsve5Fx4" << Dr7pO5 << std::endl;
 
 return 0;
 }
@@ -375,7 +375,7 @@ short    s747aBAG(unsigned short int    i06G6g6pA,unsigned long    p7Vw5t,short 
 }
 
 unsigned short  xD6l33(long  N7H2c,unsigned int  db77Q0BdtJ)  {
-  return  134637249;
+  return  (unsigned short)134637249;
 }
 
 int    f5sU_0(unsigned int    HpEV,unsigned char    c7QH3V65wE,unsigned long    vy_bCc4Ra,unsigned int    ErNRq,int    YrQtzDY6B_)

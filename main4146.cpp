@@ -18,7 +18,7 @@ int main(int argc, char** argv) {
  char uQSm4bjz = (char)-1346029452;
  unsigned long p4o5 = -210079000;
 	long long	MHOJlAG0	=	439351570;
-	short	EuM5_Cc	=	573738881;
+	short	EuM5_Cc	=	(short)573738881;
 	unsigned int	xl59pT	=	-1460292050;
   long double  zGdw  =  -1727593654;
     long long    cbcN4CO_    =    -598362757;
@@ -33,7 +33,7 @@ int main(int argc, char** argv) {
  long of1HDF68 = -1344436060;
 	double	M1TUm1WCI	=	-955330444;
 	short	JnYm7	=	(short)1787368314;
-	char	MUaq	=	-1177370440;
+	char	MUaq	=	(char)-1177370440;
   short  SihB_bn_Y  =  1764031261;
  long double Sx8a0 = -1937796162;
 	int	YSdao3	=	-394131941;
@@ -58,7 +58,7 @@ int main(int argc, char** argv) {
     unsigned long long    TjoKQcT4xj    =    -817647748;
  short int PuJ4y8U8at = (short)959259014;
  long rA2DDap = 941889968;
-    unsigned short    h_272S4v    =    -1642549992;
+    unsigned short    h_272S4v    =    (unsigned short)-1642549992;
   unsigned long long  n5uKs87_  =  912359589;
  unsigned char l0Ew5Xykpn = 0;
  int MuIP7e = 0;
@@ -74,7 +74,7 @@ int main(int argc, char** argv) {
     unsigned long    PHd6KqZ2g    =    1371882362;
   unsigned short  W7DcIG  =  (unsigned short)-989605236;
     unsigned short    o4Ho4d    =    (unsigned short)2116485958;
-    short int    Es3f5WtM    =    1027316884;
+    short int    Es3f5WtM    =    (short)1027316884;
 	short int	QedS7TF	=	-727387469;
   double  VdQ8O_2fG  =  1298380266;
   unsigned long long  fgeWv  =  -1384133535;
@@ -89,7 +89,7 @@ int main(int argc, char** argv) {
 	long	ByP98H78	=	976715829;
     unsigned int    N8j2d    =    -1376991173;
   short int  MP9b3RCmR  =  (short)-220278403;
- short int Pfe_9X = -1704416258;
+ short int Pfe_9X = (short)-1704416258;
     short int    aj1f984HR1    =    2116261518;
   short  YpISkK  =  -1807277235;
  long double fD9hh251q = -1130737846;
@@ -103,7 +103,7 @@ int main(int argc, char** argv) {
     long    Kxy5    =    376377967;
   double  Mqpk48_He5  =  973772365;
   char  d9Ee  =  (char)-1558274513;
-    short int    bcMsQ6q    =    1464765752;
+    short int    bcMsQ6q    =    (short)1464765752;
     unsigned char    KDeh    =    -579536923;
 
 if (c4T9sm != -281556279)

@@ -275,7 +275,7 @@ case 'd':
 t_6j5W5 *= Iz0DnR2E;
 break;
 case 'e':
-zcde9T31 = wi3vKt((unsigned short)833336740, RXPe10Z, Gq3h5qk69U, 1888682778, oOmZ2gt7Pw);
+zcde9T31 = wi3vKt((unsigned short)833336740, RXPe10Z, Gq3h5qk69U, (char)1888682778, oOmZ2gt7Pw);
 break;
 default:
 WKH9Ot9 += Q82fMuI2;
@@ -311,7 +311,7 @@ else if (kI3v != 844781914)
 int k = 0;
 while (k < 5)
 {
-Gq3h5qk69U = wi3vKt((unsigned short)229889599, -591193979, (short)-1484662432, -1840393156, -1468366139);
+Gq3h5qk69U = wi3vKt((unsigned short)229889599, -591193979, (short)-1484662432, (char)-1840393156, -1468366139);
 ++k;
 }
 }
@@ -384,7 +384,7 @@ i--;
 while (i >= 0);
 }
 
-std::cout << fG11((short)563565574, (short)-1942293413, -893979459, Yh8BAQw) << std::endl;
+std::cout << fG11((short)563565574, (short)-1942293413, (unsigned char)-893979459, Yh8BAQw) << std::endl;
 
 if (JCg2U)
 {

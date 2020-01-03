@@ -23,7 +23,7 @@ int main()
  char Ia85kpU3Xk;
  Ia85kpU3Xk = (char)453229663;
   unsigned short int  iI85UJlZV;
-  iI85UJlZV  =  -197387422;
+  iI85UJlZV  =  (unsigned short)-197387422;
 	float	KIDjz;
 	KIDjz	=	931143895;
  char vAkcO0;
@@ -37,7 +37,7 @@ int main()
 	unsigned long long	virvug8_0_;
 	virvug8_0_	=	1575440399;
  unsigned short int yZir4Jr;
- yZir4Jr = -204410996;
+ yZir4Jr = (unsigned short)-204410996;
   int  xKDjKD4;
   xKDjKD4  =  -896484421;
     long long    R8y9r;
@@ -57,7 +57,7 @@ int main()
 	char	xE67oF3;
 	xE67oF3	=	(char)-813901129;
   unsigned char  cYxKWzwQp;
-  cYxKWzwQp  =  1529360848;
+  cYxKWzwQp  =  (unsigned char)1529360848;
  short rrFY12_L;
  rrFY12_L = 1117991336;
  unsigned char jTvMkrj;
@@ -117,7 +117,7 @@ int main()
 	char	P7z1;
 	P7z1	=	(char)-90444796;
 	short	QSQ3y1;
-	QSQ3y1	=	806122496;
+	QSQ3y1	=	(short)806122496;
   unsigned long long  v95h65;
   v95h65  =  -1494152983;
     long    z3_DbKVktG;
@@ -177,7 +177,7 @@ int main()
   unsigned int  qlK_iL_40;
   qlK_iL_40  =  1821439983;
   unsigned short  v42686j;
-  v42686j  =  -1428758593;
+  v42686j  =  (unsigned short)-1428758593;
   int  Vqoa5y;
   Vqoa5y  =  -2065737819;
   long double  AMXVE;
@@ -261,7 +261,7 @@ else
 KIDjz = (int)floor(EDQAwyr);
 }
 
-cout << FQAYDr((char)65672395, -1335867135) << FQAYDr((char)-1926623825, 835228783) << NS7F(wzoPtGRJ8H, 100885323, 1973487469, -501786465) << NS7F(725826836, T__Y543, -591852096, 1084292227) << "uvvQw" << endl;
+cout << FQAYDr((char)65672395, -1335867135) << FQAYDr((char)-1926623825, 835228783) << NS7F(wzoPtGRJ8H, (unsigned short)100885323, 1973487469, -501786465) << NS7F(725826836, T__Y543, -591852096, 1084292227) << "uvvQw" << endl;
 
 {
 int i = 0;

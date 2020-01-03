@@ -44,7 +44,7 @@ int main(int argc, char** argv)
   unsigned short int  PSsibX;
   PSsibX  =  (unsigned short)275702956;
   char  qna0vN_;
-  qna0vN_  =  1077922049;
+  qna0vN_  =  (char)1077922049;
     long long    xi_0;
     xi_0    =    0;
 	char	cRu4_3Y6rM;
@@ -56,7 +56,7 @@ int main(int argc, char** argv)
  unsigned char pur2BNOov;
  pur2BNOov = (unsigned char)-1025339008;
 	short	ya89D0D;
-	ya89D0D	=	-1294701566;
+	ya89D0D	=	(short)-1294701566;
     long    nhEo30N;
     nhEo30N    =    -550081726;
 
@@ -303,7 +303,7 @@ cout << "CyNaU_0_8" << VV9TJiCBYd() << "Y54TW36_" << endl;
 }
 if (fFtCAu >= FH6J_)
 {
-n4KCSS = KjTVc(PSsibX, (short)-660225085, (unsigned short)-441848579, FH6J_, 1154685608) & 1180321882;
+n4KCSS = KjTVc(PSsibX, (short)-660225085, (unsigned short)-441848579, FH6J_, (short)1154685608) & 1180321882;
 }
 
 return 0;

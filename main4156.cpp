@@ -25,7 +25,7 @@ int main(void) {
 	long long	le0o7O6TY	=	0;
 	unsigned char	VY63RTT4K	=	(unsigned char)1210765672;
  double iyL3 = -179225373;
- short int qQ2NLX1nub = 398560474;
+ short int qQ2NLX1nub = (short)398560474;
   unsigned long long  s8n1B0  =  -1530387038;
  long double m60Wl = 746170986;
 	int	hGUjBGE6	=	48288134;
@@ -36,7 +36,7 @@ int main(void) {
   unsigned short int  DX7pd8  =  (unsigned short)1649074776;
 	short int	U0L8PXn399	=	-472756646;
 	float	X4QqEB	=	-1320803342;
-    short int    EQvF64    =    -1072912113;
+    short int    EQvF64    =    (short)-1072912113;
     short    v27O8e3K_9    =    321464859;
     unsigned long    CSa55776rj    =    -925464579;
   long  bPnWs6BG  =  1674195758;
@@ -46,7 +46,7 @@ int main(void) {
  double F9J8MHB = -1662675429;
  double T54AbfoUp = 1387283136;
  short GdHZrfh = (short)-2075092443;
-  short int  d96HOK6  =  -465924161;
+  short int  d96HOK6  =  (short)-465924161;
     short int    f7_i78_    =    1066465224;
     int    p2CS5    =    462042262;
   unsigned short  Mv_93mQ  =  -783548392;
@@ -59,7 +59,7 @@ int main(void) {
  unsigned long long RrH_k = 1767969068;
 	unsigned int	so9Fh0neOt	=	1144195928;
 	long double	T2LWC	=	1382420552;
- char W3COIw = 172017574;
+ char W3COIw = (char)172017574;
 	long double	Jm36	=	448721165;
 	unsigned short int	NaQ36rccWQ	=	1850762702;
     char    hTul199    =    309305644;
@@ -69,7 +69,7 @@ int main(void) {
 	unsigned short int	b4ht9d5E	=	(unsigned short)602241205;
   long long  F6E_Og_8  =  75797523;
 	unsigned char	Ah_2Hqqlm	=	-110920246;
-    short    Onr5yE0    =    1470386389;
+    short    Onr5yE0    =    (short)1470386389;
  char W1_j1T0 = -756212845;
 	int	E8J_W6u_d	=	338723870;
     long    uw95    =    -500100914;
@@ -80,7 +80,7 @@ int main(void) {
   unsigned char  Ol8K72  =  735986835;
 	unsigned char	Q54HA	=	92797686;
  unsigned long TJw3RPX2 = -352509808;
-  unsigned short  HU9z7EpR_  =  -171019723;
+  unsigned short  HU9z7EpR_  =  (unsigned short)-171019723;
     unsigned long    I5q5    =    -2045646878;
 
 RrH_k--;
@@ -271,7 +271,7 @@ case 7:
 irSjsI7BKG = gnBkV2Y((short)1957498806, T54AbfoUp, 256160023, U0L8PXn399);
 break;
 case 8:
-I5q5 = gnBkV2Y((short)-1840222418, 1662495904, W1_j1T0, Hj86);
+I5q5 = gnBkV2Y((short)-1840222418, (short)1662495904, W1_j1T0, Hj86);
 break;
 case 9:
 X91Zm8 = d96HOK6 * s8n1B0;

@@ -25,7 +25,7 @@ int main(void)
     unsigned long    Ot64    =    0;
     float    nR4IG    =    1463073714;
     short    a41Rb1C    =    (short)1986611890;
-	short int	m82ZhE	=	1614002896;
+	short int	m82ZhE	=	(short)1614002896;
  long O8eWp4 = 0;
 	unsigned long	cz_Y2	=	0;
     float    RBl66U9    =    -1925204939;

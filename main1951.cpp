@@ -103,7 +103,7 @@ cout << Cz2ww0nHd1(141932101, -1246678624) << SsDVwG06Y(1163712092, tt4j8, (unsi
 }
 else
 {
-yD_djzEe41 = cM0lAL(-1990567413);
+yD_djzEe41 = cM0lAL((char)-1990567413);
 }
 }
 else if ((yD_djzEe41 != YMcpNFG6) || (tt4j8))

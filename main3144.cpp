@@ -56,7 +56,7 @@ int main(int argc, char** argv) {
   float  O31Gn_;
   O31Gn_  =  1699026261;
   unsigned char  IvT4H5;
-  IvT4H5  =  1559432151;
+  IvT4H5  =  (unsigned char)1559432151;
 
 switch (IL947E0A3_)
 {
@@ -219,7 +219,7 @@ else
 {
 if ((xBA1csQ > 1722177794) && ((IvT4H5 == -718795904) || (DQ18yR > -1950878584)))
 {
-DQ18yR = HputCm((unsigned short)-2029455720, (short)579545872, -1421126445);
+DQ18yR = HputCm((unsigned short)-2029455720, (short)579545872, (unsigned char)-1421126445);
 }
 else
 {
@@ -316,7 +316,7 @@ for (int j = 3; j >= 0; j--)
 {
 if (rp_h != -2060313103)
 {
-nUj0yUzc_ = HputCm((unsigned short)-276920593, (short)-1790030089, -1708947081);
+nUj0yUzc_ = HputCm((unsigned short)-276920593, (short)-1790030089, (unsigned char)-1708947081);
 }
 }
 }
@@ -371,7 +371,7 @@ case 4:
 dci3hZU9mw = HputCm(dci3hZU9mw, (short)428986015, (unsigned char)1573985083);
 break;
 case 5:
-dci3hZU9mw = u2ZG_(dci3hZU9mw, akJ2_2_, -825235644, -522241401) >> 1420880582;
+dci3hZU9mw = u2ZG_(dci3hZU9mw, akJ2_2_, (unsigned char)-825235644, -522241401) >> 1420880582;
 break;
 case 6:
 rp_h = KH_y90();
@@ -421,7 +421,7 @@ if (NXTOa != 1290549995)
 {
 if ((rp_h >= NXTOa) && ((IL947E0A3_) || (NXTOa != O31Gn_)))
 {
-NXTOa = HputCm((unsigned short)1513298363, (short)-889061624, -1751556262);
+NXTOa = HputCm((unsigned short)1513298363, (short)-889061624, (unsigned char)-1751556262);
 }
 else if (P32yF <= -637168875)
 {

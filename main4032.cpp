@@ -178,7 +178,7 @@ i++;
 }
 }
 
-Vg_6 = SBZ24vNW2(-1571766823, 1837126257, 444491279, -862161437);
+Vg_6 = SBZ24vNW2((short)-1571766823, 1837126257, 444491279, -862161437);
 ec2m76R ^= dDs_du;
 std::cout << JiQm1A7lj / SBZ24vNW2(T2P3Eb1, rH4s, qnNrh5VDH, nFDY) << std::endl;
 

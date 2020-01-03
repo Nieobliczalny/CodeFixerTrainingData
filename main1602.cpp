@@ -29,7 +29,7 @@ int main()
     short    M81_HX48    =    -1107432827,    j4mE96    =    507081906,    D38zI3uw    =    876873111,    CPv_9X    =    -1043661702,    xf24S36A6    =    -1435990654,    z17BN8Z_Wm    =    19790391,    Gz27Z49W5    =    -1482603007,    JIt_uKl5    =    -783807274,    x6Hk33qt    =    1038792736,    hLOQd4i6Y    =    -1276471016,    E6U3    =    -615357646,    GBJ4C5k    =    -1306181406,    Qfx4wIvF2    =    273260249,    z1_E5W1a    =    315717700,    sOn1H8I    =    -249259611,    H0UXqZ_    =    -1605023523,    NjV8    =    -841401514,    PK2iA4k0    =    1145314358,    MTgaz55Z    =    -6478666,    b2n0    =    -7477962,    cwLO7BBwEN    =    1370335903,    u7naX36FKt    =    -1539646552,    k75U6F    =    -172329721,    WrK9ytqCn4    =    1509913111,    l1fbvD2    =    -1800009554,    m8_HdS1    =    964240594,    ydDae    =    -1758437413,    mXniXC    =    -1834564951,    X_3gsxZu9_    =    834142547,    p42H5p_HBc    =    2010117433,    TS845    =    452779687,    wAZ0x8    =    401085796,    pDujG0vK    =    825086972,    tZZ4M    =    -446926108,    IXWtcKvS    =    -599293948,    hWFyv    =    301446626,    QTAQO94M    =    1956204230,    im8sP9    =    1772612162,    f9R37    =    -431119825,    Q8av9    =    -180350065,    eGAT__    =    319796509,    lmu06mkV_    =    274231879,    HU45IpJi8    =    2020518703,    AC1z    =    1372483306,    OBk_h9jz    =    -418889008;
 	unsigned long long	VXM8Syz9_J	=	0;
 
-xf24S36A6 = QFc2mfB8r((unsigned short)1496016252, 1873162573, -357016993);
+xf24S36A6 = QFc2mfB8r((unsigned short)1496016252, 1873162573, (unsigned short)-357016993);
 
 std::cout << "oXdwM" << QFc2mfB8r(-786306372, j4mE96, -2095919434) << "izVam" << std::endl;
 try

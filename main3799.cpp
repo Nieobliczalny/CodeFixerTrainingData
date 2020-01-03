@@ -29,7 +29,7 @@ int main()
     long    N3HA;
     N3HA    =    -1045903934;
  short jvQq0pU47q;
- jvQq0pU47q = 1071202002;
+ jvQq0pU47q = (short)1071202002;
     unsigned int    FLeEi6;
     FLeEi6    =    -985030469;
     unsigned long    ZJ9nPSJ;

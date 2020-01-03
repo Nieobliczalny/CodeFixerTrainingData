@@ -35,7 +35,7 @@ int main(void) {
   float  pRYw4J0  =  437547698;
     long    I567Kv    =    -2118222599;
 	int	USP3	=	1388686330;
-    unsigned short    Yp9Hoco    =    1389316019;
+    unsigned short    Yp9Hoco    =    (unsigned short)1389316019;
 	unsigned short int	BEGw0X	=	1770979947;
  char w6FPs7 = (char)1539765020;
 	long double	WqTv3s5	=	-1793315642;
@@ -45,7 +45,7 @@ int main(void) {
   double  KJ3fT_oC  =  -1047522235;
 	unsigned long	t3w5_87L0V	=	-373851698;
   float  zY9o  =  481030179;
-  char  Btrv  =  -110955052;
+  char  Btrv  =  (char)-110955052;
 	unsigned char	Kf_Ix	=	-1880731470;
     unsigned short int    k4hb_jWs7    =    (unsigned short)1482619976;
   double  aIBfBm  =  24275610;
@@ -55,7 +55,7 @@ int main(void) {
     unsigned int    GT9A3_53_r    =    2127757485;
   unsigned short int  YmN59QRY_4  =  -667013662;
   short  Sa6B30C2u  =  316514820;
-    unsigned char    RDR0mNjEL    =    -269243249;
+    unsigned char    RDR0mNjEL    =    (unsigned char)-269243249;
  unsigned short sZXa = -905091035;
     unsigned long long    Q04Dq3vP    =    2076833316;
  double K9CTm = 529506245;
@@ -73,7 +73,7 @@ int main(void) {
   unsigned short int  KN5_W  =  (unsigned short)1652754905;
  double AzpdTdAt10 = 792134951;
   unsigned short  I428B  =  (unsigned short)-1729147687;
-  char  kT9GJdK  =  1060170700;
+  char  kT9GJdK  =  (char)1060170700;
  long double pRuB1GLe3 = 900444157;
   double  A5t1x  =  748468814;
  unsigned long iRR7hX24l = -827308360;
@@ -111,7 +111,7 @@ int main(void) {
  double BNUTU6 = 2008146401;
   unsigned long long  U6650  =  332162676;
  unsigned short iAG51O9V = (unsigned short)-1471512727;
-  unsigned short int  o92n1E4  =  -488808756;
+  unsigned short int  o92n1E4  =  (unsigned short)-488808756;
 
 if (cE13_Vj7cn != 1644200198)
 {
@@ -188,7 +188,7 @@ cout << IEdsGQ1 << wSe515COcV((char)2045739364, zY9o) << wSe515COcV(kNHRTqkp2, z
 }
 else
 {
-Sa6B30C2u = (YmN59QRY_4 < I4sW) ? -1129701664 : Q04Dq3vP;
+Sa6B30C2u = (YmN59QRY_4 < I4sW) ? (short)-1129701664 : Q04Dq3vP;
 }
 {
 int i = 4;

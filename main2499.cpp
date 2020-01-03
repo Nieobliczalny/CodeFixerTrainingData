@@ -72,7 +72,7 @@ int main(int argc, char** argv)
 	unsigned long	mx9hvj2t01;
 	mx9hvj2t01	=	0;
  char D02kNd8Ah;
- D02kNd8Ah = -433771723;
+ D02kNd8Ah = (char)-433771723;
  unsigned int t_P022xU;
  t_P022xU = -1994734424;
  unsigned long ICEw5;
@@ -84,7 +84,7 @@ int main(int argc, char** argv)
     short    M5q910Cv9;
     M5q910Cv9    =    (short)3077287;
   short  vIlmltyRZ;
-  vIlmltyRZ  =  -536798533;
+  vIlmltyRZ  =  (short)-536798533;
  char w6t4YTUi;
  w6t4YTUi = -487571378;
     long double    w1mV;
@@ -98,7 +98,7 @@ int main(int argc, char** argv)
   unsigned long  rDH_PI8E;
   rDH_PI8E  =  -490923114;
     unsigned char    itZEp;
-    itZEp    =    -111212642;
+    itZEp    =    (unsigned char)-111212642;
  unsigned long long i80dpW2g3S;
  i80dpW2g3S = 1735954406;
  short OYT7cq3M;
@@ -206,7 +206,7 @@ case 2:
 ICEw5 = h2TGQ5(ICEw5, xkAZ9r, S5IK7X, eW11);
 break;
 case 3:
-M5q910Cv9 = gf52JhL((unsigned short)260230632, -1370135809, t_P022xU);
+M5q910Cv9 = gf52JhL((unsigned short)260230632, (unsigned short)-1370135809, t_P022xU);
 break;
 case 4:
 LQmaEyRN >>= eW11;
@@ -263,7 +263,7 @@ case 1:
 GqRc = gf52JhL(GqRc, mx9hvj2t01, wgUx);
 break;
 case 2:
-rDH_PI8E = gf52JhL((unsigned short)-641243173, 1983065764, -1960769388);
+rDH_PI8E = gf52JhL((unsigned short)-641243173, (unsigned short)1983065764, -1960769388);
 break;
 case 3:
 vIlmltyRZ >>= rDH_PI8E;
@@ -310,7 +310,7 @@ case 'a':
 Fg3eLUW8xV = gf52JhL((unsigned short)479534676, (unsigned short)-1274807567, OYT7cq3M);
 break;
 case 'b':
-vIlmltyRZ = h2TGQ5(-587282439, vIlmltyRZ, eW11, -2093920867);
+vIlmltyRZ = h2TGQ5((short)-587282439, vIlmltyRZ, eW11, -2093920867);
 break;
 default:
 g_5602JK = (int)floor(zuqZfqPJ6);
@@ -395,7 +395,7 @@ for (int i = AusqyTeRi2; i < 159; i++)
 {
 itZEp = (unsigned char)(eHgiwS6_9);
 	V93dHIG = 720555533 / i;
-czNo8S = (xkAZ9r < BShlo3m4p) ? (unsigned short)963301365 : kMXW2G_90(-1201532092, w6t4YTUi, 881443027);
+czNo8S = (xkAZ9r < BShlo3m4p) ? (unsigned short)963301365 : kMXW2G_90(-1201532092, w6t4YTUi, (unsigned char)881443027);
 }
 
 switch (M5q910Cv9)

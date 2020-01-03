@@ -26,7 +26,7 @@ int main(void)
 	unsigned char	g_VU38W	=	(unsigned char)-90875098;
     int    dt8s3y71tb    =    1837135249;
     unsigned short int    AM29Y    =    (unsigned short)-1234409685;
-	unsigned short int	T2L874w	=	-814972325;
+	unsigned short int	T2L874w	=	(unsigned short)-814972325;
     long double    q8E9JHHDg    =    -938350550;
     unsigned long long    OKqUb    =    -1356732121;
 	unsigned short int	yu28aT4f1	=	-173216184;
@@ -42,7 +42,7 @@ int main(void)
   int  r_Ef  =  -2106137444;
 	long	j1T16	=	825974427;
 	unsigned long long	Dy9sgV	=	-576094773;
- unsigned char Y2Of31b_B = -2098618544;
+ unsigned char Y2Of31b_B = (unsigned char)-2098618544;
   unsigned long  vacPT  =  1806673100;
   unsigned long  Sl6ph3LhP  =  -1050079589;
  int f_0Oa_67 = -1812973325;

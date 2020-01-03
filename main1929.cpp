@@ -43,7 +43,7 @@ int main()
 	char	nrsjg_aj;
 	nrsjg_aj	=	(char)956621226;
  unsigned short int r13Uq8;
- r13Uq8 = 622304120;
+ r13Uq8 = (unsigned short)622304120;
     short int    o6_9;
     o6_9    =    243611453;
   long long  KvZ4YqtJ3;
@@ -115,7 +115,7 @@ int main()
 	long	o5_7COhV9;
 	o5_7COhV9	=	0;
  unsigned short int T51UKOb;
- T51UKOb = 1034716018;
+ T51UKOb = (unsigned short)1034716018;
  unsigned short int YK2Lpv5ct_;
  YK2Lpv5ct_ = (unsigned short)1015962994;
  unsigned char VGQxl7zww0;
@@ -135,7 +135,7 @@ int main()
   unsigned long long  ZF686_;
   ZF686_  =  1929342401;
  char B_c0WHEy0W;
- B_c0WHEy0W = -1924019149;
+ B_c0WHEy0W = (char)-1924019149;
     unsigned short int    GGlc3;
     GGlc3    =    (unsigned short)1315132207;
  unsigned long gBY5N9is;
@@ -167,7 +167,7 @@ int main()
 	unsigned short int	gWRgiK8id;
 	gWRgiK8id	=	(unsigned short)-1877767877;
   unsigned short int  Z9x4No46z;
-  Z9x4No46z  =  946948215;
+  Z9x4No46z  =  (unsigned short)946948215;
 	long long	tBqd;
 	tBqd	=	-2044062151;
 	double	H3EQ1;
@@ -179,7 +179,7 @@ int main()
  short int WfUbGw0rO;
  WfUbGw0rO = (short)1513024230;
   char  BG5X9;
-  BG5X9  =  1428661268;
+  BG5X9  =  (char)1428661268;
 
 k9shL14q59 %= 1961237458;
 
@@ -250,7 +250,7 @@ T51UKOb = omiy(T51UKOb, (short)490940611);
 }
 else if (KvZ4YqtJ3 == r13Uq8)
 {
-std::cout << omiy(T51UKOb, (short)363096870) << MC7wD7z7f9 << WfUbGw0rO << CIzetR__7(-1508435393, FM9d, UZ_8, VGQxl7zww0, -1703571520) << std::endl;
+std::cout << omiy(T51UKOb, (short)363096870) << MC7wD7z7f9 << WfUbGw0rO << CIzetR__7((short)-1508435393, FM9d, UZ_8, VGQxl7zww0, -1703571520) << std::endl;
 }
 else
 {
@@ -266,7 +266,7 @@ Dy_XDNHmL8 = CIzetR__7((short)-1899799258, Bb_xm5eu54, xZ6A63GL02, AyKLskmo, ZF6
 }
 else if (MC7wD7z7f9 != gWX4HBhnZC)
 {
-co2F27 = omiy(292684357, -2079024390);
+co2F27 = omiy(292684357, (short)-2079024390);
 }
 else if (XEow8)
 {
@@ -286,7 +286,7 @@ else
 Z9x4No46z = XPx6m / 419600458;
 }
 }
-XPx6m = CIzetR__7(FM9d, (unsigned short)-1373102984, (short)214974208, fBf5jZNe_, 1160022431);
+XPx6m = CIzetR__7(FM9d, (unsigned short)-1373102984, (short)214974208, fBf5jZNe_, (unsigned short)1160022431);
 ZCIw0y = T58nz >> ZF686_;
 
 try
@@ -320,7 +320,7 @@ while (j < 3)
 j++;
 try
 {
-YslvH = CIzetR__7(k059n, (unsigned short)-1471474443, (short)1382427116, ZCIw0y, -1108490348);
+YslvH = CIzetR__7(k059n, (unsigned short)-1471474443, (short)1382427116, ZCIw0y, (unsigned short)-1108490348);
 }
 catch (int& errorCode)
 {
