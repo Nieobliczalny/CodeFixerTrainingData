@@ -24,7 +24,7 @@ int main(void) {
  short int Qf5lcaq5 = (short)-897532673;
 	int	cOE61nf7	=	94307771;
     unsigned short    Ty6J1V    =    (unsigned short)-1376055598;
- unsigned short int tsSf5Q_G2c = -1228534705;
+ unsigned short int tsSf5Q_G2c = (unsigned short)-1228534705;
     double    FPL3qnOmk0    =    715215673;
  unsigned int Xv_b0 = 1842535251;
     unsigned long long    KEqg    =    148768294;
@@ -372,7 +372,7 @@ switch (V4Q4)
 {
 case 'a':
 case 'A':
-PR53b_9 = a_bvcrM_w(67962637, 1216202620, Z4fX5, cOE61nf7, PR53b_9);
+PR53b_9 = a_bvcrM_w((unsigned short)67962637, 1216202620, Z4fX5, cOE61nf7, PR53b_9);
 break;
 default:
 Z4fX5 /= 1498496092;

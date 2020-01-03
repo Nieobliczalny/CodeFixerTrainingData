@@ -31,7 +31,7 @@ int main()
 
 xf24S36A6 = QFc2mfB8r((unsigned short)1496016252, 1873162573, (unsigned short)-357016993);
 
-std::cout << "oXdwM" << QFc2mfB8r(-786306372, j4mE96, -2095919434) << "izVam" << std::endl;
+std::cout << "oXdwM" << QFc2mfB8r((unsigned short)-786306372, j4mE96, -2095919434) << "izVam" << std::endl;
 try
 {
 std::cout << "V6fr9x" << std::endl;

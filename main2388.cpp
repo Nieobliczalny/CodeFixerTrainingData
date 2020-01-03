@@ -108,7 +108,7 @@ int main(int argc, char** argv)
 	unsigned short	PDHV8;
 	PDHV8	=	(unsigned short)1935074718;
 	unsigned short int	lxvt;
-	lxvt	=	94648270;
+	lxvt	=	(unsigned short)94648270;
  char UFT8ygG;
  UFT8ygG = (char)-2120348132;
   unsigned long long  M7W1ZKNt;
@@ -142,7 +142,7 @@ int main(int argc, char** argv)
   unsigned long long  oEq_2Bz;
   oEq_2Bz  =  -956208724;
 	unsigned char	k4w4cCP5;
-	k4w4cCP5	=	-1407612524;
+	k4w4cCP5	=	(unsigned char)-1407612524;
     short int    xBnZyG;
     xBnZyG    =    (short)509652895;
 	unsigned long	zUXTQ9p8D;
@@ -438,7 +438,7 @@ if (ic3qk_fC >= -533241968)
 {
 try
 {
-std::cout << lxvt << Sfu82uZbM(153163444, -1775662584) << "B74St5k86" << std::endl;
+std::cout << lxvt << Sfu82uZbM(153163444, (unsigned short)-1775662584) << "B74St5k86" << std::endl;
 }
 catch (int& errorCode)
 {
@@ -473,7 +473,7 @@ i--;
 }
 }
 je_V *= 807099373;
-std::cout << Sfu82uZbM(qD7Ecxw6Q, (unsigned short)-302953487) << "Rca4f6" << Sfu82uZbM(1113476995, -295165097) << gWl6S8(-1111364930, -2065706903, 410829481, k1y2A1_Tq8, APQXWH6_) << zUXTQ9p8D << std::endl;
+std::cout << Sfu82uZbM(qD7Ecxw6Q, (unsigned short)-302953487) << "Rca4f6" << Sfu82uZbM(1113476995, (unsigned short)-295165097) << gWl6S8(-1111364930, -2065706903, 410829481, k1y2A1_Tq8, APQXWH6_) << zUXTQ9p8D << std::endl;
 
 C8PKJXM = 1699941613 / KgBWIsbsB;
 for (int i = 0; i < 3; i++)

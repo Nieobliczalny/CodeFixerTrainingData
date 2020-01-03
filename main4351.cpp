@@ -416,7 +416,7 @@ v3_A4g = (int)ceil(Rk3zm);
 }
 v3_A4g = p3odMdq1(-1654526736, FQWg, Y6meSGof_u);
 std::cout << ll5Fbj((char)-229980990, FQWg, Y6meSGof_u, j_76y2PSSz) << "a_FJS8g" << c53JnG() << std::endl;
-std::cout << fnEXV << b_u9o << c53JnG() << ll5Fbj(487280456, 493826244, -862492654, j_76y2PSSz) << FQWg << std::endl;
+std::cout << fnEXV << b_u9o << c53JnG() << ll5Fbj((char)487280456, 493826244, -862492654, j_76y2PSSz) << FQWg << std::endl;
 std::cout << dV488me << "O1q74t" << mzTot65 << std::endl;
 
 Fn63J = p3odMdq1(-1442139443, (char)986621712, (short)-226448330) / siDy;
@@ -585,7 +585,7 @@ RrKN89 = p3odMdq1(siDy, (char)652374455, (short)-308326594);
 }
 else
 {
-mzTot65 = p3odMdq1(mzTot65, (char)-922890150, -442534119);
+mzTot65 = p3odMdq1(mzTot65, (char)-922890150, (short)-442534119);
 }
 
 {

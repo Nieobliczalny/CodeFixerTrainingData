@@ -128,7 +128,7 @@ int main(int argc, char** argv)
     char    L1oe8;
     L1oe8    =    (char)-192411624;
   char  Nt806;
-  Nt806  =  -425639338;
+  Nt806  =  (char)-425639338;
  unsigned char H9233R;
  H9233R = (unsigned char)-1166197012;
   short  wo3y399B;
@@ -186,7 +186,7 @@ XDCOy41++;
 
 try
 {
-std::cout << W4U2pN4X(MEjD3, YeVa_tk7P, 520760219, (short)1225365723, 292466298) << "q7f0A" << d5LZwb << std::endl;
+std::cout << W4U2pN4X(MEjD3, YeVa_tk7P, 520760219, (short)1225365723, (unsigned char)292466298) << "q7f0A" << d5LZwb << std::endl;
 }
 catch (int& errorCode)
 {
@@ -205,7 +205,7 @@ case 0:
 iIxc6b9i7 = W4U2pN4X(Bpz2O, (short)-2050000961, MEjD3, iIxc6b9i7, (unsigned char)600933333);
 break;
 case 1:
-QC69S8821J = W4U2pN4X((short)1464071165, Bt3FTy_1, JK_68kqH9J, Bg4yyW95j, 326057162);
+QC69S8821J = W4U2pN4X((short)1464071165, Bt3FTy_1, JK_68kqH9J, Bg4yyW95j, (unsigned char)326057162);
 break;
 case 2:
 PDG5l = W4U2pN4X(466828882, -940382197, 1796911184, TnkZ2D, oiU7h_0hnJ);
@@ -217,7 +217,7 @@ case 4:
 DNoH9H62 /= r11X;
 break;
 case 5:
-rBz5S = W4U2pN4X((short)-1598018076, (short)710784524, -1379952497, (short)215096941, -908405800);
+rBz5S = W4U2pN4X((short)-1598018076, (short)710784524, -1379952497, (short)215096941, (unsigned char)-908405800);
 break;
 case 6:
 H546NcCm2F -= RyAHyFs;
@@ -402,7 +402,7 @@ PDG5l = W4U2pN4X((short)-84237919, (short)-474221861, U7pzf6, (short)904181040, 
 
 YeVa_tk7P = yK11NMw / iIxc6b9i7;
 
-iIxc6b9i7 = W4U2pN4X(2105871423, HNFVZ, 33515027, -1866059329, 158620152);
+iIxc6b9i7 = W4U2pN4X((short)2105871423, HNFVZ, 33515027, -1866059329, 158620152);
 {
 int i = 0;
 do

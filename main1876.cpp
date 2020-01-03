@@ -95,7 +95,7 @@ TOWw = ETI7_0(TOWw, (unsigned short)-2008528266, gn5B54ha5, (unsigned short)1745
 }
 else if (r6a1MLd >= E7e_84eg)
 {
-x1A0xk8I9b = ETI7_0(x1A0xk8I9b, i028E8, (short)1528587245, 1164030394, -997073629);
+x1A0xk8I9b = ETI7_0(x1A0xk8I9b, i028E8, (short)1528587245, (unsigned short)1164030394, -997073629);
 }
 else if (E_a0Hd6 >= -570281736)
 {

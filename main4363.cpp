@@ -44,7 +44,7 @@ int main(void)
 	unsigned char	D8B8o7QD;
 	D8B8o7QD	=	(unsigned char)1636620050;
   short int  Juf2W;
-  Juf2W  =  1119195995;
+  Juf2W  =  (short)1119195995;
  double u9_A;
  u9_A = 1440307602;
   int  t_ecGos6q7;
@@ -226,7 +226,7 @@ case 4:
 Z_jR1 = bss1((unsigned short)-1722707256, hw4T, (short)1009404073);
 break;
 case 5:
-j_aW00Wh = bss1((unsigned short)-865973290, R5_idi_, 1260754370);
+j_aW00Wh = bss1((unsigned short)-865973290, R5_idi_, (short)1260754370);
 break;
 default:
 wjS9O = (int)abs(Kw9rN7);

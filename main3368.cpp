@@ -59,7 +59,7 @@ int main(void) {
   short int  D1Jf2hn4s;
   D1Jf2hn4s  =  (short)-1318114275;
  char QJ4O74op;
- QJ4O74op = 1442423700;
+ QJ4O74op = (char)1442423700;
  long V0tEJ;
  V0tEJ = -1023653294;
   unsigned long long  d16mP;
@@ -109,7 +109,7 @@ int main(void) {
 	unsigned short	Ne1500z6q;
 	Ne1500z6q	=	(unsigned short)-1191358599;
 
-std::cout << HdF90r(p8Bjt, hZlOvv5, -265987043, V0tEJ) << hZlOvv5 << afWuM << AWm_H(-1024278291, 164163073) << std::endl;
+std::cout << HdF90r(p8Bjt, hZlOvv5, -265987043, V0tEJ) << hZlOvv5 << afWuM << AWm_H((unsigned char)-1024278291, 164163073) << std::endl;
 
 if (xL4co8Q & L80SA39bw)
 {

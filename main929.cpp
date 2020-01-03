@@ -146,7 +146,7 @@ int main()
   char  kauk4CLK;
   kauk4CLK  =  (char)105180403;
     unsigned short int    uEQsC;
-    uEQsC    =    298243279;
+    uEQsC    =    (unsigned short)298243279;
     char    nkVb1tr_K;
     nkVb1tr_K    =    (char)1689640000;
  unsigned int l0i4;

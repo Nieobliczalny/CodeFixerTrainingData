@@ -564,7 +564,7 @@ nfp3AVxI = (int)abs(M050i6);
 }
 }
 }
-cout << OxxtFk08b(Vmsqs4gWLE, (char)-1651704967) << rqDh(Vmsqs4gWLE, u80nLJ, 1850871229, (char)1364958729) << OxxtFk08b(-1658572096, u80nLJ) << "VzQS" << endl;
+cout << OxxtFk08b(Vmsqs4gWLE, (char)-1651704967) << rqDh(Vmsqs4gWLE, u80nLJ, 1850871229, (char)1364958729) << OxxtFk08b((short)-1658572096, u80nLJ) << "VzQS" << endl;
 return 0;
 }
 

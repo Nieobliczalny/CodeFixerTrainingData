@@ -110,7 +110,7 @@ int main(int argc, char** argv) {
   short  e1Iq68;
   e1Iq68  =  (short)-771885315;
     char    HPydc0f2;
-    HPydc0f2    =    1012850927;
+    HPydc0f2    =    (char)1012850927;
     int    r61Z;
     r61Z    =    -1530168295;
   unsigned short int  gRoZxrEp1K;
@@ -170,7 +170,7 @@ int main(int argc, char** argv) {
     short    S10E75;
     S10E75    =    (short)864756603;
   short int  CIgKs_O;
-  CIgKs_O  =  -883588328;
+  CIgKs_O  =  (short)-883588328;
  short int NBOx99mrw;
  NBOx99mrw = (short)698518619;
 	unsigned long long	oGU3k8k;
@@ -214,7 +214,7 @@ int main(int argc, char** argv) {
     int    vVJ3y8Ya4;
     vVJ3y8Ya4    =    235482828;
     unsigned short int    ec79T;
-    ec79T    =    999420790;
+    ec79T    =    (unsigned short)999420790;
 
 try
 {
@@ -252,7 +252,7 @@ H9eRFHAg = g_w3N_hdED(RSt_, (unsigned short)1255005124, (short)-1556107661);
 }
 else if (a6S2)
 {
-H9eRFHAg = g_w3N_hdED(RgL8_1Q, (unsigned short)-2141184251, -1646435718);
+H9eRFHAg = g_w3N_hdED(RgL8_1Q, (unsigned short)-2141184251, (short)-1646435718);
 }
 else if (Abzf == -465221735)
 {

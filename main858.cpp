@@ -34,7 +34,7 @@ int main(int argc, char** argv) {
     short    OtI_029_;
     OtI_029_    =    (short)-56889878;
 	unsigned short int	gaMu1H;
-	gaMu1H	=	1319483437;
+	gaMu1H	=	(unsigned short)1319483437;
 	long	tpsJ769PuW;
 	tpsJ769PuW	=	98282135;
     long double    Zwk5S;

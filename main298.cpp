@@ -38,7 +38,7 @@ int main()
 	unsigned short int	zLK_;
 	zLK_	=	(unsigned short)2061859561;
 	short int	Rm4S17;
-	Rm4S17	=	1349227074;
+	Rm4S17	=	(short)1349227074;
 	unsigned int	z8trYWZM;
 	z8trYWZM	=	-1030083703;
 	short	U1P9i78Zg;
@@ -62,7 +62,7 @@ int main()
 	unsigned short	V_xLgON;
 	V_xLgON	=	(unsigned short)-1459420403;
 	short int	D59f9W3z;
-	D59f9W3z	=	-579196423;
+	D59f9W3z	=	(short)-579196423;
     unsigned long long    Pnxy5Zo_;
     Pnxy5Zo_    =    1995515211;
  float ZTPv767ilt;
@@ -162,7 +162,7 @@ int main()
  short int PwXdz;
  PwXdz = (short)374205207;
     unsigned short int    vQvbAT_te;
-    vQvbAT_te    =    1389108124;
+    vQvbAT_te    =    (unsigned short)1389108124;
   long  uEN6;
   uEN6  =  -1470444633;
  unsigned short lK9UdlHRnY;

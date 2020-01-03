@@ -32,7 +32,7 @@ int main(int argc, char** argv)
  unsigned short ed5Q;
  ed5Q = (unsigned short)-1922542664;
   short int  ydgcB93J0_;
-  ydgcB93J0_  =  -1587662756;
+  ydgcB93J0_  =  (short)-1587662756;
  unsigned long Dxk_95;
  Dxk_95 = -1564380859;
     unsigned short    Q607e7o;
@@ -92,7 +92,7 @@ int main(int argc, char** argv)
   unsigned char  yXg0N4;
   yXg0N4  =  (unsigned char)-1956437602;
  unsigned short Y3Ouh;
- Y3Ouh = 1524534492;
+ Y3Ouh = (unsigned short)1524534492;
   unsigned short int  QJ8Y;
   QJ8Y  =  -146243464;
 	unsigned char	X5TX;

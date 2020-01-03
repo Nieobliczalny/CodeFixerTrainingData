@@ -92,7 +92,7 @@ int main() {
     short int    a1gX4181Cu;
     a1gX4181Cu    =    (short)1573210499;
  unsigned short int eyE_I7;
- eyE_I7 = -226606598;
+ eyE_I7 = (unsigned short)-226606598;
 	unsigned char	nluE6ET;
 	nluE6ET	=	(unsigned char)242265506;
 	unsigned short int	hs2aG;
@@ -120,7 +120,7 @@ int main() {
   unsigned short int  F2YMdQKe;
   F2YMdQKe  =  (unsigned short)1940842363;
   short  YioJQ7yBRM;
-  YioJQ7yBRM  =  -1488975229;
+  YioJQ7yBRM  =  (short)-1488975229;
  double CThu;
  CThu = 1870326806;
 	float	R63NL2;
@@ -196,7 +196,7 @@ int main() {
 	unsigned char	h2gqE91A7Z;
 	h2gqE91A7Z	=	(unsigned char)-7644672;
     short    Pv0Wwt;
-    Pv0Wwt    =    -1216282338;
+    Pv0Wwt    =    (short)-1216282338;
  float bW_dMN;
  bW_dMN = -348753940;
 	unsigned short int	q25q813Ku_;

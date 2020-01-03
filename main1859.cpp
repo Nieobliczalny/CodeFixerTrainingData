@@ -43,7 +43,7 @@ int main(int argc, char** argv)
     unsigned short int    FRnFvEg    =    (unsigned short)1521690437;
   double  cMM9gJ  =  1339535161;
  double l7j1S = -811134735;
- unsigned short int us15v = -1953289160;
+ unsigned short int us15v = (unsigned short)-1953289160;
 	long	o1h4_NiG	=	-1022929638;
  int r785OMXcl = -1723828127;
 	short	MMKj833Wny	=	(short)3736129;
@@ -53,7 +53,7 @@ int main(int argc, char** argv)
   unsigned int  k9O8A  =  -1119304376;
   short int  QcxVwgx  =  (short)-176006858;
 	float	sdBCFmASKO	=	1218922151;
-    unsigned char    sX5N4Ghxq    =    -1901711483;
+    unsigned char    sX5N4Ghxq    =    (unsigned char)-1901711483;
     short    SyjNKKjgi    =    0;
 	double	nh15E	=	-1011361655;
 	unsigned long	LKrO4XS5	=	-372046599;

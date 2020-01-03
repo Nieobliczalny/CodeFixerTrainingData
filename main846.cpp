@@ -273,7 +273,7 @@ case 1:
 s_2R9wiqM6 |= 907589033;
 break;
 case 2:
-vVMhMsC5gE = L0T85D((unsigned short)-535287046, 1355090618);
+vVMhMsC5gE = L0T85D((unsigned short)-535287046, (short)1355090618);
 break;
 case 3:
 QX_ItU6xKq = D6aO4_(QX_ItU6xKq, hr6yh);

@@ -332,7 +332,7 @@ iO5P4 = -590563933 / fmRfn();
 std::cout << m9cy << std::endl;
 
 u0p55 = (int)abs(q_5J_);
-iO5P4 = u_6T((short)1224604922, 1223071093, 1251703657);
+iO5P4 = u_6T((short)1224604922, (short)1223071093, 1251703657);
 
 for (int i = 8; i >= 0; i--)
 {

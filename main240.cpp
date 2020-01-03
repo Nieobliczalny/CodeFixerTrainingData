@@ -58,7 +58,7 @@ case 'a':
 Xe8TckE3vt = AY3XH7j_h((unsigned short)1232960547, ZS43, ubG2yM, k_an, -2104301546) / 1214376005;
 break;
 case 'b':
-wmp0er3imx = AY3XH7j_h((unsigned short)1862374293, (unsigned short)-1934313289, -1727054151, 940209942, kJq2kk9Q);
+wmp0er3imx = AY3XH7j_h((unsigned short)1862374293, (unsigned short)-1934313289, (short)-1727054151, 940209942, kJq2kk9Q);
 break;
 case 'c':
 ImcR *= 1265228189;
@@ -270,7 +270,7 @@ wmp0er3imx = AY3XH7j_h(UaS3W, (unsigned short)377592461, (short)1287016796, (sho
 break;
 case 'd':
 case 'D':
-qWFK_40MA2 = pvIw(-1697119984) % T5_i0;
+qWFK_40MA2 = pvIw((char)-1697119984) % T5_i0;
 break;
 case 'e':
 case 'E':

@@ -35,7 +35,7 @@ int main(int argc, char** argv)
 	unsigned char	Q2N4n	=	(unsigned char)1080242408;
     unsigned long long    jO9EV5S4    =    -367583324;
     unsigned int    JFFyC    =    -1754475039;
-	unsigned short	RN4vD6fi70	=	978352837;
+	unsigned short	RN4vD6fi70	=	(unsigned short)978352837;
     long long    tWehFf    =    -2054308153;
     unsigned short int    M62Ky7u    =    1627365865;
  unsigned char AC7etwW1z = (unsigned char)-1027485941;
@@ -55,7 +55,7 @@ int main(int argc, char** argv)
 	int	bfFkW	=	-2084656482;
   unsigned long long  UQ3rM  =  1898846627;
     unsigned short int    h4ss057X    =    (unsigned short)1330930592;
-	short	ySKKl1F	=	-1437514689;
+	short	ySKKl1F	=	(short)-1437514689;
 	short int	I_0lL	=	-963417133;
   long  L6myvm5F_x  =  -116992640;
 	unsigned long	Q_ndj	=	706158424;
@@ -69,7 +69,7 @@ int main(int argc, char** argv)
 	long	Lcnn292uP	=	0;
   unsigned char  k7M000vvU_  =  (unsigned char)-911822733;
     long    kSldIM    =    754005871;
-	unsigned char	ax8T_l1	=	1031653379;
+	unsigned char	ax8T_l1	=	(unsigned char)1031653379;
  unsigned long N6Vz = 0;
 	unsigned long long	VYv96	=	-368254823;
   double  To_M8kNnz  =  -1409446991;
@@ -82,7 +82,7 @@ int main(int argc, char** argv)
   float  Do1b  =  -394376392;
   unsigned short  F4vH4  =  (unsigned short)-280008660;
  long double iVdl5v = 966626003;
-  unsigned short int  J3H3bVl4  =  -293332338;
+  unsigned short int  J3H3bVl4  =  (unsigned short)-293332338;
   short  V1W6o  =  (short)1691959721;
  unsigned short rw_77y526 = -1774533026;
  unsigned long ni3TreIR = 1493864844;
@@ -92,7 +92,7 @@ int main(int argc, char** argv)
  float o6R2Q99h = -577621504;
 	unsigned long long	O569RG8D7	=	-1486947352;
  short int R4lH1Od = (short)-1157007152;
- unsigned short int f42k3B = -291715154;
+ unsigned short int f42k3B = (unsigned short)-291715154;
     unsigned int    da95_3    =    1014180288;
  unsigned long long M4cM = 787892041;
  long oJC90m = 1815434086;
@@ -791,7 +791,7 @@ else
 std::cout << KA_ieOQJw7 << "JHuz5b6" << G9Mu6A8C << "j857qi" << AjtxJ((unsigned short)1295068286, (short)1470746653, ZJqw0LM) << std::endl;
 }
 
-h4ss057X = AjtxJ(h4ss057X, 1887218218, TVx_);
+h4ss057X = AjtxJ(h4ss057X, (short)1887218218, TVx_);
 {
 int i = 5;
 while (i >= 0)

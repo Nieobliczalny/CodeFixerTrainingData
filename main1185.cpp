@@ -230,7 +230,7 @@ A5V4qk_y = ooEFul4(A5V4qk_y, (short)1374648993, -407713358, 1331602038, B9ehaT4n
 break;
 case 'c':
 case 'C':
-n_43c = oxQ4GizY(-1937786271, PV5pSex);
+n_43c = oxQ4GizY((unsigned char)-1937786271, PV5pSex);
 break;
 case 'd':
 case 'D':

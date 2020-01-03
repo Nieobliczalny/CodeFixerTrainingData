@@ -38,7 +38,7 @@ int main(int argc, char** argv)
  fG5Ee = (unsigned short)1940857440;
  v3sZtve = (unsigned short)298762585;
  Lem6BN4 = (unsigned short)-620134234;
- r4ry92q9 = -508712990;
+ r4ry92q9 = (unsigned short)-508712990;
  isZI = -1895532141;
  Qh598z6lm = 1231247703;
  QX0z5MUlgc = 366139756;
@@ -48,7 +48,7 @@ int main(int argc, char** argv)
  pWkeq = (unsigned short)-1015912489;
  V8q6c7l_ = (unsigned short)-1507012329;
  wBlCc4LM = (unsigned short)-695611168;
- pQf7 = 1104718119;
+ pQf7 = (unsigned short)1104718119;
  eq5L9wfW = -861447098;
  YAT53d0Y = -63032263;
  WN_d5vp9 = 1357223471;
@@ -58,7 +58,7 @@ int main(int argc, char** argv)
  NDPCJi8A = (unsigned short)-542374167;
  EAaLgJ4RG0 = (unsigned short)1958014441;
  mzc80 = (unsigned short)-2078078989;
- kvEMG8XBV = 585673508;
+ kvEMG8XBV = (unsigned short)585673508;
  CVXf30l = -1819336803;
  PS_6azx_1 = -147412080;
  Zx1oy = 6554730;
@@ -68,7 +68,7 @@ int main(int argc, char** argv)
  N5Nf39_ = (unsigned short)2119235922;
  ck3e = (unsigned short)-1133232576;
  F0_sl2K1k9 = (unsigned short)940139416;
- j3b_wXB = -320073675;
+ j3b_wXB = (unsigned short)-320073675;
  CjT4D36_O3 = 795466105;
  tQP0sc7 = 995094335;
  EKA_M = -1022266524;
@@ -78,7 +78,7 @@ int main(int argc, char** argv)
  q2G54Ihy4r = (unsigned short)1470068577;
  g7_qi70gB = (unsigned short)-594425279;
  gpamr = (unsigned short)-2047324651;
- Z7KlB = -222487854;
+ Z7KlB = (unsigned short)-222487854;
  RH03C_hM0T = 1044958073;
  V_cz6Z = -882969058;
  bdN_xW = -1270106007;
@@ -88,7 +88,7 @@ int main(int argc, char** argv)
  OW148Sq339 = (unsigned short)188228113;
  D9G35R = (unsigned short)1197282438;
  M4jfN = (unsigned short)-1551444894;
- y90tHw = 716584883;
+ y90tHw = (unsigned short)716584883;
  vkv8 = -787169799;
  J6puRKS4k = -615984030;
  t0D8FX = -743125234;
@@ -98,7 +98,7 @@ int main(int argc, char** argv)
  M5O4 = (unsigned short)1857816549;
  kqVxi410K3 = (unsigned short)-587897594;
  xGl66 = (unsigned short)-915651956;
- vT9d = 1941098635;
+ vT9d = (unsigned short)1941098635;
  j_d9HJXU = -180760719;
 
 FPAZ5n9Y = K02t | 954635212;
@@ -245,7 +245,7 @@ case 'c':
 F0_sl2K1k9 = rz3Ig91(F0_sl2K1k9, X169l1B, (unsigned short)-1596078998);
 break;
 case 'd':
-CVXf30l = rz3Ig91(-824460996, xGl66, 1401160988);
+CVXf30l = rz3Ig91((short)-824460996, xGl66, 1401160988);
 break;
 default:
 PS_6azx_1 >>= RH03C_hM0T;

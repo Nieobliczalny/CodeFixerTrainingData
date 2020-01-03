@@ -47,7 +47,7 @@ int main(int argc, char** argv)
 	unsigned short int	tHG9qzmu;
 	tHG9qzmu	=	(unsigned short)1167728818;
 	unsigned short int	ukKNtg;
-	ukKNtg	=	-2025648228;
+	ukKNtg	=	(unsigned short)-2025648228;
  float v_TGnjssq5;
  v_TGnjssq5 = 627145639;
   short int  Nz4FTQZiHN;

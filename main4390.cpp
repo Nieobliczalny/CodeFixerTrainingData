@@ -811,7 +811,7 @@ case 'd':
 kY5Wwx0 = SXSEAO3_(kY5Wwx0, (unsigned short)-1030601179);
 break;
 case 'e':
-SN9jw15 = JfF_KFUqi(LOsB5rqYb_, (char)-1733962285, IWuqjE_5M, 1494673591, 987525295);
+SN9jw15 = JfF_KFUqi(LOsB5rqYb_, (char)-1733962285, IWuqjE_5M, 1494673591, (char)987525295);
 break;
 case 'f':
 kY5Wwx0 = JfF_KFUqi(727789359, -1945496148, M4dIb1, SN9jw15, MbCynoG64);

@@ -28,7 +28,7 @@ int main() {
   unsigned short  q82Oi;
   q82Oi  =  (unsigned short)750620336;
  short int Xa_gb1F;
- Xa_gb1F = 1192638379;
+ Xa_gb1F = (short)1192638379;
     short int    oU44;
     oU44    =    1002659432;
 	long double	pQ_n;

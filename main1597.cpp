@@ -28,7 +28,7 @@ int main()
   char  dEdQZ3eA  =  (char)847169959;
   float  dz_v  =  -624960177;
 	short	WD13aejQ	=	(short)984328699;
-  unsigned short int  CoBw_4  =  541302295;
+  unsigned short int  CoBw_4  =  (unsigned short)541302295;
  unsigned long psTp55 = -803666989;
     short int    vX7isv6S    =    -1280610863;
   short int  SxM511  =  -639775197;
@@ -62,7 +62,7 @@ int main()
 	char	fK6B	=	(char)1361326804;
 	unsigned long	DhXygDQ0	=	2008883474;
     unsigned short int    KxXRdM    =    (unsigned short)2111253869;
-	unsigned char	Rp33m9pg6	=	-1730023166;
+	unsigned char	Rp33m9pg6	=	(unsigned char)-1730023166;
     unsigned short int    ABV6e    =    -253422072;
 	short int	nlXjWFm	=	429032748;
     long    VfojN5_Cz4    =    2020130430;
@@ -76,7 +76,7 @@ int main()
     long    T56sN0QCh    =    -667390644;
 	long double	V3yH5dox	=	1989394508;
  int r1s5Sa6y_ = -420877883;
- unsigned short int eWIH3 = -1440062817;
+ unsigned short int eWIH3 = (unsigned short)-1440062817;
  long long ThjM = 1718562839;
  unsigned long E0cs = -1965513718;
   short int  cUraO1N2  =  (short)1682197617;
@@ -86,7 +86,7 @@ int main()
     double    PFD3bmXF    =    2109062931;
     char    m67Q43BN    =    -164265663;
   int  V0iY6o  =  1176377707;
- char he4awPQs = 879231868;
+ char he4awPQs = (char)879231868;
     unsigned char    Ow3wiDMs    =    -1463890354;
     unsigned short int    mKjuu_c    =    -1752160251;
     short    po2gKT    =    (short)-1699212572;
@@ -125,7 +125,7 @@ int i = 1;
 do
 {
 --i;
-cout << CMShMC8((unsigned short)1940815770, po2gKT) << PsL0pASE((char)1219680805) << "T5pa2MfA_f" << R9gr36v((short)-1011961316, -1678655868, -578815611, Il2s7e3) << Ow3wiDMs << endl;
+cout << CMShMC8((unsigned short)1940815770, po2gKT) << PsL0pASE((char)1219680805) << "T5pa2MfA_f" << R9gr36v((short)-1011961316, (char)-1678655868, -578815611, Il2s7e3) << Ow3wiDMs << endl;
 }
 while (i >= 0);
 }

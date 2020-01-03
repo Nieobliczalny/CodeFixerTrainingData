@@ -128,7 +128,7 @@ int main(void) {
   unsigned short  W32nug;
   W32nug  =  (unsigned short)1712461096;
   short int  A7EJJ;
-  A7EJJ  =  -1637550688;
+  A7EJJ  =  (short)-1637550688;
  unsigned int BP8U5IPTd8;
  BP8U5IPTd8 = 1054448833;
   unsigned long  j0Fo_8E_4;
@@ -156,7 +156,7 @@ int main(void) {
 	short	t4t6oaVxJ_;
 	t4t6oaVxJ_	=	(short)1927462934;
 	short int	dZab_1;
-	dZab_1	=	-810274065;
+	dZab_1	=	(short)-810274065;
     short int    H6W3X1b;
     H6W3X1b    =    -1832036307;
     unsigned char    Cq7X_k9x;

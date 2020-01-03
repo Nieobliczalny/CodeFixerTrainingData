@@ -39,7 +39,7 @@ int main(void) {
 	unsigned int	Ot71m5fS9	=	1427392240;
   short int  EZ6C2eF  =  (short)2094913839;
  long long mDlI7R85 = 894747443;
-    short    l9aa    =    1219023010;
+    short    l9aa    =    (short)1219023010;
     unsigned long    bBW90K2    =    0;
  unsigned long long g7m5nCZo = -1957223533;
   long double  Yr5o4k  =  -364781211;

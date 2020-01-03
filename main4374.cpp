@@ -200,7 +200,7 @@ case 'h':
 A70Iz62 |= 846167349;
 break;
 case 'i':
-cl3W8k0 = Ow_DL80jv((unsigned char)-940822698, (unsigned short)1908362771, HVWUA1, -1933395163);
+cl3W8k0 = Ow_DL80jv((unsigned char)-940822698, (unsigned short)1908362771, HVWUA1, (char)-1933395163);
 break;
 case 'j':
 Rp5rHV /= qmDXZH;

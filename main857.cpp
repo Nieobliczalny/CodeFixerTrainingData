@@ -71,7 +71,7 @@ mpmk_ = Uz0XFuyPo((unsigned short)-1253611161, c9wO68Ss, (char)81141561, 7229254
 }
 else if (hV5DjCb < 241894263)
 {
-mpmk_ = Uz0XFuyPo(1274138209, YaVUy, mpmk_, 1199453835);
+mpmk_ = Uz0XFuyPo((unsigned short)1274138209, YaVUy, mpmk_, 1199453835);
 }
 else
 {
@@ -158,7 +158,7 @@ case 2:
 W2_D_ = Uz0XFuyPo((unsigned short)1220412026, (unsigned char)-757423631, (char)-908908197, Lyo90rgw);
 break;
 case 3:
-R2fB = Uz0XFuyPo(TTW14UW, -1096360364, -559775067, GwAvp);
+R2fB = Uz0XFuyPo(TTW14UW, (unsigned char)-1096360364, -559775067, GwAvp);
 break;
 }
 {
@@ -179,7 +179,7 @@ while (i >= 0);
 }
 pdzAd0ZZX = 1238221663 / Uz0XFuyPo((unsigned short)1498588209, igL2w1q, a0__X, 1762198629);
 xD3I = G8B1o | 1281575766;
-std::cout << Uz0XFuyPo((unsigned short)41284032, (unsigned char)-949626915, a0__X, dnG7v65) << Uz0XFuyPo(-174713107, igL2w1q, a0__X, dnG7v65) << Uz0XFuyPo(o0u3W, igL2w1q, a0__X, dnG7v65) << "jTHlj_5" << jK_B0K << std::endl;
+std::cout << Uz0XFuyPo((unsigned short)41284032, (unsigned char)-949626915, a0__X, dnG7v65) << Uz0XFuyPo((unsigned short)-174713107, igL2w1q, a0__X, dnG7v65) << Uz0XFuyPo(o0u3W, igL2w1q, a0__X, dnG7v65) << "jTHlj_5" << jK_B0K << std::endl;
 
 {
 int i = 0;
@@ -199,7 +199,7 @@ if (((v7dWe4U_ & -2144303520) && (ZaTs & tX7A1I)) && (P94hW599gF > tX7A1I))
 {
 if ((j2yV != tX7A1I) || (Lyo90rgw != -1822360005))
 {
-R2fB = Uz0XFuyPo(w1MV, cIv7D, -1616417708, DlQ__K);
+R2fB = Uz0XFuyPo(w1MV, cIv7D, (char)-1616417708, DlQ__K);
 }
 else if (w1MV >= 1011335900)
 {

@@ -40,7 +40,7 @@ int main(void)
 	int	i_Bxe	=	733988119;
  short sJIQ9 = (short)-2049018672;
  long iRl9ZR6SL7 = -42862957;
- unsigned char jK9Q = -439926556;
+ unsigned char jK9Q = (unsigned char)-439926556;
   short  cit0H  =  1588134555;
  double K8v_Bwu7 = 579899272;
     unsigned short int    OBV6NYfH83    =    (unsigned short)-147230367;
@@ -58,7 +58,7 @@ int main(void)
  char pEP4 = (char)-980133448;
 	unsigned long	rn0W0G7sf	=	1826435871;
   unsigned long long  xg_3F  =  -604823081;
-    unsigned short int    L689gs    =    1563290811;
+    unsigned short int    L689gs    =    (unsigned short)1563290811;
 	unsigned char	er2Cbi_	=	-1769080760;
  unsigned short Z654_Sm = -443610962;
  short OD5Ui9gw = 719022340;
@@ -70,7 +70,7 @@ int main(void)
     short int    i_eAtklH    =    (short)-950206432;
 	unsigned long long	Q0u80egN	=	926135994;
  float InS5k2g7 = -506747970;
-	unsigned char	tC6e_263	=	-1144047126;
+	unsigned char	tC6e_263	=	(unsigned char)-1144047126;
 	int	v4F4q1e	=	775961069;
  long double D89L = 1053676565;
     unsigned long    sLC4vc    =    1246059049;
@@ -83,7 +83,7 @@ int main(void)
   unsigned long  Wyf0  =  1610786384;
  unsigned long long M156Sr3Xpp = 2093604551;
  long long kT7xx = -1367752468;
- unsigned short int v2UWd5elS = -252752089;
+ unsigned short int v2UWd5elS = (unsigned short)-252752089;
   unsigned int  A_o0R  =  -1316781056;
   unsigned long long  g_71  =  1564216902;
 	short	B3j2M1cU	=	(short)324486198;
@@ -95,7 +95,7 @@ int main(void)
     unsigned short    Z0Jf    =    2109761929;
   long double  yWDw2b  =  1024016078;
 	long double	gPq0W3r1	=	894685301;
-  short int  oQ6rF11MK  =  -239453972;
+  short int  oQ6rF11MK  =  (short)-239453972;
  unsigned short Lw_Og1j_0Z = (unsigned short)-2069778649;
  long double nnK0S3oP1D = 932150789;
  unsigned long long QDuN7x = -327036638;
@@ -120,7 +120,7 @@ int main(void)
 	float	B0HU2tW	=	1621442814;
     unsigned long    wTLITQdf93    =    1642093274;
 	unsigned int	n4B6y9_nd	=	1855028063;
- char i0B42T621 = -1825123563;
+ char i0B42T621 = (char)-1825123563;
   char  GOjGB5DFy  =  (char)1004372093;
     int    aMm2Mc    =    540296058;
     long double    GIn4C    =    1178759401;

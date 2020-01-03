@@ -294,7 +294,7 @@ case 2:
 F762M = fF1Od2((short)-1635867987);
 break;
 case 3:
-ZiPeKn5ql = rd_1EkmV(1989759250, cRb_iuQ8c, 484292599, P5V6BA72_1);
+ZiPeKn5ql = rd_1EkmV((unsigned short)1989759250, cRb_iuQ8c, 484292599, P5V6BA72_1);
 break;
 case 4:
 L6ZH5t8 &= 1157287563;

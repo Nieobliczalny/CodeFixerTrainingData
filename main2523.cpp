@@ -24,7 +24,7 @@ int main(int argc, char** argv)
  float Iu1_N7;
  Iu1_N7 = 1538065315;
  short nff9tewe2l;
- nff9tewe2l = -299047743;
+ nff9tewe2l = (short)-299047743;
 	short	B11P9E5;
 	B11P9E5	=	0;
     float    C48ng;
@@ -72,7 +72,7 @@ int main(int argc, char** argv)
 	short int	SHDaNN4_xi;
 	SHDaNN4_xi	=	(short)63379548;
     unsigned short int    ccnHq;
-    ccnHq    =    -1005197792;
+    ccnHq    =    (unsigned short)-1005197792;
   double  Wk3u_j9Wka;
   Wk3u_j9Wka  =  -972152911;
 	double	wZZpve;

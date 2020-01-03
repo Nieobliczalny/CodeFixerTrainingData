@@ -37,7 +37,7 @@ int main() {
 	short int	j495DPx	=	(short)1170179742;
  long long e3sQp = -1886830363;
     short int    x0_mPcep    =    (short)-1022099715;
-  short int  KUl8m6D75D  =  -428502813;
+  short int  KUl8m6D75D  =  (short)-428502813;
  unsigned char A_vl6ale7r = (unsigned char)-1391243420;
     float    Fk3XW    =    -1230632770;
 	unsigned int	lanyMye	=	0;
@@ -49,7 +49,7 @@ int main() {
     short    wKWqN_zNgG    =    (short)-963507700;
   long double  bQ0T_qL  =  -1295665477;
     unsigned char    PaEYTMBd    =    (unsigned char)-337250933;
- char iPxg2m = 1416364471;
+ char iPxg2m = (char)1416364471;
  unsigned long long g0ZZ = -1409809828;
   long long  BaB01pU  =  -1157600162;
   unsigned short int  R5wC9wA_6B  =  -1512107580;
@@ -74,7 +74,7 @@ int main() {
 	short	GZ4shLet	=	(short)-1708977035;
     unsigned int    o_3791    =    1897224132;
   unsigned long  Yfqs0PgFoo  =  -480989252;
- unsigned short Q6Pw9 = -1006513708;
+ unsigned short Q6Pw9 = (unsigned short)-1006513708;
  double uKC81PHr = 2086653625;
     unsigned short int    M_2l6    =    (unsigned short)-313672599;
 	char	FvfI	=	-876455017;
@@ -170,7 +170,7 @@ FsaD = (int)abs(bS5h4);
 }
 
 A3JG = kK26j(A3JG, (short)491451604, (unsigned char)1825358023, -212506607, -1478209798);
-WLtUt9BK = kK26j((char)-406022861, 1464561503, -53739120, t85rKr1I0V, c_Dm);
+WLtUt9BK = kK26j((char)-406022861, (short)1464561503, -53739120, t85rKr1I0V, c_Dm);
 
 for (int i = 7; i >= 0; i--)
 {
@@ -436,7 +436,7 @@ case 'e':
 FvfI = (int)abs(X7uD4);
 break;
 case 'f':
-JvRXM6O = kK26j((char)196036613, 157293984, 1867518424, 1799771477, 932935090);
+JvRXM6O = kK26j((char)196036613, (short)157293984, 1867518424, 1799771477, 932935090);
 break;
 case 'g':
 pwUl_Sna -= 609168609;
@@ -515,7 +515,7 @@ case 'a':
 Q6Pw9 = kK26j((char)728680187, G6GlOxK, (unsigned char)-536091852, KUl8m6D75D, A3JG);
 break;
 case 'b':
-R5wC9wA_6B = kK26j(R5wC9wA_6B, 293863789, 831902947, -1981903232, iPxg2m);
+R5wC9wA_6B = kK26j(R5wC9wA_6B, (short)293863789, 831902947, -1981903232, iPxg2m);
 break;
 case 'c':
 M_2l6 -= 893354742;
@@ -530,7 +530,7 @@ case 'f':
 EZ8Xoi = XUq4ZjI0_y & 66301334;
 break;
 case 'g':
-Va8Y9X8 = FE2joHQF(-2027534640, BaB01pU, -262646897, c_Dm, Yp9WJyTHIT) >> 1433512583;
+Va8Y9X8 = FE2joHQF(-2027534640, BaB01pU, (short)-262646897, c_Dm, Yp9WJyTHIT) >> 1433512583;
 break;
 case 'h':
 pwUl_Sna = Yfqs0PgFoo << wKWqN_zNgG;

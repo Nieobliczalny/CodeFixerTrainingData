@@ -88,7 +88,7 @@ int main(void)
   unsigned short int  uMkteX;
   uMkteX  =  (unsigned short)-1486874806;
     unsigned short    g70qRG;
-    g70qRG    =    884791662;
+    g70qRG    =    (unsigned short)884791662;
     short    DHUBC2l;
     DHUBC2l    =    (short)1858170178;
 	unsigned int	bi2uu1;
@@ -124,7 +124,7 @@ int main(void)
  long ZuM80zj3VA;
  ZuM80zj3VA = -672413440;
     unsigned short    H6t9AIJAdX;
-    H6t9AIJAdX    =    -1298892865;
+    H6t9AIJAdX    =    (unsigned short)-1298892865;
   unsigned short int  uShzd3Z_t;
   uShzd3Z_t  =  (unsigned short)-77606203;
 	long double	E6qqLL34nD;

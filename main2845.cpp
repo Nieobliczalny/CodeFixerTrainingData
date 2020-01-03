@@ -21,7 +21,7 @@ int main(int argc, char** argv)
     short    livs    =    (short)-1903380440;
 	unsigned char	q4USx	=	0;
   unsigned long long  x302a  =  2050603506;
-    short int    Ynt_    =    1612572154;
+    short int    Ynt_    =    (short)1612572154;
   long double  OQ486v  =  1995505159;
 	unsigned char	SYFRZD	=	-1250370634;
 	long	pCG6aFtx8S	=	-840967175;
@@ -31,7 +31,7 @@ int main(int argc, char** argv)
     short    N3PDG18    =    (short)1900826696;
   short int  u9F9TXcv  =  0;
   short  gmJ_NG77C3  =  (short)807118572;
- short int rcFNR452c = 1367827792;
+ short int rcFNR452c = (short)1367827792;
  double ur1j7x = 614594386;
   float  TDgna_G  =  -871700040;
     unsigned long    luOD    =    1380153274;
@@ -52,7 +52,7 @@ int main(int argc, char** argv)
     char    Jwabah3_Bi    =    (char)1928418186;
     char    j1fks    =    (char)655602307;
  unsigned short QBYQrTk = 0;
- unsigned short int ql27N7u2 = -311196438;
+ unsigned short int ql27N7u2 = (unsigned short)-311196438;
 	long	xhs69cErO	=	-2065274819;
  char hTGR3Fc49 = 189634561;
  int X5Janox = 2023650269;
@@ -62,7 +62,7 @@ int main(int argc, char** argv)
   char  cv7ioatHv  =  (char)-436658614;
     unsigned char    mkB8L    =    (unsigned char)163506958;
 	char	a2CWI7Dgdm	=	-65658278;
- unsigned short E1jaZ6D5Js = -453120794;
+ unsigned short E1jaZ6D5Js = (unsigned short)-453120794;
 	long long	OLgr794	=	-597830322;
   unsigned char  h3gOAKmfv  =  1064933335;
 	short int	olwYr04E1	=	420568732;
@@ -75,7 +75,7 @@ int main(int argc, char** argv)
   int  gO1Usq3  =  1366729421;
   unsigned char  HmVj_  =  (unsigned char)1147238055;
     double    x1nI3    =    95115782;
-	short	sAGPN	=	-719496762;
+	short	sAGPN	=	(short)-719496762;
  unsigned int XkKTpvX0 = -297874952;
   long long  OWf3  =  -965565088;
 	unsigned long	U1oFb6Bm2	=	-1856745722;
@@ -86,7 +86,7 @@ int main(int argc, char** argv)
 	unsigned char	I8FE2	=	(unsigned char)-547699004;
  unsigned char bsEJ8O1F2u = -154941036;
 	long long	F3QekVH	=	-1145839194;
-  unsigned short int  Gy___41q  =  -1447872141;
+  unsigned short int  Gy___41q  =  (unsigned short)-1447872141;
  short int h3J8 = 639701923;
     unsigned int    jm7Pk8    =    1958340920;
 	unsigned int	D79tTXm8t	=	-342346401;

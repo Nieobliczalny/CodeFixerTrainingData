@@ -58,7 +58,7 @@ int main() {
     short    TUM3;
     TUM3    =    (short)614662202;
     unsigned char    soN8dLS_k6;
-    soN8dLS_k6    =    -572863296;
+    soN8dLS_k6    =    (unsigned char)-572863296;
 	unsigned int	Iuse;
 	Iuse	=	1009407964;
   short int  Tl93gy0S;
@@ -82,7 +82,7 @@ int main() {
  unsigned long qwWHZKm;
  qwWHZKm = 1177075654;
  short int EtPMwpv;
- EtPMwpv = 410731533;
+ EtPMwpv = (short)410731533;
   short  u4Jkr6;
   u4Jkr6  =  (short)1143347215;
  unsigned long bv3_1k_;

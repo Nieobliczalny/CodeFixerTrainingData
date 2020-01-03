@@ -51,7 +51,7 @@ int main(void) {
   unsigned short  R3OQp;
   R3OQp  =  (unsigned short)1432880174;
   char  A7TDk5Tu;
-  A7TDk5Tu  =  747317773;
+  A7TDk5Tu  =  (char)747317773;
     int    B2o_n3t8;
     B2o_n3t8    =    0;
  unsigned short int ihO_nuMU;
@@ -111,7 +111,7 @@ int main(void) {
 	unsigned long long	T9l18;
 	T9l18	=	-2129136612;
  char kff8RGyDh;
- kff8RGyDh = -322077626;
+ kff8RGyDh = (char)-322077626;
     unsigned short    HA00Da;
     HA00Da    =    (unsigned short)-494441060;
 	unsigned short int	xKGG7;
@@ -121,7 +121,7 @@ int main(void) {
 	unsigned short	tg4eb;
 	tg4eb	=	-8507498;
     char    z5836UW;
-    z5836UW    =    203702889;
+    z5836UW    =    (char)203702889;
  unsigned char ni9m;
  ni9m = (unsigned char)-684356736;
   short  JQ98;

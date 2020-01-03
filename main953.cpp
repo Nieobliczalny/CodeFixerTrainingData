@@ -64,7 +64,7 @@ int main(int argc, char** argv) {
   long double  V3sh6YMvD;
   V3sh6YMvD  =  -808238265;
     unsigned short    veP1oRBn;
-    veP1oRBn    =    -1940481858;
+    veP1oRBn    =    (unsigned short)-1940481858;
     short int    L0EGe;
     L0EGe    =    (short)-2058249927;
 	unsigned char	HOutJ3o4p;

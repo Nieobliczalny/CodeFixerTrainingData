@@ -34,7 +34,7 @@ int main(int argc, char** argv) {
 	short int	TrZlM2	=	(short)453515818;
  float KcYSD = -1360703026;
 	short	S60T207	=	(short)-492969138;
-	char	vQyzxdo	=	582239356;
+	char	vQyzxdo	=	(char)582239356;
     short    Bj_R    =    -649334162;
   unsigned short int  CK1e  =  (unsigned short)1019441205;
 	long long	G9Cy7iAJ	=	1767785991;
@@ -45,7 +45,7 @@ int main(int argc, char** argv) {
  double G0k_ = -581459878;
     short    uk33Q_    =    (short)-510278044;
  short NrXz5q1 = (short)-1588536735;
-  char  Fcj_fW3g  =  -1663686259;
+  char  Fcj_fW3g  =  (char)-1663686259;
   char  jxfw9CdE  =  (char)-1872977219;
 	unsigned short	Uk2gBm_S_	=	654560612;
 	unsigned short	C961	=	-1982947190;
@@ -55,7 +55,7 @@ int main(int argc, char** argv) {
  unsigned long long r8P89 = -1819894145;
     short    x7Ty3SEw    =    (short)91646242;
     unsigned short int    AX49dZg30D    =    (unsigned short)875913985;
-    short int    IMFNl    =    -1468728028;
+    short int    IMFNl    =    (short)-1468728028;
   unsigned short  N6d4AIbd  =  (unsigned short)-1678391012;
     unsigned char    COZxRS    =    809603033;
 	unsigned short int	TY2X	=	-834386035;
@@ -76,7 +76,7 @@ int main(int argc, char** argv) {
   double  toSasr  =  419515196;
  char wrwJPKd = (char)-1383036081;
     unsigned long    X8W67v6Nqk    =    -1243500474;
-  short  hRZ6zupv66  =  -281998881;
+  short  hRZ6zupv66  =  (short)-281998881;
  long zVtG2ldoG = -1079256477;
 	unsigned long long	P9y2hVWV6	=	-57641479;
   unsigned short  apyqlx8  =  (unsigned short)109550838;
@@ -86,7 +86,7 @@ int main(int argc, char** argv) {
 	long double	dolM48	=	468417109;
   short int  l44Pc  =  (short)1308317598;
  short int jTr1g0H = (short)-790479261;
- short int hs8z1lsn6 = 1702659117;
+ short int hs8z1lsn6 = (short)1702659117;
 
 switch (c__0528)
 {
@@ -100,7 +100,7 @@ w49YE = XP_4Q(zVtG2ldoG, (short)-1478802367, sAC74S30U, (char)19231050);
 break;
 case 'c':
 case 'C':
-AX49dZg30D = DWSzVfsW(AX49dZg30D, S60T207, w49YE, -1966441782, 803729057);
+AX49dZg30D = DWSzVfsW(AX49dZg30D, S60T207, w49YE, (short)-1966441782, 803729057);
 break;
 case 'd':
 case 'D':
@@ -685,7 +685,7 @@ case 'E':
 CqCSn75_S = (int)ceil(Vlg2_);
 break;
 default:
-F513dc_ = (J518i39aC) ? XP_4Q(ppa_, (short)1540068081, (unsigned char)2016506640, (char)1799234592) : XP_4Q(-211594923, opTnf96SQO, r8P89, 1200554333);
+F513dc_ = (J518i39aC) ? XP_4Q(ppa_, (short)1540068081, (unsigned char)2016506640, (char)1799234592) : XP_4Q(-211594923, opTnf96SQO, r8P89, (char)1200554333);
 break;
 }
 }

@@ -41,7 +41,7 @@ int main(void)
     IEl3_hKO    =    (short)-792012846;
     Ze_P027lk0    =    (short)-1980255600;
     I_V3F27Y51    =    (short)-96265102;
-    VoHn4    =    -2085869968;
+    VoHn4    =    (short)-2085869968;
     s_FK    =    342851396;
     VA6_H    =    1081234428;
     YGiz0    =    -1443476152;
@@ -51,7 +51,7 @@ int main(void)
     i3uQL6q    =    (short)-1070230245;
     VCSuxqs8    =    (short)-1365268326;
     VbOzy_Me    =    (short)1118976620;
-    xoBb1K88    =    1166620390;
+    xoBb1K88    =    (short)1166620390;
     B6Vo460    =    -960363172;
     w7Y8    =    1041176948;
     bkTi    =    -161931490;
@@ -61,7 +61,7 @@ int main(void)
     SAIzK    =    (short)-2128177514;
     g0DbWs    =    (short)1061419363;
     B4yB0afEYp    =    (short)-451814291;
-    b8SkoXUiX    =    -571167338;
+    b8SkoXUiX    =    (short)-571167338;
     zZ5w    =    -490760866;
     moc84z    =    303902030;
     kE7L    =    1911080182;
@@ -71,7 +71,7 @@ int main(void)
     WPZd    =    (short)-183593028;
     q9mbeXn0    =    (short)-832253054;
     oJR5ip645    =    (short)-1262520943;
-    YTHfl    =    450165071;
+    YTHfl    =    (short)450165071;
     H_iMh_Wua    =    439658823;
     BHAg6L    =    -1596419296;
     JBxDC    =    1136309032;
@@ -81,7 +81,7 @@ int main(void)
     fwX372_    =    (short)412370798;
     ie6iM5Xd5e    =    (short)-1237313634;
     UKBF1    =    (short)-970162509;
-    FADaMa8XN    =    -535813528;
+    FADaMa8XN    =    (short)-535813528;
     xIwa3Cuqw    =    -1166569887;
     CmC0q6EJX    =    1925587461;
     XYT38A    =    995990940;
@@ -91,7 +91,7 @@ int main(void)
     bfEVrE4L    =    (short)-178446821;
     mGa7g17    =    (short)848999327;
     vtle0A67    =    (short)1794434604;
-    Yp_46BS8i    =    -49851812;
+    Yp_46BS8i    =    (short)-49851812;
     qGx5sh2F    =    -1803761954;
     KIw2K_    =    936768150;
     kQ_DQR2j    =    -830031312;
@@ -417,7 +417,7 @@ bkTi = (int)abs(B4yB0afEYp);
 break;
 case 'g':
 case 'G':
-b8SkoXUiX = Y3WcyJlx(b8SkoXUiX, (short)-1647105585, q9mbeXn0, -2087301233, 1392306490);
+b8SkoXUiX = Y3WcyJlx(b8SkoXUiX, (short)-1647105585, q9mbeXn0, -2087301233, (short)1392306490);
 break;
 case 'h':
 case 'H':

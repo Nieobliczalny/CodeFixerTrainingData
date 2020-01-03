@@ -152,7 +152,7 @@ case 'a':
 ql19NRHRR = Vjdx((unsigned char)-556045685, (unsigned char)-1680349628, (unsigned short)-1794106819);
 break;
 case 'b':
-AjvOXCoo3 = Vjdx(1157378189, 1977242889, tC83tPVF);
+AjvOXCoo3 = Vjdx((unsigned char)1157378189, 1977242889, tC83tPVF);
 break;
 case 'c':
 I2rkNlR7 = Vjdx(I2rkNlR7, 628836272, -1352624610);
@@ -291,7 +291,7 @@ case 4:
 P6wBpZusT2 = y6a7xa19g4(P6wBpZusT2, (short)-875485864, SLqkT4y, (char)913048846);
 break;
 case 5:
-pyG1 = y6a7xa19g4(pyG1, -241793698, -1859768173, 557970398);
+pyG1 = y6a7xa19g4(pyG1, (short)-241793698, -1859768173, 557970398);
 break;
 default:
 PK3t = y6a7xa19g4(PK3t, (short)-557294260, If733_4f_, fEx7);

@@ -70,7 +70,7 @@ int main(void)
   char  aDOM;
   aDOM  =  (char)985150112;
     unsigned char    mmee6_dVm;
-    mmee6_dVm    =    -843858219;
+    mmee6_dVm    =    (unsigned char)-843858219;
  unsigned long kJT2WL06a;
  kJT2WL06a = 1285282461;
   int  U7wi0Z;
@@ -448,7 +448,7 @@ u1K_49IiM ^= f3dx;
 break;
 }
 u1K_49IiM = (long long)(c_3y5v_4i);
-c6K7 = npeSgvW(-1703932193, (unsigned short)548483570, (unsigned short)1492186178, (unsigned short)-542558094, -2095854782) / k7EW6BxR40(-1310177591, mg20uRH6d);
+c6K7 = npeSgvW(-1703932193, (unsigned short)548483570, (unsigned short)1492186178, (unsigned short)-542558094, -2095854782) / k7EW6BxR40((short)-1310177591, mg20uRH6d);
 
 uvU0Ox = (unsigned char)(N2NA0e5890);
 

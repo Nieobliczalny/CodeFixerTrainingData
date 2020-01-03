@@ -150,7 +150,7 @@ if (tE1jz5J <= NUYjb3)
 {
 if (Dl0d >= -738896124)
 {
-std::cout << Y20Sbp7l((short)338160681, Z1HD, Rz6U5vk, 1886159670, -131016363) << sN3_ << "GME3WY55" << std::endl;
+std::cout << Y20Sbp7l((short)338160681, Z1HD, Rz6U5vk, (unsigned short)1886159670, -131016363) << sN3_ << "GME3WY55" << std::endl;
 }
 }
 else if ((FY2EswZYa <= 667192883) || (kBln9_Iw & mEvvX62))

@@ -26,7 +26,7 @@ int main()
  short Bm7Ch_yh;
  Bm7Ch_yh = (short)-1638432954;
  unsigned char c1Wl7C;
- c1Wl7C = -981714271;
+ c1Wl7C = (unsigned char)-981714271;
  unsigned long long G6Fr7A2;
  G6Fr7A2 = 1640793088;
   short  Xw36GVNExO;
@@ -128,7 +128,7 @@ int main()
 	short	V0L95O36;
 	V0L95O36	=	(short)-1130596582;
     unsigned short    zso_8uR6;
-    zso_8uR6    =    721724496;
+    zso_8uR6    =    (unsigned short)721724496;
     short    rZh7;
     rZh7    =    (short)656408988;
 	char	ilW5wC;
@@ -318,7 +318,7 @@ rZh7 = (short)(K0__X2);
 }
 while (i >= 0);
 }
-std::cout << "hW_J3qjc_4" << WMWvE9X4((unsigned char)1464911844, (short)106267062, y7beC200, x3lP_0o34, (unsigned short)2019377658) << "NdHU35S" << WMWvE9X4(T7NUdEl2_3, ly9zvO6c, y7beC200, x3lP_0o34, -1907469614) << std::endl;
+std::cout << "hW_J3qjc_4" << WMWvE9X4((unsigned char)1464911844, (short)106267062, y7beC200, x3lP_0o34, (unsigned short)2019377658) << "NdHU35S" << WMWvE9X4(T7NUdEl2_3, ly9zvO6c, y7beC200, x3lP_0o34, (unsigned short)-1907469614) << std::endl;
 
 std::cout << WMWvE9X4(T7NUdEl2_3, 264275219, 1450562357, x3lP_0o34, KJDPjcQcsu) << std::endl;
 

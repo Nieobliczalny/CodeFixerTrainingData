@@ -35,7 +35,7 @@ int main() {
   unsigned short  y9_I;
   y9_I  =  (unsigned short)1862959574;
  short int NNn1fR2196;
- NNn1fR2196 = 1573289387;
+ NNn1fR2196 = (short)1573289387;
 	char	mjoh29Y_;
 	mjoh29Y_	=	(char)-1285528707;
  unsigned int BBvkrzO_J;

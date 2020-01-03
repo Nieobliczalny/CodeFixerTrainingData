@@ -42,7 +42,7 @@ int main() {
 	unsigned int	bs3b56O74	=	1683465490;
  long rL8_IwP = -878356079;
 	unsigned short	rGtutY7J6E	=	(unsigned short)-1264223228;
-  unsigned short  JA87Dz6uQ8  =  -1081002542;
+  unsigned short  JA87Dz6uQ8  =  (unsigned short)-1081002542;
   char  I87Wqz  =  -1306978462;
  unsigned short Te1o41v__5 = -1696424731;
   long double  B88gc  =  -675915243;
@@ -70,7 +70,7 @@ int main() {
 std::cout << Cs64Py << aHwYdU1 << std::endl;
 bs3b56O74 &= 1649833687;
 
-std::cout << O6gdK5OXR((unsigned char)-780700840, sWXuu6, u15rKK, (char)975377629) << o1398 << O6gdK5OXR(m459Bh2RUq, 731632580, 1800279936, 622540149) << "EMGAd7" << std::endl;
+std::cout << O6gdK5OXR((unsigned char)-780700840, sWXuu6, u15rKK, (char)975377629) << o1398 << O6gdK5OXR(m459Bh2RUq, (unsigned char)731632580, 1800279936, 622540149) << "EMGAd7" << std::endl;
 
 GY7sK_ = X6u77RQR(562215546, 1660622788, zakJm3q, 928570470);
 

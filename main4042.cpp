@@ -88,7 +88,7 @@ case 5:
 n0jAD = ue63((char)1787233915, mXt6_2fbB, U_EdY);
 break;
 case 6:
-t7DX = ue63(t7DX, -35360688, -425455127);
+t7DX = ue63(t7DX, (short)-35360688, -425455127);
 break;
 case 7:
 SrPWfb = Zeda2VAa(1497456575, o9ifaB3J, 1040417885, (unsigned short)1075815673);

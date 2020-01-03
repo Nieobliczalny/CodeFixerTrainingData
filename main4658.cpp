@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
 	Y94x	=	(short)1116080942;
 	eO2sTxnF1Z	=	(short)-600958635;
 	M9NJ9bcuU	=	(short)-741138301;
-	NfpANdJsMP	=	1277052517;
+	NfpANdJsMP	=	(short)1277052517;
 	n53sgoB1ba	=	1319157448;
 	Wh31EA7K_4	=	-1323005488;
 	kB_t_	=	1963310901;
@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
 	qjC40CuV7P	=	(short)-2077824410;
 	dD7Y_4S3	=	(short)128483975;
 	d5aP	=	(short)-1711347843;
-	Y3AmX	=	1296636076;
+	Y3AmX	=	(short)1296636076;
 	Vp1XX2170g	=	-1601142598;
 	unsigned long long	sYu4U6_,	N6Z1;
 	sYu4U6_	=	0;

@@ -190,7 +190,7 @@ E6Z3iTEh = bdD0NQQ67(274092968, (unsigned char)2118334516, (short)-22008212, qNx
 break;
 }
 
-H1ia = bdD0NQQ67(1520606027, (unsigned char)-1918258255, qNx716, 646504919, D9CdbfYW);
+H1ia = bdD0NQQ67(1520606027, (unsigned char)-1918258255, qNx716, (unsigned short)646504919, D9CdbfYW);
 
 P85KW00C79 = (long)(E6Z3iTEh);
 cout << "BpOxDI" << MdUpBJ << K9Jy() << "aG_E3" << endl;

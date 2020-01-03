@@ -212,7 +212,7 @@ cout << bIyI5 << "DtjIsdCY9o" << e1t2(I4X6Q1V, (short)-69096883, (short)10490572
 
 for (int i = 0; i < 5; ++i)
 {
-cout << e1t2(358033175, 1209951469, -727424587, 742938299) << "Hkf_B92kwR" << endl;
+cout << e1t2(358033175, (short)1209951469, -727424587, 742938299) << "Hkf_B92kwR" << endl;
 }
 
 switch (l0C_KNE)
@@ -399,7 +399,7 @@ case 2:
 VNkha1z = Ge6FJ9_MBc(-1940303229, (short)-1627178792, 252957625, mZZ5NsP, 114175865);
 break;
 case 3:
-Bp234 = YQxFf_7X((char)-1781424319, (unsigned char)1397849306, -1481921302);
+Bp234 = YQxFf_7X((char)-1781424319, (unsigned char)1397849306, (char)-1481921302);
 break;
 case 4:
 iB_9 = Ge6FJ9_MBc(FcF541uzBv, p16HL, y10W1c52, mZZ5NsP, HNDI) - g5BI51zcD;

@@ -162,7 +162,7 @@ int main(int argc, char** argv) {
     char    yUq7c;
     yUq7c    =    (char)-1075209833;
   unsigned short  MfB5eJR;
-  MfB5eJR  =  813132619;
+  MfB5eJR  =  (unsigned short)813132619;
     unsigned short    oKxoCB_j9Y;
     oKxoCB_j9Y    =    (unsigned short)-845049166;
 	unsigned long long	xxbsI;
@@ -389,7 +389,7 @@ GlSq_ -= RmxvFk;
 }
 else
 {
-XQXzWAaTi = LqAft(XQXzWAaTi, LHx266nI, (unsigned char)402957390, -1125758549);
+XQXzWAaTi = LqAft(XQXzWAaTi, LHx266nI, (unsigned char)402957390, (unsigned char)-1125758549);
 }
 }
 else if ((r1Dw0ud_ < Cak74upuVL) || ((nb940lCY < 1451058755) && (wDv1t == 173171284)))
@@ -881,7 +881,7 @@ cout << sdBG << PD61 << LqAft(-1611980194, oRY6N_2Dm_, RmxvFk, m2yQx) << Wzz8(Us
 H_gmd = BVqqEzu2oh((short)-2106962884, (short)1150080727, 1932240156);
 wB4i = (unsigned long)(W64yMDi);
 
-f_pP4 = LqAft(-789087682, (short)1522339246, -1082491279, NH3wx3Zz);
+f_pP4 = LqAft(-789087682, (short)1522339246, (unsigned char)-1082491279, NH3wx3Zz);
 
 return 0;
 }

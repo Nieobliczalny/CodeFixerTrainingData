@@ -35,7 +35,7 @@ int main(void) {
  unsigned int m8U6cBKwv = -1763651515;
 	unsigned short int	a3Sm8P	=	(unsigned short)-427002976;
 	unsigned short	X53X_	=	(unsigned short)466879273;
-  char  SU_tBowr0  =  -1918116831;
+  char  SU_tBowr0  =  (char)-1918116831;
   long  jkSXVcz  =  0;
  short V0S9h03J = -792329530;
   unsigned char  Js_57oOF  =  -770215743;

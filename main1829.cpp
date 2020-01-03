@@ -95,7 +95,7 @@ case 2:
 Z6A5 = A5gE_D3(Z6A5, (unsigned short)952428919, KTqV8ZH4R6);
 break;
 case 3:
-WqU_n57 = nQB55nV(2051539539, S76_K_1hP);
+WqU_n57 = nQB55nV((unsigned short)2051539539, S76_K_1hP);
 break;
 default:
 fHTxs = e5W16Y(880450102, (unsigned char)1299939530);
@@ -318,7 +318,7 @@ case 'g':
 Rt1T = A5gE_D3(Rt1T, (unsigned short)-818400672, TmYEH1oTT);
 break;
 default:
-A0_rRHyV5 = A5gE_D3(-1946917279, 1033939115, -1912379604);
+A0_rRHyV5 = A5gE_D3((short)-1946917279, 1033939115, -1912379604);
 break;
 }
 }

@@ -114,7 +114,7 @@ int main(void)
   long  HQ8u4;
   HQ8u4  =  -2002376559;
     unsigned char    nv2_;
-    nv2_    =    1453405881;
+    nv2_    =    (unsigned char)1453405881;
  long double lVq5;
  lVq5 = 1410222616;
 	int	GO2JN;

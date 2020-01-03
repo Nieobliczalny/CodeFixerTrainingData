@@ -20,7 +20,7 @@ int main(int argc, char** argv)
  unsigned long long bAt9c4d = -1348079087;
 	float	OZM1tR_9	=	1579244820;
   long double  BeOg5i2O  =  694138964;
- short GBIG = 1715252331;
+ short GBIG = (short)1715252331;
 	unsigned long long	Ux2E4_b16	=	-2117118373;
 	unsigned int	S_zx95_hWX	=	2113343478;
 	unsigned long	BK1z5b39	=	53161387;

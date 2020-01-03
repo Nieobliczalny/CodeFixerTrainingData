@@ -112,7 +112,7 @@ case 5:
 FJ9_kl /= y6RXA1_Y;
 break;
 case 6:
-M119 = B02i7w_my(M119, 1488078808, W7293_v_9, pqwfXPI7u, -302171120);
+M119 = B02i7w_my(M119, (short)1488078808, W7293_v_9, pqwfXPI7u, -302171120);
 break;
 case 7:
 Rby8c %= KD47BS8h;

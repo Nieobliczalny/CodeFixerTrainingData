@@ -27,7 +27,7 @@ int main(int argc, char** argv)
     double    eiU9Z7E12    =    -1786581428;
  char ZR_b = (char)-689115992;
   unsigned long  ApDG6  =  0;
- char OY2vrrzcKY = 1464818446;
+ char OY2vrrzcKY = (char)1464818446;
 	char	J21Ui	=	1927121100;
     float    A02_pXN7N    =    -942414612;
 	unsigned char	Io_5PM7	=	-1897282444;
@@ -179,7 +179,7 @@ case 3:
 y1AnU7a = (int)abs(xy1SSn71);
 break;
 default:
-aWg3ON = B_Th7_6((short)-1917516009, MkB65s_I, rY_vmr8, 170344164);
+aWg3ON = B_Th7_6((short)-1917516009, MkB65s_I, rY_vmr8, (short)170344164);
 break;
 }
 }

@@ -134,7 +134,7 @@ int main(int argc, char** argv)
   short  w22L7UlWW5;
   w22L7UlWW5  =  (short)1740244050;
  short uEboVzy6;
- uEboVzy6 = 1271878601;
+ uEboVzy6 = (short)1271878601;
 	unsigned long	cmRvf;
 	cmRvf	=	-337338817;
  unsigned short I032QSLV_;

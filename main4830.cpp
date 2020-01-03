@@ -45,7 +45,7 @@ int main(void)
  int bZd6mf;
  bZd6mf = -1377525357;
  unsigned char X4Co0I8N;
- X4Co0I8N = 1558496514;
+ X4Co0I8N = (unsigned char)1558496514;
   unsigned char  Lr99322;
   Lr99322  =  (unsigned char)372044818;
 	unsigned int	g33P;
@@ -95,7 +95,7 @@ int main(void)
   unsigned int  KGm8y6qUsA;
   KGm8y6qUsA  =  1291992569;
   unsigned short int  M9ge;
-  M9ge  =  1460123557;
+  M9ge  =  (unsigned short)1460123557;
     short    TuEII;
     TuEII    =    (short)-754182365;
   long  c8rFsT3;

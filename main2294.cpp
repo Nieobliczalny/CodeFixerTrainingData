@@ -51,7 +51,7 @@ case 'a':
 w5bKMIK >>= 164124463;
 break;
 case 'b':
-c_Lm2h04L5 = vzA81r15s_((char)-179800855, (char)-1482994858, nS5N9x_5, (short)-1814433217, -1906964535);
+c_Lm2h04L5 = vzA81r15s_((char)-179800855, (char)-1482994858, nS5N9x_5, (short)-1814433217, (unsigned short)-1906964535);
 break;
 case 'c':
 FGX1ktj_2 = UF3Jr_ / vr86tiC;
@@ -132,7 +132,7 @@ vr86tiC = (int)ceil(ni3KwX);
 break;
 case 'c':
 case 'C':
-w5bKMIK = vzA81r15s_(w5bKMIK, (char)342168874, 1672103927, 73195984, vr86tiC);
+w5bKMIK = vzA81r15s_(w5bKMIK, (char)342168874, (unsigned char)1672103927, 73195984, vr86tiC);
 break;
 case 'd':
 case 'D':
@@ -144,7 +144,7 @@ c_Lm2h04L5 = (int)abs(FGX1ktj_2);
 break;
 case 'f':
 case 'F':
-YHrB16n_7 = bx5b69BU(YHrB16n_7, (char)-1272449142, 1508393782, vr86tiC, FGX1ktj_2);
+YHrB16n_7 = bx5b69BU(YHrB16n_7, (char)-1272449142, (short)1508393782, vr86tiC, FGX1ktj_2);
 break;
 case 'g':
 case 'G':
@@ -155,7 +155,7 @@ case 'H':
 FGX1ktj_2 = (int)abs(fv4fz);
 break;
 default:
-UF3Jr_ = vzA81r15s_((char)-583406335, (char)-1104750736, (unsigned char)517644896, 1911045497, -521634961);
+UF3Jr_ = vzA81r15s_((char)-583406335, (char)-1104750736, (unsigned char)517644896, (short)1911045497, -521634961);
 break;
 }
 YHrB16n_7 = bx5b69BU(w5bKMIK, -1133541123, c_Lm2h04L5, ni3KwX, -1337885750);
@@ -221,7 +221,7 @@ case 2:
 UF3Jr_ = vzA81r15s_(UF3Jr_, (char)1445534344, (unsigned char)479602719, ni3KwX, (unsigned short)1234175976);
 break;
 case 3:
-w5bKMIK = vzA81r15s_(-1009867345, 747642493, FGX1ktj_2, -2035771049, -1347748485);
+w5bKMIK = vzA81r15s_((char)-1009867345, 747642493, FGX1ktj_2, -2035771049, -1347748485);
 break;
 case 4:
 fv4fz = FGX1ktj_2 / w5bKMIK;
@@ -305,7 +305,7 @@ case 3:
 vr86tiC = vzA81r15s_(vr86tiC, UF3Jr_, w5bKMIK, (short)-494017678, (unsigned short)-33920676);
 break;
 case 4:
-w5bKMIK = vzA81r15s_(vr86tiC, 780831616, 430164195, -1611262725, 547041193) + 692219086;
+w5bKMIK = vzA81r15s_(vr86tiC, (char)780831616, 430164195, -1611262725, 547041193) + 692219086;
 break;
 case 5:
 YHrB16n_7 = bx5b69BU(1242961367, vr86tiC, nS5N9x_5, (unsigned char)-1570495192, 1835222821);

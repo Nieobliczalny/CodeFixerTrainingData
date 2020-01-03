@@ -72,7 +72,7 @@ int main()
     unsigned short    j40q6K8;
     j40q6K8    =    (unsigned short)-1369319812;
  short qezPqQ24v3;
- qezPqQ24v3 = -498625535;
+ qezPqQ24v3 = (short)-498625535;
 	int	Z4xpbg9_0g;
 	Z4xpbg9_0g	=	-1825108659;
   float  wLQaAi;

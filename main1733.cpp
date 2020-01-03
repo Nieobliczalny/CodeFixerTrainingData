@@ -322,7 +322,7 @@ ec2D = uoXRQkZFn(-2008491039, (unsigned short)-892781390, wHWNi, (char)897032167
 
 VCm2 = P_Vd(i_x6);
 
-cout << P_Vd((short)-1980487239) << P_Vd(i_x6) << uoXRQkZFn(i_x6, 264429062, Pua8Qc3n, wHWNi, Kziptk) << endl;
+cout << P_Vd((short)-1980487239) << P_Vd(i_x6) << uoXRQkZFn(i_x6, (unsigned short)264429062, Pua8Qc3n, wHWNi, Kziptk) << endl;
 
 i_x6 = wHWNi - 971705375;
 
@@ -367,7 +367,7 @@ wHWNi = uoXRQkZFn(wHWNi, Pua8Qc3n, (unsigned char)546367971, (char)1003774696, (
 break;
 case 'd':
 case 'D':
-wHWNi = uoXRQkZFn(-1269413119, Pua8Qc3n, 520425709, -1143192306, ec2D) % 934602281;
+wHWNi = uoXRQkZFn(-1269413119, Pua8Qc3n, (unsigned char)520425709, -1143192306, ec2D) % 934602281;
 break;
 case 'e':
 case 'E':

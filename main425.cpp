@@ -94,7 +94,7 @@ int main() {
     unsigned short int    Y81oYHhz9;
     Y81oYHhz9    =    (unsigned short)-762400442;
   unsigned char  B7My1VT;
-  B7My1VT  =  -2083131611;
+  B7My1VT  =  (unsigned char)-2083131611;
   float  Ky7zuO;
   Ky7zuO  =  -2118205446;
     int    MMbK_db6I1;
@@ -118,7 +118,7 @@ int main() {
  unsigned short xTq06g;
  xTq06g = (unsigned short)-1088589662;
   unsigned char  sS2A;
-  sS2A  =  1722903187;
+  sS2A  =  (unsigned char)1722903187;
   unsigned long long  QD6A94;
   QD6A94  =  1988194295;
 	long double	NzeGQ2zkK_;

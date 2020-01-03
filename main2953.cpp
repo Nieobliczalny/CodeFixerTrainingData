@@ -105,7 +105,7 @@ int main(void) {
   short int  A3KS;
   A3KS  =  (short)-253580688;
   short int  h6SSy;
-  h6SSy  =  1828524710;
+  h6SSy  =  (short)1828524710;
 	long long	bh5wL;
 	bh5wL	=	618974885;
  unsigned short iLWQ1Fo;
@@ -149,7 +149,7 @@ int main(void) {
 
 try
 {
-bh5wL = wrK0Y89(tKiZ0V32T, 861512265, -928005135) * PBiN88ibw2;
+bh5wL = wrK0Y89(tKiZ0V32T, (unsigned char)861512265, -928005135) * PBiN88ibw2;
 }
 catch (int& errorCode)
 {
@@ -197,7 +197,7 @@ case 1:
 fwl4zpJ = wrK0Y89(462465254, (unsigned char)-703101511, -143409458);
 break;
 case 2:
-L8IcxY6H = N_T_(k53u94, 2097634006, (short)1532993190, (short)1658320633, 1774958504) ^ 887751044;
+L8IcxY6H = N_T_(k53u94, 2097634006, (short)1532993190, (short)1658320633, (char)1774958504) ^ 887751044;
 break;
 default:
 QKP1rI51 |= PBiN88ibw2;

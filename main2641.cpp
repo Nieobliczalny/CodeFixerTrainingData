@@ -155,7 +155,7 @@ int main()
   unsigned char  IdJ_Bq;
   IdJ_Bq  =  (unsigned char)1307370418;
     unsigned short    yF14;
-    yF14    =    1662194297;
+    yF14    =    (unsigned short)1662194297;
 	char	RbmNR56T;
 	RbmNR56T	=	(char)-1372216464;
 	unsigned char	mxdk;
@@ -273,7 +273,7 @@ riQ8W = sV9i(676769157, Sk5EYi, pn0U8ZE, (char)-1264102228, (short)-898924865);
 break;
 }
 
-IdJ_Bq = AljOX / Na1y(riQ8W, -2064193544, (unsigned short)2091118474, -76919776, -500605990);
+IdJ_Bq = AljOX / Na1y(riQ8W, -2064193544, (unsigned short)2091118474, -76919776, (unsigned short)-500605990);
 return 0;
 }
 

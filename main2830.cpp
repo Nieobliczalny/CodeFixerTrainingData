@@ -77,7 +77,7 @@ switch (MVsac)
 {
 case 'a':
 case 'A':
-Nd9V = O94G6ixP4S((char)-2027322869, (short)808490058, 2090763184, -542071275);
+Nd9V = O94G6ixP4S((char)-2027322869, (short)808490058, (unsigned short)2090763184, -542071275);
 break;
 }
 
@@ -115,7 +115,7 @@ case 1:
 Nd9V = (int)abs(y7ePc);
 break;
 case 2:
-mPIR0 = O94G6ixP4S(mPIR0, -1886802189, -254714570, K79At4jHz);
+mPIR0 = O94G6ixP4S(mPIR0, (short)-1886802189, -254714570, K79At4jHz);
 break;
 default:
 c40sj4 ^= 1685832764;

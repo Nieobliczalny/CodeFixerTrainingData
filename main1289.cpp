@@ -97,7 +97,7 @@ int main() {
     unsigned short    c775;
     c775    =    (unsigned short)331246012;
     unsigned char    S37d6G;
-    S37d6G    =    404638014;
+    S37d6G    =    (unsigned char)404638014;
 	unsigned short int	Ni21;
 	Ni21	=	(unsigned short)1646878045;
   unsigned char  jK5Vj1;

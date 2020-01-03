@@ -66,7 +66,7 @@ case 4:
 gLNsM_53aU = w5_71AX76M(-106043684, (unsigned short)-1311028538, (unsigned short)434567369);
 break;
 case 5:
-V34w4P = p2dH4COtT(V34w4P, (char)-158881118, 633417847, -307982284, 1929805092);
+V34w4P = p2dH4COtT(V34w4P, (char)-158881118, 633417847, (unsigned char)-307982284, 1929805092);
 break;
 case 6:
 g1IW4BS3u6 /= nplV5Xv0;
@@ -169,7 +169,7 @@ Y_3p0d7zhd = eNbJj1_7(JEhqPZfxR, Y0qNOE4AS, B1MKA, EBo5Hs9D5, 1885082193);
 }
 else if (o_O68_ > FxHaPf)
 {
-std::cout << eNbJj1_7(-1951891841, 1850115386, B1MKA, 74571145, HOk5LL_D) << eNbJj1_7(-2139018350, Y0qNOE4AS, B1MKA, -2033218674, -1538683866) << FYro(JEhqPZfxR, 677445840, B1MKA, 1705832118) << std::endl;
+std::cout << eNbJj1_7(-1951891841, (char)1850115386, B1MKA, 74571145, HOk5LL_D) << eNbJj1_7(-2139018350, Y0qNOE4AS, B1MKA, -2033218674, -1538683866) << FYro(JEhqPZfxR, 677445840, B1MKA, 1705832118) << std::endl;
 }
 else if (((fP2Ml79 >= mOZJay) && (acQA != EBo5Hs9D5)) && (OJ_0 <= -1788056580))
 {
@@ -294,7 +294,7 @@ fP2Ml79 = p2dH4COtT((char)-1404088069, (char)2064494693, 1460273736, (unsigned c
 break;
 case 'e':
 case 'E':
-Y0qNOE4AS = p2dH4COtT(Y0qNOE4AS, Y40Z7DX_Mw, nplV5Xv0, -30551566, 1481295800);
+Y0qNOE4AS = p2dH4COtT(Y0qNOE4AS, Y40Z7DX_Mw, nplV5Xv0, (unsigned char)-30551566, 1481295800);
 break;
 case 'f':
 case 'F':

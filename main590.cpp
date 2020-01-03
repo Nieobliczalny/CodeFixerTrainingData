@@ -197,7 +197,7 @@ switch (mS69lY)
 {
 case 'a':
 case 'A':
-mr9dnq = H3xe2oEgp(869665615, -936431278, 1296157534, WSpD3e, 612205795);
+mr9dnq = H3xe2oEgp(869665615, -936431278, (unsigned char)1296157534, WSpD3e, 612205795);
 break;
 case 'b':
 case 'B':
@@ -231,7 +231,7 @@ cout << mS69lY << H3xe2oEgp(F3jzNk2, C937, (unsigned char)-1509877420, mr9dnq, k
 switch (WSpD3e)
 {
 case 0:
-w9k_TI = H3xe2oEgp(-428755893, SQh_II7, (unsigned char)-1483838881, -41054177, -1490053652);
+w9k_TI = H3xe2oEgp(-428755893, SQh_II7, (unsigned char)-1483838881, (unsigned char)-41054177, -1490053652);
 break;
 case 1:
 H2ST = (int)ceil(F3jzNk2);
@@ -441,7 +441,7 @@ case 'j':
 H2ST = (int)abs(NJHRsOW46b) + (-743218573);
 break;
 default:
-mr9dnq = H3xe2oEgp(-517310376, 1728509833, (unsigned char)310444497, -1031156393, y2Zkvr_);
+mr9dnq = H3xe2oEgp(-517310376, 1728509833, (unsigned char)310444497, (unsigned char)-1031156393, y2Zkvr_);
 break;
 }
 }

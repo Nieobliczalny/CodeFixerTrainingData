@@ -26,7 +26,7 @@ int main() {
  unsigned char HPSU;
  HPSU = (unsigned char)475662100;
     short int    S4lByD0pA2;
-    S4lByD0pA2    =    -354329177;
+    S4lByD0pA2    =    (short)-354329177;
 	char	L2_17gs;
 	L2_17gs	=	(char)-1945600296;
  long double AKTUU;
@@ -118,7 +118,7 @@ int main() {
  short int VZ_odGb_;
  VZ_odGb_ = 0;
     short int    s3o5;
-    s3o5    =    -1719988179;
+    s3o5    =    (short)-1719988179;
  short int fw0g9mx7_;
  fw0g9mx7_ = (short)73848570;
   short int  B7JZg;

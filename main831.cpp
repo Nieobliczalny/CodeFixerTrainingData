@@ -137,7 +137,7 @@ while (j >= 0);
 }
 try
 {
-cout << x5kSJy((short)-437713513, (unsigned char)1583808014, (unsigned short)-1458090032, vy114XN, KBM_) << "wXoTT" << J6VW << ttS9D(-2138603580, qO61yB1fn, 35318894, vy114XN) << X3tOlG2452() << endl;
+cout << x5kSJy((short)-437713513, (unsigned char)1583808014, (unsigned short)-1458090032, vy114XN, KBM_) << "wXoTT" << J6VW << ttS9D(-2138603580, qO61yB1fn, (unsigned short)35318894, vy114XN) << X3tOlG2452() << endl;
 }
 catch (int& errorCode)
 {
@@ -251,7 +251,7 @@ while (k < 4);
 }
 else if (E16Pt <= E63rv)
 {
-lJ3pYo = x5kSJy((short)-900342898, QisSK660ur, 1511441450, 1207523597, c6A52vK);
+lJ3pYo = x5kSJy((short)-900342898, QisSK660ur, (unsigned short)1511441450, 1207523597, c6A52vK);
 }
 else
 {

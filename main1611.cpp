@@ -118,7 +118,7 @@ int main(void) {
 	unsigned long	dldR_6X1C;
 	dldR_6X1C	=	1532370888;
   unsigned char  ZD55;
-  ZD55  =  -1255767142;
+  ZD55  =  (unsigned char)-1255767142;
  unsigned int TswInMl;
  TswInMl = -1981905823;
   unsigned short  sz4N1QjpWp;
@@ -146,7 +146,7 @@ int main(void) {
   unsigned short int  cn4LuA;
   cn4LuA  =  (unsigned short)100044992;
     unsigned char    xG_Y;
-    xG_Y    =    101154097;
+    xG_Y    =    (unsigned char)101154097;
  unsigned char cY7I2cxDIL;
  cY7I2cxDIL = (unsigned char)-595491953;
 	long long	XZ5rmsW;
@@ -194,7 +194,7 @@ int main(void) {
     char    h9lEK;
     h9lEK    =    (char)321589467;
     char    NRa2aEvGjz;
-    NRa2aEvGjz    =    205427660;
+    NRa2aEvGjz    =    (char)205427660;
 
 cout << KjFJkAN << endl;
 

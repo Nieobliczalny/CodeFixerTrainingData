@@ -71,7 +71,7 @@ int main(void)
 	unsigned char	B8_eg6;
 	B8_eg6	=	(unsigned char)1320088108;
 	short int	I3BW;
-	I3BW	=	327266088;
+	I3BW	=	(short)327266088;
  long L8SYW;
  L8SYW = 1264338375;
  char Piv5;
@@ -131,7 +131,7 @@ int main(void)
  int CT3fD;
  CT3fD = 155201989;
  unsigned char SS2OiTox;
- SS2OiTox = 1375561243;
+ SS2OiTox = (unsigned char)1375561243;
     unsigned long    I5a_;
     I5a_    =    555013031;
  unsigned short int S5iglh4;
@@ -159,7 +159,7 @@ int main(void)
 	short int	fpkY;
 	fpkY	=	(short)994015463;
  short int cFhhWc6k7_;
- cFhhWc6k7_ = 895559932;
+ cFhhWc6k7_ = (short)895559932;
   float  kccHx6m0n;
   kccHx6m0n  =  -24974580;
     long    o23_C30;
@@ -304,7 +304,7 @@ try
 switch (Piv5)
 {
 case 0:
-tOL6JGHv = DVMZ(tOL6JGHv, -402581264, (char)953629756, 2144837410);
+tOL6JGHv = DVMZ(tOL6JGHv, -402581264, (char)953629756, (char)2144837410);
 break;
 case 1:
 CjYbsyht1 = (int)ceil(GKdh);
@@ -460,7 +460,7 @@ GP_c07aFw = w5QV(kccHx6m0n, -627422238, 1973495664, -1291680795, (short)-4045890
 }
 else if ((j5_y < GKdh) || (o6O_N2772Z != fWGUSE))
 {
-std::cout << BVF5mP_5ZJ << N0P9 << DVMZ((unsigned short)1368092382, -1396611780, (char)-1948830164, 656077636) << "UOcl7y" << w5QV(1615348116, 164500758, 1913306783, B03j5U_mQ3, KM15_1o) << std::endl;
+std::cout << BVF5mP_5ZJ << N0P9 << DVMZ((unsigned short)1368092382, -1396611780, (char)-1948830164, (char)656077636) << "UOcl7y" << w5QV(1615348116, 164500758, 1913306783, B03j5U_mQ3, KM15_1o) << std::endl;
 }
 else
 {

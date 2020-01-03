@@ -530,7 +530,7 @@ case 4:
 rQIgDv = NV9X(-1394456968, rQIgDv, kUH1, -1569514884, (short)722883461);
 break;
 case 5:
-kUH1 = NV9X(879074361, (unsigned short)-1613586186, -367779868, 1107025846, 769809914);
+kUH1 = NV9X(879074361, (unsigned short)-1613586186, -367779868, 1107025846, (short)769809914);
 break;
 case 6:
 kUH1 &= rQIgDv;

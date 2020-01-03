@@ -25,7 +25,7 @@ int main() {
     K68DvS    =    (unsigned char)-1149670574;
     lsy5n    =    (unsigned char)-1823622744;
     bJXz_276NM    =    (unsigned char)173270975;
-    pTg7Nx    =    349482996;
+    pTg7Nx    =    (unsigned char)349482996;
     xBop3OgH1    =    934208221;
     bl3u_x    =    -74285312;
     e7a__KDv    =    1803744723;
@@ -128,7 +128,7 @@ case 'g':
 Bu3wXHU3_ = R88Ips9y6((unsigned short)-706622310, 271636766, Bu3wXHU3_, (short)2147416362, 593814594);
 break;
 case 'h':
-n9yH8t7Dc = F__bV(2013460554, -2123178906, lsy5n, -1096649853);
+n9yH8t7Dc = F__bV((unsigned short)2013460554, -2123178906, lsy5n, -1096649853);
 break;
 default:
 w3KWQ8lQje /= bJXz_276NM;
@@ -409,7 +409,7 @@ t5X35o = R88Ips9y6((unsigned short)1226226709, kS3B0PBG83, 62906387, (short)9742
 }
 else
 {
-cout << "oIS7PmC" << F__bV(xBop3OgH1, kS3B0PBG83, 1361768180, t5X35o) << R88Ips9y6((unsigned short)-2082528742, kS3B0PBG83, n9yH8t7Dc, t5X35o, h5_b0u7) << F__bV(1041606097, 205520865, 1107457335, -2086495591) << endl;
+cout << "oIS7PmC" << F__bV(xBop3OgH1, kS3B0PBG83, 1361768180, t5X35o) << R88Ips9y6((unsigned short)-2082528742, kS3B0PBG83, n9yH8t7Dc, t5X35o, h5_b0u7) << F__bV((unsigned short)1041606097, 205520865, 1107457335, -2086495591) << endl;
 }
 
 {

@@ -196,7 +196,7 @@ J2R68i = (unsigned char)(D6bXXiNiEz);
 switch (RD604kp)
 {
 case 0:
-GWS0CyZZ = QW8AWSXu(GWS0CyZZ, QpIy, (short)741833246, -1906184109);
+GWS0CyZZ = QW8AWSXu(GWS0CyZZ, QpIy, (short)741833246, (char)-1906184109);
 break;
 case 1:
 YlvizX = yqMZ();

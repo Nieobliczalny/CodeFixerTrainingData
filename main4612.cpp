@@ -86,7 +86,7 @@ int main(int argc, char** argv) {
   unsigned long  f7Ck;
   f7Ck  =  1450424385;
     unsigned short    p7RnE4Lt;
-    p7RnE4Lt    =    -1625419903;
+    p7RnE4Lt    =    (unsigned short)-1625419903;
 	unsigned char	j3865WY;
 	j3865WY	=	(unsigned char)-769448650;
 	unsigned long long	ar3P6T;

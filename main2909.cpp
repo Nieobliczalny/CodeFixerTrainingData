@@ -23,7 +23,7 @@ unsigned long long YPhGd3q(unsigned char Ht1Rv)
 
 int main(void)
 {
- unsigned short int sru5lABcj = (unsigned short)-415570201, Kqyk1Ht = (unsigned short)-42719419, SvBpPsa = (unsigned short)-458148046, F_FN55uCS = -1055524547;
+ unsigned short int sru5lABcj = (unsigned short)-415570201, Kqyk1Ht = (unsigned short)-42719419, SvBpPsa = (unsigned short)-458148046, F_FN55uCS = (unsigned short)-1055524547;
  unsigned int LuD7 = 0, J5nc3lf3b_ = 0, RbMV = 0, L1X8s3 = 0;
 
 {

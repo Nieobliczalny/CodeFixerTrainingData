@@ -27,7 +27,7 @@ int main()
   unsigned short int  G___16j5;
   G___16j5  =  (unsigned short)-1711804197;
     unsigned char    RxM06I09;
-    RxM06I09    =    -745634867;
+    RxM06I09    =    (unsigned char)-745634867;
  double l1g8yow;
  l1g8yow = 1207947479;
  short int j0_rcGo7;

@@ -95,7 +95,7 @@ int main(int argc, char** argv)
     unsigned short int    IY1S_qeTbQ;
     IY1S_qeTbQ    =    (unsigned short)-720321826;
     short    r5E4S5Hm;
-    r5E4S5Hm    =    50002381;
+    r5E4S5Hm    =    (short)50002381;
 	long long	l7zyHDI1r;
 	l7zyHDI1r	=	365737922;
   double  nGw1wz1;
@@ -198,7 +198,7 @@ IpqV8w9 = b7iKu3_L(IpqV8w9);
 e3KZsh8s5g = (long)(v0fmJ_kUAb);
 
 lDvQ0O64S7++;
-r8lnlra = b7iKu3_L(1537620135);
+r8lnlra = b7iKu3_L((unsigned char)1537620135);
 
 IY1S_qeTbQ--;
 

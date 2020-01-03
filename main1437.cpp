@@ -89,7 +89,7 @@ int main(void) {
   unsigned short  Mj0AcrM6;
   Mj0AcrM6  =  (unsigned short)-1232028421;
 	char	Ehh_Gg9P;
-	Ehh_Gg9P	=	287843956;
+	Ehh_Gg9P	=	(char)287843956;
     long long    B3dc2;
     B3dc2    =    476524070;
 
@@ -251,7 +251,7 @@ case 0:
 wVNI1_vpg9 = BUpvv(wVNI1_vpg9, 1393322021, J256_);
 break;
 case 1:
-rm4lXJg = G48e1gj1e9(-2067477642, ZpHDxh, feKK, 721664323, Mj0AcrM6);
+rm4lXJg = G48e1gj1e9(-2067477642, ZpHDxh, feKK, (unsigned short)721664323, Mj0AcrM6);
 break;
 }
 
@@ -636,7 +636,7 @@ case 4:
 MBAgTWa = (int)abs(vlMleVV);
 break;
 case 5:
-rm4lXJg = G48e1gj1e9(-2141097754, (unsigned char)-258017127, 55425284, (unsigned short)1086973449, 1924908142);
+rm4lXJg = G48e1gj1e9(-2141097754, (unsigned char)-258017127, 55425284, (unsigned short)1086973449, (short)1924908142);
 break;
 case 6:
 s5G7ka |= 2089977356;

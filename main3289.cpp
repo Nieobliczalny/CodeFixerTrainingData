@@ -84,7 +84,7 @@ int main(void) {
   unsigned char  xv5Iqp8;
   xv5Iqp8  =  (unsigned char)-1963424916;
 	short	cY6_Hj8a;
-	cY6_Hj8a	=	762114149;
+	cY6_Hj8a	=	(short)762114149;
     unsigned short int    H4bNt;
     H4bNt    =    (unsigned short)-1154819561;
     unsigned long    a8joIUpVF;
@@ -122,7 +122,7 @@ int main(void) {
  short dsV_R;
  dsV_R = (short)423093218;
   unsigned short  OVQBNj;
-  OVQBNj  =  -1217574368;
+  OVQBNj  =  (unsigned short)-1217574368;
     short int    L0Dq;
     L0Dq    =    (short)1603995272;
 	unsigned int	U___X349A;
@@ -148,7 +148,7 @@ int main(void) {
  unsigned short int fDA8pZ3nit;
  fDA8pZ3nit = (unsigned short)-1883027882;
 	unsigned short	wDSNa;
-	wDSNa	=	-1811733978;
+	wDSNa	=	(unsigned short)-1811733978;
   float  L_bG;
   L_bG  =  -106604754;
     char    t433dR;
@@ -329,7 +329,7 @@ int j = 10;
 do
 {
 --j;
-cout << Q47z2_x5 << "g3_9V98PY_" << "XWzK8uQ_" << vH_P9(PS13bn1, (short)-61470856, (unsigned char)67355929, (short)1034754259, 560908130) << vH_P9(PS13bn1, -1476779335, -223677625, -1566553713, -1971184338) << endl;
+cout << Q47z2_x5 << "g3_9V98PY_" << "XWzK8uQ_" << vH_P9(PS13bn1, (short)-61470856, (unsigned char)67355929, (short)1034754259, 560908130) << vH_P9(PS13bn1, (short)-1476779335, -223677625, -1566553713, -1971184338) << endl;
 }
 while (j >= 0);
 }

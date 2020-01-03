@@ -33,7 +33,7 @@ int main(int argc, char** argv)
 	unsigned short int	n7Ik;
 	n7Ik	=	(unsigned short)1347530491;
   unsigned char  X65_O5je;
-  X65_O5je  =  1626505401;
+  X65_O5je  =  (unsigned char)1626505401;
  unsigned short ZnomD4Dl31;
  ZnomD4Dl31 = (unsigned short)1215772012;
 	long long	s6I5BRHYu;
@@ -43,7 +43,7 @@ int main(int argc, char** argv)
 	short	V_Hc;
 	V_Hc	=	(short)478094681;
  short int EQvL;
- EQvL = 1714778884;
+ EQvL = (short)1714778884;
 	unsigned long	olQwf_E9C6;
 	olQwf_E9C6	=	-904832709;
 	unsigned long	S8a0hG3;

@@ -23,7 +23,7 @@ int main(int argc, char** argv)
     float    W7rCRDBC;
     W7rCRDBC    =    -1586569004;
   unsigned short  v6P_B;
-  v6P_B  =  1727457826;
+  v6P_B  =  (unsigned short)1727457826;
     unsigned long long    Ksvn6ll;
     Ksvn6ll    =    -800525152;
  long ysR_GyC3O;

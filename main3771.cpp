@@ -74,7 +74,7 @@ int main(void)
 	unsigned char	m3z3;
 	m3z3	=	(unsigned char)1359348310;
  unsigned char HmyENoA0e;
- HmyENoA0e = 1003541158;
+ HmyENoA0e = (unsigned char)1003541158;
 	unsigned short	QpcLbwz;
 	QpcLbwz	=	(unsigned short)-1717945131;
   unsigned long long  dm48ZiV;
@@ -114,7 +114,7 @@ int main(void)
   unsigned short int  HEQiQ38;
   HEQiQ38  =  (unsigned short)-459785897;
 	unsigned short int	Vv3N;
-	Vv3N	=	-1595241922;
+	Vv3N	=	(unsigned short)-1595241922;
   double  bK7l;
   bK7l  =  -1669845520;
   long double  c_d8d;

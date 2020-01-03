@@ -26,7 +26,7 @@ int main(int argc, char** argv)
  unsigned short uK7774_Fcx, K0g6zU5, i99_wv8;
  uK7774_Fcx = (unsigned short)165318472;
  K0g6zU5 = (unsigned short)1691333536;
- i99_wv8 = -384157695;
+ i99_wv8 = (unsigned short)-384157695;
   char  Ia91N90E1t,  ZPufkJsb,  fWVN3Cm,  RvMxFke;
   Ia91N90E1t  =  0;
   ZPufkJsb  =  0;
@@ -328,7 +328,7 @@ case 1:
 i99_wv8 *= fWVN3Cm;
 break;
 case 2:
-uK7774_Fcx = W5088L(1514294476, (unsigned short)554545459, (unsigned short)557980090, -1014565650);
+uK7774_Fcx = W5088L(1514294476, (unsigned short)554545459, (unsigned short)557980090, (short)-1014565650);
 break;
 case 3:
 i99_wv8 = Huovi(fWVN3Cm);

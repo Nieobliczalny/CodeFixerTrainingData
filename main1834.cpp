@@ -113,7 +113,7 @@ int main(void)
 	unsigned short int	ntp7f;
 	ntp7f	=	(unsigned short)-772479645;
  char t8xpAv20;
- t8xpAv20 = -462991128;
+ t8xpAv20 = (char)-462991128;
 	long double	t7av7ru06;
 	t7av7ru06	=	832581691;
   unsigned short  BmsYfi0;

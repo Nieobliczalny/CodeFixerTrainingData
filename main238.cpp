@@ -41,7 +41,7 @@ int main()
   unsigned short  DrR8  =  (unsigned short)-1289906833;
   int  vZO_k  =  0;
 	unsigned int	zw796awb	=	-394372685;
- short int Q6344kdnwL = 271526970;
+ short int Q6344kdnwL = (short)271526970;
 	int	NEf_u0	=	1762448859;
 	short int	ihF_VSSRE8	=	(short)-13826890;
  float Xrc_6Q3CrK = -493358889;
@@ -57,7 +57,7 @@ int main()
     long    fi44    =    780767953;
  long double o94bJuaS = 316040457;
 
-Q6344kdnwL = cGhzd0T5k((unsigned char)1249432434, 1319543658, X3H4Q1F, o94bJuaS);
+Q6344kdnwL = cGhzd0T5k((unsigned char)1249432434, (short)1319543658, X3H4Q1F, o94bJuaS);
 
 H_DWQ = Ff48 / zWrD9BD6;
 

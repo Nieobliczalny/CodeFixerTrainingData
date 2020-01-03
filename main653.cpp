@@ -40,7 +40,7 @@ int main() {
  char BGbv;
  BGbv = (char)-456177747;
   unsigned short  KCPERRxX;
-  KCPERRxX  =  -2057017301;
+  KCPERRxX  =  (unsigned short)-2057017301;
  long long A5_p;
  A5_p = 0;
   double  X123KWb9;

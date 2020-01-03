@@ -73,7 +73,7 @@ int main() {
 	unsigned short	IMYMVLpH;
 	IMYMVLpH	=	(unsigned short)-342062682;
 	unsigned short	l3b08_;
-	l3b08_	=	-262277772;
+	l3b08_	=	(unsigned short)-262277772;
   unsigned long long  ms__LI84;
   ms__LI84  =  261120595;
 	long	ERkI28IsV;

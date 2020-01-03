@@ -22,7 +22,7 @@ int main(int argc, char** argv)
 	FLt1x	=	(unsigned char)-1673425618;
 	G7rR9v	=	(unsigned char)-1859180125;
 	SCkV6cM1	=	(unsigned char)-284620792;
-	oN99SO66	=	-1734240734;
+	oN99SO66	=	(unsigned char)-1734240734;
 	rBUgO	=	-1066959322;
 	Y8z_P74_YP	=	226097171;
 	n4C6396j	=	1230284153;
@@ -32,7 +32,7 @@ int main(int argc, char** argv)
 	nEO98Y	=	(unsigned char)-1668225831;
 	c4pF2	=	(unsigned char)118228160;
 	CQD0QcS_	=	(unsigned char)1141475663;
-	dkbFRBYb_5	=	1004425527;
+	dkbFRBYb_5	=	(unsigned char)1004425527;
 	HSbSdMo0	=	1294626563;
 	EiOpvQY4r	=	1328495348;
 	iE4h	=	-1248433270;
@@ -42,7 +42,7 @@ int main(int argc, char** argv)
 	d44dOj_V	=	(unsigned char)-1035065324;
 	B3l_uS	=	(unsigned char)492908684;
 	By0wT6I2o	=	(unsigned char)1692100172;
-	WH6Id4	=	-1009840367;
+	WH6Id4	=	(unsigned char)-1009840367;
 	J7HbX32	=	-275664701;
 	SCA7pe1dN3	=	-331752455;
 	O31cJCeTrP	=	-491508156;
@@ -52,7 +52,7 @@ int main(int argc, char** argv)
 	G_iHcD_D	=	(unsigned char)-1701184931;
 	qCFLPR_0	=	(unsigned char)188911261;
 	Jj6mE	=	(unsigned char)1683551227;
-	Ha_G0w	=	1770440022;
+	Ha_G0w	=	(unsigned char)1770440022;
 	Fzix3	=	-976725970;
 	qzwa__m0PJ	=	-1230918841;
 	b0F6	=	-1597978099;
@@ -62,7 +62,7 @@ int main(int argc, char** argv)
 	b57GkaSpd	=	(unsigned char)912810744;
 	s7UXSfOo	=	(unsigned char)963665908;
 	k0wgE3vsH	=	(unsigned char)-213453288;
-	rzBl8F6pE	=	29949866;
+	rzBl8F6pE	=	(unsigned char)29949866;
 	M0A4BvO1	=	-454610372;
 	Lq9a90UX4P	=	1737432629;
 	ryTukoZ6	=	-1296850674;
@@ -72,7 +72,7 @@ int main(int argc, char** argv)
 	HBnIVX1q	=	(unsigned char)-1892443873;
 	p9DMnR01	=	(unsigned char)-1238628485;
 	GQFwg6	=	(unsigned char)986080163;
-	G5d6c	=	-1131543660;
+	G5d6c	=	(unsigned char)-1131543660;
 	Br609L96	=	211501231;
 	bVD1qE	=	1501913426;
 	sWuk3z	=	1698507684;
@@ -82,7 +82,7 @@ int main(int argc, char** argv)
 	oT4e0	=	(unsigned char)-1926682996;
 	W6o94sEic	=	(unsigned char)37009612;
 	a6S0m7T	=	(unsigned char)829287029;
-	vTY_	=	1301443608;
+	vTY_	=	(unsigned char)1301443608;
 	mog9d51xAl	=	-427197779;
 	DnPO99ioVB	=	-1270743002;
 	rq9xYlEE	=	-1527839658;

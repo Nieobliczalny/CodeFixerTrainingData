@@ -29,7 +29,7 @@ int main(int argc, char** argv) {
  qzDPy = (short)993881995;
  W6K07A = (short)828009044;
  U3f8X42 = (short)-310036266;
- Tinfws = -1985834231;
+ Tinfws = (short)-1985834231;
  u_55VDNo = -843055611;
  fLr8i_8pT = -1961562245;
  Pxm4sC29a9 = -641095979;
@@ -39,7 +39,7 @@ int main(int argc, char** argv) {
  QU86 = (short)-1865588642;
  qID9u = (short)-1510713793;
  CvCJ8ej = (short)-1403470107;
- j291 = -1677225847;
+ j291 = (short)-1677225847;
  bNV3C = -274517586;
  LtIs = 1134336289;
  WDZj = -1776903628;
@@ -49,7 +49,7 @@ int main(int argc, char** argv) {
  gnqxc = (short)-2065870698;
  O_V7 = (short)803616464;
  AWCf = (short)-1759173523;
- ujh_O6LdX = 2081994366;
+ ujh_O6LdX = (short)2081994366;
  vX85 = 1273050198;
  x99Cz3e = 629511800;
  iz4u2F9_J = 1598044600;
@@ -59,7 +59,7 @@ int main(int argc, char** argv) {
  obWkvdW2z = (short)-1900036037;
  x1Go7PLKt = (short)-1822647787;
  vODMN_h5 = (short)-288978543;
- k4cFph9062 = -440895945;
+ k4cFph9062 = (short)-440895945;
  xD8_CLZ1 = -1944633054;
  C2pkjYB3 = 1587058749;
  tBpi4ud = -1122843582;
@@ -69,7 +69,7 @@ int main(int argc, char** argv) {
  kh1O4T = (short)1144461821;
  fhXi2_R = (short)-2089390594;
  Bl4_4 = (short)-1689204314;
- RPX_e0 = 1690534102;
+ RPX_e0 = (short)1690534102;
  YE3MNP5g = -1858154779;
  Gf21OEa33 = -280597669;
  YODTc41V = 291697408;
@@ -79,7 +79,7 @@ int main(int argc, char** argv) {
  hJZ71uE2_ = (short)169152975;
  pM3Soh = (short)-938321648;
  M8tkhoO = (short)-534897294;
- HiMmn5Du = 1965939315;
+ HiMmn5Du = (short)1965939315;
  bf50V9 = 2046053282;
  l41mPg4 = 1688214689;
  pp__B_h = -2382831;
@@ -89,7 +89,7 @@ int main(int argc, char** argv) {
  aR88c1ujM4 = (short)1853784581;
  QOLw9YQ0y = (short)1443423569;
  NVWu1 = (short)-859643248;
- SW_215aPr = -2018102384;
+ SW_215aPr = (short)-2018102384;
  J47lP3h7j = -78098603;
  e4PmjlvEuK = -199352172;
  h8apS536 = 1422911493;
@@ -99,7 +99,7 @@ int main(int argc, char** argv) {
  D2tzq = (short)1321536362;
  fe7AWQe_9 = (short)1366595953;
  fsmWAsO_ = (short)-1393968043;
- KXA6y4rOf2 = 2056565555;
+ KXA6y4rOf2 = (short)2056565555;
  TVRYKB = 2145003955;
  FPBB = 114426383;
  s65Tyl3O = 1727677689;

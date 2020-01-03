@@ -80,7 +80,7 @@ case 2:
 VzEigW = Wwd7oPnOL(922224396, (unsigned short)1097604545);
 break;
 case 3:
-vkBPr7jz = Wwd7oPnOL(vkBPr7jz, 944698749);
+vkBPr7jz = Wwd7oPnOL(vkBPr7jz, (unsigned short)944698749);
 break;
 }
 }
@@ -135,7 +135,7 @@ case 5:
 xUIeb_y6WE = b01J32m33(xUIeb_y6WE, KyZ936I5u, (unsigned char)1580514779, (short)-588392311);
 break;
 default:
-g72C3K069_ = b01J32m33(g72C3K069_, 1425317854, sS621L6, b4Z8WM);
+g72C3K069_ = b01J32m33(g72C3K069_, (short)1425317854, sS621L6, b4Z8WM);
 break;
 }
 }
@@ -228,7 +228,7 @@ KyZ936I5u -= RE67_oGtt;
 }
 else if (RE67_oGtt >= -4746162)
 {
-w0uhu7 = b01J32m33(1075734686, (short)-1922849511, 1587493592, 2100642649);
+w0uhu7 = b01J32m33(1075734686, (short)-1922849511, (unsigned char)1587493592, 2100642649);
 }
 else if (WLcdPS4Y <= -1535020255)
 {

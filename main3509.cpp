@@ -19,7 +19,7 @@ int main()
     short int    iWz1yp_4;
     iWz1yp_4    =    (short)-967163570;
   unsigned short  mC69D8Et;
-  mC69D8Et  =  -102640588;
+  mC69D8Et  =  (unsigned short)-102640588;
     char    b60N5;
     b60N5    =    -1090416225;
     unsigned short int    Ns274Hs54;
@@ -161,7 +161,7 @@ int main()
   double  iQtCH6dX89;
   iQtCH6dX89  =  -2008769731;
 	unsigned short	j5ZxT4oSs;
-	j5ZxT4oSs	=	1981053579;
+	j5ZxT4oSs	=	(unsigned short)1981053579;
   unsigned char  r_1F;
   r_1F  =  (unsigned char)-769573490;
   short int  ib7XwPIBS;

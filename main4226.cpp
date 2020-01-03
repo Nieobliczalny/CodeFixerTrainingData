@@ -192,7 +192,7 @@ D953YMB3 = ubIA1jnte2(gb7n7230tn, ESUgR7nhkM, LY7Sl, 1041410689);
 break;
 case 'd':
 case 'D':
-D953YMB3 = ubIA1jnte2(JS__m, (unsigned short)753417392, 731133140, -505663664);
+D953YMB3 = ubIA1jnte2(JS__m, (unsigned short)753417392, (char)731133140, -505663664);
 break;
 case 'e':
 case 'E':

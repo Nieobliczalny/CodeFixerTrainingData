@@ -150,7 +150,7 @@ n7Z_SlPI = (int)abs(xuPvB5S2R8);
 break;
 case 'c':
 case 'C':
-n7Z_SlPI = Jy_v6((unsigned short)728183943, 1120770281, v571_, 990918662, -16704252);
+n7Z_SlPI = Jy_v6((unsigned short)728183943, (char)1120770281, v571_, 990918662, -16704252);
 break;
 case 'd':
 case 'D':
@@ -171,7 +171,7 @@ std::cout << "hJYm6" << Jy_v6(k3h0V, (char)462554117, 605926999, E4S9vSPK, (unsi
 switch (pF0o)
 {
 case 0:
-n7Z_SlPI = Jy_v6((unsigned short)1623515438, q3pI38wr9, Cejnvz8NI, 247146376, -1272434483);
+n7Z_SlPI = Jy_v6((unsigned short)1623515438, q3pI38wr9, Cejnvz8NI, 247146376, (unsigned char)-1272434483);
 break;
 case 1:
 Sue3GH7t30 = w29psOJH << 814659573;
@@ -186,7 +186,7 @@ case 4:
 ZHUF1nP0--;
 break;
 case 5:
-xuPvB5S2R8 = Jy_v6((unsigned short)-2037220806, a9H1, 864253709, 729043646, -903081300);
+xuPvB5S2R8 = Jy_v6((unsigned short)-2037220806, a9H1, 864253709, 729043646, (unsigned char)-903081300);
 break;
 case 6:
 xuPvB5S2R8 = Jy_v6(icg3D, a9H1, nq69R6qQQ1, -1627017042, w00J);
@@ -204,7 +204,7 @@ default:
 n7Z_SlPI = Jy_v6((unsigned short)-1234346606, (char)1751396723, -164825658, -386400907, E4S9vSPK);
 break;
 }
-xuPvB5S2R8 = Jy_v6(xuPvB5S2R8, MvFXhCW, 397359898, 1476373429, 409170039);
+xuPvB5S2R8 = Jy_v6(xuPvB5S2R8, MvFXhCW, 397359898, 1476373429, (unsigned char)409170039);
 if (I_5eBd81 < Z1OKhz)
 {
 try
@@ -233,7 +233,7 @@ for (int i = 0; i < 5; ++i)
 int j = 0;
 while (j < 4)
 {
-std::cout << aHIJc << Jy_v6(871932320, 1303146053, X_AA6d, WdOLnrW0Na, zc2ESA) << std::endl;
+std::cout << aHIJc << Jy_v6((unsigned short)871932320, 1303146053, X_AA6d, WdOLnrW0Na, zc2ESA) << std::endl;
 ++j;
 }
 }

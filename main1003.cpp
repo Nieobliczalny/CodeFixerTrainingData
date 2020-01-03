@@ -122,7 +122,7 @@ switch (utrA3HzH)
 {
 case 'a':
 case 'A':
-b5RiWZIU_1 = Gyt4jES675(b5RiWZIU_1, (char)-1307497702, 522319331, -1545095130);
+b5RiWZIU_1 = Gyt4jES675(b5RiWZIU_1, (char)-1307497702, (short)522319331, -1545095130);
 break;
 case 'b':
 case 'B':
@@ -193,7 +193,7 @@ utrA3HzH = Vtli_((char)-187033980, i3aA279To, -211248856, -2094552563);
 break;
 case 'h':
 case 'H':
-k234M_ = Vtli_((char)498750572, -352479720, 1368565358, -1525167259);
+k234M_ = Vtli_((char)498750572, (unsigned char)-352479720, 1368565358, -1525167259);
 break;
 case 'i':
 case 'I':

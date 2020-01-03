@@ -45,7 +45,7 @@ int main(int argc, char** argv)
     unsigned char    QG06i;
     QG06i    =    (unsigned char)-165993631;
     unsigned short int    G6h8qdzpWR;
-    G6h8qdzpWR    =    1646048105;
+    G6h8qdzpWR    =    (unsigned short)1646048105;
 	unsigned int	t0sl4s;
 	t0sl4s	=	1732883962;
     float    ogVd0fTKrR;
@@ -79,7 +79,7 @@ int main(int argc, char** argv)
  unsigned short M4At_;
  M4At_ = (unsigned short)1156313852;
  short yZmSZo_waW;
- yZmSZo_waW = 1380590683;
+ yZmSZo_waW = (short)1380590683;
  short int Xp039u;
  Xp039u = 1548740096;
  unsigned long long lca9_2Ff;
@@ -95,7 +95,7 @@ int main(int argc, char** argv)
  long double NW8xNT9_A;
  NW8xNT9_A = 1199930907;
   short  KSwM_HuU9;
-  KSwM_HuU9  =  -2017509540;
+  KSwM_HuU9  =  (short)-2017509540;
  int n60hfiw9f;
  n60hfiw9f = 0;
 	unsigned char	tq99;

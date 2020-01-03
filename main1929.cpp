@@ -45,7 +45,7 @@ int main()
  unsigned short int r13Uq8;
  r13Uq8 = (unsigned short)622304120;
     short int    o6_9;
-    o6_9    =    243611453;
+    o6_9    =    (short)243611453;
   long long  KvZ4YqtJ3;
   KvZ4YqtJ3  =  1338786170;
   unsigned long  usQ_T39S0_;
@@ -119,7 +119,7 @@ int main()
  unsigned short int YK2Lpv5ct_;
  YK2Lpv5ct_ = (unsigned short)1015962994;
  unsigned char VGQxl7zww0;
- VGQxl7zww0 = 138440062;
+ VGQxl7zww0 = (unsigned char)138440062;
     unsigned long    U_YT8hh;
     U_YT8hh    =    -967054309;
   unsigned long long  k059n;
@@ -250,7 +250,7 @@ T51UKOb = omiy(T51UKOb, (short)490940611);
 }
 else if (KvZ4YqtJ3 == r13Uq8)
 {
-std::cout << omiy(T51UKOb, (short)363096870) << MC7wD7z7f9 << WfUbGw0rO << CIzetR__7((short)-1508435393, FM9d, UZ_8, VGQxl7zww0, -1703571520) << std::endl;
+std::cout << omiy(T51UKOb, (short)363096870) << MC7wD7z7f9 << WfUbGw0rO << CIzetR__7((short)-1508435393, FM9d, UZ_8, VGQxl7zww0, (unsigned short)-1703571520) << std::endl;
 }
 else
 {
@@ -270,7 +270,7 @@ co2F27 = omiy(292684357, (short)-2079024390);
 }
 else if (XEow8)
 {
-XPx6m = CIzetR__7(YK2Lpv5ct_, (unsigned short)-169593986, 300769227, 731079036, i064kK5q);
+XPx6m = CIzetR__7(YK2Lpv5ct_, (unsigned short)-169593986, (short)300769227, 731079036, i064kK5q);
 }
 else if (jfN3 > gWX4HBhnZC)
 {

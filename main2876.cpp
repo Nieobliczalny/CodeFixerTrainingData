@@ -377,7 +377,7 @@ case 4:
 bwpHL7 = CbOEz(X3ci_ODn, (unsigned char)1616492630, -336257368, -1122660752);
 break;
 case 5:
-bwpHL7 = CbOEz((unsigned char)-123526735, -1045165298, kBEp8, 766704834);
+bwpHL7 = CbOEz((unsigned char)-123526735, (unsigned char)-1045165298, kBEp8, 766704834);
 break;
 default:
 Z79_4clC5Q = CbOEz(dX27, (unsigned char)-433451598, 1563123132, -1088387670);

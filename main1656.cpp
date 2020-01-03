@@ -308,7 +308,7 @@ try
 {
 if ((rBbpidy < -1653342013) && ((Ii46 <= -1430232137) || (TzHyy & fe6pT7S)))
 {
-cout << g1LbCp7cH((char)438461150, (short)436402679, -95447990, (unsigned short)-1764641337, -2104671126) << endl;
+cout << g1LbCp7cH((char)438461150, (short)436402679, -95447990, (unsigned short)-1764641337, (unsigned char)-2104671126) << endl;
 }
 }
 catch (int& errorCode)
@@ -410,7 +410,7 @@ EqM47L = g1LbCp7cH((char)1449800560, (short)1187477534, M255J, eauFVXOd, W18wrp)
 }
 }
 }
-sj683c9jU = H13rg((short)250681358, 1872856689);
+sj683c9jU = H13rg((short)250681358, (unsigned char)1872856689);
 switch (Sc6tO_)
 {
 case 'a':

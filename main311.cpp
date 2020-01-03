@@ -46,7 +46,7 @@ int main(void)
 	float	bDyu	=	-513653292;
   unsigned char  yl19ovU_  =  (unsigned char)-1256727531;
     unsigned long long    f6uBw779J    =    216296571;
-	unsigned short	fUEhW	=	858439710;
+	unsigned short	fUEhW	=	(unsigned short)858439710;
  unsigned long t5Cw73h = -931717921;
 
 {
@@ -58,7 +58,7 @@ U1T2fqj9i4 += 954724764;
 }
 while (i < 4);
 }
-cout << wxi42ZvXer((unsigned short)1349667109, (unsigned short)-2046216817, 287178939, h982DXZhx) << wxi42ZvXer((unsigned short)-171283294, -2032371385, 1435318833, 210169798) << endl;
+cout << wxi42ZvXer((unsigned short)1349667109, (unsigned short)-2046216817, 287178939, h982DXZhx) << wxi42ZvXer((unsigned short)-171283294, (unsigned short)-2032371385, 1435318833, 210169798) << endl;
 
 cout << f6uBw779J << wxi42ZvXer(1942751940, -1537212499, -347702896, h982DXZhx) << endl;
 
@@ -182,7 +182,7 @@ else
 {
 if (gC5M == 1258559376)
 {
-TNr30K = rCJ7((short)-273748375, -790056414);
+TNr30K = rCJ7((short)-273748375, (unsigned char)-790056414);
 }
 else
 {
@@ -250,7 +250,7 @@ H2ffc_dZ = (int)floor(S7b6t40vXw);
 }
 else if ((S7b6t40vXw != S6aOfwc) && (TI9x != -910422798))
 {
-cout << "AK_lNXUHp" << H2ffc_dZ << wxi42ZvXer((unsigned short)1945640636, (unsigned short)1300736526, -2023969649, 1805543757) << wxi42ZvXer(p9PYP, t5Cw73h, 1684335709, -1525232229) << endl;
+cout << "AK_lNXUHp" << H2ffc_dZ << wxi42ZvXer((unsigned short)1945640636, (unsigned short)1300736526, -2023969649, (char)1805543757) << wxi42ZvXer(p9PYP, t5Cw73h, 1684335709, -1525232229) << endl;
 }
 else if (p9PYP > U1T2fqj9i4)
 {
@@ -301,7 +301,7 @@ case 5:
 TNr30K = rCJ7((short)-401164371, (unsigned char)-1175655432);
 break;
 case 6:
-fUEhW = wxi42ZvXer(fUEhW, -1407007595, 818758899, -1187417881);
+fUEhW = wxi42ZvXer(fUEhW, (unsigned short)-1407007595, 818758899, -1187417881);
 break;
 default:
 t5Cw73h = wxi42ZvXer(t5Cw73h, H2ffc_dZ, -574982004, 1054722799);
@@ -313,7 +313,7 @@ while (j < 2);
 }
 else
 {
-cout << wxi42ZvXer((unsigned short)-876610293, (unsigned short)1241613868, f6uBw779J, bDyu) << rCJ7((short)1323712764, -605064378) << "OU76R_" << endl;
+cout << wxi42ZvXer((unsigned short)-876610293, (unsigned short)1241613868, f6uBw779J, bDyu) << rCJ7((short)1323712764, (unsigned char)-605064378) << "OU76R_" << endl;
 }
 {
 int i = 10;
@@ -507,7 +507,7 @@ case 'g':
 TNr30K = rCJ7((short)1624577737, (unsigned char)58918788);
 break;
 case 'h':
-Os6UYC4mvr = rCJ7(1414735585, -399613179);
+Os6UYC4mvr = rCJ7((short)1414735585, -399613179);
 break;
 default:
 Os6UYC4mvr = rCJ7((short)1991133085, -1733643947);

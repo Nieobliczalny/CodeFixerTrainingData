@@ -15,7 +15,7 @@ int main(void) {
     short int    Imb3xSH5R    =    (short)-1431424557;
 	long long	vT6J39o	=	-618558159;
  double O79P = 623515461;
-    char    n83qE2    =    -2029388354;
+    char    n83qE2    =    (char)-2029388354;
 	long long	ZOC8PT	=	-1673021005;
   long long  r_l3uYGt  =  643472908;
     int    G7512    =    925043171;
@@ -33,7 +33,7 @@ int main(void) {
  int Wjqyl8W3Z = 1858577383;
   unsigned char  tg72GI9  =  (unsigned char)-307953651;
   long  P2U_56EoG  =  -1093003207;
-  char  w2mHjG9d7  =  1398470251;
+  char  w2mHjG9d7  =  (char)1398470251;
  unsigned long long PJ241e = 1835353549;
   int  vHE01wIr  =  -183695395;
  unsigned char Po3_1__8 = -1298469174;

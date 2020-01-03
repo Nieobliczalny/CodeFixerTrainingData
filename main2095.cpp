@@ -21,7 +21,7 @@ int main(int argc, char** argv) {
   short  Ef1O_  =  (short)230716829;
     short    U_r7_k    =    (short)942249864;
     unsigned int    WxJYj44_J    =    623482596;
- char S2YG88u86K = -1867937155;
+ char S2YG88u86K = (char)-1867937155;
     unsigned char    ge_FYntaH8    =    -1024748550;
 	unsigned char	w_20x_dEb	=	412841921;
   unsigned char  WcoeqTas  =  972085540;
@@ -63,7 +63,7 @@ int main(int argc, char** argv) {
 	float	GCqf	=	529004761;
     float    d_63f9S9qm    =    297613903;
  char q7FG59R0 = (char)-854168725;
-	unsigned short	n929	=	-1373371860;
+	unsigned short	n929	=	(unsigned short)-1373371860;
     char    zrZxs6e4Ym    =    (char)-1822789943;
     unsigned short    lbTy0    =    -1468193771;
 	unsigned char	TwRYhQplq	=	-1466577199;
@@ -141,7 +141,7 @@ case 7:
 pIdF2EXm7_ = Y2V7nHDM(460215848, (short)-437998335, 1175183665, C3Bl9, v8_ZqOVx3C);
 break;
 case 8:
-Hm611OZ = w3LCz8((unsigned char)-1275904914, akotM_, zrZxs6e4Ym, (short)993540622, -921282781);
+Hm611OZ = w3LCz8((unsigned char)-1275904914, akotM_, zrZxs6e4Ym, (short)993540622, (short)-921282781);
 break;
 }
 }
@@ -183,7 +183,7 @@ case 3:
 agHq7J9Rsc = (int)ceil(a1MP1);
 break;
 case 4:
-Rn89TZc_ = vHv4hk(545248423);
+Rn89TZc_ = vHv4hk((short)545248423);
 break;
 case 5:
 s5B9nDEE3p = (int)ceil(XeDwuZ);
@@ -316,7 +316,7 @@ case 'g':
 a1MP1 = Y2V7nHDM(214845302, (short)-341081622, g_8c8, (char)1604427033, XRGw0T8Fe);
 break;
 case 'h':
-DE_UI = (B7x3Q_ < -1733164576) ? 1003267083 : U98Z;
+DE_UI = (B7x3Q_ < -1733164576) ? (unsigned short)1003267083 : U98Z;
 break;
 case 'i':
 mlI4 = P59k_K81(-1940291653, FGS06K_OB, 1906413038);

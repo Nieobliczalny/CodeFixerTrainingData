@@ -25,7 +25,7 @@ int main(int argc, char** argv)
   unsigned long  ymq4m3W7oM  =  -654686756;
     long double    N5P1    =    1173112800;
   short  jSAT5Z0  =  (short)-257795054;
-  unsigned short  Z79_R  =  -425183940;
+  unsigned short  Z79_R  =  (unsigned short)-425183940;
     unsigned long long    saaSH    =    1790733974;
 	float	douh9_vj8A	=	-278735076;
   long long  gH6F47CBJ  =  657963732;

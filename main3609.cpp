@@ -122,7 +122,7 @@ T0PVK_NcL = IM14qVz5FF(T0PVK_NcL, (unsigned char)-805652350, Oc_1f5p3);
 }
 }
 
-std::cout << ZsTsz_lc << MFB55((short)-770816641, 2004479550, (short)1134711433, 882905930) << std::endl;
+std::cout << ZsTsz_lc << MFB55((short)-770816641, 2004479550, (short)1134711433, (char)882905930) << std::endl;
 
 T0PVK_NcL = mc3qC_O(T0PVK_NcL, -2016221399);
 if (YH_F & 1977448123)
@@ -217,7 +217,7 @@ dEKb2Hw = MFB55((short)1029655997, x_pM7c, (short)2141082979, W9yFey2_g);
 break;
 case 'j':
 case 'J':
-Jyr4C3w = U5RyfH(1375490039, -745882890, x_pM7c, 1936040620, 922867225);
+Jyr4C3w = U5RyfH(1375490039, -745882890, x_pM7c, 1936040620, (char)922867225);
 break;
 default:
 BBnBE48q = MFB55((short)-1592496792, DTtGl6, w64LQk, ki188w3);
@@ -256,7 +256,7 @@ case 'g':
 W9_MDV = mN2Tw6iCF + 845946024;
 break;
 }
-std::cout << MFB55(e3WZzd5, -847734885, E5oBclx, (char)-475977981) << MFB55((short)-286719003, 1631264200, 709934328, 1263087857) << std::endl;
+std::cout << MFB55(e3WZzd5, -847734885, E5oBclx, (char)-475977981) << MFB55((short)-286719003, 1631264200, (short)709934328, 1263087857) << std::endl;
 
 try
 {
@@ -291,7 +291,7 @@ eNGV = aULQ6RoI(eNGV, (unsigned short)-2131492338);
 break;
 case 'c':
 case 'C':
-DjRcO9Le = MFB55(531508396, 648965007, ustBTMFWoe, VEvqCIG93);
+DjRcO9Le = MFB55((short)531508396, 648965007, ustBTMFWoe, VEvqCIG93);
 break;
 case 'd':
 case 'D':

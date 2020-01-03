@@ -23,7 +23,7 @@ short int    uk77(unsigned long long    oEyXta9B)
 
 int main(int argc, char** argv)
 {
-	char	Y299Ae	=	(char)1998734905,	AY9pHg	=	(char)-1589483504,	ZadxF	=	-280372417;
+	char	Y299Ae	=	(char)1998734905,	AY9pHg	=	(char)-1589483504,	ZadxF	=	(char)-280372417;
  short int NO375wb7 = 0, IN5rVPY = 0;
 
 std::cout << "DCF2D" << YBHoXD5() << std::endl;

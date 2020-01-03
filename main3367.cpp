@@ -45,7 +45,7 @@ int main(int argc, char** argv) {
     unsigned short int    e4w5;
     e4w5    =    (unsigned short)1825060088;
  short LXD4;
- LXD4 = 2084810493;
+ LXD4 = (short)2084810493;
   float  Pt4G;
   Pt4G  =  -314616468;
 

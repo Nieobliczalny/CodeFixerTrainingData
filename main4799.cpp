@@ -70,7 +70,7 @@ int main(void)
 	unsigned short int	cSGyx;
 	cSGyx	=	(unsigned short)-1442998145;
     char    K1eqi;
-    K1eqi    =    1449824324;
+    K1eqi    =    (char)1449824324;
  unsigned long ypykS;
  ypykS = 777674364;
   unsigned short int  ACvv8m;
@@ -80,7 +80,7 @@ int main(void)
 	unsigned short int	r6st0pO6c;
 	r6st0pO6c	=	(unsigned short)862830700;
  unsigned char NWaA;
- NWaA = -113751295;
+ NWaA = (unsigned char)-113751295;
  unsigned long long d_Xpoo;
  d_Xpoo = -1822468692;
 	unsigned char	xmBJfxt;

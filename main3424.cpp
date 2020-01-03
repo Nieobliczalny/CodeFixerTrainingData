@@ -336,7 +336,7 @@ XevCRH = PE65(1830129851, (short)-1475894701, 513148306, sB4r, (unsigned char)-1
 }
 else
 {
-WII7G2Wqe = C30K_(WII7G2Wqe, (unsigned short)1305630812, -329518699, -396824724);
+WII7G2Wqe = C30K_(WII7G2Wqe, (unsigned short)1305630812, (short)-329518699, -396824724);
 }
 }
 else if (f662y8D > h3RdSStQi)

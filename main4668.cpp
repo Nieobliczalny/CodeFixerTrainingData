@@ -23,7 +23,7 @@ int main(int argc, char** argv)
   short int  o8Ix4Sk31;
   o8Ix4Sk31  =  (short)-778370329;
  char r0nW;
- r0nW = -489396919;
+ r0nW = (char)-489396919;
  short int adI3M;
  adI3M = -1579965920;
  unsigned long w3D_5L9;

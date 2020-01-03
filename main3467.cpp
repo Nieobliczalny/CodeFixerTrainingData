@@ -30,7 +30,7 @@ int main() {
 	int	jHJ4a_S;
 	jHJ4a_S	=	-1072744927;
     unsigned short int    m78P0;
-    m78P0    =    -1474263767;
+    m78P0    =    (unsigned short)-1474263767;
 	char	e586_7Ln;
 	e586_7Ln	=	(char)-1510692093;
   double  i74TVEw;
@@ -164,7 +164,7 @@ int main() {
   char  SO0456;
   SO0456  =  (char)-2133895950;
  unsigned short iih3LHT;
- iih3LHT = 1325618506;
+ iih3LHT = (unsigned short)1325618506;
     unsigned char    G_KYjbA;
     G_KYjbA    =    -1680160892;
     short    TN79Rhox;

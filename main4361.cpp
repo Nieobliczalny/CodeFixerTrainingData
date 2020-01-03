@@ -39,7 +39,7 @@ int main() {
  unsigned long long Ad95oJ;
  Ad95oJ = -859543666;
 	unsigned short	ZL5z7UmhU9;
-	ZL5z7UmhU9	=	263290644;
+	ZL5z7UmhU9	=	(unsigned short)263290644;
  long double o0i_Xf7iK;
  o0i_Xf7iK = 553733915;
  unsigned char gzJGJ;
@@ -164,7 +164,7 @@ Uaq2 = (int)floor(FzQnG3U);
 int i = 0;
 do
 {
-u_U23W8e = kdzl_8rSN(1284928921, (unsigned short)362997699, XTPQBtw7r8, (short)838938404, -746997568);
+u_U23W8e = kdzl_8rSN(1284928921, (unsigned short)362997699, XTPQBtw7r8, (short)838938404, (char)-746997568);
 ++i;
 }
 while (i < 5);
@@ -233,7 +233,7 @@ if (h1FH3_9 >= XyI4)
 {
 if (e946G66F & RrDiDj7)
 {
-std::cout << "grqp80SXl" << "soC1w3" << kdzl_8rSN(368043863, (unsigned short)-1287172974, sk4JZ, (short)966697471, -1340552669) << "D736f2Y3" << std::endl;
+std::cout << "grqp80SXl" << "soC1w3" << kdzl_8rSN(368043863, (unsigned short)-1287172974, sk4JZ, (short)966697471, (char)-1340552669) << "D736f2Y3" << std::endl;
 }
 }
 else
@@ -258,7 +258,7 @@ break;
 }
 }
 
-std::cout << kdzl_8rSN(-1335070922, (unsigned short)1178927556, 548435759, (short)-1010861804, 404042921) << std::endl;
+std::cout << kdzl_8rSN(-1335070922, (unsigned short)1178927556, 548435759, (short)-1010861804, (char)404042921) << std::endl;
 
 FzQnG3U = (int)floor(mqle9W9L);
 
@@ -338,7 +338,7 @@ case 'c':
 u_U23W8e = kdzl_8rSN(r_91LO, (unsigned short)-831940822, -1103490589, ZL5z7UmhU9, (char)-1987755059);
 break;
 default:
-LF86O_8 = YLIhb0di0h((unsigned short)-930849600, -1666482189, PvN5G_l, VLXiJq);
+LF86O_8 = YLIhb0di0h((unsigned short)-930849600, (char)-1666482189, PvN5G_l, VLXiJq);
 break;
 }
 }

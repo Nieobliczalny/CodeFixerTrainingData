@@ -21,7 +21,7 @@ int main() {
     double    hP8__x4LV    =    -111581058;
     long double    GV495_    =    1491359934;
     unsigned short int    MT9U4fS    =    (unsigned short)452134534;
- unsigned short v7_49FzL_ = -1007252331;
+ unsigned short v7_49FzL_ = (unsigned short)-1007252331;
     long long    b6L3rdo    =    -1873195863;
     long    v3199Q    =    -412208238;
 	long double	ar3b3lM	=	-308556917;
@@ -44,7 +44,7 @@ int main() {
 	unsigned char	Zn4KB81YQ	=	(unsigned char)-1106255548;
 	float	RGpb6	=	-282795146;
 	char	Zv9VX7S8Q	=	(char)266432086;
-  char  Rpea97Lut  =  -1188461285;
+  char  Rpea97Lut  =  (char)-1188461285;
   unsigned char  v2VL_2_3y  =  1021763158;
   long double  L3UCXPq8  =  -1112676886;
 	char	Jp4WrZ	=	45626039;

@@ -195,7 +195,7 @@ case 'e':
 HXKQ5z10 = K6eDRrJp((char)702996275);
 break;
 case 'f':
-S01471DDs = p_K_l(HXKQ5z10, 1562957363, leP5P3) * w1WlQ;
+S01471DDs = p_K_l(HXKQ5z10, (unsigned short)1562957363, leP5P3) * w1WlQ;
 break;
 case 'g':
 tM06N70t ^= nE_8;
@@ -771,7 +771,7 @@ LT0Q = (long long)(t8CU8_iY);
 switch (A815)
 {
 case 0:
-Ym8M1jH = THJLNKBiU(t8CU8_iY, (short)2122879831, -627473270);
+Ym8M1jH = THJLNKBiU(t8CU8_iY, (short)2122879831, (unsigned short)-627473270);
 break;
 case 1:
 l84mb = (int)abs(YO9B);

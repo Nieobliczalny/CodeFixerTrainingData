@@ -83,7 +83,7 @@ int main()
  unsigned char r4QMvmB1;
  r4QMvmB1 = (unsigned char)1479727120;
     unsigned short int    qFQY;
-    qFQY    =    1432579325;
+    qFQY    =    (unsigned short)1432579325;
   unsigned short int  o8XTsQb5;
   o8XTsQb5  =  -349733183;
     long long    H1v00xmrx;
@@ -131,7 +131,7 @@ int main()
   char  DM4i02R1a;
   DM4i02R1a  =  (char)228278337;
   short int  RD16ryJO7;
-  RD16ryJO7  =  905504337;
+  RD16ryJO7  =  (short)905504337;
  long CDAdVb7u;
  CDAdVb7u = -1959012119;
     double    T_98_s0YV;
@@ -167,7 +167,7 @@ int main()
     unsigned char    F9Lw6F0;
     F9Lw6F0    =    (unsigned char)-1367668659;
   unsigned char  hiMpF2tF;
-  hiMpF2tF  =  -170828712;
+  hiMpF2tF  =  (unsigned char)-170828712;
  long double gv5a82E6;
  gv5a82E6 = 421823049;
  int g_7o7;

@@ -71,7 +71,7 @@ int main(int argc, char** argv) {
 	short	w5oQ693;
 	w5oQ693	=	(short)980117248;
   char  E2E9uu;
-  E2E9uu  =  1525128504;
+  E2E9uu  =  (char)1525128504;
     char    g3qb;
     g3qb    =    (char)-392891812;
 	short	R55m;
@@ -175,7 +175,7 @@ int main(int argc, char** argv) {
  unsigned char H2cm3P28N;
  H2cm3P28N = (unsigned char)-349785179;
 	unsigned char	a2qo32W;
-	a2qo32W	=	-868041743;
+	a2qo32W	=	(unsigned char)-868041743;
 
 if (((LE1LJ == ic1Cd) && (qNIJH == -1914722062)) || ((QjiIYo2wsn == -341567729) || (XM3BpfjR != ic1Cd)))
 {

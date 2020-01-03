@@ -88,7 +88,7 @@ case 'a':
 Wrvr8bJ5z = viZ231((unsigned short)-511887141, (unsigned short)1708706904, T2ae607, -1656078948, gw0SM);
 break;
 case 'b':
-YSgKfPZ102 = viZ231((unsigned short)-2676958, -774172736, -1788163973, jw3QYeSh5, -809080383);
+YSgKfPZ102 = viZ231((unsigned short)-2676958, (unsigned short)-774172736, -1788163973, jw3QYeSh5, -809080383);
 break;
 default:
 gw0SM = (int)abs(Uq_SmL8YQj);
@@ -107,7 +107,7 @@ jw3QYeSh5 ^= 1944967291;
 }
 if ((Uq_SmL8YQj >= -866379207) && ((T2ae607 > 70557634) || (T2ae607 == 690383598)))
 {
-Wrvr8bJ5z = viZ231(Wrvr8bJ5z, (unsigned short)507706234, 1826446592, 109775062, -608673194);
+Wrvr8bJ5z = viZ231(Wrvr8bJ5z, (unsigned short)507706234, (unsigned char)1826446592, 109775062, -608673194);
 }
 Wrvr8bJ5z = viZ231((unsigned short)1304652192, Wrvr8bJ5z, (unsigned char)-443454178, YSgKfPZ102, MD7sil);
 MD7sil = (unsigned int)(Wrvr8bJ5z);
@@ -144,7 +144,7 @@ case 3:
 MD7sil = viZ231(jw3QYeSh5, Uq_SmL8YQj, MD7sil, Wrvr8bJ5z, YSgKfPZ102);
 break;
 case 4:
-YSgKfPZ102 = viZ231(132386654, jw3QYeSh5, 2046052303, MD7sil, -1784609083);
+YSgKfPZ102 = viZ231((unsigned short)132386654, jw3QYeSh5, 2046052303, MD7sil, -1784609083);
 break;
 default:
 jw3QYeSh5--;
@@ -273,7 +273,7 @@ case 'b':
 Wrvr8bJ5z = viZ231((unsigned short)960555546, (unsigned short)636414968, (unsigned char)1909978005, -388369306, MD7sil);
 break;
 case 'c':
-Wrvr8bJ5z = viZ231(jw3QYeSh5, -841519410, Wrvr8bJ5z, 438712703, 1538491897);
+Wrvr8bJ5z = viZ231(jw3QYeSh5, (unsigned short)-841519410, Wrvr8bJ5z, 438712703, 1538491897);
 break;
 case 'd':
 T2ae607 &= 653373698;
@@ -293,7 +293,7 @@ break;
 }
 
 std::cout << "ieb07N6" << MD7sil << viZ231((unsigned short)-1835337333, (unsigned short)-1084197362, T2ae607, -1743512743, -1069424787) << "Kas_MHja" << "yv_517llx" << std::endl;
-YSgKfPZ102 = viZ231((unsigned short)-1508189059, -1303947157, Wrvr8bJ5z, Uq_SmL8YQj, gw0SM);
+YSgKfPZ102 = viZ231((unsigned short)-1508189059, (unsigned short)-1303947157, Wrvr8bJ5z, Uq_SmL8YQj, gw0SM);
 T2ae607 = jw3QYeSh5 ^ gw0SM;
 
 {
@@ -333,7 +333,7 @@ case 2:
 YSgKfPZ102 = viZ231((unsigned short)454053861, YSgKfPZ102, (unsigned char)320090541, jw3QYeSh5, Uq_SmL8YQj);
 break;
 case 3:
-Wrvr8bJ5z = viZ231(-99389575, -1359272099, YSgKfPZ102, gw0SM, MD7sil);
+Wrvr8bJ5z = viZ231((unsigned short)-99389575, -1359272099, YSgKfPZ102, gw0SM, MD7sil);
 break;
 case 4:
 gw0SM = (int)abs(Uq_SmL8YQj);

@@ -69,7 +69,7 @@ int main(void)
   unsigned long  ZZ_125gQ0;
   ZZ_125gQ0  =  546716451;
     unsigned short    O7a6_E;
-    O7a6_E    =    340096599;
+    O7a6_E    =    (unsigned short)340096599;
  unsigned short vHqX9;
  vHqX9 = (unsigned short)-1759466921;
     short    G5Zm5;

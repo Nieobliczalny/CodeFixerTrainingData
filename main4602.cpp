@@ -100,7 +100,7 @@ int main(void) {
 	char	u1BhvrB_KL;
 	u1BhvrB_KL	=	(char)-1378887027;
 	char	EIRFg6;
-	EIRFg6	=	-1678606708;
+	EIRFg6	=	(char)-1678606708;
  char syV6y7nV78;
  syV6y7nV78 = (char)1967819198;
  unsigned long H1tP;
@@ -128,7 +128,7 @@ int main(void) {
     long double    A122;
     A122    =    1903313398;
 
-syV6y7nV78 = h9E8F((unsigned short)-1492184221, E2vH, -216735737, 1390805469);
+syV6y7nV78 = h9E8F((unsigned short)-1492184221, E2vH, (unsigned short)-216735737, 1390805469);
 switch (Tk6ea)
 {
 case 0:
@@ -257,7 +257,7 @@ case 'e':
 k3q2H /= H1tP;
 break;
 case 'f':
-D_U2r = h9E8F((unsigned short)635355634, (short)1338689133, (unsigned short)-310964770, 1003228515);
+D_U2r = h9E8F((unsigned short)635355634, (short)1338689133, (unsigned short)-310964770, (unsigned short)1003228515);
 break;
 case 'g':
 Ju25_ = h9E8F(Ju25_, s_6k, -1414687775, -291590118);
@@ -270,7 +270,7 @@ A122 = (int)floor(pO5642h0cf);
 
 for (int i = 10; i >= 0; --i)
 {
-std::cout << j_wOGL3(-1011587253, (unsigned short)-1820621285, (short)-1718237964, u1BhvrB_KL) << "aF9Qz" << j_wOGL3(554215716, (unsigned short)501124086, 2084294963, 1309432320) << std::endl;
+std::cout << j_wOGL3(-1011587253, (unsigned short)-1820621285, (short)-1718237964, u1BhvrB_KL) << "aF9Qz" << j_wOGL3(554215716, (unsigned short)501124086, (short)2084294963, 1309432320) << std::endl;
 }
 YxS68 = (unsigned short)(A122);
 {

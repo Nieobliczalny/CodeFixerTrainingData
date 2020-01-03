@@ -344,7 +344,7 @@ case 0:
 M848 = kJvmiT8cZr((unsigned short)1200541197, XZJB, (char)227942025, t3UQ);
 break;
 case 1:
-ngX4m4 = kJvmiT8cZr((unsigned short)-1057671951, XZJB, -1098812694, T9yIrwV7_);
+ngX4m4 = kJvmiT8cZr((unsigned short)-1057671951, XZJB, (char)-1098812694, T9yIrwV7_);
 break;
 case 2:
 uf2a61050t = u68w ^ 25786199;

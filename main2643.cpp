@@ -99,7 +99,7 @@ int main(int argc, char** argv)
 	unsigned char	Uhtg7ver;
 	Uhtg7ver	=	(unsigned char)1967949641;
     unsigned short    l5LAzf_u3;
-    l5LAzf_u3    =    -513017308;
+    l5LAzf_u3    =    (unsigned short)-513017308;
 	unsigned int	UKus9;
 	UKus9	=	-1648545336;
     unsigned long long    je4I2NKBs;

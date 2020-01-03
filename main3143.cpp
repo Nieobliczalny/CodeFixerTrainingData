@@ -58,7 +58,7 @@ s4l401w7 = RugQq((unsigned short)-2098542030, -1285463372, AdJ370G, -782275078, 
 break;
 case 'b':
 case 'B':
-s4l401w7 = RugQq(-2093587935, -21538021, AdJ370G, -701404941, 373387935);
+s4l401w7 = RugQq((unsigned short)-2093587935, -21538021, AdJ370G, -701404941, 373387935);
 break;
 case 'c':
 case 'C':
@@ -213,7 +213,7 @@ s4l401w7 = YXV274N((short)-519011037, AdJ370G, m2C3o9s28) + AdJ370G;
 break;
 case 'b':
 case 'B':
-s4l401w7 = nxiJ8NvQx((unsigned short)516578151, s4l401w7, AdJ370G, (short)-1121897570, -987341500);
+s4l401w7 = nxiJ8NvQx((unsigned short)516578151, s4l401w7, AdJ370G, (short)-1121897570, (unsigned short)-987341500);
 break;
 case 'c':
 case 'C':
@@ -511,7 +511,7 @@ AdJ370G = nxiJ8NvQx((unsigned short)-1455144780, AdJ370G, s4l401w7, (short)-1117
 break;
 case 'd':
 case 'D':
-AdJ370G = RugQq(AdJ370G, m2C3o9s28, s4l401w7, -1653444249, 104019493);
+AdJ370G = RugQq(AdJ370G, m2C3o9s28, s4l401w7, -1653444249, (unsigned short)104019493);
 break;
 case 'e':
 case 'E':

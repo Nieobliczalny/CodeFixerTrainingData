@@ -14,7 +14,7 @@ unsigned short    yekzn85()
 
 int main() {
   short  pyu4u0_i  =  0,  EMEM5  =  0,  RvDO  =  0;
-	unsigned short int	WG1S86	=	(unsigned short)1107388870,	Q2D3EVN999	=	(unsigned short)1245990881,	iT0184Hq3A	=	(unsigned short)-61376243,	wft6Sh9	=	-705613990;
+	unsigned short int	WG1S86	=	(unsigned short)1107388870,	Q2D3EVN999	=	(unsigned short)1245990881,	iT0184Hq3A	=	(unsigned short)-61376243,	wft6Sh9	=	(unsigned short)-705613990;
 
 EMEM5 = yekzn85();
 

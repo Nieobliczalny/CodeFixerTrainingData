@@ -585,7 +585,7 @@ e_3Ot8O = GwI6((char)-1282440504, x73H9Y_04D);
 }
 else
 {
-xOn1kwPXq = OoPZS100U(xOn1kwPXq, CvEF, -1026375373);
+xOn1kwPXq = OoPZS100U(xOn1kwPXq, CvEF, (unsigned short)-1026375373);
 }
 }
 else

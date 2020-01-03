@@ -42,7 +42,7 @@ int main(int argc, char** argv)
     unsigned char    TUF4N;
     TUF4N    =    (unsigned char)-1505183843;
   unsigned short  mIU_0_x;
-  mIU_0_x  =  -195675174;
+  mIU_0_x  =  (unsigned short)-195675174;
 	int	tS0wRli;
 	tS0wRli	=	1377067921;
  short int NeB7b11mRl;
@@ -100,7 +100,7 @@ int main(int argc, char** argv)
     unsigned char    K4ZdaxhY;
     K4ZdaxhY    =    (unsigned char)2099901741;
     short int    P6YySt4;
-    P6YySt4    =    360928439;
+    P6YySt4    =    (short)360928439;
     long    dHpB;
     dHpB    =    107056854;
   int  P86mYeuof5;
@@ -140,7 +140,7 @@ int main(int argc, char** argv)
     int    F_gDl;
     F_gDl    =    -196097774;
   unsigned short  wHt36baY;
-  wHt36baY  =  766826474;
+  wHt36baY  =  (unsigned short)766826474;
   long long  d4Ol;
   d4Ol  =  0;
   short  LoOT;

@@ -23,7 +23,7 @@ int main(int argc, char** argv)
 	unsigned short int	cHIG8P;
 	cHIG8P	=	(unsigned short)-2003562352;
     unsigned short    E6tjQrN2;
-    E6tjQrN2    =    -507207381;
+    E6tjQrN2    =    (unsigned short)-507207381;
  double Bhkx7H;
  Bhkx7H = -62470650;
  unsigned long s_JLUYg;

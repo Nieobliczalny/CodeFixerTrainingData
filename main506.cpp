@@ -34,7 +34,7 @@ int main(void) {
 	unsigned char	Pk73igC;
 	Pk73igC	=	(unsigned char)374003840;
   unsigned short int  jMyNCF;
-  jMyNCF  =  1193486837;
+  jMyNCF  =  (unsigned short)1193486837;
     int    DKp5s;
     DKp5s    =    320915475;
 	char	Jdqpm0;
@@ -78,7 +78,7 @@ int main(void) {
     short    I8wb6;
     I8wb6    =    (short)-1291873039;
 	unsigned short int	hgSUF8albg;
-	hgSUF8albg	=	1043641886;
+	hgSUF8albg	=	(unsigned short)1043641886;
   long  CzdhA7_NH;
   CzdhA7_NH  =  -1915080497;
   float  Y9a96H5;
@@ -132,7 +132,7 @@ int main(void) {
 	unsigned short int	Rk6qzlvyq;
 	Rk6qzlvyq	=	(unsigned short)1068824641;
     unsigned short int    xu1VZ;
-    xu1VZ    =    -437968741;
+    xu1VZ    =    (unsigned short)-437968741;
 	char	kB5UX2kd;
 	kB5UX2kd	=	(char)-340623135;
 	unsigned long	DLp_bWWr7;
@@ -162,7 +162,7 @@ int main(void) {
  char RO9Gj7;
  RO9Gj7 = (char)-706871210;
 	char	pD2_6Nt__;
-	pD2_6Nt__	=	1879601999;
+	pD2_6Nt__	=	(char)1879601999;
  int oylC_peo;
  oylC_peo = -1390568695;
     unsigned char    L4s6ZTn_z5;
@@ -318,7 +318,7 @@ j++;
 while (j < 3);
 }
 }
-c9nfjW = DhKTYhX(927404452, (char)-1846699422, Y9a96H5, -414818354, 424098916);
+c9nfjW = DhKTYhX(927404452, (char)-1846699422, Y9a96H5, (short)-414818354, 424098916);
 
 {
 int i = 0;
@@ -363,7 +363,7 @@ c9nfjW = DhKTYhX(-1751356544, (char)283565025, wua_YW53, (short)-233092311, 1483
 }
 for (int i = 0; i < 9; ++i)
 {
-std::cout << VpOL923mI << "kgQrhLhjyT" << "wM_Q9" << DhKTYhX(511389147, (char)1047663734, 319603077, -712514847, Ac2HlFHat7) << h6v67 << std::endl;
+std::cout << VpOL923mI << "kgQrhLhjyT" << "wM_Q9" << DhKTYhX(511389147, (char)1047663734, (char)319603077, -712514847, Ac2HlFHat7) << h6v67 << std::endl;
 }
 
 p5o3X8fF = DhKTYhX(u95_SHEO, 1938696016, wua_YW53, w8ikY, -1192389005) / DhKTYhX(1383174078, VpOL923mI, wua_YW53, w8ikY, Ac2HlFHat7);
@@ -427,7 +427,7 @@ case 'c':
 CzdhA7_NH |= 1749620389;
 break;
 case 'd':
-Xomo_2ZFSR = DhKTYhX(uSEih, (char)-1911109373, (char)1412178768, -927459523, -1941187426);
+Xomo_2ZFSR = DhKTYhX(uSEih, (char)-1911109373, (char)1412178768, (short)-927459523, -1941187426);
 break;
 case 'e':
 zAiqH9j5jh = DhKTYhX(Ac2HlFHat7, (char)-1404269182, 1047439849, -1982434695, -778060010);

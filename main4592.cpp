@@ -37,7 +37,7 @@ int main(int argc, char** argv) {
     unsigned short    Ve9147iNeF;
     Ve9147iNeF    =    (unsigned short)975470940;
 	char	AsA41;
-	AsA41	=	587899463;
+	AsA41	=	(char)587899463;
 	short int	npw4;
 	npw4	=	820083558;
     unsigned short int    v8O3WT57J6;
@@ -117,7 +117,7 @@ int main(int argc, char** argv) {
  char Fjm97pNu;
  Fjm97pNu = (char)1751213603;
   unsigned short  NP3k9L2;
-  NP3k9L2  =  1472746866;
+  NP3k9L2  =  (unsigned short)1472746866;
 	unsigned short int	ntQG80AZD;
 	ntQG80AZD	=	1935892672;
     long double    c7XRRx06R1;
@@ -133,7 +133,7 @@ int main(int argc, char** argv) {
 	unsigned short	X2t9d;
 	X2t9d	=	(unsigned short)1816286698;
     char    vsCC4Uot00;
-    vsCC4Uot00    =    -859853255;
+    vsCC4Uot00    =    (char)-859853255;
     char    aHs47R8Z;
     aHs47R8Z    =    (char)937999833;
     long double    y1tg1a;
@@ -147,7 +147,7 @@ int main(int argc, char** argv) {
  char w_9T0D2fyK;
  w_9T0D2fyK = (char)-782177132;
     unsigned short    hB6CrxW;
-    hB6CrxW    =    -972003481;
+    hB6CrxW    =    (unsigned short)-972003481;
     int    NfD49zhm9M;
     NfD49zhm9M    =    1532824433;
  unsigned short p75B;
@@ -167,7 +167,7 @@ try
 {
 if (hB6CrxW >= FDh8_zk)
 {
-cout << mcH98Eu56((short)-1984640248, H8039, (char)1747304548, (unsigned short)-583775786, -728959365) << EVzw6W43 << endl;
+cout << mcH98Eu56((short)-1984640248, H8039, (char)1747304548, (unsigned short)-583775786, (unsigned short)-728959365) << EVzw6W43 << endl;
 }
 }
 catch (int& errorCode)
@@ -205,7 +205,7 @@ case 5:
 YpeXO3 = (int)floor(y1tg1a);
 break;
 case 6:
-tPnWAyw5Ae = aXg_8HmFF(V3Z50Dl, (char)-1304171781, (short)-581821854, (short)-212021426, -772504724);
+tPnWAyw5Ae = aXg_8HmFF(V3Z50Dl, (char)-1304171781, (short)-581821854, (short)-212021426, (short)-772504724);
 break;
 case 7:
 NP3k9L2 = UD9Qd850(849811844);
@@ -284,7 +284,7 @@ else if (((v8O3WT57J6 < ATKP3Fz5C) && (Kw6F != ATKP3Fz5C)) || (hB6CrxW != Wn_pf)
 {
 if (((TzhN_66rA <= Ve9147iNeF) && (cB5_5Y > ATKP3Fz5C)) || (zZj775xz <= -55655332))
 {
-CZr9bP = mcH98Eu56((short)-646776244, OWMe0m, -962090973, -1271367178, EVzw6W43);
+CZr9bP = mcH98Eu56((short)-646776244, OWMe0m, (char)-962090973, -1271367178, EVzw6W43);
 }
 else
 {

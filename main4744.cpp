@@ -69,7 +69,7 @@ int main(void)
 
 if (K5QvWfr((unsigned short)717224542, (unsigned char)1765055153) == 0)
 {
-	dv7NvSsC_ = H0MA(hR0b2LIu) / K5QvWfr((unsigned short)717224542, 1765055153);
+	dv7NvSsC_ = H0MA(hR0b2LIu) / K5QvWfr((unsigned short)717224542, (unsigned char)1765055153);
 }
 
 if (Y49u == 1157030326)

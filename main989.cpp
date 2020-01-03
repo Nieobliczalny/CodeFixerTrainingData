@@ -47,7 +47,7 @@ int main(int argc, char** argv) {
 	unsigned char	ReXMz6;
 	ReXMz6	=	(unsigned char)738289722;
 	char	ro_rCHA5FR;
-	ro_rCHA5FR	=	-2025353119;
+	ro_rCHA5FR	=	(char)-2025353119;
 	long	W_aH47lTAI;
 	W_aH47lTAI	=	1523649952;
   float  B0DT0;
@@ -82,7 +82,7 @@ if (gkwq86ad75(-1429398564, 620138292, ro_rCHA5FR, (unsigned short)-572194062, f
 	ReXMz6 = 1489639173 / gkwq86ad75(-1429398564, 620138292, ro_rCHA5FR, (unsigned short)-572194062, fxki91xcO);
 }
 
-std::cout << gkwq86ad75(1876468069, -718940121, (short)1692571592, -1090675713, fxki91xcO) << "n_JV8B6jfv" << lElfEpY_(Y9QCfHi78T, Z7_hJfjKx7) << "K56dDvL" << HOlrT2S8T << std::endl;
+std::cout << gkwq86ad75(1876468069, -718940121, (short)1692571592, (unsigned short)-1090675713, fxki91xcO) << "n_JV8B6jfv" << lElfEpY_(Y9QCfHi78T, Z7_hJfjKx7) << "K56dDvL" << HOlrT2S8T << std::endl;
 {
 int i = 9;
 while (i >= 0)

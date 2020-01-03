@@ -308,7 +308,7 @@ CP5x %= 502316416;
 }
 else
 {
-SEM82ExMq = wF8XCal((unsigned short)-2034623626, cNm_1iHR, (unsigned char)1725509226, (unsigned char)1311913971, 1747566210);
+SEM82ExMq = wF8XCal((unsigned short)-2034623626, cNm_1iHR, (unsigned char)1725509226, (unsigned char)1311913971, (unsigned short)1747566210);
 }
 }
 else

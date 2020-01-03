@@ -61,7 +61,7 @@ int main()
 	unsigned short	Iz07;
 	Iz07	=	(unsigned short)-1302165937;
   short  a4n823vEaL;
-  a4n823vEaL  =  -776118820;
+  a4n823vEaL  =  (short)-776118820;
   unsigned short int  U_QLP6n17;
   U_QLP6n17  =  (unsigned short)-452269939;
     char    TVZc8hZYy2;
@@ -85,7 +85,7 @@ int main()
     unsigned short int    KLCq;
     KLCq    =    (unsigned short)1104253844;
 	unsigned short int	GJDAfc_Q_;
-	GJDAfc_Q_	=	469011687;
+	GJDAfc_Q_	=	(unsigned short)469011687;
 	short	E749wo;
 	E749wo	=	(short)1366179411;
 	long long	XR1N_sP;

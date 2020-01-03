@@ -101,7 +101,7 @@ case 6:
 y8b152_ = VWj19R(y8b152_, gsO5, (unsigned char)1146616695);
 break;
 case 7:
-gc6wf6_m = VWj19R((unsigned short)-158560406, Av7kevIAu, -1218586698);
+gc6wf6_m = VWj19R((unsigned short)-158560406, Av7kevIAu, (unsigned char)-1218586698);
 break;
 case 8:
 y8b152_ = VWj19R(-2029787472, alJ184_r, IYbgNRd);

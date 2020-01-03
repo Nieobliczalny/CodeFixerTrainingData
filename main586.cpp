@@ -142,7 +142,7 @@ int main() {
     unsigned short    nh18QmD;
     nh18QmD    =    (unsigned short)2132000321;
     char    ajGNG885zq;
-    ajGNG885zq    =    1551512675;
+    ajGNG885zq    =    (char)1551512675;
   float  M1DAt;
   M1DAt  =  1965150468;
 	int	j8tLSL1_;

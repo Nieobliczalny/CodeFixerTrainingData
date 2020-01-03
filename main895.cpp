@@ -36,7 +36,7 @@ int main(int argc, char** argv) {
  short zsCFfJTy2;
  zsCFfJTy2 = (short)-667715524;
     unsigned char    YvnoP9;
-    YvnoP9    =    1031656885;
+    YvnoP9    =    (unsigned char)1031656885;
  long long MQ_EZYlQB;
  MQ_EZYlQB = -1715111332;
 	unsigned char	B34w0A;

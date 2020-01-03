@@ -41,7 +41,7 @@ int main(void)
     unsigned short int    bLehU    =    0;
     unsigned char    ciZcgXHXJX    =    (unsigned char)1252815047;
     unsigned short int    Xg8JzU9s    =    0;
-	short	Nk8A	=	1872890219;
+	short	Nk8A	=	(short)1872890219;
 	short	i6_9qt	=	0;
 
 ZC42V = (unsigned char)(y23R4);
@@ -312,7 +312,7 @@ ZC42V = xV_FqE4(ZC42V, 1615573740, (short)504266003, 1522057694);
 }
 else
 {
-i6_9qt = y2G24ILbBB(899836114, (short)-1460679498, Nk8A, (unsigned short)156851592, 37184881);
+i6_9qt = y2G24ILbBB(899836114, (short)-1460679498, Nk8A, (unsigned short)156851592, (unsigned char)37184881);
 }
 }
 }

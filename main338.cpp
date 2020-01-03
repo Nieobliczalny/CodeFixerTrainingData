@@ -16,7 +16,7 @@ int main()
   qhfx_  =  (short)127464710;
   Phs6Ah70V8  =  (short)-1808894106;
   lZn5EgswV3  =  (short)-47624533;
-  foHP  =  -224819136;
+  foHP  =  (short)-224819136;
   R7b9TLGkR  =  1143843446;
   C90FHe  =  -1781176585;
   qya45pyLDg  =  1247215600;
@@ -26,7 +26,7 @@ int main()
   kO9t8y  =  (short)1675061780;
   MQ84Pw7  =  (short)749941802;
   nA52k  =  (short)254028517;
-  e41ijJJ5z  =  -525394114;
+  e41ijJJ5z  =  (short)-525394114;
   eyM1  =  -1256872872;
   jB87H9  =  1732986696;
   z87uHL7Kx  =  2062650778;
@@ -36,7 +36,7 @@ int main()
   oqG4i097k  =  (short)-1394974132;
   u3c0  =  (short)727704186;
   ut5i  =  (short)-986196654;
-  xQdX2  =  -1826008587;
+  xQdX2  =  (short)-1826008587;
   biaq3qc_L  =  -1276199467;
   J31jl6Xa  =  -832048939;
   L5Cifu  =  1906864446;
@@ -46,7 +46,7 @@ int main()
   DF8EA3Aq  =  (short)1866868941;
   cvu5J  =  (short)285090991;
   Xz9xa  =  (short)1333811037;
-  fQ47  =  -1787678122;
+  fQ47  =  (short)-1787678122;
   bIta  =  2074728115;
   Y7y2  =  1040399129;
   sNM7l5l  =  -340827823;
@@ -56,7 +56,7 @@ int main()
   RDlhR8cEM  =  (short)-1391708379;
   TGq815HEU  =  (short)1428171196;
   T2x0F  =  (short)-1304560200;
-  hk1V57C  =  -215475191;
+  hk1V57C  =  (short)-215475191;
   SUmGjTdO  =  -1346789972;
   uhL2rKr  =  -782318663;
   zj_w  =  247768919;
@@ -66,7 +66,7 @@ int main()
   H1_Rf  =  (short)974861866;
   UHN18_7  =  (short)-462671952;
   i8991B4yM  =  (short)-1456083175;
-  u7X72WR  =  -775408808;
+  u7X72WR  =  (short)-775408808;
   vmRy  =  -2036052043;
   hAeE2d  =  1771040060;
   X9s1M_w7L  =  1445144319;
@@ -102,7 +102,7 @@ t_3KF3PP = (int)abs(aJW3Dp);
 
 if ((-2035539129 / iR2g81g5vh((unsigned char)-420401215, (unsigned char)1302179300)) >= 1377244692)
 {
-i_bY1 = z87uHL7Kx / iR2g81g5vh((unsigned char)-709081629, 387491424);
+i_bY1 = z87uHL7Kx / iR2g81g5vh((unsigned char)-709081629, (unsigned char)387491424);
 }
 hk1V57C = (int)abs(DF8EA3Aq);
 switch (H1_Rf)
@@ -320,7 +320,7 @@ GM9Lp = iR2g81g5vh(UHN18_7, (unsigned char)1305882645);
 break;
 case 'f':
 case 'F':
-GM9Lp = iR2g81g5vh((unsigned char)709031018, 1358233725);
+GM9Lp = iR2g81g5vh((unsigned char)709031018, (unsigned char)1358233725);
 break;
 case 'g':
 case 'G':
@@ -361,7 +361,7 @@ case 3:
 GM9Lp = iR2g81g5vh((unsigned char)-420350223, lZn5EgswV3);
 break;
 case 4:
-GM9Lp = iR2g81g5vh(541242879, t_3KF3PP);
+GM9Lp = iR2g81g5vh((unsigned char)541242879, t_3KF3PP);
 break;
 case 5:
 GM9Lp = iR2g81g5vh((unsigned char)1579161132, foHP);

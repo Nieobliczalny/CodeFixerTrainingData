@@ -29,7 +29,7 @@ int main(int argc, char** argv)
 	long	P6g99RyM;
 	P6g99RyM	=	2137744487;
     unsigned short int    P32X3nN;
-    P32X3nN    =    -1723459416;
+    P32X3nN    =    (unsigned short)-1723459416;
     unsigned long    WjA27i584_;
     WjA27i584_    =    0;
 	unsigned short	X46ur2hKf;
@@ -41,7 +41,7 @@ int main(int argc, char** argv)
     short    ay_fo_GlX;
     ay_fo_GlX    =    (short)1494879311;
     unsigned char    GHJgC;
-    GHJgC    =    -733996924;
+    GHJgC    =    (unsigned char)-733996924;
 	unsigned int	Fq7iSXc4t;
 	Fq7iSXc4t	=	1108158434;
     long double    NicCxnn;

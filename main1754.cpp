@@ -206,7 +206,7 @@ while (j < 3);
 std::cout << TheDq517(-1044540926, adDk, nYCrE30zi) << Yk78mqv6 << ral4ve() << ral4ve() << std::endl;
 if (TheDq517(kMd3JBz, (unsigned char)-999094663, (unsigned char)-576767328) == 0)
 {
-	h082e = x6JSuEX_u / TheDq517(kMd3JBz, (unsigned char)-999094663, -576767328);
+	h082e = x6JSuEX_u / TheDq517(kMd3JBz, (unsigned char)-999094663, (unsigned char)-576767328);
 }
 
 G__s100lf8 = b6Q0 * salJXv2Q;

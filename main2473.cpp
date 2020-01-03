@@ -26,7 +26,7 @@ int main() {
  unsigned long long eq99 = 1347304442;
  long j_5j07 = 804079435;
     short    BkR04    =    (short)268494168;
-  short  CTnw  =  -1252241493;
+  short  CTnw  =  (short)-1252241493;
     unsigned int    MjayGm3    =    -1447579811;
  int uo5l8 = -1818315584;
     short int    Mti2W_    =    0;

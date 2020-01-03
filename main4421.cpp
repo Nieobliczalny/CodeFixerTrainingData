@@ -100,7 +100,7 @@ case 'a':
 OawN = noto26q * yx5y7U01H2;
 break;
 case 'b':
-pNR_d = ZT8xt41((unsigned short)1256745486, -1264389019, 1719373873, V73p);
+pNR_d = ZT8xt41((unsigned short)1256745486, (unsigned char)-1264389019, 1719373873, V73p);
 break;
 case 'c':
 pNR_d = K_9h(pNR_d, (char)-1747477264);
@@ -160,7 +160,7 @@ S216f = ZT8xt41((unsigned short)-1531734950, (unsigned char)1573202277, 18932069
 switch (a44Bsr4)
 {
 case 0:
-Uwmk78IW = ZT8xt41((unsigned short)-1385972144, -280078524, 1862940299, aT83);
+Uwmk78IW = ZT8xt41((unsigned short)-1385972144, (unsigned char)-280078524, 1862940299, aT83);
 break;
 case 1:
 U4NAhqI = (int)abs(SiVFyO);

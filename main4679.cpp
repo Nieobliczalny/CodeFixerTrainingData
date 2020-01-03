@@ -31,7 +31,7 @@ int main() {
     long long    K36Kes29i4    =    736688074;
 	short	N73G	=	(short)1384104924;
     short    GehNh90xl    =    (short)-451751758;
-  short int  tG4C  =  -909787717;
+  short int  tG4C  =  (short)-909787717;
   long  nE_7  =  1110339755;
   short int  H2KI  =  1302066806;
 	char	axcUIYg6	=	-812981053;
@@ -55,7 +55,7 @@ int main() {
   long  dW20S6NNY  =  -1885827604;
   unsigned short  rh_Js5i9  =  (unsigned short)1553673936;
 	long long	AdI70	=	0;
-    short    AMW92    =    2060890700;
+    short    AMW92    =    (short)2060890700;
 	unsigned long long	KpQ6aYc	=	-792993219;
     int    VV9SwR8o5F    =    98119818;
  short H__5VP0 = (short)-1092196124;
@@ -292,7 +292,7 @@ case 2:
 BkK92 = QPvv8Ns(BkK92, iA43, (unsigned short)229612437, (char)-675223113, (char)-973237730);
 break;
 case 3:
-eUe3Kw7M0 = jBO4(362781296, -1431915296, dW20S6NNY) - 1076649029;
+eUe3Kw7M0 = jBO4(362781296, (unsigned short)-1431915296, dW20S6NNY) - 1076649029;
 break;
 case 4:
 GX4Eq8_X = ZH8av6(-1556723509);
@@ -473,7 +473,7 @@ if (((eUe3Kw7M0 == EaOVxo) || (tG4C > L4283F)) && ((dW20S6NNY <= L4283F) && (AMW
 {
 for (int j = 10; j >= 0; j--)
 {
-cout << QPvv8Ns(m5i6Hvl9W2, AdI70, (unsigned short)-564303014, (char)1075387618, GX4Eq8_X) << AMW92 << "w_vF" << QPvv8Ns(m5i6Hvl9W2, (unsigned short)565877792, 1594123668, eUe3Kw7M0, GX4Eq8_X) << endl;
+cout << QPvv8Ns(m5i6Hvl9W2, AdI70, (unsigned short)-564303014, (char)1075387618, GX4Eq8_X) << AMW92 << "w_vF" << QPvv8Ns(m5i6Hvl9W2, (unsigned short)565877792, (unsigned short)1594123668, eUe3Kw7M0, GX4Eq8_X) << endl;
 }
 }
 

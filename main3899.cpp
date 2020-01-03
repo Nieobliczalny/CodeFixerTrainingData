@@ -145,7 +145,7 @@ int main() {
   unsigned long  u1_QP;
   u1_QP  =  678924560;
   unsigned char  BxoYji4a4;
-  BxoYji4a4  =  -1556230972;
+  BxoYji4a4  =  (unsigned char)-1556230972;
     unsigned int    n2825Df;
     n2825Df    =    -5600094;
 	unsigned long long	dzeZ2ReM;

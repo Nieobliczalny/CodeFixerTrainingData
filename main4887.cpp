@@ -35,7 +35,7 @@ int main(int argc, char** argv)
     unsigned short    n8RfY1zxB;
     n8RfY1zxB    =    (unsigned short)1710001915;
  short int BVI48;
- BVI48 = -1758740429;
+ BVI48 = (short)-1758740429;
  unsigned short int d6RIyRa;
  d6RIyRa = (unsigned short)1324405135;
  int ryoQ2Pe5;
@@ -103,7 +103,7 @@ int main(int argc, char** argv)
   short int  TP02wZfCc;
   TP02wZfCc  =  (short)2011270449;
  unsigned short int CRbzf8;
- CRbzf8 = 1285856213;
+ CRbzf8 = (unsigned short)1285856213;
     long    BnRlPs8n;
     BnRlPs8n    =    122267545;
     unsigned long    NPm4;
@@ -137,7 +137,7 @@ int main(int argc, char** argv)
  short F997T9n;
  F997T9n = (short)1300126155;
 	char	Bt27_lb;
-	Bt27_lb	=	2042296756;
+	Bt27_lb	=	(char)2042296756;
 	unsigned long	XV89v8b;
 	XV89v8b	=	-1633765309;
  unsigned int X0zRdP6;

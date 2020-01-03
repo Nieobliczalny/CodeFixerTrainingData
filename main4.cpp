@@ -21,7 +21,7 @@ int main()
  long long ejiKg = 0;
     double    p_p7Ii    =    196771565;
 	unsigned long long	lc5Kov_cC	=	1276543021;
-	unsigned short	ht983CB	=	240991489;
+	unsigned short	ht983CB	=	(unsigned short)240991489;
     unsigned char    U_vT_9    =    0;
   short  qE91Qb4  =  (short)2001197034;
   unsigned int  ZIwa  =  0;

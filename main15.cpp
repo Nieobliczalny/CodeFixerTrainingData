@@ -61,7 +61,7 @@ int main(void)
 	short	a2x6_pK7;
 	a2x6_pK7	=	(short)-595129112;
  unsigned short a4XGY;
- a4XGY = -146069466;
+ a4XGY = (unsigned short)-146069466;
   float  b8bnWA16_;
   b8bnWA16_  =  -1139966600;
     unsigned short int    DH3g056M;

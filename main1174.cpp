@@ -69,7 +69,7 @@ int main(void) {
   short  qfr7;
   qfr7  =  (short)2014146633;
     char    oh4Azs_c;
-    oh4Azs_c    =    1333082870;
+    oh4Azs_c    =    (char)1333082870;
  int P9xy_;
  P9xy_ = -291282933;
  short int cJ_usV22;

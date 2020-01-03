@@ -212,7 +212,7 @@ GoPQUU_AQ = KIQ_RwL_(N4ju, (short)248661770);
 break;
 case 'i':
 case 'I':
-e1hSGN0 = KIQ_RwL_(2809957, -293757929);
+e1hSGN0 = KIQ_RwL_((unsigned short)2809957, -293757929);
 break;
 case 'j':
 case 'J':

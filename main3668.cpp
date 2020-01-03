@@ -97,7 +97,7 @@ int main()
   short  og25kls;
   og25kls  =  (short)-983965735;
   char  z45a;
-  z45a  =  944760347;
+  z45a  =  (char)944760347;
     short    Ny8V_IBK4;
     Ny8V_IBK4    =    (short)1798927581;
   long double  F_Amk8w9d;

@@ -86,7 +86,7 @@ int main(int argc, char** argv) {
     unsigned char    jEDv;
     jEDv    =    (unsigned char)-155188549;
     char    KT9_7dk2V_;
-    KT9_7dk2V_    =    -1887017944;
+    KT9_7dk2V_    =    (char)-1887017944;
     unsigned char    H9v2;
     H9v2    =    -1028590615;
  unsigned char HVIxn;
@@ -303,7 +303,7 @@ switch (uj_Lfv)
 {
 case 'a':
 case 'A':
-cG49V = ttMkrcBh((short)258792961, 126143225, FJwy_1, wFfUvtZ, rmjCxwu8WV);
+cG49V = ttMkrcBh((short)258792961, (char)126143225, FJwy_1, wFfUvtZ, rmjCxwu8WV);
 break;
 case 'b':
 case 'B':
@@ -319,7 +319,7 @@ xf3kl_ = ttMkrcBh((short)1740753415, (char)1299306717, rmjCxwu8WV, sPPm7H8_CU, j
 break;
 case 'e':
 case 'E':
-uj_Lfv = ttMkrcBh((short)1014129058, ohX_J9sC, 1519167594, W9MiwVEGe, -1356709967);
+uj_Lfv = ttMkrcBh((short)1014129058, ohX_J9sC, (unsigned short)1519167594, W9MiwVEGe, -1356709967);
 break;
 case 'f':
 case 'F':

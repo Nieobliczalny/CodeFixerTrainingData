@@ -78,7 +78,7 @@ case 5:
 Sp3n5s0v = (q06q < A_T1sj) ? vN4SZ() : (short)776345578;
 break;
 case 6:
-TDB332O = famB1653(TDB332O, (unsigned short)-1506878121, iTK9HR5d, 1015612940);
+TDB332O = famB1653(TDB332O, (unsigned short)-1506878121, iTK9HR5d, (short)1015612940);
 break;
 default:
 lC85Q877E1 <<= 2139437650;

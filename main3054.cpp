@@ -36,7 +36,7 @@ int main()
     short    G2DysQzwD0;
     G2DysQzwD0    =    (short)1664919664;
     char    qa7tkuiv;
-    qa7tkuiv    =    1791165736;
+    qa7tkuiv    =    (char)1791165736;
 	unsigned short int	iUy86oFQ;
 	iUy86oFQ	=	0;
  long double Nwj_37;
@@ -48,7 +48,7 @@ int main()
 	unsigned short	BBnMwWm3n;
 	BBnMwWm3n	=	(unsigned short)-2114905266;
 	unsigned short	W6_68QP;
-	W6_68QP	=	-805827860;
+	W6_68QP	=	(unsigned short)-805827860;
     int    mzb2mD7;
     mzb2mD7    =    0;
   unsigned int  X9ZgY7kA6;

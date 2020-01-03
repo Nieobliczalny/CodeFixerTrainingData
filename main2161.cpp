@@ -17,7 +17,7 @@ int main() {
 	GODp6	=	(unsigned char)-445561432;
 	Y7Y4_	=	(unsigned char)1112010011;
 	U6yj5h25	=	(unsigned char)1456066464;
-	p2Jl	=	-1244583096;
+	p2Jl	=	(unsigned char)-1244583096;
 	QVLww	=	846344491;
 	Wx3sm_6	=	-158399633;
 	f09R9ck	=	-1519987995;
@@ -31,7 +31,7 @@ int main() {
  Z2Oy7AI0QS = 0;
  cVPJi = 0;
 
-cVPJi = B9a4HK7(2103878566, -563953580, 1464340583);
+cVPJi = B9a4HK7((unsigned short)2103878566, -563953580, 1464340583);
 tc4AKsP = -757333503 / Z2Oy7AI0QS;
 
 return 0;

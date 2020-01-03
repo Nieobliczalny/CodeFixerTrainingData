@@ -69,7 +69,7 @@ int main(void)
  unsigned long f7o3p1I;
  f7o3p1I = -870683063;
 	unsigned short int	Ji7eacsB;
-	Ji7eacsB	=	-2100207270;
+	Ji7eacsB	=	(unsigned short)-2100207270;
     int    u7nr;
     u7nr    =    1200741047;
   int  X2m2U;
@@ -147,7 +147,7 @@ int main(void)
     unsigned short int    qaD5u3_;
     qaD5u3_    =    (unsigned short)1315802658;
 	unsigned short int	PD6nLjD;
-	PD6nLjD	=	957565672;
+	PD6nLjD	=	(unsigned short)957565672;
     unsigned long    f37sm;
     f37sm    =    969367290;
   unsigned char  UW79Jj;
@@ -181,7 +181,7 @@ int main(void)
 	char	fVSgAb;
 	fVSgAb	=	(char)899565147;
  short int iWlec3M;
- iWlec3M = -350233735;
+ iWlec3M = (short)-350233735;
   int  VWK1;
   VWK1  =  -77037828;
  unsigned char gid8VQd;

@@ -17,7 +17,7 @@ int main(int argc, char** argv) {
     X6Yne    =    (unsigned short)-80077478;
     FQ1MYc4frK    =    (unsigned short)-1228748995;
     r8BsRe    =    (unsigned short)-1362185263;
-    u80Z4iBrQZ    =    -678739979;
+    u80Z4iBrQZ    =    (unsigned short)-678739979;
     Cwbn5QR52    =    1671300230;
     nta93    =    -473271157;
     h1rX8C6t0G    =    -372937686;
@@ -27,7 +27,7 @@ int main(int argc, char** argv) {
     E0_irZ    =    (unsigned short)1887026353;
     Eiz56SA8    =    (unsigned short)137798986;
     UT59ikUGOM    =    (unsigned short)1377143177;
-    JK8x    =    1425387165;
+    JK8x    =    (unsigned short)1425387165;
     EdcC5k    =    -1554714167;
     j8CSO3H1H    =    463969813;
     GfT9I    =    1704638281;
@@ -37,7 +37,7 @@ int main(int argc, char** argv) {
     FhIl3g    =    (unsigned short)1457607560;
     uWzzPcKO    =    (unsigned short)1591979714;
     Uhom1Q    =    (unsigned short)1286838307;
-    e8GX    =    2073239370;
+    e8GX    =    (unsigned short)2073239370;
     q8TOZtlx    =    -1898751987;
     pa24E    =    -1231356388;
     kv_r0    =    -1898565385;
@@ -47,7 +47,7 @@ int main(int argc, char** argv) {
     Fbd81fye    =    (unsigned short)1948107436;
     F8cL    =    (unsigned short)-322900329;
     H7e6t_rr    =    (unsigned short)1509759889;
-    O_14ED    =    -1877517709;
+    O_14ED    =    (unsigned short)-1877517709;
     Z6ZN1VaVF    =    1634685708;
     huPHYISe1S    =    113833393;
     BRcd6hn    =    658250;
@@ -57,7 +57,7 @@ int main(int argc, char** argv) {
     K8znF    =    (unsigned short)-1206332732;
     jdX6U7U2_    =    (unsigned short)-52928541;
     Yc5gbm    =    (unsigned short)33250399;
-    xmI9p7Q    =    -1393879396;
+    xmI9p7Q    =    (unsigned short)-1393879396;
     oVdI2DEeW    =    1871804129;
     Z3Z8oao4    =    161934521;
     m_4O0U59    =    -1306841943;
@@ -67,7 +67,7 @@ int main(int argc, char** argv) {
     yfbnTlC    =    (unsigned short)-432728636;
     xnF4    =    (unsigned short)839640179;
     u1X67    =    (unsigned short)2070886786;
-    hF001UW    =    -423711553;
+    hF001UW    =    (unsigned short)-423711553;
     hH6__8    =    1212193979;
     NQeS    =    941527418;
     xAi7pt523    =    1710090047;

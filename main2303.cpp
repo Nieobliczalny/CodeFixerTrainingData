@@ -36,7 +36,7 @@ int main(int argc, char** argv) {
   unsigned short  ZE53P5oD;
   ZE53P5oD  =  (unsigned short)-1519301400;
 	short int	jiK8c_;
-	jiK8c_	=	131393832;
+	jiK8c_	=	(short)131393832;
 	short	lUWGkp5R25;
 	lUWGkp5R25	=	(short)1774529143;
   unsigned char  X_j2WOvO8;
@@ -361,7 +361,7 @@ bx5S3BqM_ = uQ7nv(NI1K4, (short)2027790782, -1501654025, 458197849, DfvySaru4) <
 
 if (Dc2Ipx2 >= J8lrkW_)
 {
-a91PpQA8 = uQ7nv(FGrde2F, (short)1252755740, ifdYW2fAn, X_j2WOvO8, 1971729177);
+a91PpQA8 = uQ7nv(FGrde2F, (short)1252755740, ifdYW2fAn, X_j2WOvO8, (unsigned char)1971729177);
 }
 cout << ifdYW2fAn << endl;
 
@@ -461,7 +461,7 @@ KfG9W = uQ7nv(jiK8c_, (short)1293687136, -602222233, -1999137678, (unsigned char
 }
 else
 {
-pvAR7L = (yUHC < -1366357230) ? uQ7nv(jiK8c_, (short)981978211, -1049160847, oiWqjWuO8, -1978223178) : n4Mtn;
+pvAR7L = (yUHC < -1366357230) ? uQ7nv(jiK8c_, (short)981978211, -1049160847, oiWqjWuO8, (unsigned char)-1978223178) : n4Mtn;
 }
 }
 else

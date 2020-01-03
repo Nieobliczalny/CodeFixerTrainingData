@@ -99,7 +99,7 @@ int main(void)
 	char	Y05f2BY4Sh;
 	Y05f2BY4Sh	=	(char)93594965;
     short int    Ruj_Ny;
-    Ruj_Ny    =    761052757;
+    Ruj_Ny    =    (short)761052757;
 
 jBB97 = 80089355 / Jj60H(1516873641, -1894483640, Zwv35l_);
 if (((jBB97 >= -726504760) || (pq8p_IAe6L <= -1691098251)) && (ycFU7tG7V < -177859151))

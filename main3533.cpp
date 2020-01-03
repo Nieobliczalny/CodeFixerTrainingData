@@ -52,7 +52,7 @@ int main(int argc, char** argv)
   unsigned short  u42640uXj;
   u42640uXj  =  (unsigned short)1388428814;
  char xjd5804tBS;
- xjd5804tBS = -820759604;
+ xjd5804tBS = (char)-820759604;
  unsigned short S2acy581;
  S2acy581 = (unsigned short)1183690832;
   double  B4gTh70qS;

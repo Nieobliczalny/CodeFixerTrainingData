@@ -23,7 +23,7 @@ int main()
   int  nk7y7or_OY  =  -1567614166;
 	long long	i32qUuM069	=	-810459848;
   unsigned char  y44kIO4  =  (unsigned char)1731403345;
-	unsigned short int	Cxp1	=	437547207;
+	unsigned short int	Cxp1	=	(unsigned short)437547207;
  float utv69__ = 1494415534;
   double  uQq8  =  -697974447;
  unsigned char C_a72v = 870907852;
@@ -45,7 +45,7 @@ int main()
 	int	zOLqa3ds9m	=	1007921662;
 	unsigned char	w7_5Tv	=	(unsigned char)-933753427;
   unsigned int  l__5m8uk7b  =  -775002401;
-    unsigned short int    LPJ9fgVAb9    =    -1059512762;
+    unsigned short int    LPJ9fgVAb9    =    (unsigned short)-1059512762;
 	unsigned short int	V050qH	=	202052631;
  short JfZ7 = -466389428;
     unsigned int    MvdD__QZ    =    -721411813;
@@ -66,7 +66,7 @@ int main()
  unsigned long cSLj6uRG4 = 93521668;
  unsigned long long pP22qCR = 603476107;
   double  v5Cm4  =  -736597177;
- short int NSDxFo = -1118381804;
+ short int NSDxFo = (short)-1118381804;
     long    YoWv0    =    285171106;
 	short	er_Ng	=	(short)1090566592;
   unsigned short int  xxctKAk0s_  =  (unsigned short)1434417320;
@@ -77,7 +77,7 @@ int main()
  unsigned char c_mz3W8 = -958837954;
  unsigned long EGdq4B9w = 1733252704;
  unsigned int LEYLZkiw = 0;
-  unsigned short int  JGUl_35X_  =  701423739;
+  unsigned short int  JGUl_35X_  =  (unsigned short)701423739;
     float    bT9L3H1TF    =    -262775735;
     short int    GZ1V    =    (short)1188014946;
  long double PC98KKi = -722611859;
@@ -96,7 +96,7 @@ int main()
   unsigned long long  rj2kR  =  1615785191;
 	long long	XjtlNV76	=	-345077887;
   char  P_PHx  =  (char)16225485;
- unsigned char J5dA49cP = -1836529457;
+ unsigned char J5dA49cP = (unsigned char)-1836529457;
 	long	S7h87	=	-516833060;
   float  mr0V9  =  -669310971;
  double MCTRv__qi = -1953968873;
@@ -171,7 +171,7 @@ Q3icwwqh63 = (unsigned short)(wYk17);
 }
 
 std::cout << q4eo8 << "J_e5qF5" << J5dA49cP << XCNWT(xxctKAk0s_, (short)-156986625, (unsigned char)652125949, (unsigned short)1273339280) << std::endl;
-std::cout << "m04qTUs_W1" << ZrqrYq_X(-689063560) << w7_5Tv << ZrqrYq_X(-559494192) << std::endl;
+std::cout << "m04qTUs_W1" << ZrqrYq_X((unsigned short)-689063560) << w7_5Tv << ZrqrYq_X(-559494192) << std::endl;
 
 {
 int i = 0;

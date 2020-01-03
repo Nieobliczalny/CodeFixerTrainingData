@@ -39,7 +39,7 @@ int main(int argc, char** argv)
   char  Pgt5I6FF;
   Pgt5I6FF  =  (char)-324587818;
   short int  Vg017u5S;
-  Vg017u5S  =  -1393428934;
+  Vg017u5S  =  (short)-1393428934;
   short int  xop0;
   xop0  =  0;
  float aa5pVS;
@@ -51,7 +51,7 @@ int main(int argc, char** argv)
  char j8xh8V;
  j8xh8V = (char)-850822545;
   short  I7TeczKU;
-  I7TeczKU  =  -2084016873;
+  I7TeczKU  =  (short)-2084016873;
   float  r8AuLh;
   r8AuLh  =  -1606644990;
  long long C29m;

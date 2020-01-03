@@ -30,7 +30,7 @@ case 2:
 f41u2x = j4u0 * z2tV6T5;
 break;
 case 3:
-j4u0 = VhRC9QF(-607654542, (short)-737998912, 1900014608);
+j4u0 = VhRC9QF((unsigned short)-607654542, (short)-737998912, 1900014608);
 break;
 default:
 GV3yxH = T6lPCaEEjV(GV3yxH, X4zkDFv5q, 574111049, w41N);

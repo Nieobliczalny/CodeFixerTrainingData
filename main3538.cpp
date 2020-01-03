@@ -89,7 +89,7 @@ int main()
  short int rE6gL0;
  rE6gL0 = (short)-1924094866;
 	char	k63672KPrG;
-	k63672KPrG	=	-549451214;
+	k63672KPrG	=	(char)-549451214;
  int LE023;
  LE023 = -1786081323;
 

@@ -227,7 +227,7 @@ case 'd':
 XjF2_g_B = bwQsz((unsigned short)-1369751226);
 break;
 case 'e':
-V57Ausig = TdFf7((unsigned short)506403863, 1592938670, 714094158, 414681217, O9wLn_B);
+V57Ausig = TdFf7((unsigned short)506403863, (short)1592938670, 714094158, 414681217, O9wLn_B);
 break;
 case 'f':
 ql21yDTi4 = g98A ^ C6pj1O9q0h;
@@ -420,7 +420,7 @@ case 1:
 W00IIjg7j = R_V3_o((unsigned short)1426718491, D8s_c);
 break;
 case 2:
-z4lm2 = bwQsz(-485309284);
+z4lm2 = bwQsz((unsigned short)-485309284);
 break;
 case 3:
 E41m6848 &= Ko5dw;

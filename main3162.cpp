@@ -37,7 +37,7 @@ int main(void)
 	unsigned short int	fk_j	=	(unsigned short)791632710;
     long    R6Et_k    =    -1285186946;
 	unsigned long	p521OCn9b5	=	-1955730497;
-    unsigned short int    ylOTb    =    -1981817994;
+    unsigned short int    ylOTb    =    (unsigned short)-1981817994;
 	char	y2_18	=	-1812327473;
  short int fK8gp1F = 2122024045;
 	float	L8aG	=	795084541;
@@ -53,7 +53,7 @@ int main(void)
   char  exiyJ  =  (char)1265620065;
   double  Y2c41ESqr  =  1912534741;
     short    XlJg    =    (short)901710807;
-    unsigned short    Y6Y67n8x1    =    520974486;
+    unsigned short    Y6Y67n8x1    =    (unsigned short)520974486;
  long long U13kck = -1551325147;
  unsigned short int H3RmO94 = (unsigned short)-141682547;
  int n8LRpKSrc = 997995833;

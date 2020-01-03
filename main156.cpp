@@ -116,7 +116,7 @@ int main()
   UrN1_  =  0;
 
 Oul_Tw2CA = 750964001 / ng4p_S7((short)1454368608, (unsigned short)-475476496, 834830624, -196306042, fvivU);
-std::cout << f9Uk8rBD << "y_7aMyzy_n" << "ho99t647s4" << ng4p_S7((short)-2062879206, 486961732, MEZ0E8F, -416570765, fvivU) << std::endl;
+std::cout << f9Uk8rBD << "y_7aMyzy_n" << "ho99t647s4" << ng4p_S7((short)-2062879206, (unsigned short)486961732, MEZ0E8F, -416570765, fvivU) << std::endl;
 
 for (int i = 0; i < 7; ++i)
 {
@@ -231,7 +231,7 @@ i++;
 while (i < 1);
 }
 
-std::cout << ng4p_S7(ruJ71, (unsigned short)-1193953261, 1986484631, gREL5d, zIEdWNxT) << ng4p_S7(ruJ71, (unsigned short)-2048505501, -878590403, 1189989290, -1477117552) << ng4p_S7((short)384239208, 213079484, -1849892833, -661110527, zIEdWNxT) << TIYz3 << ng4p_S7(-964136778, 472853207, 494538904, gREL5d, 398556640) << std::endl;
+std::cout << ng4p_S7(ruJ71, (unsigned short)-1193953261, 1986484631, gREL5d, zIEdWNxT) << ng4p_S7(ruJ71, (unsigned short)-2048505501, -878590403, 1189989290, -1477117552) << ng4p_S7((short)384239208, (unsigned short)213079484, -1849892833, -661110527, zIEdWNxT) << TIYz3 << ng4p_S7(-964136778, 472853207, 494538904, gREL5d, 398556640) << std::endl;
 
 for (int i = 0; i < 6; i++)
 {
@@ -287,7 +287,7 @@ case 7:
 cWy4j = ng4p_S7((short)-512500742, GFlc, -450328139, bS3Rh, czn17ogZki);
 break;
 case 8:
-UrN1_ = ng4p_S7(1075293887, rLyM, 2000789283, vAJx1ZAJ, B_4X2Bb4s);
+UrN1_ = ng4p_S7((short)1075293887, rLyM, 2000789283, vAJx1ZAJ, B_4X2Bb4s);
 break;
 case 9:
 taNPE6b919 = ng4p_S7(GFlc, KIS34xE, mg8ZU9p, 1956332344, 1211832050);
@@ -331,7 +331,7 @@ else
 {
 std::cout << ng4p_S7(Fgt6zf2, (unsigned short)1994424758, 180309922, CZc7o, n857ZYk) << r2qS9Er << "l5nO_1_6" << "cncLr7OK" << ng4p_S7(Fgt6zf2, (unsigned short)-1406548687, 1470736235, CZc7o, 288752448) << std::endl;
 }
-r4_LH = ng4p_S7((short)-561515753, 672688755, -1542665369, 1380640682, 223349703);
+r4_LH = ng4p_S7((short)-561515753, (unsigned short)672688755, -1542665369, 1380640682, 223349703);
 
 {
 int i = 0;

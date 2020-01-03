@@ -18,7 +18,7 @@ int main(int argc, char** argv) {
 	i5eR0LFt9	=	(unsigned char)-1750754465;
 	VUe2	=	(unsigned char)-1736302619;
 	Lgen	=	(unsigned char)1951421127;
-	DuYkGf	=	1358435942;
+	DuYkGf	=	(unsigned char)1358435942;
 	Qt8BB6tgPD	=	379439394;
 	v9kv3_7	=	-1603226493;
 	Ksz71	=	932883122;
@@ -28,7 +28,7 @@ int main(int argc, char** argv) {
 	HrQx	=	(unsigned char)204514282;
 	i3hc_TmV	=	(unsigned char)-445744353;
 	S83813i	=	(unsigned char)519923160;
-	SEBV8tkWM	=	547726763;
+	SEBV8tkWM	=	(unsigned char)547726763;
 	VvEBx9	=	1189163716;
 	Zg5BPSho	=	40139673;
 	I7CUL	=	-866997691;
@@ -38,7 +38,7 @@ int main(int argc, char** argv) {
 	wtoSbQq	=	(unsigned char)592891678;
 	bV4O3	=	(unsigned char)-1864606799;
 	V2O3cy8A	=	(unsigned char)-1516049074;
-	OhT2	=	-883229039;
+	OhT2	=	(unsigned char)-883229039;
 	PWfrGTG	=	1907927564;
 	ceo6ph	=	1423394692;
 	hurS	=	-1046116220;
@@ -48,7 +48,7 @@ int main(int argc, char** argv) {
 	gfqL3B6	=	(unsigned char)-62224513;
 	L4r7hL_I_a	=	(unsigned char)731230269;
 	W_5q0	=	(unsigned char)-899186388;
-	I9SRVb	=	920329749;
+	I9SRVb	=	(unsigned char)920329749;
 	Xz_jgOm	=	642012849;
 	ZmlO	=	1680477669;
 	Mcws4VmG	=	-1572590013;
@@ -58,7 +58,7 @@ int main(int argc, char** argv) {
 	B8_4Cr6gX	=	(unsigned char)-1477936628;
 	Mb4k8EXE2	=	(unsigned char)877172456;
 	QQ22	=	(unsigned char)-1054098860;
-	iO7av	=	-913662619;
+	iO7av	=	(unsigned char)-913662619;
 	hoCk	=	-1760660595;
 	y7CV3	=	1856881252;
 	uIojBFJlTT	=	-418378408;
@@ -68,7 +68,7 @@ int main(int argc, char** argv) {
 	eX1vYY3rK	=	(unsigned char)-231643575;
 	Mxa6puv	=	(unsigned char)-846496585;
 	Q58c3_in1d	=	(unsigned char)11315684;
-	V82wM8fBgV	=	1565561838;
+	V82wM8fBgV	=	(unsigned char)1565561838;
 	q8j7	=	-699855556;
 	qT5xbQQ	=	815158561;
 	M74OY4	=	-875104395;
@@ -78,7 +78,7 @@ int main(int argc, char** argv) {
 	eS9pdmZ	=	(unsigned char)-666304634;
 	g68F	=	(unsigned char)-303785726;
 	B9D1	=	(unsigned char)1841870205;
-	yET4U	=	964435011;
+	yET4U	=	(unsigned char)964435011;
 	hBd5	=	-1321488379;
 	h2P_p	=	-1382537725;
 	R_o4Bf91	=	-1289693735;
@@ -128,7 +128,7 @@ case 'b':
 QQ22 = B8oe((unsigned short)455745909, -159607905, (unsigned short)497535653, M0SFS, -595489964);
 break;
 case 'c':
-i_QC = O585u(2036909753);
+i_QC = O585u((char)2036909753);
 break;
 default:
 i_QC = O585u(-1295602538);

@@ -43,7 +43,7 @@ i13wN34 = (unsigned short)(ui_9P);
 
 cout << QnLE6_3V(oQLsIFOH7W, (unsigned short)-1702221920, (unsigned short)672634995) << endl;
 
-cout << lLh_0nR9 << j091 << YU2pM8lx0((unsigned short)904165607, 2087847797, 686909583, -275479122) << yNyn8880(-1904641380, s1XI9_h8N, ui_9P, 786287474) << "P9b6uiCk" << endl;
+cout << lLh_0nR9 << j091 << YU2pM8lx0((unsigned short)904165607, (unsigned short)2087847797, 686909583, -275479122) << yNyn8880(-1904641380, s1XI9_h8N, ui_9P, 786287474) << "P9b6uiCk" << endl;
 {
 int i = 9;
 do
@@ -202,7 +202,7 @@ case 4:
 pL5wo = yNyn8880((short)-337821240, pL5wo, (char)-2057700726, -1958752797);
 break;
 case 5:
-HY_O = QnLE6_3V((unsigned short)-1129505433, s4X_sabL, -1195674454);
+HY_O = QnLE6_3V((unsigned short)-1129505433, s4X_sabL, (unsigned short)-1195674454);
 break;
 case 6:
 T6n4XmMK |= eebbrL;
@@ -620,7 +620,7 @@ D1bo6PU6 = YU2pM8lx0((unsigned short)-1381275795, (unsigned short)-259338710, (u
 }
 else if (S4UO2uRlK4 == FwdQo)
 {
-PO401 = G0ww(2062888829, S4UO2uRlK4);
+PO401 = G0ww((short)2062888829, S4UO2uRlK4);
 }
 else if ((p95a7 <= FwdQo) || ((O4_t757v59 > W4Bg2) || (Lm681SXk > 1973358432)))
 {

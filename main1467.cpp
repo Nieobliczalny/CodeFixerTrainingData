@@ -371,7 +371,7 @@ case 8:
 y0kkb = (int)abs(IXOiS2) + (-1933080304);
 break;
 case 9:
-IXOiS2 = pAuVr7U((char)-961417830, 1464043621);
+IXOiS2 = pAuVr7U((char)-961417830, (unsigned short)1464043621);
 break;
 }
 }

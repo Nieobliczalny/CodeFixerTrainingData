@@ -44,7 +44,7 @@ int main(int argc, char** argv)
   unsigned short int  yPR1o_Dv86  =  (unsigned short)-835301675;
  long long d7AWh0s = -787719918;
 	short int	qrZZxw	=	(short)817344566;
-	char	T96R352	=	1314954292;
+	char	T96R352	=	(char)1314954292;
  unsigned int cH__tP8IW = 0;
  double Gh2_SwN2h9 = -196850712;
  unsigned int hK_oeAA = 1089794784;
@@ -77,7 +77,7 @@ int main(int argc, char** argv)
     float    D36OmOCQ1    =    -1232200915;
 	unsigned short int	g2rknB7H	=	(unsigned short)-823513567;
 	float	ge7jz	=	1892174410;
-    unsigned short    Zvp6351    =    -1261042493;
+    unsigned short    Zvp6351    =    (unsigned short)-1261042493;
  char llG98r = 1641167768;
  unsigned long long yLIjw = -1593730801;
 	short	sdKW98	=	299284410;
@@ -87,7 +87,7 @@ int main(int argc, char** argv)
   unsigned char  U215Xpx  =  (unsigned char)-338320018;
     short int    d_P4nc    =    (short)-1362008576;
 
-QqRfl = VM0t5(-373477728, 120010369);
+QqRfl = VM0t5((unsigned char)-373477728, 120010369);
 {
 int i = 0;
 do

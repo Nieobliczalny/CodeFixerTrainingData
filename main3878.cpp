@@ -74,7 +74,7 @@ int main(void)
   short int  BJ79c;
   BJ79c  =  (short)-646514567;
  unsigned char Mp68iP5b;
- Mp68iP5b = 1380642220;
+ Mp68iP5b = (unsigned char)1380642220;
     double    WFFjn4o0Z;
     WFFjn4o0Z    =    1344373598;
 

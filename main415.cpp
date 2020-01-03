@@ -38,7 +38,7 @@ int main(void) {
  float E6DsG = 1074221334;
 	unsigned char	v7hWCFTXFB	=	(unsigned char)1856552339;
  short D920XJ6k = 0;
-	unsigned short	H7ia	=	-1451937765;
+	unsigned short	H7ia	=	(unsigned short)-1451937765;
  short int bFaDjR_U5p = -447124674;
 	short	F2G5H81	=	0;
   double  BL_tcE777  =  -1386270542;

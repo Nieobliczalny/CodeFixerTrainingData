@@ -30,7 +30,7 @@ int main()
 	int	kfr5_	=	0;
  float mal6Lj = 1983245580;
 	long double	l6jNSsf9m	=	-1901161108;
-	unsigned char	AShAGaKl0D	=	-786164449;
+	unsigned char	AShAGaKl0D	=	(unsigned char)-786164449;
 	unsigned long	nujy2sE1cu	=	-1102369606;
     unsigned long    yeP5gy9q    =    0;
   unsigned short int  uVa_B8  =  0;

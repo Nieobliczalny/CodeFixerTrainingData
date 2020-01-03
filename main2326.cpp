@@ -111,7 +111,7 @@ int main() {
   unsigned char  X7826oeQ55;
   X7826oeQ55  =  (unsigned char)-1170626466;
     short int    A9aA5;
-    A9aA5    =    -1423807979;
+    A9aA5    =    (short)-1423807979;
 	unsigned long long	x5QoSj6n_;
 	x5QoSj6n_	=	1355101536;
     unsigned short    ZPq8H1z;

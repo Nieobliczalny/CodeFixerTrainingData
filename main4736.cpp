@@ -43,7 +43,7 @@ int main(int argc, char** argv)
 	double	dZdeEiy24;
 	dZdeEiy24	=	-514229219;
   char  RmcO9V;
-  RmcO9V  =  -2022914954;
+  RmcO9V  =  (char)-2022914954;
  unsigned int qk4bDMKWT;
  qk4bDMKWT = 558738732;
   unsigned short int  jN3ofo;

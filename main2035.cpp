@@ -200,7 +200,7 @@ os5nn = gY1_(os5nn, -538132272);
 
 if ((vZXzbC2D / F_HQFry9(os5nn, (char)1728370100, (unsigned short)1299985912, G49nHFmsaL, RCb_4Nh4)) <= 1796754287)
 {
-if ((gY1_((unsigned short)1015474903, -744242847) / F_HQFry9(os5nn, -37351902, p8nGc34, G49nHFmsaL, RCb_4Nh4)) != 1257720530)
+if ((gY1_((unsigned short)1015474903, (unsigned char)-744242847) / F_HQFry9(os5nn, -37351902, p8nGc34, G49nHFmsaL, RCb_4Nh4)) != 1257720530)
 {
 ec72z7JE %= 756290609;
 }

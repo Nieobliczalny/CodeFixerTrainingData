@@ -49,7 +49,7 @@ int main(int argc, char** argv)
     unsigned long long    Z84w    =    175892299;
   char  OAHGALs2V  =  (char)355174937;
 	short int	PY3tUOp_Xi	=	(short)-1420789643;
-    unsigned short    JWm17cO    =    1603037706;
+    unsigned short    JWm17cO    =    (unsigned short)1603037706;
   unsigned long long  j20h0  =  -970048322;
 	double	a1VLmrVo	=	1750305481;
 	char	ZJFE6M	=	(char)-1588175388;

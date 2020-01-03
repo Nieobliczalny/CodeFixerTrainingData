@@ -95,7 +95,7 @@ int main()
 	long long	deO_YtQjAB;
 	deO_YtQjAB	=	-2060408081;
     unsigned short    i2iU9;
-    i2iU9    =    -205490222;
+    i2iU9    =    (unsigned short)-205490222;
  long G3XBC9;
  G3XBC9 = 201765206;
 	short	xdRvEH;

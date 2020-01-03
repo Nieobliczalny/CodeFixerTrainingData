@@ -70,7 +70,7 @@ case 'e':
 s_020jl %= 1074283554;
 break;
 case 'f':
-yssO = K830zvuWs(2081063715, -157276029, 2016791838);
+yssO = K830zvuWs(2081063715, (short)-157276029, 2016791838);
 break;
 case 'g':
 F835Mxl4U = K830zvuWs(F835Mxl4U, J7LkQ_bs_d, (unsigned short)661551565);
@@ -115,7 +115,7 @@ case 3:
 lEOhP = FG5c3W(s_020jl, f6Lq0Y, (unsigned short)542637358);
 break;
 case 4:
-G8Fxj = V524W5h8(501563046, 1191847409, Tt5Uqnr, 1617198210);
+G8Fxj = V524W5h8(501563046, (unsigned short)1191847409, Tt5Uqnr, 1617198210);
 break;
 case 5:
 EDSxGl5 = K830zvuWs(EDSxGl5, jUS3F_t8, HFs9);
@@ -438,7 +438,7 @@ case 7:
 F835Mxl4U = Zn8mtXim(F835Mxl4U, E75g_f, v1MxN);
 break;
 case 8:
-buaMeqMPyz = V524W5h8(-827794492, -1935796338, YnVvXQ2R, -1000188626);
+buaMeqMPyz = V524W5h8(-827794492, (unsigned short)-1935796338, YnVvXQ2R, -1000188626);
 break;
 case 9:
 K5rTv96 = FG5c3W(buaMeqMPyz, -1335887856, YnVvXQ2R) >> 932951757;
@@ -495,7 +495,7 @@ std::cout << f6Lq0Y << "bHRI6lY" << sBX0((unsigned short)-1524385370, jUS3F_t8, 
 int i = 0;
 do
 {
-std::cout << V524W5h8(983899082, (unsigned short)1840513253, -840195704, 1310464116) << sBX0(1658948065, jUS3F_t8, -684977160) << p5lSS7e0 << std::endl;
+std::cout << V524W5h8(983899082, (unsigned short)1840513253, -840195704, 1310464116) << sBX0((unsigned short)1658948065, jUS3F_t8, -684977160) << p5lSS7e0 << std::endl;
 ++i;
 }
 while (i < 10);

@@ -106,7 +106,7 @@ case 'e':
 C24bOXV = q8fOb(-1930657046, (short)-150293350, PUcP, (unsigned char)-1303502124) | kVE6s;
 break;
 case 'f':
-VQiue9K7zB = q8fOb(-479246521, (short)-1608790994, -812334088, -1936737128);
+VQiue9K7zB = q8fOb(-479246521, (short)-1608790994, -812334088, (unsigned char)-1936737128);
 break;
 case 'g':
 kBT8Y5k9y *= 1977265672;
@@ -206,7 +206,7 @@ case 2:
 y80x = kBT8Y5k9y % Y23wrm;
 break;
 case 3:
-ZoG9wK = q8fOb(HCVNkv, us_qUfz, ZoG9wK, -1750917528);
+ZoG9wK = q8fOb(HCVNkv, us_qUfz, ZoG9wK, (unsigned char)-1750917528);
 break;
 case 4:
 xdS98 = HCVNkv ^ 1165407511;

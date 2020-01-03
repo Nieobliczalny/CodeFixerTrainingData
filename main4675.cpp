@@ -474,7 +474,7 @@ case 'd':
 zmcDINu3e = yXFqpFR9Fv + qd7paZhumx;
 break;
 case 'e':
-PJl4S7Q3 = MDO4(Q519_WV5Do, OzrF0vjy, OsBRy, gxCjvd6, -1700912273) % zX8aQ;
+PJl4S7Q3 = MDO4(Q519_WV5Do, OzrF0vjy, OsBRy, gxCjvd6, (short)-1700912273) % zX8aQ;
 break;
 case 'f':
 G4tslNE0 += vYS0dL;

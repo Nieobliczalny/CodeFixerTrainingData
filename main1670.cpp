@@ -90,7 +90,7 @@ int main(int argc, char** argv)
     short    Sf_d7;
     Sf_d7    =    (short)-129807326;
     short int    E7UOyxX;
-    E7UOyxX    =    -1083381333;
+    E7UOyxX    =    (short)-1083381333;
     long    jL54;
     jL54    =    57921889;
     long double    Wi2O;

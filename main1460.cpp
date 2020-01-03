@@ -49,7 +49,7 @@ case 2:
 IKmgZ = zkMERCy_02(e_VY3sb9, IKmgZ, (unsigned short)1410741220, (short)-513185784);
 break;
 case 3:
-UL_007Z03_ = MYxy_21S1(783682118, d7enu62s5, 1484889902);
+UL_007Z03_ = MYxy_21S1(783682118, d7enu62s5, (short)1484889902);
 break;
 case 4:
 e_VY3sb9 = U2Vpmk84T(n3i2Thq9tV, -1782180797, OL5oZQ, d7enu62s5);

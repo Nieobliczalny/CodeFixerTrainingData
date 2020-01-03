@@ -66,7 +66,7 @@ int main()
 	short	Wf71_U64B;
 	Wf71_U64B	=	(short)1955004190;
  short C_mziu8yJd;
- C_mziu8yJd = 252189880;
+ C_mziu8yJd = (short)252189880;
 	short int	TIFlBsHh;
 	TIFlBsHh	=	(short)-1262359250;
 	unsigned int	AjGmosvA;
@@ -180,7 +180,7 @@ int main()
  short dir1qYIw0;
  dir1qYIw0 = (short)-2140933257;
   short int  Wy7Ycdq2Jo;
-  Wy7Ycdq2Jo  =  -1093753569;
+  Wy7Ycdq2Jo  =  (short)-1093753569;
 	long	o4TdLI7;
 	o4TdLI7	=	-1679965424;
   long  Rb1i;

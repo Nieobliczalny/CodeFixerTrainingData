@@ -168,7 +168,7 @@ Zq1nV5 = (unsigned long long)(kuu9477);
 switch (PXIp801i)
 {
 case 0:
-LIR0a = y703H_6m_d(LIR0a, (unsigned short)1528314818, -1605374021, -535486874, D5u2zcRb);
+LIR0a = y703H_6m_d(LIR0a, (unsigned short)1528314818, -1605374021, (short)-535486874, D5u2zcRb);
 break;
 }
 

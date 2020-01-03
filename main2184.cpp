@@ -515,7 +515,7 @@ case 7:
 Rr7e5S7 = S2VTD_pC(Rr7e5S7, 2110927285, aJ78, (char)-1279836385);
 break;
 default:
-rm6U1lQ_ = S2VTD_pC(1906210528, qv88g_, (unsigned char)2058596838, -1681251283);
+rm6U1lQ_ = S2VTD_pC(1906210528, qv88g_, (unsigned char)2058596838, (char)-1681251283);
 break;
 }
 }

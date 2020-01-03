@@ -33,7 +33,7 @@ int main()
  unsigned short y1Op4 = (unsigned short)1993713487;
     unsigned long long    NW2U721M    =    109465276;
  long long mfByv = -93198888;
-	short int	AI8zD	=	-136178176;
+	short int	AI8zD	=	(short)-136178176;
  short u1dH87 = (short)-1118853228;
 	short	DySubh	=	-103706109;
   float  f6J8p6  =  716869393;
@@ -55,7 +55,7 @@ int main()
 	unsigned short int	Brt0	=	(unsigned short)535478345;
  long double NQtZ = -828865393;
     int    GiB7ut    =    -2060930580;
-	short int	mPIF	=	1550644761;
+	short int	mPIF	=	(short)1550644761;
   unsigned long long  Sge6Ny5  =  755643501;
 	long long	l756R0kl5_	=	-1414432815;
     unsigned short int    YL37P    =    (unsigned short)-1790468698;
@@ -75,7 +75,7 @@ int main()
     unsigned short int    d5o4WK    =    (unsigned short)17285656;
   long double  zfB_  =  -990218864;
   float  Oa7r  =  -49821365;
-	short	C63n	=	-903193668;
+	short	C63n	=	(short)-903193668;
 	float	p266F89	=	-609853273;
 
 F29qZ2 = (unsigned long long)(wG6sF4jN + (lYVwt));
@@ -149,7 +149,7 @@ Sge6Ny5 = r43gLn(576151800, 2014764912, (unsigned char)1178362531, (char)-545291
 
 try
 {
-TuT02 = T1ETp2((unsigned char)1474633424, 1773321456, -1825038125);
+TuT02 = T1ETp2((unsigned char)1474633424, (char)1773321456, -1825038125);
 }
 catch (int& errorCode)
 {
@@ -207,7 +207,7 @@ else
 {
 if (rqZ4)
 {
-std::cout << T1ETp2(bCVM77M9dS, (char)239141492, (unsigned short)2140679624) << s1697Z(2740171, (short)-792743103, -263984676) << G_M9Ol << std::endl;
+std::cout << T1ETp2(bCVM77M9dS, (char)239141492, (unsigned short)2140679624) << s1697Z(2740171, (short)-792743103, (short)-263984676) << G_M9Ol << std::endl;
 }
 }
 
@@ -258,7 +258,7 @@ case 0:
 TuT02 = T1ETp2((unsigned char)1754694965, T0RUsV6, (unsigned short)-258093602);
 break;
 }
-std::cout << J0kL << Hd7X << qVbby0H((short)1381371417, 819157830, 1295498508) << s1697Z(a1U6OaG, 1579700205, KEIVqSwC_) << std::endl;
+std::cout << J0kL << Hd7X << qVbby0H((short)1381371417, 819157830, 1295498508) << s1697Z(a1U6OaG, (short)1579700205, KEIVqSwC_) << std::endl;
 
 try
 {

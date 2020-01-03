@@ -26,7 +26,7 @@ int main(int argc, char** argv)
   unsigned short int  J18F1_44;
   J18F1_44  =  (unsigned short)1059661151;
     char    p6N_7o4IHp;
-    p6N_7o4IHp    =    142268503;
+    p6N_7o4IHp    =    (char)142268503;
   long long  JKJVh;
   JKJVh  =  -1320700388;
  int wqDbg3BV9;
@@ -58,7 +58,7 @@ int main(int argc, char** argv)
     short    v4y4is1Z;
     v4y4is1Z    =    (short)-1241341218;
  unsigned short int ndOLP6sd;
- ndOLP6sd = -752346184;
+ ndOLP6sd = (unsigned short)-752346184;
     short int    K1c2OE5y_;
     K1c2OE5y_    =    (short)-1311926981;
     unsigned long    E9W63;

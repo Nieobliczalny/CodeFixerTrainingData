@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
     int    b65h68z2N    =    -926988510;
     double    Y2A6z    =    751025489;
 	float	LndTk6w	=	-139191817;
-  unsigned char  wj4j  =  -497667979;
+  unsigned char  wj4j  =  (unsigned char)-497667979;
  int EZ9w5 = 915422958;
   short int  cHTLae_HG6  =  (short)-1295562049;
   unsigned int  gUq8UR1g  =  2095196515;
@@ -53,7 +53,7 @@ int main(int argc, char** argv) {
   long double  TJFe1f  =  -158817593;
 	unsigned short int	zvec8	=	(unsigned short)1069823680;
   float  ycM8x5C9FF  =  1055777927;
-  unsigned short  tL8oh__  =  1983583339;
+  unsigned short  tL8oh__  =  (unsigned short)1983583339;
     short int    Uo3qRV8z    =    (short)455117452;
   unsigned short int  HN4C9S6  =  -688988217;
  unsigned long c_H34tJ = 2057096665;
@@ -417,7 +417,7 @@ case 'c':
 wdwMyT1d_ = pY3zHE((unsigned short)261551148, (unsigned short)516964649, Uo3qRV8z, cHTLae_HG6);
 break;
 case 'd':
-wdwMyT1d_ = pY3zHE(1613225795, 506676755, SRj617ryP, p5wU);
+wdwMyT1d_ = pY3zHE((unsigned short)1613225795, 506676755, SRj617ryP, p5wU);
 break;
 case 'e':
 LndTk6w = (int)ceil(rOe1Zr7vOI);

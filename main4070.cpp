@@ -43,7 +43,7 @@ int main(void)
  int fNe_Q64O_;
  fNe_Q64O_ = -1961084690;
     char    wvMEUB4H;
-    wvMEUB4H    =    -616925866;
+    wvMEUB4H    =    (char)-616925866;
   float  O_kd_H9WVL;
   O_kd_H9WVL  =  -290750369;
     short int    bz16;
@@ -83,7 +83,7 @@ int main(void)
  char v90Ofw;
  v90Ofw = (char)84387325;
 	char	twvAbrwzO3;
-	twvAbrwzO3	=	799034156;
+	twvAbrwzO3	=	(char)799034156;
 	long double	oDy52R;
 	oDy52R	=	1560573811;
   double  nHjsDpzR0g;
@@ -123,7 +123,7 @@ int main(void)
  char rc2574b72;
  rc2574b72 = (char)-1042435326;
     char    p_7w7wziA;
-    p_7w7wziA    =    1536187080;
+    p_7w7wziA    =    (char)1536187080;
   int  tr2Ky2;
   tr2Ky2  =  836444988;
 	short int	y0IEbs;
@@ -147,7 +147,7 @@ int main(void)
     char    U8TSwZz;
     U8TSwZz    =    (char)-1895994374;
  short U0z8qkUd8;
- U0z8qkUd8 = -1705098539;
+ U0z8qkUd8 = (short)-1705098539;
     long double    lgAyDB;
     lgAyDB    =    -830540710;
     short    X6mPTi;
@@ -157,7 +157,7 @@ int main(void)
     unsigned short    XRKD;
     XRKD    =    (unsigned short)-1060545834;
 	short	z3wQ4pe6K5;
-	z3wQ4pe6K5	=	959955034;
+	z3wQ4pe6K5	=	(short)959955034;
   unsigned long long  z2_z_v21u;
   z2_z_v21u  =  -1195320641;
     long    h8zR9aX;

@@ -43,7 +43,7 @@ int main(void) {
  short int lE_oq9y_J7 = (short)-1866556033;
 	unsigned short	Tg6PA	=	0;
   double  jchCc3k  =  50792093;
-  short  y_bPV  =  -1933693028;
+  short  y_bPV  =  (short)-1933693028;
  unsigned long Qi80qZV723 = 859518856;
   int  I5awfl  =  724327094;
     short    Y9Bh_q    =    (short)-124016116;

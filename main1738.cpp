@@ -22,7 +22,7 @@ int main(void) {
   unsigned short int  KE83p8Q5;
   KE83p8Q5  =  (unsigned short)1187464562;
     unsigned short    wAgSpCwGo5;
-    wAgSpCwGo5    =    -1614574924;
+    wAgSpCwGo5    =    (unsigned short)-1614574924;
  unsigned char YZU8BAoq;
  YZU8BAoq = (unsigned char)1356050872;
   unsigned short  VUr0m;

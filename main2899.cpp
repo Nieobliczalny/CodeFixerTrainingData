@@ -55,7 +55,7 @@ int main()
     char    EPnRL6_O;
     EPnRL6_O    =    (char)145267393;
  short int v8v0;
- v8v0 = -1655394610;
+ v8v0 = (short)-1655394610;
  unsigned short bM4_O;
  bM4_O = 513522520;
   float  CN5dH;
@@ -69,7 +69,7 @@ int main()
  unsigned short J_59Tt8Fg1;
  J_59Tt8Fg1 = (unsigned short)1020606193;
 	char	rUxRU5;
-	rUxRU5	=	858965629;
+	rUxRU5	=	(char)858965629;
 	long long	v4a_f84qPS;
 	v4a_f84qPS	=	366260250;
   long long  C9_f7;

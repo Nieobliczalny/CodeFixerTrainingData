@@ -225,7 +225,7 @@ case 0:
 x8YT7 = C_wHO(791483617, (unsigned short)1887060190, C_pit0JsDy, z6e0_65N, (short)1350487312);
 break;
 case 1:
-f6Cpb = C_wHO(f6Cpb, (unsigned short)-211984682, W3F6Tt5, -1905203203, avkI7_H67);
+f6Cpb = C_wHO(f6Cpb, (unsigned short)-211984682, W3F6Tt5, (unsigned char)-1905203203, avkI7_H67);
 break;
 case 2:
 W3F6Tt5 = g_bYtr(I9d11h, fEu7X330);
@@ -313,7 +313,7 @@ case 1:
 S51_9k = C_wHO(S51_9k, (unsigned short)-2024943646, uGq90p_w, x8YT7, yboIX2JN45);
 break;
 case 2:
-snx5k2Z8p = C_wHO(S51_9k, (unsigned short)-1417725311, 1210597538, (unsigned char)663661988, 2080600999) - 1092443489;
+snx5k2Z8p = C_wHO(S51_9k, (unsigned short)-1417725311, 1210597538, (unsigned char)663661988, (short)2080600999) - 1092443489;
 break;
 case 3:
 O40gJ8lmQV = (int)abs(jTJ2oNNSZ);

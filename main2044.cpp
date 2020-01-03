@@ -34,7 +34,7 @@ int main(void)
 	short	dU55;
 	dU55	=	(short)-1732139519;
   unsigned short  C92Z_0m;
-  C92Z_0m  =  2142826021;
+  C92Z_0m  =  (unsigned short)2142826021;
  unsigned short eqc1BX8;
  eqc1BX8 = (unsigned short)-1779808562;
 	long double	rOaDw2cB9;
@@ -54,7 +54,7 @@ int main(void)
   unsigned long long  jPQT;
   jPQT  =  1070362796;
   unsigned char  Sw31762x52;
-  Sw31762x52  =  -960326141;
+  Sw31762x52  =  (unsigned char)-960326141;
     int    sd97Q;
     sd97Q    =    198069849;
 	double	w_z6cbXv;
@@ -78,7 +78,7 @@ int main(void)
  unsigned short int NPc32Lqh;
  NPc32Lqh = (unsigned short)1560514044;
 	unsigned short int	vc0h01;
-	vc0h01	=	-1378915126;
+	vc0h01	=	(unsigned short)-1378915126;
 	double	kdhv;
 	kdhv	=	-302240681;
 	unsigned long	C3u9EjxE;
@@ -137,7 +137,7 @@ std::cout << "i453JZo1ew" << R02y((char)1225425117, (unsigned short)-681195447, 
 }
 else if (Q_V00Z6WM < O31QV)
 {
-O31QV = R02y((char)-926793769, -1186819602, O31QV, lFJvm1Sd);
+O31QV = R02y((char)-926793769, (unsigned short)-1186819602, O31QV, lFJvm1Sd);
 }
 else if ((E2JYawkLPt == 89453918) || (gvdN1D92G & xYf_9kR03))
 {
@@ -215,7 +215,7 @@ try
 {
 for (int j = 4; j >= 0; --j)
 {
-WNtJ = R02y((char)322642796, 942874525, -496269786, 2074190193);
+WNtJ = R02y((char)322642796, (unsigned short)942874525, -496269786, 2074190193);
 }
 }
 catch (int& errorCode)

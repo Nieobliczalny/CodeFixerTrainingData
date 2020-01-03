@@ -231,7 +231,7 @@ break;
 p4hxBJHyM = lFWEWkp9(O5hw, WZW12SF, y7777, -1878332021, (unsigned short)-129257884);
 for (int i = 0; i < 10; i++)
 {
-std::cout << lFWEWkp9(O5hw, 1359439198, (char)668295933, L7dwrA_q_I, 1469091673) << ui3CODor << std::endl;
+std::cout << lFWEWkp9(O5hw, 1359439198, (char)668295933, L7dwrA_q_I, (unsigned short)1469091673) << ui3CODor << std::endl;
 }
 {
 int i = 9;

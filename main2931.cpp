@@ -28,7 +28,7 @@ int main(void) {
   unsigned short int  cD2h;
   cD2h  =  (unsigned short)-121533565;
  unsigned short int ghHe;
- ghHe = -990223555;
+ ghHe = (unsigned short)-990223555;
  unsigned short int UgKYa99Y39;
  UgKYa99Y39 = (unsigned short)195565588;
     short    Ctu05MJ_;
@@ -38,7 +38,7 @@ int main(void) {
  short XenVN;
  XenVN = (short)-1089262531;
     unsigned short int    Hel9;
-    Hel9    =    1899307427;
+    Hel9    =    (unsigned short)1899307427;
     unsigned long long    X_Hzw;
     X_Hzw    =    -14781980;
  long long I42Yb26f7h;

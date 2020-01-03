@@ -91,7 +91,7 @@ W186dc = (unsigned char)(HrgapR + (-1882023526));
 }
 else if (W186dc & -654393324)
 {
-W186dc = cJJb7_7U7c((short)-2084427053, 1274458910);
+W186dc = cJJb7_7U7c((short)-2084427053, (char)1274458910);
 }
 else
 {

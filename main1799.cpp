@@ -144,7 +144,7 @@ int main(void) {
     short int    F2989IN;
     F2989IN    =    (short)330764581;
     unsigned char    iPYi;
-    iPYi    =    633045791;
+    iPYi    =    (unsigned char)633045791;
     unsigned short    d9MV9;
     d9MV9    =    (unsigned short)-969900587;
  double dtRI8kNp6S;
@@ -479,7 +479,7 @@ case 'c':
 z_Bjn91 = ECDG1r_h(z_Bjn91, M02Zr, (unsigned short)127722159, GF49u, DE7DzGtfp);
 break;
 case 'd':
-rJKO3R = aa6C(670752211, -1180748210, jn4b5gAK_9);
+rJKO3R = aa6C((char)670752211, -1180748210, jn4b5gAK_9);
 break;
 default:
 kMDjHK = W1Gt5(kMDjHK, tID6fj, AL5nLV, 453826505);

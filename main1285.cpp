@@ -51,7 +51,7 @@ break;
 switch (nRdy5V)
 {
 case 0:
-uI66659F = dcnYTe0_ns((unsigned char)-696247647, 1547056159, -1015825299);
+uI66659F = dcnYTe0_ns((unsigned char)-696247647, 1547056159, (char)-1015825299);
 break;
 }
 
@@ -167,7 +167,7 @@ case 'c':
 R3gGG = (int)abs(aO0hLi_ao);
 break;
 case 'd':
-Y_rBktrC9 = dcnYTe0_ns((unsigned char)439233369, 1137396798, 713819549);
+Y_rBktrC9 = dcnYTe0_ns((unsigned char)439233369, 1137396798, (char)713819549);
 break;
 default:
 uI66659F = dcnYTe0_ns((unsigned char)1926552779, aO0hLi_ao, E1kvFBC);
@@ -199,7 +199,7 @@ M0lcpo1 = dcnYTe0_ns(M0lcpo1, B0b5e, (char)815574506);
 }
 else
 {
-std::cout << w94m1lZvsc(M0lcpo1, B0b5e) << dcnYTe0_ns((unsigned char)1106116890, -1501657600, (char)1000471220) << XDobJK(-1499298330, B0b5e, 1441915629) << w94m1lZvsc(-295994338, -1220411320) << std::endl;
+std::cout << w94m1lZvsc(M0lcpo1, B0b5e) << dcnYTe0_ns((unsigned char)1106116890, -1501657600, (char)1000471220) << XDobJK(-1499298330, B0b5e, (short)1441915629) << w94m1lZvsc(-295994338, -1220411320) << std::endl;
 }
 
 uI66659F = dcnYTe0_ns(-451581803, 1636366296, 541945475) / B0b5e;
@@ -234,7 +234,7 @@ case 2:
 E1kvFBC >>= 1304671406;
 break;
 case 3:
-Y_rBktrC9 = dcnYTe0_ns((unsigned char)1467112695, R3gGG, 34871353);
+Y_rBktrC9 = dcnYTe0_ns((unsigned char)1467112695, R3gGG, (char)34871353);
 break;
 case 4:
 RyPI *= 764723937;

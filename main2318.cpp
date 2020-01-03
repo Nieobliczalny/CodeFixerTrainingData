@@ -113,7 +113,7 @@ case 1:
 mNdQkCmx = ab1_P1((short)1233352803, (char)1950746720);
 break;
 case 2:
-fh620VX4nw = pP02zn_I((unsigned short)-275918954, 1526577368, -1481882678);
+fh620VX4nw = pP02zn_I((unsigned short)-275918954, (unsigned short)1526577368, -1481882678);
 break;
 case 3:
 bH4z1jQT = pP02zn_I(bH4z1jQT, -1352929231, qkVQ);

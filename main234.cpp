@@ -21,7 +21,7 @@ int main(void) {
   long  iMl48g;
   iMl48g  =  -1001727616;
 	unsigned char	e28z3kx;
-	e28z3kx	=	-849182191;
+	e28z3kx	=	(unsigned char)-849182191;
 	unsigned char	YuC231w;
 	YuC231w	=	(unsigned char)1918791669;
     double    x40r3o;
@@ -143,7 +143,7 @@ int main(void) {
  short I0Bcl;
  I0Bcl = (short)144253924;
     unsigned char    oL_3cL;
-    oL_3cL    =    -1689423261;
+    oL_3cL    =    (unsigned char)-1689423261;
  long long x_79_G6v;
  x_79_G6v = 1543720787;
   char  p32n;

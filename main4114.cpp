@@ -91,7 +91,7 @@ std::cout << zL8L06NOHs(j3f23fW1q, (unsigned short)-1157647213, (unsigned short)
 }
 else
 {
-std::cout << zL8L06NOHs(1094907647, g_3HFAE, (unsigned short)991692877) << VpW0mdD(j3f23fW1q, 417215206) << X7usFcMA55(j3f23fW1q, 121604494, -1586134300, p3bMdy5B, -1713908868) << H9oV1_Tz(j3f23fW1q) << std::endl;
+std::cout << zL8L06NOHs(1094907647, g_3HFAE, (unsigned short)991692877) << VpW0mdD(j3f23fW1q, 417215206) << X7usFcMA55(j3f23fW1q, (unsigned short)121604494, -1586134300, p3bMdy5B, -1713908868) << H9oV1_Tz(j3f23fW1q) << std::endl;
 }
 }
 else if (W29n6_ > 254256256)
@@ -167,7 +167,7 @@ W29n6_ = zL8L06NOHs(W29n6_, (unsigned short)-6723058, (unsigned short)-62556884)
 }
 else if (MV9n8I > -1537652855)
 {
-KphU3 = zL8L06NOHs(KphU3, -1831672742, -1947934073);
+KphU3 = zL8L06NOHs(KphU3, (unsigned short)-1831672742, -1947934073);
 }
 else if (((qYa6g9g != g6bksBf) && (KphU3 < 85214068)) && (j3f23fW1q >= 477944465))
 {
@@ -514,7 +514,7 @@ case 'f':
 cFBE9_4 = zL8L06NOHs(260708788, jb4ekbR, Cw5T7L);
 break;
 case 'g':
-kt_jBUB7 = X7usFcMA55((short)-1130870063, (unsigned short)1490885234, 1538178509, g_3HFAE, W29n6_);
+kt_jBUB7 = X7usFcMA55((short)-1130870063, (unsigned short)1490885234, (unsigned short)1538178509, g_3HFAE, W29n6_);
 break;
 case 'h':
 VM_5K = ApRq2rQt3j(-1230320235, 1065591187, tErS, 2079416314, j3f23fW1q);
@@ -543,7 +543,7 @@ kt_jBUB7 = X7usFcMA55((short)-89261240, ZlTMlYk, Cw5T7L, (unsigned short)1084424
 }
 else if (Cw5T7L == 2005775774)
 {
-cQt7W97X = ApRq2rQt3j(1048635606, tErS, 419849270, -806947349, 736613194);
+cQt7W97X = ApRq2rQt3j(1048635606, tErS, 419849270, -806947349, (unsigned char)736613194);
 }
 else if (ZlTMlYk > -1345593635)
 {
@@ -728,7 +728,7 @@ else
 {
 if (((j3f23fW1q) || (p3bMdy5B >= -2101836453)) && ((g_3HFAE >= 1547913320) && (jG39_ < 2089026329)))
 {
-std::cout << jb4ekbR << ApRq2rQt3j(KphU3, 396054666, tErS, g6bksBf, jG39_) << X7usFcMA55(KphU3, (unsigned short)1909788127, (unsigned short)134940153, (unsigned short)786207226, jG39_) << ApRq2rQt3j(-1031845018, -988039498, tErS, g6bksBf, -3801655) << std::endl;
+std::cout << jb4ekbR << ApRq2rQt3j(KphU3, 396054666, tErS, g6bksBf, jG39_) << X7usFcMA55(KphU3, (unsigned short)1909788127, (unsigned short)134940153, (unsigned short)786207226, jG39_) << ApRq2rQt3j(-1031845018, -988039498, tErS, g6bksBf, (unsigned char)-3801655) << std::endl;
 }
 else if (cFBE9_4 > 1373760542)
 {

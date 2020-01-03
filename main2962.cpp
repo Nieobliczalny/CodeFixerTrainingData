@@ -30,7 +30,7 @@ int main(int argc, char** argv)
  unsigned short int S6_L_CT0X = (unsigned short)-650058348;
     char    FKXh7cOXYt    =    (char)-600004676;
   unsigned int  tl2t_  =  -39829562;
-  short int  mdF_  =  -1396206541;
+  short int  mdF_  =  (short)-1396206541;
 	long long	Tcc0Mx3	=	1191014218;
     short    f_75    =    -896560742;
     unsigned char    ChD5R    =    (unsigned char)-538135602;
@@ -51,7 +51,7 @@ int main(int argc, char** argv)
 	long double	yczg5_l	=	-1116065915;
     int    hcQNyo179_    =    -921301546;
     long long    bX_0_34D    =    -1381405667;
-  unsigned char  eGY21M5p2  =  -1498551017;
+  unsigned char  eGY21M5p2  =  (unsigned char)-1498551017;
  int tu5Y08XL = -613359148;
 	double	O7z1	=	1794694669;
     double    KhR3a    =    -170866719;
@@ -61,7 +61,7 @@ int main(int argc, char** argv)
 	short	AfPm8	=	(short)591808758;
 	unsigned short	Yb_o	=	(unsigned short)-490099526;
     long    i00T__6    =    581628580;
-	unsigned short int	Ac4zeg	=	-655603555;
+	unsigned short int	Ac4zeg	=	(unsigned short)-655603555;
     double    gtdYe    =    -1923036899;
 	long double	B3Qz3ev	=	-962913662;
     short int    KH_9u21    =    -640433574;
@@ -72,7 +72,7 @@ cout << "pkQ0Ffw" << bMtUQ_b << ga_H((unsigned short)292682130, KH_9u21) << endl
 
 try
 {
-cout << ga_H((unsigned short)-215623419, (short)379673981) << w96leI7 << ga_H(IdJ0qRIj2x, KH_9u21) << ga_H(-208145685, KH_9u21) << endl;
+cout << ga_H((unsigned short)-215623419, (short)379673981) << w96leI7 << ga_H(IdJ0qRIj2x, KH_9u21) << ga_H((unsigned short)-208145685, KH_9u21) << endl;
 }
 catch (int& errorCode)
 {

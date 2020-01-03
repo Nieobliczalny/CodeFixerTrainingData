@@ -22,7 +22,7 @@ int main() {
 	Ic_90T5Lh	=	(char)202408789;
 	IiV5hOQ13	=	(char)-514183306;
 	csPP	=	(char)-804634169;
-	Sk68	=	-1769277639;
+	Sk68	=	(char)-1769277639;
 	Es49_h2Q3U	=	-1965143047;
 	e4NTBo7XT	=	377061439;
 	c6OyM8o96V	=	2132922932;
@@ -32,7 +32,7 @@ int main() {
 	p_OoR_o	=	(char)-952471869;
 	cSM1	=	(char)639812213;
 	LNHu43fNi	=	(char)-472343665;
-	mzgD	=	-1680701769;
+	mzgD	=	(char)-1680701769;
 	mH2BP	=	822499343;
 	i_kYFfXz8	=	-254186167;
 	chco7	=	-1987472029;
@@ -42,7 +42,7 @@ int main() {
 	Hg9o8i7JQ2	=	(char)505924717;
 	ktMJiFgi3	=	(char)-319767549;
 	pD04_X	=	(char)-1470724234;
-	Mt_dlWh55	=	-1555791506;
+	Mt_dlWh55	=	(char)-1555791506;
 	ctCQ_B	=	1371137923;
 	R7DE	=	2048166680;
 	E1AYV	=	-1184048303;
@@ -52,7 +52,7 @@ int main() {
 	rcUw0_2T	=	(char)-203293572;
 	x_hA	=	(char)-388907890;
 	uhD7r4Ey93	=	(char)99555210;
-	G1M7_9BsN	=	1084767260;
+	G1M7_9BsN	=	(char)1084767260;
 	OA02m5lb9	=	2026287478;
 	YUCgpYk	=	-2077323173;
 	khdz7B5	=	1155661852;
@@ -62,7 +62,7 @@ int main() {
 	D_0U__	=	(char)-2143931311;
 	h6Y7R	=	(char)3144654;
 	FRm7QKH	=	(char)403236754;
-	XGgu	=	-1253112192;
+	XGgu	=	(char)-1253112192;
 	p_kgzKH0_	=	-380944268;
 	GC91SlmAzI	=	-1849066751;
 	m3b9O6rS	=	-964934708;
@@ -72,7 +72,7 @@ int main() {
 	DQa6dfp4	=	(char)1414151036;
 	Ph052	=	(char)198106040;
 	QQ085tql	=	(char)608263175;
-	I1j3R9	=	20137553;
+	I1j3R9	=	(char)20137553;
 	cW2GY8AOh2	=	2123250774;
 	itQ3	=	1916919602;
 	T5rEXo7Qk0	=	-2021838264;
@@ -82,7 +82,7 @@ int main() {
 	p77KIfp	=	(char)-1208004775;
 	Ip2_iTL	=	(char)270099842;
 	YX1nj	=	(char)780137692;
-	KJfcJfB09j	=	33981756;
+	KJfcJfB09j	=	(char)33981756;
 	kZWvk	=	1901975073;
 	x3YU	=	-178916461;
 	lP1G3Lb	=	-714431149;
@@ -92,7 +92,7 @@ int main() {
 	zvSM	=	(char)-1823989120;
 	qj_aMEPHGz	=	(char)-1338803740;
 	DoF75xN	=	(char)-1771236519;
-	sl9HqMjZ0I	=	1394714896;
+	sl9HqMjZ0I	=	(char)1394714896;
 	i92VmBTK4	=	-1281251582;
 	WcOSue_Cj	=	-837418281;
 	OLbuW	=	-1136980514;
@@ -102,7 +102,7 @@ int main() {
 	tOcj	=	(char)1535200529;
 	PHNR4Pb	=	(char)1463558506;
 	qAP5v	=	(char)2077429804;
-	Mw3752	=	-1431982237;
+	Mw3752	=	(char)-1431982237;
 
 if (E1AYV >= 404150764)
 {

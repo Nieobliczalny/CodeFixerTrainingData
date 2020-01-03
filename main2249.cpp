@@ -105,7 +105,7 @@ J6P68F = Se2_8GoE4((unsigned short)1345904293, J6P68F, 255100379, (unsigned shor
 }
 else
 {
-j27O4 = Se2_8GoE4((unsigned short)52123787, J6P68F, 476944136, 2122072835, o8Y8QK) / qiw1CS8Rr;
+j27O4 = Se2_8GoE4((unsigned short)52123787, J6P68F, 476944136, (unsigned short)2122072835, o8Y8QK) / qiw1CS8Rr;
 }
 }
 else if ((j27O4 >= nMoH) && (C62nlBP7 > Q81kh))

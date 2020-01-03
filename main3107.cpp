@@ -538,7 +538,7 @@ case 'f':
 i_03ozEy8Y = TeKV8d_EbW((unsigned short)1522059912, uo8RoTefY, (unsigned char)-384898795, 606766023, faLL1k);
 break;
 case 'g':
-mu_E8 = SxyIK_q046(-670893448, -2012654151);
+mu_E8 = SxyIK_q046((char)-670893448, -2012654151);
 break;
 case 'h':
 a9sVym8x9_ = BjJ30X9(-1804901471, I438hw3fJ, mo7InPY);

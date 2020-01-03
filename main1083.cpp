@@ -296,7 +296,7 @@ ubX2rt = yvB14l / KvUK(ibi4i932, (unsigned short)-1125726278);
 
 eeyaS3j = KvUK(v42R9, q77H);
 
-irgcS3I0D = KvUK((unsigned short)975793104, 92927226);
+irgcS3I0D = KvUK((unsigned short)975793104, (unsigned short)92927226);
 
 s734_tzXhd = (i2R0za >= MBG_G4Z) ? CG3g85 : HVIS__J;
 q77H = (int)floor(s734_tzXhd);

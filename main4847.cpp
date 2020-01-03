@@ -97,7 +97,7 @@ int main(void) {
 	short int	h0qEY;
 	h0qEY	=	(short)1577898177;
 	unsigned char	f6GP;
-	f6GP	=	56252704;
+	f6GP	=	(unsigned char)56252704;
   short  fn0G2Cz;
   fn0G2Cz  =  (short)503885213;
  long long NYU97Tz9q;
@@ -169,7 +169,7 @@ int main(void) {
  unsigned short int Kp123yz12;
  Kp123yz12 = (unsigned short)1664846895;
 	unsigned short	Ps40saHf;
-	Ps40saHf	=	315728216;
+	Ps40saHf	=	(unsigned short)315728216;
     unsigned long long    yAF1_uTN;
     yAF1_uTN    =    749295284;
 

@@ -32,7 +32,7 @@ int main() {
   int  D62uHo1Tc  =  -1590432152;
     short int    L3j4gk1iuB    =    (short)1135890592;
     short int    ZXap    =    (short)-149764869;
-    unsigned short int    SWcIKk    =    -560292617;
+    unsigned short int    SWcIKk    =    (unsigned short)-560292617;
  char iD_61cJ1 = 1840362793;
 	unsigned int	zj6kPI8_	=	781356255;
   double  v_tz2t  =  -2141688750;
@@ -47,7 +47,7 @@ int main() {
 	double	DI40VkR	=	1021752183;
 	long long	LEukg3	=	332170568;
  double Iv_tY6 = -377119038;
-  unsigned char  x7nEQR  =  -90223986;
+  unsigned char  x7nEQR  =  (unsigned char)-90223986;
 	short	bWJ9i	=	(short)-2077323969;
     unsigned int    phbnwsKNE    =    -2076687542;
  float MlK9MCUn = 647385015;
@@ -57,7 +57,7 @@ int main() {
     unsigned short int    A95ynRA    =    1742179396;
  float OQ2D = 755748749;
     unsigned char    b7zE8    =    1567060127;
-	char	fgXtDm	=	-1615586707;
+	char	fgXtDm	=	(char)-1615586707;
   unsigned char  Osw4zn2u3f  =  (unsigned char)1795056592;
  short int CpmLxWx3 = 1660364160;
 	double	x65O1SP50_	=	-648257982;
@@ -71,7 +71,7 @@ int main() {
 	unsigned int	b_0V4X	=	70987884;
   unsigned short int  dXqo53  =  (unsigned short)-1781350048;
   unsigned long  Hf01_Ec1A  =  1411276958;
-	unsigned short	N4C0P_96u	=	-486449394;
+	unsigned short	N4C0P_96u	=	(unsigned short)-486449394;
 	unsigned long long	wZ1r8E_	=	-810490056;
 	short int	BIXcy5o2B4	=	(short)-1819747750;
  unsigned short pgQGkh = 845230367;
@@ -100,7 +100,7 @@ int main() {
  long long L9UypM = 781984856;
  double Y2FC = -451559768;
 	char	MOR3_O	=	(char)76073506;
- short int yq5ks1Iev = 272586152;
+ short int yq5ks1Iev = (short)272586152;
     short    GzXwCuX7xp    =    -9912787;
     double    Md674    =    495531336;
  int jF_4Lm72d8 = -1887396730;
@@ -112,7 +112,7 @@ int main() {
   unsigned short int  COY99s  =  (unsigned short)-1749445975;
  unsigned short Abg4x = (unsigned short)-372524638;
 	long	p7Eh	=	1177148907;
-	short	exs438CP	=	-113102911;
+	short	exs438CP	=	(short)-113102911;
 	unsigned long long	V2arH2	=	28565568;
 
 if (Md674 <= 577304334)
@@ -253,7 +253,7 @@ case 6:
 MlK9MCUn = sR_u9eae((unsigned short)-90367898, (char)1149101044);
 break;
 case 7:
-w0Cpu = W_CAYq7L9(-1327912528, -308839783);
+w0Cpu = W_CAYq7L9((char)-1327912528, -308839783);
 break;
 case 8:
 g56Hc9 = W_CAYq7L9(DI40VkR, SWcIKk);

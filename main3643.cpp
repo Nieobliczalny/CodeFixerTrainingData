@@ -85,7 +85,7 @@ int main(void)
  unsigned char URdftfu;
  URdftfu = (unsigned char)-393693389;
   unsigned short  b26vf_57p;
-  b26vf_57p  =  -529573519;
+  b26vf_57p  =  (unsigned short)-529573519;
     short    SeltyFKv45;
     SeltyFKv45    =    (short)-1877992941;
     unsigned long long    P0bge5Ob;

@@ -61,7 +61,7 @@ int main(int argc, char** argv) {
   char  u90Zq4wsz;
   u90Zq4wsz  =  (char)2099798345;
  char DR8B;
- DR8B = -800170148;
+ DR8B = (char)-800170148;
   double  pduNM;
   pduNM  =  2117707749;
  short gS20pbM;
@@ -95,7 +95,7 @@ int main(int argc, char** argv) {
     unsigned short int    wE9W2;
     wE9W2    =    (unsigned short)-1019191168;
     unsigned short    QqDNBLp9Mq;
-    QqDNBLp9Mq    =    -63811025;
+    QqDNBLp9Mq    =    (unsigned short)-63811025;
  unsigned short d479;
  d479 = 1383399838;
   int  yA_rY73a_5;
@@ -163,7 +163,7 @@ int main(int argc, char** argv) {
     char    CfRp4__Bh;
     CfRp4__Bh    =    (char)-1343551109;
   unsigned char  Go3_66;
-  Go3_66  =  1663419584;
+  Go3_66  =  (unsigned char)1663419584;
     long double    y0s6LPjf2;
     y0s6LPjf2    =    -866592129;
     unsigned char    e9_Drni;
@@ -264,7 +264,7 @@ case 0:
 y0s6LPjf2 = (int)floor(hFzi);
 break;
 case 1:
-k6BE = RXndDO2_((unsigned short)263086927, -2111466066, -1674307273, 1050418386);
+k6BE = RXndDO2_((unsigned short)263086927, (unsigned char)-2111466066, -1674307273, 1050418386);
 break;
 case 2:
 KuDmM = (int)ceil(vx108mq4);
@@ -331,7 +331,7 @@ case 1:
 KuDmM = RXndDO2_((unsigned short)905400436, (unsigned char)-623049068, ji3EbIgBJ, (short)759195347);
 break;
 case 2:
-S7_DXt6 = hbdqq_(e9_Drni, -1775822571, 719309944);
+S7_DXt6 = hbdqq_(e9_Drni, -1775822571, (unsigned char)719309944);
 break;
 default:
 ZKrZ1Ag = wE9W2 / 2083895419;

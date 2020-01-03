@@ -46,7 +46,7 @@ case 'c':
 LbuXHppAOo += U4AHmeT8h0;
 break;
 case 'd':
-xvl24hqm08 = m4kay4_(xvl24hqm08, (unsigned char)946001645, (unsigned short)870094802, (char)1485983023, 169178068);
+xvl24hqm08 = m4kay4_(xvl24hqm08, (unsigned char)946001645, (unsigned short)870094802, (char)1485983023, (unsigned short)169178068);
 break;
 }
 j--;
@@ -500,7 +500,7 @@ Xv7Cyt -= N4241th;
 switch (OCk74R7SBd)
 {
 case 0:
-K54U4z = m4kay4_(-1040848967, (unsigned char)1119316272, (unsigned short)2002490650, (char)1307705097, 808051069) * 1770090413;
+K54U4z = m4kay4_(-1040848967, (unsigned char)1119316272, (unsigned short)2002490650, (char)1307705097, (unsigned short)808051069) * 1770090413;
 break;
 case 1:
 OcZlmQ5 = K54U4z / ePLH89m;

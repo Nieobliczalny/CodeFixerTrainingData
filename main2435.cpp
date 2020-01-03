@@ -123,7 +123,7 @@ case 'c':
 ft72jm = r26l6iK(ft72jm, (short)-1459879843, vvQc_K5cC, (unsigned short)-1851883876);
 break;
 case 'd':
-K9pO1S93 = p0aAyv(1265516981, (unsigned short)857300684, 1388682772, -1852296623);
+K9pO1S93 = p0aAyv(1265516981, (unsigned short)857300684, (unsigned char)1388682772, -1852296623);
 break;
 case 'e':
 pHg2A0 = OzXj2p + GH_vc;

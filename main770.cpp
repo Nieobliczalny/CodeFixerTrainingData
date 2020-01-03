@@ -77,7 +77,7 @@ int main(void)
 	int	dARF9U68;
 	dARF9U68	=	0;
 	short	g48qX6v9;
-	g48qX6v9	=	-956259162;
+	g48qX6v9	=	(short)-956259162;
  unsigned char OrhTkI;
  OrhTkI = 0;
 	long	S0257k61;

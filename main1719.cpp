@@ -33,7 +33,7 @@ short    rYc0y337X(short    W4_ZGD,short int    Eve6wn7,int    Eu55YsLH1g,int   
 int main(int argc, char** argv) {
     unsigned char    q__6heMm    =    (unsigned char)-17291890;
   unsigned char  iuJ7H4Mp  =  (unsigned char)603090252;
-	unsigned char	JW1_w	=	583606904;
+	unsigned char	JW1_w	=	(unsigned char)583606904;
   unsigned char  Jz2M_UHV  =  0;
  int xD6KJM = -994109984;
  int zdALjT50Ls = 113205059;
@@ -145,7 +145,7 @@ while (j >= 0);
 }
 else
 {
-q__6heMm = exUl((unsigned char)-939820608, -43581070, Y8u8) % 1396510485;
+q__6heMm = exUl((unsigned char)-939820608, (char)-43581070, Y8u8) % 1396510485;
 }
 if ((JW1_w < H70D) && (naRDczd == EYLY))
 {
@@ -327,7 +327,7 @@ case 1:
 lb65F2hHj7 = exUl((unsigned char)-1798828358, (char)-290650868, (unsigned char)-21203873);
 break;
 case 2:
-Jz2M_UHV = exUl(1424363519, -1927838772, JqOkDtFS);
+Jz2M_UHV = exUl((unsigned char)1424363519, -1927838772, JqOkDtFS);
 break;
 case 3:
 iuJ7H4Mp = rYc0y337X(iuJ7H4Mp, 5282482, Ow3IcF3ZI, -1304811708);
@@ -470,7 +470,7 @@ else
 {
 for (int j = 0; j < 7; ++j)
 {
-cout << "JS_NgqT03" << "Pph5P3" << UTSGN0C3(1850349602) << rYc0y337X((short)851801678, zdALjT50Ls, 207047641, BgDz2zL) << exUl((unsigned char)1885830697, zdALjT50Ls, 888308617) << endl;
+cout << "JS_NgqT03" << "Pph5P3" << UTSGN0C3(1850349602) << rYc0y337X((short)851801678, zdALjT50Ls, 207047641, BgDz2zL) << exUl((unsigned char)1885830697, zdALjT50Ls, (unsigned char)888308617) << endl;
 }
 }
 if ((lb65F2hHj7 & 164444323) || (JqOkDtFS != 1002029911))

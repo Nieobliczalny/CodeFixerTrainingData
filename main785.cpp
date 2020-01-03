@@ -31,7 +31,7 @@ int main()
   unsigned short int  rBF2_L3fp;
   rBF2_L3fp  =  (unsigned short)224425718;
 	short int	B8V5oP_l;
-	B8V5oP_l	=	-543014181;
+	B8V5oP_l	=	(short)-543014181;
 	int	iOTA;
 	iOTA	=	-485190370;
   unsigned int  Wr06w;
@@ -105,7 +105,7 @@ int main()
   double  C6rW6;
   C6rW6  =  -909454574;
 	unsigned short	tEv9JoSZ7;
-	tEv9JoSZ7	=	61710894;
+	tEv9JoSZ7	=	(unsigned short)61710894;
 	unsigned int	F1SwMdZo;
 	F1SwMdZo	=	-1122585975;
   long  Ox7YsN0Hbb;
@@ -119,7 +119,7 @@ int main()
     unsigned short    uyl2L;
     uyl2L    =    0;
  char nUL9U_e9;
- nUL9U_e9 = 27132914;
+ nUL9U_e9 = (char)27132914;
     unsigned char    EfiWay4;
     EfiWay4    =    (unsigned char)2058041655;
     double    A1VNkI9b0Z;
@@ -149,7 +149,7 @@ int main()
     long long    F7qX;
     F7qX    =    1954266869;
  unsigned short int GHo7I1QR;
- GHo7I1QR = -1777304878;
+ GHo7I1QR = (unsigned short)-1777304878;
  long long N2zXnkaOVm;
  N2zXnkaOVm = -2008182248;
   unsigned int  CX7s8;

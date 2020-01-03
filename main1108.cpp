@@ -24,7 +24,7 @@ int main(void) {
     unsigned long    R2dYP35Xy    =    1939999762;
     long long    dN92    =    207554142;
   unsigned char  VHGK45I  =  (unsigned char)-177367961;
-    unsigned short    ACf1x6V    =    1946210408;
+    unsigned short    ACf1x6V    =    (unsigned short)1946210408;
   unsigned int  ps8P31_T8  =  1134860194;
     unsigned char    krPWm71V27    =    -1813115809;
 	char	QaQtiWHG3	=	(char)650664600;
@@ -36,7 +36,7 @@ int main(void) {
 	unsigned short	ugz8U	=	(unsigned short)-1150450085;
 	long long	TJ2l532	=	1670598478;
  int v4oc = -533069807;
-	short	Xiln0S	=	485510182;
+	short	Xiln0S	=	(short)485510182;
  unsigned char vK2I = (unsigned char)-1286536070;
   unsigned short  P56X3  =  0;
  unsigned int y3YVD2kb6 = -1758054358;
@@ -46,7 +46,7 @@ int main(void) {
     unsigned short    jMrmKxJd    =    (unsigned short)827070312;
 	short int	EG17v	=	582644460;
  float I9G5Q = 1202054079;
-  short  NxLVHnOMvy  =  1646840091;
+  short  NxLVHnOMvy  =  (short)1646840091;
   unsigned short  qhfJIov  =  (unsigned short)-1480252994;
  short R2ud = 1307748678;
 	short	FWZb	=	-666791717;
@@ -80,7 +80,7 @@ int main(void) {
  int DD3SkAOp5 = -1252881186;
  double u1R64BA = -259110255;
   short  gz3_xMj  =  (short)1293772379;
-  unsigned short  t4zw84827  =  -500736755;
+  unsigned short  t4zw84827  =  (unsigned short)-500736755;
  long TYweS6RQX = -670285335;
     char    NNJ4f    =    1243824323;
 	unsigned long	tmzpaepDz	=	408211098;
@@ -95,7 +95,7 @@ int main(void) {
     int    L8Uj    =    -1479469740;
 	unsigned long long	cRVbd68	=	-734451867;
   unsigned short  c_A88a8s  =  (unsigned short)-1304566226;
- char Ok45K6 = 1790518999;
+ char Ok45K6 = (char)1790518999;
     unsigned long    zit7_0s1    =    -1384279579;
 	unsigned long long	mUrWgE4	=	365411133;
     unsigned short    P56VN4U    =    0;
@@ -105,7 +105,7 @@ int main(void) {
 	unsigned long	AY8q0	=	-956697354;
  short int rB9aJc3b = (short)2131898193;
 
-P56X3 = Zjm5ePjDR9((short)1195352747, 1821877496, P56X3);
+P56X3 = Zjm5ePjDR9((short)1195352747, (short)1821877496, P56X3);
 {
 int i = 2;
 do

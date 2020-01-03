@@ -35,7 +35,7 @@ int main(int argc, char** argv)
 	short	c88WUX;
 	c88WUX	=	(short)845977478;
 	char	z9cR6uomJb;
-	z9cR6uomJb	=	2124385232;
+	z9cR6uomJb	=	(char)2124385232;
 	unsigned int	AA6NUd4;
 	AA6NUd4	=	320366464;
  unsigned long long DP8T;
@@ -99,7 +99,7 @@ int main(int argc, char** argv)
  char d53PtN9S5;
  d53PtN9S5 = (char)-2090815712;
  unsigned short z4kxxZ2L1;
- z4kxxZ2L1 = 664324397;
+ z4kxxZ2L1 = (unsigned short)664324397;
 	short int	HRot4e7V2;
 	HRot4e7V2	=	1502371548;
  short int dRsuv6;
@@ -310,7 +310,7 @@ try
 switch (OgT02e1)
 {
 case 0:
-OgT02e1 = EpBA0W7pe((unsigned char)574066236, 1881310499);
+OgT02e1 = EpBA0W7pe((unsigned char)574066236, (unsigned short)1881310499);
 break;
 case 1:
 prDkQB = EpBA0W7pe(Lh83MO, X11pT);

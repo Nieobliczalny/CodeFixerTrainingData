@@ -47,7 +47,7 @@ int main(int argc, char** argv)
  unsigned char ZTI_LUHKU;
  ZTI_LUHKU = (unsigned char)-1252256505;
   char  ZexmN5l9A;
-  ZexmN5l9A  =  1668747245;
+  ZexmN5l9A  =  (char)1668747245;
  unsigned int oWp_6wH;
  oWp_6wH = -707264679;
   unsigned long long  UO1FaZBR_U;
@@ -61,7 +61,7 @@ int main(int argc, char** argv)
 	unsigned short int	u2eF6Z9;
 	u2eF6Z9	=	(unsigned short)-261022964;
   unsigned short  n56b;
-  n56b  =  1561992027;
+  n56b  =  (unsigned short)1561992027;
   unsigned long long  GNJjU1YR6i;
   GNJjU1YR6i  =  -1982089108;
     unsigned char    Z1i0d;
@@ -165,7 +165,7 @@ int main(int argc, char** argv)
 	char	Z872kFW;
 	Z872kFW	=	(char)1633374136;
     unsigned char    B2wPb0r5;
-    B2wPb0r5    =    1726046852;
+    B2wPb0r5    =    (unsigned char)1726046852;
 	long double	RL0Y;
 	RL0Y	=	-917393610;
     unsigned long long    zay7_;
@@ -179,7 +179,7 @@ int main(int argc, char** argv)
  short int a0W8YuU4i;
  a0W8YuU4i = (short)-1491569633;
   short int  og6i43flJe;
-  og6i43flJe  =  1468069102;
+  og6i43flJe  =  (short)1468069102;
 	unsigned char	dpX0Q_;
 	dpX0Q_	=	238476828;
     unsigned int    ukIHPjX;

@@ -26,7 +26,7 @@ int main(void) {
   unsigned short  C61ndq6ZM;
   C61ndq6ZM  =  (unsigned short)-1258615290;
 	unsigned short	WtfX8A3N;
-	WtfX8A3N	=	803697926;
+	WtfX8A3N	=	(unsigned short)803697926;
   unsigned short int  XZ4pcQUg2;
   XZ4pcQUg2  =  0;
 	int	ApgSi;
@@ -58,7 +58,7 @@ int main(void) {
 	unsigned short	eJ0P350;
 	eJ0P350	=	(unsigned short)-421126510;
     short    qM3mC0aF;
-    qM3mC0aF    =    2090195246;
+    qM3mC0aF    =    (short)2090195246;
  int paazzKcL;
  paazzKcL = 1511629377;
 	int	DBt1R4qL;

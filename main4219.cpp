@@ -260,7 +260,7 @@ if (o09Fy34f & YoQZoGt)
 {
 b_Qu4d_K7 = pNmH3N8((short)-1308089191, (unsigned short)885232892, D6A0lUb0U, i2OsoUG2N2) & YGr_MB;
 }
-std::cout << r0ugQeNIb3 << pNmH3N8(I702opQ6Z, (unsigned short)-1870384954, D6A0lUb0U, -1680094243) << pNmH3N8(36816164, t_tN11O, D6A0lUb0U, -704229142) << std::endl;
+std::cout << r0ugQeNIb3 << pNmH3N8(I702opQ6Z, (unsigned short)-1870384954, D6A0lUb0U, -1680094243) << pNmH3N8((short)36816164, t_tN11O, D6A0lUb0U, -704229142) << std::endl;
 
 zcQ0OqL5 /= 46742318;
 

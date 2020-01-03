@@ -54,7 +54,7 @@ int main() {
 	short int	IBVT_H;
 	IBVT_H	=	(short)1481295097;
     unsigned char    qlL0VQ;
-    qlL0VQ    =    860878940;
+    qlL0VQ    =    (unsigned char)860878940;
 	unsigned long long	P1ON;
 	P1ON	=	1352681744;
     unsigned long    lW6r6C;
@@ -86,7 +86,7 @@ int main() {
  unsigned short jyg75vvh;
  jyg75vvh = (unsigned short)121852818;
 	char	xh_L2Y;
-	xh_L2Y	=	712653905;
+	xh_L2Y	=	(char)712653905;
 	long double	uxiyuVe;
 	uxiyuVe	=	1123866272;
     short    oVhKU034_p;
@@ -124,7 +124,7 @@ int main() {
 	short int	WVn4Bd;
 	WVn4Bd	=	(short)-219376641;
   unsigned short int  H_hLmaW6zr;
-  H_hLmaW6zr  =  -994017895;
+  H_hLmaW6zr  =  (unsigned short)-994017895;
  char h86pj9;
  h86pj9 = (char)-1146123712;
  float LZMVVWW;

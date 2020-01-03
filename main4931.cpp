@@ -87,7 +87,7 @@ case 0:
 ck4nnf4RS = tH2T((short)1420074499, (char)954075769);
 break;
 case 1:
-q21I = tH2T((short)-890185045, -604811954);
+q21I = tH2T((short)-890185045, (char)-604811954);
 break;
 case 2:
 q21I = tH2T(b96e1A, sg1rhXH9);

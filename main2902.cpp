@@ -39,7 +39,7 @@ int main(void)
   short  Jwp57_6xWE;
   Jwp57_6xWE  =  (short)240689761;
     char    FuB3;
-    FuB3    =    1184322029;
+    FuB3    =    (char)1184322029;
     unsigned int    YRoqij6;
     YRoqij6    =    1161777627;
   char  v7zsvzi49O;
@@ -85,7 +85,7 @@ int main(void)
     short    xS3EX;
     xS3EX    =    (short)1770299853;
 	char	Aht6fs;
-	Aht6fs	=	734895618;
+	Aht6fs	=	(char)734895618;
   long long  P563;
   P563  =  0;
   long  B7A8F60V;
@@ -101,7 +101,7 @@ int main(void)
   double  pr_1XEg;
   pr_1XEg  =  -1370020834;
   unsigned char  tS57mR_ejE;
-  tS57mR_ejE  =  1285193834;
+  tS57mR_ejE  =  (unsigned char)1285193834;
   long double  N78MI192aP;
   N78MI192aP  =  -1683348596;
  double BalrJpz;
@@ -155,7 +155,7 @@ int main(void)
 	unsigned short int	ZrnN;
 	ZrnN	=	(unsigned short)310176370;
 	unsigned short int	A67Mq7RlHW;
-	A67Mq7RlHW	=	-2039629649;
+	A67Mq7RlHW	=	(unsigned short)-2039629649;
 	long long	SZ_S_fG2h;
 	SZ_S_fG2h	=	1178281893;
   unsigned int  Tk7k;

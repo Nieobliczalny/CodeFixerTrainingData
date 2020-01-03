@@ -52,7 +52,7 @@ int main()
 	short int	U45r;
 	U45r	=	(short)1638461886;
  unsigned short Zn7DCatWd;
- Zn7DCatWd = -455747643;
+ Zn7DCatWd = (unsigned short)-455747643;
   long double  U9M25ETd;
   U9M25ETd  =  133307688;
  long RYp7P;
@@ -112,7 +112,7 @@ int main()
 	short int	f32Fw2PV8x;
 	f32Fw2PV8x	=	(short)1762362376;
   char  MB78k;
-  MB78k  =  -1090088552;
+  MB78k  =  (char)-1090088552;
  char VW1s4X_A;
  VW1s4X_A = -133429195;
   int  t7Li2Z6;
@@ -152,7 +152,7 @@ int main()
   unsigned short int  yW794P;
   yW794P  =  (unsigned short)387147138;
 	short int	C1q_O_k432;
-	C1q_O_k432	=	-581390980;
+	C1q_O_k432	=	(short)-581390980;
   unsigned short  B50PZ;
   B50PZ  =  (unsigned short)-839741902;
     unsigned long    mcr2q93qb_;

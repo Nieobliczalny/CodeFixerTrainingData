@@ -169,7 +169,7 @@ int main(void)
   unsigned char  J7KY06530O;
   J7KY06530O  =  (unsigned char)1929402491;
   short int  FiXQIzT78P;
-  FiXQIzT78P  =  -450492921;
+  FiXQIzT78P  =  (short)-450492921;
 	double	a6LmA;
 	a6LmA	=	-134791722;
   short int  X2fc;

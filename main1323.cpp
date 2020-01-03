@@ -60,7 +60,7 @@ int main(int argc, char** argv)
 	unsigned short int	Fu0GJ3Pzg;
 	Fu0GJ3Pzg	=	(unsigned short)947666836;
     char    RK205mR;
-    RK205mR    =    -706643185;
+    RK205mR    =    (char)-706643185;
  long x5816F;
  x5816F = 2046830948;
   long  cA1r_GB3s;
@@ -118,7 +118,7 @@ int main(int argc, char** argv)
     unsigned char    eXu2Lz9k_M;
     eXu2Lz9k_M    =    (unsigned char)-1589079446;
     unsigned char    tPtc2CEr0;
-    tPtc2CEr0    =    -1128660;
+    tPtc2CEr0    =    (unsigned char)-1128660;
  unsigned long eDR27G;
  eDR27G = 730182102;
     unsigned short    PxpP7E_;

@@ -231,7 +231,7 @@ case 'c':
 cMf3O78_7 = (int)abs(J9Cq5i744d) + (2108749833);
 break;
 default:
-b51CmFx7TW = GuUq4u(180539108, zDE5eK2e4Z, 1239353259, md_2);
+b51CmFx7TW = GuUq4u((char)180539108, zDE5eK2e4Z, 1239353259, md_2);
 break;
 }
 }

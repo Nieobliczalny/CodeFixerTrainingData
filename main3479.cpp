@@ -25,7 +25,7 @@ int main(int argc, char** argv) {
   int  v53KJ6t0X  =  -946926306;
   unsigned short  VvGQlL_I6  =  (unsigned short)1711796775;
     char    ushb934nuM    =    (char)1891871152;
-    unsigned char    ZSEe693m    =    1530615977;
+    unsigned char    ZSEe693m    =    (unsigned char)1530615977;
 	unsigned short	WfML_DL6a	=	-323873104;
   unsigned int  r89FgT1f  =  63655971;
 	short int	xxGxJOK	=	(short)-550751301;
@@ -50,7 +50,7 @@ int main(int argc, char** argv) {
 	short int	usTPfX	=	(short)-1186752345;
   short int  RJ3u7t03Xz  =  (short)1907331752;
  unsigned int pt5lA = 663785907;
- unsigned short int Fn2ycCbhh1 = -102215606;
+ unsigned short int Fn2ycCbhh1 = (unsigned short)-102215606;
  long long a_93Dri = 1926625410;
 	short int	A8IwA9Bis5	=	-102374054;
  int GoGUg78 = -113887654;
@@ -62,7 +62,7 @@ int main(int argc, char** argv) {
  unsigned long long zhK_ = 1092536970;
 	unsigned short int	Z_b7p4k4Q	=	(unsigned short)-726054133;
   unsigned short int  Jmf7Lc  =  (unsigned short)412785688;
-	short	V_9qH	=	-650676091;
+	short	V_9qH	=	(short)-650676091;
   unsigned short  r8TvT  =  -1505185032;
 	unsigned short	g2aBAGBJe	=	-901426725;
  unsigned long long lQhj2zYt = 1238105167;
@@ -84,7 +84,7 @@ int main(int argc, char** argv) {
  short ynu0kJOn0 = (short)-201255796;
 	unsigned short	EnNib_7	=	(unsigned short)-1177819591;
     short    c3_aZYB    =    (short)1446888489;
- unsigned short int upo1LCQu = -1510877231;
+ unsigned short int upo1LCQu = (unsigned short)-1510877231;
 	unsigned short int	s9JcP2SVmo	=	-5698426;
   long long  hbsrnW  =  -1052475126;
     short int    Qml2D5C_2    =    -1721669671;
@@ -103,7 +103,7 @@ int main(int argc, char** argv) {
     unsigned int    GC3NKtQ2XG    =    1667077491;
  unsigned short PU84R6I1 = (unsigned short)1904805595;
   float  fdjMW8hI_  =  350228007;
-    unsigned short int    GO6U3_    =    468002225;
+    unsigned short int    GO6U3_    =    (unsigned short)468002225;
  unsigned long long SNV96 = 1269708963;
 	unsigned short	eH669K2Q4U	=	(unsigned short)-1175569145;
 	unsigned char	v06ixvZ9O	=	324857595;

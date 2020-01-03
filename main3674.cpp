@@ -27,7 +27,7 @@ int main(int argc, char** argv)
     unsigned short    WQs3QR2M_v;
     WQs3QR2M_v    =    (unsigned short)1482463337;
  unsigned char U86Gcg;
- U86Gcg = 1344252711;
+ U86Gcg = (unsigned char)1344252711;
   long  YceUBt84;
   YceUBt84  =  -77530674;
 	float	YbKW0_7C;
@@ -65,7 +65,7 @@ int main(int argc, char** argv)
 	long double	l__60G1SL;
 	l__60G1SL	=	1583375464;
 	unsigned short	K_6P5;
-	K_6P5	=	1338662786;
+	K_6P5	=	(unsigned short)1338662786;
  short int xCxdVcsN;
  xCxdVcsN = (short)382465054;
 	unsigned long	C8wL08;

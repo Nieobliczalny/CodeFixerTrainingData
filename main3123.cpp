@@ -117,7 +117,7 @@ int main() {
   unsigned short  vRBeUV;
   vRBeUV  =  (unsigned short)817716520;
  unsigned short cdzw912u5l;
- cdzw912u5l = -803902332;
+ cdzw912u5l = (unsigned short)-803902332;
     unsigned short int    dxJG;
     dxJG    =    (unsigned short)-649598324;
     double    boquwC;
@@ -135,7 +135,7 @@ int main() {
  char GBdr;
  GBdr = (char)-1265898042;
  unsigned short int G9r2O6k;
- G9r2O6k = 695755753;
+ G9r2O6k = (unsigned short)695755753;
  short fzm4w42Tr;
  fzm4w42Tr = (short)-859200608;
  double MePg;

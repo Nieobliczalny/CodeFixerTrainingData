@@ -279,7 +279,7 @@ case 7:
 uZ2RWaxg = x4C0o304(1708453346, (unsigned short)-108642266, -1121195210, (short)-923447071, srw6B2);
 break;
 case 8:
-b51ZN0 = x4C0o304(-1074707233, -380279492, D9j6w644, c5BZJ4af, 1981683090);
+b51ZN0 = x4C0o304(-1074707233, (unsigned short)-380279492, D9j6w644, c5BZJ4af, 1981683090);
 break;
 case 9:
 r2m1kmX = O65m_D4m(r2m1kmX, -320364130, K24rlPCw, 1090770206, FbxQ);
@@ -526,7 +526,7 @@ P78x = x4C0o304(278859167, (unsigned short)52868384, -530766554, (short)-2008694
 }
 else if (((srw6B2 == K24rlPCw) || (ReD0a_6X < -1520510371)) && ((Y5r9_A0neq != 1341750895) || (Aywmbw < -630856668)))
 {
-w0l0A = O65m_D4m(-337054245, D9j6w644, (unsigned char)752153897, b51ZN0, -424978185);
+w0l0A = O65m_D4m(-337054245, D9j6w644, (unsigned char)752153897, b51ZN0, (char)-424978185);
 }
 else if (Yq9156Z)
 {

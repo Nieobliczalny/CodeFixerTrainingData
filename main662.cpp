@@ -38,7 +38,7 @@ int main(void) {
  unsigned short vfz9q862;
  vfz9q862 = (unsigned short)1801860712;
   unsigned char  dEixD1s7;
-  dEixD1s7  =  622293260;
+  dEixD1s7  =  (unsigned char)622293260;
 	unsigned long	DEElLs;
 	DEElLs	=	821180596;
  unsigned short int KpyA;
@@ -50,7 +50,7 @@ Ern16 ^= v7o5;
 
 if (v7o5 & U7n1F9iTU)
 {
-cout << QCJq(908248804, KpyA, 734732883, (unsigned short)-936648381, -638755799) << Y1OPqFn78() << VL3u << endl;
+cout << QCJq(908248804, KpyA, 734732883, (unsigned short)-936648381, (unsigned char)-638755799) << Y1OPqFn78() << VL3u << endl;
 }
 else if (XuRi == 428677716)
 {

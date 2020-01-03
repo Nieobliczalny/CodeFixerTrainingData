@@ -86,7 +86,7 @@ int main(void) {
   long  egik9425;
   egik9425  =  1321067463;
   unsigned short  fAmZ;
-  fAmZ  =  34495125;
+  fAmZ  =  (unsigned short)34495125;
     unsigned int    YSzCe;
     YSzCe    =    -1972449252;
   int  MRZl1owoa;

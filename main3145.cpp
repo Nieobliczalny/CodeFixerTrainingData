@@ -40,7 +40,7 @@ int main(void)
     unsigned short int    ZQoxWM15ND    =    (unsigned short)1760163354;
   long long  ySC9f8  =  1373072460;
   char  ps72Q49  =  (char)188423931;
-  unsigned short  eu509  =  1333439769;
+  unsigned short  eu509  =  (unsigned short)1333439769;
 	char	sXcYG	=	819916325;
     short int    l5OT_tI    =    -1483349281;
   unsigned short  lVS_Z3tq52  =  -1105435664;

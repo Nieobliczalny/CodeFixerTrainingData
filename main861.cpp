@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
     long    aYXMAVkLkd    =    -1850272879;
   unsigned char  mPJn7  =  (unsigned char)1010648595;
 	unsigned long long	yr_N5	=	353851871;
- short int hkk537R5Z = -605313344;
+ short int hkk537R5Z = (short)-605313344;
     long long    cCTV5m5m    =    -1099918052;
     unsigned int    YuvAsR    =    1677386667;
     short int    P5RG    =    -5602414;
@@ -53,7 +53,7 @@ int main(int argc, char** argv) {
 	int	V6FIyUYz	=	310864361;
  int T446H = 1444266066;
     short int    N453h    =    (short)1932582879;
- char wF__qj0O = -466549339;
+ char wF__qj0O = (char)-466549339;
  int eVI5_04jKC = -1878691409;
     double    KfX1WHF_    =    -344976862;
     int    jym3f6V    =    -894969186;
@@ -65,7 +65,7 @@ int main(int argc, char** argv) {
   unsigned short  aL4eTn  =  (unsigned short)-1919855385;
  double gU0w7E7K = -2111086080;
  long long L3zuf6 = -1361555915;
-    short    eGs5U9    =    -1541962822;
+    short    eGs5U9    =    (short)-1541962822;
     short    fvrJX    =    2081509154;
   short  Ezap  =  (short)-1894157211;
  unsigned long long E0J8w9_O = 1429513783;
@@ -75,7 +75,7 @@ int main(int argc, char** argv) {
  unsigned char paTYJ46p5V = (unsigned char)-1035831699;
 	double	x_2gLG	=	1061313371;
 	unsigned long long	cq3yB882f4	=	1235453131;
-    char    sPk9_iqg    =    1822636368;
+    char    sPk9_iqg    =    (char)1822636368;
   float  fS1B  =  661390031;
 	int	n6N_	=	0;
     unsigned int    dkyMTP5    =    0;
@@ -85,7 +85,7 @@ int main(int argc, char** argv) {
  char mqNG_F = (char)-234484310;
     long    q3R7ZtkrG1    =    0;
   long long  z1wf1_sd  =  -144114037;
-    unsigned short int    Lfx6iDuY9    =    1541887157;
+    unsigned short int    Lfx6iDuY9    =    (unsigned short)1541887157;
     unsigned int    T36daCYE2    =    -1303787650;
 
 if ((T36daCYE2 != Z07fd_5n) && (XS65q == Z07fd_5n))
@@ -404,7 +404,7 @@ YuvAsR = aaXt(-1345664571, q3R7ZtkrG1, (unsigned short)-613689889, yr_N5, DcP9iS
 vQgu4selL = aaXt(vQgu4selL, z1wf1_sd, (unsigned short)278232137, Ezap, (unsigned short)-1349502330);
 n6N_ = Btnhe_(n6N_, -1588365631);
 
-cout << AXBb_9() << mPJn7 << DcP9iS4 << W16OAIF(1536810637, N24W, 913235920) << endl;
+cout << AXBb_9() << mPJn7 << DcP9iS4 << W16OAIF((unsigned char)1536810637, N24W, 913235920) << endl;
 {
 int i = 2;
 while (i >= 0)

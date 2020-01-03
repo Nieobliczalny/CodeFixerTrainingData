@@ -29,7 +29,7 @@ int main(int argc, char** argv)
 	unsigned short int	i4767	=	(unsigned short)585947126;
  long long Fez5_ = 851626571;
  long jkxm4J5Day = 315083178;
-	unsigned short	DHx12g	=	-2050817432;
+	unsigned short	DHx12g	=	(unsigned short)-2050817432;
     double    J6mK    =    632622258;
 	double	T6ECr0	=	1282284608;
  unsigned short int i9v0153aRG = 855931333;
@@ -50,7 +50,7 @@ int main(int argc, char** argv)
   short int  yEeb_rx  =  (short)544116848;
  unsigned long long PlWA = -756707510;
  long p231os = -1375722665;
- unsigned short RqI3_4u8O = 381721488;
+ unsigned short RqI3_4u8O = (unsigned short)381721488;
     long double    O6FlX    =    -1686681088;
 	int	JX85kC	=	-1554251259;
     short int    Hz_4yYJ7M    =    (short)776506607;
@@ -89,7 +89,7 @@ case 0:
 FOJtu6bSU6 = (FOJtu6bSU6 >= 228676365) ? TixAc1GIr : 974342020;
 break;
 case 1:
-Mj44c80P_ = j_GdXBTMbq((char)508620938, -803506718);
+Mj44c80P_ = j_GdXBTMbq((char)508620938, (unsigned short)-803506718);
 break;
 case 2:
 dqv7_VA16 = (int)floor(O6FlX);

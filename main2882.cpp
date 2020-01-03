@@ -98,7 +98,7 @@ int main(int argc, char** argv)
 	short	WeLI;
 	WeLI	=	(short)1373944915;
 	unsigned char	ym9ulycn_L;
-	ym9ulycn_L	=	1590943876;
+	ym9ulycn_L	=	(unsigned char)1590943876;
  unsigned short E4NJ;
  E4NJ = -1610231599;
     float    cf1f_;
@@ -130,7 +130,7 @@ int main(int argc, char** argv)
 	unsigned char	QYc8cVX;
 	QYc8cVX	=	(unsigned char)1931307166;
 	char	mEe_5;
-	mEe_5	=	472456198;
+	mEe_5	=	(char)472456198;
  unsigned long Pn8a46wXv;
  Pn8a46wXv = 1872182009;
   unsigned int  Y_64;
@@ -164,7 +164,7 @@ int main(int argc, char** argv)
   unsigned long long  B5a2LXFU;
   B5a2LXFU  =  -1792492111;
   unsigned short  jW1868E;
-  jW1868E  =  -1849135443;
+  jW1868E  =  (unsigned short)-1849135443;
   unsigned short  a24m0tFIr;
   a24m0tFIr  =  (unsigned short)1515822047;
 	long	zXkx0g;

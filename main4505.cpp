@@ -48,7 +48,7 @@ int main(int argc, char** argv)
   unsigned long  ZxAhIsz  =  706080813;
     unsigned char    ZeDvZQ8    =    (unsigned char)1219879291;
 
-if ((389418450 / VfC46P3D0x(1586729285)) == 379349452)
+if ((389418450 / VfC46P3D0x((unsigned short)1586729285)) == 379349452)
 {
 Hrb71U = VfC46P3D0x(BLjKRA1ac);
 }

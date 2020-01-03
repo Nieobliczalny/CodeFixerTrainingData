@@ -89,7 +89,7 @@ k++;
 }
 }
 }
-uGB5 = X32rQed(-1091627600, c_r7bBuEl, (unsigned char)1393657960, WTyf, -846848332);
+uGB5 = X32rQed(-1091627600, c_r7bBuEl, (unsigned char)1393657960, WTyf, (char)-846848332);
 
 for (int i = 9; i >= 0; i--)
 {

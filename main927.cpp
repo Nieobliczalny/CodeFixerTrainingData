@@ -108,7 +108,7 @@ int main(void) {
     short int    GW_5t9k;
     GW_5t9k    =    (short)-1787730275;
   unsigned short  J28m8fSc7X;
-  J28m8fSc7X  =  -1050219936;
+  J28m8fSc7X  =  (unsigned short)-1050219936;
   unsigned short int  P7iJ5EOZ_;
   P7iJ5EOZ_  =  (unsigned short)-362606666;
     int    p3yi;
@@ -184,7 +184,7 @@ int main(void) {
 	short	uYB_;
 	uYB_	=	(short)905457746;
 	char	s_C_ey9wz3;
-	s_C_ey9wz3	=	-514498890;
+	s_C_ey9wz3	=	(char)-514498890;
   unsigned short int  uf90_sqyPf;
   uf90_sqyPf  =  -256810001;
 	long long	JD9Dz;

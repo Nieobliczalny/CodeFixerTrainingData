@@ -54,7 +54,7 @@ int main(int argc, char** argv)
 	unsigned short	HnHWB;
 	HnHWB	=	(unsigned short)-388583251;
     unsigned short int    y7XvDHa;
-    y7XvDHa    =    665125989;
+    y7XvDHa    =    (unsigned short)665125989;
   short  exWh;
   exWh  =  2094855878;
     double    USCA;
@@ -70,7 +70,7 @@ int main(int argc, char** argv)
   short int  xJbt0b;
   xJbt0b  =  (short)-2129304317;
  unsigned char M2lM21;
- M2lM21 = 1384852539;
+ M2lM21 = (unsigned char)1384852539;
   unsigned char  GiZyR7_7l;
   GiZyR7_7l  =  (unsigned char)2055175701;
     unsigned long    Sie5bBrO;

@@ -131,7 +131,7 @@ mY5IN = o20f(mY5IN, (char)-1023383542, (short)-1843947745, 1465173275);
 break;
 }
 
-EP1ip4T0b = o20f(1094179730, -275567285, mY5IN, ouyszUL7G);
+EP1ip4T0b = o20f((char)1094179730, -275567285, mY5IN, ouyszUL7G);
 for (int i = 10; i >= 0; --i)
 {
 if (U9n0S_0 != bf158I)
@@ -527,7 +527,7 @@ case 'b':
 U9n0S_0 = E0Ma59d39(U9n0S_0);
 break;
 case 'c':
-sHys = o20f((char)1088870271, RMt2qK, 374435422, -1894900699);
+sHys = o20f((char)1088870271, RMt2qK, (short)374435422, -1894900699);
 break;
 case 'd':
 p_6oBol = o20f(p_6oBol, E_sC84XreC, CQO7, WDu9Cr);

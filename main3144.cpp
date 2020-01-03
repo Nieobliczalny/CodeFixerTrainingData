@@ -429,7 +429,7 @@ zpuG = u2ZG_(PW372cYw, 988378129, rp_h, 1957712553) & 1543194029;
 }
 else
 {
-P32yF = (zpuG) ? 1161397317 : NXTOa;
+P32yF = (zpuG) ? (short)1161397317 : NXTOa;
 }
 }
 else

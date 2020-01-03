@@ -20,7 +20,7 @@ int main(int argc, char** argv)
     char    Vq_pJA42Tx    =    (char)-405300039;
 	long	f71J_Cep	=	462744793;
  unsigned short int eVe75e = (unsigned short)182395333;
-  char  H8L0_  =  -2116798664;
+  char  H8L0_  =  (char)-2116798664;
   unsigned char  lzhqTxH  =  907311007;
   long long  ZTvb9In1k  =  749841373;
 	unsigned short int	uFzp41_a1	=	-167884971;
@@ -38,7 +38,7 @@ int main(int argc, char** argv)
     long double    HA3d    =    1120562820;
     double    O2fnEu0p    =    1808148607;
   unsigned int  eOs7A  =  834622578;
-  char  RUYw_3KKr6  =  86764676;
+  char  RUYw_3KKr6  =  (char)86764676;
   short int  RjvB1cBG__  =  449173418;
   unsigned long long  X_ND_7  =  36413789;
   unsigned int  eJp0  =  1226641727;
@@ -49,7 +49,7 @@ int main(int argc, char** argv)
   unsigned long long  xRh2KVH  =  -1908373065;
   long  uOM_  =  -574306628;
     unsigned short int    jy4D    =    (unsigned short)1182921070;
-    unsigned short int    AkHlE    =    -995087741;
+    unsigned short int    AkHlE    =    (unsigned short)-995087741;
  unsigned short M_Epi = 0;
 	unsigned short	w_80	=	-1970371465;
 
@@ -131,7 +131,7 @@ case 2:
 eOs7A = Z8YGI6dhW(eOs7A, AkHlE);
 break;
 case 3:
-M_Epi = g8GAD8rW(1093873289, K0Q4, -1215229099);
+M_Epi = g8GAD8rW((unsigned short)1093873289, K0Q4, -1215229099);
 break;
 case 4:
 wHPj3_1R -= eJp0;
@@ -260,7 +260,7 @@ case 3:
 MUF39f2PtN = (int)ceil(gL52aHOEU);
 break;
 case 4:
-xRh2KVH = DzhI_B((short)-1778002303, 1650772435);
+xRh2KVH = DzhI_B((short)-1778002303, (short)1650772435);
 break;
 case 5:
 EpPL2TN22 = (int)ceil(gL52aHOEU);

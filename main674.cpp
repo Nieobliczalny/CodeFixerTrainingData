@@ -48,7 +48,7 @@ int main(int argc, char** argv)
  short int ICEeg = (short)-1845937705;
  unsigned short int sT8Oeh78J = 0;
  short int Z5E0EZ9j = (short)244102564;
-    short    nZuuWMQLs    =    -469394472;
+    short    nZuuWMQLs    =    (short)-469394472;
     unsigned short int    R5vS4U43_r    =    -156265795;
   unsigned short  IkPYc  =  -2061146832;
  double J93o7vPtxv = 1279998124;
@@ -59,7 +59,7 @@ int main(int argc, char** argv)
  unsigned short int H7n8 = (unsigned short)-1871842165;
   short int  Z3G18J6  =  (short)1207852310;
     unsigned long    z992KI    =    718690646;
-  unsigned char  m5u5HX5  =  1181338685;
+  unsigned char  m5u5HX5  =  (unsigned char)1181338685;
 	short int	aLa9f9	=	0;
 	unsigned long long	n2QOi3	=	-438429995;
  short int rXKDpo = 1630334744;
@@ -71,7 +71,7 @@ int main(int argc, char** argv)
   unsigned short int  UV6_4oqC1  =  -2126505184;
 	long long	QgPFo7vxN	=	1248687777;
   unsigned int  cSIgj0f_h4  =  -47304210;
-  short int  L24_KRSkxY  =  -868136587;
+  short int  L24_KRSkxY  =  (short)-868136587;
   int  eN39Yv  =  256832068;
 	unsigned short int	B_r9H	=	1897925077;
  int pJZ1RTEVR4 = 1562211381;
@@ -99,7 +99,7 @@ int main(int argc, char** argv)
 	short int	hsvF52	=	(short)-313014016;
  char poGND = (char)-2114963894;
  char w34g = (char)1138470126;
-	short	buHH_EZ	=	1334052389;
+	short	buHH_EZ	=	(short)1334052389;
  long long B_7e1 = 427948525;
 	long double	K7_S4x2Vw	=	49660542;
  unsigned long eu8_oADO = -427240972;
@@ -515,7 +515,7 @@ e88a7I19 = -1595184694 / LY0zgb6H(QgPFo7vxN, (unsigned char)1774995753);
 
 if (o__CLZ4DPr != L24_KRSkxY)
 {
-std::cout << qIi_Sgr(QgPFo7vxN, e88a7I19, (short)1069998958, IkPYc, (short)-1141626615) << qIi_Sgr(353267712, 1644867718, -522345947, 1946307859, e6BGFKC132) << LY0zgb6H(QgPFo7vxN, 483128457) << MZ898 << std::endl;
+std::cout << qIi_Sgr(QgPFo7vxN, e88a7I19, (short)1069998958, IkPYc, (short)-1141626615) << qIi_Sgr(353267712, (short)1644867718, -522345947, 1946307859, e6BGFKC132) << LY0zgb6H(QgPFo7vxN, 483128457) << MZ898 << std::endl;
 }
 else
 {

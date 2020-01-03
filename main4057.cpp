@@ -128,7 +128,7 @@ case 'c':
 o31743 = wGAD43eCO(Pwxhfoh__V, Fk1V3, -1716426127, (char)667819582);
 break;
 case 'd':
-o31743 = wGAD43eCO(-272825147, (unsigned short)-1087432470, I3526KZu, 1984769961);
+o31743 = wGAD43eCO(-272825147, (unsigned short)-1087432470, I3526KZu, (char)1984769961);
 break;
 case 'e':
 dQr_fdKVQQ %= cLt__M5MT1;
@@ -193,7 +193,7 @@ XK8I3 = wGAD43eCO(-768761301, (unsigned short)321653271, DCl37cu5, (char)1040398
 }
 else
 {
-std::cout << wGAD43eCO(cP7MXdy, (unsigned short)-827438035, DCl37cu5, -400931667) << std::endl;
+std::cout << wGAD43eCO(cP7MXdy, (unsigned short)-827438035, DCl37cu5, (char)-400931667) << std::endl;
 }
 }
 

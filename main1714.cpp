@@ -48,7 +48,7 @@ int main() {
     unsigned char    V4_pWk_1jP;
     V4_pWk_1jP    =    (unsigned char)-1405665503;
     unsigned short int    iS_xY9Yah;
-    iS_xY9Yah    =    -266327915;
+    iS_xY9Yah    =    (unsigned short)-266327915;
  float WZPE8;
  WZPE8 = -745728348;
 	long long	h10_eGB8uD;

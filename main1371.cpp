@@ -155,7 +155,7 @@ u6_0 = f11B5 | 858059118;
 break;
 case 'e':
 case 'E':
-Gnp2Zx2i8e = defF(-449808840, I2Ch, lUm_, kpOW3ta6);
+Gnp2Zx2i8e = defF((unsigned short)-449808840, I2Ch, lUm_, kpOW3ta6);
 break;
 case 'f':
 case 'F':
@@ -167,7 +167,7 @@ Ov17rr = defF((unsigned short)1770155658, (unsigned short)1025414920, qC6Fn, (sh
 break;
 case 'h':
 case 'H':
-u6_0 = o3IcD19_F3(-1757699560, IgyJ7Fw6t);
+u6_0 = o3IcD19_F3((unsigned char)-1757699560, IgyJ7Fw6t);
 break;
 default:
 ufo5MUc = l0u1_2Re65 | D_u31k93uc;
@@ -311,7 +311,7 @@ Ov17rr = defF((unsigned short)96375687, Ov17rr, xgQ71k21RT, (short)1950109792);
 }
 else if ((x4rwq22tbl <= MoR__JCaY) || ((U_Wg6 != -1874007473) && (u6_0)))
 {
-x4rwq22tbl = defF((unsigned short)11411150, f11B5, 1510733692, h54dPnK3);
+x4rwq22tbl = defF((unsigned short)11411150, f11B5, (char)1510733692, h54dPnK3);
 }
 else if (S7JaOz2aHL & 1122554304)
 {
@@ -389,7 +389,7 @@ else
 switch (wCF14FAR_4)
 {
 case 0:
-rU07S4_zv = o3IcD19_F3(rU07S4_zv, 1880857286);
+rU07S4_zv = o3IcD19_F3(rU07S4_zv, (unsigned char)1880857286);
 break;
 case 1:
 wCF14FAR_4 /= 1595787217;
@@ -411,7 +411,7 @@ if (D_u31k93uc & MoR__JCaY)
 t30sSmp = (int)(P7OEFPvNh);
 }
 Ov17rr = defF((unsigned short)-811672672, i05V_8Islg, o3Jq21Gbm, (short)-24972954);
-std::cout << Ov17rr << defF(l0u1_2Re65, (unsigned short)1875070432, 1868202920, IgyJ7Fw6t) << std::endl;
+std::cout << Ov17rr << defF(l0u1_2Re65, (unsigned short)1875070432, (char)1868202920, IgyJ7Fw6t) << std::endl;
 switch (Zdr4)
 {
 case 0:
@@ -515,7 +515,7 @@ I2Ch = o3IcD19_F3((unsigned char)-533378505, (unsigned char)1768643367);
 }
 else if (Ov17rr & i__5d)
 {
-ufo5MUc = o3IcD19_F3((unsigned char)-1261695265, 1154723005);
+ufo5MUc = o3IcD19_F3((unsigned char)-1261695265, (unsigned char)1154723005);
 }
 else
 {
@@ -573,7 +573,7 @@ Zdr4 = defF((unsigned short)1156253971, (unsigned short)197446188, wCF14FAR_4, (
 }
 else
 {
-QVI2 = o3IcD19_F3(-1613587632, 1344555445);
+QVI2 = o3IcD19_F3((unsigned char)-1613587632, 1344555445);
 }
 }
 while (i < 5);
@@ -630,7 +630,7 @@ case 'b':
 u8tcGf9UK = o3IcD19_F3((unsigned char)1712965183, wCF14FAR_4);
 break;
 case 'c':
-Ov17rr = defF(uZ9mD2Cz, (unsigned short)1338175798, K66zZlfO, 1453221522);
+Ov17rr = defF(uZ9mD2Cz, (unsigned short)1338175798, K66zZlfO, (short)1453221522);
 break;
 case 'd':
 I2Ch = (int)abs(lUm_);

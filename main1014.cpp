@@ -42,7 +42,7 @@ case 'd':
 GDN3Q = q_h0kF5I((short)-1483708774, BNG95Y673);
 break;
 case 'e':
-SE6_eii = kra1_961((short)-1638210331, 1953474789, 652675387);
+SE6_eii = kra1_961((short)-1638210331, 1953474789, (unsigned short)652675387);
 break;
 case 'f':
 Xe2G89 = q_h0kF5I((short)178394214, -1260708988);
@@ -972,7 +972,7 @@ case 'f':
 SE6_eii = kra1_961((short)1861465026, -1737658022, (unsigned short)-1252462886);
 break;
 case 'g':
-qXKs = kra1_961((short)-728620456, 32494257, 600610556);
+qXKs = kra1_961((short)-728620456, 32494257, (unsigned short)600610556);
 break;
 case 'h':
 N1o8 = kra1_961(Zs7_21RE8, roY3cFr, YoAr2WgK);

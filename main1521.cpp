@@ -218,7 +218,7 @@ case 'g':
 IhCcK = rlB5g(IhCcK, 941334171, V2YI8NX, 1428357822, (unsigned short)-1096695470);
 break;
 case 'h':
-o7ZWd = rlB5g(o7ZWd, 1830621735, -77844381, 1739325265, -967752512);
+o7ZWd = rlB5g(o7ZWd, 1830621735, (short)-77844381, 1739325265, -967752512);
 break;
 default:
 f78x11cu_ = M10Xe();
@@ -465,7 +465,7 @@ S417Jrzo7 *= q9mpTe4x;
 break;
 case 'c':
 case 'C':
-JL143M = VtH02f(1475924507, -1065029310);
+JL143M = VtH02f((unsigned short)1475924507, -1065029310);
 break;
 case 'd':
 case 'D':

@@ -103,7 +103,7 @@ int main() {
  unsigned short int nQ1HeA;
  nQ1HeA = (unsigned short)-1328672153;
   unsigned short int  HHxU2Q;
-  HHxU2Q  =  -325742150;
+  HHxU2Q  =  (unsigned short)-325742150;
 	long long	eV6P7;
 	eV6P7	=	-319666074;
     int    ii52;
@@ -436,7 +436,7 @@ else
 {
 for (int j = 0; j < 7; ++j)
 {
-cout << "tAixQYzgf" << mdfFy7O(rTn2R, (char)73898365, (char)-1012776819, 1057638572, 70343061) << gx0VK << v788CGu(-1306777655, Qb0n965Rc7, WQ35BQvj5) << z4ICDE5e << endl;
+cout << "tAixQYzgf" << mdfFy7O(rTn2R, (char)73898365, (char)-1012776819, (unsigned char)1057638572, 70343061) << gx0VK << v788CGu(-1306777655, Qb0n965Rc7, WQ35BQvj5) << z4ICDE5e << endl;
 }
 }
 

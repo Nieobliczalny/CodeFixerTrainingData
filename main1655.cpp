@@ -592,7 +592,7 @@ BiYX31 = lfX7zR((unsigned short)737571508, GL1lWC, yo38CANx0p, (unsigned char)30
 }
 else if (((nI608P3) && (L4d4gVp == tJgS)) || (fzp8v > -1400104235))
 {
-ju4p7_M = lfX7zR((unsigned short)276039349, GL1lWC, 1206798743, 1954695796);
+ju4p7_M = lfX7zR((unsigned short)276039349, GL1lWC, 1206798743, (unsigned char)1954695796);
 }
 else if (i9H_b4 != ubYl8Gj)
 {

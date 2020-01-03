@@ -212,7 +212,7 @@ case 6:
 sEbf42S56 = (int)abs(Tx2Dshw9m3);
 break;
 case 7:
-BH9ET5635v = xmnlo((short)-923764964, UfJA8PCK, -110237477, O142);
+BH9ET5635v = xmnlo((short)-923764964, UfJA8PCK, (unsigned short)-110237477, O142);
 break;
 }
 }
@@ -475,7 +475,7 @@ case 'c':
 tU3C7P = mIrm0w8ZK7();
 break;
 case 'd':
-a3OTZf = xmnlo((short)864948480, -643083134, -860744160, hDK_ic);
+a3OTZf = xmnlo((short)864948480, -643083134, (unsigned short)-860744160, hDK_ic);
 break;
 case 'e':
 Tx2Dshw9m3 = mIrm0w8ZK7();

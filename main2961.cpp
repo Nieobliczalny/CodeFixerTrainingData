@@ -28,7 +28,7 @@ int main(int argc, char** argv) {
  char j5hb505r7;
  j5hb505r7 = (char)1674500119;
  short int bhN_D;
- bhN_D = 985174686;
+ bhN_D = (short)985174686;
   unsigned char  eWqo5n8__;
   eWqo5n8__  =  0;
     short    k33ls;
@@ -48,7 +48,7 @@ int main(int argc, char** argv) {
     unsigned int    w6Z2w5;
     w6Z2w5    =    -1911946954;
 	char	v88S1Br3h6;
-	v88S1Br3h6	=	1076176013;
+	v88S1Br3h6	=	(char)1076176013;
  long double K9QrrD;
  K9QrrD = -1126053507;
 	short int	Q_YxtJ3zrX;
@@ -60,7 +60,7 @@ int main(int argc, char** argv) {
  unsigned long long cucx5;
  cucx5 = -1737884995;
     unsigned char    rG4L1gJ3;
-    rG4L1gJ3    =    1470084303;
+    rG4L1gJ3    =    (unsigned char)1470084303;
 	unsigned long long	g7n6sv074a;
 	g7n6sv074a	=	-418823195;
   double  NI_hb;
@@ -112,7 +112,7 @@ int main(int argc, char** argv) {
     short    c44O_3D0v;
     c44O_3D0v    =    (short)-499328491;
 	short	o4edJ9fOw;
-	o4edJ9fOw	=	-928467194;
+	o4edJ9fOw	=	(short)-928467194;
   short int  b8UW9zH;
   b8UW9zH  =  -1972834604;
   long  s_r3;
@@ -174,7 +174,7 @@ case 4:
 hEACcBch6 = Z2_J4kM(v2XAK, K9QrrD, (short)-1299297470, 1967403097);
 break;
 case 5:
-D68hEg = Z2_J4kM(bhN_D, CVi2t6, 1599855329, D68hEg);
+D68hEg = Z2_J4kM(bhN_D, CVi2t6, (short)1599855329, D68hEg);
 break;
 case 6:
 J4lMYm6 = (int)ceil(IdTQ3ehXh);
@@ -611,7 +611,7 @@ uWj3 = (short)(Lua25_);
 
 cout << Z2_J4kM((short)566402782, -1032632310, (short)-165535854, J4lMYm6) << H32Ll << P3Hk02Z9 << "T08su93L" << qWA1u0_7 << endl;
 
-cout << hWx_6PsWb3 << Z2_J4kM((short)-897046621, D888Iv_K, H32Ll, 312252764) << "ktI0ta" << Lua25_ << FR29oI(IdTQ3ehXh, 756467652) << endl;
+cout << hWx_6PsWb3 << Z2_J4kM((short)-897046621, D888Iv_K, H32Ll, 312252764) << "ktI0ta" << Lua25_ << FR29oI(IdTQ3ehXh, (short)756467652) << endl;
 if (d9I8 <= k33ls)
 {
 cout << FR29oI(299460750, 1844229618) << Z2_J4kM(1039377064, D888Iv_K, 1952580750, -512137138) << endl;

@@ -50,7 +50,7 @@ int main(int argc, char** argv) {
  unsigned long u1dVWmEb = -995403261;
   double  KkCPMKP35P  =  -110846859;
 	unsigned char	M8WNhH5E	=	(unsigned char)-1619089046;
- unsigned short int Y48g15Y0eT = 1405179431;
+ unsigned short int Y48g15Y0eT = (unsigned short)1405179431;
     unsigned short    GsABv_z    =    1739368135;
     unsigned long    Sk9W5    =    1257469712;
     unsigned short int    fAt73    =    (unsigned short)-1845540211;
@@ -76,7 +76,7 @@ int main(int argc, char** argv) {
     short int    Dh90kQX    =    (short)391439842;
  double YM3Gmlp1L9 = -1138983527;
   unsigned int  wQ7eMCl  =  -837824805;
- short int Z1s9NJ1i = 890019496;
+ short int Z1s9NJ1i = (short)890019496;
  float n94VoKwo = -909385887;
   unsigned int  p69UO  =  1976912870;
 

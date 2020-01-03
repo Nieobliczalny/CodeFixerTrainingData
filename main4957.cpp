@@ -26,7 +26,7 @@ int main(int argc, char** argv) {
  unsigned char AYdNAdiMQ;
  AYdNAdiMQ = (unsigned char)-642598288;
 	short	SKxj;
-	SKxj	=	-2091924588;
+	SKxj	=	(short)-2091924588;
 	unsigned short	ygy_C6X;
 	ygy_C6X	=	0;
 	double	EpVTYCg3;

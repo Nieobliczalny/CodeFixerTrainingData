@@ -55,7 +55,7 @@ int main()
   unsigned char  aA0BbFFb;
   aA0BbFFb  =  (unsigned char)-237105591;
  short int sq3Gs2o;
- sq3Gs2o = 1598047832;
+ sq3Gs2o = (short)1598047832;
  long long ofZr2mse;
  ofZr2mse = -900467426;
 	unsigned long	mfho;
@@ -103,7 +103,7 @@ int main()
  unsigned short int lbRA0MRZZ;
  lbRA0MRZZ = (unsigned short)-901881857;
   short int  BrMNQR4;
-  BrMNQR4  =  -1288016327;
+  BrMNQR4  =  (short)-1288016327;
 	unsigned long	SM1b;
 	SM1b	=	-1809056858;
     unsigned short    a7_03;

@@ -41,7 +41,7 @@ int main()
 	unsigned short int	vCcj7x;
 	vCcj7x	=	(unsigned short)327164644;
   short int  D8kAw1;
-  D8kAw1  =  1059328647;
+  D8kAw1  =  (short)1059328647;
  short nLWDANL;
  nLWDANL = -1372875787;
     unsigned int    PY_9FahZ48;
@@ -83,7 +83,7 @@ int main()
  unsigned short int qWh1;
  qWh1 = (unsigned short)1023603893;
 	char	y_mp2m9_Dl;
-	y_mp2m9_Dl	=	-896611856;
+	y_mp2m9_Dl	=	(char)-896611856;
     unsigned int    H51Wi;
     H51Wi    =    1869488468;
 	char	l6vgI;
@@ -95,7 +95,7 @@ int main()
 	short	fS0R94;
 	fS0R94	=	(short)-282272117;
 	char	kh2r11;
-	kh2r11	=	-1518211412;
+	kh2r11	=	(char)-1518211412;
   unsigned short int  GB_y;
   GB_y  =  0;
     unsigned short int    n_925Dq;

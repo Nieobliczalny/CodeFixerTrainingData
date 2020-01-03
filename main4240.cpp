@@ -64,7 +64,7 @@ int main(void) {
   short int  jhit;
   jhit  =  (short)-84864913;
  char q28t1y_JKj;
- q28t1y_JKj = 408696292;
+ q28t1y_JKj = (char)408696292;
   long double  n86cjx;
   n86cjx  =  -2124863136;
   unsigned int  g_G9F;
@@ -92,7 +92,7 @@ int main(void) {
  char yrJ1KV;
  yrJ1KV = (char)-1591543068;
  unsigned short int zQ3M3o_5WB;
- zQ3M3o_5WB = -1150046118;
+ zQ3M3o_5WB = (unsigned short)-1150046118;
  unsigned short int lY45;
  lY45 = (unsigned short)-1923298185;
     short    Et064TW;

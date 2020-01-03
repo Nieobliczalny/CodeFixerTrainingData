@@ -146,7 +146,7 @@ R16Z6Y -= 753746315;
 }
 else
 {
-AixRni2 = AiOC((short)-1062749633, (unsigned short)-1127625164, (unsigned short)-660951145, 1922643271);
+AixRni2 = AiOC((short)-1062749633, (unsigned short)-1127625164, (unsigned short)-660951145, (unsigned short)1922643271);
 }
 
 z21uz = (GFa6z & -1035051611) ? 2088764330 : rCo2P40;
@@ -194,7 +194,7 @@ D2SPwk = G9A_902P(bE3Ah, (short)802790173, bNvSyN36T3);
 break;
 case 'd':
 case 'D':
-AixRni2 = AiOC(AixRni2, (unsigned short)-392516714, 1007650092, 187704292);
+AixRni2 = AiOC(AixRni2, (unsigned short)-392516714, (unsigned short)1007650092, 187704292);
 break;
 case 'e':
 case 'E':

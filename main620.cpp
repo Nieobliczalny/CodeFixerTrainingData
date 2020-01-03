@@ -72,7 +72,7 @@ int main()
  unsigned char dcC2Uu6T1S;
  dcC2Uu6T1S = (unsigned char)-713187348;
 	char	j_xS5l;
-	j_xS5l	=	1079972475;
+	j_xS5l	=	(char)1079972475;
   long long  s2XdQ_912;
   s2XdQ_912  =  41343490;
   short  fUN689FwZ;
@@ -134,7 +134,7 @@ int main()
   unsigned short  NiupGk55;
   NiupGk55  =  (unsigned short)-534021831;
   unsigned short int  Y493V9G;
-  Y493V9G  =  1439961207;
+  Y493V9G  =  (unsigned short)1439961207;
   float  QW11;
   QW11  =  857539287;
  unsigned char SID26XtYov;
@@ -156,7 +156,7 @@ int main()
 	char	M3GU29G;
 	M3GU29G	=	(char)-2144109888;
 	short	Yn_xR9;
-	Yn_xR9	=	1462921529;
+	Yn_xR9	=	(short)1462921529;
  unsigned long long LaU9q0;
  LaU9q0 = 2044110064;
   unsigned long  PXHn6718u;
@@ -284,7 +284,7 @@ case 5:
 v5f735f5u4 = (int)ceil(o2D_9);
 break;
 default:
-j7SZz2Lx = LUrwG((unsigned short)110163432, (unsigned short)-165819762, 1277924531, -281477078);
+j7SZz2Lx = LUrwG((unsigned short)110163432, (unsigned short)-165819762, (short)1277924531, -281477078);
 break;
 }
 }
@@ -335,7 +335,7 @@ w70a++;
 }
 else
 {
-y0B21K = QE06(-1205385659, -1932900046, -1600413068);
+y0B21K = QE06((short)-1205385659, -1932900046, -1600413068);
 }
 if (L3d2__J3 != 1783320066)
 {
@@ -367,7 +367,7 @@ j7SZz2Lx = LUrwG((unsigned short)1184299899, (unsigned short)-1902539462, ps4N, 
 }
 else if (((Kf1v2Iv4 < 163078710) || (I797 > 1208989530)) && (Gk6NbA <= -1834348543))
 {
-cout << "er0CpN6204" << IQ4_ << s2XdQ_912 << T_jCE43sp << QE06(786945189, 371391944, ps4N) << endl;
+cout << "er0CpN6204" << IQ4_ << s2XdQ_912 << T_jCE43sp << QE06((short)786945189, 371391944, ps4N) << endl;
 }
 else if (mnAKM != 1176886874)
 {
@@ -463,7 +463,7 @@ switch (fUN689FwZ)
 {
 case 'a':
 case 'A':
-i4O7539 = LUrwG((unsigned short)-329507363, (unsigned short)-155496125, y0B21K, 969985116);
+i4O7539 = LUrwG((unsigned short)-329507363, (unsigned short)-155496125, y0B21K, (unsigned char)969985116);
 break;
 case 'b':
 case 'B':
@@ -482,7 +482,7 @@ case 'E':
 E579hn1d9 = QE06((short)1527753377, LaU9q0, (short)554005403);
 break;
 default:
-uaezWHeS = QE06((short)1886662364, -2034269794, -427931830);
+uaezWHeS = QE06((short)1886662364, (unsigned short)-2034269794, -427931830);
 break;
 }
 }

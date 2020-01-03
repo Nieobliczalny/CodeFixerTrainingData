@@ -57,7 +57,7 @@ int main() {
  unsigned short nPgbr;
  nPgbr = (unsigned short)1813606956;
 	unsigned char	FW710;
-	FW710	=	1321776677;
+	FW710	=	(unsigned char)1321776677;
     float    l_EO;
     l_EO    =    1888113374;
  long long Xd50D19;
@@ -143,7 +143,7 @@ int main() {
  long TVC6d9732;
  TVC6d9732 = 1913128578;
   unsigned short int  rhPpNP6;
-  rhPpNP6  =  -1513397697;
+  rhPpNP6  =  (unsigned short)-1513397697;
  unsigned int Ls0Jt20Cb;
  Ls0Jt20Cb = 1988194184;
 	float	H94jQ;
@@ -157,7 +157,7 @@ int main() {
 	unsigned long	Gk0x75Y;
 	Gk0x75Y	=	-2113055746;
 	unsigned char	cI9oLf4L3;
-	cI9oLf4L3	=	1670454519;
+	cI9oLf4L3	=	(unsigned char)1670454519;
     unsigned long    d_H41ge;
     d_H41ge    =    -1098343519;
 	float	uV38pkJ;

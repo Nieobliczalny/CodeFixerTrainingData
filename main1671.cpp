@@ -23,7 +23,7 @@ int main(void) {
   unsigned long  FM62P_;
   FM62P_  =  -192735495;
   unsigned short  uIasgE0sR;
-  uIasgE0sR  =  -455382094;
+  uIasgE0sR  =  (unsigned short)-455382094;
     unsigned short int    yatHb94;
     yatHb94    =    (unsigned short)48167048;
  double KE5wqB7;
@@ -119,7 +119,7 @@ int main(void) {
  unsigned char B_K4Na;
  B_K4Na = (unsigned char)-47732991;
     short int    y7j2SwX;
-    y7j2SwX    =    1981960718;
+    y7j2SwX    =    (short)1981960718;
   unsigned short  vFLY706i;
   vFLY706i  =  -502702909;
  long long usqlEJ5UUr;
@@ -159,7 +159,7 @@ int main(void) {
 	unsigned short int	A728583v5b;
 	A728583v5b	=	(unsigned short)-1980174642;
  short int yck4h83;
- yck4h83 = 1689297469;
+ yck4h83 = (short)1689297469;
 	int	vvjje9yE;
 	vvjje9yE	=	-53657515;
 	short	IP32Biu;
@@ -171,7 +171,7 @@ int main(void) {
   unsigned char  v3u76x3;
   v3u76x3  =  (unsigned char)1420636204;
   char  yvf1_2L6;
-  yvf1_2L6  =  1739641485;
+  yvf1_2L6  =  (char)1739641485;
     unsigned short int    iYBeIxu;
     iYBeIxu    =    (unsigned short)-926146797;
     float    W9OsGcV;
@@ -907,7 +907,7 @@ cout << "Oi1_9496j" << "wU90B8q55" << AvG9j0(fv6i, (short)-1305295519, (unsigned
 }
 else if (w_GP_3_ == -413323290)
 {
-GSZpKiH = AvG9j0(-590732300, 39670499, -297485664);
+GSZpKiH = AvG9j0(-590732300, (short)39670499, -297485664);
 }
 else if (CVvS <= Avoug_A_)
 {

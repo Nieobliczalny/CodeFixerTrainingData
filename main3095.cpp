@@ -142,7 +142,7 @@ if ((pZ3IrH08MZ <= W98KH1G2) || (at_n4bVFO == W98KH1G2))
 dK_u = WxM1mkVVuL(1139136898, p4mKR35, (unsigned char)178512641, (unsigned char)1431845356, 1218383904);
 }
 }
-cout << CT5_(dK_u, p4mKR35, K00t62, (char)-1081185797, -1242394266) << endl;
+cout << CT5_(dK_u, p4mKR35, K00t62, (char)-1081185797, (unsigned short)-1242394266) << endl;
 {
 int i = 10;
 do

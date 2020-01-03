@@ -21,7 +21,7 @@ int main(void)
  long rKKH80 = 1869690378;
  unsigned short F1e7Y1G = (unsigned short)952580663;
  unsigned char P0TijruG = (unsigned char)133032886;
-  char  CbTZd4YYvI  =  -1038070340;
+  char  CbTZd4YYvI  =  (char)-1038070340;
 	unsigned int	AtwesJuez	=	1453905314;
   unsigned short  F4795  =  0;
   unsigned long  OMqI  =  -2123859816;
@@ -39,7 +39,7 @@ int main(void)
  unsigned long long UScf = 592857427;
     char    V_xaV0    =    (char)1141025874;
  long exs948 = 1780380818;
- unsigned short s3dtV8 = -273111387;
+ unsigned short s3dtV8 = (unsigned short)-273111387;
 	unsigned int	tT0r	=	1692054138;
  long long fSY56G6 = -1537074646;
   unsigned int  sl65y  =  -729594664;
@@ -83,7 +83,7 @@ case 4:
 QC7v = q47_l2n8b(QC7v, 1005006425);
 break;
 case 5:
-F4795 = TE69((unsigned char)336778777, (short)1811323844, 1291398537);
+F4795 = TE69((unsigned char)336778777, (short)1811323844, (unsigned short)1291398537);
 break;
 case 6:
 F4795 = TE69(-279388541, fSY56G6, 1999205461);
@@ -158,7 +158,7 @@ AtwesJuez = q47_l2n8b((char)-34065115, fSY56G6);
 }
 else
 {
-F4795 = TE69((unsigned char)-395665110, (short)1508460124, -1935960352);
+F4795 = TE69((unsigned char)-395665110, (short)1508460124, (unsigned short)-1935960352);
 }
 }
 catch (int& errorCode)

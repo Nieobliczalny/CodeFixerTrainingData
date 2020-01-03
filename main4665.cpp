@@ -33,7 +33,7 @@ int main(void)
  unsigned char MK9OE9 = (unsigned char)785188948;
 	long long	l9ViAzEu	=	1832437339;
   unsigned long  gh6k8DKPh  =  715259437;
-  short  Hr6V0fFLM  =  1688495572;
+  short  Hr6V0fFLM  =  (short)1688495572;
   char  r1XQJCg2Q  =  -1078351847;
 	unsigned int	fpj38F7	=	1713850105;
   unsigned int  dSwXZd6  =  208032555;
@@ -43,7 +43,7 @@ int main(void)
 	unsigned int	b91UnP	=	-1740701866;
   long long  v2iS  =  -529180584;
     unsigned short int    Ksx2T0    =    (unsigned short)187566231;
- short int d4609q = 1611042233;
+ short int d4609q = (short)1611042233;
 	long double	RrzO7e	=	1135453029;
   unsigned char  a8p9lY29N  =  467916141;
   long  w50_i  =  1696030651;
@@ -61,7 +61,7 @@ int main(void)
 	short	GKoP2S	=	(short)1470844010;
 	long	yN8uw	=	-170640163;
   char  po4N  =  (char)914870378;
- short JI3l3oc = -2058589794;
+ short JI3l3oc = (short)-2058589794;
     unsigned short int    mgG7x9Br    =    -222785079;
   unsigned short  h0T45  =  2074909703;
   unsigned long long  w59ESrlZ  =  -1228769181;
@@ -72,7 +72,7 @@ int main(void)
  unsigned char xsQeulsK = (unsigned char)-499549011;
   unsigned char  YLVa02y_  =  (unsigned char)-1195743457;
 	unsigned long	neMi6b	=	-252754826;
-    unsigned short int    pV13p7t7_    =    -956172222;
+    unsigned short int    pV13p7t7_    =    (unsigned short)-956172222;
  char Mj5N = -365882089;
 	int	T12qTs8D	=	-976609738;
   unsigned short int  NQ743I7J  =  (unsigned short)1530696517;
@@ -83,7 +83,7 @@ int main(void)
     long long    F93hU    =    51866391;
 	unsigned long	t8l3smW	=	-1526809320;
     short    U4Y2v3    =    (short)-2138609824;
- short S3y_O9DV = -1257954991;
+ short S3y_O9DV = (short)-1257954991;
   int  z7NJK53o  =  -1048121295;
  long uqd_P = 1200654414;
   unsigned int  Wd_hdW  =  -1224207280;
@@ -96,7 +96,7 @@ int main(void)
   long long  XXTl_  =  -1153974672;
   short  oFu_lpwEN3  =  (short)-1282420687;
  unsigned long long pj1c111wZ = -727776115;
-	unsigned char	vkzN_	=	-817820905;
+	unsigned char	vkzN_	=	(unsigned char)-817820905;
     unsigned long long    OyOEYikX_    =    1781036667;
   long long  kna05vMY_  =  -1515470794;
 	short	JfrrZ_4	=	90445946;

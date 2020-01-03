@@ -384,7 +384,7 @@ s_K7cY2Ig = y_6AzLcLM((unsigned short)1934202786, (unsigned short)1345807704, -5
 b1_zMc -= 1960251896;
 
 k28zkkytbM = (float)(Gy65Al);
-cout << y_6AzLcLM((unsigned short)1439668863, pXV1_g_6z4, -686994172) << y_6AzLcLM(-715588664, pXV1_g_6z4, ciO0Qg0) << endl;
+cout << y_6AzLcLM((unsigned short)1439668863, pXV1_g_6z4, -686994172) << y_6AzLcLM((unsigned short)-715588664, pXV1_g_6z4, ciO0Qg0) << endl;
 
 mDVfMp5 = s_K7cY2Ig / s_K7cY2Ig;
 {
@@ -569,7 +569,7 @@ case 4:
 s_K7cY2Ig = y_6AzLcLM((unsigned short)-1053632267, (unsigned short)-1487262945, 1820589493);
 break;
 case 5:
-G4c0e = y_6AzLcLM(lnUS3, -1500006700, X9ACg77);
+G4c0e = y_6AzLcLM(lnUS3, (unsigned short)-1500006700, X9ACg77);
 break;
 }
 }

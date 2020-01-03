@@ -13,7 +13,7 @@ int main() {
 	short	VLz9t1tCEz	=	(short)496678872;
  long double p3164sxIs8 = -1962285437;
     int    MRmPg59    =    189842771;
-  short int  ZaV5Ym  =  1291825109;
+  short int  ZaV5Ym  =  (short)1291825109;
     short int    Nyy4I3_2__    =    321862564;
 	long long	hqpwj_2	=	1892730492;
  unsigned long a7wtf1D = -1732941354;
@@ -25,7 +25,7 @@ int main() {
   short  B3nNnenf  =  -877077280;
     long    h1K95sn5j0    =    1925589483;
  unsigned int AGe6J5db = 102386798;
-    unsigned short int    tADW4e    =    518464060;
+    unsigned short int    tADW4e    =    (unsigned short)518464060;
 	short	Z2j_zv	=	-1742427743;
   unsigned short  wB6c  =  -234452331;
   float  V30c6_Ua  =  -1039665412;
@@ -35,7 +35,7 @@ int main() {
   double  wyts8IPm  =  2091691416;
   unsigned char  hs1WO28u8  =  (unsigned char)1510980870;
   unsigned short int  e8Zq3  =  (unsigned short)778748734;
-    short int    p22X_n    =    -760346246;
+    short int    p22X_n    =    (short)-760346246;
 	char	qfLygfH	=	209565560;
   unsigned int  nAi4w2  =  -1170540818;
  short int bHMD_G9 = 415948514;
@@ -51,7 +51,7 @@ int main() {
   unsigned short int  Cl3o8O8P1w  =  (unsigned short)348227616;
     long    S10hC_j    =    -767258391;
 	long double	OnkTQ63	=	-355427574;
- short R5SHGcT = -146204786;
+ short R5SHGcT = (short)-146204786;
   unsigned short  unED5ugC_u  =  208177616;
 	long	pNVGE_Z7	=	-464749927;
  double CXrfTs = 126498037;
@@ -62,7 +62,7 @@ int main() {
     char    b7Q7dddX    =    (char)-871332432;
     unsigned long long    Y2084ihzeF    =    293905737;
 	short	mC5_vz_	=	(short)-1949624455;
-	unsigned short int	TAq19	=	-1099707619;
+	unsigned short int	TAq19	=	(unsigned short)-1099707619;
   unsigned short int  BAVAL  =  1710777780;
  long u5pmCJ3E = -884151790;
     unsigned short int    SJPcMz28_6    =    348043805;
@@ -91,7 +91,7 @@ int main() {
  unsigned short int F_5ll8a = (unsigned short)417108026;
 	unsigned long long	c_U62jO7c	=	740557473;
 	char	l_QR	=	(char)726644569;
-	unsigned short int	n750	=	1320889035;
+	unsigned short int	n750	=	(unsigned short)1320889035;
     unsigned long long    QvG6BL3    =    -1135911111;
  short int ftKt684 = -471711035;
 	char	FGaT	=	215556557;

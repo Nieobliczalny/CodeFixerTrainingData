@@ -32,7 +32,7 @@ int main(void)
   long  nAWonf49T  =  -820823940;
  int nIj5 = -2014642472;
   unsigned short  h75n  =  (unsigned short)-1483796664;
- unsigned short int I46rvB6qw = 474846649;
+ unsigned short int I46rvB6qw = (unsigned short)474846649;
     long    Y3ov_82CG    =    810388430;
 	unsigned short int	Vdn2I2jSiS	=	0;
  char A_As55a6wH = 0;
@@ -92,7 +92,7 @@ else
 {
 Vdn2I2jSiS = (unsigned short int)(nAWonf49T * Vdn2I2jSiS);
 }
-EQ3p9IvV_ = KGZVK((char)-606957720, jeIHDLfr, (short)831857727, -649567428);
+EQ3p9IvV_ = KGZVK((char)-606957720, jeIHDLfr, (short)831857727, (unsigned char)-649567428);
 
 {
 int i = 1;
@@ -154,7 +154,7 @@ case 'a':
 X2rCW = fWN0u6ka60(Vdn2I2jSiS, X2rCW, h75n, jeIHDLfr);
 break;
 case 'b':
-w21CMb = KGZVK((char)1381920586, (unsigned short)532942842, (short)2026886822, -237296076);
+w21CMb = KGZVK((char)1381920586, (unsigned short)532942842, (short)2026886822, (unsigned char)-237296076);
 break;
 case 'c':
 jeIHDLfr = Ui6wcDkJ_(kRqg0, X2rCW);
@@ -306,7 +306,7 @@ case 3:
 X2rCW = fWN0u6ka60(X2rCW, kRqg0, 151347934, aV5Yq);
 break;
 case 4:
-nIj5 = KGZVK(-902811429, Vdn2I2jSiS, 302654740, -969225432);
+nIj5 = KGZVK((char)-902811429, Vdn2I2jSiS, 302654740, -969225432);
 break;
 default:
 aV5Yq = KGZVK(-1884099417, -2060177544, EQ3p9IvV_, -997292888);

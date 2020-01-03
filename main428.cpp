@@ -75,7 +75,7 @@ int main(int argc, char** argv)
     short    CA_UJFJPT;
     CA_UJFJPT    =    (short)-1559467664;
   short int  x5j0eB7;
-  x5j0eB7  =  -779855294;
+  x5j0eB7  =  (short)-779855294;
     unsigned long long    S_K20pVN;
     S_K20pVN    =    -211917236;
  unsigned long WKQl;
@@ -135,7 +135,7 @@ int main(int argc, char** argv)
     double    M4Ov6122Tq;
     M4Ov6122Tq    =    1913998739;
  unsigned short pYw97qD;
- pYw97qD = 738257068;
+ pYw97qD = (unsigned short)738257068;
 	char	JD6Cds;
 	JD6Cds	=	(char)452716095;
  double oGaL57MpBF;

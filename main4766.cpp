@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
  unsigned short pE30cU;
  pE30cU = (unsigned short)1507160186;
 	char	QLK_gi7X;
-	QLK_gi7X	=	160847594;
+	QLK_gi7X	=	(char)160847594;
  long long HZbxG;
  HZbxG = -1219934970;
   char  E87sI_;
@@ -135,7 +135,7 @@ case 'f':
 v7kB4Z = ev96EtiyH9(v7kB4Z, (unsigned short)1179549386, 1257697615);
 break;
 case 'g':
-s0aCmW = ev96EtiyH9((short)1734613676, 241521242, ZCoz56_ns1);
+s0aCmW = ev96EtiyH9((short)1734613676, (unsigned short)241521242, ZCoz56_ns1);
 break;
 case 'h':
 v36z616U = (int)abs(ll5Z88_);

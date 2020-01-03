@@ -30,7 +30,7 @@ do
 switch (oDK_)
 {
 case 0:
-XuzP5SLVm = (l27z5Wz >= R7ojY2_548) ? -463850714 : ur4I653eHE;
+XuzP5SLVm = (l27z5Wz >= R7ojY2_548) ? (unsigned short)-463850714 : ur4I653eHE;
 break;
 case 1:
 Ft3_sLe7U = NOx8QadC(Ft3_sLe7U, RyZw_5, (unsigned short)338734425, Dhg_LWxSJ);
@@ -231,7 +231,7 @@ case 9:
 x3Gn = a_44(-1169428908, 1136063163, IAX3ajh5q, (short)-167053160, UIVM_tk__);
 break;
 default:
-etzY_752 = NOx8QadC((short)1253574921, 1259173694, 428761947, 887055821);
+etzY_752 = NOx8QadC((short)1253574921, (unsigned short)1259173694, 428761947, 887055821);
 break;
 }
 }
@@ -273,7 +273,7 @@ case 6:
 lb68p = NOx8QadC((short)657586014, F0_UW34s, BZgS, kdA6L);
 break;
 case 7:
-x3Gn = a_44(-1279750526, Ush6, RyZw_5, 378093299, 1964007584);
+x3Gn = a_44(-1279750526, Ush6, RyZw_5, (short)378093299, 1964007584);
 break;
 case 8:
 BZgS = NOx8QadC(-59855232, fxK49mgtk, 16982248, cKTfwH);

@@ -46,7 +46,7 @@ int main(int argc, char** argv)
  double F3_76a_9g;
  F3_76a_9g = -632044908;
     char    TOIsIj2h;
-    TOIsIj2h    =    540232822;
+    TOIsIj2h    =    (char)540232822;
 	long long	N_lebWy;
 	N_lebWy	=	-213547810;
  char S4BDr8_pNr;

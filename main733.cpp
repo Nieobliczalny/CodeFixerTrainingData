@@ -23,7 +23,7 @@ int main()
   unsigned char  jH05U5v6  =  0;
 	char	VEc2X0	=	(char)339990522,	oQnd	=	(char)-1277328441;
 
-VEc2X0 = GQGSr(464035625, oQnd, (short)158056302, -1722482956, -2096238978);
+VEc2X0 = GQGSr(464035625, oQnd, (short)158056302, (char)-1722482956, -2096238978);
 
 switch (oQnd)
 {
@@ -52,7 +52,7 @@ VEc2X0 = (int)abs(oQnd);
 }
 else
 {
-VEc2X0 = GQGSr(1701518911, (short)-1932055463, (short)311264514, (char)459766954, 1168578738);
+VEc2X0 = GQGSr(1701518911, (short)-1932055463, (short)311264514, (char)459766954, (char)1168578738);
 }
 }
 while (i < 8);
@@ -67,7 +67,7 @@ case 1:
 oQnd = GQGSr(jH05U5v6, (short)-284155103, oQnd, (char)-165400222, (char)-639606825) % VEc2X0;
 break;
 case 2:
-oQnd = GQGSr(oQnd, VEc2X0, 1063830998, 545659044, -927207300);
+oQnd = GQGSr(oQnd, VEc2X0, (short)1063830998, 545659044, -927207300);
 break;
 case 3:
 oQnd %= VEc2X0;
@@ -207,7 +207,7 @@ do
 j--;
 try
 {
-VEc2X0 = GQGSr(-1537188607, (short)-111120274, (short)1811260601, (char)1894295000, -1896099175);
+VEc2X0 = GQGSr(-1537188607, (short)-111120274, (short)1811260601, (char)1894295000, (char)-1896099175);
 }
 catch (int& errorCode)
 {
@@ -284,7 +284,7 @@ case 2:
 oQnd /= jH05U5v6;
 break;
 case 3:
-jH05U5v6 = YN_84(1441551613, (unsigned short)1487727959, oQnd, 659135490);
+jH05U5v6 = YN_84(1441551613, (unsigned short)1487727959, oQnd, (unsigned char)659135490);
 break;
 case 4:
 VEc2X0 = jH05U5v6 >> oQnd;
@@ -430,7 +430,7 @@ VEc2X0 = T5sDtH((unsigned short)-389659546, oQnd, (unsigned short)-1089280538);
 switch (jH05U5v6)
 {
 case 'a':
-jH05U5v6 = YN_84(oQnd, (unsigned short)1993312946, -1689557249, 2108987517);
+jH05U5v6 = YN_84(oQnd, (unsigned short)1993312946, -1689557249, (unsigned char)2108987517);
 break;
 case 'b':
 VEc2X0 = HvY4(-715761899) * VEc2X0;

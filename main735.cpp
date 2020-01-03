@@ -46,7 +46,7 @@ int main(void)
     unsigned long long    KkJZAFX    =    0;
 	unsigned long long	KhNdnPz	=	-1919764367;
 	unsigned short	u57OV21	=	(unsigned short)677208447;
-    unsigned char    P_X5Bx5gQf    =    -2008395872;
+    unsigned char    P_X5Bx5gQf    =    (unsigned char)-2008395872;
  short KH69Y = -1634396551;
   unsigned char  s1IIcevy  =  -367597064;
     unsigned int    dQ4KF6c    =    0;
@@ -59,7 +59,7 @@ int main(void)
  unsigned short int wRD0vsv_y = (unsigned short)895133754;
 	long double	R_Mi4	=	-773856255;
 	int	HgYGZ	=	-1248871605;
-    short    Uw5B    =    -219535193;
+    short    Uw5B    =    (short)-219535193;
   double  c91XV  =  1566813060;
 	unsigned short int	xxMxr5sM	=	(unsigned short)810054734;
   short int  O00v_Z5G19  =  604281182;
@@ -74,7 +74,7 @@ int main(void)
 	unsigned char	Hr1oy1Z	=	(unsigned char)-1443230121;
     unsigned long    Sd8p03366    =    -544835527;
     unsigned int    v8587S1C_    =    1590443719;
-  char  AdJirDrc_P  =  406903883;
+  char  AdJirDrc_P  =  (char)406903883;
   int  Obee6  =  1975809998;
     long long    z99u33XS    =    -1613602213;
  unsigned short qGm2 = (unsigned short)-798325789;
@@ -84,7 +84,7 @@ int main(void)
  unsigned short int Y1b4k4CAgr = (unsigned short)1676598358;
   long double  d6n1d8d7O3  =  -183814369;
     long double    Sj3z    =    -261392857;
-    short    oxer    =    -550188402;
+    short    oxer    =    (short)-550188402;
  short HaRM50 = -410611991;
  unsigned long m_BAMG = -917068400;
  short int ehlqV0W = (short)-1684305066;
@@ -96,7 +96,7 @@ int main(void)
     long    D24thJ_R    =    -1017524183;
 	short	E4NRg50zTY	=	(short)1136169841;
  char eCzI6C9U = 0;
-	short int	D9hC2j	=	1581405326;
+	short int	D9hC2j	=	(short)1581405326;
     unsigned char    E2IS510    =    (unsigned char)-2112021388;
  long long drIqC = -1351808000;
 	unsigned int	v7b90	=	700749735;
@@ -106,7 +106,7 @@ int main(void)
  unsigned short int M0Fx = (unsigned short)-330149393;
   short int  EAZz60Vg  =  (short)1505060584;
   short  S_Hb1M  =  -547489554;
-    short int    WbT23rZR    =    -833202332;
+    short int    WbT23rZR    =    (short)-833202332;
 
 q_R2 = (short int)(gke6 + (-2069927222));
 v7b90 = D24thJ_R & 2091240946;

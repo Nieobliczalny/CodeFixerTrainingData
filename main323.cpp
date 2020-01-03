@@ -35,7 +35,7 @@ int main(void)
     short int    T0MYH5    =    (short)-1315346230;
 	double	B5u6ula8_f	=	-1567197170;
  float kIGXS = -2095868967;
- short int T5_7 = -516618218;
+ short int T5_7 = (short)-516618218;
     unsigned char    WPH3yDA    =    -1957341731;
     int    Z09dl7_Hnn    =    -1547743795;
  long double x71xs2 = 1502393035;
@@ -47,7 +47,7 @@ int main(void)
 	char	dFry5U	=	(char)1305578201;
 	int	OlrNs	=	-1282822256;
     long    hsa3    =    257648522;
-  short int  HULE6  =  268801726;
+  short int  HULE6  =  (short)268801726;
   long  WWZ32Gqc  =  1717986067;
 	unsigned long	Z5Io49yz8A	=	-611082628;
   int  VPj7  =  -1560952576;
@@ -60,7 +60,7 @@ int main(void)
  short i7IG = 0;
  long long bE35I450 = 1414905976;
     unsigned short    LW57    =    (unsigned short)-106677700;
-  unsigned char  p40V  =  -1879135365;
+  unsigned char  p40V  =  (unsigned char)-1879135365;
 	unsigned long long	N8AWG55_yF	=	1105427626;
 	long	JT72yr_4N	=	-226817587;
  unsigned short ePtM1 = -480151083;
@@ -73,7 +73,7 @@ int main(void)
     unsigned long    PApJr7Ix_B    =    -960155746;
  unsigned long long a5281P8l1g = -42937025;
  long SWM_9XxH = 75567096;
-  unsigned short int  Y3O8Yrq  =  1699203024;
+  unsigned short int  Y3O8Yrq  =  (unsigned short)1699203024;
 	unsigned short	K_YX	=	0;
     unsigned short    J_bDAPe2Hu    =    (unsigned short)70594696;
  long N65qMI = 59431187;
@@ -83,7 +83,7 @@ int main(void)
   short  A_aPWCfliC  =  (short)108213749;
   unsigned long long  QHGa  =  1390234032;
     unsigned int    KbjJ    =    1836329438;
-  unsigned short  q9EHDac  =  -1167208649;
+  unsigned short  q9EHDac  =  (unsigned short)-1167208649;
 	long	DzcE69	=	965304554;
  char xiCG5I = (char)1720639566;
     double    W6zQ0I31    =    1539143741;
@@ -107,7 +107,7 @@ int main(void)
   long double  W75T6R  =  -1588153433;
   unsigned char  m18U0yqG  =  (unsigned char)1081863146;
   unsigned short int  N28oig810  =  (unsigned short)-2114033074;
-  unsigned short int  H851  =  1418439129;
+  unsigned short int  H851  =  (unsigned short)1418439129;
   int  Ls6iqsXp  =  1045938903;
     unsigned short    x10ev    =    -1211382795;
 	unsigned short int	Hi7urR812_	=	-381142425;

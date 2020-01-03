@@ -242,7 +242,7 @@ else if (((w9_WNfZFi < p_AY) && (p_AY >= -920429275)) || (JEydtt > -1810853473))
 {
 if (lVhC_ != -605616115)
 {
-J0Bpjkyu9u = noFq94T5T(L78__6sIn, (unsigned short)-1688059218, -876219682);
+J0Bpjkyu9u = noFq94T5T(L78__6sIn, (unsigned short)-1688059218, (unsigned char)-876219682);
 }
 }
 else if (L78__6sIn != 1726231479)

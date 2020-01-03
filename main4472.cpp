@@ -42,7 +42,7 @@ int main(void)
  unsigned short jqVRq9F;
  jqVRq9F = (unsigned short)1241041298;
     short int    bIv2CJ6;
-    bIv2CJ6    =    1274887065;
+    bIv2CJ6    =    (short)1274887065;
     unsigned int    bp06B1TS;
     bp06B1TS    =    107360513;
   unsigned short  UJhxC;
@@ -54,7 +54,7 @@ int main(void)
     unsigned char    sNwYStm;
     sNwYStm    =    (unsigned char)672142000;
  unsigned char V8FefXzci;
- V8FefXzci = -922160221;
+ V8FefXzci = (unsigned char)-922160221;
   unsigned long long  u32ym;
   u32ym  =  1428159323;
     long double    I2ew;
@@ -84,7 +84,7 @@ int main(void)
   unsigned short int  IyP4__F;
   IyP4__F  =  (unsigned short)1609434626;
     unsigned char    lhrC3;
-    lhrC3    =    -834410578;
+    lhrC3    =    (unsigned char)-834410578;
 
 lhrC3 = srS4(lhrC3, (unsigned short)1434342945, sNwYStm, -1638909386, DV30fk2);
 
@@ -334,7 +334,7 @@ DV30fk2 = zb00(DV30fk2, Pb945j78EO, (unsigned short)-702551562, wr97E);
 }
 else if (Pb945j78EO & -1533948240)
 {
-P5BQ2DEu = Z21H((unsigned short)1190554118, (char)-648992375, -131714486, DV30fk2);
+P5BQ2DEu = Z21H((unsigned short)1190554118, (char)-648992375, (short)-131714486, DV30fk2);
 }
 else if (ZKI_z0 >= -1152760009)
 {
@@ -440,7 +440,7 @@ while (i >= 0)
 int j = 9;
 while (j >= 0)
 {
-cout << Z21H((unsigned short)-1384292223, (char)2076269258, Vg261B, RyFU) << Z21H(V8FefXzci, (char)740937472, Vg261B, -123044971) << zb00(-1753260448, Q671518d, -1745963772, RyFU) << T4l9FHZetc << "PU4NRuVY0D" << endl;
+cout << Z21H((unsigned short)-1384292223, (char)2076269258, Vg261B, RyFU) << Z21H(V8FefXzci, (char)740937472, Vg261B, -123044971) << zb00(-1753260448, Q671518d, (unsigned short)-1745963772, RyFU) << T4l9FHZetc << "PU4NRuVY0D" << endl;
 --j;
 }
 }

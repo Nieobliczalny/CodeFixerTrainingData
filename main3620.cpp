@@ -29,7 +29,7 @@ int main(int argc, char** argv)
   float  l_2We_Z9sL  =  -1988072876;
     unsigned long long    L99y    =    594944598;
     short    Fgz9    =    (short)1061650706;
- unsigned char iv7o_A = 211544177;
+ unsigned char iv7o_A = (unsigned char)211544177;
 	int	JNvZ_m51	=	1047388351;
     unsigned long    To6YC    =    745344713;
   long double  t144  =  -1879279216;

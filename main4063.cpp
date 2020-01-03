@@ -23,7 +23,7 @@ int main(void) {
     short    c343e3W6j    =    (short)-2104363412;
  unsigned long S_e3f = 1709263771;
  double DOqT3yD_ = 1687045238;
-  unsigned char  eiMT  =  -1137427192;
+  unsigned char  eiMT  =  (unsigned char)-1137427192;
  long yKan6Qvn = 0;
     unsigned long    Rq20    =    1429905048;
     unsigned long    UoUKYTSZ6v    =    819173587;
@@ -43,7 +43,7 @@ int main(void) {
 	long double	TybCJd2G	=	-1963899005;
  unsigned char T_i7rL8hfH = (unsigned char)89196306;
   unsigned short  cj4o39M13C  =  (unsigned short)536336561;
-    short    AMtp7W    =    1429944441;
+    short    AMtp7W    =    (short)1429944441;
 	unsigned short int	X24vU93	=	-580473162;
     unsigned long long    oJFi4WMVd    =    0;
   short  tpBNAR_9  =  (short)-539895033;
@@ -53,7 +53,7 @@ int main(void) {
 	unsigned long long	bR4D77	=	-231685292;
     short    Sv_3kW    =    (short)-1952765937;
 	char	b56JxM2TMu	=	(char)-1004192942;
-	short int	e8Idt9492	=	1816439265;
+	short int	e8Idt9492	=	(short)1816439265;
 
 cj4o39M13C = (unsigned short)(y7I60xm + (-1488656380));
 
@@ -337,7 +337,7 @@ T_i7rL8hfH = q0qNq81((unsigned char)-1782567483, (unsigned short)-2139877295, ei
 
 if (sEr348_ >= 257191077)
 {
-std::cout << "HzUV" << q0qNq81(-412980713, -1749461826, eiMT) << lGgeo_IHps(-1301653613) << Rq20 << "ZRXPXla" << std::endl;
+std::cout << "HzUV" << q0qNq81((unsigned char)-412980713, -1749461826, eiMT) << lGgeo_IHps(-1301653613) << Rq20 << "ZRXPXla" << std::endl;
 }
 else
 {

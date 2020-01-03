@@ -44,7 +44,7 @@ int main(void) {
  short int gxFG2g0;
  gxFG2g0 = (short)323353789;
     short    aag4pKZ4;
-    aag4pKZ4    =    924621565;
+    aag4pKZ4    =    (short)924621565;
     float    A7wp9E;
     A7wp9E    =    -1076875135;
  unsigned long qWC4doe8X6;
@@ -134,7 +134,7 @@ int main(void) {
   long long  a98o26VI;
   a98o26VI  =  1647410987;
     unsigned short    SQ27oRL;
-    SQ27oRL    =    -656248464;
+    SQ27oRL    =    (unsigned short)-656248464;
 	unsigned short int	wgeN3qqe1;
 	wgeN3qqe1	=	(unsigned short)1739927503;
  long double n4q_5;
@@ -165,7 +165,7 @@ break;
 }
 while (i >= 0);
 }
-Jc0tgf = Ah3K((short)935012892, (short)1190919314, 591336427);
+Jc0tgf = Ah3K((short)935012892, (short)1190919314, (unsigned char)591336427);
 {
 int i = 6;
 do
@@ -328,7 +328,7 @@ case 'a':
 yx_8xj2 = uRF2((char)-1745846705, yx_8xj2, D1FbU, pv1yLG, ad2_);
 break;
 case 'b':
-RbQjVVAm_ = Ah3K((short)1634582852, (short)-337808673, 1926500791);
+RbQjVVAm_ = Ah3K((short)1634582852, (short)-337808673, (unsigned char)1926500791);
 break;
 case 'c':
 A5kP = Ah3K(owD8_e, huxT0BN5h, A5kP);
@@ -428,7 +428,7 @@ A5kP = Ah3K(Ea52DX, (short)921878286, n4q_5);
 }
 try
 {
-Jc0tgf = Ah3K((short)-246865225, (short)-980892070, -1197212840);
+Jc0tgf = Ah3K((short)-246865225, (short)-980892070, (unsigned char)-1197212840);
 }
 catch (int& errorCode)
 {

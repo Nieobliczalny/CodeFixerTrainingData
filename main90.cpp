@@ -136,7 +136,7 @@ int main(void)
     short int    g8w7FgTWXS;
     g8w7FgTWXS    =    (short)-1387071298;
   short int  XIkq;
-  XIkq  =  -935767386;
+  XIkq  =  (short)-935767386;
     float    Ql72;
     Ql72    =    1076570216;
  unsigned int hH0jzf;
@@ -479,7 +479,7 @@ try
 {
 for (int k = 0; k < 9; k++)
 {
-CPMn4H = gTj_((unsigned short)1470361549, -582839555, 2114836513, -145706118, 1404773335);
+CPMn4H = gTj_((unsigned short)1470361549, -582839555, 2114836513, (short)-145706118, 1404773335);
 }
 }
 catch (int& errorCode)
@@ -545,7 +545,7 @@ switch (JzWc1_5e3)
 {
 case 'a':
 case 'A':
-aTs3c1GM = ASHT8X75B((char)-1960418460, -83821204);
+aTs3c1GM = ASHT8X75B((char)-1960418460, (short)-83821204);
 break;
 case 'b':
 case 'B':

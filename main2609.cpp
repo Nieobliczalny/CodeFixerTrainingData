@@ -333,7 +333,7 @@ for (int i = 0; i < 9; ++i)
 cout << ssE9cF_((unsigned char)-167790818, (unsigned short)-29201986, E_qn, -553335224) << leMVcdrO_k << endl;
 }
 VWysEU_bF = (long double)(nP8xkUR);
-U93HaDot = ssE9cF_((unsigned char)2111536778, -1356110055, q6m02q7S, 856964790);
+U93HaDot = ssE9cF_((unsigned char)2111536778, (unsigned short)-1356110055, q6m02q7S, 856964790);
 VWysEU_bF = (int)floor(NP0oE);
 if (BUxj <= -1191538875)
 {

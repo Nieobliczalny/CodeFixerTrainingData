@@ -474,7 +474,7 @@ case 7:
 Di1HL263P = q9ePX3QdX5(Di1HL263P);
 break;
 case 8:
-tEr9 = zkpHJ0(tEr9, p20_sVN49k, -437293309, -2109724769);
+tEr9 = zkpHJ0(tEr9, p20_sVN49k, (short)-437293309, -2109724769);
 break;
 }
 f34aAKG = (unsigned short int)(Di1HL263P);

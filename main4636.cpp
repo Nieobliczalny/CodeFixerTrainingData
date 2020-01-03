@@ -247,7 +247,7 @@ RCdOj = (int)abs(gvOp);
 break;
 case 'd':
 case 'D':
-zbS4gN94L = V8R964Ls_((unsigned short)701347696, KAdw, -148751528);
+zbS4gN94L = V8R964Ls_((unsigned short)701347696, KAdw, (unsigned short)-148751528);
 break;
 case 'e':
 case 'E':

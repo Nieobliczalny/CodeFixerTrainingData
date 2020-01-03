@@ -43,7 +43,7 @@ int main() {
 	char	Tie12;
 	Tie12	=	(char)124287426;
     short int    a1mP9q6V8;
-    a1mP9q6V8    =    1289318310;
+    a1mP9q6V8    =    (short)1289318310;
   unsigned int  nX4mWWz1;
   nX4mWWz1  =  -1673068974;
 	double	ofvxzWCXT;
@@ -368,7 +368,7 @@ break;
 }
 }
 }
-std::cout << "Gn49" << akb_GQ((unsigned short)1485721292, Wd0H0OY, JJ6U) << XRd31L_7b(F1VZ234_ws, 405482088, (unsigned short)-136545352) << NO6HtbD8V(-1863289768, Wd0H0OY, JJ6U, -169669603) << XRd31L_7b(-144171811, Wd0H0OY, JJ6U) << std::endl;
+std::cout << "Gn49" << akb_GQ((unsigned short)1485721292, Wd0H0OY, JJ6U) << XRd31L_7b(F1VZ234_ws, 405482088, (unsigned short)-136545352) << NO6HtbD8V(-1863289768, Wd0H0OY, JJ6U, -169669603) << XRd31L_7b((char)-144171811, Wd0H0OY, JJ6U) << std::endl;
 if (y0uOJKj == 0)
 {
 	OuhSoS0SV = a9dv9 / y0uOJKj;
@@ -538,7 +538,7 @@ else
 {
 Ydrym = NO6HtbD8V(vQSGRf356e, (unsigned short)889075659, (unsigned short)-1383963806, TI1kfAwp91);
 }
-std::cout << NO6HtbD8V(vQSGRf356e, EUngqsV5, DzBS1m_W2A, 681401461) << NO6HtbD8V(vQSGRf356e, (unsigned short)-1547575099, 805421031, TI1kfAwp91) << std::endl;
+std::cout << NO6HtbD8V(vQSGRf356e, EUngqsV5, DzBS1m_W2A, 681401461) << NO6HtbD8V(vQSGRf356e, (unsigned short)-1547575099, (unsigned short)805421031, TI1kfAwp91) << std::endl;
 
 Nr2E1CkSwo = NO6HtbD8V(T4o5_2h, 324171787, 949965128, XaKo);
 

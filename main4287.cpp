@@ -22,7 +22,7 @@ int main(void)
 	unsigned long long	xZr4o0r	=	1145101459;
     short    s9edIqy_X    =    (short)1201852998;
  long double w0r546_ = -35045863;
- unsigned char Fju4B7pxY = -1698341641;
+ unsigned char Fju4B7pxY = (unsigned char)-1698341641;
   unsigned long  eCyPp7e02Q  =  -1204002261;
  long X0g1bgoC = 1164920575;
   double  l936c72  =  617056419;
@@ -34,7 +34,7 @@ int main(void)
     short int    os890_6syQ    =    (short)-1872882197;
 	short	Lv1c6O	=	(short)-935123661;
 	long long	wRTo2o0u	=	-1124797618;
-    short    b8v_E_RUE8    =    -401181584;
+    short    b8v_E_RUE8    =    (short)-401181584;
     unsigned int    Vi26S7    =    1410192333;
 	long long	ae0sx	=	-1090956981;
   long long  LQe48Wlb  =  1258341346;
@@ -44,7 +44,7 @@ int main(void)
  char lBPxvp_ = (char)1120719914;
 	unsigned char	n_A_EQ6nh	=	(unsigned char)282522451;
   unsigned short  y5PrLccR08  =  1129074616;
- unsigned short at72pcg8 = -2115555709;
+ unsigned short at72pcg8 = (unsigned short)-2115555709;
  long long uI78axF = 1359485616;
     long long    FHf_    =    293154234;
  char t9Rd3IR8 = -1605949794;
@@ -64,7 +64,7 @@ int main(void)
   double  BJDjnq  =  1497767416;
 	short int	MZ2TVc	=	(short)315264581;
 	short	rM6rwBO	=	(short)402926498;
-	unsigned short int	X84h4	=	-1546436513;
+	unsigned short int	X84h4	=	(unsigned short)-1546436513;
  unsigned char Ks4S = 509100859;
  double w9o2sCah = -97160376;
 	int	UnXFAj6Z	=	-1926885567;
@@ -77,7 +77,7 @@ int main(void)
     unsigned short int    wNgCcglg6    =    (unsigned short)-982433792;
  int Y1D5O5zh = 1416138505;
  unsigned short Nw3n = (unsigned short)1128674074;
-    short    UcikEV    =    -2109884329;
+    short    UcikEV    =    (short)-2109884329;
 	float	lZl9ke	=	2055806231;
   unsigned int  Q_ly5P88lu  =  1123206284;
 	unsigned short int	Te93kIH1H	=	181442230;
@@ -91,7 +91,7 @@ int main(void)
     float    EAq401AO9b    =    1703234248;
   int  H864834MC  =  1830322702;
     unsigned long    YB7UR2I9Y    =    1444198575;
-  unsigned char  OA30gLbj6z  =  309577780;
+  unsigned char  OA30gLbj6z  =  (unsigned char)309577780;
   int  H89GXJ23wf  =  2093200782;
 	unsigned char	gp6G1	=	0;
  unsigned char P6wLRFH0 = (unsigned char)1300316440;
@@ -228,7 +228,7 @@ case 'c':
 IRqzd = QEM94Gqnd((char)7031947);
 break;
 case 'd':
-LQe48Wlb = Ms70(401765004, uDOXD);
+LQe48Wlb = Ms70((unsigned short)401765004, uDOXD);
 break;
 case 'e':
 QiZq8C = (int)floor(r3Hh);

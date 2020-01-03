@@ -546,7 +546,7 @@ case 0:
 J5_U = GEoLEA((unsigned short)-1606031573, (unsigned short)1998381463, (unsigned short)-1217999916, 1181209328);
 break;
 case 1:
-rWtX3x = E2oWI(rWtX3x, -1937886509);
+rWtX3x = E2oWI(rWtX3x, (short)-1937886509);
 break;
 case 2:
 Nkk3PWz4 = t_8bH9X(-1820445970, D_88C_RRF, mH5s_6nKda, Edq1x);

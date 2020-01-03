@@ -67,7 +67,7 @@ int main(int argc, char** argv) {
  short zf1wX6;
  zf1wX6 = (short)764522270;
     short    hc_117K8a;
-    hc_117K8a    =    -68223840;
+    hc_117K8a    =    (short)-68223840;
     long double    R8qTh;
     R8qTh    =    1215003704;
   short  HIn0;
@@ -87,7 +87,7 @@ int main(int argc, char** argv) {
  unsigned short d0UZ;
  d0UZ = (unsigned short)-706786276;
     unsigned short    nb1h4v4556;
-    nb1h4v4556    =    -569088271;
+    nb1h4v4556    =    (unsigned short)-569088271;
 	double	Y0E9bZ6;
 	Y0E9bZ6	=	294192925;
     unsigned long    E539w;
@@ -131,7 +131,7 @@ int main(int argc, char** argv) {
   unsigned short  uilKZxr4jY;
   uilKZxr4jY  =  (unsigned short)-316022120;
   short int  a1P63_F0;
-  a1P63_F0  =  -1062352229;
+  a1P63_F0  =  (short)-1062352229;
  long long lJI18K;
  lJI18K = 1772643592;
   unsigned int  HsUFo373;
@@ -284,7 +284,7 @@ XR1z = (long long)(Z49L);
 }
 else if (HIn0 == -1621092446)
 {
-mn_EL8_7 = tl8c0Ae((unsigned short)2052013526, 780251076);
+mn_EL8_7 = tl8c0Ae((unsigned short)2052013526, (short)780251076);
 }
 else if (KVMMiyVW1V)
 {

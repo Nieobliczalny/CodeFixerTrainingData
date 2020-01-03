@@ -243,7 +243,7 @@ switch (OJS_)
 {
 case 'a':
 case 'A':
-Und4 = pDG1DzeP(-442253761, stT8, -515949403);
+Und4 = pDG1DzeP((unsigned char)-442253761, stT8, -515949403);
 break;
 case 'b':
 case 'B':

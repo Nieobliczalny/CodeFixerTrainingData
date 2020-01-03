@@ -35,7 +35,7 @@ int main() {
   unsigned short int  hO9Fb1S9A  =  (unsigned short)1807743079;
   unsigned short  Nm6c4sRkx  =  (unsigned short)-793177719;
  short r_3Bf1x = 0;
- unsigned char Ye96Du99w = -2115256418;
+ unsigned char Ye96Du99w = (unsigned char)-2115256418;
     unsigned char    fGWp_U0    =    0;
   unsigned short int  jXc4v  =  739025190;
 	unsigned long long	u6R8	=	-1299028635;

@@ -216,7 +216,7 @@ cout << iAp9i((short)1579129487, kDU3P3QRm, 825111789, (short)-1472051048, 17124
 int i = 2;
 do
 {
-O5mv3qNC = iAp9i(lWT1PV, 516027577, yhH6, -302120112, Md3Ac);
+O5mv3qNC = iAp9i(lWT1PV, 516027577, yhH6, (short)-302120112, Md3Ac);
 i--;
 }
 while (i >= 0);
@@ -275,7 +275,7 @@ case 5:
 Opyd5 = (int)abs(tOTl);
 break;
 case 6:
-O5mv3qNC = iAp9i(YmO5_, n32t3GG, -1668096441, -396987714, bj3ne7VS2P);
+O5mv3qNC = iAp9i(YmO5_, n32t3GG, -1668096441, (short)-396987714, bj3ne7VS2P);
 break;
 case 7:
 n32t3GG = (int)floor(wLInCyDIS);
@@ -498,7 +498,7 @@ case 'c':
 O5mv3qNC = iAp9i((short)-1551263777, g16oO__q4, 730580583, (short)-1808303164, 1182272792);
 break;
 case 'd':
-W4l86 = iAp9i(935776264, 1504750961, K07sfUZSc, CI_fYi3, 1291879358);
+W4l86 = iAp9i((short)935776264, 1504750961, K07sfUZSc, CI_fYi3, 1291879358);
 break;
 default:
 h2sNQy = (Opyd5 <= -1530657402) ? O5mv3qNC : yhH6;

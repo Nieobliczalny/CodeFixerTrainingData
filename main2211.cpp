@@ -60,7 +60,7 @@ int main(void)
     char    R_C4K_Fbq    =    (char)-739123983;
   long  iXU_10bLV8  =  1729836480;
   char  mut0E9zzB  =  (char)-355130673;
-	char	yO3PD7W295	=	2041474126;
+	char	yO3PD7W295	=	(char)2041474126;
   int  fPL76uki0  =  -644490319;
  double dr_Atj336 = -1174071464;
     long    h0XEp6x    =    -1713655969;
@@ -199,7 +199,7 @@ Riv1--;
 
 std::cout << dr_Atj336 << tU59I1(a81_o53I) << "NqiID" << "RszgrpS9TN" << tU59I1((char)-329277336) << std::endl;
 
-R_C4K_Fbq = dbxq5x4U_H(R_C4K_Fbq, -1692823672, -1167356864, JN_dU9);
+R_C4K_Fbq = dbxq5x4U_H(R_C4K_Fbq, (unsigned char)-1692823672, -1167356864, JN_dU9);
 
 qE1uBr = (unsigned long long)(o94zBNRr);
 

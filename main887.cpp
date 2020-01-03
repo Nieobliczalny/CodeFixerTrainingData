@@ -24,7 +24,7 @@ int main() {
     char    C8e6WbweS4;
     C8e6WbweS4    =    (char)-495615803;
  char ydz3vbi;
- ydz3vbi = 872350291;
+ ydz3vbi = (char)872350291;
   long  S8msF;
   S8msF  =  -1796058864;
   long long  A7BKR1L;

@@ -32,7 +32,7 @@ int main(void)
   float  vUgSB1p  =  582370722;
 	short	V1qX_o	=	(short)931819591;
   unsigned long  dVV28S  =  0;
-    unsigned short int    k0Cw    =    495430953;
+    unsigned short int    k0Cw    =    (unsigned short)495430953;
  unsigned char cJmd5UF9U = 0;
 	double	gwtah	=	915727452;
     unsigned long long    jyX0Wp3    =    -323683309;

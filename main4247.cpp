@@ -80,7 +80,7 @@ int main() {
  unsigned short int qWs9j;
  qWs9j = (unsigned short)-707113577;
   unsigned short  OxZtzm;
-  OxZtzm  =  -844999060;
+  OxZtzm  =  (unsigned short)-844999060;
   double  cSh3Gg5;
   cSh3Gg5  =  1636620863;
   unsigned long long  jYCbBug;

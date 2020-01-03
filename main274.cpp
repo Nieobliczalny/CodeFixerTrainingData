@@ -96,7 +96,7 @@ int main(void)
 	unsigned short	QpfmjoJ4;
 	QpfmjoJ4	=	(unsigned short)1653766988;
  unsigned short f3w3h0gRKQ;
- f3w3h0gRKQ = 986694936;
+ f3w3h0gRKQ = (unsigned short)986694936;
   char  bTte;
   bTte  =  -976389334;
   long long  DGN7;

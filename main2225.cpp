@@ -295,7 +295,7 @@ sxopQ7rhYf /= 689140923;
 }
 
 zulh7fF64 = gmNaZE(sxopQ7rhYf, (short)-321759692, (unsigned char)-692009577);
-cout << gmNaZE(sxopQ7rhYf, (short)-1410267456, 504291742) << "A7k0" << gmNaZE(143419354, 73145591, 1178697044) << endl;
+cout << gmNaZE(sxopQ7rhYf, (short)-1410267456, (unsigned char)504291742) << "A7k0" << gmNaZE(143419354, 73145591, 1178697044) << endl;
 
 {
 int i = 0;
@@ -437,7 +437,7 @@ case 'd':
 mq12v = gmNaZE(-373928517, DETqvEy5Ot, (unsigned char)997422823);
 break;
 case 'e':
-zulh7fF64 = gmNaZE(1901607893, (short)-1756412735, 1277798513);
+zulh7fF64 = gmNaZE(1901607893, (short)-1756412735, (unsigned char)1277798513);
 break;
 case 'f':
 NWGb8Ob >>= DETqvEy5Ot;
@@ -545,7 +545,7 @@ cout << gmNaZE(u7A1, (short)1915226227, (unsigned char)698276713) << u7A1 << gmN
 
 cout << cip87Mokqe << gmNaZE(u7A1, cip87Mokqe, SrdU3Oc5b) << u7A1 << t5ZpQ5ai << "pOSAGN8S2n" << endl;
 
-cout << gmNaZE(-246177620, 384906772, SrdU3Oc5b) << endl;
+cout << gmNaZE(-246177620, (short)384906772, SrdU3Oc5b) << endl;
 if (mq12v >= sxopQ7rhYf)
 {
 switch (SrdU3Oc5b)
@@ -557,7 +557,7 @@ case 1:
 u7A1 = (int)abs(zulh7fF64) + (176695153);
 break;
 case 2:
-zulh7fF64 = gmNaZE(zulh7fF64, (short)-2140661923, -1981583420);
+zulh7fF64 = gmNaZE(zulh7fF64, (short)-2140661923, (unsigned char)-1981583420);
 break;
 case 3:
 sxopQ7rhYf = (int)abs(cip87Mokqe);
@@ -618,7 +618,7 @@ zulh7fF64 = gmNaZE(1701034144, (short)1293004091, (unsigned char)803220036);
 }
 else
 {
-mq12v = gmNaZE(u7A1, (short)1903899427, -63535418);
+mq12v = gmNaZE(u7A1, (short)1903899427, (unsigned char)-63535418);
 }
 try
 {
@@ -870,7 +870,7 @@ case 'B':
 zulh7fF64 = gmNaZE(zulh7fF64, cip87Mokqe, SrdU3Oc5b);
 break;
 default:
-SrdU3Oc5b = gmNaZE(zulh7fF64, (short)1141323012, -3113729) - DETqvEy5Ot;
+SrdU3Oc5b = gmNaZE(zulh7fF64, (short)1141323012, (unsigned char)-3113729) - DETqvEy5Ot;
 break;
 }
 }
@@ -915,7 +915,7 @@ case 7:
 u7A1 = SrdU3Oc5b % cip87Mokqe;
 break;
 case 8:
-mq12v = gmNaZE(1317495150, (short)-778788206, -1877185926);
+mq12v = gmNaZE(1317495150, (short)-778788206, (unsigned char)-1877185926);
 break;
 case 9:
 zulh7fF64 = gmNaZE(-1624168859, mq12v, (unsigned char)-2092953081);
@@ -1084,7 +1084,7 @@ DETqvEy5Ot = gmNaZE(576713394, (short)400501540, (unsigned char)-1424763979) << 
 }
 else if (u7A1 < zulh7fF64)
 {
-mq12v = gmNaZE(-193235921, (short)-930879718, 1653552178);
+mq12v = gmNaZE(-193235921, (short)-930879718, (unsigned char)1653552178);
 }
 else
 {

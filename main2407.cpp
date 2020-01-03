@@ -56,7 +56,7 @@ int main(void)
 	short	KVZ54lkA3x;
 	KVZ54lkA3x	=	(short)1541258417;
  short s_tv;
- s_tv = -1980934415;
+ s_tv = (short)-1980934415;
 	int	ITJ3;
 	ITJ3	=	1098968841;
   unsigned char  s0EC056w;

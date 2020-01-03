@@ -199,7 +199,7 @@ Na_Jqm = (int)abs(JDXe_RUMA);
 break;
 case 'd':
 case 'D':
-Na_Jqm = O2m8L5sHfo((unsigned short)1308965850, -1672740950, -229797469);
+Na_Jqm = O2m8L5sHfo((unsigned short)1308965850, -1672740950, (unsigned char)-229797469);
 break;
 case 'e':
 case 'E':

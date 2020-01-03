@@ -48,7 +48,7 @@ int main()
  unsigned short zM663_;
  zM663_ = (unsigned short)-1724885477;
  unsigned short int Pc31;
- Pc31 = -1678393650;
+ Pc31 = (unsigned short)-1678393650;
     long    pt3CH__L;
     pt3CH__L    =    -1606354601;
     unsigned long    oO6wLbGy;
@@ -104,7 +104,7 @@ int main()
     unsigned long long    B6luX;
     B6luX    =    -1883731933;
  short H0t8;
- H0t8 = 962088880;
+ H0t8 = (short)962088880;
 	double	zPXAfrm;
 	zPXAfrm	=	-1214540552;
  int Z3WfFc0i;
@@ -118,7 +118,7 @@ int main()
  float DI1y;
  DI1y = -1019917329;
     short int    RSrbi7C;
-    RSrbi7C    =    -389346466;
+    RSrbi7C    =    (short)-389346466;
     float    aWa4sWR4;
     aWa4sWR4    =    -1908884532;
     char    L15257n;
@@ -168,7 +168,7 @@ int main()
 	short	o7l45Txe5;
 	o7l45Txe5	=	(short)621370794;
   unsigned short int  ZV5o7;
-  ZV5o7  =  2033935699;
+  ZV5o7  =  (unsigned short)2033935699;
  short s40A_21q;
  s40A_21q = 0;
   long double  Rq9KP5;

@@ -52,7 +52,7 @@ int main(int argc, char** argv) {
   unsigned short int  G9Eq;
   G9Eq  =  (unsigned short)-365233938;
   unsigned char  vLZdO;
-  vLZdO  =  -1455316611;
+  vLZdO  =  (unsigned char)-1455316611;
     unsigned short int    K5mzF;
     K5mzF    =    (unsigned short)945473525;
  double aHlGs;
@@ -104,7 +104,7 @@ int main(int argc, char** argv) {
 	unsigned char	eOR6_2cMz0;
 	eOR6_2cMz0	=	(unsigned char)-2131148898;
     short    hhPomZ1;
-    hhPomZ1    =    -1632539981;
+    hhPomZ1    =    (short)-1632539981;
     int    tAo52;
     tAo52    =    1871367101;
   short  b011S5;

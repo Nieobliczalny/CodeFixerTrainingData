@@ -131,7 +131,7 @@ int main(void)
 	long double	H2ukJUPI3;
 	H2ukJUPI3	=	1765256553;
     short int    TV22lD2sG;
-    TV22lD2sG    =    -1318009023;
+    TV22lD2sG    =    (short)-1318009023;
   unsigned char  nbt7247LA;
   nbt7247LA  =  0;
   long double  gfcc;
@@ -277,7 +277,7 @@ else if (((fj74 & 1430790975) || (O95JFA <= 672341212)) && (N33n5RR != 107193571
 {
 for (int k = 0; k < 3; ++k)
 {
-j_p7On9 = fH90GyIh(-868027450, LclU, -823973336, 853792332, -1231939635);
+j_p7On9 = fH90GyIh(-868027450, LclU, (unsigned short)-823973336, 853792332, -1231939635);
 }
 }
 else

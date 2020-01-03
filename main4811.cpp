@@ -52,7 +52,7 @@ int main(int argc, char** argv) {
   unsigned char  BDLCP32;
   BDLCP32  =  (unsigned char)-1047759670;
   unsigned short  PGcxdJHJD9;
-  PGcxdJHJD9  =  1200328308;
+  PGcxdJHJD9  =  (unsigned short)1200328308;
  short int d75J7GL5FZ;
  d75J7GL5FZ = (short)306219967;
     char    p024;
@@ -215,7 +215,7 @@ case 4:
 N2OBMU1 = co__iv((short)-1622797531);
 break;
 case 5:
-tBuvV6_ = V54331Hl20(-137702634, -772350092, jg6_z, 322537938);
+tBuvV6_ = V54331Hl20((char)-137702634, -772350092, jg6_z, 322537938);
 break;
 }
 }
@@ -256,7 +256,7 @@ if (yPvY3IM5m <= -1341905252)
 {
 if ((aDC0 < 295174686) || (X7S2WZb1 == -106883977))
 {
-std::cout << V54331Hl20((char)-1205837083, -1062792537, P0ur_61T4, (short)158000038) << y04W_ << co__iv(-626535934) << GFi2yU << V54331Hl20(1226170437, m2pg, -322176007, 510386287) << std::endl;
+std::cout << V54331Hl20((char)-1205837083, -1062792537, P0ur_61T4, (short)158000038) << y04W_ << co__iv((short)-626535934) << GFi2yU << V54331Hl20(1226170437, m2pg, -322176007, 510386287) << std::endl;
 }
 else if (W27BkD8F & -331251788)
 {
@@ -356,7 +356,7 @@ Q_3Q9b4 = YkROE((unsigned short)-389347096, 1901561114, -153537689, (char)-21333
 break;
 case 'g':
 case 'G':
-jg6_z = co__iv(-110018428) - 153758827;
+jg6_z = co__iv((short)-110018428) - 153758827;
 break;
 case 'h':
 case 'H':
@@ -510,7 +510,7 @@ BDLCP32 = YkROE((unsigned short)-1389750476, Xisi_357J, DH3J, XZ_Bf, m2pg);
 }
 else if (DH3J)
 {
-vHXD = YkROE((unsigned short)-616976131, evKeW29z3K, m2pg, (char)-1523379406, 572112889);
+vHXD = YkROE((unsigned short)-616976131, evKeW29z3K, m2pg, (char)-1523379406, (char)572112889);
 }
 else if ((O0Ke0gi) || (p024 < -1067357121))
 {
@@ -604,7 +604,7 @@ case 4:
 Hn_YN0A1_5 = co__iv((short)1540442012);
 break;
 case 5:
-L1CgO5iBOR = YkROE((unsigned short)-1902114244, -1224802116, d75J7GL5FZ, (char)-260208841, -943484759);
+L1CgO5iBOR = YkROE((unsigned short)-1902114244, -1224802116, d75J7GL5FZ, (char)-260208841, (char)-943484759);
 break;
 case 6:
 XZ_Bf = tBuvV6_ - 1345176259;
@@ -792,7 +792,7 @@ case 'j':
 nIP9 = YkROE((unsigned short)-194357588, vIajw, 1625505503, iK_BNDcV, (char)-263823097);
 break;
 default:
-X7S2WZb1 = YkROE(X7S2WZb1, 1611126795, -428380272, (char)1623029071, 1239061984);
+X7S2WZb1 = YkROE(X7S2WZb1, 1611126795, -428380272, (char)1623029071, (char)1239061984);
 break;
 }
 }
@@ -833,7 +833,7 @@ else
 {
 if ((XZ_Bf <= 1141455702) && (I_i9bG8_ != X7S2WZb1))
 {
-std::cout << co__iv((short)699083609) << V54331Hl20((char)-1302055780, eO_OJ788s_, I_cQM, GoEf) << YkROE((unsigned short)1141063589, eO_OJ788s_, 551265695, GoEf, -1851432855) << std::endl;
+std::cout << co__iv((short)699083609) << V54331Hl20((char)-1302055780, eO_OJ788s_, I_cQM, GoEf) << YkROE((unsigned short)1141063589, eO_OJ788s_, 551265695, GoEf, (char)-1851432855) << std::endl;
 }
 else
 {

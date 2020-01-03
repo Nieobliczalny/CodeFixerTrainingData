@@ -43,7 +43,7 @@ int main(void)
     unsigned char    r_ZCO4    =    (unsigned char)2123869098;
  unsigned short int U9EQ = (unsigned short)1316913916;
   long long  qL6xp118b  =  1049845265;
- short IeS5E = 1338303583;
+ short IeS5E = (short)1338303583;
     unsigned long long    pvLFn8    =    1451127801;
 	unsigned char	iwWDO	=	-32026367;
   int  FZYnk  =  -1191589208;

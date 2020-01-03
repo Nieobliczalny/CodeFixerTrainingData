@@ -219,7 +219,7 @@ lHX78y = A3QN7wB2f9(1141488295, (char)175529374, (unsigned short)-1732250754, -7
 }
 else
 {
-iawACcU9 = E7xTbGrbEZ(lHX78y, -1642672266);
+iawACcU9 = E7xTbGrbEZ(lHX78y, (short)-1642672266);
 }
 }
 }

@@ -53,7 +53,7 @@ int main()
     short int    D2e12    =    0;
     float    Yrs7j    =    516558636;
 	unsigned short	Am5N	=	(unsigned short)-1994965488;
-	unsigned char	I3_dW	=	-1542963241;
+	unsigned char	I3_dW	=	(unsigned char)-1542963241;
  long long OC10vJrP = -142727266;
 	unsigned short	WUm5bn2wG	=	1194023690;
  unsigned long LoQCn14H = 0;
@@ -67,7 +67,7 @@ int main()
   float  l_9Zr8Uru  =  -852726130;
   unsigned int  l5VDX8gO  =  -219782014;
   short int  ZXMSn0Ug  =  (short)-137631138;
-	unsigned char	PxM2MH	=	-828969182;
+	unsigned char	PxM2MH	=	(unsigned char)-828969182;
   unsigned short int  cl52u8  =  -26037945;
  unsigned short int T61B6p3 = (unsigned short)-1821876452;
 	float	R7P_jRU	=	-1680296287;
@@ -210,7 +210,7 @@ U5rJ = (int)floor(pwXGH);
 break;
 }
 
-o08IgOUVS = od_A9AT((char)1568970850) / od_A9AT(-1830632861);
+o08IgOUVS = od_A9AT((char)1568970850) / od_A9AT((char)-1830632861);
 
 if (i8x_5H & 429385685)
 {

@@ -43,7 +43,7 @@ VKkJA_glK = O_K7((unsigned short)1331882759, VKkJA_glK, (short)-1797971515);
 break;
 case 'b':
 case 'B':
-v2_LlG = O_K7((unsigned short)-207753050, 195976640, q1v4n1w6j);
+v2_LlG = O_K7((unsigned short)-207753050, (char)195976640, q1v4n1w6j);
 break;
 case 'c':
 case 'C':
@@ -184,7 +184,7 @@ HaQ_v8S = O_K7(VKkJA_glK, -281191389, 439510414) & NclJ3;
 }
 HaQ_v8S = O_K7((unsigned short)1976118062, v2_LlG, (short)131635298) - v2_LlG;
 
-v2_LlG = O_K7((unsigned short)1791448401, 802758821, 1299641410);
+v2_LlG = O_K7((unsigned short)1791448401, (char)802758821, 1299641410);
 q1v4n1w6j = O_K7(1989047151, y4l1EpE, -1385890924);
 
 y4l1EpE = (unsigned char)(HaQ_v8S);
@@ -274,7 +274,7 @@ case 2:
 HaQ_v8S = HaQ_v8S << 634975609;
 break;
 case 3:
-q1v4n1w6j = O_K7(1382966961, HaQ_v8S, 635121160);
+q1v4n1w6j = O_K7((unsigned short)1382966961, HaQ_v8S, 635121160);
 break;
 case 4:
 q1v4n1w6j = O_K7(y4l1EpE, q1v4n1w6j, (short)-882223871);

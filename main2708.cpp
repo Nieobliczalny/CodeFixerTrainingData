@@ -94,7 +94,7 @@ int main(int argc, char** argv)
 	unsigned char	IsR_W71;
 	IsR_W71	=	(unsigned char)11002774;
  char xl8An_h_r6;
- xl8An_h_r6 = 1257942008;
+ xl8An_h_r6 = (char)1257942008;
 	long	S45379;
 	S45379	=	51578995;
     int    YzG367;

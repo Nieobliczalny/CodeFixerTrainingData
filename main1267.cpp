@@ -26,7 +26,7 @@ int main(void) {
     zhy0    =    (short)-1316925259;
     PYpQ5    =    (short)392291197;
     QS0Xgi    =    (short)-1012817020;
-    VUU8kEdZz    =    2110784621;
+    VUU8kEdZz    =    (short)2110784621;
     Pl_1C9    =    760374500;
     t0R06kM8    =    -1150921103;
     X249nhQ    =    -1470053096;
@@ -36,7 +36,7 @@ int main(void) {
     V5u77GKg95    =    (short)1836729713;
     Wq1YRFJhL    =    (short)-1505174265;
     wLgrZ    =    (short)-1665721775;
-    j2kzi_t2    =    1970006756;
+    j2kzi_t2    =    (short)1970006756;
     oU5647O5A    =    1132196882;
     D8328Za_    =    413589348;
     FH455    =    270529619;
@@ -46,7 +46,7 @@ int main(void) {
     coXP31Sz6    =    (short)181586394;
     LuVR6F    =    (short)-2071510024;
     vAad5n7N5    =    (short)-353459984;
-    Mvl02    =    1694319606;
+    Mvl02    =    (short)1694319606;
     w2YWOj1    =    -186408168;
     DGpkk    =    -259519719;
     q4_A41    =    -404033332;
@@ -56,7 +56,7 @@ int main(void) {
     PsCWv    =    (short)649489189;
     tNx_KMb    =    (short)1396929782;
     I713R    =    (short)130229741;
-    N9_Z7M    =    1522507384;
+    N9_Z7M    =    (short)1522507384;
     Ip60    =    482611631;
     sXO12p    =    1550098417;
     pclEb    =    -75063585;
@@ -66,7 +66,7 @@ int main(void) {
     Km5BwyU_r    =    (short)-200118006;
     cc7NouW    =    (short)-163841323;
     eM08Txv    =    (short)1049829985;
-    jV46b    =    -848392217;
+    jV46b    =    (short)-848392217;
     AzTF5Y    =    1135332600;
     A_hz    =    -1291331437;
     rFy8h    =    -887000587;
@@ -76,7 +76,7 @@ int main(void) {
     Q5et    =    (short)1700740633;
     B6UeNTPUG    =    (short)-724479105;
     OU3IT    =    (short)-505580779;
-    K3yH6M84lb    =    1428473032;
+    K3yH6M84lb    =    (short)1428473032;
     q19a_u8    =    210479466;
     r8Y9XdcG8    =    1572086288;
     ERlM1jUj4G    =    1694983658;
@@ -86,7 +86,7 @@ int main(void) {
     VEUQ    =    (short)-762576676;
     H_49wdCF6w    =    (short)1832472978;
     gWrY    =    (short)-179669509;
-    jOulnaH    =    956902958;
+    jOulnaH    =    (short)956902958;
     Avd82    =    1753880084;
     Z9Riq3    =    1253504925;
 
@@ -389,7 +389,7 @@ case 2:
 r8Y9XdcG8 = zn3wu0((char)809764502, 2075790828);
 break;
 case 3:
-WwJ2e = zn3wu0(206653294, -1499224491);
+WwJ2e = zn3wu0((char)206653294, -1499224491);
 break;
 case 4:
 Mvl02 = zn3wu0((char)-1776388793, OzrY);

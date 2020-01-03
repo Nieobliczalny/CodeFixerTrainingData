@@ -76,7 +76,7 @@ int main(int argc, char** argv) {
   long double  X_UvahciCD;
   X_UvahciCD  =  -15181212;
  unsigned char nwZUJ;
- nwZUJ = 537604016;
+ nwZUJ = (unsigned char)537604016;
 	unsigned short	Hny5fB;
 	Hny5fB	=	(unsigned short)-1365979687;
  long long Ue9rjDR7;
@@ -122,7 +122,7 @@ int main(int argc, char** argv) {
   int  QhiVX;
   QhiVX  =  508780816;
 	char	c9oeU1GRrS;
-	c9oeU1GRrS	=	-747976056;
+	c9oeU1GRrS	=	(char)-747976056;
     float    EkAI38e5J8;
     EkAI38e5J8    =    745702839;
  unsigned char byWFk_;
@@ -214,7 +214,7 @@ case 'b':
 Vph9p16d = lI25ZW_((short)-1226328886, -2014625105, m6HhSV);
 break;
 case 'c':
-Ou2_ = v_xoj13(Ou2_, (unsigned short)-1945033463, (short)-1551680013, 344685276);
+Ou2_ = v_xoj13(Ou2_, (unsigned short)-1945033463, (short)-1551680013, (char)344685276);
 break;
 case 'd':
 r461_0i8W = v_xoj13(-1656378244, -1213333920, 1418447564, 1766811955);

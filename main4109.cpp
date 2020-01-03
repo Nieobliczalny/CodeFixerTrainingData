@@ -31,7 +31,7 @@ int main() {
 	unsigned short	e9OUmbq;
 	e9OUmbq	=	(unsigned short)-895729206;
 	short int	km_a3u4u;
-	km_a3u4u	=	-1299760739;
+	km_a3u4u	=	(short)-1299760739;
 	int	R44s34F7;
 	R44s34F7	=	-297324168;
 	long double	wcb6nGh;
@@ -367,7 +367,7 @@ case 'e':
 Hk442M592h = wHzD2Lu3(Kh2kr8V62S, (short)-546952342, (short)1803086948);
 break;
 case 'f':
-Hk442M592h = wHzD2Lu3(ef1YX, (short)-954873722, 2068733626);
+Hk442M592h = wHzD2Lu3(ef1YX, (short)-954873722, (short)2068733626);
 break;
 case 'g':
 a6qK7_00 = wHzD2Lu3(FK8_D, -980667403, -1755707424);

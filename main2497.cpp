@@ -18,7 +18,7 @@ int main()
  long double Srkp0 = -1932186819;
     unsigned char    d2RJd    =    (unsigned char)409442092;
   unsigned short int  HcP_  =  (unsigned short)-1709142841;
-	unsigned short int	r0O93_b	=	-720037686;
+	unsigned short int	r0O93_b	=	(unsigned short)-720037686;
 	long double	G80_6jcT	=	-250001706;
 	unsigned int	TvYH2n2	=	1006039581;
 	long double	GU11LIr4	=	1504743000;
@@ -32,7 +32,7 @@ int main()
     short int    H1ziZ    =    (short)-591780201;
     unsigned int    KUH2    =    -879405766;
 	short int	S5e6O2g	=	(short)-2082645176;
-	unsigned short	SUuU40	=	1299693284;
+	unsigned short	SUuU40	=	(unsigned short)1299693284;
   long long  BOZmH11fM  =  1940771031;
  unsigned short int fc5x8 = 860920242;
     long    G1rr    =    478410261;

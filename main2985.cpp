@@ -40,7 +40,7 @@ int main(int argc, char** argv)
  short int UdRv5BSmWy = (short)-807945902;
     long double    Px6_Y2z_    =    701106718;
     unsigned char    Gg9AfA4    =    (unsigned char)-2015432501;
- char qN_0mrVNk = 560906424;
+ char qN_0mrVNk = (char)560906424;
   char  XEX2U30  =  0;
   unsigned short int  m9emOz  =  1601181620;
 	short	C44A4fJIP	=	579837125;

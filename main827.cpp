@@ -87,7 +87,7 @@ if (L_7_49 > cU00J9hVe)
 {
 for (int k = 9; k >= 0; --k)
 {
-Z16XtDud = K9OAPY(-805419880, (short)607020302, v0e_1_1dsf, 322942512, B_o_);
+Z16XtDud = K9OAPY(-805419880, (short)607020302, v0e_1_1dsf, (unsigned short)322942512, B_o_);
 }
 }
 else if (KK2I4rA2)

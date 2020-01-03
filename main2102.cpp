@@ -37,7 +37,7 @@ int main() {
     unsigned short int    t9az4y7T;
     t9az4y7T    =    (unsigned short)-195877051;
  short H5611_2TXA;
- H5611_2TXA = -1015279850;
+ H5611_2TXA = (short)-1015279850;
 	short int	B4wtS;
 	B4wtS	=	-544749188;
 	long long	xJcQGpW;

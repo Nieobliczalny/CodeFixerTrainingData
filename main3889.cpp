@@ -35,7 +35,7 @@ int main(int argc, char** argv)
  short int mN89TSjUdB;
  mN89TSjUdB = (short)-763452905;
 	short int	xRNNuA_;
-	xRNNuA_	=	154963136;
+	xRNNuA_	=	(short)154963136;
 	short int	ofJ8X5_J;
 	ofJ8X5_J	=	(short)-2079942824;
 	long long	wa6Is3A;
@@ -53,7 +53,7 @@ int main(int argc, char** argv)
     long double    w8Cb;
     w8Cb    =    -1016906630;
 	unsigned char	mrU79oN4;
-	mrU79oN4	=	1013058744;
+	mrU79oN4	=	(unsigned char)1013058744;
  unsigned int u9E_56;
  u9E_56 = -1828780366;
   unsigned int  NLqQ8TN43;

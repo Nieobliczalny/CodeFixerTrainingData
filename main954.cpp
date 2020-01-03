@@ -31,7 +31,7 @@ int main(int argc, char** argv)
     long long    w0N8x5    =    -248740704;
   double  WCtpW8  =  1016088649;
 	char	a_kAxHy	=	(char)-1987502042;
- short int V771KBQ = -1169147085;
+ short int V771KBQ = (short)-1169147085;
   int  W4ueht  =  0;
   char  sA20240d_1  =  472766188;
     unsigned short int    m_37jE1M4Y    =    (unsigned short)18627147;
@@ -43,7 +43,7 @@ int main(int argc, char** argv)
   int  MW2_Esg  =  682983936;
   unsigned short  i76q13_  =  0;
 	short	R1th	=	(short)864556548;
- unsigned short int b1OTa_0n = -86315428;
+ unsigned short int b1OTa_0n = (unsigned short)-86315428;
  long long w0XJ7PO = -318517555;
   short  N77wxz1A4  =  (short)-1651868994;
 	int	tLLnoFV	=	607159027;
@@ -53,7 +53,7 @@ int main(int argc, char** argv)
  char qY8ucOMQ61 = -2022167394;
     char    R8TE    =    -1228475636;
     short int    j7CbqQVG    =    (short)-1228256097;
-  short int  r0_CE  =  1190490264;
+  short int  r0_CE  =  (short)1190490264;
     int    xDp36AI9    =    1249747248;
 	double	MJOP6	=	-1801896869;
   short  NAv1hvr3  =  (short)1492450883;
@@ -278,7 +278,7 @@ catch (int& errorCode)
 b1OTa_0n = Y5sFCym_gO(1815157606, -154904190);
 }
 
-cout << HXuYSutlS3((char)191538969, V1xiYS__, THu03wp38, (unsigned char)-2139341937) / r6AXph(-1046312225, 1687912423, THu03wp38) << endl;
+cout << HXuYSutlS3((char)191538969, V1xiYS__, THu03wp38, (unsigned char)-2139341937) / r6AXph((short)-1046312225, 1687912423, THu03wp38) << endl;
 
 yt07NL9EX = (int)ceil(OffwmI51);
 

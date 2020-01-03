@@ -27,7 +27,7 @@ int main(void)
   unsigned char  t1oMQn  =  (unsigned char)1298120747;
  char n9NXA1Miy = (char)-1520582079;
 	int	JidV	=	40626606;
-    short    yr3MAEhW_7    =    -42702502;
+    short    yr3MAEhW_7    =    (short)-42702502;
   char  fo6Ru0q22  =  0;
  double Ko_kdKI = 961039303;
   long long  C8W_3v8320  =  -123624718;

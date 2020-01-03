@@ -24,7 +24,7 @@ int main() {
 	long	y06G	=	-1797756385;
 	short	q_0a9	=	(short)361854854;
   long  DUJ_kV4  =  0;
- char tafoRTV = 217989965;
+ char tafoRTV = (char)217989965;
   float  xOn8  =  -359984402;
 	unsigned long long	bXIE4qkM6	=	1174388990;
  short int sSR4492 = 0;
@@ -35,7 +35,7 @@ int main() {
   long double  APky3i  =  -2144171265;
  char y3J6 = (char)1877481005;
 	float	WX32NEmm_6	=	-1953564036;
- short c7GI7b8zO = 1919219737;
+ short c7GI7b8zO = (short)1919219737;
  unsigned long Q9K9DZy = -313649675;
 	short	jG1gA7o4	=	0;
 

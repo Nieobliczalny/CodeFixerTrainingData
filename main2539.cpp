@@ -42,7 +42,7 @@ int main() {
     char    b_3r    =    0;
   unsigned long long  p4HFTIQ  =  0;
  unsigned char JPo0KDh8j = (unsigned char)2053338472;
-	unsigned short	H3m8k1U	=	718462996;
+	unsigned short	H3m8k1U	=	(unsigned short)718462996;
  unsigned short ZeQl = -1621335294;
  float a8Ddw05Z7 = -1856508468;
  short int yS15O9A2 = -943215931;
@@ -121,7 +121,7 @@ case 7:
 H3m8k1U = ix6UzP(1919670349, (char)1064132643, (unsigned char)-392632712, ZeQl, (unsigned short)-2092301143);
 break;
 case 8:
-M_tm1h = CmpbC43xy(M_tm1h, -1059479976);
+M_tm1h = CmpbC43xy(M_tm1h, (unsigned char)-1059479976);
 break;
 case 9:
 p4HFTIQ = MtQ8ts(2020601668, 1777410018, M_tm1h, p4HFTIQ);
@@ -247,7 +247,7 @@ c06_Bz = g0S3r2();
 
 a8Ddw05Z7 = (int)floor(Vs_m4O_JH4);
 
-std::cout << XU2Q11yN(-1302918374, -1283844390, 780431590) << p4HFTIQ << std::endl;
+std::cout << XU2Q11yN((short)-1302918374, -1283844390, 780431590) << p4HFTIQ << std::endl;
 {
 int i = 0;
 do

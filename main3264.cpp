@@ -86,7 +86,7 @@ int main(int argc, char** argv) {
   unsigned short int  H1A25JHS3b;
   H1A25JHS3b  =  (unsigned short)-1999191718;
     short int    YYH9Xr;
-    YYH9Xr    =    -1278065745;
+    YYH9Xr    =    (short)-1278065745;
 	int	oI24_I38_Y;
 	oI24_I38_Y	=	1030716301;
   int  it4ds;
@@ -434,7 +434,7 @@ for (int j = 10; j >= 0; j--)
 {
 for (int k = 5; k >= 0; --k)
 {
-h7Y9H0kG = fU8I((unsigned short)-2001139165, k3sGjW4_GG, 1454447156);
+h7Y9H0kG = fU8I((unsigned short)-2001139165, k3sGjW4_GG, (short)1454447156);
 }
 }
 --i;
@@ -550,7 +550,7 @@ case 'c':
 it4ds = S48UZKV8T((unsigned short)-561249912, iAlDnY_, Nh738ak6o);
 break;
 case 'd':
-QC009J2723 = d1X_Beu2(-2127801184, 65361946);
+QC009J2723 = d1X_Beu2((unsigned short)-2127801184, 65361946);
 break;
 case 'e':
 gR87b = (int)floor(oSQ2_);

@@ -39,7 +39,7 @@ int main(void)
   unsigned short  CCc92u0vU6  =  0;
     unsigned long long    c337    =    -2134837606;
     short int    Ar2TMt030    =    0;
-    short    qHNW8m_8oI    =    865369980;
+    short    qHNW8m_8oI    =    (short)865369980;
 	long double	pp972F	=	-262149261;
   int  WvrM1  =  0;
   unsigned long  XX0TTqrmw5  =  -97594937;

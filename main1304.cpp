@@ -40,7 +40,7 @@ int main(int argc, char** argv)
     unsigned short int    gSn3    =    (unsigned short)2035327620;
   unsigned int  Q7OioxBbj  =  0;
   unsigned char  Ex_KW9kQ  =  (unsigned char)-1543399977;
-	unsigned short	Iq1SB61	=	650351632;
+	unsigned short	Iq1SB61	=	(unsigned short)650351632;
 	double	s286TTg	=	1920409009;
 	short	y11wQ	=	-1873992564;
  unsigned int RzY0TY = 1876405202;
@@ -62,7 +62,7 @@ Sa52 = (int)(Ex_KW9kQ);
 A035T = G34c3I % 1550032361;
 if ((G34c3I < 678826127) && (FN81g1gb1s != -1067950594))
 {
-cout << ApWTyq(Z4_kT6u7c, -1768006657, (short)722671386) << RR8l0((short)2053579656, (char)-918125780, 198560087, -697473617, -2009922039) << "Bft8RT" << endl;
+cout << ApWTyq(Z4_kT6u7c, -1768006657, (short)722671386) << RR8l0((short)2053579656, (char)-918125780, (short)198560087, -697473617, -2009922039) << "Bft8RT" << endl;
 }
 else if (Mzus <= Ex_KW9kQ)
 {
@@ -131,7 +131,7 @@ M7tce2 -= Ex_KW9kQ;
 break;
 case 'g':
 case 'G':
-gPdZ_Vu = RR8l0(gPdZ_Vu, (char)-1977796263, T2N2, s286TTg, 2090589067);
+gPdZ_Vu = RR8l0(gPdZ_Vu, (char)-1977796263, T2N2, s286TTg, (unsigned short)2090589067);
 break;
 case 'h':
 case 'H':

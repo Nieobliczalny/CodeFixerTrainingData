@@ -761,7 +761,7 @@ case 3:
 a9o_3 >>= 943534634;
 break;
 case 4:
-Tl0Q4u_Zj = pyMx(-595410279, -1462244873, -2120110579, C1S4xgMX);
+Tl0Q4u_Zj = pyMx(-595410279, -1462244873, (short)-2120110579, C1S4xgMX);
 break;
 case 5:
 xWoUYGCx2D = pyMx(834764788, D1_jd, -829559010, 1086665509);

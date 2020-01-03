@@ -296,7 +296,7 @@ case 1:
 gAjt_a = hUdM61((unsigned short)-387515477);
 break;
 case 2:
-L92NYn = e4huJg47(L92NYn, (char)200248142, -106714816, 1322425917);
+L92NYn = e4huJg47(L92NYn, (char)200248142, -106714816, (unsigned short)1322425917);
 break;
 default:
 hY1o5v = hUdM61(d_yoo1q);

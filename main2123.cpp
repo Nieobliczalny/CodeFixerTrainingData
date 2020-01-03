@@ -294,7 +294,7 @@ if (C1ye)
 switch (QdH8)
 {
 case 0:
-DHs802Q = nW8iNSjH(DHs802Q, 129173654, (char)502725776, -1096313812);
+DHs802Q = nW8iNSjH(DHs802Q, 129173654, (char)502725776, (unsigned char)-1096313812);
 break;
 case 1:
 QdH8 = nW8iNSjH(nI0ES, SJQLek5, etMR, L9mN);

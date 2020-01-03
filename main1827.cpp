@@ -61,7 +61,7 @@ int main() {
     char    XZkx;
     XZkx    =    (char)1092340208;
  short oSaIxWE35;
- oSaIxWE35 = -551475203;
+ oSaIxWE35 = (short)-551475203;
  unsigned char L2pVD;
  L2pVD = (unsigned char)-428799453;
 	unsigned long long	y13T;
@@ -155,7 +155,7 @@ int main() {
  unsigned char U6kOR;
  U6kOR = (unsigned char)-1868448244;
   short  u7fQ;
-  u7fQ  =  377315633;
+  u7fQ  =  (short)377315633;
 	unsigned long long	MvM345_kvl;
 	MvM345_kvl	=	-1999736907;
 	unsigned int	z3Ba1MU5l;

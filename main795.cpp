@@ -173,7 +173,7 @@ JUf51q_3 = Y6GVuw2(JUf51q_3, 1851048900, (short)1412550589);
 }
 else
 {
-c5q6IhKj = o4eDXmhl(-861063517);
+c5q6IhKj = o4eDXmhl((short)-861063517);
 }
 }
 catch (int& errorCode)
@@ -339,7 +339,7 @@ for (int i = 0; i < 2; i++)
 {
 try
 {
-ah983wVC = axJexf(512205386, (unsigned short)-1855463970, 1491715401, X8m1E82Hs9) >> 1457910638;
+ah983wVC = axJexf(512205386, (unsigned short)-1855463970, (unsigned char)1491715401, X8m1E82Hs9) >> 1457910638;
 }
 catch (int& errorCode)
 {

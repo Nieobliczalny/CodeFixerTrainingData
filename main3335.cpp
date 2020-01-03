@@ -111,7 +111,7 @@ case 7:
 pYfGEMs = u8_g0_8DI(-1907289914, (short)-1414302543, o6AtugB7, (unsigned short)-349987528, 423989879);
 break;
 case 8:
-YZ7EA8Fnkw = F5IB7A_hp(-169059319, -658403076, bSDxyI0, NZTolzXX);
+YZ7EA8Fnkw = F5IB7A_hp(-169059319, (char)-658403076, bSDxyI0, NZTolzXX);
 break;
 case 9:
 GUYMJ1 = SbqRFV_9uo(zJE25w, (short)1372415241, 695530984, 484600525);
@@ -195,7 +195,7 @@ k++;
 }
 }
 
-pKBE8085r = -418654779 / F5IB7A_hp(NZTolzXX, 953128074, o6AtugB7, 82627825);
+pKBE8085r = -418654779 / F5IB7A_hp(NZTolzXX, (char)953128074, o6AtugB7, 82627825);
 if ((W905o2 < 499886829) || ((RYcU < -857401199) || (ReUG == -1780150749)))
 {
 try
@@ -255,7 +255,7 @@ V_kcWEe = MBA32s / 2129276130;
 }
 else if (qBh1OO8 >= 420553715)
 {
-BkXMy = F5IB7A_hp(BkXMy, (char)-169801668, 1603321794, Miu16);
+BkXMy = F5IB7A_hp(BkXMy, (char)-169801668, (unsigned short)1603321794, Miu16);
 }
 else if (XscJALS8 >= k_8u827Y)
 {
@@ -272,7 +272,7 @@ M72Xp = WX3Q6ynk3 >> pKBE8085r;
 }
 else if (((M72Xp != -1542401941) || (b9xNdi)) && (Brh_32Zm))
 {
-std::cout << SbqRFV_9uo(BkXMy, (short)-712543290, -1159985302, (unsigned char)-1993834928) << F5IB7A_hp(BkXMy, (char)-1200139568, ibQ21v, -1606504769) << SbqRFV_9uo(478390161, NZTolzXX, -746732286, 587734778) << "Re_x" << std::endl;
+std::cout << SbqRFV_9uo(BkXMy, (short)-712543290, -1159985302, (unsigned char)-1993834928) << F5IB7A_hp(BkXMy, (char)-1200139568, ibQ21v, (unsigned short)-1606504769) << SbqRFV_9uo(478390161, NZTolzXX, -746732286, 587734778) << "Re_x" << std::endl;
 }
 else if (q12fXj & MBA32s)
 {
@@ -379,7 +379,7 @@ if ((X69EjYXz & 754696007) || (j4QC28C1mc > 1238036437))
 {
 if ((rnwn96CFq != -915844820) && (oy6TEg > Y0Lkn05))
 {
-std::cout << HKUG5g8B << u8_g0_8DI(-1398030005, (short)-1393091615, FGh6L, 1492340067, bSDxyI0) << NZTolzXX << zJE25w << SbqRFV_9uo(PR43vOJ64D, 1859296837, 1583561399, M72Xp) << std::endl;
+std::cout << HKUG5g8B << u8_g0_8DI(-1398030005, (short)-1393091615, FGh6L, (unsigned short)1492340067, bSDxyI0) << NZTolzXX << zJE25w << SbqRFV_9uo(PR43vOJ64D, 1859296837, 1583561399, M72Xp) << std::endl;
 }
 }
 for (int i = 0; i < 5; i++)

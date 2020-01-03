@@ -16,7 +16,7 @@ int main(void)
   unsigned int  niuwJbW  =  0;
 
 HuZb8Q2_ = (unsigned short)(Jig7);
-HuZb8Q2_ = (CD441GMN4 >= HuZb8Q2_) ? -804209265 : niuwJbW;
+HuZb8Q2_ = (CD441GMN4 >= HuZb8Q2_) ? (unsigned short)-804209265 : niuwJbW;
 
 {
 int i = 10;

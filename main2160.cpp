@@ -34,7 +34,7 @@ int main(int argc, char** argv)
  unsigned char V9f6LLd_S;
  V9f6LLd_S = (unsigned char)1833108016;
 	unsigned short int	gkySt2BP;
-	gkySt2BP	=	1025631474;
+	gkySt2BP	=	(unsigned short)1025631474;
 	long double	O6K1a;
 	O6K1a	=	646475409;
   char  hlZcP;
@@ -52,7 +52,7 @@ int main(int argc, char** argv)
  unsigned short lJHw7wW;
  lJHw7wW = (unsigned short)285808073;
   char  u_0xeq4jc_;
-  u_0xeq4jc_  =  1924233558;
+  u_0xeq4jc_  =  (char)1924233558;
   char  F16D74QxNr;
   F16D74QxNr  =  1562972803;
 	short	qrbz4YjT;
@@ -120,7 +120,7 @@ int main(int argc, char** argv)
   int  iuGz_;
   iuGz_  =  378162675;
   short  L82OvbIn;
-  L82OvbIn  =  16774267;
+  L82OvbIn  =  (short)16774267;
   double  Foqvg77hMP;
   Foqvg77hMP  =  26599192;
 	double	zFlW4L3j;

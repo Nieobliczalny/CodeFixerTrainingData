@@ -174,7 +174,7 @@ SuER3 = Q6F1gQ(Hq1Oz15, (short)1146237323, (short)-1376693010, (short)1664862366
 break;
 case 'h':
 case 'H':
-u6OKIY464 = Q6F1gQ(u6OKIY464, OEOgk2y_TK, nZ90iz, -174381514);
+u6OKIY464 = Q6F1gQ(u6OKIY464, OEOgk2y_TK, nZ90iz, (short)-174381514);
 break;
 case 'i':
 case 'I':
@@ -192,7 +192,7 @@ i--;
 }
 while (i >= 0);
 }
-O8l74 = Q6F1gQ(O8l74, (short)352318719, (short)727355892, -1255094834);
+O8l74 = Q6F1gQ(O8l74, (short)352318719, (short)727355892, (short)-1255094834);
 
 for (int i = 0; i < 8; i++)
 {

@@ -48,7 +48,7 @@ int main() {
     unsigned short int    D0P8oT;
     D0P8oT    =    (unsigned short)-431799299;
   char  uprZ1p5_c;
-  uprZ1p5_c  =  1072990759;
+  uprZ1p5_c  =  (char)1072990759;
     unsigned long    KR_Q;
     KR_Q    =    -168051337;
   unsigned short int  g_p9v3DM;
@@ -64,7 +64,7 @@ int main() {
     unsigned short int    I5yB8Mb_b;
     I5yB8Mb_b    =    (unsigned short)-1930762782;
  short int HN64_jR;
- HN64_jR = -990719738;
+ HN64_jR = (short)-990719738;
 	short	C3gdON;
 	C3gdON	=	(short)-311038988;
   unsigned long long  WOd6wuR;
@@ -128,7 +128,7 @@ int main() {
     long double    GS2pE050;
     GS2pE050    =    311918705;
   short int  NGJ4e;
-  NGJ4e  =  -798394321;
+  NGJ4e  =  (short)-798394321;
   short int  S4FMvBeD;
   S4FMvBeD  =  0;
     long long    w24m88_J6;

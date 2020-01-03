@@ -29,7 +29,7 @@ int main(void)
     long long    nUET;
     nUET    =    1085191845;
   unsigned short int  DTTC;
-  DTTC  =  352652828;
+  DTTC  =  (unsigned short)352652828;
   long  MoOg8;
   MoOg8  =  -929231403;
  unsigned char Tm_68;
@@ -87,7 +87,7 @@ int main(void)
   char  zHLc;
   zHLc  =  (char)1228618173;
     unsigned char    VwTg208uv;
-    VwTg208uv    =    -1365749480;
+    VwTg208uv    =    (unsigned char)-1365749480;
   char  bo6W_;
   bo6W_  =  (char)-563411571;
  long DHuR5uZ;

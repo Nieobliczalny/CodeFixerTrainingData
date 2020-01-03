@@ -57,7 +57,7 @@ int main(int argc, char** argv) {
 	unsigned short int	mEr9RLMP	=	(unsigned short)-536283084;
   short int  r2Mh7qF  =  (short)1903750575;
     long double    Pg7k5oHe    =    -1356766289;
-	short	agCEt38S	=	385104044;
+	short	agCEt38S	=	(short)385104044;
     short    FqcM    =    0;
  long tz15Uoo = -1791879484;
     short int    TzCH6J4EiT    =    (short)-1762945903;
@@ -81,7 +81,7 @@ int main(int argc, char** argv) {
  unsigned short HR1sCq = (unsigned short)733042006;
 	long double	B6oz	=	1645599989;
  int q_3uF = -189010888;
-    unsigned char    q_6y1K    =    535950151;
+    unsigned char    q_6y1K    =    (unsigned char)535950151;
  int B53n = 2078535821;
 	short int	X5Z___	=	(short)-775170266;
     long long    kWG7u_71    =    -562044915;
@@ -92,7 +92,7 @@ int main(int argc, char** argv) {
 	float	OAbbEX	=	471746187;
     double    M9uXB_1    =    -1948843902;
 	short int	lhUVdap291	=	(short)1828807961;
-	unsigned short int	Olc_7__v	=	905214574;
+	unsigned short int	Olc_7__v	=	(unsigned short)905214574;
  unsigned short N24u8zt = (unsigned short)-1609656562;
  short zPrwa = 899765073;
  long y0u00ol = -754803817;
@@ -127,7 +127,7 @@ i++;
 int i = 1;
 while (i >= 0)
 {
-cout << V3qyCcxvu((unsigned short)-33345790, 1147655988, j1qnLRR4, (char)-1682414592, lnoY3v6) << hu0G_H(1079018990, (unsigned char)-1484937497, j1qnLRR4, 1548291735, -1201231686) << ldYR48G5(1490684744, -748258856, 793022669, 915805634) << endl;
+cout << V3qyCcxvu((unsigned short)-33345790, 1147655988, j1qnLRR4, (char)-1682414592, lnoY3v6) << hu0G_H(1079018990, (unsigned char)-1484937497, j1qnLRR4, (unsigned short)1548291735, -1201231686) << ldYR48G5(1490684744, -748258856, 793022669, 915805634) << endl;
 i--;
 }
 }

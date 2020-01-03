@@ -35,7 +35,7 @@ int main()
  unsigned char pKMM2;
  pKMM2 = (unsigned char)1516873934;
   short int  TYI3o2M0;
-  TYI3o2M0  =  1508595636;
+  TYI3o2M0  =  (short)1508595636;
  float G27H_x;
  G27H_x = -1581765654;
   short int  TD6Ih2I4;
@@ -61,7 +61,7 @@ int main()
   unsigned char  bIRYON;
   bIRYON  =  (unsigned char)1532857036;
     unsigned char    H77AaC3_gz;
-    H77AaC3_gz    =    109791604;
+    H77AaC3_gz    =    (unsigned char)109791604;
  long long XNjeZf_CB;
  XNjeZf_CB = -1092451817;
   long  pPpUw9;

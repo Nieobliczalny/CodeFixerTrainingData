@@ -99,7 +99,7 @@ case 5:
 Y60kS29X += TN2xtqr04;
 break;
 case 6:
-HDd7Mmx0G5 = WJsoU((unsigned short)1333290105, nV5s_vCQ, 1797786072, 28588605);
+HDd7Mmx0G5 = WJsoU((unsigned short)1333290105, nV5s_vCQ, (unsigned short)1797786072, 28588605);
 break;
 default:
 TN2xtqr04 = WJsoU((unsigned short)-835497281, X_9xgNrWv, (unsigned short)-603953213, -892213034);
@@ -232,7 +232,7 @@ case 8:
 e9aa = WJsoU((unsigned short)-981176285, bGDN6c3oJ_, X_9xgNrWv, nV5s_vCQ);
 break;
 default:
-vzsXK = WJsoU((unsigned short)889155062, Uw4Fp4, -1389400528, vzsXK);
+vzsXK = WJsoU((unsigned short)889155062, Uw4Fp4, (unsigned short)-1389400528, vzsXK);
 break;
 }
 }

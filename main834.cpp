@@ -311,7 +311,7 @@ kFUNs5M = i870k6C43g(1941064926, SDCV8, (unsigned char)-738894354, (unsigned cha
 break;
 case 'e':
 case 'E':
-O383X = i870k6C43g(285598755, 1446799727, (unsigned char)2097867727, 452324622);
+O383X = i870k6C43g(285598755, 1446799727, (unsigned char)2097867727, (unsigned char)452324622);
 break;
 case 'f':
 case 'F':

@@ -76,7 +76,7 @@ int main()
   unsigned short int  Ti_1;
   Ti_1  =  (unsigned short)172393323;
  short int LU5tj87G;
- LU5tj87G = 2091183755;
+ LU5tj87G = (short)2091183755;
   unsigned short int  VbP5v70;
   VbP5v70  =  -1054212100;
  int yhAOCm;
@@ -130,7 +130,7 @@ int main()
   short int  Jg985yU;
   Jg985yU  =  (short)1164942516;
   unsigned short  pAxgbaJp;
-  pAxgbaJp  =  -2032508981;
+  pAxgbaJp  =  (unsigned short)-2032508981;
 	unsigned long	ft1cFE7;
 	ft1cFE7	=	2074333016;
 	long double	BSLq26sBLn;
@@ -182,7 +182,7 @@ case 'a':
 hXJxbE = cVI5((char)1266969460, ZSBwf, ft1cFE7, (unsigned short)-752016911, BSLq26sBLn);
 break;
 case 'b':
-oX542 = cVI5((char)747421114, ZSBwf, ft1cFE7, 1511762408, -508494968) - G2UM53vjHa;
+oX542 = cVI5((char)747421114, ZSBwf, ft1cFE7, (unsigned short)1511762408, -508494968) - G2UM53vjHa;
 break;
 case 'c':
 A1DO = (int)floor(Z2R69G);

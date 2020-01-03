@@ -133,7 +133,7 @@ int main()
   long double  oTcQK_h;
   oTcQK_h  =  701596375;
 	unsigned short	FfG7Hg5gW;
-	FfG7Hg5gW	=	-1986768408;
+	FfG7Hg5gW	=	(unsigned short)-1986768408;
     unsigned long    paL5;
     paL5    =    -951691849;
   short int  K6JD;
@@ -170,7 +170,7 @@ case 2:
 YUkKDyv54 = iN40s(900205411, -454329068);
 break;
 case 3:
-U79KMv = qE_Vn(U79KMv, (short)1304405015, -559859839, SUo0T8_3U0);
+U79KMv = qE_Vn(U79KMv, (short)1304405015, (char)-559859839, SUo0T8_3U0);
 break;
 case 4:
 UV02PRH_Z = (OE26 != fhNYfnQ) ? 2007020174 : 1779746559;

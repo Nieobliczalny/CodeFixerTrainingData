@@ -110,7 +110,7 @@ b_bB = bfQf((short)-1707794650, (short)948100842, vB2qxl);
 }
 else if (((vu4mb > -513139026) && (OzrB_641G >= -1152536847)) && ((tW82_Zf8w < -1371786166) || (kK38g != -1665940043)))
 {
-A1ITFk840 = bfQf((short)2126568026, Je5vlT, -2125135510);
+A1ITFk840 = bfQf((short)2126568026, Je5vlT, (short)-2125135510);
 }
 else if (A1ITFk840 & 2026473457)
 {

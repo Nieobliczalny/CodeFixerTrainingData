@@ -30,7 +30,7 @@ int main(int argc, char** argv)
     long    diU1RhC4Z    =    1466826513;
   char  bD_d  =  (char)599179955;
     float    qY_0_Uw    =    -1050666452;
- char GaFqW = -1747050651;
+ char GaFqW = (char)-1747050651;
 	unsigned short int	C_LLoa	=	(unsigned short)-1094653297;
 	unsigned int	sQkn	=	761320810;
     unsigned int    R8mf4    =    919190939;

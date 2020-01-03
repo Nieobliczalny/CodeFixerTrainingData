@@ -58,7 +58,7 @@ int main(int argc, char** argv)
  unsigned char Pw1mO;
  Pw1mO = (unsigned char)-1422840197;
 	char	i5T_v;
-	i5T_v	=	494383919;
+	i5T_v	=	(char)494383919;
 	unsigned int	ZRdwQA;
 	ZRdwQA	=	0;
  unsigned char scW6GTYwT;

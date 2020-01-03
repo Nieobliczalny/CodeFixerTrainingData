@@ -52,7 +52,7 @@ int main() {
   long long  BpiVw;
   BpiVw  =  -253375520;
  unsigned short XPS0uQ;
- XPS0uQ = -1083785786;
+ XPS0uQ = (unsigned short)-1083785786;
  unsigned int Y5a_bBn5Sy;
  Y5a_bBn5Sy = -1108150924;
   float  QzdVi10;

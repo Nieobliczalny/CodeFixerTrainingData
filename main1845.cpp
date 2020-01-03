@@ -393,7 +393,7 @@ U2OXI = (ZLt4GrNnJ1 != 1760037899) ? q8yGa7b : z9Dd((short)-203817985, (unsigned
 }
 else if (SmWxC1 & 1273311929)
 {
-I684 = Tg7r8L8(-659171925, -1303968053);
+I684 = Tg7r8L8((short)-659171925, -1303968053);
 }
 else if (QFTU2 > N00wwCGs)
 {

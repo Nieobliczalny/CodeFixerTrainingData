@@ -34,7 +34,7 @@ int main() {
 	unsigned int	Mzzl_lXI_e;
 	Mzzl_lXI_e	=	2123959140;
  unsigned short int U4H4;
- U4H4 = 654723958;
+ U4H4 = (unsigned short)654723958;
   unsigned short int  d_Y7gPy36;
   d_Y7gPy36  =  (unsigned short)-1672941894;
   unsigned short int  qi48O;
@@ -44,7 +44,7 @@ int main() {
   unsigned short int  FQnJS;
   FQnJS  =  (unsigned short)-825009948;
     unsigned short int    lrl8;
-    lrl8    =    1317103549;
+    lrl8    =    (unsigned short)1317103549;
  unsigned long long SM_JLf3J;
  SM_JLf3J = -1203343296;
   unsigned long  wIpVBgGAC;
@@ -62,7 +62,7 @@ int main() {
     unsigned char    UOgrY2Z_3;
     UOgrY2Z_3    =    (unsigned char)377161575;
   unsigned short int  sSm3FDT2B9;
-  sSm3FDT2B9  =  -646248788;
+  sSm3FDT2B9  =  (unsigned short)-646248788;
     char    W4rf9r0H3;
     W4rf9r0H3    =    (char)971248058;
 	unsigned long	IJKf82K9_6;

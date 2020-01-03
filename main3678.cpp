@@ -34,7 +34,7 @@ int main(int argc, char** argv) {
   Dqf5Ok_Dn  =  (short)-1201217416;
   nn2VW_8e0  =  (short)266783306;
   Ts3KZVL0I6  =  (short)-1773669265;
-  WxZY7qHJxO  =  -2022087166;
+  WxZY7qHJxO  =  (short)-2022087166;
   YDayp4b9eN  =  1963684781;
   DkpgaK58V7  =  -1812705493;
 
@@ -644,7 +644,7 @@ case 2:
 DkpgaK58V7 = z2L620();
 break;
 case 3:
-nn2VW_8e0 = tCiU3QM((short)185488618, (unsigned short)-1795714898, 1544331290, YDayp4b9eN);
+nn2VW_8e0 = tCiU3QM((short)185488618, (unsigned short)-1795714898, (unsigned char)1544331290, YDayp4b9eN);
 break;
 case 4:
 DkpgaK58V7 >>= 683551191;
@@ -680,7 +680,7 @@ Ts3KZVL0I6 = (short)(Dqf5Ok_Dn);
 }
 else if (DkpgaK58V7 < 1463757139)
 {
-YDayp4b9eN = tCiU3QM((short)-119485349, (unsigned short)-1183212596, 1757640729, Dqf5Ok_Dn);
+YDayp4b9eN = tCiU3QM((short)-119485349, (unsigned short)-1183212596, (unsigned char)1757640729, Dqf5Ok_Dn);
 }
 else if (A9G8j1A1G_ > DkpgaK58V7)
 {

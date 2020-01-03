@@ -21,7 +21,7 @@ int main(int argc, char** argv) {
   short  tiMN1W_Y  =  (short)-839580740;
 	unsigned short	Je7Sk3v	=	(unsigned short)1584820999;
  long long W8Z14sX = 354652136;
- char WoUf = -1276051762;
+ char WoUf = (char)-1276051762;
     double    etf2e7i6zT    =    -1582387756;
 	unsigned short int	tG00Xi6E	=	-1080412826;
  double X1C0k1HR = -921158114;
@@ -39,7 +39,7 @@ int main(int argc, char** argv) {
     unsigned short int    EbE56m2BzJ    =    (unsigned short)-140391703;
   unsigned int  Q8c22  =  1383609311;
  unsigned short mxftG06 = (unsigned short)-282200746;
-    short int    BRSP    =    -466521050;
+    short int    BRSP    =    (short)-466521050;
     unsigned long    jZ0h9J    =    -1742097626;
 	unsigned short int	ISGQ3t7	=	(unsigned short)1418155665;
     unsigned short    M2g1D4Nh0d    =    -196025679;
@@ -60,7 +60,7 @@ int main(int argc, char** argv) {
   long long  NlYb54Cj  =  829943075;
   short int  gc30J  =  (short)-40952411;
   unsigned short  RwgXX_eN  =  (unsigned short)1787365682;
-  char  W9uu2  =  -420667930;
+  char  W9uu2  =  (char)-420667930;
   double  QADsv  =  -1452010003;
  float k47OW = -881601812;
 	long	ZxIkt9hL	=	108151684;
@@ -70,7 +70,7 @@ int main(int argc, char** argv) {
  short LUHSbd = -1411343257;
  unsigned short int ae44__iT = (unsigned short)1835822321;
   char  t23vpS79N  =  (char)193412634;
- unsigned short SV4Kl = 152855122;
+ unsigned short SV4Kl = (unsigned short)152855122;
  char p7j47n = -227537171;
   short int  ZVH1MUYy  =  -891490269;
     float    wUi3J7    =    2032086966;
@@ -96,7 +96,7 @@ int main(int argc, char** argv) {
 	unsigned long	U_Rtqp	=	-508222008;
  long IF0s_vs7 = -1660384160;
  long double d8V13R = -500943548;
-    short    QsfpT    =    -478582775;
+    short    QsfpT    =    (short)-478582775;
   short int  gYmu2  =  (short)2008807305;
 	long	PkgUj3Q9Z	=	-66026601;
 	float	P4_at30	=	1413726563;
@@ -106,7 +106,7 @@ int main(int argc, char** argv) {
 	unsigned int	pxBx8D_M	=	1698050502;
 	short	PRnK	=	118481152;
  double q6Z1 = 262527013;
-  unsigned short  DLxsW_2  =  -1647619506;
+  unsigned short  DLxsW_2  =  (unsigned short)-1647619506;
  unsigned char YUnTri9Rr = (unsigned char)2008478210;
     double    EdMy8qx    =    -1100038025;
     double    h74_2QOXZ    =    508188104;

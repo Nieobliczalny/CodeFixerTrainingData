@@ -27,7 +27,7 @@ int main() {
   long double  MeGPcj7wS  =  -1186807611;
 	long long	c_S0_0X10C	=	-1380268914;
   unsigned char  cP89  =  (unsigned char)-1524884040;
-  char  l0Kh8  =  745882197;
+  char  l0Kh8  =  (char)745882197;
     long    GgDAMw    =    0;
   char  ZRbG  =  (char)-792587225;
  short int rJpr4Vi = 1282636936;

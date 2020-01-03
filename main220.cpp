@@ -110,7 +110,7 @@ if (JP16HGL >= -1478669759)
 {
 if (((h8_5P86 > -2108788477) && (jZCN <= Dahj1)) && (K7Q06LS_1A <= SKxg9jEa))
 {
-h8_5P86 = M_YX((short)-272320111, -237697289, 1759029427, pUaGcZ_W24, 264210011) >> 704118308;
+h8_5P86 = M_YX((short)-272320111, (unsigned short)-237697289, 1759029427, pUaGcZ_W24, 264210011) >> 704118308;
 }
 else if (qoY2mk != 874992231)
 {
@@ -204,7 +204,7 @@ case 2:
 eOtR29M = (int)floor(h8_5P86);
 break;
 case 3:
-iw5SwC07 = M_YX(579252509, -1944959594, tsq6, -1978899306, JKPh2_);
+iw5SwC07 = M_YX((short)579252509, -1944959594, tsq6, -1978899306, JKPh2_);
 break;
 case 4:
 K7Q06LS_1A = (ASSCcs == Z76PeFf) ? (char)1396201493 : iw5SwC07;
@@ -240,7 +240,7 @@ case 3:
 BByOo20EW <<= w7aM8eAqc;
 break;
 default:
-hfkY_ = (ASSCcs >= -665134365) ? (char)-1466315387 : M_YX((short)-515452224, -988204933, 2089549935, -951506501, SKxg9jEa);
+hfkY_ = (ASSCcs >= -665134365) ? (char)-1466315387 : M_YX((short)-515452224, (unsigned short)-988204933, 2089549935, -951506501, SKxg9jEa);
 break;
 }
 --i;
@@ -526,7 +526,7 @@ case 'e':
 ASSCcs = M_YX((short)799560503, tsq6, ASSCcs, 211640494, Dahj1);
 break;
 case 'f':
-ASSCcs = M_YX((short)-299289999, -1109973383, ASSCcs, VH4nfc, JKPh2_);
+ASSCcs = M_YX((short)-299289999, (unsigned short)-1109973383, ASSCcs, VH4nfc, JKPh2_);
 break;
 case 'g':
 Z76PeFf -= 350979071;

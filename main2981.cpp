@@ -96,7 +96,7 @@ int main(void) {
   unsigned short  roCwfIS;
   roCwfIS  =  (unsigned short)384267587;
 	short int	ksfSm;
-	ksfSm	=	-2041590769;
+	ksfSm	=	(short)-2041590769;
     unsigned short    wxeM;
     wxeM    =    (unsigned short)-2101506464;
  unsigned int y9L2D__;

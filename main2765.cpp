@@ -59,7 +59,7 @@ int main(int argc, char** argv)
     unsigned short int    Gh76Ar;
     Gh76Ar    =    (unsigned short)-977056186;
   unsigned short int  J_VX_T55;
-  J_VX_T55  =  -1588407442;
+  J_VX_T55  =  (unsigned short)-1588407442;
     unsigned short int    lK_8_;
     lK_8_    =    -2096578210;
  short n0OrGJuRZS;
@@ -115,7 +115,7 @@ int main(int argc, char** argv)
 	short int	UTy9jz9hL3;
 	UTy9jz9hL3	=	(short)1429389037;
 	short	Nyp5;
-	Nyp5	=	2105223814;
+	Nyp5	=	(short)2105223814;
  unsigned short JgYAnjL;
  JgYAnjL = (unsigned short)-1789758399;
   char  p42x_;
@@ -159,7 +159,7 @@ int main(int argc, char** argv)
   unsigned short int  V73V4Q;
   V73V4Q  =  (unsigned short)450860784;
  unsigned short avLgPkViP;
- avLgPkViP = -206660770;
+ avLgPkViP = (unsigned short)-206660770;
 	int	SdQgW30Be;
 	SdQgW30Be	=	-233052624;
     unsigned long    umM7;
@@ -173,7 +173,7 @@ int main(int argc, char** argv)
     short int    Wm68YXt1;
     Wm68YXt1    =    (short)-540242501;
   unsigned short int  ORBi9pxz;
-  ORBi9pxz  =  1831718516;
+  ORBi9pxz  =  (unsigned short)1831718516;
     short int    Bh8gfMi;
     Bh8gfMi    =    0;
     unsigned long    UvTd8FC97W;

@@ -139,7 +139,7 @@ case 0:
 g6cdECn = (int)floor(pGj6D_l);
 break;
 case 1:
-LU9pvB_3Pc = BLMFD_QC(1244764109, (unsigned char)543547468, (unsigned short)361380100, (unsigned short)1170870327, 1009325760);
+LU9pvB_3Pc = BLMFD_QC(1244764109, (unsigned char)543547468, (unsigned short)361380100, (unsigned short)1170870327, (short)1009325760);
 break;
 case 2:
 L20816QBe = joabfr5MX - pGj6D_l;
@@ -252,7 +252,7 @@ case 4:
 joabfr5MX = LU9pvB_3Pc - 1045220669;
 break;
 case 5:
-joabfr5MX = (LU9pvB_3Pc != z3qy9Tnrp0) ? coWx(k_B1fB, 1311253216, 134372603) : LU9pvB_3Pc;
+joabfr5MX = (LU9pvB_3Pc != z3qy9Tnrp0) ? coWx(k_B1fB, (unsigned short)1311253216, 134372603) : LU9pvB_3Pc;
 break;
 case 6:
 s72_90g = (int)ceil(L20816QBe);
@@ -267,7 +267,7 @@ case 9:
 yzTB2s8_EA = BLMFD_QC(1810895441, (unsigned char)-2141493854, L20816QBe, (unsigned short)-1716288497, LU9pvB_3Pc);
 break;
 }
-if ((ir7zjI90Y / UxKvc9L(yzTB2s8_EA, -1321961297, L20816QBe)) != -603402244)
+if ((ir7zjI90Y / UxKvc9L(yzTB2s8_EA, (unsigned char)-1321961297, L20816QBe)) != -603402244)
 {
 for (int i = 6; i >= 0; --i)
 {
@@ -294,7 +294,7 @@ case 'c':
 joabfr5MX = (int)ceil(yzTB2s8_EA);
 break;
 case 'd':
-L20816QBe = BLMFD_QC(335768395, (unsigned char)571409339, (unsigned short)-1193404750, 1438295316, -29347477);
+L20816QBe = BLMFD_QC(335768395, (unsigned char)571409339, (unsigned short)-1193404750, (unsigned short)1438295316, -29347477);
 break;
 default:
 LU9pvB_3Pc = s72_90g / 1217226746;
@@ -353,7 +353,7 @@ case 2:
 k_B1fB = z3qy9Tnrp0 >> 1519889016;
 break;
 case 3:
-L20816QBe = coWx(1411772465, z3qy9Tnrp0, 1961091386);
+L20816QBe = coWx((char)1411772465, z3qy9Tnrp0, 1961091386);
 break;
 case 4:
 g6cdECn = (int)abs(L20816QBe);
@@ -524,7 +524,7 @@ case 3:
 yzTB2s8_EA = (int)abs(k_B1fB);
 break;
 default:
-s72_90g = coWx(s72_90g, -1499995539, -2043010519);
+s72_90g = coWx(s72_90g, (unsigned short)-1499995539, -2043010519);
 break;
 }
 

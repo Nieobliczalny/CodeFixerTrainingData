@@ -208,7 +208,7 @@ int main(int argc, char** argv)
  unsigned char ZoD_;
  ZoD_ = (unsigned char)-1052031100;
     char    Dor2;
-    Dor2    =    -52695142;
+    Dor2    =    (char)-52695142;
 	long double	E_00f5j60z;
 	E_00f5j60z	=	168130174;
  char x5S6;
@@ -218,7 +218,7 @@ int main(int argc, char** argv)
     char    ku06Fay9Q;
     ku06Fay9Q    =    (char)215235102;
     short    BR_A9;
-    BR_A9    =    -1651493015;
+    BR_A9    =    (short)-1651493015;
  unsigned long long v5Y_KR95;
  v5Y_KR95 = 0;
 
@@ -235,7 +235,7 @@ if (qJVs)
 v5Y_KR95 = ZUFWU((char)413413117, -1317343080, (unsigned char)-2141601051);
 }
 
-rR_d1F = RF9f2C3r(rR_d1F, 2110641491, JuUjx, 538985128);
+rR_d1F = RF9f2C3r(rR_d1F, (unsigned short)2110641491, JuUjx, 538985128);
 
 {
 int i = 0;
@@ -417,7 +417,7 @@ C4tTo = (unsigned int)(jpKCm4M26);
 i2PDV8IJK = ZUFWU((char)-582283513, XLUylYvd, (unsigned char)1800019953);
 if (yehR41YpzN == 2005989587)
 {
-p1CIccS = RF9f2C3r((char)-1787178881, C4tTo, rZ6xLv5fHR, -1042197527);
+p1CIccS = RF9f2C3r((char)-1787178881, C4tTo, rZ6xLv5fHR, (char)-1042197527);
 }
 {
 int i = 6;

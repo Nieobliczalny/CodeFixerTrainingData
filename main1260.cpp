@@ -85,7 +85,7 @@ int main() {
  unsigned char y8p2wb;
  y8p2wb = (unsigned char)-1480713596;
   short  qkgFpU_zKM;
-  qkgFpU_zKM  =  669571939;
+  qkgFpU_zKM  =  (short)669571939;
   short  PJ5HTFVtt;
   PJ5HTFVtt  =  -2136811391;
     float    l_b2mQVO6w;

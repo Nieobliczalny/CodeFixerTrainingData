@@ -28,7 +28,7 @@ int main(int argc, char** argv) {
     int    WU2UR7;
     WU2UR7    =    -1637370456;
 	short int	YuBl54_18q;
-	YuBl54_18q	=	-1021736471;
+	YuBl54_18q	=	(short)-1021736471;
  double w_tWWD7_;
  w_tWWD7_ = 1343294817;
     int    o7l0PDf1C;
@@ -70,7 +70,7 @@ int main(int argc, char** argv) {
 	unsigned char	M32q_14VM7;
 	M32q_14VM7	=	(unsigned char)-331727774;
   char  Y_Xw51P;
-  Y_Xw51P  =  -532608589;
+  Y_Xw51P  =  (char)-532608589;
 	unsigned long	EDwB;
 	EDwB	=	1384821846;
     float    GCZF;
@@ -92,7 +92,7 @@ int main(int argc, char** argv) {
 	unsigned char	d3PbEndk7J;
 	d3PbEndk7J	=	(unsigned char)-2122977164;
     short int    x7CnBKU;
-    x7CnBKU    =    -351185355;
+    x7CnBKU    =    (short)-351185355;
  unsigned int cR6Jlr_8;
  cR6Jlr_8 = 712098446;
     short int    j5R9;

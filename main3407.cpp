@@ -240,7 +240,7 @@ V54xgJG4Qm = TR8_7A(tblL5) % nQ3i15;
 break;
 case 'e':
 case 'E':
-Vo5Zy4 = nqO_(Vo5Zy4, -997205805, WcBbc63, kHLCW51cRn, -938741701);
+Vo5Zy4 = nqO_(Vo5Zy4, (unsigned short)-997205805, WcBbc63, kHLCW51cRn, -938741701);
 break;
 case 'f':
 case 'F':

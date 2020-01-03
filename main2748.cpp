@@ -26,7 +26,7 @@ int main(int argc, char** argv) {
     long    cvp6LBoD    =    -1119574527;
 	unsigned short int	kb7nZp4f4C	=	(unsigned short)302023250;
 	unsigned char	NNyvhxs9	=	(unsigned char)-1291228335;
-  unsigned short  hxAgyNO4E  =  1461958719;
+  unsigned short  hxAgyNO4E  =  (unsigned short)1461958719;
 	unsigned short int	WX4lR	=	28161974;
 	unsigned int	TChV87b8	=	-301474711;
  unsigned int pn_e = -1980149544;
@@ -39,7 +39,7 @@ int main(int argc, char** argv) {
 	unsigned short int	u_5DQZl	=	(unsigned short)1724391147;
  unsigned int BW2L8L_5I = -1795284442;
     long    DjU5EQY783    =    -1226963837;
- unsigned char mPYb7T43 = -1278097201;
+ unsigned char mPYb7T43 = (unsigned char)-1278097201;
 	long	fU_mVL0	=	212798378;
 	float	edBMC	=	1573461193;
  unsigned char qW90DzFW__ = (unsigned char)683873964;

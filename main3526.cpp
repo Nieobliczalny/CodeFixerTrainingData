@@ -50,7 +50,7 @@ int main(void) {
     short int    klUC;
     klUC    =    (short)-1116576170;
     char    q6i0y4;
-    q6i0y4    =    1694244831;
+    q6i0y4    =    (char)1694244831;
   char  RZOxQXXn;
   RZOxQXXn  =  (char)1435228113;
  unsigned short I19r5js;
@@ -66,7 +66,7 @@ int main(void) {
   unsigned short  D_X5;
   D_X5  =  (unsigned short)-830126812;
   unsigned char  J1wp7F92;
-  J1wp7F92  =  1831552436;
+  J1wp7F92  =  (unsigned char)1831552436;
   unsigned long long  u_PV;
   u_PV  =  -1127231483;
   char  t6aa16_t;
@@ -106,7 +106,7 @@ I19r5js = cY9Y9890O((unsigned short)-304127369, (unsigned short)998245742);
 break;
 case 'c':
 case 'C':
-F6VSk7x = cY9Y9890O((unsigned short)614182670, -1627962292);
+F6VSk7x = cY9Y9890O((unsigned short)614182670, (unsigned short)-1627962292);
 break;
 case 'd':
 case 'D':

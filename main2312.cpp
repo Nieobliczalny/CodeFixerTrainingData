@@ -91,7 +91,7 @@ int main()
   short  HRXvU;
   HRXvU  =  (short)465567371;
     short int    AFkZy_rB;
-    AFkZy_rB    =    684326398;
+    AFkZy_rB    =    (short)684326398;
     float    dAkTF6z9a;
     dAkTF6z9a    =    112468080;
     char    XF_jca2Up;
@@ -139,7 +139,7 @@ case 2:
 YI_241U0t = K1T3eC9((char)1835405940, (unsigned short)281458316, dG_7, 1831077208);
 break;
 case 3:
-YI_241U0t = K1T3eC9(Pe45Ox5, -1934259030, 381862570, 1176760631);
+YI_241U0t = K1T3eC9(Pe45Ox5, (unsigned short)-1934259030, 381862570, 1176760631);
 break;
 case 4:
 e4Do948 = (dAkTF6z9a == SYPA3FoeN) ? K1T3eC9(Pe45Ox5, -595397130, GQEi7, pgPa_j) : -1473751502;

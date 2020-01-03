@@ -34,7 +34,7 @@ int main()
 	DZYNe	=	(char)1028537633;
 	g1V_88m1	=	(char)-1337542684;
 	vnsq6tY8	=	(char)-300809314;
-	F0jb_5yn	=	94574380;
+	F0jb_5yn	=	(char)94574380;
 	e7R_SJ	=	1814971885;
 	GyALO	=	388100553;
 	EFlGdW8	=	-782594357;
@@ -245,7 +245,7 @@ QR8PkHcqq0 = MOiL4IK((short)-1725916462, (unsigned short)-2110363574, e7R_SJ, DZ
 }
 }
 
-QR8PkHcqq0 = MOiL4IK(-2131582469, 942600507, e7R_SJ, DZYNe);
+QR8PkHcqq0 = MOiL4IK((short)-2131582469, 942600507, e7R_SJ, DZYNe);
 
 if (GyALO <= 46400228)
 {
@@ -305,7 +305,7 @@ for (int i = 4; i >= 0; i--)
 {
 DZYNe = ym3O10Jy >> vnsq6tY8;
 }
-I_15 = MOiL4IK((short)608447228, (unsigned short)-34148410, -217595151, e7R_SJ) / Dnk1Q;
+I_15 = MOiL4IK((short)608447228, (unsigned short)-34148410, (char)-217595151, e7R_SJ) / Dnk1Q;
 try
 {
 if (g1V_88m1 == e7R_SJ)
@@ -329,7 +329,7 @@ yj12QqSk = MOiL4IK(F0jb_5yn, (unsigned short)-1819027431, (char)652312837, 43158
 }
 else if (g1V_88m1 == 260453750)
 {
-Dnk1Q = MOiL4IK((short)-828859949, 597760814, 939993753, -1575322599);
+Dnk1Q = MOiL4IK((short)-828859949, (unsigned short)597760814, 939993753, -1575322599);
 }
 else if (QR8PkHcqq0 > 332252944)
 {
@@ -415,7 +415,7 @@ case 'b':
 Dnk1Q = MOiL4IK(e7R_SJ, (unsigned short)1533890647, DZYNe, 2106905144);
 break;
 case 'c':
-Dnk1Q = MOiL4IK((short)472703222, (unsigned short)1793080631, -1970425474, DZYNe);
+Dnk1Q = MOiL4IK((short)472703222, (unsigned short)1793080631, (char)-1970425474, DZYNe);
 break;
 case 'd':
 GyALO = J9PpABt5(-998347097, Dnk1Q, -1834744223, 28400254, -422530673);
@@ -470,7 +470,7 @@ F0jb_5yn = yj12QqSk * F0jb_5yn;
 }
 else if (F0jb_5yn == GyALO)
 {
-jz41hIGET = MOiL4IK(F0jb_5yn, (unsigned short)-311600097, 862115786, I_15);
+jz41hIGET = MOiL4IK(F0jb_5yn, (unsigned short)-311600097, (char)862115786, I_15);
 }
 else if (F0jb_5yn)
 {
@@ -520,7 +520,7 @@ case 8:
 QR8PkHcqq0 = MOiL4IK((short)661844293, (unsigned short)807602396, QR8PkHcqq0, EFlGdW8);
 break;
 case 9:
-vnsq6tY8 = J9PpABt5(vnsq6tY8, -604452803, 1954764072, yj12QqSk, I_15);
+vnsq6tY8 = J9PpABt5(vnsq6tY8, (char)-604452803, 1954764072, yj12QqSk, I_15);
 break;
 default:
 GyALO ^= 228606153;

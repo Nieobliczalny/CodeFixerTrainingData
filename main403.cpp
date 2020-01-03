@@ -52,7 +52,7 @@ int main(int argc, char** argv)
  char j9P9062AaX = (char)1715716450;
     long double    YrP0    =    72573372;
 	double	b_qVoVG	=	1533635401;
-    char    hguO9Z56    =    1802742795;
+    char    hguO9Z56    =    (char)1802742795;
 	short	t135	=	1160534601;
   char  t10E6  =  1795706867;
  int e0i3 = -1624712353;
@@ -445,7 +445,7 @@ TARj_ = R8U1_qznT();
 break;
 }
 
-KNY_vSDCz_ = u_AS7q((unsigned char)-1042415946, -1810128074, 1788034106, TAaWc);
+KNY_vSDCz_ = u_AS7q((unsigned char)-1042415946, (unsigned char)-1810128074, 1788034106, TAaWc);
 
 SJ1xbkgT7 = Se29ri(KNY_vSDCz_, T1_b, 127336161, -1452198070, xt83) / n28v6aA;
 if (WLKA_XK & JGgL)

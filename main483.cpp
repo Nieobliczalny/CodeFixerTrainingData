@@ -277,7 +277,7 @@ x5Nu = (ZPz8aN == P7u_) ? P7u_ : 1473367137;
 
 P7u_ = Q_8cn9Fl(P7u_, x5Nu);
 
-std::cout << "J0v__d" << z37xx03uo0(P7u_, (unsigned char)-1831664313, 1522859802, jggU, i4g4bml_C) << Q_8cn9Fl(P7u_, x5Nu) << "X8hPB00" << std::endl;
+std::cout << "J0v__d" << z37xx03uo0(P7u_, (unsigned char)-1831664313, (short)1522859802, jggU, i4g4bml_C) << Q_8cn9Fl(P7u_, x5Nu) << "X8hPB00" << std::endl;
 
 v_bYPY = Q_8cn9Fl(574386396, -501968112);
 {

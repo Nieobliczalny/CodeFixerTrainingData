@@ -44,7 +44,7 @@ int main(int argc, char** argv) {
 	unsigned short	IOuxMXz;
 	IOuxMXz	=	(unsigned short)-2053482559;
   char  b3qZY8;
-  b3qZY8  =  1653623334;
+  b3qZY8  =  (char)1653623334;
   short  iA3P_mEM;
   iA3P_mEM  =  -931623747;
   long  puXNs;
@@ -58,7 +58,7 @@ int main(int argc, char** argv) {
     short int    g1SaI3P;
     g1SaI3P    =    (short)-1632705388;
     short int    qfyjME999;
-    qfyjME999    =    1525382787;
+    qfyjME999    =    (short)1525382787;
  short int X3hH;
  X3hH = (short)-1834172268;
     short    RIxiqN9YA;
@@ -68,7 +68,7 @@ int main(int argc, char** argv) {
     unsigned short    G0LZcMC_89;
     G0LZcMC_89    =    (unsigned short)856069012;
     unsigned short int    V6Di4tkeY;
-    V6Di4tkeY    =    -573832021;
+    V6Di4tkeY    =    (unsigned short)-573832021;
     short    FQJ_u;
     FQJ_u    =    (short)507671062;
   char  B9tg18;

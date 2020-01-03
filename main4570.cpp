@@ -31,7 +31,7 @@ unsigned long long SH_m5I(short TfU_V6) {
 
 int main()
 {
- short cS9DL = (short)1817853913, sbuPd = (short)112036788, p3y_7POTr = -534269264, V8WcM = 296716407;
+ short cS9DL = (short)1817853913, sbuPd = (short)112036788, p3y_7POTr = (short)-534269264, V8WcM = 296716407;
   unsigned long  Me0IX8G  =  0,  x1l5C  =  0,  S1GKO1gQi  =  0,  nI19  =  0;
 
 switch (cS9DL)

@@ -43,7 +43,7 @@ int main(int argc, char** argv) {
 	unsigned int	Sh589_	=	-1706551532;
     unsigned char    x_fXSNw6Nq    =    (unsigned char)1580327956;
     unsigned char    S898    =    0;
-  short int  W8783ipo  =  229972202;
+  short int  W8783ipo  =  (short)229972202;
 	char	TBuV0CZ	=	1378690942;
   long double  za798Vbk  =  1072896907;
  long double z9G5R = -731616877;
@@ -65,7 +65,7 @@ int main(int argc, char** argv) {
   unsigned short  f592A83s  =  (unsigned short)1471988393;
     long long    yh74e    =    -300041172;
  short VfC1_OYb5d = (short)-862044925;
-    short int    bdQc    =    617816798;
+    short int    bdQc    =    (short)617816798;
     int    r5y_zR5B    =    537173752;
 	unsigned char	MkKBP	=	879913170;
   double  kkv66  =  1568365665;
@@ -78,7 +78,7 @@ int main(int argc, char** argv) {
     unsigned long    ncd3YX1    =    -147950973;
     char    h9cAsM6I7y    =    (char)534059062;
   unsigned short  G83S5WT0  =  (unsigned short)-607217285;
-    char    m89als93l    =    -1730660424;
+    char    m89als93l    =    (char)-1730660424;
 	unsigned short int	mE_dt28p7	=	1824937608;
 	double	Dq7H7g	=	1341986546;
   unsigned char  Sot35fM6L  =  942277894;
@@ -91,7 +91,7 @@ int main(int argc, char** argv) {
 	unsigned short int	DMAtCS	=	(unsigned short)-591004257;
     unsigned long    PWBEho8n    =    -1154483341;
     unsigned long long    ID0z    =    -1690736967;
- unsigned short pH3_ = 677282472;
+ unsigned short pH3_ = (unsigned short)677282472;
  unsigned long long E_THtD1g5u = 1863357841;
 	char	h4_WniH2L	=	998244518;
     float    cdNC0bXc0    =    1892660080;
@@ -232,7 +232,7 @@ else
 {
 if ((S4H_MN_t81 == oHNWt) && ((jm1Eg2c != -2011731839) || (r5y_zR5B)))
 {
-std::cout << n5_zijj(-341722868, NI0xXbm5TR) << std::endl;
+std::cout << n5_zijj((unsigned char)-341722868, NI0xXbm5TR) << std::endl;
 }
 else if (w0ddiBCmv)
 {

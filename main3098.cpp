@@ -26,7 +26,7 @@ int main(int argc, char** argv)
  unsigned short kF54JCr = (unsigned short)-1408794176;
   unsigned short int  dgW0wYnF4Z  =  (unsigned short)-1870267263;
   int  N6zP  =  1084359855;
-	unsigned short	znc674oif	=	-1318745437;
+	unsigned short	znc674oif	=	(unsigned short)-1318745437;
   unsigned int  I3b3_5  =  2658103;
     long    J1W49    =    -226300693;
   short int  g3fU7cB0  =  -833871177;
@@ -39,7 +39,7 @@ int main(int argc, char** argv)
     unsigned short int    PKHG9R    =    (unsigned short)2077884055;
   unsigned char  ZDHtv  =  0;
  unsigned char rpU1yQxWsx = (unsigned char)1257248724;
-  char  XrSB  =  138374854;
+  char  XrSB  =  (char)138374854;
  short int lSUO2 = -1705226790;
     unsigned short int    rZu1z    =    (unsigned short)-1319148958;
   short  H5Sy  =  0;
@@ -55,7 +55,7 @@ int main(int argc, char** argv)
  unsigned long sf94582 = -718452174;
  unsigned long long vypHr3dhS = -899763732;
  short int G014kp5A = (short)1417331324;
- short vOVr8O5j = -1105003075;
+ short vOVr8O5j = (short)-1105003075;
  unsigned long L520to = -1405374118;
     int    moOH    =    955592668;
   float  hDbmv_MN  =  -362243116;
@@ -257,7 +257,7 @@ break;
 H5Sy = (int)abs(v5Gb4) * 0;
 
 ZDHtv = N3Bb59w56t(dgW0wYnF4Z, (char)-934868233, (short)2083081240, (short)-842730950);
-cout << X191h_Y3 << qqHq() << N3Bb59w56t(dgW0wYnF4Z, zlXccnRD, vTTiA7, 898532723) << N3Bb59w56t(-1375255527, zlXccnRD, vTTiA7, ZOj2K) << endl;
+cout << X191h_Y3 << qqHq() << N3Bb59w56t(dgW0wYnF4Z, zlXccnRD, vTTiA7, (short)898532723) << N3Bb59w56t(-1375255527, zlXccnRD, vTTiA7, ZOj2K) << endl;
 zlXccnRD = (int)floor(hDbmv_MN);
 
 zlXccnRD = (int)floor(u3420K);

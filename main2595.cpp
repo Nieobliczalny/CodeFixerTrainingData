@@ -99,7 +99,7 @@ int main(void) {
     unsigned char    v3V4QVat_;
     v3V4QVat_    =    (unsigned char)1901992397;
  char KxZ8FBS7R;
- KxZ8FBS7R = 148223535;
+ KxZ8FBS7R = (char)148223535;
 	char	m8PlHs9_Q_;
 	m8PlHs9_Q_	=	(char)-18761589;
  unsigned char Y7o0y2J;
@@ -351,7 +351,7 @@ l8x2 = SF85cS8qbY(l8x2, nqMH, (unsigned short)1352929878, (short)-507369490);
 }
 else if (((nqMH & L_24_pCn) && (nqMH)) || (c4W3iB))
 {
-TM2hbp2 = SF85cS8qbY((unsigned char)1489441995, 1627684535, T0p5ut2, 1436679470);
+TM2hbp2 = SF85cS8qbY((unsigned char)1489441995, (short)1627684535, T0p5ut2, 1436679470);
 }
 else if (KxZ8FBS7R < 924528158)
 {
@@ -457,7 +457,7 @@ case 'b':
 Zk887_8SX_ = SF85cS8qbY((unsigned char)1482971598, (short)-1088374954, (unsigned short)-1404324606, Ql7tw5);
 break;
 case 'c':
-qaL74 = fEL0y(-919711135, 1657580372, M_uu);
+qaL74 = fEL0y(-919711135, (short)1657580372, M_uu);
 break;
 case 'd':
 M_uu = (int)abs(ufc2PI);

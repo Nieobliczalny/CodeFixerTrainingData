@@ -287,7 +287,7 @@ case 3:
 MQV4F4y5 = R0N5EHbo(Q859U0, EV3Iv7TGfC, (unsigned short)1117479747, Krg5ILBE, (short)-340273691);
 break;
 case 4:
-B690M_9x = R0N5EHbo((unsigned char)-2117478238, ciBGY4x, 1934837779, gw8y, 1365110752);
+B690M_9x = R0N5EHbo((unsigned char)-2117478238, ciBGY4x, (unsigned short)1934837779, gw8y, 1365110752);
 break;
 case 5:
 kg6KYYnBwQ = K2Ci_9(917508555);
@@ -336,7 +336,7 @@ while (i < 5)
 switch (Pq__)
 {
 case 0:
-B690M_9x = R0N5EHbo((unsigned char)-195784948, (short)88941964, (unsigned short)1941949775, 1517698840, -1394792700);
+B690M_9x = R0N5EHbo((unsigned char)-195784948, (short)88941964, (unsigned short)1941949775, (short)1517698840, -1394792700);
 break;
 case 1:
 qS7F4c = R0N5EHbo(-1813046605, Xzy3DL0ui0, qS7F4c, 336666002, P2Zjk_2B);

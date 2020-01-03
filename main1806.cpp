@@ -28,7 +28,7 @@ int main(void)
  long C1INNi = 496045442;
  unsigned char atl62_w = (unsigned char)-1630813338;
 	double	OT_AVBkIBl	=	-187381615;
- unsigned short int Fb90p9 = -252039923;
+ unsigned short int Fb90p9 = (unsigned short)-252039923;
 	unsigned short	x9JX9WA	=	94220565;
 	unsigned short int	XuAp4	=	(unsigned short)606487155;
   unsigned int  J6_2_Dvgj  =  1159114736;
@@ -47,7 +47,7 @@ int main(void)
     int    ax14vkNC    =    1098448744;
   double  YJ3c13jpN  =  647403751;
     char    DpIHdzsMX    =    (char)-705023680;
-  unsigned short  wQ18A146S  =  -1065416158;
+  unsigned short  wQ18A146S  =  (unsigned short)-1065416158;
  unsigned long h3KtMIIx4W = 1574885093;
  char GaUXD = 1487136678;
 	unsigned int	l1yU	=	0;
@@ -61,7 +61,7 @@ int main(void)
   long long  w_5_JI4e  =  -323331636;
     unsigned long    fKyh8e0    =    -363867509;
 	double	opD3oj	=	1609879416;
-    short int    dTb0bDwyE    =    -1777930563;
+    short int    dTb0bDwyE    =    (short)-1777930563;
     long long    eOuS    =    -1406281192;
  unsigned int Jl_wcvIQj = -1374975803;
 	char	ePS0BZw	=	(char)-1987405642;
@@ -72,7 +72,7 @@ int main(void)
   long long  vGzZ6mfI  =  -823622586;
   unsigned long  I799fxDHq4  =  -964629700;
 	unsigned short int	BVONPy6pv	=	(unsigned short)-1111638917;
- short int Gf8qa8_h = 861927061;
+ short int Gf8qa8_h = (short)861927061;
  float kRI6Iy2L = -553560734;
     short    b_ebt0et    =    (short)-1426566107;
  unsigned short int zIWU = 1135796180;
@@ -116,7 +116,7 @@ int main(void)
 
 DpBHbXU189 = (int)abs(ax14vkNC);
 std::cout << "z7LRJ1" << std::endl;
-l1yU = iDZbm04C((short)706870411, -47428767, 81296673);
+l1yU = iDZbm04C((short)706870411, (short)-47428767, 81296673);
 
 x9B_g = (int)floor(CogA6j);
 

@@ -57,7 +57,7 @@ int main(void)
 	unsigned short	Ey5G;
 	Ey5G	=	(unsigned short)541265756;
 	char	TofkqO;
-	TofkqO	=	-1618586099;
+	TofkqO	=	(char)-1618586099;
   char  YqMBuoG;
   YqMBuoG  =  0;
   char  J0hIPFL2Yc;

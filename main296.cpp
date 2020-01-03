@@ -23,7 +23,7 @@ int main() {
     short    K0b767F7CL    =    (short)445397230;
 	char	M64nVI8	=	(char)-1598503771;
  int U156wdc_a = 876712311;
- short Xz6e = -1042308101;
+ short Xz6e = (short)-1042308101;
   unsigned long  z610w  =  829108631;
   long double  ua09  =  2076220567;
     double    G1Y3    =    -1543053085;
@@ -43,7 +43,7 @@ int main() {
   short int  j3tgaRa7jB  =  (short)1973458798;
   unsigned int  gdwK5_O1  =  146489284;
 	long	R0nUoC_1O	=	-516712643;
-	unsigned short int	RCLH1	=	-1074324667;
+	unsigned short int	RCLH1	=	(unsigned short)-1074324667;
 	unsigned char	U_43_Enfa	=	-469100748;
     unsigned short    e_ky8r    =    -736146246;
  long long V3KDNgy1o = -1344598010;
@@ -105,7 +105,7 @@ switch (U_43_Enfa)
 {
 case 'a':
 case 'A':
-ajzdwZR8_ = uqMYY((char)-1776814013, sWtWgIl41, 1969302874);
+ajzdwZR8_ = uqMYY((char)-1776814013, sWtWgIl41, (unsigned short)1969302874);
 break;
 case 'b':
 case 'B':
@@ -242,7 +242,7 @@ noU9w29C_f = uqMYY(gdwK5_O1, (short)578974114, (unsigned short)-392085451);
 }
 else if ((vBzKV & -1685760909) && (ilkQoQ >= 323918426))
 {
-noU9w29C_f = uqMYY((char)248322361, 62815820, 1741198928);
+noU9w29C_f = uqMYY((char)248322361, (short)62815820, 1741198928);
 }
 else
 {
@@ -479,7 +479,7 @@ break;
 }
 
 std::cout << V3KDNgy1o << "Gg20aZE6Z" << std::endl;
-std::cout << uqMYY(-193374460, 29431487, V3KDNgy1o) << ubtaT << Y_yFa26g31 << "BDYWSTZ" << uqMYY(h700x06H, gdwK5_O1, V3KDNgy1o) << std::endl;
+std::cout << uqMYY((char)-193374460, 29431487, V3KDNgy1o) << ubtaT << Y_yFa26g31 << "BDYWSTZ" << uqMYY(h700x06H, gdwK5_O1, V3KDNgy1o) << std::endl;
 
 return 0;
 }

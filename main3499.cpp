@@ -17,7 +17,7 @@ int main(int argc, char** argv) {
 	unsigned short int	M8h0a81pi6	=	(unsigned short)-269667767;
   unsigned short  t6dNxR81ig  =  (unsigned short)932396098;
     unsigned int    BDCg0O    =    -435190729;
-  char  QfI0m_7ub  =  -1486801019;
+  char  QfI0m_7ub  =  (char)-1486801019;
  long UtxW8M = 339848124;
 	long long	dwHhjj	=	261020381;
   unsigned int  ZJ0u  =  0;
@@ -34,7 +34,7 @@ int main(int argc, char** argv) {
   short  M_A7e3ma  =  0;
     short    V3i97_1    =    (short)-626957907;
   char  QH1tX1K  =  0;
-    unsigned char    xc_k_J    =    17457229;
+    unsigned char    xc_k_J    =    (unsigned char)17457229;
     long long    R24BrL76SE    =    1898810979;
 	long long	P232m_rX	=	-450960838;
   double  ZIb2  =  -1233486673;
@@ -48,7 +48,7 @@ int main(int argc, char** argv) {
     char    qrIN0C6    =    (char)1717185517;
  long QD01m_pMZ = 390127788;
  unsigned long WeP0nQ39 = -903929424;
-	char	X4OCd43y	=	-1154923960;
+	char	X4OCd43y	=	(char)-1154923960;
   long long  rO1_1nr8  =  -904966780;
   unsigned char  Q3ACs  =  0;
 	short int	Y3DIr99kHD	=	(short)-1683632001;
@@ -60,7 +60,7 @@ int main(int argc, char** argv) {
 	long long	VQ_D1gN	=	-1755389629;
     double    c4SHE21Wr3    =    -1456425750;
     unsigned char    gDkG1OSc    =    (unsigned char)-1698396849;
- unsigned short int cSSXQ5C86 = 1040662904;
+ unsigned short int cSSXQ5C86 = (unsigned short)1040662904;
   double  x93wKw5gb  =  934774977;
   unsigned short  L6Uv2B0v_  =  (unsigned short)-581926015;
  unsigned short int vmK3 = 1859673308;
@@ -71,7 +71,7 @@ int main(int argc, char** argv) {
 	unsigned short	BW_87BJw	=	-144000506;
 	char	fria0u	=	(char)-1242174017;
  unsigned int oULX9kG = -1922304528;
-    char    N1UBzE    =    -1952555546;
+    char    N1UBzE    =    (char)-1952555546;
  long long L83FM = 1465306905;
     unsigned char    u3_XUZwU4    =    (unsigned char)-14476227;
     long long    c0TCh1gid    =    1703520686;
@@ -95,7 +95,7 @@ int main(int argc, char** argv) {
 	short	EYbb2s	=	(short)1552866601;
   long  h5VLGKU744  =  1427713211;
 	double	sjhY	=	-1966572094;
-	short	DLimVO4m	=	-2024127757;
+	short	DLimVO4m	=	(short)-2024127757;
 
 if (j9S7sn)
 {

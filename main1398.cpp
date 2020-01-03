@@ -141,7 +141,7 @@ case 4:
 X_f1MB3N = (int)abs(XcUxi6s);
 break;
 case 5:
-h7uH8v = XCpss(h7uH8v, L1JZy17, -1162677443, 321864081, Xe24c5_e4w);
+h7uH8v = XCpss(h7uH8v, L1JZy17, (unsigned char)-1162677443, 321864081, Xe24c5_e4w);
 break;
 case 6:
 VFtQz3HcoU = TEAz56 ^ ubTJlThEY;

@@ -52,7 +52,7 @@ int main()
  unsigned long long pnFazgw = -435573578;
     unsigned long    eVZCjE    =    -2086554238;
     int    M8tx    =    -105398521;
- unsigned short int i48hD6T = 1053986091;
+ unsigned short int i48hD6T = (unsigned short)1053986091;
   unsigned char  Fy9E_yHk  =  -1510805637;
 	int	hD_kT66X7	=	1168350314;
  double fT3_Z = 948752667;
@@ -64,7 +64,7 @@ int main()
 
 WzJF9 = 2005984244 / m55FPhQ_;
 
-Fy9E_yHk = RiBP(i48hD6T, fFUddP, pnFazgw, -1380367973, 1103689301) | i48hD6T;
+Fy9E_yHk = RiBP(i48hD6T, fFUddP, pnFazgw, (unsigned short)-1380367973, 1103689301) | i48hD6T;
 std::cout << RiBP(-1946575463, -1141578001, pnFazgw, IEq5mmM, Ky8yUnok0) << n_i1 << std::endl;
 {
 int i = 0;
@@ -146,7 +146,7 @@ TvW9OWz5X = (unsigned long long)(Ky8yUnok0);
 }
 }
 
-std::cout << VJ02v_6m(xQJr_9uq, fT3_Z, (unsigned short)1124777150, d4RJKrf6s, M8tx) << VlQ8(xQJr_9uq, (short)-936981200, n_i1, d4RJKrf6s, M8tx) << YNTm46Bcn(xQJr_9uq, (unsigned short)713696992) << RiBP(257949134, fT3_Z, -832905822, -1549421733, M8tx) << std::endl;
+std::cout << VJ02v_6m(xQJr_9uq, fT3_Z, (unsigned short)1124777150, d4RJKrf6s, M8tx) << VlQ8(xQJr_9uq, (short)-936981200, n_i1, d4RJKrf6s, M8tx) << YNTm46Bcn(xQJr_9uq, (unsigned short)713696992) << RiBP(257949134, fT3_Z, -832905822, (unsigned short)-1549421733, M8tx) << std::endl;
 
 Fy9E_yHk++;
 

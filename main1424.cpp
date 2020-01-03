@@ -25,7 +25,7 @@ int main(void)
   long long  v6jR  =  -1994284815;
  char b__u_yWRl8 = (char)253218490;
     long    mkdv4    =    1508739072;
-	short	m43mYRsO0	=	-292495447;
+	short	m43mYRsO0	=	(short)-292495447;
   long long  e0gbuVUN  =  363209682;
   long long  EjX_m2  =  -41517362;
   float  KTqo  =  1577466220;
@@ -39,7 +39,7 @@ int main(void)
  unsigned short int ipwBm0C44 = (unsigned short)1733982370;
     unsigned short    c4T9    =    (unsigned short)303196591;
 	int	RrO83	=	-1190068142;
-    unsigned short    L3u4_402d    =    -946938289;
+    unsigned short    L3u4_402d    =    (unsigned short)-946938289;
 	unsigned char	lritK9UM0Q	=	872438155;
   float  i2KHAWcA  =  -29708884;
     unsigned short    Ul5j9924J    =    2105913438;
@@ -295,7 +295,7 @@ else
 {
 std::cout << "UDMMp27" << U3ai(c4T9, (unsigned char)-522731972, V7rgkek3i, -104093502, sM1fPN) << U3ai(c4T9, (unsigned char)-1108405973, V7rgkek3i, 1079382587, -562384367) << YtpDHT << std::endl;
 }
-std::cout << U3ai(c4T9, (unsigned char)1921113489, -1563385301, -984748698, sM1fPN) << "Wk5_f42vtD" << "u4eZrW" << "S6WABY" << "nXGmQwoR5a" << std::endl;
+std::cout << U3ai(c4T9, (unsigned char)1921113489, (unsigned short)-1563385301, -984748698, sM1fPN) << "Wk5_f42vtD" << "u4eZrW" << "S6WABY" << "nXGmQwoR5a" << std::endl;
 
 OqW9S356 = 2035485370 / U3ai(796595579, sy5q, -542686091, 406401514, 1483134275);
 {

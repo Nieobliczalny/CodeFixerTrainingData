@@ -33,7 +33,7 @@ int main(int argc, char** argv) {
  unsigned char i70t22dY6Q = (unsigned char)-1951000299;
     int    j278769b    =    1262509031;
 	unsigned short int	tzZk2b8f	=	(unsigned short)316029470;
-	char	Oq55_	=	-621428942;
+	char	Oq55_	=	(char)-621428942;
 	unsigned long long	Mve4X	=	0;
     long long    U5865    =    -220607656;
  short int s12x = -930713484;
@@ -58,7 +58,7 @@ int main(int argc, char** argv) {
   short  N4uG151  =  (short)-2136823817;
 	unsigned long long	u2U4di_	=	-256440642;
  long long R7KO = 1867286155;
- short int BN05NN_H = 412144155;
+ short int BN05NN_H = (short)412144155;
 	long	tvKyVg	=	511189700;
 	long double	AZwDIE_cUG	=	-910652512;
   double  smkdz  =  1585483481;
@@ -71,7 +71,7 @@ int main(int argc, char** argv) {
  unsigned long long u70WGq06 = 928853837;
 	double	O4h3kGABy3	=	-320573057;
     long    KL75Dd    =    1080115323;
-	unsigned char	rpC12W_267	=	-330963191;
+	unsigned char	rpC12W_267	=	(unsigned char)-330963191;
   long long  j_4DccEMbo  =  0;
 	long	fHetR1r2zF	=	573105799;
     unsigned long long    l0yrN_J9    =    1667542072;
@@ -468,7 +468,7 @@ cout << aBAs8W26Nq(s12x, S6PcScN8, (short)1896272041, (unsigned char)1483456667,
 }
 else if (I2_Wm & HAf_)
 {
-s356DgyE6D = (W_l98Vzo > 1489695283) ? 1099661038 : aBAs8W26Nq(s12x, 1579983196, -1124150622, 2092204026, 606580409);
+s356DgyE6D = (W_l98Vzo > 1489695283) ? 1099661038 : aBAs8W26Nq(s12x, 1579983196, (short)-1124150622, 2092204026, 606580409);
 }
 else if (g8ukk7)
 {

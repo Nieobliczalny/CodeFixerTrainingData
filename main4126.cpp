@@ -109,7 +109,7 @@ JT2XxS5p = (int)ceil(E_Qy);
 std::cout << "J8IRyn" << lqQJmnyZ << "WH9e71" << std::endl;
 
 lqQJmnyZ = Dg3s7Sh01(lqQJmnyZ, (short)-842979598, m8729b0, (char)1245558317);
-no7_m__ = a_73qt_Nw(L3xx6, (short)-345619483, -857987867);
+no7_m__ = a_73qt_Nw(L3xx6, (short)-345619483, (unsigned char)-857987867);
 
 {
 int i = 0;
@@ -127,7 +127,7 @@ case 2:
 JT2XxS5p = Dg3s7Sh01(2018529031, (short)-657265142, -1225165324, (char)-401933670);
 break;
 case 3:
-m8729b0 = Dg3s7Sh01(387770089, -647242146, 358867805, thHQ);
+m8729b0 = Dg3s7Sh01(387770089, (short)-647242146, 358867805, thHQ);
 break;
 case 4:
 L3xx6 = JT2XxS5p + no7_m__;

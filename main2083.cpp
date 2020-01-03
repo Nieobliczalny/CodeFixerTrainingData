@@ -109,7 +109,7 @@ case 1:
 CTsxm_jem8 = YT6wi6_o8(Z_BQyZe_U, (unsigned short)1314926032, (unsigned short)-1687570018, 1750690330);
 break;
 case 2:
-NfF_mgl3i = YT6wi6_o8((short)1443875157, At6_8sHB, -787707145, 555248087);
+NfF_mgl3i = YT6wi6_o8((short)1443875157, At6_8sHB, (unsigned short)-787707145, 555248087);
 break;
 case 3:
 At6_8sHB = Hwij_qEI(At6_8sHB, 1351256652, Vb_0SLMsP, 293203353, -983499023);
@@ -127,7 +127,7 @@ case 7:
 G1h48rJ9A = (int)ceil(Z_BQyZe_U);
 break;
 case 8:
-Kx3xL7Jzh6 = d2Y9(203700720, -1707369, 517817213) | 304171572;
+Kx3xL7Jzh6 = d2Y9((char)203700720, -1707369, 517817213) | 304171572;
 break;
 case 9:
 Z_BQyZe_U = (int)abs(Kx3xL7Jzh6);

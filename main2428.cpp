@@ -115,7 +115,7 @@ int main()
 	long	ZTy0fQa;
 	ZTy0fQa	=	443270559;
  unsigned char Y4NzK0tyq8;
- Y4NzK0tyq8 = 33076563;
+ Y4NzK0tyq8 = (unsigned char)33076563;
  long double QkaG;
  QkaG = -1736894912;
     unsigned short int    A5nSyP0;
@@ -378,7 +378,7 @@ else if (iuPyrPeN >= -1531078560)
 int j = 0;
 do
 {
-std::cout << F7Nv1e3F << "RmkAj9_" << O55Oo << l5hH82(mzc4Ypt, JUziVK6gx, (unsigned short)643744277, (short)-830780105, -1774655429) << l5hH82(mzc4Ypt, (unsigned char)505038602, -511984662, 2091639563, RqNEHy4_e) << std::endl;
+std::cout << F7Nv1e3F << "RmkAj9_" << O55Oo << l5hH82(mzc4Ypt, JUziVK6gx, (unsigned short)643744277, (short)-830780105, -1774655429) << l5hH82(mzc4Ypt, (unsigned char)505038602, (unsigned short)-511984662, 2091639563, RqNEHy4_e) << std::endl;
 j++;
 }
 while (j < 10);

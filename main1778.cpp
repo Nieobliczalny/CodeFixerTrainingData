@@ -133,7 +133,7 @@ case 0:
 Y3Qc = V99VA2io((unsigned char)2003532396, (unsigned short)1277797767);
 break;
 case 1:
-Y3Qc = V99VA2io((unsigned char)900005961, -1180461510);
+Y3Qc = V99VA2io((unsigned char)900005961, (unsigned short)-1180461510);
 break;
 case 2:
 Y3Qc = V99VA2io(Oz24qZ4Or, Y5_nR);

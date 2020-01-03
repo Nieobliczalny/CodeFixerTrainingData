@@ -46,7 +46,7 @@ int main(int argc, char** argv)
  long c6b47S_xM1 = 0;
  long double pvMWt0 = 692310659;
   int  NsJilPG8sN  =  0;
-    short int    BBIfgTq    =    -734893725;
+    short int    BBIfgTq    =    (short)-734893725;
  unsigned short xRh01193C = 0;
  short int lB33NYJb_ = 0;
   long long  YhE2_9  =  -1117827762;

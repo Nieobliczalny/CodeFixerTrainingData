@@ -42,7 +42,7 @@ int main()
   long double  GNXj4NVS8  =  -362790331;
   unsigned short int  Nifc5Qs  =  (unsigned short)312305873;
  long double dPy0VOT9 = 1666631152;
-    unsigned short    VIM27m    =    498705949;
+    unsigned short    VIM27m    =    (unsigned short)498705949;
 	short int	e78tBt6	=	-878885442;
     unsigned short    C_aVWzGM    =    1398404980;
 	char	nh7x8Tx16j	=	(char)877317567;
@@ -62,7 +62,7 @@ int main()
     float    nm6b47qJcC    =    223782922;
   unsigned char  yUu6i6  =  (unsigned char)603761936;
  long double EcPild0I = 560806860;
-  unsigned short  j6p8TJlZ  =  -1726369051;
+  unsigned short  j6p8TJlZ  =  (unsigned short)-1726369051;
   short  eg75BJPe6  =  802988458;
   unsigned char  AvmlGLp6G2  =  1755711078;
     long double    Xi3fgAGh0    =    -1617404399;
@@ -72,7 +72,7 @@ int main()
     long double    pyZm    =    -2137493068;
  unsigned char vi6w = (unsigned char)1817172752;
 	unsigned short	dxRuq0mGl	=	(unsigned short)1178994690;
-	short int	LXOEpo0_y5	=	97791503;
+	short int	LXOEpo0_y5	=	(short)97791503;
   unsigned int  vles_3  =  1552835188;
  long j1eS21BI = 845387476;
   short int  OHyY6zohFm  =  -1722846549;
@@ -89,7 +89,7 @@ int main()
     unsigned char    ur2p0zR    =    (unsigned char)810287166;
     long double    qngjN    =    -287929082;
  unsigned int C4w5en = 1215067100;
-  unsigned char  M8I2d30X  =  -2036634402;
+  unsigned char  M8I2d30X  =  (unsigned char)-2036634402;
 	short	f01TC48br	=	-2104031976;
   short  p7D1G9  =  1614209575;
 	unsigned int	j8CP04a	=	0;
@@ -109,7 +109,7 @@ int main()
  double jY1i = 1093979488;
 	char	Ua0cekU_5	=	(char)3284071;
  unsigned int WmD8SBcS_ = -594817171;
- char o5atqR = 432829935;
+ char o5atqR = (char)432829935;
   char  dTzpm8J0  =  -1938309362;
  short oR53Hw24 = -835446319;
     unsigned long long    Y55AI    =    732411317;
@@ -121,7 +121,7 @@ int main()
   long double  C4F_lcGO  =  1837805337;
 	unsigned char	sje5Nr3D	=	(unsigned char)-301988825;
  char L4u63Ub0 = (char)1091715109;
-  short int  c8K527qt  =  -1240742854;
+  short int  c8K527qt  =  (short)-1240742854;
 	unsigned char	cN8Ll	=	-155473654;
 
 cout << "QvWmH3ODe4" << "Ey46RK6iw" << O10y(509837703, yo6Mvf71) << endl;

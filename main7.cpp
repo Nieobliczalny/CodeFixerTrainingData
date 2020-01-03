@@ -135,7 +135,7 @@ int main(int argc, char** argv)
   unsigned char  eVb_9rE52S;
   eVb_9rE52S  =  (unsigned char)-1901843069;
   unsigned char  pHq7k9KW;
-  pHq7k9KW  =  -1250246217;
+  pHq7k9KW  =  (unsigned char)-1250246217;
  unsigned long MUvztPh;
  MUvztPh = 2136933904;
  unsigned short d4tO5tf0V;
@@ -155,7 +155,7 @@ int main(int argc, char** argv)
  unsigned int sb_O7yNpf4;
  sb_O7yNpf4 = 122090550;
  char Mmfg;
- Mmfg = -1786316420;
+ Mmfg = (char)-1786316420;
 	long long	Ec7U;
 	Ec7U	=	-782822885;
     short    e2n7WV5vA;

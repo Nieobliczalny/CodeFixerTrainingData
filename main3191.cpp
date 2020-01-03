@@ -36,7 +36,7 @@ int main(int argc, char** argv) {
  unsigned short B76h;
  B76h = (unsigned short)-323783495;
   unsigned char  P78jV;
-  P78jV  =  1163489444;
+  P78jV  =  (unsigned char)1163489444;
   short int  HE38y;
   HE38y  =  (short)1257147645;
  unsigned short int AUf_l_3F1;
@@ -56,7 +56,7 @@ int main(int argc, char** argv) {
 	char	LF8OVKjFl;
 	LF8OVKjFl	=	(char)-440220696;
  unsigned short fu_s8W;
- fu_s8W = 1477152642;
+ fu_s8W = (unsigned short)1477152642;
   unsigned short  My_V48m3qB;
   My_V48m3qB  =  (unsigned short)1696143327;
   unsigned short  iB31e;
@@ -136,7 +136,7 @@ int main(int argc, char** argv) {
   char  CSNFrp1;
   CSNFrp1  =  (char)-1542829823;
 	char	l0844;
-	l0844	=	-1717601443;
+	l0844	=	(char)-1717601443;
     long long    Sh_wXK;
     Sh_wXK    =    -2036782933;
   unsigned char  cFEIf81o;

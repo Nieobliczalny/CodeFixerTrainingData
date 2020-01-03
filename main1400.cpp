@@ -237,7 +237,7 @@ case 2:
 W71a = N965Xf(Z4G4W, (unsigned short)1639504944, (unsigned short)-213844299) * 1783604536;
 break;
 case 3:
-YzkOLgso5c = N965Xf(mW81yc_Y88, 983959534, -602169104);
+YzkOLgso5c = N965Xf(mW81yc_Y88, (unsigned short)983959534, -602169104);
 break;
 case 4:
 Gthse = N965Xf(-1699373721, LP61, F2oe);

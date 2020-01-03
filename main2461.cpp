@@ -37,7 +37,7 @@ int main()
     char    nhpBTmm1c    =    (char)1575600719;
 	unsigned int	L6x9TMdb4	=	-1317253343;
   unsigned long long  Lx7l  =  -1862156200;
- unsigned short Btl8eWY0 = 1074138161;
+ unsigned short Btl8eWY0 = (unsigned short)1074138161;
 	char	YCoww6372u	=	-1608978467;
   unsigned char  u96mu4b5  =  1754493537;
     long    g2D6ZMD9    =    2079313640;
@@ -48,7 +48,7 @@ int main()
     unsigned short int    lkO5    =    (unsigned short)2019183441;
     unsigned int    ZoNWiC    =    -1846016743;
     unsigned char    TuAL660O    =    (unsigned char)-2092798976;
-	short	HZ8Y_Zx	=	-289321313;
+	short	HZ8Y_Zx	=	(short)-289321313;
 	long double	h8gY7	=	125308839;
 	unsigned int	HrtjHUXb3	=	-1583917916;
 	float	xYfqt_	=	-1107103521;
@@ -60,7 +60,7 @@ int main()
   short  hbLVd  =  0;
   unsigned short  YwcF7YR  =  (unsigned short)1965745683;
     unsigned short int    Xx4iksa    =    0;
- unsigned short Uwi2SdV = -1156041158;
+ unsigned short Uwi2SdV = (unsigned short)-1156041158;
  short OygghZo4Lf = -2079322234;
 	unsigned long	ofH7QGnV0	=	1583232904;
   long long  M2Ffd0g9D  =  1269061307;
@@ -71,7 +71,7 @@ int main()
   unsigned long long  nkW5Yw_rC  =  275965595;
  float nWIPFSi = -1360331144;
     char    l__exP25vR    =    (char)-1486334322;
-  unsigned short int  RB1Fn231  =  276625323;
+  unsigned short int  RB1Fn231  =  (unsigned short)276625323;
  long double C64l8F1RV7 = 1762564141;
   unsigned int  PYr1KleSkn  =  -552390636;
   long double  IZ_zA  =  -714990243;
@@ -84,7 +84,7 @@ int main()
   long  i0as  =  -480563439;
     char    yf4A6jv8I    =    (char)1527692688;
 	int	kQ08HS_87	=	746148413;
-	short	BEeAHck844	=	960447175;
+	short	BEeAHck844	=	(short)960447175;
   unsigned short int  F8fSif  =  -998354444;
  int e67L_ = 1586072705;
 	unsigned long	S_UyU	=	-300565433;
@@ -375,7 +375,7 @@ case 3:
 N53U8y2xM = (int)abs(XkjE7wyMU);
 break;
 case 4:
-PYr1KleSkn = k52cXb((unsigned short)2021283937, EP_m_5Pt, ui6VY_R, 1307734786, Cmm8ju);
+PYr1KleSkn = k52cXb((unsigned short)2021283937, EP_m_5Pt, ui6VY_R, (unsigned char)1307734786, Cmm8ju);
 break;
 case 5:
 G9E5QMM = ymD4ZOTXC(Ow_nP9_2U, 202612515, EP_m_5Pt);

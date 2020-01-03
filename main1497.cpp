@@ -23,7 +23,7 @@ int main()
  G_fbKIPL4 = (unsigned char)1507258253;
  x4jQ = (unsigned char)722484094;
  RP93kX = (unsigned char)1555711811;
- zo62hq1s = 576759032;
+ zo62hq1s = (unsigned char)576759032;
  W8j49f = -1583861527;
  l2Ko1b73_f = 234638596;
  j6jhwi = 1852548632;
@@ -33,7 +33,7 @@ int main()
  W5W9Qa = (unsigned char)-640924432;
  n5NZrk80A = (unsigned char)-591469038;
  fZuM3u = (unsigned char)1673794063;
- l2m6MWgp3 = -1995132114;
+ l2m6MWgp3 = (unsigned char)-1995132114;
  m4B2 = 1551425454;
  ie2T5lXv8 = -2024728217;
  xVVXzg = -938220432;
@@ -43,7 +43,7 @@ int main()
  gtpADt8 = (unsigned char)-2063884798;
  xvC_s = (unsigned char)-293553608;
  EELR769P = (unsigned char)1382989647;
- Xl0R = -1126966108;
+ Xl0R = (unsigned char)-1126966108;
  e93s26R = -18238229;
  qwBd2OJ39Q = 192947186;
  mXRAs0 = -1048898681;
@@ -53,7 +53,7 @@ int main()
  j9E6AV3FBT = (unsigned char)1559174146;
  iGNBY = (unsigned char)465661568;
  AWrz = (unsigned char)697915911;
- f7C_tFhQ11 = -1015832461;
+ f7C_tFhQ11 = (unsigned char)-1015832461;
  eB6_R = 994968032;
  F7vAk = -1729245413;
  gxAPOul = -1294716007;
@@ -106,7 +106,7 @@ f7C_tFhQ11 = jHV1 * 546793011;
 }
 uEfF_yN78 = grA1V7R(Mgwh, ie2T5lXv8, 819144041, (char)-715365758, (short)-1896746897);
 
-std::cout << gVYaU3Dw((short)1175338056, -1304236082, 1421094733) << gVYaU3Dw(-1674162903, -1033413279, iGNBY) << grA1V7R(1024005005, -715668606, iGNBY, 811903976, -786034864) << gVYaU3Dw(Mgwh, 1050510929, iGNBY) << "UXex0ufZ" << std::endl;
+std::cout << gVYaU3Dw((short)1175338056, -1304236082, 1421094733) << gVYaU3Dw((short)-1674162903, -1033413279, iGNBY) << grA1V7R(1024005005, -715668606, iGNBY, 811903976, -786034864) << gVYaU3Dw(Mgwh, 1050510929, iGNBY) << "UXex0ufZ" << std::endl;
 
 {
 int i = 2;
@@ -142,7 +142,7 @@ bT85L5R = grA1V7R(Mgwh, ie2T5lXv8, -987227232, (char)1079439823, (short)-5447717
 }
 }
 
-std::cout << 1319230968 / grA1V7R(-1992963487, -1915968994, 2110051780, (char)-427262611, -1682320015) << std::endl;
+std::cout << 1319230968 / grA1V7R(-1992963487, -1915968994, 2110051780, (char)-427262611, (short)-1682320015) << std::endl;
 
 try
 {

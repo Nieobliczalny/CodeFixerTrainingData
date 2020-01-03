@@ -65,7 +65,7 @@ int main()
   short int  N2Z9_INb7;
   N2Z9_INb7  =  (short)1197863866;
     unsigned short    Y7oQ7zU9;
-    Y7oQ7zU9    =    -50960767;
+    Y7oQ7zU9    =    (unsigned short)-50960767;
 	unsigned int	Z03S3TWK;
 	Z03S3TWK	=	-1389244410;
   long long  I5eq_vZBq;
@@ -103,7 +103,7 @@ int main()
   long long  Yqs06N6;
   Yqs06N6  =  1641901743;
  short int RBCgr;
- RBCgr = 690528284;
+ RBCgr = (short)690528284;
     char    fN2q6NtN;
     fN2q6NtN    =    (char)-1465786778;
 	unsigned long long	K410;

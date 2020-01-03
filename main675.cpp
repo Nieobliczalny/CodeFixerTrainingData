@@ -27,7 +27,7 @@ int main(void) {
   unsigned char  Vy7__  =  (unsigned char)-182383647;
 	char	i310	=	(char)786095522;
   float  V8bv1G8C85  =  1211988246;
-    short int    TRww    =    161630371;
+    short int    TRww    =    (short)161630371;
     unsigned long long    c197    =    -260745657;
     unsigned short int    UF60X49    =    -1403156878;
  float a12f = 1660518830;
@@ -37,7 +37,7 @@ int main(void) {
  unsigned short int ouSl1v_32F = (unsigned short)-1254965668;
 	unsigned short int	IH5mKpV	=	(unsigned short)-1761279387;
 	int	I8kp7A3r	=	101368436;
- unsigned short int UC0B186Z = 1069181488;
+ unsigned short int UC0B186Z = (unsigned short)1069181488;
 	unsigned long	GBl8ZIgX	=	-1476338691;
     short int    ZsV6EN5L    =    1004855846;
     unsigned long    n658    =    -1696848380;
@@ -58,7 +58,7 @@ int main(void) {
   short int  BHbb  =  0;
     unsigned int    tA3DGl_40w    =    1220326197;
     long    n1Di    =    -1007206856;
-    short    gNGhez1x    =    2031372143;
+    short    gNGhez1x    =    (short)2031372143;
  unsigned long long mVi6C = 1191961671;
  int bYgjsS0 = 876087434;
 	short int	LdsEg6Jrn	=	(short)231814720;
@@ -70,7 +70,7 @@ int main(void) {
     unsigned long    w28Z    =    -1256075059;
  unsigned long Sz56Ik = -2009251429;
 	long long	z56MLaV25	=	-277557042;
- unsigned short PzCn4jheD = -681038619;
+ unsigned short PzCn4jheD = (unsigned short)-681038619;
 	unsigned int	lI1Z1	=	-1286625254;
   unsigned char  XeqBdDUh_  =  (unsigned char)1310214744;
   short  M7cQ6zZc  =  1595853363;
@@ -80,7 +80,7 @@ int main(void) {
   char  UXN2  =  1780068576;
   short int  i7UbktQ4  =  194136240;
   int  KGQX8  =  -1846468549;
-	unsigned short int	RAQd	=	62967425;
+	unsigned short int	RAQd	=	(unsigned short)62967425;
 	unsigned int	CZT85	=	779630496;
 	long	YUv8OuN9i_	=	-960592311;
     float    VW8_v7    =    1176458795;
@@ -92,7 +92,7 @@ int main(void) {
   long long  x5Rr83  =  281158323;
  double azDIGtlt = -1144448626;
  double J142R = 1669166925;
-	unsigned short	tZ353BI	=	-1054627552;
+	unsigned short	tZ353BI	=	(unsigned short)-1054627552;
  short int TW41rFE = -816818975;
     double    CUQ049Nl    =    -2099848177;
   long double  DZizUZ56  =  -2115404044;

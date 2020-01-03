@@ -100,7 +100,7 @@ case 2:
 G0K3y73_J = zhVZa(G0K3y73_J, KUbhu3d8S4, vP_1Dm82jD, (unsigned char)1220870253);
 break;
 case 3:
-f_ggRO3y7f = zhVZa(f_ggRO3y7f, (unsigned short)-225766784, r3Q8U5, -1713536112);
+f_ggRO3y7f = zhVZa(f_ggRO3y7f, (unsigned short)-225766784, r3Q8U5, (unsigned char)-1713536112);
 break;
 }
 }
@@ -170,7 +170,7 @@ case 'f':
 p0853Z = y0unV(810806262, (short)-1852011678);
 break;
 case 'g':
-sOrH = y0unV(-1855018736, 632979909);
+sOrH = y0unV(-1855018736, (short)632979909);
 break;
 case 'h':
 H1YKKs = Nyd45(H1YKKs);

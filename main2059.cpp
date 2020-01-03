@@ -58,7 +58,7 @@ int main(int argc, char** argv)
  double glq1K4;
  glq1K4 = -582827615;
   short  y12YGRRM;
-  y12YGRRM  =  1438581085;
+  y12YGRRM  =  (short)1438581085;
   char  y4W6s5n;
   y4W6s5n  =  (char)-1357804320;
     unsigned long    QYr4dMWP;
@@ -74,7 +74,7 @@ int main(int argc, char** argv)
  short int m_Bj2;
  m_Bj2 = (short)-406048751;
   char  tBZeN1s125;
-  tBZeN1s125  =  -870873685;
+  tBZeN1s125  =  (char)-870873685;
 	long long	zr652c;
 	zr652c	=	1810099065;
  short int a_F65_7Il4;
@@ -86,7 +86,7 @@ int main(int argc, char** argv)
 	short	h_212;
 	h_212	=	(short)-1173163628;
  unsigned char Ed5Vo5p;
- Ed5Vo5p = -1288398348;
+ Ed5Vo5p = (unsigned char)-1288398348;
     unsigned short    hIrQ;
     hIrQ    =    (unsigned short)377663155;
     unsigned long long    VL5C_0Apq;
@@ -166,7 +166,7 @@ int main(int argc, char** argv)
  short int N_7yver1;
  N_7yver1 = (short)-1428069681;
 	unsigned short	zF1xl5Jk;
-	zF1xl5Jk	=	-1280714465;
+	zF1xl5Jk	=	(unsigned short)-1280714465;
 	unsigned int	rka_42I;
 	rka_42I	=	-785710336;
     unsigned short int    QAU9Fu;
@@ -176,7 +176,7 @@ int main(int argc, char** argv)
   short  Pt4J1X;
   Pt4J1X  =  (short)-2026934933;
  unsigned short int CPByW0p;
- CPByW0p = -930281009;
+ CPByW0p = (unsigned short)-930281009;
   unsigned long  Ojs5c;
   Ojs5c  =  756939457;
  double bBl871_;
@@ -210,7 +210,7 @@ int main(int argc, char** argv)
 	unsigned char	Q4S7UTWI9;
 	Q4S7UTWI9	=	(unsigned char)-224778741;
   short  AGaClT_;
-  AGaClT_  =  1437879045;
+  AGaClT_  =  (short)1437879045;
     unsigned int    dce26_dO3;
     dce26_dO3    =    153988975;
 	long double	L9jl;
@@ -841,7 +841,7 @@ else
 {
 std::cout << a_F65_7Il4 << hG2T << "TE7nt" << Mwf3 << std::endl;
 }
-std::cout << q4kv9_6g5(1038458312, (short)-1855517447, -186170502, 314684681) << F_LHu1Ci(L9jl, (unsigned char)-1847177103, 144454585, M_8bb) << XG_6(445664303) << F_LHu1Ci(L9jl, zr652c, fM1q9Rcc0, 782733127) << "P_l11eUl8J" << std::endl;
+std::cout << q4kv9_6g5(1038458312, (short)-1855517447, -186170502, 314684681) << F_LHu1Ci(L9jl, (unsigned char)-1847177103, (short)144454585, M_8bb) << XG_6(445664303) << F_LHu1Ci(L9jl, zr652c, fM1q9Rcc0, 782733127) << "P_l11eUl8J" << std::endl;
 
 if ((ynzfq3FpJ) || (CCv71oC < 1969353635))
 {

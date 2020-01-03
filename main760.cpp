@@ -29,7 +29,7 @@ int main() {
     V012u_93X    =    (char)1100159466;
     wU5p    =    (char)-147097462;
     Xfx0    =    (char)1275723585;
-    A65li    =    1378816514;
+    A65li    =    (char)1378816514;
     F0hdi7_S    =    -184329053;
     Nc_uk8    =    1983339608;
     r7CSs1L    =    899825329;
@@ -39,7 +39,7 @@ int main() {
     y8hY    =    (char)1507236044;
     V8ArCH    =    (char)507021992;
     h0CP    =    (char)-1228319042;
-    k58CmP    =    1878623432;
+    k58CmP    =    (char)1878623432;
     o_8_nhr51d    =    779341984;
     dOxs9wp3C    =    -2005727341;
     ozC8    =    1337647949;
@@ -49,7 +49,7 @@ int main() {
     r40xQYX15l    =    (char)1941081103;
     kt9bs    =    (char)-1518573902;
     IBjKi4Kx2M    =    (char)662294530;
-    SC7xq3Z    =    1234085279;
+    SC7xq3Z    =    (char)1234085279;
     Fv226e3y    =    -1888348309;
     ehAlG7    =    -1717024914;
     k2u4y47j    =    -2039811114;
@@ -59,7 +59,7 @@ int main() {
     ip_6FV    =    (char)-1185048546;
     NTz2eLR    =    (char)584075066;
     nWPG427zV    =    (char)509832384;
-    x9qy    =    986485477;
+    x9qy    =    (char)986485477;
     L0P8    =    1234263701;
     X77YrN    =    1313357107;
     J_QM7    =    -1826159604;
@@ -69,7 +69,7 @@ int main() {
     A709    =    (char)-643897670;
     DHs8    =    (char)1832884996;
     pB7_4hmY    =    (char)-1697299583;
-    qKn6X1xsg    =    307499871;
+    qKn6X1xsg    =    (char)307499871;
 
 std::cout << "rD_5RfF" << "w5na89cW" << E8zJD4(V012u_93X, -1565586749, Xfx0, A65li) << E8zJD4(V012u_93X, -1688749540, 1907394673, A65li) << "QG65" << std::endl;
 

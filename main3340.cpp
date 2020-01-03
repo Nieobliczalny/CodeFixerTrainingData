@@ -37,7 +37,7 @@ int main(void)
  short int F29E8R7_ZJ;
  F29E8R7_ZJ = (short)-1850176437;
   short  k8N_;
-  k8N_  =  1797551688;
+  k8N_  =  (short)1797551688;
 	unsigned short int	V5pI7RV;
 	V5pI7RV	=	(unsigned short)400340675;
 	long	KYKZmQ_JWw;
@@ -113,7 +113,7 @@ int main(void)
     short    nv16;
     nv16    =    (short)-773134445;
     unsigned char    Wzyz4_JHy;
-    Wzyz4_JHy    =    1739868801;
+    Wzyz4_JHy    =    (unsigned char)1739868801;
  short r39i5_7;
  r39i5_7 = (short)1728245179;
  short int J71j9X;

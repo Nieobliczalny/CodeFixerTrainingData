@@ -37,7 +37,7 @@ int main(void) {
  double tx8etx;
  tx8etx = -1029632218;
   unsigned short int  Ho57uuG;
-  Ho57uuG  =  -561663705;
+  Ho57uuG  =  (unsigned short)-561663705;
     unsigned long long    h_Pk05OWpn;
     h_Pk05OWpn    =    -846559032;
   short  xYENo;
@@ -65,7 +65,7 @@ int main(void) {
     short    KqujMU5;
     KqujMU5    =    (short)819850047;
   unsigned short  GNofqcV;
-  GNofqcV  =  -769668442;
+  GNofqcV  =  (unsigned short)-769668442;
     short    YMNu;
     YMNu    =    -1446964565;
     int    GSKa81;
@@ -87,7 +87,7 @@ int main(void) {
   short  uUqCGJg5m;
   uUqCGJg5m  =  (short)779614940;
  unsigned short ZhnLxxh9f;
- ZhnLxxh9f = 213119038;
+ ZhnLxxh9f = (unsigned short)213119038;
   unsigned char  bOT_p098;
   bOT_p098  =  (unsigned char)1572878637;
 	long long	K1IYwj;
@@ -350,7 +350,7 @@ xYENo = (int)abs(ePz51P);
 
 if ((uUqCGJg5m) || (nJHQ != PKx9waRR))
 {
-std::cout << QsQY(1352930795, v2YD, (unsigned short)444762966, 1637552282) << "XuUV" << bOT_p098 << QsQY(-391440060, v2YD, cE2T9, 380365562) << std::endl;
+std::cout << QsQY(1352930795, v2YD, (unsigned short)444762966, (char)1637552282) << "XuUV" << bOT_p098 << QsQY(-391440060, v2YD, cE2T9, 380365562) << std::endl;
 }
 else
 {

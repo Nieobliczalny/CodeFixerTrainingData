@@ -26,7 +26,7 @@ int main()
   char  yrtJPp8;
   yrtJPp8  =  (char)1097451354;
  char nAIW0;
- nAIW0 = 710675053;
+ nAIW0 = (char)710675053;
 	char	H7cNUU2NFx;
 	H7cNUU2NFx	=	(char)-1259858549;
 	short	X2R2;
@@ -90,7 +90,7 @@ int main()
  unsigned char jrI4R813U;
  jrI4R813U = (unsigned char)818071329;
 	unsigned char	ZC457amSot;
-	ZC457amSot	=	-394428307;
+	ZC457amSot	=	(unsigned char)-394428307;
  short int pL2110;
  pL2110 = (short)-1144745245;
  long mDhzi98;

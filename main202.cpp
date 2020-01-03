@@ -473,7 +473,7 @@ do
 {
 for (int j = 0; j < 3; j++)
 {
-fNTDY = HyyVR(-121217217, (unsigned short)-1159942498, PEB4, -627888836);
+fNTDY = HyyVR(-121217217, (unsigned short)-1159942498, PEB4, (unsigned short)-627888836);
 }
 ++i;
 }

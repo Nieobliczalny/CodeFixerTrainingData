@@ -73,7 +73,7 @@ o62_Ci = u2_yKOFHY((short)-1135946800, (short)1694670814, 1633566172);
 break;
 case 'd':
 case 'D':
-H7Gk91c0 = u2_yKOFHY(-1317203954, H7Gk91c0, H3Rp_Wsww);
+H7Gk91c0 = u2_yKOFHY((short)-1317203954, H7Gk91c0, H3Rp_Wsww);
 break;
 case 'e':
 case 'E':

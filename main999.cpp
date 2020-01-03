@@ -86,7 +86,7 @@ int main(int argc, char** argv) {
 	unsigned char	WZ_iG;
 	WZ_iG	=	(unsigned char)275788975;
 	short int	wA8RGxU4s;
-	wA8RGxU4s	=	-1884438075;
+	wA8RGxU4s	=	(short)-1884438075;
   unsigned char  ou6g2_E6D;
   ou6g2_E6D  =  68237118;
   unsigned char  y5f20h8f8M;

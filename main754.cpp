@@ -33,7 +33,7 @@ int main(int argc, char** argv)
     long long    PHy3z    =    -252667982;
 	unsigned long	jNNcGULzR	=	-193952598;
 	float	ORNuR	=	2029591165;
-  char  jl_WmbN0j  =  1052400932;
+  char  jl_WmbN0j  =  (char)1052400932;
 	int	U7_L	=	171258869;
  long Q00Woxr = 111026121;
  unsigned short b71LoKDl4g = (unsigned short)-1930192717;
@@ -43,7 +43,7 @@ int main(int argc, char** argv)
 	unsigned short	f9P84Epl	=	(unsigned short)273466100;
 	unsigned int	Ao_0sVwCu	=	-2014470658;
   char  n5Igrwj  =  (char)-804073491;
-  char  BTBD696Df  =  407355788;
+  char  BTBD696Df  =  (char)407355788;
     long double    Wlz3T    =    2044017821;
  long double w2Wh1gy = -166576722;
   long long  Cy16CM8  =  -403785806;
@@ -57,7 +57,7 @@ int main(int argc, char** argv)
  long long yifB3 = 20153441;
  unsigned short oRp9Ul7H = (unsigned short)1031573212;
   unsigned char  Uh2YKgDV7  =  (unsigned char)-920939927;
-	short int	q1a7	=	895974723;
+	short int	q1a7	=	(short)895974723;
   unsigned int  a6Ah  =  -48683052;
  long Ohl3q504 = -1756921223;
     long long    zSHZ    =    801292712;
@@ -75,7 +75,7 @@ int main(int argc, char** argv)
  float TPus_S6U = -436448003;
 	short int	k_WR	=	(short)-1320135409;
  unsigned long long D_al = -1676143315;
-  unsigned short  rY_483  =  222668175;
+  unsigned short  rY_483  =  (unsigned short)222668175;
 	long long	r649	=	-1072517538;
 	long double	sK84Meo	=	105498289;
   unsigned short  VTzL7T  =  (unsigned short)-1685677648;
@@ -168,7 +168,7 @@ else
 cout << lW104ZUTJ((short)-1046815721, (unsigned char)922480916, Ohl3q504, Q00Woxr) << CiM7r(D_al, emjjIbb, 550394774, (short)-752464605) << endl;
 }
 
-Ohl3q504 = lW104ZUTJ(-1225944764, D_al, zr7a8F, P672Q);
+Ohl3q504 = lW104ZUTJ((short)-1225944764, D_al, zr7a8F, P672Q);
 cout << dkIB03Tmv(Ohl3q504, D_al) << AAG7b1s(Ohl3q504, D_al, 1244940886, 1383520958, -588853822) << "tJO1p1" << "p3H7" << endl;
 
 for (int i = 8; i >= 0; --i)

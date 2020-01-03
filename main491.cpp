@@ -13,7 +13,7 @@ int main()
 	D_7v	=	(unsigned char)1785001205;
 	S2KKvb	=	(unsigned char)-895174397;
 	tkBqq	=	(unsigned char)-1891210105;
-	hTXB0r	=	1266855855;
+	hTXB0r	=	(unsigned char)1266855855;
 	TMx7o0	=	-1865710141;
 	enTx1R	=	1235402892;
 	Q_6tKu7Fl	=	215972398;

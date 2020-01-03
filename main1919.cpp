@@ -36,7 +36,7 @@ int main(void) {
   unsigned char  N3fCw09;
   N3fCw09  =  (unsigned char)-918621057;
 	short	jShVL92;
-	jShVL92	=	-123560555;
+	jShVL92	=	(short)-123560555;
 	float	gR8n4;
 	gR8n4	=	-343405667;
 	long double	S3sL81H4z;
@@ -76,7 +76,7 @@ int main(void) {
   short int  LFQ3O;
   LFQ3O  =  (short)-1928335688;
 	char	dmI6;
-	dmI6	=	1663521365;
+	dmI6	=	(char)1663521365;
   unsigned long  KM3F1uY4;
   KM3F1uY4  =  -1772647239;
     unsigned char    is2dcBJl5d;

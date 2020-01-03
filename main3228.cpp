@@ -51,7 +51,7 @@ int main() {
  unsigned char vci2R4d;
  vci2R4d = (unsigned char)588165919;
   unsigned char  kafazMyb;
-  kafazMyb  =  405150104;
+  kafazMyb  =  (unsigned char)405150104;
  long double SL7I;
  SL7I = 670062575;
   int  W8ar;

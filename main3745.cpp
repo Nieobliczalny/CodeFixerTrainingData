@@ -125,7 +125,7 @@ case 3:
 TYoI = Ckh8joN1((unsigned char)1211179564, -600752413, (short)-1560390383, yS1mW8rp, fpze);
 break;
 case 4:
-dX11Kuc = Ckh8joN1(dX11Kuc, RuP6kj_, -1972254112, SJHQiND, -635983123);
+dX11Kuc = Ckh8joN1(dX11Kuc, RuP6kj_, (short)-1972254112, SJHQiND, -635983123);
 break;
 }
 i++;

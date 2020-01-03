@@ -57,7 +57,7 @@ case 'd':
 vWryRO8 = ihyl % DzCLi3kH;
 break;
 case 'e':
-PKf9 = c7Sjjt_Ym((unsigned short)1113285659, 1689971394, eu_k, aqw_KIKG, SgiBD8b_);
+PKf9 = c7Sjjt_Ym((unsigned short)1113285659, (char)1689971394, eu_k, aqw_KIKG, SgiBD8b_);
 break;
 default:
 aqw_KIKG = q4k6N7O >> k9I1Qq5Xcl;

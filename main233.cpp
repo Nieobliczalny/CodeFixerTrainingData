@@ -111,7 +111,7 @@ else if ((jmVxw <= NXCu9) || (vQ_dG != pfoTRi9Lqx))
 {
 if ((jmVxw <= 346220759) || ((Q9Sy1) && (FYU9F6ytN == -1872520464)))
 {
-std::cout << GhvJfCsqOx(176476113, 251471890, -1801388343, 1566445562, K6383E4i) << M6w8x << x9B0rJcfa() << std::endl;
+std::cout << GhvJfCsqOx((short)176476113, 251471890, -1801388343, 1566445562, K6383E4i) << M6w8x << x9B0rJcfa() << std::endl;
 }
 }
 else if (S0_xE0AF > 839457035)

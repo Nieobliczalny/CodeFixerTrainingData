@@ -44,7 +44,7 @@ int main(void)
     unsigned short int    Xw7a9U_OnV    =    (unsigned short)-994014362;
 	unsigned long long	h2AZI7	=	-1650936012;
  unsigned int h0pu49P = 137155180;
- unsigned char ZxdE1m = -1323037786;
+ unsigned char ZxdE1m = (unsigned char)-1323037786;
     unsigned short int    itqa    =    259254635;
   unsigned char  uliML026  =  478491504;
  long double bbdlD = -879631551;
@@ -69,7 +69,7 @@ int main(void)
     unsigned short    zP4PESwX    =    (unsigned short)-1410380982;
     unsigned long long    y7CY5H2    =    0;
   unsigned long  kt7R9bYq  =  1235464193;
-  unsigned short  uIVMYQhl  =  128366242;
+  unsigned short  uIVMYQhl  =  (unsigned short)128366242;
  unsigned char cMjh = (unsigned char)-901286003;
     unsigned long long    c4I0    =    -788752870;
   short  dJCYgVMK  =  -2001288195;
@@ -79,7 +79,7 @@ int main(void)
   unsigned char  ChGQLH3X5_  =  (unsigned char)-1041726095;
 	double	lHf097F6x	=	1490135826;
     unsigned long    C23OG    =    0;
-	unsigned char	b_AV4lx2	=	-1804808054;
+	unsigned char	b_AV4lx2	=	(unsigned char)-1804808054;
 	unsigned char	j037	=	(unsigned char)-2017544769;
 	long double	z0_pIB	=	103436900;
   long long  k0gn  =  -1397684707;
@@ -767,7 +767,7 @@ mXsv = v9302OxhDu((unsigned char)2049404209, (short)-2140317595, (short)18599649
 break;
 case 'c':
 case 'C':
-Wo2pV = ylZYl8I(-1046652899);
+Wo2pV = ylZYl8I((char)-1046652899);
 break;
 case 'd':
 case 'D':

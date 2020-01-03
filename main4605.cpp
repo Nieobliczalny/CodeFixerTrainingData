@@ -33,7 +33,7 @@ int main(int argc, char** argv)
     y6QN_jl02    =    (unsigned short)1426569688;
     r91rDdt    =    (unsigned short)274228330;
     AS2HQ5LE8m    =    (unsigned short)-1081136479;
-    AKa8    =    -516809016;
+    AKa8    =    (unsigned short)-516809016;
     aVcg9gdT87    =    708558889;
     I_32StPN    =    -798214184;
     KFL4CL    =    184686489;

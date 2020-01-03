@@ -53,7 +53,7 @@ int main()
   char  P1I5BVi  =  (char)-519035951;
   float  zKAxn  =  1649789711;
  unsigned char x80LC_ = (unsigned char)186410414;
-    short int    d8BrZ46kX8    =    56255528;
+    short int    d8BrZ46kX8    =    (short)56255528;
  unsigned int o6z1a = 1255821180;
   unsigned int  o6B8Q0yGd  =  -67257050;
  unsigned long long alsDh76 = -1548430060;
@@ -65,7 +65,7 @@ int main()
 	long long	xNTUj3r5	=	2095706629;
   long double  SEjf9BTL51  =  -238284011;
 	short	u5h7_0	=	(short)-61199096;
-    short int    c7lTO447    =    1465914778;
+    short int    c7lTO447    =    (short)1465914778;
   float  hsBcMBH54  =  1563480794;
  long O99hWCU6 = -1290613385;
     unsigned long    Sk_HDNd    =    673719905;
@@ -98,7 +98,7 @@ int main()
     unsigned char    X5bWmW2bh    =    (unsigned char)1361345912;
 	long	EX98_iP_l	=	-1182808193;
 	long	wik_55	=	-2044726261;
-	unsigned char	KHTa4o61	=	1005616877;
+	unsigned char	KHTa4o61	=	(unsigned char)1005616877;
     long long    D221rSX9NT    =    -1560783040;
  long double n7uRG = -340409988;
   unsigned int  F6kEbDTqN2  =  -1522012600;
@@ -112,7 +112,7 @@ int main()
  int G1L30 = -1415669690;
   unsigned char  Lj_1X568  =  (unsigned char)-876303428;
  unsigned long jv526hZ = 1706275567;
- unsigned short int MJTr = -1336606394;
+ unsigned short int MJTr = (unsigned short)-1336606394;
  unsigned char RtO_uIpckD = (unsigned char)1976259687;
 	short	rn5ZNB4	=	1370381785;
     float    pe02qFUexZ    =    840681542;
@@ -127,7 +127,7 @@ int main()
   long  s12d_2  =  -1309016936;
 
 G1L30++;
-N3nm = Ns7C((short)1597138566, d8BrZ46kX8, 761432718);
+N3nm = Ns7C((short)1597138566, d8BrZ46kX8, (unsigned short)761432718);
 
 K7jQhQg0qp += 789010158;
 
@@ -253,7 +253,7 @@ jRW_Kvu8V = n4cEqXq_((unsigned char)-1134971600, -661406503);
 }
 else if (mjtqAbDAhg == sSwqY_I)
 {
-G1L30 = smrrHz5((short)-1147217002, (unsigned short)1188722295, -1973747356, pe02qFUexZ, 337323671);
+G1L30 = smrrHz5((short)-1147217002, (unsigned short)1188722295, (unsigned char)-1973747356, pe02qFUexZ, 337323671);
 }
 else if (alsDh76 >= 1299835331)
 {

@@ -40,7 +40,7 @@ int main(int argc, char** argv)
   unsigned short  E9_C;
   E9_C  =  (unsigned short)1094120677;
     unsigned short    e5M9Np;
-    e5M9Np    =    1444656315;
+    e5M9Np    =    (unsigned short)1444656315;
  unsigned char PU7AfMWD;
  PU7AfMWD = (unsigned char)-213500708;
     unsigned char    fWNbx;
@@ -66,7 +66,7 @@ int main(int argc, char** argv)
  char I85Dg5kKA;
  I85Dg5kKA = (char)962441791;
   short int  UpOZ7;
-  UpOZ7  =  -1781604897;
+  UpOZ7  =  (short)-1781604897;
  double Ox2DOmK_;
  Ox2DOmK_ = 1073061924;
   short  Ik6k_x_72_;

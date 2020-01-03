@@ -91,7 +91,7 @@ std::cout << Ntp2 << B_79x(85213570, Y664, (char)2292724, smd8O7) << std::endl;
 
 for (int i = 9; i >= 0; --i)
 {
-std::cout << B_79x(1601280517, 1474222198, d_jK, (char)606747832) << "LJQ7" << B_79x(-1226773594, Y664, d_jK, -1243815332) << std::endl;
+std::cout << B_79x(1601280517, 1474222198, d_jK, (char)606747832) << "LJQ7" << B_79x(-1226773594, Y664, d_jK, (char)-1243815332) << std::endl;
 }
 
 switch (l77N)
@@ -118,7 +118,7 @@ case 6:
 ogQMGejiM = B_79x(1156959319, Ntp2, Px_fqLlW, (char)2129243927);
 break;
 case 7:
-ogQMGejiM = B_79x(-128541533, 1454855562, -1779306561, -2006515617);
+ogQMGejiM = B_79x(-128541533, 1454855562, (char)-1779306561, -2006515617);
 break;
 default:
 lfKzj4fw25 = l77N << d_jK;

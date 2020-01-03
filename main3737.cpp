@@ -63,7 +63,7 @@ int main()
 	double	qGV_;
 	qGV_	=	1213041222;
     unsigned short    snZe51_;
-    snZe51_    =    -1475880512;
+    snZe51_    =    (unsigned short)-1475880512;
   int  zqAgP;
   zqAgP  =  -796690050;
     unsigned int    MR2Z7UwQ5I;
@@ -266,7 +266,7 @@ int j = 4;
 while (j >= 0)
 {
 --j;
-std::cout << uEBegMc(bd3dh, (short)314530461, (unsigned short)1277869081) << uEBegMc(bd3dh, (short)1796577628, 589606324) << uEBegMc(bd3dh, tJVS_3__, -1766199796) << "a1kbDgjBFy" << P1e5_Zf2e << std::endl;
+std::cout << uEBegMc(bd3dh, (short)314530461, (unsigned short)1277869081) << uEBegMc(bd3dh, (short)1796577628, (unsigned short)589606324) << uEBegMc(bd3dh, tJVS_3__, -1766199796) << "a1kbDgjBFy" << P1e5_Zf2e << std::endl;
 }
 }
 }

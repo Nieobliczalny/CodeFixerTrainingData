@@ -81,7 +81,7 @@ else if (iYk1_ < 715213766)
 {
 try
 {
-LaXVPszY = ufx9m92p(-176651822, (char)1601184640, uMVd, xxR93B0_, 594440573);
+LaXVPszY = ufx9m92p(-176651822, (char)1601184640, uMVd, xxR93B0_, (char)594440573);
 }
 catch (int& errorCode)
 {

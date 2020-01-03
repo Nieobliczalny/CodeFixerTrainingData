@@ -41,7 +41,7 @@ int main(int argc, char** argv)
  char Rc03R_UzK = (char)1355257711;
 	unsigned long long	A6jHnu7LkM	=	0;
 	char	EV1t0drQg	=	(char)1843463389;
-  char  k8h7T6_v  =  1680381056;
+  char  k8h7T6_v  =  (char)1680381056;
  unsigned char Wbb0L7g = 370015207;
  unsigned short int K5vFpf = (unsigned short)-2022749252;
     long    jjO3Rq5n2    =    1760273355;
@@ -52,7 +52,7 @@ int main(int argc, char** argv)
   unsigned short int  WxusbG  =  (unsigned short)-759597622;
 	char	C75EY	=	(char)297711324;
   int  Mxqt0  =  -1041248211;
-    short    wU94S    =    1446705774;
+    short    wU94S    =    (short)1446705774;
  double S9Tx7pi = 1908181363;
   unsigned char  U4DVCPse  =  (unsigned char)440681008;
 	short	a2jaRV13	=	1001286680;
@@ -66,7 +66,7 @@ int main(int argc, char** argv)
   float  Zot88h0YE  =  592183106;
     short    x294    =    (short)1342029777;
     long long    Gs857    =    1707821654;
-    short    rtOmh9    =    1448213458;
+    short    rtOmh9    =    (short)1448213458;
     unsigned short int    x16j    =    -1124705324;
     unsigned long long    xMHo    =    -594563311;
   long  Z0L74x  =  1972903184;
@@ -240,7 +240,7 @@ while (k >= 0);
 }
 else
 {
-cout << OUGZD(WxusbG, -1964680509, (short)-1843414655, Rc03R_UzK, A6jHnu7LkM) << c45OzMJH((short)1061674631, (short)901170060) << c45OzMJH(WxusbG, 482965360) << endl;
+cout << OUGZD(WxusbG, -1964680509, (short)-1843414655, Rc03R_UzK, A6jHnu7LkM) << c45OzMJH((short)1061674631, (short)901170060) << c45OzMJH(WxusbG, (short)482965360) << endl;
 }
 }
 switch (ekr_)

@@ -30,7 +30,7 @@ int main(int argc, char** argv)
  unsigned int lbn2WAJ = -309870057;
     double    r3EyhP    =    114735272;
  short int uKHCyG8dZj = (short)-1126894987;
-    char    Cf_nJ    =    1715512124;
+    char    Cf_nJ    =    (char)1715512124;
  unsigned int FdSVu_Rt = -933234053;
  long long rza8 = -1057238499;
  unsigned short lmU8_4EZi6 = (unsigned short)187893222;

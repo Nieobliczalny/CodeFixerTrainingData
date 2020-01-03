@@ -29,7 +29,7 @@ int main(void) {
   x0mQKsH_Vg  =  (unsigned short)-1551584510;
   leT_0xrl  =  (unsigned short)-347303846;
   e7o5ES  =  (unsigned short)1202046206;
-  cMh_3S3X6e  =  -1964844711;
+  cMh_3S3X6e  =  (unsigned short)-1964844711;
   F8reF6  =  -1329408183;
   Kk4LW6vC  =  -724100177;
   dkkaT  =  657926116;
@@ -39,7 +39,7 @@ int main(void) {
   nC41iOcm2F  =  (unsigned short)1645891102;
   sX5g1mL  =  (unsigned short)-1054307335;
   X800l  =  (unsigned short)1362066111;
-  k47S  =  -851620960;
+  k47S  =  (unsigned short)-851620960;
   W9due  =  1417102517;
   g52AAi08_  =  -1975547401;
   W_0l4z  =  1219871362;
@@ -49,7 +49,7 @@ int main(void) {
   xtvvT  =  (unsigned short)-1570472560;
   u98O37  =  (unsigned short)-2034341830;
   g54TJE38  =  (unsigned short)-611219953;
-  K_tyHe825  =  782694292;
+  K_tyHe825  =  (unsigned short)782694292;
   o0KIA  =  -391017892;
   DWGq12B  =  -501789363;
   oiBz_y  =  1667269849;
@@ -59,7 +59,7 @@ int main(void) {
   PS6_  =  (unsigned short)-552735864;
   cGY3F  =  (unsigned short)1647394247;
   gx1o2xYGc  =  (unsigned short)-2050019427;
-  ZK_6_Ey  =  1404445274;
+  ZK_6_Ey  =  (unsigned short)1404445274;
   NEraK  =  813757345;
   q700_q2  =  -380771491;
   PdCTg  =  788646536;
@@ -69,7 +69,7 @@ int main(void) {
   dcZEiAjd  =  (unsigned short)338435040;
   xQB7M07  =  (unsigned short)1237747328;
   roD1  =  (unsigned short)-1116480194;
-  hu359h4a  =  -1395934978;
+  hu359h4a  =  (unsigned short)-1395934978;
   U7d5h6Li  =  -1343219865;
   N7r3Y9  =  542728251;
   nmhzz7a  =  128912280;
@@ -79,7 +79,7 @@ int main(void) {
   RXf7  =  (unsigned short)-2076609520;
   e31_h  =  (unsigned short)-1572340000;
   tYZt  =  (unsigned short)967790263;
-  J8n44TSv  =  -972297759;
+  J8n44TSv  =  (unsigned short)-972297759;
   mBPFW3k9o  =  946835067;
   bX0ZdgA  =  760351405;
   Ml_bF3hm8J  =  -1693247236;
@@ -89,7 +89,7 @@ int main(void) {
   oENSF1k  =  (unsigned short)-1840027886;
   GnLNoETJuq  =  (unsigned short)660895637;
   Z1q3  =  (unsigned short)1757488513;
-  Q8L8eIb  =  -1020485791;
+  Q8L8eIb  =  (unsigned short)-1020485791;
   SrM1ff4M  =  -1241738384;
   YoV2S  =  -352574392;
   yiq7tGu  =  1141437867;

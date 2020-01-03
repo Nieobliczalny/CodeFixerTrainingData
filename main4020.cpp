@@ -27,7 +27,7 @@ int main(int argc, char** argv)
  long long wR0i;
  wR0i = 1886285489;
  short SdltB9YpvV;
- SdltB9YpvV = 1213689803;
+ SdltB9YpvV = (short)1213689803;
 	long long	A__YXfqJ27;
 	A__YXfqJ27	=	247070453;
 	short	rH6RCs7;

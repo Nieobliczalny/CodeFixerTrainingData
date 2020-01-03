@@ -140,7 +140,7 @@ int main() {
   unsigned long long  saXg_1d;
   saXg_1d  =  -255351630;
  short int U98ryg5q4;
- U98ryg5q4 = 474798286;
+ U98ryg5q4 = (short)474798286;
  unsigned char ulpJK;
  ulpJK = (unsigned char)-2070870842;
  unsigned short BWJe30;
@@ -150,7 +150,7 @@ int main() {
     unsigned long    Hb5C;
     Hb5C    =    -1136736456;
   char  F43nYB4p1;
-  F43nYB4p1  =  654643029;
+  F43nYB4p1  =  (char)654643029;
     double    T8iFX9l_Ky;
     T8iFX9l_Ky    =    948096421;
 	long long	gF3y3nhu6G;
@@ -182,7 +182,7 @@ int main() {
  long double k3_a;
  k3_a = -1614736217;
 	char	X1SjMKkRI;
-	X1SjMKkRI	=	-759771192;
+	X1SjMKkRI	=	(char)-759771192;
     int    A_8mMEV4;
     A_8mMEV4    =    -1425201468;
     unsigned long    F6NUWr4_L;

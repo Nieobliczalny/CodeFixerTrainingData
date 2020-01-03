@@ -93,7 +93,7 @@ int main(int argc, char** argv)
     short    f3ScTB;
     f3ScTB    =    (short)-1508924980;
 	unsigned short int	lNHdR_;
-	lNHdR_	=	276000340;
+	lNHdR_	=	(unsigned short)276000340;
 	unsigned char	mAw4i;
 	mAw4i	=	(unsigned char)-1435884134;
  double ZJefzi;

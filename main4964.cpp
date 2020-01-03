@@ -62,7 +62,7 @@ int main(void) {
 	unsigned short int	c9LR;
 	c9LR	=	(unsigned short)2082393296;
  unsigned short int Tm__9xy;
- Tm__9xy = 844148586;
+ Tm__9xy = (unsigned short)844148586;
  float XNCZ1E2hK;
  XNCZ1E2hK = 1661339599;
   long  JiFd;
@@ -198,7 +198,7 @@ int main(void) {
  unsigned char jC0_C3OOF;
  jC0_C3OOF = (unsigned char)671727931;
   short int  yYJlFtX_49;
-  yYJlFtX_49  =  1211490683;
+  yYJlFtX_49  =  (short)1211490683;
   float  RWkKR;
   RWkKR  =  1235230422;
  unsigned long long iCc6;
@@ -449,7 +449,7 @@ if (lO8q777 == -1280391476)
 {
 for (int k = 5; k >= 0; k--)
 {
-Vk5QUi = y_fE((short)1220167014, -1409871005);
+Vk5QUi = y_fE((short)1220167014, (short)-1409871005);
 }
 }
 else
@@ -653,7 +653,7 @@ case 1:
 RWkKR = (int)abs(Goa7);
 break;
 case 2:
-Vk5QUi = y_fE((short)904724113, -746152007);
+Vk5QUi = y_fE((short)904724113, (short)-746152007);
 break;
 case 3:
 JiFd >>= jT1Pa0;

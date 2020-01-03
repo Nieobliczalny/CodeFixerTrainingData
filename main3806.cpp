@@ -38,7 +38,7 @@ int main(int argc, char** argv) {
     unsigned long long    CK2_    =    540971392;
 	unsigned short	eGq35	=	(unsigned short)1758745294;
     unsigned int    rL7b435Mg    =    -1481729558;
-	short int	h_5dqv	=	1766052958;
+	short int	h_5dqv	=	(short)1766052958;
   unsigned char  WN50Y8bph  =  720395457;
     unsigned short    EXo9_9I    =    0;
 	unsigned short	XlQ13v1j	=	(unsigned short)-379484115;
@@ -253,7 +253,7 @@ case 2:
 WN50Y8bph = Hx6XSB((short)365889518, eGq35, L7cql, -1801157696);
 break;
 case 3:
-WN50Y8bph = Hx6XSB((short)933159588, h_5dqv, -728647472, 292979533);
+WN50Y8bph = Hx6XSB((short)933159588, h_5dqv, (short)-728647472, 292979533);
 break;
 case 4:
 fdsqOi7_4 = S0pnr(-274715089, (char)-621318562, eGq35, 722114991, 490208591);
@@ -428,7 +428,7 @@ R3b4N28TzN = Y00eZ6(R3b4N28TzN, (unsigned char)2141293020) & 713625673;
 
 if (qw_T1Fncm2 > 687224622)
 {
-cout << S0pnr(R3b4N28TzN, (char)-1004720644, eGq35, (short)1108734532, CK2_) << NBQv3GxK << Y00eZ6(R3b4N28TzN, h_5dqv) << Y00eZ6(318935891, 850338503) << endl;
+cout << S0pnr(R3b4N28TzN, (char)-1004720644, eGq35, (short)1108734532, CK2_) << NBQv3GxK << Y00eZ6(R3b4N28TzN, h_5dqv) << Y00eZ6((unsigned char)318935891, 850338503) << endl;
 }
 else if (fdsqOi7_4 < -1745920263)
 {
@@ -472,7 +472,7 @@ j++;
 }
 }
 
-RFX4 = S0pnr(JvO2k4TO, dD1pQ65HZ9, bvaStM2, (short)-1236302244, 1724387488) / S0pnr(1625206612, dD1pQ65HZ9, bvaStM2, 875665193, pR6Z1b);
+RFX4 = S0pnr(JvO2k4TO, dD1pQ65HZ9, bvaStM2, (short)-1236302244, (short)1724387488) / S0pnr(1625206612, dD1pQ65HZ9, bvaStM2, 875665193, pR6Z1b);
 
 if (EXo9_9I == qw_T1Fncm2)
 {
@@ -579,7 +579,7 @@ while (i >= 0);
 cout << "ahw7T9a6" << "iYzI" << fy5444Z9_8(EXo9_9I, P3XEnN57_j) << fy5444Z9_8(EXo9_9I, P3XEnN57_j) << endl;
 L7cql = Y00eZ6((unsigned char)351986259, duqN);
 
-fdsqOi7_4 = S0pnr(P3XEnN57_j, (char)1538939849, rL7b435Mg, (short)202920555, 227277742);
+fdsqOi7_4 = S0pnr(P3XEnN57_j, (char)1538939849, rL7b435Mg, (short)202920555, (short)227277742);
 
 eGq35 = JvO2k4TO << dD1pQ65HZ9;
 
@@ -599,7 +599,7 @@ break;
 int i = 1;
 do
 {
-cout << S0pnr(1573765058, b6s5v, qw_T1Fncm2, (short)-75711619, (short)461548697) << rL7b435Mg << S0pnr(eGq35, (char)61301822, qw_T1Fncm2, 920365418, RFX4) << fdsqOi7_4 << "Y09iUj_TNh" << endl;
+cout << S0pnr(1573765058, b6s5v, qw_T1Fncm2, (short)-75711619, (short)461548697) << rL7b435Mg << S0pnr(eGq35, (char)61301822, qw_T1Fncm2, (short)920365418, RFX4) << fdsqOi7_4 << "Y09iUj_TNh" << endl;
 --i;
 }
 while (i >= 0);

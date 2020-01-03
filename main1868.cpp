@@ -113,7 +113,7 @@ OBg6gp2K = j09Hd((unsigned char)1601197076, 1133489964, SqU6y6Ra) & hce87YB5;
 }
 else if (OBg6gp2K <= SqZuNLkEZ)
 {
-hce87YB5 = j09Hd((unsigned char)-173599844, -1660518098, -2130311965);
+hce87YB5 = j09Hd((unsigned char)-173599844, -1660518098, (unsigned short)-2130311965);
 }
 else if ((BBP6ek_4 < hce87YB5) && (BBP6ek_4 >= -152614609))
 {

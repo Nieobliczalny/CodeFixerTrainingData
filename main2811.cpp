@@ -95,7 +95,7 @@ case 5:
 I_5I++;
 break;
 case 6:
-C8Gz = z6W1PGx((short)676061764, Fa1kpxS, (short)-454166148, (char)-1780049593, 1973125279);
+C8Gz = z6W1PGx((short)676061764, Fa1kpxS, (short)-454166148, (char)-1780049593, (short)1973125279);
 break;
 }
 }
@@ -143,7 +143,7 @@ case 'c':
 E_HAm = kDwx(tq_TV9r_, E_HAm, (unsigned short)871323374, (unsigned short)-926099581);
 break;
 default:
-tq_TV9r_ = t2y283g(784205513, D86wf);
+tq_TV9r_ = t2y283g((short)784205513, D86wf);
 break;
 }
 }
@@ -209,7 +209,7 @@ case 0:
 AMylpg2 = z6W1PGx(AMylpg2, C8Gz, (short)-288969579, QnccIJ, (short)416726845);
 break;
 default:
-Mj1mEr = t2y283g((short)1045239363, -1058673089);
+Mj1mEr = t2y283g((short)1045239363, (short)-1058673089);
 break;
 }
 switch (twE9)
@@ -310,7 +310,7 @@ smz_66 = (int)abs(yEg1s);
 }
 else if (ajMkY91Klj == w_sjCp)
 {
-std::cout << z6W1PGx(HULiN59dxr, 587557506, tq_TV9r_, (char)-1113120972, Tv6kb) << "j1qQCC" << z6W1PGx(HULiN59dxr, -29402732, (short)1192459009, Na9_1, 939238068) << "DzcM0R" << "b9Ync" << std::endl;
+std::cout << z6W1PGx(HULiN59dxr, 587557506, tq_TV9r_, (char)-1113120972, Tv6kb) << "j1qQCC" << z6W1PGx(HULiN59dxr, -29402732, (short)1192459009, Na9_1, (short)939238068) << "DzcM0R" << "b9Ync" << std::endl;
 }
 else
 {

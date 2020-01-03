@@ -47,7 +47,7 @@ int main(void) {
 	short int	n59A6;
 	n59A6	=	(short)150722851;
 	unsigned short int	MWV0ftoT;
-	MWV0ftoT	=	-47074507;
+	MWV0ftoT	=	(unsigned short)-47074507;
   float  Q62Pvq;
   Q62Pvq  =  1329322035;
  unsigned char hP17Y6k5;
@@ -145,7 +145,7 @@ int main(void) {
 	unsigned short int	MJw_DF9643;
 	MJw_DF9643	=	(unsigned short)-1596536037;
     unsigned short int    eE1X655lI;
-    eE1X655lI    =    1401554732;
+    eE1X655lI    =    (unsigned short)1401554732;
  unsigned short int bJh30a4kf;
  bJh30a4kf = (unsigned short)1626274100;
  unsigned long long d5xxlz95Z;

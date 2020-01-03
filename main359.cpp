@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
 	unsigned int	uSMk80;
 	uSMk80	=	519838194;
 	short int	j06KB;
-	j06KB	=	1984402016;
+	j06KB	=	(short)1984402016;
  unsigned short h31AgJZM3u;
  h31AgJZM3u = (unsigned short)465009272;
  int VAsnygA0vA;
@@ -88,7 +88,7 @@ int main(int argc, char** argv) {
   short  D3jKt0;
   D3jKt0  =  (short)-708697567;
     short int    JF_6D3cqp;
-    JF_6D3cqp    =    -964275653;
+    JF_6D3cqp    =    (short)-964275653;
 	long double	zCS3w9M4t;
 	zCS3w9M4t	=	1839338345;
     short    YWiI9qetG;

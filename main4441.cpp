@@ -60,7 +60,7 @@ case 3:
 woh5n_ = xxBE_Rk_ep(m9ukZvS, j6aar2aEr, (unsigned short)1282462380, woh5n_, KBdKH);
 break;
 case 4:
-woh5n_ = xxBE_Rk_ep(qMeQT, (char)1368046911, (unsigned short)1701227980, 794222953, O454s8);
+woh5n_ = xxBE_Rk_ep(qMeQT, (char)1368046911, (unsigned short)1701227980, (unsigned char)794222953, O454s8);
 break;
 case 5:
 woh5n_ = xxBE_Rk_ep(-111017659, -1220445599, 722114044, B5wp_OkRaL, -401221270);
@@ -95,7 +95,7 @@ break;
 
 B5wp_OkRaL = (unsigned long long)(v9v_4708);
 SKQFDf_iL = (unsigned long long)(KBdKH);
-std::cout << SKQFDf_iL / xxBE_Rk_ep((unsigned short)-1454075061, h4aVxw95e, PqfurK420, 29993167, j6aar2aEr) << std::endl;
+std::cout << SKQFDf_iL / xxBE_Rk_ep((unsigned short)-1454075061, h4aVxw95e, PqfurK420, (unsigned char)29993167, j6aar2aEr) << std::endl;
 woh5n_ = xxBE_Rk_ep(KBdKH, woh5n_, -1770020297, eHEe5, 1126529008);
 
 JwZZX = (unsigned long long)(Yc4Jh + (2001033236));
@@ -119,7 +119,7 @@ fYA1 /= m9ukZvS;
 }
 else
 {
-qphD = xxBE_Rk_ep(h4aVxw95e, (char)-1002168259, y4Mvfto0, 1046658220, -134136032);
+qphD = xxBE_Rk_ep(h4aVxw95e, (char)-1002168259, y4Mvfto0, (unsigned char)1046658220, -134136032);
 }
 j--;
 }
@@ -193,7 +193,7 @@ std::cout << "JS9_v_56G" << xxBE_Rk_ep(O454s8, qphD, (unsigned short)-911780001,
 
 J6vUxSIj8 |= i927xI__87;
 
-qphD = xxBE_Rk_ep((unsigned short)-1192285631, KBdKH, qphD, 841105146, SKQFDf_iL);
+qphD = xxBE_Rk_ep((unsigned short)-1192285631, KBdKH, qphD, (unsigned char)841105146, SKQFDf_iL);
 
 try
 {
@@ -213,7 +213,7 @@ qphD = xxBE_Rk_ep((unsigned short)1052621086, (char)-1183662503, h4aVxw95e, B5wp
 }
 else
 {
-woh5n_ = xxBE_Rk_ep(PqfurK420, (char)-1923522952, j6aar2aEr, -660489239, v3M0k);
+woh5n_ = xxBE_Rk_ep(PqfurK420, (char)-1923522952, j6aar2aEr, (unsigned char)-660489239, v3M0k);
 }
 }
 else if (KBdKH)
@@ -249,7 +249,7 @@ case 2:
 y4Mvfto0 = (woh5n_ <= -1293599858) ? J6vUxSIj8 : xm827;
 break;
 case 3:
-woh5n_ = xxBE_Rk_ep(-935249814, SKQFDf_iL, h4aVxw95e, O454s8, 1475867564);
+woh5n_ = xxBE_Rk_ep((unsigned short)-935249814, SKQFDf_iL, h4aVxw95e, O454s8, 1475867564);
 break;
 case 4:
 qphD = (int)abs(woh5n_);

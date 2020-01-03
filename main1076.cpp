@@ -20,7 +20,7 @@ int main()
     short int    arD0    =    (short)310442207;
 	int	G2520	=	541648898;
 	short int	dU6bgEK	=	(short)439232989;
-	unsigned short int	Yo8_jN7R	=	1012285660;
+	unsigned short int	Yo8_jN7R	=	(unsigned short)1012285660;
  unsigned short int an7_0ARd7 = 1971939249;
     unsigned long long    Dy864Tk96    =    1724788752;
  long N3YJT20r_E = -1972899896;
@@ -35,7 +35,7 @@ int main()
 	int	WoO4K0W9Bm	=	-2010772375;
 	short int	sHVow0vW	=	(short)634963733;
   int  td155vK  =  2084385672;
-    unsigned short    P213oOkZ    =    628277151;
+    unsigned short    P213oOkZ    =    (unsigned short)628277151;
 	long double	hh9iF67B6	=	-1857277537;
 	unsigned int	yH_Q	=	1320371084;
  long double U3K7F = -762771921;
@@ -45,7 +45,7 @@ int main()
   unsigned short int  Cw_21t5j  =  1773528152;
  unsigned short b27R = (unsigned short)-664268342;
   unsigned short int  e4cJ1  =  -281905835;
-    short int    UQ759DQ_2p    =    -1787076387;
+    short int    UQ759DQ_2p    =    (short)-1787076387;
 	short int	pZ4c8T5	=	-1289591404;
   char  O44R3RAG_  =  1159235968;
  int Ot8IlwKn15 = -990066284;
@@ -58,7 +58,7 @@ int main()
   unsigned char  Tw0xLGK0  =  (unsigned char)2140307598;
 	long	taKFX3mIi	=	-1978072712;
  double ioQB = 398318579;
-  short  zZ0XJ_W_0  =  505166777;
+  short  zZ0XJ_W_0  =  (short)505166777;
 	char	o7F3F_	=	737350599;
 	unsigned char	dj5Z5n6	=	(unsigned char)-1128596658;
   unsigned short int  prB_dHl9Qv  =  (unsigned short)191655708;
@@ -87,7 +87,7 @@ int main()
   unsigned long long  M6Wt  =  1843455408;
  long long JJ7No = 937144989;
   long long  q82yY624dm  =  -1629980189;
-	unsigned short int	u_Cr7Tl	=	1460246625;
+	unsigned short int	u_Cr7Tl	=	(unsigned short)1460246625;
     unsigned long    R0f64    =    -1638072284;
 	long double	npff2C	=	1442604746;
  unsigned long long rU3M6n = -1384741128;
@@ -105,7 +105,7 @@ int main()
  short int x6lNMAcn = 0;
   unsigned char  Xo0u2kc90I  =  (unsigned char)1366623288;
  char JD837_m4 = (char)1307046732;
- unsigned char fm6h9Hb = -1800008155;
+ unsigned char fm6h9Hb = (unsigned char)-1800008155;
   float  zka8Wxs_  =  -1076385815;
     unsigned short    rTbs0Kr    =    -1222970454;
     unsigned long long    f_l2g_h    =    1620072396;

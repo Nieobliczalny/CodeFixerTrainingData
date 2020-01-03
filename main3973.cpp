@@ -355,7 +355,7 @@ yQ6eyVFX = fGQd ^ qE1La4;
 }
 else if (((Ti9a < vR2xy_) || (c572d7_n < fGQd)) && (bp619h61))
 {
-mD25SZnERf = o_m29b(mD25SZnERf, ZYZ0oJ1t2, Ti9a, (char)-1802302063, 740399234);
+mD25SZnERf = o_m29b(mD25SZnERf, ZYZ0oJ1t2, Ti9a, (char)-1802302063, (unsigned short)740399234);
 }
 else
 {

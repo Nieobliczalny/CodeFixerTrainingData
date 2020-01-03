@@ -65,7 +65,7 @@ while (i >= 0);
 QfOp = Su8NAX2878(lLxfy16, (unsigned char)-414535333, KnlSXdMZZ) / P6X_Ujq;
 if (QfOp <= PQJGh922)
 {
-std::cout << "QQFS" << JxNSgIp2 << z_Pks2(lLxfy16) << Su8NAX2878(-831990291, -1194214036, 288490089) << Vmg9oT2r(1764687350, -447562261) << std::endl;
+std::cout << "QQFS" << JxNSgIp2 << z_Pks2(lLxfy16) << Su8NAX2878(-831990291, (unsigned char)-1194214036, 288490089) << Vmg9oT2r(1764687350, -447562261) << std::endl;
 }
 else
 {

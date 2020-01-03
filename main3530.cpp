@@ -124,7 +124,7 @@ int main(int argc, char** argv) {
     unsigned short    u7bu8p;
     u7bu8p    =    (unsigned short)1941665410;
   char  w7KX;
-  w7KX  =  153105677;
+  w7KX  =  (char)153105677;
  short int pg96Im4d0s;
  pg96Im4d0s = (short)-1906497457;
  unsigned char G17Zi;

@@ -57,7 +57,7 @@ int main(int argc, char** argv) {
 	unsigned char	gmw5wFWd;
 	gmw5wFWd	=	(unsigned char)-774097940;
   char  c1_axQ3o6;
-  c1_axQ3o6  =  -319693819;
+  c1_axQ3o6  =  (char)-319693819;
     double    S950mq;
     S950mq    =    1703116324;
  unsigned int G5_MxiH32;
@@ -125,7 +125,7 @@ int main(int argc, char** argv) {
   unsigned short  NnBGkU;
   NnBGkU  =  (unsigned short)613531866;
     unsigned short    janaCSpxKv;
-    janaCSpxKv    =    -1790316922;
+    janaCSpxKv    =    (unsigned short)-1790316922;
   unsigned int  TqZ079tbmd;
   TqZ079tbmd  =  151390387;
 	double	NS8G;
@@ -147,7 +147,7 @@ int main(int argc, char** argv) {
     short int    G8Jt3CP;
     G8Jt3CP    =    0;
  unsigned short int gSE46;
- gSE46 = 1970523882;
+ gSE46 = (unsigned short)1970523882;
  double zXjkoxR0V;
  zXjkoxR0V = -1929926182;
     unsigned short    Qp6AyPwH;
@@ -329,7 +329,7 @@ if ((243111113 / uez2J__) >= 127235396)
 {
 if (T1hqU8((unsigned char)-1622788240, 576028573) == 0)
 {
-	hOG99iK = bn3zx74N(gmw5wFWd, (short)-276546136, qGdw) / T1hqU8(-1622788240, 576028573);
+	hOG99iK = bn3zx74N(gmw5wFWd, (short)-276546136, qGdw) / T1hqU8((unsigned char)-1622788240, 576028573);
 }
 }
 

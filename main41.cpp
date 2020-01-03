@@ -287,7 +287,7 @@ a_BFF1 = sr48hDq5m(-393258306, (char)-1626921824, (unsigned char)158188059, (uns
 break;
 case 'g':
 case 'G':
-CXFzC = OphP_(CXFzC, 1335294240, 246899031, -87215569);
+CXFzC = OphP_(CXFzC, (unsigned short)1335294240, 246899031, -87215569);
 break;
 case 'h':
 case 'H':

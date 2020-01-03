@@ -26,7 +26,7 @@ int main()
  unsigned short z7nT06Vl0;
  z7nT06Vl0 = (unsigned short)-1006613591;
     short int    M5JfOH;
-    M5JfOH    =    -28131360;
+    M5JfOH    =    (short)-28131360;
 	unsigned long	Wb5K2J;
 	Wb5K2J	=	-358252829;
     short int    zQ5DJ;
@@ -54,7 +54,7 @@ int main()
   unsigned short  WoFZ;
   WoFZ  =  (unsigned short)-801752027;
  short PWz4g5Pp4;
- PWz4g5Pp4 = 221460677;
+ PWz4g5Pp4 = (short)221460677;
     long long    ZNYm9;
     ZNYm9    =    -1702375694;
   unsigned short int  iHHB9Ip;

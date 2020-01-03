@@ -73,7 +73,7 @@ CP9VT = m1w3U357(CP9VT, (unsigned short)1891347402, C4JT7, (unsigned short)-7073
 }
 else if (u9DgWWjD <= m3Ovx)
 {
-std::cout << m1w3U357(CP9VT, (unsigned short)-720743928, C4JT7, -562739045, -2114768654) << "qly7tAoFy" << m1w3U357(411093089, Fb341_, C4JT7, 1569282074, -415923074) << "Xh2ZKqFE8F" << std::endl;
+std::cout << m1w3U357(CP9VT, (unsigned short)-720743928, C4JT7, (unsigned short)-562739045, -2114768654) << "qly7tAoFy" << m1w3U357(411093089, Fb341_, C4JT7, 1569282074, -415923074) << "Xh2ZKqFE8F" << std::endl;
 }
 else if ((dwaZa == m3Ovx) || ((lAY5 <= m3Ovx) && (ND8WEmb2 != fN661j94)))
 {
@@ -378,7 +378,7 @@ Wg4Bc539 = rzkKoXIXz((unsigned short)-745659823, Wg4Bc539, u9DgWWjD, (unsigned s
 break;
 case 'c':
 case 'C':
-ND8WEmb2 = rzkKoXIXz(ND8WEmb2, (char)1883703247, fN661j94, -1202931234);
+ND8WEmb2 = rzkKoXIXz(ND8WEmb2, (char)1883703247, fN661j94, (unsigned short)-1202931234);
 break;
 case 'd':
 case 'D':
@@ -911,7 +911,7 @@ case 3:
 wE_C9L = m1w3U357(1972126402, Fb341_, P_4OyJd, (unsigned short)1116109076, lAY5);
 break;
 case 4:
-P_4OyJd = Yh2ly(P_4OyJd, (unsigned short)-1328223800, fN661j94, lAY5, 1234541212);
+P_4OyJd = Yh2ly(P_4OyJd, (unsigned short)-1328223800, fN661j94, lAY5, (short)1234541212);
 break;
 case 5:
 c60VS42rD = (u5EqVr12a != P_4OyJd) ? fN661j94 : 2009156730;

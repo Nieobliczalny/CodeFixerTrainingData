@@ -72,7 +72,7 @@ int main(int argc, char** argv) {
 	unsigned short	v_YD6WW;
 	v_YD6WW	=	(unsigned short)-534549534;
 	short	m0107;
-	m0107	=	-953834163;
+	m0107	=	(short)-953834163;
     char    wD89;
     wD89    =    (char)1593046562;
 	unsigned short int	UY1Qb;
@@ -116,7 +116,7 @@ int main(int argc, char** argv) {
  short int jki4D1;
  jki4D1 = (short)-225854643;
     short int    XftJF;
-    XftJF    =    -373971243;
+    XftJF    =    (short)-373971243;
 	short int	W451wdP;
 	W451wdP	=	(short)-1582314349;
  char ySQrMss9;
@@ -140,7 +140,7 @@ int main(int argc, char** argv) {
     short    XEg5I;
     XEg5I    =    (short)885156566;
  short t2Uj971m;
- t2Uj971m = -2131589103;
+ t2Uj971m = (short)-2131589103;
  int eR_5D58NN;
  eR_5D58NN = 690898795;
 	double	POng;
@@ -154,7 +154,7 @@ int main(int argc, char** argv) {
  char G72Q6v8;
  G72Q6v8 = (char)1818791404;
   char  Iu778TFn;
-  Iu778TFn  =  -399269351;
+  Iu778TFn  =  (char)-399269351;
 	short	CX5Nd9d;
 	CX5Nd9d	=	(short)-73012758;
     unsigned int    dOnlk0D;
@@ -170,7 +170,7 @@ int main(int argc, char** argv) {
  short int AvXgj6_F;
  AvXgj6_F = (short)-1594970599;
  short r46y4pO5Yu;
- r46y4pO5Yu = -1946872522;
+ r46y4pO5Yu = (short)-1946872522;
  short W_Xf;
  W_Xf = 1264190171;
 

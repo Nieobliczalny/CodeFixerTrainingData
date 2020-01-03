@@ -33,7 +33,7 @@ int main(int argc, char** argv)
   cLF1WVXJ  =  (unsigned short)-892758711;
   NM13V2nH2  =  (unsigned short)-642100569;
   siE_nZ  =  (unsigned short)-850613497;
-  cIv4n8G26N  =  -1349990033;
+  cIv4n8G26N  =  (unsigned short)-1349990033;
   a_1wzO69  =  -1652979436;
   unsigned long long  S34p,  b_54m2z;
   S34p  =  0;
@@ -247,7 +247,7 @@ b_54m2z = QqFi1a((unsigned char)792452397, b_54m2z, cLF1WVXJ, (unsigned short)-1
 }
 else
 {
-S34p = QqFi1a((unsigned char)1084307275, -2117690610, b_54m2z, NM13V2nH2);
+S34p = QqFi1a((unsigned char)1084307275, (unsigned short)-2117690610, b_54m2z, NM13V2nH2);
 }
 }
 else if (S34p < cIv4n8G26N)
@@ -312,7 +312,7 @@ S34p = QqFi1a(S34p, (unsigned short)-516196071, 578538067, (unsigned short)-2961
 }
 else if ((b_54m2z < 1172088865) || (a_1wzO69 <= -1564235564))
 {
-std::cout << "Arc8" << QqFi1a(S34p, (unsigned short)1475785967, b_54m2z, -1543312913) << "A9my4L" << std::endl;
+std::cout << "Arc8" << QqFi1a(S34p, (unsigned short)1475785967, b_54m2z, (unsigned short)-1543312913) << "A9my4L" << std::endl;
 }
 else if (((cIv4n8G26N & 606701497) || (a_1wzO69 >= cIv4n8G26N)) && (cIv4n8G26N != -1081570000))
 {
@@ -418,7 +418,7 @@ case 5:
 S34p = QqFi1a(cIv4n8G26N, (unsigned short)2060449947, NM13V2nH2, (unsigned short)-2140042033);
 break;
 case 6:
-S34p = QqFi1a(S34p, (unsigned short)1288747050, NM13V2nH2, 1421697797);
+S34p = QqFi1a(S34p, (unsigned short)1288747050, NM13V2nH2, (unsigned short)1421697797);
 break;
 case 7:
 NM13V2nH2 = s7op();

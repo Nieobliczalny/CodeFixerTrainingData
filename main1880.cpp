@@ -28,7 +28,7 @@ int main(int argc, char** argv)
     long double    S49B    =    1369778734;
 	unsigned short	oLgGb	=	(unsigned short)123646490;
  unsigned short gou1nOG3 = (unsigned short)-591821251;
- char ch2dlA = -852540136;
+ char ch2dlA = (char)-852540136;
  unsigned long long YSJ3t1LA = -722925519;
 	int	Fz_FTFlQ	=	0;
   char  f95UE  =  -594541996;

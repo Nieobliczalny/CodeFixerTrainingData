@@ -23,7 +23,7 @@ int main()
   short  crI1i_p  =  (short)-767094937;
 	unsigned long long	I0ypFff	=	-672028696;
 	short int	djNUjS2	=	(short)1043837334;
-    unsigned short    Y6FhQSSF    =    -537439462;
+    unsigned short    Y6FhQSSF    =    (unsigned short)-537439462;
   unsigned char  aH4dgWa  =  -2101761424;
   unsigned long  Xhv1j8  =  -1878814574;
     long long    N50AJGDn    =    1941033974;
@@ -36,7 +36,7 @@ int main()
  long double uTy_05l2T = -1185775720;
     long long    B7oeoS    =    -1848411407;
  long yLM9unA = -1542477774;
-  unsigned short int  GC6_Hx  =  -861279263;
+  unsigned short int  GC6_Hx  =  (unsigned short)-861279263;
   unsigned int  i6qeX_1Q  =  1822510674;
  long long rsmdR__TX = 1506711558;
   unsigned long  Q5jjh7  =  -905724719;
@@ -53,7 +53,7 @@ int main()
 	double	Sqi7PF	=	988194753;
   short int  bY9H680QGC  =  (short)2036792924;
 	long	L4WAD	=	-1617679927;
-    unsigned char    G1c103G1Ja    =    836042433;
+    unsigned char    G1c103G1Ja    =    (unsigned char)836042433;
 	short	mPLO6du	=	1670962676;
 	double	LzG85_1	=	218273850;
 	unsigned int	y2uRBb	=	-1981648079;
@@ -66,7 +66,7 @@ int main()
  unsigned long JV0pXu4X = 214095023;
   short  V6_4_U6FbO  =  (short)-2103232631;
   unsigned long  z3sk0t  =  -1465239694;
- unsigned short int B2K73MVh = 561146880;
+ unsigned short int B2K73MVh = (unsigned short)561146880;
     unsigned long long    hdnl    =    1693901879;
     unsigned long long    z5Qhzab    =    -1940478428;
  unsigned long long iOJ483LJ5 = -888643818;
@@ -83,7 +83,7 @@ int main()
   long long  Z4D68a  =  496047974;
 	char	Iz9UG8	=	(char)106602302;
   short int  aDL5R1W  =  (short)788177238;
-	short	ynu_LP	=	1563221902;
+	short	ynu_LP	=	(short)1563221902;
   long  T88N8A  =  -390489922;
   unsigned long long  F108  =  729167495;
     unsigned short int    v_ZE    =    -1722247457;
@@ -95,7 +95,7 @@ int main()
  long long x6FbE89Sl9 = -1482071377;
     short    XlYLS9NJQB    =    (short)-1226881522;
 	short int	bMpJj3X8	=	(short)594506321;
-    char    lX_2    =    255663420;
+    char    lX_2    =    (char)255663420;
   long long  mgawI  =  1510799558;
 	long double	d2_94	=	-796847689;
  short int yD8C = -1625523581;

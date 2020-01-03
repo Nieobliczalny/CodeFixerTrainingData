@@ -93,7 +93,7 @@ int main(int argc, char** argv) {
 	short	wx_JOQ2jv;
 	wx_JOQ2jv	=	(short)1974723675;
     short int    mx14NL;
-    mx14NL    =    366929673;
+    mx14NL    =    (short)366929673;
  unsigned long long IicW6;
  IicW6 = 0;
 	unsigned long	Rx95GVVI3;
@@ -131,7 +131,7 @@ int main(int argc, char** argv) {
   unsigned short int  O7063dM5;
   O7063dM5  =  (unsigned short)-1222297236;
  unsigned short B4qQyrE7X;
- B4qQyrE7X = -516066133;
+ B4qQyrE7X = (unsigned short)-516066133;
   long  CVMmV12;
   CVMmV12  =  -438244619;
 	unsigned char	WYjEXO;
@@ -167,7 +167,7 @@ int main(int argc, char** argv) {
 	unsigned short int	l6a0_w77;
 	l6a0_w77	=	(unsigned short)1011826971;
     char    IdbO_r;
-    IdbO_r    =    -1123151046;
+    IdbO_r    =    (char)-1123151046;
  unsigned char RosO274;
  RosO274 = (unsigned char)702880161;
 	long double	gXHc8WT0u;

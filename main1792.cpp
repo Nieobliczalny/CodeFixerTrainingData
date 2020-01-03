@@ -210,7 +210,7 @@ else if (K7cV0bhoH3 > u84Rg1kw7q)
 {
 try
 {
-jR1iNK08 = QEPpm_(-1528082656, (unsigned char)-119208647, -916454526);
+jR1iNK08 = QEPpm_(-1528082656, (unsigned char)-119208647, (unsigned short)-916454526);
 }
 catch (int& errorCode)
 {
@@ -547,7 +547,7 @@ case 2:
 uYb5y4A4A = hWpOpT(339944032, -132177310, (unsigned short)-1734414782, 1469131717, mRslUDlT);
 break;
 case 3:
-eBp3ZeWfy = QEPpm_(eBp3ZeWfy, M_2Xcz, 643366735);
+eBp3ZeWfy = QEPpm_(eBp3ZeWfy, M_2Xcz, (unsigned short)643366735);
 break;
 case 4:
 tGjgLJ = A30Pm(Dy7zy5);
@@ -625,7 +625,7 @@ case 7:
 M_2Xcz = QEPpm_(M_2Xcz, (unsigned char)1523617675, (unsigned short)1423296506);
 break;
 case 8:
-uYb5y4A4A = QEPpm_(-856142245, 583368613, -1409777977);
+uYb5y4A4A = QEPpm_(-856142245, (unsigned char)583368613, -1409777977);
 break;
 case 9:
 aAC7Rhu7 = taG3z(aAC7Rhu7);

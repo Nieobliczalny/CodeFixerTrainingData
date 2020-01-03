@@ -60,7 +60,7 @@ case 'c':
 Ihjn = (int)abs(w9z2);
 break;
 case 'd':
-D_X61R_ = v_Uk4_w20_((unsigned char)-1936816121, LRVsH362, -1727922610, v8EX, 599637038);
+D_X61R_ = v_Uk4_w20_((unsigned char)-1936816121, LRVsH362, (unsigned short)-1727922610, v8EX, 599637038);
 break;
 case 'e':
 aTMf6XIpQ = oC4q7b(dzanZYk85h, X_a3f55CQ, -897897632, DAku56X);
@@ -169,7 +169,7 @@ break;
 switch (F79nK0)
 {
 case 0:
-LRVsH362 = v_Uk4_w20_((unsigned char)-1676326323, (unsigned char)-2107967892, 1944239344, 437634557, -1280992048);
+LRVsH362 = v_Uk4_w20_((unsigned char)-1676326323, (unsigned char)-2107967892, (unsigned short)1944239344, 437634557, -1280992048);
 break;
 case 1:
 X_a3f55CQ = (int)abs(D23616xjd);

@@ -27,7 +27,7 @@ int main(int argc, char** argv) {
     unsigned short int    OO_6g_T    =    (unsigned short)1007794963;
 	long double	A39CT8j_j	=	460681914;
     unsigned short    P5E512N_g    =    (unsigned short)-1661988035;
-    short int    sV13ZbcC    =    -1191743245;
+    short int    sV13ZbcC    =    (short)-1191743245;
  unsigned short KXdVbd = -11522120;
     long    O_CY    =    -66145026;
     unsigned short int    Esfp0ZQL    =    -1011372241;
@@ -57,7 +57,7 @@ int main(int argc, char** argv) {
     short    UtFI    =    (short)-834849063;
 	unsigned int	eMGA	=	-1733329667;
   unsigned int  ijnQz  =  -2128237855;
- char SP43aE_AF9 = 497297447;
+ char SP43aE_AF9 = (char)497297447;
     long double    FM45h289    =    -273441888;
  unsigned short lP792 = (unsigned short)2087232523;
  unsigned char P2cq028 = -166124564;
@@ -76,7 +76,7 @@ int main(int argc, char** argv) {
   unsigned long long  MM8Am77323  =  444976424;
     short int    pH5_I_2i9K    =    (short)-1868442373;
     double    KK0T54oGg    =    -147169086;
-	short	JGAY	=	79642473;
+	short	JGAY	=	(short)79642473;
  unsigned short h97z3l = (unsigned short)897657790;
  short int vUOv73RYp = 0;
 
@@ -408,7 +408,7 @@ case 9:
 bevPy = IZ57mnCej((unsigned short)1538244924, RP3s17, 274088690, (unsigned short)996975020);
 break;
 default:
-P5E512N_g = IZ57mnCej(-2022926880, 1537636522, sV13ZbcC, Ea612L) >> 711574380;
+P5E512N_g = IZ57mnCej((unsigned short)-2022926880, 1537636522, sV13ZbcC, Ea612L) >> 711574380;
 break;
 }
 --i;
@@ -633,7 +633,7 @@ Ea612L = R7C3v_Q8t((short)2107651750, gy543A7, (short)-1708288612);
 break;
 case 'f':
 case 'F':
-V0rwvkf1P = IZ57mnCej((unsigned short)1090251658, -1112902342, pS8sFt8Fp, 553387258);
+V0rwvkf1P = IZ57mnCej((unsigned short)1090251658, -1112902342, pS8sFt8Fp, (unsigned short)553387258);
 break;
 case 'g':
 case 'G':

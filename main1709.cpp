@@ -38,7 +38,7 @@ int main(void)
     unsigned char    TUU8d23jDQ    =    (unsigned char)-1630689278;
 	short	i8wY	=	(short)-1681343847;
   double  j2s0Q  =  -606862723;
-  unsigned short  gDYp_aI4K6  =  373452670;
+  unsigned short  gDYp_aI4K6  =  (unsigned short)373452670;
  short KNdH98G = 300092900;
  long long Hgm188P = -2066519810;
  short ze6Zv = -1697659982;
@@ -49,7 +49,7 @@ int main(void)
     float    U86pxtfgFj    =    -1661431801;
   unsigned char  dO9p40Sg  =  (unsigned char)403546350;
   unsigned char  qJIK55861  =  (unsigned char)-2133021895;
- unsigned short int K0b3Nnc_QE = 1434903274;
+ unsigned short int K0b3Nnc_QE = (unsigned short)1434903274;
     long long    DZlE    =    1135398598;
 	unsigned long	hKUP	=	-418749926;
 	unsigned long	U8l5	=	-102987965;
@@ -62,7 +62,7 @@ int main(void)
  unsigned char iZxs_m = (unsigned char)807656549;
 	short	e16pEl9o0	=	(short)505813613;
   long double  WL99KXFc43  =  -1109948886;
- short iWrAh = -1572015282;
+ short iWrAh = (short)-1572015282;
 	long	e7KWbcun	=	-1142694301;
 	int	Mp2ocV8Ny	=	-930868330;
     char    XA366H98e    =    -925785590;
@@ -80,7 +80,7 @@ int main(void)
   long double  YAiO5qodS7  =  -1280808018;
   unsigned char  tE5O  =  (unsigned char)-1073806175;
 	long	aXRg1	=	-1444506745;
- unsigned short int sm50TwNg = -1129109105;
+ unsigned short int sm50TwNg = (unsigned short)-1129109105;
     double    J939YdX_xI    =    -1749042139;
  long epk9A = -1796851739;
  long lFZ9q = -405197378;
@@ -90,7 +90,7 @@ int main(void)
   unsigned char  hG4E6Zm9bj  =  -1094104526;
   long long  x_aVCr  =  912058679;
     short int    rW3S    =    (short)-1051060483;
-    short    sqGDM    =    -336549201;
+    short    sqGDM    =    (short)-336549201;
 	unsigned int	PcyJbc	=	-138098989;
     long    hI0l    =    -504821243;
   short int  t_Neyp  =  -942942011;
@@ -102,7 +102,7 @@ int main(void)
 	unsigned short int	Mv09OC8	=	(unsigned short)-833730352;
  long double qt9dvdyl1 = -430405577;
   long  xiaz0  =  -1348421108;
- char E9TjE__uQ = -116731879;
+ char E9TjE__uQ = (char)-116731879;
     unsigned short    jdbVM    =    -1519214935;
     long long    GjTMQ    =    474967072;
     int    HWU64c    =    -82410217;

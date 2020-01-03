@@ -53,7 +53,7 @@ int main(int argc, char** argv) {
     unsigned char    D6D35b;
     D6D35b    =    (unsigned char)1257995097;
  char BEMADF6;
- BEMADF6 = 112813167;
+ BEMADF6 = (char)112813167;
   int  Cw_302;
   Cw_302  =  -444429752;
 	unsigned long	tmlCdv2c4_;
@@ -67,7 +67,7 @@ int main(int argc, char** argv) {
   unsigned int  wsQxd_;
   wsQxd_  =  -1872835882;
 	unsigned char	Y_8U8;
-	Y_8U8	=	951806601;
+	Y_8U8	=	(unsigned char)951806601;
  unsigned long lq284O7bvU;
  lq284O7bvU = -798883704;
 	unsigned char	P36TC1;
@@ -184,7 +184,7 @@ case 1:
 IjIN_ = t_H18V((unsigned char)1617653920, EBB1YHB5gM);
 break;
 case 2:
-S73lv89c8 = ZlW1vJxg(Am06, gBw5RCFNVo, qFJEnNb, (unsigned short)1777351854, 1784275631);
+S73lv89c8 = ZlW1vJxg(Am06, gBw5RCFNVo, qFJEnNb, (unsigned short)1777351854, (short)1784275631);
 break;
 case 3:
 Tg_0Ram++;
@@ -328,7 +328,7 @@ break;
 }
 }
 
-std::cout << p8VI7j3Di << "XXTI20o" << ZlW1vJxg(mvZUfG59j, oA3wjVA8io, lC8077_5qb, (unsigned short)1766672120, 1593566805) << QMhA << std::endl;
+std::cout << p8VI7j3Di << "XXTI20o" << ZlW1vJxg(mvZUfG59j, oA3wjVA8io, lC8077_5qb, (unsigned short)1766672120, (short)1593566805) << QMhA << std::endl;
 Tg_0Ram = (unsigned long long)(gogl);
 
 switch (kMHAj9_Z)

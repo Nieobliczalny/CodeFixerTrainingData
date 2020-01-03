@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
     unsigned char    V4Kb7VqtL;
     V4Kb7VqtL    =    (unsigned char)1550414117;
     short    lpl5;
-    lpl5    =    -994920498;
+    lpl5    =    (short)-994920498;
   long double  M4cV3;
   M4cV3  =  -1551121936;
     unsigned short int    DfRc8nlo00;
@@ -44,7 +44,7 @@ int main(int argc, char** argv) {
     unsigned short    vFsu;
     vFsu    =    (unsigned short)17823268;
     char    wwS7WCf2K;
-    wwS7WCf2K    =    1596856679;
+    wwS7WCf2K    =    (char)1596856679;
 	char	ilDV403pIM;
 	ilDV403pIM	=	(char)1627488674;
 	unsigned char	Vn6UK9iY;
@@ -208,7 +208,7 @@ int main(int argc, char** argv) {
  short int tjO26;
  tjO26 = (short)2022684131;
   unsigned short int  kpD0hI;
-  kpD0hI  =  1873878364;
+  kpD0hI  =  (unsigned short)1873878364;
 	long long	Y1J0u1Uy;
 	Y1J0u1Uy	=	487328287;
   unsigned long  m7nwsn;
@@ -272,7 +272,7 @@ case 0:
 qy1_1yKek3 = V4Kb7VqtL ^ 1146611444;
 break;
 case 1:
-dp3gykIR = L8hec(dp3gykIR, 1103519217);
+dp3gykIR = L8hec(dp3gykIR, (short)1103519217);
 break;
 default:
 ry7UYjw9 /= 486818038;

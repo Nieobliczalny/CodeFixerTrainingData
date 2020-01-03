@@ -25,7 +25,7 @@ int main() {
   short  KU7Ny  =  (short)-234055903;
  unsigned short Iy62Rl69 = (unsigned short)-875280462;
  unsigned short int xn3aPV = (unsigned short)-1474847767;
-  unsigned short  V66G  =  449126215;
+  unsigned short  V66G  =  (unsigned short)449126215;
   long  wGN663  =  1350203054;
  unsigned short int FREgi6y = -861186556;
  unsigned long long mws2s = -1967453733;
@@ -37,7 +37,7 @@ int main() {
   unsigned short int  N6K8  =  (unsigned short)612800654;
     unsigned char    P9hqKvZ3Oy    =    (unsigned char)-1502793442;
 	unsigned long long	JhZ4VC3t	=	-1024001744;
- short int znjWR34D = 1811115219;
+ short int znjWR34D = (short)1811115219;
   unsigned char  E5JPWe2  =  -629934063;
     unsigned char    WBxNw8C    =    1301556044;
   short  Z3a8r5  =  -795477690;
@@ -57,7 +57,7 @@ int main() {
   long  X1P_  =  1791167328;
     long double    NrVX3r1sk    =    -1361461259;
     double    J_vJo3DW    =    1687510769;
-  unsigned char  TDUo  =  1477675553;
+  unsigned char  TDUo  =  (unsigned char)1477675553;
  unsigned long long D9sU1i = 1582413407;
  unsigned long Q4CKX96H2k = -1903246205;
   float  RCU56Ws  =  2059519582;
@@ -67,7 +67,7 @@ int main() {
     unsigned short    P2s_tqO7P1    =    (unsigned short)-1958262667;
 	unsigned short	p87wSRiZB	=	(unsigned short)-489420342;
   unsigned int  G3iiXm  =  -861991636;
-    short    k_fZ762N4    =    -1422185718;
+    short    k_fZ762N4    =    (short)-1422185718;
 	char	EJok7Q	=	-1343283980;
   unsigned char  XZZ_g  =  696501688;
   unsigned short int  BwH5  =  140402926;
@@ -80,7 +80,7 @@ int main() {
 	long long	U851	=	64519597;
 	unsigned short	wNY07	=	(unsigned short)1420908871;
   double  dpuNssU  =  1853459418;
- char BxtHBa0 = -954453902;
+ char BxtHBa0 = (char)-954453902;
     unsigned long    sdNSY4jf    =    1242392384;
 	unsigned long long	G9wK	=	-648520955;
   unsigned short  EJg9  =  0;
@@ -201,7 +201,7 @@ case 'd':
 gQBz2Hk00 = (pkaJ8WZ4e4 >= -1147281212) ? h_3PMoO24 : 1746120611;
 break;
 case 'e':
-F7_GeBW4aE = r8ztyCxSO((char)-1385049460, -869681383);
+F7_GeBW4aE = r8ztyCxSO((char)-1385049460, (short)-869681383);
 break;
 case 'f':
 EJg9 = r8ztyCxSO(FREgi6y, (short)9319829);
@@ -432,7 +432,7 @@ yv5dWJ = (int)abs(EJok7Q) * 0;
 
 try
 {
-cout << EJg9 << M7MNDa0z6 << UllF1nS0F6(-917774960) << TDUo << r8ztyCxSO(1900233124, -1719710629) << endl;
+cout << EJg9 << M7MNDa0z6 << UllF1nS0F6(-917774960) << TDUo << r8ztyCxSO((char)1900233124, -1719710629) << endl;
 }
 catch (int& errorCode)
 {

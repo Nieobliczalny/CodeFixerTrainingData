@@ -131,7 +131,7 @@ int main() {
 	long long	OH8yHQ;
 	OH8yHQ	=	1943900649;
  short int WvBYT;
- WvBYT = -1034080883;
+ WvBYT = (short)-1034080883;
   unsigned short int  sK_3;
   sK_3  =  (unsigned short)-2109231579;
     unsigned short    iePJDX;

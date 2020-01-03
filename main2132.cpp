@@ -294,7 +294,7 @@ break;
 }
 }
 
-uc2i = MqIcO((short)1564582279, -243356259, NX2Wln6, 42903282, EtFVtFCyB);
+uc2i = MqIcO((short)1564582279, (short)-243356259, NX2Wln6, 42903282, EtFVtFCyB);
 std::cout << y1ru95g(74845315, Oi9G, 1865884926, 1134876724, EtFVtFCyB) << X2U__O6(1933182109, Oi9G, 389657427, ERp8ha_9rZ, EtFVtFCyB) << std::endl;
 {
 int i = 0;

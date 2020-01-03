@@ -90,7 +90,7 @@ int main(void) {
  short int j6ir3g9;
  j6ir3g9 = (short)-1727252109;
     char    w3Jf62Jw74;
-    w3Jf62Jw74    =    -1502216247;
+    w3Jf62Jw74    =    (char)-1502216247;
 	short	A3GvdX;
 	A3GvdX	=	85346674;
 	char	V_01i;

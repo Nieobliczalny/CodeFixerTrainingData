@@ -46,7 +46,7 @@ case 'f':
 yaXR = F3vL_();
 break;
 case 'g':
-fadyDL = T4xHC(-2105838544, (short)-1383851733, (char)-1030497983, 810735840);
+fadyDL = T4xHC(-2105838544, (short)-1383851733, (char)-1030497983, (unsigned short)810735840);
 break;
 case 'h':
 fadyDL = G_NI1s | 1904683274;
@@ -163,7 +163,7 @@ else if (Z79j == 180908997)
 {
 for (int k = 0; k < 1; ++k)
 {
-f3p_bX = T4xHC(-1767089122, fadyDL, 1000713726, 1632919140);
+f3p_bX = T4xHC(-1767089122, fadyDL, (char)1000713726, 1632919140);
 }
 }
 else if (((f3p_bX >= -1487580006) || (G_NI1s & fadyDL)) && (dv5vHJOj < 1313439993))

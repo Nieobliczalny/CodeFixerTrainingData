@@ -37,7 +37,7 @@ int main()
 	short	UBUu5j43z;
 	UBUu5j43z	=	(short)2004334646;
   short int  rFtyVmH_5;
-  rFtyVmH_5  =  937449428;
+  rFtyVmH_5  =  (short)937449428;
     unsigned short    CqskRPxP;
     CqskRPxP    =    (unsigned short)1560523407;
     unsigned char    Pw8B81q;
@@ -157,7 +157,7 @@ int main()
     long long    ulAg8;
     ulAg8    =    1752262509;
 	char	s61Dnl5;
-	s61Dnl5	=	-2005169427;
+	s61Dnl5	=	(char)-2005169427;
   double  o4Wcu;
   o4Wcu  =  152663369;
   short  JUdg8O6;
@@ -200,7 +200,7 @@ case 'd':
 UBUu5j43z = (int)abs(mJjUDSG9B8);
 break;
 case 'e':
-M41I = SYIti9C((unsigned short)1654338952, bTG0X, (unsigned char)1581068665, (char)-1052432485, -621215631);
+M41I = SYIti9C((unsigned short)1654338952, bTG0X, (unsigned char)1581068665, (char)-1052432485, (short)-621215631);
 break;
 case 'f':
 M41I = (int)floor(ZrlD2c5Mv7);
@@ -285,7 +285,7 @@ Y8mqZeGg = (short int)(UBUu5j43z);
 SJS9N = i_my3((char)1239178536, HAc5, KRpBkEvcG, lpd3ue2Du) / Vj71U98;
 
 cout << Y33t0X9_Ss << "truvy66_hR" << SYIti9C((unsigned short)1564784917, HAc5, KRpBkEvcG, lpd3ue2Du, (short)2075872024) << "S9Atpo" << endl;
-nAWt = SYIti9C(nAWt, l8_V_, -899769462, -197807357, d_di_JcUV);
+nAWt = SYIti9C(nAWt, l8_V_, (unsigned char)-899769462, -197807357, d_di_JcUV);
 {
 int i = 0;
 while (i < 8)
@@ -337,7 +337,7 @@ case 4:
 SJS9N = SYIti9C((unsigned short)-1254141468, E8nasdfiv, J2en6e0, d_di_JcUV, pD2M6);
 break;
 case 5:
-EKhUsC = SYIti9C((unsigned short)-1410078210, Vj71U98, (unsigned char)-1180435457, 1169226185, C0BCTOA);
+EKhUsC = SYIti9C((unsigned short)-1410078210, Vj71U98, (unsigned char)-1180435457, (char)1169226185, C0BCTOA);
 break;
 }
 
@@ -364,7 +364,7 @@ case 'c':
 u8_9 = (int)ceil(JIsGG3a1_);
 break;
 case 'd':
-V1v76Ii = SYIti9C((unsigned short)1358431689, -1313161134, (unsigned char)-565798219, (char)-1082655259, 1127125041);
+V1v76Ii = SYIti9C((unsigned short)1358431689, -1313161134, (unsigned char)-565798219, (char)-1082655259, (short)1127125041);
 break;
 case 'e':
 E8nasdfiv = b5BnrIDc * pce92Bd4;
@@ -382,7 +382,7 @@ case 'i':
 UjwUhpyDZG = SYIti9C(UjwUhpyDZG, mJjUDSG9B8, (unsigned char)-362526833, (char)-816865193, (short)282241130);
 break;
 case 'j':
-KQGM6_NrT = i_my3(KQGM6_NrT, 1624966547, 231559823, -463655220);
+KQGM6_NrT = i_my3(KQGM6_NrT, 1624966547, (short)231559823, -463655220);
 break;
 default:
 u8_9 = ak3R_8P ^ d_di_JcUV;

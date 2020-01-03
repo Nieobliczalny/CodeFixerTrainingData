@@ -235,7 +235,7 @@ u281iAe7T9 = mbUu22Rew(u281iAe7T9, nl_63i, 690853601);
 }
 cqoU = Lw01pi7 * w03TbL4gS4;
 
-std::cout << vzA1l_u6r((unsigned short)1472362232, nl_63i, tDH6KM8reM, (unsigned short)-518450432, -483884757) << qtm65yaj5p((unsigned char)182609268, nl_63i, tDH6KM8reM, HCfL7, Lw01pi7) << vzA1l_u6r(-964817015, -1271266640, tDH6KM8reM, -421838669, 1469819424) << std::endl;
+std::cout << vzA1l_u6r((unsigned short)1472362232, nl_63i, tDH6KM8reM, (unsigned short)-518450432, -483884757) << qtm65yaj5p((unsigned char)182609268, nl_63i, tDH6KM8reM, HCfL7, Lw01pi7) << vzA1l_u6r((unsigned short)-964817015, -1271266640, tDH6KM8reM, -421838669, 1469819424) << std::endl;
 Hrg_KgrM7 = nR_4ou9 * 186618696;
 
 ojkN = (long double)(H__3);
@@ -299,7 +299,7 @@ while (i >= 0);
 uA9_aFGU /= 1664676051;
 std::cout << vzA1l_u6r(XGORf, j27_, arp16luBNx, (unsigned short)-473649168, lB350n_eoX) << "anVe__ZUN6" << lB350n_eoX << "Qx_ua1Lfmz" << vzA1l_u6r((unsigned short)2106774215, j27_, arp16luBNx, (unsigned short)-513468997, lB350n_eoX) << std::endl;
 
-ZY_w77hyA = qtm65yaj5p(ZY_w77hyA, f41n, -233357093, w_M_, 77919154);
+ZY_w77hyA = qtm65yaj5p(ZY_w77hyA, f41n, (short)-233357093, w_M_, 77919154);
 
 if (in942n2 & 270403854)
 {

@@ -18,7 +18,7 @@ int main() {
   unsigned char  V9m_1  =  (unsigned char)1953520669;
     int    KXcP6xlvc    =    -195750947;
     long    FqbjxZ_q7t    =    511562562;
-    unsigned char    av5N651MWs    =    -667150242;
+    unsigned char    av5N651MWs    =    (unsigned char)-667150242;
     unsigned long    xC2gVgru_    =    1611857920;
  unsigned short ont1QGHniw = 0;
 	int	sSg_4_4	=	1607658558;
@@ -99,7 +99,7 @@ KXcP6xlvc++;
 }
 else if (V9m_1 > -11305833)
 {
-std::cout << "tWfkP" << FUWzK(i0zXp9, -1517826744, We33, sSg_4_4, 570093971) << std::endl;
+std::cout << "tWfkP" << FUWzK(i0zXp9, (unsigned short)-1517826744, We33, sSg_4_4, 570093971) << std::endl;
 }
 else if (av5N651MWs & -909627392)
 {
@@ -187,7 +187,7 @@ sSg_4_4 = (xC2gVgru_ == 1080705684) ? FUWzK(sSg_4_4, xC2gVgru_, 643689442, (unsi
 }
 }
 }
-std::cout << FUWzK(sSg_4_4, (unsigned short)1295566546, V9m_1, ont1QGHniw, djB_41) << jpt1Qi3 << FUWzK((unsigned short)1797609867, -1353135356, V9m_1, ont1QGHniw, djB_41) << KXcP6xlvc << FUWzK(sSg_4_4, 368561039, V9m_1, -127549661, djB_41) << std::endl;
+std::cout << FUWzK(sSg_4_4, (unsigned short)1295566546, V9m_1, ont1QGHniw, djB_41) << jpt1Qi3 << FUWzK((unsigned short)1797609867, (unsigned short)-1353135356, V9m_1, ont1QGHniw, djB_41) << KXcP6xlvc << FUWzK(sSg_4_4, 368561039, V9m_1, -127549661, djB_41) << std::endl;
 std::cout << "D4R7J872D" << "epPe5MZ21" << FUWzK(sSg_4_4, xC2gVgru_, 184711465, ont1QGHniw, -1350180935) << std::endl;
 
 if (FqbjxZ_q7t != xC2gVgru_)
@@ -261,7 +261,7 @@ djB_41 = (int)ceil(We33);
 switch (i0zXp9)
 {
 case 0:
-ont1QGHniw = FUWzK(jpt1Qi3, (unsigned short)-484942061, djB_41, 343162277, -1257887603);
+ont1QGHniw = FUWzK(jpt1Qi3, (unsigned short)-484942061, djB_41, (unsigned char)343162277, -1257887603);
 break;
 case 1:
 ont1QGHniw = FUWzK((unsigned short)-1725163676, (unsigned short)1380548404, -2016162184, -393552384, 1067239321);
@@ -369,7 +369,7 @@ case 4:
 ont1QGHniw = FUWzK((unsigned short)1337130367, (unsigned short)-63026303, 803332166, (unsigned char)657594468, -1384182462);
 break;
 case 5:
-ont1QGHniw = FUWzK(xC2gVgru_, -426500547, -81836336, 1187397949, -1071961245);
+ont1QGHniw = FUWzK(xC2gVgru_, (unsigned short)-426500547, -81836336, 1187397949, -1071961245);
 break;
 case 6:
 djB_41 = (int)floor(We33);

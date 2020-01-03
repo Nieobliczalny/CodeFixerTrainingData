@@ -21,7 +21,7 @@ int main(void) {
 	int	q7_5c	=	539892866;
     unsigned short int    B47_EGI_Y    =    (unsigned short)1522442884;
     long long    EaHne    =    -1665824002;
- unsigned short YNA_N0 = 478362264;
+ unsigned short YNA_N0 = (unsigned short)478362264;
   long  S6Z_56s  =  -1751053522;
  unsigned long jkycAwyU1 = 672125827;
  long double Vg41k5jRe = 926456379;
@@ -31,7 +31,7 @@ int main(void) {
     char    f_QA7    =    (char)1440001998;
  char MW1qD_4E0 = (char)1195784112;
     unsigned short    SuUr9xQ3    =    -1769278460;
-    unsigned short    hz4k6_JRp    =    -153491922;
+    unsigned short    hz4k6_JRp    =    (unsigned short)-153491922;
  short wiYcfQ3w7 = 1903300041;
     unsigned long long    B8i1PlgK    =    2114850540;
   double  T860LKqM9  =  1602083425;
@@ -71,7 +71,7 @@ cout << e_fF(-1325207040, dx8SKu) << zxL5Qd << B47_EGI_Y << KCIxiau17v((unsigned
 }
 else if ((r8GN9QTsep != MW1qD_4E0) && ((U17J9) || (zxL5Qd >= 316111461)))
 {
-cout << qRhectqb(YNA_N0, -1211556609) << KCIxiau17v((unsigned short)-433264751, dx8SKu, hz4k6_JRp) << KCIxiau17v(-2096985518, -767404698, hz4k6_JRp) << KCIxiau17v(-328130641, -1535375735, hz4k6_JRp) << endl;
+cout << qRhectqb(YNA_N0, -1211556609) << KCIxiau17v((unsigned short)-433264751, dx8SKu, hz4k6_JRp) << KCIxiau17v((unsigned short)-2096985518, -767404698, hz4k6_JRp) << KCIxiau17v(-328130641, -1535375735, hz4k6_JRp) << endl;
 }
 else if (S6Z_56s <= -1010580751)
 {

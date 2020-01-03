@@ -90,7 +90,7 @@ int main(int argc, char** argv) {
 	short int	gryUTsL62q;
 	gryUTsL62q	=	(short)-1984402026;
   short  Lrby0W;
-  Lrby0W  =  -1903880297;
+  Lrby0W  =  (short)-1903880297;
 	unsigned long	Ru7Q0EHcl;
 	Ru7Q0EHcl	=	2083985417;
   unsigned short  QVM12Nos1;

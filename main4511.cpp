@@ -414,7 +414,7 @@ case 'e':
 s_7oq = GRbr5pL7S / Uyo__;
 break;
 case 'f':
-ryZ5x_6__ = Yn5jY_41WU(ryZ5x_6__, VQngt6, 308424375, GRbr5pL7S, x1PHE1);
+ryZ5x_6__ = Yn5jY_41WU(ryZ5x_6__, VQngt6, (unsigned short)308424375, GRbr5pL7S, x1PHE1);
 break;
 }
 }
@@ -534,7 +534,7 @@ else
 {
 try
 {
-x1PHE1 = Yn5jY_41WU((char)-1396190884, Ju36iNDmps, (unsigned short)1144161920, 558929595, -1354497056);
+x1PHE1 = Yn5jY_41WU((char)-1396190884, Ju36iNDmps, (unsigned short)1144161920, (char)558929595, -1354497056);
 }
 catch (int& errorCode)
 {
@@ -574,7 +574,7 @@ while (i < 10);
 }
 for (int i = 8; i >= 0; i--)
 {
-VUTLkU = Yn5jY_41WU((char)227245035, VUTLkU, (unsigned short)489819616, (char)-1380099306, -1795114875);
+VUTLkU = Yn5jY_41WU((char)227245035, VUTLkU, (unsigned short)489819616, (char)-1380099306, (short)-1795114875);
 }
 
 if (VUTLkU >= -1647718975)
@@ -689,7 +689,7 @@ while (k >= 0);
 }
 else
 {
-std::cout << bLpV(J267DP, 866189528) << "yh34g" << RGvSJi << Yn5jY_41WU((char)-2036587173, (short)1281763927, VUTLkU, (char)1274067967, -159222520) << std::endl;
+std::cout << bLpV(J267DP, 866189528) << "yh34g" << RGvSJi << Yn5jY_41WU((char)-2036587173, (short)1281763927, VUTLkU, (char)1274067967, (short)-159222520) << std::endl;
 }
 return 0;
 }

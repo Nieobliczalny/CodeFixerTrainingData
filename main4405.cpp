@@ -365,7 +365,7 @@ case 'b':
 Z088_Qe7_ = (int)abs(hBjR1Wv1);
 break;
 case 'c':
-s1U4wc = a_CO((short)892852010, jcd___4, EaWxd, -742552333);
+s1U4wc = a_CO((short)892852010, jcd___4, EaWxd, (short)-742552333);
 break;
 case 'd':
 s1U4wc = a_CO(1366611882, 1652288871, 1417764982, 860360738);

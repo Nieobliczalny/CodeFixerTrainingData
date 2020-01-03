@@ -50,7 +50,7 @@ int main(int argc, char** argv)
   long double  dwA3B_;
   dwA3B_  =  49214409;
  unsigned short int y9ju86o_X;
- y9ju86o_X = -1639116369;
+ y9ju86o_X = (unsigned short)-1639116369;
 	char	oOCt8W3E;
 	oOCt8W3E	=	(char)1343733977;
   int  Hegyz_66;
@@ -64,7 +64,7 @@ int main(int argc, char** argv)
   short int  mLLz5;
   mLLz5  =  (short)-601549386;
   char  hqYV7;
-  hqYV7  =  -2035718885;
+  hqYV7  =  (char)-2035718885;
     long long    LOBsd8d;
     LOBsd8d    =    389587939;
 	unsigned int	XNOPSl;

@@ -54,7 +54,7 @@ int main() {
   int  NXCfn6R;
   NXCfn6R  =  173391333;
  unsigned short ejf8;
- ejf8 = 451033066;
+ ejf8 = (unsigned short)451033066;
 	long	VF9fJay;
 	VF9fJay	=	-719114952;
     unsigned short int    ZvpEEQn;
@@ -66,7 +66,7 @@ int main() {
  unsigned short yd4If;
  yd4If = (unsigned short)50064747;
 	short int	Vg0xG6_spU;
-	Vg0xG6_spU	=	979097966;
+	Vg0xG6_spU	=	(short)979097966;
  char j4vz0;
  j4vz0 = (char)2061054633;
 	unsigned long long	M62DM;
@@ -134,7 +134,7 @@ int main() {
  unsigned short int a92K7x;
  a92K7x = (unsigned short)-434332104;
   short int  Y6Eg;
-  Y6Eg  =  -881552904;
+  Y6Eg  =  (short)-881552904;
   short int  CUQGS79_gs;
   CUQGS79_gs  =  (short)2050234189;
  int xeH0h6D3BL;

@@ -51,7 +51,7 @@ case 4:
 Ed37V = npBvc33eW(Ed37V, w7veH0u);
 break;
 case 5:
-Ws2p40Qo3 = UP4Cq1(755161974);
+Ws2p40Qo3 = UP4Cq1((char)755161974);
 break;
 case 6:
 VoQKUkPa = (LJ5KC <= iPi1m5) ? L5K2Uhv : p1D2BNL0_;

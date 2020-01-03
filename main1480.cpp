@@ -100,7 +100,7 @@ int main(int argc, char** argv) {
 	unsigned short int	el39BT;
 	el39BT	=	(unsigned short)-1932312256;
   unsigned short  rlFA8n;
-  rlFA8n  =  -955476004;
+  rlFA8n  =  (unsigned short)-955476004;
  unsigned int A0j566L_;
  A0j566L_ = -1910799602;
   long double  wPFr;

@@ -46,7 +46,7 @@ int main(int argc, char** argv) {
   short  Zr4U0928;
   Zr4U0928  =  (short)1996165687;
   short  MO8x;
-  MO8x  =  -658185929;
+  MO8x  =  (short)-658185929;
     long    yxp9a_54m;
     yxp9a_54m    =    1135117994;
  char E91Lu_6A;

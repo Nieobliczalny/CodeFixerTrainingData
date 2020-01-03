@@ -115,7 +115,7 @@ int main()
     unsigned char    cZ5Q;
     cZ5Q    =    (unsigned char)291393378;
   short  Fp1Ebm7Y_;
-  Fp1Ebm7Y_  =  -1442928017;
+  Fp1Ebm7Y_  =  (short)-1442928017;
 	char	pAxY;
 	pAxY	=	(char)2082682722;
     unsigned short    ATDAW6h;

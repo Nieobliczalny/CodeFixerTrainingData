@@ -32,7 +32,7 @@ int main(int argc, char** argv)
     short int    K_5fd;
     K_5fd    =    (short)-520857415;
     short int    Ob21O_MA;
-    Ob21O_MA    =    -1615527368;
+    Ob21O_MA    =    (short)-1615527368;
 	char	kL2F_hTwgm;
 	kL2F_hTwgm	=	(char)-96185322;
  char Kx3t9D;
@@ -60,7 +60,7 @@ int main(int argc, char** argv)
     unsigned short int    B_QI;
     B_QI    =    (unsigned short)600758768;
  short y8v3w3Rg1;
- y8v3w3Rg1 = 983508450;
+ y8v3w3Rg1 = (short)983508450;
  int t9_8O9p_wO;
  t9_8O9p_wO = 2037241446;
  unsigned short UnsysCG;
@@ -118,7 +118,7 @@ int main(int argc, char** argv)
 	short	JfyvmY;
 	JfyvmY	=	(short)-870166110;
   short int  a7RL7T9;
-  a7RL7T9  =  665947660;
+  a7RL7T9  =  (short)665947660;
     unsigned long    fuIPp52HWE;
     fuIPp52HWE    =    1881708327;
   long  NPs_R26_N;

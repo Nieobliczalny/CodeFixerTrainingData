@@ -185,7 +185,7 @@ X3_q_6Ag = I12K_gQ1M6((unsigned char)767690550, 1793849973, (char)-1254245110);
 }
 else
 {
-FJc1 = fZq2fmX3hN((short)-366603998, -1043372843, -428918856);
+FJc1 = fZq2fmX3hN((short)-366603998, -1043372843, (unsigned short)-428918856);
 }
 }
 else if ((EdcB4) || (pev5))

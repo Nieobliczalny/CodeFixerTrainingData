@@ -75,7 +75,7 @@ default:
 pvlVVt8l_ = Gz3Nb1((char)1289094106, (unsigned short)-1242081926);
 break;
 }
-if ((Rgo4_Ddm((unsigned short)-1435258236, 1120284869, -1673431928, -1694711353) / Rgo4_Ddm(pvlVVt8l_, -209854197, m690uS63, wu0eR34P1)) < -1391283790)
+if ((Rgo4_Ddm((unsigned short)-1435258236, (unsigned char)1120284869, -1673431928, -1694711353) / Rgo4_Ddm(pvlVVt8l_, -209854197, m690uS63, wu0eR34P1)) < -1391283790)
 {
 try
 {

@@ -77,7 +77,7 @@ int main(int argc, char** argv)
  double DZoIei;
  DZoIei = -1344824211;
   short int  iy512;
-  iy512  =  546798781;
+  iy512  =  (short)546798781;
 	unsigned long long	Jde4Nil6Y;
 	Jde4Nil6Y	=	1585691462;
     long double    M3qhhX;

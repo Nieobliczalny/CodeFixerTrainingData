@@ -26,7 +26,7 @@ int main(void) {
   short  zr7f_Zr67;
   zr7f_Zr67  =  (short)-357891162;
 	char	DDz6Kpa03;
-	DDz6Kpa03	=	-717612538;
+	DDz6Kpa03	=	(char)-717612538;
   unsigned short int  TNs9GMB_T5;
   TNs9GMB_T5  =  (unsigned short)-1112482153;
   long long  b3l3kAdb4_;

@@ -29,7 +29,7 @@ int main(void)
     unsigned short    S60sjWS5b    =    (unsigned short)1394002161;
   float  WH0F2DUi  =  -1092675064;
   short int  G_jm  =  0;
- unsigned char xp4R2 = -1494507313;
+ unsigned char xp4R2 = (unsigned char)-1494507313;
 
 std::cout << pN37dVt6E0 << pN37dVt6E0 << xp4R2 << S60sjWS5b << std::endl;
 if (G_jm != -1530283935)

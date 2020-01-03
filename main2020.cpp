@@ -28,7 +28,7 @@ int main(int argc, char** argv) {
     long    r046I    =    -792257195;
     int    UFXM87h_8s    =    728232579;
     unsigned int    qKx_rDF5k    =    1597938064;
- char K4b6c1B_1Q = 1303330012;
+ char K4b6c1B_1Q = (char)1303330012;
     float    e3Ct5p    =    -1360569952;
     long double    jO2IwdA    =    -1253084553;
 	float	e3cIO_WG5Y	=	144287334;
@@ -44,7 +44,7 @@ int main(int argc, char** argv) {
   long  NEms3Qadi  =  0;
  short int Xq_7cn = (short)2025487043;
 	unsigned long	finKTmEg	=	372426827;
- char YGRm2Itq54 = 582015566;
+ char YGRm2Itq54 = (char)582015566;
 	float	p_9c	=	-1872983028;
 	long long	qz0cFX4	=	-982640196;
     float    Q441    =    -830607944;
@@ -59,7 +59,7 @@ int main(int argc, char** argv) {
   unsigned int  mzDQqgTr  =  -933680613;
 	unsigned short	MwEt	=	(unsigned short)836717582;
 	unsigned short int	um_BenS	=	(unsigned short)1808327217;
-	short	Ow30u	=	44477302;
+	short	Ow30u	=	(short)44477302;
     long long    Swr7    =    1764328681;
     double    IFK4    =    1908415893;
  long zRMfjZ4Vv9 = -13354735;
@@ -78,7 +78,7 @@ int main(int argc, char** argv) {
 	unsigned long long	u62S	=	1674877421;
   char  T2Q6F50_O  =  (char)159425086;
  short g1Q91lAyGV = (short)-241353753;
-	unsigned short	zwVf1x	=	1292987846;
+	unsigned short	zwVf1x	=	(unsigned short)1292987846;
     char    u5VG45E    =    -71440040;
     unsigned long    yIEv1    =    1655024234;
   unsigned short int  wQcX  =  (unsigned short)-163669781;
@@ -101,7 +101,7 @@ int main(int argc, char** argv) {
   unsigned int  YU8Nic3Y  =  -191918138;
   unsigned short int  xIPq  =  0;
 	short int	BQ5Qh_	=	(short)-1798053518;
-  unsigned short  B3V_u9z  =  1192884264;
+  unsigned short  B3V_u9z  =  (unsigned short)1192884264;
  unsigned long long g_N59XK = -1148995551;
     short int    xHiK    =    (short)-198320795;
 	int	wI3k	=	-661927915;
@@ -116,7 +116,7 @@ int main(int argc, char** argv) {
  unsigned long WCh36C231p = 1509533454;
  unsigned char bY_tfgu3 = (unsigned char)974990354;
   short int  WvsNzlBz1  =  (short)967213800;
-	char	VX_7R	=	-759104363;
+	char	VX_7R	=	(char)-759104363;
  unsigned char v8p_ = (unsigned char)263666720;
   short int  Q88s  =  -498508602;
  long double xWB0WDdg9 = 1207252511;

@@ -36,7 +36,7 @@ int main(void) {
   unsigned long long  pP6fO  =  1045636455;
 	unsigned long	t_U4I5J	=	0;
  unsigned int W4tL = -96832350;
-	short int	SEiI	=	-1977379825;
+	short int	SEiI	=	(short)-1977379825;
   unsigned char  h24rM  =  1770374375;
     unsigned char    GiyRE7    =    0;
 	unsigned short	H47ocbj	=	0;
@@ -49,7 +49,7 @@ int i = 0;
 do
 {
 i++;
-std::cout << tdh6YquVv(1244614031, (char)983711566, (char)1171756211) << pGsf1B8M << H47ocbj << tdh6YquVv(W4tL, 1027384846, 2145579238) << std::endl;
+std::cout << tdh6YquVv(1244614031, (char)983711566, (char)1171756211) << pGsf1B8M << H47ocbj << tdh6YquVv(W4tL, (char)1027384846, 2145579238) << std::endl;
 }
 while (i < 9);
 }
@@ -541,7 +541,7 @@ case 0:
 dq58g0xi = fsb9M(2136866919, (unsigned char)-1055341548, (short)1865631933, (char)1612521548);
 break;
 default:
-pGsf1B8M = (z1NwIh3 & H47ocbj) ? 1482177237 : -773943978;
+pGsf1B8M = (z1NwIh3 & H47ocbj) ? (char)1482177237 : -773943978;
 break;
 }
 }

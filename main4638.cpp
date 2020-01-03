@@ -183,7 +183,7 @@ case 'c':
 IrU6UY = I34NBU((char)-359137154, -534468792, q5L5H, e73b, -1017962121);
 break;
 case 'd':
-IrU6UY = I34NBU((char)-1094634331, 2052219381, wX2V8, -1966213061, -439612500);
+IrU6UY = I34NBU((char)-1094634331, 2052219381, wX2V8, (char)-1966213061, -439612500);
 break;
 case 'e':
 xUp6_a = swgrrsgd();
@@ -207,7 +207,7 @@ l_gI33 = swgrrsgd();
 }
 else if (((d9HSC34 >= ngXFq4Yo) && (e73b != az32hIC)) || ((CH_w_L9QY > zdX8J4) || (x1_e_4d_d < ngXFq4Yo)))
 {
-std::cout << "b5d6g7" << e6I0sOP((unsigned char)-662166946, -473044472, v0nB07, 1412415998, Kidfu_FxrF) << v0nB07 << I34NBU((char)1478544939, -1361085460, (char)1163605853, 2014262418, Kidfu_FxrF) << std::endl;
+std::cout << "b5d6g7" << e6I0sOP((unsigned char)-662166946, -473044472, v0nB07, 1412415998, Kidfu_FxrF) << v0nB07 << I34NBU((char)1478544939, -1361085460, (char)1163605853, (char)2014262418, Kidfu_FxrF) << std::endl;
 }
 else if (p_ROJZJApg == wX2V8)
 {

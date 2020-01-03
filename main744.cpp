@@ -130,7 +130,7 @@ int main(int argc, char** argv) {
     unsigned char    agwF3TQrJ;
     agwF3TQrJ    =    (unsigned char)-1497591638;
     short int    YcQ4;
-    YcQ4    =    -75116009;
+    YcQ4    =    (short)-75116009;
   double  l4Mdb1L19;
   l4Mdb1L19  =  1078084508;
   float  W_hI4;

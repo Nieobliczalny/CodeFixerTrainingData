@@ -174,7 +174,7 @@ default:
 aQIVE_eH57 = (int)ceil(bzcl01);
 break;
 }
-OK157_ = JApTyQ0V4v(-1080593780, OK157_);
+OK157_ = JApTyQ0V4v((unsigned char)-1080593780, OK157_);
 {
 int i = 0;
 do

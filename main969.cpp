@@ -35,7 +35,7 @@ int main(void)
  unsigned short gtsFODTYi6 = (unsigned short)1944890976;
  long long i4T40I = -413935291;
   unsigned char  KNzX_6K  =  (unsigned char)-362237632;
- char g3HX84A9z0 = 1574711687;
+ char g3HX84A9z0 = (char)1574711687;
 	unsigned short	q_5ADc4M	=	1816760260;
     int    tUt09_5d    =    1479898559;
     unsigned char    sCpQ7bTc    =    -418940800;
@@ -145,7 +145,7 @@ case 4:
 KNzX_6K = nhF5qrou7(-934631265);
 break;
 case 5:
-o59gqA = ATpU3(q_5ADc4M, o59gqA, (char)-368960404, -224197991);
+o59gqA = ATpU3(q_5ADc4M, o59gqA, (char)-368960404, (short)-224197991);
 break;
 case 6:
 Vjt5R24 = ATpU3(dd5ZqDK242, Vjt5R24, -1627541591, o59gqA);
@@ -164,7 +164,7 @@ tUt09_5d = (int)abs(d_ZR7);
 
 if ((q_5ADc4M / ATpU3(dd5ZqDK242, (unsigned short)-558410608, i4T40I, (short)1976357946)) <= -1309834480)
 {
-gtsFODTYi6 = ATpU3(-776333580, (unsigned short)655171661, i4T40I, 2052541200) / ATpU3(568925213, Vjt5R24, 255190717, o59gqA);
+gtsFODTYi6 = ATpU3(-776333580, (unsigned short)655171661, i4T40I, (short)2052541200) / ATpU3(568925213, Vjt5R24, 255190717, o59gqA);
 }
 
 {
@@ -202,7 +202,7 @@ g3HX84A9z0 = (char)(dd5ZqDK242);
 switch (gtsFODTYi6)
 {
 case 0:
-a53XaS490 = kD25deDpr2((short)570514545, -1928157663, VY_gf6_);
+a53XaS490 = kD25deDpr2((short)570514545, (unsigned short)-1928157663, VY_gf6_);
 break;
 default:
 g3HX84A9z0 += 2112308871;

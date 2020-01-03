@@ -37,7 +37,7 @@ int main()
  long EKp950 = 937354511;
  unsigned short ltehp109 = (unsigned short)-1986687764;
 	char	Usp9V	=	(char)-1441002534;
- short int QEH5V = -2122233285;
+ short int QEH5V = (short)-2122233285;
     unsigned short    j243a    =    439704918;
  unsigned short int aC3Gg = 1271100975;
  unsigned long long zrOo6EkYEL = 185450712;
@@ -53,7 +53,7 @@ int main()
 	unsigned long long	vu71C8jse	=	-76709915;
  short jux37oT = (short)236779599;
     unsigned long    n1B13sl    =    1906117040;
- short int OUdH93U4 = 1035588730;
+ short int OUdH93U4 = (short)1035588730;
   unsigned char  L_V3  =  -884043190;
 	unsigned int	M2sc5_G1Tp	=	-1390213576;
 	double	avoKBIFLC8	=	286037392;
@@ -67,7 +67,7 @@ int main()
     short    K5286    =    (short)-2027646385;
     long double    nvK9    =    1836643801;
   unsigned short int  ui_3V  =  (unsigned short)1517089730;
-	unsigned short int	Rrv7bea	=	-1413316087;
+	unsigned short int	Rrv7bea	=	(unsigned short)-1413316087;
 	float	XKEQ	=	-827288458;
     short int    ZxYsRwr4    =    (short)-2018220257;
  long double fn59nV2qpr = 976580038;
@@ -83,7 +83,7 @@ int main()
 	short	hIpS	=	0;
     unsigned long    ia_oF    =    1151315860;
 	short int	r_9AN2_xa	=	(short)-750134517;
-	unsigned short	z3pN	=	-2027126492;
+	unsigned short	z3pN	=	(unsigned short)-2027126492;
  double ihg0AHRYKj = 1949425978;
  char n2l7KpmpS1 = (char)1675457841;
     char    Q2h0RWGCW    =    -210172567;
@@ -100,7 +100,7 @@ int main()
 	unsigned short int	do6E	=	(unsigned short)749106811;
  long long zkhff46TE = -1568548848;
 	float	F61m1uU2	=	-1313970074;
-	unsigned short	kW_e	=	962739325;
+	unsigned short	kW_e	=	(unsigned short)962739325;
     double    nkjR5UC    =    -1027139541;
   short  aR2n9_c57  =  1666096765;
   unsigned short  ng4js19  =  2108925045;
@@ -124,7 +124,7 @@ do6E = IBI5LdSMX(-2006391106);
 break;
 case 'c':
 case 'C':
-EKp950 = u3SMp(287475335, ihg0AHRYKj, (char)1458849365, (unsigned short)-392201057, 1282654622);
+EKp950 = u3SMp(287475335, ihg0AHRYKj, (char)1458849365, (unsigned short)-392201057, (unsigned short)1282654622);
 break;
 case 'd':
 case 'D':

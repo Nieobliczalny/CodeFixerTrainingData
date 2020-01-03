@@ -67,7 +67,7 @@ int main(void)
 	unsigned short	x9YiK8;
 	x9YiK8	=	(unsigned short)-1050220102;
   unsigned char  u_pFc229;
-  u_pFc229  =  -607229483;
+  u_pFc229  =  (unsigned char)-607229483;
   unsigned long long  j80lq;
   j80lq  =  -1949130189;
     unsigned int    vy_4;
@@ -121,7 +121,7 @@ int main(void)
     unsigned char    dl7RH;
     dl7RH    =    (unsigned char)1777631127;
   unsigned short int  SKO7v_b;
-  SKO7v_b  =  272291329;
+  SKO7v_b  =  (unsigned short)272291329;
 	unsigned long	W5313vQw86;
 	W5313vQw86	=	789130954;
 	unsigned int	FE9z5_89k;
@@ -139,7 +139,7 @@ int main(void)
     unsigned short    SxZ5ZDws57;
     SxZ5ZDws57    =    (unsigned short)-134834152;
   unsigned short int  cUfvqh_;
-  cUfvqh_  =  576475032;
+  cUfvqh_  =  (unsigned short)576475032;
  float K8vwG2i;
  K8vwG2i = -403821690;
   long long  pgWLb;

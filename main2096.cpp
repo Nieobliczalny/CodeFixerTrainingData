@@ -44,7 +44,7 @@ int main(int argc, char** argv)
     unsigned long    l37WlSq    =    2111929687;
     short int    FVD_IH7    =    (short)-612383714;
  long long WN__23W = 0;
-	unsigned short	MO763vo	=	-294709474;
+	unsigned short	MO763vo	=	(unsigned short)-294709474;
   long double  MpS5  =  -1825911336;
     int    Zx04Uc9a1C    =    0;
  short U81Pem = (short)986626785;
@@ -55,7 +55,7 @@ int main(int argc, char** argv)
 	unsigned short int	ay_435W8BK	=	(unsigned short)1790537904;
   int  v0uWk3wJDp  =  0;
 	unsigned short int	X1p_TG	=	(unsigned short)-2044276691;
-    unsigned short    Y2A20602    =    1707772221;
+    unsigned short    Y2A20602    =    (unsigned short)1707772221;
 
 switch (ay_435W8BK)
 {
@@ -285,7 +285,7 @@ case 'b':
 FVD_IH7 = j31OA_K4L((short)-551489182, FVD_IH7, (unsigned char)-45289789, MO763vo);
 break;
 case 'c':
-Y2A20602 = pHP_Z(763123018, Rp99X, Sl2I61u, 1093175814);
+Y2A20602 = pHP_Z((char)763123018, Rp99X, Sl2I61u, 1093175814);
 break;
 case 'd':
 MpS5 = (int)ceil(Rp99X);

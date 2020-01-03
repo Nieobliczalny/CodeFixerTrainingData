@@ -55,7 +55,7 @@ int main(int argc, char** argv) {
 	char	s8R806;
 	s8R806	=	0;
 	short int	qjN9xKs3BL;
-	qjN9xKs3BL	=	481261073;
+	qjN9xKs3BL	=	(short)481261073;
  unsigned char Mb48vRT;
  Mb48vRT = (unsigned char)1554811234;
     unsigned long    jtRw9Scr7;
@@ -119,7 +119,7 @@ int main(int argc, char** argv) {
 	long double	kYvsc6;
 	kYvsc6	=	1720042243;
  char m8PmLs;
- m8PmLs = -467142822;
+ m8PmLs = (char)-467142822;
 	double	zC7WsxJ;
 	zC7WsxJ	=	-1142362962;
  unsigned short V7LOG;
@@ -167,7 +167,7 @@ int main(int argc, char** argv) {
     char    k0Rr6zq_6;
     k0Rr6zq_6    =    (char)-19296061;
 	unsigned char	gVw43t240;
-	gVw43t240	=	1286898904;
+	gVw43t240	=	(unsigned char)1286898904;
   unsigned short  An9NTdRRC;
   An9NTdRRC  =  615818908;
   long  X732xM23qR;

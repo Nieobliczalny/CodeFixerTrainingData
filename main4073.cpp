@@ -49,7 +49,7 @@ int main() {
   rX_M2_2R  =  (short)-854609015;
   tJ67Exm9  =  (short)-945745940;
   p0J906b  =  (short)-637462165;
-  YpII  =  -780228147;
+  YpII  =  (short)-780228147;
   UIFwmNW  =  -1150610978;
   Ypg0K8  =  -1196549030;
   l0Zq4I  =  -892150521;
@@ -75,7 +75,7 @@ Ypg0K8 = qWY7bO((short)663239822, 658587524, 884221316, (unsigned short)-6305102
 }
 }
 
-cout << "v3mdfLTa3" << h7ox7c_1b(Ypg0K8, L3p0oHbR0, s7mC9h6_V, tJ67Exm9, (char)200912666) << "hF6_fMM_" << qWY7bO(Ypg0K8, L3p0oHbR0, -1637417451, -2046371845) << q2p82szdz(-1826442, L3p0oHbR0, s7mC9h6_V) << endl;
+cout << "v3mdfLTa3" << h7ox7c_1b(Ypg0K8, L3p0oHbR0, s7mC9h6_V, tJ67Exm9, (char)200912666) << "hF6_fMM_" << qWY7bO(Ypg0K8, L3p0oHbR0, -1637417451, (unsigned short)-2046371845) << q2p82szdz(-1826442, L3p0oHbR0, s7mC9h6_V) << endl;
 
 ZUEa = (unsigned long)(lu2S4 * ZUEa);
 YpII = jOQdM & 189150066;
@@ -290,7 +290,7 @@ case 1:
 l0Zq4I = XJNg(-327585619, (short)1414655920, (unsigned char)-1550410093, (unsigned char)-1042379552, jOQdM);
 break;
 case 2:
-tJ67Exm9 = qWY7bO(-773441875, epZ99BTXb, -1299951822, YpII);
+tJ67Exm9 = qWY7bO((short)-773441875, epZ99BTXb, -1299951822, YpII);
 break;
 case 3:
 rX_M2_2R = (int)abs(p0J906b);

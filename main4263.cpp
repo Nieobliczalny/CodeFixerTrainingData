@@ -184,7 +184,7 @@ KMd569g1 = WIgh(Ty9hcn2579, (short)1167561361, 1645997590, C9jb57W9p, (short)130
 }
 else if (ixaWCq60g >= N79RE50)
 {
-tBW3laNghv = WIgh(Publ19, Dy7WXGS, p7DV7ie, 394138791, 1365735883);
+tBW3laNghv = WIgh(Publ19, Dy7WXGS, p7DV7ie, (char)394138791, 1365735883);
 }
 else if (a3AI > -1028577849)
 {
@@ -255,7 +255,7 @@ else
 {
 if ((uvz85 <= -1572604275) && (zOC_ != -1637094889))
 {
-a3AI = WIgh(1432245530, p7DV7ie, 209420565, (char)-169909229, -887748737) | QI6V9h4oJ;
+a3AI = WIgh(1432245530, p7DV7ie, 209420565, (char)-169909229, (short)-887748737) | QI6V9h4oJ;
 }
 else if (pu4sZ8dY_R > 1026653937)
 {
@@ -267,7 +267,7 @@ KMd569g1 = WIgh(jxL44mf, ixaWCq60g, 1368079852, (char)1417232948, (short)-188343
 }
 else
 {
-Vx4_10o = WIgh(Vx4_10o, Ys465qR, AB25jc, (char)1189412648, -725836114);
+Vx4_10o = WIgh(Vx4_10o, Ys465qR, AB25jc, (char)1189412648, (short)-725836114);
 }
 }
 }
@@ -321,7 +321,7 @@ tBW3laNghv = WIgh(-1834131699, (short)114513858, jxL44mf, (char)1441931757, k1C1
 }
 else if ((dwpx75Xe4m) || (MVOC42hdB & Dy7WXGS))
 {
-KMd569g1 = WIgh(711747306, (short)-619542181, oU83, -342376710, uvz85);
+KMd569g1 = WIgh(711747306, (short)-619542181, oU83, (char)-342376710, uvz85);
 }
 else if (I9NVX5o8s != KMd569g1)
 {
@@ -409,7 +409,7 @@ case 3:
 bKXFesKaw = Dj2zpd | jxL44mf;
 break;
 case 4:
-Br8k8Mrj57 = WIgh(-143052146, (short)-1405741932, pu4sZ8dY_R, 1753854751, -174091591);
+Br8k8Mrj57 = WIgh(-143052146, (short)-1405741932, pu4sZ8dY_R, (char)1753854751, -174091591);
 break;
 case 5:
 KMd569g1 = WIgh(1965403621, 1121716311, I9NVX5o8s, 986137099, pu4sZ8dY_R);
@@ -427,7 +427,7 @@ case 9:
 tBW3laNghv = WIgh(231029604, Ys465qR, -1239764184, Cw1W76ay, p7DV7ie);
 break;
 default:
-tBW3laNghv = WIgh(OTlCpZ, IOj2, a3AI, zOC_, 1490870185);
+tBW3laNghv = WIgh(OTlCpZ, IOj2, a3AI, zOC_, (short)1490870185);
 break;
 }
 }
@@ -439,7 +439,7 @@ if ((-267485032 / WIgh(OTlCpZ, IOj2, 648874050, zOC_, -656191493)) > 998376967)
 {
 std::cout << C9jb57W9p / KMd569g1 << std::endl;
 }
-KMd569g1 = WIgh(-1479547861, Ys465qR, -1808733313, 503465848, Br8k8Mrj57);
+KMd569g1 = WIgh(-1479547861, Ys465qR, -1808733313, (char)503465848, Br8k8Mrj57);
 if ((C_PssC) || (FbBzm > -251375076))
 {
 switch (d3x6nB)

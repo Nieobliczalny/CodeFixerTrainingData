@@ -603,7 +603,7 @@ RBd1 = BaG9535nx5(-1421031423, W2c8qI7Xj, (short)-1759983396, j1RfM, -228534109)
 }
 else if ((PM7CTwwwlO < -1196334507) && (ZE2uO & Hbvh))
 {
-kyZB = oRvTp(kyZB, E2f3PM, -881022587);
+kyZB = oRvTp(kyZB, E2f3PM, (unsigned short)-881022587);
 }
 else if (fmZfi_ZLO >= hiPF2EFD)
 {

@@ -17,7 +17,7 @@ int main(int argc, char** argv)
 	unsigned short	ohJH9d2	=	(unsigned short)1604333830;
     unsigned short int    p4FfEE    =    (unsigned short)-717421215;
   unsigned int  IKbnw  =  83836270;
-  unsigned char  c7_L6  =  -1070176112;
+  unsigned char  c7_L6  =  (unsigned char)-1070176112;
     long long    K2OMnE    =    0;
 	unsigned long	mm7b_9bpZ	=	-982387597;
     char    So_m    =    -2063082182;
@@ -50,7 +50,7 @@ int main(int argc, char** argv)
     int    Qox13x1hx    =    386744887;
     char    CqUybFi6W    =    (char)1528766447;
     unsigned char    r3x9g    =    (unsigned char)254082071;
-    short    w8jZ    =    2126391654;
+    short    w8jZ    =    (short)2126391654;
 	short	PM5X44L5	=	509878655;
   long  x_8HNc6  =  984676388;
     char    Pp47o    =    1094924508;
@@ -69,7 +69,7 @@ int main(int argc, char** argv)
   unsigned char  vG2FinC  =  (unsigned char)830972196;
  unsigned long uFzD = 2012763477;
   unsigned int  N_OfSj  =  -1861681006;
-	char	IHu603t5cN	=	2059873015;
+	char	IHu603t5cN	=	(char)2059873015;
     int    YWPXZTEG    =    0;
 	unsigned long	nNEP9	=	1029833461;
 	long double	ns6jr	=	1103049335;
@@ -85,7 +85,7 @@ int main(int argc, char** argv)
  double X2Tk1m = -1922690520;
  unsigned long B1bgv = 423553598;
     long    ZzRrHdjct5    =    -860939843;
-	short	BAZjzTR8	=	437837357;
+	short	BAZjzTR8	=	(short)437837357;
   unsigned short  aVc7  =  (unsigned short)-777209492;
     unsigned char    m_vkCp    =    -993758990;
 	short	iyUkYiMj1l	=	1502877807;
@@ -95,7 +95,7 @@ int main(int argc, char** argv)
 	unsigned short	xbH1V	=	(unsigned short)2058790643;
  long double o3I_h_8Ey = 1979917500;
  unsigned long K40c70 = -2023280030;
-	char	HI9ajZqh6P	=	791799521;
+	char	HI9ajZqh6P	=	(char)791799521;
     char    K7QJpT    =    0;
     double    LFrfD08Z    =    -1689119490;
  char UDXJasAX = (char)-1755735321;
@@ -106,7 +106,7 @@ int main(int argc, char** argv)
   char  zrXV  =  (char)-203890159;
 	long	G9wUb30r	=	-1402404345;
     unsigned long    UZ9fR0_fOq    =    -559047416;
- unsigned short Bt95e0 = 1383580897;
+ unsigned short Bt95e0 = (unsigned short)1383580897;
     long    oK96aEgnP    =    -1508053633;
     unsigned long long    A2330nJ    =    480276518;
  char uqQf = (char)1558130255;

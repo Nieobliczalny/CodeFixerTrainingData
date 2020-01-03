@@ -29,7 +29,7 @@ i++;
 }
 }
 
-std::cout << TChS0_9(E1145_4kcv, (unsigned short)-365353726, igB_, -313917396, confyrc) << qqgc9l3(E1145_4kcv, -720785016, igB_) << "Uk5tM1K_dF" << std::endl;
+std::cout << TChS0_9(E1145_4kcv, (unsigned short)-365353726, igB_, (unsigned short)-313917396, confyrc) << qqgc9l3(E1145_4kcv, -720785016, igB_) << "Uk5tM1K_dF" << std::endl;
 
 switch (b5v7)
 {

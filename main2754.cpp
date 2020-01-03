@@ -42,7 +42,7 @@ int main(int argc, char** argv)
 	A7_2Lk	=	(unsigned char)-579308394;
 	By337jA	=	(unsigned char)-1408236862;
 	cB939E18YJ	=	(unsigned char)-109584611;
-	s4X6wN0	=	-349889571;
+	s4X6wN0	=	(unsigned char)-349889571;
 	q0R5	=	-1482126127;
 	LK214xQg1	=	-206372629;
 	RbMgt51SB	=	-752364672;
@@ -52,7 +52,7 @@ int main(int argc, char** argv)
 	e85Q	=	(unsigned char)1505248717;
 	r3e_5tXz2	=	(unsigned char)-1254598268;
 	fuJQqxn8H	=	(unsigned char)1561404280;
-	O3qDx7f5	=	561331141;
+	O3qDx7f5	=	(unsigned char)561331141;
 	cfPd45Lv8K	=	1491273912;
 	Xr0X6i7k	=	268566538;
 
@@ -115,7 +115,7 @@ case 'b':
 O3qDx7f5 = oO_ZUBMP(-287165359, cfPd45Lv8K, (short)-658419077, fuJQqxn8H, IB9v95bK);
 break;
 case 'c':
-oIbm2W = TxCc((unsigned short)-1578614639, (short)665516735, -893217944, 367707194);
+oIbm2W = TxCc((unsigned short)-1578614639, (short)665516735, (unsigned short)-893217944, 367707194);
 break;
 case 'd':
 O3qDx7f5 = TxCc(sDvpQy27, -2124557829, G100, -1812564795);

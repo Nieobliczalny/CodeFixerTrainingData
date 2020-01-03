@@ -291,7 +291,7 @@ else
 {
 if (Vt212 > Lp5L_Imkn)
 {
-Ykm0r = R_SXK0(1359533328, -464806514, lox6hTxk0);
+Ykm0r = R_SXK0(1359533328, (unsigned char)-464806514, lox6hTxk0);
 }
 else
 {

@@ -62,7 +62,7 @@ int main() {
  int ADaxz;
  ADaxz = -1094316897;
 	unsigned char	Kbe9SH;
-	Kbe9SH	=	-1500715788;
+	Kbe9SH	=	(unsigned char)-1500715788;
   double  pkYI;
   pkYI  =  275294306;
     long    WbGBP62bs;
@@ -100,7 +100,7 @@ int main() {
 	float	Uny80q6bkJ;
 	Uny80q6bkJ	=	-1976024879;
   char  sz9kI;
-  sz9kI  =  205993969;
+  sz9kI  =  (char)205993969;
   unsigned char  x0PdRbq;
   x0PdRbq  =  (unsigned char)-1334803271;
     unsigned short int    m6hvXN5qlq;

@@ -30,7 +30,7 @@ int main(int argc, char** argv)
 	long long	su2WU8pV5b	=	2099435346;
     float    lKJo    =    391559258;
  short int mMJdM6 = 0;
-	unsigned short	p2m01	=	-240750677;
+	unsigned short	p2m01	=	(unsigned short)-240750677;
     unsigned long long    xS5R8raEf    =    -1975886903;
 	unsigned long	P6ohFmYq9	=	318321877;
   long double  qaj6Bdq7  =  -1990226344;
@@ -51,7 +51,7 @@ int main(int argc, char** argv)
   long  AI0s5  =  -1798359591;
   char  atH2_3R  =  (char)-621181312;
   unsigned long long  b6SLZG_W  =  -1756198133;
-	unsigned short int	rOoYB	=	1389733720;
+	unsigned short int	rOoYB	=	(unsigned short)1389733720;
 	double	Hi82	=	-1174024233;
 	long	ofbM6w49	=	452632858;
  long double ZA7JZg = -1734376213;
@@ -62,7 +62,7 @@ int main(int argc, char** argv)
     long long    x0lo6GvQ2S    =    -572306974;
 	unsigned short int	Zg_Ys9	=	(unsigned short)-297428051;
  unsigned int g7RoG6 = 54100831;
-  char  SOWioL  =  -821912669;
+  char  SOWioL  =  (char)-821912669;
 	long	yU38ys0c	=	686967279;
  long double Ga67KO_71 = 1657926263;
 	long long	n41uA6ac67	=	1282615602;
@@ -77,7 +77,7 @@ int main(int argc, char** argv)
 	unsigned char	fe8_z5	=	(unsigned char)-920173179;
 	long	ADGz_H_3	=	-1344061993;
 	short	G24Vx	=	0;
-  unsigned char  Z26Y8e94f5  =  -1398796576;
+  unsigned char  Z26Y8e94f5  =  (unsigned char)-1398796576;
  long FTGW4DV = 451586473;
 	unsigned long long	UduRWJK	=	-1547033070;
   unsigned long  F9UYl3  =  2044496634;
@@ -88,7 +88,7 @@ int main(int argc, char** argv)
  long double o20lD5w3 = 1954091368;
   long double  aP2W2a3EG_  =  699571606;
     unsigned short int    z66P2    =    (unsigned short)585132139;
- short me56dsk_H = 846875488;
+ short me56dsk_H = (short)846875488;
   long double  QL0l91dG  =  -630359371;
  unsigned char S1jqJ_X3 = -116290211;
     char    M_b0    =    932088192;
@@ -532,7 +532,7 @@ case 1:
 x2FE = QTmN2c_4((char)-1530385072, 1103535598);
 break;
 case 2:
-mz_PV25 = fC7__o144o(mz_PV25, -1629211589, -1458382842);
+mz_PV25 = fC7__o144o(mz_PV25, -1629211589, (char)-1458382842);
 break;
 case 3:
 m1XNyh2 = QTmN2c_4(m1XNyh2, mMJdM6);

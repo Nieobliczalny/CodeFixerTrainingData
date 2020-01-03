@@ -116,7 +116,7 @@ int main(int argc, char** argv) {
     unsigned short    k5p5Q;
     k5p5Q    =    (unsigned short)858516416;
 	short	EuaWy6YDc;
-	EuaWy6YDc	=	367433207;
+	EuaWy6YDc	=	(short)367433207;
  long double em3M784;
  em3M784 = -1620032782;
   double  I6AjU;

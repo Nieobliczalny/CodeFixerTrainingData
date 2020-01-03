@@ -93,7 +93,7 @@ int main(int argc, char** argv) {
  unsigned short int n8j5P44;
  n8j5P44 = (unsigned short)-1739306383;
     unsigned char    Y49wq;
-    Y49wq    =    -1461832365;
+    Y49wq    =    (unsigned char)-1461832365;
     unsigned int    Nxb_L3gEK5;
     Nxb_L3gEK5    =    -1574672483;
     double    iB4r04GM;
@@ -149,7 +149,7 @@ int main(int argc, char** argv) {
   unsigned long long  C_Mj;
   C_Mj  =  495500119;
 	char	QBquL_5Qu;
-	QBquL_5Qu	=	-78165983;
+	QBquL_5Qu	=	(char)-78165983;
     unsigned short int    Zr3KH0;
     Zr3KH0    =    0;
 	unsigned short	EL7M_AD;
@@ -167,7 +167,7 @@ int main(int argc, char** argv) {
   unsigned long  Iwz8w392ZQ;
   Iwz8w392ZQ  =  2002233394;
     unsigned short    atN685;
-    atN685    =    148514260;
+    atN685    =    (unsigned short)148514260;
  unsigned long WSrD9C6BH3;
  WSrD9C6BH3 = -989580447;
 	long double	E7i7ejZ5;
@@ -183,7 +183,7 @@ int main(int argc, char** argv) {
   short  cm3bG4y;
   cm3bG4y  =  (short)-1655509724;
     unsigned short int    Ko_R6;
-    Ko_R6    =    -592897702;
+    Ko_R6    =    (unsigned short)-592897702;
 	double	Dyls;
 	Dyls	=	-704608838;
  unsigned long npz3S4cc2;
@@ -227,7 +227,7 @@ int main(int argc, char** argv) {
     short    p7p0;
     p7p0    =    (short)1855109469;
 	char	iH2evM;
-	iH2evM	=	1329104786;
+	iH2evM	=	(char)1329104786;
 
 QS_ZO89t2S = (int)abs(Dyls);
 for (int i = 0; i < 7; ++i)
@@ -315,7 +315,7 @@ YD_SP2 ^= vme_;
 
 WSrD9C6BH3 <<= xnXN63ELo4;
 cout << V46v6wj_(AkRM) << n_iFDn5s((unsigned short)-973579447) << "A8S6D" << Z6bKbUs1O((unsigned char)-993525478, 1220664035, (unsigned short)-14540715) << endl;
-cout << Z6bKbUs1O(-196758642, iJt02CLm, QS_ZO89t2S) << V46v6wj_(-115596618) << mqvtYKn8r0 << endl;
+cout << Z6bKbUs1O((unsigned char)-196758642, iJt02CLm, QS_ZO89t2S) << V46v6wj_(-115596618) << mqvtYKn8r0 << endl;
 
 if (AYSQ576yG_ <= 1371717458)
 {

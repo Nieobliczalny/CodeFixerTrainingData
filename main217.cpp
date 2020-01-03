@@ -60,7 +60,7 @@ int main()
     unsigned short int    u852OCq;
     u852OCq    =    (unsigned short)-1048963298;
 	unsigned short int	lqH_bbX;
-	lqH_bbX	=	-1844380515;
+	lqH_bbX	=	(unsigned short)-1844380515;
  long FgB7;
  FgB7 = 1143448106;
 	char	LjMJzR0AP;
@@ -189,7 +189,7 @@ case 1:
 d7JK7R8 = Y_zgLqj41((unsigned char)-805533840, (unsigned short)-388397450);
 break;
 case 2:
-OD6z5u = Y_zgLqj41((unsigned char)915872286, -636314521);
+OD6z5u = Y_zgLqj41((unsigned char)915872286, (unsigned short)-636314521);
 break;
 case 3:
 bVq33n7_ = (int)ceil(BOP53);

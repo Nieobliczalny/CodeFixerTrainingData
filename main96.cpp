@@ -35,7 +35,7 @@ int main(void) {
   R4yC7nx8YN  =  (unsigned short)2005298303;
   XWxnL_f  =  (unsigned short)556547509;
   VWehq27U9M  =  (unsigned short)442425807;
-  IWAlFjS6  =  -360209047;
+  IWAlFjS6  =  (unsigned short)-360209047;
   A0ASl  =  1437784169;
   W_GG  =  569186686;
   O23qcz1  =  -1567454271;
@@ -45,7 +45,7 @@ int main(void) {
   So186  =  (unsigned short)-1787902442;
   c_Jdqy6o3  =  (unsigned short)418680337;
   o_UBx2  =  (unsigned short)-715522954;
-  Q3teZlzG9E  =  179550434;
+  Q3teZlzG9E  =  (unsigned short)179550434;
   j89cC7o9  =  -791402748;
   XVU4Nq  =  1820967487;
   Y0P85N8RI  =  1871517469;
@@ -55,7 +55,7 @@ int main(void) {
   lF_69g_2  =  (unsigned short)1634892103;
   DNJeKm29  =  (unsigned short)-2143084323;
   cLe_595  =  (unsigned short)-1950445651;
-  SbUUbN2t  =  1261344834;
+  SbUUbN2t  =  (unsigned short)1261344834;
   NL75P  =  2033094167;
   Nk31D5  =  1732539403;
   jS_xo_ABg8  =  1259316408;
@@ -103,7 +103,7 @@ dmS8P2omM++;
 }
 else if (cLe_595 > -1219710366)
 {
-XVU4Nq = e1_j25h((unsigned char)-1899368825, (unsigned char)2127731559, (unsigned short)-1734736179, -2105040801, 31715195) / 772514227;
+XVU4Nq = e1_j25h((unsigned char)-1899368825, (unsigned char)2127731559, (unsigned short)-1734736179, (unsigned short)-2105040801, 31715195) / 772514227;
 }
 else
 {
@@ -258,7 +258,7 @@ if (Nk31D5)
 {
 try
 {
-tC9O = e1_j25h((unsigned char)612094253, W_GG, (unsigned short)-18220335, (unsigned short)-477031321, 99125988);
+tC9O = e1_j25h((unsigned char)612094253, W_GG, (unsigned short)-18220335, (unsigned short)-477031321, (char)99125988);
 }
 catch (int& errorCode)
 {
@@ -342,7 +342,7 @@ case 3:
 tC9O = (int)abs(V2mlo514e);
 break;
 case 4:
-DNJeKm29 = eINQP(DNJeKm29, ZiC1WAU_01, E7oqS2, -1494185291);
+DNJeKm29 = eINQP(DNJeKm29, ZiC1WAU_01, E7oqS2, (short)-1494185291);
 break;
 case 5:
 XVU4Nq &= ZiC1WAU_01;
@@ -452,7 +452,7 @@ case 1:
 SbUUbN2t = ymBTpJiF((unsigned char)-1083876750, j89cC7o9, bV9MZOt, NL75P);
 break;
 case 2:
-bV9MZOt = e1_j25h((unsigned char)1454943916, jS_xo_ABg8, -2122923584, -1313276961, bV9MZOt);
+bV9MZOt = e1_j25h((unsigned char)1454943916, jS_xo_ABg8, (unsigned short)-2122923584, -1313276961, bV9MZOt);
 break;
 case 3:
 V2mlo514e = (int)abs(tC9O);

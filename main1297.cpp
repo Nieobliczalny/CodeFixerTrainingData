@@ -42,7 +42,7 @@ int main(int argc, char** argv)
   float  uO7x82M_  =  -11558619;
 	unsigned short int	YwJvv	=	(unsigned short)-209120113;
     unsigned long    O_RNK0U    =    -895213717;
-  unsigned short int  kg7q2n_P  =  -2006319866;
+  unsigned short int  kg7q2n_P  =  (unsigned short)-2006319866;
 	unsigned char	a6gPow2c	=	-1705212821;
  long BIUPDfI1vo = -1329574175;
     unsigned short int    DnIy_    =    (unsigned short)-1597639647;

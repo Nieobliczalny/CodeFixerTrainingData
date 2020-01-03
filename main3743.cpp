@@ -47,7 +47,7 @@ int main(void)
     short    F6HPR    =    (short)-999391704;
  long long zjYu = -404798630;
  unsigned char yVwD380 = (unsigned char)1946932615;
-    unsigned char    ZpAy5eD    =    -1574732420;
+    unsigned char    ZpAy5eD    =    (unsigned char)-1574732420;
 	long double	Cy1Zg	=	-1989304786;
     long    f25Sko    =    1783202744;
     long long    gItV    =    -609446127;
@@ -63,7 +63,7 @@ int main(void)
     unsigned long    I1ri0I0    =    299300498;
 	unsigned int	kPQ8O	=	-1513280739;
     long long    aIWal    =    -498811855;
-	unsigned short	m80WJ	=	171120553;
+	unsigned short	m80WJ	=	(unsigned short)171120553;
  long long eZ_0Im7 = 1600836123;
   short int  OPM38Ja  =  2086712728;
     int    Tq19H4_ha    =    -934834998;

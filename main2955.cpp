@@ -197,7 +197,7 @@ cout << rK_UNdZi(1730706712, h2B27f4D, F3mZlT, (short)-711893298) << oM98(hVR8ib
 switch (dd_22Lix_P)
 {
 case 'a':
-rCcJ40a0 = oM98((char)74444179, 721826709, dd_22Lix_P, CH_M0_59g3);
+rCcJ40a0 = oM98((char)74444179, (unsigned short)721826709, dd_22Lix_P, CH_M0_59g3);
 break;
 case 'b':
 h2B27f4D *= F3mZlT;
@@ -254,7 +254,7 @@ case 3:
 F3mZlT = oM98((char)-1974331158, rCcJ40a0, (unsigned short)-674246448, (short)-1222259895);
 break;
 case 4:
-rCcJ40a0 = oM98(Cxhg, rCcJ40a0, zTG83, -1735427994);
+rCcJ40a0 = oM98(Cxhg, rCcJ40a0, zTG83, (short)-1735427994);
 break;
 case 5:
 dd_22Lix_P = rK_UNdZi(rCcJ40a0, -1779353415, 1135788666, b583n__h_9);

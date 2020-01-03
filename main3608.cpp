@@ -307,7 +307,7 @@ case 'c':
 nDQgNg = (Y4oTei1xp & pXj0Ln3zX) ? R6dkI0 : -616260639;
 break;
 case 'd':
-Ce4ARutJT = Q0x3sXJD((short)-996851386, mi8S5, -1588723068, -1944046249, plO8_j1);
+Ce4ARutJT = Q0x3sXJD((short)-996851386, mi8S5, -1588723068, (short)-1944046249, plO8_j1);
 break;
 case 'e':
 A96w5 = plO8_j1 + 472683820;

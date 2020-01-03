@@ -49,7 +49,7 @@ int main(void) {
     unsigned int    D2TiS;
     D2TiS    =    1865382670;
 	short int	VNe9MwaJTY;
-	VNe9MwaJTY	=	-1297319463;
+	VNe9MwaJTY	=	(short)-1297319463;
     double    Op38;
     Op38    =    -1393539352;
   unsigned short int  OcDA5Wg0W;

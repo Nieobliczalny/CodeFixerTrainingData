@@ -218,7 +218,7 @@ int main() {
 	int	D028R;
 	D028R	=	810939363;
     unsigned short    GR5Y_MUp_;
-    GR5Y_MUp_    =    -70672368;
+    GR5Y_MUp_    =    (unsigned short)-70672368;
     unsigned short    nU96h22ZlA;
     nU96h22ZlA    =    (unsigned short)-1980239624;
  short J24PWQ4_;
@@ -228,7 +228,7 @@ int main() {
  int bc8J65w5uf;
  bc8J65w5uf = 1189871629;
  unsigned short E32ghN;
- E32ghN = 832739285;
+ E32ghN = (unsigned short)832739285;
   char  C74N46;
   C74N46  =  (char)-776757727;
     double    nR18l7D;

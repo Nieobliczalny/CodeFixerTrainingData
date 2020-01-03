@@ -61,7 +61,7 @@ case 2:
 G_C8 <<= tBEoQ3tTXo;
 break;
 case 3:
-BPk5i8 = o14cR5G(-315625194, (unsigned short)314779421, 1597669755, n0x2J, 1565603550);
+BPk5i8 = o14cR5G(-315625194, (unsigned short)314779421, (unsigned short)1597669755, n0x2J, 1565603550);
 break;
 case 4:
 VbZFrv51fv <<= OIa25_;
@@ -274,7 +274,7 @@ while (j < 4);
 j66SL1 = C9dr((unsigned char)-258858991, BPk5i8);
 for (int i = 9; i >= 0; i--)
 {
-X3O4v1av = o14cR5G(-703689115, (unsigned short)-2005911004, -2017627574, 1432082452, -183134589) - 1275344072;
+X3O4v1av = o14cR5G(-703689115, (unsigned short)-2005911004, (unsigned short)-2017627574, 1432082452, -183134589) - 1275344072;
 }
 
 V0Xrel = o14cR5G(101698226, (unsigned short)1975708985, -1118477672, M8xx0, pcOE);

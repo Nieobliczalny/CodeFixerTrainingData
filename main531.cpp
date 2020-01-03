@@ -151,7 +151,7 @@ case 'G':
 VNQcE = (int)abs(XXVTi1v_3N);
 break;
 }
-std::cout << J6yI((char)-945197275, k8R2, uziF) << b5686_AGDy(250689989, k8R2, 1691468161, 341420421) << std::endl;
+std::cout << J6yI((char)-945197275, k8R2, uziF) << b5686_AGDy((short)250689989, k8R2, 1691468161, 341420421) << std::endl;
 cB4zvTTO = O0d5O60(cB4zvTTO, vk08rcE_, -1480902711, M0L68, D5344aJh);
 if (bFhGx3P > 182864045)
 {
@@ -276,7 +276,7 @@ case 4:
 Pgn3L0G87F = (int)floor(XOlB);
 break;
 default:
-bFhGx3P = J6yI((char)-217163472, (unsigned short)-1883244079, 521974900);
+bFhGx3P = J6yI((char)-217163472, (unsigned short)-1883244079, (short)521974900);
 break;
 }
 }
@@ -329,7 +329,7 @@ a80_ii5Nt7 = (long double)(x_S27UZ);
 
 try
 {
-std::cout << O0d5O60(a80_ii5Nt7, (short)-495173671, 376047698, 627617442, 1700185333) << gL5dRu_(a80_ii5Nt7, BZzUDFF) << std::endl;
+std::cout << O0d5O60(a80_ii5Nt7, (short)-495173671, 376047698, (unsigned short)627617442, 1700185333) << gL5dRu_(a80_ii5Nt7, BZzUDFF) << std::endl;
 }
 catch (int& errorCode)
 {
@@ -341,7 +341,7 @@ rYJzmc = (int)floor(tVRFLQC0Y);
 std::cout << QuILRq7mB((short)1221595685, (unsigned char)-1373673175, 1270014041, 886923565, o5D26) << gL5dRu_(a80_ii5Nt7, BZzUDFF) << std::endl;
 for (int i = 9; i >= 0; i--)
 {
-V_zWM = QuILRq7mB(V_zWM, (unsigned char)1651334511, -1039428377, -546722227, 2064783469);
+V_zWM = QuILRq7mB(V_zWM, (unsigned char)1651334511, (unsigned char)-1039428377, -546722227, 2064783469);
 }
 if (ly4_ != x0tDM3)
 {
@@ -382,7 +382,7 @@ M0L68 = O0d5O60(M0L68, (short)2012264065, 231824501, (unsigned short)-652544774,
 }
 else
 {
-std::cout << O0d5O60(M0L68, -1560412523, 1307490058, D5344aJh, KgThr84P) << gL5dRu_(M0L68, -1990482972) << "xQffaLh" << D5344aJh << std::endl;
+std::cout << O0d5O60(M0L68, (short)-1560412523, 1307490058, D5344aJh, KgThr84P) << gL5dRu_(M0L68, -1990482972) << "xQffaLh" << D5344aJh << std::endl;
 }
 }
 else
@@ -403,7 +403,7 @@ case 2:
 F3XLAxs0l = (int)floor(DPf29h);
 break;
 case 3:
-YA2LLYvM3C = J6yI((char)436802295, HCBvob_pIX, -1753232906);
+YA2LLYvM3C = J6yI((char)436802295, HCBvob_pIX, (short)-1753232906);
 break;
 case 4:
 KgThr84P = uziF * 1453950718;
@@ -418,7 +418,7 @@ case 7:
 KgThr84P = gL5dRu_((short)972045016, La15);
 break;
 default:
-YA2LLYvM3C = J6yI(179112882, -1979098587, 295927677);
+YA2LLYvM3C = J6yI((char)179112882, -1979098587, 295927677);
 break;
 }
 j++;

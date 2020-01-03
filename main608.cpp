@@ -53,7 +53,7 @@ int main(int argc, char** argv) {
  short o8fZ3a4;
  o8fZ3a4 = (short)1160504830;
  unsigned char u9wE4;
- u9wE4 = 933488050;
+ u9wE4 = (unsigned char)933488050;
     long double    jaTu;
     jaTu    =    -1245958885;
 	unsigned long long	f0v528_;
@@ -71,7 +71,7 @@ int main(int argc, char** argv) {
  unsigned int z0R63yX3t;
  z0R63yX3t = -2015230726;
   unsigned short int  c8_E5nMa4;
-  c8_E5nMa4  =  -1053142940;
+  c8_E5nMa4  =  (unsigned short)-1053142940;
   double  s9yun;
   s9yun  =  182842971;
   char  S8mSQ0z;
@@ -95,7 +95,7 @@ int main(int argc, char** argv) {
   short  bvsMX;
   bvsMX  =  (short)1112718134;
     unsigned short    Qb56;
-    Qb56    =    363732493;
+    Qb56    =    (unsigned short)363732493;
  short int Z0cxPI31as;
  Z0cxPI31as = 2033480258;
  unsigned short int jb5k_98s21;

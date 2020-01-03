@@ -65,7 +65,7 @@ int main(void)
  unsigned char Uhhf;
  Uhhf = (unsigned char)-119572596;
     short    c11_9soQ;
-    c11_9soQ    =    2013789369;
+    c11_9soQ    =    (short)2013789369;
   unsigned long long  uFtuD;
   uFtuD  =  -180393661;
   unsigned short int  LlTkBwSYg;
@@ -103,7 +103,7 @@ int main(void)
   long double  EJ8QM_Kz;
   EJ8QM_Kz  =  -743789200;
   short  m6I82;
-  m6I82  =  259562123;
+  m6I82  =  (short)259562123;
 	short	J_DgqBUebu;
 	J_DgqBUebu	=	(short)1556413831;
   unsigned char  Yunn1u295o;
@@ -113,7 +113,7 @@ int main(void)
   char  l2c30OMg36;
   l2c30OMg36  =  -45080650;
     unsigned short    exct;
-    exct    =    1078739516;
+    exct    =    (unsigned short)1078739516;
  unsigned short GS4O8xMs2c;
  GS4O8xMs2c = (unsigned short)-1930106362;
 	short	UNx5I6p;
@@ -170,7 +170,7 @@ case 3:
 UI11EQ6x = Antyq(GS4O8xMs2c, (unsigned short)-2120420757, (unsigned short)-1999572649);
 break;
 case 4:
-QFGN8 = Antyq(177371275, -229409201, OOb6_YOtz);
+QFGN8 = Antyq((unsigned short)177371275, -229409201, OOb6_YOtz);
 break;
 case 5:
 QKzR719Vp = (int)floor(oRNY);
@@ -305,7 +305,7 @@ case 1:
 B_wlhIuY = (int)abs(DIwYy);
 break;
 case 2:
-QFGN8 = Antyq((unsigned short)772753712, 1357380968, 1614717987);
+QFGN8 = Antyq((unsigned short)772753712, (unsigned short)1357380968, 1614717987);
 break;
 case 3:
 w_UT++;

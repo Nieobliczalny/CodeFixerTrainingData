@@ -26,7 +26,7 @@ int main()
 	short int	YxDU8IFDI7	=	(short)76863577;
   unsigned int  el79S5DQP  =  -392417695;
 	short	t7P318Zt0Q	=	(short)-447183333;
-  char  b6BVxf  =  2146169521;
+  char  b6BVxf  =  (char)2146169521;
  unsigned short int f_G15M = 49127363;
   float  zVZaOf  =  1389785349;
     unsigned int    qjxw0U9qFN    =    845296722;
@@ -39,7 +39,7 @@ int main()
 	unsigned short int	xioe6pX2E	=	(unsigned short)-599257768;
   short  IlRE88MM  =  (short)-28467145;
  unsigned int OH0U_dt2 = -305817151;
-	unsigned short	aB41ZsC	=	910264743;
+	unsigned short	aB41ZsC	=	(unsigned short)910264743;
 	long	M63_MuS2z	=	1167749928;
 	unsigned long long	Tz1Gzl	=	1663460689;
     unsigned int    jvV5Ld    =    1348324639;

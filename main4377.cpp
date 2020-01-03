@@ -499,7 +499,7 @@ case 3:
 yWS2j--;
 break;
 case 4:
-bkNk = mm0H016PGp(-21450152, esTF, 1335284031, orBT7V);
+bkNk = mm0H016PGp((unsigned short)-21450152, esTF, 1335284031, orBT7V);
 break;
 case 5:
 nrRmD5nH_ = kfigN();

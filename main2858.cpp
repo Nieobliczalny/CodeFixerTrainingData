@@ -16,7 +16,7 @@ int main(int argc, char** argv) {
     unsigned short int    cR9MU0U    =    (unsigned short)1324950130;
     unsigned char    drO_97PBR    =    (unsigned char)1423854181;
  unsigned long long P8_L_o = -971992399;
-    short    Ga1Q    =    -2100229007;
+    short    Ga1Q    =    (short)-2100229007;
 	long	i016XyKs	=	1187971794;
     unsigned long    r0gk    =    1200260982;
   char  hdq9Slix  =  -1408826807;
@@ -27,7 +27,7 @@ int main(int argc, char** argv) {
   short int  XS6O8hi6  =  (short)516587484;
  short int Lj_0 = 0;
     short int    Mu04CkUd4m    =    (short)-532796995;
-	short	qUVu7	=	-1002365099;
+	short	qUVu7	=	(short)-1002365099;
 	char	THk4_7	=	-543081864;
 	unsigned int	JBD6X	=	1030087289;
 	unsigned short int	j_C3G	=	1403989997;
@@ -71,7 +71,7 @@ int main(int argc, char** argv) {
     long    g9ap    =    0;
  float VZsgd = 1769205780;
     unsigned short    T7eFj    =    (unsigned short)-1932431933;
-	char	emN9WN	=	-156206530;
+	char	emN9WN	=	(char)-156206530;
  unsigned long long hinU0Y = 0;
  unsigned long long bV_4O = 1828141427;
     short int    N8cX    =    (short)-838343153;
@@ -187,7 +187,7 @@ COnF5ki8B5 /= 1376454148;
 N8cX |= emN9WN;
 if ((eU67Q) || (peffj0fE > Ron5))
 {
-std::cout << d9_oG((char)813517551, -1392313660, (short)1248158489, (unsigned char)504194475) << "Qme_wnaMH" << EWpG() << hinU0Y << d9_oG(1860446738, p78Yyw5R2Y, to8UG, 815510407) << std::endl;
+std::cout << d9_oG((char)813517551, -1392313660, (short)1248158489, (unsigned char)504194475) << "Qme_wnaMH" << EWpG() << hinU0Y << d9_oG((char)1860446738, p78Yyw5R2Y, to8UG, 815510407) << std::endl;
 }
 else
 {
@@ -209,7 +209,7 @@ std::cout << d9_oG((char)1135170214, 600430944, to8UG, p78Yyw5R2Y) << voaXH << d
 int i = 5;
 while (i >= 0)
 {
-std::cout << "Wea61p7B" << d9_oG(U4v4F46i3, 2077555854, to8UG, p78Yyw5R2Y) << d9_oG((char)2144733045, i016XyKs, (short)-2093001653, -2057239483) << std::endl;
+std::cout << "Wea61p7B" << d9_oG(U4v4F46i3, 2077555854, to8UG, p78Yyw5R2Y) << d9_oG((char)2144733045, i016XyKs, (short)-2093001653, (unsigned char)-2057239483) << std::endl;
 i--;
 }
 }

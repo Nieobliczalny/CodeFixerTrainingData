@@ -116,7 +116,7 @@ std::cout << "i9B8uuT" << ygKSO((char)-1455800863, bAImk9M, 875322556) << std::e
 
 std::cout << "Ry9Jg" << AIRJG << rG_Lx0Y2KH(z2QnEvFGZ, (short)2006013183, O7eGgU_, pdbmCj0w) << ygKSO(z2QnEvFGZ, (short)2042120270, O7eGgU_) << "wmP1m0flwd" << std::endl;
 
-std::cout << ygKSO(z2QnEvFGZ, 1749296022, -1295407318) << bAImk9M << std::endl;
+std::cout << ygKSO(z2QnEvFGZ, (short)1749296022, -1295407318) << bAImk9M << std::endl;
 
 std::cout << "x35cf2ySb" << SAs4RS4Qp() << t93f << std::endl;
 
@@ -211,7 +211,7 @@ if ((t93f > -1102259466) || (t93f >= 1376879159))
 switch (bAImk9M)
 {
 case 0:
-S2B_w = ygKSO((char)-1082621290, 1618379708, e3_Ntg);
+S2B_w = ygKSO((char)-1082621290, (short)1618379708, e3_Ntg);
 break;
 }
 }
@@ -254,7 +254,7 @@ yBmW2EpXQ7 &= 392646127;
 break;
 case 'f':
 case 'F':
-EbdFz = rG_Lx0Y2KH((short)714966214, -100232134, wjKbKP, t93f);
+EbdFz = rG_Lx0Y2KH((short)714966214, (short)-100232134, wjKbKP, t93f);
 break;
 case 'g':
 case 'G':

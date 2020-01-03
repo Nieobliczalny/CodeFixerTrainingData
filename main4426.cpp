@@ -40,7 +40,7 @@ case 'c':
 z5sm = b_nxo((short)1467873053, O9cJO_);
 break;
 case 'd':
-slqLJ35q = (xV0ep != 1488127587) ? hxei : 118972465;
+slqLJ35q = (xV0ep != 1488127587) ? hxei : (char)118972465;
 break;
 case 'e':
 z5sm = b_nxo(eBsu2, (unsigned short)1087776612);

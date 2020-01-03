@@ -35,7 +35,7 @@ int main(void) {
  short JgjYx = (short)-1049901908;
   unsigned short int  Jz4q7kY  =  (unsigned short)-2003952754;
  int Hh7oJ = 1577078699;
-    unsigned short int    mjkZT946_    =    635099232;
+    unsigned short int    mjkZT946_    =    (unsigned short)635099232;
     unsigned long    S1EhFgjH    =    -1897815114;
     short    zJ1z    =    -715898367;
  long long LQ3HkFJ6Z = -1142015721;
@@ -533,7 +533,7 @@ case 6:
 Hh7oJ /= 219858882;
 break;
 case 7:
-ipzi_RJ8l = G54x0(424460491);
+ipzi_RJ8l = G54x0((char)424460491);
 break;
 default:
 ipzi_RJ8l |= mjkZT946_;

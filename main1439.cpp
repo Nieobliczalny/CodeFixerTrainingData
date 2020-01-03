@@ -435,7 +435,7 @@ case 'h':
 gKRsvC = eV0ad_(gKRsvC, (unsigned char)-1072346474, (short)137537442, (char)-785139785, pmXbD);
 break;
 case 'i':
-D8efi5Q = eV0ad_(gKRsvC, UVK4j4Zt1, aj2lln, 139344499, 1687586409) & Im88IStnOk;
+D8efi5Q = eV0ad_(gKRsvC, UVK4j4Zt1, aj2lln, (char)139344499, 1687586409) & Im88IStnOk;
 break;
 }
 }

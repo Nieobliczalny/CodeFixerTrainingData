@@ -68,7 +68,7 @@ int main(void)
 	short	n7be0Z9_D;
 	n7be0Z9_D	=	(short)-191357296;
 	short	uC9Hq;
-	uC9Hq	=	-1903752419;
+	uC9Hq	=	(short)-1903752419;
   char  CTu0_L6t;
   CTu0_L6t  =  0;
   unsigned int  mqn75fZ;
@@ -96,7 +96,7 @@ int main(void)
  short rcjEI;
  rcjEI = (short)41397564;
     unsigned char    dJPTMZ;
-    dJPTMZ    =    -492467806;
+    dJPTMZ    =    (unsigned char)-492467806;
   unsigned int  Y6i9FU;
   Y6i9FU  =  -1530729692;
     long double    q4urp_KF08;

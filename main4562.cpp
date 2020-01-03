@@ -25,7 +25,7 @@ int main()
   LVBuJeZ  =  (char)-439729004;
   Q7CWj  =  (char)-1596988461;
   h0Iqy  =  (char)1939426257;
-  U6BU79  =  -1285497340;
+  U6BU79  =  (char)-1285497340;
   ie5Xls  =  -1452379718;
   qJN9A_SW  =  -211193922;
   Qz_x0r__07  =  1003935422;
@@ -35,7 +35,7 @@ int main()
   RUS77BPoC0  =  (char)1209820772;
   C212_  =  (char)-382966646;
   nnk_G  =  (char)923478165;
-  Lw_7RZ2QG  =  -332163316;
+  Lw_7RZ2QG  =  (char)-332163316;
 
 {
 int i = 2;

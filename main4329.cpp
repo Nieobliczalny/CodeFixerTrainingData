@@ -54,7 +54,7 @@ int main(void) {
  char kUlWGP;
  kUlWGP = (char)2061550660;
     unsigned short int    J6i92q2L5;
-    J6i92q2L5    =    -172921745;
+    J6i92q2L5    =    (unsigned short)-172921745;
     int    xaRs7IGk;
     xaRs7IGk    =    2014347842;
     double    Okk6;
@@ -132,7 +132,7 @@ int main(void) {
  unsigned short a3Or;
  a3Or = (unsigned short)389621052;
   unsigned short int  DIMN2S8DNM;
-  DIMN2S8DNM  =  831161144;
+  DIMN2S8DNM  =  (unsigned short)831161144;
  unsigned short int sgM9;
  sgM9 = (unsigned short)-1129154341;
 	char	f7Ie;

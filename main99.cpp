@@ -50,7 +50,7 @@ int main()
     char    D1t4;
     D1t4    =    (char)194412546;
  short int IMD19SqD;
- IMD19SqD = 1193437094;
+ IMD19SqD = (short)1193437094;
   int  fq96zp4a;
   fq96zp4a  =  1407840519;
     short int    Ue473e4472;

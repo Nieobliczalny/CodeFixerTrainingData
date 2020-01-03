@@ -188,7 +188,7 @@ do
 ++i;
 for (int j = 6; j >= 0; j--)
 {
-sS4BCb = lzq7xv4oo(sS4BCb, (unsigned char)-408073345, (char)-2105056783, 1958827069);
+sS4BCb = lzq7xv4oo(sS4BCb, (unsigned char)-408073345, (char)-2105056783, (unsigned short)1958827069);
 }
 }
 while (i < 9);

@@ -97,7 +97,7 @@ int main(void) {
 	double	bhJcR;
 	bhJcR	=	-823690558;
   char  xvkc8PG1_o;
-  xvkc8PG1_o  =  -710837995;
+  xvkc8PG1_o  =  (char)-710837995;
  short m5ZcZPG;
  m5ZcZPG = (short)-1949247272;
     unsigned long long    Q6kwI3;

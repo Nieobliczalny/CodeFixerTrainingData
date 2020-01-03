@@ -43,7 +43,7 @@ int main(int argc, char** argv)
  float F6__g = -319729944;
  short int gba878KTPB = (short)-936816197;
   unsigned short  WmErvex  =  (unsigned short)456333806;
- unsigned short int uL1Hwz8DBQ = -921016500;
+ unsigned short int uL1Hwz8DBQ = (unsigned short)-921016500;
 	unsigned long	fk6U_zn5Bn	=	935563565;
   unsigned short int  AV_B92CmxR  =  (unsigned short)1324243722;
     long    lUwnGJl1    =    -2141431376;
@@ -61,7 +61,7 @@ int main(int argc, char** argv)
   float  ZqkGyg  =  424524793;
     short int    O5fQF4qc6v    =    (short)553576636;
 	unsigned short int	WTq8e	=	(unsigned short)-1274191551;
-    unsigned short int    tam7g4zq6_    =    -1575258000;
+    unsigned short int    tam7g4zq6_    =    (unsigned short)-1575258000;
  short int wVE7N86t = (short)-654651690;
 	long double	dkhRbA_	=	-779956153;
 	unsigned long long	br6B	=	292971773;
@@ -77,7 +77,7 @@ int main(int argc, char** argv)
 	unsigned int	sZT99tt	=	-525887801;
 	long	EleE	=	2002943381;
 	unsigned char	k0AZ71	=	(unsigned char)-2125574337;
-	unsigned char	k6195	=	1854005360;
+	unsigned char	k6195	=	(unsigned char)1854005360;
     unsigned short    t4D55X50T    =    -2134637002;
 	unsigned char	J7Q2Lt	=	1509649965;
 
@@ -216,7 +216,7 @@ case 5:
 q232_ = (int)floor(ZqkGyg);
 break;
 case 6:
-ZqkGyg = j8_tbl(717080225, OsJ3GDG0DD, -390447308, -633643338, k6195);
+ZqkGyg = j8_tbl((unsigned short)717080225, OsJ3GDG0DD, -390447308, -633643338, k6195);
 break;
 case 7:
 oS70t = (int)floor(F6__g);

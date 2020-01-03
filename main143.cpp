@@ -38,7 +38,7 @@ int main(int argc, char** argv) {
     unsigned short    x6_d5lm;
     x6_d5lm    =    (unsigned short)-65052362;
 	short	zr41X6;
-	zr41X6	=	-1959546396;
+	zr41X6	=	(short)-1959546396;
     unsigned long    m266e;
     m266e    =    -1630315317;
 	unsigned int	bg3H3;
@@ -70,7 +70,7 @@ int main(int argc, char** argv) {
  unsigned short X5Qb8eN;
  X5Qb8eN = (unsigned short)1501740445;
   short int  f2gafcn;
-  f2gafcn  =  -648130884;
+  f2gafcn  =  (short)-648130884;
     unsigned int    UDGU10;
     UDGU10    =    -2005886303;
     unsigned long    RQ81y;
@@ -126,7 +126,7 @@ int main(int argc, char** argv) {
   unsigned int  ikW8D36k;
   ikW8D36k  =  568991272;
   unsigned char  K8x7d_I;
-  K8x7d_I  =  377086312;
+  K8x7d_I  =  (unsigned char)377086312;
   long double  qOkh5k_04_;
   qOkh5k_04_  =  -1207892217;
  unsigned int f_1S3TNN;

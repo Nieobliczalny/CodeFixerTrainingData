@@ -95,7 +95,7 @@ int main()
  unsigned short Hvx649y;
  Hvx649y = (unsigned short)-1059225713;
   short int  pGdWK7Pg6;
-  pGdWK7Pg6  =  -371787019;
+  pGdWK7Pg6  =  (short)-371787019;
     unsigned short int    aIv0;
     aIv0    =    -119673103;
 	char	iwgA67LM;
@@ -111,7 +111,7 @@ int main()
 	short int	LuEAMu;
 	LuEAMu	=	(short)-796064073;
  char Ls848Ey;
- Ls848Ey = -55885592;
+ Ls848Ey = (char)-55885592;
     unsigned int    BRTp74;
     BRTp74    =    1949621971;
  float W3T8K;

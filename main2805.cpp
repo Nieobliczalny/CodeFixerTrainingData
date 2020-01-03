@@ -137,7 +137,7 @@ qhv2x_ = rdKYz(qhv2x_, -1997606720, -144739614, -1712174464);
 }
 else
 {
-kwd7Yk9 = dD7vtd((unsigned short)-1907526825, Jl6tBSx8aX, -420263035, -1457794990, -513862476);
+kwd7Yk9 = dD7vtd((unsigned short)-1907526825, Jl6tBSx8aX, (unsigned short)-420263035, -1457794990, -513862476);
 }
 }
 catch (int& errorCode)

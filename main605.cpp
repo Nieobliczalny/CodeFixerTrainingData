@@ -31,7 +31,7 @@ int main(int argc, char** argv) {
  unsigned short int j4l1P = (unsigned short)555674139;
  unsigned long hmlm = -1764479281;
 	unsigned long	onR__2Z_O	=	976131273;
-  unsigned short int  B04ZR9Q4_2  =  -2146469752;
+  unsigned short int  B04ZR9Q4_2  =  (unsigned short)-2146469752;
     short int    vnvae6JS    =    853759592;
 	short	Bt9_4	=	25598720;
   float  hTCZSx90  =  45746789;
@@ -46,7 +46,7 @@ int main(int argc, char** argv) {
 	long double	KReh0	=	-1434909283;
     long double    ddqxo68    =    -267802430;
     short    P5Fry_z5    =    0;
-    short int    Jl5tWX4    =    1808405817;
+    short int    Jl5tWX4    =    (short)1808405817;
 	unsigned short	XfO0	=	(unsigned short)125059648;
   long long  Ib_DgzGD  =  -1751881826;
     short    x393Pg_l1_    =    (short)53644948;
@@ -63,7 +63,7 @@ int main(int argc, char** argv) {
 	long double	C2y7p1ug9	=	48879546;
 	unsigned short	B2_sQA	=	(unsigned short)1814228812;
  char Crx6 = (char)718887465;
-  short  C28J3IW  =  1666879877;
+  short  C28J3IW  =  (short)1666879877;
 
 switch (C28J3IW)
 {
@@ -349,7 +349,7 @@ case 'b':
 Ib_DgzGD = OFo0d_uI(96933516, qQPBp4T7, -1403475853, (char)1307304125, -1899508117);
 break;
 case 'c':
-cs9DFB76_1 = mi_832(-388520946, 776782322, -15792076, vnvae6JS);
+cs9DFB76_1 = mi_832(-388520946, 776782322, (unsigned short)-15792076, vnvae6JS);
 break;
 case 'd':
 C28J3IW = KaHQA6QDg(1848345704);

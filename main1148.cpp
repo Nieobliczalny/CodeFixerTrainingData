@@ -22,7 +22,7 @@ int main(void)
   float  qB20  =  -452097098;
   unsigned short  Djs5v  =  (unsigned short)-2082207072;
   short int  O9Yg  =  (short)623512186;
-    char    Sd7z9v    =    -974629050;
+    char    Sd7z9v    =    (char)-974629050;
  unsigned short zIjK07d = 0;
   unsigned char  TOmB  =  -1959262969;
 	short int	Ijc_89p	=	-827376084;

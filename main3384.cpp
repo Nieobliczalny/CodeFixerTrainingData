@@ -127,7 +127,7 @@ else if (if63KP9J2 > Wl65CofC6O)
 switch (mAKjsqD6W)
 {
 case 'a':
-r173ti13q = Om2366T1((unsigned char)472868077, 915955697, sN2_mn);
+r173ti13q = Om2366T1((unsigned char)472868077, (unsigned short)915955697, sN2_mn);
 break;
 case 'b':
 Wl65CofC6O = yokfo0S();

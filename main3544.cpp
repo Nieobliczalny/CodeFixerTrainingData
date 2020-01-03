@@ -33,7 +33,7 @@ int main()
     char    C7oQqS7YE;
     C7oQqS7YE    =    0;
  unsigned char J_LdVZ48;
- J_LdVZ48 = 1044040663;
+ J_LdVZ48 = (unsigned char)1044040663;
     double    Sek_ba7iM;
     Sek_ba7iM    =    -11408987;
     short    ZNrOl21ua;

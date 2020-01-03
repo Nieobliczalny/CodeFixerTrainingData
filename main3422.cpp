@@ -146,7 +146,7 @@ int main()
 	short int	h8mw2TW;
 	h8mw2TW	=	(short)378084137;
  unsigned short int ugiB_3H;
- ugiB_3H = 205381523;
+ ugiB_3H = (unsigned short)205381523;
 	char	vcCFj0d1;
 	vcCFj0d1	=	(char)624408067;
   int  zi9h9_D;

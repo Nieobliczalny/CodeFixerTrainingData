@@ -64,7 +64,7 @@ int main(int argc, char** argv)
     unsigned char    GcV9nHUVh;
     GcV9nHUVh    =    (unsigned char)297208194;
  char XKVBAP;
- XKVBAP = -876716898;
+ XKVBAP = (char)-876716898;
  float fBBI;
  fBBI = -814898222;
  float b05gvE2ZL;
@@ -214,7 +214,7 @@ Zp7p253t = IRtR2SDt();
 }
 else
 {
-cout << MZ_06IQu2(Zp7p253t, (unsigned short)1930092552) << MZ_06IQu2(-1128735724, (unsigned short)-956684651) << "pJC230" << R7WsK((short)-1862066759, -1076427838, tKN_) << endl;
+cout << MZ_06IQu2(Zp7p253t, (unsigned short)1930092552) << MZ_06IQu2(-1128735724, (unsigned short)-956684651) << "pJC230" << R7WsK((short)-1862066759, (char)-1076427838, tKN_) << endl;
 }
 }
 catch (int& errorCode)

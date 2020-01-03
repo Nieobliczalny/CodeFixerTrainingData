@@ -47,7 +47,7 @@ int main()
     double    N85F4L_it    =    1355975740;
  int x1EYI08 = -721205718;
     unsigned short int    wqiGKhj9a    =    (unsigned short)-2014114582;
-    unsigned char    a9016    =    -593716952;
+    unsigned char    a9016    =    (unsigned char)-593716952;
     float    F34XN_8uAu    =    828940512;
 	unsigned short int	M2w4	=	-1677561291;
  unsigned short int RahQ9W2SW = 1618445426;
@@ -64,7 +64,7 @@ int main()
     unsigned long long    tnrO5    =    -1529108403;
     unsigned short    ul1QX    =    (unsigned short)620900866;
  long long ONJj = 86946951;
-    short int    MenD9_Fb    =    -1424834667;
+    short int    MenD9_Fb    =    (short)-1424834667;
   float  h9eOx0  =  125321782;
   unsigned int  N5Jp  =  -678431268;
  int S7o2 = -1636508684;

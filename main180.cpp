@@ -42,7 +42,7 @@ int main(void)
   double  Z6T3  =  881393999;
 	char	H5LOy20K_1	=	(char)1156449771;
   float  dHJX4  =  -1008950182;
- short int gB58s = 1477375083;
+ short int gB58s = (short)1477375083;
     float    Kk_ffC    =    379091475;
 	unsigned short	NH8mD	=	0;
 	short int	NMQ8	=	(short)889971418;
@@ -52,7 +52,7 @@ int main(void)
     long    O4w9rlkFGm    =    946217008;
   unsigned short  MMdur2yE  =  (unsigned short)-260004687;
 	unsigned long long	Iu9PRP0_	=	-1584752045;
-	short	xP7M5RF3hp	=	336378875;
+	short	xP7M5RF3hp	=	(short)336378875;
   unsigned long long  gl87d0gQzd  =  918263803;
   unsigned char  pnVgco87  =  1573833713;
   unsigned short int  ZP9d  =  (unsigned short)524206565;
@@ -62,7 +62,7 @@ int main(void)
     short int    gx3Afh    =    (short)557009904;
 	unsigned char	y4VFun	=	(unsigned char)485414109;
   unsigned long  C6j5HFHum  =  1157719932;
-  short  p6NbTPDeR  =  2027872967;
+  short  p6NbTPDeR  =  (short)2027872967;
     short int    GOg8Wed    =    66436345;
   unsigned int  rmbkgZH8  =  -317681304;
  float Lj16395 = 1429157388;
@@ -72,7 +72,7 @@ int main(void)
  short zNSZZb7 = (short)1524267651;
   short int  zkLJq  =  (short)1614489242;
 	short int	CE8O___a	=	310606899;
-  unsigned short  GTxq1g  =  -529116647;
+  unsigned short  GTxq1g  =  (unsigned short)-529116647;
   long long  Ow4V0m  =  -1710342347;
  short vezs = -1486854296;
     unsigned short int    hus1    =    1766143081;
@@ -86,7 +86,7 @@ int main(void)
   unsigned char  SgN1ZB4  =  (unsigned char)25258688;
     int    tt03Y3Q    =    1086957821;
  unsigned char wn1xyrrrC = (unsigned char)1799084630;
-    unsigned char    yl8062    =    -565056799;
+    unsigned char    yl8062    =    (unsigned char)-565056799;
  short vnfB = -1501207875;
     unsigned int    tTe9    =    -993595432;
   short int  U9C2wZ  =  (short)46806907;
@@ -97,7 +97,7 @@ int main(void)
  unsigned char V_4zUov_5 = (unsigned char)-1025116583;
 	float	ic6OXV4057	=	1747490918;
  short int YS7x_5oFt = (short)-1550775037;
-  unsigned char  M426dU  =  1529316845;
+  unsigned char  M426dU  =  (unsigned char)1529316845;
  long long cL9T2rX_81 = 549103120;
 	unsigned short	OxKeVYPJ	=	(unsigned short)93390368;
 	unsigned int	t_9YQrR3j	=	-825336896;

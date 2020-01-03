@@ -60,7 +60,7 @@ cout << b2ypCc0hmL(MYz5hFhc, (char)-1905839363, (unsigned char)153532413, -10165
 TY_8 = MYz5hFhc / MYz5hFhc;
 
 TY_8 = (unsigned short)(F3r8f3 + (1126764473));
-TY_8 = L7i1(1902623974, TY_8, MYz5hFhc);
+TY_8 = L7i1((unsigned short)1902623974, TY_8, MYz5hFhc);
 
 F3r8f3 = b2ypCc0hmL(2099270268, -211862855, -1278303315, -1408033326, -623304700);
 
@@ -77,7 +77,7 @@ else
 {
 if (TY_8 != -540532461)
 {
-PG3018 = b2ypCc0hmL((unsigned short)-1845051610, (char)858944170, (unsigned char)1475724737, -356340810, -1412829717);
+PG3018 = b2ypCc0hmL((unsigned short)-1845051610, (char)858944170, (unsigned char)1475724737, -356340810, (unsigned char)-1412829717);
 }
 else if (F3r8f3 >= PG3018)
 {

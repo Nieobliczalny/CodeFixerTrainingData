@@ -90,7 +90,7 @@ int main(int argc, char** argv)
 	long double	vXu8g;
 	vXu8g	=	-1900451555;
   short  pgzf;
-  pgzf  =  16233722;
+  pgzf  =  (short)16233722;
 	short	fZe9p;
 	fZe9p	=	0;
  unsigned long ZvVU;
@@ -108,7 +108,7 @@ int main(int argc, char** argv)
  unsigned short ICfY9VtO8;
  ICfY9VtO8 = (unsigned short)552344084;
     unsigned short int    vhK8G3_;
-    vhK8G3_    =    -128211908;
+    vhK8G3_    =    (unsigned short)-128211908;
 	unsigned long long	n0HJ;
 	n0HJ	=	263813546;
  unsigned char sj_MqP8092;
@@ -331,7 +331,7 @@ else
 int k = 5;
 do
 {
-l8iK = RpSCRrvJMZ((short)374654434, -76285448);
+l8iK = RpSCRrvJMZ((short)374654434, (short)-76285448);
 --k;
 }
 while (k >= 0);

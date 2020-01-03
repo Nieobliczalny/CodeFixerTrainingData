@@ -22,7 +22,7 @@ int main(int argc, char** argv)
     long    KOA48EL    =    0;
   float  qPV_wl  =  -1054142858;
     unsigned long    dxylOU5    =    -1360830190;
-    short    DUZ9    =    1411055608;
+    short    DUZ9    =    (short)1411055608;
   double  O_E0lX4  =  -1555029798;
  short DP50 = (short)-549458837;
  unsigned int cXxIvcJA = -1843152635;
@@ -53,7 +53,7 @@ int main(int argc, char** argv)
     unsigned short    X_wbc2    =    (unsigned short)-1004088913;
 	unsigned int	I603lU	=	-1262262185;
  unsigned short int DXUk = (unsigned short)-168397146;
-	short	vOfd4TUzDX	=	-289730442;
+	short	vOfd4TUzDX	=	(short)-289730442;
     unsigned long long    aVS_60_J    =    68869102;
   unsigned long  z5UAlZ1_a  =  -1844596166;
 	unsigned long	Vs96sOkv	=	0;
@@ -67,7 +67,7 @@ int main(int argc, char** argv)
     int    Vv18i    =    -1417133156;
  unsigned long long nRXdl1 = 1339269546;
  unsigned int gosX_itLM0 = 378926913;
-  unsigned short  VpkgG7  =  -1888218968;
+  unsigned short  VpkgG7  =  (unsigned short)-1888218968;
 	long double	IJS72Mm4_V	=	1053393274;
 
 Vv18i = (int)(SzB4art + (-636837949));

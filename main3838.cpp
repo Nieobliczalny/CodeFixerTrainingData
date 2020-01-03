@@ -48,7 +48,7 @@ int main(int argc, char** argv)
     int    qcFhD4OK;
     qcFhD4OK    =    1136347330;
  unsigned char z_yUxR;
- z_yUxR = -701190678;
+ z_yUxR = (unsigned char)-701190678;
   short  Li2su3;
   Li2su3  =  (short)1268567736;
 	short	CvA4d;
@@ -68,7 +68,7 @@ int main(int argc, char** argv)
   short  AX6OT;
   AX6OT  =  (short)-1890552064;
   unsigned char  NeCEem_B;
-  NeCEem_B  =  -1291368343;
+  NeCEem_B  =  (unsigned char)-1291368343;
  double Cn4Fq;
  Cn4Fq = -371165429;
   short  Qjp9G9w;
@@ -124,7 +124,7 @@ int main(int argc, char** argv)
  unsigned short int O6J901;
  O6J901 = (unsigned short)2044284616;
   short int  o3sWtzMo3;
-  o3sWtzMo3  =  -61894271;
+  o3sWtzMo3  =  (short)-61894271;
  int azCmi8Kz;
  azCmi8Kz = -1010049945;
   unsigned char  W4_5M2;

@@ -110,7 +110,7 @@ std::cout << gqz2HiWGD6(zZhZ, ZY0GYbc) << "V33XWVhb" << f256N4((short)-149903203
 }
 else
 {
-std::cout << f256N4(zZhZ, (unsigned short)1409301918, r8_A8) << r8_A8 << gqz2HiWGD6(zZhZ, 1786589889) << n5aI3 << std::endl;
+std::cout << f256N4(zZhZ, (unsigned short)1409301918, r8_A8) << r8_A8 << gqz2HiWGD6(zZhZ, (char)1786589889) << n5aI3 << std::endl;
 }
 J6a_19 = (HkkukelI8 < -1757371344) ? -207931322 : zZhZ;
 try

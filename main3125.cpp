@@ -40,7 +40,7 @@ int main()
  long double Y3b5 = -213462246;
  short int mJ81Z33__Q = (short)-1275208789;
   unsigned long  RrNmU_ma  =  -16178670;
-	unsigned short	Da1a3p	=	-402082960;
+	unsigned short	Da1a3p	=	(unsigned short)-402082960;
   unsigned long long  Up71CeVy  =  2078787337;
  char GJXCq64Uk = -1864665982;
   unsigned long long  X3_y8m  =  -2126913770;
@@ -427,7 +427,7 @@ case 2:
 BBn7l %= G0z1AnH1ig;
 break;
 case 3:
-GJXCq64Uk = MI59(-712173398, (unsigned short)1207683418, T_estBx0, 1610745858, x17GO6_r);
+GJXCq64Uk = MI59(-712173398, (unsigned short)1207683418, T_estBx0, (unsigned char)1610745858, x17GO6_r);
 break;
 default:
 htGI = (int)ceil(Y3b5);
@@ -568,7 +568,7 @@ Up71CeVy = MI59(-12205431, (unsigned short)-957747258, 922662149, (unsigned char
 }
 else if (Up71CeVy < -545894926)
 {
-std::cout << MI59(Up71CeVy, (unsigned short)-642375543, JkkD63HiN, 680003599, H6UNPVH2BV) << mJ81Z33__Q << std::endl;
+std::cout << MI59(Up71CeVy, (unsigned short)-642375543, JkkD63HiN, (unsigned char)680003599, H6UNPVH2BV) << mJ81Z33__Q << std::endl;
 }
 else if (htGI > M1EVADeR)
 {

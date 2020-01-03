@@ -119,7 +119,7 @@ case 'i':
 jfJ3F = wie3peEYdm << uaQA0;
 break;
 case 'j':
-QR10w2CT9 = dO9AJ8((unsigned char)-1099365955, d7IjuN, eoaJ, 837901266, 32631052);
+QR10w2CT9 = dO9AJ8((unsigned char)-1099365955, d7IjuN, eoaJ, (short)837901266, 32631052);
 break;
 }
 }

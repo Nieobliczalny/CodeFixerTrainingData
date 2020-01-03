@@ -98,7 +98,7 @@ std::cout << I220 << Sqo5KN9_o5(VkSf4C, n6Gk1, (unsigned short)1835535954) << VV
 }
 E0A4T = (long double)(aswePP8);
 
-std::cout << nPvI4Wby_ << jIg2 << Sqo5KN9_o5((short)-1155850902, (char)859604444, -317007902) << "p61eWXH0" << VkSf4C << std::endl;
+std::cout << nPvI4Wby_ << jIg2 << Sqo5KN9_o5((short)-1155850902, (char)859604444, (unsigned short)-317007902) << "p61eWXH0" << VkSf4C << std::endl;
 aN6Ih5h55 = (long double)(IPHP_T_3L_);
 
 l1z4EH = Q3pK8g / 729203615;

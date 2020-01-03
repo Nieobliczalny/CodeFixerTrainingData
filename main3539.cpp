@@ -26,7 +26,7 @@ int main(void)
     IAH3_    =    (unsigned char)-2078243090;
     c42Y    =    (unsigned char)-549443853;
     NDlYLW    =    (unsigned char)1145635246;
-    gK4Dfs_s    =    270881792;
+    gK4Dfs_s    =    (unsigned char)270881792;
     wPdSr6l_    =    -557250105;
     zmQKiKR    =    -715528776;
     ekSPak    =    -1675172014;
@@ -36,7 +36,7 @@ int main(void)
     pC_j    =    (unsigned char)2056742671;
     o0CAOwuQuv    =    (unsigned char)582222718;
     F0xU7qoBZS    =    (unsigned char)-930845084;
-    L03221    =    -1045526386;
+    L03221    =    (unsigned char)-1045526386;
     q_6373J0    =    1195769222;
     Ds2cyPml30    =    -309833531;
     AaHlZNF    =    272072218;
@@ -46,7 +46,7 @@ int main(void)
     c_5E4xo1f    =    (unsigned char)-1906286046;
     FEN63    =    (unsigned char)-1743575222;
     KB5fZt    =    (unsigned char)1215979665;
-    zV1lOJ2g1X    =    -488175216;
+    zV1lOJ2g1X    =    (unsigned char)-488175216;
     z0f8s_L    =    -850740416;
     FnvB_z    =    -721104368;
     OK64zXjA4s    =    165024710;
@@ -121,7 +121,7 @@ case 0:
 g2M2P = w7rM((short)-253895256, Ds2cyPml30, (unsigned char)-205128049);
 break;
 case 1:
-NDlYLW = (gK4Dfs_s >= pC_j) ? (unsigned char)419847302 : -63298570;
+NDlYLW = (gK4Dfs_s >= pC_j) ? (unsigned char)419847302 : (unsigned char)-63298570;
 break;
 default:
 g6L73z8Hp = asWWmP7(475151254);

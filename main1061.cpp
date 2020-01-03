@@ -22,7 +22,7 @@ int main() {
   oPtx_5  =  (short)2143975002;
   C0lvc  =  (short)1322450647;
   n8823XcJ  =  (short)-199364158;
-  xf_K6KF  =  -852934572;
+  xf_K6KF  =  (short)-852934572;
   j1WT5kx  =  -1160939227;
   W4o9s1D4I  =  320467652;
   x5o6F94e  =  1236322931;

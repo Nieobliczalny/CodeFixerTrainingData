@@ -37,7 +37,7 @@ int main()
     VWr14    =    (unsigned short)-48091050;
     HJz7    =    (unsigned short)1072790933;
     AN6GlU2xbM    =    (unsigned short)1657050882;
-    jOeQY8S    =    1627882234;
+    jOeQY8S    =    (unsigned short)1627882234;
     gvRXe5qan6    =    304974981;
     yDDQ1W98z    =    597620996;
     FNjoF2UG51    =    253838120;
@@ -47,7 +47,7 @@ int main()
     rt2d_MdsR    =    (unsigned short)-2034604389;
     n1Y1B0    =    (unsigned short)48037704;
     DA8WIM    =    (unsigned short)253518179;
-    k9c6    =    176627543;
+    k9c6    =    (unsigned short)176627543;
     KFzPEEMb_2    =    118882138;
 	unsigned int	clQAT,	HbM4,	aGJiw0,	DR_mC_lD2c,	RZ2VPVT;
 	clQAT	=	0;
@@ -230,7 +230,7 @@ n1Y1B0 = FNjoF2UG51 / aGJiw0;
 switch (HbM4)
 {
 case 'a':
-jOeQY8S = G0ZaYb9s((unsigned short)602612084, (short)1248428006, (unsigned char)837502664, -999338446, -911544543);
+jOeQY8S = G0ZaYb9s((unsigned short)602612084, (short)1248428006, (unsigned char)837502664, (unsigned char)-999338446, -911544543);
 break;
 case 'b':
 AN6GlU2xbM = O_18b2nR(1621186280, -680703209);

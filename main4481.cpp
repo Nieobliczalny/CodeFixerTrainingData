@@ -133,7 +133,7 @@ guq226 = fcXrU3dcp4((unsigned char)1971776991, -1166008784, h2l411, hlvai);
 }
 else if ((Wh2aI) || (L3284196 < -1402456014))
 {
-std::cout << jFBg4h9f8(1725208034, 755600969) << std::endl;
+std::cout << jFBg4h9f8((unsigned char)1725208034, 755600969) << std::endl;
 }
 else if (guq226)
 {

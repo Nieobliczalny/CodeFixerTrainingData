@@ -24,7 +24,7 @@ int main() {
     short    pr0pwwa;
     pr0pwwa    =    (short)244707757;
 	short	z8X8dfy;
-	z8X8dfy	=	220977876;
+	z8X8dfy	=	(short)220977876;
  short b96bOiHxPP;
  b96bOiHxPP = (short)2087216412;
 	long long	p7yKWX6ZR3;
@@ -70,7 +70,7 @@ int main() {
 	short	BK3UG1opw;
 	BK3UG1opw	=	(short)-1701383984;
  short int RL98KnfK_;
- RL98KnfK_ = -194170072;
+ RL98KnfK_ = (short)-194170072;
  unsigned int T8Bmy56;
  T8Bmy56 = -1437707628;
   short int  nR6C;

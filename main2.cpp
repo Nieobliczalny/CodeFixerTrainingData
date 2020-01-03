@@ -57,7 +57,7 @@ case 0:
 Ea8U = dRf8Rp1clr(Ea8U, (short)-1329015720);
 break;
 case 1:
-hLSvNI8jT_ = K4vXd9l24(hLSvNI8jT_, tb0xqg0, (short)207263441, (short)570816725, -943605840);
+hLSvNI8jT_ = K4vXd9l24(hLSvNI8jT_, tb0xqg0, (short)207263441, (short)570816725, (char)-943605840);
 break;
 case 2:
 Ea8U <<= 520095813;

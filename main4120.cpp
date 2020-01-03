@@ -95,7 +95,7 @@ int main(void)
   long long  n3RZ7aX1;
   n3RZ7aX1  =  -709098472;
   short int  lsY79;
-  lsY79  =  2066337399;
+  lsY79  =  (short)2066337399;
     char    j9w1Cca0F;
     j9w1Cca0F    =    0;
   unsigned long  mN6m5R0_8H;
@@ -169,7 +169,7 @@ int main(void)
 	short int	SWTOdt__;
 	SWTOdt__	=	(short)1651734301;
   short int  ZF5CJv6v;
-  ZF5CJv6v  =  1690630578;
+  ZF5CJv6v  =  (short)1690630578;
   long long  Z3smqtiJ;
   Z3smqtiJ  =  -1474572884;
  long yWO4EO13t;

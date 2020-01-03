@@ -23,7 +23,7 @@ int main() {
   unsigned long long  p920tv  =  38518112;
     unsigned char    t7eA04oh46    =    (unsigned char)-263474987;
   long long  xZ43KlFCk0  =  0;
-	short int	bm4048	=	190504576;
+	short int	bm4048	=	(short)190504576;
     int    BL407HmXu    =    1603845422;
     short    W8N8723    =    0;
     unsigned long long    K68T7d    =    -411913449;
@@ -40,7 +40,7 @@ int main() {
   unsigned long long  eqD_EdY6  =  0;
     unsigned short    b23_G    =    0;
     unsigned long    uOW57Z_DRB    =    505082843;
- unsigned short int I3_U = 364457912;
+ unsigned short int I3_U = (unsigned short)364457912;
 	short int	nq03	=	(short)-2039214825;
  char lKrF3 = (char)-1303540982;
     unsigned short    QmIdCmA    =    -176226135;
@@ -227,7 +227,7 @@ try
 {
 if (GExw < t7eA04oh46)
 {
-wSfybOF2 = u154w(lKrF3, -731035428, -1278516041) * c7Fw;
+wSfybOF2 = u154w(lKrF3, -731035428, (unsigned char)-1278516041) * c7Fw;
 }
 else
 {

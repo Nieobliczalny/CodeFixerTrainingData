@@ -117,7 +117,7 @@ int main(void)
  unsigned short V3vab8nqu;
  V3vab8nqu = (unsigned short)1090978026;
   unsigned char  Q2E_qLnap;
-  Q2E_qLnap  =  447548791;
+  Q2E_qLnap  =  (unsigned char)447548791;
 	unsigned long long	QK25_0_A8;
 	QK25_0_A8	=	-906178593;
 	unsigned int	FZOWh;
@@ -165,7 +165,7 @@ int main(void)
     char    K8v98R9;
     K8v98R9    =    (char)-2102159840;
  short int NAQ2d14iW;
- NAQ2d14iW = 1517681597;
+ NAQ2d14iW = (short)1517681597;
 	long double	E0v3rhF1Z5;
 	E0v3rhF1Z5	=	-396471906;
 	long	h_hXyQBm79;
@@ -472,7 +472,7 @@ case 1:
 HQ_nG4_j = Hu6Jh3((unsigned char)1285264151, U4444Dff, (char)1552990087, h_3z1Lhfcq, nP1O);
 break;
 case 2:
-HkbN = Hu6Jh3((unsigned char)1524795831, -1797080023, -1715965395, 1087154320, HAKewM);
+HkbN = Hu6Jh3((unsigned char)1524795831, -1797080023, (char)-1715965395, 1087154320, HAKewM);
 break;
 case 3:
 K1r__S6Hl = (int)abs(u0fx);

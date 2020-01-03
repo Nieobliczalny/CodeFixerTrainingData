@@ -131,7 +131,7 @@ rz2D8K782e = EXgkDZ_e(s_b1, (unsigned short)35158603, gc0_0RoDC7, (unsigned shor
 break;
 case 'e':
 case 'E':
-KUTJ3YMVN5 = EXgkDZ_e((unsigned char)-388268705, KUTJ3YMVN5, hqeowos, -1260717720);
+KUTJ3YMVN5 = EXgkDZ_e((unsigned char)-388268705, KUTJ3YMVN5, hqeowos, (unsigned short)-1260717720);
 break;
 case 'f':
 case 'F':
@@ -228,7 +228,7 @@ case 'd':
 pJPf5JF ^= 1405180009;
 break;
 default:
-zG_2D = I7g6zal3(1960691771, -457775492);
+zG_2D = I7g6zal3((unsigned short)1960691771, -457775492);
 break;
 }
 KIWW = (int)abs(KUTJ3YMVN5);

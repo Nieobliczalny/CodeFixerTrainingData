@@ -175,7 +175,7 @@ w3WoKl87m = UerS2AUp(w3WoKl87m, (short)-1221543066, HhQgc3y, -9211958, oJ892Ok_2
 }
 }
 
-std::cout << "sDyaO3w" << UerS2AUp(1092718849, (short)-71540998, (unsigned char)1808218381, YbassIKCS, -688646911) << VPBhN58g << HhQgc3y << std::endl;
+std::cout << "sDyaO3w" << UerS2AUp(1092718849, (short)-71540998, (unsigned char)1808218381, YbassIKCS, (unsigned short)-688646911) << VPBhN58g << HhQgc3y << std::endl;
 
 switch (iRLJ)
 {

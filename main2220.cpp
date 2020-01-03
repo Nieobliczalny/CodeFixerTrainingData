@@ -43,7 +43,7 @@ int main(int argc, char** argv)
   float  M9Xu  =  635558935;
     long long    Sia9us2S    =    -1896095791;
  unsigned short hx70 = (unsigned short)-962627019;
- unsigned short int g2uQoB1 = -201055362;
+ unsigned short int g2uQoB1 = (unsigned short)-201055362;
 	unsigned int	i5XXRR3	=	-312101375;
 	unsigned char	pd9qAu_w75	=	0;
     short int    sWAFrs9W    =    (short)794286734;
@@ -58,7 +58,7 @@ int main(int argc, char** argv)
  unsigned long long BU3bI_1e = 354589105;
   short int  td50  =  (short)-1712373492;
 
-std::cout << LN64I5mJ(Sia9us2S, -162242837, hr_rkN8j3, 144478605, 649987752) << std::endl;
+std::cout << LN64I5mJ(Sia9us2S, (unsigned short)-162242837, hr_rkN8j3, 144478605, 649987752) << std::endl;
 
 {
 int i = 2;

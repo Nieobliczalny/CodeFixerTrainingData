@@ -48,7 +48,7 @@ int main(void) {
 	short int	gj3qQ0j;
 	gj3qQ0j	=	(short)1182951692;
 	short int	uP93F1B;
-	uP93F1B	=	1632089012;
+	uP93F1B	=	(short)1632089012;
   unsigned long long  T9O3_u37wb;
   T9O3_u37wb  =  1167790825;
 
@@ -72,7 +72,7 @@ while (i >= 0);
 }
 if ((o53_TS_GJh / o7V0b52uo3((unsigned short)1710712144, (short)1820706591)) == 1936100958)
 {
-if ((X1P3ikJc(UM0f72165_, T9O3_u37wb, (short)-949044722, -1248852643) / o53_TS_GJh) > -627429938)
+if ((X1P3ikJc(UM0f72165_, T9O3_u37wb, (short)-949044722, (unsigned short)-1248852643) / o53_TS_GJh) > -627429938)
 {
 uP93F1B = 317267553 / o7V0b52uo3(1750805897, T9O3_u37wb);
 }

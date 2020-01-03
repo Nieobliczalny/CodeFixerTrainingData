@@ -143,7 +143,7 @@ E9TYB_ = KVa6(E9TYB_, 2027880183, rV5w, y1Seb28Z8X);
 }
 else if (((rV5w & y1Seb28Z8X) || (T1_cY == ZT5TvDu)) || (y1Seb28Z8X <= 1936302900))
 {
-T1_cY = xX_FUA((unsigned short)1259007442, T1_cY, 250379585, -1578318117);
+T1_cY = xX_FUA((unsigned short)1259007442, T1_cY, (unsigned char)250379585, -1578318117);
 }
 else if (y1Seb28Z8X >= E9TYB_)
 {

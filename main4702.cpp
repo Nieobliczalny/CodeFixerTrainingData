@@ -25,7 +25,7 @@ int main(void) {
 	long long	VlnWIvAV	=	-1096118524;
     double    oPlRT6N    =    -955478195;
   short int  avEGZ09  =  (short)492370063;
-	short	QK0P	=	-889976526;
+	short	QK0P	=	(short)-889976526;
 	unsigned int	B3oJq	=	451491735;
 	char	T2nz	=	(char)1486481325;
   double  pLR67E  =  -1588795333;
@@ -55,7 +55,7 @@ else
 {
 if (T574Z < 1047176191)
 {
-Sm3O0 = f07purs8VH((unsigned short)-1658679649, TUq1s8E, -2048995233, pp6Vj);
+Sm3O0 = f07purs8VH((unsigned short)-1658679649, TUq1s8E, (unsigned char)-2048995233, pp6Vj);
 }
 else if (a_Y6pe == -1987154717)
 {
@@ -77,7 +77,7 @@ pLR67E = pp6Vj ^ QK0P;
 Sm3O0 = f07purs8VH(pLR67E, Sm3O0, (unsigned char)1642434215, 1066872833);
 
 oPlRT6N = (int)abs(avEGZ09);
-Sm3O0 = f07purs8VH((unsigned short)-1511720772, -992974785, a_Y6pe, avEGZ09);
+Sm3O0 = f07purs8VH((unsigned short)-1511720772, (short)-992974785, a_Y6pe, avEGZ09);
 if (a_Y6pe >= T2nz)
 {
 try

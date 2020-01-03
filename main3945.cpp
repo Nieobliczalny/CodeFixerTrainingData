@@ -74,7 +74,7 @@ int main(int argc, char** argv)
  char cE55UjY;
  cE55UjY = (char)1030297270;
     unsigned short    qxXV;
-    qxXV    =    -1476901541;
+    qxXV    =    (unsigned short)-1476901541;
     unsigned short    APChd97;
     APChd97    =    (unsigned short)-1264127434;
     long long    N_K3;
@@ -196,7 +196,7 @@ int main(int argc, char** argv)
  char FMtj_77_;
  FMtj_77_ = (char)853550435;
     unsigned char    mITjyg;
-    mITjyg    =    1442405695;
+    mITjyg    =    (unsigned char)1442405695;
     unsigned long long    fYC6;
     fYC6    =    -1700634754;
     short int    w_Dl7k5;

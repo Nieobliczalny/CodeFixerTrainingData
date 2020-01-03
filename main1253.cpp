@@ -141,7 +141,7 @@ w1i_O7_H = lgWNWt_6__(O_7o, (unsigned char)-1399683448, 270467383, (unsigned sho
 break;
 case 'b':
 case 'B':
-EJrNuK = lgWNWt_6__((unsigned char)28096210, 1520735069, w1i_O7_H, 1115433488);
+EJrNuK = lgWNWt_6__((unsigned char)28096210, (unsigned char)1520735069, w1i_O7_H, 1115433488);
 break;
 case 'c':
 case 'C':
@@ -191,7 +191,7 @@ case 1:
 w1i_O7_H = (int)floor(wI2_k6Pmk5);
 break;
 case 2:
-EJrNuK = lgWNWt_6__((unsigned char)537118292, 991212283, wI2_k6Pmk5, w1i_O7_H);
+EJrNuK = lgWNWt_6__((unsigned char)537118292, (unsigned char)991212283, wI2_k6Pmk5, w1i_O7_H);
 break;
 case 3:
 qK764Y6T0L = Z72r7SN(399918977, qK764Y6T0L);
@@ -394,7 +394,7 @@ else
 qK764Y6T0L = (long long)(wI2_k6Pmk5 * qK764Y6T0L);
 }
 }
-cout << lgWNWt_6__(wI2_k6Pmk5, (unsigned char)-258215233, -2034975246, (unsigned short)1596658438) << Z72r7SN(525584974, qK764Y6T0L) << w1i_O7_H << lgWNWt_6__((unsigned char)-241276062, qK764Y6T0L, O_7o, -616353267) << endl;
+cout << lgWNWt_6__(wI2_k6Pmk5, (unsigned char)-258215233, -2034975246, (unsigned short)1596658438) << Z72r7SN(525584974, qK764Y6T0L) << w1i_O7_H << lgWNWt_6__((unsigned char)-241276062, qK764Y6T0L, O_7o, (unsigned short)-616353267) << endl;
 
 switch (qK764Y6T0L)
 {
@@ -456,7 +456,7 @@ case 'd':
 wI2_k6Pmk5 = (int)floor(EJrNuK);
 break;
 case 'e':
-w1i_O7_H = lgWNWt_6__((unsigned char)224380651, (unsigned char)171339511, 298857077, -689268394);
+w1i_O7_H = lgWNWt_6__((unsigned char)224380651, (unsigned char)171339511, 298857077, (unsigned short)-689268394);
 break;
 case 'f':
 EJrNuK = lgWNWt_6__(EJrNuK, Bx0QP4i0Q1, O_7o, (unsigned short)1601363546);

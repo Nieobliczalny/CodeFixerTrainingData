@@ -39,7 +39,7 @@ int main(void) {
  unsigned short int AMwGj;
  AMwGj = (unsigned short)644217338;
  char a9l_30_S;
- a9l_30_S = 1545283763;
+ a9l_30_S = (char)1545283763;
  long long CENxp8Dy4;
  CENxp8Dy4 = 102021203;
 	long double	XP3Kxx5_O;

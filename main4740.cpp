@@ -52,7 +52,7 @@ int main(int argc, char** argv)
 	short	PKl0_O	=	(short)-680260960;
     int    uFBFj35hhu    =    549880742;
     long double    GEv4W3l    =    -1160192896;
- char qaPYTzVH = 1300838080;
+ char qaPYTzVH = (char)1300838080;
   unsigned short int  w_NAJz8C  =  -587931845;
 	int	Z41d	=	-64131655;
   unsigned long long  rM5WbbE  =  -1710547070;
@@ -64,7 +64,7 @@ int main(int argc, char** argv)
   unsigned char  yGpDM6vuUR  =  (unsigned char)-1779948388;
     unsigned long    x8V9    =    1080391016;
 	int	TOUd	=	-1187279059;
-    unsigned short    MQa6Y    =    922556179;
+    unsigned short    MQa6Y    =    (unsigned short)922556179;
  char kWo6d = -1712094628;
  char T235U2 = 931138884;
 	unsigned short	U3_t23LxaS	=	(unsigned short)-294285354;
@@ -74,7 +74,7 @@ int main(int argc, char** argv)
   short  KKZ66N  =  (short)-1511897173;
   long long  q12p3Fn0  =  1492765254;
 	int	R94_X	=	884929703;
-    unsigned short    Szicm1fPby    =    -330899931;
+    unsigned short    Szicm1fPby    =    (unsigned short)-330899931;
  char YE__ = 743168474;
 	short int	hM7k8wucc	=	-762912604;
  unsigned short int Ki_B = (unsigned short)398093883;
@@ -97,7 +97,7 @@ int main(int argc, char** argv)
 	long long	g80N3vZ_	=	1791554364;
     unsigned short    e0Qg    =    (unsigned short)1679269336;
  unsigned short int rmD6Ahm = (unsigned short)240286691;
-  short  QSVOGQt5_o  =  -660926669;
+  short  QSVOGQt5_o  =  (short)-660926669;
  float i7gM = -784818204;
     short    cVuh6    =    (short)1620678785;
 	unsigned short	D38pmp	=	-1942549539;
@@ -108,7 +108,7 @@ int main(int argc, char** argv)
 	char	lw1ab2	=	(char)2082534245;
     short    J24zsD    =    (short)1230420239;
   long double  eDRYIG5J  =  1593212310;
-  char  i_7Yfe  =  650735662;
+  char  i_7Yfe  =  (char)650735662;
   long double  vIJhP7VA  =  1583945391;
  long double mahK = 1713158347;
  unsigned int D2Sjj = -1008369801;
@@ -119,7 +119,7 @@ int main(int argc, char** argv)
     unsigned long    XqyJl    =    1701046945;
     long long    ILwq    =    -1782631005;
   char  CECli06ZY  =  (char)768067527;
-    unsigned char    F4GrSU055m    =    -637770301;
+    unsigned char    F4GrSU055m    =    (unsigned char)-637770301;
 
 {
 int i = 10;
@@ -414,7 +414,7 @@ case 8:
 n_9vD9W0 = B0fIo7rO2();
 break;
 default:
-q12p3Fn0 = ye13VyG(q12p3Fn0, 2133990749, -2016050221, (short)967346804, 1460368321);
+q12p3Fn0 = ye13VyG(q12p3Fn0, 2133990749, -2016050221, (short)967346804, (unsigned short)1460368321);
 break;
 }
 }

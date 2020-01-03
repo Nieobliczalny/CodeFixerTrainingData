@@ -186,7 +186,7 @@ int main() {
  unsigned short rjc2IpjW6;
  rjc2IpjW6 = (unsigned short)2086855831;
   short int  N843;
-  N843  =  -872892445;
+  N843  =  (short)-872892445;
     long double    L_1N;
     L_1N    =    520480825;
   unsigned long long  Oy4sjr839;
@@ -526,7 +526,7 @@ while (j < 10);
 }
 else
 {
-std::cout << yRKWry((unsigned short)-519584886, ZioUl, (unsigned char)1286158204) << MsriwV1_Qi((unsigned char)-1840279561, 503305686, -1300003289, EKQW1) << "aCzD6Qo1g" << Utk3Xu0tP << std::endl;
+std::cout << yRKWry((unsigned short)-519584886, ZioUl, (unsigned char)1286158204) << MsriwV1_Qi((unsigned char)-1840279561, (short)503305686, -1300003289, EKQW1) << "aCzD6Qo1g" << Utk3Xu0tP << std::endl;
 }
 EKQW1 = k7VKjGfA20 % HO8_PN;
 
@@ -666,7 +666,7 @@ while (k < 2);
 
 if ((JdAS6r7 == bg_8) && (ES3kN8D & rjc2IpjW6))
 {
-CaK__7S94 = wwpBuS((unsigned short)352777392, (short)375303170, (unsigned short)677424570, 372971119);
+CaK__7S94 = wwpBuS((unsigned short)352777392, (short)375303170, (unsigned short)677424570, (short)372971119);
 }
 else if ((V5FtyO >= -915179753) || (fUmJ))
 {
@@ -800,7 +800,7 @@ case 0:
 dXvLY = MsriwV1_Qi((unsigned char)1934005316, (short)-627648547, 1260191155, -59858293);
 break;
 case 1:
-q5IDXCB7 = wwpBuS(dXvLY, 1989937903, -235366897, x2tY7ELA) ^ XcFdXBRY;
+q5IDXCB7 = wwpBuS(dXvLY, (short)1989937903, -235366897, x2tY7ELA) ^ XcFdXBRY;
 break;
 case 2:
 xMka0xq4 = yRKWry((unsigned short)487609008, 439333143, uxQrGjt8);

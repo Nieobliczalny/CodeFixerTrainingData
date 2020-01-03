@@ -94,7 +94,7 @@ PEL5 = KXN6G((unsigned char)-269600425, Ct6xa9IK_y, (unsigned char)-684119288);
 }
 if (PEL5 > -161606569)
 {
-std::cout << KXN6G(PEL5, Ct6xa9IK_y, (unsigned char)-1030488777) << KXN6G(PEL5, Ct6xa9IK_y, 29736942) << "m316" << KXN6G(183890774, 634655328, wi3p4NSXL8) << "GuP83U1_I" << std::endl;
+std::cout << KXN6G(PEL5, Ct6xa9IK_y, (unsigned char)-1030488777) << KXN6G(PEL5, Ct6xa9IK_y, (unsigned char)29736942) << "m316" << KXN6G(183890774, 634655328, wi3p4NSXL8) << "GuP83U1_I" << std::endl;
 }
 else if (((Ct6xa9IK_y < PEL5) || (U2PGH > -1954503561)) && (wi3p4NSXL8 < PEL5))
 {
@@ -193,7 +193,7 @@ case 3:
 wi3p4NSXL8 *= De6CfFNgC;
 break;
 case 4:
-De6CfFNgC = KXN6G((unsigned char)-33981393, De6CfFNgC, 1396970103);
+De6CfFNgC = KXN6G((unsigned char)-33981393, De6CfFNgC, (unsigned char)1396970103);
 break;
 default:
 De6CfFNgC = KXN6G(Ct6xa9IK_y, 780663044, De6CfFNgC);
@@ -212,7 +212,7 @@ std::cout << U2PGH << KXN6G((unsigned char)771884141, -1657066273, (unsigned cha
 Ct6xa9IK_y -= 576822594;
 std::cout << "RYfgk5e4mQ" << wi3p4NSXL8 << std::endl;
 
-std::cout << KXN6G((unsigned char)574539677, wi3p4NSXL8, -1963515324) << std::endl;
+std::cout << KXN6G((unsigned char)574539677, wi3p4NSXL8, (unsigned char)-1963515324) << std::endl;
 
 if ((KXN6G(-556167038, -1986426695, 40369259) / De6CfFNgC) <= 1477626308)
 {
@@ -238,7 +238,7 @@ std::cout << KXN6G(De6CfFNgC, 744341141, (unsigned char)1009940538) << U2PGH << 
 
 try
 {
-std::cout << Ct6xa9IK_y << "n5X_cv6" << wi3p4NSXL8 << KXN6G(-2075568619, U2PGH, PEL5) << std::endl;
+std::cout << Ct6xa9IK_y << "n5X_cv6" << wi3p4NSXL8 << KXN6G((unsigned char)-2075568619, U2PGH, PEL5) << std::endl;
 }
 catch (int& errorCode)
 {

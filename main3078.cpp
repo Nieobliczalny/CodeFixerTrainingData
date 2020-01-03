@@ -65,7 +65,7 @@ int main() {
 qw80445g = (long long)(qx4e * qw80445g);
 r6026_q1B1 = (unsigned char)(Cwk5A14m2F);
 
-std::cout << z5a_(1177045703, -681070586) << qw80445g << std::endl;
+std::cout << z5a_((unsigned short)1177045703, -681070586) << qw80445g << std::endl;
 
 whM_ = qx4e / H819E;
 if (qx4e <= -1522509528)

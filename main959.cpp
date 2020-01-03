@@ -46,7 +46,7 @@ int main()
 	unsigned char	kF5S0;
 	kF5S0	=	(unsigned char)457417096;
  unsigned short e_Hb67;
- e_Hb67 = -888933395;
+ e_Hb67 = (unsigned short)-888933395;
     unsigned char    EegqeSw;
     EegqeSw    =    (unsigned char)-825011514;
 	float	p_M9;
@@ -150,7 +150,7 @@ int main()
     long double    H28EaU;
     H28EaU    =    -1442238003;
   unsigned short  slyIR5;
-  slyIR5  =  769399572;
+  slyIR5  =  (unsigned short)769399572;
  int xiHL0M;
  xiHL0M = -2059403581;
     float    js314Ft3Aq;

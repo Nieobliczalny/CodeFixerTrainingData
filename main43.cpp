@@ -263,7 +263,7 @@ PZfN8lf = yf603CdZ(PZfN8lf, -861774330, (short)-816536313, l1Vj016f_D, dqoWV);
 }
 else
 {
-K9en8_hE = yf603CdZ((short)842896353, f5dv3H86q_, (short)-1018784442, 559464755, -904681365);
+K9en8_hE = yf603CdZ((short)842896353, f5dv3H86q_, (short)-1018784442, (unsigned short)559464755, -904681365);
 }
 }
 else if (G7sH <= -1478720480)

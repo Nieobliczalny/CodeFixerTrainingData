@@ -20,7 +20,7 @@ int main(void)
 	F42hLmbBY_	=	(unsigned short)1573081789;
 	gy1X1h	=	(unsigned short)-1202186108;
 	O88X1l8Pj	=	(unsigned short)-1630929970;
-	J_Txoh_SIC	=	-1748531538;
+	J_Txoh_SIC	=	(unsigned short)-1748531538;
 	Eba30	=	334987645;
 	Iy94	=	1531120538;
 	cLY_05QFX	=	1567481685;
@@ -30,7 +30,7 @@ int main(void)
 	Bfc5	=	(unsigned short)-425208992;
 	mINm6	=	(unsigned short)870163313;
 	slbBcuCf	=	(unsigned short)-806799433;
-	gLn28	=	-1602614065;
+	gLn28	=	(unsigned short)-1602614065;
 	WZ9c	=	-1042909736;
 	UDPxSL0l5	=	993773032;
   char  j8_6Nt9yZ_,  H16Vctk88;

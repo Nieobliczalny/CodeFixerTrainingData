@@ -52,7 +52,7 @@ int main(int argc, char** argv)
  unsigned char bQ4jI4_ut;
  bQ4jI4_ut = (unsigned char)-990273961;
 	unsigned char	T9PR7xRm;
-	T9PR7xRm	=	-154607073;
+	T9PR7xRm	=	(unsigned char)-154607073;
  long long MHP656;
  MHP656 = -1404066884;
     short    k3qPl;
@@ -314,7 +314,7 @@ for (int i = 9; i >= 0; --i)
 zATp7B = (int)abs(yom8B_0r) + (-1323667873);
 }
 
-N3Z0 = -1679589798 / jL330(1823578968, N3Z0, (char)-1211261984, 817634954, zxI3Akt);
+N3Z0 = -1679589798 / jL330(1823578968, N3Z0, (char)-1211261984, (short)817634954, zxI3Akt);
 if (ZSwszw != KcD_22oe90)
 {
 if (((CQ3Q == 768180953) && (geP9LF7 <= -338457981)) && (MHP656 > O6573zs))

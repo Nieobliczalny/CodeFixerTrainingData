@@ -29,7 +29,7 @@ int main(int argc, char** argv)
     short    bF1uz2QKcO;
     bF1uz2QKcO    =    (short)606616512;
  unsigned char YEwnG1cc;
- YEwnG1cc = -804274082;
+ YEwnG1cc = (unsigned char)-804274082;
     unsigned short    A09q;
     A09q    =    (unsigned short)1751022868;
   long  d3b_NCI3;

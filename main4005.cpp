@@ -70,7 +70,7 @@ case 'f':
 TC32PC8u_ = (int)abs(f_5HDXq7);
 break;
 case 'g':
-Oq_0 = gNS59(1348375331);
+Oq_0 = gNS59((short)1348375331);
 break;
 case 'h':
 Y_C_x2OrQW = (int)floor(v_I7q1_R);

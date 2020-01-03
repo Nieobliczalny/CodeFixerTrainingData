@@ -27,7 +27,7 @@ int main(void) {
 	char	enS_	=	(char)-435549809;
   short int  W3es91d  =  (short)-1796906327;
     float    Q7A5o    =    -2109482812;
-    unsigned char    pvd8fVur    =    2011980927;
+    unsigned char    pvd8fVur    =    (unsigned char)2011980927;
     char    h8iFlJ7    =    1341158443;
   long  lqq7DOFg4  =  -616786836;
   unsigned char  fUb3  =  0;
@@ -39,7 +39,7 @@ int main(void) {
  char JkVEl = (char)1851612791;
  unsigned int iX1Hfdhm = 602708241;
     short int    HG5vlc5deN    =    (short)-1351295543;
-  char  T0_Z5  =  -1070679930;
+  char  T0_Z5  =  (char)-1070679930;
 	double	aN0p	=	-1812480398;
 	short int	W_T8l	=	0;
 	unsigned short int	sqdFGf	=	-381525168;
@@ -57,7 +57,7 @@ int main(void) {
  unsigned long unjXHn = 2046418536;
  unsigned short yD36s = (unsigned short)-1441024424;
   short int  QgO8Xlxzb_  =  (short)919732552;
-  char  PK7RxZ  =  -1182610534;
+  char  PK7RxZ  =  (char)-1182610534;
     unsigned char    uo6x26    =    145772642;
   double  Oo1kx_  =  1559270427;
     double    NhtIV    =    -496204925;
@@ -69,7 +69,7 @@ int main(void) {
  unsigned short int Q_q3V8c3q = (unsigned short)-38254448;
   unsigned int  zrVEx  =  1379164850;
     double    Pp2AWjCk8    =    750102755;
-  unsigned char  ksH7uZr7_  =  1830427883;
+  unsigned char  ksH7uZr7_  =  (unsigned char)1830427883;
     float    oRpHO45p0A    =    -1294455414;
   short  I96U  =  -1625071743;
  long long tw33 = -1398052137;
@@ -79,7 +79,7 @@ int main(void) {
     unsigned short    ri7qjA    =    (unsigned short)-774695910;
 	long long	c96DbU6	=	1883251607;
   long  cahD  =  1238660879;
-	unsigned short int	hMhO9VUzR	=	-657473038;
+	unsigned short int	hMhO9VUzR	=	(unsigned short)-657473038;
     long    VG35    =    -1774816318;
 	long double	MclJ886204	=	523537468;
  unsigned short uPBb25s = 179888466;
@@ -90,7 +90,7 @@ int main(void) {
   unsigned char  ONFh0g97C  =  (unsigned char)-223196722;
  short JKvgysD6 = -662992381;
 	short int	et9_Yxq	=	0;
-	char	liaLNp	=	17488810;
+	char	liaLNp	=	(char)17488810;
  long long pl2b5NWa = -121401467;
 	char	w670	=	439391817;
  unsigned long vjuram = 937190780;

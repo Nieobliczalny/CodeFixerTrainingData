@@ -249,7 +249,7 @@ b8cYK = vZ11_uOe((unsigned char)-1681313687, (char)-1952008892);
 break;
 case 'd':
 case 'D':
-hXG18 = vZ11_uOe(kU2Q83e, -1177379968);
+hXG18 = vZ11_uOe(kU2Q83e, (char)-1177379968);
 break;
 case 'e':
 case 'E':

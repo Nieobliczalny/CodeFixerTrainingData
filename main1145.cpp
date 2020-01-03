@@ -45,7 +45,7 @@ int main(void) {
  short int V8YMg0V;
  V8YMg0V = (short)-682916061;
   unsigned short  NXk7_ofd;
-  NXk7_ofd  =  1886838964;
+  NXk7_ofd  =  (unsigned short)1886838964;
   unsigned int  cYM8;
   cYM8  =  2110908171;
  unsigned long yDZLE__8I;
@@ -97,7 +97,7 @@ int main(void) {
  char bYmC9QVo;
  bYmC9QVo = (char)1446203073;
     short    vZLd;
-    vZLd    =    2076029007;
+    vZLd    =    (short)2076029007;
 	float	cG__l76tM;
 	cG__l76tM	=	-379182650;
     unsigned long    H59mUvb9E;
@@ -121,7 +121,7 @@ int main(void) {
 	unsigned char	JW1Fz13863;
 	JW1Fz13863	=	(unsigned char)1495830642;
     short    R13S6Qi;
-    R13S6Qi    =    -1036068098;
+    R13S6Qi    =    (short)-1036068098;
 
 {
 int i = 0;

@@ -302,7 +302,7 @@ case 0:
 LM5W5Bh = Dfx5g5_m(2054496773, -1964299748, (unsigned short)-1812957962, (short)-1851185498, (short)1415413063);
 break;
 case 1:
-wfCBQQ = P8jyQt6C(-507660491, -1569616527, -1922305651, ldRYqu7Ogj);
+wfCBQQ = P8jyQt6C((short)-507660491, -1569616527, -1922305651, ldRYqu7Ogj);
 break;
 }
 }
@@ -341,7 +341,7 @@ switch (uu59t29OQ)
 {
 case 'a':
 case 'A':
-dO02 = Dfx5g5_m(241702643, -2018088525, XllsWS_8i3, 1639832259, q76UOt7j) | 1764349416;
+dO02 = Dfx5g5_m(241702643, -2018088525, XllsWS_8i3, (short)1639832259, q76UOt7j) | 1764349416;
 break;
 case 'b':
 case 'B':

@@ -148,7 +148,7 @@ int main(void)
   short int  n_2jdDkNt;
   n_2jdDkNt  =  (short)-449697562;
     char    h0wsm_7_YN;
-    h0wsm_7_YN    =    1140239731;
+    h0wsm_7_YN    =    (char)1140239731;
     unsigned long    Swn84;
     Swn84    =    -125567325;
   unsigned short int  X1Ec68;

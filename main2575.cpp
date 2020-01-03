@@ -23,7 +23,7 @@ int main(int argc, char** argv)
  unsigned char jhx48A4 = (unsigned char)1334295861;
     long double    DqRV0Zb0Oy    =    -1687239029;
 	short int	tKA3IOr_	=	(short)-757391544;
-    unsigned char    iTNu33lUWR    =    759942603;
+    unsigned char    iTNu33lUWR    =    (unsigned char)759942603;
  float EOL6D_4J = 228323449;
   float  n78_KM5MP  =  -1073434518;
 	unsigned short int	AyWK8Z5EO1	=	-229151169;
@@ -39,7 +39,7 @@ int main(int argc, char** argv)
  short int bB7p6w9 = (short)-97023665;
   long  V0Ylyck  =  -1552520287;
     long    Ut6lcf    =    1003443505;
-  unsigned short int  BNgeqX  =  533450595;
+  unsigned short int  BNgeqX  =  (unsigned short)533450595;
     long long    HPK_    =    -1775975000;
  unsigned short jChRc7_48E = (unsigned short)-517579496;
  long double HX5XU3y = 1633708079;
@@ -65,7 +65,7 @@ int main(int argc, char** argv)
 	int	E65A_t	=	1474033910;
  char e19KD2SR_g = (char)968666665;
  unsigned short wXpy = (unsigned short)1595158247;
- char Vtl1Z0KB_ = -1598030708;
+ char Vtl1Z0KB_ = (char)-1598030708;
 	unsigned short int	rZx54edf	=	498657591;
  unsigned short int coF36_7PB = -1419840608;
     unsigned short int    TqguK7CC6d    =    1285112048;
@@ -87,7 +87,7 @@ int main(int argc, char** argv)
  long double r61jPaTV97 = 2013426597;
     unsigned char    W02MVC9q    =    (unsigned char)357009480;
  char aRF4TLp = (char)-1809099881;
-	unsigned short	V4yqpSM	=	-1847122272;
+	unsigned short	V4yqpSM	=	(unsigned short)-1847122272;
   unsigned long long  R2i3Qwwtqr  =  -801557943;
   unsigned short int  m43CM  =  -1199344001;
 	unsigned long	CpY7gSgk4	=	-1649255566;
@@ -102,7 +102,7 @@ int main(int argc, char** argv)
 	double	WmKZJ	=	22666708;
 	unsigned int	OhsuftP6	=	314711947;
  unsigned short q39tO76 = (unsigned short)1925569860;
-    unsigned short    XV8P8    =    406487523;
+    unsigned short    XV8P8    =    (unsigned short)406487523;
     long double    cU9ymLx    =    1099629860;
   long double  W1uoCahE  =  -526074167;
 	unsigned short int	c_MnQPyN	=	(unsigned short)1545700668;
@@ -135,7 +135,7 @@ case 'b':
 AyWK8Z5EO1 = cU9ymLx - 1692018147;
 break;
 case 'c':
-rZx54edf = hG70Tya((unsigned short)-431126761, -1662037641, TqguK7CC6d, 830789764, 1981973700);
+rZx54edf = hG70Tya((unsigned short)-431126761, -1662037641, TqguK7CC6d, (unsigned short)830789764, 1981973700);
 break;
 case 'd':
 I0h5 = (int)floor(irqQIg_V_a);
@@ -153,7 +153,7 @@ case 'h':
 q7m0uV11 = (int)floor(q26U3U9);
 break;
 case 'i':
-Jtm1N = hG70Tya(-1626442894, OhsuftP6, 1657673976, 1251273943, EOL6D_4J);
+Jtm1N = hG70Tya((unsigned short)-1626442894, OhsuftP6, 1657673976, 1251273943, EOL6D_4J);
 break;
 case 'j':
 ew86N04B |= 929943901;
@@ -186,7 +186,7 @@ case 'b':
 Ph8q = (int)floor(x0hkR0Q);
 break;
 case 'c':
-rZx54edf = (hAH3LYJo != R2i3Qwwtqr) ? JOa7r3r : -1140470549;
+rZx54edf = (hAH3LYJo != R2i3Qwwtqr) ? JOa7r3r : (unsigned short)-1140470549;
 break;
 case 'd':
 n78_KM5MP = (int)floor(HX5XU3y);
@@ -209,7 +209,7 @@ V4yqpSM = hG70Tya(V4yqpSM, q26U3U9, Ut6lcf, E65A_t, V0Ylyck);
 
 q39tO76 = (unsigned short)(HX5XU3y);
 
-WmKZJ = hG70Tya((unsigned short)-1172343906, q26U3U9, (short)503145792, E65A_t, -1164622007) / Fw2rAp447;
+WmKZJ = hG70Tya((unsigned short)-1172343906, q26U3U9, (short)503145792, E65A_t, (unsigned short)-1164622007) / Fw2rAp447;
 if (tKA3IOr_ > e19KD2SR_g)
 {
 {
@@ -333,7 +333,7 @@ Jtm1N = Y3TaUv0Hb * 1180687113;
 }
 }
 std::cout << "EjR_" << ZAc9Q2s9(LgKM68f, V0Ylyck, (short)335540466, (unsigned short)-1319393024) << U424J << std::endl;
-re8d = ZAc9Q2s9((unsigned short)-748789894, re8d, 1920161835, 660966844);
+re8d = ZAc9Q2s9((unsigned short)-748789894, re8d, (short)1920161835, 660966844);
 EOL6D_4J = (float)(CpY7gSgk4);
 
 Fw2rAp447 = ZAc9Q2s9(jChRc7_48E, KIDM9Z0ZX, 2089219647, Eb_WHtT00);
@@ -351,7 +351,7 @@ re8d = ZAc9Q2s9((unsigned short)-324705016, Un2mJmL, R2i3Qwwtqr, W02MVC9q);
 switch (V0Ylyck)
 {
 case 0:
-r61jPaTV97 = ZAc9Q2s9((unsigned short)898386276, Un2mJmL, (short)-188737277, 1605855273) ^ 1889958384;
+r61jPaTV97 = ZAc9Q2s9((unsigned short)898386276, Un2mJmL, (short)-188737277, (unsigned short)1605855273) ^ 1889958384;
 break;
 case 1:
 re8d = ZAc9Q2s9(877898307, Oo53GP, W32_M7Gu, Jtm1N);

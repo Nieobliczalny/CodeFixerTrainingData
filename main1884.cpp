@@ -29,7 +29,7 @@ int main(void)
     A5Hs    =    (short)1310462060;
     uby_RM88    =    (short)1919004095;
     R8nl    =    (short)70224202;
-    Eg7HGcu    =    1109247199;
+    Eg7HGcu    =    (short)1109247199;
     Fy6Q5W4VJe    =    -39960648;
     Xyr03cTf0    =    2089025505;
     D385M0j4k    =    1765897085;
@@ -39,7 +39,7 @@ int main(void)
     E_P_42m3q3    =    (short)-1377090124;
     wc840    =    (short)214479769;
     pd_vEn1PZ    =    (short)1934406604;
-    M4JA45bt    =    628505297;
+    M4JA45bt    =    (short)628505297;
     gJcz    =    -335656078;
     O61uRZaR9c    =    -1329954254;
     LSjDO6    =    -749365500;
@@ -49,7 +49,7 @@ int main(void)
     hqPE8    =    (short)1752537214;
     b490bx7g    =    (short)534525477;
     ilHpT331    =    (short)756319729;
-    RRLhBGcbX5    =    -1829560585;
+    RRLhBGcbX5    =    (short)-1829560585;
     QpF7Prh    =    -658079802;
     aI9f_iRl    =    774642758;
     ac98    =    -502722794;
@@ -59,7 +59,7 @@ int main(void)
     uWprkIIJz    =    (short)-1709961245;
     nyM0    =    (short)811759863;
     wWsP_UR    =    (short)-619998054;
-    TCXOs_Ej1    =    -50182973;
+    TCXOs_Ej1    =    (short)-50182973;
     vJ1xT55r    =    -908502206;
     TOCvGSyg3    =    -764892092;
     aBKf    =    2060811837;
@@ -69,7 +69,7 @@ int main(void)
     XR1lh9F4s    =    (short)-356880571;
     XaRVKV    =    (short)-333351820;
     QZE0DE    =    (short)-1177891423;
-    H89v3F2T    =    1564149513;
+    H89v3F2T    =    (short)1564149513;
     Dl34    =    -1682642825;
     J8u485g    =    675837708;
     T1mcB2qi    =    242124480;
@@ -79,7 +79,7 @@ int main(void)
     NK2KR7U    =    (short)111791310;
     wpEy_0tHg7    =    (short)596536255;
     TkULCCO4o    =    (short)-552140487;
-    L1tSJ1    =    -1000376205;
+    L1tSJ1    =    (short)-1000376205;
     k_ts    =    1616976897;
     Gqg9h2r    =    1171605808;
     y13d    =    770166847;
@@ -719,7 +719,7 @@ Dn3CQW12 = (int)abs(D385M0j4k);
 }
 try
 {
-std::cout << CnLNt_(ZIYuvCZ, j7dS9YGz66) << "AeUtYHk" << gXSgW((char)-875893680, (char)-384334305, O_i_7) << e9eWPe6eo((unsigned short)-256719303, j7dS9YGz66, -734452888) << "s847" << std::endl;
+std::cout << CnLNt_(ZIYuvCZ, j7dS9YGz66) << "AeUtYHk" << gXSgW((char)-875893680, (char)-384334305, O_i_7) << e9eWPe6eo((unsigned short)-256719303, j7dS9YGz66, (short)-734452888) << "s847" << std::endl;
 }
 catch (int& errorCode)
 {

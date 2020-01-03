@@ -83,7 +83,7 @@ int main()
   unsigned char  A5FD;
   A5FD  =  (unsigned char)-1558577166;
  short int Z4q7;
- Z4q7 = -688307766;
+ Z4q7 = (short)-688307766;
     long    Jd22vR3;
     Jd22vR3    =    -198910175;
  unsigned short int fCN9d;
@@ -165,7 +165,7 @@ int main()
 	short int	Lp_as;
 	Lp_as	=	(short)617590808;
 	char	OXhK;
-	OXhK	=	-1834832240;
+	OXhK	=	(char)-1834832240;
   unsigned short int  pzh4;
   pzh4  =  (unsigned short)-1513309587;
 	int	vJKU5;
@@ -303,7 +303,7 @@ case 8:
 V_hg = EYB13veV(-1432020361, QJPc_P8, (char)-1089414465, (short)-2104445645);
 break;
 case 9:
-M_n8 = EYB13veV(M_n8, Vq7i89Geo, (char)-1851681920, 1631330318);
+M_n8 = EYB13veV(M_n8, Vq7i89Geo, (char)-1851681920, (short)1631330318);
 break;
 default:
 Vq7i89Geo = YkSuZtW(M_n8) << dtIJQ5;

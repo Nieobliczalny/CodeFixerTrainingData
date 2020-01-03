@@ -44,7 +44,7 @@ int main()
     unsigned char    Nehp97;
     Nehp97    =    (unsigned char)1959110990;
     unsigned short    BoRaf13V;
-    BoRaf13V    =    1885337;
+    BoRaf13V    =    (unsigned short)1885337;
   unsigned char  x92k;
   x92k  =  (unsigned char)412912282;
     int    C2im0;
@@ -78,7 +78,7 @@ int main()
  short int pLcLT7Sb;
  pLcLT7Sb = (short)898916607;
   unsigned short  A0rC_HJT;
-  A0rC_HJT  =  842229363;
+  A0rC_HJT  =  (unsigned short)842229363;
   unsigned short  ON22s34;
   ON22s34  =  (unsigned short)205041816;
   unsigned int  N2mz;
@@ -94,7 +94,7 @@ int main()
     unsigned char    e34z;
     e34z    =    (unsigned char)1084523229;
  unsigned char btEFBscZ4;
- btEFBscZ4 = -294843539;
+ btEFBscZ4 = (unsigned char)-294843539;
  long long b6Frh;
  b6Frh = 803321535;
     unsigned long long    y4YTEHO0gJ;
@@ -124,7 +124,7 @@ int main()
   unsigned short int  b7E9i;
   b7E9i  =  (unsigned short)-2011280001;
 	short	Q_61N5V2Q;
-	Q_61N5V2Q	=	-1645469058;
+	Q_61N5V2Q	=	(short)-1645469058;
  long long xAvBTsjHN7;
  xAvBTsjHN7 = -1318611941;
     long long    v4L9o2l6Kr;
@@ -263,7 +263,7 @@ yfH7A6 = p10S(yfH7A6, (short)358578098);
 break;
 case 'f':
 case 'F':
-Nehp97 = p10S(1206528199, HB9vMo_stx);
+Nehp97 = p10S((unsigned short)1206528199, HB9vMo_stx);
 break;
 case 'g':
 case 'G':
@@ -290,7 +290,7 @@ std::cout << p10S(Brx88nCT6, (short)491408836) << wi81Y4 << xUgw8k6DYf((char)-11
 }
 else if ((kSk14hy6 >= b7E9i) || (sDmN_o <= L_QE9Lu9))
 {
-std::cout << dyq_i << xUgw8k6DYf((char)-1213510924, 1875441802, 2075131996, 1898980144) << std::endl;
+std::cout << dyq_i << xUgw8k6DYf((char)-1213510924, (unsigned short)1875441802, 2075131996, 1898980144) << std::endl;
 }
 else if ((Srl5 > 1758171541) || (KNj45P_mF >= -1287323792))
 {
@@ -393,7 +393,7 @@ j79dH = btEFBscZ4 << Q_61N5V2Q;
 }
 if (yfH7A6 >= j79dH)
 {
-std::cout << xUgw8k6DYf(pLcLT7Sb, (unsigned short)557116782, uclW_95, yfH7A6) << p10S((unsigned short)-1853857676, (short)-1669185003) << xUgw8k6DYf(-956748092, Q7uXZI, 1408239556, yfH7A6) << "n5nnpx" << std::endl;
+std::cout << xUgw8k6DYf(pLcLT7Sb, (unsigned short)557116782, uclW_95, yfH7A6) << p10S((unsigned short)-1853857676, (short)-1669185003) << xUgw8k6DYf((char)-956748092, Q7uXZI, 1408239556, yfH7A6) << "n5nnpx" << std::endl;
 }
 
 if (((Ino0270WP_ != pl9_E) && (opBaD >= 1940387301)) || (k3mO5 < kPtnw))
@@ -452,7 +452,7 @@ case 3:
 L_QE9Lu9 >>= y4YTEHO0gJ;
 break;
 case 4:
-P_Nou = p10S((unsigned short)-436994888, 688640295);
+P_Nou = p10S((unsigned short)-436994888, (short)688640295);
 break;
 default:
 dyq_i = xUgw8k6DYf(-1901828153, j79dH, 1046950774, pl9_E);
@@ -476,7 +476,7 @@ case 'd':
 Brx88nCT6 = (int)floor(Ino0270WP_);
 break;
 case 'e':
-dyq_i = xUgw8k6DYf((char)1802262105, 199289708, vv49k_9, -1348366953);
+dyq_i = xUgw8k6DYf((char)1802262105, (unsigned short)199289708, vv49k_9, -1348366953);
 break;
 case 'f':
 G88tSGp8 = (int)ceil(Ino0270WP_);

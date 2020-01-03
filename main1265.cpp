@@ -37,7 +37,7 @@ int main(void)
     long    b8H6s5ex1Y    =    -13750839;
   char  nvLg  =  0;
  short EYanNS6 = (short)-524578963;
-	short int	KlHM	=	-215910958;
+	short int	KlHM	=	(short)-215910958;
   char  tb_PH5  =  -108899756;
  long long U_DI1 = 0;
 

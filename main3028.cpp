@@ -49,7 +49,7 @@ int main(int argc, char** argv)
   unsigned short  O4hM;
   O4hM  =  (unsigned short)1520243848;
     unsigned short int    k_6I1Q;
-    k_6I1Q    =    -2079195958;
+    k_6I1Q    =    (unsigned short)-2079195958;
   float  gJ_dp_muj;
   gJ_dp_muj  =  1283886735;
   unsigned short int  p3i5S98_7;
@@ -59,7 +59,7 @@ int main(int argc, char** argv)
 	short int	p185y;
 	p185y	=	(short)937587961;
  short int ujVVFl_xf;
- ujVVFl_xf = -696072746;
+ ujVVFl_xf = (short)-696072746;
     unsigned long long    gNKYV0;
     gNKYV0    =    1279511899;
   double  s6fc0eDv;
@@ -81,7 +81,7 @@ int main(int argc, char** argv)
  char TpWXsr2T;
  TpWXsr2T = (char)200006204;
     unsigned short    Zpkjq;
-    Zpkjq    =    440456651;
+    Zpkjq    =    (unsigned short)440456651;
  unsigned char w7c1W;
  w7c1W = (unsigned char)628764142;
 	short	R0_aw;
@@ -97,7 +97,7 @@ int main(int argc, char** argv)
   char  Iad9;
   Iad9  =  (char)-1239417384;
   short  L059;
-  L059  =  -854167812;
+  L059  =  (short)-854167812;
   int  t_Js;
   t_Js  =  -1734680816;
   short  Sw_0mBP;
@@ -331,7 +331,7 @@ else
 {
 for (int j = 4; j >= 0; j--)
 {
-std::cout << wGQl_vy2(Iad9, 1397430264, 893175820, kY73b) << "o68s8zBvT4" << nBUm(Iad9, 1068868840, hpO0hOB1_l) << "Q0A7HEE159" << std::endl;
+std::cout << wGQl_vy2(Iad9, (char)1397430264, 893175820, kY73b) << "o68s8zBvT4" << nBUm(Iad9, 1068868840, hpO0hOB1_l) << "Q0A7HEE159" << std::endl;
 }
 }
 if ((k_6I1Q & 1125516690) && (mpXNp578T & HRgNRpfA))

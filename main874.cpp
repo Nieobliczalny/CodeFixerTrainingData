@@ -102,7 +102,7 @@ int main(int argc, char** argv) {
   unsigned short  LOyMQ5;
   LOyMQ5  =  (unsigned short)-185113739;
  unsigned short int jfRVQMVL;
- jfRVQMVL = 1385072852;
+ jfRVQMVL = (unsigned short)1385072852;
  unsigned short int U4IM;
  U4IM = (unsigned short)1091327417;
 	int	sp_P7;

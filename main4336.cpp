@@ -322,7 +322,7 @@ case 1:
 U4A_w26M = s747aBAG((unsigned short)794360974, -1501326666, (short)-1975122198, (short)-74089937);
 break;
 case 2:
-V68E = f5sU_0(V68E, -777007569, kQKu, uufR, JS0Sx);
+V68E = f5sU_0(V68E, (unsigned char)-777007569, kQKu, uufR, JS0Sx);
 break;
 case 3:
 q0v0o0 = mZixQYf31 & zPu8;

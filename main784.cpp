@@ -66,7 +66,7 @@ int main(void) {
   short int  P3845E8;
   P3845E8  =  (short)83840738;
     short    A0F5dIZZz;
-    A0F5dIZZz    =    -597396539;
+    A0F5dIZZz    =    (short)-597396539;
 	int	NR48ekrgO3;
 	NR48ekrgO3	=	-1071496416;
 	short int	byNH_4rV42;
@@ -108,7 +108,7 @@ int main(void) {
 	unsigned short int	x4RiATz;
 	x4RiATz	=	(unsigned short)677738682;
  unsigned short int ZS5k4;
- ZS5k4 = 1153063127;
+ ZS5k4 = (unsigned short)1153063127;
   int  C_t6tZ963;
   C_t6tZ963  =  1958048641;
   unsigned short  wAm1P58ZB3;
@@ -128,7 +128,7 @@ int main(void) {
 	char	D33n;
 	D33n	=	(char)-1916404160;
 	unsigned char	C9_f5LI;
-	C9_f5LI	=	2105790143;
+	C9_f5LI	=	(unsigned char)2105790143;
     double    p_awpk4;
     p_awpk4    =    -362979601;
   unsigned char  BdM7Nv;
@@ -144,7 +144,7 @@ int main(void) {
 	unsigned short int	vBS1l3it8G;
 	vBS1l3it8G	=	(unsigned short)1039410249;
  unsigned char K3_zjKQ32o;
- K3_zjKQ32o = 1932394658;
+ K3_zjKQ32o = (unsigned char)1932394658;
     double    MgVt7;
     MgVt7    =    -862874789;
   double  U_08;
@@ -185,7 +185,7 @@ H9m_q4 = u8_V5((unsigned short)2010292691);
 int i = 1;
 do
 {
-HCm4ii3 = jJa3D5BcM((short)846012722, 342917101, xVz341sQ, U_08, -167690484);
+HCm4ii3 = jJa3D5BcM((short)846012722, 342917101, xVz341sQ, U_08, (short)-167690484);
 --i;
 }
 while (i >= 0);
@@ -456,7 +456,7 @@ U_08 = (int)floor(l39tqIo);
 break;
 }
 std::cout << kGb84uZ6(858565230) << "DBE22" << xccJBey7 << std::endl;
-std::cout << u8_V5((unsigned short)1274351648) << "eL8O" << kGb84uZ6(888385518) << G3BZ(uVu_98394t, 886052930, C4X0, 7256278) << std::endl;
+std::cout << u8_V5((unsigned short)1274351648) << "eL8O" << kGb84uZ6(888385518) << G3BZ(uVu_98394t, (char)886052930, C4X0, 7256278) << std::endl;
 
 switch (xccJBey7)
 {
@@ -529,7 +529,7 @@ else if (C4X0 >= K5V2z7ij)
 {
 for (int k = 0; k < 5; ++k)
 {
-Cn4DMt8e1 = jJa3D5BcM((short)1963734464, -1410986624, (char)1390155526, Gc4JWNFtT7, 1256889824);
+Cn4DMt8e1 = jJa3D5BcM((short)1963734464, -1410986624, (char)1390155526, Gc4JWNFtT7, (short)1256889824);
 }
 }
 else if (ay_Ze == 1713225913)

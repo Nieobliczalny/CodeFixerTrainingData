@@ -52,7 +52,7 @@ int main(int argc, char** argv) {
   char  b0AfA1aw;
   b0AfA1aw  =  (char)-219100636;
 	char	KSOUf_sYy;
-	KSOUf_sYy	=	-583528720;
+	KSOUf_sYy	=	(char)-583528720;
   short  G73XH8;
   G73XH8  =  (short)-1826239443;
 

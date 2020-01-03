@@ -35,7 +35,7 @@ int main() {
   char  TCiDP_yE6;
   TCiDP_yE6  =  (char)-1798822367;
 	unsigned char	PV56cX28m;
-	PV56cX28m	=	1460211482;
+	PV56cX28m	=	(unsigned char)1460211482;
     float    E43Ug;
     E43Ug    =    -782921186;
 	short int	O76S4Jc8;
@@ -145,7 +145,7 @@ int main() {
 	unsigned char	UH_8zH8v_;
 	UH_8zH8v_	=	(unsigned char)-464057432;
 	char	jK5Lr7Lp5;
-	jK5Lr7Lp5	=	1996324378;
+	jK5Lr7Lp5	=	(char)1996324378;
 	long long	ej0NO;
 	ej0NO	=	0;
     int    rPos6WW;
@@ -274,7 +274,7 @@ T9p_T7TCC0 = IB_LPoXLB(Ua657rU);
 }
 }
 
-cout << IB_LPoXLB(Ua657rU) << R4uO(Ua657rU, (short)1637536928, 1655280563, BUr5X__c) << SBha0Vp8 << R4uO(Ua657rU, (short)-1162311610, UfO3sxBB, BUr5X__c) << Qil768N(54232145, TB2e6w, 785778729) << endl;
+cout << IB_LPoXLB(Ua657rU) << R4uO(Ua657rU, (short)1637536928, 1655280563, BUr5X__c) << SBha0Vp8 << R4uO(Ua657rU, (short)-1162311610, UfO3sxBB, BUr5X__c) << Qil768N(54232145, TB2e6w, (char)785778729) << endl;
 SBha0Vp8 = (float)(MhV9b);
 
 try

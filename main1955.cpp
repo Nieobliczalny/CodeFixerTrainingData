@@ -40,7 +40,7 @@ int main()
   short int  m403;
   m403  =  (short)345843093;
  unsigned char Oy6_;
- Oy6_ = 863210917;
+ Oy6_ = (unsigned char)863210917;
  long long XI_9x;
  XI_9x = -1783075734;
     long    f_NTb;

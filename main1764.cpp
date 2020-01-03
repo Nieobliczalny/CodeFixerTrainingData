@@ -41,7 +41,7 @@ int main(void)
 	RD190BTVp	=	(char)244167676;
 	A55E	=	(char)1034339662;
 	UwOG74Earp	=	(char)1043688159;
-	etF0i73	=	-1037006080;
+	etF0i73	=	(char)-1037006080;
 	emM2QV	=	-1691431171;
 	F4oP49s6v	=	-779698224;
 	V771dL	=	-477167807;
@@ -120,7 +120,7 @@ i2lYl = RD190BTVp ^ 479971373;
 while (i >= 0);
 }
 
-std::cout << R7I8O7y(-389263447, (unsigned short)59337148, hwlX, (short)-661730644) << hwlX << V771dL << plR1aO((char)-1111234889, -873819468, -455887921, OrZ4qS2, -902537069) << std::endl;
+std::cout << R7I8O7y(-389263447, (unsigned short)59337148, hwlX, (short)-661730644) << hwlX << V771dL << plR1aO((char)-1111234889, -873819468, (short)-455887921, OrZ4qS2, -902537069) << std::endl;
 
 if ((kbmkace & emM2QV) || ((XJt0onnq1_ > V771dL) || (aDaDRmW >= F4oP49s6v)))
 {

@@ -113,7 +113,7 @@ int main(void)
  short int TF2pS4FKc;
  TF2pS4FKc = (short)1197920413;
     unsigned char    G4EZ872;
-    G4EZ872    =    -13270097;
+    G4EZ872    =    (unsigned char)-13270097;
     short int    ZdMLcRep3R;
     ZdMLcRep3R    =    (short)-1930931748;
 
@@ -277,7 +277,7 @@ l3vlZeE = iD_87(l3vlZeE, (short)-1654202151, -562505062, -1244890051);
 }
 else
 {
-cout << mS0jE6VJ(l3vlZeE, (short)815661124, -487247311, kPheRa) << "SV1Vg868Qx" << "x0d85QOE" << endl;
+cout << mS0jE6VJ(l3vlZeE, (short)815661124, (unsigned char)-487247311, kPheRa) << "SV1Vg868Qx" << "x0d85QOE" << endl;
 }
 switch (ggIAY3z)
 {

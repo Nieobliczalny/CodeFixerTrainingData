@@ -55,7 +55,7 @@ int main() {
 	unsigned char	DjxNE;
 	DjxNE	=	(unsigned char)1320210029;
     char    r60Q;
-    r60Q    =    -960617388;
+    r60Q    =    (char)-960617388;
     unsigned long long    B2grh8C9;
     B2grh8C9    =    -1454061323;
  long HY4m;
@@ -91,7 +91,7 @@ int main() {
 	short int	wnQ6Zrl;
 	wnQ6Zrl	=	(short)1005916954;
 	unsigned char	Z0YpARr;
-	Z0YpARr	=	1817558972;
+	Z0YpARr	=	(unsigned char)1817558972;
     short    uU55d;
     uU55d    =    (short)915318922;
  long long H4_8Do;
@@ -101,7 +101,7 @@ int main() {
 	unsigned char	C3KGt9xF;
 	C3KGt9xF	=	(unsigned char)1939336952;
 	char	ps0AkI_;
-	ps0AkI_	=	204302812;
+	ps0AkI_	=	(char)204302812;
     char    r7dX_QRH7A;
     r7dX_QRH7A    =    (char)1622622673;
  long double ixNSx;
@@ -175,7 +175,7 @@ int main() {
 	unsigned int	rdqQYR;
 	rdqQYR	=	1176930315;
 	short	T5efA1AI;
-	T5efA1AI	=	-621602627;
+	T5efA1AI	=	(short)-621602627;
 
 {
 int i = 0;

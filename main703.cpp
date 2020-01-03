@@ -39,7 +39,7 @@ int main(int argc, char** argv)
   unsigned char  lE3EX17_6s  =  (unsigned char)-2086038607;
     short int    LgNel    =    (short)281839313;
  long long NJ841UdLB = -361049944;
-	unsigned short int	w5v9uwrGTg	=	-219713842;
+	unsigned short int	w5v9uwrGTg	=	(unsigned short)-219713842;
 	short	oiXJpy	=	0;
     unsigned int    po7X    =    -790706918;
 	unsigned long	tkpT8	=	-1689498491;
@@ -51,7 +51,7 @@ int main(int argc, char** argv)
  char GaQ2 = (char)-1857995482;
 	long long	p_bp	=	-1519490132;
     long    Bv6p3    =    1509512458;
-	short	TtHV	=	1074930887;
+	short	TtHV	=	(short)1074930887;
 	int	gywh0mP	=	-367815086;
   short int  avK_QF  =  1912710781;
  double vD5dNQCPE = -675572252;

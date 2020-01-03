@@ -91,7 +91,7 @@ while (j < 2)
 switch (D9QEV00)
 {
 case 0:
-NuZOAepk0t = NG0BpA((short)627700046, (unsigned char)1022151019, (unsigned char)-200949677, -1862442715, 985528821);
+NuZOAepk0t = NG0BpA((short)627700046, (unsigned char)1022151019, (unsigned char)-200949677, -1862442715, (short)985528821);
 break;
 case 1:
 wLR6t0 = NG0BpA(636725752, -1353198784, 106074277, 927231622, -1101309881);
@@ -130,7 +130,7 @@ switch (Qc8t)
 {
 case 'a':
 case 'A':
-D9QEV00 = R1SNHuYL5_(1497179633, 477052247);
+D9QEV00 = R1SNHuYL5_((char)1497179633, 477052247);
 break;
 case 'b':
 case 'B':

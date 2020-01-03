@@ -29,7 +29,7 @@ int main()
  long double c1aI54tk = 659871815;
   unsigned long long  gqNZynfP7q  =  1400002557;
  unsigned char wuKy2jGOHk = (unsigned char)-1106531189;
-  unsigned short int  Gbl_vq  =  -1406435098;
+  unsigned short int  Gbl_vq  =  (unsigned short)-1406435098;
     short int    fupMy4v    =    (short)-1723498815;
     unsigned short    rZuZ    =    (unsigned short)-705221571;
 	unsigned char	dFxp_z99w	=	378350239;
@@ -50,7 +50,7 @@ int main()
     char    QOHTY7    =    (char)-1511133292;
  long double w_speLgZfc = -891128795;
     short    gD53xOWMU    =    (short)1098809233;
-	char	N_1q2Smej	=	1195443688;
+	char	N_1q2Smej	=	(char)1195443688;
 	double	t275V2T	=	-126617834;
   unsigned int  izLq6No_q  =  0;
  double iFHBVh1 = -290741975;
@@ -62,7 +62,7 @@ int main()
   long long  gkJI9l2I5  =  0;
 	unsigned short int	xB4B2Qi3U	=	(unsigned short)-1590116120;
   unsigned int  qoGrBxcX4E  =  160385129;
- short int ig3e = -1490498589;
+ short int ig3e = (short)-1490498589;
  long long Q8mk22 = 155046589;
 	unsigned char	kw8w_4w_8	=	949888438;
 	unsigned int	snsiFK7	=	1129760442;
@@ -90,7 +90,7 @@ std::cout << "z327qb2Pt" << std::endl;
 w_speLgZfc = (long double)(qoGrBxcX4E);
 
 std::cout << "m9I2I9" << JLgkz1BO((char)1980268066, (char)-1284135005, C688, 1255890873) << A36oy << std::endl;
-bUEZqq5XM0 = JLgkz1BO(bUEZqq5XM0, (char)1221361344, 1922301057, 628420984);
+bUEZqq5XM0 = JLgkz1BO(bUEZqq5XM0, (char)1221361344, (char)1922301057, 628420984);
 w_speLgZfc = (int)ceil(j148w3Oh);
 
 if (BAZvf9zxM5 == -918729819)

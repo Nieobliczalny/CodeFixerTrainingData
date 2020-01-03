@@ -74,7 +74,7 @@ case 'e':
 rjXNeNTl = w_AK32();
 break;
 case 'f':
-mT6iIazV_p = x5rdxNE62_((unsigned char)256464556, -1180978292, 1485718487, -257295102, -713925630);
+mT6iIazV_p = x5rdxNE62_((unsigned char)256464556, -1180978292, 1485718487, (unsigned short)-257295102, -713925630);
 break;
 default:
 MRd7pZjpF = w_AK32();

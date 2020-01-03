@@ -60,7 +60,7 @@ case 'd':
 xW6R = u06B6t6uX_(xW6R, U_wh913n, (unsigned short)1051843885, (unsigned short)-2042092559);
 break;
 case 'e':
-s__O0y = IGaCgA_97X(-1680113668);
+s__O0y = IGaCgA_97X((short)-1680113668);
 break;
 case 'f':
 pNJ89niJ = u06B6t6uX_(pNJ89niJ, i1JC, FxL3C5cVSO, s__O0y);
@@ -224,7 +224,7 @@ for (int j = 0; j < 5; ++j)
 std::cout << IGaCgA_97X((short)-1037438520) << IGaCgA_97X(yRph) << u06B6t6uX_((unsigned short)1761961989, DqZ7, B3Y_L, (unsigned short)-591518162) << pNJ89niJ << "rM_jQg84v" << std::endl;
 }
 }
-s__O0y = IGaCgA_97X(1320912052);
+s__O0y = IGaCgA_97X((short)1320912052);
 if (FxL3C5cVSO < -815456718)
 {
 if (yRph)
@@ -554,7 +554,7 @@ case 'd':
 iprpFx %= 1362256777;
 break;
 case 'e':
-iprpFx = u06B6t6uX_((unsigned short)-219088509, Cy_0nO6jr9, (unsigned short)1397066793, 1854642963);
+iprpFx = u06B6t6uX_((unsigned short)-219088509, Cy_0nO6jr9, (unsigned short)1397066793, (unsigned short)1854642963);
 break;
 case 'f':
 TO6gtf1g6 = IGaCgA_97X(1797851991);

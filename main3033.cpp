@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
 	unsigned short int	bU41O;
 	bU41O	=	(unsigned short)962658924;
 	char	deC3I3TH;
-	deC3I3TH	=	-500700685;
+	deC3I3TH	=	(char)-500700685;
     long double    T5gi;
     T5gi    =    1666419976;
   unsigned int  N53L4;
@@ -82,7 +82,7 @@ int main(int argc, char** argv) {
  float T3S_;
  T3S_ = 542223574;
 	short	P47hX8Btt6;
-	P47hX8Btt6	=	2083690000;
+	P47hX8Btt6	=	(short)2083690000;
  unsigned long j58cp;
  j58cp = -1773350853;
  short s5BS4x27D;

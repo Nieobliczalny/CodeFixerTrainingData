@@ -32,7 +32,7 @@ int main()
 	long long	f7MT7m8	=	800180059;
   unsigned int  n9rO  =  685809171;
     short int    k6LW07    =    (short)1973613984;
- unsigned char w_f_km = 1207832452;
+ unsigned char w_f_km = (unsigned char)1207832452;
     int    Wd1_J    =    -1377134404;
   short int  mG4z0eF  =  (short)-2058331419;
   float  Kux7MC  =  -1121357629;

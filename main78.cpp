@@ -145,7 +145,7 @@ int j = 2;
 while (j >= 0)
 {
 --j;
-cout << p95c1Fgy((unsigned short)127275184, ZQ_1, g8p_wauL, (unsigned short)-1391075075, Lnf_PA) << p95c1Fgy((unsigned short)-1924785114, -302581681, g8p_wauL, fkWV01xuK, Lnf_PA) << p95c1Fgy(mxmpk, -633568202, -968148433, -1689332167, -1726820849) << endl;
+cout << p95c1Fgy((unsigned short)127275184, ZQ_1, g8p_wauL, (unsigned short)-1391075075, Lnf_PA) << p95c1Fgy((unsigned short)-1924785114, -302581681, g8p_wauL, fkWV01xuK, Lnf_PA) << p95c1Fgy(mxmpk, -633568202, -968148433, (unsigned short)-1689332167, -1726820849) << endl;
 }
 }
 }

@@ -34,7 +34,7 @@ int main()
  hpLeFsgaui = (short)969223633;
  TU99hl3OK = (short)-3992829;
  vZ3jjZ41_3 = (short)-1743738003;
- O37DGJFm = 1380826981;
+ O37DGJFm = (short)1380826981;
  i07iCq5U0m = -204783106;
  OM4h9V = 1863969389;
  u64Xp = 609747685;
@@ -47,7 +47,7 @@ int main()
 
 if (TU99hl3OK & PHLo)
 {
-O37DGJFm = rg5Nx5sO(143967876, u64Xp);
+O37DGJFm = rg5Nx5sO((short)143967876, u64Xp);
 }
 else if (P8rZ < E57ze)
 {

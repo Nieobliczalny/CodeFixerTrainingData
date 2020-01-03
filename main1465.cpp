@@ -120,7 +120,7 @@ int main(int argc, char** argv)
 	short	ZfFv8p9h;
 	ZfFv8p9h	=	(short)608529970;
 	unsigned char	By3m3s531;
-	By3m3s531	=	-303529845;
+	By3m3s531	=	(unsigned char)-303529845;
   double  ENBG3;
   ENBG3  =  1050364099;
     short    AC6y5s52x;

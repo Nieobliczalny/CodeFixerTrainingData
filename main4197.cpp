@@ -17,7 +17,7 @@ int main(void)
   int  T63P  =  1845870988;
  unsigned char asG0m1qW = (unsigned char)1053552764;
  long long fpm2_6 = 0;
-    short int    Lqed    =    -804910171;
+    short int    Lqed    =    (short)-804910171;
  unsigned int HR2v = 1304479976;
     short    hRy1bOUmh    =    -2044100919;
 	long	E0g6xN4lux	=	-319714107;

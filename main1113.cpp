@@ -93,7 +93,7 @@ while (i >= 0);
 }
 if (xUkO52b >= llrs6Ij4)
 {
-cout << HyOwWUs3((unsigned char)-812376487, 954938719) << X0SxHrL8F() << "D9r_p_x" << nC_lPq << wU2xsR_In1(-2082222725, KXLn8H9N, 853128651) << endl;
+cout << HyOwWUs3((unsigned char)-812376487, 954938719) << X0SxHrL8F() << "D9r_p_x" << nC_lPq << wU2xsR_In1((short)-2082222725, KXLn8H9N, 853128651) << endl;
 }
 else
 {

@@ -17,7 +17,7 @@ int main(void)
     char    G_3V    =    (char)-458974889;
   long double  Wd5Gq  =  -1580614933;
     short    Bo_n7    =    (short)-1886419787;
-    unsigned short    b7uAs_GX0    =    -1228769522;
+    unsigned short    b7uAs_GX0    =    (unsigned short)-1228769522;
 	unsigned short	yw3U06Q	=	434916783;
   unsigned int  T7T30Dj  =  0;
  float QTJ1 = -396704352;
@@ -376,7 +376,7 @@ ZjLQQNH = Yvw_x(-412624366, (unsigned char)-1182807400, (short)-1477679340);
 
 try
 {
-std::cout << Yvw_x(1614396906, Wd5Gq, (short)339146163) << "ox8_0z" << Yvw_x(RO3aD9vN, Wd5Gq, 2046591341) << std::endl;
+std::cout << Yvw_x(1614396906, Wd5Gq, (short)339146163) << "ox8_0z" << Yvw_x(RO3aD9vN, Wd5Gq, (short)2046591341) << std::endl;
 }
 catch (int& errorCode)
 {

@@ -21,7 +21,7 @@ int main()
 	unsigned short	DMGo7p28;
 	DMGo7p28	=	(unsigned short)1771253449;
  unsigned short int k6gMB5t58z;
- k6gMB5t58z = 1067888773;
+ k6gMB5t58z = (unsigned short)1067888773;
  long long RHy3;
  RHy3 = -752588545;
   short  gSnv3Lqrq;
@@ -37,7 +37,7 @@ int main()
  char Dy8KZ5l;
  Dy8KZ5l = (char)1981310764;
   unsigned char  GsNW29;
-  GsNW29  =  -776367788;
+  GsNW29  =  (unsigned char)-776367788;
     long    i8pY_r_;
     i8pY_r_    =    -2094799496;
     short int    IbXMHkZ;
@@ -135,7 +135,7 @@ int main()
   short  R2LeEK;
   R2LeEK  =  (short)-1189451977;
   unsigned char  LZJWe;
-  LZJWe  =  -57005778;
+  LZJWe  =  (unsigned char)-57005778;
 
 {
 int i = 4;

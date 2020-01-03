@@ -415,7 +415,7 @@ gDOT = xiq4e7Xj(C0_uxc, (char)-820520737, (unsigned short)-1962521807);
 break;
 case 'e':
 case 'E':
-R5gv3Do1R = xiq4e7Xj(C0_uxc, (char)-662702552, 354613534) + s3PL7IkM80;
+R5gv3Do1R = xiq4e7Xj(C0_uxc, (char)-662702552, (unsigned short)354613534) + s3PL7IkM80;
 break;
 case 'f':
 case 'F':

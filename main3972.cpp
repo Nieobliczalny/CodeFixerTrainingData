@@ -25,7 +25,7 @@ int main() {
 	mEgv	=	(unsigned short)666514698;
 	eE42j_vv	=	(unsigned short)-1383108524;
 	J4NJLu5a	=	(unsigned short)159907061;
-	CQ49E23Z	=	183017566;
+	CQ49E23Z	=	(unsigned short)183017566;
 	A7Fi	=	2033474615;
 	VORC8uS	=	432741782;
 	OEmD5Bd	=	1196791439;
@@ -35,7 +35,7 @@ int main() {
 	VBig	=	(unsigned short)-721750035;
 	ViJE5R	=	(unsigned short)-680311098;
 	OePgr	=	(unsigned short)1953836813;
-	nTq3_ltHCA	=	2144379219;
+	nTq3_ltHCA	=	(unsigned short)2144379219;
 	OdR1m99c1	=	1577546767;
 	SYL3QSTllw	=	909040668;
 	H_Vb9	=	-64720257;
@@ -45,7 +45,7 @@ int main() {
 	gwwM_59	=	(unsigned short)-1601097072;
 	oaig5Pa	=	(unsigned short)-195971164;
 	fEf_h25Q	=	(unsigned short)2079708084;
-	Tn00JOEckQ	=	-1377386687;
+	Tn00JOEckQ	=	(unsigned short)-1377386687;
 	Qb9xAnK	=	645730443;
 	b9xs0aE33	=	1966904231;
 	B1CGt_NJk0	=	-1725188460;
@@ -55,7 +55,7 @@ int main() {
 	Jak9C7g	=	(unsigned short)-1724666986;
 	yXjw7Q49	=	(unsigned short)-297950002;
 	A7fc8HY	=	(unsigned short)-1409731637;
-	LGxRm99xl6	=	903050722;
+	LGxRm99xl6	=	(unsigned short)903050722;
 	Tcht	=	-949788346;
 	pTJi	=	1280524836;
 	FSR7j8_w	=	769990465;
@@ -65,7 +65,7 @@ int main() {
 	FtFwjL	=	(unsigned short)-317701024;
 	q_umHs9	=	(unsigned short)-878892631;
 	tYgF9Q	=	(unsigned short)2123581101;
-	R6z54bZ	=	-1498315906;
+	R6z54bZ	=	(unsigned short)-1498315906;
 	U6g1WF_101	=	1295409814;
 	Hck1x5h	=	767550388;
 	xxGq6_	=	-848938551;
@@ -75,7 +75,7 @@ int main() {
 	E3Oh	=	(unsigned short)1564732381;
 	fRoD3I	=	(unsigned short)-2117980957;
 	dSiBAV3SQc	=	(unsigned short)-1558599405;
-	zbHUw_m8	=	1687116449;
+	zbHUw_m8	=	(unsigned short)1687116449;
 	E69ja74C	=	965629487;
 	JwX3	=	-1038767355;
 	lb9MCc5g0	=	1936650333;
@@ -85,7 +85,7 @@ int main() {
 	QS0i	=	(unsigned short)322665539;
 	a_Tp771b	=	(unsigned short)-379404872;
 	kLcaj	=	(unsigned short)1116898618;
-	rYGFmP	=	-1934856088;
+	rYGFmP	=	(unsigned short)-1934856088;
 	AYJk	=	128479059;
 	p9_2L2Z27T	=	-79433867;
 	W4tcW_h	=	-1421862300;
@@ -95,7 +95,7 @@ int main() {
 	pB9Fg094K	=	(unsigned short)-1405213427;
 	nJK5wdpC	=	(unsigned short)-1891235657;
 	o2HQ	=	(unsigned short)-635769869;
-	jJ2ExY0r0D	=	-1575237824;
+	jJ2ExY0r0D	=	(unsigned short)-1575237824;
 	QzD9qTJ_P4	=	-496857706;
 	YOm40o_T4	=	1197621284;
 	Y_1DY2	=	-1990734434;
@@ -105,7 +105,7 @@ int main() {
 	uA4i26KxWq	=	(unsigned short)-1160187806;
 	UMlY	=	(unsigned short)969195906;
 	mX9rN	=	(unsigned short)-2002823446;
-	w596D	=	2136779734;
+	w596D	=	(unsigned short)2136779734;
 	P2v_z54pd	=	977313293;
 	p34ykU4RHn	=	-532970447;
 	Sygf1sv	=	-671008931;
@@ -115,7 +115,7 @@ int main() {
 	bEcPH	=	(unsigned short)1629067660;
 	rSepwvSx7	=	(unsigned short)59557640;
 	iV2c5k5v	=	(unsigned short)-890201301;
-	Wb7bw9717	=	-1396119124;
+	Wb7bw9717	=	(unsigned short)-1396119124;
 	tn8P3wF	=	-1901763998;
 	W4o33UF5	=	-1372967607;
 	t8t8N4	=	1249549227;
@@ -267,7 +267,7 @@ a_Tp771b = lW3HxM16R(a_Tp771b, E3Oh);
 }
 else
 {
-std::cout << My3H5MB(a_Tp771b, 1747237207, p9_2L2Z27T) << lW3HxM16R((unsigned short)-30640378, 1274294946) << sOZt((short)1420128263, (unsigned short)-261424706, -1822186689) << std::endl;
+std::cout << My3H5MB(a_Tp771b, 1747237207, p9_2L2Z27T) << lW3HxM16R((unsigned short)-30640378, 1274294946) << sOZt((short)1420128263, (unsigned short)-261424706, (char)-1822186689) << std::endl;
 }
 
 i53G_ = sOZt(i53G_, -1569548550, Hck1x5h);
@@ -351,7 +351,7 @@ case 2:
 nJK5wdpC &= q7Ll;
 break;
 case 3:
-Jak9C7g = (bEcPH & uA4i26KxWq) ? (unsigned short)-2038534389 : -1237910819;
+Jak9C7g = (bEcPH & uA4i26KxWq) ? (unsigned short)-2038534389 : (unsigned short)-1237910819;
 break;
 case 4:
 d7dy0v = lb9MCc5g0 >> 71332314;
@@ -446,7 +446,7 @@ case 2:
 YIAAQXQ6 = (Jak9C7g >= 1140953488) ? gwwM_59 : (unsigned short)-1856457785;
 break;
 case 3:
-J4NJLu5a = lW3HxM16R(852300193, -2080516391);
+J4NJLu5a = lW3HxM16R((unsigned short)852300193, -2080516391);
 break;
 case 4:
 fEf_h25Q = lW3HxM16R(fEf_h25Q, gT8bvv);
@@ -560,7 +560,7 @@ case 3:
 b9xs0aE33 = sOZt(mEgv, (unsigned short)1200364404, QS0i) % a_Tp771b;
 break;
 case 4:
-Tg2a = sOZt(Tg2a, GkkEJC_6o, -1251326043);
+Tg2a = sOZt(Tg2a, GkkEJC_6o, (char)-1251326043);
 break;
 case 5:
 xxGq6_ = CQ49E23Z % q7Ll;

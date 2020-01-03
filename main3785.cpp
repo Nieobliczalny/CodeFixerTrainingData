@@ -108,7 +108,7 @@ int main(int argc, char** argv) {
  char j0W6WxOKK;
  j0W6WxOKK = (char)-2143185402;
   unsigned char  zp_97_K1;
-  zp_97_K1  =  2002575458;
+  zp_97_K1  =  (unsigned char)2002575458;
     unsigned long    vt3lIGwf;
     vt3lIGwf    =    814933277;
     long double    f42ee;
@@ -170,7 +170,7 @@ int main(int argc, char** argv) {
     unsigned char    r_3rI1K3;
     r_3rI1K3    =    (unsigned char)-333643123;
   char  jduZ;
-  jduZ  =  -54216906;
+  jduZ  =  (char)-54216906;
     double    MYJqOS;
     MYJqOS    =    96262416;
  int NtqKb_Wz;

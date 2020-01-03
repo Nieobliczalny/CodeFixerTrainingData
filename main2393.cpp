@@ -175,7 +175,7 @@ int main(int argc, char** argv)
 	short	o7Yji;
 	o7Yji	=	(short)1436094045;
     char    D7f6159;
-    D7f6159    =    -235993400;
+    D7f6159    =    (char)-235993400;
  long gx4i49jZm;
  gx4i49jZm = 0;
     int    YX96CZA;

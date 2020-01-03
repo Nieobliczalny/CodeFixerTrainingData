@@ -45,7 +45,7 @@ int main(int argc, char** argv) {
   short int  EFFfm;
   EFFfm  =  (short)1075935850;
   unsigned char  Mm983;
-  Mm983  =  -613385172;
+  Mm983  =  (unsigned char)-613385172;
   short int  lAjt09B0N;
   lAjt09B0N  =  (short)-1433009734;
 	short	xTd7;

@@ -17,7 +17,7 @@ int main(void) {
 	a5Pf2	=	(short)1705384419;
 	Vz4BNXe	=	(short)-1875645501;
 	ZuDl	=	(short)347981756;
-	le6A	=	1234969757;
+	le6A	=	(short)1234969757;
 	vn_j3	=	-1700133891;
 	Z3xVBk1NJT	=	-1126346231;
 	aBTJ	=	1661661469;
@@ -27,7 +27,7 @@ int main(void) {
 	Aqm6clLa9y	=	(short)-1356838056;
 	o13bwA	=	(short)1059406436;
 	rTYd9U0l	=	(short)1453179681;
-	h749H	=	-1426854847;
+	h749H	=	(short)-1426854847;
 	U8b1Rg	=	-1874938957;
 	kU4yl3RR	=	-273735976;
 	VIOHM6ynIU	=	743835380;

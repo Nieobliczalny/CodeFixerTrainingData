@@ -70,7 +70,7 @@ int main() {
 	short	IWmj3_X_90;
 	IWmj3_X_90	=	(short)-1575420605;
     short    s_ksG1EW;
-    s_ksG1EW    =    873327286;
+    s_ksG1EW    =    (short)873327286;
     long long    m759x8rPX;
     m759x8rPX    =    -1129294063;
   unsigned short int  S__k0tvgYs;

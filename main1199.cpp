@@ -601,7 +601,7 @@ case 'h':
 y312N >>= afnH1R_k9;
 break;
 case 'i':
-pLGEVoG = Pd1A(m5y4OYE4_, (unsigned short)915326557, -1944646414, 746777058);
+pLGEVoG = Pd1A(m5y4OYE4_, (unsigned short)915326557, (unsigned short)-1944646414, 746777058);
 break;
 }
 }

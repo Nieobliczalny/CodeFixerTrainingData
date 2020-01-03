@@ -443,7 +443,7 @@ GiFi59PU6 = n35Ax((short)801858222, 1494774757, Hb8D, KpT25);
 }
 else if (jJhrpGp3 <= -1046417459)
 {
-D6NXE = Bj3725EE30(D6NXE, 1097290376, -720991292, 2097309743);
+D6NXE = Bj3725EE30(D6NXE, (short)1097290376, -720991292, 2097309743);
 }
 else
 {
@@ -504,7 +504,7 @@ case 2:
 K5Pt33n -= vGudDGgcTm;
 break;
 case 3:
-ZEk7Eb = Bj3725EE30(ZEk7Eb, (short)1463804922, 1736145077, 483634577);
+ZEk7Eb = Bj3725EE30(ZEk7Eb, (short)1463804922, 1736145077, (unsigned short)483634577);
 break;
 case 4:
 Tl94yC5XO = Bj3725EE30(Tl94yC5XO, (short)1289968617, -503828584, -2071679958);
@@ -614,7 +614,7 @@ break;
 }
 }
 std::cout << D120Xb((unsigned short)-385985698, (char)528849883) << "Lx2j3k_" << wH0TcuVeP << gn88 << std::endl;
-Hb8D = D120Xb(i875_6LR6, 1253753355);
+Hb8D = D120Xb(i875_6LR6, (char)1253753355);
 {
 int i = 9;
 do

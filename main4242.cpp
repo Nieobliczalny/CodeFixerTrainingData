@@ -83,7 +83,7 @@ int main()
   unsigned short  ZOr1;
   ZOr1  =  (unsigned short)21920742;
     short    b37u1;
-    b37u1    =    -736222919;
+    b37u1    =    (short)-736222919;
   unsigned char  f4_KMX_;
   f4_KMX_  =  (unsigned char)-1599684192;
     long    Q3nF;

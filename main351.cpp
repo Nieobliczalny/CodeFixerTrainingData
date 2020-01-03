@@ -238,7 +238,7 @@ soFr5n = Yjz4PF9Zi((char)-1604485968, PX8FTL03, 1336229201, (unsigned short)-645
 ++i;
 }
 }
-std::cout << s_Vb6 << Yjz4PF9Zi((char)-1013821146, PX8FTL03, d54z13, -1267411354) << "S9yD30G" << std::endl;
+std::cout << s_Vb6 << Yjz4PF9Zi((char)-1013821146, PX8FTL03, d54z13, (unsigned short)-1267411354) << "S9yD30G" << std::endl;
 
 U_JW2cG = (double)(R8f6j);
 QB8SHZ6 = (int)ceil(s_Vb6);

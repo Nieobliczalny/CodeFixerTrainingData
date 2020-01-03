@@ -42,7 +42,7 @@ int main(void) {
 	int	CFyww60	=	1321400751;
 	unsigned short	J64sSGoM	=	(unsigned short)-155558260;
  long double BgvVP729 = -176520666;
- unsigned short int c9Rn = -397561078;
+ unsigned short int c9Rn = (unsigned short)-397561078;
   short  V0yO2  =  -2055267742;
   unsigned long  pLEGzz56g  =  -487636258;
 	long	AZZTI	=	-824773773;
@@ -59,7 +59,7 @@ int main(void) {
  unsigned long long q5XL2d_V0o = 1012298512;
  long double tD_a1Kr = -1238509699;
     char    U__k04JR8    =    (char)-1814217654;
-  unsigned char  Cy9pZA1T  =  955913002;
+  unsigned char  Cy9pZA1T  =  (unsigned char)955913002;
  long C9jHD7 = 713993372;
     unsigned short    r9Z2C57vz    =    1415646588;
   unsigned short  VyT50  =  1395865423;
@@ -91,7 +91,7 @@ int main(void) {
  unsigned int CY38ouV = -2108538525;
  unsigned int i6r8EA = 1309345930;
  char qVh5YK6V = (char)-1267863734;
-	unsigned short int	K_NzcJooA7	=	1132435001;
+	unsigned short int	K_NzcJooA7	=	(unsigned short)1132435001;
     int    u1CBLNbLw7    =    -1505441771;
   unsigned short  B_v5  =  537714566;
     short    lIBdsF    =    1373854545;
@@ -106,7 +106,7 @@ int main(void) {
  short Wl25 = (short)1406779547;
  unsigned long loqpsB8 = -1509895139;
  unsigned long long ddoM3Za9k = 1492248462;
-  short int  ysR0  =  -1270787317;
+  short int  ysR0  =  (short)-1270787317;
   char  P10vKG  =  (char)1421715037;
     long long    NI_yI6oN    =    -1246684852;
  long soyqe9wE1_ = -2124602261;
@@ -148,7 +148,7 @@ TmY9_0W = wKu7G(c9Rn, (short)-1169482359, (short)1893896710, (short)-301907784, 
 break;
 }
 std::cout << wKu7G(-453552436, tJ8_o, CY38ouV, t24sTr28xt, qVjC289) << "d0_VUxZRh" << NI_yI6oN << std::endl;
-QaFVt_x = -1040865926 / wKu7G(147799656, -889297073, CY38ouV, -728534998, -1749155046);
+QaFVt_x = -1040865926 / wKu7G(147799656, (short)-889297073, CY38ouV, -728534998, -1749155046);
 
 RS_u = (int)ceil(INQ15rnazj);
 try

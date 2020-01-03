@@ -13,7 +13,7 @@ int main(void)
  unsigned short int w64W_7930 = (unsigned short)-216143806;
 	unsigned short int	gsdZo515xR	=	(unsigned short)1263338358;
   unsigned short  H5x0IR  =  (unsigned short)532898278;
- unsigned short AsY2_gpmr3 = 1537769126;
+ unsigned short AsY2_gpmr3 = (unsigned short)1537769126;
     unsigned int    mG59_4J    =    -349661426;
     unsigned int    HE0o0    =    1469693383;
     unsigned short    hfV4bsD0    =    -287912083;
@@ -30,7 +30,7 @@ int main(void)
     long long    YIOs2m    =    0;
   unsigned long  HRCU  =  136163501;
     long double    A5Is8ap_f    =    1293831653;
-	unsigned short	K1O8P54	=	1474545783;
+	unsigned short	K1O8P54	=	(unsigned short)1474545783;
 	unsigned short int	cE34y9	=	-1618605626;
   unsigned long  Et_ke9  =  1114796625;
  long eUYp0JC = 1216404390;

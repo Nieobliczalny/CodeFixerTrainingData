@@ -65,7 +65,7 @@ int main(int argc, char** argv) {
 	unsigned char	im7g82w;
 	im7g82w	=	(unsigned char)44486372;
     short int    hM7fd8DVJ;
-    hM7fd8DVJ    =    -1082705326;
+    hM7fd8DVJ    =    (short)-1082705326;
 	long double	W2Sqr;
 	W2Sqr	=	1534492269;
  double z2wV2;
@@ -127,7 +127,7 @@ int main(int argc, char** argv) {
     short    X_63C37G9;
     X_63C37G9    =    (short)-888146600;
  short vYHc1v;
- vYHc1v = 967825423;
+ vYHc1v = (short)967825423;
 	char	o3HT7CHLg;
 	o3HT7CHLg	=	(char)-1760807448;
 	unsigned char	R6P_X;
@@ -157,7 +157,7 @@ int main(int argc, char** argv) {
  short int jlf4M5;
  jlf4M5 = (short)651792626;
  unsigned short JNoD_4hc1w;
- JNoD_4hc1w = -1104395093;
+ JNoD_4hc1w = (unsigned short)-1104395093;
 	long	EKxF0_Ud;
 	EKxF0_Ud	=	396534735;
 	long double	N4aOELgg4w;
@@ -181,7 +181,7 @@ int main(int argc, char** argv) {
     unsigned char    lW6YSc;
     lW6YSc    =    (unsigned char)1613125400;
     unsigned short int    oiZ4;
-    oiZ4    =    214508651;
+    oiZ4    =    (unsigned short)214508651;
 	unsigned long	JEof;
 	JEof	=	-395609016;
   unsigned int  Jd76;
@@ -258,7 +258,7 @@ std::cout << "f4kF2" << u9GF7Q << "w4USs88" << std::endl;
 }
 if ((pJ_x1Ovu8 != JNoD_4hc1w) || (jlf4M5))
 {
-std::cout << MPda4Db9V((char)-20413865, 1967536118, (short)2103224951, v97LTs7hr, -447924181) << v6zV_Zqpte(G9FFk6, (unsigned short)1012206479, -1516153713) << std::endl;
+std::cout << MPda4Db9V((char)-20413865, 1967536118, (short)2103224951, v97LTs7hr, -447924181) << v6zV_Zqpte(G9FFk6, (unsigned short)1012206479, (unsigned short)-1516153713) << std::endl;
 }
 
 if (GRX4s389o == 1848172220)
@@ -421,7 +421,7 @@ rwpE4i0Zn = Lxu5(374793471, t79_e);
 break;
 case 'd':
 case 'D':
-Af5ST = v6zV_Zqpte(-178324597, (unsigned short)-44899012, 1325536027);
+Af5ST = v6zV_Zqpte(-178324597, (unsigned short)-44899012, (unsigned short)1325536027);
 break;
 case 'e':
 case 'E':

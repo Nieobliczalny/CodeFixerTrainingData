@@ -45,7 +45,7 @@ int main(void)
  char fxn8k01JHN;
  fxn8k01JHN = (char)1304309447;
 	short	Jv1sIn;
-	Jv1sIn	=	-1275854655;
+	Jv1sIn	=	(short)-1275854655;
  unsigned long IhjJ3n;
  IhjJ3n = 1750889638;
   unsigned int  UNYX1O;
@@ -137,7 +137,7 @@ case 'e':
 ErO7i9 = (int)floor(eAMdE);
 break;
 case 'f':
-vwYA3Kwr = I8GhgNmh(vwYA3Kwr, 14889197, IK8e_Rts51);
+vwYA3Kwr = I8GhgNmh(vwYA3Kwr, (short)14889197, IK8e_Rts51);
 break;
 case 'g':
 h9HrA_Ms8X = eAMdE + h9HrA_Ms8X;
@@ -160,7 +160,7 @@ c19eYRCq26 = l6Bp_Vp85 ^ 822602233;
 MMREi2 = (int)abs(B4n90ki);
 try
 {
-std::cout << I8GhgNmh((unsigned short)1851869562, (short)-504137566, IK8e_Rts51) << "SOM5D6y" << "O_yk" << ZAd0z(1746592016, (short)-1847246043, IK8e_Rts51) << I8GhgNmh(-2089005871, fxn8k01JHN, 1147888722) << std::endl;
+std::cout << I8GhgNmh((unsigned short)1851869562, (short)-504137566, IK8e_Rts51) << "SOM5D6y" << "O_yk" << ZAd0z(1746592016, (short)-1847246043, IK8e_Rts51) << I8GhgNmh((unsigned short)-2089005871, fxn8k01JHN, 1147888722) << std::endl;
 }
 catch (int& errorCode)
 {

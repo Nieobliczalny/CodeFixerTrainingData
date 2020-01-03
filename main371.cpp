@@ -17,7 +17,7 @@ int main(void) {
 	y44C9	=	(unsigned short)742896004;
 	S380dX6	=	(unsigned short)1090346605;
 	uo9tD_7mS	=	(unsigned short)1394285522;
-	RUqqEmxzA3	=	-609172079;
+	RUqqEmxzA3	=	(unsigned short)-609172079;
 	oo0YJ	=	1856476635;
 	z76kNtC	=	-1884654107;
 	Lxg4yc03R	=	551245610;
@@ -27,7 +27,7 @@ int main(void) {
 	sM4ncFs	=	(unsigned short)1406182288;
 	V0QL9Zu_j	=	(unsigned short)-1797783792;
 	HXwX3_g	=	(unsigned short)1274273924;
-	T0J3i9sU6	=	-246378958;
+	T0J3i9sU6	=	(unsigned short)-246378958;
 	pz4Z	=	2101161109;
 	m71UXh2	=	-1615403467;
 	m1sJwfEZ	=	379274245;
@@ -37,7 +37,7 @@ int main(void) {
 	J_fX4o	=	(unsigned short)-1228383055;
 	a4XKbE1d	=	(unsigned short)1571500243;
 	BElw	=	(unsigned short)-307877314;
-	HQX8RB4J	=	1642842766;
+	HQX8RB4J	=	(unsigned short)1642842766;
 	j8HkD	=	1884819691;
 	x_7p5J24c	=	775568610;
 	L_W8WJH6	=	-1698483393;
@@ -47,7 +47,7 @@ int main(void) {
 	ef3TNJ	=	(unsigned short)-1181371809;
 	AkPz0jz	=	(unsigned short)1963080456;
 	NwXyqSn_	=	(unsigned short)170044098;
-	QK5Xf	=	1296782652;
+	QK5Xf	=	(unsigned short)1296782652;
 	ECT44B	=	1504206228;
 	JOC93rs	=	-1417573475;
 	j3u3	=	-692529105;
@@ -57,7 +57,7 @@ int main(void) {
 	X454CUA1	=	(unsigned short)-562369943;
 	t7Ko51oAv	=	(unsigned short)-1131507709;
 	YqNcNzI3U	=	(unsigned short)2138209710;
-	CmyX62c	=	-376055981;
+	CmyX62c	=	(unsigned short)-376055981;
 	PU3r	=	-1719034911;
 	V3o7L_a	=	1302964427;
 	K3e90	=	847788039;
@@ -67,7 +67,7 @@ int main(void) {
 	KH2o6pSjb	=	(unsigned short)258469948;
 	wN_06	=	(unsigned short)-1061074823;
 	Ws_H5EK	=	(unsigned short)-289300916;
-	yX8b	=	-176467348;
+	yX8b	=	(unsigned short)-176467348;
 	eRkPd8z	=	323661580;
 	YFgWpiW	=	1268468754;
 	mO6v2a	=	2043019347;
@@ -77,7 +77,7 @@ int main(void) {
 	s04Ltoo3	=	(unsigned short)1431341886;
 	KV6Na2xf3i	=	(unsigned short)-1763428830;
 	p_RX7uf3x	=	(unsigned short)-402332592;
-	LZ_94	=	-1575187269;
+	LZ_94	=	(unsigned short)-1575187269;
 	oW50X_2EKP	=	1684143527;
 	lLUf608	=	-638205705;
 	hx54J	=	-1742101558;
@@ -87,7 +87,7 @@ int main(void) {
 	ghHu_GbPd	=	(unsigned short)-1150435376;
 	w2G32C02Zt	=	(unsigned short)1389493540;
 	b55F8Gy2_Y	=	(unsigned short)1901012938;
-	PZft	=	1064826177;
+	PZft	=	(unsigned short)1064826177;
 	P2urT_N	=	2093007062;
 	cw8sYW4	=	-807499020;
 	pDuI7iCxr	=	-1845709763;
@@ -97,7 +97,7 @@ int main(void) {
 	FZQd7HC13	=	(unsigned short)-1960762809;
 	cL29d9	=	(unsigned short)1835633815;
 	H1W4	=	(unsigned short)1217521874;
-	CxvBYP	=	1863944333;
+	CxvBYP	=	(unsigned short)1863944333;
 	Kj1hpGY	=	-1267391744;
   unsigned short  iF5WeZFM,  UO8rN,  Ojy9LWN;
   iF5WeZFM  =  0;
@@ -139,7 +139,7 @@ AkPz0jz = ECT44B * j8HkD;
 }
 else
 {
-iF5WeZFM = M_3phc((short)-1669599972, JOC93rs, -1845739983, 928731543, cL29d9);
+iF5WeZFM = M_3phc((short)-1669599972, JOC93rs, (short)-1845739983, 928731543, cL29d9);
 }
 }
 while (i < 1);
@@ -193,7 +193,7 @@ if (z571am4q >= w2G32C02Zt)
 {
 if (f1e9h_Z == -1112645187)
 {
-std::cout << M_3phc((short)969086864, (short)-471313222, (short)762635536, 1133533083, 1105679277) << E9zt7zuCJ << std::endl;
+std::cout << M_3phc((short)969086864, (short)-471313222, (short)762635536, 1133533083, (char)1105679277) << E9zt7zuCJ << std::endl;
 }
 else if (Lxg4yc03R >= 857534560)
 {
@@ -385,7 +385,7 @@ case 3:
 B7DH78H = f1e9h_Z ^ 1249164814;
 break;
 case 4:
-iF5WeZFM = M_3phc((short)-1713796835, 555806083, AkPz0jz, 1647825800, uo9tD_7mS);
+iF5WeZFM = M_3phc((short)-1713796835, (short)555806083, AkPz0jz, 1647825800, uo9tD_7mS);
 break;
 case 5:
 KH2o6pSjb = N9pE8SOY1Z(-885158182);
@@ -399,7 +399,7 @@ break;
 }
 }
 }
-UO8rN = M_3phc(hx54J, LZ_94, (short)233866952, 565432889, 2108677606);
+UO8rN = M_3phc(hx54J, LZ_94, (short)233866952, 565432889, (char)2108677606);
 {
 int i = 5;
 do
@@ -416,7 +416,7 @@ oo0YJ = N9pE8SOY1Z(1882224590) / 696571887;
 }
 else
 {
-std::cout << CxvBYP << M_3phc(hx54J, (short)-1504275992, XiT_4, KCwhkmgc7, (char)1977663767) << K3e90 << "Q1e7Q" << M_3phc((short)-757188890, 1194100708, XiT_4, KCwhkmgc7, MzVXu9xt) << std::endl;
+std::cout << CxvBYP << M_3phc(hx54J, (short)-1504275992, XiT_4, KCwhkmgc7, (char)1977663767) << K3e90 << "Q1e7Q" << M_3phc((short)-757188890, (short)1194100708, XiT_4, KCwhkmgc7, MzVXu9xt) << std::endl;
 }
 
 for (int i = 8; i >= 0; --i)

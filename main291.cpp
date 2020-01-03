@@ -597,7 +597,7 @@ case 7:
 j_XTuz57 = BvpxaZ3lz7(-322540103) + 1821284598;
 break;
 case 8:
-caLBh3mKO = ObU8MtZ1_o((char)-498647009, -1331430755);
+caLBh3mKO = ObU8MtZ1_o((char)-498647009, (unsigned short)-1331430755);
 break;
 case 9:
 j_XTuz57 *= i5LNA;

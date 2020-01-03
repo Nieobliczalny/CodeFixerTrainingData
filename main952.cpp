@@ -276,7 +276,7 @@ case 4:
 QgWw1Zc1q = T6_S_M__(-1861471114, rPt9o7M, (unsigned short)-252176546);
 break;
 case 5:
-koYecHe = T6_S_M__(rPt9o7M, (short)-707595367, -385428318);
+koYecHe = T6_S_M__(rPt9o7M, (short)-707595367, (unsigned short)-385428318);
 break;
 default:
 sHRFFoUR = QoCTL();
@@ -431,7 +431,7 @@ if (WORSbpS4k <= -1913279183)
 {
 for (int k = 5; k >= 0; --k)
 {
-koYecHe = T6_S_M__(1027757589, WA633EY, -1463627308);
+koYecHe = T6_S_M__(1027757589, WA633EY, (unsigned short)-1463627308);
 }
 }
 else

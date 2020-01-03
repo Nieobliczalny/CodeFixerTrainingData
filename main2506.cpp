@@ -37,7 +37,7 @@ int main(void) {
     unsigned int    Sx8UIq_nR    =    0;
  long long uVxx = -1277428534;
     short    P9X_    =    (short)-2000397908;
- char D2YbF22r = -1526451677;
+ char D2YbF22r = (char)-1526451677;
   long long  hdZ62dt35  =  380605099;
     unsigned long long    UcaZjWX5    =    319085553;
     long    W_C8W_G    =    -2144063859;
@@ -50,7 +50,7 @@ int main(void) {
  unsigned long M5lj = 1330437027;
 	long double	R_Uy0r8	=	-723475848;
   double  a_Hz3  =  -1761678477;
-	unsigned char	s73Avu1af	=	-1036886841;
+	unsigned char	s73Avu1af	=	(unsigned char)-1036886841;
  long double CuuuQhH_d8 = 230350932;
 	unsigned long long	HHCdsZ9XsB	=	-1339886475;
   unsigned int  gX4n2  =  122279413;
@@ -324,7 +324,7 @@ std::cout << "oNpvO" << std::endl;
 }
 else if (m_og7c_ > pfh9k0)
 {
-std::cout << "s5Ze3" << tfgS3((char)1287182199, 1029119582, -830225318) << tfgS3(-1837606034, -1347088681, 966480026) << std::endl;
+std::cout << "s5Ze3" << tfgS3((char)1287182199, 1029119582, -830225318) << tfgS3((char)-1837606034, -1347088681, 966480026) << std::endl;
 }
 else
 {

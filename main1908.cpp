@@ -353,7 +353,7 @@ case 6:
 z8yLj5 /= 834719342;
 break;
 case 7:
-zLhA = epu6S(lho58462_, -220423330);
+zLhA = epu6S(lho58462_, (short)-220423330);
 break;
 case 8:
 QV8KIK *= N6v0;

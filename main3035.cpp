@@ -240,7 +240,7 @@ H1lN2R = jE7I63_(1283488321, (short)-836709217, 1470647200, (unsigned char)-1537
 }
 else if ((N62q0_ == 899899160) || (AIeO != EJ2o9FPM))
 {
-cout << AU3Di << "HvH3I4" << "Nj9bzz" << OAdQarM << jRJc9OBTR((short)-1741259908, -1409635148) << endl;
+cout << AU3Di << "HvH3I4" << "Nj9bzz" << OAdQarM << jRJc9OBTR((short)-1741259908, (unsigned short)-1409635148) << endl;
 }
 else
 {

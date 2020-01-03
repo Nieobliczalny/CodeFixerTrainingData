@@ -220,7 +220,7 @@ case 6:
 u_088 = (int)abs(s8_r);
 break;
 case 7:
-g1jeh = aI47Z(-16183855, 1314785937, dSivQX, -1303269812, -630938663);
+g1jeh = aI47Z(-16183855, 1314785937, dSivQX, -1303269812, (short)-630938663);
 break;
 case 8:
 Z_727ii2M6 = (g1jeh == -1671371588) ? LMAT7 : Q25x;
@@ -274,7 +274,7 @@ case 2:
 A4W1 = PfPtCmfE(A4W1, hpD72K, Q0ZW_H, YO88TSfX7u, ILdG334qO);
 break;
 case 3:
-xeHr = PfPtCmfE(xeHr, -1098834300, 631220965, Q0ZW_H, z8n6yZt);
+xeHr = PfPtCmfE(xeHr, (char)-1098834300, 631220965, Q0ZW_H, z8n6yZt);
 break;
 case 4:
 Q0ZW_H = (int)abs(wB5cR6);

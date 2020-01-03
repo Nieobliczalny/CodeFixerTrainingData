@@ -116,7 +116,7 @@ case 7:
 E29V0hcFF8 = f_yBVuBC(-82691250, (unsigned short)1710533827);
 break;
 case 8:
-G2V76s2Ft = jgwPS(G2V76s2Ft, (char)2146855815, -325195071, sFpaa);
+G2V76s2Ft = jgwPS(G2V76s2Ft, (char)2146855815, (char)-325195071, sFpaa);
 break;
 default:
 cs_U = jgwPS(-1188878168, tEr61X9dX, K1qC, NUnc79w_77);
@@ -173,7 +173,7 @@ case 1:
 NUnc79w_77 = jgwPS((unsigned char)209301823, Ym9_ODNfr, (char)-1713956935, (unsigned short)-1492341602);
 break;
 case 2:
-E29V0hcFF8 = TPKtsFul65(-427902351, P963tT2, Blfnw3l);
+E29V0hcFF8 = TPKtsFul65((short)-427902351, P963tT2, Blfnw3l);
 break;
 case 3:
 hNiS = TPKtsFul65(-1325715798, b_FJ, MA10jOdH8_);

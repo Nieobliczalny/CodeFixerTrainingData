@@ -168,7 +168,7 @@ case 3:
 Vr3N = p0PUO((unsigned short)1091812576, IAVu6VUE, YH820D, (unsigned short)-1858579444, 1480671585);
 break;
 case 4:
-G2eM3797P = p0PUO((unsigned short)-2118040971, WQmi, -616445301, 575851423, Xnk_Fa9WC);
+G2eM3797P = p0PUO((unsigned short)-2118040971, WQmi, (short)-616445301, 575851423, Xnk_Fa9WC);
 break;
 case 5:
 sjC53e *= 235960043;

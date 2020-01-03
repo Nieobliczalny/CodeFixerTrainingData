@@ -18,7 +18,7 @@ int main(int argc, char** argv) {
   unsigned short  I9Rt  =  0;
  short int PX__GfU4l = (short)-296191488;
   unsigned short  CFAPwbIfm6  =  (unsigned short)-1804356837;
-	unsigned char	zfm6pB5YQx	=	-384278620;
+	unsigned char	zfm6pB5YQx	=	(unsigned char)-384278620;
 	short int	VJCb	=	0;
     short    q4qQ    =    -589667597;
     unsigned int    o321g3K    =    913942069;

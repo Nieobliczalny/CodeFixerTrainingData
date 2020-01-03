@@ -119,7 +119,7 @@ int main()
 	unsigned long	r_s6;
 	r_s6	=	1861138580;
 	unsigned short	D4a_RIcg9V;
-	D4a_RIcg9V	=	1692723937;
+	D4a_RIcg9V	=	(unsigned short)1692723937;
 	char	G80Eqtc24;
 	G80Eqtc24	=	(char)1987929009;
   short  I2L11;
@@ -129,7 +129,7 @@ int main()
     int    zc_PW;
     zc_PW    =    791585247;
   unsigned short int  mNp362O2;
-  mNp362O2  =  -87906923;
+  mNp362O2  =  (unsigned short)-87906923;
     unsigned short int    HzrqC;
     HzrqC    =    (unsigned short)2128143193;
  unsigned char Wd2s85;
@@ -153,7 +153,7 @@ int main()
  short a6W009jfZ;
  a6W009jfZ = (short)1661473743;
  short int Krzex_;
- Krzex_ = -1479255068;
+ Krzex_ = (short)-1479255068;
     unsigned long long    wlLoy;
     wlLoy    =    -1826835347;
     unsigned short int    PW350Za6D;

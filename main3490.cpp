@@ -98,7 +98,7 @@ case 'e':
 r8gEJ0 = jrgSG(r8gEJ0, lg3H6J4B, VcL7, 1285373843, bWqH);
 break;
 case 'f':
-r8gEJ0 = r1KpJ((unsigned short)-1438668302, 131752209, -1519385796) + lg3H6J4B;
+r8gEJ0 = r1KpJ((unsigned short)-1438668302, (unsigned short)131752209, -1519385796) + lg3H6J4B;
 break;
 case 'g':
 bWqH = jrgSG(VcL7, bWqH, 272016292, lg3H6J4B, 333275526);
@@ -115,7 +115,7 @@ break;
 }
 if (((FrHMF < 2056568076) || (bWqH == 1387823536)) && ((lg3H6J4B != r8gEJ0) && (wd_XEyu & VcL7)))
 {
-std::cout << "EaLwbtGPN" << r1KpJ((unsigned short)-1977509014, (unsigned short)-561028895, wd_XEyu) << r1KpJ((unsigned short)2007782866, 215669572, 696924074) << "e9EVX9Vt" << "lEc87js" << std::endl;
+std::cout << "EaLwbtGPN" << r1KpJ((unsigned short)-1977509014, (unsigned short)-561028895, wd_XEyu) << r1KpJ((unsigned short)2007782866, (unsigned short)215669572, 696924074) << "e9EVX9Vt" << "lEc87js" << std::endl;
 }
 else
 {

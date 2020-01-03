@@ -100,7 +100,7 @@ case 2:
 BM9mqi__1t = Nk8Q + FZcT9;
 break;
 default:
-Z31R2h6 = eB5966n(Ha7A01D, -1461503321, (unsigned char)1644425221, -1207004821);
+Z31R2h6 = eB5966n(Ha7A01D, -1461503321, (unsigned char)1644425221, (unsigned char)-1207004821);
 break;
 }
 }
@@ -311,7 +311,7 @@ s8Vk4p9k = (unsigned char)(Z31R2h6 + (-873641794));
 Am5RGRL1s = (unsigned char)(Q3290eRy);
 try
 {
-std::cout << "txi0" << eB5966n(c9q3, -1400432992, (unsigned char)-1956161522, (unsigned char)1200031707) << eB5966n(c9q3, Z31R2h6, (unsigned char)756782031, -980701213) << std::endl;
+std::cout << "txi0" << eB5966n(c9q3, -1400432992, (unsigned char)-1956161522, (unsigned char)1200031707) << eB5966n(c9q3, Z31R2h6, (unsigned char)756782031, (unsigned char)-980701213) << std::endl;
 }
 catch (int& errorCode)
 {

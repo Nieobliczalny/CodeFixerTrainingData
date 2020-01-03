@@ -127,7 +127,7 @@ int main()
 	short int	Ccpcg7;
 	Ccpcg7	=	(short)870748018;
  short Nc_v;
- Nc_v = -92095321;
+ Nc_v = (short)-92095321;
     long double    ZQ9F;
     ZQ9F    =    287305291;
   unsigned int  ip0Y_;
@@ -147,7 +147,7 @@ int main()
 	unsigned short	Po_lr_;
 	Po_lr_	=	(unsigned short)-817318282;
  char IBFCc_Y4;
- IBFCc_Y4 = 1792803733;
+ IBFCc_Y4 = (char)1792803733;
  unsigned long long mtXmd;
  mtXmd = 910149736;
     unsigned char    m0_TjQ;

@@ -31,7 +31,7 @@ int main(void)
 	unsigned short int	aAc0;
 	aAc0	=	(unsigned short)1302821622;
 	unsigned short int	r4i6flarw;
-	r4i6flarw	=	-283602121;
+	r4i6flarw	=	(unsigned short)-283602121;
 	unsigned long long	gVtB;
 	gVtB	=	386448605;
     unsigned short    Cunys4C;

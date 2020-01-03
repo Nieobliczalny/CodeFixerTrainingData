@@ -40,7 +40,7 @@ int main(int argc, char** argv)
 	double	Z7yl7a	=	679975190;
   unsigned short  T12MX  =  (unsigned short)736059333;
   char  T_671pZrQ9  =  (char)-1373538315;
-	unsigned char	L4NR4mYQuO	=	291414354;
+	unsigned char	L4NR4mYQuO	=	(unsigned char)291414354;
   short int  Ocb8hP_  =  0;
  int o_qokW2 = -118116105;
     float    y2iTs6r    =    1489548025;
@@ -54,7 +54,7 @@ int main(int argc, char** argv)
     unsigned short int    H9oarcMv7    =    (unsigned short)1270437280;
   int  oe6h_DT  =  -846368340;
   unsigned int  N3o0Cpfd  =  1501928673;
-	char	rT7Z29x2S	=	886447265;
+	char	rT7Z29x2S	=	(char)886447265;
     short int    z80K_P_TK    =    (short)837701030;
 	unsigned char	TfWaHsr	=	-1132215303;
  unsigned short int b0zROg = 1067491458;
@@ -77,7 +77,7 @@ int main(int argc, char** argv)
     long    g1__3C3N9    =    1187467009;
     char    EY0eAj98mx    =    (char)1817877882;
   unsigned long  IlE5f7377  =  330410562;
-    unsigned char    C_8ks716_j    =    1226811155;
+    unsigned char    C_8ks716_j    =    (unsigned char)1226811155;
  unsigned short int bshV48v0Z = 0;
  double hjMYnAj0o = 611262535;
  unsigned long tr_r409 = -573047124;
@@ -87,7 +87,7 @@ int main(int argc, char** argv)
   int  Y6z9Y  =  1116014981;
     char    S938iUzGY9    =    (char)-933438656;
 	short	au73X73	=	1822538146;
-	unsigned char	tg8s	=	1570042897;
+	unsigned char	tg8s	=	(unsigned char)1570042897;
  unsigned short Qw1eu8Uc6U = 1679514436;
   unsigned char  BfZ_4QQ3  =  741956904;
  short tYD9b = 887500128;
@@ -101,7 +101,7 @@ int main(int argc, char** argv)
 	unsigned int	K844_	=	1894246996;
 	unsigned char	jW5vxa	=	(unsigned char)-1274678404;
     long long    Cx1G1Ekrpz    =    -1114057909;
-	char	lfKMS8Xk4n	=	130398036;
+	char	lfKMS8Xk4n	=	(char)130398036;
     char    OP1LR3qKY4    =    (char)76219540;
   long long  z8CiQPf83  =  -133305629;
   unsigned short  WsAQ9xvE8  =  -1320697871;
@@ -114,7 +114,7 @@ int main(int argc, char** argv)
   float  h9CE  =  -1540164098;
 	unsigned int	kB3Ijg	=	482932592;
 	unsigned short int	x5P74Wb	=	(unsigned short)1838862821;
-    unsigned short int    Kiih    =    1795430304;
+    unsigned short int    Kiih    =    (unsigned short)1795430304;
   unsigned long long  gSEbqEYC  =  1921067260;
 
 for (int i = 8; i >= 0; i--)

@@ -107,7 +107,7 @@ int main(int argc, char** argv)
  unsigned short n1_Eg4iWv;
  n1_Eg4iWv = (unsigned short)-1521351227;
     unsigned short int    Ex14M8MpY0;
-    Ex14M8MpY0    =    -100451954;
+    Ex14M8MpY0    =    (unsigned short)-100451954;
  short gY_aYDhB;
  gY_aYDhB = (short)-359100145;
 	short	IJP3uZp6d;
@@ -121,7 +121,7 @@ int main(int argc, char** argv)
     unsigned char    u3vZts;
     u3vZts    =    (unsigned char)1428284847;
 	unsigned short int	tO_3F0Nz;
-	tO_3F0Nz	=	1292918625;
+	tO_3F0Nz	=	(unsigned short)1292918625;
     long    PA6DC6_XYU;
     PA6DC6_XYU    =    1982709706;
  float TMW9zFmx;

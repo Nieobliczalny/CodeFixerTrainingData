@@ -21,7 +21,7 @@ int main(void)
     long    r3G7p8No;
     r3G7p8No    =    -1544407603;
     unsigned short    q6N8R;
-    q6N8R    =    -835621487;
+    q6N8R    =    (unsigned short)-835621487;
   long double  bNVtIy;
   bNVtIy  =  -63645808;
 	short int	S2w53bWeh1;
@@ -31,7 +31,7 @@ int main(void)
     short int    X2zYyw;
     X2zYyw    =    (short)1915843998;
   short int  g15HIYj;
-  g15HIYj  =  4279344;
+  g15HIYj  =  (short)4279344;
     int    s7bw79A8o;
     s7bw79A8o    =    1906035410;
 	long	LdK0C1;
@@ -75,7 +75,7 @@ int main(void)
     unsigned char    g35VACT0;
     g35VACT0    =    (unsigned char)-1695376871;
  unsigned char GGy_1_D_d;
- GGy_1_D_d = 1931441619;
+ GGy_1_D_d = (unsigned char)1931441619;
     unsigned int    m_53XL__;
     m_53XL__    =    0;
 	short int	o4dmr;

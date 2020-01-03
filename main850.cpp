@@ -50,7 +50,7 @@ int main(int argc, char** argv) {
     float    KlC6j_;
     KlC6j_    =    1242433342;
     unsigned short int    N4U2va60Y;
-    N4U2va60Y    =    473918270;
+    N4U2va60Y    =    (unsigned short)473918270;
  unsigned int WX079;
  WX079 = -1553859556;
     int    gzA2A9f3zn;
@@ -68,7 +68,7 @@ int main(int argc, char** argv) {
   short int  Aza0Q7ZSV;
   Aza0Q7ZSV  =  (short)-922764648;
 	unsigned short	TICMYL8HSL;
-	TICMYL8HSL	=	-1346787378;
+	TICMYL8HSL	=	(unsigned short)-1346787378;
   short int  Hic6v8o;
   Hic6v8o  =  (short)-859502797;
  long double bS_S95NpV9;

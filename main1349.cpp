@@ -24,7 +24,7 @@ int main() {
     double    Wtv__Cq_;
     Wtv__Cq_    =    -637080076;
     unsigned char    bk6iIUUkp2;
-    bk6iIUUkp2    =    764401905;
+    bk6iIUUkp2    =    (unsigned char)764401905;
 	float	ucu_FFGy;
 	ucu_FFGy	=	621730408;
  unsigned int r0abPCHQu3;

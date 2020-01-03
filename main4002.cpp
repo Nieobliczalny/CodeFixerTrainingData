@@ -27,7 +27,7 @@ do
 {
 if (N58q <= x0pMd)
 {
-cout << stPDE7Sd(-161259403, jFGm34z, (short)1061143956, m1e6, O74nA) << "MR4_" << stPDE7Sd(1254256486, (short)647918827, -1266880950, 1066169844, O74nA) << stPDE7Sd(-1411801537, -1978018865, tGHzB3, 723488935, 1202611352) << "nYzFpE" << endl;
+cout << stPDE7Sd(-161259403, jFGm34z, (short)1061143956, m1e6, O74nA) << "MR4_" << stPDE7Sd(1254256486, (short)647918827, (short)-1266880950, 1066169844, O74nA) << stPDE7Sd(-1411801537, -1978018865, tGHzB3, 723488935, 1202611352) << "nYzFpE" << endl;
 }
 else if (ykx3 >= x0pMd)
 {
@@ -206,7 +206,7 @@ C_eI273R = stPDE7Sd(1514258396, (short)-2122653036, (short)-1825785878, 47484012
 }
 else
 {
-C_eI273R = stPDE7Sd(xDXHioxwK, -1874088872, U5u69F28, a7m28, GmM3v);
+C_eI273R = stPDE7Sd(xDXHioxwK, (short)-1874088872, U5u69F28, a7m28, GmM3v);
 }
 }
 
@@ -228,7 +228,7 @@ break;
 }
 }
 
-C_eI273R = stPDE7Sd(1132895721, M9M9H7Ii, (short)-391892071, nM5D, -1383534567);
+C_eI273R = stPDE7Sd(1132895721, M9M9H7Ii, (short)-391892071, nM5D, (short)-1383534567);
 if (U5u69F28 <= aMD00)
 {
 if (((xDXHioxwK >= 1460395895) || (C_eI273R < Uo57oJ)) || ((xDXHioxwK & 2070815547) && (nM5D & nn3bU5c5)))
@@ -256,7 +256,7 @@ rl_22Z = (short)(x0pMd + (114442996));
 
 QbC9_EN1d_ = (short)(x0pMd + (1292264517));
 
-cout << stPDE7Sd(p_88, uWMI0, (short)-1344505368, -603267052, (short)-1004530259) << "xVuv8" << stPDE7Sd(-1949605052, (short)1054403327, 1957145640, 1944293539, ykx3) << QG79Rvt5h << stPDE7Sd(p_88, 1788974210, C_eI273R, 1903563187, ykx3) << endl;
+cout << stPDE7Sd(p_88, uWMI0, (short)-1344505368, -603267052, (short)-1004530259) << "xVuv8" << stPDE7Sd(-1949605052, (short)1054403327, (short)1957145640, 1944293539, ykx3) << QG79Rvt5h << stPDE7Sd(p_88, 1788974210, C_eI273R, 1903563187, ykx3) << endl;
 
 {
 int i = 2;
@@ -275,7 +275,7 @@ else
 switch (aMD00)
 {
 case 'a':
-C_eI273R = stPDE7Sd(aMD00, N58q, rl_22Z, -1921564943, -364806171);
+C_eI273R = stPDE7Sd(aMD00, N58q, rl_22Z, -1921564943, (short)-364806171);
 break;
 case 'b':
 nn3bU5c5 = (int)abs(jFGm34z);
@@ -392,7 +392,7 @@ C_eI273R = stPDE7Sd(-395489949, (short)122310693, (short)967293092, N58q, (short
 break;
 case 'c':
 case 'C':
-C_eI273R = stPDE7Sd(-494430445, -1248251857, NWV13P, -996679681, xDXHioxwK);
+C_eI273R = stPDE7Sd(-494430445, (short)-1248251857, NWV13P, -996679681, xDXHioxwK);
 break;
 case 'd':
 case 'D':

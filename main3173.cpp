@@ -109,7 +109,7 @@ int main()
 	unsigned short	Bm48ny59h3;
 	Bm48ny59h3	=	(unsigned short)918411021;
     char    xzoN04YT;
-    xzoN04YT    =    -1050044919;
+    xzoN04YT    =    (char)-1050044919;
   unsigned short  JgPCG9c;
   JgPCG9c  =  (unsigned short)467634189;
     unsigned int    gn4LV3PL;
@@ -123,7 +123,7 @@ int main()
 	short int	a7K0;
 	a7K0	=	(short)-615047196;
   unsigned short int  MHcn;
-  MHcn  =  -1995554394;
+  MHcn  =  (unsigned short)-1995554394;
 	float	nX2t3XZ;
 	nX2t3XZ	=	587794178;
  int POil96;

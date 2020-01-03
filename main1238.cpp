@@ -53,7 +53,7 @@ int main(void)
  unsigned long long ch1D;
  ch1D = -2112497970;
  unsigned short T_q0U9B;
- T_q0U9B = -1279314132;
+ T_q0U9B = (unsigned short)-1279314132;
     unsigned int    sKv_5n3;
     sKv_5n3    =    -898450425;
  float eX0CJ1z7;
@@ -537,7 +537,7 @@ case 'e':
 Tc09r_85_ = dgpr5((short)1555257981, PSL3, -1467108773, (unsigned char)1394797327);
 break;
 case 'f':
-qS_G5 = w3Y731(qS_G5, 1757491513, 786308636, -1624127555, 1577140314);
+qS_G5 = w3Y731(qS_G5, 1757491513, 786308636, (char)-1624127555, 1577140314);
 break;
 case 'g':
 Tc09r_85_ = dgpr5(wp2j0K, -1089817448, -49164672, (unsigned char)317550546);

@@ -114,7 +114,7 @@ int main(void)
 
 for (int i = 2; i >= 0; --i)
 {
-LjlLto_7 = IZuPpx1((short)774597269, (unsigned short)-1808759587, -325417730, 1472341494);
+LjlLto_7 = IZuPpx1((short)774597269, (unsigned short)-1808759587, (short)-325417730, 1472341494);
 }
 
 std::cout << "VYBMP1" << gI22e << std::endl;
@@ -377,7 +377,7 @@ if (((hs2ACqQv8 >= -1140357800) || (N5_h != BY59)) && ((EKhS5n5jWE <= BY59) && (
 int j = 0;
 do
 {
-std::cout << IZuPpx1((short)-210324788, (unsigned short)747491830, (short)-2049493839, -1888208072) << "q0GRU" << std::endl;
+std::cout << IZuPpx1((short)-210324788, (unsigned short)747491830, (short)-2049493839, (short)-1888208072) << "q0GRU" << std::endl;
 ++j;
 }
 while (j < 9);

@@ -21,7 +21,7 @@ int main(void) {
   short int  Sh_r4kO  =  (short)777825551;
 	unsigned long long	pLUwzdEFA	=	1865153138;
     unsigned short    twx0Ufa5    =    (unsigned short)-172500525;
-    unsigned char    Ik92X    =    2087911097;
+    unsigned char    Ik92X    =    (unsigned char)2087911097;
 	unsigned long long	zrr2l	=	2038083063;
  float DFITK_ = 155982807;
 	unsigned long long	mCo_Lc	=	1074338985;
@@ -44,7 +44,7 @@ int main(void) {
  long long aTY86u9H = 1869343396;
     unsigned short    T71ia    =    (unsigned short)1622929378;
     short int    GgE_s    =    (short)-606974274;
-    unsigned short int    B2L74Or4b_    =    -736975137;
+    unsigned short int    B2L74Or4b_    =    (unsigned short)-736975137;
   int  EI4GM  =  -1566218866;
  unsigned int o5x76xz = 37013773;
 	int	FiVdwV3i7r	=	-917167880;
@@ -55,7 +55,7 @@ int main(void) {
 	char	edHP	=	(char)-2053455169;
 	long	KG5J_c_A_l	=	606494340;
   unsigned short  CU3Mu1  =  (unsigned short)112261230;
- unsigned short int Zf38 = -596778679;
+ unsigned short int Zf38 = (unsigned short)-596778679;
   long long  zi5_U  =  18396042;
     long double    zhz9h5f    =    -78039053;
 	unsigned int	q7L9wcL	=	1837874761;
@@ -66,7 +66,7 @@ int main(void) {
  unsigned short int sodU9 = (unsigned short)-1669054792;
     unsigned long long    wjmLMAn    =    877091155;
 	short int	RHNgr5	=	(short)455980586;
- unsigned short bKaqL30pl8 = 65630291;
+ unsigned short bKaqL30pl8 = (unsigned short)65630291;
 	int	e88d	=	-1257641622;
  int APx9 = 145762931;
  long long x684 = -1075688397;
@@ -78,7 +78,7 @@ int main(void) {
 	unsigned long	u_razP_f3z	=	1497559300;
   unsigned short  kpjWJ2L  =  (unsigned short)1456982304;
     double    eW7qrTNrxn    =    -351490025;
-	unsigned char	npzOb453_4	=	-133499201;
+	unsigned char	npzOb453_4	=	(unsigned char)-133499201;
   long long  Uuwr  =  -1812940315;
  float UuL__ = 1002330862;
     short    zADC    =    (short)-295966475;
@@ -92,7 +92,7 @@ int main(void) {
 	int	XG2f	=	-614965252;
  char g7_8RKfS6 = (char)1913527958;
  unsigned short int W7_WzX8 = (unsigned short)46026631;
- unsigned short B1yYhx0 = -1646709047;
+ unsigned short B1yYhx0 = (unsigned short)-1646709047;
  unsigned short U2FM = -305954779;
  unsigned long irk_jHnFU_ = -1145171418;
     short    Qm44Z8t09    =    1642287580;

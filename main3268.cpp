@@ -41,7 +41,7 @@ I5NUdi = yfoMvf(j2939, (unsigned char)-601902686, 1161652765, 395538462);
 }
 else
 {
-u9esm = p094N(192775296, z_Cm3);
+u9esm = p094N((unsigned short)192775296, z_Cm3);
 }
 }
 catch (int& errorCode)

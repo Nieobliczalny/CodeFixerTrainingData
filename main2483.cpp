@@ -61,7 +61,7 @@ int main() {
     char    Ul3q_J;
     Ul3q_J    =    (char)-2063391454;
   short  z23v8P1;
-  z23v8P1  =  1984410658;
+  z23v8P1  =  (short)1984410658;
  long BP72aZEY;
  BP72aZEY = -1684090379;
   double  OL57K7_o;

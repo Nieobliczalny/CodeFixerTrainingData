@@ -112,7 +112,7 @@ case 'd':
 r2lZF = sX5vHZ((unsigned char)364300675);
 break;
 case 'e':
-u1UVp1Lu_ = Gm_43Y((short)980966989, ZNSTJZNLo, 236716427);
+u1UVp1Lu_ = Gm_43Y((short)980966989, ZNSTJZNLo, (char)236716427);
 break;
 }
 }

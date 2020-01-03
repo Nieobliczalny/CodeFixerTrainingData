@@ -100,7 +100,7 @@ int main(int argc, char** argv)
   unsigned long long  h9VM_7Tn;
   h9VM_7Tn  =  -736541650;
  char zoAy3A5b;
- zoAy3A5b = 1872424553;
+ zoAy3A5b = (char)1872424553;
   long double  B4ICA;
   B4ICA  =  1688713965;
   float  tt5R;
@@ -148,7 +148,7 @@ int main(int argc, char** argv)
 	unsigned short int	D4sz;
 	D4sz	=	(unsigned short)-1669663732;
   unsigned short  d2O_38;
-  d2O_38  =  305519054;
+  d2O_38  =  (unsigned short)305519054;
   int  rkEN1aAu;
   rkEN1aAu  =  -792180494;
 	unsigned int	F3Q_;
@@ -282,7 +282,7 @@ case 3:
 j8dv6tSAN = f9gA6(550680874, Sl5k1_, (unsigned short)2089929279, (unsigned char)1173081012);
 break;
 default:
-WeaA59HB = f9gA6(-1563370245, 298069275, 999054323, 1211025144) & 684939657;
+WeaA59HB = f9gA6(-1563370245, (unsigned short)298069275, 999054323, 1211025144) & 684939657;
 break;
 }
 {

@@ -44,7 +44,7 @@ int main(void)
   unsigned short  xDz4ye_3;
   xDz4ye_3  =  (unsigned short)-1177870428;
   unsigned short  Da4wr;
-  Da4wr  =  -2068786857;
+  Da4wr  =  (unsigned short)-2068786857;
     short int    j1H8L75vg;
     j1H8L75vg    =    (short)-2056285697;
   unsigned long long  CTrDH;

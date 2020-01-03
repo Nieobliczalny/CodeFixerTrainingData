@@ -609,7 +609,7 @@ case 1:
 jI9Cu7bU = v_DjKJ((unsigned short)2078931938, (short)1180890460, t_4Z81o7, o8bxx6);
 break;
 case 2:
-cAmF = v_DjKJ(cAmF, -1823204664, o8bxx6, -216873521);
+cAmF = v_DjKJ(cAmF, (short)-1823204664, o8bxx6, -216873521);
 break;
 case 3:
 aP9xQp3PZ = (int)abs(qMOhf5kc);

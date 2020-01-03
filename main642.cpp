@@ -58,7 +58,7 @@ int main(int argc, char** argv)
  char n3Z6j;
  n3Z6j = (char)-109536695;
 	short	E3vvS;
-	E3vvS	=	1574028274;
+	E3vvS	=	(short)1574028274;
     unsigned long long    RMBvbE0MF;
     RMBvbE0MF    =    0;
   long long  YD6c6E0;
@@ -142,7 +142,7 @@ int main(int argc, char** argv)
     unsigned char    PPZH7fZ;
     PPZH7fZ    =    (unsigned char)61310743;
   unsigned char  sj1f;
-  sj1f  =  1592752940;
+  sj1f  =  (unsigned char)1592752940;
     unsigned char    wzZH;
     wzZH    =    (unsigned char)1646518894;
  unsigned long long MN9Tw;
@@ -160,7 +160,7 @@ int main(int argc, char** argv)
 	unsigned short	fOZkMtG1;
 	fOZkMtG1	=	(unsigned short)1794317466;
  char tDl8;
- tDl8 = -1483009025;
+ tDl8 = (char)-1483009025;
 	unsigned int	JV0U;
 	JV0U	=	-1833039776;
  float T70O93A2;
@@ -218,7 +218,7 @@ int main(int argc, char** argv)
 	unsigned short int	RPW_m;
 	RPW_m	=	(unsigned short)862660545;
   unsigned char  rB78V75;
-  rB78V75  =  -13435691;
+  rB78V75  =  (unsigned char)-13435691;
   unsigned short  mV6b9r;
   mV6b9r  =  (unsigned short)-1328665662;
  short int SiO_E;

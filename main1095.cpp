@@ -90,7 +90,7 @@ int main()
 	int	fki3ts94_;
 	fki3ts94_	=	-539157206;
   char  jw51_PQ;
-  jw51_PQ  =  -2107776166;
+  jw51_PQ  =  (char)-2107776166;
 	long long	X60TLwTe;
 	X60TLwTe	=	1499817661;
  short K6Ct;

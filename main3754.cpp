@@ -337,7 +337,7 @@ else if (HTrR0c2z1_ >= 1040026383)
 {
 for (int j = 0; j < 6; j++)
 {
-std::cout << E4U6lvu(EJ0Eh_06U, 753211456, WQHG_l, X1C4RjhK, (short)-1668504352) << hsUi << w_H94Qjk(1813551088, (short)-1827860469, (unsigned char)1044584548) << w_H94Qjk(EJ0Eh_06U, -1593411148, 668177561) << std::endl;
+std::cout << E4U6lvu(EJ0Eh_06U, 753211456, WQHG_l, X1C4RjhK, (short)-1668504352) << hsUi << w_H94Qjk(1813551088, (short)-1827860469, (unsigned char)1044584548) << w_H94Qjk(EJ0Eh_06U, (short)-1593411148, 668177561) << std::endl;
 }
 }
 else if (kD7e6_N8f > EBLK4l50o)
@@ -455,7 +455,7 @@ EJ0Eh_06U = R92eO17 / pl9j;
 }
 std::cout << EJ0Eh_06U << std::endl;
 
-std::cout << M7dxJ6hU << E4U6lvu((unsigned char)-1182264065, kD7e6_N8f, (short)547005876, (unsigned char)-673089007, -533835308) << std::endl;
+std::cout << M7dxJ6hU << E4U6lvu((unsigned char)-1182264065, kD7e6_N8f, (short)547005876, (unsigned char)-673089007, (short)-533835308) << std::endl;
 
 M7dxJ6hU = (int)floor(pl9j);
 SN52m = (unsigned short int)(mEHq8 + (2118357670));

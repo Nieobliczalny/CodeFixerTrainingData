@@ -158,7 +158,7 @@ u8uu0 = E1_ML_W((short)1662678040, 1727609349, h3YJY, NiKN, U5bkL84L);
 break;
 }
 
-GB7d1M = E1_ML_W((short)1995875224, U5bkL84L, (char)-1311561025, -76188751, 553314908);
+GB7d1M = E1_ML_W((short)1995875224, U5bkL84L, (char)-1311561025, (unsigned short)-76188751, 553314908);
 HOO0yi = HOO0yi / u__09OV8s7;
 {
 int i = 4;

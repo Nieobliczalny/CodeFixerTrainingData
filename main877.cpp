@@ -94,7 +94,7 @@ catch (int& errorCode)
 XFK1Nt5i0m = s325OvPFz(DmsLFO, 205583808, M_46K__QX);
 }
 
-cout << "nv2_t6" << v5D03352 << s325OvPFz(DmsLFO, (short)10253041, (unsigned char)-1237701604) << s325OvPFz((unsigned short)1365266653, -1917027751, M_46K__QX) << HBmwL << endl;
+cout << "nv2_t6" << v5D03352 << s325OvPFz(DmsLFO, (short)10253041, (unsigned char)-1237701604) << s325OvPFz((unsigned short)1365266653, (short)-1917027751, M_46K__QX) << HBmwL << endl;
 IM096 = (unsigned short int)(urOc_9yhc + (442900617));
 
 try

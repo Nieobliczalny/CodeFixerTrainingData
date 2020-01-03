@@ -44,7 +44,7 @@ case 5:
 kMXI++;
 break;
 }
-std::cout << "H67hB6" << "EJcs_WWNxN" << "p2ZGJDwo" << WP2Z9((unsigned short)715126940, U_jmV, (unsigned short)-2084568352, 1815318612, f39y) << WP2Z9((unsigned short)-1356082779, U_jmV, 199692514, jC8gN8NC, -641044077) << std::endl;
+std::cout << "H67hB6" << "EJcs_WWNxN" << "p2ZGJDwo" << WP2Z9((unsigned short)715126940, U_jmV, (unsigned short)-2084568352, 1815318612, f39y) << WP2Z9((unsigned short)-1356082779, U_jmV, (unsigned short)199692514, jC8gN8NC, -641044077) << std::endl;
 
 if (PR_Bk4w_ly > rz1dMUtoS)
 {
@@ -329,7 +329,7 @@ h05YfJc42 = WP2Z9(h05YfJc42, (unsigned short)70205871, (unsigned short)952238578
 }
 else if ((tpqIlAD98 != -1457075934) || (jA434wq53))
 {
-NuY5n = WP2Z9(NuY5n, (unsigned short)1092351252, 980444541, tsQ114, ffN_F7dn);
+NuY5n = WP2Z9(NuY5n, (unsigned short)1092351252, (unsigned short)980444541, tsQ114, ffN_F7dn);
 }
 else if (Z1yAVUx_ & -1861408043)
 {
@@ -395,7 +395,7 @@ else
 f_C0cTTi = WP2Z9((unsigned short)-1381808736, (unsigned short)1982943573, (unsigned short)-2074436137, 585574318, H68a);
 }
 U8p5oY1 = (unsigned char)(ShpZI9 + (210259888));
-std::cout << WP2Z9(-123110692, 583065004, -413740070, MgC6M6u, -433297841) << "FlV8" << dqRYD5P6N << "k_0vRO12" << ESgU8ZCJ() << std::endl;
+std::cout << WP2Z9((unsigned short)-123110692, 583065004, -413740070, MgC6M6u, -433297841) << "FlV8" << dqRYD5P6N << "k_0vRO12" << ESgU8ZCJ() << std::endl;
 
 {
 int i = 0;
@@ -475,7 +475,7 @@ for (int i = 5; i >= 0; --i)
 {
 std::cout << AA2zy << jC8gN8NC << std::endl;
 }
-e_v_ = WP2Z9(1045052037, gT4aT_, -1289795653, -225862040, -332222067);
+e_v_ = WP2Z9((unsigned short)1045052037, gT4aT_, -1289795653, -225862040, -332222067);
 
 if (U_jmV != ShpZI9)
 {

@@ -29,7 +29,7 @@ int main(void) {
   unsigned char  of4iA189r_  =  (unsigned char)894794838;
     unsigned char    y3Xprk63Pc    =    (unsigned char)-848197075;
   unsigned int  RT462oKx1b  =  -1581739885;
-    unsigned short int    JznJP_u_A    =    1788246763;
+    unsigned short int    JznJP_u_A    =    (unsigned short)1788246763;
 	unsigned int	wh_3i3	=	1632486926;
 	char	IW3xH	=	1446547917;
  short X8uaQvs = -1642189693;
@@ -48,7 +48,7 @@ int main(void) {
   unsigned int  o63Tv  =  -1691704648;
 	long long	qD3bM7z	=	301047469;
 	unsigned long long	Ph2_	=	1449888424;
-    unsigned short int    vcOb79dnh0    =    181088475;
+    unsigned short int    vcOb79dnh0    =    (unsigned short)181088475;
     unsigned long    sHHOi    =    -1453000786;
     unsigned long long    m_gGIx4C9L    =    -1798704831;
  long long LcrSTjlHk = -917753689;
@@ -58,7 +58,7 @@ int main(void) {
  long jzQTZBZjSL = 1761050101;
     double    uhf0hB    =    479426707;
   unsigned char  Puem  =  (unsigned char)1742863964;
-	char	uaq_6	=	605151331;
+	char	uaq_6	=	(char)605151331;
  int g8AT = 65950483;
 	long double	a3D_NB7	=	733466684;
   float  d3u3F7E7n_  =  -2050088753;
@@ -71,7 +71,7 @@ int main(void) {
     float    U9wj5t    =    817076675;
 	unsigned char	B_XL0dk_n	=	(unsigned char)-853309417;
 	double	ihWp	=	1994305799;
-	short int	S7__pm	=	-796439271;
+	short int	S7__pm	=	(short)-796439271;
  int XOeh3aR = -1823203909;
  short uy40L9TT = (short)90138570;
     char    YXO3    =    (char)-1632412069;
@@ -82,7 +82,7 @@ int main(void) {
  long long irBW = -1383962262;
   unsigned long long  QpPO1R  =  1804439240;
  short Xzn0km = (short)2084861479;
-    short    r46DoHj2    =    -1764474783;
+    short    r46DoHj2    =    (short)-1764474783;
 	unsigned long long	O363	=	1425666120;
  unsigned short int bf4901 = (unsigned short)2033057453;
  long long aH2y0d = -379642300;
@@ -95,7 +95,7 @@ int main(void) {
     unsigned long    nTAZbO2D    =    133235713;
     unsigned short int    gRt0kgs    =    (unsigned short)-1812064091;
  short pyWoj82US = (short)1131913591;
-  unsigned short int  LM_T  =  77354248;
+  unsigned short int  LM_T  =  (unsigned short)77354248;
 	unsigned long long	H59t	=	1283108518;
     unsigned int    Ja6SU6h31    =    293552238;
 	double	HHQQ8j	=	166028000;

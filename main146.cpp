@@ -410,7 +410,7 @@ Z_oFRcqw7++;
 break;
 case 'g':
 case 'G':
-L7zySMLw_ = F2is_(L7zySMLw_, 1310035298, -486713390, -1136142156, C8gly3hY);
+L7zySMLw_ = F2is_(L7zySMLw_, 1310035298, -486713390, (unsigned short)-1136142156, C8gly3hY);
 break;
 case 'h':
 case 'H':
@@ -540,7 +540,7 @@ case 'i':
 n3s8 = wM50T3D(46515982);
 break;
 case 'j':
-prdu_0 = ZTfl(1709605087, 1660869566);
+prdu_0 = ZTfl((unsigned short)1709605087, 1660869566);
 break;
 default:
 E5mo1Eq = B03d47 / VEm81;

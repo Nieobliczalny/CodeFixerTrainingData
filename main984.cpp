@@ -175,7 +175,7 @@ int main(void)
   unsigned short  s4lK6SAlb;
   s4lK6SAlb  =  (unsigned short)1774876981;
  char H10kT0;
- H10kT0 = 56680829;
+ H10kT0 = (char)56680829;
     double    T89K7Z7;
     T89K7Z7    =    -87548819;
 
@@ -294,7 +294,7 @@ for (int i = 0; i < 6; i++)
 {
 v_2j = a62LHz4(v_2j);
 }
-V3Se_0 = fcM6(-1009679276, TFT9h2c2_f, FVHxfAN_, YnhRy, 1185932762);
+V3Se_0 = fcM6((short)-1009679276, TFT9h2c2_f, FVHxfAN_, YnhRy, 1185932762);
 if (FVHxfAN_)
 {
 try

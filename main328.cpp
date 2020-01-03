@@ -123,7 +123,7 @@ int main() {
 	unsigned char	b1P9;
 	b1P9	=	(unsigned char)-391062546;
 	unsigned short	HIQqqt3aP5;
-	HIQqqt3aP5	=	2080364356;
+	HIQqqt3aP5	=	(unsigned short)2080364356;
     unsigned short    HkTO29un;
     HkTO29un    =    (unsigned short)-621934486;
     unsigned long long    n5XRx;
@@ -133,7 +133,7 @@ int main() {
  short R3RTH6;
  R3RTH6 = (short)606602316;
  unsigned char DT57Rx;
- DT57Rx = -430103162;
+ DT57Rx = (unsigned char)-430103162;
   long long  r5KNEl;
   r5KNEl  =  1418151847;
     unsigned int    kQ7834;

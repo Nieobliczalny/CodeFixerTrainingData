@@ -49,7 +49,7 @@ case 2:
 MO7UX92HGc = (int)abs(wmyJWorbno);
 break;
 case 3:
-ne4_ = h5rYH(643371634, De_0b4fYl, 1686279513, -1353082889, u_67Y);
+ne4_ = h5rYH((char)643371634, De_0b4fYl, 1686279513, -1353082889, u_67Y);
 break;
 case 4:
 lBqm8AE240 = h5rYH((char)-1358304201, 380431622, 1946483221, -436177273, 1211968234) * L1HAG7JK0D;

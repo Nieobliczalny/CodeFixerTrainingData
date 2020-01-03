@@ -23,7 +23,7 @@ int main(void) {
     unsigned long long    o0_HRQt    =    -26592424;
     unsigned int    OaXO9T10    =    -564525919;
     long double    qJ38E3d    =    -858179355;
-	unsigned short int	m9o136phM	=	408075851;
+	unsigned short int	m9o136phM	=	(unsigned short)408075851;
 	unsigned int	gH8t2g5	=	0;
  long long JVTa4T = 659645653;
  unsigned char xG0WQ0x = -1508063525;
@@ -44,7 +44,7 @@ int main(void) {
   short int  va_x86T  =  (short)1701798010;
   double  iCKmB17  =  -1610763519;
  unsigned char F011B = (unsigned char)1440855650;
-  short int  s__1hro  =  -1491949716;
+  short int  s__1hro  =  (short)-1491949716;
  short b_Azm_P0x4 = 553762545;
 	unsigned short	Rv79gK5x	=	1770879105;
   unsigned short  m1oCHK  =  (unsigned short)1818916362;
@@ -62,7 +62,7 @@ int main(void) {
 	unsigned long long	A__kI_9F8	=	-1871819565;
     char    YLC_a1WwP    =    (char)-149798480;
 	float	O2P44P7	=	-1856212050;
-  short  Pt_Ih60k3  =  -704658804;
+  short  Pt_Ih60k3  =  (short)-704658804;
     unsigned int    hstQG    =    -2130279437;
     unsigned long    CJ7S_    =    -101074931;
     unsigned int    jbJsQTZ    =    1046109961;
@@ -73,7 +73,7 @@ int main(void) {
   int  w18wTj7  =  -1548964179;
 	unsigned short	BdGUub_	=	(unsigned short)1021704734;
  int zQQ2p = 870049369;
-	unsigned short int	blsPje_n	=	-911749093;
+	unsigned short int	blsPje_n	=	(unsigned short)-911749093;
 	unsigned short	c32_pqJ	=	-265920694;
 	unsigned char	gXQc_daE_g	=	-1193617486;
 	int	g7n3D1zc4	=	-1359418304;
@@ -84,7 +84,7 @@ int main(void) {
 	unsigned short	ALJTY2V	=	(unsigned short)1119426358;
   short int  A_1w  =  (short)1361445164;
  unsigned short C9RA = (unsigned short)818980030;
-    unsigned short    Zzxi_9    =    1858695618;
+    unsigned short    Zzxi_9    =    (unsigned short)1858695618;
     char    Cy1R9    =    1736479610;
     float    pld1DD7RP    =    -271730099;
     unsigned short int    ZG8JIgri    =    -1013371665;
@@ -105,7 +105,7 @@ int main(void) {
   long  o_S_  =  1300599760;
  unsigned long e39eDrGR = -1754799123;
     short    mzH8MI    =    (short)-321652966;
-    short    Npij5CC    =    1518853855;
+    short    Npij5CC    =    (short)1518853855;
   short  VCKAKM74  =  291736134;
 
 O28D2212Fi = (int)floor(qJ38E3d);

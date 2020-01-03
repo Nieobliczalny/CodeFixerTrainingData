@@ -51,7 +51,7 @@ int main(int argc, char** argv)
  char eIS49o;
  eIS49o = (char)1199417676;
     char    T1E84CO4;
-    T1E84CO4    =    -458643005;
+    T1E84CO4    =    (char)-458643005;
 	long long	Y9sRX_FIC;
 	Y9sRX_FIC	=	-917925938;
 	long	yZp_B10o;
@@ -117,7 +117,7 @@ int main(int argc, char** argv)
     char    MBR5M;
     MBR5M    =    (char)-836081057;
   unsigned short  uf6t_;
-  uf6t_  =  1386979557;
+  uf6t_  =  (unsigned short)1386979557;
  unsigned char kbjZ20;
  kbjZ20 = (unsigned char)-1133497239;
   unsigned char  FpJk;
@@ -165,7 +165,7 @@ int main(int argc, char** argv)
 	unsigned int	M9u_uc;
 	M9u_uc	=	-990565305;
     short int    WM8tj;
-    WM8tj    =    1149690520;
+    WM8tj    =    (short)1149690520;
   unsigned int  VE8p1m;
   VE8p1m  =  -208712082;
   unsigned int  s1BP3r29Zu;

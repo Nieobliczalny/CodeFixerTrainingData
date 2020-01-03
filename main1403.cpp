@@ -75,7 +75,7 @@ int main(void)
     unsigned char    bG287;
     bG287    =    (unsigned char)-1864517258;
   unsigned short  xXEkws9R7;
-  xXEkws9R7  =  -1601391473;
+  xXEkws9R7  =  (unsigned short)-1601391473;
 	float	w7L67i;
 	w7L67i	=	-1937653517;
   unsigned char  AQeQO;
@@ -177,7 +177,7 @@ int main(void)
   unsigned char  lh_xpj92u;
   lh_xpj92u  =  (unsigned char)491302977;
     char    Xjyd5Wrh;
-    Xjyd5Wrh    =    -653562105;
+    Xjyd5Wrh    =    (char)-653562105;
     unsigned long long    Ufx0Nn48UV;
     Ufx0Nn48UV    =    31662245;
 	unsigned int	c0892ms;
@@ -209,7 +209,7 @@ int main(void)
 	short int	Cbr5;
 	Cbr5	=	(short)-2100281446;
   unsigned short int  mXL0R;
-  mXL0R  =  1276693848;
+  mXL0R  =  (unsigned short)1276693848;
 
 switch (HbWHYll_)
 {
@@ -485,7 +485,7 @@ std::cout << yWtH7PQ(-696058757, 945906571, (unsigned short)365615955, R3a4GjN, 
 }
 else if (KT1uvuTaO)
 {
-std::cout << BKxGcWx(jMab, oUZlH_, nyOK8Gl, R3a4GjN) << ZdZ4d_y9tK << yWtH7PQ(jMab, oUZlH_, nyOK8Gl, R3a4GjN, -1742179917) << GiF8_1 << Tafi85aDz(jMab, 390801493, (char)-752615900, 1837422725) << std::endl;
+std::cout << BKxGcWx(jMab, oUZlH_, nyOK8Gl, R3a4GjN) << ZdZ4d_y9tK << yWtH7PQ(jMab, oUZlH_, nyOK8Gl, R3a4GjN, -1742179917) << GiF8_1 << Tafi85aDz(jMab, 390801493, (char)-752615900, (unsigned short)1837422725) << std::endl;
 }
 else
 {

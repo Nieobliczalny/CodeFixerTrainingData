@@ -71,7 +71,7 @@ int main() {
 	char	weKmT0hp;
 	weKmT0hp	=	(char)-2103301078;
  short RSxdA6M6;
- RSxdA6M6 = 758324575;
+ RSxdA6M6 = (short)758324575;
     long long    Pp_nS;
     Pp_nS    =    -1931559112;
     unsigned short    H2_YI;
@@ -97,7 +97,7 @@ int main() {
   float  NokclLN1m_;
   NokclLN1m_  =  -1994889676;
 	short int	Asnz5u;
-	Asnz5u	=	-52783413;
+	Asnz5u	=	(short)-52783413;
 	unsigned long long	gcuACo;
 	gcuACo	=	-1964134637;
     unsigned long    nDntzn;
@@ -123,7 +123,7 @@ int main() {
     unsigned long    k52v0_5B7;
     k52v0_5B7    =    -1201971330;
 	char	SO49LdL;
-	SO49LdL	=	-713995468;
+	SO49LdL	=	(char)-713995468;
  unsigned long R_Od7900Ul;
  R_Od7900Ul = 1776618293;
  float huVFLSy0;

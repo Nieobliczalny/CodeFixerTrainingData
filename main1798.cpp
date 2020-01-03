@@ -48,7 +48,7 @@ int main()
     int    n06ALAH;
     n06ALAH    =    -1255935443;
   short int  oTb0BZW89;
-  oTb0BZW89  =  1094878182;
+  oTb0BZW89  =  (short)1094878182;
 	long long	uu_Rx;
 	uu_Rx	=	914682580;
     int    JA4VIG9;
@@ -134,7 +134,7 @@ int main()
     long double    dQH707ekI;
     dQH707ekI    =    800907018;
  unsigned short IetxCd;
- IetxCd = -1414489506;
+ IetxCd = (unsigned short)-1414489506;
   unsigned char  q0Iblp;
   q0Iblp  =  (unsigned char)1164378901;
     char    wmel590r;
@@ -144,7 +144,7 @@ int main()
 	unsigned short int	Ev__63F;
 	Ev__63F	=	(unsigned short)-719592924;
   short int  gsDj4NV65;
-  gsDj4NV65  =  -242134961;
+  gsDj4NV65  =  (short)-242134961;
   long double  LKkNLQ5k;
   LKkNLQ5k  =  -978012862;
  int w99_eqz5p;

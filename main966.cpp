@@ -25,7 +25,7 @@ int main() {
     unsigned short    K8UgznE19    =    (unsigned short)1613020690;
   unsigned char  qVU_  =  (unsigned char)1708634687;
   char  rDTxU5  =  (char)1077274229;
-	short int	PsTg3J	=	-1067725054;
+	short int	PsTg3J	=	(short)-1067725054;
   unsigned short int  u936  =  -1918768021;
     unsigned short    i2YLx7Zm    =    0;
  char jSIQ_f8o = -1574127091;
@@ -38,7 +38,7 @@ int main() {
 	unsigned int	GNYNM5	=	1331889303;
  float F63Zb73t2 = 381875774;
  unsigned short int o_D1KyA3H = (unsigned short)205557359;
-    short int    n7l2wODMEJ    =    364891809;
+    short int    n7l2wODMEJ    =    (short)364891809;
   unsigned char  lpmkTbp  =  618806727;
     int    XP9eL    =    0;
  unsigned long long zeKeCDt = 1402966674;
@@ -52,7 +52,7 @@ PsTg3J = Qrs0yHN39Z((short)1452525783, (unsigned short)973451721, 1564160280);
 int i = 0;
 do
 {
-cout << aLdmpwM(PsTg3J, (char)-74216816, 306289742, 149004253) << jSIQ_f8o << "O7wDNsrFb" << endl;
+cout << aLdmpwM(PsTg3J, (char)-74216816, (short)306289742, 149004253) << jSIQ_f8o << "O7wDNsrFb" << endl;
 i++;
 }
 while (i < 6);
@@ -70,7 +70,7 @@ case 'c':
 lpmkTbp++;
 break;
 case 'd':
-qVU_ = Qrs0yHN39Z(-1211305351, kIP6cx6, WRd32);
+qVU_ = Qrs0yHN39Z((short)-1211305351, kIP6cx6, WRd32);
 break;
 case 'e':
 J6h_V6Cb1o = (int)floor(F63Zb73t2);
@@ -104,7 +104,7 @@ while (i < 5);
 int i = 2;
 while (i >= 0)
 {
-cout << "X7p5V" << Qrs0yHN39Z((short)-1807249228, WRd32, kIP6cx6) << aLdmpwM((unsigned short)-2035735828, (char)1106025165, 1063340545, 23419811) << jSIQ_f8o << endl;
+cout << "X7p5V" << Qrs0yHN39Z((short)-1807249228, WRd32, kIP6cx6) << aLdmpwM((unsigned short)-2035735828, (char)1106025165, (short)1063340545, 23419811) << jSIQ_f8o << endl;
 --i;
 }
 }
@@ -185,7 +185,7 @@ E1tls43 = u936 + 2132949193;
 upX2Q7q = (short)(E1tls43 * upX2Q7q);
 
 Peld_738Y = (K8UgznE19 & kk082ThV75) ? q8e22 : (unsigned short)1351845125;
-fv7uWQ = Qrs0yHN39Z((short)-1080831619, (unsigned short)-402129302, 2001134707);
+fv7uWQ = Qrs0yHN39Z((short)-1080831619, (unsigned short)-402129302, (unsigned char)2001134707);
 
 rDTxU5 = upX2Q7q - 1972515644;
 

@@ -89,7 +89,7 @@ int main(void)
   short  GA9I9;
   GA9I9  =  (short)-1873388796;
     short int    LXV9;
-    LXV9    =    -881762841;
+    LXV9    =    (short)-881762841;
   unsigned long  low0;
   low0  =  1433924411;
 	float	zFTO;
@@ -109,7 +109,7 @@ int main(void)
     char    kT_AHI;
     kT_AHI    =    (char)-520718015;
   char  Ql5p7qF5;
-  Ql5p7qF5  =  -602963242;
+  Ql5p7qF5  =  (char)-602963242;
     unsigned int    f58KEBPt;
     f58KEBPt    =    -1281434068;
 	long long	P2eb;

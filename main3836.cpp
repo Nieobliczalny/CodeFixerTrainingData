@@ -382,7 +382,7 @@ hYr3Gz = LtC4e / Vk5Fk0DDFh((char)1401001321, (unsigned char)481441943, c_w7lMQ)
 
 try
 {
-std::cout << "CkIxZ6" << Vk5Fk0DDFh((char)-894178126, 967733540, 1526012658) << D_574 << S4vR0SLV6(-419458398, -513035651, c_w7lMQ, PyZ49W, 1695409900) << std::endl;
+std::cout << "CkIxZ6" << Vk5Fk0DDFh((char)-894178126, (unsigned char)967733540, 1526012658) << D_574 << S4vR0SLV6(-419458398, -513035651, c_w7lMQ, PyZ49W, 1695409900) << std::endl;
 }
 catch (int& errorCode)
 {

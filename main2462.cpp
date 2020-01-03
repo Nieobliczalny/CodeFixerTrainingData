@@ -53,7 +53,7 @@ int main(int argc, char** argv) {
  unsigned char L3jf0X = (unsigned char)278357637;
  unsigned char ddCdp = (unsigned char)-170513007;
     double    N8s17x_946    =    1227457234;
-  short  G4BV  =  1269241550;
+  short  G4BV  =  (short)1269241550;
  short Q_06_8hf = 1996333242;
  long double m7sC_b = 753263593;
     float    T7F0vr2_1    =    683136155;
@@ -67,7 +67,7 @@ int main(int argc, char** argv) {
  unsigned short m657LRwf4 = (unsigned short)1816972518;
  long oB0Sj8 = 312287370;
     short    W60kTd497    =    (short)-1053499271;
- unsigned char hyn8V9gR0N = -273493004;
+ unsigned char hyn8V9gR0N = (unsigned char)-273493004;
  unsigned long long AFfI = 1341356433;
   unsigned char  A_jPmd3_y  =  275187305;
   unsigned short  M6A9n  =  (unsigned short)-764631477;
@@ -77,7 +77,7 @@ int main(int argc, char** argv) {
 	unsigned char	jlX3y1N	=	(unsigned char)-913715192;
   unsigned char  u_72kJ  =  1139461706;
   unsigned char  vyXd9V  =  (unsigned char)-571087276;
-  unsigned char  YUX2VG5  =  -1830530885;
+  unsigned char  YUX2VG5  =  (unsigned char)-1830530885;
     unsigned long    RjLpb63Q4s    =    0;
   double  IHq_VFua  =  1775651709;
     int    gYwMz5    =    259646364;
@@ -87,7 +87,7 @@ int main(int argc, char** argv) {
   short  MqCSEMZ188  =  (short)2080103586;
  unsigned short int w_KrF_9 = -690249245;
   unsigned char  jp2F7Gr6rb  =  (unsigned char)-1112738052;
-    char    cwrd_K1C    =    1058518963;
+    char    cwrd_K1C    =    (char)1058518963;
 	double	jVbKkgN9iS	=	1587024915;
   unsigned long  kVz2U2738J  =  881938396;
 	long	H7r6q4_rJ9	=	-798910636;
@@ -99,7 +99,7 @@ int main(int argc, char** argv) {
   unsigned short int  w7_Ry9X4vh  =  (unsigned short)621579863;
 	unsigned short int	iyt5	=	(unsigned short)1579530899;
 	unsigned long	T79Up	=	-467701679;
-    unsigned short int    LdmFPH6    =    -2077424275;
+    unsigned short int    LdmFPH6    =    (unsigned short)-2077424275;
 	long double	W3v0	=	-1373544959;
   unsigned long long  S2583UBrjc  =  -2065639164;
  double NX40 = -1250717842;
@@ -109,7 +109,7 @@ int main(int argc, char** argv) {
  unsigned char rseG8FN4 = (unsigned char)670070893;
   unsigned long long  e_6_00i5w  =  37586713;
     unsigned char    syEnynEs    =    (unsigned char)2068143466;
-  unsigned short  jsbOLu  =  -950090879;
+  unsigned short  jsbOLu  =  (unsigned short)-950090879;
     int    XU3gw11c_N    =    -1690296085;
   char  raSnF3eb6e  =  -2053215501;
 	unsigned int	we5idWa1n	=	-635978326;

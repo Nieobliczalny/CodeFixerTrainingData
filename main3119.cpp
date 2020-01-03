@@ -23,7 +23,7 @@ int main(void)
   unsigned char  JuzBfV3GGt  =  (unsigned char)-787285525;
   short int  X8PeiAm0  =  (short)-633875654;
  float SUMU0JX = -204458634;
-    unsigned short    GTuaZ    =    -1122010482;
+    unsigned short    GTuaZ    =    (unsigned short)-1122010482;
   unsigned int  BlzWGhyjg  =  -296119339;
 	int	z3RN7c8Kg1	=	0;
     unsigned long long    mxUq    =    0;

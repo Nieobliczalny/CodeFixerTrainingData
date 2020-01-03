@@ -112,7 +112,7 @@ int main(void) {
  short int rZKfAYiLZ;
  rZKfAYiLZ = (short)842549112;
   char  i034_rL2X;
-  i034_rL2X  =  -2024575646;
+  i034_rL2X  =  (char)-2024575646;
 	unsigned int	AmI9BnAt;
 	AmI9BnAt	=	-445633868;
  unsigned short int SmUu372J81;

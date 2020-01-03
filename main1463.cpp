@@ -444,7 +444,7 @@ case 5:
 i1ZDbeP8 = i1ZDbeP8 + 76925391;
 break;
 default:
-pocmW = LF8jP((short)1974018078, 1572458974, -1570760906);
+pocmW = LF8jP((short)1974018078, (unsigned short)1572458974, -1570760906);
 break;
 }
 }

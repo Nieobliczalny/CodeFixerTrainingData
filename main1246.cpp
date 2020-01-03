@@ -60,7 +60,7 @@ int main(int argc, char** argv)
     char    b_9XeD3;
     b_9XeD3    =    (char)287062915;
   short  y18Rpd;
-  y18Rpd  =  58589265;
+  y18Rpd  =  (short)58589265;
     unsigned int    kkvAAOOU;
     kkvAAOOU    =    -1906086235;
   unsigned short  F0d7pf;
@@ -141,7 +141,7 @@ int i = 0;
 do
 {
 ++i;
-cout << U0xG70q(Bj71, d6SEs0t6, 1473664367) << N73z56(Bj71, d6SEs0t6, -1965858185, bIjW6AAss) << endl;
+cout << U0xG70q(Bj71, d6SEs0t6, (unsigned short)1473664367) << N73z56(Bj71, d6SEs0t6, -1965858185, bIjW6AAss) << endl;
 }
 while (i < 2);
 }
@@ -240,7 +240,7 @@ case 'd':
 g2tF25q = E5_EGu9Cv((unsigned char)748246660, F0d7pf, (unsigned short)678982050);
 break;
 case 'e':
-K2Nl6_8 = N73z56(K2Nl6_8, 1477271384, (char)252427248, -1729850928);
+K2Nl6_8 = N73z56(K2Nl6_8, 1477271384, (char)252427248, (unsigned short)-1729850928);
 break;
 case 'f':
 obL8K %= 1835417501;

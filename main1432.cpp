@@ -37,7 +37,7 @@ int main(int argc, char** argv)
   short  sL2psol89;
   sL2psol89  =  (short)1996127405;
   unsigned char  E4qu_5yf;
-  E4qu_5yf  =  379309472;
+  E4qu_5yf  =  (unsigned char)379309472;
  double o4sos4mH;
  o4sos4mH = 2064600504;
  unsigned long LzsWuA;
@@ -352,7 +352,7 @@ case 5:
 fYumqu = hsPz66zmle((char)-336125317, (short)-1774536968, yn3u2jdqST, pj83, -1765012680);
 break;
 case 6:
-lgLyfLP3hH = h_s3rR6((short)1599985490, -1934816353, -2093282820);
+lgLyfLP3hH = h_s3rR6((short)1599985490, (short)-1934816353, -2093282820);
 break;
 }
 }
@@ -379,7 +379,7 @@ case 2:
 on14iM &= oLpFqwU;
 break;
 case 3:
-fYumqu = hsPz66zmle(fYumqu, (short)1505052778, (unsigned short)-350752692, -1649933849, Z_0bhIo);
+fYumqu = hsPz66zmle(fYumqu, (short)1505052778, (unsigned short)-350752692, (short)-1649933849, Z_0bhIo);
 break;
 case 4:
 oLpFqwU = hsPz66zmle(-1689292504, on14iM, -669883027, LzsWuA, TLb643);
@@ -394,7 +394,7 @@ case 7:
 t7IF0Gw_12 = h_s3rR6((short)1000139355, (short)350711347, TLb643) + 368693595;
 break;
 case 8:
-t7IF0Gw_12 = hsPz66zmle(t7IF0Gw_12, VVNOXBx32, -230304122, LzsWuA, lBh4qHc0u);
+t7IF0Gw_12 = hsPz66zmle(t7IF0Gw_12, VVNOXBx32, (unsigned short)-230304122, LzsWuA, lBh4qHc0u);
 break;
 case 9:
 V4UdFplN *= lBh4qHc0u;

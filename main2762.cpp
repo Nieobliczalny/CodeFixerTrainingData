@@ -65,7 +65,7 @@ int main(void)
   short  n9gy65;
   n9gy65  =  (short)-877751305;
 	short	Q3W2M7n4Z;
-	Q3W2M7n4Z	=	-695607415;
+	Q3W2M7n4Z	=	(short)-695607415;
   unsigned char  R06vc;
   R06vc  =  (unsigned char)2128624338;
   char  g3Pkl_tlM_;
@@ -129,7 +129,7 @@ int main(void)
     unsigned char    lJb511mRx;
     lJb511mRx    =    (unsigned char)-204213814;
     unsigned short int    gT09A4vA;
-    gT09A4vA    =    1671213583;
+    gT09A4vA    =    (unsigned short)1671213583;
   char  d4_73ULVmX;
   d4_73ULVmX  =  -1750972260;
 	int	VXYi3;

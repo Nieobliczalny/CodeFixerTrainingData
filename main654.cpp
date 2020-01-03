@@ -23,7 +23,7 @@ int main(void) {
     int    L2P63n_FT;
     L2P63n_FT    =    -336097474;
  unsigned char T5VlD;
- T5VlD = 464945231;
+ T5VlD = (unsigned char)464945231;
  unsigned char w3NUtG5I7;
  w3NUtG5I7 = (unsigned char)1483427408;
   long long  mu7V4D;
@@ -57,7 +57,7 @@ int main(void) {
   unsigned short  aii3;
   aii3  =  (unsigned short)551831463;
  unsigned char jOI1R_3pM;
- jOI1R_3pM = -1312965897;
+ jOI1R_3pM = (unsigned char)-1312965897;
  unsigned short int Nj_J_;
  Nj_J_ = 367755543;
  long ijP9;
@@ -95,7 +95,7 @@ int main(void) {
     unsigned char    wX_p1G23Q;
     wX_p1G23Q    =    (unsigned char)614818107;
     char    WL8VOcgM;
-    WL8VOcgM    =    1427926998;
+    WL8VOcgM    =    (char)1427926998;
     float    EXOzy7;
     EXOzy7    =    -1821638946;
  unsigned char Zl0Alw8Po;
@@ -213,7 +213,7 @@ o36SBD = SqOn_4M(mu7V4D, c1Kw1, (short)-887384461, (short)-848427063) / T5VlD;
 break;
 case 'e':
 case 'E':
-PXtA2H7l = SqOn_4M((short)1459427322, 718249852, -1102312626, 1459405677);
+PXtA2H7l = SqOn_4M((short)1459427322, (short)718249852, -1102312626, 1459405677);
 break;
 case 'f':
 case 'F':
@@ -242,7 +242,7 @@ l31a = SqOn_4M((short)530454188, l31a, Zl0Alw8Po, (short)1655182546);
 }
 else if (M6orgX > SpySeY)
 {
-std::cout << "Mcb5H" << HFz650 << H8Rgf1P8w << SqOn_4M(M6orgX, (short)-705289054, 1827368448, 1172615973) << std::endl;
+std::cout << "Mcb5H" << HFz650 << H8Rgf1P8w << SqOn_4M(M6orgX, (short)-705289054, (short)1827368448, 1172615973) << std::endl;
 }
 else
 {
@@ -293,7 +293,7 @@ l31a = SqOn_4M(S_vhcO, (short)354814716, l31a, (short)923109254);
 break;
 case 'b':
 case 'B':
-S96D = (EXOzy7 >= PVl4b74b) ? Nj_J_ : SqOn_4M((short)-206525854, -1809462670, l31a, 233262653);
+S96D = (EXOzy7 >= PVl4b74b) ? Nj_J_ : SqOn_4M((short)-206525854, (short)-1809462670, l31a, 233262653);
 break;
 case 'c':
 case 'C':
@@ -334,7 +334,7 @@ break;
 }
 else
 {
-PXtA2H7l = SqOn_4M(P833g15yF, 982498400, 331059305, -871145705);
+PXtA2H7l = SqOn_4M(P833g15yF, (short)982498400, 331059305, -871145705);
 }
 {
 int i = 8;
@@ -424,7 +424,7 @@ int j = 0;
 do
 {
 ++j;
-std::cout << LvVb << SqOn_4M(EXOzy7, (short)1579878363, Z3hyN, (short)-1711021834) << SqOn_4M((short)91401479, T98x3S, 384291878, 665901990) << std::endl;
+std::cout << LvVb << SqOn_4M(EXOzy7, (short)1579878363, Z3hyN, (short)-1711021834) << SqOn_4M((short)91401479, T98x3S, (short)384291878, 665901990) << std::endl;
 }
 while (j < 10);
 }
@@ -492,7 +492,7 @@ P4Nj_n ^= mu7V4D;
 }
 else
 {
-std::cout << "b3p9" << Z3hyN << SqOn_4M((short)-667711379, (short)-1567625234, (short)-1166493910, P4Nj_n) << SqOn_4M(-108483415, 1664565664, 834274115, P4Nj_n) << std::endl;
+std::cout << "b3p9" << Z3hyN << SqOn_4M((short)-667711379, (short)-1567625234, (short)-1166493910, P4Nj_n) << SqOn_4M((short)-108483415, 1664565664, 834274115, P4Nj_n) << std::endl;
 }
 if (M6orgX < -470254247)
 {
@@ -615,7 +615,7 @@ else
 {
 if (Zl0Alw8Po == BTKO)
 {
-l31a = SqOn_4M((short)731785317, (short)1041898806, (short)-267912522, 399168645);
+l31a = SqOn_4M((short)731785317, (short)1041898806, (short)-267912522, (short)399168645);
 }
 }
 }
@@ -706,7 +706,7 @@ try
 {
 if (C1_0l <= -2089301874)
 {
-P9xf8__ = SqOn_4M(vH_L2c, -1861597617, HFz650, L884) ^ 1275517234;
+P9xf8__ = SqOn_4M(vH_L2c, (short)-1861597617, HFz650, L884) ^ 1275517234;
 }
 else if ((yYbzQEUFn0 & p7IwhJ32) && ((WL8VOcgM & p7IwhJ32) || (mu7V4D < BTKO)))
 {
@@ -722,7 +722,7 @@ jfZ7C = (int)abs(yYbzQEUFn0);
 }
 else if (((P9xf8__ < Z1haexfTp) || (S_vhcO & EmzT8_M)) && (ubuOiFo <= p7IwhJ32))
 {
-AQdi0GCi = SqOn_4M(2059612249, -740183790, P4Nj_n, L884);
+AQdi0GCi = SqOn_4M((short)2059612249, -740183790, P4Nj_n, L884);
 }
 else
 {
@@ -753,7 +753,7 @@ case 0:
 Z1haexfTp = SqOn_4M((short)220353882, (short)-1603730852, (short)601486607, L2P63n_FT) << 1473433242;
 break;
 case 1:
-l31a = SqOn_4M(-1865921522, aii3, SpySeY, EXOzy7);
+l31a = SqOn_4M((short)-1865921522, aii3, SpySeY, EXOzy7);
 break;
 case 2:
 jpCiMRO = SqOn_4M(H8Rgf1P8w, P4Nj_n, 489189616, LvVb);
@@ -787,7 +787,7 @@ PXtA2H7l = SqOn_4M((short)1566651664, PXtA2H7l, (short)-876275513, mu7V4D);
 }
 else
 {
-o57h6oo = SqOn_4M(p1w7c, (short)-1369854022, 1101955170, jOI1R_3pM);
+o57h6oo = SqOn_4M(p1w7c, (short)-1369854022, (short)1101955170, jOI1R_3pM);
 }
 std::cout << SqOn_4M(p1w7c, -795036080, 1018053280, jOI1R_3pM) << "BhPJ583M4" << SqOn_4M(1763469586, rN03p36sV, 2066501278, 1190545523) << SqOn_4M(p1w7c, -773857824, Nj_J_, -1025003986) << "GHg61_" << std::endl;
 

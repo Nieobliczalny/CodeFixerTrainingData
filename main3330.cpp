@@ -36,7 +36,7 @@ int main() {
  unsigned char w_u8p0Ht7x;
  w_u8p0Ht7x = (unsigned char)-1687575223;
  unsigned short Sb17pPwE8;
- Sb17pPwE8 = -594440030;
+ Sb17pPwE8 = (unsigned short)-594440030;
 	char	j91BnRj;
 	j91BnRj	=	(char)751592921;
  short kYxZR5L;
@@ -72,7 +72,7 @@ int main() {
 
 j91BnRj = ENpEs7v5();
 
-std::cout << "g66G" << M5UJ_zSv << s77Gfgi(-337911812, (short)749045726, (unsigned short)1813964883, -184926268) << DWUc7zt5 << std::endl;
+std::cout << "g66G" << M5UJ_zSv << s77Gfgi(-337911812, (short)749045726, (unsigned short)1813964883, (short)-184926268) << DWUc7zt5 << std::endl;
 
 if (S9AFj_4ZK5 <= DWUc7zt5)
 {

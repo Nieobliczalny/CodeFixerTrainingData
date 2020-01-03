@@ -30,7 +30,7 @@ int main()
  char vU23I = (char)689208483;
  int pPz7e2WW = 1260298297;
   unsigned short int  D8DaS72  =  (unsigned short)-1635429620;
-  char  Y52g  =  -1229748742;
+  char  Y52g  =  (char)-1229748742;
     long    G2j7IY2_    =    0;
  unsigned char ust_6 = -1813595027;
   char  X12X2w8_  =  -1559250741;

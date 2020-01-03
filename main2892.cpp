@@ -57,7 +57,7 @@ int main(int argc, char** argv)
  long long pHLXf = -482647256;
     long double    bRHJ0e_    =    248546281;
  short z6kSsLw1d8 = (short)-1516926864;
- unsigned char QgCmK = 350062965;
+ unsigned char QgCmK = (unsigned char)350062965;
 	unsigned long	piSGX91Ey	=	1515625507;
     long double    n0r8ogsI    =    -1180027364;
   long  m60Mo  =  -1600703830;
@@ -70,7 +70,7 @@ int main(int argc, char** argv)
 	long	ScHeDMf0	=	-1837637011;
   short int  Wvmv  =  (short)-1767718685;
     long double    DtNzpw9w8    =    859289936;
-	unsigned short int	II5eW	=	1413663446;
+	unsigned short int	II5eW	=	(unsigned short)1413663446;
   unsigned char  ts9_D6  =  (unsigned char)1245897364;
     unsigned long    KMcpD    =    -982356582;
 	unsigned char	c61u_FTS	=	-912775432;
@@ -86,7 +86,7 @@ int main(int argc, char** argv)
     long double    hoBp    =    -1093703422;
 	unsigned int	xQ_K	=	169865137;
 	long double	USaKO	=	2090700564;
- char paie7rEK1 = 1471731103;
+ char paie7rEK1 = (char)1471731103;
  float c6aC = 1946904867;
     long long    Dxy036_    =    0;
  unsigned long Qwqj0u = -675519789;
@@ -103,7 +103,7 @@ int main(int argc, char** argv)
     unsigned short    Ok3732OSw    =    (unsigned short)-324538889;
  unsigned short CJ4Dsv = (unsigned short)-941750871;
     int    XNjmweA    =    345832859;
- char M7krlwcv4 = 347477229;
+ char M7krlwcv4 = (char)347477229;
  float U_TY9vRNm = 663683608;
     char    uav9lI22K    =    (char)-2099592815;
 	short int	g6gV2	=	-1404136279;
@@ -118,7 +118,7 @@ int main(int argc, char** argv)
  float dD_6TE = -1113348341;
     int    p4G94_    =    1105684228;
     unsigned short    p8Xn    =    (unsigned short)-5528855;
-	short int	z50y	=	200782835;
+	short int	z50y	=	(short)200782835;
  char BZIuP2 = 1770367006;
     unsigned char    uzpSWon    =    -1877859748;
 	double	jqSop	=	1436236944;
@@ -131,7 +131,7 @@ int main(int argc, char** argv)
 	unsigned char	WM3g_Y	=	(unsigned char)978302589;
  int y9C1jd = -1192778286;
 	double	NT9_5J4	=	847626211;
-    char    k2EDNC7i    =    -696967144;
+    char    k2EDNC7i    =    (char)-696967144;
 
 if (c6aC != paie7rEK1)
 {

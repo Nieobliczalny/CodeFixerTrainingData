@@ -166,7 +166,7 @@ N1C2Pd7_ = (vHA__BD) ? Du3P4 : TF506rB1Lc((unsigned char)-93681837, j38Ag8P, B1k
 }
 else if (H50K == -857684150)
 {
-SXMM4j0c = BeMR(Q6bh, (short)-1446713986, 1358361345);
+SXMM4j0c = BeMR(Q6bh, (short)-1446713986, (char)1358361345);
 }
 else
 {
@@ -210,7 +210,7 @@ case 'c':
 EJ17E6T_z = (int)abs(McW8kt4Nr);
 break;
 case 'd':
-q1TRmj = TF506rB1Lc(q1TRmj, 1330215044, 1127496182, dq6r, l30vme7_);
+q1TRmj = TF506rB1Lc(q1TRmj, 1330215044, (char)1127496182, dq6r, l30vme7_);
 break;
 }
 for (int i = 0; i < 2; ++i)
@@ -247,7 +247,7 @@ case 1:
 dq6r = TF506rB1Lc((unsigned char)904439474, f74x, (char)679693351, Zb3W1AM0ik, (char)-988193675);
 break;
 case 2:
-M60mmYFo = TF506rB1Lc(1946107988, E0G72CX1K, -849915856, 775894507, -1254372759);
+M60mmYFo = TF506rB1Lc((unsigned char)1946107988, E0G72CX1K, -849915856, 775894507, -1254372759);
 break;
 case 3:
 mGL5c = FSXDFBnH9 + Bw3iD4_;
@@ -286,7 +286,7 @@ if (f2Ib45Q2O >= 377684804)
 {
 std::cout << "mrO1a9" << q_11CJ << f74x << "c72Fr7PG67" << e0zSLa1 << std::endl;
 }
-std::cout << BeMR(-573125181, (short)-1060436050, (char)-866250630) << h24TaWI215 << Zb3W1AM0ik << TF506rB1Lc((unsigned char)-78958248, McW8kt4Nr, EJ17E6T_z, 1522320721, PMUKPjb) << TF506rB1Lc(pni41J2s2, McW8kt4Nr, EJ17E6T_z, nf6Jl6Nb, -212167365) << std::endl;
+std::cout << BeMR(-573125181, (short)-1060436050, (char)-866250630) << h24TaWI215 << Zb3W1AM0ik << TF506rB1Lc((unsigned char)-78958248, McW8kt4Nr, EJ17E6T_z, 1522320721, PMUKPjb) << TF506rB1Lc(pni41J2s2, McW8kt4Nr, EJ17E6T_z, nf6Jl6Nb, (char)-212167365) << std::endl;
 return 0;
 }
 

@@ -71,7 +71,7 @@ case 'a':
 Dya0Ee = N45k8WGf();
 break;
 case 'b':
-bXeGE79U3 = rUkK1zrC(-190698965, -1483940902, U1s7, -77641155);
+bXeGE79U3 = rUkK1zrC((unsigned short)-190698965, -1483940902, U1s7, -77641155);
 break;
 case 'c':
 w3wt = rb5twhKF(w3wt, sVlJGBCz6a, (unsigned short)-399656323);
@@ -418,7 +418,7 @@ catch (int& errorCode)
 U9jc0K = rb5twhKF(U9jc0K, -2038941315, -764845428);
 }
 
-dFnW = sgVVqLNp5K((char)-1458936289, -56530901, q95C9, -635878800);
+dFnW = sgVVqLNp5K((char)-1458936289, -56530901, q95C9, (char)-635878800);
 
 {
 int i = 10;

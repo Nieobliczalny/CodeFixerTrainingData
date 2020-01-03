@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
   short  yzaok6HM_  =  (short)-225392272;
 	unsigned long long	x2BZnR5CVD	=	-303097809;
   unsigned short  HS3m4E  =  (unsigned short)-1114167903;
-  char  ur3w3  =  1734094862;
+  char  ur3w3  =  (char)1734094862;
   short  Fkr5uTMJ  =  0;
  int L3h_f88Tc = -1412884693;
  long double UHZ9_412 = 1035935492;
@@ -196,7 +196,7 @@ yzaok6HM_ = M8tan36V(yzaok6HM_, LxQ0D, (short)1053382714, (short)-1442116292);
 break;
 case 'c':
 case 'C':
-yzaok6HM_ = M8tan36V(yzaok6HM_, (short)-1363182116, 1300861650, UHZ9_412);
+yzaok6HM_ = M8tan36V(yzaok6HM_, (short)-1363182116, (short)1300861650, UHZ9_412);
 break;
 case 'd':
 case 'D':

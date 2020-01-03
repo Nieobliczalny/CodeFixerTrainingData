@@ -55,7 +55,7 @@ int main(int argc, char** argv)
     unsigned short    xhHbl9Z;
     xhHbl9Z    =    (unsigned short)-1509353593;
  short e73__q32J;
- e73__q32J = 1699474875;
+ e73__q32J = (short)1699474875;
 	short int	RIhute_Q25;
 	RIhute_Q25	=	575704026;
 	unsigned long long	JFrghbt;
@@ -105,7 +105,7 @@ int main(int argc, char** argv)
 	unsigned short	Ss5X;
 	Ss5X	=	(unsigned short)364875909;
  short int WJ184;
- WJ184 = -916779611;
+ WJ184 = (short)-916779611;
   int  kc8FI71N;
   kc8FI71N  =  -1146147266;
   unsigned long long  AnX9;

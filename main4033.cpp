@@ -24,7 +24,7 @@ int main()
 	short	TdMdyY;
 	TdMdyY	=	(short)-772441505;
  unsigned short int NX1jrjFgk;
- NX1jrjFgk = -571384903;
+ NX1jrjFgk = (unsigned short)-571384903;
   char  YgIQx7GX;
   YgIQx7GX  =  -247392340;
  unsigned short int GlaJi5;
@@ -126,7 +126,7 @@ int main()
     unsigned short    CIcp6;
     CIcp6    =    (unsigned short)-2050221470;
     unsigned short int    zevyV1M;
-    zevyV1M    =    28052822;
+    zevyV1M    =    (unsigned short)28052822;
  unsigned char vPQfK6Xy_;
  vPQfK6Xy_ = (unsigned char)-581987510;
   short  RrWj56u2ej;

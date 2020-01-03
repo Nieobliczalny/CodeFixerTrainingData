@@ -99,7 +99,7 @@ default:
 LOAT7 = CoAoe6U21O(LOAT7, (unsigned short)2008807672);
 break;
 }
-cout << QX3YNi(LOAT7) / czKi8_La2W(945031264, L81DFsX4, 834228272, i3dtOGD, RU5ck1_F) << endl;
+cout << QX3YNi(LOAT7) / czKi8_La2W((unsigned short)945031264, L81DFsX4, 834228272, i3dtOGD, RU5ck1_F) << endl;
 A20bmnkoAl = QX3YNi(c6HQ_4_o);
 for (int i = 6; i >= 0; i--)
 {
@@ -179,7 +179,7 @@ case 7:
 fm6L = CoAoe6U21O(bCI_, (unsigned short)-1919567920) << 1701779479;
 break;
 case 8:
-S0FrwQFH = G2KDC7(S0FrwQFH, -718377257, treSJZP7mN, Yk90);
+S0FrwQFH = G2KDC7(S0FrwQFH, (unsigned char)-718377257, treSJZP7mN, Yk90);
 break;
 case 9:
 gK9Q5VCL__ -= 235525297;

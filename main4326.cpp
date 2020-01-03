@@ -31,7 +31,7 @@ int main(void)
   short  YFB0;
   YFB0  =  (short)-266402969;
  char jg27SSzBy6;
- jg27SSzBy6 = -492510761;
+ jg27SSzBy6 = (char)-492510761;
  int y99kZA3bj;
  y99kZA3bj = -1489830891;
 	long	zJg8;
@@ -59,7 +59,7 @@ int main(void)
   short int  pX8C;
   pX8C  =  (short)-1475670359;
  short y__5rzvh;
- y__5rzvh = 705644108;
+ y__5rzvh = (short)705644108;
   double  o00PXr;
   o00PXr  =  -1161547487;
  unsigned int jihEgn;

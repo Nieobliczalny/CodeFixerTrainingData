@@ -21,7 +21,7 @@ int main(int argc, char** argv)
 	unsigned long	KXj43lnqPJ	=	627289183;
  long double GuLo9d8 = -1666623279;
   unsigned char  aB2ovVVqfO  =  (unsigned char)-1607898698;
-	char	hWhd57AvO	=	-1564967270;
+	char	hWhd57AvO	=	(char)-1564967270;
 	unsigned long long	rUTC9g	=	-1474205623;
   long double  epP6j85q  =  670750825;
   long long  jobxFQ7mxk  =  -436748409;
@@ -33,7 +33,7 @@ int main(int argc, char** argv)
 	unsigned short	t7l_eZ42	=	(unsigned short)1624271177;
 	int	NCsb4ni_23	=	-1128251312;
   double  iP5rt  =  640108223;
- unsigned short YXqhSL7u = 122769736;
+ unsigned short YXqhSL7u = (unsigned short)122769736;
   long long  XgR_l8Au1w  =  -1416375404;
   unsigned int  GTXIk7  =  0;
     long double    qs23w_g8    =    1109181448;
@@ -45,7 +45,7 @@ int main(int argc, char** argv)
   unsigned short  bAyL5a_v  =  -1183284071;
  float s63EC = 1269155301;
 	unsigned long long	Y5FONFz	=	-1232136216;
- char IZh_6D = 1911575740;
+ char IZh_6D = (char)1911575740;
 	long double	zFBsvwNO_q	=	-1790829919;
   long  rJwE1T  =  1364272947;
 	unsigned short	rJY91fc7	=	(unsigned short)1247877898;
@@ -55,7 +55,7 @@ int main(int argc, char** argv)
 	unsigned short int	JaYyS6	=	(unsigned short)-1591573443;
     unsigned int    r8Me    =    1972407416;
 	unsigned short	f3dodnV3oj	=	(unsigned short)-1705554683;
-	char	N2y88vj50x	=	631516922;
+	char	N2y88vj50x	=	(char)631516922;
   unsigned int  bJ001  =  -483978709;
     unsigned long    b5V6A46f1q    =    -1706157535;
  long TQgY3S71 = 491385626;
@@ -67,7 +67,7 @@ int main(int argc, char** argv)
  float EuGZ3_U04 = -1624518942;
  double d5MO_BKC = -1203372525;
  short int J53H5 = (short)2093992486;
- unsigned short pg6aCOl4G = 456926918;
+ unsigned short pg6aCOl4G = (unsigned short)456926918;
   unsigned long  AMqSW1r  =  -818502825;
 	double	d13vs	=	1267976411;
   unsigned long long  Q59Tfm6E  =  768584267;
@@ -77,7 +77,7 @@ int main(int argc, char** argv)
     float    iWEp6bw1    =    1740569552;
  unsigned long kFtl = 1733745107;
     unsigned short    W_g8    =    (unsigned short)389299069;
-    unsigned char    oqJVFDvrQ    =    1104508941;
+    unsigned char    oqJVFDvrQ    =    (unsigned char)1104508941;
   unsigned char  b98yD  =  0;
     short    n50x7    =    1971014389;
     double    r240Z3nnj    =    1870930731;

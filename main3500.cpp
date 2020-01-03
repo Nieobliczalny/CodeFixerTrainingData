@@ -110,7 +110,7 @@ int k = 9;
 while (k >= 0)
 {
 --k;
-t7Wa1374 = SyuV((short)-183893141, t7Wa1374, FW59QHxjYO, -1081905944, JW9m2RS);
+t7Wa1374 = SyuV((short)-183893141, t7Wa1374, FW59QHxjYO, (short)-1081905944, JW9m2RS);
 }
 }
 }
@@ -137,7 +137,7 @@ case 4:
 BatI++;
 break;
 case 5:
-GFvpK = SyuV((short)-645013535, 1221983279, o732Rm, 1922304329, c7I_eJ86Mo);
+GFvpK = SyuV((short)-645013535, 1221983279, o732Rm, (short)1922304329, c7I_eJ86Mo);
 break;
 default:
 tGmErT = (int)abs(HbFg_);
@@ -258,7 +258,7 @@ case 4:
 guE2CtR = (int)abs(pty_Vf47x);
 break;
 case 5:
-LkXvsrX1f = SyuV((short)481646465, zgc1Hm, 1754348180, (short)142497415, -656867328) - YycJm1m1;
+LkXvsrX1f = SyuV((short)481646465, zgc1Hm, 1754348180, (short)142497415, (unsigned short)-656867328) - YycJm1m1;
 break;
 case 6:
 c7I_eJ86Mo = Y_Ufe + 1313241791;
@@ -848,7 +848,7 @@ case 1:
 m_jlA6qlq <<= d2qcM7PC;
 break;
 case 2:
-q_ybQ_j = SyuV(q_ybQ_j, -306698327, YjLX41HX0S, (short)-1231806177, -1367156611);
+q_ybQ_j = SyuV(q_ybQ_j, -306698327, YjLX41HX0S, (short)-1231806177, (unsigned short)-1367156611);
 break;
 case 3:
 t7Wa1374 = (int)abs(RAZ573Pw);

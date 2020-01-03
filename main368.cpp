@@ -40,7 +40,7 @@ int main()
   long long  Re_iO4seq  =  -1941994789;
     float    Qo_272c    =    1851124625;
     unsigned int    N168b5    =    -1157396323;
-  unsigned short  KXNX0pL  =  1533611683;
+  unsigned short  KXNX0pL  =  (unsigned short)1533611683;
 	long double	P0uVcG	=	1618647296;
  short int f6jcH = (short)-669476861;
     unsigned long long    DRSVE    =    -2055807549;

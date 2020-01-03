@@ -398,7 +398,7 @@ else if ((Wl707 & -1628071144) || (kWtC & Wl707))
 {
 try
 {
-cout << HF931_2t6(jML08659x, (char)-331597942, 986074749, B38R, eJg5TzWPO) << KyuZoyvMyH(jML08659x, (short)1537391241, (unsigned short)-1179713418, B38R) << HF931_2t6(jML08659x, 1203514537, 1160271784, -406243585, eJg5TzWPO) << w98IpmFMTh(jML08659x) << "L89C972U3g" << endl;
+cout << HF931_2t6(jML08659x, (char)-331597942, 986074749, B38R, eJg5TzWPO) << KyuZoyvMyH(jML08659x, (short)1537391241, (unsigned short)-1179713418, B38R) << HF931_2t6(jML08659x, (char)1203514537, 1160271784, -406243585, eJg5TzWPO) << w98IpmFMTh(jML08659x) << "L89C972U3g" << endl;
 }
 catch (int& errorCode)
 {
@@ -448,7 +448,7 @@ jML08659x = KyuZoyvMyH(Fsn68Z, (short)402983646, (unsigned short)-504905561, -60
 }
 else
 {
-Wl707 = L2SsP5Tl((unsigned short)-1900061654, 1361547743);
+Wl707 = L2SsP5Tl((unsigned short)-1900061654, (short)1361547743);
 }
 }
 }

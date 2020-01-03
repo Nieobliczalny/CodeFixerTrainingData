@@ -139,7 +139,7 @@ NV1f3 = (unsigned short)(Qq00IW + (KM30n5Y));
 cout << h4m_j1(345158, (short)-861583345) << "g2CevBD6" << OlC_fj(wwu764z2, yqbA, (char)-332810386, 1492553974, -2038213093) << a_HG << endl;
 lWdXy = OlC_fj(832427614, -6606943, (char)1304113407, e25vfde1PX, j27CpddGBk);
 
-cout << a_HG << OlC_fj(-753798610, yqbA, 2006184747, e25vfde1PX, j27CpddGBk) << j27CpddGBk << OlC_fj(1205754280, -309732010, H170, -1599266294, 2084410050) << endl;
+cout << a_HG << OlC_fj(-753798610, yqbA, (char)2006184747, e25vfde1PX, j27CpddGBk) << j27CpddGBk << OlC_fj(1205754280, -309732010, H170, -1599266294, 2084410050) << endl;
 cout << "OM9sY" << "lDftr06" << DiKYY << endl;
 {
 int i = 0;

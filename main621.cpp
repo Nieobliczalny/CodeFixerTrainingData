@@ -225,7 +225,7 @@ E_LxIbn = G_28C2bO((short)-1936553908, q04To23r, (unsigned short)-1089318642);
 }
 else
 {
-Nhpe5d63E0 = G_28C2bO((short)-1693232384, 2083224795, OBzg9uWpuH);
+Nhpe5d63E0 = G_28C2bO((short)-1693232384, (unsigned char)2083224795, OBzg9uWpuH);
 }
 
 switch (ys4N5mH)

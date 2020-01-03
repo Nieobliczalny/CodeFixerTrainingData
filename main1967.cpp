@@ -21,7 +21,7 @@ int main(void) {
   unsigned short  Yf7Gctyd0;
   Yf7Gctyd0  =  (unsigned short)-1056573568;
 	char	gMx8UbxS6u;
-	gMx8UbxS6u	=	-1299514672;
+	gMx8UbxS6u	=	(char)-1299514672;
 	double	SRY_SGK;
 	SRY_SGK	=	1292054721;
 	unsigned short int	pY7C;

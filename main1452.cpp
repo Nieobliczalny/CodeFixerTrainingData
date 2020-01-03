@@ -331,7 +331,7 @@ else if (NR68mSL4)
 {
 if (JAJsf == 684937743)
 {
-std::cout << m0O1 << BgYD5x3 << "fQ5L" << "Xm4wi93" << nQL9_CkjV((short)-2123909519, 989193807, -861805436) << std::endl;
+std::cout << m0O1 << BgYD5x3 << "fQ5L" << "Xm4wi93" << nQL9_CkjV((short)-2123909519, 989193807, (short)-861805436) << std::endl;
 }
 }
 else if ((oSMrX5ZH8o <= -1076475143) || (a496i_ < -516791702))

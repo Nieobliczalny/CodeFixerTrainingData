@@ -46,7 +46,7 @@ int main(void) {
   unsigned char  rjEV6ch9LL;
   rjEV6ch9LL  =  (unsigned char)-1034862164;
 	unsigned char	Z9BS;
-	Z9BS	=	823690062;
+	Z9BS	=	(unsigned char)823690062;
   float  G4fs8ZmdA;
   G4fs8ZmdA  =  -682115510;
  double vlYF0W;
@@ -94,7 +94,7 @@ int main(void) {
 	unsigned short int	Ymm6;
 	Ymm6	=	(unsigned short)-176049416;
 	short int	aH92Ut3S;
-	aH92Ut3S	=	1648009255;
+	aH92Ut3S	=	(short)1648009255;
   char  Y0DF;
   Y0DF  =  1770109580;
  long double K8i9Sef_U9;

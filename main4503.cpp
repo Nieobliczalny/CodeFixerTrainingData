@@ -188,7 +188,7 @@ JL8rv3_j = V_p3rWMu((short)1132140795, RDX3, FeVV17B, (unsigned short)-127998461
 
 for (int i = 9; i >= 0; --i)
 {
-hKai7_fD = V_p3rWMu(hKai7_fD, X1y2P3CzX, pHNV, -466472365, -770402866);
+hKai7_fD = V_p3rWMu(hKai7_fD, X1y2P3CzX, pHNV, (unsigned short)-466472365, -770402866);
 }
 if (k2tsYQg03t <= 721660065)
 {

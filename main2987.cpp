@@ -28,7 +28,7 @@ int main() {
   short int  dUaQHdO1v;
   dUaQHdO1v  =  (short)-1131940509;
 	unsigned short	ec021pvP;
-	ec021pvP	=	1396164174;
+	ec021pvP	=	(unsigned short)1396164174;
     short int    PXdY8__;
     PXdY8__    =    0;
  unsigned int Y_Y16;

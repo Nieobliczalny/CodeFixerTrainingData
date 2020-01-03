@@ -63,7 +63,7 @@ int main() {
 	unsigned short int	VHqyT4;
 	VHqyT4	=	(unsigned short)-541991811;
   unsigned short  mAcmuwS;
-  mAcmuwS  =  1042088566;
+  mAcmuwS  =  (unsigned short)1042088566;
  int qIwTr;
  qIwTr = -1152358542;
  unsigned short KF_YG_;
@@ -113,7 +113,7 @@ int main() {
   unsigned char  Qn7Ny;
   Qn7Ny  =  (unsigned char)2060103620;
 	short	FN__;
-	FN__	=	-209687790;
+	FN__	=	(short)-209687790;
 	long	x6929e;
 	x6929e	=	-398652578;
 	unsigned long	a2hL_866;
@@ -523,7 +523,7 @@ while (k >= 0);
 
 Ne49 = 1651968213 / nAidsM((unsigned short)1104657383, -295807137, JDqT_fHu);
 std::cout << nAidsM((unsigned short)-1005267624, 1160843120, -938779946) << nAidsM(k7M66VD10, -333233405, -107502235) << RrZB(k7M66VD10, fx00XB2ODe) << h2IGoU << RrZB((unsigned short)-940661107, fx00XB2ODe) << std::endl;
-std::cout << eIVtv3Bv << "Dn9O" << nAidsM(-178778026, 1278117962, -472291807) << w30Z3e0uM2 << "tA9X5h7o" << std::endl;
+std::cout << eIVtv3Bv << "Dn9O" << nAidsM((unsigned short)-178778026, 1278117962, -472291807) << w30Z3e0uM2 << "tA9X5h7o" << std::endl;
 if (mAcmuwS & 73865358)
 {
 for (int j = 0; j < 9; ++j)

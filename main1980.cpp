@@ -45,7 +45,7 @@ int main() {
   short  Mkl166sa;
   Mkl166sa  =  (short)-362754829;
   short  Yw__gu9;
-  Yw__gu9  =  -705152441;
+  Yw__gu9  =  (short)-705152441;
 	unsigned long	Je5T;
 	Je5T	=	966775829;
 	unsigned int	X2tp;

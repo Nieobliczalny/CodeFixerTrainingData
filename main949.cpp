@@ -31,7 +31,7 @@ int main(void)
     unsigned long long    nlDEJy20    =    2015716213;
     short    B61u    =    (short)-1816598276;
 	float	gw6H65	=	2065999348;
-  short  W8_Lu  =  -182901169;
+  short  W8_Lu  =  (short)-182901169;
  unsigned short TqO11_U = -1217690075;
   char  q7DVi  =  -341181406;
     long    zx7TF9lqdr    =    0;
@@ -165,7 +165,7 @@ B61u = zN0n6TVjM0(-880886636, (unsigned short)-1894724507, (unsigned char)-16323
 }
 else if ((q7DVi & Ydf8KB) || ((IQqMJ5Tk <= q7DVi) && (K9isE5GGu > 1004850855)))
 {
-h7UhQmGi = zN0n6TVjM0(-2099460893, (unsigned short)-2105274052, -1611089768, -153969596) % 409548744;
+h7UhQmGi = zN0n6TVjM0(-2099460893, (unsigned short)-2105274052, (unsigned char)-1611089768, -153969596) % 409548744;
 }
 else if (b91E1 < B61u)
 {
@@ -209,7 +209,7 @@ else
 gw6H65 = q7DVi ^ AmR7_8;
 }
 }
-std::cout << b91E1 << Fe5RRXpUZ3((short)-2115459273) << zN0n6TVjM0(1926330889, (unsigned short)-2113513378, zx7TF9lqdr, gw6H65) << Fe5RRXpUZ3(AmR7_8) << zN0n6TVjM0(1927186933, q7DVi, zx7TF9lqdr, -777273450) << std::endl;
+std::cout << b91E1 << Fe5RRXpUZ3((short)-2115459273) << zN0n6TVjM0(1926330889, (unsigned short)-2113513378, zx7TF9lqdr, gw6H65) << Fe5RRXpUZ3(AmR7_8) << zN0n6TVjM0(1927186933, q7DVi, zx7TF9lqdr, (short)-777273450) << std::endl;
 
 if ((h7UhQmGi == -1837932237) && (b91E1 > 369813883))
 {

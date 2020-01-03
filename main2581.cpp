@@ -84,7 +84,7 @@ case 1:
 j4u3NMPqt = nA6IqJi5t(j4u3NMPqt, O4_u3, -379887857, (unsigned char)1022962486, (unsigned char)-412779885);
 break;
 default:
-Rj9p0 = nA6IqJi5t(-2070682876, iLxn5ZdHLn, DYjlw, O4_u3, -1348370050);
+Rj9p0 = nA6IqJi5t((unsigned char)-2070682876, iLxn5ZdHLn, DYjlw, O4_u3, -1348370050);
 break;
 }
 std::cout << O4_u3 << std::endl;

@@ -27,7 +27,7 @@ int main(int argc, char** argv)
  short int KzjD = (short)-2128432628;
     short    pGH1n9F    =    (short)-547049355;
   unsigned char  Yj9_Ml  =  (unsigned char)1304987101;
- short int x28fE4207 = 1701804856;
+ short int x28fE4207 = (short)1701804856;
     short int    pF2U3    =    -1095814442;
  long long d9kBzv_v99 = -1095133878;
     long double    Dx8mHQqg    =    720366975;
@@ -39,7 +39,7 @@ int main(int argc, char** argv)
 	short	scOwZSSVFZ	=	(short)1032941753;
 	unsigned int	RmU49	=	634324958;
     short int    zk36IDWjrE    =    (short)-1624422931;
-    unsigned short    jClO07    =    -1503786090;
+    unsigned short    jClO07    =    (unsigned short)-1503786090;
 	int	m4ysjH48R	=	1550384220;
  short Hd8T30L11 = 0;
 	long long	cI801zHBsZ	=	1611679103;
@@ -49,7 +49,7 @@ int main(int argc, char** argv)
   unsigned short int  eTmbE3xl  =  (unsigned short)480033402;
  long L4NBeq2V = 327117742;
   unsigned short int  Ba22dAkdKy  =  (unsigned short)1151352432;
-    short    yhXVS    =    -2004119323;
+    short    yhXVS    =    (short)-2004119323;
     unsigned short int    M4Uk34    =    -847497597;
     unsigned short    oO6BfLQre3    =    966642099;
  unsigned short Dzg_ = -501819947;
@@ -69,7 +69,7 @@ int main(int argc, char** argv)
     short    e41P9MOTP    =    (short)-2094105997;
  long double w40pjBSN = -1277811007;
 	long	q296C	=	1470716895;
-	unsigned short	yiuJvI	=	2137521322;
+	unsigned short	yiuJvI	=	(unsigned short)2137521322;
   unsigned short  xtaw  =  (unsigned short)-575572705;
     unsigned long long    Svb8v    =    1492361277;
 	short int	IJvk	=	-900405947;
@@ -83,7 +83,7 @@ int main(int argc, char** argv)
  unsigned long svmUhOl = 12733969;
   char  ru1YhZxe  =  (char)-1279164231;
   unsigned long  PNMr715  =  -285085687;
-	short	d1mZAq2A_	=	1408423831;
+	short	d1mZAq2A_	=	(short)1408423831;
 	unsigned int	CTuX_k	=	-665818165;
 	long	oczLA	=	-665431091;
     unsigned char    Q6RyuK6hn1    =    (unsigned char)-741067766;
@@ -94,7 +94,7 @@ int main(int argc, char** argv)
  unsigned short OEKHnR = (unsigned short)-591639189;
     short int    g9zdx    =    -1140462404;
 	float	RSp20as	=	-161682385;
-	short	iAVIDNlY5	=	-662870429;
+	short	iAVIDNlY5	=	(short)-662870429;
     unsigned int    d5kO04VNt    =    -1459804579;
 	unsigned char	sxZF3	=	(unsigned char)178313667;
  long JTz4 = 1479314315;
@@ -125,7 +125,7 @@ int main(int argc, char** argv)
 	short int	OMB3AGlhBQ	=	(short)1703682221;
     unsigned char    tk6qK    =    (unsigned char)-661342635;
 
-std::cout << q296C << yhXVS << HMm098IFk(pLxpYdqz4U, HL70Nik, -1533739523) << PJ7Ov << std::endl;
+std::cout << q296C << yhXVS << HMm098IFk(pLxpYdqz4U, HL70Nik, (unsigned char)-1533739523) << PJ7Ov << std::endl;
 switch (jClO07)
 {
 case 0:

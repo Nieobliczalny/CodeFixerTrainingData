@@ -51,7 +51,7 @@ int main()
   unsigned short int  Y0GIOn5a4d;
   Y0GIOn5a4d  =  (unsigned short)682524508;
  unsigned char wt85;
- wt85 = -535316399;
+ wt85 = (unsigned char)-535316399;
 	unsigned char	omXV5;
 	omXV5	=	(unsigned char)-2034118243;
     unsigned char    s5ccliI9;
@@ -94,7 +94,7 @@ do
 switch (sb8_99)
 {
 case 'a':
-mb7A = T_y293v6((unsigned short)26343024, (char)-1060677645, (char)858722262, -1835373542, J02Ei6Rg6w);
+mb7A = T_y293v6((unsigned short)26343024, (char)-1060677645, (char)858722262, (unsigned short)-1835373542, J02Ei6Rg6w);
 break;
 case 'b':
 c5ebHLw = iZw4g63(c5ebHLw, fs527n);
@@ -121,7 +121,7 @@ case 'i':
 Y1Gx036Uc = T_y293v6(Y1Gx036Uc, HRd84I, sYPH4QsWR, (unsigned short)-922316316, (unsigned short)-1082175316);
 break;
 default:
-J02Ei6Rg6w = T_y293v6(J02Ei6Rg6w, (char)1958053906, rel7ki, -165198087, 883727542);
+J02Ei6Rg6w = T_y293v6(J02Ei6Rg6w, (char)1958053906, rel7ki, (unsigned short)-165198087, 883727542);
 break;
 }
 --i;
@@ -132,7 +132,7 @@ while (i >= 0);
 f7Aao338K = (int)floor(sYPH4QsWR);
 mb7A |= HRd84I;
 C1YUB = B_9tZ7Jq >> jq_up5XR;
-std::cout << sb8_99 << T_y293v6((unsigned short)1319259849, (char)2026367107, (char)-892689637, -1528537363, -1260468139) << sYPH4QsWR << cnUd3gYG << V44bj() << std::endl;
+std::cout << sb8_99 << T_y293v6((unsigned short)1319259849, (char)2026367107, (char)-892689637, (unsigned short)-1528537363, -1260468139) << sYPH4QsWR << cnUd3gYG << V44bj() << std::endl;
 
 std::cout << "I8I3_jPX" << std::endl;
 
@@ -466,7 +466,7 @@ case 2:
 TA2E2IU14 = sb8_99 / yw385e0Rc;
 break;
 case 3:
-Dfd_A285L = T_y293v6((unsigned short)2069859308, (char)2031525547, s5ccliI9, (unsigned short)-1985556284, 1420979630);
+Dfd_A285L = T_y293v6((unsigned short)2069859308, (char)2031525547, s5ccliI9, (unsigned short)-1985556284, (unsigned short)1420979630);
 break;
 case 4:
 Y0GIOn5a4d = cnUd3gYG & 854773475;

@@ -371,7 +371,7 @@ case 2:
 DO08un79G = RD05k7C((short)2029240610);
 break;
 case 3:
-k2P7 = (F4dr < V44Q1J80) ? mP5Wlj5sr : Z7WqfAk((short)-1888823029, -1156950771);
+k2P7 = (F4dr < V44Q1J80) ? mP5Wlj5sr : Z7WqfAk((short)-1888823029, (short)-1156950771);
 break;
 case 4:
 V44Q1J80 = RD05k7C((short)1581515964);

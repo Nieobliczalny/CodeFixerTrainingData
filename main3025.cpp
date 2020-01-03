@@ -36,7 +36,7 @@ int main(void)
  long il8j = 636986859;
     long    OWnRz    =    1517556538;
  unsigned int wpqD5ucpv4 = -1838545754;
- short int twhYSG64J = -430161042;
+ short int twhYSG64J = (short)-430161042;
     unsigned long long    r3w91eFoEX    =    -484480334;
  double IrRCco = -849979580;
   unsigned char  QPkoLHE5PF  =  (unsigned char)-506368091;
@@ -46,7 +46,7 @@ int main(void)
 	short	Dh4k	=	45503006;
  long double livD936 = 1260282219;
 	long long	lvUD1	=	-1564783450;
- char ybkMAYv3jW = 1432835051;
+ char ybkMAYv3jW = (char)1432835051;
   long  U70u6M  =  -1856466792;
   unsigned char  PQdKiX3_7  =  -1863190036;
 	unsigned long long	o9V8y_8	=	-707457932;
@@ -57,7 +57,7 @@ int main(void)
  unsigned int AuLzoh = 0;
     short int    Lk0r_    =    (short)241903473;
     int    Qa9z6    =    -768514250;
-	short int	X8XB2Vd7Pq	=	-1200896625;
+	short int	X8XB2Vd7Pq	=	(short)-1200896625;
   unsigned long  eM3e6  =  0;
  unsigned int O4_tn4JMw2 = 2091782343;
   char  hKCJfDZw  =  (char)-1331511040;
@@ -77,7 +77,7 @@ int main(void)
 	unsigned long long	Yu25sWsQ_I	=	-528539966;
     short int    Io76Pury    =    (short)-479080385;
     long double    I8NnV_cE    =    22573897;
-	char	k22sK_3a	=	-660887613;
+	char	k22sK_3a	=	(char)-660887613;
  unsigned long akg1 = -800986182;
     long long    UrzEx7tY76    =    -137459820;
 	unsigned char	a3R_v	=	(unsigned char)255195301;
@@ -98,7 +98,7 @@ int main(void)
  char h7E2mw4w5 = (char)966141490;
  unsigned long long lQai = -1603061567;
     unsigned int    kw0YeCq_l    =    -1190191437;
-  unsigned char  h0_0t6  =  461445329;
+  unsigned char  h0_0t6  =  (unsigned char)461445329;
     float    M5S46a6    =    -2092624804;
   int  BIGrHWc  =  -1869912253;
 	unsigned short	Cx_z	=	(unsigned short)401497447;
@@ -109,7 +109,7 @@ int main(void)
   unsigned short int  w09Ytuww3  =  (unsigned short)-494257011;
   short  oZoD1D8  =  (short)1401489767;
  int WBE_0GwY = -1474392867;
-	unsigned short int	TI3KSD	=	424386401;
+	unsigned short int	TI3KSD	=	(unsigned short)424386401;
   short  ONlm  =  -604666393;
 	long long	BiC5	=	1487115735;
 

@@ -80,7 +80,7 @@ int main(int argc, char** argv)
   unsigned char  az52C;
   az52C  =  (unsigned char)1841833186;
 	short	xgo9S3O;
-	xgo9S3O	=	1034477959;
+	xgo9S3O	=	(short)1034477959;
   long double  SMu5rbBWg;
   SMu5rbBWg  =  -2019944733;
  float UAu4;
@@ -328,7 +328,7 @@ cout << f0rr6JUIyC << rANb(-763520845, (short)2128488805) << endl;
 }
 if (Kv56on9R9(I5Tg, (char)-1880043111, gi1B3, c9M52g) == 0)
 {
-	gi1B3 = Kv56on9R9(I5Tg, kogC98, gi1B3, (unsigned short)2017842300) / Kv56on9R9(I5Tg, -1880043111, gi1B3, c9M52g);
+	gi1B3 = Kv56on9R9(I5Tg, kogC98, gi1B3, (unsigned short)2017842300) / Kv56on9R9(I5Tg, (char)-1880043111, gi1B3, c9M52g);
 }
 
 FNRrsj_MLw = (int)floor(HfPjlBG2w8);

@@ -53,7 +53,7 @@ int main(void) {
  char VpDJu;
  VpDJu = (char)-590023462;
 	unsigned short	rskHGh;
-	rskHGh	=	-1568383628;
+	rskHGh	=	(unsigned short)-1568383628;
   int  h6kjbcgM2;
   h6kjbcgM2  =  144810792;
 	unsigned long	h9v1t;
@@ -404,7 +404,7 @@ case 2:
 wWL_4zA = (int)ceil(ZXCBu3);
 break;
 case 3:
-w9Niid7JZ_ = W4zWM((unsigned char)710976333, eVKcPg0E7, 54025942, dxm_s5VkY2);
+w9Niid7JZ_ = W4zWM((unsigned char)710976333, eVKcPg0E7, (short)54025942, dxm_s5VkY2);
 break;
 case 4:
 bPh_mb_yTm = (int)abs(Py1u);
@@ -422,7 +422,7 @@ break;
 
 cout << xkdHFg() << A01_XDk6ok << "Q9YO_8e_p0" << W4zWM((unsigned char)532080985, 1948184766, (short)-1540506794, -1618670232) << endl;
 
-jBJi93i = W4zWM((unsigned char)-362228414, 1620820187, -1940866443, 1223913446);
+jBJi93i = W4zWM((unsigned char)-362228414, 1620820187, (short)-1940866443, 1223913446);
 Bam0N8q = Ly_34_RPLe >> eVKcPg0E7;
 
 OMJ0c = (unsigned long long)(V3fD_ + (-637017825));

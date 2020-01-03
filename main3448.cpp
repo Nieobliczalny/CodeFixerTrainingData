@@ -43,7 +43,7 @@ int main() {
 std::cout << HZ45((unsigned char)2083070094, (unsigned char)-883324475, (short)-1417213592) << q5qSK << Qw5S << std::endl;
 try
 {
-q5qSK = HZ45(Qw5S, 347693538, w052TnAmj);
+q5qSK = HZ45(Qw5S, (unsigned char)347693538, w052TnAmj);
 }
 catch (int& errorCode)
 {
@@ -183,7 +183,7 @@ case 2:
 q5qSK = HZ45((unsigned char)1255269138, CeI1_, m_WOS4S);
 break;
 case 3:
-X517fkT = HZ45((unsigned char)466113354, -480960988, X517fkT);
+X517fkT = HZ45((unsigned char)466113354, (unsigned char)-480960988, X517fkT);
 break;
 case 4:
 q5qSK = HZ45(m_WOS4S, -103918, 502597835);

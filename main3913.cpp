@@ -144,7 +144,7 @@ int main() {
  short Y_mS;
  Y_mS = (short)1052280485;
   unsigned short int  s23Z6UR5d;
-  s23Z6UR5d  =  -2243606;
+  s23Z6UR5d  =  (unsigned short)-2243606;
 	unsigned long long	Z2kM1E5;
 	Z2kM1E5	=	2034776645;
     short int    dmgrr6dM8_;
@@ -154,7 +154,7 @@ int main() {
  unsigned short int NK7l2;
  NK7l2 = (unsigned short)-1126261460;
 	char	NJGAC0GA;
-	NJGAC0GA	=	-1076656920;
+	NJGAC0GA	=	(char)-1076656920;
 
 switch (Qi25LM0)
 {
@@ -456,7 +456,7 @@ case 'c':
 XzTyH62kI = rZOGY5(f73b, (short)724457341, fqWXF487to, wnC_ExB, (unsigned char)-468585731);
 break;
 case 'd':
-U_Sd6K3ytx = Yv21_CT8h9(U_Sd6K3ytx, W4HHDL8te, 1922534018, S9zXh0);
+U_Sd6K3ytx = Yv21_CT8h9(U_Sd6K3ytx, W4HHDL8te, (unsigned short)1922534018, S9zXh0);
 break;
 case 'e':
 EhH4 *= 327336806;

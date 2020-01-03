@@ -27,7 +27,7 @@ int main(int argc, char** argv)
     short int    t8Lbc;
     t8Lbc    =    (short)-680081539;
  char kkIb8r;
- kkIb8r = 1399380925;
+ kkIb8r = (char)1399380925;
   long  YA14rqw;
   YA14rqw  =  -1560239404;
  char MA_1248GJ;
@@ -39,7 +39,7 @@ int main(int argc, char** argv)
   char  V2r3j;
   V2r3j  =  (char)1861561413;
 	char	VjbC;
-	VjbC	=	-1425998466;
+	VjbC	=	(char)-1425998466;
     int    fsM0;
     fsM0    =    -1238941674;
  char HzPy6325H0;
@@ -135,7 +135,7 @@ int main(int argc, char** argv)
 	unsigned char	u1E_09;
 	u1E_09	=	(unsigned char)1526247399;
 	short int	yB_271;
-	yB_271	=	138990371;
+	yB_271	=	(short)138990371;
     unsigned long long    c08Z3zsR;
     c08Z3zsR    =    -426866448;
   long double  apzrtjMo;

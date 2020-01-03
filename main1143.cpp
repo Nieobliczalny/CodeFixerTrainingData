@@ -115,7 +115,7 @@ int main() {
 	unsigned long	yjpv9pzp8;
 	yjpv9pzp8	=	1594939630;
   short  FK4c_3jC2S;
-  FK4c_3jC2S  =  -1316480912;
+  FK4c_3jC2S  =  (short)-1316480912;
 	float	W2A44g;
 	W2A44g	=	1642123852;
   long double  T4_6RUo973;
@@ -127,7 +127,7 @@ int main() {
     char    ddAU8w_;
     ddAU8w_    =    (char)-1864800600;
     short int    yfFR;
-    yfFR    =    -1184494152;
+    yfFR    =    (short)-1184494152;
     unsigned int    xBnbc_gNtv;
     xBnbc_gNtv    =    0;
  long Pm2dckiTB_;
@@ -143,7 +143,7 @@ int main() {
  unsigned char O97jP;
  O97jP = (unsigned char)274730062;
     unsigned char    ZsphXV8i;
-    ZsphXV8i    =    -148077872;
+    ZsphXV8i    =    (unsigned char)-148077872;
 
 {
 int i = 0;

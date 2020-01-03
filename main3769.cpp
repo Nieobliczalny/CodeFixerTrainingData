@@ -53,7 +53,7 @@ int main(int argc, char** argv)
     short int    f58DI6Xss    =    (short)1147263682;
   unsigned long long  WE7tVh0J  =  -638743224;
     long long    GaGPQe    =    -381683235;
-	char	yGv_F3	=	1210723238;
+	char	yGv_F3	=	(char)1210723238;
 	unsigned long	N1vwac	=	-924561835;
   short int  RL3Ob188  =  0;
 	unsigned long	fkjcr75k	=	319901697;
@@ -89,7 +89,7 @@ int main(int argc, char** argv)
     unsigned long    hc9u1Q    =    671954669;
 	double	bG_AweXI9	=	-1953374137;
     long    LG4WU4fO    =    -1038514973;
-    unsigned short int    G7bpA1059_    =    -1932436238;
+    unsigned short int    G7bpA1059_    =    (unsigned short)-1932436238;
   short int  RWn4  =  1101392028;
 	long	auYf	=	-103083902;
 	unsigned char	TGS1a8HD04	=	(unsigned char)2097022604;
@@ -244,7 +244,7 @@ ovF_7E >>= 1250450973;
 }
 else if (J9phJc3g75 < j1d0MVs_f)
 {
-vF70dRu31 = Iyy4csdX4J((unsigned short)-788939961, cu3j, yGv_F3, fkjcr75k, -180813073);
+vF70dRu31 = Iyy4csdX4J((unsigned short)-788939961, cu3j, yGv_F3, fkjcr75k, (unsigned short)-180813073);
 }
 else if (aRG_ < 1173639778)
 {
@@ -439,7 +439,7 @@ MX9nQ = Iyy4csdX4J((unsigned short)-1532326224, -191405711, (unsigned short)3072
 }
 else if (TGS1a8HD04 & TG8b4izjw)
 {
-ST47 = OonoO8VS88(1228587523, -590770582, -693235899);
+ST47 = OonoO8VS88((char)1228587523, -590770582, -693235899);
 }
 else if (((n3q185K < -1401522646) || (bG2Vv5_ != -788425096)) && ((E_Uv & 734552757) || (x95o6y7f7i >= 678285508)))
 {
@@ -703,7 +703,7 @@ try
 {
 for (int k = 0; k < 5; ++k)
 {
-C8532HW = Iyy4csdX4J((unsigned short)-2059841668, -1952554507, (unsigned short)2028268092, (short)-68605838, -299020879);
+C8532HW = Iyy4csdX4J((unsigned short)-2059841668, -1952554507, (unsigned short)2028268092, (short)-68605838, (unsigned short)-299020879);
 }
 }
 catch (int& errorCode)
@@ -761,7 +761,7 @@ break;
 switch (MX9nQ)
 {
 case 0:
-C0sno = (yGv_F3) ? TGS1a8HD04 : -1915068635;
+C0sno = (yGv_F3) ? TGS1a8HD04 : (unsigned short)-1915068635;
 break;
 case 1:
 cxX6l <<= O201vwzeFq;
@@ -887,7 +887,7 @@ GaGPQe = C0sno | 1554595120;
 }
 else
 {
-GaGPQe = Iyy4csdX4J((unsigned short)-1662460082, UR41Fs_R, (unsigned short)-1058833134, (short)409683285, -1320400024);
+GaGPQe = Iyy4csdX4J((unsigned short)-1662460082, UR41Fs_R, (unsigned short)-1058833134, (short)409683285, (unsigned short)-1320400024);
 }
 }
 }

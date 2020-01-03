@@ -130,7 +130,7 @@ int main()
     float    fy2JZiiOve;
     fy2JZiiOve    =    -1714619824;
 	unsigned short int	Rnxsb9ya;
-	Rnxsb9ya	=	1908370223;
+	Rnxsb9ya	=	(unsigned short)1908370223;
 	short int	SA1J;
 	SA1J	=	(short)-2060144764;
 	unsigned int	ge6ScYy;
@@ -148,7 +148,7 @@ int main()
 	char	v1Lzz2;
 	v1Lzz2	=	(char)-1173760601;
  unsigned char Ja16t;
- Ja16t = -1245517159;
+ Ja16t = (unsigned char)-1245517159;
 	long double	zmhKGkkz;
 	zmhKGkkz	=	1596857705;
  unsigned long long vtQ3Pm86_;
@@ -190,7 +190,7 @@ int main()
     unsigned short    wU1L_;
     wU1L_    =    (unsigned short)-796935441;
  short j654;
- j654 = 1180200604;
+ j654 = (short)1180200604;
  long double zgjE;
  zgjE = 2018417204;
   unsigned char  qiCL;
@@ -486,7 +486,7 @@ std::cout << "Gu9u" << D4isNb << rjss6_((char)1720728093, p7dp_n, rf791b5n6n, W9
 int i = 9;
 while (i >= 0)
 {
-XEgA95_ = rjss6_(-835510706, 1592947676, PEOf436, 884569328);
+XEgA95_ = rjss6_((char)-835510706, 1592947676, PEOf436, 884569328);
 --i;
 }
 }

@@ -78,7 +78,7 @@ int main(int argc, char** argv) {
     unsigned short int    Vqka;
     Vqka    =    (unsigned short)1206928185;
 	short int	ne09r_;
-	ne09r_	=	-992842563;
+	ne09r_	=	(short)-992842563;
 	unsigned char	fkXFcQQNpu;
 	fkXFcQQNpu	=	10836027;
  unsigned short int d1U917jAG;
@@ -158,7 +158,7 @@ case 6:
 MMN_5FS_ = xBz2(aXp_bZ, (char)-1724427594, wwkb_, A7LqgQ);
 break;
 case 7:
-MMN_5FS_ = xBz2((unsigned short)52366067, -716897236, wwkb_, -1466900543);
+MMN_5FS_ = xBz2((unsigned short)52366067, (char)-716897236, wwkb_, -1466900543);
 break;
 case 8:
 MMN_5FS_ = xBz2(qYKM943Ns5, ne09r_, ZKql_DhX, mvla2hJ1);
@@ -367,7 +367,7 @@ u3j9W = D7___Jwzv_ >> 127761449;
 break;
 case 'e':
 case 'E':
-zi2HqM = xBz2((unsigned short)-149621235, K1_1c73vzq, -79599336, 1539820077) >> 189353702;
+zi2HqM = xBz2((unsigned short)-149621235, K1_1c73vzq, (char)-79599336, 1539820077) >> 189353702;
 break;
 case 'f':
 case 'F':
@@ -417,7 +417,7 @@ case 1:
 MMN_5FS_ = xBz2((unsigned short)935936532, (char)662063412, ne09r_, aXp_bZ);
 break;
 case 2:
-MMN_5FS_ = xBz2(AvEEUr0r, (char)199607706, 1980534953, D7___Jwzv_);
+MMN_5FS_ = xBz2(AvEEUr0r, (char)199607706, (char)1980534953, D7___Jwzv_);
 break;
 case 3:
 QeFYW = (int)abs(IX68Z);
@@ -435,7 +435,7 @@ case 7:
 t7vZIDB = (int)abs(QeFYW);
 break;
 case 8:
-MMN_5FS_ = xBz2(-12873302, -1303217344, pyOj, 823641662);
+MMN_5FS_ = xBz2((unsigned short)-12873302, -1303217344, pyOj, 823641662);
 break;
 default:
 g678hn = (int)floor(wwkb_);
@@ -472,7 +472,7 @@ SkY2f3a = (int)abs(IX68Z);
 }
 else if (((nXaRED0a69 == Tw7_Q) && (AvEEUr0r >= t7vZIDB)) || (ne09r_))
 {
-MMN_5FS_ = xBz2((unsigned short)491276354, -175891453, 299229524, TVWia);
+MMN_5FS_ = xBz2((unsigned short)491276354, (char)-175891453, 299229524, TVWia);
 }
 else
 {

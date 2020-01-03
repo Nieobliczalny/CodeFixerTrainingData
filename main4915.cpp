@@ -40,7 +40,7 @@ int main()
  char Q1R1n4YtW;
  Q1R1n4YtW = (char)-359479670;
   unsigned char  ty_91A4L;
-  ty_91A4L  =  -1254856012;
+  ty_91A4L  =  (unsigned char)-1254856012;
  unsigned long PCV0N2P;
  PCV0N2P = 433157370;
   unsigned char  q1B83_e79;
@@ -76,7 +76,7 @@ int main()
 	unsigned short int	FLM_AOb;
 	FLM_AOb	=	(unsigned short)1947322224;
  unsigned short int q94i3s4__;
- q94i3s4__ = -1398486468;
+ q94i3s4__ = (unsigned short)-1398486468;
  unsigned long Rp22Sy3g;
  Rp22Sy3g = 1979527000;
     short int    e_YC724VVt;

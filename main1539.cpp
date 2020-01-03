@@ -38,7 +38,7 @@ int main(int argc, char** argv) {
     short int    OeJ908i;
     OeJ908i    =    (short)1537146291;
   unsigned short  yI_7gITd;
-  yI_7gITd  =  1928736936;
+  yI_7gITd  =  (unsigned short)1928736936;
  unsigned short IGgai;
  IGgai = (unsigned short)1501522213;
 	unsigned short	LfJpRfV;

@@ -112,7 +112,7 @@ int main() {
 	unsigned long	EZ_I1pRyE;
 	EZ_I1pRyE	=	-609242789;
     short int    B96WnInK3;
-    B96WnInK3    =    -1913173740;
+    B96WnInK3    =    (short)-1913173740;
  long long b33XAZktA2;
  b33XAZktA2 = 1611546901;
   unsigned long  CH44JPHf;

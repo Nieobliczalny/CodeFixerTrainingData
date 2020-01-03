@@ -180,7 +180,7 @@ int main(int argc, char** argv)
 	short	w2QVmrh6;
 	w2QVmrh6	=	(short)-3434457;
 	short	AbMNIw;
-	AbMNIw	=	1815428856;
+	AbMNIw	=	(short)1815428856;
     unsigned long long    Bvjrz9s;
     Bvjrz9s    =    -1215335019;
   unsigned int  ST40B7u;

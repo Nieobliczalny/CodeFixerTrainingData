@@ -77,7 +77,7 @@ int main()
  char a5D_;
  a5D_ = (char)-641158927;
     unsigned short    CynubI_Hv;
-    CynubI_Hv    =    1816321797;
+    CynubI_Hv    =    (unsigned short)1816321797;
     unsigned char    YC4Z9R_m1;
     YC4Z9R_m1    =    (unsigned char)491040152;
   unsigned long long  EU99a;
@@ -87,7 +87,7 @@ int main()
  unsigned short int t95_4;
  t95_4 = (unsigned short)-1525403944;
   short int  jqCUYKt09;
-  jqCUYKt09  =  272957210;
+  jqCUYKt09  =  (short)272957210;
     long long    h0bqlS4_;
     h0bqlS4_    =    1844789649;
  long ccfA;

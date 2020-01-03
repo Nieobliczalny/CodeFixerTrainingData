@@ -173,7 +173,7 @@ int main(void)
 	double	qj55;
 	qj55	=	1788107526;
 	unsigned char	O4_at8J;
-	O4_at8J	=	692015822;
+	O4_at8J	=	(unsigned char)692015822;
   unsigned char  j4N42phj3;
   j4N42phj3  =  (unsigned char)-986451882;
   float  Va8jHqUrY;
@@ -191,7 +191,7 @@ int main(void)
  char oJ94v;
  oJ94v = (char)-319741865;
  unsigned char in36I13p16;
- in36I13p16 = -765233965;
+ in36I13p16 = (unsigned char)-765233965;
  unsigned char bmF__taF;
  bmF__taF = (unsigned char)1798699259;
 	unsigned long long	jxnm6P9;

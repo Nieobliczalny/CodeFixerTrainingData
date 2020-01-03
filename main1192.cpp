@@ -34,7 +34,7 @@ int main(int argc, char** argv)
   double  ls3c;
   ls3c  =  -793315854;
     char    rl12h;
-    rl12h    =    -569747171;
+    rl12h    =    (char)-569747171;
 	short	j14ZO;
 	j14ZO	=	(short)621338790;
     unsigned long long    Zyapje2WF;
@@ -114,7 +114,7 @@ int main(int argc, char** argv)
     char    vb7O79O;
     vb7O79O    =    (char)-1312218068;
   unsigned char  wX8y3HPp;
-  wX8y3HPp  =  1210034516;
+  wX8y3HPp  =  (unsigned char)1210034516;
   long long  scSsD8;
   scSsD8  =  -1144880744;
   long double  l5U0k6x039;

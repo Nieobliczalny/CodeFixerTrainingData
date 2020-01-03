@@ -41,7 +41,7 @@ int main() {
 	long long	b70vG	=	-136371906;
 	unsigned long	R26DfH69q3	=	1720095050;
  double F1SaiA = 1786600294;
-    unsigned short int    jb_o01rV7    =    1490967940;
+    unsigned short int    jb_o01rV7    =    (unsigned short)1490967940;
 	unsigned char	JfqrCp711	=	(unsigned char)1990177819;
  long long vCHefNU6 = -343298525;
  short int D1F7Goh = -1608228685;
@@ -69,7 +69,7 @@ int main() {
   unsigned char  wTm_4P19  =  (unsigned char)-1903336639;
     unsigned short int    wA_QQw8r    =    (unsigned short)1132522711;
 	long long	prbDuN5u	=	2104441951;
- unsigned char ucq50 = 1944891082;
+ unsigned char ucq50 = (unsigned char)1944891082;
     unsigned short    dx02GvBu7d    =    1832718824;
     double    o25veA_pg    =    1546630724;
 
@@ -182,7 +182,7 @@ cout << "vOiD1o" << N_URBLr(Rtze5W9x4X, OHEuF944, VWYa3Z3, -1905987819, (unsigne
 }
 else if (JfqrCp711)
 {
-Rtze5W9x4X = N_URBLr(-739714294, (unsigned short)1580162764, (unsigned char)1205576698, SOiv11Ne, 866393485);
+Rtze5W9x4X = N_URBLr(-739714294, (unsigned short)1580162764, (unsigned char)1205576698, SOiv11Ne, (unsigned char)866393485);
 }
 else
 {

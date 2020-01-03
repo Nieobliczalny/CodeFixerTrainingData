@@ -27,7 +27,7 @@ int main() {
 	unsigned short int	eoxg0ZEJDh;
 	eoxg0ZEJDh	=	(unsigned short)-1175624104;
 	char	mhiV8D;
-	mhiV8D	=	391671747;
+	mhiV8D	=	(char)391671747;
     unsigned short    i55xWB;
     i55xWB    =    (unsigned short)-24745573;
 	unsigned short	RAg8j3;

@@ -99,7 +99,7 @@ case 2:
 x60Pk6i *= CkKxH6E;
 break;
 case 3:
-x60Pk6i = KQ46(-119234434, (unsigned short)-797320111, 2049468883, 1584119565, 1629203640);
+x60Pk6i = KQ46(-119234434, (unsigned short)-797320111, (unsigned char)2049468883, 1584119565, 1629203640);
 break;
 case 4:
 x60Pk6i <<= 556188320;
@@ -140,7 +140,7 @@ x60Pk6i <<= CkKxH6E;
 }
 else
 {
-cout << KQ46(480799980, (unsigned short)176494181, CkKxH6E, (unsigned short)-177324014, -963934240) << KQ46(IlS8ww59E, x60Pk6i, (unsigned char)1756100254, -1158303667, 2081975482) << endl;
+cout << KQ46(480799980, (unsigned short)176494181, CkKxH6E, (unsigned short)-177324014, -963934240) << KQ46(IlS8ww59E, x60Pk6i, (unsigned char)1756100254, (unsigned short)-1158303667, 2081975482) << endl;
 }
 }
 else if (CkKxH6E <= IlS8ww59E)

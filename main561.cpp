@@ -74,7 +74,7 @@ case 'b':
 NaH5 >>= Pl1xU9l_;
 break;
 case 'c':
-Idv05 = idx7(-527918206, Idv05, NaH5, mUxFaoQ99, 981767077);
+Idv05 = idx7(-527918206, Idv05, NaH5, mUxFaoQ99, (short)981767077);
 break;
 case 'd':
 NaH5 <<= Ct7o4vv;
@@ -86,7 +86,7 @@ case 'f':
 mUxFaoQ99 = idx7(1594171981, (unsigned short)-2138314894, (char)290282849, (char)-820397423, -111478125);
 break;
 case 'g':
-Idv05 = idx7(-1010571138, -1944790498, 1478693623, 486696498, Pl1xU9l_);
+Idv05 = idx7(-1010571138, (unsigned short)-1944790498, 1478693623, 486696498, Pl1xU9l_);
 break;
 case 'h':
 b25g8Xlz = y4W62(-263212844, 1299738411, -1374978247);
@@ -132,7 +132,7 @@ while (i < 3);
 }
 if ((Idv05 == NaH5) && (b25g8Xlz >= -1037644628))
 {
-mUxFaoQ99 = idx7(NaH5, (unsigned short)173723283, (char)-275559382, (char)2042053538, -768703378);
+mUxFaoQ99 = idx7(NaH5, (unsigned short)173723283, (char)-275559382, (char)2042053538, (short)-768703378);
 }
 {
 int i = 0;
@@ -176,7 +176,7 @@ Idv05 = (int)abs(NaH5) * 0;
 }
 else if (b25g8Xlz < 1398032753)
 {
-Idv05 = idx7(NaH5, (unsigned short)1279043416, (char)-1888751375, (char)-1082371512, 279652301);
+Idv05 = idx7(NaH5, (unsigned short)1279043416, (char)-1888751375, (char)-1082371512, (short)279652301);
 }
 else
 {
@@ -272,7 +272,7 @@ while (k >= 0);
 }
 }
 }
-if ((y4W62(1118302464, (unsigned char)-854276832, NaH5) / idx7(Pl1xU9l_, (unsigned short)-212414454, 1426223444, b25g8Xlz, Idv05)) == -1364961712)
+if ((y4W62(1118302464, (unsigned char)-854276832, NaH5) / idx7(Pl1xU9l_, (unsigned short)-212414454, (char)1426223444, b25g8Xlz, Idv05)) == -1364961712)
 {
 NaH5 = y4W62(Pl1xU9l_, -921493913, NaH5) / mUxFaoQ99;
 }
@@ -289,7 +289,7 @@ while (i >= 0);
 switch (Pl1xU9l_)
 {
 case 'a':
-mUxFaoQ99 = idx7(1527979652, Idv05, (char)-1875645586, NaH5, -1817220837);
+mUxFaoQ99 = idx7(1527979652, Idv05, (char)-1875645586, NaH5, (short)-1817220837);
 break;
 case 'b':
 b25g8Xlz = y4W62(1639529324, NaH5, 496585291);
@@ -304,7 +304,7 @@ case 'e':
 NaH5 = (mUxFaoQ99 == 1590577827) ? Idv05 : Pl1xU9l_;
 break;
 case 'f':
-Idv05 = idx7(1668924310, Ct7o4vv, (char)1056497023, -770682114, 838402132);
+Idv05 = idx7(1668924310, Ct7o4vv, (char)1056497023, (char)-770682114, 838402132);
 break;
 case 'g':
 NaH5 -= 1663564391;

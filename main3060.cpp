@@ -25,7 +25,7 @@ int main() {
     short int    ODcWo6z;
     ODcWo6z    =    (short)-1211873344;
   short  W29RtQc_;
-  W29RtQc_  =  1998440455;
+  W29RtQc_  =  (short)1998440455;
   char  Y7jC_9h8;
   Y7jC_9h8  =  (char)-967379261;
     char    wJs9h4E;
@@ -89,7 +89,7 @@ int main() {
   short  p_EwRhU1S9;
   p_EwRhU1S9  =  (short)-527593662;
 	char	iRWQ5K8;
-	iRWQ5K8	=	-520076182;
+	iRWQ5K8	=	(char)-520076182;
 	int	w_5B_5pO;
 	w_5B_5pO	=	-1642134263;
 	unsigned long	ryid929Y;
@@ -131,7 +131,7 @@ int main() {
 	unsigned short int	g27CRSsO;
 	g27CRSsO	=	(unsigned short)-1838743092;
     unsigned char    QIh2;
-    QIh2    =    415949696;
+    QIh2    =    (unsigned char)415949696;
  unsigned int sHPryC;
  sHPryC = 663726208;
  long double L1Qj_;
@@ -214,7 +214,7 @@ zfiN7V = C25xXF2R0U((short)753329774);
 }
 }
 
-std::cout << C25xXF2R0U((short)2094092121) << C25xXF2R0U(p0ze585) << C25xXF2R0U((short)-1576410117) << C25xXF2R0U(-1808797208) << std::endl;
+std::cout << C25xXF2R0U((short)2094092121) << C25xXF2R0U(p0ze585) << C25xXF2R0U((short)-1576410117) << C25xXF2R0U((short)-1808797208) << std::endl;
 
 {
 int i = 5;

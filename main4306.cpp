@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
 	double	M7VECBnDb0	=	-245014872;
   short  nKg1v3  =  (short)-763888238;
 	short	E83y6d2	=	0;
- short E3__rnn = -647031090;
+ short E3__rnn = (short)-647031090;
 	long	CD788	=	0;
 	unsigned char	f__L3_Ev	=	261733447;
   int  WCu3oaW4  =  -1784558091;
@@ -52,7 +52,7 @@ int main(int argc, char** argv) {
 	double	CvS_x2_K	=	-516684617;
  unsigned int c26iKl_AZF = 874261460;
   short  eU1p  =  (short)-54280441;
- unsigned short int HsHC73_6 = 1342341454;
+ unsigned short int HsHC73_6 = (unsigned short)1342341454;
 
 if (E83y6d2 == 0)
 {
@@ -245,7 +245,7 @@ case 3:
 E_O32k5_ = qnvEclcJ((short)-278932907) | 1976076916;
 break;
 case 4:
-WCu3oaW4 = T49U3R69C((unsigned short)-214095356, -1218568443, c26iKl_AZF, vso3E3I, -195618813);
+WCu3oaW4 = T49U3R69C((unsigned short)-214095356, (unsigned short)-1218568443, c26iKl_AZF, vso3E3I, -195618813);
 break;
 case 5:
 x3R44 = T49U3R69C(x3R44, -2124154973, Cac9w7x7b0, 456498116, h9_0U);

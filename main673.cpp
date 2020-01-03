@@ -75,7 +75,7 @@ int main(void)
   double  vPU2Pz2;
   vPU2Pz2  =  -949781961;
     unsigned short    gM3J8;
-    gM3J8    =    114448097;
+    gM3J8    =    (unsigned short)114448097;
     unsigned short int    FQ182;
     FQ182    =    (unsigned short)637744063;
 	unsigned short	V5lN9;
@@ -274,7 +274,7 @@ G7NRpR8E = y8sk4(G7NRpR8E, m3iuvbwbAk, -758108876, (char)1524781299, 1148210091)
 }
 else if (V5lN9 == 2141647821)
 {
-std::cout << y8sk4(G7NRpR8E, (unsigned short)-1202209124, 887459510, P656vGC360, -1411731061) << PHBOY5_ri2((char)-889796283, m3iuvbwbAk, 939668680, P656vGC360, P6018cB_7) << "bnW__" << std::endl;
+std::cout << y8sk4(G7NRpR8E, (unsigned short)-1202209124, 887459510, P656vGC360, -1411731061) << PHBOY5_ri2((char)-889796283, m3iuvbwbAk, (char)939668680, P656vGC360, P6018cB_7) << "bnW__" << std::endl;
 }
 else if (((g9E5f_bPn <= -974831792) || (vPU2Pz2 <= W2H2_p4Zl4)) && (IoA6jQJ > 1803472322))
 {

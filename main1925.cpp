@@ -48,7 +48,7 @@ int main()
     unsigned char    nC20;
     nC20    =    (unsigned char)-1897387498;
   short  VORMU5mO;
-  VORMU5mO  =  1232440538;
+  VORMU5mO  =  (short)1232440538;
   unsigned long  E055XY;
   E055XY  =  -1286196912;
 

@@ -142,7 +142,7 @@ int main(int argc, char** argv) {
   short int  HuQbVi;
   HuQbVi  =  (short)-1805224781;
 	short	f97Tif;
-	f97Tif	=	-560001489;
+	f97Tif	=	(short)-560001489;
     unsigned short    Byr6Bn;
     Byr6Bn    =    0;
   unsigned short int  Dz9TCZY;

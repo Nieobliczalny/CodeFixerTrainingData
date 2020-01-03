@@ -61,7 +61,7 @@ case 3:
 pech5_i ^= 960047398;
 break;
 case 4:
-pech5_i = QCf9K(1804817904, B6_l, 1762265841, xD01Lnp01, yrc12);
+pech5_i = QCf9K((unsigned short)1804817904, B6_l, 1762265841, xD01Lnp01, yrc12);
 break;
 case 5:
 SY2DnHu158 = F03H(855971895, -1932112055, SY2DnHu158, (unsigned char)586938956);
@@ -86,7 +86,7 @@ case 0:
 pech5_i = QCf9K((unsigned short)-1347256499, 899099887, 1480993996, SY2DnHu158, (char)-858190305);
 break;
 case 1:
-SY2DnHu158 = aX_28u_(-1476795292, (short)-167607051, 1479719973);
+SY2DnHu158 = aX_28u_(-1476795292, (short)-167607051, (char)1479719973);
 break;
 case 2:
 xD01Lnp01 = aX_28u_(-1417296132, -1560778203, 920909789);

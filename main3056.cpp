@@ -49,7 +49,7 @@ int main()
   unsigned short  FI6UW_;
   FI6UW_  =  (unsigned short)-2008712655;
 	short int	A03I5HBTj;
-	A03I5HBTj	=	272088022;
+	A03I5HBTj	=	(short)272088022;
  unsigned short int x1A_Xhz;
  x1A_Xhz = (unsigned short)-865580939;
  unsigned long mJmZ4n;
@@ -143,7 +143,7 @@ int main()
 	long double	T9dyAzk;
 	T9dyAzk	=	-1643611768;
   char  ZlVWH2;
-  ZlVWH2  =  -1453735290;
+  ZlVWH2  =  (char)-1453735290;
     short int    hoos;
     hoos    =    (short)1701746442;
  long jNKy;
@@ -167,7 +167,7 @@ int main()
  char kp0j2M0kaw;
  kp0j2M0kaw = (char)-1484029223;
 	short int	dK4b;
-	dK4b	=	1501236945;
+	dK4b	=	(short)1501236945;
 	unsigned short int	e0Kg6bp60;
 	e0Kg6bp60	=	2045999555;
  int vDY5_D2U;

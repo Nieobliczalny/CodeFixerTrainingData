@@ -21,7 +21,7 @@ int main(int argc, char** argv) {
     short int    YX99KQU_V4    =    (short)-483032906;
 	unsigned short	s_eTo8	=	(unsigned short)747261587;
   short  Oc4Be109vG  =  (short)-1822773748;
-	short int	tD0556_	=	-225842210;
+	short int	tD0556_	=	(short)-225842210;
   long long  U6ratrjN3  =  2018205283;
     unsigned short int    akID_RWb0    =    -59250541;
  unsigned long long b0iN = 624096662;
@@ -39,7 +39,7 @@ int main(int argc, char** argv) {
 	char	L7P2h72I2	=	(char)-1548369469;
     int    ARCS2    =    1869631792;
   short  lP8c4J0  =  (short)-1549355619;
-  unsigned short int  v9W_bSf1P  =  -817685358;
+  unsigned short int  v9W_bSf1P  =  (unsigned short)-817685358;
   double  KCkGlC  =  -1267685848;
  unsigned short int c82B34PjlO = 1297898192;
  float YAiwgrm99 = -2027001066;
@@ -51,7 +51,7 @@ int main(int argc, char** argv) {
  float qM41kl = -330998786;
 	float	y_FZb0	=	1968862041;
     unsigned short    Ee_Hb    =    (unsigned short)-2104749500;
-	unsigned short	DdRW4POc	=	1907706623;
+	unsigned short	DdRW4POc	=	(unsigned short)1907706623;
     unsigned char    N_q2    =    500834968;
   unsigned long  NA717  =  677041833;
  unsigned int z8WBA = -1081327191;
@@ -91,7 +91,7 @@ N_q2 = LE1_C((unsigned short)1341664613, (unsigned char)136962195);
 }
 else if (SF79jf19I > drxs8xF)
 {
-NuOMR15C2 = LE1_C((unsigned short)126893987, 1571828403);
+NuOMR15C2 = LE1_C((unsigned short)126893987, (unsigned char)1571828403);
 }
 else if (Gs7l3cwj != -1009314516)
 {

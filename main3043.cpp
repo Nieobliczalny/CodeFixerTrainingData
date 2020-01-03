@@ -37,7 +37,7 @@ int main()
     unsigned long long    SrO_rD48    =    2068310518;
  double Z4IX = 749631975;
  unsigned short int uEF3_ = (unsigned short)-61144061;
- short int Ek_We2xt3o = 44318171;
+ short int Ek_We2xt3o = (short)44318171;
 	unsigned long	d8M2kCCSz	=	785127134;
  long long YaZ9rW = 1747825320;
     long double    heAj8    =    2141692721;
@@ -49,7 +49,7 @@ int main()
     unsigned short int    ys2W    =    (unsigned short)-1275716994;
   short  AlpA4z  =  (short)262446625;
  unsigned short as6bPQ73rn = (unsigned short)1603530525;
-    unsigned char    CYARt60B    =    796430188;
+    unsigned char    CYARt60B    =    (unsigned char)796430188;
  unsigned long long uIsr = -2101133306;
   unsigned short  DN8L3BE_6  =  -685019528;
  short int EtC9ns53f = 1660613655;
@@ -145,7 +145,7 @@ jUw4 = HFDQGo_p(jUw4, jVb9mcw, 1013413706, (unsigned short)1311510111, (short)14
 int i = 8;
 while (i >= 0)
 {
-std::cout << HFDQGo_p((unsigned short)793949279, jVb9mcw, 319254998, YaZ9rW, d8M2kCCSz) << HFDQGo_p(jUw4, jVb9mcw, 1491009657, -1713194644, 664379236) << std::endl;
+std::cout << HFDQGo_p((unsigned short)793949279, jVb9mcw, 319254998, YaZ9rW, d8M2kCCSz) << HFDQGo_p(jUw4, jVb9mcw, 1491009657, (unsigned short)-1713194644, 664379236) << std::endl;
 i--;
 }
 }
@@ -183,7 +183,7 @@ Us0CB = Us0CB & vzQ_9I;
 
 if (((ys2W & -1613430286) && (H4n6H <= RdGOAAvxnU)) || (qg82))
 {
-jUw4 = HFDQGo_p(-163402448, 818109863, qg82, W4eF7, H4n6H);
+jUw4 = HFDQGo_p((unsigned short)-163402448, 818109863, qg82, W4eF7, H4n6H);
 }
 else if (((rENfehjZ_y >= RdGOAAvxnU) || (rENfehjZ_y & 1141021743)) && (M1Q99_n > DN8L3BE_6))
 {

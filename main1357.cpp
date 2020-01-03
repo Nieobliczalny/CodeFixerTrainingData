@@ -33,7 +33,7 @@ int main(void)
  long long TDxqhtO5 = -882434882;
 	short	zhhw4_9pL	=	(short)-1815689527;
  unsigned short Pz1IywAR = (unsigned short)-875865611;
-    unsigned short int    KozI3Lb7    =    -1063124960;
+    unsigned short int    KozI3Lb7    =    (unsigned short)-1063124960;
     int    m1JAd    =    1820491672;
   unsigned short int  L_VSV1  =  (unsigned short)-1963122660;
   short  wnV0  =  0;
@@ -50,7 +50,7 @@ int main(void)
   unsigned int  L9kU  =  -1166531999;
     int    uowV7rKN_N    =    -580898838;
 	unsigned short	oypL7x99	=	(unsigned short)1496686686;
- unsigned short int iX8r79X_ = 2103973481;
+ unsigned short int iX8r79X_ = (unsigned short)2103973481;
 	float	c362Z	=	-921991284;
     short    qUzbKx    =    (short)257524980;
 	unsigned char	eg7O4n	=	(unsigned char)829684808;
@@ -72,7 +72,7 @@ int i = 0;
 while (i < 6)
 {
 i++;
-std::cout << "NZ1Cvv" << coe829m() << fjgL4UWcj1 << eYkB((unsigned char)-1228051308, 1210526489, -2001150830, 197293504) << coe829m() << std::endl;
+std::cout << "NZ1Cvv" << coe829m() << fjgL4UWcj1 << eYkB((unsigned char)-1228051308, 1210526489, (short)-2001150830, 197293504) << coe829m() << std::endl;
 }
 }
 

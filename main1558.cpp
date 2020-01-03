@@ -93,7 +93,7 @@ int main()
     short int    Js_Y;
     Js_Y    =    (short)-1802664697;
     unsigned char    d0q5;
-    d0q5    =    440547130;
+    d0q5    =    (unsigned char)440547130;
  short int mSxzu57;
  mSxzu57 = 690014006;
  unsigned long long E1ARQ4Ksy1;
@@ -159,7 +159,7 @@ int main()
   char  iTdCW0;
   iTdCW0  =  (char)-406602878;
     short int    r1Q0FB26;
-    r1Q0FB26    =    -526366795;
+    r1Q0FB26    =    (short)-526366795;
 	unsigned long long	ct1s21j;
 	ct1s21j	=	1697859304;
 

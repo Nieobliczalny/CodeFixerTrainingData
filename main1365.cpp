@@ -174,7 +174,7 @@ int main(void) {
  unsigned short mH088;
  mH088 = (unsigned short)-1523836884;
  char O188tx;
- O188tx = 1614117110;
+ O188tx = (char)1614117110;
     unsigned short    QF0vG686N_;
     QF0vG686N_    =    1260127277;
     unsigned short    s4_Nv4L76G;
@@ -196,7 +196,7 @@ int main(void) {
   unsigned short  JC55aMw_r;
   JC55aMw_r  =  (unsigned short)-2129617827;
  short Nc4JxXY;
- Nc4JxXY = 2030599603;
+ Nc4JxXY = (short)2030599603;
 	unsigned int	r0ga9s4q;
 	r0ga9s4q	=	-141745629;
 

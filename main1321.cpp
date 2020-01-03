@@ -133,7 +133,7 @@ catch (int& errorCode)
 {
 xcQ8_j2s3 = BaxW_0z / 1264128017;
 }
-std::cout << sGVQ_n7Qu((short)-102533012, (unsigned char)601328601, O8j24J) << sGVQ_n7Qu((short)-454287378, -882134432, 1104396524) << std::endl;
+std::cout << sGVQ_n7Qu((short)-102533012, (unsigned char)601328601, O8j24J) << sGVQ_n7Qu((short)-454287378, (unsigned char)-882134432, 1104396524) << std::endl;
 try
 {
 {

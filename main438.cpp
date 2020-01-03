@@ -26,7 +26,7 @@ int main(int argc, char** argv) {
  char MYrK2HIcS = (char)333197388;
  unsigned int FSt_jeg02 = 1032121929;
 	unsigned long long	Jq6kpnYw5	=	-860556603;
- unsigned char xV3Aw = -1221617262;
+ unsigned char xV3Aw = (unsigned char)-1221617262;
 	long double	X6Za64k	=	1753041112;
 	unsigned int	T228qWn	=	-1511214716;
  unsigned long fj_R9X5r5j = -706302322;
@@ -41,7 +41,7 @@ int main(int argc, char** argv) {
     unsigned short    ugB6kH    =    (unsigned short)1108341307;
   unsigned long  aIuAdI1a8  =  0;
     float    la9437Dp9    =    548868270;
-    unsigned char    pK92G    =    1722538453;
+    unsigned char    pK92G    =    (unsigned char)1722538453;
  short int NYJZZ = -546524241;
 
 cout << g4UVGx << endl;

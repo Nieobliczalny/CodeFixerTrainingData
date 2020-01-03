@@ -105,7 +105,7 @@ int main(int argc, char** argv)
  unsigned char aom6q;
  aom6q = (unsigned char)-1564973475;
  unsigned short t1wmF_SEg;
- t1wmF_SEg = 1035960216;
+ t1wmF_SEg = (unsigned short)1035960216;
  unsigned long long h_ywRp9cIg;
  h_ywRp9cIg = -463248909;
 	long	nsrzyR749;

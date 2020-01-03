@@ -64,7 +64,7 @@ int main(int argc, char** argv)
     short    Rf47loEs;
     Rf47loEs    =    (short)-511916454;
 	unsigned short	Vf0vwlze_4;
-	Vf0vwlze_4	=	-172223248;
+	Vf0vwlze_4	=	(unsigned short)-172223248;
     short int    LK6LUf3U0;
     LK6LUf3U0    =    -2053154519;
  short x0lUw0SBO;
@@ -86,7 +86,7 @@ int main(int argc, char** argv)
   char  SiOfN;
   SiOfN  =  (char)117940822;
  unsigned short b_1qp;
- b_1qp = 940714939;
+ b_1qp = (unsigned short)940714939;
   float  XXAsV;
   XXAsV  =  -320934513;
     unsigned int    Pi29Y17669;
@@ -120,7 +120,7 @@ int main(int argc, char** argv)
   short int  lLOaA0v_6;
   lLOaA0v_6  =  (short)2062066776;
   unsigned short int  vcG_d9;
-  vcG_d9  =  1801740619;
+  vcG_d9  =  (unsigned short)1801740619;
 	unsigned char	r9ddRa519;
 	r9ddRa519	=	(unsigned char)435874583;
 	unsigned int	Z_WT;
@@ -348,7 +348,7 @@ case 2:
 cg_n92 = jDV3((char)-140912524, tJqI3pn, MBS096W2a, m94VY5f, x86F1b32);
 break;
 default:
-IKy5Kf4 = S338iAYW(-266345752);
+IKy5Kf4 = S338iAYW((unsigned short)-266345752);
 break;
 }
 }
@@ -410,7 +410,7 @@ if ((vcFpY_ != 1450863549) || (N4uyHK1 < -921324607))
 {
 for (int j = 10; j >= 0; --j)
 {
-XXAsV = jDV3(vcFpY_, XXAsV, (unsigned short)1860036255, SiOfN, 1276642698);
+XXAsV = jDV3(vcFpY_, XXAsV, (unsigned short)1860036255, SiOfN, (short)1276642698);
 }
 }
 if (N09zAL4l <= LK6LUf3U0)

@@ -22,7 +22,7 @@ int main()
 	long long	e89D;
 	e89D	=	647462920;
  unsigned short kTqDTT707;
- kTqDTT707 = 1591410400;
+ kTqDTT707 = (unsigned short)1591410400;
   long  o2bF9u2;
   o2bF9u2  =  155017844;
   unsigned char  vnC3_CP;
@@ -64,7 +64,7 @@ int main()
   unsigned short  C_5Y7RaQ;
   C_5Y7RaQ  =  (unsigned short)1543258318;
   unsigned short int  u6_q9dgnP;
-  u6_q9dgnP  =  1951889946;
+  u6_q9dgnP  =  (unsigned short)1951889946;
 	unsigned char	KC8q5;
 	KC8q5	=	0;
     unsigned short    ZU8T;

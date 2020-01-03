@@ -45,7 +45,7 @@ int main(int argc, char** argv)
 	char	NP543A99	=	(char)-554755684;
   unsigned short  QINQHi  =  (unsigned short)-2102947531;
  int BUzm5cZ = -405081371;
-	unsigned short int	wcr6OXA2f	=	1061883612;
+	unsigned short int	wcr6OXA2f	=	(unsigned short)1061883612;
  unsigned char iw3wT = -1914870728;
   unsigned short  PuyZBM4r7  =  1278364622;
 	unsigned long long	aQu2ow	=	-1099538130;
@@ -59,7 +59,7 @@ int main(int argc, char** argv)
 	short int	QS8O40p	=	(short)-752894161;
   long double  L41aoo  =  -1351764658;
   unsigned int  t3Ii  =  1811760414;
-	short int	n3Mc_rd	=	1754877354;
+	short int	n3Mc_rd	=	(short)1754877354;
 	char	i9X9Nmj6a	=	-1866900973;
 	unsigned int	vho0A__1	=	-1029024078;
  char En2l_6SYx0 = -393445306;
@@ -73,7 +73,7 @@ int main(int argc, char** argv)
     unsigned char    H_W3rZ4    =    (unsigned char)1706103429;
 	char	RUaXQ	=	0;
     unsigned short int    A09JR8PJ    =    (unsigned short)-943263633;
-    short int    I2UK    =    -126518860;
+    short int    I2UK    =    (short)-126518860;
     long    bAXg79W    =    2093395331;
 	long double	Sn4a	=	-1709493498;
     short int    sna0Ps5    =    (short)-1022716463;
@@ -192,7 +192,7 @@ for (int i = 0; i < 66; i++)
 {
 Lt78W5 = 300455244 / RUaXQ;
 	Rw_t = vho0A__1 / i;
-cout << zQ76 << "aSQ44bz" << xc5hpzV7_(658680346, (unsigned char)-1446482660, -1039558985, Ze4Ugk6, -1831288498) << Sn4a << "hgb1" << endl;
+cout << zQ76 << "aSQ44bz" << xc5hpzV7_(658680346, (unsigned char)-1446482660, -1039558985, Ze4Ugk6, (short)-1831288498) << Sn4a << "hgb1" << endl;
 }
 
 for (int i = 9; i >= 0; i--)

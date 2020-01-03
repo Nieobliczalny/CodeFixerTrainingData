@@ -95,7 +95,7 @@ pkjf3d1e = stukK6V9Ki ^ 2110067624;
 }
 kT2YcFi = d6Mu((unsigned char)-45761237, vOwAF);
 
-EVu7W7 = -260187810 / d6Mu((unsigned char)2007263138, -2042370298);
+EVu7W7 = -260187810 / d6Mu((unsigned char)2007263138, (short)-2042370298);
 Iuprw38 = d6Mu((unsigned char)1742457057, 1050794009);
 
 try
@@ -362,7 +362,7 @@ case 6:
 kT2YcFi = d6Mu((unsigned char)-1902001133, (short)-1259948802);
 break;
 case 7:
-Iuprw38 = d6Mu(zbNhZhqQ_C, 1134108550);
+Iuprw38 = d6Mu(zbNhZhqQ_C, (short)1134108550);
 break;
 case 8:
 y3PK7g--;

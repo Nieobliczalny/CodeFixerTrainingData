@@ -36,7 +36,7 @@ int main(int argc, char** argv) {
 	char	j8Wr	=	(char)1387968818;
  long double VD0OwkdlBv = 951296751;
  short int D65Gj_F1V = 0;
-  short int  kQC9  =  -551995589;
+  short int  kQC9  =  (short)-551995589;
     unsigned short int    K089D    =    -841828706;
 	unsigned short	f_dg7	=	643907139;
     float    T9lS5Gu_1    =    -1857355443;
@@ -49,7 +49,7 @@ int main(int argc, char** argv) {
   long  zrGxt  =  921989551;
 	char	k25R23p	=	(char)-1810961553;
 	unsigned char	NtAbhz	=	(unsigned char)227179863;
- unsigned char Ta576a = 657325921;
+ unsigned char Ta576a = (unsigned char)657325921;
 	long long	hwx33sw_	=	-560101625;
 
 for (int i = 0; i < 10; i++)

@@ -29,7 +29,7 @@ int main()
  unsigned int OL5N7u;
  OL5N7u = 441734254;
   unsigned char  L61fk;
-  L61fk  =  -1381521854;
+  L61fk  =  (unsigned char)-1381521854;
   unsigned long long  GG6HtEH09;
   GG6HtEH09  =  -1045485149;
   double  UdLz;
@@ -51,7 +51,7 @@ int main()
  short yDdnSoI;
  yDdnSoI = (short)-849309877;
 	unsigned short	h9vM18a2rH;
-	h9vM18a2rH	=	-1608113591;
+	h9vM18a2rH	=	(unsigned short)-1608113591;
 	unsigned short	zTpN56;
 	zTpN56	=	0;
     unsigned short    BToc4FS1;

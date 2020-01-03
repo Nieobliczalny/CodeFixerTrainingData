@@ -204,7 +204,7 @@ case 1:
 DpXYlJt7T = K4jp(1264762647, 2046983334, (unsigned short)-672596794, (unsigned short)-1789805114);
 break;
 case 2:
-vcN6DCZ8EB = K4jp(773030634, Q05022Fo, -1602705481, -2116626474);
+vcN6DCZ8EB = K4jp(773030634, Q05022Fo, (unsigned short)-1602705481, -2116626474);
 break;
 case 3:
 Pa41RIcM8 += 850174935;
@@ -300,7 +300,7 @@ n9698r = K4jp(vcN6DCZ8EB, 1715442761, (unsigned short)-1823510825, (unsigned sho
 }
 else
 {
-Jo_7f2Gj = K4jp(308103995, -1496132823, (unsigned short)-297443003, -1164487739);
+Jo_7f2Gj = K4jp(308103995, -1496132823, (unsigned short)-297443003, (unsigned short)-1164487739);
 }
 }
 }

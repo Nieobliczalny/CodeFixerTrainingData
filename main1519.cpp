@@ -51,7 +51,7 @@ int main()
  char ILWZ;
  ILWZ = (char)2094838307;
   short int  j9U5FC_2I2;
-  j9U5FC_2I2  =  -23793077;
+  j9U5FC_2I2  =  (short)-23793077;
     unsigned short int    A3_Wg2M6pC;
     A3_Wg2M6pC    =    (unsigned short)-1976509243;
   unsigned short int  v_87nH;
@@ -137,7 +137,7 @@ int main()
     char    D3O6Y1ddr;
     D3O6Y1ddr    =    (char)-277942327;
 	short	SMIsj;
-	SMIsj	=	1081165066;
+	SMIsj	=	(short)1081165066;
  unsigned long long ed1C;
  ed1C = 1505582080;
 	short int	aJ0uqNbl;

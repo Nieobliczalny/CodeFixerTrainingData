@@ -368,7 +368,7 @@ case 2:
 dp3jB2u = IpUrzK9((unsigned short)-83647745);
 break;
 case 3:
-N8r304b2 = IpUrzK9(1661581981);
+N8r304b2 = IpUrzK9((unsigned short)1661581981);
 break;
 default:
 UW3LpEK1b0 += a2j7ui;

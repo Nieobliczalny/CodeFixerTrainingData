@@ -20,7 +20,7 @@ int main(int argc, char** argv)
 	unsigned short int	JNu6nr	=	(unsigned short)870352896;
  int zg8FY7Uhg = -230397008;
  unsigned long e32Nk46AIq = -535810635;
-  short  PHK9_1X  =  -1077562001;
+  short  PHK9_1X  =  (short)-1077562001;
   unsigned long long  Jo_wR  =  -1635094408;
  char kkS7rB4Mj = 984263990;
     int    Nr6V    =    -715359501;
@@ -37,7 +37,7 @@ int main(int argc, char** argv)
     unsigned int    DgFTnd6    =    752027383;
 	int	O69HAD	=	-17369094;
 	long	RWcjs1q6	=	-1259339145;
-	char	AD_q8v	=	681601925;
+	char	AD_q8v	=	(char)681601925;
     unsigned long long    N7Ag0L_I    =    0;
   int  x5GmhD3KLn  =  1471357021;
  unsigned short int P7NJ = (unsigned short)-823780735;
@@ -56,7 +56,7 @@ int main(int argc, char** argv)
 	int	U50VUrMN_	=	279037499;
 	float	tQ1p	=	-668749959;
 	unsigned char	X46VExg31L	=	(unsigned char)1938374362;
-    char    xvi0a    =    1147067350;
+    char    xvi0a    =    (char)1147067350;
  short Q7QW08dM19 = -1876031935;
     unsigned int    b5_l    =    971805683;
   unsigned long  Qimu8ADD  =  2120498664;
@@ -69,7 +69,7 @@ int main(int argc, char** argv)
  unsigned short Ww5J6 = (unsigned short)-1344912881;
 	unsigned int	eF8LFE	=	-209351756;
  int X14u1 = -775600317;
- char nsf4T8 = -1414706001;
+ char nsf4T8 = (char)-1414706001;
     unsigned char    Z6U3    =    (unsigned char)1614078454;
   unsigned short int  x328iC  =  133610579;
     unsigned char    tRDckAA7D3    =    -1756412207;
@@ -85,7 +85,7 @@ int main(int argc, char** argv)
 	unsigned int	B9i63tvg7	=	1222036193;
 	short	OQZ97YF	=	(short)-1006467493;
   long  hJ56p  =  534793765;
-	unsigned char	c7Na0k	=	-1305934755;
+	unsigned char	c7Na0k	=	(unsigned char)-1305934755;
   long  U1lqw7cp  =  -2146249824;
     double    RE4TV    =    1556605924;
   long  R54_  =  -94095930;
@@ -104,7 +104,7 @@ int main(int argc, char** argv)
  unsigned short int Ub24I = (unsigned short)-1352782104;
  float vx399432pA = -970793832;
   unsigned int  I4gK_Tt  =  -1070019962;
- short int tIJQnN9o = 2073855181;
+ short int tIJQnN9o = (short)2073855181;
     short    vaW1o69c_    =    (short)-841368178;
     long long    xNgSXNF    =    1009275484;
  short int n133H = 1182646369;

@@ -218,7 +218,7 @@ std::cout << K502 << "JpJao3u" << "x_24OooT4" << std::endl;
 }
 }
 
-std::cout << "QtmVC" << XPw5HVgcU((unsigned short)-1086942916, P_9n, 149229251, (short)-743648712, (unsigned short)-525431341) << "xX_bxUM" << vF50(lGcEj1CDIl, 960314394, FC1_) << "AVe54ql" << std::endl;
+std::cout << "QtmVC" << XPw5HVgcU((unsigned short)-1086942916, P_9n, 149229251, (short)-743648712, (unsigned short)-525431341) << "xX_bxUM" << vF50(lGcEj1CDIl, (char)960314394, FC1_) << "AVe54ql" << std::endl;
 {
 int i = 10;
 do
@@ -354,7 +354,7 @@ jb5Je = XPw5HVgcU(jb5Je, (short)-1426736661, KpR_c, (short)-1270109454, z9Q_);
 }
 else if (IMgs == -726546248)
 {
-V7Ourp_Mk = XPw5HVgcU(V7Ourp_Mk, EGK4715VZ, KpR_c, 1183182388, -1353706978);
+V7Ourp_Mk = XPw5HVgcU(V7Ourp_Mk, EGK4715VZ, KpR_c, (short)1183182388, -1353706978);
 }
 else if (((cLmIt7DIk) || (MZ8Ve705 != -1215680560)) || ((k163Z <= JA1hVEOh7) || (CJ8t5 != V7Ourp_Mk)))
 {
@@ -385,7 +385,7 @@ case 1:
 DYom9H4Nu = XPw5HVgcU((unsigned short)2122372632, Sdx0A_2qQU, 1568359311, sHharQ10, (unsigned short)877512515);
 break;
 case 2:
-P80a = XPw5HVgcU(1724756606, -1073404219, FC1_, Sdx0A_2qQU, -1219731112);
+P80a = XPw5HVgcU((unsigned short)1724756606, -1073404219, FC1_, Sdx0A_2qQU, -1219731112);
 break;
 case 3:
 z9Q_ ^= MAq7;

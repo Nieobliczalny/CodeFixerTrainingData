@@ -179,7 +179,7 @@ if (Yz5J5iI == VYeEIXi)
 {
 if ((zpgE_hiA & H0i29Y8ZB7) && (WFDFw3IAO9 != -1061200085))
 {
-CHSkyx = jzn8egva((short)-713058254, (unsigned char)1316184193, (unsigned short)43521074, 883342402);
+CHSkyx = jzn8egva((short)-713058254, (unsigned char)1316184193, (unsigned short)43521074, (unsigned short)883342402);
 }
 else
 {

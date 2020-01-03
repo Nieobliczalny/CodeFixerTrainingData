@@ -55,7 +55,7 @@ D4qk2 = q2s9e(-441857924, (unsigned short)1641374305, (short)753143211, qt96Tu2o
 
 j3wCP = (int)floor(aSGUaoAcp);
 
-D4qk2 = q2s9e(w98SV, (unsigned short)-1994896773, -1157275709, -273439243, 1462437555);
+D4qk2 = q2s9e(w98SV, (unsigned short)-1994896773, (short)-1157275709, -273439243, 1462437555);
 
 if (W_gYt <= 1247312092)
 {
@@ -110,7 +110,7 @@ DsBk *= 180478852;
 int i = 0;
 do
 {
-aSGUaoAcp = cf8r((unsigned short)1518148438, (short)-1755966404, (short)1535635404, gvv251MG, 2076751022);
+aSGUaoAcp = cf8r((unsigned short)1518148438, (short)-1755966404, (short)1535635404, gvv251MG, (unsigned char)2076751022);
 ++i;
 }
 while (i < 2);
@@ -150,7 +150,7 @@ try
 {
 if (h1dLw <= S7q3E77HT3)
 {
-qt96Tu2oM = cf8r((unsigned short)601174523, (short)-857943983, (short)1151683786, P6DJ5ai6_v, -1049457202);
+qt96Tu2oM = cf8r((unsigned short)601174523, (short)-857943983, (short)1151683786, P6DJ5ai6_v, (unsigned char)-1049457202);
 }
 }
 catch (int& errorCode)
@@ -342,7 +342,7 @@ case 5:
 w98SV = cf8r(w98SV, W_gYt, (short)115562784, (unsigned short)1916688392, H1an);
 break;
 case 6:
-gvv251MG = cf8r(H1an, (short)1724396288, h1dLw, 1838946082, G457bqfR);
+gvv251MG = cf8r(H1an, (short)1724396288, h1dLw, (unsigned short)1838946082, G457bqfR);
 break;
 case 7:
 aiQ9XF = cf8r(623021039, DsBk, -780034826, -1326074842, -576928394);

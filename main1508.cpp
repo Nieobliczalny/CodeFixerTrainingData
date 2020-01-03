@@ -48,7 +48,7 @@ int main() {
  unsigned char yt0B8XH9n = (unsigned char)152486812;
   unsigned short int  U683  =  0;
     double    v235    =    70852363;
- short int Ma3rr51MeE = 1258706317;
+ short int Ma3rr51MeE = (short)1258706317;
   unsigned char  fm28VO416  =  (unsigned char)-1522526455;
     double    BGQ7h166    =    -965983574;
     int    HTI7O67pP    =    1935747059;
@@ -122,7 +122,7 @@ Ma3rr51MeE = YhURYg6 | p4Um;
 }
 else if (ials15 < my3pG)
 {
-std::cout << LfvQHfq((unsigned short)1695802630, Ma3rr51MeE, 2063934640, (unsigned short)-895663819) << LfvQHfq(U683, (short)-147112834, rkT9D2FDq, -1156838315) << "G_5Wh" << w5o33HsM(U683) << std::endl;
+std::cout << LfvQHfq((unsigned short)1695802630, Ma3rr51MeE, 2063934640, (unsigned short)-895663819) << LfvQHfq(U683, (short)-147112834, rkT9D2FDq, (unsigned short)-1156838315) << "G_5Wh" << w5o33HsM(U683) << std::endl;
 }
 else
 {

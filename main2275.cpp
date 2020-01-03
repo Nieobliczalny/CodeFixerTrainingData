@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
 	long double	w2SP	=	1328782580;
     int    xt2I    =    0;
  long double MsWXKO58X = -1350578936;
-  unsigned short int  DJP88ZWqjK  =  -1679216731;
+  unsigned short int  DJP88ZWqjK  =  (unsigned short)-1679216731;
   unsigned short  oMUN6R  =  122365925;
  unsigned long long K15V_9d = 349745028;
 

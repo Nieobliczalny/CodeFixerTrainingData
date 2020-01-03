@@ -137,7 +137,7 @@ int main(int argc, char** argv)
  short ltoV;
  ltoV = (short)-1520510263;
     short    p6_HN;
-    p6_HN    =    2139623243;
+    p6_HN    =    (short)2139623243;
     unsigned int    l3vkY7;
     l3vkY7    =    579964073;
   long  Rdw56p;
@@ -151,7 +151,7 @@ int main(int argc, char** argv)
   unsigned short  ls8_Wn7;
   ls8_Wn7  =  (unsigned short)-1063110479;
  short G_ndyM2;
- G_ndyM2 = 1476876261;
+ G_ndyM2 = (short)1476876261;
 	unsigned short	u4oE;
 	u4oE	=	-415087507;
  unsigned int t05m99E;
@@ -211,7 +211,7 @@ t05m99E = QFRUIICt5(211574890, l4oGl_uwCI, hfGAKJm, (unsigned char)1681514753, R
 }
 else if (I5WUmNMi6g == 1680419907)
 {
-Nzr_0Y_ = QFRUIICt5(Nzr_0Y_, (char)2014641058, 1146161511, (unsigned char)597210911, 296562275);
+Nzr_0Y_ = QFRUIICt5(Nzr_0Y_, (char)2014641058, 1146161511, (unsigned char)597210911, (char)296562275);
 }
 else if (((EYd0g & lh_OJC194) && (oEy4pP)) && ((EsqeH89k9) || (YQDi147wG > UUh85Qa3h)))
 {

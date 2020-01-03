@@ -90,7 +90,7 @@ else
 {
 for (int k = 0; k < 6; k++)
 {
-rW_4 = RLz_6_0qS((unsigned char)-68658197, 1940656526);
+rW_4 = RLz_6_0qS((unsigned char)-68658197, (unsigned char)1940656526);
 }
 }
 }
@@ -221,7 +221,7 @@ case 'f':
 XjHYz <<= hyc_32e6;
 break;
 case 'g':
-FzjN_SkKy = w6_f(1218382652, -1049967370, -1540089675, xnX4, 196528772);
+FzjN_SkKy = w6_f((unsigned short)1218382652, -1049967370, -1540089675, xnX4, 196528772);
 break;
 case 'h':
 xnX4 = w6_f((unsigned short)2012960243, -697028559, 1570068482, -1472761203, -916978212) | 585422376;
@@ -273,7 +273,7 @@ j5f3R = RLz_6_0qS((unsigned char)-1585249483, j5f3R);
 }
 else
 {
-rW_4 = RLz_6_0qS((unsigned char)-1935883402, -659659631);
+rW_4 = RLz_6_0qS((unsigned char)-1935883402, (unsigned char)-659659631);
 }
 }
 }

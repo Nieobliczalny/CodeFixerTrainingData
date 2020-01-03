@@ -22,7 +22,7 @@ int main(void) {
   unsigned int  BKsH  =  1841753872;
   short  Jq9KE9w0r  =  (short)676597193;
   unsigned short int  wa1o4L0  =  0;
-  unsigned short int  U82Y2E  =  1095004485;
+  unsigned short int  U82Y2E  =  (unsigned short)1095004485;
 	short	cPcDModq	=	961156513;
     short int    N6ET473_    =    1690943507;
     unsigned int    yk3wT0    =    81248424;
@@ -32,7 +32,7 @@ int main(void) {
   unsigned short  b1Keu  =  1763020201;
   double  WP93C_  =  -1038133179;
   unsigned short  y7Bgg  =  (unsigned short)-1442975047;
-    unsigned short    I59NJg    =    -2102505211;
+    unsigned short    I59NJg    =    (unsigned short)-2102505211;
 	unsigned short	VTdla	=	-233717236;
 	unsigned long	r45XrGg93	=	945547212;
     short    I_ToQ    =    922182542;

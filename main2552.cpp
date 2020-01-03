@@ -47,7 +47,7 @@ int main() {
     double    q2TokM_o;
     q2TokM_o    =    -440938010;
 	short int	bJeZ1;
-	bJeZ1	=	703953661;
+	bJeZ1	=	(short)703953661;
  unsigned int WZq_U;
  WZq_U = -1167985932;
  float NbmOHtq;
@@ -69,7 +69,7 @@ int main() {
 	char	XaG7za;
 	XaG7za	=	(char)790218125;
     short    D91nddM5l7;
-    D91nddM5l7    =    -888421772;
+    D91nddM5l7    =    (short)-888421772;
     long long    LEabOR3Mri;
     LEabOR3Mri    =    1390091551;
 	short int	NGg3UBlL;
@@ -143,7 +143,7 @@ int main() {
   short  u8ODzm;
   u8ODzm  =  (short)-88253029;
   short  jDDJO5SK;
-  jDDJO5SK  =  1822340339;
+  jDDJO5SK  =  (short)1822340339;
  unsigned short hlDK6;
  hlDK6 = (unsigned short)-1934541473;
   unsigned short int  my_Uzi;

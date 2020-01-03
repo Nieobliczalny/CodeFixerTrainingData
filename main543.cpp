@@ -100,7 +100,7 @@ T8eg = d14sh(S66L3n1tz, 1109512102, (short)854086310, (short)-1256651593);
 break;
 case 'b':
 case 'B':
-T8eg = d14sh((char)-280578941, h4oaR2, r0U9, -1727469962);
+T8eg = d14sh((char)-280578941, h4oaR2, r0U9, (short)-1727469962);
 break;
 case 'c':
 case 'C':
@@ -116,7 +116,7 @@ wSYn = lw2p_5R % UXop;
 break;
 case 'f':
 case 'F':
-w0X3uk = d14sh((char)23166288, W_6XVj, I6P6, -250542257);
+w0X3uk = d14sh((char)23166288, W_6XVj, I6P6, (short)-250542257);
 break;
 case 'g':
 case 'G':

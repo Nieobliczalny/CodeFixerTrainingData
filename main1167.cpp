@@ -63,7 +63,7 @@ case 1:
 eLNjXn = UzNB(TNNyI, qNlEtz, (char)-1130335910, (unsigned short)-566436124, -1492381406);
 break;
 case 2:
-eLNjXn = UzNB(eLNjXn, ACeT, (char)-1967888977, -366550227, TNNyI);
+eLNjXn = UzNB(eLNjXn, ACeT, (char)-1967888977, (unsigned short)-366550227, TNNyI);
 break;
 case 3:
 eLNjXn = QsQ6 | 1763514181;

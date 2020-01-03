@@ -62,7 +62,7 @@ int main() {
     short int    Ga06C3ZB_;
     Ga06C3ZB_    =    (short)710556471;
 	unsigned short int	j4B594;
-	j4B594	=	-451595772;
+	j4B594	=	(unsigned short)-451595772;
   unsigned short  oa78;
   oa78  =  (unsigned short)1701672900;
   unsigned long long  d_GS;
@@ -76,7 +76,7 @@ int main() {
  short int H25Gz8FR1;
  H25Gz8FR1 = (short)1809136219;
   unsigned char  tt31f3;
-  tt31f3  =  -1643402800;
+  tt31f3  =  (unsigned char)-1643402800;
   int  h3mOTjw6I;
   h3mOTjw6I  =  143694430;
 	unsigned long	CN2VG73;

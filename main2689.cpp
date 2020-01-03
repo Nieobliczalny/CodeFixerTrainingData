@@ -20,7 +20,7 @@ int main(int argc, char** argv)
 	unsigned char	qy9r	=	(unsigned char)100850556;
     unsigned long long    i4t9zv01S    =    0;
  short int L9ZM = (short)-1253074932;
- short int jbFX = -2072317889;
+ short int jbFX = (short)-2072317889;
   unsigned long long  BkA9j  =  636063463;
  unsigned short R_zzoogD = -916727920;
  long double EvIq = 900184361;
@@ -38,7 +38,7 @@ int main(int argc, char** argv)
 	char	BgBtb8	=	(char)-477116060;
 	long double	Gio3	=	975054490;
   float  RrBV8  =  -971216267;
- unsigned char GHjkoYg = 602828637;
+ unsigned char GHjkoYg = (unsigned char)602828637;
 
 try
 {

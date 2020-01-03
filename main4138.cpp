@@ -97,7 +97,7 @@ case 3:
 obUpOkcY6V = O63va8 * lW52g7W7;
 break;
 case 4:
-doMq = O0PXEbj(1670196359, Jm5vZ, -1252871992, (unsigned short)1208461828, -267289783);
+doMq = O0PXEbj(1670196359, Jm5vZ, -1252871992, (unsigned short)1208461828, (unsigned short)-267289783);
 break;
 case 5:
 YrtkGfR = O0PXEbj(i2gF56uT, YrtkGfR, 1105807115, R6l6_3_2i8, WT4Y);
@@ -207,7 +207,7 @@ case 'c':
 Sy9YP7 = G1TP(Sy9YP7, 260756573, QnnKswTv, (short)-1729565003, (unsigned short)-2103331360);
 break;
 case 'd':
-q9r_8eA = lFJ6x1(-908232795);
+q9r_8eA = lFJ6x1((unsigned short)-908232795);
 break;
 }
 }

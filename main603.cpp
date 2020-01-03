@@ -84,7 +84,7 @@ if (gYSSLV3la == -2045164713)
 switch (IQ_w)
 {
 case 0:
-Ey72 = ts_0th(Ey72, -229022942, Ju4_1p, 1910091088);
+Ey72 = ts_0th(Ey72, (unsigned short)-229022942, Ju4_1p, 1910091088);
 break;
 case 1:
 pD9IZP3 /= a32E1Nq5m;
@@ -99,7 +99,7 @@ case 4:
 goiEVMS2v = ts_0th((char)1834130182, (unsigned short)986328883, s2575, -1737665235);
 break;
 case 5:
-goiEVMS2v = ts_0th(273718484, jq2XT, mA37Ce, G83A);
+goiEVMS2v = ts_0th((char)273718484, jq2XT, mA37Ce, G83A);
 break;
 case 6:
 rKz39 = WDx9v % wdJg8_jpR;
@@ -425,7 +425,7 @@ case 2:
 kDsH5Nkq1 = (t62Gug < K77d) ? nX6w((short)-1490056453, -130163227, 549837425, 33669588) : ajnz;
 break;
 case 3:
-a5z8eJW3J7 = nX6w(21681177, -1058523484, wdJg8_jpR, mA37Ce);
+a5z8eJW3J7 = nX6w((short)21681177, -1058523484, wdJg8_jpR, mA37Ce);
 break;
 case 4:
 J_3W9 = nX6w((short)-1030764333, p04nX, wdJg8_jpR, mA37Ce) * z9HIEcr8B;

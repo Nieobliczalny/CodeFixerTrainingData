@@ -231,7 +231,7 @@ case 'd':
 Nn1_8iwG = nruy01d(-614937474, -1820787741, (char)1013292685, (unsigned short)1647571678);
 break;
 case 'e':
-BDBX = UeFZ40_2(1802934188, -1742112057);
+BDBX = UeFZ40_2((unsigned short)1802934188, -1742112057);
 break;
 case 'f':
 Rxov_2 = Dd7zfYpA2(-826193705, (unsigned short)483318082);

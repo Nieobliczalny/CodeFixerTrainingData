@@ -63,7 +63,7 @@ int main(void) {
     unsigned long    TLzic_D8um;
     TLzic_D8um    =    1195886333;
   char  kGtJUV;
-  kGtJUV  =  527579587;
+  kGtJUV  =  (char)527579587;
 
 if (eYNV7 != 1449984896)
 {
@@ -149,7 +149,7 @@ if (((cX2cP70u & 883978008) && (xxq0wt04D > 2055639578)) || (hfVwNS75pq > n3Cq5)
 switch (EIa_12)
 {
 case 0:
-M1uS_9J = hFntkOQO4((unsigned short)-1170053139, -1501913530, (short)823815937, (unsigned short)-1010127050, -566377542);
+M1uS_9J = hFntkOQO4((unsigned short)-1170053139, -1501913530, (short)823815937, (unsigned short)-1010127050, (short)-566377542);
 break;
 default:
 s_WL %= 650383995;

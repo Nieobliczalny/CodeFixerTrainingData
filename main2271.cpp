@@ -53,7 +53,7 @@ case 'c':
 etS1DeGB |= 19948017;
 break;
 case 'd':
-Tsi_K7p3A = dBGoFG2C((char)650580784, (unsigned char)-2089332770, 910740897, 932610395, -2106691344);
+Tsi_K7p3A = dBGoFG2C((char)650580784, (unsigned char)-2089332770, (unsigned short)910740897, 932610395, -2106691344);
 break;
 case 'e':
 Q1G96 <<= 1260697933;
@@ -463,7 +463,7 @@ case 4:
 IH9qCH %= WWhhwVEeIc;
 break;
 case 5:
-OLFT9_pN = X0_VNe8((short)-1326483899, UC5ngL, -182026619) / nhA8d64g;
+OLFT9_pN = X0_VNe8((short)-1326483899, UC5ngL, (char)-182026619) / nhA8d64g;
 break;
 case 6:
 R9NV61e21S = yYVX((short)-1027544491, 2054204882, -1716961028, -1007738943);

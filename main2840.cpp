@@ -58,7 +58,7 @@ m48bcc = r29i_l((unsigned char)-1545834667, (unsigned short)-236111760, -2810685
 break;
 case 'b':
 case 'B':
-Sd3GMH9nJV = r29i_l((unsigned char)-1596502326, -1726349019, Z_9_4qAm, Cjfe);
+Sd3GMH9nJV = r29i_l((unsigned char)-1596502326, (unsigned short)-1726349019, Z_9_4qAm, Cjfe);
 break;
 case 'c':
 case 'C':

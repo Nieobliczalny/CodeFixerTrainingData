@@ -28,7 +28,7 @@ int main() {
 	unsigned long	TSL_jFyEd	=	417799300;
     short    tbXtec9X0    =    (short)-1023268880;
  unsigned short W2fVa5 = (unsigned short)-1393428733;
- unsigned short int f72EzI = 410099836;
+ unsigned short int f72EzI = (unsigned short)410099836;
  long fdXJ79t = -1672389716;
     unsigned long    lCl5xD5Tf    =    -1975041233;
     unsigned char    W9t7    =    110832299;
@@ -39,7 +39,7 @@ int main() {
 	unsigned long	z2Z64s6X0Q	=	741360699;
     short    ps0vl_9    =    (short)1419830564;
   unsigned char  tFKZ3  =  (unsigned char)2120112139;
-	unsigned char	P1p_	=	139016096;
+	unsigned char	P1p_	=	(unsigned char)139016096;
  char uXGl7t5b5 = -1272898058;
   long double  r424  =  -1106299282;
  unsigned char PTj5_0Nt0 = 179151016;
@@ -52,7 +52,7 @@ int main() {
     short int    u8G15OD9A3    =    (short)-1947045518;
   float  b7h9G9L7Bo  =  1942688430;
   unsigned short  j8Rh  =  0;
-  short int  wQ9h  =  1359720190;
+  short int  wQ9h  =  (short)1359720190;
     unsigned short int    MapT_y    =    -108523950;
  long double kz2cM_ = -2146555926;
   float  Y6Nv  =  -1829612259;
@@ -70,7 +70,7 @@ for (int i = 0; i < 3; i++)
 {
 try
 {
-FtmXirQ = s_hXg44KfZ((unsigned char)-2077712914, (short)-1504951151, -2134404459, Y6Nv);
+FtmXirQ = s_hXg44KfZ((unsigned char)-2077712914, (short)-1504951151, (unsigned char)-2134404459, Y6Nv);
 }
 catch (int& errorCode)
 {

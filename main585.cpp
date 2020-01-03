@@ -32,7 +32,7 @@ int main() {
     unsigned short    xIBz    =    (unsigned short)1649913728;
     unsigned int    XMej    =    1296100457;
  char vDy70IfK = (char)-559564664;
-  short  UKfb_C  =  821293888;
+  short  UKfb_C  =  (short)821293888;
 	long double	QC6uNxy	=	-2141512924;
  char uxWxe7k_w = 0;
   unsigned short  oKk56g_1  =  1997772684;

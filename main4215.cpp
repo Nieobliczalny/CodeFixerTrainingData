@@ -63,7 +63,7 @@ int main(int argc, char** argv) {
  short fkP33311P_;
  fkP33311P_ = (short)-1788481572;
  unsigned short int rD0Tb;
- rD0Tb = 1025730974;
+ rD0Tb = (unsigned short)1025730974;
 	char	L1aZj64;
 	L1aZj64	=	26754069;
  char euc6448Tq3;
@@ -167,7 +167,7 @@ int main(int argc, char** argv) {
 	unsigned short int	O9Q3Vx;
 	O9Q3Vx	=	(unsigned short)-623168656;
     unsigned short int    fM649g29;
-    fM649g29    =    27703343;
+    fM649g29    =    (unsigned short)27703343;
   unsigned short  AzQ95x_aR6;
   AzQ95x_aR6  =  (unsigned short)-1992231972;
     int    It_TlaS;
@@ -486,7 +486,7 @@ std::cout << WoScGHR << "MBZ3Rij0u" << std::endl;
 }
 else if (((GXeFQ <= a43GIq7) && (qfz9_)) || (Eznh < HX32k8))
 {
-std::cout << Q14c_bD_o << Hc6L2_i_(deZ7, ON5qh, (char)655912432, (unsigned char)-432311926, -1189062163) << "bjH_bv" << Hc6L2_i_(630162768, 1041220671, (char)-1485336000, J2M927p, 1073733957) << Hc6L2_i_(-2014179788, ON5qh, S17cc9M51, 1589104937, H___4dayM) << std::endl;
+std::cout << Q14c_bD_o << Hc6L2_i_(deZ7, ON5qh, (char)655912432, (unsigned char)-432311926, -1189062163) << "bjH_bv" << Hc6L2_i_(630162768, 1041220671, (char)-1485336000, J2M927p, 1073733957) << Hc6L2_i_(-2014179788, ON5qh, S17cc9M51, (unsigned char)1589104937, H___4dayM) << std::endl;
 }
 else
 {

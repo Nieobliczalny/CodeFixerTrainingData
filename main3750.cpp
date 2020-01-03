@@ -27,7 +27,7 @@ int main()
 	float	KIDjz;
 	KIDjz	=	931143895;
  char vAkcO0;
- vAkcO0 = 810601932;
+ vAkcO0 = (char)810601932;
  unsigned short Jg7k1;
  Jg7k1 = (unsigned short)1993723944;
   unsigned long  i_87HUq6;
@@ -59,7 +59,7 @@ int main()
   unsigned char  cYxKWzwQp;
   cYxKWzwQp  =  (unsigned char)1529360848;
  short rrFY12_L;
- rrFY12_L = 1117991336;
+ rrFY12_L = (short)1117991336;
  unsigned char jTvMkrj;
  jTvMkrj = -953207840;
  double kl7kqfT71K;
@@ -261,7 +261,7 @@ else
 KIDjz = (int)floor(EDQAwyr);
 }
 
-cout << FQAYDr((char)65672395, -1335867135) << FQAYDr((char)-1926623825, 835228783) << NS7F(wzoPtGRJ8H, (unsigned short)100885323, 1973487469, -501786465) << NS7F(725826836, T__Y543, -591852096, 1084292227) << "uvvQw" << endl;
+cout << FQAYDr((char)65672395, -1335867135) << FQAYDr((char)-1926623825, 835228783) << NS7F(wzoPtGRJ8H, (unsigned short)100885323, 1973487469, -501786465) << NS7F((short)725826836, T__Y543, -591852096, 1084292227) << "uvvQw" << endl;
 
 {
 int i = 0;

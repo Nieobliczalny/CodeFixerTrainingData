@@ -25,7 +25,7 @@ int main(int argc, char** argv)
  SVhn_d_ = (short)-119800754;
  iAK2ijW = (short)1689790213;
  D28mURSI5 = (short)-191475941;
- WkCcz7 = 65091128;
+ WkCcz7 = (short)65091128;
  aIGG4iBaE = -1906999337;
  RzGW48L0e7 = -1279275986;
  tbs9L = 1349376980;
@@ -35,7 +35,7 @@ int main(int argc, char** argv)
  nF5eJW = (short)1190475875;
  Qe9IS44L = (short)-13668351;
  A_vVlGa = (short)-279856002;
- DzuBkeJk = -218428370;
+ DzuBkeJk = (short)-218428370;
  K31sfHg8Y6 = 1940330579;
  UM97 = -436550191;
  Tz82n = -272103600;
@@ -45,7 +45,7 @@ int main(int argc, char** argv)
  TFIZI = (short)-380814939;
  EhgKy0320 = (short)656719314;
  E7_I = (short)-242348819;
- TgUeey5L = 1318670063;
+ TgUeey5L = (short)1318670063;
  y2DPyn_ = 855653333;
  jz_REPX2 = 668051692;
  pEb__ = -753445569;
@@ -55,7 +55,7 @@ int main(int argc, char** argv)
  Vg5I = (short)1491609999;
  gCkq_HJhn = (short)1910577676;
  FBS2tuH = (short)491137183;
- oaCJ_x = -1094641112;
+ oaCJ_x = (short)-1094641112;
  ulTGZY4K_ = 1401159582;
  HEvM = 1053952699;
  i8a7 = 2063671103;
@@ -65,7 +65,7 @@ int main(int argc, char** argv)
  u1uguaY4 = (short)-899644884;
  m1N_Woua9T = (short)-1284333973;
  njer2 = (short)-1367631468;
- tY1Uo = 972982966;
+ tY1Uo = (short)972982966;
  XOqUa93a = 1178481704;
  sWmm774l = -1372817535;
  XQlNY8r = 1721146922;
@@ -75,7 +75,7 @@ int main(int argc, char** argv)
  xz6X0 = (short)1608767765;
  EsqTV7 = (short)822161781;
  NXdP2_8SHQ = (short)-678515043;
- d0XH0B25 = -472710592;
+ d0XH0B25 = (short)-472710592;
  zVoZd7lt = -1890853725;
  T2vYN5fT = -812755537;
  I0V1E1AA = 1184621728;
@@ -256,7 +256,7 @@ RidG = (int)abs(EhgKy0320);
 break;
 case 'd':
 case 'D':
-aCp2 = oR4z293D(498290119, (unsigned short)-668916507, 885632068) - NXdP2_8SHQ;
+aCp2 = oR4z293D(498290119, (unsigned short)-668916507, (unsigned char)885632068) - NXdP2_8SHQ;
 break;
 case 'e':
 case 'E':
@@ -567,7 +567,7 @@ WkCcz7 /= m1N_Woua9T;
 }
 }
 }
-cout << "MzTN_" << "kicB_7YR1F" << njer2 << oR4z293D(mBZ8m, (unsigned short)2026204459, -1572963333) << "jskBh3" << endl;
+cout << "MzTN_" << "kicB_7YR1F" << njer2 << oR4z293D(mBZ8m, (unsigned short)2026204459, (unsigned char)-1572963333) << "jskBh3" << endl;
 
 if (Tz82n < iAK2ijW)
 {
@@ -753,7 +753,7 @@ I0V1E1AA = e2EPfMHY(I0V1E1AA, (short)359524051);
 break;
 case 'e':
 case 'E':
-jz_REPX2 = e2EPfMHY(jz_REPX2, 2129898854);
+jz_REPX2 = e2EPfMHY(jz_REPX2, (short)2129898854);
 break;
 }
 }

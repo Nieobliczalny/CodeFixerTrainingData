@@ -33,7 +33,7 @@ int main()
  pe58Mlcv3A = (short)90065155;
  lJhjJOgA9 = (short)-653268767;
  o4bZu = (short)2060521975;
- TjCUH3p = 860100670;
+ TjCUH3p = (short)860100670;
  H9BpQEjob = -1555695062;
  Xf1c = -320743561;
  tAc2 = -94334232;
@@ -43,7 +43,7 @@ int main()
  r2Rh_ = (short)1433981282;
  mnJgBfk_3 = (short)993498213;
  IVi_ = (short)-614032491;
- YeBDHg2d9 = 1164033048;
+ YeBDHg2d9 = (short)1164033048;
  uXey = -1582884856;
  E3oqe4Ik = -1099038588;
  l4Fy533Emd = -1288244192;
@@ -53,7 +53,7 @@ int main()
  ykprBE = (short)1018268172;
  PSgs = (short)671593453;
  q699xHC6 = (short)1860852381;
- EoJ5 = 743946011;
+ EoJ5 = (short)743946011;
  D6G7Q6i = 494939924;
  vn12Kz = -1234771783;
  K_RN_D81P = -575084118;
@@ -63,7 +63,7 @@ int main()
  F3j1y6 = (short)-1775403824;
  t5OT_L = (short)-1861851719;
  pmX38oQR = (short)-228757368;
- FT4D5J_6Zu = -854993412;
+ FT4D5J_6Zu = (short)-854993412;
  BEE0 = -2091050606;
  zGJR = 1316086969;
  E00aE3 = -782457207;
@@ -158,7 +158,7 @@ TjCUH3p = Kg_ZalCRT((unsigned short)-754448575, (unsigned short)906399528, (char
 break;
 case 'g':
 case 'G':
-lU_5 = Efq26LK(lU_5, Xf1c, -1180088996);
+lU_5 = Efq26LK(lU_5, Xf1c, (unsigned short)-1180088996);
 break;
 case 'h':
 case 'H':
@@ -316,7 +316,7 @@ pe58Mlcv3A = (int)abs(O4ux);
 break;
 case 'd':
 case 'D':
-Xf1c = Kg_ZalCRT((unsigned short)552553692, (unsigned short)1934565274, -1265465011, BEE0, 1509096350);
+Xf1c = Kg_ZalCRT((unsigned short)552553692, (unsigned short)1934565274, (char)-1265465011, BEE0, 1509096350);
 break;
 case 'e':
 case 'E':
@@ -439,7 +439,7 @@ case 'b':
 ykprBE = zOVh7e2(ykprBE, (unsigned char)780303926, C5tG9Y, O4ux);
 break;
 case 'c':
-nhU_X = fy43Ys(-360512998, zGJR);
+nhU_X = fy43Ys((unsigned short)-360512998, zGJR);
 break;
 case 'd':
 YeBDHg2d9 /= C5tG9Y;
@@ -671,7 +671,7 @@ if (((TjCUH3p > -1722670142) && (ykprBE <= -6699330)) && ((ex5dW != OV46) || (BT
 {
 if (oELN01T != k_wq7ufnJ)
 {
-K_RN_D81P = Kg_ZalCRT((unsigned short)461233435, (unsigned short)857432693, -150761160, -1466277815, Bm4_56U);
+K_RN_D81P = Kg_ZalCRT((unsigned short)461233435, (unsigned short)857432693, (char)-150761160, -1466277815, Bm4_56U);
 }
 else
 {

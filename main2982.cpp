@@ -109,7 +109,7 @@ zrl9f64b2_ = (int)abs(DJ3N);
 R_CXXSNi = (int)abs(DJ3N);
 if (k3O1yD6L1((char)1441032227, (short)-807385136, Sbt3YgB, EZlJe_9, 1916897956) == 0)
 {
-	Sbt3YgB = ar4P50Gs(kdqAaC, ps620) / k3O1yD6L1((char)1441032227, -807385136, Sbt3YgB, EZlJe_9, 1916897956);
+	Sbt3YgB = ar4P50Gs(kdqAaC, ps620) / k3O1yD6L1((char)1441032227, (short)-807385136, Sbt3YgB, EZlJe_9, 1916897956);
 }
 switch (yS2yL7hPT)
 {

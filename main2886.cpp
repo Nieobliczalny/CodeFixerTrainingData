@@ -32,7 +32,7 @@ int main() {
     char    bS778xp10M;
     bS778xp10M    =    (char)-1633455942;
   unsigned short  ZNrAv4;
-  ZNrAv4  =  -606226154;
+  ZNrAv4  =  (unsigned short)-606226154;
  short int RWL0C_;
  RWL0C_ = -1731860834;
   float  C_Lb08EP;
@@ -56,7 +56,7 @@ int main() {
     short int    n04bb8;
     n04bb8    =    (short)-1532712658;
   short  c1bcm5b7a;
-  c1bcm5b7a  =  -1488822336;
+  c1bcm5b7a  =  (short)-1488822336;
   unsigned long  CVpdOc;
   CVpdOc  =  451213885;
   char  rDO5VKsP9V;

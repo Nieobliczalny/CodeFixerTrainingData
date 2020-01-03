@@ -41,7 +41,7 @@ int main(void) {
     unsigned int    fpI_SA5F    =    1796143229;
  double H82m = 1131484569;
  char G51TH9 = (char)-1685884180;
-  short int  CX3Y1li2  =  -1502304530;
+  short int  CX3Y1li2  =  (short)-1502304530;
     unsigned long long    PMghyN1_    =    1029163949;
 	long long	b60munv5sD	=	0;
  unsigned int Z9UB3iG9G = -1411259012;

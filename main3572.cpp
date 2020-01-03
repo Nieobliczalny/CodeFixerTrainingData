@@ -16,7 +16,7 @@ int main(void)
     B9MV8Yfr9N    =    (char)69241667;
     EhtqiL9    =    (char)440271477;
     cDK0    =    (char)1988470906;
-    Qx1b_8    =    1390198536;
+    Qx1b_8    =    (char)1390198536;
     Y4KnHHf    =    1236788505;
     BqY4bAw1    =    -852694206;
     srFB4lw    =    -2046739200;
@@ -26,7 +26,7 @@ int main(void)
     cM0x    =    (char)-649322499;
     LA8lgY    =    (char)1908124924;
     n6v0    =    (char)1408402930;
-    q60122_VE    =    698612764;
+    q60122_VE    =    (char)698612764;
     E70s    =    -75934452;
     rqYqk    =    1610822881;
     c5HpEQk3B    =    542358757;
@@ -36,7 +36,7 @@ int main(void)
     C724Puy    =    (char)260580583;
     wnQp_z    =    (char)1079957225;
     k8KY    =    (char)-1545888043;
-    sFUGiBiQP1    =    -613101987;
+    sFUGiBiQP1    =    (char)-613101987;
     S3mS2Axwv7    =    1538206305;
     Rf0zGAI    =    768404731;
     Q5_2Lw    =    608352536;
@@ -46,7 +46,7 @@ int main(void)
     dYJL9    =    (char)-629962742;
     Az4_    =    (char)794751118;
     pZWfZZG4t2    =    (char)2046103262;
-    otDR    =    602457949;
+    otDR    =    (char)602457949;
     Y55sz    =    -592772512;
     T820ExKxN    =    469781817;
     qVN3a    =    -474961995;
@@ -56,7 +56,7 @@ int main(void)
     SqW_E0    =    (char)1809831233;
     rOO7    =    (char)-21211992;
     OoHV5q5R    =    (char)1228194579;
-    clzkra25    =    -2098957271;
+    clzkra25    =    (char)-2098957271;
     N9BN    =    -284418719;
     qFu575W09    =    1724966598;
     GHYKo5    =    2117393830;
@@ -66,7 +66,7 @@ int main(void)
     VVvZ2W42    =    (char)2067901333;
     GyJ_2X    =    (char)910024517;
     rm3_    =    (char)694727073;
-    rFv9x7P8r    =    962804679;
+    rFv9x7P8r    =    (char)962804679;
     qf_iO8B7    =    951010788;
     qjs73cysv8    =    1333126910;
     Y_8bLOY32m    =    -1223099524;
@@ -76,7 +76,7 @@ int main(void)
     m2JH7    =    (char)-436630080;
     CrFrNN38    =    (char)-26880387;
     oFa51_    =    (char)-851424351;
-    pi7db5Mi    =    1284491200;
+    pi7db5Mi    =    (char)1284491200;
     NX4Vdtx    =    -475560155;
     char    a6pqeha,    Sl_A7,    d5UgOm5cIG,    ezE5B_Ks,    r9Zm_WCt;
     a6pqeha    =    0;

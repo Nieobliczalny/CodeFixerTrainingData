@@ -87,7 +87,7 @@ case 0:
 Sq386NT = OH86UGC((unsigned short)-522771295, (short)890614365);
 break;
 case 1:
-Wmt63N = OH86UGC((unsigned short)-1301553737, -186318692);
+Wmt63N = OH86UGC((unsigned short)-1301553737, (short)-186318692);
 break;
 case 2:
 mlFDb = (int)floor(zTxhY3Y);
@@ -179,7 +179,7 @@ case 6:
 HHiVBGg0VW -= 807761444;
 break;
 default:
-b_3c6 = OH86UGC(-681534789, X_90cH);
+b_3c6 = OH86UGC((unsigned short)-681534789, X_90cH);
 break;
 }
 }

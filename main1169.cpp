@@ -138,7 +138,7 @@ case 4:
 o7n9 = YQ32hP(o7n9, INyMh1, (char)-407960565);
 break;
 case 5:
-LD8lx = YQ32hP(LD8lx, DFVpb7, -1428192665);
+LD8lx = YQ32hP(LD8lx, DFVpb7, (char)-1428192665);
 break;
 case 6:
 P_j1v9N90 = YQ32hP(LD8lx, DFVpb7, w1hP643Ian) & 1799107301;

@@ -63,7 +63,7 @@ int main(void) {
 	char	Bg2y1;
 	Bg2y1	=	(char)16322491;
     unsigned short int    Vhjy;
-    Vhjy    =    432376230;
+    Vhjy    =    (unsigned short)432376230;
 	char	GXIwcV;
 	GXIwcV	=	0;
     unsigned short int    v7t_EKvY7p;
@@ -101,7 +101,7 @@ int main(void) {
 	unsigned char	p00615_ne;
 	p00615_ne	=	(unsigned char)-1039940648;
  char hBjJJHU7WS;
- hBjJJHU7WS = 929073054;
+ hBjJJHU7WS = (char)929073054;
 	double	ypmWd_de;
 	ypmWd_de	=	1233434586;
  char Jg5PW;

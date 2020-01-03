@@ -20,7 +20,7 @@ int main(int argc, char** argv) {
   unsigned char  pMN4jHh;
   pMN4jHh  =  (unsigned char)1709047186;
  unsigned short vLa2J;
- vLa2J = 2021623702;
+ vLa2J = (unsigned short)2021623702;
  short EFV_nHkQ;
  EFV_nHkQ = -796108580;
  long double fCZG;
@@ -38,7 +38,7 @@ int main(int argc, char** argv) {
 	unsigned char	UgnS7;
 	UgnS7	=	(unsigned char)-585506857;
 	char	O4wip3_t4;
-	O4wip3_t4	=	-1872390908;
+	O4wip3_t4	=	(char)-1872390908;
  double T7_b;
  T7_b = -2045365909;
   long double  CRFzir_9;
@@ -80,7 +80,7 @@ int main(int argc, char** argv) {
   unsigned char  oY2xin;
   oY2xin  =  (unsigned char)-375285482;
  short int rrP_6554u;
- rrP_6554u = -417338824;
+ rrP_6554u = (short)-417338824;
  unsigned long ohzi2huJ_D;
  ohzi2huJ_D = -984776884;
  unsigned long R95l5O0q1;

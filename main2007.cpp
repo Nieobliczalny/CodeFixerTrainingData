@@ -77,7 +77,7 @@ break;
 
 std::cout << XeDXYu7_b((short)389219559, wXHHN, wbxWEci, lRYLpFNI_) << wXHHN << ps1uIp95 << XeDXYu7_b((short)2107655732, wXHHN, wbxWEci, lRYLpFNI_) << std::endl;
 
-std::cout << KC_ib4 << "YIOb_53ZY" << BD9E0RXmQ(bDSQOhP, (unsigned short)807549086) << BD9E0RXmQ(bDSQOhP, -641293426) << std::endl;
+std::cout << KC_ib4 << "YIOb_53ZY" << BD9E0RXmQ(bDSQOhP, (unsigned short)807549086) << BD9E0RXmQ(bDSQOhP, (unsigned short)-641293426) << std::endl;
 return 0;
 }
 

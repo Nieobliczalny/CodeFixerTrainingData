@@ -66,7 +66,7 @@ int main()
  unsigned long bShZG4gegq;
  bShZG4gegq = -1833272595;
   short  jm0AuJ;
-  jm0AuJ  =  -1332494169;
+  jm0AuJ  =  (short)-1332494169;
   unsigned short  TCJFE;
   TCJFE  =  (unsigned short)-45519338;
   long long  HnA6I;
@@ -96,7 +96,7 @@ int main()
     short int    xSl2sRHUE0;
     xSl2sRHUE0    =    (short)133738522;
   short int  pn0aX0ow_5;
-  pn0aX0ow_5  =  2033196411;
+  pn0aX0ow_5  =  (short)2033196411;
     long    B03ic;
     B03ic    =    -1821552008;
     unsigned short int    HPDv3;
@@ -124,7 +124,7 @@ int main()
 	long double	mgvl8;
 	mgvl8	=	1378109655;
     short    PcC9;
-    PcC9    =    -1580528510;
+    PcC9    =    (short)-1580528510;
     char    XanvTww;
     XanvTww    =    (char)1450282547;
   unsigned char  u9qy8hb2m4;

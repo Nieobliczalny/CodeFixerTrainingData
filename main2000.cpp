@@ -72,7 +72,7 @@ int main(int argc, char** argv) {
   short int  x0vg0t8muO;
   x0vg0t8muO  =  (short)1171549774;
   unsigned short int  Q1wpZ;
-  Q1wpZ  =  -1196328924;
+  Q1wpZ  =  (unsigned short)-1196328924;
 	unsigned short	V9vL;
 	V9vL	=	(unsigned short)-1031892764;
     float    wWl03i06K;
@@ -94,7 +94,7 @@ int main(int argc, char** argv) {
   short  FD51clJCC;
   FD51clJCC  =  (short)-929241113;
 	char	VF7CMBs68;
-	VF7CMBs68	=	-1514585464;
+	VF7CMBs68	=	(char)-1514585464;
  unsigned char Pux65;
  Pux65 = (unsigned char)1761604774;
   unsigned int  LJ4M1SB;
@@ -112,7 +112,7 @@ int main(int argc, char** argv) {
     unsigned short int    X_4g6OO;
     X_4g6OO    =    (unsigned short)-171418590;
  short tu1ZG_;
- tu1ZG_ = 782825491;
+ tu1ZG_ = (short)782825491;
     unsigned long    XdUM2649;
     XdUM2649    =    1914822585;
     float    ao64kBi29I;
@@ -164,7 +164,7 @@ int main(int argc, char** argv) {
 	short	bXU_Fm7a;
 	bXU_Fm7a	=	(short)1391373296;
  unsigned short IJoLh5cZz;
- IJoLh5cZz = -1075229490;
+ IJoLh5cZz = (unsigned short)-1075229490;
  unsigned short wGX9Iy;
  wGX9Iy = (unsigned short)-1185468150;
 	unsigned long long	c5Tb93tfn;
@@ -507,7 +507,7 @@ case 3:
 oMMG1JEbF_ = hzB0tggx(U3SIV6OmYs, (char)-1947438973, -720691124, N08Z6440p, L_96) << xA3W;
 break;
 case 4:
-eG2GjJ1 = eFnlm(-1574294561, gQbE6h, dUMBdp316, 889986048);
+eG2GjJ1 = eFnlm((unsigned char)-1574294561, gQbE6h, dUMBdp316, 889986048);
 break;
 case 5:
 YYeO_w = (int)ceil(Qnk895A8);
@@ -583,7 +583,7 @@ Pux65 = hzB0tggx(Pux65, TDlUt93, -831216733, (unsigned char)1444935999, -1869784
 break;
 case 'f':
 case 'F':
-eG2GjJ1 = eFnlm(915602899, u_62P_OQ, TDlUt93, E48G590);
+eG2GjJ1 = eFnlm((unsigned char)915602899, u_62P_OQ, TDlUt93, E48G590);
 break;
 default:
 n6k5 = mv4tdU05t % 1324641032;
@@ -679,7 +679,7 @@ break;
 }
 else if (b5QeX0n1 > -1319429268)
 {
-n6k5 = hzB0tggx((short)-690905470, 1144714995, 2035232043, -947427184, f7zI);
+n6k5 = hzB0tggx((short)-690905470, (char)1144714995, 2035232043, -947427184, f7zI);
 }
 else
 {

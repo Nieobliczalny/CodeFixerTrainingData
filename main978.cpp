@@ -49,7 +49,7 @@ int main()
     unsigned short int    yYkOn;
     yYkOn    =    (unsigned short)911807239;
     unsigned short    J34f_Rh7_;
-    J34f_Rh7_    =    -1706385836;
+    J34f_Rh7_    =    (unsigned short)-1706385836;
   double  V2lfP2;
   V2lfP2  =  -630057421;
   unsigned short int  YjRK94K12;
@@ -69,7 +69,7 @@ int main()
  unsigned char L_1z;
  L_1z = (unsigned char)431399740;
  char CN7n;
- CN7n = -1365145674;
+ CN7n = (char)-1365145674;
  double n5rmXwxV6;
  n5rmXwxV6 = 1066214604;
     long long    nabI;
@@ -91,7 +91,7 @@ int main()
 	unsigned short int	x2Qb82c2;
 	x2Qb82c2	=	(unsigned short)-1918347275;
 	unsigned short	goq1qztlwN;
-	goq1qztlwN	=	-1884383038;
+	goq1qztlwN	=	(unsigned short)-1884383038;
     unsigned short    p_785Si;
     p_785Si    =    -1333982693;
 	short	w9XS;
@@ -193,7 +193,7 @@ LD__hhP = be5148Q84a(LD__hhP);
 }
 else if (n5rmXwxV6 > n9Ln5C5Nv)
 {
-std::cout << Mk1382mWjk((short)-964689172, (short)152769333) << "k9Wd4au" << KFgwQ << y392y(LD__hhP, (unsigned short)-1820345196, XyF6mC373, WDzs7XK, 676884314) << std::endl;
+std::cout << Mk1382mWjk((short)-964689172, (short)152769333) << "k9Wd4au" << KFgwQ << y392y(LD__hhP, (unsigned short)-1820345196, XyF6mC373, WDzs7XK, (unsigned short)676884314) << std::endl;
 }
 else
 {

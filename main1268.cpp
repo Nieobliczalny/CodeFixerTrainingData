@@ -49,7 +49,7 @@ int main(void) {
   long double  cx0oBM  =  -442370798;
 	unsigned long long	kj_X	=	2044348770;
 	unsigned short int	Gfv5n_hZP3	=	(unsigned short)-1131664324;
- unsigned char f5svq5zB = 526605164;
+ unsigned char f5svq5zB = (unsigned char)526605164;
 	unsigned int	FC2W	=	-468077251;
     char    K3ezpu    =    -1104715157;
 	short	Qt3V2fM6	=	159321021;

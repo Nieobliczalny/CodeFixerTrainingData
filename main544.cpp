@@ -28,7 +28,7 @@ int main(void) {
 	short	u5J5nL	=	(short)-423873788;
     float    kWKsN    =    -380091658;
     float    gI08q303    =    -1163028609;
- unsigned short h3PO4f2 = -1104869416;
+ unsigned short h3PO4f2 = (unsigned short)-1104869416;
   unsigned char  w14K7JcIj  =  -201919500;
  short int VbQBrs_6g = 168876121;
 	int	G_ai	=	1415159666;
@@ -40,7 +40,7 @@ int main(void) {
 	unsigned long long	t07q6	=	-1400172187;
   short int  qcYA8G5hZk  =  (short)1003127793;
     double    QiO4    =    1515543387;
-  unsigned char  rYgJ  =  1528083752;
+  unsigned char  rYgJ  =  (unsigned char)1528083752;
  unsigned short sX0p40OFZV = 343356150;
   char  WaKNvZP23n  =  1160045489;
   double  LZP5V  =  -996906435;
@@ -51,7 +51,7 @@ int main(void) {
 	short	ok2NtLp5	=	(short)234128563;
     int    fk83dO    =    -1048252143;
  unsigned long long X1C1 = -1077872267;
-  short int  f6itXCv  =  -2060310094;
+  short int  f6itXCv  =  (short)-2060310094;
 	unsigned long long	M3889ro	=	-513231368;
     unsigned long long    V713    =    1847531067;
     long double    w_ybf4    =    -723226512;
@@ -69,7 +69,7 @@ int main(void) {
 	unsigned char	bm4a	=	0;
   unsigned long  z41C  =  -1193782169;
 	unsigned char	zXRaX1S	=	(unsigned char)-1557298149;
-    unsigned char    JW0l_eP    =    316896649;
+    unsigned char    JW0l_eP    =    (unsigned char)316896649;
 	int	Ql_8tY	=	-143596545;
     long long    f0nzPUv_1z    =    -43766966;
 	long double	vTg_Td_j	=	-246181831;
@@ -82,7 +82,7 @@ int main(void) {
 	short	HK_xDwnK	=	(short)-923907461;
 	unsigned short int	QOTk6Ej	=	(unsigned short)550452094;
 	unsigned int	D1_2	=	1914934205;
-    unsigned short    JV7sAfcsJ7    =    -405361117;
+    unsigned short    JV7sAfcsJ7    =    (unsigned short)-405361117;
 	int	M_FD	=	-449927138;
     char    O_9p    =    1625433380;
     int    RmqzT1r    =    1546266233;
@@ -466,7 +466,7 @@ d2Q3h = gHP5w(vTg_Td_j, (char)628056582);
 int i = 6;
 do
 {
-cout << gHP5w((unsigned short)-1990839243, (char)-1812577509) << gHP5w(-276044015, 1647683376) << "maygB" << endl;
+cout << gHP5w((unsigned short)-1990839243, (char)-1812577509) << gHP5w((unsigned short)-276044015, 1647683376) << "maygB" << endl;
 --i;
 }
 while (i >= 0);

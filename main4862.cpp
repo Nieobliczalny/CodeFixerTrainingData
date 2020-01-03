@@ -29,7 +29,7 @@ int main(void)
     unsigned char    fmMVd_;
     fmMVd_    =    (unsigned char)28903400;
     short int    KZ3pDebxp;
-    KZ3pDebxp    =    857004417;
+    KZ3pDebxp    =    (short)857004417;
   short  uaDi3E8;
   uaDi3E8  =  (short)1958391544;
     unsigned long    P98_5W3_0;
@@ -49,7 +49,7 @@ int main(void)
   short  EoBT4a0;
   EoBT4a0  =  (short)321465959;
   unsigned short  sf3tST8Lj;
-  sf3tST8Lj  =  -1659856791;
+  sf3tST8Lj  =  (unsigned short)-1659856791;
  unsigned long long ei6S0Lz76O;
  ei6S0Lz76O = 1986771330;
 	unsigned long	i_B58P6W;

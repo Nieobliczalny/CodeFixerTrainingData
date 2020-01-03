@@ -57,7 +57,7 @@ int main(int argc, char** argv)
 	unsigned char	uj4_kg0;
 	uj4_kg0	=	(unsigned char)-1794160933;
  unsigned char j3PFo5hyt;
- j3PFo5hyt = 1334736698;
+ j3PFo5hyt = (unsigned char)1334736698;
   long double  B0NKk;
   B0NKk  =  -1586482428;
  short int Ecm5;
@@ -69,7 +69,7 @@ int main(int argc, char** argv)
   unsigned char  gA2O3;
   gA2O3  =  (unsigned char)-75596262;
 	unsigned char	Wta0EV;
-	Wta0EV	=	2005834103;
+	Wta0EV	=	(unsigned char)2005834103;
   unsigned int  LmG4TY0;
   LmG4TY0  =  -1475198604;
  unsigned short int J1QQS;

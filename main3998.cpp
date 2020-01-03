@@ -51,7 +51,7 @@ int main()
   char  fzz9FHA;
   fzz9FHA  =  (char)1518148446;
 	unsigned short int	BfbINGG;
-	BfbINGG	=	1205853983;
+	BfbINGG	=	(unsigned short)1205853983;
     unsigned short    RLYjVID48;
     RLYjVID48    =    -529557040;
 	unsigned long	T3Q3;
@@ -85,7 +85,7 @@ int main()
     short    SF2ZPxp;
     SF2ZPxp    =    (short)-1765247824;
 	short int	jsA2kx;
-	jsA2kx	=	1953584571;
+	jsA2kx	=	(short)1953584571;
     unsigned int    u4lmt3;
     u4lmt3    =    2004051504;
 	char	g4i_qu3t9g;

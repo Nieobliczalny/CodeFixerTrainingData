@@ -29,7 +29,7 @@ int main()
   unsigned short int  QG0K;
   QG0K  =  (unsigned short)-1219868411;
     short    AjjhF5q1x;
-    AjjhF5q1x    =    -1651945212;
+    AjjhF5q1x    =    (short)-1651945212;
     double    e1kmSu;
     e1kmSu    =    477678440;
 	unsigned long long	B9u3Xbs;
@@ -61,7 +61,7 @@ int main()
 	unsigned short	e771X4p2;
 	e771X4p2	=	(unsigned short)-1332418093;
   unsigned short  vblnzl6;
-  vblnzl6  =  692068198;
+  vblnzl6  =  (unsigned short)692068198;
 	float	h42AO9o_0_;
 	h42AO9o_0_	=	-903160942;
   long double  BxxrR_yQ;
@@ -153,7 +153,7 @@ lr1_E3s5++;
 break;
 case 'd':
 case 'D':
-CTa4H5n = udr1177((unsigned char)1949272330, TV715_Ip, (char)-438755525, (unsigned char)-1645145416, 484775695);
+CTa4H5n = udr1177((unsigned char)1949272330, TV715_Ip, (char)-438755525, (unsigned char)-1645145416, (short)484775695);
 break;
 case 'e':
 case 'E':
@@ -278,7 +278,7 @@ default:
 Pf_x = zKMI((unsigned short)1225714001, 725367117);
 break;
 }
-B1A7 = 1562946878 / udr1177(Pf_x, IFQjT__hy, EbG61FVF8f, (unsigned char)869034435, -1211884756);
+B1A7 = 1562946878 / udr1177(Pf_x, IFQjT__hy, EbG61FVF8f, (unsigned char)869034435, (short)-1211884756);
 if (e5Ic != QG0K)
 {
 BxxrR_yQ = (int)abs(O2pExdBZ_);

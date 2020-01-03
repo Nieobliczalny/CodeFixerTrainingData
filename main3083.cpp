@@ -30,7 +30,7 @@ int main(void)
     short int    boKTNh7bs    =    (short)-1593108897;
     unsigned short int    H0UD1k18    =    (unsigned short)2049760785;
 	double	E9uEFvd	=	-2134432019;
- short Gv_TC4qE = 227592265;
+ short Gv_TC4qE = (short)227592265;
  unsigned long long dH46368nO = -1162167898;
  double X916 = -512752500;
   unsigned short  RQQ672TfG  =  -1354400315;
@@ -48,7 +48,7 @@ int main(void)
  short E3ZY4K9 = (short)-1461868590;
  short G23cm8Io26 = (short)-1139207554;
  int Vp2t = 0;
-    unsigned char    Wk3t9K7    =    -1108615415;
+    unsigned char    Wk3t9K7    =    (unsigned char)-1108615415;
   short  P_7_sf0_g  =  710385791;
     double    L2sXTzuho0    =    1315001106;
   unsigned char  dO72  =  1536659605;
@@ -59,7 +59,7 @@ int main(void)
   double  kIX2  =  610518873;
  unsigned short h34e9_ = (unsigned short)250485988;
     unsigned long    j18W    =    -997434971;
-  char  n3Bw_p  =  872477466;
+  char  n3Bw_p  =  (char)872477466;
 	int	ib_bDlg_	=	-913114380;
   unsigned long long  da8wRs  =  1580846753;
  unsigned char L8B9f2T4f8 = 228820300;
@@ -71,7 +71,7 @@ int main(void)
     short int    h5o4    =    (short)-471523247;
  int b654h3g0 = -595084142;
 	long double	Sj3g4K2X	=	-183968210;
-    char    D9DU_MbWG    =    1602994644;
+    char    D9DU_MbWG    =    (char)1602994644;
     int    BI8Y    =    587833577;
     unsigned int    ovxA3TBfQ    =    -1655071503;
   unsigned long  ZNw7Emm2  =  -412684014;
@@ -83,7 +83,7 @@ int main(void)
   unsigned short  Z87P35__m_  =  (unsigned short)1371435469;
 	long double	n66v	=	-1587767022;
 	unsigned int	fZ3658a	=	-704069203;
- short hojh83zE6 = 1214289727;
+ short hojh83zE6 = (short)1214289727;
     unsigned short int    s76c    =    0;
   double  uE7l  =  1229458973;
     unsigned short    rbgd3_9L    =    (unsigned short)-636179465;
@@ -95,7 +95,7 @@ int main(void)
 	unsigned char	YNvr6iQxs	=	(unsigned char)-1147059585;
     unsigned short    FTh_c5    =    (unsigned short)224116616;
  long long i6g502 = 1702149175;
- short int VQDIzz = 803238344;
+ short int VQDIzz = (short)803238344;
 	long	t_4eq5Xz9b	=	-1555780403;
     double    Rh5AO    =    -1544892709;
     int    YydYh378    =    655653210;

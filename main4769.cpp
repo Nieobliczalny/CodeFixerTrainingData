@@ -40,7 +40,7 @@ int main() {
   long  vf9t9plNM_;
   vf9t9plNM_  =  -544111040;
 	unsigned short int	jite0l;
-	jite0l	=	-1051508983;
+	jite0l	=	(unsigned short)-1051508983;
 	long double	n51_1LaT;
 	n51_1LaT	=	1533139226;
     unsigned short int    kWRzMuZbq9;

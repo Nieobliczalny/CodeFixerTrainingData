@@ -250,7 +250,7 @@ case 'd':
 mwVf51DF = FzLeij492(mwVf51DF, zW8K_c);
 break;
 case 'e':
-HA8x = Rb095y(HA8x, (short)912263694, 345794791);
+HA8x = Rb095y(HA8x, (short)912263694, (unsigned short)345794791);
 break;
 case 'f':
 kh0xd1I2a0 = ldefcA6();
@@ -350,7 +350,7 @@ case 1:
 B1_9h = q7VC4A1(-177038538, (short)-1097724272, (char)-2069944795, (char)262652137, -2084722777);
 break;
 case 2:
-Wv8FB = q7VC4A1(76434401, -609629923, 2001349477, i1b5L_53, -181585582);
+Wv8FB = q7VC4A1(76434401, (short)-609629923, 2001349477, i1b5L_53, -181585582);
 break;
 case 3:
 a_k6fb ^= Fxdpo8nab_;

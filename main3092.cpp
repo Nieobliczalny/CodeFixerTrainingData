@@ -49,7 +49,7 @@ int main(void)
   short  gqxhV46;
   gqxhV46  =  (short)677895290;
   short  uZT4;
-  uZT4  =  355820111;
+  uZT4  =  (short)355820111;
   unsigned short int  DEvFY;
   DEvFY  =  (unsigned short)1721046231;
     unsigned short    e_6k;

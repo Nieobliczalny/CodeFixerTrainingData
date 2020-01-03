@@ -187,7 +187,7 @@ cout << EX_shg2V((short)-1518066288) << xm38Z220F1(PF9Qa) << xm38Z220F1((short)8
 
 PF9Qa %= B5Ad2_w;
 
-cout << xm38Z220F1((short)-2145803726) << Xxn5Z__R7(87223234, eWsjt7K6_G, a_8Ixu, ee65) << endl;
+cout << xm38Z220F1((short)-2145803726) << Xxn5Z__R7((unsigned short)87223234, eWsjt7K6_G, a_8Ixu, ee65) << endl;
 
 try
 {

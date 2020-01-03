@@ -231,7 +231,7 @@ Lb0Nn_PYX = c4Qn6rp((char)-173634377, Lb0Nn_PYX, (unsigned char)-400788119, (sho
 }
 else
 {
-I7pYIN = CRlDR_F6(D5jjg5, 685129094);
+I7pYIN = CRlDR_F6(D5jjg5, (short)685129094);
 }
 }
 }

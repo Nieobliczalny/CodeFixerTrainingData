@@ -41,7 +41,7 @@ int main(int argc, char** argv)
   short int  A7653Yk_  =  (short)1427866887;
     long double    vYkRmPlnX    =    671921691;
     unsigned short int    kS3XG_6    =    (unsigned short)-1974467335;
-  unsigned short  jZ6rOe  =  1122771425;
+  unsigned short  jZ6rOe  =  (unsigned short)1122771425;
 	unsigned int	K8H5dT_	=	324859220;
     float    W4iCT2w_    =    -69338844;
   unsigned short int  HbBwy54m2_  =  -1198559916;
@@ -65,7 +65,7 @@ int main(int argc, char** argv)
  unsigned char x_B40uQ0K = (unsigned char)-211254029;
   unsigned long  lC0dZQgh79  =  783553108;
 	long long	EBX3Yg	=	-1221954328;
-	char	JGX9CbRvBg	=	-140615571;
+	char	JGX9CbRvBg	=	(char)-140615571;
     long long    TzM51qIah2    =    -767005195;
     unsigned long long    ux7pk185qZ    =    970936486;
   short  Zip1WVZRHV  =  (short)-946415345;
@@ -365,7 +365,7 @@ break;
 }
 else if (T4dF_2kuf != -204114334)
 {
-X0q0ABJ = R6w8(Jx4t, 1688578586);
+X0q0ABJ = R6w8(Jx4t, (unsigned short)1688578586);
 }
 else if (Z8lSc & -1512667856)
 {
@@ -444,7 +444,7 @@ v6Zna749R6 = R6w8(vYkRmPlnX, b28T7);
 while (i < 2);
 }
 
-cout << R6w8((short)-1961092625, (unsigned short)-538357172) << fs_rY << R6w8(vYkRmPlnX, (unsigned short)-1778074614) << R6w8(-1283407802, b28T7) << vYkRmPlnX << endl;
+cout << R6w8((short)-1961092625, (unsigned short)-538357172) << fs_rY << R6w8(vYkRmPlnX, (unsigned short)-1778074614) << R6w8((short)-1283407802, b28T7) << vYkRmPlnX << endl;
 
 W4iCT2w_ = (int)ceil(t7_Des);
 cout << R6w8(-942199880, -2056621462) << "M45QCN5" << Jgb3yp3 << "vG4Y_bx" << fs_rY << endl;
@@ -613,7 +613,7 @@ while (j < 9);
 }
 }
 
-cout << R6w8((short)419317210, (unsigned short)-126680844) << R6w8(rq1pGzmT, W5toE) << R6w8((short)229295153, 1172815274) << vuTh << c42V2_Frrh << endl;
+cout << R6w8((short)419317210, (unsigned short)-126680844) << R6w8(rq1pGzmT, W5toE) << R6w8((short)229295153, (unsigned short)1172815274) << vuTh << c42V2_Frrh << endl;
 vYkRmPlnX = (int)abs(N3oNPbc2Sx);
 
 gBV8Q = (int)abs(Jgb3yp3) * 0;

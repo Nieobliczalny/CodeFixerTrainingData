@@ -64,7 +64,7 @@ int main(int argc, char** argv) {
  unsigned short int DnWP1y_b;
  DnWP1y_b = (unsigned short)-1759897155;
 	short	FB32pr66yB;
-	FB32pr66yB	=	168642237;
+	FB32pr66yB	=	(short)168642237;
  int GWm4JQ73M;
  GWm4JQ73M = -1201779960;
 	unsigned int	BOF8;
@@ -102,7 +102,7 @@ int main(int argc, char** argv) {
 	unsigned short	p30QHM;
 	p30QHM	=	(unsigned short)-257512785;
   unsigned short  gonF4_j9;
-  gonF4_j9  =  -819120202;
+  gonF4_j9  =  (unsigned short)-819120202;
     long    Y833;
     Y833    =    468904366;
   long  ZRZuR9;

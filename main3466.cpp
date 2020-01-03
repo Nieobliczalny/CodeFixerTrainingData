@@ -37,7 +37,7 @@ int main(void)
 	long long	aE9iEHhU0A	=	950246276;
 	int	w7qq93s1	=	0;
  char K3RlL3LO = (char)1401740161;
-	char	T626	=	314232625;
+	char	T626	=	(char)314232625;
 	unsigned short	TNAWH	=	(unsigned short)-229760763;
 	unsigned long long	W9dN1	=	1378585337;
     double    q88Bf1X3rz    =    400971164;

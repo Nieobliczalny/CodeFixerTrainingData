@@ -365,7 +365,7 @@ qx7mx75 = X7_6h(ApS879z74, (unsigned short)1119695053);
 break;
 case 'd':
 case 'D':
-GECzUvC = k2ht(GECzUvC, -1107063452, -1621923500);
+GECzUvC = k2ht(GECzUvC, -1107063452, (short)-1621923500);
 break;
 case 'e':
 case 'E':

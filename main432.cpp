@@ -42,7 +42,7 @@ int main()
   int  qw4SJg2  =  -532082482;
  unsigned long zn6n = -839118025;
     unsigned long long    txt00a    =    -2016604187;
-    short    ji4xbriQc    =    29357296;
+    short    ji4xbriQc    =    (short)29357296;
  double vfuz = -992223478;
 	long long	nfprClW	=	893118548;
   double  nxPsS5h2  =  -1339326179;
@@ -56,7 +56,7 @@ int main()
  unsigned char ni2r_to = (unsigned char)718590380;
   unsigned short int  n561f  =  (unsigned short)-1563413417;
   long long  XVnln7KY  =  1518162318;
- short int ysVmLLc = -1818578205;
+ short int ysVmLLc = (short)-1818578205;
  unsigned long wz7V7z = -1254623618;
     short    T8N1_1a4B_    =    (short)-594711313;
 	short	Swh51euw	=	0;
@@ -73,7 +73,7 @@ int main()
  unsigned long long W03f = 1011483011;
     short int    zAcARFk    =    (short)1111568530;
  unsigned int nOt_ = 730453078;
-	short int	itBP1_e79	=	1149077263;
+	short int	itBP1_e79	=	(short)1149077263;
  short jAxTLm2StB = 1302038199;
  unsigned short int loRocS = (unsigned short)-1678549437;
 	double	PE9Wa0_1X	=	-200848361;
@@ -97,7 +97,7 @@ int main()
 	unsigned short	nmpPF	=	(unsigned short)881069731;
   short int  aH6E  =  (short)-1566828070;
     unsigned short int    k7a7    =    (unsigned short)-1560980330;
-    char    Hka_flN    =    -1178201770;
+    char    Hka_flN    =    (char)-1178201770;
   int  hpKBb8  =  -702236636;
 	unsigned char	J0G_9	=	-750586252;
     long long    enUIF8    =    1525301058;
@@ -110,7 +110,7 @@ int main()
  short Mb29Ldw = (short)-1892894961;
   short int  BC20huAhB  =  (short)-966818213;
  int dt8FSCdwF = -1630662000;
-  unsigned char  k3i5i9L4  =  2114467755;
+  unsigned char  k3i5i9L4  =  (unsigned char)2114467755;
     unsigned short int    tack    =    -1246471969;
     short int    k17I7s    =    1347846546;
  unsigned short lCCdP2 = 114752738;
@@ -120,7 +120,7 @@ int main()
  short xU0r = (short)5018845;
     char    L5IWx    =    (char)1104798362;
  int Lz4LWx = -2128399375;
-	char	C1zA	=	-1490356162;
+	char	C1zA	=	(char)-1490356162;
     float    sP97p101    =    1751500763;
 	unsigned short	HxtZ99SM	=	0;
   short int  U_KHnmQe  =  -2143982227;

@@ -173,7 +173,7 @@ cout << "fmA6" << C6KCLX << endl;
 }
 else if (((xgpXPV2) && (ZD6X != n2a7KIufwm)) && ((CVp9aA0) && (c5k8E8p <= cG5X3u)))
 {
-cout << hja0zk25 << i4u6 << Y_aYSfuji << "z_TD7" << xw_3P8Y5L_((unsigned short)2061149609, 810959397) << endl;
+cout << hja0zk25 << i4u6 << Y_aYSfuji << "z_TD7" << xw_3P8Y5L_((unsigned short)2061149609, (short)810959397) << endl;
 }
 else if (FB_rd1t)
 {

@@ -156,7 +156,7 @@ else
 G7CmC_kP = l0fEQ2R(-1781005348, v3WiHXdo1, (char)-1814249377);
 }
 }
-std::cout << "Ss_aVx_5M" << azt3fLWJ9(-685888496, -444794696) << std::endl;
+std::cout << "Ss_aVx_5M" << azt3fLWJ9(-685888496, (short)-444794696) << std::endl;
 
 g7KU7 &= 712684366;
 

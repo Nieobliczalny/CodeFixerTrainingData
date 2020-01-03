@@ -215,7 +215,7 @@ int k = 6;
 do
 {
 k--;
-V9tDm = rLj_MgV((short)-896171877, V9tDm, 666539715);
+V9tDm = rLj_MgV((short)-896171877, V9tDm, (unsigned char)666539715);
 }
 while (k >= 0);
 }

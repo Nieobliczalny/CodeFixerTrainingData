@@ -494,7 +494,7 @@ case 2:
 ce9zKeT = (kCmVVp3BiD & -1226329787) ? JaIMz0PGUk : (short)55207342;
 break;
 case 3:
-T9E04u = h517(-2143288002, o5zU34Lb2Q, vmZNK5Bu);
+T9E04u = h517((unsigned short)-2143288002, o5zU34Lb2Q, vmZNK5Bu);
 break;
 default:
 ePb8_zJ0 = pnjBD6 ^ 624721405;

@@ -87,7 +87,7 @@ int main(int argc, char** argv) {
  short int xja889n;
  xja889n = (short)594429279;
   char  O84YTw;
-  O84YTw  =  1923348114;
+  O84YTw  =  (char)1923348114;
  unsigned long long pt7twb1;
  pt7twb1 = 2109518828;
   double  mMT1c;

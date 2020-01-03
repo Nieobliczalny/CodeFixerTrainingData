@@ -67,7 +67,7 @@ int main() {
 	short	Uf_915_ew;
 	Uf_915_ew	=	(short)-803913118;
   unsigned char  sc77C;
-  sc77C  =  -528913060;
+  sc77C  =  (unsigned char)-528913060;
 	unsigned char	wf4Rk4;
 	wf4Rk4	=	(unsigned char)-285210074;
 	unsigned short int	U0ak5Ltv;

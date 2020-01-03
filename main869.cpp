@@ -110,7 +110,7 @@ int main(void) {
     unsigned char    yy9D1V7;
     yy9D1V7    =    (unsigned char)900721270;
     short    bVKUEgyDsr;
-    bVKUEgyDsr    =    -2056260730;
+    bVKUEgyDsr    =    (short)-2056260730;
 	short	u0_g0;
 	u0_g0	=	(short)1329639135;
  unsigned long Pq0x2Bg;
@@ -130,7 +130,7 @@ int main(void) {
   float  Pty24hC3;
   Pty24hC3  =  -1143706486;
     char    VZmRwQLD;
-    VZmRwQLD    =    952786220;
+    VZmRwQLD    =    (char)952786220;
   char  vwfd_T73Q;
   vwfd_T73Q  =  (char)243256163;
   double  MB71;

@@ -20,7 +20,7 @@ int main(int argc, char** argv)
 	unsigned long	TZ21r	=	-1142523475;
  unsigned short w2_x_ = (unsigned short)-1281242778;
   short  ltcKSQrda2  =  0;
- unsigned char g2dGiACn4 = -230291001;
+ unsigned char g2dGiACn4 = (unsigned char)-230291001;
 	float	f38vrxAN8	=	1822651904;
   unsigned long  oNTP  =  408352534;
  double I38ty3F = 276143068;
@@ -57,7 +57,7 @@ int main(int argc, char** argv)
   unsigned long long  dBgq  =  153209825;
  unsigned long long j__BIq = -297644916;
   unsigned short  IVfqw  =  0;
-    unsigned char    jDN2c    =    -1314404400;
+    unsigned char    jDN2c    =    (unsigned char)-1314404400;
 
 if (jPYl)
 {

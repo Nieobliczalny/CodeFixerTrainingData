@@ -108,7 +108,7 @@ int main() {
 	unsigned short	K40ltalxI_;
 	K40ltalxI_	=	(unsigned short)1820499116;
   short  k_V_5;
-  k_V_5  =  1992046774;
+  k_V_5  =  (short)1992046774;
   int  g7J6R7rH9;
   g7J6R7rH9  =  0;
 	unsigned long	rm38hp;
@@ -277,7 +277,7 @@ zazVioFGK = uFdL(O67P9gT6f, (unsigned short)806372077, h_lXF_J5_);
 }
 else
 {
-z8sL_zcYyV = uFdL(z8sL_zcYyV, N6Ujrurr9, -2023629287);
+z8sL_zcYyV = uFdL(z8sL_zcYyV, N6Ujrurr9, (unsigned short)-2023629287);
 }
 my44k = (int)abs(CR9zr7);
 for (int i = 8; i >= 0; --i)

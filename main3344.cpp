@@ -75,7 +75,7 @@ int main()
   short int  trUf9A;
   trUf9A  =  (short)1093648981;
     unsigned char    ky07yJEJ8;
-    ky07yJEJ8    =    962220687;
+    ky07yJEJ8    =    (unsigned char)962220687;
     unsigned long    TS61Q5Y;
     TS61Q5Y    =    -1143222972;
   double  Y1375rlY;
@@ -209,7 +209,7 @@ DkaaEeNu = H7WV6b(DkaaEeNu, Kak5WHK5, (char)378351863, V1r8kW1);
 break;
 case 'g':
 case 'G':
-ZU714 = H7WV6b(-2122497193, (char)-1567701965, -784449458, hY9Zpwh);
+ZU714 = H7WV6b(-2122497193, (char)-1567701965, (char)-784449458, hY9Zpwh);
 break;
 case 'h':
 case 'H':
@@ -277,7 +277,7 @@ if (tp9EEEpgK >= -1135779232)
 {
 for (int j = 5; j >= 0; j--)
 {
-cout << M0GBu((char)-1656636908, (char)-617952212) << n5yuy506f << H7WV6b(zO5gmo4, (char)-2014146319, Ivk5, v8EF3BB1mR) << M0GBu(472069788, -170497825) << endl;
+cout << M0GBu((char)-1656636908, (char)-617952212) << n5yuy506f << H7WV6b(zO5gmo4, (char)-2014146319, Ivk5, v8EF3BB1mR) << M0GBu((char)472069788, -170497825) << endl;
 }
 }
 else if (nKxH > -781559377)
@@ -379,7 +379,7 @@ case 2:
 wP_e3yp5 = (int)abs(Kak5WHK5);
 break;
 case 3:
-Tl2WaQ0b_e = M0GBu((char)-926062687, -1645977625);
+Tl2WaQ0b_e = M0GBu((char)-926062687, (char)-1645977625);
 break;
 case 4:
 pJ2KE89t9 = (int)ceil(P31JI);

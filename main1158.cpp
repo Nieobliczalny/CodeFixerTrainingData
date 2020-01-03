@@ -26,7 +26,7 @@ int main(void)
 
 X50zSv = g0O36hUvV((short)-1581660274, B74x14, (short)1052947759);
 
-cout << ETMjRrc << g0O36hUvV((short)-1081630241, -814471152, 1668354389) << endl;
+cout << ETMjRrc << g0O36hUvV((short)-1081630241, (unsigned char)-814471152, 1668354389) << endl;
 for (int i = 2; i >= 0; --i)
 {
 cout << vorK1T() << endl;
@@ -90,7 +90,7 @@ u30JYDc39C &= 126987910;
 break;
 case 'c':
 case 'C':
-L7fsv6s = wDaAA94(-575706275, VC6FtwG3U4, MeM7il, (short)-1170339863, -260980518);
+L7fsv6s = wDaAA94(-575706275, VC6FtwG3U4, MeM7il, (short)-1170339863, (unsigned char)-260980518);
 break;
 }
 
@@ -236,7 +236,7 @@ else
 switch (szC3gG690q)
 {
 case 0:
-L7fsv6s = wDaAA94(-51210358, (short)-1143022163, zUF09U11re, VC6FtwG3U4, -1566783263);
+L7fsv6s = wDaAA94(-51210358, (short)-1143022163, zUF09U11re, VC6FtwG3U4, (unsigned char)-1566783263);
 break;
 case 1:
 YZp_510HFo = (int)abs(WLyJ);
@@ -314,7 +314,7 @@ case 'd':
 ao3Q_S = yxh3S + BW6BvME4u;
 break;
 case 'e':
-B74x14 = wDaAA94(K_6YshDj8, -1127884401, -983775568, hNT_U, szC3gG690q);
+B74x14 = wDaAA94(K_6YshDj8, (short)-1127884401, -983775568, hNT_U, szC3gG690q);
 break;
 case 'f':
 DM78Yn = (int)abs(u30JYDc39C);
@@ -506,7 +506,7 @@ default:
 WLyJ = cVii6f4r % 532075810;
 break;
 }
-cout << wDaAA94(-594669594, (short)-1079269649, -1288855013, TH9_p, (unsigned char)-1746592174) << oMK46AwL << TH9_p << g0O36hUvV((short)-1673631629, szC3gG690q, u30JYDc39C) << wDaAA94(-622146707, 1794958249, u30JYDc39C, TH9_p, VC6FtwG3U4) << endl;
+cout << wDaAA94(-594669594, (short)-1079269649, -1288855013, TH9_p, (unsigned char)-1746592174) << oMK46AwL << TH9_p << g0O36hUvV((short)-1673631629, szC3gG690q, u30JYDc39C) << wDaAA94(-622146707, (short)1794958249, u30JYDc39C, TH9_p, VC6FtwG3U4) << endl;
 
 switch (o4_K)
 {

@@ -31,7 +31,7 @@ int main(void) {
   double  n9m8  =  868497049;
  long long UtdETUL = 1099177683;
  unsigned short int GELO83 = (unsigned short)-1466183476;
-  char  f4fBuD  =  -1727385418;
+  char  f4fBuD  =  (char)-1727385418;
   unsigned long long  wD94Wv80  =  1922984945;
 	unsigned char	PMt14nOz	=	(unsigned char)1436806289;
  double GAMO = -1456226735;
@@ -45,7 +45,7 @@ int main(void) {
  float h9m41 = 1437331649;
     short    zO7Ofo09e    =    (short)1434203059;
 	unsigned short	f8mi	=	(unsigned short)-1420470898;
-	short int	nh3_lt5	=	-1871128554;
+	short int	nh3_lt5	=	(short)-1871128554;
  unsigned short AnER = -1869751393;
 	char	IZgS	=	-245030488;
     short    h_AXvrrieP    =    -2122094742;
@@ -63,7 +63,7 @@ int main(void) {
  unsigned long I8vS = -914867807;
 	unsigned short	LY8L	=	(unsigned short)1460304316;
   unsigned char  R_5A_c_0  =  (unsigned char)656249404;
- short int slDxE8 = 1908212814;
+ short int slDxE8 = (short)1908212814;
  unsigned int F6gW6pkPfl = -1334821875;
 	unsigned int	CP33M3wV	=	-1700923930;
     short int    j8Jj1_Kv    =    270303802;
@@ -114,7 +114,7 @@ I8vS = WnrNogW55U();
 int i = 10;
 do
 {
-std::cout << "CJCWw" << f70Xm((short)967963907, (short)228110883, (char)-1378295204) << D8vD4IF3(477365459, -1350756722, IZgS, 194621344, 1663280221) << WnrNogW55U() << WRVf2N7x << std::endl;
+std::cout << "CJCWw" << f70Xm((short)967963907, (short)228110883, (char)-1378295204) << D8vD4IF3((short)477365459, -1350756722, IZgS, 194621344, 1663280221) << WnrNogW55U() << WRVf2N7x << std::endl;
 --i;
 }
 while (i >= 0);

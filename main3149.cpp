@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
  unsigned short FlCO9i_zy;
  FlCO9i_zy = 0;
 	char	xWIo0;
-	xWIo0	=	4018293;
+	xWIo0	=	(char)4018293;
  long long cJ51mvP;
  cJ51mvP = -1851708332;
 	unsigned short	Jt6SR;

@@ -25,7 +25,7 @@ int main(void)
 	unsigned short	FSM01	=	(unsigned short)-1008413297;
  unsigned int I3mbC = -749139189;
 	int	G82H6PK8_	=	1137467702;
- short lh37_2B7 = -1260671830;
+ short lh37_2B7 = (short)-1260671830;
   short int  R499  =  -665521725;
     unsigned long    O9st7    =    1476468850;
 	unsigned long long	L7jfK	=	1555399090;
@@ -35,7 +35,7 @@ int main(void)
  unsigned int zsI_5Ul9 = 535279605;
   short int  J3Ncq  =  (short)1669625549;
  unsigned int fNi1OSP = 30553194;
-  unsigned short  DNHB4c2F  =  -928297642;
+  unsigned short  DNHB4c2F  =  (unsigned short)-928297642;
  unsigned long PE2__HC0oM = 169467837;
   char  j_6Pv  =  1274807925;
  unsigned int bCt9W = -123752684;

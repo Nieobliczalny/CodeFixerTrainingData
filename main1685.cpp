@@ -23,7 +23,7 @@ int main(int argc, char** argv) {
   unsigned short  XAC2  =  (unsigned short)-1910102842;
 	long long	v6M5_vN	=	132438281;
  unsigned short i1oe_04 = (unsigned short)-1427625955;
- short int CgZDEs8m = -1202412521;
+ short int CgZDEs8m = (short)-1202412521;
  long long RIUr62j = 515321684;
  unsigned short int S0h9YO = 657614715;
   unsigned long  r71x  =  302401526;

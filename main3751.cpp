@@ -29,7 +29,7 @@ int main(void) {
  short int gR3L2wFzE5 = (short)939157247;
  unsigned char Tv34O_sxy = (unsigned char)-1089763186;
 	long long	LQtHtu8	=	-296247214;
-  short int  S1v2a0A  =  998646598;
+  short int  S1v2a0A  =  (short)998646598;
     unsigned long long    Uj682v    =    577973127;
     char    RdLMf_    =    -1459732555;
 	unsigned char	OG2C7LR_92	=	316840413;
@@ -91,7 +91,7 @@ case 2:
 LQtHtu8 = gR3L2wFzE5 & 738011894;
 break;
 case 3:
-AP_77 = lVe1C(-2024845906, -1902302410, (unsigned short)332127429, 525052959);
+AP_77 = lVe1C(-2024845906, -1902302410, (unsigned short)332127429, (short)525052959);
 break;
 case 4:
 RdLMf_ = lVe1C(RdLMf_, LQtHtu8, (unsigned short)-299953802, (short)2005530928);

@@ -54,7 +54,7 @@ int main() {
 	unsigned short	kcfl;
 	kcfl	=	(unsigned short)-1943499697;
 	unsigned short int	AL1gzhpa;
-	AL1gzhpa	=	-1988055565;
+	AL1gzhpa	=	(unsigned short)-1988055565;
 	long double	Z975;
 	Z975	=	-844629681;
   short int  HcMbYCIay;

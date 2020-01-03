@@ -38,7 +38,7 @@ int main(void) {
     unsigned long long    XEpL    =    -1247153762;
     unsigned short    Pa7aBx20    =    0;
 	char	ggL450H	=	(char)1802844989;
-    unsigned char    j33f9t    =    301585997;
+    unsigned char    j33f9t    =    (unsigned char)301585997;
   unsigned long long  j8_pMV65kq  =  -1212179982;
   float  SVr2Z0di  =  631758861;
  unsigned long long VX2xS_ = -1211201031;
@@ -587,7 +587,7 @@ std::cout << "cw5_g" << "S4dik" << DGEgANGIej(XEpL, -1675632173, 849009798, VX2x
 }
 else
 {
-std::cout << DGEgANGIej(XEpL, 725686783, 2071050232, 1853321000, -1560124199) << wV963zr(XEpL, ggL450H, Pa7aBx20) << "Ppcb" << "f4v3o6b8H4" << std::endl;
+std::cout << DGEgANGIej(XEpL, 725686783, 2071050232, 1853321000, (short)-1560124199) << wV963zr(XEpL, ggL450H, Pa7aBx20) << "Ppcb" << "f4v3o6b8H4" << std::endl;
 }
 
 if (SVr2Z0di <= -930628131)

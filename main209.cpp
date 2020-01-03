@@ -51,7 +51,7 @@ int main() {
     unsigned short    a107b482;
     a107b482    =    (unsigned short)93675944;
   short int  ehWK0h9;
-  ehWK0h9  =  469961575;
+  ehWK0h9  =  (short)469961575;
     unsigned short    EQ_GfGd;
     EQ_GfGd    =    -1662366507;
   unsigned char  W8d5h;

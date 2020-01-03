@@ -102,7 +102,7 @@ int main() {
   unsigned short int  EPt7Il;
   EPt7Il  =  (unsigned short)-345651511;
     short int    p_AygHz3O4;
-    p_AygHz3O4    =    1367697954;
+    p_AygHz3O4    =    (short)1367697954;
   long long  JZN94w;
   JZN94w  =  -561481324;
 	unsigned int	QPws18;

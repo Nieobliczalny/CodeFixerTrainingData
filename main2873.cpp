@@ -43,7 +43,7 @@ case 0:
 itI8SD5Vw5 = A1GLo_L3((unsigned char)1114728118, (unsigned char)172853503, itI8SD5Vw5, kPw7lH);
 break;
 case 1:
-l7jLui = A1GLo_L3((unsigned char)1190495654, 859953483, F_d22, 1553532999);
+l7jLui = A1GLo_L3((unsigned char)1190495654, (unsigned char)859953483, F_d22, 1553532999);
 break;
 case 2:
 DvrJ--;
@@ -456,7 +456,7 @@ if (Z2T58dK != Kg_SoYke)
 {
 cout << A1GLo_L3((unsigned char)1354099355, X4FEYSoI, -1923553288, O4wK) << X4FEYSoI << CGt287675G << endl;
 }
-cout << "w1bQ_i32Wq" << TCYv0bK_9k << FiK1 << A1GLo_L3(-771384373, 1584995569, 90471102, -87359451) << LK58UwV << endl;
+cout << "w1bQ_i32Wq" << TCYv0bK_9k << FiK1 << A1GLo_L3((unsigned char)-771384373, 1584995569, 90471102, -87359451) << LK58UwV << endl;
 
 switch (Udi_da217G)
 {

@@ -104,7 +104,7 @@ int main(void) {
 	unsigned char	N0dk;
 	N0dk	=	(unsigned char)419385329;
  unsigned short int Z9EGc;
- Z9EGc = 327002171;
+ Z9EGc = (unsigned short)327002171;
  long long v6072Nu;
  v6072Nu = 754989646;
     char    T4pjOYcV;
@@ -140,7 +140,7 @@ int main(void) {
   char  n8_GI;
   n8_GI  =  (char)1598599349;
     short int    J687RsQq;
-    J687RsQq    =    -360766212;
+    J687RsQq    =    (short)-360766212;
  unsigned long long LCR5M;
  LCR5M = 9199647;
     float    eGBUQKlH7;

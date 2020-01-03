@@ -54,7 +54,7 @@ int main(void) {
   short int  gc24E_y66;
   gc24E_y66  =  (short)213936805;
     short int    Ok6I;
-    Ok6I    =    -697377338;
+    Ok6I    =    (short)-697377338;
     long    Q1iRx;
     Q1iRx    =    -471095374;
     long double    xO3R8_1;
@@ -148,7 +148,7 @@ int main(void) {
   unsigned long  MwPNe;
   MwPNe  =  1745386385;
     short    AB7Uc5;
-    AB7Uc5    =    1712959209;
+    AB7Uc5    =    (short)1712959209;
   short int  iqgbNw6mO;
   iqgbNw6mO  =  (short)-1553788601;
  short K875UQ4_;

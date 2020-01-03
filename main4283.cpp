@@ -82,7 +82,7 @@ int main() {
   short int  W3Yn_ud4;
   W3Yn_ud4  =  (short)-1865550697;
 	unsigned short	x787f;
-	x787f	=	1194842462;
+	x787f	=	(unsigned short)1194842462;
   unsigned int  q7jL;
   q7jL  =  475020231;
  float ZSV3H_07MO;
@@ -96,7 +96,7 @@ int main() {
   short int  X5i4OGFTwB;
   X5i4OGFTwB  =  (short)-500169137;
 	short int	Oc33jd;
-	Oc33jd	=	1854378661;
+	Oc33jd	=	(short)1854378661;
   long  I_72i_4Eks;
   I_72i_4Eks  =  -1137743128;
   float  UhouE;

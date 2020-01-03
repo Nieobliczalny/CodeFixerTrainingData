@@ -486,7 +486,7 @@ sE1d2hM2HT = Mw3_((unsigned char)-268605169, (short)-1735692564, v0Dkx8cC);
 }
 else if ((sB395d1y < gI41) || ((L_ahtChl < OZTJhmoA) || (QHfk0c)))
 {
-sE1d2hM2HT = Mw3_((unsigned char)2028480962, -292282173, jBV5X2Yu4);
+sE1d2hM2HT = Mw3_((unsigned char)2028480962, (short)-292282173, jBV5X2Yu4);
 }
 else
 {

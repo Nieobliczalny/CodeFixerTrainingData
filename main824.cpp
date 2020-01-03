@@ -23,7 +23,7 @@ int main() {
   CcdNjDK  =  (short)-566066282;
   r_joC  =  (short)-1661423059;
   L_24  =  (short)-1795372670;
-  pX7Eo27KU  =  1743397719;
+  pX7Eo27KU  =  (short)1743397719;
   lHxkJlrPs  =  1647233647;
   Qh4j  =  -1300691086;
   XX0Db6iWa  =  117475177;
@@ -507,7 +507,7 @@ while (i >= 0);
 }
 
 cout << IL5rq8oxp0((short)-868351912) << IL5rq8oxp0(XX0Db6iWa) << ccnd_C(XX0Db6iWa, I7wertX) << "Z386LxO_" << endl;
-cout << "BAr5k6Gn" << Fhu2((short)89022294) << Iqk6HF << IL5rq8oxp0((short)638591297) << ccnd_C(XX0Db6iWa, -576941677) << endl;
+cout << "BAr5k6Gn" << Fhu2((short)89022294) << Iqk6HF << IL5rq8oxp0((short)638591297) << ccnd_C(XX0Db6iWa, (char)-576941677) << endl;
 {
 int i = 0;
 while (i < 7)

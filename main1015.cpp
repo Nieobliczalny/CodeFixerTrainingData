@@ -139,7 +139,7 @@ case 4:
 T8t14 = r_2aE2rDy4(T8t14, (short)-246852955, (short)667176176);
 break;
 case 5:
-W12yB0w7 = Pgpf_rWKLW(-1807559653, -373987994, M157Xhab1, -1724911131);
+W12yB0w7 = Pgpf_rWKLW(-1807559653, (char)-373987994, M157Xhab1, -1724911131);
 break;
 case 6:
 M157Xhab1 = up9h % 1992190436;

@@ -340,7 +340,7 @@ else
 {
 std::cout << "xk18HXZ" << IPcJH22 << "PyPMh5IU81" << Xu68(yiAZ_2o, (short)1409127336, (short)1610260071, t0cXnb, evqc27T_) << std::endl;
 }
-std::cout << C4766j(yiAZ_2o) << Xu68(yiAZ_2o, (short)160720095, -1834171772, -1098476311, 1118254467) << "B9Nr" << Xu68(yiAZ_2o, -1153649965, -1386978633, -1618063849, -1645864529) << std::endl;
+std::cout << C4766j(yiAZ_2o) << Xu68(yiAZ_2o, (short)160720095, (short)-1834171772, -1098476311, 1118254467) << "B9Nr" << Xu68(yiAZ_2o, -1153649965, -1386978633, -1618063849, -1645864529) << std::endl;
 
 if (kAg2dVUy0 < qh1jJUD_fq)
 {

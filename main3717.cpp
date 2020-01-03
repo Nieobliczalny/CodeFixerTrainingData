@@ -80,7 +80,7 @@ int main(int argc, char** argv)
   unsigned short  kSh4_CCxzT;
   kSh4_CCxzT  =  (unsigned short)647108713;
   unsigned char  e_BU_;
-  e_BU_  =  -125909629;
+  e_BU_  =  (unsigned char)-125909629;
 	unsigned long	fOG_KTq;
 	fOG_KTq	=	1290867489;
  unsigned long U5TZtWYXU;
@@ -212,7 +212,7 @@ else if (jb3ecC)
 {
 if (Q3xs >= -1972894681)
 {
-std::cout << qy3Wk << BqHc0q9dM2(fY50, HY62, odwd7Kfn86, (short)-1502887141) << L9mL2WD59(2048986942, HY62, (short)-1329381513, rElq9J08rB) << lv4P << L9mL2WD59(fY50, 66213931, odwd7Kfn86, rElq9J08rB) << std::endl;
+std::cout << qy3Wk << BqHc0q9dM2(fY50, HY62, odwd7Kfn86, (short)-1502887141) << L9mL2WD59(2048986942, HY62, (short)-1329381513, rElq9J08rB) << lv4P << L9mL2WD59(fY50, (char)66213931, odwd7Kfn86, rElq9J08rB) << std::endl;
 }
 else if (kSh4_CCxzT != Q3xs)
 {
@@ -307,7 +307,7 @@ case 4:
 fOG_KTq = L9mL2WD59(-18740842, (char)2003009195, XcxIc9, ZgbVO);
 break;
 case 5:
-Oc1c = L9mL2WD59(591455429, (char)1145995488, (short)-228649767, 1065647821);
+Oc1c = L9mL2WD59(591455429, (char)1145995488, (short)-228649767, (char)1065647821);
 break;
 case 6:
 Yc74F = (int)floor(YMKN);
@@ -434,7 +434,7 @@ case 2:
 XcxIc9 = (int)ceil(T30Wrgz);
 break;
 case 3:
-YMKN = L9mL2WD59(-770744402, (char)-498868651, -107955003, MLt8);
+YMKN = L9mL2WD59(-770744402, (char)-498868651, (short)-107955003, MLt8);
 break;
 case 4:
 HY62 = L9mL2WD59(-500908334, jTF00x, 1807058849, -1845308108);
@@ -538,7 +538,7 @@ PoPgU7Y92 = BqHc0q9dM2(-1277221887, PQmp3ZKNu, (char)-1921035899, (short)-102856
 }
 else
 {
-odwd7Kfn86 = L9mL2WD59(-1370124362, (char)164853640, C5Gtk0_1b, -390334250);
+odwd7Kfn86 = L9mL2WD59(-1370124362, (char)164853640, C5Gtk0_1b, (char)-390334250);
 }
 
 try

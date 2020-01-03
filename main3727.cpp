@@ -317,7 +317,7 @@ case 3:
 Ro3dc8Sp = r6FErdRZ67(Ro3dc8Sp, (unsigned short)-1688971217);
 break;
 case 4:
-FZTO9 = ZI31L51cv(FZTO9, 1776954090);
+FZTO9 = ZI31L51cv(FZTO9, (unsigned short)1776954090);
 break;
 case 5:
 ac70h = oe48du(rPCV8PZOe2, -1143927086, ac70h, dL5QE1, tdJ16);
@@ -352,7 +352,7 @@ hh6Jt9UO = ZI31L51cv((short)-434833236, Lm78CzUd);
 break;
 }
 
-rPCV8PZOe2 = r6FErdRZ67((unsigned char)-824825047, -1467190360);
+rPCV8PZOe2 = r6FErdRZ67((unsigned char)-824825047, (unsigned short)-1467190360);
 for (int i = 0; i < 2; ++i)
 {
 for (int j = 0; j < 1; j++)

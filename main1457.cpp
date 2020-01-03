@@ -29,7 +29,7 @@ int main()
   unsigned long long  s95c2M  =  1218632360;
  unsigned long p5nm1_ = 1892957744;
     char    y9Pdvyyw    =    (char)-1268736185;
-    short    iWVP2wS    =    -2123150850;
+    short    iWVP2wS    =    (short)-2123150850;
  short Q10GOogG = (short)-1539819435;
  unsigned long long LD_wxU = -1775689116;
     unsigned short    dmFX2EEY    =    0;
@@ -46,7 +46,7 @@ int main()
 	short int	JG5xf_	=	0;
   double  NVOf2ctcV  =  1118974299;
   short int  b5q6uJW6d  =  (short)-1381682006;
- unsigned char s1QOtLO1gc = -735904476;
+ unsigned char s1QOtLO1gc = (unsigned char)-735904476;
  unsigned short xAmB = -728389119;
     double    ru4nn4_Q    =    -724858867;
   char  kFMF  =  (char)-1679173541;
@@ -57,7 +57,7 @@ int main()
 	long double	x60zrjr43L	=	202701287;
 	short	c_jS9_2g	=	(short)-817097974;
   float  T8c8NKse  =  41670010;
-    short    T3wuugww    =    144984838;
+    short    T3wuugww    =    (short)144984838;
  unsigned char DX54x16Oo = -1503564602;
  unsigned short int qDBtGHiR = (unsigned short)-1795761332;
 	short	KSXOI	=	-1885054355;
@@ -67,7 +67,7 @@ int main()
 	short	GeVWd72A	=	(short)-841057169;
 	short	GAHf6Z0MGM	=	(short)-1413205796;
 	long long	AoTSII	=	0;
- unsigned char Cdnv = 1101776352;
+ unsigned char Cdnv = (unsigned char)1101776352;
   unsigned int  AUJ3HyM  =  -134647209;
     long long    JL2v    =    877787592;
     long long    VU_j    =    -1349005154;
@@ -104,7 +104,7 @@ int main()
     unsigned int    K_9WJX637Y    =    64829768;
 	short int	rldis8	=	(short)331928741;
  unsigned long l28o_20Oj = -1425736717;
- char vCIcZxA196 = -1385686388;
+ char vCIcZxA196 = (char)-1385686388;
 	unsigned short	BO4H01	=	-605554332;
     unsigned short    DVo_2k55lX    =    (unsigned short)491603588;
     unsigned char    bPRW    =    -144061280;
@@ -280,7 +280,7 @@ for (int i = 10; i >= 0; --i)
 {
 dmFX2EEY = Dmr9fa(-1382670, a35XT7HVy, (unsigned char)-778163249, (short)201530355);
 }
-cout << RH3H2_8v(kU55, -746218006, -1188877195, AC2RX7Dp1) << "Lj_0d25Mv" << "o0tLwoqdS3" << Dmr9fa(-1531427806, a35XT7HVy, (unsigned char)-47740472, -328567134) << endl;
+cout << RH3H2_8v(kU55, -746218006, -1188877195, AC2RX7Dp1) << "Lj_0d25Mv" << "o0tLwoqdS3" << Dmr9fa(-1531427806, a35XT7HVy, (unsigned char)-47740472, (short)-328567134) << endl;
 
 JG5xf_ = (short int)(UIA1Z);
 

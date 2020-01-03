@@ -126,7 +126,7 @@ int main(int argc, char** argv)
  unsigned int gy2UYq;
  gy2UYq = -1152418266;
  char Ns6ftlxu1;
- Ns6ftlxu1 = -1193731117;
+ Ns6ftlxu1 = (char)-1193731117;
   long double  C86CamwqPp;
   C86CamwqPp  =  -1425626599;
 	char	qyeV;
@@ -164,7 +164,7 @@ int main(int argc, char** argv)
     short int    AlRh;
     AlRh    =    (short)2029185672;
  short int TdwgtsHh;
- TdwgtsHh = -1963110742;
+ TdwgtsHh = (short)-1963110742;
 	short int	VOe_KbNLt;
 	VOe_KbNLt	=	-1938191708;
     unsigned long long    q4_3;

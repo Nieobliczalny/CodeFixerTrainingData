@@ -19,7 +19,7 @@ int main() {
     short int    vNRb8e    =    (short)1987367027;
   char  a8w0E_THDq  =  (char)620964480;
     unsigned short    ES_UFdXJr    =    (unsigned short)1372213483;
-    short int    HMZ6    =    93841302;
+    short int    HMZ6    =    (short)93841302;
     int    b678I1f4uZ    =    504874218;
     float    F1Luse    =    1512044965;
 	unsigned int	J_0L7o	=	-1818134857;
@@ -44,7 +44,7 @@ int main() {
     unsigned long long    V_xTHF    =    -1551509255;
     long double    JP9UvU    =    534213053;
     short    DpH_lJRZE    =    (short)-827220217;
-  short int  QogeF  =  1927196363;
+  short int  QogeF  =  (short)1927196363;
     int    PzB0d9_s7    =    -1880748037;
  unsigned char Cr4_xTD_E5 = (unsigned char)-2018606008;
 	unsigned short	wHm1B	=	1140757171;

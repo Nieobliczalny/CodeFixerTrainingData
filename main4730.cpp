@@ -33,7 +33,7 @@ int main(int argc, char** argv)
  long long EWfA_lznK;
  EWfA_lznK = 0;
   unsigned short  ZpS9;
-  ZpS9  =  -246087574;
+  ZpS9  =  (unsigned short)-246087574;
 	double	MXlxf8H4Q;
 	MXlxf8H4Q	=	-133316896;
  long UhKGFr_91G;
@@ -68,7 +68,7 @@ UhKGFr_91G = z3V85((char)2005720680, (char)1941500028, (short)-1336497126);
 break;
 case 'e':
 case 'E':
-EWfA_lznK = x51g1(EWfA_lznK, ts1TW73S, 768569308);
+EWfA_lznK = x51g1(EWfA_lznK, ts1TW73S, (short)768569308);
 break;
 case 'f':
 case 'F':
@@ -346,7 +346,7 @@ case 'a':
 aGzhe = qoqD2zsyvc((unsigned short)-1693691631, (short)-1016424167, (char)1499056926);
 break;
 default:
-aGzhe = axr9GHk1xT(aGzhe, 793376069, -759176638) & 997808182;
+aGzhe = axr9GHk1xT(aGzhe, 793376069, (unsigned short)-759176638) & 997808182;
 break;
 }
 }

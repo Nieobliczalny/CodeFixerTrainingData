@@ -36,7 +36,7 @@ int main(int argc, char** argv) {
     short int    DxOUM5zN;
     DxOUM5zN    =    (short)-835171668;
  short jI3Lv61;
- jI3Lv61 = -593957491;
+ jI3Lv61 = (short)-593957491;
 	unsigned char	M5v4O;
 	M5v4O	=	(unsigned char)-1269146863;
   unsigned int  PtN7ATtqA4;
@@ -92,7 +92,7 @@ int main(int argc, char** argv) {
 	unsigned char	Q2P60mCgR;
 	Q2P60mCgR	=	(unsigned char)320679161;
  unsigned short int ktS85Q7;
- ktS85Q7 = -1532998836;
+ ktS85Q7 = (unsigned short)-1532998836;
  short C1E37C;
  C1E37C = 67184259;
  unsigned long long S48OkZEH1;

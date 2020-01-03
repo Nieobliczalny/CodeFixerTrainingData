@@ -31,7 +31,7 @@ int main(int argc, char** argv) {
  double eRSB;
  eRSB = -1149015568;
 	short	G4j44U;
-	G4j44U	=	-1096830363;
+	G4j44U	=	(short)-1096830363;
     unsigned short    yXuacY;
     yXuacY    =    (unsigned short)-745320324;
   float  l690;

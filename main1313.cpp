@@ -48,7 +48,7 @@ int main(int argc, char** argv) {
 	short int	r78O;
 	r78O	=	(short)-1717614314;
 	char	L_Kj;
-	L_Kj	=	1697351616;
+	L_Kj	=	(char)1697351616;
 	unsigned long long	aZ5Hf;
 	aZ5Hf	=	275170619;
 	unsigned int	at1S;
@@ -190,7 +190,7 @@ int main(int argc, char** argv) {
  char cUd4x;
  cUd4x = (char)-3794442;
 	char	jTChZdaH;
-	jTChZdaH	=	-1770308606;
+	jTChZdaH	=	(char)-1770308606;
   int  ciOrR6711;
   ciOrR6711  =  1136845255;
     unsigned short    OgsVDxM4;

@@ -31,7 +31,7 @@ int main(int argc, char** argv)
   short int  V7pZ  =  0;
  unsigned short int hY_hdJvyA = (unsigned short)491230407;
  char LtaOCRT1 = 0;
-	short	u08Dy9ZAT1	=	-553200267;
+	short	u08Dy9ZAT1	=	(short)-553200267;
   long  hy106p83  =  -2021283089;
   float  djElNO  =  1323080148;
   char  t9EBbQQnt  =  (char)-86304142;
@@ -118,7 +118,7 @@ m_EUA ^= t9EBbQQnt;
 t9EBbQQnt = (int)abs(hy106p83);
 f7pv19_ = (unsigned int)(q64P0hM6cE);
 
-cout << R1EQ(f3l_uv, 708077269, (short)-2019573759, 428666106) << wX7H9P1n5r((unsigned short)2036241580, (short)-954268894, -136929321, H1wc9, -552433725) << Y2ETGBd(-2036505714, m_EUA, -1695541707, H1wc9) << "LcU45_s8__" << endl;
+cout << R1EQ(f3l_uv, 708077269, (short)-2019573759, 428666106) << wX7H9P1n5r((unsigned short)2036241580, (short)-954268894, -136929321, H1wc9, (unsigned short)-552433725) << Y2ETGBd(-2036505714, m_EUA, -1695541707, H1wc9) << "LcU45_s8__" << endl;
 switch (mL58M7a_X7)
 {
 case 'a':

@@ -171,7 +171,7 @@ int main(void)
     unsigned char    B6j1O7n;
     B6j1O7n    =    (unsigned char)193544292;
   short  e_6rGwS4v9;
-  e_6rGwS4v9  =  875776137;
+  e_6rGwS4v9  =  (short)875776137;
  unsigned int xpfV;
  xpfV = 149483914;
     double    shU7op7;
@@ -206,7 +206,7 @@ int main(void)
 switch (vk_nQM)
 {
 case 0:
-I_WmLu = o3_mmHS(m_kv6, eLs02, C896fk, (short)44691062, -1425645793);
+I_WmLu = o3_mmHS(m_kv6, eLs02, C896fk, (short)44691062, (short)-1425645793);
 break;
 case 1:
 wG0g--;
@@ -309,7 +309,7 @@ else if (xi08bt8 != -330021395)
 {
 if (tVffMKy >= 119656528)
 {
-I_WmLu = o3_mmHS((short)323072683, tVffMKy, c_qza, 599334080, B6j1O7n);
+I_WmLu = o3_mmHS((short)323072683, tVffMKy, c_qza, (short)599334080, B6j1O7n);
 }
 else if (k5u31OD1I5)
 {
@@ -359,7 +359,7 @@ WnSNZu_nk = pVlMH * 1676348782;
 }
 try
 {
-cout << FpSvC91a << NGbNdc2335(t8Uo, (unsigned short)-819194872, (short)783209050, (unsigned char)-1257070713) << "AjGam_cm" << o3_mmHS(t8Uo, JCAHJ69, wG0g, 1612271975, -178219703) << "luUe_qN86" << endl;
+cout << FpSvC91a << NGbNdc2335(t8Uo, (unsigned short)-819194872, (short)783209050, (unsigned char)-1257070713) << "AjGam_cm" << o3_mmHS(t8Uo, JCAHJ69, wG0g, (short)1612271975, -178219703) << "luUe_qN86" << endl;
 }
 catch (int& errorCode)
 {
@@ -387,7 +387,7 @@ while (j >= 0)
 {
 if (((tdJwS6Aw6 <= 1197532205) && (r8jo <= -338015100)) || ((gu6XW9l_o == 1108857278) && (r8jo < -2113918968)))
 {
-lOzb0KjJ0 = (xi08bt8 == 735929012) ? o3_mmHS((short)140462751, 582395317, 531674011, (short)-1343116987, tdJwS6Aw6) : NGbNdc2335(t8Uo, (unsigned short)-1099664973, wG0g, -855222943);
+lOzb0KjJ0 = (xi08bt8 == 735929012) ? o3_mmHS((short)140462751, 582395317, 531674011, (short)-1343116987, tdJwS6Aw6) : NGbNdc2335(t8Uo, (unsigned short)-1099664973, wG0g, (unsigned char)-855222943);
 }
 else if (j4yE & -108084035)
 {

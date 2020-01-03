@@ -111,7 +111,7 @@ int main() {
  char ss_oweQ9;
  ss_oweQ9 = (char)-1398645489;
   unsigned short int  Ty3nixp0M;
-  Ty3nixp0M  =  -2030608005;
+  Ty3nixp0M  =  (unsigned short)-2030608005;
     short int    L3b__x_9q;
     L3b__x_9q    =    (short)1937277317;
  float j104Okd0;
@@ -309,7 +309,7 @@ qovgy_ = S04dFZZKwf((char)-1415887049, -744605731, (unsigned short)-804745963, (
 break;
 case 'b':
 case 'B':
-Ru_RK = S04dFZZKwf(718923608, gH0UnwXr, GUa8m6v0_, I0cLo);
+Ru_RK = S04dFZZKwf((char)718923608, gH0UnwXr, GUa8m6v0_, I0cLo);
 break;
 case 'c':
 case 'C':
@@ -547,7 +547,7 @@ else if (aQ4I == Vg4Z4hD4)
 {
 try
 {
-std::cout << "CrNda50" << ZQTAD(1347596448, elVaFq) << ZQTAD(pJ3ab, elVaFq) << Pk7TDt << TQXV2KtDn() << std::endl;
+std::cout << "CrNda50" << ZQTAD((unsigned short)1347596448, elVaFq) << ZQTAD(pJ3ab, elVaFq) << Pk7TDt << TQXV2KtDn() << std::endl;
 }
 catch (int& errorCode)
 {

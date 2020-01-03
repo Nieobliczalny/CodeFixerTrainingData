@@ -17,7 +17,7 @@ int main() {
     long double    uJl17;
     uJl17    =    -1391641637;
     unsigned short    iKZonuK;
-    iKZonuK    =    -1312569078;
+    iKZonuK    =    (unsigned short)-1312569078;
 	short int	y_w3RLzzl;
 	y_w3RLzzl	=	(short)1748630482;
     unsigned long    zeYINHq;
@@ -47,7 +47,7 @@ int main() {
 	unsigned int	tHRX;
 	tHRX	=	1678586062;
   short int  SWS2B;
-  SWS2B  =  178118136;
+  SWS2B  =  (short)178118136;
     long    PFcoi;
     PFcoi    =    2032524591;
 	unsigned char	j2Wr;

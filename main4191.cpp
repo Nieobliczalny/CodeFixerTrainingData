@@ -52,7 +52,7 @@ int main(int argc, char** argv)
   unsigned short  K3GWP;
   K3GWP  =  (unsigned short)1282762644;
 	unsigned short	QJP1Nd;
-	QJP1Nd	=	-1863950553;
+	QJP1Nd	=	(unsigned short)-1863950553;
   long  FCgt4jXAB3;
   FCgt4jXAB3  =  0;
     int    U591wV29z;

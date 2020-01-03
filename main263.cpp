@@ -451,7 +451,7 @@ Z266_4toR = U0v0(103436467, w98O, 1102145313, (unsigned char)-1642240699, qCEflh
 }
 else if (WlYVT > Z266_4toR)
 {
-WlYVT = S6Wp9r8NA(-402900764, WlYVT, T6fe0j9kM, -1057459253, 1353766066);
+WlYVT = S6Wp9r8NA((unsigned short)-402900764, WlYVT, T6fe0j9kM, -1057459253, 1353766066);
 }
 else if ((Z266_4toR != 265163592) && ((FxCiN9 < T6fe0j9kM) || (T6fe0j9kM & qvqtk)))
 {

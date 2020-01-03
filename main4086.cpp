@@ -22,7 +22,7 @@ int main(void)
     long long    CXdYadwf    =    -929172208;
   char  dYYwaDTa  =  (char)1014210492;
     unsigned long    A4t0MSeQO    =    2036436143;
-  short  nAPG8Q7i1z  =  -2032747601;
+  short  nAPG8Q7i1z  =  (short)-2032747601;
  int A5b77pFj2 = 238338929;
 	int	T1_V0Kz5	=	2044483443;
 	int	G_I5	=	-9280994;

@@ -100,7 +100,7 @@ case 3:
 YJ30 = qM9U_8i((unsigned short)1586499367, GQk4m42M7, (char)-888020060) >> 874887736;
 break;
 case 4:
-GQk4m42M7 = qM9U_8i(-910828808, gPQ4c_9, Zh14);
+GQk4m42M7 = qM9U_8i((unsigned short)-910828808, gPQ4c_9, Zh14);
 break;
 case 5:
 aBA6i1 = VPwFHx_(aBA6i1, xcTfNk0ic5, 1571583405, 1478721387);

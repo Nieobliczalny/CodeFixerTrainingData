@@ -59,7 +59,7 @@ case 9:
 fGX9 = D867(418665052, (unsigned short)-660224338);
 break;
 default:
-OAeDZ = WO6_jw87z(vrqLM, 999109246, QgshAybEbR, GC1E6, -94212566);
+OAeDZ = WO6_jw87z(vrqLM, (unsigned short)999109246, QgshAybEbR, GC1E6, -94212566);
 break;
 }
 }

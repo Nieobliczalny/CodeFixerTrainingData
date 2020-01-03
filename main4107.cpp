@@ -13,7 +13,7 @@ int main(void) {
     short int    l16IG    =    (short)-1701200290;
  short ydeSO_8 = (short)-361055853;
     unsigned short    uhBk    =    (unsigned short)-45499801;
-    short int    rqPU    =    1252200572;
+    short int    rqPU    =    (short)1252200572;
   unsigned long  n2KVm  =  0;
     unsigned char    Yx91O5T    =    1184748386;
   char  M3EPcr  =  0;

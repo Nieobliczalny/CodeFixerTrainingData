@@ -380,7 +380,7 @@ for (int j = 0; j < 3; j++)
 {
 if (Y0Z1_LTxSq)
 {
-WmR3wY82_G = x7vC(WmR3wY82_G, -1196529942, -1140684328, -668796096, fa15Stu1);
+WmR3wY82_G = x7vC(WmR3wY82_G, (char)-1196529942, -1140684328, -668796096, fa15Stu1);
 }
 else
 {

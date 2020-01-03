@@ -110,7 +110,7 @@ case 5:
 K67rcwYp9 = II4oj((unsigned char)1119020385, VsqOlt, (unsigned char)-1997364762);
 break;
 case 6:
-v9iEh8y6a = GsR19ee5(-1307052249);
+v9iEh8y6a = GsR19ee5((unsigned char)-1307052249);
 break;
 default:
 DbFV3F_M4Q = o90G2 % 1519986950;

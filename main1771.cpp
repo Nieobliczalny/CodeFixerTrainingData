@@ -46,7 +46,7 @@ int main() {
 	short int	Q679bP;
 	Q679bP	=	(short)799231946;
   unsigned short  uBC5jb;
-  uBC5jb  =  -735688536;
+  uBC5jb  =  (unsigned short)-735688536;
   unsigned char  rg0XkIRA;
   rg0XkIRA  =  -654954835;
   unsigned int  C55F;

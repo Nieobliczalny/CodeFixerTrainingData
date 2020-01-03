@@ -30,7 +30,7 @@ int main(void)
     J4nn9JlDW    =    (short)555237403;
     A61K    =    (short)-222462381;
     JI6r    =    (short)-1019381511;
-    qKz5a8B    =    -184080122;
+    qKz5a8B    =    (short)-184080122;
     r2_IBo    =    -1465251657;
     i_0g_Qu    =    -1806731420;
     JkAChf    =    -738142767;
@@ -40,7 +40,7 @@ int main(void)
     QvH9v6    =    (short)-1693846038;
     Lngr4    =    (short)-1103198733;
     ZVnk91HdK5    =    (short)902634392;
-    hus95    =    2096481308;
+    hus95    =    (short)2096481308;
     Z16VzfO    =    -1048735396;
     M1b3u6Sv0F    =    -992695730;
     WK_BApLzRp    =    -11538978;
@@ -50,7 +50,7 @@ int main(void)
     o3Gn_p_D    =    (short)912036049;
     MVTb7m4G_    =    (short)1753128508;
     Y507Wf9r    =    (short)1241258895;
-    V7d_a    =    -69070202;
+    V7d_a    =    (short)-69070202;
     Cpg389tc8    =    1429364299;
     oH1V13    =    -323006877;
     aapU    =    1814044621;
@@ -60,7 +60,7 @@ int main(void)
     N1d1    =    (short)268119856;
     d0Lqn9ztc    =    (short)1042234076;
     Lmcr3    =    (short)979300104;
-    VlUxmqVTq4    =    439202174;
+    VlUxmqVTq4    =    (short)439202174;
     nXQzO    =    -627552384;
     D5ohx88Yf    =    431991354;
     ySklva8    =    -1680052167;
@@ -70,7 +70,7 @@ int main(void)
     B8b4_0K1t5    =    (short)-1198708973;
     kv5FB    =    (short)-1380082362;
     x9hc_nnQ7    =    (short)-1164044391;
-    ailJ_fLWV_    =    1058950409;
+    ailJ_fLWV_    =    (short)1058950409;
     Bh3N_sCZQ    =    1004257198;
     XXLM    =    255144921;
     r5bfJ1    =    -643109870;
@@ -80,7 +80,7 @@ int main(void)
     CHBLkfj3Uz    =    (short)1049613662;
     mqrd    =    (short)1426864860;
     RhxGe    =    (short)1016406589;
-    fTQprRe6    =    -1297884239;
+    fTQprRe6    =    (short)-1297884239;
     o_L8FyPC04    =    184011675;
     A08i0v    =    -2049032916;
     nfbj1_Q    =    -1498176839;
@@ -90,7 +90,7 @@ int main(void)
     l0u79V40c    =    (short)-1644780197;
     HdHdM4    =    (short)-1261325092;
     Zb0xta    =    (short)1863091925;
-    Cr_pOQp4Q    =    -657062040;
+    Cr_pOQp4Q    =    (short)-657062040;
 
 Bh3N_sCZQ = N4oA(Bh3N_sCZQ);
 

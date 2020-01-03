@@ -285,7 +285,7 @@ Y3e7pj63j /= 2001669404;
 break;
 case 'c':
 case 'C':
-DkJjxo2M2 = a1mq99((char)-491207116, -821720773, 1443633659);
+DkJjxo2M2 = a1mq99((char)-491207116, (short)-821720773, 1443633659);
 break;
 case 'd':
 case 'D':

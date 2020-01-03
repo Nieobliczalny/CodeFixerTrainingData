@@ -110,7 +110,7 @@ for (int i = 5; i >= 0; i--)
 DVH3l2heTH = (unsigned short)(CM54H);
 }
 
-dKWd3J1 = eba6Y0(638653401, 1981052722, mB4Nr, CM54H);
+dKWd3J1 = eba6Y0(638653401, (short)1981052722, mB4Nr, CM54H);
 
 if (dKWd3J1 == 0)
 {

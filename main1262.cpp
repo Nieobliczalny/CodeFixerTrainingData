@@ -143,7 +143,7 @@ int main(void) {
  unsigned short OQs4;
  OQs4 = (unsigned short)699434150;
  unsigned short TyW24;
- TyW24 = -1355707671;
+ TyW24 = (unsigned short)-1355707671;
     char    t10s;
     t10s    =    (char)-33573232;
   short int  y0ZT;
@@ -163,7 +163,7 @@ int main(void) {
  long ysP7;
  ysP7 = 918459804;
 	short	pC_X5c0gp;
-	pC_X5c0gp	=	780336987;
+	pC_X5c0gp	=	(short)780336987;
     unsigned char    tHP_jtE;
     tHP_jtE    =    (unsigned char)1996760065;
   unsigned int  SfOb7lwpX;

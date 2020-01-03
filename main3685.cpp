@@ -196,7 +196,7 @@ if (((IUA74dfz == 1055247482) && (zOrA)) && (oy3x0 > 216435079))
 fHf0p0 += i0925QB;
 }
 
-WiT23e = aT0eSQCIAv(1637519414, oy3x0, -1927800104, zOrA, o50G_qT) >> 253605617;
+WiT23e = aT0eSQCIAv((unsigned short)1637519414, oy3x0, -1927800104, zOrA, o50G_qT) >> 253605617;
 
 if (b_0Y085_i > -78797376)
 {

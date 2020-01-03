@@ -394,7 +394,7 @@ default:
 qvpz4aM6 = Iz4fsLJe();
 break;
 }
-IXjCdg = x42D3zh(B99_2, 1134657677, ReJTqE39Wn, -391967661);
+IXjCdg = x42D3zh(B99_2, (short)1134657677, ReJTqE39Wn, -391967661);
 
 {
 int i = 5;

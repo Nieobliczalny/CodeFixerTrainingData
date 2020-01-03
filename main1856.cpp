@@ -204,7 +204,7 @@ YTW2 = Y4lNV3(BuPBIy2S3W, (unsigned short)1745935653);
 }
 else if (((Z8uY42 & 518220138) && (BuPBIy2S3W <= 683128804)) || ((B7vANX8g_ >= 89015843) && (FS4b)))
 {
-b3JPU4483K = XfM3VDou((short)-895815617, pw9iYk4y, -1214358438);
+b3JPU4483K = XfM3VDou((short)-895815617, pw9iYk4y, (short)-1214358438);
 }
 else
 {

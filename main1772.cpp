@@ -66,7 +66,7 @@ int main() {
  short int Qr3EHrcBUV;
  Qr3EHrcBUV = (short)-106323041;
     char    i0Q7;
-    i0Q7    =    -2112719187;
+    i0Q7    =    (char)-2112719187;
 	short int	qnWCW__8;
 	qnWCW__8	=	(short)877685703;
  short int Sist;

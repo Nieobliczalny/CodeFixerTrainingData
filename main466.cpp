@@ -38,7 +38,7 @@ int main(int argc, char** argv) {
  unsigned long long rEQmu = -566427392;
   long long  iCR3  =  1219637948;
 	short	UsVtq2tPi1	=	(short)1707091691;
- char o3zkc = 1969109802;
+ char o3zkc = (char)1969109802;
   long double  YzCtX  =  -1712130935;
   double  hM452shFd  =  -1118235008;
     float    XqKXfUw    =    -1581015940;
@@ -49,7 +49,7 @@ int main(int argc, char** argv) {
  unsigned char Oc02_D = -1056621130;
   unsigned long long  oH4j  =  -1591782160;
     char    dunjr    =    (char)-1917798295;
-  short int  LKP54J  =  2138919182;
+  short int  LKP54J  =  (short)2138919182;
 
 N_i8yDMCR0 = (short)(o3zkc);
 if (lvI_ & R299uH7)

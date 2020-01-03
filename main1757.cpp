@@ -67,7 +67,7 @@ int main() {
  unsigned short int e4yuh0;
  e4yuh0 = (unsigned short)1036147261;
   unsigned char  jd651c;
-  jd651c  =  2055192623;
+  jd651c  =  (unsigned char)2055192623;
 	long long	U2HdHo;
 	U2HdHo	=	819564093;
  unsigned char FK63;

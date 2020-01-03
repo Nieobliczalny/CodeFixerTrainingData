@@ -22,7 +22,7 @@ int main(void) {
 	char	O881fab	=	(char)-2010642784;
   short  M66k0hy2  =  (short)482391498;
 	double	I1JTbb	=	-1798859658;
-  char  CTqV  =  -1430999912;
+  char  CTqV  =  (char)-1430999912;
     unsigned char    RtKhCP    =    -1575018188;
     int    pEy96I003I    =    1995752592;
     unsigned long long    o07jKim    =    -106891090;
@@ -44,7 +44,7 @@ int main(void) {
 	long	p7CQPsP4V6	=	1023708717;
  float f502 = -1551406892;
  short BDE1PA5Z = (short)500794429;
-  unsigned short  wZp3xO5099  =  1642018577;
+  unsigned short  wZp3xO5099  =  (unsigned short)1642018577;
   unsigned int  e3m6t  =  -1249107559;
     unsigned short int    ZX__M_    =    -2131652272;
     short int    XRJ7q2P5rH    =    -295443481;
@@ -56,7 +56,7 @@ int main(void) {
 	long	Ge7a	=	-909817073;
     unsigned short int    EiM5    =    (unsigned short)1097513652;
 	double	Vo58_BL	=	-409403071;
-	unsigned char	BC5Fl2cA1	=	343967066;
+	unsigned char	BC5Fl2cA1	=	(unsigned char)343967066;
     unsigned long long    pUNj    =    1316017222;
  short nC05_KS0 = -354566;
 	short	q3HPUS	=	(short)-863103581;
@@ -74,7 +74,7 @@ int main(void) {
 	double	JCu2K__UA	=	716613039;
 	float	Hl2C22	=	1591335722;
 	unsigned short	mP8Q240kx	=	(unsigned short)976515952;
-	short	AqmfQP	=	-479433038;
+	short	AqmfQP	=	(short)-479433038;
  long long t4PIj3O = 1669995047;
 	unsigned short	v691	=	(unsigned short)841485464;
 	short int	u2cG4l4	=	2049859379;
@@ -91,7 +91,7 @@ int main(void) {
  short int erK96e5B3x = (short)-1587840992;
  long FYOW = 637399762;
 	short	M6PsC6b	=	(short)2039892544;
- unsigned short YtNGFZ401 = -378119131;
+ unsigned short YtNGFZ401 = (unsigned short)-378119131;
  short yIBYU8d6 = -1113621594;
 	unsigned int	NOVPCv	=	802063350;
     long double    RtqlBx8    =    -1368432001;
@@ -102,7 +102,7 @@ int main(void) {
   unsigned long  UD0V  =  -168025412;
 	unsigned short	L6C66G_R	=	(unsigned short)-1194325900;
  double JMs6y = -1012405626;
-  short  vEkjL8b  =  -1743039080;
+  short  vEkjL8b  =  (short)-1743039080;
 	unsigned long	n0_9k_KJCo	=	-1595244133;
   char  Alns48Z  =  -534621333;
   unsigned int  L2jY  =  1694658768;

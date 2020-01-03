@@ -93,7 +93,7 @@ PpirLV4BO_ = e_57mbeE98((char)1853061592, TrHG);
 break;
 case 'c':
 case 'C':
-w1ql4CE = eQkv44((unsigned short)-1120245616, zjZF99EV0y, Q1mtNX8_F, 2060839935);
+w1ql4CE = eQkv44((unsigned short)-1120245616, zjZF99EV0y, Q1mtNX8_F, (short)2060839935);
 break;
 case 'd':
 case 'D':
@@ -322,7 +322,7 @@ V9dLZY = kir010((unsigned char)905758329, (unsigned char)1618510616);
 }
 std::cout << "rlGbMJR" << kir010(V9dLZY, drQE) << nRXPZNf << "H9_w72wt" << std::endl;
 
-std::cout << eQkv44((unsigned short)-1864532765, drQE, 711902174, -501622913) << bRl2pht << Io84uQRg1 << WopBkhmX << "sVczE2_" << std::endl;
+std::cout << eQkv44((unsigned short)-1864532765, drQE, 711902174, (short)-501622913) << bRl2pht << Io84uQRg1 << WopBkhmX << "sVczE2_" << std::endl;
 
 try
 {

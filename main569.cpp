@@ -64,7 +64,7 @@ int main(void)
 	double	L48z360;
 	L48z360	=	-1003867276;
  short int N9P791;
- N9P791 = -1497460124;
+ N9P791 = (short)-1497460124;
     char    O5fB1Z;
     O5fB1Z    =    (char)-1768965694;
  unsigned int BcW3r6m;
@@ -112,7 +112,7 @@ int main(void)
  char MGiCYAW;
  MGiCYAW = (char)657230578;
 	unsigned char	X_w4IRbbG3;
-	X_w4IRbbG3	=	-310674276;
+	X_w4IRbbG3	=	(unsigned char)-310674276;
   double  u08xi1T;
   u08xi1T  =  800045437;
     unsigned char    Ntp7kC;
@@ -591,7 +591,7 @@ case 1:
 u08xi1T = (int)floor(rmc2);
 break;
 case 2:
-K6fe43kI = jX3VOg((short)1929138521, XLkDN_Fx, -1677964737, edirV0) - 409774019;
+K6fe43kI = jX3VOg((short)1929138521, XLkDN_Fx, (short)-1677964737, edirV0) - 409774019;
 break;
 case 3:
 Efm1U = M5AWo(Efm1U, aU50geo632);

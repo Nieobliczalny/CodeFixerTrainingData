@@ -65,7 +65,7 @@ int main(int argc, char** argv) {
  short int fr_6n;
  fr_6n = (short)266742572;
     char    MjTB0WE82;
-    MjTB0WE82    =    558398756;
+    MjTB0WE82    =    (char)558398756;
 	float	sJpSD6ENc;
 	sJpSD6ENc	=	777431631;
 	unsigned long	K1iubZk;
@@ -91,7 +91,7 @@ int main(int argc, char** argv) {
 	char	K7at8;
 	K7at8	=	(char)731798443;
  short int NIG0PQJZSl;
- NIG0PQJZSl = -272427382;
+ NIG0PQJZSl = (short)-272427382;
   float  v8sQ;
   v8sQ  =  -1832219210;
 	unsigned char	kE3C;
@@ -107,7 +107,7 @@ int main(int argc, char** argv) {
     unsigned short int    M3KbiYpEyb;
     M3KbiYpEyb    =    (unsigned short)158658963;
 	unsigned short int	WYEy;
-	WYEy	=	1266604214;
+	WYEy	=	(unsigned short)1266604214;
     short    b2P73r9;
     b2P73r9    =    (short)-323131768;
   short  j49J;
@@ -385,7 +385,7 @@ break;
 }
 else if ((g1278fd8 >= WLNoovFD2b) || ((TZp1gf702 == -1943610366) && (RW_3u6I7V & WKsB)))
 {
-QG2Q8VH05 = W5K6yB(-145576993, SSg_, (unsigned short)-1568638044, -443906574, 254292148);
+QG2Q8VH05 = W5K6yB(-145576993, SSg_, (unsigned short)-1568638044, (unsigned short)-443906574, 254292148);
 }
 else if (((i_h9) || (hJip < 1632521351)) || ((qJvct81 & 488048986) || (fCB8fd <= -1458544666)))
 {

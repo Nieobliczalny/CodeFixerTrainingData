@@ -163,7 +163,7 @@ int main(int argc, char** argv)
     unsigned short    fyUNo;
     fyUNo    =    (unsigned short)1249469916;
 	short	hu_I;
-	hu_I	=	1463780059;
+	hu_I	=	(short)1463780059;
 	short int	Z99b0;
 	Z99b0	=	(short)-594398715;
     unsigned short int    DgYG;
@@ -173,7 +173,7 @@ int main(int argc, char** argv)
     short int    pTf87_;
     pTf87_    =    (short)-999812689;
 	unsigned char	kR2b0;
-	kR2b0	=	-1951174665;
+	kR2b0	=	(unsigned char)-1951174665;
     unsigned long long    X_BrVtAB;
     X_BrVtAB    =    -637866933;
   short  fRgKVGM96_;

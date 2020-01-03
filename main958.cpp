@@ -31,7 +31,7 @@ int main(void)
  double xjT3hA_54 = -1470905989;
     unsigned long    Q7_a    =    -866758485;
     short    Yj82    =    (short)-147144514;
-	unsigned short int	SyS553	=	788163421;
+	unsigned short int	SyS553	=	(unsigned short)788163421;
   unsigned long long  m71mW6_  =  -830401631;
 	short	S5flS4_	=	-923985752;
   unsigned char  IAxLo  =  598562397;
@@ -44,7 +44,7 @@ int main(void)
   unsigned long long  pW795  =  -1619082732;
   unsigned long long  zA1ai0q  =  565176308;
     short int    mdzg    =    (short)-1933264146;
-  unsigned char  w9So_JDY  =  1973903029;
+  unsigned char  w9So_JDY  =  (unsigned char)1973903029;
   double  s45oP_72h  =  1403225847;
   short int  k7M50  =  (short)1366363222;
     char    R7ZNkupv0n    =    283203981;
@@ -78,7 +78,7 @@ int main(void)
 switch (Q7_a)
 {
 case 0:
-SyS553 = M1N7p((unsigned short)649711162, s45oP_72h, -245825130, -907142840, 1354419425);
+SyS553 = M1N7p((unsigned short)649711162, s45oP_72h, -245825130, -907142840, (short)1354419425);
 break;
 case 1:
 Y5g_cQ_M = (int)abs(s45oP_72h);
@@ -446,7 +446,7 @@ case 5:
 q0m6ywg8 = qgf1r2pTt | eYDJkc;
 break;
 case 6:
-Q7_a = M1N7p((unsigned short)2139768761, -255379665, -1936972776, 615250089, 1716676760);
+Q7_a = M1N7p((unsigned short)2139768761, -255379665, -1936972776, 615250089, (short)1716676760);
 break;
 case 7:
 xLg03_ = cNgY__MP6(gYzZ5b31, Y5g_cQ_M);
@@ -467,7 +467,7 @@ UE43_ = El08bd(-1996370220, rj23KO, (short)-1196298152, (short)-1596245958);
 }
 else if (Q7_a > bLk_oUTV)
 {
-xSgtUs5T8 = El08bd(-567598674, 1440225837, (short)-821843131, -311492036);
+xSgtUs5T8 = El08bd(-567598674, 1440225837, (short)-821843131, (short)-311492036);
 }
 else
 {

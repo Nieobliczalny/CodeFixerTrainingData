@@ -65,7 +65,7 @@ int main() {
  char SzZD9;
  SzZD9 = (char)-63769268;
     char    pYA1ze4;
-    pYA1ze4    =    -439458640;
+    pYA1ze4    =    (char)-439458640;
   unsigned char  Hx0_;
   Hx0_  =  -1465212452;
  int N4KAg;
@@ -85,7 +85,7 @@ int main() {
  long double n87mBF1;
  n87mBF1 = 1257454060;
     unsigned short    OQ7ny;
-    OQ7ny    =    1265619367;
+    OQ7ny    =    (unsigned short)1265619367;
     unsigned short int    GF8I31Pb_4;
     GF8I31Pb_4    =    (unsigned short)-61924755;
  long r3Gogj077;
@@ -111,7 +111,7 @@ int main() {
   double  Pa5Kz5tbW_;
   Pa5Kz5tbW_  =  -1308178685;
  unsigned short O1FkTy;
- O1FkTy = -1243676084;
+ O1FkTy = (unsigned short)-1243676084;
   unsigned long  iszogd3N;
   iszogd3N  =  -1766938019;
  int twq_kKr;

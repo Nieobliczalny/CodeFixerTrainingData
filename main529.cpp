@@ -23,7 +23,7 @@ int main() {
     unsigned char    HC9x4z2    =    (unsigned char)-1322981021;
  unsigned char cl45 = (unsigned char)-1516730029;
   unsigned short int  nV991j  =  (unsigned short)-1936403344;
- unsigned short int D_snAOw = -140562422;
+ unsigned short int D_snAOw = (unsigned short)-140562422;
  unsigned long long P3L42 = 1044698043;
 
 std::cout << HC9x4z2 / q0Ag58Z(-1467386957, -748737677, cl45, 919062537, 2050110947) << std::endl;

@@ -73,7 +73,7 @@ int main(void)
 	unsigned long long	sD8mrQ;
 	sD8mrQ	=	478449363;
     unsigned char    yTBmW;
-    yTBmW    =    1642002987;
+    yTBmW    =    (unsigned char)1642002987;
   short  nD5TV210Mt;
   nD5TV210Mt  =  (short)1918817785;
  int kT36n;

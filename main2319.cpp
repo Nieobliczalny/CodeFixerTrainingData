@@ -59,7 +59,7 @@ int main(int argc, char** argv) {
  unsigned short int aUxyt5_E;
  aUxyt5_E = (unsigned short)365845180;
   unsigned char  t_9bgcw;
-  t_9bgcw  =  -143413485;
+  t_9bgcw  =  (unsigned char)-143413485;
  long long FTBNk;
  FTBNk = 1632094000;
 	float	P1F7007P;

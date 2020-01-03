@@ -73,7 +73,7 @@ int main()
     unsigned char    fly0l_19DC;
     fly0l_19DC    =    (unsigned char)-163325129;
  char a3SWT;
- a3SWT = -735136050;
+ a3SWT = (char)-735136050;
   long double  w5J5qA;
   w5J5qA  =  1698760065;
     short int    yPdef0;
@@ -157,7 +157,7 @@ int main()
     unsigned short    XIfaTlMA1V;
     XIfaTlMA1V    =    (unsigned short)1502145723;
 	unsigned short	d6_3jz2;
-	d6_3jz2	=	566115259;
+	d6_3jz2	=	(unsigned short)566115259;
 	int	B2o_;
 	B2o_	=	-1876628307;
 	unsigned short	QMP_e;
@@ -173,7 +173,7 @@ int main()
     short int    kY6GqQ9;
     kY6GqQ9    =    (short)-1478666049;
 	unsigned short int	z5sc54Xd;
-	z5sc54Xd	=	1002023708;
+	z5sc54Xd	=	(unsigned short)1002023708;
     unsigned long    jyj_ng_;
     jyj_ng_    =    37567368;
  long double YO8igTv30;

@@ -121,7 +121,7 @@ case 1:
 OYTJXD = wK99O_i * h8fqsv;
 break;
 case 2:
-yZMmiF = NGXt((char)-907907266, yZMmiF, 1699877118, 2084762879);
+yZMmiF = NGXt((char)-907907266, yZMmiF, 1699877118, (unsigned short)2084762879);
 break;
 case 3:
 owSJ5hw = VuWP6Ya02n & 2048089273;
@@ -442,7 +442,7 @@ else
 {
 h8fqsv = OM96N03jA(466879059, z2UthJ3O, wK99O_i, (short)-679230391);
 }
-yZMmiF = NGXt((char)1166390353, O68X5N, -221975729, 370683079);
+yZMmiF = NGXt((char)1166390353, O68X5N, -221975729, (unsigned short)370683079);
 
 switch (Vc_5)
 {

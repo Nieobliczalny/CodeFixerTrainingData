@@ -326,7 +326,7 @@ case 5:
 A_N9hpo7tO = qGRYpV(996714111, 1943320841);
 break;
 default:
-Ha0vki_4 = f__vG(A_N9hpo7tO, (short)654356813, 526470082, -205113561, 384529407) | 902560626;
+Ha0vki_4 = f__vG(A_N9hpo7tO, (short)654356813, 526470082, (char)-205113561, 384529407) | 902560626;
 break;
 }
 WHn6MWM_G--;

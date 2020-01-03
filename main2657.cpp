@@ -33,7 +33,7 @@ int main(int argc, char** argv) {
  WP240 = (short)-1812901003;
  s8xx8I4 = (short)536340966;
  gSQIK = (short)-1004835541;
- yHdI3Mm97 = -269093743;
+ yHdI3Mm97 = (short)-269093743;
  omFBJpt = 575042595;
  f_s14A = -283756592;
  K56uM1U_kA = 64976510;
@@ -43,7 +43,7 @@ int main(int argc, char** argv) {
  ulAGvOu = (short)311024532;
  nP0L5H = (short)-745650331;
  g9zPJmSx = (short)625678227;
- Z97t_8Wz = 618284280;
+ Z97t_8Wz = (short)618284280;
  zC6208 = -931317409;
  W75kq3s4M = 130818229;
  Tk864Vb = 642547551;
@@ -53,7 +53,7 @@ int main(int argc, char** argv) {
  W4Wcf = (short)252682761;
  ogJu = (short)-1215735326;
  v26RoEsyLy = (short)-1473823363;
- j8g9H = 1985966392;
+ j8g9H = (short)1985966392;
  KEwj6fxne_ = 2055973694;
  Dl_9dy3GE = 597869114;
  H284 = 1272307953;
@@ -63,7 +63,7 @@ int main(int argc, char** argv) {
  x506 = (short)-593292405;
  rCKSRxr62 = (short)195600746;
  ylFFY253 = (short)-95548505;
- Kl10ll8wcU = 119528826;
+ Kl10ll8wcU = (short)119528826;
  Ol5WoW = 14603652;
  FduVXN = -418715378;
  YS9Tq = -211495908;
@@ -73,7 +73,7 @@ int main(int argc, char** argv) {
  H7PaV8 = (short)-1849521058;
  rvkqk214FE = (short)1233854755;
  tbk_wj = (short)-912710484;
- g_7l = 1796630766;
+ g_7l = (short)1796630766;
  CxyP221Xo = 1744362376;
  PV9C = 996397599;
  R11US = 770827671;
@@ -220,7 +220,7 @@ tbk_wj = C7ElQ();
 }
 while (i < 7);
 }
-std::cout << jIBjULL << NKOoB((short)282518098, omFBJpt, -703506348, Z97t_8Wz, ylFFY253) << NKOoB((short)2042540887, -688576281, 703587460, (unsigned short)1174676545, 53985440) << N0R9p << C7ElQ() << std::endl;
+std::cout << jIBjULL << NKOoB((short)282518098, omFBJpt, -703506348, Z97t_8Wz, ylFFY253) << NKOoB((short)2042540887, -688576281, 703587460, (unsigned short)1174676545, (unsigned short)53985440) << N0R9p << C7ElQ() << std::endl;
 if (nP0L5H)
 {
 if (CxyP221Xo != -1589443305)
@@ -294,7 +294,7 @@ W75kq3s4M = K56uM1U_kA ^ q8HoAcT;
 break;
 case 'e':
 case 'E':
-sy7Ek = NKOoB(gik0Mwy, nP0L5H, 565294488, (unsigned short)-847237017, -143218603);
+sy7Ek = NKOoB(gik0Mwy, nP0L5H, 565294488, (unsigned short)-847237017, (unsigned short)-143218603);
 break;
 case 'f':
 case 'F':

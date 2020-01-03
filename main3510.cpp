@@ -21,7 +21,7 @@ int main(int argc, char** argv)
     unsigned char    A8J2Z9ur7V    =    (unsigned char)940660636;
  unsigned short int ng_d8cRJg5 = (unsigned short)1616361130;
   int  YokeNLAC  =  2053109154;
-    short    Z_Dwc6oNV    =    -1737687438;
+    short    Z_Dwc6oNV    =    (short)-1737687438;
     unsigned long long    B2O936H2v    =    -25321731;
   unsigned short  cgPYDOU  =  -375045932;
 	double	s1_f_bB	=	-1778882243;
@@ -388,7 +388,7 @@ ng_d8cRJg5++;
 break;
 case 'g':
 case 'G':
-s1_f_bB = wpv_1j2((char)2022793284, 1538688436, YokeNLAC);
+s1_f_bB = wpv_1j2((char)2022793284, (char)1538688436, YokeNLAC);
 break;
 case 'h':
 case 'H':
@@ -447,7 +447,7 @@ else
 wrGc_N = O5Vn484D9();
 }
 }
-cout << PJhN6oM((short)-1051947111, SY_C, 1251524818) << "cBG7ralRC" << PJhN6oM(180052643, 2066031687, -2133801307) << wpv_1j2(A8J2Z9ur7V, SY_C, K4XJ) << endl;
+cout << PJhN6oM((short)-1051947111, SY_C, (unsigned short)1251524818) << "cBG7ralRC" << PJhN6oM(180052643, 2066031687, -2133801307) << wpv_1j2(A8J2Z9ur7V, SY_C, K4XJ) << endl;
 if (q5ut >= 222281266)
 {
 if (rtbuQ376 != ZXGDR8t4p)
@@ -513,7 +513,7 @@ case 2:
 eh62 = wpv_1j2((char)1462540471, (char)1605277300, B2O936H2v);
 break;
 case 3:
-bXBAqCa = wpv_1j2((char)-551484378, -961531729, nfN1l5HjhD);
+bXBAqCa = wpv_1j2((char)-551484378, (char)-961531729, nfN1l5HjhD);
 break;
 case 4:
 g9yt1FEO = (int)floor(tA6lf);

@@ -162,7 +162,7 @@ int main()
  unsigned short int q_dh50GQ_q;
  q_dh50GQ_q = (unsigned short)1096333302;
  unsigned short int WD_2ie;
- WD_2ie = -5217948;
+ WD_2ie = (unsigned short)-5217948;
     unsigned long    P8N25A_gPl;
     P8N25A_gPl    =    -1374171508;
  double l4tVrj047;

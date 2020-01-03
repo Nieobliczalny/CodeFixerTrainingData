@@ -47,7 +47,7 @@ int main()
   char  bofN_zpFE;
   bofN_zpFE  =  (char)-1979561138;
 	short	JV6z;
-	JV6z	=	-1471073378;
+	JV6z	=	(short)-1471073378;
     int    o8ww;
     o8ww    =    -472018130;
  unsigned char BXC_w;
@@ -97,7 +97,7 @@ int main()
   short  fbblvkxV;
   fbblvkxV  =  (short)753907564;
   unsigned short int  Q5gMkSpL6U;
-  Q5gMkSpL6U  =  -1928685219;
+  Q5gMkSpL6U  =  (unsigned short)-1928685219;
   short  dS4g86zPt;
   dS4g86zPt  =  0;
  long Iq8d;
@@ -135,7 +135,7 @@ int main()
  short XmmfWQfiWV;
  XmmfWQfiWV = (short)31792383;
     unsigned short int    xFsuTb2hd;
-    xFsuTb2hd    =    587514850;
+    xFsuTb2hd    =    (unsigned short)587514850;
   long double  Zl4G1D1R;
   Zl4G1D1R  =  1005437621;
     int    vp3s8q8t;

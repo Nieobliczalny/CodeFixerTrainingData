@@ -23,7 +23,7 @@ int main(int argc, char** argv) {
  B4W_4ep = (short)2081022885;
  Pl0cUsN7L0 = (short)-2139123314;
  kQR0pd = (short)363317664;
- LCI8 = 1631666206;
+ LCI8 = (short)1631666206;
  A05Dn = 1376372613;
  E8jm5 = -434725149;
  HF5SIGkAJ_ = -1916484834;
@@ -33,7 +33,7 @@ int main(int argc, char** argv) {
  PNUgP = (short)984817778;
  o3x7d = (short)-1671419184;
  eYmzejx9 = (short)215140086;
- olmJ6Ig = -1506608138;
+ olmJ6Ig = (short)-1506608138;
  D7iR9 = 1540356345;
  yoQ7 = -374529241;
  Za96lWQdK = -1449951404;
@@ -43,7 +43,7 @@ int main(int argc, char** argv) {
  bF_Lr = (short)-2060522997;
  kqZ14yT9Gx = (short)537706790;
  E3Ao8AW = (short)-430963439;
- x_XuIqyC = 1641125043;
+ x_XuIqyC = (short)1641125043;
  Cb9k1 = -638272852;
  Hn_2B97YD = 1658963460;
  VJ6Lpq4k = 163345866;
@@ -53,7 +53,7 @@ int main(int argc, char** argv) {
  Je4Kk = (short)1254121369;
  X3C0WZ3 = (short)1879165217;
  yeoYp4_h = (short)1079802582;
- Gna2eNF = 2086071416;
+ Gna2eNF = (short)2086071416;
  B6HMfPMJ = -171104570;
  t7j6Hi0p = -1397549777;
  i_WX89 = -1651519006;
@@ -63,7 +63,7 @@ int main(int argc, char** argv) {
  hL29l_W1 = (short)572270525;
  xX4_7GI = (short)-1904230271;
  Pe0nQ15 = (short)40173297;
- fu9nL3L_Ij = -182472639;
+ fu9nL3L_Ij = (short)-182472639;
  V02QS5w71M = -857069330;
  Pu6A = 1543788424;
  BdD5TWJB = 1352861002;
@@ -73,7 +73,7 @@ int main(int argc, char** argv) {
  Hk7p15 = (short)871079545;
  yL8_93z5r5 = (short)-1802282477;
  zCA2xe_P = (short)-632028955;
- me1FdIQaNE = 269781919;
+ me1FdIQaNE = (short)269781919;
  L5oEBq = 2061657605;
  Bnajc = 1982505063;
  nG9I7A27mb = -1541480704;
@@ -83,7 +83,7 @@ int main(int argc, char** argv) {
  v765Hq7 = (short)-1258947510;
  Hb643qCNQ = (short)1739555211;
  KvXQ3z = (short)234375037;
- A6M0Z96_1 = -1770278219;
+ A6M0Z96_1 = (short)-1770278219;
  pUTZFz_ = 532569968;
  X0P2Z = 284204937;
  vIi81e = -900012785;
@@ -93,7 +93,7 @@ int main(int argc, char** argv) {
  vq_S = (short)-1791305242;
  NfnZJf4fDm = (short)255063403;
  L740 = (short)-1810600415;
- m6imO2FzCb = -966446629;
+ m6imO2FzCb = (short)-966446629;
  YE268kYk8 = -1376487660;
  Nm43OD = -455894972;
 

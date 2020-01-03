@@ -133,7 +133,7 @@ switch (fR2j7)
 {
 case 'a':
 case 'A':
-LW3645jq = pn_d(1204175150);
+LW3645jq = pn_d((char)1204175150);
 break;
 case 'b':
 case 'B':

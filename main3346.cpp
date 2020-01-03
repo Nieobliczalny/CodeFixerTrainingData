@@ -25,7 +25,7 @@ int main(void) {
 	short int	u8zqE;
 	u8zqE	=	(short)823132504;
     short    gA6vkG9ou;
-    gA6vkG9ou    =    1768508430;
+    gA6vkG9ou    =    (short)1768508430;
 	long double	q3rukFBmK;
 	q3rukFBmK	=	60674592;
 	unsigned int	ayB8m4;
@@ -61,7 +61,7 @@ int main(void) {
     long double    j9FD76uUNX;
     j9FD76uUNX    =    452045719;
  unsigned short int O_o3e32d5;
- O_o3e32d5 = 818211770;
+ O_o3e32d5 = (unsigned short)818211770;
     double    FOZXO_FTF;
     FOZXO_FTF    =    208891529;
     long long    j78McLx7A8;
@@ -429,7 +429,7 @@ mB93 = X3YCR(N7Qg02, mB93, (unsigned short)-529284137);
 }
 l4YjbAoW = X3YCR(ju16cA_5i, -342373934, dPp6T8z);
 
-cout << "yuxkv" << X3YCR((short)2003590249, 1890082042, (unsigned short)64695308) << X3YCR(-754037455, -1965387134, dPp6T8z) << OPk46b_ << X3YCR(ju16cA_5i, O_o3e32d5, dPp6T8z) << endl;
+cout << "yuxkv" << X3YCR((short)2003590249, 1890082042, (unsigned short)64695308) << X3YCR((short)-754037455, -1965387134, dPp6T8z) << OPk46b_ << X3YCR(ju16cA_5i, O_o3e32d5, dPp6T8z) << endl;
 {
 int i = 0;
 do

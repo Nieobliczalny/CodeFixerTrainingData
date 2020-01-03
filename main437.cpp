@@ -120,7 +120,7 @@ int main() {
  short qusz6hg2ss;
  qusz6hg2ss = (short)85712615;
   short int  SQ_NZ0s;
-  SQ_NZ0s  =  1515071002;
+  SQ_NZ0s  =  (short)1515071002;
     double    Zo6m;
     Zo6m    =    -1121826883;
   int  xgUOf4;

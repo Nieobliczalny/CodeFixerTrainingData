@@ -537,7 +537,7 @@ case 0:
 Q1957PVoZ1 = (OR0n <= -745060704) ? -226530999 : eY9My7a_(LdVG63FPI5, (unsigned char)-815341600, -2018483708, (short)-1139081095);
 break;
 case 1:
-EYMeb4xM = eY9My7a_(EYMeb4xM, (unsigned char)660299052, SkHlfBU73, -1017034004);
+EYMeb4xM = eY9My7a_(EYMeb4xM, (unsigned char)660299052, SkHlfBU73, (short)-1017034004);
 break;
 case 2:
 y6zE8 = a6m4ihmb >> y5VyhaKGs0;
@@ -572,7 +572,7 @@ case 4:
 F77V_E9r = eY9My7a_(F77V_E9r, (unsigned char)560333388, BXD0, (short)-619565241);
 break;
 case 5:
-FcBeo6R = eY9My7a_(FcBeo6R, 1733466675, -284474264, YVW9CzR_t);
+FcBeo6R = eY9My7a_(FcBeo6R, (unsigned char)1733466675, -284474264, YVW9CzR_t);
 break;
 case 6:
 OR0n ^= cg6W0Mq;

@@ -147,7 +147,7 @@ try
 int j = 4;
 while (j >= 0)
 {
-std::cout << qfkv(qE98_Olv_G) << scOPd(qE98_Olv_G, Ci9eIZUOl, (char)1133838368) << Ti87(qE98_Olv_G, (short)-2117580718, 1255491767) << std::endl;
+std::cout << qfkv(qE98_Olv_G) << scOPd(qE98_Olv_G, Ci9eIZUOl, (char)1133838368) << Ti87(qE98_Olv_G, (short)-2117580718, (unsigned char)1255491767) << std::endl;
 j--;
 }
 }
@@ -231,7 +231,7 @@ case 5:
 C17LvuCD &= 782971788;
 break;
 case 6:
-L7914E1Nh = Ti87((unsigned short)-1505871461, p9FLXLU0d, 1456178496);
+L7914E1Nh = Ti87((unsigned short)-1505871461, p9FLXLU0d, (unsigned char)1456178496);
 break;
 default:
 w880n1i_3O = scOPd((short)1620733329, MqMHdY0gC, rWrV13);

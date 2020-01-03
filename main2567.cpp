@@ -54,7 +54,7 @@ break;
 switch (uCX79pR_j)
 {
 case 0:
-fTC7 = Z8rk5_(-194767670, A94Jq6Edx, -41123813, (short)-54255693, 1610872979);
+fTC7 = Z8rk5_(-194767670, A94Jq6Edx, -41123813, (short)-54255693, (short)1610872979);
 break;
 case 1:
 W_j59c8 = t_ef << 462902750;
@@ -108,7 +108,7 @@ bka9I23p1 = A62u9TFldR(a2NwCnB, zoQtu, hDh0_KU, nxf2_6kv, (unsigned short)-11070
 break;
 case 'b':
 case 'B':
-FlWwo = Z8rk5_(FlWwo, (unsigned short)-313189271, -2131685245, (short)-836741667, 2008955258);
+FlWwo = Z8rk5_(FlWwo, (unsigned short)-313189271, -2131685245, (short)-836741667, (short)2008955258);
 break;
 case 'c':
 case 'C':

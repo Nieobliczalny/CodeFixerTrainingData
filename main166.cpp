@@ -210,7 +210,7 @@ HG2WZl33is = t2EGy8S7((short)506185788, (char)1092332884, mgqgn, 1211376017);
 }
 else if ((LeNh_4 & W0stCFs) || (oX66b1709E < oNt50T))
 {
-std::cout << "bOqv_Gyo" << LVz3_X << t2EGy8S7((short)1168295793, 1456840389, mgqgn, W8G_HO) << rwRUW_P4 << std::endl;
+std::cout << "bOqv_Gyo" << LVz3_X << t2EGy8S7((short)1168295793, (char)1456840389, mgqgn, W8G_HO) << rwRUW_P4 << std::endl;
 }
 else
 {

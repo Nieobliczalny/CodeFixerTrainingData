@@ -146,7 +146,7 @@ int main(int argc, char** argv) {
  short int Ihll;
  Ihll = (short)-870821625;
 	short int	dr_Wx2pP;
-	dr_Wx2pP	=	822500068;
+	dr_Wx2pP	=	(short)822500068;
   double  P6pVV28mY;
   P6pVV28mY  =  -651834761;
     long    a_279sl9;
@@ -292,7 +292,7 @@ CwB6XYD2 = mGBSTLgN((unsigned char)246596307, Mf3P4Ws1, x51_g0M8_q);
 }
 else if (qi9wkVYwr == P6pVV28mY)
 {
-g_z90UebPH = (nYH1yeO2 >= -869154185) ? ObD0(f2iF82, (unsigned short)1988257199, (unsigned short)1278363371, qi9wkVYwr, -1999811072) : O2N_o9sZ;
+g_z90UebPH = (nYH1yeO2 >= -869154185) ? ObD0(f2iF82, (unsigned short)1988257199, (unsigned short)1278363371, qi9wkVYwr, (unsigned char)-1999811072) : O2N_o9sZ;
 }
 else
 {
@@ -338,7 +338,7 @@ case 0:
 RL044k = ObD0((unsigned char)-238901078, DvP3v, (unsigned short)1280676775, (short)1057820890, Z5tV8asvi);
 break;
 case 1:
-A5t7Np31 = ObD0(A5t7Np31, Z5tV8asvi, bYVN, RL044k, -174346279);
+A5t7Np31 = ObD0(A5t7Np31, Z5tV8asvi, bYVN, RL044k, (unsigned char)-174346279);
 break;
 case 2:
 wqt2k7sX >>= 1737351774;
@@ -376,7 +376,7 @@ P6pVV28mY = (int)ceil(Mf3P4Ws1);
 break;
 case 'd':
 case 'D':
-f2iF82 = ObD0((unsigned char)57736769, (unsigned short)254422329, (unsigned short)416867488, -829038877, knjjmtXk5);
+f2iF82 = ObD0((unsigned char)57736769, (unsigned short)254422329, (unsigned short)416867488, (short)-829038877, knjjmtXk5);
 break;
 default:
 UsSe18G4NP /= 1996058078;

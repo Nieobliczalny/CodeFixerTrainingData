@@ -682,7 +682,7 @@ case 7:
 Wy75l97Zv = SkFz5();
 break;
 case 8:
-w5Cp = Q_1rmd((char)1504730757, VAHk, l5nwk986, 1392316793);
+w5Cp = Q_1rmd((char)1504730757, VAHk, l5nwk986, (unsigned char)1392316793);
 break;
 case 9:
 o40udT4o6K = (int)abs(Rk7zfeA);
@@ -791,7 +791,7 @@ j--;
 }
 }
 
-U0E5kxG = Q_1rmd(-696919886, i3527YiRq, -1404418590, CC_d) + 68176824;
+U0E5kxG = Q_1rmd((char)-696919886, i3527YiRq, -1404418590, CC_d) + 68176824;
 
 DVto++;
 

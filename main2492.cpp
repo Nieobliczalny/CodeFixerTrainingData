@@ -52,7 +52,7 @@ int main(void) {
  unsigned short int wZwh;
  wZwh = (unsigned short)1853190434;
     unsigned char    Wpm_8;
-    Wpm_8    =    1895999929;
+    Wpm_8    =    (unsigned char)1895999929;
   float  zSFd6;
   zSFd6  =  -487287467;
   float  r178edJB;
@@ -66,7 +66,7 @@ int main(void) {
  short ml_IUlnf;
  ml_IUlnf = (short)1842698417;
   short  f8J6;
-  f8J6  =  1379311141;
+  f8J6  =  (short)1379311141;
  long double xeffQ;
  xeffQ = -435123501;
  short int WsoeC;
@@ -94,7 +94,7 @@ int main(void) {
   char  z_Xa;
   z_Xa  =  (char)-1789455536;
     unsigned short    EspR;
-    EspR    =    1927450035;
+    EspR    =    (unsigned short)1927450035;
   long long  I053n;
   I053n  =  160369489;
  char ynq1Z79YS;
@@ -106,7 +106,7 @@ int main(void) {
  unsigned long gWtp6rsJ8g;
  gWtp6rsJ8g = 1511465096;
   short int  mK8Ry;
-  mK8Ry  =  -1460983168;
+  mK8Ry  =  (short)-1460983168;
     unsigned char    JFxCjO7;
     JFxCjO7    =    (unsigned char)-871732818;
  float B8AK;

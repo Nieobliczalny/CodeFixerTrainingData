@@ -45,7 +45,7 @@ int main() {
     short int    Z8b0_hR;
     Z8b0_hR    =    (short)1613020038;
   short int  Hfm2;
-  Hfm2  =  331470877;
+  Hfm2  =  (short)331470877;
 	long	R7HeOi;
 	R7HeOi	=	1309495366;
     char    A3FXIy;
@@ -81,7 +81,7 @@ int main() {
  unsigned short prGtHv54;
  prGtHv54 = (unsigned short)684892647;
  short tVFyB;
- tVFyB = 2141937939;
+ tVFyB = (short)2141937939;
  unsigned short iRc3TtVDM;
  iRc3TtVDM = (unsigned short)828487895;
 	long	axR7bh0noI;

@@ -58,7 +58,7 @@ int main(void)
  unsigned short TFGLj5;
  TFGLj5 = (unsigned short)-1895116234;
     short int    cBgCv;
-    cBgCv    =    -1284240642;
+    cBgCv    =    (short)-1284240642;
  unsigned long T_0mEi5v45;
  T_0mEi5v45 = 0;
   char  v1P06_I;

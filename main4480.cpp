@@ -28,7 +28,7 @@ int main(int argc, char** argv)
     char    i0_GP0I    =    (char)-46741834;
 	float	sYvxro	=	-826871292;
 	unsigned char	n8RHgt7	=	(unsigned char)1817463064;
- short v51u_NC6 = 737395625;
+ short v51u_NC6 = (short)737395625;
   unsigned short int  i4uRN375  =  -1570450644;
  double MG8P38C = -1198168436;
  unsigned int ZLmZ38 = 1118529030;
@@ -52,7 +52,7 @@ int main(int argc, char** argv)
     double    hHsqe6_eq    =    -2091469591;
  unsigned short Xs80t = (unsigned short)1641929507;
 	int	s4Si	=	535762532;
-    char    s2du8_Kf    =    1112034780;
+    char    s2du8_Kf    =    (char)1112034780;
   unsigned short int  JUr0I7iyA2  =  -584257385;
  unsigned short int L0du = -1074574582;
  char Tym_40 = (char)-1894905399;
@@ -64,7 +64,7 @@ int main(int argc, char** argv)
  short int Wh_mWTz = (short)-760109472;
     char    x7XP4U    =    (char)1909941251;
     int    Rv9K5S7q    =    -2141911027;
-  unsigned char  UvgkGOBc8  =  826381477;
+  unsigned char  UvgkGOBc8  =  (unsigned char)826381477;
  unsigned int RT6C46sl9 = 859378557;
 	unsigned long	Lm4x_2S	=	-793952669;
  short int IR5Syqp2sT = (short)-1085663669;
@@ -79,7 +79,7 @@ int main(int argc, char** argv)
 	long double	gZJrXh_R1I	=	-886684591;
   int  J2M115  =  983573510;
     unsigned char    xMwkkPW    =    (unsigned char)-444426269;
-    short int    C8uMvfu_rk    =    -373502389;
+    short int    C8uMvfu_rk    =    (short)-373502389;
 	unsigned char	m8sFddg98	=	-547172718;
     float    yjD6_6_lo    =    -1887256322;
     long    EB50clY    =    1779519840;
@@ -91,7 +91,7 @@ int main(int argc, char** argv)
 	char	SpTB4Z	=	(char)977545759;
 	int	K8Dq	=	-1593651322;
   unsigned int  Jsh0eaWk  =  964176790;
-	char	w3T50	=	457137959;
+	char	w3T50	=	(char)457137959;
  unsigned short XX9T = -1380493812;
     unsigned short int    d3R4q7W6Q    =    1470640855;
  char sw7p8x6oW = 1921075008;
@@ -104,7 +104,7 @@ int main(int argc, char** argv)
 	long double	O8C7O	=	842061703;
 	float	U0e3S	=	1637989628;
  short int T0vkf = 0;
-	unsigned short	lAOvHEK1U	=	-1087888943;
+	unsigned short	lAOvHEK1U	=	(unsigned short)-1087888943;
   char  Ff1mBGqA  =  (char)2047487944;
 
 lAOvHEK1U = EB50clY - Pt_NOwft2;

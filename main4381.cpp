@@ -125,7 +125,7 @@ int main() {
 	char	G4w_h;
 	G4w_h	=	(char)1382116148;
 	char	sBZY1;
-	sBZY1	=	-1063350905;
+	sBZY1	=	(char)-1063350905;
  unsigned short rQ70eqF4_v;
  rQ70eqF4_v = (unsigned short)1608911531;
  unsigned long long M_CCLjWBk2;
@@ -311,7 +311,7 @@ std::cout << C1_9B53 << "N5r_l02523" << sNXn14pHN << MLUT5jzN5(-1932958409, -927
 switch (SG__amIQ)
 {
 case 0:
-CqK0X = wpW_C0(CqK0X, -693478817, (unsigned short)-739653317, -380800839);
+CqK0X = wpW_C0(CqK0X, -693478817, (unsigned short)-739653317, (unsigned short)-380800839);
 break;
 default:
 kqcwZc_a = bhh6();

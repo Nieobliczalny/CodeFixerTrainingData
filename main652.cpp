@@ -30,7 +30,7 @@ int main(int argc, char** argv)
     int    bqgVgRT    =    -229867850;
 	long	Ff9922882	=	1865761154;
 	long	HZ3ny7Tm	=	-820265819;
-    char    zi1A5_A9    =    881954218;
+    char    zi1A5_A9    =    (char)881954218;
   int  h0X_k  =  1298222755;
 	unsigned int	Lm6KdYjV	=	1090489856;
 	unsigned char	LlfogTehP	=	(unsigned char)-1113561886;
@@ -41,7 +41,7 @@ int main(int argc, char** argv)
     long long    m53h    =    1724195458;
  float oan7IbtSR3 = -951725658;
 	short int	QXiXx	=	0;
-  unsigned short  k12Lih  =  -591270805;
+  unsigned short  k12Lih  =  (unsigned short)-591270805;
 	short	LBf2WO	=	281957818;
  unsigned short int Xs145OXGiw = (unsigned short)-909409645;
  char X31G1ns6 = 404265610;
@@ -202,7 +202,7 @@ else
 {
 if (MJCBl7DZ63 > -105904374)
 {
-cout << "zvHKl5" << "K_h9k" << ng6B((unsigned char)-269936861, k12Lih, oS375dN, -746095722) << ng6B(-1091433863, k12Lih, oS375dN, -1948847606) << endl;
+cout << "zvHKl5" << "K_h9k" << ng6B((unsigned char)-269936861, k12Lih, oS375dN, -746095722) << ng6B((unsigned char)-1091433863, k12Lih, oS375dN, -1948847606) << endl;
 }
 else if (Xs145OXGiw != sMUf9mPB)
 {

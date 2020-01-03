@@ -93,7 +93,7 @@ int main(int argc, char** argv)
 	unsigned short	E1gJxz02g;
 	E1gJxz02g	=	(unsigned short)-436425944;
  unsigned short int fTLex;
- fTLex = 1546195208;
+ fTLex = (unsigned short)1546195208;
  unsigned char ht46Y;
  ht46Y = (unsigned char)1337261554;
 	float	cl7Z;

@@ -49,7 +49,7 @@ int main(void)
 	char	egNbhw;
 	egNbhw	=	(char)1025699279;
 	short int	Ks62YU5z;
-	Ks62YU5z	=	-1926081452;
+	Ks62YU5z	=	(short)-1926081452;
  unsigned long pW1PTfgM;
  pW1PTfgM = -591971963;
  double CmuTF6dD;

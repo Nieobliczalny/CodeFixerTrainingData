@@ -111,7 +111,7 @@ std::cout << s_63 << "BQ2I" << std::endl;
 }
 else if (s_63 & RvqyC)
 {
-std::cout << "S1YKHa" << Y2GT5VY(820951194, XddqdV3j5j, qx9Rbu, (unsigned short)937836028) << K_sJ73r92c((char)1035357683, XddqdV3j5j, (short)-1590582445) << UM5_NoS_gS(Tu5s, XddqdV3j5j, 1797204853, -133737985) << std::endl;
+std::cout << "S1YKHa" << Y2GT5VY(820951194, XddqdV3j5j, qx9Rbu, (unsigned short)937836028) << K_sJ73r92c((char)1035357683, XddqdV3j5j, (short)-1590582445) << UM5_NoS_gS(Tu5s, XddqdV3j5j, (short)1797204853, -133737985) << std::endl;
 }
 else if ((B_4d350w != -331886651) || (XJC0f > 1341653104))
 {
@@ -158,7 +158,7 @@ std::cout << QekQr5G() << "TecHolm1" << "IeZOJDjX" << QekQr5G() << std::endl;
 dbob = (unsigned long)(CD3Y06tgO);
 Tu5s = QekQr5G();
 std::cout << CD3Y06tgO / Y2GT5VY(Tu5s, O57g5rU2, (short)-127559099, Ow1I) << std::endl;
-S46Pmrtc = K_sJ73r92c((char)-699479481, (short)-78696340, 221368457);
+S46Pmrtc = K_sJ73r92c((char)-699479481, (short)-78696340, (short)221368457);
 
 switch (Tu5s)
 {
@@ -298,7 +298,7 @@ case 1:
 zGvKR = K_sJ73r92c((char)1594020942, (short)-997344502, (short)-2031288382);
 break;
 case 2:
-Ue_6bvh3m = K_sJ73r92c(-1321543471, w_LC, 1860165239);
+Ue_6bvh3m = K_sJ73r92c((char)-1321543471, w_LC, 1860165239);
 break;
 case 3:
 qx9Rbu = Y2GT5VY(38521450, qx9Rbu, 581436994, xGlW8o_);

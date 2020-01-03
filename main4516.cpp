@@ -66,7 +66,7 @@ int main(void)
 	long	zyLNw_Seh_;
 	zyLNw_Seh_	=	0;
   char  eQ89KcKeL1;
-  eQ89KcKeL1  =  -1306616991;
+  eQ89KcKeL1  =  (char)-1306616991;
 	unsigned long long	lO_BqvM_32;
 	lO_BqvM_32	=	1271692276;
  char LBK9q;

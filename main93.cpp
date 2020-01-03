@@ -39,7 +39,7 @@ int main() {
 	long long	vM8RNn7j	=	-1305946427;
     int    GS_B    =    -426393216;
 	unsigned short	HJ1XljdR5	=	(unsigned short)-1824621447;
-    char    FZLK4    =    1419952116;
+    char    FZLK4    =    (char)1419952116;
     double    sN_AGg3Xlz    =    1525231955;
  float rS5v4VIKn = 522576157;
  double RjPkw7z1sP = -1885073420;

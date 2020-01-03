@@ -41,7 +41,7 @@ int main(void)
     m7fFJ_V1F    =    (char)-2128789257;
     cH65C    =    (char)-690304865;
     PTy4    =    (char)1540000227;
-    xoWy8C5rhe    =    -1251411777;
+    xoWy8C5rhe    =    (char)-1251411777;
     F1w5NY    =    -1264794200;
     uwdObgsRf    =    -1946317089;
     o1AXWHf99    =    177265229;
@@ -51,7 +51,7 @@ int main(void)
     uYYlf0    =    (char)-1586006366;
     H53981    =    (char)947527569;
     inXH89FbV    =    (char)1740464542;
-    LKSOER9    =    -1258339624;
+    LKSOER9    =    (char)-1258339624;
     lcRn5W_3r7    =    1338378736;
     Km6g0l5    =    -1908541759;
     Y7lEoPMx93    =    -595896443;
@@ -61,7 +61,7 @@ int main(void)
     Y8Se9Ld192    =    (char)-1596932559;
     O3kBhA    =    (char)1617857024;
     DUjAB    =    (char)759207507;
-    gDl6y_    =    -898118368;
+    gDl6y_    =    (char)-898118368;
     UGQ349    =    1668781561;
     hh7gRd7    =    67755907;
     e58rCM    =    -411217929;
@@ -71,7 +71,7 @@ int main(void)
     jIoe0w3x    =    (char)970842620;
     gtebqpb9D    =    (char)428097876;
     B_5MCPPkp    =    (char)1888188922;
-    phVz    =    942554828;
+    phVz    =    (char)942554828;
     m1pjiv31    =    -2012390335;
     Y114x3n    =    -806597340;
     K2i0GHFJsA    =    1422857470;
@@ -81,7 +81,7 @@ int main(void)
     V2j4sa26ae    =    (char)2003684443;
     vOs0fM_    =    (char)488120682;
     YkaZ7wn    =    (char)-640985066;
-    IgiX    =    473301376;
+    IgiX    =    (char)473301376;
     G52N1dl    =    43889239;
     s7Lp3U_    =    1291430666;
     E3xB    =    -1969118281;
@@ -91,7 +91,7 @@ int main(void)
     Bg_4L8UD    =    (char)-1380686745;
     BrbD6301y    =    (char)1555924868;
     dBDE335Qkd    =    (char)1011433607;
-    D8Zhs10M    =    2049715984;
+    D8Zhs10M    =    (char)2049715984;
     HuOxn    =    1275572355;
     r6g8CpWZqU    =    609132862;
     TyNR    =    -1348586119;
@@ -101,7 +101,7 @@ int main(void)
     MnP51im9    =    (char)309260911;
     GSBr3C9    =    (char)-2100631272;
     Wo3z    =    (char)-1399434072;
-    F2j0HJ8n_    =    2004232969;
+    F2j0HJ8n_    =    (char)2004232969;
     j5tKbT    =    1121021303;
     vkJSSDQ    =    308222131;
     t2K2    =    -720830375;
@@ -111,7 +111,7 @@ int main(void)
     LdkIR38aX8    =    (char)1256612646;
     C7500X0va    =    (char)32756070;
     Q8qm6d6140    =    (char)-672817483;
-    G9t7_Px    =    942219184;
+    G9t7_Px    =    (char)942219184;
     nk_Od5lu    =    -1256974723;
     hX7G_AoZ2s    =    -1249736752;
     u_5jdU7    =    127433512;
@@ -121,7 +121,7 @@ int main(void)
     ye9_kM    =    (char)1048374139;
     a9AXjQ4ml    =    (char)1603684239;
     T_5_    =    (char)1242042231;
-    XT3768D    =    -501924515;
+    XT3768D    =    (char)-501924515;
     q4b3jo    =    -587985155;
     h36__4lq    =    945173802;
     OU8r1F5M7    =    -1647828974;
@@ -131,7 +131,7 @@ int main(void)
     o009i5p    =    (char)625557442;
     Y843jS    =    (char)-1189778703;
     xViIR8_G    =    (char)-1776332387;
-    GTfavH6R    =    -1776322675;
+    GTfavH6R    =    (char)-1776322675;
     xBIj0S3    =    -1409178926;
     A7EBJe    =    1572047850;
     cxu4jC    =    1486528645;
@@ -198,7 +198,7 @@ m7fFJ_V1F = U1H6W7Lx((short)-80205191, Du5O, dBDE335Qkd);
 int i = 0;
 do
 {
-std::cout << UlMJnn1_9(m7fFJ_V1F, (char)-137720194, (unsigned char)1218383057, 1162636188, -247516684) << A92_6q4(-1628776653, 1874583426, 1558858768) << awOK192G(m7fFJ_V1F, 216613665, dBDE335Qkd) << "N64Xw2gZ" << std::endl;
+std::cout << UlMJnn1_9(m7fFJ_V1F, (char)-137720194, (unsigned char)1218383057, 1162636188, (short)-247516684) << A92_6q4(-1628776653, 1874583426, 1558858768) << awOK192G(m7fFJ_V1F, 216613665, dBDE335Qkd) << "N64Xw2gZ" << std::endl;
 ++i;
 }
 while (i < 8);
@@ -348,7 +348,7 @@ break;
 xm9SH2sD = (int)abs(IgiX);
 
 l78q4 = A92_6q4(1764488166, (unsigned short)804684854, h36__4lq);
-std::cout << UlMJnn1_9(l78q4, ye9_kM, (unsigned char)620757175, -1666437231, 648514031) << hh7gRd7 << "M5AM4aID63" << l78q4 << N7cLkvj << std::endl;
+std::cout << UlMJnn1_9(l78q4, ye9_kM, (unsigned char)620757175, -1666437231, (short)648514031) << hh7gRd7 << "M5AM4aID63" << l78q4 << N7cLkvj << std::endl;
 {
 int i = 5;
 do

@@ -40,7 +40,7 @@ int main(void)
  short ke76bo9;
  ke76bo9 = (short)1590333100;
 	unsigned short	oDIf;
-	oDIf	=	394557420;
+	oDIf	=	(unsigned short)394557420;
     int    c6gJ9L5m;
     c6gJ9L5m    =    -181758276;
   unsigned char  hlh5B5KI;
@@ -162,7 +162,7 @@ int main(void)
     char    oq808h9uA;
     oq808h9uA    =    (char)523128374;
 	short	m4I9VPs1;
-	m4I9VPs1	=	2088241466;
+	m4I9VPs1	=	(short)2088241466;
   unsigned short  j0Z7;
   j0Z7  =  (unsigned short)-1987177509;
   unsigned short  fn5Q58;

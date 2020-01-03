@@ -24,7 +24,7 @@ int main() {
   short int  m8bo;
   m8bo  =  (short)1132303765;
   unsigned short int  nrbJg43e;
-  nrbJg43e  =  -1946699299;
+  nrbJg43e  =  (unsigned short)-1946699299;
 	unsigned char	KN1_K2FU;
 	KN1_K2FU	=	(unsigned char)320215948;
     long long    soiPjl;
@@ -66,7 +66,7 @@ int main() {
 	unsigned char	S2Y016;
 	S2Y016	=	(unsigned char)411346239;
  char x7Fj30;
- x7Fj30 = 1849606413;
+ x7Fj30 = (char)1849606413;
  unsigned short int YVrTt_9_9q;
  YVrTt_9_9q = (unsigned short)679656778;
  unsigned int dsPMd;

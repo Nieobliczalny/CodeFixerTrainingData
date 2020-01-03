@@ -69,7 +69,7 @@ int main(int argc, char** argv) {
   unsigned char  aL19;
   aL19  =  (unsigned char)527401348;
  unsigned char bzCWCcnO8;
- bzCWCcnO8 = -1683623825;
+ bzCWCcnO8 = (unsigned char)-1683623825;
 	unsigned char	Fh647d_U;
 	Fh647d_U	=	(unsigned char)136532626;
  double qXnsVAxEu;

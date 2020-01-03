@@ -28,7 +28,7 @@ int main(void)
     long double    RA_13d1    =    -962965200;
  unsigned int TD0R = -2104329557;
 	unsigned char	L1QS	=	(unsigned char)1558405435;
- unsigned char c4IxL = 40402064;
+ unsigned char c4IxL = (unsigned char)40402064;
 	int	y6_E99657	=	-1139554729;
 	int	p66S	=	1725726956;
     long    NuIT0eLe30    =    1132471382;

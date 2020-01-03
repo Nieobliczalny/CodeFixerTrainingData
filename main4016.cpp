@@ -22,7 +22,7 @@ int main() {
 	E_dn1U	=	(unsigned char)1177178209;
 	sn1IDo_v	=	(unsigned char)-1515937219;
 	jP4ef5a	=	(unsigned char)57709741;
-	qn4Ojf	=	745815514;
+	qn4Ojf	=	(unsigned char)745815514;
 	urw3izDaw	=	-2134602458;
 	PUC26H1	=	-336201428;
 	F75U	=	-877975715;

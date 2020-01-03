@@ -585,7 +585,7 @@ while (i >= 0)
 switch (t3ji6)
 {
 case 0:
-e0Jb10Cku = vpcDXHo_X(-166475084, (unsigned short)-1892123312, (unsigned char)-502042812, (unsigned short)-572312830, -152477097);
+e0Jb10Cku = vpcDXHo_X(-166475084, (unsigned short)-1892123312, (unsigned char)-502042812, (unsigned short)-572312830, (unsigned char)-152477097);
 break;
 case 1:
 fhP316PQDX = (int)ceil(S5xb74wC9);

@@ -40,7 +40,7 @@ int main(void) {
     long double    I6ktQ6BU    =    604336327;
   unsigned int  eXHf0M3o  =  277716027;
 	short	ek78P	=	(short)-804494635;
-	short int	rOpq3N8b77	=	687388382;
+	short int	rOpq3N8b77	=	(short)687388382;
 	double	PeO9	=	1998490953;
 	long double	rABS	=	-2143904174;
  unsigned int dC627_ = 1891049271;
@@ -64,7 +64,7 @@ int main(void) {
   unsigned int  jB6hqw_4  =  -1980872649;
     unsigned long long    cU7af    =    844347341;
  short mbM31 = (short)1528995811;
-    char    QXaG    =    -762242775;
+    char    QXaG    =    (char)-762242775;
  int X9DQ_i = -1692831888;
     unsigned short int    l5o930_    =    0;
  unsigned char AOa3P = 0;
@@ -200,7 +200,7 @@ TX25nEE8O4 = Y8y7Pyt_(TX25nEE8O4, (unsigned char)-1782519149, (char)-1603306300)
 }
 else
 {
-b24kuHn6O = Y8y7Pyt_(1693806769, (unsigned char)372614915, 1870743419);
+b24kuHn6O = Y8y7Pyt_(1693806769, (unsigned char)372614915, (char)1870743419);
 }
 t16_0T7ci4 = L50xRyy_Iz(-1197010379, ewyN57R8u) * jD62_lQ6_2;
 std::cout << dC627_ << "l9Lu" << std::endl;

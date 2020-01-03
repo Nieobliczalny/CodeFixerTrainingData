@@ -95,7 +95,7 @@ int main(void) {
   unsigned char  Z_k0;
   Z_k0  =  (unsigned char)-1072960841;
  unsigned short int YOiR;
- YOiR = 1988189570;
+ YOiR = (unsigned short)1988189570;
  unsigned long long E4bM;
  E4bM = -1806828921;
 	unsigned long long	If_9fP9;
@@ -127,7 +127,7 @@ int main(void) {
     short int    ven8;
     ven8    =    (short)-1151242185;
     char    ntYSgV;
-    ntYSgV    =    915229945;
+    ntYSgV    =    (char)915229945;
 	long double	cs7_7OtK;
 	cs7_7OtK	=	-343250293;
     long    Rd7W30nn;
@@ -161,7 +161,7 @@ int main(void) {
     unsigned short    Y8re5oe0c3;
     Y8re5oe0c3    =    (unsigned short)-1746942250;
   short int  m1O3;
-  m1O3  =  -1647247727;
+  m1O3  =  (short)-1647247727;
 	char	AIJ3E1z2;
 	AIJ3E1z2	=	(char)-664987859;
  float Zyt_lf;
@@ -252,7 +252,7 @@ else
 {
 if (yOJcEbC <= Hn98KhHy7)
 {
-eFd4Y_gq = ZyM_((unsigned char)-1414503012, 1238378852);
+eFd4Y_gq = ZyM_((unsigned char)-1414503012, (short)1238378852);
 }
 }
 if (ven8 < Z3fQ3INU)
@@ -394,7 +394,7 @@ else
 {
 if (UlI77O45lH < kYu5WTw)
 {
-xlmQ96 = UWs5208I1(1742671930, 1283502315, UQ9w3XklP6, PwcIRvPas);
+xlmQ96 = UWs5208I1(1742671930, (unsigned short)1283502315, UQ9w3XklP6, PwcIRvPas);
 }
 else if (YOiR > 729180538)
 {
@@ -518,7 +518,7 @@ qe1O32y0V = (unsigned short int)(kYu5WTw);
 }
 else if (LDbHM == sa05)
 {
-Lx4uA = d0N8se7K6((short)140265933, 671588922, 789434290) % 1750896921;
+Lx4uA = d0N8se7K6((short)140265933, (unsigned char)671588922, 789434290) % 1750896921;
 }
 else if (FlMt)
 {
@@ -589,7 +589,7 @@ RnW5cF = ZyM_((unsigned char)-1898639102, (short)-1504061750);
 while (j < 9);
 }
 }
-dbVH8Fyh9 = ZyM_((unsigned char)1793650562, 763512346);
+dbVH8Fyh9 = ZyM_((unsigned char)1793650562, (short)763512346);
 
 if ((xlmQ96 == If_9fP9) || (CR0t_8 != 546645440))
 {
@@ -618,7 +618,7 @@ case 0:
 xlmQ96 = UWs5208I1(yOJcEbC, (unsigned short)667258395, ven8, -668868113);
 break;
 case 1:
-oAtj2ZeqPZ = d0N8se7K6((short)-509122591, M9TNRJ8, -87818560);
+oAtj2ZeqPZ = d0N8se7K6((short)-509122591, M9TNRJ8, (short)-87818560);
 break;
 case 2:
 L2vDQj = (int)abs(ntYSgV);

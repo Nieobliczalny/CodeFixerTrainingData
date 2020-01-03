@@ -29,7 +29,7 @@ int main() {
   long double  yRH4K7J6_0  =  16455483;
  unsigned long long v0x0 = -1794287530;
  unsigned char u2c59o1 = (unsigned char)-343194492;
-    unsigned short int    y870kf    =    568489306;
+    unsigned short int    y870kf    =    (unsigned short)568489306;
  long kztk0IvXXc = -616342906;
  float pN2JL93 = 577901495;
     unsigned int    j7c3    =    -367886541;
@@ -298,7 +298,7 @@ L4d4q = h48F_P(-1413385435, (unsigned char)-2093614265, (unsigned char)155572102
 }
 else if (L4d4q > So0X13V360)
 {
-std::cout << DR_1foj << h48F_P(ezR9Vb, 585329549, Q0l078Aw, 963894321, j7c3) << std::endl;
+std::cout << DR_1foj << h48F_P(ezR9Vb, (unsigned char)585329549, Q0l078Aw, 963894321, j7c3) << std::endl;
 }
 else
 {
@@ -402,7 +402,7 @@ break;
 }
 else
 {
-L4d4q = h48F_P(766832386, (unsigned char)1793039242, 1033939235, T_E3jo2, -1133718996);
+L4d4q = h48F_P(766832386, (unsigned char)1793039242, (unsigned char)1033939235, T_E3jo2, -1133718996);
 }
 }
 else

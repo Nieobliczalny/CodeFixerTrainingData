@@ -52,7 +52,7 @@ int main(void) {
 	unsigned short	J5kr;
 	J5kr	=	(unsigned short)1327764063;
   unsigned short  y_I_fS2LM;
-  y_I_fS2LM  =  -348260544;
+  y_I_fS2LM  =  (unsigned short)-348260544;
 	int	Sfab;
 	Sfab	=	501520832;
     unsigned long long    PAT0B8d;
@@ -180,7 +180,7 @@ int main(void) {
   char  w4ACobTvsu;
   w4ACobTvsu  =  (char)1780416044;
     unsigned char    bBNpiW;
-    bBNpiW    =    1559106229;
+    bBNpiW    =    (unsigned char)1559106229;
   char  h4s717nXV;
   h4s717nXV  =  -1194182961;
   unsigned short  if2R01P;
@@ -192,7 +192,7 @@ int main(void) {
   unsigned short  SBot;
   SBot  =  (unsigned short)-1081759066;
 	unsigned char	RrZR_;
-	RrZR_	=	122060743;
+	RrZR_	=	(unsigned char)122060743;
   long  iEDt1n;
   iEDt1n  =  601324127;
   float  H6aRI9jcQC;
@@ -232,7 +232,7 @@ while (i < 5)
 {
 try
 {
-dsUbm87hh = q2C7x9I7pm(jhsv7HOJ, (unsigned char)-70493168, (unsigned char)294782657, (char)1669057050, 697558607);
+dsUbm87hh = q2C7x9I7pm(jhsv7HOJ, (unsigned char)-70493168, (unsigned char)294782657, (char)1669057050, (char)697558607);
 }
 catch (int& errorCode)
 {
@@ -303,7 +303,7 @@ NdY5__a = O5Bn(NdY5__a, TkLVpsjq88, 901615017, e9o51qmu, (unsigned short)-410495
 break;
 case 'h':
 case 'H':
-dsUbm87hh = q2C7x9I7pm(aNtMsj, dB1cc16, (unsigned char)519718351, (char)331192528, -521887928);
+dsUbm87hh = q2C7x9I7pm(aNtMsj, dB1cc16, (unsigned char)519718351, (char)331192528, (char)-521887928);
 break;
 }
 
@@ -545,7 +545,7 @@ int i = 5;
 do
 {
 --i;
-cout << "MJj58zy" << q2C7x9I7pm(SyO1QKCqvc, (unsigned char)-207889042, (unsigned char)-2113463038, WgQNq9p33x, (char)1623200485) << O5Bn(SyO1QKCqvc, pV8bd5C, thK_, WgQNq9p33x, -309480868) << endl;
+cout << "MJj58zy" << q2C7x9I7pm(SyO1QKCqvc, (unsigned char)-207889042, (unsigned char)-2113463038, WgQNq9p33x, (char)1623200485) << O5Bn(SyO1QKCqvc, pV8bd5C, thK_, WgQNq9p33x, (unsigned short)-309480868) << endl;
 }
 while (i >= 0);
 }

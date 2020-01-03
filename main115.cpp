@@ -176,7 +176,7 @@ int main(void)
 
 if ((A6BnB4 <= 340475019) || ((a1X23IR7r > 634342425) && (KqXbcwXW2 < aQtpJ)))
 {
-B2SmOf7 = F_SS8Cd1tA(B2SmOf7, (unsigned short)2101891460, k_0jHdq5_, i5Liwa9, -1239772065);
+B2SmOf7 = F_SS8Cd1tA(B2SmOf7, (unsigned short)2101891460, k_0jHdq5_, i5Liwa9, (unsigned char)-1239772065);
 }
 else
 {
@@ -354,7 +354,7 @@ case 1:
 tWTM = (int)floor(J58l0B_z);
 break;
 case 2:
-l6g8 = tAP2s3g_7Q(680858634, ytpAy0iyF, (unsigned char)-897341651, -123987975, HcQIuw04k);
+l6g8 = tAP2s3g_7Q(680858634, ytpAy0iyF, (unsigned char)-897341651, (short)-123987975, HcQIuw04k);
 break;
 default:
 o4tX_Vju = (sDk4p3E6hX <= 33811457) ? -250882001 : -2121303943;

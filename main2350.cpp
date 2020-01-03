@@ -23,7 +23,7 @@ int main(void) {
     D6c57g    =    (unsigned short)-1180097038;
     s8o7eqwtt    =    (unsigned short)-1860879822;
     IIMjtsQ6V1    =    (unsigned short)-895174669;
-    XR_Gqrb    =    -492448326;
+    XR_Gqrb    =    (unsigned short)-492448326;
     s4Bz    =    -2054271385;
     Oz5sev    =    -1600557910;
     aVX8eCW    =    -1411634027;

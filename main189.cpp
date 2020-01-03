@@ -28,7 +28,7 @@ int main(void) {
  short int rt07X6Z5 = (short)-321035925;
     unsigned short    H8eMnPX2    =    0;
   long  MvJjJO26  =  -645955350;
-	short int	VO8w2a	=	-1134795719;
+	short int	VO8w2a	=	(short)-1134795719;
   float  dVLV5  =  -825782428;
 	long double	JmPX9q	=	-1153390888;
 	float	OQQ6T	=	-1103749621;

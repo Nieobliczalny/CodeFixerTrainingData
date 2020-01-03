@@ -106,7 +106,7 @@ int main(void)
     unsigned char    KX46B;
     KX46B    =    (unsigned char)63563728;
   unsigned short  fkLTUpI7D;
-  fkLTUpI7D  =  -218848870;
+  fkLTUpI7D  =  (unsigned short)-218848870;
  unsigned long d_8r;
  d_8r = 1087069946;
 	long long	wB63;

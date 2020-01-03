@@ -45,7 +45,7 @@ int main()
   short int  e__8k_;
   e__8k_  =  (short)-405332342;
  unsigned short WJDib;
- WJDib = 748657181;
+ WJDib = (unsigned short)748657181;
 	unsigned int	sZ5sk4rh33;
 	sZ5sk4rh33	=	-1718202853;
  long double Azw6;

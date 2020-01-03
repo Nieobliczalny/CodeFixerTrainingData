@@ -26,7 +26,7 @@ int main()
  o219j08 = (short)-893253703;
  O6T9m = (short)1879775534;
  Wv5e1 = (short)597088992;
- o332_z = 1004572705;
+ o332_z = (short)1004572705;
  mSQBMO = 648712106;
  RISr3woy = -559656185;
  NiXq3Y7Ll0 = 1040388374;
@@ -36,7 +36,7 @@ int main()
  TiKHuEq = (short)539922895;
  xF56lLu2K = (short)-2055010873;
  AwntfK_ = (short)85218812;
- oCeIGlt78v = -989939179;
+ oCeIGlt78v = (short)-989939179;
  v3j77 = -1808858667;
  j6d_kJ = 771806056;
  Xiqy = -1274455233;
@@ -46,7 +46,7 @@ int main()
  ir7D = (short)54905188;
  am29Smi = (short)2122637679;
  t1_8qh07Z9 = (short)-873965419;
- NRs1b = 1139160879;
+ NRs1b = (short)1139160879;
  i5kV73w95 = 490914819;
  bMa5I = -157734422;
  HR6_0 = 1451116735;
@@ -56,7 +56,7 @@ int main()
  WQX9Y = (short)-799040633;
  WeMQX = (short)357264895;
  xmRVyY5_i3 = (short)-1238165699;
- Pa7y16MS3 = 139296556;
+ Pa7y16MS3 = (short)139296556;
  W70T284I = -758185200;
  AIpPQYz4O5 = -1696218516;
  xS10 = -1717175457;
@@ -66,7 +66,7 @@ int main()
  XW5H62 = (short)796150143;
  vd88Fp3C = (short)-891614228;
  kbkF2jj = (short)-1002395895;
- do3BITm99 = 1555773773;
+ do3BITm99 = (short)1555773773;
  HS48_S = -664868989;
  S_r7 = 1749261862;
  CtcCBe = -1861329265;
@@ -76,7 +76,7 @@ int main()
  mUESeE7 = (short)-1216388198;
  Tt9b8tGN = (short)-1298420146;
  U7zY_0t63 = (short)-771718072;
- L19Ngr7 = -952558413;
+ L19Ngr7 = (short)-952558413;
  XIrbpaQ = -1642868421;
  sS_Jr8vD7 = 1775611659;
  F891pPhu = 701292349;
@@ -86,7 +86,7 @@ int main()
  u32_9 = (short)2091857815;
  uqd7zBW3 = (short)702148652;
  Sf_4EXb55Z = (short)673213615;
- FQ8fC3Fc = -1474133266;
+ FQ8fC3Fc = (short)-1474133266;
  rlk412 = 295472215;
 
 F891pPhu = QB_tRI9z / ayJS(o219j08, 1275108683, Wv5e1, o332_z, -1612811268);
@@ -151,7 +151,7 @@ case 1:
 uy76 = ayJS(-713464220, v3j77, t1_8qh07Z9, (unsigned char)878101505, 509690821);
 break;
 case 2:
-XW5H62 = Agc6JG0O((short)1388614384, 497631341, vd88Fp3C, -1875656624);
+XW5H62 = Agc6JG0O((short)1388614384, (unsigned short)497631341, vd88Fp3C, -1875656624);
 break;
 case 3:
 CtcCBe = Sf_4EXb55Z * 606232609;

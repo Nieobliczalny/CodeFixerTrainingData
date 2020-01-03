@@ -55,7 +55,7 @@ case 'i':
 y7Nv8 = (uY59Qb19M >= P5JO70479) ? y7Nv8 : -756583504;
 break;
 default:
-uY59Qb19M = HSDW((short)590304362, 750521767);
+uY59Qb19M = HSDW((short)590304362, (unsigned short)750521767);
 break;
 }
 

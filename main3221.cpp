@@ -27,7 +27,7 @@ int main()
     long long    w4iM59_5Jj    =    -736520111;
   char  rN6426_6  =  (char)1384752041;
     long    H1n_D    =    -633379985;
- char UY2ZMC5 = 1599596289;
+ char UY2ZMC5 = (char)1599596289;
  unsigned char asgcWnU = -922119465;
     short    ENz5    =    -214389071;
     long    nr_MUA    =    1381669896;
@@ -40,7 +40,7 @@ int main()
 	unsigned short	C___dL2E2	=	(unsigned short)-1176977525;
  int RTG5xng0W6 = 1286192414;
     unsigned long long    C7h23_eMiF    =    -1078868907;
- unsigned short XLY7V4 = -1424243429;
+ unsigned short XLY7V4 = (unsigned short)-1424243429;
 	long long	aj17s7YK	=	105790705;
  unsigned short int Rx9_rCS6 = (unsigned short)417209934;
   short  MQ3svv  =  877298340;
@@ -69,7 +69,7 @@ int main()
   double  S3O6C6cFhW  =  -1529193797;
  unsigned char l3RI = (unsigned char)-560843388;
  int gMJw9yi = -1809064963;
-    unsigned short    rUm6    =    -779952970;
+    unsigned short    rUm6    =    (unsigned short)-779952970;
  unsigned int EP2_Rh = 198212822;
   unsigned char  OwhksPKuAl  =  (unsigned char)1213922028;
   long  G7qtn  =  1371305295;
@@ -80,7 +80,7 @@ int main()
 	short	FhHYx7_	=	(short)-1324641476;
  unsigned short mj4_IQw4 = 2006410539;
  long long NEjv3 = 0;
- short int tMb0_B7Rf = 391503976;
+ short int tMb0_B7Rf = (short)391503976;
 	long double	v7BKQ4	=	-1079134808;
  short aj1YpAe0p3 = (short)-670081252;
  int q2i9 = -430578061;
@@ -97,7 +97,7 @@ int main()
   double  u3TL  =  1237778733;
   unsigned short  sZv9K  =  (unsigned short)-1954055938;
  unsigned long m55wh = 1409786199;
-    unsigned short int    j02kTP    =    1683124913;
+    unsigned short int    j02kTP    =    (unsigned short)1683124913;
   unsigned short int  tTnX1  =  (unsigned short)-1175420887;
     long double    Wj17E6708    =    750381705;
  float Qe7Ub = -462621680;
@@ -355,7 +355,7 @@ OwhksPKuAl = (unsigned char)(h3a40X28 + (-387915386));
 
 LBxU86o3 = (long long)(qCd1fq81C9);
 
-qCd1fq81C9 = aj17s7YK / e1J7r((short)-818225508, 762647011);
+qCd1fq81C9 = aj17s7YK / e1J7r((short)-818225508, (unsigned char)762647011);
 qCd1fq81C9 = (long double)(GEWgj84pK2);
 
 if (FhHYx7_ >= 1766886045)

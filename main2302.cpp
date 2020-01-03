@@ -190,7 +190,7 @@ int main()
   unsigned short int  z0Db_bLYc;
   z0Db_bLYc  =  (unsigned short)-2001263750;
   unsigned char  r_HID3W2;
-  r_HID3W2  =  1557683458;
+  r_HID3W2  =  (unsigned char)1557683458;
  unsigned int r81z0;
  r81z0 = 445202577;
     short int    Kp4Y;

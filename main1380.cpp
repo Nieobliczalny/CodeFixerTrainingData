@@ -30,7 +30,7 @@ int main() {
   unsigned short  Gdu6vntWX  =  (unsigned short)-1797569269;
  unsigned short K067 = (unsigned short)-1720427400;
  short ByG00eAR1B = (short)1111156189;
- char c_3_qy9yt9 = -150344922;
+ char c_3_qy9yt9 = (char)-150344922;
   double  INS0jgsU  =  959576824;
 	unsigned short int	V2BGW	=	-367164359;
     char    ee53    =    -781740252;
@@ -44,7 +44,7 @@ int main() {
   float  mXRq5_dSd  =  -1769876742;
     float    qmW4a_23    =    166391155;
   long  NItD  =  -1695146799;
-	short	dDl5Av	=	860475147;
+	short	dDl5Av	=	(short)860475147;
  short int hCdf = -1885718646;
   unsigned long long  v2eE7  =  797262211;
  short int F2LDrVT = (short)1451572766;
@@ -54,7 +54,7 @@ int main() {
  unsigned long long Q84GtOVG = 2114443186;
   long double  BqMGiee  =  -1289754224;
     unsigned long    PrE2J0eM    =    -628403975;
-	char	eP9Jx3	=	791292317;
+	char	eP9Jx3	=	(char)791292317;
     long    vRlo7    =    -2021838400;
 	unsigned long	s_89MEtrEQ	=	-1977189611;
  unsigned long long Rb0yS38t = 68228241;
@@ -74,7 +74,7 @@ int main() {
   unsigned long long  j9_3G  =  2094745390;
 	unsigned long	k6RL	=	-916280858;
     char    OAwO    =    (char)-1377980205;
- unsigned short int L1tsv5x9 = -1267200114;
+ unsigned short int L1tsv5x9 = (unsigned short)-1267200114;
     unsigned long    nH1f0U    =    502953445;
     unsigned long    dk42H    =    1940125239;
 	char	BQuqP0wRD	=	(char)1235352375;
@@ -86,7 +86,7 @@ int main() {
  long R5TsrN13OW = -1744791042;
 	unsigned short	PXuL_	=	(unsigned short)1448489637;
   unsigned char  P0_M  =  (unsigned char)1524906572;
-  unsigned short  bAd4lp  =  576830357;
+  unsigned short  bAd4lp  =  (unsigned short)576830357;
     short    Z3D_5Nn    =    (short)788129414;
 	long	NG2e7vQh9_	=	-1734398450;
   char  nlpY6YkQ6  =  -1875098406;
@@ -122,7 +122,7 @@ int main() {
     unsigned long long    lGA9O7NY    =    1749743337;
  float VF3_43 = 1846576667;
 	unsigned char	PrPB	=	(unsigned char)-722787328;
-  unsigned char  yAxryPyH  =  697328574;
+  unsigned char  yAxryPyH  =  (unsigned char)697328574;
 
 try
 {

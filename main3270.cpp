@@ -62,7 +62,7 @@ int main(int argc, char** argv)
  unsigned short int Q9os = (unsigned short)1526659640;
   long  BAN6A_  =  -1632592739;
     unsigned char    aM0177q    =    (unsigned char)-607816015;
-  short int  WV2A_fm1  =  -2128880134;
+  short int  WV2A_fm1  =  (short)-2128880134;
     unsigned long long    v1Gk4kmr9i    =    663619641;
  unsigned long long Mp36 = 1174096836;
 	double	WMHwH	=	-1904026870;
@@ -73,7 +73,7 @@ int main(int argc, char** argv)
 	long long	g162y9UNwI	=	1616591976;
 	short int	P39jH	=	(short)1015809509;
     unsigned int    PlY4RT    =    189562777;
- unsigned char TN2mutq = 839248229;
+ unsigned char TN2mutq = (unsigned char)839248229;
     long    nix6k9c    =    1220722543;
 	short int	yk4RmC8V	=	1149532154;
 	unsigned long	X4a4E7	=	-1070741654;
@@ -86,7 +86,7 @@ int main(int argc, char** argv)
     short int    uiWLE_6    =    (short)1096544815;
  unsigned long long N283p0wPH = 654513202;
   unsigned char  A_55_ZUh  =  0;
-	char	aZ4M	=	1745631439;
+	char	aZ4M	=	(char)1745631439;
  short rrF4109c = 701484709;
   unsigned int  a5dPf  =  534605705;
     short    CKB_9RG71c    =    (short)602781930;
@@ -189,7 +189,7 @@ case 6:
 VvhBqYN++;
 break;
 case 7:
-A_55_ZUh = uYVAd2sB24((unsigned char)-1780178269, -929229316, WpyoEr5KV4, 418883408, -1703900973);
+A_55_ZUh = uYVAd2sB24((unsigned char)-1780178269, -929229316, WpyoEr5KV4, (unsigned short)418883408, -1703900973);
 break;
 case 8:
 E4m_2 |= 1358626067;
@@ -324,7 +324,7 @@ break;
 }
 else
 {
-std::cout << BqSMWo1BD((char)-304563348, f83Mx0wkw, (unsigned short)2140833215, 1608757432, -377200051) << aM0177q << "yPS9H00Oa" << BqSMWo1BD((char)1117583067, -1277962449, -482305006, E_8R5aDR, L60B8_wOd) << std::endl;
+std::cout << BqSMWo1BD((char)-304563348, f83Mx0wkw, (unsigned short)2140833215, 1608757432, -377200051) << aM0177q << "yPS9H00Oa" << BqSMWo1BD((char)1117583067, (short)-1277962449, -482305006, E_8R5aDR, L60B8_wOd) << std::endl;
 }
 
 if ((ejkpy6wdko <= g7j_5oD) || (aM0177q >= vB12TalXeN))
@@ -509,7 +509,7 @@ WpyoEr5KV4 &= 2140023712;
 }
 else if (lCLx > -1180503848)
 {
-ejkpy6wdko = PcoWnj9(ejkpy6wdko, (unsigned short)-1204520535, 1070365463, QhZ_1w99);
+ejkpy6wdko = PcoWnj9(ejkpy6wdko, (unsigned short)-1204520535, (unsigned short)1070365463, QhZ_1w99);
 }
 else
 {

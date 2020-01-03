@@ -312,7 +312,7 @@ case 'd':
 fylpc82a = (int)abs(RIqB5);
 break;
 case 'e':
-X09_D8 = e4ypwDU1n7((short)1712765350, bzR0caL, 1029019521, -1876047712);
+X09_D8 = e4ypwDU1n7((short)1712765350, bzR0caL, 1029019521, (unsigned char)-1876047712);
 break;
 case 'f':
 L7QH_HNxvY = (x53paFPM9 != 1120390468) ? VhE4VJ4M : 1536607933;

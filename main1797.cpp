@@ -46,7 +46,7 @@ int main() {
     unsigned short int    lOZVHk75;
     lOZVHk75    =    (unsigned short)-1212000444;
  unsigned short i4Nj;
- i4Nj = 1966338869;
+ i4Nj = (unsigned short)1966338869;
   double  O6r3Sevm;
   O6r3Sevm  =  -347760171;
   long double  hkl7dHvPh4;
@@ -273,7 +273,7 @@ case 'f':
 KpddC3N1_ = Gf5b(-1294825671, fTqc2b, H6s2Mi0, LXsn, (unsigned char)949319134);
 break;
 case 'g':
-Ar3eR_ = (ESUSLcDpo) ? Gf5b(-1655319290, fTqc2b, H6s2Mi0, 475579541, -146600332) : k00b8V;
+Ar3eR_ = (ESUSLcDpo) ? Gf5b(-1655319290, fTqc2b, H6s2Mi0, 475579541, (unsigned char)-146600332) : k00b8V;
 break;
 case 'h':
 k00b8V = (int)abs(BvTmo);

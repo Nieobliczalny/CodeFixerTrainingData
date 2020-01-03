@@ -46,7 +46,7 @@ int main() {
  unsigned int qIp_Om;
  qIp_Om = 1015568097;
 	unsigned char	h3tyr6Uf_;
-	h3tyr6Uf_	=	244305296;
+	h3tyr6Uf_	=	(unsigned char)244305296;
 	short int	U78Bxa;
 	U78Bxa	=	(short)-1999232534;
     short    KMvb8SRL0;
@@ -74,7 +74,7 @@ int main() {
     unsigned char    yyOS;
     yyOS    =    (unsigned char)-411865063;
 	unsigned short int	P59t9Hr6pR;
-	P59t9Hr6pR	=	975454770;
+	P59t9Hr6pR	=	(unsigned short)975454770;
 	double	lBXDkd4;
 	lBXDkd4	=	-580947614;
   short  Yn42_686;
@@ -94,7 +94,7 @@ int main() {
     unsigned char    x3L5;
     x3L5    =    (unsigned char)-750012358;
 	char	FSH_aXV7;
-	FSH_aXV7	=	-327749658;
+	FSH_aXV7	=	(char)-327749658;
 	short int	d1Y1Wm;
 	d1Y1Wm	=	(short)175340059;
   unsigned short  Q5ir9;
@@ -335,7 +335,7 @@ Jg2FB += eWFU40OGH;
 }
 }
 Z486__H = iKT9_nFr0e - V7Fd;
-eWFU40OGH = (eWFU40OGH < -579489728) ? (unsigned short)-842668561 : 189456495;
+eWFU40OGH = (eWFU40OGH < -579489728) ? (unsigned short)-842668561 : (unsigned short)189456495;
 for (int i = 0; i < 6; ++i)
 {
 switch (G2Ad6Az7sK)

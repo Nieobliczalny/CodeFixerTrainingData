@@ -142,7 +142,7 @@ int main(int argc, char** argv) {
     unsigned short int    e7oiRU45n;
     e7oiRU45n    =    (unsigned short)-42429926;
  short ieE0qOjXy_;
- ieE0qOjXy_ = 843373362;
+ ieE0qOjXy_ = (short)843373362;
     unsigned short    MwN7dRe;
     MwN7dRe    =    (unsigned short)-1253248704;
  short int UV0wj;

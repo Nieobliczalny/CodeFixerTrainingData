@@ -94,7 +94,7 @@ case 2:
 w_4G = t8Dx(-2073268738, -421490979, 800990230, MvyJX0J15);
 break;
 case 3:
-ZJYs0Esq2 = i_o4F3r9(1900606215, Odkx, Ob0YBTzxd8, 895057684);
+ZJYs0Esq2 = i_o4F3r9(1900606215, Odkx, Ob0YBTzxd8, (char)895057684);
 break;
 case 4:
 OvnT7E = t8Dx(1161143895, Y51edx, OvnT7E, (unsigned short)1083355095);

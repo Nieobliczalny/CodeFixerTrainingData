@@ -54,7 +54,7 @@ int main()
 	unsigned short int	Lcy6_Zs4	=	0;
   long double  C0u_g98ll4  =  -1699909691;
 	unsigned long	yQ_Q	=	-95159514;
-	short int	w1q7	=	-1326981566;
+	short int	w1q7	=	(short)-1326981566;
 	unsigned long long	m__tcq57	=	-1481503307;
  long IHwJ = -1676074201;
     unsigned int    U79G4    =    1252479451;
@@ -65,7 +65,7 @@ int main()
     float    dCjg4Dc5    =    733923096;
  short u5F_ = 1299061444;
  long double kaXOP8 = 62034601;
-    short int    l63k97_    =    -159264061;
+    short int    l63k97_    =    (short)-159264061;
  short int j6hhE = 1723263880;
 	short int	F2W5msw2	=	-1603130032;
     unsigned int    VCMyMgs4    =    1305935996;
@@ -80,7 +80,7 @@ int main()
 	long double	JrC_J7	=	-1650420088;
 	unsigned int	dmTF	=	1377570939;
 	short int	SQXe2TOi5	=	(short)674068663;
-  unsigned short int  HT88q1rJb  =  1418633543;
+  unsigned short int  HT88q1rJb  =  (unsigned short)1418633543;
  short int ohH_6h0Wa5 = (short)-2102793697;
   long  u8_nuJe  =  457954640;
   unsigned long  Z0c6g5  =  1512183134;
@@ -94,7 +94,7 @@ int main()
   unsigned char  W1_j0rC  =  (unsigned char)-1451970963;
  short int m86DSBoh = (short)634926168;
     short int    d38yduyL_    =    0;
-    short    KHRbVcr2    =    -1865232911;
+    short    KHRbVcr2    =    (short)-1865232911;
 	float	CgMKcg	=	-80584903;
     long    DP2BHDJ781    =    1313777330;
   float  l1tdmt68  =  1452815418;
@@ -105,7 +105,7 @@ int main()
     long    uwQ_R0946    =    1417748393;
 	unsigned char	TOzfOHi	=	(unsigned char)1872145402;
 	short	H9r4	=	(short)782483187;
-    short    vE_6U_    =    -181893890;
+    short    vE_6U_    =    (short)-181893890;
 	short int	u753mYLHe	=	1556334025;
   int  wh3G3j  =  -399424145;
  unsigned long long Kh_50i = -1859980643;
@@ -131,7 +131,7 @@ int main()
 	long long	DkQucA4f	=	-1398690547;
     long    J7Zca    =    -1225388799;
  unsigned long long cAB_GZFu = 148324659;
-    unsigned short    STUhVZ38    =    -1687463393;
+    unsigned short    STUhVZ38    =    (unsigned short)-1687463393;
 	unsigned short	nDPBSI	=	(unsigned short)-41527364;
     double    lS1g    =    -503273837;
 

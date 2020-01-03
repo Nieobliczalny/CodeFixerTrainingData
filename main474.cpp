@@ -111,7 +111,7 @@ case 1:
 iv_T1l6lsP = womtT(iv_T1l6lsP, RHsx42pGIt, dCKbVJgjZ3, (char)1784706495, (unsigned char)-1776865977);
 break;
 case 2:
-fFD2WWq = womtT(fFD2WWq, 1367114150, U5I_, (char)-566720636, 1114461358);
+fFD2WWq = womtT(fFD2WWq, 1367114150, U5I_, (char)-566720636, (unsigned char)1114461358);
 break;
 case 3:
 fuRGz = eIw_();
@@ -185,7 +185,7 @@ int k = 0;
 while (k < 6)
 {
 ++k;
-U5I_ = womtT((short)353228115, -1163892158, (unsigned short)-1731016420, (char)-6468829, 1823808153);
+U5I_ = womtT((short)353228115, -1163892158, (unsigned short)-1731016420, (char)-6468829, (unsigned char)1823808153);
 }
 }
 ++j;

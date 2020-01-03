@@ -39,7 +39,7 @@ int main(int argc, char** argv)
 	unsigned char	Aw0p15c;
 	Aw0p15c	=	(unsigned char)1913483183;
 	char	ws_J02EE1C;
-	ws_J02EE1C	=	1217449059;
+	ws_J02EE1C	=	(char)1217449059;
 	float	TN_495DOz;
 	TN_495DOz	=	-99105307;
  unsigned long j_h9aaDdZ;
@@ -133,7 +133,7 @@ while (i < 3);
 TpQ3 = Gx6O_5((short)-215073530, -1486016385, Aw0p15c, R9o2_3);
 
 TpQ3 = Gx6O_5(GhkPU, 382531066, (short)1275976796, (unsigned short)1985428357);
-TN_495DOz = aoknPwW_y / Gx6O_5(126416108, 1157589278, aoknPwW_y, TN_495DOz);
+TN_495DOz = aoknPwW_y / Gx6O_5((short)126416108, 1157589278, aoknPwW_y, TN_495DOz);
 for (int i = 6; i >= 0; --i)
 {
 if (vV9S_ <= 619298943)

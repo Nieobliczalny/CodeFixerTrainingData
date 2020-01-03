@@ -80,7 +80,7 @@ case 5:
 SnT_WUri5 = ZMTd_x_(-1635716055, SnT_WUri5, zMvl);
 break;
 case 6:
-SnT_WUri5 = ZMTd_x_(SnT_WUri5, (short)37071006, 1075043511);
+SnT_WUri5 = ZMTd_x_(SnT_WUri5, (short)37071006, (char)1075043511);
 break;
 case 7:
 das1Q = ZMTd_x_(Txcy0EA, n5Fs2_F9F, 923196314);
@@ -113,7 +113,7 @@ FccpgMwb = ZMTd_x_(-1312001804, (short)628858789, (char)1774459153);
 }
 else if (E9s_8Ypo0 > -1506347115)
 {
-f805W4 = ZMTd_x_(1351175358, (short)-1885416332, 1056913219);
+f805W4 = ZMTd_x_(1351175358, (short)-1885416332, (char)1056913219);
 }
 else if (f805W4)
 {
@@ -156,7 +156,7 @@ f805W4 = ZMTd_x_(-320798234, K6EgqdbxjI, (char)2138955752);
 break;
 case 'e':
 case 'E':
-das1Q = ZMTd_x_(M0YTM4ZIMR, -961902843, Txcy0EA);
+das1Q = ZMTd_x_(M0YTM4ZIMR, (short)-961902843, Txcy0EA);
 break;
 case 'f':
 case 'F':
@@ -302,7 +302,7 @@ zMvl = J52Z_ + E9s_8Ypo0;
 
 f805W4 = ZMTd_x_(sz23uE, (short)-1760464151, (char)-380251412);
 
-std::cout << 1815801962 / ZMTd_x_(-971686914, (short)865482090, -1730172911) << std::endl;
+std::cout << 1815801962 / ZMTd_x_(-971686914, (short)865482090, (char)-1730172911) << std::endl;
 
 if (SnT_WUri5 < n5Fs2_F9F)
 {

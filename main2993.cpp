@@ -90,7 +90,7 @@ int main()
  short njs81;
  njs81 = 0;
     short    hi9i1n;
-    hi9i1n    =    1114250344;
+    hi9i1n    =    (short)1114250344;
   unsigned char  nsbT;
   nsbT  =  (unsigned char)-502155632;
     float    R_L_a6oc;
@@ -100,7 +100,7 @@ int main()
 	unsigned short	ONsu2q4;
 	ONsu2q4	=	(unsigned short)-47219986;
   unsigned short int  HB97wu;
-  HB97wu  =  1581241205;
+  HB97wu  =  (unsigned short)1581241205;
   unsigned int  ZZ61q;
   ZZ61q  =  607908140;
     double    atZrS808rd;
@@ -128,7 +128,7 @@ int main()
   short int  u3v6Snj;
   u3v6Snj  =  (short)-274794193;
     unsigned short int    dTSV819f;
-    dTSV819f    =    -2049301590;
+    dTSV819f    =    (unsigned short)-2049301590;
   short  sFShK;
   sFShK  =  564488338;
 	double	z3bonOT;

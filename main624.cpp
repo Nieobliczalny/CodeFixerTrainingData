@@ -26,7 +26,7 @@ int main(int argc, char** argv)
     unsigned int    TCMQpu    =    -472542993;
   long long  U7jRdW82u  =  912173197;
  long f_6ELRX0XR = -1214746766;
-	unsigned char	lku0h_8n1	=	231652355;
+	unsigned char	lku0h_8n1	=	(unsigned char)231652355;
 	unsigned short	Wjs6_G_Ka	=	1547342407;
  char E6K2 = 2099386492;
 	int	RF7L	=	42248311;
@@ -132,7 +132,7 @@ case 2:
 E6K2 = (int)abs(r1rr5y56Y) + (547623936);
 break;
 case 3:
-Wjs6_G_Ka = oH8w(2073672389, U7jRdW82u, RF7L, E6K2, fV_wOu3jH6);
+Wjs6_G_Ka = oH8w((char)2073672389, U7jRdW82u, RF7L, E6K2, fV_wOu3jH6);
 break;
 case 4:
 fV_wOu3jH6 = oH8w((char)-525164138, m664PJ, 894766123, (short)-1847908854, E6K2);

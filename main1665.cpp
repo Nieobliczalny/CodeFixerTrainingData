@@ -38,7 +38,7 @@ int main(void)
   unsigned char  y2SWnv527x;
   y2SWnv527x  =  (unsigned char)980083935;
 	short int	r1hj;
-	r1hj	=	-2070207664;
+	r1hj	=	(short)-2070207664;
  short tWTVN2rKP;
  tWTVN2rKP = (short)342139527;
 	unsigned short int	OF16gs;
@@ -48,7 +48,7 @@ int main(void)
  short int ujC7W1N_;
  ujC7W1N_ = (short)-1364867347;
  short tMlhcp8p;
- tMlhcp8p = -771619967;
+ tMlhcp8p = (short)-771619967;
     long double    k3TO;
     k3TO    =    -19305880;
  char aM989J__pQ;
@@ -66,7 +66,7 @@ int main(void)
 	unsigned char	pQZ_T;
 	pQZ_T	=	(unsigned char)-1530925846;
   unsigned short  zrHl62W;
-  zrHl62W  =  -634349394;
+  zrHl62W  =  (unsigned short)-634349394;
     unsigned short    hebG8f905;
     hebG8f905    =    1193037201;
  unsigned short V68Trf9;

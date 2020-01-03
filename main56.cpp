@@ -96,7 +96,7 @@ int main(void)
 	char	evvq28q8lT;
 	evvq28q8lT	=	(char)-1471859936;
     unsigned short    CkRL8;
-    CkRL8    =    -771511679;
+    CkRL8    =    (unsigned short)-771511679;
 	long	dxXmzrP6;
 	dxXmzrP6	=	-1559814992;
   unsigned short  H5iES3_Mvq;
@@ -118,7 +118,7 @@ int main(void)
   float  e8LbBTS2r;
   e8LbBTS2r  =  -1589509228;
   unsigned short  t561;
-  t561  =  -1392877367;
+  t561  =  (unsigned short)-1392877367;
 	char	gLbQ1IF;
 	gLbQ1IF	=	(char)-877662302;
 	short int	jkRtpqY2Sf;
@@ -146,7 +146,7 @@ int main(void)
   unsigned short  MOU7pc6A2;
   MOU7pc6A2  =  (unsigned short)-2115777000;
   short  wZsA;
-  wZsA  =  2098756570;
+  wZsA  =  (short)2098756570;
   long  QvRY;
   QvRY  =  0;
  short iVi_P1daN2;

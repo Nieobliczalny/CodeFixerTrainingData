@@ -30,7 +30,7 @@ int main(void) {
   long long  MKKW0  =  -631476205;
   float  F59ze_Yux  =  -148401239;
     short int    UByxX8    =    (short)166965604;
- unsigned short int ZG_Qd = 489639678;
+ unsigned short int ZG_Qd = (unsigned short)489639678;
 	char	nF8cuBE	=	314248586;
   unsigned int  UxZxy8Vk2_  =  -1747129511;
 	char	S_Tzxj7V31	=	1562155758;
@@ -52,7 +52,7 @@ int main(void) {
     int    LPMt6_8nc_    =    1004102815;
  long Na1_ = 0;
  float E4K89W5_P = 1512043475;
-  short int  IO_4R6L64  =  -896015429;
+  short int  IO_4R6L64  =  (short)-896015429;
   long  b_cIXsB  =  651361330;
     long double    v10p6a3TL6    =    1887830744;
  short int loiwEbcf = (short)1346667461;

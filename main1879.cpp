@@ -398,7 +398,7 @@ else if (gqjL8m576n > pnDGt_)
 int k = 0;
 do
 {
-fWdU__ = UAQ0QJ4((unsigned short)347985309, (short)2077079062, (unsigned char)-1638338836, -1428957218);
+fWdU__ = UAQ0QJ4((unsigned short)347985309, (short)2077079062, (unsigned char)-1638338836, (unsigned short)-1428957218);
 k++;
 }
 while (k < 7);

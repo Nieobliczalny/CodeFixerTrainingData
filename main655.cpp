@@ -158,7 +158,7 @@ case 1:
 n6e8vf0f--;
 break;
 case 2:
-g3M0Vg90_H = kBhm4Wf0w(Hv4m162, 979269528, fFu1jPffI) >> 60603097;
+g3M0Vg90_H = kBhm4Wf0w(Hv4m162, (char)979269528, fFu1jPffI) >> 60603097;
 break;
 case 3:
 OQ7lpmLqX2 *= 1873187372;
@@ -247,7 +247,7 @@ case 5:
 R5Q7mfZz3k = oC_M46z((unsigned short)228647622, H04lD_6, jI8Mr4y9KY, xp9qND_, (short)723977366);
 break;
 case 6:
-LW9Jk = oC_M46z((unsigned short)442977956, -1923485986, XOG_5PS5x3, H04lD_6, cnL6pxJWf);
+LW9Jk = oC_M46z((unsigned short)442977956, (unsigned short)-1923485986, XOG_5PS5x3, H04lD_6, cnL6pxJWf);
 break;
 case 7:
 VrSvJvN7f = XFn0N();

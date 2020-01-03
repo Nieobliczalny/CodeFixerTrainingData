@@ -37,7 +37,7 @@ int main(int argc, char** argv)
  double J6MK8nQ = -1990944486;
 	long double	C75_T	=	-1130948361;
  double dJkS3 = 1156955248;
- char N_eo = 1377193774;
+ char N_eo = (char)1377193774;
 	float	kOOEo	=	382726622;
 	char	jHU6MCr8K	=	(char)-1577743928;
   short  I_JLg7  =  (short)-1124854182;
@@ -57,7 +57,7 @@ int main(int argc, char** argv)
  char C2RKCk7 = (char)312048887;
     unsigned short int    AjwSE    =    (unsigned short)674854663;
  float Ovohma7T7 = -330897114;
-	unsigned char	wx_1W	=	1616383096;
+	unsigned char	wx_1W	=	(unsigned char)1616383096;
   float  GPNOhNEwt  =  1006343788;
 	long double	o208yi	=	-1733870191;
     char    bm61T0Q    =    -841326282;
@@ -71,7 +71,7 @@ int main(int argc, char** argv)
 	float	m_u2_jj	=	-375676038;
  short int hsZ8tz2yd = (short)1464023630;
  long double SRkfJibLte = -448625690;
-	short int	Z_3LqL9x	=	293707428;
+	short int	Z_3LqL9x	=	(short)293707428;
   unsigned short  Sg63RUYjt  =  747843768;
 	unsigned char	lz08	=	1692816268;
     short int    SfpM9k    =    (short)1680392073;
@@ -87,7 +87,7 @@ int main(int argc, char** argv)
  int z612r8I = -1922237426;
 	unsigned char	f59IR85	=	(unsigned char)634436829;
  unsigned long h7Yz764_ = 710344470;
-  unsigned short int  KBd_8v  =  1489851319;
+  unsigned short int  KBd_8v  =  (unsigned short)1489851319;
   unsigned long  uF9_l79Yd  =  -284184256;
  char UxCjJLqc5M = (char)1542095553;
  long long iD96 = -805622377;
@@ -98,7 +98,7 @@ int main(int argc, char** argv)
 	short	Bey34NA1	=	(short)-1927429176;
  int b8Zzv = 1453912928;
  unsigned int Wp_xiYC48u = 194165752;
- short d15G = 1472501308;
+ short d15G = (short)1472501308;
   unsigned short  lzq_2k1J4  =  (unsigned short)-364070650;
   short int  cf8KaBR  =  1466261142;
     float    d6M0    =    1986275000;
@@ -269,7 +269,7 @@ g1ijyGsA = f844ye8PB(L5AMdli1);
 }
 else
 {
-cout << jHU6MCr8K << f844ye8PB((unsigned short)-2052845719) << f844ye8PB((unsigned short)1050537783) << f844ye8PB((unsigned short)-678319332) << f844ye8PB(545135159) << endl;
+cout << jHU6MCr8K << f844ye8PB((unsigned short)-2052845719) << f844ye8PB((unsigned short)1050537783) << f844ye8PB((unsigned short)-678319332) << f844ye8PB((unsigned short)545135159) << endl;
 }
 cout << f844ye8PB(L5AMdli1) << "rIYs86vO4U" << f844ye8PB(L5AMdli1) << x30s11DD7 << endl;
 

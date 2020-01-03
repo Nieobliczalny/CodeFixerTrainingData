@@ -26,7 +26,7 @@ int main() {
  o5_pUK = (unsigned char)-2126512287;
  idlIkTWgM = (unsigned char)-164999207;
  r57p3Gh = (unsigned char)460833624;
- S6vf_k = -1823302254;
+ S6vf_k = (unsigned char)-1823302254;
  dxj9FyLn1 = -115318327;
  EcwGbxmE = -2026957313;
  o8080wufz1 = -1669827205;
@@ -36,7 +36,7 @@ int main() {
  jG9H = (unsigned char)-1884118505;
  JcUu = (unsigned char)-991596491;
  oYWiu = (unsigned char)147881416;
- UQJ85ueZ2S = -1967803471;
+ UQJ85ueZ2S = (unsigned char)-1967803471;
  ITqU2tg84 = -253297402;
  G4iWU5_ = -948313586;
  T2o8dKsL = 1766792810;
@@ -56,7 +56,7 @@ else if (ITqU2tg84 == 105092683)
 int k = 0;
 while (k < 3)
 {
-jG9H = sHSp((unsigned char)1655653943, Au6apCbrh, -2132863811, ITqU2tg84, EcwGbxmE);
+jG9H = sHSp((unsigned char)1655653943, Au6apCbrh, (char)-2132863811, ITqU2tg84, EcwGbxmE);
 k++;
 }
 }

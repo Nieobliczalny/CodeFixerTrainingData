@@ -36,7 +36,7 @@ int main(void) {
   sYPSaWh  =  (short)894938478;
   z92Cf50  =  (short)586123450;
   e9_E  =  (short)598311097;
-  Em_3p  =  -1970819522;
+  Em_3p  =  (short)-1970819522;
   b0f5  =  1578338452;
   I5GhL3_Qb  =  -834878264;
   aK2O8  =  84685188;
@@ -46,7 +46,7 @@ int main(void) {
   pqwd86  =  (short)1033197002;
   K__Hv3jc  =  (short)-223522439;
   Q3u0q  =  (short)891709918;
-  JbLeGT  =  779215095;
+  JbLeGT  =  (short)779215095;
   hkj80_2O  =  -358809436;
   w2V2  =  629516066;
   fLn49tiY  =  -1397435827;
@@ -56,7 +56,7 @@ int main(void) {
   IyEV_  =  (short)139065831;
   Sj_JZ  =  (short)-997738987;
   vEEW  =  (short)-1256797783;
-  t47k4dRya  =  -1838482712;
+  t47k4dRya  =  (short)-1838482712;
   u074T  =  412550997;
   Cld3aQ_xRg  =  -1977752443;
   r5PN58  =  1832583303;
@@ -66,7 +66,7 @@ int main(void) {
   NGqVLRl  =  (short)907507335;
   R3H8MmX_1  =  (short)887534795;
   x3Bz0t2SHZ  =  (short)2041971633;
-  V3w8dcH5rE  =  1767785818;
+  V3w8dcH5rE  =  (short)1767785818;
   jCSt_  =  1910754328;
   ONqXR  =  -833410506;
   b0Eb1Qnw  =  -378445832;
@@ -76,7 +76,7 @@ int main(void) {
   Pg2Cq  =  (short)-1826109299;
   L4lOoX  =  (short)976011010;
   Bzl0  =  (short)1701190432;
-  Q3i9  =  -881472699;
+  Q3i9  =  (short)-881472699;
   h4Km  =  -1818182458;
   ghW03j  =  1500001605;
   gY3NAL1s  =  1566063607;
@@ -86,7 +86,7 @@ int main(void) {
   hpjT5Ic  =  (short)1206066685;
   mdqtS  =  (short)-1846491335;
   p3zU88  =  (short)1674976289;
-  bFcG  =  -721609667;
+  bFcG  =  (short)-721609667;
   X_G46a0e  =  -549322815;
   uh_4BM6u  =  1287514673;
   C6VFt_3KVP  =  426500437;
@@ -96,7 +96,7 @@ int main(void) {
   rrUc2CC  =  (short)472629866;
   n60tS  =  (short)-1698028199;
   Nlkf  =  (short)-885058300;
-  ib4_ZJ  =  -791398446;
+  ib4_ZJ  =  (short)-791398446;
   z_9H  =  -1854192118;
   HkBbRSAzRW  =  406681371;
   kxM86bB  =  330102585;
@@ -106,7 +106,7 @@ int main(void) {
   rV40zkr  =  (short)-30541293;
   ZlJT9AqZE  =  (short)-1519656019;
   XG9EsH2o  =  (short)-1826472267;
-  PKNYSq99  =  -1456409980;
+  PKNYSq99  =  (short)-1456409980;
   ERU7yCyP  =  1216718885;
   dqYmPZKR  =  -317118755;
   MWdYT  =  -1352832408;

@@ -46,7 +46,7 @@ zQh4 = l7Q07ywq41(-458714062, 41897881, (char)-1696128845, D6_Yeqa7q_, (unsigned
 break;
 case 'd':
 case 'D':
-G3618 = l7Q07ywq41(G3618, 856456335, x3ohO1_jlM, fiM78mRc, 1688720043);
+G3618 = l7Q07ywq41(G3618, 856456335, x3ohO1_jlM, fiM78mRc, (unsigned short)1688720043);
 break;
 case 'e':
 case 'E':
@@ -188,7 +188,7 @@ case 5:
 Bm3scBy = (vi_e == lh4s) ? ePXECPbyn6 : (unsigned short)-1490970253;
 break;
 case 6:
-BKl_yNV = l7Q07ywq41(BKl_yNV, -138610074, (char)-165506060, (short)2078234569, -1015333610);
+BKl_yNV = l7Q07ywq41(BKl_yNV, -138610074, (char)-165506060, (short)2078234569, (unsigned short)-1015333610);
 break;
 case 7:
 u9OtC &= 439203374;

@@ -76,7 +76,7 @@ int main()
 	long	ux0_M2h22;
 	ux0_M2h22	=	-513480656;
 	char	jfd4jA;
-	jfd4jA	=	1478508198;
+	jfd4jA	=	(char)1478508198;
  float bMmSjwOBwX;
  bMmSjwOBwX = -1039923173;
   unsigned short  MzER1;
@@ -108,7 +108,7 @@ int main()
  unsigned char u0F_Y_pB1;
  u0F_Y_pB1 = (unsigned char)116122571;
     short int    MMSJQcnin_;
-    MMSJQcnin_    =    554612018;
+    MMSJQcnin_    =    (short)554612018;
 
 if ((ux0_M2h22 > nLJiXwO) || ((rNBH2M_4NA <= s4DxUz) && (ALbgo)))
 {

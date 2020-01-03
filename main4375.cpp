@@ -65,7 +65,7 @@ int main()
     short    FF1omJ;
     FF1omJ    =    (short)-855449252;
     unsigned short int    nR2b3;
-    nR2b3    =    -63002795;
+    nR2b3    =    (unsigned short)-63002795;
     long double    WYstk5e79D;
     WYstk5e79D    =    2081482960;
     char    VHGhbk;
@@ -99,7 +99,7 @@ case 1:
 Ro64 *= T4OwCp;
 break;
 case 2:
-t9KM4Fe8B = O05pG8dwAK((unsigned short)489500515, 1474345572, 1905161304, wKcV_4r, xvSrNH7XY);
+t9KM4Fe8B = O05pG8dwAK((unsigned short)489500515, (short)1474345572, 1905161304, wKcV_4r, xvSrNH7XY);
 break;
 case 3:
 t9KM4Fe8B = O05pG8dwAK(iht9t9nC, -971530863, 238144934, sNh3, a717299a7l);
@@ -111,7 +111,7 @@ case 5:
 TH2I9 = zl7mxCP2 << nR2b3;
 break;
 case 6:
-X2iRGOMx = (wKcV_4r > BWaq) ? 1103745584 : O05pG8dwAK((unsigned short)507613871, 2083370122, 1088429783, jgZv66FZ, T4OwCp);
+X2iRGOMx = (wKcV_4r > BWaq) ? 1103745584 : O05pG8dwAK((unsigned short)507613871, (short)2083370122, 1088429783, jgZv66FZ, T4OwCp);
 break;
 }
 {
@@ -128,7 +128,7 @@ std::cout << O05pG8dwAK(1129407816, 547540827, 1559447784, -395483903, 11344357)
 UFk2fvfX = (unsigned int)(OWL5M1Qt + (UNIn_uxBH));
 if (VHGhbk)
 {
-std::cout << "sx5sjA" << O05pG8dwAK((unsigned short)-15474261, (short)-1746915048, -316549303, 1792268232, 571205172) << "LL3N" << std::endl;
+std::cout << "sx5sjA" << O05pG8dwAK((unsigned short)-15474261, (short)-1746915048, -316549303, (short)1792268232, 571205172) << "LL3N" << std::endl;
 }
 else if ((E7FGq2C1Dz != zl7mxCP2) || ((jgZv66FZ >= -792311528) && (X2iRGOMx > BE9v7)))
 {
@@ -220,7 +220,7 @@ case 1:
 BE9v7 = (int)abs(E7FGq2C1Dz);
 break;
 case 2:
-t9KM4Fe8B = O05pG8dwAK((unsigned short)-1726019575, nR2b3, 1332713573, 1359623212, E7FGq2C1Dz);
+t9KM4Fe8B = O05pG8dwAK((unsigned short)-1726019575, nR2b3, 1332713573, (short)1359623212, E7FGq2C1Dz);
 break;
 case 3:
 t9KM4Fe8B = O05pG8dwAK(X2iRGOMx, QmTRpzC4Z, xvSrNH7XY, XplT2INEe, lAycqZEZAy);
@@ -235,7 +235,7 @@ case 6:
 uix7 = P_3qFfjlWi >> TH2I9;
 break;
 case 7:
-t9KM4Fe8B = O05pG8dwAK((unsigned short)-1014015596, -2146893487, 762027918, BWaq, 495832889);
+t9KM4Fe8B = O05pG8dwAK((unsigned short)-1014015596, (short)-2146893487, 762027918, BWaq, 495832889);
 break;
 case 8:
 t9KM4Fe8B = O05pG8dwAK((unsigned short)2081724856, 1589277519, -1539010158, xvSrNH7XY, T4OwCp);
@@ -326,7 +326,7 @@ if (zc6xwGEd8 == 1881044144)
 {
 for (int j = 0; j < 2; j++)
 {
-std::cout << O05pG8dwAK((unsigned short)202931915, Ro64, Z3_loq, 1238097117, -1183994406) << O05pG8dwAK(TH2I9, Ro64, Z3_loq, lruzNV, 2146942639) << O05pG8dwAK(-729267864, 121918584, 2098886000, -375906759, nR2b3) << std::endl;
+std::cout << O05pG8dwAK((unsigned short)202931915, Ro64, Z3_loq, (short)1238097117, -1183994406) << O05pG8dwAK(TH2I9, Ro64, Z3_loq, lruzNV, 2146942639) << O05pG8dwAK(-729267864, 121918584, 2098886000, -375906759, nR2b3) << std::endl;
 }
 }
 
@@ -338,7 +338,7 @@ std::cout << O05pG8dwAK(TH2I9, Ro64, Z3_loq, -2138361361, nR2b3) << E7FGq2C1Dz <
 
 if (xvSrNH7XY != -1682102596)
 {
-std::cout << "n3HWhl8Qc" << "zojJ44E" << O05pG8dwAK((unsigned short)-2054348825, Ro64, Z3_loq, 2025873908, nR2b3) << UFk2fvfX << std::endl;
+std::cout << "n3HWhl8Qc" << "zojJ44E" << O05pG8dwAK((unsigned short)-2054348825, Ro64, Z3_loq, (short)2025873908, nR2b3) << UFk2fvfX << std::endl;
 }
 else
 {

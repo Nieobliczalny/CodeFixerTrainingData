@@ -37,7 +37,7 @@ int main(int argc, char** argv)
 	short	f2i9KPj2;
 	f2i9KPj2	=	(short)158142777;
  unsigned short int c4_9K_l6J;
- c4_9K_l6J = -146787457;
+ c4_9K_l6J = (unsigned short)-146787457;
 
 IM7ZN6 = IM7ZN6 >> 193974305;
 if (aUJ7N & 874198758)

@@ -779,7 +779,7 @@ case 8:
 UJ36OGHuK = YFXFOu0e6((unsigned short)1419398562, B8X5, AbIu, I7bU_62_, (unsigned short)-170606163) + JiiIHzZV;
 break;
 default:
-otvrgd = YFXFOu0e6((unsigned short)-629070876, NSHYE7K, AbIu, FWf4lFqckH, -670149714);
+otvrgd = YFXFOu0e6((unsigned short)-629070876, NSHYE7K, AbIu, FWf4lFqckH, (unsigned short)-670149714);
 break;
 }
 }

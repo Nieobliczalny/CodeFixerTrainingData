@@ -22,7 +22,7 @@ int main(void)
  tl008 = (unsigned char)-1733592095;
  v10E9_BE = (unsigned char)-1658008077;
  R61R = (unsigned char)1315213217;
- jK0N = 566882174;
+ jK0N = (unsigned char)566882174;
  MBC6Ab1275 = 1682756614;
  TE_0 = -448453476;
  V9w1K = 1380605762;
@@ -32,7 +32,7 @@ int main(void)
  OdK4 = (unsigned char)-1235459127;
  Br_k0Et = (unsigned char)-695038107;
  dfC4W3__d = (unsigned char)-215506925;
- B8S_ = -1857684679;
+ B8S_ = (unsigned char)-1857684679;
  pp1bUEh25 = 358173379;
  d6tuA = 1529354272;
  OKyh3550G = -2038606178;
@@ -42,7 +42,7 @@ int main(void)
  k8EhH_w = (unsigned char)-511726773;
  P1hnnQ = (unsigned char)-1807996038;
  tK58r2y = (unsigned char)1477672639;
- fiNe1GX = 331126240;
+ fiNe1GX = (unsigned char)331126240;
  Q8X0VB = -732900054;
  t0GM = -238848525;
  WER0Lnt = 1471027415;
@@ -52,7 +52,7 @@ int main(void)
  FnfqZ7S = (unsigned char)-258871614;
  nUyPYmF07m = (unsigned char)-1217756140;
  jpW6FQ10KR = (unsigned char)1286800555;
- gu7OBzxK = 777675291;
+ gu7OBzxK = (unsigned char)777675291;
  cLUqA = 865560501;
  ou_w = 1375079220;
  m370uH_5 = -1216194407;
@@ -62,7 +62,7 @@ int main(void)
  KBO145NXt = (unsigned char)802538864;
  v0E9 = (unsigned char)-1140689856;
  nceC = (unsigned char)-44482323;
- aUodPv = 223385859;
+ aUodPv = (unsigned char)223385859;
  Ub6md = -1913214273;
  uq21 = 430712466;
  rLWqc_Di = 166343277;
@@ -72,7 +72,7 @@ int main(void)
  UIM0oAwAr = (unsigned char)489915639;
  YrwW0XK5 = (unsigned char)195863920;
  woCYp = (unsigned char)2123319356;
- hZI714X = 760352157;
+ hZI714X = (unsigned char)760352157;
  wqZ9024X0 = 1089086911;
  BbdCxg = -918211085;
  CQu8 = 2044930746;
@@ -82,7 +82,7 @@ int main(void)
  els8 = (unsigned char)1750436434;
  EOL_ = (unsigned char)-972137248;
  Ho_68_ = (unsigned char)1927037379;
- WP0w9QmbaW = 707454858;
+ WP0w9QmbaW = (unsigned char)707454858;
  n066Hqoy4 = 1209538397;
  CG1YlxFX = -732982222;
  fFXv = -1001409108;
@@ -92,7 +92,7 @@ int main(void)
  h08x9b = (unsigned char)1786867762;
  r_k8C2qo = (unsigned char)-1984325062;
  J83C5kNXa8 = (unsigned char)2045397150;
- UMcK_hP = -2113176589;
+ UMcK_hP = (unsigned char)-2113176589;
  vYwv1Son = 1356219525;
  YIjX7bKhC = -626872706;
  Ffu1EwF = 1731345902;
@@ -102,7 +102,7 @@ int main(void)
  m93nqpn = (unsigned char)-197767363;
  OufDvAe = (unsigned char)239594123;
  cGzstM = (unsigned char)1549842035;
- J3LUt = 1765747472;
+ J3LUt = (unsigned char)1765747472;
  wIUq1_ = -2003877905;
     unsigned short int    wuN1,    yQ4F1,    R6_RqjiBG;
     wuN1    =    0;
@@ -128,7 +128,7 @@ else if (((CQu8 <= EOL_) || (wuN1 > w9tze_)) || (YrwW0XK5 == w9tze_))
 int k = 10;
 do
 {
-yQ4F1 = b15CA_gmjE(1977565003, -80521629, -1158615099, -1949093282);
+yQ4F1 = b15CA_gmjE(1977565003, -80521629, -1158615099, (unsigned char)-1949093282);
 k--;
 }
 while (k >= 0);
@@ -216,7 +216,7 @@ case 3:
 OKyh3550G = yvuO(-321994002, (char)1395574701, YIjX7bKhC, (unsigned short)-87751380);
 break;
 case 4:
-tK58r2y = yvuO(-500751297, 1911412721, fFXv, 2006326139);
+tK58r2y = yvuO(-500751297, (char)1911412721, fFXv, 2006326139);
 break;
 default:
 t0GM = yvuO(t0GM, (char)1815417249, wwPC0v, 1583580596);
@@ -265,7 +265,7 @@ v10E9_BE = OufDvAe & 53672116;
 }
 else
 {
-Jg8VSG = SiVB2((unsigned char)-401053194, wuN1, (short)-1124626075, (unsigned short)693619676, 38040832);
+Jg8VSG = SiVB2((unsigned char)-401053194, wuN1, (short)-1124626075, (unsigned short)693619676, (unsigned char)38040832);
 }
 }
 while (j >= 0);
@@ -277,7 +277,7 @@ if (jK0N != AE53266Q)
 {
 if ((nceC < 623039301) || (hwPc > 505134632))
 {
-jK0N = SiVB2((unsigned char)877911410, YIjX7bKhC, (short)138332440, (unsigned short)-502362483, 114456497);
+jK0N = SiVB2((unsigned char)877911410, YIjX7bKhC, (short)138332440, (unsigned short)-502362483, (unsigned char)114456497);
 }
 }
 }
@@ -305,7 +305,7 @@ std::cout << jK0N << SiVB2(nzxN392, 775661609, FnfqZ7S, (unsigned short)-1818898
 }
 else
 {
-nzxN392 = SiVB2((unsigned char)-895163122, uq21, P1hnnQ, nUyPYmF07m, -1074976863);
+nzxN392 = SiVB2((unsigned char)-895163122, uq21, P1hnnQ, nUyPYmF07m, (unsigned char)-1074976863);
 }
 if (CQu8 < -1915436204)
 {

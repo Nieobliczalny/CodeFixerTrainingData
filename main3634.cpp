@@ -470,7 +470,7 @@ while (i < 7);
 }
 std::cout << jsn2938A(uKu_3rrKS, (short)1823607368) << L3W3oS3P << "H2U34" << jsn2938A(uKu_3rrKS, (short)226505476) << y45CbY35(uKu_3rrKS) << std::endl;
 
-yYeqe = y45CbY35(-872249994);
+yYeqe = y45CbY35((short)-872249994);
 
 for (int i = 6; i >= 0; i--)
 {

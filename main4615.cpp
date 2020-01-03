@@ -39,7 +39,7 @@ int main(int argc, char** argv)
 	unsigned short	FX8_;
 	FX8_	=	(unsigned short)-1430161958;
 	short int	xFeP1N;
-	xFeP1N	=	-802083952;
+	xFeP1N	=	(short)-802083952;
   short  cA1xQGU50;
   cA1xQGU50  =  0;
     long double    LRJwG3eh4;
@@ -89,7 +89,7 @@ int main(int argc, char** argv)
 	short int	y9Pw1L;
 	y9Pw1L	=	(short)-1529203159;
   unsigned short int  eF074E2_0E;
-  eF074E2_0E  =  2071677089;
+  eF074E2_0E  =  (unsigned short)2071677089;
 	int	HYt7KKk4f;
 	HYt7KKk4f	=	1109670343;
 	long	a8OIwP;
@@ -187,7 +187,7 @@ int main(int argc, char** argv)
   float  o6d_024a5;
   o6d_024a5  =  1669199790;
     char    OEMC4csHi;
-    OEMC4csHi    =    -513023724;
+    OEMC4csHi    =    (char)-513023724;
 	long long	j2T9C14v1;
 	j2T9C14v1	=	-1533379828;
     unsigned char    uIvD6;

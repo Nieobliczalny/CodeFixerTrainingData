@@ -577,7 +577,7 @@ if ((LPm16qVy0 < KVz0) && (X3mP3M595f >= FJN5))
 {
 if (KVz0 < r75tDv4po)
 {
-std::cout << wV2UfP0p << "YKN_z38V54" << Br6_61c(QP5era, -226828465, 517766013, r_7E) << Br6_61c(-1095361872, aMIlG, eG0U, r_7E) << std::endl;
+std::cout << wV2UfP0p << "YKN_z38V54" << Br6_61c(QP5era, -226828465, (unsigned char)517766013, r_7E) << Br6_61c(-1095361872, aMIlG, eG0U, r_7E) << std::endl;
 }
 else
 {

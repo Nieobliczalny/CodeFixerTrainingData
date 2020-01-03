@@ -134,7 +134,7 @@ case 'c':
 PZU_D = Pe2n(JzWtAB, 1761500106, 298605209, 1446765788, (short)-914460569);
 break;
 case 'd':
-PZU_D = Pe2n((unsigned short)-1012805019, 1457287023, B9VAzgE, 563352911, 318637805);
+PZU_D = Pe2n((unsigned short)-1012805019, 1457287023, B9VAzgE, 563352911, (short)318637805);
 break;
 case 'e':
 PZU_D = Pe2n((unsigned short)-1227248138, u9066SeB45, 1226371962, -1387625177, 602202353);

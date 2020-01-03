@@ -35,7 +35,7 @@ int main() {
 	float	Kr0g55Jx_	=	-1486045828;
   unsigned short  aBZ9w439H  =  (unsigned short)1375228047;
 	unsigned short int	Z6N6	=	(unsigned short)1834047527;
- char be09p6 = 147210520;
+ char be09p6 = (char)147210520;
  short int M7oqD9o = 0;
     unsigned short int    t_8xzq    =    -712269906;
     unsigned long long    CvS9K5Da4    =    1436832130;
@@ -228,7 +228,7 @@ return 0;
 }
 
 char  A5ycT(long long  InZ4Bs63o,long long  lWV5)  {
-  return  -1133531265;
+  return  (char)-1133531265;
 }
 
 char	XTq_X89(unsigned int	C5XZ8,short int	ke39,unsigned char	N94gmJ)	{

@@ -89,7 +89,7 @@ int main(void)
   short  N5kv_5P6U;
   N5kv_5P6U  =  (short)1027157406;
  unsigned short int MGLUt;
- MGLUt = 1539199436;
+ MGLUt = (unsigned short)1539199436;
   unsigned long long  tZJT;
   tZJT  =  -1745343087;
 	unsigned long	jMqiCcUA68;
@@ -141,7 +141,7 @@ int main(void)
     unsigned short int    FtoeFcs;
     FtoeFcs    =    (unsigned short)542536015;
  unsigned short IcA17fK_95;
- IcA17fK_95 = 784276757;
+ IcA17fK_95 = (unsigned short)784276757;
  char wMxt;
  wMxt = (char)-306306016;
     short    kPi5DCxN;
@@ -211,7 +211,7 @@ int main(void)
     short int    Z0iw;
     Z0iw    =    (short)-691631339;
 	char	CRH72A5G;
-	CRH72A5G	=	-581938289;
+	CRH72A5G	=	(char)-581938289;
   unsigned long long  KMwr_;
   KMwr_  =  -1048441552;
 

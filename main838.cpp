@@ -82,7 +82,7 @@ int main(void)
 	unsigned int	j3Ac;
 	j3Ac	=	-1511498389;
     unsigned short int    k37OTH6ih;
-    k37OTH6ih    =    -2105060312;
+    k37OTH6ih    =    (unsigned short)-2105060312;
 	double	BL_9866;
 	BL_9866	=	1490402605;
   int  vtKf6J;
@@ -96,7 +96,7 @@ int main(void)
     unsigned short    kmmdI;
     kmmdI    =    (unsigned short)-1388615704;
   unsigned short int  rD331e70;
-  rD331e70  =  777624472;
+  rD331e70  =  (unsigned short)777624472;
     long    Iz7I5nTh7;
     Iz7I5nTh7    =    1647094488;
     unsigned long    ke_1bFz7;

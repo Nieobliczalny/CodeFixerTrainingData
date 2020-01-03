@@ -56,7 +56,7 @@ int main()
  unsigned short int z3M_10;
  z3M_10 = (unsigned short)-1241715467;
     unsigned short    brUEYi3j;
-    brUEYi3j    =    -805671722;
+    brUEYi3j    =    (unsigned short)-805671722;
   unsigned short int  VDhw;
   VDhw  =  1793175100;
   unsigned short int  H15a;
@@ -136,7 +136,7 @@ int main()
   unsigned short int  ylMr8T;
   ylMr8T  =  (unsigned short)1795970383;
     unsigned short int    CnV9ABVx;
-    CnV9ABVx    =    -163017332;
+    CnV9ABVx    =    (unsigned short)-163017332;
  long long b_sU;
  b_sU = -1317380756;
   long long  l6e1YCsuWx;

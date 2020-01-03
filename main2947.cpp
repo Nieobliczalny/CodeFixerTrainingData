@@ -456,7 +456,7 @@ case 6:
 k7I2 ^= uqD68;
 break;
 case 7:
-w8Ig8Bx0 = JfIHuuCR(kMhZ_, uqD68, -212143824) / TQ_7Y9_;
+w8Ig8Bx0 = JfIHuuCR(kMhZ_, uqD68, (unsigned char)-212143824) / TQ_7Y9_;
 break;
 }
 }

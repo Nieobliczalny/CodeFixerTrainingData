@@ -54,7 +54,7 @@ int main() {
   int  IDDeZVZ0  =  -436710309;
  float NncQPon20w = -266397309;
  long long Fi9q3iD = 132380146;
-    unsigned char    C1c5zhA_    =    807100198;
+    unsigned char    C1c5zhA_    =    (unsigned char)807100198;
  unsigned long rvWt10 = 1851079400;
 	short int	VBQ7	=	(short)-10993414;
 	long	b2z3Ffdr	=	-1403078300;
@@ -71,7 +71,7 @@ int main() {
   short  F07c9C__  =  (short)738284479;
 	unsigned char	DHJnM3TXt	=	(unsigned char)2015300888;
  unsigned long DoBU = 742499151;
-    short int    XRu2uTUQ2    =    -996463847;
+    short int    XRu2uTUQ2    =    (short)-996463847;
   unsigned short  e__p  =  -921386616;
 	long double	SrIg4	=	-1569049922;
  double Ul76 = -1242562413;
@@ -352,7 +352,7 @@ z9D4 = (int)abs(OzBKxec);
 }
 }
 VLJW = (int)ceil(N7O0gRUK3);
-cout << V6Wbu((unsigned short)2062783967, (unsigned char)-1808916545) << V6Wbu(V1s_443r, (unsigned char)-1750263414) << V6Wbu(-1646888230, XOjlY) << endl;
+cout << V6Wbu((unsigned short)2062783967, (unsigned char)-1808916545) << V6Wbu(V1s_443r, (unsigned char)-1750263414) << V6Wbu((unsigned short)-1646888230, XOjlY) << endl;
 
 cout << "M__vWKj" << "yUD3_u_I" << endl;
 

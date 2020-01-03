@@ -48,7 +48,7 @@ int main(int argc, char** argv) {
     short int    Ft9d_0k    =    (short)1773765336;
     unsigned short int    VeyV    =    0;
  short int yl_DPJGb_d = (short)-1640817386;
-    short int    Jdd0_Z0A    =    -291284283;
+    short int    Jdd0_Z0A    =    (short)-291284283;
  unsigned short int aQpVf60_0 = -2060232641;
     unsigned short    h1gg5    =    -2038767454;
  unsigned short int kS7KJ = (unsigned short)1915197929;

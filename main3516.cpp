@@ -31,7 +31,7 @@ int main() {
   int  t4t4D73;
   t4t4D73  =  892550163;
     char    fr_h;
-    fr_h    =    567072614;
+    fr_h    =    (char)567072614;
   unsigned long long  Y0_dsWp8;
   Y0_dsWp8  =  -806275567;
  short int p7d2fYMpSD;
@@ -97,7 +97,7 @@ int main() {
   short int  pEgd92;
   pEgd92  =  (short)187565896;
  unsigned char N9Cx;
- N9Cx = -1553248246;
+ N9Cx = (unsigned char)-1553248246;
 	float	BsIzm;
 	BsIzm	=	1588378912;
   double  e92g3_HIu;

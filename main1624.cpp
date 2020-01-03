@@ -47,7 +47,7 @@ int main()
   unsigned int  eue04U;
   eue04U  =  47379487;
     unsigned char    JLOV_ob;
-    JLOV_ob    =    -1292663256;
+    JLOV_ob    =    (unsigned char)-1292663256;
   unsigned short  kfXIVBf7Ea;
   kfXIVBf7Ea  =  0;
   unsigned long long  do5EmVWoq;
@@ -61,7 +61,7 @@ int main()
 	unsigned short int	JSMeU73Yw;
 	JSMeU73Yw	=	(unsigned short)-1783406512;
  short int z37m9Gw;
- z37m9Gw = -626923119;
+ z37m9Gw = (short)-626923119;
     long    MWOa3ROW;
     MWOa3ROW    =    1938299098;
     long    QtUb_d;
@@ -125,7 +125,7 @@ int main()
     double    PCuMk;
     PCuMk    =    -1994597399;
  short int Y8jeXq;
- Y8jeXq = 1059707606;
+ Y8jeXq = (short)1059707606;
 	unsigned long	SIHy0_O;
 	SIHy0_O	=	-182527383;
     long long    VKIp;

@@ -58,7 +58,7 @@ int main(int argc, char** argv)
     float    ut6h;
     ut6h    =    -841373858;
  unsigned short int CHEolbgd;
- CHEolbgd = -1701419064;
+ CHEolbgd = (unsigned short)-1701419064;
     long long    J0miLHz8j7;
     J0miLHz8j7    =    -2094024235;
  long double W018E;
@@ -98,7 +98,7 @@ int main(int argc, char** argv)
   unsigned short  VM4tQ;
   VM4tQ  =  (unsigned short)-1113069403;
 	short int	Rz2f;
-	Rz2f	=	1268889653;
+	Rz2f	=	(short)1268889653;
  float kSDlpoLy;
  kSDlpoLy = -1237805741;
 

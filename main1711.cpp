@@ -45,7 +45,7 @@ int main(void) {
   double  qN_k8  =  -470083932;
     unsigned long    f_7rr96o    =    619611928;
     short    gK21_K2wd6    =    (short)-1451032989;
-  char  T7lHXa__m  =  1477632904;
+  char  T7lHXa__m  =  (char)1477632904;
   unsigned short int  vvFg02  =  -1090780130;
 	float	XbFEl	=	-1922830158;
   unsigned long  fiCkJ  =  624265945;
@@ -247,7 +247,7 @@ qN_k8 = p4B73bI76(1755774126, (short)429368822, -151075013, -119783822, pLQnN6);
 }
 else if (pLQnN6 != 453197039)
 {
-std::cout << "CYU2j__J" << "R_IuL85" << My9kF4 << p4B73bI76(2037664519, (short)1141311497, 841226790, RXHJFsllr, pLQnN6) << gH8eN(qN_k8, (short)-1548645591, 622018147, RXHJFsllr) << std::endl;
+std::cout << "CYU2j__J" << "R_IuL85" << My9kF4 << p4B73bI76(2037664519, (short)1141311497, 841226790, RXHJFsllr, pLQnN6) << gH8eN(qN_k8, (short)-1548645591, (unsigned short)622018147, RXHJFsllr) << std::endl;
 }
 else if (pLQnN6 <= fiCkJ)
 {
@@ -282,7 +282,7 @@ while (j < 6);
 }
 else
 {
-std::cout << vq892(-880309264, (unsigned short)-1457687907, 1741190686, -1187188814) << gH8eN((unsigned short)2104866092, (short)1168462248, 1114667024, RXHJFsllr) << std::endl;
+std::cout << vq892(-880309264, (unsigned short)-1457687907, 1741190686, -1187188814) << gH8eN((unsigned short)2104866092, (short)1168462248, (unsigned short)1114667024, RXHJFsllr) << std::endl;
 }
 A_29rhOh += v0WQ48gJ;
 std::cout << "V4Bs" << RXHJFsllr << U4F1_ << "dggY99t" << std::endl;

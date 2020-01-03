@@ -22,7 +22,7 @@ int main()
  short int r1vHo4h = (short)-1129188910;
     unsigned short int    Ca1xW7t60X    =    0;
   int  A2y4P  =  529798951;
- unsigned short int A6Zi3jtj56 = -1473246352;
+ unsigned short int A6Zi3jtj56 = (unsigned short)-1473246352;
   long long  LQ7610mI  =  -2118364961;
 	short int	Fe95DO	=	2032167896;
   float  f0_i  =  930299115;

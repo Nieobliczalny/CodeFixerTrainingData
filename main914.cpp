@@ -105,7 +105,7 @@ S3f79rg4 = y22SqE8V_((short)1566538813, h_Cr0jSkV, -559604418, (unsigned char)11
 break;
 case 'e':
 case 'E':
-Lq08__ = y22SqE8V_((short)-1853047466, S3f79rg4, -840206058, -1310316770, yz_Df3);
+Lq08__ = y22SqE8V_((short)-1853047466, S3f79rg4, -840206058, (unsigned char)-1310316770, yz_Df3);
 break;
 case 'f':
 case 'F':
@@ -239,7 +239,7 @@ case 0:
 nfIBr = (EdqaS5jWD5 == -817966855) ? y22SqE8V_((short)-1248501376, (unsigned short)1916762050, -1960296930, YOrzqGtND, u30eAG48XR) : aHe4EBE1H2;
 break;
 case 1:
-cX4XQSHn7_ = y22SqE8V_((short)-2033983753, 1619501660, eVoOsl53k, i1r35zLPt, rQS2p3bao);
+cX4XQSHn7_ = y22SqE8V_((short)-2033983753, (unsigned short)1619501660, eVoOsl53k, i1r35zLPt, rQS2p3bao);
 break;
 case 2:
 S3f79rg4 = y22SqE8V_(1289145421, M1b1, 1603533988, S3f79rg4, -1625742025);
@@ -288,7 +288,7 @@ case 6:
 rQS2p3bao = (int)floor(P_32);
 break;
 case 7:
-Lq08__ = y22SqE8V_(RXM_, (unsigned short)2136073004, M1b1, -1857968309, Lq08__);
+Lq08__ = y22SqE8V_(RXM_, (unsigned short)2136073004, M1b1, (unsigned char)-1857968309, Lq08__);
 break;
 case 8:
 M1b1 = y22SqE8V_(RXM_, (unsigned short)-1709888008, 1807522850, (unsigned char)-948336141, Lq08__) * yz_Df3;

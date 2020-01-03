@@ -128,7 +128,7 @@ int main(int argc, char** argv) {
 	short	jO6JjS8Q4;
 	jO6JjS8Q4	=	(short)747263105;
     unsigned char    xO07Ln7z4;
-    xO07Ln7z4    =    1063504493;
+    xO07Ln7z4    =    (unsigned char)1063504493;
   int  fJOqDRO9j;
   fJOqDRO9j  =  -1378037374;
 	double	r21X0W;
@@ -170,7 +170,7 @@ case 'f':
 W508xEVx1 = (int)floor(N61__P);
 break;
 case 'g':
-s8M6cnD_7 = uO5DGx2Nl(-1737725235, AAsCTDy, F__2M8_5, HbU03);
+s8M6cnD_7 = uO5DGx2Nl((unsigned short)-1737725235, AAsCTDy, F__2M8_5, HbU03);
 break;
 case 'h':
 R4xB8l &= 1711751872;
@@ -523,7 +523,7 @@ F6qZb = (int)ceil(r21X0W);
 }
 else
 {
-std::cout << uO5DGx2Nl(pu8wvNSFIY, Y2U92DVE7b, 804016011, fJOqDRO9j) << uO5DGx2Nl(pu8wvNSFIY, (unsigned char)-190625222, -1081622023, fJOqDRO9j) << uO5DGx2Nl((unsigned short)-2036109344, (unsigned char)-490889616, -1239877707, fJOqDRO9j) << uO5DGx2Nl(1997515751, -1254308675, FFSUCgR7, fJOqDRO9j) << HbU03 << std::endl;
+std::cout << uO5DGx2Nl(pu8wvNSFIY, Y2U92DVE7b, 804016011, fJOqDRO9j) << uO5DGx2Nl(pu8wvNSFIY, (unsigned char)-190625222, -1081622023, fJOqDRO9j) << uO5DGx2Nl((unsigned short)-2036109344, (unsigned char)-490889616, -1239877707, fJOqDRO9j) << uO5DGx2Nl((unsigned short)1997515751, -1254308675, FFSUCgR7, fJOqDRO9j) << HbU03 << std::endl;
 }
 }
 
@@ -714,7 +714,7 @@ s8M6cnD_7 = uO5DGx2Nl((unsigned short)1813757360, W508xEVx1, C3z693g22, (short)2
 }
 else if ((davV55zNO & -299624117) || (T1a7 == ALY6))
 {
-eGcBoc9MUO = uO5DGx2Nl(r21X0W, (unsigned char)-925409422, -1147047353, 656543442) - dedhmx3;
+eGcBoc9MUO = uO5DGx2Nl(r21X0W, (unsigned char)-925409422, -1147047353, (short)656543442) - dedhmx3;
 }
 else
 {
@@ -757,7 +757,7 @@ s8M6cnD_7 = uO5DGx2Nl(QVar6, F__2M8_5, WNVsULf9zi, KBV6c6w_);
 }
 else if (f6CT <= -1805195526)
 {
-s8M6cnD_7 = uO5DGx2Nl((unsigned short)-1846595639, (unsigned char)1161338199, RkkdXn, 28383090);
+s8M6cnD_7 = uO5DGx2Nl((unsigned short)-1846595639, (unsigned char)1161338199, RkkdXn, (short)28383090);
 }
 else if (F6qZb < -433661620)
 {
@@ -783,7 +783,7 @@ case 'b':
 Bm2m5fGpe = uO5DGx2Nl(Ni6UU9, (unsigned char)962004137, Bm2m5fGpe, m8_M3B);
 break;
 case 'c':
-Bm2m5fGpe = uO5DGx2Nl(dtV1CVaZ6, -2141559617, VOzfclx, 960939375);
+Bm2m5fGpe = uO5DGx2Nl(dtV1CVaZ6, (unsigned char)-2141559617, VOzfclx, 960939375);
 break;
 default:
 HbU03 = (int)abs(Ci608G8061);

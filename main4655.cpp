@@ -19,7 +19,7 @@ int main(int argc, char** argv)
     short    a8kH    =    (short)1766875222;
  short ltd8P7EuU = (short)-769998589;
 	char	uBw66Qk82	=	0;
- unsigned short int j1u8cs0t4s = -1266081787;
+ unsigned short int j1u8cs0t4s = (unsigned short)-1266081787;
  char GYAfVtH39z = 1428729152;
 	unsigned long	z9c9p	=	-1703984848;
     unsigned char    nZZ9    =    -1995794022;

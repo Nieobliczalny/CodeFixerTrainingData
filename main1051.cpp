@@ -90,7 +90,7 @@ int main(int argc, char** argv)
   unsigned short  h810;
   h810  =  (unsigned short)-332547759;
 	unsigned short	iF76_4r7;
-	iF76_4r7	=	468901186;
+	iF76_4r7	=	(unsigned short)468901186;
   unsigned long  syx00P;
   syx00P  =  1789712014;
     char    WX62ZVrSg;
@@ -182,7 +182,7 @@ int main(int argc, char** argv)
 	int	O8Ni3_Bn;
 	O8Ni3_Bn	=	251614278;
 	short	G3FD4sEJ;
-	G3FD4sEJ	=	-265851522;
+	G3FD4sEJ	=	(short)-265851522;
  int t10b7Ezp;
  t10b7Ezp = 0;
   double  d2fw7F;

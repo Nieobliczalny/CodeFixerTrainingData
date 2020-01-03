@@ -204,7 +204,7 @@ i--;
 }
 }
 }
-iY6dP = p8Z2gEIhu((unsigned short)603322769, (unsigned short)-344177814, TPVm7_, (unsigned char)45588181, 1304682750);
+iY6dP = p8Z2gEIhu((unsigned short)603322769, (unsigned short)-344177814, TPVm7_, (unsigned char)45588181, (char)1304682750);
 b2e0 = (int)ceil(B4GWB44b8);
 {
 int i = 0;
@@ -375,7 +375,7 @@ case 'F':
 S7fWn = p8Z2gEIhu(S7fWn, va7rz0, -518928798, fRI1B, (char)-2010047385);
 break;
 default:
-T0gOAY8 = p8Z2gEIhu((unsigned short)-730431578, (unsigned short)-1807167465, iY6dP, -2032487960, cK91ps);
+T0gOAY8 = p8Z2gEIhu((unsigned short)-730431578, (unsigned short)-1807167465, iY6dP, (unsigned char)-2032487960, cK91ps);
 break;
 }
 return 0;

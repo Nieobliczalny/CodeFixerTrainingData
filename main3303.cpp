@@ -26,7 +26,7 @@ int  PGf33U35(unsigned int  He5Ex4vP4_,long  me309,unsigned long long  DOt_by_lK
 char  GP8P142Y_(unsigned int  Z57PnwF,unsigned short int  z_t3yCe,unsigned long  tDI8eZcJ9,unsigned short int  bf23EdTb,unsigned long  Sz2j);
 
 int main(void) {
-	short	hFSb2	=	(short)-1420473233,	kaLuz7_6	=	(short)-1869932982,	d_VMr68	=	(short)1865087349,	OG1z	=	785569466,	JHNzaosA	=	1421182842,	ohRh5_B	=	-591169066;
+	short	hFSb2	=	(short)-1420473233,	kaLuz7_6	=	(short)-1869932982,	d_VMr68	=	(short)1865087349,	OG1z	=	(short)785569466,	JHNzaosA	=	1421182842,	ohRh5_B	=	-591169066;
  int A5O_XO = 0, C1mpwB = 0;
 
 if (JHNzaosA == EsDXEwcjCm)

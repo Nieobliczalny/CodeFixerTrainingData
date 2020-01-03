@@ -41,7 +41,7 @@ int main(int argc, char** argv) {
 	unsigned char	r9oV1WcO8;
 	r9oV1WcO8	=	(unsigned char)-1163151731;
  unsigned short int w715h6LJ;
- w715h6LJ = -3626899;
+ w715h6LJ = (unsigned short)-3626899;
     unsigned char    amiq8;
     amiq8    =    (unsigned char)358159310;
  long long J7I06S8G;
@@ -51,7 +51,7 @@ int main(int argc, char** argv) {
 	short int	uI63;
 	uI63	=	(short)904835410;
  char DX8dL7S;
- DX8dL7S = 921585323;
+ DX8dL7S = (char)921585323;
  char eFm_ylF;
  eFm_ylF = 0;
     long long    Jr_33;
@@ -141,7 +141,7 @@ int main(int argc, char** argv) {
 	short	irazlec_M;
 	irazlec_M	=	(short)1753775776;
 	unsigned short	nS0M1;
-	nS0M1	=	485544436;
+	nS0M1	=	(unsigned short)485544436;
  long double D_9_Dhf;
  D_9_Dhf = 698456616;
  long long O8dQN;
@@ -183,7 +183,7 @@ int main(int argc, char** argv) {
  short int Dj906vN;
  Dj906vN = (short)-1983081675;
 	unsigned char	Ua9H9q;
-	Ua9H9q	=	-2099864761;
+	Ua9H9q	=	(unsigned char)-2099864761;
     unsigned long    RHaA_7;
     RHaA_7    =    -2045615082;
  double E3U4;
@@ -203,7 +203,7 @@ int main(int argc, char** argv) {
  char K69_BIbHL;
  K69_BIbHL = (char)1614021561;
 	short int	x4vin1Y07;
-	x4vin1Y07	=	-97911169;
+	x4vin1Y07	=	(short)-97911169;
   unsigned short int  PklOF_;
   PklOF_  =  (unsigned short)1925222007;
     double    fbTUt3;

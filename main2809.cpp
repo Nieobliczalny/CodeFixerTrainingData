@@ -18,7 +18,7 @@ int main()
  unsigned short int ac1e = (unsigned short)1544254751;
 	float	uMrE02Z	=	-11101282;
 	short int	uVfV2	=	(short)-621844689;
-    unsigned short    sOd8Qc    =    1075558834;
+    unsigned short    sOd8Qc    =    (unsigned short)1075558834;
     long long    FxZ9    =    -1457739606;
   unsigned long  u1G702WwA  =  1157456813;
   short  tmuhYHe2  =  1432885217;
@@ -247,7 +247,7 @@ case 6:
 uMrE02Z = (int)abs(uVfV2);
 break;
 case 7:
-Ygr82 = LbDlT7((unsigned short)-1481242437, TGUYQ_d34g, -952151644);
+Ygr82 = LbDlT7((unsigned short)-1481242437, TGUYQ_d34g, (char)-952151644);
 break;
 }
 }
@@ -295,7 +295,7 @@ case 6:
 u1G702WwA = LbDlT7((unsigned short)-1534285529, 317339905, (char)861272607) % 1238079598;
 break;
 case 7:
-Ygr82 = LbDlT7(1567787602, ujYoOl, -76080444);
+Ygr82 = LbDlT7((unsigned short)1567787602, ujYoOl, -76080444);
 break;
 case 8:
 Ygr82 = LbDlT7((unsigned short)1920786392, -2041591380, JOWA);

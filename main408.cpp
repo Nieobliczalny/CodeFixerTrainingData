@@ -84,7 +84,7 @@ int main(void) {
   char  rxMP_Xo__;
   rxMP_Xo__  =  (char)360666804;
   char  FiYISW;
-  FiYISW  =  -240291927;
+  FiYISW  =  (char)-240291927;
     unsigned long long    VQhco_Y5r;
     VQhco_Y5r    =    -156838734;
 	unsigned int	bSy4;
@@ -102,7 +102,7 @@ int main(void) {
     short    yW6_vkc7;
     yW6_vkc7    =    (short)118139762;
 	short	yYF17;
-	yYF17	=	360528984;
+	yYF17	=	(short)360528984;
     short    dBaV;
     dBaV    =    (short)1568490107;
  unsigned short int H571_;

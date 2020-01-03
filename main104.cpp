@@ -123,7 +123,7 @@ int main(int argc, char** argv) {
     short    G02avEy;
     G02avEy    =    (short)309345456;
 	short int	Rj4a1A1Q;
-	Rj4a1A1Q	=	29245378;
+	Rj4a1A1Q	=	(short)29245378;
  unsigned long LG_XVl6N;
  LG_XVl6N = -125190575;
   char  AbzzdX;
@@ -416,7 +416,7 @@ case 6:
 ZtrLVDRRE *= 1709369526;
 break;
 case 7:
-u2cURq = eq8RDb6(u2cURq, (char)271431993, -1307768493, bg36I9u258);
+u2cURq = eq8RDb6(u2cURq, (char)271431993, (char)-1307768493, bg36I9u258);
 break;
 case 8:
 hakMcBEW1 = mxnjaFgRa();

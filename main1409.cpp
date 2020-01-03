@@ -52,7 +52,7 @@ case 'c':
 KbWe = (int)abs(v_mKP4Y4m);
 break;
 case 'd':
-PN9b_B = LG55(-1075715911, j3q_m2AdCS, 2087776384);
+PN9b_B = LG55((short)-1075715911, j3q_m2AdCS, 2087776384);
 break;
 case 'e':
 S615 ^= VN8Z;
@@ -425,7 +425,7 @@ ht07irL0L = LG55(1488910935, rkgVscH6, yh8T0vkS);
 }
 else if (teLUkW_)
 {
-cout << YO2kNz_ << mqhe_5NxTG << "S02l3q6an" << Izomq394((short)-2037622278, rkgVscH6) << Izomq394(379304256, -675109647) << endl;
+cout << YO2kNz_ << mqhe_5NxTG << "S02l3q6an" << Izomq394((short)-2037622278, rkgVscH6) << Izomq394((short)379304256, -675109647) << endl;
 }
 else if (yh8T0vkS != rYFk3)
 {

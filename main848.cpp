@@ -72,7 +72,7 @@ int main(int argc, char** argv) {
   char  mX0_;
   mX0_  =  (char)-1210492118;
  short Al_9v8;
- Al_9v8 = 130927668;
+ Al_9v8 = (short)130927668;
     int    x7zU0;
     x7zU0    =    2055162959;
     long double    hKPI;
@@ -108,7 +108,7 @@ int main(int argc, char** argv) {
   short int  KipAFdf5n;
   KipAFdf5n  =  (short)535646099;
  unsigned char T_s5UZ88Sh;
- T_s5UZ88Sh = -1400872125;
+ T_s5UZ88Sh = (unsigned char)-1400872125;
   unsigned long  GMYPY05P_p;
   GMYPY05P_p  =  -202450178;
     unsigned short    A_mNb1_P;

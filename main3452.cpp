@@ -31,7 +31,7 @@ int main(void)
   int  ume0Z3m6Y  =  1839775187;
  short int jwTe = (short)-1036586212;
  int o9Md = 1244740044;
-	short	IwMxDY_R	=	-1228631986;
+	short	IwMxDY_R	=	(short)-1228631986;
     float    I9CBdO    =    -54020101;
     long long    p861Q806G    =    -158253857;
   unsigned short int  eg_0  =  -2039198433;
@@ -41,7 +41,7 @@ int main(void)
 	short int	qEYs6p9pX	=	(short)859391981;
   long double  ToPJ03  =  1273408599;
   unsigned short  J7tl28U5p  =  (unsigned short)-1989480888;
- unsigned short int vd_oEuD = 486855994;
+ unsigned short int vd_oEuD = (unsigned short)486855994;
     unsigned char    T9C4    =    56572455;
     short    P6I523    =    112386171;
   unsigned short  ezCD_  =  1663137643;

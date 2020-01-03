@@ -29,7 +29,7 @@ int main(int argc, char** argv)
  unsigned short eZtk8;
  eZtk8 = (unsigned short)-1759525585;
 	char	NbwNHO;
-	NbwNHO	=	891206213;
+	NbwNHO	=	(char)891206213;
   char  JFDCV;
   JFDCV  =  (char)2016827635;
     unsigned char    pYb6;
@@ -77,7 +77,7 @@ int main(int argc, char** argv)
     short    IDA6rO;
     IDA6rO    =    (short)240866935;
   unsigned short  K9GWW_;
-  K9GWW_  =  -373258570;
+  K9GWW_  =  (unsigned short)-373258570;
   unsigned long  m0Mk;
   m0Mk  =  1148301489;
 	double	HPB1;
@@ -91,7 +91,7 @@ int main(int argc, char** argv)
   unsigned long  hQdZvW;
   hQdZvW  =  -2115267772;
 	unsigned short	yT6SBq;
-	yT6SBq	=	1252897668;
+	yT6SBq	=	(unsigned short)1252897668;
     long    pHP5761a;
     pHP5761a    =    926219165;
 	long double	dx4eqI2GAb;
@@ -107,7 +107,7 @@ int main(int argc, char** argv)
 	unsigned short int	LdoYBJ;
 	LdoYBJ	=	(unsigned short)1840263664;
 	unsigned short int	Yzv9;
-	Yzv9	=	-1614299282;
+	Yzv9	=	(unsigned short)-1614299282;
   unsigned long long  gAO7;
   gAO7  =  -1652877643;
  long qur3R;
@@ -143,7 +143,7 @@ int main(int argc, char** argv)
 	char	b5Bs8fH_8W;
 	b5Bs8fH_8W	=	(char)1992567142;
   unsigned char  piRGD9Y1H;
-  piRGD9Y1H  =  -2075103414;
+  piRGD9Y1H  =  (unsigned char)-2075103414;
 	short int	dvaHT;
 	dvaHT	=	(short)-24243475;
 	char	ppqmIphO;
@@ -190,7 +190,7 @@ catch (int& errorCode)
 lm8AOemB4 = (int)ceil(s3k500c);
 }
 Hl1C = K86C(lXNI5du, (unsigned short)-734197966, (unsigned short)15837295, i9M26);
-cout << "M5g95CrZ" << K86C(-1947093747, Ou5QDx0, (unsigned short)1699142816, -979653203) << "EkKULqq" << VdQG << endl;
+cout << "M5g95CrZ" << K86C(-1947093747, Ou5QDx0, (unsigned short)1699142816, (unsigned short)-979653203) << "EkKULqq" << VdQG << endl;
 
 switch (PJ0o)
 {
@@ -232,7 +232,7 @@ catch (int& errorCode)
 j5A6fDZ7 = (int)ceil(HPB1);
 }
 
-VdQG = K86C(-304573160, (unsigned short)-1215877596, IDA6rO, -1256503433);
+VdQG = K86C(-304573160, (unsigned short)-1215877596, IDA6rO, (unsigned short)-1256503433);
 
 try
 {
@@ -304,7 +304,7 @@ VdQG = K86C(-950294841, IDA6rO, (unsigned short)468614337, (unsigned short)56722
 break;
 case 'b':
 case 'B':
-Hl1C = K86C(-1587102593, (unsigned short)-71921495, 1884286412, b2D0cqh);
+Hl1C = K86C(-1587102593, (unsigned short)-71921495, (unsigned short)1884286412, b2D0cqh);
 break;
 case 'c':
 case 'C':
@@ -438,7 +438,7 @@ case 1:
 T4rb5_O = (int)floor(i9M26);
 break;
 case 2:
-Hl1C = K86C(snf009B, hQdZvW, (unsigned short)-1950738379, -1596831753);
+Hl1C = K86C(snf009B, hQdZvW, (unsigned short)-1950738379, (unsigned short)-1596831753);
 break;
 case 3:
 dx4eqI2GAb = (int)floor(Izw7qn);

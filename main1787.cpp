@@ -73,7 +73,7 @@ int main()
 	short	Sy86xgtI;
 	Sy86xgtI	=	(short)2126712530;
 	short	gFSmY9;
-	gFSmY9	=	-1964475338;
+	gFSmY9	=	(short)-1964475338;
 	unsigned short	Gex2vkp2Z;
 	Gex2vkp2Z	=	1464187500;
  unsigned int zaPoi;
@@ -97,7 +97,7 @@ int main()
   unsigned char  b3eg2tFz;
   b3eg2tFz  =  (unsigned char)1934766752;
  short J9UQ;
- J9UQ = -1508566075;
+ J9UQ = (short)-1508566075;
  long long Lx4vE;
  Lx4vE = 908304047;
  unsigned short int pK14;
@@ -107,7 +107,7 @@ int main()
   short int  b_7tQq3AZ;
   b_7tQq3AZ  =  (short)1211331880;
  short RlGxN;
- RlGxN = 1129226396;
+ RlGxN = (short)1129226396;
     unsigned int    Ly6LJR;
     Ly6LJR    =    465121043;
 
@@ -236,7 +236,7 @@ case 'd':
 qPgjKemA8c = (int)floor(pCcf0Xe22t);
 break;
 case 'e':
-pK14 = bOCAFI(-195166091, -1259424927, -1037215800, Gex2vkp2Z, RlzR8_);
+pK14 = bOCAFI((unsigned short)-195166091, -1259424927, -1037215800, Gex2vkp2Z, RlzR8_);
 break;
 default:
 pCcf0Xe22t = (int)ceil(gr0gr2x);
@@ -350,7 +350,7 @@ case 2:
 zaPoi = bOCAFI((unsigned short)2092398658, (short)2120466091, (char)-517397800, sOMDwB4w, -1839740337);
 break;
 case 3:
-AHhLS = bOCAFI(AHhLS, -1449882076, 283874332, 517559693, J9UQ);
+AHhLS = bOCAFI(AHhLS, (short)-1449882076, 283874332, 517559693, J9UQ);
 break;
 case 4:
 pCcf0Xe22t = (int)ceil(o2Nk10);

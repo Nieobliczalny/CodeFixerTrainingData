@@ -39,7 +39,7 @@ int main(void)
  long NCPC85x = 519652956;
 	short int	l9I3m0Y	=	(short)-2075869450;
  double j8iM = -890406560;
-  unsigned short  pZTKg1OKg  =  -743364285;
+  unsigned short  pZTKg1OKg  =  (unsigned short)-743364285;
 	char	MQyGvc	=	298571750;
     unsigned char    fi5L0    =    1907642480;
   unsigned long long  A0twiw2y4  =  939724825;
@@ -64,7 +64,7 @@ int main(void)
 	long long	P38NxjQd76	=	484438066;
   unsigned char  yoVFZ753c5  =  0;
 	short int	i2LM6P2	=	(short)964756323;
-  char  uL8gtKz_Q  =  1114673396;
+  char  uL8gtKz_Q  =  (char)1114673396;
   unsigned long long  A20Lq  =  0;
  unsigned long s1B3 = 1202729753;
   unsigned int  pR2ui4  =  -332824838;
@@ -79,7 +79,7 @@ int main(void)
 	float	DA3_5	=	295256353;
  unsigned int feSv1s = 2086703965;
 	short int	irs0mTRAj3	=	(short)1333608266;
-  short  l_5_V8_f  =  39120926;
+  short  l_5_V8_f  =  (short)39120926;
 	short int	jL84_s8T0P	=	280438397;
     unsigned long long    V4bcQ    =    1641726410;
     long    V6ru4T    =    -133221458;
@@ -94,7 +94,7 @@ int main(void)
  char po6K8zy = (char)-142582767;
     unsigned long long    z38Pu_FTX    =    -1699174734;
  short int fLG0Bl = (short)1915321760;
-    unsigned char    uxbvyByBn    =    -10774327;
+    unsigned char    uxbvyByBn    =    (unsigned char)-10774327;
     unsigned long    e9vGC    =    -527242243;
  float O06eqKGz85 = 629599975;
     short int    PzhQ0p_    =    -1184911937;
@@ -107,7 +107,7 @@ int main(void)
  int Gw9d9 = 387613973;
 	unsigned char	Hj9eer9I	=	(unsigned char)-424235672;
     short int    Kd9V    =    (short)1895041954;
-	unsigned short int	vVkG7o5e	=	1800256990;
+	unsigned short int	vVkG7o5e	=	(unsigned short)1800256990;
  unsigned short int jVKQe = -893557860;
 	short	fuQg6sk	=	760881767;
     float    H88GWVT    =    495386345;
@@ -299,7 +299,7 @@ DK95Tql17M = QZeO95(DK95Tql17M, (short)-605609747, l_5_V8_f, -796620491, (unsign
 }
 else
 {
-jL84_s8T0P = QZeO95(jL84_s8T0P, (short)905619979, 1226755019, AK_72, 1484134125);
+jL84_s8T0P = QZeO95(jL84_s8T0P, (short)905619979, 1226755019, AK_72, (unsigned char)1484134125);
 }
 return 0;
 }

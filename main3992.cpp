@@ -20,7 +20,7 @@ int main()
     unsigned int    SFb9_PrE    =    621321289;
  unsigned short int HDs1cjI = (unsigned short)-55864033;
  short int xKi_ER = (short)496016251;
-  short int  N4ly7_JUa  =  1531836629;
+  short int  N4ly7_JUa  =  (short)1531836629;
 	int	dK_Uf8	=	-2009521937;
   unsigned int  uTvF0_S5P3  =  1882423225;
   short  a8_rEvpM  =  479572299;
@@ -50,7 +50,7 @@ int main()
     double    Q157    =    1874470304;
 	unsigned short int	V3BxYPmyV	=	(unsigned short)1354880474;
   double  cZ5AZ2  =  -1655658773;
- short OEP8Ap8uJ = 1519045162;
+ short OEP8Ap8uJ = (short)1519045162;
   double  dtpj  =  1252613145;
 	long	Sp4_mKI	=	873865243;
     unsigned long long    k8hV    =    -1885997390;
@@ -63,7 +63,7 @@ int main()
     int    C9PTaiBM    =    859844593;
 	int	qq50bv0	=	-1656537368;
 	unsigned short	oxK4YIx	=	(unsigned short)-426370514;
-	char	ByWUri4	=	-1948813013;
+	char	ByWUri4	=	(char)-1948813013;
     long double    Y0sY26    =    852516093;
  float z0iMcf7nR1 = -727669343;
   unsigned short int  kyDsO  =  (unsigned short)614392369;
@@ -77,7 +77,7 @@ int main()
     unsigned int    Z_v7uy1J    =    290450368;
 	unsigned short int	zohPU4Qv	=	(unsigned short)-469711468;
     unsigned short    O4V2L4hv9    =    (unsigned short)461012928;
-    short    OKz_67    =    107839108;
+    short    OKz_67    =    (short)107839108;
   float  alMzQQ  =  -1031942182;
 	double	kYB469b	=	-947770358;
 	char	ST064xPjs	=	(char)-1664772309;
@@ -92,7 +92,7 @@ int main()
   short  wi7OCRFX  =  (short)1673832467;
   unsigned short  IPP4ape8P  =  (unsigned short)1937433698;
     unsigned short int    Gb9J    =    (unsigned short)386048107;
-	unsigned char	XJ_7A4HrZ	=	-697802633;
+	unsigned char	XJ_7A4HrZ	=	(unsigned char)-697802633;
 
 for (int i = 9; i >= 0; --i)
 {
@@ -182,7 +182,7 @@ hMC57p2 = k8hV | ST064xPjs;
 }
 else if (XJ_7A4HrZ != PmC23T)
 {
-std::cout << WUHhE4(-359791456, TF3Y, -883905777, (unsigned short)1013145172, qq50bv0) << WUHhE4(oO_pE, (unsigned short)-202585543, -1691754599, (unsigned short)-1561739119, qq50bv0) << "mXwd11n14" << WUHhE4(oO_pE, 1065895877, -574107551, -1342551734, qq50bv0) << TAK7q << std::endl;
+std::cout << WUHhE4(-359791456, TF3Y, -883905777, (unsigned short)1013145172, qq50bv0) << WUHhE4(oO_pE, (unsigned short)-202585543, -1691754599, (unsigned short)-1561739119, qq50bv0) << "mXwd11n14" << WUHhE4(oO_pE, (unsigned short)1065895877, -574107551, -1342551734, qq50bv0) << TAK7q << std::endl;
 }
 else if (Sp4_mKI >= -1274648396)
 {

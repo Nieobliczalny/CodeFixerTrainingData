@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
  Fc8L4WB = (short)-614992798;
  h2t775N7 = (short)50768399;
  d0BSKB = (short)-1166152535;
- nt5e2 = 1822711738;
+ nt5e2 = (short)1822711738;
  GfHp = -1751417218;
  b685 = 1192278122;
   unsigned short int  lJdZjkv7Fx,  I7kRxwl;
@@ -264,7 +264,7 @@ case 'e':
 GfHp = (lJdZjkv7Fx != -1718292921) ? (short)-166980830 : (short)1600043932;
 break;
 default:
-h2t775N7 = yW26QZ(h2t775N7, -1172887753, d0BSKB);
+h2t775N7 = yW26QZ(h2t775N7, (char)-1172887753, d0BSKB);
 break;
 }
 

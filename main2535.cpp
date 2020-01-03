@@ -65,7 +65,7 @@ case 2:
 UNd9842p3 = (Fh80niJgf < 1949102544) ? H_2Pe((unsigned char)-115413451, -1509334407, (unsigned short)844551103) : -8648865;
 break;
 case 3:
-hhQulBFr = H_2Pe((unsigned char)-2088438396, Q_L86, -1380611900);
+hhQulBFr = H_2Pe((unsigned char)-2088438396, Q_L86, (unsigned short)-1380611900);
 break;
 case 4:
 X8G6Q96 = QjB7ldPLi1(NffRiyQ, esGbW, Jc_mt);
@@ -188,7 +188,7 @@ case 2:
 IH8b_r8 /= E6lRfN2;
 break;
 case 3:
-a73uGX = H_2Pe((unsigned char)-588632311, -197812918, 395064760);
+a73uGX = H_2Pe((unsigned char)-588632311, -197812918, (unsigned short)395064760);
 break;
 case 4:
 Sa4T9_T = (int)abs(bfOH37DwxE);

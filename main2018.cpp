@@ -51,7 +51,7 @@ int main(int argc, char** argv)
 	unsigned short int	v2_bA_D5J;
 	v2_bA_D5J	=	0;
     unsigned short    Q_ZWo2h2;
-    Q_ZWo2h2    =    58492531;
+    Q_ZWo2h2    =    (unsigned short)58492531;
   float  uBa94lu7;
   uBa94lu7  =  -1097047379;
 	float	zr_4W2P;

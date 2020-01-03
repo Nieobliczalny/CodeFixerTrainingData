@@ -25,7 +25,7 @@ Wm6B6Ea = T75P8((unsigned short)1159050506, (char)-1495712621, TPT7z_an) + acMh2
 break;
 case 'b':
 case 'B':
-m9eV3V = T75P8(1844855025, ewzEx962vJ, TPT7z_an) & 894406074;
+m9eV3V = T75P8((unsigned short)1844855025, ewzEx962vJ, TPT7z_an) & 894406074;
 break;
 case 'c':
 case 'C':
@@ -158,7 +158,7 @@ else if ((W90rU6L <= 1186326892) || (P212o0 > 804792850))
 {
 try
 {
-P212o0 = T75P8((unsigned short)757640966, 1063805031, 1076250491);
+P212o0 = T75P8((unsigned short)757640966, (char)1063805031, 1076250491);
 }
 catch (int& errorCode)
 {

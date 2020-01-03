@@ -31,7 +31,7 @@ int main(void) {
 	char	lKZ834pON;
 	lKZ834pON	=	(char)885563401;
     unsigned short int    jSA1a1;
-    jSA1a1    =    -44037178;
+    jSA1a1    =    (unsigned short)-44037178;
 	long	Bh2kKv;
 	Bh2kKv	=	583072071;
   short int  I_hIQnE;
@@ -73,7 +73,7 @@ int main(void) {
   unsigned char  z18k;
   z18k  =  (unsigned char)1203566752;
 	unsigned short	Ba0ttE;
-	Ba0ttE	=	1106682675;
+	Ba0ttE	=	(unsigned short)1106682675;
  short WdbV899;
  WdbV899 = (short)95115625;
   short  uD6iR1EZ;
@@ -107,7 +107,7 @@ int main(void) {
  unsigned char l4J5_5g;
  l4J5_5g = (unsigned char)1695240709;
   unsigned short int  V9v792dEc;
-  V9v792dEc  =  226007026;
+  V9v792dEc  =  (unsigned short)226007026;
 	unsigned long long	QnTddj;
 	QnTddj	=	1081926881;
 

@@ -93,7 +93,7 @@ int main(void)
 	unsigned long long	zqlnc1w;
 	zqlnc1w	=	0;
   unsigned short  XX0Ww8m_F;
-  XX0Ww8m_F  =  -1031061952;
+  XX0Ww8m_F  =  (unsigned short)-1031061952;
   char  eEYe6cM;
   eEYe6cM  =  (char)-327343552;
   float  wL6lt8yB;

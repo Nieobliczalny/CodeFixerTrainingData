@@ -474,7 +474,7 @@ ZqP4w = (int)floor(VsHhZ3ac);
 }
 else if (I64OR5 >= 428495017)
 {
-S1P0eEk = eWReOW((unsigned short)-1542822349, -1552484381, q_x8g_2o, eNrH5);
+S1P0eEk = eWReOW((unsigned short)-1542822349, (unsigned char)-1552484381, q_x8g_2o, eNrH5);
 }
 else if ((I64OR5 >= 764557186) || ((quoa__Ew > ZqP4w) || (RwVc9Zlx != NsNA)))
 {

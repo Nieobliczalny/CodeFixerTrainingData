@@ -93,7 +93,7 @@ case 5:
 QLa5rD = f0_CEFVwu(Zm_uA7w, EPGSZ33x, (unsigned char)2144823171);
 break;
 case 6:
-QLa5rD = f0_CEFVwu(ki2_DKZy, -544049277, z_0gW8_zSQ);
+QLa5rD = f0_CEFVwu(ki2_DKZy, (char)-544049277, z_0gW8_zSQ);
 break;
 case 7:
 okV_SO = f0_CEFVwu(960598899, mBAAG_A, -456676955);
@@ -107,7 +107,7 @@ else if (m1NRJMEG81 == -1652200821)
 {
 try
 {
-l2ufSloxix = f0_CEFVwu((short)-12048398, 601433479, 1679127014);
+l2ufSloxix = f0_CEFVwu((short)-12048398, (char)601433479, 1679127014);
 }
 catch (int& errorCode)
 {
@@ -127,7 +127,7 @@ uqP6I1WQ = L_20y6 & FSUC4;
 }
 else if (W4L_Ue_ <= 1145136827)
 {
-std::cout << uptQWZmqM << "CTO7hybr" << f0_CEFVwu((short)2034747998, wt86Ov, (unsigned char)1301230416) << f0_CEFVwu((short)-907581677, -1940869500, uqP6I1WQ) << "d_q1w" << std::endl;
+std::cout << uptQWZmqM << "CTO7hybr" << f0_CEFVwu((short)2034747998, wt86Ov, (unsigned char)1301230416) << f0_CEFVwu((short)-907581677, (char)-1940869500, uqP6I1WQ) << "d_q1w" << std::endl;
 }
 else
 {
@@ -228,7 +228,7 @@ okV_SO = f0_CEFVwu(EI17RH, (char)489228095, (unsigned char)1529943571);
 }
 else if ((QLa5rD < 766565866) && ((qcq2AK5_) && (xs5fuk8 >= -390337227)))
 {
-l2ufSloxix = f0_CEFVwu((short)1641525005, 660389232, -65989953);
+l2ufSloxix = f0_CEFVwu((short)1641525005, (char)660389232, -65989953);
 }
 else if (L_20y6)
 {
@@ -277,7 +277,7 @@ case 'd':
 okV_SO = f0_CEFVwu(LN0g7, (char)-98297845, okV_SO);
 break;
 default:
-QLa5rD = f0_CEFVwu(53508931, 1156549511, i9tBur);
+QLa5rD = f0_CEFVwu((short)53508931, 1156549511, i9tBur);
 break;
 }
 }
@@ -291,7 +291,7 @@ if ((bcUqY <= 633602221) && (tgc5e > xs5fuk8))
 switch (URw8)
 {
 case 0:
-okV_SO = f0_CEFVwu((short)307178515, -890412223, -1312281682);
+okV_SO = f0_CEFVwu((short)307178515, (char)-890412223, -1312281682);
 break;
 case 1:
 l2ufSloxix = f0_CEFVwu((short)1187036463, (char)1333807618, 1633889093);
@@ -380,7 +380,7 @@ qcq2AK5_ %= 170193515;
 }
 else if ((tgc5e < -1195055756) || (uqP6I1WQ < -263295298))
 {
-EI17RH = f0_CEFVwu((short)24263121, LN0g7, -14853206) ^ T4yS0gU;
+EI17RH = f0_CEFVwu((short)24263121, LN0g7, (unsigned char)-14853206) ^ T4yS0gU;
 }
 else
 {
@@ -485,7 +485,7 @@ catch (int& errorCode)
 bcUqY <<= 364504326;
 }
 }
-okV_SO = f0_CEFVwu(bcUqY, (char)-2031911889, -1826657770);
+okV_SO = f0_CEFVwu(bcUqY, (char)-2031911889, (unsigned char)-1826657770);
 for (int i = 5; i >= 0; i--)
 {
 qcq2AK5_ >>= 1003480763;

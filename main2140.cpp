@@ -72,7 +72,7 @@ int main() {
   short  m795V;
   m795V  =  (short)-770473570;
  unsigned short int c4ScC;
- c4ScC = -2092337545;
+ c4ScC = (unsigned short)-2092337545;
     unsigned char    JH0F3wRO;
     JH0F3wRO    =    (unsigned char)-837682544;
 	long long	pRTh8A1X;

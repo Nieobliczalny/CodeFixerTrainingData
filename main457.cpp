@@ -45,7 +45,7 @@ int main(int argc, char** argv) {
  unsigned short wIvrE;
  wIvrE = (unsigned short)-2071092667;
   unsigned char  Y5FQ1O_2xN;
-  Y5FQ1O_2xN  =  -1866048230;
+  Y5FQ1O_2xN  =  (unsigned char)-1866048230;
     unsigned short int    dpYKvQG1t3;
     dpYKvQG1t3    =    (unsigned short)-1826817247;
   unsigned short  rY_OI;
@@ -85,7 +85,7 @@ int main(int argc, char** argv) {
  unsigned short TR_iGW5;
  TR_iGW5 = (unsigned short)693021679;
  unsigned char S7oP0V05F;
- S7oP0V05F = 922702290;
+ S7oP0V05F = (unsigned char)922702290;
   double  huGP6;
   huGP6  =  -1832657133;
     long    A7D7;
@@ -121,7 +121,7 @@ int main(int argc, char** argv) {
  unsigned char H8Hc36c9n;
  H8Hc36c9n = (unsigned char)-2000479958;
   unsigned short int  WsPG;
-  WsPG  =  1678594548;
+  WsPG  =  (unsigned short)1678594548;
 	long long	Ev2q;
 	Ev2q	=	1131934804;
 

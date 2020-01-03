@@ -154,7 +154,7 @@ else if (FTMU494 & u9_fKGo9e9)
 switch (Kyy_J)
 {
 case 'a':
-u9_fKGo9e9 = L4i2(GEEUZ6_Na, (unsigned short)1416359157, -752366171, Kyy_J, -217574422) << S6R_2Lipx;
+u9_fKGo9e9 = L4i2(GEEUZ6_Na, (unsigned short)1416359157, (unsigned short)-752366171, Kyy_J, -217574422) << S6R_2Lipx;
 break;
 case 'b':
 W_x05Ms5 = TtjC90((unsigned short)-1492006248);
@@ -208,7 +208,7 @@ case 6:
 GEEUZ6_Na = L4i2((short)1769075324, Kyy_J, zgb30, 839137115, 2048756988);
 break;
 case 7:
-Hy1t = L4i2((short)-2074378738, Hy1t, 478857291, sc951kM, u9_fKGo9e9);
+Hy1t = L4i2((short)-2074378738, Hy1t, (unsigned short)478857291, sc951kM, u9_fKGo9e9);
 break;
 case 8:
 D8TF1k0 = TtjC90(D9mB_);

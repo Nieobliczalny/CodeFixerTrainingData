@@ -55,7 +55,7 @@ int main(void)
  unsigned short int vj4PI;
  vj4PI = (unsigned short)-1128769279;
  short Tdx_0W1;
- Tdx_0W1 = 491528396;
+ Tdx_0W1 = (short)491528396;
     long    FFU4z3;
     FFU4z3    =    0;
   unsigned int  aG_871N808;

@@ -363,7 +363,7 @@ QL83Mwwn = HaAww((short)-431334655, 2018170768, (unsigned short)-1976595917, (sh
 break;
 case 'd':
 case 'D':
-Yxn0KGE = HaAww(Yxn0KGE, bjSC, 879199585, b8eC);
+Yxn0KGE = HaAww(Yxn0KGE, bjSC, (unsigned short)879199585, b8eC);
 break;
 case 'e':
 case 'E':
@@ -454,7 +454,7 @@ v___xxC = HaAww(Cl1vwO3, q1Zo07t_, UTK6RO, bjSC) | TLaPN4GR7P;
 }
 }
 }
-std::cout << HaAww(Cl1vwO3, q1Zo07t_, UTK6RO, bjSC) << HaAww((short)-745586001, q1Zo07t_, (unsigned short)236346851, (short)-1679124626) << HaAww(1341659886, -1484943675, 2036173276, bjSC) << RcCk3 << std::endl;
+std::cout << HaAww(Cl1vwO3, q1Zo07t_, UTK6RO, bjSC) << HaAww((short)-745586001, q1Zo07t_, (unsigned short)236346851, (short)-1679124626) << HaAww((short)1341659886, -1484943675, 2036173276, bjSC) << RcCk3 << std::endl;
 
 {
 int i = 0;
@@ -488,7 +488,7 @@ case 'g':
 sBl3jOlH <<= v3NGsKK_;
 break;
 case 'h':
-QL83Mwwn = HaAww((short)-1512075401, -1713557031, Bl6S4A9xc9, -1303287540);
+QL83Mwwn = HaAww((short)-1512075401, -1713557031, Bl6S4A9xc9, (short)-1303287540);
 break;
 case 'i':
 cqoNrRsdIt = HaAww((short)423139810, -710336047, (unsigned short)1880008747, -1515360235);

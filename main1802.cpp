@@ -75,7 +75,7 @@ int main(void) {
   unsigned short int  mgFx4K2o;
   mgFx4K2o  =  (unsigned short)627056481;
   short int  Wdjfn50q;
-  Wdjfn50q  =  -599308043;
+  Wdjfn50q  =  (short)-599308043;
   long  p_Lh25FzH;
   p_Lh25FzH  =  1728960589;
  short mefG0;
@@ -95,7 +95,7 @@ int main(void) {
   char  EMo71byq;
   EMo71byq  =  (char)258507376;
     unsigned short int    NM2Ss8;
-    NM2Ss8    =    1100148438;
+    NM2Ss8    =    (unsigned short)1100148438;
 	char	KeFtli;
 	KeFtli	=	1391266533;
     float    cGqX32e4t;

@@ -146,7 +146,7 @@ MRND = UM45145t2(I9b3aE, (unsigned short)1387204503, kC7K, 658963735) / 78324800
 }
 }
 
-std::cout << g1DJI6F(I9b3aE, (short)-1555988726, kC7K, -1193837757, (short)-381055920) / C2U0fe(1395197050, 2147431555, kC7K) << std::endl;
+std::cout << g1DJI6F(I9b3aE, (short)-1555988726, kC7K, -1193837757, (short)-381055920) / C2U0fe((short)1395197050, 2147431555, kC7K) << std::endl;
 
 {
 int i = 4;

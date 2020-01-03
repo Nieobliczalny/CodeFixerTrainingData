@@ -132,7 +132,7 @@ int main(void) {
     short    I09tiz;
     I09tiz    =    (short)1540297544;
   unsigned short int  I28O58n483;
-  I28O58n483  =  -1130138816;
+  I28O58n483  =  (unsigned short)-1130138816;
     unsigned int    m_vEpL972S;
     m_vEpL972S    =    -155585937;
   char  l_ltAnl02;
@@ -161,7 +161,7 @@ int main(void) {
   E38A  =  (short)1828077069;
 
 E2hDGA10Ud = (int)floor(MAZ145Br);
-E191 = rmpAAUaxiP(bc2v8BndH, -97326300, m_vEpL972S, l6OjhA38G);
+E191 = rmpAAUaxiP(bc2v8BndH, (unsigned short)-97326300, m_vEpL972S, l6OjhA38G);
 if (IP70DCh == 0)
 {
 	h6WPo = rmpAAUaxiP((unsigned char)763672137, I09tiz, 1159498000, l6OjhA38G) / IP70DCh;
@@ -180,7 +180,7 @@ E191 = rmpAAUaxiP(1642730081, z54_rbM58T, Xt6F4, iG1Yr_Kj);
 }
 else
 {
-std::cout << QQ5KBezCa((unsigned short)-1135061614, 335543745, 339158908, iG1Yr_Kj) << std::endl;
+std::cout << QQ5KBezCa((unsigned short)-1135061614, 335543745, (short)339158908, iG1Yr_Kj) << std::endl;
 }
 
 return 0;

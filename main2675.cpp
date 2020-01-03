@@ -23,7 +23,7 @@ int main()
   pGB7ItMm  =  (unsigned short)276453606;
   WjN19N  =  (unsigned short)1206668947;
   h_51nOSk1  =  (unsigned short)817625259;
-  SD7Dm2Ad4b  =  665297124;
+  SD7Dm2Ad4b  =  (unsigned short)665297124;
 
 {
 int i = 0;

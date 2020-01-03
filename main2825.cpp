@@ -58,7 +58,7 @@ int main(void)
 	unsigned short	D02KZ0;
 	D02KZ0	=	(unsigned short)740336716;
   unsigned short int  l20cQ1q0EG;
-  l20cQ1q0EG  =  -2052062320;
+  l20cQ1q0EG  =  (unsigned short)-2052062320;
 	short int	xV8A3Dq_;
 	xV8A3Dq_	=	0;
     long double    f69a;

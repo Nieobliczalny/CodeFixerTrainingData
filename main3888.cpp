@@ -30,7 +30,7 @@ int main() {
 	unsigned short	V0_n3	=	(unsigned short)-1940485206;
  unsigned char ihvdpmK = 0;
   unsigned long long  F357Ydqj2  =  0;
- short int I0hi = -1500155597;
+ short int I0hi = (short)-1500155597;
 	unsigned int	pmFWq	=	0;
  short u8wUpH16Pp = 573351230;
  unsigned long long Sqoc = -1749814046;

@@ -22,7 +22,7 @@ int main(void) {
   unsigned int  O4iV  =  -941219821;
  unsigned int L45_d308M = -2054790146;
     short    RSU5f0CU    =    (short)-1484506038;
-    short int    Hvzq    =    -1022138765;
+    short int    Hvzq    =    (short)-1022138765;
   unsigned long  A7_Ov1xYi4  =  -785184549;
     char    Rsx0    =    997566801;
  unsigned long long a86I5 = 573802109;

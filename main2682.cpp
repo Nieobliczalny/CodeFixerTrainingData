@@ -27,7 +27,7 @@ int main()
  unsigned long long UBIE5pebE;
  UBIE5pebE = -742115697;
   short  ZZ0C;
-  ZZ0C  =  2122246097;
+  ZZ0C  =  (short)2122246097;
  char YWnBgV8R;
  YWnBgV8R = 0;
  unsigned long OV0F;

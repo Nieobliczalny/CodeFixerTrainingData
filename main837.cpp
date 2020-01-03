@@ -559,7 +559,7 @@ Ck28jOY4C = (int)ceil(JntbTr0);
 }
 
 std::cout << C47L7 << QI38yRuun(KzXC, v0t3g8) << ylcR5TgZx(KzXC, (short)373606105, kwM4m, JntbTr0) << kwM4m << std::endl;
-ftJZX9Flw = ylcR5TgZx((unsigned char)931739165, (short)1400179759, 1978824613, -392699046);
+ftJZX9Flw = ylcR5TgZx((unsigned char)931739165, (short)1400179759, 1978824613, (unsigned char)-392699046);
 
 if (JntbTr0 != C47L7)
 {

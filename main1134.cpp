@@ -109,7 +109,7 @@ DsB9 = tyIpXYO52_((unsigned char)-286681823, (unsigned short)-1454791570);
 }
 else
 {
-iGWt = dH7vQ((unsigned char)1635154436, -1433895599);
+iGWt = dH7vQ((unsigned char)1635154436, (unsigned char)-1433895599);
 }
 }
 }
@@ -329,7 +329,7 @@ case 2:
 iGWt = dH7vQ(iGWt, u07h06Q1);
 break;
 case 3:
-sgA7I19_1I = dH7vQ((unsigned char)-602502655, -69911806);
+sgA7I19_1I = dH7vQ((unsigned char)-602502655, (unsigned char)-69911806);
 break;
 case 4:
 KjlC9MjBA = umY0x21vw(-742117154, KjlC9MjBA, -1530252105, 1692964008);
@@ -407,7 +407,7 @@ KjlC9MjBA = umY0x21vw(2092224672, KjlC9MjBA, iGWt, sgA7I19_1I);
 int i = 0;
 do
 {
-std::cout << tyIpXYO52_((unsigned char)-1324235989, (unsigned short)-2044071356) << tyIpXYO52_(u07h06Q1, KjlC9MjBA) << dH7vQ((unsigned char)-388576010, 1583232852) << std::endl;
+std::cout << tyIpXYO52_((unsigned char)-1324235989, (unsigned short)-2044071356) << tyIpXYO52_(u07h06Q1, KjlC9MjBA) << dH7vQ((unsigned char)-388576010, (unsigned char)1583232852) << std::endl;
 ++i;
 }
 while (i < 6);

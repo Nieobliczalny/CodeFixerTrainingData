@@ -38,7 +38,7 @@ int main()
 	long	xvB8	=	-1473886226;
   unsigned short  W1sw0B24q9  =  0;
     unsigned short int    A_9PR96qS4    =    (unsigned short)-259482030;
-  unsigned short  Xv_5a7668  =  -1303193774;
+  unsigned short  Xv_5a7668  =  (unsigned short)-1303193774;
     float    CTusJm_X    =    -1433979510;
     long    B33T4t9bm_    =    -1501729594;
     long long    K_SJb_70    =    1502475668;
@@ -52,7 +52,7 @@ int main()
  float VTIFl = -1765517767;
   short int  t96MHy  =  (short)-1144129688;
 	int	Ha1OTWU	=	-155662187;
-  unsigned char  V89f3Y11  =  -1431816562;
+  unsigned char  V89f3Y11  =  (unsigned char)-1431816562;
  int w0QQ3TXYz = 1851237080;
     unsigned short    Yfb8Pi0f    =    (unsigned short)-1481138796;
     unsigned short int    K_Qu    =    (unsigned short)1901381217;
@@ -62,7 +62,7 @@ int main()
   char  ZtjDukH  =  375420504;
   unsigned char  HETS1s_CO_  =  (unsigned char)456547747;
     char    s1w8uI    =    1882748976;
- unsigned short int m_X8i = -2100261892;
+ unsigned short int m_X8i = (unsigned short)-2100261892;
  unsigned char Nr42r46_16 = 1228525063;
   short int  r2Pt  =  (short)-991361887;
     unsigned long    Zbs3q44b    =    -1058143510;
@@ -72,7 +72,7 @@ int main()
     char    ei8Dbu    =    1974141794;
     unsigned int    ri8sv46    =    -1875104214;
   char  oq8Sea  =  (char)1045367894;
- unsigned short int EP6wnl = 1575786074;
+ unsigned short int EP6wnl = (unsigned short)1575786074;
     long    px_t    =    -1172553778;
  unsigned short int z4Ra_h5MT = (unsigned short)466902864;
  char zVuW_ = -688942631;
@@ -100,7 +100,7 @@ int main()
   short int  zrHk8I8T  =  (short)-1349554934;
   long long  gDrYy  =  -452911590;
 	unsigned char	KXtSm4c5t8	=	(unsigned char)-1917769744;
- unsigned short int U9d9Vng_7 = -652273146;
+ unsigned short int U9d9Vng_7 = (unsigned short)-652273146;
  int H5_UjQ = 810909722;
     long    wj75_g4Q_Y    =    -547606181;
 	long	HIZ8S	=	-1505242952;
@@ -112,7 +112,7 @@ int main()
  unsigned long Ut0sv = 22586036;
     long long    bMf8q0KYJA    =    481872534;
  unsigned char PLRXLf_4 = (unsigned char)430923125;
- char fdJ56c3rQf = -1051332124;
+ char fdJ56c3rQf = (char)-1051332124;
 	short int	MU7M	=	-1003401257;
 	char	UCur0de7	=	(char)582658360;
 	unsigned char	k523m7D4e	=	1200345727;

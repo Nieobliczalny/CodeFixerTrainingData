@@ -42,7 +42,7 @@ int main()
   float  pUMP0v_5_L;
   pUMP0v_5_L  =  1755726115;
   unsigned short  w5Elp;
-  w5Elp  =  1654505657;
+  w5Elp  =  (unsigned short)1654505657;
     long double    vIvw6O11;
     vIvw6O11    =    1183701072;
     short    CEZP5m08;
@@ -112,7 +112,7 @@ int main()
  short wI2q;
  wI2q = (short)-1295787265;
   short  u8i67Jneax;
-  u8i67Jneax  =  1202335982;
+  u8i67Jneax  =  (short)1202335982;
   unsigned long  wDJoc9;
   wDJoc9  =  395621503;
   unsigned long long  DUOG7qCe0;

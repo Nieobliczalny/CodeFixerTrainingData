@@ -485,7 +485,7 @@ ZSJl = w8V0(UKD34wLn, GC6aLT, -1831984190, -1558860000);
 
 std::cout << w8V0(UKD34wLn, GC6aLT, 129945929, Hg4GcBtzPE) << ay4YyGv38_(UKD34wLn, -1530756267, (unsigned short)-2045043202, 337428962) << w8V0((unsigned char)-1179300713, -287404641, A00M, (unsigned char)-97905075) << std::endl;
 
-std::cout << ay4YyGv38_(UKD34wLn, -1020309324, 1122158604, Hg4GcBtzPE) << "Y9v1z1g" << i2M7pG << UKD34wLn << std::endl;
+std::cout << ay4YyGv38_(UKD34wLn, -1020309324, (unsigned short)1122158604, Hg4GcBtzPE) << "Y9v1z1g" << i2M7pG << UKD34wLn << std::endl;
 std::cout << ay4YyGv38_(UKD34wLn, GC6aLT, A00M, 169838371) << "DwRD" << std::endl;
 
 {

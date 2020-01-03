@@ -90,7 +90,7 @@ int main(int argc, char** argv) {
 	unsigned short int	tCEzLe6;
 	tCEzLe6	=	(unsigned short)1835132589;
     short    S5x_V;
-    S5x_V    =    1426764985;
+    S5x_V    =    (short)1426764985;
 	unsigned long long	J0Csa;
 	J0Csa	=	-144541170;
 
@@ -328,7 +328,7 @@ else
 hsV7o6 = Z7_06Rm5lR(tCEzLe6, (unsigned char)1716305205) | PSykqu62x;
 }
 
-cout << hTukZ((short)-545873792) << "Ga0CEk1" << hxhs << Z7_06Rm5lR(-228830150, -2028113852) << endl;
+cout << hTukZ((short)-545873792) << "Ga0CEk1" << hxhs << Z7_06Rm5lR(-228830150, (unsigned char)-2028113852) << endl;
 try
 {
 {

@@ -90,7 +90,7 @@ int main(void) {
 	long long	NUfY6Q_37Y;
 	NUfY6Q_37Y	=	686113888;
   short  K5dqq_;
-  K5dqq_  =  -1217203063;
+  K5dqq_  =  (short)-1217203063;
   unsigned long long  k10c;
   k10c  =  -994473016;
     short int    Hw_ncd1Q1;
@@ -160,7 +160,7 @@ int main(void) {
 	char	znLI1hv;
 	znLI1hv	=	(char)661464093;
 	short int	GR5E4s_;
-	GR5E4s_	=	-1867280372;
+	GR5E4s_	=	(short)-1867280372;
 	long	D395;
 	D395	=	-899328878;
   long long  pTa9e7s5ET;
@@ -194,7 +194,7 @@ int main(void) {
     unsigned short int    g60w824oKI;
     g60w824oKI    =    (unsigned short)-1790584047;
 	unsigned short int	Z1V6Q_9zsy;
-	Z1V6Q_9zsy	=	-1306576056;
+	Z1V6Q_9zsy	=	(unsigned short)-1306576056;
     unsigned long long    BP1vyP39;
     BP1vyP39    =    1562785422;
  double S_6P76;

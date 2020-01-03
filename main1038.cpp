@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
     char    n74ER    =    (char)1929571456;
     long double    I1Ww3kZSr    =    1513029945;
  unsigned long long XDT8s = -278419338;
-	unsigned short	S8T56s	=	1575200117;
+	unsigned short	S8T56s	=	(unsigned short)1575200117;
   long long  UGu8I64  =  -1930908103;
 	long long	a0m8y3Yh	=	235431420;
     unsigned long long    IjvU3W23    =    -579257431;
@@ -70,7 +70,7 @@ int main(int argc, char** argv) {
   unsigned int  F2xxT2  =  156060871;
   short  Z9rYexSOKs  =  (short)1742829156;
     unsigned long long    WnjxXwl    =    239781382;
-  unsigned short  TTHQGWhi  =  1929576445;
+  unsigned short  TTHQGWhi  =  (unsigned short)1929576445;
 	int	TRH5I_m	=	-1356585822;
 	long long	uRk64307	=	1443282732;
 	unsigned long	Nzd0oNda	=	107185162;
@@ -358,7 +358,7 @@ if (Z9rYexSOKs != -1513451128)
 {
 A5A27aWMj = Z5a9(ClurPFs, (unsigned short)-1562638697, F2xxT2, SCnpoS6);
 }
-A5A27aWMj = Z5a9(1027286250, (unsigned short)-1937006499, (unsigned char)1592955637, -1696699060);
+A5A27aWMj = Z5a9(1027286250, (unsigned short)-1937006499, (unsigned char)1592955637, (unsigned short)-1696699060);
 
 return 0;
 }

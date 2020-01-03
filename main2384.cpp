@@ -40,7 +40,7 @@ int main(void)
   unsigned short int  UxqY_2A  =  (unsigned short)-611034898;
     float    tG1AWs0o6_    =    2081008797;
   unsigned short  RdFLST_5X8  =  (unsigned short)304764161;
-  char  qN9MvdI66K  =  -1024343259;
+  char  qN9MvdI66K  =  (char)-1024343259;
 	unsigned long long	ussM9Vf	=	0;
 	long long	n9PF9G7J	=	0;
  unsigned short yFkL = -854271349;
@@ -54,7 +54,7 @@ int main(void)
     char    z1g4_zY9z    =    (char)1087434666;
 	unsigned long long	BqT_	=	2056353577;
  unsigned int u773w = 1215146325;
-  short int  O5_Ia5NhX  =  298960733;
+  short int  O5_Ia5NhX  =  (short)298960733;
  double ANhHOozWuJ = 445605125;
 
 std::cout << "aQgd77" << Y598Ho_8 << TFyXl() << TFyXl() << UxqY_2A << std::endl;

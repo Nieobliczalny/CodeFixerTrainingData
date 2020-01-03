@@ -24,7 +24,7 @@ int main(int argc, char** argv) {
   long double  PVzM  =  -643331640;
 	unsigned short	kHwP0n	=	(unsigned short)-1522783848;
     unsigned short    Nq4y    =    (unsigned short)-259841541;
-  unsigned short int  JQ4i2ZTt  =  1468806233;
+  unsigned short int  JQ4i2ZTt  =  (unsigned short)1468806233;
 	float	AOXY_Q	=	110541793;
 	unsigned short	PY0F9F	=	987808377;
 	char	X1fX6GPr	=	(char)-1707668854;
@@ -245,7 +245,7 @@ else if (JQ4i2ZTt < VezFy)
 {
 if (cg83X80c)
 {
-BDh8xE = F0VOC5((short)444471549, Fjkv, 999201345);
+BDh8xE = F0VOC5((short)444471549, Fjkv, (unsigned short)999201345);
 }
 }
 else if (PY0F9F > l92MGXkMS)

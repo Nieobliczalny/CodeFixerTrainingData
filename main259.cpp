@@ -36,7 +36,7 @@ int main(int argc, char** argv) {
 	double	r7le;
 	r7le	=	1551441756;
   char  F2B50;
-  F2B50  =  412227859;
+  F2B50  =  (char)412227859;
     short int    u933_Zrm1E;
     u933_Zrm1E    =    (short)1570786757;
  unsigned int HFS1Lw_XZ;
@@ -102,7 +102,7 @@ int main(int argc, char** argv) {
 	unsigned char	Yi34z4d8;
 	Yi34z4d8	=	(unsigned char)-887857158;
  unsigned char CL1xHU4;
- CL1xHU4 = 1813677367;
+ CL1xHU4 = (unsigned char)1813677367;
     unsigned long long    l5nc;
     l5nc    =    1535949096;
     long double    Dg8J4CQk;

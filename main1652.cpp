@@ -346,7 +346,7 @@ cout << ToTcK9((char)-453729967, KJ_wQym1KI, 1703813700, 1134057788) << ToTcK9((
 }
 else
 {
-cout << "s3TLk106NE" << "RlMFg" << "K_PI_" << ToTcK9(1100032050, 974346314, 1931304159, eaz1I39h_) << ufNUp7j << endl;
+cout << "s3TLk106NE" << "RlMFg" << "K_PI_" << ToTcK9((char)1100032050, 974346314, 1931304159, eaz1I39h_) << ufNUp7j << endl;
 }
 cout << 954776476 / Nj__v2_Xe << endl;
 

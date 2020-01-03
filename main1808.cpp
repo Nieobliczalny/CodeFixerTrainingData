@@ -70,7 +70,7 @@ int main()
  unsigned short int t1LPP1;
  t1LPP1 = (unsigned short)-1465486494;
  short ebL6;
- ebL6 = 1549229651;
+ ebL6 = (short)1549229651;
  short int Aw6dPh;
  Aw6dPh = 1016035391;
   long double  wA_9Rk;

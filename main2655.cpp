@@ -148,7 +148,7 @@ bKba ^= Wf_7hA;
 break;
 case 'i':
 case 'I':
-e906 = E7a_y72((short)-807651754, Jwg8JK_Vgr, -1848568541, 2142584275);
+e906 = E7a_y72((short)-807651754, Jwg8JK_Vgr, (short)-1848568541, 2142584275);
 break;
 case 'j':
 case 'J':
@@ -498,7 +498,7 @@ for (int i = 10; i >= 0; --i)
 {
 if (nir8p0 > EZb7)
 {
-std::cout << jY1yM << E7a_y72(I7H__, (short)-1290796603, (short)30878991, kZ83H0) << X4966 << PFPeo((unsigned short)1549159673, 2045780016) << "Z0KhYvg94B" << std::endl;
+std::cout << jY1yM << E7a_y72(I7H__, (short)-1290796603, (short)30878991, kZ83H0) << X4966 << PFPeo((unsigned short)1549159673, (char)2045780016) << "Z0KhYvg94B" << std::endl;
 }
 else
 {

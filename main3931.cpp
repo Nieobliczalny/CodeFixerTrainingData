@@ -367,7 +367,7 @@ G4AF5NxmZ = j9_I4gM__((short)-1472118667, (unsigned short)1596495325, Uo1nsS4, (
 switch (mlEbg)
 {
 case 0:
-Z0r53J2Ly = N97kV058(-455213302, on17, 1966533770);
+Z0r53J2Ly = N97kV058((unsigned short)-455213302, on17, 1966533770);
 break;
 case 1:
 on17 = (int)abs(j_Y1NPRX9);
@@ -418,7 +418,7 @@ case 'e':
 G4AF5NxmZ += 1455937283;
 break;
 case 'f':
-zVnrE = j9_I4gM__((short)1613565361, 1102021936, UO4U, 1935588819);
+zVnrE = j9_I4gM__((short)1613565361, (unsigned short)1102021936, UO4U, 1935588819);
 break;
 default:
 YUPN = (vsR17VS6u0 > -1679970200) ? 1237719657 : J_wOwcS;

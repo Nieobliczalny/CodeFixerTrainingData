@@ -15,7 +15,7 @@ int main(void) {
     D3k_3944N    =    (short)140092819;
     KE7720AOK    =    (short)-794024917;
     tK_v89    =    (short)421339480;
-    vM0DqmJH    =    -138108378;
+    vM0DqmJH    =    (short)-138108378;
     Oi6sDe9x    =    1432181015;
     gLNlp    =    1434747066;
     pfVDzc8    =    1591850993;

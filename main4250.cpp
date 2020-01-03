@@ -200,7 +200,7 @@ case 1:
 Y163P8p = RVdveuf(Y163P8p, (unsigned char)-1276675405, Q2W4FLw6QU, (short)22831014);
 break;
 case 2:
-k28S = RVdveuf(589408842, Q___WK7Oo, gMv7ivcm, -931913169);
+k28S = RVdveuf((unsigned short)589408842, Q___WK7Oo, gMv7ivcm, -931913169);
 break;
 case 3:
 f0Q2kF0Vmd = Kpa8FO(Q___WK7Oo, k28S);
@@ -298,7 +298,7 @@ case 0:
 Q___WK7Oo = RVdveuf((unsigned short)1554638997, Y163P8p, 427774231, (short)-924302649);
 break;
 case 1:
-Y163P8p = RVdveuf((unsigned short)1030092746, DE6Z, 1094067445, 607092589);
+Y163P8p = RVdveuf((unsigned short)1030092746, DE6Z, 1094067445, (short)607092589);
 break;
 case 2:
 f0Q2kF0Vmd = Kpa8FO(Q2W4FLw6QU, f0Q2kF0Vmd);
@@ -357,7 +357,7 @@ gMv7ivcm = Kpa8FO((unsigned char)-1491010008, -34017193);
 break;
 case 'h':
 case 'H':
-Y163P8p = RVdveuf(Y163P8p, 2066144869, -670019496, -567052031);
+Y163P8p = RVdveuf(Y163P8p, (unsigned char)2066144869, -670019496, -567052031);
 break;
 case 'i':
 case 'I':
@@ -427,7 +427,7 @@ Q___WK7Oo = RVdveuf((unsigned short)-901121816, gMv7ivcm, mT8b4, (short)29652611
 }
 else if (Y163P8p != -1196198248)
 {
-mMrVd = RVdveuf(mMrVd, (unsigned char)1396216123, k28S, 1775873340);
+mMrVd = RVdveuf(mMrVd, (unsigned char)1396216123, k28S, (short)1775873340);
 }
 else if ((f0Q2kF0Vmd >= Y163P8p) && ((f0Q2kF0Vmd < Q2W4FLw6QU) && (mMrVd & -1872087790)))
 {

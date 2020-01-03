@@ -401,7 +401,7 @@ case 6:
 n2RLlDr = DZDw_ah49((unsigned short)106763780, Je6k6e943G);
 break;
 case 7:
-n2RLlDr = DZDw_ah49(-750080700, ScU0);
+n2RLlDr = DZDw_ah49((unsigned short)-750080700, ScU0);
 break;
 }
 jm69_053L /= 454489498;

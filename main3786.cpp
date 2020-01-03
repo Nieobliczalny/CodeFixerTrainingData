@@ -19,7 +19,7 @@ int main(int argc, char** argv)
  unsigned long Zd2I5vD17O = 691500515;
     short    H6CIiSa    =    (short)-2073707502;
 	short int	qJ3fY7Ssz9	=	(short)32651269;
-    unsigned short int    f97p    =    1641185961;
+    unsigned short int    f97p    =    (unsigned short)1641185961;
 	float	gBNJa_	=	-1890932820;
   float  gp6N_4RMx  =  1812929638;
   long long  BXh7631c  =  825546659;
@@ -45,7 +45,7 @@ int main(int argc, char** argv)
     short    LA93SBot    =    (short)-787123170;
 	short	bs_v5vgc	=	0;
 	int	d_GNP	=	1030015995;
-  short int  t396b6q  =  -864166644;
+  short int  t396b6q  =  (short)-864166644;
 	long long	FN39FeK4E	=	-262590215;
     unsigned short    Tw61Ug    =    (unsigned short)1752304231;
 	int	CHVE	=	-276060450;

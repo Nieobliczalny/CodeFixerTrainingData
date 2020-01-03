@@ -82,7 +82,7 @@ case 'f':
 R59Hx8lt = P5c6B(R59Hx8lt, (short)1654175938, 873583889, T87UW, Qqb_);
 break;
 case 'g':
-Kp7Amb3__5 = P5c6B((short)1972244414, 455329502, rOVUU7A, k704, -4249824);
+Kp7Amb3__5 = P5c6B((short)1972244414, (short)455329502, rOVUU7A, k704, -4249824);
 break;
 case 'h':
 qINC0 = CY_n7WTxR();

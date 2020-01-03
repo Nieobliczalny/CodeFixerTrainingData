@@ -29,7 +29,7 @@ int main()
     unsigned char    YSZ0_    =    (unsigned char)939627071;
 	short	m_3f7w	=	(short)473024493;
 	unsigned long long	c8O6	=	540348684;
-  unsigned short int  FfdnIGgcgn  =  1066886933;
+  unsigned short int  FfdnIGgcgn  =  (unsigned short)1066886933;
 
 YSZ0_ = (oBmlzec2PA) ? -442525794 : DTEJ;
 for (int i = 0; i < 10; i++)

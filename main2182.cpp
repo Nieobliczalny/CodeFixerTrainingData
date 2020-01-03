@@ -31,7 +31,7 @@ int main(void) {
  unsigned short int T0t6ivqw7 = (unsigned short)-241073028;
 	float	M4232l	=	-177710862;
     unsigned short    soh0_    =    0;
- short lDLI7IIU = -180834694;
+ short lDLI7IIU = (short)-180834694;
  unsigned char p5_bt7n = 0;
     unsigned long long    Kle4hd3h0    =    426403803;
 	unsigned short int	F2JKQ6P_n_	=	0;
@@ -41,7 +41,7 @@ int main(void) {
  unsigned long N_DQ = -75579091;
  unsigned char dp6j7i40 = (unsigned char)670796747;
   unsigned short int  dL_6eNp0J9  =  1260922217;
-  char  H_5QpJJ2P4  =  -501993871;
+  char  H_5QpJJ2P4  =  (char)-501993871;
 	long long	ovVJIqd	=	0;
  unsigned short URV_8842F = 0;
     double    DqXy    =    1172382922;
@@ -104,7 +104,7 @@ p3B_7Hau = (unsigned long)(p5_bt7n + (884284949));
 int i = 9;
 do
 {
-std::cout << fUzP67Q(DqXy, URV_8842F, (short)-206836830, BZ0EIQk, M4232l) << "Roj6" << fUzP67Q((unsigned short)2038103163, URV_8842F, (short)-983177189, -1522604903, 2019094278) << or00pmQ() << dp6j7i40 << std::endl;
+std::cout << fUzP67Q(DqXy, URV_8842F, (short)-206836830, BZ0EIQk, M4232l) << "Roj6" << fUzP67Q((unsigned short)2038103163, URV_8842F, (short)-983177189, (short)-1522604903, 2019094278) << or00pmQ() << dp6j7i40 << std::endl;
 --i;
 }
 while (i >= 0);
@@ -169,7 +169,7 @@ p3B_7Hau = nS800OS_(p3B_7Hau, (unsigned short)-1191007008, DqXy, ovVJIqd);
 break;
 case 'h':
 case 'H':
-N_DQ = fUzP67Q((unsigned short)-1022430961, ovVJIqd, (short)869765759, -860169588, dL_6eNp0J9);
+N_DQ = fUzP67Q((unsigned short)-1022430961, ovVJIqd, (short)869765759, (short)-860169588, dL_6eNp0J9);
 break;
 case 'i':
 case 'I':
@@ -425,7 +425,7 @@ dL_6eNp0J9 = nS800OS_(dL_6eNp0J9, (unsigned short)-1722790700, F2JKQ6P_n_, N_DQ)
 }
 else if (DqXy <= xvy9l1KnR0)
 {
-H_5QpJJ2P4 = fUzP67Q(H_5QpJJ2P4, (short)1911407993, (short)-1074802495, p5_bt7n, -97802451);
+H_5QpJJ2P4 = fUzP67Q(H_5QpJJ2P4, (short)1911407993, (short)-1074802495, p5_bt7n, (unsigned char)-97802451);
 }
 else if (lDLI7IIU >= xvy9l1KnR0)
 {
@@ -468,7 +468,7 @@ break;
 }
 else
 {
-I79V1r = nS800OS_(I79V1r, 1861490905, URV_8842F, 435254274);
+I79V1r = nS800OS_(I79V1r, (unsigned short)1861490905, URV_8842F, 435254274);
 }
 }
 

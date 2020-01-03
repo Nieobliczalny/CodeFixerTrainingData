@@ -29,7 +29,7 @@ int main(void) {
   char  W_zT0iG1;
   W_zT0iG1  =  (char)-237746714;
     unsigned short    stuHC28;
-    stuHC28    =    279615836;
+    stuHC28    =    (unsigned short)279615836;
     unsigned long long    bx_T;
     bx_T    =    288625746;
  unsigned long qB2tiOq4Q;
@@ -49,7 +49,7 @@ int main(void) {
 	unsigned short int	DNavx1x9V0;
 	DNavx1x9V0	=	(unsigned short)571271749;
 	unsigned short int	klWYFR9y;
-	klWYFR9y	=	-1136562050;
+	klWYFR9y	=	(unsigned short)-1136562050;
  double Lm_af4N1;
  Lm_af4N1 = -494695476;
  char aM5ag4R97;
@@ -93,7 +93,7 @@ int main(void) {
  unsigned short p2490J;
  p2490J = (unsigned short)-726889374;
     short int    smome;
-    smome    =    -692925220;
+    smome    =    (short)-692925220;
 	double	x_W5;
 	x_W5	=	215046500;
 	short int	rbGzKS;
@@ -995,7 +995,7 @@ case 7:
 H7iL = wh_TSd5gUl((unsigned short)1467745337);
 break;
 case 8:
-Dt871_ = wh_TSd5gUl(-2086784428);
+Dt871_ = wh_TSd5gUl((unsigned short)-2086784428);
 break;
 case 9:
 Dt871_ = wh_TSd5gUl(CcM7fvFH1);

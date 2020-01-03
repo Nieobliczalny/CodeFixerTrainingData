@@ -45,7 +45,7 @@ int main(void)
 	unsigned short	x9Sc7S;
 	x9Sc7S	=	(unsigned short)1588142805;
  unsigned short CKBM;
- CKBM = -689388290;
+ CKBM = (unsigned short)-689388290;
 	char	Y3pLr2;
 	Y3pLr2	=	844282915;
     int    n_y8Z9;
@@ -99,7 +99,7 @@ int main(void)
     unsigned long long    xbFKX4;
     xbFKX4    =    -55214971;
 	unsigned short int	EU810;
-	EU810	=	-1953122170;
+	EU810	=	(unsigned short)-1953122170;
     long long    aHZ07_jSp;
     aHZ07_jSp    =    89291241;
  short c38BV;

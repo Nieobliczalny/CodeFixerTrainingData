@@ -31,7 +31,7 @@ int main()
     unsigned short    f8B80ABQO;
     f8B80ABQO    =    (unsigned short)-1913116870;
 	short	x5VmQTn4f1;
-	x5VmQTn4f1	=	-262787771;
+	x5VmQTn4f1	=	(short)-262787771;
   long double  y64A8cjY;
   y64A8cjY  =  465442157;
   unsigned short int  Ps8xDKqa;

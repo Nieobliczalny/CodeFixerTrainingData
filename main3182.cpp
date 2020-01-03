@@ -106,7 +106,7 @@ int main(void)
 	double	OmO9oW4p4k;
 	OmO9oW4p4k	=	-400719129;
     char    GvxG__08;
-    GvxG__08    =    1611033742;
+    GvxG__08    =    (char)1611033742;
     unsigned short int    YSeB;
     YSeB    =    (unsigned short)-1893164871;
 	long long	Yi1Y56;
@@ -132,7 +132,7 @@ int main(void)
     long double    Q4sC;
     Q4sC    =    -899758888;
  unsigned short int H48zb5bH2;
- H48zb5bH2 = -593762225;
+ H48zb5bH2 = (unsigned short)-593762225;
 	unsigned short int	c3L89;
 	c3L89	=	(unsigned short)-1832362792;
 	double	DiraE;
@@ -321,7 +321,7 @@ cout << e5z_8 << j4YhU((unsigned char)2011688553, (unsigned short)61103122, -717
 }
 else if (((On_9 & -1932718045) && (x9_eR & -1176066285)) && ((caWQ == 1347744071) && (xFL5a >= Q4sC)))
 {
-q0r3aV = r4Xz8s(-160803039, -108940190);
+q0r3aV = r4Xz8s((unsigned short)-160803039, -108940190);
 }
 else if (q0r3aV == 692074854)
 {
@@ -473,7 +473,7 @@ IO2P06RCT1 = r4Xz8s((unsigned short)-80817037, 1466288002);
 }
 try
 {
-RUn62ML5g6 = viHQ((unsigned short)937268388, 36124237) / 1305127424;
+RUn62ML5g6 = viHQ((unsigned short)937268388, (unsigned char)36124237) / 1305127424;
 }
 catch (int& errorCode)
 {
@@ -518,7 +518,7 @@ PBszg5z = j4YhU((unsigned char)56781852, HQ5448, -1305757087, (unsigned short)-1
 break;
 case 'i':
 case 'I':
-AbP3lXLA = viHQ((unsigned short)-582168056, -601035437);
+AbP3lXLA = viHQ((unsigned short)-582168056, (unsigned char)-601035437);
 break;
 case 'j':
 case 'J':
@@ -577,7 +577,7 @@ P3qS8M3n = j4YhU((unsigned char)-1578394455, (unsigned short)1494820993, -697527
 break;
 case 'd':
 case 'D':
-jOSD8Udg0_ = viHQ(jOSD8Udg0_, -1827881238);
+jOSD8Udg0_ = viHQ(jOSD8Udg0_, (unsigned char)-1827881238);
 break;
 case 'e':
 case 'E':
@@ -752,6 +752,7 @@ lHyO5uff = j4YhU(-1388793224, 1164723191, -1108097662, YSeB, PrIm0szSf);
 }
 
 MI07sl2CSf = (int)floor(Le8qS);
+// codechecker_intentional [clang-diagnostic-constant-conversion] Suppress
 cout << j4YhU(lHyO5uff, -1344206506, caWQ, 1504402105, 6205382) << bTGrY84J << F_PkNHU << j4YhU(103180979, 1842555343, -717367482, -1697881600, -244612090) << viHQ(-1912728073, P3qS8M3n) << endl;
 {
 int i = 0;

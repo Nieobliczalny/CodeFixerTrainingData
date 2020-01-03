@@ -48,7 +48,7 @@ int main(int argc, char** argv)
     double    WA5b40B;
     WA5b40B    =    1019026093;
   short  AKDM;
-  AKDM  =  -1098980340;
+  AKDM  =  (short)-1098980340;
   int  DI9iAIhWD;
   DI9iAIhWD  =  0;
   unsigned long  E2SrLU8;
@@ -98,7 +98,7 @@ int main(int argc, char** argv)
 	unsigned short	yY0b5b7aI;
 	yY0b5b7aI	=	(unsigned short)-499071215;
  unsigned char fcVd;
- fcVd = -1755980014;
+ fcVd = (unsigned char)-1755980014;
 	float	ORMn_F5Q;
 	ORMn_F5Q	=	-969606522;
  unsigned long GmM996qJD;

@@ -96,7 +96,7 @@ int main() {
  unsigned short int I20_6_1q;
  I20_6_1q = (unsigned short)-1219852810;
 	unsigned char	Y9z1uaJm3;
-	Y9z1uaJm3	=	1833450598;
+	Y9z1uaJm3	=	(unsigned char)1833450598;
  double lT7U3d2PV;
  lT7U3d2PV = -1939434127;
 	short	E8YgP_;
@@ -122,7 +122,7 @@ int main() {
 	short int	fAFG_tPf8;
 	fAFG_tPf8	=	(short)-698154163;
 	unsigned short int	m1n66b;
-	m1n66b	=	-1875930854;
+	m1n66b	=	(unsigned short)-1875930854;
   short int  c_P9H6oy;
   c_P9H6oy  =  671059731;
  int WGbb2tI7L;

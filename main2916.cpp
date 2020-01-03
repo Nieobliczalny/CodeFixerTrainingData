@@ -72,7 +72,7 @@ int main() {
     unsigned short    t_Z1caY;
     t_Z1caY    =    (unsigned short)981323336;
 	unsigned char	ob6E9AX2;
-	ob6E9AX2	=	945820168;
+	ob6E9AX2	=	(unsigned char)945820168;
     char    BDf3D;
     BDf3D    =    (char)1192649068;
  long c4sO94;
@@ -88,7 +88,7 @@ int main() {
     short    bVhyl1;
     bVhyl1    =    (short)2128381014;
  unsigned char f9nXa;
- f9nXa = 346429928;
+ f9nXa = (unsigned char)346429928;
 	short	pQ1Ma;
 	pQ1Ma	=	(short)1674232676;
   char  BB4f;

@@ -374,7 +374,7 @@ while (i < 1);
 QgFaQ = DH6395_ * 512970493;
 for (int i = 0; i < 7; ++i)
 {
-std::cout << e25aw(L428ho5, dbpO0, (short)1295121367) << Y16w((unsigned short)-1721916417, (unsigned short)1495614491, DH6395_, QgFaQ) << Sj27(-603674913) << "mxt34w5z" << std::endl;
+std::cout << e25aw(L428ho5, dbpO0, (short)1295121367) << Y16w((unsigned short)-1721916417, (unsigned short)1495614491, DH6395_, QgFaQ) << Sj27((unsigned short)-603674913) << "mxt34w5z" << std::endl;
 }
 
 {
@@ -525,7 +525,7 @@ QgFaQ = e25aw((short)-1825955934, (unsigned short)-94562217, dbpO0);
 }
 else if ((v8CeBEPp & L428ho5) || (xe4nZn3 > -285307381))
 {
-QgFaQ = Y16w(xe4nZn3, (unsigned short)403574443, 1080501628, 1143173586);
+QgFaQ = Y16w(xe4nZn3, (unsigned short)403574443, (unsigned short)1080501628, 1143173586);
 }
 else
 {

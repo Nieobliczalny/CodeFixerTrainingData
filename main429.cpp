@@ -77,7 +77,7 @@ M3e11M_R = B_nX4JIve7(r7LLtrc, M3e11M_R, (short)-334043884, L67S_Z8v9f, 13272341
 }
 else if ((r7LLtrc <= -10796628) || (r7LLtrc))
 {
-cout << "P5cd" << B_nX4JIve7((short)-338723478, M3e11M_R, (short)-1631482036, -547698558, yA4fYIs9) << endl;
+cout << "P5cd" << B_nX4JIve7((short)-338723478, M3e11M_R, (short)-1631482036, (unsigned char)-547698558, yA4fYIs9) << endl;
 }
 else
 {

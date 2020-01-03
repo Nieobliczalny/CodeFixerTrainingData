@@ -178,7 +178,7 @@ cout << bHKq_18BYY(Lt3858_g) << LONj0EWrZ << eoY5r8Tp << bHKq_18BYY((unsigned sh
 VcwP_R = K5Ib(nYv8, f6dl_W6, GqW4, (char)-2066169383, -801961614);
 if (((w7zs <= -1809269727) && (nYv8 <= cSZN)) || (w7zs < -2144017507))
 {
-VcwP_R = K5Ib((short)-1446154087, -72292036, A93hn, 1187216136, ksQ560VT44);
+VcwP_R = K5Ib((short)-1446154087, -72292036, A93hn, (char)1187216136, ksQ560VT44);
 }
 else
 {
@@ -191,7 +191,7 @@ case 'b':
 LyTgzT = K5Ib((short)1239160438, 1084541652, KztD17f1, Jk9Lz, GR1w);
 break;
 case 'c':
-w0V8 = bHKq_18BYY(-687933216) >> 1120144497;
+w0V8 = bHKq_18BYY((unsigned short)-687933216) >> 1120144497;
 break;
 case 'd':
 eoY5r8Tp -= 2044494519;

@@ -67,7 +67,7 @@ int main(void)
  unsigned short l0Vy_V;
  l0Vy_V = (unsigned short)1565530968;
     short    Q6_I13liGl;
-    Q6_I13liGl    =    1260492124;
+    Q6_I13liGl    =    (short)1260492124;
  double Z_9Ys;
  Z_9Ys = -2087210311;
   unsigned short  jW455ax265;
@@ -87,7 +87,7 @@ int main(void)
     unsigned char    S_PCP0487;
     S_PCP0487    =    (unsigned char)-727762295;
 	unsigned short	Xupu0Yyg2;
-	Xupu0Yyg2	=	84975637;
+	Xupu0Yyg2	=	(unsigned short)84975637;
   unsigned long long  XPoU5;
   XPoU5  =  1867864336;
  unsigned int F2cIe0;

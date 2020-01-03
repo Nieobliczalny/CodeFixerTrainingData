@@ -26,7 +26,7 @@ int main(int argc, char** argv)
 	short int	zjUB_M	=	(short)1199881281;
 	short	DuQCVEmVn	=	(short)1005926580;
     short int    P_gr0kGJm    =    (short)1697955893;
- unsigned short j3xg = -2120253587;
+ unsigned short j3xg = (unsigned short)-2120253587;
     float    xXU3v    =    -1714062642;
   long double  CtUS6I7u  =  -2042527109;
     unsigned long long    si4dXk    =    761209019;
@@ -40,7 +40,7 @@ int main(int argc, char** argv)
   short int  JG2472Tt  =  (short)-1767422309;
  short Kv4hfK = (short)201114699;
   unsigned int  b0L5  =  1303725652;
-    unsigned char    xQ7__    =    -924259979;
+    unsigned char    xQ7__    =    (unsigned char)-924259979;
   unsigned short int  p5957  =  -777676027;
     unsigned int    dqlw5F6Hy    =    1503781408;
     char    v4o745    =    785957506;
@@ -52,7 +52,7 @@ int main(int argc, char** argv)
     int    vBBqs1c    =    -1162735849;
 	unsigned char	t0Gc	=	(unsigned char)1861018427;
     float    nfxD461Q    =    1910942978;
-    unsigned short    Qsy966d    =    -567015976;
+    unsigned short    Qsy966d    =    (unsigned short)-567015976;
  short Lv62Or = -1583944521;
 	unsigned long	qQLXNG8	=	6582372;
   long long  uFLGdq  =  -851451511;
@@ -69,7 +69,7 @@ int main(int argc, char** argv)
   float  qPsu0o  =  -50277686;
 	long	JU52j5I	=	-1131813037;
     short    GbKj3s    =    (short)1449538061;
- unsigned char ziln_Ka = 1516910516;
+ unsigned char ziln_Ka = (unsigned char)1516910516;
  unsigned short SW3gMOXa = (unsigned short)1353843575;
  unsigned char mW3M7C = (unsigned char)-1953877365;
     float    ZS1_BW    =    -1568462781;
@@ -95,7 +95,7 @@ int main(int argc, char** argv)
 	unsigned char	j9y_r_3L	=	(unsigned char)-828646245;
   short  Ic34f9o4Sa  =  (short)-1273848818;
  long double rpxk0_ = 1508686033;
- char m2a30Z32j = 491641295;
+ char m2a30Z32j = (char)491641295;
 	unsigned int	Ld_Z	=	-130878186;
 	long long	IrT73q	=	-433049892;
     int    gL3m73v2    =    -1824982866;
@@ -106,7 +106,7 @@ int main(int argc, char** argv)
  short int Se_QEn = (short)-737254652;
   unsigned char  g_Q8NSakUy  =  1330594233;
  long long eu4ku10etl = -1199806481;
-  unsigned char  L5L40P20V  =  -2145234663;
+  unsigned char  L5L40P20V  =  (unsigned char)-2145234663;
 	short	m7Q3mqv	=	-1264690793;
   unsigned char  U32Rl_b7  =  -1633330135;
   unsigned long  Ie7RN453  =  -2029007341;

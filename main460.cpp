@@ -97,7 +97,7 @@ int main() {
   unsigned char  huhYK_0YK;
   huhYK_0YK  =  (unsigned char)65365449;
  unsigned char d5FqF3O;
- d5FqF3O = -449750006;
+ d5FqF3O = (unsigned char)-449750006;
   unsigned short  x9nPnBB6;
   x9nPnBB6  =  (unsigned short)-1269356561;
 

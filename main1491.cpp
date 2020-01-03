@@ -103,7 +103,7 @@ case 2:
 YKn9 = M5zRcC01sK(YKn9, Kd6egp01_);
 break;
 case 3:
-eR7W_ = TA8i4H32((short)-1511720129, eR7W_, (short)2077688802, 523448918, 567796082);
+eR7W_ = TA8i4H32((short)-1511720129, eR7W_, (short)2077688802, 523448918, (unsigned short)567796082);
 break;
 case 4:
 Pw8njQ = aW2ns2();
@@ -236,7 +236,7 @@ std::cout << "w0uFz" << L6RbJz4(248601127, Kd6egp01_, OBz6w47iE, (unsigned short
 }
 else if (xT2uZe_ > N84n1_fhF1)
 {
-std::cout << Gbs_cSQ << TA8i4H32(nY3vr_xBmG, Kd6egp01_, (short)1029231200, 972766547, -1104075027) << "Bbtj34GC" << "r6I4gND" << UT2b5lV6K << std::endl;
+std::cout << Gbs_cSQ << TA8i4H32(nY3vr_xBmG, Kd6egp01_, (short)1029231200, 972766547, (unsigned short)-1104075027) << "Bbtj34GC" << "r6I4gND" << UT2b5lV6K << std::endl;
 }
 else
 {

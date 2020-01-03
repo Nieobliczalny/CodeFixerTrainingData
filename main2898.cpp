@@ -70,7 +70,7 @@ int main(void) {
  char cz5hQa_8;
  cz5hQa_8 = (char)841913713;
  char l83V26ev0;
- l83V26ev0 = 897960185;
+ l83V26ev0 = (char)897960185;
 	long	FBTACP;
 	FBTACP	=	-194002391;
   long long  Q34tVR114;

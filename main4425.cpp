@@ -607,7 +607,7 @@ tISyZ_2t6 = OjNW69y(tISyZ_2t6, -688349245, c3OX23x, (unsigned char)566331794, -8
 }
 else if ((R4UErh == -103543313) && ((F7dozTU2H0 == 970108208) || (IHhCo7Q8 == NHokQ7VvR)))
 {
-IHhCo7Q8 = OjNW69y(1993556028, qXc50YgAU, 93392223, aQbX, u2LBsI71ZN);
+IHhCo7Q8 = OjNW69y((unsigned char)1993556028, qXc50YgAU, 93392223, aQbX, u2LBsI71ZN);
 }
 else if (c3OX23x & -572311661)
 {

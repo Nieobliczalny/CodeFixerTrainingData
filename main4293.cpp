@@ -97,7 +97,7 @@ int main(void)
  long long M593M6f8;
  M593M6f8 = -1886870695;
   unsigned short int  KCSA;
-  KCSA  =  -656522469;
+  KCSA  =  (unsigned short)-656522469;
  long L866U9oiG;
  L866U9oiG = -1869092128;
 	unsigned short int	BzJKl1H;
@@ -119,7 +119,7 @@ int main(void)
   unsigned short int  t2EEHa21t;
   t2EEHa21t  =  (unsigned short)812055017;
 	short	Eo3_1;
-	Eo3_1	=	-1314788542;
+	Eo3_1	=	(short)-1314788542;
  unsigned char WLsbCjb;
  WLsbCjb = (unsigned char)1457695707;
 

@@ -26,7 +26,7 @@ int main(void)
 	unsigned long long	NcmaQih5h	=	533027620;
   short int  CIL21  =  0;
 
-std::cout << xSRp(-447616398, -1281734696, (unsigned short)-1963365041, 1724904344) << Z_c46v << mOYO << mOYO << std::endl;
+std::cout << xSRp(-447616398, -1281734696, (unsigned short)-1963365041, (unsigned char)1724904344) << Z_c46v << mOYO << mOYO << std::endl;
 
 {
 int i = 0;

@@ -18,7 +18,7 @@ int main()
 	JX2C_Z_SKx	=	(char)-1818092924;
 	Qp_loZkn6	=	(char)-1298248534;
 	oWJjD	=	(char)12652588;
-	jEiQ	=	-1903946345;
+	jEiQ	=	(char)-1903946345;
 	Ka_0W1Ptt	=	1681317633;
 	w3MX8	=	-1850046174;
 	c_nZaw	=	-551725673;

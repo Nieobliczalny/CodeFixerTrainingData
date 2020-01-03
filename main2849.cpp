@@ -28,7 +28,7 @@ int main(void)
   Eb72Il  =  (short)-645959060;
   Xd62kwr  =  (short)2036290574;
   UM5KK03  =  (short)225152356;
-  anV8  =  -1966623813;
+  anV8  =  (short)-1966623813;
   o1Xf  =  1803408395;
   II7JDPaU3S  =  580688833;
   Xx6n  =  -1030457220;
@@ -38,7 +38,7 @@ int main(void)
   UDgk7Um  =  (short)47319660;
   C_9tMyMl  =  (short)-140776937;
   pJ50V005d7  =  (short)-2045019385;
-  Rb3p  =  1877890596;
+  Rb3p  =  (short)1877890596;
   yqp2iP86I  =  -1092585468;
   SJkWL15MO  =  1715986964;
   iZ58f5  =  1744605608;
@@ -48,7 +48,7 @@ int main(void)
   HcTu  =  (short)-1730959404;
   J7O_8G3WVi  =  (short)-1673158147;
   Wz0A1L3M  =  (short)-1180235836;
-  Wm_5  =  2143467332;
+  Wm_5  =  (short)2143467332;
   g2e5OibmlG  =  -579487894;
   X_Y0UkH  =  1739622921;
   P8qPAdW6M4  =  1889870553;
@@ -58,7 +58,7 @@ int main(void)
   hqUpL  =  (short)-965303337;
   ZOsqM  =  (short)-1506354128;
   cXXd4V  =  (short)280765708;
-  Le1DF  =  336071105;
+  Le1DF  =  (short)336071105;
   wf178mw  =  -198981054;
   PRBzd_  =  328062254;
   ea8_  =  -380443168;
@@ -68,7 +68,7 @@ int main(void)
   LLU5D8K_eK  =  (short)2024536929;
   m6806f72UZ  =  (short)1791586621;
   pxiSQ  =  (short)-188509281;
-  l8Lr_16Z  =  -464714786;
+  l8Lr_16Z  =  (short)-464714786;
   US2162EKA1  =  974225907;
   u8u_  =  183326008;
   N0SQ3GmZd  =  -12977904;
@@ -78,7 +78,7 @@ int main(void)
   CwCJXCF  =  (short)1251579491;
   gmH0j_U0  =  (short)-1460822202;
   Kn7E_  =  (short)-95935953;
-  r136jV_  =  -2141614199;
+  r136jV_  =  (short)-2141614199;
   t0rjOi  =  -2078429843;
   EOdPF33JEN  =  873490883;
   WU1Vg73y  =  1713923118;
@@ -88,7 +88,7 @@ int main(void)
   fyUX0s  =  (short)-1711467000;
   hcCRb  =  (short)-1245068618;
   H2zeH_lyP  =  (short)-677168278;
-  T11Um2  =  2105420326;
+  T11Um2  =  (short)2105420326;
   cqrE_T  =  -1577174067;
   z0uVW  =  -950028634;
   P3X2Ha3  =  -836340185;
@@ -98,7 +98,7 @@ int main(void)
   T3QNhgmL4G  =  (short)-787248644;
   D0_F11R  =  (short)-1678058298;
   ZqDq  =  (short)1172002139;
-  uw3n  =  650225098;
+  uw3n  =  (short)650225098;
   I_j04_  =  36073340;
   hiCn7v  =  -517229344;
   O6BHi5q  =  2008460983;
@@ -959,7 +959,7 @@ case 'd':
 T11Um2 = W_13((short)188756912);
 break;
 case 'e':
-G0ct = Xvbjd((unsigned char)1220239916, f79XQ, Pjhg06, 609952126);
+G0ct = Xvbjd((unsigned char)1220239916, f79XQ, Pjhg06, (short)609952126);
 break;
 case 'f':
 hmDC__k++;

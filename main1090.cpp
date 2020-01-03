@@ -30,7 +30,7 @@ for (int i = 8; i >= 0; i--)
 std::cout << "TE25A5" << i_W_L(1718320693, (unsigned char)612945015, -1761070099, bnUqAgT_c) << R9B7t59T << "VOV7" << Nrmhyj(827249893, xUPr3l1, (unsigned short)358352685) << std::endl;
 }
 
-std::cout << "SsTifT5" << "g1pR_6012f" << "oUwZYB" << Nrmhyj(IPRsdRK, -1725814854, -860801404) << std::endl;
+std::cout << "SsTifT5" << "g1pR_6012f" << "oUwZYB" << Nrmhyj(IPRsdRK, (char)-1725814854, -860801404) << std::endl;
 
 if (T_t677I60d == 0)
 {
@@ -311,7 +311,7 @@ case 4:
 e4f_hU2gr2 = i_W_L(-1658704647, BUrNB, IXs_9F, 1940196987);
 break;
 case 5:
-Y2J5346W_ = Nrmhyj(329274907, (char)-4232696, 1156101671);
+Y2J5346W_ = Nrmhyj(329274907, (char)-4232696, (unsigned short)1156101671);
 break;
 case 6:
 V6dS7EC = i_W_L(V6dS7EC, vraA, MFYFn97, 291492918);

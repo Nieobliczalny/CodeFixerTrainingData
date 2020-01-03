@@ -46,7 +46,7 @@ int main()
 	unsigned char	KeEY;
 	KeEY	=	(unsigned char)2020780336;
 	unsigned short	gm068n0;
-	gm068n0	=	-1040669207;
+	gm068n0	=	(unsigned short)-1040669207;
   long  t1_1bOaa;
   t1_1bOaa  =  881125320;
     unsigned long    t36M3O;
@@ -62,7 +62,7 @@ int main()
   char  NIC6fiI;
   NIC6fiI  =  (char)367123562;
  unsigned short nsQ0RY;
- nsQ0RY = 304488856;
+ nsQ0RY = (unsigned short)304488856;
   unsigned char  AKLR;
   AKLR  =  (unsigned char)-327781922;
  unsigned int cYUBxsV;
@@ -148,7 +148,7 @@ int main()
  unsigned short int eWH7;
  eWH7 = (unsigned short)-772874651;
     unsigned short int    S39_;
-    S39_    =    -1412650417;
+    S39_    =    (unsigned short)-1412650417;
 	float	MRzdt;
 	MRzdt	=	1571193840;
     long long    TxYZAV_6N;
@@ -164,7 +164,7 @@ int main()
  unsigned int XZX1bJB;
  XZX1bJB = 1639212705;
     char    cv_732;
-    cv_732    =    -882020920;
+    cv_732    =    (char)-882020920;
     long double    n5gXe71en;
     n5gXe71en    =    1392700502;
 	unsigned long long	We_K1M9JI5;
@@ -201,7 +201,7 @@ case 7:
 JpI7 = (int)floor(n5gXe71en);
 break;
 case 8:
-YyfHgG21 = F_J1cA2((unsigned short)-1786186750, F4gkd, (char)-1898052062, 1795206651);
+YyfHgG21 = F_J1cA2((unsigned short)-1786186750, F4gkd, (char)-1898052062, (unsigned short)1795206651);
 break;
 case 9:
 tGwkKVY9R = (int)ceil(Ki2O4u99);
@@ -355,7 +355,7 @@ D2ZUIEZ8 = RTDMcYt(D2ZUIEZ8);
 }
 else if (YyfHgG21 >= 1798045562)
 {
-pP_BRK4 = F_J1cA2((unsigned short)644815220, 1333585994, 1783433186, -1495532405) & TxYZAV_6N;
+pP_BRK4 = F_J1cA2((unsigned short)644815220, 1333585994, (char)1783433186, -1495532405) & TxYZAV_6N;
 }
 else
 {

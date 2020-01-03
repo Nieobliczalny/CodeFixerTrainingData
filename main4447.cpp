@@ -29,7 +29,7 @@ int main(void) {
     long    TWZa40    =    301762543;
   short int  iAp2  =  (short)-939155480;
  short int O1Lw = (short)1657824656;
-  unsigned char  oM0Ve4fn  =  -1440353515;
+  unsigned char  oM0Ve4fn  =  (unsigned char)-1440353515;
     unsigned int    IuiEG7dq    =    1185140921;
     unsigned char    bvi3So    =    78793633;
     unsigned long long    gx5z    =    -1604384404;
@@ -49,7 +49,7 @@ int main(void) {
   float  h6pHqyi62H  =  244709084;
 	short int	sLYa	=	(short)-503244595;
   unsigned long long  A78WXrcd  =  -1901383050;
-	unsigned short int	mO37n7FRgQ	=	1986616149;
+	unsigned short int	mO37n7FRgQ	=	(unsigned short)1986616149;
  int yUa3Q4jx = 1775771224;
 	unsigned long	jCbb0u	=	-1809837676;
  char p6Pz = -812252467;
@@ -62,7 +62,7 @@ int main(void) {
   float  cZct  =  -1633934973;
  long long g37g = -1099303481;
 	long double	E_nx2	=	232991927;
-    unsigned short int    R64RMG37q_    =    -1540854489;
+    unsigned short int    R64RMG37q_    =    (unsigned short)-1540854489;
     short int    E5lKs    =    (short)-1328204882;
  double O9T4iFoO_C = 1194999021;
  long tYiT0rxoQ = -1575192389;
@@ -75,7 +75,7 @@ int main(void) {
  unsigned long long zbMcZkW7 = -594746126;
   int  Vnm79p  =  1480844135;
  unsigned short YB3Nx6o_v = (unsigned short)-633791137;
-  unsigned short  zchR042f  =  -217438323;
+  unsigned short  zchR042f  =  (unsigned short)-217438323;
   short  jcuL  =  -229367610;
     unsigned long    nwpJ    =    -1271545485;
   short  PU1b9_g43  =  (short)353535158;
@@ -96,7 +96,7 @@ int main(void) {
   unsigned short  qr8esc  =  (unsigned short)-1112635313;
     unsigned long    wcOT00T9a9    =    -1328754720;
  int RQ92qE18 = 1654675047;
-  short int  YM3U  =  -529005228;
+  short int  YM3U  =  (short)-529005228;
   short  CbV_m7B  =  (short)1633170880;
     unsigned long    UtnKA    =    443456457;
  long wa50z = 1694182596;
@@ -106,7 +106,7 @@ int main(void) {
     unsigned short    x1ys6    =    (unsigned short)-160081220;
  int KvcVpDe_24 = 233007420;
   unsigned short int  aLIgY2  =  1973569353;
-  short int  DH9F  =  51587902;
+  short int  DH9F  =  (short)51587902;
   unsigned short  mU96BqDeY  =  (unsigned short)-572614082;
   long  j6yD8a1n  =  -332259032;
  long f84vi8 = 36608389;

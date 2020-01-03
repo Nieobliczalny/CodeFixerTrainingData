@@ -63,7 +63,7 @@ int main(void)
     short    R7PTU67;
     R7PTU67    =    (short)-613267183;
     short int    DJCGK;
-    DJCGK    =    1572808472;
+    DJCGK    =    (short)1572808472;
 	unsigned char	PgGO_d;
 	PgGO_d	=	1850121544;
   short int  pKn7c9rm61;

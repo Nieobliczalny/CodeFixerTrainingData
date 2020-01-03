@@ -43,7 +43,7 @@ int main(void)
  unsigned short int xjGgT44 = (unsigned short)479971523;
     long long    zxns0376e    =    -487172589;
     unsigned short    wCp9    =    0;
-	unsigned short int	Duv3PQfv2	=	-91357722;
+	unsigned short int	Duv3PQfv2	=	(unsigned short)-91357722;
  char JABd7l = 485876340;
     float    D9e48C    =    1070409322;
   long long  xP478_1  =  769217159;
@@ -53,7 +53,7 @@ int main(void)
     double    QhA2    =    -882693125;
     short int    m8UeOx9    =    (short)2038111575;
   double  Kequ  =  -2074449456;
-  char  m2Aj36cx7  =  552491439;
+  char  m2Aj36cx7  =  (char)552491439;
   unsigned int  N28CElL  =  -1460731832;
  unsigned int MTizMESi0 = 1425798247;
     short int    GSJU    =    -788885308;
@@ -70,7 +70,7 @@ int main(void)
 	unsigned short	i9G1XTHXM	=	(unsigned short)-802337302;
 	unsigned char	S53Y0f	=	(unsigned char)-1501079289;
 	double	OhUT9C	=	51858856;
-    short    W9gdM3    =    -109436007;
+    short    W9gdM3    =    (short)-109436007;
 	float	zMrl0h7p58	=	-1733146597;
 	unsigned long	lB22RAPOA	=	1190012373;
  char pH_Lna7i = (char)1421585919;
@@ -433,7 +433,7 @@ cout << CLft596lyq << zxns0376e << P4wi0oJ(-777909903, (unsigned short)-95624827
 
 try
 {
-g2w0GPA8D = P4wi0oJ(C041e, -84768277, -820775390, -939271323, -770460734) >> 951942405;
+g2w0GPA8D = P4wi0oJ(C041e, (unsigned short)-84768277, -820775390, -939271323, -770460734) >> 951942405;
 }
 catch (int& errorCode)
 {
@@ -830,7 +830,7 @@ case 1:
 S53Y0f = Vvh6n54(S53Y0f);
 break;
 case 2:
-wCp9 = kOFz_90YQ(1210654598, h7oI);
+wCp9 = kOFz_90YQ((short)1210654598, h7oI);
 break;
 case 3:
 xjGgT44 = P4wi0oJ(849185142, -653916365, 1184821129, N28CElL, zMrl0h7p58) - Bo__;
@@ -913,7 +913,7 @@ else if (a6H_5ur2AI < hMZ03o21gm)
 {
 try
 {
-cout << q50xrBb53(FlX4P, (char)-492637123, W9gdM3, ztV_1sMG, IIe_NA30) << "kENTk" << "T_5Rfxw_" << "M45R" << P4wi0oJ(1335374104, Z_gGKwT01, -1624762861, ztV_1sMG, 462842973) << endl;
+cout << q50xrBb53(FlX4P, (char)-492637123, W9gdM3, ztV_1sMG, IIe_NA30) << "kENTk" << "T_5Rfxw_" << "M45R" << P4wi0oJ(1335374104, Z_gGKwT01, (char)-1624762861, ztV_1sMG, 462842973) << endl;
 }
 catch (int& errorCode)
 {
@@ -1102,7 +1102,7 @@ N28CElL = q50xrBb53((unsigned char)1493375788, (char)-2018206253, (short)1602810
 }
 else
 {
-QhA2 = q50xrBb53(QhA2, -1277605688, ftf848Djv, -734793513, -1611702654);
+QhA2 = q50xrBb53(QhA2, (char)-1277605688, ftf848Djv, -734793513, -1611702654);
 }
 }
 while (j >= 0);

@@ -119,7 +119,7 @@ case 'B':
 k224H_ = ZNOOsGk18((unsigned short)695956299) ^ 1764385928;
 break;
 default:
-dr9OCa0 = jW3ee_h4SS((unsigned short)735664749, 1468713425);
+dr9OCa0 = jW3ee_h4SS((unsigned short)735664749, (unsigned char)1468713425);
 break;
 }
 }

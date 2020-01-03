@@ -62,7 +62,7 @@ std::cout << "Z08GLw" << std::endl;
 }
 else
 {
-std::cout << FJr3bjQ54(-1903536326, (char)2082969308, (char)-1375186847, t_Dw2, UR6ik) << "m2r05dpP" << T5CtI << FJr3bjQ54(iax9, (char)-795157432, 413373454, 108170323, UR6ik) << std::endl;
+std::cout << FJr3bjQ54(-1903536326, (char)2082969308, (char)-1375186847, t_Dw2, UR6ik) << "m2r05dpP" << T5CtI << FJr3bjQ54(iax9, (char)-795157432, (char)413373454, 108170323, UR6ik) << std::endl;
 }
 if (Pw942 == wcZ1l)
 {
@@ -315,7 +315,7 @@ case 'e':
 w71Rz = FJr3bjQ54(-222035458, (char)-97865798, (char)-317359252, 1040930852, A1h4zkwBSQ);
 break;
 case 'f':
-w71Rz = FJr3bjQ54(-702886398, 1695493840, 1165616507, lMiN, hJgE744W);
+w71Rz = FJr3bjQ54(-702886398, (char)1695493840, 1165616507, lMiN, hJgE744W);
 break;
 case 'g':
 w71Rz = FJr3bjQ54(wtM3, 1254702586, -1789583178, YiPon6e93, f1iyqkrm);

@@ -58,7 +58,7 @@ int main(void) {
  short SW3waqJv;
  SW3waqJv = (short)-10028589;
   unsigned char  no_A;
-  no_A  =  124784245;
+  no_A  =  (unsigned char)124784245;
   char  X2Z_;
   X2Z_  =  (char)206342691;
 	unsigned short int	SR7P13h;

@@ -69,7 +69,7 @@ pElh1J6hIz = p4c_X(T4SN, -8823604, (unsigned char)-788665110, (short)-1530239464
 switch (nL4g09gGI6)
 {
 case 0:
-j9N7RK = p4c_X((unsigned char)-1333834310, es2wt, j9N7RK, -2119448267, oFIHQ3IF0C);
+j9N7RK = p4c_X((unsigned char)-1333834310, es2wt, j9N7RK, (short)-2119448267, oFIHQ3IF0C);
 break;
 case 1:
 es2wt = z4MuCOL(787787176, es2wt, 330878497, HVY80qP3D);
@@ -244,7 +244,7 @@ else
 {
 j9N7RK = p4c_X(D4oVxbW1y_, j9N7RK, T4SN, (short)1777661845, es2wt);
 }
-cout << p4c_X(D4oVxbW1y_, -193341641, (unsigned char)-375746631, NyCafF, es2wt) << p4c_X(D4oVxbW1y_, j9N7RK, T4SN, (short)-1824007035, 2131671279) << p4c_X(D4oVxbW1y_, j9N7RK, T4SN, -1437095140, -387207628) << O_rYqaVE << endl;
+cout << p4c_X(D4oVxbW1y_, -193341641, (unsigned char)-375746631, NyCafF, es2wt) << p4c_X(D4oVxbW1y_, j9N7RK, T4SN, (short)-1824007035, 2131671279) << p4c_X(D4oVxbW1y_, j9N7RK, T4SN, (short)-1437095140, -387207628) << O_rYqaVE << endl;
 
 if (pyD58ZK4 <= 296437363)
 {
@@ -358,7 +358,7 @@ while (i < 4);
 
 for (int i = 0; i < 4; i++)
 {
-cout << p4c_X(T4SN, es2wt, NyCafF, (short)-1137014787, -302973350) << z4MuCOL((char)570418635, 358675683, NyCafF, pElh1J6hIz) << p4c_X((unsigned char)-1835913466, es2wt, -284491942, 221318867, 1370553094) << endl;
+cout << p4c_X(T4SN, es2wt, NyCafF, (short)-1137014787, -302973350) << z4MuCOL((char)570418635, 358675683, NyCafF, pElh1J6hIz) << p4c_X((unsigned char)-1835913466, es2wt, (unsigned char)-284491942, 221318867, 1370553094) << endl;
 }
 switch (HVY80qP3D)
 {
@@ -390,7 +390,7 @@ break;
 
 for (int i = 0; i < 4; i++)
 {
-cout << p4c_X((unsigned char)-1597816801, -930216770, pElh1J6hIz, (short)-592088301, NyCafF) << p4c_X(V0iQ, pyD58ZK4, (unsigned char)-384585573, -1109176988, NyCafF) << "gYca8TMr8_" << "c28H81X" << V0iQ << endl;
+cout << p4c_X((unsigned char)-1597816801, -930216770, pElh1J6hIz, (short)-592088301, NyCafF) << p4c_X(V0iQ, pyD58ZK4, (unsigned char)-384585573, (short)-1109176988, NyCafF) << "gYca8TMr8_" << "c28H81X" << V0iQ << endl;
 }
 
 if (((T4SN >= 1765636330) || (pyD58ZK4 & 1646750372)) || (T4SN))

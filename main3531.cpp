@@ -40,7 +40,7 @@ int main(void) {
     vsb9R0TY6a    =    (unsigned short)1532258701;
     S_9Qaob3    =    (unsigned short)1591930798;
     BNNHm8HT    =    (unsigned short)-796269658;
-    JjmELf    =    -1564386215;
+    JjmELf    =    (unsigned short)-1564386215;
     xyBt0D    =    1156401138;
     F0G_bleb_    =    1572242597;
 

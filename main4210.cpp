@@ -273,7 +273,7 @@ z3y9t = hqTtfDQ((short)681869438, (unsigned char)2054788156, (unsigned char)9948
 }
 else
 {
-sn_rLd = Q_907aoZ(578382622, z3y9t, ROatK829, Dbwpp4F_, -1601165218);
+sn_rLd = Q_907aoZ((char)578382622, z3y9t, ROatK829, Dbwpp4F_, -1601165218);
 }
 switch (R4eVk_9)
 {

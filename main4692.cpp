@@ -52,7 +52,7 @@ int main(int argc, char** argv)
  unsigned short int T8J35kp_;
  T8J35kp_ = (unsigned short)-316106035;
  char PrE56O4;
- PrE56O4 = -1836707974;
+ PrE56O4 = (char)-1836707974;
   float  obLjGjQ;
   obLjGjQ  =  849331176;
 	unsigned long long	JsJ0U8Fz;
@@ -136,7 +136,7 @@ int main(int argc, char** argv)
   char  L00hboW;
   L00hboW  =  (char)-313466000;
     unsigned short int    vEkUF_ZQs;
-    vEkUF_ZQs    =    592710029;
+    vEkUF_ZQs    =    (unsigned short)592710029;
     int    E6y1;
     E6y1    =    -1223878665;
  long Xg08dzw9;

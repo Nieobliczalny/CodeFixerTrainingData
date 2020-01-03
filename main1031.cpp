@@ -68,7 +68,7 @@ case 'b':
 OY_3nZS = m4pGU8(-1399828993, (short)-1517402239, -435665597, jzwLvo, (unsigned short)-1784796773);
 break;
 case 'c':
-Z9b1a60b3 = q6bT71(OY_3nZS, -232900992, UM4__f8flm, jzwLvo) | 148664327;
+Z9b1a60b3 = q6bT71(OY_3nZS, (short)-232900992, UM4__f8flm, jzwLvo) | 148664327;
 break;
 case 'd':
 ZF41_ = (int)abs(jzwLvo);
@@ -214,7 +214,7 @@ if (EuRL)
 {
 if (jzwLvo <= 1958331754)
 {
-ZF41_ = q6bT71((unsigned char)1542725444, (short)1118651145, -1201549141, 773292854);
+ZF41_ = q6bT71((unsigned char)1542725444, (short)1118651145, -1201549141, (char)773292854);
 }
 else if (E1i_Mup7t != -1004456815)
 {
@@ -374,7 +374,7 @@ E1i_Mup7t = m4pGU8(E1i_Mup7t, (short)-1991534192, 999514898, (unsigned short)164
 
 try
 {
-x_35_X = q6bT71((unsigned char)-965537167, -116368589, 729625574, c2764) % 905142229;
+x_35_X = q6bT71((unsigned char)-965537167, (short)-116368589, 729625574, c2764) % 905142229;
 }
 catch (int& errorCode)
 {

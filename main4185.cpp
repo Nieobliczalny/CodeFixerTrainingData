@@ -41,7 +41,7 @@ int main(void) {
   float  Dq30Qyj  =  276890505;
 	char	I6_hGJ	=	0;
     unsigned short int    cAH64127v    =    0;
- short int t1_GzmoEl = -1198774747;
+ short int t1_GzmoEl = (short)-1198774747;
   unsigned short int  E4aqgVtsA3  =  (unsigned short)-1453705206;
     short    Db_VkfOS    =    (short)382470656;
  short Fe_Z2X0Fd = -1211809389;
@@ -56,7 +56,7 @@ int main(void) {
  char hK3j9 = (char)-251311786;
  long bI8q2PZ0I = 0;
     short    MniZ    =    (short)-1869174748;
- unsigned char s9_EG = -313965908;
+ unsigned char s9_EG = (unsigned char)-313965908;
 
 try
 {

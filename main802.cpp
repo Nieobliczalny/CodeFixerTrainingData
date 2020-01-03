@@ -34,7 +34,7 @@ int main()
 	short	UHV11irshr;
 	UHV11irshr	=	(short)-1579023679;
   unsigned short int  N4nWNqxi;
-  N4nWNqxi  =  717289420;
+  N4nWNqxi  =  (unsigned short)717289420;
     unsigned long    cpi53agXWr;
     cpi53agXWr    =    -827141025;
 	unsigned long	ZNu6n2;

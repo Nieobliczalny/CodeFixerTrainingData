@@ -24,7 +24,7 @@ int main() {
   unsigned char  I_wfBW  =  (unsigned char)900844455;
  double h08Ss0 = -886120764;
     unsigned long    Dnoe    =    -1233243035;
- short int jYsXen3C = -215611511;
+ short int jYsXen3C = (short)-215611511;
 	short	cIzcSN	=	259048441;
 	short	UXqX608m43	=	-1218339784;
  int gT1BuoV = -811336965;

@@ -116,7 +116,7 @@ int main(void) {
     float    yBr6f8;
     yBr6f8    =    -2117854999;
     char    sC4d_;
-    sC4d_    =    1478636874;
+    sC4d_    =    (char)1478636874;
  int l1oMr6T;
  l1oMr6T = 1283837365;
     double    I_ySvWRcB;
@@ -202,7 +202,7 @@ int main(void) {
  short int XgDhjeg1Mq;
  XgDhjeg1Mq = (short)-1371151216;
     unsigned char    m4J8ZgMY2;
-    m4J8ZgMY2    =    1069427650;
+    m4J8ZgMY2    =    (unsigned char)1069427650;
 	unsigned long	qNEVVWY15;
 	qNEVVWY15	=	1935532325;
 	long long	Vj9XK7D8md;
@@ -268,7 +268,7 @@ YaQ1ujdlY3 = Pa3E9e((unsigned short)59207952, (short)-952179256, b_zh2O);
 break;
 case 'b':
 case 'B':
-YaQ1ujdlY3 = Pa3E9e((unsigned short)-296014770, 54399134, bz6B9_);
+YaQ1ujdlY3 = Pa3E9e((unsigned short)-296014770, (short)54399134, bz6B9_);
 break;
 case 'c':
 case 'C':
@@ -290,7 +290,7 @@ break;
 }
 
 YaQ1ujdlY3 = Pa3E9e((unsigned short)-21940240, (short)-174329340, YaQ1ujdlY3);
-v0zVF___ = Pa3E9e((unsigned short)-191572244, pWiJ, 1473751987) / Pa3E9e(-991077943, 694781036, YaQ1ujdlY3);
+v0zVF___ = Pa3E9e((unsigned short)-191572244, pWiJ, (char)1473751987) / Pa3E9e(-991077943, 694781036, YaQ1ujdlY3);
 
 j56H7 = (long)(X38CZ08T);
 if (E1GDli4 > m6FWi)
@@ -335,7 +335,7 @@ if (he90T1MN_v < AOKi25)
 {
 if (lWFO09TN <= gegpJI)
 {
-YaQ1ujdlY3 = Pa3E9e(s7AXUyhV, 368712000, 1611400006);
+YaQ1ujdlY3 = Pa3E9e(s7AXUyhV, (short)368712000, 1611400006);
 }
 else
 {
@@ -369,7 +369,7 @@ case 4:
 CfLg = OTK_mOV / xIjDdUv5rg;
 break;
 case 5:
-YaQ1ujdlY3 = Pa3E9e((unsigned short)190211979, (short)-1234095451, 1980098243);
+YaQ1ujdlY3 = Pa3E9e((unsigned short)190211979, (short)-1234095451, (char)1980098243);
 break;
 case 6:
 N415megF7 -= 406683983;
@@ -398,7 +398,7 @@ case 'c':
 YaQ1ujdlY3 = Pa3E9e(OW6z6, (short)1367654345, (char)-987412167);
 break;
 case 'd':
-YaQ1ujdlY3 = Pa3E9e(hwIw__8, (short)206748326, -469462460);
+YaQ1ujdlY3 = Pa3E9e(hwIw__8, (short)206748326, (char)-469462460);
 break;
 case 'e':
 YaQ1ujdlY3 = Pa3E9e(EnQrY3RB_2, hwIw__8, -1806427277);
@@ -432,7 +432,7 @@ YaQ1ujdlY3 = Pa3E9e((unsigned short)653960960, (short)-1100776126, (char)7729674
 }
 }
 YaQ1ujdlY3 = Pa3E9e(hh8oF3, P2gh7A8, E_cfJfM);
-YaQ1ujdlY3 = Pa3E9e(-1558634982, VSwt6ah66m, -412756876);
+YaQ1ujdlY3 = Pa3E9e((unsigned short)-1558634982, VSwt6ah66m, -412756876);
 CfLg = (long double)(plu51j9 + (gegpJI));
 
 {

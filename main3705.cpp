@@ -31,7 +31,7 @@ int main(void)
     unsigned short int    Qpp8f;
     Qpp8f    =    (unsigned short)652657181;
   char  P_HtXbO;
-  P_HtXbO  =  2074988786;
+  P_HtXbO  =  (char)2074988786;
     unsigned long long    cauz7;
     cauz7    =    158584322;
 	char	pNDgb_l;
@@ -111,7 +111,7 @@ int main(void)
   unsigned char  V5302246;
   V5302246  =  (unsigned char)-1980030891;
     unsigned char    foz7_2J;
-    foz7_2J    =    87879944;
+    foz7_2J    =    (unsigned char)87879944;
 	long long	BuDO8;
 	BuDO8	=	-1756227761;
 	short int	YqKCBeI;
@@ -179,7 +179,7 @@ int main(void)
  unsigned char pHfks;
  pHfks = (unsigned char)-1318640358;
 	unsigned short	V3BPKsVY03;
-	V3BPKsVY03	=	224411889;
+	V3BPKsVY03	=	(unsigned short)224411889;
 	short int	qn_hsUU16a;
 	qn_hsUU16a	=	(short)1371633184;
   short int  WmYpL2f;
@@ -193,7 +193,7 @@ int main(void)
     char    X7clr4;
     X7clr4    =    (char)-1968831093;
     unsigned short int    X0Cw3jqdzF;
-    X0Cw3jqdzF    =    -101756893;
+    X0Cw3jqdzF    =    (unsigned short)-101756893;
   float  kakR7V7;
   kakR7V7  =  -1907658627;
     unsigned int    lc0uuf1S;

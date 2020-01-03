@@ -53,7 +53,7 @@ int main(int argc, char** argv) {
   long  u3c_Pu  =  1036785985;
     double    xO9c    =    -379641688;
 	short int	Q_zMb_fMu4	=	(short)834406036;
- unsigned short a_vHx3G_3 = -460138689;
+ unsigned short a_vHx3G_3 = (unsigned short)-460138689;
  unsigned short int g0eOqHFyTl = 0;
     char    En_HM_aA8    =    -2121974894;
     long long    mT2O98EZ3Z    =    2085205573;
@@ -66,7 +66,7 @@ int main(int argc, char** argv) {
 	char	AdWVfrg	=	(char)79181910;
     unsigned short    mR_S    =    (unsigned short)-424062802;
 	unsigned int	k844fYK	=	1832458545;
-  short int  M75RjvVH  =  1425029942;
+  short int  M75RjvVH  =  (short)1425029942;
  float d87DE = 2025671663;
   short int  CBLy4aDn8X  =  1205541906;
   unsigned short  mfpLNX0_9  =  -794567793;
@@ -79,7 +79,7 @@ int main(int argc, char** argv) {
     char    j8LP178H    =    (char)-1008335160;
   unsigned int  F6K4q_hT  =  -576114842;
     unsigned long    Yg6fu    =    -507703362;
-	short int	utpffVNyla	=	-700537509;
+	short int	utpffVNyla	=	(short)-700537509;
 	long long	W8J9BIhh	=	-1402380538;
   unsigned short  C_Hxh3ipC  =  305677205;
  int hY2p2q563j = 1576474795;
@@ -105,7 +105,7 @@ int main(int argc, char** argv) {
 	int	si5BHxGv	=	-398255971;
   unsigned int  VD76  =  459879607;
 
-std::cout << AeGXw9_FX_((unsigned short)-658686320) << "NVR4_h3" << si5BHxGv << pQU_g << AeGXw9_FX_(-584971517) << std::endl;
+std::cout << AeGXw9_FX_((unsigned short)-658686320) << "NVR4_h3" << si5BHxGv << pQU_g << AeGXw9_FX_((unsigned short)-584971517) << std::endl;
 if (qu2MS84158 & PfEZq132)
 {
 H35E = (long double)(PfEZq132);

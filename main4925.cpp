@@ -19,7 +19,7 @@ int main(void) {
   float  v7JM  =  -1492979758;
   int  p4Mkgdp3ne  =  1645948929;
  char c4y4 = (char)370080646;
- unsigned short int sl_fwz_o = -1029146083;
+ unsigned short int sl_fwz_o = (unsigned short)-1029146083;
     unsigned short    PMil6dz    =    0;
  unsigned char oO85_ = 1822584439;
   short  S5pcgv8  =  0;
@@ -36,7 +36,7 @@ int main(void) {
 	unsigned long long	wutO1D	=	-1797622162;
 	long long	lnRVM1Yw46	=	-758492784;
 	short int	akj7UI	=	(short)1516414874;
-    unsigned short    sE8Jx1    =    610738819;
+    unsigned short    sE8Jx1    =    (unsigned short)610738819;
  double NdXdO5JkQM = 1965930671;
     char    jy9HFSM    =    847756459;
   short  S6LY1O5x  =  (short)504833848;
@@ -139,7 +139,7 @@ cout << j0bR5r((unsigned short)-212925954, 747733365, 537027623, (unsigned short
 while (i < 9);
 }
 PMil6dz = N6GXifClN_(B48b1L_, c4y4, 802218919);
-cout << j0bR5r(-281445953, -1098109427, K95_nubcD, i14z, 1755684553) << endl;
+cout << j0bR5r((unsigned short)-281445953, -1098109427, K95_nubcD, i14z, 1755684553) << endl;
 
 S5pcgv8 = N6GXifClN_(wutO1D, -460324561, THxI9QW1);
 
@@ -220,7 +220,7 @@ case 4:
 E71Amcyk = j0bR5r((unsigned short)347874655, 1581244228, NdXdO5JkQM, (unsigned short)-1235412018, (unsigned short)694133578);
 break;
 case 5:
-K95_nubcD = j0bR5r(-769088330, -187142586, 1940673398, -687122200, -1391181212);
+K95_nubcD = j0bR5r((unsigned short)-769088330, -187142586, 1940673398, -687122200, -1391181212);
 break;
 case 6:
 HfH2 = j0bR5r(-1635645464, qp7S_, -1903436042, 1544687954, S6LY1O5x);
@@ -344,7 +344,7 @@ while (k >= 0);
 }
 else
 {
-pe2Ay0 = j0bR5r((unsigned short)-371800647, -566119484, jy9HFSM, hJ70Wz1, 1352226380);
+pe2Ay0 = j0bR5r((unsigned short)-371800647, -566119484, jy9HFSM, hJ70Wz1, (unsigned short)1352226380);
 }
 }
 else if ((fJgzQAs5) && (XgNl23_ == 477985545))
@@ -473,7 +473,7 @@ case 2:
 v7JM = (int)ceil(tk18_2Kyi);
 break;
 case 3:
-tk18_2Kyi = j0bR5r((unsigned short)1344014658, -866670005, tk18_2Kyi, 182999201, -1824820857) | S6LY1O5x;
+tk18_2Kyi = j0bR5r((unsigned short)1344014658, -866670005, tk18_2Kyi, (unsigned short)182999201, -1824820857) | S6LY1O5x;
 break;
 case 4:
 S5pcgv8 = N6GXifClN_(1153226868, 1449726561, c4y4);

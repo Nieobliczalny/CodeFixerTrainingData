@@ -24,7 +24,7 @@ int main()
   long double  I9_RU;
   I9_RU  =  1672079859;
     unsigned char    emB5A8Ju;
-    emB5A8Ju    =    -740759720;
+    emB5A8Ju    =    (unsigned char)-740759720;
  unsigned short int et87o0;
  et87o0 = 0;
 	long double	A__960;

@@ -41,7 +41,7 @@ int main()
 	unsigned short int	x7Pnd;
 	x7Pnd	=	(unsigned short)-889540217;
 	unsigned short	VBlPVB;
-	VBlPVB	=	448670339;
+	VBlPVB	=	(unsigned short)448670339;
  unsigned char wA81FaSNt;
  wA81FaSNt = -1616652994;
     double    qmgpT;
@@ -55,7 +55,7 @@ int main()
   unsigned char  ue0EPlqoR;
   ue0EPlqoR  =  (unsigned char)-636565815;
 	unsigned char	KLS7Q;
-	KLS7Q	=	959939874;
+	KLS7Q	=	(unsigned char)959939874;
 	short int	Wmh9D39330;
 	Wmh9D39330	=	242021392;
  unsigned short Pt_t56_Ib;

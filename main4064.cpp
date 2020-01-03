@@ -279,7 +279,7 @@ v3f6rI80vq--;
 
 qX_m = Fb7CDk((short)-317770910, WHWGG40, (unsigned char)458234988, cqP6, 1608130688);
 
-pctKQ = Fb7CDk((short)-1984276916, -270142227, pvaaL, -270931248, dEH_Q);
+pctKQ = Fb7CDk((short)-1984276916, (unsigned short)-270142227, pvaaL, -270931248, dEH_Q);
 
 if ((GZZe34a != -489671026) && (f_tYhUOmJ < -1100733897))
 {

@@ -149,7 +149,7 @@ EQ8AQrP = J_652R84C((short)7003432);
 break;
 case 'f':
 case 'F':
-e6S51 = o4UmKNg(e6S51, (unsigned char)1854324846, (unsigned short)-235765675, -51592530);
+e6S51 = o4UmKNg(e6S51, (unsigned char)1854324846, (unsigned short)-235765675, (unsigned short)-51592530);
 break;
 case 'g':
 case 'G':

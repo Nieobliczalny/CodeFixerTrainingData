@@ -26,7 +26,7 @@ int main(int argc, char** argv)
 	k4O0_ZklJ	=	(short)1191533692;
 	C2ZNjirEO	=	(short)738930764;
 	c5HW2x08	=	(short)381362414;
-	J3If9h7rDD	=	-1107955350;
+	J3If9h7rDD	=	(short)-1107955350;
 	U_b83	=	119727438;
 	TOVG	=	-1864241120;
 	S831c	=	-260063011;
@@ -36,7 +36,7 @@ int main(int argc, char** argv)
 	Kl22qG	=	(short)-201257625;
 	W5DrrTK26	=	(short)-144814646;
 	Vf7_WJlB	=	(short)-1641513464;
-	hu7t	=	-1019438735;
+	hu7t	=	(short)-1019438735;
 	JVy0Q	=	-594696860;
 	Ly_oWpkYo	=	-1922419705;
 	YSANqxL1	=	-1140856593;
@@ -64,7 +64,7 @@ catch (int& errorCode)
 {
 LaB1Y7yj = PKlam35(-754426411, Kl22qG, iz3J7a, c5HW2x08);
 }
-cout << "mbp_J" << NEq1KUSrs(-799073347, -2042848167, (short)-1324490589) << NEq1KUSrs(1773637385, Kl22qG, (short)274237885) << p3G8Uj2(J3If9h7rDD) << PKlam35(-582985634, Kl22qG, iz3J7a, c5HW2x08) << endl;
+cout << "mbp_J" << NEq1KUSrs(-799073347, -2042848167, (short)-1324490589) << NEq1KUSrs(1773637385, Kl22qG, (short)274237885) << p3G8Uj2(J3If9h7rDD) << PKlam35((char)-582985634, Kl22qG, iz3J7a, c5HW2x08) << endl;
 if (fwEnFHZ != -1327365028)
 {
 if (JIrx5w <= YSANqxL1)
@@ -220,7 +220,7 @@ nc7186e = NEq1KUSrs(iz3J7a, bs8Fz, (short)2090336625) * 603553981;
 
 hu7t = (int)abs(U_b83);
 
-W5DrrTK26 = NEq1KUSrs(W5DrrTK26, hu7t, 320483406);
+W5DrrTK26 = NEq1KUSrs(W5DrrTK26, hu7t, (short)320483406);
 LaB1Y7yj = PKlam35(k4O0_ZklJ, Vf7_WJlB, J3If9h7rDD, 890983647);
 JIrx5w = (short)(J3If9h7rDD);
 switch (S831c)

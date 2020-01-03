@@ -568,7 +568,7 @@ if ((Gm1__ & NT9dnEr83) && ((oCbMVfv > -1124383547) || (oa72k6kV_ > oCbMVfv)))
 {
 for (int k = 4; k >= 0; k--)
 {
-NLgynA = iNQ_((unsigned short)-602426292, (unsigned short)-1166385431, (unsigned short)-1456587713, -155708444);
+NLgynA = iNQ_((unsigned short)-602426292, (unsigned short)-1166385431, (unsigned short)-1456587713, (unsigned char)-155708444);
 }
 }
 }
@@ -599,7 +599,7 @@ case 7:
 T0p4cRMUh = ZEUM6vV6X * oCbMVfv;
 break;
 case 8:
-M0NKo = KP_gLyn(T9_nQVZ, 1540170290);
+M0NKo = KP_gLyn(T9_nQVZ, (unsigned short)1540170290);
 break;
 }
 
@@ -689,7 +689,7 @@ Qs76y96hn = iNQ_((unsigned short)-1191197492, (unsigned short)1621618137, iDLXQl
 }
 else
 {
-GVL6A3P = iNQ_(1729172704, r0v_e4LfYT, Tr_E, 1299485170);
+GVL6A3P = iNQ_((unsigned short)1729172704, r0v_e4LfYT, Tr_E, 1299485170);
 }
 }
 }

@@ -184,7 +184,7 @@ int main() {
   int  zyP44Z_;
   zyP44Z_  =  747963039;
   short  P81L6TQ;
-  P81L6TQ  =  1597258792;
+  P81L6TQ  =  (short)1597258792;
   int  HjNL5;
   HjNL5  =  1729463529;
 
@@ -255,7 +255,7 @@ while (j >= 0);
 cout << YjFj9d << "ydSS2" << YjFj9d << "ru5tg1GC3" << nogT1Rx(lCiRE, VCZpAzIWeo, (short)1227119375, (short)1862117381) << endl;
 H8DCZ9tZp = O_W378CKFU % O7Fim1N8;
 
-cout << EPwQd << nogT1Rx(-81248249, (unsigned short)-177401162, -1286086094, -311377622) << nogT1Rx(-1293413917, VCZpAzIWeo, -1410248505, -646314377) << FVQ__p6() << N3yRM_ << endl;
+cout << EPwQd << nogT1Rx(-81248249, (unsigned short)-177401162, (short)-1286086094, -311377622) << nogT1Rx(-1293413917, VCZpAzIWeo, -1410248505, -646314377) << FVQ__p6() << N3yRM_ << endl;
 
 if (da97_O5 == O0935u)
 {
@@ -290,7 +290,7 @@ jkp_ = cPGR6x3 % WEA2hCn;
 }
 else if (HYF_l9 != 1328341441)
 {
-erLht6rGg = nogT1Rx(-840610470, Q_f6OUmGA, (short)-533328396, -1260228704);
+erLht6rGg = nogT1Rx(-840610470, Q_f6OUmGA, (short)-533328396, (short)-1260228704);
 }
 else if ((e910ro1 == O0935u) || (lCiRE >= gzDDJpyH))
 {
@@ -313,7 +313,7 @@ case 'c':
 YjFj9d = Xt5RC3U4w5 % dgdtMSX;
 break;
 case 'd':
-erLht6rGg = nogT1Rx(-386284382, (unsigned short)-394964099, (short)551780892, -193964970);
+erLht6rGg = nogT1Rx(-386284382, (unsigned short)-394964099, (short)551780892, (short)-193964970);
 break;
 case 'e':
 Xt5RC3U4w5 = (int)abs(qbfw9JoxyW);
@@ -626,7 +626,7 @@ break;
 }
 else
 {
-k0fg78 = nogT1Rx(PU4oxE1N, -23945323, h6fn6xClP, 1089455292);
+k0fg78 = nogT1Rx(PU4oxE1N, (unsigned short)-23945323, h6fn6xClP, 1089455292);
 }
 }
 else
@@ -787,7 +787,7 @@ qbfw9JoxyW = (int)abs(x9K385bT48);
 }
 else
 {
-cout << "VFq09A1U" << nogT1Rx(-1208114779, JqqZJI3m0, (short)2145436451, (short)1809396288) << HYF_l9 << nogT1Rx(-1812901498, JqqZJI3m0, (short)-320714326, 1832642594) << endl;
+cout << "VFq09A1U" << nogT1Rx(-1208114779, JqqZJI3m0, (short)2145436451, (short)1809396288) << HYF_l9 << nogT1Rx(-1812901498, JqqZJI3m0, (short)-320714326, (short)1832642594) << endl;
 }
 }
 

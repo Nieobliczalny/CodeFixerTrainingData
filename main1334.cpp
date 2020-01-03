@@ -60,7 +60,7 @@ case 'b':
 YwEy = KvbL1ej8((char)474433698, (char)1172782314);
 break;
 case 'c':
-YwEy = KvbL1ej8(-671515504, Q18l);
+YwEy = KvbL1ej8((char)-671515504, Q18l);
 break;
 case 'd':
 r9OC910j = (int)abs(Z7C8c6q);

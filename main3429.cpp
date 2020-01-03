@@ -37,7 +37,7 @@ int main() {
 	unsigned long long	bfP4sPw	=	-1982888296;
   long  Yik0t8  =  1759919545;
     long    wDHr2Af6    =    0;
-	unsigned short int	fnEWi	=	190014971;
+	unsigned short int	fnEWi	=	(unsigned short)190014971;
 	unsigned short int	Eq6sv	=	(unsigned short)1076872749;
 	unsigned char	hM70dAUmOI	=	-1120782320;
 	unsigned long long	L5wWK	=	553666744;
@@ -49,7 +49,7 @@ int main() {
     short int    m2Run1    =    (short)-1809806604;
     unsigned int    T2lT    =    0;
     unsigned short    x_nT0    =    (unsigned short)1266285419;
- short NYXYD7bI = -467423626;
+ short NYXYD7bI = (short)-467423626;
  unsigned short int wDZB6cR3Dd = 476947126;
 
 std::cout << ygQ6(933455990, -123966951, -695758570, -2023768000, (short)1639989216) << "PBznbP" << std::endl;

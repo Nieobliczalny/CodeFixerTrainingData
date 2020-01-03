@@ -40,7 +40,7 @@ int main()
 	short int	Of6522dau;
 	Of6522dau	=	(short)1783610602;
     short int    Iw_CwZI36;
-    Iw_CwZI36    =    1640531229;
+    Iw_CwZI36    =    (short)1640531229;
 	unsigned long long	DzN3;
 	DzN3	=	1009852698;
 	unsigned char	F8Z2YN;
@@ -100,7 +100,7 @@ int main()
     unsigned char    jb338;
     jb338    =    (unsigned char)-984179562;
  char PpR9;
- PpR9 = -1185562523;
+ PpR9 = (char)-1185562523;
  long long G8K4;
  G8K4 = 1962830446;
   long  ut3s_N7;
@@ -152,7 +152,7 @@ int main()
  unsigned char kcgz;
  kcgz = (unsigned char)226853894;
     short    k72Jg160h;
-    k72Jg160h    =    -1370943058;
+    k72Jg160h    =    (short)-1370943058;
  unsigned long gX976;
  gX976 = 0;
     short int    Q4z_3u96I;

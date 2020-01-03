@@ -32,7 +32,7 @@ int main() {
   float  G094  =  504501479;
   short int  K8B9K4d19  =  (short)-1956644489;
     long    S_qDO17xF2    =    0;
- char Nq5p6453 = -694129232;
+ char Nq5p6453 = (char)-694129232;
  long long TIJwYkSmN4 = 1693633989;
     int    W0s2B7H7I0    =    1226150948;
   short int  CcVoT  =  (short)-1726595275;
@@ -44,7 +44,7 @@ int main() {
     unsigned long long    ki_022WNRE    =    -1589822048;
 	unsigned int	Hh1p3qv6	=	558692083;
     unsigned short    Q_zaLM7hco    =    (unsigned short)1845899803;
- short int ac5W7t = 2000747086;
+ short int ac5W7t = (short)2000747086;
 	int	w5o203p	=	-232847293;
   float  QTmBIQv  =  -1525196254;
     int    bzLUrR3Az    =    1113746928;
@@ -56,7 +56,7 @@ int main() {
 	unsigned long	JF__Lz	=	-235166344;
     short int    gfTgnuE    =    (short)-1140324948;
     int    EBAkZ6    =    417363984;
-  short int  C4Q968buF  =  -776978195;
+  short int  C4Q968buF  =  (short)-776978195;
   unsigned long long  M9_9  =  -1536915742;
  unsigned long wWQ4HVfd = -2147234854;
   unsigned long  kY01  =  -1558626412;
@@ -68,7 +68,7 @@ int main() {
 	long double	DqROJ	=	-223020287;
 	int	x4GBVL	=	421870254;
   double  FGAhQQYL_2  =  -1625209894;
-    unsigned short int    QjrM    =    -1494952257;
+    unsigned short int    QjrM    =    (unsigned short)-1494952257;
 	int	Q485m_2OP	=	-1100092820;
 	unsigned short	Hhz5vgz13U	=	(unsigned short)-1011571256;
  short hPSl0I = (short)1359245068;
@@ -79,7 +79,7 @@ int main() {
   float  KgfmEEQe  =  -463604887;
 	char	Zqwj8s_	=	(char)-1184140225;
 	double	o9vFi	=	453424;
-    unsigned short int    b139s18x    =    1619769054;
+    unsigned short int    b139s18x    =    (unsigned short)1619769054;
   double  Xp0UjU  =  1356396774;
     long    KKiQ_d    =    2117683552;
  long double o_28xbg = -916001697;
@@ -105,7 +105,7 @@ int main() {
     long long    lgs1fYF    =    -1508992220;
  unsigned short p358A0rm = (unsigned short)1682825110;
 	unsigned int	ZF_Ug_pgu	=	-1871455099;
-    unsigned short    sT_TXd    =    452328634;
+    unsigned short    sT_TXd    =    (unsigned short)452328634;
  double j4Dy = -166047573;
  short int kG8TS = (short)-779346672;
     int    fv8n10J7H    =    -805217199;

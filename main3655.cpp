@@ -108,7 +108,7 @@ case 0:
 k4870ONO = Nu1vJA7(k4870ONO, P50Euf, Yfr3N4, (char)-1176716483);
 break;
 case 1:
-YpHb8g8 = dY844zp(YpHb8g8, Gju1, 1570879317);
+YpHb8g8 = dY844zp(YpHb8g8, Gju1, (unsigned short)1570879317);
 break;
 case 2:
 wHwZY4 >>= 1727044504;
@@ -192,7 +192,7 @@ else
 std::cout << rUv9y_7w7(Ces76bcwM) << TGTXqUaxl << Nu1vJA7(Ces76bcwM, (unsigned short)-874578947, (unsigned char)-1347502998, rUez7G2) << GDu5ox << std::endl;
 }
 
-ykZ9l = Nu1vJA7(104459090, (unsigned short)-1781068744, YpHb8g8, -701911270);
+ykZ9l = Nu1vJA7(104459090, (unsigned short)-1781068744, YpHb8g8, (char)-701911270);
 
 if ((s0iCmC7 & Pkgy5Y) || ((rUez7G2 != oJ_l44j4) && (ky7OdeBa_ <= -1152396309)))
 {
@@ -335,7 +335,7 @@ case 4:
 JHLOjdMgr = Nu1vJA7(-2039359965, FKq9bX618, (unsigned char)-429085389, (char)459310819);
 break;
 case 5:
-JHLOjdMgr = dY844zp(JHLOjdMgr, (short)-1643830300, 1909658320);
+JHLOjdMgr = dY844zp(JHLOjdMgr, (short)-1643830300, (unsigned short)1909658320);
 break;
 case 6:
 WuSmzc >>= 1549675806;
@@ -362,7 +362,7 @@ std::cout << rUv9y_7w7(rUez7G2) << std::endl;
 int i = 0;
 do
 {
-std::cout << Nu1vJA7(-1429565016, (unsigned short)-562435766, Z6__Y4, c6frj) << "XKe1DagwMD" << Nu1vJA7(62075397, (unsigned short)588910952, (unsigned char)-1867549591, 261725907) << XND_ << std::endl;
+std::cout << Nu1vJA7(-1429565016, (unsigned short)-562435766, Z6__Y4, c6frj) << "XKe1DagwMD" << Nu1vJA7(62075397, (unsigned short)588910952, (unsigned char)-1867549591, (char)261725907) << XND_ << std::endl;
 i++;
 }
 while (i < 4);
@@ -499,7 +499,7 @@ v43gU54cA8 = Nu1vJA7(v43gU54cA8, (unsigned short)759397360, (unsigned char)-6244
 }
 }
 
-std::cout << dY844zp((unsigned char)-1055022661, o43Hx5l, 634515521) << rUv9y_7w7(v43gU54cA8) << dY844zp(v43gU54cA8, 1305077771, -1742624129) << zo5_B_Vb << "C9hx_A8S" << std::endl;
+std::cout << dY844zp((unsigned char)-1055022661, o43Hx5l, (unsigned short)634515521) << rUv9y_7w7(v43gU54cA8) << dY844zp(v43gU54cA8, 1305077771, -1742624129) << zo5_B_Vb << "C9hx_A8S" << std::endl;
 return 0;
 }
 

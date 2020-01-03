@@ -17,7 +17,7 @@ int main(int argc, char** argv) {
  unsigned short int Q8GP6fS;
  Q8GP6fS = (unsigned short)-2119268186;
     unsigned short    GmajX1;
-    GmajX1    =    -1538843973;
+    GmajX1    =    (unsigned short)-1538843973;
   short  S9TT;
   S9TT  =  (short)-774905416;
     char    DRb_ly9_6;

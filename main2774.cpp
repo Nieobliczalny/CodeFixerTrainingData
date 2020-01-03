@@ -125,7 +125,7 @@ bLfH_ = U30gPi((unsigned char)-1149558464, (unsigned short)1147903885, h3z9Wac75
 break;
 case 'b':
 case 'B':
-O6270u7 = d8tNH4(272703839, rhI4z23cum, yiYl, 459508525, -567273193);
+O6270u7 = d8tNH4(272703839, rhI4z23cum, yiYl, 459508525, (char)-567273193);
 break;
 case 'c':
 case 'C':
@@ -320,7 +320,7 @@ D8gi4kv = QU5555j(D8gi4kv, 834979763);
 }
 else if (uNFFOQ37 > kkB2G642)
 {
-std::cout << tJOfS352O << d8tNH4(-1957218907, (short)1779287376, XD_S, -1061026628, (char)901947217) << U30gPi((unsigned char)-1800771673, 1337931624, 29267101, EozS8N1l, -382659135) << "GIuW655gs" << std::endl;
+std::cout << tJOfS352O << d8tNH4(-1957218907, (short)1779287376, XD_S, -1061026628, (char)901947217) << U30gPi((unsigned char)-1800771673, (unsigned short)1337931624, 29267101, EozS8N1l, -382659135) << "GIuW655gs" << std::endl;
 }
 else if (LK655l)
 {
@@ -338,7 +338,7 @@ G6I3TR = U30gPi((unsigned char)-64924702, (unsigned short)3098558, 422163998, cq
 }
 else if (LK655l < 659596207)
 {
-eQiWtb = U30gPi(eQiWtb, (unsigned short)-223846814, WWwi35, -1993412273, -132379719);
+eQiWtb = U30gPi(eQiWtb, (unsigned short)-223846814, WWwi35, (unsigned short)-1993412273, -132379719);
 }
 else if (Oi07_yOQ3q != kkB2G642)
 {
@@ -428,7 +428,7 @@ case 1:
 HgBQhX = U30gPi(PDxw, (unsigned short)58147217, 1131066580, (unsigned short)-951871310, y1Wy51pyO5);
 break;
 case 2:
-Pq3CN = U30gPi(Pq3CN, (unsigned short)442354472, Oi07_yOQ3q, -190392408, 696105984);
+Pq3CN = U30gPi(Pq3CN, (unsigned short)442354472, Oi07_yOQ3q, (unsigned short)-190392408, 696105984);
 break;
 case 3:
 QFOC3hy4 = U30gPi(452985156, PDxw, qP4Fpp, eHIUo6VIk, c2ZRWwupMf);
@@ -592,7 +592,7 @@ O6270u7 = d8tNH4(tJOfS352O, (short)1699084518, (unsigned short)-1040325840, 8047
 }
 else if ((tJOfS352O >= -1959343157) && (HgBQhX != Z99_ZB0EiM))
 {
-cFtd6S = U30gPi((unsigned char)1724551404, -1763266343, -1576859834, R0CkXJX, TW69_5yA_M);
+cFtd6S = U30gPi((unsigned char)1724551404, (unsigned short)-1763266343, -1576859834, R0CkXJX, TW69_5yA_M);
 }
 else if (Q8K4n >= NbTDVYZ)
 {
@@ -664,7 +664,7 @@ case 'g':
 HgBQhX = U30gPi(HgBQhX, (unsigned short)941064078, -1297636070, (unsigned short)-1269417356, E6y0HV_32);
 break;
 case 'h':
-O6270u7 = d8tNH4(E6y0HV_32, -1428251508, 1903259512, -110104627, 220377575);
+O6270u7 = d8tNH4(E6y0HV_32, (short)-1428251508, 1903259512, -110104627, 220377575);
 break;
 case 'i':
 YRAITne--;

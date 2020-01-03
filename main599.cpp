@@ -30,7 +30,7 @@ int main() {
   long  XQVHPm  =  -1557474893;
 	short int	T49r	=	(short)-182795606;
 	unsigned short	ye8p	=	(unsigned short)1521854519;
-  unsigned short  PP6Yl_F  =  1716702046;
+  unsigned short  PP6Yl_F  =  (unsigned short)1716702046;
 	unsigned int	DU065jn	=	498680845;
   double  isB2  =  -1844438818;
 	long long	Q_3E	=	0;
@@ -49,7 +49,7 @@ int main() {
     unsigned int    us1LfePYt_    =    -365773772;
     int    ToC75m_    =    -1531367881;
 	unsigned short	hu3A25	=	(unsigned short)822798287;
- unsigned short IUqj = -1573860311;
+ unsigned short IUqj = (unsigned short)-1573860311;
  unsigned long long S8mCj = -71931427;
   unsigned short  w0cTH  =  -783451062;
   unsigned long long  f_ChYOmH9  =  1867699173;
@@ -125,7 +125,7 @@ dkRQnOAp = NyQhD((unsigned char)195693164, PP6Yl_F, (char)321172876);
 
 std::cout << "VS9Uh" << jPYgIj(DU065jn, 111667628) << NyQhD(DU065jn, PP6Yl_F, (char)-1323664918) << "XM3x1nV0" << std::endl;
 
-qGob9208 = w0cTH / NyQhD(-1364652753, 1694741888, ye8p);
+qGob9208 = w0cTH / NyQhD((unsigned char)-1364652753, 1694741888, ye8p);
 {
 int i = 5;
 while (i >= 0)

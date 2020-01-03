@@ -34,7 +34,7 @@ int main(int argc, char** argv)
  unsigned long long UvoX_7w;
  UvoX_7w = -1265179354;
     unsigned short int    c7kH;
-    c7kH    =    -765706444;
+    c7kH    =    (unsigned short)-765706444;
 	unsigned short	gYP705L;
 	gYP705L	=	(unsigned short)866634505;
     double    AU_xyT64f;
@@ -60,7 +60,7 @@ int main(int argc, char** argv)
   unsigned char  PQYn;
   PQYn  =  (unsigned char)1584574787;
 	char	RtVl_K;
-	RtVl_K	=	-2124699686;
+	RtVl_K	=	(char)-2124699686;
   short int  ZvMcLn;
   ZvMcLn  =  0;
 	long long	CgCp_qhz5;
@@ -126,7 +126,7 @@ int main(int argc, char** argv)
 	unsigned short	SJAtoo;
 	SJAtoo	=	(unsigned short)1417526402;
     char    N6MgU;
-    N6MgU    =    -920902663;
+    N6MgU    =    (char)-920902663;
   double  M_K7m5;
   M_K7m5  =  957467071;
     short int    ghICDH6;

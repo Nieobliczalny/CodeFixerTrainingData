@@ -17,7 +17,7 @@ int main(void)
 	char	I3Q5LD0;
 	I3Q5LD0	=	(char)1256429850;
 	short int	yYezZ_;
-	yYezZ_	=	-146406503;
+	yYezZ_	=	(short)-146406503;
 	unsigned long long	Z_X9z12Ak;
 	Z_X9z12Ak	=	312627751;
  short iEsV56;
@@ -61,7 +61,7 @@ int main(void)
   unsigned short int  OWKv;
   OWKv  =  (unsigned short)-1912573418;
     unsigned short    W0DX;
-    W0DX    =    474872161;
+    W0DX    =    (unsigned short)474872161;
  long BOf_7ge;
  BOf_7ge = -309817096;
  double X88SNi5_;
@@ -85,7 +85,7 @@ int main(void)
  unsigned char DgxKTG2O4E;
  DgxKTG2O4E = (unsigned char)1316678024;
 	short int	siV78;
-	siV78	=	304753645;
+	siV78	=	(short)304753645;
 	long	q3q3B6aBF;
 	q3q3B6aBF	=	0;
 	unsigned long long	hx6yqLt;
@@ -107,7 +107,7 @@ int main(void)
  unsigned short oQcDV6;
  oQcDV6 = (unsigned short)-116384903;
 	unsigned short	Q3n1;
-	Q3n1	=	-1119972148;
+	Q3n1	=	(unsigned short)-1119972148;
  long fXTxk4vL8;
  fXTxk4vL8 = -1563964532;
 	short int	FW3s6J51;

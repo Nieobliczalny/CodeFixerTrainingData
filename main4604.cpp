@@ -18,7 +18,7 @@ int main() {
     short    Y28Ftx061;
     Y28Ftx061    =    (short)1287577519;
 	unsigned char	OFEug8J;
-	OFEug8J	=	-2049900342;
+	OFEug8J	=	(unsigned char)-2049900342;
     char    X7Tp;
     X7Tp    =    0;
  unsigned short int JSfwatS;

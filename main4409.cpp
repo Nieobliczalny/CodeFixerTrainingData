@@ -399,7 +399,7 @@ case 'H':
 K7D_ *= 1367261600;
 break;
 default:
-Hk7LPp5 = K6s9j(GD1T0O, -1481517829, 345977144);
+Hk7LPp5 = K6s9j(GD1T0O, -1481517829, (char)345977144);
 break;
 }
 {

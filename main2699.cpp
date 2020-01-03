@@ -79,7 +79,7 @@ int main(void) {
 	unsigned short	Eov0M6aC83;
 	Eov0M6aC83	=	(unsigned short)-385095003;
  short L44Q88b3;
- L44Q88b3 = 970000352;
+ L44Q88b3 = (short)970000352;
   long  K7Ie5U4XX;
   K7Ie5U4XX  =  587203010;
 	char	ZF71UJS2a;
@@ -159,7 +159,7 @@ iW0BAO5S4 = N258((char)1004615529, (unsigned short)25243356, vBuaC, (unsigned sh
 }
 
 FSNoR7 = l92RMWo(Eov0M6aC83);
-L44Q88b3 = N258(-1167687918, L44Q88b3, 1285830803, -696407641, 1998982456);
+L44Q88b3 = N258((char)-1167687918, L44Q88b3, 1285830803, -696407641, 1998982456);
 
 try
 {
@@ -220,7 +220,7 @@ SR7WL = N258(SR7WL, (unsigned short)441176870, (unsigned char)1606578698, z0eAg4
 break;
 }
 }
-std::cout << N258(-1377813762, D4gcl_5H, vBuaC, 1214062148, 758162951) << std::endl;
+std::cout << N258((char)-1377813762, D4gcl_5H, vBuaC, 1214062148, 758162951) << std::endl;
 
 jxAo0w8 -= 1976049306;
 for (int i = 0; i < 2; i++)
@@ -270,7 +270,7 @@ case 1:
 L44Q88b3 = jUDoN0v64f(L44Q88b3, -1341826103, Eov0M6aC83, (char)-51248094, TnO1m);
 break;
 case 2:
-Eov0M6aC83 = N258((char)1081044176, (unsigned short)-69650936, -1964585587, a6f1Z1Vp29, magyJ);
+Eov0M6aC83 = N258((char)1081044176, (unsigned short)-69650936, (unsigned char)-1964585587, a6f1Z1Vp29, magyJ);
 break;
 case 3:
 UGR0 = k_4llr6 | SR7WL;

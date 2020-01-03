@@ -131,7 +131,7 @@ int main() {
 	unsigned char	e1t15mE;
 	e1t15mE	=	(unsigned char)1995872978;
  unsigned short pByt2RQ;
- pByt2RQ = -732879206;
+ pByt2RQ = (unsigned short)-732879206;
  unsigned int j0Rg0QoaW9;
  j0Rg0QoaW9 = 380288989;
     float    vJEnPP;

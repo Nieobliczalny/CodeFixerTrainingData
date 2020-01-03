@@ -39,7 +39,7 @@ int main(void)
 	short	FbJU;
 	FbJU	=	(short)1080650773;
  unsigned char Gc3KE49m6;
- Gc3KE49m6 = -881347585;
+ Gc3KE49m6 = (unsigned char)-881347585;
   long  i_Pn;
   i_Pn  =  2116266501;
     unsigned long long    M3OyKS;
@@ -177,7 +177,7 @@ int main(void)
  unsigned char ISQKj5_9hE;
  ISQKj5_9hE = (unsigned char)1785690475;
 	char	o836bGFO2;
-	o836bGFO2	=	526691593;
+	o836bGFO2	=	(char)526691593;
  int ucR9;
  ucR9 = -1592597094;
 	long long	wT_2e151B1;

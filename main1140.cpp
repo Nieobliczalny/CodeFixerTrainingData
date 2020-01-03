@@ -99,7 +99,7 @@ int main() {
  char BL5U;
  BL5U = (char)-2036856649;
 	short int	z75pOn;
-	z75pOn	=	-677812831;
+	z75pOn	=	(short)-677812831;
  unsigned short int NiEpUhuB;
  NiEpUhuB = (unsigned short)909157786;
 	unsigned char	x8jT3Qi;
@@ -161,7 +161,7 @@ int main() {
  unsigned short R76_9e;
  R76_9e = (unsigned short)1417918134;
  unsigned short int H1_F0pDQ3;
- H1_F0pDQ3 = -1294060066;
+ H1_F0pDQ3 = (unsigned short)-1294060066;
 	unsigned long long	f5G8JJE2;
 	f5G8JJE2	=	-825998974;
     long    t0116Y;

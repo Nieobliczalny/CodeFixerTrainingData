@@ -45,7 +45,7 @@ int main(void)
  unsigned short xK4q;
  xK4q = (unsigned short)-1627130439;
 	unsigned short int	v6y_K9;
-	v6y_K9	=	-1036943699;
+	v6y_K9	=	(unsigned short)-1036943699;
   long long  UgIQr_k;
   UgIQr_k  =  1357011248;
     short int    c35a2s;
@@ -97,7 +97,7 @@ int main(void)
   double  XY64;
   XY64  =  -535229782;
   unsigned short  V5PXK;
-  V5PXK  =  882237318;
+  V5PXK  =  (unsigned short)882237318;
  unsigned char u5s4;
  u5s4 = (unsigned char)1198456604;
 	float	e7_As8_pg;
@@ -127,7 +127,7 @@ int main(void)
  long long yCEMWW;
  yCEMWW = -1904541039;
  unsigned short PF_w;
- PF_w = -841254183;
+ PF_w = (unsigned short)-841254183;
   unsigned int  F248;
   F248  =  -1035667275;
     short int    EM371Y;
@@ -291,7 +291,7 @@ case 'd':
 i_60FjJ60 = TNSZr(i_60FjJ60, Oy8o, (short)-143629041, -785742093, -1147909181);
 break;
 case 'e':
-d17KUU = gLg9rn(D37JkN, (unsigned char)-1722536192, (unsigned short)-466252510, gO_YYw85, -1175687748);
+d17KUU = gLg9rn(D37JkN, (unsigned char)-1722536192, (unsigned short)-466252510, gO_YYw85, (unsigned char)-1175687748);
 break;
 case 'f':
 uUYs0 = gLg9rn(186647538, -343663387, -1746170043, -2138912999, -829781468);
@@ -367,7 +367,7 @@ else
 {
 if ((V5PXK != k9HdKTUAh) && (wscX6O5 == XSG6spyo))
 {
-std::cout << TNSZr((unsigned short)61270070, VP_8r4__, (short)-971081732, V5PXK, gU97) << Y_K___jDg << TNSZr(gO_YYw85, VP_8r4__, uPYD, 587059764, 1926718678) << "ZF8HSq5_za" << gLg9rn(862947553, (unsigned char)-418457768, 1785434550, -130453172, gU97) << std::endl;
+std::cout << TNSZr((unsigned short)61270070, VP_8r4__, (short)-971081732, V5PXK, gU97) << Y_K___jDg << TNSZr(gO_YYw85, VP_8r4__, uPYD, 587059764, 1926718678) << "ZF8HSq5_za" << gLg9rn(862947553, (unsigned char)-418457768, (unsigned short)1785434550, -130453172, gU97) << std::endl;
 }
 else
 {
@@ -468,7 +468,7 @@ case 2:
 s491 %= 1803238401;
 break;
 case 3:
-uUYs0 = gLg9rn(-67311490, ZyzI6oGl, -2051514222, -854305766, 1598567691);
+uUYs0 = gLg9rn(-67311490, ZyzI6oGl, (unsigned short)-2051514222, -854305766, 1598567691);
 break;
 default:
 w0bS = (int)floor(iuy4);
@@ -493,7 +493,7 @@ case 4:
 d17KUU = gLg9rn(Q9QvW, wvD6De1DU6, (unsigned short)-352511433, VP_8r4__, Bove58QR6);
 break;
 case 5:
-i_60FjJ60 = TNSZr(-1792601524, Q9QvW, -972198971, -617993252, 380820809);
+i_60FjJ60 = TNSZr((unsigned short)-1792601524, Q9QvW, -972198971, -617993252, 380820809);
 break;
 default:
 NK8Yhu %= wSWG5;

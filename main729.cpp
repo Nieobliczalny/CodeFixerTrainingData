@@ -27,7 +27,7 @@ int main(int argc, char** argv) {
   int  bB03  =  823704831;
   unsigned char  g_qip40  =  (unsigned char)-591665801;
     unsigned long    c20TXgb    =    1241795622;
- unsigned char Cb2_45 = -182776876;
+ unsigned char Cb2_45 = (unsigned char)-182776876;
   long  OCBd72fKz  =  2138018575;
 	float	E2ckBTc1	=	1337477480;
   unsigned short  rShiS9Biqi  =  (unsigned short)-245130307;

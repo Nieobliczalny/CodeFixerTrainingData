@@ -68,7 +68,7 @@ cjcMXFMi37 = (int)(J2h2r10 * cjcMXFMi37);
 }
 else if (((J2h2r10 > -344004184) && (btyTJK)) || (J2h2r10 != Ou2MJ))
 {
-cjcMXFMi37 = Yzf7d7O0Jr(675250553, (short)-2142505159, (char)-237164319, (unsigned short)-1847872247, 292973005);
+cjcMXFMi37 = Yzf7d7O0Jr(675250553, (short)-2142505159, (char)-237164319, (unsigned short)-1847872247, (unsigned char)292973005);
 }
 else if ((B_BdS2f0 <= Ou2MJ) || (M62_V61a5K != D1m1_M))
 {
@@ -144,7 +144,7 @@ J2h2r10 = cjcMXFMi37 & 828830390;
 
 if (libg7b <= D1m1_M)
 {
-cjcMXFMi37 = Yzf7d7O0Jr(B10X3PPX, (short)-983944743, (char)-95442588, (unsigned short)-1092094305, -1290863219);
+cjcMXFMi37 = Yzf7d7O0Jr(B10X3PPX, (short)-983944743, (char)-95442588, (unsigned short)-1092094305, (unsigned char)-1290863219);
 }
 else
 {
@@ -157,7 +157,7 @@ cout << Yzf7d7O0Jr(B10X3PPX, O_l_UVSA, 538332626, -2128565130, btyTJK) << Yzf7d7
 }
 }
 }
-cout << Yzf7d7O0Jr(B10X3PPX, O_l_UVSA, NGS9xet, cjcMXFMi37, (unsigned char)26452616) << Yzf7d7O0Jr(B10X3PPX, (short)-827615875, NGS9xet, cjcMXFMi37, btyTJK) << Yzf7d7O0Jr(B10X3PPX, (short)-1710803035, -583648727, 1676390463, 343493547) << endl;
+cout << Yzf7d7O0Jr(B10X3PPX, O_l_UVSA, NGS9xet, cjcMXFMi37, (unsigned char)26452616) << Yzf7d7O0Jr(B10X3PPX, (short)-827615875, NGS9xet, cjcMXFMi37, btyTJK) << Yzf7d7O0Jr(B10X3PPX, (short)-1710803035, (char)-583648727, 1676390463, 343493547) << endl;
 vfA0049QMw = (unsigned short)(vQLz5C25);
 
 ieH0t = Yzf7d7O0Jr(B10X3PPX, -386607370, NGS9xet, cjcMXFMi37, -1616698841) / Yzf7d7O0Jr(341344443, -1943364876, -1632434863, 1268086243, 394528899);
@@ -231,7 +231,7 @@ else
 switch (B_BdS2f0)
 {
 case 0:
-cjcMXFMi37 = Yzf7d7O0Jr(1353190165, 909833927, Iu_z_oo_G, -625364322, 2089429717);
+cjcMXFMi37 = Yzf7d7O0Jr(1353190165, (short)909833927, Iu_z_oo_G, -625364322, 2089429717);
 break;
 case 1:
 B10X3PPX ^= 1298084248;
@@ -243,7 +243,7 @@ case 3:
 cjcMXFMi37 = Yzf7d7O0Jr(519912665, (short)2057602345, B10X3PPX, (unsigned short)-1212351224, (unsigned char)679616592);
 break;
 case 4:
-Pq6UDll = Yzf7d7O0Jr(Pq6UDll, -769076753, -2063893005, btyTJK, -1019697375);
+Pq6UDll = Yzf7d7O0Jr(Pq6UDll, (short)-769076753, -2063893005, btyTJK, -1019697375);
 break;
 case 5:
 libg7b = (int)abs(Pq6UDll);

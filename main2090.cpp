@@ -100,7 +100,7 @@ case 2:
 T1L9 = (int)abs(l7eC0WL0);
 break;
 case 3:
-I_a216vgTv = m1r3T3I7OR(Dry3, aF3JOKxt, 984998999, UefKrix, 478479799);
+I_a216vgTv = m1r3T3I7OR(Dry3, aF3JOKxt, 984998999, UefKrix, (short)478479799);
 break;
 case 4:
 aF3JOKxt %= UefKrix;
@@ -309,7 +309,7 @@ f824j146m6 *= 218804204;
 UefKrix = aF3JOKxt % wgI8d20tpa;
 rGlK = m1r3T3I7OR(Oa36A7nETQ, (unsigned short)340210416, -307154177, mIw4Ma9, Wr2Vn7413);
 
-lJB5Ap9 = m1r3T3I7OR((unsigned char)1855798623, (unsigned short)701439353, f824j146m6, 1940655104, -894017862);
+lJB5Ap9 = m1r3T3I7OR((unsigned char)1855798623, (unsigned short)701439353, f824j146m6, 1940655104, (short)-894017862);
 {
 int i = 0;
 while (i < 2)

@@ -349,7 +349,7 @@ qfkrkgH_P = rvz84S((unsigned short)586040013, (char)-533600217, (unsigned short)
 break;
 case 'd':
 case 'D':
-H3E9D_Wh = G98CF(1985886255, -1621707925);
+H3E9D_Wh = G98CF(1985886255, (char)-1621707925);
 break;
 case 'e':
 case 'E':

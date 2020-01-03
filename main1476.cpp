@@ -25,7 +25,7 @@ int main() {
     unsigned char    T7c40    =    (unsigned char)-1006046788;
 	char	U484xR5	=	(char)501701656;
 	long long	npm08sj3aJ	=	634771261;
-  short  P8Mus  =  1317259658;
+  short  P8Mus  =  (short)1317259658;
  long double oQrN = -574727906;
  char XoZxd9WLh = 702029334;
   short  MvS_88  =  -381466528;
@@ -53,7 +53,7 @@ int main() {
     long    Idu15NHK    =    660477827;
 	short	xe89A4o	=	(short)190748777;
   char  A_Jd4LoXf  =  (char)-1007125138;
-  short  P8S8f  =  -1891907906;
+  short  P8S8f  =  (short)-1891907906;
   long double  Pi7SjVJ  =  -113377688;
  short vFxzu = (short)1249668119;
     long double    rrYU4W2    =    -1159888069;
@@ -63,7 +63,7 @@ int main() {
   long double  Z5gbk  =  1470928818;
 	short	CGo4a4XUJs	=	(short)787796937;
 	short int	ETJg5b8	=	(short)-1057191885;
-	short	i2oxAv	=	-585820477;
+	short	i2oxAv	=	(short)-585820477;
   long long  ic4WVS1_j  =  430298574;
 	float	pvOGq3	=	-1229821868;
     short int    J5A5dTg    =    (short)48249412;
@@ -79,7 +79,7 @@ int main() {
   unsigned long long  s_5N5V2A6  =  0;
     unsigned short    Rn8P5p    =    (unsigned short)-783198714;
  unsigned int HEDD93p = 945570978;
- unsigned short int SDtuj = -368135302;
+ unsigned short int SDtuj = (unsigned short)-368135302;
 	unsigned short	ZTY082wlL	=	1073048225;
     short    RGH2nxUw    =    783926179;
     long long    Nw1h24J_W    =    -836462126;
@@ -404,7 +404,7 @@ if (i2oxAv <= 698378482)
 switch (y_t119oR)
 {
 case 0:
-I7bQBQF9j = FMqr9bH(1309756461);
+I7bQBQF9j = FMqr9bH((char)1309756461);
 break;
 case 1:
 n7vd7zW_5g = xe89A4o << 864119914;

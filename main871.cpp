@@ -31,7 +31,7 @@ int main(void) {
     float    Ev3Sl    =    -511995754;
 	long double	Uz4147T7	=	2051816792;
   unsigned char  q6w631HRG  =  (unsigned char)-522881114;
-  char  A_r0  =  2052694211;
+  char  A_r0  =  (char)2052694211;
 	int	D1__	=	1256693835;
   long  YUpOyG  =  0;
  long D_etQ5Y_m = -159341026;
@@ -42,7 +42,7 @@ int main(void) {
     double    DBCp_    =    1670513511;
     unsigned char    wmGk1I7A    =    (unsigned char)274897427;
   long long  b5O60xpmk0  =  741499682;
- short FG6ZTCg = -239040226;
+ short FG6ZTCg = (short)-239040226;
  short zJOf6_oQB_ = -1066993303;
 	unsigned long long	U_TX2	=	-1636935234;
     long long    qC8diqk    =    1461591098;
@@ -56,7 +56,7 @@ int main(void) {
  long long nkOj2D4yz = -1957647842;
 	float	u23vh	=	-313759106;
     unsigned char    pGE8w5O_    =    (unsigned char)2001197948;
-  unsigned short int  m6IewN6  =  1282833514;
+  unsigned short int  m6IewN6  =  (unsigned short)1282833514;
     long long    o340l    =    1429317815;
 	unsigned int	aifIE	=	-486581382;
  char fA4s = (char)1560426418;
@@ -70,7 +70,7 @@ int main(void) {
   unsigned char  QUBhV7_  =  0;
 	double	Qh0_2U0CG	=	1241819707;
 	unsigned short	Ur3i1_	=	(unsigned short)20628483;
-    short int    jAv66Rus    =    1439871530;
+    short int    jAv66Rus    =    (short)1439871530;
     char    J8Z7    =    -164857183;
     int    S4dv    =    1726573742;
 	unsigned short	ja4Bc_1y	=	(unsigned short)844603838;
@@ -100,7 +100,7 @@ int main(void) {
  long double D9xox = 1397694667;
   long long  g2L2t  =  -359017950;
   unsigned short int  K3bE  =  (unsigned short)-593211968;
-  short int  W_2gvT0C3V  =  -1456631823;
+  short int  W_2gvT0C3V  =  (short)-1456631823;
 	long	v3dnBkNC0R	=	1124968959;
 	char	Xopkdu4cV	=	-892520224;
  unsigned char Jn_1k6 = (unsigned char)-640152685;
@@ -388,7 +388,7 @@ cout << cEc4v(u23vh, r5Bx, 1844127097, QUBhV7_) << z2_ug0d7(u23vh, (unsigned sho
 
 if (fA4s == 288277459)
 {
-ja4Bc_1y = y1UxRx1_8(ja4Bc_1y, 2132141003, -150480015);
+ja4Bc_1y = y1UxRx1_8(ja4Bc_1y, (unsigned char)2132141003, -150480015);
 }
 else if (D9xox)
 {

@@ -46,7 +46,7 @@ case 2:
 NsPb1_9C9_ |= 173077087;
 break;
 case 3:
-J300ls2ot = a8KAt3(-1451986509);
+J300ls2ot = a8KAt3((char)-1451986509);
 break;
 case 4:
 rhgEMo = haOa740D(-1246722981);
@@ -89,7 +89,7 @@ break;
 Xm_x7zT9 = CXwPTAXKA(1456111418, -372780933, (unsigned short)-1794773038, (char)-510743909, (unsigned short)-1491910039);
 if (z7GX7ZDI < -1753480153)
 {
-qE2ytc_nyc = CXwPTAXKA(qE2ytc_nyc, DUA_UVm7Z, -25391289, M_c9inu, 1136771704);
+qE2ytc_nyc = CXwPTAXKA(qE2ytc_nyc, DUA_UVm7Z, (unsigned short)-25391289, M_c9inu, 1136771704);
 }
 else
 {

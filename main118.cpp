@@ -22,7 +22,7 @@ int main(void)
   long long  Gl83ljL  =  -2078734527;
 	short	TKEio	=	(short)-1747019766;
     unsigned long    u1_7z13    =    1661639842;
-  unsigned short  H_KMt6J3l  =  -1734801769;
+  unsigned short  H_KMt6J3l  =  (unsigned short)-1734801769;
   unsigned char  dey9BT1d4  =  1562006094;
   char  DVpoBI7  =  1518362855;
  double J1Ze = 417961120;
@@ -51,7 +51,7 @@ int main(void)
 	float	ardiZpE	=	-1236574052;
   unsigned long long  f346A  =  -1274580407;
     double    zmg1akr    =    -327480681;
-    unsigned short    y577    =    1081115062;
+    unsigned short    y577    =    (unsigned short)1081115062;
   unsigned int  InZ_tYzC8c  =  -797945201;
  double K0tM687 = 354781776;
 	unsigned int	UV51	=	0;

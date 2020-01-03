@@ -329,7 +329,7 @@ F4f66_Z = NisA49J604((unsigned char)2138506881, 1300978108, (unsigned char)-1261
 }
 else if (lzt0iK6Z >= NeP2sX)
 {
-wB5P6ND_s = NisA49J604((unsigned char)2124329433, 1108908508, -889891230, 1091383136, -48607045);
+wB5P6ND_s = NisA49J604((unsigned char)2124329433, 1108908508, (unsigned char)-889891230, 1091383136, -48607045);
 }
 else
 {

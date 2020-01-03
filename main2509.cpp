@@ -240,7 +240,7 @@ case 1:
 UFPeorElt = dm2254NM((unsigned short)-448729102, 1126964615);
 break;
 case 2:
-s_fm0e2 = dm2254NM(-1000170271, q0FvKMw7NA);
+s_fm0e2 = dm2254NM((unsigned short)-1000170271, q0FvKMw7NA);
 break;
 }
 }

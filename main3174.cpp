@@ -86,7 +86,7 @@ case 1:
 s3p81CPC = (kT8p9 == -1163005585) ? v1oI7 : (unsigned short)1072450022;
 break;
 case 2:
-DK5K2_ = FUqw71m((char)1986973875, o_5sbE0k, -1177168998);
+DK5K2_ = FUqw71m((char)1986973875, o_5sbE0k, (unsigned char)-1177168998);
 break;
 case 3:
 vh53Jv26C0 = As1q3uGQ(745303376, F_KK493Il1, -386900906);

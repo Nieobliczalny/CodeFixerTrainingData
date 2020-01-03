@@ -81,7 +81,7 @@ int main(void)
   unsigned char  P0hbF6o_;
   P0hbF6o_  =  (unsigned char)1877806574;
     unsigned char    QyEnE76W;
-    QyEnE76W    =    -784895260;
+    QyEnE76W    =    (unsigned char)-784895260;
 	char	Txiq;
 	Txiq	=	(char)41500517;
  long uE2EWKX;
@@ -97,7 +97,7 @@ int main(void)
  char i4N8DV635V;
  i4N8DV635V = (char)-1587201868;
  short int Q62X52;
- Q62X52 = -2134384609;
+ Q62X52 = (short)-2134384609;
  short gRakB;
  gRakB = (short)1400665116;
     unsigned char    evcq;

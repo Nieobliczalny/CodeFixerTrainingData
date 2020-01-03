@@ -187,7 +187,7 @@ if (vHNRWNL7 < -1147287527)
 cout << aYj_Jv33V(-2029181325, (unsigned short)-402146793, V89q1) << "Tq2_f_P_" << i88Xa53((short)-2091964336, -984875449, -1965160011) << i88Xa53((short)1999418146, 1875643447, V89q1) << endl;
 }
 
-cout << "U5radBT_6A" << aYj_Jv33V(678579837, 1248973845, -218232769) << n2_O << endl;
+cout << "U5radBT_6A" << aYj_Jv33V(678579837, (unsigned short)1248973845, -218232769) << n2_O << endl;
 
 if (A97Z69gr)
 {

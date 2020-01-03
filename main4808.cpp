@@ -26,7 +26,7 @@ int main(void) {
  unsigned short int flNHv = (unsigned short)729389342;
   unsigned short int  xMfUe0  =  (unsigned short)1232667907;
     double    qm76W    =    -2034582214;
- char w4_7 = -121848601;
+ char w4_7 = (char)-121848601;
   unsigned short  I93so  =  1670395688;
   unsigned int  rJ0_Jg  =  -1267178708;
   unsigned long  zz3Z97V3  =  1629059224;
@@ -37,7 +37,7 @@ int main(void) {
   unsigned short  c5_qa  =  (unsigned short)173062608;
 	unsigned short int	LlmMDlzT3	=	(unsigned short)426949069;
   int  PE1Had  =  209318363;
-  unsigned short  ltT8  =  -360640898;
+  unsigned short  ltT8  =  (unsigned short)-360640898;
  unsigned long pey39 = -687821428;
     long double    hY33zL    =    -61203446;
 	unsigned long	Ru_Rb9p5Tz	=	1968143477;
@@ -61,7 +61,7 @@ int main(void) {
 	unsigned long	g6Ek_	=	1242430367;
 	unsigned short	GA0nbCt	=	(unsigned short)-614327928;
 	unsigned long	gvH36P9	=	788914993;
-    unsigned short int    dMQE_IXC    =    -1601931923;
+    unsigned short int    dMQE_IXC    =    (unsigned short)-1601931923;
 	long	XhH82F6z	=	422368814;
     char    SN7_Ndm1    =    -611278046;
  long double z82bbZgupo = -1975290813;
@@ -72,7 +72,7 @@ int main(void) {
 	long	pGm18U	=	2068051343;
  int m0QP0JnQEK = 659232428;
 	unsigned short	oEo5R	=	(unsigned short)-1127830336;
-    unsigned char    lFgS66wfX4    =    -1369580460;
+    unsigned char    lFgS66wfX4    =    (unsigned char)-1369580460;
 	unsigned int	BIHI0P	=	-1582527189;
  short O24I4SgF7 = 2144685110;
  unsigned long long gbKy1 = 1407543589;
@@ -96,7 +96,7 @@ int main(void) {
     long long    Nmjxo    =    -1364695955;
  long V_F297B = 946592487;
   char  O8y8  =  (char)1281299711;
-    short int    l23M    =    539101410;
+    short int    l23M    =    (short)539101410;
 	unsigned short int	y9Nw1j	=	412931196;
  unsigned short int S2jjDjAMNu = (unsigned short)494957559;
   float  aXqI  =  1642116358;
@@ -107,7 +107,7 @@ int main(void) {
 	char	md6S5	=	748818437;
   long long  NJnoS  =  793125750;
     short    o46y9y24C    =    (short)1019991799;
- unsigned short ktaJeu0 = -65726041;
+ unsigned short ktaJeu0 = (unsigned short)-65726041;
     long double    MmjB_SY    =    -956963064;
  unsigned int E7NVq_ = -1846105469;
 

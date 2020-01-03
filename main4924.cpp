@@ -30,7 +30,7 @@ int main(void) {
     long long    pINj    =    -138730723;
   short  To_6  =  (short)687084108;
     long double    X3n3B    =    471933971;
-    short    GomTW    =    -1272444355;
+    short    GomTW    =    (short)-1272444355;
     int    o22xrZbz1f    =    0;
     unsigned int    yTRB2A8    =    997533456;
 	int	irxT1vd	=	1804220529;
@@ -163,7 +163,7 @@ pINj = (int)abs(fZ6fEh4E);
 }
 else
 {
-std::cout << RtKyFU9Q(-1160127571, X3n3B, KL0qlS5ep9, GomTW) << QjeE9tdz(1395212115, X3n3B, KL0qlS5ep9, (unsigned short)1526180025, j_9kJVSJ) << RtKyFU9Q(fZ6fEh4E, (unsigned short)357225055, (unsigned char)1709904235, -180388109) << "x2GboP39R" << vj8nOv6P() << std::endl;
+std::cout << RtKyFU9Q(-1160127571, X3n3B, KL0qlS5ep9, GomTW) << QjeE9tdz(1395212115, X3n3B, KL0qlS5ep9, (unsigned short)1526180025, j_9kJVSJ) << RtKyFU9Q(fZ6fEh4E, (unsigned short)357225055, (unsigned char)1709904235, (unsigned char)-180388109) << "x2GboP39R" << vj8nOv6P() << std::endl;
 }
 
 for (int i = 4; i >= 0; --i)

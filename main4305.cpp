@@ -44,7 +44,7 @@ if (((i7w9 & ICH6dOYUT) && (ICH6dOYUT != Ius_i3YPOV)) && (AgjH0bdf >= mers5euY))
 {
 if (((LqVSZn & 1728713863) || (l4cQJ <= -1082153868)) && ((BQ7qI5 < mers5euY) || (Y_5CqCq < mers5euY)))
 {
-Y_5CqCq = hN_LN8v(-290809563, ESb0e1, l4cQJ, Y_5CqCq);
+Y_5CqCq = hN_LN8v((short)-290809563, ESb0e1, l4cQJ, Y_5CqCq);
 }
 }
 }
@@ -126,7 +126,7 @@ int j = 0;
 while (j < 1)
 {
 j++;
-std::cout << yS36M1uz(699362708, BQ7qI5) << "I3ZPRv_CD" << std::endl;
+std::cout << yS36M1uz((short)699362708, BQ7qI5) << "I3ZPRv_CD" << std::endl;
 }
 }
 }

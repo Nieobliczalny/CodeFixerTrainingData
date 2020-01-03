@@ -21,7 +21,7 @@ int main(void)
   unsigned char  onno29  =  (unsigned char)-810158985;
   float  YFDe  =  -1847604250;
 	short	Zoy8	=	(short)-1954682276;
- char BNFM3ficX = -1997834951;
+ char BNFM3ficX = (char)-1997834951;
     unsigned short    TC0P36M    =    423701939;
 	short	UD3Bcf	=	558420189;
     short    yer6WeXb    =    -109399613;
@@ -33,7 +33,7 @@ int main(void)
 	unsigned short	D0hQuI	=	(unsigned short)-2079182348;
  char NJ501o2_1_ = (char)1438567171;
     unsigned short    M3wj    =    (unsigned short)-1490213311;
- char f_KZ8_sqw = -1052654684;
+ char f_KZ8_sqw = (char)-1052654684;
  float x5QpQ = -384152648;
     unsigned long    UfpqONq9qS    =    280020770;
     unsigned char    iB4mS1    =    1672108671;
@@ -49,7 +49,7 @@ int main(void)
   unsigned long  v588dk  =  -459032019;
   unsigned short int  WpSm_10A  =  (unsigned short)-534474440;
   char  W2foUn0  =  (char)1602503571;
-	unsigned char	l45FHW1E	=	1096822359;
+	unsigned char	l45FHW1E	=	(unsigned char)1096822359;
   unsigned short int  J11t16H3  =  -294032642;
  short JgF_ = (short)-2059858578;
  short Sw8z = -301046303;
@@ -64,7 +64,7 @@ int main(void)
   short  S9eg2z  =  (short)-2119308939;
     short    jKaIT6bk    =    (short)597755608;
  double jGbecIb4q6 = -276972876;
-	short	aPywqe3	=	1250526785;
+	short	aPywqe3	=	(short)1250526785;
   float  IWeLu89R3d  =  608839367;
 	unsigned int	i55_eXAzpb	=	2035480418;
  long M6_7R = -355192395;
@@ -79,7 +79,7 @@ int main(void)
 	short int	f_6sXwB1_	=	(short)591208070;
     long double    WAAaBETi1    =    -749181817;
     short    vc1iD6    =    (short)-1465569667;
-	char	O4vCci9	=	-671468080;
+	char	O4vCci9	=	(char)-671468080;
   unsigned short int  O57a  =  1245200268;
   char  P0Ncn4l  =  -2004005076;
  short int ttBK_f = 1451441638;
@@ -100,7 +100,7 @@ int main(void)
  short int i9B2DY7PRb = (short)583505538;
  unsigned short jv8vRv8wZ = (unsigned short)-1973828196;
     unsigned short    PRHz22Q    =    0;
-	short int	nC97SjQ7D	=	-1396443531;
+	short int	nC97SjQ7D	=	(short)-1396443531;
   int  m_1w  =  1741902622;
 	short int	iqY4q4	=	(short)-2034429290;
     int    Ji127b    =    -893047772;
@@ -201,7 +201,7 @@ switch (l45FHW1E)
 {
 case 'a':
 case 'A':
-ttBK_f = nlK_9Nfw0(-592102318, i9B2DY7PRb, eXCp1, (short)-451269516, 1483484685) & 296542443;
+ttBK_f = nlK_9Nfw0(-592102318, i9B2DY7PRb, eXCp1, (short)-451269516, (char)1483484685) & 296542443;
 break;
 default:
 jKaIT6bk >>= UD3Bcf;

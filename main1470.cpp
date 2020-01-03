@@ -22,7 +22,7 @@ int main() {
   short int  EaZdS;
   EaZdS  =  (short)-174880668;
   unsigned short int  wT3_e_Z95;
-  wT3_e_Z95  =  -1649602854;
+  wT3_e_Z95  =  (unsigned short)-1649602854;
   unsigned int  l7CqqY;
   l7CqqY  =  2088562215;
  unsigned long long kf3r0;
@@ -287,7 +287,7 @@ Na66mvmE = r9W7(-381662609, MCwC_DA, h9Wp, 1374574365, 1057651424);
 qcXw90EG_w = r9W7((unsigned short)-298757200, (unsigned short)1094760407, qcXw90EG_w, -1995616871, Isx0Wf787I);
 try
 {
-std::cout << "BbfWHE0" << UGe6m << r9W7((unsigned short)-272485766, 163944765, 1927710873, -1995499387, -992686805) << fB2D << "w4oT" << std::endl;
+std::cout << "BbfWHE0" << UGe6m << r9W7((unsigned short)-272485766, (unsigned short)163944765, 1927710873, -1995499387, -992686805) << fB2D << "w4oT" << std::endl;
 }
 catch (int& errorCode)
 {

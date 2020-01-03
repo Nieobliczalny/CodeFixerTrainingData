@@ -45,7 +45,7 @@ int main(int argc, char** argv)
   short  F4iUo_5v;
   F4iUo_5v  =  (short)-192238374;
 	short int	lK11eB;
-	lK11eB	=	-2090242556;
+	lK11eB	=	(short)-2090242556;
     long long    o12IG1S6p7;
     o12IG1S6p7    =    1526926446;
     unsigned long long    agF0;
@@ -69,7 +69,7 @@ int main(int argc, char** argv)
   short int  f1LYi_7qX7;
   f1LYi_7qX7  =  (short)-180979506;
   short  UfQk7y30;
-  UfQk7y30  =  -1437940226;
+  UfQk7y30  =  (short)-1437940226;
  char XpFbYZZiP4;
  XpFbYZZiP4 = (char)691328524;
  long dbry7;
@@ -111,7 +111,7 @@ int main(int argc, char** argv)
  unsigned short EH37122Bi9;
  EH37122Bi9 = (unsigned short)-932088259;
   unsigned char  ga0e8;
-  ga0e8  =  -1641483440;
+  ga0e8  =  (unsigned char)-1641483440;
     unsigned long long    oy0mdv57;
     oy0mdv57    =    -1221119039;
   short int  hpmlY2I;

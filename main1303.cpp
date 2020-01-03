@@ -117,7 +117,7 @@ int main(int argc, char** argv)
     unsigned char    dEyrnP;
     dEyrnP    =    (unsigned char)-1727731551;
     short    l_zom6kj;
-    l_zom6kj    =    -1815765036;
+    l_zom6kj    =    (short)-1815765036;
     unsigned long    Vjn00;
     Vjn00    =    -1168590856;
 

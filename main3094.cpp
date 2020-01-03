@@ -91,7 +91,7 @@ int main()
  long double gY9211;
  gY9211 = -1711645911;
 	unsigned short int	DU_1yG;
-	DU_1yG	=	-948696720;
+	DU_1yG	=	(unsigned short)-948696720;
   long long  b6x8olBCu;
   b6x8olBCu  =  518220868;
   char  U4rI;

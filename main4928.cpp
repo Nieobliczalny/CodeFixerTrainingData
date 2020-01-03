@@ -74,7 +74,7 @@ KedUnS = Ig8m(J7_9lzD_, KedUnS, (short)-1604179429, (short)-307806272, (short)11
 switch (h713h57eu2)
 {
 case 0:
-t4Xf = u5lR(h713h57eu2, t4Xf, -1960544003, J7_9lzD_, LuWU79h3m);
+t4Xf = u5lR(h713h57eu2, t4Xf, (unsigned short)-1960544003, J7_9lzD_, LuWU79h3m);
 break;
 case 1:
 t4Xf >>= JbmRVzF7;

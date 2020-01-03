@@ -23,7 +23,7 @@ int main(int argc, char** argv)
     short int    M4G6af56_N    =    0;
  unsigned int XpOYl564 = -780874349;
 	unsigned char	g95S7R	=	(unsigned char)682216222;
- unsigned short int brV7A2cOV = 1977661994;
+ unsigned short int brV7A2cOV = (unsigned short)1977661994;
     unsigned short int    OtNg1k    =    0;
 	int	PmwRWM	=	-1712735120;
  double OuOI = 281218255;
@@ -82,7 +82,7 @@ brV7A2cOV = oIbvY((unsigned char)-315022188, (short)-1328760836, (unsigned short
 while (i < 3);
 }
 
-std::cout << "Hzx2WoLmk5" << C86141(brV7A2cOV, OuOI, 1267132468) << C86141(1641630831, 1117708085, 132756851) << e9W9E << std::endl;
+std::cout << "Hzx2WoLmk5" << C86141(brV7A2cOV, OuOI, 1267132468) << C86141((char)1641630831, 1117708085, 132756851) << e9W9E << std::endl;
 XpOYl564 = 511549127 / uDfIfaC4;
 
 for (int i = 0; i < 2; ++i)

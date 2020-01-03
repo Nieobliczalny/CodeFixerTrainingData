@@ -40,7 +40,7 @@ int main(void) {
 	unsigned short	OE97Q05z52;
 	OE97Q05z52	=	(unsigned short)1487485457;
   unsigned short  C_vc3PGr8;
-  C_vc3PGr8  =  -1904542353;
+  C_vc3PGr8  =  (unsigned short)-1904542353;
 	long long	prJaoqAEPS;
 	prJaoqAEPS	=	236244281;
 	short int	t9Li5QY;
@@ -114,7 +114,7 @@ int main(void) {
 	short int	yl0Sv_n;
 	yl0Sv_n	=	(short)2037728619;
     unsigned char    Jg05;
-    Jg05    =    505418159;
+    Jg05    =    (unsigned char)505418159;
   unsigned short int  di8E7Wq;
   di8E7Wq  =  805642735;
   float  fX61t;
@@ -198,7 +198,7 @@ int main(void) {
     unsigned char    p0qt;
     p0qt    =    (unsigned char)-213144156;
 	char	q5S_VIa;
-	q5S_VIa	=	726972235;
+	q5S_VIa	=	(char)726972235;
  unsigned short mzQUL0S50;
  mzQUL0S50 = 1465285247;
  long double u6BDl2a7CP;

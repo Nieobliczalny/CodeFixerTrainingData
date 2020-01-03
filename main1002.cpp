@@ -30,7 +30,7 @@ int main(int argc, char** argv) {
   double  s611  =  -78942399;
     long double    I0EnMYAteM    =    632814456;
     unsigned char    hY_4    =    (unsigned char)-2031748766;
-	short	b8afuwJ8H7	=	1665732488;
+	short	b8afuwJ8H7	=	(short)1665732488;
 	unsigned int	q96YP	=	-32105705;
     int    k852kayUkj    =    1095994839;
  unsigned short O25853W = (unsigned short)-1050342684;
@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
  unsigned short int C9QZ0774u = (unsigned short)1138012818;
     long double    z5i3R    =    -148393670;
   short  OV8R  =  (short)36506757;
-    unsigned short int    AfDUnHvw5    =    -1014370692;
+    unsigned short int    AfDUnHvw5    =    (unsigned short)-1014370692;
 	float	wu_3It8	=	2035578906;
   short int  rZQ07_  =  -1175415031;
 	long	hTrjX1	=	-640812389;
@@ -53,7 +53,7 @@ int main(int argc, char** argv) {
 	unsigned long long	JL53UeUj	=	277485177;
     unsigned short int    jOYH_mN    =    (unsigned short)1513090085;
 	unsigned short int	V5Z_qPnehD	=	(unsigned short)-1232812393;
- short Vm_21 = -1872181185;
+ short Vm_21 = (short)-1872181185;
  unsigned int X8HE = -378728721;
   long long  l6Fifixbr3  =  -1114022754;
     unsigned long long    UY0d_    =    -129095185;
@@ -70,7 +70,7 @@ int main(int argc, char** argv) {
     int    aP78_jL4EH    =    -239899854;
   char  yyw8_YkisA  =  0;
  long i0ZYXAwH = -438968453;
-    short    kzRL    =    365116705;
+    short    kzRL    =    (short)365116705;
   unsigned long  iSB5U2Iuyy  =  -613446235;
   unsigned char  X2beH  =  (unsigned char)-1572027068;
   short int  aEw_bBa  =  -380993471;
@@ -87,7 +87,7 @@ int main(int argc, char** argv) {
   unsigned int  DRpxFNz  =  2045722676;
 	unsigned char	oLJ0qT93O	=	(unsigned char)1402905645;
  unsigned long jL_vFfP = 147846185;
-    unsigned short    skZY_L3_I    =    -1058359963;
+    unsigned short    skZY_L3_I    =    (unsigned short)-1058359963;
 	double	G4XHUUi8	=	-1180808732;
 	int	ue77	=	1804868669;
     unsigned short    B79x0cO7p    =    (unsigned short)-699889340;

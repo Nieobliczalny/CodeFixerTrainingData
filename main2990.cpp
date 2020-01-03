@@ -59,7 +59,7 @@ int main(void) {
 	unsigned short int	rx_L;
 	rx_L	=	0;
  char Pf8YqT2aF;
- Pf8YqT2aF = -557789193;
+ Pf8YqT2aF = (char)-557789193;
  short h0I6Lqt;
  h0I6Lqt = (short)-300383294;
  unsigned int I_12i_XRI;
@@ -117,7 +117,7 @@ int main(void) {
   unsigned short int  wPRi8N;
   wPRi8N  =  (unsigned short)801154053;
     unsigned short int    yVXz1Dn;
-    yVXz1Dn    =    1495466760;
+    yVXz1Dn    =    (unsigned short)1495466760;
  long double LiUSG3T;
  LiUSG3T = 550576694;
   unsigned short int  o35r;

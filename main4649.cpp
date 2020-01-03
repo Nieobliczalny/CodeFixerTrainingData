@@ -31,7 +31,7 @@ int main(int argc, char** argv)
  unsigned long long k1_h_5g_1 = -1695679403;
  unsigned short ANK4by = (unsigned short)1646390286;
  unsigned short BN_zf6 = (unsigned short)1966469026;
-	short	my7m_CcRy	=	-1854478451;
+	short	my7m_CcRy	=	(short)-1854478451;
   long double  K2jEe  =  120669480;
   long long  tkh5N  =  -260397591;
  double fgpgX2l_K = 1546957140;
@@ -44,7 +44,7 @@ int main(int argc, char** argv)
  unsigned long long P9maK = -615887469;
  unsigned short int pF0Wp = (unsigned short)754954655;
   unsigned short int  Ddl8burCZ  =  (unsigned short)1613232309;
-    unsigned char    Gd_oJW0    =    -304811864;
+    unsigned char    Gd_oJW0    =    (unsigned char)-304811864;
     short    jNsmxU5    =    842996330;
   unsigned char  HUxefSa  =  -1016675691;
  unsigned char f12rJ = 532310242;
@@ -56,7 +56,7 @@ int main(int argc, char** argv)
     long    F3i9MHy    =    -4869972;
  unsigned int Q5k4u_8 = 1619471738;
 	unsigned short	bD871	=	(unsigned short)-826520520;
-    unsigned short int    NN3au_2G9a    =    111837068;
+    unsigned short int    NN3au_2G9a    =    (unsigned short)111837068;
     unsigned long long    b1S5Rvt3    =    -616674;
 	char	eAK1R	=	-74793308;
   unsigned int  wWZrB5S14d  =  -823876764;
@@ -71,7 +71,7 @@ int main(int argc, char** argv)
   float  W9ofR1R  =  553356614;
 	short	lWA0TUwf	=	(short)-2051666572;
  unsigned char IT_E = (unsigned char)1133905868;
-  short  WM_IOctCa  =  377320104;
+  short  WM_IOctCa  =  (short)377320104;
   float  zt0k2O2HSk  =  -657649850;
 
 Hr924X1p = bdF27QfpdJ(631581467, k1_h_5g_1, 77317572, jEso_, KfZ4zb0C);
@@ -127,7 +127,7 @@ ib_9F7 = Ddl8burCZ % 1401639482;
 for (int i = h4_0Kn(-886101253, -1438575836, 1034328579, HUxefSa, (char)247799713); i < 30; i++)
 {
 KfZ4zb0C = h4_0Kn(-1806915725, 785072446, Ddl8burCZ, (short)-994984776, (char)-1667916348);
-	pF0Wp = bdF27QfpdJ(Vc03kiogl, -659362779, UjO5jbtx, HUxefSa, 1377573398) / i;
+	pF0Wp = bdF27QfpdJ(Vc03kiogl, (unsigned char)-659362779, UjO5jbtx, HUxefSa, 1377573398) / i;
 if (((vKF9g66F == eB2HxlnlDz) && (zt0k2O2HSk < q2eqAF2)) || (NN3au_2G9a != -1998308732))
 {
 if ((jNsmxU5 >= -1017904361) || (fgpgX2l_K > Gd_oJW0))

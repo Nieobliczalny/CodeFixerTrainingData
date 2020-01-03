@@ -50,7 +50,7 @@ int main() {
   unsigned short  cC3NCP8;
   cC3NCP8  =  (unsigned short)255657576;
   char  jeiELc;
-  jeiELc  =  287822499;
+  jeiELc  =  (char)287822499;
     float    BbW4HefK7m;
     BbW4HefK7m    =    -743160915;
     long    pXTFQ03vw;
@@ -156,7 +156,7 @@ int main() {
  int uLDmR_Ws7;
  uLDmR_Ws7 = 959992856;
   short int  qFsOr;
-  qFsOr  =  876363886;
+  qFsOr  =  (short)876363886;
   char  i5C3D7c;
   i5C3D7c  =  (char)1053060583;
     float    U0d4I;
@@ -739,7 +739,7 @@ case 'e':
 AYL549h6l = Pcs14((short)-1799326796, -1588745489, Mjr9_n, (unsigned short)1346786420, O_cjB);
 break;
 case 'f':
-zIAn27 = Vi5qlFQq(1029923060, 261456305, tYue6RH, -134666849, rsmjXnV6UE);
+zIAn27 = Vi5qlFQq((unsigned short)1029923060, 261456305, tYue6RH, -134666849, rsmjXnV6UE);
 break;
 default:
 tYue6RH -= qRuuv;

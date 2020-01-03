@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
   unsigned long  Y01va75Vx2  =  -888831711;
  unsigned long long z29nab_ = -343980453;
   unsigned short int  toy3t3j5H4  =  (unsigned short)865853017;
- short int lbHIr12ae = 410437597;
+ short int lbHIr12ae = (short)410437597;
  unsigned long s7TKEDSn = -427549318;
   unsigned long long  dg97PLRt  =  0;
     unsigned short int    W81939MwX    =    -1339686998;
@@ -42,7 +42,7 @@ int main(int argc, char** argv) {
  int sv82 = 1554711001;
 	unsigned char	sr6OB_L	=	(unsigned char)411181447;
  short A2t69m = (short)-1798535096;
-    short int    kv8Bugq_    =    1983158937;
+    short int    kv8Bugq_    =    (short)1983158937;
   double  K2Mj_7X  =  -1806770440;
 	float	kp9FSEAL	=	-1053331843;
  unsigned long long ss_5 = 1303484901;
@@ -60,7 +60,7 @@ int main(int argc, char** argv) {
     float    M68S    =    2003049626;
     unsigned int    ja4C0    =    -1048022966;
  char vL932LR2O = (char)371251070;
-    char    ekYbMxrtzi    =    -626253611;
+    char    ekYbMxrtzi    =    (char)-626253611;
   long  e0758I2  =  0;
     short int    u9f_vGfM2C    =    (short)-897997322;
   short  XS7M_Mob  =  -1424021368;
@@ -387,7 +387,7 @@ std::cout << Z9cuF39f0 << K37Z08s78((char)-1299561442, vL932LR2O, M68S, (short)6
 
 OOCY22 = (int)floor(UQB7o2);
 
-std::cout << Xme10_8Cw6 << TDVUt58() << K37Z08s78(W81939MwX, vL932LR2O, M68S, (short)1147401141) << K37Z08s78(-486270398, vL932LR2O, M68S, CX1T61CX8f) << std::endl;
+std::cout << Xme10_8Cw6 << TDVUt58() << K37Z08s78(W81939MwX, vL932LR2O, M68S, (short)1147401141) << K37Z08s78((char)-486270398, vL932LR2O, M68S, CX1T61CX8f) << std::endl;
 return 0;
 }
 

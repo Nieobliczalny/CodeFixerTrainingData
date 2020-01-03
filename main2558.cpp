@@ -149,7 +149,7 @@ int main(int argc, char** argv)
   char  Yh7Z;
   Yh7Z  =  (char)-1880438726;
   unsigned char  UHA3H;
-  UHA3H  =  -335023692;
+  UHA3H  =  (unsigned char)-335023692;
   unsigned int  Ka4H023Q;
   Ka4H023Q  =  1872107747;
     long    jblqYzoA;

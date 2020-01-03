@@ -90,7 +90,7 @@ int main()
  short int cMeeRDoM7;
  cMeeRDoM7 = (short)740716503;
 	unsigned short int	KmuzEC_;
-	KmuzEC_	=	2000981300;
+	KmuzEC_	=	(unsigned short)2000981300;
 	float	uv7209pa;
 	uv7209pa	=	1334197952;
   unsigned short int  dDK02Y;
@@ -102,7 +102,7 @@ int main()
     char    S4I4YYD7D;
     S4I4YYD7D    =    (char)1766176175;
   short  x26vWPJn;
-  x26vWPJn  =  -1921513948;
+  x26vWPJn  =  (short)-1921513948;
   unsigned char  KTVlP;
   KTVlP  =  (unsigned char)1667875295;
     unsigned long    A7zsJ;
@@ -120,7 +120,7 @@ int main()
     float    MgmuNCD68;
     MgmuNCD68    =    -1230954154;
     short int    b781ynbV0;
-    b781ynbV0    =    -1065275065;
+    b781ynbV0    =    (short)-1065275065;
   short  P6h0iVX54;
   P6h0iVX54  =  (short)-1472448350;
     long    vLC_y;
@@ -337,7 +337,7 @@ case 3:
 dK3gQG |= 1178384822;
 break;
 case 4:
-A217gzj = TCg41(-731498070, -419350799, ykkYn4vaL);
+A217gzj = TCg41((short)-731498070, -419350799, ykkYn4vaL);
 break;
 case 5:
 MgmuNCD68 = (int)abs(A217gzj);

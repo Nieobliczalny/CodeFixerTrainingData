@@ -129,7 +129,7 @@ case 1:
 j0tLk6++;
 break;
 case 2:
-V_URP3E92 = RA3bd266Gj((unsigned short)-1180166675, (unsigned short)-136603740, rc9p5kWj6, (short)1216683730, -898513169);
+V_URP3E92 = RA3bd266Gj((unsigned short)-1180166675, (unsigned short)-136603740, rc9p5kWj6, (short)1216683730, (unsigned short)-898513169);
 break;
 case 3:
 oom0SIcDt5 = kV3S7(V_URP3E92) ^ v_OK;
@@ -225,7 +225,7 @@ cout << "r0ATK" << ktynM3J37 << jX24zJ3Ev(l50N7) << "koUK" << endl;
 }
 else
 {
-cout << jX24zJ3Ev((short)-373113385) << Xx_6awI((short)-558220071, rc9p5kWj6, 946496551, 888476070) << endl;
+cout << jX24zJ3Ev((short)-373113385) << Xx_6awI((short)-558220071, rc9p5kWj6, (short)946496551, 888476070) << endl;
 }
 try
 {
@@ -278,7 +278,7 @@ while (k >= 0);
 
 try
 {
-C4I9g61c1Z = RA3bd266Gj((unsigned short)1122020196, (unsigned short)960419972, (short)-427638418, 636526878, oom0SIcDt5);
+C4I9g61c1Z = RA3bd266Gj((unsigned short)1122020196, (unsigned short)960419972, (short)-427638418, (short)636526878, oom0SIcDt5);
 }
 catch (int& errorCode)
 {

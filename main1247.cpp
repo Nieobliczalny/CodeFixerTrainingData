@@ -33,7 +33,7 @@ int main(void) {
   short int  FI29  =  (short)-853431882;
     float    K46YPq75    =    394071210;
 	unsigned long	xO4mpKjp	=	-951478406;
- unsigned short int o_EF86ol = 1975597354;
+ unsigned short int o_EF86ol = (unsigned short)1975597354;
   unsigned char  SuR7  =  1368815192;
     unsigned char    lZIV_U    =    -831241253;
     long double    af_V6057_M    =    759001188;
@@ -57,7 +57,7 @@ int main(void) {
  long Ef9EIwMO6_ = -544465156;
 	unsigned long long	XPwje97p04	=	1144492997;
   unsigned short  JoTNc  =  (unsigned short)-852774642;
-  unsigned short  mjl7r1MW3i  =  -1359488247;
+  unsigned short  mjl7r1MW3i  =  (unsigned short)-1359488247;
  double MNs_6R_VOG = -942593538;
 	unsigned long long	R5I19X52yq	=	0;
   int  E_3hB  =  -747337017;
@@ -162,7 +162,7 @@ while (k >= 0);
 Ef9EIwMO6_ = Y7uZx((short)-986302693, MNs_6R_VOG, JoTNc, -1649045741, (unsigned short)-163778053);
 QLbMlwd += 1036525619;
 
-WA3TD527n = 1681134220 / L48E((unsigned short)-1082935512, -1220641599);
+WA3TD527n = 1681134220 / L48E((unsigned short)-1082935512, (char)-1220641599);
 
 std::cout << L48E(443687640, -719451364) << std::endl;
 

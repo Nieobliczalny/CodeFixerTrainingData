@@ -234,7 +234,7 @@ ftOmfc7U = jFyy1tF(1236455743, -1404595302, 1660042811);
 }
 
 std::cout << EFdXA << "e4_9K_sU" << "f0Zdxg3Ng8" << jFyy1tF(ftOmfc7U, (unsigned char)-1156724224, COI65) << jFyy1tF(-474579279, (unsigned char)1375349286, (unsigned short)-1847455458) << std::endl;
-dxzd1 = jFyy1tF(-1031409686, dxzd1, -882006468);
+dxzd1 = jFyy1tF(-1031409686, dxzd1, (unsigned short)-882006468);
 CDO7oJRw++;
 
 for (int i = 0; i < 2; ++i)

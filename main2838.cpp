@@ -38,7 +38,7 @@ int main(void) {
 	unsigned short int	ji_zj;
 	ji_zj	=	(unsigned short)-1394860580;
  unsigned short int MLK0o;
- MLK0o = 1749366143;
+ MLK0o = (unsigned short)1749366143;
  int HRw_;
  HRw_ = 1268069881;
   unsigned long  VlqD6wC1P;
@@ -106,7 +106,7 @@ int main(void) {
  short c0BliZjF;
  c0BliZjF = (short)971427569;
   short  Ae49H4u98Q;
-  Ae49H4u98Q  =  -363207530;
+  Ae49H4u98Q  =  (short)-363207530;
 	unsigned long long	xP0X;
 	xP0X	=	318837445;
     unsigned short int    iEWyzAB740;
@@ -150,7 +150,7 @@ int main(void) {
  short a4x0wQK5;
  a4x0wQK5 = (short)-2090781814;
  char CA4pF5p;
- CA4pF5p = 1943518171;
+ CA4pF5p = (char)1943518171;
 	short int	q42FjzKAHM;
 	q42FjzKAHM	=	1482352766;
 	short	ovor_2_J;

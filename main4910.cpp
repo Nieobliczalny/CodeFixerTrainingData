@@ -141,7 +141,7 @@ case 5:
 EiAvtf0 = ps5A67F(EiAvtf0, (short)1932081142, F5_WZUC) ^ 1092250367;
 break;
 case 6:
-FLEcY1 = (qZ_5p & -166534516) ? da9N6T_2 : -1942827967;
+FLEcY1 = (qZ_5p & -166534516) ? da9N6T_2 : (unsigned char)-1942827967;
 break;
 case 7:
 h8uhU = ps5A67F(h8uhU, uLK3wq_, Ss8C8IR99);
@@ -153,7 +153,7 @@ case 9:
 EiAvtf0 = ieTt538(-1854573717, (unsigned short)-540994338);
 break;
 default:
-Ss8C8IR99 = ps5A67F((short)929370858, (short)1963142997, -866822192);
+Ss8C8IR99 = ps5A67F((short)929370858, (short)1963142997, (unsigned short)-866822192);
 break;
 }
 {
@@ -661,7 +661,7 @@ vn3w = ps5A67F((short)-579803734, B19gz16_34, (unsigned short)536462436);
 }
 else if ((vn3w < -2080511964) || ((IQWHF8j <= 1668134849) || (JTQYZ_G <= B19gz16_34)))
 {
-qZ_5p = ps5A67F((short)1504173489, 1776450738, -324497761);
+qZ_5p = ps5A67F((short)1504173489, (short)1776450738, -324497761);
 }
 else
 {

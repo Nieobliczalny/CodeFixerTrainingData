@@ -37,7 +37,7 @@ int main(void) {
 	short int	jDbwbheCCg;
 	jDbwbheCCg	=	(short)-40022153;
     unsigned short    l5D4;
-    l5D4    =    -687303281;
+    l5D4    =    (unsigned short)-687303281;
   unsigned char  JTVRm1qp2_;
   JTVRm1qp2_  =  790157999;
     short    iNpkL;

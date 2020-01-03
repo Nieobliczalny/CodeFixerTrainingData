@@ -25,7 +25,7 @@ int main()
  unsigned short int YEbo7lszW;
  YEbo7lszW = (unsigned short)-814029332;
   short  ElG5a;
-  ElG5a  =  -906644343;
+  ElG5a  =  (short)-906644343;
 	unsigned short int	otZ85U;
 	otZ85U	=	(unsigned short)-497946209;
 	unsigned long long	cmV10DOP8;
@@ -161,7 +161,7 @@ case 2:
 a53PJU = dl7Ah((unsigned short)-1884638972, Ou2_, eee3V);
 break;
 case 3:
-a53PJU = dl7Ah((unsigned short)-134303112, 622138378, eI_3s4vB2);
+a53PJU = dl7Ah((unsigned short)-134303112, (short)622138378, eI_3s4vB2);
 break;
 case 4:
 Ka1wO24 = I4gv2WXOzZ << 1121407840;

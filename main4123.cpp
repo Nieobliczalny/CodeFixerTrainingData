@@ -60,7 +60,7 @@ int main(void) {
 	long long	mxJgZ9;
 	mxJgZ9	=	1685361408;
     char    V_d0y;
-    V_d0y    =    -482546245;
+    V_d0y    =    (char)-482546245;
  float RLfR7GS;
  RLfR7GS = -1110103257;
     long double    X_9LfVK4;

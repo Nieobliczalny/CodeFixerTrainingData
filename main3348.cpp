@@ -31,7 +31,7 @@ int main(void)
     long    b4nD_    =    -1283929046;
  long long EBj5dpym_9 = -1368723454;
 	unsigned char	xBT0pRU	=	(unsigned char)-631079298;
-    unsigned char    Hlyp    =    186471636;
+    unsigned char    Hlyp    =    (unsigned char)186471636;
   unsigned char  W80Mk  =  366562397;
  unsigned long YXPQh5pH_ = 1311315828;
  unsigned short NQBQm06yGc = 434708361;
@@ -45,7 +45,7 @@ int main(void)
 	unsigned short	AiFaP9c_b1	=	(unsigned short)-1194097582;
  double dwwX79S8_e = 1709138158;
     long long    j_c_dw    =    -842727195;
-  unsigned char  qvhlj_  =  -1392717454;
+  unsigned char  qvhlj_  =  (unsigned char)-1392717454;
 	double	S1ndUq	=	1887330766;
   unsigned short int  n9f8U_t  =  (unsigned short)-1970605937;
   long double  V_7D6lOT  =  -1059224173;
@@ -55,7 +55,7 @@ int main(void)
     float    o0fkp794uL    =    -1917314934;
   unsigned char  R_F_  =  (unsigned char)571993959;
  unsigned char k9U6_SpJ88 = 1307330542;
- unsigned short int Yz5x936 = -1583752291;
+ unsigned short int Yz5x936 = (unsigned short)-1583752291;
  long long v687hl = 1038559575;
 	long	zCURIVwSk	=	734938750;
     int    YiGN    =    1414722622;
@@ -69,7 +69,7 @@ int main(void)
 	short int	dp0X_eyQQG	=	(short)1416266472;
 	char	ef8b9Wp5G	=	(char)2145744971;
   int  a30cUlyz  =  2131836050;
- char zmSK = -441629892;
+ char zmSK = (char)-441629892;
 	long long	gD6_Q4C	=	1975237434;
  unsigned long iR0Rd = -316672357;
     short int    Sl8_v9han6    =    (short)662439298;
@@ -88,7 +88,7 @@ int main(void)
     int    H8CZcN    =    313275806;
     unsigned long    LZ4O55    =    -1040146819;
 	unsigned char	Rg86FI1	=	(unsigned char)-1796673030;
-    unsigned short int    X8qi14SIQF    =    -1680220019;
+    unsigned short int    X8qi14SIQF    =    (unsigned short)-1680220019;
   char  f262O7j5b  =  -688436675;
     unsigned char    yJ154    =    (unsigned char)-1994566567;
   unsigned char  DNG4JE  =  -733521490;
@@ -108,7 +108,7 @@ int main(void)
  long long b_415vN = 433074876;
     unsigned short    MEDG1Ips    =    (unsigned short)-29316056;
     unsigned short    ZjJKv2b2D5    =    (unsigned short)-1268100717;
-    short    sN_2cv    =    673394198;
+    short    sN_2cv    =    (short)673394198;
  short int ci2Uu8S = 2080583261;
  short int olNVh762aX = 774495212;
     unsigned long    jlz_    =    -784936613;
@@ -492,7 +492,7 @@ else
 int j = 0;
 while (j < 1)
 {
-std::cout << eQnVH8OE((unsigned short)1786540245, yJ154, (short)656593046) << vsR_ydnv((char)820804283, -1093365453, C7f_0) << std::endl;
+std::cout << eQnVH8OE((unsigned short)1786540245, yJ154, (short)656593046) << vsR_ydnv((char)820804283, (unsigned short)-1093365453, C7f_0) << std::endl;
 ++j;
 }
 }

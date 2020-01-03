@@ -70,7 +70,7 @@ case 'c':
 PYS6 = w54l5vq & YlM4TW9;
 break;
 default:
-RL_LCkjd = xD_SB076YA((short)457769707, q7QH, (unsigned short)-2049778262, 197751091, -1377032135);
+RL_LCkjd = xD_SB076YA((short)457769707, q7QH, (unsigned short)-2049778262, (unsigned short)197751091, -1377032135);
 break;
 }
 }

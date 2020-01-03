@@ -357,7 +357,7 @@ int j = 9;
 do
 {
 --j;
-cout << "u7_F6u3" << my3Hqp((short)216039806, mU5O_08v, (unsigned short)1792232735) << my3Hqp(L0f_7y6t, (short)1822105707, -85899291) << PylNMuGKiH << "uGqKC1JK17" << endl;
+cout << "u7_F6u3" << my3Hqp((short)216039806, mU5O_08v, (unsigned short)1792232735) << my3Hqp(L0f_7y6t, (short)1822105707, (unsigned short)-85899291) << PylNMuGKiH << "uGqKC1JK17" << endl;
 }
 while (j >= 0);
 }
@@ -471,7 +471,7 @@ I3Waa9_18 = eFRs(1669922534, (short)848930890, erRk69, Gs2G2C4T1, -1711792249);
 break;
 case 'b':
 case 'B':
-z96n0 = my3Hqp((short)-585517198, (short)32494234, -565350382);
+z96n0 = my3Hqp((short)-585517198, (short)32494234, (unsigned short)-565350382);
 break;
 case 'c':
 case 'C':
@@ -699,7 +699,7 @@ case 3:
 CsAMAa_T = (i6TPIh_nb < 704362563) ? I3Waa9_18 : my3Hqp(KcH46, B31_I, IbRpG180_1);
 break;
 case 4:
-z96n0 = my3Hqp((short)696312820, -329695884, 1552144880);
+z96n0 = my3Hqp((short)696312820, (short)-329695884, 1552144880);
 break;
 case 5:
 KIPW9 = eFRs(KIPW9, 1652544961, -1067086154, 764106220, -91847632);
@@ -947,7 +947,7 @@ hhoieq0e4 = my3Hqp((short)521045219, (short)-595487671, mU5O_08v) << 2120867632;
 }
 
 x7IO *= 1513480476;
-mU5O_08v = MP8W6O5tS_ / my3Hqp((short)172985352, -2070313655, mU5O_08v);
+mU5O_08v = MP8W6O5tS_ / my3Hqp((short)172985352, (short)-2070313655, mU5O_08v);
 
 {
 int i = 0;
@@ -978,7 +978,7 @@ cout << my3Hqp(zsAjCHAiH, (short)-635074697, (unsigned short)-564999661) << endl
 switch (MP8W6O5tS_)
 {
 case 'a':
-Va1h8nWs = eFRs(1526366693, (short)-1626533045, -1353774833, hsJEf, ttg1W1T5);
+Va1h8nWs = eFRs(1526366693, (short)-1626533045, (short)-1353774833, hsJEf, ttg1W1T5);
 break;
 case 'b':
 qusLg8im = (hhoieq0e4 != -1394329825) ? 1297347825 : dt2rRLe(345885181, UQC8A3F8);
@@ -1001,7 +1001,7 @@ break;
 }
 TdWGgcSCMf ^= 1905602524;
 
-cout << eFRs(ek9P, (short)-1877958635, -1348577772, R496, hKmJkmt_) << endl;
+cout << eFRs(ek9P, (short)-1877958635, (short)-1348577772, R496, hKmJkmt_) << endl;
 if (I3Waa9_18 < -1517296712)
 {
 switch (z96n0)

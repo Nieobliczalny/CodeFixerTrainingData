@@ -343,7 +343,7 @@ KD15O = Jxt1(KD15O, (short)-1541460490, (char)1881683107, yC384);
 break;
 case 'c':
 case 'C':
-e6j5RNH = Jxt1(-314102629, 1325439623, aA6laLRc4, y7I5F73Mn);
+e6j5RNH = Jxt1(-314102629, (short)1325439623, aA6laLRc4, y7I5F73Mn);
 break;
 case 'd':
 case 'D':

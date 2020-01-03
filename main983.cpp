@@ -70,7 +70,7 @@ int main() {
   char  c0_L;
   c0_L  =  (char)1187792482;
 	unsigned short	hJ3b_;
-	hJ3b_	=	-451561476;
+	hJ3b_	=	(unsigned short)-451561476;
 	unsigned char	Cu0tr_Z_H1;
 	Cu0tr_Z_H1	=	(unsigned char)-1369253597;
 	unsigned int	hmKg;
@@ -132,7 +132,7 @@ int main() {
     short int    vLE1Kk60;
     vLE1Kk60    =    (short)611326795;
  unsigned short int ps70rT;
- ps70rT = 1268958726;
+ ps70rT = (unsigned short)1268958726;
 	long double	sfO2cwStk;
 	sfO2cwStk	=	-142536637;
 	long	N_i8;
@@ -154,7 +154,7 @@ int main() {
   short  E_n6aBr;
   E_n6aBr  =  (short)-2036743975;
 	unsigned char	VQAI;
-	VQAI	=	-1869123664;
+	VQAI	=	(unsigned char)-1869123664;
  int Y0T5dS8U;
  Y0T5dS8U = 741521633;
 	unsigned short int	Fhp5S;
@@ -311,7 +311,7 @@ while (i < 6);
 Q4644_G0D = SSKiEp(g3r2RvK6_, Q4644_G0D, C1eGc00R_, (unsigned short)2089853115, Kn37) << GmMP2_;
 try
 {
-cout << rX9VFz68d1(g3r2RvK6_, 2058477857, (unsigned short)-1573681452) << w15Q5Yw9t_(g3r2RvK6_, -2060564217, -1125524912, (unsigned short)-850182104, 1848301897) << nhn0 << endl;
+cout << rX9VFz68d1(g3r2RvK6_, 2058477857, (unsigned short)-1573681452) << w15Q5Yw9t_(g3r2RvK6_, -2060564217, -1125524912, (unsigned short)-850182104, (unsigned char)1848301897) << nhn0 << endl;
 }
 catch (int& errorCode)
 {

@@ -196,7 +196,7 @@ case 4:
 OhcfpuP = DLFe(OhcfpuP, (char)666682091, -1020101449, 42054655);
 break;
 case 5:
-dYsr_1M9 = MJ5f4fp4y(654438175);
+dYsr_1M9 = MJ5f4fp4y((short)654438175);
 break;
 case 6:
 vZ1u0gTFUe = ia7jS(rKWy8P, (unsigned short)-1630323781, FB9FMb14) ^ 814191084;

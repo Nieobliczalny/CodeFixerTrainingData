@@ -374,7 +374,7 @@ mIzO58rH0 = iIuSX4C((unsigned char)1824039234, mIzO58rH0, (unsigned short)-37810
 }
 else
 {
-nqo3j721 = hKMStn68LK((unsigned char)-1142984919, 2080446650, 1011729249);
+nqo3j721 = hKMStn68LK((unsigned char)-1142984919, 2080446650, (short)1011729249);
 }
 }
 }

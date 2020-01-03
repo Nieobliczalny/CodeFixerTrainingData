@@ -52,7 +52,7 @@ int main(int argc, char** argv) {
  unsigned short int RmlNg;
  RmlNg = (unsigned short)1953292854;
   unsigned short  hJ2s;
-  hJ2s  =  -451646335;
+  hJ2s  =  (unsigned short)-451646335;
   unsigned short  NEaP3_G;
   NEaP3_G  =  1199726775;
 	unsigned short	h_AW8m2V;
@@ -387,7 +387,7 @@ case 'b':
 myNPJ = Hzhixi3K(2048489237, T2MBJS_oy, B3P2, t0XnAiKVl2, 562908998);
 break;
 case 'c':
-a13PeG_E4 = OdR_aI7wrd((unsigned short)-1646370947, (unsigned short)-24689725, 2964915, lx15M53WlD);
+a13PeG_E4 = OdR_aI7wrd((unsigned short)-1646370947, (unsigned short)-24689725, (unsigned char)2964915, lx15M53WlD);
 break;
 case 'd':
 lg10FN = Hzhixi3K(lg10FN, 1220207896, mdZY1x, -1530651655, h_AW8m2V);

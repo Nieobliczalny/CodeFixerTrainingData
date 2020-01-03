@@ -41,7 +41,7 @@ int main() {
  short z4Mb;
  z4Mb = (short)-386412273;
  unsigned char pUe5_ju2Vd;
- pUe5_ju2Vd = -1704586575;
+ pUe5_ju2Vd = (unsigned char)-1704586575;
 	int	Kd5178;
 	Kd5178	=	1206161614;
  unsigned char d15Eal;
@@ -115,7 +115,7 @@ int main() {
   char  i8SEb;
   i8SEb  =  (char)-1516995138;
     short    Oyx4;
-    Oyx4    =    833791787;
+    Oyx4    =    (short)833791787;
     double    Q_fo04E29;
     Q_fo04E29    =    603090285;
     long double    J5_6H;
@@ -147,7 +147,7 @@ int main() {
  unsigned char edsar9S50;
  edsar9S50 = (unsigned char)754159373;
 	char	P46J_;
-	P46J_	=	604909273;
+	P46J_	=	(char)604909273;
   long double  Dh9bOtGp;
   Dh9bOtGp  =  876032144;
   short  V2MP7f7;

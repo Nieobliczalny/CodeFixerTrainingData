@@ -61,7 +61,7 @@ int main(void)
  short int RWHi20_7nU;
  RWHi20_7nU = (short)-1828723131;
 	unsigned char	N648rE9;
-	N648rE9	=	-1596840408;
+	N648rE9	=	(unsigned char)-1596840408;
 	short	J7rK;
 	J7rK	=	1100508679;
  long long p4f8Q28p92;
@@ -109,7 +109,7 @@ int main(void)
  unsigned short int s56b2_B4;
  s56b2_B4 = (unsigned short)-708490101;
   unsigned char  jNmlOKv65;
-  jNmlOKv65  =  1461271248;
+  jNmlOKv65  =  (unsigned char)1461271248;
     long long    O910;
     O910    =    1948495253;
 	long double	Oj0zu2B5Y7;
@@ -169,7 +169,7 @@ int main(void)
   short  kwHP;
   kwHP  =  0;
 	short int	jKjyMc8;
-	jKjyMc8	=	-979080871;
+	jKjyMc8	=	(short)-979080871;
 	unsigned int	sds_S04;
 	sds_S04	=	-1331460683;
     int    Z35U;

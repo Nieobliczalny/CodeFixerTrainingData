@@ -42,7 +42,7 @@ int main(int argc, char** argv) {
   double  S32aF7AEJ  =  -528389812;
   unsigned short int  dKAKsiJa  =  (unsigned short)-278014135;
 	int	iPfR	=	456897785;
-	short int	RbGN_9_	=	1957071641;
+	short int	RbGN_9_	=	(short)1957071641;
  unsigned short int TkyuHts5 = (unsigned short)-795816384;
   long  CALL1ADp  =  1120747658;
   unsigned long  j30Evi4c  =  497830854;
@@ -55,7 +55,7 @@ int main(int argc, char** argv) {
 	long double	kS52sDI50r	=	1767123997;
 	short int	wO807Atm	=	(short)1698318053;
     float    kfZM47    =    -2093286498;
- short int LC6ZrFL = -1835914260;
+ short int LC6ZrFL = (short)-1835914260;
  unsigned short AJ9LsYr7GU = (unsigned short)1694864581;
  long double O0MAwo9_0z = -704534463;
 	short int	o21l_vx	=	-1505256768;
@@ -71,7 +71,7 @@ int main(int argc, char** argv) {
  float w4a36U = 60021332;
 	float	e6hGRn	=	-1008021903;
 	char	LLmT_z08v	=	(char)132440753;
-	char	eEv3	=	-1488217876;
+	char	eEv3	=	(char)-1488217876;
     int    KY7R    =    0;
  double DkCnbk6 = 1319720269;
 	unsigned int	KGkq3p_	=	-1980993516;
@@ -82,7 +82,7 @@ int main(int argc, char** argv) {
 	unsigned long	ym_JTtDF	=	-1318953272;
 	unsigned long long	E3fjv	=	407398178;
     unsigned short int    zq1kM    =    (unsigned short)-1256819287;
-    unsigned short int    OgcGO1g    =    -340082162;
+    unsigned short int    OgcGO1g    =    (unsigned short)-340082162;
  unsigned short ZZnA5_D_3A = -1152252160;
 	long	JcW7K057Gr	=	-1056474685;
     long double    HfGWg4JP    =    -1684037073;
@@ -201,7 +201,7 @@ JcW7K057Gr += 1700050508;
 }
 else if (I56K89 == 491201752)
 {
-std::cout << LnI4y8_(-1889266707, -1839773894, 580235025) << h31m_K5wVc(GOqZ_, gU2s3wP24, ym_JTtDF, (unsigned short)1687866241, (short)1400274335) << "Jt0l" << h31m_K5wVc(GOqZ_, (unsigned char)-1042381437, 861706417, CALL1ADp, 741917554) << std::endl;
+std::cout << LnI4y8_(-1889266707, -1839773894, 580235025) << h31m_K5wVc(GOqZ_, gU2s3wP24, ym_JTtDF, (unsigned short)1687866241, (short)1400274335) << "Jt0l" << h31m_K5wVc(GOqZ_, (unsigned char)-1042381437, 861706417, CALL1ADp, (short)741917554) << std::endl;
 }
 else
 {

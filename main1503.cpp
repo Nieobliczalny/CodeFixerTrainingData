@@ -22,7 +22,7 @@ int main(void)
 	XL9Z24	=	(short)-54229346;
 	IMb0_	=	(short)1247562150;
 	X36FcZ6r	=	(short)-1839149313;
-	e583nQ	=	129678141;
+	e583nQ	=	(short)129678141;
 	t7tyC	=	1774523502;
 	jJSx	=	2111573919;
 	v3_eo	=	-222601594;
@@ -32,7 +32,7 @@ int main(void)
 	qLf0s692jA	=	(short)379604027;
 	rF1BJug7J	=	(short)1068203803;
 	iQyMGH1b0X	=	(short)-1419455778;
-	t86VK1	=	-973473791;
+	t86VK1	=	(short)-973473791;
 	vt2LMK7t	=	1787745274;
 	dZl2L2B	=	-913272699;
 	PDn35	=	1964936760;
@@ -42,7 +42,7 @@ int main(void)
 	ab01	=	(short)-209268738;
 	pnCVTFQYh	=	(short)-1316566965;
 	JS219D	=	(short)-1946532918;
-	x3MQq1_Z	=	-833049275;
+	x3MQq1_Z	=	(short)-833049275;
 	gfqC4gj0i	=	359376791;
 	eXOSV	=	-44843588;
 	QVIKYtK7G	=	695897903;
@@ -52,7 +52,7 @@ int main(void)
 	Ffi20nP	=	(short)1457862762;
 	Dm_uGMO3Z	=	(short)137652664;
 	Zt2ydT8q3	=	(short)-754596390;
-	jMjhNLX	=	1006288632;
+	jMjhNLX	=	(short)1006288632;
 	S_1gR9_	=	-440004586;
 	PYQwR0_qy_	=	-881068961;
 	H56n	=	1500412162;
@@ -62,7 +62,7 @@ int main(void)
 	p6kyq	=	(short)194918674;
 	DB9q_	=	(short)402297821;
 	kpvxaes	=	(short)442732166;
-	Hy4Tdm	=	1661176862;
+	Hy4Tdm	=	(short)1661176862;
 	Cyc9	=	1997115579;
 	g_cs7E75F	=	1288236985;
 	KKtUtf1i77	=	-2000318900;
@@ -72,7 +72,7 @@ int main(void)
 	i7x_	=	(short)810390021;
 	LcxNA	=	(short)185919203;
 	jZ3EpW	=	(short)1067243454;
-	SCHm9	=	1580285855;
+	SCHm9	=	(short)1580285855;
 	hJntB83ZK	=	372781870;
 	XQL_SW6	=	684889665;
 	J6Gfv	=	815495375;
@@ -82,7 +82,7 @@ int main(void)
 	te3d6YP1	=	(short)1716043984;
 	s7cn	=	(short)-1397160311;
 	L4ul	=	(short)1287850691;
-	ke17D	=	751979625;
+	ke17D	=	(short)751979625;
 	br308	=	1652460197;
 	v9bH7AUx5	=	-1477914987;
 	M_Q3l3	=	-774991287;
@@ -92,7 +92,7 @@ int main(void)
 	vFV965	=	(short)1752108790;
 	t46X692i0	=	(short)-931185750;
 	pH75e	=	(short)1233346025;
-	XNdA1a385	=	-1276797901;
+	XNdA1a385	=	(short)-1276797901;
 	K3pf_p	=	-109714366;
 	nCIJ	=	-2067678314;
 	LELHp_bg2	=	1174385988;
@@ -102,7 +102,7 @@ int main(void)
 	MA0_2_9fc	=	(short)-392430963;
 	U78q	=	(short)-1675125536;
 	ORRU_0W	=	(short)-2058345141;
-	lTY2A_KOm	=	609437422;
+	lTY2A_KOm	=	(short)609437422;
 	q70t4ME3Jr	=	743947303;
 	V6f2i	=	-380916031;
 	q__NFJ4f	=	1717674681;

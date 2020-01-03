@@ -94,7 +94,7 @@ int main(int argc, char** argv) {
     unsigned char    dp_o_VpV;
     dp_o_VpV    =    (unsigned char)-1189508300;
  short xHr3t0;
- xHr3t0 = 2073549038;
+ xHr3t0 = (short)2073549038;
     long    c_is;
     c_is    =    639642664;
     float    HujG;
@@ -110,7 +110,7 @@ int main(int argc, char** argv) {
     short    MNs1;
     MNs1    =    (short)-789120111;
  unsigned char Yu0kh_;
- Yu0kh_ = -540562644;
+ Yu0kh_ = (unsigned char)-540562644;
     short    gk056zM0;
     gk056zM0    =    (short)995159822;
     unsigned long    rbjB;

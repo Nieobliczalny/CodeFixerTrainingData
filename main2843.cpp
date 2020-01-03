@@ -358,7 +358,7 @@ case 0:
 Dy3uG9x5 = mo7Zi7t4x(Dy3uG9x5, UvLT2l0WZ, O4LQr, (char)179972450, 383155539);
 break;
 case 1:
-FOe0 = mo7Zi7t4x((short)-718237765, G_x_xVe8_, (unsigned short)1598660964, -1527128474, -929405013);
+FOe0 = mo7Zi7t4x((short)-718237765, G_x_xVe8_, (unsigned short)1598660964, (char)-1527128474, -929405013);
 break;
 case 2:
 xOVq1YJh = A7HZ2Q(-995004432);

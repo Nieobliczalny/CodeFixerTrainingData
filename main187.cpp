@@ -80,7 +80,7 @@ int main() {
     unsigned char    K_Pdc11e;
     K_Pdc11e    =    (unsigned char)-113581274;
 	unsigned char	d_O4r;
-	d_O4r	=	1866245408;
+	d_O4r	=	(unsigned char)1866245408;
   unsigned long long  kplHm;
   kplHm  =  -26486753;
  long double rlI3HYT_G;
@@ -150,7 +150,7 @@ int main() {
   short  Rfz47171__;
   Rfz47171__  =  (short)101427308;
     short int    m4oJ;
-    m4oJ    =    -942466184;
+    m4oJ    =    (short)-942466184;
   int  hEMl_e2C;
   hEMl_e2C  =  1050066577;
 	long double	g5aaK2;

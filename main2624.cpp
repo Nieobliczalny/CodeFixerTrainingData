@@ -70,7 +70,7 @@ std::cout << "wQ7G4_7x54" << Q0_Hg << SM492G9ZV(pSJ7EPB, 424775468, 897162809, -
 
 try
 {
-std::cout << SM492G9ZV(-1604018718, 1634125568, -1886234440, 312988318, -885466195) << SM492G9ZV(1357670995, 1475048296, Wcg0, -1472245991, 817935647) << QI8PCqW2 << std::endl;
+std::cout << SM492G9ZV((unsigned char)-1604018718, 1634125568, -1886234440, 312988318, -885466195) << SM492G9ZV(1357670995, 1475048296, Wcg0, -1472245991, 817935647) << QI8PCqW2 << std::endl;
 }
 catch (int& errorCode)
 {
@@ -382,7 +382,7 @@ UhY1 = SM492G9ZV((unsigned char)-1583857934, 802619783, -407541952, 1807589001, 
 break;
 }
 }
-std::cout << SM492G9ZV((unsigned char)-1821344506, 1535563282, 1454327083, 996079185, -1664413535) << "W8uQnu1K84" << "u1EG" << std::endl;
+std::cout << SM492G9ZV((unsigned char)-1821344506, 1535563282, 1454327083, 996079185, (unsigned short)-1664413535) << "W8uQnu1K84" << "u1EG" << std::endl;
 
 if ((SM492G9ZV(JhChJQ8, B43Hq, -736534341, V1vgmN, Tr13MfN4eH) / SM492G9ZV(JhChJQ8, B43Hq, Wcg0, V1vgmN, Tr13MfN4eH)) >= 1263034436)
 {
@@ -403,7 +403,7 @@ case 3:
 Gr_5E8i4i = Q0_Hg >> V1vgmN;
 break;
 case 4:
-UhY1 = SM492G9ZV((unsigned char)-6669481, aUBB, 490640561, -1378307002, 1544591869);
+UhY1 = SM492G9ZV((unsigned char)-6669481, aUBB, 490640561, -1378307002, (unsigned short)1544591869);
 break;
 }
 {
@@ -597,7 +597,7 @@ UhY1 = SM492G9ZV(657959983, KT97R9yR, iVN8V1W68, ahrP5_O, UhY1);
 i--;
 }
 }
-std::cout << "Cl2t5_e" << SM492G9ZV((unsigned char)544360111, 1606314516, -197613333, ahrP5_O, UhY1) << SM492G9ZV((unsigned char)-1276879991, -577117924, 2130117649, -640976411, (unsigned short)437881742) << SM492G9ZV(-1001454916, KT97R9yR, 1642296543, -856554615, UhY1) << GXTpCvoq << std::endl;
+std::cout << "Cl2t5_e" << SM492G9ZV((unsigned char)544360111, 1606314516, -197613333, ahrP5_O, UhY1) << SM492G9ZV((unsigned char)-1276879991, -577117924, 2130117649, -640976411, (unsigned short)437881742) << SM492G9ZV((unsigned char)-1001454916, KT97R9yR, 1642296543, -856554615, UhY1) << GXTpCvoq << std::endl;
 std::cout << "p7QC" << "VQ9ZZU1" << bK0sA << fNEVaZ35nj << std::endl;
 
 if (Gr_5E8i4i > -1253862641)

@@ -126,7 +126,7 @@ int main(void)
  short int xI_SX6nU;
  xI_SX6nU = (short)1483666506;
 	unsigned char	p9XSO;
-	p9XSO	=	1057946895;
+	p9XSO	=	(unsigned char)1057946895;
  double l57aF;
  l57aF = 1019818794;
     long long    XLcopW9;

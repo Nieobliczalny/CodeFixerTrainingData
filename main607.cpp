@@ -546,7 +546,7 @@ case 4:
 h9TArZ4r = gfTpDNR();
 break;
 case 5:
-nd3eiObR = Vkz_3sWD((short)-1522203986, -1629244208, IuqQ, (unsigned short)860866544, -1892225028);
+nd3eiObR = Vkz_3sWD((short)-1522203986, -1629244208, IuqQ, (unsigned short)860866544, (unsigned char)-1892225028);
 break;
 case 6:
 qMpk0 = c0n3p(h9TArZ4r, qMpk0, -1076774919);
@@ -797,7 +797,7 @@ for (int j = 8; j >= 0; j--)
 {
 try
 {
-g6I5bKk = c0n3p(-1997013228, (short)1354841568, -645337593);
+g6I5bKk = c0n3p(-1997013228, (short)1354841568, (short)-645337593);
 }
 catch (int& errorCode)
 {

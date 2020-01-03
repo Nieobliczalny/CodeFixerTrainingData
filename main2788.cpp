@@ -64,7 +64,7 @@ int main(void)
  char to0Ifr;
  to0Ifr = (char)693753155;
 	unsigned char	p8A7;
-	p8A7	=	-1764065910;
+	p8A7	=	(unsigned char)-1764065910;
  unsigned long nCYF7BPDW;
  nCYF7BPDW = 1032181592;
 	unsigned int	F0nhgFI;

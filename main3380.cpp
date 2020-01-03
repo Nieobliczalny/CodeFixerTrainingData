@@ -36,7 +36,7 @@ int main() {
   short int  P_9ZdSD_5;
   P_9ZdSD_5  =  (short)468597913;
     unsigned short    Z0TVo;
-    Z0TVo    =    1741594648;
+    Z0TVo    =    (unsigned short)1741594648;
  short sVFkFTFL;
  sVFkFTFL = (short)-1582614363;
  float v5j72c3A;
@@ -55,7 +55,7 @@ int main() {
   n589  =  2011763756;
 
 cout << C72Z1(SDBY, (unsigned short)-772306372, n589, 338580763, P_9ZdSD_5) << "fp3_u8KK53" << Rg19yn62 << SDBY << endl;
-cout << Z0TVo << "UE4c" << EsH2_2k69x << C72Z1((unsigned short)-1535963917, Rg19yn62, -1235885102, -1096485819, -1733377353) << nNMz << endl;
+cout << Z0TVo << "UE4c" << EsH2_2k69x << C72Z1((unsigned short)-1535963917, Rg19yn62, (unsigned short)-1235885102, -1096485819, -1733377353) << nNMz << endl;
 
 Q0jVdsqv7q = U8_m0(P_9ZdSD_5, sNfeGQE4ZV);
 
@@ -155,7 +155,7 @@ FMoy_1Sp = C72Z1(Q0jVdsqv7q, (unsigned short)927264679, (unsigned short)15371138
 switch (Rg19yn62)
 {
 case 0:
-FMoy_1Sp = C72Z1(-715025320, n589, -1721268538, Rg19yn62, 382825814);
+FMoy_1Sp = C72Z1((unsigned short)-715025320, n589, -1721268538, Rg19yn62, 382825814);
 break;
 case 1:
 v5j72c3A = U8_m0(1994143301, n589) >> sVFkFTFL;
@@ -225,7 +225,7 @@ Z0TVo = PlnX9xpQ9f((short)44975540, (unsigned char)-1958808821);
 }
 while (i < 4);
 }
-cout << "h45O1W" << M6gb << C72Z1((unsigned short)-1790955849, 1514053618, yK32UZS_8a, -383631202, 2053281813) << PlnX9xpQ9f(Q0jVdsqv7q, Z0TVo) << endl;
+cout << "h45O1W" << M6gb << C72Z1((unsigned short)-1790955849, (unsigned short)1514053618, yK32UZS_8a, -383631202, 2053281813) << PlnX9xpQ9f(Q0jVdsqv7q, Z0TVo) << endl;
 
 if (FMoy_1Sp >= 718811800)
 {
@@ -264,7 +264,7 @@ case 0:
 nNMz = C72Z1(nNMz, (unsigned short)-1682154706, (unsigned short)330509155, -441897636, (short)-2132891705);
 break;
 case 1:
-UQdX = PlnX9xpQ9f(1663334745, M6gb);
+UQdX = PlnX9xpQ9f((short)1663334745, M6gb);
 break;
 default:
 sNfeGQE4ZV = (int)ceil(v5j72c3A);
@@ -348,7 +348,7 @@ case 0:
 FMoy_1Sp = PlnX9xpQ9f((short)-1100431329, (unsigned char)-809327483);
 break;
 case 1:
-UQdX = C72Z1(FMoy_1Sp, (unsigned short)905319930, -1861066561, -408700720, -1157523676) << 992242070;
+UQdX = C72Z1(FMoy_1Sp, (unsigned short)905319930, (unsigned short)-1861066561, -408700720, -1157523676) << 992242070;
 break;
 case 2:
 yK32UZS_8a = C72Z1(520413801, -77639326, -1332714414, EsH2_2k69x, ML799jz);
@@ -429,7 +429,7 @@ case 5:
 Rg19yn62 = (WhUz2 != -1007169412) ? nNMz : (short)-1651801914;
 break;
 case 6:
-Z0TVo = C72Z1(Z0TVo, (unsigned short)-353543133, 831906411, WhUz2, EsH2_2k69x);
+Z0TVo = C72Z1(Z0TVo, (unsigned short)-353543133, (unsigned short)831906411, WhUz2, EsH2_2k69x);
 break;
 }
 }
@@ -538,7 +538,7 @@ v5j72c3A = (int)ceil(sNfeGQE4ZV);
 }
 }
 
-cout << PlnX9xpQ9f((short)-1449437260, ML799jz) << "x7k90hz_" << sNfeGQE4ZV << C72Z1((unsigned short)-316774295, (unsigned short)735651116, -243096972, FMoy_1Sp, -1855446217) << "I0IpIP5JPP" << endl;
+cout << PlnX9xpQ9f((short)-1449437260, ML799jz) << "x7k90hz_" << sNfeGQE4ZV << C72Z1((unsigned short)-316774295, (unsigned short)735651116, (unsigned short)-243096972, FMoy_1Sp, -1855446217) << "I0IpIP5JPP" << endl;
 
 return 0;
 }

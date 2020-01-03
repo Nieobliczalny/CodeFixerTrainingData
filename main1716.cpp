@@ -40,7 +40,7 @@ int main(int argc, char** argv) {
 	unsigned int	Td_o	=	590974533;
     unsigned long long    z_l4b    =    -1937029110;
  float lLP8Vm = 1415984494;
-    char    Gid3F    =    565226056;
+    char    Gid3F    =    (char)565226056;
   double  NMH_c  =  1895559873;
   long long  q1zg400_Zo  =  -238688665;
 	short	FM82p75zir	=	(short)2073329558;
@@ -65,7 +65,7 @@ int main(int argc, char** argv) {
 	unsigned short	O1s4q7otYB	=	(unsigned short)573382367;
     char    zeq10    =    (char)-734152483;
 	short int	TLcIMN_Bw	=	(short)-1999479787;
- unsigned short Gx57coE = 375151442;
+ unsigned short Gx57coE = (unsigned short)375151442;
 
 std::cout << LouajgQWJ1 << WlA4T(efkPouhVNz, TLcIMN_Bw) << D8g2jC << std::endl;
 switch (e2790jg)
@@ -379,7 +379,7 @@ Ohhz3 = ZhVF6s8Z((unsigned short)485964305, (unsigned short)-861814586);
 }
 else if (M4gA7U == HT1QP73r1n)
 {
-std::cout << "Md9Uxj55" << lT7Jb0s((short)882648828, -1539421339, 1924300059, -1837703568) << "d_2PfbsMIX" << WlA4T(Ohhz3, 1655018399) << std::endl;
+std::cout << "Md9Uxj55" << lT7Jb0s((short)882648828, -1539421339, (unsigned short)1924300059, -1837703568) << "d_2PfbsMIX" << WlA4T(Ohhz3, 1655018399) << std::endl;
 }
 else
 {

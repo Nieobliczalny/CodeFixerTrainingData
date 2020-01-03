@@ -20,7 +20,7 @@ int main(int argc, char** argv)
  vl42_74d = (unsigned char)-187783292;
  HOYX = (unsigned char)306901567;
  Z0_9HSyy98 = (unsigned char)763127424;
- U4zO4_ = 987351564;
+ U4zO4_ = (unsigned char)987351564;
  D319Um95 = -303010415;
  XKg0 = -202126980;
  OlQ0Frx = -1535595773;
@@ -30,7 +30,7 @@ int main(int argc, char** argv)
  Yrr7 = (unsigned char)-2016751498;
  H4T9D9wme = (unsigned char)435054300;
  gRXNm4G0K = (unsigned char)1209206203;
- o6cc = -517481569;
+ o6cc = (unsigned char)-517481569;
  D6f8Z5o = 899322601;
  H98c = 1665965110;
  l211rz = -1353167387;
@@ -40,7 +40,7 @@ int main(int argc, char** argv)
  Ce9_T8_SP5 = (unsigned char)1231834214;
  iq_a8 = (unsigned char)-465820228;
  X2R9W = (unsigned char)612189926;
- z7K_TFC0 = 595177748;
+ z7K_TFC0 = (unsigned char)595177748;
  IsAaAByVz = 137640383;
  GLPiopI92 = 887048861;
  Qoc28TV99 = -725857939;
@@ -50,7 +50,7 @@ int main(int argc, char** argv)
  al__2U = (unsigned char)-2019960289;
  RMWBR0_VI3 = (unsigned char)-2138803136;
  Uz3B = (unsigned char)-2008381067;
- zQoyMnP = 1364714562;
+ zQoyMnP = (unsigned char)1364714562;
  Cg9ZAca = -1916880777;
  pO7PT_u39 = -1799726840;
  Da36shixS = 1368707059;
@@ -60,7 +60,7 @@ int main(int argc, char** argv)
  vhS_ = (unsigned char)1491912080;
  QCB35Dr830 = (unsigned char)-502948351;
  j506ZbR = (unsigned char)-754087686;
- ntWwRD = 851240195;
+ ntWwRD = (unsigned char)851240195;
  a8R7W = 2035698637;
  fLZkgn__7d = 1992353159;
  Fig9 = 1892363907;
@@ -70,7 +70,7 @@ int main(int argc, char** argv)
  pqOG0WqZlh = (unsigned char)636036824;
  J5qHj = (unsigned char)-152523557;
  N6ALG1 = (unsigned char)1099798411;
- NL06N = -2037712758;
+ NL06N = (unsigned char)-2037712758;
  V1_Qh = -388793805;
  R682JQz = 1944246678;
  iKSd = -486735333;
@@ -80,7 +80,7 @@ int main(int argc, char** argv)
  qo9LQMWcC3 = (unsigned char)-1542088585;
  SSf4h1610 = (unsigned char)136334446;
  a_h2IoaG = (unsigned char)2143900819;
- yzdLg413Yi = -707658949;
+ yzdLg413Yi = (unsigned char)-707658949;
  RWhvLU7 = -365790857;
  XNt__Ea = -273303217;
  s4__PJSl = 35443978;
@@ -93,7 +93,7 @@ int main(int argc, char** argv)
 
 for (int i = 0; i < 7; ++i)
 {
-u1s181jp = p7SaCI(-576385734, A4f59o, -785163703);
+u1s181jp = p7SaCI(-576385734, A4f59o, (unsigned short)-785163703);
 }
 
 for (int i = 9; i >= 0; i--)

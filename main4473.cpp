@@ -27,7 +27,7 @@ int main(void)
  unsigned char s8tTK_2 = (unsigned char)-1473599292;
 	char	lnC9V9	=	(char)1988433494;
  char B4_sI = (char)-1592191432;
-	short int	q1GXs_6	=	1534836088;
+	short int	q1GXs_6	=	(short)1534836088;
  unsigned short int NdV80 = 0;
 	double	J480uMh8	=	1731420037;
  unsigned long pS41 = -866879648;
@@ -412,7 +412,7 @@ else
 {
 try
 {
-B4_sI = (qDaYYLnQ4 == v2a27) ? (char)2071837027 : -1703141562;
+B4_sI = (qDaYYLnQ4 == v2a27) ? (char)2071837027 : (char)-1703141562;
 }
 catch (int& errorCode)
 {
@@ -640,7 +640,7 @@ Q1n6hM = R_o73oPh(doM57_5, (char)-843526643, YpB7mImb3) << 690793081;
 }
 else
 {
-std::cout << NdV80 << YpB7mImb3 << m1W621t1J1((short)894374723, (unsigned short)2010786511) << m1W621t1J1(-517067609, -19169066) << "Q0w3" << std::endl;
+std::cout << NdV80 << YpB7mImb3 << m1W621t1J1((short)894374723, (unsigned short)2010786511) << m1W621t1J1((short)-517067609, -19169066) << "Q0w3" << std::endl;
 }
 }
 catch (int& errorCode)
@@ -800,7 +800,7 @@ case 6:
 YpB7mImb3 = m1W621t1J1((short)347230600, mV5P7N) >> 1536862864;
 break;
 case 7:
-NxoQo6d = m1W621t1J1((short)-1950519644, -1445237837) & 2140393905;
+NxoQo6d = m1W621t1J1((short)-1950519644, (unsigned short)-1445237837) & 2140393905;
 break;
 }
 ++i;
@@ -864,7 +864,7 @@ else if (J480uMh8 != -1866218354)
 {
 if (VyT4d157H < 1826148274)
 {
-pS41 = m1W621t1J1(pS41, 1895585704);
+pS41 = m1W621t1J1(pS41, (unsigned short)1895585704);
 }
 else if (q1GXs_6)
 {
@@ -931,7 +931,7 @@ case 'h':
 v2a27 = R_o73oPh((short)164985990, v2a27, NdV80) / lnC9V9;
 break;
 default:
-NdV80 = R_o73oPh(1249996486, AEVKkl, -1401649672);
+NdV80 = R_o73oPh((short)1249996486, AEVKkl, -1401649672);
 break;
 }
 }

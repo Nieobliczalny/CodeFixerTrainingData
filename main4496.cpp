@@ -72,7 +72,7 @@ case 'd':
 f27P = (int)floor(Yw7vr);
 break;
 default:
-OWT9fHf = ydZO0c54Pb((short)2139481061, -2085344425, ba68aDVfK, 1040110228);
+OWT9fHf = ydZO0c54Pb((short)2139481061, -2085344425, ba68aDVfK, (unsigned short)1040110228);
 break;
 }
 }

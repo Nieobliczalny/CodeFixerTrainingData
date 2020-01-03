@@ -20,7 +20,7 @@ int main()
  float J18hwW = -552460376;
  long R7mO = 1975599868;
 	short	tK3q4P	=	(short)-1233938466;
- short YS2ZF = 177367075;
+ short YS2ZF = (short)177367075;
  long tPf_J = 1438495831;
     unsigned long    fkt65l5U    =    1630856031;
 	unsigned int	DJkc55	=	1587293065;
@@ -30,7 +30,7 @@ int main()
   unsigned short int  fXX42SPe_k  =  (unsigned short)-1689039070;
   long  z68nH_z_0B  =  -502002380;
     short    h35rvJN8    =    (short)1359716409;
-	short int	SCQO53	=	-540396964;
+	short int	SCQO53	=	(short)-540396964;
 	int	TTXreyV21	=	-165311805;
  int aTJUROE7a = -618226160;
   float  fxuJ  =  1820687187;
@@ -58,7 +58,7 @@ int main()
 	long	g3w0g3ZG	=	-522373324;
     long double    pzDe    =    858246533;
 	short	o_GZ4	=	(short)-880511575;
-  short int  byY2_5  =  1108376631;
+  short int  byY2_5  =  (short)1108376631;
     char    vbg1k_    =    1812583721;
 	unsigned long	z97rt	=	-1867030274;
 	long long	kxT09NuTm	=	1044031972;
@@ -69,7 +69,7 @@ int main()
 	unsigned long long	CTI5ecp16	=	1346521154;
     unsigned short int    jXc0    =    (unsigned short)155987810;
     unsigned long long    Sf87    =    1866644907;
-	short	hV27U	=	-1963479247;
+	short	hV27U	=	(short)-1963479247;
     long    O2f470MQe8    =    985304064;
  long double kNO65f1Y = -1737746532;
     float    C_d137_5    =    -1741631753;
@@ -111,7 +111,7 @@ catch (int& errorCode)
 fkt65l5U %= i52_R1JC;
 }
 
-scFy_E = qnoFhgDky6((short)-390426451, -1650093897);
+scFy_E = qnoFhgDky6((short)-390426451, (unsigned short)-1650093897);
 
 {
 int i = 0;
@@ -221,7 +221,7 @@ g0d9155d = q8AWT45HN6(g0d9155d, 1691294011, (unsigned char)382749038);
 F88F *= 805212015;
 std::cout << qnoFhgDky6((short)-520261475, (unsigned short)-477963068) << std::endl;
 
-CTI5ecp16 = q8AWT45HN6(g0d9155d, eWs6, -702600839) / qnoFhgDky6(-879137037, eWs6);
+CTI5ecp16 = q8AWT45HN6(g0d9155d, eWs6, (unsigned char)-702600839) / qnoFhgDky6(-879137037, eWs6);
 DldB = (int)ceil(kNO65f1Y);
 
 {
@@ -534,7 +534,7 @@ else if (((z97rt & 1205260207) && (b74n38 > 1515603556)) || (F88F != -1785730499
 int j = 10;
 do
 {
-std::cout << q8AWT45HN6(kje8PU43HY, aTJUROE7a, (unsigned char)1368337936) << q8AWT45HN6(kje8PU43HY, aTJUROE7a, (unsigned char)356067378) << q8AWT45HN6(-1222710083, aTJUROE7a, 1053051447) << "Ia_vXj022T" << lh9C << std::endl;
+std::cout << q8AWT45HN6(kje8PU43HY, aTJUROE7a, (unsigned char)1368337936) << q8AWT45HN6(kje8PU43HY, aTJUROE7a, (unsigned char)356067378) << q8AWT45HN6(-1222710083, aTJUROE7a, (unsigned char)1053051447) << "Ia_vXj022T" << lh9C << std::endl;
 j--;
 }
 while (j >= 0);

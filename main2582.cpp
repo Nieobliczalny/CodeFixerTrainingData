@@ -55,7 +55,7 @@ int main(void)
     long long    M5LA8z;
     M5LA8z    =    184833784;
 	short	OOQE;
-	OOQE	=	1964324564;
+	OOQE	=	(short)1964324564;
   unsigned char  OTZOfN;
   OTZOfN  =  (unsigned char)-1168506482;
 	long double	c8cxTQw;
@@ -151,7 +151,7 @@ int main(void)
   unsigned short  nA0jhjgr__;
   nA0jhjgr__  =  (unsigned short)706314692;
   char  ANzBFIUG;
-  ANzBFIUG  =  -974261237;
+  ANzBFIUG  =  (char)-974261237;
 	unsigned int	fR53ah;
 	fR53ah	=	-1269626870;
     long long    fmLK5R_56F;
@@ -660,7 +660,7 @@ case 3:
 CS2ZaSEm9 = H8i_l(CS2ZaSEm9, (unsigned char)2052202106, (unsigned short)-1141719232, (unsigned char)1366479134, tZh3ZPP8);
 break;
 case 4:
-Nc33m4eKD = H8i_l(Nc33m4eKD, jmcfn_Fy59, ANzBFIUG, SvL34W_VXY, 810508806);
+Nc33m4eKD = H8i_l(Nc33m4eKD, jmcfn_Fy59, ANzBFIUG, SvL34W_VXY, (unsigned char)810508806);
 break;
 default:
 ZWeyA630k9 = (int)floor(TrW1wS);

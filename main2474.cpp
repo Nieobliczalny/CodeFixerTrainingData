@@ -57,7 +57,7 @@ int main(void)
  unsigned char FBVun;
  FBVun = (unsigned char)2108855644;
 	unsigned short int	S6A_kN;
-	S6A_kN	=	437611697;
+	S6A_kN	=	(unsigned short)437611697;
  long KDMWt5P94;
  KDMWt5P94 = -241848831;
 	short	fXiX6b1eT;
@@ -91,7 +91,7 @@ int main(void)
 	char	E1TL3Y2;
 	E1TL3Y2	=	(char)872379204;
     short int    di8BNAtE;
-    di8BNAtE    =    1641792088;
+    di8BNAtE    =    (short)1641792088;
     long double    a6zk_hF7Kb;
     a6zk_hF7Kb    =    -962072143;
   long  RQ3x30;
@@ -105,7 +105,7 @@ int main(void)
     short    hy8sQo4I_;
     hy8sQo4I_    =    (short)215928785;
  unsigned short int K2MP9L;
- K2MP9L = 1508240958;
+ K2MP9L = (unsigned short)1508240958;
     unsigned int    X_igEQ3d;
     X_igEQ3d    =    -1360317329;
   unsigned int  jNu_xN7;
@@ -187,7 +187,7 @@ int main(void)
     unsigned short    Pvx019Psq;
     Pvx019Psq    =    (unsigned short)1848156751;
     unsigned char    txLZY1B;
-    txLZY1B    =    -1632806570;
+    txLZY1B    =    (unsigned char)-1632806570;
  long double e38h79b;
  e38h79b = 769235692;
 	long long	gG0jrRK;
@@ -201,7 +201,7 @@ int main(void)
  short int Si378EDW;
  Si378EDW = (short)929820283;
   unsigned short int  edhb3vMcG;
-  edhb3vMcG  =  -2112247297;
+  edhb3vMcG  =  (unsigned short)-2112247297;
   short int  qpJ5XcA;
   qpJ5XcA  =  (short)1546515938;
 	unsigned int	f5a_RXJ;
@@ -335,7 +335,7 @@ e9Dj = fThZjh1(-14079466, (short)2072475384, (short)-800897759, (unsigned char)4
 }
 else
 {
-std::cout << gG0jrRK << fThZjh1(-1013194417, 205969478, -931957714, 1578547816, -759548331) << p4J1 << "iQE1" << std::endl;
+std::cout << gG0jrRK << fThZjh1(-1013194417, (short)205969478, -931957714, 1578547816, -759548331) << p4J1 << "iQE1" << std::endl;
 }
 
 switch (BAO56Rpcc)

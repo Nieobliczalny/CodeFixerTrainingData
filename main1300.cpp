@@ -63,7 +63,7 @@ case 3:
 SF5pe424 = pQ4e3P(SF5pe424);
 break;
 case 4:
-KGV_ = wC02lnWj_((char)-518570605, 1781594859, (unsigned short)1375060211, -1455554243, 1652655992);
+KGV_ = wC02lnWj_((char)-518570605, 1781594859, (unsigned short)1375060211, -1455554243, (short)1652655992);
 break;
 case 5:
 RZdy4Y9N8h = HA0Gb_j >> y8_d3Av2;

@@ -256,7 +256,7 @@ for (int i = 0; i < 2; i++)
 bvNoB607DI = C6cmn73M(bvNoB607DI, 1927876066, (unsigned char)1183883918, -70690419, wyYMd3aY2v);
 }
 
-YyW603rN = C6cmn73M((char)-360345428, YyW603rN, (unsigned char)-1954044631, -725155397, 35227829);
+YyW603rN = C6cmn73M((char)-360345428, YyW603rN, (unsigned char)-1954044631, -725155397, (unsigned short)35227829);
 switch (YyW603rN)
 {
 case 'a':

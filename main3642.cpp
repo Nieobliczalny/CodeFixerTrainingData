@@ -87,7 +87,7 @@ int main(int argc, char** argv) {
   short  z60LGg;
   z60LGg  =  (short)795436156;
 	unsigned char	L0_0Z68_y9;
-	L0_0Z68_y9	=	1662276480;
+	L0_0Z68_y9	=	(unsigned char)1662276480;
   short int  k624;
   k624  =  -1336242205;
     long double    IEPg4W;
@@ -135,7 +135,7 @@ int main(int argc, char** argv) {
     unsigned long long    uT6FZ;
     uT6FZ    =    1856134013;
   char  lMi8kc10l;
-  lMi8kc10l  =  -1464081700;
+  lMi8kc10l  =  (char)-1464081700;
  long long NJVQlp49;
  NJVQlp49 = 804182374;
     long double    v256_gpH93;

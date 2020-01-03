@@ -151,7 +151,7 @@ switch (mh5jU_T6T)
 {
 case 'a':
 case 'A':
-i6X719mOM = K729_Ke6((unsigned char)480186071, Z_V7, -1854742044);
+i6X719mOM = K729_Ke6((unsigned char)480186071, Z_V7, (unsigned short)-1854742044);
 break;
 case 'b':
 case 'B':

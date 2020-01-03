@@ -59,7 +59,7 @@ int main(int argc, char** argv)
  short G7rVB;
  G7rVB = (short)362802283;
  unsigned short p7_aDogWtC;
- p7_aDogWtC = 1674701270;
+ p7_aDogWtC = (unsigned short)1674701270;
  short CzY8E846;
  CzY8E846 = (short)-827310922;
     short int    i9_k4;
@@ -69,7 +69,7 @@ int main(int argc, char** argv)
 	short int	WdDVFm;
 	WdDVFm	=	(short)-1445170639;
     unsigned short int    TsAg2EAe5N;
-    TsAg2EAe5N    =    -1782054035;
+    TsAg2EAe5N    =    (unsigned short)-1782054035;
  unsigned int EZf9;
  EZf9 = -1916966081;
 	unsigned char	EL_WMDe;

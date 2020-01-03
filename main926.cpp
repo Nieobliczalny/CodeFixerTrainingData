@@ -61,7 +61,7 @@ int i = 5;
 while (i >= 0)
 {
 i--;
-Y3qm6T3o_L = elS_((unsigned short)-317574152, NyI7v5X, Bf_Jc_6Px0, (short)2009810867, -2092370488);
+Y3qm6T3o_L = elS_((unsigned short)-317574152, NyI7v5X, Bf_Jc_6Px0, (short)2009810867, (unsigned short)-2092370488);
 }
 }
 
@@ -171,7 +171,7 @@ std::cout << elS_(yn86m, -868924658, O6Jyxid1i4, (short)376049376, FtvZsg9y) << 
 }
 EmPW65 = elS_((unsigned short)-641431893, kr6zdT4Pn, -1725606056, q_DMJEZm, EmPW65);
 kr6zdT4Pn = (int)abs(qA87o_Ccj);
-sW332 = elS_((unsigned short)-1830364779, -136231500, Bf_Jc_6Px0, 413677865, -1093981977);
+sW332 = elS_((unsigned short)-1830364779, -136231500, Bf_Jc_6Px0, (short)413677865, -1093981977);
 qA87o_Ccj = (float)(yn86m);
 RIX9_V = qA87o_Ccj / Y3qm6T3o_L;
 std::cout << elS_(GeTsmic, -1060823732, -993551210, kr6zdT4Pn, 778224569) << PB4gxdN1 << elS_(GeTsmic, -861893182, -737747707, 747162248, R9_K_) << q_DMJEZm << std::endl;

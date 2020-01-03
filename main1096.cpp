@@ -501,7 +501,7 @@ Uk8o = (i9gE != CK_z2v5dQl) ? a0jP : (char)-547240550;
 break;
 case 'd':
 case 'D':
-o0o8sAu = n3q0FsJf5(o0o8sAu, L5T_D7_7H, 715861932, -1977249619);
+o0o8sAu = n3q0FsJf5(o0o8sAu, L5T_D7_7H, 715861932, (char)-1977249619);
 break;
 case 'e':
 case 'E':

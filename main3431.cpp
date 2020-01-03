@@ -30,7 +30,7 @@ std::cout << Kwu36Z24(B6972Rv63_, (char)1074321165, Q48n1, YK8GNNi) << std::endl
 switch (YW19)
 {
 case 0:
-D5XPqksyI = Kwu36Z24((short)377104307, (char)432351929, 2060532369, -293018164);
+D5XPqksyI = Kwu36Z24((short)377104307, (char)432351929, 2060532369, (short)-293018164);
 break;
 case 1:
 JF84--;
@@ -62,7 +62,7 @@ Bpag0k = zMHaIJ191(-406097566, (unsigned short)-751119339, eBMJxYijC);
 }
 else if (x40Ou590 < -2061021938)
 {
-D5P2ArPn = (Ec6hrZ1Twi > -1361253211) ? 137060817 : Kwu36Z24((short)-1851411570, (char)1413752910, eBMJxYijC, 258191755);
+D5P2ArPn = (Ec6hrZ1Twi > -1361253211) ? 137060817 : Kwu36Z24((short)-1851411570, (char)1413752910, eBMJxYijC, (short)258191755);
 }
 else if (kje8W8)
 {

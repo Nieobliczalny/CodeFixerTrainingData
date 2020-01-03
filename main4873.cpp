@@ -263,7 +263,7 @@ std::cout << p58eY97_z7(-374736090, 55980995, m9gpYatWX, -1156501711, (unsigned 
 }
 if (lu1Vh & sfVPrd0fIr)
 {
-std::cout << Y3AgKQL4(1430107451, (unsigned short)297286571, 31025286) << FYh_4ZWtVp << lK8dyw4 << sNYS(-880646456, q5wkKCe, m9gpYatWX, hV7tB57c) << std::endl;
+std::cout << Y3AgKQL4(1430107451, (unsigned short)297286571, 31025286) << FYh_4ZWtVp << lK8dyw4 << sNYS((unsigned char)-880646456, q5wkKCe, m9gpYatWX, hV7tB57c) << std::endl;
 }
 else
 {

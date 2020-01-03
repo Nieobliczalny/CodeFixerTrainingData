@@ -56,7 +56,7 @@ case 'd':
 TNxC4tC = Z6_m5I((unsigned char)-1278525491, R9I4w, -564736767, (unsigned short)-650339497);
 break;
 case 'e':
-RUQ77oR = Z6_m5I((unsigned char)905858200, PJ303aCuQ, ORc3RGY, 1074252473);
+RUQ77oR = Z6_m5I((unsigned char)905858200, PJ303aCuQ, ORc3RGY, (unsigned short)1074252473);
 break;
 case 'f':
 PJ303aCuQ = sW34OhF_R(yg3xIR, 1870804114, -224163269);
@@ -242,7 +242,7 @@ break;
 }
 }
 }
-std::cout << "cP_78_2" << Z6_m5I((unsigned char)-806785000, (unsigned short)-1870199733, fiOEmY6, cSXA_) << sW34OhF_R(W4ZN6NaSQ, -506348730, 991587631) << std::endl;
+std::cout << "cP_78_2" << Z6_m5I((unsigned char)-806785000, (unsigned short)-1870199733, fiOEmY6, cSXA_) << sW34OhF_R(W4ZN6NaSQ, -506348730, (unsigned short)991587631) << std::endl;
 QWAIJ254 = (unsigned long)(o30MO3B);
 {
 int i = 0;

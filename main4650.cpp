@@ -150,7 +150,7 @@ else
 {
 if (BGYGRUw > Mv65tG6)
 {
-q802u = gE_8HK3(-1943294989, AwKs2O, (unsigned short)-1070621938, 1460661442, -358639236);
+q802u = gE_8HK3(-1943294989, AwKs2O, (unsigned short)-1070621938, 1460661442, (char)-358639236);
 }
 }
 i++;

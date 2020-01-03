@@ -76,7 +76,7 @@ case 5:
 xb6Mo87s = Kst9_x7j3(-683850853, soDN9, -1957548632, xG9G);
 break;
 case 6:
-soDN9 = Y2MM1_E(847067140);
+soDN9 = Y2MM1_E((unsigned short)847067140);
 break;
 case 7:
 soDN9 = cn5_(soDN9, (unsigned short)-2083442622);
@@ -227,7 +227,7 @@ case 'f':
 soDN9 = e78l08j(soDN9, (unsigned char)-871466867, A59kYZv_s, (short)-629185064);
 break;
 case 'g':
-q2sIy_a86M = Y2MM1_E(-1945464405);
+q2sIy_a86M = Y2MM1_E((unsigned short)-1945464405);
 break;
 default:
 xG9G = Y2MM1_E(xG9G);

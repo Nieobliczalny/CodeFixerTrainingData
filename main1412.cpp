@@ -387,7 +387,7 @@ case 5:
 g_Cd8 = MG_l01Jw((unsigned char)285149222);
 break;
 case 6:
-k863C0ci_g = MG_l01Jw(-884089535);
+k863C0ci_g = MG_l01Jw((unsigned char)-884089535);
 break;
 case 7:
 QCLTQGk604 = d40s / dDA29eN;

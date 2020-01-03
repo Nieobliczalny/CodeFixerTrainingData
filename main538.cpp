@@ -69,7 +69,7 @@ try
 {
 for (int k = 0; k < 2; ++k)
 {
-CMT3jS5p = iy8YTULY(776979674, (unsigned char)610263855, -729154785, 1521937030);
+CMT3jS5p = iy8YTULY(776979674, (unsigned char)610263855, (unsigned char)-729154785, 1521937030);
 }
 }
 catch (int& errorCode)
@@ -86,7 +86,7 @@ if (x122 >= PF5__)
 {
 try
 {
-PF5__ = iy8YTULY(PF5__, (unsigned char)424826405, 944398476, -1558757891);
+PF5__ = iy8YTULY(PF5__, (unsigned char)424826405, (unsigned char)944398476, -1558757891);
 }
 catch (int& errorCode)
 {
@@ -212,7 +212,7 @@ break;
 }
 else if (xjb6u4J == -1718384401)
 {
-Ev_Y = iy8YTULY(-1193534280, (unsigned char)1636276071, 1895398480, 188330011) / 3892507;
+Ev_Y = iy8YTULY(-1193534280, (unsigned char)1636276071, (unsigned char)1895398480, 188330011) / 3892507;
 }
 else if (F7tdikE1 & TmGRC)
 {

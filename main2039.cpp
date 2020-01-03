@@ -74,7 +74,7 @@ int main(int argc, char** argv)
     short int    r19VuV7_;
     r19VuV7_    =    (short)-720153478;
     unsigned short int    JY0q6waw61;
-    JY0q6waw61    =    -340894771;
+    JY0q6waw61    =    (unsigned short)-340894771;
 	double	pcp5cc;
 	pcp5cc	=	455195994;
   long double  R5ccvG2;
@@ -170,7 +170,7 @@ int main(int argc, char** argv)
     float    J8HVa3;
     J8HVa3    =    -1957148640;
     unsigned short    Lqm10542TY;
-    Lqm10542TY    =    362990933;
+    Lqm10542TY    =    (unsigned short)362990933;
  short int mZySTN73;
  mZySTN73 = (short)-620382816;
 	unsigned int	ahs_B_;
@@ -206,7 +206,7 @@ Loowi59tq = (unsigned long long)(a25ZD1Myu + (r812mt31));
 UpDTshYA6 = B2RV_u77(Y959lpqD, 708988578, (short)1365894842, (unsigned short)-314002732);
 wu18A = B2RV_u77(ahs_B_, cTWWI6, (short)998147052, mj6xcr);
 
-wu18A = B2RV_u77(r8RO, 2030497703, -1646457033, xY1H7iXau3);
+wu18A = B2RV_u77(r8RO, 2030497703, (short)-1646457033, xY1H7iXau3);
 
 cout << nzPME84IB << "Vs3X0" << hJcD24ASpN << "BSOO9IjP6" << endl;
 Y3Fq_8ZPbk = B2RV_u77(r8RO, sY9_L, LpQvqf94wk, -333821138) / UpDTshYA6;
@@ -226,7 +226,7 @@ for (int i = 9; i >= 0; --i)
 {
 try
 {
-cout << B2RV_u77((unsigned short)204979326, 1656831665, 2106379528, M_Cr4esKr) << endl;
+cout << B2RV_u77((unsigned short)204979326, 1656831665, (short)2106379528, M_Cr4esKr) << endl;
 }
 catch (int& errorCode)
 {

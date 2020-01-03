@@ -98,7 +98,7 @@ int main(void)
     short    Zy_ov12;
     Zy_ov12    =    (short)603538110;
     unsigned char    pfi_56T8l;
-    pfi_56T8l    =    1980365436;
+    pfi_56T8l    =    (unsigned char)1980365436;
 	unsigned int	NASA4_kT;
 	NASA4_kT	=	0;
     unsigned short    u637s4Hv5Y;
@@ -148,7 +148,7 @@ int main(void)
     short int    Kl6SYdg9;
     Kl6SYdg9    =    (short)282758480;
 	char	a9G_EudIA9;
-	a9G_EudIA9	=	-940977458;
+	a9G_EudIA9	=	(char)-940977458;
     short int    CpUUSbD;
     CpUUSbD    =    -238543992;
 	unsigned long long	nUVB5JG57;

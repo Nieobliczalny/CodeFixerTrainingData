@@ -94,7 +94,7 @@ int main(void)
   unsigned short  mtPiV3e21b;
   mtPiV3e21b  =  (unsigned short)-82813071;
 	unsigned char	Ms7_64RAYt;
-	Ms7_64RAYt	=	1917033431;
+	Ms7_64RAYt	=	(unsigned char)1917033431;
  unsigned int BWE9oesx9;
  BWE9oesx9 = 1532559012;
   unsigned int  ch98Mb0Gv;
@@ -138,7 +138,7 @@ int main(void)
     unsigned short    r0cvEZe5;
     r0cvEZe5    =    (unsigned short)-245769559;
     unsigned short int    Sycx2b04f;
-    Sycx2b04f    =    -620644918;
+    Sycx2b04f    =    (unsigned short)-620644918;
 	unsigned char	w4_brw83Xm;
 	w4_brw83Xm	=	(unsigned char)249090634;
  unsigned int XGc3ke1L;
@@ -186,7 +186,7 @@ int main(void)
 	unsigned short int	L9Adq48CL;
 	L9Adq48CL	=	(unsigned short)-1985043101;
   char  I8q24;
-  I8q24  =  -682507382;
+  I8q24  =  (char)-682507382;
  unsigned long long aNFbcCmnW8;
  aNFbcCmnW8 = 1747256766;
  float dT6j8__5n;

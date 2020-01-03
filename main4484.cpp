@@ -54,7 +54,7 @@ int main() {
     char    X_rG;
     X_rG    =    (char)-1125922797;
     short    p_51nhxRo5;
-    p_51nhxRo5    =    -1389296455;
+    p_51nhxRo5    =    (short)-1389296455;
 	long	w5hSHyx_1;
 	w5hSHyx_1	=	863081394;
   unsigned char  dEW22;

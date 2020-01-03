@@ -27,7 +27,7 @@ int main(void) {
     long    ya7a31    =    -172565973;
  int dYaqyw = 295973003;
   short int  zqzogd7kX  =  (short)-1712948435;
-  unsigned short int  fHFwE  =  -845638759;
+  unsigned short int  fHFwE  =  (unsigned short)-845638759;
  unsigned int xeBX1U9 = 347894840;
 	double	QN7QE_	=	-35778979;
     double    jad12BD36Z    =    1839959176;
@@ -66,7 +66,7 @@ int main(void) {
 	unsigned long	S898l	=	295351833;
 	short int	Gwub15H89G	=	(short)-1841986162;
  float qjPtv = -777025875;
-	short int	rq0_b	=	256671461;
+	short int	rq0_b	=	(short)256671461;
   double  qi7Odm  =  -192619980;
  unsigned long b373IYv = -659743657;
  unsigned char I41TQK6 = 391947984;
@@ -215,7 +215,7 @@ case 5:
 qjPtv = (int)floor(o_Lw);
 break;
 default:
-ghlqsZ = mxc84aN_((short)731308667, -493032378);
+ghlqsZ = mxc84aN_((short)731308667, (short)-493032378);
 break;
 }
 --j;

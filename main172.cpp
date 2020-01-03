@@ -77,7 +77,7 @@ int main(void)
  short PBEZ;
  PBEZ = (short)-266212354;
     short    TkyLa0VmU2;
-    TkyLa0VmU2    =    -479887914;
+    TkyLa0VmU2    =    (short)-479887914;
     unsigned int    WSdrCdD00;
     WSdrCdD00    =    -1901099629;
  double Ea1QUzz9;

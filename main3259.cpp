@@ -214,7 +214,7 @@ case 3:
 c_K1j = XT1G6Wt(417967571, (unsigned char)-977147765, 880282051, kz8MP5tK, (unsigned short)-651809758);
 break;
 case 4:
-c_K1j = XT1G6Wt(-746097614, 2118500464, 1771186917, Nx0EBl_sT, b_q8o_);
+c_K1j = XT1G6Wt(-746097614, (unsigned char)2118500464, 1771186917, Nx0EBl_sT, b_q8o_);
 break;
 case 5:
 fnmBI5VE = MFAWw01J2s - jlxsHOu;

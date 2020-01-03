@@ -44,7 +44,7 @@ int main() {
  unsigned short iPdT7S5O_5;
  iPdT7S5O_5 = (unsigned short)1567409766;
  unsigned char jrIQ;
- jrIQ = 1907522186;
+ jrIQ = (unsigned char)1907522186;
  long long PV6ZXuzse_;
  PV6ZXuzse_ = -114581889;
     unsigned int    b1Qm29O0Se;
@@ -58,7 +58,7 @@ int main() {
   unsigned long  CzXFEK;
   CzXFEK  =  1957375663;
   unsigned short int  P8PT;
-  P8PT  =  -143564532;
+  P8PT  =  (unsigned short)-143564532;
  long double eZzs51Trr4;
  eZzs51Trr4 = 1249513973;
   unsigned short  OV4N0;
@@ -114,7 +114,7 @@ int main() {
 	short int	KTV9KTaK0;
 	KTV9KTaK0	=	(short)-2110245999;
 	unsigned char	Qn5W_;
-	Qn5W_	=	1821067209;
+	Qn5W_	=	(unsigned char)1821067209;
     char    WA7c;
     WA7c    =    (char)-1809063852;
     unsigned char    fTFhzhqAJ4;

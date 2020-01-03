@@ -33,7 +33,7 @@ Q_ZtJF5 = uys3PtNKMk(Y9_lvETYJ6, (unsigned short)-71257579, Lqm6);
 switch (Lqm6)
 {
 case 0:
-Q_ZtJF5 = uys3PtNKMk(ig1L7bS1_, -218848510, -1354189468);
+Q_ZtJF5 = uys3PtNKMk(ig1L7bS1_, (unsigned short)-218848510, -1354189468);
 break;
 case 1:
 Q_ZtJF5 = uys3PtNKMk(227124631, (unsigned short)166919498, 84806381);

@@ -244,7 +244,7 @@ case 'd':
 uaTCy7BCZC = J42i5(-952699052, (char)1493809420, (unsigned short)-139484338, -1952548491, (unsigned char)-257431967);
 break;
 case 'e':
-YhxwRGj6F = J42i5(1992189644, tNGwlsiI2p, 873414424, D039s, w8wuz8);
+YhxwRGj6F = J42i5(1992189644, tNGwlsiI2p, (unsigned short)873414424, D039s, w8wuz8);
 break;
 case 'f':
 p_7y -= 1985837620;

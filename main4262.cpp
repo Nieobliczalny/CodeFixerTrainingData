@@ -23,7 +23,7 @@ int main()
  T8cfhQVTZ0 = (unsigned short)-2124282719;
  nrbx4pH = (unsigned short)-642443485;
  W7G_I = (unsigned short)-870803232;
- eI8_ = 1706363715;
+ eI8_ = (unsigned short)1706363715;
  yYx2MNx08 = -1480664930;
  Yaws40Wz = -2064624480;
     char    YmR1c,    buqliKoics,    IKF7s37E4,    Ek0zEpT9,    dGax1Epue;

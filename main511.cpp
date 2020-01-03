@@ -592,7 +592,7 @@ std::cout << JdFMoSaG(GG5jR0B5) << s341cgt(366524927, 50912766, (short)314031043
 }
 else if (x__V2G != zWw94S)
 {
-iND93 = pt12y(-1262542333, -732575364);
+iND93 = pt12y(-1262542333, (short)-732575364);
 }
 else if (x__V2G)
 {

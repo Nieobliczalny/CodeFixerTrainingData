@@ -430,7 +430,7 @@ case 2:
 T_I_d5I = wI25((unsigned char)938418168);
 break;
 case 3:
-oemM7e = zs_Q2pGb(oemM7e, (unsigned short)956295568, -140738388, 1908299220);
+oemM7e = zs_Q2pGb(oemM7e, (unsigned short)956295568, (unsigned short)-140738388, 1908299220);
 break;
 case 4:
 Huvs4 = PW_MhwS & oc1D;

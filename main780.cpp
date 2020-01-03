@@ -54,7 +54,7 @@ int main(void)
 
 K6_04MuS_ ^= 756607247;
 
-std::cout << "N9wT" << SG32mlV((unsigned short)-781939918, (unsigned short)-2002386564) << "WYjm3JKbM" << SG32mlV(-1206025119, kzHd1hQ9tO) << std::endl;
+std::cout << "N9wT" << SG32mlV((unsigned short)-781939918, (unsigned short)-2002386564) << "WYjm3JKbM" << SG32mlV((unsigned short)-1206025119, kzHd1hQ9tO) << std::endl;
 YC5zx = (int)ceil(th95c2);
 switch (xL1078D)
 {
@@ -120,7 +120,7 @@ th95c2 = (int)ceil(xfx5p74);
 }
 else
 {
-std::cout << "BoT052nY60" << SG32mlV(729478276, -96256969) << SG32mlV(xfx5p74, 1424986508) << "RpY5l_" << "KN8qBFnxx" << std::endl;
+std::cout << "BoT052nY60" << SG32mlV((unsigned short)729478276, -96256969) << SG32mlV(xfx5p74, 1424986508) << "RpY5l_" << "KN8qBFnxx" << std::endl;
 }
 
 lG3v6zyR = (unsigned int)(mjUq + (2070562487));

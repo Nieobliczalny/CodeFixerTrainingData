@@ -54,7 +54,7 @@ int main(int argc, char** argv)
 	unsigned int	n6463	=	-1119686989;
  unsigned char cku5M8 = (unsigned char)1381494486;
 	unsigned char	J9y96c	=	(unsigned char)-366962111;
-	unsigned short	SugpF2gEE_	=	-503082378;
+	unsigned short	SugpF2gEE_	=	(unsigned short)-503082378;
  unsigned long long Ho6EV8o = 624598974;
 	long	X88p	=	-747381079;
 	float	NH7i5_	=	-569722415;

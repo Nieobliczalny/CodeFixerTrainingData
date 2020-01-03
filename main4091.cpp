@@ -75,7 +75,7 @@ int main(void)
 	unsigned char	PkdYh;
 	PkdYh	=	(unsigned char)1388269636;
     unsigned char    Y5h3D1Uy;
-    Y5h3D1Uy    =    -1828306861;
+    Y5h3D1Uy    =    (unsigned char)-1828306861;
 
 if (PkdYh)
 {
@@ -151,7 +151,7 @@ i_5H7jb = Gg23((short)-1030277304, (short)-208463334, Q6OBCiNouf, r4dB9s);
 }
 else if (((f5Z7W > -557440314) && (r4dB9s <= 1461073927)) && (MGl3s_yI32 != Y5h3D1Uy))
 {
-i_5H7jb = Gg23(715302287, 1690252061, f5Z7W, 1621146401);
+i_5H7jb = Gg23((short)715302287, 1690252061, f5Z7W, 1621146401);
 }
 else
 {
@@ -351,7 +351,7 @@ WKK5SBc05I = (int)ceil(WQ_f);
 break;
 }
 ycul = nVQ26CH46s << PkdYh;
-o1_6 = YQxrjrk2Pb(-1243808985, (short)1488056998, WQ_f, gwTOC752w, bga4mSSXJ) / Gg23(1501126453, OPYF_, 1160429284, 967881591);
+o1_6 = YQxrjrk2Pb(-1243808985, (short)1488056998, WQ_f, gwTOC752w, bga4mSSXJ) / Gg23((short)1501126453, OPYF_, 1160429284, 967881591);
 std::cout << nVQ26CH46s << u5C_(LykULIWf, OPYF_, 807998929) << std::endl;
 try
 {

@@ -43,7 +43,7 @@ int main(int argc, char** argv) {
     char    r0UUex3X4    =    (char)1363422560;
 	double	B300V3m	=	1415445695;
   short  nmRpzd  =  (short)499226329;
-  unsigned short int  qskaPS  =  1084602740;
+  unsigned short int  qskaPS  =  (unsigned short)1084602740;
  short Elf3xiu9nW = -332818959;
   unsigned short  GsVH  =  -837137287;
  long long bm91yR = 1865935251;
@@ -288,7 +288,7 @@ Qf_5DzavZ9 = aWvVz3dHP(682657683, g2qY3Q_3, nAlL0Y);
 }
 else if (((SUtmtc87S6 >= -910781887) || (KxGj3 > C1FOy2M6p)) && (nAlL0Y != F_zUnw))
 {
-SUtmtc87S6 = ws7T_Y7F((short)405383403, (char)-1968861006, (char)2050362784, -960036680, 40833325);
+SUtmtc87S6 = ws7T_Y7F((short)405383403, (char)-1968861006, (char)2050362784, -960036680, (unsigned char)40833325);
 }
 else
 {
@@ -318,7 +318,7 @@ nAlL0Y /= 1360649760;
 }
 SMJJp = ws7T_Y7F((short)1269166114, F_zUnw, (char)1074214159, Elf3xiu9nW, (unsigned char)153213712);
 
-r0UUex3X4 = ws7T_Y7F(1832511873, qskaPS, SMJJp, -405022814, -1766754606);
+r0UUex3X4 = ws7T_Y7F((short)1832511873, qskaPS, SMJJp, -405022814, -1766754606);
 
 switch (bm91yR)
 {

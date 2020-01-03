@@ -35,7 +35,7 @@ int main() {
     unsigned short    OgVf5U;
     OgVf5U    =    (unsigned short)520601580;
 	unsigned short	Pr6Kl;
-	Pr6Kl	=	-1856262353;
+	Pr6Kl	=	(unsigned short)-1856262353;
     unsigned long    HM8V_Uuo;
     HM8V_Uuo    =    1638384632;
   unsigned short int  X5cFobjn0v;
@@ -45,7 +45,7 @@ int main() {
 	unsigned char	DtjQ4xAXI;
 	DtjQ4xAXI	=	(unsigned char)-2006517556;
  unsigned char Du0Y4;
- Du0Y4 = -1502884170;
+ Du0Y4 = (unsigned char)-1502884170;
 	unsigned long	Bp_oB9CD;
 	Bp_oB9CD	=	0;
 	float	PNLQO;
@@ -77,7 +77,7 @@ int main() {
  short bhSXH1;
  bhSXH1 = (short)1138988649;
 	unsigned short int	nRla8r_;
-	nRla8r_	=	1355883503;
+	nRla8r_	=	(unsigned short)1355883503;
   unsigned long long  wCMoFIj;
   wCMoFIj  =  2067972749;
 	char	e1l6m9W;
@@ -123,7 +123,7 @@ int main() {
     short int    H_UC_FD3kk;
     H_UC_FD3kk    =    (short)872982151;
   short int  p2x1k_B1Z4;
-  p2x1k_B1Z4  =  -1198798845;
+  p2x1k_B1Z4  =  (short)-1198798845;
   unsigned short  VmC4j;
   VmC4j  =  (unsigned short)-17042383;
   unsigned int  R2fqQ;
@@ -213,7 +213,7 @@ k49d6 = tv4v8F9((char)-1975664038, HBV8Z, e1l6m9W, oK4jq6W6Z5, BopkNOS);
 }
 else if (d3h9 & 787661848)
 {
-std::cout << d993125n_X << tv4v8F9(Du0Y4, (unsigned char)746069152, 1597025618, (short)834239991, 1644374392) << "S0PGe" << std::endl;
+std::cout << d993125n_X << tv4v8F9(Du0Y4, (unsigned char)746069152, 1597025618, (short)834239991, (unsigned char)1644374392) << "S0PGe" << std::endl;
 }
 else
 {
@@ -330,7 +330,7 @@ switch (nRla8r_)
 {
 case 'a':
 case 'A':
-T8_bGR = tv4v8F9((char)-1862542931, (unsigned char)1292182396, 2127419185, (short)902716628, 1157729946);
+T8_bGR = tv4v8F9((char)-1862542931, (unsigned char)1292182396, 2127419185, (short)902716628, (unsigned char)1157729946);
 break;
 }
 --i;

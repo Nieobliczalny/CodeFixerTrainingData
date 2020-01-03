@@ -24,7 +24,7 @@ int main(int argc, char** argv) {
 	short int	M7Y6ib7	=	0;
 	short int	KZiYVA	=	(short)993711773;
   float  ZGJvY1  =  -812896435;
- unsigned short int x_8NY4yf3 = -342175762;
+ unsigned short int x_8NY4yf3 = (unsigned short)-342175762;
     unsigned long    mH41FgsPC    =    -1250159164;
   long double  GWk568  =  -314920185;
     long long    C042HeN    =    2123650231;
@@ -38,7 +38,7 @@ int main(int argc, char** argv) {
   int  V5WH  =  1157734550;
 	unsigned short	TNCY_0z	=	(unsigned short)747622601;
   long long  oc0CNg6  =  1724385178;
- char qG7zm = 1963839844;
+ char qG7zm = (char)1963839844;
     unsigned short    eofb9Ks    =    -2083654333;
     int    S6rYJYB    =    1080500961;
     unsigned short int    YGDL86    =    (unsigned short)705589712;
@@ -87,7 +87,7 @@ case 8:
 GWk568 = U01yd7B2c((unsigned short)-1513551903, o78_fozn9, -1629669147, (short)559385883, (unsigned char)-1742536478);
 break;
 case 9:
-M7Y6ib7 = nDJgSw(-205438832, 74357579);
+M7Y6ib7 = nDJgSw(-205438832, (short)74357579);
 break;
 default:
 Zp47m99D = U01yd7B2c(Zp47m99D, oSEMY0h8N, 968517697, x_8NY4yf3, -428300690);
@@ -206,7 +206,7 @@ std::cout << "Tw2j0w" << Rf9L4p((short)160035671, c_Q_22Oi7, -425388452, mH41Fgs
 }
 else
 {
-qG7zm = U01yd7B2c((unsigned short)-1650981737, -39427828, 1258498990, B8yQ783, 466550292);
+qG7zm = U01yd7B2c((unsigned short)-1650981737, (unsigned char)-39427828, 1258498990, B8yQ783, 466550292);
 }
 i++;
 }
@@ -385,7 +385,7 @@ case 6:
 TNCY_0z = U01yd7B2c((unsigned short)945182716, (unsigned char)1149496452, qG7zm, o78_fozn9, C042HeN);
 break;
 case 7:
-M7Y6ib7 = nDJgSw(1996603449, 594514121);
+M7Y6ib7 = nDJgSw(1996603449, (short)594514121);
 break;
 case 8:
 qG7zm >>= 1955295481;
@@ -601,7 +601,7 @@ std::cout << "gLKzM8m8e" << S7TBP9 << c_Q_22Oi7 << Rf9L4p(wZUl, 1880032808, YGDL
 
 if ((m4BN8Q__V < 1353352307) && (oc0CNg6 <= c_Q_22Oi7))
 {
-m4BN8Q__V = U01yd7B2c((unsigned short)-231826276, (unsigned char)-994213936, eofb9Ks, (short)1328434701, -122525765);
+m4BN8Q__V = U01yd7B2c((unsigned short)-231826276, (unsigned char)-994213936, eofb9Ks, (short)1328434701, (unsigned char)-122525765);
 }
 else
 {

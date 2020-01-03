@@ -100,7 +100,7 @@ int main() {
   unsigned long  s6M_;
   s6M_  =  1621824844;
   short int  oerV2;
-  oerV2  =  1136636728;
+  oerV2  =  (short)1136636728;
     long double    WHeQq;
     WHeQq    =    1486117556;
 	unsigned short int	Jkj_p9U;
@@ -146,7 +146,7 @@ int main() {
   short  jQLvXX;
   jQLvXX  =  (short)772870850;
 	char	IFd68j_8T;
-	IFd68j_8T	=	-1808778428;
+	IFd68j_8T	=	(char)-1808778428;
     long    L9_w1;
     L9_w1    =    1569055169;
 

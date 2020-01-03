@@ -152,7 +152,7 @@ u8pqZ4 = Wd__7A2(-1796021659, (char)-1058859530, u8pqZ4, (short)-2040448799, -85
 switch (sCDgM)
 {
 case 0:
-sCDgM = (uhz5_5Z < -647682269) ? sCDgM : o_qNh((unsigned short)-376315219, 407125773);
+sCDgM = (uhz5_5Z < -647682269) ? sCDgM : o_qNh((unsigned short)-376315219, (unsigned short)407125773);
 break;
 case 1:
 uhz5_5Z = sCDgM | 459934526;
@@ -512,7 +512,7 @@ break;
 }
 else if (sCDgM != u27tFM)
 {
-u8pqZ4 = Wd__7A2(-1003757819, (char)-745727342, sCDgM, 1294794593, -1305699975);
+u8pqZ4 = Wd__7A2(-1003757819, (char)-745727342, sCDgM, (short)1294794593, -1305699975);
 }
 else if (sCDgM)
 {
@@ -772,7 +772,7 @@ case 'a':
 u8pqZ4 = Wd__7A2(786918823, (char)-1723267212, -1268667616, (short)1422459917, -1698395927);
 break;
 case 'b':
-sCDgM = o_qNh((unsigned short)1161907193, -1961560294);
+sCDgM = o_qNh((unsigned short)1161907193, (unsigned short)-1961560294);
 break;
 case 'c':
 sCDgM = X3Yo_8(sCDgM, u8pqZ4);

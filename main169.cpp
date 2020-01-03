@@ -35,7 +35,7 @@ int main(void)
   unsigned short int  t06nM00s5  =  (unsigned short)31099403;
     long    wKQAOn    =    1024654553;
 	int	QSk01	=	-73852022;
-  short int  BB62rtf  =  -205537154;
+  short int  BB62rtf  =  (short)-205537154;
 
 {
 int i = 0;

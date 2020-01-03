@@ -98,7 +98,7 @@ int main()
   unsigned char  M8m0;
   M8m0  =  (unsigned char)-1110589070;
     char    fbq7;
-    fbq7    =    -733544134;
+    fbq7    =    (char)-733544134;
     int    UuUo3V63H;
     UuUo3V63H    =    -1606906079;
     unsigned char    iq__MYATlz;

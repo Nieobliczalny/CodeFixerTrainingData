@@ -23,7 +23,7 @@ int main(void)
     unsigned short    kSt0OUFx5y;
     kSt0OUFx5y    =    (unsigned short)-966077444;
  unsigned short nEfF3_;
- nEfF3_ = -980052258;
+ nEfF3_ = (unsigned short)-980052258;
     unsigned long    OARHpkrD;
     OARHpkrD    =    1593850867;
   double  iiWi30jE4w;

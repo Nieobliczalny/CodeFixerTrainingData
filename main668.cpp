@@ -113,7 +113,7 @@ int main(int argc, char** argv)
   short  k1Gc2q;
   k1Gc2q  =  (short)-1588256004;
 	short int	q__ia5C6q;
-	q__ia5C6q	=	-911903923;
+	q__ia5C6q	=	(short)-911903923;
 	long	sU_t4B8;
 	sU_t4B8	=	-306588307;
     unsigned char    qx2P4h;
@@ -302,7 +302,7 @@ while (i < 10);
 xhQjkvpkLB = rR0_(1518970094, 2026879139, EaTb_pOw91) / EaTb_pOw91;
 fl9Np90 = (qx2P4h >= AwU0) ? rR0_(M0938, zyrDes7, 1722528753) : m4ry_kW7c(M0938, (unsigned short)1328629112);
 
-std::cout << m4ry_kW7c((short)-611740512, zyrDes7) << m4ry_kW7c(M0938, zyrDes7) << qZ4w << m4ry_kW7c((short)1104056296, 1865975891) << "WKrD2FD" << std::endl;
+std::cout << m4ry_kW7c((short)-611740512, zyrDes7) << m4ry_kW7c(M0938, zyrDes7) << qZ4w << m4ry_kW7c((short)1104056296, (unsigned short)1865975891) << "WKrD2FD" << std::endl;
 
 return 0;
 }

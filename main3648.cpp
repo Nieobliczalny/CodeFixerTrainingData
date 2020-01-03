@@ -81,7 +81,7 @@ int main()
 	short int	Om3lGy3_ba;
 	Om3lGy3_ba	=	(short)-601126417;
 	unsigned char	K8y8;
-	K8y8	=	1579459809;
+	K8y8	=	(unsigned char)1579459809;
  unsigned short tN_Y_KoN;
  tN_Y_KoN = 1474621457;
   long  PC3sibQVS;

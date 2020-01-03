@@ -19,7 +19,7 @@ int main(void) {
  unsigned short int Oc74gOeL8W;
  Oc74gOeL8W = (unsigned short)-1831808236;
 	unsigned short int	nbYI;
-	nbYI	=	-1779486675;
+	nbYI	=	(unsigned short)-1779486675;
  long double vvXk;
  vvXk = 243908679;
 	unsigned char	iF5Bk942q;
@@ -59,7 +59,7 @@ int main(void) {
     unsigned short int    O2gio6SAU_;
     O2gio6SAU_    =    (unsigned short)1621927699;
     char    IJ8kGRa;
-    IJ8kGRa    =    1449339135;
+    IJ8kGRa    =    (char)1449339135;
     short int    UkGHbi;
     UkGHbi    =    536875681;
 	unsigned long long	x27kfV;

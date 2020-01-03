@@ -69,7 +69,7 @@ int main()
   short  Ugb41C1T;
   Ugb41C1T  =  (short)-2080487062;
   short  oe84;
-  oe84  =  -1427267967;
+  oe84  =  (short)-1427267967;
  short Aufp1l;
  Aufp1l = (short)-852268140;
   unsigned char  p8_e;
@@ -145,7 +145,7 @@ int main()
 	unsigned char	X7IH1dEc;
 	X7IH1dEc	=	0;
 	unsigned short	bK_9Fd9;
-	bK_9Fd9	=	-109569939;
+	bK_9Fd9	=	(unsigned short)-109569939;
 	unsigned short	z5D54UQ;
 	z5D54UQ	=	(unsigned short)1789946978;
  unsigned short nCPQw8f;
@@ -175,7 +175,7 @@ int main()
  short NDmTM63_;
  NDmTM63_ = (short)1043610013;
     short    I_cWlaoL;
-    I_cWlaoL    =    1212428570;
+    I_cWlaoL    =    (short)1212428570;
     short    n5FIb91;
     n5FIb91    =    546534891;
   short int  bKOp_FQRZ2;

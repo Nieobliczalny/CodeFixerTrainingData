@@ -28,7 +28,7 @@ int main(void) {
  char ddDT5eXE9B;
  ddDT5eXE9B = (char)556888944;
     unsigned char    yZ6JHQ;
-    yZ6JHQ    =    1323505757;
+    yZ6JHQ    =    (unsigned char)1323505757;
     long long    w0S6xG_97;
     w0S6xG_97    =    1958272949;
     unsigned long    J__uzL8Q5;

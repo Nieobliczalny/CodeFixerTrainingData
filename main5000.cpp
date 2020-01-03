@@ -35,7 +35,7 @@ int main(void) {
   unsigned short  i_Cu2_R0;
   i_Cu2_R0  =  (unsigned short)-804382763;
  unsigned short Hb_9Yk;
- Hb_9Yk = -1682382687;
+ Hb_9Yk = (unsigned short)-1682382687;
   char  tM2Ha_;
   tM2Ha_  =  (char)-432921309;
 	int	yq3IsW;
@@ -167,7 +167,7 @@ int main(void) {
     short int    G18lXY;
     G18lXY    =    (short)1809676917;
   char  NG4M_3W;
-  NG4M_3W  =  -223314685;
+  NG4M_3W  =  (char)-223314685;
     unsigned long    pA0zxKK6x;
     pA0zxKK6x    =    2013891642;
   unsigned char  xi9eZ8;
@@ -177,7 +177,7 @@ int main(void) {
 	short	npJVo9NH;
 	npJVo9NH	=	(short)463992910;
   short int  V3Ci;
-  V3Ci  =  -872734236;
+  V3Ci  =  (short)-872734236;
 	long double	MdSR;
 	MdSR	=	2021107303;
   unsigned short  RbjAyl;
@@ -189,7 +189,7 @@ int main(void) {
 	unsigned short int	J_Ha06ia1;
 	J_Ha06ia1	=	(unsigned short)222936012;
 	short	y0q8;
-	y0q8	=	969697226;
+	y0q8	=	(short)969697226;
  int T_3c8djW;
  T_3c8djW = 1271348660;
     long long    sX_YzC;

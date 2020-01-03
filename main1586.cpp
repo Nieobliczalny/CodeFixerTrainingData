@@ -51,7 +51,7 @@ int main(int argc, char** argv) {
 	long double	Vi9I3btRg;
 	Vi9I3btRg	=	9188022;
   unsigned char  S_w2a;
-  S_w2a  =  245426958;
+  S_w2a  =  (unsigned char)245426958;
     unsigned int    HfoB8fsd8d;
     HfoB8fsd8d    =    196594418;
     float    qbgVzzJ;
@@ -147,7 +147,7 @@ U34FzX5 = (int)abs(j397lF2);
 }
 else if (kv7w & 330931378)
 {
-nrbxlT4i = f1545di(nrbxlT4i, kv7w, Qv0ha0, fc_X, 125502769);
+nrbxlT4i = f1545di(nrbxlT4i, kv7w, Qv0ha0, fc_X, (unsigned char)125502769);
 }
 else if (o5c7clbA)
 {

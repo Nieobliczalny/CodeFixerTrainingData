@@ -44,7 +44,7 @@ int main() {
 	short	w2z69bQtTw	=	(short)-1627497557;
  int QjYwa = -1472228975;
  unsigned long k6mEY9p36 = -1040634856;
-  short int  Q2z6m  =  1945270977;
+  short int  Q2z6m  =  (short)1945270977;
 	unsigned int	Z8pSN1Nprs	=	1911297881;
     unsigned int    TwWjMobf6    =    -217066258;
 	unsigned int	Bzrs7cX	=	1544541958;
@@ -57,7 +57,7 @@ int main() {
 	float	s5oz0fT	=	1443706929;
     long double    kUigQrgNdB    =    856131357;
  int mp7hM = 196065006;
-	char	MqMKE2	=	1143238973;
+	char	MqMKE2	=	(char)1143238973;
  long Yloca3 = 0;
     unsigned char    IADET    =    (unsigned char)674591619;
  unsigned short int smExj7ydE = -1227580912;
@@ -77,7 +77,7 @@ int main() {
 	double	pu_Vj656	=	-343908569;
     unsigned short    MTRq3w_    =    (unsigned short)1002362359;
  long long iKACvK = -1730300722;
-  unsigned short  usyA  =  -968581789;
+  unsigned short  usyA  =  (unsigned short)-968581789;
     long double    zOe1Ka4ww    =    616474697;
  unsigned char d8p4XL = (unsigned char)-1089174437;
 	long	toowd	=	-2060462184;
@@ -88,7 +88,7 @@ int main() {
     unsigned char    owOfgk2V    =    (unsigned char)-1771672470;
     unsigned short int    ny9tvQF    =    813457717;
   int  w5Tkwh  =  747720298;
-  char  jQ_wRUsH  =  61628818;
+  char  jQ_wRUsH  =  (char)61628818;
  long double v2PQLMaV = 1407956039;
 	char	Vb1btqi2m	=	(char)864851117;
     unsigned char    rqc2qr3n    =    1702639740;
@@ -260,7 +260,7 @@ Yloca3 = tK88O((short)-446985892, (unsigned short)-387338422, zOe1Ka4ww);
 
 jQ_wRUsH = -724526093 / tK88O((short)-91517968, QR31yZ5sc, -1532785230);
 
-w5Tkwh = (K2d9o5 > 1132579424) ? jQ_wRUsH : b56pAC2y(Yloca3, 1778470869, -88793318);
+w5Tkwh = (K2d9o5 > 1132579424) ? jQ_wRUsH : b56pAC2y(Yloca3, (short)1778470869, -88793318);
 
 s5oz0fT = (int)ceil(kUigQrgNdB);
 
@@ -435,7 +435,7 @@ S6rYKWHs = b56pAC2y(-772004068, (short)1393453674, (unsigned short)-371274418);
 break;
 case 'e':
 case 'E':
-Z4j9b = b56pAC2y(Z4j9b, 1549039505, -1737456235);
+Z4j9b = b56pAC2y(Z4j9b, (short)1549039505, -1737456235);
 break;
 case 'f':
 case 'F':

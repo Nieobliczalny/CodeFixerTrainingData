@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
  unsigned char lMfIN;
  lMfIN = (unsigned char)-1144087006;
  unsigned char YW2yh2f;
- YW2yh2f = -1264083047;
+ YW2yh2f = (unsigned char)-1264083047;
  unsigned char bdmQV26yzS;
  bdmQV26yzS = 568632657;
     short    f3Bftgn6s;
@@ -56,7 +56,7 @@ int main(int argc, char** argv) {
   unsigned char  s3HGe1;
   s3HGe1  =  (unsigned char)283173476;
     short int    Pb84l;
-    Pb84l    =    -511861838;
+    Pb84l    =    (short)-511861838;
     short    D9k6_ooz;
     D9k6_ooz    =    -1872618233;
     char    VyT1;
@@ -78,7 +78,7 @@ int main(int argc, char** argv) {
 	short int	M95ZlcfyX2;
 	M95ZlcfyX2	=	(short)-451531156;
 	unsigned short	KBJanm3TG1;
-	KBJanm3TG1	=	833708063;
+	KBJanm3TG1	=	(unsigned short)833708063;
  float mK2vm3Pyl;
  mK2vm3Pyl = 1481720013;
  unsigned short int iw1qLe;
@@ -414,7 +414,7 @@ case 2:
 eoEq7qWW = (int)abs(F6G_lCR9);
 break;
 case 3:
-YW2yh2f = ust96d(848724954, Pb84l, -1892777339, -2004113987, 120235770);
+YW2yh2f = ust96d((unsigned short)848724954, Pb84l, -1892777339, -2004113987, 120235770);
 break;
 case 4:
 F6G_lCR9 = (int)abs(M95ZlcfyX2);

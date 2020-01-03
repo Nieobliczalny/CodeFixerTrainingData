@@ -17,7 +17,7 @@ int main() {
 	unsigned short	erawbctm	=	(unsigned short)1565645048;
   unsigned long  b_m_gT64S0  =  -1414447592;
     unsigned int    Fkj081_    =    -678821868;
-	unsigned short	VH2my62C5	=	585705088;
+	unsigned short	VH2my62C5	=	(unsigned short)585705088;
 	long	P7q_D6310U	=	-1439035153;
     float    mu4n    =    1883904943;
   short int  UJJzc  =  846045078;
@@ -29,7 +29,7 @@ int main() {
   unsigned short  puO4k0A  =  (unsigned short)498013917;
   short  J2ODU3r  =  (short)-1899439904;
     char    ktU956Ff    =    (char)-1291535289;
-	unsigned short int	WcT2	=	-1710487317;
+	unsigned short int	WcT2	=	(unsigned short)-1710487317;
  unsigned short int z8_95L3d2r = 1045384454;
 	char	GsJ_97j8J6	=	408345884;
     float    cf1EA    =    -31498977;
@@ -49,7 +49,7 @@ int main() {
     unsigned char    y3hLK_m6wn    =    (unsigned char)1429795407;
   unsigned long long  DRvug  =  1648538023;
  unsigned short COw6mhD = (unsigned short)539429625;
-    unsigned char    dCm_J    =    -1682066185;
+    unsigned char    dCm_J    =    (unsigned char)-1682066185;
   long  FddKp6n  =  -233071287;
     long    xs3dk8_Ss    =    262525754;
   unsigned long  zXoAJ6SW1  =  0;
@@ -102,7 +102,7 @@ E8sy7P713 = KWb_x((unsigned char)-2022693060, (short)1983951959, -2078978153, 53
 }
 else if (uLo1 < 1713837369)
 {
-zXoAJ6SW1 = KWb_x(-1095166651, -17739208, xs86, DD3p, -769976729);
+zXoAJ6SW1 = KWb_x((unsigned char)-1095166651, -17739208, xs86, DD3p, -769976729);
 }
 else if (((jzSYjl_ != Dcr6UMc) && (UnLq == y3hLK_m6wn)) && (dCm_J != jE6IL))
 {
@@ -148,7 +148,7 @@ cf1EA = a93Y_3 | uLo1;
 break;
 }
 p2VtN = (int)floor(K5_I0S7Y);
-std::cout << KWb_x((unsigned char)-1702756170, jE6IL, 1421841307, -530634872, 1956496877) << std::endl;
+std::cout << KWb_x((unsigned char)-1702756170, jE6IL, 1421841307, -530634872, (short)1956496877) << std::endl;
 WY0WuR5St = (int)ceil(ThE0_0hy);
 if (P7q_D6310U == 511484304)
 {
@@ -188,7 +188,7 @@ Hmnz3mcm75 = KWb_x((unsigned char)-819317364, (short)-1149992807, -1151919568, -
 break;
 case 'i':
 case 'I':
-jzSYjl_ = KWb_x(mu4n, (short)-110686356, -1434348342, -528701127, 604182648);
+jzSYjl_ = KWb_x(mu4n, (short)-110686356, -1434348342, -528701127, (short)604182648);
 break;
 case 'j':
 case 'J':
@@ -433,7 +433,7 @@ case 3:
 K5_I0S7Y = (int)floor(waqT);
 break;
 case 4:
-jzSYjl_ = KWb_x((unsigned char)985718516, (short)-432332894, jE6IL, 2032893381, -1663526307);
+jzSYjl_ = KWb_x((unsigned char)985718516, (short)-432332894, jE6IL, 2032893381, (short)-1663526307);
 break;
 case 5:
 DRvug %= DD3p;

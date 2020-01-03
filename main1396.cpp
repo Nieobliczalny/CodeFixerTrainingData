@@ -47,7 +47,7 @@ int main(int argc, char** argv) {
  char WLBB7w4L;
  WLBB7w4L = (char)-1961869806;
   unsigned short int  POo6_6gf1G;
-  POo6_6gf1G  =  706621837;
+  POo6_6gf1G  =  (unsigned short)706621837;
     unsigned int    y0L4eIwKV4;
     y0L4eIwKV4    =    0;
     float    XXBa;
@@ -87,7 +87,7 @@ int main(int argc, char** argv) {
  char G5HPExu7eQ;
  G5HPExu7eQ = (char)-559493423;
   unsigned char  Cvk4_BG6;
-  Cvk4_BG6  =  -1142844734;
+  Cvk4_BG6  =  (unsigned char)-1142844734;
     unsigned short    j06N4Zfa;
     j06N4Zfa    =    (unsigned short)-615888934;
     char    Sq7AsTf;
@@ -109,7 +109,7 @@ int main(int argc, char** argv) {
 	unsigned short	x57pS8410F;
 	x57pS8410F	=	(unsigned short)-562668684;
     unsigned short    H3VW;
-    H3VW    =    50666867;
+    H3VW    =    (unsigned short)50666867;
 	unsigned short int	vE_G4K3;
 	vE_G4K3	=	-1066388438;
     long long    Bn_Id2ja;

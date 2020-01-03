@@ -66,7 +66,7 @@ int main(void) {
     unsigned short    V4k3a78X;
     V4k3a78X    =    (unsigned short)143396086;
 	unsigned short	Mc4q_soZ9;
-	Mc4q_soZ9	=	1575424560;
+	Mc4q_soZ9	=	(unsigned short)1575424560;
 	unsigned char	DhpiHhaG;
 	DhpiHhaG	=	-689066875;
 	unsigned char	V9kOyhWW;
@@ -166,7 +166,7 @@ int main(void) {
   char  NC4U_;
   NC4U_  =  (char)1673542654;
     unsigned char    OTy67nk56Q;
-    OTy67nk56Q    =    2065793875;
+    OTy67nk56Q    =    (unsigned char)2065793875;
   char  OIhGW3aG2f;
   OIhGW3aG2f  =  (char)-2076578193;
  long JgrDJcT;
@@ -274,7 +274,7 @@ Usatuzix = E2I2f7wJ((short)159327632, (char)1760248057);
 }
 }
 
-std::cout << R4i1g_1hH((unsigned char)-1726691236) << V4k3a78X << "wj8xCG6t" << E2I2f7wJ(-1173760921, 336921344) << std::endl;
+std::cout << R4i1g_1hH((unsigned char)-1726691236) << V4k3a78X << "wj8xCG6t" << E2I2f7wJ((short)-1173760921, 336921344) << std::endl;
 
 C95p526i = (float)(aop_8yMy7);
 switch (IAg3j4)

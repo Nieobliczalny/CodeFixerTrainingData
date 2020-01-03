@@ -31,7 +31,7 @@ int main() {
  yZRBe2 = (short)-677725000;
  tSoQfJMc = (short)646846399;
  dpV1L = (short)-1044462076;
- u0X9zG_ = 387550236;
+ u0X9zG_ = (short)387550236;
  Gv42c1 = 1816881915;
  nnPhr = -331422951;
  yIcfrD = 1889396305;
@@ -41,7 +41,7 @@ int main() {
  ch8G = (short)-799769814;
  I4I8ou = (short)1886465971;
  sS4k7gI = (short)1541451526;
- L86cOV2YP = 2008883426;
+ L86cOV2YP = (short)2008883426;
  g4dvk00 = 1415274989;
  AFfq1F = 1930457664;
  a8RLU = -870031138;
@@ -51,7 +51,7 @@ int main() {
  oGBa = (short)2059118102;
  d65wN = (short)-739427713;
  ZL7q4ZEa6 = (short)-70063970;
- klkgYh9sBt = -1521629974;
+ klkgYh9sBt = (short)-1521629974;
  es61KiVQ1N = -1327904753;
  b24R3CK = 350247981;
  pO02eu9a44 = 1421060024;
@@ -61,7 +61,7 @@ int main() {
  s5kTC1 = (short)1195396167;
  TMiGG_k6_ = (short)-858972426;
  s3HVu66Aq = (short)1816316830;
- R9O5j = -701128282;
+ R9O5j = (short)-701128282;
  P5339 = 1430671142;
  P4t68L6IXN = -737725794;
  ycWkXH = 565518433;
@@ -71,7 +71,7 @@ int main() {
  qCVpcYBXs = (short)1352807790;
  UH_2LGU25z = (short)-1116798984;
  COjywZ_F7F = (short)-965716756;
- g390bqdy = -1847213074;
+ g390bqdy = (short)-1847213074;
  i6CwX7w9 = 1522621973;
  W23S9 = 1393420448;
  vGarCg2 = 1047663072;
@@ -81,7 +81,7 @@ int main() {
  WI25iy_ = (short)2095884592;
  Ly8o8DY = (short)340727191;
  i714_S6X_6 = (short)877018803;
- qn39gTJ0R = -387107563;
+ qn39gTJ0R = (short)-387107563;
  QkIM = -468161275;
  I9heDJ1 = -1970601490;
  toy1Pj_K = -1573921277;
@@ -91,7 +91,7 @@ int main() {
  VvYDpnmb = (short)-1696971703;
  sXCcFs_i = (short)1938225222;
  Hqe9RcV2 = (short)426439464;
- a2K21bo2C0 = 71828675;
+ a2K21bo2C0 = (short)71828675;
  s7xPS9 = -139434621;
  bSjy = -125975361;
  ydL5 = -484805139;
@@ -101,7 +101,7 @@ int main() {
  IEymUq9pOs = (short)-322588422;
  gd4lPUM = (short)36188648;
  yhfFSI4_ = (short)-2117678778;
- h_i81 = 1320261483;
+ h_i81 = (short)1320261483;
  W7X6dW = 1711554220;
  k61A_39tl = 1717900049;
  U5Pt8 = 903810294;
@@ -111,7 +111,7 @@ int main() {
  VJlP = (short)562350642;
  aUM22rBU6 = (short)280637288;
  q34Yx8 = (short)-548063351;
- B_8_qD4wZ = 903306795;
+ B_8_qD4wZ = (short)903306795;
  s8AiXD = 378731905;
  L832J9g = 1614951635;
  uR_Y = 1739906990;

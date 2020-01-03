@@ -217,7 +217,7 @@ else if (R5Fc5_ < Jc_Ma3O716)
 int k = 0;
 do
 {
-YTh8 = X9rOhl(Q1_lsiw4O, Vc89k3_6Y, (char)-254077746, 1443422522);
+YTh8 = X9rOhl(Q1_lsiw4O, Vc89k3_6Y, (char)-254077746, (unsigned short)1443422522);
 k++;
 }
 while (k < 8);
@@ -381,7 +381,7 @@ case 2:
 Xl52 = X9rOhl(whQpRFmB, R5Fc5_, (char)1864593328, (unsigned short)1565318077);
 break;
 case 3:
-Wq60ny_n = X9rOhl((char)-775400079, A_d1L_a39, WiLU, 1749704490);
+Wq60ny_n = X9rOhl((char)-775400079, A_d1L_a39, WiLU, (unsigned short)1749704490);
 break;
 case 4:
 Wq60ny_n = X9rOhl(f6_WKv7Qo, 222421689, x1xB2hI2, B_spGq5);
@@ -399,7 +399,7 @@ else
 {
 if (h6E3iBv9 < Jc_Ma3O716)
 {
-Wq60ny_n = X9rOhl((char)884293276, -1372666130, -275869091, 877168478);
+Wq60ny_n = X9rOhl((char)884293276, -1372666130, (char)-275869091, 877168478);
 }
 else
 {
@@ -555,7 +555,7 @@ else
 std::cout << "HIhg0655g" << X9rOhl((char)1117337619, b6UvLt85x, (char)1489703969, QSRjqb) << "aZ12c38c" << "DRy1X6B1Qa" << "SXW72" << std::endl;
 }
 
-YTh8 = X9rOhl((char)-375004581, lA00Mk5, bKR2B3zIH, 470710783);
+YTh8 = X9rOhl((char)-375004581, lA00Mk5, bKR2B3zIH, (unsigned short)470710783);
 
 {
 int i = 10;

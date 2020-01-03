@@ -111,7 +111,7 @@ break;
 }
 }
 }
-cout << "dsq2Fa7" << Hh92w(i9R5I, r_8HV_P, (unsigned short)147700416) << "vx_n218A8" << Su2_sL(-1171142250, r_8HV_P, 1364297650, 140505457) << endl;
+cout << "dsq2Fa7" << Hh92w(i9R5I, r_8HV_P, (unsigned short)147700416) << "vx_n218A8" << Su2_sL(-1171142250, r_8HV_P, 1364297650, (unsigned char)140505457) << endl;
 
 {
 int i = 10;

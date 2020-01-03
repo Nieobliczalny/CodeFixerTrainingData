@@ -55,7 +55,7 @@ int main() {
  char yB3Qf;
  yB3Qf = (char)315816995;
   unsigned short  UUoqbxO_;
-  UUoqbxO_  =  -1687192801;
+  UUoqbxO_  =  (unsigned short)-1687192801;
   unsigned long  dk457n4;
   dk457n4  =  -1091109969;
     unsigned char    J9864gM;

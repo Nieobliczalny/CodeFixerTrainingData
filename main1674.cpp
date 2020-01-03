@@ -261,7 +261,7 @@ case 'f':
 a5R6HTdM71 = Kw4cas__F_(KPjLhF3, (short)383812028) | BYIUN_;
 break;
 case 'g':
-u1fBxUZ = Kw4cas__F_(-946772514, -961919401);
+u1fBxUZ = Kw4cas__F_((unsigned short)-946772514, -961919401);
 break;
 default:
 wArx = v79oNa4G ^ 1707571564;
@@ -294,7 +294,7 @@ case 0:
 VcolBNuXD = I2WYjkbSPe(BS97eEL, cuED, (short)-2003226140, (unsigned short)-961503307, v79oNa4G);
 break;
 case 1:
-U7RG__s = I2WYjkbSPe(1652953327, v79oNa4G, (short)1692233806, -1610127996, YAfFt_xi);
+U7RG__s = I2WYjkbSPe(1652953327, v79oNa4G, (short)1692233806, (unsigned short)-1610127996, YAfFt_xi);
 break;
 case 2:
 IP0yJ0t = sWdp(IP0yJ0t, -389781639);
@@ -330,7 +330,7 @@ VcolBNuXD = I2WYjkbSPe(n7T5_, 149151639, (short)1962445439, (unsigned short)-175
 i--;
 }
 }
-std::cout << "qwqdzh081" << wyFyWrv_ << "lArxq12Y" << Kw4cas__F_(n7T5_, 688348017) << std::endl;
+std::cout << "qwqdzh081" << wyFyWrv_ << "lArxq12Y" << Kw4cas__F_(n7T5_, (short)688348017) << std::endl;
 try
 {
 std::cout << I2WYjkbSPe(755188074, -1079745198, VcolBNuXD, zJk5s3, by9ZzUIU3o) << zk3oGT06W3 << sWdp(n7T5_, b9TrE91t0) << std::endl;

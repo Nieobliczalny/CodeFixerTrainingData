@@ -20,7 +20,7 @@ int main(void) {
   int  zVrM8QPcKE  =  0;
   int  rNLME3  =  -1316226348;
  short gZNqJT65 = (short)-1578215377;
- unsigned short int i3Im6 = -1264704837;
+ unsigned short int i3Im6 = (unsigned short)-1264704837;
 	unsigned long	X72Y3oD	=	-783178578;
     long    u26Fw5w    =    -1777971374;
 	unsigned char	y6u5QS	=	-1788612918;
@@ -33,7 +33,7 @@ int main(void) {
     float    Sk975    =    -453650662;
  char UtCoWY = (char)-889132648;
  int E5_qHLx = 1114939945;
-	unsigned short int	peQXA8HXrd	=	402937096;
+	unsigned short int	peQXA8HXrd	=	(unsigned short)402937096;
   short int  acH5g9  =  -1096839631;
     unsigned long    y1_2v4C    =    532868021;
  unsigned long K59MZ = 710637584;
@@ -46,7 +46,7 @@ int main(void) {
   long long  WJ8R  =  -1440115151;
  short int yMADFWmvi = (short)-1371343692;
  int OX4Zzjx4Ss = 588350585;
- short int iGFt_V0eI = 1154020063;
+ short int iGFt_V0eI = (short)1154020063;
   int  b3N8q8KBOc  =  250174182;
 	short int	QJM04	=	-176071017;
 	char	G4wu3476g	=	(char)-1203051428;
@@ -271,7 +271,7 @@ E5_qHLx = (iOt_vw & zVrM8QPcKE) ? 1747180131 : d1d2eDBls;
 std::cout << J4lRv(316133305, (unsigned char)-772030011, (short)1790723611, acH5g9, E5_qHLx) << J4lRv(zVrM8QPcKE, UtCoWY, K59MZ, acH5g9, 1193843161) << i3Im6 << J4lRv(837661169, UtCoWY, (short)1598920621, acH5g9, E5_qHLx) << WJ8R << std::endl;
 
 std::cout << "IOoTr" << rC6n1YrW() << vVC_3j << "Udt_f" << std::endl;
-std::cout << rC6n1YrW() << J4lRv(zVrM8QPcKE, 2022375047, K59MZ, acH5g9, 545737869) << std::endl;
+std::cout << rC6n1YrW() << J4lRv(zVrM8QPcKE, (unsigned char)2022375047, K59MZ, acH5g9, 545737869) << std::endl;
 
 Alw2aPe = (int)abs(Fz9R);
 b3N8q8KBOc = (int)(iceUiW0 + (1816501970));

@@ -46,7 +46,7 @@ int main() {
  double ZWIiP2 = -656651911;
     unsigned short int    F21777    =    (unsigned short)1984093496;
 	unsigned long long	wB9ZSj	=	452986788;
- short Zye_ = -1164079684;
+ short Zye_ = (short)-1164079684;
  unsigned long dO6sk = 1021706364;
   long long  gRF03JL794  =  -15968938;
  unsigned long RVYS1v8Ye = 596361969;
@@ -62,7 +62,7 @@ int main() {
 	long	dlbduqmNk	=	1522056764;
  unsigned short int ssx4h = (unsigned short)1515865135;
  unsigned short int UD8rM9 = (unsigned short)420676777;
-    unsigned char    uhTeRmDM    =    1462707942;
+    unsigned char    uhTeRmDM    =    (unsigned char)1462707942;
 	unsigned int	faSy	=	1620206901;
  unsigned long long TlCtqSl = -553243792;
     unsigned long    ge2qM    =    -1587576558;
@@ -79,7 +79,7 @@ int main() {
 	int	vd635	=	0;
     unsigned short    F_Bcz2iX    =    (unsigned short)561641832;
   double  G0kqXDJ  =  456704776;
- unsigned char Q8qUk_mUf_ = -321865756;
+ unsigned char Q8qUk_mUf_ = (unsigned char)-321865756;
  short uw8R9U6p95 = -1158126593;
   char  dXqIBJH  =  (char)-1404151977;
 
@@ -125,7 +125,7 @@ i++;
 ge2qM = Ffpi9F17 + 1347563884;
 if (fl7GNKJ2O6(1119107340, (unsigned char)310350313, Ffpi9F17, (short)-1876859990, 1600349972) == 0)
 {
-	ztcsy = ViGgXe4 / fl7GNKJ2O6(1119107340, (unsigned char)310350313, Ffpi9F17, -1876859990, 1600349972);
+	ztcsy = ViGgXe4 / fl7GNKJ2O6(1119107340, (unsigned char)310350313, Ffpi9F17, (short)-1876859990, 1600349972);
 }
 
 K258 = (int)floor(N0gEIew);
@@ -194,7 +194,7 @@ i++;
 }
 std::cout << wKHtU7X6 << Xc17(FSQjg4, FRVc6UoD, (unsigned short)-1594379112, (unsigned short)-1094656279, 337752495) << std::endl;
 
-std::cout << ge2qM << Xc17(-90260289, FRVc6UoD, (unsigned short)-908547988, -143600261, RVYS1v8Ye) << N33JWl() << std::endl;
+std::cout << ge2qM << Xc17(-90260289, FRVc6UoD, (unsigned short)-908547988, (unsigned short)-143600261, RVYS1v8Ye) << N33JWl() << std::endl;
 switch (Lz0j7)
 {
 case 0:

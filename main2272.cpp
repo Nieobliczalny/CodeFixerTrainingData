@@ -251,7 +251,7 @@ break;
 }
 }
 
-std::cout << BVKa4(-2035226371, tAu51d) << BVKa4(1069915667, 1359844581) << std::endl;
+std::cout << BVKa4((char)-2035226371, tAu51d) << BVKa4(1069915667, 1359844581) << std::endl;
 uszXm = N8O32KD * 537958020;
 
 {
@@ -370,7 +370,7 @@ ymVT153k08 = U6_i5_va(ymVT153k08, 1564404610, (char)988529824, uJmD);
 }
 else
 {
-B_5h_n = H_0AwI4wUa((unsigned char)-539018328, (unsigned short)1123011012, -959171477, 761037409, -827343968);
+B_5h_n = H_0AwI4wUa((unsigned char)-539018328, (unsigned short)1123011012, (unsigned char)-959171477, 761037409, -827343968);
 }
 }
 else if (m9y08_9zh < 259831995)

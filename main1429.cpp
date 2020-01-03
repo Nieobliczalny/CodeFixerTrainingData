@@ -317,7 +317,7 @@ case 'c':
 y58O_sg0 = DyB60 - 1135274221;
 break;
 case 'd':
-jwVStgj9xj = B2p597(jwVStgj9xj, -618565241, 2047840686, ejA5smID, 127944995);
+jwVStgj9xj = B2p597(jwVStgj9xj, (short)-618565241, 2047840686, ejA5smID, 127944995);
 break;
 default:
 V7g2I8jo = grlEnD30H % sa4182W;
@@ -371,7 +371,7 @@ eT949_ = bfVhVi8Q8(1798552065, IIEs6OFEJ, -980575868, -794851470);
 break;
 case 'b':
 case 'B':
-Sh7nBF = B2p597((unsigned short)623814661, (short)1135260696, 2142366822, (unsigned short)1167721724, -1216964317);
+Sh7nBF = B2p597((unsigned short)623814661, (short)1135260696, 2142366822, (unsigned short)1167721724, (unsigned char)-1216964317);
 break;
 case 'c':
 case 'C':
@@ -491,7 +491,7 @@ cout << "y1hWhKc2" << A_C3aP << "Wfos345JLq" << endl;
 switch (y58O_sg0)
 {
 case 'a':
-DyB60 = B2p597((unsigned short)876356256, (short)-1398498333, 982218792, (unsigned short)522028528, -1284496110);
+DyB60 = B2p597((unsigned short)876356256, (short)-1398498333, 982218792, (unsigned short)522028528, (unsigned char)-1284496110);
 break;
 case 'b':
 Z0X3m = (int)abs(X9t9l);

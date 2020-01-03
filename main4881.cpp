@@ -250,7 +250,7 @@ case 'd':
 hNR2Bf0_H = kOrOc + NQzQQn;
 break;
 case 'e':
-nE0c = zApEZ((short)-1161561693, -200060595);
+nE0c = zApEZ((short)-1161561693, (unsigned char)-200060595);
 break;
 case 'f':
 nE0c >>= 241833120;
@@ -294,7 +294,7 @@ case 7:
 EY1_1fR1 = YOCFe();
 break;
 default:
-Lr6p3b6 = bJJ726wEU1((short)-244566098, vFMk6mFy, (unsigned short)841870535, 42866826);
+Lr6p3b6 = bJJ726wEU1((short)-244566098, vFMk6mFy, (unsigned short)841870535, (unsigned char)42866826);
 break;
 }
 }
@@ -315,7 +315,7 @@ case 2:
 HK1f = bJJ726wEU1((short)160188598, (char)-323580584, fZTIaQ9j2B, (unsigned char)-1479067477);
 break;
 case 3:
-D4f7 = zApEZ(D4f7, 1246710472);
+D4f7 = zApEZ(D4f7, (unsigned char)1246710472);
 break;
 case 4:
 XQHlB3ormb = YOCFe();
@@ -559,7 +559,7 @@ vOmipctr = bJJ726wEU1(vOmipctr, (char)-1283415027, (unsigned short)-1859638772, 
 break;
 case 'c':
 case 'C':
-zdy6E = bJJ726wEU1((short)-2052893630, jMozvw, -1800234861, Lr6p3b6);
+zdy6E = bJJ726wEU1((short)-2052893630, jMozvw, (unsigned short)-1800234861, Lr6p3b6);
 break;
 case 'd':
 case 'D':

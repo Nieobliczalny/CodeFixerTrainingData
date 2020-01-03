@@ -51,7 +51,7 @@ int main(int argc, char** argv)
     char    fs0_6kY;
     fs0_6kY    =    (char)-1837326509;
  unsigned char u42R3mR8;
- u42R3mR8 = -337979778;
+ u42R3mR8 = (unsigned char)-337979778;
     int    K8OE;
     K8OE    =    -527638982;
  float s21x1v;

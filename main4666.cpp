@@ -37,7 +37,7 @@ int main()
   unsigned short  Y7TABuI  =  (unsigned short)1974091348;
     short    IOhpadUTwe    =    (short)-1976730534;
   long double  h6rMOpg3X  =  2098684584;
-  short int  sh1c  =  765318315;
+  short int  sh1c  =  (short)765318315;
   char  H35wx  =  1909780926;
     unsigned char    V12Qn0yn    =    385492338;
 	short int	GN9RE40	=	(short)-546733500;
@@ -49,7 +49,7 @@ int main()
 	short int	kpR_9N	=	(short)-981646660;
     unsigned long    Wk5a    =    0;
     long    wS3AM    =    646576313;
- unsigned char s68qKF = 2047484356;
+ unsigned char s68qKF = (unsigned char)2047484356;
  short int Lg4Lg96f = (short)38606317;
 	unsigned int	J88oti8Yfc	=	-969153311;
   unsigned short  dJ7dnb  =  1471487798;
@@ -64,7 +64,7 @@ int main()
   short  u1Nq6_D2  =  (short)831830357;
     long double    tm01T9t1_u    =    805952421;
   unsigned long long  b_RQT_A2E  =  -1300207208;
-    unsigned short int    BqriC1kMI    =    -317787447;
+    unsigned short int    BqriC1kMI    =    (unsigned short)-317787447;
  unsigned long long B18E76 = 647105962;
 	unsigned int	j1gr2_	=	1452758524;
 	unsigned char	WEV80	=	(unsigned char)203137315;
@@ -80,7 +80,7 @@ int main()
     unsigned short int    GYoIR    =    (unsigned short)1798375301;
 	unsigned int	H8Tqd99JX	=	977763115;
   long long  DH2m12734  =  -509876069;
-    short    vpkCQXG97h    =    -1327286930;
+    short    vpkCQXG97h    =    (short)-1327286930;
     unsigned long long    so0xO2CVx2    =    -1074617374;
  unsigned short ghCB9YDj = 1809111912;
   double  Yixjn  =  61156271;
@@ -121,7 +121,7 @@ case 4:
 PvvVO = Wk5a / b_RQT_A2E;
 break;
 case 5:
-u4jS3X4 = hnCm((unsigned short)-2028858138, aJMK, 1045151492);
+u4jS3X4 = hnCm((unsigned short)-2028858138, aJMK, (unsigned char)1045151492);
 break;
 case 6:
 Vqe87 = hnCm(Vqe87, N0111, (unsigned char)-1946410313);
@@ -467,7 +467,7 @@ b_RQT_A2E = hnCm(b_RQT_A2E, (unsigned char)-353346364, (unsigned char)-160268524
 break;
 case 'c':
 case 'C':
-ph3H = hnCm((unsigned short)-712813112, 1435734347, 1546744500);
+ph3H = hnCm((unsigned short)-712813112, (unsigned char)1435734347, 1546744500);
 break;
 }
 }

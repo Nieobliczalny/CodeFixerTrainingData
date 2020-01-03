@@ -74,7 +74,7 @@ QS09DQ_7Z -= Cuk3;
 d7Zg_5Pk = (int)floor(d16zp8_P8);
 if ((d7Zg_5Pk / U7u_O3gILd(O1jZWHX, (unsigned char)-1685649948, Z08USO)) != 1353432740)
 {
-Sx7_K1hRT = s5hd7(-1242105786) / U7u_O3gILd(O1jZWHX, QS5dlco6, -764335789);
+Sx7_K1hRT = s5hd7(-1242105786) / U7u_O3gILd(O1jZWHX, QS5dlco6, (char)-764335789);
 }
 Ncr7eKJ_Q = (int)floor(Av1PRaEV1M);
 x9_8K4 = (int)floor(Ncr7eKJ_Q);

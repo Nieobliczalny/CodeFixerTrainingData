@@ -163,7 +163,7 @@ case 'g':
 Mqzmf77523 = KY8Kua((unsigned char)2145494144, (short)622259994) >> p6Nd;
 break;
 case 'h':
-BqsW = KY8Kua(fLsYGV, -2033282887) >> 484141467;
+BqsW = KY8Kua(fLsYGV, (short)-2033282887) >> 484141467;
 break;
 default:
 BSejs7TTZ6 = (int)abs(CidFvj);
@@ -214,7 +214,7 @@ dl0Q4ls74 = (dhASc8_zm < 1878932301) ? S1vUChud : IJX9_5U_;
 }
 if (((n4go_NF6) && (c3gfqkN)) || ((zm_IW60) || (FBdzp == fzZ67b6)))
 {
-cout << KY8Kua((unsigned char)-1556907311, (short)1905058878) << KY8Kua(fLsYGV, n4go_NF6) << KY8Kua((unsigned char)-517748550, -869810944) << KY8Kua(fLsYGV, n4go_NF6) << c3gfqkN << endl;
+cout << KY8Kua((unsigned char)-1556907311, (short)1905058878) << KY8Kua(fLsYGV, n4go_NF6) << KY8Kua((unsigned char)-517748550, (short)-869810944) << KY8Kua(fLsYGV, n4go_NF6) << c3gfqkN << endl;
 }
 
 cout << "yprw93sa" << l78VA << "kzT0maf5" << "z7gS1F" << KY8Kua(fLsYGV, 1366272774) << endl;

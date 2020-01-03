@@ -23,7 +23,7 @@ int main()
 	unsigned char	jRA9lzlBc	=	(unsigned char)1491675352;
   unsigned long long  jlg07  =  1087924790;
  long double gD3EzgTA = -1426034823;
- short int NYZ2u = -999348525;
+ short int NYZ2u = (short)-999348525;
     unsigned long long    KqLIV569Nf    =    0;
     char    goUI609p6    =    (char)-1518850406;
   unsigned short  vqy1l6N2  =  493905221;
@@ -34,7 +34,7 @@ int main()
   long double  LO7Cp5tg  =  -84642227;
   short  ZEUyl  =  (short)-587146550;
  short int zJxq = (short)865659071;
-	char	z29D9A9C	=	70785597;
+	char	z29D9A9C	=	(char)70785597;
   double  tEGR536G  =  1174724257;
     long long    HW105S    =    1228058737;
 	short int	Q5_Vq	=	(short)191208532;
@@ -57,7 +57,7 @@ int main()
  unsigned long x014nq78 = 1188636161;
  char tw7wzobnm = (char)-1073524547;
   unsigned long long  t8sRrE  =  -1382091037;
-	unsigned short int	k33RmK3	=	1275502966;
+	unsigned short int	k33RmK3	=	(unsigned short)1275502966;
     char    Cb8i1kE    =    1523386958;
 	unsigned char	Dtet	=	1780315891;
  unsigned short ebIIw0_7tB = -595734751;
@@ -74,7 +74,7 @@ int main()
  unsigned char S2o4Rch451 = (unsigned char)267668004;
     unsigned int    H9GqLK    =    1389427668;
 	double	jTk5	=	999284869;
-	char	h447_1_k	=	1926408470;
+	char	h447_1_k	=	(char)1926408470;
  short int ldmo7_jDyW = (short)2052173740;
  unsigned char MVv1H5_ = -403155218;
     double    pbzcc    =    759132444;
@@ -84,7 +84,7 @@ int main()
     unsigned long    T8_hEA1D    =    -998897883;
   char  twyg_3  =  (char)-1417236292;
  float e7T9q = 1048479473;
- unsigned char CD41hmjXv = 2037424807;
+ unsigned char CD41hmjXv = (unsigned char)2037424807;
     double    xo5o    =    1140154202;
     char    E8bsJoC    =    (char)-55896725;
  long long Zj1Th1_ = 1687652803;
@@ -95,7 +95,7 @@ int main()
     short    k21hv4HO    =    (short)118181891;
  long double N4s6mcLIL = -919160290;
     int    Q5cAaBpZnt    =    908181071;
-  short  jD4vv0  =  -1230695077;
+  short  jD4vv0  =  (short)-1230695077;
 
 if (((HW105S) || (N4s6mcLIL < Cb8i1kE)) && (z29D9A9C == 34959343))
 {

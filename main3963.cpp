@@ -325,7 +325,7 @@ H1_75 = QUCW(t__65eac, (unsigned short)-377771744, (short)-638263438, (short)246
 }
 else if (Z1v1_Um1y8 == b7m2)
 {
-FObUTjheu = QUCW(2118440083, H1_75, CFA_9l7, zQ_f_Q) + X4YdZ06CKN;
+FObUTjheu = QUCW((short)2118440083, H1_75, CFA_9l7, zQ_f_Q) + X4YdZ06CKN;
 }
 else
 {

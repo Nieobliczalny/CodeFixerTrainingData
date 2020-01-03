@@ -25,7 +25,7 @@ int main(void)
     short int    W7pPT966g;
     W7pPT966g    =    (short)-728389036;
  char XnKQwNG;
- XnKQwNG = 1944707415;
+ XnKQwNG = (char)1944707415;
  unsigned long B2Z8;
  B2Z8 = 1603211388;
  unsigned long fkzL;
@@ -47,7 +47,7 @@ int main(void)
 	char	nyBFI6Q;
 	nyBFI6Q	=	(char)-1867371897;
     unsigned short int    ITb51fME99;
-    ITb51fME99    =    1997280647;
+    ITb51fME99    =    (unsigned short)1997280647;
   double  N0Ga;
   N0Ga  =  345348230;
 	int	Vs5M_U0Q;

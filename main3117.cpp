@@ -94,7 +94,7 @@ int main(int argc, char** argv) {
 	short int	zOoRe;
 	zOoRe	=	(short)-1982365940;
 	short int	njKG55o;
-	njKG55o	=	181940647;
+	njKG55o	=	(short)181940647;
 	unsigned int	kO_7i8;
 	kO_7i8	=	22661503;
   unsigned short int  zrSrv7m2I;

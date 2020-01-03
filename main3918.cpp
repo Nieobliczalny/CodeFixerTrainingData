@@ -22,7 +22,7 @@ int main(void) {
   long long  dkSaW  =  -1401654816;
  unsigned short prg72xwb = (unsigned short)-980690818;
  unsigned long Ap7L5Rzu = -1165961829;
-	short int	X6PK	=	968634795;
+	short int	X6PK	=	(short)968634795;
  float Byp4B41M = 1167244274;
 	long	KHgCE569C	=	-979713901;
   int  u44er  =  -405200505;

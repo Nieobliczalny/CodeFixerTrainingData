@@ -39,7 +39,7 @@ int main(void) {
   long long  aInfm0k0xZ;
   aInfm0k0xZ  =  1978067855;
  unsigned short int gm7iH23_;
- gm7iH23_ = 1126074285;
+ gm7iH23_ = (unsigned short)1126074285;
 	unsigned short int	cO7b;
 	cO7b	=	(unsigned short)1444293997;
     float    a03lrn1c;
@@ -85,7 +85,7 @@ int main(void) {
  unsigned char OL8D9_0nP;
  OL8D9_0nP = (unsigned char)71559173;
 	unsigned char	NhQIf32;
-	NhQIf32	=	-1822564988;
+	NhQIf32	=	(unsigned char)-1822564988;
     double    mc1d9;
     mc1d9    =    -97169038;
  long double c2Jg;
@@ -105,7 +105,7 @@ int main(void) {
  float K682Knr0_;
  K682Knr0_ = -1474829913;
  unsigned char dH43;
- dH43 = 1407370336;
+ dH43 = (unsigned char)1407370336;
     int    HZn4;
     HZn4    =    -153211127;
     double    Lm2PwJ;

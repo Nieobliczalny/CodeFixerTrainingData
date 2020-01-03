@@ -43,7 +43,7 @@ int main(void)
  unsigned int twpOz42L = 0;
 	unsigned int	f_LjO7nY1	=	1699644279;
  double giGIDk_a = 1719744211;
- short g8e_Owrg5 = -683815770;
+ short g8e_Owrg5 = (short)-683815770;
  unsigned int vt7fZ1 = 0;
 	int	yhc8nK	=	284396612;
     long    aRCnXf5    =    -116836147;
@@ -62,7 +62,7 @@ int main(void)
  long long ZyN3DzNP3 = -1603001017;
     short    RiubwXbCI    =    (short)-461292095;
   short  nRl3  =  (short)373637239;
- char BMnnpb = 564682100;
+ char BMnnpb = (char)564682100;
  unsigned long long Vi48y_ = -628930426;
 	unsigned int	s8Y8r	=	2017842890;
   unsigned short  Jg1qVz57  =  265279274;
@@ -76,7 +76,7 @@ int main(void)
  long p5US5I8 = 1167710706;
   float  Z0U7vIDwu  =  -1192699435;
 	char	R36p	=	(char)-212617847;
-  short int  c67HM4Z  =  -210809699;
+  short int  c67HM4Z  =  (short)-210809699;
     float    uF121fT3F8    =    757995976;
     char    Deo0_okF3    =    1781573111;
  unsigned short int oW9Os7fA_ = (unsigned short)2124091597;
@@ -88,7 +88,7 @@ int main(void)
  unsigned short int F18gqIA = (unsigned short)600121319;
   double  aD_ESw_q  =  783761034;
 	long double	aSH7Sa	=	2103881282;
-	short	m16c	=	1672821876;
+	short	m16c	=	(short)1672821876;
  unsigned short int M_91V_Gn = (unsigned short)-663790580;
   float  Au1j  =  -1220603034;
  long double qG5_Paz = -1253861085;
@@ -101,7 +101,7 @@ int main(void)
 	float	g76S0	=	-1167271060;
   char  szSfR  =  (char)-243928738;
   long double  A3E5650_7M  =  -2095385894;
-  char  so981  =  342458219;
+  char  so981  =  (char)342458219;
 
 if (mnBYsv >= uF121fT3F8)
 {
@@ -484,7 +484,7 @@ case 1:
 nRl3 = dbofbX_0q(nRl3, -34042843, (unsigned short)-2044549386, lhFa2C5F0);
 break;
 case 2:
-M_91V_Gn = R3aR0(1732995288, AsdMo4j, (unsigned char)1224413152, 43566495, 683415112) - c67HM4Z;
+M_91V_Gn = R3aR0(1732995288, AsdMo4j, (unsigned char)1224413152, 43566495, (unsigned char)683415112) - c67HM4Z;
 break;
 case 3:
 iALz36y = (int)floor(A3E5650_7M);
@@ -634,7 +634,7 @@ pcFoJQe = in5E2t(pcFoJQe, ihBpfXH_a5);
 }
 
 g76S0 = dbofbX_0q(g76S0, Deo0_okF3, (unsigned short)-398845438, (short)-435786333);
-AsdMo4j = b_483(g76S0, (short)-1787938803, -2063180154, s8Y8r, 456915846) << 586044110;
+AsdMo4j = b_483(g76S0, (short)-1787938803, -2063180154, s8Y8r, (unsigned short)456915846) << 586044110;
 J_3AAbO %= M_91V_Gn;
 
 {

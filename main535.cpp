@@ -184,7 +184,7 @@ case 2:
 R9hFl ^= 378868433;
 break;
 case 3:
-G34JQ = e46X2(G34JQ, (unsigned short)1274025201, B2e_N6N5g, myfIm9u1W, 842894714);
+G34JQ = e46X2(G34JQ, (unsigned short)1274025201, B2e_N6N5g, myfIm9u1W, (short)842894714);
 break;
 case 4:
 cj2x4 = tOBA();
@@ -292,7 +292,7 @@ while (i < 7)
 {
 if (bclAH)
 {
-InSLIwWm = lxCFYlw(InSLIwWm, (char)1110075298, -1457886909);
+InSLIwWm = lxCFYlw(InSLIwWm, (char)1110075298, (short)-1457886909);
 }
 else if (rHj55A3 < cj2x4)
 {

@@ -46,7 +46,7 @@ int main(int argc, char** argv)
     short    w7lcvn;
     w7lcvn    =    (short)-249434105;
   short  LPm3;
-  LPm3  =  -430442066;
+  LPm3  =  (short)-430442066;
     char    y455mzN1_;
     y455mzN1_    =    707210460;
  unsigned short int KA_xRFWl1;
@@ -88,7 +88,7 @@ int main(int argc, char** argv)
     char    u4cIcP;
     u4cIcP    =    (char)-432713567;
     unsigned short int    Nn8KWfU9;
-    Nn8KWfU9    =    -1075037984;
+    Nn8KWfU9    =    (unsigned short)-1075037984;
  float j229ot79;
  j229ot79 = -263416790;
   short int  W14J_2;
@@ -128,7 +128,7 @@ int main(int argc, char** argv)
     char    bB_NqvjgZ;
     bB_NqvjgZ    =    (char)568081930;
     short int    u55214u1hh;
-    u55214u1hh    =    -905704600;
+    u55214u1hh    =    (short)-905704600;
     double    Ge_Jb;
     Ge_Jb    =    -1802104364;
 	unsigned short int	S6__t0;
@@ -373,7 +373,7 @@ case 4:
 y70Xd6u4 = Iy551_pc5 - e91O0kbr;
 break;
 case 5:
-Nis_41s7Q9 = b6ef(aBAgzQi_6E, (short)559143310, 462095178, -1141610555, 1260215206);
+Nis_41s7Q9 = b6ef(aBAgzQi_6E, (short)559143310, (short)462095178, -1141610555, 1260215206);
 break;
 case 6:
 O3Qoyq90q9 = (int)ceil(byR3Q);
@@ -420,7 +420,7 @@ case 5:
 f03L5C34d = b6ef(f_604y_m23, f03L5C34d, (short)-546896960, -3901327, -1543177836);
 break;
 case 6:
-f03L5C34d = b6ef(XyZE8, (short)1732009548, -705629153, 930058062, Qf43kP6Q);
+f03L5C34d = b6ef(XyZE8, (short)1732009548, (short)-705629153, 930058062, Qf43kP6Q);
 break;
 case 7:
 f_604y_m23 = (h85_c4) ? YKq0dC2 : 1660488595;
@@ -477,7 +477,7 @@ i4uJe = b6ef(-619597365, (short)-126668821, (short)75793423, -702109707, VN6x6O)
 
 if (W14J_2 > 1579034817)
 {
-cout << "YY3_s" << b6ef(wbfIu101MG, (short)206424198, fJm3rU47, hylO7V, 370885031) << w7lcvn << b6ef(1694991260, 353110792, fJm3rU47, -2032159449, -1778494682) << "z_k1" << endl;
+cout << "YY3_s" << b6ef(wbfIu101MG, (short)206424198, fJm3rU47, hylO7V, 370885031) << w7lcvn << b6ef(1694991260, (short)353110792, fJm3rU47, -2032159449, -1778494682) << "z_k1" << endl;
 }
 else
 {
@@ -527,7 +527,7 @@ else if (QupIZ31JH > uv0S)
 {
 if (j229ot79 < XS98Y5u338)
 {
-S6__t0 = b6ef(-1275592889, (short)1131444011, -253810637, 77710527, R7yh);
+S6__t0 = b6ef(-1275592889, (short)1131444011, (short)-253810637, 77710527, R7yh);
 }
 }
 else

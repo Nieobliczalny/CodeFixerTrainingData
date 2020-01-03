@@ -29,7 +29,7 @@ int main() {
   long double  Nt8j  =  -1260062914;
     long double    HC0UoG    =    -944239054;
 	char	CrEOdE	=	(char)-509263658;
-    unsigned char    d__F7b    =    -778577210;
+    unsigned char    d__F7b    =    (unsigned char)-778577210;
     long double    Gbk0L89S    =    874557573;
  long double iqNZap2T = -2402618;
     unsigned char    YEX08jqNX    =    662890580;
@@ -61,7 +61,7 @@ int main() {
     long long    Wr94gs5jk    =    -1141345920;
     unsigned short int    O6hMs    =    (unsigned short)493051904;
     double    Bb7b2JJtBi    =    -2011107037;
- char a5K6G1m = -118596667;
+ char a5K6G1m = (char)-118596667;
 	long long	AenJ9A	=	456528015;
   unsigned long long  Flc938Jm  =  0;
  char D7ymK = -864857857;
@@ -75,7 +75,7 @@ int main() {
     char    Z3DpSS0    =    (char)1651274303;
   unsigned int  A8L4kTTD8  =  -652952719;
  long long i5jnn1qXB = -819730892;
-	unsigned short int	gzi07WP4	=	-1765497472;
+	unsigned short int	gzi07WP4	=	(unsigned short)-1765497472;
   float  Q9z8DmM6  =  -159174512;
   unsigned long long  RX5853  =  0;
 	short	Kp7p4n	=	(short)-192327246;
@@ -86,7 +86,7 @@ int main() {
  unsigned long g53tGF0hK6 = -598901628;
     long long    w6DS7f    =    -1494562004;
  long long i_gJ_A = 1783415234;
- short int vtE2 = 453089372;
+ short int vtE2 = (short)453089372;
 	unsigned int	rH099BVt3	=	940991279;
     unsigned short    sBV8369    =    (unsigned short)-246244212;
 	unsigned int	oxo61o8	=	1824768636;
@@ -96,7 +96,7 @@ int main() {
   long long  u_6W5B  =  -919385052;
     double    pt780    =    -1877446141;
  short i5Fs = (short)895019678;
-    short    vfP3Zh444    =    -1268587360;
+    short    vfP3Zh444    =    (short)-1268587360;
     short int    pSZLK9HAL    =    66618139;
  int Qxjf11p = 807208027;
   unsigned char  Get6Q  =  (unsigned char)-774218488;
@@ -108,7 +108,7 @@ int main() {
   int  mq45l6t  =  1356862605;
 	short int	cYic	=	(short)-77275910;
 	long double	u_I20e3vD	=	-1726107398;
-    short int    EFguUwG    =    712164013;
+    short int    EFguUwG    =    (short)712164013;
  long long I60RY = 0;
 	short int	hFTuZ6IWE9	=	(short)-1765739062;
     long double    nhvIh    =    218959843;

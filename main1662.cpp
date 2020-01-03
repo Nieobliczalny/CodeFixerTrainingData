@@ -17,7 +17,7 @@ int main(int argc, char** argv)
 	unsigned short int	jn8g;
 	jn8g	=	(unsigned short)-2042445639;
 	unsigned char	g2Lq6rx;
-	g2Lq6rx	=	1675597779;
+	g2Lq6rx	=	(unsigned char)1675597779;
     long double    o6RAdcS2r;
     o6RAdcS2r    =    -1128821387;
     float    UBNXUQp87b;

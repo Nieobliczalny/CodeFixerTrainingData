@@ -32,7 +32,7 @@ int main(int argc, char** argv)
 	unsigned short int	yg1r7_5pdz	=	(unsigned short)-1845086271;
 	unsigned int	SR_Ff773TF	=	369077996;
  unsigned short b_7UPgT15 = (unsigned short)-206189376;
-  unsigned short  uiNmwziEH7  =  -1138333517;
+  unsigned short  uiNmwziEH7  =  (unsigned short)-1138333517;
     unsigned long long    dBKonAnA82    =    1075336103;
     unsigned long    X2881vAl    =    -384565261;
 	unsigned long long	o8DAWs	=	-20103459;
@@ -55,7 +55,7 @@ int main(int argc, char** argv)
     unsigned short int    o_8W52S5    =    (unsigned short)1775735280;
 	char	fWq8sB	=	(char)-839439851;
   unsigned short int  V5d1N  =  (unsigned short)1199988083;
-    unsigned char    m6el979y4    =    952435386;
+    unsigned char    m6el979y4    =    (unsigned char)952435386;
   unsigned char  tQB4IJ_8jC  =  -1364236321;
     unsigned short int    cmCfKo6    =    -1864946944;
   short  yV7qeAh57J  =  1450501132;
@@ -341,7 +341,7 @@ q09o = f9cbn7R8M(1933205461, o_8W52S5);
 }
 FG6tkUp8 = (int)ceil(x7JI75yw37);
 
-uiNmwziEH7 = c3i1Add3T5((unsigned short)759553044, -966716132, OLD67J, -1747980331);
+uiNmwziEH7 = c3i1Add3T5((unsigned short)759553044, (char)-966716132, OLD67J, -1747980331);
 D31Qn_ = rWYvFrMoV4 | 1337456985;
 std::cout << "AUl103" << q09o << "v_5n8VG02" << std::endl;
 
@@ -515,7 +515,7 @@ V5d1N = wBybogUhTb(V5d1N, (short)-1886446600, (short)-632334936, 1168356871, X28
 break;
 case 'd':
 case 'D':
-fWq8sB = c3i1Add3T5((unsigned short)194860112, -227569971, tQB4IJ_8jC, Jma81U5e2) % PAiA;
+fWq8sB = c3i1Add3T5((unsigned short)194860112, (char)-227569971, tQB4IJ_8jC, Jma81U5e2) % PAiA;
 break;
 case 'e':
 case 'E':

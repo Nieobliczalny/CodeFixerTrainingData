@@ -56,7 +56,7 @@ int main()
  short p98lw_;
  p98lw_ = (short)1916627318;
     unsigned short    gvdP9SZ1k5;
-    gvdP9SZ1k5    =    -1447282489;
+    gvdP9SZ1k5    =    (unsigned short)-1447282489;
   char  RJtkC;
   RJtkC  =  (char)1184408648;
  long aII7JW;
@@ -112,7 +112,7 @@ int main()
 	short int	ja54J_3DI8;
 	ja54J_3DI8	=	(short)-69185539;
     unsigned short    U21153;
-    U21153    =    1898196055;
+    U21153    =    (unsigned short)1898196055;
  float e66S0PljS;
  e66S0PljS = 1982307829;
 

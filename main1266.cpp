@@ -347,7 +347,7 @@ std::cout << "AKvFq1vJ7" << QtGa5o << iL1vTF3AN(D1C4t, (short)260671792, 2922243
 }
 else if ((MnbT <= -1380915057) || (QtGa5o < -1705438989))
 {
-E0i_h = iL1vTF3AN(1352346654, -1482122213, 1269651393);
+E0i_h = iL1vTF3AN((short)1352346654, -1482122213, 1269651393);
 }
 else
 {

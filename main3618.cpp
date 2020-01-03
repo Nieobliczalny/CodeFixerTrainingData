@@ -23,7 +23,7 @@ int main(int argc, char** argv)
     FeeqziNW4    =    (unsigned short)-749285808;
     Uz83uTKC    =    (unsigned short)-2003766403;
     w93_U    =    (unsigned short)-1450679005;
-    AyY1BX5    =    1880326095;
+    AyY1BX5    =    (unsigned short)1880326095;
 	char	mF6g9hWH,	S1s1dB,	D3j4Iw;
 	mF6g9hWH	=	0;
 	S1s1dB	=	0;

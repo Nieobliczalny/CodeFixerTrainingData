@@ -67,7 +67,7 @@ int main(int argc, char** argv)
 	unsigned long	HE_Rt;
 	HE_Rt	=	-1343427354;
   short int  u3L97;
-  u3L97  =  -2027531857;
+  u3L97  =  (short)-2027531857;
     float    NWsbhhzG;
     NWsbhhzG    =    884436358;
 	unsigned short	ieIIi7;
@@ -83,7 +83,7 @@ int main(int argc, char** argv)
  unsigned short VQmI;
  VQmI = (unsigned short)1454216379;
     unsigned short int    XhhJXc;
-    XhhJXc    =    594138646;
+    XhhJXc    =    (unsigned short)594138646;
 	unsigned long long	Ryq8S9q;
 	Ryq8S9q	=	332434707;
     short    Pod_M;
@@ -105,7 +105,7 @@ int main(int argc, char** argv)
 	int	FRMBweY;
 	FRMBweY	=	408422882;
 	unsigned short int	M8O6U;
-	M8O6U	=	2005324767;
+	M8O6U	=	(unsigned short)2005324767;
   unsigned short int  XmqDm;
   XmqDm  =  (unsigned short)-1878955043;
  unsigned long long Vo4wo8;

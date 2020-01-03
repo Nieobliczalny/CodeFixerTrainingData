@@ -51,7 +51,7 @@ rhB8B9nZ = VzVjIE_82I | 749469472;
 break;
 case 'f':
 case 'F':
-VzVjIE_82I = J70_9((char)-614194410, -1485825197, w3JR, rhB8B9nZ, -226875226);
+VzVjIE_82I = J70_9((char)-614194410, (short)-1485825197, w3JR, rhB8B9nZ, -226875226);
 break;
 case 'g':
 case 'G':

@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
     short int    S29T8I1j;
     S29T8I1j    =    (short)898629623;
  char R5uxCmH69;
- R5uxCmH69 = -1538849955;
+ R5uxCmH69 = (char)-1538849955;
     int    G6ef0_2;
     G6ef0_2    =    1273152378;
  double A848_a_6i;
@@ -94,7 +94,7 @@ int main(int argc, char** argv) {
     unsigned short    q7lOK6w;
     q7lOK6w    =    (unsigned short)-1862083041;
   short int  rGNt1C3;
-  rGNt1C3  =  -846440481;
+  rGNt1C3  =  (short)-846440481;
     unsigned int    yxVbM7;
     yxVbM7    =    -1157343381;
  short int G8NvAT8iI;
@@ -259,7 +259,7 @@ rVQs0_ = (char)(isgL8wZ);
 
 rVQs0_ = 1347562983 / H6JE(Wn7_iM, vzcM_, (unsigned short)331110316, Jc28cEW4U, (char)1787289806);
 
-cout << DMQl122k8((char)-1880317623) << "cnkz5" << B6cCP(326191694, 1196283067) << endl;
+cout << DMQl122k8((char)-1880317623) << "cnkz5" << B6cCP((short)326191694, 1196283067) << endl;
 
 NzkgZEe0 = (unsigned long)(Wn7_iM);
 
@@ -453,7 +453,7 @@ try
 {
 if ((Jc28cEW4U <= 2064634259) && (PHRRX_))
 {
-Dp1e = H6JE(pdUVEU, (short)1176976378, 1356831275, 203755757, 1789320395);
+Dp1e = H6JE(pdUVEU, (short)1176976378, (unsigned short)1356831275, 203755757, 1789320395);
 }
 }
 catch (int& errorCode)

@@ -22,7 +22,7 @@ int main(int argc, char** argv)
   unsigned long  aAh3I4g  =  1894170754;
  char UzQn9WDl = (char)-1676286468;
 	unsigned int	Swim5b	=	1923075789;
-  char  bJ61nuO  =  576354898;
+  char  bJ61nuO  =  (char)576354898;
  long long JmSR3Xw = 0;
   long  khAFHCvx  =  1653832383;
     float    aIguz9dr    =    -1602089126;
@@ -73,7 +73,7 @@ std::cout << WEKFwG_9(Swim5b, (short)1527341493, (unsigned short)527359973, -135
 }
 else
 {
-bJ61nuO = WEKFwG_9(-649596242, 1102323382, 240358149, UzQn9WDl, -151785375);
+bJ61nuO = WEKFwG_9(-649596242, (short)1102323382, 240358149, UzQn9WDl, -151785375);
 }
 std::cout << "AQf_VxD" << "ibEddZ27" << "GH8l4bK0" << std::endl;
 JmSR3Xw = sp1wm(JmSR3Xw, (char)-1283661511, UzQn9WDl, 1288906701);

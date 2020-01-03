@@ -57,7 +57,7 @@ int main()
 	unsigned char	vp56p;
 	vp56p	=	(unsigned char)437730535;
   char  yybfG1MD9n;
-  yybfG1MD9n  =  499637;
+  yybfG1MD9n  =  (char)499637;
     short    IIIZhbcax;
     IIIZhbcax    =    (short)-491476852;
  short int v1Bj22rj6b;

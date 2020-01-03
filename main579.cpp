@@ -125,7 +125,7 @@ case 'J':
 a82Fb = Z8S9Z7(-1002023455, 248007618, (unsigned char)-2021660623, (char)-1542954180, -37159084) % 441288421;
 break;
 default:
-SUYR5E3hD = Z8S9Z7(h3qE, xzCefxF, (unsigned char)-1753706484, -1509164416, 388355001);
+SUYR5E3hD = Z8S9Z7(h3qE, xzCefxF, (unsigned char)-1753706484, (char)-1509164416, 388355001);
 break;
 }
 }
@@ -253,7 +253,7 @@ OLUsT4Z40_ = Z8S9Z7(M3vhmG, -2073016258, (unsigned char)-148825715, (char)183836
 break;
 case 'b':
 case 'B':
-QiAv0G = Z8S9Z7(gRNz, -1625289986, (unsigned char)-2009019424, 1175489385, 692202058);
+QiAv0G = Z8S9Z7(gRNz, -1625289986, (unsigned char)-2009019424, (char)1175489385, 692202058);
 break;
 case 'c':
 case 'C':
@@ -373,7 +373,7 @@ qnYFUze1Q = ioVW_c5mx((short)971692668, (char)557549319, -1962029772, G33N__7gT,
 }
 l8_gBTnoM = (unsigned short int)(l7qMXx2Z);
 
-std::cout << h0gyC << ioVW_c5mx(qnYFUze1Q, 2029180296, vy8QPBU, G33N__7gT, -1534607198) << M3vhmG << std::endl;
+std::cout << h0gyC << ioVW_c5mx(qnYFUze1Q, (char)2029180296, vy8QPBU, G33N__7gT, -1534607198) << M3vhmG << std::endl;
 
 try
 {

@@ -281,7 +281,7 @@ W8Ul9t_Ft4 = y8Ge(pm01_, (short)264981305, (unsigned char)375765537, O3_5Dr, V2O
 }
 else if (W8Ul9t_Ft4 >= -135796382)
 {
-V2O0c3Zo1 = y8Ge(pm01_, 1451378685, k5BM, O3_5Dr, V2O0c3Zo1) >> 903801856;
+V2O0c3Zo1 = y8Ge(pm01_, (short)1451378685, k5BM, O3_5Dr, V2O0c3Zo1) >> 903801856;
 }
 else
 {

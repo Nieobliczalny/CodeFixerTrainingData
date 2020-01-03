@@ -95,7 +95,7 @@ int main(int argc, char** argv)
 	unsigned short	iA95xZWdi;
 	iA95xZWdi	=	(unsigned short)-1001783600;
   unsigned short  AXJ8Q5md;
-  AXJ8Q5md  =  1864478244;
+  AXJ8Q5md  =  (unsigned short)1864478244;
     double    RpuWN1BQ;
     RpuWN1BQ    =    1891491278;
 	unsigned long	wT7oellUP;

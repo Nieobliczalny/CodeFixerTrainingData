@@ -593,7 +593,7 @@ case 'c':
 iVUzRJTzn = C77T(J99FG, (char)1220552104, -1403881368);
 break;
 case 'd':
-iVUzRJTzn = C77T((char)-1297897246, -911920055, pQoe6);
+iVUzRJTzn = C77T((char)-1297897246, (char)-911920055, pQoe6);
 break;
 case 'e':
 r1p3rxOYb = (int)abs(N675);
@@ -627,7 +627,7 @@ cout << "tC7KS" << "Q0yA46d" << k1r8WVRWC((short)-111467962, 401632364, (short)1
 }
 else
 {
-cout << qSv3d << "LP11t" << C77T((char)839204588, -705061702, i2foccQ1bZ) << C77T(-1846761909, 17403744, i2foccQ1bZ) << endl;
+cout << qSv3d << "LP11t" << C77T((char)839204588, (char)-705061702, i2foccQ1bZ) << C77T(-1846761909, 17403744, i2foccQ1bZ) << endl;
 }
 ZiwK2a_zZ5 = 551548814 / zYJ8WhMEd;
 

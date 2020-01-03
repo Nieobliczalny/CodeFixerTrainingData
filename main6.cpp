@@ -460,7 +460,7 @@ case 1:
 ZiaS = FB_qOyoTj((unsigned short)749035364, e27_Mo, 1838389845, (unsigned short)-1644679629, BBkfofsf_);
 break;
 case 2:
-AB2jkV = t9TX7U(ZiaS, -101366259) + CwLRO_nJ7D;
+AB2jkV = t9TX7U(ZiaS, (unsigned short)-101366259) + CwLRO_nJ7D;
 break;
 case 3:
 ixchinK = EAk_WmId(-337407879, -1552568642, Nd92e_tU, CwLRO_nJ7D);
@@ -498,7 +498,7 @@ std::cout << "qJyIl5Ce" << vbwo00L9L << X8qP8645LV << std::endl;
 }
 else if (z1LLf4he1 >= l5D4)
 {
-std::cout << FB_qOyoTj((unsigned short)1240876430, mxbo, Nd92e_tU, (unsigned short)293939323, Ns48tJ8) << FB_qOyoTj((unsigned short)1036970969, mxbo, -1863244995, 767737573, -441915621) << rG__X8pfv << z1LLf4he1 << pzB21mJ << std::endl;
+std::cout << FB_qOyoTj((unsigned short)1240876430, mxbo, Nd92e_tU, (unsigned short)293939323, Ns48tJ8) << FB_qOyoTj((unsigned short)1036970969, mxbo, -1863244995, (unsigned short)767737573, -441915621) << rG__X8pfv << z1LLf4he1 << pzB21mJ << std::endl;
 }
 else if (P8_N0)
 {

@@ -155,7 +155,7 @@ case 4:
 zQ5_CpCi = VM4Y9bIfC(zQ5_CpCi, jQ3_iz9y6, (short)18418539, -1505644657, (unsigned char)-234245347);
 break;
 case 5:
-GwJwtjWyd_ = VM4Y9bIfC((short)299284206, R6_K1, 1118492481, pv9S3p379, R5niCq8);
+GwJwtjWyd_ = VM4Y9bIfC((short)299284206, R6_K1, (short)1118492481, pv9S3p379, R5niCq8);
 break;
 }
 

@@ -33,7 +33,7 @@ int main(int argc, char** argv)
   unsigned short  g2673S;
   g2673S  =  (unsigned short)739944108;
     unsigned short    MOvonMu6O;
-    MOvonMu6O    =    760880095;
+    MOvonMu6O    =    (unsigned short)760880095;
 	float	ywB0VmKlP;
 	ywB0VmKlP	=	1216984871;
 	char	A3x1m;
@@ -75,7 +75,7 @@ int main(int argc, char** argv)
 	unsigned short	W5Oi;
 	W5Oi	=	(unsigned short)556899423;
     char    sTmB2;
-    sTmB2    =    199525410;
+    sTmB2    =    (char)199525410;
 	char	I8__8u7_23;
 	I8__8u7_23	=	(char)-1397439740;
     unsigned int    uyXJ__;
@@ -143,7 +143,7 @@ int main(int argc, char** argv)
   unsigned short  AKsVG;
   AKsVG  =  (unsigned short)1205943025;
  short eU3_f;
- eU3_f = -681075776;
+ eU3_f = (short)-681075776;
     long long    rB458h5gBr;
     rB458h5gBr    =    -1421557729;
  unsigned short Czm2;

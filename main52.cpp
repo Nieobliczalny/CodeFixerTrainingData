@@ -19,7 +19,7 @@ int main(int argc, char** argv)
   kUm51vo80  =  (short)-2090568872;
   ejqhDO4v2  =  (short)-625827498;
   R81NmOZ5_  =  (short)289131992;
-  qYK0ea__2  =  -908173746;
+  qYK0ea__2  =  (short)-908173746;
   m7_9_  =  2027679035;
   v7k2aY  =  -287184431;
   RFRvP3N  =  -1851711881;
@@ -29,7 +29,7 @@ int main(int argc, char** argv)
   Dd5m  =  (short)881025858;
   r5Ii7oA5  =  (short)-1807361951;
   nM0jK  =  (short)283967833;
-  WikUIyivl  =  -608814049;
+  WikUIyivl  =  (short)-608814049;
   R_hTadXdF  =  1219296005;
   VuTCgSZd08  =  527526360;
   p_7O  =  569809053;
@@ -39,7 +39,7 @@ int main(int argc, char** argv)
   hZ_75G3G4  =  (short)-419736621;
   TBcor  =  (short)-1409976364;
   IsC0aL  =  (short)1271005526;
-  J774n_  =  349804621;
+  J774n_  =  (short)349804621;
   nv2AcLX  =  283043577;
   bvl7_  =  -1643010083;
   dip6rjZgP5  =  -925116946;
@@ -49,7 +49,7 @@ int main(int argc, char** argv)
   ddlTyoJ  =  (short)-628740731;
   rzTr5gGE  =  (short)830873074;
   pgpZ  =  (short)159462444;
-  jM7k_9K0  =  779929120;
+  jM7k_9K0  =  (short)779929120;
   Ke0d5lw3TT  =  -1240009479;
   HhtQhTtul  =  -1893831960;
   d0cez  =  -19724418;
@@ -59,7 +59,7 @@ int main(int argc, char** argv)
   x2DtL78bn  =  (short)1702737333;
   N_n31h6  =  (short)-64487514;
   eg4_IKhP  =  (short)1656349752;
-  Sxw6suZ60W  =  -1725455149;
+  Sxw6suZ60W  =  (short)-1725455149;
   F974ay3  =  -1059240841;
   Y7Qz  =  -2042948401;
   gJ0CV1f9  =  1456056559;
@@ -69,7 +69,7 @@ int main(int argc, char** argv)
   z79_GP  =  (short)805192447;
   gFo3A  =  (short)-1758142569;
   oVm5GLC7cW  =  (short)241801424;
-  v42qb8H2cG  =  -2122497944;
+  v42qb8H2cG  =  (short)-2122497944;
   Fd8wPIlwe  =  -2009333339;
   a7O61YSju5  =  2069021440;
   rM6Y  =  1612823946;
@@ -79,7 +79,7 @@ int main(int argc, char** argv)
   a_3P_C  =  (short)-631984855;
   C_j8  =  (short)-1636106325;
   IFwU452bem  =  (short)1638881189;
-  t6L148j  =  872711636;
+  t6L148j  =  (short)872711636;
   ZM9S93  =  -1194092569;
   YNg7_y2  =  -62432537;
   o9FR3BBkke  =  -547225827;

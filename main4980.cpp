@@ -16,7 +16,7 @@ int main() {
     unsigned long long    IE8jp9    =    1757308100;
   short  R2w3_AkRv  =  (short)2009985784;
     double    XHE5x    =    -1943440998;
-	short int	e3EAbx0Tuo	=	885409036;
+	short int	e3EAbx0Tuo	=	(short)885409036;
   unsigned long long  jWlN0_  =  304345235;
     unsigned short    D4gtsgr7V_    =    811734178;
 	unsigned int	W10g8h1	=	1419093228;
@@ -32,7 +32,7 @@ int main() {
 	float	Y_Rl6	=	-562856569;
   char  p3D05G9I  =  (char)157007214;
  long long BkJ_pZ9 = 1842909571;
-  char  pqjkb  =  2058601041;
+  char  pqjkb  =  (char)2058601041;
  short int uU32zQa1i = (short)-359431888;
   unsigned char  ziPT  =  539477019;
   char  fe9z  =  (char)1503045043;
@@ -597,7 +597,7 @@ std::cout << C_r6mAj((char)1679083869, -931418339, (unsigned short)-1180695506) 
 }
 else
 {
-y7fbBg9 = C_r6mAj(670999297, uU32zQa1i, 1700925174);
+y7fbBg9 = C_r6mAj((char)670999297, uU32zQa1i, 1700925174);
 }
 {
 int i = 1;

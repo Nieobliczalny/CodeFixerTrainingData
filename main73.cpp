@@ -23,7 +23,7 @@ int main(int argc, char** argv)
     float    Ng_A    =    1920191759;
 	char	Ca4pC7	=	(char)-1911534159;
  unsigned short G6B9 = (unsigned short)-2009597120;
- short ZpAN9U = 1851367774;
+ short ZpAN9U = (short)1851367774;
     unsigned long long    H38N2f    =    0;
   short int  kBPKB  =  -199773647;
   unsigned long  A0Ae  =  1578771803;
@@ -38,7 +38,7 @@ int main(int argc, char** argv)
  short int Wab6 = (short)-812356957;
     long    G5Y4aV9vb    =    0;
     long long    on4H3    =    -1666542954;
- short ps9B = 1821273752;
+ short ps9B = (short)1821273752;
     long    qqus9o0R    =    -1515676175;
     int    C1xsU8tb5    =    -740991744;
 	unsigned short int	xE3_Fr	=	(unsigned short)321000163;

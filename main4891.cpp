@@ -51,7 +51,7 @@ int main(void) {
  short int Cw9j_epz;
  Cw9j_epz = (short)-980291404;
     unsigned char    rW_24dL;
-    rW_24dL    =    -1921624156;
+    rW_24dL    =    (unsigned char)-1921624156;
  unsigned short l2mXue0KyZ;
  l2mXue0KyZ = (unsigned short)-804900161;
     unsigned long    bmg6;

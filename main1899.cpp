@@ -123,7 +123,7 @@ int main(int argc, char** argv)
 zNyYKj8 /= XgU7nh;
 
 OkBw = (int)ceil(N1571);
-std::cout << "evSH" << NY_W9T(311461887, Cagz_mA2dR, o6s9MH) << "y2B4O6vNQ" << OJc0kyL((short)-1512022326, (unsigned short)1771560995, (char)-2034009045, fjc0b, 1658647835) << std::endl;
+std::cout << "evSH" << NY_W9T(311461887, Cagz_mA2dR, o6s9MH) << "y2B4O6vNQ" << OJc0kyL((short)-1512022326, (unsigned short)1771560995, (char)-2034009045, fjc0b, (char)1658647835) << std::endl;
 switch (WNrm)
 {
 case 0:
@@ -170,7 +170,7 @@ case 4:
 g2ViAHgE = (int)abs(L3Fjjg);
 break;
 case 5:
-dqo1T = GoU9b2d3V(dqo1T, 1990364255, 1494957609, n_l0);
+dqo1T = GoU9b2d3V(dqo1T, 1990364255, (short)1494957609, n_l0);
 break;
 case 6:
 FayRoYc = GoU9b2d3V(-1583225692, rx59, o6s9MH, 719824027);

@@ -138,7 +138,7 @@ int main()
     unsigned short int    NHs_GO8iz;
     NHs_GO8iz    =    (unsigned short)1803574141;
 	unsigned short int	CLJoknBT8;
-	CLJoknBT8	=	574882403;
+	CLJoknBT8	=	(unsigned short)574882403;
   double  wCK77R;
   wCK77R  =  802908668;
     short    I8o610S8N;

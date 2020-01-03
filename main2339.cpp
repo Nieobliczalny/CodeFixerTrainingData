@@ -70,7 +70,7 @@ int main(int argc, char** argv) {
   char  SRZF52MNR;
   SRZF52MNR  =  (char)892853583;
   unsigned short int  oUg1;
-  oUg1  =  -1626260649;
+  oUg1  =  (unsigned short)-1626260649;
     long double    E2F_v7Ak;
     E2F_v7Ak    =    -898454499;
 	long double	uM9d;

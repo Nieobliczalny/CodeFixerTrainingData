@@ -128,7 +128,7 @@ int main(int argc, char** argv) {
   short int  n6qY;
   n6qY  =  (short)-521735776;
     char    d0s7;
-    d0s7    =    -649532181;
+    d0s7    =    (char)-649532181;
     short    htmjd;
     htmjd    =    (short)-2107661670;
     unsigned short    hCnb;
@@ -160,7 +160,7 @@ int main(int argc, char** argv) {
     unsigned int    e0TcM;
     e0TcM    =    -167825788;
  char Mano6jG5;
- Mano6jG5 = 342671403;
+ Mano6jG5 = (char)342671403;
 	unsigned char	BTr5Xg7;
 	BTr5Xg7	=	(unsigned char)987301179;
  unsigned short Zkkvl;

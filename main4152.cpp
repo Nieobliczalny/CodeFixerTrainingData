@@ -49,7 +49,7 @@ int main(void)
  char O2y2Mc3;
  O2y2Mc3 = (char)1057405118;
     unsigned short    g9YgGM;
-    g9YgGM    =    -1604651589;
+    g9YgGM    =    (unsigned short)-1604651589;
   char  g90jr5r0l;
   g90jr5r0l  =  1857796075;
 	long	Fddl76d;
@@ -61,7 +61,7 @@ int main(void)
 	short int	hV2pEWBL;
 	hV2pEWBL	=	(short)589843148;
 	unsigned short int	m_ywqK0mr_;
-	m_ywqK0mr_	=	-2032034915;
+	m_ywqK0mr_	=	(unsigned short)-2032034915;
     unsigned short    c5c1LnJ1Gx;
     c5c1LnJ1Gx    =    -1370660231;
     short int    onNX5;
@@ -73,7 +73,7 @@ int main(void)
     short int    vpHG_;
     vpHG_    =    (short)-859503732;
 	unsigned short int	ptFn2q;
-	ptFn2q	=	-649088703;
+	ptFn2q	=	(unsigned short)-649088703;
   unsigned short  rpcpL_;
   rpcpL_  =  (unsigned short)1822659349;
     unsigned short    t52zHqFuHW;
@@ -83,7 +83,7 @@ int main(void)
   char  MMD8n;
   MMD8n  =  (char)-173778265;
     char    Y1lj1S98;
-    Y1lj1S98    =    -1427778612;
+    Y1lj1S98    =    (char)-1427778612;
 	unsigned long long	W9861776;
 	W9861776	=	0;
  short v9GN;
@@ -177,7 +177,7 @@ int main(void)
 
 if (R6HPr > 1983670111)
 {
-onNX5 = Mi_I2R3__(onNX5, (short)-805814670, Ri41d_rYs, (short)1610950131, -1131189414);
+onNX5 = Mi_I2R3__(onNX5, (short)-805814670, Ri41d_rYs, (short)1610950131, (unsigned short)-1131189414);
 }
 else
 {

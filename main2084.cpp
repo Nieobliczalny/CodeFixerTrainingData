@@ -27,7 +27,7 @@ int main()
  long A2H35fIM = -385434368;
  unsigned int qqKcD = 1684659498;
 	unsigned char	qlK9X2	=	(unsigned char)644054128;
-	unsigned short	LC39	=	697559805;
+	unsigned short	LC39	=	(unsigned short)697559805;
 	unsigned long long	i6qxe5j	=	482666467;
     long long    WxAN8    =    -1747320032;
     double    b5comvKT4Z    =    1128886687;

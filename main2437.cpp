@@ -15,7 +15,7 @@ int main(int argc, char** argv)
   unsigned char  q9fXE2c  =  (unsigned char)1106900092;
  unsigned long long ULJM16iw = -1383065450;
 	float	stj029R5	=	-2044623866;
-    char    X9CD    =    -1092838345;
+    char    X9CD    =    (char)-1092838345;
     float    CNer3l    =    2052129427;
 	char	g82108ujID	=	0;
  unsigned long long QVcGT2 = 1128771197;
@@ -29,7 +29,7 @@ int main(int argc, char** argv)
  float u5LHz9l = -25756868;
   float  ADw_ru  =  -1087917497;
   long double  QYL61u_D3  =  532106564;
-  unsigned short  az0W27Q  =  -2087317480;
+  unsigned short  az0W27Q  =  (unsigned short)-2087317480;
 	long	ScrH41hsD	=	-1962247015;
     unsigned long long    IPBu50OT    =    -973315832;
     unsigned int    X2zpSG    =    1152742595;

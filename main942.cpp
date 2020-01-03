@@ -36,7 +36,7 @@ int main(int argc, char** argv)
 	char	kZyEPeq;
 	kZyEPeq	=	(char)-1530814089;
  unsigned short wPK6;
- wPK6 = 1343965641;
+ wPK6 = (unsigned short)1343965641;
 	char	kvFX0Q7F;
 	kvFX0Q7F	=	(char)1494236333;
 	short	xYMXXE;
@@ -80,7 +80,7 @@ int main(int argc, char** argv)
  short int yAEmsi7GS;
  yAEmsi7GS = (short)-1008207196;
   short int  c55L36uM5;
-  c55L36uM5  =  -1579675599;
+  c55L36uM5  =  (short)-1579675599;
  unsigned long long IUv_yQ2_F;
  IUv_yQ2_F = 279037310;
  long UnnWl71;
@@ -152,7 +152,7 @@ int main(int argc, char** argv)
     float    g98LZ1a6n;
     g98LZ1a6n    =    -2074242468;
   unsigned char  jAVfp;
-  jAVfp  =  2012174012;
+  jAVfp  =  (unsigned char)2012174012;
 
 N2cshxH9p7 = vMyzycP9R >> gOW1;
 

@@ -77,7 +77,7 @@ int main(void) {
   float  yWFvoyx587;
   yWFvoyx587  =  1072912621;
   unsigned short int  Ma3wuri3fz;
-  Ma3wuri3fz  =  -1817530067;
+  Ma3wuri3fz  =  (unsigned short)-1817530067;
   unsigned long long  TgA1n07E9;
   TgA1n07E9  =  -29763089;
 	short int	iaW6Om;
@@ -117,7 +117,7 @@ int main(void) {
  short int XsE4f;
  XsE4f = (short)485497370;
  unsigned short na5u3K;
- na5u3K = -994268448;
+ na5u3K = (unsigned short)-994268448;
 	long long	kDWdVI84;
 	kDWdVI84	=	-194121684;
   unsigned short int  oC4ZP;

@@ -130,7 +130,7 @@ break;
 
 for (int i = 0; i < 3; i++)
 {
-std::cout << CKIIjJF(KGvpkEVxdC, (char)-1839463043, (short)1575014907, (char)-1959755208, -1752756434) << std::endl;
+std::cout << CKIIjJF(KGvpkEVxdC, (char)-1839463043, (short)1575014907, (char)-1959755208, (short)-1752756434) << std::endl;
 }
 
 switch (cML4iJ)
@@ -180,7 +180,7 @@ return 0;
 
 unsigned char  C38Y_FTS(int  GuMR)
 {
-  return  -413089510;
+  return  (unsigned char)-413089510;
 }
 
 unsigned short    Y0tPnA5()    {

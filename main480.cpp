@@ -97,7 +97,7 @@ case 2:
 tk6wl += 772952706;
 break;
 case 3:
-Nzt_ = uX1_(u6QEwmSY19, (unsigned short)25322105, 1682256111, Y2ZD, iFM4NC0K);
+Nzt_ = uX1_(u6QEwmSY19, (unsigned short)25322105, (unsigned char)1682256111, Y2ZD, iFM4NC0K);
 break;
 case 4:
 GBoEB = uX1_(Y8o4y3O, (unsigned short)-1555899098, UaH_E8fci, 1333745584, Cw3O0iZR);

@@ -392,7 +392,7 @@ case 2:
 B8C4Gx8H = (int)abs(k3Qe2K0);
 break;
 default:
-LXiS1cc = n5U3fx((unsigned short)-2119075959, aNRYb_HRV6, -1874461576, 1376173980);
+LXiS1cc = n5U3fx((unsigned short)-2119075959, aNRYb_HRV6, -1874461576, (short)1376173980);
 break;
 }
 }

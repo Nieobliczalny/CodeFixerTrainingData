@@ -49,7 +49,7 @@ int main(int argc, char** argv)
     unsigned short int    UfPPh4n9;
     UfPPh4n9    =    (unsigned short)887126002;
     short int    ewH29AW;
-    ewH29AW    =    -1902037402;
+    ewH29AW    =    (short)-1902037402;
  unsigned long a_I9F5;
  a_I9F5 = -726558041;
     long    RiAQvX8;
@@ -63,7 +63,7 @@ int main(int argc, char** argv)
 	double	Oof2Ud4;
 	Oof2Ud4	=	1279795214;
  unsigned char HSMC_BC;
- HSMC_BC = -505483062;
+ HSMC_BC = (unsigned char)-505483062;
   float  dx9H2mlDv5;
   dx9H2mlDv5  =  -1729399731;
   unsigned long  RW1f;

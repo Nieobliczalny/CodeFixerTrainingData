@@ -17,7 +17,7 @@ int main(int argc, char** argv)
   o0Ipg1h9  =  (unsigned short)-379623231;
   aflos3  =  (unsigned short)1298379803;
   n9e7  =  (unsigned short)1064195654;
-  JubVcf  =  435722100;
+  JubVcf  =  (unsigned short)435722100;
   Z3hwg9X  =  339239576;
   k6X3NLzz  =  337141347;
   kNs_  =  2074451802;
@@ -27,7 +27,7 @@ int main(int argc, char** argv)
   lPOihRVEYp  =  (unsigned short)1452443073;
   N3Okx  =  (unsigned short)-93945260;
   lrVQ4S2Fms  =  (unsigned short)1363643668;
-  E__bJ70nnx  =  62912881;
+  E__bJ70nnx  =  (unsigned short)62912881;
   N37P  =  -860406136;
   bL_CkT_G2  =  414532296;
   oClE  =  -1447996209;
@@ -37,7 +37,7 @@ int main(int argc, char** argv)
   Ebeb1a9  =  (unsigned short)609934744;
   r_3E58  =  (unsigned short)-1162122539;
   omj8a3RxV  =  (unsigned short)655286835;
-  XHe_xW8  =  -1265199212;
+  XHe_xW8  =  (unsigned short)-1265199212;
   w911lk_QK_  =  481302550;
   q7IUT  =  -1561693758;
  short int lV5ZIi;
@@ -166,7 +166,7 @@ if ((r_3E58 > -1860301839) || (JubVcf <= 355500360))
 switch (iWj0s8u)
 {
 case 0:
-aflos3 = XjIk(aflos3, (unsigned char)1433348773, 410615067, -1122418023);
+aflos3 = XjIk(aflos3, (unsigned char)1433348773, 410615067, (short)-1122418023);
 break;
 }
 }

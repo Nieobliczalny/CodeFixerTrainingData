@@ -449,7 +449,7 @@ JeZlwR8 = (unsigned char)(gTn2VnB);
 
 if ((1991082521 / Dl350((unsigned short)-105504078)) != 2037160040)
 {
-JeZlwR8 = Je_DUI(q6WW3_0Tw5, (short)-257530859) / Dl350(940130439);
+JeZlwR8 = Je_DUI(q6WW3_0Tw5, (short)-257530859) / Dl350((unsigned short)940130439);
 }
 
 a5Zg <<= 57500980;

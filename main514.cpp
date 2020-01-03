@@ -294,7 +294,7 @@ case 7:
 t4V0 = P6_7IQ((short)1470020902);
 break;
 case 8:
-QRGCeF = (e1P760_Np != xwlM) ? (unsigned short)1436436875 : P6_7IQ(-1083175856);
+QRGCeF = (e1P760_Np != xwlM) ? (unsigned short)1436436875 : P6_7IQ((short)-1083175856);
 break;
 case 9:
 mqo_ = vx6_Z5U33();

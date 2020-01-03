@@ -125,7 +125,7 @@ int main(void)
   char  nOnfR0K;
   nOnfR0K  =  (char)1653793523;
     unsigned short    RfG27;
-    RfG27    =    1764635714;
+    RfG27    =    (unsigned short)1764635714;
     long long    NMGr48O9v;
     NMGr48O9v    =    1011413428;
   unsigned short  f1_y096J9;
@@ -151,7 +151,7 @@ int main(void)
  short iJ882H22ir;
  iJ882H22ir = (short)1536676871;
     short int    N4Alh1NKwO;
-    N4Alh1NKwO    =    -839372392;
+    N4Alh1NKwO    =    (short)-839372392;
  int aEBPWvD74n;
  aEBPWvD74n = 1838925947;
   long long  U57jG6;
@@ -279,7 +279,7 @@ X1O29Y6 = (int)floor(GJLwn86);
 }
 else
 {
-std::cout << q8WRBy1U(LFOcw7i8YA, (short)-940161500) << gj6Y << q8WRBy1U((short)1565192513, (short)166242900) << xegeHkh(447574250, kOhIP, 2035015860, 554807726) << JB4o_9j456 << std::endl;
+std::cout << q8WRBy1U(LFOcw7i8YA, (short)-940161500) << gj6Y << q8WRBy1U((short)1565192513, (short)166242900) << xegeHkh(447574250, kOhIP, (char)2035015860, 554807726) << JB4o_9j456 << std::endl;
 }
 }
 else
@@ -451,7 +451,7 @@ case 1:
 YYjL3 = q8WRBy1U(YYjL3, (short)550096040);
 break;
 case 2:
-X83NRSa8_K = q8WRBy1U((short)481193957, 1239112533);
+X83NRSa8_K = q8WRBy1U((short)481193957, (short)1239112533);
 break;
 }
 }
@@ -649,7 +649,7 @@ o6Z07sRS4 = xegeHkh(vLvl, (short)1791841472, (char)592632161, R8oUvx);
 break;
 case 'g':
 case 'G':
-DC81H = xegeHkh(-548046152, (short)577773729, -1012342007, XP500);
+DC81H = xegeHkh(-548046152, (short)577773729, (char)-1012342007, XP500);
 break;
 case 'h':
 case 'H':

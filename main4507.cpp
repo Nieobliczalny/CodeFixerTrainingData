@@ -36,7 +36,7 @@ int main(int argc, char** argv) {
     unsigned long long    Ph1_WZN,    X09bQ_NR,    H4gH6d;
         Ph1_WZN    =    X09bQ_NR    =    H4gH6d    =    0;
 
-std::cout << Ph1_WZN << Kj8w8C_9 << b939_() << T0SXAA((unsigned short)-1517301421, Ze14J9Hz, 628106508, -1507442964) << "a95UKK5g" << std::endl;
+std::cout << Ph1_WZN << Kj8w8C_9 << b939_() << T0SXAA((unsigned short)-1517301421, Ze14J9Hz, (short)628106508, -1507442964) << "a95UKK5g" << std::endl;
 
 Ze14J9Hz = Ph1_WZN + Ze14J9Hz;
 
@@ -64,7 +64,7 @@ case 3:
 Ze14J9Hz = nv7K_(-847566264, (unsigned short)-7944172, 1256395141);
 break;
 case 4:
-H4gH6d = T0SXAA((unsigned short)15809576, 264637964, (short)710384024, -1765266227);
+H4gH6d = T0SXAA((unsigned short)15809576, 264637964, (short)710384024, (short)-1765266227);
 break;
 case 5:
 Ze14J9Hz = EJRG / Kj8w8C_9;
@@ -146,7 +146,7 @@ Kj8w8C_9 = Kj8w8C_9 * 1799047710;
 Kj8w8C_9 = b939_();
 std::cout << nv7K_(1393160338, (unsigned short)2008380351, -655144609) << "YY18b28" << JJ8vkLe() << "Q15DorT" << "QaoOfrN4" << std::endl;
 
-H4gH6d = T0SXAA((unsigned short)2082659929, EJRG, (short)1143474304, 614358360);
+H4gH6d = T0SXAA((unsigned short)2082659929, EJRG, (short)1143474304, (short)614358360);
 
 for (int i = 0; i < 2; i++)
 {
@@ -546,7 +546,7 @@ case 'b':
 X09bQ_NR = T0SXAA((unsigned short)1382500830, 1559602782, EJRG, Ze14J9Hz);
 break;
 case 'c':
-Ze14J9Hz = T0SXAA((unsigned short)643139710, Ph1_WZN, (short)2058915795, 264224931) | 2124524285;
+Ze14J9Hz = T0SXAA((unsigned short)643139710, Ph1_WZN, (short)2058915795, (short)264224931) | 2124524285;
 break;
 case 'd':
 Kj8w8C_9++;

@@ -28,7 +28,7 @@ int main()
 	hvg56	=	(short)1237372142;
 	yURiZn	=	(short)1362363217;
 	sB7y76Zn3_	=	(short)1028121906;
-	k0wk_1aWf3	=	-1116382664;
+	k0wk_1aWf3	=	(short)-1116382664;
 	unFXUH4H	=	310333834;
 	Z9ZcoQt	=	726377349;
 	X0ex9_fW	=	-1000530778;
@@ -38,7 +38,7 @@ int main()
 	GaWRH7_XX4	=	(short)-1996126157;
 	ErUH2_7XZ	=	(short)-1846365727;
 	r68i2_V	=	(short)-1675981856;
-	TNE3aD	=	-317411583;
+	TNE3aD	=	(short)-317411583;
 	t8fV	=	-769092342;
 	M4pw6T7w	=	971685875;
 	IS90o	=	1384915310;
@@ -48,7 +48,7 @@ int main()
 	dX7K	=	(short)-1807748171;
 	JYxC579fp	=	(short)1356322891;
 	NATPht	=	(short)325868929;
-	Q9mJ	=	1834301600;
+	Q9mJ	=	(short)1834301600;
 	d2t568_0dr	=	1427437488;
 	RD399_Up	=	792089265;
 	amJDx3	=	-1501220838;
@@ -58,7 +58,7 @@ int main()
 	deG6o2Vu	=	(short)-840511214;
 	bsiNz	=	(short)-1419524088;
 	zdD_iD_	=	(short)-1941071236;
-	lC4Zz	=	1185624598;
+	lC4Zz	=	(short)1185624598;
 	WClG	=	1615554621;
 	be4PB9jw	=	-1926622236;
 	ADm1sf3	=	-419072601;
@@ -69,7 +69,7 @@ int main()
 	M_bo5Y6_0Q	=	(short)1400896869;
 	E0Jz8	=	(short)-122998740;
 
-cout << "jS5416z5y" << "KxYyn" << zdD_iD_ << zdD_iD_ << STpre4j6(hvg56, -860385204, -847348213, -1800916657) << endl;
+cout << "jS5416z5y" << "KxYyn" << zdD_iD_ << zdD_iD_ << STpre4j6(hvg56, (short)-860385204, -847348213, -1800916657) << endl;
 o8mnNE5n &= 10482025;
 switch (TNE3aD)
 {
@@ -83,7 +83,7 @@ X0ex9_fW = STpre4j6((unsigned short)2021596159, p6k_9, deG6o2Vu, (char)-85753348
 break;
 case 'c':
 case 'C':
-sB7y76Zn3_ = DDTU(sB7y76Zn3_, ADm1sf3, -138131817, 145134675);
+sB7y76Zn3_ = DDTU(sB7y76Zn3_, ADm1sf3, (char)-138131817, 145134675);
 break;
 case 'd':
 case 'D':
@@ -213,7 +213,7 @@ case 2:
 X0ex9_fW = DDTU(X0ex9_fW, (short)1416620003, (char)-1850462136, GaWRH7_XX4);
 break;
 default:
-ADm1sf3 = STpre4j6(ADm1sf3, (short)-614833770, 529525142, 742106242);
+ADm1sf3 = STpre4j6(ADm1sf3, (short)-614833770, 529525142, (char)742106242);
 break;
 }
 cout << F31i_ << DDTU(ADm1sf3, o8mnNE5n, -1392708393, -925244859) << "LPu2QJX3x7" << endl;
@@ -257,7 +257,7 @@ O_Vx9++;
 int i = 7;
 do
 {
-cout << DDTU(i7FhbD, (short)1069371275, unFXUH4H, sB7y76Zn3_) << QbTp962nh(i7FhbD, (short)-1265636913, 511026007, (unsigned char)-1655769364, -303675431) << "C6RBiuS" << x36Hbyy0R(-1660672158) << endl;
+cout << DDTU(i7FhbD, (short)1069371275, unFXUH4H, sB7y76Zn3_) << QbTp962nh(i7FhbD, (short)-1265636913, 511026007, (unsigned char)-1655769364, (short)-303675431) << "C6RBiuS" << x36Hbyy0R(-1660672158) << endl;
 --i;
 }
 while (i >= 0);
@@ -302,7 +302,7 @@ Vos1UU4N = QbTp962nh(-501296347, (short)-1255620333, P_ivLr, (unsigned char)-925
 switch (lC4Zz)
 {
 case 'a':
-pzb1KByA = QbTp962nh(pzb1KByA, (short)-70484665, 594936877, 467204535, dX7K);
+pzb1KByA = QbTp962nh(pzb1KByA, (short)-70484665, 594936877, (unsigned char)467204535, dX7K);
 break;
 case 'b':
 Zg709e2qz = STpre4j6(Zg709e2qz, 661800949, -87775086, P_ivLr);

@@ -608,7 +608,7 @@ case 1:
 AJL1E = t32KPeMLYA((short)-1434360602, 1313420319, ree8, (char)2058795007);
 break;
 case 2:
-FiSd67vq_4 = Os_q8(-507096957, (unsigned short)2145335557, PDCw, v5d93, -422583135);
+FiSd67vq_4 = Os_q8(-507096957, (unsigned short)2145335557, PDCw, v5d93, (short)-422583135);
 break;
 case 3:
 XX3VtUDu3 = t32KPeMLYA(XX3VtUDu3, -1962410354, W083x9A2P4, 1505910295);

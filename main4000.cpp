@@ -39,7 +39,7 @@ int main(int argc, char** argv)
     long    Aii1FXt    =    -30839367;
  short int GAthGQ6 = (short)-780338164;
   float  wVyhmIA01E  =  -602585099;
-  unsigned short int  MS_inw_K  =  -864546616;
+  unsigned short int  MS_inw_K  =  (unsigned short)-864546616;
  long long WM_T = -1133162770;
     double    mWE_0    =    -1934678447;
  long long LXiiA = -1862299266;
@@ -67,7 +67,7 @@ int main(int argc, char** argv)
  char gZtCqKoc = (char)-1262844547;
 	unsigned long long	zj_nP	=	1645096147;
  float DFk0 = 568788819;
-    char    qGCA    =    -1410152803;
+    char    qGCA    =    (char)-1410152803;
  long double Mjre3 = 1514954218;
 	short int	oeZn	=	230870287;
  int XlpR2H = -565665996;
@@ -77,7 +77,7 @@ int main(int argc, char** argv)
  unsigned int OCm1Y_Dc = -1448636949;
  unsigned short int MBMi = (unsigned short)1889831564;
  unsigned long long p47c = 1420168300;
-	unsigned short int	KkZ9_PPbrI	=	-272538838;
+	unsigned short int	KkZ9_PPbrI	=	(unsigned short)-272538838;
     unsigned long    TV0yV    =    2039738204;
 	double	SdIY_GF	=	-730715771;
     unsigned long long    oY6Ky359    =    -836262725;
@@ -90,7 +90,7 @@ int main(int argc, char** argv)
     unsigned short    Kx7Ek_RC    =    (unsigned short)975063788;
 	unsigned long	j2kaJtDUzP	=	-1257564046;
 	double	Fj8dsbJ1	=	727214409;
- short int AF1dmdTD = -1383218921;
+ short int AF1dmdTD = (short)-1383218921;
   long  kV_bMiv  =  -799092550;
     long long    SfoUTLN8    =    -1825431051;
 	unsigned short int	LjbX	=	(unsigned short)-593714137;
@@ -295,7 +295,7 @@ Mjre3 = T39CV_384Z((short)-2145452718, -726249220, (unsigned short)-996628412) +
 switch (a7x43Wgq)
 {
 case 0:
-pNB_Ka0Y = tLGemDnRL((short)-1972882625, 1287470325, -742148090, -1777713553);
+pNB_Ka0Y = tLGemDnRL((short)-1972882625, (unsigned short)1287470325, -742148090, -1777713553);
 break;
 case 1:
 ld4gK8 = tLGemDnRL(ld4gK8, ORYb_5N0_C, -1438024749, p47c);
@@ -317,7 +317,7 @@ OAd84 = YH4LYzZkl6 - j_eO550q;
 break;
 }
 
-std::cout << T39CV_384Z(aDX1nsZr, D8AJa, (unsigned short)780510402) << "Vi6j" << tLGemDnRL(aDX1nsZr, (unsigned short)-1114609141, 1184619352, (unsigned short)1125030082) << "p4Ouy5NLl" << T39CV_384Z(1571178519, -2058939303, u70aQo) << std::endl;
+std::cout << T39CV_384Z(aDX1nsZr, D8AJa, (unsigned short)780510402) << "Vi6j" << tLGemDnRL(aDX1nsZr, (unsigned short)-1114609141, 1184619352, (unsigned short)1125030082) << "p4Ouy5NLl" << T39CV_384Z((short)1571178519, -2058939303, u70aQo) << std::endl;
 {
 int i = 8;
 while (i >= 0)

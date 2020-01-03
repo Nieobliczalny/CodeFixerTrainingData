@@ -293,7 +293,7 @@ BOn2 = (int)floor(z0fiFgU);
 }
 else
 {
-Ve0x6v7Wx = SGHz_N(Ve0x6v7Wx, 815234018, goetTTJFNz, (short)1070932625, -1877622967);
+Ve0x6v7Wx = SGHz_N(Ve0x6v7Wx, 815234018, goetTTJFNz, (short)1070932625, (unsigned short)-1877622967);
 }
 }
 }

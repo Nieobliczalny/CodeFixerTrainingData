@@ -73,7 +73,7 @@ int main()
 	short	Q_obenZ_;
 	Q_obenZ_	=	(short)928503387;
     short int    LP4tXVW;
-    LP4tXVW    =    -893203669;
+    LP4tXVW    =    (short)-893203669;
   unsigned int  TZQv5e2vp;
   TZQv5e2vp  =  -1160669203;
  unsigned int AgEz0;

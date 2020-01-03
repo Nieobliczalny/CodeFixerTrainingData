@@ -18,7 +18,7 @@ int main(int argc, char** argv) {
 	long double	wbNiXbu	=	-90379618;
     unsigned int    J1WLH44iG    =    -304354961;
   unsigned short int  zg5upI_s  =  (unsigned short)739571827;
-	unsigned char	hZ__t38o_5	=	-1373746241;
+	unsigned char	hZ__t38o_5	=	(unsigned char)-1373746241;
     unsigned long    sR7pH123    =    617676381;
 	unsigned short	W90Mxc86H0	=	1978411979;
     short int    XSNt    =    (short)-1962614;

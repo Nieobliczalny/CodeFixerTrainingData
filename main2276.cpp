@@ -34,7 +34,7 @@ int main(void) {
   long double  Z0Z9J9  =  462146402;
  long long lKgjrmpL5 = 1035903933;
     short int    Y7v63R    =    (short)1765667844;
-    short    TZjWb9PT    =    1216918981;
+    short    TZjWb9PT    =    (short)1216918981;
 	unsigned long long	q8dUav	=	1249325267;
   char  NtYRhWB  =  (char)-1216549959;
  unsigned int dym6J4p = 462407823;
@@ -55,7 +55,7 @@ int main(void) {
  int pmzA4lrIBB = -367513485;
     double    mu72V7mN    =    -973507494;
   unsigned int  XTVMC  =  1463648487;
-    short int    iBzdi4A    =    757137854;
+    short int    iBzdi4A    =    (short)757137854;
     long double    cK9dL1R    =    971055235;
   unsigned long  vJYk  =  564189871;
     long    vsr_Bsl7Im    =    298346918;
@@ -80,7 +80,7 @@ int main(void) {
 	long double	Y2xe9OS	=	1865115472;
 	unsigned long long	VChdo3	=	-1783642717;
     short    Uk8je    =    (short)2109913200;
-    short    a9_s    =    239859897;
+    short    a9_s    =    (short)239859897;
     long    X1iB    =    965261695;
  long double W34t = -1066321203;
  unsigned long long z8MeU_Cm = -988658458;
@@ -373,7 +373,7 @@ case 'h':
 P2CJ3E++;
 break;
 case 'i':
-AIS7FI = SJR1((unsigned short)1495043367, -1015176921, RVPi15ZlJ2, -1433503057);
+AIS7FI = SJR1((unsigned short)1495043367, (short)-1015176921, RVPi15ZlJ2, -1433503057);
 break;
 case 'j':
 ND3GwziDmh = (int)abs(vsr_Bsl7Im);
@@ -745,7 +745,7 @@ AIS7FI = SJR1((unsigned short)299494566, (short)1224450794, bdCW7hwJ2X, i3_cZ6);
 break;
 case 'g':
 case 'G':
-g3bqT4OZ = SJR1((unsigned short)-1026316242, TZjWb9PT, 1835756535, -841007675);
+g3bqT4OZ = SJR1((unsigned short)-1026316242, TZjWb9PT, 1835756535, (unsigned short)-841007675);
 break;
 case 'h':
 case 'H':
@@ -783,7 +783,7 @@ case 'f':
 B5hQ = (GC9QZ3S < ND3GwziDmh) ? z8MeU_Cm : 179265065;
 break;
 case 'g':
-AIS7FI = SJR1(clFh4lP21w, -1776429794, MRLZYdXMY, 820323170);
+AIS7FI = SJR1(clFh4lP21w, (short)-1776429794, MRLZYdXMY, 820323170);
 break;
 case 'h':
 S51P >>= 397454939;
@@ -817,7 +817,7 @@ return 0;
 
 unsigned short	SB2f_Jzc(unsigned long	D0kWh08uWO)
 {
-	return	1042467944;
+	return	(unsigned short)1042467944;
 }
 
 short SJR1(unsigned short cu6_4,short DV_2CW,long yevRl,unsigned short int UGP81hAr) {

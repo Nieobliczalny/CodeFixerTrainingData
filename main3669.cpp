@@ -19,7 +19,7 @@ int main()
  short int Ii4Y_FOm5 = (short)1769594531;
     float    PlX8yN    =    -1080683398;
 	unsigned long long	z3VtS	=	-1134672196;
-	short int	g33Yx5oa	=	-641837169;
+	short int	g33Yx5oa	=	(short)-641837169;
 	long long	zhpIdK71n	=	1638392555;
     unsigned long long    NeYiFHw    =    0;
  unsigned long mQY1 = 182722387;
@@ -30,7 +30,7 @@ int main()
     float    UTxnpEvy_L    =    599753338;
   long double  AJ3xWv4B  =  346455251;
   float  gtZLW50  =  1818120671;
-	short int	u5_YBULzJ	=	351811471;
+	short int	u5_YBULzJ	=	(short)351811471;
     float    un3sOXGXjV    =    -1049113189;
  long double Y_1a2HvaWF = -70685460;
  long long oQCC3cXRP = -1320993842;
@@ -40,7 +40,7 @@ int main()
     unsigned char    s_T_T72Jbg    =    (unsigned char)1930303834;
   short int  jxny7z7  =  762682115;
     float    W9n8N    =    -1941434679;
-	unsigned short int	SnU_	=	1490761370;
+	unsigned short int	SnU_	=	(unsigned short)1490761370;
     short int    KgecyyS3    =    -613056826;
  float D4DkL = 1902199864;
  unsigned char yVJ_8Xl9l_ = -542283916;
@@ -51,7 +51,7 @@ int main()
     unsigned char    fICT5    =    (unsigned char)-466602805;
     long double    Hn_ONT2    =    -2057777;
     char    Jg958    =    (char)1419245105;
-	unsigned char	W__cH9	=	-95618506;
+	unsigned char	W__cH9	=	(unsigned char)-95618506;
   unsigned long  T7b6Wk_  =  -1842969307;
 	long long	MXoLjdCDf	=	250424589;
   int  jT97  =  -628365309;
@@ -65,7 +65,7 @@ int main()
     short int    AY0xg_    =    (short)-1027883436;
     unsigned long long    M7uAiOmGv_    =    2002140788;
     unsigned char    oWQJ    =    (unsigned char)-1636733983;
-	unsigned short int	b888_D9Ai	=	-1062660056;
+	unsigned short int	b888_D9Ai	=	(unsigned short)-1062660056;
  unsigned long bi68 = -943016751;
 	char	Y8A_	=	379008670;
   unsigned short int  wMF_ycs  =  (unsigned short)18345265;
@@ -75,7 +75,7 @@ int main()
  short int Jv1HUz51H = (short)1279262458;
 	unsigned long	JB8Aoo	=	0;
   short int  KmjSkF8  =  (short)2140913668;
-    char    EI0KnvnfI    =    856922780;
+    char    EI0KnvnfI    =    (char)856922780;
     short    q_9pc9EK    =    -1856015603;
  long X46KB3S7 = 992308493;
   unsigned int  mfBX7l8  =  -1739620082;

@@ -78,7 +78,7 @@ case 0:
 RpTwUDv = L1PAM_7F((unsigned char)689644173, -368739545, iOPUS2qnL, (unsigned short)-249859519);
 break;
 default:
-BUgEqxh = iP_ad((unsigned char)-2129290937, 823914312) >> H6hix3;
+BUgEqxh = iP_ad((unsigned char)-2129290937, (char)823914312) >> H6hix3;
 break;
 }
 }
@@ -149,7 +149,7 @@ case 'e':
 vCqqb25GE = iP_ad((unsigned char)-1901577779, (char)316987998);
 break;
 case 'f':
-c80Dw591n = iP_ad((unsigned char)328616326, -804917970);
+c80Dw591n = iP_ad((unsigned char)328616326, (char)-804917970);
 break;
 default:
 GssM = (int)abs(Ou6f5T8d);

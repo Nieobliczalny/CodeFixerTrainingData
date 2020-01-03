@@ -41,7 +41,7 @@ int main(int argc, char** argv) {
  long nCz6uEky4;
  nCz6uEky4 = 215240580;
 	char	Imx49lEO;
-	Imx49lEO	=	-1538553309;
+	Imx49lEO	=	(char)-1538553309;
  int JtQ3;
  JtQ3 = -1182890721;
  double Anpq4Pf;
@@ -109,7 +109,7 @@ catch (int& errorCode)
 arc10xCab += 126124052;
 }
 f2M_3v = S6IUMZN(ixcRmS_6, (unsigned char)-706546049, Ie049, h_nenNT, (unsigned short)-102432469);
-if ((JDFb8 / S6IUMZN((char)-214749941, nCz6uEky4, Ie049, h_nenNT, 1864887559)) > 1496406260)
+if ((JDFb8 / S6IUMZN((char)-214749941, nCz6uEky4, Ie049, h_nenNT, (unsigned short)1864887559)) > 1496406260)
 {
 for (int i = 7; i >= 0; --i)
 {
@@ -149,7 +149,7 @@ std::cout << O83hkgl((char)1254761406, 1461907395) << S6IUMZN(f2M_3v, INKPCx1A, 
 }
 try
 {
-std::cout << S6IUMZN(-1834256037, INKPCx1A, JDFb8, -963902955, Yn9oES) << arc10xCab << "vnj97ew" << std::endl;
+std::cout << S6IUMZN((char)-1834256037, INKPCx1A, JDFb8, -963902955, Yn9oES) << arc10xCab << "vnj97ew" << std::endl;
 }
 catch (int& errorCode)
 {
@@ -205,7 +205,7 @@ else
 TO2Q = O83hkgl((char)1005336120, DBqcDq802);
 }
 k9OjX965 = o_mt0Ps(k9OjX965);
-std::cout << O83hkgl(k9OjX965, 110899690) << nCz6uEky4 << S6IUMZN((char)652203442, DBqcDq802, (char)-1932214405, Anpq4Pf, f2M_3v) << lJAr_h1(k9OjX965, -1131009185, -1216019103, Anpq4Pf) << "w0rxY5Mq" << std::endl;
+std::cout << O83hkgl(k9OjX965, 110899690) << nCz6uEky4 << S6IUMZN((char)652203442, DBqcDq802, (char)-1932214405, Anpq4Pf, f2M_3v) << lJAr_h1(k9OjX965, (unsigned short)-1131009185, -1216019103, Anpq4Pf) << "w0rxY5Mq" << std::endl;
 k9OjX965 = o_mt0Ps(k9OjX965);
 return 0;
 }

@@ -34,7 +34,7 @@ int main(void)
  unsigned short int Ovj_1H8Q = (unsigned short)-615702274;
 	int	bG927	=	1564487291;
     unsigned short int    X_vYVL_j    =    (unsigned short)292649302;
-  unsigned short  j5GfG  =  266056001;
+  unsigned short  j5GfG  =  (unsigned short)266056001;
  unsigned short int h7L9 = 1157255291;
 	unsigned short int	Y_S1BS_pk	=	58030693;
  short zgWppLB5B = -1385834246;
@@ -48,7 +48,7 @@ int main(void)
  short int Sr01Yit0 = (short)-371139667;
  short int ABl63y = (short)421809921;
     float    Os721wM    =    1366030494;
-  char  P4_W8  =  -1737549636;
+  char  P4_W8  =  (char)-1737549636;
     int    Q6yV    =    933965777;
   int  Fo70_RH  =  -549495972;
 	double	wC4iJ	=	1631981722;
@@ -59,7 +59,7 @@ int main(void)
   unsigned short  py5v67  =  (unsigned short)1628929513;
 	long long	BDA7gRwo3a	=	221023567;
   short int  X002e7f  =  (short)867101370;
-	short	lxKgNGzs	=	501862085;
+	short	lxKgNGzs	=	(short)501862085;
     char    tnzuy12_e    =    -531192000;
     short    gdb0c0w16    =    0;
 	long long	uIuT1KyA	=	-1967426110;
@@ -72,7 +72,7 @@ int main(void)
   unsigned short  C9q82_eax4  =  (unsigned short)1280946715;
   long long  iTiS5T_u  =  1538266781;
 	unsigned char	vtBl	=	(unsigned char)-1878242440;
-	short int	BlHIR_va	=	-1019490687;
+	short int	BlHIR_va	=	(short)-1019490687;
  long CTR_g8j_x = 1850692409;
   long  laPpy3  =  2098801697;
  long double k2mO1 = 1626156889;
@@ -106,7 +106,7 @@ if (NFJ0kcI > TFUIZS)
 {
 if ((Y_S1BS_pk != uD693xyM) || (laPpy3 >= h7L9))
 {
-std::cout << "awGT005u_7" << "S_4Ab768" << y38U63_USX(A6dYvw_32R, (short)-1634210810, F3Xx) << Fo70_RH << nje3O(A6dYvw_32R, 862144650, F3Xx) << std::endl;
+std::cout << "awGT005u_7" << "S_4Ab768" << y38U63_USX(A6dYvw_32R, (short)-1634210810, F3Xx) << Fo70_RH << nje3O(A6dYvw_32R, (short)862144650, F3Xx) << std::endl;
 }
 else if ((X002e7f != -262382383) && ((Y_S1BS_pk <= -974805970) && (Os721wM)))
 {
@@ -213,7 +213,7 @@ if (gdb0c0w16 == 0)
 }
 std::cout << Ilt5OVgXK((char)-998317240, py5v67, (short)107307059) << "PyB1o_BE" << std::endl;
 gdb0c0w16 = y1hfdY(-651541307, (unsigned short)-838097757, LO95v, Q6yV);
-EcM75q8wK6 = nje3O(EcM75q8wK6, -235338236, 773777051);
+EcM75q8wK6 = nje3O(EcM75q8wK6, (short)-235338236, 773777051);
 
 Sr01Yit0 = (short int)(s28cG58);
 

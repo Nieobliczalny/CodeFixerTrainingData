@@ -83,7 +83,7 @@ int main(void) {
   short int  bgJM;
   bgJM  =  (short)1874466785;
 	unsigned short	DAzp8t;
-	DAzp8t	=	217357846;
+	DAzp8t	=	(unsigned short)217357846;
     unsigned int    Wc1_2y3R1;
     Wc1_2y3R1    =    357914608;
  short int l43Vj2x8MW;
@@ -176,7 +176,7 @@ int j = 2;
 while (j >= 0)
 {
 j--;
-cout << ugf6Ra << Z5jqLzIQo_((unsigned short)-926519352, qcaFb_8t, IUgGEvCv, DAzp8t) << QNO9OD278((short)-1149508175, 1427373105, IUgGEvCv) << QNO9OD278(f9I5ib14V, qcaFb_8t, 382647965) << endl;
+cout << ugf6Ra << Z5jqLzIQo_((unsigned short)-926519352, qcaFb_8t, IUgGEvCv, DAzp8t) << QNO9OD278((short)-1149508175, 1427373105, IUgGEvCv) << QNO9OD278(f9I5ib14V, qcaFb_8t, (unsigned short)382647965) << endl;
 }
 }
 }
@@ -334,7 +334,7 @@ case 5:
 JOKS9M7z = Z5jqLzIQo_((unsigned short)-1669754579, (unsigned short)-65745324, bgJM, Wc1_2y3R1);
 break;
 case 6:
-tM88 = W99qy(-232931445);
+tM88 = W99qy((unsigned short)-232931445);
 break;
 case 7:
 feS0JCThW = K00f << 1053538319;
@@ -382,7 +382,7 @@ case 'a':
 HLXmE = (int)abs(UH1d40);
 break;
 case 'b':
-f9I5ib14V = QNO9OD278((short)-1654792105, 1723485603, 1427064387);
+f9I5ib14V = QNO9OD278((short)-1654792105, 1723485603, (unsigned short)1427064387);
 break;
 case 'c':
 G11LJj *= ain0ac7Hr;

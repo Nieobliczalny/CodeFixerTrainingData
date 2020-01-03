@@ -34,7 +34,7 @@ int main(int argc, char** argv) {
  short u9F14I5Z9;
  u9F14I5Z9 = (short)-791261208;
     unsigned short    qhs6_du;
-    qhs6_du    =    296738062;
+    qhs6_du    =    (unsigned short)296738062;
     int    lM_c8nVR;
     lM_c8nVR    =    -1541502846;
   long  SKZWDMNp5;
@@ -68,7 +68,7 @@ int main(int argc, char** argv) {
  float kpLRB;
  kpLRB = -664394471;
 	short int	BoWoYh9Q1;
-	BoWoYh9Q1	=	1044377108;
+	BoWoYh9Q1	=	(short)1044377108;
     double    mu058oW;
     mu058oW    =    1564045988;
 	short	Yyuq4J5N04;
@@ -96,7 +96,7 @@ int main(int argc, char** argv) {
     unsigned short int    yeSYh_Q3;
     yeSYh_Q3    =    (unsigned short)1639671585;
  unsigned short int in_ADmrqx;
- in_ADmrqx = -1655522270;
+ in_ADmrqx = (unsigned short)-1655522270;
   long double  gBZX3G;
   gBZX3G  =  -1748566447;
 	unsigned short	OY99O1J3k;
@@ -506,7 +506,7 @@ case 2:
 om51S = (int)abs(gBZX3G);
 break;
 case 3:
-TWQ_p3y6W = AZz9Qg((unsigned short)-448648890, (unsigned short)-1268766029, -1303900887, -1347119648);
+TWQ_p3y6W = AZz9Qg((unsigned short)-448648890, (unsigned short)-1268766029, (unsigned short)-1303900887, -1347119648);
 break;
 case 4:
 TWQ_p3y6W = AZz9Qg(om51S, (unsigned short)935040418, IV1I7, Tn0Px3cdU8);

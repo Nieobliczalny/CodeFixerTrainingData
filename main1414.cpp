@@ -27,7 +27,7 @@ int main(int argc, char** argv) {
     SXLn1T    =    (char)258146796;
     AA_1    =    (char)1713980300;
     mziAxg    =    (char)-1738816189;
-    NMkQOFnE    =    1065860529;
+    NMkQOFnE    =    (char)1065860529;
     d4aQ9t    =    -1351568115;
     K1n50VAb    =    -816548147;
     y48_    =    2146714722;
@@ -37,7 +37,7 @@ int main(int argc, char** argv) {
     b61Kd    =    (char)1627848949;
     CJ8YJ4oV    =    (char)-160168507;
     HfFF96zhk6    =    (char)1966261715;
-    Xkq3    =    1335800233;
+    Xkq3    =    (char)1335800233;
     ji9E7W1    =    -29657222;
     Ss7Swj    =    -34249051;
     q65ezwBx    =    -561177287;
@@ -47,7 +47,7 @@ int main(int argc, char** argv) {
     e29hWETr    =    (char)336011011;
     UilYRG    =    (char)-506671949;
     y3Hty3F    =    (char)-749508395;
-    S27f35l6    =    -1923105394;
+    S27f35l6    =    (char)-1923105394;
     oKx1    =    -146686063;
     rLLce7    =    -900360362;
     zq_K92    =    1656637249;
@@ -194,7 +194,7 @@ else
 gkE_caZ = (unsigned char)(d337z);
 }
 }
-zq_K92 = (SXLn1T == 361141294) ? SMN7((unsigned short)2130626802, (unsigned short)1389933036) : Zm07(e29hWETr, (unsigned short)-1213490738, 484346126);
+zq_K92 = (SXLn1T == 361141294) ? SMN7((unsigned short)2130626802, (unsigned short)1389933036) : Zm07(e29hWETr, (unsigned short)-1213490738, (unsigned short)484346126);
 switch (K1n50VAb)
 {
 case 'a':
@@ -435,7 +435,7 @@ for (int i = 0; i < 5; ++i)
 {
 if (Pvx0HOUnXl != -886427568)
 {
-aPD2NfsZ = E8IY7((unsigned short)558217367, (unsigned short)1768997790, -1170119184, 2028439828, -795767113);
+aPD2NfsZ = E8IY7((unsigned short)558217367, (unsigned short)1768997790, (unsigned short)-1170119184, 2028439828, -795767113);
 }
 else if (kk2Uwq3 > 382520408)
 {

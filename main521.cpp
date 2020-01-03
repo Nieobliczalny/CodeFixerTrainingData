@@ -105,7 +105,7 @@ case 'd':
 fBNH = nEda25pyOU((unsigned char)-442763415);
 break;
 case 'e':
-fBNH = nEda25pyOU(-2134938734);
+fBNH = nEda25pyOU((unsigned char)-2134938734);
 break;
 case 'f':
 b28GA += Wm269tE;

@@ -182,7 +182,7 @@ case 1:
 qBvOH7w = aq909GYq((unsigned char)220664068, 889839020);
 break;
 case 2:
-Zr02_4Z = qFtBQqOXMX(-129929152, 471552488, 1994392545, H7jcKBupr, bnw589Dlv);
+Zr02_4Z = qFtBQqOXMX((char)-129929152, 471552488, 1994392545, H7jcKBupr, bnw589Dlv);
 break;
 default:
 DiK_O -= AHoidT0;
@@ -205,7 +205,7 @@ case 2:
 Et84Qa = aq909GYq((unsigned char)-27882215, YdQz);
 break;
 case 3:
-K0eWFBF1SM = qFtBQqOXMX((char)-808003812, svui8wH12, (unsigned short)1234274761, sCplPUJQd, -1236917164);
+K0eWFBF1SM = qFtBQqOXMX((char)-808003812, svui8wH12, (unsigned short)1234274761, sCplPUJQd, (unsigned short)-1236917164);
 break;
 case 4:
 T1pG *= 1949394964;
@@ -220,7 +220,7 @@ case 7:
 HZXnTL0 = qFtBQqOXMX((char)-871730322, (short)753342080, OTp6Fy, 1236670913, (unsigned short)-1580082894);
 break;
 case 8:
-HZXnTL0 = qFtBQqOXMX(VIsRo_8, -107504592, L64HK5Z, -1915204724, -1075864238);
+HZXnTL0 = qFtBQqOXMX(VIsRo_8, (short)-107504592, L64HK5Z, -1915204724, -1075864238);
 break;
 case 9:
 AHoidT0 = s_90 * F52_Nr;
@@ -278,7 +278,7 @@ case 1:
 K0eWFBF1SM = qFtBQqOXMX((char)-1352590666, (short)-345111344, fnHbJB13q7, T1pG, (unsigned short)-137651708);
 break;
 case 2:
-HZXnTL0 = qFtBQqOXMX(JJJg3, T1pG, -558537528, wUTtW, EPDJawxI);
+HZXnTL0 = qFtBQqOXMX(JJJg3, T1pG, (unsigned short)-558537528, wUTtW, EPDJawxI);
 break;
 }
 }
@@ -379,7 +379,7 @@ case 3:
 Et84Qa = aq909GYq((unsigned char)-1443192920, 1956736424);
 break;
 case 4:
-K0eWFBF1SM = qFtBQqOXMX(qBvOH7w, (short)2143392680, (unsigned short)-434164125, 263626178, 464038151);
+K0eWFBF1SM = qFtBQqOXMX(qBvOH7w, (short)2143392680, (unsigned short)-434164125, 263626178, (unsigned short)464038151);
 break;
 case 5:
 F03e48y = (int)ceil(Cg7F2);
@@ -549,7 +549,7 @@ sWw483z6 = qFtBQqOXMX((char)-1407995932, (short)-1294081890, (unsigned short)-46
 }
 else if (PShb2Lh16 != 426194778)
 {
-Zr02_4Z = qFtBQqOXMX(-1408181193, 1686214961, Bp7_, CCwLVe_1, 370411836);
+Zr02_4Z = qFtBQqOXMX((char)-1408181193, 1686214961, Bp7_, CCwLVe_1, 370411836);
 }
 else if (YdQz >= -1341504946)
 {

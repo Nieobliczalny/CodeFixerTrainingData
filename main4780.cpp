@@ -42,7 +42,7 @@ int main(int argc, char** argv)
     unsigned int    bX71aN8vn    =    0;
   unsigned long  FzT1  =  1163003019;
   unsigned int  Gp715_pS  =  1435427822;
-    unsigned char    es2c93D0    =    -1399158541;
+    unsigned char    es2c93D0    =    (unsigned char)-1399158541;
 	unsigned int	f125nvI_KR	=	0;
     unsigned short int    x4665Q    =    1338431468;
 	long long	c7oK	=	0;

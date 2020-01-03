@@ -38,7 +38,7 @@ int main(int argc, char** argv) {
     short int    H5m_Q9    =    (short)1732581817;
   unsigned long  kg4p_5gM4I  =  -2050688573;
  long double C7_k3b2T = 1701539030;
-	unsigned short	R9zFA	=	585637455;
+	unsigned short	R9zFA	=	(unsigned short)585637455;
  long g9v6kRn2Xc = -790063109;
     char    rNpR6h8qT    =    (char)-1406653378;
  char ctz1FhMclw = 832743726;
@@ -53,7 +53,7 @@ int main(int argc, char** argv) {
   short  f006KZej  =  (short)2131983614;
 	unsigned short int	cL3N	=	(unsigned short)-2118688186;
 	short int	JhOyQcUJv	=	(short)1702337821;
-    short int    kl6_    =    -707452746;
+    short int    kl6_    =    (short)-707452746;
 	int	CIfx7	=	1375618206;
  short t8P_ = -138842143;
 
@@ -130,7 +130,7 @@ kl6_ = Pp3Xyvt2(kl6_, (short)-1004667843);
 }
 else if (pP5VIXd3T)
 {
-jlms99 = EW1z5(p466, 1685836685, t8P_, 1783764482, pRrFg);
+jlms99 = EW1z5(p466, (unsigned short)1685836685, t8P_, 1783764482, pRrFg);
 }
 else if (kl6_ != 144084903)
 {
@@ -187,7 +187,7 @@ case 'g':
 C7_k3b2T = (int)ceil(y6VK7gS);
 break;
 case 'h':
-Y0_7Am = Pp3Xyvt2(Z84_6, 627835685);
+Y0_7Am = Pp3Xyvt2(Z84_6, (short)627835685);
 break;
 case 'i':
 eBVYpm5 = (int)abs(c3u3rz71);
@@ -306,7 +306,7 @@ else
 {
 if (gM0SgLXc >= TWF636iK)
 {
-rm6m72M = EW1z5((unsigned short)-879018556, (unsigned short)1047269619, ofsU_7R13, 395385504, -526062316);
+rm6m72M = EW1z5((unsigned short)-879018556, (unsigned short)1047269619, ofsU_7R13, 395385504, (unsigned short)-526062316);
 }
 }
 
@@ -356,7 +356,7 @@ case 5:
 Z84_6 = EW1z5((unsigned short)510143699, ofsU_7R13, Z84_6, -782815422, r_C043z1v7);
 break;
 case 6:
-Z84_6 = EW1z5(-135242186, R9zFA, 1798254608, JhOyQcUJv, 433154867);
+Z84_6 = EW1z5((unsigned short)-135242186, R9zFA, 1798254608, JhOyQcUJv, 433154867);
 break;
 case 7:
 pRrFg = Pp3Xyvt2(pRrFg, 708972231);
@@ -517,7 +517,7 @@ break;
 
 jlms99 = EW1z5((unsigned short)-772560645, txX6W, 1416423192, -2099530578, (unsigned short)-1218202000);
 
-cout << "qgKUuz0t" << EW1z5(Qjp_2c8NR, (unsigned short)-1276990068, y6VK7gS, g9v6kRn2Xc, -1284254144) << "RL5_9E8J_" << "GbfCJLY" << endl;
+cout << "qgKUuz0t" << EW1z5(Qjp_2c8NR, (unsigned short)-1276990068, y6VK7gS, g9v6kRn2Xc, (unsigned short)-1284254144) << "RL5_9E8J_" << "GbfCJLY" << endl;
 eBVYpm5 *= 1912833658;
 return 0;
 }

@@ -125,7 +125,7 @@ case 6:
 HIPj = Jh49s8M(HIPj, 1558129297, -1697598880);
 break;
 case 7:
-vyl6cn = ESMQRso2s(-1206177704, qVEz, (unsigned char)777378967, hmUh1yJmi, -63138511);
+vyl6cn = ESMQRso2s(-1206177704, qVEz, (unsigned char)777378967, hmUh1yJmi, (unsigned char)-63138511);
 break;
 case 8:
 vyl6cn++;
@@ -178,7 +178,7 @@ break;
 
 if ((Va92Ez7 != jlPUfV_N) || ((n6U7CDCV0F >= -1436707708) || (oT95Fo15 <= 636140287)))
 {
-UP6F8zFo = su79_2LDMI(UP6F8zFo, 654936625, -1140611272, 1859103158, -506962248);
+UP6F8zFo = su79_2LDMI(UP6F8zFo, 654936625, (short)-1140611272, 1859103158, -506962248);
 }
 else
 {

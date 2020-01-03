@@ -47,7 +47,7 @@ int main()
 	unsigned short	Ntp3N;
 	Ntp3N	=	(unsigned short)1513014051;
  unsigned short int T7jQH7X30r;
- T7jQH7X30r = 857918569;
+ T7jQH7X30r = (unsigned short)857918569;
 	long	f31y5GK;
 	f31y5GK	=	-1684718348;
 	unsigned short	tTi26G;
@@ -137,7 +137,7 @@ int main()
     long double    C4xhE;
     C4xhE    =    458448969;
 	char	Jx4tKh4zuY;
-	Jx4tKh4zuY	=	1107555623;
+	Jx4tKh4zuY	=	(char)1107555623;
  short wtbE7;
  wtbE7 = (short)114733592;
 	unsigned int	yO1Y;
@@ -173,7 +173,7 @@ int main()
  unsigned short int n7Qy3y;
  n7Qy3y = (unsigned short)-971002006;
     short    U1uDhtc;
-    U1uDhtc    =    -1158258304;
+    U1uDhtc    =    (short)-1158258304;
     char    m441;
     m441    =    -1025440675;
  unsigned char cSzE4;

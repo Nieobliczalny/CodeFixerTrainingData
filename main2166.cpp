@@ -33,7 +33,7 @@ int main() {
 	short int	ySTP;
 	ySTP	=	(short)-731203907;
  unsigned short int XN9Q;
- XN9Q = -1518744267;
+ XN9Q = (unsigned short)-1518744267;
 	long	rPKQD017;
 	rPKQD017	=	1130597808;
 	unsigned long	K_2D5;
@@ -55,7 +55,7 @@ int main() {
  short EukBZ;
  EukBZ = (short)311580107;
     char    TJ8C;
-    TJ8C    =    -1527834038;
+    TJ8C    =    (char)-1527834038;
     unsigned long    n4A7;
     n4A7    =    491121301;
  double Sr11166;
@@ -81,7 +81,7 @@ int main() {
 	unsigned short int	tnLjr;
 	tnLjr	=	(unsigned short)1185573860;
  unsigned short int E2Ma3LF1f;
- E2Ma3LF1f = -1991483204;
+ E2Ma3LF1f = (unsigned short)-1991483204;
  long long hBb1q;
  hBb1q = 1023573095;
  unsigned short Ffp7uOqSR;
@@ -277,7 +277,7 @@ T16Gb = d4bP_m44K((unsigned short)277910676, (unsigned short)2066835106, Sr11166
 }
 else if ((Zg9VNC1E7 <= R047W_ndx) && (rPKQD017 != l8Vd5fiJ))
 {
-t55R = c6THq48(-274620507, 605954998, c84k, ghFUkCfz20);
+t55R = c6THq48(-274620507, (short)605954998, c84k, ghFUkCfz20);
 }
 else if ((jk936sF != TJ8C) && (hBb1q <= -1704384376))
 {

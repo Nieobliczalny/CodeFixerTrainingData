@@ -34,7 +34,7 @@ int main(void) {
  double O5j2_4XU = -1686342148;
  unsigned long long mV6ML = -1415440906;
     unsigned short int    ZdcN1LI1S    =    (unsigned short)-1884953336;
-  unsigned char  VO7D0y  =  -470642758;
+  unsigned char  VO7D0y  =  (unsigned char)-470642758;
 	unsigned int	Uy6_VaJZ1	=	460610085;
 	unsigned long long	dT9OeA5m	=	-2033815060;
   short  W52aI  =  (short)1991884161;

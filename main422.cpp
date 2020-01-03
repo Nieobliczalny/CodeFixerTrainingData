@@ -317,7 +317,7 @@ z1STQ06 = tXCdYm3wyG(z1STQ06, hzU4);
 
 try
 {
-z1STQ06 = tXCdYm3wyG((unsigned char)826702096, -2140124911);
+z1STQ06 = tXCdYm3wyG((unsigned char)826702096, (short)-2140124911);
 }
 catch (int& errorCode)
 {

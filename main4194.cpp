@@ -25,7 +25,7 @@ int main()
  unsigned short APq0;
  APq0 = (unsigned short)-1517282848;
  short f3LJ6G;
- f3LJ6G = 1766394618;
+ f3LJ6G = (short)1766394618;
   unsigned char  SozX1M72B;
   SozX1M72B  =  -1240296741;
 	unsigned long long	sKgdyb7L0q;
@@ -93,7 +93,7 @@ int main()
 	unsigned int	d_1hm8218H;
 	d_1hm8218H	=	1154064659;
  unsigned char R8CrFB4N;
- R8CrFB4N = -833938410;
+ R8CrFB4N = (unsigned char)-833938410;
 	char	EhsJj9702;
 	EhsJj9702	=	(char)-74739031;
   double  kY9qhA;

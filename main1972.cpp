@@ -18,7 +18,7 @@ int main(void) {
 	unsigned char	Jpfp	=	(unsigned char)310821225;
     long    T6veAX5O    =    829662549;
 	long long	vsohd7J63x	=	501587;
-    unsigned short    nbGB2    =    1177370755;
+    unsigned short    nbGB2    =    (unsigned short)1177370755;
 	short int	cRgJq2e	=	-1332184751;
   int  lu_VKv  =  0;
   unsigned short  xs6iuYY  =  (unsigned short)-122987156;
@@ -36,7 +36,7 @@ int main(void) {
     long long    gkn2_jH5X    =    1916618340;
   unsigned int  iTmDQ  =  393162232;
   unsigned char  xIOtUD_v  =  (unsigned char)1310038222;
-	short	kDSCRb5	=	1590587856;
+	short	kDSCRb5	=	(short)1590587856;
 
 if (ocyR7)
 {

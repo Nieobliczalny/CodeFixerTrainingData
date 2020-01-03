@@ -35,7 +35,7 @@ int main()
   unsigned int  LToFo3lx;
   LToFo3lx  =  1340491077;
   short  P9fmKZ48;
-  P9fmKZ48  =  1965234425;
+  P9fmKZ48  =  (short)1965234425;
 
 {
 int i = 2;

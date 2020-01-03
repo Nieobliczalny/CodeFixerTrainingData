@@ -28,7 +28,7 @@ int main()
  long m9RNjE6 = -375062316;
     char    Weh88    =    0;
   unsigned char  t_Lz  =  (unsigned char)-1260118347;
-    unsigned short    hohsp1NR6    =    -773889674;
+    unsigned short    hohsp1NR6    =    (unsigned short)-773889674;
  unsigned char A59WaTi = 841625079;
     long long    aF2876p    =    95080266;
     unsigned short int    aW1x5M    =    -2036666506;
@@ -49,7 +49,7 @@ int main()
   char  nYLm  =  (char)871248610;
   long  HB51X5y  =  1795571929;
  unsigned char eqKtYW5 = (unsigned char)1406424388;
-  short int  K_PTlXy  =  1756142181;
+  short int  K_PTlXy  =  (short)1756142181;
  unsigned int C0tA_cY = 220056695;
 	int	NjULi1B	=	-1605380082;
 	int	A9W2kKOB	=	1931023288;

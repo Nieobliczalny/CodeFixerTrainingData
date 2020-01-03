@@ -141,7 +141,7 @@ case 5:
 P9ZXt5d0 = (int)abs(jA_06N5994) + (-36858124);
 break;
 case 6:
-oOF3v = lBOjs((unsigned short)1992057301, Yxe2KZYFkP, 2032552552, s79x4M49UM);
+oOF3v = lBOjs((unsigned short)1992057301, Yxe2KZYFkP, (unsigned short)2032552552, s79x4M49UM);
 break;
 default:
 oOF3v /= Brq6;

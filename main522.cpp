@@ -22,7 +22,7 @@ int main(void)
   short  NEKG6  =  (short)-1155655670;
   long long  Rl_56ka  =  -121498812;
     short    JX5Og6    =    (short)-1250550284;
- short int dvku_ = 742122993;
+ short int dvku_ = (short)742122993;
   unsigned short int  M_1_7ZF0  =  -1524273931;
 	long double	WVNUHV	=	-2036771105;
     long    U3i6t63kz    =    -261343328;
@@ -32,7 +32,7 @@ int main(void)
 	char	n8qP3	=	(char)311782790;
   double  i7_A  =  -1242804050;
   short int  VkK1  =  (short)1420066240;
-	unsigned short int	xdhu7C	=	-1967563762;
+	unsigned short int	xdhu7C	=	(unsigned short)-1967563762;
   char  r001jUl  =  89534687;
     unsigned char    Y957tHjt    =    1462141704;
 	unsigned long	y3q14	=	-919904018;
@@ -45,7 +45,7 @@ int main(void)
  unsigned short int G1vSH__LK = (unsigned short)1355141240;
   long long  BtqX  =  286735662;
     long    D4M3YO    =    -481881033;
-	short	B_PmXcFy	=	-682825175;
+	short	B_PmXcFy	=	(short)-682825175;
   unsigned int  oY4xxTSk__  =  -1405148333;
 	short	p5JT700B	=	-1906523792;
  long double a5Blu_8 = -502224942;
@@ -62,7 +62,7 @@ int main(void)
  char NCZd92oc1_ = (char)294464560;
 	short int	EpF9P	=	(short)324827035;
 	char	uTGH_O4z0	=	(char)379786134;
-    unsigned short    YNy769    =    1353472196;
+    unsigned short    YNy769    =    (unsigned short)1353472196;
 	unsigned long	L3Wp9	=	1670864627;
  unsigned int o6D56 = -737985388;
 	short	yyP8T	=	-395795346;
@@ -186,7 +186,7 @@ kcD718P6 = Mz0EzaQ(fh8PMe, YNy769, (short)1651589496, (unsigned short)129791226,
 kcD718P6 = Mz0EzaQ(-400078812, XF20Aj, VkK1, M_1_7ZF0, 1531876163);
 
 std::cout << G1vSH__LK << Mz0EzaQ(-274150458, 1575180625, (short)769246972, M_1_7ZF0, 1085893134) << A2f2R << Mz0EzaQ(WSF685, -547588595, VkK1, M_1_7ZF0, bj3_) << std::endl;
-kcD718P6 = Mz0EzaQ(YNy769, l47fwtd8O, 252785407, -1281148272, 1456869764);
+kcD718P6 = Mz0EzaQ(YNy769, l47fwtd8O, (short)252785407, -1281148272, 1456869764);
 
 std::cout << Mz0EzaQ(-1449592184, l47fwtd8O, 1847966112, -1304679868, -1135968291) << std::endl;
 kcD718P6 = Mz0EzaQ(dvku_, -1064608828, -526044065, VkK1, a5Blu_8);
@@ -215,7 +215,7 @@ case 2:
 l0eP72ub = (int)abs(i7_A);
 break;
 case 3:
-kcD718P6 = Mz0EzaQ(1595663624, X_bB, 1059688800, -453410410, 1164220772);
+kcD718P6 = Mz0EzaQ(1595663624, X_bB, (short)1059688800, -453410410, 1164220772);
 break;
 case 4:
 kcD718P6 = Mz0EzaQ(WVNUHV, JX5Og6, o6D56, (unsigned short)-1704713054, -1506542342);

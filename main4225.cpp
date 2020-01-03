@@ -144,7 +144,7 @@ case 'g':
 u3PW = o61mMKL(-98843100, JdQ1Z0S2__, kQ37Chr1J, Yz040_24, (unsigned short)-729618402);
 break;
 case 'h':
-u3PW = o61mMKL(459228109, 1871857261, W9ptNw, U_6A, -37749503);
+u3PW = o61mMKL(459228109, 1871857261, W9ptNw, U_6A, (unsigned short)-37749503);
 break;
 case 'i':
 u3PW = o61mMKL(-1085490702, W1HGf, p5k3hlt4, 759683524, e_sP_mw4);

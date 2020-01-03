@@ -21,7 +21,7 @@ int main(void) {
     long double    cDsS0    =    2082656783;
     unsigned short int    sQXr0    =    (unsigned short)-538278456;
  short Hip8l = (short)946207122;
-  short int  T56caVIU5  =  1165053179;
+  short int  T56caVIU5  =  (short)1165053179;
 	unsigned short int	lw18_	=	-177685444;
     long    up4G9yj2    =    -1188297262;
  unsigned short int uOzh = (unsigned short)-682066660;
@@ -123,7 +123,7 @@ else if (sQXr0 > T56caVIU5)
 {
 if ((G94z8 < -1581195653) && (cDsS0 <= Hip8l))
 {
-kH_9Lb = I6pzgWvg((unsigned char)987414813, -835819732, Hip8l, 959540883, nczB0);
+kH_9Lb = I6pzgWvg((unsigned char)987414813, (short)-835819732, Hip8l, 959540883, nczB0);
 }
 else if ((oLw2D_97 & 239515640) || (kH_9Lb > wQP7CL4945))
 {
@@ -186,7 +186,7 @@ int k = 0;
 do
 {
 k++;
-cdUxNGU7n0 = I6pzgWvg((unsigned char)-738014459, 930671094, -1651375570, -1274339338, -1558491549) + Gg0G;
+cdUxNGU7n0 = I6pzgWvg((unsigned char)-738014459, (short)930671094, -1651375570, -1274339338, -1558491549) + Gg0G;
 }
 while (k < 8);
 }

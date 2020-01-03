@@ -35,7 +35,7 @@ int main(int argc, char** argv) {
 	long double	QeP_2o6	=	-1350309028;
 	unsigned short	CX_lD3bZK	=	(unsigned short)1488549045;
  unsigned short l7ue2NZ = (unsigned short)1007493788;
-    unsigned short int    N90Vh    =    1007204466;
+    unsigned short int    N90Vh    =    (unsigned short)1007204466;
   unsigned long  wx4gC  =  -1861941102;
     long double    C57574K9    =    1798244638;
  unsigned int tRA9m2MOB4 = 150704954;
@@ -55,7 +55,7 @@ int main(int argc, char** argv) {
  long double MP9Qamz2 = -860630607;
     unsigned long    aML43RhI    =    -1182217398;
 	long double	CZpCQ	=	509816390;
-	unsigned short	C7ocDsBwu	=	1996253891;
+	unsigned short	C7ocDsBwu	=	(unsigned short)1996253891;
 	char	Nsxx6H5JMf	=	-1530441981;
 	long long	COJVj	=	-1133907295;
     unsigned char    Cg8ED7H    =    (unsigned char)-1844397112;
@@ -72,7 +72,7 @@ int main(int argc, char** argv) {
     double    Rb1mk5AMKV    =    -1038950031;
 	unsigned short int	CN1ONA	=	(unsigned short)1181736625;
     unsigned char    Gp8_dLu20    =    (unsigned char)1033730106;
-	short int	zQ44A_WM	=	-1546657271;
+	short int	zQ44A_WM	=	(short)-1546657271;
   unsigned char  s2_fsA_w  =  -1172317347;
 	unsigned short	NrN81	=	604187306;
 	double	Ah4VLg0	=	-1840333983;
@@ -87,7 +87,7 @@ int main(int argc, char** argv) {
     long long    lo29tQ    =    1177143628;
 	unsigned short int	c0Uv5MN62a	=	(unsigned short)475147097;
  short int ND535 = (short)-508687073;
-  short int  Pqi4QKmC53  =  2100351567;
+  short int  Pqi4QKmC53  =  (short)2100351567;
   short int  Q78__  =  (short)2098702217;
   long  MVN7  =  839846421;
   double  SS824s  =  1371005562;
@@ -651,7 +651,7 @@ SS824s = (int)ceil(l8pn4k);
 }
 else if (((tpSA == g33gbNw4fT) && (cEcYJ8iq & 1630553357)) && (Ky3AQ >= 1502879325))
 {
-std::cout << J6x4G4ZoA3((char)153869834, 2137441144, N90Vh, -1316671596) << cEcYJ8iq << xL7EI(CN1ONA, UiVozRVw, (unsigned short)-1282402492, 670722766) << qR7OMGuerN(CN1ONA) << R4M3nV << std::endl;
+std::cout << J6x4G4ZoA3((char)153869834, 2137441144, N90Vh, -1316671596) << cEcYJ8iq << xL7EI(CN1ONA, UiVozRVw, (unsigned short)-1282402492, (short)670722766) << qR7OMGuerN(CN1ONA) << R4M3nV << std::endl;
 }
 else if (cEcYJ8iq & g33gbNw4fT)
 {

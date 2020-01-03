@@ -90,7 +90,7 @@ int main(void) {
 	short	Em21k6T;
 	Em21k6T	=	(short)-755217412;
     short int    DSrh;
-    DSrh    =    -228924109;
+    DSrh    =    (short)-228924109;
  int btD8;
  btD8 = -142830090;
   long double  w1Yre7N;
@@ -176,7 +176,7 @@ int main(void) {
   unsigned char  f37E7n55;
   f37E7n55  =  (unsigned char)34209557;
  unsigned short of9_;
- of9_ = 1442904126;
+ of9_ = (unsigned short)1442904126;
     unsigned int    lV7oQ2B8;
     lV7oQ2B8    =    1504097747;
  long long Zt_LogG;

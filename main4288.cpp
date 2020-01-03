@@ -101,7 +101,7 @@ int main(void)
 	char	Sp8enhE7K;
 	Sp8enhE7K	=	(char)1296792066;
   char  doZ6f;
-  doZ6f  =  1316583831;
+  doZ6f  =  (char)1316583831;
   char  n90V4;
   n90V4  =  526577735;
     unsigned long long    tMAk2P;
@@ -129,7 +129,7 @@ int main(void)
 	short	WJg_8t0;
 	WJg_8t0	=	(short)-153769824;
  unsigned char m14qT5Q;
- m14qT5Q = -1314111804;
+ m14qT5Q = (unsigned char)-1314111804;
     unsigned short    rCigEf5_z;
     rCigEf5_z    =    (unsigned short)1571936049;
  unsigned short hw8r9V;
@@ -139,7 +139,7 @@ int main(void)
  unsigned char rO3J1X;
  rO3J1X = (unsigned char)258370745;
 	unsigned short int	eF1Io6;
-	eF1Io6	=	-903832412;
+	eF1Io6	=	(unsigned short)-903832412;
   double  bzor6;
   bzor6  =  -1426651877;
     double    D7blFC0Ot1;
@@ -230,7 +230,7 @@ doZ6f = (char)(QN21W1UFz + (517801832));
 m_8LT = qkws7xaUn1((char)-419607185, 439049788);
 D_1y = tMAk2P >> 1817124473;
 
-std::cout << w2Ris(-423206795) << F93_jDN0((unsigned short)1182402216, CDT95Fdc96, -1531480640, 1222074812) << std::endl;
+std::cout << w2Ris(-423206795) << F93_jDN0((unsigned short)1182402216, CDT95Fdc96, (char)-1531480640, 1222074812) << std::endl;
 
 zu80DOvaJ_ = w2Ris(O54Q2);
 
@@ -255,7 +255,7 @@ while (j < 9);
 while (i < 1);
 }
 
-std::cout << F93_jDN0(O54Q2, YF7pt3, tM5w5S4liL, (unsigned short)157194757) << F93_jDN0((unsigned short)-88999333, (unsigned short)822622783, tM5w5S4liL, 1657932819) << std::endl;
+std::cout << F93_jDN0(O54Q2, YF7pt3, tM5w5S4liL, (unsigned short)157194757) << F93_jDN0((unsigned short)-88999333, (unsigned short)822622783, tM5w5S4liL, (unsigned short)1657932819) << std::endl;
 aBvC_S5g = w2Ris(2025419773);
 if (BcVeMu <= -1562533954)
 {
@@ -332,7 +332,7 @@ iQ3J = F93_jDN0((unsigned short)2063754572, (unsigned short)-2063487875, IhCE_kK
 }
 else if (A9qoVC1A1 <= 984648702)
 {
-m14qT5Q = F93_jDN0(-83384826, tM5w5S4liL, IhCE_kK, m14qT5Q) & 1207236729;
+m14qT5Q = F93_jDN0((unsigned short)-83384826, tM5w5S4liL, IhCE_kK, m14qT5Q) & 1207236729;
 }
 else if ((DfES9 <= -786671769) && ((Q63sBw84) || (XJ4T24W <= 960620885)))
 {

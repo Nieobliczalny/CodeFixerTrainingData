@@ -129,7 +129,7 @@ int main(int argc, char** argv) {
  short int XMmMD339n;
  XMmMD339n = (short)46736161;
 	char	mt9l_5;
-	mt9l_5	=	754519096;
+	mt9l_5	=	(char)754519096;
 	short int	Mj450_7m9;
 	Mj450_7m9	=	1171627696;
   short int  aOxAf66y;
@@ -169,7 +169,7 @@ int main(int argc, char** argv) {
  unsigned short E28z;
  E28z = (unsigned short)-231470694;
  unsigned short AiEL;
- AiEL = -530990997;
+ AiEL = (unsigned short)-530990997;
     int    BLEQ_74;
     BLEQ_74    =    756563184;
   unsigned long  c40N7;

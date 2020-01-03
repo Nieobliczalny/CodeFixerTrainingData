@@ -60,7 +60,7 @@ int main(void)
 	short	HV8w5;
 	HV8w5	=	(short)961294819;
  unsigned short int KmLRcd9_5N;
- KmLRcd9_5N = -1299025313;
+ KmLRcd9_5N = (unsigned short)-1299025313;
 	float	g032;
 	g032	=	672928494;
     float    S0Nuczgi5;
@@ -74,7 +74,7 @@ int main(void)
 	short	l2erZ2We;
 	l2erZ2We	=	(short)-2076579464;
   char  u0d2mK9c;
-  u0d2mK9c  =  -1936576794;
+  u0d2mK9c  =  (char)-1936576794;
     long double    ymRmHa2QQg;
     ymRmHa2QQg    =    -997598035;
   long  n_02sJ25Sg;

@@ -393,7 +393,7 @@ else if (VeDhgZm9 & JB3RQCH9)
 {
 if (g219M >= 1791168618)
 {
-GCkVKu503 = (wBPY8fw < 301041668) ? (unsigned char)268970118 : 699885137;
+GCkVKu503 = (wBPY8fw < 301041668) ? (unsigned char)268970118 : (unsigned char)699885137;
 }
 else
 {
@@ -497,7 +497,7 @@ while (i < 10)
 i++;
 if ((m9Qn > -1913661085) && (wBPY8fw & 439282220))
 {
-std::cout << d1twPl6t((unsigned short)462043803, (unsigned short)2064280883, GCkVKu503, JB3RQCH9, wBPY8fw) << xRq1n(G8Z8Z, 1347019536, (unsigned short)-1244922378, 546112047, 786208512) << std::endl;
+std::cout << d1twPl6t((unsigned short)462043803, (unsigned short)2064280883, GCkVKu503, JB3RQCH9, wBPY8fw) << xRq1n(G8Z8Z, 1347019536, (unsigned short)-1244922378, 546112047, (unsigned short)786208512) << std::endl;
 }
 else if ((VeDhgZm9 != Tda9Cv_N2) || (jwKm_hF0 & VeDhgZm9))
 {
@@ -556,7 +556,7 @@ j--;
 while (i >= 0);
 }
 
-GCkVKu503 = d1twPl6t((unsigned short)1831517296, (unsigned short)980017355, jwKm_hF0, e971s9EYY, Tda9Cv_N2) / d1twPl6t(wBPY8fw, (unsigned short)-632017893, jwKm_hF0, -1433067360, 1984625719);
+GCkVKu503 = d1twPl6t((unsigned short)1831517296, (unsigned short)980017355, jwKm_hF0, e971s9EYY, Tda9Cv_N2) / d1twPl6t(wBPY8fw, (unsigned short)-632017893, jwKm_hF0, -1433067360, (unsigned short)1984625719);
 
 {
 int i = 10;

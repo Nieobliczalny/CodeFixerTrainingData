@@ -33,7 +33,7 @@ int main(int argc, char** argv) {
  short WCdh;
  WCdh = (short)1601054361;
  unsigned char h_tK;
- h_tK = 973646943;
+ h_tK = (unsigned char)973646943;
 	unsigned long	XF7I0;
 	XF7I0	=	394338143;
  float tO0m3E5;

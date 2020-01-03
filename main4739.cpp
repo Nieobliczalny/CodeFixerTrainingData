@@ -43,7 +43,7 @@ int main(int argc, char** argv)
  unsigned short int ZeNcTtUY5 = (unsigned short)-1486801152;
 	short int	P9YV	=	(short)1286639810;
  long MuCe2hP = 0;
-	short int	vpXI	=	1942830351;
+	short int	vpXI	=	(short)1942830351;
     short int    BKeZ6xNo__    =    -170874161;
  char nRVu = -538976265;
 	float	EpCYf3	=	-1681901979;
@@ -674,7 +674,7 @@ std::cout << "nbYt3Q0JQ" << ka255 << u3luQM2(awZK_fvf9p, (unsigned short)-129187
 }
 else
 {
-a5__Qi = vs69yUR(1155408648, -928289230, -1258333681);
+a5__Qi = vs69yUR(1155408648, (unsigned char)-928289230, -1258333681);
 }
 
 return 0;

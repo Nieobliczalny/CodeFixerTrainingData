@@ -31,7 +31,7 @@ int main(int argc, char** argv) {
 	unsigned long long	D2ySAvm4	=	-1640312778;
  char A6y0ZZ06P = (char)1462781195;
 	unsigned char	yNYg4_v	=	(unsigned char)2119624823;
-	short	Bs_TV	=	673569344;
+	short	Bs_TV	=	(short)673569344;
     unsigned char    flfU541un    =    1242098541;
 	long	nHwI77nnM	=	0;
 	long long	j8ifh	=	1639683762;
@@ -44,7 +44,7 @@ int main(int argc, char** argv) {
     unsigned long long    B94G31mtK    =    926173193;
 	unsigned short int	YVmpAWI28y	=	(unsigned short)1849625636;
  short jjr1Shrc = (short)-2043756770;
-  char  E6C287clC  =  901049441;
+  char  E6C287clC  =  (char)901049441;
  int x39dl = 0;
   long  xi_i1UuN2  =  2096689294;
   double  Bc7SFu  =  1363794386;
@@ -74,7 +74,7 @@ while (i < 9);
 
 for (int i = 2; i >= 0; i--)
 {
-Tc_9 = d0u1q2At((char)1456651736, -1557854619, -838540605, dCRjd5x4m7, -1711259380);
+Tc_9 = d0u1q2At((char)1456651736, (short)-1557854619, -838540605, dCRjd5x4m7, -1711259380);
 }
 
 jjr1Shrc = itNfU6BU(1307127520);

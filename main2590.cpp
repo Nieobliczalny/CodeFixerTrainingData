@@ -19,7 +19,7 @@ int main()
     unsigned int    zhRxF    =    542184388;
 	unsigned int	del1	=	-489411798;
     long    Xw_p9q2    =    -404568432;
-	unsigned short int	H2MwC	=	1404741303;
+	unsigned short int	H2MwC	=	(unsigned short)1404741303;
   double  tW0F5A03x  =  -704646562;
 	unsigned long long	o1C_H_b	=	1307997012;
 	unsigned short int	LKb6	=	(unsigned short)1683198126;

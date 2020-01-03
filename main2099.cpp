@@ -44,7 +44,7 @@ int main(void) {
  short Va9lFvH_e;
  Va9lFvH_e = (short)1846569769;
  unsigned short int OVvcHXT;
- OVvcHXT = 641956158;
+ OVvcHXT = (unsigned short)641956158;
     long long    qt2ZUNH;
     qt2ZUNH    =    -991717950;
     long double    tE1zCzpL;
@@ -100,7 +100,7 @@ int main(void) {
     char    fX7OW6H;
     fX7OW6H    =    (char)-54878327;
  short int Zt4_3_8V3;
- Zt4_3_8V3 = 286048489;
+ Zt4_3_8V3 = (short)286048489;
     long    kgmhh;
     kgmhh    =    -120015242;
 	long	Qp5lIpfP_b;
@@ -142,7 +142,7 @@ int main(void) {
     char    C94VZ;
     C94VZ    =    (char)-1262711229;
   short  F84izaD;
-  F84izaD  =  -1828718724;
+  F84izaD  =  (short)-1828718724;
     unsigned char    bbe4Mli;
     bbe4Mli    =    -1603065975;
     float    iI20;
@@ -190,7 +190,7 @@ int main(void) {
     unsigned short int    uVW2tl539;
     uVW2tl539    =    (unsigned short)113787079;
 	unsigned short	nmjg_;
-	nmjg_	=	524837785;
+	nmjg_	=	(unsigned short)524837785;
   unsigned short  p6AW;
   p6AW  =  (unsigned short)-865584583;
 	unsigned short int	MB452_2;

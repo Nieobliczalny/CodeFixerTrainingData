@@ -132,7 +132,7 @@ int main(int argc, char** argv) {
 	short	Z2ah;
 	Z2ah	=	(short)-625976292;
     short int    ldcx25Va;
-    ldcx25Va    =    -1757192268;
+    ldcx25Va    =    (short)-1757192268;
   short int  STz5;
   STz5  =  (short)-702361564;
  int c8w3P;

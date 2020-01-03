@@ -278,7 +278,7 @@ case 4:
 Wfh4 = s_AGB2ODG(-158439463, zCwIhZ, V84uhB5G, chqDB);
 break;
 case 5:
-dN05JnA6Gk = nIVpQ53(Nl_Tyv55oA, (unsigned char)-188452613, (short)595600392, -1300151580, -183440089);
+dN05JnA6Gk = nIVpQ53(Nl_Tyv55oA, (unsigned char)-188452613, (short)595600392, (char)-1300151580, -183440089);
 break;
 case 6:
 I49846T = zd_1Xh9_q();
@@ -302,7 +302,7 @@ case 'a':
 s9TDvl |= OgeHa0eG;
 break;
 case 'b':
-ex3k8q8m = s_AGB2ODG(ex3k8q8m, tY7rHl85lD, v8Ch0THX, -1717733301);
+ex3k8q8m = s_AGB2ODG(ex3k8q8m, tY7rHl85lD, v8Ch0THX, (unsigned short)-1717733301);
 break;
 case 'c':
 CER_jTxaO1 = nIVpQ53(-1235894818, Pafk8hh41, S7q7H0Z, (char)1078971239, ugCQxoW1u);

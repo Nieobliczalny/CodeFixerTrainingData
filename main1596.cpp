@@ -23,7 +23,7 @@ int main(void) {
 	unsigned long	pU4hb	=	686277641;
   unsigned char  H370  =  (unsigned char)-342390958;
   char  pSPj  =  (char)380159625;
- short int JwfiV = -1754115789;
+ short int JwfiV = (short)-1754115789;
   unsigned long  EM7wQhgh  =  0;
     unsigned char    zwRGBr    =    0;
     unsigned short    bbZJR064y    =    -1726065786;
@@ -44,7 +44,7 @@ int main(void) {
     char    B7Lv9jnE4J    =    (char)-1813182016;
   float  l3f07Xvk  =  1634520293;
 	long	VF_0y1	=	1838034022;
-	unsigned short	B_a3Gm	=	1870671164;
+	unsigned short	B_a3Gm	=	(unsigned short)1870671164;
  long WGgt = 1226479151;
 	int	wfjhilX40	=	478176047;
     float    g_g7    =    -110088004;
@@ -55,7 +55,7 @@ int main(void) {
 	int	MA11	=	-1250159229;
   unsigned short  mbr4  =  (unsigned short)-950440634;
 	unsigned short	K5hY5Z_Jq	=	(unsigned short)-1469949158;
-	short	B7dGR56__	=	-603519571;
+	short	B7dGR56__	=	(short)-603519571;
     long    fr6K    =    13620475;
     unsigned int    wRFHE8_Xt    =    -1388375510;
     int    V3FhSd758    =    667085961;
@@ -79,7 +79,7 @@ zwRGBr = OgpP4(M7ue, (unsigned short)-1462270443, pSPj, 750061109);
 break;
 case 'c':
 case 'C':
-EM7wQhgh = OgpP4(-1677716637, (unsigned short)-1309866054, 1550094493, 1747245366);
+EM7wQhgh = OgpP4(-1677716637, (unsigned short)-1309866054, (short)1550094493, 1747245366);
 break;
 case 'd':
 case 'D':
@@ -170,7 +170,7 @@ case 'g':
 zwRGBr = OgpP4(1252811031, (unsigned short)1959310721, bbZJR064y, Q8T20B);
 break;
 case 'h':
-zwRGBr = OgpP4(X48v2nT, (unsigned short)2112712437, 1825102889, p_Rkxi55);
+zwRGBr = OgpP4(X48v2nT, (unsigned short)2112712437, (short)1825102889, p_Rkxi55);
 break;
 }
 }
@@ -296,7 +296,7 @@ if ((H370 / zwRGBr) == -1511703375)
 std::cout << OgpP4(KiA4S, (unsigned short)-912032183, (short)-885527299, -481493175) << p_Rkxi55 << OgpP4(-255794221, (unsigned short)-1121059204, WGZNg158, B7miQH82rU) << "V6O6S" << std::endl;
 }
 dFpkDaaklG = (int)ceil(l5IM1L4s94);
-EM7wQhgh = OgpP4(s29QQx6_r3, 713332224, JwfiV, W70JxGbiO);
+EM7wQhgh = OgpP4(s29QQx6_r3, (unsigned short)713332224, JwfiV, W70JxGbiO);
 
 {
 int i = 8;

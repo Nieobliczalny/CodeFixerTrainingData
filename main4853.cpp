@@ -73,7 +73,7 @@ int main(int argc, char** argv)
     unsigned long    jiQf7tg_l;
     jiQf7tg_l    =    1475947513;
   short int  WMawcmM;
-  WMawcmM  =  -1080695995;
+  WMawcmM  =  (short)-1080695995;
  char F4Jb13Bw5H;
  F4Jb13Bw5H = (char)118897520;
 	long double	R5pV8J;
@@ -139,7 +139,7 @@ int main(int argc, char** argv)
     unsigned short    cAE59Ev;
     cAE59Ev    =    (unsigned short)1085046834;
     unsigned char    Ao6tQ_;
-    Ao6tQ_    =    1049944654;
+    Ao6tQ_    =    (unsigned char)1049944654;
   short  l9RTJ2FhBd;
   l9RTJ2FhBd  =  (short)1379605646;
   float  a8MC9T_io;
@@ -207,7 +207,7 @@ int main(int argc, char** argv)
     unsigned char    EKL8;
     EKL8    =    (unsigned char)253318283;
  unsigned short int M_PD14;
- M_PD14 = -317749148;
+ M_PD14 = (unsigned short)-317749148;
 	short int	SBiciJ;
 	SBiciJ	=	-500649621;
 

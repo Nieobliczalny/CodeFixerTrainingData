@@ -23,7 +23,7 @@ int main(int argc, char** argv)
 	long long	tW29pHXP	=	1621073639;
     int    sT99    =    -2039929426;
   int  h_GQahHfl8  =  -1436768135;
-  unsigned char  CJc_Bll  =  -2122609001;
+  unsigned char  CJc_Bll  =  (unsigned char)-2122609001;
  unsigned short int TP44sw = 1842388367;
 	unsigned short	reu90n26	=	2025869593;
   short int  uZ9ACYZNU5  =  -2027821134;
@@ -33,7 +33,7 @@ int main(int argc, char** argv)
 	long double	p_9TNF6	=	2089175906;
  unsigned short ck8s = (unsigned short)1271833076;
 	long	U1K2CG3T4K	=	163026709;
- unsigned short int arDReiM = -1956294317;
+ unsigned short int arDReiM = (unsigned short)-1956294317;
   unsigned long long  nSdq14586  =  -617991116;
     long    pv3W    =    184752062;
   unsigned short int  lL82O_  =  1392915941;
@@ -43,7 +43,7 @@ int main(int argc, char** argv)
   short  N7I29TSWg  =  -1369706721;
  char Q3g8OIV = (char)-752231191;
     unsigned long long    A_WTF5g8    =    -295387531;
-  char  s_7_xMx  =  -920585270;
+  char  s_7_xMx  =  (char)-920585270;
  unsigned long long K48P2 = -203905756;
 
 K48P2 = l8Ied | 927997442;
@@ -70,7 +70,7 @@ while (k < 7);
 }
 else if (bOZ_rVpx & ljvmZ)
 {
-cout << W0n3Z77(-1888838104, 104729467, RiR4, 1802328875) << l8Ied << endl;
+cout << W0n3Z77((unsigned char)-1888838104, 104729467, RiR4, 1802328875) << l8Ied << endl;
 }
 else if (uZ9ACYZNU5 < -1780018209)
 {

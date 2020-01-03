@@ -284,7 +284,7 @@ case 'c':
 ZJK89 = WpR6(ZJZ_EhGr) % 2009877267;
 break;
 case 'd':
-dZhbl37p = WpR6(-713116063);
+dZhbl37p = WpR6((short)-713116063);
 break;
 default:
 G9f382--;

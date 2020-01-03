@@ -40,7 +40,7 @@ int main() {
     unsigned char    WF3cL7kV6    =    (unsigned char)1905711329;
 	unsigned short int	Y1S5L20A	=	(unsigned short)-269929750;
     int    H9__n0BP_    =    0;
-    unsigned short    GM5X9o1JcQ    =    -271143766;
+    unsigned short    GM5X9o1JcQ    =    (unsigned short)-271143766;
  long QUr9t_ = 312639539;
 	unsigned short	z2A4U	=	-861024900;
 	unsigned short	AaUi0Gw	=	621503710;
@@ -173,7 +173,7 @@ QUr9t_ = (int)abs(ef1VCRJ0V) + (1510504162);
 }
 else
 {
-ef1VCRJ0V = w63s2a((unsigned char)1597596856, (short)-1400094488, opoP4_AL47, (unsigned short)1498571967, -1818009206);
+ef1VCRJ0V = w63s2a((unsigned char)1597596856, (short)-1400094488, opoP4_AL47, (unsigned short)1498571967, (char)-1818009206);
 }
 j--;
 }
@@ -275,7 +275,7 @@ AaUi0Gw = z88Apxw(-661870679, AaUi0Gw, 529066593, Y55XHd, -1230517070);
 }
 else if (((QUr9t_ != 1972593955) && (TLl5Ax >= 826196802)) || ((UgF6 & tA8aLAtmQw) || (P2Xd3x6l6f > -1527690509)))
 {
-UgF6 = w63s2a((unsigned char)286430700, (short)1053481575, zDr0XBT, eC2p, -1640244180);
+UgF6 = w63s2a((unsigned char)286430700, (short)1053481575, zDr0XBT, eC2p, (char)-1640244180);
 }
 else if ((tA8aLAtmQw != -596904956) && (jG_8Xg1 == 1649808828))
 {
@@ -328,7 +328,7 @@ int i = 6;
 do
 {
 --i;
-std::cout << "v7EfPmX" << "ENQENASX" << w63s2a((unsigned char)543259607, (short)-1805362855, P2Xd3x6l6f, (unsigned short)-699798243, -1432580711) << std::endl;
+std::cout << "v7EfPmX" << "ENQENASX" << w63s2a((unsigned char)543259607, (short)-1805362855, P2Xd3x6l6f, (unsigned short)-699798243, (char)-1432580711) << std::endl;
 }
 while (i >= 0);
 }

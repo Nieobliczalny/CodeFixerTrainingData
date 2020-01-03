@@ -79,7 +79,7 @@ Jb0_75nl = (float)(RMcRM);
 
 cout << a0Y9zvx6((short)-2021736391, dIc034, RHrvr, -2129232003, ZzJH6) << endl;
 
-M_kdOALI03 = a0Y9zvx6((short)-2014256061, B536K, (unsigned char)-170609458, dFCX4, -963207398);
+M_kdOALI03 = a0Y9zvx6((short)-2014256061, B536K, (unsigned char)-170609458, dFCX4, (short)-963207398);
 
 if (PTGH8P <= -519034937)
 {

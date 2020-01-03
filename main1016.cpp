@@ -39,7 +39,7 @@ int main()
     short int    XXqK;
     XXqK    =    (short)1078121754;
 	short int	GL3f9_D6n;
-	GL3f9_D6n	=	1595362808;
+	GL3f9_D6n	=	(short)1595362808;
 	char	rl3_nF2N;
 	rl3_nF2N	=	-346676467;
 	float	qwD_;

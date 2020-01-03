@@ -334,7 +334,7 @@ else if (bDgxpt_ & 2090096237)
 {
 if (km4r8 < Sp01MfHS85)
 {
-cout << y57o2F((unsigned char)-739496928, -766780316) << "Gg88gx_EV7" << aUw6VARv(VLseVv, D0b1WC9, 193095983, Ey2m4zX, -621934076) << MBFK << endl;
+cout << y57o2F((unsigned char)-739496928, -766780316) << "Gg88gx_EV7" << aUw6VARv(VLseVv, D0b1WC9, (char)193095983, Ey2m4zX, -621934076) << MBFK << endl;
 }
 else
 {
@@ -397,7 +397,7 @@ l9QFnaL = aUw6VARv(l9QFnaL, (unsigned char)1207204022, (char)1041158238, -917534
 break;
 case 'c':
 case 'C':
-ByaWS = aUw6VARv(-1170942262, (unsigned char)-1882324123, -1283371003, sCz15N0kF, Gex4ie4);
+ByaWS = aUw6VARv(-1170942262, (unsigned char)-1882324123, (char)-1283371003, sCz15N0kF, Gex4ie4);
 break;
 case 'd':
 case 'D':

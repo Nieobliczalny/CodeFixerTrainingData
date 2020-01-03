@@ -84,7 +84,7 @@ case 'b':
 dRNAN = S5xfSv0_p(FWufw_, (short)105358607, (char)1431174176, Gt_f396, (unsigned char)251981004);
 break;
 case 'c':
-dRg75u = S5xfSv0_p(Z5P0q8QTl, -493744322, -127079368, FWufw_, O_xxs75By9);
+dRg75u = S5xfSv0_p(Z5P0q8QTl, (short)-493744322, -127079368, FWufw_, O_xxs75By9);
 break;
 case 'd':
 Jvcg -= vGp6dU;

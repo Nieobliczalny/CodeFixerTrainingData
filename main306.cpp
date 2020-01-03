@@ -30,7 +30,7 @@ int main(void)
 	int	bD90H_	=	1860197001;
  unsigned long B9t95S05nj = 606287445;
  unsigned short int Qn88HFiMCf = (unsigned short)1180138831;
-	short	WNz_sM4rdM	=	-143043429;
+	short	WNz_sM4rdM	=	(short)-143043429;
 	unsigned short int	l_F149A	=	(unsigned short)1387817545;
  unsigned long sx658x = 248462047;
 	float	KJ4aBkP578	=	-1640454373;
@@ -44,7 +44,7 @@ int main(void)
     long double    JCrs7XMEs    =    1893066020;
     unsigned long long    droG    =    -160418548;
  short int WW0eErmt = (short)-1628874606;
-  unsigned short int  AVR15  =  1780519001;
+  unsigned short int  AVR15  =  (unsigned short)1780519001;
   unsigned char  wbFS  =  -770836431;
   unsigned short int  Tw6x  =  1731220519;
  unsigned short int VJUv8 = 0;

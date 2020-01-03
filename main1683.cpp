@@ -153,7 +153,7 @@ try
 {
 if ((z_NgWg_kA > TpsKaNiT) || (ZpyG7h == TpsKaNiT))
 {
-std::cout << o9wI7OJy << Rqvg6O(a_8lWNz, (short)-1416515859, K325qc, -1220930406) << std::endl;
+std::cout << o9wI7OJy << Rqvg6O(a_8lWNz, (short)-1416515859, K325qc, (unsigned char)-1220930406) << std::endl;
 }
 }
 catch (int& errorCode)

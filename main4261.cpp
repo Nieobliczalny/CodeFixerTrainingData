@@ -90,7 +90,7 @@ break;
 switch (t3Ef)
 {
 case 0:
-u6OET = pfXFl0fnM6(W_5l_eQ, (short)398141282, x9n2e, 289451936);
+u6OET = pfXFl0fnM6(W_5l_eQ, (short)398141282, x9n2e, (unsigned short)289451936);
 break;
 }
 if (NPd28 != qTGCXHudT8)
@@ -327,7 +327,7 @@ case 4:
 dL7Wf2BX = i8_4dBS % 1328265324;
 break;
 case 5:
-u6OET = pfXFl0fnM6((unsigned short)-1910033678, qGwb, W_5l_eQ, 610136758);
+u6OET = pfXFl0fnM6((unsigned short)-1910033678, qGwb, W_5l_eQ, (unsigned short)610136758);
 break;
 case 6:
 TYoy = jKHz_VTY(-2052104112, -643009194, m5E_5, (unsigned short)1094614836);

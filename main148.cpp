@@ -66,7 +66,7 @@ int main(int argc, char** argv) {
   unsigned short  jf7Q5j;
   jf7Q5j  =  (unsigned short)821840635;
  unsigned short int VgrFTA5;
- VgrFTA5 = -2101277634;
+ VgrFTA5 = (unsigned short)-2101277634;
 	short	nTtL;
 	nTtL	=	(short)-790660130;
   char  pl42d;
@@ -76,7 +76,7 @@ int main(int argc, char** argv) {
  unsigned short oNO_ud56;
  oNO_ud56 = (unsigned short)954363604;
     short    pUgzxIf;
-    pUgzxIf    =    1514206281;
+    pUgzxIf    =    (short)1514206281;
   unsigned short int  M94s2g;
   M94s2g  =  (unsigned short)944999693;
 	char	YACD_;
@@ -86,7 +86,7 @@ int main(int argc, char** argv) {
     char    Z_sp_JChF;
     Z_sp_JChF    =    (char)-1406062861;
  unsigned char a_K406N;
- a_K406N = 1610724017;
+ a_K406N = (unsigned char)1610724017;
  unsigned int aCW1mid;
  aCW1mid = 333870559;
     unsigned short int    y7Rz7;
@@ -98,7 +98,7 @@ int main(int argc, char** argv) {
     int    Evi783PH;
     Evi783PH    =    -577329752;
     unsigned short    efPHXPV0b6;
-    efPHXPV0b6    =    -2072872637;
+    efPHXPV0b6    =    (unsigned short)-2072872637;
  short int a3S_65dt9;
  a3S_65dt9 = (short)-1754138996;
  char q8US8W;
@@ -217,7 +217,7 @@ int main(int argc, char** argv) {
 uPJ_X = kv_h4Dw0T_((unsigned short)987769504);
 if ((Xwt8__ < -1702895015) || ((HQO2jqqWVa == yCmYJltrhd) && (Qa2PXoPkT == X42_4OWs)))
 {
-rPe6ZjZa = V4bJ463((char)961087387, -1411011024, 1539342396, -1720339643, -1851701452);
+rPe6ZjZa = V4bJ463((char)961087387, -1411011024, 1539342396, (char)-1720339643, -1851701452);
 }
 
 std::cout << XCDt8_4e7(rPe6ZjZa, JZd705) << std::endl;

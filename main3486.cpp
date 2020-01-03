@@ -26,7 +26,7 @@ int main()
     short int    frWiGeOGTr    =    (short)2043562540;
 	int	c14uQvi	=	-690842049;
  long long kGJ_xE9a9 = -1484603479;
-    short int    aYiqE5_Mi0    =    -616990757;
+    short int    aYiqE5_Mi0    =    (short)-616990757;
   short int  bPeR  =  1692905651;
   unsigned int  uHsc2b  =  -1966442657;
 	double	aY4U_3O7	=	-1798268357;
@@ -42,7 +42,7 @@ int main()
     double    z4DIzsQ    =    1223462251;
 	char	y2ex8gl	=	(char)854712114;
 	char	GaVg_	=	(char)1445588139;
-    unsigned short int    mjCpTx39_x    =    -1297226252;
+    unsigned short int    mjCpTx39_x    =    (unsigned short)-1297226252;
     long double    DBpT375    =    -172143215;
     double    Gein    =    1355184643;
     long    se9hfZ5    =    151158343;
@@ -74,7 +74,7 @@ int main()
 	short	SIaA1zgCq2	=	(short)2006947568;
 	long double	gNc70hMR	=	982681677;
  long long u0a8p7z = -1966849297;
-	unsigned short	r3y_fg	=	-1845984421;
+	unsigned short	r3y_fg	=	(unsigned short)-1845984421;
 
 std::cout << "HLvv" << std::endl;
 if (g618 == 1879461636)

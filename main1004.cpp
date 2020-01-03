@@ -100,7 +100,7 @@ int main() {
   unsigned short  KPL7;
   KPL7  =  (unsigned short)-13780401;
     short    kp8w;
-    kp8w    =    -172307157;
+    kp8w    =    (short)-172307157;
     unsigned short    HP102C;
     HP102C    =    (unsigned short)-869263749;
     unsigned int    mEIml5Q;
@@ -204,7 +204,7 @@ break;
 }
 else if (KPL7 & eg47hotm)
 {
-mEIml5Q = v7_0(-1092332828, (unsigned short)438962676, (short)-1293726592, -973875429, 1512430535);
+mEIml5Q = v7_0(-1092332828, (unsigned short)438962676, (short)-1293726592, (unsigned short)-973875429, 1512430535);
 }
 else if (y8O7i4 > 1062227644)
 {

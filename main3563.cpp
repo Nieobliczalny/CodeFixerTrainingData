@@ -49,7 +49,7 @@ int main(void) {
 	char	rWHV;
 	rWHV	=	(char)225428980;
 	char	dRIBVA;
-	dRIBVA	=	-478064163;
+	dRIBVA	=	(char)-478064163;
  long double ZomlS7qjTx;
  ZomlS7qjTx = 1088918392;
  char m6_vJx4FX;
@@ -77,7 +77,7 @@ int main(void) {
     unsigned char    jq_2YPu9;
     jq_2YPu9    =    (unsigned char)-214195284;
     char    JO8dK;
-    JO8dK    =    2087907402;
+    JO8dK    =    (char)2087907402;
     long long    Jnp4Xi3J8;
     Jnp4Xi3J8    =    -1282421691;
     long long    L4620;
@@ -91,7 +91,7 @@ int main(void) {
 	short int	K3ocQMdHJ;
 	K3ocQMdHJ	=	(short)-1694852776;
 	char	i6Mh;
-	i6Mh	=	525638184;
+	i6Mh	=	(char)525638184;
     long double    Ksy0rNgeee;
     Ksy0rNgeee    =    -437375080;
 	unsigned short int	bBX8WyjHC;
@@ -129,7 +129,7 @@ int main(void) {
 	short int	JxKX32x6DZ;
 	JxKX32x6DZ	=	(short)-1555372061;
     unsigned short    RJbqq;
-    RJbqq    =    -381280784;
+    RJbqq    =    (unsigned short)-381280784;
     short    ldPti13xZ;
     ldPti13xZ    =    (short)-1844665986;
   unsigned char  wNC_IM9e9;
@@ -424,7 +424,7 @@ W1p_3Sz771 = O1M34Ry(-241349566, 115410778, 468874362, (unsigned short)-38946086
 break;
 case 'd':
 case 'D':
-djt1jO = tPA1_Y(-1052962708, ki1F_Ftfp, (unsigned char)553751337, 1358789016);
+djt1jO = tPA1_Y(-1052962708, ki1F_Ftfp, (unsigned char)553751337, (short)1358789016);
 break;
 case 'e':
 case 'E':

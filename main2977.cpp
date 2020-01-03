@@ -52,7 +52,7 @@ int main(int argc, char** argv) {
  unsigned short int W0eH;
  W0eH = (unsigned short)238908146;
 	unsigned char	Ql7lVTD;
-	Ql7lVTD	=	-126012639;
+	Ql7lVTD	=	(unsigned char)-126012639;
 	float	c_reph;
 	c_reph	=	-1835915671;
  short t1C4ru;
@@ -80,7 +80,7 @@ int main(int argc, char** argv) {
 	long	B5TCcR;
 	B5TCcR	=	-198089641;
  unsigned short int NYMt;
- NYMt = 626870805;
+ NYMt = (unsigned short)626870805;
  short int TcUwN4_g12;
  TcUwN4_g12 = (short)-1476632554;
  float XJ5tnZ899;

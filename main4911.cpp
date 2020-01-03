@@ -20,7 +20,7 @@ int main(int argc, char** argv)
 	unsigned long	v_ems	=	503928040;
 	int	Rt67	=	0;
  double Gk48O = -797743540;
-	short int	OQg81	=	832005948;
+	short int	OQg81	=	(short)832005948;
 	unsigned long long	r9dUOH	=	0;
 	unsigned char	MIMPTl2_D	=	(unsigned char)-12954692;
  long o__H3D = -272538720;
@@ -31,7 +31,7 @@ int main(int argc, char** argv)
   short  m0Y70XIq2p  =  903096428;
   long  xoB2__Rg  =  -1102049372;
   unsigned long long  EN5i_  =  -396356267;
-    unsigned short    T7Y9Y3k    =    -344849883;
+    unsigned short    T7Y9Y3k    =    (unsigned short)-344849883;
   unsigned long long  PJ6v7__5  =  -1996095582;
  short int HhvUFw39 = (short)-554046290;
     long double    dy968I0    =    1931858371;
@@ -41,7 +41,7 @@ int main(int argc, char** argv)
     short    vb64    =    (short)-928032481;
     long long    AQGKhz    =    -1382374652;
     long    DIV_x    =    1740238812;
-  unsigned short  GtvoIayn  =  2003085533;
+  unsigned short  GtvoIayn  =  (unsigned short)2003085533;
  long long z4nJN_s = 1126563850;
  float BDg6HM8T = 1097631973;
     unsigned int    BB_6Fz    =    -1143233888;
@@ -73,7 +73,7 @@ int main(int argc, char** argv)
     unsigned long long    Ql8X47    =    -761311716;
   float  CIW7A  =  -368797364;
   char  N0nADcK  =  (char)696598289;
- char Q2X_ = -1044180073;
+ char Q2X_ = (char)-1044180073;
 	short int	RzRz4W	=	1923729193;
  short int P8czaYzT = 1472299709;
     unsigned short int    vRsRT    =    -31875245;
@@ -92,7 +92,7 @@ int main(int argc, char** argv)
  short r_7JzZJ = (short)844257149;
     float    GsRzj    =    806374383;
  char E1MiO = (char)1927810690;
-    unsigned short    OaixF1    =    -411710180;
+    unsigned short    OaixF1    =    (unsigned short)-411710180;
   long double  DF_1_u_  =  1192926284;
  short VXHeg = (short)1262171101;
  short int fK340t7N_ = -812402094;
@@ -113,7 +113,7 @@ case 1:
 wUdy &= R3c6;
 break;
 case 2:
-L2B_duMvZ = (INdpTT == PJ6v7__5) ? (unsigned char)-1589403897 : -365431992;
+L2B_duMvZ = (INdpTT == PJ6v7__5) ? (unsigned char)-1589403897 : (unsigned char)-365431992;
 break;
 case 3:
 trHuZhJB24 = INdpTT | 1768330417;

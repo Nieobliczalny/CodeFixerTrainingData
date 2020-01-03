@@ -41,7 +41,7 @@ int main(void)
  char RIbp_k0G;
  RIbp_k0G = (char)1869379004;
  unsigned char uy73V6G;
- uy73V6G = -222353772;
+ uy73V6G = (unsigned char)-222353772;
  short int Bq3l8l30Tp;
  Bq3l8l30Tp = (short)-568331927;
  unsigned short ba8n_0nZ;
@@ -138,7 +138,7 @@ int main(void)
 cSnxMFc = Cmytm6_64(cSnxMFc, hnE77kQj);
 
 std::cout << JUu6v4t / QCCJu8V9Iu(826566092) << std::endl;
-std::cout << LQ1XsG << "xA4WxY_Y6m" << ba8n_0nZ << z79cxUB(1741821247, -1860399310) << std::endl;
+std::cout << LQ1XsG << "xA4WxY_Y6m" << ba8n_0nZ << z79cxUB(1741821247, (unsigned short)-1860399310) << std::endl;
 {
 int i = 2;
 while (i >= 0)

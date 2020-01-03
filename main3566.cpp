@@ -23,7 +23,7 @@ int main(int argc, char** argv)
 	unsigned short int	XDj7HJ3	=	(unsigned short)-1886695003;
  unsigned char k1o_W = (unsigned char)-386496402;
     float    c8EES4_03    =    1757000695;
-    unsigned short    h2b8z7P    =    151795804;
+    unsigned short    h2b8z7P    =    (unsigned short)151795804;
 	unsigned int	JsKj	=	-1838526414;
  unsigned short int cJIw = -1684286545;
 	long long	y06_J	=	752745749;
@@ -36,7 +36,7 @@ int main(int argc, char** argv)
   long double  wpx68I1_  =  -670676609;
 	unsigned long	gqOh7I	=	1474532003;
  unsigned short int QaW32s_tX = (unsigned short)1489467311;
-	char	TRH0_9g	=	-2078195291;
+	char	TRH0_9g	=	(char)-2078195291;
     int    YCLla1KS    =    -1064103630;
     unsigned long long    hp95UR    =    -127053731;
 	unsigned char	iLFd	=	(unsigned char)-518476552;
@@ -52,7 +52,7 @@ int main(int argc, char** argv)
     char    y5_u1SHN    =    (char)1759891524;
 	int	neck77W_T	=	0;
   long double  i24u9Cjk  =  -1186628755;
-    unsigned short    q96oX2    =    1785248094;
+    unsigned short    q96oX2    =    (unsigned short)1785248094;
     long long    fJLoZ_cqW    =    1054986811;
 	unsigned long long	Fs_c2NRQN4	=	-999052217;
  unsigned short eU1l3 = (unsigned short)1419020493;
@@ -64,7 +64,7 @@ int main(int argc, char** argv)
  char ALF0HSE = 0;
   short int  VfmEXOMmP8  =  (short)454810744;
  long double cf7l7ht = -962668640;
-	unsigned short	m1fo2	=	-676515432;
+	unsigned short	m1fo2	=	(unsigned short)-676515432;
 	float	Hwcg5xW60B	=	148559387;
     double    G6HIVhxl    =    798505693;
   double  Vl2_fm7c  =  -1427714527;
@@ -141,7 +141,7 @@ while (i >= 0);
 }
 XDj7HJ3 = aW2K_1hvZ((short)-734362681, wrc6B, t8SzK82f, 1127578153, -147763094);
 
-XDj7HJ3 = aW2K_1hvZ((short)-1740116402, 502009293, t8SzK82f, y5_u1SHN, T91m7Fs4JC) / ALF0HSE;
+XDj7HJ3 = aW2K_1hvZ((short)-1740116402, (unsigned char)502009293, t8SzK82f, y5_u1SHN, T91m7Fs4JC) / ALF0HSE;
 jLXeodW4 = vMv2ykF2(jLXeodW4, 1002774646, cf7l7ht);
 
 if (neck77W_T == i24u9Cjk)
@@ -257,7 +257,7 @@ case 2:
 YCLla1KS = (int)abs(cf7l7ht);
 break;
 case 3:
-vSW3Ri = aW2K_1hvZ(vSW3Ri, m1fo2, -956305916, -409984913, pjX9uDX);
+vSW3Ri = aW2K_1hvZ(vSW3Ri, m1fo2, (char)-956305916, -409984913, pjX9uDX);
 break;
 case 4:
 m1fo2 = vMv2ykF2(m1fo2, 801894910, dE_wU1FNX);

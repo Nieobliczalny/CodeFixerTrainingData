@@ -226,7 +226,7 @@ W5d_4W3 = e9ky(W5d_4W3, RPUN9fR80O, (short)341091395);
 }
 else
 {
-std::cout << e_d84Qr() << oWsY << e9ky((short)394127328, (unsigned short)1731150733, t8N1tT) << "rAxXpswOA" << e9ky(W5d_4W3, RPUN9fR80O, 1706313437) << std::endl;
+std::cout << e_d84Qr() << oWsY << e9ky((short)394127328, (unsigned short)1731150733, t8N1tT) << "rAxXpswOA" << e9ky(W5d_4W3, RPUN9fR80O, (short)1706313437) << std::endl;
 }
 }
 else if (e5Cyyg7 < cFeZ)
@@ -618,7 +618,7 @@ case 6:
 RPUN9fR80O = e9ky((short)-1894511133, (unsigned short)634999202, (short)1175527945);
 break;
 case 7:
-oWsY = e9ky(oWsY, -1547253975, el3zwf2gy);
+oWsY = e9ky(oWsY, (unsigned short)-1547253975, el3zwf2gy);
 break;
 case 8:
 O22_P00 = (int)abs(FxWyiI) + (-266800487);
@@ -652,7 +652,7 @@ std::cout << e9ky(oWsY, (unsigned short)-1434004700, (short)1027887142) << e_d84
 while (i >= 0);
 }
 
-W5d_4W3 = e9ky(W5d_4W3, (unsigned short)1086842802, -120518699);
+W5d_4W3 = e9ky(W5d_4W3, (unsigned short)1086842802, (short)-120518699);
 O22_P00 = -2084490279 / N9n1T10_(1508209957, Hrd6_Ct57e);
 
 if ((t8N1tT & -1789451998) || (F3eae2 > O22_P00))

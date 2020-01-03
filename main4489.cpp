@@ -18,7 +18,7 @@ int main(void)
   l70_98xEn  =  (unsigned short)1972267011;
   S1G555w  =  (unsigned short)246952548;
   m73bVDnT35  =  (unsigned short)754057575;
-  A5C3p_wZ_J  =  492587463;
+  A5C3p_wZ_J  =  (unsigned short)492587463;
   eKFGhML7O  =  1726415295;
   s99a21z2  =  -1304409159;
   cXZn0p94gr  =  -254581727;
@@ -28,7 +28,7 @@ int main(void)
   gxZHWyyf59  =  (unsigned short)1844491749;
   yXkW246  =  (unsigned short)-1836653420;
   LyOH5J  =  (unsigned short)299984642;
-  EK7C9  =  -1527150773;
+  EK7C9  =  (unsigned short)-1527150773;
   QzW6Z5r8  =  -1881720703;
   RY_vLuy  =  -1966928977;
   LNnCNE  =  -297227515;
@@ -38,7 +38,7 @@ int main(void)
   v9sg2ZuNu8  =  (unsigned short)-16091772;
   p8ppCHEiq  =  (unsigned short)-400380005;
   d32HCBdz  =  (unsigned short)443736522;
-  xdv039  =  -1867932442;
+  xdv039  =  (unsigned short)-1867932442;
   m0GV7Eh1L  =  -1568861226;
   mV7Hp53k  =  -1272520296;
   R5UotN655L  =  -308096398;
@@ -48,7 +48,7 @@ int main(void)
   t26t  =  (unsigned short)891638092;
   k3842A  =  (unsigned short)1543263589;
   yDv7k186F3  =  (unsigned short)-1236202002;
-  HASc74t4Ty  =  714706694;
+  HASc74t4Ty  =  (unsigned short)714706694;
   nR159OUlZ0  =  -1576116476;
   eWap9K3x  =  824647339;
   kXQsHOHQ  =  224686712;
@@ -58,7 +58,7 @@ int main(void)
   a10edf5meI  =  (unsigned short)-1386041546;
   S9gqkG  =  (unsigned short)1728876173;
   Se_qa  =  (unsigned short)1587224149;
-  c2oq_  =  1115202794;
+  c2oq_  =  (unsigned short)1115202794;
   d0hChl  =  1977107363;
   liP2A1iC1  =  1967245461;
   SxIW8NHF  =  633096546;
@@ -68,7 +68,7 @@ int main(void)
   We2k  =  (unsigned short)1346189127;
   eYAD8  =  (unsigned short)699566263;
   s3516Z  =  (unsigned short)1037809036;
-  LP486X  =  -1636902002;
+  LP486X  =  (unsigned short)-1636902002;
   fi8RG9  =  1176981678;
   rn42o9  =  -1038173737;
   E83NM  =  -720393060;
@@ -78,7 +78,7 @@ int main(void)
   sejLCi7C  =  (unsigned short)-460121428;
   B9RJ  =  (unsigned short)206056541;
   UvXk_o_  =  (unsigned short)345886415;
-  q87v6P8K  =  883190674;
+  q87v6P8K  =  (unsigned short)883190674;
   VXOr  =  1064334157;
   b9Xia  =  425088647;
   gWm26  =  -1797725990;
@@ -88,7 +88,7 @@ int main(void)
   mD_1nUD9af  =  (unsigned short)-722778378;
   vY_4ZeG8C2  =  (unsigned short)-192492943;
   Or0higId  =  (unsigned short)1797257900;
-  I9_ODs  =  496436074;
+  I9_ODs  =  (unsigned short)496436074;
   u_2zo  =  -1306134984;
   fRhS7r40  =  994046096;
   Bw7_r796QF  =  -2009726888;
@@ -98,7 +98,7 @@ int main(void)
   k7zSk0Za  =  (unsigned short)1908894975;
   CX7z90  =  (unsigned short)-2031188857;
   K6__k24Q  =  (unsigned short)1772095147;
-  vR_rdLkN  =  1636060767;
+  vR_rdLkN  =  (unsigned short)1636060767;
   wUA2iX  =  -157951156;
   hX4e  =  -1172181076;
   O4HT_rQB55  =  31191397;
@@ -351,7 +351,7 @@ case 'c':
 r1AM35_fK = mgmYl_3GS(1558229764, (unsigned char)-794695933, (unsigned char)-972003234, S9gqkG, 777555256);
 break;
 case 'd':
-ASxY0pW = mgmYl_3GS(lK_g, (unsigned char)-960926069, 698449295, 618457886, 860681613) >> SxIW8NHF;
+ASxY0pW = mgmYl_3GS(lK_g, (unsigned char)-960926069, (unsigned char)698449295, 618457886, 860681613) >> SxIW8NHF;
 break;
 case 'e':
 TYzD63n7 = mgmYl_3GS(b9Xia, 1165902995, 347882350, p8ppCHEiq, TYzD63n7);
@@ -400,7 +400,7 @@ case 1:
 r1AM35_fK = mgmYl_3GS(-1459770302, (unsigned char)-544245479, (unsigned char)1789373091, s3516Z, 1299212457);
 break;
 case 2:
-r1AM35_fK = mgmYl_3GS(oGd62074, (unsigned char)1756358600, -595388436, gxZHWyyf59, t26t);
+r1AM35_fK = mgmYl_3GS(oGd62074, (unsigned char)1756358600, (unsigned char)-595388436, gxZHWyyf59, t26t);
 break;
 case 3:
 e9Jwi5_ = mgmYl_3GS(-441266499, 17421024, P40v, 1480228342, 1761500567) + 467086090;
@@ -518,7 +518,7 @@ case 0:
 r1AM35_fK = mgmYl_3GS(cXZn0p94gr, (unsigned char)1450072123, (unsigned char)535318536, 36106116, Se_qa);
 break;
 case 1:
-PlhMv4HH8 = mgmYl_3GS(Y567thi44O, (unsigned char)-1719434362, -772483621, s99a21z2, -209937734);
+PlhMv4HH8 = mgmYl_3GS(Y567thi44O, (unsigned char)-1719434362, (unsigned char)-772483621, s99a21z2, -209937734);
 break;
 case 2:
 r1AM35_fK = mgmYl_3GS(S10D_, 1516463868, -517832865, CqKh0k, ZQm2Qq_2h);

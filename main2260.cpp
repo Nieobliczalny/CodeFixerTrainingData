@@ -29,7 +29,7 @@ int main()
   unsigned char  o8a6s_1i  =  (unsigned char)1050224164;
 	unsigned char	V1iMkEzr	=	(unsigned char)1674647843;
     double    f3znFc    =    -1209632461;
-	unsigned short	NW6U5Lve_	=	-1526799900;
+	unsigned short	NW6U5Lve_	=	(unsigned short)-1526799900;
     unsigned short    LsJ7    =    -425780375;
 	double	yY65gJ63kQ	=	1981134019;
   unsigned long  V4w2_JL  =  -2024384413;
@@ -43,7 +43,7 @@ int main()
  unsigned long long K7HPV4 = -1405653094;
  unsigned short int m_wA6Pj3 = (unsigned short)1527193374;
   char  LR6tcPvmD  =  (char)-1631229333;
-    unsigned char    s358i    =    1298853611;
+    unsigned char    s358i    =    (unsigned char)1298853611;
     float    k20tB1    =    -623631506;
 	unsigned short int	wib40nRBG	=	0;
  unsigned char os7or = 1245103141;
@@ -61,7 +61,7 @@ int main()
   short int  Y4t6uBH  =  (short)716140308;
   float  EkdCsM4  =  -813958014;
 	long	zNv6	=	938266917;
- char Jwi0LH = 371643511;
+ char Jwi0LH = (char)371643511;
 	unsigned int	y3hRDv	=	0;
 	unsigned short int	xRWi0	=	(unsigned short)2093681582;
   unsigned int  sgB8  =  664040056;
@@ -80,7 +80,7 @@ if (o9hB55 >= -696932865)
 {
 if (G19Etz2Qb == DZs5yQL)
 {
-std::cout << D5b5mP_uv(K7HPV4, (unsigned char)924424773, (char)-621990897, -1298997925) << "gzykoOgW" << "Zi43SR" << D5b5mP_uv(K7HPV4, 1085686287, K9ua67E, DZs5yQL) << QHJ7Bp0() << std::endl;
+std::cout << D5b5mP_uv(K7HPV4, (unsigned char)924424773, (char)-621990897, (unsigned short)-1298997925) << "gzykoOgW" << "Zi43SR" << D5b5mP_uv(K7HPV4, 1085686287, K9ua67E, DZs5yQL) << QHJ7Bp0() << std::endl;
 }
 else
 {
@@ -104,7 +104,7 @@ while (k < 4);
 }
 else
 {
-std::cout << irLrb((unsigned short)-1520767346, (unsigned char)-2034011129, m_wA6Pj3, W0_CVw, (char)936418272) << irLrb(980685038, K9ua67E, m_wA6Pj3, -1636501172, Oac3) << "ZFoV" << std::endl;
+std::cout << irLrb((unsigned short)-1520767346, (unsigned char)-2034011129, m_wA6Pj3, W0_CVw, (char)936418272) << irLrb((unsigned short)980685038, K9ua67E, m_wA6Pj3, -1636501172, Oac3) << "ZFoV" << std::endl;
 }
 m_wA6Pj3--;
 {
@@ -381,7 +381,7 @@ SO3yzrP0 = R_m1fw460 << DZs5yQL;
 }
 else if (GfwfmAi != -1794569147)
 {
-SO3yzrP0 = irLrb(SO3yzrP0, 484438239, 1397486970, 1659418902, -1622702537);
+SO3yzrP0 = irLrb(SO3yzrP0, (unsigned char)484438239, 1397486970, 1659418902, -1622702537);
 }
 else
 {

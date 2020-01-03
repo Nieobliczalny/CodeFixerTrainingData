@@ -50,7 +50,7 @@ std::cout << Da7FiV(a65kVM2, idT2T44, ZS3bc3c3, i9QGJR_o) << F2y41CR5n2 << Q13BM
 switch (l2x4V2Anb8)
 {
 case 0:
-q6mJ1mBcU = Q13BM5I(-1976970878, idT2T44, -1954465058, i9QGJR_o, wBCj) >> uHLs;
+q6mJ1mBcU = Q13BM5I(-1976970878, idT2T44, (short)-1954465058, i9QGJR_o, wBCj) >> uHLs;
 break;
 case 1:
 i9QGJR_o = JiZ2gGsE(i9QGJR_o, XmsHy43);
@@ -65,7 +65,7 @@ case 4:
 wBCj += tIKY;
 break;
 case 5:
-ZQ3MZ33 = Q13BM5I(26674348, -85006807, 201861972, -1575281705, cuoPCCQ);
+ZQ3MZ33 = Q13BM5I(26674348, -85006807, (short)201861972, -1575281705, cuoPCCQ);
 break;
 case 6:
 fUmFU9VK = (int)abs(xe7klX45);
@@ -112,7 +112,7 @@ else
 {
 if (P8L94batb9 == vXZze2_o8l)
 {
-huA5 = Q13BM5I(1264084695, -1119393462, (short)-254040086, -1612202143, -587033237);
+huA5 = Q13BM5I(1264084695, -1119393462, (short)-254040086, (short)-1612202143, -587033237);
 }
 else
 {

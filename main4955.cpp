@@ -36,7 +36,7 @@ int main() {
 	unsigned short	U18Uex;
 	U18Uex	=	(unsigned short)-1162576748;
  unsigned char GekkSvM;
- GekkSvM = 2094433523;
+ GekkSvM = (unsigned char)2094433523;
   unsigned long long  O56Vxlq1;
   O56Vxlq1  =  1676327838;
  long double SB27gi4ENk;
@@ -241,7 +241,7 @@ case 4:
 u6iW47Qq = UV1OF(-1407465917, v_G2, -1605715129, (unsigned short)1771629628, erR__W8y);
 break;
 case 5:
-UZDA = wF88B0T2(645463820, t6zxwG, dCJLM, 1074991175);
+UZDA = wF88B0T2((unsigned short)645463820, t6zxwG, dCJLM, 1074991175);
 break;
 }
 }

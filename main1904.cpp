@@ -26,7 +26,7 @@ int main(int argc, char** argv) {
     float    jDRoBBy1K9    =    1380288918;
     float    U7cT    =    1933460703;
     long long    U9MF62_T_    =    1977751665;
-    unsigned char    rB296__cLB    =    1238461785;
+    unsigned char    rB296__cLB    =    (unsigned char)1238461785;
  unsigned char j6XQ6Zyn = 700096624;
  unsigned long long c0k6jy9 = -1817130703;
     int    vli76D    =    454677473;

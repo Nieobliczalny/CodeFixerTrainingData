@@ -43,7 +43,7 @@ case 'f':
 dd090_ |= 1055354995;
 break;
 case 'g':
-XreLK6 = iZX_(1433209789, XreLK6, Ozda);
+XreLK6 = iZX_((unsigned char)1433209789, XreLK6, Ozda);
 break;
 case 'h':
 EGPJtBBB = Ozda & 390454941;
@@ -205,7 +205,7 @@ case 1:
 IDtmw1 = Q_HniL0 ^ 1294818529;
 break;
 default:
-bV8aYuG5R6 = iZX_((unsigned char)1380711184, 2082440882, -1642069524);
+bV8aYuG5R6 = iZX_((unsigned char)1380711184, (unsigned char)2082440882, -1642069524);
 break;
 }
 std::cout << "p9oK4" << iZX_(CTVPiW5, p7ENQ7d, bV8aYuG5R6) << RgZy8W4Xjs << iZX_(CTVPiW5, 857819901, bV8aYuG5R6) << iZX_(486129185, p7ENQ7d, bV8aYuG5R6) << std::endl;
@@ -500,7 +500,7 @@ Ozda = nt3f8E23 & Mf5e43Bi12;
 }
 for (int i = 0; i < 5; ++i)
 {
-std::cout << iZX_((unsigned char)-825999446, Q_HniL0, SX6HnD) << iZX_((unsigned char)-1384454123, (unsigned char)-260893041, -1027796476) << "QYUl_M" << iZX_(-1283822809, -684801042, -698179695) << std::endl;
+std::cout << iZX_((unsigned char)-825999446, Q_HniL0, SX6HnD) << iZX_((unsigned char)-1384454123, (unsigned char)-260893041, -1027796476) << "QYUl_M" << iZX_((unsigned char)-1283822809, -684801042, -698179695) << std::endl;
 }
 p7ENQ7d++;
 if (k9zpuo)

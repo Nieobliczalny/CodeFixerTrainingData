@@ -31,7 +31,7 @@ int main()
 	unsigned short int	OKC2AvtkX	=	(unsigned short)2042729658;
   char  k3_51vd  =  (char)-955474482;
     double    Itn8opr8    =    2081192122;
-    short    p3Ii6Pa97V    =    173928642;
+    short    p3Ii6Pa97V    =    (short)173928642;
  unsigned long kvTwB8IaG7 = 0;
   long long  i0r50zr  =  -1608861294;
     unsigned short    BQc_L5_tP    =    -1739896051;
@@ -44,7 +44,7 @@ int main()
   long  LGP3  =  -1376057090;
 	unsigned long long	PFEY	=	-897975870;
 	unsigned short	v5u949V	=	(unsigned short)352650263;
- short Y3qdB_o = -809120234;
+ short Y3qdB_o = (short)-809120234;
  float tRk4kn = 531019435;
     char    SPNd    =    1550648121;
   unsigned short int  OxNa_tEZ  =  -1661950845;
@@ -68,7 +68,7 @@ int main()
  long double iiw6 = 188121925;
 	unsigned int	EI_k9	=	0;
  short int brzh = (short)1519811277;
-  unsigned short int  S0ax9n2O  =  -542624612;
+  unsigned short int  S0ax9n2O  =  (unsigned short)-542624612;
 	short	s13HD8	=	(short)592259816;
     double    iTg5    =    -422366086;
 	float	B6Nx0DjY_	=	-1058678051;
@@ -365,7 +365,7 @@ cout << "r0f313yp" << u1z9(tBMlQ16, yl_vjL, (unsigned short)1349498746, T5mijJ) 
 }
 else if (y44VzZ83YO)
 {
-q2vSFc477 = u1z9(-321634895, T83GjyUS0s, -386109566, 2137229322);
+q2vSFc477 = u1z9(-321634895, T83GjyUS0s, (unsigned short)-386109566, 2137229322);
 }
 else
 {

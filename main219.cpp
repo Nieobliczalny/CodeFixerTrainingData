@@ -39,7 +39,7 @@ int main(int argc, char** argv) {
 	unsigned short int	Vja2E;
 	Vja2E	=	(unsigned short)614733993;
   unsigned char  N6F11Elw;
-  N6F11Elw  =  -1011404123;
+  N6F11Elw  =  (unsigned char)-1011404123;
     short int    s66d;
     s66d    =    0;
  long double wiYN_1yqj;
@@ -239,7 +239,7 @@ case 2:
 i2ghBra24 = XvNsyCU(i2ghBra24, -937614670, FauExg, (short)-380484695, I9p565);
 break;
 case 3:
-HpDQ0RiyA2 = XvNsyCU(-2118449387, HpDQ0RiyA2, Z_g_cCMV, 525696258, i2ghBra24);
+HpDQ0RiyA2 = XvNsyCU((unsigned short)-2118449387, HpDQ0RiyA2, Z_g_cCMV, 525696258, i2ghBra24);
 break;
 case 4:
 wiYN_1yqj = (int)floor(lMFJS3E_);
@@ -309,7 +309,7 @@ k23GZ2M9j6 = XvNsyCU((unsigned short)-1402934710, af4T8_vOCh, (unsigned char)-18
 Z_g_cCMV = (int)ceil(lMFJS3E_);
 for (int i = 0; i < 3; i++)
 {
-std::cout << XvNsyCU(1777409168, 2144199878, J8PQ, NJU0fJKl32, -1740410786) << "SpT08Ki" << std::endl;
+std::cout << XvNsyCU((unsigned short)1777409168, 2144199878, J8PQ, NJU0fJKl32, -1740410786) << "SpT08Ki" << std::endl;
 }
 
 for (int i = 2; i >= 0; --i)

@@ -175,7 +175,7 @@ break;
 }
 }
 m22sXd = (int)abs(JNF59oJ5e);
-mdGglWzhV = k5vwGrw / dvBV(-2127465806, (unsigned char)-1117600608, -1038933116, 707106666);
+mdGglWzhV = k5vwGrw / dvBV(-2127465806, (unsigned char)-1117600608, -1038933116, (unsigned short)707106666);
 N5kM48 = dvBV(1307293749, a2B_FKk, s1V4L7_p4o, phkq4X6gXr);
 
 J1z2b = (int)floor(JNF59oJ5e);

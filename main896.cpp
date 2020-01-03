@@ -636,7 +636,7 @@ case 1:
 H5fsXP0a9 = pWsv5V3((unsigned char)-588240564, (char)198365409, (short)2142973672);
 break;
 case 2:
-l03WNP2P9 = pWsv5V3(-918890151, -1980014422, j8KP_Sza);
+l03WNP2P9 = pWsv5V3((unsigned char)-918890151, -1980014422, j8KP_Sza);
 break;
 case 3:
 nK5D00Q1r = skhXoBszu();

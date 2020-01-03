@@ -26,7 +26,7 @@ std::cout << b4ho41H((char)-122162095) << b4ho41H(lo4V1O) << b4ho41H((char)-2131
 tUh7WDoY4 = 445834052 / bPfsF;
 bPfsF = (int)abs(lo4V1O) * 0;
 
-f7Ki222va = b4ho41H(-1872612489);
+f7Ki222va = b4ho41H((char)-1872612489);
 return 0;
 }
 

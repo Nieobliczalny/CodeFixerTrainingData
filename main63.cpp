@@ -51,7 +51,7 @@ int main(void)
  double Ijw2YY = -235956233;
   unsigned short  KkKZp54  =  (unsigned short)-169043641;
   float  vVl7lDQ_1  =  1710259522;
-  short int  jqGZ3Mw9  =  -1761528553;
+  short int  jqGZ3Mw9  =  (short)-1761528553;
  unsigned char a7s008yo = 1131413822;
 	unsigned char	Cldb	=	(unsigned char)-1893185924;
     double    Yta7rU    =    1195795429;

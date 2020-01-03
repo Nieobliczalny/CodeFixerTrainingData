@@ -32,7 +32,7 @@ int main(int argc, char** argv)
     Mct3A    =    (unsigned char)-1870411613;
     GzR7_3mZ    =    (unsigned char)1568184328;
     Sww89Gd    =    (unsigned char)46700639;
-    Z06V_    =    -1442716664;
+    Z06V_    =    (unsigned char)-1442716664;
     XK8xYpH6    =    -210919341;
     i_1Km6YT    =    444343485;
     du77_2    =    1875243346;
@@ -42,7 +42,7 @@ int main(int argc, char** argv)
     IaNycpj_5    =    (unsigned char)-1764981433;
     w3DQ8Iil7C    =    (unsigned char)2035827806;
     W5966yzogM    =    (unsigned char)-291872907;
-    C13Bl    =    -702331171;
+    C13Bl    =    (unsigned char)-702331171;
     G9YtQJpxo8    =    -1171299361;
     m53S_Jx    =    -268375466;
     aB61c9r    =    -1689708558;
@@ -52,7 +52,7 @@ int main(int argc, char** argv)
     i1q1bL6Dh    =    (unsigned char)597472200;
     fHJ2k    =    (unsigned char)810168424;
     DM0d0f3e    =    (unsigned char)-48087578;
-    M_MU87    =    -421289978;
+    M_MU87    =    (unsigned char)-421289978;
     OW_M    =    -1320777993;
     l8kWQG6    =    -1274497978;
     f_9i7b    =    -1137710473;
@@ -62,7 +62,7 @@ int main(int argc, char** argv)
     rSGxt9K    =    (unsigned char)-244695241;
     w598usL    =    (unsigned char)-1965675284;
     BFUnU22X    =    (unsigned char)-1118414983;
-    M_4mPis    =    -1365410678;
+    M_4mPis    =    (unsigned char)-1365410678;
     xK12t    =    -61457249;
     S0qd    =    -1814710457;
     CSjtnfI    =    1817693258;
@@ -72,7 +72,7 @@ int main(int argc, char** argv)
     Z_6M7OqkN    =    (unsigned char)-1654559237;
     E_21vj2Wn    =    (unsigned char)-380971590;
     h76jp15    =    (unsigned char)-277003168;
-    y96cSQ    =    1436296485;
+    y96cSQ    =    (unsigned char)1436296485;
     xTzk7    =    -951045875;
     h92I_C    =    -1597198893;
     EMxE9unt    =    -666743060;
@@ -82,7 +82,7 @@ int main(int argc, char** argv)
     HbbVm3o    =    (unsigned char)-363452487;
     BHpE58_H    =    (unsigned char)-702933513;
     F6d5QTPa    =    (unsigned char)-993109802;
-    t5J33mBl8    =    1250120366;
+    t5J33mBl8    =    (unsigned char)1250120366;
 
 cout << "kc2bUbldur" << endl;
 

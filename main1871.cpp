@@ -103,7 +103,7 @@ int main(int argc, char** argv) {
 	short	V866e1;
 	V866e1	=	(short)930229456;
   unsigned char  e8ThR;
-  e8ThR  =  -860807147;
+  e8ThR  =  (unsigned char)-860807147;
 	char	l4Bv2;
 	l4Bv2	=	(char)1513745537;
  double FcTBw;
@@ -165,7 +165,7 @@ int main(int argc, char** argv) {
  long h3oQbQBA3;
  h3oQbQBA3 = 1659865490;
  short int Y6P2nMR;
- Y6P2nMR = 1274629722;
+ Y6P2nMR = (short)1274629722;
     short    AfhKc1;
     AfhKc1    =    (short)1494732053;
  float fUNJmDvr4;

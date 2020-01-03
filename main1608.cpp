@@ -108,7 +108,7 @@ case 2:
 vtxpBo %= 473253708;
 break;
 case 3:
-kMI2 = x0ILqRJ53(j06aO, 749116170, ac0KhwD, -752370479);
+kMI2 = x0ILqRJ53(j06aO, (short)749116170, ac0KhwD, -752370479);
 break;
 case 4:
 Q32m = g41O93B3 ^ 1792301648;
@@ -120,7 +120,7 @@ case 6:
 t4tC1ii2 = aAB2M9Ih - 453898046;
 break;
 case 7:
-kMI2 = x0ILqRJ53(386469341, 788861932, -1527658798, 1494127334);
+kMI2 = x0ILqRJ53(386469341, (short)788861932, -1527658798, 1494127334);
 break;
 case 8:
 n_8_fHZ = l2woK5x | NXDCs_2Csi;
@@ -138,7 +138,7 @@ while (i >= 0);
 }
 kMI2 = x0ILqRJ53(1713572706, y30uJLP, lqEn, oRAK9);
 std::cout << x0ILqRJ53(1570112371, y30uJLP, lqEn, oRAK9) << std::endl;
-std::cout << x0ILqRJ53(O_W4, (short)391637791, lqEn, (short)570406154) << x0ILqRJ53(O_W4, (short)-327313880, -566948652, oRAK9) << std::endl;
+std::cout << x0ILqRJ53(O_W4, (short)391637791, lqEn, (short)570406154) << x0ILqRJ53(O_W4, (short)-327313880, (unsigned short)-566948652, oRAK9) << std::endl;
 
 std::cout << -2146957139 / cfBg1X6mm5 << std::endl;
 try
@@ -164,7 +164,7 @@ else if (tDXx_0_ & I918G)
 switch (SL36yg)
 {
 case 'a':
-kMI2 = x0ILqRJ53(vtfv8hOT, (short)-1578454912, 1171074009, uMo7dhe2c);
+kMI2 = x0ILqRJ53(vtfv8hOT, (short)-1578454912, (unsigned short)1171074009, uMo7dhe2c);
 break;
 case 'b':
 cfBg1X6mm5 = x0ILqRJ53(274568681, ttNVTXCYJ, uMo7dhe2c, (short)-145620987);
@@ -206,7 +206,7 @@ case 1:
 UoayU5 /= 1345200390;
 break;
 case 2:
-cfBg1X6mm5 = x0ILqRJ53(-1954424138, (short)1109473642, (unsigned short)-414872559, -30220463);
+cfBg1X6mm5 = x0ILqRJ53(-1954424138, (short)1109473642, (unsigned short)-414872559, (short)-30220463);
 break;
 case 3:
 kMI2 = x0ILqRJ53(-1752547089, 1722465982, -2107681475, oh0zfB5);

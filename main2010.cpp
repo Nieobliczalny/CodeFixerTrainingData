@@ -33,7 +33,7 @@ int main() {
   unsigned int  hbznwB  =  -1352701935;
     long    r22oJld    =    398154521;
  unsigned int mM3S51kmZ2 = 1366489259;
-	short	Tv29S	=	143662948;
+	short	Tv29S	=	(short)143662948;
 	short	h87X701	=	-1891260538;
 	float	udy_qaL3	=	972859240;
   double  GP2EmRee  =  -942269279;
@@ -44,7 +44,7 @@ int main() {
     long    jYG6t7V4H6    =    865043488;
   long  N58e4Oo  =  -2037287506;
  int ptKxIZ23 = -927374301;
-    short    xEu7    =    -244462456;
+    short    xEu7    =    (short)-244462456;
   unsigned short int  F7hIp  =  1883952607;
     unsigned long long    c_95    =    1011431761;
     char    lCs_F_zx    =    -2042552379;
@@ -54,7 +54,7 @@ int main() {
  long double PS61 = -1138519876;
   unsigned long long  Yjip  =  -509915984;
  unsigned int gTS8_ = 2010156712;
- unsigned short h0H8 = -582895531;
+ unsigned short h0H8 = (unsigned short)-582895531;
 	float	tkhaG	=	2012355433;
     char    y3ZMnfre0p    =    -1633489519;
     long long    S979Vjtu    =    -1071874578;
@@ -74,7 +74,7 @@ int main() {
 	char	fbW6314d	=	0;
     long long    ztHS_    =    367418950;
   double  qWn_b  =  1552339375;
-  unsigned char  ho5cJ  =  1018097148;
+  unsigned char  ho5cJ  =  (unsigned char)1018097148;
 	unsigned long long	ZMdLs0	=	1051560194;
   long  dBar4VN  =  -37330738;
  long long Tti85D = -1256263567;
@@ -85,7 +85,7 @@ int main() {
     float    f25W9TS    =    445894456;
     char    xMa5Hkd7    =    (char)-1896452370;
  long long NEon = 1917111330;
-    short    YlkIclz    =    -1728902459;
+    short    YlkIclz    =    (short)-1728902459;
  long long v1L4iqCG = 565179397;
     unsigned short    A5g3I_S    =    893859342;
  short mY8MewmA4 = -1632085778;
@@ -97,7 +97,7 @@ int main() {
     double    i54q8TjxI    =    -864554728;
 	unsigned short int	R6Ry4	=	(unsigned short)-953422039;
  unsigned short int gkOO = (unsigned short)-440065820;
-  unsigned short  r4k39A3IUc  =  -775725572;
+  unsigned short  r4k39A3IUc  =  (unsigned short)-775725572;
   long long  w349S  =  602638689;
   char  Nte_k_  =  -507409392;
 	unsigned long	M1Bcv_fNk6	=	-245192750;

@@ -23,7 +23,7 @@ int main()
   float  m_p0Gvp55  =  1225053450;
  char gk1aV = (char)-1453705629;
 	unsigned long	Km85GsSyEG	=	0;
-    unsigned short    mfYRnb    =    -820688532;
+    unsigned short    mfYRnb    =    (unsigned short)-820688532;
  char R2zQC = -1963196798;
 	char	XJnA3k	=	1008816387;
   unsigned short  Gs1p  =  1558874401;

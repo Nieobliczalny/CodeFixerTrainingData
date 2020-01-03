@@ -197,7 +197,7 @@ case 4:
 IkIe = g4m0j(IkIe, iV24b);
 break;
 case 5:
-YKMzLW7wq = AVmB(YKMzLW7wq, (unsigned short)-1045729789, -2100875370, (unsigned char)-11256413, 1111935770);
+YKMzLW7wq = AVmB(YKMzLW7wq, (unsigned short)-1045729789, -2100875370, (unsigned char)-11256413, (char)1111935770);
 break;
 case 6:
 Ka0zotKE = (h7AM11 > -1601969319) ? U2o10PQ : CC3yZI_8SN;
@@ -489,7 +489,7 @@ case 2:
 A1dOX = AVmB((unsigned short)-92143233, dNsKuu, HjaRX, (unsigned char)1911520061, IkIe);
 break;
 case 3:
-iV24b = k__2bJ(r1hzo559, 1768853521, 1110108582);
+iV24b = k__2bJ(r1hzo559, (unsigned char)1768853521, 1110108582);
 break;
 case 4:
 a4fH8 = g4m0j(70353141, a4fH8);

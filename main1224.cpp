@@ -368,7 +368,7 @@ cout << gzaC1NOu9U << vc7fNS_oG((unsigned short)578516231, (short)-1515528411) <
 }
 else if (z_L3Yt8)
 {
-q327 = vc7fNS_oG(q327, 2129936119);
+q327 = vc7fNS_oG(q327, (short)2129936119);
 }
 else if (FJgZ0oD & S3Dz)
 {
@@ -517,7 +517,7 @@ case 2:
 LWD_eF = e_RdpMxl();
 break;
 case 3:
-vnZwt = X8khYkv4_9(-317097471, -1020565801, gkd03, K25e7Oo6);
+vnZwt = X8khYkv4_9((unsigned short)-317097471, -1020565801, gkd03, K25e7Oo6);
 break;
 case 4:
 G9176m2 = S3Dz / w_Xd914XD;

@@ -295,7 +295,7 @@ if ((zJvj == -1489404621) && (dglp5a & -1223363555))
 {
 if (lLMPuT < mC5T5cY)
 {
-egMCoLX6 = CR46niX75(C37W, (short)-1083356016, (unsigned char)-1987866093, -1282175166, woOs8_45P);
+egMCoLX6 = CR46niX75(C37W, (short)-1083356016, (unsigned char)-1987866093, (short)-1282175166, woOs8_45P);
 }
 else
 {
@@ -527,7 +527,7 @@ jVk8H ^= fNZI879Li5;
 break;
 case 'i':
 case 'I':
-QLD5ul187P = y8OmA72nD(QLD5ul187P, cwAIA0_UV6, -1123895564, -222167764);
+QLD5ul187P = y8OmA72nD(QLD5ul187P, cwAIA0_UV6, (char)-1123895564, -222167764);
 break;
 default:
 lv5TypW7 = Aa6B();

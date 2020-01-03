@@ -51,7 +51,7 @@ case 5:
 e88yDI = (int)ceil(XClct1Q8);
 break;
 case 6:
-k4kWXj_x = U0KR_zZ(k4kWXj_x, (char)753318740, XD2794A_C, -603310022, -1144160305);
+k4kWXj_x = U0KR_zZ(k4kWXj_x, (char)753318740, XD2794A_C, (char)-603310022, -1144160305);
 break;
 case 7:
 AoDyAjY4 = orWr4vZ3U8 - JgcE5Q2;
@@ -332,7 +332,7 @@ else if ((JgcE5Q2) || ((ID4e_ < -498048643) && (e8wwtFl0HD >= 1439206558)))
 {
 for (int k = 9; k >= 0; k--)
 {
-wff1F = Q2E_22DXvJ((unsigned char)509665697, 2019129852, 265103230, d4OG, ew67v54F);
+wff1F = Q2E_22DXvJ((unsigned char)509665697, (unsigned char)2019129852, 265103230, d4OG, ew67v54F);
 }
 }
 else if (v1jW0c0 < CkTm6)
@@ -377,7 +377,7 @@ case 6:
 Qz63Kl_ = (int)floor(ew67v54F);
 break;
 case 7:
-v21__64th = Q2E_22DXvJ((unsigned char)-28492339, -1485223545, -465352068, Rz_2S, 1277694901);
+v21__64th = Q2E_22DXvJ((unsigned char)-28492339, (unsigned char)-1485223545, -465352068, Rz_2S, 1277694901);
 break;
 default:
 ew67v54F = U0KR_zZ(-62977000, kq0W5LL, -1261554374, -1247540606, 1863031244);
@@ -396,7 +396,7 @@ case 'b':
 r1H_Byb1 = (int)abs(kq0W5LL);
 break;
 case 'c':
-v21__64th = Q2E_22DXvJ((unsigned char)988880665, orWr4vZ3U8, 10872600, yf1s, w8OGZEH);
+v21__64th = Q2E_22DXvJ((unsigned char)988880665, orWr4vZ3U8, (unsigned char)10872600, yf1s, w8OGZEH);
 break;
 case 'd':
 d4OG = (int)floor(ZfqXtM2e9R);
@@ -408,7 +408,7 @@ case 'f':
 P4x7RM2 = U0KR_zZ(1952937638, 1123123158, d4OG, hnV0eG, 45121801);
 break;
 case 'g':
-e88yDI = U0KR_zZ(319928169, r1H_Byb1, (unsigned short)405306729, -1256214732, 791919943);
+e88yDI = U0KR_zZ(319928169, r1H_Byb1, (unsigned short)405306729, (char)-1256214732, 791919943);
 break;
 default:
 ID4e_ = (int)floor(kq0W5LL);
@@ -492,7 +492,7 @@ Qz63Kl_ = U0KR_zZ(-1274066658, (char)-762320730, (unsigned short)68827695, (char
 }
 while (i >= 0);
 }
-std::cout << -1183564703 / Q2E_22DXvJ(Qz63Kl_, wff1F, -54593597, k4kWXj_x, w8OGZEH) << std::endl;
+std::cout << -1183564703 / Q2E_22DXvJ(Qz63Kl_, wff1F, (unsigned char)-54593597, k4kWXj_x, w8OGZEH) << std::endl;
 
 AoDyAjY4 = (int)ceil(P2U3irdk69);
 

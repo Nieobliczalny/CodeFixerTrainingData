@@ -61,7 +61,7 @@ n4B7B3XIbF = IQU5c3d9C(-2044859774, 497662795, (unsigned short)1271619658, (unsi
 }
 else
 {
-l0uaW5Rs = IQU5c3d9C(JSUs, r_4l1IW4T, ATbUTDV4k, lQ2998D84, 451846798);
+l0uaW5Rs = IQU5c3d9C(JSUs, r_4l1IW4T, ATbUTDV4k, lQ2998D84, (unsigned short)451846798);
 }
 }
 else if (r_4l1IW4T < -1773479116)

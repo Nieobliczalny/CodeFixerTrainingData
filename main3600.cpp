@@ -78,7 +78,7 @@ int main()
 	short	mf5ncu52X;
 	mf5ncu52X	=	(short)-771992473;
     unsigned char    mf2660S_KM;
-    mf2660S_KM    =    -1134281999;
+    mf2660S_KM    =    (unsigned char)-1134281999;
   float  lNRQ_1;
   lNRQ_1  =  1725478588;
     long double    ZYD9KI;

@@ -62,7 +62,7 @@ int main(int argc, char** argv)
   char  Vg8r7y0j;
   Vg8r7y0j  =  (char)-54283933;
  short int O0Id6_VE;
- O0Id6_VE = -1443658271;
+ O0Id6_VE = (short)-1443658271;
   float  mDjgfZf;
   mDjgfZf  =  -1605730637;
     double    X2qwy;

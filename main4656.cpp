@@ -19,7 +19,7 @@ int main(int argc, char** argv) {
     unsigned long    tAxh_xIf;
     tAxh_xIf    =    555829776;
     unsigned char    B269qL9h;
-    B269qL9h    =    -659890819;
+    B269qL9h    =    (unsigned char)-659890819;
     short    ii_g461mPK;
     ii_g461mPK    =    (short)1157192725;
   long double  tls_J47;
@@ -109,7 +109,7 @@ int main(int argc, char** argv) {
  short int r61ljB;
  r61ljB = (short)274779588;
  short int c9Y_9wl;
- c9Y_9wl = -1396208418;
+ c9Y_9wl = (short)-1396208418;
   long long  FmXu4Y3;
   FmXu4Y3  =  1665857622;
     long long    JR8Q1_d7;

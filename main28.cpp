@@ -154,7 +154,7 @@ case 'f':
 S90jAEys = ryY7(1293937051, (unsigned short)-1441396514, NSCKB7, (short)2057181592);
 break;
 case 'g':
-Ahy624SE0 = ryY7(2124066152, (unsigned short)-1143359346, BDOLbkAT6S, 1169113384);
+Ahy624SE0 = ryY7(2124066152, (unsigned short)-1143359346, BDOLbkAT6S, (short)1169113384);
 break;
 default:
 U55aOdd = (int)ceil(Zn0u3);

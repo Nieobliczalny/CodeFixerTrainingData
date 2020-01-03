@@ -98,7 +98,7 @@ int main() {
   unsigned char  IJzKe;
   IJzKe  =  (unsigned char)-1901165676;
  unsigned short int ao81Nq;
- ao81Nq = -2003053047;
+ ao81Nq = (unsigned short)-2003053047;
 	char	saxwxd0hM0;
 	saxwxd0hM0	=	-1099382831;
     long    WeWeB5BdiU;

@@ -31,7 +31,7 @@ int main(void) {
 	int	P7x7TX54K	=	1979235707;
     float    zx2W8U    =    2131668749;
     unsigned int    d2zu5q_TZ    =    513148203;
- short int i_8M = 163704316;
+ short int i_8M = (short)163704316;
 	char	b6zT8q0w	=	(char)-42429054;
  short ippQ = 0;
  unsigned char XXX1E2g = 1323724324;

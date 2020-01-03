@@ -46,7 +46,7 @@ int main(void) {
     unsigned long    b84ySv12V;
     b84ySv12V    =    2131564060;
     char    mgWDp;
-    mgWDp    =    126903650;
+    mgWDp    =    (char)126903650;
  double kytE486o0;
  kytE486o0 = -713661916;
  unsigned short LsR64;
@@ -82,7 +82,7 @@ int main(void) {
 	unsigned short int	oX1_;
 	oX1_	=	(unsigned short)-1987497415;
 	short	CmSUPg8;
-	CmSUPg8	=	-96875618;
+	CmSUPg8	=	(short)-96875618;
  double OKO4l3r;
  OKO4l3r = 1546652398;
   unsigned char  U7TTgdXR_;
@@ -94,7 +94,7 @@ int main(void) {
  short int i3rgp;
  i3rgp = (short)999493797;
     short    T_1F952;
-    T_1F952    =    -1979280340;
+    T_1F952    =    (short)-1979280340;
 	unsigned long long	h8kP8S18T;
 	h8kP8S18T	=	-686468326;
 	unsigned long long	OIVq;
@@ -380,7 +380,7 @@ case 6:
 kBJPt_8Xgq = Jd7V62(-766068798, 1022997548, (unsigned char)-1849860769, (unsigned char)-828606310);
 break;
 case 7:
-kBJPt_8Xgq = Jd7V62(-2097106775, 542366963, (unsigned char)187099296, -895379228);
+kBJPt_8Xgq = Jd7V62(-2097106775, 542366963, (unsigned char)187099296, (unsigned char)-895379228);
 break;
 case 8:
 knDRk = (int)ceil(j6CT);
@@ -433,7 +433,7 @@ OIVq = (unsigned long long)(CmSUPg8);
 
 if ((Wor6nZai1) && (Bqtw & -407577902))
 {
-cout << t9iesec << Jd7V62(526500273, R_vr80V23, (unsigned char)1011247863, (unsigned char)1914003715) << "Z5NI2Yi" << Jd7V62(b84ySv12V, 754230943, (unsigned char)613468357, -947998306) << endl;
+cout << t9iesec << Jd7V62(526500273, R_vr80V23, (unsigned char)1011247863, (unsigned char)1914003715) << "Z5NI2Yi" << Jd7V62(b84ySv12V, 754230943, (unsigned char)613468357, (unsigned char)-947998306) << endl;
 }
 else
 {

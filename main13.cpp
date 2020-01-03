@@ -78,7 +78,7 @@ int main(void) {
 	unsigned long long	uz_R_377;
 	uz_R_377	=	-1388787159;
 	short	Ge_Uj;
-	Ge_Uj	=	813643830;
+	Ge_Uj	=	(short)813643830;
 	unsigned int	NVR0i;
 	NVR0i	=	774465599;
   int  Xoc4L_0s8t;
@@ -120,7 +120,7 @@ int main(void) {
  short int sy3Iu5Bd;
  sy3Iu5Bd = (short)1208765664;
 
-std::cout << f68GggIz(1921542445, (short)-462436314, Xoc4L_0s8t, -1916281306, 135269936) << f68GggIz(F4ZrcZ0, V9qZT4Dm9, Xoc4L_0s8t, qqi4n, Zo7ci7EMk) << h_nE1Ph << f68GggIz(1513779581, 1436575400, Xoc4L_0s8t, 1565920804, 40527957) << std::endl;
+std::cout << f68GggIz(1921542445, (short)-462436314, Xoc4L_0s8t, -1916281306, 135269936) << f68GggIz(F4ZrcZ0, V9qZT4Dm9, Xoc4L_0s8t, qqi4n, Zo7ci7EMk) << h_nE1Ph << f68GggIz(1513779581, (short)1436575400, Xoc4L_0s8t, 1565920804, 40527957) << std::endl;
 
 ZT88hep = vtlq7 / f68GggIz(F4ZrcZ0, (short)-15213345, Xoc4L_0s8t, -317017436, -493770585);
 

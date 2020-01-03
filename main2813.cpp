@@ -39,7 +39,7 @@ int main(int argc, char** argv)
     unsigned short    fLiGuYL;
     fLiGuYL    =    (unsigned short)-155614910;
  char Ud19;
- Ud19 = 832850254;
+ Ud19 = (char)832850254;
  unsigned char pAXe_Spu3X;
  pAXe_Spu3X = (unsigned char)-897728905;
  unsigned char YFj_fz;

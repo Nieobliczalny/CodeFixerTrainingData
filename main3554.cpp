@@ -104,7 +104,7 @@ int main(int argc, char** argv) {
  long i66_839k5;
  i66_839k5 = 909364409;
 	unsigned char	k6_UUD;
-	k6_UUD	=	1064238337;
+	k6_UUD	=	(unsigned char)1064238337;
 	float	Ss9y0FSV;
 	Ss9y0FSV	=	1631534915;
     int    Nro2VXS69g;
@@ -160,7 +160,7 @@ int main(int argc, char** argv) {
   short  H6dcuAS6C;
   H6dcuAS6C  =  (short)39081315;
  unsigned short int GhJdh7QT;
- GhJdh7QT = 380084660;
+ GhJdh7QT = (unsigned short)380084660;
  long pPnnHun6v;
  pPnnHun6v = -1000633444;
  unsigned short int B2cYR6uj;
@@ -170,7 +170,7 @@ int main(int argc, char** argv) {
  unsigned short int pTF_m4mO4_;
  pTF_m4mO4_ = (unsigned short)-631061822;
   short  k2F5;
-  k2F5  =  -517483389;
+  k2F5  =  (short)-517483389;
 	double	T6_X2uzhe;
 	T6_X2uzhe	=	-771154338;
  long fJVv;

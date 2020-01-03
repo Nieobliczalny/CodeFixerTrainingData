@@ -65,7 +65,7 @@ int main(void)
   short  R2hsY5oNS;
   R2hsY5oNS  =  (short)-632576786;
   char  vG62b1R;
-  vG62b1R  =  2080707744;
+  vG62b1R  =  (char)2080707744;
 	unsigned long	UC1Y5sT59J;
 	UC1Y5sT59J	=	-318763678;
   unsigned short int  LYrHGBBTed;

@@ -35,7 +35,7 @@ int main() {
 	unsigned short int	U9r8o;
 	U9r8o	=	(unsigned short)1315686006;
 	unsigned char	mQn2_EQy2;
-	mQn2_EQy2	=	185834703;
+	mQn2_EQy2	=	(unsigned char)185834703;
  unsigned short bdCT;
  bdCT = 2134873704;
 	double	i5I_;
@@ -53,7 +53,7 @@ int main() {
     unsigned short    pQk_T_3A3;
     pQk_T_3A3    =    (unsigned short)1800998989;
 	char	xD_Vc;
-	xD_Vc	=	1515928547;
+	xD_Vc	=	(char)1515928547;
   unsigned short  O4W8Y5;
   O4W8Y5  =  -1958478745;
  double t53W9;
@@ -121,7 +121,7 @@ int main() {
 	unsigned char	p8r9;
 	p8r9	=	(unsigned char)520897172;
   unsigned short int  X6_Q514;
-  X6_Q514  =  -651530367;
+  X6_Q514  =  (unsigned short)-651530367;
   unsigned long  fTE69ctq3;
   fTE69ctq3  =  410721231;
     unsigned short int    Re236uN;

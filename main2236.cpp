@@ -41,7 +41,7 @@ int main(int argc, char** argv) {
     unsigned short int    N52N    =    (unsigned short)-56916517;
   int  kbP6GmqfWX  =  -1292744462;
 	long	zl4pE0Q1R	=	945910774;
- unsigned short int o30VsWKvM = -262616694;
+ unsigned short int o30VsWKvM = (unsigned short)-262616694;
   long long  V7mRZ  =  -1872100615;
     unsigned short    W24t0Pil9    =    (unsigned short)1391593611;
 	float	D72TF7BE4	=	-616649111;
@@ -51,7 +51,7 @@ int main(int argc, char** argv) {
   unsigned long long  llja  =  594421009;
  unsigned short int I3A_hO = (unsigned short)-1034075648;
  unsigned char Rrn0_96aX2 = -1928621397;
-  short int  X4uN0mY9  =  -1666503686;
+  short int  X4uN0mY9  =  (short)-1666503686;
  unsigned char T8xNvww = -1771893022;
   unsigned int  XTR5z2F  =  1986990128;
   unsigned int  UuVnccH  =  34074975;
@@ -64,7 +64,7 @@ int main(int argc, char** argv) {
 	short int	sjV6E_2s	=	(short)1639902325;
  int UqpCEW = 474655183;
 	unsigned char	vQ4a188RB	=	(unsigned char)-1982573729;
-  short  Ot32M804af  =  414949874;
+  short  Ot32M804af  =  (short)414949874;
  int ZCv8Y6K = -1054062704;
   short int  u3_OYJ28_  =  (short)-2093166782;
  long double gCdz = 2079853897;
@@ -481,7 +481,7 @@ case 'c':
 Vh6Tq0 = gyh5g3((short)-1585141820, 73546549, (short)1647998282, CRpr, bUgM);
 break;
 case 'd':
-s82x8rTf = gyh5g3(kdaZ, s82x8rTf, (short)-1351940271, -467070036, 1117502329);
+s82x8rTf = gyh5g3(kdaZ, s82x8rTf, (short)-1351940271, (unsigned char)-467070036, 1117502329);
 break;
 case 'e':
 N52N /= UuVnccH;

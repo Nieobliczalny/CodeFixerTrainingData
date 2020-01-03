@@ -39,7 +39,7 @@ int main(int argc, char** argv) {
   short int  kPmNS;
   kPmNS  =  (short)-874496468;
 	short	qGZgq_39;
-	qGZgq_39	=	-1799242452;
+	qGZgq_39	=	(short)-1799242452;
     long double    vi4qB0J;
     vi4qB0J    =    -48561929;
     unsigned char    j_mW;
@@ -157,7 +157,7 @@ int main(int argc, char** argv) {
     unsigned short    lnUqvL9;
     lnUqvL9    =    (unsigned short)-2120328581;
  unsigned short int Jmpyva33yA;
- Jmpyva33yA = -165732347;
+ Jmpyva33yA = (unsigned short)-165732347;
  unsigned short int tvFgPsNcy;
  tvFgPsNcy = (unsigned short)-1603804610;
 	unsigned long long	N9jvC;
@@ -654,7 +654,7 @@ case 1:
 ZpqW9T34_ = CD2_v3(1601579953, 2022136090, (unsigned short)-1148818460, -139326575, (unsigned char)-1287841460);
 break;
 case 2:
-v36jD = dr0N(-1141529292, -1411427504, sssp5423, 1625457117);
+v36jD = dr0N((char)-1141529292, -1411427504, sssp5423, 1625457117);
 break;
 case 3:
 Be44 = CD2_v3(Be44, 572786631, -835768372, -1120003433, CIg8);

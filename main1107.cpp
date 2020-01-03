@@ -32,7 +32,7 @@ int main(int argc, char** argv)
 	unsigned char	w99M64Sw9_	=	(unsigned char)-411194667;
     char    a90tV    =    (char)-1703843387;
   long long  G81XK  =  1574129178;
-    unsigned short    fnGI4_    =    -1918914332;
+    unsigned short    fnGI4_    =    (unsigned short)-1918914332;
 	unsigned short int	Zp63_TFi	=	(unsigned short)-501824677;
 	char	T9_04N1	=	-1439647697;
     unsigned int    O5my9lm6    =    0;
@@ -46,7 +46,7 @@ int main(int argc, char** argv)
  char wIWx = (char)-493019569;
  float gI8va1K = 1731297336;
 	unsigned long long	lcc52eFfA	=	1428887034;
-    unsigned short int    A5h1105    =    860461181;
+    unsigned short int    A5h1105    =    (unsigned short)860461181;
 	unsigned short	M7Ey	=	1221451927;
  double vXs86 = -70026327;
 	unsigned char	woY2pM9Egh	=	(unsigned char)1119123659;
@@ -57,7 +57,7 @@ if ((k34Z & wIWx) && (wIWx))
 {
 if (a90tV & -9849177)
 {
-m9viZXC = AF__i_h1o((unsigned char)265188716, woY2pM9Egh, -1315791714);
+m9viZXC = AF__i_h1o((unsigned char)265188716, woY2pM9Egh, (short)-1315791714);
 }
 else if (((M7Ey) || (T9_04N1)) && (woY2pM9Egh >= p63tS))
 {

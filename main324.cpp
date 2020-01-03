@@ -25,7 +25,7 @@ int main()
  short CiLA4UX1M = (short)-1622893407;
     char    AURhP8    =    (char)1100676441;
 	unsigned char	yoneq83572	=	(unsigned char)-1485752381;
-	short	rb6W_L	=	-422889309;
+	short	rb6W_L	=	(short)-422889309;
 	unsigned short int	m3IWKty	=	-1026950549;
   unsigned char  RGe92T  =  -1246316607;
     unsigned int    JhDCmLzw4    =    -1725149156;
@@ -47,7 +47,7 @@ int main()
     int    qtKYKye    =    -573012445;
  double Dj9IeY_ZdM = 600120942;
     short int    Af79HSl64    =    (short)-1444383487;
- unsigned short int Jt965lOAK_ = 551585418;
+ unsigned short int Jt965lOAK_ = (unsigned short)551585418;
  long long uVoG = -747216806;
 	unsigned long long	q0E4	=	0;
 	unsigned long	d2jyy	=	-718667293;
@@ -65,7 +65,7 @@ int main()
     long    zAjO1K_s    =    -2026573547;
  unsigned char t5_aps = (unsigned char)970663918;
  char wXA0nS = (char)1597592314;
- unsigned char LqCiY7g0 = -208974979;
+ unsigned char LqCiY7g0 = (unsigned char)-208974979;
   float  r_nja  =  1207318799;
     unsigned short int    CR6L59e    =    -1962118178;
 	unsigned char	y4EoJhh	=	-1680963688;
@@ -77,7 +77,7 @@ int main()
  unsigned short ZQO7 = (unsigned short)-470920863;
   unsigned int  P4_vV143Y0  =  754018459;
     short    XHV895    =    (short)-876616950;
-	unsigned char	Cw22	=	-1939448157;
+	unsigned char	Cw22	=	(unsigned char)-1939448157;
   long  Mvfoj  =  1422367944;
     unsigned long long    kTL_g0    =    1895941990;
 	unsigned short	JF2_8098_1	=	-1823371469;
@@ -94,7 +94,7 @@ int main()
 	unsigned long	zE_NGDGp5_	=	827148416;
   long double  NJ6yx7Awk7  =  1478598182;
  char e7q1 = (char)1305449168;
-	unsigned char	ocLdfrM	=	1788757225;
+	unsigned char	ocLdfrM	=	(unsigned char)1788757225;
 	unsigned char	IToNGO	=	1629621262;
  int p_dmay6nzA = -1698089723;
     unsigned short    X7in2jnvNE    =    (unsigned short)-1314257455;
@@ -113,7 +113,7 @@ int main()
   short int  Bil3v0vF  =  0;
 	unsigned int	lvtWGh43t	=	-313988245;
     unsigned int    WAq4    =    1411489875;
-	short	zE5b8	=	849862856;
+	short	zE5b8	=	(short)849862856;
     unsigned int    u5u__t1_2u    =    -1250664094;
 	short int	rx2ZBea	=	1341496588;
     long long    mi1c3_2u    =    -757545303;

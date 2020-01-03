@@ -34,7 +34,7 @@ int main(void)
 	char	RJi_93k	=	(char)866106328;
     long    VChlzqOO    =    0;
 	unsigned int	OJj8Ai	=	614320911;
- char x_l1 = -133497096;
+ char x_l1 = (char)-133497096;
     long    IneH    =    1067295496;
     long double    P0XA56naz_    =    -579425568;
   unsigned long  Fp7g  =  -1906038949;

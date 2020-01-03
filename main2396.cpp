@@ -118,7 +118,7 @@ int main()
 	char	PMStJU47;
 	PMStJU47	=	(char)824890933;
   unsigned char  u1yf;
-  u1yf  =  2058853026;
+  u1yf  =  (unsigned char)2058853026;
  unsigned long long Ot93;
  Ot93 = -1655395425;
   unsigned int  wVM7_;

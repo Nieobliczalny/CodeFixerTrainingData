@@ -18,7 +18,7 @@ int main(int argc, char** argv) {
   X5Im_lSo  =  (short)6198316;
   o2GX  =  (short)-1308270629;
   Ut42  =  (short)-2124101792;
-  q7ZM  =  -2077362411;
+  q7ZM  =  (short)-2077362411;
   tdhp__P6R6  =  -1871425156;
   YhEmL71  =  -39951495;
   vBaER8iBcr  =  -462239337;
@@ -28,7 +28,7 @@ int main(int argc, char** argv) {
   dvHTI  =  (short)-377578701;
   yEBbdg64  =  (short)960165066;
   uo98bXp7yp  =  (short)-1035965516;
-  JSNvR  =  1370177546;
+  JSNvR  =  (short)1370177546;
   d5aIC1c  =  -1193044266;
   lM5bmx  =  -358034282;
   i80LCe7  =  -1933739544;

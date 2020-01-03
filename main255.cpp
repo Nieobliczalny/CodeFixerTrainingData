@@ -50,7 +50,7 @@ int main(int argc, char** argv)
     short    uADTW16N;
     uADTW16N    =    (short)-784463159;
 	short	T36M;
-	T36M	=	-1902974859;
+	T36M	=	(short)-1902974859;
   long double  Q04u0ZWsom;
   Q04u0ZWsom  =  1888255863;
     double    WEjolX;
@@ -64,7 +64,7 @@ int main(int argc, char** argv)
     short    k92k6PCZz;
     k92k6PCZz    =    (short)-1890640950;
   unsigned short int  P_15;
-  P_15  =  -1665431896;
+  P_15  =  (unsigned short)-1665431896;
  unsigned char grJYKh6_7Y;
  grJYKh6_7Y = (unsigned char)-2021263481;
  char L51ygJ;
@@ -188,7 +188,7 @@ case 'd':
 C2lkA8_6q = (int)ceil(Q04u0ZWsom);
 break;
 default:
-c4V2wtF = BWocF(-1998595611, j605, -554445252);
+c4V2wtF = BWocF((unsigned char)-1998595611, j605, -554445252);
 break;
 }
 }

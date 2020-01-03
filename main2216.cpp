@@ -40,7 +40,7 @@ int main() {
     unsigned int    O3djj    =    1717116491;
 	double	u_F2E	=	-555194032;
   unsigned short  a7k_K  =  (unsigned short)768495200;
-  unsigned short int  zYgrI6_  =  -1923706882;
+  unsigned short int  zYgrI6_  =  (unsigned short)-1923706882;
   unsigned short int  iqpD_  =  (unsigned short)1802827087;
     float    zpTKYB9kPh    =    964526678;
  long II_63rnMp_ = -1737549567;
@@ -62,7 +62,7 @@ int main() {
   unsigned short int  ZsGT8  =  (unsigned short)34000725;
   unsigned int  b5wWklCz  =  847369880;
     unsigned char    Lk85lMUqu    =    (unsigned char)1803157551;
-	unsigned short int	VH3214_	=	377105169;
+	unsigned short int	VH3214_	=	(unsigned short)377105169;
  short int S7_Ma = 1880549785;
  long long y5_O8 = 1839469527;
     double    UZ5j51F    =    -66078120;

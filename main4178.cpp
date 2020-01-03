@@ -289,7 +289,7 @@ case 1:
 JKHTbJDD9n = ZIXXiNvHl - 346942940;
 break;
 case 2:
-JKHTbJDD9n = Y6pYOwa46(JKHTbJDD9n, (unsigned char)-2038890814, -796375046, 1324054476, -396649368);
+JKHTbJDD9n = Y6pYOwa46(JKHTbJDD9n, (unsigned char)-2038890814, -796375046, 1324054476, (unsigned char)-396649368);
 break;
 case 3:
 dBPIqi = (int)floor(tTllo);
@@ -313,7 +313,7 @@ break;
 }
 else
 {
-std::cout << "ueXBZU" << "fTILp2dvu" << RZ_kYct90V((unsigned char)602349989, (unsigned short)100868649) << RZ_kYct90V(ubfF4i, -1930473263) << std::endl;
+std::cout << "ueXBZU" << "fTILp2dvu" << RZ_kYct90V((unsigned char)602349989, (unsigned short)100868649) << RZ_kYct90V(ubfF4i, (unsigned short)-1930473263) << std::endl;
 }
 }
 else if ((LNh1E1b_c & 1869148807) && (I7C3Gid != i7qU67Ocn))

@@ -38,7 +38,7 @@ int main(void) {
   short int  YE4Y  =  (short)298297041;
 	unsigned long	HnqtN7	=	1958013718;
   unsigned char  zQ7tcEt  =  (unsigned char)-863237425;
- short Llf1 = -1023536446;
+ short Llf1 = (short)-1023536446;
  float NX8d1BI8G = -447104832;
     unsigned short int    G9YlQkC    =    544603064;
   unsigned long  n9rA  =  -1317748017;

@@ -66,7 +66,7 @@ int main(void)
   short int  QVM4gM__t;
   QVM4gM__t  =  (short)-1202717477;
  short int j7BPm_4Bx;
- j7BPm_4Bx = 54911734;
+ j7BPm_4Bx = (short)54911734;
  unsigned short int IYe6aErR;
  IYe6aErR = (unsigned short)-1221512869;
     int    s4T1aTJ;

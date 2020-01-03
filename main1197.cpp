@@ -344,7 +344,7 @@ case 'g':
 Fyn7I_5 = tBKeQ(A3p4DqPBYe, (char)782435600) % kZ7jzsCs5N;
 break;
 case 'h':
-J7Me59 = tBKeQ((unsigned short)1865565129, -391794406);
+J7Me59 = tBKeQ((unsigned short)1865565129, (char)-391794406);
 break;
 }
 
@@ -683,7 +683,7 @@ case 3:
 Fyn7I_5 = tBKeQ((unsigned short)1371066164, (char)-935806393);
 break;
 case 4:
-RyAuI23S = lQJCkI_(-1945412637, RyAuI23S, 70091132);
+RyAuI23S = lQJCkI_((unsigned char)-1945412637, RyAuI23S, 70091132);
 break;
 case 5:
 qBuXUW9bjk++;
@@ -931,7 +931,7 @@ case 3:
 RyAuI23S = lQJCkI_((unsigned char)-1937969717, kZ7jzsCs5N, Fyn7I_5);
 break;
 case 4:
-FUGX = tBKeQ(RyAuI23S, 1416816978);
+FUGX = tBKeQ(RyAuI23S, (char)1416816978);
 break;
 }
 }

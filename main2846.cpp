@@ -51,7 +51,7 @@ int main() {
 switch (v53k0ZP)
 {
 case 0:
-MtPt11UV7o = mdKD7i5(MtPt11UV7o, moCOTO5S2S, (short)1665456265, -1618315933, 1555908236);
+MtPt11UV7o = mdKD7i5(MtPt11UV7o, moCOTO5S2S, (short)1665456265, (short)-1618315933, 1555908236);
 break;
 case 1:
 Asw83OsFdy = (int)abs(MtPt11UV7o) * 0;

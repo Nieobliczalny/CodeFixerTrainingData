@@ -56,7 +56,7 @@ int main(void)
 	unsigned char	rF7_bHO1P;
 	rF7_bHO1P	=	(unsigned char)443939428;
 	unsigned short int	n_m07c;
-	n_m07c	=	497900149;
+	n_m07c	=	(unsigned short)497900149;
   float  E5718PH3;
   E5718PH3  =  1409569057;
     char    pY_8HRmRE;
@@ -261,7 +261,7 @@ b84w = QN8c8yI(jBwvr1C25, (char)616121847, (short)-1072279034, YZ5p);
 }
 }
 
-y_2hTC9K = A6XN1Us(y_2hTC9K, h3447Gp, (short)1681890269, -412607600);
+y_2hTC9K = A6XN1Us(y_2hTC9K, h3447Gp, (short)1681890269, (short)-412607600);
 cout << pk00c7So(y_2hTC9K, 24472704, B260DBYw8) / EgRN8J_0 << endl;
 
 if (E5718PH3)

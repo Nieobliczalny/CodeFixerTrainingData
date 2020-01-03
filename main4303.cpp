@@ -106,7 +106,7 @@ Q9RuGx_t = e5OzNQHbm7(k1OZR, Q9RuGx_t, JJ_czJ, U4Hp5, (unsigned short)-458900353
 switch (E66_c)
 {
 case 'a':
-l3TX5G06m = e5OzNQHbm7((unsigned char)1142043166, M1i_r9, hd_J, (char)213686748, 199939390);
+l3TX5G06m = e5OzNQHbm7((unsigned char)1142043166, M1i_r9, hd_J, (char)213686748, (unsigned short)199939390);
 break;
 case 'b':
 M1i_r9 = o_rb & f030f6b;

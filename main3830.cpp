@@ -148,7 +148,7 @@ f7XG = (ohZ6joRAe & TdhVzJVs4) ? j_xsCF : y5dR7Kkf;
 
 if (L7ZiZp > 1518768654)
 {
-std::cout << T013ght << o0v9HGo << q6WV2((unsigned short)-1509481612, vfnwd, (unsigned short)77754394, 620230716, ohZ6joRAe) << h4HWgv((short)1913213439, 180870294, -835999870) << std::endl;
+std::cout << T013ght << o0v9HGo << q6WV2((unsigned short)-1509481612, vfnwd, (unsigned short)77754394, 620230716, ohZ6joRAe) << h4HWgv((short)1913213439, (char)180870294, -835999870) << std::endl;
 }
 else if (TdhVzJVs4 > -364500946)
 {
@@ -394,7 +394,7 @@ else if (vfnwd <= -535685378)
 {
 try
 {
-ohZ6joRAe = q6WV2((unsigned short)-947286560, uWn8N0h_, 1877307030, 869621122, u_Hd);
+ohZ6joRAe = q6WV2((unsigned short)-947286560, uWn8N0h_, (unsigned short)1877307030, 869621122, u_Hd);
 }
 catch (int& errorCode)
 {
@@ -723,7 +723,7 @@ case 6:
 y5dR7Kkf = kE95((short)-1276718424, T013ght, L7v3j0R7O);
 break;
 case 7:
-f7XG = kE95(1125339767, 1564673001, 708104983);
+f7XG = kE95((short)1125339767, 1564673001, 708104983);
 break;
 case 8:
 j_xsCF = XPj3(MZWlHx9, j_xsCF, 762380633, G_9U58C1o, 885806476);

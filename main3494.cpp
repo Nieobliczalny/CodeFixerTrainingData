@@ -17,7 +17,7 @@ int main(void) {
     b3w6232    =    (short)1187663645;
     PMHtpLnQ    =    (short)1947761362;
     KmMtMKA3J    =    (short)1502839636;
-    hT__Vy    =    -1434472045;
+    hT__Vy    =    (short)-1434472045;
     JJV9x5    =    1730919316;
     jK8l    =    1551214132;
     z4R_    =    297142946;

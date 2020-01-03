@@ -123,7 +123,7 @@ int main(int argc, char** argv)
     char    Mp82;
     Mp82    =    (char)2003017390;
   unsigned short int  FOtS7;
-  FOtS7  =  583917208;
+  FOtS7  =  (unsigned short)583917208;
  unsigned short int h5nfpgK32G;
  h5nfpgK32G = (unsigned short)99387768;
 
@@ -317,7 +317,7 @@ cout << nADByD() << k4g24((char)1993251092) << IK8Lg2Ui6E << l3jJ5z << b9l1y(Yoy
 }
 else if ((sCeRaFPaEn == 1851105262) || (U294FcY <= DfH_TJ03WL))
 {
-cout << r12Sdo2 << WV5g74 << k4g24((char)-268509367) << b9l1y(-1457104218, Bqb_5, oL9lIBo, -2087584442, yUg2HU4) << endl;
+cout << r12Sdo2 << WV5g74 << k4g24((char)-268509367) << b9l1y((char)-1457104218, Bqb_5, oL9lIBo, -2087584442, yUg2HU4) << endl;
 }
 else
 {

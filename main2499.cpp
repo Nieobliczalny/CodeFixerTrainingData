@@ -86,7 +86,7 @@ int main(int argc, char** argv)
   short  vIlmltyRZ;
   vIlmltyRZ  =  (short)-536798533;
  char w6t4YTUi;
- w6t4YTUi = -487571378;
+ w6t4YTUi = (char)-487571378;
     long double    w1mV;
     w1mV    =    1424978179;
 	short int	Nymq;

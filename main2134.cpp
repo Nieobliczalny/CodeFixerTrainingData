@@ -18,7 +18,7 @@ int main() {
 	unsigned short int	PY5TM7Ft	=	0;
  unsigned long AzM8_I = -1591609021;
     short int    xSD9    =    (short)-768063463;
-  unsigned short  L_23uG  =  1618907671;
+  unsigned short  L_23uG  =  (unsigned short)1618907671;
   unsigned int  ES4058  =  35183000;
     int    fg0X0jS89    =    2006069534;
   short  Am_3a5Rvo  =  17674117;

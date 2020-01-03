@@ -86,7 +86,7 @@ if (W5bITTtAn >= rTFb8U2E1)
 {
 if (oahx1c <= -1235815174)
 {
-std::cout << ETwy7j(2087694676, B4Ny9s, U0ha0AX_) << bsytVeUf << c5qV(W5bITTtAn, B4Ny9s, -259665117, oahx1c) << c5qV(-1214937659, -2002937211, U0ha0AX_, -1291612178) << "f_1daKW" << std::endl;
+std::cout << ETwy7j(2087694676, B4Ny9s, U0ha0AX_) << bsytVeUf << c5qV(W5bITTtAn, B4Ny9s, (unsigned short)-259665117, oahx1c) << c5qV(-1214937659, -2002937211, U0ha0AX_, -1291612178) << "f_1daKW" << std::endl;
 }
 }
 
@@ -128,7 +128,7 @@ for (int j = 0; j < 10; j++)
 we1Kw = ETwy7j(2147361196, (char)-12915643, (unsigned short)1760001587);
 }
 }
-I_91m1_QS_ = l_nvG(-988299002, (unsigned short)-1254429510, k_p1, we1Kw, -1566502003);
+I_91m1_QS_ = l_nvG(-988299002, (unsigned short)-1254429510, k_p1, we1Kw, (short)-1566502003);
 
 {
 int i = 0;

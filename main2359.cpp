@@ -306,7 +306,7 @@ for (int i = 8; i >= 0; --i)
 int j = 0;
 do
 {
-XJJ1 = VmGXN(OH5a8wR8U, 2140369090, 1352821454, Ujzj0D7hO4);
+XJJ1 = VmGXN(OH5a8wR8U, (unsigned short)2140369090, 1352821454, Ujzj0D7hO4);
 ++j;
 }
 while (j < 3);

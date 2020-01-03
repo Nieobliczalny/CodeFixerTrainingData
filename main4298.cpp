@@ -111,7 +111,7 @@ case 4:
 t0kK2fp = P3W1qCYv(220513874, (short)774188804, (unsigned char)-358932162, J4756);
 break;
 default:
-E12eJ8 = S3p2o6(1392002635, 10345537, RmX6) >> 280152784;
+E12eJ8 = S3p2o6((char)1392002635, 10345537, RmX6) >> 280152784;
 break;
 }
 
@@ -381,7 +381,7 @@ J4xX = (int)ceil(KkfQ9Vt);
 }
 else if (Lla6K6 <= 468925395)
 {
-std::cout << P3W1qCYv(Jwm4aGUu, (short)203192027, (unsigned char)658449575, (short)330452837) << P3W1qCYv(Jwm4aGUu, -629147771, KkfQ9Vt, t0kK2fp) << J4xX << gx_B(Jwm4aGUu, 760103170) << RmX6 << std::endl;
+std::cout << P3W1qCYv(Jwm4aGUu, (short)203192027, (unsigned char)658449575, (short)330452837) << P3W1qCYv(Jwm4aGUu, (short)-629147771, KkfQ9Vt, t0kK2fp) << J4xX << gx_B(Jwm4aGUu, 760103170) << RmX6 << std::endl;
 }
 else if (J2PvqnLl5 == YbQu)
 {

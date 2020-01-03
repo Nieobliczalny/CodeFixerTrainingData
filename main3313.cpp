@@ -23,7 +23,7 @@ int main()
     short int    HD6_D;
     HD6_D    =    (short)-2045000361;
  short int tLA3G;
- tLA3G = -155683054;
+ tLA3G = (short)-155683054;
  double df_yq8g;
  df_yq8g = 2090154575;
     float    HDhoq;

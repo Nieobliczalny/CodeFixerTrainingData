@@ -52,7 +52,7 @@ else if (IJ50dGR >= 416324246)
 switch (Upp6K92N6)
 {
 case 0:
-vDJJ_ZJiyi = a2NCCo9QJ1((unsigned char)1514586517, (short)-1535378864, i2Mua, (unsigned short)1800149255, -1946769897);
+vDJJ_ZJiyi = a2NCCo9QJ1((unsigned char)1514586517, (short)-1535378864, i2Mua, (unsigned short)1800149255, (short)-1946769897);
 break;
 default:
 Upp6K92N6 = O1sr_3E9(Upp6K92N6, 573881251, Yb8211V3a, 1497151083);
@@ -362,7 +362,7 @@ else
 a163vc1k = (int)ceil(g6RCk13t);
 }
 
-Lwtd7vPd = 1074582255 / O1sr_3E9(i2Mua, -1898260616, -292848698, 444315005);
+Lwtd7vPd = 1074582255 / O1sr_3E9(i2Mua, (unsigned char)-1898260616, -292848698, 444315005);
 d5lP86gLb2 = (int)ceil(o8_Li1);
 
 {
@@ -379,7 +379,7 @@ else
 int k = 0;
 while (k < 9)
 {
-IJ50dGR = O1sr_3E9((unsigned short)-972572476, -42032507, iUq5d, i2Mua);
+IJ50dGR = O1sr_3E9((unsigned short)-972572476, (unsigned char)-42032507, iUq5d, i2Mua);
 k++;
 }
 }

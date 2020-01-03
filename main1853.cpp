@@ -24,7 +24,7 @@ int main(void)
   unsigned char  Ofq3L4  =  (unsigned char)1943844886;
 	unsigned short int	EEz72n8	=	(unsigned short)1646933609;
   short int  MzRSn  =  (short)1409752785;
-	char	ac4V	=	-870601666;
+	char	ac4V	=	(char)-870601666;
   float  n62q_Ygl9  =  1937721216;
     float    kSZQ1t1_    =    -1855611991;
  long double cLjvk5jw = 1708590856;
@@ -51,7 +51,7 @@ int main(void)
     long long    loJ86wWd8    =    -1104157316;
   short int  d0HQ7c  =  0;
     unsigned short    Q_lVEDO    =    (unsigned short)1413746507;
- short u2rcgFoomB = 342241483;
+ short u2rcgFoomB = (short)342241483;
   short int  k56n  =  512859428;
  unsigned long wq5g2dUq = 1797529247;
  char pZK3O2L0 = 1957951929;
@@ -62,7 +62,7 @@ for (int i = 1; i >= 0; i--)
 std::cout << G7h7D << std::endl;
 }
 
-std::cout << gRRl22c << vPAY67n(ac4V, (unsigned short)-444637323, (unsigned short)185305044) << n62q_Ygl9 << "RPDW79P" << vPAY67n((short)31497719, -703419328, I3_up3) << std::endl;
+std::cout << gRRl22c << vPAY67n(ac4V, (unsigned short)-444637323, (unsigned short)185305044) << n62q_Ygl9 << "RPDW79P" << vPAY67n((short)31497719, (unsigned short)-703419328, I3_up3) << std::endl;
 
 {
 int i = 0;

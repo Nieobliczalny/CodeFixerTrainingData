@@ -42,7 +42,7 @@ int main() {
 	int	v8Zpzd3la	=	883612918;
 	unsigned long	M2aV	=	1296339156;
  long long MqpHuCa = -1257502998;
-	unsigned char	E8Hl	=	705099768;
+	unsigned char	E8Hl	=	(unsigned char)705099768;
   int  lTu3mCOo4J  =  0;
 	short int	k_FEt	=	(short)-1090002149;
 

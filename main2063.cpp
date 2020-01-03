@@ -128,7 +128,7 @@ int main(void) {
     short int    bxxdC8HkZ;
     bxxdC8HkZ    =    (short)-1672792773;
   short  p4d7;
-  p4d7  =  156146125;
+  p4d7  =  (short)156146125;
     unsigned long    mLh5yB4w3;
     mLh5yB4w3    =    -1960313952;
   long  Q9e_70LfRz;
@@ -250,7 +250,7 @@ while (i >= 0);
 E3ceM3N3cb = (int)floor(ngYSfNugeH);
 
 X24X6I = (unsigned short)(yW_xF);
-sccp82 = Zu1M5k9 / OtR27rYLAK((short)1929927600, -1785573807, -1930265409, I8jkX5, Q9e_70LfRz);
+sccp82 = Zu1M5k9 / OtR27rYLAK((short)1929927600, (short)-1785573807, -1930265409, I8jkX5, Q9e_70LfRz);
 IM_0 = (int)abs(vXd5L5wS) + (-186513124);
 try
 {

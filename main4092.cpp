@@ -110,7 +110,7 @@ int main() {
   short int  A1X_0O2;
   A1X_0O2  =  (short)615768658;
 	short	T8633o5bW;
-	T8633o5bW	=	-1816149190;
+	T8633o5bW	=	(short)-1816149190;
 	long long	YpL_cDYgl;
 	YpL_cDYgl	=	-940338376;
  long X2zaRT;
@@ -138,7 +138,7 @@ int main() {
 	short	o1X6c8YeN;
 	o1X6c8YeN	=	(short)294986119;
 	short	W9PEHCI2j;
-	W9PEHCI2j	=	1833011253;
+	W9PEHCI2j	=	(short)1833011253;
 	char	ZB34oul0T9;
 	ZB34oul0T9	=	-754621415;
   short  Q2e_yYV;

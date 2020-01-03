@@ -64,7 +64,7 @@ int main(void) {
 	char	Pjfu_AL;
 	Pjfu_AL	=	0;
  char J2q66R34;
- J2q66R34 = -349655173;
+ J2q66R34 = (char)-349655173;
     char    uIdtCPST0;
     uIdtCPST0    =    (char)485519923;
   short int  P364XQDi1_;
@@ -104,7 +104,7 @@ int main(void) {
   unsigned short  Oc0d6HzZdH;
   Oc0d6HzZdH  =  (unsigned short)-516537145;
     short int    YEMr5Z;
-    YEMr5Z    =    1933908416;
+    YEMr5Z    =    (short)1933908416;
   int  EKPP;
   EKPP  =  34533887;
   double  L7G6;
@@ -140,7 +140,7 @@ int main(void) {
     unsigned short    g526389;
     g526389    =    (unsigned short)1339814767;
  short t_6smol;
- t_6smol = 679785932;
+ t_6smol = (short)679785932;
  unsigned long long d8J5AE;
  d8J5AE = 422789229;
 	unsigned short	g4uZMQ;
@@ -417,7 +417,7 @@ case 4:
 qZxd318M45 = (int)floor(L7G6);
 break;
 default:
-I23Wcs65k = D73SGv3AOi(I23Wcs65k, (unsigned char)-1526668547, bn8e3g3d, (unsigned short)-10094083, -131172777);
+I23Wcs65k = D73SGv3AOi(I23Wcs65k, (unsigned char)-1526668547, bn8e3g3d, (unsigned short)-10094083, (short)-131172777);
 break;
 }
 }
@@ -525,7 +525,7 @@ case 'a':
 GHpF = (int)abs(n_Az0gq);
 break;
 case 'b':
-yZ88P = D73SGv3AOi(-2145592847, (unsigned char)463872771, (unsigned short)-747503837, (unsigned short)-1053184336, 655144264);
+yZ88P = D73SGv3AOi(-2145592847, (unsigned char)463872771, (unsigned short)-747503837, (unsigned short)-1053184336, (short)655144264);
 break;
 case 'c':
 mrXa5zm = YEMr5Z / 586989896;

@@ -178,7 +178,7 @@ case 1:
 JMU68_MWp = (int)abs(gLV_PcU_6H);
 break;
 case 2:
-Nwy4gUV = bx2_(-536627077, hnM5, l_auYQS, 1601637837, -1739029298);
+Nwy4gUV = bx2_((unsigned short)-536627077, hnM5, l_auYQS, 1601637837, -1739029298);
 break;
 case 3:
 Nwy4gUV = bx2_(1049612453, 211272659, aRGieNe, EwF7, eoAPWFlc4U);
@@ -230,7 +230,7 @@ Nwy4gUV = bx2_(hnM5, LeH_bB2_, (unsigned short)-891309622, 563064924, jp_T6J);
 }
 }
 
-std::cout << bx2_((unsigned short)-1282712192, LeH_bB2_, C56K2zGNx, -1494685105, 1084741752) << bx2_(hnM5, (unsigned char)-797689737, 469972454, iV71_, jp_T6J) << "z94yYc_" << std::endl;
+std::cout << bx2_((unsigned short)-1282712192, LeH_bB2_, C56K2zGNx, -1494685105, 1084741752) << bx2_(hnM5, (unsigned char)-797689737, (unsigned short)469972454, iV71_, jp_T6J) << "z94yYc_" << std::endl;
 
 if (bx2_(1399458750, 1284654287, 1546814768, iV71_, 1235647773) == 0)
 {
@@ -274,7 +274,7 @@ Nwy4gUV = bx2_((unsigned short)-498861558, sg__, (unsigned short)-1483691741, 35
 break;
 case 'd':
 case 'D':
-Nwy4gUV = bx2_((unsigned short)1621103474, V6l6r9bX4T, -861601783, -1977752778, Ep43T9Z0O);
+Nwy4gUV = bx2_((unsigned short)1621103474, V6l6r9bX4T, (unsigned short)-861601783, -1977752778, Ep43T9Z0O);
 break;
 default:
 Nwy4gUV = bx2_(422092598, BiDL53, -1546907310, aZQ7, jp_T6J);
@@ -308,7 +308,7 @@ aRGieNe = zJMJxr_ >> 863547413;
 }
 while (i < 7);
 }
-std::cout << "WtG2aw1zX" << eoAPWFlc4U << bx2_(MSUC5x, (unsigned char)-899867292, O7Yfq, Vx8Rs_, 500870482) << bx2_((unsigned short)-449959633, (unsigned char)-257790651, -751823913, -1072735280, -427303) << std::endl;
+std::cout << "WtG2aw1zX" << eoAPWFlc4U << bx2_(MSUC5x, (unsigned char)-899867292, O7Yfq, Vx8Rs_, 500870482) << bx2_((unsigned short)-449959633, (unsigned char)-257790651, (unsigned short)-751823913, -1072735280, -427303) << std::endl;
 U54Z2Zamq2 = QMkPF1B * IsQEM;
 if (D_E9)
 {
@@ -332,7 +332,7 @@ Nwy4gUV = bx2_(qLjv8644r, (unsigned char)-1003258682, Tj_3, BDj9V1P, -1165368422
 break;
 case 'e':
 case 'E':
-Nwy4gUV = bx2_(BDj9V1P, (unsigned char)1744159310, -1161751666, -1531491458, -1317769004);
+Nwy4gUV = bx2_(BDj9V1P, (unsigned char)1744159310, (unsigned short)-1161751666, -1531491458, -1317769004);
 break;
 case 'f':
 case 'F':

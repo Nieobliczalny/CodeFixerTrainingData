@@ -61,7 +61,7 @@ int main()
 	short int	uq_w2I79k0	=	(short)1111029935;
     short int    s1p64HM    =    (short)-1555056674;
   long long  L5Rbd8  =  -1865106457;
-	unsigned char	RmB1lM6	=	-910475903;
+	unsigned char	RmB1lM6	=	(unsigned char)-910475903;
   int  c2bX7  =  -552659619;
  short int u0vInW734L = 2086977328;
   unsigned long  WdrL95Er8s  =  0;

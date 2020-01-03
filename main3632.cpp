@@ -22,7 +22,7 @@ int main(void) {
 	ymEvu90	=	(unsigned char)145338181;
 	n06j8D4v	=	(unsigned char)1329821326;
 	Vl3VmQEHrO	=	(unsigned char)1440962303;
-	pAHAGAh	=	-518139480;
+	pAHAGAh	=	(unsigned char)-518139480;
 	v4j50	=	-1833673944;
 	haM1k4	=	-1711361178;
 	Sk14_	=	1152811677;
@@ -32,7 +32,7 @@ int main(void) {
 	k2iU	=	(unsigned char)2140511181;
 	ft9U_KTl	=	(unsigned char)-1432471216;
 	qDWa	=	(unsigned char)-187892394;
-	w5aCWZ4A2h	=	-1852404675;
+	w5aCWZ4A2h	=	(unsigned char)-1852404675;
 	ES5iG9_ng	=	-1646102581;
 	CmXbni	=	-639834831;
 	u09_ea	=	-190035801;
@@ -42,7 +42,7 @@ int main(void) {
 	mT5_vI89H	=	(unsigned char)-1024049968;
 	to8xpw	=	(unsigned char)960269331;
 	YTji_k_AE	=	(unsigned char)1209212931;
-	t7n5a	=	1150309197;
+	t7n5a	=	(unsigned char)1150309197;
 	V6kRw1GZ	=	1757838798;
 	ndNj	=	-1745852509;
 	VCx8L3J	=	-1029274651;
@@ -52,7 +52,7 @@ int main(void) {
 	L2VV0	=	(unsigned char)-1550429616;
 	Kaq18rJ	=	(unsigned char)1751899372;
 	ZknQi7	=	(unsigned char)-1889312651;
-	egG68775B	=	2047471244;
+	egG68775B	=	(unsigned char)2047471244;
 	tFP7azr_P7	=	-2104640350;
 	oh81z3s8	=	-300821614;
 	M_0yaIX442	=	199545805;
@@ -62,7 +62,7 @@ int main(void) {
 	LcZ6_k	=	(unsigned char)1456379763;
 	YuR7LhuWt	=	(unsigned char)-1269670223;
 	Fe_9nBX12	=	(unsigned char)-1171427695;
-	m_4H_01Eu	=	-779356338;
+	m_4H_01Eu	=	(unsigned char)-779356338;
 	Sokn1o	=	1867296816;
 	P7DuOG	=	202800723;
 	B64j	=	-454106653;
@@ -72,7 +72,7 @@ int main(void) {
 	X1H255	=	(unsigned char)1211702306;
 	q85j	=	(unsigned char)1085599367;
 	V41K71j	=	(unsigned char)2143367036;
-	hchV1109Y	=	498684479;
+	hchV1109Y	=	(unsigned char)498684479;
 	Dhu5BEwdp	=	2132635078;
 	Xu_vR1O	=	261348336;
 	t0ac0SN7m	=	1679010594;
@@ -82,7 +82,7 @@ int main(void) {
 	qlS_g1	=	(unsigned char)-111671619;
 	F4b9	=	(unsigned char)-1576382063;
 	rB_w05SM65	=	(unsigned char)1194068989;
-	GOZ_pJb6s4	=	1096014772;
+	GOZ_pJb6s4	=	(unsigned char)1096014772;
 	m0g9D25CW	=	1563613711;
 	uCLkTK80	=	-1116210394;
 	KA28	=	1675818106;
@@ -139,7 +139,7 @@ case 4:
 hchV1109Y = pAHAGAh / V41K71j;
 break;
 case 5:
-F4b9 = zud5((unsigned short)-1813831610, -393394695, ES5iG9_ng, 1791971449, -1284129173);
+F4b9 = zud5((unsigned short)-1813831610, -393394695, ES5iG9_ng, (short)1791971449, -1284129173);
 break;
 case 6:
 VCx8L3J <<= jBQ4VyiP;
@@ -241,7 +241,7 @@ case 2:
 YTji_k_AE >>= qlS_g1;
 break;
 case 3:
-kwyh = zud5(-1211204298, Vl3VmQEHrO, Fe_9nBX12, F4b9, 232010123);
+kwyh = zud5((unsigned short)-1211204298, Vl3VmQEHrO, Fe_9nBX12, F4b9, 232010123);
 break;
 case 4:
 L2VV0 <<= P7DuOG;
@@ -259,7 +259,7 @@ break;
 }
 else if (P7DuOG != 179234392)
 {
-std::cout << "z98WQ5k" << zud5((unsigned short)-1548617217, -1636675729, (short)-1327420165, (short)1548871026, 205005565) << "Z1V39" << p14a6(Sokn1o, Wn8GNu9wb, pAHAGAh, ES5iG9_ng) << ft9U_KTl << std::endl;
+std::cout << "z98WQ5k" << zud5((unsigned short)-1548617217, -1636675729, (short)-1327420165, (short)1548871026, (short)205005565) << "Z1V39" << p14a6(Sokn1o, Wn8GNu9wb, pAHAGAh, ES5iG9_ng) << ft9U_KTl << std::endl;
 }
 else if (pAHAGAh & 1285652025)
 {
@@ -429,7 +429,7 @@ YuR7LhuWt = zud5(YuR7LhuWt, hchV1109Y, VCx8L3J, haM1k4, (short)1646067956);
 }
 else if (u09_ea)
 {
-VCx8L3J = zud5(VCx8L3J, -1503181297, V41K71j, -1989733952, 222451977);
+VCx8L3J = zud5(VCx8L3J, -1503181297, V41K71j, (short)-1989733952, 222451977);
 }
 else if (egG68775B != -1480993912)
 {
@@ -502,7 +502,7 @@ case 'b':
 Y2p3UHp4 = zud5((unsigned short)-1302647009, V6kRw1GZ, (short)-584864839, (short)-1667569905, KA28);
 break;
 case 'c':
-ZknQi7 = zud5(ZknQi7, w5aCWZ4A2h, S8usVOL8S, Sk14_, -1921493866);
+ZknQi7 = zud5(ZknQi7, w5aCWZ4A2h, S8usVOL8S, Sk14_, (short)-1921493866);
 break;
 case 'd':
 Q_p2778MXu ^= 2074900715;
@@ -523,7 +523,7 @@ case 'i':
 n06j8D4v = zud5(PmX4, 1011789618, (short)1430449006, ndNj, D4f1);
 break;
 default:
-L2VV0 = zud5((unsigned short)1311250981, 2044789342, ymEvu90, (short)1535162450, -859047921);
+L2VV0 = zud5((unsigned short)1311250981, 2044789342, ymEvu90, (short)1535162450, (short)-859047921);
 break;
 }
 return 0;

@@ -149,7 +149,7 @@ int main(int argc, char** argv)
  double v7jB_;
  v7jB_ = -1867657670;
  unsigned short dQ4bqC;
- dQ4bqC = 1620404822;
+ dQ4bqC = (unsigned short)1620404822;
 	unsigned int	smhxd;
 	smhxd	=	-968967483;
   unsigned short  lwT2xubRW;
@@ -167,7 +167,7 @@ int main(int argc, char** argv)
 	unsigned int	HgnA;
 	HgnA	=	82363011;
 	unsigned short	C0nsh8y_4;
-	C0nsh8y_4	=	329716356;
+	C0nsh8y_4	=	(unsigned short)329716356;
  unsigned short Uf296l3A;
  Uf296l3A = (unsigned short)1907271548;
 	long	FhQB_99;

@@ -768,7 +768,7 @@ case 3:
 u7ikKGa = (int)abs(No1k) * 0;
 break;
 case 4:
-gif1j27b = b_PX9pX((short)-2120340512, iZXDc_LTp, 1202449765, -935539163, 1487166166) % Uk4H;
+gif1j27b = b_PX9pX((short)-2120340512, iZXDc_LTp, 1202449765, (char)-935539163, 1487166166) % Uk4H;
 break;
 case 5:
 k1_17 = B3M9Sc56((char)-737131086, -290486760, PWYK5yb) - EH5hX4aL;

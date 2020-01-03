@@ -29,7 +29,7 @@ int main(void)
 	unsigned short int	T2L874w	=	(unsigned short)-814972325;
     long double    q8E9JHHDg    =    -938350550;
     unsigned long long    OKqUb    =    -1356732121;
-	unsigned short int	yu28aT4f1	=	-173216184;
+	unsigned short int	yu28aT4f1	=	(unsigned short)-173216184;
  short kDy9 = 2139064367;
  int Ce49l3 = 1187946729;
     long    Sfe2HTO2    =    1755914049;
@@ -49,7 +49,7 @@ int main(void)
   double  r12_B  =  -1297937276;
  unsigned short Bxgw7DcX = (unsigned short)-1674952720;
     unsigned char    U98o7_2T    =    (unsigned char)-156713319;
-  short int  J703Y3m9_V  =  982267932;
+  short int  J703Y3m9_V  =  (short)982267932;
     unsigned int    f7y4SykPg    =    0;
 
 kDy9 ^= 1881472168;

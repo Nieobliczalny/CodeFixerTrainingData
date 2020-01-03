@@ -99,7 +99,7 @@ int main() {
   char  MV9J;
   MV9J  =  (char)-117488866;
     unsigned char    NuJ0D8;
-    NuJ0D8    =    1714447993;
+    NuJ0D8    =    (unsigned char)1714447993;
   unsigned short int  YyE7_hXS8;
   YyE7_hXS8  =  (unsigned short)1629121720;
   float  I0_5c4pB;
@@ -317,7 +317,7 @@ std::cout << v2CYd(-464440075, (char)-900413506, e2DO, (short)-480784158) << a7E
 }
 else if (Z5LL4LZ >= n22Q5)
 {
-std::cout << FxS2Mh2ix(l91K25_, u93zax_, e2DO, 275930979, q_kU72YN) << std::endl;
+std::cout << FxS2Mh2ix(l91K25_, u93zax_, e2DO, (unsigned char)275930979, q_kU72YN) << std::endl;
 }
 else
 {
@@ -672,7 +672,7 @@ zj_W0S = FxS2Mh2ix(-936163461, -54392909, E8uv, (unsigned char)1277496444, (shor
 int i = 5;
 do
 {
-O1P85j3L = fhQs6r(-1185275295, -1087197499, (short)-1701682538, -625067541);
+O1P85j3L = fhQs6r(-1185275295, -1087197499, (short)-1701682538, (unsigned short)-625067541);
 i--;
 }
 while (i >= 0);
@@ -809,7 +809,7 @@ case 2:
 bFj3Ay = fp4w << hmHQO4njhK;
 break;
 case 3:
-qYWur = v2CYd(u93zax_, (char)1964100187, p1XI, -1102245261);
+qYWur = v2CYd(u93zax_, (char)1964100187, p1XI, (short)-1102245261);
 break;
 case 4:
 h52B07RHQ = (int)abs(IM5V1np);

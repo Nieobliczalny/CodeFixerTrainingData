@@ -64,7 +64,7 @@ int main(void)
 	short	Y6JGxj;
 	Y6JGxj	=	(short)1512225541;
   unsigned char  yFWo52;
-  yFWo52  =  1754428137;
+  yFWo52  =  (unsigned char)1754428137;
 	long	G9L1;
 	G9L1	=	1255099266;
 	unsigned char	sd9miZ4;
@@ -102,7 +102,7 @@ int main(void)
     unsigned char    Ens0_iHn_n;
     Ens0_iHn_n    =    (unsigned char)1519003853;
     unsigned short    UkjUeV;
-    UkjUeV    =    -379720797;
+    UkjUeV    =    (unsigned short)-379720797;
 	long long	HZix;
 	HZix	=	-581441115;
   unsigned short int  N_RmSCbbNA;
@@ -142,7 +142,7 @@ int main(void)
   short int  Zv5OYW67Lx;
   Zv5OYW67Lx  =  (short)1415805457;
   short int  sdVvS;
-  sdVvS  =  -166438597;
+  sdVvS  =  (short)-166438597;
 	unsigned short	j4H6h;
 	j4H6h	=	(unsigned short)-691802748;
   char  au4DHA6j;
@@ -170,7 +170,7 @@ int main(void)
  char oR1O;
  oR1O = (char)728410386;
  char dS0d954LyA;
- dS0d954LyA = -203217937;
+ dS0d954LyA = (char)-203217937;
 	unsigned int	gShFNJ;
 	gShFNJ	=	1991577188;
  short So2nn6RxVX;
@@ -201,7 +201,7 @@ kVtWH = zaL_((unsigned short)-1740235085, ZcrDMd, -2141122056, (short)1490091063
 }
 }
 
-Xy0F5Prz = zaL_((unsigned short)691927877, AJ__GxnM, GuIg7Sw, 731989129, XhO1);
+Xy0F5Prz = zaL_((unsigned short)691927877, AJ__GxnM, GuIg7Sw, (short)731989129, XhO1);
 N1nYHJ_ = (long double)(Kre32__);
 
 if (A4m503Cu > uBmhL44cT)
@@ -510,7 +510,7 @@ case 6:
 O1bT1xO07 = (int)ceil(J4bb);
 break;
 case 7:
-Kre32__ = (sd9miZ4 < Ly8e9N7) ? (short)-215636095 : ae8h((unsigned char)-1483982383, E1G8DwI, (unsigned short)1058051390, pfKrWw, 490956717);
+Kre32__ = (sd9miZ4 < Ly8e9N7) ? (short)-215636095 : ae8h((unsigned char)-1483982383, E1G8DwI, (unsigned short)1058051390, pfKrWw, (short)490956717);
 break;
 default:
 UkjUeV = kVa_rL_(UkjUeV, dYem9K5T9, XhO1, -1738229325);
@@ -578,7 +578,7 @@ else if (Qs2tOTeR == Ly8e9N7)
 switch (A4m503Cu)
 {
 case 0:
-Nxt8l4 = dZkg((unsigned short)1173919409, -47291093);
+Nxt8l4 = dZkg((unsigned short)1173919409, (char)-47291093);
 break;
 case 1:
 SX8_xoH = (int)ceil(clL3jZz);
@@ -886,7 +886,7 @@ case 'b':
 DFMggw = (int)floor(t3T053gq1);
 break;
 case 'c':
-EtM0v3E65 = ae8h(EtM0v3E65, oR1O, (unsigned short)-1844019094, 1685509451, 753875460);
+EtM0v3E65 = ae8h(EtM0v3E65, oR1O, (unsigned short)-1844019094, (unsigned short)1685509451, 753875460);
 break;
 case 'd':
 So2nn6RxVX = (int)abs(G9L1);

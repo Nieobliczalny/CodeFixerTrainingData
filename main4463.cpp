@@ -90,7 +90,7 @@ int main(void) {
   char  oVWN9n_;
   oVWN9n_  =  (char)1711468651;
 	unsigned short int	N07E;
-	N07E	=	-247676796;
+	N07E	=	(unsigned short)-247676796;
  long v1_oAVb7k;
  v1_oAVb7k = -1077696133;
  long double vcMA9;
@@ -106,7 +106,7 @@ int main(void) {
     short int    Fv8uy1p6j6;
     Fv8uy1p6j6    =    (short)1678889311;
   unsigned short int  L7CnL;
-  L7CnL  =  -1851904743;
+  L7CnL  =  (unsigned short)-1851904743;
 	long double	TuaC2z;
 	TuaC2z	=	-1614188722;
     unsigned long    iaBB1A08W;

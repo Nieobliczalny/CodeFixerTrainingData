@@ -117,7 +117,7 @@ int main(void) {
   unsigned short int  Pni_Ogx;
   Pni_Ogx  =  (unsigned short)276637552;
     short int    N_KlzbSS;
-    N_KlzbSS    =    -236470507;
+    N_KlzbSS    =    (short)-236470507;
   long  kc76P1;
   kc76P1  =  0;
 	short	e219C66;
@@ -139,7 +139,7 @@ int main(void) {
   unsigned int  AoscWUv;
   AoscWUv  =  1735939030;
  unsigned short xaZ3IHky;
- xaZ3IHky = -1532210905;
+ xaZ3IHky = (unsigned short)-1532210905;
 	long	z28jD1L7;
 	z28jD1L7	=	353741235;
 	unsigned long long	bsDrNk3_;

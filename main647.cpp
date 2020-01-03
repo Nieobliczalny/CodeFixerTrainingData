@@ -62,7 +62,7 @@ int main(int argc, char** argv) {
   char  HQ8b5;
   HQ8b5  =  (char)1909728272;
     unsigned short    BSxu2E9X;
-    BSxu2E9X    =    -951287525;
+    BSxu2E9X    =    (unsigned short)-951287525;
     long    igUM17J3h_;
     igUM17J3h_    =    854486940;
     long    vM3fm2;

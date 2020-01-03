@@ -168,7 +168,7 @@ case 4:
 HAcO58_a0h = oNI4F((short)1112347548);
 break;
 case 5:
-igxjT = FOL4Bu((unsigned short)1364732173, (unsigned char)1078849740, -1892828590, 614215900, hA2E);
+igxjT = FOL4Bu((unsigned short)1364732173, (unsigned char)1078849740, (short)-1892828590, 614215900, hA2E);
 break;
 case 6:
 px0NmU = oNI4F(px0NmU);
@@ -297,7 +297,7 @@ DnRSm5Y ^= RB9m;
 }
 else
 {
-igxjT = FOL4Bu((unsigned short)-1825506293, -817338264, bFn5Nv, y9aznK8, PiE34EDz);
+igxjT = FOL4Bu((unsigned short)-1825506293, (unsigned char)-817338264, bFn5Nv, y9aznK8, PiE34EDz);
 }
 }
 }
@@ -447,7 +447,7 @@ igxjT = FOL4Bu((unsigned short)1123680465, (unsigned char)-850548119, (short)113
 }
 else if (UZ0soI & f51We1U)
 {
-XINA5F = oNI4F(896397975);
+XINA5F = oNI4F((short)896397975);
 }
 else
 {

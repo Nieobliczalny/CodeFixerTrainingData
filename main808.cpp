@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
   long  VMOtsnN;
   VMOtsnN  =  698049805;
     unsigned short    u0xhOx5;
-    u0xhOx5    =    771906880;
+    u0xhOx5    =    (unsigned short)771906880;
     char    vN0Y;
     vN0Y    =    (char)-625588429;
     unsigned int    i0_R_cg8;
@@ -46,7 +46,7 @@ int main(int argc, char** argv) {
  unsigned short uGQMr1x;
  uGQMr1x = (unsigned short)839047908;
   short  T0V861C05;
-  T0V861C05  =  1533880821;
+  T0V861C05  =  (short)1533880821;
  char dj_t_5;
  dj_t_5 = 1325137212;
     unsigned long long    g94Gud;
@@ -308,7 +308,7 @@ int j = 0;
 while (j < 6)
 {
 ++j;
-cout << "pYurY6c8D2" << XuUF((unsigned short)-1788212366, (short)555321534, (char)-900602803, c8AvL) << U0VF_t64i(27460252, 55673178, MUmnX3nND) << endl;
+cout << "pYurY6c8D2" << XuUF((unsigned short)-1788212366, (short)555321534, (char)-900602803, c8AvL) << U0VF_t64i((unsigned char)27460252, 55673178, MUmnX3nND) << endl;
 }
 }
 }

@@ -96,7 +96,7 @@ case 2:
 F7Pf = (F65qAOVmM > j26B) ? 1280220277 : 271240601;
 break;
 case 3:
-S_zGk5xa = w35xmzj_(S_zGk5xa, Q6N7CD, (short)-292020314, 92599034);
+S_zGk5xa = w35xmzj_(S_zGk5xa, Q6N7CD, (short)-292020314, (unsigned char)92599034);
 break;
 case 4:
 S_zGk5xa = w35xmzj_(-279548786, NJxqLW21t, Wv_9NAj8, (unsigned char)260552272);
@@ -539,7 +539,7 @@ S_zGk5xa = w35xmzj_(MM0lTMjGx, r1ue0M, (short)1884658001, d5HAA3Ee);
 }
 else
 {
-S_zGk5xa = w35xmzj_(bZoYu7, 1609376268, FI7eu, 1098172378);
+S_zGk5xa = w35xmzj_(bZoYu7, 1609376268, FI7eu, (unsigned char)1098172378);
 }
 }
 }

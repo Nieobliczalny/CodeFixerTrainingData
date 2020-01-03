@@ -254,7 +254,7 @@ break;
 
 UcH4_EeW = HYlFc7bO62(45240664, (char)395966848);
 
-EHrc = Y0i_c_A65(lQtGxX2cw, -1702110152, 642027857, -1657309238, -1296134370);
+EHrc = Y0i_c_A65(lQtGxX2cw, (char)-1702110152, 642027857, -1657309238, -1296134370);
 
 try
 {
@@ -342,7 +342,7 @@ nK47Nu6_x3 *= 1254658220;
 }
 J08J0H7 += 440250478;
 TB01Yk = rUtj / Y0i_c_A65(618971580, (char)-962626084, d9RyAr_, lE0r, 1131810944);
-std::cout << HbbG << qQlE92BF << HYlFc7bO62(XdPU_, (char)-1671289521) << HYlFc7bO62(XdPU_, (char)-77025891) << Y0i_c_A65(-1331167446, -111642619, d9RyAr_, -803140281, O9JFO) << std::endl;
+std::cout << HbbG << qQlE92BF << HYlFc7bO62(XdPU_, (char)-1671289521) << HYlFc7bO62(XdPU_, (char)-77025891) << Y0i_c_A65(-1331167446, (char)-111642619, d9RyAr_, -803140281, O9JFO) << std::endl;
 for (int i = 0; i < 7; i++)
 {
 au00cly = Y0i_c_A65(268675257, MX367J7h, t8kyMv, 951126730, TB01Yk);

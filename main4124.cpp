@@ -71,7 +71,7 @@ case 'e':
 xcK6k3 = fnpJ & 1259390058;
 break;
 case 'f':
-sJbZ = rT24p5((unsigned short)-1334267662, -1733196149, Kj4Np, -1036454580);
+sJbZ = rT24p5((unsigned short)-1334267662, -1733196149, Kj4Np, (unsigned short)-1036454580);
 break;
 }
 }
@@ -128,7 +128,7 @@ case 2:
 Kj4Np = DGXl7yB / l_31RC2q;
 break;
 case 3:
-UvU5_P = k14j9e((unsigned short)1904795320, DMf_1pHA, 1395644376);
+UvU5_P = k14j9e((unsigned short)1904795320, DMf_1pHA, (short)1395644376);
 break;
 case 4:
 L3PZ7 = yhYKscN1(L3PZ7, Kj4Np, GYyxI8f1);
@@ -293,7 +293,7 @@ std::cout << gUv_ << k14j9e((unsigned short)76878600, (unsigned short)940762757,
 }
 }
 
-FDNuc3RV = yhYKscN1(gUv_, -546470653, Y0N3F) / LAC6m06_;
+FDNuc3RV = yhYKscN1(gUv_, (unsigned short)-546470653, Y0N3F) / LAC6m06_;
 
 if (t__4_ <= 385989055)
 {
@@ -325,7 +325,7 @@ case 2:
 Q2vW = vRGL0I8H_9(Q2vW, (unsigned short)-1226487802);
 break;
 case 3:
-PEkI0_BC = yhYKscN1(PEkI0_BC, -407793942, 64685587);
+PEkI0_BC = yhYKscN1(PEkI0_BC, (unsigned short)-407793942, 64685587);
 break;
 case 4:
 XV4_cqyj++;

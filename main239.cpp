@@ -254,7 +254,7 @@ i++;
 }
 }
 
-QRIqf8Wtc = S9L0(l3aA9_V, (unsigned short)929074632, 1453849311, 752172086);
+QRIqf8Wtc = S9L0(l3aA9_V, (unsigned short)929074632, (char)1453849311, 752172086);
 {
 int i = 7;
 while (i >= 0)

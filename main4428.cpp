@@ -47,7 +47,7 @@ int main(int argc, char** argv)
   unsigned short int  oVOm5;
   oVOm5  =  (unsigned short)1806875958;
  unsigned char RYvMtgDq4Y;
- RYvMtgDq4Y = 1024644150;
+ RYvMtgDq4Y = (unsigned char)1024644150;
     unsigned long    V759G;
     V759G    =    -1963464558;
     unsigned int    H8dd_4Y3p9;
@@ -101,7 +101,7 @@ int main(int argc, char** argv)
  unsigned char VOa2I70r;
  VOa2I70r = (unsigned char)1341384373;
 	short	w_3r6XW;
-	w_3r6XW	=	708235745;
+	w_3r6XW	=	(short)708235745;
     long long    kSt6y;
     kSt6y    =    1097377579;
  int vnF_2z;
@@ -167,7 +167,7 @@ int main(int argc, char** argv)
 	unsigned int	T6CSI;
 	T6CSI	=	-1286583603;
  unsigned char fK6g;
- fK6g = -474809399;
+ fK6g = (unsigned char)-474809399;
     double    o155;
     o155    =    -1874995260;
     double    wvJ3UjXfm;

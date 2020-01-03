@@ -497,7 +497,7 @@ V4vM0j = BDFIG((short)1758857574, -63538844, 687386432, (unsigned short)10375240
 }
 aoI_95_ = z60_iT_Md / z60_iT_Md;
 z60_iT_Md = (short)(v0q3kWZ2p);
-v0q3kWZ2p = BDFIG(-1722429172, Pfe4, MXDhSKZv, ZVAkn);
+v0q3kWZ2p = BDFIG((short)-1722429172, Pfe4, MXDhSKZv, ZVAkn);
 {
 int i = 9;
 while (i >= 0)

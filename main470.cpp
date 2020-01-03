@@ -159,7 +159,7 @@ if (D4K387HfG8 <= -558910077)
 switch (D4K387HfG8)
 {
 case 'a':
-LjY3x = vSkr4rG(LjY3x, -399573499, (unsigned short)1447961544, -513345566);
+LjY3x = vSkr4rG(LjY3x, -399573499, (unsigned short)1447961544, (short)-513345566);
 break;
 default:
 LjY3x = vSkr4rG((short)-35336951, VDP3Cyq, LjY3x, (short)-1088573936);
@@ -474,7 +474,7 @@ D4K387HfG8 %= VDP3Cyq;
 }
 else if (((D4K387HfG8 > jNdT1p7D) || (VDP3Cyq < VM4Yi6)) && (LjY3x == -934223641))
 {
-LjY3x = vSkr4rG((short)1923981319, -469179090, -1684547277, LjY3x);
+LjY3x = vSkr4rG((short)1923981319, -469179090, (unsigned short)-1684547277, LjY3x);
 }
 else if (LjY3x >= VM4Yi6)
 {
@@ -539,7 +539,7 @@ int i = 0;
 do
 {
 ++i;
-std::cout << D4K387HfG8 << vSkr4rG((short)-2114451606, LjY3x, (unsigned short)-338965042, (short)-108744489) << vSkr4rG(jNdT1p7D, LjY3x, 1453822180, D4K387HfG8) << VDP3Cyq << vSkr4rG(-1598707554, 120357340, 720982948, D4K387HfG8) << std::endl;
+std::cout << D4K387HfG8 << vSkr4rG((short)-2114451606, LjY3x, (unsigned short)-338965042, (short)-108744489) << vSkr4rG(jNdT1p7D, LjY3x, (unsigned short)1453822180, D4K387HfG8) << VDP3Cyq << vSkr4rG(-1598707554, 120357340, 720982948, D4K387HfG8) << std::endl;
 }
 while (i < 6);
 }
@@ -562,7 +562,7 @@ case 1:
 D4K387HfG8 = jNdT1p7D * 1545932948;
 break;
 case 2:
-LjY3x = vSkr4rG(VDP3Cyq, -194403888, 1310028141, LjY3x);
+LjY3x = vSkr4rG(VDP3Cyq, -194403888, (unsigned short)1310028141, LjY3x);
 break;
 case 3:
 VDP3Cyq--;
@@ -574,7 +574,7 @@ case 5:
 LjY3x = vSkr4rG((short)-1970534439, jNdT1p7D, VDP3Cyq, (short)1577658226);
 break;
 case 6:
-LjY3x = vSkr4rG((short)1369194077, -1085906106, 1428953142, -725885308);
+LjY3x = vSkr4rG((short)1369194077, -1085906106, (unsigned short)1428953142, -725885308);
 break;
 }
 jNdT1p7D += VDP3Cyq;

@@ -136,7 +136,7 @@ int main(void)
   unsigned long long  hxU9L;
   hxU9L  =  -637834784;
     char    v_86Z;
-    v_86Z    =    1108981487;
+    v_86Z    =    (char)1108981487;
   unsigned long  e3_5_;
   e3_5_  =  -410563153;
   short  JddgaD8o6u;
@@ -348,7 +348,7 @@ case 3:
 r_3g7t9PC = f0Zut(lU6gRrUE, T_60d6d6);
 break;
 case 4:
-pY_37 = f0Zut((unsigned short)-1239526982, 2146284810);
+pY_37 = f0Zut((unsigned short)-1239526982, (unsigned char)2146284810);
 break;
 case 5:
 r_3g7t9PC = f0Zut(1117971453, -1116138170);

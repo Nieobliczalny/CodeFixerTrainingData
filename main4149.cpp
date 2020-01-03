@@ -28,7 +28,7 @@ int main(void)
 v32kUt = L2DucofLJ((unsigned short)596811380, (short)941935981, WcR3);
 
 D4T5v4_ = Xh8QVSF0k | 874935046;
-if (L2DucofLJ(-1128089611, 1975263579, -172289344) == 0)
+if (L2DucofLJ((unsigned short)-1128089611, 1975263579, -172289344) == 0)
 {
 	Tz2P5 = d2It17 / L2DucofLJ(-1128089611, 1975263579, -172289344);
 }
@@ -93,7 +93,7 @@ s0txm = Fk8DePzV(s0txm, gEbK7M1H_1, -213396979);
 }
 else if (eNqj9wb4kx & 212257990)
 {
-G008 = Fk8DePzV(-1683633468, -1490607053, -2092842638);
+G008 = Fk8DePzV((short)-1683633468, -1490607053, -2092842638);
 }
 else
 {
@@ -123,7 +123,7 @@ case 'e':
 Htkl3IFi = LeN4 % 2099135807;
 break;
 case 'f':
-v32kUt = L2DucofLJ(Z7sblmgQEJ, (short)1787897952, -1102074020);
+v32kUt = L2DucofLJ(Z7sblmgQEJ, (short)1787897952, (unsigned char)-1102074020);
 break;
 case 'g':
 LeN4 %= 1983439693;

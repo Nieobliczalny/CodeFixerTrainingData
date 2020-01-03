@@ -172,7 +172,7 @@ J1viY = (int)ceil(VjEWG);
 break;
 case 'g':
 case 'G':
-Eit0_8X = BsL3((unsigned short)1410945025, (short)1205837363, (unsigned short)1679566752, nFpg5S, 1705085479);
+Eit0_8X = BsL3((unsigned short)1410945025, (short)1205837363, (unsigned short)1679566752, nFpg5S, (unsigned short)1705085479);
 break;
 }
 try
@@ -235,7 +235,7 @@ case 1:
 QaD2blc2 = (int)abs(J1viY) * 0;
 break;
 case 2:
-VQmZe = WI6iXf8UG(-54099620, zPD_Y_A4, -765302922);
+VQmZe = WI6iXf8UG((short)-54099620, zPD_Y_A4, -765302922);
 break;
 case 3:
 VQmZe = (int)ceil(J1viY);
@@ -292,7 +292,7 @@ case 5:
 VjEWG = (int)ceil(VQmZe);
 break;
 case 6:
-zPD_Y_A4 = B43dk8A86Y(K62LAa, -1209951120, VQmZe, (short)29786884, 829822018);
+zPD_Y_A4 = B43dk8A86Y(K62LAa, -1209951120, VQmZe, (short)29786884, (unsigned char)829822018);
 break;
 }
 }
@@ -310,7 +310,7 @@ VjEWG = A6BcJ9b66 / 550944576;
 }
 else
 {
-std::cout << nFpg5S << Eit0_8X << WI6iXf8UG(K62LAa, (short)1518044857, VQmZe) << B43dk8A86Y((short)542826411, 219879948, VQmZe, (short)425882466, -1708345187) << WI6iXf8UG(K62LAa, 1165505978, -1917671911) << std::endl;
+std::cout << nFpg5S << Eit0_8X << WI6iXf8UG(K62LAa, (short)1518044857, VQmZe) << B43dk8A86Y((short)542826411, 219879948, VQmZe, (short)425882466, (unsigned char)-1708345187) << WI6iXf8UG(K62LAa, 1165505978, -1917671911) << std::endl;
 }
 
 A6BcJ9b66 = h_YaI(A6BcJ9b66, J1viY, -1283663185, SfGsB3BYd);
@@ -356,7 +356,7 @@ SfGsB3BYd = nFpg5S | 263702048;
 }
 else if ((QaD2blc2 < -1521548986) || (VjEWG))
 {
-Eit0_8X = BsL3((unsigned short)-1727825801, (short)1767491069, (unsigned short)-115106954, 1571593101, -1057053711);
+Eit0_8X = BsL3((unsigned short)-1727825801, (short)1767491069, (unsigned short)-115106954, 1571593101, (unsigned short)-1057053711);
 }
 else if (QaD2blc2 != Eit0_8X)
 {
@@ -391,7 +391,7 @@ catch (int& errorCode)
 VQmZe = (int)abs(QaD2blc2) + (1683228772);
 }
 
-nFpg5S = h_YaI((unsigned short)1351371106, (unsigned short)720210241, (char)895867867, -810497907);
+nFpg5S = h_YaI((unsigned short)1351371106, (unsigned short)720210241, (char)895867867, (unsigned short)-810497907);
 
 return 0;
 }

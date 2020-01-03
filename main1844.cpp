@@ -24,7 +24,7 @@ int main()
     long double    w_1a    =    1456740214;
     long double    Pgb52k    =    1064940193;
 	short int	fRUE	=	(short)573556382;
- unsigned short g67ZnP = -439907068;
+ unsigned short g67ZnP = (unsigned short)-439907068;
   unsigned long long  TwgE5j64  =  776059541;
     long    J3O6r    =    -1538966079;
  short qPK6tdi = 743747113;
@@ -55,7 +55,7 @@ int main()
 	unsigned char	jX_lA	=	(unsigned char)1837009966;
 	unsigned int	sQZPA	=	-536696539;
     int    V9hh    =    -1934400160;
-    unsigned short int    Jiv6    =    -1959354054;
+    unsigned short int    Jiv6    =    (unsigned short)-1959354054;
   unsigned short int  S61Adt5  =  (unsigned short)2122578928;
   unsigned short  q6OQt8  =  1295541774;
     char    jg9jB7CUH3    =    1531109104;
@@ -85,7 +85,7 @@ int main()
     float    o722    =    2033798558;
     unsigned int    Plq88vD4L    =    -1101381048;
   unsigned char  B_2DM  =  (unsigned char)-1211498018;
- short F3_Yi5 = -367547651;
+ short F3_Yi5 = (short)-367547651;
     unsigned long long    Hqn9v3FCm    =    -1167780467;
   unsigned short  ldCKTcIH3  =  (unsigned short)2111356282;
  unsigned char ubiy7erD = (unsigned char)-1106548523;
@@ -108,7 +108,7 @@ int main()
   float  J6Gq23  =  -780942800;
   short int  CEfxh71R5v  =  (short)-125403770;
 
-NjQ4q = U36C_IW9g(1059870354, q22VIp8);
+NjQ4q = U36C_IW9g((short)1059870354, q22VIp8);
 Pgb52k = (int)abs(x1_8ir);
 
 if (ZW5S_lu <= 1158849818)

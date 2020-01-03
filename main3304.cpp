@@ -69,7 +69,7 @@ while (i < 10);
 switch (cuv11e1_L)
 {
 case 0:
-e5R8nV6q1y = A0ia06(e5R8nV6q1y, -399659426, (unsigned char)-1353352380, -781238040);
+e5R8nV6q1y = A0ia06(e5R8nV6q1y, -399659426, (unsigned char)-1353352380, (char)-781238040);
 break;
 case 1:
 F_9c84wg <<= Y4yoH_N0gd;
@@ -99,7 +99,7 @@ case 9:
 e5R8nV6q1y = A0ia06((short)-1431410467, WQ2oBy, (unsigned char)76242250, RLDlPFD);
 break;
 }
-jqvaCxU = A0ia06(jqvaCxU, WQ2oBy, Tu7_p, 1614780206);
+jqvaCxU = A0ia06(jqvaCxU, WQ2oBy, Tu7_p, (char)1614780206);
 
 Tu7_p |= Vf34JY8I;
 for (int i = 0; i < 6; ++i)
@@ -146,7 +146,7 @@ try
 int j = 0;
 while (j < 1)
 {
-std::cout << "DNrTKN" << A0ia06((short)-2003669787, jqvaCxU, (unsigned char)-2023870948, -1456221592) << A0ia06(WQ2oBy, jqvaCxU, e5R8nV6q1y, x_84D80i) << std::endl;
+std::cout << "DNrTKN" << A0ia06((short)-2003669787, jqvaCxU, (unsigned char)-2023870948, (char)-1456221592) << A0ia06(WQ2oBy, jqvaCxU, e5R8nV6q1y, x_84D80i) << std::endl;
 ++j;
 }
 }
@@ -271,7 +271,7 @@ case 1:
 RLDlPFD = A0ia06(RLDlPFD, -390913033, (unsigned char)466286908, (char)-1521224774);
 break;
 case 2:
-e5R8nV6q1y = A0ia06(e5R8nV6q1y, x_84D80i, 98800650, -1497200934);
+e5R8nV6q1y = A0ia06(e5R8nV6q1y, x_84D80i, (unsigned char)98800650, -1497200934);
 break;
 case 3:
 RLDlPFD = A0ia06(1105038213, -1429490299, 383136203, Y4yoH_N0gd);
@@ -311,7 +311,7 @@ case 'c':
 Vf34JY8I /= 827653808;
 break;
 case 'd':
-jqvaCxU = A0ia06(-1014287898, x_84D80i, -1812432028, Tu7_p);
+jqvaCxU = A0ia06((short)-1014287898, x_84D80i, -1812432028, Tu7_p);
 break;
 case 'e':
 RLDlPFD = A0ia06((short)1608881350, 521273061, Vf34JY8I, e5R8nV6q1y);
@@ -382,7 +382,7 @@ std::cout << Tu7_p << Y4yoH_N0gd << A0ia06((short)-146915480, -1537502407, (unsi
 while (i < 3);
 }
 
-if (A0ia06(1619729519, -370239642, 466519451, e5R8nV6q1y) == 0)
+if (A0ia06((short)1619729519, -370239642, 466519451, e5R8nV6q1y) == 0)
 {
 	WX_WR8 = A0ia06(cuv11e1_L, WX_WR8, 272226003, -352587593) / A0ia06(1619729519, -370239642, 466519451, e5R8nV6q1y);
 }
@@ -436,7 +436,7 @@ int i = 0;
 do
 {
 i++;
-std::cout << A0ia06((short)595886518, Tu7_p, (unsigned char)1057149177, (char)507559296) << "b506n6cN78" << "ENII659H" << "VudnfPwwo" << A0ia06(jqvaCxU, Tu7_p, -1272565755, -15849896) << std::endl;
+std::cout << A0ia06((short)595886518, Tu7_p, (unsigned char)1057149177, (char)507559296) << "b506n6cN78" << "ENII659H" << "VudnfPwwo" << A0ia06(jqvaCxU, Tu7_p, (unsigned char)-1272565755, -15849896) << std::endl;
 }
 while (i < 7);
 }

@@ -31,7 +31,7 @@ int main(void) {
   ER2gICsnu  =  (unsigned char)-979489541;
   gzU777h7V  =  (unsigned char)-1799455889;
   aGi4D  =  (unsigned char)441384061;
-  ma1MlfFq  =  1981435931;
+  ma1MlfFq  =  (unsigned char)1981435931;
   W4X_nN  =  965409119;
   k7V0d  =  1447195792;
   cp4WgitV  =  -1440832616;
@@ -41,7 +41,7 @@ int main(void) {
   fi_RLQ  =  (unsigned char)-1569771489;
   Un5Su  =  (unsigned char)-980613626;
   VMtIX1  =  (unsigned char)-1660514493;
-  W1MyXE1  =  1892009385;
+  W1MyXE1  =  (unsigned char)1892009385;
   aAmB3b23Xw  =  -1010509107;
   Q53YM  =  2102058109;
   p4HhEKB7Y  =  -1599270398;
@@ -51,7 +51,7 @@ int main(void) {
   SH6F  =  (unsigned char)553256408;
   lr71  =  (unsigned char)972465182;
   KlbB8XfKi  =  (unsigned char)-1375837790;
-  bPY9rS  =  747682482;
+  bPY9rS  =  (unsigned char)747682482;
   dI15  =  -1265997619;
   H6vi9  =  -452829096;
   G163_Wm  =  1960080181;
@@ -61,7 +61,7 @@ int main(void) {
   P90Af  =  (unsigned char)1364186880;
   qkqWj51xn  =  (unsigned char)-1787534701;
   ngTe70L_  =  (unsigned char)2139885286;
-  Q9tBbuMc7B  =  1669997998;
+  Q9tBbuMc7B  =  (unsigned char)1669997998;
   G_2d8  =  660467047;
   V_6N086488  =  1842119373;
   AFZh  =  1007260684;
@@ -71,7 +71,7 @@ int main(void) {
   MiP3_a  =  (unsigned char)737510304;
   YYJIk0Oi_i  =  (unsigned char)-455878030;
   e5k_HtTHn_  =  (unsigned char)2129571003;
-  FCU83g  =  -1595830583;
+  FCU83g  =  (unsigned char)-1595830583;
   H8Y3VcyD76  =  -530551308;
   oH59072e2  =  302864971;
   OE7KEhxfkm  =  -379242805;
@@ -81,7 +81,7 @@ int main(void) {
   aNCS_AF  =  (unsigned char)-2022547858;
   Da0Gb2ccY  =  (unsigned char)436267084;
   HcW8xK  =  (unsigned char)-1463897413;
-  N4YH  =  -1240595237;
+  N4YH  =  (unsigned char)-1240595237;
   Z52n  =  598811868;
   I5WR3  =  -297009286;
   A5s0B261  =  1864952046;
@@ -377,7 +377,7 @@ case 3:
 y618l8 = g10g_S_((short)989393024, -1148178307, KlbB8XfKi, (unsigned short)25425666, aAmB3b23Xw);
 break;
 case 4:
-y618l8 = g10g_S_(e5k_HtTHn_, OE7KEhxfkm, h73GBj, 1059958897, -981353721);
+y618l8 = g10g_S_(e5k_HtTHn_, OE7KEhxfkm, h73GBj, (unsigned short)1059958897, -981353721);
 break;
 case 5:
 y618l8 = g10g_S_(ma1MlfFq, aAmB3b23Xw, -495066664, (unsigned short)-736721060, Q53YM);

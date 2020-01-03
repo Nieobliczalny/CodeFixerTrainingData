@@ -65,7 +65,7 @@ int main() {
  char jUHw9wEi09;
  jUHw9wEi09 = (char)1471092303;
   unsigned short  jZ6g8F9Z8;
-  jZ6g8F9Z8  =  184781033;
+  jZ6g8F9Z8  =  (unsigned short)184781033;
     float    Go11OVU89;
     Go11OVU89    =    -775979440;
  unsigned long long r6EbjJwm4;

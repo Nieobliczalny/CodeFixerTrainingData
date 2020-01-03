@@ -32,7 +32,7 @@ int main(int argc, char** argv)
   unsigned long  BkEGGmhTt  =  -732195884;
  unsigned char z4k0 = (unsigned char)-227122445;
 	float	Hg1v	=	-753995093;
-    short    pUT0    =    1958538623;
+    short    pUT0    =    (short)1958538623;
   long  UHt0pO  =  0;
 	long	F04S90qC	=	1130102341;
 	short int	k5PHQa0k	=	(short)-1260274010;
@@ -199,7 +199,7 @@ nRsP = SXl3Eg(nRsP, (unsigned char)1930871082, r80_Gc9r, 1432857698, (short)-178
 }
 else
 {
-T6Jp8s = SXl3Eg(T6Jp8s, (unsigned char)2088806683, -977468705, Tdnt, 1084393082);
+T6Jp8s = SXl3Eg(T6Jp8s, (unsigned char)2088806683, -977468705, Tdnt, (short)1084393082);
 }
 }
 catch (int& errorCode)

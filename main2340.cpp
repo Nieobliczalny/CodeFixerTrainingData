@@ -31,7 +31,7 @@ int main(int argc, char** argv)
  char mG831 = (char)-692617953;
     unsigned char    g8730w    =    (unsigned char)-784908426;
     unsigned long    kuFt    =    0;
-  short  fdp39  =  2099374936;
+  short  fdp39  =  (short)2099374936;
     long long    q1gB4o    =    -164067576;
   short int  ez9PXQYX_F  =  1865963887;
     char    t69ron_eU    =    -535921878;
@@ -51,7 +51,7 @@ int main(int argc, char** argv)
  unsigned long long T5k9tc5 = 2082087626;
   short int  ouj0Au  =  (short)1812714765;
     unsigned long long    I52dy9D    =    -2000953545;
-  unsigned short int  w71DrsM  =  1020398594;
+  unsigned short int  w71DrsM  =  (unsigned short)1020398594;
     short    g1AwyvN4    =    (short)1200347856;
  short int BA4_23 = -1030520874;
  unsigned int ZgLEICv76 = -626391760;
@@ -73,7 +73,7 @@ int main(int argc, char** argv)
   long  xS_q  =  1350411413;
 	char	ff79_W61	=	(char)2146933646;
  double KX2F9 = 444244736;
-  unsigned char  UyydAmCIP  =  1808507512;
+  unsigned char  UyydAmCIP  =  (unsigned char)1808507512;
     unsigned short    z_jtvbo8ME    =    (unsigned short)1433221583;
   unsigned short  N_1Wag  =  -129117313;
   short int  eQ982Vw  =  0;
@@ -204,7 +204,7 @@ L3vB = rE7LR((unsigned char)-1370132609, (unsigned short)-618743310);
 break;
 case 'f':
 case 'F':
-VS2f7mCv7 = (w71DrsM <= -589278047) ? TS41G((unsigned short)-78429029, 510008176, L3vB) : t69ron_eU;
+VS2f7mCv7 = (w71DrsM <= -589278047) ? TS41G((unsigned short)-78429029, (unsigned short)510008176, L3vB) : t69ron_eU;
 break;
 case 'g':
 case 'G':

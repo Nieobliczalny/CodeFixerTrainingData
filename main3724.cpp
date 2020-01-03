@@ -233,7 +233,7 @@ case 4:
 E4xxNRPolN = VS2jOa_V((unsigned short)-503421335, muv2097qXW, (unsigned short)1369978899, RUpLA);
 break;
 case 5:
-HK41y1E9or = I984P(h6ER, t5Y48q3WGa, 662961897);
+HK41y1E9or = I984P(h6ER, t5Y48q3WGa, (char)662961897);
 break;
 case 6:
 HK41y1E9or = I984P((short)-1501334286, o7GXI62CA_, ygr8V);
@@ -433,7 +433,7 @@ else
 {
 HK41y1E9or = I984P(KkAT, -60955830, (char)1331481441);
 }
-std::cout << VS2jOa_V(783008935, -887440305, PAu3K_C, muv2097qXW) << gZNVwNKf << "Evif6fV" << VS2jOa_V(KkAT, XmW22, PAu3K_C, muv2097qXW) << keKYdKS7I << std::endl;
+std::cout << VS2jOa_V((unsigned short)783008935, -887440305, PAu3K_C, muv2097qXW) << gZNVwNKf << "Evif6fV" << VS2jOa_V(KkAT, XmW22, PAu3K_C, muv2097qXW) << keKYdKS7I << std::endl;
 
 Z2g37RP1 = VS2jOa_V(Z2g37RP1, -548547179, (unsigned short)1152600163, 852248907);
 

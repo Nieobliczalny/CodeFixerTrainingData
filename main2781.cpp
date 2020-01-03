@@ -34,7 +34,7 @@ int main(int argc, char** argv) {
     long long    RJJPp4    =    1974328044;
   unsigned char  tCkt  =  (unsigned char)470245939;
 	double	d10dyZbs5	=	-1747744702;
-	short int	Cuvq92chWE	=	238066180;
+	short int	Cuvq92chWE	=	(short)238066180;
     long long    Np907_    =    1787046157;
  char hegTGA61 = (char)-995207850;
   short  xhn4  =  1824587701;
@@ -61,7 +61,7 @@ int main(int argc, char** argv) {
  long i3qM1MbX = -376493241;
 	unsigned short	t6Knv1C1j6	=	(unsigned short)-513360188;
     long long    of_nr71eWM    =    453880071;
- unsigned short hKd80TPU7 = -1765500344;
+ unsigned short hKd80TPU7 = (unsigned short)-1765500344;
 	short int	p8nzjyK_G	=	(short)-1878860440;
   double  sxZMh0l_  =  1599843814;
 	int	qB_6	=	0;
@@ -386,7 +386,7 @@ tCkt = (unsigned char)(hegTGA61);
 switch (e1Ujz)
 {
 case 0:
-Cuvq92chWE = bt78JgKj(-858553183, (unsigned short)-139335897, 229835677);
+Cuvq92chWE = bt78JgKj(-858553183, (unsigned short)-139335897, (char)229835677);
 break;
 case 1:
 K0wMz = (int)ceil(FBXu);
@@ -525,7 +525,7 @@ G1d03B = (int)floor(Z180Cksr_s);
 int i = 0;
 while (i < 10)
 {
-std::cout << Qb_M0qzIsQ << "CqxS76IcT" << Wn1v5((short)371657418, -436046950, (short)-1196507880, RJJPp4, hKd80TPU7) << bt78JgKj(lvX0We2, (unsigned short)-564077449, -918642683) << KoA_Smp_f0() << std::endl;
+std::cout << Qb_M0qzIsQ << "CqxS76IcT" << Wn1v5((short)371657418, -436046950, (short)-1196507880, RJJPp4, hKd80TPU7) << bt78JgKj(lvX0We2, (unsigned short)-564077449, (char)-918642683) << KoA_Smp_f0() << std::endl;
 ++i;
 }
 }

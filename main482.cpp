@@ -37,7 +37,7 @@ int main(void)
  unsigned char kN9kH_603S;
  kN9kH_603S = (unsigned char)-1945268070;
   short int  oTjm;
-  oTjm  =  -1871597785;
+  oTjm  =  (short)-1871597785;
  unsigned int s_sdMu;
  s_sdMu = -1228275897;
  long double VI2b3nq1E;
@@ -85,7 +85,7 @@ int main(void)
 
 std::cout << wH0Q74EXX(-491356916, f2MoC8Ah, (short)-1683731936, IqfZwj, CE2k_W14Rg) << yfN45ql(kYvy9UFmYy, f2MoC8Ah, (unsigned short)-1281829503) << std::endl;
 
-fGeQ = yfN45ql(406282607, 633804841, gl1_b);
+fGeQ = yfN45ql(406282607, (char)633804841, gl1_b);
 
 fN2WCaHgW = (unsigned int)(VI2b3nq1E);
 YzT5tR = (int)abs(I9_Ma);
@@ -146,7 +146,7 @@ case 2:
 fN2WCaHgW = yfN45ql(-1780679617, (char)1235659570, VI2b3nq1E);
 break;
 case 3:
-E10w8P8X = wH0Q74EXX(40120300, (short)-1850317756, 1872081357, fN2WCaHgW, 1993172973);
+E10w8P8X = wH0Q74EXX(40120300, (short)-1850317756, (short)1872081357, fN2WCaHgW, 1993172973);
 break;
 case 4:
 wF2POYu45 = (int)abs(eCh5Mi);

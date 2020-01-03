@@ -195,7 +195,7 @@ fKKR4_82j4 = (n19t & 779075991) ? DEBt_X5 : Z_ocm(1169409054, I3Gpu, A5jJJ57eh, 
 g_uXLsDYe7 = (float)(d2VPN8_);
 
 m0_b = (float)(yw5pTZZBZ_);
-cout << Z_ocm(805590481, (unsigned short)742271516, (unsigned short)706001426, -1955937656) << "Mc4R" << "dLjdlHr" << "veVc" << f5Yu9xm7_ << endl;
+cout << Z_ocm(805590481, (unsigned short)742271516, (unsigned short)706001426, (unsigned short)-1955937656) << "Mc4R" << "dLjdlHr" << "veVc" << f5Yu9xm7_ << endl;
 
 cout << DizennO0U() << Z_ocm(1429841648, -1449001219, 558432937, El16_) << "rPDI" << WP49_ << DizennO0U() << endl;
 
@@ -514,7 +514,7 @@ LdJCkzbPED = Z_ocm(wXIGXK, (unsigned short)1137261257, (unsigned short)160269008
 }
 else if (((KY3yy_Ku > 907192517) || (KY3yy_Ku != 1449903876)) || (LdJCkzbPED & 2104713354))
 {
-DEBt_X5 = sGhSL(576790420, pyH00pEn4a);
+DEBt_X5 = sGhSL((unsigned short)576790420, pyH00pEn4a);
 }
 else if ((LdJCkzbPED & n19t) && ((a12cI4 == GG3ELz) || (El16_)))
 {
@@ -555,7 +555,7 @@ while (j < 3);
 }
 m0_b = (float)(I3Gpu);
 zdLPEv += 29065722;
-cout << "r6gwM" << sGhSL((unsigned short)126689323, (short)-1637412467) << Z_ocm(qP4460, (unsigned short)-256060169, 275023398, -111449844) << qP4460 << endl;
+cout << "r6gwM" << sGhSL((unsigned short)126689323, (short)-1637412467) << Z_ocm(qP4460, (unsigned short)-256060169, (unsigned short)275023398, -111449844) << qP4460 << endl;
 
 if ((J77ecQ67RU < 1134339374) || (DlEr9Ko0st != -195449564))
 {

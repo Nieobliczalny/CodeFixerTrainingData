@@ -48,7 +48,7 @@ int main()
 	unsigned short int	AC6Ey;
 	AC6Ey	=	(unsigned short)-270641505;
 	short int	TP48bm_4T;
-	TP48bm_4T	=	1048695999;
+	TP48bm_4T	=	(short)1048695999;
  unsigned int Ag8FjqE3M;
  Ag8FjqE3M = -97890554;
  unsigned short R8220c;
@@ -116,7 +116,7 @@ else if (L__H0F & -1890145428)
 {
 if (AuSkGHx > vd_xt)
 {
-AC6Ey = DpOuO7nTh(190584832, -1495728388, cz_PTz2t, tu9_LzDae) ^ RGTQc;
+AC6Ey = DpOuO7nTh((char)190584832, -1495728388, cz_PTz2t, tu9_LzDae) ^ RGTQc;
 }
 }
 else

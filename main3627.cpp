@@ -35,7 +35,7 @@ int main(int argc, char** argv) {
   int  wLDpbJ6_;
   wLDpbJ6_  =  233574179;
   short  IwKr8qH;
-  IwKr8qH  =  1226912254;
+  IwKr8qH  =  (short)1226912254;
   double  PPm00j4hat;
   PPm00j4hat  =  1988587012;
   float  mooN_;
@@ -57,7 +57,7 @@ int main(int argc, char** argv) {
 	unsigned short int	b2p3zW87;
 	b2p3zW87	=	(unsigned short)-486909194;
     unsigned short int    g33y7Yf1i;
-    g33y7Yf1i    =    -1049132956;
+    g33y7Yf1i    =    (unsigned short)-1049132956;
  unsigned long C101F;
  C101F = -1691729213;
   unsigned long  b95_f2Z3V;
@@ -189,7 +189,7 @@ int main(int argc, char** argv) {
   unsigned short int  n16_xl;
   n16_xl  =  (unsigned short)1958947181;
 	unsigned short int	P09WYW;
-	P09WYW	=	621573741;
+	P09WYW	=	(unsigned short)621573741;
 
 {
 int i = 0;

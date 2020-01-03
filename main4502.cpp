@@ -404,7 +404,7 @@ while (j >= 0);
 }
 while (i < 1);
 }
-j548oU = UotjN(-690755518, (char)-692910333, (unsigned char)1519550410, 1270687044, S3R_PX3);
+j548oU = UotjN(-690755518, (char)-692910333, (unsigned char)1519550410, (unsigned char)1270687044, S3R_PX3);
 
 s7d4N = (int)(eXOHY);
 

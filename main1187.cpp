@@ -51,7 +51,7 @@ int main(void)
   short  AZYS;
   AZYS  =  (short)-1717207023;
 	short int	p5m5;
-	p5m5	=	771511805;
+	p5m5	=	(short)771511805;
  long long Kr6xas9M;
  Kr6xas9M = 841796828;
     long long    cYMi94NA3E;
@@ -123,7 +123,7 @@ int main(void)
  unsigned short P4_l6;
  P4_l6 = (unsigned short)-1187790905;
 	short int	N7A869419;
-	N7A869419	=	2118683290;
+	N7A869419	=	(short)2118683290;
   unsigned char  A4itPUK_B;
   A4itPUK_B  =  -1579140880;
   unsigned long long  AZkr6j3;
@@ -145,7 +145,7 @@ int main(void)
  unsigned char fD4N10pCu;
  fD4N10pCu = (unsigned char)130903800;
 	unsigned short	FJ9M;
-	FJ9M	=	373009120;
+	FJ9M	=	(unsigned short)373009120;
  int H9U5X;
  H9U5X = 1287605769;
     unsigned char    CkU2Zki;

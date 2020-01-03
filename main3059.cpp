@@ -261,7 +261,7 @@ case 3:
 KPBZr = Eysx(-1523379537, (short)2006264356, (char)893773781);
 break;
 case 4:
-Cgye6CJ = Eysx(Cgye6CJ, (short)-913111675, 453040027);
+Cgye6CJ = Eysx(Cgye6CJ, (short)-913111675, (char)453040027);
 break;
 case 5:
 RyA_t = C0c89();

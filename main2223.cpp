@@ -230,7 +230,7 @@ case 'd':
 hcv615_Pg6 = dLSUw_U((unsigned short)1804246914, Jb35QL, 1549339921, 230861890, 120884175);
 break;
 case 'e':
-hcv615_Pg6 = dLSUw_U(-630307465, Yj52u_30bb, -1689348343, -1860995705, C79E6H28L);
+hcv615_Pg6 = dLSUw_U((unsigned short)-630307465, Yj52u_30bb, -1689348343, -1860995705, C79E6H28L);
 break;
 case 'f':
 VfvIWL /= n91q9Wzga;

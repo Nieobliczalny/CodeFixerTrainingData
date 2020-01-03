@@ -145,7 +145,7 @@ case 1:
 x0PJE_ = DGCuFP50((unsigned char)-1303874043, Ky8eA, (unsigned short)-2111356387);
 break;
 case 2:
-yk6_SHXHR = Glvv9s35R(W_im9, (short)114042530, Bd8POi, -592678556);
+yk6_SHXHR = Glvv9s35R(W_im9, (short)114042530, Bd8POi, (char)-592678556);
 break;
 case 3:
 VHVL = Glvv9s35R(209751608, H89eoG1C, 2012578189, W_im9);

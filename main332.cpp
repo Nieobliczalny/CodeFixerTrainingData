@@ -49,7 +49,7 @@ int main(int argc, char** argv) {
     char    mqKk33;
     mqKk33    =    (char)-774958671;
   unsigned char  eq8OF5;
-  eq8OF5  =  -939840245;
+  eq8OF5  =  (unsigned char)-939840245;
 	int	pLKRgod;
 	pLKRgod	=	-1320282949;
   long double  UWr__;
@@ -248,7 +248,7 @@ case 'd':
 Ks_19W = XkLtDw((unsigned short)2008649477);
 break;
 }
-std::cout << lDXxkO8v_E((unsigned short)241699802) << lDXxkO8v_E(AP402_8Aua) << lDXxkO8v_E(-131169557) << std::endl;
+std::cout << lDXxkO8v_E((unsigned short)241699802) << lDXxkO8v_E(AP402_8Aua) << lDXxkO8v_E((unsigned short)-131169557) << std::endl;
 
 IH7Pc = tPbjsJwT5C - 1680726735;
 

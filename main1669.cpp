@@ -37,7 +37,7 @@ int main(int argc, char** argv) {
     unsigned short    BQ9_t;
     BQ9_t    =    (unsigned short)-740484767;
 	short int	W8Io;
-	W8Io	=	1521849841;
+	W8Io	=	(short)1521849841;
  unsigned short int n5X5Ov4;
  n5X5Ov4 = (unsigned short)28539733;
 	double	N_738j43n;

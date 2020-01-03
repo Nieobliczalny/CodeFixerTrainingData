@@ -239,7 +239,7 @@ std::cout << xPddL_oF8m(e3HtI, (char)1565258541, (unsigned short)875325108, v0OR
 }
 if (Z3P5Qbjg9I((char)-1234997549, -752747067) == 0)
 {
-	cJF79dkN1u = EKJ5XYe14g / Z3P5Qbjg9I(-1234997549, -752747067);
+	cJF79dkN1u = EKJ5XYe14g / Z3P5Qbjg9I((char)-1234997549, -752747067);
 }
 {
 int i = 9;
@@ -364,7 +364,7 @@ case 5:
 TW4QH995 = (JRHAi_fhw <= z_h1JZL) ? -563100469 : -1314317706;
 break;
 case 6:
-Yr4E = xPddL_oF8m((unsigned short)-1741345932, -178019042, 403854441, CVlS, Yrh975d_);
+Yr4E = xPddL_oF8m((unsigned short)-1741345932, (char)-178019042, 403854441, CVlS, Yrh975d_);
 break;
 case 7:
 G41cijUL = tiNy3(G41cijUL, E8qx, IGXf09H);

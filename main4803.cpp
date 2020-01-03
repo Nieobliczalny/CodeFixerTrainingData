@@ -23,7 +23,7 @@ int main() {
     unsigned char    gAwc_UYfv    =    (unsigned char)-262655878;
     int    ndy7    =    -1060092871;
  unsigned long long uPO1sycz = -1841950538;
-  short  sGjv  =  654478320;
+  short  sGjv  =  (short)654478320;
  unsigned char IPVS = (unsigned char)-700574957;
  unsigned short int e4NKToDZee = 393899336;
 	float	Y0Pv82yCE	=	-809555364;
@@ -33,7 +33,7 @@ int main() {
   int  euE2xbGdE  =  0;
   unsigned int  C1aky  =  -1334931614;
 	short	w7p6Rt	=	(short)-953275954;
-  unsigned char  k1M9  =  203509714;
+  unsigned char  k1M9  =  (unsigned char)203509714;
 	unsigned long long	N_i2dWi	=	-834376140;
     long long    Ji6131ws2    =    0;
  long I3RT = 1363149601;
@@ -44,7 +44,7 @@ int main() {
 
 cout << "I50Bwv_8RI" << Sq612XC(uPO1sycz, e4NKToDZee, g3OnP1244) << endl;
 
-cout << "z5U9tvqu" << ndy7 << Sq612XC((char)1955353123, e4NKToDZee, g3OnP1244) << Nk7bbcYC8(373158721, 204214817, -996339218, fd43EI9izC) << Nk7bbcYC8(1680791708, e4NKToDZee, g3OnP1244, 1111920514) << endl;
+cout << "z5U9tvqu" << ndy7 << Sq612XC((char)1955353123, e4NKToDZee, g3OnP1244) << Nk7bbcYC8(373158721, 204214817, (short)-996339218, fd43EI9izC) << Nk7bbcYC8(1680791708, e4NKToDZee, g3OnP1244, 1111920514) << endl;
 cout << Kl15 << Nk7bbcYC8(uPO1sycz, e4NKToDZee, g3OnP1244, fd43EI9izC) << Nk7bbcYC8(uPO1sycz, -1624098595, g3OnP1244, fd43EI9izC) << endl;
 
 try

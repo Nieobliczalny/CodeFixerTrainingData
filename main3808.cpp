@@ -30,7 +30,7 @@ int main()
   short int  zqM5;
   zqM5  =  (short)1552581424;
   short  k8F5;
-  k8F5  =  1404001252;
+  k8F5  =  (short)1404001252;
  unsigned short qefZc7;
  qefZc7 = (unsigned short)-1968678416;
 	int	I417c83j;
@@ -46,7 +46,7 @@ int main()
     short    o_umLDd;
     o_umLDd    =    (short)1721733328;
     short    B_RK94r;
-    B_RK94r    =    46596280;
+    B_RK94r    =    (short)46596280;
 	float	IERJA43e0i;
 	IERJA43e0i	=	-1854245686;
  int F8ZzQ60m;
@@ -98,7 +98,7 @@ int main()
     unsigned short    VD4si_qF;
     VD4si_qF    =    (unsigned short)617529727;
  unsigned char fh92Zr3A2;
- fh92Zr3A2 = -995588260;
+ fh92Zr3A2 = (unsigned char)-995588260;
     long    zanF2J;
     zanF2J    =    0;
  short int QvJj6;

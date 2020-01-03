@@ -252,7 +252,7 @@ AU_4j70 = (iFvpKX & sVWLW80hUc) ? e8JWffxp1 : AOu_0;
 }
 else
 {
-aFQaMs0 = RlV8774_Z((unsigned short)892672523, -672426188, 1332186245, TKvfk0, 669266440);
+aFQaMs0 = RlV8774_Z((unsigned short)892672523, (unsigned char)-672426188, 1332186245, TKvfk0, 669266440);
 }
 }
 else

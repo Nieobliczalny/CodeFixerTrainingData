@@ -48,7 +48,7 @@ int main(int argc, char** argv)
     long long    xi_0;
     xi_0    =    0;
 	char	cRu4_3Y6rM;
-	cRu4_3Y6rM	=	-1129026710;
+	cRu4_3Y6rM	=	(char)-1129026710;
   unsigned short  mLS9TviJT8;
   mLS9TviJT8  =  (unsigned short)-1734205937;
 	short	rqj76x;

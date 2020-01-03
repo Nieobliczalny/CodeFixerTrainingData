@@ -39,7 +39,7 @@ int main(int argc, char** argv)
 
 cout << SPp3E1No << JW7CZV5z_(-832992880, -980377401, r070t14b, 1368831047) << r070t14b << uIi6QOym09(xGwjMsd9, SPp3E1No) << endl;
 b9_N06ko = SW8iYnl(-1851949605, (unsigned short)-879156681, xGwjMsd9, JHl0s, SPp3E1No);
-r070t14b = JHl0s / SW8iYnl(918218578, (unsigned short)-68852856, xGwjMsd9, -401702618, 317693492);
+r070t14b = JHl0s / SW8iYnl(918218578, (unsigned short)-68852856, xGwjMsd9, -401702618, (unsigned short)317693492);
 
 JHl0s = SPp3E1No & 1982296106;
 for (int i = 5; i >= 0; --i)
@@ -309,7 +309,7 @@ case 3:
 SPp3E1No++;
 break;
 case 4:
-xGwjMsd9 = H_P1n(1939049900, 927898089, -410905393);
+xGwjMsd9 = H_P1n(1939049900, (unsigned char)927898089, -410905393);
 break;
 }
 cout << N4E2I028H << SW8iYnl(xGwjMsd9, r070t14b, -1840497307, 347432178, nt_Q6_) << "xG1V" << endl;

@@ -38,7 +38,7 @@ int main(void)
   short  v74IMtb4M;
   v74IMtb4M  =  (short)925350010;
 	unsigned char	GnT_780_E;
-	GnT_780_E	=	1495087657;
+	GnT_780_E	=	(unsigned char)1495087657;
  short int GHPv79x6t;
  GHPv79x6t = 837926474;
   short int  EZqgmCI;
@@ -80,7 +80,7 @@ int main(void)
   unsigned short  gG0p4b;
   gG0p4b  =  (unsigned short)1015291096;
     unsigned char    Y3554;
-    Y3554    =    2016368793;
+    Y3554    =    (unsigned char)2016368793;
 	unsigned char	m356x0;
 	m356x0	=	1744673485;
 	float	bNK6YHLfg;

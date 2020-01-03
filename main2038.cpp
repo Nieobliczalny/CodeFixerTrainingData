@@ -113,7 +113,7 @@ int main()
   unsigned short int  eL86UF;
   eL86UF  =  (unsigned short)-1781752346;
   unsigned short  Mndew_xw;
-  Mndew_xw  =  1879176387;
+  Mndew_xw  =  (unsigned short)1879176387;
   short int  VB5U9;
   VB5U9  =  0;
  unsigned char Z6cg;
@@ -143,7 +143,7 @@ int main()
     unsigned short    G87ZC6S;
     G87ZC6S    =    (unsigned short)-831542596;
 	short int	TrKY04N;
-	TrKY04N	=	546268578;
+	TrKY04N	=	(short)546268578;
   unsigned long long  VA63yL5PW;
   VA63yL5PW  =  -74645538;
  unsigned long long Fkg2xi2u2;

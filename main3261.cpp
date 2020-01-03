@@ -60,7 +60,7 @@ int i = 3;
 while (i >= 0)
 {
 --i;
-r25o = K0d6((char)-330519804, 98521040);
+r25o = K0d6((char)-330519804, (short)98521040);
 }
 }
 c1694 = K0d6(c1694, Uwx48M4L);
@@ -315,7 +315,7 @@ a_09Ox2 = tlX6vSp((unsigned char)-487066888, (unsigned short)-1142924894, (short
 break;
 case 'c':
 case 'C':
-a_09Ox2 = K0d6(720890973, 2032837011);
+a_09Ox2 = K0d6((char)720890973, 2032837011);
 break;
 default:
 hSAAK = X3QSy(U8x3tEw, -1915073094, 837459963);

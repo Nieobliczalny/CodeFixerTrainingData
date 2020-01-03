@@ -149,7 +149,7 @@ for (int i = 1; i >= 0; i--)
 eFRkV3ta6 = (double)(R0H2);
 }
 
-XQ2W3wF = cR7LFk2n16((unsigned char)-1566929251, (short)-670714886, (unsigned short)-219345231, TLS0GLO, -198741551);
+XQ2W3wF = cR7LFk2n16((unsigned char)-1566929251, (short)-670714886, (unsigned short)-219345231, TLS0GLO, (unsigned char)-198741551);
 
 y_q__1 = -1990746044 / XQ2W3wF;
 

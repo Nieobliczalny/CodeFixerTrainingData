@@ -240,7 +240,7 @@ if ((s667e == 1478178495) || (INAP65Qi0b != D8g_1))
 {
 if (Iozfr8KZG == -130086042)
 {
-cout << Jas53fpEC((unsigned short)-111984678, -1690023173, (unsigned short)-48830358, -540275138, hZ_3Nmz_nE) << Jas53fpEC(b102NFRjm, s0T0r, (unsigned short)-1165696570, 1401480221, hZ_3Nmz_nE) << vXfou(-219015796, 2127557793, c487, l_U7N) << N7ePW << "QFprK5" << endl;
+cout << Jas53fpEC((unsigned short)-111984678, -1690023173, (unsigned short)-48830358, -540275138, hZ_3Nmz_nE) << Jas53fpEC(b102NFRjm, s0T0r, (unsigned short)-1165696570, 1401480221, hZ_3Nmz_nE) << vXfou((unsigned char)-219015796, 2127557793, c487, l_U7N) << N7ePW << "QFprK5" << endl;
 }
 else if ((xqdcy1 & -172377818) && (s0T0r == -779411773))
 {
@@ -285,7 +285,7 @@ case 2:
 DPxO7I3U = vXfou((unsigned char)664703203, acoa, c487, eMil);
 break;
 case 3:
-r18l = vXfou(-89412988, 960086679, -880676425, -1315014570);
+r18l = vXfou((unsigned char)-89412988, 960086679, -880676425, -1315014570);
 break;
 case 4:
 uC4h2 = R_72 >> 276838332;
@@ -380,7 +380,7 @@ xt9LmXtyJ5 = (unsigned int)(qQhx);
 INAP65Qi0b = Jas53fpEC(PG29_, lo2wUp2c, (unsigned short)-316409674, 662451535, -360071095);
 try
 {
-cout << Yf_f00A4C << Jas53fpEC((unsigned short)803059035, lo2wUp2c, (unsigned short)963062215, 232344644, Lth2mF_11K) << "Py7hVP" << "o1YrSI8V" << Jas53fpEC(1624966541, lo2wUp2c, gj_nPOzF9_, 2000149614, -1953134087) << endl;
+cout << Yf_f00A4C << Jas53fpEC((unsigned short)803059035, lo2wUp2c, (unsigned short)963062215, 232344644, Lth2mF_11K) << "Py7hVP" << "o1YrSI8V" << Jas53fpEC((unsigned short)1624966541, lo2wUp2c, gj_nPOzF9_, 2000149614, -1953134087) << endl;
 }
 catch (int& errorCode)
 {

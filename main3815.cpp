@@ -30,7 +30,7 @@ int main(void)
     unsigned long long    S6uVOlM7j    =    201061812;
  long long l0hHq35W = 627960407;
   short int  S200S  =  (short)-1633502624;
-  unsigned short  Z9cc2we  =  -1252883782;
+  unsigned short  Z9cc2we  =  (unsigned short)-1252883782;
   unsigned short  oFbFLO1rK0  =  1247657953;
 	long long	O_rr	=	1789801749;
 	long	GRCK9D	=	1581154358;

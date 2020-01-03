@@ -25,7 +25,7 @@ int main() {
     double    GWiWz_EP4    =    -1300716736;
 	short	M29F5bF30	=	(short)-857634367;
     long    T_gRH    =    0;
-	char	U9ZGaK2kd	=	-1350384965;
+	char	U9ZGaK2kd	=	(char)-1350384965;
     unsigned char    d56ZBx06    =    1164844957;
   int  u7622Rh  =  -2123869272;
 	long double	Z2ad9	=	-1277603687;

@@ -297,7 +297,7 @@ r3P76zLb2 = lctyjJ50T((unsigned short)-1428096450, (unsigned short)-449066902, (
 }
 else if (((I0sy9h == 412171826) || (iwZIn48_i4)) && (oaA_))
 {
-d2Psf = FSn_0L(d2Psf, 1856413458, Gq3e9, -488830143, -1074263398);
+d2Psf = FSn_0L(d2Psf, 1856413458, Gq3e9, (short)-488830143, -1074263398);
 }
 else if (yAyL534 != n1W7Ci7r_)
 {

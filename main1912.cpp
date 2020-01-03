@@ -49,7 +49,7 @@ int main() {
  short W1_Nl0tc_G;
  W1_Nl0tc_G = (short)1290938111;
  unsigned char BtKz;
- BtKz = 1919978085;
+ BtKz = (unsigned char)1919978085;
     unsigned int    Kl_KS1_;
     Kl_KS1_    =    -1628990796;
 	short int	j9M9Rsj;
@@ -75,7 +75,7 @@ int main() {
   unsigned char  SYpRh;
   SYpRh  =  (unsigned char)1090102423;
   unsigned char  QxF__f0OT0;
-  QxF__f0OT0  =  932113125;
+  QxF__f0OT0  =  (unsigned char)932113125;
     double    q2C_C4DbG;
     q2C_C4DbG    =    -1357138041;
   double  vtw0sg9G;

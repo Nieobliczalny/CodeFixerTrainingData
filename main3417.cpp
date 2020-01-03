@@ -28,7 +28,7 @@ int main() {
     long double    aLg0xf1e4s    =    677988702;
   int  fUa6  =  757967209;
   unsigned long long  SHr7py  =  -831457715;
-	char	J44CCR2ju8	=	842881569;
+	char	J44CCR2ju8	=	(char)842881569;
   long  g3Z5hiG  =  -2085918264;
     long    mLb21    =    1380689054;
   short  fi01bCR2f8  =  (short)-1001148260;

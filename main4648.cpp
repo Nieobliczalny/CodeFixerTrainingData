@@ -35,7 +35,7 @@ int main() {
  unsigned short int l_sK7LP = (unsigned short)1762504332;
 	short	Msg1_qyl	=	(short)2072273512;
     long double    k58wnmNmz    =    1952687400;
- unsigned char f3e_g = -1723921939;
+ unsigned char f3e_g = (unsigned char)-1723921939;
  long long D12676_I6 = 0;
   short int  t67IE  =  -345286313;
 	float	h7IkgpLfK	=	1136878134;
@@ -46,7 +46,7 @@ int main() {
  unsigned char ySh6E = (unsigned char)1383743998;
 	unsigned char	HxUQdV_mB	=	(unsigned char)-1278236354;
     short    w486Q6I2    =    (short)-1525772318;
-  short int  wX_5Qa  =  -742754238;
+  short int  wX_5Qa  =  (short)-742754238;
  long double bM_w2isu = 1528039493;
   unsigned char  sfld  =  874280458;
 	long	ze5g2wz	=	1906408629;
@@ -68,7 +68,7 @@ int main() {
   double  j67E  =  2120878455;
 	short int	MaD7	=	(short)-304212731;
 	short int	C02lY	=	(short)287150610;
-    char    I7gW    =    141613453;
+    char    I7gW    =    (char)141613453;
  char QQ60Ro = 273083679;
   unsigned int  jSwUEG9y_  =  384631145;
     unsigned short    hcNO    =    0;
@@ -84,7 +84,7 @@ int main() {
 	float	o27Ey	=	189338533;
 	long double	wr_I	=	-1884114298;
 	unsigned short int	s7uIYFJx7V	=	(unsigned short)-600145030;
-	short	jPE1h6	=	1760286096;
+	short	jPE1h6	=	(short)1760286096;
 	int	KfPOZMD	=	2016650549;
 	long long	yDZi5pJ	=	2074663101;
 	unsigned short	W0pwm_	=	(unsigned short)-414518846;
@@ -96,7 +96,7 @@ int main() {
  unsigned char gu6XR3G26C = (unsigned char)1599306812;
 	double	BUIk6udV9	=	-2101202274;
     unsigned long long    DlIV91    =    -1513095042;
-  unsigned short int  i6mo30K955  =  -774034895;
+  unsigned short int  i6mo30K955  =  (unsigned short)-774034895;
   short  Gt3_6t93  =  (short)-1250097952;
     char    EACY1r7OX    =    -982217257;
 	unsigned char	v_6q	=	-1140914238;
@@ -129,7 +129,7 @@ int main() {
 	unsigned short	coK203V0	=	(unsigned short)1385329720;
  unsigned char P1x6 = (unsigned char)-2075243803;
 	long double	kPr__S	=	205361044;
-    unsigned short int    IF894C4R    =    698929629;
+    unsigned short int    IF894C4R    =    (unsigned short)698929629;
 	long	O4wDa3	=	-1129171665;
   unsigned short int  vC_M  =  2068144342;
 

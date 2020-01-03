@@ -58,7 +58,7 @@ cout << DlK_Bvh(O77l9_621K, (char)1278027235, fYw9huZO, C6K3_iO_) << p0tU5_T << 
 }
 else
 {
-cout << DlK_Bvh(O77l9_621K, (char)1622167271, fYw9huZO, C6K3_iO_) << DlK_Bvh(74356329, Z54s7, 1365758742, C6K3_iO_) << endl;
+cout << DlK_Bvh(O77l9_621K, (char)1622167271, fYw9huZO, C6K3_iO_) << DlK_Bvh((unsigned short)74356329, Z54s7, 1365758742, C6K3_iO_) << endl;
 }
 }
 else

@@ -43,7 +43,7 @@ int main(void) {
  unsigned char LDb8tIM;
  LDb8tIM = (unsigned char)964710264;
 	short	e7x2;
-	e7x2	=	-1793326132;
+	e7x2	=	(short)-1793326132;
  char Py5J1616;
  Py5J1616 = 506464407;
 	long	u539;

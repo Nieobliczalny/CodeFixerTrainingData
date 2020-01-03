@@ -43,7 +43,7 @@ int main() {
   unsigned short int  g6ix8ap;
   g6ix8ap  =  (unsigned short)2074156104;
  char df3e_AL1qU;
- df3e_AL1qU = -631574960;
+ df3e_AL1qU = (char)-631574960;
     unsigned short int    w0ZMj08u;
     w0ZMj08u    =    (unsigned short)-1043506013;
 	unsigned short int	RLF6Y;
@@ -159,7 +159,7 @@ int main() {
  unsigned char H39pmE;
  H39pmE = (unsigned char)2081951757;
   short int  fn4Oa2;
-  fn4Oa2  =  -2145500338;
+  fn4Oa2  =  (short)-2145500338;
  unsigned char b82P__Zw0u;
  b82P__Zw0u = (unsigned char)-2118975717;
     long double    LTKx9rqS_z;

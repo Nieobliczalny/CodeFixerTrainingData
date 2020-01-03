@@ -125,7 +125,7 @@ dQg53pN3B = jRRjn9(v07unWtlm, (short)1492051281, (short)951519958, yH9u);
 }
 else
 {
-cout << jRRjn9((unsigned char)933568917, F0v26oHNp, -577349913, yH9u) << "xCJ3148j8W" << endl;
+cout << jRRjn9((unsigned char)933568917, F0v26oHNp, (short)-577349913, yH9u) << "xCJ3148j8W" << endl;
 }
 }
 switch (oA71bDV)
@@ -140,7 +140,7 @@ case 'c':
 Y_S4c_5qE = jRRjn9((unsigned char)-776819396, JuGEM6, (short)1541331316, -1807975892);
 break;
 case 'd':
-qD77w8N6 = jRRjn9((unsigned char)1782747944, 1163488788, O656_2449, Q_hlS59pQ6);
+qD77w8N6 = jRRjn9((unsigned char)1782747944, (short)1163488788, O656_2449, Q_hlS59pQ6);
 break;
 case 'e':
 buQ6vQ9K60 = (int)abs(Vmr7LTAxv4);

@@ -70,7 +70,7 @@ int main(void)
     unsigned char    OL1uqHo;
     OL1uqHo    =    (unsigned char)-1949493846;
 	unsigned char	v4iMGzLZ;
-	v4iMGzLZ	=	-1289472866;
+	v4iMGzLZ	=	(unsigned char)-1289472866;
   short  FKs1aLIr_;
   FKs1aLIr_  =  0;
     char    x65y;
@@ -86,7 +86,7 @@ int main(void)
  char Yavh;
  Yavh = (char)495513195;
   unsigned char  pV4y;
-  pV4y  =  -1351884277;
+  pV4y  =  (unsigned char)-1351884277;
  short MM1sZDTaD;
  MM1sZDTaD = (short)-1321726817;
 	char	eM5iu7;
@@ -140,7 +140,7 @@ int main(void)
  short int cr_U;
  cr_U = (short)967783975;
  char gak_7;
- gak_7 = 312885808;
+ gak_7 = (char)312885808;
  float yGg0O_7;
  yGg0O_7 = -1234224311;
 	unsigned short int	c_FpxNX8R0;

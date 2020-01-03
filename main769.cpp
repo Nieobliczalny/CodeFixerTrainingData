@@ -21,7 +21,7 @@ int main(int argc, char** argv) {
   int  pk4q7UxR7  =  814921467;
  unsigned long DxrB_45FtS = -891324315;
  unsigned char d3Bdl13 = 0;
-    char    I52Of2Crzo    =    1720104773;
+    char    I52Of2Crzo    =    (char)1720104773;
 	unsigned char	r87R	=	0;
     unsigned short    w2gv    =    379048972;
   unsigned int  JxRANgN  =  1189178986;

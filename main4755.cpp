@@ -88,7 +88,7 @@ else
 {
 if (Gz6H5)
 {
-yh_u = (hH58713IYA >= Yaf4c9b) ? (unsigned char)2030702873 : BsyVEJaNaG(gZ7796l, (unsigned short)-1807959944, -962012044, 608755626, 2039177454);
+yh_u = (hH58713IYA >= Yaf4c9b) ? (unsigned char)2030702873 : BsyVEJaNaG(gZ7796l, (unsigned short)-1807959944, -962012044, (unsigned char)608755626, 2039177454);
 }
 else if (MdS3Vww0 >= HIEu)
 {
@@ -124,7 +124,7 @@ case 0:
 gZ7796l = yfTxG((unsigned char)2065371170, (unsigned short)-1335748372, B_487BH, hH58713IYA, (char)722922413);
 break;
 case 1:
-D078Mt0 = GkfY(-93698447, 1748354271, W_Dvq734);
+D078Mt0 = GkfY(-93698447, (short)1748354271, W_Dvq734);
 break;
 default:
 Gz6H5 = s4dPRa_q6 % 1961100703;

@@ -40,7 +40,7 @@ int main() {
   long  c0Gm3u_M9  =  0,  Q4z__8QLb  =  0,  Jm2DipLs  =  0;
   long  xwUznnmY_A  =  1812233361,  VPEEu09z8  =  -1212244781,  FQ4H_0  =  -1002122364,  cSN71ed  =  -615153345,  JdSzW  =  1771108442,  ybVGI11  =  1955206602,  I7220XFT  =  1222129745,  NGBf  =  1447581953,  g15V2PZ3aE  =  1562334570,  l4N1bCr3  =  1340283594;
 
-std::cout << RSFvD(xwUznnmY_A, 1513902153, (short)313592882) << g15V2PZ3aE << PQMz36_Zi5((unsigned short)-430867639, 461357469, (unsigned char)-1050607017) << q0dMW(614885373) << D8_T_5i(xwUznnmY_A) << std::endl;
+std::cout << RSFvD(xwUznnmY_A, 1513902153, (short)313592882) << g15V2PZ3aE << PQMz36_Zi5((unsigned short)-430867639, 461357469, (unsigned char)-1050607017) << q0dMW((unsigned char)614885373) << D8_T_5i(xwUznnmY_A) << std::endl;
 cSN71ed = PQMz36_Zi5(xwUznnmY_A, VPEEu09z8, FQ4H_0) / c0Gm3u_M9;
 if (Jm2DipLs & c8YS)
 {
@@ -202,7 +202,7 @@ I7220XFT = RSFvD((short)-1582672085, 2019569157, (short)167709889);
 break;
 case 'i':
 case 'I':
-ybVGI11 = RSFvD((short)-442665635, g15V2PZ3aE, -1471412581);
+ybVGI11 = RSFvD((short)-442665635, g15V2PZ3aE, (short)-1471412581);
 break;
 case 'j':
 case 'J':

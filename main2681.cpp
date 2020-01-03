@@ -334,7 +334,7 @@ uvcMijBbEC = D5uJ8(XWCVFOWDc, 153073413, (unsigned short)1670360823, xbbx2YxC, B
 }
 else
 {
-std::cout << K9yn((unsigned short)942939821, 1673857694, -169184318, xbbx2YxC, 1588157023) << D5uJ8((unsigned short)-1094997717, -1412291777, WrMhID6OM, 901182353, -842752190) << re07wB0(2131432578, uvcMijBbEC) << std::endl;
+std::cout << K9yn((unsigned short)942939821, 1673857694, -169184318, xbbx2YxC, 1588157023) << D5uJ8((unsigned short)-1094997717, -1412291777, WrMhID6OM, 901182353, (unsigned short)-842752190) << re07wB0(2131432578, uvcMijBbEC) << std::endl;
 }
 }
 else
@@ -643,7 +643,7 @@ VBU56D = D5uJ8((unsigned short)1145620052, VBU56D, (unsigned short)-1609754171, 
 }
 else if (d8S86xSK & -756206559)
 {
-H6_36Y = K9yn(H6_36Y, nba_m8R_ds, B_Z0r4, 1568457634, -293443867);
+H6_36Y = K9yn(H6_36Y, nba_m8R_ds, B_Z0r4, (unsigned short)1568457634, -293443867);
 }
 else if ((w7R_ < dY3aBswoSe) && (VBU56D <= t1mfF))
 {

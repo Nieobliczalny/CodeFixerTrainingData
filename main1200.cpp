@@ -50,7 +50,7 @@ int main(int argc, char** argv)
   unsigned int  f_q9;
   f_q9  =  -1865028845;
   short int  H5uTk1OKq;
-  H5uTk1OKq  =  878683249;
+  H5uTk1OKq  =  (short)878683249;
 	char	DTW_x;
 	DTW_x	=	(char)-1005151499;
 	unsigned long	FK32zld4_;
@@ -110,7 +110,7 @@ int main(int argc, char** argv)
     long    fT6Q;
     fT6Q    =    -1553132532;
  unsigned short p32Vd9;
- p32Vd9 = 1315991954;
+ p32Vd9 = (unsigned short)1315991954;
  int xgGh0;
  xgGh0 = 1307597911;
  float kWy873yD1;

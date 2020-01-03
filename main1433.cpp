@@ -17,7 +17,7 @@ int main(int argc, char** argv) {
 	ISh_n51	=	(unsigned short)1082149929;
 	tckwTjm6	=	(unsigned short)262434740;
 	K2dS947VT	=	(unsigned short)-1263324320;
-	AZehlQS	=	-492642221;
+	AZehlQS	=	(unsigned short)-492642221;
 	Ew5d2ln53	=	-146304070;
 	O86BJlZ9z	=	206335605;
 	c3uM6T	=	1241018599;

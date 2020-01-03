@@ -390,7 +390,7 @@ std::cout << vCkWu8L(rp2RirfW3w, (unsigned short)-480216695, MDUCEH5, (char)-178
 while (i >= 0);
 }
 
-KVty = FZn1_q4(-1558896591, giITj6yAb, -2002312010, (short)367899549, -294897344);
+KVty = FZn1_q4(-1558896591, giITj6yAb, -2002312010, (short)367899549, (unsigned char)-294897344);
 H36T = (char)(Vxt94t6M3);
 {
 int i = 2;

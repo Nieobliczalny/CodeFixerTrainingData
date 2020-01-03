@@ -309,7 +309,7 @@ std::cout << T885I(G1VEu150ua, (unsigned char)-1487150240, (char)-1722209986, 30
 }
 else
 {
-T36_Ow8k = T885I(T36_Ow8k, (unsigned char)-770327502, -1266598491, -1648718206);
+T36_Ow8k = T885I(T36_Ow8k, (unsigned char)-770327502, (char)-1266598491, -1648718206);
 }
 
 vrOdKO = rk01n034_(-609731191, 123964979, -1943219854) / w17bD0TE;

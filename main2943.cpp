@@ -32,7 +32,7 @@ int main() {
 	unsigned short	IxX6Z1lgOp;
 	IxX6Z1lgOp	=	(unsigned short)1887848816;
 	unsigned short	kvh_Q;
-	kvh_Q	=	77327435;
+	kvh_Q	=	(unsigned short)77327435;
     char    YdBC;
     YdBC    =    -405512405;
     long    JH6xKx;
@@ -272,7 +272,7 @@ case 7:
 q1nOGa = ayQ2(q1nOGa, (short)-170625409);
 break;
 case 8:
-FL5mIzX7Y = ayQ2(FL5mIzX7Y, 807632728);
+FL5mIzX7Y = ayQ2(FL5mIzX7Y, (short)807632728);
 break;
 case 9:
 GI8F7 = (int)ceil(I9HP1s4n);
@@ -283,7 +283,7 @@ break;
 }
 for (int i = 0; i < 1; ++i)
 {
-FL5mIzX7Y = MDuh8((unsigned short)1774268548, -978919240);
+FL5mIzX7Y = MDuh8((unsigned short)1774268548, (unsigned short)-978919240);
 }
 
 for (int i = 0; i < 3; i++)
@@ -337,7 +337,7 @@ q1nOGa = B8xI(752864771, (short)766824789, V_m6q, -1089520209);
 q1nOGa = B8xI(937689119, KNd79_U, Miu_2gLHc, YdBC);
 try
 {
-K30n1aZ = B8xI(1592566587, (short)-1365504172, -1532549284, Miu_2gLHc);
+K30n1aZ = B8xI(1592566587, (short)-1365504172, (short)-1532549284, Miu_2gLHc);
 }
 catch (int& errorCode)
 {

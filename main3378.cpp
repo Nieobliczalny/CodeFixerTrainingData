@@ -33,7 +33,7 @@ int main(void) {
  long X2EyYl2r6 = 875996757;
 	double	j8N292Py	=	1905307687;
     char    Xje8V0    =    (char)575098689;
-    short int    QzkwN9K73    =    -1152548607;
+    short int    QzkwN9K73    =    (short)-1152548607;
 	char	rq3M	=	(char)1399739718;
     unsigned short    l80C5cw7    =    286398867;
     float    efQzT3AY    =    879774141;

@@ -39,7 +39,7 @@ int main() {
     unsigned short    m4inV    =    (unsigned short)-1876643359;
   unsigned long long  TPWduSg  =  0;
 	short	Rb4V6	=	(short)1186298659;
-    short int    HPFQ_    =    -1495441135;
+    short int    HPFQ_    =    (short)-1495441135;
     long    PliQO0S0    =    0;
 	unsigned int	E6j_	=	1415604665;
   long  Z1Jdn90kB  =  -947691820;
@@ -63,7 +63,7 @@ if ((Z1Jdn90kB <= 826266402) && ((Hq00fh7 == GaVIu) && (hSHPN652D)))
 {
 if (E6j_ != qTq1SfVQ)
 {
-m4inV = YdIV0t(m4inV, (short)-583815363, 1249365120, TPWduSg);
+m4inV = YdIV0t(m4inV, (short)-583815363, (char)1249365120, TPWduSg);
 }
 else if (((a0_ZtTfq1 <= G07b1B) || (d__J7i >= 604203126)) && (d__J7i > 504912401))
 {

@@ -37,7 +37,7 @@ int main(void)
     float    aPF5G;
     aPF5G    =    -399833378;
 	char	niMs465;
-	niMs465	=	-534874931;
+	niMs465	=	(char)-534874931;
 	unsigned char	Z_q_1L;
 	Z_q_1L	=	(unsigned char)163750280;
 	long	vC0c;

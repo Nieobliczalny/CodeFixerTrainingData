@@ -71,7 +71,7 @@ liPNFquuE6 = R4w_e((unsigned char)958615704);
 }
 }
 
-liPNFquuE6 = biNuawO64w(liPNFquuE6, J321y, (unsigned short)801929651, (unsigned char)1341599437, -811033064);
+liPNFquuE6 = biNuawO64w(liPNFquuE6, J321y, (unsigned short)801929651, (unsigned char)1341599437, (unsigned short)-811033064);
 
 HY_8 <<= 1588912882;
 

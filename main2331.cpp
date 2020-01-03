@@ -22,7 +22,7 @@ int main(void) {
 	unsigned long	l51D	=	543064132;
   unsigned char  dsLb  =  (unsigned char)-1720315073;
  char Cvj9va4 = (char)-793200683;
-    short    P6fXu_F6    =    383726734;
+    short    P6fXu_F6    =    (short)383726734;
 	float	RP43	=	-1127342740;
 	unsigned char	FhEMYG	=	-293708659;
     double    k_Rz    =    -2030736148;
@@ -34,7 +34,7 @@ int main(void) {
   unsigned long  m08hVplib  =  1462078878;
 	short int	LKF6_3HPn	=	(short)-1796713691;
   short int  eDKk4CK  =  (short)-169523613;
- short DC4Qyp90 = -659411797;
+ short DC4Qyp90 = (short)-659411797;
   long double  c_s_y  =  -518204103;
 	unsigned int	MV5m	=	578956015;
  long L_38Vkj = 0;
@@ -48,7 +48,7 @@ int main(void) {
  short int Uw10Pvu5CW = (short)100761803;
 	char	h1sJ	=	(char)-212168928;
     unsigned short int    G2ECu_c_    =    (unsigned short)-692536901;
-  short int  pkJ3PU28  =  1761777319;
+  short int  pkJ3PU28  =  (short)1761777319;
 	unsigned int	yZ5ASk0Pf	=	1609512613;
   unsigned long long  ZAAEN4pNoC  =  120721655;
     unsigned short    j_0hzpZAl    =    403135129;
@@ -70,7 +70,7 @@ int main(void) {
   long long  NLhq6  =  -890186808;
  long double GfC9_ = 665479908;
 
-t8gVvY = jWRVZOrnZ((unsigned short)-1167936756, (unsigned short)1721421303, -629210836, 1361071111, N7FQL0a);
+t8gVvY = jWRVZOrnZ((unsigned short)-1167936756, (unsigned short)1721421303, (char)-629210836, 1361071111, N7FQL0a);
 std::cout << jWRVZOrnZ(1041855532, -1555717192, d8l21g0OKD, DC4Qyp90, N7FQL0a) << std::endl;
 {
 int i = 0;
@@ -144,7 +144,7 @@ break;
 ft79 = (int)floor(i4wZkBOA0);
 qREN4wn = yZ5ASk0Pf * ZAAEN4pNoC;
 
-std::cout << mg_W8r_t5((short)33292496, ZBWDhd1cl, i4wZkBOA0, AUZs) << mg_W8r_t5((short)-671622281, ZBWDhd1cl, 1221512442, AUZs) << mg_W8r_t5(c_s_y, ZBWDhd1cl, 520724887, -1870689307) << std::endl;
+std::cout << mg_W8r_t5((short)33292496, ZBWDhd1cl, i4wZkBOA0, AUZs) << mg_W8r_t5((short)-671622281, ZBWDhd1cl, (unsigned short)1221512442, AUZs) << mg_W8r_t5(c_s_y, ZBWDhd1cl, 520724887, -1870689307) << std::endl;
 
 try
 {
@@ -387,7 +387,7 @@ case 'f':
 L_38Vkj = jWRVZOrnZ((unsigned short)-1055677110, ZBWDhd1cl, (char)-1515966687, 1903256422, h1sJ);
 break;
 case 'g':
-L_38Vkj = jWRVZOrnZ(w7gg65, (unsigned short)-809709853, -144318198, 2041599385, eDKk4CK);
+L_38Vkj = jWRVZOrnZ(w7gg65, (unsigned short)-809709853, (char)-144318198, 2041599385, eDKk4CK);
 break;
 case 'h':
 w7gg65 >>= qREN4wn;

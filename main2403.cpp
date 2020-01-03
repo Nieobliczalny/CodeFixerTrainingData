@@ -23,7 +23,7 @@ for (int i = 0; i < 5; i++)
 {
 g3B9b6_v = FaWj9MLml4(695897446, ZLSI4Xm4a, vuamz61, uWpbG04F7);
 }
-cout << FaWj9MLml4(m7On4_A21o, (char)-1307065401, vuamz61, 521080413) << iN7Ip87X6r << FaWj9MLml4(m7On4_A21o, (char)904432912, vuamz61, uWpbG04F7) << "csQKH" << FaWj9MLml4(1339803182, (char)1525195936, 1518952683, 1573055205) << endl;
+cout << FaWj9MLml4(m7On4_A21o, (char)-1307065401, vuamz61, 521080413) << iN7Ip87X6r << FaWj9MLml4(m7On4_A21o, (char)904432912, vuamz61, uWpbG04F7) << "csQKH" << FaWj9MLml4(1339803182, (char)1525195936, (unsigned short)1518952683, 1573055205) << endl;
 
 {
 int i = 8;

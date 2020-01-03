@@ -74,7 +74,7 @@ int main(int argc, char** argv) {
   char  Kp55E;
   Kp55E  =  (char)-768704135;
  char k3Ga_;
- k3Ga_ = -307124335;
+ k3Ga_ = (char)-307124335;
   unsigned long long  w1L7;
   w1L7  =  283405974;
     char    T_Z9K;
@@ -132,7 +132,7 @@ int main(int argc, char** argv) {
 	unsigned short int	LC4y5;
 	LC4y5	=	(unsigned short)373330032;
   short int  x76k3Z74S;
-  x76k3Z74S  =  2070747293;
+  x76k3Z74S  =  (short)2070747293;
     int    mOoN0;
     mOoN0    =    -1286597680;
  float d3AYPO;
@@ -148,7 +148,7 @@ int main(int argc, char** argv) {
  char DJgAD6;
  DJgAD6 = (char)-682545149;
     char    UFaGoSE;
-    UFaGoSE    =    459124982;
+    UFaGoSE    =    (char)459124982;
 	char	lZ9_;
 	lZ9_	=	-754148390;
     char    Dos3b;
@@ -170,7 +170,7 @@ int main(int argc, char** argv) {
  unsigned short int LnC1cpY;
  LnC1cpY = (unsigned short)-1352489790;
  char H_v298;
- H_v298 = 716999330;
+ H_v298 = (char)716999330;
   unsigned long  AI7U6eh940;
   AI7U6eh940  =  -742905989;
 	long long	ZRDw5Dl4;

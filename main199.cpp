@@ -70,7 +70,7 @@ int main(void) {
     unsigned char    PWl0sf;
     PWl0sf    =    (unsigned char)40103468;
 	short	FaSi6u9H;
-	FaSi6u9H	=	1042578817;
+	FaSi6u9H	=	(short)1042578817;
   long  mk22wq8;
   mk22wq8  =  262398621;
  unsigned long long Ii_vFM;

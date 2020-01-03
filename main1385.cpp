@@ -50,7 +50,7 @@ int main(int argc, char** argv) {
     short    rj7D93n;
     rj7D93n    =    (short)-746802193;
 	short int	QDNUQaa4;
-	QDNUQaa4	=	-394268122;
+	QDNUQaa4	=	(short)-394268122;
 	float	xdnJ0HVIN;
 	xdnJ0HVIN	=	-1433174581;
  char IX2kIgJ;
@@ -62,7 +62,7 @@ int main(int argc, char** argv) {
     unsigned short    J60moPIuPZ;
     J60moPIuPZ    =    (unsigned short)-354919413;
 	char	RyPqU3t8X;
-	RyPqU3t8X	=	2014289771;
+	RyPqU3t8X	=	(char)2014289771;
     float    x64d_9S;
     x64d_9S    =    942062903;
 	int	V8C8_DPV3U;
@@ -146,7 +146,7 @@ int main(int argc, char** argv) {
   char  sLzHKR;
   sLzHKR  =  (char)-1770374365;
  unsigned short Au2_qa;
- Au2_qa = -2072526188;
+ Au2_qa = (unsigned short)-2072526188;
  unsigned short QGoNa;
  QGoNa = (unsigned short)787352952;
  float Bq6Ozh;

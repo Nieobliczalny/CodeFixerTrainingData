@@ -52,7 +52,7 @@ int main() {
  unsigned short HWOHj4k;
  HWOHj4k = (unsigned short)-1702862816;
     char    FMoR;
-    FMoR    =    242145000;
+    FMoR    =    (char)242145000;
 	float	J84_8;
 	J84_8	=	-1001686456;
     long long    UDW1NDnzF;

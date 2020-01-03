@@ -230,7 +230,7 @@ case 'e':
 p27EQ8 = OtSr7X5((short)1390574247, OnVdP, 1836606192);
 break;
 case 'f':
-blD270C = OtSr7X5(-2144256612, OnVdP, 2052026219) / hnqc;
+blD270C = OtSr7X5((short)-2144256612, OnVdP, 2052026219) / hnqc;
 break;
 case 'g':
 p27EQ8 = OtSr7X5(Jd2z, (char)-1107091388, 1352386063);

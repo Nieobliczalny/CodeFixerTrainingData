@@ -22,7 +22,7 @@ int main(int argc, char** argv) {
 	short int	sUMMoWDj2	=	(short)2137867861;
   float  JN85YM  =  421552343;
  long GUvydjoGS6 = -1508644654;
-    unsigned short int    ZbT_XL    =    650848608;
+    unsigned short int    ZbT_XL    =    (unsigned short)650848608;
   float  Omkk2  =  -991252863;
     double    wSpP9    =    -1973194507;
     long long    YuY0    =    1345068883;
@@ -34,7 +34,7 @@ int main(int argc, char** argv) {
   char  kb_5WY  =  (char)1216315775;
     double    Yd_9lt9z    =    1483597959;
   long long  JHBP25_Z  =  1664954752;
- unsigned short U5j3E7z = -704887460;
+ unsigned short U5j3E7z = (unsigned short)-704887460;
   double  T6Ka  =  -481565249;
  char j7K2 = 2017716604;
 	char	B1ibj2G7C5	=	(char)-116884740;
@@ -53,7 +53,7 @@ int main(int argc, char** argv) {
   double  J0vT6o9h  =  -1314027484;
  short int iw1U = (short)-1432134864;
     short int    dw5uE69t04    =    (short)2065043506;
-    char    sE9vL2    =    -1413905314;
+    char    sE9vL2    =    (char)-1413905314;
  long long p8O52j2ts = 188326222;
 	long double	X9JA	=	-1972406780;
 	unsigned short	EfR325	=	1272157460;
@@ -77,7 +77,7 @@ int main(int argc, char** argv) {
  long double P2o15 = 394220760;
  char UuKejJ = (char)969232603;
 	long	h6aa2P	=	1861821867;
- short int Xg3T9gGh = 284123760;
+ short int Xg3T9gGh = (short)284123760;
 	unsigned int	Jl5f5eAt	=	494267971;
  long long R5MR59Yngm = -263864441;
 	unsigned short int	VgG9_X	=	(unsigned short)-1838838766;
@@ -88,7 +88,7 @@ int main(int argc, char** argv) {
 	long double	e3SGy8h9to	=	893196505;
   short int  FtpS_u  =  (short)619985859;
 	float	BHTXnA	=	-152934822;
-	short	m7EmdKrX	=	-808192848;
+	short	m7EmdKrX	=	(short)-808192848;
 
 if (CHoOR < H5__fa)
 {
@@ -113,7 +113,7 @@ P2o15 = (int)abs(e3SGy8h9to);
 while (j >= 0);
 }
 }
-uyI5 = V4_l70BaB_((char)-1082963890, (unsigned short)399861184, (short)-1280763124, -2055669796, -2066539028);
+uyI5 = V4_l70BaB_((char)-1082963890, (unsigned short)399861184, (short)-1280763124, -2055669796, (short)-2066539028);
 std::cout << "HqvlF" << ZgtKo << V4_l70BaB_(1606808675, 1555410021, -1584845925, 968785342, BHTXnA) << "uvM071" << O9h6CvMRE << std::endl;
 if (uyI5 <= T6Ka)
 {
@@ -133,7 +133,7 @@ std::cout << "Sp1sB9v" << "Iv9fLvI59x" << V4_l70BaB_(ZgtKo, (unsigned short)-175
 switch (GI5cZql)
 {
 case 0:
-uyI5 = V4_l70BaB_((char)-1128884579, -1413627256, -873332680, U5j3E7z, -1279029432);
+uyI5 = V4_l70BaB_((char)-1128884579, (unsigned short)-1413627256, -873332680, U5j3E7z, -1279029432);
 break;
 case 1:
 uyI5 = V4_l70BaB_(626891854, -1273161475, 1716126450, U5j3E7z, -1892299474);

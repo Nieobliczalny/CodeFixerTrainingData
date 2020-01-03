@@ -20,7 +20,7 @@ int main(int argc, char** argv)
 	float	RZ_3gwE_Oi	=	-1168185812;
 	long long	u9T91Iu_a7	=	-1047927093;
  unsigned short Q15LnO9put = (unsigned short)-829166679;
-	char	djwV1qI9gz	=	1334782140;
+	char	djwV1qI9gz	=	(char)1334782140;
     long long    OnD6eJ    =    -633790991;
     short int    cO11    =    1520261769;
     double    nSMV2Zbu    =    -2101954709;
@@ -33,7 +33,7 @@ int main(int argc, char** argv)
 	unsigned short int	nlD3wQN2_	=	(unsigned short)1964630414;
     unsigned long    tV_7P_j    =    -605644083;
 	unsigned long long	Nqe50BtuDz	=	-1223835819;
-	unsigned char	jOC92P8_9	=	1235042487;
+	unsigned char	jOC92P8_9	=	(unsigned char)1235042487;
   unsigned long long  KWCcW1_S7  =  202650241;
 	unsigned int	sh_1a94_V	=	1320222401;
   unsigned long  AX8Mk  =  -1340963709;
@@ -44,7 +44,7 @@ int main(int argc, char** argv)
 	unsigned short int	zd5z	=	(unsigned short)-154580241;
   unsigned short  K7On  =  186749415;
  long long NFeB4oo = -164394189;
- short int M3Xx = -1237064935;
+ short int M3Xx = (short)-1237064935;
 	long long	RO5e3X	=	2100206946;
     long double    jxLlHm3    =    1595322702;
   int  sejd0Z  =  2064654864;
@@ -56,7 +56,7 @@ int main(int argc, char** argv)
  long s_6_ = 577166188;
 	unsigned short	CGxPWXM1V	=	(unsigned short)-304493631;
   long  K8gB3dDQx  =  1269795601;
-  short int  e0ip_9b  =  154807678;
+  short int  e0ip_9b  =  (short)154807678;
  unsigned char d6BB = 1298112558;
 	unsigned int	d3H5eDK	=	420383374;
   int  p2eo9F  =  1511619233;
@@ -77,7 +77,7 @@ int main(int argc, char** argv)
     char    TY934Rj    =    0;
 	short int	v2gcXTe	=	(short)-501287989;
   long long  w72i  =  1426066658;
-  unsigned short  RWDLL  =  -1438296864;
+  unsigned short  RWDLL  =  (unsigned short)-1438296864;
  unsigned short CK36pv_55 = (unsigned short)-1876657526;
 	char	rgWB08	=	395244126;
  float d86C2099 = -129508970;
@@ -92,7 +92,7 @@ int main(int argc, char** argv)
     long    v2VeoVv7    =    1844075942;
   char  durApNK665  =  (char)1453720070;
   float  UlX_zR_eU  =  1897409284;
-  unsigned char  V2LR  =  1348702691;
+  unsigned char  V2LR  =  (unsigned char)1348702691;
   unsigned short  w8z4m9Kd  =  226132119;
  unsigned short int lW_643lU6 = (unsigned short)1010566819;
   long  eFXw8  =  62394756;

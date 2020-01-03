@@ -157,7 +157,7 @@ case 3:
 PzjitU08cX = o1rmD_ / FVk26G_KaM;
 break;
 case 4:
-GsN9Gj9K = OV7O08J55(2006145039, 778983005);
+GsN9Gj9K = OV7O08J55((char)2006145039, 778983005);
 break;
 case 5:
 CitaFhC_1 = DM_8GHAhQi(-1052424840);
@@ -466,7 +466,7 @@ case 'g':
 LggpS5Eyy = DM_8GHAhQi(LggpS5Eyy);
 break;
 case 'h':
-O0Y0fD = WIr7r(O0Y0fD, (unsigned short)-847615985, (unsigned short)-133088067, -2076871246, 1638164299);
+O0Y0fD = WIr7r(O0Y0fD, (unsigned short)-847615985, (unsigned short)-133088067, -2076871246, (unsigned short)1638164299);
 break;
 default:
 k6TGaaiU3 = WIr7r((unsigned short)1913773951, CitaFhC_1, VB92P, YMjqprh, 1395481618);
@@ -648,7 +648,7 @@ return 0;
 }
 
 short int  DM_8GHAhQi(unsigned long  M4300)  {
-  return  -674059185;
+  return  (short)-674059185;
 }
 
 short    OV7O08J55(char    VEotLg8SVx,int    AGhY)

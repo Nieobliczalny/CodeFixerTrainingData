@@ -49,7 +49,7 @@ int main() {
     unsigned char    ZO_tQ7;
     ZO_tQ7    =    (unsigned char)-354924841;
     char    mq19S;
-    mq19S    =    1402617519;
+    mq19S    =    (char)1402617519;
     long    Hl_yxX;
     Hl_yxX    =    -335301341;
 	unsigned short int	Vwb5bcdVZ;
@@ -65,7 +65,7 @@ int main() {
  char S68L;
  S68L = (char)-248683235;
 	char	g3qXdSi4;
-	g3qXdSi4	=	1812217718;
+	g3qXdSi4	=	(char)1812217718;
   unsigned long  ktqNQ6Qz_o;
   ktqNQ6Qz_o  =  1482784204;
     unsigned short    TgdVbu_L;

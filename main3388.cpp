@@ -29,7 +29,7 @@ int main()
  unsigned short int ZJ6E;
  ZJ6E = (unsigned short)-1532030091;
     unsigned char    o7A_oR;
-    o7A_oR    =    -11871085;
+    o7A_oR    =    (unsigned char)-11871085;
   char  IqPMB6;
   IqPMB6  =  144395464;
   short int  c_dT50x;
@@ -89,7 +89,7 @@ int main()
   short  h45q6;
   h45q6  =  (short)-790292431;
   unsigned short  TV561;
-  TV561  =  -1097487731;
+  TV561  =  (unsigned short)-1097487731;
   char  kDb3y0ECRU;
   kDb3y0ECRU  =  (char)1353222109;
     int    IA947R;
@@ -115,7 +115,7 @@ int main()
  double C5_v3E24;
  C5_v3E24 = -173723184;
  short tb6s6l2;
- tb6s6l2 = 422318605;
+ tb6s6l2 = (short)422318605;
  unsigned char H453q;
  H453q = (unsigned char)1005631015;
  unsigned int jW7l;
@@ -169,7 +169,7 @@ int main()
 	long double	a1_I3R;
 	a1_I3R	=	1859129441;
   unsigned char  A6k3D8RX12;
-  A6k3D8RX12  =  -2001106701;
+  A6k3D8RX12  =  (unsigned char)-2001106701;
     unsigned long long    Wzpq87;
     Wzpq87    =    1168544862;
   char  SGi_Z45e;

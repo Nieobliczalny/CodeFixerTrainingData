@@ -38,7 +38,7 @@ int main() {
     unsigned char    i8Y9;
     i8Y9    =    (unsigned char)-35263573;
     unsigned char    dJ7ntbI;
-    dJ7ntbI    =    -447830801;
+    dJ7ntbI    =    (unsigned char)-447830801;
     int    M_2I;
     M_2I    =    1938432061;
   float  uh3iR;

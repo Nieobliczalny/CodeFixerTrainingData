@@ -23,7 +23,7 @@ int main()
     unsigned char    Hnt41;
     Hnt41    =    (unsigned char)1240543748;
     unsigned short int    p1v7;
-    p1v7    =    -1202362159;
+    p1v7    =    (unsigned short)-1202362159;
     long    l7kGF;
     l7kGF    =    -409296574;
   float  LZ71OjiSe;
@@ -83,7 +83,7 @@ int main()
  char HMey15;
  HMey15 = (char)1577463955;
  unsigned char mT1g0;
- mT1g0 = -105520810;
+ mT1g0 = (unsigned char)-105520810;
 	unsigned short	V3SO3d;
 	V3SO3d	=	(unsigned short)589886036;
     unsigned short    QvArZ;
@@ -93,7 +93,7 @@ int main()
   char  sLTHcG_;
   sLTHcG_  =  (char)-196452470;
 	char	YIVnt;
-	YIVnt	=	-592068714;
+	YIVnt	=	(char)-592068714;
  float wrQC;
  wrQC = 1575458924;
  char v70lp386_f;
@@ -209,7 +209,7 @@ int main()
 	unsigned short	k3yKFs9_7;
 	k3yKFs9_7	=	(unsigned short)1047364013;
  unsigned short Hm_70E;
- Hm_70E = 606996165;
+ Hm_70E = (unsigned short)606996165;
  long pk78Rf7;
  pk78Rf7 = 423774156;
 
@@ -266,7 +266,7 @@ hAL3w1 = X6gdc_3I((unsigned short)78372042, u0615ryXQQ, 894702225, (unsigned sho
 }
 else
 {
-mawiBJkFk = Y2go(u0615ryXQQ, 1942503215, -1117031242, 271514769);
+mawiBJkFk = Y2go(u0615ryXQQ, (char)1942503215, -1117031242, 271514769);
 }
 }
 }
@@ -397,7 +397,7 @@ case 6:
 wrQC = (int)floor(j13pUQ);
 break;
 case 7:
-hmiBrTW1M = Y2go(-1345161410, pk78Rf7, 714341421, -1553806931) | Do0mXyyUyM;
+hmiBrTW1M = Y2go(-1345161410, pk78Rf7, 714341421, (unsigned short)-1553806931) | Do0mXyyUyM;
 break;
 case 8:
 Y74X6_ |= pi51s07YO;
@@ -545,7 +545,7 @@ else
 {
 if (((QvArZ < -439175377) && (A0Jj & iztw0RbfN9)) || ((jk2NsIM70s) && (OeZx_45n9j > x37Gjp)))
 {
-l_7X8BFS = X6gdc_3I((unsigned short)42356231, (unsigned short)248150394, 205678733, (unsigned short)600860712, -352836594);
+l_7X8BFS = X6gdc_3I((unsigned short)42356231, (unsigned short)248150394, 205678733, (unsigned short)600860712, (short)-352836594);
 }
 else if (MM6EIDrY & rIz_8r8Gsb)
 {
@@ -729,7 +729,7 @@ while (k < 4);
 
 e65077mM = Y2go(al_n2, (char)-1519856759, 870896033, (unsigned short)847403827);
 al_n2 = (int)floor(poOL1H0);
-mawiBJkFk = Y2go(sij7, (char)-1646624972, Ijg6lAzo, -1514062116);
+mawiBJkFk = Y2go(sij7, (char)-1646624972, Ijg6lAzo, (unsigned short)-1514062116);
 if (hmiBrTW1M & -1064682830)
 {
 if (jk2NsIM70s <= -1200941378)

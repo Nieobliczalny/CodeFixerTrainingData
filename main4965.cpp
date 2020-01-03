@@ -265,7 +265,7 @@ for (int j = 0; j < 3; ++j)
 {
 if (((VZ4YBE & D_K_kW5_z5) || (t4or92 >= -1650354103)) && ((jV4OElp > F5IOaISd) && (WubZ5vzli5 != -164703810)))
 {
-jV4OElp = j0X21_4Z((short)-625660821, 1972232069, 1795681929);
+jV4OElp = j0X21_4Z((short)-625660821, 1972232069, (unsigned char)1795681929);
 }
 }
 }

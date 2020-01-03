@@ -48,7 +48,7 @@ int main(void)
 	unsigned short int	ySe_;
 	ySe_	=	(unsigned short)1858062404;
 	short int	vU4rC93;
-	vU4rC93	=	995753288;
+	vU4rC93	=	(short)995753288;
  unsigned int v60u_Hi;
  v60u_Hi = 1705517960;
  unsigned short int u2kc30y3;
@@ -98,7 +98,7 @@ int main(void)
 	short	Z30D2E;
 	Z30D2E	=	(short)-1733761883;
     unsigned short int    M_10q382Hb;
-    M_10q382Hb    =    -2001780109;
+    M_10q382Hb    =    (unsigned short)-2001780109;
  long double PGLcp54J2o;
  PGLcp54J2o = -616456693;
  unsigned char ucsng;
@@ -110,7 +110,7 @@ int main(void)
     long double    DR1DND22;
     DR1DND22    =    930717910;
     char    gQ01wgQ;
-    gQ01wgQ    =    -695812814;
+    gQ01wgQ    =    (char)-695812814;
 	short int	V8_I5W36Q7;
 	V8_I5W36Q7	=	(short)1901451692;
 	unsigned long long	Y087n8XB;

@@ -27,7 +27,7 @@ int main() {
  char K62gq4v1Y6;
  K62gq4v1Y6 = 0;
 	unsigned short	F0_56y5z;
-	F0_56y5z	=	-1232018557;
+	F0_56y5z	=	(unsigned short)-1232018557;
 	unsigned char	i2e0Q6yVP7;
 	i2e0Q6yVP7	=	(unsigned char)-905241308;
  unsigned long lnH4A_Cu;

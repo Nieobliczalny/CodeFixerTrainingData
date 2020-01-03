@@ -117,7 +117,7 @@ cout << x1VP_rJ5 << n213U << yn65Szt((char)-1141725117, rqre4, (unsigned char)-1
 }
 else if (Ie5M2gsZz & ech05h1rdP)
 {
-GWqzg8Q = yn65Szt(iHa6_Iz8Uc, Zk92Q, -1982092136, uS81CIz, B4G89elO);
+GWqzg8Q = yn65Szt(iHa6_Iz8Uc, Zk92Q, (unsigned char)-1982092136, uS81CIz, B4G89elO);
 }
 else if ((Dg_pPP <= -1117093826) && ((o7p4 != -706912727) || (MY2E1 > -339827018)))
 {

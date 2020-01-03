@@ -80,7 +80,7 @@ std::cout << d07_4XoI((unsigned char)1655659769, 1926087464) << I_tXaU5RO << "R9
 }
 else if (((NW9Mpi2L3M == -99174638) && (vgL28_U <= npR8r8_zYn)) && ((y1GNqvRYT4 == RvfxOveE) || (OaQg_8R != OF9O07x)))
 {
-ECDaS = d07_4XoI(785792930, vBlU);
+ECDaS = d07_4XoI((unsigned char)785792930, vBlU);
 }
 else if (Tj3DrJ & ECDaS)
 {

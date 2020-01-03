@@ -69,7 +69,7 @@ int main()
     unsigned short    eu5Yr_mL;
     eu5Yr_mL    =    (unsigned short)-591447995;
     unsigned short int    AZl3so_t_l;
-    AZl3so_t_l    =    1339082125;
+    AZl3so_t_l    =    (unsigned short)1339082125;
 	long double	FSem;
 	FSem	=	1433111306;
     unsigned short    Ma5k_Ob7;
@@ -81,7 +81,7 @@ int main()
  long double TM4w;
  TM4w = -913822043;
 	unsigned char	Cx267Vl;
-	Cx267Vl	=	-521654809;
+	Cx267Vl	=	(unsigned char)-521654809;
   unsigned short  lxf80;
   lxf80  =  (unsigned short)1350546551;
     unsigned char    HIING;
@@ -91,7 +91,7 @@ int main()
 	float	I12KP9hfRh;
 	I12KP9hfRh	=	-1945185833;
   char  x85GP38;
-  x85GP38  =  221899996;
+  x85GP38  =  (char)221899996;
  short int DzyXQD4Yb;
  DzyXQD4Yb = (short)1364072262;
   unsigned char  vN75a;

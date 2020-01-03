@@ -38,7 +38,7 @@ int main() {
     short    rS3J3    =    (short)1378835060;
  long double Stk4_Ut1 = 141850160;
     unsigned short int    XWGHj_7i    =    (unsigned short)1835688059;
-    unsigned short int    SaCA    =    1184841179;
+    unsigned short int    SaCA    =    (unsigned short)1184841179;
   short int  w2CSDEn  =  0;
     long    fJkL4    =    0;
     char    vvc2PvS4    =    (char)-125766884;
@@ -49,7 +49,7 @@ int main() {
   double  ho0an6thLB  =  245275729;
 	char	y839L_T	=	(char)-1903295874;
     unsigned int    cT909hFC    =    968552296;
- short int uhfc = 1106479901;
+ short int uhfc = (short)1106479901;
     long double    W69HViQ14    =    209862364;
     short int    yWst0    =    (short)-501316954;
   short int  L90m  =  -1843570290;
@@ -134,7 +134,7 @@ int j = 0;
 do
 {
 ++j;
-std::cout << qq5y9q_((short)1614316010, (char)832262680, (unsigned short)-1833364986, Stk4_Ut1, -1859489697) << S5sYj2_s_Q << std::endl;
+std::cout << qq5y9q_((short)1614316010, (char)832262680, (unsigned short)-1833364986, Stk4_Ut1, (short)-1859489697) << S5sYj2_s_Q << std::endl;
 }
 while (j < 3);
 }

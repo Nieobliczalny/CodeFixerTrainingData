@@ -40,7 +40,7 @@ int main(int argc, char** argv)
  short G16dEc = (short)-1910416835;
 	unsigned int	n420N	=	383038683;
     short int    cWL6_    =    (short)-5934443;
-  unsigned char  X6_I1  =  -708792999;
+  unsigned char  X6_I1  =  (unsigned char)-708792999;
  long long X5bEeh = 1479891684;
     unsigned short    iaTB    =    (unsigned short)-2041038388;
 	int	w2o_o5n71	=	-1456730287;
@@ -64,7 +64,7 @@ case 'b':
 cWL6_ = X6_I1 / 1496774649;
 break;
 case 'c':
-G16dEc = v7YQB((unsigned short)1406228506, 1256639612, (unsigned short)150595230, (unsigned short)-1527496834, 951980761);
+G16dEc = v7YQB((unsigned short)1406228506, 1256639612, (unsigned short)150595230, (unsigned short)-1527496834, (short)951980761);
 break;
 default:
 DQePwv = (int)abs(w2o_o5n71);
@@ -411,7 +411,7 @@ case 4:
 Ut18JXO3 = pD_u((unsigned short)-402201268, (unsigned char)-64014973);
 break;
 case 5:
-n420N = imcQ8h(-769496493, 2103635576);
+n420N = imcQ8h((unsigned char)-769496493, 2103635576);
 break;
 case 6:
 P_7A720hk = bSmE6zf(P_7A720hk, S2M6);
@@ -617,7 +617,7 @@ case 2:
 S2M6 = BAQVYBt(o4Msqttn, (unsigned char)-1987571300, (unsigned short)1965489295);
 break;
 case 3:
-S2M6 = BAQVYBt(n420N, -1591588745, -261015992);
+S2M6 = BAQVYBt(n420N, (unsigned char)-1591588745, -261015992);
 break;
 default:
 DQePwv = imcQ8h(DQePwv, o4Msqttn);

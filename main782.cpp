@@ -32,7 +32,7 @@ int main() {
     short    KpjnS;
     KpjnS    =    (short)-1107621312;
   short  a8T8;
-  a8T8  =  -1146515753;
+  a8T8  =  (short)-1146515753;
  unsigned char zTfy9e82rw;
  zTfy9e82rw = 390553121;
 	unsigned int	R1xV1G_9;

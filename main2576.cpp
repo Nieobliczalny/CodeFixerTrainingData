@@ -237,7 +237,7 @@ HqsJt7e = iCwg9(1710201463);
 }
 }
 cout << AC_2f1(-1371951851, hc2wPD, (char)925067549, (short)-1546375929, vi76c8H1) << "w_7H" << sDT_922wnI << DTb9iVd3(82567049, hc2wPD, 1062553221, S16K4ku_bl) << "ZlV_" << endl;
-MO7g0r2v31 = wKov0M5R5(114859365, 1808402172, (unsigned char)-1044992791, -808448620);
+MO7g0r2v31 = wKov0M5R5(114859365, 1808402172, (unsigned char)-1044992791, (short)-808448620);
 switch (uCEhM_b)
 {
 case 'a':
@@ -448,7 +448,7 @@ case 5:
 OQU9_C++;
 break;
 case 6:
-t4Z3xnLDp3 = HkTI((unsigned char)445655706, -461883311);
+t4Z3xnLDp3 = HkTI((unsigned char)445655706, (short)-461883311);
 break;
 case 7:
 Q21b4L5mD >>= wctcjmr60;

@@ -20,7 +20,7 @@ int main()
   unsigned short  SA1PpJ  =  (unsigned short)-1274379516;
   char  n07v_2_b  =  (char)-327318911;
     long double    Q8uH372K    =    1385619390;
-	char	m4_TZ	=	-1286924881;
+	char	m4_TZ	=	(char)-1286924881;
  long long HJl3x = 1309969471;
 	long double	fgeIkHf	=	-1181385070;
     short int    Eb1_    =    1472574197;
@@ -332,7 +332,7 @@ else
 {
 if (((w5fiv83 >= 230849221) && (yWWemb9px & -1306305169)) || (Q8uH372K != yh9bpk9_))
 {
-w5fiv83 = UF6I((short)-1572731702, -1549935678, -1178827147, 494939315);
+w5fiv83 = UF6I((short)-1572731702, -1549935678, -1178827147, (unsigned short)494939315);
 }
 else if (Eb1_ != 1737748637)
 {
@@ -372,7 +372,7 @@ if (yWWemb9px < -176665014)
 {
 try
 {
-yh9bpk9_ = UF6I(1904063397, zQCUMjq, -346498662, yh9bpk9_) | m4_TZ;
+yh9bpk9_ = UF6I((short)1904063397, zQCUMjq, -346498662, yh9bpk9_) | m4_TZ;
 }
 catch (int& errorCode)
 {

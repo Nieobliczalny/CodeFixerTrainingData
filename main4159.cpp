@@ -44,7 +44,7 @@ int main(void) {
  unsigned short T2Fk__;
  T2Fk__ = (unsigned short)107877666;
 	short	VTt_;
-	VTt_	=	1229237715;
+	VTt_	=	(short)1229237715;
  unsigned int GVou;
  GVou = 1824741308;
   long double  ZP6WJVmC43;
@@ -215,7 +215,7 @@ case 4:
 iENM = (int)ceil(ZP6WJVmC43);
 break;
 case 5:
-w5vuxaXd = g25bN10d(DKU93Qm, (short)-390686119, 1311334527);
+w5vuxaXd = g25bN10d(DKU93Qm, (short)-390686119, (unsigned short)1311334527);
 break;
 case 6:
 w5vuxaXd = g25bN10d(jNqrxL8L, -2141872106, 2093002327);
@@ -330,7 +330,7 @@ case 2:
 O509N9Pv = (DKU93Qm) ? boZhy : dT6E;
 break;
 case 3:
-w5vuxaXd = g25bN10d(ZP6WJVmC43, (short)1263831677, 2100918683);
+w5vuxaXd = g25bN10d(ZP6WJVmC43, (short)1263831677, (unsigned short)2100918683);
 break;
 case 4:
 Cm_Z9I7uy <<= 1593309656;

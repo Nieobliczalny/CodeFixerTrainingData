@@ -254,7 +254,7 @@ case 4:
 svTeCB78f = RfWk((short)-2019145487, (short)1092090352, -750878719, (unsigned char)-1476019849, BAKbf);
 break;
 case 5:
-Ws_273 = PyQg6lbc9M(Ws_273, -1396254044, 1314477230, XBKyyjK3n);
+Ws_273 = PyQg6lbc9M(Ws_273, (unsigned short)-1396254044, 1314477230, XBKyyjK3n);
 break;
 case 6:
 QR8shv1 <<= kRUP96y;
@@ -438,7 +438,7 @@ case 3:
 M1NWN /= 2122457807;
 break;
 case 4:
-qEIozT = PyQg6lbc9M((unsigned short)-987433642, QR8shv1, -2126242503, cuNX);
+qEIozT = PyQg6lbc9M((unsigned short)-987433642, QR8shv1, (char)-2126242503, cuNX);
 break;
 case 5:
 BAKbf -= k8P58j;
@@ -617,7 +617,7 @@ y_N1T1 = PyQg6lbc9M((unsigned short)-354051716, zzr3KTUl3, Oc_fNCS5SD, (unsigned
 break;
 case 'd':
 case 'D':
-KjsQ5 = z04_t6_1b(-1978584918, 1131528406);
+KjsQ5 = z04_t6_1b(-1978584918, (unsigned short)1131528406);
 break;
 case 'e':
 case 'E':

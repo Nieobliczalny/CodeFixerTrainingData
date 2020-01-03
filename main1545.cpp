@@ -66,7 +66,7 @@ int main(int argc, char** argv) {
  double IAbyb;
  IAbyb = 163881910;
   char  QqOEo2j;
-  QqOEo2j  =  -54979464;
+  QqOEo2j  =  (char)-54979464;
 	unsigned char	OjH8rw;
 	OjH8rw	=	(unsigned char)970304459;
  unsigned int Es70fP;

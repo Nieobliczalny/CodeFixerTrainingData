@@ -95,7 +95,7 @@ int main(void) {
   unsigned short  HnuH1CP;
   HnuH1CP  =  (unsigned short)890773450;
     unsigned char    WoF5dq0;
-    WoF5dq0    =    1775901916;
+    WoF5dq0    =    (unsigned char)1775901916;
     unsigned short    wH90;
     wH90    =    (unsigned short)548221349;
 	int	D0x8N;
@@ -133,7 +133,7 @@ int main(void) {
 	short	H95P_1Zxe;
 	H95P_1Zxe	=	(short)-1186142070;
  short YmLI06Z;
- YmLI06Z = 814359456;
+ YmLI06Z = (short)814359456;
     unsigned long long    lRrw;
     lRrw    =    2089721169;
  unsigned char FX6GK;
@@ -199,7 +199,7 @@ int main(void) {
  unsigned char EeTX;
  EeTX = (unsigned char)-1333368571;
 	short	zbpgSvVQ;
-	zbpgSvVQ	=	473497531;
+	zbpgSvVQ	=	(short)473497531;
  unsigned char R_w_E;
  R_w_E = 1592787805;
 	unsigned int	Oy33JS3;
@@ -211,7 +211,7 @@ int main(void) {
     char    AnQ3Bx;
     AnQ3Bx    =    (char)241680448;
 	short int	jRE8F;
-	jRE8F	=	30842367;
+	jRE8F	=	(short)30842367;
  short s37nV5L;
  s37nV5L = -581649808;
 	float	cT5J_x7;
@@ -382,7 +382,7 @@ case 'd':
 N9Fmy5x3 = (int)ceil(ED3x);
 break;
 case 'e':
-s37nV5L = Jnme44yq((short)-836724811, v0TT9gL64o, (char)8902672, -1821886860);
+s37nV5L = Jnme44yq((short)-836724811, v0TT9gL64o, (char)8902672, (unsigned char)-1821886860);
 break;
 case 'f':
 Qts84 = PZVVW_Vy2_(-784755187, YA8806, fPr2);
@@ -460,7 +460,7 @@ case 2:
 q39D11N0 = (int)ceil(Xdj7o);
 break;
 case 3:
-DG5Pz7f92o = Jnme44yq((short)-1484326203, (short)-154352243, 2026457513, s37nV5L);
+DG5Pz7f92o = Jnme44yq((short)-1484326203, (short)-154352243, (char)2026457513, s37nV5L);
 break;
 case 4:
 pavl = (int)abs(lmSP);
@@ -595,7 +595,7 @@ Q8___A = P7T0w((short)-1210045677, (unsigned short)1280995593, (char)119767439);
 break;
 case 'f':
 case 'F':
-gPWq03FP8 = P7T0w(768697071, 1484317751, 2145119261);
+gPWq03FP8 = P7T0w((short)768697071, 1484317751, 2145119261);
 break;
 default:
 q39D11N0 = (int)abs(U1W526dW2);
@@ -684,7 +684,7 @@ bBWHo7Jd = (int)abs(cOpIZB_oG9);
 break;
 case 'c':
 case 'C':
-k_b_j = Jnme44yq((short)-1623371329, lmSP, Q1J62FdQt5, -404004596) & 775833947;
+k_b_j = Jnme44yq((short)-1623371329, lmSP, Q1J62FdQt5, (unsigned char)-404004596) & 775833947;
 break;
 case 'd':
 case 'D':

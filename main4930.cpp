@@ -38,7 +38,7 @@ int main(void) {
  long double T_lL55Ss4 = -676356871;
   unsigned long long  FqD8_1W_  =  1981673874;
  unsigned char TV6jFQAZc = (unsigned char)421325568;
-    short    UAp9N0sVNS    =    1260071687;
+    short    UAp9N0sVNS    =    (short)1260071687;
   unsigned short int  p4D6AcRmD  =  -2143113727;
   unsigned short int  W5Lh_  =  (unsigned short)480387034;
     unsigned long    pYf4    =    -2077930948;
@@ -48,7 +48,7 @@ int main(void) {
 	unsigned int	yON1eaOdk4	=	-1556169797;
 	char	BmGf62M8G	=	0;
  unsigned short pRb1 = (unsigned short)-345807757;
-  unsigned short  k_FdgC  =  -1587840215;
+  unsigned short  k_FdgC  =  (unsigned short)-1587840215;
  char N57P = 1877768625;
     float    zh_akVd7oN    =    1451494664;
 
@@ -243,7 +243,7 @@ UAp9N0sVNS = b4115X4C((unsigned short)-1340368065);
 break;
 case 'j':
 case 'J':
-R_8bskD4 = b4115X4C(-983968072);
+R_8bskD4 = b4115X4C((unsigned short)-983968072);
 break;
 default:
 T84b2_D = uk585(-332501154, T84b2_D);

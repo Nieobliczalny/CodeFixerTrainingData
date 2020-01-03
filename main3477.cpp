@@ -49,7 +49,7 @@ int main(void) {
  long long Z_qW9H8zA = -1275796722;
   float  zdVie8M  =  1900389667;
 
-x996aH3nn = a1553 / ac0pKA1J((char)838193487, Z_qW9H8zA, 62221637, x996aH3nn, -2133753104);
+x996aH3nn = a1553 / ac0pKA1J((char)838193487, Z_qW9H8zA, 62221637, x996aH3nn, (unsigned char)-2133753104);
 
 std::cout << "iJ8UI3_l7j" << "unl2_" << "g213ou94x6" << std::endl;
 

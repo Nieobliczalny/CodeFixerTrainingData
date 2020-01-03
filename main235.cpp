@@ -29,7 +29,7 @@ int main(void)
     fK_v763S    =    (short)-318954895;
     tX0Yq3VXe    =    (short)1947296844;
     X8pSx8g1n    =    (short)-1392246686;
-    PwE_9    =    1833175677;
+    PwE_9    =    (short)1833175677;
     f6yr    =    1720424514;
 
 std::cout << "EUT3pY" << "S8qOf" << PwE_9 << "gWbPRv6EX" << std::endl;

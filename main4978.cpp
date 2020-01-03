@@ -20,7 +20,7 @@ int main(void)
   long  U47q_jg8tU  =  -1330717114;
 	long double	hzQ3g	=	1213095677;
     unsigned char    NSCYb    =    (unsigned char)-649368009;
-	unsigned char	gIKvi	=	998990784;
+	unsigned char	gIKvi	=	(unsigned char)998990784;
 	long long	VB6YP57	=	1869729167;
  char SUAF = 815115478;
     unsigned long long    i8vM0Q    =    -25188301;

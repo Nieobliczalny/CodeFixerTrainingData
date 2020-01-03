@@ -161,7 +161,7 @@ switch (G76L)
 {
 case 'a':
 case 'A':
-L9oNDvq24t = t9S88K(L9oNDvq24t, (char)-384476027, xjV59D4t, (unsigned char)1225239356, -526690373);
+L9oNDvq24t = t9S88K(L9oNDvq24t, (char)-384476027, xjV59D4t, (unsigned char)1225239356, (unsigned char)-526690373);
 break;
 case 'b':
 case 'B':
@@ -173,7 +173,7 @@ g_3og1 = FaJb(g_3og1, Xn2u1_w0ZB, Xe1FViWA84);
 break;
 case 'd':
 case 'D':
-L9oNDvq24t = t9S88K(258611030, (char)-1169315081, (char)-2086878894, (unsigned char)99614306, -1939210137);
+L9oNDvq24t = t9S88K(258611030, (char)-1169315081, (char)-2086878894, (unsigned char)99614306, (unsigned char)-1939210137);
 break;
 case 'e':
 case 'E':
@@ -193,7 +193,7 @@ Xn2u1_w0ZB++;
 break;
 case 'i':
 case 'I':
-weXa9_vQ = t9S88K(-843498995, (char)720479629, G76L, (unsigned char)2067152688, 816937798) << VyIL;
+weXa9_vQ = t9S88K(-843498995, (char)720479629, G76L, (unsigned char)2067152688, (unsigned char)816937798) << VyIL;
 break;
 }
 
@@ -284,7 +284,7 @@ xjV59D4t >>= VyIL;
 }
 else
 {
-L9oNDvq24t = t9S88K(663623197, (char)-1276318544, (char)-1314927357, (unsigned char)-1454420392, -2063011081);
+L9oNDvq24t = t9S88K(663623197, (char)-1276318544, (char)-1314927357, (unsigned char)-1454420392, (unsigned char)-2063011081);
 }
 --j;
 }
@@ -327,7 +327,7 @@ case 'g':
 G76L <<= Xn2u1_w0ZB;
 break;
 case 'h':
-VyIL = FaJb(1451867891, 534331312, L9oNDvq24t);
+VyIL = FaJb((unsigned short)1451867891, 534331312, L9oNDvq24t);
 break;
 default:
 xY454_2CCq = (int)abs(weXa9_vQ) * 0;

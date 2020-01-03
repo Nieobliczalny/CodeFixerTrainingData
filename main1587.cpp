@@ -36,7 +36,7 @@ int main(void)
     short    XWE0;
     XWE0    =    (short)-1696083365;
     unsigned char    VaL62FAR;
-    VaL62FAR    =    -1503537083;
+    VaL62FAR    =    (unsigned char)-1503537083;
   unsigned int  l9tAfP;
   l9tAfP  =  -565694297;
  unsigned short int i9qK7;
@@ -146,7 +146,7 @@ int main(void)
 	char	SOVG3;
 	SOVG3	=	(char)-368735014;
     unsigned short    Hzhd_uf_2w;
-    Hzhd_uf_2w    =    1281286261;
+    Hzhd_uf_2w    =    (unsigned short)1281286261;
   unsigned long long  U5F241eKo;
   U5F241eKo  =  127091322;
     long    E9z9S;

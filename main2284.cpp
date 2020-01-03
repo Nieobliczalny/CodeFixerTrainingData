@@ -47,7 +47,7 @@ int main(int argc, char** argv) {
   short int  z_qF;
   z_qF  =  (short)-1714474227;
 	short	EY4mP46y;
-	EY4mP46y	=	210846305;
+	EY4mP46y	=	(short)210846305;
   unsigned short  Yu71s1;
   Yu71s1  =  2077988221;
   double  fxYi;

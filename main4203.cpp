@@ -81,7 +81,7 @@ int main()
     short int    hgpBy;
     hgpBy    =    (short)1695601438;
  short int NXA_;
- NXA_ = -2058219640;
+ NXA_ = (short)-2058219640;
  unsigned short mo029SS;
  mo029SS = (unsigned short)-1082372728;
  long long aMD_j4n1;

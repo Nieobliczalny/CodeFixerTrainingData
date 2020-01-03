@@ -57,7 +57,7 @@ int main() {
 	char	t197qtM;
 	t197qtM	=	(char)699559304;
  unsigned short int SCx2_7q94;
- SCx2_7q94 = 1740524203;
+ SCx2_7q94 = (unsigned short)1740524203;
   unsigned short  ag7J7EK;
   ag7J7EK  =  (unsigned short)1191149426;
  float hxJ57zs6G;

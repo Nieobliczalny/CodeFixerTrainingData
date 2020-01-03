@@ -34,7 +34,7 @@ int main(void) {
 	char	j60w92;
 	j60w92	=	(char)2061306102;
  char P_jhk;
- P_jhk = 1982474103;
+ P_jhk = (char)1982474103;
     long long    ud6BY_Jb8B;
     ud6BY_Jb8B    =    52118476;
  unsigned long XYxS96hCw;
@@ -68,7 +68,7 @@ int main(void) {
   unsigned short int  ov_394Kj9_;
   ov_394Kj9_  =  (unsigned short)-720056536;
   short  N3FNBc;
-  N3FNBc  =  2063721090;
+  N3FNBc  =  (short)2063721090;
     short int    A5vNa;
     A5vNa    =    (short)769198431;
 
@@ -284,7 +284,7 @@ else if ((ztKG9 != FI90) && (FI90 <= P_jhk))
 {
 for (int j = 5; j >= 0; j--)
 {
-Khy7Ap = (m_sXqfP6s < 598569502) ? (unsigned short)714836945 : 2033607168;
+Khy7Ap = (m_sXqfP6s < 598569502) ? (unsigned short)714836945 : (unsigned short)2033607168;
 }
 }
 else if (DeAF6 & CM4H50)

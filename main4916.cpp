@@ -81,7 +81,7 @@ int main(void)
   long  Y0jT3Goj_;
   Y0jT3Goj_  =  0;
 	short int	nGP1;
-	nGP1	=	-1337089356;
+	nGP1	=	(short)-1337089356;
   unsigned short  Daec55la;
   Daec55la  =  (unsigned short)-178263388;
   long double  HNOX;
