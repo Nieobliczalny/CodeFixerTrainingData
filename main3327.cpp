@@ -303,7 +303,7 @@ case 5:
 Ix35wKk = t5j_t((unsigned short)-1054919247, (unsigned char)-534191762, y48yKi0J, (unsigned char)-1349572394, (unsigned char)-496537065);
 break;
 case 6:
-Ix35wKk = t5j_t((unsigned short)1357250173, (unsigned char)-863037833, 269979572, -603289191, J5y0);
+Ix35wKk = t5j_t((unsigned short)1357250173, (unsigned char)-863037833, 269979572, (unsigned char)-603289191, J5y0);
 break;
 case 7:
 D4W1C3 -= 2007698588;
