@@ -456,7 +456,7 @@ switch (Ifi2tNw)
 {
 case 'a':
 case 'A':
-eT58 = O_X3x & 1067874141;
+eT58 = (short)(O_X3x & 1067874141);
 break;
 case 'b':
 case 'B':

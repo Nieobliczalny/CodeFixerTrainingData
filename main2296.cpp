@@ -311,7 +311,7 @@ break;
 switch (p7GGCx5)
 {
 case 0:
-IL_ymf8hS0 = x8lVZX - 1723569297;
+IL_ymf8hS0 = (short)(x8lVZX - 1723569297);
 break;
 case 1:
 tQR2Te8vn4 = (int)abs(SB9rccg);
@@ -548,7 +548,7 @@ else if (cYiV2_3FMJ < SEsf13)
 switch (Ii3wR2XF)
 {
 case 0:
-VVwbP764c = BD_3O30 + 308378497;
+VVwbP764c = (short)(BD_3O30 + 308378497);
 break;
 case 1:
 u3n36e7 = oa_3H(V4p_irU_5t, UBv1KjA_, 1141353138);

@@ -451,7 +451,7 @@ else
 {
 try
 {
-va50Cdmx = XAHy8vNT - 59622944;
+va50Cdmx = (char)(XAHy8vNT - 59622944);
 }
 catch (int& errorCode)
 {

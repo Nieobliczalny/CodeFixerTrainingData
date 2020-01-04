@@ -70,7 +70,7 @@ case 0:
 Aa5V1 = Aa5V1 % ang837QQ;
 break;
 case 1:
-Aa5V1 = dIa1B * 984374254;
+Aa5V1 = (unsigned short)(dIa1B * 984374254);
 break;
 case 2:
 q593gF9PMM &= 681600547;

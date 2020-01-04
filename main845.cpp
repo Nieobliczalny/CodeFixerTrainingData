@@ -576,7 +576,7 @@ case 1:
 X102Ld = (fKR_G) ? (char)-223651480 : wVaPD;
 break;
 case 2:
-KC4D = YtW8TA_ | 63455043;
+KC4D = (char)(YtW8TA_ | 63455043);
 break;
 case 3:
 IbPT7 ^= TNFMG;
@@ -652,7 +652,7 @@ case 'f':
 CEvNns--;
 break;
 case 'g':
-FA20t8JsM6 = (eNdR8) ? (char)QZ8ct040 : 993494993;
+FA20t8JsM6 = (eNdR8) ? (char)QZ8ct040 : (char)993494993;
 break;
 case 'h':
 hY2U <<= s231sa8d9A;

@@ -525,7 +525,7 @@ s54d *= 538911649;
 }
 if (((x_zrHN >= n3cA85_5w) && (y33Afp24 < NVwf3)) && (lY4x8j))
 {
-bCLLpGVmE2 = NVwf3 - 476476800;
+bCLLpGVmE2 = (unsigned short)(NVwf3 - 476476800);
 }
 
 {

@@ -278,7 +278,7 @@ WQX9Y = (int)abs(sh_eIzV9u);
 break;
 case 'g':
 case 'G':
-QB_tRI9z = KXMk7 & 1242112345;
+QB_tRI9z = (short)(KXMk7 & 1242112345);
 break;
 case 'h':
 case 'H':
@@ -414,7 +414,7 @@ case 0:
 uy76 = ayJS(NRs1b, 1847339571, Tt9b8tGN, (unsigned char)-1554526687, -330040547);
 break;
 case 1:
-qw8biD = qP9_C8 & 824060423;
+qw8biD = (short)(qP9_C8 & 824060423);
 break;
 case 2:
 W70T284I = Agc6JG0O(W70T284I, XIrbpaQ, -1749309354, NiXq3Y7Ll0);
@@ -455,7 +455,7 @@ bMa5I = q55MQ7 & QB_tRI9z;
 }
 else
 {
-CtcCBe = KXMk7 - 1398629833;
+CtcCBe = (short)(KXMk7 - 1398629833);
 }
 }
 else

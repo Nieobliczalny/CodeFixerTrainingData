@@ -328,7 +328,7 @@ case 0:
 VjCqjU4 = C1665S | 1353968491;
 break;
 case 1:
-tF9hM = Z66ON & 293660612;
+tF9hM = (unsigned short)(Z66ON & 293660612);
 break;
 case 2:
 YExtfc = OuaoXN27wl ^ 1613001926;

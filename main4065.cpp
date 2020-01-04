@@ -458,7 +458,7 @@ catch (int& errorCode)
 {
 PpBt7r_do = (int)abs(sQzXZg) * 0;
 }
-sQzXZg = so4UGLu + 1963672195;
+sQzXZg = (short)(so4UGLu + 1963672195);
 return 0;
 }
 

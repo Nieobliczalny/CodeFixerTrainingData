@@ -469,7 +469,7 @@ oS375dN = (int)ceil(oan7IbtSR3);
 }
 else if (uF14z & bqgVgRT)
 {
-X31G1ns6 = f_Jn ^ 1960146205;
+X31G1ns6 = (char)(f_Jn ^ 1960146205);
 }
 else if (Id57byq3P <= Gh91E7)
 {

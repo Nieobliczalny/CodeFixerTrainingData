@@ -236,7 +236,7 @@ break;
 
 if (fG_U3ksuj >= d3sa)
 {
-nhAKQqjq9o = Yp6f ^ 1517842577;
+nhAKQqjq9o = (unsigned short)(Yp6f ^ 1517842577);
 }
 if (USnUac != eb5_G)
 {

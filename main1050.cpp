@@ -530,7 +530,7 @@ case 0:
 hYrG = (int)abs(ZEjKR);
 break;
 case 1:
-JQ4i2ZTt = VezFy - 372182940;
+JQ4i2ZTt = (unsigned short)(VezFy - 372182940);
 break;
 case 2:
 hYrG = kHwP0n - XSQ640L;

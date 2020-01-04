@@ -133,7 +133,7 @@ else if (wTB39Vs0p_ > FYj0THa0)
 {
 try
 {
-z0snCHV = lA241c + 1627941393;
+z0snCHV = (unsigned short)(lA241c + 1627941393);
 }
 catch (int& errorCode)
 {

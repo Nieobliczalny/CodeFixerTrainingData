@@ -350,7 +350,7 @@ do
 j--;
 if (u7ol6D > T4wD)
 {
-zmPjY9Pg = N_4V9S9 & 979257944;
+zmPjY9Pg = (unsigned short)(N_4V9S9 & 979257944);
 }
 }
 while (j >= 0);
@@ -514,7 +514,7 @@ case 'b':
 zmPjY9Pg ^= 1155504276;
 break;
 case 'c':
-OF72 = N_4V9S9 - 899647704;
+OF72 = (unsigned short)(N_4V9S9 - 899647704);
 break;
 case 'd':
 J_q8v--;

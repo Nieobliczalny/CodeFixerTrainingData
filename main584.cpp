@@ -396,7 +396,7 @@ dzVTf5H = RSg2TX >> aIKGgdZS;
 break;
 case 'e':
 case 'E':
-Xx8z = nK_6y(201773352, QR10w2CT9, jqmA5loZgm, 208356173);
+Xx8z = nK_6y(201773352, QR10w2CT9, jqmA5loZgm, (unsigned char)208356173);
 break;
 }
 

@@ -487,7 +487,7 @@ else
 switch (IJxES8LNO2)
 {
 case 'a':
-wfyH82 = (l_6C8H1OtE) ? (short)OwTV6Tyi : 1448709792;
+wfyH82 = (l_6C8H1OtE) ? (short)OwTV6Tyi : (short)1448709792;
 break;
 case 'b':
 cfJ0_bTIE = tUhQHH(-1019135689);

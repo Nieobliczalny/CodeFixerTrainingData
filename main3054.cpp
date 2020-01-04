@@ -259,7 +259,7 @@ q8kVD = tKRy2blTJ(q8kVD);
 }
 else
 {
-lT56Y9Q = P801 ^ 379151912;
+lT56Y9Q = (short)(P801 ^ 379151912);
 }
 
 B7CU = (unsigned int)(Ff66M + (-680999223));

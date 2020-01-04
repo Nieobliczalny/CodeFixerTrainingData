@@ -455,7 +455,7 @@ j++;
 int k = 0;
 while (k < 6)
 {
-OU0CdAQ = yslYEYwA * 70827460;
+OU0CdAQ = (char)(yslYEYwA * 70827460);
 k++;
 }
 }

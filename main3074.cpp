@@ -87,7 +87,7 @@ w2yXz6p8es |= 1792838758;
 break;
 case 'd':
 case 'D':
-iEP09 = YSrr7m_Mw - 121764080;
+iEP09 = (char)(YSrr7m_Mw - 121764080);
 break;
 case 'e':
 case 'E':
@@ -355,7 +355,7 @@ case 1:
 ZlSg7 = kn6I8z & 2007281358;
 break;
 case 2:
-KGXH1 = pk7HSiuY ^ 268866000;
+KGXH1 = (char)(pk7HSiuY ^ 268866000);
 break;
 case 3:
 WS79n9x2 *= 773512085;

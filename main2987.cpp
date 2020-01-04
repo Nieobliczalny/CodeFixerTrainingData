@@ -324,7 +324,7 @@ case 'i':
 k5v731O++;
 break;
 case 'j':
-fx2_D11 = rnbj << 1637952583;
+fx2_D11 = (unsigned char)(rnbj << 1637952583);
 break;
 }
 }

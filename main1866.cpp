@@ -124,7 +124,7 @@ int main(int argc, char** argv) {
 s9Igs40 = (unsigned short int)(cDi9);
 if (lVeNWGm == vitv)
 {
-VLgdWR9yI = cDi9 ^ 60124414;
+VLgdWR9yI = (unsigned short)(cDi9 ^ 60124414);
 }
 else
 {

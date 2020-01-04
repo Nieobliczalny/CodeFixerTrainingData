@@ -222,7 +222,7 @@ default:
 sW50 = LsIm * A_6o;
 break;
 }
-IwbPn_0 = r51i2Zt - 1801229416;
+IwbPn_0 = (unsigned char)(r51i2Zt - 1801229416);
 
 switch (Co0I1)
 {

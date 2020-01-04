@@ -395,7 +395,7 @@ else
 int j = 6;
 while (j >= 0)
 {
-z6DgI = UW201z * 283870027;
+z6DgI = (char)(UW201z * 283870027);
 j--;
 }
 }

@@ -399,7 +399,7 @@ else
 {
 if (h6E3iBv9 < Jc_Ma3O716)
 {
-Wq60ny_n = X9rOhl((char)884293276, -1372666130, (char)-275869091, 877168478);
+Wq60ny_n = X9rOhl((char)884293276, -1372666130, (char)-275869091, (unsigned short)877168478);
 }
 else
 {
@@ -562,7 +562,7 @@ int i = 10;
 do
 {
 --i;
-whQpRFmB = j6m5P9v3fh << 852886069;
+whQpRFmB = (unsigned short)(j6m5P9v3fh << 852886069);
 }
 while (i >= 0);
 }

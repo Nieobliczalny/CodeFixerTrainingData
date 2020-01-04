@@ -74,7 +74,7 @@ do
 {
 try
 {
-eWZX14XK = h3Dg % 1800062617;
+eWZX14XK = (short)(h3Dg % 1800062617);
 }
 catch (int& errorCode)
 {

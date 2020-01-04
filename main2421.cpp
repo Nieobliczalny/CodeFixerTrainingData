@@ -80,7 +80,7 @@ anvs1it = M7r9u | H8ig5r2;
 }
 else
 {
-Pr5G1 = nGgfFBb << 505294659;
+Pr5G1 = (short)(nGgfFBb << 505294659);
 }
 }
 else if (H8ig5r2 >= -766034541)

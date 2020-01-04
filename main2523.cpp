@@ -131,7 +131,7 @@ case 4:
 SHDaNN4_xi /= mma9tSb;
 break;
 case 5:
-t6be0_ = mW1L74_b + 145119374;
+t6be0_ = (unsigned short)(mW1L74_b + 145119374);
 break;
 }
 

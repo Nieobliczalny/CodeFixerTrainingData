@@ -139,7 +139,7 @@ djgd19Sm_ = He4b0();
 break;
 case 'd':
 case 'D':
-fQgnD0J3OH = Op3dgGmA << 137657689;
+fQgnD0J3OH = (char)(Op3dgGmA << 137657689);
 break;
 case 'e':
 case 'E':

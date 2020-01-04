@@ -71,7 +71,7 @@ QEs8c3C6td = qNNryFHDV(QEs8c3C6td);
 }
 else
 {
-YvmfOuq = S9c8x_l_ * 961417393;
+YvmfOuq = (unsigned short)(S9c8x_l_ * 961417393);
 }
 }
 }
@@ -140,7 +140,7 @@ switch (DAdVFlsy0_)
 {
 case 'a':
 case 'A':
-HgVnxxX = S9c8x_l_ ^ 1109034317;
+HgVnxxX = (unsigned short)(S9c8x_l_ ^ 1109034317);
 break;
 case 'b':
 case 'B':

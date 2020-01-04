@@ -504,7 +504,7 @@ case 0:
 U33ooMI = (yv08 > tZ9r215E) ? m2P9reY_nc : (unsigned short)547389447;
 break;
 case 1:
-vpUk_1LFV_ = Mi_1DB_4L3 | 1876413979;
+vpUk_1LFV_ = (short)(Mi_1DB_4L3 | 1876413979);
 break;
 case 2:
 PE8y = (int)floor(iVl3z);

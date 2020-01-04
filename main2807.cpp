@@ -590,7 +590,7 @@ else
 pXAc1 = (int)ceil(QZTg4dQ);
 }
 
-H7v3X0TOSq = uCyV ^ 875128561;
+H7v3X0TOSq = (unsigned char)(uCyV ^ 875128561);
 switch (X5fFuZ2)
 {
 case 0:

@@ -54,7 +54,7 @@ case 'f':
 PG2G--;
 break;
 case 'g':
-PG2G = URCKO - 2100219584;
+PG2G = (short)(URCKO - 2100219584);
 break;
 case 'h':
 Trr_406x = PG2G + 206859910;

@@ -662,7 +662,7 @@ do
 {
 if ((k0x3MK1_ > 1541942137) && ((irB_ == -1093561626) || (s2B2 > A99e5fdMF1)))
 {
-M0Vj = A99e5fdMF1 - 1353991855;
+M0Vj = (unsigned char)(A99e5fdMF1 - 1353991855);
 }
 else if (Frz6D88K & 1576966320)
 {

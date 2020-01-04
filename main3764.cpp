@@ -433,7 +433,7 @@ b7iLa0dj ^= 776258904;
 break;
 case 'j':
 case 'J':
-b7iLa0dj = E61_VdT - 790332468;
+b7iLa0dj = (unsigned char)(E61_VdT - 790332468);
 break;
 default:
 xfuZ57vBK = Rpr600C0Y / b7iLa0dj;

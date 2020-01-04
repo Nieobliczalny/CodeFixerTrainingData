@@ -201,7 +201,7 @@ int main() {
  unsigned int U3Ak6G4;
  U3Ak6G4 = 606852886;
 
-nmnn = zDMgZ + 1063390834;
+nmnn = (short)(zDMgZ + 1063390834);
 
 if (DrqRV6E)
 {

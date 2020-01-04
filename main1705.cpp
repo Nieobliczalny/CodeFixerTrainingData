@@ -200,7 +200,7 @@ case 'b':
 FyVt = dQI_d + 834241869;
 break;
 case 'c':
-l03Y6RHd3A = C_JlL - 1156949103;
+l03Y6RHd3A = (unsigned char)(C_JlL - 1156949103);
 break;
 case 'd':
 dQI_d = x5scy9H(jX_WaQ, 378183567, xA6tj, -1242989319);

@@ -42,7 +42,7 @@ while (j < 2)
 {
 for (int k = 9; k >= 0; k--)
 {
-vhXoE4 = Gk__8ilp % 837194729;
+vhXoE4 = (unsigned short)(Gk__8ilp % 837194729);
 }
 ++j;
 }

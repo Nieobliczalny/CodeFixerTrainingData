@@ -367,7 +367,7 @@ aSZvfk = aSZvfk >> 462300016;
 break;
 case 'h':
 case 'H':
-PDkWq6 = MHjbE5xQ8 * 1331424062;
+PDkWq6 = (char)(MHjbE5xQ8 * 1331424062);
 break;
 case 'i':
 case 'I':

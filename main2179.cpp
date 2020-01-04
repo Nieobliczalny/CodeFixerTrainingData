@@ -328,7 +328,7 @@ lGHXmgDg_ = eJrG050U8 / w_LWAH(-494243407);
 switch (k5Bb00Slz)
 {
 case 0:
-mlGg = qaL_70wx00 << 1073356462;
+mlGg = (short)(qaL_70wx00 << 1073356462);
 break;
 case 1:
 X3wOF = w_LWAH(IjO4);

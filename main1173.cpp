@@ -541,7 +541,7 @@ case 3:
 IP_C -= 1805997885;
 break;
 case 4:
-T3rWQc2 = aZ010 - 1393931250;
+T3rWQc2 = (unsigned short)(aZ010 - 1393931250);
 break;
 case 5:
 P1UE = U65a6_(-1159067859, -1437002097, -1633404834) % yIhe2WVP;

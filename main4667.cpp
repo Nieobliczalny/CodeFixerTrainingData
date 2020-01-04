@@ -391,7 +391,7 @@ v3nBdCz = pghXYLEF50((unsigned short)-1469366284, (char)1812051896, KV28, 129681
 break;
 case 'b':
 case 'B':
-G196OTc = dzXm ^ 1709899690;
+G196OTc = (unsigned char)(dzXm ^ 1709899690);
 break;
 case 'c':
 case 'C':

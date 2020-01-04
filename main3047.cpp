@@ -68,7 +68,7 @@ else
 {
 try
 {
-GKn21mH = (HpB7 <= -100880018) ? (char)X6_ajm : -1949954647;
+GKn21mH = (HpB7 <= -100880018) ? (char)X6_ajm : (char)-1949954647;
 }
 catch (int& errorCode)
 {

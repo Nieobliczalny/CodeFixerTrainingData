@@ -419,7 +419,7 @@ case 'b':
 qyau3Qe0 = (int)ceil(IzhB63F);
 break;
 case 'c':
-rR135k7Y = f02_t1M_W - 1613657536;
+rR135k7Y = (unsigned short)(f02_t1M_W - 1613657536);
 break;
 case 'd':
 qyau3Qe0 = (int)ceil(D_D4_V);

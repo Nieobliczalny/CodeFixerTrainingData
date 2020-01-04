@@ -421,7 +421,7 @@ K14DC3 <<= Zh6a91swL;
 break;
 case 'f':
 case 'F':
-Zh6a91swL = QINkEm - 1332061924;
+Zh6a91swL = (unsigned short)(QINkEm - 1332061924);
 break;
 case 'g':
 case 'G':
@@ -526,7 +526,7 @@ std::cout << sJj6 << eBRH48Wb5 << K14DC3 << x4SlmJpyG << std::endl;
 }
 else if (K14DC3 > x4SlmJpyG)
 {
-eBRH48Wb5 = e116 - 344750099;
+eBRH48Wb5 = (unsigned short)(e116 - 344750099);
 }
 else
 {

@@ -603,7 +603,7 @@ FC0tm = bhh6();
 }
 else if (D0Xr9 > OqR7h)
 {
-G4w_h = cykV19y8 | 1542658965;
+G4w_h = (char)(cykV19y8 | 1542658965);
 }
 else if ((Q2RCI14ie0 != 1208360805) && ((ExRp <= cykV19y8) && (CDjl == 1604107705)))
 {

@@ -76,7 +76,7 @@ pPAfXci92 = II4oj((unsigned char)1927618963, -1668658896, (unsigned char)-161795
 }
 else
 {
-tUS7 = H7Bd - 1122497937;
+tUS7 = (unsigned short)(H7Bd - 1122497937);
 }
 }
 }

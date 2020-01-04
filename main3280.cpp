@@ -202,7 +202,7 @@ else if (((O599mins4O == oz9bwx1A) || (EO3VeOD_M9 & IsHqE6)) || ((zUT6 < 1272503
 {
 for (int k = 0; k < 7; k++)
 {
-ioUarDB = rX_95u8 + 199346975;
+ioUarDB = (unsigned short)(rX_95u8 + 199346975);
 }
 }
 else if (zTUwG_F3Y7)

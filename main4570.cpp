@@ -263,7 +263,7 @@ else if (sbuPd != cS9DL)
 {
 if ((Me0IX8G <= t0j0wo) || (Me0IX8G > -381460059))
 {
-p3y_7POTr = J4VTzEQU | 41670798;
+p3y_7POTr = (short)(J4VTzEQU | 41670798);
 }
 else if (x1l5C != vhIS5U05U9)
 {

@@ -381,7 +381,7 @@ for (int j = 0; j < 6; ++j)
 switch (CG_Wl08448)
 {
 case 'a':
-i5TTlC = Gz1nH6_ ^ 1614774033;
+i5TTlC = (short)(Gz1nH6_ ^ 1614774033);
 break;
 case 'b':
 t_Z6X_7pcE = a4_6FIrSLC(1573066904, t6iB, AZmV_1, sP9_26Zxw1);

@@ -169,7 +169,7 @@ if (iht9t9nC != TH2I9)
 switch (TH2I9)
 {
 case 0:
-FF1omJ = zl7mxCP2 ^ 1110230984;
+FF1omJ = (short)(zl7mxCP2 ^ 1110230984);
 break;
 }
 }

@@ -388,7 +388,7 @@ else
 {
 if (l_Dz221_ >= wKahs2kq4L)
 {
-l_De1e0Kb = n3S9bQnI - 1753134438;
+l_De1e0Kb = (short)(n3S9bQnI - 1753134438);
 }
 else
 {

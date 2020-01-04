@@ -387,7 +387,7 @@ std::cout << R0N5EHbo(fcR6Z, (short)-1181737784, (unsigned short)-1826702578, (s
 }
 else if (EV3Iv7TGfC)
 {
-Vd6fm_6G = MHEFbQF + 1345296154;
+Vd6fm_6G = (short)(MHEFbQF + 1345296154);
 }
 else
 {

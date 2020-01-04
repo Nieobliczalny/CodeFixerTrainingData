@@ -512,7 +512,7 @@ Om40 = k456d_ % QWoNe5p2p;
 }
 else if (K900N <= PUr0qm3Ef3)
 {
-boG1W6hQc = yUebVci0EO + 880357855;
+boG1W6hQc = (unsigned short)(yUebVci0EO + 880357855);
 }
 else if (aV6TEc_ < pjII4)
 {

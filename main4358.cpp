@@ -119,7 +119,7 @@ else if (dem_ > U7I6)
 switch (ZJsmGH1)
 {
 case 0:
-lzfT7L4h = U7I6 + 1308453709;
+lzfT7L4h = (unsigned short)(U7I6 + 1308453709);
 break;
 case 1:
 AEnDgS = skP7();
@@ -327,7 +327,7 @@ jY1Ua--;
 break;
 case 'b':
 case 'B':
-X556 = U7I6 & 876785985;
+X556 = (unsigned short)(U7I6 & 876785985);
 break;
 case 'c':
 case 'C':

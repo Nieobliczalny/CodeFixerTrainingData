@@ -799,7 +799,7 @@ L7w44gAo = K0XH3ij(MTOuis3hM_, -1522266900, (unsigned char)-923021297, (unsigned
 }
 else
 {
-v5bE3 = c4I0T1FL4 << 67463023;
+v5bE3 = (unsigned char)(c4I0T1FL4 << 67463023);
 }
 }
 else if (q7n4Vb2R3C)

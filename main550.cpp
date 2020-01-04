@@ -37,7 +37,7 @@ int main() {
 cout << "W_Te9IO" << doa3FfIn4N << B8PE6N8W((short)-1822913872, -393896658) << vLUc << endl;
 
 cout << -2100086794 / ox41q5 << endl;
-xWE1M = AD_0nd << 1067528467;
+xWE1M = (short)(AD_0nd << 1067528467);
 fq0q1_D -= 1054779902;
 if (((xL14t1e74u) || (o3eJ41I4P0 & -1102032515)) || ((vLUc < Dv3ZqIKYB) && (o3eJ41I4P0 == LP4I)))
 {

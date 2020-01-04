@@ -574,7 +574,7 @@ case 'f':
 m_IU = cmU_Dm6B8(J3IBZ_37M, B7sg83sf, I6_eTP6U, iT8CR, fL_cIi_1D);
 break;
 case 'g':
-QjssvLJxxJ = JyK2d7Qn ^ 1187569777;
+QjssvLJxxJ = (unsigned char)(JyK2d7Qn ^ 1187569777);
 break;
 case 'h':
 U8PUu &= 2041967253;

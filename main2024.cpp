@@ -231,7 +231,7 @@ F1Eb = (int)floor(q1ckL);
 break;
 case 'b':
 case 'B':
-fECcy55P = k8yn % 668831832;
+fECcy55P = (unsigned short)(k8yn % 668831832);
 break;
 case 'c':
 case 'C':

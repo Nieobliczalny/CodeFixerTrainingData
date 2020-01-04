@@ -218,7 +218,7 @@ else if (((vYadZlm7 < 1286965110) && (vYadZlm7 <= 57601430)) && (y48yKi0J < D4W1
 {
 try
 {
-vYadZlm7 = w06r_6Bv & 2039570102;
+vYadZlm7 = (short)(w06r_6Bv & 2039570102);
 }
 catch (int& errorCode)
 {

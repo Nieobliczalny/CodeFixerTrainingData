@@ -375,7 +375,7 @@ mDH7B4TgV++;
 switch (xZ5T_Te0)
 {
 case 0:
-zUPyU_dh = V7Cz - 1498506364;
+zUPyU_dh = (unsigned short)(V7Cz - 1498506364);
 break;
 case 1:
 C49a = V7Cz - 2036740802;

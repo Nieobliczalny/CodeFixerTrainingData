@@ -621,7 +621,7 @@ hy754H = (int)abs(CQP6RnU);
 break;
 case 'e':
 case 'E':
-h_lEVyp = H13LL3xz5 + 249371379;
+h_lEVyp = (char)(H13LL3xz5 + 249371379);
 break;
 case 'f':
 case 'F':

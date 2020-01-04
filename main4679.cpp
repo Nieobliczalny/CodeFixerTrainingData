@@ -527,7 +527,7 @@ do
 --j;
 if ((kSFA < Wfcp) || (KPaGX > L4283F))
 {
-N73G = L4283F & 90119568;
+N73G = (short)(L4283F & 90119568);
 }
 else
 {

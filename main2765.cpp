@@ -406,7 +406,7 @@ Nyp5 = (int)abs(ewRD);
 break;
 }
 
-Bh8gfMi = gDLi(-679398001, -1818960841, 2141063704, -637993972);
+Bh8gfMi = gDLi((unsigned char)-679398001, -1818960841, 2141063704, -637993972);
 if (GaLSbXj7 == l5IH8)
 {
 {

@@ -714,7 +714,7 @@ T98x3S = (int)floor(oy9AN);
 }
 else if (HLQk == LvVb)
 {
-vH_L2c = p7IwhJ32 % 203651622;
+vH_L2c = (short)(p7IwhJ32 % 203651622);
 }
 else if (PVl4b74b < BTKO)
 {

@@ -225,7 +225,7 @@ case 'h':
 B9J7M_ = (int)abs(pJvRh91EK);
 break;
 default:
-iY1K = cXPJzk35d1 * 18505595;
+iY1K = (short)(cXPJzk35d1 * 18505595);
 break;
 }
 }

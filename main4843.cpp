@@ -328,7 +328,7 @@ case 'a':
 qr9G6Mfnq = (int)floor(cKXX6_);
 break;
 case 'b':
-z0hQ0V9R = ntWg1E71 + 2083493865;
+z0hQ0V9R = (unsigned char)(ntWg1E71 + 2083493865);
 break;
 case 'c':
 BD151G1a9v = aX2y_L65q - i1kz;

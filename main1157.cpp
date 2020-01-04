@@ -427,7 +427,7 @@ while (i >= 0)
 BcGgrn = (double)(GhEQrR2JMU);
 }
 }
-U_QBWSdv = GhEQrR2JMU - 2129251953;
+U_QBWSdv = (short)(GhEQrR2JMU - 2129251953);
 
 r64fWx = (long)(fuzD9tx3);
 ZIZft = (int)abs(uo10No4J);

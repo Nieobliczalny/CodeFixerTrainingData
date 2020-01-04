@@ -251,7 +251,7 @@ case 2:
 CQZA3 = (int)ceil(K3O51N8I1v);
 break;
 case 3:
-uEvsVa = ZlW1vJxg(-1281805628, HLHMwCp6, 1735760794, oA3wjVA8io, -1954928580);
+uEvsVa = ZlW1vJxg(-1281805628, HLHMwCp6, 1735760794, oA3wjVA8io, (short)-1954928580);
 break;
 case 4:
 oA3wjVA8io = (int)ceil(QMhA);

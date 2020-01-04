@@ -748,7 +748,7 @@ else
 {
 try
 {
-FcVe = x4yQ6Z(1188601432, hQxFtWw, Ma54GKN, -1457977839, 2145978259);
+FcVe = x4yQ6Z(1188601432, hQxFtWw, Ma54GKN, (unsigned char)-1457977839, 2145978259);
 }
 catch (int& errorCode)
 {

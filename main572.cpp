@@ -265,7 +265,7 @@ if ((K686nz4m >= bB_NqvjgZ) || ((u4cIcP != am6eB4) && (wbfIu101MG < tJj5z8)))
 {
 if (wbfIu101MG != 573131095)
 {
-LPm3 = f9md3 ^ 1663466850;
+LPm3 = (short)(f9md3 ^ 1663466850);
 }
 else if (((dza31lz <= I829MoM) || (kpW0vO5kI == I829MoM)) && (kpW0vO5kI))
 {
@@ -423,7 +423,7 @@ case 6:
 f03L5C34d = b6ef(XyZE8, (short)1732009548, (short)-705629153, 930058062, Qf43kP6Q);
 break;
 case 7:
-f_604y_m23 = (h85_c4) ? (unsigned short)YKq0dC2 : 1660488595;
+f_604y_m23 = (h85_c4) ? (unsigned short)YKq0dC2 : (unsigned short)1660488595;
 break;
 case 8:
 S6__t0 = b6ef(W14J_2, ppZzEIg, (short)-1352974001, fJm3rU47, 180313905);

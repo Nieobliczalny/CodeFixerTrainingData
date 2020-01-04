@@ -164,7 +164,7 @@ else if ((JS33_21_5 >= e3iU3hv1) && (yw385e0Rc >= 1923955592))
 {
 try
 {
-Y0GIOn5a4d = B_4hTpGA1 << 1013133519;
+Y0GIOn5a4d = (unsigned short)(B_4hTpGA1 << 1013133519);
 }
 catch (int& errorCode)
 {
@@ -348,7 +348,7 @@ break;
 }
 else if (Wi4J4J4wr)
 {
-Y0GIOn5a4d = s_Dqzab_0 - 1453055795;
+Y0GIOn5a4d = (unsigned short)(s_Dqzab_0 - 1453055795);
 }
 else if (s5ccliI9 != sb8_99)
 {

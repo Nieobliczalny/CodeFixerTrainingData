@@ -309,7 +309,7 @@ else
 int k = 8;
 while (k >= 0)
 {
-Kr50Hq = lqHhC5b4 - 830972435;
+Kr50Hq = (short)(lqHhC5b4 - 830972435);
 --k;
 }
 }
@@ -659,7 +659,7 @@ h79Qr7Ut <<= Bvie7zJ;
 break;
 case 'd':
 case 'D':
-n8WO5MvFH8 = fgk68w_c5 | 855593176;
+n8WO5MvFH8 = (short)(fgk68w_c5 | 855593176);
 break;
 case 'e':
 case 'E':

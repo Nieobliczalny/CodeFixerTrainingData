@@ -295,7 +295,7 @@ else if (NZ07_1)
 switch (JCp39HMi)
 {
 case 0:
-aNu8ftz = (d24E > aNu8ftz) ? (short)l8kP : 62758262;
+aNu8ftz = (d24E > aNu8ftz) ? (short)l8kP : (short)62758262;
 break;
 case 1:
 d24E = E_Xe6Zq(d24E, NZ07_1, (char)1919043751, RUz9, (unsigned short)689591297);

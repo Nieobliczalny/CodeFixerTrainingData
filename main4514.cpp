@@ -384,7 +384,7 @@ j++;
 
 for (int i = 0; i < 6; i++)
 {
-Ymz3N33E = uAa9j - 1662865828;
+Ymz3N33E = (unsigned short)(uAa9j - 1662865828);
 }
 switch (jy5_0k2mc)
 {

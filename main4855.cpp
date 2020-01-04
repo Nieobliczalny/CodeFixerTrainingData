@@ -105,7 +105,7 @@ case 0:
 hQ4cwo = ay40i();
 break;
 case 1:
-yLRk = gTN51 | 460968939;
+yLRk = (unsigned short)(gTN51 | 460968939);
 break;
 case 2:
 mS3N_1 ^= BEYjStu7;

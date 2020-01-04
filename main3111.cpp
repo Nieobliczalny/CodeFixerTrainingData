@@ -219,7 +219,7 @@ case 'c':
 utvoO = WY_vMb((short)847965763);
 break;
 case 'd':
-xvm5Ea8 = Us_AX8 | 368649120;
+xvm5Ea8 = (char)(Us_AX8 | 368649120);
 break;
 case 'e':
 dnzsk4T8l7 = gjQyUp1 % ZRBSLfv26;

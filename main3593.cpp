@@ -66,7 +66,7 @@ int main(void) {
 
 wx4H24j_H = fYSpEIGXC ^ B9kB8;
 
-Af0_GWO = iSmhT - 1396463469;
+Af0_GWO = (char)(iSmhT - 1396463469);
 try
 {
 if (B9kB8 >= X5mAlo)

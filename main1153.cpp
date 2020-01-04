@@ -142,7 +142,7 @@ case 2:
 LHik1tqk = lO_58XTNXs - p9vpxDf1H;
 break;
 case 3:
-ye_6R = H8P2 - 1616540078;
+ye_6R = (unsigned short)(H8P2 - 1616540078);
 break;
 case 4:
 hY5W = Aw7UzpP3i7 & lO_58XTNXs;

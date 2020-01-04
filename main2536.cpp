@@ -145,7 +145,7 @@ else if (r_k8C2qo != w9tze_)
 {
 if (d6tuA & OdK4)
 {
-Br_k0Et = IQTspc & 1118418639;
+Br_k0Et = (unsigned char)(IQTspc & 1118418639);
 }
 else if ((J83C5kNXa8 < AE53266Q) && (e9nbH5Q51 <= 455466127))
 {

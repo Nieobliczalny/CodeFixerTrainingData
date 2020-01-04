@@ -352,7 +352,7 @@ if (UR1oM <= -129994715)
 {
 if (n_3l5w > zqbGTo4)
 {
-D_7c1_ = lwcY6 & 1561503362;
+D_7c1_ = (unsigned short)(lwcY6 & 1561503362);
 }
 else if (Kn9N5NW)
 {

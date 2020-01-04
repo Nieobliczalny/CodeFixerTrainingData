@@ -137,7 +137,7 @@ else if (kSPFDDQzH >= S_YM5)
 switch (jQMgpr2)
 {
 case 'a':
-CohVVO_GUm = k0qT1p1OF + 674954019;
+CohVVO_GUm = (char)(k0qT1p1OF + 674954019);
 break;
 case 'b':
 i1SBoO = jUAXHln << vCP8B;

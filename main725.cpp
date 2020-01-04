@@ -160,7 +160,7 @@ Kb5r2I4Y6 = xGBLsFkBn8 - 593107617;
 }
 else
 {
-Br503aAx8I = O1TF100Br + 350699009;
+Br503aAx8I = (short)(O1TF100Br + 350699009);
 }
 }
 }

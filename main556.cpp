@@ -369,7 +369,7 @@ case 2:
 XQ0uh = opCzG_rg(XQ0uh, PQt6RE);
 break;
 case 3:
-xzAh5E = JCGsV1Cyor | 311241147;
+xzAh5E = (unsigned short)(JCGsV1Cyor | 311241147);
 break;
 case 4:
 N9hsS10YV8 = QRSF3_ / 413409957;

@@ -189,7 +189,7 @@ case 'b':
 hFSb2 = (OG1z <= PK50_P3) ? (short)Tm0nfv : A5O_XO;
 break;
 case 'c':
-d_VMr68 = s0iFDA3V(1726262459, -2045224655, JHNzaosA, OG1z);
+d_VMr68 = s0iFDA3V(1726262459, (unsigned short)-2045224655, JHNzaosA, OG1z);
 break;
 case 'd':
 ohRh5_B = JHNzaosA & 2049170717;
@@ -544,7 +544,7 @@ case 1:
 OG1z = (ohRh5_B >= EsDXEwcjCm) ? (short)PK50_P3 : ohRh5_B;
 break;
 default:
-ohRh5_B = s0iFDA3V(-1027454500, 514025041, -1800109538, -1551393000);
+ohRh5_B = s0iFDA3V(-1027454500, (unsigned short)514025041, -1800109538, -1551393000);
 break;
 }
 if (((JHNzaosA <= 1101634146) || (OG1z < EsDXEwcjCm)) && (ohRh5_B >= -364873980))

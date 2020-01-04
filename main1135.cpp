@@ -116,7 +116,7 @@ while (j < 10)
 ++j;
 if (((m65OLV13_ >= 900794967) && (i7RZH6e <= qI_dk9wLX)) && (A9vXmR != EF6jY5mr78))
 {
-hnW1CA = aDLu39_1A << 1404798969;
+hnW1CA = (short)(aDLu39_1A << 1404798969);
 }
 else if (tDc50 < 1273269218)
 {
@@ -600,7 +600,7 @@ else
 {
 E50_323J3p = (short int)(cKe9ds3h);
 }
-r88XAG = qI_dk9wLX | 1865767774;
+r88XAG = (short)(qI_dk9wLX | 1865767774);
 
 if (M6XvJoln & -506791276)
 {

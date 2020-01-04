@@ -675,7 +675,7 @@ nUET %= 484110290;
 break;
 case 'b':
 case 'B':
-X6F0_q = hd7b5Ryj ^ 936877839;
+X6F0_q = (short)(hd7b5Ryj ^ 936877839);
 break;
 case 'c':
 case 'C':

@@ -164,7 +164,7 @@ else if (cT74rw & QL2GXw)
 {
 if (p9xdG12Nq >= YdFZ5_2f)
 {
-hW3qJ_ = YdFZ5_2f - 1196643971;
+hW3qJ_ = (char)(YdFZ5_2f - 1196643971);
 }
 else if ((GcC3_sZJ == QL2GXw) || (Gp1w3emB == a6Em))
 {

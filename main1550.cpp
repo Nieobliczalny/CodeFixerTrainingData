@@ -448,7 +448,7 @@ else if (rQt1t_Lg2e < i_UmhPq)
 int k = 1;
 do
 {
-a1Ft = g1tLuU15 + 786425072;
+a1Ft = (unsigned short)(g1tLuU15 + 786425072);
 k--;
 }
 while (k >= 0);

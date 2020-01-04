@@ -384,7 +384,7 @@ H3fH = (int)abs(v_StKB);
 }
 else
 {
-sAiw3 = VdL4 + 285141817;
+sAiw3 = (unsigned char)(VdL4 + 285141817);
 }
 }
 else

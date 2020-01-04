@@ -208,7 +208,7 @@ catch (int& errorCode)
 A1PFhw4wD = Dx3L4(674792527);
 }
 
-Cq849 = Q7lT7lXPnW & 1406173798;
+Cq849 = (unsigned short)(Q7lT7lXPnW & 1406173798);
 
 {
 int i = 0;

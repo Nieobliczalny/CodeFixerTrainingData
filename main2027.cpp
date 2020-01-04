@@ -253,7 +253,7 @@ if (U7Avg4UJJ != 941977371)
 {
 try
 {
-OfF59Uit = Jj7A961wS + 842326847;
+OfF59Uit = (short)(Jj7A961wS + 842326847);
 }
 catch (int& errorCode)
 {

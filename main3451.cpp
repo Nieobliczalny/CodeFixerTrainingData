@@ -333,7 +333,7 @@ else if ((ad_YQr == -1299197316) || ((qKMmH != a38F6t) && (AT1X & OAjU)))
 switch (sLB50X5j2)
 {
 case 'a':
-G8iNQTxj0 = hro37n - 726571016;
+G8iNQTxj0 = (unsigned short)(hro37n - 726571016);
 break;
 case 'b':
 tkRy8U4 = Mk0mD6f_X(-1526527906, qKMmH, Qvmv, oFdNb_a, -1856663532);
@@ -542,7 +542,7 @@ case 'd':
 JER1 = o4qF(JER1);
 break;
 default:
-L_WQh8H = OAjU * 1243476766;
+L_WQh8H = (unsigned short)(OAjU * 1243476766);
 break;
 }
 }

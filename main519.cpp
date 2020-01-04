@@ -537,7 +537,7 @@ j--;
 switch (S_HM5B1h96)
 {
 case 0:
-hm7L = VoTwhg4V ^ 1792697447;
+hm7L = (short)(VoTwhg4V ^ 1792697447);
 break;
 case 1:
 Y_pr5 += 2034972795;

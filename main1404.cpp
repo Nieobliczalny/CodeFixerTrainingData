@@ -69,7 +69,7 @@ TNwM5T60 = s578 ^ p8NvbOdm_;
 break;
 case 'g':
 case 'G':
-Rt5c = (cNUB1WF > qw6xQ) ? (short)IhjV8o0G_C : 346080286;
+Rt5c = (cNUB1WF > qw6xQ) ? (short)IhjV8o0G_C : (short)346080286;
 break;
 }
 UAu0n++;

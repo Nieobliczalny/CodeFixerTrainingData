@@ -51,7 +51,7 @@ aJoY8q = v0uz3M_98q | LTTZEgZ0_v;
 break;
 case 'e':
 case 'E':
-C1m5z_e = DEtk1NrK | 1660263677;
+C1m5z_e = (unsigned char)(DEtk1NrK | 1660263677);
 break;
 case 'f':
 case 'F':

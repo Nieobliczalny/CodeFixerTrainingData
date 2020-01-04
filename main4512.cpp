@@ -240,7 +240,7 @@ FP68V4i_ >>= 341216636;
 }
 else
 {
-KOX4k3Un = Szm7qM | 689924983;
+KOX4k3Un = (unsigned char)(Szm7qM | 689924983);
 }
 }
 else
@@ -262,7 +262,7 @@ break;
 switch (ItXo2ay5g_)
 {
 case 'a':
-CKjkNI = Szm7qM << 1598584929;
+CKjkNI = (unsigned char)(Szm7qM << 1598584929);
 break;
 case 'b':
 yctwM18w = (int)abs(bFZp);

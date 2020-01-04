@@ -368,7 +368,7 @@ int k = 0;
 do
 {
 k++;
-h3891 = hz_S6z % 1553381127;
+h3891 = (unsigned short)(hz_S6z % 1553381127);
 }
 while (k < 2);
 }

@@ -216,7 +216,7 @@ int main(int argc, char** argv) {
 
 OuOD7b >>= 1725311346;
 
-o1U63 = Vn4clss ^ 1233684179;
+o1U63 = (unsigned char)(Vn4clss ^ 1233684179);
 std::cout << W_9Z << "h4o0a9z8XC" << "DuNNSUQL" << std::endl;
 switch (dBqqIrPtsK)
 {

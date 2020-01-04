@@ -494,7 +494,7 @@ DKwgU9--;
 }
 else
 {
-Tz0HJm1 = E6Box | 31619792;
+Tz0HJm1 = (char)(E6Box | 31619792);
 }
 }
 catch (int& errorCode)

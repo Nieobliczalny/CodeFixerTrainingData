@@ -331,7 +331,7 @@ case 'g':
 QJtTr_TOe ^= bamtpp498;
 break;
 case 'h':
-t3YnL = (c_2hKQx5l == mf9Ip) ? (unsigned short)XmjBRy7 : -1516930524;
+t3YnL = (c_2hKQx5l == mf9Ip) ? (unsigned short)XmjBRy7 : (unsigned short)-1516930524;
 break;
 }
 }
@@ -370,7 +370,7 @@ qm_r = v_L0j0 >> 2104506520;
 }
 else
 {
-ZF57ZED48L = qZ20u1X - 847131221;
+ZF57ZED48L = (unsigned short)(qZ20u1X - 847131221);
 }
 
 for (int i = 3; i >= 0; --i)

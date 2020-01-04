@@ -101,7 +101,7 @@ case 0:
 eC67Y_4 = (Burv78T) ? 796297131 : 539172552;
 break;
 case 1:
-Burv78T = QAxppe7RO8 % 326631050;
+Burv78T = (unsigned short)(QAxppe7RO8 % 326631050);
 break;
 case 2:
 O1U6JZQp ^= r0119cGA;

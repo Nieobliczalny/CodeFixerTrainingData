@@ -279,7 +279,7 @@ case 3:
 EcdV26C8 = (int)abs(qXnthlLd_) + (-1073220659);
 break;
 case 4:
-jXFKQb0 = Q_9RD049V | 1118397509;
+jXFKQb0 = (char)(Q_9RD049V | 1118397509);
 break;
 default:
 QGt_lHHYTt = btq3Cg7g(-2082082564, vHVnmT9, 552444093, Uh_R7mg);

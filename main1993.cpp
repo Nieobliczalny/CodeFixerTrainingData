@@ -109,7 +109,7 @@ case 'a':
 Q4vmsou--;
 break;
 case 'b':
-hv8D1B3z = ed49kwVlU_ << 368025340;
+hv8D1B3z = (unsigned short)(ed49kwVlU_ << 368025340);
 break;
 case 'c':
 s3qE78TcZ = (int)abs(ALQZcL2);

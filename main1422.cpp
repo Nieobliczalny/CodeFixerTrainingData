@@ -477,7 +477,7 @@ Vb2J = (Kon8r >= ateWYd3) ? -1336744887 : -764339232;
 ++i;
 }
 }
-M0SAzxN698 = T8mMeOy << 1967181070;
+M0SAzxN698 = (unsigned short)(T8mMeOy << 1967181070);
 for (int i = 4; i >= 0; i--)
 {
 if ((SDRwz4qfIa != -201678545) && (GN3NmlU & GeZb))

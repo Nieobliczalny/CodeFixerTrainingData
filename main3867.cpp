@@ -114,7 +114,7 @@ do
 {
 if (xE1l >= 567832580)
 {
-O6__3FYH6 = Ng1zUBAcr5 & 2111916047;
+O6__3FYH6 = (short)(Ng1zUBAcr5 & 2111916047);
 }
 else if ((GSQ_7lA != 511648643) || (L2gfid & -1169445960))
 {

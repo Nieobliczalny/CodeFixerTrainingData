@@ -165,7 +165,7 @@ do
 {
 if (OIOQ7qg6N >= bKGco)
 {
-Spq_6 = bKGco | 1186390642;
+Spq_6 = (short)(bKGco | 1186390642);
 }
 else
 {

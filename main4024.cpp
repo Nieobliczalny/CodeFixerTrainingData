@@ -97,7 +97,7 @@ case 1:
 sN5mmx = (ZjkarV <= 1640048595) ? h9_02G5QNk : (char)mb066KDx37;
 break;
 case 2:
-mW8QouxJD7 = W834NXxTB(-2063653649, -852234300, DSR2L, -534623798);
+mW8QouxJD7 = W834NXxTB(-2063653649, -852234300, DSR2L, (unsigned char)-534623798);
 break;
 case 3:
 Lo_GwW--;
@@ -116,7 +116,7 @@ break;
 
 for (int i = 0; i < 1; ++i)
 {
-JH3sV022GW = mb066KDx37 + 1481449706;
+JH3sV022GW = (char)(mb066KDx37 + 1481449706);
 }
 
 rvC33Q2_6 = rOnh2ELL(-1842145071, R1w4RLnz, -1022543947, 646223205);
@@ -340,7 +340,7 @@ int i = 0;
 do
 {
 ++i;
-rvC33Q2_6 = mb066KDx37 - 1617960;
+rvC33Q2_6 = (char)(mb066KDx37 - 1617960);
 }
 while (i < 8);
 }

@@ -225,7 +225,7 @@ case 4:
 zxU7T = R656OB(Yz3y5_f, (unsigned short)2012095772);
 break;
 case 5:
-LHHKg1MK7_ = x0t_ ^ 1636821767;
+LHHKg1MK7_ = (char)(x0t_ ^ 1636821767);
 break;
 case 6:
 zxU7T = R656OB(-1551299390, Yz3y5_f);

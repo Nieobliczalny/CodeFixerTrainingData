@@ -208,7 +208,7 @@ case 2:
 T9P_r = tWPGp37m * Q0ZW_H;
 break;
 case 3:
-QfijZ = W6OpE3v_ | 52272234;
+QfijZ = (char)(W6OpE3v_ | 52272234);
 break;
 case 4:
 I65Le2 %= q9JZm8X3;

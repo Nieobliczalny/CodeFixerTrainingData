@@ -108,7 +108,7 @@ case 1:
 z8ZV = HyyVR(781350101, a4S7riclKD, -557793208, h108axCT);
 break;
 case 2:
-W2si604 = zi_n9jh + 490275330;
+W2si604 = (unsigned char)(zi_n9jh + 490275330);
 break;
 case 3:
 gittX0830R = (int)abs(gtS_H3S);
@@ -487,7 +487,7 @@ try
 switch (L9q7zx_)
 {
 case 'a':
-o3_y = (qaCC & -447712028) ? (unsigned char)jQ6P1 : yAZ2uR;
+o3_y = (qaCC & -447712028) ? (unsigned char)jQ6P1 : (unsigned char)yAZ2uR;
 break;
 default:
 DG362P4k ^= nZmwsAZh7v;

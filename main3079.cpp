@@ -109,7 +109,7 @@ while (j >= 0)
 {
 if (Ekj1PoI_ >= -170118399)
 {
-aM66F = (I576 > 1371968214) ? (unsigned short)itTh2Oa : 1638043814;
+aM66F = (I576 > 1371968214) ? (unsigned short)itTh2Oa : (unsigned short)1638043814;
 }
 else
 {

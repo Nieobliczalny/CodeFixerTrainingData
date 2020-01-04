@@ -115,7 +115,7 @@ if (JaBpE > 487994959)
 {
 if (bC1T7fqQD & z8yxW1qnV)
 {
-B91l0 = PFdDVZ * 1755982650;
+B91l0 = (unsigned short)(PFdDVZ * 1755982650);
 }
 }
 else if (K345P1T < 1925560943)

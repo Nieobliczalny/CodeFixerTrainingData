@@ -86,7 +86,7 @@ if (J_TTJPRU < gjDzwFpv)
 {
 if (R15RU4d == Xs4I0qCtt)
 {
-fmeDYl = rO76sie3 << 220486046;
+fmeDYl = (unsigned short)(rO76sie3 << 220486046);
 }
 else if (fmeDYl & -854251097)
 {

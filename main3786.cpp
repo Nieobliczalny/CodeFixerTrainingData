@@ -268,7 +268,7 @@ CHVE = H6CIiSa ^ 1654139492;
 }
 else if (aP_w20j8 >= Zd2I5vD17O)
 {
-H6CIiSa = lg6VwX0 * 1009456779;
+H6CIiSa = (short)(lg6VwX0 * 1009456779);
 }
 else
 {

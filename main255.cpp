@@ -251,7 +251,7 @@ case 5:
 u5CQY = zL786f + 837838103;
 break;
 case 6:
-uADTW16N = BWocF(uADTW16N, -1509963641, C2lkA8_6q);
+uADTW16N = BWocF(uADTW16N, (short)-1509963641, C2lkA8_6q);
 break;
 case 7:
 B__V3 = b0CyE25He0();

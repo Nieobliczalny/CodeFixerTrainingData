@@ -425,7 +425,7 @@ case 3:
 u2ZN_vC2 = a7np7Y7(657849709, (char)169257162);
 break;
 case 4:
-Tc0wU6 = P8_DK - 1050485912;
+Tc0wU6 = (short)(P8_DK - 1050485912);
 break;
 case 5:
 S6GuHXF = (int)abs(jBkV581n9);

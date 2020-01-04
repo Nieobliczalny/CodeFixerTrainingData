@@ -215,7 +215,7 @@ T5xgE = W_Z9i2T ^ G8R8JRh3;
 }
 else
 {
-zXsrzVBZ4 = czfSJE | 1980721916;
+zXsrzVBZ4 = (unsigned short)(czfSJE | 1980721916);
 }
 }
 }
@@ -722,7 +722,7 @@ Zs4D7 = TZpALRppAM | JRK4NC;
 }
 else if (qM7H != 75099713)
 {
-WcZ7q = tE0a3R_ & 711618847;
+WcZ7q = (unsigned short)(tE0a3R_ & 711618847);
 }
 else if (zXsrzVBZ4 > -1883182279)
 {

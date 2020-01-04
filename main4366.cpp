@@ -146,7 +146,7 @@ while (i >= 0);
 switch (R55m)
 {
 case 0:
-G4lBH71b40 = J1qR | 835252557;
+G4lBH71b40 = (unsigned char)(J1qR | 835252557);
 break;
 case 1:
 ncD4D = ab3jMG2(-187068881, 1389346315, (short)-629127697, 1307555391);

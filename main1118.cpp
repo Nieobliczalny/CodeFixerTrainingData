@@ -87,7 +87,7 @@ k8_DiM |= Mh4uPgLn;
 break;
 case 'c':
 case 'C':
-JKEjO6 = k58e ^ 1024941903;
+JKEjO6 = (short)(k58e ^ 1024941903);
 break;
 case 'd':
 case 'D':
@@ -563,7 +563,7 @@ CnAxaU = (int)abs(i_ufQ34mc);
 }
 else if (JKEjO6 <= -68821038)
 {
-e16X9NE = (L04pVr) ? (short)k58e : 216424242;
+e16X9NE = (L04pVr) ? (short)k58e : (short)216424242;
 }
 else
 {

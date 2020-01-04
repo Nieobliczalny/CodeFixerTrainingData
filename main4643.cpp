@@ -310,7 +310,7 @@ case 'c':
 jJUV = y_6AzLcLM(X9ACg77, jJUV, EC4QGS);
 break;
 case 'd':
-b1_zMc = Gy65Al << 848181767;
+b1_zMc = (short)(Gy65Al << 848181767);
 break;
 case 'e':
 GZjG4 = (int)floor(kyaRFi6);

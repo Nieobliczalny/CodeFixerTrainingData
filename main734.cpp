@@ -69,7 +69,7 @@ else
 {
 for (int j = 0; j < 9; j++)
 {
-COG_2 = j6zi_F_tZv | 1989985178;
+COG_2 = (short)(j6zi_F_tZv | 1989985178);
 }
 }
 

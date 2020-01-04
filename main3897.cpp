@@ -114,7 +114,7 @@ if (kHWG92 & idZk)
 {
 for (int k = 0; k < 1; ++k)
 {
-kHWG92 = lNiD9G6uj8 | 478884360;
+kHWG92 = (char)(lNiD9G6uj8 | 478884360);
 }
 }
 else
@@ -175,7 +175,7 @@ idZk = e08IDc & 1874562851;
 }
 else if (e08IDc > kHWG92)
 {
-idZk = u21Esc + 1791110783;
+idZk = (unsigned short)(u21Esc + 1791110783);
 }
 else if (z0f1tP & jv4Z_wWb)
 {

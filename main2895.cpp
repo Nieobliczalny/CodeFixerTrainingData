@@ -555,7 +555,7 @@ AYPy = (Y4tS == b5xjAvvO04) ? (unsigned char)1649646118 : (unsigned char)d87tm8N
 break;
 case 'c':
 case 'C':
-cOP6 = fZq2fmX3hN(Pjzyw3B544, cOP6, 2004606343);
+cOP6 = fZq2fmX3hN(Pjzyw3B544, cOP6, (unsigned short)2004606343);
 break;
 case 'd':
 case 'D':

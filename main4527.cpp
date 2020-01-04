@@ -632,7 +632,7 @@ else if (iA09C3)
 {
 if ((S549 >= z63p_p_) && (W_y168M9 <= z63p_p_))
 {
-H_2v = nRsN811n5 - 2052317272;
+H_2v = (short)(nRsN811n5 - 2052317272);
 }
 else if (((Wh9HL_ >= nRsN811n5) && (E0wr5 >= 753112914)) || (WdGe1V8))
 {

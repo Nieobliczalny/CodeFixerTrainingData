@@ -747,7 +747,7 @@ c5Zw5t = opMD4Fix_8 * Lug_pH;
 }
 else if (Lug_pH > -1017932444)
 {
-Lug_pH = f5mc8I_ - 237887594;
+Lug_pH = (unsigned short)(f5mc8I_ - 237887594);
 }
 else if (wLQWVSs14 >= F6L3ZV)
 {

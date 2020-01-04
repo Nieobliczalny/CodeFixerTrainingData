@@ -309,7 +309,7 @@ j580 = Yq0_((unsigned short)1370698881, 644617015, (unsigned short)1910391576);
 E6IOS = CXJ96 / zLhA;
 if ((rSFZ5j > Ydlk1) || (dmQd9e_cz3 >= uz1r70WU_X))
 {
-s5ZxGtCpPa = Ti_0t32o | 1759353424;
+s5ZxGtCpPa = (short)(Ti_0t32o | 1759353424);
 }
 else if ((zLhA < Ydlk1) || (rSFZ5j <= Ydlk1))
 {

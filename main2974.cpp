@@ -181,7 +181,7 @@ else
 switch (y80Q8O7MeH)
 {
 case 0:
-ty6xLiU = g46gtjNGw * 1445002729;
+ty6xLiU = (unsigned char)(g46gtjNGw * 1445002729);
 break;
 case 1:
 U5TT = K6eM(U5TT, mt51EO);
@@ -304,7 +304,7 @@ v_3_3Lp = iet_T(v_3_3Lp);
 }
 else
 {
-i7aXR8u3wg = SniTv + 412691045;
+i7aXR8u3wg = (unsigned char)(SniTv + 412691045);
 }
 
 switch (ok6CvzSiD)
@@ -460,7 +460,7 @@ j__zR0RQ6 = K6eM(1014078882, (short)1199979527);
 }
 else
 {
-Lcu94RY5 = SniTv | 2113004532;
+Lcu94RY5 = (unsigned char)(SniTv | 2113004532);
 }
 }
 }

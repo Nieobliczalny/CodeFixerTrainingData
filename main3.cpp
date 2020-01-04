@@ -347,7 +347,7 @@ case 4:
 sBPHb5GhEV = uk78V((unsigned short)-862095226, Y7f8C8Z36A, (short)-1558814224, (short)-626784801);
 break;
 case 5:
-u3KO = (zyuY) ? (unsigned short)MPaANB : 565154263;
+u3KO = (zyuY) ? (unsigned short)MPaANB : (unsigned short)565154263;
 break;
 default:
 Bl0W0b = E9GsVLT(-1067477922, yJkV1O5vW, Y5Qu70l1ot);
@@ -524,7 +524,7 @@ case 1:
 MG4rjRcs = ZHy_();
 break;
 case 2:
-L7oYlpi65 = i3__Yw - 195643350;
+L7oYlpi65 = (unsigned short)(i3__Yw - 195643350);
 break;
 case 3:
 FZty4ZVW *= 1296832146;

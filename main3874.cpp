@@ -268,7 +268,7 @@ zQSZj0R = Jv9Cd417xt % 1399469065;
 break;
 case 'd':
 case 'D':
-Z4Gb20U = (F_0pX <= ItQq) ? (unsigned short)G51sh53 : -1420815419;
+Z4Gb20U = (F_0pX <= ItQq) ? (unsigned short)G51sh53 : (unsigned short)-1420815419;
 break;
 case 'e':
 case 'E':

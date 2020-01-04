@@ -107,7 +107,7 @@ case 3:
 l6_9hti += luE064D1_N;
 break;
 case 4:
-AV31luL7OX = mWakJ1wmc ^ 1040897321;
+AV31luL7OX = (unsigned short)(mWakJ1wmc ^ 1040897321);
 break;
 case 5:
 w2l0X6ngv = CARsp2();

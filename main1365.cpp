@@ -310,7 +310,7 @@ catch (int& errorCode)
 {
 jePJ7_q0 -= 1942152545;
 }
-g_7SsvUhn = XraLV * 144751782;
+g_7SsvUhn = (char)(XraLV * 144751782);
 g_7SsvUhn = Luv4znx + rFb_;
 if (Ys00 <= p_zBPnP1T)
 {

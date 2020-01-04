@@ -27,7 +27,7 @@ int j = 0;
 do
 {
 j++;
-bXx2Y = Gau2S + 1866221983;
+bXx2Y = (unsigned short)(Gau2S + 1866221983);
 }
 while (j < 1);
 }
@@ -286,7 +286,7 @@ try
 {
 try
 {
-D0Kby3 = Gau2S + 997464708;
+D0Kby3 = (unsigned short)(Gau2S + 997464708);
 }
 catch (int& errorCode)
 {

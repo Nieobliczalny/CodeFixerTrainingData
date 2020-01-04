@@ -63,7 +63,7 @@ case 3:
 hc9y = P0V7FP5T(1088819699, hc9y, r4Aw, (unsigned short)-1825257270);
 break;
 case 4:
-sbIV182i = H1_Dg82 & 978068238;
+sbIV182i = (char)(H1_Dg82 & 978068238);
 break;
 case 5:
 vyuC9S99_ = (int)abs(m6MKJm73k);
@@ -198,7 +198,7 @@ hc9y &= wNMnAEBm;
 }
 while (i >= 0);
 }
-vyuC9S99_ = h8DZ - 1152135127;
+vyuC9S99_ = (char)(h8DZ - 1152135127);
 
 hc9y = 819196166 / F8fn3Xu;
 

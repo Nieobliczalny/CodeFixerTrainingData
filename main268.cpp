@@ -508,7 +508,7 @@ case 5:
 p_9P = Kd7Og(-462700988);
 break;
 case 6:
-iNApN77Ik = CC41x4 - 1070272213;
+iNApN77Ik = (short)(CC41x4 - 1070272213);
 break;
 case 7:
 YAE8v5k |= 1276675532;

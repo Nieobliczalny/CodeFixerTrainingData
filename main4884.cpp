@@ -346,7 +346,7 @@ GdVf--;
 }
 else if (G_sA >= -1547006251)
 {
-i911reE9 = (Bmdo2YYk2U <= nZ_Q2) ? (unsigned short)Z67xomNu : -1938202858;
+i911reE9 = (Bmdo2YYk2U <= nZ_Q2) ? (unsigned short)Z67xomNu : (unsigned short)-1938202858;
 }
 else if ((RAz6f9pdSM == KHYVDjy) && ((vV7G772RH != 1395135540) && (C1fD4wzzFt == qfCHqUV)))
 {

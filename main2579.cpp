@@ -131,7 +131,7 @@ case 5:
 x9_80 = BIt3qeuI(x9_80, Jpn2, DJ42v6L4l, TU6tkpW, f9eeUd9Bym);
 break;
 case 6:
-UQSm_ = (w_7xN > -869930302) ? (unsigned short)Drh88qA : -1978710243;
+UQSm_ = (w_7xN > -869930302) ? (unsigned short)Drh88qA : (unsigned short)-1978710243;
 break;
 case 7:
 DJ42v6L4l = yr9mEReR_(DJ42v6L4l, Lu5Nw0u0, uF26Ac, 1844529516, 584224853);

@@ -254,7 +254,7 @@ Jn3BI3 = QZ0F8dxmv5();
 }
 else if ((pl6_X != j8TkRZad09) && ((j8TkRZad09 >= W_im9) && (W_im9 != 23582429)))
 {
-Jp_8y02z1a = AV7JBS + 1419408540;
+Jp_8y02z1a = (short)(AV7JBS + 1419408540);
 }
 else
 {

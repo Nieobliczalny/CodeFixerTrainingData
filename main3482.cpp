@@ -186,7 +186,7 @@ j--;
 switch (T2X2r8d)
 {
 case 'a':
-Fl6w9qn = (i3t9 != ByL9VLaIz) ? (short)xxDn1p4 : -629034571;
+Fl6w9qn = (i3t9 != ByL9VLaIz) ? (short)xxDn1p4 : (short)-629034571;
 break;
 case 'b':
 IC2gJ = gAjRN >> su0p;
@@ -207,7 +207,7 @@ case 'g':
 t8j2Elx_++;
 break;
 case 'h':
-Q_A8j = xxDn1p4 - 2007620206;
+Q_A8j = (short)(xxDn1p4 - 2007620206);
 break;
 case 'i':
 ALyUBSpae = (int)abs(B0Z8V);
@@ -301,7 +301,7 @@ for (int j = 7; j >= 0; --j)
 int k = 10;
 while (k >= 0)
 {
-QL_iH = (t74ChM >= sqX5bDa) ? (short)xxDn1p4 : -914209647;
+QL_iH = (t74ChM >= sqX5bDa) ? (short)xxDn1p4 : (short)-914209647;
 k--;
 }
 }

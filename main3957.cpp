@@ -261,7 +261,7 @@ if (uCkLYSn3 == jy88U227D)
 switch (V_Y_h96Z3)
 {
 case 0:
-YROo4 = f_kN8_ - 76358599;
+YROo4 = (short)(f_kN8_ - 76358599);
 break;
 case 1:
 ck_81Jj2 = eeIQk(Okl59q, K4uT8r, FL9yd6QHy2, tBdCyLU3);

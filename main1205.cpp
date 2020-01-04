@@ -355,7 +355,7 @@ case 3:
 FOB40Yh50 = (int)floor(lZEnM);
 break;
 case 4:
-xY2_x = zf0M | 205048746;
+xY2_x = (unsigned short)(zf0M | 205048746);
 break;
 case 5:
 lZEnM = (int)abs(ZAZAH_);

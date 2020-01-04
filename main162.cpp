@@ -46,7 +46,7 @@ while (i >= 0);
 }
 if (ru7CjOBSlt > 274080715)
 {
-vBH26yne6 = bY2A << 986095170;
+vBH26yne6 = (short)(bY2A << 986095170);
 }
 else if (tLDTg >= 351688930)
 {
@@ -327,7 +327,7 @@ else
 int j = 4;
 do
 {
-MM2vL551 = U4R7LAqMX & 971605841;
+MM2vL551 = (short)(U4R7LAqMX & 971605841);
 j--;
 }
 while (j >= 0);

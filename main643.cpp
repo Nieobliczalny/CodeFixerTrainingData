@@ -570,7 +570,7 @@ case 5:
 bicT_ = e0TZ();
 break;
 case 6:
-Y9H24AqA = mor3lXg * 31093019;
+Y9H24AqA = (unsigned char)(mor3lXg * 31093019);
 break;
 }
 }

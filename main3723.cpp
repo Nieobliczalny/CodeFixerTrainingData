@@ -189,7 +189,7 @@ aj__ ^= V8Udy;
 }
 else if (HW05f02 > j63t5i344v)
 {
-zhC5m6QEm = L1WF6qv - 1475127138;
+zhC5m6QEm = (unsigned short)(L1WF6qv - 1475127138);
 }
 else
 {

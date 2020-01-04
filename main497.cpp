@@ -126,7 +126,7 @@ Lora65D++;
 }
 else if (((HHy8) || (w5rDkIq < -1694415687)) || (fBdtN2P))
 {
-S8C9TS1N = KVPVP + 1370756031;
+S8C9TS1N = (unsigned short)(KVPVP + 1370756031);
 }
 else if (zz7lVafV5l)
 {

@@ -93,7 +93,7 @@ Tdx_0W1 = y0r3xdMlo1(Tdx_0W1, lg51qqPI, -118030589, YGmOzmC);
 }
 else if (((ldC229JO8Z < EJa7J__b7J) || (kF6_Y524Oc >= F6dd8cg)) || ((is2zXzfW & 180827100) || (kF6_Y524Oc <= F6dd8cg)))
 {
-vj4PI = F6dd8cg - 624441616;
+vj4PI = (unsigned short)(F6dd8cg - 624441616);
 }
 else
 {

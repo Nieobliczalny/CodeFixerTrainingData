@@ -225,7 +225,7 @@ d4N0bcTD7 = d4N0bcTD7 + 1316825294;
 break;
 case 'c':
 case 'C':
-bIi7VNHG = zrJ1XaEo ^ 1232169400;
+bIi7VNHG = (short)(zrJ1XaEo ^ 1232169400);
 break;
 case 'd':
 case 'D':

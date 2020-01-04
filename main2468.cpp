@@ -81,7 +81,7 @@ b_zH2 = l7Q07ywq41(-484740762, -598276381, f5JV6hl5, (short)1884393250, Epevcwu)
 }
 else if ((sgGw <= HSwaV) || (HT0lTtC >= f5JV6hl5))
 {
-b_zH2 = j6BU8E8 - 1402140899;
+b_zH2 = (unsigned short)(j6BU8E8 - 1402140899);
 }
 else
 {

@@ -159,7 +159,7 @@ BrdgD2gYks = (int)abs(fek1);
 break;
 case 'g':
 case 'G':
-A4JIi5We = C6INS92b & 2102534622;
+A4JIi5We = (char)(C6INS92b & 2102534622);
 break;
 case 'h':
 case 'H':

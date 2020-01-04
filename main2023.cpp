@@ -912,7 +912,7 @@ V13_5QOcp = (unsigned long)(Z8ltV3j + (a8CXati9y));
 }
 }
 
-bgJM = a8CXati9y | 1059498006;
+bgJM = (short)(a8CXati9y | 1059498006);
 return 0;
 }
 

@@ -141,7 +141,7 @@ b7JX5k42 = C4L22I2n();
 int i = 6;
 do
 {
-jW6KVYk = (R8BZYR <= iA2maDz) ? (unsigned char)Z_F9OOK : 1018757417;
+jW6KVYk = (R8BZYR <= iA2maDz) ? (unsigned char)Z_F9OOK : (unsigned char)1018757417;
 --i;
 }
 while (i >= 0);
@@ -501,7 +501,7 @@ int k = 0;
 do
 {
 k++;
-Q3Xi55 = (NoCWA == 2046874273) ? (unsigned char)Z_F9OOK : 841981356;
+Q3Xi55 = (NoCWA == 2046874273) ? (unsigned char)Z_F9OOK : (unsigned char)841981356;
 }
 while (k < 10);
 }

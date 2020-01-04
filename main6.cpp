@@ -421,7 +421,7 @@ case 'c':
 EZ2w_9 = t9TX7U(EZ2w_9, BBkfofsf_);
 break;
 case 'd':
-SEULyiv = u0q1ND__4 << 935690325;
+SEULyiv = (unsigned short)(u0q1ND__4 << 935690325);
 break;
 }
 if (l5D4 >= LK6N5VY)

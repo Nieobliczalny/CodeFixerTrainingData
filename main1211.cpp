@@ -374,7 +374,7 @@ tCC96_ /= B97c;
 break;
 case 'i':
 case 'I':
-Gp0v5K9sHp = DD04a | 621327170;
+Gp0v5K9sHp = (unsigned short)(DD04a | 621327170);
 break;
 case 'j':
 case 'J':

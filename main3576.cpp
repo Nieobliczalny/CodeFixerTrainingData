@@ -280,7 +280,7 @@ try
 {
 for (int k = 10; k >= 0; k--)
 {
-bP1YY = uSC75AK * 1930654665;
+bP1YY = (short)(uSC75AK * 1930654665);
 }
 }
 catch (int& errorCode)

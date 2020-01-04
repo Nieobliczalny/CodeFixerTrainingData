@@ -244,7 +244,7 @@ else
 switch (X6A2_5Uft)
 {
 case 0:
-vUqj4 = OvSyD((short)374607717, -2131093360, 761299374);
+vUqj4 = OvSyD((short)374607717, (unsigned short)-2131093360, 761299374);
 break;
 case 1:
 K74V4x = (int)abs(f5321);

@@ -473,7 +473,7 @@ case 1:
 Sf_59++;
 break;
 case 2:
-L3iq = jR59HJ * 1585493987;
+L3iq = (unsigned char)(jR59HJ * 1585493987);
 break;
 default:
 dE7IAf9iRS = (b81kW >= 1335389165) ? 331797769 : UFrSP;

@@ -190,7 +190,7 @@ case 5:
 M1mtW++;
 break;
 default:
-EM_5 = qT_mTsQm * 1533977950;
+EM_5 = (unsigned char)(qT_mTsQm * 1533977950);
 break;
 }
 }

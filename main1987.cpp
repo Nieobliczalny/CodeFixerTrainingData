@@ -296,7 +296,7 @@ case 7:
 BBIfgTq = (int)abs(YhE2_9);
 break;
 case 8:
-gh84920CO = GTXar - 424182035;
+gh84920CO = (unsigned char)(GTXar - 424182035);
 break;
 case 9:
 bm1pv_c1e = (int)abs(pvMWt0) * 0;

@@ -241,7 +241,7 @@ for (int j = 4; j >= 0; --j)
 int k = 0;
 while (k < 4)
 {
-j6UE74F6 = riHS - 581595551;
+j6UE74F6 = (char)(riHS - 581595551);
 ++k;
 }
 }
@@ -415,7 +415,7 @@ case 1:
 VaS0c4UA6 = (int)floor(G2F6);
 break;
 case 2:
-hb_0qy = (Yg98 == eAmvbUd55_) ? (short)KCNTK096X : 731116852;
+hb_0qy = (Yg98 == eAmvbUd55_) ? (short)KCNTK096X : (short)731116852;
 break;
 case 3:
 fVTOPVp861 = YYX137F | Bh2ciH41y7;

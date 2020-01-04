@@ -188,7 +188,7 @@ tje17E3P = s5_k47oMf7(tje17E3P, ccY9_BnB, (char)-1719157833, iG4f6XLS2);
 break;
 case 'c':
 case 'C':
-JT_WKwXT_c = K0Dv26d19F % 907092502;
+JT_WKwXT_c = (unsigned short)(K0Dv26d19F % 907092502);
 break;
 case 'd':
 case 'D':

@@ -725,7 +725,7 @@ case 5:
 fM7ShNIAs = SO5507Sm(-754464473, (unsigned short)-1391432372, MXICq4, -2142731970);
 break;
 case 6:
-u_Ejx = R6_68ywtOi - 138900681;
+u_Ejx = (unsigned short)(R6_68ywtOi - 138900681);
 break;
 }
 }
@@ -881,7 +881,7 @@ mU2o7g233 = hKMStn68LK(mU2o7g233, -405456235, (short)-1067160996);
 break;
 case 'b':
 case 'B':
-ws9OK7C19j = xda22Vv - 1484100851;
+ws9OK7C19j = (unsigned short)(xda22Vv - 1484100851);
 break;
 case 'c':
 case 'C':

@@ -311,7 +311,7 @@ p9rR9HSM2d = (int)floor(z8LOH);
 }
 else if (Ff22Hk5L7 > 994369945)
 {
-XbE9yZNC = RzM1 | 866434892;
+XbE9yZNC = (short)(RzM1 | 866434892);
 }
 else if ((KT00Q78M != qvUoZR) && ((Y8g5Fo > 1576763789) || (eFw8Ru0G & -1579123896)))
 {

@@ -278,7 +278,7 @@ case 4:
 U7WN /= 1697346228;
 break;
 case 5:
-idY2il = w5TlP_ + 272731607;
+idY2il = (char)(w5TlP_ + 272731607);
 break;
 case 6:
 oZC98VR *= n893;
@@ -574,7 +574,7 @@ if (GEZbt05p52 & -1250784461)
 {
 if ((XNY6 == bI_2) && (NmuV != mlFfJ43bb))
 {
-fo91V = uSsbC + 1652160238;
+fo91V = (char)(uSsbC + 1652160238);
 }
 else if (((NqlQuAz == g8H5) || (U0dW8mz9 >= uu23SEcU8)) || (KX61 & yL9NXNA))
 {

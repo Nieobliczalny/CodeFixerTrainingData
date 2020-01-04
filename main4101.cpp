@@ -295,7 +295,7 @@ case 'F':
 g0MUjit3 = fZq_PUE7p(xI7apy, -2108931780, -1000854745);
 break;
 default:
-xo8NM9ysk = A79aw - 63118186;
+xo8NM9ysk = (unsigned short)(A79aw - 63118186);
 break;
 }
 }

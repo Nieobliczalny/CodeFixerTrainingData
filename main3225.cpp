@@ -358,7 +358,7 @@ jl4ae6aGdJ = (TJcd72 == -1992032753) ? (char)b6kyh2 : TJcd72;
 }
 if (bTGDYd < -2046052563)
 {
-oXl6o7DXP = jy4nh6G6b(jl4ae6aGdJ, oXl6o7DXP, -671897896, -16052904, -112118437);
+oXl6o7DXP = jy4nh6G6b(jl4ae6aGdJ, oXl6o7DXP, (unsigned short)-671897896, -16052904, -112118437);
 }
 else
 {

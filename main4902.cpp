@@ -208,7 +208,7 @@ break;
 
 if (Gf_9_yh > -675850137)
 {
-RKF87 = p38a2TZ742 & 1973381529;
+RKF87 = (short)(p38a2TZ742 & 1973381529);
 }
 else if (zC_8h5usk & MI5Zmrs)
 {

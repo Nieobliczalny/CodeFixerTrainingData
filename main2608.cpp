@@ -293,7 +293,7 @@ else if ((K4gU9o3SdG != rhJn31ksCo) && ((oWp_6wH < JiTPx6) || (YclPL3_8 >= n56b)
 int k = 0;
 while (k < 4)
 {
-GX6y450 = udwg7LLFB + 875633455;
+GX6y450 = (short)(udwg7LLFB + 875633455);
 ++k;
 }
 }

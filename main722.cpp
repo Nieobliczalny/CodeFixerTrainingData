@@ -316,7 +316,7 @@ case 2:
 se8DV = dSN1 & jui2;
 break;
 case 3:
-nUd2 = CqH9ftC | 758183708;
+nUd2 = (unsigned short)(CqH9ftC | 758183708);
 break;
 case 4:
 Gy3TnmPz = Drj_6oNlOe(An1I3f3b5, 1341846540);

@@ -502,7 +502,7 @@ case 'e':
 dzpX = jc9h9go8I / VFMT0z0I8;
 break;
 case 'f':
-mqA475 = vqnu % 164537459;
+mqA475 = (short)(vqnu % 164537459);
 break;
 }
 

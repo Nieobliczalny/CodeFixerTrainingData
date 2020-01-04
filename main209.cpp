@@ -257,7 +257,7 @@ fz40Z1k = WtNzKP6qe();
 }
 else
 {
-Dd_K883b = PzzW | 27661771;
+Dd_K883b = (unsigned char)(PzzW | 27661771);
 }
 j--;
 }

@@ -60,7 +60,7 @@ case 'g':
 A124X4c4 = e809z();
 break;
 case 'h':
-Z3_9bLup = (T8bd0 != 443641778) ? (unsigned short)d3J6 : 406950926;
+Z3_9bLup = (T8bd0 != 443641778) ? (unsigned short)d3J6 : (unsigned short)406950926;
 break;
 case 'i':
 YMY_6 <<= 989424810;

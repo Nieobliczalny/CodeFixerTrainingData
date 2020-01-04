@@ -297,7 +297,7 @@ else
 {
 if (qDnybW27h <= 1369807928)
 {
-I_sdI5tW1c = NS_U9x47fR % 362563049;
+I_sdI5tW1c = (unsigned short)(NS_U9x47fR % 362563049);
 }
 else
 {

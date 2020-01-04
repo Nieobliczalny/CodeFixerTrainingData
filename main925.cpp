@@ -273,7 +273,7 @@ case 4:
 oBZz = L_vgxEzS0Y(oBZz, (short)-558192638);
 break;
 case 5:
-VlGx40 = RQ_0G6Q6 ^ 1164080937;
+VlGx40 = (unsigned short)(RQ_0G6Q6 ^ 1164080937);
 break;
 case 6:
 HqdGuI9wW = (int)abs(QfHe);

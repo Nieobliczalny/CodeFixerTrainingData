@@ -221,7 +221,7 @@ yhV8gW78L0 = u4Q4atU0i();
 break;
 case 'b':
 case 'B':
-z7Z5 = dT_oz | 899044351;
+z7Z5 = (unsigned short)(dT_oz | 899044351);
 break;
 case 'c':
 case 'C':

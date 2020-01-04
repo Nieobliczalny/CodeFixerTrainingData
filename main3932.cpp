@@ -300,7 +300,7 @@ case 0:
 UNP8D = (int)floor(CBj8f);
 break;
 case 1:
-S9_hmsoy = BsTK - 1426809656;
+S9_hmsoy = (unsigned short)(BsTK - 1426809656);
 break;
 case 2:
 qh56 = HwlE1 & UFPU;

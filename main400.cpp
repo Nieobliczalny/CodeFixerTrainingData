@@ -430,7 +430,7 @@ case 0:
 on37mIf = (int)abs(WC2q0AJ13);
 break;
 case 1:
-I8Xir8 = AzS6g * 418229701;
+I8Xir8 = (char)(AzS6g * 418229701);
 break;
 default:
 Isvdue--;

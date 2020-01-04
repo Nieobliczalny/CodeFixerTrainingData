@@ -285,7 +285,7 @@ UymI5ldS = h_vilOB * 272896207;
 }
 else
 {
-gD_q5 = iCYtie7dv ^ 948407697;
+gD_q5 = (unsigned char)(iCYtie7dv ^ 948407697);
 }
 }
 catch (int& errorCode)

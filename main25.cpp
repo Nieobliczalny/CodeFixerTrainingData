@@ -158,7 +158,7 @@ switch (br78242D9)
 {
 case 'a':
 case 'A':
-b5477F63 = knLVz6 << 941657925;
+b5477F63 = (unsigned short)(knLVz6 << 941657925);
 break;
 case 'b':
 case 'B':
@@ -221,7 +221,7 @@ case 'b':
 wcqHSGQ04 = DSS6kVx(wcqHSGQ04);
 break;
 default:
-W087 = knLVz6 % 266230331;
+W087 = (unsigned short)(knLVz6 % 266230331);
 break;
 }
 }

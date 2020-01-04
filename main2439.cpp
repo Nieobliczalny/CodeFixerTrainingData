@@ -264,7 +264,7 @@ switch (Met9b)
 {
 case 'a':
 case 'A':
-v9_6Q8 = gy7F84v93b - 1018870159;
+v9_6Q8 = (unsigned char)(gy7F84v93b - 1018870159);
 break;
 case 'b':
 case 'B':

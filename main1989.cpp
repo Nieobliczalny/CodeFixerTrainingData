@@ -404,7 +404,7 @@ else
 switch (tia4)
 {
 case 0:
-tia4 = a3ZGlMX_1 ^ 1715754401;
+tia4 = (short)(a3ZGlMX_1 ^ 1715754401);
 break;
 case 1:
 emcc <<= Rc2_D5;

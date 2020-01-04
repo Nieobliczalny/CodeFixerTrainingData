@@ -174,7 +174,7 @@ while (k >= 0);
 }
 else if (sE6a4Iv == m9bn7_)
 {
-cout << F4C3c2WC1U(475946687) << VuQ9cqb5Pl << cj069tgUY() << "K1Ewo_S01" << endl;
+cout << F4C3c2WC1U((unsigned short)475946687) << VuQ9cqb5Pl << cj069tgUY() << "K1Ewo_S01" << endl;
 }
 else
 {

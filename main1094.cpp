@@ -150,7 +150,7 @@ case 'e':
 o8a5KTS *= XQdx3;
 break;
 case 'f':
-J9wY = h46x60AGT * 280013841;
+J9wY = (unsigned short)(h46x60AGT * 280013841);
 break;
 }
 }

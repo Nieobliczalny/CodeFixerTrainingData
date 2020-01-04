@@ -388,7 +388,7 @@ Y_0cu543az = (int)ceil(DFMggw);
 
 nP_XJhhhU = (long)(So2nn6RxVX);
 
-B1QxP = HBt4v9yj ^ 1638458516;
+B1QxP = (unsigned short)(HBt4v9yj ^ 1638458516);
 
 i8vEO3irY = (short int)(j4H6h);
 if ((i8vEO3irY > HBt4v9yj) || ((x381cDig) && (y1tFX)))

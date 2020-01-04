@@ -45,7 +45,7 @@ if (xQ_H4R97X6 >= 1895565853)
 {
 if (((DtN6 < mOMF25) || (clyYIk0b != 202832027)) || (JxiS != Hg0DRU))
 {
-m3V43y1z7 = xsMr7 * 1441433317;
+m3V43y1z7 = (short)(xsMr7 * 1441433317);
 }
 }
 else if (ea887Nwnu >= xsMr7)

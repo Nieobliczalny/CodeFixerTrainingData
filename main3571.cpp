@@ -128,7 +128,7 @@ case 3:
 Cz2t = k_3Yck_21x | 1921636090;
 break;
 case 4:
-yGG3R = dBIXfV * 1671186719;
+yGG3R = (short)(dBIXfV * 1671186719);
 break;
 }
 

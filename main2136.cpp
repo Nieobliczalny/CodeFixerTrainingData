@@ -213,7 +213,7 @@ catch (int& errorCode)
 lBh_Ob1Ol -= e5bI5F2T_T;
 }
 }
-d0Y7g1yH = FFC0k ^ 1437764913;
+d0Y7g1yH = (short)(FFC0k ^ 1437764913);
 
 y2juJq = (int)ceil(lBh_Ob1Ol);
 

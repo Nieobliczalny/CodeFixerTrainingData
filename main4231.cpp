@@ -404,7 +404,7 @@ case 0:
 BviW36 = (mV1UDA6H == 388339917) ? (unsigned char)1472978575 : PBhi9;
 break;
 case 1:
-h8C6O74I = grA089T - 1476138628;
+h8C6O74I = (unsigned char)(grA089T - 1476138628);
 break;
 case 2:
 C4Cs2SXJuO ^= 1151701458;

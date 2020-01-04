@@ -270,7 +270,7 @@ idG7 = ABijh3k1(t8km_94, jXca, J3dV, (short)-387545087, (unsigned short)-6274274
 }
 else
 {
-qdeVy_S1y = h0H4oNru & 630687477;
+qdeVy_S1y = (unsigned char)(h0H4oNru & 630687477);
 }
 }
 else

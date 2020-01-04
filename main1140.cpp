@@ -234,7 +234,7 @@ case 'a':
 NVq_7 += bUiLs;
 break;
 case 'b':
-YMdlW7pp = Xg1Kuqt ^ 1437324256;
+YMdlW7pp = (unsigned short)(Xg1Kuqt ^ 1437324256);
 break;
 case 'c':
 WcKS___8 = (int)floor(oAUd);
