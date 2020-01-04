@@ -310,7 +310,7 @@ case 8:
 mi5b = oJ5_g66((unsigned short)-427153868, z5we1U, x570V33);
 break;
 case 9:
-zOkhuW8Y = (QKX0k == gL08dq8lQ) ? (unsigned char)-1530620963 : O6sA837WOO;
+zOkhuW8Y = (QKX0k == gL08dq8lQ) ? (unsigned char)-1530620963 : (unsigned char)O6sA837WOO;
 break;
 default:
 sM3_4u = (int)abs(P8L46E);

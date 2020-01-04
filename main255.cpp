@@ -242,7 +242,7 @@ case 2:
 V58Z = b0CyE25He0();
 break;
 case 3:
-grJYKh6_7Y = (P_15 == -899837564) ? (unsigned char)-1113817176 : n8929DBb;
+grJYKh6_7Y = (P_15 == -899837564) ? (unsigned char)-1113817176 : (unsigned char)n8929DBb;
 break;
 case 4:
 B__V3 %= 20644541;

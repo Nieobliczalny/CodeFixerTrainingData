@@ -235,7 +235,7 @@ break;
 }
 else if ((EKhS5n5jWE <= mqqS) || (Tjw7k < b_W3u0))
 {
-FHu9i2pssl = (hq_4DEFgQ) ? (unsigned short)-1688848158 : b_W3u0;
+FHu9i2pssl = (hq_4DEFgQ) ? (unsigned short)-1688848158 : (unsigned short)b_W3u0;
 }
 else
 {

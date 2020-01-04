@@ -29,7 +29,7 @@ int main(int argc, char** argv)
 
 if (i34sBP <= zVnwk6n)
 {
-S2HdGuyd = (zVnwk6n != ochb_) ? (short)1673088849 : w80SSHm0D9;
+S2HdGuyd = (zVnwk6n != ochb_) ? (short)1673088849 : (short)w80SSHm0D9;
 }
 
 try

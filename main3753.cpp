@@ -378,7 +378,7 @@ else
 {
 if (WaYB2TO != 26688547)
 {
-J72meFE7V_ = (HC7r4 & XPtu3k) ? (unsigned short)-1941412302 : XPtu3k;
+J72meFE7V_ = (HC7r4 & (unsigned short)XPtu3k) ? (unsigned short)-1941412302 : (unsigned short)XPtu3k;
 }
 }
 }

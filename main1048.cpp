@@ -287,7 +287,7 @@ case 'e':
 Xf1c >>= K_RN_D81P;
 break;
 case 'f':
-zGJR = (tAc2 != FT4D5J_6Zu) ? (short)-985342332 : k_wq7ufnJ;
+zGJR = (tAc2 != FT4D5J_6Zu) ? (short)-985342332 : (short)k_wq7ufnJ;
 break;
 case 'g':
 Ot4zGYf9A = nWy_83v(vn12Kz);

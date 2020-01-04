@@ -118,7 +118,7 @@ switch (sKp49_5ph7)
 {
 case 'a':
 case 'A':
-qd1RiI = (qd1RiI > 183932148) ? sw313A : ZOP0lF_g;
+qd1RiI = (qd1RiI > 183932148) ? sw313A : (char)ZOP0lF_g;
 break;
 case 'b':
 case 'B':

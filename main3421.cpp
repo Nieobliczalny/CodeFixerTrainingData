@@ -358,7 +358,7 @@ case 7:
 Bn6JRbjj /= 1465755389;
 break;
 case 8:
-EIQaJprYH = (LjjtdwNB & Btje) ? D2C1zv_5 : Z9Xw;
+EIQaJprYH = (LjjtdwNB & Btje) ? (unsigned short)D2C1zv_5 : Z9Xw;
 break;
 default:
 BL0IS = UP401(BL0IS);

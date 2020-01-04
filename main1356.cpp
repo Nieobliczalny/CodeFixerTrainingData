@@ -200,7 +200,7 @@ IyX4h3 -= 735368043;
 break;
 case 'c':
 case 'C':
-Hr8iJ4V8FJ = (E2MsB) ? THZl2fbSY : 450418;
+Hr8iJ4V8FJ = (E2MsB) ? (unsigned char)THZl2fbSY : 450418;
 break;
 case 'd':
 case 'D':

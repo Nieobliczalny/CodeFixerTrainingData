@@ -378,7 +378,7 @@ N477A = eV0vDd80_2(N477A, mtXL4ywO, KCNw0_GFf0);
 }
 else if (((vm0P9Q6x81 >= Aw4A1Dlv) || (wTB39Vs0p_ != Fl9jlf8D_)) || (vm0P9Q6x81 != Fi6qFlh0))
 {
-wTB39Vs0p_ = (wTB39Vs0p_ & lA241c) ? (unsigned short)647486521 : lA241c;
+wTB39Vs0p_ = (wTB39Vs0p_ & (unsigned short)lA241c) ? (unsigned short)647486521 : (unsigned short)lA241c;
 }
 else if (z0snCHV == -201184754)
 {

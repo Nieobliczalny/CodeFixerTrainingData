@@ -196,7 +196,7 @@ dPkV = yH0U9(dPkV, N3HA);
 }
 else if (LKwE1 != vI_8mW6Wt)
 {
-LKwE1 = (N__8L7F & NK2IvNn) ? vI_8mW6Wt : FLeEi6;
+LKwE1 = (N__8L7F & NK2IvNn) ? (char)vI_8mW6Wt : FLeEi6;
 }
 else if (LKwE1 == W409Nk128n)
 {

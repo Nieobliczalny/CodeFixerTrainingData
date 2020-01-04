@@ -97,7 +97,7 @@ case 'd':
 MK0o_47bZI = sBxnd5Q_8(MK0o_47bZI, (unsigned char)-687832831, UKQIsKj6en, PNb8Wd6aO_);
 break;
 default:
-Hb_7ZfXn = (uLSRpB1 & 61960093) ? O3vK8 : kP7U;
+Hb_7ZfXn = (uLSRpB1 & 61960093) ? (char)O3vK8 : kP7U;
 break;
 }
 

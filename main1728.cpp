@@ -111,7 +111,7 @@ case 'c':
 xDOX ^= rC0_A;
 break;
 case 'd':
-ee6uG_y7T = (t3YnL <= -1276377800) ? (unsigned short)-214391554 : XmjBRy7;
+ee6uG_y7T = (t3YnL <= -1276377800) ? (unsigned short)-214391554 : (unsigned short)XmjBRy7;
 break;
 case 'e':
 AL0MPVXJH = rC0_A % 1204856563;
@@ -331,7 +331,7 @@ case 'g':
 QJtTr_TOe ^= bamtpp498;
 break;
 case 'h':
-t3YnL = (c_2hKQx5l == mf9Ip) ? XmjBRy7 : -1516930524;
+t3YnL = (c_2hKQx5l == mf9Ip) ? (unsigned short)XmjBRy7 : -1516930524;
 break;
 }
 }
@@ -393,7 +393,7 @@ int i = 5;
 do
 {
 i--;
-P54S = (xDOX >= pdB0x_T) ? XmjBRy7 : i_95Mm3t8;
+P54S = (xDOX >= pdB0x_T) ? (unsigned short)XmjBRy7 : i_95Mm3t8;
 }
 while (i >= 0);
 }

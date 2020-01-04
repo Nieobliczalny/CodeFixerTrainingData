@@ -186,7 +186,7 @@ j--;
 switch (T2X2r8d)
 {
 case 'a':
-Fl6w9qn = (i3t9 != ByL9VLaIz) ? xxDn1p4 : -629034571;
+Fl6w9qn = (i3t9 != ByL9VLaIz) ? (short)xxDn1p4 : -629034571;
 break;
 case 'b':
 IC2gJ = gAjRN >> su0p;
@@ -301,7 +301,7 @@ for (int j = 7; j >= 0; --j)
 int k = 10;
 while (k >= 0)
 {
-QL_iH = (t74ChM >= sqX5bDa) ? xxDn1p4 : -914209647;
+QL_iH = (t74ChM >= sqX5bDa) ? (short)xxDn1p4 : -914209647;
 k--;
 }
 }
@@ -611,7 +611,7 @@ ALyUBSpae = QL_iH % 706970223;
 
 std::cout << H9f4C2Y << T436t0j << "Y24n" << CqXZy << a3w5d2C1ZJ << std::endl;
 
-gAjRN = (svO_4_58 <= ByL9VLaIz) ? xxDn1p4 : f634;
+gAjRN = (svO_4_58 <= ByL9VLaIz) ? (short)xxDn1p4 : f634;
 {
 int i = 0;
 do

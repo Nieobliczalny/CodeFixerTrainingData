@@ -414,7 +414,7 @@ T55S5fQWb6 /= m0_sMP9e;
 
 if ((u9r1Qj <= TUmIr6) && (cWImGtgl != aULVdx9D8m))
 {
-Fz_c1_v25 = (cq_00RVKu <= 1317079626) ? KG8mEJ545 : OTu1S76;
+Fz_c1_v25 = (cq_00RVKu <= 1317079626) ? (unsigned char)KG8mEJ545 : OTu1S76;
 }
 else if ((d8kc34 <= 188581768) && (V_dTGJxc_7 > Fj9IQ_5RE))
 {

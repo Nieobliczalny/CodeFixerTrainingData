@@ -60,7 +60,7 @@ VX_rL = (short)(S6r62);
 
 for (int i = 0; i < 10; ++i)
 {
-aXfQNkD = (S6r62 <= u74rQ) ? YXqnz : u74rQ;
+aXfQNkD = (S6r62 <= u74rQ) ? (short)YXqnz : u74rQ;
 }
 
 XV5PbS4lqp += t_957XS0z;

@@ -105,7 +105,7 @@ Xc0avT5 = PE5E7C >> 516806560;
 break;
 case 'f':
 case 'F':
-ISSQ = (G7Hc2l_WI0 == 1479019220) ? FzfW6MB : S1WU_;
+ISSQ = (G7Hc2l_WI0 == 1479019220) ? FzfW6MB : (unsigned short)S1WU_;
 break;
 case 'g':
 case 'G':
@@ -168,7 +168,7 @@ h0O1IZ548h = FA2Hw58N ^ 1996777049;
 break;
 case 'f':
 case 'F':
-NbUC94 = (Bhzg9RGcP <= pri5q91_1) ? Z3IBB9P6a : Z3IBB9P6a;
+NbUC94 = (Bhzg9RGcP <= pri5q91_1) ? (unsigned short)Z3IBB9P6a : (unsigned short)Z3IBB9P6a;
 break;
 default:
 ERiVTgN50q++;

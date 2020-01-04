@@ -388,7 +388,7 @@ FoKLX2HeR ^= i0B2Zkd38u;
 break;
 case 'c':
 case 'C':
-avqWw1R = (anN1EA1 <= V6nzCybba) ? IPYvq3ZFL : wie3peEYdm;
+avqWw1R = (anN1EA1 <= V6nzCybba) ? IPYvq3ZFL : (short)wie3peEYdm;
 break;
 case 'd':
 case 'D':

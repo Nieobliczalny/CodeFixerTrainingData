@@ -174,7 +174,7 @@ Tlu622J_l = Pe9Kf7V(gZJs8dyGRA, wZ657g, h8C6O74I);
 }
 }
 }
-wZ657g = (D79P3 < ur5osj) ? QwX1c : grA089T;
+wZ657g = (D79P3 < ur5osj) ? QwX1c : (unsigned char)grA089T;
 if ((E2U549J < grA089T) || (l4wL6xy <= ur5osj))
 {
 try

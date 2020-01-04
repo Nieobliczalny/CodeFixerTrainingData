@@ -102,7 +102,7 @@ Ebl0w_l8D = (int)abs(CteI) * 0;
 break;
 case 'h':
 case 'H':
-wXBr = (r7qh_wtQ) ? P595 : DlwG3Wl5;
+wXBr = (r7qh_wtQ) ? P595 : (char)DlwG3Wl5;
 break;
 }
 

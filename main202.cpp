@@ -90,7 +90,7 @@ JW_H = nO9PlD6 - mbAd0d_E2;
 }
 else
 {
-vRvPf3 = (h_rQ446Eu) ? FgSVu2mLRi : X81o68P;
+vRvPf3 = (h_rQ446Eu) ? (unsigned char)FgSVu2mLRi : X81o68P;
 }
 ++j;
 }
@@ -487,7 +487,7 @@ try
 switch (L9q7zx_)
 {
 case 'a':
-o3_y = (qaCC & -447712028) ? jQ6P1 : yAZ2uR;
+o3_y = (qaCC & -447712028) ? (unsigned char)jQ6P1 : yAZ2uR;
 break;
 default:
 DG362P4k ^= nZmwsAZh7v;

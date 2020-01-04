@@ -287,7 +287,7 @@ switch (a95q3)
 {
 case 'a':
 case 'A':
-ux_p = (c5NS8 >= X_0xEe98) ? LqIN16 : -1866577681;
+ux_p = (c5NS8 >= X_0xEe98) ? (short)LqIN16 : -1866577681;
 break;
 case 'b':
 case 'B':
@@ -516,7 +516,7 @@ az_O6479FZ--;
 break;
 case 'f':
 case 'F':
-t0oX3Ps8T2 = (zvv51OW < -2043279399) ? oI846 : LqIN16;
+t0oX3Ps8T2 = (zvv51OW < -2043279399) ? oI846 : (short)LqIN16;
 break;
 default:
 ux_p |= 1011834224;

@@ -441,7 +441,7 @@ try
 {
 if (rvY47OGpfk <= kUH1)
 {
-I4O9xcM = (p_914rHc) ? W_5bFv_ : I4O9xcM;
+I4O9xcM = (p_914rHc) ? (unsigned char)W_5bFv_ : I4O9xcM;
 }
 else
 {

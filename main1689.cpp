@@ -132,7 +132,7 @@ std::cout << "D1Y78f8" << ElVw_TTC0F << GFlK8() << RwXMV((unsigned short)1575127
 
 std::cout << jwqo8HpPl5 << GFlK8() << GFlK8() << m8hf_1C0cn << RwXMV((unsigned short)-2114433220) << std::endl;
 s6kXs46__ = (unsigned char)(Ltv6);
-cMk0y = (VUmj_nt44) ? xYiQWBHBig : -412024732;
+cMk0y = (VUmj_nt44) ? (unsigned char)xYiQWBHBig : -412024732;
 
 gcR8_KS = GFlK8();
 w6B899mPf = f4e3b46 * 514542696;

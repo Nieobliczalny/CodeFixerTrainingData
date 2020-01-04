@@ -491,7 +491,7 @@ case 0:
 dSPw4 %= 1775551033;
 break;
 case 1:
-WQ28XJt = (Px72Rj_L9s < aruj5Ctg1) ? (char)1110220674 : QZ8ct040;
+WQ28XJt = (Px72Rj_L9s < aruj5Ctg1) ? (char)1110220674 : (char)QZ8ct040;
 break;
 case 2:
 bHKOEk <<= 1812539979;
@@ -652,7 +652,7 @@ case 'f':
 CEvNns--;
 break;
 case 'g':
-FA20t8JsM6 = (eNdR8) ? QZ8ct040 : 993494993;
+FA20t8JsM6 = (eNdR8) ? (char)QZ8ct040 : 993494993;
 break;
 case 'h':
 hY2U <<= s231sa8d9A;

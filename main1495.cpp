@@ -196,7 +196,7 @@ A0I0zTgc5 = SC9_3(A0I0zTgc5, 1868882757, MkBoB_o9, gI61Tq);
 }
 else if (H4_6X == f11p1550i)
 {
-H_mtE7E92 = (b3c1z0ruu) ? CKcNN : MNg_s8nE3Z;
+H_mtE7E92 = (b3c1z0ruu) ? (unsigned short)CKcNN : MNg_s8nE3Z;
 }
 else
 {

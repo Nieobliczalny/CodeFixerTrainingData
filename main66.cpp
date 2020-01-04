@@ -167,7 +167,7 @@ int k = 9;
 do
 {
 k--;
-TmMfP02B = (VrMai6sZB == p_a6) ? aYVWt7 : E44Sd;
+TmMfP02B = (VrMai6sZB == p_a6) ? aYVWt7 : (char)E44Sd;
 }
 while (k >= 0);
 }

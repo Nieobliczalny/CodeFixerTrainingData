@@ -54,7 +54,7 @@ ri_IH = p3dZd6 % K_pl;
 }
 else
 {
-MEDcnD4LDv = UHv8PH0 % 1779801303;
+MEDcnD4LDv = (char)UHv8PH0 % 1779801303;
 }
 }
 }

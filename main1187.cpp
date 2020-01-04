@@ -623,7 +623,7 @@ EUjm4m0x = (int)ceil(f9vrz9u);
 }
 else if ((wGMQa4US <= obuDecSkK) && ((ZORe2ux > pB7y7gu) && (N7A869419 & pB7y7gu)))
 {
-Kny6yE8E = (RRBAm > g0Ehv90MoX) ? xL1N5hyn8q : 1970236283;
+Kny6yE8E = (RRBAm > g0Ehv90MoX) ? (unsigned char)xL1N5hyn8q : 1970236283;
 }
 else if (Tz8CsSf < pB7y7gu)
 {

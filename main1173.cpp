@@ -463,7 +463,7 @@ Imeb2VZ = ojTPkBK77(-1362280786, 1533624645, 1671336470, -1422206657, K5FrRQ);
 }
 else if (bR5t2ZDpa4 & aZ010)
 {
-j7n_4e = rr2B % 1799262693;
+j7n_4e = (unsigned short)rr2B % 1799262693;
 }
 else if ((qTaSASQ00J > flUs8x) || (q7Mpo8YM4 == pFJK0VXcm))
 {

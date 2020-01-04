@@ -53,7 +53,7 @@ ry0n6M <<= 2103138691;
 break;
 case 'c':
 case 'C':
-cY3u_4CQ3 = (YgQZh == ssoxn) ? (short)-1884485954 : SUk7W_93;
+cY3u_4CQ3 = (YgQZh == ssoxn) ? (short)-1884485954 : (short)SUk7W_93;
 break;
 case 'd':
 case 'D':

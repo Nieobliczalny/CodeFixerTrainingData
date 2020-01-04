@@ -235,7 +235,7 @@ case 'e':
 ghad2tzc /= P7sX7sGYh;
 break;
 case 'f':
-X6A2_5Uft = (YS2uZZ4C3 < -1805632577) ? wb4wW1 : PVn4mu0;
+X6A2_5Uft = (YS2uZZ4C3 < -1805632577) ? wb4wW1 : (unsigned short)PVn4mu0;
 break;
 }
 }

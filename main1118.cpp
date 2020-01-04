@@ -563,7 +563,7 @@ CnAxaU = (int)abs(i_ufQ34mc);
 }
 else if (JKEjO6 <= -68821038)
 {
-e16X9NE = (L04pVr) ? k58e : 216424242;
+e16X9NE = (L04pVr) ? (short)k58e : 216424242;
 }
 else
 {

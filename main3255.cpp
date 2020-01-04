@@ -261,7 +261,7 @@ lF9SAqh7Y = cW2v6S << 822368759;
 
 if (hXWMLk1oeV >= -850370354)
 {
-T6Iq8 = (JCj1r_ & PCInA6) ? aL8Z3E9Is6 : YKe7JI2l3;
+T6Iq8 = (JCj1r_ & PCInA6) ? (short)aL8Z3E9Is6 : YKe7JI2l3;
 }
 
 for (int i = 3; i >= 0; i--)

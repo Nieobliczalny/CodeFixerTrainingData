@@ -454,7 +454,7 @@ case 2:
 kJY8do9--;
 break;
 case 3:
-rghx809GBV = (VH7sB90 >= -587990615) ? R_B_V7AGOJ : rA8chb8;
+rghx809GBV = (VH7sB90 >= -587990615) ? (unsigned char)R_B_V7AGOJ : rA8chb8;
 break;
 case 4:
 V5S7qWU = (int)abs(e6FfmU23P);

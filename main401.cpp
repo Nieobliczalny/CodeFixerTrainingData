@@ -154,7 +154,7 @@ else if (DPg5B8wh != JCRCJ39u53)
 {
 try
 {
-X2s0ndszF = JCRCJ39u53 % 1266125173;
+X2s0ndszF = (short)JCRCJ39u53 % 1266125173;
 }
 catch (int& errorCode)
 {

@@ -72,7 +72,7 @@ case 1:
 Fh_E = eUQR6e(1863366880);
 break;
 case 2:
-A59WaTi = (E_38 < UGQ__5UbZ) ? (unsigned char)-2002321278 : lh4K;
+A59WaTi = (E_38 < UGQ__5UbZ) ? (unsigned char)-2002321278 : (unsigned char)lh4K;
 break;
 case 3:
 H2OZs9oRT3 = (int)ceil(UGQ__5UbZ);

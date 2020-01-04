@@ -372,7 +372,7 @@ Fz6Wv8NxQO = pDG1DzeP((unsigned char)702664296, lhD0F, stT8);
 }
 else
 {
-lhD0F = (PBDM > NMrTAa) ? (unsigned short)391155379 : QouoIESj2R;
+lhD0F = (PBDM > NMrTAa) ? (unsigned short)391155379 : (unsigned short)QouoIESj2R;
 }
 --j;
 }

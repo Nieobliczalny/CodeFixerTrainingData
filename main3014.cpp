@@ -69,7 +69,7 @@ B249b = dax0F50((unsigned short)2010683537);
 break;
 case 'd':
 case 'D':
-iAU00xY5i9 = (s47uE091eG > -1398604889) ? dax0F50(HBbTc) : Uo_aNzk65v;
+iAU00xY5i9 = (s47uE091eG > -1398604889) ? dax0F50(HBbTc) : (unsigned char)Uo_aNzk65v;
 break;
 case 'e':
 case 'E':

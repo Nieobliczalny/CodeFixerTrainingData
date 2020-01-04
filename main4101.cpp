@@ -347,7 +347,7 @@ g0MUjit3 = fZq_PUE7p(s7A9K18G, -751005039, 2070477877);
 break;
 case 'b':
 case 'B':
-DwdJ6K = (S_18Yz < pnXI_7m03) ? (unsigned short)1866478446 : A79aw;
+DwdJ6K = (S_18Yz < pnXI_7m03) ? (unsigned short)1866478446 : (unsigned short)A79aw;
 break;
 case 'c':
 case 'C':

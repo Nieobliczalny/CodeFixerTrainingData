@@ -56,7 +56,7 @@ do
 switch (HOX8axz)
 {
 case 'a':
-uGzMwdeC_E = (HAZNtKJA < a___) ? U7Mj : PocLnhpyz;
+uGzMwdeC_E = (HAZNtKJA < a___) ? U7Mj : (unsigned char)PocLnhpyz;
 break;
 case 'b':
 CcQ7DR0 = PocLnhpyz ^ sm0cU526;

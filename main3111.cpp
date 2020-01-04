@@ -365,7 +365,7 @@ case 6:
 vrpl042 = jowmo(1217587828, (char)685859421);
 break;
 case 7:
-NQgfb = (SXc_6EJ2tz) ? r9as : mS2SF02_8c;
+NQgfb = (SXc_6EJ2tz) ? (char)r9as : mS2SF02_8c;
 break;
 case 8:
 Dk_JsbO = U4cG7(-548487861, -1157122185, DR7m82weu, CKLB86Z_Fn, IeMCXcLip);

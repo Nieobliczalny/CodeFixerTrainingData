@@ -440,7 +440,7 @@ RYMj -= 1664397079;
 break;
 case 'i':
 case 'I':
-A8eNd = m9y64 % 874687199;
+A8eNd = (unsigned short)m9y64 % 874687199;
 break;
 default:
 EP66 = mvMZ * l2Pi;

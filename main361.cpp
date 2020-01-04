@@ -492,7 +492,7 @@ case 5:
 Nkf5ks = (int)abs(pGzi94sJ78);
 break;
 case 6:
-p9PEQ__Arc = (p9PEQ__Arc >= 1138252672) ? z1QSVn : B7n8eP;
+p9PEQ__Arc = (p9PEQ__Arc >= 1138252672) ? z1QSVn : (short)B7n8eP;
 break;
 case 7:
 xJ1dw7 = (int)floor(B_I9nw220h);

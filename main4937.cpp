@@ -611,7 +611,7 @@ vfp1ANr84_ -= 736250736;
 }
 else
 {
-xfcKZM2 = (q4h1hA_B != 365343771) ? r8RgzGLM : Yp6f;
+xfcKZM2 = (q4h1hA_B != 365343771) ? r8RgzGLM : (unsigned short)Yp6f;
 }
 }
 else

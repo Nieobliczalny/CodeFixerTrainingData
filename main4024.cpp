@@ -94,7 +94,7 @@ case 0:
 ZjkarV = (yd6R != D6f1F3) ? Lo_GwW : (char)1354434280;
 break;
 case 1:
-sN5mmx = (ZjkarV <= 1640048595) ? h9_02G5QNk : mb066KDx37;
+sN5mmx = (ZjkarV <= 1640048595) ? h9_02G5QNk : (char)mb066KDx37;
 break;
 case 2:
 mW8QouxJD7 = W834NXxTB(-2063653649, -852234300, DSR2L, -534623798);

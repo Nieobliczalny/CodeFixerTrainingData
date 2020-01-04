@@ -350,7 +350,7 @@ if (bBYxBI & l3GW45kK)
 {
 try
 {
-T5HejyEpk = (J40kko < V_CmQI0m) ? DqUtEC3 : bY2A;
+T5HejyEpk = (J40kko < V_CmQI0m) ? DqUtEC3 : (short)bY2A;
 }
 catch (int& errorCode)
 {

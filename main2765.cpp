@@ -399,7 +399,7 @@ while (i >= 0);
 switch (M6W_)
 {
 case 0:
-n0OrGJuRZS = n_K6E % 1734641043;
+n0OrGJuRZS = (short)n_K6E % 1734641043;
 break;
 case 1:
 Nyp5 = (int)abs(ewRD);
@@ -474,7 +474,7 @@ Wm68YXt1 = (int)abs(e6E5tihv);
 break;
 case 'd':
 case 'D':
-s5_nXa = Kk1di7i % 1164998433;
+s5_nXa = (short)Kk1di7i % 1164998433;
 break;
 case 'e':
 case 'E':

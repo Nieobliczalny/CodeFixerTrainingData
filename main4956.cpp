@@ -57,7 +57,7 @@ RCtVbRsYu = dG6F_24z | tJ2_;
 
 if ((ZLt91A < -1478943042) && ((VOj_6vg3k >= -788995989) || (ICHrX < Uw5X)))
 {
-RiE_kx = (ioIej66 <= U9MI982) ? ayED7E5(1925238084, RCtVbRsYu, Ri0mdv7ETp) : w6ws6;
+RiE_kx = (ioIej66 <= U9MI982) ? ayED7E5(1925238084, RCtVbRsYu, Ri0mdv7ETp) : (unsigned char)w6ws6;
 }
 
 ICHrX = reH3b9 * PNP1Bo7;

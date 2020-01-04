@@ -223,7 +223,7 @@ k495Z = V_aF9oD8 - jq2UQ2Pkk;
 }
 else
 {
-s3eC1jNU1w = (cWd_7) ? IkQ21P : -744854584;
+s3eC1jNU1w = (cWd_7) ? (unsigned short)IkQ21P : -744854584;
 }
 }
 catch (int& errorCode)

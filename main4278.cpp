@@ -373,7 +373,7 @@ g3p_f_Dz >>= wIEuHe;
 }
 else
 {
-O_yFGV7 = (rYZGt6U2YU > -910774895) ? oB2x1b5x : q_LdF25;
+O_yFGV7 = (rYZGt6U2YU > -910774895) ? oB2x1b5x : (short)q_LdF25;
 }
 }
 else if (g3p_f_Dz <= 236704896)

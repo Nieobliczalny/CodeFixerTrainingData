@@ -273,7 +273,7 @@ YVJ47I57_ = (int)abs(m53ph34j9);
 break;
 case 'e':
 case 'E':
-HHi78N1T = (TSurhS5 != 1978076613) ? OVd7 : TfnsK3C_;
+HHi78N1T = (TSurhS5 != 1978076613) ? (unsigned short)OVd7 : TfnsK3C_;
 break;
 }
 

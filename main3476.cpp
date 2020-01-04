@@ -454,7 +454,7 @@ else
 switch (VHhV)
 {
 case 'a':
-k_W4BKw6J = (qc_rNmFY >= VHhV) ? w7VOWl : H_8J6tW;
+k_W4BKw6J = (qc_rNmFY >= VHhV) ? (unsigned short)w7VOWl : H_8J6tW;
 break;
 case 'b':
 CbuFOxg8 = P_oLNy(278345443, 176237561, 2071028855, qUA88FH9g, NDRG9op8);

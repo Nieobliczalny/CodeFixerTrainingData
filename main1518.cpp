@@ -101,7 +101,7 @@ zR23n2Xm = (unsigned short)(Ty4U4_);
 }
 if (bm6qR7 < mpQLlu_04s)
 {
-zR23n2Xm = kr7XU34d % 588705065;
+zR23n2Xm = (unsigned short)kr7XU34d % 588705065;
 }
 else
 {

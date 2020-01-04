@@ -127,7 +127,7 @@ case 2:
 KKC7H7NV_5 = rmmQ | 202063247;
 break;
 case 3:
-KKC7H7NV_5 = eTLAN % 1323427726;
+KKC7H7NV_5 = (char)eTLAN % 1323427726;
 break;
 case 4:
 eh4Cg1 = Nk6Q8Ve3n8();

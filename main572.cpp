@@ -423,7 +423,7 @@ case 6:
 f03L5C34d = b6ef(XyZE8, (short)1732009548, (short)-705629153, 930058062, Qf43kP6Q);
 break;
 case 7:
-f_604y_m23 = (h85_c4) ? YKq0dC2 : 1660488595;
+f_604y_m23 = (h85_c4) ? (unsigned short)YKq0dC2 : 1660488595;
 break;
 case 8:
 S6__t0 = b6ef(W14J_2, ppZzEIg, (short)-1352974001, fJm3rU47, 180313905);

@@ -133,7 +133,7 @@ case 0:
 SexCfXsE = h4g__9 / 426898211;
 break;
 case 1:
-h4g__9 = (h4g__9 < WVu0) ? nGgfFBb : olLwBVe2;
+h4g__9 = (h4g__9 < WVu0) ? (short)nGgfFBb : olLwBVe2;
 break;
 case 2:
 h4g__9 ^= 17793298;

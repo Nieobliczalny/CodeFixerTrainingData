@@ -566,7 +566,7 @@ C9ale = QINkEm + x4SlmJpyG;
 break;
 case 'i':
 case 'I':
-k7EdMjwLdQ = (Ataf > Zdy62k3d) ? ea0615YIq : K14DC3;
+k7EdMjwLdQ = (Ataf > Zdy62k3d) ? (unsigned short)ea0615YIq : K14DC3;
 break;
 default:
 Lwjb--;

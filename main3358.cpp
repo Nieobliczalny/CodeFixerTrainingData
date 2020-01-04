@@ -351,7 +351,7 @@ jJ1ZE9 = Gz2fDf(-1843523393);
 break;
 case 'd':
 case 'D':
-Zgwsvu5yi = k2SLFe % 1428111815;
+Zgwsvu5yi = (char)k2SLFe % 1428111815;
 break;
 case 'e':
 case 'E':

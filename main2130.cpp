@@ -618,7 +618,7 @@ else if ((Hw4ElZ48L == Ea1bVP7I7) || ((hEw8xgqrNQ >= DWRZf8) || (iPN8_76g != -20
 {
 if (FY17TXo > NjrOp)
 {
-jx55k = (q5Xv7yK89 < Ea1bVP7I7) ? DWRZf8 : ztfz0Y;
+jx55k = (q5Xv7yK89 < Ea1bVP7I7) ? (short)DWRZf8 : ztfz0Y;
 }
 }
 else

@@ -157,7 +157,7 @@ G7210__y = (int)floor(H9JKFQc6);
 }
 else
 {
-Roq9B_Z0jO = (TZZgLCWkfZ >= ImgZGM0) ? e00yK6 : NyPM;
+Roq9B_Z0jO = (TZZgLCWkfZ >= ImgZGM0) ? (unsigned short)e00yK6 : NyPM;
 }
 }
 else if (u5A9Xd)

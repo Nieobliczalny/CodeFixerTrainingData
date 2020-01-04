@@ -113,7 +113,7 @@ if (W5ymf_B7G5 == -1955886015)
 switch (uF26Ac)
 {
 case 0:
-KoU_6 = (Y_d9IHI > aHBAz) ? A8_Lfz : OAzMn23_;
+KoU_6 = (Y_d9IHI > aHBAz) ? A8_Lfz : (unsigned short)OAzMn23_;
 break;
 case 1:
 cPPr = x9_80 % 750982211;
@@ -131,7 +131,7 @@ case 5:
 x9_80 = BIt3qeuI(x9_80, Jpn2, DJ42v6L4l, TU6tkpW, f9eeUd9Bym);
 break;
 case 6:
-UQSm_ = (w_7xN > -869930302) ? Drh88qA : -1978710243;
+UQSm_ = (w_7xN > -869930302) ? (unsigned short)Drh88qA : -1978710243;
 break;
 case 7:
 DJ42v6L4l = yr9mEReR_(DJ42v6L4l, Lu5Nw0u0, uF26Ac, 1844529516, 584224853);

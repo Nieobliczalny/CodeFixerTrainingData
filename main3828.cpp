@@ -223,7 +223,7 @@ catch (int& errorCode)
 S9i35E = I5vG(-883206302, 37404012);
 }
 
-p10LtX = (pp6JMs426 <= -2024359765) ? C88f : X4Di86b3D;
+p10LtX = (pp6JMs426 <= -2024359765) ? (short)C88f : X4Di86b3D;
 {
 int i = 0;
 do

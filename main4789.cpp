@@ -337,7 +337,7 @@ case 'c':
 fP570E8xA = F0KA2_J1(476901696);
 break;
 case 'd':
-hE3b85 = (FxTpiB5) ? D_s1NF : Pc_w3;
+hE3b85 = (FxTpiB5) ? (unsigned char)D_s1NF : Pc_w3;
 break;
 case 'e':
 zp_t = F0KA2_J1(1848616405);

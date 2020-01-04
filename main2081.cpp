@@ -194,7 +194,7 @@ case 4:
 DR1s = Z3wNdJ_(DR1s);
 break;
 case 5:
-aDziFZ8L4 = (gBg84vV >= ZFe2C) ? mQM91 : ZFe2C;
+aDziFZ8L4 = (gBg84vV >= ZFe2C) ? (unsigned short)mQM91 : ZFe2C;
 break;
 case 6:
 ZFe2C = x08G0dyA & 1913085259;

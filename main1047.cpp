@@ -150,7 +150,7 @@ e6WdS6 |= 800830633;
 }
 else if (e6WdS6)
 {
-Ks07p = (K4Jghu_6 >= q8okI8E) ? (unsigned short)1009422143 : z4jG;
+Ks07p = (K4Jghu_6 >= q8okI8E) ? (unsigned short)1009422143 : (unsigned short)z4jG;
 }
 else if (UTEMzDU == Y2J__N)
 {

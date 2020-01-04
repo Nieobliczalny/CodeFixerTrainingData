@@ -447,7 +447,7 @@ case 5:
 D59fiz_a++;
 break;
 default:
-MNr4Vh6W = (O9lTY1m5K != 736202964) ? ifipn2 : XgVs;
+MNr4Vh6W = (O9lTY1m5K != 736202964) ? ifipn2 : (short)XgVs;
 break;
 }
 

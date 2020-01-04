@@ -405,7 +405,7 @@ fslPeJ8E = X0_BUW((char)-183185422);
 }
 else if (((WyYk < 241426458) && (IrU9 != r977vkDT2)) || ((HmQvd4 > 899293954) || (FkBuV9JFJ)))
 {
-kN_oD3Im = (skakw) ? r977vkDT2 : 891454788;
+kN_oD3Im = (skakw) ? (unsigned short)r977vkDT2 : 891454788;
 }
 else if (k2Poo6_9g > W753J9x)
 {

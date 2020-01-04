@@ -219,7 +219,7 @@ int k = 0;
 while (k < 10)
 {
 k++;
-Rj4a1A1Q = (hy754H) ? H13LL3xz5 : zuaGssjR;
+Rj4a1A1Q = (hy754H) ? (short)H13LL3xz5 : zuaGssjR;
 }
 }
 }

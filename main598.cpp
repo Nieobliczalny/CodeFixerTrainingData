@@ -188,7 +188,7 @@ int k = 10;
 while (k >= 0)
 {
 --k;
-e7BTg = (A7NE7c8) ? G3TaH7M_Xz : sK3rl7YDW;
+e7BTg = (A7NE7c8) ? (unsigned short)G3TaH7M_Xz : sK3rl7YDW;
 }
 }
 }
@@ -446,7 +446,7 @@ case 0:
 x1FIK0V += ZqL5I;
 break;
 case 1:
-oOd562D56 = (AK4C4A40dv == ZqL5I) ? G3TaH7M_Xz : 1358995505;
+oOd562D56 = (AK4C4A40dv == ZqL5I) ? (unsigned short)G3TaH7M_Xz : 1358995505;
 break;
 case 2:
 kWYR = O334B3F << CCI_tZ;
@@ -683,7 +683,7 @@ case 0:
 x1FIK0V |= A02jjTeqDY;
 break;
 case 1:
-kWYR = (qO36pTCOzZ != -896328025) ? G3TaH7M_Xz : 990720176;
+kWYR = (qO36pTCOzZ != -896328025) ? (unsigned short)G3TaH7M_Xz : 990720176;
 break;
 case 2:
 D8u_yj = (r_97SRs > 1707650997) ? -35412131 : e7BTg;

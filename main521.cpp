@@ -230,7 +230,7 @@ case 4:
 ktT9 %= 278783038;
 break;
 case 5:
-XrDLCGqSC = (s7c0f < 475771621) ? oOlwJ7i87l : B4YV8;
+XrDLCGqSC = (s7c0f < 475771621) ? oOlwJ7i87l : (unsigned short)B4YV8;
 break;
 case 6:
 z1q6_ |= S8eZXDz;

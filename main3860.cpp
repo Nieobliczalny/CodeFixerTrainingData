@@ -122,7 +122,7 @@ if (c2sN89r_ <= nmyhz6Y)
 int k = 0;
 while (k < 1)
 {
-QF20Tzn2Gu = (S9Hj_ > 1994608264) ? (unsigned char)-1836965634 : Lei6;
+QF20Tzn2Gu = (S9Hj_ > 1994608264) ? (unsigned char)-1836965634 : (unsigned char)Lei6;
 ++k;
 }
 }

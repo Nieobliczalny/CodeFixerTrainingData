@@ -186,7 +186,7 @@ case 'a':
 A5O_XO = JMy_v(JHNzaosA, kaLuz7_6, ohRh5_B, hFSb2);
 break;
 case 'b':
-hFSb2 = (OG1z <= PK50_P3) ? Tm0nfv : A5O_XO;
+hFSb2 = (OG1z <= PK50_P3) ? (short)Tm0nfv : A5O_XO;
 break;
 case 'c':
 d_VMr68 = s0iFDA3V(1726262459, -2045224655, JHNzaosA, OG1z);
@@ -541,7 +541,7 @@ case 0:
 JHNzaosA = PGf33U35(JHNzaosA, hFSb2, d_VMr68, ohRh5_B);
 break;
 case 1:
-OG1z = (ohRh5_B >= EsDXEwcjCm) ? PK50_P3 : ohRh5_B;
+OG1z = (ohRh5_B >= EsDXEwcjCm) ? (short)PK50_P3 : ohRh5_B;
 break;
 default:
 ohRh5_B = s0iFDA3V(-1027454500, 514025041, -1800109538, -1551393000);

@@ -315,7 +315,7 @@ y8H2 = eK08Ci8BB6(1693388919);
 break;
 case 'c':
 case 'C':
-DH_kD2 = (cu3M25 & Pp8TXZiKsx) ? a37dcQJ : -596684319;
+DH_kD2 = (cu3M25 & Pp8TXZiKsx) ? (short)a37dcQJ : -596684319;
 break;
 case 'd':
 case 'D':

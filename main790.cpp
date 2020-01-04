@@ -207,7 +207,7 @@ case 6:
 MMVmQ--;
 break;
 default:
-dkw_QpY = xST77nbd % 1747411623;
+dkw_QpY = (unsigned char)xST77nbd % 1747411623;
 break;
 }
 

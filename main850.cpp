@@ -429,7 +429,7 @@ case 'd':
 joBCa = (int)floor(deh7p0ewp);
 break;
 case 'e':
-ig8aP2AIl1 = L3PjihNH3 % 403028314;
+ig8aP2AIl1 = (unsigned short)L3PjihNH3 % 403028314;
 break;
 case 'f':
 OBgiga_u *= 1468598792;

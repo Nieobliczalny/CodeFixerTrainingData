@@ -236,7 +236,7 @@ case 'e':
 u2ZN_vC2 = a7np7Y7(1919705149, UEd1xO);
 break;
 case 'f':
-QgKo949 = nr774Stv % 1913467874;
+QgKo949 = (short)nr774Stv % 1913467874;
 break;
 case 'g':
 u2ZN_vC2 = a7np7Y7(-536244359, oXlfp7Y9);

@@ -91,7 +91,7 @@ r2UWsAc9h = (int)abs(hYYr_w);
 }
 else
 {
-D96vLb4ubX = JUxrq_WMk % 1104981520;
+D96vLb4ubX = (char)JUxrq_WMk % 1104981520;
 }
 }
 else if (GyR2JYpV9g < 491851796)

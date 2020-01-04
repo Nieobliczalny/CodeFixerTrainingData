@@ -245,7 +245,7 @@ case 0:
 IjIN_ = (int)abs(H52h7o2eD);
 break;
 case 1:
-F0WC = (w21jP == gogl) ? Tg_0Ram : gogl;
+F0WC = (w21jP == (unsigned short)gogl) ? Tg_0Ram : (unsigned short)gogl;
 break;
 case 2:
 CQZA3 = (int)ceil(K3O51N8I1v);

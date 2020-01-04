@@ -356,7 +356,7 @@ case 4:
 kpff = (int)abs(a4F2BBL);
 break;
 case 5:
-I779 = (m2b90Q9Jx != -656981502) ? U36C_IW9g(CEfxh71R5v, -899983630) : O_X3x;
+I779 = (m2b90Q9Jx != -656981502) ? U36C_IW9g(CEfxh71R5v, -899983630) : (unsigned short)O_X3x;
 break;
 case 6:
 sCuRFQn = (int)abs(lZ_sP);

@@ -241,7 +241,7 @@ x0vg0t8muO = hzB0tggx(x0vg0t8muO, (char)-232885081, 57017484, dUMBdp316, c5Tb93t
 break;
 case 'e':
 case 'E':
-e2NfR8J = (zav55L == NQd7r3) ? (unsigned short)-893253926 : tcN2;
+e2NfR8J = (zav55L == NQd7r3) ? (unsigned short)-893253926 : (unsigned short)tcN2;
 break;
 }
 }

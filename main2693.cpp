@@ -448,7 +448,7 @@ bP3nQ82Vo = (Ned1 > kIDWClcTWG) ? amgeO4q8 : Vj5zcj;
 int i = 5;
 while (i >= 0)
 {
-QE_G5VHwM = (ok7S1hEoI) ? a69JH48C9r : 1901538420;
+QE_G5VHwM = (ok7S1hEoI) ? (short)a69JH48C9r : 1901538420;
 --i;
 }
 }

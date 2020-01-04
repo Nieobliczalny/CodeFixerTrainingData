@@ -569,7 +569,7 @@ if ((VEXAAjo1N) && ((dYOrKf7 >= lVaW6w) || (UXw65 != gIxgB0rr)))
 int j = 0;
 while (j < 8)
 {
-DhXd_q = (BJZM__9Hr == 202574299) ? G0g_LAptl : zKiiq13;
+DhXd_q = (BJZM__9Hr == 202574299) ? (unsigned short)G0g_LAptl : zKiiq13;
 ++j;
 }
 }

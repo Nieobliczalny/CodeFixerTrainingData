@@ -509,7 +509,7 @@ htmjd = (short)(h0pOkbnat6 + (P4k5vzbM));
 }
 else if (((f_hAWWyx9v >= h0pOkbnat6) || (wO9y0kJmC != h0pOkbnat6)) && (qn4Vn29YJ < b3ouz8ur))
 {
-h_05a = (Hpii_z_9E == h0pOkbnat6) ? P4k5vzbM : f_hAWWyx9v;
+h_05a = (Hpii_z_9E == h0pOkbnat6) ? (short)P4k5vzbM : f_hAWWyx9v;
 }
 else
 {

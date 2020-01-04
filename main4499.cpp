@@ -390,7 +390,7 @@ case 5:
 C4fWHjI5XD = n168RCY * X_Ja5NvoX;
 break;
 case 6:
-dzN4YFqTN = Jc_Ma3O716 % 1625719531;
+dzN4YFqTN = (unsigned short)Jc_Ma3O716 % 1625719531;
 break;
 }
 }

@@ -154,7 +154,7 @@ case 3:
 Xw3WrZ7w /= 121495858;
 break;
 case 4:
-bE02w_vC = (ni_6R == wX9F3l) ? Yp_0aNE : -1335949055;
+bE02w_vC = (ni_6R == wX9F3l) ? (unsigned short)Yp_0aNE : -1335949055;
 break;
 case 5:
 xaLu3 = x2KFY_iP % 1697864257;

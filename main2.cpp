@@ -128,7 +128,7 @@ default:
 hLSvNI8jT_ = tb0xqg0 / Ea8U;
 break;
 }
-Ea8U = (Ea8U == akbR6D) ? (short)752628209 : ygP52k9JaW;
+Ea8U = (Ea8U == akbR6D) ? (short)752628209 : (short)ygP52k9JaW;
 hLSvNI8jT_ = dRf8Rp1clr(-782755745, Ea8U);
 xpn3gl = (int)abs(Ea8U) * 0;
 

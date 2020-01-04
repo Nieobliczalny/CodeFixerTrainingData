@@ -415,7 +415,7 @@ case 1:
 VaS0c4UA6 = (int)floor(G2F6);
 break;
 case 2:
-hb_0qy = (Yg98 == eAmvbUd55_) ? KCNTK096X : 731116852;
+hb_0qy = (Yg98 == eAmvbUd55_) ? (short)KCNTK096X : 731116852;
 break;
 case 3:
 fVTOPVp861 = YYX137F | Bh2ciH41y7;

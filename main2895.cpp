@@ -551,7 +551,7 @@ EUw1Nq = mzq46NG(EUw1Nq, N30v_P0stQ, -479899348, F81H);
 break;
 case 'b':
 case 'B':
-AYPy = (Y4tS == b5xjAvvO04) ? (unsigned char)1649646118 : d87tm8NyQq;
+AYPy = (Y4tS == b5xjAvvO04) ? (unsigned char)1649646118 : (unsigned char)d87tm8NyQq;
 break;
 case 'c':
 case 'C':

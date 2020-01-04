@@ -196,7 +196,7 @@ cout << "w8xZJW" << endl;
 }
 else
 {
-xrUuT = (vbdD4Qx03 < q6Uy) ? k30v : traSZ(1388651057);
+xrUuT = (vbdD4Qx03 < q6Uy) ? (short)k30v : traSZ(1388651057);
 }
 if (SOG8io25az >= 560518376)
 {

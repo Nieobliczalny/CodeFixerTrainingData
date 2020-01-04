@@ -355,7 +355,7 @@ case 'h':
 QaM4WPTv = (int)ceil(YTac5);
 break;
 case 'i':
-bo9TFTg = (z9I8) ? I0q7 : eT73CI9;
+bo9TFTg = (z9I8) ? (unsigned short)I0q7 : eT73CI9;
 break;
 case 'j':
 s1hk1 = (int)abs(obaBoMu57i);

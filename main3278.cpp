@@ -176,7 +176,7 @@ else
 {
 try
 {
-yiZgKEGy = (Epm3_5h < -1890712547) ? fs9zDv : dhFT;
+yiZgKEGy = (Epm3_5h < -1890712547) ? (unsigned char)fs9zDv : dhFT;
 }
 catch (int& errorCode)
 {

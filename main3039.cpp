@@ -739,7 +739,7 @@ int k = 4;
 do
 {
 --k;
-Ma54GKN = (UdvknYvqu & lKeN) ? zF7diF_8E7 : Pu5A();
+Ma54GKN = (UdvknYvqu & lKeN) ? (char)zF7diF_8E7 : Pu5A();
 }
 while (k >= 0);
 }

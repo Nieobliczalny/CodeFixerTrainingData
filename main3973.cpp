@@ -276,7 +276,7 @@ else if (vR2xy_ > DIZ69v8__)
 {
 try
 {
-NQdi = (TV3rR & 1762160212) ? fGQd : bp619h61;
+NQdi = (TV3rR & 1762160212) ? (char)fGQd : bp619h61;
 }
 catch (int& errorCode)
 {
